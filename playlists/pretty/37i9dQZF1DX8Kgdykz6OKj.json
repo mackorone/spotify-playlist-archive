@@ -1,6 +1,6 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1536496,
+  "num_followers": 1536786,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
@@ -507,38 +507,6 @@
     {
       "added_at": "2025-11-14 15:58:21",
       "album": {
-        "name": "Yesterday",
-        "url": "https://open.spotify.com/album/2VZolgD2RKzb5F4gSNkx1Y"
-      },
-      "artists": [
-        {
-          "name": "Loyle Carner",
-          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
-        }
-      ],
-      "duration_ms": 168654,
-      "name": "Yesterday",
-      "url": "https://open.spotify.com/track/0pRyOQjr12h9RBEFmhbTQc"
-    },
-    {
-      "added_at": "2025-11-14 15:58:21",
-      "album": {
-        "name": "vitamins n minerals",
-        "url": "https://open.spotify.com/album/5cg0UpSJLtYi9Ehy49tzy0"
-      },
-      "artists": [
-        {
-          "name": "Samara Cyn",
-          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
-        }
-      ],
-      "duration_ms": 150312,
-      "name": "vitamins n minerals",
-      "url": "https://open.spotify.com/track/67Z4kW9iuiiSIl5UnodaKr"
-    },
-    {
-      "added_at": "2025-11-14 15:58:21",
-      "album": {
         "name": "Jazzmatazz Volume II: The New Reality",
         "url": "https://open.spotify.com/album/5xfPV8byJVCmeqe1LeVFqz"
       },
@@ -559,6 +527,38 @@
       "duration_ms": 237733,
       "name": "Feel The Music",
       "url": "https://open.spotify.com/track/77QvKUhVeyPVVHGFRgAmQd"
+    },
+    {
+      "added_at": "2025-11-14 15:58:21",
+      "album": {
+        "name": "vitamins n minerals",
+        "url": "https://open.spotify.com/album/5cg0UpSJLtYi9Ehy49tzy0"
+      },
+      "artists": [
+        {
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+        }
+      ],
+      "duration_ms": 150312,
+      "name": "vitamins n minerals",
+      "url": "https://open.spotify.com/track/67Z4kW9iuiiSIl5UnodaKr"
+    },
+    {
+      "added_at": "2025-11-14 15:58:21",
+      "album": {
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/2VZolgD2RKzb5F4gSNkx1Y"
+      },
+      "artists": [
+        {
+          "name": "Loyle Carner",
+          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
+        }
+      ],
+      "duration_ms": 168654,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/0pRyOQjr12h9RBEFmhbTQc"
     },
     {
       "added_at": "2025-11-14 15:58:21",
@@ -959,30 +959,18 @@
     {
       "added_at": "2025-11-14 15:58:21",
       "album": {
-        "name": "COLLECTION PLATES (feat. Young Chris)",
-        "url": "https://open.spotify.com/album/5QVcCcyJJVeH1qiw5maq1Z"
+        "name": "Samurai",
+        "url": "https://open.spotify.com/album/1xG63QNNCiQvy0PERgfpaH"
       },
       "artists": [
         {
-          "name": "Ransom",
-          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
-        },
-        {
-          "name": "Boldy James",
-          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
-        },
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        },
-        {
-          "name": "Young Chris",
-          "url": "https://open.spotify.com/artist/5IYKSQZErXLpHp74EIIHp1"
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
         }
       ],
-      "duration_ms": 270604,
-      "name": "COLLECTION PLATES (feat. Young Chris)",
-      "url": "https://open.spotify.com/track/2yMsHFOcZy9m7Tcjc0gaer"
+      "duration_ms": 194786,
+      "name": "Samurai",
+      "url": "https://open.spotify.com/track/00LGJRRqN4AtSpHrvjIyiJ"
     },
     {
       "added_at": "2025-11-14 15:58:21",
@@ -1011,18 +999,30 @@
     {
       "added_at": "2025-11-14 15:58:21",
       "album": {
-        "name": "Samurai",
-        "url": "https://open.spotify.com/album/1xG63QNNCiQvy0PERgfpaH"
+        "name": "COLLECTION PLATES (feat. Young Chris)",
+        "url": "https://open.spotify.com/album/5QVcCcyJJVeH1qiw5maq1Z"
       },
       "artists": [
         {
-          "name": "Lupe Fiasco",
-          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+          "name": "Ransom",
+          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
+        },
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Young Chris",
+          "url": "https://open.spotify.com/artist/5IYKSQZErXLpHp74EIIHp1"
         }
       ],
-      "duration_ms": 194786,
-      "name": "Samurai",
-      "url": "https://open.spotify.com/track/00LGJRRqN4AtSpHrvjIyiJ"
+      "duration_ms": 270604,
+      "name": "COLLECTION PLATES (feat. Young Chris)",
+      "url": "https://open.spotify.com/track/2yMsHFOcZy9m7Tcjc0gaer"
     },
     {
       "added_at": "2025-11-14 15:58:21",
@@ -1123,26 +1123,18 @@
     {
       "added_at": "2025-11-14 15:58:21",
       "album": {
-        "name": "LIVE-ACTION",
-        "url": "https://open.spotify.com/album/6KpA380vLBVA6d6lYebIk3"
+        "name": "Drive Slow",
+        "url": "https://open.spotify.com/album/69O3UUTrlNmJYCd9jxJ4cv"
       },
       "artists": [
         {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy"
-        },
-        {
-          "name": "Marquis Hill",
-          "url": "https://open.spotify.com/artist/5QI54xb4Ovm8DwDkmmHbez"
-        },
-        {
-          "name": "JSWISS",
-          "url": "https://open.spotify.com/artist/4Gvi0aCKhLNHWzHnhvV1e4"
+          "name": "Nix Northwest",
+          "url": "https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt"
         }
       ],
-      "duration_ms": 202270,
-      "name": "UNDEFEATED",
-      "url": "https://open.spotify.com/track/5fwKEMTyS0FqLk7KVdGQwl"
+      "duration_ms": 221333,
+      "name": "Drive Slow",
+      "url": "https://open.spotify.com/track/1is1QB3ElS0UlaEYpIHyo0"
     },
     {
       "added_at": "2025-11-14 15:58:21",
@@ -1171,18 +1163,26 @@
     {
       "added_at": "2025-11-14 15:58:21",
       "album": {
-        "name": "Drive Slow",
-        "url": "https://open.spotify.com/album/69O3UUTrlNmJYCd9jxJ4cv"
+        "name": "LIVE-ACTION",
+        "url": "https://open.spotify.com/album/6KpA380vLBVA6d6lYebIk3"
       },
       "artists": [
         {
-          "name": "Nix Northwest",
-          "url": "https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt"
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy"
+        },
+        {
+          "name": "Marquis Hill",
+          "url": "https://open.spotify.com/artist/5QI54xb4Ovm8DwDkmmHbez"
+        },
+        {
+          "name": "JSWISS",
+          "url": "https://open.spotify.com/artist/4Gvi0aCKhLNHWzHnhvV1e4"
         }
       ],
-      "duration_ms": 221333,
-      "name": "Drive Slow",
-      "url": "https://open.spotify.com/track/1is1QB3ElS0UlaEYpIHyo0"
+      "duration_ms": 202270,
+      "name": "UNDEFEATED",
+      "url": "https://open.spotify.com/track/5fwKEMTyS0FqLk7KVdGQwl"
     },
     {
       "added_at": "2025-11-14 15:58:21",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2025-11-14 15:58:21",
       "album": {
+        "name": "Stories From The Brass Section",
+        "url": "https://open.spotify.com/album/0rmatVtakgyBlagEsfR8mi"
+      },
+      "artists": [
+        {
+          "name": "Anti Lilly & Phoniks",
+          "url": "https://open.spotify.com/artist/71MaDLIywcEKpXNGCnUlBe"
+        }
+      ],
+      "duration_ms": 200829,
+      "name": "Blue In Green",
+      "url": "https://open.spotify.com/track/3oNn2Qg40BPekTa4zxpSp2"
+    },
+    {
+      "added_at": "2025-11-14 15:58:21",
+      "album": {
         "name": "Runnin",
         "url": "https://open.spotify.com/album/5vHnvp5Gb7nnk5fBOxyFTE"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 204610,
       "name": "Runnin",
       "url": "https://open.spotify.com/track/5nOnkyjbiIfAyUvBSJv6LG"
-    },
-    {
-      "added_at": "2025-11-14 15:58:21",
-      "album": {
-        "name": "Stories From The Brass Section",
-        "url": "https://open.spotify.com/album/0rmatVtakgyBlagEsfR8mi"
-      },
-      "artists": [
-        {
-          "name": "Anti Lilly & Phoniks",
-          "url": "https://open.spotify.com/artist/71MaDLIywcEKpXNGCnUlBe"
-        }
-      ],
-      "duration_ms": 200829,
-      "name": "Blue In Green",
-      "url": "https://open.spotify.com/track/3oNn2Qg40BPekTa4zxpSp2"
     },
     {
       "added_at": "2025-11-14 15:58:21",

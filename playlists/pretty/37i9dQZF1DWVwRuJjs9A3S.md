@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > Det senaste och bästa från världen av indie, med Albin Lee Meldau & Arvid Nero .
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,161 likes - 205 songs - 12 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,177 likes - 205 songs - 12 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

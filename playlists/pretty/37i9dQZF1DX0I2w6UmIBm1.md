@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0I2w6UmIBm1.md) - [plain]
 
 > Uplift your spirit with these faith\-filled folk melodies\. Cover: Amanda Nolan
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,097 likes - 80 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,240 likes - 80 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0I2w6UmIBm1.md) - [plain]
 | 79 | [take me up](https://open.spotify.com/track/08FabaAEFMOUHU0LROM95K) | [zachy](https://open.spotify.com/artist/7MWQhu1TA9OE4Lps563bN4) | [take me up](https://open.spotify.com/album/6LeWwKA2yk89fLHHP7Bsug) | 2:56 |
 | 80 | [For Your Glory](https://open.spotify.com/track/0NOlyAgdrlf2qqa6RDE56W) | [Caleb King](https://open.spotify.com/artist/0gqn0LqsZGIUUILzA2cXmy) | [For Your Glory](https://open.spotify.com/album/0OW0ANECV9MUIUt2FEwspQ) | 3:40 |
 
-Snapshot ID: `AAAAAM52gYihU7d5+zkPBMONPpHCdndi`
+Snapshot ID: `AAAAAGgFUlcWs3HsmWtJEDPuQdYN+4kn`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25rXbO.md) - [plain]
 
 > This is Gorillaz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,213,412 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,213,558 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25rXbO.md) - [plain]
 | 49 | [Busted and Blue](https://open.spotify.com/track/04zxGiXcmNQ0m9oDXtwo18) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Humanz \(Deluxe\)](https://open.spotify.com/album/0NvirtaDCaZU5PAW1O5FDE) | 4:37 |
 | 50 | [We Got the Power \(feat\. Jehnny Beth\) \- Claptone Remix](https://open.spotify.com/track/68JZIPnGZxbExNeSb6KslW) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Jehnny Beth](https://open.spotify.com/artist/2WOMBqEsllg2ICn7D2L8ta), [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [We Got the Power \(feat\. Jehnny Beth\) \[Claptone Remix\]](https://open.spotify.com/album/06RqqeArD7wnwaNBZrY71a) | 6:04 |
 
-Snapshot ID: `aRZxAAAAAABce2eTI6G0PHV0w/T1iY9D`
+Snapshot ID: `aRfCgAAAAAAWzSx+kqqMf3J1Mq7ds2FM`

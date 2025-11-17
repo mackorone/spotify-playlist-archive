@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gF44XuldB9.md) - [plain]
 
 > live, laugh, love, curated by su, i think: I made this playlist because I love to laugh and giggle and rock out and vlog and smile.
 
-[Spotify](https://open.spotify.com/user/spotify) - 248 likes - 51 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 251 likes - 51 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -533,6 +533,24 @@
     },
     {
       "album": {
+        "name": "Better Than Gold",
+        "url": "https://open.spotify.com/album/2OQuzRB0nbLgIgqjh4weAc"
+      },
+      "artists": [
+        {
+          "name": " Haynes",
+          "url": "https://open.spotify.com/artist/5rcxSuvYdaLNrDFuTEF3fb"
+        }
+      ],
+      "date_added": "2025-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "Better Than Gold",
+      "url": "https://open.spotify.com/track/2atkylYaq7ogez2mzHUL2Z"
+    },
+    {
+      "album": {
         "name": "Between Garden and Glory",
         "url": "https://open.spotify.com/album/1DQrVH9FevzD9EkqDDYM6B"
       },
@@ -6645,6 +6663,24 @@
     },
     {
       "album": {
+        "name": "superbloom (Acoustic)",
+        "url": "https://open.spotify.com/album/2YfNOmiriEXVBMjDx501Tc"
+      },
+      "artists": [
+        {
+          "name": "Vito Vasquez",
+          "url": "https://open.spotify.com/artist/6X77ZznZkcQj4vcIEwYRM5"
+        }
+      ],
+      "date_added": "2025-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161632,
+      "name": "superbloom - Acoustic",
+      "url": "https://open.spotify.com/track/0sUj4GFs3WP6g8aNKx5roi"
+    },
+    {
+      "album": {
         "name": "Surprise",
         "url": "https://open.spotify.com/album/5JEELfVybvnrXxwfsN57kg"
       },
@@ -6848,7 +6884,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-26",
+      "date_removed": null,
       "duration_ms": 202664,
       "name": "The Fence",
       "url": "https://open.spotify.com/track/0Zm5s1se6F6ns4y9s3JLxl"
@@ -7479,6 +7515,24 @@
     },
     {
       "album": {
+        "name": "The Trinity Acoustic Sessions, Vol. 3 (Reawaken Hymns)",
+        "url": "https://open.spotify.com/album/7nobJBpBLI2lZVHeBGKTKZ"
+      },
+      "artists": [
+        {
+          "name": "Nathan Drake",
+          "url": "https://open.spotify.com/artist/6GqRs6YKqlKv8nlGAAnKwr"
+        }
+      ],
+      "date_added": "2025-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "What A Friend We Have In Jesus - Acoustic",
+      "url": "https://open.spotify.com/track/4MwBgUEdwy17nlrKu2EXEE"
+    },
+    {
+      "album": {
         "name": "Sometimes",
         "url": "https://open.spotify.com/album/0OP6EXNM6ffaHVVPw8TEok"
       },
@@ -7768,7 +7822,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-26",
+      "date_removed": null,
       "duration_ms": 170832,
       "name": "With Me - Live At Big Fish Recording Studio",
       "url": "https://open.spotify.com/track/30RB1B3GEZFSzrdrF4h8Pt"

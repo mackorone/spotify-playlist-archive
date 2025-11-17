@@ -1,6 +1,6 @@
 {
   "description": "A collection of timeless queer love songs. ",
-  "num_followers": 18775,
+  "num_followers": 18781,
   "original_name": "Queer Love: Classics",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2024-03-18 21:57:33",
       "album": {
-        "name": "Heartthrob",
-        "url": "https://open.spotify.com/album/5IUJ6v408Z7pECC3BXUJxX"
-      },
-      "artists": [
-        {
-          "name": "Tegan and Sara",
-          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
-        }
-      ],
-      "duration_ms": 210213,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/4dTVgHZFPlaq9nPbLVVLSG"
-    },
-    {
-      "added_at": "2024-03-18 21:57:33",
-      "album": {
         "name": "Yes I Am",
         "url": "https://open.spotify.com/album/1qzfqlEyzPD0VyCcSSQwZD"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 236000,
       "name": "Come To My Window",
       "url": "https://open.spotify.com/track/4LmlGaGTEbTGE5VngAbpA3"
+    },
+    {
+      "added_at": "2024-03-18 21:57:33",
+      "album": {
+        "name": "Heartthrob",
+        "url": "https://open.spotify.com/album/5IUJ6v408Z7pECC3BXUJxX"
+      },
+      "artists": [
+        {
+          "name": "Tegan and Sara",
+          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
+        }
+      ],
+      "duration_ms": 210213,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/4dTVgHZFPlaq9nPbLVVLSG"
     },
     {
       "added_at": "2024-03-18 21:57:33",

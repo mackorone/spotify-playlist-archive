@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Pasad\u00eda y sabrosura!",
-  "num_followers": 42788,
+  "num_followers": 42812,
   "original_name": "\u00c9xitos de Balneario",
   "owner": {
     "name": "Spotify",
@@ -303,42 +303,6 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "\u00c9xitos Armando Hern\u00e1ndez",
-        "url": "https://open.spotify.com/album/6kYrAOmvOl0sr7AALZRr6f"
-      },
-      "artists": [
-        {
-          "name": "Armando Hernandez",
-          "url": "https://open.spotify.com/artist/5f5z4wggh1hbr6Dg0BnoCe"
-        },
-        {
-          "name": "El Combo Caribe",
-          "url": "https://open.spotify.com/artist/1uiEaU2CF0ypsPwXXYrm7V"
-        }
-      ],
-      "duration_ms": 287459,
-      "name": "Loquito por Ti",
-      "url": "https://open.spotify.com/track/5pLDHytVHRM7eXnOy6zHM7"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
-        "name": "Sin Medir Distancia",
-        "url": "https://open.spotify.com/album/2zu3zhuorKNMUQCOtkgyyq"
-      },
-      "artists": [
-        {
-          "name": "Rikarena",
-          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
-        }
-      ],
-      "duration_ms": 279266,
-      "name": "Era Mentira",
-      "url": "https://open.spotify.com/track/5HsglGvMFQvP0wEupHBRV3"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
         "name": "Fruko el Grande",
         "url": "https://open.spotify.com/album/4VwcUaZ0yWCHp9hEDue09C"
       },
@@ -359,6 +323,42 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
+        "name": "Sin Medir Distancia",
+        "url": "https://open.spotify.com/album/2zu3zhuorKNMUQCOtkgyyq"
+      },
+      "artists": [
+        {
+          "name": "Rikarena",
+          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
+        }
+      ],
+      "duration_ms": 279266,
+      "name": "Era Mentira",
+      "url": "https://open.spotify.com/track/5HsglGvMFQvP0wEupHBRV3"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
+        "name": "\u00c9xitos Armando Hern\u00e1ndez",
+        "url": "https://open.spotify.com/album/6kYrAOmvOl0sr7AALZRr6f"
+      },
+      "artists": [
+        {
+          "name": "Armando Hernandez",
+          "url": "https://open.spotify.com/artist/5f5z4wggh1hbr6Dg0BnoCe"
+        },
+        {
+          "name": "El Combo Caribe",
+          "url": "https://open.spotify.com/artist/1uiEaU2CF0ypsPwXXYrm7V"
+        }
+      ],
+      "duration_ms": 287459,
+      "name": "Loquito por Ti",
+      "url": "https://open.spotify.com/track/5pLDHytVHRM7eXnOy6zHM7"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
         "name": "Amor Amor",
         "url": "https://open.spotify.com/album/5q4Qvt66KtNmpJGbutOGVE"
       },
@@ -375,22 +375,6 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Som No Talo",
-        "url": "https://open.spotify.com/album/7vmK77PL6WhlC2oIDJiFR2"
-      },
-      "artists": [
-        {
-          "name": "Ra\u00ed Saia Rodada",
-          "url": "https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz"
-        }
-      ],
-      "duration_ms": 175046,
-      "name": "Tap\u00e3o Na Raba",
-      "url": "https://open.spotify.com/track/58pgi1RpcU2fVJsxhm7BIr"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
         "name": "Rebotando",
         "url": "https://open.spotify.com/album/5aAR4JhNb2bA0r6uPHlhYz"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 263493,
       "name": "El Taqui Taqui - Original Mix",
       "url": "https://open.spotify.com/track/20jvgYvnqySWnNCsHQZnXk"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
+        "name": "Som No Talo",
+        "url": "https://open.spotify.com/album/7vmK77PL6WhlC2oIDJiFR2"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00ed Saia Rodada",
+          "url": "https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz"
+        }
+      ],
+      "duration_ms": 175046,
+      "name": "Tap\u00e3o Na Raba",
+      "url": "https://open.spotify.com/track/58pgi1RpcU2fVJsxhm7BIr"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -535,26 +535,6 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Senta Danada",
-        "url": "https://open.spotify.com/album/2TRZBuqL2MPnCuUEPUzq4Y"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Felipe",
-          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
-        },
-        {
-          "name": "Os Bar\u00f5es Da Pisadinha",
-          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
-        }
-      ],
-      "duration_ms": 172621,
-      "name": "Senta Danada",
-      "url": "https://open.spotify.com/track/2R9IrE42Mw4zdUXAEFNiZL"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
         "name": "Nelson Henr\u00edquez vs. Pastor L\u00f3pez",
         "url": "https://open.spotify.com/album/4dniAe3ER3NCfMl60ByGaW"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 248373,
       "name": "Mentirosa",
       "url": "https://open.spotify.com/track/3KTfwLP1ohmZNPLGbWxcjb"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
+        "name": "Senta Danada",
+        "url": "https://open.spotify.com/album/2TRZBuqL2MPnCuUEPUzq4Y"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Felipe",
+          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
+        },
+        {
+          "name": "Os Bar\u00f5es Da Pisadinha",
+          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
+        }
+      ],
+      "duration_ms": 172621,
+      "name": "Senta Danada",
+      "url": "https://open.spotify.com/track/2R9IrE42Mw4zdUXAEFNiZL"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -603,26 +603,6 @@
       "duration_ms": 264800,
       "name": "Te Voy Hacer Falta",
       "url": "https://open.spotify.com/track/4KU0EUeD26y6PUGiHGjGBz"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
-        "name": "Muy Tropical y Bailable",
-        "url": "https://open.spotify.com/album/4FTPpblS9F4DOT7o46A9cU"
-      },
-      "artists": [
-        {
-          "name": "Rodolfo Aicardi",
-          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
-        },
-        {
-          "name": "La Tipica Ra7",
-          "url": "https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG"
-        }
-      ],
-      "duration_ms": 220354,
-      "name": "Ojitos Hechiceros",
-      "url": "https://open.spotify.com/track/6ACbgxx9BXs64G1aWVXJOV"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -663,6 +643,26 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
+        "name": "Muy Tropical y Bailable",
+        "url": "https://open.spotify.com/album/4FTPpblS9F4DOT7o46A9cU"
+      },
+      "artists": [
+        {
+          "name": "Rodolfo Aicardi",
+          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
+        },
+        {
+          "name": "La Tipica Ra7",
+          "url": "https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG"
+        }
+      ],
+      "duration_ms": 220354,
+      "name": "Ojitos Hechiceros",
+      "url": "https://open.spotify.com/track/6ACbgxx9BXs64G1aWVXJOV"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
         "name": "Mentirosa",
         "url": "https://open.spotify.com/album/1WfKKkx38gcIJrdekcDwO4"
       },
@@ -675,6 +675,22 @@
       "duration_ms": 231183,
       "name": "Noches de Fantasia",
       "url": "https://open.spotify.com/track/3PeQq6jHoOXcEi3OjDO6xu"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
+        "name": "Exitos De Billo's Caracas Boys",
+        "url": "https://open.spotify.com/album/0NjbROu91EHfCSwebjtU8n"
+      },
+      "artists": [
+        {
+          "name": "Billo's Caracas Boys",
+          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
+        }
+      ],
+      "duration_ms": 183228,
+      "name": "Cumbia Caletera",
+      "url": "https://open.spotify.com/track/5t1feZXRvi9xSFNEEMuboe"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -699,42 +715,6 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Historia Musical de Rodolfo Con los Hispanos: 40 \u00c9xitos Inolvidables",
-        "url": "https://open.spotify.com/album/4iAoJku3znCzfRb0yEGp7y"
-      },
-      "artists": [
-        {
-          "name": "Rodolfo Aicardi",
-          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
-        },
-        {
-          "name": "Los Hispanos",
-          "url": "https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h"
-        }
-      ],
-      "duration_ms": 202673,
-      "name": "Boquita de Caramelo",
-      "url": "https://open.spotify.com/track/5Q9DJQU4WMNw3BX6DAXMAz"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
-        "name": "Exitos De Billo's Caracas Boys",
-        "url": "https://open.spotify.com/album/0NjbROu91EHfCSwebjtU8n"
-      },
-      "artists": [
-        {
-          "name": "Billo's Caracas Boys",
-          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
-        }
-      ],
-      "duration_ms": 183228,
-      "name": "Cumbia Caletera",
-      "url": "https://open.spotify.com/track/5t1feZXRvi9xSFNEEMuboe"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
         "name": "\u00c9xitos Armando Hern\u00e1ndez",
         "url": "https://open.spotify.com/album/6kYrAOmvOl0sr7AALZRr6f"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 268230,
       "name": "La Zenaida",
       "url": "https://open.spotify.com/track/35qh3wezE1lfdObTQpJV7C"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
+        "name": "Historia Musical de Rodolfo Con los Hispanos: 40 \u00c9xitos Inolvidables",
+        "url": "https://open.spotify.com/album/4iAoJku3znCzfRb0yEGp7y"
+      },
+      "artists": [
+        {
+          "name": "Rodolfo Aicardi",
+          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
+        },
+        {
+          "name": "Los Hispanos",
+          "url": "https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h"
+        }
+      ],
+      "duration_ms": 202673,
+      "name": "Boquita de Caramelo",
+      "url": "https://open.spotify.com/track/5Q9DJQU4WMNw3BX6DAXMAz"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -807,6 +807,22 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
+        "name": "Colecci\u00f3n De Oro",
+        "url": "https://open.spotify.com/album/6KSLiEl48G935lj6cW4NJ0"
+      },
+      "artists": [
+        {
+          "name": "Pecos Kanvas",
+          "url": "https://open.spotify.com/artist/2pg6yxVpoNN8yJSKHUgRw8"
+        }
+      ],
+      "duration_ms": 256920,
+      "name": "Mar Y Luna",
+      "url": "https://open.spotify.com/track/49Es10LfY1GL6sCw2BrMah"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
         "name": "Muy Tropical y Bailable",
         "url": "https://open.spotify.com/album/4FTPpblS9F4DOT7o46A9cU"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 242918,
       "name": "Tabaco y Ron",
       "url": "https://open.spotify.com/track/0yR6g8tt0IzisAPcizD4xz"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
-        "name": "Colecci\u00f3n De Oro",
-        "url": "https://open.spotify.com/album/6KSLiEl48G935lj6cW4NJ0"
-      },
-      "artists": [
-        {
-          "name": "Pecos Kanvas",
-          "url": "https://open.spotify.com/artist/2pg6yxVpoNN8yJSKHUgRw8"
-        }
-      ],
-      "duration_ms": 256920,
-      "name": "Mar Y Luna",
-      "url": "https://open.spotify.com/track/49Es10LfY1GL6sCw2BrMah"
     },
     {
       "added_at": "2024-07-12 23:11:55",

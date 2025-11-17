@@ -1,6 +1,6 @@
 {
   "description": "Las canciones que marcaron una \u00e9poca.",
-  "num_followers": 51062,
+  "num_followers": 51069,
   "original_name": "Los 2010 Argentina",
   "owner": {
     "name": "Spotify",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
-        "name": "\u00c9rase",
-        "url": "https://open.spotify.com/album/4Dq5ueH8qdZRDx5TvdTCpy"
-      },
-      "artists": [
-        {
-          "name": "La Vela Puerca",
-          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
-        }
-      ],
-      "duration_ms": 195240,
-      "name": "Ves",
-      "url": "https://open.spotify.com/track/0KWQev3eatMHcrGU8MhTnn"
-    },
-    {
-      "added_at": "2024-06-12 22:23:25",
-      "album": {
         "name": "Y la Banda Sigue",
         "url": "https://open.spotify.com/album/2025IlqtTWDI90ejSXEulm"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 210594,
       "name": "Y la Banda Sigue",
       "url": "https://open.spotify.com/track/1fHYfXMXkhrWd9dzIOharS"
+    },
+    {
+      "added_at": "2024-06-12 22:23:25",
+      "album": {
+        "name": "\u00c9rase",
+        "url": "https://open.spotify.com/album/4Dq5ueH8qdZRDx5TvdTCpy"
+      },
+      "artists": [
+        {
+          "name": "La Vela Puerca",
+          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
+        }
+      ],
+      "duration_ms": 195240,
+      "name": "Ves",
+      "url": "https://open.spotify.com/track/0KWQev3eatMHcrGU8MhTnn"
     },
     {
       "added_at": "2024-06-12 22:23:25",
@@ -883,6 +883,22 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
+        "name": "Las Antenas",
+        "url": "https://open.spotify.com/album/3x1cxDEbdkgGejry2pwyTz"
+      },
+      "artists": [
+        {
+          "name": "Estelares",
+          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
+        }
+      ],
+      "duration_ms": 273240,
+      "name": "Alas Rotas",
+      "url": "https://open.spotify.com/track/2oSSdWH52JwRKbGgkZkk83"
+    },
+    {
+      "added_at": "2024-06-12 22:23:25",
+      "album": {
         "name": "Destilar",
         "url": "https://open.spotify.com/album/0RpJ96qNoqzpjvh0xrPdrh"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 260523,
       "name": "La Luna de Neuqu\u00e9n",
       "url": "https://open.spotify.com/track/6ZznUaja8PfIbU7UPUJrj4"
-    },
-    {
-      "added_at": "2024-06-12 22:23:25",
-      "album": {
-        "name": "Las Antenas",
-        "url": "https://open.spotify.com/album/3x1cxDEbdkgGejry2pwyTz"
-      },
-      "artists": [
-        {
-          "name": "Estelares",
-          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
-        }
-      ],
-      "duration_ms": 273240,
-      "name": "Alas Rotas",
-      "url": "https://open.spotify.com/track/2oSSdWH52JwRKbGgkZkk83"
     },
     {
       "added_at": "2024-06-12 22:23:25",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
-        "name": "Pu\u00f1al",
-        "url": "https://open.spotify.com/album/2g6dGngFLZpfAigXheqNiI"
-      },
-      "artists": [
-        {
-          "name": "Dante Spinetta",
-          "url": "https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC"
-        }
-      ],
-      "duration_ms": 218671,
-      "name": "Soltar",
-      "url": "https://open.spotify.com/track/7jVYyduhdu9cOGIISdxgVq"
-    },
-    {
-      "added_at": "2024-06-12 22:23:25",
-      "album": {
         "name": "Prender un Fuego",
         "url": "https://open.spotify.com/album/3QgG3SuMTWMIsxwzdu7vN3"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 196072,
       "name": "La Casa de A",
       "url": "https://open.spotify.com/track/6xtphuj19xftkTUHDZ4sFH"
+    },
+    {
+      "added_at": "2024-06-12 22:23:25",
+      "album": {
+        "name": "Pu\u00f1al",
+        "url": "https://open.spotify.com/album/2g6dGngFLZpfAigXheqNiI"
+      },
+      "artists": [
+        {
+          "name": "Dante Spinetta",
+          "url": "https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC"
+        }
+      ],
+      "duration_ms": 218671,
+      "name": "Soltar",
+      "url": "https://open.spotify.com/track/7jVYyduhdu9cOGIISdxgVq"
     },
     {
       "added_at": "2024-06-12 22:23:25",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
-        "name": "Hasta el Final",
-        "url": "https://open.spotify.com/album/5FDw24rKn2nDmcuYYCVuQJ"
-      },
-      "artists": [
-        {
-          "name": "Guasones",
-          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
-        }
-      ],
-      "duration_ms": 306419,
-      "name": "Canci\u00f3n para un Amigo",
-      "url": "https://open.spotify.com/track/3WLY1xa2Izcof8CNaFK8QS"
-    },
-    {
-      "added_at": "2024-06-12 22:23:25",
-      "album": {
         "name": "Los Esp\u00edritus",
         "url": "https://open.spotify.com/album/3jIrLCi1YnbMJHybfNExxS"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 299880,
       "name": "Noches De Verano",
       "url": "https://open.spotify.com/track/5sFEbn2q1dI0xO06BKkcH1"
+    },
+    {
+      "added_at": "2024-06-12 22:23:25",
+      "album": {
+        "name": "Las Lunas",
+        "url": "https://open.spotify.com/album/4iCgdNm7iU0GDegH0hEnVJ"
+      },
+      "artists": [
+        {
+          "name": "Estelares",
+          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
+        }
+      ],
+      "duration_ms": 223692,
+      "name": "R\u00edos de Lava",
+      "url": "https://open.spotify.com/track/1LclQTL1W61TRCesAJzRJB"
     }
   ],
   "unique_name": "Los 2010 Argentina",

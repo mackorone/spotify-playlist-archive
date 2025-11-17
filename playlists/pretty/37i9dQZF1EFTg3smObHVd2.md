@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTg3smObHVd2.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2WIAmGdvEpT3tP6sPn2Fxg">Autumn Rowe</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 343 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 342 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTg3smObHVd2.md) - [plain]
 | 72 | [K.I.S.S.](https://open.spotify.com/track/0JybtN2NzEPuOO4kfO0Vtr) | [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [K.I.S.S\. \(Keep It Sexy & Simple\)](https://open.spotify.com/album/3pQkFScrWZMYZLT5dceCDA) | 3:53 |
 | 73 | [Copy Cat](https://open.spotify.com/track/6tpB37tRaxknycR6H8eZSF) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW), [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [Skreamizm \(Vol\. 7\)](https://open.spotify.com/album/39p56lfVsxR1pnTK8BVLjS) | 3:50 |
 | 74 | [Faller](https://open.spotify.com/track/4r8rbfAPNPgruiLZ5gIHqQ) | [EHI](https://open.spotify.com/artist/7MlrqHRXsNIKRC17Dv5a0v), [Blen](https://open.spotify.com/artist/6xRxLNPuTgJ56RyCRk1dB7) | [Toni Braxton](https://open.spotify.com/album/2BcHVk4npO1TxL74JEd9Gj) | 3:36 |
-| 75 | [Reflections](https://open.spotify.com/track/1PXwnQuyIq5KipnXdh5BCf) | [Zank](https://open.spotify.com/artist/6xI9Q6HuhHUxiYhcRdeHKN) | [Reflections](https://open.spotify.com/album/6PVTGF1RVKqt3tFzm9B35D) | 3:12 |
-| 76 | [ONE](https://open.spotify.com/track/1cHPuNybXYunaoRttk3dgJ) | [JASMINE](https://open.spotify.com/artist/76sRRqpyFhBYjdimBWjmfg) | [Complexxx](https://open.spotify.com/album/3HEpWC29VtEdFm9GF1rCYy) | 3:20 |
+| 75 | [ONE](https://open.spotify.com/track/1cHPuNybXYunaoRttk3dgJ) | [JASMINE](https://open.spotify.com/artist/76sRRqpyFhBYjdimBWjmfg) | [Complexxx](https://open.spotify.com/album/3HEpWC29VtEdFm9GF1rCYy) | 3:20 |
+| 76 | [Reflections](https://open.spotify.com/track/1PXwnQuyIq5KipnXdh5BCf) | [Zank](https://open.spotify.com/artist/6xI9Q6HuhHUxiYhcRdeHKN) | [Reflections](https://open.spotify.com/album/6PVTGF1RVKqt3tFzm9B35D) | 3:12 |
 | 77 | [Cuidado](https://open.spotify.com/track/7miLbD9XU1SOhXxbZPv7dR) | [Sophia Treadway](https://open.spotify.com/artist/6PzulX5BJXNwDxql6gslSA) | [Cuidado](https://open.spotify.com/album/6YCqciyc3cT72TTIddvULV) | 2:59 |
 | 78 | [Subtitles](https://open.spotify.com/track/4rcuPpjHrjDiS2xvxzUigK) | [Neon Hitch](https://open.spotify.com/artist/2TnJ7VOpGzjtKUn0ObpEYe), [Kinetics](https://open.spotify.com/artist/6MbdoQknD1A8JsZByxbUmB) | [301 to Paradise Mixtape](https://open.spotify.com/album/7fkEYyakqwhcQyNemwQBMr) | 5:28 |
 | 79 | [Tidal Wave](https://open.spotify.com/track/2JpPFrqMUw6l6FinaP0THY) | [Zank](https://open.spotify.com/artist/6xI9Q6HuhHUxiYhcRdeHKN) | [Tidal Wave](https://open.spotify.com/album/3t5UI2nBI1ui1asvIq2Bpe) | 2:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTg3smObHVd2.md) - [plain]
 | 99 | [Livewire](https://open.spotify.com/track/46AbOV6ziHvcRa7klwiJwc) | [Cairo Gold](https://open.spotify.com/artist/0MURvFYyuOVvECDJkCCgAV) | [Cairo Gold](https://open.spotify.com/album/3tA1PiUa8QrgjEKVjpHAwe) | 3:12 |
 | 100 | [Have You Seen My Light](https://open.spotify.com/track/0BeaAtd0znjz9AfXAyD1XW) | [Autumn Rowe](https://open.spotify.com/artist/3gCzQpKxnHhJgOYpZRcEfH) | [October 8](https://open.spotify.com/album/6PTt3Rv4JQrQ6NkT1Fgn7z) | 3:07 |
 
-Snapshot ID: `AcBr3AAAAABIgOCevdYTLyE+Y0gNlQZY`
+Snapshot ID: `AcBxfAAAAACSkQ1KDmwE2OqCb0XkEp/s`

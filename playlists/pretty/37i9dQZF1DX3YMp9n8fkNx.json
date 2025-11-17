@@ -1,6 +1,6 @@
 {
   "description": "The essential pop rock songs from the 1990s. Cover: No Doubt",
-  "num_followers": 1470543,
+  "num_followers": 1470703,
   "original_name": "90s Pop Rock",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-06-26 02:07:58",
       "album": {
-        "name": "Mellow Gold",
-        "url": "https://open.spotify.com/album/0iIGP4Sxw3KR4OCFv2yvz8"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "Loser",
-      "url": "https://open.spotify.com/track/5PntSbMHC1ud6Vvl8x56qd"
-    },
-    {
-      "added_at": "2024-06-26 02:07:58",
-      "album": {
         "name": "Urban Hymns (Deluxe / Remastered 2016)",
         "url": "https://open.spotify.com/album/4uWmfuW68AR0mGFpYlUDjL"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 293586,
       "name": "Lucky Man",
       "url": "https://open.spotify.com/track/2mxPSHEwjJWOQS7lGw6btF"
+    },
+    {
+      "added_at": "2024-06-26 02:07:58",
+      "album": {
+        "name": "Mellow Gold",
+        "url": "https://open.spotify.com/album/0iIGP4Sxw3KR4OCFv2yvz8"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/5PntSbMHC1ud6Vvl8x56qd"
     },
     {
       "added_at": "2024-06-26 02:07:58",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-06-26 02:07:58",
       "album": {
-        "name": "A Casual Affair - The Best Of Tonic",
-        "url": "https://open.spotify.com/album/3T4nMxe1j3LgnyqFimzlWg"
-      },
-      "artists": [
-        {
-          "name": "Tonic",
-          "url": "https://open.spotify.com/artist/6qXwLwTLdA44HYsA26vaNU"
-        }
-      ],
-      "duration_ms": 263280,
-      "name": "If You Could Only See",
-      "url": "https://open.spotify.com/track/7H5OQN4iv3cKE3ZNP5Mbct"
-    },
-    {
-      "added_at": "2024-06-26 02:07:58",
-      "album": {
         "name": "Odelay",
         "url": "https://open.spotify.com/album/3PpTsdpZmaLUh6RvViu9G7"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 192933,
       "name": "Devils Haircut",
       "url": "https://open.spotify.com/track/7h69nvFshbhUpesEXBPH0w"
+    },
+    {
+      "added_at": "2024-06-26 02:07:58",
+      "album": {
+        "name": "A Casual Affair - The Best Of Tonic",
+        "url": "https://open.spotify.com/album/3T4nMxe1j3LgnyqFimzlWg"
+      },
+      "artists": [
+        {
+          "name": "Tonic",
+          "url": "https://open.spotify.com/artist/6qXwLwTLdA44HYsA26vaNU"
+        }
+      ],
+      "duration_ms": 263280,
+      "name": "If You Could Only See",
+      "url": "https://open.spotify.com/track/7H5OQN4iv3cKE3ZNP5Mbct"
     },
     {
       "added_at": "2024-06-26 02:07:58",

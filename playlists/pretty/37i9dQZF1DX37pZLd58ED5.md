@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37pZLd58ED5.md) - [plain]
 
 > Solo beat e rime avvolgenti\. Cover: Tony Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,097 likes - 84 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,114 likes - 84 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > As Dj Horphuray goes into concert this Sunday, he takes over the Youth Service Playlist\. Cover: Dj Horphuray.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,744 likes - 47 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,976 likes - 47 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6M7L8SMVEFvblfFmcNtgaV">BNYX®</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 380 likes - 160 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 381 likes - 160 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,10 +57,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 47 | [HARDSTONE NATIONAL ANTHEM](https://open.spotify.com/track/72mqSiSQNHHNYSM6dOJYGr) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 2:41 |
 | 48 | [KANEKI](https://open.spotify.com/track/4wOHkjgu0jCcILKvbKrYa9) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [NO ONE'S NICE TO ME](https://open.spotify.com/album/5YvgvpgACOjrJHe7LFqJhc) | 2:50 |
 | 49 | [Feelings](https://open.spotify.com/track/6MNSwUUjWSDUhuCZaTezAn) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Heaven knows](https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0) | 2:40 |
-| 50 | [Marinate](https://open.spotify.com/track/41Rfg4KikdF3WIHHxU821m) | [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS) | [IHY2LN + Marinate](https://open.spotify.com/album/06VhwTs1NUtbRoa3YlaJ9Q) | 2:42 |
-| 51 | [DON'T KILL THE PARTY \(feat\. Quavo & Juicy J\)](https://open.spotify.com/track/4YmsnZcxHEGEqHB3K0vdt0) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [TYCOON](https://open.spotify.com/album/6sOJ6rEt2KO0j7aLoNMLaK) | 2:12 |
-| 52 | [Missing Everything](https://open.spotify.com/track/720XllkKq9Pmjk1KOS7Z0F) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [I Just Got A Lot On My Shoulders](https://open.spotify.com/album/6vxwZzJVRrQKuJK6AcXwbn) | 3:44 |
-| 53 | [\[ADL IS COMING\]](https://open.spotify.com/track/0F31Vz4Lw1EPXF0vKPAa7Z) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [DANGEROUS SUMMER](https://open.spotify.com/album/61PCQeDaTD2gwfpHFikpbh) | 2:40 |
+| 50 | [DON'T KILL THE PARTY \(feat\. Quavo & Juicy J\)](https://open.spotify.com/track/4YmsnZcxHEGEqHB3K0vdt0) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [TYCOON](https://open.spotify.com/album/6sOJ6rEt2KO0j7aLoNMLaK) | 2:12 |
+| 51 | [Marinate](https://open.spotify.com/track/41Rfg4KikdF3WIHHxU821m) | [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS) | [IHY2LN + Marinate](https://open.spotify.com/album/06VhwTs1NUtbRoa3YlaJ9Q) | 2:42 |
+| 52 | [\[ADL IS COMING\]](https://open.spotify.com/track/0F31Vz4Lw1EPXF0vKPAa7Z) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [DANGEROUS SUMMER](https://open.spotify.com/album/61PCQeDaTD2gwfpHFikpbh) | 2:40 |
+| 53 | [Missing Everything](https://open.spotify.com/track/720XllkKq9Pmjk1KOS7Z0F) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [I Just Got A Lot On My Shoulders](https://open.spotify.com/album/6vxwZzJVRrQKuJK6AcXwbn) | 3:44 |
 | 54 | [Hold Me](https://open.spotify.com/track/2ufahvEKcQW69XYjWcmKXH) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Rocket Power](https://open.spotify.com/album/0HRZ0CldV3tp7U2sTomtIf) | 2:21 |
 | 55 | [sipping my tea](https://open.spotify.com/track/0uJ5hraraU2GEfF3ub61JT) | [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS) | [sipping my tea](https://open.spotify.com/album/31f0fGsAldfErxbxPqJs95) | 1:42 |
 | 56 | [IHY2LN](https://open.spotify.com/track/4vQkd6oRbNeLprHmYUwIV5) | [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS) | [IHY2LN + Marinate](https://open.spotify.com/album/06VhwTs1NUtbRoa3YlaJ9Q) | 3:10 |
@@ -127,8 +127,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 117 | [MONTREAL](https://open.spotify.com/track/1VGQzAAmfZaalTHQLddcrT) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [WHY ALWAYS ME?](https://open.spotify.com/album/3HMmoUioYMFszTSEDEg5Jd) | 2:00 |
 | 118 | [Feels CoreCore](https://open.spotify.com/track/3grRcy3rbsNz4ao4X8apku) | [Benji Blue Bills](https://open.spotify.com/artist/7t6PzXRwTR6eb4lNHxyhIC), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG) | [Out The Blue](https://open.spotify.com/album/0VHFW4XiYdVxfUzfjkUkIc) | 2:44 |
 | 119 | [smile](https://open.spotify.com/track/1o5PIcmxZ6Hl6kiLAljn8U) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [softCORE](https://open.spotify.com/album/7iCr8Y0ct09AJ44RANcHNe) | 2:35 |
-| 120 | [Right Key](https://open.spotify.com/track/7vEuEEOz0iEiGaJFHDmheN) | [Benji Blue Bills](https://open.spotify.com/artist/7t6PzXRwTR6eb4lNHxyhIC), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG) | [Out The Blue](https://open.spotify.com/album/0VHFW4XiYdVxfUzfjkUkIc) | 2:44 |
-| 121 | [Mirroronnabenz \(with BNYX®\)](https://open.spotify.com/track/5Vip1MOeAfQ5weKGYBXpI0) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG) | [Mirroronnabenz](https://open.spotify.com/album/38mqpaec0dbvLDMiX6Jjox) | 2:22 |
+| 120 | [Mirroronnabenz \(with BNYX®\)](https://open.spotify.com/track/3ikj0rG6sX4GF5Ckv7wkFA) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG) | [everything is a lot.](https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN) | 2:22 |
+| 121 | [Right Key](https://open.spotify.com/track/7vEuEEOz0iEiGaJFHDmheN) | [Benji Blue Bills](https://open.spotify.com/artist/7t6PzXRwTR6eb4lNHxyhIC), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG) | [Out The Blue](https://open.spotify.com/album/0VHFW4XiYdVxfUzfjkUkIc) | 2:44 |
 | 122 | [Prayer](https://open.spotify.com/track/0Icee9AJypU9jfgXPc2NkV) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [GHOST](https://open.spotify.com/album/4OrbijrYXkwBJF9drCrBFR) | 3:05 |
 | 123 | [Know You Bare](https://open.spotify.com/track/19kCmuqL53m9Hr6hAUnbQn) | [Andrea Valle](https://open.spotify.com/artist/0aRyQtFQR8Rcp7eceJyoSe) | [Lovergirl](https://open.spotify.com/album/4R2OflzohK2X93Jgv1ln5P) | 2:11 |
 | 124 | [Love Ain't Perfect](https://open.spotify.com/track/5hb43H5mkRI1sEML9jakgy) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Glad You Came](https://open.spotify.com/album/02YWHzAqDtkFuNPAr82b8s) | 2:54 |
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 159 | [Teach Me.](https://open.spotify.com/track/6lk7eNQnklTjsEx30gUJ80) | [Ant Beale](https://open.spotify.com/artist/14piOhWdd0MbAPVmUqGLhH) | [Life's a Hazard](https://open.spotify.com/album/0UqowJBThZPMFlqPorNSR1) | 5:00 |
 | 160 | [Divided](https://open.spotify.com/track/6NJOdQyw2EPnRAstnXNTDG) | [Warner Meadows](https://open.spotify.com/artist/0FzMywSPPmb2hqv2gvcIFk) | [Divided](https://open.spotify.com/album/2zCmstd1DA381t9zoW8QDr) | 1:44 |
 
-Snapshot ID: `AcBr3AAAAAAQ9yoJZv93h5I+nAscx/HO`
+Snapshot ID: `AcBxfAAAAACEZyagkLOe9Xp0bXe/+Xgp`

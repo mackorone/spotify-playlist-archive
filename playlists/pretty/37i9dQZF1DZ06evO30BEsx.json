@@ -1,12 +1,12 @@
 {
   "description": "This is Gautier Capu\u00e7on. The essential tracks, all in one playlist.",
-  "num_followers": 1762,
+  "num_followers": 1765,
   "original_name": "This Is Gautier Capu\u00e7on",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRZxAAAAAACJvLnXmBixsbIr/6W5x1gk",
+  "snapshot_id": "aRfCgAAAAACAyXrXO2YrZ4x5oQfQjz5A",
   "tracks": [
     {
       "added_at": null,
@@ -219,6 +219,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Destination Paris",
+        "url": "https://open.spotify.com/album/4sOeIH20iRs4s1XYoRHwUq"
+      },
+      "artists": [
+        {
+          "name": "Joseph Kosma",
+          "url": "https://open.spotify.com/artist/0Fb7u2KBJ3anw54Qs7Oh0Y"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Jerome Ducros",
+          "url": "https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq"
+        }
+      ],
+      "duration_ms": 256786,
+      "name": "Autumn Leaves",
+      "url": "https://open.spotify.com/track/7ke8Pw7yEqbGtgmoGiw4PD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Destination Paris - Ravel: Pavane pour un infante d\u00e9funte",
         "url": "https://open.spotify.com/album/5sGn4kv7LLefnFEbaMJ1e4"
       },
@@ -243,30 +267,6 @@
       "duration_ms": 252360,
       "name": "Pavane pour une infante d\u00e9funte, M. 19",
       "url": "https://open.spotify.com/track/3nMesKO4nOyRrP1pUKQulO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Destination Paris",
-        "url": "https://open.spotify.com/album/4sOeIH20iRs4s1XYoRHwUq"
-      },
-      "artists": [
-        {
-          "name": "Joseph Kosma",
-          "url": "https://open.spotify.com/artist/0Fb7u2KBJ3anw54Qs7Oh0Y"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Jerome Ducros",
-          "url": "https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq"
-        }
-      ],
-      "duration_ms": 256786,
-      "name": "Autumn Leaves",
-      "url": "https://open.spotify.com/track/7ke8Pw7yEqbGtgmoGiw4PD"
     },
     {
       "added_at": null,
@@ -439,26 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Franck & Chopin: Cello Sonatas",
-        "url": "https://open.spotify.com/album/1j1fYBmsgel1Zut5UJG3JR"
-      },
-      "artists": [
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Yuja Wang",
-          "url": "https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w"
-        }
-      ],
-      "duration_ms": 217173,
-      "name": "Chopin: Cello Sonata in G Minor, Op. 65: III. Largo",
-      "url": "https://open.spotify.com/track/07G1fEN9kYXOb4D5iKdKf3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Einaudi: Air",
         "url": "https://open.spotify.com/album/4LVYd1Q5TTEDf7th9MMi1Z"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 249346,
       "name": "Air",
       "url": "https://open.spotify.com/track/2yllYHj6bUXrivkzVPMItX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Franck & Chopin: Cello Sonatas",
+        "url": "https://open.spotify.com/album/1j1fYBmsgel1Zut5UJG3JR"
+      },
+      "artists": [
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Yuja Wang",
+          "url": "https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w"
+        }
+      ],
+      "duration_ms": 217173,
+      "name": "Chopin: Cello Sonata in G Minor, Op. 65: III. Largo",
+      "url": "https://open.spotify.com/track/07G1fEN9kYXOb4D5iKdKf3"
     },
     {
       "added_at": null,
@@ -671,30 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brahms: Cello Sonata No. 1 in E Minor, Op. 38: I. Allegro non troppo",
-        "url": "https://open.spotify.com/album/4IVBrRGAYqDiw27U1HY9jb"
-      },
-      "artists": [
-        {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Yuja Wang",
-          "url": "https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w"
-        }
-      ],
-      "duration_ms": 817826,
-      "name": "Cello Sonata No. 1 in E Minor, Op. 38: I. Allegro non troppo",
-      "url": "https://open.spotify.com/track/0EhiqZX4FNq822uW0jjCrm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tchaikovsky: Souvenir de Florence, Op. 70, TH 118 (Live from Verbier Festival / 2013)",
         "url": "https://open.spotify.com/album/2L8EKujXjg3Ed9SX9IKvSl"
       },
@@ -731,6 +707,30 @@
       "duration_ms": 370013,
       "name": "Souvenir de Florence, Op. 70, TH 118: III. Allegro moderato - Live from Verbier Festival / 2013",
       "url": "https://open.spotify.com/track/6flZV70cwZLQE1XsPBz1NF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Brahms: Cello Sonata No. 1 in E Minor, Op. 38: I. Allegro non troppo",
+        "url": "https://open.spotify.com/album/4IVBrRGAYqDiw27U1HY9jb"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Yuja Wang",
+          "url": "https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w"
+        }
+      ],
+      "duration_ms": 817826,
+      "name": "Cello Sonata No. 1 in E Minor, Op. 38: I. Allegro non troppo",
+      "url": "https://open.spotify.com/track/0EhiqZX4FNq822uW0jjCrm"
     },
     {
       "added_at": null,
@@ -791,34 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beethoven: Piano Trios No. 5, \"Ghost\" & No. 7, \"Archduke\"",
-        "url": "https://open.spotify.com/album/6Zkzy8c0Zax3LkGLKOBhnq"
-      },
-      "artists": [
-        {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "Renaud Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Frank Braley",
-          "url": "https://open.spotify.com/artist/1hpAr3xZg2NpGFR59MO0Yl"
-        }
-      ],
-      "duration_ms": 687426,
-      "name": "Beethoven: Piano Trio No. 7 in B-Flat Major, Op. 97 \"Archduke\": II. Scherzo. Allegro",
-      "url": "https://open.spotify.com/track/2tTGcRH0xsIOulHZxBlf3J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Art of the Cello",
         "url": "https://open.spotify.com/album/1uFBLoNWBx7bYciZEL6ra3"
       },
@@ -847,6 +819,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Beethoven: Piano Trios No. 5, \"Ghost\" & No. 7, \"Archduke\"",
+        "url": "https://open.spotify.com/album/6Zkzy8c0Zax3LkGLKOBhnq"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Renaud Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Frank Braley",
+          "url": "https://open.spotify.com/artist/1hpAr3xZg2NpGFR59MO0Yl"
+        }
+      ],
+      "duration_ms": 687426,
+      "name": "Beethoven: Piano Trio No. 7 in B-Flat Major, Op. 97 \"Archduke\": II. Scherzo. Allegro",
+      "url": "https://open.spotify.com/track/2tTGcRH0xsIOulHZxBlf3J"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Haydn: Cello Concertos",
         "url": "https://open.spotify.com/album/5lIyZy3BA2mzcQjgobHQva"
       },
@@ -871,6 +871,30 @@
       "duration_ms": 273826,
       "name": "Haydn: Cello Concerto No. 2 in D Major, Hob. VIIb:2: II. Adagio",
       "url": "https://open.spotify.com/track/20SEyo1jCgiYxgAabS9W7U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ga\u00efa",
+        "url": "https://open.spotify.com/album/6l3JRf1uM8DZLR7mmxi4jl"
+      },
+      "artists": [
+        {
+          "name": "Nico Muhly",
+          "url": "https://open.spotify.com/artist/2vObsQCPsbVfkqHlQOu2zc"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Frank Braley",
+          "url": "https://open.spotify.com/artist/1hpAr3xZg2NpGFR59MO0Yl"
+        }
+      ],
+      "duration_ms": 205280,
+      "name": "Side Piece",
+      "url": "https://open.spotify.com/track/0Kh8QH6UKrLCXwTL7zQ4yA"
     },
     {
       "added_at": null,
@@ -952,21 +976,21 @@
       },
       "artists": [
         {
-          "name": "Nico Muhly",
-          "url": "https://open.spotify.com/artist/2vObsQCPsbVfkqHlQOu2zc"
+          "name": "Quenton Blache",
+          "url": "https://open.spotify.com/artist/00F2v2jg4UKg5t0tT0RV5T"
         },
         {
           "name": "Gautier Capu\u00e7on",
           "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
         },
         {
-          "name": "Frank Braley",
-          "url": "https://open.spotify.com/artist/1hpAr3xZg2NpGFR59MO0Yl"
+          "name": "Capucelli",
+          "url": "https://open.spotify.com/artist/456H1w3siobB7ajeoChe7J"
         }
       ],
-      "duration_ms": 205280,
-      "name": "Side Piece",
-      "url": "https://open.spotify.com/track/0Kh8QH6UKrLCXwTL7zQ4yA"
+      "duration_ms": 230880,
+      "name": "Of Wind and Rain",
+      "url": "https://open.spotify.com/track/1UMVBR4O1BhZSRkgzFZPAM"
     },
     {
       "added_at": null,
@@ -1064,21 +1088,21 @@
       },
       "artists": [
         {
-          "name": "Quenton Blache",
-          "url": "https://open.spotify.com/artist/00F2v2jg4UKg5t0tT0RV5T"
+          "name": "Bryce Dessner",
+          "url": "https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l"
         },
         {
           "name": "Gautier Capu\u00e7on",
           "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
         },
         {
-          "name": "Capucelli",
-          "url": "https://open.spotify.com/artist/456H1w3siobB7ajeoChe7J"
+          "name": "Jerome Ducros",
+          "url": "https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq"
         }
       ],
-      "duration_ms": 230880,
-      "name": "Of Wind and Rain",
-      "url": "https://open.spotify.com/track/1UMVBR4O1BhZSRkgzFZPAM"
+      "duration_ms": 200360,
+      "name": "Towards the Light",
+      "url": "https://open.spotify.com/track/4SG9kgdc4zEjSl0qMcobUb"
     },
     {
       "added_at": null,
@@ -1168,8 +1192,8 @@
       },
       "artists": [
         {
-          "name": "Bryce Dessner",
-          "url": "https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l"
+          "name": "Armand Amar",
+          "url": "https://open.spotify.com/artist/2fJb06JRcuBWypwj46TQZj"
         },
         {
           "name": "Gautier Capu\u00e7on",
@@ -1178,11 +1202,15 @@
         {
           "name": "Jerome Ducros",
           "url": "https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq"
+        },
+        {
+          "name": "Capucelli",
+          "url": "https://open.spotify.com/artist/456H1w3siobB7ajeoChe7J"
         }
       ],
-      "duration_ms": 200360,
-      "name": "Towards the Light",
-      "url": "https://open.spotify.com/track/4SG9kgdc4zEjSl0qMcobUb"
+      "duration_ms": 342626,
+      "name": "Boreas",
+      "url": "https://open.spotify.com/track/6O6Iob4qr6tj1AmdECgLUU"
     },
     {
       "added_at": null,
@@ -1268,85 +1296,45 @@
       },
       "artists": [
         {
-          "name": "Armand Amar",
-          "url": "https://open.spotify.com/artist/2fJb06JRcuBWypwj46TQZj"
+          "name": "Gabriela Montero",
+          "url": "https://open.spotify.com/artist/0zn66Km3MeK24VuWUZydgr"
         },
         {
           "name": "Gautier Capu\u00e7on",
           "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
         },
         {
-          "name": "Jerome Ducros",
-          "url": "https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq"
-        },
-        {
-          "name": "Capucelli",
-          "url": "https://open.spotify.com/artist/456H1w3siobB7ajeoChe7J"
+          "name": "Frank Braley",
+          "url": "https://open.spotify.com/artist/1hpAr3xZg2NpGFR59MO0Yl"
         }
       ],
-      "duration_ms": 342626,
-      "name": "Boreas",
-      "url": "https://open.spotify.com/track/6O6Iob4qr6tj1AmdECgLUU"
+      "duration_ms": 277106,
+      "name": "Sur le lac du Bourget",
+      "url": "https://open.spotify.com/track/74jW9U0xz7KWj7CLe4JONb"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Sensations",
-        "url": "https://open.spotify.com/album/0nVAQLpoiKnF4zAVoNeEVq"
+        "name": "Focus with Bach",
+        "url": "https://open.spotify.com/album/05LISIyECZIHTpuS2oyINW"
       },
       "artists": [
         {
-          "name": "Giacomo Puccini",
-          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
           "name": "Gautier Capu\u00e7on",
           "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
         },
         {
-          "name": "Johanna Malangr\u00e9",
-          "url": "https://open.spotify.com/artist/7aIbuxKaejtjcgkhYLuB8b"
-        },
-        {
-          "name": "Orchestre national de Bretagne",
-          "url": "https://open.spotify.com/artist/2DvQHpjHM1yaLuNF9es4Oz"
+          "name": "Renaud Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
         }
       ],
-      "duration_ms": 172173,
-      "name": "Nessun dorma (From \"Turandot\")",
-      "url": "https://open.spotify.com/track/5ylSlIKVbQQDnkEuLwgqmw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Destination Paris",
-        "url": "https://open.spotify.com/album/4sOeIH20iRs4s1XYoRHwUq"
-      },
-      "artists": [
-        {
-          "name": "Ennio Moriconne",
-          "url": "https://open.spotify.com/artist/2yndP9zpcSeLDIDV2ZYotM"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Jerome Ducros",
-          "url": "https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq"
-        },
-        {
-          "name": "Orchestre de chambre de Paris",
-          "url": "https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I"
-        },
-        {
-          "name": "Lionel Bringuier",
-          "url": "https://open.spotify.com/artist/78tOC3otzyHJOy6wO6j6hB"
-        }
-      ],
-      "duration_ms": 206586,
-      "name": "Chi mai",
-      "url": "https://open.spotify.com/track/4NyVobuooQ1CGec0vSGE5K"
+      "duration_ms": 91093,
+      "name": "Prelude and Fugue in D Major, BWV 850: I. Prelude",
+      "url": "https://open.spotify.com/track/7cFXFkxxeIDCu52cP2QBUB"
     }
   ],
   "unique_name": "This Is Gautier Capu\u00e7on",

@@ -4,7 +4,7 @@
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: UNFAIR RULE
 
-1,946 songs - 5 day 0 hr 32 min
+1,947 songs - 5 day 0 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -321,7 +321,7 @@
 | [GOKKO](https://open.spotify.com/track/1rhpSPzVqNW1m3FPwA1b2s) | [PASSEPIED](https://open.spotify.com/artist/115IWAVy4OTxhE0xdDef1c) | [GOKKO](https://open.spotify.com/album/1lVJ1LWjQfnthPH3gbUZwJ) | 3:06 | 2023-04-18 | 2023-05-27 |
 | [GOLDEN BUDDY \(feat\. くるま\)](https://open.spotify.com/track/5wpOZzvsXpZyM6yblEMRv9) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx), [くるま](https://open.spotify.com/artist/2A9KcnzAkVOiKKCE4VJJEf) | [GOLDEN BUDDY \(feat\. くるま\)](https://open.spotify.com/album/6b6lvud6lpyUkay9YreLIq) | 3:09 | 2024-10-29 | 2025-05-09 |
 | [golden drop](https://open.spotify.com/track/4skcyviAmJy1Ipf9kDcWxK) | [bungeitengoku](https://open.spotify.com/artist/2IPuwNd2QsC2AXZ9gBW7d1) | [golden drop](https://open.spotify.com/album/6J7appOuXxe42HB9KhAl4k) | 1:24 | 2023-02-28 | 2023-03-15 |
-| [Good Morning](https://open.spotify.com/track/4PCu8xygJhOG4TLNNw3LO4) | [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G) | [Good Morning](https://open.spotify.com/album/5lf6d24IOe7lkGxaDQ6zE0) | 3:03 | 2024-06-18 |  |
+| [Good Morning](https://open.spotify.com/track/4PCu8xygJhOG4TLNNw3LO4) | [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G) | [Good Morning](https://open.spotify.com/album/5lf6d24IOe7lkGxaDQ6zE0) | 3:03 | 2024-06-18 | 2025-11-17 |
 | [good time](https://open.spotify.com/track/0tVG7UROkKBgW2YtYvAkst) | [フレンズ](https://open.spotify.com/artist/7I045Ct8xfI1QlSYq4XuBh) | [good time](https://open.spotify.com/album/54bVETGL4E3SpCt2ZWJz5s) | 3:12 | 2024-01-09 | 2024-02-01 |
 | [Goodbye](https://open.spotify.com/track/3ZZAlk3bOrKA1KcXPJjSWW) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [Goodbye / Tumbler](https://open.spotify.com/album/4VI6wFz5KdUsuaU3f5cCZl) | 1:53 | 2023-04-18 | 2023-06-14 |
 | [Goodbye Bad Memories](https://open.spotify.com/track/083a94VawpgOYQeOmlnGnU) | [MAZE](https://open.spotify.com/artist/4idXvBJHO6Jd54Pr0Ll9Rc) | [Goodbye Bad Memories](https://open.spotify.com/album/6iRDiyPjqdCuDk97ml5vId) | 3:40 | 2023-10-12 | 2023-10-18 |
@@ -958,6 +958,7 @@
 | [you’ll never walk alone](https://open.spotify.com/track/36Yw414pGu7A76sBnN11Fw) | [OCHA∞ME](https://open.spotify.com/artist/0ZTPHSqruVKSdZSmCBskxT) | [you’ll never walk alone](https://open.spotify.com/album/5zQn3xFl3Ig7bs35BCUbIP) | 3:23 | 2024-04-09 | 2024-04-24 |
 | [Yukisaki](https://open.spotify.com/track/1tI0mPtSulabWarmKB3nUQ) | [Boundary](https://open.spotify.com/artist/7EYH7GNNmSQu0MqLFBupH9) | [Yukisaki](https://open.spotify.com/album/63mrbD2RZ9iAxP4effEztt) | 3:30 | 2023-02-28 | 2023-03-08 |
 | [yumegiwa](https://open.spotify.com/track/6lv8b7SfJHzSermT8j3tS5) | [最果テルーティン](https://open.spotify.com/artist/2yAThkujbnqrhoqPMdoxpX) | [yumegiwa](https://open.spotify.com/album/1eZ3yndN14O5hLPlzNGS2f) | 3:42 | 2022-06-07 | 2022-06-23 |
+| [yummy goodday](https://open.spotify.com/track/56YtgeLZZz9mWWcbPu569O) | [CENT](https://open.spotify.com/artist/6XoPPVd3Cqm3yXoZAdn8ms) | [yummy goodday](https://open.spotify.com/album/2cFgZ4OOUSTsvTek9hqtvT) | 3:20 | 2025-11-04 |  |
 | [yunagieiso](https://open.spotify.com/track/618pyNivEdcfLnc9TbKAuQ) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [yunagieiso](https://open.spotify.com/album/7FD9T96o1fl2qTcRem8iNM) | 3:57 | 2023-09-26 | 2023-10-18 |
 | [Y字路](https://open.spotify.com/track/1Bdco5s8iglJYo0zHFVcMF) | [ナカムラマユ](https://open.spotify.com/artist/0SEwHBIuSqJzE4b8OrOlKz) | [Y字路](https://open.spotify.com/album/29qj5rbigArk4Z6jdj5PiN) | 3:49 | 2022-06-21 | 2022-07-27 |
 | [Zen](https://open.spotify.com/track/1xmVwW1NP4Hygz2GqTeS14) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Zen](https://open.spotify.com/album/71vAsqLRt39WSKfA4eJYba) | 3:34 | 2025-01-14 | 2025-11-05 |

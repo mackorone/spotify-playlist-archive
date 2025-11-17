@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0R7s5Q0xOIh.md) - [plain]
 
 > A playlist oficial do Carona Podpah, Original Spotify com o <a href="spotify:show:1GLSDdk9CDEwziGNIlnb8a">Podpah</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,236 likes - 357 songs - 1 day 16 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,232 likes - 357 songs - 1 day 16 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0R7s5Q0xOIh.md) - [plain]
 | 3 | [Sarra Novinha no Grau](https://open.spotify.com/track/1yubc9XEVMvp1Q7Bh234bT) | [Dj Batata](https://open.spotify.com/artist/2rUOBAmeKcpfmd83cIj5Au), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [DJ RD](https://open.spotify.com/artist/0tvACMjTDrW7HCo4F2wiIb) | [Funk Music, Vol\. 1](https://open.spotify.com/album/1Vp3gssADGxHmoYQxWIHwg) | 1:55 |
 | 4 | [Atura Ou Surta 2](https://open.spotify.com/track/7I8LAsRQcz4Tvv4DAmg76m) | [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [Atura Ou Surta 2](https://open.spotify.com/album/1PRHlJLkHqRBSdvmbnWClQ) | 3:01 |
 | 5 | [Candy Shop](https://open.spotify.com/track/5D2mYZuzcgjpchVY1pmTPh) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Olivia](https://open.spotify.com/artist/5YBSzuCs7WaFKNr7Bky0Uf) | [The Massacre](https://open.spotify.com/album/2pidzXTaHV4WaIJYRxKDCH) | 3:29 |
-| 6 | [Porradeiro Vs Marretada](https://open.spotify.com/track/5M7mAMgIjMRwECVLh6IUoZ) | [mc pl alves](https://open.spotify.com/artist/47wsfaEWJwhWd9bs04Oc1g), [MC FG](https://open.spotify.com/artist/1kAJwKG8RJwXdA7qWNWwKI), [LC Santos](https://open.spotify.com/artist/2V0Xb2QqVOlHN4yxDSGluP) | [Porradeiro Vs Marretada](https://open.spotify.com/album/1uqu47jY40H0GB6JDrpmOF) | 2:29 |
+| 6 | [Porradeiro Vs Marretada](https://open.spotify.com/track/5M7mAMgIjMRwECVLh6IUoZ) | [mc pl alves](https://open.spotify.com/artist/47wsfaEWJwhWd9bs04Oc1g), [MC FG](https://open.spotify.com/artist/1kAJwKG8RJwXdA7qWNWwKI), [LC Santos](https://open.spotify.com/artist/2V0Xb2QqVOlHN4yxDSGluP), [Funk das galáxias](https://open.spotify.com/artist/5ay7ERQ96zTIqQbsbGCNpw) | [Porradeiro Vs Marretada](https://open.spotify.com/album/1uqu47jY40H0GB6JDrpmOF) | 2:29 |
 | 7 | [Menor Magrinho](https://open.spotify.com/track/5DOiUXc9O3XsATTOWLgKDy) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Menor Magrinho](https://open.spotify.com/album/26e6WQ5BoXJ4Z1BHSKpMGN) | 2:32 |
 | 8 | [How Deep Is Your Love \(feat\. Yebba\) \- Live](https://open.spotify.com/track/3SjAiqAQ6sMmsJBeVw0nMf) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Gumbo Unplugged \(Live\)](https://open.spotify.com/album/6au0qzMOjqEgc79ntU2bf6) | 3:30 |
 | 9 | [Malandramente](https://open.spotify.com/track/7DRP2VOMpy1rrk3iYFLCW9) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [MC Nandinho](https://open.spotify.com/artist/4962T3pz7AkQQaDNVBbEXf), [Nego Bam](https://open.spotify.com/artist/2XxoyHwf1qOWsJIq8y83cw) | [Malandramente](https://open.spotify.com/album/23TjtX6Ibz6fbK1pmLhPjC) | 2:51 |

@@ -1,12 +1,12 @@
 {
   "description": "This is th\u1ee7y. The essential tracks, all in one playlist.",
-  "num_followers": 12453,
+  "num_followers": 12452,
   "original_name": "This Is th\u1ee7y",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRZxAAAAAACKIxghSuK6cXRbKnKVhgbJ",
+  "snapshot_id": "aRfCgAAAAADVjeSxEpdF2cQLjvEHQyvS",
   "tracks": [
     {
       "added_at": null,
@@ -291,22 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "i hope u see this",
-        "url": "https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "trippin'",
-      "url": "https://open.spotify.com/track/61paqDrRJe8h4c5ypysurz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sonder",
         "url": "https://open.spotify.com/album/45sBxwKSBxQe8H7p59ARys"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 171951,
       "name": "Criminal (Over You)",
       "url": "https://open.spotify.com/track/75t2P6iXeK7mXra6g6Nmqx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "i hope u see this",
+        "url": "https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "trippin'",
+      "url": "https://open.spotify.com/track/61paqDrRJe8h4c5ypysurz"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Lalo Mora. The essential tracks, all in one playlist.",
-  "num_followers": 67709,
+  "num_followers": 67722,
   "original_name": "This Is Lalo Mora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRZxAAAAAACFloxn2es5nQVs7OPkqMoQ",
+  "snapshot_id": "aRfCgAAAAABfQr3Q71KEnb+6+XJrFH73",
   "tracks": [
     {
       "added_at": null,
@@ -368,17 +368,17 @@
           "url": "https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC"
         },
         {
-          "name": "Rosendo Cant\u00fa",
-          "url": "https://open.spotify.com/artist/1dtN7ORy44Zy1ku9rJBgJi"
-        },
-        {
           "name": "Lalo Mora",
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        },
+        {
+          "name": "Ra\u00fal Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/27eiCnSgvMyOyJAm7sEVOB"
         }
       ],
-      "duration_ms": 206222,
-      "name": "Eslab\u00f3n Por Eslab\u00f3n (En Vivo Desde El Domo Care)",
-      "url": "https://open.spotify.com/track/4naABEeBszR3S5X8duJby0"
+      "duration_ms": 240277,
+      "name": "Reproches Del Viento (En Vivo Desde El Domo Care)",
+      "url": "https://open.spotify.com/track/6AZu9krOGsV9spLU4GkA1G"
     },
     {
       "added_at": null,
@@ -448,17 +448,17 @@
           "url": "https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC"
         },
         {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+          "name": "Rosendo Cant\u00fa",
+          "url": "https://open.spotify.com/artist/1dtN7ORy44Zy1ku9rJBgJi"
         },
         {
-          "name": "Ra\u00fal Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/27eiCnSgvMyOyJAm7sEVOB"
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 240277,
-      "name": "Reproches Del Viento (En Vivo Desde El Domo Care)",
-      "url": "https://open.spotify.com/track/6AZu9krOGsV9spLU4GkA1G"
+      "duration_ms": 206222,
+      "name": "Eslab\u00f3n Por Eslab\u00f3n (En Vivo Desde El Domo Care)",
+      "url": "https://open.spotify.com/track/4naABEeBszR3S5X8duJby0"
     },
     {
       "added_at": null,
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Rey de Mil Coronas",
-        "url": "https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 160493,
-      "name": "Ojitos a Mi Gusto",
-      "url": "https://open.spotify.com/track/3RzxBoY4JgYKTQwiGlpctO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos De Jefes",
         "url": "https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 221693,
       "name": "Corrido De Los P\u00e9rez",
       "url": "https://open.spotify.com/track/2uIFOZHlMfbFNVh00f2LB3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Rey de Mil Coronas",
+        "url": "https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 160493,
+      "name": "Ojitos a Mi Gusto",
+      "url": "https://open.spotify.com/track/3RzxBoY4JgYKTQwiGlpctO"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Casita De Adobe",
-        "url": "https://open.spotify.com/album/6wU7pHjRDZGa4sRVawB1aZ"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 191986,
-      "name": "La Casita De Adobe",
-      "url": "https://open.spotify.com/track/2OCEVBnAtKJlwFqnOhPolb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las Norte\u00f1as Consentidas en la Voz de Lalo Mora",
         "url": "https://open.spotify.com/album/2OHxP5VMnZyUkuAOWh3haU"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 193813,
       "name": "Baraja de Oro",
       "url": "https://open.spotify.com/track/2PmneeqjoT03FwVSBeSX16"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Casita De Adobe",
+        "url": "https://open.spotify.com/album/6wU7pHjRDZGa4sRVawB1aZ"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 191986,
+      "name": "La Casita De Adobe",
+      "url": "https://open.spotify.com/track/2OCEVBnAtKJlwFqnOhPolb"
     },
     {
       "added_at": null,
@@ -699,26 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "30 Aniversario Duetos",
-        "url": "https://open.spotify.com/album/5BhAjPF7nbVtq2pvz7nbVm"
-      },
-      "artists": [
-        {
-          "name": "Liberaci\u00f3n",
-          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
-        },
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 240426,
-      "name": "Amigo M\u00edo - Dueto Con Lalo Mora",
-      "url": "https://open.spotify.com/track/5lJCiAk7S2WNglqzEVS3JE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "20 Corridos Bien Perrones",
         "url": "https://open.spotify.com/album/6b51Kuq495lTq1dqXQEzoo"
       },
@@ -755,18 +735,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las + Tocadas",
-        "url": "https://open.spotify.com/album/0uY9SyTmSDllUsSGgvmMzv"
+        "name": "30 Aniversario Duetos",
+        "url": "https://open.spotify.com/album/5BhAjPF7nbVtq2pvz7nbVm"
       },
       "artists": [
+        {
+          "name": "Liberaci\u00f3n",
+          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
+        },
         {
           "name": "Lalo Mora",
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 180860,
-      "name": "El Corrido de Ramiro Quiroz",
-      "url": "https://open.spotify.com/track/0sS3oYCoRy1U0yl8KbbX3W"
+      "duration_ms": 240426,
+      "name": "Amigo M\u00edo - Dueto Con Lalo Mora",
+      "url": "https://open.spotify.com/track/5lJCiAk7S2WNglqzEVS3JE"
     },
     {
       "added_at": null,
@@ -791,8 +775,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos De Jefes",
-        "url": "https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV"
+        "name": "Las + Tocadas",
+        "url": "https://open.spotify.com/album/0uY9SyTmSDllUsSGgvmMzv"
       },
       "artists": [
         {
@@ -800,9 +784,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 199173,
-      "name": "Lucio Pe\u00f1a",
-      "url": "https://open.spotify.com/track/4Jj72fzYOa4fHWAI4VQLCc"
+      "duration_ms": 180860,
+      "name": "El Corrido de Ramiro Quiroz",
+      "url": "https://open.spotify.com/track/0sS3oYCoRy1U0yl8KbbX3W"
     },
     {
       "added_at": null,
@@ -831,22 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Casita De Adobe",
-        "url": "https://open.spotify.com/album/6wU7pHjRDZGa4sRVawB1aZ"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 187560,
-      "name": "Me Regalo Contigo",
-      "url": "https://open.spotify.com/track/7pdWEE81ttyaExmwjKEwgt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Borrachera Perfecta (En Vivo)",
         "url": "https://open.spotify.com/album/3YkEYl9P5EPCzdur3lpMf5"
       },
@@ -867,6 +835,38 @@
       "duration_ms": 174290,
       "name": "El Rog\u00f3n (En Vivo)",
       "url": "https://open.spotify.com/track/7t1X9xoDduvrcaoOVallpV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos De Jefes",
+        "url": "https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 199173,
+      "name": "Lucio Pe\u00f1a",
+      "url": "https://open.spotify.com/track/4Jj72fzYOa4fHWAI4VQLCc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Casita De Adobe",
+        "url": "https://open.spotify.com/album/6wU7pHjRDZGa4sRVawB1aZ"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 187560,
+      "name": "Me Regalo Contigo",
+      "url": "https://open.spotify.com/track/7pdWEE81ttyaExmwjKEwgt"
     },
     {
       "added_at": null,
@@ -919,18 +919,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las M\u00e1s Pegadas",
-        "url": "https://open.spotify.com/album/4K8ULhFPmm29xp2FHc6igc"
+        "name": "La Borrachera Perfecta El After (En Vivo)",
+        "url": "https://open.spotify.com/album/4hU1W9aMMxszllqx0MrzTX"
       },
       "artists": [
         {
+          "name": "PALOMAZO NORTE\u00d1O",
+          "url": "https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC"
+        },
+        {
           "name": "Lalo Mora",
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        },
+        {
+          "name": "Ra\u00fal Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/27eiCnSgvMyOyJAm7sEVOB"
         }
       ],
-      "duration_ms": 168880,
-      "name": "Que Dios Me Perdone",
-      "url": "https://open.spotify.com/track/2dDH9Rb3uDPj15Zs68O8Q8"
+      "duration_ms": 198976,
+      "name": "El Preso De Nuevo Le\u00f3n (En Vivo)",
+      "url": "https://open.spotify.com/track/07aqcZqOFB2YA1xfv9uny9"
     }
   ],
   "unique_name": "This Is Lalo Mora",

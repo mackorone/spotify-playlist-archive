@@ -1,12 +1,12 @@
 {
   "description": "This is Christine D'Clario. The essential tracks, all in one playlist.",
-  "num_followers": 41427,
+  "num_followers": 41429,
   "original_name": "This Is Christine D'Clario",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRZxAAAAAAA2/FjpRF35VEIKb9YAeIVA",
+  "snapshot_id": "aRfCgAAAAACp852C8Jrdhc2NL1WjEnE4",
   "tracks": [
     {
       "added_at": null,
@@ -327,22 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emanuel",
-        "url": "https://open.spotify.com/album/79SvnKvxBeFi7NrWIHbLef"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 632006,
-      "name": "Admirable",
-      "url": "https://open.spotify.com/track/266RImfSG8ZKvpj63JWtIo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Novia",
         "url": "https://open.spotify.com/album/1XAoegvmhszmRoVQq3kPuB"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 278946,
       "name": "\u00c9l Viene Otra Vez",
       "url": "https://open.spotify.com/track/0dpkcyEMBoxObM6ZdZVmov"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Emanuel",
+        "url": "https://open.spotify.com/album/79SvnKvxBeFi7NrWIHbLef"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 632006,
+      "name": "Admirable",
+      "url": "https://open.spotify.com/track/266RImfSG8ZKvpj63JWtIo"
     },
     {
       "added_at": null,
@@ -811,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00e1s Profundo",
-        "url": "https://open.spotify.com/album/53P8BfWdQ6m9yjM6tw9ldM"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 242813,
-      "name": "Santo (Tu Nombre Es)",
-      "url": "https://open.spotify.com/track/1Bl1opDBNVOyvaBVU0GRWZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Batalla",
         "url": "https://open.spotify.com/album/1YVeiDy1DyniGd7X88mMlF"
       },
@@ -847,22 +831,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Novia",
-        "url": "https://open.spotify.com/album/1XAoegvmhszmRoVQq3kPuB"
+        "name": "M\u00e1s Profundo",
+        "url": "https://open.spotify.com/album/53P8BfWdQ6m9yjM6tw9ldM"
       },
       "artists": [
         {
           "name": "Christine D'Clario",
           "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        },
-        {
-          "name": "Majo y Dan",
-          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
         }
       ],
-      "duration_ms": 467012,
-      "name": "Para M\u00ed Es Solo Cristo",
-      "url": "https://open.spotify.com/track/6yjtH5IX8ytbJ7arBWxwlm"
+      "duration_ms": 242813,
+      "name": "Santo (Tu Nombre Es)",
+      "url": "https://open.spotify.com/track/1Bl1opDBNVOyvaBVU0GRWZ"
     },
     {
       "added_at": null,
@@ -887,8 +867,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00e1s Profundo",
-        "url": "https://open.spotify.com/album/53P8BfWdQ6m9yjM6tw9ldM"
+        "name": "La Novia",
+        "url": "https://open.spotify.com/album/1XAoegvmhszmRoVQq3kPuB"
       },
       "artists": [
         {
@@ -896,13 +876,13 @@
           "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
         },
         {
-          "name": "Marco Barrientos",
-          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
+          "name": "Majo y Dan",
+          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
         }
       ],
-      "duration_ms": 338293,
-      "name": "Seguirte",
-      "url": "https://open.spotify.com/track/4V3dOBfoR4WKBKqgFba2HJ"
+      "duration_ms": 467012,
+      "name": "Para M\u00ed Es Solo Cristo",
+      "url": "https://open.spotify.com/track/6yjtH5IX8ytbJ7arBWxwlm"
     },
     {
       "added_at": null,
@@ -919,6 +899,26 @@
       "duration_ms": 309263,
       "name": "Hasta Poder Ver",
       "url": "https://open.spotify.com/track/5PPcHsB4euq3Eg90F4Dngs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "M\u00e1s Profundo",
+        "url": "https://open.spotify.com/album/53P8BfWdQ6m9yjM6tw9ldM"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        },
+        {
+          "name": "Marco Barrientos",
+          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
+        }
+      ],
+      "duration_ms": 338293,
+      "name": "Seguirte",
+      "url": "https://open.spotify.com/track/4V3dOBfoR4WKBKqgFba2HJ"
     },
     {
       "added_at": null,

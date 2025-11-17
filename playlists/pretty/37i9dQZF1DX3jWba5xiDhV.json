@@ -1,6 +1,6 @@
 {
   "description": "When the dancefloor calls your name, that's amore.",
-  "num_followers": 366635,
+  "num_followers": 366772,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
@@ -671,18 +671,18 @@
     {
       "added_at": "2025-11-13 23:01:23",
       "album": {
-        "name": "The Division",
-        "url": "https://open.spotify.com/album/5F0AZDt29jRBR1PktMX5PV"
+        "name": "I Need You Tonite / Tonight",
+        "url": "https://open.spotify.com/album/25RZ0JqMukSLQhdYsFpJ67"
       },
       "artists": [
         {
-          "name": "Krystal Klear",
-          "url": "https://open.spotify.com/artist/0jqr8aeeHSn5pMEVD4aTrI"
+          "name": "Suzy Q",
+          "url": "https://open.spotify.com/artist/4chxVeRqRTbEAi1VtJa6vA"
         }
       ],
-      "duration_ms": 396435,
-      "name": "Neutron Dance",
-      "url": "https://open.spotify.com/track/2dxiLe0Pq6pG058eYMbrn7"
+      "duration_ms": 390127,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/6CTv5qKVvkxsvSRQfC6SjO"
     },
     {
       "added_at": "2025-11-13 23:01:23",
@@ -703,18 +703,18 @@
     {
       "added_at": "2025-11-13 23:01:23",
       "album": {
-        "name": "I Need You Tonite / Tonight",
-        "url": "https://open.spotify.com/album/25RZ0JqMukSLQhdYsFpJ67"
+        "name": "The Division",
+        "url": "https://open.spotify.com/album/5F0AZDt29jRBR1PktMX5PV"
       },
       "artists": [
         {
-          "name": "Suzy Q",
-          "url": "https://open.spotify.com/artist/4chxVeRqRTbEAi1VtJa6vA"
+          "name": "Krystal Klear",
+          "url": "https://open.spotify.com/artist/0jqr8aeeHSn5pMEVD4aTrI"
         }
       ],
-      "duration_ms": 390127,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/6CTv5qKVvkxsvSRQfC6SjO"
+      "duration_ms": 396435,
+      "name": "Neutron Dance",
+      "url": "https://open.spotify.com/track/2dxiLe0Pq6pG058eYMbrn7"
     },
     {
       "added_at": "2025-11-13 23:01:23",
@@ -735,6 +735,22 @@
     {
       "added_at": "2025-11-13 23:01:23",
       "album": {
+        "name": "Burn It!",
+        "url": "https://open.spotify.com/album/5TR3C0glWSRf10jWPnrsg5"
+      },
+      "artists": [
+        {
+          "name": "Mind Enterprises",
+          "url": "https://open.spotify.com/artist/5pN1DJhPFDKso4OtC0QhnB"
+        }
+      ],
+      "duration_ms": 199454,
+      "name": "Burn It!",
+      "url": "https://open.spotify.com/track/0ADXYdnGtoEcUodPirMYXZ"
+    },
+    {
+      "added_at": "2025-11-13 23:01:23",
+      "album": {
         "name": "Greatest Hits & Remixes",
         "url": "https://open.spotify.com/album/1XsOXWsClvtWMxOnQ5gJ22"
       },
@@ -747,26 +763,6 @@
       "duration_ms": 206600,
       "name": "Hey Hey Guy (7\" Vocal Version)",
       "url": "https://open.spotify.com/track/3oLn7p6CF8JvUDPz59t2WF"
-    },
-    {
-      "added_at": "2025-11-13 23:01:23",
-      "album": {
-        "name": "Ma quale idea (Myd Remix)",
-        "url": "https://open.spotify.com/album/0mRoBEyOI7MmBwtHpDOliY"
-      },
-      "artists": [
-        {
-          "name": "Pino D'Angi\u00f2",
-          "url": "https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6"
-        },
-        {
-          "name": "Myd",
-          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
-        }
-      ],
-      "duration_ms": 219140,
-      "name": "Ma quale idea - Myd Remix (Radio Edit)",
-      "url": "https://open.spotify.com/track/1G3jHsWf0F40SxCRQV6oxR"
     },
     {
       "added_at": "2025-11-13 23:01:23",
@@ -787,6 +783,26 @@
       "duration_ms": 201332,
       "name": "Dammi un'idea",
       "url": "https://open.spotify.com/track/7DrO38olLryjXBoxqKPqHN"
+    },
+    {
+      "added_at": "2025-11-13 23:01:23",
+      "album": {
+        "name": "Ma quale idea (Myd Remix)",
+        "url": "https://open.spotify.com/album/0mRoBEyOI7MmBwtHpDOliY"
+      },
+      "artists": [
+        {
+          "name": "Pino D'Angi\u00f2",
+          "url": "https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6"
+        },
+        {
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+        }
+      ],
+      "duration_ms": 219140,
+      "name": "Ma quale idea - Myd Remix (Radio Edit)",
+      "url": "https://open.spotify.com/track/1G3jHsWf0F40SxCRQV6oxR"
     },
     {
       "added_at": "2025-11-13 23:01:23",
@@ -839,22 +855,6 @@
     {
       "added_at": "2025-11-13 23:01:23",
       "album": {
-        "name": "Take A Chance",
-        "url": "https://open.spotify.com/album/0jFg1pE1m0257KL4hpzq2m"
-      },
-      "artists": [
-        {
-          "name": "Mr. Flagio",
-          "url": "https://open.spotify.com/artist/1arUaR84JlrYFPAjZaBKSq"
-        }
-      ],
-      "duration_ms": 472361,
-      "name": "Take A Chance - Original Mix",
-      "url": "https://open.spotify.com/track/0lLqS6XnoLYJJXHj57h4jz"
-    },
-    {
-      "added_at": "2025-11-13 23:01:23",
-      "album": {
         "name": "E m\u00f2 e m\u00f2 (Mixed By Erry Remix)",
         "url": "https://open.spotify.com/album/3oEAlLpsfnwQzGWH0kq4HA"
       },
@@ -871,6 +871,22 @@
       "duration_ms": 192000,
       "name": "E m\u00f2 e m\u00f2 - Mixed By Erry Remix (Radio Edit)",
       "url": "https://open.spotify.com/track/0NOhqNiNfdtAWZdCYcu7K0"
+    },
+    {
+      "added_at": "2025-11-13 23:01:23",
+      "album": {
+        "name": "Take A Chance",
+        "url": "https://open.spotify.com/album/0jFg1pE1m0257KL4hpzq2m"
+      },
+      "artists": [
+        {
+          "name": "Mr. Flagio",
+          "url": "https://open.spotify.com/artist/1arUaR84JlrYFPAjZaBKSq"
+        }
+      ],
+      "duration_ms": 472361,
+      "name": "Take A Chance - Original Mix",
+      "url": "https://open.spotify.com/track/0lLqS6XnoLYJJXHj57h4jz"
     },
     {
       "added_at": "2025-11-13 23:01:23",
@@ -923,6 +939,22 @@
     {
       "added_at": "2025-11-13 23:01:23",
       "album": {
+        "name": "Testa / Caracalla Dub",
+        "url": "https://open.spotify.com/album/1shKBzBkcXLzJcJszjI2fp"
+      },
+      "artists": [
+        {
+          "name": "Lorenzo_BITW",
+          "url": "https://open.spotify.com/artist/3Za28S9hIyeyGQmAk8d4FV"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Testa",
+      "url": "https://open.spotify.com/track/56HURNYEgiEE4g4Dnh4Zh0"
+    },
+    {
+      "added_at": "2025-11-13 23:01:23",
+      "album": {
         "name": "La vita nuova (Remixes)",
         "url": "https://open.spotify.com/album/0niVkAtTbU8eq1zpy3HzcT"
       },
@@ -947,38 +979,6 @@
       "duration_ms": 385296,
       "name": "La vita nuova - Daniele Baldelli & Marco Dionigi Remix",
       "url": "https://open.spotify.com/track/74U9pNsCSdKGwvDIKbG4FO"
-    },
-    {
-      "added_at": "2025-11-13 23:01:23",
-      "album": {
-        "name": "Testa / Caracalla Dub",
-        "url": "https://open.spotify.com/album/1shKBzBkcXLzJcJszjI2fp"
-      },
-      "artists": [
-        {
-          "name": "Lorenzo_BITW",
-          "url": "https://open.spotify.com/artist/3Za28S9hIyeyGQmAk8d4FV"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Testa",
-      "url": "https://open.spotify.com/track/56HURNYEgiEE4g4Dnh4Zh0"
-    },
-    {
-      "added_at": "2025-11-13 23:01:23",
-      "album": {
-        "name": "Burn It!",
-        "url": "https://open.spotify.com/album/5TR3C0glWSRf10jWPnrsg5"
-      },
-      "artists": [
-        {
-          "name": "Mind Enterprises",
-          "url": "https://open.spotify.com/artist/5pN1DJhPFDKso4OtC0QhnB"
-        }
-      ],
-      "duration_ms": 199454,
-      "name": "Burn It!",
-      "url": "https://open.spotify.com/track/0ADXYdnGtoEcUodPirMYXZ"
     },
     {
       "added_at": "2025-11-13 23:01:23",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2025-11-13 23:01:23",
       "album": {
-        "name": "Mini Pony",
-        "url": "https://open.spotify.com/album/2CCMRVYIgWLMF276c00oi7"
-      },
-      "artists": [
-        {
-          "name": "Protopapa",
-          "url": "https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54"
-        },
-        {
-          "name": "S\u00e9bastien Delage",
-          "url": "https://open.spotify.com/artist/5h0ORvr8vGIg2fkQAu9m5M"
-        }
-      ],
-      "duration_ms": 209053,
-      "name": "Mini Pony",
-      "url": "https://open.spotify.com/track/2GhTxFgt38iqze9F7uMghv"
-    },
-    {
-      "added_at": "2025-11-13 23:01:23",
-      "album": {
         "name": "Che Caldo",
         "url": "https://open.spotify.com/album/20QTEjaGNPvDhQpe1nPNCX"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 205903,
       "name": "Che Caldo",
       "url": "https://open.spotify.com/track/0pKlilwwUTxcbZsUFUouwP"
+    },
+    {
+      "added_at": "2025-11-13 23:01:23",
+      "album": {
+        "name": "Mini Pony",
+        "url": "https://open.spotify.com/album/2CCMRVYIgWLMF276c00oi7"
+      },
+      "artists": [
+        {
+          "name": "Protopapa",
+          "url": "https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54"
+        },
+        {
+          "name": "S\u00e9bastien Delage",
+          "url": "https://open.spotify.com/artist/5h0ORvr8vGIg2fkQAu9m5M"
+        }
+      ],
+      "duration_ms": 209053,
+      "name": "Mini Pony",
+      "url": "https://open.spotify.com/track/2GhTxFgt38iqze9F7uMghv"
     },
     {
       "added_at": "2025-11-13 23:01:23",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2025-11-13 23:01:23",
       "album": {
+        "name": "From Here to Eternity (Remastered)",
+        "url": "https://open.spotify.com/album/6lE5ickVjJ90hRAFdNCpjv"
+      },
+      "artists": [
+        {
+          "name": "Giorgio Moroder",
+          "url": "https://open.spotify.com/artist/6jU2Tt13MmXYk0ZBv1KmfO"
+        }
+      ],
+      "duration_ms": 233080,
+      "name": "From Here to Eternity - Bonus Track - Single Version - Remastered",
+      "url": "https://open.spotify.com/track/0lY23NrYMQOQ9qKl6TzJiB"
+    },
+    {
+      "added_at": "2025-11-13 23:01:23",
+      "album": {
         "name": "Luca (Protopapa Remix)",
         "url": "https://open.spotify.com/album/4WFylezzuTH1eMxbu10hjW"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 193762,
       "name": "Luca (Protopapa Remix)",
       "url": "https://open.spotify.com/track/4ZA06tbP3P7GvsNYm9n8g2"
-    },
-    {
-      "added_at": "2025-11-13 23:01:23",
-      "album": {
-        "name": "From Here to Eternity (Remastered)",
-        "url": "https://open.spotify.com/album/6lE5ickVjJ90hRAFdNCpjv"
-      },
-      "artists": [
-        {
-          "name": "Giorgio Moroder",
-          "url": "https://open.spotify.com/artist/6jU2Tt13MmXYk0ZBv1KmfO"
-        }
-      ],
-      "duration_ms": 233080,
-      "name": "From Here to Eternity - Bonus Track - Single Version - Remastered",
-      "url": "https://open.spotify.com/track/0lY23NrYMQOQ9qKl6TzJiB"
     },
     {
       "added_at": "2025-11-13 23:01:23",

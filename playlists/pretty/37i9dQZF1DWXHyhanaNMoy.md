@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Motion & good vibes! Cover: Kish ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,873 likes - 74 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,864 likes - 74 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

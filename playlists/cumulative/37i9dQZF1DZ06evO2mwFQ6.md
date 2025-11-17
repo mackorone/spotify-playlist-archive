@@ -4,12 +4,13 @@
 
 > This is Adam Brand\. The essential tracks, all in one playlist.
 
-141 songs - 8 hr 12 min
+142 songs - 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [All or Nothing](https://open.spotify.com/track/0BBysM0n9aupJTpYrDhtCc) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [All or Nothing](https://open.spotify.com/album/6mrv40a43iC5ocTZXkFOjX) | 3:27 | 2024-12-04 |  |
 | [All Or Nothing](https://open.spotify.com/track/1LiMVKhl8eQNhhNTBRowb1) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [All Or Nothing](https://open.spotify.com/album/78CHrctUDb2LjgFdInJwms) | 3:27 | 2023-06-17 | 2024-12-04 |
+| [Bad Case of Loving You](https://open.spotify.com/track/3BBbP3k4KCDL9wY6gx29Zt) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia), [The Outlaws](https://open.spotify.com/artist/2GNgLedxhidCGAbrUfR9iY) | [Adam Brand and The Outlaws](https://open.spotify.com/album/4T2RGByox3Mf1gy23ZlE0h) | 3:15 | 2025-11-17 |  |
 | [Beating Around The Bush](https://open.spotify.com/track/0Ul76B6hmCMTEAgjblo1Am) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Good Friends](https://open.spotify.com/album/4Xk5qSOfv6GtovEcH31maO) | 3:19 | 2023-06-17 | 2025-10-20 |
 | [Beating Around The Bush](https://open.spotify.com/track/1bAGDBXqTpEiw1xv335cG8) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Good Friends](https://open.spotify.com/album/2K37cfIrnYl9iTWzugmGyz) | 3:19 | 2025-10-20 |  |
 | [Blame It On Eve](https://open.spotify.com/track/2Gb45i57zA76fV09OmQjGO) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Blame It On Eve](https://open.spotify.com/album/5rJuxuT06npGq0ImHMGsOL) | 3:43 | 2023-06-17 | 2025-10-26 |
@@ -127,7 +128,7 @@
 | [Still The One](https://open.spotify.com/track/6drVWzBYAceXUCAtdl1Fnu) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Still The One](https://open.spotify.com/album/3tQSwavTtrMTGebddI8Fqw) | 2:38 | 2023-06-17 | 2024-12-06 |
 | [Sweet Home Alabama \(feat\. Adam Brand\)](https://open.spotify.com/track/2u6J72xygaq4q7YQ4fEwJC) | [Jason Owen](https://open.spotify.com/artist/6HtcB71Ns292SDfrwLEo05), [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Life Is A Highway](https://open.spotify.com/album/4eGhBqwEyI7ZCKprqu4dK7) | 4:30 | 2023-06-17 |  |
 | [That Changes Everything](https://open.spotify.com/track/3qOdYOBLsGKhTPts5F54KM) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Greatest Hits 1998\-2008](https://open.spotify.com/album/6hfdWnqQl1UJ4vwQGaRmjn) | 3:59 | 2024-12-02 | 2024-12-06 |
-| [That Changes Everything](https://open.spotify.com/track/182cBcdeEOT7dpyHPvqqPB) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [What a Life](https://open.spotify.com/album/53KjiiG7QDqJhoikHHpnPD) | 4:03 | 2025-11-03 |  |
+| [That Changes Everything](https://open.spotify.com/track/182cBcdeEOT7dpyHPvqqPB) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [What a Life](https://open.spotify.com/album/53KjiiG7QDqJhoikHHpnPD) | 4:03 | 2025-11-03 | 2025-11-17 |
 | [That Changes Everything](https://open.spotify.com/track/6GKzNfRphjAXwjCmPzazKS) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [What a Life](https://open.spotify.com/album/5sGkXduWzw2XCG8fAfkfcJ) | 4:03 | 2024-12-06 | 2024-12-30 |
 | [The ANZAC](https://open.spotify.com/track/2a3LVayVnftmmlFyXrwNQQ) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Built For Speed](https://open.spotify.com/album/3lHKHRM23ctBS8tJjISrJZ) | 4:51 | 2025-10-23 |  |
 | [The Anzac](https://open.spotify.com/track/2mOCf3tD0R4ZcWEI7wRv9G) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Built For Speed](https://open.spotify.com/album/2MUhRWkiW8VCwfc6XbTkXc) | 4:51 | 2023-06-17 | 2025-10-23 |

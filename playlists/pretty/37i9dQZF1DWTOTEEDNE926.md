@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOTEEDNE926.md) - [plain]
 
 > las mujeres ya no lloran ✨ De La Rose en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,140 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,161 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Inspector. The essential tracks, all in one playlist.",
-  "num_followers": 121256,
+  "num_followers": 121276,
   "original_name": "This Is Inspector",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRZxAAAAAAACYSigZ0qrPpUiqPf9Rx6H",
+  "snapshot_id": "aRfCgAAAAACx5PCs7iGSoLJcm0JXFy4I",
   "tracks": [
     {
       "added_at": null,
@@ -631,18 +631,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canciones De Amor, Y Un Remedio Pa'l Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha"
+        "name": "Sonando desde el Auditorio Nacional",
+        "url": "https://open.spotify.com/album/3KIOJqMlw5Mon5X6NfVLr8"
       },
       "artists": [
         {
           "name": "Inspector",
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        },
+        {
+          "name": "Out Of Control Army",
+          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
         }
       ],
-      "duration_ms": 182000,
-      "name": "Lo Que T\u00fa Me Das - Gracias",
-      "url": "https://open.spotify.com/track/7eOuceG9xpLU9dJaGsiOB4"
+      "duration_ms": 226466,
+      "name": "Ara\u00f1a Ska - Sonando desde el Auditorio Nacional",
+      "url": "https://open.spotify.com/track/4SKvkWO5CPTTkkzOt4P3SP"
     },
     {
       "added_at": null,
@@ -659,6 +663,38 @@
       "duration_ms": 209793,
       "name": "Volvamos a Ser Novios",
       "url": "https://open.spotify.com/track/1TaxeNJAmzQ91dh9zF5701"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Canciones De Amor, Y Un Remedio Pa'l Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Lo Que T\u00fa Me Das - Gracias",
+      "url": "https://open.spotify.com/track/7eOuceG9xpLU9dJaGsiOB4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "P\u00e1ginas en Blanco",
+        "url": "https://open.spotify.com/album/5UUTz6uw8xlU6V56pBXW8G"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 273559,
+      "name": "Pasa la Vida",
+      "url": "https://open.spotify.com/track/4DP3Pl4f2QysGpBvBakrIE"
     },
     {
       "added_at": null,
@@ -683,42 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "P\u00e1ginas en Blanco",
-        "url": "https://open.spotify.com/album/5UUTz6uw8xlU6V56pBXW8G"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 273559,
-      "name": "Pasa la Vida",
-      "url": "https://open.spotify.com/track/4DP3Pl4f2QysGpBvBakrIE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sonando desde el Auditorio Nacional",
-        "url": "https://open.spotify.com/album/3KIOJqMlw5Mon5X6NfVLr8"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        },
-        {
-          "name": "Out Of Control Army",
-          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
-        }
-      ],
-      "duration_ms": 226466,
-      "name": "Ara\u00f1a Ska - Sonando desde el Auditorio Nacional",
-      "url": "https://open.spotify.com/track/4SKvkWO5CPTTkkzOt4P3SP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ska a La Carta",
         "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
       },
@@ -731,22 +731,6 @@
       "duration_ms": 228400,
       "name": "\"Lamba Do Ska\" (Llorando Se Fue)",
       "url": "https://open.spotify.com/track/6KNGqIRhE44Cf56dvcgi1l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Serpientes Y Escaleras",
-        "url": "https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 242800,
-      "name": "La Tregua",
-      "url": "https://open.spotify.com/track/13lwyE1cMl3KDmAMgRMHvl"
     },
     {
       "added_at": null,
@@ -787,6 +771,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Serpientes Y Escaleras",
+        "url": "https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 242800,
+      "name": "La Tregua",
+      "url": "https://open.spotify.com/track/13lwyE1cMl3KDmAMgRMHvl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ska a La Carta",
         "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
       },
@@ -799,22 +799,6 @@
       "duration_ms": 172771,
       "name": "My Girl",
       "url": "https://open.spotify.com/track/23ZPovMSlcsbHq2aQWQMM2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Serpientes Y Escaleras",
-        "url": "https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "No Puedo Ser Tu Amigo",
-      "url": "https://open.spotify.com/track/2O19dNVIKtMF6K0SKRWjiV"
     },
     {
       "added_at": null,
@@ -847,6 +831,22 @@
       "duration_ms": 239333,
       "name": "Desatinos",
       "url": "https://open.spotify.com/track/0Hr6yaFqBNiDi05aVGGbMM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Serpientes Y Escaleras",
+        "url": "https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "No Puedo Ser Tu Amigo",
+      "url": "https://open.spotify.com/track/2O19dNVIKtMF6K0SKRWjiV"
     },
     {
       "added_at": null,

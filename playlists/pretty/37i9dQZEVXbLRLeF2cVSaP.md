@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,389 likes - 50 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,397 likes - 50 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [мило материшься](https://open.spotify.com/track/4clWtg8OzmLO0TFBY7FGRm) | [volhey](https://open.spotify.com/artist/6BHwpXJsWpRi3aIzmAgGu8) | [мило материшься](https://open.spotify.com/album/3IpbEXtKfc8REXAFwKN642) | 2:00 |
 | 50 | [я молодой вампир vamp](https://open.spotify.com/track/6wkSonQhYvYe1LPeEswTYk) | [урал гайсин](https://open.spotify.com/artist/6CGetCSvhKrqmeKnsaI4Bm) | [саундклауд пак](https://open.spotify.com/album/3vvHeN07ySuHHcubVvhgyw) | 1:31 |
 
-Snapshot ID: `MKvxUAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MK1AeAAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -1,6 +1,6 @@
 {
   "description": "All your favourite pop songs, remixed to perfection. Cover: David Guetta, Teddy Swims, Tones & I",
-  "num_followers": 470383,
+  "num_followers": 470395,
   "original_name": "Massive Pop Remixes",
   "owner": {
     "name": "Spotify",
@@ -719,6 +719,34 @@
     {
       "added_at": "2025-11-14 15:32:04",
       "album": {
+        "name": "Levitating (feat. Madonna and Missy Elliott) [The Blessed Madonna Remix]",
+        "url": "https://open.spotify.com/album/6smIdnnGseiA4jiEcOjcic"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        },
+        {
+          "name": "The Blessed Madonna",
+          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+        }
+      ],
+      "duration_ms": 250280,
+      "name": "Levitating (feat. Madonna and Missy Elliott) [The Blessed Madonna Remix]",
+      "url": "https://open.spotify.com/track/0pk1hxhJLBSZZ5RKBhcwOa"
+    },
+    {
+      "added_at": "2025-11-14 15:32:04",
+      "album": {
         "name": "like JENNIE",
         "url": "https://open.spotify.com/album/2PxwTnSJW1mXpnb1HO2Tsf"
       },
@@ -755,34 +783,6 @@
       "duration_ms": 171304,
       "name": "Revolving door - Lavern remix",
       "url": "https://open.spotify.com/track/6AiZxO930ZHxwyYjigyCgc"
-    },
-    {
-      "added_at": "2025-11-14 15:32:04",
-      "album": {
-        "name": "Levitating (feat. Madonna and Missy Elliott) [The Blessed Madonna Remix]",
-        "url": "https://open.spotify.com/album/6smIdnnGseiA4jiEcOjcic"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        },
-        {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
-        },
-        {
-          "name": "The Blessed Madonna",
-          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
-        }
-      ],
-      "duration_ms": 250280,
-      "name": "Levitating (feat. Madonna and Missy Elliott) [The Blessed Madonna Remix]",
-      "url": "https://open.spotify.com/track/0pk1hxhJLBSZZ5RKBhcwOa"
     },
     {
       "added_at": "2025-11-14 15:32:04",
@@ -843,26 +843,6 @@
     {
       "added_at": "2025-11-14 15:32:04",
       "album": {
-        "name": "Sports car (remixes)",
-        "url": "https://open.spotify.com/album/3otWafB6ZVEFMM9KdeEiR4"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        },
-        {
-          "name": "TELYKAST",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Sports car - TELYKAST Remix",
-      "url": "https://open.spotify.com/track/0ghc4iHJEZTAIAKUI7YxA7"
-    },
-    {
-      "added_at": "2025-11-14 15:32:04",
-      "album": {
         "name": "Post Malone (feat. RANI) [VIZE Remix]",
         "url": "https://open.spotify.com/album/2idnYaYkAG2xDus7xk1yNZ"
       },
@@ -887,22 +867,22 @@
     {
       "added_at": "2025-11-14 15:32:04",
       "album": {
-        "name": "NOW IT'S GONE (BL3SS REMIX)",
-        "url": "https://open.spotify.com/album/0XK1fxAoMOulFuvsKOHyIp"
+        "name": "Sports car (remixes)",
+        "url": "https://open.spotify.com/album/3otWafB6ZVEFMM9KdeEiR4"
       },
       "artists": [
         {
-          "name": "IN PARALLEL",
-          "url": "https://open.spotify.com/artist/6xaiGRpXAB9JdoSy3gzw4H"
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         },
         {
-          "name": "BL3SS",
-          "url": "https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI"
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
         }
       ],
-      "duration_ms": 138461,
-      "name": "NOW IT'S GONE - BL3SS REMIX",
-      "url": "https://open.spotify.com/track/5JhnPJ9sjaLcQ75vhGZzws"
+      "duration_ms": 150000,
+      "name": "Sports car - TELYKAST Remix",
+      "url": "https://open.spotify.com/track/0ghc4iHJEZTAIAKUI7YxA7"
     },
     {
       "added_at": "2025-11-14 15:32:04",
@@ -935,6 +915,26 @@
     {
       "added_at": "2025-11-14 15:32:04",
       "album": {
+        "name": "NOW IT'S GONE (BL3SS REMIX)",
+        "url": "https://open.spotify.com/album/0XK1fxAoMOulFuvsKOHyIp"
+      },
+      "artists": [
+        {
+          "name": "IN PARALLEL",
+          "url": "https://open.spotify.com/artist/6xaiGRpXAB9JdoSy3gzw4H"
+        },
+        {
+          "name": "BL3SS",
+          "url": "https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI"
+        }
+      ],
+      "duration_ms": 138461,
+      "name": "NOW IT'S GONE - BL3SS REMIX",
+      "url": "https://open.spotify.com/track/5JhnPJ9sjaLcQ75vhGZzws"
+    },
+    {
+      "added_at": "2025-11-14 15:32:04",
+      "album": {
         "name": "Mad Love (Remixes)",
         "url": "https://open.spotify.com/album/0o9d312clt8gVtz1uZZkBW"
       },
@@ -951,26 +951,6 @@
       "duration_ms": 200893,
       "name": "Mad Love - Blinkie Remix",
       "url": "https://open.spotify.com/track/5qiQbOa6AFEO3P111y9Jry"
-    },
-    {
-      "added_at": "2025-11-14 15:32:04",
-      "album": {
-        "name": "It's ok I'm ok (remixes)",
-        "url": "https://open.spotify.com/album/3XaVpz5yxOIkha03FETXPQ"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        },
-        {
-          "name": "Ian Asher",
-          "url": "https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km"
-        }
-      ],
-      "duration_ms": 166125,
-      "name": "It's ok I'm ok - Ian Asher remix",
-      "url": "https://open.spotify.com/track/6GAvlyyIZM9uvNa5VPSFMK"
     },
     {
       "added_at": "2025-11-14 15:32:04",
@@ -995,22 +975,22 @@
     {
       "added_at": "2025-11-14 15:32:04",
       "album": {
-        "name": "Lavender Haze (Remixes)",
-        "url": "https://open.spotify.com/album/5LyzI39gkePgpHz38bEQIr"
+        "name": "It's ok I'm ok (remixes)",
+        "url": "https://open.spotify.com/album/3XaVpz5yxOIkha03FETXPQ"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         },
         {
-          "name": "Snakehips",
-          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+          "name": "Ian Asher",
+          "url": "https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km"
         }
       ],
-      "duration_ms": 187510,
-      "name": "Lavender Haze - Snakehips Remix",
-      "url": "https://open.spotify.com/track/6F67FNdOBNMFzxdj1CQ5pL"
+      "duration_ms": 166125,
+      "name": "It's ok I'm ok - Ian Asher remix",
+      "url": "https://open.spotify.com/track/6GAvlyyIZM9uvNa5VPSFMK"
     },
     {
       "added_at": "2025-11-14 15:32:04",
@@ -1035,6 +1015,26 @@
     {
       "added_at": "2025-11-14 15:32:04",
       "album": {
+        "name": "Lavender Haze (Remixes)",
+        "url": "https://open.spotify.com/album/5LyzI39gkePgpHz38bEQIr"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        }
+      ],
+      "duration_ms": 187510,
+      "name": "Lavender Haze - Snakehips Remix",
+      "url": "https://open.spotify.com/track/6F67FNdOBNMFzxdj1CQ5pL"
+    },
+    {
+      "added_at": "2025-11-14 15:32:04",
+      "album": {
         "name": "Lil Boo Thang (Galantis Remix)",
         "url": "https://open.spotify.com/album/0xoWZgToO4LHIFq5HjSKt5"
       },
@@ -1055,22 +1055,22 @@
     {
       "added_at": "2025-11-14 15:32:04",
       "album": {
-        "name": "exes (Regard Remix)",
-        "url": "https://open.spotify.com/album/1U663EH8lg9Z0Jxk1hSWh9"
+        "name": "Whatever (The Remixes)",
+        "url": "https://open.spotify.com/album/4wqObiiJfSvC0W52YG1X0s"
       },
       "artists": [
         {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
         },
         {
-          "name": "Regard",
-          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         }
       ],
-      "duration_ms": 182508,
-      "name": "exes - Regard Remix",
-      "url": "https://open.spotify.com/track/4NXziaKXuKQAuuJ1Sjk5yA"
+      "duration_ms": 165714,
+      "name": "Whatever (with Ava Max) - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/2e0Lsi6FfpmjKtdKkaZHuO"
     }
   ],
   "unique_name": "Massive Pop Remixes",

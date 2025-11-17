@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Poppy is on top of today's best Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,626,153 likes - 79 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,626,601 likes - 79 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bruised Sky](https://open.spotify.com/track/3Xf7Njd3lTqZbNkeLPGoFH) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Bruised Sky](https://open.spotify.com/album/7qSK2ETB3f6sPy39dNbUr4) | 3:40 |
 | 2 | [Dying To Love](https://open.spotify.com/track/1TPdMmb92BoWvDFQlCuVl0) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Dying To Love](https://open.spotify.com/album/46UaOs7CHiOPGGdxUtWvcj) | 4:16 |
-| 3 | [Shelter](https://open.spotify.com/track/53ricdihmEjTUBtBGRWK5b) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [Lonely God](https://open.spotify.com/album/2Xxkietvt0COre6jAvs6OW) | 3:26 |
-| 4 | [New Disease](https://open.spotify.com/track/17mzKJARvVNR7eDyPqBpIG) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [New Disease](https://open.spotify.com/album/23L4tjuxXU9eTZ1Zs1VZDf) | 3:13 |
+| 3 | [New Disease](https://open.spotify.com/track/17mzKJARvVNR7eDyPqBpIG) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [New Disease](https://open.spotify.com/album/23L4tjuxXU9eTZ1Zs1VZDf) | 3:13 |
+| 4 | [Shelter](https://open.spotify.com/track/53ricdihmEjTUBtBGRWK5b) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [Lonely God](https://open.spotify.com/album/2Xxkietvt0COre6jAvs6OW) | 3:26 |
 | 5 | [The Laugh Track](https://open.spotify.com/track/2B2r9ZYdlvntDcwmYydnsx) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [The Laugh Track](https://open.spotify.com/album/6uo9LWc5MS8CZ2QWFMEyrz) | 3:15 |
 | 6 | [Break The Silence](https://open.spotify.com/track/7xDqZut1vFgkkWdBGHBqDh) | [Nevertel](https://open.spotify.com/artist/0uTkKGuqdf7CtKlZLt9N0Y), [Sleep Theory](https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN) | [Break the Silence](https://open.spotify.com/album/6ZHhyCqELRmVKSzmrM8elK) | 3:06 |
 | 7 | [Throne Of Want](https://open.spotify.com/track/3Hrdh8vuUbeCK6bFkd4HZX) | [Cenobia](https://open.spotify.com/artist/6RncuM8SQrNoFWTzKeloDG) | [Throne Of Want](https://open.spotify.com/album/0xt9zIEWpL563lgwEgFE0x) | 5:53 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 78 | [Spit XXV](https://open.spotify.com/track/0PCH56B4BPJuD7qikh6Y7e) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Spit XXV](https://open.spotify.com/album/0WYZiJ2D46evxGdyAJOchS) | 2:45 |
 | 79 | [Coda](https://open.spotify.com/track/7HgXurNHAac0UPMpTKWCq4) | [NOVELISTS](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [CODA](https://open.spotify.com/album/1y3G3ozQ3CTRkBMi2N8QAn) | 4:09 |
 
-Snapshot ID: `AAAAABvMC3OYUQnfQA9INVhSqwQhvQE8`
+Snapshot ID: `AAAAALQsKAGhTjFUuoY4F8oiapcf7Lue`

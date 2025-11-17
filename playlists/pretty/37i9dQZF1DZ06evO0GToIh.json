@@ -1,12 +1,12 @@
 {
   "description": "This is Eden Mu\u00f1oz. The essential tracks, all in one playlist.",
-  "num_followers": 321949,
+  "num_followers": 322143,
   "original_name": "This Is Eden Mu\u00f1oz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRZxAAAAAAAX2fEzgqB+ZgQOupqSfNEo",
+  "snapshot_id": "aRfCgAAAAABswAwdd2lGxDSlkxjlYTsO",
   "tracks": [
     {
       "added_at": null,
@@ -507,22 +507,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "GARC\u00cdA",
-        "url": "https://open.spotify.com/album/1nwWnsVZSWIpMebokmGwdo"
+        "name": "Eden",
+        "url": "https://open.spotify.com/album/2Mhh5KI8hfKMkpHs7xkWBt"
       },
       "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        },
         {
           "name": "Eden Mu\u00f1oz",
           "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 168203,
-      "name": "Llorar Por Ella",
-      "url": "https://open.spotify.com/track/3VVQwgH72ke5lwjuHKMgdb"
+      "duration_ms": 245846,
+      "name": "Mi Lugar Favorito",
+      "url": "https://open.spotify.com/track/1gYG0DmOex4cswuejfN1H1"
     },
     {
       "added_at": null,
@@ -543,18 +539,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eden",
-        "url": "https://open.spotify.com/album/2Mhh5KI8hfKMkpHs7xkWBt"
+        "name": "GARC\u00cdA",
+        "url": "https://open.spotify.com/album/1nwWnsVZSWIpMebokmGwdo"
       },
       "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        },
         {
           "name": "Eden Mu\u00f1oz",
           "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 245846,
-      "name": "Mi Lugar Favorito",
-      "url": "https://open.spotify.com/track/1gYG0DmOex4cswuejfN1H1"
+      "duration_ms": 168203,
+      "name": "Llorar Por Ella",
+      "url": "https://open.spotify.com/track/3VVQwgH72ke5lwjuHKMgdb"
     },
     {
       "added_at": null,
@@ -647,6 +647,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Historia Debe Continuar (TOUR EN VIVO) [En Vivo]",
+        "url": "https://open.spotify.com/album/7mZcXcmJJ2ZvuTu2bYTEek"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 243503,
+      "name": "Si Te Pudiera Mentir - En Vivo",
+      "url": "https://open.spotify.com/track/4QmzK1fWkPU8h23ZTf5dOH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mi Norte & Mi Sur",
         "url": "https://open.spotify.com/album/5am8zd6CdS7HxkzGSZV0in"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 211893,
       "name": "Mi Norte & Mi Sur",
       "url": "https://open.spotify.com/track/0NG7MiRha4jTNne2Gw2MLR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Historia Debe Continuar (TOUR EN VIVO) [En Vivo]",
-        "url": "https://open.spotify.com/album/7mZcXcmJJ2ZvuTu2bYTEek"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 243503,
-      "name": "Si Te Pudiera Mentir - En Vivo",
-      "url": "https://open.spotify.com/track/4QmzK1fWkPU8h23ZTf5dOH"
     },
     {
       "added_at": null,

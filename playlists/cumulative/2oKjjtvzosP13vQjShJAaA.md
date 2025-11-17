@@ -4,7 +4,7 @@
 
 > wöchentliche handverlesene empfehlungen des archivs\. no industry bs
 
-140 songs - 6 hr 40 min
+141 songs - 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [act xvii: done sippin](https://open.spotify.com/track/6z0S8lrP5LA83OCUbTGshD) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7), [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv) | [Still Shinin](https://open.spotify.com/album/5NUNaj9pyIjcNd5e9ObgzE) | 2:13 | 2025-09-12 | 2025-09-20 |
 | [All meine Fehler](https://open.spotify.com/track/6t00wk6ZzyXFLT6nzjZT1c) | [Megaloh](https://open.spotify.com/artist/7M6ItqYUMPQRQQ5q54tl7G), [Oga Beats](https://open.spotify.com/artist/3igQRzdkWRLAPjYe1aFVE5) | [Feenflügel / All meine Fehler](https://open.spotify.com/album/69Fq6Ezj1EJJnsOAt8W1ne) | 3:11 | 2025-09-26 | 2025-10-03 |
 | [Andere Stadt](https://open.spotify.com/track/2nMazwTi6zJFVFYZ1jHyBp) | [Brown\-Eyes White Boy](https://open.spotify.com/artist/6BLnEWMbK74TwblikHBtB8) | [Andere Stadt](https://open.spotify.com/album/7vmGu6pYB1XryMV3F3pCLa) | 2:08 | 2025-09-04 | 2025-09-13 |
+| [Anton Saefkow Park](https://open.spotify.com/track/1I596sYIkByUU3gONbzA9Y) | [Tua](https://open.spotify.com/artist/1GXnXJCevXK2b7qDAwdU5u) | [Anton Saefkow Park](https://open.spotify.com/album/74ZVicIKHrt5aPI48T8Fw0) | 3:11 | 2025-11-16 |  |
 | [Artist Dinner mit dem Crazy Frog](https://open.spotify.com/track/1Ug6omwsb5DKb47NY494UY) | [grim104](https://open.spotify.com/artist/1FIx6l3dRwJ63QDoDFoyiS) | [Artist Dinner mit dem Crazy Frog](https://open.spotify.com/album/2M7NDvRAEJqlxmQ7guVMuL) | 2:41 | 2025-10-17 | 2025-11-01 |
 | [Bauchnabel](https://open.spotify.com/track/1OJmySRtkYu44yNzoPAlqn) | [\*maliiik](https://open.spotify.com/artist/63Oa7FWYtfPylgzUEWhZWd), [Aule](https://open.spotify.com/artist/7bgxLrixeIihZY6ZoSMTGa), [JACE](https://open.spotify.com/artist/3MEdIhw0C1WCzoIPxtifZ2) | [Bauchnabel](https://open.spotify.com/album/2mEGnFcwejIairpqtyNfDC) | 2:36 | 2025-09-26 | 2025-10-11 |
 | [Benihana](https://open.spotify.com/track/4gKnm97vebL7edL4ar1rLW) | [luci](https://open.spotify.com/artist/6K0UHgb9qfLJUz5zNUJr0M), [808Liebhaber](https://open.spotify.com/artist/0b9NoO0JO253B9tSVLeYnb) | [Guapo Guava](https://open.spotify.com/album/7iWIN2DLbMGnDTgg2gFAkP) | 5:14 | 2025-10-10 | 2025-11-08 |

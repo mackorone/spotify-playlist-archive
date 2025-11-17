@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRZxAAAAAACM7CfDO09brpNfuSVzmLYf",
+  "snapshot_id": "aRfCgAAAAADEJM7yaYT+mnhVb1c/fNSr",
   "tracks": [
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ataca de Nuevo: En Vivo, Vol. 2",
-        "url": "https://open.spotify.com/album/2Yqdp2ibr3M8sqxZNGx3zu"
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
         }
       ],
-      "duration_ms": 407840,
-      "name": "A Mi Padre",
-      "url": "https://open.spotify.com/track/1udEfRVDwNqLir9Do9trm9"
+      "duration_ms": 227760,
+      "name": "Al Diablo Con Mi Suerte",
+      "url": "https://open.spotify.com/track/0PHlq00lqPvLUQYpedHFsv"
     },
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV"
+        "name": "Ataca de Nuevo: En Vivo, Vol. 2",
+        "url": "https://open.spotify.com/album/2Yqdp2ibr3M8sqxZNGx3zu"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
         }
       ],
-      "duration_ms": 227760,
-      "name": "Al Diablo Con Mi Suerte",
-      "url": "https://open.spotify.com/track/0PHlq00lqPvLUQYpedHFsv"
+      "duration_ms": 407840,
+      "name": "A Mi Padre",
+      "url": "https://open.spotify.com/track/1udEfRVDwNqLir9Do9trm9"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Del Barrio",
-        "url": "https://open.spotify.com/album/21867014aseBS6APsqGgcN"
-      },
-      "artists": [
-        {
-          "name": "Banda Bostik",
-          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
-        }
-      ],
-      "duration_ms": 346488,
-      "name": "Juan Sin Miedo",
-      "url": "https://open.spotify.com/track/7sccHyJmpqyYpYAk8HVTpQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Genoma Humano",
         "url": "https://open.spotify.com/album/7vN4m21unn7Fy7splGXC62"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 235293,
       "name": "Hipocres\u00eda",
       "url": "https://open.spotify.com/track/1hTjikq5Pc0hfOgqHMTOVc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Del Barrio",
+        "url": "https://open.spotify.com/album/21867014aseBS6APsqGgcN"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "duration_ms": 346488,
+      "name": "Juan Sin Miedo",
+      "url": "https://open.spotify.com/track/7sccHyJmpqyYpYAk8HVTpQ"
     },
     {
       "added_at": null,
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
         }
       ],
-      "duration_ms": 385560,
-      "name": "Hipotecados",
-      "url": "https://open.spotify.com/track/7q8GWqCr3sAEp7Tgx1GURo"
+      "duration_ms": 393626,
+      "name": "Tocando Fondo",
+      "url": "https://open.spotify.com/track/1PTYtaCMIEJXvw3Y7gXXeW"
     },
     {
       "added_at": null,
@@ -555,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Genoma Humano",
+        "url": "https://open.spotify.com/album/7vN4m21unn7Fy7splGXC62"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "duration_ms": 217426,
+      "name": "Mi Amigo Manuel",
+      "url": "https://open.spotify.com/track/0UMy7gWkj930S829cgLNns"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ataca de Nuevo: En Vivo, Vol. 2",
         "url": "https://open.spotify.com/album/2Yqdp2ibr3M8sqxZNGx3zu"
       },
@@ -571,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Genoma Humano",
-        "url": "https://open.spotify.com/album/7vN4m21unn7Fy7splGXC62"
-      },
-      "artists": [
-        {
-          "name": "Banda Bostik",
-          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
-        }
-      ],
-      "duration_ms": 223386,
-      "name": "Guerrillero",
-      "url": "https://open.spotify.com/track/7vW9d63iftut4OaD1IVv17"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hipotecados",
         "url": "https://open.spotify.com/album/7gVOPdYbUUcCEp7YzorFFs"
       },
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
         }
       ],
-      "duration_ms": 393626,
-      "name": "Tocando Fondo",
-      "url": "https://open.spotify.com/track/1PTYtaCMIEJXvw3Y7gXXeW"
+      "duration_ms": 385560,
+      "name": "Hipotecados",
+      "url": "https://open.spotify.com/track/7q8GWqCr3sAEp7Tgx1GURo"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV"
-      },
-      "artists": [
-        {
-          "name": "Banda Bostik",
-          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
-        }
-      ],
-      "duration_ms": 381026,
-      "name": "Ladr\u00f3n del Barrio",
-      "url": "https://open.spotify.com/track/6rqBDztqwUSqcFueev5vTc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Genoma Humano",
         "url": "https://open.spotify.com/album/7vN4m21unn7Fy7splGXC62"
       },
@@ -644,9 +628,9 @@
           "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
         }
       ],
-      "duration_ms": 141893,
-      "name": "Perra Callejera",
-      "url": "https://open.spotify.com/track/7C7wEPaOqPOI1ki0UUv6y9"
+      "duration_ms": 223386,
+      "name": "Guerrillero",
+      "url": "https://open.spotify.com/track/7vW9d63iftut4OaD1IVv17"
     },
     {
       "added_at": null,
@@ -667,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "duration_ms": 381026,
+      "name": "Ladr\u00f3n del Barrio",
+      "url": "https://open.spotify.com/track/6rqBDztqwUSqcFueev5vTc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Del Barrio",
         "url": "https://open.spotify.com/album/21867014aseBS6APsqGgcN"
       },
@@ -683,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Genoma Humano",
+        "url": "https://open.spotify.com/album/7vN4m21unn7Fy7splGXC62"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "duration_ms": 141893,
+      "name": "Perra Callejera",
+      "url": "https://open.spotify.com/track/7C7wEPaOqPOI1ki0UUv6y9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "20 Aniversario, Vol. 2 (Rock de la Banda para la Banda)",
         "url": "https://open.spotify.com/album/6jMTR49Z5XHpUlkvEEaIhC"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 318893,
       "name": "Tlaltelolco 68",
       "url": "https://open.spotify.com/track/75MJBxhJ5nLXTBllGI5dwP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Genoma Humano",
-        "url": "https://open.spotify.com/album/7vN4m21unn7Fy7splGXC62"
-      },
-      "artists": [
-        {
-          "name": "Banda Bostik",
-          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
-        }
-      ],
-      "duration_ms": 217426,
-      "name": "Mi Amigo Manuel",
-      "url": "https://open.spotify.com/track/0UMy7gWkj930S829cgLNns"
     },
     {
       "added_at": null,

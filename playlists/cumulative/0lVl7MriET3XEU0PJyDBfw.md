@@ -4,7 +4,7 @@
 
 > Only the best Tech House 🔥 Submit: tstack.link&\#x2F;bassline\-therapy
 
-893 songs - 1 day 23 hr 16 min
+895 songs - 1 day 23 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,6 +223,7 @@
 | [Double Dutch](https://open.spotify.com/track/10LCFChcEluNFZXVFVDanE) | [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ) | [Double Dutch](https://open.spotify.com/album/11jp3aD89IP5YOWU0axfpN) | 3:22 | 2025-09-21 |  |
 | [Down](https://open.spotify.com/track/0amJfKONuoYGC8m9q4CkzG) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [INDECK.](https://open.spotify.com/artist/0vkZ3GrLFGOe2rANGmmaYY) | [Late Night Talks](https://open.spotify.com/album/438inawhNtzNDJVbaqKcFk) | 3:20 | 2024-11-17 | 2025-02-09 |
 | [Dress Code](https://open.spotify.com/track/0rK3a7tLRVgJBoc2DP3tIX) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Dress Code](https://open.spotify.com/album/4LvkMrD1HDDOzWHRS7GKE1) | 3:23 | 2024-01-15 | 2024-01-30 |
+| [Drifting Away](https://open.spotify.com/track/3Qcy8RFnLu2R7LooFrfkq6) | [Mattilo](https://open.spotify.com/artist/7gAYkHRXnXtaZk4QMJ5kJC) | [Drifting Away](https://open.spotify.com/album/22V7Zz6Qo8eXrRmLmMp8qr) | 3:04 | 2025-11-16 |  |
 | [Drip](https://open.spotify.com/track/0dfNT0PN07Ea7EU7lpoedL) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF) | [Drip](https://open.spotify.com/album/4M1hKTiZyAn6fA169Fr8MB) | 3:27 | 2025-05-03 | 2025-07-19 |
 | [Drip](https://open.spotify.com/track/7pLEOThf3QyP5fyhdZIaU7) | [Dino Munaco](https://open.spotify.com/artist/0hSxTuPbDjW5khgDBi5JO0) | [Litterbox 17](https://open.spotify.com/album/6EXuu4rShXLswSkqQVIQnB) | 3:15 | 2024-12-19 | 2024-12-21 |
 | [Drip](https://open.spotify.com/track/6jCudRhwziL1bPXfekewx2) | [Houseium](https://open.spotify.com/artist/7nLII53mP3tGEh5B5Hx83o) | [BASS EP](https://open.spotify.com/album/7CWdXMP9fmBJfBnYAU5WwC) | 3:09 | 2024-01-19 | 2024-06-24 |
@@ -329,6 +330,7 @@
 | [Go Deep](https://open.spotify.com/track/2wMaAledVg5K34rwel94lv) | [HASKELL](https://open.spotify.com/artist/5ry5gHsT7l1X84yGPZeVIj), [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [Gene Farris](https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU) | [Go Deep](https://open.spotify.com/album/6c69kxdg4BMAS50DqA1lL2) | 3:10 | 2024-12-21 | 2025-03-10 |
 | [Go Fast](https://open.spotify.com/track/5KJ8TLJypyM3nnFZtWbbry) | [NUVZ](https://open.spotify.com/artist/4fpIbSptfUs03L8woqtSPE), [Earoz](https://open.spotify.com/artist/7r5ZbYkyuez13TabFkfClH) | [Go Fast](https://open.spotify.com/album/2e0eU2uGGfV9vMd5ytU6J4) | 2:40 | 2024-06-23 | 2024-08-20 |
 | [Go Hard](https://open.spotify.com/track/50xAER3SrklBtW7Fe0VciT) | [Jewel Kid](https://open.spotify.com/artist/7eoJbho2ohpRTHDjZjkMTB) | [Go Hard](https://open.spotify.com/album/4kaqg98ATagSsnzO0Pl5y0) | 2:56 | 2025-02-16 | 2025-04-20 |
+| [GOAT](https://open.spotify.com/track/3PbYRiyLD48mzKbXZaa9L6) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Darco](https://open.spotify.com/artist/49Zm4OzK2RcWyrMLSU59ht), [Broken Hill](https://open.spotify.com/artist/1hivPylohVo1WNOWyU1zRQ) | [GOAT](https://open.spotify.com/album/08HowefGNS1fuJpsU9nshx) | 3:13 | 2025-11-16 |  |
 | [Goin' Fast](https://open.spotify.com/track/4N0PgV1TApHFNw6i0qNMBb) | [Shane Harjes](https://open.spotify.com/artist/2kOdEBV4n3GmfLC1nwb9Az) | [Vol\. 033](https://open.spotify.com/album/2WW1VAiueQghfBS4d2BplU) | 2:21 | 2025-10-10 |  |
 | [Going Down](https://open.spotify.com/track/47nm46iNKraVa2bGu8TYlz) | [Fenk](https://open.spotify.com/artist/4RIf2BdbQ8IMgPx6eet3zQ) | [Going Down](https://open.spotify.com/album/11FlM6yXmeslRHFuxjb4pu) | 2:44 | 2024-01-15 | 2024-01-30 |
 | [Good Girls](https://open.spotify.com/track/6OLoMpjjN41h5PE7SiRmC7) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Good Girls](https://open.spotify.com/album/1W3FM6uGpmdwSZE4EF0RAI) | 3:01 | 2025-01-26 | 2025-04-06 |

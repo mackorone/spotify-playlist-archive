@@ -250,7 +250,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-14",
+      "date_removed": null,
       "duration_ms": 269933,
       "name": "Ball and Chain",
       "url": "https://open.spotify.com/track/64csOaHL9FYqiOJxAi8h5X"
@@ -891,6 +891,24 @@
     },
     {
       "album": {
+        "name": "Quadrophenia (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2miMVTH3qNA49YD2BUaIWK"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129880,
+      "name": "I Am The Sea",
+      "url": "https://open.spotify.com/track/0f0DUjcrkg9Vi4Eg0abLPi"
+    },
+    {
+      "album": {
         "name": "Quadrophenia",
         "url": "https://open.spotify.com/album/3JV6BIIXo3mj6GLIGH9p8a"
       },
@@ -1118,7 +1136,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-17",
       "duration_ms": 374280,
       "name": "I've Had Enough",
       "url": "https://open.spotify.com/track/2j5BDdYwHfJVPfgzmnD2DF"
@@ -1918,7 +1936,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-17",
       "duration_ms": 268933,
       "name": "The Dirty Jobs",
       "url": "https://open.spotify.com/track/2JqIRmo5zyrneYYVG9XX5D"

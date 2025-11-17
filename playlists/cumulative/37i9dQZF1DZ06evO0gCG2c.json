@@ -1037,6 +1037,28 @@
     },
     {
       "album": {
+        "name": "Ghetto Story",
+        "url": "https://open.spotify.com/album/66QH23u1I6L6g5BFRRDqNa"
+      },
+      "artists": [
+        {
+          "name": "Cham",
+          "url": "https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262933,
+      "name": "Ghetto Story Chapter 3 (feat. Akon)",
+      "url": "https://open.spotify.com/track/10MKqZA8S3kvSrYsqbM4r6"
+    },
+    {
+      "album": {
         "name": "KONVICT KULTURE PRESENTS TEEMANAY",
         "url": "https://open.spotify.com/album/12QkZc4BjyJWPVeftlb4T3"
       },
@@ -1732,7 +1754,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-16",
+      "date_removed": null,
       "duration_ms": 184705,
       "name": "Locked Up With You",
       "url": "https://open.spotify.com/track/6uHwHayD8ao5qcUiszrqB6"
@@ -2820,7 +2842,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-17",
       "duration_ms": 190952,
       "name": "Til the Sun Rise Up (feat. Akon)",
       "url": "https://open.spotify.com/track/0yKDhfz8g8qeTNZAriJu40"
@@ -2908,7 +2930,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-17",
       "duration_ms": 187120,
       "name": "What's Love (feat. Akon)",
       "url": "https://open.spotify.com/track/4g63oKy2o7tK5tbfY0o5dW"

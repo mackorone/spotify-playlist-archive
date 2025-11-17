@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuWb88xGwFB.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,275 likes - 75 songs - 9 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,289 likes - 75 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,13 +24,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuWb88xGwFB.md) - [plain]
 | 14 | [Stop Playing With My Mind \(feat\. Darryl D'Bonneau\) \- Whiplash and Turner Vocal Mix](https://open.spotify.com/track/724JQ1VK39x03Nk4O9a5QU) | [Barbara Tucker](https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w), [Darryl D'Bonneau](https://open.spotify.com/artist/5Y5uAk2EaMYhSsxAyZHlTw) | [Stop Playing With My Mind \(feat\. Darryl D'Bonneau\)](https://open.spotify.com/album/5LzSyye1btnQ4Jsuknq6S6) | 9:26 |
 | 15 | [Keep On Jumpin' \(feat\. Chazzie\) \- Egotrip Mix](https://open.spotify.com/track/290S0NJujegLGdyqhoNpbb) | [Beatboxx](https://open.spotify.com/artist/3eCbjMCl079pmtW3KaoxLs), [Chazzie](https://open.spotify.com/artist/2l8Sszon3yQDStEHxwXFtV) | [Keep On Jumpin' \(feat\. Chazzie\)](https://open.spotify.com/album/0n0Y0D181bMgshtIJe4Qkd) | 6:21 |
 | 16 | [Indonesia \- Sambal Badjak Mix](https://open.spotify.com/track/5hux2aFTJbGZHuN0LtGQeN) | [Circle Children](https://open.spotify.com/artist/6HC1x1EziZeSZubcuNLMOP) | [Indonesia](https://open.spotify.com/album/4Uucb977IOqbwV2aNURxll) | 6:02 |
-| 17 | [\(Who?\) Keeps Changing Your Mind? \- The Night Mix](https://open.spotify.com/track/5XrnMnFLf7sQ6R9nRXIAGS) | [South Street Player](https://open.spotify.com/artist/2KnAxJh4OfnNG3Db0Ueway) | [\(Who?\) Keeps Changing Your Mind](https://open.spotify.com/album/1dHGk4t778mMsQ02eHNFR1) | 7:40 |
-| 18 | [Blues For You \- Hard Dub](https://open.spotify.com/track/1ooV7Bm7ahkeWzKNwiLItL) | [Logic](https://open.spotify.com/artist/1BF6z9EIGGoPViPON57eGC) | [Blues for You \(Remixes\)](https://open.spotify.com/album/2qjAvLXaa3S0u1jqvxXtYU) | 4:29 |
+| 17 | [Blues For You \- Hard Dub](https://open.spotify.com/track/1ooV7Bm7ahkeWzKNwiLItL) | [Logic](https://open.spotify.com/artist/1BF6z9EIGGoPViPON57eGC) | [Blues for You \(Remixes\)](https://open.spotify.com/album/2qjAvLXaa3S0u1jqvxXtYU) | 4:29 |
+| 18 | [\(Who?\) Keeps Changing Your Mind? \- The Night Mix](https://open.spotify.com/track/5XrnMnFLf7sQ6R9nRXIAGS) | [South Street Player](https://open.spotify.com/artist/2KnAxJh4OfnNG3Db0Ueway) | [\(Who?\) Keeps Changing Your Mind](https://open.spotify.com/album/1dHGk4t778mMsQ02eHNFR1) | 7:40 |
 | 19 | [Spark da Meth \- Bangin Like a Benzi Mix](https://open.spotify.com/track/1M3kIAQc7KGaTm8bJHEa7X) | [Da Mongoloids](https://open.spotify.com/artist/4kFSMAFsG778Q66t3zHXaG) | [Spark Da Meth](https://open.spotify.com/album/7tL9MxoqsNGJMqnZUfs5ME) | 6:33 |
 | 20 | [Break Night \- The Mardi Gras Mix](https://open.spotify.com/track/18BSfCDcxdUMJ6Q0e78Ra1) | [The Mole People](https://open.spotify.com/artist/0Q2uG3App7RQkfBSt7f2lt) | [Break Night](https://open.spotify.com/album/6aMCKm4Nm9iBCc6TspYBva) | 13:00 |
 | 21 | [Let's Groove](https://open.spotify.com/track/0DJMpeEsZqOhkS7rrNu694) | [George Morel](https://open.spotify.com/artist/1lFrAhvIUbiWsTEMexSlDy) | [Morel's Grooves 4](https://open.spotify.com/album/5ngw90ZPnAE2l689ayRWQb) | 6:57 |
-| 22 | [Asuca \- Tribal Mix](https://open.spotify.com/track/39SGubV6xzcknuwddb8d6d) | [R.A.W.](https://open.spotify.com/artist/0WRq0dNGEZcy9evM2UuL9C) | [Asuca \(Remixes\)](https://open.spotify.com/album/55es5pld0PeugvDtRU1PZi) | 5:56 |
-| 23 | [The Warning \- Inner Mix](https://open.spotify.com/track/0EThIfEDrSIszyhVATkCoi) | [Logic](https://open.spotify.com/artist/1BF6z9EIGGoPViPON57eGC) | [Strictly Rhythm Est\. 1989: 20 Years of Classics](https://open.spotify.com/album/2dVYsrHXFekyramy50OdGn) | 8:09 |
+| 22 | [The Warning \- Inner Mix](https://open.spotify.com/track/0EThIfEDrSIszyhVATkCoi) | [Logic](https://open.spotify.com/artist/1BF6z9EIGGoPViPON57eGC) | [Strictly Rhythm Est\. 1989: 20 Years of Classics](https://open.spotify.com/album/2dVYsrHXFekyramy50OdGn) | 8:09 |
+| 23 | [Asuca \- Tribal Mix](https://open.spotify.com/track/39SGubV6xzcknuwddb8d6d) | [R.A.W.](https://open.spotify.com/artist/0WRq0dNGEZcy9evM2UuL9C) | [Asuca \(Remixes\)](https://open.spotify.com/album/55es5pld0PeugvDtRU1PZi) | 5:56 |
 | 24 | [Sinfonia Della Notte](https://open.spotify.com/track/4AXwhQn8kGfzYe02gp1Dvo) | [Dennis Ferrer](https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi) | [AZ Mezzanine Digital Volume 3](https://open.spotify.com/album/4SnVRbabumUHm8lReD3809) | 7:24 |
 | 25 | [Deep Inside](https://open.spotify.com/track/5u27DT78hXMPlIfprPHGH9) | [Hardrive](https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1) | [Strictly Tiefschwarz \(DJ Edition \- Unmixed\)](https://open.spotify.com/album/4ycWyBEFfltLZc0pvk7Kud) | 6:30 |
 | 26 | [Muevete Mama \- Broder Mix](https://open.spotify.com/track/5j1UuKogoBifaCtspPmcvZ) | [Afro\-Cube](https://open.spotify.com/artist/404yHHpunUI8aDneAYbY1u) | [Muevete Mama](https://open.spotify.com/album/4LGon28IgqEplZZjgnxbqr) | 6:54 |

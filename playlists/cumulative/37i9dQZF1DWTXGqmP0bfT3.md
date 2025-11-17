@@ -4,7 +4,7 @@
 
 > brutal breakdowns and riffs to amp you up.
 
-356 songs - 1 day 0 hr 5 min
+357 songs - 1 day 0 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Chaos And Earthquakes](https://open.spotify.com/track/5XNKkj1zLuCPjInOGSaQtZ) | [Nonpoint](https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z) | [X \(Deluxe Edition\)](https://open.spotify.com/album/6VR91jzeyEvl6UkEqQkswo) | 3:45 | 2021-12-17 | 2022-07-28 |
 | [Chasing Shadows](https://open.spotify.com/track/1o3dGdOfetdnkJ6OUDOioO) | [Bloodred Hourglass](https://open.spotify.com/artist/5LDGgIxaWuRV4KlY6oob6b) | [Chasing Shadows](https://open.spotify.com/album/2MOfDP2OU2EJHcaJVzt5kM) | 3:50 | 2025-08-29 | 2025-11-09 |
 | [Chop Suey!](https://open.spotify.com/track/2DlHlPMa4M17kufBvI2lEN) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Toxicity](https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh) | 3:30 | 2021-12-17 |  |
+| [City of Gold](https://open.spotify.com/track/4dwAchnLT98JadEnhCHyKB) | [Samurai Pizza Cats](https://open.spotify.com/artist/6f0FWL5v2c3a5shWKRuiwq) | [City of Gold](https://open.spotify.com/album/5X13AR12wQwEmZx07lE4Tt) | 2:58 | 2025-11-14 |  |
 | [Closure](https://open.spotify.com/track/7wOnoMYUQot21uPASWNdqa) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [Closure](https://open.spotify.com/album/6dI8WKFVpJykLgykCKXWLA) | 3:10 | 2025-08-29 |  |
 | [Collapse](https://open.spotify.com/track/6oBjnOBqngXWsRuYY5eTnz) | [After The Burial](https://open.spotify.com/artist/0uNj4RxFjG0iVPlZS753en) | [Dig Deep](https://open.spotify.com/album/7ABqA1tuH6eonHAIBaBqHe) | 4:12 | 2021-12-17 | 2022-06-09 |
 | [Cowboys from Hell](https://open.spotify.com/track/2SgbR6ttzoNlCRGQOKjrop) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Cowboys from Hell](https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe) | 4:03 | 2021-12-17 |  |
@@ -362,7 +363,7 @@
 | [Welcome To The Circus](https://open.spotify.com/track/1r3PWB1ZzxrPsIj2DNoa10) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Welcome To The Circus](https://open.spotify.com/album/4UlXCia6g1ERBw4XjinURw) | 4:16 | 2022-06-21 |  |
 | [welcome2paradise](https://open.spotify.com/track/6i4p6ySFg8PRJvgwvMgcqZ) | [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc) | [Slow Burn](https://open.spotify.com/album/3tbDu2wslQEmwMalgSgSB9) | 4:46 | 2023-12-13 | 2025-01-18 |
 | [Winner Takes All \(feat\. Alice Cooper\)](https://open.spotify.com/track/0zfjIcTc40MVFSGmGjHI9V) | [Nita Strauss](https://open.spotify.com/artist/73GhYkwfPQzmfJb1cdPqPf), [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Winner Takes All \(feat\. Alice Cooper\)](https://open.spotify.com/album/3h5f0wgybbpyb8wm9xg4oQ) | 3:25 | 2023-04-11 | 2023-05-21 |
-| [WORLD OF MALICE](https://open.spotify.com/track/3jIngIouCnZgQo3VjDRXAx) | [UnityTX](https://open.spotify.com/artist/3uPce3TKw7cjheMNhuhNs9) | [Ferality](https://open.spotify.com/album/5TRazGLWI1r9hL3XsQ1feB) | 3:24 | 2024-02-09 |  |
+| [WORLD OF MALICE](https://open.spotify.com/track/3jIngIouCnZgQo3VjDRXAx) | [UnityTX](https://open.spotify.com/artist/3uPce3TKw7cjheMNhuhNs9) | [Ferality](https://open.spotify.com/album/5TRazGLWI1r9hL3XsQ1feB) | 3:24 | 2024-02-09 | 2025-11-17 |
 | [You Want a Battle? \(Here's a War\)](https://open.spotify.com/track/1KCAEG6JcsTzi8ddZzs0nk) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Venom \(Deluxe Edition\)](https://open.spotify.com/album/1YjxZhd158jSm2906JqzXF) | 4:14 | 2021-12-17 |  |
 
 \*This playlist was first scraped on 2021-12-30. Prior content cannot be recovered.

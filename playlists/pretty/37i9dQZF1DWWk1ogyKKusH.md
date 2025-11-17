@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWk1ogyKKusH.md) - [plain]
 
 > Lose Yourself to Dance\. Listen to all music from Fortnite Daft Punk Experience here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,546 likes - 30 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,618 likes - 30 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

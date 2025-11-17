@@ -1,6 +1,6 @@
 {
   "description": "Explore the familiar tunes of Mendelssohn.",
-  "num_followers": 53059,
+  "num_followers": 53078,
   "original_name": "This Is Mendelssohn",
   "owner": {
     "name": "Spotify",
@@ -751,6 +751,26 @@
     {
       "added_at": "2025-09-15 14:00:15",
       "album": {
+        "name": "Mendelssohn: Lieder Ohne Worte",
+        "url": "https://open.spotify.com/album/6SM6VH6nmpncui2CY3L3CM"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Kyoko Tabe",
+          "url": "https://open.spotify.com/artist/4XaU59x0M0HhDA4TKt18Oy"
+        }
+      ],
+      "duration_ms": 301173,
+      "name": "Lieder Ohne Worte No. 1 in E-Flat Major, Op. 30: Andante Espressivo",
+      "url": "https://open.spotify.com/track/2z5A7a1LRsXvHCsUDwiDfG"
+    },
+    {
+      "added_at": "2025-09-15 14:00:15",
+      "album": {
         "name": "Mendelssohn: Symphonies Nos.4 \"Italian\" & 5 \"Reformation\"",
         "url": "https://open.spotify.com/album/0NaFrIKpPOgEb5dpck0lVY"
       },
@@ -771,26 +791,6 @@
       "duration_ms": 362040,
       "name": "Symphony No. 4 in A Major, Op. 90 \"Italian\": II. Andante con moto",
       "url": "https://open.spotify.com/track/4tWLz03O15dNRZQcajQX7X"
-    },
-    {
-      "added_at": "2025-09-15 14:00:15",
-      "album": {
-        "name": "Mendelssohn: Lieder Ohne Worte",
-        "url": "https://open.spotify.com/album/6SM6VH6nmpncui2CY3L3CM"
-      },
-      "artists": [
-        {
-          "name": "Felix Mendelssohn",
-          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
-        },
-        {
-          "name": "Kyoko Tabe",
-          "url": "https://open.spotify.com/artist/4XaU59x0M0HhDA4TKt18Oy"
-        }
-      ],
-      "duration_ms": 301173,
-      "name": "Lieder Ohne Worte No. 1 in E-Flat Major, Op. 30: Andante Espressivo",
-      "url": "https://open.spotify.com/track/2z5A7a1LRsXvHCsUDwiDfG"
     },
     {
       "added_at": "2025-09-15 14:00:15",

@@ -1,6 +1,6 @@
 {
   "description": "A new world of alternative electronic music.",
-  "num_followers": 131041,
+  "num_followers": 131032,
   "original_name": "Portal",
   "owner": {
     "name": "Spotify",
@@ -367,26 +367,6 @@
     {
       "added_at": "2025-10-16 13:00:01",
       "album": {
-        "name": "Now U Do",
-        "url": "https://open.spotify.com/album/7k7TUZNKlDHu5MfSSCX8rR"
-      },
-      "artists": [
-        {
-          "name": "DJ Seinfeld",
-          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
-        },
-        {
-          "name": "Confidence Man",
-          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
-        }
-      ],
-      "duration_ms": 158882,
-      "name": "Now U Do - Edit",
-      "url": "https://open.spotify.com/track/0fK4NmIDXetjIiZ2Oxz2tF"
-    },
-    {
-      "added_at": "2025-10-16 13:00:01",
-      "album": {
         "name": "Tracks of the Blue Sky",
         "url": "https://open.spotify.com/album/5kCSdyvAeUACIFEspLwr83"
       },
@@ -407,6 +387,22 @@
     {
       "added_at": "2025-10-16 13:00:01",
       "album": {
+        "name": "Ooo",
+        "url": "https://open.spotify.com/album/55F9lvdT7PRtVofAzLXDRX"
+      },
+      "artists": [
+        {
+          "name": "Skin On Skin",
+          "url": "https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa"
+        }
+      ],
+      "duration_ms": 239823,
+      "name": "Ooo",
+      "url": "https://open.spotify.com/track/3O4VZXxFLtyb8yhCHnClDu"
+    },
+    {
+      "added_at": "2025-10-16 13:00:01",
+      "album": {
         "name": "The Way I'm Feeling",
         "url": "https://open.spotify.com/album/5PHXj0gL9HuEaBPMCIBpFT"
       },
@@ -423,18 +419,22 @@
     {
       "added_at": "2025-10-16 13:00:01",
       "album": {
-        "name": "Ooo",
-        "url": "https://open.spotify.com/album/55F9lvdT7PRtVofAzLXDRX"
+        "name": "Now U Do",
+        "url": "https://open.spotify.com/album/7k7TUZNKlDHu5MfSSCX8rR"
       },
       "artists": [
         {
-          "name": "Skin On Skin",
-          "url": "https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa"
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        },
+        {
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
         }
       ],
-      "duration_ms": 239823,
-      "name": "Ooo",
-      "url": "https://open.spotify.com/track/3O4VZXxFLtyb8yhCHnClDu"
+      "duration_ms": 158882,
+      "name": "Now U Do - Edit",
+      "url": "https://open.spotify.com/track/0fK4NmIDXetjIiZ2Oxz2tF"
     },
     {
       "added_at": "2025-10-16 13:00:01",
@@ -547,26 +547,6 @@
     {
       "added_at": "2025-10-16 13:00:01",
       "album": {
-        "name": "still slipping vol. 1",
-        "url": "https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA"
-      },
-      "artists": [
-        {
-          "name": "Joy Orbison",
-          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
-        },
-        {
-          "name": "L\u00e9a Sen",
-          "url": "https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX"
-        }
-      ],
-      "duration_ms": 301933,
-      "name": "better",
-      "url": "https://open.spotify.com/track/7oNOKWpTqTnTJeyLwkwWqN"
-    },
-    {
-      "added_at": "2025-10-16 13:00:01",
-      "album": {
         "name": "Heaven Scent",
         "url": "https://open.spotify.com/album/4ZkLW5cSNvLXZC2pmRxLdV"
       },
@@ -583,6 +563,26 @@
       "duration_ms": 283424,
       "name": "Heaven Scent",
       "url": "https://open.spotify.com/track/4VY9yQMuC8izfcybXmhYOY"
+    },
+    {
+      "added_at": "2025-10-16 13:00:01",
+      "album": {
+        "name": "still slipping vol. 1",
+        "url": "https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA"
+      },
+      "artists": [
+        {
+          "name": "Joy Orbison",
+          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
+        },
+        {
+          "name": "L\u00e9a Sen",
+          "url": "https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX"
+        }
+      ],
+      "duration_ms": 301933,
+      "name": "better",
+      "url": "https://open.spotify.com/track/7oNOKWpTqTnTJeyLwkwWqN"
     },
     {
       "added_at": "2025-10-16 13:00:01",
@@ -615,22 +615,6 @@
       "duration_ms": 253478,
       "name": "Where You Need To Be",
       "url": "https://open.spotify.com/track/5wAxcO9N89pLKRo68vMqJL"
-    },
-    {
-      "added_at": "2025-10-16 13:00:01",
-      "album": {
-        "name": "Safe In My Arms / YourLove",
-        "url": "https://open.spotify.com/album/2B7X9jUKwOhDLouk997Ut3"
-      },
-      "artists": [
-        {
-          "name": "Logic1000",
-          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
-        }
-      ],
-      "duration_ms": 172129,
-      "name": "YourLove",
-      "url": "https://open.spotify.com/track/2yQweA8nCYuzFj15LiOb41"
     },
     {
       "added_at": "2025-10-16 13:00:01",
@@ -719,6 +703,22 @@
       "duration_ms": 216253,
       "name": "After Five",
       "url": "https://open.spotify.com/track/4IQyORSJmEUrOFAdUvylW0"
+    },
+    {
+      "added_at": "2025-10-16 13:00:01",
+      "album": {
+        "name": "Safe In My Arms / YourLove",
+        "url": "https://open.spotify.com/album/2B7X9jUKwOhDLouk997Ut3"
+      },
+      "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        }
+      ],
+      "duration_ms": 172129,
+      "name": "YourLove",
+      "url": "https://open.spotify.com/track/2yQweA8nCYuzFj15LiOb41"
     },
     {
       "added_at": "2025-10-16 13:00:01",
@@ -859,22 +859,6 @@
     {
       "added_at": "2025-10-16 13:00:01",
       "album": {
-        "name": "You're Not a Popstar",
-        "url": "https://open.spotify.com/album/4rs98cVa5lL5pyBprgNQMW"
-      },
-      "artists": [
-        {
-          "name": "X CLUB.",
-          "url": "https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ"
-        }
-      ],
-      "duration_ms": 224958,
-      "name": "You're Not a Popstar",
-      "url": "https://open.spotify.com/track/1gQgCVN31mBVPemIEeSLTA"
-    },
-    {
-      "added_at": "2025-10-16 13:00:01",
-      "album": {
         "name": "JUST A BEAT",
         "url": "https://open.spotify.com/album/3mfcOBJlCxcCiL1tnFAmkQ"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 271085,
       "name": "CHROMA 010 BRILLO",
       "url": "https://open.spotify.com/track/7kDzjUYcQ1Gi1u2zWeXwY0"
+    },
+    {
+      "added_at": "2025-10-16 13:00:01",
+      "album": {
+        "name": "You're Not a Popstar",
+        "url": "https://open.spotify.com/album/4rs98cVa5lL5pyBprgNQMW"
+      },
+      "artists": [
+        {
+          "name": "X CLUB.",
+          "url": "https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ"
+        }
+      ],
+      "duration_ms": 224958,
+      "name": "You're Not a Popstar",
+      "url": "https://open.spotify.com/track/1gQgCVN31mBVPemIEeSLTA"
     },
     {
       "added_at": "2025-10-16 13:00:01",

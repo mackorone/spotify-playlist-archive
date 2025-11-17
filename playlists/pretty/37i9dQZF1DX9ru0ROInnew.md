@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 
 > The best of Latin Trap\. Cover: Arcangel
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,099 likes - 116 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,134 likes - 116 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 | 42 | [Vengo De Nada](https://open.spotify.com/track/5pUlI3bMpx2GPu7rXBbk0w) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Buen Viaje](https://open.spotify.com/album/5VeCe0dQWJgeQ2zQG1K58m) | 3:41 |
 | 43 | [Hielo](https://open.spotify.com/track/24UGLsGfKHgQhGviBrbDdl) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Sauce Boyz](https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ) | 3:11 |
 | 44 | [En Que País](https://open.spotify.com/track/7B1hXzq4zemjlaEJ2C27KB) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [En Que País](https://open.spotify.com/album/2t2wCPIFNSgaPfIHg9mjJm) | 3:30 |
-| 45 | [Ronca](https://open.spotify.com/track/0WxhO7pvOWqFJRMBQ3q3B2) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Easy Money Baby](https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ) | 2:29 |
-| 46 | [Dime](https://open.spotify.com/track/08wJw4VdkKImX4t1vL6MsO) | [Revol](https://open.spotify.com/artist/2wYOpkTJZGByNEOjEnSmoW), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Dime](https://open.spotify.com/album/1ySViVTiU5OmwkJdqXGiug) | 4:44 |
+| 45 | [Dime](https://open.spotify.com/track/08wJw4VdkKImX4t1vL6MsO) | [Revol](https://open.spotify.com/artist/2wYOpkTJZGByNEOjEnSmoW), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Dime](https://open.spotify.com/album/1ySViVTiU5OmwkJdqXGiug) | 4:44 |
+| 46 | [Ronca](https://open.spotify.com/track/0WxhO7pvOWqFJRMBQ3q3B2) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Easy Money Baby](https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ) | 2:29 |
 | 47 | [Antes de Morirme](https://open.spotify.com/track/0zhkLYpmMZyjtv03haC77Y) | [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Before Famous](https://open.spotify.com/album/7wlVu0H4e9T0vyl5kYonz2) | 3:41 |
 | 48 | [Me Llamas](https://open.spotify.com/track/3LgtCt7CVhMvNSMGoQD9i1) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Mark B.](https://open.spotify.com/artist/0zZJhc1T0zBurhnBwQ2fcu), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf) | [Me Llamas](https://open.spotify.com/album/3acSJqw0A0SdZX6j1nfXxI) | 5:27 |
 | 49 | [No Ando Solo](https://open.spotify.com/track/6ZEb5M7dycMbooECbG2He4) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Cambio de Clima](https://open.spotify.com/album/3f8ilKUbFtOSPM2aVq0zCl) | 4:01 |

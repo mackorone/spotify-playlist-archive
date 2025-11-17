@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,055 songs - 4 day 10 hr 33 min
+2,056 songs - 4 day 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [All My Life \- and then…](https://open.spotify.com/track/3YXzBX4UsYFPe11sUty9yS) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Pink Velvet Theatre](https://open.spotify.com/album/5vFDUbMumlLOjC75rHioJC) | 4:35 | 2024-10-24 | 2025-04-14 |
 | [All Over Me](https://open.spotify.com/track/3vyp0kTCmVHmGUvo16S98y) | [Yukimi](https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [All Over Me](https://open.spotify.com/album/2oW0v37322Uqkx1hueOmxB) | 2:37 | 2025-10-09 |  |
 | [All Over Town](https://open.spotify.com/track/4fQaAVDoLg2QauZPMu2Lne) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [All Over Town](https://open.spotify.com/album/321cYact51YEkdO42GqeVe) | 3:47 | 2024-09-05 | 2025-03-28 |
-| [All The Things That I Am](https://open.spotify.com/track/6NgWT6JeT2ph0giyZG19zZ) | [Greczula](https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4) | [Greczula](https://open.spotify.com/album/35buME4leeedtOi2bB3pEZ) | 2:46 | 2025-10-06 |  |
+| [All The Things That I Am](https://open.spotify.com/track/6NgWT6JeT2ph0giyZG19zZ) | [Greczula](https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4) | [Greczula](https://open.spotify.com/album/35buME4leeedtOi2bB3pEZ) | 2:46 | 2025-10-06 | 2025-11-17 |
 | [Alla Glömda Nätter](https://open.spotify.com/track/2fynD15EUzMbPtuKScAiNV) | [Jonathan Johansson](https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe) | [Vita Skelett & Vita Pärlor](https://open.spotify.com/album/5rzvik02bW2rHsyaPGyS0f) | 4:16 | 2025-04-03 | 2025-06-12 |
 | [Alla måste älska mig](https://open.spotify.com/track/3xahTikNV7Arb70nJcavwM) | [Emma\-Lee Andersson](https://open.spotify.com/artist/3ldvnZAhBB2vAaqMWIvqbY) | [Alla måste älska mig](https://open.spotify.com/album/7DViMnpL50xK4xAUYmECH1) | 2:44 | 2022-06-09 | 2022-07-28 |
 | [Alla Ska Dö](https://open.spotify.com/track/42JjxAcdxkqNOkx1HpPizt) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Alla Ska Dö](https://open.spotify.com/album/4FGa0t6nw3MaVpLGs0cIif) | 2:46 | 2025-03-20 | 2025-06-27 |
@@ -471,6 +471,7 @@
 | [Eddie](https://open.spotify.com/track/4LkUiHoUEEYRXPLRIHBYct) | [SIV](https://open.spotify.com/artist/7g1jXjtNKxyfZ2grW439rY) | [Eddie](https://open.spotify.com/album/0CcfTPmWTUUtG6yMdkfgzn) | 2:37 | 2024-08-29 | 2024-09-06 |
 | [Edelweiss](https://open.spotify.com/track/3lnm0gx9usupGiYbwnxH9o) | [Signe & Hjördis](https://open.spotify.com/artist/4pkf3JUp7fOYK7kumrKuqG) | [Edelweiss](https://open.spotify.com/album/1Tzn1c4m7eM9s69pC3znQh) | 2:47 | 2023-03-25 | 2023-09-22 |
 | [EDEN](https://open.spotify.com/track/1tm0wcb70ojuKjvFUo1Tsd) | [ORKID](https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG) | [EDEN](https://open.spotify.com/album/0N9FSY1ZPYkkySGVQYcswA) | 3:22 | 2025-03-27 | 2025-07-04 |
+| [Edge of the Earth](https://open.spotify.com/track/3GzhyEkF7m89mVv3BUJh8N) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Edge of the Earth](https://open.spotify.com/album/1WljWKt77EMsgjRdnMfUHN) | 3:40 | 2025-11-13 |  |
 | [Effort](https://open.spotify.com/track/7psuJ34tIkm9MTPMeBwn0o) | [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [Effort](https://open.spotify.com/album/19WN3R2e1vksJnVObrFzQl) | 2:31 | 2023-04-13 | 2023-10-20 |
 | [Efter efterfesten](https://open.spotify.com/track/4vpHmKY5BDiS5U7GDUGwEE) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [Efter efterfesten](https://open.spotify.com/album/0qb9fiPyMUDdTB5UmRhUpd) | 3:23 | 2024-10-24 | 2025-01-18 |
 | [EGO](https://open.spotify.com/track/6KfyfEiMAQJrMhRrP2Epm4) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [EGO](https://open.spotify.com/album/5YYgM8HfCKUsWkT4vwWmL8) | 3:36 | 2025-09-04 |  |

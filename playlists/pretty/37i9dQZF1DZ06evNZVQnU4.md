@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZVQnU4.md) - [plain]
 
 > This is Olivia Dean\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,148 likes - 42 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,287 likes - 42 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZVQnU4.md) - [plain]
 | 25 | [Cross My Mind](https://open.spotify.com/track/6TKMXuPoDlPZYEkpS5CMB7) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Growth](https://open.spotify.com/album/4pCquj67SkPo5SNpJ5Rsjs) | 2:50 |
 | 26 | [Time](https://open.spotify.com/track/78Uo6eJIPkVo4Xw848NCN7) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Time](https://open.spotify.com/album/2PThgfv0kJYU5VxmOmbQjF) | 3:44 |
 | 27 | [Be My Own Boyfriend](https://open.spotify.com/track/0DXZHcAQAkXx8YlMIdzqgG) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Be My Own Boyfriend](https://open.spotify.com/album/3KxiaBG22271OPBM29XRe8) | 3:27 |
-| 28 | [UFO](https://open.spotify.com/track/60Chx5sZxkUrADNOKaRU7h) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Messy](https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY) | 2:34 |
-| 29 | [What Am I Gonna Do On Sundays?](https://open.spotify.com/track/0WttB2xYS66VopJmwD1UzF) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [What Am I Gonna Do On Sundays?](https://open.spotify.com/album/1nAyMIwsiY0PbGzFbRY742) | 3:29 |
+| 28 | [What Am I Gonna Do On Sundays?](https://open.spotify.com/track/0WttB2xYS66VopJmwD1UzF) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [What Am I Gonna Do On Sundays?](https://open.spotify.com/album/1nAyMIwsiY0PbGzFbRY742) | 3:29 |
+| 29 | [UFO](https://open.spotify.com/track/60Chx5sZxkUrADNOKaRU7h) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Messy](https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY) | 2:34 |
 | 30 | [Crosswords](https://open.spotify.com/track/094OGVJzllUzmdLvA31GqU) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Crosswords](https://open.spotify.com/album/6rkKZqdkCYu2qb5w2gYWRp) | 2:33 |
 | 31 | [Password Change](https://open.spotify.com/track/2dAjnPDSiIBTwAaj3MCGVg) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Password Change](https://open.spotify.com/album/1IcCGmnKMvofe9bNSwrw8V) | 3:26 |
 | 32 | [Wish I Didn't Miss You \- Mahogany Sessions](https://open.spotify.com/track/3K2r8STZHwfN0GhCSNaQuR) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Wish I Didn’t Miss You \(Mahogany Sessions\)](https://open.spotify.com/album/2yR7Hmf7LZ9UicoySKuGMv) | 3:55 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZVQnU4.md) - [plain]
 | 41 | [The Harder They Come \- From The Original BBC Series "This Town"](https://open.spotify.com/track/0MSjS42GIlJQMHB7igvIIW) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Harder They Come \(From The Original BBC Series "This Town"\)](https://open.spotify.com/album/6hS6AEXgB9opXrL6bLnkA3) | 3:49 |
 | 42 | [Millionaire \- Live From KOKO](https://open.spotify.com/track/4yiw2H1JYSXJ74dJKycyZU) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Ladies Room](https://open.spotify.com/album/2VS5Fo6wObpQqkPCm25LVL) | 4:00 |
 
-Snapshot ID: `aRZxAAAAAABV7sjgmKBVDIiz5jcxqYWJ`
+Snapshot ID: `aRfCgAAAAACI89Elg72juboqCY3TQsjV`

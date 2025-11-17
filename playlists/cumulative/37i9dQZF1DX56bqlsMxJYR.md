@@ -4,7 +4,7 @@
 
 > Classic hits from the 50s and 60s.
 
-390 songs - 17 hr 42 min
+391 songs - 17 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Bang Bang \(My Baby Shot Me Down\)](https://open.spotify.com/track/4JLcAU2xY90qTkTSNM1lUa) | [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2) | [How Does That Grab You?](https://open.spotify.com/album/7dC9EutCtygeEpefdcjWTL) | 2:42 | 2022-03-07 | 2025-01-23 |
 | [Be My Baby](https://open.spotify.com/track/2G2YzndIA6jeWFPBXhUjh5) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [Be My Baby: The Very Best of The Ronettes](https://open.spotify.com/album/3vLFWR3fLqfY82WGvaLuyV) | 2:40 | 2020-12-16 |  |
 | [Be\-Bop\-A\-Lula \- 2002 \- Remastered](https://open.spotify.com/track/63tznJW5FCf5jM7hgYvEMe) | [Gene Vincent & His Blue Caps](https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq) | [Blue Jean Bop](https://open.spotify.com/album/0TFWByvQisKRyuE8MeqBY8) | 2:36 | 2022-03-07 | 2022-04-20 |
+| [Bernadette](https://open.spotify.com/track/0LVvnJs7eOuHIkWwjWHEWF) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Reach Out](https://open.spotify.com/album/4Jw0RycAqlXeAoymbc0CYp) | 3:01 | 2024-07-12 |  |
 | [Beyond the Sea](https://open.spotify.com/track/3KzgdYUlqV6TOG7JCmx2Wg) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [That's All](https://open.spotify.com/album/5MsJK0kqiYIJDmd3cjkGMn) | 2:52 | 2022-10-10 |  |
 | [Big Girls Don't Cry](https://open.spotify.com/track/00meczE1jpLTX0BBzIGrAR) | [Frankie Valli & The Four Seasons](https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou) | [Sherry and 11 Other Hits](https://open.spotify.com/album/18rFAAWrT2wzvWckYmoLnE) | 2:28 | 2022-10-11 |  |
 | [Blue Moon](https://open.spotify.com/track/2sIiAxBkth5riaZmp2KgZz) | [The Marcels](https://open.spotify.com/artist/1JQYskbOoudT9cylam24a3) | [Doo Wop Classics Vol\. 1](https://open.spotify.com/album/74o0BLyhgBt6bvNqflYNmp) | 2:15 | 2020-12-16 | 2022-06-01 |
@@ -45,7 +46,7 @@
 | [Bread and Butter](https://open.spotify.com/track/4RJi2cYNOxfklHZZ7foR2y) | [The Newbeats](https://open.spotify.com/artist/6LK7EEHFApe9FZbFRFyBDN) | [The Newbeats](https://open.spotify.com/album/06q9kt4UZs8dqyMOt4BuJK) | 2:02 | 2020-12-16 | 2022-07-29 |
 | [Breaking Up Is Hard to Do](https://open.spotify.com/track/64UJ810pLNwurMLRCPJPoa) | [Neil Sedaka](https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL) | [Neil Sedaka Sings The Hits](https://open.spotify.com/album/1ya3SaqV6XPJjeSq7Camb2) | 2:16 | 2020-12-16 | 2022-07-29 |
 | [Brown Eyed Girl](https://open.spotify.com/track/4myBMnNWZlgvVelYeTu55w) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Super Hits](https://open.spotify.com/album/7cQhE9arqGBgQfdLu47zdm) | 3:02 | 2020-12-16 | 2022-07-29 |
-| [Brown Eyed Girl](https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Blowin' Your Mind!](https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC) | 3:03 | 2022-03-07 |  |
+| [Brown Eyed Girl](https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Blowin' Your Mind!](https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC) | 3:03 | 2022-03-07 | 2025-11-17 |
 | [Build Me Up Buttercup](https://open.spotify.com/track/4eGlvsFXmFqdJrVXe9FbgD) | [The Foundations](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) | [From the Foundations \(Expanded Edition\)](https://open.spotify.com/album/0tvm3lygYS8TWU0x8nBKmc) | 2:57 | 2022-10-10 | 2023-11-04 |
 | [Build Me Up Buttercup](https://open.spotify.com/track/6sPOmDulFtLzfX25zICNrC) | [The Foundations](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) | [The Foundations](https://open.spotify.com/album/3j1kw5l2mEeKCUuXXwjhWp) | 2:57 | 2022-03-07 | 2022-11-14 |
 | [Build Me Up Buttercup](https://open.spotify.com/track/3iwujDVtiJQwqbvjVS6LZV) | [The Foundations](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) | [The Very Best Of The Foundations](https://open.spotify.com/album/49uCKJBpnEGdZ7C2JDnkXx) | 3:00 | 2020-12-16 | 2022-07-29 |

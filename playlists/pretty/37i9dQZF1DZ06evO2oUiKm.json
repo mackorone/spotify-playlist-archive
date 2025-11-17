@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Erivo. The essential tracks, all in one playlist.",
-  "num_followers": 10601,
+  "num_followers": 10609,
   "original_name": "This Is Cynthia Erivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRZxAAAAAADWTiv3B2ylo3s7gYWDWQCt",
+  "snapshot_id": "aRfCgAAAAABISmdOqFsR2yDxu1Yltkk3",
   "tracks": [
     {
       "added_at": null,
@@ -515,42 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Color Purple (New Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        },
-        {
-          "name": "Jennifer Hudson",
-          "url": "https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5"
-        }
-      ],
-      "duration_ms": 237387,
-      "name": "What About Love?",
-      "url": "https://open.spotify.com/track/6QY1bfRkcQyvzkPqf0fsYN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ch. 1 Vs. 1",
-        "url": "https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 212755,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/3nKmSupO0qbI35eDTA5zjI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "When You Believe",
         "url": "https://open.spotify.com/album/5GsYME9CdX571wxD1WgLvi"
       },
@@ -571,6 +535,42 @@
       "duration_ms": 247997,
       "name": "When You Believe",
       "url": "https://open.spotify.com/track/3j4uq0VAGJcrsouND9kSe4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ch. 1 Vs. 1",
+        "url": "https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 212755,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/3nKmSupO0qbI35eDTA5zjI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Color Purple (New Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        {
+          "name": "Jennifer Hudson",
+          "url": "https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5"
+        }
+      ],
+      "duration_ms": 237387,
+      "name": "What About Love?",
+      "url": "https://open.spotify.com/track/6QY1bfRkcQyvzkPqf0fsYN"
     },
     {
       "added_at": null,
@@ -887,6 +887,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Inspirational",
+        "url": "https://open.spotify.com/album/4l3nsPf67pl9mqggEpmVVZ"
+      },
+      "artists": [
+        {
+          "name": "Alison Jiear",
+          "url": "https://open.spotify.com/artist/7JpWm6GJgOca4w9WejYES8"
+        },
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 360527,
+      "name": "Bridge Over Troubled Water",
+      "url": "https://open.spotify.com/track/3oYfGUdhyhlHRrb29EVdrA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cynthia Erivo and Oliver Tompsett Sing Scott Alan",
         "url": "https://open.spotify.com/album/7kdMcZRveWqWsQARQDRQAt"
       },
@@ -907,26 +927,6 @@
       "duration_ms": 463020,
       "name": "Always / Goodnight",
       "url": "https://open.spotify.com/track/2lthIAIwXMyIYnEAPQfbP1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Inspirational",
-        "url": "https://open.spotify.com/album/4l3nsPf67pl9mqggEpmVVZ"
-      },
-      "artists": [
-        {
-          "name": "Alison Jiear",
-          "url": "https://open.spotify.com/artist/7JpWm6GJgOca4w9WejYES8"
-        },
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 360527,
-      "name": "Bridge Over Troubled Water",
-      "url": "https://open.spotify.com/track/3oYfGUdhyhlHRrb29EVdrA"
     },
     {
       "added_at": null,

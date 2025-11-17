@@ -1,12 +1,12 @@
 {
   "description": "This is BigXthaPlug. The essential tracks, all in one playlist.",
-  "num_followers": 69926,
+  "num_followers": 69988,
   "original_name": "This Is BigXthaPlug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRZxAAAAAADlIHmodFpSqWO3SDTF7cs4",
+  "snapshot_id": "aRfCgAAAAADROaVeS/NUr8xHHe8fTTWw",
   "tracks": [
     {
       "added_at": null,
@@ -299,6 +299,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "AMAR",
+        "url": "https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 133002,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/4a7CRQloQmNJ2HMPmxQOac"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Hope You're Happy",
         "url": "https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 173333,
       "name": "Box Me Up (feat. Jelly Roll)",
       "url": "https://open.spotify.com/track/7JjciUzSALsonXv6MukgrP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AMAR",
-        "url": "https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 133002,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/4a7CRQloQmNJ2HMPmxQOac"
     },
     {
       "added_at": null,
@@ -611,26 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recess",
-        "url": "https://open.spotify.com/album/5Bo68f3J0Ufnb0d9iHf4FZ"
-      },
-      "artists": [
-        {
-          "name": "That Mexican OT",
-          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
-        },
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 168041,
-      "name": "U and Me (feat. BigXthaPlug)",
-      "url": "https://open.spotify.com/track/7wM7yo16WS6YLzRNwegByw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Good To Me",
         "url": "https://open.spotify.com/album/1M3XfdyaT9cU4kji29TuO3"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 208583,
       "name": "Good To Me",
       "url": "https://open.spotify.com/track/0mptmsUHHZgrxdhcbUwD1O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Recess",
+        "url": "https://open.spotify.com/album/5Bo68f3J0Ufnb0d9iHf4FZ"
+      },
+      "artists": [
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        },
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 168041,
+      "name": "U and Me (feat. BigXthaPlug)",
+      "url": "https://open.spotify.com/track/7wM7yo16WS6YLzRNwegByw"
     },
     {
       "added_at": null,
@@ -843,6 +843,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "600 Degrees",
+        "url": "https://open.spotify.com/album/7Cc4BJMsdA7CcyjC2oGZpS"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Ro$ama",
+          "url": "https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr"
+        },
+        {
+          "name": "Yung Hood",
+          "url": "https://open.spotify.com/artist/3OTNDa1tTW4HSiGfxZuJkI"
+        },
+        {
+          "name": "MurdaGang PB",
+          "url": "https://open.spotify.com/artist/5vdwkO2Let6z32D2Oa9MEr"
+        }
+      ],
+      "duration_ms": 177142,
+      "name": "600 Degrees",
+      "url": "https://open.spotify.com/track/197BDJNJEEEO3GjoDe9eIN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MEET THE 6IXERS",
         "url": "https://open.spotify.com/album/4eRm5B4jHC8zJhQizo15w5"
       },
@@ -871,22 +899,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Hope You're Happy",
-        "url": "https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 41133,
-      "name": "Gift & a Curse (interlude)",
-      "url": "https://open.spotify.com/track/5jJE44YbriUpUtA2Qphpz3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "THE BIGGEST",
         "url": "https://open.spotify.com/album/2EZ8JL3dtb54VXi3k6E7k6"
       },
@@ -907,30 +919,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "600 Degrees",
-        "url": "https://open.spotify.com/album/7Cc4BJMsdA7CcyjC2oGZpS"
+        "name": "I Hope You're Happy",
+        "url": "https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC"
       },
       "artists": [
         {
           "name": "BigXthaPlug",
           "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        },
-        {
-          "name": "Ro$ama",
-          "url": "https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr"
-        },
-        {
-          "name": "Yung Hood",
-          "url": "https://open.spotify.com/artist/3OTNDa1tTW4HSiGfxZuJkI"
-        },
-        {
-          "name": "MurdaGang PB",
-          "url": "https://open.spotify.com/artist/5vdwkO2Let6z32D2Oa9MEr"
         }
       ],
-      "duration_ms": 177142,
-      "name": "600 Degrees",
-      "url": "https://open.spotify.com/track/197BDJNJEEEO3GjoDe9eIN"
+      "duration_ms": 41133,
+      "name": "Gift & a Curse (interlude)",
+      "url": "https://open.spotify.com/track/5jJE44YbriUpUtA2Qphpz3"
     },
     {
       "added_at": null,

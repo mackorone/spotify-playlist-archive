@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0MmrdphoTkHhChZR5ympER.md) - [plain]
 
 > De grootste hits uit de jaren 1990 \- 1999 voor je verzameld in één playlist\. \| Foto: Spice Girls \|  <a href="spotify:user:digsternl">Meer playlists</a>
 
-[Digster Nederland](https://open.spotify.com/user/digsternl) - 15,470 likes - 88 songs - 6 hr 20 min
+[Digster Nederland](https://open.spotify.com/user/digsternl) - 15,469 likes - 88 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

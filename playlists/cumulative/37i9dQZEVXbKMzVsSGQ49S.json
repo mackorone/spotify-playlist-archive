@@ -372,7 +372,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-17",
       "duration_ms": 242903,
       "name": "12 to 12",
       "url": "https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W"
@@ -1776,7 +1776,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-17",
       "duration_ms": 155395,
       "name": "Aftur og aftur",
       "url": "https://open.spotify.com/track/3yCVOAJiYB5rjTjSCHhPhf"
@@ -5318,7 +5318,7 @@
       ],
       "date_added": "2025-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-17",
       "duration_ms": 178853,
       "name": "Berghain",
       "url": "https://open.spotify.com/track/2T8yuUKl1nhmtaIocqWo4i"
@@ -8264,7 +8264,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-17",
       "duration_ms": 109714,
       "name": "Century",
       "url": "https://open.spotify.com/track/1lJOLxDS8kS2rihrqezMcv"
@@ -9700,7 +9700,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-17",
       "duration_ms": 238640,
       "name": "Creep",
       "url": "https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r"
@@ -11960,7 +11960,7 @@
       ],
       "date_added": "2025-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-17",
       "duration_ms": 162720,
       "name": "Dom P\u00e9rignon",
       "url": "https://open.spotify.com/track/0WMbUXYJexUDWSfQZs4f4x"
@@ -12350,7 +12350,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-17",
       "duration_ms": 205308,
       "name": "Dracula",
       "url": "https://open.spotify.com/track/1NXbNEAcPvY5G1xvfN57aA"
@@ -13233,6 +13233,24 @@
     },
     {
       "album": {
+        "name": "J\u00f3lagestir 3",
+        "url": "https://open.spotify.com/album/7AMU0ZxBxQyGGHEkP0dqxE"
+      },
+      "artists": [
+        {
+          "name": "Helgi Bj\u00f6rns",
+          "url": "https://open.spotify.com/artist/7a0EHDYu3wAgR3qiC87Mm0"
+        }
+      ],
+      "date_added": "2022-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278593,
+      "name": "Ef \u00e9g nenni",
+      "url": "https://open.spotify.com/track/6bCu7FswJ645hR55DcuNbl"
+    },
+    {
+      "album": {
         "name": "J\u00f3lagestir Bj\u00f6rgvins 3",
         "url": "https://open.spotify.com/album/6rDwQVHRTpOSeDfLDjnkMq"
       },
@@ -13248,24 +13266,6 @@
       "duration_ms": 277571,
       "name": "Ef \u00e9g nenni",
       "url": "https://open.spotify.com/track/0Dxbgb8aUV9EHOGJF4MXQy"
-    },
-    {
-      "album": {
-        "name": "J\u00f3lagestir 3",
-        "url": "https://open.spotify.com/album/7AMU0ZxBxQyGGHEkP0dqxE"
-      },
-      "artists": [
-        {
-          "name": "Helgi Bj\u00f6rnsson",
-          "url": "https://open.spotify.com/artist/7a0EHDYu3wAgR3qiC87Mm0"
-        }
-      ],
-      "date_added": "2022-11-13",
-      "date_added_asterisk": false,
-      "date_removed": "2024-12-31",
-      "duration_ms": 278593,
-      "name": "Ef \u00e9g nenni",
-      "url": "https://open.spotify.com/track/6bCu7FswJ645hR55DcuNbl"
     },
     {
       "album": {
@@ -15826,7 +15826,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-17",
       "duration_ms": 292133,
       "name": "Far",
       "url": "https://open.spotify.com/track/47aQ5I2w61UjVrSv27gFdp"
@@ -25668,7 +25668,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-20",
+      "date_removed": null,
       "duration_ms": 206639,
       "name": "It's Beginning to Look a Lot like Christmas",
       "url": "https://open.spotify.com/track/0lLdorYw7lVrJydTINhWdI"
@@ -26034,7 +26034,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-31",
+      "date_removed": null,
       "duration_ms": 130973,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
@@ -26528,7 +26528,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-04",
+      "date_removed": null,
       "duration_ms": 142976,
       "name": "J\u00f3laH\u00fabbaB\u00fabba",
       "url": "https://open.spotify.com/track/5J83QenK5UT6fCY5RkIFfU"
@@ -26666,7 +26666,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-29",
+      "date_removed": null,
       "duration_ms": 171316,
       "name": "J\u00f3lin eru a\u00f0 koma",
       "url": "https://open.spotify.com/track/47yBX7sAHQqaYOV2Pybjzv"
@@ -26806,7 +26806,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-03",
+      "date_removed": null,
       "duration_ms": 244089,
       "name": "J\u00f3lin eru okkar",
       "url": "https://open.spotify.com/track/5PBsDt2vYSTSjuSnf35qMp"
@@ -34856,7 +34856,7 @@
       ],
       "date_added": "2025-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-17",
       "duration_ms": 163994,
       "name": "No Broke Boys",
       "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
@@ -40988,7 +40988,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-12",
+      "date_removed": null,
       "duration_ms": 126266,
       "name": "Rockin' Around The Christmas Tree",
       "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
@@ -41884,7 +41884,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-17",
       "duration_ms": 156274,
       "name": "Saintro",
       "url": "https://open.spotify.com/track/17Xw0WarbdFVTua2PYkjlG"
@@ -42068,7 +42068,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-31",
+      "date_removed": null,
       "duration_ms": 204093,
       "name": "Santa Tell Me",
       "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
@@ -44418,7 +44418,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-31",
+      "date_removed": null,
       "duration_ms": 165900,
       "name": "Snowman",
       "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
@@ -48546,7 +48546,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-17",
       "duration_ms": 323813,
       "name": "Tala minn sk\u00edt",
       "url": "https://open.spotify.com/track/08gGODSrgb09P0yyl9Hx7B"
@@ -48626,7 +48626,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-17",
       "duration_ms": 193846,
       "name": "Talk of the Town",
       "url": "https://open.spotify.com/track/0Y2QAFRdkzrNAJDPJ5lATF"
@@ -57718,7 +57718,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-30",
+      "date_removed": null,
       "duration_ms": 243853,
       "name": "\u00c9g hlakka svo til",
       "url": "https://open.spotify.com/track/7AVc0FQzRUopEBdSxzpeSQ"
@@ -58800,7 +58800,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-12",
+      "date_removed": null,
       "duration_ms": 156923,
       "name": "\u00deegar Vetur",
       "url": "https://open.spotify.com/track/2oBgo1udjEp72pDo4u5O3P"
@@ -58898,7 +58898,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-08",
+      "date_removed": null,
       "duration_ms": 186357,
       "name": "\u00deessi T\u00fdp\u00edsku J\u00f3l",
       "url": "https://open.spotify.com/track/4LzdTeHlzU087CdQwqee9z"

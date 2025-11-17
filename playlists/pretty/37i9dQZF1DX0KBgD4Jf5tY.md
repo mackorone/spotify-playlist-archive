@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Solo musica indipendente 🇮🇹, aggiornata il mercoledì\. <a href="spotify:artist:3SfiU1vN892diMx36GOJFW">Feava</a> in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,491 likes - 54 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,487 likes - 54 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

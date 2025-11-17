@@ -6,24 +6,8 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRabMAAAAAB2Rvh2rTI3JcL12CReX+YD",
+  "snapshot_id": "aRabMAAAAADDzSP2ge7pCcJ0/T5GuzyP",
   "tracks": [
-    {
-      "added_at": "2025-11-14 03:00:00",
-      "album": {
-        "name": "A World Without Heroes",
-        "url": "https://open.spotify.com/album/2xtkmBmtF01sbu1vTpM4y4"
-      },
-      "artists": [
-        {
-          "name": "Katatonia",
-          "url": "https://open.spotify.com/artist/2CWWgbxApjbyByxBBCvGTm"
-        }
-      ],
-      "duration_ms": 166040,
-      "name": "A World Without Heroes",
-      "url": "https://open.spotify.com/track/0kHAefyoCG9uauaDPVKfdI"
-    },
     {
       "added_at": "2025-11-14 03:00:00",
       "album": {
@@ -43,18 +27,50 @@
     {
       "added_at": "2025-11-14 03:00:00",
       "album": {
-        "name": "The Life of a Showgirl + Acoustic Collection",
-        "url": "https://open.spotify.com/album/6QNMhoV8V0u7cFuhhUBOn7"
+        "name": "Frozen (Londinium Version)",
+        "url": "https://open.spotify.com/album/2I4m0DsGUFYsH4If1oyn9E"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "b\u00f4a",
+          "url": "https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj"
         }
       ],
-      "duration_ms": 247268,
-      "name": "Elizabeth Taylor - So Glamorous Cabaret Version",
-      "url": "https://open.spotify.com/track/4UBWugj5D20ZveyzdGpqvD"
+      "duration_ms": 244666,
+      "name": "Frozen - Londinium Version",
+      "url": "https://open.spotify.com/track/6nUC38GpbIcQRXR4Ru2ruq"
+    },
+    {
+      "added_at": "2025-11-14 03:00:00",
+      "album": {
+        "name": "A World Without Heroes",
+        "url": "https://open.spotify.com/album/2xtkmBmtF01sbu1vTpM4y4"
+      },
+      "artists": [
+        {
+          "name": "Katatonia",
+          "url": "https://open.spotify.com/artist/2CWWgbxApjbyByxBBCvGTm"
+        }
+      ],
+      "duration_ms": 166040,
+      "name": "A World Without Heroes",
+      "url": "https://open.spotify.com/track/0kHAefyoCG9uauaDPVKfdI"
+    },
+    {
+      "added_at": "2025-11-14 03:00:00",
+      "album": {
+        "name": "Black And Blue (2025 Mix)",
+        "url": "https://open.spotify.com/album/0OxlgUq5MuHVLJrUC1GS9s"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 427500,
+      "name": "Memory Motel - 2025 Mix",
+      "url": "https://open.spotify.com/track/4RtohC44LOTMpXzY6Gka1V"
     },
     {
       "added_at": "2025-11-14 03:00:00",
@@ -91,38 +107,18 @@
     {
       "added_at": "2025-11-14 03:00:00",
       "album": {
-        "name": "Tides of the Boreal",
-        "url": "https://open.spotify.com/album/0ZvXllGuubX7iY5tRtNlja"
+        "name": "The Life of a Showgirl + Acoustic Collection",
+        "url": "https://open.spotify.com/album/6QNMhoV8V0u7cFuhhUBOn7"
       },
       "artists": [
         {
-          "name": "Harmony My Strength",
-          "url": "https://open.spotify.com/artist/5oynKjQSzQSvO0SzVPiSTG"
-        },
-        {
-          "name": "Dark Tranquillity",
-          "url": "https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 64019,
-      "name": "A hope of Inspiration",
-      "url": "https://open.spotify.com/track/0QWPaTUYbp3zZoSodyJ4J4"
-    },
-    {
-      "added_at": "2025-11-14 03:00:00",
-      "album": {
-        "name": "Black And Blue (2025 Mix)",
-        "url": "https://open.spotify.com/album/0OxlgUq5MuHVLJrUC1GS9s"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 233250,
-      "name": "Cherry Oh Baby - 2025 Mix",
-      "url": "https://open.spotify.com/track/6gJMAwnHv4pd5GlQxrDji1"
+      "duration_ms": 247268,
+      "name": "Elizabeth Taylor - So Glamorous Cabaret Version",
+      "url": "https://open.spotify.com/track/4UBWugj5D20ZveyzdGpqvD"
     },
     {
       "added_at": "2025-11-14 03:00:00",
@@ -163,34 +159,22 @@
     {
       "added_at": "2025-11-14 03:00:00",
       "album": {
-        "name": "Frozen (Londinium Version)",
-        "url": "https://open.spotify.com/album/2I4m0DsGUFYsH4If1oyn9E"
+        "name": "Tides of the Boreal",
+        "url": "https://open.spotify.com/album/0ZvXllGuubX7iY5tRtNlja"
       },
       "artists": [
         {
-          "name": "b\u00f4a",
-          "url": "https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj"
-        }
-      ],
-      "duration_ms": 244666,
-      "name": "Frozen - Londinium Version",
-      "url": "https://open.spotify.com/track/6nUC38GpbIcQRXR4Ru2ruq"
-    },
-    {
-      "added_at": "2025-11-14 03:00:00",
-      "album": {
-        "name": "f a t h o m",
-        "url": "https://open.spotify.com/album/238SNPk22kVd5sELbLnALe"
-      },
-      "artists": [
+          "name": "Harmony My Strength",
+          "url": "https://open.spotify.com/artist/5oynKjQSzQSvO0SzVPiSTG"
+        },
         {
-          "name": "Nico.X3",
-          "url": "https://open.spotify.com/artist/6DN74L20gxGSBONvIWuMD2"
+          "name": "Dark Tranquillity",
+          "url": "https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O"
         }
       ],
-      "duration_ms": 100224,
-      "name": "f a t h o m",
-      "url": "https://open.spotify.com/track/57qPdRYE1qWHE01Ok7mjT3"
+      "duration_ms": 63050,
+      "name": "From the Past",
+      "url": "https://open.spotify.com/track/67pEBNNhNX1mpd7dqS39Ci"
     },
     {
       "added_at": "2025-11-14 03:00:00",
@@ -207,6 +191,22 @@
       "duration_ms": 216646,
       "name": "When You're Gone",
       "url": "https://open.spotify.com/track/45GE1ZGp8Cm01hYx5DhQnQ"
+    },
+    {
+      "added_at": "2025-11-14 03:00:00",
+      "album": {
+        "name": "f a t h o m",
+        "url": "https://open.spotify.com/album/238SNPk22kVd5sELbLnALe"
+      },
+      "artists": [
+        {
+          "name": "Nico.X3",
+          "url": "https://open.spotify.com/artist/6DN74L20gxGSBONvIWuMD2"
+        }
+      ],
+      "duration_ms": 100224,
+      "name": "f a t h o m",
+      "url": "https://open.spotify.com/track/57qPdRYE1qWHE01Ok7mjT3"
     },
     {
       "added_at": "2025-11-14 03:00:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2025-11-14 03:00:00",
       "album": {
-        "name": "Failure",
-        "url": "https://open.spotify.com/album/7nPnPhFc33i7IqDnwsbqpE"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 144807,
-      "name": "Failure",
-      "url": "https://open.spotify.com/track/3pnfUFrTc8i1hpsORDbx1T"
-    },
-    {
-      "added_at": "2025-11-14 03:00:00",
-      "album": {
         "name": "I've Just Seen A Face (Take 3)",
         "url": "https://open.spotify.com/album/5WgaJBVMBn5oXoE9th8iTv"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 146760,
       "name": "I've Just Seen A Face (Take 3)",
       "url": "https://open.spotify.com/track/1pALw3PPekVbFBpsFPQPGk"
+    },
+    {
+      "added_at": "2025-11-14 03:00:00",
+      "album": {
+        "name": "Failure",
+        "url": "https://open.spotify.com/album/7nPnPhFc33i7IqDnwsbqpE"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 144807,
+      "name": "Failure",
+      "url": "https://open.spotify.com/track/3pnfUFrTc8i1hpsORDbx1T"
     },
     {
       "added_at": "2025-11-14 03:00:00",
@@ -447,6 +447,30 @@
     {
       "added_at": "2025-11-14 03:00:00",
       "album": {
+        "name": "The Day I Tried To Live",
+        "url": "https://open.spotify.com/album/4OZlJ7mgCZ5aQfxfh66VvY"
+      },
+      "artists": [
+        {
+          "name": "King Ultramega",
+          "url": "https://open.spotify.com/artist/3F1IccGSgeegyMUja41KJT"
+        },
+        {
+          "name": "Alissa White-Gluz",
+          "url": "https://open.spotify.com/artist/0t9i2yNpYr4QGde2gz8YVg"
+        },
+        {
+          "name": "Kim Thayil",
+          "url": "https://open.spotify.com/artist/0XY2RjIqyilsOHYiNro5tD"
+        }
+      ],
+      "duration_ms": 323294,
+      "name": "The Day I Tried To Live - feat. Kim Thayil & Alissa White-Gluz",
+      "url": "https://open.spotify.com/track/2s4F5SGrpFyGD2grG8aqvl"
+    },
+    {
+      "added_at": "2025-11-14 03:00:00",
+      "album": {
         "name": "I Can't Give Everything Away E.P",
         "url": "https://open.spotify.com/album/2jrcP1ebPB2bMqG2xSjL9b"
       },
@@ -491,6 +515,22 @@
     {
       "added_at": "2025-11-14 03:00:00",
       "album": {
+        "name": "Bold As Love",
+        "url": "https://open.spotify.com/album/3uuGTYv8R3P56TttseVu81"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 184680,
+      "name": "Castles Made of Sand - Backwards Guitar",
+      "url": "https://open.spotify.com/track/0swXgq4VdvjgFNpI7bQ5FA"
+    },
+    {
+      "added_at": "2025-11-14 03:00:00",
+      "album": {
         "name": "The Zoo (On Stage)",
         "url": "https://open.spotify.com/album/4jq0xcVvlbrd1Ut0BtlxTp"
       },
@@ -503,46 +543,6 @@
       "duration_ms": 365823,
       "name": "The Zoo - On Stage",
       "url": "https://open.spotify.com/track/59p11hPAygspGvxOEODCb9"
-    },
-    {
-      "added_at": "2025-11-14 03:00:00",
-      "album": {
-        "name": "The Day I Tried To Live",
-        "url": "https://open.spotify.com/album/4OZlJ7mgCZ5aQfxfh66VvY"
-      },
-      "artists": [
-        {
-          "name": "King Ultramega",
-          "url": "https://open.spotify.com/artist/3F1IccGSgeegyMUja41KJT"
-        },
-        {
-          "name": "Alissa White-Gluz",
-          "url": "https://open.spotify.com/artist/0t9i2yNpYr4QGde2gz8YVg"
-        },
-        {
-          "name": "Kim Thayil",
-          "url": "https://open.spotify.com/artist/0XY2RjIqyilsOHYiNro5tD"
-        }
-      ],
-      "duration_ms": 323294,
-      "name": "The Day I Tried To Live - feat. Kim Thayil & Alissa White-Gluz",
-      "url": "https://open.spotify.com/track/2s4F5SGrpFyGD2grG8aqvl"
-    },
-    {
-      "added_at": "2025-11-14 03:00:00",
-      "album": {
-        "name": "Cuz",
-        "url": "https://open.spotify.com/album/7b82PyL0lPXsSfDrPQsZZL"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 175741,
-      "name": "Cuz",
-      "url": "https://open.spotify.com/track/6y6kQT8fmXuKR3DAnH7aFh"
     },
     {
       "added_at": "2025-11-14 03:00:00",
@@ -563,6 +563,22 @@
       "duration_ms": 135918,
       "name": "Rock And Roll All Nite - MOONLGHT Remix",
       "url": "https://open.spotify.com/track/2eTYcP7pFAnFZOMfXlpXO4"
+    },
+    {
+      "added_at": "2025-11-14 03:00:00",
+      "album": {
+        "name": "Cuz",
+        "url": "https://open.spotify.com/album/7b82PyL0lPXsSfDrPQsZZL"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 175741,
+      "name": "Cuz",
+      "url": "https://open.spotify.com/track/6y6kQT8fmXuKR3DAnH7aFh"
     },
     {
       "added_at": "2025-11-14 03:00:00",
@@ -590,19 +606,11 @@
         {
           "name": "Mon Laferte",
           "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        },
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
         }
       ],
-      "duration_ms": 181024,
-      "name": "My One And Only Love",
-      "url": "https://open.spotify.com/track/0ILCaNMr4s5CZdF1Km09Ln"
+      "duration_ms": 262178,
+      "name": "Veracruz",
+      "url": "https://open.spotify.com/track/16dQDMg1coaX1FrIKZIgtt"
     },
     {
       "added_at": "2025-11-14 03:00:00",
@@ -659,22 +667,6 @@
     {
       "added_at": "2025-11-14 03:00:00",
       "album": {
-        "name": "Live In Berlin 1985 (Remastered 2025, Live)",
-        "url": "https://open.spotify.com/album/1se6JuXLiTWIYNlh7J3y0y"
-      },
-      "artists": [
-        {
-          "name": "Jethro Tull",
-          "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
-        }
-      ],
-      "duration_ms": 217064,
-      "name": "Living In The Past - Remastered 2025, Live",
-      "url": "https://open.spotify.com/track/0bqJr3fbc3heNaOcrE8aBt"
-    },
-    {
-      "added_at": "2025-11-14 03:00:00",
-      "album": {
         "name": "Who Are You (Super Deluxe Edition)",
         "url": "https://open.spotify.com/album/7qGnKtZPJMP3LFgEl2WM4r"
       },
@@ -691,6 +683,22 @@
     {
       "added_at": "2025-11-14 03:00:00",
       "album": {
+        "name": "Live In Berlin 1985 (Remastered 2025, Live)",
+        "url": "https://open.spotify.com/album/1se6JuXLiTWIYNlh7J3y0y"
+      },
+      "artists": [
+        {
+          "name": "Jethro Tull",
+          "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
+        }
+      ],
+      "duration_ms": 449912,
+      "name": "Black Sunday - Remastered 2025, Live",
+      "url": "https://open.spotify.com/track/4PCEMEXofpftdICTB6plbZ"
+    },
+    {
+      "added_at": "2025-11-14 03:00:00",
+      "album": {
         "name": "Viviendo en un mal sue\u00f1o",
         "url": "https://open.spotify.com/album/5o2C73fRTn4d3xwM7tCC2L"
       },
@@ -703,22 +711,6 @@
       "duration_ms": 252890,
       "name": "Viviendo en un mal sue\u00f1o",
       "url": "https://open.spotify.com/track/4daZCldTz38XQesXnDk8zX"
-    },
-    {
-      "added_at": "2025-11-14 03:00:00",
-      "album": {
-        "name": "Bold As Love",
-        "url": "https://open.spotify.com/album/3uuGTYv8R3P56TttseVu81"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 184680,
-      "name": "Castles Made of Sand - Backwards Guitar",
-      "url": "https://open.spotify.com/track/0swXgq4VdvjgFNpI7bQ5FA"
     },
     {
       "added_at": "2025-11-14 03:00:00",
@@ -743,6 +735,22 @@
     {
       "added_at": "2025-11-14 03:00:00",
       "album": {
+        "name": "Captain Fantastic And The Brown Dirt Cowboy (50th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/3zRjCT3nLkeYanSFYHfQPu"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 463968,
+      "name": "Someone Saved My Life Tonight - Captain Fantastic Live / 2005",
+      "url": "https://open.spotify.com/track/0AZOzB8mMGS2Gsu6CMn7Hw"
+    },
+    {
+      "added_at": "2025-11-14 03:00:00",
+      "album": {
         "name": "Let The Music Play",
         "url": "https://open.spotify.com/album/4uVdzfutRln6f7iDMys66B"
       },
@@ -759,22 +767,6 @@
       "duration_ms": 404109,
       "name": "Let The Music Play",
       "url": "https://open.spotify.com/track/44i27x71O3m6QKnwSqtWnb"
-    },
-    {
-      "added_at": "2025-11-14 03:00:00",
-      "album": {
-        "name": "Captain Fantastic And The Brown Dirt Cowboy (50th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/3zRjCT3nLkeYanSFYHfQPu"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 463968,
-      "name": "Someone Saved My Life Tonight - Captain Fantastic Live / 2005",
-      "url": "https://open.spotify.com/track/0AZOzB8mMGS2Gsu6CMn7Hw"
     },
     {
       "added_at": "2025-11-14 03:00:00",
@@ -867,6 +859,22 @@
     {
       "added_at": "2025-11-14 03:00:00",
       "album": {
+        "name": "Where The Wild Things Are",
+        "url": "https://open.spotify.com/album/4eMapaAshpQHXIEqHpgxRp"
+      },
+      "artists": [
+        {
+          "name": "Edenbridge",
+          "url": "https://open.spotify.com/artist/4kRllkt5ryNVBqFinVjBQZ"
+        }
+      ],
+      "duration_ms": 281600,
+      "name": "Where The Wild Things Are",
+      "url": "https://open.spotify.com/track/1Syy5gdj5Ug4kIYwnjYQT5"
+    },
+    {
+      "added_at": "2025-11-14 03:00:00",
+      "album": {
         "name": "Calaveritas",
         "url": "https://open.spotify.com/album/0q48qrRkKubSs1b1STixIq"
       },
@@ -883,22 +891,6 @@
       "duration_ms": 168266,
       "name": "Calaveritas",
       "url": "https://open.spotify.com/track/1WKIsUymLly0NEGSJgFBoI"
-    },
-    {
-      "added_at": "2025-11-14 03:00:00",
-      "album": {
-        "name": "Where The Wild Things Are",
-        "url": "https://open.spotify.com/album/4eMapaAshpQHXIEqHpgxRp"
-      },
-      "artists": [
-        {
-          "name": "Edenbridge",
-          "url": "https://open.spotify.com/artist/4kRllkt5ryNVBqFinVjBQZ"
-        }
-      ],
-      "duration_ms": 281600,
-      "name": "Where The Wild Things Are",
-      "url": "https://open.spotify.com/track/1Syy5gdj5Ug4kIYwnjYQT5"
     },
     {
       "added_at": "2025-11-14 03:00:00",
@@ -1143,6 +1135,26 @@
     {
       "added_at": "2025-11-14 03:00:00",
       "album": {
+        "name": "A World Where the Sun Never Rises (from \"Demon Slayer: Kimetsu no Yaiba Infinity Castle\") [Spanish Version]",
+        "url": "https://open.spotify.com/album/4KMNhoVJ1sTkmH5tRidEdn"
+      },
+      "artists": [
+        {
+          "name": "Iris ~Pamela Calvo~",
+          "url": "https://open.spotify.com/artist/6qWXcGYNEAmUxFWLA5uFwM"
+        },
+        {
+          "name": "Lufca",
+          "url": "https://open.spotify.com/artist/5LzTcLf1lyJ9ic2xBtREcg"
+        }
+      ],
+      "duration_ms": 165051,
+      "name": "A World Where the Sun Never Rises (from \"Demon Slayer: Kimetsu no Yaiba Infinity Castle\") - Spanish Version",
+      "url": "https://open.spotify.com/track/4gHK3pMgeKYLCIigQ5xa0b"
+    },
+    {
+      "added_at": "2025-11-14 03:00:00",
+      "album": {
         "name": "Cobra Squad",
         "url": "https://open.spotify.com/album/0zWeRNGrGtvNvWtJPunKJO"
       },
@@ -1163,26 +1175,6 @@
       "duration_ms": 179422,
       "name": "Japan Air",
       "url": "https://open.spotify.com/track/55CaehxmLgRVxxhjWUUlQe"
-    },
-    {
-      "added_at": "2025-11-14 03:00:00",
-      "album": {
-        "name": "A World Where the Sun Never Rises (from \"Demon Slayer: Kimetsu no Yaiba Infinity Castle\") [Spanish Version]",
-        "url": "https://open.spotify.com/album/4KMNhoVJ1sTkmH5tRidEdn"
-      },
-      "artists": [
-        {
-          "name": "Iris ~Pamela Calvo~",
-          "url": "https://open.spotify.com/artist/6qWXcGYNEAmUxFWLA5uFwM"
-        },
-        {
-          "name": "Lufca",
-          "url": "https://open.spotify.com/artist/5LzTcLf1lyJ9ic2xBtREcg"
-        }
-      ],
-      "duration_ms": 165051,
-      "name": "A World Where the Sun Never Rises (from \"Demon Slayer: Kimetsu no Yaiba Infinity Castle\") - Spanish Version",
-      "url": "https://open.spotify.com/track/4gHK3pMgeKYLCIigQ5xa0b"
     },
     {
       "added_at": "2025-11-14 03:00:00",

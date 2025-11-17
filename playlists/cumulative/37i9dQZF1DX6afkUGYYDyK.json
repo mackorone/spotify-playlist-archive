@@ -1111,6 +1111,28 @@
     },
     {
       "album": {
+        "name": "Grateful",
+        "url": "https://open.spotify.com/album/2l5xqSAVtEUj0U26vjL0SQ"
+      },
+      "artists": [
+        {
+          "name": "Dee-1",
+          "url": "https://open.spotify.com/artist/5qEZVKHzNjB8k5tAT41Iox"
+        },
+        {
+          "name": "Pastor Mike Jr.",
+          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
+        }
+      ],
+      "date_added": "2025-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168298,
+      "name": "Grateful",
+      "url": "https://open.spotify.com/track/2yoYqPHby8XM6U4VebeoWK"
+    },
+    {
+      "album": {
         "name": "There Is a Cloud",
         "url": "https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB"
       },
@@ -2668,7 +2690,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-17",
       "duration_ms": 258812,
       "name": "Thank God I Do",
       "url": "https://open.spotify.com/track/60StAgy8EkIsaGEGebKcBB"
@@ -2758,7 +2780,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-17",
       "duration_ms": 144574,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/0l2Y3iQqgDqnuh7qn2tw7d"
@@ -3113,6 +3135,24 @@
     },
     {
       "album": {
+        "name": "THANK YOU JESUS",
+        "url": "https://open.spotify.com/album/0AHsfQAqgpOVQs4dJkgkMO"
+      },
+      "artists": [
+        {
+          "name": "Edgar Sandoval Jr",
+          "url": "https://open.spotify.com/artist/1Q8pPoJYMxI69UkONXODr4"
+        }
+      ],
+      "date_added": "2025-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168785,
+      "name": "THANK YOU JESUS",
+      "url": "https://open.spotify.com/track/3YLX1VjbWgtAd44hD8T5I8"
+    },
+    {
+      "album": {
         "name": "Thank You Jesus",
         "url": "https://open.spotify.com/album/75sOpcC8vKAcE0W4cqmW3x"
       },
@@ -3132,6 +3172,24 @@
       "duration_ms": 171866,
       "name": "Thank You Jesus",
       "url": "https://open.spotify.com/track/1TmAG4vhedrQ64GznwECXb"
+    },
+    {
+      "album": {
+        "name": "Thank You Jesus",
+        "url": "https://open.spotify.com/album/5d24oqk9uXXaC6ePJkv8E4"
+      },
+      "artists": [
+        {
+          "name": "Joepraize",
+          "url": "https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s"
+        }
+      ],
+      "date_added": "2025-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 562626,
+      "name": "Thank You Jesus",
+      "url": "https://open.spotify.com/track/5Bb87A2y55NxgkPbwkX9Ot"
     },
     {
       "album": {
@@ -3872,7 +3930,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-17",
       "duration_ms": 335652,
       "name": "We Give You Thanks",
       "url": "https://open.spotify.com/track/7ophliTSArPbWKiydO5TRl"

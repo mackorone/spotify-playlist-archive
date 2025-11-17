@@ -1,6 +1,6 @@
 {
   "description": "De la douceur pour accompagner votre journ\u00e9e. \ud83c\udf42",
-  "num_followers": 141551,
+  "num_followers": 141555,
   "original_name": "Caf\u00e9 montr\u00e9alais",
   "owner": {
     "name": "Spotify",
@@ -319,6 +319,22 @@
     {
       "added_at": "2025-11-14 05:01:17",
       "album": {
+        "name": "Answers",
+        "url": "https://open.spotify.com/album/4fGYs2TDBA1LzQEDIc0C4a"
+      },
+      "artists": [
+        {
+          "name": "The Franklin Electric",
+          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
+        }
+      ],
+      "duration_ms": 167732,
+      "name": "Answers",
+      "url": "https://open.spotify.com/track/3P6fiFnHTkaryP2WmwV6Ch"
+    },
+    {
+      "added_at": "2025-11-14 05:01:17",
+      "album": {
         "name": "The Wandering",
         "url": "https://open.spotify.com/album/7kHipLMzKMsBc48qETOGJW"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 200466,
       "name": "The Wandering",
       "url": "https://open.spotify.com/track/78k51U7QHqHwMPefHUdfx1"
-    },
-    {
-      "added_at": "2025-11-14 05:01:17",
-      "album": {
-        "name": "Answers",
-        "url": "https://open.spotify.com/album/4fGYs2TDBA1LzQEDIc0C4a"
-      },
-      "artists": [
-        {
-          "name": "The Franklin Electric",
-          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
-        }
-      ],
-      "duration_ms": 167732,
-      "name": "Answers",
-      "url": "https://open.spotify.com/track/3P6fiFnHTkaryP2WmwV6Ch"
     },
     {
       "added_at": "2025-11-14 05:01:17",
@@ -579,22 +579,6 @@
     {
       "added_at": "2025-11-14 05:01:17",
       "album": {
-        "name": "Future Lovers",
-        "url": "https://open.spotify.com/album/3znvdMuFzXDXqW7Hk2QQWX"
-      },
-      "artists": [
-        {
-          "name": "Julyan",
-          "url": "https://open.spotify.com/artist/10ifu6MiIcrhdrUEWJsACG"
-        }
-      ],
-      "duration_ms": 189386,
-      "name": "Pleasure",
-      "url": "https://open.spotify.com/track/1pJ2Mcvx3RqVuGjxA6uYBL"
-    },
-    {
-      "added_at": "2025-11-14 05:01:17",
-      "album": {
         "name": "Colors",
         "url": "https://open.spotify.com/album/2lecuAW041jFGznJIATbhz"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 248759,
       "name": "Colors",
       "url": "https://open.spotify.com/track/7N3wyYCiyIEMsFdaL9BcRF"
+    },
+    {
+      "added_at": "2025-11-14 05:01:17",
+      "album": {
+        "name": "Future Lovers",
+        "url": "https://open.spotify.com/album/3znvdMuFzXDXqW7Hk2QQWX"
+      },
+      "artists": [
+        {
+          "name": "Julyan",
+          "url": "https://open.spotify.com/artist/10ifu6MiIcrhdrUEWJsACG"
+        }
+      ],
+      "duration_ms": 189386,
+      "name": "Pleasure",
+      "url": "https://open.spotify.com/track/1pJ2Mcvx3RqVuGjxA6uYBL"
     },
     {
       "added_at": "2025-11-14 05:01:17",
@@ -727,26 +727,6 @@
     {
       "added_at": "2025-11-14 05:01:17",
       "album": {
-        "name": "Tant \u00e9trange",
-        "url": "https://open.spotify.com/album/0m1tCymjc64dSbhZysiRp2"
-      },
-      "artists": [
-        {
-          "name": "Feathership",
-          "url": "https://open.spotify.com/artist/7jyB6xDRAHOnJseX86s7lm"
-        },
-        {
-          "name": "Laurence-Anne",
-          "url": "https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B"
-        }
-      ],
-      "duration_ms": 209903,
-      "name": "Tant \u00e9trange",
-      "url": "https://open.spotify.com/track/74Wo6oZdOV3pKsDWkNZEnm"
-    },
-    {
-      "added_at": "2025-11-14 05:01:17",
-      "album": {
         "name": "L'\u00e9trange pays",
         "url": "https://open.spotify.com/album/13hzRu1yUCald5cfl6xtsp"
       },
@@ -759,6 +739,22 @@
       "duration_ms": 138026,
       "name": "Rosier-douleur",
       "url": "https://open.spotify.com/track/7iGASYouVLuiMggmfEB8MM"
+    },
+    {
+      "added_at": "2025-11-14 05:01:17",
+      "album": {
+        "name": "Live Slow Die Wise",
+        "url": "https://open.spotify.com/album/2exje2s1zj4OX3qIToppco"
+      },
+      "artists": [
+        {
+          "name": "Geoffroy",
+          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
+        }
+      ],
+      "duration_ms": 218160,
+      "name": "Sweetpie",
+      "url": "https://open.spotify.com/track/1jhyCkUOc475Tb6BhT2AO0"
     },
     {
       "added_at": "2025-11-14 05:01:17",
@@ -803,18 +799,22 @@
     {
       "added_at": "2025-11-14 05:01:17",
       "album": {
-        "name": "Live Slow Die Wise",
-        "url": "https://open.spotify.com/album/2exje2s1zj4OX3qIToppco"
+        "name": "Tant \u00e9trange",
+        "url": "https://open.spotify.com/album/0m1tCymjc64dSbhZysiRp2"
       },
       "artists": [
         {
-          "name": "Geoffroy",
-          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
+          "name": "Feathership",
+          "url": "https://open.spotify.com/artist/7jyB6xDRAHOnJseX86s7lm"
+        },
+        {
+          "name": "Laurence-Anne",
+          "url": "https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B"
         }
       ],
-      "duration_ms": 218160,
-      "name": "Sweetpie",
-      "url": "https://open.spotify.com/track/1jhyCkUOc475Tb6BhT2AO0"
+      "duration_ms": 209903,
+      "name": "Tant \u00e9trange",
+      "url": "https://open.spotify.com/track/74Wo6oZdOV3pKsDWkNZEnm"
     },
     {
       "added_at": "2025-11-14 05:01:17",
@@ -947,22 +947,6 @@
     {
       "added_at": "2025-11-14 05:01:17",
       "album": {
-        "name": "Altogether Unaccompanied, Vol. V",
-        "url": "https://open.spotify.com/album/2SN8wIw7CUrCdY5RNLWQUT"
-      },
-      "artists": [
-        {
-          "name": "Helena Deland",
-          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
-        }
-      ],
-      "duration_ms": 305185,
-      "name": "Bigger Pieces",
-      "url": "https://open.spotify.com/track/6oSMF3TrouX3TNO6NZbRhG"
-    },
-    {
-      "added_at": "2025-11-14 05:01:17",
-      "album": {
         "name": "Pour d\u00e9jouer l'ennui",
         "url": "https://open.spotify.com/album/096tQ53nMSEYJrCiIMrEgE"
       },
@@ -979,18 +963,38 @@
     {
       "added_at": "2025-11-14 05:01:17",
       "album": {
-        "name": "Live Slow Die Wise",
-        "url": "https://open.spotify.com/album/2exje2s1zj4OX3qIToppco"
+        "name": "Altogether Unaccompanied, Vol. V",
+        "url": "https://open.spotify.com/album/2SN8wIw7CUrCdY5RNLWQUT"
       },
       "artists": [
         {
-          "name": "Geoffroy",
-          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
         }
       ],
-      "duration_ms": 263720,
-      "name": "As My Old Man Always Said",
-      "url": "https://open.spotify.com/track/6y0zKZPrKL1gbXqXEHIwm8"
+      "duration_ms": 305185,
+      "name": "Bigger Pieces",
+      "url": "https://open.spotify.com/track/6oSMF3TrouX3TNO6NZbRhG"
+    },
+    {
+      "added_at": "2025-11-14 05:01:17",
+      "album": {
+        "name": "Eldorado (Acoustique)",
+        "url": "https://open.spotify.com/album/07i8dt35vq11eDTyBuyhSB"
+      },
+      "artists": [
+        {
+          "name": "Fred Dionne",
+          "url": "https://open.spotify.com/artist/3HafAp0QyF7zN7EjOM1sRF"
+        },
+        {
+          "name": "Katrine Sansregret",
+          "url": "https://open.spotify.com/artist/23l9JLbR4HKMyJLY2WuiNw"
+        }
+      ],
+      "duration_ms": 197749,
+      "name": "Eldorado - Acoustique",
+      "url": "https://open.spotify.com/track/4BGm2UJViWmh0cJ7P3XPjf"
     },
     {
       "added_at": "2025-11-14 05:01:17",
@@ -1027,6 +1031,22 @@
     {
       "added_at": "2025-11-14 05:01:17",
       "album": {
+        "name": "Live Slow Die Wise",
+        "url": "https://open.spotify.com/album/2exje2s1zj4OX3qIToppco"
+      },
+      "artists": [
+        {
+          "name": "Geoffroy",
+          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
+        }
+      ],
+      "duration_ms": 263720,
+      "name": "As My Old Man Always Said",
+      "url": "https://open.spotify.com/track/6y0zKZPrKL1gbXqXEHIwm8"
+    },
+    {
+      "added_at": "2025-11-14 05:01:17",
+      "album": {
         "name": "Tu ne mourras pas",
         "url": "https://open.spotify.com/album/0EurJWfHMVyIeQ4oEKYeS1"
       },
@@ -1059,26 +1079,6 @@
     {
       "added_at": "2025-11-14 05:01:17",
       "album": {
-        "name": "Eldorado (Acoustique)",
-        "url": "https://open.spotify.com/album/07i8dt35vq11eDTyBuyhSB"
-      },
-      "artists": [
-        {
-          "name": "Fred Dionne",
-          "url": "https://open.spotify.com/artist/3HafAp0QyF7zN7EjOM1sRF"
-        },
-        {
-          "name": "Katrine Sansregret",
-          "url": "https://open.spotify.com/artist/23l9JLbR4HKMyJLY2WuiNw"
-        }
-      ],
-      "duration_ms": 197749,
-      "name": "Eldorado - Acoustique",
-      "url": "https://open.spotify.com/track/4BGm2UJViWmh0cJ7P3XPjf"
-    },
-    {
-      "added_at": "2025-11-14 05:01:17",
-      "album": {
         "name": "Islands in the Stream",
         "url": "https://open.spotify.com/album/31VCgzXOzA4fxrr2HCw2l8"
       },
@@ -1091,6 +1091,42 @@
       "duration_ms": 194699,
       "name": "Islands in the Stream",
       "url": "https://open.spotify.com/track/6bdpnSQXkd69cZk3A9Are3"
+    },
+    {
+      "added_at": "2025-11-14 05:01:17",
+      "album": {
+        "name": "sMiLes",
+        "url": "https://open.spotify.com/album/3i5gmczfdLFefHHOJFzDCJ"
+      },
+      "artists": [
+        {
+          "name": "Jowee Omicil",
+          "url": "https://open.spotify.com/artist/0uLoiIx5FHquutLKMM93bY"
+        },
+        {
+          "name": "Dominique Fils-Aim\u00e9",
+          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
+        }
+      ],
+      "duration_ms": 174023,
+      "name": "SHouLd I sMiLe?",
+      "url": "https://open.spotify.com/track/343Vbk8eNtuA8BHSg3OkVz"
+    },
+    {
+      "added_at": "2025-11-14 05:01:17",
+      "album": {
+        "name": "Ce que je te donne ne dispara\u00eet pas",
+        "url": "https://open.spotify.com/album/6cD91XtPpIgoAxFttrH3kJ"
+      },
+      "artists": [
+        {
+          "name": "St\u00e9phanie Boulay",
+          "url": "https://open.spotify.com/artist/2UQJENeogEzZALCbh7dQj0"
+        }
+      ],
+      "duration_ms": 226586,
+      "name": "Des histoires qui ne seront jamais finies",
+      "url": "https://open.spotify.com/track/0lQ6omsWPn0jUDkT4frBuu"
     },
     {
       "added_at": "2025-11-14 05:01:17",
@@ -1111,22 +1147,6 @@
       "duration_ms": 241462,
       "name": "Sailors",
       "url": "https://open.spotify.com/track/2zo2zOxH0wpLWX80jYsaWF"
-    },
-    {
-      "added_at": "2025-11-14 05:01:17",
-      "album": {
-        "name": "Ce que je te donne ne dispara\u00eet pas",
-        "url": "https://open.spotify.com/album/6cD91XtPpIgoAxFttrH3kJ"
-      },
-      "artists": [
-        {
-          "name": "St\u00e9phanie Boulay",
-          "url": "https://open.spotify.com/artist/2UQJENeogEzZALCbh7dQj0"
-        }
-      ],
-      "duration_ms": 226586,
-      "name": "Des histoires qui ne seront jamais finies",
-      "url": "https://open.spotify.com/track/0lQ6omsWPn0jUDkT4frBuu"
     },
     {
       "added_at": "2025-11-14 05:01:17",
@@ -1195,6 +1215,22 @@
     {
       "added_at": "2025-11-14 05:01:17",
       "album": {
+        "name": "Ya s\u00e9 ya s\u00e9",
+        "url": "https://open.spotify.com/album/1jrV8hSISzYtwjugMPGDVe"
+      },
+      "artists": [
+        {
+          "name": "Gabriella Olivo",
+          "url": "https://open.spotify.com/artist/16TtQYVADdkb4Ay75wCVhO"
+        }
+      ],
+      "duration_ms": 223689,
+      "name": "Ya s\u00e9 ya s\u00e9",
+      "url": "https://open.spotify.com/track/35nSQRBBDMhSm0m6alg068"
+    },
+    {
+      "added_at": "2025-11-14 05:01:17",
+      "album": {
         "name": "Walk Away Wishing",
         "url": "https://open.spotify.com/album/2WcgHoUuXM6uQ7R6MHVXQS"
       },
@@ -1227,18 +1263,18 @@
     {
       "added_at": "2025-11-14 05:01:17",
       "album": {
-        "name": "Ya s\u00e9 ya s\u00e9",
-        "url": "https://open.spotify.com/album/1jrV8hSISzYtwjugMPGDVe"
+        "name": "Les joailliers (piano, voix)",
+        "url": "https://open.spotify.com/album/53pkrZogQ17By0kgkf9D4o"
       },
       "artists": [
         {
-          "name": "Gabriella Olivo",
-          "url": "https://open.spotify.com/artist/16TtQYVADdkb4Ay75wCVhO"
+          "name": "Ingrid St-Pierre",
+          "url": "https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w"
         }
       ],
-      "duration_ms": 223689,
-      "name": "Ya s\u00e9 ya s\u00e9",
-      "url": "https://open.spotify.com/track/35nSQRBBDMhSm0m6alg068"
+      "duration_ms": 197111,
+      "name": "Les joailliers (piano, voix)",
+      "url": "https://open.spotify.com/track/2rtiiJyThyR4loAtz7ExSf"
     },
     {
       "added_at": "2025-11-14 05:01:17",
@@ -1255,22 +1291,6 @@
       "duration_ms": 200706,
       "name": "Passe ton chemin",
       "url": "https://open.spotify.com/track/6wKUnfSAJRQagiCuvNgMbB"
-    },
-    {
-      "added_at": "2025-11-14 05:01:17",
-      "album": {
-        "name": "Les joailliers (piano, voix)",
-        "url": "https://open.spotify.com/album/53pkrZogQ17By0kgkf9D4o"
-      },
-      "artists": [
-        {
-          "name": "Ingrid St-Pierre",
-          "url": "https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w"
-        }
-      ],
-      "duration_ms": 197111,
-      "name": "Les joailliers (piano, voix)",
-      "url": "https://open.spotify.com/track/2rtiiJyThyR4loAtz7ExSf"
     },
     {
       "added_at": "2025-11-14 05:01:17",
@@ -1327,22 +1347,34 @@
     {
       "added_at": "2025-11-14 05:01:17",
       "album": {
-        "name": "Abri",
-        "url": "https://open.spotify.com/album/7puqUMfRuARh1o4xmelNuD"
+        "name": "_dec carte de no\u00ebl",
+        "url": "https://open.spotify.com/album/0hAs4JSdnymgbu18ARLLs7"
       },
       "artists": [
         {
-          "name": "La Steppe",
-          "url": "https://open.spotify.com/artist/6yPLwJZvsWaw6VMuUFppOf"
-        },
-        {
-          "name": "No\u00e9mie Kaiser",
-          "url": "https://open.spotify.com/artist/7lY8bTj95cRXHKOKGycelA"
+          "name": "Pomme",
+          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
         }
       ],
-      "duration_ms": 212184,
-      "name": "Abri",
-      "url": "https://open.spotify.com/track/0JOPcNqsVH2uVsm9oKmFBc"
+      "duration_ms": 124960,
+      "name": "_dec carte de no\u00ebl",
+      "url": "https://open.spotify.com/track/0yr7VTpZTGsoLrqEaJdJm1"
+    },
+    {
+      "added_at": "2025-11-14 05:01:17",
+      "album": {
+        "name": "Rivi\u00e8re",
+        "url": "https://open.spotify.com/album/3OVbzhaOuy15F3C0DWJtl8"
+      },
+      "artists": [
+        {
+          "name": "Laurence Castera",
+          "url": "https://open.spotify.com/artist/4lBTYV3dOG4aAFKyKmeHsx"
+        }
+      ],
+      "duration_ms": 197996,
+      "name": "Rivi\u00e8re",
+      "url": "https://open.spotify.com/track/3eachAKI0MMi7r3Yy6dyb8"
     },
     {
       "added_at": "2025-11-14 05:01:17",
@@ -1363,38 +1395,22 @@
     {
       "added_at": "2025-11-14 05:01:17",
       "album": {
-        "name": "_dec carte de no\u00ebl",
-        "url": "https://open.spotify.com/album/0hAs4JSdnymgbu18ARLLs7"
+        "name": "Abri",
+        "url": "https://open.spotify.com/album/7puqUMfRuARh1o4xmelNuD"
       },
       "artists": [
         {
-          "name": "Pomme",
-          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
-        }
-      ],
-      "duration_ms": 124960,
-      "name": "_dec carte de no\u00ebl",
-      "url": "https://open.spotify.com/track/0yr7VTpZTGsoLrqEaJdJm1"
-    },
-    {
-      "added_at": "2025-11-14 05:01:17",
-      "album": {
-        "name": "sMiLes",
-        "url": "https://open.spotify.com/album/3i5gmczfdLFefHHOJFzDCJ"
-      },
-      "artists": [
-        {
-          "name": "Jowee Omicil",
-          "url": "https://open.spotify.com/artist/0uLoiIx5FHquutLKMM93bY"
+          "name": "La Steppe",
+          "url": "https://open.spotify.com/artist/6yPLwJZvsWaw6VMuUFppOf"
         },
         {
-          "name": "Dominique Fils-Aim\u00e9",
-          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
+          "name": "No\u00e9mie Kaiser",
+          "url": "https://open.spotify.com/artist/7lY8bTj95cRXHKOKGycelA"
         }
       ],
-      "duration_ms": 174023,
-      "name": "SHouLd I sMiLe?",
-      "url": "https://open.spotify.com/track/343Vbk8eNtuA8BHSg3OkVz"
+      "duration_ms": 212184,
+      "name": "Abri",
+      "url": "https://open.spotify.com/track/0JOPcNqsVH2uVsm9oKmFBc"
     },
     {
       "added_at": "2025-11-14 05:01:17",
@@ -1411,22 +1427,6 @@
       "duration_ms": 288346,
       "name": "Habitat",
       "url": "https://open.spotify.com/track/0L9PnZbx3ySxrQZgfQPJVX"
-    },
-    {
-      "added_at": "2025-11-14 05:01:17",
-      "album": {
-        "name": "Rivi\u00e8re",
-        "url": "https://open.spotify.com/album/3OVbzhaOuy15F3C0DWJtl8"
-      },
-      "artists": [
-        {
-          "name": "Laurence Castera",
-          "url": "https://open.spotify.com/artist/4lBTYV3dOG4aAFKyKmeHsx"
-        }
-      ],
-      "duration_ms": 197996,
-      "name": "Rivi\u00e8re",
-      "url": "https://open.spotify.com/track/3eachAKI0MMi7r3Yy6dyb8"
     },
     {
       "added_at": "2025-11-14 05:01:17",
@@ -1571,22 +1571,18 @@
     {
       "added_at": "2025-11-14 05:01:17",
       "album": {
-        "name": "elle veille encore",
-        "url": "https://open.spotify.com/album/36stZjlUhNpOzaK6MIvV4l"
+        "name": "Le go\u00fbt des mangues",
+        "url": "https://open.spotify.com/album/312IdNUk3AsO5wS3gKSwEK"
       },
       "artists": [
         {
-          "name": "Rosier",
-          "url": "https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1"
-        },
-        {
-          "name": "Mathieu David Gagnon",
-          "url": "https://open.spotify.com/artist/4cGEOcEeLrZdOBxVMugZyR"
+          "name": "Kl\u00f4 Pelgag",
+          "url": "https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi"
         }
       ],
-      "duration_ms": 218031,
-      "name": "berceuse (elle veille encore)",
-      "url": "https://open.spotify.com/track/7o2VWOEH0XznJlwW0OllFE"
+      "duration_ms": 132560,
+      "name": "Le go\u00fbt des mangues",
+      "url": "https://open.spotify.com/track/4y73XAWi1oNwHVr8mcgm7D"
     },
     {
       "added_at": "2025-11-14 05:01:17",
@@ -1627,22 +1623,6 @@
     {
       "added_at": "2025-11-14 05:01:17",
       "album": {
-        "name": "Le go\u00fbt des mangues",
-        "url": "https://open.spotify.com/album/312IdNUk3AsO5wS3gKSwEK"
-      },
-      "artists": [
-        {
-          "name": "Kl\u00f4 Pelgag",
-          "url": "https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi"
-        }
-      ],
-      "duration_ms": 132560,
-      "name": "Le go\u00fbt des mangues",
-      "url": "https://open.spotify.com/track/4y73XAWi1oNwHVr8mcgm7D"
-    },
-    {
-      "added_at": "2025-11-14 05:01:17",
-      "album": {
         "name": "Elle danse",
         "url": "https://open.spotify.com/album/7MDpUmwtnw3ZWehFFkrgLy"
       },
@@ -1655,6 +1635,26 @@
       "duration_ms": 149015,
       "name": "Elle danse",
       "url": "https://open.spotify.com/track/0OmanxdBHQLM8eYzfexeCN"
+    },
+    {
+      "added_at": "2025-11-14 05:01:17",
+      "album": {
+        "name": "elle veille encore",
+        "url": "https://open.spotify.com/album/36stZjlUhNpOzaK6MIvV4l"
+      },
+      "artists": [
+        {
+          "name": "Rosier",
+          "url": "https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1"
+        },
+        {
+          "name": "Mathieu David Gagnon",
+          "url": "https://open.spotify.com/artist/4cGEOcEeLrZdOBxVMugZyR"
+        }
+      ],
+      "duration_ms": 218031,
+      "name": "berceuse (elle veille encore)",
+      "url": "https://open.spotify.com/track/7o2VWOEH0XznJlwW0OllFE"
     },
     {
       "added_at": "2025-11-14 05:01:17",
@@ -1711,18 +1711,22 @@
     {
       "added_at": "2025-11-14 05:01:17",
       "album": {
-        "name": "nina",
-        "url": "https://open.spotify.com/album/6KKUqemfrnjhwUsLBf3Rpq"
+        "name": "Rendez-vous (feat. Cam\u00e9lia Jordana)",
+        "url": "https://open.spotify.com/album/270Bbbh2dJynbVAV9qb3kO"
       },
       "artists": [
         {
-          "name": "Jean-Michel Blais",
-          "url": "https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr"
+          "name": "Charlie Winston",
+          "url": "https://open.spotify.com/artist/7xQTON6uj7akAGzlanUzy3"
+        },
+        {
+          "name": "Cam\u00e9lia Jordana",
+          "url": "https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7"
         }
       ],
-      "duration_ms": 194253,
-      "name": "nina",
-      "url": "https://open.spotify.com/track/0SAvJkGvMj8IYe8Pfv99Tx"
+      "duration_ms": 187893,
+      "name": "Rendez-vous (feat. Cam\u00e9lia Jordana)",
+      "url": "https://open.spotify.com/track/0ICXb82u1L3CpYvYQI14xz"
     }
   ],
   "unique_name": "Caf\u00e9 montr\u00e9alais",

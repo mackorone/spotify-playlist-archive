@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 
 > Con todo el sentimiento ranchero desde el corazón de la Tierra Caliente\. Toño y Freddy y Triny y La Leyenda en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,747 likes - 125 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,784 likes - 125 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,14 +44,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 | 34 | [Son las Dos de la Mañana](https://open.spotify.com/track/4CYshjNzVTWOs6mEbvSFk0) | [La Dinastía de Tuzantla Michoacán](https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R) | [20 Exitos de Ley](https://open.spotify.com/album/6JtWMgUrSR6W2hsWZetzph) | 2:44 |
 | 35 | [Soy Cukin](https://open.spotify.com/track/6PYAdvhQGjuqoP4I9YBON5) | [Nicolas Garcia](https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD) | [Soy Cukin](https://open.spotify.com/album/1eVP7WUjq7xfFEroePZ0yT) | 3:45 |
 | 36 | [No Traigo 45](https://open.spotify.com/track/49s3cWrgxpuH3gLPi8Pnrl) | [Josecito Leon y Su Internacional Banda Roja](https://open.spotify.com/artist/0SC9A4onqXVy7hlbLzYxuw) | [No Traigo 45](https://open.spotify.com/album/2mk0NunPByPvLKOppGX6Ut) | 3:01 |
-| 37 | [Entre Copa y Copa](https://open.spotify.com/track/6nlVWZzuQxJ4jsVH4JeJG4) | [Grupo Alfa 7](https://open.spotify.com/artist/03TBR2ffZqsm38E9bXhSuZ) | [Quiero Que Seas para Mí](https://open.spotify.com/album/7bxTdmbur0frxgcb4CoYIv) | 3:48 |
-| 38 | [Guachita Hermosa \- En Vivo](https://open.spotify.com/track/5tZCmrLpUk6qYp8YQawXsB) | [Arkangel Musical de Tierra Caliente](https://open.spotify.com/artist/2iIOVaa7w74YFsntwrKk1k), [Los Player's de Tuzantla](https://open.spotify.com/artist/77UR8eXyohRSAMyLhYfdxW) | [Guachita Hermosa \(En Vivo\)](https://open.spotify.com/album/3OtYQGkengSgGkXaFVhvl8) | 3:29 |
-| 39 | [Con Mentiras No](https://open.spotify.com/track/0iGA2tFV2f5yjiHRijk9cL) | [La Nobleza De Aguililla](https://open.spotify.com/artist/5cNCUu9R7rlzsDPHQFKCdg) | [Corazon Michoacano](https://open.spotify.com/album/56dGWZj0MsID0YPwuXkdhS) | 3:03 |
+| 37 | [Guachita Hermosa \- En Vivo](https://open.spotify.com/track/5tZCmrLpUk6qYp8YQawXsB) | [Arkangel Musical de Tierra Caliente](https://open.spotify.com/artist/2iIOVaa7w74YFsntwrKk1k), [Los Player's de Tuzantla](https://open.spotify.com/artist/77UR8eXyohRSAMyLhYfdxW) | [Guachita Hermosa \(En Vivo\)](https://open.spotify.com/album/3OtYQGkengSgGkXaFVhvl8) | 3:29 |
+| 38 | [Con Mentiras No](https://open.spotify.com/track/0iGA2tFV2f5yjiHRijk9cL) | [La Nobleza De Aguililla](https://open.spotify.com/artist/5cNCUu9R7rlzsDPHQFKCdg) | [Corazon Michoacano](https://open.spotify.com/album/56dGWZj0MsID0YPwuXkdhS) | 3:03 |
+| 39 | [Entre Copa y Copa](https://open.spotify.com/track/6nlVWZzuQxJ4jsVH4JeJG4) | [Grupo Alfa 7](https://open.spotify.com/artist/03TBR2ffZqsm38E9bXhSuZ) | [Quiero Que Seas para Mí](https://open.spotify.com/album/7bxTdmbur0frxgcb4CoYIv) | 3:48 |
 | 40 | [Hermosa Tierra Caliente](https://open.spotify.com/track/6EDF54JATyoMUNbBJIETAe) | [Los Pajaritos De Tacupa](https://open.spotify.com/artist/7KrWKbEhGHojuod8j3CDNT) | [Eres Mi Ángel](https://open.spotify.com/album/1PDfdwiMGcGbsZqxd48tKo) | 3:27 |
 | 41 | [La Boca Es Para Comer](https://open.spotify.com/track/3mVT1MmEoJdLadOmCnX6hn) | [Banda Los Costeños de Zirandaro, Gro.](https://open.spotify.com/artist/6RZ6RbJO8Lit2j9oM5621E) | [Al 100 y Pasadito](https://open.spotify.com/album/5Yt4zVJRzpF1p48uCA930b) | 2:37 |
-| 42 | [La Araña](https://open.spotify.com/track/2xYmyXiRZC5kw3p34ZZN05) | [Grupo Alfa 7](https://open.spotify.com/artist/03TBR2ffZqsm38E9bXhSuZ) | [Porque Te Quiero Amor](https://open.spotify.com/album/0Mys0SoE9tjsqoI4viRcw5) | 3:06 |
-| 43 | [Caliente Caliente](https://open.spotify.com/track/00KobkfwcyPkxUY73Y2J8T) | [Raza Obrera](https://open.spotify.com/artist/0R5UVonrEc6yE7gjWllRGF) | [Arpacumbiando: Caliente, Caliente](https://open.spotify.com/album/6zOnwXDxxOHik1jT3IIukc) | 3:07 |
-| 44 | [Jefe Fresa](https://open.spotify.com/track/5qYEfd1C9P6CmBEHKkzfKA) | [Nicolas Garcia](https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD) | [Estoy Aquí](https://open.spotify.com/album/4a2Q0M9B2DGneblANoPtEQ) | 3:13 |
+| 42 | [Caliente Caliente](https://open.spotify.com/track/00KobkfwcyPkxUY73Y2J8T) | [Raza Obrera](https://open.spotify.com/artist/0R5UVonrEc6yE7gjWllRGF) | [Arpacumbiando: Caliente, Caliente](https://open.spotify.com/album/6zOnwXDxxOHik1jT3IIukc) | 3:07 |
+| 43 | [Jefe Fresa](https://open.spotify.com/track/5qYEfd1C9P6CmBEHKkzfKA) | [Nicolas Garcia](https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD) | [Estoy Aquí](https://open.spotify.com/album/4a2Q0M9B2DGneblANoPtEQ) | 3:13 |
+| 44 | [La Araña](https://open.spotify.com/track/2xYmyXiRZC5kw3p34ZZN05) | [Grupo Alfa 7](https://open.spotify.com/artist/03TBR2ffZqsm38E9bXhSuZ) | [Porque Te Quiero Amor](https://open.spotify.com/album/0Mys0SoE9tjsqoI4viRcw5) | 3:06 |
 | 45 | [Cien Vidas](https://open.spotify.com/track/0D79ID7bLGiIeFRwIRj9O9) | [Grupo El Bueno](https://open.spotify.com/artist/2MdBGTkBZjy9Oa0JbxhJ9f) | [Por Ti Me Mato](https://open.spotify.com/album/6HVw5b6iTjMEGvjohuIHSF) | 2:59 |
 | 46 | [Guachita Hermosa](https://open.spotify.com/track/5I7VMy1ueLlh8HBDN1DM4h) | [Arkangel Musical de Tierra Caliente](https://open.spotify.com/artist/2iIOVaa7w74YFsntwrKk1k), [tierra caliente music](https://open.spotify.com/artist/5jcQ9RE1WsH5D2j2Nb1Xp0) | [Eres Mi Sexto Sentido](https://open.spotify.com/album/4ixLghGMb69nGfkirXyGe6) | 3:04 |
 | 47 | [Amor Limosnero](https://open.spotify.com/track/0SLdgfVlFaf0vv9HUFAXgx) | [Los Player's de Tuzantla](https://open.spotify.com/artist/77UR8eXyohRSAMyLhYfdxW) | [De Parranda Con Jorge Garcia](https://open.spotify.com/album/2lVwzYj3fyF1VrIZSmSgLa) | 3:39 |

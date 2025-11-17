@@ -1,6 +1,6 @@
 {
   "description": "Life sucks...i need some rock!",
-  "num_followers": 300113,
+  "num_followers": 300121,
   "original_name": "Anger Management",
   "owner": {
     "name": "Spotify",
@@ -695,6 +695,22 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
+        "name": "hot girl bummer",
+        "url": "https://open.spotify.com/album/1ZxDNQug6sZYBfZa8FckkT"
+      },
+      "artists": [
+        {
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+        }
+      ],
+      "duration_ms": 185769,
+      "name": "hot girl bummer",
+      "url": "https://open.spotify.com/track/1GIofMbTz83fXqNrEuf4bA"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
         "name": "Will Of The People",
         "url": "https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 288453,
       "name": "Something from Nothing",
       "url": "https://open.spotify.com/track/6REiraH7Pe3akd0mkFA4l9"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
-        "name": "hot girl bummer",
-        "url": "https://open.spotify.com/album/1ZxDNQug6sZYBfZa8FckkT"
-      },
-      "artists": [
-        {
-          "name": "Our Last Night",
-          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
-        }
-      ],
-      "duration_ms": 185769,
-      "name": "hot girl bummer",
-      "url": "https://open.spotify.com/track/1GIofMbTz83fXqNrEuf4bA"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Oh No!!!",
-        "url": "https://open.spotify.com/album/4tZXu9mrH5lukHf9ujbSUp"
-      },
-      "artists": [
-        {
-          "name": "grandson",
-          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
-        }
-      ],
-      "duration_ms": 215035,
-      "name": "Oh No!!!",
-      "url": "https://open.spotify.com/track/1hHn2SG7j8Ux61wWiUcXPq"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "Overcome",
         "url": "https://open.spotify.com/album/24nlaQLa3nx87nBaS9j35W"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 214723,
       "name": "Overcome",
       "url": "https://open.spotify.com/track/18q5OmlDTbSm8w9J1i17dT"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "Oh No!!!",
+        "url": "https://open.spotify.com/album/4tZXu9mrH5lukHf9ujbSUp"
+      },
+      "artists": [
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        }
+      ],
+      "duration_ms": 215035,
+      "name": "Oh No!!!",
+      "url": "https://open.spotify.com/track/1hHn2SG7j8Ux61wWiUcXPq"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "AB III",
-        "url": "https://open.spotify.com/album/5k9IKUeX7Czrh9BzhUGT86"
-      },
-      "artists": [
-        {
-          "name": "Alter Bridge",
-          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
-        }
-      ],
-      "duration_ms": 253720,
-      "name": "Isolation",
-      "url": "https://open.spotify.com/track/5G2c0FDSToVnmhrk9EJuv2"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "But Here We Are",
         "url": "https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 283469,
       "name": "But Here We Are",
       "url": "https://open.spotify.com/track/5s18NymFEHOtiUMfVr6E3H"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "AB III",
+        "url": "https://open.spotify.com/album/5k9IKUeX7Czrh9BzhUGT86"
+      },
+      "artists": [
+        {
+          "name": "Alter Bridge",
+          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
+        }
+      ],
+      "duration_ms": 253720,
+      "name": "Isolation",
+      "url": "https://open.spotify.com/track/5G2c0FDSToVnmhrk9EJuv2"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Rescued",
-        "url": "https://open.spotify.com/album/74RB6Y9T2ubqGah14jueyO"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 258648,
-      "name": "Rescued",
-      "url": "https://open.spotify.com/track/6mgzUNNr3NY6NbTzNzwYq9"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "Once In A Lifetime",
         "url": "https://open.spotify.com/album/4IV3UUGKbd9bZeRZlZDNJd"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 189542,
       "name": "Once In A Lifetime",
       "url": "https://open.spotify.com/track/2Qjkvp4GLlL60lFXtEte0X"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "Rescued",
+        "url": "https://open.spotify.com/album/74RB6Y9T2ubqGah14jueyO"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 258648,
+      "name": "Rescued",
+      "url": "https://open.spotify.com/track/6mgzUNNr3NY6NbTzNzwYq9"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
+        "name": "Medicine At Midnight",
+        "url": "https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 261511,
+      "name": "Love Dies Young",
+      "url": "https://open.spotify.com/track/5suO1J3cXSVWJ7ED3kasKQ"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
         "name": "Typhoons",
         "url": "https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 228852,
       "name": "The Rift",
       "url": "https://open.spotify.com/track/3vUHrmHxjsngAXKvxRJ6nc"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
-        "name": "Medicine At Midnight",
-        "url": "https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 261511,
-      "name": "Love Dies Young",
-      "url": "https://open.spotify.com/track/5suO1J3cXSVWJ7ED3kasKQ"
     },
     {
       "added_at": "2024-12-03 09:27:47",

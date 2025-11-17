@@ -4,7 +4,7 @@
 
 > This is Madison Cunningham\. The essential tracks, all in one playlist.
 
-114 songs - 7 hr 19 min
+115 songs - 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Don’t Let Me Down Again](https://open.spotify.com/track/1fuQki4HKxBZfoR6NGD0DQ) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Don't Let Me Down Again](https://open.spotify.com/album/0m6DwAOvMiq4BOufLEwgCo) | 3:23 | 2024-10-17 | 2024-11-14 |
 | [Don’t Let Me Down Again](https://open.spotify.com/track/7rEeIaUe3cqW8lkVThboZc) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Cunningham Bird](https://open.spotify.com/album/7oqmbxce6KT0PZ8manQXJB) | 3:23 | 2024-11-23 |  |
 | [Dry As Sand](https://open.spotify.com/track/3IJzE46O8hpo05HM9D7k44) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Who Are You Now](https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy) | 4:19 | 2022-09-18 | 2024-07-24 |
-| [Evangeline](https://open.spotify.com/track/3V4Cr62Dp1bQo5B98k3sDs) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Evangeline](https://open.spotify.com/album/6KvzvU0oOFWLw7yZhV3qse) | 3:26 | 2025-11-07 |  |
+| [Evangeline](https://open.spotify.com/track/05URVp6intVrFUYhIksYyB) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Small Talk](https://open.spotify.com/album/0DV7ElSZhfGNknhxBnQeJk) | 3:26 | 2025-11-17 |  |
+| [Evangeline](https://open.spotify.com/track/3V4Cr62Dp1bQo5B98k3sDs) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Evangeline](https://open.spotify.com/album/6KvzvU0oOFWLw7yZhV3qse) | 3:26 | 2025-11-07 | 2025-11-17 |
 | [First Class to Nowhere](https://open.spotify.com/track/6I4U6o4pGEMVCZosWFU6GY) | [The Technicolors](https://open.spotify.com/artist/6hQS54VPpxunuwR0W7usuo), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [First Class to Nowhere](https://open.spotify.com/album/5KORmq9soICEzIjR7IME7c) | 4:04 | 2025-07-20 | 2025-10-12 |
 | [Forever Young](https://open.spotify.com/track/5SEIUFwcfzz23XOsV9Zkq4) | [Scary Pockets](https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Ups & Downs](https://open.spotify.com/album/3NRo2C87t72OqUzt1DnRBD) | 3:22 | 2022-09-16 |  |
 | [Frozen Love](https://open.spotify.com/track/64tPlmhyDRweaGiNzgfixT) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Cunningham Bird](https://open.spotify.com/album/7oqmbxce6KT0PZ8manQXJB) | 4:45 | 2024-10-20 | 2024-10-25 |

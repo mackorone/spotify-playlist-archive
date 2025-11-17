@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6PMKZl4slXlFqxPgU4v5w1.md) - [plain]
 
 > 
 
-[abdelaziz](https://open.spotify.com/user/34ju0qupggd7c0twwwss0bceq) - 0 likes - 37 songs - 2 hr 35 min
+[az](https://open.spotify.com/user/34ju0qupggd7c0twwwss0bceq) - 0 likes - 37 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

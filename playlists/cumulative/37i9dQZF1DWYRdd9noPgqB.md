@@ -4,7 +4,7 @@
 
 > La playlist qui fait du bien ☀️
 
-428 songs - 23 hr 27 min
+429 songs - 23 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Dracula](https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Dracula](https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4) | 3:25 | 2025-10-16 |  |
 | [Dream](https://open.spotify.com/track/1zQ3aaipEmoZ4tHtwIR28a) | [Collect 200](https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE) | [Dream](https://open.spotify.com/album/5RRxkgSIBJ02AUEUf9pi9d) | 2:44 | 2025-09-04 |  |
 | [Dreaming](https://open.spotify.com/track/2iQGLQk81BqoA5cJCwTawF) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [Dreaming](https://open.spotify.com/album/7iALUtKcf57yVL2ncziE0K) | 3:36 | 2025-05-01 | 2025-09-12 |
+| [Eden](https://open.spotify.com/track/5jFiIiqGyS35QMov2WvFaT) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Eden](https://open.spotify.com/album/1PIpblTFI5xO71o0SWj5Ca) | 4:07 | 2025-11-13 |  |
 | [Edge of the Earth](https://open.spotify.com/track/4Zy6m1QjUivLl8Zt7E8uxr) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 2:40 | 2024-03-07 | 2024-06-14 |
 | [End Zone](https://open.spotify.com/track/2wCllylUpVkRPKrMKUuaVD) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw), [ROM COM](https://open.spotify.com/artist/2MrqzR7wCXVQ0r6PPDIQTg) | [End Zone](https://open.spotify.com/album/6nE416MMt0BOKa0e696X7J) | 2:43 | 2025-07-03 |  |
 | [Every Bullet so Far](https://open.spotify.com/track/6qugUDiEBLgFFrhCa40RS5) | [AllttA](https://open.spotify.com/artist/1si6mnxJ6IpTOTW13ECa0o), [20syl](https://open.spotify.com/artist/6mA4csYsYvf4Mq02PleZEV), [Mr\. J\. Medeiros](https://open.spotify.com/artist/0r9XuUo5aHtAEZiWsOA0wT) | [Curio Part II](https://open.spotify.com/album/4RUvalMQW42XY9a1sgCDip) | 4:12 | 2023-12-08 | 2024-02-16 |
@@ -174,7 +175,7 @@
 | [In My Room](https://open.spotify.com/track/7lhAowB1rRlp1UfVkHqpD2) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:13 | 2023-11-23 | 2024-01-05 |
 | [In Real Life](https://open.spotify.com/track/2pGj2JONrsGJwGqCbzw8aC) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6) | [Clarity of Cal](https://open.spotify.com/album/2yImgiwCG9KZnxzgulVthl) | 2:57 | 2025-03-13 | 2025-05-02 |
 | [In The Stars](https://open.spotify.com/track/2Derfdf5dzn6LXehZFR5Qj) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [In The Stars](https://open.spotify.com/album/4GZkJrxJFY9dPuG919zAmQ) | 2:39 | 2025-10-02 |  |
-| [In Yer Eyes](https://open.spotify.com/track/653CiFgNM4q48b8F0Chrfs) | [Roger Sellers](https://open.spotify.com/artist/4StOjWLB3i8HMqZwbCKv29), [Bayonne](https://open.spotify.com/artist/6BbqU3r1G2mwkRIfIbkCek) | [In Yer Eyes](https://open.spotify.com/album/5AcTqM5Yz8NCuXuFo1cDRm) | 2:18 | 2025-06-27 |  |
+| [In Yer Eyes](https://open.spotify.com/track/653CiFgNM4q48b8F0Chrfs) | [Roger Sellers](https://open.spotify.com/artist/4StOjWLB3i8HMqZwbCKv29), [Bayonne](https://open.spotify.com/artist/6BbqU3r1G2mwkRIfIbkCek) | [In Yer Eyes](https://open.spotify.com/album/5AcTqM5Yz8NCuXuFo1cDRm) | 2:18 | 2025-06-27 | 2025-11-17 |
 | [Indoor Sport](https://open.spotify.com/track/21Ze8tyV9n7QNgI46k68Uk) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Indoor Sport](https://open.spotify.com/album/7gOs8wr3CWSDsht88pqBXO) | 3:07 | 2024-10-24 | 2025-03-28 |
 | [Internet](https://open.spotify.com/track/3iBSdk1OWlVoCJwHkjg4lX) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG) | [Lost and found](https://open.spotify.com/album/4V5EXwlVZyDgqx5RHLik1z) | 3:04 | 2024-01-25 | 2024-04-19 |
 | [Ipanema \(Cafuné\)](https://open.spotify.com/track/71lC5og1dZKT8gcl1WkMnc) | [NoMBe](https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw) | [DIÁSPORA](https://open.spotify.com/album/3cbqI0ZeOCBcNeECWz0Iz8) | 3:33 | 2025-07-10 |  |

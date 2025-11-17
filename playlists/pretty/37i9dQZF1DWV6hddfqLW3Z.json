@@ -1,6 +1,6 @@
 {
   "description": "Pegue seu caf\u00e9, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.",
-  "num_followers": 808729,
+  "num_followers": 808741,
   "original_name": "Cafezinho",
   "owner": {
     "name": "Spotify",
@@ -859,34 +859,6 @@
     {
       "added_at": "2025-10-25 00:53:11",
       "album": {
-        "name": "Goela Abaixo",
-        "url": "https://open.spotify.com/album/6u9KVK2R84AIC5tR75SLAo"
-      },
-      "artists": [
-        {
-          "name": "Liniker e os Caramelows",
-          "url": "https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n"
-        },
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        },
-        {
-          "name": "Caramelows",
-          "url": "https://open.spotify.com/artist/7v5Y5Ua4GZTLrbYUUfK9Hi"
-        },
-        {
-          "name": "Mahmundi",
-          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
-        }
-      ],
-      "duration_ms": 230849,
-      "name": "Bem Bom",
-      "url": "https://open.spotify.com/track/5GkqsV7wYPqZNjGfhSGWuf"
-    },
-    {
-      "added_at": "2025-10-25 00:53:11",
-      "album": {
         "name": "Um Mar Pra Cada Um,",
         "url": "https://open.spotify.com/album/7s4sDqfWp9bbkWgU185WVh"
       },
@@ -911,6 +883,34 @@
       "duration_ms": 196771,
       "name": "Joia",
       "url": "https://open.spotify.com/track/5PJZbd8I7PrQDDDcehVU6M"
+    },
+    {
+      "added_at": "2025-10-25 00:53:11",
+      "album": {
+        "name": "Goela Abaixo",
+        "url": "https://open.spotify.com/album/6u9KVK2R84AIC5tR75SLAo"
+      },
+      "artists": [
+        {
+          "name": "Liniker e os Caramelows",
+          "url": "https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n"
+        },
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        },
+        {
+          "name": "Caramelows",
+          "url": "https://open.spotify.com/artist/7v5Y5Ua4GZTLrbYUUfK9Hi"
+        },
+        {
+          "name": "Mahmundi",
+          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
+        }
+      ],
+      "duration_ms": 230849,
+      "name": "Bem Bom",
+      "url": "https://open.spotify.com/track/5GkqsV7wYPqZNjGfhSGWuf"
     },
     {
       "added_at": "2025-10-25 00:53:11",

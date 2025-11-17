@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-870 songs - 1 day 18 hr 3 min
+871 songs - 1 day 18 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -520,6 +520,7 @@
 | [Navala](https://open.spotify.com/track/4CCctITmHTWCoZpTK3Qi0I) | [Astral Steps](https://open.spotify.com/artist/1F2Bnj5hR7xoWkRVrtfROZ) | [Navala](https://open.spotify.com/album/6xPKS6K54lWJM5CFEs8Wvr) | 2:39 | 2025-05-07 | 2025-06-26 |
 | [Neblinoso](https://open.spotify.com/track/6uZF7xC32ewhpsm36IaM5T) | [Cameron Sinosa](https://open.spotify.com/artist/68NVLorVbyDWrMwmGpwyGP) | [Neblinoso](https://open.spotify.com/album/0G3hLYFllRHfZHgFUj2MFS) | 3:54 | 2023-03-23 | 2024-04-06 |
 | [Nebulith](https://open.spotify.com/track/6kUw11kP5u86xesGhYlKtn) | [Revivo Wide](https://open.spotify.com/artist/43IhMvQXxJBfmuxfYsVBCD) | [Nebulith](https://open.spotify.com/album/4Y1DKGsMwxMEefEvwLhOG3) | 2:51 | 2025-09-23 |  |
+| [Neiel](https://open.spotify.com/track/2tfhr5e8EC9dkfPDA6CuYS) | [Stilly Night](https://open.spotify.com/artist/6QIztxy4eQlPJxZGq0YS0z) | [Neiel](https://open.spotify.com/album/6zxATBSRTBCcZSJ6Olyzwa) | 2:20 | 2025-11-12 |  |
 | [Neith](https://open.spotify.com/track/2NYLBdcIqIOtS0Osf9xAXl) | [Silvender](https://open.spotify.com/artist/27X4biNzBbSANHTSO2stdZ) | [Neith](https://open.spotify.com/album/34DdXfiK2sDtF3g5mis03P) | 2:42 | 2025-11-12 |  |
 | [Neptune](https://open.spotify.com/track/3Gk3htA0t07SKqHAE6Ky7b) | [Indigo Moon](https://open.spotify.com/artist/6BRHav71vLlNp0l4uBXHkj) | [Neptune](https://open.spotify.com/album/3f9yCCW2sAaqlQ7otsX7kv) | 2:38 | 2025-01-08 | 2025-06-13 |
 | [Neutrino](https://open.spotify.com/track/0ToCRAE0hwR8OVwIJgWBN0) | [Alsephina](https://open.spotify.com/artist/2EFJqbmRZS645xeescnjp6) | [Neutrino](https://open.spotify.com/album/6gv12Fyx8nZV85zuJK57BA) | 2:48 | 2025-06-25 | 2025-10-31 |
@@ -597,7 +598,7 @@
 | [Presence](https://open.spotify.com/track/3IooKSGurp7bwCnK5odZEZ) | [Arietis](https://open.spotify.com/artist/03NS5oA1PstBjCg4kwn6lH) | [Presence](https://open.spotify.com/album/37Izr0igRkZEUUto8T2OC6) | 2:55 | 2025-03-05 | 2025-06-26 |
 | [Presence](https://open.spotify.com/track/7a4gDM13MJvGcxkfDqbzIw) | [Calming Eyes](https://open.spotify.com/artist/32QebOlHD4A8nInyCK0wvf) | [Presence](https://open.spotify.com/album/6uOJ38UQCPi167LHTWirvX) | 3:31 | 2025-06-25 |  |
 | [Primrose](https://open.spotify.com/track/5tIbsGFsbxljVv1KxUUXKV) | [Joan Magana](https://open.spotify.com/artist/0WZH1ZpG77XFRS44A8lL5R) | [Primrose](https://open.spotify.com/album/2T22dTQnkNLOFlfsqv8kd4) | 3:38 | 2023-03-23 | 2024-02-09 |
-| [Prismatic](https://open.spotify.com/track/4CzH17y6ZqsfL44KIcBPQY) | [Chandeller](https://open.spotify.com/artist/0LzWeBGGtEazh0mJmyxFXi) | [Prismatic](https://open.spotify.com/album/1HxZqb63mQDqGPnPADJ8Us) | 2:51 | 2025-02-26 |  |
+| [Prismatic](https://open.spotify.com/track/4CzH17y6ZqsfL44KIcBPQY) | [Chandeller](https://open.spotify.com/artist/0LzWeBGGtEazh0mJmyxFXi) | [Prismatic](https://open.spotify.com/album/1HxZqb63mQDqGPnPADJ8Us) | 2:51 | 2025-02-26 | 2025-11-17 |
 | [Profusion of Dreams](https://open.spotify.com/track/1UGc72on1Mg4R7wf7Cnetg) | [Somnolentia](https://open.spotify.com/artist/1k7mX5EwakP9gbdCyulnJ1) | [Profusion of Dreams](https://open.spotify.com/album/6cZalJG7mYR8bkzWJPf6Bn) | 2:21 | 2025-11-12 |  |
 | [Promised](https://open.spotify.com/track/1fSln3JhzB7Asdi83JTvPa) | [Macroix](https://open.spotify.com/artist/3ooxJFdCXxyk6heox7EOPV) | [Promised](https://open.spotify.com/album/1kTofA1YT3X06ZU94dXJhN) | 2:33 | 2023-07-14 | 2024-07-10 |
 | [Pure Devotion](https://open.spotify.com/track/5A1olsOXK5e86FYqxvnhAx) | [Natana Bach](https://open.spotify.com/artist/568DTgNHtIjbRfvgeQNDr4) | [Pure Devotion](https://open.spotify.com/album/5kneDPDEV2cJ3AxJmuYt3g) | 3:02 | 2023-11-10 | 2024-05-23 |

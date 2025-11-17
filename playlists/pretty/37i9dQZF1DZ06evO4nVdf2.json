@@ -1,12 +1,12 @@
 {
   "description": "This is Ximena Sari\u00f1ana. The essential tracks, all in one playlist.",
-  "num_followers": 64685,
+  "num_followers": 64694,
   "original_name": "This Is Ximena Sari\u00f1ana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRZxAAAAAABGpAqv8Fw3lktSwm5ANcka",
+  "snapshot_id": "aRfCgAAAAAAaqUmFuzwIhkYw0206zSsB",
   "tracks": [
     {
       "added_at": null,
@@ -835,6 +835,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "ALV",
+        "url": "https://open.spotify.com/album/79NYLb4A4a1OwBRbLAsyfk"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 217541,
+      "name": "ALV",
+      "url": "https://open.spotify.com/track/0czJDMboe5qf9NTHisp6kO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "N.I.T.",
         "url": "https://open.spotify.com/album/2LrRxe5gOKn43mAUWqcAnr"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 209220,
       "name": "N.I.T.",
       "url": "https://open.spotify.com/track/6YkjeXjD4WHs2tVsoiDSwM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ALV",
-        "url": "https://open.spotify.com/album/79NYLb4A4a1OwBRbLAsyfk"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 217541,
-      "name": "ALV",
-      "url": "https://open.spotify.com/track/0czJDMboe5qf9NTHisp6kO"
     },
     {
       "added_at": null,
@@ -1023,22 +1023,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Cosas Simples",
-        "url": "https://open.spotify.com/album/4lZ99ROEF6NGeIOmce5bIW"
+        "name": "Existencia Kamikaze",
+        "url": "https://open.spotify.com/album/6fUzjJ4WJm5IfgJ9tONycP"
       },
       "artists": [
         {
           "name": "Ximena Sari\u00f1ana",
           "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        },
-        {
-          "name": "Belafonte Sensacional",
-          "url": "https://open.spotify.com/artist/6GzJDY171oHEEUgvoais06"
         }
       ],
-      "duration_ms": 198228,
-      "name": "Las Tormentas",
-      "url": "https://open.spotify.com/track/0P58mFQ2GFgg0Xd2QvCvdC"
+      "duration_ms": 147123,
+      "name": "Ver El Mundo Arder",
+      "url": "https://open.spotify.com/track/793Jr55o2uEIv4b3Z8vmjN"
     }
   ],
   "unique_name": "This Is Ximena Sari\u00f1ana",

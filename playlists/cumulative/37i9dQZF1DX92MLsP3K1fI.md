@@ -4,7 +4,7 @@
 
 > ¡Sube el volumen y disfruta del pop más chicloso! Ana Torroja en portada.
 
-563 songs - 1 day 4 hr 28 min
+564 songs - 1 day 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Al Revés](https://open.spotify.com/track/0ZjhDp2DAAAH5gTj8b7qBK) | [ADRI](https://open.spotify.com/artist/4dpXYalt8qXd3R4yLPQE7E), [Pascal](https://open.spotify.com/artist/2fuu7gBnfDhgJNt1Yr4ERu) | [Al Revés](https://open.spotify.com/album/4jiWU7w7CXSn56IPKdLH5T) | 2:47 | 2022-02-04 | 2022-06-17 |
 | [Algo Como Lo Nuestro No Existe](https://open.spotify.com/track/5DfHtdirAqVrvnwwdfcmdi) | [Alan Estrada](https://open.spotify.com/artist/52CxCoUZXDONXWfnqEKdX0), [Jannette Chao](https://open.spotify.com/artist/49xEbqPQALFf9rzEwO924T), [Vince Miranda](https://open.spotify.com/artist/26yqxU7d4WlsJy4RiQvpgQ) | [Algo Como Lo Nuestro No Existe](https://open.spotify.com/album/2eO3vmz8Kz0KGWGa0YjgRD) | 2:47 | 2022-02-04 | 2022-07-29 |
 | [ALMA</3](https://open.spotify.com/track/1Mq86WnX64KKQoCuIaXT1t) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [ALMA</3](https://open.spotify.com/album/68bcjscUFhKvunT391ALub) | 2:24 | 2024-02-23 | 2024-05-18 |
-| [Amantes](https://open.spotify.com/track/3p7qQsuaRtWpksGehwtYnC) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Amantes](https://open.spotify.com/album/70Ywxe81wjlVE9wY7075WC) | 2:33 | 2025-02-28 |  |
+| [Amantes](https://open.spotify.com/track/3p7qQsuaRtWpksGehwtYnC) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Amantes](https://open.spotify.com/album/70Ywxe81wjlVE9wY7075WC) | 2:33 | 2025-02-28 | 2025-11-17 |
 | [Amapolas \- Remix](https://open.spotify.com/track/44QxiGlmeSpF8boud04Rkc) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Amapolas \(Remix\)](https://open.spotify.com/album/1vgLiqD7LfGkuymUPdAB2U) | 4:27 | 2022-02-04 | 2025-01-18 |
 | [AMOR](https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [AMOR](https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj) | 3:00 | 2024-02-16 |  |
 | [Amor](https://open.spotify.com/track/6vmhP1NKDIFT79gpz7Anzl) | [GRECIA](https://open.spotify.com/artist/38R1cYS63phBu2ZIsOinxw) | [Amor](https://open.spotify.com/album/2jQGUeH9mo2nA0e1fWOjSE) | 3:28 | 2022-02-04 | 2022-07-29 |
@@ -253,6 +253,7 @@
 | [Jeans](https://open.spotify.com/track/3k8OecyCuXi8khi6BlA64t) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd) | [Jeans](https://open.spotify.com/album/0GT6nYV0wS2F6K7FKkKKFY) | 3:21 | 2025-10-24 | 2025-11-08 |
 | [Jodido Sin Ti](https://open.spotify.com/track/3gYE83kjjPZpsxgJ1HnOo3) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Jodido Sin Ti](https://open.spotify.com/album/37MEKBQVt7evqaeNjgRC5U) | 2:45 | 2024-05-10 | 2024-06-01 |
 | [John Travolta Flow](https://open.spotify.com/track/47acvbWSF9jaycIC2tm3cV) | [Zemmoa](https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP), [Lenchanter](https://open.spotify.com/artist/5iMB2hljXcBHzgrbK4FUnl) | [John Travolta Flow](https://open.spotify.com/album/6KjzHsjKf0VG2hC0os4pfi) | 2:59 | 2024-11-01 | 2024-11-23 |
+| [Juntos](https://open.spotify.com/track/6GdvsmiIeMEPnvhgrXIj7C) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM), [Andrés Obregón](https://open.spotify.com/artist/0AQMbCYt6y84wEHGzScKve) | [SUPERIOR](https://open.spotify.com/album/7Aa5Xb8P3l5DPYvn3drCCM) | 3:11 | 2025-11-07 |  |
 | [Kafka](https://open.spotify.com/track/0dPMYriM07Lu8Md86ZEiIf) | [Sofish](https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB) | [Kafka](https://open.spotify.com/album/0gptfIY6g3e1xTrb9019J7) | 2:33 | 2024-01-26 | 2024-02-24 |
 | [karma](https://open.spotify.com/track/2AHiQVyuaGHOERDPVlxWRT) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [Natt Calma](https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH) | [karma](https://open.spotify.com/album/2xMf32apRnpyCvxtXBRYkB) | 2:30 | 2025-10-24 |  |
 | [Karma](https://open.spotify.com/track/7M4HP9qLthoJZ3XAAamZfY) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Karma](https://open.spotify.com/album/45f9J6QgWfofdF8v98Uc1l) | 2:24 | 2025-05-16 | 2025-08-23 |

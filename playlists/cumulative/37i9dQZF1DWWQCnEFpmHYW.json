@@ -581,6 +581,28 @@
     },
     {
       "album": {
+        "name": "Rainfall Symphonies",
+        "url": "https://open.spotify.com/album/1BGcgRn8z4oJxeJyuyuNtp"
+      },
+      "artists": [
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "Jason Singh",
+          "url": "https://open.spotify.com/artist/5AhRKszqrz3ObgAD2prknJ"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193469,
+      "name": "Devon Rain Rhythms",
+      "url": "https://open.spotify.com/track/5kxSewI0OUQytU3fB6YxKt"
+    },
+    {
+      "album": {
         "name": "Dragonflies",
         "url": "https://open.spotify.com/album/3idhIrh3mt0jFMq4aegMIS"
       },
@@ -1370,7 +1392,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-17",
       "duration_ms": 208000,
       "name": "Lightning In The Sky",
       "url": "https://open.spotify.com/track/4xLC1Ft6zYnVFQmyMyrjek"
@@ -1676,7 +1698,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-13",
+      "date_removed": null,
       "duration_ms": 133250,
       "name": "Patter (Rain)",
       "url": "https://open.spotify.com/track/2GjZpbyFka2Ys04Ipe3ehi"
@@ -1730,7 +1752,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-17",
       "duration_ms": 181000,
       "name": "Pond Cabin (Rain)",
       "url": "https://open.spotify.com/track/6KpmZVFsjuU9295Wff25Io"

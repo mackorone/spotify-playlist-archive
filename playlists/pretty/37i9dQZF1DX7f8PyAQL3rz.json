@@ -1,6 +1,6 @@
 {
   "description": "em guerra de ego sobra quem?",
-  "num_followers": 1419208,
+  "num_followers": 1419179,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -775,26 +775,6 @@
     {
       "added_at": "2025-11-07 03:01:19",
       "album": {
-        "name": "Serena & Venus (Lado A)",
-        "url": "https://open.spotify.com/album/7nAI8aRf1bLV6shOXSld68"
-      },
-      "artists": [
-        {
-          "name": "Tasha & Tracie",
-          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
-        },
-        {
-          "name": "Pizzol",
-          "url": "https://open.spotify.com/artist/1LvxqCO8GOAKkDzDOXfrAK"
-        }
-      ],
-      "duration_ms": 237726,
-      "name": "Serena & Venus",
-      "url": "https://open.spotify.com/track/7FVKKaicBQr7K5ybvCPKYH"
-    },
-    {
-      "added_at": "2025-11-07 03:01:19",
-      "album": {
         "name": "Sinestesia",
         "url": "https://open.spotify.com/album/2bLgXehUjKOPQuP1FeYNNn"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 155076,
       "name": "Procedimento",
       "url": "https://open.spotify.com/track/61cbHhgcOtLiYAOsZrvErQ"
+    },
+    {
+      "added_at": "2025-11-07 03:01:19",
+      "album": {
+        "name": "Serena & Venus (Lado A)",
+        "url": "https://open.spotify.com/album/7nAI8aRf1bLV6shOXSld68"
+      },
+      "artists": [
+        {
+          "name": "Tasha & Tracie",
+          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
+        },
+        {
+          "name": "Pizzol",
+          "url": "https://open.spotify.com/artist/1LvxqCO8GOAKkDzDOXfrAK"
+        }
+      ],
+      "duration_ms": 237726,
+      "name": "Serena & Venus",
+      "url": "https://open.spotify.com/track/7FVKKaicBQr7K5ybvCPKYH"
     },
     {
       "added_at": "2025-11-07 03:01:19",

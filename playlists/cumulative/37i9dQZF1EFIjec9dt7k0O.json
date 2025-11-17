@@ -1712,6 +1712,28 @@
     {
       "album": {
         "name": "Gabriela",
+        "url": "https://open.spotify.com/album/0jhdc7QMNmtHHmQX7ZoZki"
+      },
+      "artists": [
+        {
+          "name": "CoverZounds",
+          "url": "https://open.spotify.com/artist/7IDWvv3p14ky0S5wxwtiDi"
+        },
+        {
+          "name": "EDITKINGS",
+          "url": "https://open.spotify.com/artist/1xyF70wWUIIdwczzNKkxjI"
+        }
+      ],
+      "date_added": "2025-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193966,
+      "name": "Gabriela",
+      "url": "https://open.spotify.com/track/37TC45aXWnf5hLttYUmKnn"
+    },
+    {
+      "album": {
+        "name": "Gabriela",
         "url": "https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft"
       },
       "artists": [

@@ -203,6 +203,24 @@
     },
     {
       "album": {
+        "name": "Tryna make it in LA",
+        "url": "https://open.spotify.com/album/4fp8OAtfX796SBKkwfvQ9D"
+      },
+      "artists": [
+        {
+          "name": "Kerstin Ljungstr\u00f6m",
+          "url": "https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe"
+        }
+      ],
+      "date_added": "2025-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193346,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/1WtzjF0d4weMlqumdyH12i"
+    },
+    {
+      "album": {
         "name": "Caroline",
         "url": "https://open.spotify.com/album/3YKj6eNHkDjsDlSXiBw1Dj"
       },
@@ -214,7 +232,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-17",
       "duration_ms": 193346,
       "name": "Caroline",
       "url": "https://open.spotify.com/track/1kzd1siJdw7QMix3uPQB45"
@@ -1166,10 +1184,28 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-17",
       "duration_ms": 162000,
       "name": "H\u00e5ll k\u00e4ften",
       "url": "https://open.spotify.com/track/4R3XhLS8ozkyVPwaneQSkv"
+    },
+    {
+      "album": {
+        "name": "Tryna make it in LA",
+        "url": "https://open.spotify.com/album/4fp8OAtfX796SBKkwfvQ9D"
+      },
+      "artists": [
+        {
+          "name": "Kerstin Ljungstr\u00f6m",
+          "url": "https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe"
+        }
+      ],
+      "date_added": "2025-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "H\u00e5ll k\u00e4ften",
+      "url": "https://open.spotify.com/track/7nGUHl9sGXmzYDdMWngKi8"
     },
     {
       "album": {
@@ -1885,6 +1921,24 @@
     },
     {
       "album": {
+        "name": "Tryna make it in LA",
+        "url": "https://open.spotify.com/album/4fp8OAtfX796SBKkwfvQ9D"
+      },
+      "artists": [
+        {
+          "name": "Kerstin Ljungstr\u00f6m",
+          "url": "https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe"
+        }
+      ],
+      "date_added": "2025-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244733,
+      "name": "Regn \u00f6ver Zinken",
+      "url": "https://open.spotify.com/track/5GRZ0j6qBkKVLZBBpRXMBl"
+    },
+    {
+      "album": {
         "name": "Regn \u00f6ver Zinken",
         "url": "https://open.spotify.com/album/7KBJwS8O2z8ZslnjQONpgb"
       },
@@ -1896,7 +1950,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-17",
       "duration_ms": 244733,
       "name": "Regn \u00f6ver Zinken",
       "url": "https://open.spotify.com/track/5vNdZIUXEMgcTt46CuhA7C"
@@ -1954,10 +2008,32 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-17",
       "duration_ms": 226520,
       "name": "Saltvatten",
       "url": "https://open.spotify.com/track/3HSGRCxQNn67uVhtjFMnju"
+    },
+    {
+      "album": {
+        "name": "Tryna make it in LA",
+        "url": "https://open.spotify.com/album/4fp8OAtfX796SBKkwfvQ9D"
+      },
+      "artists": [
+        {
+          "name": "Kerstin Ljungstr\u00f6m",
+          "url": "https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe"
+        },
+        {
+          "name": "Kasino",
+          "url": "https://open.spotify.com/artist/3IEtgyeW1PloQcjPDxItk2"
+        }
+      ],
+      "date_added": "2025-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226520,
+      "name": "Saltvatten",
+      "url": "https://open.spotify.com/track/4AyTEiu2SXfwsPbkBa80gn"
     },
     {
       "album": {

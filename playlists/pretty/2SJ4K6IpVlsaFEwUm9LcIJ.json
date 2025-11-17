@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to nov-dec 2025",
-  "num_followers": 23535,
+  "num_followers": 23539,
   "original_name": "ten years in one room",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAANac4zWqMcxngZbvfPxW8r08o2BgpW",
+  "snapshot_id": "AAANahZ5HNwHb0xTAKh8AI4mJdjzRysj",
   "tracks": [
     {
       "added_at": "2025-11-14 22:45:12",
@@ -243,6 +243,22 @@
       "duration_ms": 609266,
       "name": "Behind The Ears",
       "url": "https://open.spotify.com/track/23fAwEKmxaT0R9mYS5elJa"
+    },
+    {
+      "added_at": "2025-11-16 17:48:31",
+      "album": {
+        "name": "Horse County",
+        "url": "https://open.spotify.com/album/3B0xXGGFKGbLZzJ2yuJNNS"
+      },
+      "artists": [
+        {
+          "name": "YeYe",
+          "url": "https://open.spotify.com/artist/2YUe21UG1hJsuhy9E3bzxp"
+        }
+      ],
+      "duration_ms": 211924,
+      "name": "Horse County",
+      "url": "https://open.spotify.com/track/70lW1sv0qx7SsTEOyXBFT9"
     }
   ],
   "unique_name": "ten years in one room",

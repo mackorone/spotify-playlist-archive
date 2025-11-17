@@ -1,6 +1,6 @@
 {
   "description": "\u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30fb\u30e1\u30ed\u30c7\u30a3\u30fc\u30ba\u3002\u3086\u3063\u305f\u308a\u3068\u3057\u305f\u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3067\u30ea\u30e9\u30c3\u30af\u30b9\u3057\u307e\u305b\u3093\u304b\uff1f",
-  "num_followers": 138768,
+  "num_followers": 138762,
   "original_name": "Acoustic Melodies Tokyo",
   "owner": {
     "name": "Spotify",
@@ -523,22 +523,6 @@
     {
       "added_at": "2025-11-06 15:00:15",
       "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 194543,
-      "name": "Boyfriends",
-      "url": "https://open.spotify.com/track/6qj02zSeEJGWZ4c0dn5QzJ"
-    },
-    {
-      "added_at": "2025-11-06 15:00:15",
-      "album": {
         "name": "Luck Of The Draw",
         "url": "https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 332960,
       "name": "I Can't Make You Love Me",
       "url": "https://open.spotify.com/track/69uJi5QsBtqlYkGURTBli8"
+    },
+    {
+      "added_at": "2025-11-06 15:00:15",
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 194543,
+      "name": "Boyfriends",
+      "url": "https://open.spotify.com/track/6qj02zSeEJGWZ4c0dn5QzJ"
     },
     {
       "added_at": "2025-11-06 15:00:15",
@@ -859,22 +859,6 @@
     {
       "added_at": "2025-11-06 15:00:15",
       "album": {
-        "name": "Overpass Graffiti",
-        "url": "https://open.spotify.com/album/3df7YWbL6GcTWdqht33UVC"
-      },
-      "artists": [
-        {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
-        }
-      ],
-      "duration_ms": 226603,
-      "name": "Overpass Graffiti",
-      "url": "https://open.spotify.com/track/3tob5ofeuvFKKSbOTldenC"
-    },
-    {
-      "added_at": "2025-11-06 15:00:15",
-      "album": {
         "name": "Somewhere Only We Know",
         "url": "https://open.spotify.com/album/2BWTPrj9yBBC79fCByZ2Tv"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 208154,
       "name": "Somewhere Only We Know",
       "url": "https://open.spotify.com/track/3DDGhkxq3FeUorZppSgeLE"
+    },
+    {
+      "added_at": "2025-11-06 15:00:15",
+      "album": {
+        "name": "Overpass Graffiti",
+        "url": "https://open.spotify.com/album/3df7YWbL6GcTWdqht33UVC"
+      },
+      "artists": [
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "duration_ms": 226603,
+      "name": "Overpass Graffiti",
+      "url": "https://open.spotify.com/track/3tob5ofeuvFKKSbOTldenC"
     },
     {
       "added_at": "2025-11-06 15:00:15",
@@ -1675,18 +1675,22 @@
     {
       "added_at": "2025-11-06 15:00:15",
       "album": {
-        "name": "Heavy Metal",
-        "url": "https://open.spotify.com/album/4G7yVSLs4kpHia3Sa8HoJB"
+        "name": "Trio & Charm",
+        "url": "https://open.spotify.com/album/3SiofApkAxUnDhpEFzLB87"
       },
       "artists": [
         {
-          "name": "Madi Diaz",
-          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+          "name": "Ohashi Trio",
+          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
+        },
+        {
+          "name": "THE CHARM PARK",
+          "url": "https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb"
         }
       ],
-      "duration_ms": 235394,
-      "name": "Heavy Metal",
-      "url": "https://open.spotify.com/track/2SZJnE7Nkpa8QAt1zaR3oN"
+      "duration_ms": 226585,
+      "name": "\u30ad\u30e3\u30f3\u30c7\u30a3",
+      "url": "https://open.spotify.com/track/5nP9OI4hFkkZ9WMEUeGNIB"
     }
   ],
   "unique_name": "Acoustic Melodies Tokyo",

@@ -1,12 +1,12 @@
 {
   "description": "This is Akon. The essential tracks, all in one playlist.",
-  "num_followers": 330030,
+  "num_followers": 330068,
   "original_name": "This Is Akon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRZxAAAAAACDm6rM/407AquJGfncrEDN",
+  "snapshot_id": "aRfCgAAAAABE5cDbSGNCg2Qmz3nLHptQ",
   "tracks": [
     {
       "added_at": null,
@@ -595,30 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kush",
-        "url": "https://open.spotify.com/album/7r3ZRX5UIxKteuTMu7vL7B"
-      },
-      "artists": [
-        {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 235120,
-      "name": "Kush - Main",
-      "url": "https://open.spotify.com/track/1U8Ho1nOzKXYDvfigOuHG4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Last",
         "url": "https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe"
       },
@@ -639,6 +615,30 @@
       "duration_ms": 218080,
       "name": "All Up 2 You (feat. Akon, Wisin & Yandel)",
       "url": "https://open.spotify.com/track/48FsqSKpgoZZFr6aS1IDK5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kush",
+        "url": "https://open.spotify.com/album/7r3ZRX5UIxKteuTMu7vL7B"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 235120,
+      "name": "Kush - Main",
+      "url": "https://open.spotify.com/track/1U8Ho1nOzKXYDvfigOuHG4"
     },
     {
       "added_at": null,
@@ -795,6 +795,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Only One Flo (Part 1)",
+        "url": "https://open.spotify.com/album/1TwNATuAqnNjTd5BSvFZlS"
+      },
+      "artists": [
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 200880,
+      "name": "Who Dat Girl (feat. Akon)",
+      "url": "https://open.spotify.com/track/7z73ehYAn9O1XP9XlCqVtd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Konvicted (Complete Edition)",
         "url": "https://open.spotify.com/album/4SAz7HhY1uBvxF6O9k1iyq"
       },
@@ -815,26 +835,6 @@
       "duration_ms": 276026,
       "name": "I Wanna Love You - Remix",
       "url": "https://open.spotify.com/track/7p5mNdJbsKUx0iwuIPCfEM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Only One Flo (Part 1)",
-        "url": "https://open.spotify.com/album/1TwNATuAqnNjTd5BSvFZlS"
-      },
-      "artists": [
-        {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 200880,
-      "name": "Who Dat Girl (feat. Akon)",
-      "url": "https://open.spotify.com/track/7z73ehYAn9O1XP9XlCqVtd"
     },
     {
       "added_at": null,
@@ -943,6 +943,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Right Now (Na Na Na)",
+        "url": "https://open.spotify.com/album/2Gv0lXUOkmvH7yK44lxmqy"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 310733,
+      "name": "Clap Again",
+      "url": "https://open.spotify.com/track/23Ry2Uwy68rkHdZx0GwfML"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Konvicted",
         "url": "https://open.spotify.com/album/6kzoWb4UzvKYgbDfAwgaFq"
       },
@@ -963,58 +979,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Right Now (Na Na Na)",
-        "url": "https://open.spotify.com/album/2Gv0lXUOkmvH7yK44lxmqy"
+        "name": "Locked Up With You",
+        "url": "https://open.spotify.com/album/5GSOGELgj8snnvjZtGDWem"
       },
       "artists": [
         {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 310733,
-      "name": "Clap Again",
-      "url": "https://open.spotify.com/track/23Ry2Uwy68rkHdZx0GwfML"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Til The Sun Rise Up (feat. Akon)",
-        "url": "https://open.spotify.com/album/04oMkzMvbvXOULJvhFB15g"
-      },
-      "artists": [
-        {
-          "name": "Bob Sinclar",
-          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+          "name": "Colby O'Donis",
+          "url": "https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z"
         },
         {
           "name": "Akon",
           "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
         }
       ],
-      "duration_ms": 190952,
-      "name": "Til the Sun Rise Up (feat. Akon)",
-      "url": "https://open.spotify.com/track/0yKDhfz8g8qeTNZAriJu40"
+      "duration_ms": 184705,
+      "name": "Locked Up With You",
+      "url": "https://open.spotify.com/track/6uHwHayD8ao5qcUiszrqB6"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Intoxication",
-        "url": "https://open.spotify.com/album/7l8mmwJiGmke1ojsDdOt4t"
+        "name": "Ghetto Story",
+        "url": "https://open.spotify.com/album/66QH23u1I6L6g5BFRRDqNa"
       },
       "artists": [
         {
-          "name": "Shaggy",
-          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+          "name": "Cham",
+          "url": "https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK"
         },
         {
           "name": "Akon",
           "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
         }
       ],
-      "duration_ms": 187120,
-      "name": "What's Love (feat. Akon)",
-      "url": "https://open.spotify.com/track/4g63oKy2o7tK5tbfY0o5dW"
+      "duration_ms": 262933,
+      "name": "Ghetto Story Chapter 3 (feat. Akon)",
+      "url": "https://open.spotify.com/track/10MKqZA8S3kvSrYsqbM4r6"
     }
   ],
   "unique_name": "This Is Akon",

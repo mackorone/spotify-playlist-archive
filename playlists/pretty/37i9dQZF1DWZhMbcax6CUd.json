@@ -1,6 +1,6 @@
 {
   "description": "Explore the great works of Maurice Ravel.",
-  "num_followers": 70905,
+  "num_followers": 70927,
   "original_name": "This Is Ravel",
   "owner": {
     "name": "Spotify",
@@ -267,34 +267,6 @@
     {
       "added_at": "2025-09-15 14:00:14",
       "album": {
-        "name": "Ravel",
-        "url": "https://open.spotify.com/album/23a6FjJmbXs8bfhPS4K0Cr"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Yuja Wang",
-          "url": "https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w"
-        },
-        {
-          "name": "Tonhalle-Orchester Z\u00fcrich",
-          "url": "https://open.spotify.com/artist/6XB7gCSvNN5AkoAhEFv7Cg"
-        },
-        {
-          "name": "Lionel Bringuier",
-          "url": "https://open.spotify.com/artist/78tOC3otzyHJOy6wO6j6hB"
-        }
-      ],
-      "duration_ms": 296146,
-      "name": "Piano Concerto for the Left Hand, M. 82: III. Tempo I",
-      "url": "https://open.spotify.com/track/0ZKkOY94jKf44omvhRE96u"
-    },
-    {
-      "added_at": "2025-09-15 14:00:14",
-      "album": {
         "name": "Ravel: Orchestral Works",
         "url": "https://open.spotify.com/album/4RydMctVxfAQBKXhkVQp3I"
       },
@@ -340,15 +312,15 @@
           "url": "https://open.spotify.com/artist/78tOC3otzyHJOy6wO6j6hB"
         }
       ],
-      "duration_ms": 460933,
-      "name": "Piano Concerto for the Left Hand, M. 82: I. Lento",
-      "url": "https://open.spotify.com/track/73SaFJUeWlfltQIJ48xxaQ"
+      "duration_ms": 296146,
+      "name": "Piano Concerto for the Left Hand, M. 82: III. Tempo I",
+      "url": "https://open.spotify.com/track/0ZKkOY94jKf44omvhRE96u"
     },
     {
       "added_at": "2025-09-15 14:00:14",
       "album": {
-        "name": "Ravel: Orchestral Music Vol.3",
-        "url": "https://open.spotify.com/album/7Aqiz6mN4hbahimiudJsi8"
+        "name": "Ravel",
+        "url": "https://open.spotify.com/album/23a6FjJmbXs8bfhPS4K0Cr"
       },
       "artists": [
         {
@@ -356,17 +328,21 @@
           "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
         },
         {
-          "name": "Boston Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/0K23lQ2hSQAlxSEeZ05bjI"
+          "name": "Yuja Wang",
+          "url": "https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w"
         },
         {
-          "name": "Seiji Ozawa",
-          "url": "https://open.spotify.com/artist/0atCvjK2GL6ezQFGOQOYQo"
+          "name": "Tonhalle-Orchester Z\u00fcrich",
+          "url": "https://open.spotify.com/artist/6XB7gCSvNN5AkoAhEFv7Cg"
+        },
+        {
+          "name": "Lionel Bringuier",
+          "url": "https://open.spotify.com/artist/78tOC3otzyHJOy6wO6j6hB"
         }
       ],
-      "duration_ms": 85573,
-      "name": "Valses nobles et sentimentales, M. 61a: V. Presque lent, dans un sentiment intime",
-      "url": "https://open.spotify.com/track/3iDCAg26xHuA4IrM1im5ZA"
+      "duration_ms": 460933,
+      "name": "Piano Concerto for the Left Hand, M. 82: I. Lento",
+      "url": "https://open.spotify.com/track/73SaFJUeWlfltQIJ48xxaQ"
     },
     {
       "added_at": "2025-09-15 14:00:14",
@@ -395,6 +371,30 @@
       "duration_ms": 563960,
       "name": "Ravel: Piano Concerto in G Major, M. 83: II. Adagio assai",
       "url": "https://open.spotify.com/track/290yNtxtichwwjU8n7NEGm"
+    },
+    {
+      "added_at": "2025-09-15 14:00:14",
+      "album": {
+        "name": "Ravel: Orchestral Music Vol.3",
+        "url": "https://open.spotify.com/album/7Aqiz6mN4hbahimiudJsi8"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Boston Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/0K23lQ2hSQAlxSEeZ05bjI"
+        },
+        {
+          "name": "Seiji Ozawa",
+          "url": "https://open.spotify.com/artist/0atCvjK2GL6ezQFGOQOYQo"
+        }
+      ],
+      "duration_ms": 85573,
+      "name": "Valses nobles et sentimentales, M. 61a: V. Presque lent, dans un sentiment intime",
+      "url": "https://open.spotify.com/track/3iDCAg26xHuA4IrM1im5ZA"
     },
     {
       "added_at": "2025-09-15 14:00:14",
@@ -507,26 +507,6 @@
     {
       "added_at": "2025-09-15 14:00:14",
       "album": {
-        "name": "Miroirs - Ravel Piano Works",
-        "url": "https://open.spotify.com/album/6dAkrp5QRrteg2izETI931"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Alexander Krichel",
-          "url": "https://open.spotify.com/artist/05Ur1K4jmfNEsBZwdk20xl"
-        }
-      ],
-      "duration_ms": 307000,
-      "name": "Miroirs, M. 43: I. Noctuelles",
-      "url": "https://open.spotify.com/track/1IJHTkefYM5bGZj19y43tV"
-    },
-    {
-      "added_at": "2025-09-15 14:00:14",
-      "album": {
         "name": "Ravel and Shostakovich: Piano Trios",
         "url": "https://open.spotify.com/album/0gP966H4PMIbOu3ErgJkAA"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 174173,
       "name": "Daphnis et Chlo\u00e9, M. 57, Pt. 1: IVa. Danse l\u00e9g\u00e8re et gracieuse de Daphnis",
       "url": "https://open.spotify.com/track/56O9RpNdJYmE9xbQODuskm"
+    },
+    {
+      "added_at": "2025-09-15 14:00:14",
+      "album": {
+        "name": "Miroirs - Ravel Piano Works",
+        "url": "https://open.spotify.com/album/6dAkrp5QRrteg2izETI931"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Alexander Krichel",
+          "url": "https://open.spotify.com/artist/05Ur1K4jmfNEsBZwdk20xl"
+        }
+      ],
+      "duration_ms": 307000,
+      "name": "Miroirs, M. 43: I. Noctuelles",
+      "url": "https://open.spotify.com/track/1IJHTkefYM5bGZj19y43tV"
     },
     {
       "added_at": "2025-09-15 14:00:14",
@@ -723,8 +723,8 @@
     {
       "added_at": "2025-09-15 14:00:14",
       "album": {
-        "name": "Ravel: Piano Concertos/Honegger: Piano Concertino/Fran\u00e7aix: Piano Concertino",
-        "url": "https://open.spotify.com/album/0Y9WzXwqMeAxou22AeH0eP"
+        "name": "Ravel: Berceuse sur le nom de Gabriel Faur\u00e9",
+        "url": "https://open.spotify.com/album/25tKiRUbUwyTlioCEkUlJa"
       },
       "artists": [
         {
@@ -732,21 +732,13 @@
           "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
         },
         {
-          "name": "Jean-Yves Thibaudet",
-          "url": "https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6"
-        },
-        {
-          "name": "Orchestre Symphonique de Montr\u00e9al",
-          "url": "https://open.spotify.com/artist/4AcXapei4U7xnWecv9AEBd"
-        },
-        {
-          "name": "Charles Dutoit",
-          "url": "https://open.spotify.com/artist/0Ku5VBNL7cfGXRhp2BxXEQ"
+          "name": "Alexandre Tharaud",
+          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
         }
       ],
-      "duration_ms": 613973,
-      "name": "Piano Concerto For The Left Hand In D, M. 82: 2. Allegro",
-      "url": "https://open.spotify.com/track/3eil3d58A8nySt1X26HzsJ"
+      "duration_ms": 151453,
+      "name": "Ravel: Berceuse sur le nom de Gabriel Faur\u00e9",
+      "url": "https://open.spotify.com/track/5tHYQVKJKHigdqhck97vih"
     },
     {
       "added_at": "2025-09-15 14:00:14",
@@ -775,8 +767,8 @@
     {
       "added_at": "2025-09-15 14:00:14",
       "album": {
-        "name": "Ravel: Berceuse sur le nom de Gabriel Faur\u00e9",
-        "url": "https://open.spotify.com/album/25tKiRUbUwyTlioCEkUlJa"
+        "name": "Ravel: Piano Concertos/Honegger: Piano Concertino/Fran\u00e7aix: Piano Concertino",
+        "url": "https://open.spotify.com/album/0Y9WzXwqMeAxou22AeH0eP"
       },
       "artists": [
         {
@@ -784,13 +776,21 @@
           "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
         },
         {
-          "name": "Alexandre Tharaud",
-          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
+          "name": "Jean-Yves Thibaudet",
+          "url": "https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6"
+        },
+        {
+          "name": "Orchestre Symphonique de Montr\u00e9al",
+          "url": "https://open.spotify.com/artist/4AcXapei4U7xnWecv9AEBd"
+        },
+        {
+          "name": "Charles Dutoit",
+          "url": "https://open.spotify.com/artist/0Ku5VBNL7cfGXRhp2BxXEQ"
         }
       ],
-      "duration_ms": 151453,
-      "name": "Ravel: Berceuse sur le nom de Gabriel Faur\u00e9",
-      "url": "https://open.spotify.com/track/5tHYQVKJKHigdqhck97vih"
+      "duration_ms": 613973,
+      "name": "Piano Concerto For The Left Hand In D, M. 82: 2. Allegro",
+      "url": "https://open.spotify.com/track/3eil3d58A8nySt1X26HzsJ"
     },
     {
       "added_at": "2025-09-15 14:00:14",
@@ -924,9 +924,9 @@
           "url": "https://open.spotify.com/artist/2DG9aIMzcln3w7SIVGGnmg"
         }
       ],
-      "duration_ms": 168880,
-      "name": "Valses nobles et sentimentales, M. 61: VII. Moins vif",
-      "url": "https://open.spotify.com/track/624NZpvGUqpSJEO2SHUyn2"
+      "duration_ms": 278013,
+      "name": "Valses nobles et sentimentales, M. 61: VIII. Epilogue (Lent)",
+      "url": "https://open.spotify.com/track/42rGNryLrLzLSH9xCWfDdR"
     },
     {
       "added_at": "2025-09-15 14:00:14",
@@ -944,33 +944,9 @@
           "url": "https://open.spotify.com/artist/2DG9aIMzcln3w7SIVGGnmg"
         }
       ],
-      "duration_ms": 278013,
-      "name": "Valses nobles et sentimentales, M. 61: VIII. Epilogue (Lent)",
-      "url": "https://open.spotify.com/track/42rGNryLrLzLSH9xCWfDdR"
-    },
-    {
-      "added_at": "2025-09-15 14:00:14",
-      "album": {
-        "name": "Ravel: 3 Sonatas, Tzigane, Habanera, Berceuse etc",
-        "url": "https://open.spotify.com/album/1kCRvabm2lCRgYtlkxAELk"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Chantal Juillet",
-          "url": "https://open.spotify.com/artist/05QS9GX1jM0XQqGZtxDAzR"
-        },
-        {
-          "name": "Pascal Rog\u00e9",
-          "url": "https://open.spotify.com/artist/5X5cGjYEmKnuihYXEePQcs"
-        }
-      ],
-      "duration_ms": 181506,
-      "name": "Berceuse sur le nom de Gabriel Faur\u00e9, M. 74",
-      "url": "https://open.spotify.com/track/0u4rEVXlbxTpWJ2Ec19Pb9"
+      "duration_ms": 168880,
+      "name": "Valses nobles et sentimentales, M. 61: VII. Moins vif",
+      "url": "https://open.spotify.com/track/624NZpvGUqpSJEO2SHUyn2"
     },
     {
       "added_at": "2025-09-15 14:00:14",
@@ -999,6 +975,30 @@
       "duration_ms": 188000,
       "name": "Sh\u00e9h\u00e9razade, M. 41: II. La fl\u00fbte enchant\u00e9e",
       "url": "https://open.spotify.com/track/2frOJsnhsTX5oyDzBjV4uX"
+    },
+    {
+      "added_at": "2025-09-15 14:00:14",
+      "album": {
+        "name": "Ravel: 3 Sonatas, Tzigane, Habanera, Berceuse etc",
+        "url": "https://open.spotify.com/album/1kCRvabm2lCRgYtlkxAELk"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Chantal Juillet",
+          "url": "https://open.spotify.com/artist/05QS9GX1jM0XQqGZtxDAzR"
+        },
+        {
+          "name": "Pascal Rog\u00e9",
+          "url": "https://open.spotify.com/artist/5X5cGjYEmKnuihYXEePQcs"
+        }
+      ],
+      "duration_ms": 181506,
+      "name": "Berceuse sur le nom de Gabriel Faur\u00e9, M. 74",
+      "url": "https://open.spotify.com/track/0u4rEVXlbxTpWJ2Ec19Pb9"
     },
     {
       "added_at": "2025-09-15 14:00:14",
@@ -1135,6 +1135,26 @@
     {
       "added_at": "2025-09-15 14:00:14",
       "album": {
+        "name": "Ravel: Le tombeau de Couperin, M. 68: I. Pr\u00e9lude",
+        "url": "https://open.spotify.com/album/4OE4jCTEkXvvUmxd9Wr2BN"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Seong-Jin Cho",
+          "url": "https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja"
+        }
+      ],
+      "duration_ms": 194440,
+      "name": "Le tombeau de Couperin, M. 68: I. Pr\u00e9lude",
+      "url": "https://open.spotify.com/track/5ixybLqj9SxEB9mPvlHfET"
+    },
+    {
+      "added_at": "2025-09-15 14:00:14",
+      "album": {
         "name": "Saint-Sa\u00ebns: Carnival of the Animals; Bizet: Jeux d'enfants; Ravel: Mother Goose",
         "url": "https://open.spotify.com/album/4Qx7DzoPlvbA4z7e6JUf9R"
       },
@@ -1155,26 +1175,6 @@
       "duration_ms": 208133,
       "name": "Mother Goose: I. Pr\u00e9lude",
       "url": "https://open.spotify.com/track/5tvyeqj6MRZkL2rprxqpVn"
-    },
-    {
-      "added_at": "2025-09-15 14:00:14",
-      "album": {
-        "name": "Ravel: Le tombeau de Couperin, M. 68: I. Pr\u00e9lude",
-        "url": "https://open.spotify.com/album/4OE4jCTEkXvvUmxd9Wr2BN"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Seong-Jin Cho",
-          "url": "https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja"
-        }
-      ],
-      "duration_ms": 194440,
-      "name": "Le tombeau de Couperin, M. 68: I. Pr\u00e9lude",
-      "url": "https://open.spotify.com/track/5ixybLqj9SxEB9mPvlHfET"
     },
     {
       "added_at": "2025-09-15 14:00:14",

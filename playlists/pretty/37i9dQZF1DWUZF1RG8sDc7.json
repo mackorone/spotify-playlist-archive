@@ -1,6 +1,6 @@
 {
   "description": "Porque el coraz\u00f3n habla vallenato. \u00a1Ay ombe!",
-  "num_followers": 158844,
+  "num_followers": 158890,
   "original_name": "Vallenato Rom\u00e1ntico",
   "owner": {
     "name": "Spotify",
@@ -71,6 +71,26 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
+        "name": "Ll\u00e9vame En Tus Sue\u00f1os",
+        "url": "https://open.spotify.com/album/0U918JSG8hJ9kb3R3geWlA"
+      },
+      "artists": [
+        {
+          "name": "Jorge Celed\u00f3n",
+          "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
+        },
+        {
+          "name": "Jimmy Zambrano",
+          "url": "https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj"
+        }
+      ],
+      "duration_ms": 318133,
+      "name": "No Podr\u00e1n Separarnos",
+      "url": "https://open.spotify.com/track/2DlBKIc6XugYSmhP75h1BF"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
         "name": "S\u00f3lo Cl\u00e1sicos",
         "url": "https://open.spotify.com/album/5bsES1XTrXLgo9HGpFWVK0"
       },
@@ -91,26 +111,6 @@
       "duration_ms": 222200,
       "name": "Obsesi\u00f3n",
       "url": "https://open.spotify.com/track/4OhFOoVfaqw3Xuz2vjceDq"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
-        "name": "Ll\u00e9vame En Tus Sue\u00f1os",
-        "url": "https://open.spotify.com/album/0U918JSG8hJ9kb3R3geWlA"
-      },
-      "artists": [
-        {
-          "name": "Jorge Celed\u00f3n",
-          "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
-        },
-        {
-          "name": "Jimmy Zambrano",
-          "url": "https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj"
-        }
-      ],
-      "duration_ms": 318133,
-      "name": "No Podr\u00e1n Separarnos",
-      "url": "https://open.spotify.com/track/2DlBKIc6XugYSmhP75h1BF"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Version Original",
-        "url": "https://open.spotify.com/album/3bdzKN0XxINusa0DO7DRLo"
-      },
-      "artists": [
-        {
-          "name": "Los Diablitos",
-          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
-        }
-      ],
-      "duration_ms": 296620,
-      "name": "No Te Vayas",
-      "url": "https://open.spotify.com/track/1tSA4yV2AisiGnZiVz5uux"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
         "name": "Canto Vallenato",
         "url": "https://open.spotify.com/album/1nbW9IiNSMm4saZxmma99d"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 317893,
       "name": "Ay Hombe",
       "url": "https://open.spotify.com/track/6hlmfSjhKSWuZDujvW7p74"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
+        "name": "Version Original",
+        "url": "https://open.spotify.com/album/3bdzKN0XxINusa0DO7DRLo"
+      },
+      "artists": [
+        {
+          "name": "Los Diablitos",
+          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
+        }
+      ],
+      "duration_ms": 296620,
+      "name": "No Te Vayas",
+      "url": "https://open.spotify.com/track/1tSA4yV2AisiGnZiVz5uux"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -263,26 +263,6 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Diferente",
-        "url": "https://open.spotify.com/album/6GQZroG4H7wW0UrX12P3Kp"
-      },
-      "artists": [
-        {
-          "name": "Felipe Pel\u00e1ez",
-          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
-        },
-        {
-          "name": "Manuel Juli\u00e1n",
-          "url": "https://open.spotify.com/artist/5N73Yokp47tjesghCSGnNC"
-        }
-      ],
-      "duration_ms": 252040,
-      "name": "Tan Natural",
-      "url": "https://open.spotify.com/track/0CNuKlYBAx8xa28X4J6Iy6"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
         "name": "Son Para El Mundo",
         "url": "https://open.spotify.com/album/3ZEyQVpEzDl18okCH0jsj3"
       },
@@ -299,6 +279,26 @@
       "duration_ms": 237800,
       "name": "Esta Vida",
       "url": "https://open.spotify.com/track/367Cb3sFU9yiHJ9T3vciHk"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
+        "name": "Diferente",
+        "url": "https://open.spotify.com/album/6GQZroG4H7wW0UrX12P3Kp"
+      },
+      "artists": [
+        {
+          "name": "Felipe Pel\u00e1ez",
+          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
+        },
+        {
+          "name": "Manuel Juli\u00e1n",
+          "url": "https://open.spotify.com/artist/5N73Yokp47tjesghCSGnNC"
+        }
+      ],
+      "duration_ms": 252040,
+      "name": "Tan Natural",
+      "url": "https://open.spotify.com/track/0CNuKlYBAx8xa28X4J6Iy6"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -323,6 +323,22 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
+        "name": "Ave Libre",
+        "url": "https://open.spotify.com/album/0Wx044oRIRg2kvaJ6H9rsn"
+      },
+      "artists": [
+        {
+          "name": "Jean Carlos Centeno",
+          "url": "https://open.spotify.com/artist/2w1UJL5kYJJkvjo71fQjOB"
+        }
+      ],
+      "duration_ms": 293440,
+      "name": "Lo Busqu\u00e9",
+      "url": "https://open.spotify.com/track/0kUMc8s2EwaOg0XAv5lCnA"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
         "name": "M\u00e1s Rom\u00e1nticos",
         "url": "https://open.spotify.com/album/1VNHcyoehwXkC4f0KlfFh6"
       },
@@ -343,18 +359,22 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Ave Libre",
-        "url": "https://open.spotify.com/album/0Wx044oRIRg2kvaJ6H9rsn"
+        "name": "\u00a1Juepa Je!",
+        "url": "https://open.spotify.com/album/1OB90EcEUuYoDRl3izM5b4"
       },
       "artists": [
         {
-          "name": "Jean Carlos Centeno",
-          "url": "https://open.spotify.com/artist/2w1UJL5kYJJkvjo71fQjOB"
+          "name": "Jorge Celed\u00f3n",
+          "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
+        },
+        {
+          "name": "Jimmy Zambrano",
+          "url": "https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj"
         }
       ],
-      "duration_ms": 293440,
-      "name": "Lo Busqu\u00e9",
-      "url": "https://open.spotify.com/track/0kUMc8s2EwaOg0XAv5lCnA"
+      "duration_ms": 294466,
+      "name": "El Invierno Pasado",
+      "url": "https://open.spotify.com/track/11LPNeouMLQ3GZM4IUHPWF"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -371,26 +391,6 @@
       "duration_ms": 284473,
       "name": "Vives En Mi",
       "url": "https://open.spotify.com/track/4jOsVBZsUDaAvguaywRL9J"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
-        "name": "Lo Que Tu Necesitas",
-        "url": "https://open.spotify.com/album/5vadrNhB85U1GDBbP8Pl8k"
-      },
-      "artists": [
-        {
-          "name": "Jorge Celed\u00f3n",
-          "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
-        },
-        {
-          "name": "Jimmy Zambrano",
-          "url": "https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj"
-        }
-      ],
-      "duration_ms": 227360,
-      "name": "Lo Que T\u00fa Necesitas",
-      "url": "https://open.spotify.com/track/4WsyJhB9CnYwTH8DuoM4Ww"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -451,6 +451,26 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
+        "name": "Lo Que Tu Necesitas",
+        "url": "https://open.spotify.com/album/5vadrNhB85U1GDBbP8Pl8k"
+      },
+      "artists": [
+        {
+          "name": "Jorge Celed\u00f3n",
+          "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
+        },
+        {
+          "name": "Jimmy Zambrano",
+          "url": "https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj"
+        }
+      ],
+      "duration_ms": 227360,
+      "name": "Lo Que T\u00fa Necesitas",
+      "url": "https://open.spotify.com/track/4WsyJhB9CnYwTH8DuoM4Ww"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
         "name": "30 Mejores",
         "url": "https://open.spotify.com/album/1BJm4d0jiwVsh5DhfYONtX"
       },
@@ -467,26 +487,6 @@
       "duration_ms": 310400,
       "name": "Sirena Encantada",
       "url": "https://open.spotify.com/track/0hjgPmqi7IzcWnSiJYm2OL"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
-        "name": "\u00a1Juepa Je!",
-        "url": "https://open.spotify.com/album/1OB90EcEUuYoDRl3izM5b4"
-      },
-      "artists": [
-        {
-          "name": "Jorge Celed\u00f3n",
-          "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
-        },
-        {
-          "name": "Jimmy Zambrano",
-          "url": "https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj"
-        }
-      ],
-      "duration_ms": 294466,
-      "name": "El Invierno Pasado",
-      "url": "https://open.spotify.com/track/11LPNeouMLQ3GZM4IUHPWF"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -928,9 +928,9 @@
           "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 317760,
-      "name": "Entregame Tu Amor",
-      "url": "https://open.spotify.com/track/0fZbwXikuLa4ZFPIHbN3ot"
+      "duration_ms": 308040,
+      "name": "Regalame una Noche",
+      "url": "https://open.spotify.com/track/01QdbFGBdGF4Z5ckkhs7g6"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -1012,9 +1012,9 @@
           "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 308040,
-      "name": "Regalame una Noche",
-      "url": "https://open.spotify.com/track/01QdbFGBdGF4Z5ckkhs7g6"
+      "duration_ms": 317760,
+      "name": "Entregame Tu Amor",
+      "url": "https://open.spotify.com/track/0fZbwXikuLa4ZFPIHbN3ot"
     },
     {
       "added_at": "2024-03-28 01:45:52",

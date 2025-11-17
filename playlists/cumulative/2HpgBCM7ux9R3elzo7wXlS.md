@@ -4,7 +4,7 @@
 
 > All of it
 
-1,049 songs - 2 day 16 hr 24 min
+1,050 songs - 2 day 16 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -743,6 +743,7 @@
 | [Rockstar](https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Rockstar](https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9) | 2:18 | 2025-06-02 |  |
 | [Rockstar Made](https://open.spotify.com/track/3cWmqvMwVQKDigWLSZ3w9h) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 3:13 | 2025-06-02 |  |
 | [Rocky Mountain High](https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [Rocky Mountain High](https://open.spotify.com/album/2gEurk31djZjI3P3SY8ZcC) | 4:45 | 2025-06-02 |  |
+| [Rosemary](https://open.spotify.com/track/2WzbImUwpFZYnl6Zn44API) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Trail Of Flowers](https://open.spotify.com/album/6NRPQ8RjivuC1pd2raPEuz) | 3:36 | 2025-11-16 |  |
 | [Roundabout](https://open.spotify.com/track/6KIFja6dizWkI7IpY0vmr8) | [Yes](https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil) | [Ultimate Yes: 35th Anniversary Collection](https://open.spotify.com/album/37GBIGYhZlXUZA0NZ4ifHl) | 8:32 | 2025-06-02 |  |
 | [Rules of Nature \- Platinum Mix](https://open.spotify.com/track/5ezkLDA74DwQhOROoDp2Pc) | [Jason Charles Miller](https://open.spotify.com/artist/7pOKRPPfbtv5c7Kdv40LVo) | [METAL GEAR RISING REVENGEANCE Vocal Tracks Selection](https://open.spotify.com/album/3DR0FThvw6I18Ntp3D6kxf) | 2:30 | 2025-06-02 |  |
 | [Runaway](https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [My Beautiful Dark Twisted Fantasy](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) | 9:07 | 2025-06-02 |  |

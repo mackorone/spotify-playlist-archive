@@ -1,12 +1,12 @@
 {
   "description": "This is Montell Fish. The essential tracks, all in one playlist.",
-  "num_followers": 65437,
+  "num_followers": 65435,
   "original_name": "This Is Montell Fish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRZxAAAAAAA8Vpiq1GVD+eZSgviRABJz",
+  "snapshot_id": "aRfCgAAAAAAG7+MW0yUN6Ui6mpPXP57M",
   "tracks": [
     {
       "added_at": null,
@@ -79,22 +79,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seraphim",
-        "url": "https://open.spotify.com/album/5niX6tQuih2cmvFbMazeiM"
+        "name": "I Just Wanna Feel Your Love Again",
+        "url": "https://open.spotify.com/album/2wjAr1uxq8uRJaRfu2rDh7"
       },
       "artists": [
-        {
-          "name": "dj gummy bear",
-          "url": "https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw"
-        },
         {
           "name": "Montell Fish",
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 160000,
-      "name": "You Make Me Feel Loved",
-      "url": "https://open.spotify.com/track/4NUvU9yvJHA28kD3bND0y2"
+      "duration_ms": 241166,
+      "name": "I Just Wanna Feel Your Love Again",
+      "url": "https://open.spotify.com/track/4JOjqoaUEMZ0SOAzaKUwDj"
     },
     {
       "added_at": null,
@@ -131,18 +127,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Just Wanna Feel Your Love Again",
-        "url": "https://open.spotify.com/album/2wjAr1uxq8uRJaRfu2rDh7"
+        "name": "Seraphim",
+        "url": "https://open.spotify.com/album/5niX6tQuih2cmvFbMazeiM"
       },
       "artists": [
+        {
+          "name": "dj gummy bear",
+          "url": "https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw"
+        },
         {
           "name": "Montell Fish",
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 241166,
-      "name": "I Just Wanna Feel Your Love Again",
-      "url": "https://open.spotify.com/track/4JOjqoaUEMZ0SOAzaKUwDj"
+      "duration_ms": 160000,
+      "name": "You Make Me Feel Loved",
+      "url": "https://open.spotify.com/track/4NUvU9yvJHA28kD3bND0y2"
     },
     {
       "added_at": null,
@@ -327,6 +327,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hollow Lover",
+        "url": "https://open.spotify.com/album/6oU83NRccLBCqr1JI92MLi"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 187636,
+      "name": "Hollow Lover",
+      "url": "https://open.spotify.com/track/0wqfPpcKewaI7muAVNzo2x"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ostentatious",
         "url": "https://open.spotify.com/album/0Y0OQfgW9cFQHrKpZvicX2"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 224000,
       "name": "Ostentatious",
       "url": "https://open.spotify.com/track/0buN3nIjGOmj2boRh7zNrz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hollow Lover",
-        "url": "https://open.spotify.com/album/6oU83NRccLBCqr1JI92MLi"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 187636,
-      "name": "Hollow Lover",
-      "url": "https://open.spotify.com/track/0wqfPpcKewaI7muAVNzo2x"
     },
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 144008,
-      "name": "Dance",
-      "url": "https://open.spotify.com/track/5YCjVkFdXfq6wBpmADgfxR"
+      "duration_ms": 100000,
+      "name": "If Only I Could Tell You - T.S.S.R. Piano Edit",
+      "url": "https://open.spotify.com/track/0jhVe4Cxma0YS1Jj0sHlYU"
     },
     {
       "added_at": null,
@@ -567,6 +567,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Spirit Still Remains (Purgatory)",
+        "url": "https://open.spotify.com/album/0yupsRZfwMIa9hDQ9ppBLJ"
+      },
+      "artists": [
+        {
+          "name": "dj gummy bear",
+          "url": "https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw"
+        },
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 144008,
+      "name": "Dance",
+      "url": "https://open.spotify.com/track/5YCjVkFdXfq6wBpmADgfxR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "On My Way.",
         "url": "https://open.spotify.com/album/3YrxGk5ThUcnjsDiTdLZST"
       },
@@ -587,26 +607,6 @@
       "duration_ms": 187331,
       "name": "On My Way.",
       "url": "https://open.spotify.com/track/0pNhg9ZtLhBGpKiqpH3X6S"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Spirit Still Remains (Purgatory)",
-        "url": "https://open.spotify.com/album/0yupsRZfwMIa9hDQ9ppBLJ"
-      },
-      "artists": [
-        {
-          "name": "dj gummy bear",
-          "url": "https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw"
-        },
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 100000,
-      "name": "If Only I Could Tell You - T.S.S.R. Piano Edit",
-      "url": "https://open.spotify.com/track/0jhVe4Cxma0YS1Jj0sHlYU"
     },
     {
       "added_at": null,
@@ -787,26 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nights & Days.",
-        "url": "https://open.spotify.com/album/13G65Pa4a3yM8pfN8wLrH3"
-      },
-      "artists": [
-        {
-          "name": "Lord's Child",
-          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
-        },
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 205734,
-      "name": "All I Need",
-      "url": "https://open.spotify.com/track/0GQPdbDdcBCO8MUY8YKluB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Spirit Still Remains (Purgatory)",
         "url": "https://open.spotify.com/album/0yupsRZfwMIa9hDQ9ppBLJ"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 146000,
       "name": "Only Death Can Separate Us",
       "url": "https://open.spotify.com/track/11phAxtq0J8bWpKa8JAg4T"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nights & Days.",
+        "url": "https://open.spotify.com/album/13G65Pa4a3yM8pfN8wLrH3"
+      },
+      "artists": [
+        {
+          "name": "Lord's Child",
+          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
+        },
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 205734,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/0GQPdbDdcBCO8MUY8YKluB"
     },
     {
       "added_at": null,
@@ -863,26 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nights & Days.",
-        "url": "https://open.spotify.com/album/13G65Pa4a3yM8pfN8wLrH3"
-      },
-      "artists": [
-        {
-          "name": "Lord's Child",
-          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
-        },
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 119156,
-      "name": "6:16am",
-      "url": "https://open.spotify.com/track/5pTb9i96sgct5x6jyjwhrM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Camp Lukewarm",
         "url": "https://open.spotify.com/album/1ojRsIYi1rLdiFpSKNtEBp"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 248531,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/5c2yqU4vbxkQQbZ2ePb5wJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nights & Days.",
+        "url": "https://open.spotify.com/album/13G65Pa4a3yM8pfN8wLrH3"
+      },
+      "artists": [
+        {
+          "name": "Lord's Child",
+          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
+        },
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 119156,
+      "name": "6:16am",
+      "url": "https://open.spotify.com/track/5pTb9i96sgct5x6jyjwhrM"
     }
   ],
   "unique_name": "This Is Montell Fish",

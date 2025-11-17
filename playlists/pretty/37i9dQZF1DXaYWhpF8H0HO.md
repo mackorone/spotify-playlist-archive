@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 
 > Talenta tanah air yang dapat menyeberang lintas negara\. Cover: GANGGA
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,480 likes - 107 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,479 likes - 107 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

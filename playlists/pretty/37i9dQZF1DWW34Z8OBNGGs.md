@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW34Z8OBNGGs.md) - [plain]
 
 > Celebrate the 25th Anniversary of the iconic Tony Hawk's Pro Skater franchise with the official in\-game soundtrack of Tony Hawk's Pro Skater 1+2.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,379 likes - 53 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,390 likes - 53 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

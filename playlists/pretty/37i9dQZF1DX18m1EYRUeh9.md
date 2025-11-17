@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 
 > Smooth indie jazz joints from around the globe\. Cover: Yukimi
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,816 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,860 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 | 99 | [nothing to prove](https://open.spotify.com/track/1BL1fu0ToUrnrTh1M9wVRG) | [Allysha Joy](https://open.spotify.com/artist/3CzYPWEnpaODw56A53qxh3) | [The Making of Silk](https://open.spotify.com/album/6KBKOiiUG7akDFH4J0mQDT) | 4:14 |
 | 100 | [Sleeper](https://open.spotify.com/track/5UWJ898JHDe9Ong9Gnkdhd) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Sleeper](https://open.spotify.com/album/49ssk5poFZAKoOJcj7PpsD) | 4:04 |
 
-Snapshot ID: `AAAAAKfbFwP6FEzyeMk8IjeMtAxYFwqj`
+Snapshot ID: `AAAAAAqNfUydUrhY3Y9HYozQpDrbGg6T`

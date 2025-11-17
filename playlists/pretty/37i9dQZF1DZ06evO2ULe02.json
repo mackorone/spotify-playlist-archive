@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRZxAAAAAAC98i2S9/jQQupu+W6JNhbf",
+  "snapshot_id": "aRfCgAAAAAAmCmDU6vtA2A//sQ86+Qeq",
   "tracks": [
     {
       "added_at": null,
@@ -239,8 +239,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Twenty Something",
-        "url": "https://open.spotify.com/album/0KcHTndjLUNgMX6oZEZdO6"
+        "name": "Dumped",
+        "url": "https://open.spotify.com/album/6mKVK9W2eY2WdfgrAh9HMW"
       },
       "artists": [
         {
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
         }
       ],
-      "duration_ms": 189954,
-      "name": "Twenty Something",
-      "url": "https://open.spotify.com/track/0sClb4tEbII8qmV2KOwGLj"
+      "duration_ms": 163293,
+      "name": "Dumped",
+      "url": "https://open.spotify.com/track/2G6mLCWcfHTPEJ7Vscf0FL"
     },
     {
       "added_at": null,
@@ -271,8 +271,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dumped",
-        "url": "https://open.spotify.com/album/6mKVK9W2eY2WdfgrAh9HMW"
+        "name": "Twenty Something",
+        "url": "https://open.spotify.com/album/0KcHTndjLUNgMX6oZEZdO6"
       },
       "artists": [
         {
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
         }
       ],
-      "duration_ms": 163293,
-      "name": "Dumped",
-      "url": "https://open.spotify.com/track/2G6mLCWcfHTPEJ7Vscf0FL"
+      "duration_ms": 189954,
+      "name": "Twenty Something",
+      "url": "https://open.spotify.com/track/0sClb4tEbII8qmV2KOwGLj"
     },
     {
       "added_at": null,

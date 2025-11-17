@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 
 > Lo nuevo y lo más escuchado del pop\. Foto: TINI
 
-[Spotify](https://open.spotify.com/user/spotify) - 566,554 likes - 102 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 566,568 likes - 102 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

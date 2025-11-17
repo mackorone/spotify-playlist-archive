@@ -1,12 +1,12 @@
 {
   "description": "This is Rich Homie Quan. The essential tracks, all in one playlist.",
-  "num_followers": 20623,
+  "num_followers": 20624,
   "original_name": "This Is Rich Homie Quan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRZxAAAAAAAJYCILKebG0xwDjd70E/ke",
+  "snapshot_id": "aRfCgAAAAABofQrFqvNO7RjaA6fhT8B1",
   "tracks": [
     {
       "added_at": null,
@@ -707,26 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Magic City",
-        "url": "https://open.spotify.com/album/1lOpFH3H5zuMpuXRGPCEGW"
-      },
-      "artists": [
-        {
-          "name": "Jermaine Dupri",
-          "url": "https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6"
-        },
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 148866,
-      "name": "This or That",
-      "url": "https://open.spotify.com/track/1LUjANKJvZMnrITUExaKb8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Life After Fame",
         "url": "https://open.spotify.com/album/3IYaSINx79h33UY51uylld"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 276080,
       "name": "Never Made Love (feat. Rich Homie Quan)",
       "url": "https://open.spotify.com/track/7MmJgTnnl1Rgeu1PlYBx52"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Magic City",
+        "url": "https://open.spotify.com/album/1lOpFH3H5zuMpuXRGPCEGW"
+      },
+      "artists": [
+        {
+          "name": "Jermaine Dupri",
+          "url": "https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6"
+        },
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 148866,
+      "name": "This or That",
+      "url": "https://open.spotify.com/track/1LUjANKJvZMnrITUExaKb8"
     },
     {
       "added_at": null,

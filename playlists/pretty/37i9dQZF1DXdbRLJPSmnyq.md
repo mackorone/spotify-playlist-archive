@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbRLJPSmnyq.md) - [plain]
 
 > All the J\-Pop tunes you love in one playlist\. Cover: Billyrrom
 
-[Spotify](https://open.spotify.com/user/spotify) - 419,229 likes - 85 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 419,257 likes - 85 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbRLJPSmnyq.md) - [plain]
 | 84 | [Happy Halloween!! \- English Version](https://open.spotify.com/track/4GR7k99piF3EeCO7ueP6IG) | [KUROMI](https://open.spotify.com/artist/1nah1bp3mzMd4FhMUxhU4d) | [KUROMI IN MY HEAD \(English Version\)](https://open.spotify.com/album/2osn0qSBRL1DnSwzZ9ztM3) | 3:14 |
 | 85 | [偉生人](https://open.spotify.com/track/3g1Ca8PPhR4FBN6a66wkyq) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [偉生人](https://open.spotify.com/album/63x5RuS6pMjBokIF7E7qBw) | 3:28 |
 
-Snapshot ID: `AAAAAFE3d3C3nfURLrNHLpHVGKgBBi3H`
+Snapshot ID: `AAAAAJzSt6n9tsVfRQkNJvNlHu0ZRcQc`

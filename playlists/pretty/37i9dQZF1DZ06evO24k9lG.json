@@ -1,12 +1,12 @@
 {
   "description": "This is Binomio de Oro de Am\u00e9rica. The essential tracks, all in one playlist.",
-  "num_followers": 62794,
+  "num_followers": 62796,
   "original_name": "This Is Binomio de Oro de Am\u00e9rica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRZxAAAAAAARWgxTHdBepwMCe2EjLgLd",
+  "snapshot_id": "aRfCgAAAAAAoslM0EfJgUKV4gA2n2BBx",
   "tracks": [
     {
       "added_at": null,
@@ -679,26 +679,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Combinacion Vallenata Vol. 2",
-        "url": "https://open.spotify.com/album/4uPNCk5oi9NViVt6nic6cl"
+        "name": "Vallenato sin Fronteras",
+        "url": "https://open.spotify.com/album/6TQF1j65iXgZu90zgTWCnw"
       },
       "artists": [
-        {
-          "name": "La Combinaci\u00f3n Vallenata",
-          "url": "https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya"
-        },
-        {
-          "name": "Jes\u00fas Manuel",
-          "url": "https://open.spotify.com/artist/1XLwJzZGjXyXjIz9s11R4Z"
-        },
         {
           "name": "Binomio de Oro de Am\u00e9rica",
           "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
         }
       ],
-      "duration_ms": 291853,
-      "name": "Jam\u00e1s Te Olvidar\u00e9",
-      "url": "https://open.spotify.com/track/7DnAvmdF8AxO6jdT1dNRON"
+      "duration_ms": 277989,
+      "name": "El Diario",
+      "url": "https://open.spotify.com/track/53Gc3Ruoh4VXdhl7LxxfVF"
     },
     {
       "added_at": null,
@@ -735,18 +727,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vallenato sin Fronteras",
-        "url": "https://open.spotify.com/album/6TQF1j65iXgZu90zgTWCnw"
+        "name": "La Combinacion Vallenata Vol. 2",
+        "url": "https://open.spotify.com/album/4uPNCk5oi9NViVt6nic6cl"
       },
       "artists": [
+        {
+          "name": "La Combinaci\u00f3n Vallenata",
+          "url": "https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya"
+        },
+        {
+          "name": "Jes\u00fas Manuel",
+          "url": "https://open.spotify.com/artist/1XLwJzZGjXyXjIz9s11R4Z"
+        },
         {
           "name": "Binomio de Oro de Am\u00e9rica",
           "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
         }
       ],
-      "duration_ms": 277989,
-      "name": "El Diario",
-      "url": "https://open.spotify.com/track/53Gc3Ruoh4VXdhl7LxxfVF"
+      "duration_ms": 291853,
+      "name": "Jam\u00e1s Te Olvidar\u00e9",
+      "url": "https://open.spotify.com/track/7DnAvmdF8AxO6jdT1dNRON"
     },
     {
       "added_at": null,

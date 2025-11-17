@@ -1,6 +1,6 @@
 {
   "description": "Tu karaoke personal para darlo todo cantando.",
-  "num_followers": 1664682,
+  "num_followers": 1664592,
   "original_name": "Karaoke 2025",
   "owner": {
     "name": "Spotify",
@@ -491,22 +491,6 @@
     {
       "added_at": "2025-07-01 17:52:44",
       "album": {
-        "name": "It Must Have Been Love",
-        "url": "https://open.spotify.com/album/3dWX1xFUaalRlaaVpe4EPF"
-      },
-      "artists": [
-        {
-          "name": "Roxette",
-          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
-        }
-      ],
-      "duration_ms": 259665,
-      "name": "It Must Have Been Love - From the Film \"Pretty Woman\"",
-      "url": "https://open.spotify.com/track/6kvoHl80mfCVTv7XnZkjQn"
-    },
-    {
-      "added_at": "2025-07-01 17:52:44",
-      "album": {
         "name": "Kiss",
         "url": "https://open.spotify.com/album/6SSSF9Y6MiPdQoxqBptrR2"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 193400,
       "name": "Call Me Maybe",
       "url": "https://open.spotify.com/track/20I6sIOMTCkB6w7ryavxtO"
+    },
+    {
+      "added_at": "2025-07-01 17:52:44",
+      "album": {
+        "name": "It Must Have Been Love",
+        "url": "https://open.spotify.com/album/3dWX1xFUaalRlaaVpe4EPF"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "duration_ms": 259665,
+      "name": "It Must Have Been Love - From the Film \"Pretty Woman\"",
+      "url": "https://open.spotify.com/track/6kvoHl80mfCVTv7XnZkjQn"
     },
     {
       "added_at": "2025-07-01 17:52:44",
@@ -763,22 +763,6 @@
     {
       "added_at": "2025-07-01 17:52:44",
       "album": {
-        "name": "The Bodyguard - Original Soundtrack Album",
-        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 271093,
-      "name": "I Will Always Love You",
-      "url": "https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm"
-    },
-    {
-      "added_at": "2025-07-01 17:52:44",
-      "album": {
         "name": "We Broke The Rules",
         "url": "https://open.spotify.com/album/5QdYO6Q2POaG7dhVIsJeWd"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 254720,
       "name": "Obsesion",
       "url": "https://open.spotify.com/track/65H6t1WQBim6q93yM8fEwn"
+    },
+    {
+      "added_at": "2025-07-01 17:52:44",
+      "album": {
+        "name": "The Bodyguard - Original Soundtrack Album",
+        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 271093,
+      "name": "I Will Always Love You",
+      "url": "https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm"
     },
     {
       "added_at": "2025-07-01 17:52:44",
@@ -979,22 +979,6 @@
     {
       "added_at": "2025-07-01 17:52:44",
       "album": {
-        "name": "La Bachata",
-        "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 162637,
-      "name": "La Bachata",
-      "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
-    },
-    {
-      "added_at": "2025-07-01 17:52:44",
-      "album": {
         "name": "F\u00e9nix",
         "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
       },
@@ -1015,18 +999,18 @@
     {
       "added_at": "2025-07-01 17:52:44",
       "album": {
-        "name": "I Love Rock 'N' Roll (Expanded Edition)",
-        "url": "https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt"
+        "name": "La Bachata",
+        "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
       },
       "artists": [
         {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
         }
       ],
-      "duration_ms": 175173,
-      "name": "I Love Rock 'N Roll",
-      "url": "https://open.spotify.com/track/2Cdvbe2G4hZsnhNMKyGrie"
+      "duration_ms": 162637,
+      "name": "La Bachata",
+      "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
     },
     {
       "added_at": "2025-07-01 17:52:44",
@@ -1043,6 +1027,22 @@
       "duration_ms": 220293,
       "name": "Mambo No. 5 (a Little Bit of...)",
       "url": "https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs"
+    },
+    {
+      "added_at": "2025-07-01 17:52:44",
+      "album": {
+        "name": "I Love Rock 'N' Roll (Expanded Edition)",
+        "url": "https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 175173,
+      "name": "I Love Rock 'N Roll",
+      "url": "https://open.spotify.com/track/2Cdvbe2G4hZsnhNMKyGrie"
     },
     {
       "added_at": "2025-07-01 17:52:44",
@@ -1072,9 +1072,9 @@
           "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
         }
       ],
-      "duration_ms": 352160,
-      "name": "En El Muelle de San Blas",
-      "url": "https://open.spotify.com/track/0mvocLIWUnT10znvIXwHGr"
+      "duration_ms": 310813,
+      "name": "Clavado en Un Bar",
+      "url": "https://open.spotify.com/track/78DVpEWwmJFC25KGz8fJuE"
     },
     {
       "added_at": "2025-07-01 17:52:44",
@@ -1152,9 +1152,9 @@
           "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
         }
       ],
-      "duration_ms": 310813,
-      "name": "Clavado en Un Bar",
-      "url": "https://open.spotify.com/track/78DVpEWwmJFC25KGz8fJuE"
+      "duration_ms": 352160,
+      "name": "En El Muelle de San Blas",
+      "url": "https://open.spotify.com/track/0mvocLIWUnT10znvIXwHGr"
     },
     {
       "added_at": "2025-07-01 17:52:44",
@@ -2179,22 +2179,6 @@
     {
       "added_at": "2025-07-01 17:52:44",
       "album": {
-        "name": "Glorious: The Singles 97-07",
-        "url": "https://open.spotify.com/album/5snQakFpbHsJmrAvhgeuHX"
-      },
-      "artists": [
-        {
-          "name": "Natalie Imbruglia",
-          "url": "https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP"
-        }
-      ],
-      "duration_ms": 244813,
-      "name": "Torn",
-      "url": "https://open.spotify.com/track/3APayTEWiUl9Ssep4BOXR2"
-    },
-    {
-      "added_at": "2025-07-01 17:52:44",
-      "album": {
         "name": "Bonito",
         "url": "https://open.spotify.com/album/2Hv4CIt50qRTakHeBsTpNf"
       },
@@ -2207,6 +2191,22 @@
       "duration_ms": 254053,
       "name": "Bonito",
       "url": "https://open.spotify.com/track/5FiB1uNoGZE4PenzZd7Imu"
+    },
+    {
+      "added_at": "2025-07-01 17:52:44",
+      "album": {
+        "name": "Glorious: The Singles 97-07",
+        "url": "https://open.spotify.com/album/5snQakFpbHsJmrAvhgeuHX"
+      },
+      "artists": [
+        {
+          "name": "Natalie Imbruglia",
+          "url": "https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP"
+        }
+      ],
+      "duration_ms": 244813,
+      "name": "Torn",
+      "url": "https://open.spotify.com/track/3APayTEWiUl9Ssep4BOXR2"
     },
     {
       "added_at": "2025-07-01 17:52:44",
@@ -2307,22 +2307,6 @@
     {
       "added_at": "2025-07-01 17:52:44",
       "album": {
-        "name": "P\u00e1jaros En La Cabeza",
-        "url": "https://open.spotify.com/album/6DCFKUUTjEANNG889DLYaW"
-      },
-      "artists": [
-        {
-          "name": "Amaral",
-          "url": "https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi"
-        }
-      ],
-      "duration_ms": 223186,
-      "name": "Marta, Sebas, Guille y los dem\u00e1s",
-      "url": "https://open.spotify.com/track/30ddpolNHwXlrS5XO8MiiO"
-    },
-    {
-      "added_at": "2025-07-01 17:52:44",
-      "album": {
         "name": "2000 Grandes Exitos",
         "url": "https://open.spotify.com/album/4dqiQqmKsYhgmrocMXhogw"
       },
@@ -2335,6 +2319,22 @@
       "duration_ms": 231080,
       "name": "Mayonesa",
       "url": "https://open.spotify.com/track/5Qjx4obghhfhsh6DiUwpNM"
+    },
+    {
+      "added_at": "2025-07-01 17:52:44",
+      "album": {
+        "name": "P\u00e1jaros En La Cabeza",
+        "url": "https://open.spotify.com/album/6DCFKUUTjEANNG889DLYaW"
+      },
+      "artists": [
+        {
+          "name": "Amaral",
+          "url": "https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi"
+        }
+      ],
+      "duration_ms": 223186,
+      "name": "Marta, Sebas, Guille y los dem\u00e1s",
+      "url": "https://open.spotify.com/track/30ddpolNHwXlrS5XO8MiiO"
     },
     {
       "added_at": "2025-07-01 17:52:44",
@@ -2403,22 +2403,6 @@
     {
       "added_at": "2025-07-01 17:52:44",
       "album": {
-        "name": "Retales De Carnaval",
-        "url": "https://open.spotify.com/album/2ZOvwFajYMMkGPuX0jlNE4"
-      },
-      "artists": [
-        {
-          "name": "Nena Daconte",
-          "url": "https://open.spotify.com/artist/58ZTr51uERVdMQbfDbc5B3"
-        }
-      ],
-      "duration_ms": 204560,
-      "name": "Ten\u00eda Tanto Que Darte",
-      "url": "https://open.spotify.com/track/3Th2of8xIYyImVLXUbzaTp"
-    },
-    {
-      "added_at": "2025-07-01 17:52:44",
-      "album": {
         "name": "Best Of",
         "url": "https://open.spotify.com/album/4ZcnXch8ZI9zlizDVTea1X"
       },
@@ -2431,6 +2415,22 @@
       "duration_ms": 229466,
       "name": "I'm So Excited",
       "url": "https://open.spotify.com/track/2u8MGAiS2hBVE7GZzTZLQI"
+    },
+    {
+      "added_at": "2025-07-01 17:52:44",
+      "album": {
+        "name": "Retales De Carnaval",
+        "url": "https://open.spotify.com/album/2ZOvwFajYMMkGPuX0jlNE4"
+      },
+      "artists": [
+        {
+          "name": "Nena Daconte",
+          "url": "https://open.spotify.com/artist/58ZTr51uERVdMQbfDbc5B3"
+        }
+      ],
+      "duration_ms": 204560,
+      "name": "Ten\u00eda Tanto Que Darte",
+      "url": "https://open.spotify.com/track/3Th2of8xIYyImVLXUbzaTp"
     },
     {
       "added_at": "2025-07-01 17:52:44",
@@ -2515,22 +2515,6 @@
     {
       "added_at": "2025-07-01 17:52:44",
       "album": {
-        "name": "Chronicle: 20 Greatest Hits",
-        "url": "https://open.spotify.com/album/03GKkfyog7hnllilFS3jIV"
-      },
-      "artists": [
-        {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Have You Ever Seen The Rain",
-      "url": "https://open.spotify.com/track/5XE8c07vbpQBUriwybOHtd"
-    },
-    {
-      "added_at": "2025-07-01 17:52:44",
-      "album": {
         "name": "Zapatillas",
         "url": "https://open.spotify.com/album/3dToFs6qDSWkR1HttqgpnF"
       },
@@ -2547,18 +2531,18 @@
     {
       "added_at": "2025-07-01 17:52:44",
       "album": {
-        "name": "Desde Mi Azotea",
-        "url": "https://open.spotify.com/album/79Le8lGTHNh1tB8RaY7xPH"
+        "name": "Chronicle: 20 Greatest Hits",
+        "url": "https://open.spotify.com/album/03GKkfyog7hnllilFS3jIV"
       },
       "artists": [
         {
-          "name": "Navajita Platea",
-          "url": "https://open.spotify.com/artist/14QPRrwRDAiUhdGC6D3VpE"
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
         }
       ],
-      "duration_ms": 247906,
-      "name": "Noches de bohemia - Radio Edit",
-      "url": "https://open.spotify.com/track/1JpZMDDAkfhnrO6nXIQZ2g"
+      "duration_ms": 160000,
+      "name": "Have You Ever Seen The Rain",
+      "url": "https://open.spotify.com/track/5XE8c07vbpQBUriwybOHtd"
     },
     {
       "added_at": "2025-07-01 17:52:44",
@@ -2575,6 +2559,22 @@
       "duration_ms": 231813,
       "name": "Son de Amores",
       "url": "https://open.spotify.com/track/7BCer0V0I1CZDI6S6kYD44"
+    },
+    {
+      "added_at": "2025-07-01 17:52:44",
+      "album": {
+        "name": "Desde Mi Azotea",
+        "url": "https://open.spotify.com/album/79Le8lGTHNh1tB8RaY7xPH"
+      },
+      "artists": [
+        {
+          "name": "Navajita Platea",
+          "url": "https://open.spotify.com/artist/14QPRrwRDAiUhdGC6D3VpE"
+        }
+      ],
+      "duration_ms": 247906,
+      "name": "Noches de bohemia - Radio Edit",
+      "url": "https://open.spotify.com/track/1JpZMDDAkfhnrO6nXIQZ2g"
     },
     {
       "added_at": "2025-07-01 17:52:44",
@@ -3063,26 +3063,6 @@
     {
       "added_at": "2025-07-01 17:52:44",
       "album": {
-        "name": "Fast Five (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4m2xhUYfu1TIPoSDpQAOp8"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        },
-        {
-          "name": "Lucenzo",
-          "url": "https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E"
-        }
-      ],
-      "duration_ms": 198386,
-      "name": "Danza Kuduro",
-      "url": "https://open.spotify.com/track/4sCSUQnWQ6HJsOMjfPicdn"
-    },
-    {
-      "added_at": "2025-07-01 17:52:44",
-      "album": {
         "name": "Europop",
         "url": "https://open.spotify.com/album/54vbD17F1t5q3yHkj1cX37"
       },
@@ -3099,6 +3079,26 @@
       "duration_ms": 283747,
       "name": "Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio",
       "url": "https://open.spotify.com/track/2yAVzRiEQooPEJ9SYx11L3"
+    },
+    {
+      "added_at": "2025-07-01 17:52:44",
+      "album": {
+        "name": "Fast Five (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4m2xhUYfu1TIPoSDpQAOp8"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Lucenzo",
+          "url": "https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E"
+        }
+      ],
+      "duration_ms": 198386,
+      "name": "Danza Kuduro",
+      "url": "https://open.spotify.com/track/4sCSUQnWQ6HJsOMjfPicdn"
     },
     {
       "added_at": "2025-07-01 17:52:44",
@@ -3139,22 +3139,6 @@
     {
       "added_at": "2025-07-01 17:52:44",
       "album": {
-        "name": "True",
-        "url": "https://open.spotify.com/album/02h9kO2oLKnLtycgbElKsw"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        }
-      ],
-      "duration_ms": 247426,
-      "name": "Wake Me Up - Radio Edit",
-      "url": "https://open.spotify.com/track/6g1NlCpW7fgqDnWbCCDrHl"
-    },
-    {
-      "added_at": "2025-07-01 17:52:44",
-      "album": {
         "name": "Elephant",
         "url": "https://open.spotify.com/album/0rRNLpdA8nA8Sm8Fk490b9"
       },
@@ -3167,6 +3151,22 @@
       "duration_ms": 231920,
       "name": "Seven Nation Army",
       "url": "https://open.spotify.com/track/3m6KkYKdnbffMpGd9Pm9FP"
+    },
+    {
+      "added_at": "2025-07-01 17:52:44",
+      "album": {
+        "name": "True",
+        "url": "https://open.spotify.com/album/02h9kO2oLKnLtycgbElKsw"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        }
+      ],
+      "duration_ms": 247426,
+      "name": "Wake Me Up - Radio Edit",
+      "url": "https://open.spotify.com/track/6g1NlCpW7fgqDnWbCCDrHl"
     },
     {
       "added_at": "2025-07-01 17:52:44",

@@ -1161,6 +1161,24 @@
     },
     {
       "album": {
+        "name": "everything is a lot.",
+        "url": "https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "date_added": "2025-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175417,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/6boHVtRiLPHR1sm1I1ZdJr"
+    },
+    {
+      "album": {
         "name": "Forgiveness",
         "url": "https://open.spotify.com/album/0xC84rKqnKhwJBy0xlZX1C"
       },
@@ -3574,7 +3592,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-16",
+      "date_removed": null,
       "duration_ms": 204160,
       "name": "Timber",
       "url": "https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS"

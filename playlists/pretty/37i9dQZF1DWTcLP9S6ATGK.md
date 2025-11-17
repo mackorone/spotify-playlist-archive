@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Naura Ayu
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,467 likes - 103 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,481 likes - 103 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

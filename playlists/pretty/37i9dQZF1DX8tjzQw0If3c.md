@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tjzQw0If3c.md) - [plain]
 
 > Listen to the future\. Cover: lovlaine
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,150 likes - 94 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,152 likes - 94 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

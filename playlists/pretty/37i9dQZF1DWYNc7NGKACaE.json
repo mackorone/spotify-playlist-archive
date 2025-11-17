@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 84474,
+  "num_followers": 84460,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
@@ -207,6 +207,26 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
+        "name": "Plug! (Speed Plug)",
+        "url": "https://open.spotify.com/album/16zg9fzXtFEqb0q0367yxd"
+      },
+      "artists": [
+        {
+          "name": "Muzzi",
+          "url": "https://open.spotify.com/artist/6J9B0QuNm4QTuyjsHveigy"
+        },
+        {
+          "name": "Edubeatz",
+          "url": "https://open.spotify.com/artist/1uAxRk8YHpAKbwCG2xNlf8"
+        }
+      ],
+      "duration_ms": 102250,
+      "name": "Plug! (Speed Plug)",
+      "url": "https://open.spotify.com/track/3LZIqLS8BfUZp9T1k39IZb"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
         "name": "Put0 & Cheiroso (Speed Plug)",
         "url": "https://open.spotify.com/album/2ybG6TaxLTpdxlD3iKSE1D"
       },
@@ -235,26 +255,6 @@
       "duration_ms": 159937,
       "name": "Put0 & Cheiroso (Speed Plug)",
       "url": "https://open.spotify.com/track/4A8qiMlkmXJDo9D8G3coYr"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
-        "name": "Plug! (Speed Plug)",
-        "url": "https://open.spotify.com/album/16zg9fzXtFEqb0q0367yxd"
-      },
-      "artists": [
-        {
-          "name": "Muzzi",
-          "url": "https://open.spotify.com/artist/6J9B0QuNm4QTuyjsHveigy"
-        },
-        {
-          "name": "Edubeatz",
-          "url": "https://open.spotify.com/artist/1uAxRk8YHpAKbwCG2xNlf8"
-        }
-      ],
-      "duration_ms": 102250,
-      "name": "Plug! (Speed Plug)",
-      "url": "https://open.spotify.com/track/3LZIqLS8BfUZp9T1k39IZb"
     },
     {
       "added_at": "2024-07-08 19:10:57",

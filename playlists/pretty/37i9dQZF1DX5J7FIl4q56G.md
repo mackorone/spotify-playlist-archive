@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Megadeth
 
-[Spotify](https://open.spotify.com/user/spotify) - 777,392 likes - 99 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 777,453 likes - 99 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 20 | [fading faster](https://open.spotify.com/track/5FUPL6Nis7lHEMWsgar3gV) | [AVRALIZE](https://open.spotify.com/artist/6h9Yjv46RWsgt2NQ1F6Jb5) | [liminal](https://open.spotify.com/album/0KgQQBn420fOjGTUuOkO7p) | 2:56 |
 | 21 | [VALVES & CHAMBERS](https://open.spotify.com/track/3RNYjXwgGRgHylJnEdpEGy) | [Memory of a Melody](https://open.spotify.com/artist/7MUx5uHwpNCLJzLBhkuKbP), [Cory Brunnemann](https://open.spotify.com/artist/0Ly1OZiVutftQZsz8VEULe), [Through Arteries](https://open.spotify.com/artist/3DceTa9dHevk4E1aX69GcE) | [VALVES & CHAMBERS](https://open.spotify.com/album/3Xyfa0XK0a8xO9oLVfL06P) | 4:03 |
 | 22 | [Masquerade](https://open.spotify.com/track/6zvgA9LZxMm96RCygoRtDu) | [Hacktivist](https://open.spotify.com/artist/3hZtRePYRKW6wLtZ3gpnk7) | [Masquerade](https://open.spotify.com/album/0HulPvGCYtE9rvANyqQgOR) | 4:04 |
-| 23 | [The Song of the Summer](https://open.spotify.com/track/5hXxLb6Wzztx5Xmuawj3DK) | [AVOID](https://open.spotify.com/artist/7rZJ1D1ERxrHNKTWwpZFVU), [Colorblind](https://open.spotify.com/artist/5Azv40BNCnEohgbA19WErm) | [Creature of Habit](https://open.spotify.com/album/6tgjoXeePffLYvpRz1MQZW) | 2:31 |
+| 23 | [The Song of the Summer](https://open.spotify.com/track/5hXxLb6Wzztx5Xmuawj3DK) | [AVOID](https://open.spotify.com/artist/7rZJ1D1ERxrHNKTWwpZFVU), [Colorblind](https://open.spotify.com/artist/3kSDOw6bEMSStOjqLR2kVX) | [Creature of Habit](https://open.spotify.com/album/6tgjoXeePffLYvpRz1MQZW) | 2:31 |
 | 24 | [Feet & Greet \(feat\. Mikael Sehlin\)](https://open.spotify.com/track/1vOhNtlo2i2GrvvTEVkKN4) | [NanowaR of Steel](https://open.spotify.com/artist/7jw9vF1hFRp1k8dDRNRiC5), [Mikael Sehlin](https://open.spotify.com/artist/4VgHnFpxftbM0JVn0nA1dw) | [Feet & Greet \(feat\. Mikael Sehlin\)](https://open.spotify.com/album/3RIsfQ0OQKQqoVMZgdznWw) | 3:20 |
 | 25 | [GEEZA LIFE TILL GEEZA DEAD](https://open.spotify.com/track/5NeOeyYceHsHbSw2uysHVF) | [Pintglass](https://open.spotify.com/artist/6b6QVdUlocAllySCrU4gQs) | [PINTGLASS](https://open.spotify.com/album/1xJVhQPCoeDsbgtWV4dSTh) | 2:48 |
 | 26 | [Even Deeper](https://open.spotify.com/track/1gxoWqN2P5SLlZfmc6RCNV) | [The Ocean](https://open.spotify.com/artist/6fuALtryzj4cq7vkglKLxq) | [Even Deeper](https://open.spotify.com/album/354IyXKDTJmxRGlUlK9rel) | 6:05 |

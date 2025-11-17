@@ -399,22 +399,6 @@
     {
       "added_at": "2025-11-05 02:50:34",
       "album": {
-        "name": "Living Message",
-        "url": "https://open.spotify.com/album/1JDnILGoI2TFSWeAOqyeA2"
-      },
-      "artists": [
-        {
-          "name": "Hidefumi Ino",
-          "url": "https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S"
-        }
-      ],
-      "duration_ms": 211253,
-      "name": "Blood is thicker than water",
-      "url": "https://open.spotify.com/track/75EKP06FTKQt0lzKQrRf1z"
-    },
-    {
-      "added_at": "2025-11-05 02:50:34",
-      "album": {
         "name": "debut",
         "url": "https://open.spotify.com/album/1zqQSutLk34XtF5jHWGCuj"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 292333,
       "name": "tokyo class",
       "url": "https://open.spotify.com/track/347ncFkne4BCG7q9ZFLHCb"
+    },
+    {
+      "added_at": "2025-11-05 02:50:34",
+      "album": {
+        "name": "Living Message",
+        "url": "https://open.spotify.com/album/1JDnILGoI2TFSWeAOqyeA2"
+      },
+      "artists": [
+        {
+          "name": "Hidefumi Ino",
+          "url": "https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S"
+        }
+      ],
+      "duration_ms": 211253,
+      "name": "Blood is thicker than water",
+      "url": "https://open.spotify.com/track/75EKP06FTKQt0lzKQrRf1z"
     },
     {
       "added_at": "2025-11-05 02:50:34",
@@ -575,22 +575,18 @@
     {
       "added_at": "2025-11-05 02:50:34",
       "album": {
-        "name": "Silent Jazz Case 3",
-        "url": "https://open.spotify.com/album/6ZCeWV8M6KFdjc5OCh0YTO"
+        "name": "Floating in the midnight sun",
+        "url": "https://open.spotify.com/album/2Nj6K8d0eTviOrZDH6MwR2"
       },
       "artists": [
         {
-          "name": "Yusuke Shima",
-          "url": "https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8"
-        },
-        {
-          "name": "SilentJazzCase",
-          "url": "https://open.spotify.com/artist/5zcOZKWI96Wm7tAxpRIUq1"
+          "name": "re:plus",
+          "url": "https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG"
         }
       ],
-      "duration_ms": 299693,
-      "name": "Philly's Dance",
-      "url": "https://open.spotify.com/track/3dXhHxfQYoJOjwHMUQ8Scc"
+      "duration_ms": 260861,
+      "name": "Ephemeral summer",
+      "url": "https://open.spotify.com/track/5Xc665FkyzjWgT1dYBjop0"
     },
     {
       "added_at": "2025-11-05 02:50:34",
@@ -627,18 +623,22 @@
     {
       "added_at": "2025-11-05 02:50:34",
       "album": {
-        "name": "Floating in the midnight sun",
-        "url": "https://open.spotify.com/album/2Nj6K8d0eTviOrZDH6MwR2"
+        "name": "Silent Jazz Case 3",
+        "url": "https://open.spotify.com/album/6ZCeWV8M6KFdjc5OCh0YTO"
       },
       "artists": [
         {
-          "name": "re:plus",
-          "url": "https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG"
+          "name": "Yusuke Shima",
+          "url": "https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8"
+        },
+        {
+          "name": "SilentJazzCase",
+          "url": "https://open.spotify.com/artist/5zcOZKWI96Wm7tAxpRIUq1"
         }
       ],
-      "duration_ms": 260861,
-      "name": "Ephemeral summer",
-      "url": "https://open.spotify.com/track/5Xc665FkyzjWgT1dYBjop0"
+      "duration_ms": 299693,
+      "name": "Philly's Dance",
+      "url": "https://open.spotify.com/track/3dXhHxfQYoJOjwHMUQ8Scc"
     },
     {
       "added_at": "2025-11-05 02:50:34",

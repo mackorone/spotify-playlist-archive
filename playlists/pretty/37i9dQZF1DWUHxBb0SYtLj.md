@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 
 > Artiste italiane da ascoltare a tutto volume 🔊 Cover: Mia Martini
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,269 likes - 70 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,268 likes - 70 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 | 69 | [Quanto Tempo](https://open.spotify.com/track/6yZSB4XbuS0mLfpTQccIlV) | [MilleAlice](https://open.spotify.com/artist/7wtk4d8GuaMqOjPReuhlTa) | [Quanto Tempo](https://open.spotify.com/album/2tH8YFBWs1lmuwbPznubEZ) | 3:15 |
 | 70 | [TUTTO](https://open.spotify.com/track/1VTZb9UnIZ1eg5Mk3UJrce) | [Greta Grida](https://open.spotify.com/artist/5aTaVTuJx0xzt4guFjsPBc) | [TUTTO](https://open.spotify.com/album/0XUaNses2mBIyFhxiDoP5p) | 2:28 |
 
-Snapshot ID: `AAAAAIkZ04j5GlGZXEn6lWA1Z4cSagAj`
+Snapshot ID: `AAAAABRzHEhfT4KIq2vQoCHhMu5JwEvR`

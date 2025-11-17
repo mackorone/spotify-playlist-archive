@@ -1,6 +1,6 @@
 {
   "description": "The highlights of Eurovision from the 50s, 60s & 70s. Cover: ABBA",
-  "num_followers": 5500,
+  "num_followers": 5503,
   "original_name": "Eurovision Gold",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
-        "name": "M\u00e9lodie bleue",
-        "url": "https://open.spotify.com/album/3Oa1HzOfHQPaHUtbNUJ6jm"
-      },
-      "artists": [
-        {
-          "name": "Catherine Ferry",
-          "url": "https://open.spotify.com/artist/42RTi99jGurzuXQqqr2g0A"
-        }
-      ],
-      "duration_ms": 150976,
-      "name": "1, 2, 3",
-      "url": "https://open.spotify.com/track/4AFbTE63GLKZyZv96eNmYK"
-    },
-    {
-      "added_at": "2025-03-14 16:55:23",
-      "album": {
         "name": "Best Of Vol.1, Les Succ\u00e8s De Guy Mardel",
         "url": "https://open.spotify.com/album/1atBdA3FXEvIhU19tXbIqD"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 172840,
       "name": "N'avoue Jamais",
       "url": "https://open.spotify.com/track/1vPCbI7QPZtU6T42uaeP8w"
+    },
+    {
+      "added_at": "2025-03-14 16:55:23",
+      "album": {
+        "name": "M\u00e9lodie bleue",
+        "url": "https://open.spotify.com/album/3Oa1HzOfHQPaHUtbNUJ6jm"
+      },
+      "artists": [
+        {
+          "name": "Catherine Ferry",
+          "url": "https://open.spotify.com/artist/42RTi99jGurzuXQqqr2g0A"
+        }
+      ],
+      "duration_ms": 150976,
+      "name": "1, 2, 3",
+      "url": "https://open.spotify.com/track/4AFbTE63GLKZyZv96eNmYK"
     },
     {
       "added_at": "2025-03-14 16:55:23",
@@ -623,22 +623,6 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
-        "name": "1971",
-        "url": "https://open.spotify.com/album/7mLIJEPJI0tObeFsLuf0tI"
-      },
-      "artists": [
-        {
-          "name": "Family Four",
-          "url": "https://open.spotify.com/artist/59G5sH1IBBPWNAIgOzfpGs"
-        }
-      ],
-      "duration_ms": 191240,
-      "name": "Vita vidder",
-      "url": "https://open.spotify.com/track/0xC2WfHIDroVb1FXHsyrLI"
-    },
-    {
-      "added_at": "2025-03-14 16:55:23",
-      "album": {
         "name": "Angelique",
         "url": "https://open.spotify.com/album/3CcczhxqVZaCyoRAKdOuqq"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 239120,
       "name": "Angelique",
       "url": "https://open.spotify.com/track/7ETXytirTgnMJzyxl4e7UI"
+    },
+    {
+      "added_at": "2025-03-14 16:55:23",
+      "album": {
+        "name": "1971",
+        "url": "https://open.spotify.com/album/7mLIJEPJI0tObeFsLuf0tI"
+      },
+      "artists": [
+        {
+          "name": "Family Four",
+          "url": "https://open.spotify.com/artist/59G5sH1IBBPWNAIgOzfpGs"
+        }
+      ],
+      "duration_ms": 191240,
+      "name": "Vita vidder",
+      "url": "https://open.spotify.com/track/0xC2WfHIDroVb1FXHsyrLI"
     },
     {
       "added_at": "2025-03-14 16:55:23",
@@ -671,38 +671,6 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
-        "name": "Universal Master",
-        "url": "https://open.spotify.com/album/7kg1lYWJkHb0GbJbRcvN3K"
-      },
-      "artists": [
-        {
-          "name": "Mich\u00e8le Torr",
-          "url": "https://open.spotify.com/artist/0eaTYkUQnI2gRaYwT0nWNF"
-        }
-      ],
-      "duration_ms": 173480,
-      "name": "Une petite fran\u00e7aise",
-      "url": "https://open.spotify.com/track/4OMWFiBrBlA11tnJmNhi7y"
-    },
-    {
-      "added_at": "2025-03-14 16:55:23",
-      "album": {
-        "name": "Solino",
-        "url": "https://open.spotify.com/album/0I3MXd5FYGAj6X9GOJepMb"
-      },
-      "artists": [
-        {
-          "name": "Emilio Pericoli",
-          "url": "https://open.spotify.com/artist/78SZetGidiOyErFwdWTmgQ"
-        }
-      ],
-      "duration_ms": 178720,
-      "name": "Uno Per Tutte",
-      "url": "https://open.spotify.com/track/4OF9t8dHcIBMip0Vc5hSlk"
-    },
-    {
-      "added_at": "2025-03-14 16:55:23",
-      "album": {
         "name": "Best Of",
         "url": "https://open.spotify.com/album/40coqImDQgGDlN8TxMhJwJ"
       },
@@ -719,6 +687,22 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
+        "name": "Universal Master",
+        "url": "https://open.spotify.com/album/7kg1lYWJkHb0GbJbRcvN3K"
+      },
+      "artists": [
+        {
+          "name": "Mich\u00e8le Torr",
+          "url": "https://open.spotify.com/artist/0eaTYkUQnI2gRaYwT0nWNF"
+        }
+      ],
+      "duration_ms": 173480,
+      "name": "Une petite fran\u00e7aise",
+      "url": "https://open.spotify.com/track/4OMWFiBrBlA11tnJmNhi7y"
+    },
+    {
+      "added_at": "2025-03-14 16:55:23",
+      "album": {
         "name": "Alle Macht den Gef\u00fchlen",
         "url": "https://open.spotify.com/album/20OmM7msF0aALXBhaWgUFI"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 166026,
       "name": "Merci Ch\u00e9rie",
       "url": "https://open.spotify.com/track/29wXI6B7d5vy3iPfXhYMuP"
+    },
+    {
+      "added_at": "2025-03-14 16:55:23",
+      "album": {
+        "name": "Solino",
+        "url": "https://open.spotify.com/album/0I3MXd5FYGAj6X9GOJepMb"
+      },
+      "artists": [
+        {
+          "name": "Emilio Pericoli",
+          "url": "https://open.spotify.com/artist/78SZetGidiOyErFwdWTmgQ"
+        }
+      ],
+      "duration_ms": 178720,
+      "name": "Uno Per Tutte",
+      "url": "https://open.spotify.com/track/4OF9t8dHcIBMip0Vc5hSlk"
     },
     {
       "added_at": "2025-03-14 16:55:23",
@@ -783,22 +783,6 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
-        "name": "Succ\u00e8s et raret\u00e9s (Collection \"78 tours et puis s'en vont...\")",
-        "url": "https://open.spotify.com/album/7sklBkyosCBaqrUisOaPRG"
-      },
-      "artists": [
-        {
-          "name": "Jacqueline Boyer",
-          "url": "https://open.spotify.com/artist/39CXnW4H5Zc2567MY5UaeH"
-        }
-      ],
-      "duration_ms": 183040,
-      "name": "Tom Pillibi",
-      "url": "https://open.spotify.com/track/3fZIQ0sdsy7u7YDmOpqbxS"
-    },
-    {
-      "added_at": "2025-03-14 16:55:23",
-      "album": {
         "name": "Udo J\u00fcrgens - Die Erfolgsgeschichte",
         "url": "https://open.spotify.com/album/7ux7Y97oJmhfjtYKO95Ku6"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 178826,
       "name": "Warum nur, warum",
       "url": "https://open.spotify.com/track/231iiM3Zt82cVUjEUHFSZA"
+    },
+    {
+      "added_at": "2025-03-14 16:55:23",
+      "album": {
+        "name": "Succ\u00e8s et raret\u00e9s (Collection \"78 tours et puis s'en vont...\")",
+        "url": "https://open.spotify.com/album/7sklBkyosCBaqrUisOaPRG"
+      },
+      "artists": [
+        {
+          "name": "Jacqueline Boyer",
+          "url": "https://open.spotify.com/artist/39CXnW4H5Zc2567MY5UaeH"
+        }
+      ],
+      "duration_ms": 183040,
+      "name": "Tom Pillibi",
+      "url": "https://open.spotify.com/track/3fZIQ0sdsy7u7YDmOpqbxS"
     },
     {
       "added_at": "2025-03-14 16:55:23",
@@ -835,18 +835,18 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
-        "name": "Wunder gibt es immer wieder",
-        "url": "https://open.spotify.com/album/3MGGFKV8m5GEhq4nUgTRvw"
+        "name": "Marion Rung",
+        "url": "https://open.spotify.com/album/2KvulZCeNvldgfmORtL4IL"
       },
       "artists": [
         {
-          "name": "Katja Ebstein",
-          "url": "https://open.spotify.com/artist/4wvxXnEKj4ModbmMLGAKYZ"
+          "name": "Marion Rung",
+          "url": "https://open.spotify.com/artist/3IUX9s0yHuyUq3KSo4SXym"
         }
       ],
-      "duration_ms": 212666,
-      "name": "Wunder gibt es immer wieder",
-      "url": "https://open.spotify.com/track/68pun2nSn33MONTnLYKgpm"
+      "duration_ms": 132400,
+      "name": "Tipi-tii",
+      "url": "https://open.spotify.com/track/7r0GgmwNre1NtsrRA00bMa"
     },
     {
       "added_at": "2025-03-14 16:55:23",
@@ -887,6 +887,22 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
+        "name": "Wunder gibt es immer wieder",
+        "url": "https://open.spotify.com/album/3MGGFKV8m5GEhq4nUgTRvw"
+      },
+      "artists": [
+        {
+          "name": "Katja Ebstein",
+          "url": "https://open.spotify.com/artist/4wvxXnEKj4ModbmMLGAKYZ"
+        }
+      ],
+      "duration_ms": 212666,
+      "name": "Wunder gibt es immer wieder",
+      "url": "https://open.spotify.com/track/68pun2nSn33MONTnLYKgpm"
+    },
+    {
+      "added_at": "2025-03-14 16:55:23",
+      "album": {
         "name": "Todo Lo Mejor",
         "url": "https://open.spotify.com/album/7ktr6P3BCeVcyhwQ1a4QPX"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 130493,
       "name": "Vivo Cantando",
       "url": "https://open.spotify.com/track/059G9tpE3kl6wz3kiddaN0"
-    },
-    {
-      "added_at": "2025-03-14 16:55:23",
-      "album": {
-        "name": "Marion Rung",
-        "url": "https://open.spotify.com/album/2KvulZCeNvldgfmORtL4IL"
-      },
-      "artists": [
-        {
-          "name": "Marion Rung",
-          "url": "https://open.spotify.com/artist/3IUX9s0yHuyUq3KSo4SXym"
-        }
-      ],
-      "duration_ms": 132400,
-      "name": "Tipi-tii",
-      "url": "https://open.spotify.com/track/7r0GgmwNre1NtsrRA00bMa"
     },
     {
       "added_at": "2025-03-14 16:55:23",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
-        "name": "Reeling In The Decades",
-        "url": "https://open.spotify.com/album/4FLE3sQpCWW9zwB1HE7erQ"
+        "name": "Big-5: Marion",
+        "url": "https://open.spotify.com/album/1wLH0O9ZGMxKl9R9JbFM6U"
       },
       "artists": [
         {
-          "name": "The Swarbriggs",
-          "url": "https://open.spotify.com/artist/2lDzSLqo8rRCm5koxElxRb"
+          "name": "Marion Rung",
+          "url": "https://open.spotify.com/artist/3IUX9s0yHuyUq3KSo4SXym"
         }
       ],
-      "duration_ms": 173013,
-      "name": "That's What Friends Are For",
-      "url": "https://open.spotify.com/track/1rz4rSUxJmeIF4CuYarTnp"
+      "duration_ms": 175746,
+      "name": "Tom Tom Tom",
+      "url": "https://open.spotify.com/track/5r4mWGBL8NKQL02ARMP2dg"
     }
   ],
   "unique_name": "Eurovision Gold",

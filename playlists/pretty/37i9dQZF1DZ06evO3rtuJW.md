@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rtuJW.md) - [plain]
 
 > This is G Herbo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,149 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,152 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rtuJW.md) - [plain]
 | 14 | [Longevity](https://open.spotify.com/track/1DoUK8xVHImACABHPSz7Vh) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Lil Herb](https://open.spotify.com/album/5eIkANEEOacfzG6Jv3mU9f) | 3:10 |
 | 15 | [Whatever U Want \(feat\. Jeremih\)](https://open.spotify.com/track/7AubN0uneHfFsEfPLAcG3K) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Whatever U Want](https://open.spotify.com/album/3l1DeSYWct9O73WratRh1v) | 2:29 |
 | 16 | [Ahhh](https://open.spotify.com/track/1LMsoLko6U1QHS2zHi5B5T) | [Bloodhound Lil Jeff](https://open.spotify.com/artist/7cLnKyXKfZJN3EAKlrCrhZ), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Stepping In Blood](https://open.spotify.com/album/6NMO2xSNS195esMlTJu3Mk) | 2:50 |
-| 17 | [Sessions](https://open.spotify.com/track/03gHIjYCwrOia5nNwg7jmT) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Sessions](https://open.spotify.com/album/7yaedwQjo5ai0h1EEI9ymx) | 3:08 |
+| 17 | [Pull Up](https://open.spotify.com/track/4QgtGpNXs1v2UFz1VuCvWB) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Strictly 4 My Fans](https://open.spotify.com/album/5XLw4dnwqajOACwT2MN2d0) | 3:28 |
 | 18 | [Every Night](https://open.spotify.com/track/4mPG2ZrIPbEMe2KIkjrig9) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Lil Herb](https://open.spotify.com/album/5eIkANEEOacfzG6Jv3mU9f) | 2:24 |
-| 19 | [Pull Up](https://open.spotify.com/track/4QgtGpNXs1v2UFz1VuCvWB) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Strictly 4 My Fans](https://open.spotify.com/album/5XLw4dnwqajOACwT2MN2d0) | 3:28 |
+| 19 | [Sessions](https://open.spotify.com/track/03gHIjYCwrOia5nNwg7jmT) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Sessions](https://open.spotify.com/album/7yaedwQjo5ai0h1EEI9ymx) | 3:08 |
 | 20 | [Last Time \(feat\. G Herbo\)](https://open.spotify.com/track/5rDt0wjt4BrYGrveWoIKXB) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Me vs\. Myself](https://open.spotify.com/album/2vM2H6lyPfitmNZlc1Vrxv) | 2:59 |
 | 21 | [On Yo Ass](https://open.spotify.com/track/1GieuvkMLaSeu57s1BRVNP) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Levon James](https://open.spotify.com/album/1ZRAeQ6zsPJ5W1K3DvpRpP) | 2:37 |
 | 22 | [Where Would I Be?](https://open.spotify.com/track/3ephUINsyZn9Q0oeAyy7Hn) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Lil Herb](https://open.spotify.com/album/5eIkANEEOacfzG6Jv3mU9f) | 3:01 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rtuJW.md) - [plain]
 | 41 | [Thuggin](https://open.spotify.com/track/3uZDY0QgBOg6GIxCHy6L2S) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Luca Brasi 4](https://open.spotify.com/album/2MrBg0bmBOii342VanrH6v) | 2:24 |
 | 42 | [Swerve \(feat\. G Herbo\)](https://open.spotify.com/track/27MFaiM3gYDvknS6FYEUVC) | [Skrilla](https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [UNDERWORLD](https://open.spotify.com/album/1G4tRpGjmTkmE3jSAtKkvV) | 3:01 |
 | 43 | [Same Me](https://open.spotify.com/track/1vSbIcIQHsquII7EkSwCa4) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Welcome to Fazoland \(Anniversary Edition\)](https://open.spotify.com/album/1xUgmXMX6ojx1Tum5FbL26) | 4:16 |
-| 44 | [Real One](https://open.spotify.com/track/2rBQUcuBP89PonXz4A9QJh) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [PTSD \(Deluxe\)](https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY) | 2:42 |
-| 45 | [Pink Money \(feat\. G Herbo\)](https://open.spotify.com/track/6B1EaN6xYGvAVaWZXVxQoW) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Pink Money \(feat\. G Herbo\)](https://open.spotify.com/album/24mo9s4QMG2lWNVbANYdaC) | 2:44 |
+| 44 | [This N That \(Bonus\)](https://open.spotify.com/track/6K5RMhhSucN3vqwCvBngKG) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Lil Herb \(Extended\)](https://open.spotify.com/album/0aqpG80oRkiQRMjaS4saAi) | 3:18 |
+| 45 | [Real One](https://open.spotify.com/track/2rBQUcuBP89PonXz4A9QJh) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [PTSD \(Deluxe\)](https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY) | 2:42 |
 | 46 | [Never Scared \(feat\. Juice WRLD\)](https://open.spotify.com/track/6D2RIkzcbQ5JT99JA0eVgi) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Still Swervin](https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV) | 3:20 |
 | 47 | [Still Dangerous](https://open.spotify.com/track/5vc2kF0dDGa4zJ3bKFR6LP) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Welcome to Fazoland \(Anniversary Edition\)](https://open.spotify.com/album/1xUgmXMX6ojx1Tum5FbL26) | 2:33 |
-| 48 | [Cap Guns](https://open.spotify.com/track/7I2XiD0oUxwwcTemm2ftFG) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [PTSD \(Deluxe\)](https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY) | 3:16 |
-| 49 | [Dead N\*\*\*\*s \(feat\. Polo G & G Herbo\)](https://open.spotify.com/track/5GxamRUDAXk0vjM8ymt0K6) | [VonOff1700](https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Dead N\*\*\*\*s \(feat\. Polo G & G Herbo\)](https://open.spotify.com/album/14zfFCTHX9KiOZUg3raIOl) | 3:15 |
-| 50 | [No Bap \(Bonus\)](https://open.spotify.com/track/1bEFWdOp1xDnMPZDO8mtAe) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Lil Herb \(Extended\)](https://open.spotify.com/album/0aqpG80oRkiQRMjaS4saAi) | 2:40 |
+| 48 | [No Bap \(Bonus\)](https://open.spotify.com/track/1bEFWdOp1xDnMPZDO8mtAe) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Lil Herb \(Extended\)](https://open.spotify.com/album/0aqpG80oRkiQRMjaS4saAi) | 2:40 |
+| 49 | [Cap Guns](https://open.spotify.com/track/7I2XiD0oUxwwcTemm2ftFG) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [PTSD \(Deluxe\)](https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY) | 3:16 |
+| 50 | [Pink Money \(feat\. G Herbo\)](https://open.spotify.com/track/6B1EaN6xYGvAVaWZXVxQoW) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Pink Money \(feat\. G Herbo\)](https://open.spotify.com/album/24mo9s4QMG2lWNVbANYdaC) | 2:44 |
 
-Snapshot ID: `aRZxAAAAAAD5h3iluTaZJb23SgYyJ241`
+Snapshot ID: `aRfCgAAAAAC24ijXzRxRXpXmB6KECeCr`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 
 > The best rock songs of the moment\. Cover: Jutes
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,568 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,560 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 61 | [Diamond In The Rough \(feat\. Marty Friedman\)](https://open.spotify.com/track/09wFyfVHuZRDbeFqeKeutK) | [Danko Jones](https://open.spotify.com/artist/7CGoviGsNXYmGOBkXk8dtW), [Marty Friedman](https://open.spotify.com/artist/5czW6bitDSKbNBNDizRT9p) | [Diamond In The Rough](https://open.spotify.com/album/2sPtH5hMN0cH2ZHSfDLoIf) | 3:36 |
 | 62 | [Picture This](https://open.spotify.com/track/65E1yqHKUQ0Jc6u4QJ0wZY) | [Customer Service](https://open.spotify.com/artist/0qnFuGvRmnVs96UbsYmg4x) | [Picture This](https://open.spotify.com/album/5qVo7zKwNq8AlGrtCUdvFw) | 2:56 |
 | 63 | [End for a Start](https://open.spotify.com/track/2Bg0MIq5tFpnGoHnegzYQQ) | [Excuse Me.](https://open.spotify.com/artist/4dM5ORquq4Wp41hQaqZLy5) | [Time and Place](https://open.spotify.com/album/1RgatMw3hwSTEqouk7k9og) | 3:35 |
-| 64 | [Exit](https://open.spotify.com/track/4GbGKc3jakgK0AuU2MWHRB) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [Exit / Bitter, Bitter You](https://open.spotify.com/album/1fCc6uZ4bj9oxZDI5ncJWe) | 6:24 |
+| 64 | [Exit \- Marie Laveau Sessions](https://open.spotify.com/track/4GbGKc3jakgK0AuU2MWHRB) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [Exit / Bitter, Bitter You](https://open.spotify.com/album/1fCc6uZ4bj9oxZDI5ncJWe) | 6:24 |
 | 65 | [Wall](https://open.spotify.com/track/2u0Sv7w9CQCkJdViAoM5AX) | [Good Kid](https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP) | [Wall](https://open.spotify.com/album/7ufpxMS1NN9oKiQllWLZ1a) | 2:51 |
 | 66 | [Ties That Bind \(feat\. Courtney LaPlante of Spiritbox\)](https://open.spotify.com/track/75AOHT6wkAr1XzaXTZiK6o) | [2XKO](https://open.spotify.com/artist/2jexkdFS1qPCzcyeOqq2fq), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW), [Courtney LaPlante](https://open.spotify.com/artist/1g9j6GF1jyjrhixt3Vurzs), [Joe Ford](https://open.spotify.com/artist/32rwroseSEZ7dEwooAUikF) | [Ties That Bind \(feat\. Courtney LaPlante of Spiritbox\)](https://open.spotify.com/album/7KkQ2wX2VoNoEyFCfRzHwO) | 3:51 |
 | 67 | [Dementia](https://open.spotify.com/track/2lGVVw8dk9Az3riqrxvu7J) | [DoFlame](https://open.spotify.com/artist/4Ev5FYfYGBslgMqAqi2uNc), [DEAR\-GOD](https://open.spotify.com/artist/6Fnr4z4XxrLyioZquy1WhO) | [Neighbourhood Watch](https://open.spotify.com/album/0Epcs2rvJeqRqNR4UJYiGQ) | 2:13 |

@@ -1,6 +1,6 @@
 {
   "description": "Stay relaxed with these low-key beats and instrumentals.",
-  "num_followers": 1482366,
+  "num_followers": 1482323,
   "original_name": "Mellow Beats",
   "owner": {
     "name": "Spotify",
@@ -195,22 +195,6 @@
     {
       "added_at": "2025-11-11 06:19:32",
       "album": {
-        "name": "zero",
-        "url": "https://open.spotify.com/album/0nVdaf3JEWpctIcv0nyFQz"
-      },
-      "artists": [
-        {
-          "name": "invisible design",
-          "url": "https://open.spotify.com/artist/0PGLAS23Jf5WcA4xaCmxLM"
-        }
-      ],
-      "duration_ms": 147695,
-      "name": "zero",
-      "url": "https://open.spotify.com/track/3g8uAk8FFwlOlFp90Lwxw4"
-    },
-    {
-      "added_at": "2025-11-11 06:19:32",
-      "album": {
         "name": "Scene",
         "url": "https://open.spotify.com/album/6YcPnmN692PwIMCe7RcCor"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 192705,
       "name": "Moon",
       "url": "https://open.spotify.com/track/2XilllM3LNVQPvCrOX749W"
+    },
+    {
+      "added_at": "2025-11-11 06:19:32",
+      "album": {
+        "name": "zero",
+        "url": "https://open.spotify.com/album/0nVdaf3JEWpctIcv0nyFQz"
+      },
+      "artists": [
+        {
+          "name": "invisible design",
+          "url": "https://open.spotify.com/artist/0PGLAS23Jf5WcA4xaCmxLM"
+        }
+      ],
+      "duration_ms": 147695,
+      "name": "zero",
+      "url": "https://open.spotify.com/track/3g8uAk8FFwlOlFp90Lwxw4"
     },
     {
       "added_at": "2025-11-11 06:19:32",
@@ -283,22 +283,6 @@
     {
       "added_at": "2025-11-11 06:19:32",
       "album": {
-        "name": "BIG BLUE",
-        "url": "https://open.spotify.com/album/5N20fAevDwj4glrtlKdCzl"
-      },
-      "artists": [
-        {
-          "name": "Yakkle",
-          "url": "https://open.spotify.com/artist/3mjx8PSsyldIILTLtw2Nap"
-        }
-      ],
-      "duration_ms": 166392,
-      "name": "BIG BLUE",
-      "url": "https://open.spotify.com/track/5EWpiLgQ6WYrvp7DbYhj70"
-    },
-    {
-      "added_at": "2025-11-11 06:19:32",
-      "album": {
         "name": "Carefree",
         "url": "https://open.spotify.com/album/1t0tGWj576akBoj8m9VpXX"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 121833,
       "name": "Cove",
       "url": "https://open.spotify.com/track/5uRkzJn0E5snSTGcvfSegC"
+    },
+    {
+      "added_at": "2025-11-11 06:19:32",
+      "album": {
+        "name": "BIG BLUE",
+        "url": "https://open.spotify.com/album/5N20fAevDwj4glrtlKdCzl"
+      },
+      "artists": [
+        {
+          "name": "Yakkle",
+          "url": "https://open.spotify.com/artist/3mjx8PSsyldIILTLtw2Nap"
+        }
+      ],
+      "duration_ms": 166392,
+      "name": "BIG BLUE",
+      "url": "https://open.spotify.com/track/5EWpiLgQ6WYrvp7DbYhj70"
     },
     {
       "added_at": "2025-11-11 06:19:32",
@@ -391,22 +391,6 @@
     {
       "added_at": "2025-11-11 06:19:32",
       "album": {
-        "name": "Examples",
-        "url": "https://open.spotify.com/album/28SBlJC9xoNxZzxcBtHeOD"
-      },
-      "artists": [
-        {
-          "name": "Eric Lau",
-          "url": "https://open.spotify.com/artist/68P6JiHWJsv5VqfLPchS1n"
-        }
-      ],
-      "duration_ms": 128496,
-      "name": "Its Rainy",
-      "url": "https://open.spotify.com/track/3IH4y5nbL6mb9KR3QhgsfI"
-    },
-    {
-      "added_at": "2025-11-11 06:19:32",
-      "album": {
         "name": "Riverside",
         "url": "https://open.spotify.com/album/7eaALW3TZmoAcVqnS9KsMn"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 198466,
       "name": "Riverside",
       "url": "https://open.spotify.com/track/2SkheMmym933XZaCNukLkm"
+    },
+    {
+      "added_at": "2025-11-11 06:19:32",
+      "album": {
+        "name": "Examples",
+        "url": "https://open.spotify.com/album/28SBlJC9xoNxZzxcBtHeOD"
+      },
+      "artists": [
+        {
+          "name": "Eric Lau",
+          "url": "https://open.spotify.com/artist/68P6JiHWJsv5VqfLPchS1n"
+        }
+      ],
+      "duration_ms": 128496,
+      "name": "Its Rainy",
+      "url": "https://open.spotify.com/track/3IH4y5nbL6mb9KR3QhgsfI"
     },
     {
       "added_at": "2025-11-11 06:19:32",
@@ -635,26 +635,6 @@
     {
       "added_at": "2025-11-11 06:19:32",
       "album": {
-        "name": "Tangerine Hues",
-        "url": "https://open.spotify.com/album/78zuWk8ZgaMMLlTMtIMsT5"
-      },
-      "artists": [
-        {
-          "name": "Ameba",
-          "url": "https://open.spotify.com/artist/0YYVUJe2T4XdBza6Y0RA8P"
-        },
-        {
-          "name": "Flavors",
-          "url": "https://open.spotify.com/artist/6Amqc7UjJa19q4jrfAHA77"
-        }
-      ],
-      "duration_ms": 184346,
-      "name": "Tangerine Hues",
-      "url": "https://open.spotify.com/track/4fImJZBA2TopABdxAEg1in"
-    },
-    {
-      "added_at": "2025-11-11 06:19:32",
-      "album": {
         "name": "Cosmic",
         "url": "https://open.spotify.com/album/0Q413u4gUUGs8EKDe13hzs"
       },
@@ -679,22 +659,22 @@
     {
       "added_at": "2025-11-11 06:19:32",
       "album": {
-        "name": "On My Way Home (Blue Lab Beats Remix)",
-        "url": "https://open.spotify.com/album/5o3VQdQ5Mp8TZzKKDkZ1fI"
+        "name": "Tangerine Hues",
+        "url": "https://open.spotify.com/album/78zuWk8ZgaMMLlTMtIMsT5"
       },
       "artists": [
         {
-          "name": "Kan Sano",
-          "url": "https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9"
+          "name": "Ameba",
+          "url": "https://open.spotify.com/artist/0YYVUJe2T4XdBza6Y0RA8P"
         },
         {
-          "name": "Blue Lab Beats",
-          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
+          "name": "Flavors",
+          "url": "https://open.spotify.com/artist/6Amqc7UjJa19q4jrfAHA77"
         }
       ],
-      "duration_ms": 228485,
-      "name": "On My Way Home - Blue Lab Beats Remix",
-      "url": "https://open.spotify.com/track/7ysDqM3kH3U6YleSSIhWRc"
+      "duration_ms": 184346,
+      "name": "Tangerine Hues",
+      "url": "https://open.spotify.com/track/4fImJZBA2TopABdxAEg1in"
     },
     {
       "added_at": "2025-11-11 06:19:32",
@@ -715,6 +695,26 @@
       "duration_ms": 121320,
       "name": "Do the Right Thing",
       "url": "https://open.spotify.com/track/6jfThgv76n9FRzyZsPcthw"
+    },
+    {
+      "added_at": "2025-11-11 06:19:32",
+      "album": {
+        "name": "On My Way Home (Blue Lab Beats Remix)",
+        "url": "https://open.spotify.com/album/5o3VQdQ5Mp8TZzKKDkZ1fI"
+      },
+      "artists": [
+        {
+          "name": "Kan Sano",
+          "url": "https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9"
+        },
+        {
+          "name": "Blue Lab Beats",
+          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
+        }
+      ],
+      "duration_ms": 228485,
+      "name": "On My Way Home - Blue Lab Beats Remix",
+      "url": "https://open.spotify.com/track/7ysDqM3kH3U6YleSSIhWRc"
     },
     {
       "added_at": "2025-11-11 06:19:32",
@@ -755,6 +755,22 @@
     {
       "added_at": "2025-11-11 06:19:32",
       "album": {
+        "name": "busking",
+        "url": "https://open.spotify.com/album/5n3Tv4OXiCOqMA9Tcazwhq"
+      },
+      "artists": [
+        {
+          "name": "_tag",
+          "url": "https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi"
+        }
+      ],
+      "duration_ms": 140714,
+      "name": "busking",
+      "url": "https://open.spotify.com/track/6hBofveV7cUFOSuUB9RQjk"
+    },
+    {
+      "added_at": "2025-11-11 06:19:32",
+      "album": {
         "name": "Syn Fonia I",
         "url": "https://open.spotify.com/album/0LprKxhCl7cBBkQHzBbWRU"
       },
@@ -775,18 +791,18 @@
     {
       "added_at": "2025-11-11 06:19:32",
       "album": {
-        "name": "busking",
-        "url": "https://open.spotify.com/album/5n3Tv4OXiCOqMA9Tcazwhq"
+        "name": "Raincoat",
+        "url": "https://open.spotify.com/album/7iLneP4wYzv8Eb1PBavn9o"
       },
       "artists": [
         {
-          "name": "_tag",
-          "url": "https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi"
+          "name": "Shingo Sekiguchi",
+          "url": "https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9"
         }
       ],
-      "duration_ms": 140714,
-      "name": "busking",
-      "url": "https://open.spotify.com/track/6hBofveV7cUFOSuUB9RQjk"
+      "duration_ms": 204000,
+      "name": "Raincoat",
+      "url": "https://open.spotify.com/track/2RfOBk0HoyAKNQMX6gWbDW"
     },
     {
       "added_at": "2025-11-11 06:19:32",
@@ -807,22 +823,6 @@
     {
       "added_at": "2025-11-11 06:19:32",
       "album": {
-        "name": "Raincoat",
-        "url": "https://open.spotify.com/album/7iLneP4wYzv8Eb1PBavn9o"
-      },
-      "artists": [
-        {
-          "name": "Shingo Sekiguchi",
-          "url": "https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Raincoat",
-      "url": "https://open.spotify.com/track/2RfOBk0HoyAKNQMX6gWbDW"
-    },
-    {
-      "added_at": "2025-11-11 06:19:32",
-      "album": {
         "name": "Next to Nothing (Instrumental)",
         "url": "https://open.spotify.com/album/3rLvFBULjCUBLKmiB7zYB2"
       },
@@ -835,6 +835,22 @@
       "duration_ms": 110500,
       "name": "Next to Nothing - Instrumental",
       "url": "https://open.spotify.com/track/4oVvF4NSVB48GXqpQU5d0T"
+    },
+    {
+      "added_at": "2025-11-11 06:19:32",
+      "album": {
+        "name": "Beats On Boat: Hazy Year",
+        "url": "https://open.spotify.com/album/4VjNePQ8xCBre4qFegkm7U"
+      },
+      "artists": [
+        {
+          "name": "Hazy Year",
+          "url": "https://open.spotify.com/artist/1FtS4zSQaKNwJDXcXWX9CD"
+        }
+      ],
+      "duration_ms": 167926,
+      "name": "Notes",
+      "url": "https://open.spotify.com/track/6vUGOgzxH4Pi54xXvXslNV"
     },
     {
       "added_at": "2025-11-11 06:19:32",
@@ -855,22 +871,6 @@
       "duration_ms": 162324,
       "name": "Primo",
       "url": "https://open.spotify.com/track/2uCgOs0VUkQYlnXtfi4uuK"
-    },
-    {
-      "added_at": "2025-11-11 06:19:32",
-      "album": {
-        "name": "Beats On Boat: Hazy Year",
-        "url": "https://open.spotify.com/album/4VjNePQ8xCBre4qFegkm7U"
-      },
-      "artists": [
-        {
-          "name": "Hazy Year",
-          "url": "https://open.spotify.com/artist/1FtS4zSQaKNwJDXcXWX9CD"
-        }
-      ],
-      "duration_ms": 167926,
-      "name": "Notes",
-      "url": "https://open.spotify.com/track/6vUGOgzxH4Pi54xXvXslNV"
     },
     {
       "added_at": "2025-11-11 06:19:32",
@@ -991,22 +991,6 @@
     {
       "added_at": "2025-11-11 06:19:32",
       "album": {
-        "name": "Seseragi",
-        "url": "https://open.spotify.com/album/2JD5d2OCXxL5Cwt9x3jD6z"
-      },
-      "artists": [
-        {
-          "name": "ORANCHA",
-          "url": "https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp"
-        }
-      ],
-      "duration_ms": 157777,
-      "name": "Seseragi",
-      "url": "https://open.spotify.com/track/4ANIuRARV6NUZQ8funtPBA"
-    },
-    {
-      "added_at": "2025-11-11 06:19:32",
-      "album": {
         "name": "Whatsreal",
         "url": "https://open.spotify.com/album/0orlhyvabLSgFZMzDAoy0T"
       },
@@ -1043,26 +1027,18 @@
     {
       "added_at": "2025-11-11 06:19:32",
       "album": {
-        "name": "Hip Shop",
-        "url": "https://open.spotify.com/album/0KRl72v3V3cZHeGVlRqDvC"
+        "name": "Seseragi",
+        "url": "https://open.spotify.com/album/2JD5d2OCXxL5Cwt9x3jD6z"
       },
       "artists": [
         {
-          "name": "Coffee Date",
-          "url": "https://open.spotify.com/artist/74ZWzuwsxGAt05s2sWtq0j"
-        },
-        {
-          "name": "Curly",
-          "url": "https://open.spotify.com/artist/4AE4o0hck4magAI2urzzlh"
-        },
-        {
-          "name": "GameChops",
-          "url": "https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp"
+          "name": "ORANCHA",
+          "url": "https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp"
         }
       ],
-      "duration_ms": 123008,
-      "name": "Hip Shop",
-      "url": "https://open.spotify.com/track/169xT0Be1P2Hgjd9hq5Lk1"
+      "duration_ms": 157777,
+      "name": "Seseragi",
+      "url": "https://open.spotify.com/track/4ANIuRARV6NUZQ8funtPBA"
     },
     {
       "added_at": "2025-11-11 06:19:32",
@@ -1083,6 +1059,30 @@
       "duration_ms": 269474,
       "name": "ADAM & EVE - Instrumental",
       "url": "https://open.spotify.com/track/3zSLn3yfCLqlcVibx9zqwv"
+    },
+    {
+      "added_at": "2025-11-11 06:19:32",
+      "album": {
+        "name": "Hip Shop",
+        "url": "https://open.spotify.com/album/0KRl72v3V3cZHeGVlRqDvC"
+      },
+      "artists": [
+        {
+          "name": "Coffee Date",
+          "url": "https://open.spotify.com/artist/74ZWzuwsxGAt05s2sWtq0j"
+        },
+        {
+          "name": "Curly",
+          "url": "https://open.spotify.com/artist/4AE4o0hck4magAI2urzzlh"
+        },
+        {
+          "name": "GameChops",
+          "url": "https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp"
+        }
+      ],
+      "duration_ms": 123008,
+      "name": "Hip Shop",
+      "url": "https://open.spotify.com/track/169xT0Be1P2Hgjd9hq5Lk1"
     },
     {
       "added_at": "2025-11-11 06:19:32",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2025-11-11 06:19:32",
       "album": {
+        "name": "Lucent",
+        "url": "https://open.spotify.com/album/2Egb08QJgAFtk3SwQvrPeI"
+      },
+      "artists": [
+        {
+          "name": "Nathan Kawanishi",
+          "url": "https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe"
+        }
+      ],
+      "duration_ms": 165189,
+      "name": "Lucent",
+      "url": "https://open.spotify.com/track/0fxgkethwdMKcH3AAeOBIZ"
+    },
+    {
+      "added_at": "2025-11-11 06:19:32",
+      "album": {
         "name": "Sakura Bloom",
         "url": "https://open.spotify.com/album/5Dz1PR8PLIh6MwS9w3ORLM"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 122105,
       "name": "Sakura Bloom",
       "url": "https://open.spotify.com/track/4iDljp0M9qJ5bV7Q9YwKIz"
-    },
-    {
-      "added_at": "2025-11-11 06:19:32",
-      "album": {
-        "name": "Lucent",
-        "url": "https://open.spotify.com/album/2Egb08QJgAFtk3SwQvrPeI"
-      },
-      "artists": [
-        {
-          "name": "Nathan Kawanishi",
-          "url": "https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe"
-        }
-      ],
-      "duration_ms": 165189,
-      "name": "Lucent",
-      "url": "https://open.spotify.com/track/0fxgkethwdMKcH3AAeOBIZ"
     },
     {
       "added_at": "2025-11-11 06:19:32",
@@ -1447,22 +1447,18 @@
     {
       "added_at": "2025-11-11 06:19:32",
       "album": {
-        "name": "Colibri",
-        "url": "https://open.spotify.com/album/1PiE5MBRBD0fSuXETvn81S"
+        "name": "Night Step",
+        "url": "https://open.spotify.com/album/5NKwXKL1deztn3vmc7E7Ki"
       },
       "artists": [
         {
-          "name": "NOA NOA",
-          "url": "https://open.spotify.com/artist/1PXxhTpoWDxbQKCpEgUev0"
-        },
-        {
-          "name": "Iori Kimura",
-          "url": "https://open.spotify.com/artist/3uaby7kqnBFvf4mXlPjrvO"
+          "name": "Wataru Fujiwara",
+          "url": "https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP"
         }
       ],
-      "duration_ms": 212000,
-      "name": "Colibri",
-      "url": "https://open.spotify.com/track/1QxAi7Vgm10DBiLij4dGnZ"
+      "duration_ms": 150857,
+      "name": "Night Step",
+      "url": "https://open.spotify.com/track/7wzdW1urmtdQZk4KQBOtX8"
     },
     {
       "added_at": "2025-11-11 06:19:32",

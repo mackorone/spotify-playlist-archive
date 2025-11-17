@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > Songs that are 100% written, produced, and performed by Women! Co\-Curated this month by:  <a href="spotify:playlist:37i9dQZF1EFR1U4quwaERH"> Blush </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,506 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,517 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 49 | [Somebody Like That](https://open.spotify.com/track/4K7wet87HnlWKi0CXWvg1i) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Love,Heartbreak, & Everything in Between](https://open.spotify.com/album/478FbS6cYoaEYreO0H4YOx) | 3:18 |
 | 50 | [Sound of Your Voice](https://open.spotify.com/track/79EPrcuYKoky4lG3BvmzCy) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [The Mirror Talk EP](https://open.spotify.com/album/5iVjJgRq6O9s0VguOtHFox) | 3:02 |
 
-Snapshot ID: `AAAAACqaioxKDUOLxxXL2VJb4667wzEz`
+Snapshot ID: `AAAAANsqMykcoQrSPBCT6p6OJIQy1XqK`

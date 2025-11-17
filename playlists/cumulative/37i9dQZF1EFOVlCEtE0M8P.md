@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0j0VkkLGXceKjMIWL6htE1">Jennifer Decilveo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-311 songs - 18 hr 3 min
+314 songs - 18 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Almost In Love](https://open.spotify.com/track/2BYXQtJVwUU3RXu5IXyYqB) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [It Was A Sad Fucking Summer](https://open.spotify.com/album/3E3BHUrEHQodei0Mtwjtmi) | 3:25 | 2024-03-07 |  |
 | [Always](https://open.spotify.com/track/00f9bVD0cVpRK0V9DnCVoF) | [Matt Wills](https://open.spotify.com/artist/5tECdXibmWAxONygvS9ktT) | [Cigarettes & City Lights](https://open.spotify.com/album/7a5sQmXXnUANreLelj7OFe) | 3:49 | 2024-03-07 |  |
 | [Angel](https://open.spotify.com/track/2qJkesdHu9sMMVFgkRkqhQ) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Savages](https://open.spotify.com/album/6SfhyLVugAsXYDvs966WBn) | 3:22 | 2024-03-07 |  |
+| [Around The Bend](https://open.spotify.com/track/4VxQgqHAHyh5FXWCSeJrTj) | [Picture Parlour](https://open.spotify.com/artist/0lGEUAqbgX8yeEGIWjY9eV) | [The Parlour](https://open.spotify.com/album/2XObMLdXaVSIKCL6fLjtVs) | 4:08 | 2025-11-16 |  |
 | [Ashes](https://open.spotify.com/track/2FPZFg04VyVdHx6UsDJUrt) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Memory Of A Day](https://open.spotify.com/album/4H1TE5m2eltLhVKVuB53b1) | 4:02 | 2024-10-24 |  |
 | [Attached To You](https://open.spotify.com/track/2KCMKqK2hFvUiio8pzuHRC) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [In Search Of The Antidote](https://open.spotify.com/album/1ZXvAPiGoqDXWsLHd3oZ8Q) | 2:36 | 2024-03-24 |  |
 | [Bad for You](https://open.spotify.com/track/68njXuc0Fj7kzR70Ad0Wav) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [School Nights](https://open.spotify.com/album/44u4QMvReXg0lhHl9xARxu) | 3:52 | 2024-03-07 |  |
@@ -43,7 +44,8 @@
 | [Brave](https://open.spotify.com/track/4Nslo8dwYV7tsnLtGDX63B) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Everything I Didn’t Say](https://open.spotify.com/album/7sb53RUF8x70PzjPmDxF0Q) | 3:21 | 2024-03-07 |  |
 | [Bulletproof](https://open.spotify.com/track/0dmjr5pZZnUq7Cfcvz8mfz) | [Victoria Duffield](https://open.spotify.com/artist/6J2Mlo8s6JMsJQr35ulpvI) | [Accelerate](https://open.spotify.com/album/56awP1qtGRq7w0REJbPBAE) | 3:55 | 2024-03-07 |  |
 | [Bump](https://open.spotify.com/track/2AvoLwHjA39pO6R5W0dl0E) | [Erose](https://open.spotify.com/artist/3nTWNq4d2PshG3F70A8zg8) | [Unrealistic](https://open.spotify.com/album/7DJ38rShyy5odFN0uT9C8i) | 2:34 | 2024-03-07 |  |
-| [Burn Me With A Bible](https://open.spotify.com/track/14axJIbe94zBTuMQAmS873) | [VIOLENT VIRA](https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S) | [Burn Me With A Bible](https://open.spotify.com/album/0x4sJF4h5ESw23g1eIsnfi) | 4:05 | 2025-07-29 |  |
+| [Burn Me With A Bible](https://open.spotify.com/track/14axJIbe94zBTuMQAmS873) | [VIOLENT VIRA](https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S) | [Burn Me With A Bible](https://open.spotify.com/album/0x4sJF4h5ESw23g1eIsnfi) | 4:05 | 2025-07-29 | 2025-11-17 |
+| [Burn Me With A Bible](https://open.spotify.com/track/3Pur5ZFRlDmKhg67Y7i6Op) | [VIOLENT VIRA](https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S) | [Lover Of A Ghost](https://open.spotify.com/album/4HM2Cd3zXHgiRVrdpV1Kwr) | 4:05 | 2025-11-16 |  |
 | [Call](https://open.spotify.com/track/0GCD5WOLFUVJMujQOWUrs3) | [wens](https://open.spotify.com/artist/0QcblRyHbgYTLOKlP5BE66) | [Call](https://open.spotify.com/album/76C2FYAWtNCxBeKWyi85Fz) | 3:30 | 2024-03-07 |  |
 | [Can I Get Your Number](https://open.spotify.com/track/1iKNUT49vEZclAMhCF679I) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Summer Soft Pop](https://open.spotify.com/album/1WjxZDaOxroOkVeSngwdcM) | 3:20 | 2025-08-18 | 2025-08-21 |
 | [Can I Get Your Number](https://open.spotify.com/track/6jrjTqvniDSdk0jQPrdPIu) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Speak Your Mind \(Deluxe\)](https://open.spotify.com/album/7lPoGKpCGgdKFAxpudhAH5) | 3:20 | 2024-03-07 |  |
@@ -247,7 +249,8 @@
 | [Rose Garden](https://open.spotify.com/track/3iDx3DfuNqVmhlpgd6gY7N) | [Rae Morris](https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst) | [Someone Out There](https://open.spotify.com/album/3h30Uo7ctjnKADgYzcUj40) | 3:56 | 2024-03-07 |  |
 | [roses in the rain](https://open.spotify.com/track/2MStHylyE3Vk4vMHVfmNtt) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [a lighter shade of blue](https://open.spotify.com/album/7HEHgvui9j8u79SCn80tbq) | 2:35 | 2024-03-07 |  |
 | [roses in the rain \(lullaby\)](https://open.spotify.com/track/6LYBomYZljvsHKV2rLA3Vs) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [songs for rosie](https://open.spotify.com/album/3FeFO08zreGyZWTDYP9hKo) | 2:26 | 2024-03-07 |  |
-| [Saccharine](https://open.spotify.com/track/1NiPI7ATyw4ZwI2b858XrT) | [VIOLENT VIRA](https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S) | [Saccharine](https://open.spotify.com/album/4JKSFwpmyXKYnSdplEcKXz) | 3:12 | 2025-02-14 |  |
+| [Saccharine](https://open.spotify.com/track/3J65NAYTuI4Bijum16hRTz) | [VIOLENT VIRA](https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S) | [Lover Of A Ghost](https://open.spotify.com/album/4HM2Cd3zXHgiRVrdpV1Kwr) | 3:12 | 2025-11-16 |  |
+| [Saccharine](https://open.spotify.com/track/1NiPI7ATyw4ZwI2b858XrT) | [VIOLENT VIRA](https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S) | [Saccharine](https://open.spotify.com/album/4JKSFwpmyXKYnSdplEcKXz) | 3:12 | 2025-02-14 | 2025-11-17 |
 | [Sail On](https://open.spotify.com/track/5NDRTL8mInUZHpWRQz72Jx) | [Ryn Weaver](https://open.spotify.com/artist/2MuFzH1J5I6gGFYo2qhZmX) | [The Fool](https://open.spotify.com/album/4967HGjmvsMtcOZ3AaPfI4) | 3:46 | 2024-03-07 |  |
 | [Same Things](https://open.spotify.com/track/33yIAwDfHOcyB9pz8uvjAf) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD), [Gabrielle Current](https://open.spotify.com/artist/7efkoQb7dW8884GCnykYKW) | [Laps](https://open.spotify.com/album/5QWoAS89O3VclOrdfGR4If) | 3:54 | 2024-03-07 |  |
 | [Save Me](https://open.spotify.com/track/2MqSIyClHdLr3qCpttt5Re) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Sugar Water](https://open.spotify.com/album/2T17eNpNaZjeuDFcW3Mgfs) | 3:43 | 2024-12-20 |  |

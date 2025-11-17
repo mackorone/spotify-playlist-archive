@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Hidden Empire
 
-[Spotify](https://open.spotify.com/user/spotify) - 731,689 likes - 90 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 731,774 likes - 90 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

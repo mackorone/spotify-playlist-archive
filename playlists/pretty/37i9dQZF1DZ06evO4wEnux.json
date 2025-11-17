@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRZxAAAAAAAarWT6VdrJr33pqgHOEiJS",
+  "snapshot_id": "aRfCgAAAAACBnEO8XzOLkt46nxphvF+F",
   "tracks": [
     {
       "added_at": null,
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
         }
       ],
-      "duration_ms": 257213,
-      "name": "Better Friend",
-      "url": "https://open.spotify.com/track/0NVQtZQNg1m8uNE5NIKDaG"
+      "duration_ms": 185266,
+      "name": "Love For Air",
+      "url": "https://open.spotify.com/track/0g2yvHffU81zq8kENgILCZ"
     },
     {
       "added_at": null,
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
         }
       ],
-      "duration_ms": 185266,
-      "name": "Love For Air",
-      "url": "https://open.spotify.com/track/0g2yvHffU81zq8kENgILCZ"
+      "duration_ms": 257213,
+      "name": "Better Friend",
+      "url": "https://open.spotify.com/track/0NVQtZQNg1m8uNE5NIKDaG"
     },
     {
       "added_at": null,
@@ -383,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Afterwords",
-        "url": "https://open.spotify.com/album/5qxhSY3SgCnFLaMQYtOF4R"
-      },
-      "artists": [
-        {
-          "name": "Fatherson",
-          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
-        }
-      ],
-      "duration_ms": 268777,
-      "name": "Afterwords",
-      "url": "https://open.spotify.com/track/7Jp5JCzWgFBHrpJGQI0gzu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Am an Island",
         "url": "https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 194919,
       "name": "An Island",
       "url": "https://open.spotify.com/track/677aexYSCY66OqFPoVhA57"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Afterwords",
+        "url": "https://open.spotify.com/album/5qxhSY3SgCnFLaMQYtOF4R"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "duration_ms": 268777,
+      "name": "Afterwords",
+      "url": "https://open.spotify.com/track/7Jp5JCzWgFBHrpJGQI0gzu"
     },
     {
       "added_at": null,

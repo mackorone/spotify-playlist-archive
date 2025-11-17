@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: Ski Aggu, GDA
 
-[Spotify](https://open.spotify.com/user/spotify) - 486,370 likes - 98 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 486,280 likes - 98 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

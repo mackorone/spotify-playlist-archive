@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Wi1FLcqmkfe8LZa5QxrSA">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-559 songs - 1 day 7 hr 50 min
+560 songs - 1 day 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -494,7 +494,8 @@
 | [This Is Real \(ft\. Ella Henderson\)](https://open.spotify.com/track/1pRShUtGOG6ZP5fsnw9G4h) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Snacks \(Supersize\)](https://open.spotify.com/album/4p2j0vmXiz57RWkipyrMZt) | 3:19 | 2022-09-08 |  |
 | [Through The Night \(feat\. 220 KID\)](https://open.spotify.com/track/6WJaPzHfbfomchPuCNSjli) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs) | [Only Honest On The Weekend](https://open.spotify.com/album/2LWAzUYdZSUq0fW8ddbL1Q) | 2:48 | 2022-10-02 |  |
 | [Throwback \(with Crazy Cousinz\)](https://open.spotify.com/track/2iBm8zv7d3qUKphL0FgVog) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [Crazy Cousinz](https://open.spotify.com/artist/6VXB0WH4MfmhZyongoEYZr) | [Throwback \(with Crazy Cousinz\)](https://open.spotify.com/album/28yED9i2j4hJHx4NPlRSXP) | 3:07 | 2022-09-08 |  |
-| [Time](https://open.spotify.com/track/5HURgdoecQUfOxXPLHnTje) | [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS) | [Homeward Bound](https://open.spotify.com/album/4dnV2SIeaxSpNqNY2TC9QZ) | 3:46 | 2022-09-08 |  |
+| [Time](https://open.spotify.com/track/4IXo4QEaA0C5L1gmwcoLs6) | [Mali](https://open.spotify.com/artist/44hC0isoN7FTViV4xB4VsD) | [Time](https://open.spotify.com/album/3AnHWPc0t69do84olU1b7b) | 3:00 | 2025-11-16 |  |
+| [Time](https://open.spotify.com/track/5HURgdoecQUfOxXPLHnTje) | [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS) | [Homeward Bound](https://open.spotify.com/album/4dnV2SIeaxSpNqNY2TC9QZ) | 3:46 | 2022-09-08 | 2025-11-17 |
 | [To the Beat of My Heart](https://open.spotify.com/track/1lcE1GgtyR2zHW3TeOnZYG) | [Steps](https://open.spotify.com/artist/17UkABEasVRlCcIFZ3wHb7) | [What the Future Holds](https://open.spotify.com/album/1DcWbwQxPayKv0pcpbNEbA) | 3:10 | 2022-09-08 | 2023-12-14 |
 | [To the Beat of My Heart](https://open.spotify.com/track/4JOHBumJdBCUgsMth9XvPW) | [Steps](https://open.spotify.com/artist/17UkABEasVRlCcIFZ3wHb7) | [What the Future Holds](https://open.spotify.com/album/7MfKuIWBxHdGuyt8HJbdPz) | 3:10 | 2025-01-15 |  |
 | [To the Beat of My Heart](https://open.spotify.com/track/3OPrWU05xzSlV3tau3b7C1) | [Steps](https://open.spotify.com/artist/17UkABEasVRlCcIFZ3wHb7) | [Platinum Collection](https://open.spotify.com/album/6RsefRivaKdO1XgeRfIUHv) | 3:10 | 2023-12-13 | 2025-01-16 |

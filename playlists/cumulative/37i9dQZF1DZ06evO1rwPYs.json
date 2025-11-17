@@ -1665,6 +1665,28 @@
     },
     {
       "album": {
+        "name": "Las Pilanderas",
+        "url": "https://open.spotify.com/album/2kvrc2ZZCGcmjOxgrX44Ma"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Cepeda",
+          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199666,
+      "name": "Las Pilanderas",
+      "url": "https://open.spotify.com/track/7xXOh3KqSjkTmO2h9SjGWJ"
+    },
+    {
+      "album": {
         "name": "Celia y Willie",
         "url": "https://open.spotify.com/album/3dIsd8OhzKeonnCSV6VdWS"
       },
@@ -2164,7 +2186,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-17",
       "duration_ms": 272251,
       "name": "Oye C\u00f3mo Va",
       "url": "https://open.spotify.com/track/3a5UozLKx9KIg5XeinOiYr"
@@ -2819,6 +2841,24 @@
     },
     {
       "album": {
+        "name": "Az\u00facar Negra",
+        "url": "https://open.spotify.com/album/2bAGL36bY6yZluv8vGZeIt"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249053,
+      "name": "Te Busco",
+      "url": "https://open.spotify.com/track/48Gf2B6wbTpnQB0m3GCmRi"
+    },
+    {
+      "album": {
         "name": "Para La Eternidad",
         "url": "https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB"
       },
@@ -2830,7 +2870,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-17",
       "duration_ms": 249120,
       "name": "Te Busco",
       "url": "https://open.spotify.com/track/5AuS5Nk1vs2vJNPlwB04F1"

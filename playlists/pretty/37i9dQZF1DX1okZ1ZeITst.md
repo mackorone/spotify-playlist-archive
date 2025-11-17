@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1okZ1ZeITst.md) - [plain]
 
 > Discover Disney songs to sing along to, including songs from the Descendants/Zombies: Worlds Collide Tour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,113,918 likes - 82 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,114,032 likes - 82 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1765,6 +1765,28 @@
     },
     {
       "album": {
+        "name": "everything is a lot.",
+        "url": "https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "BNYX\u00ae",
+          "url": "https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG"
+        }
+      ],
+      "date_added": "2025-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142784,
+      "name": "Mirroronnabenz (with BNYX\u00ae)",
+      "url": "https://open.spotify.com/track/3ikj0rG6sX4GF5Ckv7wkFA"
+    },
+    {
+      "album": {
         "name": "Mirroronnabenz",
         "url": "https://open.spotify.com/album/38mqpaec0dbvLDMiX6Jjox"
       },
@@ -1780,7 +1802,7 @@
       ],
       "date_added": "2025-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-17",
       "duration_ms": 142784,
       "name": "Mirroronnabenz (with BNYX\u00ae)",
       "url": "https://open.spotify.com/track/5Vip1MOeAfQ5weKGYBXpI0"

@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBfictkn2KG8.md) - [plain]
 | 37 | [How To Stop It](https://open.spotify.com/track/1C1zYsvtEw9nROGnQL40wh) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [How To Stop It](https://open.spotify.com/album/1x880PZgDNpeG3M67BmCpX) | 2:44 |
 | 38 | [Always on the Run](https://open.spotify.com/track/4CTV9ktno6pAyLA56aG0NA) | [Lucas Hamming](https://open.spotify.com/artist/4iDpNIlF0YzksZ35iQf196) | [Luck Is for Suckers](https://open.spotify.com/album/4i1uCBh9i5Pfy6hDkvbHw1) | 3:45 |
 | 39 | [Taking It Slowly](https://open.spotify.com/track/37hjpeTAswbMzp978oGBg5) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Taking It Slowly](https://open.spotify.com/album/5dnZeCPifLReZQrKMtRBbc) | 2:34 |
-| 40 | [GOAT](https://open.spotify.com/track/0ACNb58uJrEqNlZXmNVyDf) | [SØBER](https://open.spotify.com/artist/5h52qlTPK4S2ZrQj69Q2B5), [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0), [Carston](https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6) | [GOAT](https://open.spotify.com/album/2u7zWNBAM8cCqVDRdb7sLd) | 2:22 |
-| 41 | [Paris and Rome](https://open.spotify.com/track/1JMh5BJOU5GIScZWWJIs62) | [Yearboox](https://open.spotify.com/artist/53k0HFVDEcC0Qobdnw30TM) | [Paris and Rome](https://open.spotify.com/album/394U7G9ohgXJF8Lm1sQwFh) | 1:58 |
+| 40 | [Paris and Rome](https://open.spotify.com/track/1JMh5BJOU5GIScZWWJIs62) | [Yearboox](https://open.spotify.com/artist/53k0HFVDEcC0Qobdnw30TM) | [Paris and Rome](https://open.spotify.com/album/394U7G9ohgXJF8Lm1sQwFh) | 1:58 |
+| 41 | [GOAT](https://open.spotify.com/track/0ACNb58uJrEqNlZXmNVyDf) | [SØBER](https://open.spotify.com/artist/5h52qlTPK4S2ZrQj69Q2B5), [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0), [Carston](https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6) | [GOAT](https://open.spotify.com/album/2u7zWNBAM8cCqVDRdb7sLd) | 2:22 |
 | 42 | [Best Days](https://open.spotify.com/track/1hlVq4qDWAbk5daRO8c8nY) | [Max Hurrell](https://open.spotify.com/artist/0MekCsZ593nZDsPIts2wkd), [Bk](https://open.spotify.com/artist/2ZXi5gHD72bz9mdRBaVgOT) | [Best Days](https://open.spotify.com/album/0MNwcjq8gOTy2BOsKGiXEn) | 3:08 |
 | 43 | [Remedy](https://open.spotify.com/track/5qlTVVj7HjwEWBuAyIdGEy) | [OYADI](https://open.spotify.com/artist/3oIZUzAdCrbsm30GIleFvs) | [Remedy](https://open.spotify.com/album/3WEVoOmB0XKyNzDL4cvvZE) | 3:00 |
 
-Snapshot ID: `AcBr3AAAAAABE1DRE4NQ++vQ55SU3ZiH`
+Snapshot ID: `AcBxfAAAAACN9cPWyAymHlPuScTvWyUB`

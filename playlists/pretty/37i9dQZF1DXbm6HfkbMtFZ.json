@@ -1,6 +1,6 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 828804,
+  "num_followers": 828883,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
@@ -383,6 +383,22 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
+        "name": "Sugar at the Gate",
+        "url": "https://open.spotify.com/album/1alrC2sUf5sRGSvCV8I6Qh"
+      },
+      "artists": [
+        {
+          "name": "TOPS",
+          "url": "https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9"
+        }
+      ],
+      "duration_ms": 174535,
+      "name": "Petals",
+      "url": "https://open.spotify.com/track/3Z6HMD0zTxTUqrmh9ZoIib"
+    },
+    {
+      "added_at": "2025-10-24 22:16:10",
+      "album": {
         "name": "Anticipate",
         "url": "https://open.spotify.com/album/1hy99Geeqk41ERKiyLz0b1"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 189284,
       "name": "Anticipate",
       "url": "https://open.spotify.com/track/6MGDifi2vBHgHLpqCUmX16"
-    },
-    {
-      "added_at": "2025-10-24 22:16:10",
-      "album": {
-        "name": "Sugar at the Gate",
-        "url": "https://open.spotify.com/album/1alrC2sUf5sRGSvCV8I6Qh"
-      },
-      "artists": [
-        {
-          "name": "TOPS",
-          "url": "https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9"
-        }
-      ],
-      "duration_ms": 174535,
-      "name": "Petals",
-      "url": "https://open.spotify.com/track/3Z6HMD0zTxTUqrmh9ZoIib"
     },
     {
       "added_at": "2025-10-24 22:16:10",
@@ -719,6 +719,22 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
+        "name": "Anne, If",
+        "url": "https://open.spotify.com/album/1yfivCG34it3wTbqsbNlBX"
+      },
+      "artists": [
+        {
+          "name": "GHOSTWOMAN",
+          "url": "https://open.spotify.com/artist/4IEpQR24sUgq6BQw2MdZIy"
+        }
+      ],
+      "duration_ms": 191451,
+      "name": "The End of a Gun",
+      "url": "https://open.spotify.com/track/6LXQQXcSOcQ7ohdfR2tqC5"
+    },
+    {
+      "added_at": "2025-10-24 22:16:10",
+      "album": {
         "name": "Water Your Garden",
         "url": "https://open.spotify.com/album/0r0l3PRmsPwylAZQM16e7a"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 169333,
       "name": "Water Your Garden",
       "url": "https://open.spotify.com/track/0CVaDx0YP1nMwZd1eg88cX"
-    },
-    {
-      "added_at": "2025-10-24 22:16:10",
-      "album": {
-        "name": "Anne, If",
-        "url": "https://open.spotify.com/album/1yfivCG34it3wTbqsbNlBX"
-      },
-      "artists": [
-        {
-          "name": "GHOSTWOMAN",
-          "url": "https://open.spotify.com/artist/4IEpQR24sUgq6BQw2MdZIy"
-        }
-      ],
-      "duration_ms": 191451,
-      "name": "The End of a Gun",
-      "url": "https://open.spotify.com/track/6LXQQXcSOcQ7ohdfR2tqC5"
     },
     {
       "added_at": "2025-10-24 22:16:10",
@@ -795,22 +795,6 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
-        "name": "Wanted Bossa Nova: From Diggers to Music Lovers",
-        "url": "https://open.spotify.com/album/78QZeFmsqxeoh5BBDfmYRs"
-      },
-      "artists": [
-        {
-          "name": "Salinas",
-          "url": "https://open.spotify.com/artist/6qyOdseTD2phSLMwXPohSk"
-        }
-      ],
-      "duration_ms": 156537,
-      "name": "Tenha F\u00e9, Pois Amanh\u00e3 um Lindo Dia Vai Nascer",
-      "url": "https://open.spotify.com/track/6gq1nXRbVZYcOxtG20uC2t"
-    },
-    {
-      "added_at": "2025-10-24 22:16:10",
-      "album": {
         "name": "Miel de Montagne",
         "url": "https://open.spotify.com/album/0IOiwcIywlRenbyorrUzJO"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 189776,
       "name": "Permis b b\u00e9b\u00e9",
       "url": "https://open.spotify.com/track/1U3UL6FsYc2mcAQwWyYrn2"
+    },
+    {
+      "added_at": "2025-10-24 22:16:10",
+      "album": {
+        "name": "Wanted Bossa Nova: From Diggers to Music Lovers",
+        "url": "https://open.spotify.com/album/78QZeFmsqxeoh5BBDfmYRs"
+      },
+      "artists": [
+        {
+          "name": "Salinas",
+          "url": "https://open.spotify.com/artist/6qyOdseTD2phSLMwXPohSk"
+        }
+      ],
+      "duration_ms": 156537,
+      "name": "Tenha F\u00e9, Pois Amanh\u00e3 um Lindo Dia Vai Nascer",
+      "url": "https://open.spotify.com/track/6gq1nXRbVZYcOxtG20uC2t"
     },
     {
       "added_at": "2025-10-24 22:16:10",
@@ -843,22 +843,6 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
-        "name": "Los Belkings (Ayer y Hoy)",
-        "url": "https://open.spotify.com/album/3vvNY1JAizDCAnMnxUTZie"
-      },
-      "artists": [
-        {
-          "name": "Los Belkings",
-          "url": "https://open.spotify.com/artist/6bI3v3BkqFwEbXQfB081Dn"
-        }
-      ],
-      "duration_ms": 208213,
-      "name": "Sabor Dulce",
-      "url": "https://open.spotify.com/track/2Xlx1ATkGYjYjmNn0w7O59"
-    },
-    {
-      "added_at": "2025-10-24 22:16:10",
-      "album": {
         "name": "The Sun",
         "url": "https://open.spotify.com/album/4bIKzeSEz3WAgyo7NYG0SJ"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 248526,
       "name": "The Sun",
       "url": "https://open.spotify.com/track/4KIoUrQlMx3PFtRmPNbgAv"
+    },
+    {
+      "added_at": "2025-10-24 22:16:10",
+      "album": {
+        "name": "Los Belkings (Ayer y Hoy)",
+        "url": "https://open.spotify.com/album/3vvNY1JAizDCAnMnxUTZie"
+      },
+      "artists": [
+        {
+          "name": "Los Belkings",
+          "url": "https://open.spotify.com/artist/6bI3v3BkqFwEbXQfB081Dn"
+        }
+      ],
+      "duration_ms": 208213,
+      "name": "Sabor Dulce",
+      "url": "https://open.spotify.com/track/2Xlx1ATkGYjYjmNn0w7O59"
     },
     {
       "added_at": "2025-10-24 22:16:10",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
-        "name": "Addicted To You",
-        "url": "https://open.spotify.com/album/03mQWhCkJ77Hq9aP8dD21r"
-      },
-      "artists": [
-        {
-          "name": "Ben L'Oncle Soul",
-          "url": "https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK"
-        }
-      ],
-      "duration_ms": 250933,
-      "name": "Two Trees",
-      "url": "https://open.spotify.com/track/64jxwV2kklovj7ldPsPsXF"
-    },
-    {
-      "added_at": "2025-10-24 22:16:10",
-      "album": {
         "name": "One and Only",
         "url": "https://open.spotify.com/album/7CXmRX6T71T7xgTqZtHNsM"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 191037,
       "name": "One and Only",
       "url": "https://open.spotify.com/track/3nQcCZarfJoDbebUXa9hxa"
+    },
+    {
+      "added_at": "2025-10-24 22:16:10",
+      "album": {
+        "name": "Addicted To You",
+        "url": "https://open.spotify.com/album/03mQWhCkJ77Hq9aP8dD21r"
+      },
+      "artists": [
+        {
+          "name": "Ben L'Oncle Soul",
+          "url": "https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK"
+        }
+      ],
+      "duration_ms": 250933,
+      "name": "Two Trees",
+      "url": "https://open.spotify.com/track/64jxwV2kklovj7ldPsPsXF"
     },
     {
       "added_at": "2025-10-24 22:16:10",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
+        "name": "Talk About It (B-Side)",
+        "url": "https://open.spotify.com/album/2aO9qd1SvonSVLLvT3zGUr"
+      },
+      "artists": [
+        {
+          "name": "Kate Bollinger",
+          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
+        }
+      ],
+      "duration_ms": 132096,
+      "name": "Talk About It",
+      "url": "https://open.spotify.com/track/5CH0x6oAAVDV1agN0Wdfhw"
+    },
+    {
+      "added_at": "2025-10-24 22:16:10",
+      "album": {
         "name": "Lotta Love",
         "url": "https://open.spotify.com/album/5x4bbGHyxTYhEnhXXmN2OE"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 197624,
       "name": "Lotta Love",
       "url": "https://open.spotify.com/track/4xPoGj1cAY9v5AGardly8e"
-    },
-    {
-      "added_at": "2025-10-24 22:16:10",
-      "album": {
-        "name": "Talk About It (B-Side)",
-        "url": "https://open.spotify.com/album/2aO9qd1SvonSVLLvT3zGUr"
-      },
-      "artists": [
-        {
-          "name": "Kate Bollinger",
-          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
-        }
-      ],
-      "duration_ms": 132096,
-      "name": "Talk About It",
-      "url": "https://open.spotify.com/track/5CH0x6oAAVDV1agN0Wdfhw"
     },
     {
       "added_at": "2025-10-24 22:16:10",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
+        "name": "The Switch",
+        "url": "https://open.spotify.com/album/04VtAp2SJPVsutli1F3KjY"
+      },
+      "artists": [
+        {
+          "name": "Emily King",
+          "url": "https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ"
+        }
+      ],
+      "duration_ms": 189536,
+      "name": "Believer",
+      "url": "https://open.spotify.com/track/5CnNs7UMthQNuXgFMsQCDX"
+    },
+    {
+      "added_at": "2025-10-24 22:16:10",
+      "album": {
         "name": "Get On The Otherside",
         "url": "https://open.spotify.com/album/2S16kNpGs1zn39HYwcLaJ3"
       },
@@ -1307,18 +1323,18 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
-        "name": "The Switch",
-        "url": "https://open.spotify.com/album/04VtAp2SJPVsutli1F3KjY"
+        "name": "Canta",
+        "url": "https://open.spotify.com/album/2rmC6nJOCMzUn2VqTxbFik"
       },
       "artists": [
         {
-          "name": "Emily King",
-          "url": "https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ"
+          "name": "Amo Amo",
+          "url": "https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm"
         }
       ],
-      "duration_ms": 189536,
-      "name": "Believer",
-      "url": "https://open.spotify.com/track/5CnNs7UMthQNuXgFMsQCDX"
+      "duration_ms": 275746,
+      "name": "Canta",
+      "url": "https://open.spotify.com/track/4BkwcPvGeKVat4mXCHBORN"
     },
     {
       "added_at": "2025-10-24 22:16:10",
@@ -1339,22 +1355,6 @@
       "duration_ms": 187185,
       "name": "Strange World",
       "url": "https://open.spotify.com/track/3PoMsuOCkDTFinad2PBlEh"
-    },
-    {
-      "added_at": "2025-10-24 22:16:10",
-      "album": {
-        "name": "Canta",
-        "url": "https://open.spotify.com/album/2rmC6nJOCMzUn2VqTxbFik"
-      },
-      "artists": [
-        {
-          "name": "Amo Amo",
-          "url": "https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm"
-        }
-      ],
-      "duration_ms": 275746,
-      "name": "Canta",
-      "url": "https://open.spotify.com/track/4BkwcPvGeKVat4mXCHBORN"
     },
     {
       "added_at": "2025-10-24 22:16:10",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
+        "name": "Sun & Moon",
+        "url": "https://open.spotify.com/album/1K2NwUvkvc6EL8pwmD332g"
+      },
+      "artists": [
+        {
+          "name": "BALTHVS",
+          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
+        }
+      ],
+      "duration_ms": 165712,
+      "name": "Sun & Moon",
+      "url": "https://open.spotify.com/track/1SPvWrXkkhtpgVhIztyYZA"
+    },
+    {
+      "added_at": "2025-10-24 22:16:10",
+      "album": {
         "name": "I Just Want To Talk To You",
         "url": "https://open.spotify.com/album/68DJRWdkFtRIMxYURX7zDX"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 191039,
       "name": "I Just Want To Talk To You",
       "url": "https://open.spotify.com/track/4TmnRITTYSRhgY2zmEAJQ3"
-    },
-    {
-      "added_at": "2025-10-24 22:16:10",
-      "album": {
-        "name": "Sun & Moon",
-        "url": "https://open.spotify.com/album/1K2NwUvkvc6EL8pwmD332g"
-      },
-      "artists": [
-        {
-          "name": "BALTHVS",
-          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
-        }
-      ],
-      "duration_ms": 165712,
-      "name": "Sun & Moon",
-      "url": "https://open.spotify.com/track/1SPvWrXkkhtpgVhIztyYZA"
     },
     {
       "added_at": "2025-10-24 22:16:10",
@@ -1755,6 +1755,22 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
+        "name": "Damn It All",
+        "url": "https://open.spotify.com/album/187FGJdmzkRYumZ8iasaVd"
+      },
+      "artists": [
+        {
+          "name": "Rob Galbraith",
+          "url": "https://open.spotify.com/artist/4r5lB44cSZOqpgx7i9iHUc"
+        }
+      ],
+      "duration_ms": 227600,
+      "name": "Tell Me With Your Eyes (Just Be You)",
+      "url": "https://open.spotify.com/track/0kO8fvAqoXIOLMybjJY108"
+    },
+    {
+      "added_at": "2025-10-24 22:16:10",
+      "album": {
         "name": "Laurence",
         "url": "https://open.spotify.com/album/4q1YH9oZxmdYu34ucwxPP5"
       },
@@ -1775,22 +1791,6 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
-        "name": "Picture Frame",
-        "url": "https://open.spotify.com/album/6LaTToJMRmCo1Wtxb2NyhU"
-      },
-      "artists": [
-        {
-          "name": "Hector Morlet",
-          "url": "https://open.spotify.com/artist/1xgCILfNVWEJx7EBN1rC2A"
-        }
-      ],
-      "duration_ms": 195276,
-      "name": "Picture Frame",
-      "url": "https://open.spotify.com/track/0DkZynmdHveUtwaas1Xj2m"
-    },
-    {
-      "added_at": "2025-10-24 22:16:10",
-      "album": {
         "name": "Mamalarky",
         "url": "https://open.spotify.com/album/1WPpQqTb8cajcwwpSiqJ43"
       },
@@ -1807,18 +1807,18 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
-        "name": "Damn It All",
-        "url": "https://open.spotify.com/album/187FGJdmzkRYumZ8iasaVd"
+        "name": "Picture Frame",
+        "url": "https://open.spotify.com/album/6LaTToJMRmCo1Wtxb2NyhU"
       },
       "artists": [
         {
-          "name": "Rob Galbraith",
-          "url": "https://open.spotify.com/artist/4r5lB44cSZOqpgx7i9iHUc"
+          "name": "Hector Morlet",
+          "url": "https://open.spotify.com/artist/1xgCILfNVWEJx7EBN1rC2A"
         }
       ],
-      "duration_ms": 227600,
-      "name": "Tell Me With Your Eyes (Just Be You)",
-      "url": "https://open.spotify.com/track/0kO8fvAqoXIOLMybjJY108"
+      "duration_ms": 195276,
+      "name": "Picture Frame",
+      "url": "https://open.spotify.com/track/0DkZynmdHveUtwaas1Xj2m"
     },
     {
       "added_at": "2025-10-24 22:16:10",
@@ -1939,26 +1939,6 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
-        "name": "Dark Days [Feat. Sylvan Esso]",
-        "url": "https://open.spotify.com/album/4DZlJSUZnQUFMv4nW6Ijgv"
-      },
-      "artists": [
-        {
-          "name": "Local Natives",
-          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
-        },
-        {
-          "name": "Sylvan Esso",
-          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
-        }
-      ],
-      "duration_ms": 181212,
-      "name": "Dark Days [Feat. Sylvan Esso]",
-      "url": "https://open.spotify.com/track/6ZMYbLF33jIECoG2MClauD"
-    },
-    {
-      "added_at": "2025-10-24 22:16:10",
-      "album": {
         "name": "Warm Blanket",
         "url": "https://open.spotify.com/album/15PX5VAhMxwfD2wt6KZGVS"
       },
@@ -2003,6 +1983,26 @@
       "duration_ms": 244760,
       "name": "Someone Else",
       "url": "https://open.spotify.com/track/5sGub8Btll3qnMlKinrpz4"
+    },
+    {
+      "added_at": "2025-10-24 22:16:10",
+      "album": {
+        "name": "Dark Days [Feat. Sylvan Esso]",
+        "url": "https://open.spotify.com/album/4DZlJSUZnQUFMv4nW6Ijgv"
+      },
+      "artists": [
+        {
+          "name": "Local Natives",
+          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
+        },
+        {
+          "name": "Sylvan Esso",
+          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
+        }
+      ],
+      "duration_ms": 181212,
+      "name": "Dark Days [Feat. Sylvan Esso]",
+      "url": "https://open.spotify.com/track/6ZMYbLF33jIECoG2MClauD"
     }
   ],
   "unique_name": "Feel Good Dinner",

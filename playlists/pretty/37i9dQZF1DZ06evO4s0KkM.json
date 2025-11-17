@@ -1,12 +1,12 @@
 {
   "description": "This is Dropkick Murphys. The essential tracks, all in one playlist.",
-  "num_followers": 124712,
+  "num_followers": 124709,
   "original_name": "This Is Dropkick Murphys",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRZxAAAAAADZws/FFsO+i7kYaHNR8G4U",
+  "snapshot_id": "aRfCgAAAAAC34tkwn+Az4J4bAx/9ORGb",
   "tracks": [
     {
       "added_at": null,
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 175179,
-      "name": "Dropped on My Head - Bonus Track",
-      "url": "https://open.spotify.com/track/0RrgoZaUjIpqhbJ7k2TNfD"
+      "duration_ms": 162448,
+      "name": "Fiending for the Lies",
+      "url": "https://open.spotify.com/track/2bE7pWpbUWBTjRufNa9Xdz"
     },
     {
       "added_at": null,
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 238049,
-      "name": "Take Your Bow - Bonus Track",
-      "url": "https://open.spotify.com/track/3OK15jbvnyyplSroZL1JpG"
+      "duration_ms": 175179,
+      "name": "Dropped on My Head - Bonus Track",
+      "url": "https://open.spotify.com/track/0RrgoZaUjIpqhbJ7k2TNfD"
     },
     {
       "added_at": null,
@@ -531,6 +531,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Do Or Die",
+        "url": "https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 109134,
+      "name": "Cadence To Arms",
+      "url": "https://open.spotify.com/track/5YHOnqIrjhRy5ThzFRWONC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For The People (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7dGBAOMg6ktyYuA9wlX8lM"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 238049,
+      "name": "Take Your Bow - Bonus Track",
+      "url": "https://open.spotify.com/track/3OK15jbvnyyplSroZL1JpG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blackout",
         "url": "https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza"
       },
@@ -547,8 +579,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "For The People (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7dGBAOMg6ktyYuA9wlX8lM"
+        "name": "Signed and Sealed In Blood",
+        "url": "https://open.spotify.com/album/1wI9Oqt2gbv0wM24NssHcc"
       },
       "artists": [
         {
@@ -556,25 +588,9 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 178324,
-      "name": "Straight Edge (I Liked You Better) - Bonus Track",
-      "url": "https://open.spotify.com/track/3WwusnJi34pyNmJTkHGBEF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Do Or Die",
-        "url": "https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 109134,
-      "name": "Cadence To Arms",
-      "url": "https://open.spotify.com/track/5YHOnqIrjhRy5ThzFRWONC"
+      "duration_ms": 166960,
+      "name": "Prisoner's Song",
+      "url": "https://open.spotify.com/track/1buzYFaWAwVlYPbXq3Bt4A"
     },
     {
       "added_at": null,
@@ -595,8 +611,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Signed and Sealed In Blood",
-        "url": "https://open.spotify.com/album/1wI9Oqt2gbv0wM24NssHcc"
+        "name": "For The People (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7dGBAOMg6ktyYuA9wlX8lM"
       },
       "artists": [
         {
@@ -604,9 +620,9 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 166960,
-      "name": "Prisoner's Song",
-      "url": "https://open.spotify.com/track/1buzYFaWAwVlYPbXq3Bt4A"
+      "duration_ms": 178324,
+      "name": "Straight Edge (I Liked You Better) - Bonus Track",
+      "url": "https://open.spotify.com/track/3WwusnJi34pyNmJTkHGBEF"
     },
     {
       "added_at": null,
@@ -791,8 +807,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "For The People (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7dGBAOMg6ktyYuA9wlX8lM"
+        "name": "This Machine Still Kills Fascists (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3WK3HkX9lTZIhnHdehjEGB"
       },
       "artists": [
         {
@@ -800,25 +816,9 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 223642,
-      "name": "Sirens - Bonus Track",
-      "url": "https://open.spotify.com/track/3A1L6EAziYdIUaP0FGyR8T"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "11 Short Stories of Pain & Glory",
-        "url": "https://open.spotify.com/album/2x8e1IYd6eaQzAi7X2oRMB"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 162853,
-      "name": "The Lonesome Boatman",
-      "url": "https://open.spotify.com/track/5QX8AQ7RBC6m6ektZZcQBD"
+      "duration_ms": 131315,
+      "name": "Ten Times More",
+      "url": "https://open.spotify.com/track/0t7KczDGPmOyW71qw9xMnh"
     }
   ],
   "unique_name": "This Is Dropkick Murphys",

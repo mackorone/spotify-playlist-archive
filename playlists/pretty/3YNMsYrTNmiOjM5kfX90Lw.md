@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3YNMsYrTNmiOjM5kfX90Lw.md) - [plain]
 
 > Hip\-hop favorites\. Songs distributed by DistroKid, playlist curated by the public\. To vote, head to: distrokid.com/spotlight
 
-[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 454,955 likes - 50 songs - 2 hr 39 min
+[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 455,109 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/3YNMsYrTNmiOjM5kfX90Lw.md) - [plain]
 | 14 | [Welcome To Rio](https://open.spotify.com/track/4uUEDz52bVyYeWQSwP5ZfS) | [Idreezy](https://open.spotify.com/artist/46G11ZqrRMUgO4iV29uCGk) | [Welcome To Rio](https://open.spotify.com/album/0qiiEIvOKEf8NTKzIllMXs) | 3:46 |
 | 15 | [Third Base](https://open.spotify.com/track/2TD0v4GilM4ZB15GtU2AoC) | [D\. Horton](https://open.spotify.com/artist/7odZ53xYf4DUUhJ0Prwckd), [King Los](https://open.spotify.com/artist/29M3C4IzWXrztUr4cV2umC) | [The Sessions 2](https://open.spotify.com/album/4De2xn1mtPCoS9EsvIGrhL) | 3:38 |
 | 16 | [Monetizada](https://open.spotify.com/track/3MRW2sdbx4IhaVwV2HAvRG) | [Tidog](https://open.spotify.com/artist/7s0jaDg1kpv1cKq2DqB5zT), [Dimarola](https://open.spotify.com/artist/6H8F5y3oBfI6NKsIDMWLjf), [Erike Beats](https://open.spotify.com/artist/5sMj2vkhK12Lzub5O8oF5e) | [Monetizada](https://open.spotify.com/album/4RCSDkSbKB1g5qjM8jiMW4) | 3:02 |
-| 17 | [IS4E](https://open.spotify.com/track/6rZzZ7KSEZIvaJjlYDvNEm) | [kiddash](https://open.spotify.com/artist/7u69lOCxME9DHyC59eU98L) | [IS4E](https://open.spotify.com/album/0CpFaJP6u0N7mXMagKSkWR) | 2:15 |
+| 17 | [IS4E](https://open.spotify.com/track/6rZzZ7KSEZIvaJjlYDvNEm) | [Dash](https://open.spotify.com/artist/5Sjx1r7wZacSBXJq0Yuwdc) | [IS4E](https://open.spotify.com/album/0CpFaJP6u0N7mXMagKSkWR) | 2:15 |
 | 18 | [Ticket Master](https://open.spotify.com/track/2m8p6xUOGmMxG59eRFrNXs) | [DJ Ronde](https://open.spotify.com/artist/3NbC1LduU5G5iPJ3rL8V0a) | [Ticket Master](https://open.spotify.com/album/65uIyzDFYvmjBcsn8wzstG) | 5:21 |
 | 19 | [I.A.T.B](https://open.spotify.com/track/7mRhxxvVfL2GsRbimnpFG1) | [Lost Contact](https://open.spotify.com/artist/19HMZIaaucDNyTOpgdsGC6) | [Artful Thesis](https://open.spotify.com/album/2PpMQNwq42ynykXh3QgUvH) | 3:38 |
 | 20 | [AKs](https://open.spotify.com/track/5epDzCepHFrKp6q8jhSEf5) | [Christbearer](https://open.spotify.com/artist/7uCj3mRZZhaYDgYmcQtvok) | [Jesus Christ Bearer Superstar](https://open.spotify.com/album/7KUV3WFVIlapxtV09KBYOp) | 2:45 |

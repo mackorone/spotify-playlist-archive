@@ -4,7 +4,7 @@
 
 > 想紓解緊張壓力，就聽這些輕鬆、愉快的歌曲來讓自己放輕鬆。
 
-396 songs - 21 hr 8 min
+397 songs - 21 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [After The Tone](https://open.spotify.com/track/3XwSVHvobJ4Z4SfvF9fTNz) | [Justin Adijanto](https://open.spotify.com/artist/3jPJR4xjyCwJQSG5JLEbzl), [SAWA](https://open.spotify.com/artist/0HCd0T7uXpnIUJgrBTlEvE) | [After The Tone](https://open.spotify.com/album/7HwIUiOremortAibAsFUPM) | 4:35 | 2022-06-13 | 2022-06-15 |
 | [ain't leavin' without you](https://open.spotify.com/track/4RMvwkiBDFysupvBWkJDoJ) | [TALA](https://open.spotify.com/artist/2VL6HPPI1raa3qKW6NUNBR) | [ain't leavin' without you](https://open.spotify.com/album/6UshO89K1Or0hwvl7r05MO) | 3:57 | 2022-06-06 | 2022-07-27 |
 | [Alive](https://open.spotify.com/track/44OznaUsvuPVbcJNKMOVcp) | [Tropic](https://open.spotify.com/artist/5Ix5mo2NuCnVO5mhWpcvOJ) | [Alive](https://open.spotify.com/album/3WFJRVtfR6GeafsW7SOxrz) | 3:40 | 2022-06-06 | 2022-07-28 |
-| [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/album/0krbjj0iriZnWpy1Vi8tUd) | 3:03 | 2022-06-06 |  |
+| [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/album/0krbjj0iriZnWpy1Vi8tUd) | 3:03 | 2022-06-06 | 2025-11-17 |
 | [All I Ever Asked](https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [All I Ever Asked](https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn) | 3:35 | 2024-04-08 | 2025-10-09 |
 | [All My Sins \(feat\. syd hartha\)](https://open.spotify.com/track/3i0CZ8RoNRrNoNkHzm8UYQ) | [Sarah Barrios](https://open.spotify.com/artist/0HJsX1aTdgG1VDIRDiseSJ), [syd hartha](https://open.spotify.com/artist/3BQ7MYNeB0wMPtHYPWvu1C) | [All My Sins \(feat\. syd hartha\)](https://open.spotify.com/album/2KmGCyKY57BZUfuH33BZnV) | 2:51 | 2022-06-06 | 2022-07-29 |
 | [All Rise](https://open.spotify.com/track/7jley98gCQFueQ5MCaFWIb) | [Blue](https://open.spotify.com/artist/2yEkZBBjhzKzt6LF5XMaFi) | [All Rise](https://open.spotify.com/album/4Kx60DeMOwNNnvQRbZMuHg) | 3:43 | 2023-02-13 | 2024-04-19 |
@@ -305,6 +305,7 @@
 | [Scissors](https://open.spotify.com/track/3JNgfzJac40BSzCc3H0e1i) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Scissors](https://open.spotify.com/album/4xcHcXY1WvL6MaSpEsBICL) | 2:25 | 2025-01-13 | 2025-04-29 |
 | [Second Gear](https://open.spotify.com/track/4rt9bnHdMk636bZk80yX4M) | [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu) | [Second Gear](https://open.spotify.com/album/21vErs9lrBQ3JRhwvXq5fI) | 3:06 | 2024-04-01 | 2024-04-09 |
 | [Secret Codes](https://open.spotify.com/track/1BSvCKeSJFGkynbhQVWsqw) | [Anthony Lazaro](https://open.spotify.com/artist/4eMIZNb3qBMQXkfwCaA31H), [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [Secret Codes](https://open.spotify.com/album/2kUJIRdImIgOpENlfguslI) | 2:48 | 2025-07-06 | 2025-07-14 |
+| [secret santa](https://open.spotify.com/track/7miGxdwpOYNtbdwG8SPuod) | [palemoon.wav](https://open.spotify.com/artist/3qIdJUayfhmeD2QJp6aP7W), [risy](https://open.spotify.com/artist/4MA9eWK70D4JdQmLpRDw2r) | [mistletunes vol\. 2](https://open.spotify.com/album/1YHiu7W141jtTrTubhyt6u) | 2:50 | 2025-11-16 |  |
 | [See You In Life](https://open.spotify.com/track/4dNZaLSXpJMQowi7LX3gtC) | [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e) | [See You In Life](https://open.spotify.com/album/7CmqyXDDAdWTBdkgNxPEGI) | 4:01 | 2022-06-06 | 2022-07-29 |
 | [see\-thru](https://open.spotify.com/track/0f5QoMbJDcxyGHSngaFfT4) | [Pseudo](https://open.spotify.com/artist/4HqIcgpeGKabzBYczmfFgZ) | [see\-thru](https://open.spotify.com/album/3kY6p7XFk5wl77guJjdRWp) | 2:23 | 2023-07-03 | 2023-07-11 |
 | [Señorita](https://open.spotify.com/track/0TK2YIli7K1leLovkQiNik) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Señorita](https://open.spotify.com/album/2ZaX1FdZCwchXl1QZiD4O4) | 3:10 | 2022-07-25 |  |

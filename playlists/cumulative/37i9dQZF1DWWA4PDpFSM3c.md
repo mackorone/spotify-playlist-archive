@@ -4,7 +4,7 @@
 
 > Mellow down the mood with these Telugu tracks<br/>Cover: Dear Comrade
 
-50 songs - 3 hr 51 min
+51 songs - 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Choosi Chudangane](https://open.spotify.com/track/0fYTkcBMtjtP4hzoOxGgSF) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Mahati Swara Sagar](https://open.spotify.com/artist/27dNKsHZrQKGnAlFCLDlzd) | [Chalo](https://open.spotify.com/album/4OM6femr6U4dYJwxByQMKX) | 3:22 | 2021-05-18 |  |
 | [Dhim Thana](https://open.spotify.com/track/6bbSwo7GyM7DWjzicUerR9) | [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH), [Chorus](https://open.spotify.com/artist/2Bu3DMTHHdXW4jnhoWHhPa) | [Kick](https://open.spotify.com/album/0AWdfmWDjXwMbeGI0so1dR) | 5:01 | 2022-09-02 |  |
 | [Ee Raathale](https://open.spotify.com/track/77feKtBcyhRv4SE2u6dd9R) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Harini Ivaturi](https://open.spotify.com/artist/1lr0MlyZ8Q24eFtn7gcMmI) | [Radhe Shyam](https://open.spotify.com/album/0oqXFsTVJInCqJJJAn7wel) | 3:52 | 2023-11-08 |  |
+| [Ela \(From "Sopathulu"\)](https://open.spotify.com/track/6UGklMOti1kY7zl9po1WEH) | [Manisha Eerabathini](https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC), [Sinjith Yerramilli](https://open.spotify.com/artist/30p5WaPxeojOvFem2XwJtd), [Kittu Vissapragada](https://open.spotify.com/artist/5UDv7yHHkED5J7nXh3yoiy) | [Ela \(From "Sopathulu"\)](https://open.spotify.com/album/5ISbEsbvl9lsqdOgYRplS0) | 3:48 | 2024-09-10 |  |
 | [Ela Ela Naalo](https://open.spotify.com/track/5RJb4ZBgdJBOZe5Fx2aDWo) | [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Swetha](https://open.spotify.com/artist/4LxLLrO6bFofvfXOcujJRv) | [Panjaa](https://open.spotify.com/album/1yc1PhFxmSKD1tZtCWQirO) | 5:05 | 2022-09-02 |  |
 | [Emaindhi Eevela](https://open.spotify.com/track/3E8mVTnCMmXJNq6Pbcfkp7) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K) | [Aadavari Matalaku Ardhalu Veruley](https://open.spotify.com/album/2MsMl4xvzwGfgaIy1BLm0u) | 5:19 | 2024-02-12 |  |
 | [Endhuko Emo](https://open.spotify.com/track/6Yqw4HtJuFXleJtgzYXWzT) | [Aalaap Raju](https://open.spotify.com/artist/6qcMtXmofIpnR9TBhgamMR), [Prasanthini](https://open.spotify.com/artist/1EAoBVsvTYarQhO6i9zAG9) | [Rangam](https://open.spotify.com/album/3rpmVMH5kV6jYkzSmlpn5u) | 5:30 | 2021-05-18 |  |
@@ -55,7 +56,7 @@
 | [Sirivennela \(From "Shyam Singha Roy"\)](https://open.spotify.com/track/486AmbPabBmmDMP0HVg5BR) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Mickey J\. Meyer](https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk) | [Sirivennela \(From "Shyam Singha Roy"\) \- Single](https://open.spotify.com/album/7cD0VDRtVEfnrkixMsnQV8) | 4:13 | 2022-09-02 |  |
 | [Vellipomaake](https://open.spotify.com/track/6z15tFRtCyiSorSGaKLJeu) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [ADK](https://open.spotify.com/artist/5Ljk2MIIax91pypZ9Wcgaj) | [Saahasam Swaasaga Saagipo](https://open.spotify.com/album/4Y48mLFqW5aJ7LRoUUMx6J) | 4:21 | 2022-09-02 |  |
 | [Waiting For You](https://open.spotify.com/track/42XgH6kQAvTOiKODWMuD9p) | [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp) | [Oye](https://open.spotify.com/album/4I7t128bqln9m45RZlMJU8) | 5:54 | 2022-09-02 |  |
-| [Yamunatheeram](https://open.spotify.com/track/2g5t70UUP6nPpyZdyQQJz2) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Anand](https://open.spotify.com/album/7qe9NgxK1B9zNTyZLUF5pG) | 4:09 | 2022-09-02 |  |
+| [Yamunatheeram](https://open.spotify.com/track/2g5t70UUP6nPpyZdyQQJz2) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Anand](https://open.spotify.com/album/7qe9NgxK1B9zNTyZLUF5pG) | 4:09 | 2022-09-02 | 2025-11-17 |
 | [Yemi Cheyamanduve](https://open.spotify.com/track/6GgP6NTpwRaokozTVyC6Be) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [Priyuraalu Pilichindi](https://open.spotify.com/album/06ZpiZ28CpnSRitF4srJFc) | 6:02 | 2022-09-02 |  |
 | [Yenti Yenti](https://open.spotify.com/track/37LmFlPnpsBISJjNvqbUkT) | [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Geetha Govindam](https://open.spotify.com/album/4X8f6Xj3EHnv6haTEByM3X) | 3:19 | 2021-05-18 |  |
 

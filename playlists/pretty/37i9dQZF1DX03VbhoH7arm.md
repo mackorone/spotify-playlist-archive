@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03VbhoH7arm.md) - [plain]
 
 > Grandes hits do BR e do 🌎 / Foto: LUDMILLA
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,583,569 likes - 51 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,583,491 likes - 51 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03VbhoH7arm.md) - [plain]
 | 50 | [Dano Sarrada \- Remix](https://open.spotify.com/track/0Kl8AuDEnnEA7UtCKov4Op) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L), [Japãozin](https://open.spotify.com/artist/7bDY7ck0pXuKESZtEt1X5d) | [Dano Sarrada \(Remix\)](https://open.spotify.com/album/4C1KWXgdTmom6eWiu0x45k) | 2:46 |
 | 51 | [Joga Pra Lua](https://open.spotify.com/track/1CtcgU1q0BgJN4Aottdscu) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [Joga Pra Lua](https://open.spotify.com/album/4NUJYV2fygdmIVZCBelgb1) | 2:05 |
 
-Snapshot ID: `AAAAAJGf9hgjkeqP6DaqIJz35PEAt1Kg`
+Snapshot ID: `AAAAAEYbV9FQtdQZ/WDvRA6NsLP5v4b8`

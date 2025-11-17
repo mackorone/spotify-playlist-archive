@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Anakin Larios
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,453 likes - 35 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,458 likes - 35 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 | 34 | [4:40](https://open.spotify.com/track/5pASGbXvWmzvUdHLTtD6MO) | [Elias Fregoso](https://open.spotify.com/artist/0P1vpsGAym738etHvoTgG9) | [BÉLICØ$AĐ](https://open.spotify.com/album/367U8BvHJvmQWqhsTbrsy7) | 3:36 |
 | 35 | [Me Hice Belico 2](https://open.spotify.com/track/7GfY0jy4S6KRJlPo6H7lxD) | [Omar Moreno](https://open.spotify.com/artist/1DICukNniEOuLsJzhF4C9y) | [Noches Sin Fin](https://open.spotify.com/album/10H5ndYGXXd7gDihaiMpjb) | 2:29 |
 
-Snapshot ID: `AAAAAJ+6L9h3ySCUda17aqtkOyIQMvU+`
+Snapshot ID: `AAAAAPxYX8/V18p6pTQfkuVnZxxs6dtj`

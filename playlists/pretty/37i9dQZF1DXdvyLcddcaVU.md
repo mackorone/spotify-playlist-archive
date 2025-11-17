@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 
 > \#fyp
 
-[Spotify](https://open.spotify.com/user/spotify) - 834,695 likes - 90 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 834,875 likes - 90 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 | 16 | [BTRD](https://open.spotify.com/track/2hndzMd89P8nEG4jTRurPk) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc) | [BTRD](https://open.spotify.com/album/3W3X5NelHHpoxgoGg8V9CB) | 2:20 |
 | 17 | [Maui Wowie](https://open.spotify.com/track/0Hnm7mnmqOLCIgvbMpM4Ev) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [A Kid Named Cudi](https://open.spotify.com/album/2blXZboio9DF8VC39LmUag) | 2:23 |
 | 18 | [DO U WANNA ?](https://open.spotify.com/track/5kaYIpCzyVfPLyrjKDtgtF) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [BAD BOY LOVESTORY](https://open.spotify.com/album/4l4t2cO18SyZLu0uMYfGBm) | 2:15 |
-| 19 | [I Run](https://open.spotify.com/track/4nffa2OJOlgjCr4WPUZAuY) | [HAVEN.](https://open.spotify.com/artist/7ouEqUl1PCVPlNninecdcz) | [I Run](https://open.spotify.com/album/4bqyKumRF0H8BZXtUIazLn) | 2:09 |
+| 19 | [I Run](https://open.spotify.com/track/4nffa2OJOlgjCr4WPUZAuY) | [HAVEN.](https://open.spotify.com/artist/7ouEqUl1PCVPlNninecdcz), [Kaitlin Aragon](https://open.spotify.com/artist/0MjdTHzxhkhOS4J2rWw6uK) | [I Run](https://open.spotify.com/album/4bqyKumRF0H8BZXtUIazLn) | 2:09 |
 | 20 | [RUINART](https://open.spotify.com/track/0vZyOrmcNCzkz73HSEMfLk) | [R2](https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD) | [RUINART](https://open.spotify.com/album/6DDz77QqTYGIWIj9g4fUN1) | 2:54 |
 | 21 | [Serrure \#5](https://open.spotify.com/track/79HWCJC8r8UHGUOAaRN4IO) | [La Rvfleuze](https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN) | [Serrure \#5](https://open.spotify.com/album/0Zk8t2ZRO8cHHL7RmLuCoB) | 2:18 |
 | 22 | [On Va Taper ÇA](https://open.spotify.com/track/51rFwalR3noTQYC7os1ySQ) | [BSF](https://open.spotify.com/artist/1t9UFK5cJL4JP0jndHqmon) | [On Va Taper ÇA](https://open.spotify.com/album/58hVE9Cu4LN31dXStuq6xr) | 2:24 |

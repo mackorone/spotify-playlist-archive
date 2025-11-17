@@ -1,12 +1,12 @@
 {
   "description": "This is RAYE. The essential tracks, all in one playlist.",
-  "num_followers": 149515,
+  "num_followers": 149688,
   "original_name": "This Is RAYE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRZxAAAAAAD9qGHB2ePcbW6KUL6To9fp",
+  "snapshot_id": "aRfCgAAAAABGBAFtGgdRuK8c4yzcLWqN",
   "tracks": [
     {
       "added_at": null,
@@ -311,22 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Genesis.",
-        "url": "https://open.spotify.com/album/7hYLel5p7npCbhAbkaGqvW"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 208836,
-      "name": "Genesis, pt. ii",
-      "url": "https://open.spotify.com/track/1qvgsMTiNL4WwUnQ9yMz2m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love Of Your Life",
         "url": "https://open.spotify.com/album/1CD5H4mrIKActXVG1L1tY7"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 196170,
       "name": "Love Of Your Life",
       "url": "https://open.spotify.com/track/5iqfKcEGKhoeWTNqmZPiu3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Genesis.",
+        "url": "https://open.spotify.com/album/7hYLel5p7npCbhAbkaGqvW"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 208836,
+      "name": "Genesis, pt. ii",
+      "url": "https://open.spotify.com/track/1qvgsMTiNL4WwUnQ9yMz2m"
     },
     {
       "added_at": null,
@@ -819,22 +819,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Don't Know Me (Acoustic Version)",
-        "url": "https://open.spotify.com/album/3YHoJsSAzBoaDDPWzLc6iA"
+        "name": "Golden Boy",
+        "url": "https://open.spotify.com/album/4QJ5jTYVijBczD7o2ynp9P"
       },
       "artists": [
         {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+          "name": "Kojo Funds",
+          "url": "https://open.spotify.com/artist/2o9hRZ3xI27UQpHT61A4Mm"
         },
         {
           "name": "RAYE",
           "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         }
       ],
-      "duration_ms": 224560,
-      "name": "You Don't Know Me - Acoustic Version",
-      "url": "https://open.spotify.com/track/1OJP62SC1v9V1AcQjBQF5q"
+      "duration_ms": 215573,
+      "name": "Check (with RAYE)",
+      "url": "https://open.spotify.com/track/53i7ll4F1dpYS0ZUQx9USd"
     },
     {
       "added_at": null,
@@ -859,22 +859,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Golden Boy",
-        "url": "https://open.spotify.com/album/4QJ5jTYVijBczD7o2ynp9P"
+        "name": "You Don't Know Me (Acoustic Version)",
+        "url": "https://open.spotify.com/album/3YHoJsSAzBoaDDPWzLc6iA"
       },
       "artists": [
         {
-          "name": "Kojo Funds",
-          "url": "https://open.spotify.com/artist/2o9hRZ3xI27UQpHT61A4Mm"
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
         },
         {
           "name": "RAYE",
           "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         }
       ],
-      "duration_ms": 215573,
-      "name": "Check (with RAYE)",
-      "url": "https://open.spotify.com/track/53i7ll4F1dpYS0ZUQx9USd"
+      "duration_ms": 224560,
+      "name": "You Don't Know Me - Acoustic Version",
+      "url": "https://open.spotify.com/track/1OJP62SC1v9V1AcQjBQF5q"
     },
     {
       "added_at": null,

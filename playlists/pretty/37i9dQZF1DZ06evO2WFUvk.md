@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WFUvk.md) - [plain]
 
 > This is Rodrigo Gonzalez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,992 likes - 29 songs - 1 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,991 likes - 28 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WFUvk.md) - [plain]
 | 24 | [Puedes](https://open.spotify.com/track/6nvQEtpzgZ6RWY4WVOsJqK) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [No Estoy Loco](https://open.spotify.com/album/7iTLSVhwf8c3gSfuqhtKSq) | 3:50 |
 | 25 | [La Partida](https://open.spotify.com/track/6mes0R2e1oe1RZMPHymcHt) | [Chico Trujillo](https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co), [Wiracocha](https://open.spotify.com/artist/3Bed96BaBI1MxnoggMiACW), [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [El Viaje \(Original Soundtrack\)](https://open.spotify.com/album/1qkhgSzOSCwZ809JLv4fJS) | 3:19 |
 | 26 | [Плохие танцоры](https://open.spotify.com/track/1BL9LAr8nGZqXX3pYzEbMr) | [Tarakany!](https://open.spotify.com/artist/3OZMcYBFNSr0ztFd82aJK9), [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Лучшие из лучших](https://open.spotify.com/album/1hLwpeMefyrzXqv9ZXzx8u) | 3:36 |
-| 27 | [Euphoria Under the Stars](https://open.spotify.com/track/6jVadFriXE41vSRDfGqwAL) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Euphoria Under the Stars](https://open.spotify.com/album/2A6MjShDvMsZtRzFkD1p6x) | 2:08 |
-| 28 | [Samambaila \- Original Mix](https://open.spotify.com/track/3jF1PS0bJl7QMkYswXE31U) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Take Me Higher](https://open.spotify.com/album/04nHAVldhSET2NsLsAMn8u) | 5:23 |
-| 29 | [Schlechte Tänzer](https://open.spotify.com/track/1FCiQlIciSBQK6sxSq9fiz) | [Tarakany!](https://open.spotify.com/artist/3OZMcYBFNSr0ztFd82aJK9), [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Naked Kings](https://open.spotify.com/album/4Wa8qkocXOX38OVaWlkdlu) | 3:36 |
+| 27 | [Samambaila \- Original Mix](https://open.spotify.com/track/3jF1PS0bJl7QMkYswXE31U) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Take Me Higher](https://open.spotify.com/album/04nHAVldhSET2NsLsAMn8u) | 5:23 |
+| 28 | [Euphoria Under the Stars](https://open.spotify.com/track/6jVadFriXE41vSRDfGqwAL) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Euphoria Under the Stars](https://open.spotify.com/album/2A6MjShDvMsZtRzFkD1p6x) | 2:08 |
 
-Snapshot ID: `aRZxAAAAAACdpnVz6k0LHIYWR75JDOgE`
+Snapshot ID: `aRfCgAAAAADyzxr9Y6964YifHTPZMONT`

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Ana Torroja en portada.",
-  "num_followers": 93665,
+  "num_followers": 93662,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
@@ -723,22 +723,6 @@
     {
       "added_at": "2025-10-24 07:24:35",
       "album": {
-        "name": "Cuando Estamos Solas",
-        "url": "https://open.spotify.com/album/6yljdwX9QDrD97sdLnD5Rv"
-      },
-      "artists": [
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        }
-      ],
-      "duration_ms": 160322,
-      "name": "Cuando Estamos Solas",
-      "url": "https://open.spotify.com/track/36E5cnvLlDtNJTvfhDi5ZX"
-    },
-    {
-      "added_at": "2025-10-24 07:24:35",
-      "album": {
         "name": "karma",
         "url": "https://open.spotify.com/album/2xMf32apRnpyCvxtXBRYkB"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 150960,
       "name": "karma",
       "url": "https://open.spotify.com/track/2AHiQVyuaGHOERDPVlxWRT"
+    },
+    {
+      "added_at": "2025-10-24 07:24:35",
+      "album": {
+        "name": "Cuando Estamos Solas",
+        "url": "https://open.spotify.com/album/6yljdwX9QDrD97sdLnD5Rv"
+      },
+      "artists": [
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        }
+      ],
+      "duration_ms": 160322,
+      "name": "Cuando Estamos Solas",
+      "url": "https://open.spotify.com/track/36E5cnvLlDtNJTvfhDi5ZX"
     },
     {
       "added_at": "2025-10-24 07:24:35",
@@ -865,6 +865,26 @@
       "url": "https://open.spotify.com/track/4Wslzp9UBqMpPFpoRcXsJf"
     },
     {
+      "added_at": "2025-11-07 06:00:32",
+      "album": {
+        "name": "SUPERIOR",
+        "url": "https://open.spotify.com/album/7Aa5Xb8P3l5DPYvn3drCCM"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        },
+        {
+          "name": "Andr\u00e9s Obreg\u00f3n",
+          "url": "https://open.spotify.com/artist/0AQMbCYt6y84wEHGzScKve"
+        }
+      ],
+      "duration_ms": 191866,
+      "name": "Juntos",
+      "url": "https://open.spotify.com/track/6GdvsmiIeMEPnvhgrXIj7C"
+    },
+    {
       "added_at": "2025-10-24 07:24:35",
       "album": {
         "name": "para ti: querida amiga",
@@ -879,26 +899,6 @@
       "duration_ms": 137786,
       "name": "el ni\u00f1o bueno",
       "url": "https://open.spotify.com/track/6WW6JomwQgE8GWNt4pF6vP"
-    },
-    {
-      "added_at": "2025-10-24 07:24:35",
-      "album": {
-        "name": "Amantes",
-        "url": "https://open.spotify.com/album/70Ywxe81wjlVE9wY7075WC"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        },
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        }
-      ],
-      "duration_ms": 153610,
-      "name": "Amantes",
-      "url": "https://open.spotify.com/track/3p7qQsuaRtWpksGehwtYnC"
     }
   ],
   "unique_name": "Oye Pop",

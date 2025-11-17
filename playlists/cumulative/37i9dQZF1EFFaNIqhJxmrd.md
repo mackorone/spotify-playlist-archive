@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2tl6tGvyHMK5cyDc38ZF7I">Fanny Hultman</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-133 songs - 6 hr 42 min
+137 songs - 6 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Betong](https://open.spotify.com/track/1UzeebN7LFsdZnZ6nXrTDR) | [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [Din](https://open.spotify.com/album/4D3Qea7cE19xKZKdXC3QIV) | 2:46 | 2024-01-29 |  |
 | [Better](https://open.spotify.com/track/3L3zoAIlgI3G0mKbDjppf0) | [Emma Jensen](https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS) | [Better](https://open.spotify.com/album/4QGeDA46o8dtZFbzytt0FE) | 3:24 | 2024-01-29 |  |
 | [Body First](https://open.spotify.com/track/208APjXGIT1IalEZirj3Tr) | [Jane Zhang](https://open.spotify.com/artist/7qJmFr579WC8MMGj4PiWdu) | [Past Progressive](https://open.spotify.com/album/0A5WvtaB92HiMLxiJcOvZ3) | 3:52 | 2025-09-10 |  |
-| [Caroline](https://open.spotify.com/track/1kzd1siJdw7QMix3uPQB45) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Caroline](https://open.spotify.com/album/3YKj6eNHkDjsDlSXiBw1Dj) | 3:13 | 2025-06-13 |  |
+| [Caroline](https://open.spotify.com/track/1WtzjF0d4weMlqumdyH12i) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Tryna make it in LA](https://open.spotify.com/album/4fp8OAtfX796SBKkwfvQ9D) | 3:13 | 2025-11-16 |  |
+| [Caroline](https://open.spotify.com/track/1kzd1siJdw7QMix3uPQB45) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Caroline](https://open.spotify.com/album/3YKj6eNHkDjsDlSXiBw1Dj) | 3:13 | 2025-06-13 | 2025-11-17 |
 | [Chasing A Feeling](https://open.spotify.com/track/4ABlnAALPidU4luA6WgTyI) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Apart](https://open.spotify.com/album/1NthtnctJUX7DxcNv43Kft) | 3:51 | 2024-01-29 |  |
 | [Cherry](https://open.spotify.com/track/3E6KiqGzKHtNWnHzjYF9kw) | [Gyeongree](https://open.spotify.com/artist/5YF2nij1cyiWmWFB8TLZtj) | [Eternal Bloom](https://open.spotify.com/album/3EwJyf1lxKa26PQvLWJUtC) | 2:30 | 2024-12-11 | 2025-02-26 |
 | [closure](https://open.spotify.com/track/0LDDluRE805Dvt7WA0tDvA) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [in all of my lonely nights](https://open.spotify.com/album/19zU4YKQ8Gdn8QYQvXumhO) | 3:03 | 2024-03-19 |  |
@@ -69,7 +70,8 @@
 | [Higher Ground](https://open.spotify.com/track/6uASqrLgGRauoqzlGsq6Hj) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [The Other Side Of Waiting](https://open.spotify.com/album/3TqiXfpJ027fdRQFhEz9rz) | 3:08 | 2024-01-29 |  |
 | [Hold On](https://open.spotify.com/track/0lLBVkeTuZVfZRUC6MFfRf) | [George Alice](https://open.spotify.com/artist/2qmz9qPEFq5phZ8bscA2oL) | [Hold On](https://open.spotify.com/album/2HUFjJZI8gE43IxF3i5i9S) | 3:15 | 2024-01-29 |  |
 | [Hopelessly hopeless](https://open.spotify.com/track/64qDMtMORccb6NRgvtCYR0) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [Home](https://open.spotify.com/album/6H6uDM9YdkVdXDUzDpO0wZ) | 3:26 | 2024-01-29 |  |
-| [Håll käften](https://open.spotify.com/track/4R3XhLS8ozkyVPwaneQSkv) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Håll käften](https://open.spotify.com/album/6JxwMTYthxwIo7eVYow8uD) | 2:42 | 2025-05-31 |  |
+| [Håll käften](https://open.spotify.com/track/4R3XhLS8ozkyVPwaneQSkv) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Håll käften](https://open.spotify.com/album/6JxwMTYthxwIo7eVYow8uD) | 2:42 | 2025-05-31 | 2025-11-17 |
+| [Håll käften](https://open.spotify.com/track/7nGUHl9sGXmzYDdMWngKi8) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Tryna make it in LA](https://open.spotify.com/album/4fp8OAtfX796SBKkwfvQ9D) | 2:42 | 2025-11-16 |  |
 | [I Left My Heart](https://open.spotify.com/track/0ldEQfRPvKax4SIcF6br7g) | [Lucy Blue](https://open.spotify.com/artist/2bhd3BPOa3430RfyyB6moo) | [Unsent Letters](https://open.spotify.com/album/5SSlfIyW1noqLGrqiwTGR4) | 3:40 | 2024-01-29 |  |
 | [I Should Be a Bird](https://open.spotify.com/track/0ZRZeLNAKPHBwkalUqW1xz) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Älskar](https://open.spotify.com/album/7hnwD5fSafzPIxpkbbO8Dk) | 3:59 | 2024-01-29 |  |
 | [I Should Have Told You](https://open.spotify.com/track/7e6yzc8ipEp2sbasDMHjo4) | [LonelyTwin](https://open.spotify.com/artist/2Nf6fS8HByhmGlwDPPZhHM) | [I Should Have Told You](https://open.spotify.com/album/37hXIqnv6DJ7xZbcgaqE7O) | 3:26 | 2024-01-29 |  |
@@ -108,10 +110,12 @@
 | [Pressure](https://open.spotify.com/track/4qDekoPFfXrRIH1PIsYWyE) | [Amanda Tenfjord](https://open.spotify.com/artist/187i912U6kpq0F0Z9uOVXr) | [Pressure](https://open.spotify.com/album/6ipET7sXel899YvB1PZHqZ) | 2:57 | 2024-01-29 |  |
 | [Pretty](https://open.spotify.com/track/6j8JQJB1rFUNIZbpYQLbpp) | [LonelyTwin](https://open.spotify.com/artist/2Nf6fS8HByhmGlwDPPZhHM) | [This End Had No Beginning](https://open.spotify.com/album/3JxvP66tU4dBgNr9qUg8zB) | 3:10 | 2024-01-29 |  |
 | [Rathana](https://open.spotify.com/track/4sdQxjTvfxY9KkvQDAcDYt) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Halva vägen fri](https://open.spotify.com/album/1dHZzTTbt6vpGRej48y8BL) | 3:40 | 2024-01-29 |  |
-| [Regn över Zinken](https://open.spotify.com/track/5vNdZIUXEMgcTt46CuhA7C) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Regn över Zinken](https://open.spotify.com/album/7KBJwS8O2z8ZslnjQONpgb) | 4:04 | 2025-09-19 |  |
+| [Regn över Zinken](https://open.spotify.com/track/5GRZ0j6qBkKVLZBBpRXMBl) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Tryna make it in LA](https://open.spotify.com/album/4fp8OAtfX796SBKkwfvQ9D) | 4:04 | 2025-11-16 |  |
+| [Regn över Zinken](https://open.spotify.com/track/5vNdZIUXEMgcTt46CuhA7C) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Regn över Zinken](https://open.spotify.com/album/7KBJwS8O2z8ZslnjQONpgb) | 4:04 | 2025-09-19 | 2025-11-17 |
 | [RESET](https://open.spotify.com/track/2peKpF1i9muFKph6JtBTvN) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE SWITCH](https://open.spotify.com/album/5IEMUcisVV23gFbC471rTy) | 2:41 | 2024-05-01 |  |
 | [RESET](https://open.spotify.com/track/2WQN4YorpjKFYiRXVeq3DD) | [Shin Giwon Piano](https://open.spotify.com/artist/0hKq3u04JU5IuGNSTGyngJ) | [Kpop Piano \#70](https://open.spotify.com/album/4kJWITPSP2fptI2bDgEMk6) | 2:43 | 2025-02-04 | 2025-02-09 |
-| [Saltvatten](https://open.spotify.com/track/3HSGRCxQNn67uVhtjFMnju) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe), [Kasino](https://open.spotify.com/artist/3IEtgyeW1PloQcjPDxItk2) | [Saltvatten](https://open.spotify.com/album/20vHV2i2Xsq1fKZ7WwKMZz) | 3:46 | 2025-10-09 |  |
+| [Saltvatten](https://open.spotify.com/track/3HSGRCxQNn67uVhtjFMnju) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe), [Kasino](https://open.spotify.com/artist/3IEtgyeW1PloQcjPDxItk2) | [Saltvatten](https://open.spotify.com/album/20vHV2i2Xsq1fKZ7WwKMZz) | 3:46 | 2025-10-09 | 2025-11-17 |
+| [Saltvatten](https://open.spotify.com/track/4AyTEiu2SXfwsPbkBa80gn) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe), [Kasino](https://open.spotify.com/artist/3IEtgyeW1PloQcjPDxItk2) | [Tryna make it in LA](https://open.spotify.com/album/4fp8OAtfX796SBKkwfvQ9D) | 3:46 | 2025-11-16 |  |
 | [Same Old](https://open.spotify.com/track/3GCVYVuCRRMH7WVtI5V0E3) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Same Old](https://open.spotify.com/album/59YQpTemLWyGdL6oQMPq6w) | 2:55 | 2024-01-29 | 2025-06-28 |
 | [Same Old](https://open.spotify.com/track/7n1OZXdSi6XUK4iB02nzX3) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Same Old](https://open.spotify.com/album/0KjqWjoXVrJsPqHtTJwXSz) | 2:55 | 2025-06-27 |  |
 | [Say Something Now](https://open.spotify.com/track/4M2pbBlLkqUOTKadpAgPnh) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [Waiting](https://open.spotify.com/album/2XyiCujhKmb7ezXGUM4EuY) | 3:29 | 2024-01-29 |  |

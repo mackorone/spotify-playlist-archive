@@ -4,7 +4,7 @@
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-1,331 songs - 3 day 0 hr 18 min
+1,332 songs - 3 day 0 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -369,6 +369,7 @@
 | [Feel Your Love](https://open.spotify.com/track/4h4c2nt7wTFLn0OYVDWOHC) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq) | [Feel Your Love](https://open.spotify.com/album/6NarQFpErQAqgw7Lzv9SXp) | 3:12 | 2021-09-25 | 2021-10-05 |
 | [Feel Your Love \- Tomorrowland Mix](https://open.spotify.com/track/3DZvtV9nOQ2RDfT4nvEEi9) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq) | [Feel Your Love \(Tomorrowland Mix\)](https://open.spotify.com/album/24n3EoncsbDrqv4GI5UdDH) | 2:50 | 2022-07-01 | 2022-08-24 |
 | [Feeling So Real 2024 \- Edit](https://open.spotify.com/track/59shwQBZ8fRkiZXU5E5A6u) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [Feeling So Real 2024](https://open.spotify.com/album/2y3iEKYZHffH4dJQfvbQOb) | 3:23 | 2024-11-22 | 2024-11-25 |
+| [Feels Like Us](https://open.spotify.com/track/23Hxd8ph2vJWlXngubtyuO) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL) | [Feels Like Us](https://open.spotify.com/album/0ENB7j7e8xiRDSMowrclQk) | 3:54 | 2025-11-14 |  |
 | [Ferrari](https://open.spotify.com/track/5xKJI9aPQhuTdTq8BrJ8fL) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU) | [Ferrari](https://open.spotify.com/album/4WLkmuc0lGCBJLtj1yxJI0) | 3:05 | 2022-05-13 | 2024-08-03 |
 | [Ferrari](https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU) | [Ferrari](https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8) | 3:06 | 2022-07-15 | 2024-04-19 |
 | [Fever](https://open.spotify.com/track/7b3tktwO7obxxYuQMiyz5T) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Fever](https://open.spotify.com/album/3FC9JSCOZxpqxishliyxby) | 2:26 | 2025-07-18 |  |
@@ -961,7 +962,7 @@
 | [Safari](https://open.spotify.com/track/473Oq1pusAtbuBgV7AvcaH) | [Michael Mendoza](https://open.spotify.com/artist/6BIhlaTDQjE12D2xHCxTZ2) | [Safari](https://open.spotify.com/album/37JVGiKbSAWFwi0x4gGXlU) | 2:35 | 2020-09-21\* | 2021-01-23 |
 | [Saga](https://open.spotify.com/track/1uujki6DaepMXtCRv4ySKi) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Y do I](https://open.spotify.com/artist/4GVWch4tEmNGIx9gAWrnex) | [Saga](https://open.spotify.com/album/6ooAO2z9UPfC2Rz1c9x52h) | 5:36 | 2024-10-04 | 2025-03-29 |
 | [Same Thing](https://open.spotify.com/track/6XMNNNDOnkTXSh567RaGsb) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6) | [Same Thing](https://open.spotify.com/album/0YXGVn9prM1CoWIiZNGfyL) | 1:55 | 2025-08-01 |  |
-| [Sanctuary](https://open.spotify.com/track/4chU8mXKqVOgwtq5NWUL5r) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [Sanctuary](https://open.spotify.com/album/1tXfc98LLrLiSVd4GRWgyr) | 3:36 | 2025-04-11 |  |
+| [Sanctuary](https://open.spotify.com/track/4chU8mXKqVOgwtq5NWUL5r) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [Sanctuary](https://open.spotify.com/album/1tXfc98LLrLiSVd4GRWgyr) | 3:36 | 2025-04-11 | 2025-11-17 |
 | [Sao Paulo](https://open.spotify.com/track/6XubRj327VPMQCUgJJpCub) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [The Lost Shepherds](https://open.spotify.com/artist/0n5RLOUDVIpQopAEUbY0zU), [Sonny Wilson](https://open.spotify.com/artist/3gTl4XARdQR2Sy59osG0Ia) | [Sao Paulo](https://open.spotify.com/album/521mw9CgSRTzUDE594y3PK) | 3:10 | 2022-04-08 | 2022-07-19 |
 | [Satisfaction](https://open.spotify.com/track/7wSEDWlXFMqBhDHyB9Ojw6) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Satisfaction](https://open.spotify.com/album/3ocRwxucX3212g29vOg7je) | 3:33 | 2024-05-24 | 2025-01-12 |
 | [Savage](https://open.spotify.com/track/76A1RRDEyHKtmV3Vh6PeVN) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Savage](https://open.spotify.com/album/6xBP3A3LFhaVl1Hb7XBCsM) | 2:47 | 2022-04-29 | 2023-03-18 |

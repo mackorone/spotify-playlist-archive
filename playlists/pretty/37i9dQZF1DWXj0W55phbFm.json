@@ -1,6 +1,6 @@
 {
   "description": "The classic trumpet players in Jazz. Cover: Miles Davis",
-  "num_followers": 78397,
+  "num_followers": 78446,
   "original_name": "Jazz Trumpet",
   "owner": {
     "name": "Spotify",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2025-09-10 12:53:12",
       "album": {
-        "name": "Legacy",
-        "url": "https://open.spotify.com/album/6wEdZfcDAEMAG8N69N5BHV"
-      },
-      "artists": [
-        {
-          "name": "Jon Faddis",
-          "url": "https://open.spotify.com/artist/2vDj2N0oq3W44cfteWdMUX"
-        }
-      ],
-      "duration_ms": 285800,
-      "name": "Instigator",
-      "url": "https://open.spotify.com/track/6JC9CimuVsxAgnagjelfmL"
-    },
-    {
-      "added_at": "2025-09-10 12:53:12",
-      "album": {
         "name": "With The Swedish All Stars Vol. 1",
         "url": "https://open.spotify.com/album/07IYJflVPQR4TYZ3tWOcrv"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 320579,
       "name": "Stockholm Sweetnin'",
       "url": "https://open.spotify.com/track/2HTLAtih08iTty4hT6r8bj"
+    },
+    {
+      "added_at": "2025-09-10 12:53:12",
+      "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/6wEdZfcDAEMAG8N69N5BHV"
+      },
+      "artists": [
+        {
+          "name": "Jon Faddis",
+          "url": "https://open.spotify.com/artist/2vDj2N0oq3W44cfteWdMUX"
+        }
+      ],
+      "duration_ms": 285800,
+      "name": "Instigator",
+      "url": "https://open.spotify.com/track/6JC9CimuVsxAgnagjelfmL"
     },
     {
       "added_at": "2025-09-10 12:53:12",
@@ -1487,26 +1487,6 @@
     {
       "added_at": "2025-09-10 12:53:12",
       "album": {
-        "name": "Hubsongs",
-        "url": "https://open.spotify.com/album/59pKnjWQvSgy4kImdZbWIB"
-      },
-      "artists": [
-        {
-          "name": "Tim Hagans",
-          "url": "https://open.spotify.com/artist/6MACuJx69EQiikIyZsEbFr"
-        },
-        {
-          "name": "Marcus Printup",
-          "url": "https://open.spotify.com/artist/5q38comXVCcw1tvCuJOeWf"
-        }
-      ],
-      "duration_ms": 265200,
-      "name": "Hub Cap",
-      "url": "https://open.spotify.com/track/2Re5a1uziT52AjVVpug18m"
-    },
-    {
-      "added_at": "2025-09-10 12:53:12",
-      "album": {
         "name": "Complete Recordings",
         "url": "https://open.spotify.com/album/75J4YwN6TuTTTppIKbaK2O"
       },
@@ -1527,6 +1507,26 @@
       "duration_ms": 298493,
       "name": "Embraceable You",
       "url": "https://open.spotify.com/track/6bvCNMtf3FozBg2zZOh4TP"
+    },
+    {
+      "added_at": "2025-09-10 12:53:12",
+      "album": {
+        "name": "Hubsongs",
+        "url": "https://open.spotify.com/album/59pKnjWQvSgy4kImdZbWIB"
+      },
+      "artists": [
+        {
+          "name": "Tim Hagans",
+          "url": "https://open.spotify.com/artist/6MACuJx69EQiikIyZsEbFr"
+        },
+        {
+          "name": "Marcus Printup",
+          "url": "https://open.spotify.com/artist/5q38comXVCcw1tvCuJOeWf"
+        }
+      ],
+      "duration_ms": 265200,
+      "name": "Hub Cap",
+      "url": "https://open.spotify.com/track/2Re5a1uziT52AjVVpug18m"
     },
     {
       "added_at": "2025-09-10 12:53:12",

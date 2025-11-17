@@ -1,12 +1,12 @@
 {
   "description": "This is Saweetie. The essential tracks, all in one playlist.",
-  "num_followers": 42291,
+  "num_followers": 42293,
   "original_name": "This Is Saweetie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRZxAAAAAAAf3nDgARFQ7VeNzHxd3S7+",
+  "snapshot_id": "aRfCgAAAAAAvG/olEeeR6YFRDdXCXjGs",
   "tracks": [
     {
       "added_at": null,
@@ -403,6 +403,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fast (Motion)",
+        "url": "https://open.spotify.com/album/5vIJnjshQfOPk710tNy9HB"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 170653,
+      "name": "Fast (Motion)",
+      "url": "https://open.spotify.com/track/7zEz7q43xjzbRSUar4yH3m"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "CORINIAN",
         "url": "https://open.spotify.com/album/4qtAux5nQUxDiKr7YE12RW"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 212571,
       "name": "Pretty (feat. Saweetie)",
       "url": "https://open.spotify.com/track/1ALk8Otxy5aSYUvJeoZtlo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fast (Motion)",
-        "url": "https://open.spotify.com/album/5vIJnjshQfOPk710tNy9HB"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 170653,
-      "name": "Fast (Motion)",
-      "url": "https://open.spotify.com/track/7zEz7q43xjzbRSUar4yH3m"
     },
     {
       "added_at": null,
@@ -575,30 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mardi Gras (Go Crazy) [PBM Version]",
-        "url": "https://open.spotify.com/album/2LiuU8KvEVRTZ86GoFT4nz"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "Kool John",
-          "url": "https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 174709,
-      "name": "Mardi Gras (Go Crazy) - PBM Version",
-      "url": "https://open.spotify.com/track/2abIvCHHsNecIV9HwdldsZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "B*tch From Da Souf (Remix)",
         "url": "https://open.spotify.com/album/3o03DZkcxR0OzpsPArhDxy"
       },
@@ -643,6 +619,30 @@
       "duration_ms": 170057,
       "name": "Handstand (with Doja Cat feat. Saweetie)",
       "url": "https://open.spotify.com/track/0JcgIOrlZ0CNUOPxyudnrK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mardi Gras (Go Crazy) [PBM Version]",
+        "url": "https://open.spotify.com/album/2LiuU8KvEVRTZ86GoFT4nz"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Kool John",
+          "url": "https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 174709,
+      "name": "Mardi Gras (Go Crazy) - PBM Version",
+      "url": "https://open.spotify.com/track/2abIvCHHsNecIV9HwdldsZ"
     },
     {
       "added_at": null,
@@ -843,6 +843,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pretty Summer Playlist: Season 1",
+        "url": "https://open.spotify.com/album/2HOYNp9NxRakR9u9na7Wth"
+      },
+      "artists": [
+        {
+          "name": "Loui",
+          "url": "https://open.spotify.com/artist/053fl1QPQFGqSPPxSPcacT"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 126225,
+      "name": "Talkin' Bout (feat. Saweetie)",
+      "url": "https://open.spotify.com/track/66vs64VphiHrtFcLR6Qeav"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Immaculate",
         "url": "https://open.spotify.com/album/4O1qp17rGimPUls9c54bS2"
       },
@@ -863,26 +883,6 @@
       "duration_ms": 154400,
       "name": "Immaculate",
       "url": "https://open.spotify.com/track/21XJd63KiArnOgo39sJezL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pretty Summer Playlist: Season 1",
-        "url": "https://open.spotify.com/album/2HOYNp9NxRakR9u9na7Wth"
-      },
-      "artists": [
-        {
-          "name": "Loui",
-          "url": "https://open.spotify.com/artist/053fl1QPQFGqSPPxSPcacT"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 126225,
-      "name": "Talkin' Bout (feat. Saweetie)",
-      "url": "https://open.spotify.com/track/66vs64VphiHrtFcLR6Qeav"
     },
     {
       "added_at": null,
@@ -967,22 +967,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "High Maintenance",
-        "url": "https://open.spotify.com/album/4Sz0PugCLKo0CEA7zgPplW"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 49242,
-      "name": "High Maintenance",
-      "url": "https://open.spotify.com/track/3pxHcgYG8aKkclfWXBFSWv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "K.R.I.T. IZ HERE",
         "url": "https://open.spotify.com/album/0d8sN1OuLU70PyYVBJzBmG"
       },
@@ -1019,6 +1003,26 @@
       "duration_ms": 176401,
       "name": "Richtivities",
       "url": "https://open.spotify.com/track/78VmtCRovWdLIz3p0Tj7nb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "QUAVO HUNCHO",
+        "url": "https://open.spotify.com/album/2DjfazR5N3TgXBQ7oVALA1"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 182440,
+      "name": "GIVE IT TO EM (feat. Saweetie)",
+      "url": "https://open.spotify.com/track/1kvt3N2KmoSAunaEJNrgNM"
     }
   ],
   "unique_name": "This Is Saweetie",

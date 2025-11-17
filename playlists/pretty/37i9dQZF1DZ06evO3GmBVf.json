@@ -1,12 +1,12 @@
 {
   "description": "This is Lefty Sm. The essential tracks, all in one playlist.",
-  "num_followers": 209485,
+  "num_followers": 209507,
   "original_name": "This Is Lefty Sm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRZxAAAAAABZJ6+pkKDZt/tQGz8QEJRQ",
+  "snapshot_id": "aRfCgAAAAABg3tpyjommf0TKuYtckGG0",
   "tracks": [
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Muero",
-        "url": "https://open.spotify.com/album/0S0AgQdXnkT47Ig8ADDjbF"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 258000,
-      "name": "Muero",
-      "url": "https://open.spotify.com/track/5ZVf2dn3T3EqwolwoIb8xt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Un Ratito",
         "url": "https://open.spotify.com/album/0NCt9a5gcYV8b0Yp3oJspf"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 227200,
       "name": "Un Ratito",
       "url": "https://open.spotify.com/track/5zxcDBDiyNTB5OEcDyCfbq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Muero",
+        "url": "https://open.spotify.com/album/0S0AgQdXnkT47Ig8ADDjbF"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "Muero",
+      "url": "https://open.spotify.com/track/5ZVf2dn3T3EqwolwoIb8xt"
     },
     {
       "added_at": null,
@@ -323,6 +323,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Perfume",
+        "url": "https://open.spotify.com/album/7eT3M6F7oy7UfazRK3JaAw"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 253596,
+      "name": "Perfume",
+      "url": "https://open.spotify.com/track/3yTSZUd3hWqEDBQH9Ga0Z9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Necesidad",
         "url": "https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 189250,
       "name": "Se Fue",
       "url": "https://open.spotify.com/track/73MIYL9Qh0aRzCIc1uWM9g"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Perfume",
-        "url": "https://open.spotify.com/album/7eT3M6F7oy7UfazRK3JaAw"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 253596,
-      "name": "Perfume",
-      "url": "https://open.spotify.com/track/3yTSZUd3hWqEDBQH9Ga0Z9"
     },
     {
       "added_at": null,
@@ -475,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Para",
+        "url": "https://open.spotify.com/album/182ycTI0yqFAoQMJ64M43N"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 198582,
+      "name": "No Para",
+      "url": "https://open.spotify.com/track/3KrZWBY3Zo1HWNFSkG8on5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LEYENDA",
         "url": "https://open.spotify.com/album/69TuNGeXi7iah9B755lakY"
       },
@@ -495,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Para",
-        "url": "https://open.spotify.com/album/182ycTI0yqFAoQMJ64M43N"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 198582,
-      "name": "No Para",
-      "url": "https://open.spotify.com/track/3KrZWBY3Zo1HWNFSkG8on5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shit Masiva",
         "url": "https://open.spotify.com/album/78JJr4jPxcdU5fTQK2NN78"
       },
@@ -527,26 +527,6 @@
       "duration_ms": 217600,
       "name": "Se\u00f1orita Licor",
       "url": "https://open.spotify.com/track/0XhfUuzitgJkATaO7eS86r"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ahora Estoy Mejor",
-        "url": "https://open.spotify.com/album/5BsrTRp4TvgUwRLsvlyKuF"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        },
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 274172,
-      "name": "Ahora Estoy Mejor",
-      "url": "https://open.spotify.com/track/0Wg5AVKIIrnGq25aYU7Inp"
     },
     {
       "added_at": null,
@@ -575,6 +555,26 @@
       "duration_ms": 399230,
       "name": "Bueno Pa Lo Malo",
       "url": "https://open.spotify.com/track/37Wk4Hhm4MIy6Q1Vg8nVMO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ahora Estoy Mejor",
+        "url": "https://open.spotify.com/album/5BsrTRp4TvgUwRLsvlyKuF"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 274172,
+      "name": "Ahora Estoy Mejor",
+      "url": "https://open.spotify.com/track/0Wg5AVKIIrnGq25aYU7Inp"
     },
     {
       "added_at": null,
@@ -779,26 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Sali\u00f3 Caro",
-        "url": "https://open.spotify.com/album/452UvA8ezntpnKuferwxay"
-      },
-      "artists": [
-        {
-          "name": "Toser One",
-          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
-        },
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 177312,
-      "name": "Me Sali\u00f3 Caro",
-      "url": "https://open.spotify.com/track/2lj7jB5D4OuurRaynHAW8y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Fiest\u00f3n",
         "url": "https://open.spotify.com/album/6oUqqtcH3bsQYsRXypgWvx"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 202500,
       "name": "El Fiest\u00f3n",
       "url": "https://open.spotify.com/track/4Vjn04mr4e3VMw5fbO2EVP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Sali\u00f3 Caro",
+        "url": "https://open.spotify.com/album/452UvA8ezntpnKuferwxay"
+      },
+      "artists": [
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 177312,
+      "name": "Me Sali\u00f3 Caro",
+      "url": "https://open.spotify.com/track/2lj7jB5D4OuurRaynHAW8y"
     },
     {
       "added_at": null,

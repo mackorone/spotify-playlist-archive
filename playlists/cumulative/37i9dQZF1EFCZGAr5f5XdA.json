@@ -1360,6 +1360,24 @@
     {
       "album": {
         "name": "Family Business",
+        "url": "https://open.spotify.com/album/6r4O8UTnfCu8GTyzowcpF9"
+      },
+      "artists": [
+        {
+          "name": "Lawrence",
+          "url": "https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE"
+        }
+      ],
+      "date_added": "2025-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198266,
+      "name": "Family Business",
+      "url": "https://open.spotify.com/track/1jB06JAOZXqQaOyGC9XlWR"
+    },
+    {
+      "album": {
+        "name": "Family Business",
         "url": "https://open.spotify.com/album/0WF1oRTBC2WNIrBUNUX8tn"
       },
       "artists": [
@@ -1370,7 +1388,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-17",
       "duration_ms": 198266,
       "name": "Family Business",
       "url": "https://open.spotify.com/track/3mbyOasnD7xaNZtycpXO8a"
@@ -1984,7 +2002,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-17",
       "duration_ms": 212093,
       "name": "Holy (feat. Chance The Rapper)",
       "url": "https://open.spotify.com/track/6Xgq7MvZiet0hVi3KaDSgJ"

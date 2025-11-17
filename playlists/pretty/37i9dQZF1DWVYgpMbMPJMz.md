@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > Experience the lastest and the greatest Worship music right here, right now\. Cover: Kristian Stanfill
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,032,011 likes - 90 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,032,015 likes - 90 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

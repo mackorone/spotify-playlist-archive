@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Sam Sauvage, Lewis Capaldi et Miley Cyrus au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 390,739 likes - 103 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 390,722 likes - 103 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

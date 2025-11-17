@@ -2107,6 +2107,24 @@
     },
     {
       "album": {
+        "name": "Hidden Gems",
+        "url": "https://open.spotify.com/album/7gcHB4LFJHHv8EMJo2cVdm"
+      },
+      "artists": [
+        {
+          "name": "Josh Groban",
+          "url": "https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF"
+        }
+      ],
+      "date_added": "2025-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230226,
+      "name": "Everything You Needed",
+      "url": "https://open.spotify.com/track/3Hjl3OZnxOVGMFHvlzGzkI"
+    },
+    {
+      "album": {
         "name": "A.K.A. (Deluxe)",
         "url": "https://open.spotify.com/album/7DoFFUz6BAVBwUFaMCTTcL"
       },

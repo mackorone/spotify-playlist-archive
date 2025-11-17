@@ -1,6 +1,6 @@
 {
   "description": "Explore the stellar corners of the genre's expansive and marvelous universe.",
-  "num_followers": 40157,
+  "num_followers": 40161,
   "original_name": "Cosmic Country",
   "owner": {
     "name": "Spotify",
@@ -619,22 +619,6 @@
     {
       "added_at": "2025-09-12 04:00:13",
       "album": {
-        "name": "Grievous Angel",
-        "url": "https://open.spotify.com/album/6UQujMGmR5MbFsML9amCuN"
-      },
-      "artists": [
-        {
-          "name": "Gram Parsons",
-          "url": "https://open.spotify.com/artist/1KA3WXYMPLxomNuoE22LYd"
-        }
-      ],
-      "duration_ms": 232693,
-      "name": "Hearts on Fire - 2002 Remaster",
-      "url": "https://open.spotify.com/track/3THXntC8T110BDg3X8OaOf"
-    },
-    {
-      "added_at": "2025-09-12 04:00:13",
-      "album": {
         "name": "Southern Star",
         "url": "https://open.spotify.com/album/5SoDgEyUeO6DcS88kOuR0d"
       },
@@ -651,18 +635,18 @@
     {
       "added_at": "2025-09-12 04:00:13",
       "album": {
-        "name": "Jealous Guy",
-        "url": "https://open.spotify.com/album/5OMFZV2INE430tcKKBaKbZ"
+        "name": "Grievous Angel",
+        "url": "https://open.spotify.com/album/6UQujMGmR5MbFsML9amCuN"
       },
       "artists": [
         {
-          "name": "Luke Bell",
-          "url": "https://open.spotify.com/artist/4D3lmUAeXE2SMsOKd2B8XQ"
+          "name": "Gram Parsons",
+          "url": "https://open.spotify.com/artist/1KA3WXYMPLxomNuoE22LYd"
         }
       ],
-      "duration_ms": 230702,
-      "name": "Jealous Guy",
-      "url": "https://open.spotify.com/track/1H0UI5yQg9hlue3ZIjb7fs"
+      "duration_ms": 232693,
+      "name": "Hearts on Fire - 2002 Remaster",
+      "url": "https://open.spotify.com/track/3THXntC8T110BDg3X8OaOf"
     },
     {
       "added_at": "2025-09-12 04:00:13",
@@ -683,6 +667,22 @@
       "duration_ms": 220699,
       "name": "Oh, Sister [Feat. Courtney Marie Andrews]",
       "url": "https://open.spotify.com/track/4DNWkjZlBuGgSmNnqOVBeN"
+    },
+    {
+      "added_at": "2025-09-12 04:00:13",
+      "album": {
+        "name": "Jealous Guy",
+        "url": "https://open.spotify.com/album/5OMFZV2INE430tcKKBaKbZ"
+      },
+      "artists": [
+        {
+          "name": "Luke Bell",
+          "url": "https://open.spotify.com/artist/4D3lmUAeXE2SMsOKd2B8XQ"
+        }
+      ],
+      "duration_ms": 230702,
+      "name": "Jealous Guy",
+      "url": "https://open.spotify.com/track/1H0UI5yQg9hlue3ZIjb7fs"
     },
     {
       "added_at": "2025-09-12 04:00:13",
@@ -939,22 +939,6 @@
     {
       "added_at": "2025-09-12 04:00:13",
       "album": {
-        "name": "Talking Dogs & Atom Bombs",
-        "url": "https://open.spotify.com/album/3UTuOx53762H0mBIfB49Ma"
-      },
-      "artists": [
-        {
-          "name": "Darrin Bradbury",
-          "url": "https://open.spotify.com/artist/7azO8ieqy1sOm6LkfHtH9w"
-        }
-      ],
-      "duration_ms": 186773,
-      "name": "Breakfast",
-      "url": "https://open.spotify.com/track/4FDGp2BcZSmT9dZucG4ksY"
-    },
-    {
-      "added_at": "2025-09-12 04:00:13",
-      "album": {
         "name": "Mendocino (feat. Duane Eddy)",
         "url": "https://open.spotify.com/album/5QN1GDtbO2Mp3G358g84HX"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 238600,
       "name": "Mendocino (feat. Duane Eddy)",
       "url": "https://open.spotify.com/track/5gAt45dCnLedFHWRzHqi3X"
+    },
+    {
+      "added_at": "2025-09-12 04:00:13",
+      "album": {
+        "name": "Talking Dogs & Atom Bombs",
+        "url": "https://open.spotify.com/album/3UTuOx53762H0mBIfB49Ma"
+      },
+      "artists": [
+        {
+          "name": "Darrin Bradbury",
+          "url": "https://open.spotify.com/artist/7azO8ieqy1sOm6LkfHtH9w"
+        }
+      ],
+      "duration_ms": 186773,
+      "name": "Breakfast",
+      "url": "https://open.spotify.com/track/4FDGp2BcZSmT9dZucG4ksY"
     },
     {
       "added_at": "2025-09-12 04:00:13",
@@ -1227,18 +1227,26 @@
     {
       "added_at": "2025-09-12 04:00:13",
       "album": {
-        "name": "Room 41",
-        "url": "https://open.spotify.com/album/4ABV7fsu8iN6eAmnQhvd0a"
+        "name": "Unchained Melody / You've Lost That Lovin' Feelin'",
+        "url": "https://open.spotify.com/album/2wuSSfY2acuozXaOth22B1"
       },
       "artists": [
         {
+          "name": "The Unrighteous Brothers",
+          "url": "https://open.spotify.com/artist/4Q1IDfpCe7ZRhPDfqeb5dd"
+        },
+        {
           "name": "Paul Cauthen",
           "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
+        },
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
         }
       ],
-      "duration_ms": 239803,
-      "name": "Holy Ghost Fire",
-      "url": "https://open.spotify.com/track/2LjvIdtY6NISb0eIB2wDJb"
+      "duration_ms": 235617,
+      "name": "Unchained Melody",
+      "url": "https://open.spotify.com/track/2rhkDqUHN8qheTE1vZf7T9"
     }
   ],
   "unique_name": "Cosmic Country",

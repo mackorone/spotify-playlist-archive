@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 67 | [El Lugar Que Me Vio Nacer](https://open.spotify.com/track/3YBfSs056lKJKGMPgCjjDF) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Erika Músika](https://open.spotify.com/album/718iVK5qShRrlc1ESGXu8Q) | 4:39 |
 | 68 | [Masoquista \- En Vivo](https://open.spotify.com/track/7FPk7aYGKSTY3J1peYHvQm) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [En Concierto \(En Vivo\)](https://open.spotify.com/album/6PqPQj8baWFcoxKk4G8eTx) | 4:01 |
 | 69 | [Hechicera](https://open.spotify.com/track/0PaAM2fi2zOHrJN7QR34AY) | [Marcos Llunas](https://open.spotify.com/artist/4Zczh0uPcVMO6o80jJDPz5) | [Hechicera](https://open.spotify.com/album/1ZVF58hLH31xOaBAwFsej6) | 3:38 |
-| 70 | [Conectando \(Conectando\)](https://open.spotify.com/track/2ikhylgjcAPjpHyVGgm56W) | [Z4](https://open.spotify.com/artist/5srJ7AfiYT2RgeN6pkShBx) | [Z4 em Espanhol](https://open.spotify.com/album/5w9EHxR8lLrE8Xgw4toFwM) | 2:35 |
-| 71 | [Si Estas Paredes Hablaran](https://open.spotify.com/track/3OrFxB3qMlN1pUQdZegMOa) | [Tamara](https://open.spotify.com/artist/1BY90fgPEPLRdSrdIV9zrz) | [Perfecto](https://open.spotify.com/album/3Pe7We0e6yWS59uuL3aJH4) | 3:46 |
+| 70 | [Si Estas Paredes Hablaran](https://open.spotify.com/track/3OrFxB3qMlN1pUQdZegMOa) | [Tamara](https://open.spotify.com/artist/1BY90fgPEPLRdSrdIV9zrz) | [Perfecto](https://open.spotify.com/album/3Pe7We0e6yWS59uuL3aJH4) | 3:46 |
+| 71 | [Conectando \(Conectando\)](https://open.spotify.com/track/2ikhylgjcAPjpHyVGgm56W) | [Z4](https://open.spotify.com/artist/5srJ7AfiYT2RgeN6pkShBx) | [Z4 em Espanhol](https://open.spotify.com/album/5w9EHxR8lLrE8Xgw4toFwM) | 2:35 |
 | 72 | [Primero Muerta](https://open.spotify.com/track/6meWroBtBSUwcTfDFZ98ym) | [Diana Reyes](https://open.spotify.com/artist/5bY76TkueuNA4eqIm67Pkz) | [Yo No Creo en los Hombres](https://open.spotify.com/album/6QZP7gsvCUtxizd2pknkYj) | 3:16 |
 | 73 | [Mi Mujer Es un Policia](https://open.spotify.com/track/0W9DlZs84KztEtex3eHg99) | [Luisito Ayala Y La Puerto Rican Power](https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7) | [Tranquilo y Tropical](https://open.spotify.com/album/1gYTKWdnL1Cb5AAoJUL1NY) | 4:34 |
 | 74 | [Mi Mejor Mitad](https://open.spotify.com/track/5TDPTAgxdp3i3tWr3v50Xu) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Tatuajes \(Deluxe Edition\)](https://open.spotify.com/album/2DZDIKC1Cauj2lXimkbZS4) | 3:23 |
@@ -155,4 +155,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 145 | [A Punto de Naufragar](https://open.spotify.com/track/0CMlI2cENOzR1xsBohRovm) | [Fernando Acosta](https://open.spotify.com/artist/4nTDn2UoT14TUvuNn05NM5) | [Entre el Piano y el Amor](https://open.spotify.com/album/5zPHOmWSNzyncdUinKCVZJ) | 4:29 |
 | 146 | [Cuarto Menguante](https://open.spotify.com/track/0jn4mbofhTz8M5iWAKFc51) | [LIZZIE BLASINI](https://open.spotify.com/artist/3U6BxnObGblB6VI1f5lvpH) | [Cuarto Menguante](https://open.spotify.com/album/3FoNl5uOXTrmILe49C1aN7) | 4:22 |
 
-Snapshot ID: `AcBr3AAAAAC24i8DSzeKgYVUUdEQDO3G`
+Snapshot ID: `AcBxfAAAAABhvUAjTQo4UQJ/OsPI6jkJ`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2HpgBCM7ux9R3elzo7wXlS.md) - [plain]
 
 > All of it
 
-[Harrison](https://open.spotify.com/user/lewdbuatf9ul0cn9q5ass75lh) - 0 likes - 1,041 songs - 2 day 15 hr 56 min
+[Harrison](https://open.spotify.com/user/lewdbuatf9ul0cn9q5ass75lh) - 0 likes - 1,042 songs - 2 day 16 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1049,5 +1049,6 @@ pretty - [cumulative](/playlists/cumulative/2HpgBCM7ux9R3elzo7wXlS.md) - [plain]
 | 1039 | [i hate sundays](https://open.spotify.com/track/3PngDJnjp0Gf8dvL7ufWVg) | [Murr](https://open.spotify.com/artist/3GMY6RVmh6Ud1aKHqKt9Fn) | [The Chameleon](https://open.spotify.com/album/2XZPQXwsIx1hY8jdoHIjzr) | 3:42 |
 | 1040 | [Serpent Lullaby](https://open.spotify.com/track/5L0YAr8FVgUi6QJXlkTqHi) | [The Brudi Brothers](https://open.spotify.com/artist/7pOVIu213yYI9X7Ylfyh2K) | [Serpent Lullaby](https://open.spotify.com/album/1BXIvy3pI9teSxPPntvzwz) | 3:17 |
 | 1041 | [The Moon Will Sing](https://open.spotify.com/track/4v0Zqmuhlbt5nCj712Y26n) | [The Crane Wives](https://open.spotify.com/artist/5U6leWxYKsuTkd4kXcF1a6) | [Coyote Stories](https://open.spotify.com/album/7LhR1u0oyu001ADfAxEtsS) | 3:40 |
+| 1042 | [Rosemary](https://open.spotify.com/track/2WzbImUwpFZYnl6Zn44API) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Trail Of Flowers](https://open.spotify.com/album/6NRPQ8RjivuC1pd2raPEuz) | 3:36 |
 
-Snapshot ID: `AAAHu9Ai+nMWlw5Dig8+6ovWP5BrOhsP`
+Snapshot ID: `AAAHvKpqWy5wjV2h8ahdjYApjtxYRpTe`

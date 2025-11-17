@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX786ROcOIz84.md) - [plain]
 
 > Our editors' pick of the best lofi tunes this year\. Study, relax, see you in 2025.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,365 likes - 75 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,367 likes - 75 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

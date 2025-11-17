@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 
 > a playlist without boundaries, featuring wasia project 🌹
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,324 likes - 120 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,286 likes - 120 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

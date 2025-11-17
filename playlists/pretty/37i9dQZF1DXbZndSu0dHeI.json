@@ -1,6 +1,6 @@
 {
   "description": "Really lovely songs.",
-  "num_followers": 234408,
+  "num_followers": 234409,
   "original_name": "The Lovely Little Playlist",
   "owner": {
     "name": "Spotify",
@@ -27,6 +27,22 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
+        "name": "The Boy With the Arab Strap",
+        "url": "https://open.spotify.com/album/0PnuQg8OK4KoOPrwhgyKRQ"
+      },
+      "artists": [
+        {
+          "name": "Belle and Sebastian",
+          "url": "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
+        }
+      ],
+      "duration_ms": 314066,
+      "name": "The Boy With the Arab Strap",
+      "url": "https://open.spotify.com/track/5GPPI3rnZDptLYRN4vTUoZ"
+    },
+    {
+      "added_at": "2025-03-29 09:30:14",
+      "album": {
         "name": "Forever Is A Feeling",
         "url": "https://open.spotify.com/album/2PedUC4azy5ywqWp8gVVrs"
       },
@@ -43,22 +59,6 @@
       "duration_ms": 203490,
       "name": "Bullseye (with Hozier)",
       "url": "https://open.spotify.com/track/6hwzlorpMDQsHtIhwoNPP9"
-    },
-    {
-      "added_at": "2025-03-29 09:30:14",
-      "album": {
-        "name": "The Boy With the Arab Strap",
-        "url": "https://open.spotify.com/album/0PnuQg8OK4KoOPrwhgyKRQ"
-      },
-      "artists": [
-        {
-          "name": "Belle and Sebastian",
-          "url": "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
-        }
-      ],
-      "duration_ms": 314066,
-      "name": "The Boy With the Arab Strap",
-      "url": "https://open.spotify.com/track/5GPPI3rnZDptLYRN4vTUoZ"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -359,22 +359,6 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
-        "name": "Let's Get Out Of This Country",
-        "url": "https://open.spotify.com/album/3NcGNYXKiHeygdXXL7czL1"
-      },
-      "artists": [
-        {
-          "name": "Camera Obscura",
-          "url": "https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt"
-        }
-      ],
-      "duration_ms": 231160,
-      "name": "Lloyd, I'm Ready To Be Heartbroken",
-      "url": "https://open.spotify.com/track/52PuLmsxTDOI2WAqpzYjoT"
-    },
-    {
-      "added_at": "2025-03-29 09:30:14",
-      "album": {
         "name": "unposted letters",
         "url": "https://open.spotify.com/album/6GHaGnLbjpvGCqXWxQpemG"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 205230,
       "name": "unposted letters",
       "url": "https://open.spotify.com/track/2IvWwO7uGWthBDqifdv9kc"
+    },
+    {
+      "added_at": "2025-03-29 09:30:14",
+      "album": {
+        "name": "Let's Get Out Of This Country",
+        "url": "https://open.spotify.com/album/3NcGNYXKiHeygdXXL7czL1"
+      },
+      "artists": [
+        {
+          "name": "Camera Obscura",
+          "url": "https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt"
+        }
+      ],
+      "duration_ms": 231160,
+      "name": "Lloyd, I'm Ready To Be Heartbroken",
+      "url": "https://open.spotify.com/track/52PuLmsxTDOI2WAqpzYjoT"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -439,22 +439,6 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
-        "name": "Dirty Laundry",
-        "url": "https://open.spotify.com/album/7aSC9q6YLN4hsx0p2ZPH2Q"
-      },
-      "artists": [
-        {
-          "name": "The Army, The Navy",
-          "url": "https://open.spotify.com/artist/4MAnvDgzeM6bAVUVUbUeFI"
-        }
-      ],
-      "duration_ms": 156414,
-      "name": "Dirty Laundry",
-      "url": "https://open.spotify.com/track/2Xtkc0tsVpwdLcFZt5SQ97"
-    },
-    {
-      "added_at": "2025-03-29 09:30:14",
-      "album": {
         "name": "{Awayland}",
         "url": "https://open.spotify.com/album/4lZBE5uyS5BGnJOJc88s95"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 223935,
       "name": "Nothing Arrived",
       "url": "https://open.spotify.com/track/4Qegqm597Rw1PfaV43WkLy"
+    },
+    {
+      "added_at": "2025-03-29 09:30:14",
+      "album": {
+        "name": "Dirty Laundry",
+        "url": "https://open.spotify.com/album/7aSC9q6YLN4hsx0p2ZPH2Q"
+      },
+      "artists": [
+        {
+          "name": "The Army, The Navy",
+          "url": "https://open.spotify.com/artist/4MAnvDgzeM6bAVUVUbUeFI"
+        }
+      ],
+      "duration_ms": 156414,
+      "name": "Dirty Laundry",
+      "url": "https://open.spotify.com/track/2Xtkc0tsVpwdLcFZt5SQ97"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -635,22 +635,6 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
-        "name": "a leith ross song",
-        "url": "https://open.spotify.com/album/3HbZ4Auys97D5iSTsjYJP4"
-      },
-      "artists": [
-        {
-          "name": "Kayla Grace",
-          "url": "https://open.spotify.com/artist/12dfSc1rVtEea2qMe38v3T"
-        }
-      ],
-      "duration_ms": 147133,
-      "name": "a leith ross song",
-      "url": "https://open.spotify.com/track/1TUlVxsllap9YEh7KMGUTi"
-    },
-    {
-      "added_at": "2025-03-29 09:30:14",
-      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/3I1oxH4FGfmlO6SSK31N7X"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 176506,
       "name": "Look Out!",
       "url": "https://open.spotify.com/track/4N1zjRwfeYAfKVIjjYbDRX"
+    },
+    {
+      "added_at": "2025-03-29 09:30:14",
+      "album": {
+        "name": "a leith ross song",
+        "url": "https://open.spotify.com/album/3HbZ4Auys97D5iSTsjYJP4"
+      },
+      "artists": [
+        {
+          "name": "Kayla Grace",
+          "url": "https://open.spotify.com/artist/12dfSc1rVtEea2qMe38v3T"
+        }
+      ],
+      "duration_ms": 147133,
+      "name": "a leith ross song",
+      "url": "https://open.spotify.com/track/1TUlVxsllap9YEh7KMGUTi"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -747,6 +747,22 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
+        "name": "Margaux",
+        "url": "https://open.spotify.com/album/66qOyZqMF1BlrenvYYMoJk"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 146811,
+      "name": "Margaux",
+      "url": "https://open.spotify.com/track/7r8gXkNiJJqv2Wb8i8sT1i"
+    },
+    {
+      "added_at": "2025-03-29 09:30:14",
+      "album": {
         "name": "Doomsday",
         "url": "https://open.spotify.com/album/3fs8sgCGTX3vs9JmyFYCBS"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 150662,
       "name": "How Beautiful Life Can Be - Single Version",
       "url": "https://open.spotify.com/track/3GrRJRZabcEpKD1HI59nFK"
-    },
-    {
-      "added_at": "2025-03-29 09:30:14",
-      "album": {
-        "name": "Margaux",
-        "url": "https://open.spotify.com/album/66qOyZqMF1BlrenvYYMoJk"
-      },
-      "artists": [
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        }
-      ],
-      "duration_ms": 146811,
-      "name": "Margaux",
-      "url": "https://open.spotify.com/track/7r8gXkNiJJqv2Wb8i8sT1i"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -911,22 +911,6 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
-        "name": "Today",
-        "url": "https://open.spotify.com/album/5a14jF7aMhiVPUzV2IVavH"
-      },
-      "artists": [
-        {
-          "name": "Far Caspian",
-          "url": "https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4"
-        }
-      ],
-      "duration_ms": 166413,
-      "name": "Today",
-      "url": "https://open.spotify.com/track/7KVGTie5N8KjstWEHRS5qU"
-    },
-    {
-      "added_at": "2025-03-29 09:30:14",
-      "album": {
         "name": "Me and My Friends",
         "url": "https://open.spotify.com/album/31ZCBDVcq70qoL7C7CUiAd"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 200000,
       "name": "Me and My Friends",
       "url": "https://open.spotify.com/track/7Bo8vjwc0qfdHeIixhHW6X"
+    },
+    {
+      "added_at": "2025-03-29 09:30:14",
+      "album": {
+        "name": "Today",
+        "url": "https://open.spotify.com/album/5a14jF7aMhiVPUzV2IVavH"
+      },
+      "artists": [
+        {
+          "name": "Far Caspian",
+          "url": "https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4"
+        }
+      ],
+      "duration_ms": 166413,
+      "name": "Today",
+      "url": "https://open.spotify.com/track/7KVGTie5N8KjstWEHRS5qU"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -991,6 +991,22 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
+        "name": "Citadel Band",
+        "url": "https://open.spotify.com/album/7mMwcMgwE98WjsxiCcCiQH"
+      },
+      "artists": [
+        {
+          "name": "Loney dear",
+          "url": "https://open.spotify.com/artist/4Bb8rhvCjLOjNOl1DbFkph"
+        }
+      ],
+      "duration_ms": 238280,
+      "name": "Ignorant Boy, Beautiful Girl (Namanama)",
+      "url": "https://open.spotify.com/track/7JsvW1GU2hbMnGETSyy7ig"
+    },
+    {
+      "added_at": "2025-03-29 09:30:14",
+      "album": {
         "name": "Wavepool",
         "url": "https://open.spotify.com/album/6tgfkgWahbKBM3q1GV4XgL"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 218810,
       "name": "Wavepool",
       "url": "https://open.spotify.com/track/1ZcjlVzHuLGEenurSfytvJ"
-    },
-    {
-      "added_at": "2025-03-29 09:30:14",
-      "album": {
-        "name": "Citadel Band",
-        "url": "https://open.spotify.com/album/7mMwcMgwE98WjsxiCcCiQH"
-      },
-      "artists": [
-        {
-          "name": "Loney dear",
-          "url": "https://open.spotify.com/artist/4Bb8rhvCjLOjNOl1DbFkph"
-        }
-      ],
-      "duration_ms": 238280,
-      "name": "Ignorant Boy, Beautiful Girl (Namanama)",
-      "url": "https://open.spotify.com/track/7JsvW1GU2hbMnGETSyy7ig"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
-        "name": "I've Got Feelings",
-        "url": "https://open.spotify.com/album/2bLRDPpnlBgpuHQg0qVmo1"
-      },
-      "artists": [
-        {
-          "name": "Will Bryant",
-          "url": "https://open.spotify.com/artist/2uJRUFEELBSNirlF7oFHea"
-        }
-      ],
-      "duration_ms": 241981,
-      "name": "I've Got Feelings",
-      "url": "https://open.spotify.com/track/6AufSqeMerHPyCYy7PcvvP"
-    },
-    {
-      "added_at": "2025-03-29 09:30:14",
-      "album": {
         "name": "Shelter",
         "url": "https://open.spotify.com/album/2fnADmeEO13U3Lb4PNsFo3"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 197779,
       "name": "Shelter",
       "url": "https://open.spotify.com/track/0hyTH8NRRQeaFjbfoktfnc"
+    },
+    {
+      "added_at": "2025-03-29 09:30:14",
+      "album": {
+        "name": "I've Got Feelings",
+        "url": "https://open.spotify.com/album/2bLRDPpnlBgpuHQg0qVmo1"
+      },
+      "artists": [
+        {
+          "name": "Will Bryant",
+          "url": "https://open.spotify.com/artist/2uJRUFEELBSNirlF7oFHea"
+        }
+      ],
+      "duration_ms": 241981,
+      "name": "I've Got Feelings",
+      "url": "https://open.spotify.com/track/6AufSqeMerHPyCYy7PcvvP"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
+        "name": "Garden of Eden",
+        "url": "https://open.spotify.com/album/3pw1gb17EJ7ILSm9b28ZgQ"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 199480,
+      "name": "Garden of Eden",
+      "url": "https://open.spotify.com/track/6jF6VwQeIiy18FUH0wuIQN"
+    },
+    {
+      "added_at": "2025-03-29 09:30:14",
+      "album": {
         "name": "Reach Out / Olympus",
         "url": "https://open.spotify.com/album/5cXWxz4WZUPtMIeSLK3HDL"
       },
@@ -1351,18 +1367,18 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
-        "name": "Garden of Eden",
-        "url": "https://open.spotify.com/album/3pw1gb17EJ7ILSm9b28ZgQ"
+        "name": "Where Sky Becomes Sea",
+        "url": "https://open.spotify.com/album/5HnWBgUMo42JHHsDMOkAdD"
       },
       "artists": [
         {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+          "name": "Palace",
+          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
         }
       ],
-      "duration_ms": 199480,
-      "name": "Garden of Eden",
-      "url": "https://open.spotify.com/track/6jF6VwQeIiy18FUH0wuIQN"
+      "duration_ms": 317270,
+      "name": "Where Sky Becomes Sea",
+      "url": "https://open.spotify.com/track/4R9CJUZVrHTyL8L1bkVlAT"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -1379,22 +1395,6 @@
       "duration_ms": 207312,
       "name": "Dust",
       "url": "https://open.spotify.com/track/6xq2ewiAEbFJt0PT8uharC"
-    },
-    {
-      "added_at": "2025-03-29 09:30:14",
-      "album": {
-        "name": "Where Sky Becomes Sea",
-        "url": "https://open.spotify.com/album/5HnWBgUMo42JHHsDMOkAdD"
-      },
-      "artists": [
-        {
-          "name": "Palace",
-          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
-        }
-      ],
-      "duration_ms": 317270,
-      "name": "Where Sky Becomes Sea",
-      "url": "https://open.spotify.com/track/4R9CJUZVrHTyL8L1bkVlAT"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
-        "name": "Nazareth",
-        "url": "https://open.spotify.com/album/0dGHtn2QNcrxne6aIAm3Lj"
+        "name": "Jessie's House",
+        "url": "https://open.spotify.com/album/4CChj4YlzZQ7qCWfZYSuiH"
       },
       "artists": [
         {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+          "name": "Findlay",
+          "url": "https://open.spotify.com/artist/12XBVoWq6M6etLxxe1TQWn"
         }
       ],
-      "duration_ms": 250162,
-      "name": "Nazareth",
-      "url": "https://open.spotify.com/track/03JgKNVxicoLINfg3q8qBv"
+      "duration_ms": 196892,
+      "name": "Jessie's House",
+      "url": "https://open.spotify.com/track/5XqflTC9Cn3YCdDvIXSDFK"
     }
   ],
   "unique_name": "The Lovely Little Playlist",

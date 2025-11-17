@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRZxAAAAAADkjLFEyYZnO0N3zywdGT3I",
+  "snapshot_id": "aRfCgAAAAAAW+e/QMDo7Fl/mzNWe6NcA",
   "tracks": [
     {
       "added_at": null,
@@ -279,22 +279,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "London Ko",
-        "url": "https://open.spotify.com/album/3FnZTIThL7sm42d5t7pZ1C"
+        "name": "The Art of Love & War",
+        "url": "https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15"
       },
       "artists": [
         {
-          "name": "Fatoumata Diawara",
-          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
-        },
-        {
           "name": "Angie Stone",
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        },
+        {
+          "name": "Betty Wright",
+          "url": "https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz"
         }
       ],
-      "duration_ms": 202409,
-      "name": "Somaw",
-      "url": "https://open.spotify.com/track/7j360rnoPfIwKlEW8qSx2g"
+      "duration_ms": 290093,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/6pdcpkWpFFy41HqvUiMofI"
     },
     {
       "added_at": null,
@@ -335,22 +335,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Art of Love & War",
-        "url": "https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15"
+        "name": "London Ko",
+        "url": "https://open.spotify.com/album/3FnZTIThL7sm42d5t7pZ1C"
       },
       "artists": [
         {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+          "name": "Fatoumata Diawara",
+          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
         },
         {
-          "name": "Betty Wright",
-          "url": "https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz"
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
         }
       ],
-      "duration_ms": 290093,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/6pdcpkWpFFy41HqvUiMofI"
+      "duration_ms": 202409,
+      "name": "Somaw",
+      "url": "https://open.spotify.com/track/7j360rnoPfIwKlEW8qSx2g"
     },
     {
       "added_at": null,
@@ -403,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Covered in Soul",
-        "url": "https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 248480,
-      "name": "It's Too Late",
-      "url": "https://open.spotify.com/track/0FPwnqxQP6sdY77FFIcGh7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Retroflection Remixed",
         "url": "https://open.spotify.com/album/6W5TD4Bt2OcjDDFlFNx2wq"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 327796,
       "name": "Don't Stop The Music - Art Of Tones Modern Disco Mix",
       "url": "https://open.spotify.com/track/5Palg39d9eAEgi43NHKSKz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Covered in Soul",
+        "url": "https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 248480,
+      "name": "It's Too Late",
+      "url": "https://open.spotify.com/track/0FPwnqxQP6sdY77FFIcGh7"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Covered in Soul",
-        "url": "https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 185333,
-      "name": "O-O-H Child",
-      "url": "https://open.spotify.com/track/4x0ub8v8iGkcQ1WrJWhiJl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Worldwide Underground",
         "url": "https://open.spotify.com/album/1oJIFrDoyKF1aV8sq0rBAQ"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 326226,
       "name": "Love Of My Life Worldwide",
       "url": "https://open.spotify.com/track/7sfv48GFGTACbipv2osobB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Covered in Soul",
+        "url": "https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 185333,
+      "name": "O-O-H Child",
+      "url": "https://open.spotify.com/track/4x0ub8v8iGkcQ1WrJWhiJl"
     },
     {
       "added_at": null,
@@ -743,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Art of Love & War",
+        "url": "https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 82866,
+      "name": "Go Back To Your Life",
+      "url": "https://open.spotify.com/track/4bId2ICKxum3Y2fZXJjCpy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Human Stone (feat. Angie Stone)",
         "url": "https://open.spotify.com/album/5JDtdJsp89vm1wldP6Qwro"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 207656,
       "name": "The Human Stone (feat. Angie Stone)",
       "url": "https://open.spotify.com/track/2zhgYDsj5s9ucveGRlEr9F"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Art of Love & War",
-        "url": "https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 82866,
-      "name": "Go Back To Your Life",
-      "url": "https://open.spotify.com/track/4bId2ICKxum3Y2fZXJjCpy"
     },
     {
       "added_at": null,
@@ -839,22 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Covered in Soul",
-        "url": "https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 176426,
-      "name": "Red, Red Wine",
-      "url": "https://open.spotify.com/track/6F6b3hTQchWivuPewh4B1t"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Art of Love & War",
         "url": "https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 271493,
       "name": "Sit Down",
       "url": "https://open.spotify.com/track/1FK3aV8VFowrZh9xanIerZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Covered in Soul",
+        "url": "https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 176426,
+      "name": "Red, Red Wine",
+      "url": "https://open.spotify.com/track/6F6b3hTQchWivuPewh4B1t"
     },
     {
       "added_at": null,

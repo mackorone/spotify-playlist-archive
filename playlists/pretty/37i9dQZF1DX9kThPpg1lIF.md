@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9kThPpg1lIF.md) - [plain]
 
 > baby lock the door and turn the lights down low
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,856 likes - 52 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,902 likes - 52 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

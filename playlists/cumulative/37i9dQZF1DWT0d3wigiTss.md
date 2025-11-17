@@ -4,7 +4,7 @@
 
 > Adormecer ao som relaxante da chuva.
 
-435 songs - 20 hr 7 min
+435 songs - 20 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Dream Rain](https://open.spotify.com/track/4nmDCD7xB5mBFsupQxcx8M) | [24H Rain Sounds](https://open.spotify.com/artist/3Gx6UNiTUubJFQzUyUjKQW) | [Dream Rain](https://open.spotify.com/album/1J0soxGBVkV0duPq6dIZ5R) | 2:47 | 2023-06-15 | 2024-03-21 |
 | [Dreamy Rain](https://open.spotify.com/track/0oSU0oQ4xp3H6sMh1In9W8) | [Rainded](https://open.spotify.com/artist/0fHeyixPnac66k5oBPclVW) | [Skyscraps](https://open.spotify.com/album/6GsRwYmzOWbrMDXtBUmkCN) | 2:31 | 2023-06-15 |  |
 | [Dripping Rain](https://open.spotify.com/track/0Of6J0VrkGeNm8YRpTYby9) | [Golden Drops](https://open.spotify.com/artist/75zbTyxmkNUkQuygPB6fUQ) | [Dripping Rain](https://open.spotify.com/album/2B2IvBr9t2Qy0w5fjall3b) | 2:39 | 2023-06-15 |  |
-| [Drizzling Down](https://open.spotify.com/track/4scLidW4WSD9JbaRc9CspV) | [Liquid Dance](https://open.spotify.com/artist/5trjp6hXOHtTlaRSR8MEFL) | [Magic Sky](https://open.spotify.com/album/3NL617iuOV8yw2boaIDbLN) | 2:17 | 2023-06-15 |  |
+| [Drizzling Down](https://open.spotify.com/track/4scLidW4WSD9JbaRc9CspV) | [Liquid Dance](https://open.spotify.com/artist/5trjp6hXOHtTlaRSR8MEFL) | [Magic Sky](https://open.spotify.com/album/3NL617iuOV8yw2boaIDbLN) | 2:17 | 2023-06-15 | 2025-11-17 |
 | [Droplet Drift](https://open.spotify.com/track/5L7KXB9VytvwVTz7qcuCL9) | [Instant Recuperate](https://open.spotify.com/artist/38y9kFWR4BFY9lhR6dXMBV) | [Droplet Drift](https://open.spotify.com/album/280YFBsxQ3p9XvxZ94RtVy) | 3:08 | 2023-06-15 |  |
 | [Drops And Thunder](https://open.spotify.com/track/00ChJJWChWCHfHDOnsnWvv) | [Amida Nature Sounds](https://open.spotify.com/artist/6ouSV6Bg58MfXLmO7daZiK) | [Drops And Thunder](https://open.spotify.com/album/76jXwUgn06OiCEwod0lZvd) | 2:02 | 2023-06-15 | 2024-03-21 |
 | [Drops During Dream](https://open.spotify.com/track/0Y2AiBpOVTg69UDxGozu4w) | [Alois](https://open.spotify.com/artist/6WqG9JAQw07tR3BUuwNTHt) | [Drops During Dream](https://open.spotify.com/album/2uZ06TUDBXNc54ueZj8o8i) | 2:20 | 2023-06-15 |  |
@@ -92,7 +92,7 @@
 | [Earth Rain](https://open.spotify.com/track/678emSwcNj7TVaNlFRt2DC) | [Celestial Noise](https://open.spotify.com/artist/6UxIoQdnDknYEYsVX61G9z) | [Space Rain](https://open.spotify.com/album/456q0OuTOQvx6QuVxdmB3K) | 3:41 | 2023-06-15 |  |
 | [Earthly Breeze Rain](https://open.spotify.com/track/3qUTSu08pdZb2fR5aAskKP) | [Mother Nature Sound FX](https://open.spotify.com/artist/4lrOh2SR7H3guHky2lAYOk) | [Tranquil Rain](https://open.spotify.com/album/0Mmvg8rBE91sWDrdMNzeJm) | 2:16 | 2023-06-15 |  |
 | [Electric Drops](https://open.spotify.com/track/3dHVp4tIryXs62JYtcINhc) | [Zinan](https://open.spotify.com/artist/53Ogdlq3YW29r02FV64tYH) | [Bedtime Thunder](https://open.spotify.com/album/07VjmhXeWj2hUMXPZlxQ9T) | 3:28 | 2023-06-15 | 2024-03-21 |
-| [En Sintonía](https://open.spotify.com/track/0JGDyzJ1lBIkvcTVSKYWsf) | [Radio Pluvialis](https://open.spotify.com/artist/55ZWeI199GqB3xiSig23pa) | [En Sintonía](https://open.spotify.com/album/3fnaCxg6msIv9Pmtv5haC3) | 2:40 | 2023-06-15 | 2025-04-25 |
+| [En Sintonía](https://open.spotify.com/track/0JGDyzJ1lBIkvcTVSKYWsf) | [Radio Pluvialis](https://open.spotify.com/artist/55ZWeI199GqB3xiSig23pa) | [En Sintonía](https://open.spotify.com/album/3fnaCxg6msIv9Pmtv5haC3) | 2:40 | 2023-06-15 |  |
 | [Endless Rain Loop](https://open.spotify.com/track/3MU3OGBU2fJS23fIU3JE8s) | [Four Winds](https://open.spotify.com/artist/3MNXmvXsz12M9aeI4w6qqE) | [Clean Rain](https://open.spotify.com/album/5ejOmM66rpAkjk3Y8BGzQB) | 3:56 | 2023-06-15 |  |
 | [Entre Gotas](https://open.spotify.com/track/7qOERAzik4dEeYKJH2ZsgW) | [Cumulus](https://open.spotify.com/artist/78RzbCrbIehBAcQZNyATUb) | [Entre Gotas](https://open.spotify.com/album/5zbp7kZg8jDJAvPFMX0WGl) | 2:18 | 2023-06-15 |  |
 | [Eternal Storm](https://open.spotify.com/track/0QRdzBl9GDhegqN22xI0lz) | [BLITZ](https://open.spotify.com/artist/0Mh5A7teUHad8RrOy9TvkH) | [Eternal Storm](https://open.spotify.com/album/4AJCJmgWWXCmhkKvnJk24n) | 3:36 | 2023-06-15 | 2025-10-06 |
@@ -231,7 +231,7 @@
 | [Perfect Rainy Green Noise](https://open.spotify.com/track/7vfumRcj1Ga69SEulVaFQJ) | [JBE Noise Factory](https://open.spotify.com/artist/42f8Y2VsCZeUEdkbWxQejb) | [Green Noise Vol\. 1](https://open.spotify.com/album/5ZSsHlWLo7Zginr7ig47Pw) | 2:38 | 2023-06-15 |  |
 | [Piogga](https://open.spotify.com/track/0ZRTBESw4BjX22iOcU3kRx) | [L'acqua Cade](https://open.spotify.com/artist/6LvjboIMlXnreAptglx2SP) | [Gocce](https://open.spotify.com/album/7Meq6WVLcmNcK9r4Sn3WvQ) | 2:39 | 2023-06-15 |  |
 | [Pluie légère et tonnerre](https://open.spotify.com/track/1SAvBx0Uzm0UQz6u5J85M9) | [Tonerre](https://open.spotify.com/artist/7885SjDRQfxBJ8MTfomwHz) | [Orage](https://open.spotify.com/album/1FjY5FiGhfsBGOlm2A4mFj) | 2:09 | 2023-06-15 |  |
-| [Pluie tropicale](https://open.spotify.com/track/3PCELNifmPZJVtvIbwxpuD) | [Vædret](https://open.spotify.com/artist/1S5E0AilcCGAl0KnP1woIH) | [Tonnerre lourd](https://open.spotify.com/album/33l1GbjNp8nN1PqRybdLIF) | 2:44 | 2023-06-15 | 2025-08-06 |
+| [Pluie près du ruisseau](https://open.spotify.com/track/3PCELNifmPZJVtvIbwxpuD) | [Vædret](https://open.spotify.com/artist/1S5E0AilcCGAl0KnP1woIH) | [Tonnerre lourd](https://open.spotify.com/album/33l1GbjNp8nN1PqRybdLIF) | 1:48 | 2023-06-15 |  |
 | [Porch Cleanse](https://open.spotify.com/track/20djsX0GYVMsGjRVTeuOVP) | [Aquamoon](https://open.spotify.com/artist/20FQZwDT0EqBx7aSMrt5NA) | [Waterworlds](https://open.spotify.com/album/3UO36j9PRWy5ORvJbuJ5zM) | 2:18 | 2023-06-15 | 2023-12-21 |
 | [Porch Rain](https://open.spotify.com/track/20MgVRAn4tiWKWT6REyQms) | [Zen Reverie](https://open.spotify.com/artist/68ADaLY9nNxvPUyUgPKqLp) | [Colors of Rain](https://open.spotify.com/album/1H2XHA4Q14Eh1Dnvpgo8qC) | 6:08 | 2023-06-15 |  |
 | [Pouring Rain & Rolling Thunder](https://open.spotify.com/track/6VEmDZ6uIdTdkM2hxJKNhF) | [Essential Nature Sounds](https://open.spotify.com/artist/5VhOnYoFtMQVsuUJMfXk0M) | [Dark Rain & Deep Thunder](https://open.spotify.com/album/57ur6LcL32QEuI2PXgZ0yK) | 3:31 | 2023-06-15 | 2023-12-21 |
@@ -282,7 +282,7 @@
 | [Rain Wall For Sleep](https://open.spotify.com/track/5qBURD07mYmymBewmZf3de) | [Natures Acoustics](https://open.spotify.com/artist/2JwZFiiENk7S0lKD4lyTk1) | [Night Time Rain Fall](https://open.spotify.com/album/1sKdVqFClvg3wW3qmd1FIM) | 2:33 | 2023-06-15 |  |
 | [Rain White Noise](https://open.spotify.com/track/7wiYlHZDFHzFJt3YvdZ3Qc) | [Score Of The Poar](https://open.spotify.com/artist/1wF4K9mRRgY5YGI0Jv1HIt) | [Score Of The Poar](https://open.spotify.com/album/6pRNToDMypeLLooSSz7Vby) | 2:00 | 2023-06-15 |  |
 | [Rain White Noise](https://open.spotify.com/track/04gDwncwCgqRuVFyZsrQn5) | [Sound FX of Nature](https://open.spotify.com/artist/27nw1ldFoK3yTpcm3BGKcs) | [Sound FX of Nature](https://open.spotify.com/album/5FeODHtQ6GoIW9yVVLinhI) | 2:34 | 2023-06-15 |  |
-| [Rain Zone](https://open.spotify.com/track/32W2llxLUCICb1tA56NvcL) | [Washy Wonka](https://open.spotify.com/artist/3U9X5kGfb8HedidPV4Vn0L) | [Wicked Weather](https://open.spotify.com/album/4t7eWexNZDGac2eturu9xI) | 2:36 | 2023-06-15 |  |
+| [Rain Zone](https://open.spotify.com/track/32W2llxLUCICb1tA56NvcL) | [Washy Wonka](https://open.spotify.com/artist/3U9X5kGfb8HedidPV4Vn0L) | [Wicked Weather](https://open.spotify.com/album/4t7eWexNZDGac2eturu9xI) | 2:36 | 2023-06-15 | 2025-11-17 |
 | [Rain: Dark Skies](https://open.spotify.com/track/1zH3ZD0xXlwNphuANYz00z) | [H20 Recording](https://open.spotify.com/artist/4bUfAQsEWiP31GmX5D6E1r) | [Rain: Dark Skies](https://open.spotify.com/album/48olG5g74NLiO7jOXNVIv4) | 2:43 | 2023-06-15 |  |
 | [Rain: Shelter](https://open.spotify.com/track/0NaKPfb2P2L098ZQG1JG6u) | [Natures DNA](https://open.spotify.com/artist/1fNJuyfwMNI97MaQuH7azB) | [Rain: Night Sleep](https://open.spotify.com/album/0a0QjOECrdCF9kknizQ2OI) | 2:33 | 2023-06-15 |  |
 | [Rainable](https://open.spotify.com/track/2w3HZGGOknK3juCyLzGBr0) | [Splash n' Dash](https://open.spotify.com/artist/3H8JEgORKc06mYrKIaFMPa) | [Rainable](https://open.spotify.com/album/30ryu3DbZyLyI81WnELdfQ) | 2:50 | 2023-06-15 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Celebrate, amplify, and support LGBTQ+ API musicians. Cover: Towa Bird.",
-  "num_followers": 8576,
+  "num_followers": 8577,
   "original_name": "API Pride",
   "owner": {
     "name": "Spotify",
@@ -163,6 +163,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "in my head",
+        "url": "https://open.spotify.com/album/6LxluJA87ubb7G4prSX07I"
+      },
+      "artists": [
+        {
+          "name": "Mad Tsai",
+          "url": "https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB"
+        }
+      ],
+      "duration_ms": 224940,
+      "name": "in my head",
+      "url": "https://open.spotify.com/track/4E4K8qooKOsDHpZrmquBGm"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "chump change",
         "url": "https://open.spotify.com/album/4k2Hqh0Df6b788PGH6KAUE"
       },
@@ -179,22 +195,6 @@
       "duration_ms": 132826,
       "name": "sardines",
       "url": "https://open.spotify.com/track/2sFXzS9LnbQe5BigrfsVRP"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "in my head",
-        "url": "https://open.spotify.com/album/6LxluJA87ubb7G4prSX07I"
-      },
-      "artists": [
-        {
-          "name": "Mad Tsai",
-          "url": "https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB"
-        }
-      ],
-      "duration_ms": 224940,
-      "name": "in my head",
-      "url": "https://open.spotify.com/track/4E4K8qooKOsDHpZrmquBGm"
     },
     {
       "added_at": "2024-07-12 04:00:00",

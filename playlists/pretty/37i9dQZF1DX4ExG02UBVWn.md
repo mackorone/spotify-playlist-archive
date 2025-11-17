@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ExG02UBVWn.md) - [plain]
 
 > for the late nights
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,391 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,392 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ExG02UBVWn.md) - [plain]
 | 15 | [Blue Stripes](https://open.spotify.com/track/4LIHG1NG2MniJdicvCEg9X) | [Jasmine Jethwa](https://open.spotify.com/artist/6FLqwgd1Ks0JvEmqpewIpv) | [Same Streets But I Don't See You Around](https://open.spotify.com/album/5ZjT9pDdMBwGByS0DBRPZg) | 3:15 |
 | 16 | [The Invisible Man](https://open.spotify.com/track/5yojQqvfXYyUu4NnYbFrjW) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [The Invisible Man](https://open.spotify.com/album/6dxjNrYNXkEVTIhjypB0nQ) | 6:05 |
 | 17 | [Marking My Time](https://open.spotify.com/track/4U0kDDeLjipRQUsZAZcuAw) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Marking My Time](https://open.spotify.com/album/2pc153IBlNGe8QxU499Wau) | 4:28 |
-| 18 | [Half Full](https://open.spotify.com/track/6lyeeYBZZL629AAeC7CRiU) | [JGrrey](https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx) | [Ugh](https://open.spotify.com/album/5k00fgF5AJavyexoZVB391) | 3:02 |
-| 19 | [When It Rains](https://open.spotify.com/track/7qipQLUoNRpQrxRgrzbFoU) | [Nix Northwest](https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt), [LAUSSE THE CAT](https://open.spotify.com/artist/2Zv7tySETckaR2robozkcz), [B\-ahwe](https://open.spotify.com/artist/6kog2FnBdjoz5oc9EQvuXl) | [Life's a Bitch, I Just Need an Early Night](https://open.spotify.com/album/6nAyU48Mf6cWrZlM6nLUpS) | 4:35 |
+| 18 | [When It Rains](https://open.spotify.com/track/7qipQLUoNRpQrxRgrzbFoU) | [Nix Northwest](https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt), [LAUSSE THE CAT](https://open.spotify.com/artist/2Zv7tySETckaR2robozkcz), [B\-ahwe](https://open.spotify.com/artist/6kog2FnBdjoz5oc9EQvuXl) | [Life's a Bitch, I Just Need an Early Night](https://open.spotify.com/album/6nAyU48Mf6cWrZlM6nLUpS) | 4:35 |
+| 19 | [Half Full](https://open.spotify.com/track/6lyeeYBZZL629AAeC7CRiU) | [JGrrey](https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx) | [Ugh](https://open.spotify.com/album/5k00fgF5AJavyexoZVB391) | 3:02 |
 | 20 | [Can't Get Enough \(feat\. Rachel Chinouriri & Venna\)](https://open.spotify.com/track/7JqYAc8ACWC32Qc6JiQSSi) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Can't Get Enough \(feat\. Rachel Chinouriri & Venna\)](https://open.spotify.com/album/4XwNMKpClzhYVnhvHuT3QM) | 3:17 |
 | 21 | [Champagne Problems](https://open.spotify.com/track/7pfx2xxO3rAQPVUIdQYwtM) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Champagne Problems](https://open.spotify.com/album/3SVAsjIqaP3EwqAEiTJXjF) | 2:22 |
 | 22 | [Table for Two](https://open.spotify.com/track/6PHc04SfoPogi8OXDKv6XT) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [Table for Two](https://open.spotify.com/album/4xRNJF0Ejx6FAqJDlmRlMD) | 3:22 |
@@ -59,14 +59,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ExG02UBVWn.md) - [plain]
 | 49 | [Gone](https://open.spotify.com/track/1BLh2xpBv9IshkzMTsgkIm) | [Jasmine Oakley](https://open.spotify.com/artist/4PmfCgJPpLBtDbi5PY1ytL) | [Gone](https://open.spotify.com/album/5oynNGKQpgYInscV7mbP5K) | 3:46 |
 | 50 | [old place](https://open.spotify.com/track/4Jh96C8DDxAJFCrECbFvxP) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [old place](https://open.spotify.com/album/0qhRp8kqjoIolrs3ic469T) | 1:38 |
 | 51 | [Out Of The Blue](https://open.spotify.com/track/5HrNFU4oO2W8FNJt1cKbB8) | [Stefan Mahendra](https://open.spotify.com/artist/17lfIZ8ozwR7vDYqRdr8UF), [Immy](https://open.spotify.com/artist/22kJefNRRuhLJDYzVbFrW7) | [Out Of The Blue](https://open.spotify.com/album/29EV7MujE04FwNgfX1zLSo) | 3:27 |
-| 52 | [City](https://open.spotify.com/track/5n8mDfxIjIu7Hdka3vk2Kb) | [Kadeem Tyrell](https://open.spotify.com/artist/5EpRGVPs8i7MKQSCxLLauh) | [City](https://open.spotify.com/album/2MFa5EfzAbigqFo4GlHvqr) | 3:18 |
-| 53 | [Summer 17](https://open.spotify.com/track/7t1Oz20dDYMjyvyrbIKqI5) | [Elijah Waters](https://open.spotify.com/artist/4N4n2TRyL6exNfazJotLeH), [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C) | [Summer 17](https://open.spotify.com/album/5M75VygWOzLrY2MwK1sdl4) | 3:01 |
-| 54 | [HEARTACHE & CHEST PAINS](https://open.spotify.com/track/5sO2NkmWPTAWryJ6CWcj3Q) | [BERWYN](https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR) | [DEMOTAPE/VEGA](https://open.spotify.com/album/3SucuvOplRzjCm602c5XuK) | 2:35 |
+| 52 | [HEARTACHE & CHEST PAINS](https://open.spotify.com/track/5sO2NkmWPTAWryJ6CWcj3Q) | [BERWYN](https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR) | [DEMOTAPE/VEGA](https://open.spotify.com/album/3SucuvOplRzjCm602c5XuK) | 2:35 |
+| 53 | [City](https://open.spotify.com/track/5n8mDfxIjIu7Hdka3vk2Kb) | [Kadeem Tyrell](https://open.spotify.com/artist/5EpRGVPs8i7MKQSCxLLauh) | [City](https://open.spotify.com/album/2MFa5EfzAbigqFo4GlHvqr) | 3:18 |
+| 54 | [Summer 17](https://open.spotify.com/track/7t1Oz20dDYMjyvyrbIKqI5) | [Elijah Waters](https://open.spotify.com/artist/4N4n2TRyL6exNfazJotLeH), [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C) | [Summer 17](https://open.spotify.com/album/5M75VygWOzLrY2MwK1sdl4) | 3:01 |
 | 55 | [Woe Is Me](https://open.spotify.com/track/6vtf3U3toO8stSeLInVJtL) | [Kay Young](https://open.spotify.com/artist/1U7TfUcph2eoBUzG3XnaXK), [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Woe Is Me](https://open.spotify.com/album/5CQPeYHDgr8d2ikkZwIERX) | 3:40 |
 | 56 | [Will Smith](https://open.spotify.com/track/4oQHOvfACi3uh67gujOGAa) | [BEASTIE](https://open.spotify.com/artist/0kxRqPeVVubS6KBRsTG0p1) | [Will Smith](https://open.spotify.com/album/6GUTrIRyW7aLEMmmHQEKFV) | 2:06 |
-| 57 | [At What Cost](https://open.spotify.com/track/45dq2Tj670CC0WOZEFashZ) | [Ella More](https://open.spotify.com/artist/727Q7I2a8uB63eFKd4N38p) | [At What Cost](https://open.spotify.com/album/0EMkOcbLfE9zCeDVjxLqsL) | 4:16 |
+| 57 | [CRUSHED VELVET](https://open.spotify.com/track/5mHAhU2mrJ0WjRx818XmYS) | [BERWYN](https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR) | [DEMOTAPE/VEGA](https://open.spotify.com/album/3SucuvOplRzjCm602c5XuK) | 2:41 |
 | 58 | [Can't Love](https://open.spotify.com/track/3kIPQeBuU1Tie6SddVzyFi) | [Bea Maher](https://open.spotify.com/artist/4Hln8VI3ChXqUHyHGrLgkf) | [Can't Love](https://open.spotify.com/album/20zbJ6AZx33mF7Hox03DfR) | 3:39 |
-| 59 | [CRUSHED VELVET](https://open.spotify.com/track/5mHAhU2mrJ0WjRx818XmYS) | [BERWYN](https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR) | [DEMOTAPE/VEGA](https://open.spotify.com/album/3SucuvOplRzjCm602c5XuK) | 2:41 |
+| 59 | [At What Cost](https://open.spotify.com/track/45dq2Tj670CC0WOZEFashZ) | [Ella More](https://open.spotify.com/artist/727Q7I2a8uB63eFKd4N38p) | [At What Cost](https://open.spotify.com/album/0EMkOcbLfE9zCeDVjxLqsL) | 4:16 |
 | 60 | [Trouble Sleeping](https://open.spotify.com/track/4Ev6olpuoQQeNxyhOaI503) | [Ross Carlo](https://open.spotify.com/artist/1V8iNXoBHwRc9774nQxSR4) | [Trouble Sleeping](https://open.spotify.com/album/1RAYi3l2RC6gpbp0gMVVb7) | 3:35 |
 | 61 | [ALMOST LOST](https://open.spotify.com/track/6OrtioErNEZVGShhUIQZjt) | [SIPHO.](https://open.spotify.com/artist/3qdhzmyZIDzgawvmSWLsGZ) | [AND GOD SAID...](https://open.spotify.com/album/1t7cwx7t7xxfnstXYI4rSx) | 4:14 |
 | 62 | [Braid It Back](https://open.spotify.com/track/2NniQePH98Yun9uME1ZUMz) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Motion Sick](https://open.spotify.com/album/30E4JSpb6dJ7xiCFf5Uyxm) | 3:20 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ExG02UBVWn.md) - [plain]
 | 95 | [Makin' You Mine](https://open.spotify.com/track/1yz8X1KWCrwgqaICAkG9FV) | [Kaesu](https://open.spotify.com/artist/2emygumeOS2U0GRdN4xgxZ), [KYA](https://open.spotify.com/artist/5ZBtrWITNv3gkwPIZnt0X9) | [Makin' You Mine/WHATCHUNEED](https://open.spotify.com/album/72ClCgc8F8cRHJLOBCqRin) | 2:18 |
 | 96 | [Losing You](https://open.spotify.com/track/4umLhAXqcyQ2ZTcdsfipYG) | [Mom Tudie](https://open.spotify.com/artist/1wd0PsPr7L269FkA1bVnA8), [Loie](https://open.spotify.com/artist/1IcA6oyWXac8laFWul0ZaJ) | [Losing You](https://open.spotify.com/album/3MYehd7LTXflbdYn3y4CoX) | 3:27 |
 | 97 | [Extinction](https://open.spotify.com/track/0Y7VFF8nJCvHegOTNRmQ8r) | [Sofia Grant](https://open.spotify.com/artist/00k1APrXylDwP3HInytxvI) | [Extinction](https://open.spotify.com/album/74yG8sHvJqr50AQaVW2l04) | 4:51 |
-| 98 | [Mini Excursion](https://open.spotify.com/track/41vPgM81KFafqEaJSzx6SE) | [Negro Impacto](https://open.spotify.com/artist/1IjrqJ8pikzpEzaTdiLbHw) | [Negro Impacto](https://open.spotify.com/album/78N4g5LjH2YYjiVlg8jlW3) | 3:07 |
-| 99 | [Out of Style](https://open.spotify.com/track/1yYHHDEniESPk9iNFr5nyR) | [Holly Munro](https://open.spotify.com/artist/2n9jieS7R5I7zRVKoYTziq) | [Out of Style](https://open.spotify.com/album/4GWriL3zDCxyzpD2ZIpBjC) | 2:44 |
+| 98 | [Out of Style](https://open.spotify.com/track/1yYHHDEniESPk9iNFr5nyR) | [Holly Munro](https://open.spotify.com/artist/2n9jieS7R5I7zRVKoYTziq) | [Out of Style](https://open.spotify.com/album/4GWriL3zDCxyzpD2ZIpBjC) | 2:44 |
+| 99 | [Mini Excursion](https://open.spotify.com/track/41vPgM81KFafqEaJSzx6SE) | [Negro Impacto](https://open.spotify.com/artist/1IjrqJ8pikzpEzaTdiLbHw) | [Negro Impacto](https://open.spotify.com/album/78N4g5LjH2YYjiVlg8jlW3) | 3:07 |
 | 100 | [A Lot](https://open.spotify.com/track/1KKoEoTZOJT0M6urH5eNip) | [0RACL3](https://open.spotify.com/artist/5ngejTpnC2HYvbgLwXSmNc) | [A Lot](https://open.spotify.com/album/4gqebsvvLe0YDGpgArclZ0) | 2:47 |
 
 Snapshot ID: `AAAAABuR/nhS7kSCkN2lnBC5NkzGKoyO`

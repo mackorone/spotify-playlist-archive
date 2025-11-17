@@ -1,6 +1,6 @@
 {
   "description": "A softer space.",
-  "num_followers": 529033,
+  "num_followers": 529006,
   "original_name": "Gentle",
   "owner": {
     "name": "Spotify",
@@ -125,6 +125,22 @@
       "url": "https://open.spotify.com/track/4zXuYQNDmw3dlauyc8q3Kd"
     },
     {
+      "added_at": "2024-10-10 23:35:59",
+      "album": {
+        "name": "Pushing It Down and Praying",
+        "url": "https://open.spotify.com/album/6bfpmfxEWqXsQHU9xc553O"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 234076,
+      "name": "Pushing It Down and Praying",
+      "url": "https://open.spotify.com/track/4wO2JlPZw72Xlu6dGUW4Ce"
+    },
+    {
       "added_at": "2024-05-31 15:25:10",
       "album": {
         "name": "Anthems For A Seventeen Year-Old Girl (From \"I Saw the TV Glow\")",
@@ -139,6 +155,22 @@
       "duration_ms": 212750,
       "name": "Anthems For A Seventeen Year-Old Girl - From \"I Saw the TV Glow\"",
       "url": "https://open.spotify.com/track/15kuqWifv5GzGq3A2P6EbC"
+    },
+    {
+      "added_at": "2024-10-10 15:49:38",
+      "album": {
+        "name": "Submarine",
+        "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 236906,
+      "name": "No One Noticed",
+      "url": "https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -169,20 +201,20 @@
       "url": "https://open.spotify.com/track/48Qes8IUekSZpcNDQgYzUX"
     },
     {
-      "added_at": "2024-10-10 15:49:38",
+      "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Submarine",
-        "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
+        "name": "Hyper Romance",
+        "url": "https://open.spotify.com/album/08oR5PmpCJQ9FfWjsQtpXc"
       },
       "artists": [
         {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+          "name": "Jadu Heart",
+          "url": "https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj"
         }
       ],
-      "duration_ms": 236906,
-      "name": "No One Noticed",
-      "url": "https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5"
+      "duration_ms": 278900,
+      "name": "Burning Hour",
+      "url": "https://open.spotify.com/track/2dje3ZBu1j1r0QfR7mtS0l"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -199,38 +231,6 @@
       "duration_ms": 219681,
       "name": "Garden Song",
       "url": "https://open.spotify.com/track/5bIgzvxvlefRUCQK9JPocF"
-    },
-    {
-      "added_at": "2024-10-10 23:35:59",
-      "album": {
-        "name": "Pushing It Down and Praying",
-        "url": "https://open.spotify.com/album/6bfpmfxEWqXsQHU9xc553O"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 234076,
-      "name": "Pushing It Down and Praying",
-      "url": "https://open.spotify.com/track/4wO2JlPZw72Xlu6dGUW4Ce"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
-        "name": "Hyper Romance",
-        "url": "https://open.spotify.com/album/08oR5PmpCJQ9FfWjsQtpXc"
-      },
-      "artists": [
-        {
-          "name": "Jadu Heart",
-          "url": "https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj"
-        }
-      ],
-      "duration_ms": 278900,
-      "name": "Burning Hour",
-      "url": "https://open.spotify.com/track/2dje3ZBu1j1r0QfR7mtS0l"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "The Florist",
-        "url": "https://open.spotify.com/album/1CcPFEX5L52OeFXHlqI4pa"
-      },
-      "artists": [
-        {
-          "name": "Abby Sage",
-          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
-        }
-      ],
-      "duration_ms": 190601,
-      "name": "The Florist",
-      "url": "https://open.spotify.com/track/3LbPPqqqmmvEwjHA8YH4Wo"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
         "name": "22, A Million",
         "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 213000,
       "name": "33 \u201cGOD\u201d",
       "url": "https://open.spotify.com/track/5sWF1EZGm727f3b620vkbC"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "The Florist",
+        "url": "https://open.spotify.com/album/1CcPFEX5L52OeFXHlqI4pa"
+      },
+      "artists": [
+        {
+          "name": "Abby Sage",
+          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
+        }
+      ],
+      "duration_ms": 190601,
+      "name": "The Florist",
+      "url": "https://open.spotify.com/track/3LbPPqqqmmvEwjHA8YH4Wo"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -741,22 +741,6 @@
       "url": "https://open.spotify.com/track/3SJWVMRwk5z4Uaff7kGs0d"
     },
     {
-      "added_at": "2024-08-29 19:59:48",
-      "album": {
-        "name": "Brooklyn Baby - Spotify Singles",
-        "url": "https://open.spotify.com/album/3BVT8znNQvlb22E3ZMu6Uc"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 345600,
-      "name": "Brooklyn Baby - Spotify Singles",
-      "url": "https://open.spotify.com/track/7oPy7n1yowiREvMyypIBEC"
-    },
-    {
       "added_at": "2024-05-31 15:25:10",
       "album": {
         "name": "Philadelphia (with Searows)",
@@ -775,6 +759,22 @@
       "duration_ms": 182513,
       "name": "Philadelphia (with Searows)",
       "url": "https://open.spotify.com/track/7areyJPur83YJOJLhvSXvH"
+    },
+    {
+      "added_at": "2024-08-29 19:59:48",
+      "album": {
+        "name": "Brooklyn Baby - Spotify Singles",
+        "url": "https://open.spotify.com/album/3BVT8znNQvlb22E3ZMu6Uc"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 345600,
+      "name": "Brooklyn Baby - Spotify Singles",
+      "url": "https://open.spotify.com/track/7oPy7n1yowiREvMyypIBEC"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
+        "name": "Seventeen Going Under (Deluxe)",
+        "url": "https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 238333,
+      "name": "The Dying Light",
+      "url": "https://open.spotify.com/track/0Ecl06jrr4EG4xOltXDuth"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
         "name": "Years On",
         "url": "https://open.spotify.com/album/2JF61Lh95FnWScGBXFdhv8"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 242906,
       "name": "Years On",
       "url": "https://open.spotify.com/track/1vuHmcfRwAFOVEq4ODsIIx"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
-        "name": "All I Need To Hear",
-        "url": "https://open.spotify.com/album/13ztfgangyOF3Mxt5VbE1s"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 210447,
-      "name": "All I Need To Hear",
-      "url": "https://open.spotify.com/track/42Q00bTTgyQhPE2FVWaoJE"
     },
     {
       "added_at": "2024-07-12 12:20:23",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Seventeen Going Under (Deluxe)",
-        "url": "https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z"
+        "name": "All I Need To Hear",
+        "url": "https://open.spotify.com/album/13ztfgangyOF3Mxt5VbE1s"
       },
       "artists": [
         {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
         }
       ],
-      "duration_ms": 238333,
-      "name": "The Dying Light",
-      "url": "https://open.spotify.com/track/0Ecl06jrr4EG4xOltXDuth"
+      "duration_ms": 210447,
+      "name": "All I Need To Hear",
+      "url": "https://open.spotify.com/track/42Q00bTTgyQhPE2FVWaoJE"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Immunity",
-        "url": "https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 260519,
-      "name": "Bags",
-      "url": "https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
         "name": "Since July",
         "url": "https://open.spotify.com/album/4dtGWZoAfaY8tFEQdAg1jw"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 197826,
       "name": "See For Miles",
       "url": "https://open.spotify.com/track/1iJXvuuRrLqw1HQsUyWQu9"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "Immunity",
+        "url": "https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 260519,
+      "name": "Bags",
+      "url": "https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1409,22 +1409,6 @@
       "url": "https://open.spotify.com/track/2ULTiHf6StaL4Hbyarfr2h"
     },
     {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
-        "name": "Wisconsin Winter",
-        "url": "https://open.spotify.com/album/7GuMOXneGJMFtrwfYdwqto"
-      },
-      "artists": [
-        {
-          "name": "Laura Alden",
-          "url": "https://open.spotify.com/artist/19DUsD728zdjGRvEtRXy6J"
-        }
-      ],
-      "duration_ms": 228705,
-      "name": "Wisconsin Winter",
-      "url": "https://open.spotify.com/track/2d1rzqRJjwlul6vMLVWOXS"
-    },
-    {
       "added_at": "2024-10-10 23:35:59",
       "album": {
         "name": "Sure",
@@ -1439,6 +1423,22 @@
       "duration_ms": 248421,
       "name": "Sure",
       "url": "https://open.spotify.com/track/6FfNMWBpPWrUUfrg5Jstym"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "Wisconsin Winter",
+        "url": "https://open.spotify.com/album/7GuMOXneGJMFtrwfYdwqto"
+      },
+      "artists": [
+        {
+          "name": "Laura Alden",
+          "url": "https://open.spotify.com/artist/19DUsD728zdjGRvEtRXy6J"
+        }
+      ],
+      "duration_ms": 228705,
+      "name": "Wisconsin Winter",
+      "url": "https://open.spotify.com/track/2d1rzqRJjwlul6vMLVWOXS"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Small World",
-        "url": "https://open.spotify.com/album/5CHaXCMeag2aPjo72Ib8Xj"
-      },
-      "artists": [
-        {
-          "name": "Metronomy",
-          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
-        }
-      ],
-      "duration_ms": 219333,
-      "name": "Loneliness on the run",
-      "url": "https://open.spotify.com/track/73yYzvKQM3cXUKyWO5Ynwr"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
         "name": "Meet Me At The Record Store",
         "url": "https://open.spotify.com/album/0TjsMhmfPwlXwk7Z2WK0S8"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 233111,
       "name": "Meet Me At The Record Store",
       "url": "https://open.spotify.com/track/1J08Qpd5e0TgwlmhHrBHQY"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "Small World",
+        "url": "https://open.spotify.com/album/5CHaXCMeag2aPjo72Ib8Xj"
+      },
+      "artists": [
+        {
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+        }
+      ],
+      "duration_ms": 219333,
+      "name": "Loneliness on the run",
+      "url": "https://open.spotify.com/track/73yYzvKQM3cXUKyWO5Ynwr"
     }
   ],
   "unique_name": "Gentle",

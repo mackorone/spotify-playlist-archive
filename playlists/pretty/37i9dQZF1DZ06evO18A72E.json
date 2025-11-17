@@ -1,12 +1,12 @@
 {
   "description": "This is Panic! At The Disco. The essential tracks, all in one playlist.",
-  "num_followers": 777533,
+  "num_followers": 777534,
   "original_name": "This Is Panic! At The Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRZxAAAAAACDfbcqB4bRFfkBy3/HXPV4",
+  "snapshot_id": "aRfCgAAAAAAYy7E8+CbWXjeaddV3WIqK",
   "tracks": [
     {
       "added_at": null,
@@ -407,22 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vices & Virtues",
-        "url": "https://open.spotify.com/album/5S0nsfYhHa1uz10V4yoWSL"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 213520,
-      "name": "Let's Kill Tonight",
-      "url": "https://open.spotify.com/track/14uvyd51Ha7FihKHlOtUig"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)",
         "url": "https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz"
       },
@@ -439,8 +423,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live In Denver",
-        "url": "https://open.spotify.com/album/3njEiy8EUgjS790gpLbfsL"
+        "name": "Vices & Virtues",
+        "url": "https://open.spotify.com/album/5S0nsfYhHa1uz10V4yoWSL"
       },
       "artists": [
         {
@@ -448,9 +432,25 @@
           "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 246413,
-      "name": "Tonight, Tonight - Live In Denver",
-      "url": "https://open.spotify.com/track/3EUriaLkbmjzgedgY133T5"
+      "duration_ms": 213520,
+      "name": "Let's Kill Tonight",
+      "url": "https://open.spotify.com/track/14uvyd51Ha7FihKHlOtUig"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pray for the Wicked",
+        "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 186600,
+      "name": "Roaring 20s",
+      "url": "https://open.spotify.com/track/0wdV94AXGRphrbkDWLNzVC"
     },
     {
       "added_at": null,
@@ -471,8 +471,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pray for the Wicked",
-        "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
+        "name": "Live In Denver",
+        "url": "https://open.spotify.com/album/3njEiy8EUgjS790gpLbfsL"
       },
       "artists": [
         {
@@ -480,9 +480,9 @@
           "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 186600,
-      "name": "Roaring 20s",
-      "url": "https://open.spotify.com/track/0wdV94AXGRphrbkDWLNzVC"
+      "duration_ms": 246413,
+      "name": "Tonight, Tonight - Live In Denver",
+      "url": "https://open.spotify.com/track/3EUriaLkbmjzgedgY133T5"
     },
     {
       "added_at": null,

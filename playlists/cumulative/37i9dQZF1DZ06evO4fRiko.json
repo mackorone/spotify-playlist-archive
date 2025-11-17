@@ -119,6 +119,28 @@
     },
     {
       "album": {
+        "name": "Finally Over It",
+        "url": "https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148277,
+      "name": "Baby (with Chris Brown)",
+      "url": "https://open.spotify.com/track/1LxGpGxyFmIwYPP61Tzaho"
+    },
+    {
+      "album": {
         "name": "Royalty (Deluxe Version)",
         "url": "https://open.spotify.com/album/0VWmEVuQ8tA5iA3cCTrgxa"
       },
@@ -376,7 +398,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-17",
       "duration_ms": 237986,
       "name": "Don't Think They Know (feat. Aaliyah)",
       "url": "https://open.spotify.com/track/3uVCPFmavlWGQUqeYh8HhR"

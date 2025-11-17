@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 
 > 🕊️ ☮️ FML PAZ NOS ESTADIOS ☮️ 🕊️
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,552,928 likes - 55 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,552,817 likes - 55 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 | 54 | [Isso é Sério](https://open.spotify.com/track/3Sa2gVQioE31DcG4nKNDqD) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8), [Brandão85](https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse) | [333](https://open.spotify.com/album/5CP84pfi4AFe95UTACFWrk) | 4:45 |
 | 55 | [Me Deixe Leve](https://open.spotify.com/track/2FY5SkFDjOBqhtNg2ehtz2) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Nume \- Epílogo](https://open.spotify.com/album/4xFE545VDYSeK8mHiTpdC5) | 2:54 |
 
-Snapshot ID: `AAAAACzP04gLCInNNkpR9N+8+JzdwOGk`
+Snapshot ID: `AAAAALhFc/8+xxUTuEkANUW5HSqwyT7b`

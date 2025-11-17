@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/meaghansmom/\">Monique Blake</a>",
-  "num_followers": 11218,
+  "num_followers": 11226,
   "original_name": "Monique Blake's Taste",
   "owner": {
     "name": "Spotify",
@@ -407,26 +407,6 @@
     {
       "added_at": "2022-10-01 16:43:03",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg"
-      },
-      "artists": [
-        {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        },
-        {
-          "name": "Junior M.A.F.I.A.",
-          "url": "https://open.spotify.com/artist/3r0OeTcOw37N9juMYyyw39"
-        }
-      ],
-      "duration_ms": 274440,
-      "name": "Get Money (feat. Junior M.A.F.I.A.) - 2007 Remaster",
-      "url": "https://open.spotify.com/track/3PA9dH8cT0wR5UW4XkC44Y"
-    },
-    {
-      "added_at": "2022-10-01 16:43:03",
-      "album": {
         "name": "Gangsta (Remix)",
         "url": "https://open.spotify.com/album/3fS7lzVW6uISgYnvroy4xD"
       },
@@ -443,6 +423,26 @@
       "duration_ms": 216000,
       "name": "Gangsta",
       "url": "https://open.spotify.com/track/0yoXHeL4gJg0DNheK4xqJB"
+    },
+    {
+      "added_at": "2022-10-01 16:43:03",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        },
+        {
+          "name": "Junior M.A.F.I.A.",
+          "url": "https://open.spotify.com/artist/3r0OeTcOw37N9juMYyyw39"
+        }
+      ],
+      "duration_ms": 274440,
+      "name": "Get Money (feat. Junior M.A.F.I.A.) - 2007 Remaster",
+      "url": "https://open.spotify.com/track/3PA9dH8cT0wR5UW4XkC44Y"
     },
     {
       "added_at": "2022-10-01 16:43:03",

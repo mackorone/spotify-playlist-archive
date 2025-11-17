@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-690 songs - 1 day 6 hr 4 min
+691 songs - 1 day 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Best Time](https://open.spotify.com/track/3pZNpqJSgC6fKGk1Q7E9za) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [Best Time](https://open.spotify.com/album/5zhTTfKgc60Gv2W04vTGjc) | 2:32 | 2023-12-20 | 2025-04-12 |
 | [Better Days](https://open.spotify.com/track/7qvzaQrCeW6gFBbEVexCTE) | [Ezra Skys](https://open.spotify.com/artist/2Ay5ctNDFzQQz4fWV3DGMT), [Maadrhino](https://open.spotify.com/artist/69NXAR2kpX8fv5ed7xJpgx) | [Better Days](https://open.spotify.com/album/3JMhEsWX8025f5kbpwHsHW) | 2:10 | 2025-04-11 |  |
 | [Better Worlds](https://open.spotify.com/track/1QUykTReTicU0CXhHPm9Y0) | [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek), [Kissamilé](https://open.spotify.com/artist/7darGNapWiX3YbwJXwl0hR) | [Better Worlds](https://open.spotify.com/album/1f0IRafmVNgjl27cGRA4lC) | 3:01 | 2023-08-22 | 2025-04-12 |
-| [Beyond Horizon](https://open.spotify.com/track/31QxE7ZHANgxYRV8crMsP6) | [Lemon Kids](https://open.spotify.com/artist/5AUN0NmzPlINdLMmzCjvI6) | [Beyond Horizon](https://open.spotify.com/album/7sFhglt5Ep3jpiKHKburpp) | 2:05 | 2025-03-03 |  |
+| [Beyond Horizon](https://open.spotify.com/track/31QxE7ZHANgxYRV8crMsP6) | [Lemon Kids](https://open.spotify.com/artist/5AUN0NmzPlINdLMmzCjvI6) | [Beyond Horizon](https://open.spotify.com/album/7sFhglt5Ep3jpiKHKburpp) | 2:05 | 2025-03-03 | 2025-11-17 |
 | [BEZU](https://open.spotify.com/track/5Nvb6ZXeAoBDhXBlpDVNLK) | [Valaire](https://open.spotify.com/artist/3wW4s7QuPnmqVUhwkLSTkj), [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z) | [BEZU](https://open.spotify.com/album/3hPUNBUJVZ6QLu29pMQ9FF) | 3:04 | 2023-08-22 | 2024-09-30 |
 | [Bir](https://open.spotify.com/track/5Pjre4zDNOBQ64KGVfwyI8) | [Yeet Bey](https://open.spotify.com/artist/7smg87ALnKGB5slipYH42t), [Evre](https://open.spotify.com/artist/0NbJ7PTiD6BLuBqsrIRKRi), [Mauricesax](https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf) | [Bir](https://open.spotify.com/album/3rkniVn3KmJtmixUJiiR5G) | 2:22 | 2025-10-03 | 2025-10-06 |
 | [Birds](https://open.spotify.com/track/6o1mhFF1NpGQqR3usVLSLk) | [digitalluc](https://open.spotify.com/artist/4WT5TNNUvgRLjAiWce3K5z) | [Birds](https://open.spotify.com/album/6Y8nFCKVLh1eJATqh2xvgW) | 2:19 | 2024-10-06 |  |
@@ -559,6 +559,7 @@
 | [stroll](https://open.spotify.com/track/48CXPSMqlczCjqHD3tWKRF) | [Cosmic Wildlife](https://open.spotify.com/artist/01yuxqHdzegJb5Aq4V8gsB) | [stroll](https://open.spotify.com/album/0az5tgCzDGhdWbhUmRTWyT) | 3:31 | 2023-10-13 | 2024-09-02 |
 | [Stuntin](https://open.spotify.com/track/6UK5UFLbPcuD5fR5coYJDc) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Waywell](https://open.spotify.com/artist/00AJqMNUixOtYt9itiUDZj), [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo) | [Stuntin](https://open.spotify.com/album/5CMN6lCBhH85DPqHtRPtUL) | 2:20 | 2024-09-06 | 2025-09-13 |
 | [Subdivisão](https://open.spotify.com/track/3I5VB6Zfemby4tyyXIHpmP) | [Thomas Asselman](https://open.spotify.com/artist/7vHr6L8xUxkObnyHhjqfzU) | [Subdivisão](https://open.spotify.com/album/2WaviSBDrps4BxMTdog2ql) | 2:44 | 2024-01-26 | 2025-05-17 |
+| [sugar](https://open.spotify.com/track/3Xn9tjmpfJtOYTv5B2fbs4) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [sugar](https://open.spotify.com/album/4purhPKkZ2Wpl2HCV5BoL7) | 1:52 | 2025-11-14 |  |
 | [Sultry](https://open.spotify.com/track/6ZUhnFzIxYcDX8wfJVLyn0) | [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC), [Hilaria](https://open.spotify.com/artist/3wSSMiYpzOTY4DOCrTmycP), [Imperial Sax](https://open.spotify.com/artist/3Br54UjOUik54bV82AUdLa) | [Sultry](https://open.spotify.com/album/05mvyTGHSOo7rleio6zJT6) | 2:09 | 2024-10-25 |  |
 | [Summer in the City](https://open.spotify.com/track/2VM8QaUVpwrVCjWh0bNYwf) | [Katashi Kaitō](https://open.spotify.com/artist/7BDqewjn6oL3ryvHv78Wkx) | [Summer in the City](https://open.spotify.com/album/06ahpWeq75UuU5nFnAMoAv) | 2:54 | 2025-07-11 | 2025-07-26 |
 | [Summon](https://open.spotify.com/track/3VD4p3yiCiETURBvBUsvn3) | [Korey Wade](https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv), [Phortran](https://open.spotify.com/artist/3K8D9vZPMObIrZoDGSBK3M) | [Summon](https://open.spotify.com/album/5A4tIY7MJPGzl8UDahVJVH) | 2:33 | 2025-07-25 |  |

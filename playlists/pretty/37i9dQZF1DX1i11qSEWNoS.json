@@ -1,6 +1,6 @@
 {
   "description": "und macht laune",
-  "num_followers": 636527,
+  "num_followers": 636536,
   "original_name": "schiebt anders",
   "owner": {
     "name": "Spotify",
@@ -355,26 +355,6 @@
     {
       "added_at": "2025-11-14 13:17:52",
       "album": {
-        "name": "Borderline",
-        "url": "https://open.spotify.com/album/7orKsJO9Qi5l33hosrYYAf"
-      },
-      "artists": [
-        {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
-        },
-        {
-          "name": "LAVINIA",
-          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
-        }
-      ],
-      "duration_ms": 118449,
-      "name": "Borderline",
-      "url": "https://open.spotify.com/track/5LrWZ8K4SPr1Qe0ZBqJGTq"
-    },
-    {
-      "added_at": "2025-11-14 13:17:52",
-      "album": {
         "name": "Mockingbird",
         "url": "https://open.spotify.com/album/22dOSFgcI8e3gJbHpG5gYg"
       },
@@ -419,6 +399,22 @@
     {
       "added_at": "2025-11-14 13:17:52",
       "album": {
+        "name": "Wackelkontakt",
+        "url": "https://open.spotify.com/album/2ntNmfYAflWmhxMiX9sReB"
+      },
+      "artists": [
+        {
+          "name": "Oimara",
+          "url": "https://open.spotify.com/artist/7eGuHhstHEA8ipdVjsimYR"
+        }
+      ],
+      "duration_ms": 168801,
+      "name": "Wackelkontakt",
+      "url": "https://open.spotify.com/track/4x7j9ed3FRH6CHj27kiTQ3"
+    },
+    {
+      "added_at": "2025-11-14 13:17:52",
+      "album": {
         "name": "Schw\u00f6r auf Bass",
         "url": "https://open.spotify.com/album/3NJq5vt04deu9FKSR7Oyt8"
       },
@@ -439,18 +435,22 @@
     {
       "added_at": "2025-11-14 13:17:52",
       "album": {
-        "name": "Wackelkontakt",
-        "url": "https://open.spotify.com/album/2ntNmfYAflWmhxMiX9sReB"
+        "name": "Borderline",
+        "url": "https://open.spotify.com/album/7orKsJO9Qi5l33hosrYYAf"
       },
       "artists": [
         {
-          "name": "Oimara",
-          "url": "https://open.spotify.com/artist/7eGuHhstHEA8ipdVjsimYR"
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        },
+        {
+          "name": "LAVINIA",
+          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
         }
       ],
-      "duration_ms": 168801,
-      "name": "Wackelkontakt",
-      "url": "https://open.spotify.com/track/4x7j9ed3FRH6CHj27kiTQ3"
+      "duration_ms": 118449,
+      "name": "Borderline",
+      "url": "https://open.spotify.com/track/5LrWZ8K4SPr1Qe0ZBqJGTq"
     },
     {
       "added_at": "2025-11-14 13:17:52",
@@ -595,6 +595,30 @@
     {
       "added_at": "2025-11-14 13:17:52",
       "album": {
+        "name": "Unendlichkeit (Remix)",
+        "url": "https://open.spotify.com/album/0YbUsjOo1ElaU4MmKpzN9o"
+      },
+      "artists": [
+        {
+          "name": "MilleniumKid",
+          "url": "https://open.spotify.com/artist/6nJEMDVNcq7fduXgk7EdGG"
+        },
+        {
+          "name": "JBS",
+          "url": "https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT"
+        },
+        {
+          "name": "The Boy The G",
+          "url": "https://open.spotify.com/artist/0EG0El2Ozcdnw0xJA77DyO"
+        }
+      ],
+      "duration_ms": 172764,
+      "name": "Unendlichkeit (Remix)",
+      "url": "https://open.spotify.com/track/4oodd2Z1U6Xg5tWMiUb3DN"
+    },
+    {
+      "added_at": "2025-11-14 13:17:52",
+      "album": {
         "name": "YEAH",
         "url": "https://open.spotify.com/album/3reHnBJbOMrlymwkwYqtEH"
       },
@@ -619,30 +643,6 @@
       "duration_ms": 141551,
       "name": "YEAH",
       "url": "https://open.spotify.com/track/2qlqMa0e422LZyGw1J5for"
-    },
-    {
-      "added_at": "2025-11-14 13:17:52",
-      "album": {
-        "name": "Unendlichkeit (Remix)",
-        "url": "https://open.spotify.com/album/0YbUsjOo1ElaU4MmKpzN9o"
-      },
-      "artists": [
-        {
-          "name": "MilleniumKid",
-          "url": "https://open.spotify.com/artist/6nJEMDVNcq7fduXgk7EdGG"
-        },
-        {
-          "name": "JBS",
-          "url": "https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT"
-        },
-        {
-          "name": "The Boy The G",
-          "url": "https://open.spotify.com/artist/0EG0El2Ozcdnw0xJA77DyO"
-        }
-      ],
-      "duration_ms": 172764,
-      "name": "Unendlichkeit (Remix)",
-      "url": "https://open.spotify.com/track/4oodd2Z1U6Xg5tWMiUb3DN"
     },
     {
       "added_at": "2025-11-14 13:17:52",
@@ -867,6 +867,22 @@
     {
       "added_at": "2025-11-14 13:17:52",
       "album": {
+        "name": "Be The One",
+        "url": "https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 169852,
+      "name": "Be The One",
+      "url": "https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW"
+    },
+    {
+      "added_at": "2025-11-14 13:17:52",
+      "album": {
         "name": "Mamma Mia (feat. Mentissa) [Techno Mix]",
         "url": "https://open.spotify.com/album/19w0jhRAHEnurkWpsKQFTf"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 200683,
       "name": "Mamma Mia (feat. Mentissa) - Techno Mix",
       "url": "https://open.spotify.com/track/3qpsSAfHgTdTwkaraJLe0V"
-    },
-    {
-      "added_at": "2025-11-14 13:17:52",
-      "album": {
-        "name": "Be The One",
-        "url": "https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 169852,
-      "name": "Be The One",
-      "url": "https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW"
     },
     {
       "added_at": "2025-11-14 13:17:52",
@@ -963,50 +963,6 @@
     {
       "added_at": "2025-11-14 13:17:52",
       "album": {
-        "name": "Big City Life",
-        "url": "https://open.spotify.com/album/5Z9UyG6AYfNphE7UJGXifC"
-      },
-      "artists": [
-        {
-          "name": "Luude",
-          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
-        },
-        {
-          "name": "Mattafix",
-          "url": "https://open.spotify.com/artist/5KORW1YGiERJqfuYjXMCyz"
-        }
-      ],
-      "duration_ms": 146711,
-      "name": "Big City Life",
-      "url": "https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN"
-    },
-    {
-      "added_at": "2025-11-14 13:17:52",
-      "album": {
-        "name": "Craving 4 U (feat. bbyclose)",
-        "url": "https://open.spotify.com/album/6VIs4Ijm0PCcaIFZdaRlY0"
-      },
-      "artists": [
-        {
-          "name": "BL3SS",
-          "url": "https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI"
-        },
-        {
-          "name": "CamrinWatsin",
-          "url": "https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6"
-        },
-        {
-          "name": "bbyclose",
-          "url": "https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH"
-        }
-      ],
-      "duration_ms": 139300,
-      "name": "Craving 4 U (feat. bbyclose)",
-      "url": "https://open.spotify.com/track/2j6CAcq3nUjNCdEAE9xYpZ"
-    },
-    {
-      "added_at": "2025-11-14 13:17:52",
-      "album": {
         "name": "Clouds",
         "url": "https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj"
       },
@@ -1047,6 +1003,50 @@
       "duration_ms": 182343,
       "name": "The Final Countdown 2025",
       "url": "https://open.spotify.com/track/21bk4m2BIbuHZ6GKiPqFsG"
+    },
+    {
+      "added_at": "2025-11-14 13:17:52",
+      "album": {
+        "name": "Big City Life",
+        "url": "https://open.spotify.com/album/5Z9UyG6AYfNphE7UJGXifC"
+      },
+      "artists": [
+        {
+          "name": "Luude",
+          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
+        },
+        {
+          "name": "Mattafix",
+          "url": "https://open.spotify.com/artist/5KORW1YGiERJqfuYjXMCyz"
+        }
+      ],
+      "duration_ms": 146711,
+      "name": "Big City Life",
+      "url": "https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN"
+    },
+    {
+      "added_at": "2025-11-14 13:17:52",
+      "album": {
+        "name": "Craving 4 U (feat. bbyclose)",
+        "url": "https://open.spotify.com/album/6VIs4Ijm0PCcaIFZdaRlY0"
+      },
+      "artists": [
+        {
+          "name": "BL3SS",
+          "url": "https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI"
+        },
+        {
+          "name": "CamrinWatsin",
+          "url": "https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6"
+        },
+        {
+          "name": "bbyclose",
+          "url": "https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH"
+        }
+      ],
+      "duration_ms": 139300,
+      "name": "Craving 4 U (feat. bbyclose)",
+      "url": "https://open.spotify.com/track/2j6CAcq3nUjNCdEAE9xYpZ"
     },
     {
       "added_at": "2025-11-14 13:17:52",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2025-11-14 13:17:52",
       "album": {
-        "name": "Heute Nacht",
-        "url": "https://open.spotify.com/album/3hUV4shxjzrCGFtJgBOF82"
-      },
-      "artists": [
-        {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
-        }
-      ],
-      "duration_ms": 204444,
-      "name": "Heute Nacht",
-      "url": "https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH"
-    },
-    {
-      "added_at": "2025-11-14 13:17:52",
-      "album": {
         "name": "DRAGO AUGUSTINO",
         "url": "https://open.spotify.com/album/5eay977L3PSc3kaq3l7Ouq"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 157402,
       "name": "DRAGO AUGUSTINO",
       "url": "https://open.spotify.com/track/3zadSXykCJFdmRKxsfOQ2h"
+    },
+    {
+      "added_at": "2025-11-14 13:17:52",
+      "album": {
+        "name": "Heute Nacht",
+        "url": "https://open.spotify.com/album/3hUV4shxjzrCGFtJgBOF82"
+      },
+      "artists": [
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        }
+      ],
+      "duration_ms": 204444,
+      "name": "Heute Nacht",
+      "url": "https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH"
     },
     {
       "added_at": "2025-11-14 13:17:52",
@@ -1263,6 +1263,26 @@
     {
       "added_at": "2025-11-14 13:17:52",
       "album": {
+        "name": "APRES SKI",
+        "url": "https://open.spotify.com/album/2nnz1MfGxdZ0tjpgEUBAV3"
+      },
+      "artists": [
+        {
+          "name": "Tream",
+          "url": "https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp"
+        },
+        {
+          "name": "Gzuz",
+          "url": "https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs"
+        }
+      ],
+      "duration_ms": 162362,
+      "name": "APRES SKI",
+      "url": "https://open.spotify.com/track/2rKSoNQsHt0oRWZmnBZUNe"
+    },
+    {
+      "added_at": "2025-11-14 13:17:52",
+      "album": {
         "name": "HURENSOHN",
         "url": "https://open.spotify.com/album/7e78fbs4oMuxSafCyyZNMO"
       },
@@ -1275,6 +1295,26 @@
       "duration_ms": 154493,
       "name": "HURENSOHN",
       "url": "https://open.spotify.com/track/1wsndzfARmcXLntwDwGAQu"
+    },
+    {
+      "added_at": "2025-11-14 13:17:52",
+      "album": {
+        "name": "BIKINI GRELL",
+        "url": "https://open.spotify.com/album/3HtPLQupfZZwUsULtgLEuM"
+      },
+      "artists": [
+        {
+          "name": "Ikkimel",
+          "url": "https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn"
+        },
+        {
+          "name": "Robbensohn",
+          "url": "https://open.spotify.com/artist/4B4kCbtNX4oFNSelmh0uAf"
+        }
+      ],
+      "duration_ms": 123635,
+      "name": "BIKINI GRELL",
+      "url": "https://open.spotify.com/track/4vXM3vMsSr8eFcK8HKTcJq"
     },
     {
       "added_at": "2025-11-14 13:17:52",
@@ -1367,42 +1407,6 @@
     {
       "added_at": "2025-11-14 13:17:52",
       "album": {
-        "name": "BIKINI GRELL",
-        "url": "https://open.spotify.com/album/3HtPLQupfZZwUsULtgLEuM"
-      },
-      "artists": [
-        {
-          "name": "Ikkimel",
-          "url": "https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn"
-        },
-        {
-          "name": "Robbensohn",
-          "url": "https://open.spotify.com/artist/4B4kCbtNX4oFNSelmh0uAf"
-        }
-      ],
-      "duration_ms": 123635,
-      "name": "BIKINI GRELL",
-      "url": "https://open.spotify.com/track/4vXM3vMsSr8eFcK8HKTcJq"
-    },
-    {
-      "added_at": "2025-11-14 13:17:52",
-      "album": {
-        "name": "Cooler Than Me",
-        "url": "https://open.spotify.com/album/5BmY6ZPLmhyIm9bRdN4mWP"
-      },
-      "artists": [
-        {
-          "name": "Lucky Luke",
-          "url": "https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR"
-        }
-      ],
-      "duration_ms": 179760,
-      "name": "Cooler Than Me",
-      "url": "https://open.spotify.com/track/525GY0mXYnxajolwgS8Eaz"
-    },
-    {
-      "added_at": "2025-11-14 13:17:52",
-      "album": {
         "name": "Gianna (Harris & Ford x BIG TIM Remix)",
         "url": "https://open.spotify.com/album/4WlOuhtP3XtVMX28n3YBVH"
       },
@@ -1423,6 +1427,22 @@
       "duration_ms": 145241,
       "name": "Gianna - Harris & Ford x BIG TIM Remix",
       "url": "https://open.spotify.com/track/52lF2brp2QBZRcIlB0GJe4"
+    },
+    {
+      "added_at": "2025-11-14 13:17:52",
+      "album": {
+        "name": "Cooler Than Me",
+        "url": "https://open.spotify.com/album/5BmY6ZPLmhyIm9bRdN4mWP"
+      },
+      "artists": [
+        {
+          "name": "Lucky Luke",
+          "url": "https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR"
+        }
+      ],
+      "duration_ms": 179760,
+      "name": "Cooler Than Me",
+      "url": "https://open.spotify.com/track/525GY0mXYnxajolwgS8Eaz"
     },
     {
       "added_at": "2025-11-14 13:17:52",
@@ -1559,6 +1579,26 @@
     {
       "added_at": "2025-11-14 13:17:52",
       "album": {
+        "name": "HERZBLATT (AUA AUA)",
+        "url": "https://open.spotify.com/album/0ViUN0lv5zpINiOo7gk4mt"
+      },
+      "artists": [
+        {
+          "name": "Tream",
+          "url": "https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp"
+        },
+        {
+          "name": "Mia Julia",
+          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+        }
+      ],
+      "duration_ms": 160886,
+      "name": "HERZBLATT (AUA AUA)",
+      "url": "https://open.spotify.com/track/05ayHD9SFkfqhVUOUxBOyv"
+    },
+    {
+      "added_at": "2025-11-14 13:17:52",
+      "album": {
         "name": "Atlantis (Edit)",
         "url": "https://open.spotify.com/album/4KZxR1aM8yKwlwYVgMvrJM"
       },
@@ -1591,26 +1631,6 @@
       "duration_ms": 176858,
       "name": "RAN AN DIE BULETTEN",
       "url": "https://open.spotify.com/track/4iHgHwghOMGzqX9kZ0QgHY"
-    },
-    {
-      "added_at": "2025-11-14 13:17:52",
-      "album": {
-        "name": "HERZBLATT (AUA AUA)",
-        "url": "https://open.spotify.com/album/0ViUN0lv5zpINiOo7gk4mt"
-      },
-      "artists": [
-        {
-          "name": "Tream",
-          "url": "https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp"
-        },
-        {
-          "name": "Mia Julia",
-          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
-        }
-      ],
-      "duration_ms": 160886,
-      "name": "HERZBLATT (AUA AUA)",
-      "url": "https://open.spotify.com/track/05ayHD9SFkfqhVUOUxBOyv"
     },
     {
       "added_at": "2025-11-14 13:17:52",
@@ -1719,22 +1739,22 @@
     {
       "added_at": "2025-11-14 13:17:52",
       "album": {
-        "name": "APRES SKI",
-        "url": "https://open.spotify.com/album/2nnz1MfGxdZ0tjpgEUBAV3"
+        "name": "Maneater",
+        "url": "https://open.spotify.com/album/1IzIjAIaqxbIkcs8gjyifw"
       },
       "artists": [
         {
-          "name": "Tream",
-          "url": "https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp"
+          "name": "JKRS",
+          "url": "https://open.spotify.com/artist/5EXlM2WBPw4fwTnDNazXxv"
         },
         {
-          "name": "Gzuz",
-          "url": "https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs"
+          "name": "ECHO",
+          "url": "https://open.spotify.com/artist/5Spgsyg6iHiNNu3Bqg32cI"
         }
       ],
-      "duration_ms": 162362,
-      "name": "APRES SKI",
-      "url": "https://open.spotify.com/track/2rKSoNQsHt0oRWZmnBZUNe"
+      "duration_ms": 154285,
+      "name": "Maneater",
+      "url": "https://open.spotify.com/track/2apRbQlpckuUM282gW1Z6p"
     },
     {
       "added_at": "2025-11-14 13:17:52",
@@ -1763,42 +1783,22 @@
     {
       "added_at": "2025-11-14 13:17:52",
       "album": {
-        "name": "Maneater",
-        "url": "https://open.spotify.com/album/1IzIjAIaqxbIkcs8gjyifw"
+        "name": "HERZ MACHT BAMM",
+        "url": "https://open.spotify.com/album/43hhHQjezxykYy1yf5CG11"
       },
       "artists": [
         {
-          "name": "JKRS",
-          "url": "https://open.spotify.com/artist/5EXlM2WBPw4fwTnDNazXxv"
+          "name": "Tream",
+          "url": "https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp"
         },
         {
-          "name": "ECHO",
-          "url": "https://open.spotify.com/artist/5Spgsyg6iHiNNu3Bqg32cI"
+          "name": "treamiboii",
+          "url": "https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac"
         }
       ],
-      "duration_ms": 154285,
-      "name": "Maneater",
-      "url": "https://open.spotify.com/track/2apRbQlpckuUM282gW1Z6p"
-    },
-    {
-      "added_at": "2025-11-14 13:17:52",
-      "album": {
-        "name": "Weekends",
-        "url": "https://open.spotify.com/album/68Ph2nuIeP3e0vzRxrUmkh"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        }
-      ],
-      "duration_ms": 127003,
-      "name": "Weekends",
-      "url": "https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2"
+      "duration_ms": 164750,
+      "name": "HERZ MACHT BAMM",
+      "url": "https://open.spotify.com/track/5uiokPQwUgidgRBPEQPImc"
     },
     {
       "added_at": "2025-11-14 13:17:52",
@@ -1823,6 +1823,26 @@
     {
       "added_at": "2025-11-14 13:17:52",
       "album": {
+        "name": "Weekends",
+        "url": "https://open.spotify.com/album/68Ph2nuIeP3e0vzRxrUmkh"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        }
+      ],
+      "duration_ms": 127003,
+      "name": "Weekends",
+      "url": "https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2"
+    },
+    {
+      "added_at": "2025-11-14 13:17:52",
+      "album": {
         "name": "King Of My Castle",
         "url": "https://open.spotify.com/album/6bgKBvSpQlbrGcy7dut6cl"
       },
@@ -1839,30 +1859,6 @@
       "duration_ms": 153406,
       "name": "King Of My Castle",
       "url": "https://open.spotify.com/track/2NKLeHNNgAd8YE5guUPdL0"
-    },
-    {
-      "added_at": "2025-11-14 13:17:52",
-      "album": {
-        "name": "Undertheker",
-        "url": "https://open.spotify.com/album/59y8AGwcK63oZMFSI5UYvP"
-      },
-      "artists": [
-        {
-          "name": "Drunken Masters",
-          "url": "https://open.spotify.com/artist/0cUMeX7DFLIvLy0q8uqp6q"
-        },
-        {
-          "name": "Nico K.I.Z",
-          "url": "https://open.spotify.com/artist/49U1wR2eateFtB7cxd4ncm"
-        },
-        {
-          "name": "K.I.Z",
-          "url": "https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05"
-        }
-      ],
-      "duration_ms": 124835,
-      "name": "Undertheker",
-      "url": "https://open.spotify.com/track/7sedwDZpxuRgJipH9gMQCa"
     }
   ],
   "unique_name": "schiebt anders",

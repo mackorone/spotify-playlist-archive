@@ -4,7 +4,7 @@
 
 > This is Little Walter\. The essential tracks, all in one playlist.
 
-89 songs - 4 hr 26 min
+90 songs - 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Sad Hours](https://open.spotify.com/track/2H1TMxIvORol1QFBwOQh1E) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 3:12 | 2022-08-06 |  |
 | [Shake Dancer](https://open.spotify.com/track/6Lsl9B1z3Sq02pK3usoOmq) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Blues With A Feelin'](https://open.spotify.com/album/0cdK9KbYmjGnFYcAElHkdg) | 2:45 | 2022-08-06 | 2024-07-21 |
 | [Take Me Back \- Single Version](https://open.spotify.com/track/6QHnR9PT8OUTWovDrcPMLA) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Hate To See You Go](https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI) | 3:04 | 2022-10-10 | 2024-05-26 |
+| [Teenage Beat](https://open.spotify.com/track/5gKVjyfO3xGZcozwf7KH1g) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Complete Chess Masters \(1950 \- 1967\)](https://open.spotify.com/album/3xRh7E2R2WdxFYeQFakVbr) | 3:00 | 2025-11-17 |  |
 | [Tell Me Mama](https://open.spotify.com/track/4ZWk2MpXBIQv0hd5KO8VwE) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 2:48 | 2022-08-05 | 2024-07-23 |
 | [Temperature](https://open.spotify.com/track/5rhkyfhfDDioMMUcJRApcx) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Confessin' The Blues](https://open.spotify.com/album/7BvtYMIphGtQKTLgUHelUL) | 2:39 | 2022-08-05 |  |
 | [That's All Right \- Remastered](https://open.spotify.com/track/5fsdMcMEmQGSDTyjXNMuZz) | [Jimmy Rogers](https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0), [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Anthology: His Early Years \(Remastered\)](https://open.spotify.com/album/77Zjw39g47Y37bPn3gOVgR) | 2:46 | 2023-11-10 |  |

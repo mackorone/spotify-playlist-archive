@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2E6sxVAQU6.md) - [plain]
 
 > Italia amore mio 🇮🇹🇮🇹🇮🇹 😍😍😍
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,047 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,050 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2E6sxVAQU6.md) - [plain]
 | 19 | [L'assenzio \( the Power of Nothing\)](https://open.spotify.com/track/1yhr95Jd7uqh391cqQDrpx) | [Bluvertigo](https://open.spotify.com/artist/6q8FspLLQOHpabMMbEb8Vq) | [Pop Tools \(Alcune Fasi e Forme d'Onda\)](https://open.spotify.com/album/2NZmrYl2xI4xZSAOG2YRM7) | 3:53 |
 | 20 | [Sincero \(feat\. Morgan\)](https://open.spotify.com/track/6v2eWAtpP4WDrxRDAG9FwL) | [Bugo](https://open.spotify.com/artist/01U4yWwtUKMckbI55OiT7g), [Morgan](https://open.spotify.com/artist/6RUY9TXdPIoeOExtd9twr0) | [Sincero \(feat\. Morgan\)](https://open.spotify.com/album/1N1j43lLEbPtcH2agEYos7) | 3:43 |
 | 21 | [Ma Che Ne Sai..\. \(...Se Non Hai Fatto Il Piano\-Bar\)](https://open.spotify.com/track/4ukx28Dx9UnZlFWk81HNaV) | [Gigi Proietti](https://open.spotify.com/artist/4aztUD9n74oCxu7ss8C8UD), [Trio Melody](https://open.spotify.com/artist/2JhA5aOKefzHPXKbyhi61y), [Peppino Di Capri](https://open.spotify.com/artist/4zg9VA3wNR2KFwpvPabqa4), [Stefano Palatresi](https://open.spotify.com/artist/5hyNfdEAhG5oKIRhpgS5bx) | [Ma Che Ne Sai..\. \(...Se Non Hai Fatto Il Piano\-Bar\)](https://open.spotify.com/album/5MEDvsrCUMJ5HbYaozGNRU) | 3:13 |
-| 22 | [Combat pop \(ALBI \#1\)](https://open.spotify.com/track/1SIp3BtzYxFfVy7AD8r0PZ) | [Lo Stato Sociale](https://open.spotify.com/artist/1MBjY2JFotAGoTYDfO80cM) | [Attentato alla musica italiana](https://open.spotify.com/album/2ARUgdwDSy3vW5mhcnDvP8) | 3:25 |
-| 23 | [Se me lo dicevi prima](https://open.spotify.com/track/7bDDUMonsSUQyvctsj9lg9) | [Enzo Jannacci](https://open.spotify.com/artist/02tKmsUnu6UIYpTx5Wyle8) | [No, Tu No](https://open.spotify.com/album/6KZkxbFfmuaWe8EiiRo3S4) | 4:23 |
+| 22 | [Se me lo dicevi prima](https://open.spotify.com/track/7bDDUMonsSUQyvctsj9lg9) | [Enzo Jannacci](https://open.spotify.com/artist/02tKmsUnu6UIYpTx5Wyle8) | [No, Tu No](https://open.spotify.com/album/6KZkxbFfmuaWe8EiiRo3S4) | 4:23 |
+| 23 | [Combat pop \(ALBI \#1\)](https://open.spotify.com/track/1SIp3BtzYxFfVy7AD8r0PZ) | [Lo Stato Sociale](https://open.spotify.com/artist/1MBjY2JFotAGoTYDfO80cM) | [Attentato alla musica italiana](https://open.spotify.com/album/2ARUgdwDSy3vW5mhcnDvP8) | 3:25 |
 | 24 | [Il terzo fuochista](https://open.spotify.com/track/19Rdet8mE1HvEoO4aMrQs3) | [Tosca](https://open.spotify.com/artist/2QezBWDHOoFeVCM3wlzTDu) | [Romana](https://open.spotify.com/album/0qnJo0nniBPA33NV72WgRQ) | 4:02 |
 | 25 | [Il farmacista](https://open.spotify.com/track/3tx0Rl5JSvTVfPMuDd0CdN) | [Max Gazzè](https://open.spotify.com/artist/1h5O32I1o0VOnpLmKXLfRa) | [Il farmacista](https://open.spotify.com/album/5O37ctKTp6CZyfhrRZhLq3) | 4:11 |
 | 26 | [Mi sono innamorato di mia moglie](https://open.spotify.com/track/7vvzB2UIc9cZUxrSNN5U9u) | [Gianni Nazzaro](https://open.spotify.com/artist/4Xyv6XmF999fSruMHlHu6o) | [Il meglio](https://open.spotify.com/album/64N7AuJBH4se9KM2GXzdsc) | 3:47 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2E6sxVAQU6.md) - [plain]
 | 29 | [Linda Bella Linda \- 2004 Digital Remaster](https://open.spotify.com/track/2YCL69ro0MbYfCQHj0rY7z) | [Daniel Sentacruz Ensemble](https://open.spotify.com/artist/0VkTO4kWbmwTFNReojnv26) | [Daniel Sentacruz Ensemble: Solo Grandi Successi](https://open.spotify.com/album/5f9JDlOz09tMEcXmWljoZ0) | 3:42 |
 | 30 | [Bentivoglio Angelina](https://open.spotify.com/track/2EYm6XYiMF1o3jUCR0ElnW) | [Quintorigo](https://open.spotify.com/artist/4guRW6Wa0XPtSNDy5yDkjP) | [Grigio](https://open.spotify.com/album/270IC3XZCJIoxK5uRPzWmY) | 4:14 |
 | 31 | [Verso il 2000](https://open.spotify.com/track/2Jgl0CTX70DeULejc5XUsn) | [Flavia Fortunato](https://open.spotify.com/artist/6u4qQuBV1wEiChGgPVT45f) | [Verso il 2000](https://open.spotify.com/album/5QybZhfwjSfKnDIRkmi1h6) | 4:34 |
-| 32 | [Tu fai schifo sempre](https://open.spotify.com/track/3wtQeyl59gDxcJkvbV036k) | [I Pandemonium](https://open.spotify.com/artist/717AOR8NywHgYvjrlQtzyp) | [I Pandemonium](https://open.spotify.com/album/4JWO6OQfAhyNzTIBnOvhO2) | 3:35 |
-| 33 | [Bada Bambina](https://open.spotify.com/track/4KvJHSwn7GG5XVg1PSC9vQ) | [Little Tony](https://open.spotify.com/artist/6g9yfu8k5sapPN9iisZhEW) | [Little Tony](https://open.spotify.com/album/5L6au4dlAWmCsYa9SWUlys) | 2:54 |
+| 32 | [Bada Bambina](https://open.spotify.com/track/4KvJHSwn7GG5XVg1PSC9vQ) | [Little Tony](https://open.spotify.com/artist/6g9yfu8k5sapPN9iisZhEW) | [Little Tony](https://open.spotify.com/album/5L6au4dlAWmCsYa9SWUlys) | 2:54 |
+| 33 | [Tu fai schifo sempre](https://open.spotify.com/track/3wtQeyl59gDxcJkvbV036k) | [I Pandemonium](https://open.spotify.com/artist/717AOR8NywHgYvjrlQtzyp) | [I Pandemonium](https://open.spotify.com/album/4JWO6OQfAhyNzTIBnOvhO2) | 3:35 |
 | 34 | [Ping Pong](https://open.spotify.com/track/2H9copqgXrRBpjLnMBZjh8) | [Plastic Bertrand](https://open.spotify.com/artist/1KeIof0zqga5ojkmOKg88P) | [Ça Plane Pour Moi](https://open.spotify.com/album/6bv0t7P61aPvCjgbqMZk0V) | 2:46 |
 | 35 | [Sbatti Ben Su Del BeBop](https://open.spotify.com/track/5Dt3SmukbC11M8p5boi1ss) | [Ladri Di Biciclette](https://open.spotify.com/artist/4xsbbVfhjw1iCPyLKQdKQe) | [Made In Italy](https://open.spotify.com/album/2GU0jh6JYDm5CZzOwFJBb9) | 4:09 |
 | 36 | [Mamma Non Lo Sa](https://open.spotify.com/track/0XByMyQh8zv94pmr9SnbqG) | [Almamegretta](https://open.spotify.com/artist/7qE9giF76uQ8UcFwlZhiP6) | [Controra](https://open.spotify.com/album/5TizU1nhmP8zngvjbMibLd) | 3:12 |

@@ -294,7 +294,7 @@
       ],
       "date_added": "2025-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-17",
       "duration_ms": 151918,
       "name": "10.000 Kilometer",
       "url": "https://open.spotify.com/track/3XgYZ3SJgAMcFS1nkgMCUX"
@@ -7802,7 +7802,7 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-17",
       "duration_ms": 176453,
       "name": "DAISIES",
       "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
@@ -9932,7 +9932,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-17",
       "duration_ms": 215000,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/168GHxsiJyT9tlJN74ZO11"
@@ -13008,7 +13008,7 @@
       ],
       "date_added": "2025-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-17",
       "duration_ms": 205869,
       "name": "Fire Uger",
       "url": "https://open.spotify.com/track/2fGbVht5HksMkvkIXvlPzc"
@@ -16040,7 +16040,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-29",
+      "date_removed": null,
       "duration_ms": 227023,
       "name": "Guld Jul",
       "url": "https://open.spotify.com/track/2rui6bCZAz3yJ7YFQeyWMq"
@@ -16234,7 +16234,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-17",
       "duration_ms": 175250,
       "name": "Ha' Det Kedeligt (feat. Malte Ebert & Bai-D)",
       "url": "https://open.spotify.com/track/6v7ycH1uaxTihgkEthGdtp"
@@ -21193,6 +21193,24 @@
     },
     {
       "album": {
+        "name": "Christmas (Deluxe 10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6UuaXwIIaIaNSGrpPE1vFt"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "date_added": "2025-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207199,
+      "name": "It's Beginning to Look a Lot like Christmas",
+      "url": "https://open.spotify.com/track/3it2BvJfyhPEWF3kD2TZJ1"
+    },
+    {
+      "album": {
         "name": "Songs from the Julekalender",
         "url": "https://open.spotify.com/album/2MZsj8vdiZh3e5jpa7aYwv"
       },
@@ -21512,7 +21530,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-29",
+      "date_removed": null,
       "duration_ms": 242960,
       "name": "Jesus & Josefine",
       "url": "https://open.spotify.com/track/0IhL5sXNR9b12DR0h9vxKa"
@@ -21636,7 +21654,7 @@
       ],
       "date_added": "2021-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-29",
+      "date_removed": null,
       "duration_ms": 130973,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
@@ -23060,7 +23078,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-27",
+      "date_removed": null,
       "duration_ms": 191859,
       "name": "Koldt Udenfor",
       "url": "https://open.spotify.com/track/0rEwD7QVscNnz05ooEb0qB"
@@ -24200,10 +24218,6 @@
       },
       "artists": [
         {
-          "name": "Juice",
-          "url": "https://open.spotify.com/artist/6MvVFJb6iebegaT6FLxEAF"
-        },
-        {
           "name": "S.O.A.P.",
           "url": "https://open.spotify.com/artist/4tc5xhcuEtiRizloAL4wZI"
         },
@@ -24214,11 +24228,15 @@
         {
           "name": "Remee",
           "url": "https://open.spotify.com/artist/28vrsWsuA3zulqCB8paIrN"
+        },
+        {
+          "name": "Juice",
+          "url": "https://open.spotify.com/artist/6MvVFJb6iebegaT6FLxEAF"
         }
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-29",
+      "date_removed": null,
       "duration_ms": 294626,
       "name": "Let Love Be Love",
       "url": "https://open.spotify.com/track/6PTn6uJPekoEtfikiudUv7"
@@ -26690,7 +26708,7 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-29",
+      "date_removed": null,
       "duration_ms": 220160,
       "name": "Merry Christmas Everyone",
       "url": "https://open.spotify.com/track/2TE4xW3ImvpltVU0cPcKUn"
@@ -28868,7 +28886,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-17",
       "duration_ms": 209000,
       "name": "Nice To Each Other",
       "url": "https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l"
@@ -28926,7 +28944,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-17",
       "duration_ms": 163994,
       "name": "No Broke Boys",
       "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
@@ -30080,7 +30098,7 @@
       ],
       "date_added": "2025-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-17",
       "duration_ms": 169703,
       "name": "Olivia For Altid (feat. Omar & Svea S)",
       "url": "https://open.spotify.com/track/1NOXdz32HLzPiFbqFQHUh7"
@@ -33128,7 +33146,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-29",
+      "date_removed": null,
       "duration_ms": 126266,
       "name": "Rockin' Around The Christmas Tree",
       "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
@@ -34244,7 +34262,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-17",
       "duration_ms": 187338,
       "name": "Seaside",
       "url": "https://open.spotify.com/track/0W3xaNPnpTHr6qDcGrPM1i"
@@ -41826,7 +41844,7 @@
       ],
       "date_added": "2024-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-28",
+      "date_removed": null,
       "duration_ms": 181507,
       "name": "Valdes Jul",
       "url": "https://open.spotify.com/track/6oQ5FpZJlBPPwNsYkAmx9V"

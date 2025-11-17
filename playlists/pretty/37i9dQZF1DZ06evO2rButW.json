@@ -1,12 +1,12 @@
 {
   "description": "This is Mon Laferte. The essential tracks, all in one playlist.",
-  "num_followers": 759001,
+  "num_followers": 759126,
   "original_name": "This Is Mon Laferte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRZxAAAAAACDEIxRvK3mH85FilAJ9PJZ",
+  "snapshot_id": "aRfCgAAAAAB+vtHwVoEQ/A/H1quqsWXk",
   "tracks": [
     {
       "added_at": null,
@@ -131,8 +131,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Antes De Ti",
-        "url": "https://open.spotify.com/album/0r2OaEU4I8vfWw4hALciVN"
+        "name": "FEMME FATALE",
+        "url": "https://open.spotify.com/album/7q2GxttTFDWOihvnSWdwWw"
       },
       "artists": [
         {
@@ -140,9 +140,9 @@
           "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 242240,
-      "name": "Antes De Ti",
-      "url": "https://open.spotify.com/track/5IkOnAKGDJT5M8KpFIHzsd"
+      "duration_ms": 250162,
+      "name": "Femme Fatale",
+      "url": "https://open.spotify.com/track/2T5ELHiRW8pGcWyJaurFgJ"
     },
     {
       "added_at": null,
@@ -179,8 +179,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "FEMME FATALE",
-        "url": "https://open.spotify.com/album/7q2GxttTFDWOihvnSWdwWw"
+        "name": "Antes De Ti",
+        "url": "https://open.spotify.com/album/0r2OaEU4I8vfWw4hALciVN"
       },
       "artists": [
         {
@@ -188,65 +188,9 @@
           "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 250162,
-      "name": "Femme Fatale",
-      "url": "https://open.spotify.com/track/2T5ELHiRW8pGcWyJaurFgJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cosa Nuestra: Cap\u00edtulo 0",
-        "url": "https://open.spotify.com/album/752aUI4EPYOGrNuo74pmCR"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 224650,
-      "name": "Callej\u00f3n de los Secretos",
-      "url": "https://open.spotify.com/track/1hFyhyZygYYD35G2cEuwR0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Metr\u00f3polis (Live)",
-        "url": "https://open.spotify.com/album/6tfg5rWLaauuz4b9009iQT"
-      },
-      "artists": [
-        {
-          "name": "Le\u00f3n Larregui",
-          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
-        },
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 239000,
-      "name": "Rue Vieille Du Temple - Live",
-      "url": "https://open.spotify.com/track/3a9KZagWgkTU2YSsCtlMRl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Trenza",
-        "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 256773,
-      "name": "Flaco",
-      "url": "https://open.spotify.com/track/3HMYsT5mnqQ57tVjvqlETb"
+      "duration_ms": 242240,
+      "name": "Antes De Ti",
+      "url": "https://open.spotify.com/track/5IkOnAKGDJT5M8KpFIHzsd"
     },
     {
       "added_at": null,
@@ -275,6 +219,78 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cosa Nuestra: Cap\u00edtulo 0",
+        "url": "https://open.spotify.com/album/752aUI4EPYOGrNuo74pmCR"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 224650,
+      "name": "Callej\u00f3n de los Secretos",
+      "url": "https://open.spotify.com/track/1hFyhyZygYYD35G2cEuwR0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Trenza",
+        "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 256773,
+      "name": "Flaco",
+      "url": "https://open.spotify.com/track/3HMYsT5mnqQ57tVjvqlETb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Metr\u00f3polis (Live)",
+        "url": "https://open.spotify.com/album/6tfg5rWLaauuz4b9009iQT"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 239000,
+      "name": "Rue Vieille Du Temple - Live",
+      "url": "https://open.spotify.com/track/3a9KZagWgkTU2YSsCtlMRl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FEMME FATALE",
+        "url": "https://open.spotify.com/album/7q2GxttTFDWOihvnSWdwWw"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 219949,
+      "name": "Otra Noche de Llorar",
+      "url": "https://open.spotify.com/track/4oP6sZWbkC3fJghTsyOgkZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mon Laferte (Vol. 1)",
         "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 276733,
       "name": "Tormento",
       "url": "https://open.spotify.com/track/0pR6N68RkIGKxitlTqraZ3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Inv\u00e9ntame",
-        "url": "https://open.spotify.com/album/5kiDMxfW38PbWnmIABlXBq"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 205800,
-      "name": "Inv\u00e9ntame",
-      "url": "https://open.spotify.com/track/6g6FWPdAMf55CpmkoE7jF1"
     },
     {
       "added_at": null,
@@ -323,6 +323,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Inv\u00e9ntame",
+        "url": "https://open.spotify.com/album/5kiDMxfW38PbWnmIABlXBq"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 205800,
+      "name": "Inv\u00e9ntame",
+      "url": "https://open.spotify.com/track/6g6FWPdAMf55CpmkoE7jF1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FEMME FATALE",
         "url": "https://open.spotify.com/album/7q2GxttTFDWOihvnSWdwWw"
       },
@@ -332,9 +348,9 @@
           "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 219949,
-      "name": "Otra Noche de Llorar",
-      "url": "https://open.spotify.com/track/4oP6sZWbkC3fJghTsyOgkZ"
+      "duration_ms": 262178,
+      "name": "Veracruz",
+      "url": "https://open.spotify.com/track/16dQDMg1coaX1FrIKZIgtt"
     },
     {
       "added_at": null,
@@ -404,9 +420,9 @@
           "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 262178,
-      "name": "Veracruz",
-      "url": "https://open.spotify.com/track/16dQDMg1coaX1FrIKZIgtt"
+      "duration_ms": 225598,
+      "name": "Ocupa Mi Piel",
+      "url": "https://open.spotify.com/track/0cWcCyz2Z0xouTi7G4iUoT"
     },
     {
       "added_at": null,
@@ -463,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FEMME FATALE",
-        "url": "https://open.spotify.com/album/7q2GxttTFDWOihvnSWdwWw"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 225598,
-      "name": "Ocupa Mi Piel",
-      "url": "https://open.spotify.com/track/0cWcCyz2Z0xouTi7G4iUoT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mon Laferte (Vol. 1)",
         "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
       },
@@ -491,22 +491,6 @@
       "duration_ms": 243880,
       "name": "El Diablo",
       "url": "https://open.spotify.com/track/65mQeg46PBoOzslgpynyzF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Norma",
-        "url": "https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 230973,
-      "name": "Qu\u00e9date Esta Noche",
-      "url": "https://open.spotify.com/track/14kf1Cdj0sdtKtMY02IBcB"
     },
     {
       "added_at": null,
@@ -527,6 +511,22 @@
       "duration_ms": 189000,
       "name": "La Mujer",
       "url": "https://open.spotify.com/track/3sQf1MpSqYoqVfdvao8vKt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Norma",
+        "url": "https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 230973,
+      "name": "Qu\u00e9date Esta Noche",
+      "url": "https://open.spotify.com/track/14kf1Cdj0sdtKtMY02IBcB"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Autopoi\u00e9tica",
-        "url": "https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 238893,
-      "name": "Amantes Suicidas",
-      "url": "https://open.spotify.com/track/1JhNmwO8Y04b4XidpSrytb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mon Laferte (Vol. 1/ Edicion Especial)",
         "url": "https://open.spotify.com/album/7oSZcpIqBMS86O9C4m82lk"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 278373,
       "name": "Tu Falta De Querer - En Vivo",
       "url": "https://open.spotify.com/track/1zBpoBt0ss3onvb5wwFETQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Autopoi\u00e9tica",
+        "url": "https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 238893,
+      "name": "Amantes Suicidas",
+      "url": "https://open.spotify.com/track/1JhNmwO8Y04b4XidpSrytb"
     },
     {
       "added_at": null,
@@ -787,8 +787,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "SEIS",
-        "url": "https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF"
+        "name": "Autopoi\u00e9tica",
+        "url": "https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI"
       },
       "artists": [
         {
@@ -796,9 +796,9 @@
           "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 238146,
-      "name": "Se Me Va A Quemar El Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/3bazgu5pF9cKUSLv1QukL7"
+      "duration_ms": 263533,
+      "name": "Pornocracia",
+      "url": "https://open.spotify.com/track/67nuer2QzVcANQ32vDV5kV"
     },
     {
       "added_at": null,
@@ -819,8 +819,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Autopoi\u00e9tica",
-        "url": "https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI"
+        "name": "SEIS",
+        "url": "https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF"
       },
       "artists": [
         {
@@ -828,9 +828,9 @@
           "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 263533,
-      "name": "Pornocracia",
-      "url": "https://open.spotify.com/track/67nuer2QzVcANQ32vDV5kV"
+      "duration_ms": 238146,
+      "name": "Se Me Va A Quemar El Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3bazgu5pF9cKUSLv1QukL7"
     },
     {
       "added_at": null,

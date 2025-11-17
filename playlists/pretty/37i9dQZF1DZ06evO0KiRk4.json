@@ -1,12 +1,12 @@
 {
   "description": "This is Florence + The Machine. The essential tracks, all in one playlist.",
-  "num_followers": 574544,
+  "num_followers": 574601,
   "original_name": "This Is Florence + The Machine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRZxAAAAAABUxBXdip0EMQ5FJdERy2VE",
+  "snapshot_id": "aRfCgAAAAABx6+kmWjkxX6Q6VM7Mc6cl",
   "tracks": [
     {
       "added_at": null,
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         }
       ],
-      "duration_ms": 248422,
-      "name": "Perfume and Milk",
-      "url": "https://open.spotify.com/track/2R0HZcJCaamgHlY5gdNIi7"
+      "duration_ms": 244500,
+      "name": "Everybody Scream",
+      "url": "https://open.spotify.com/track/7tMF8Anyf7oIqQZSxE17do"
     },
     {
       "added_at": null,
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         }
       ],
-      "duration_ms": 244500,
-      "name": "Everybody Scream",
-      "url": "https://open.spotify.com/track/7tMF8Anyf7oIqQZSxE17do"
+      "duration_ms": 248422,
+      "name": "Perfume and Milk",
+      "url": "https://open.spotify.com/track/2R0HZcJCaamgHlY5gdNIi7"
     },
     {
       "added_at": null,
@@ -503,8 +503,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "High As Hope",
-        "url": "https://open.spotify.com/album/0pKZJj9GzcKPCS8r4IaksA"
+        "name": "Ceremonials (Original Deluxe Version)",
+        "url": "https://open.spotify.com/album/19J2iqK89BCrNG4El2FRi5"
       },
       "artists": [
         {
@@ -512,9 +512,9 @@
           "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         }
       ],
-      "duration_ms": 241760,
-      "name": "Big God",
-      "url": "https://open.spotify.com/track/1NcXkWB3UwXfMt8izByICb"
+      "duration_ms": 274853,
+      "name": "No Light, No Light",
+      "url": "https://open.spotify.com/track/0Y68ITZG1KQigFVAAn7AON"
     },
     {
       "added_at": null,
@@ -535,8 +535,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ceremonials (Original Deluxe Version)",
-        "url": "https://open.spotify.com/album/19J2iqK89BCrNG4El2FRi5"
+        "name": "High As Hope",
+        "url": "https://open.spotify.com/album/0pKZJj9GzcKPCS8r4IaksA"
       },
       "artists": [
         {
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         }
       ],
-      "duration_ms": 274853,
-      "name": "No Light, No Light",
-      "url": "https://open.spotify.com/track/0Y68ITZG1KQigFVAAn7AON"
+      "duration_ms": 241760,
+      "name": "Big God",
+      "url": "https://open.spotify.com/track/1NcXkWB3UwXfMt8izByICb"
     },
     {
       "added_at": null,
@@ -583,6 +583,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ceremonials (Original Deluxe Version)",
+        "url": "https://open.spotify.com/album/19J2iqK89BCrNG4El2FRi5"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 303253,
+      "name": "Seven Devils",
+      "url": "https://open.spotify.com/track/6NmEbJz0hXsoe5mogu23it"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "EDM Party",
         "url": "https://open.spotify.com/album/3uoi0WSv99nejC8O0PYoB2"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 264574,
       "name": "You Got The Love (Mark Knight Remix) / One",
       "url": "https://open.spotify.com/track/70m0QxEfeSeeYlqDbZ1e6a"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ceremonials (Original Deluxe Version)",
-        "url": "https://open.spotify.com/album/19J2iqK89BCrNG4El2FRi5"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 303253,
-      "name": "Seven Devils",
-      "url": "https://open.spotify.com/track/6NmEbJz0hXsoe5mogu23it"
     },
     {
       "added_at": null,

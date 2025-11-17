@@ -1,12 +1,12 @@
 {
   "description": "This is Flo Milli. The essential tracks, all in one playlist.",
-  "num_followers": 19772,
+  "num_followers": 19773,
   "original_name": "This Is Flo Milli",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRZxAAAAAADIS8n+PlwC9gLsuXAP0bSo",
+  "snapshot_id": "aRfCgAAAAACiKHI/fFaOzBQ05zQXqOcm",
   "tracks": [
     {
       "added_at": null,
@@ -714,15 +714,11 @@
         {
           "name": "Flo Milli",
           "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        },
-        {
-          "name": "Anycia",
-          "url": "https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I"
         }
       ],
-      "duration_ms": 173858,
-      "name": "New Me (feat. Anycia)",
-      "url": "https://open.spotify.com/track/3b1r6l4SX8j4TSN8f4OogB"
+      "duration_ms": 150293,
+      "name": "Toast",
+      "url": "https://open.spotify.com/track/5djffOhSkIRnKAtZ2bMoqv"
     },
     {
       "added_at": null,
@@ -790,11 +786,15 @@
         {
           "name": "Flo Milli",
           "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        },
+        {
+          "name": "Anycia",
+          "url": "https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I"
         }
       ],
-      "duration_ms": 150293,
-      "name": "Toast",
-      "url": "https://open.spotify.com/track/5djffOhSkIRnKAtZ2bMoqv"
+      "duration_ms": 173858,
+      "name": "New Me (feat. Anycia)",
+      "url": "https://open.spotify.com/track/3b1r6l4SX8j4TSN8f4OogB"
     },
     {
       "added_at": null,
@@ -923,22 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fruit Loop",
-        "url": "https://open.spotify.com/album/1eGfr1AwGJ3bI2ONUhikpg"
-      },
-      "artists": [
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 137263,
-      "name": "Fruit Loop",
-      "url": "https://open.spotify.com/track/2vgoeRVrxhxuE7vvUSOVim"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chocolate Rain",
         "url": "https://open.spotify.com/album/6JUUed8Ed1U8IYzLIiQvoL"
       },
@@ -955,30 +939,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anything Flows (feat. Maiya The Don, 2Rare & Kari Faux)",
-        "url": "https://open.spotify.com/album/60LPFmZ5vcbDBZRexNZ9c1"
+        "name": "Fruit Loop",
+        "url": "https://open.spotify.com/album/1eGfr1AwGJ3bI2ONUhikpg"
       },
       "artists": [
         {
           "name": "Flo Milli",
           "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        },
-        {
-          "name": "Maiya The Don",
-          "url": "https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ"
-        },
-        {
-          "name": "2Rare",
-          "url": "https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ"
-        },
-        {
-          "name": "Kari Faux",
-          "url": "https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB"
         }
       ],
-      "duration_ms": 198385,
-      "name": "Anything Flows (feat. Maiya The Don, 2Rare & Kari Faux)",
-      "url": "https://open.spotify.com/track/5MnqugWyPeiodmvBbFIZ6m"
+      "duration_ms": 137263,
+      "name": "Fruit Loop",
+      "url": "https://open.spotify.com/track/2vgoeRVrxhxuE7vvUSOVim"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boys Ain't Shit (feat. Flo Milli)",
+        "url": "https://open.spotify.com/album/3hQcaESnJCs1r2oHbmUKoB"
+      },
+      "artists": [
+        {
+          "name": "SAYGRACE",
+          "url": "https://open.spotify.com/artist/6y5amJcTjeDgLXIjtQLMst"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 195750,
+      "name": "Boys Ain't Shit (feat. Flo Milli)",
+      "url": "https://open.spotify.com/track/2W7FRj6wq1uNmIUwELuQ7e"
     }
   ],
   "unique_name": "This Is Flo Milli",

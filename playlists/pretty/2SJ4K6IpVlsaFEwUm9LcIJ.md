@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to nov\-dec 2025
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,535 likes - 14 songs - 53 min 51 sec
+[margeaux](https://open.spotify.com/user/1220511975) - 23,539 likes - 15 songs - 57 min 22 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,5 +22,6 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 12 | [Mack the Knife](https://open.spotify.com/track/272RsEjgrJUUc3qQz9qOhj) | [Dave Van Ronk](https://open.spotify.com/artist/6QmHysWvckkQR74oxmLmtz) | [Live At Sir George Williams University](https://open.spotify.com/album/4ogQqD57dT1T22B8eeFQLD) | 3:32 |
 | 13 | [Arcadia](https://open.spotify.com/track/1xTi10LGVMv9MbKbg944mm) | [dome 3000](https://open.spotify.com/artist/3mBx6bxMOEGvTYe2B5pTH5) | [After The Dream Comes True](https://open.spotify.com/album/4xOPUGqhLNceNlxXxiDIfX) | 2:11 |
 | 14 | [Behind The Ears](https://open.spotify.com/track/23fAwEKmxaT0R9mYS5elJa) | [sugar plant](https://open.spotify.com/artist/0KrBZKq6kpcv9N0vBesN8o) | [Dryfruit](https://open.spotify.com/album/2eVOt0a7wQp0R09AXqwleG) | 10:09 |
+| 15 | [Horse County](https://open.spotify.com/track/70lW1sv0qx7SsTEOyXBFT9) | [YeYe](https://open.spotify.com/artist/2YUe21UG1hJsuhy9E3bzxp) | [Horse County](https://open.spotify.com/album/3B0xXGGFKGbLZzJ2yuJNNS) | 3:31 |
 
-Snapshot ID: `AAANac4zWqMcxngZbvfPxW8r08o2BgpW`
+Snapshot ID: `AAANahZ5HNwHb0xTAKh8AI4mJdjzRysj`

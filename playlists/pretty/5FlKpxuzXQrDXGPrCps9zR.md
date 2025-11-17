@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/5FlKpxuzXQrDXGPrCps9zR.md) - [plain]
 | 43 | [Midnight Sun](https://open.spotify.com/track/7N1GSHGlLwXY3lN5gv3QLV) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/0nte5x6fXd37Nt7jALSmx0) | 3:09 |
 | 44 | [Pretty Ugly](https://open.spotify.com/track/5FYkRxeoLfVxMqyfNR6TMQ) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/0nte5x6fXd37Nt7jALSmx0) | 2:38 |
 
-Snapshot ID: `AAABA02R0d+m+OqUV31XMyY4Fjuz0gzl`
+Snapshot ID: `AAABBVtX50BTapA0S0/Qe5RDsKTNOlX+`

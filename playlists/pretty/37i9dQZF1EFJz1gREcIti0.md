@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJz1gREcIti0.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3LRQHA0f13JHI5UZH2JLsz">Spencer Stewart</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 791 likes - 140 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 791 likes - 141 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJz1gREcIti0.md) - [plain]
 | 57 | [death wish](https://open.spotify.com/track/68kc71kxyfuWFLTheYyZlO) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [death wish](https://open.spotify.com/album/3JflsWk7Mj8FVcwvGGkiPf) | 2:40 |
 | 58 | [Frank](https://open.spotify.com/track/7CRCCJXVf6JqcmPYj38nQT) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [It Was Divine](https://open.spotify.com/album/4mjAzygOSH5k1toK9bir85) | 3:34 |
 | 59 | [Cry about it! \(feat\. Ravyn Lenae\)](https://open.spotify.com/track/2qMymtxoafC1JRtiiXUVFN) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Sincerely: P.S.](https://open.spotify.com/album/0lnZiBZPbGiBuNrMy25Yux) | 2:51 |
-| 60 | [alive](https://open.spotify.com/track/2CRs8EpAcyaEGounRabYQI) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [our little angel \- EP](https://open.spotify.com/album/1bbO5BrzT1CqhZuGh5qHn6) | 3:02 |
-| 61 | [Sabotage](https://open.spotify.com/track/0Q1yD22zCaVWxKV6w8wp45) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/3ZWIfcV7tylRzVh6amRaDv) | 3:34 |
+| 60 | [Sabotage](https://open.spotify.com/track/0Q1yD22zCaVWxKV6w8wp45) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/3ZWIfcV7tylRzVh6amRaDv) | 3:34 |
+| 61 | [alive](https://open.spotify.com/track/2CRs8EpAcyaEGounRabYQI) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [our little angel \- EP](https://open.spotify.com/album/1bbO5BrzT1CqhZuGh5qHn6) | 3:02 |
 | 62 | [rx](https://open.spotify.com/track/273h36reiuZ6Q92u4cmfID) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Rx](https://open.spotify.com/album/0pzu94TJ8IufDvf416cdfO) | 3:20 |
 | 63 | [Clean Air](https://open.spotify.com/track/5uKnUmI97PCAT5GvX7vkWZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/3ZWIfcV7tylRzVh6amRaDv) | 2:35 |
 | 64 | [Cheat \(feat\. JoJo\)](https://open.spotify.com/track/2APWeDZZLBBwAmVVECtgMr) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [IRL \(Deluxe\)](https://open.spotify.com/album/76G7P45A56sBfsNXj2yZyD) | 3:22 |
@@ -144,9 +144,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJz1gREcIti0.md) - [plain]
 | 134 | [Masterpiece](https://open.spotify.com/track/53P7tuwBSzScUiUW9TZqh1) | [Miquela](https://open.spotify.com/artist/7licaqhcEBQUzz9FownRaJ) | [Masterpiece](https://open.spotify.com/album/25LjRMXzJmUlip21z0he9D) | 4:04 |
 | 135 | [Fear of Missing Out](https://open.spotify.com/track/12nV0dBwvdQ1h6IV3GRnc1) | [T:ME](https://open.spotify.com/artist/0JTYV7vcKAjuhUdQlAWJ5F) | [Fear of Missing Out](https://open.spotify.com/album/5QTHJtgF26BPakoxDzmC2D) | 3:06 |
 | 136 | [I'll Be There \(feat\. Carter Mansuy\)](https://open.spotify.com/track/4iltNAyRQxT3EN4gmmnjxy) | [Love Mansuy](https://open.spotify.com/artist/2Z6VTMBnnuSQHmRyus3zbx), [Carter Mansuy](https://open.spotify.com/artist/3P7GeWJAhrXnL5fiHhEPUm) | [I'll Be There \(feat\. Carter Mansuy\)](https://open.spotify.com/album/3m1zw94rrjEmgrwNqs3L9j) | 2:45 |
-| 137 | [6deep](https://open.spotify.com/track/3Gr0valhCPMKJqPfza8mZ6) | [HWLS](https://open.spotify.com/artist/4ODo634wVqDxqgVSlXE2LO), [Toyotomi](https://open.spotify.com/artist/6HCXRVOCucwBF8zV66T2cr), [MAX BLACK](https://open.spotify.com/artist/15qK4Jx9tO39zd6vCU75rL) | [6deep](https://open.spotify.com/album/4iSUwKDw5MKlHKWsJm0KBw) | 3:52 |
-| 138 | [Gentlewoman](https://open.spotify.com/track/30Npm4RFzP3zVRs2LKIyk5) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Many Moons, Many Suns](https://open.spotify.com/album/6y9GtAWTtSJPGBsa9LDSa7) | 2:35 |
-| 139 | [Free Fall \- Edit](https://open.spotify.com/track/5rQtSoeRRO4y3d54z1Kd1f) | [Beckah Amani](https://open.spotify.com/artist/6AlUh97NNEBLo3OqYORyIi) | [Free Fall](https://open.spotify.com/album/4df4LmPcayUQczAkV63sn4) | 3:01 |
-| 140 | [Mockingbird](https://open.spotify.com/track/1AlxrPQuJNXOl3wQOXyv68) | [Paul Dally](https://open.spotify.com/artist/6OQd6IInCegvnBJ3eWeokE) | [Rave](https://open.spotify.com/album/4ETd0GtmlvoPnD8woGy2sX) | 3:28 |
+| 137 | [Hot Cocoa](https://open.spotify.com/track/7hTFtyYGqtJBJAHVv1oXQ9) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [You Make It Feel Like Christmas \(Deluxe Edition – 2025\)](https://open.spotify.com/album/1i5Mfk31QPBTMH5dbZjavr) | 3:38 |
+| 138 | [6deep](https://open.spotify.com/track/3Gr0valhCPMKJqPfza8mZ6) | [HWLS](https://open.spotify.com/artist/4ODo634wVqDxqgVSlXE2LO), [Toyotomi](https://open.spotify.com/artist/6HCXRVOCucwBF8zV66T2cr), [MAX BLACK](https://open.spotify.com/artist/15qK4Jx9tO39zd6vCU75rL) | [6deep](https://open.spotify.com/album/4iSUwKDw5MKlHKWsJm0KBw) | 3:52 |
+| 139 | [Gentlewoman](https://open.spotify.com/track/30Npm4RFzP3zVRs2LKIyk5) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Many Moons, Many Suns](https://open.spotify.com/album/6y9GtAWTtSJPGBsa9LDSa7) | 2:35 |
+| 140 | [Free Fall \- Edit](https://open.spotify.com/track/5rQtSoeRRO4y3d54z1Kd1f) | [Beckah Amani](https://open.spotify.com/artist/6AlUh97NNEBLo3OqYORyIi) | [Free Fall](https://open.spotify.com/album/4df4LmPcayUQczAkV63sn4) | 3:01 |
+| 141 | [Mockingbird](https://open.spotify.com/track/1AlxrPQuJNXOl3wQOXyv68) | [Paul Dally](https://open.spotify.com/artist/6OQd6IInCegvnBJ3eWeokE) | [Rave](https://open.spotify.com/album/4ETd0GtmlvoPnD8woGy2sX) | 3:28 |
 
-Snapshot ID: `AcBr5gAAAAAuKNsBu/9eo1S1FfjmEfsW`
+Snapshot ID: `AcBxfAAAAABuj+O+V3jR5kv17HYVfSK7`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,259 songs - 5 day 1 hr 9 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,261 songs - 5 day 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2267,5 +2267,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2257 | [Groove Street](https://open.spotify.com/track/504OahIMlkY7CemnS8TWv0) | [JXXXO](https://open.spotify.com/artist/3zKx7GjoCdfCUuR3a63XkI) | [TXXLS2](https://open.spotify.com/album/55PbuKicNsOgP2t5AliIYc) | 5:05 |
 | 2258 | [Fever](https://open.spotify.com/track/09xhawlPUifhftf8zuie7w) | [Buckshot](https://open.spotify.com/artist/0HPG2EIdGCP6gjXW0KzrJq), [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi) | [Fever](https://open.spotify.com/album/0ULd6WFTpdtoBl7eBgH2oo) | 2:24 |
 | 2259 | [Alright](https://open.spotify.com/track/3iVcZ5G6tvkXZkZKlMpIUs) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [To Pimp A Butterfly](https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP) | 3:39 |
+| 2260 | [Simple And Clean \- PLANITb Remix](https://open.spotify.com/track/0NGgGj5L3VztJb3zKIwpRp) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2), [ラッセル・マクナマラ](https://open.spotify.com/artist/4LwuYeMYav834kRcImkLvw) | [COLORS](https://open.spotify.com/album/6b65tDkcbAisHn2FR02ZC8) | 5:43 |
+| 2261 | [It's me Maria](https://open.spotify.com/track/24JU9QfxetgljW6NYcJYA3) | [Bassvictim](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM) | [Forever](https://open.spotify.com/album/7c2Tim7H0rp30NoE8dVbu5) | 2:08 |
 
-Snapshot ID: `AAAEx4PmiQH2eKn2xNel9P+rIyBN6yHQ`
+Snapshot ID: `AAAEyb9fKNn0HHQjuOkmHzxAjGteRSSl`

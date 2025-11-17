@@ -4,7 +4,7 @@
 
 > This is The Rolling Stones\. The essential tracks, all in one playlist.
 
-107 songs - 7 hr 16 min
+108 songs - 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Get Close](https://open.spotify.com/track/0bL5tco8cV95q5FNFzxzUS) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Hackney Diamonds](https://open.spotify.com/album/1AxMcdQRLguJqSZMxvRNdO) | 4:10 | 2023-11-10 | 2024-07-24 |
 | [Get Off Of My Cloud \- Mono Version](https://open.spotify.com/track/263Iuyk08ks1v6FIudUIGD) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [December’s Children \(And Everybody’s\)](https://open.spotify.com/album/2p2xSwHP4rTPzNCaOveDIP) | 2:55 | 2022-01-09 |  |
 | [Gimme Shelter](https://open.spotify.com/track/6H3kDe7CGoWYBabAeVWGiD) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Let It Bleed](https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy) | 4:30 | 2022-01-09 |  |
+| [Hand Of Fate \- 2025 Mix](https://open.spotify.com/track/0yXYdsKVHXm92sDpL25VDV) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Black And Blue \(2025 Mix\)](https://open.spotify.com/album/0OxlgUq5MuHVLJrUC1GS9s) | 4:28 | 2025-11-17 |  |
 | [Hang Fire \- Remastered](https://open.spotify.com/track/5HcTLesmMaPr0CkwdbtK0o) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe), [Bob Clearmountain](https://open.spotify.com/artist/7iWYCIyfxwVyVae6u7qJaO) | [Tattoo You \(2009 Re\-Mastered\)](https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ) | 2:21 | 2023-12-15 | 2024-01-23 |
 | [Happy](https://open.spotify.com/track/5fXRPS1tp70DbqsBZVyG4e) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Exile On Main Street \(Deluxe Version\)](https://open.spotify.com/album/1D0PTM0bg7skufClSUOxTP) | 3:04 | 2022-01-09 |  |
 | [Happy \- Live](https://open.spotify.com/track/2MGEoTLpKfCQ9v7V3Jr7Vz) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Happy \(Live\)](https://open.spotify.com/album/48gYTonBHApTBlLkJ6fsPL) | 4:08 | 2022-12-08 | 2023-02-04 |
@@ -86,7 +87,7 @@
 | [Route 66](https://open.spotify.com/track/1FRP8d6l2jm3DS5f78ZrhK) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [The Rolling Stones](https://open.spotify.com/album/0bJMFJ2XQwpO5nKTrYdUtX) | 2:20 | 2022-04-01 |  |
 | [Ruby Tuesday](https://open.spotify.com/track/4hupcimlg3UBbW1kAQ6vrT) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Between The Buttons](https://open.spotify.com/album/36BIYdP4WtviD9Ngqc4SK5) | 3:16 | 2022-01-09 |  |
 | [Saint Of Me](https://open.spotify.com/track/6OEpSYq8wdqnl01hsoQGQY) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Bridges To Babylon \(Remastered\)](https://open.spotify.com/album/6lbQFxYqubkf4GbEtXARE7) | 5:14 | 2024-12-02 |  |
-| [Shame, Shame, Shame](https://open.spotify.com/track/0l5i2lHBBB1UqFg44HSMuF) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Shame, Shame, Shame](https://open.spotify.com/album/35gGO0L9us7lpianyn8QwQ) | 4:05 | 2025-09-28 |  |
+| [Shame, Shame, Shame](https://open.spotify.com/track/0l5i2lHBBB1UqFg44HSMuF) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Shame, Shame, Shame](https://open.spotify.com/album/35gGO0L9us7lpianyn8QwQ) | 4:05 | 2025-09-28 | 2025-11-17 |
 | [Shattered \- Remastered](https://open.spotify.com/track/0FfZBWDv7p63yj6oh2I2PS) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Some Girls](https://open.spotify.com/album/1Jv2AqzhgsduUik2p4k3cS) | 3:46 | 2022-01-09 | 2024-07-16 |
 | [She's A Rainbow](https://open.spotify.com/track/7Cwhlma0JgRVhDHR5CftD5) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Forty Licks](https://open.spotify.com/album/2WvMWgLvHvBHT2IknyXiMi) | 4:13 | 2024-01-27 |  |
 | [She's A Rainbow](https://open.spotify.com/track/6KOtheMY0KN4s9TrQHr9It) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [She's A Rainbow / Dandelion / We Love You](https://open.spotify.com/album/0ZVb7BLZuvx9ZZebd9i3lu) | 4:13 | 2022-01-09 | 2025-09-28 |

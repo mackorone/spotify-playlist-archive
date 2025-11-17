@@ -1,12 +1,12 @@
 {
   "description": "This is Eros Ramazzotti. The essential tracks, all in one playlist.",
-  "num_followers": 245627,
+  "num_followers": 245669,
   "original_name": "This Is Eros Ramazzotti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRZxAAAAAABjZtDv62c/rhcrSw3vywpR",
+  "snapshot_id": "aRfCgAAAAAB4k4/Kbze8KDL2HxZ2rceI",
   "tracks": [
     {
       "added_at": null,
@@ -403,26 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00e9xico & Amigos",
-        "url": "https://open.spotify.com/album/7h8d8lu8w3Z6EombrGhlzt"
-      },
-      "artists": [
-        {
-          "name": "Julio Iglesias",
-          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
-        },
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 198320,
-      "name": "La Media Vuelta",
-      "url": "https://open.spotify.com/track/4YaWx75feX1fdZdMP9TLDO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Il mio giorno preferito/Mi d\u00eda preferido",
         "url": "https://open.spotify.com/album/364VKqmZIJSiFbH4F5UX2x"
       },
@@ -451,6 +431,26 @@
       "duration_ms": 244266,
       "name": "Ti sposer\u00f2 perch\u00e9",
       "url": "https://open.spotify.com/track/5ZODincIREhQ6RYnoJdXNd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "M\u00e9xico & Amigos",
+        "url": "https://open.spotify.com/album/7h8d8lu8w3Z6EombrGhlzt"
+      },
+      "artists": [
+        {
+          "name": "Julio Iglesias",
+          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
+        },
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 198320,
+      "name": "La Media Vuelta",
+      "url": "https://open.spotify.com/track/4YaWx75feX1fdZdMP9TLDO"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Todos Los Sentidos",
-        "url": "https://open.spotify.com/album/5jp9HpiAUultIxQR8OBwpH"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 310093,
-      "name": "Si Bastasen un Par de Canciones",
-      "url": "https://open.spotify.com/track/6QZw9KXAn1xuZ4FMCSQGgf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dietro Le Apparenze",
         "url": "https://open.spotify.com/album/2rOZXRaWqDzbGdISSDQXjC"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 234920,
       "name": "Inevitabile (feat. Eros Ramazzotti)",
       "url": "https://open.spotify.com/track/2ZMNdZoaXrGjwPjSxRvw1H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Todos Los Sentidos",
+        "url": "https://open.spotify.com/album/5jp9HpiAUultIxQR8OBwpH"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 310093,
+      "name": "Si Bastasen un Par de Canciones",
+      "url": "https://open.spotify.com/track/6QZw9KXAn1xuZ4FMCSQGgf"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heroes De hoy [35th Anniversary Edition (Remastered 192 khz)]",
-        "url": "https://open.spotify.com/album/0NVRrBt4sMmBSXuFp0Z7Gc"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 240760,
-      "name": "Ahora Tu - Remastered 2021",
-      "url": "https://open.spotify.com/track/777VmtueWDFtUTs0HwvKLD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Calma Aparente (Spanish Version)",
         "url": "https://open.spotify.com/album/2GblNd4Iw3icXAXPIhKuQa"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 250853,
       "name": "Esta Pasando Noviembre",
       "url": "https://open.spotify.com/track/305WmAWejd1NAIPQc9hV6p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heroes De hoy [35th Anniversary Edition (Remastered 192 khz)]",
+        "url": "https://open.spotify.com/album/0NVRrBt4sMmBSXuFp0Z7Gc"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 240760,
+      "name": "Ahora Tu - Remastered 2021",
+      "url": "https://open.spotify.com/track/777VmtueWDFtUTs0HwvKLD"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2Ln16qIxDF.md) - [plain]
 
 > Canciones que tenes que escuchar  📸 YSY A
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,171,148 likes - 108 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,171,074 likes - 108 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

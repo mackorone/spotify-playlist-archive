@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQb3nvLSZql.md) - [plain]
 
 > enjoy the Stray Kids World Tour \[dominATE : celebrATE\] LIVE SET including the voices of them on stage! \(스트레이 키즈의 무대 멘트와 목소리가 포함된 \[dominATE : celebrATE\] 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,533 likes - 38 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,579 likes - 38 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQb3nvLSZql.md) - [plain]
 | 37 | [Chk Chk Boom \(Festival Ver.\)](https://open.spotify.com/track/4d28DHHr8p1xbpEHaxdLfV) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ATE](https://open.spotify.com/album/0eQiSiMwLWDd1gxkMqkvuS) | 2:33 |
 | 38 | [CEREMONY \(Festival Version\)](https://open.spotify.com/track/2EjpIDNU3KoRMVe3j4NsqP) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [KARMA](https://open.spotify.com/album/4v9IBMLeDDviC5A4UGA4p6) | 2:52 |
 
-Snapshot ID: `AAAAABNryI0WmG9Tfsuom78Dg8P0pcVS`
+Snapshot ID: `AAAAAL69kf27mEcEQ15Csp/FgBsKAiFi`

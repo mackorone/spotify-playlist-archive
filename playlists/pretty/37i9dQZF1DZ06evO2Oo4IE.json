@@ -1,12 +1,12 @@
 {
   "description": "This is Janis Joplin. The essential tracks, all in one playlist.",
-  "num_followers": 188010,
+  "num_followers": 188025,
   "original_name": "This Is Janis Joplin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRZxAAAAAAAfts1quOxKU5T/BUsZCrD0",
+  "snapshot_id": "aRfCgAAAAACHRloub12euClKnsj1OXy6",
   "tracks": [
     {
       "added_at": null,
@@ -539,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Box Of Pearls",
+        "url": "https://open.spotify.com/album/2uEM5GPliifxJ0llkQ59oR"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 151133,
+      "name": "Dear Landlord",
+      "url": "https://open.spotify.com/track/1rH1PF17P6p7frsbkd0kIq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Legendary Typewriter Tape: 6/25/64 Jorma's House",
         "url": "https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 70487,
       "name": "\"How 'Bout This?\"",
       "url": "https://open.spotify.com/track/2cLeyjgYro18QHgJA6N36h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Box Of Pearls",
-        "url": "https://open.spotify.com/album/2uEM5GPliifxJ0llkQ59oR"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 151133,
-      "name": "Dear Landlord",
-      "url": "https://open.spotify.com/track/1rH1PF17P6p7frsbkd0kIq"
     },
     {
       "added_at": null,
@@ -611,26 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Legendary Typewriter Tape: 6/25/64 Jorma's House",
-        "url": "https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        },
-        {
-          "name": "Jorma Kaukonen",
-          "url": "https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa"
-        }
-      ],
-      "duration_ms": 173230,
-      "name": "Trouble in Mind",
-      "url": "https://open.spotify.com/track/48DDXcCW9tBv1I96Y83jJx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Janis Joplin Live At Winterland '68",
         "url": "https://open.spotify.com/album/4V0cCuHywHvFeYTptF1GmT"
       },
@@ -647,6 +627,26 @@
       "duration_ms": 192466,
       "name": "Flower In the Sun - Live at the Winterland Ballroom, San Francisco, CA - April 1968",
       "url": "https://open.spotify.com/track/5BrrkvuqvPz3kvdHNRsTCi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Legendary Typewriter Tape: 6/25/64 Jorma's House",
+        "url": "https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        },
+        {
+          "name": "Jorma Kaukonen",
+          "url": "https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa"
+        }
+      ],
+      "duration_ms": 173230,
+      "name": "Trouble in Mind",
+      "url": "https://open.spotify.com/track/48DDXcCW9tBv1I96Y83jJx"
     },
     {
       "added_at": null,
@@ -687,26 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Legendary Typewriter Tape: 6/25/64 Jorma's House",
-        "url": "https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        },
-        {
-          "name": "Jorma Kaukonen",
-          "url": "https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa"
-        }
-      ],
-      "duration_ms": 46964,
-      "name": "\"Are We Taping Now?\"",
-      "url": "https://open.spotify.com/track/3jpfF9gHUjuv2Tgc2tigNg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Steve Mann: Alive And Pickin'",
         "url": "https://open.spotify.com/album/2e82i0uQxkMwdJr8ASIvFe"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 187413,
       "name": "Trouble In Mind",
       "url": "https://open.spotify.com/track/0c3YbzSctWakEYtmjVzlWB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Legendary Typewriter Tape: 6/25/64 Jorma's House",
+        "url": "https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        },
+        {
+          "name": "Jorma Kaukonen",
+          "url": "https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa"
+        }
+      ],
+      "duration_ms": 46964,
+      "name": "\"Are We Taping Now?\"",
+      "url": "https://open.spotify.com/track/3jpfF9gHUjuv2Tgc2tigNg"
     },
     {
       "added_at": null,
@@ -755,6 +755,22 @@
       "duration_ms": 110984,
       "name": "Me - Live 1969",
       "url": "https://open.spotify.com/track/56w8vxskZpVGphNxBfkUoS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Pearl Sessions",
+        "url": "https://open.spotify.com/album/2wkjA7zJrCFQcBJpD4tHA7"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 99706,
+      "name": "Overheard In The Studio...",
+      "url": "https://open.spotify.com/track/0rB1ACV8tKm8lDGtsgMfIO"
     },
     {
       "added_at": null,
@@ -819,8 +835,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Pearl Sessions",
-        "url": "https://open.spotify.com/album/2wkjA7zJrCFQcBJpD4tHA7"
+        "name": "Takes To The Sky (Live 1968)",
+        "url": "https://open.spotify.com/album/4FbT4qT61380h7xQ1Pymb3"
       },
       "artists": [
         {
@@ -828,9 +844,9 @@
           "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
         }
       ],
-      "duration_ms": 99706,
-      "name": "Overheard In The Studio...",
-      "url": "https://open.spotify.com/track/0rB1ACV8tKm8lDGtsgMfIO"
+      "duration_ms": 77618,
+      "name": "Tuning & Talk, Pt.2 - Live",
+      "url": "https://open.spotify.com/track/11ZgxZFZemrsfHqXt1cFgU"
     },
     {
       "added_at": null,
@@ -864,9 +880,9 @@
           "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
         }
       ],
-      "duration_ms": 77618,
-      "name": "Tuning & Talk, Pt.2 - Live",
-      "url": "https://open.spotify.com/track/11ZgxZFZemrsfHqXt1cFgU"
+      "duration_ms": 83461,
+      "name": "Talk, Pt.1 - Live",
+      "url": "https://open.spotify.com/track/6JdG2LMfRkpTFcsEem84lr"
     },
     {
       "added_at": null,
@@ -887,22 +903,6 @@
       "duration_ms": 237559,
       "name": "Hesitation Blues",
       "url": "https://open.spotify.com/track/58k1qXar0SYC8yb6nHAxsX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Takes To The Sky (Live 1968)",
-        "url": "https://open.spotify.com/album/4FbT4qT61380h7xQ1Pymb3"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 83461,
-      "name": "Talk, Pt.1 - Live",
-      "url": "https://open.spotify.com/track/6JdG2LMfRkpTFcsEem84lr"
     }
   ],
   "unique_name": "This Is Janis Joplin",

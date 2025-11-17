@@ -4,7 +4,7 @@
 
 > 12 Hours of brown noise to sleep longer.
 
-282 songs - 14 hr 4 min
+283 songs - 14 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [Brown Noise Sleep Cabin](https://open.spotify.com/track/4MCOs3Y6t8V3LsILS5PRSw) | [The SubOceaners](https://open.spotify.com/artist/5JGfWE8Ws1aBP8283nSy8R) | [The Sleeper's Brown Noise](https://open.spotify.com/album/7juH0tExuVfyJAPjr2cyHQ) | 3:32 | 2023-05-25 |  |
 | [Brown Noise Sleep Chamber](https://open.spotify.com/track/5u01gKSHevlxDlYeA7g3Te) | [Ozonezzz](https://open.spotify.com/artist/3D4ZyZNY4vP7YHF9CtWQzZ) | [Brown Noise Sounds of Space](https://open.spotify.com/album/1qVlq3BIklC1Ej0V9xuvHq) | 2:40 | 2023-05-25 |  |
 | [Brown Noise Sleep Frequencies](https://open.spotify.com/track/7sJSTQUO2PiiPP26a4G9yf) | [Brown Noise Studio](https://open.spotify.com/artist/7npBnBvj7J6RrSFJfDLBiA) | [Chill Brown Noise for my Ears](https://open.spotify.com/album/6BuAXSNxzUVVxEwILc71Yc) | 3:47 | 2023-05-25 |  |
-| [Brown Noise Sleep Tunnel](https://open.spotify.com/track/6IqUgsHtCLRmkxcrURAFz2) | [Brown Luz](https://open.spotify.com/artist/540r5D4B326bdvWPe550Po) | [Aeroplane Brown Noise](https://open.spotify.com/album/66D3tjBkovXOzIcBFniK2g) | 4:26 | 2023-05-25 |  |
+| [Brown Noise Sleep Tunnel](https://open.spotify.com/track/6IqUgsHtCLRmkxcrURAFz2) | [Brown Luz](https://open.spotify.com/artist/540r5D4B326bdvWPe550Po) | [Aeroplane Brown Noise](https://open.spotify.com/album/66D3tjBkovXOzIcBFniK2g) | 4:26 | 2023-05-25 | 2025-11-17 |
 | [Brown Noise Slumber](https://open.spotify.com/track/2ePQwG2O6scTpHWaY5fpCb) | [New Lab](https://open.spotify.com/artist/2JERrrG5RDWd8oVOhpPl2F) | [Sea Of Brown Noise](https://open.spotify.com/album/0ElWYos0OifJXRBl73xPSi) | 3:52 | 2023-05-25 |  |
 | [Brown Noise Soothing Sounds](https://open.spotify.com/track/395nn3mYgKDdImyOp2KNer) | [Audioable Noise](https://open.spotify.com/artist/6GSMXtegoAGXg4CvixzInT) | [Brown Noise Soothing Sounds](https://open.spotify.com/album/4FbZ6PYbI7veGhoxglIjIc) | 2:58 | 2023-05-25 |  |
 | [Brown Noise Soothing Soundscape](https://open.spotify.com/track/4xaVqe8YrFui2MYYOVKKXZ) | [Ozonezzz](https://open.spotify.com/artist/3D4ZyZNY4vP7YHF9CtWQzZ) | [Brown Noise Sounds of Space](https://open.spotify.com/album/1qVlq3BIklC1Ej0V9xuvHq) | 2:40 | 2023-05-25 | 2025-08-23 |
@@ -251,6 +251,7 @@
 | [Rolling Deep](https://open.spotify.com/track/74z73AMsEbOWSffQB4IIHl) | [The SubOceaners](https://open.spotify.com/artist/5JGfWE8Ws1aBP8283nSy8R) | [Dreaming under Water](https://open.spotify.com/album/7GEjOabKlEyD4nXEpDuuop) | 4:05 | 2023-05-25 |  |
 | [Ruido De Aviones Freq 238 Hz Q 0.5 \- Seamless](https://open.spotify.com/track/7IULbyfSZ5rViyx7qKCrdZ) | [Ardeon](https://open.spotify.com/artist/7IG0fEAR9mz2PBckWjAfS8) | [Ruido De Aviones](https://open.spotify.com/album/4DA3h0stpjokKVyHVL0Z8y) | 3:05 | 2023-05-25 |  |
 | [Sandman's Brown Noise](https://open.spotify.com/track/0LV04oOWUzFDsiH5KM1c79) | [Marion Marrón](https://open.spotify.com/artist/1vqu8syPI7SLsn6bJasrbO) | [Brown For Insomniacs](https://open.spotify.com/album/0qIRn3o3TwTFaekTi3EL2Z) | 3:21 | 2023-05-25 |  |
+| [Skillful Brown Noise](https://open.spotify.com/track/6uN3ogxpUcVm8rOXMVkZcY) | [Xella Machina](https://open.spotify.com/artist/66uHiAJ1D3MCLQmX9xYJqI) | [Skillful Brown Noise](https://open.spotify.com/album/0BousaMV8qezDef0zcckjo) | 3:04 | 2025-11-13 |  |
 | [Sleep Aid Brown Noise](https://open.spotify.com/track/3Op7qOfXCeE9y2a8khEHyR) | [Euaxations](https://open.spotify.com/artist/3RGM53632OyIVzEN2FrLJN) | [Sleep Aid Brown Noise](https://open.spotify.com/album/4hzsIdXqE5kzNUj4edWk2t) | 2:10 | 2024-02-02 | 2025-02-28 |
 | [Sleep Ambient Brown Noise](https://open.spotify.com/track/6r7YXtEES9ljlIVe7yM8cY) | [Arx](https://open.spotify.com/artist/1WE6CfpIRxkLEpMddVhEXI) | [Sleep Ambient Brown Noise](https://open.spotify.com/album/5rzrTfIsPGRKhbABABV9kT) | 2:44 | 2023-05-25 | 2023-11-11 |
 | [Sleep Noise \(Brown\)](https://open.spotify.com/track/2PBvSP1bRXX198fdDJZWmp) | [Blimba](https://open.spotify.com/artist/42XvJnFdC4wFTCn1aiMafa) | [Sleep Noise \(Brown\)](https://open.spotify.com/album/6JOCRCYAgyjLfv8EO7FnV8) | 2:21 | 2023-05-25 |  |

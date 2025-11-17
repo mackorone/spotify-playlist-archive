@@ -1,12 +1,12 @@
 {
   "description": "This is Sade. The essential tracks, all in one playlist.",
-  "num_followers": 452678,
+  "num_followers": 452806,
   "original_name": "This Is Sade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRZxAAAAAABv+prY003YYo01IY55K0PG",
+  "snapshot_id": "aRfCgAAAAADd2dfAMqfNw0/iHsluexp3",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lovers Rock",
-        "url": "https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 274933,
-      "name": "By Your Side",
-      "url": "https://open.spotify.com/track/7H3ojI1BsVy0dEJENqMt1k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love Deluxe",
         "url": "https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 218000,
       "name": "Like a Tattoo",
       "url": "https://open.spotify.com/track/4PEGwWH4tL6H7dGl4uVSPg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lovers Rock",
+        "url": "https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 274933,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/7H3ojI1BsVy0dEJENqMt1k"
     },
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Promise",
-        "url": "https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 381133,
-      "name": "Is It a Crime",
-      "url": "https://open.spotify.com/track/1XR1X1VTyTOVdPgH18RdME"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Soldier of Love",
         "url": "https://open.spotify.com/album/3QzXOFN7Wh4WgilnraBYAU"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 219200,
       "name": "Be That Easy",
       "url": "https://open.spotify.com/track/5KADKKJqxxF2d0a9Ir2lK3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 381133,
+      "name": "Is It a Crime",
+      "url": "https://open.spotify.com/track/1XR1X1VTyTOVdPgH18RdME"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Kaliii. The essential tracks, all in one playlist.",
-  "num_followers": 4858,
+  "num_followers": 4857,
   "original_name": "This Is Kaliii",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRZxAAAAAACcrSPY4E6OwZG5uDe15WON",
+  "snapshot_id": "aRfCgAAAAAAw0aJRjlv5ceZ6Gwb7o8hA",
   "tracks": [
     {
       "added_at": null,
@@ -423,30 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SHAKE (feat. Kaliii and Stunna Girl)",
-        "url": "https://open.spotify.com/album/5Ht7NVw5YFw4p3P3QqKacv"
-      },
-      "artists": [
-        {
-          "name": "YG",
-          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
-        },
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        },
-        {
-          "name": "Stunna Girl",
-          "url": "https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV"
-        }
-      ],
-      "duration_ms": 191538,
-      "name": "SHAKE - feat. Kaliii and Stunna Girl",
-      "url": "https://open.spotify.com/track/1gYPFlrHvmP8PiuTf0a9n1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Who I Am",
         "url": "https://open.spotify.com/album/2RcR9tY2ZkKnHVmZh5RIKh"
       },
@@ -487,6 +463,30 @@
       "duration_ms": 148915,
       "name": "do it 4 th\u20ac gram - r\u20acmix",
       "url": "https://open.spotify.com/track/7MVmS6K6kxRrhJQJ35nfjV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SHAKE (feat. Kaliii and Stunna Girl)",
+        "url": "https://open.spotify.com/album/5Ht7NVw5YFw4p3P3QqKacv"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        },
+        {
+          "name": "Stunna Girl",
+          "url": "https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV"
+        }
+      ],
+      "duration_ms": 191538,
+      "name": "SHAKE - feat. Kaliii and Stunna Girl",
+      "url": "https://open.spotify.com/track/1gYPFlrHvmP8PiuTf0a9n1"
     },
     {
       "added_at": null,
@@ -599,6 +599,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hot Girl Maybach",
+        "url": "https://open.spotify.com/album/7nVTJT6oLE0KEZ7KspkxjC"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 140409,
+      "name": "Hot Girl Maybach",
+      "url": "https://open.spotify.com/track/5UHGNDDDc7XxGsF6ZcQs9I"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "This Why They Mad Now",
         "url": "https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 213133,
       "name": "Ain't FWM (feat. Ken the Man)",
       "url": "https://open.spotify.com/track/6tuDN7s1S1ld0FSNGhxhl4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hot Girl Maybach",
-        "url": "https://open.spotify.com/album/7nVTJT6oLE0KEZ7KspkxjC"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 140409,
-      "name": "Hot Girl Maybach",
-      "url": "https://open.spotify.com/track/5UHGNDDDc7XxGsF6ZcQs9I"
     },
     {
       "added_at": null,
@@ -784,9 +784,9 @@
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         }
       ],
-      "duration_ms": 153652,
-      "name": "Bad Bad Bad",
-      "url": "https://open.spotify.com/track/3cSupjEV8VcSxD6iChJ8MO"
+      "duration_ms": 144983,
+      "name": "Nasty Bitch",
+      "url": "https://open.spotify.com/track/5nYb5BCEwJc9z88HFLrr1y"
     },
     {
       "added_at": null,
@@ -856,9 +856,9 @@
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         }
       ],
-      "duration_ms": 144983,
-      "name": "Nasty Bitch",
-      "url": "https://open.spotify.com/track/5nYb5BCEwJc9z88HFLrr1y"
+      "duration_ms": 153652,
+      "name": "Bad Bad Bad",
+      "url": "https://open.spotify.com/track/3cSupjEV8VcSxD6iChJ8MO"
     },
     {
       "added_at": null,

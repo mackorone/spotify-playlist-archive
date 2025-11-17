@@ -4,7 +4,7 @@
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-1,302 songs - 2 day 9 hr 30 min
+1,303 songs - 2 day 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -726,6 +726,7 @@
 | [Love Into My Mind](https://open.spotify.com/track/00csDb3BzGdM2nDQJA0taW) | [Lunar Echoes](https://open.spotify.com/artist/72izJuYD5yjxpnfJXMGNkk) | [Love Into My Mind](https://open.spotify.com/album/3bpiYBNqZRiFaqbnu12a47) | 2:22 | 2025-01-17 | 2025-02-18 |
 | [Love Me](https://open.spotify.com/track/11uo1LfZCpXULD5qb3bMd2) | [2FarAway](https://open.spotify.com/artist/0m0DFcA4Bg5HemIW0vQ4U3), [blaank](https://open.spotify.com/artist/1IvFHrfuRe7aySFJ5CpByS), [Emma Bieniewicz](https://open.spotify.com/artist/3Q8oea8QqbpbbgHLzDcjTo) | [Love Me](https://open.spotify.com/album/0epV7mjgxQKTICDcOgsbth) | 2:12 | 2025-03-21 | 2025-07-14 |
 | [Love Me \- Radio Edit](https://open.spotify.com/track/6d9YuFPFBPEJE9WuG0pecy) | [Luis Saranda](https://open.spotify.com/artist/1VBt78E24QMOpgs2hEnyvF), [DJ Sticx](https://open.spotify.com/artist/372HxNSm3PkyoB4u1tmvcW), [Mario Novembre](https://open.spotify.com/artist/6QkidrPNY7AuI1V4xcKiqo) | [Love Me \- Radio Edit](https://open.spotify.com/album/1AEVjeHzNaJVkzsnGKQxpR) | 3:01 | 2024-08-30 | 2024-09-15 |
+| [Love Somebody](https://open.spotify.com/track/5q8ZnnChehX5vV9D59ccw0) | [Brenda](https://open.spotify.com/artist/2N7wwvscWyr5WhyRBxFSR0), [Jaker](https://open.spotify.com/artist/1OiylLVpVrT0ToNcZBZaZY) | [Love Somebody](https://open.spotify.com/album/2Oqtkuq0djI4y1UlVdUmpf) | 2:17 | 2025-11-16 |  |
 | [Love Someone](https://open.spotify.com/track/1qbqxjmfX0elpgITU0u4YH) | [Amaranth Skies](https://open.spotify.com/artist/6v1yanGkwUBUbk6G3dgNOq), [EFA](https://open.spotify.com/artist/1Xg5tMFTyvI9QTMVltBcjy), [Summer Dusk](https://open.spotify.com/artist/21Nw1hStsfi6uDLK6WGzm3) | [Love Someone](https://open.spotify.com/album/2g7BUpvyNjavxoReZBc9OD) | 2:38 | 2024-07-26 | 2025-03-08 |
 | [Love You Like That](https://open.spotify.com/track/4x1rgaejqJqKxkIiQY06SS) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [A\-SHO](https://open.spotify.com/artist/1nMwu5ui0X2XYTRKGmCFJz) | [Love You Like That](https://open.spotify.com/album/6DsB1QJhPaZHixdPBb4yIK) | 2:09 | 2024-05-03 | 2024-06-15 |
 | [Love You Right](https://open.spotify.com/track/1r2gC1lfL0VIqtGcjBAHkF) | [Lucien](https://open.spotify.com/artist/5qmHB3aI1CfoYudcfOdgod), [Moise](https://open.spotify.com/artist/1QMWPzIxcd1bLmuOyM6XM1) | [Love You Right](https://open.spotify.com/album/0cLVBDRGfHbGXCQKBYFcq2) | 2:32 | 2025-08-22 |  |

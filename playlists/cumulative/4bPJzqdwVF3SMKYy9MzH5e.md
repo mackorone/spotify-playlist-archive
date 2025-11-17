@@ -4,7 +4,7 @@
 
 > 
 
-2,285 songs - 5 day 2 hr 48 min
+2,287 songs - 5 day 2 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1072,6 +1072,7 @@
 | [It's A Dream \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/1fQxT1YDOBjgzMVf8WjZfi) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [April Mixtape 3](https://open.spotify.com/album/56hrhzHAOsm5C7kSXzF4kh) | 2:31 | 2024-10-22 |  |
 | [It's Been So Long](https://open.spotify.com/track/463r5bsN1VqGXtaMctn4Rr) | [The Living Tombstone](https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF) | [It's Been So Long](https://open.spotify.com/album/14kh9qb1ZnqAFnshjFS4vO) | 2:54 | 2021-08-05 |  |
 | [It's Called: Freefall](https://open.spotify.com/track/474uVhyGgK5MtY9gMcDgGl) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [How to: Friend, Love, Freefall](https://open.spotify.com/album/7vXiklrUeffx5o2F8VYwm3) | 2:32 | 2022-02-04 |  |
+| [It's me Maria](https://open.spotify.com/track/24JU9QfxetgljW6NYcJYA3) | [Bassvictim](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM) | [Forever](https://open.spotify.com/album/7c2Tim7H0rp30NoE8dVbu5) | 2:08 | 2025-11-16 |  |
 | [It's Okay To Cry](https://open.spotify.com/track/7nKiLyUUSbNUwaoMBzBeQO) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH) | 3:50 | 2022-04-03 |  |
 | [Italy](https://open.spotify.com/track/032FKmPm1J1xXFoCqHl8cS) | [Reyn Hartley](https://open.spotify.com/artist/4v1IssGK0vWAyG0eK1aY21) | [Italy](https://open.spotify.com/album/0lfiz8whX8XquqSB2lJaa1) | 2:52 | 2021-08-05 |  |
 | [iwalkwhenitalk</3](https://open.spotify.com/track/03CRk2KMH20SAWv6OOQ9er) | [vnmpire](https://open.spotify.com/artist/0QsNA8omL2RFyNoHlWwlio) | [iwalkwhenitalk</3](https://open.spotify.com/album/3nc5FjDOeuHvzmM1NirYeA) | 1:38 | 2023-04-18 |  |
@@ -1795,6 +1796,7 @@
 | [Silhouette](https://open.spotify.com/track/403EjoWwYSX37paKSySxs1) | [Pastel Ghost](https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W) | [Silhouette](https://open.spotify.com/album/1wU3MS8trhxKeTvrQXIXzI) | 3:59 | 2022-04-03 |  |
 | [Silverlining](https://open.spotify.com/track/1xCNKflmCjPfOV6ihH15Cc) | [SHFTR](https://open.spotify.com/artist/0yw1drC4wSupncABpmkH98) | [Silverlining](https://open.spotify.com/album/1cCUkyZLP4W09EyVejFdLl) | 3:30 | 2025-09-23 |  |
 | [Simple And Clean](https://open.spotify.com/track/2G8tfTExxzpRKssKzKwDYV) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [COLORS](https://open.spotify.com/album/6b65tDkcbAisHn2FR02ZC8) | 5:00 | 2025-11-10 |  |
+| [Simple And Clean \- PLANITb Remix](https://open.spotify.com/track/0NGgGj5L3VztJb3zKIwpRp) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2), [ラッセル・マクナマラ](https://open.spotify.com/artist/4LwuYeMYav834kRcImkLvw) | [COLORS](https://open.spotify.com/album/6b65tDkcbAisHn2FR02ZC8) | 5:43 | 2025-11-16 |  |
 | [Sin](https://open.spotify.com/track/603q8qCfQVX7uRVnDpRpqb) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [Pretty Hate Machine](https://open.spotify.com/album/3umFHeEpc4yLXtrRcv9gLN) | 4:06 | 2022-12-30 |  |
 | [SING](https://open.spotify.com/track/1mX6SYJ1ZpcoxQUiER8wOI) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Danger Days: The True Lives of the Fabulous Killjoys](https://open.spotify.com/album/2wPnKggTK3QhYAKL7Q0vvr) | 4:30 | 2021-08-05 |  |
 | [Sing To Me](https://open.spotify.com/track/44oCGRuPFy7Uz6w4KliMBS) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS), [Death Stranding: Timefall](https://open.spotify.com/artist/4rojTfP5nRkmYpdSbWQgV4) | [Sing To Me](https://open.spotify.com/album/5XdXw120Se7gs2kCDfIh3Z) | 3:09 | 2022-06-27 |  |

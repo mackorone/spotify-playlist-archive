@@ -1,12 +1,12 @@
 {
   "description": "This is Sufjan Stevens. The essential tracks, all in one playlist.",
-  "num_followers": 129414,
+  "num_followers": 129427,
   "original_name": "This Is Sufjan Stevens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRZxAAAAAAC69oeMoWZtudgHS7YYuKYS",
+  "snapshot_id": "aRfCgAAAAAA1hIIIXuc9R0rNHRUxskzV",
   "tracks": [
     {
       "added_at": null,
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
         }
       ],
-      "duration_ms": 210440,
-      "name": "Murder And Crime",
-      "url": "https://open.spotify.com/track/43flDuyszwqpgsukkqMVea"
+      "duration_ms": 187302,
+      "name": "Olympus",
+      "url": "https://open.spotify.com/track/2eVWzZgYX87QQ7cS9MKnZI"
     },
     {
       "added_at": null,
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
         }
       ],
-      "duration_ms": 187302,
-      "name": "Olympus",
-      "url": "https://open.spotify.com/track/2eVWzZgYX87QQ7cS9MKnZI"
+      "duration_ms": 210440,
+      "name": "Murder And Crime",
+      "url": "https://open.spotify.com/track/43flDuyszwqpgsukkqMVea"
     },
     {
       "added_at": null,
@@ -755,22 +755,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aporia",
-        "url": "https://open.spotify.com/album/1juVCzBeCE5Nzx0iqXZ8kU"
+        "name": "The Ascension",
+        "url": "https://open.spotify.com/album/2Bd6trS7kIZOXujYdVP8Xd"
       },
       "artists": [
         {
           "name": "Sufjan Stevens",
           "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        },
-        {
-          "name": "Lowell Brams",
-          "url": "https://open.spotify.com/artist/1hCuN7zeXgcoLq6Ys1UOe4"
         }
       ],
-      "duration_ms": 32699,
-      "name": "Palinodes",
-      "url": "https://open.spotify.com/track/6Dlledo5CPotiHkDSO9xJB"
+      "duration_ms": 255721,
+      "name": "Video Game",
+      "url": "https://open.spotify.com/track/3Q8B1nnUBlJz0VTajyk1IS"
     },
     {
       "added_at": null,
@@ -791,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Ascension",
-        "url": "https://open.spotify.com/album/2Bd6trS7kIZOXujYdVP8Xd"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 255721,
-      "name": "Video Game",
-      "url": "https://open.spotify.com/track/3Q8B1nnUBlJz0VTajyk1IS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Beginner's Mind",
         "url": "https://open.spotify.com/album/7AS9VaIdnYSR13T3vkVtu9"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 222071,
       "name": "Lady Macbeth In Chains",
       "url": "https://open.spotify.com/track/0W2a7Ga9auLPDDPQp11iDO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aporia",
+        "url": "https://open.spotify.com/album/1juVCzBeCE5Nzx0iqXZ8kU"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        },
+        {
+          "name": "Lowell Brams",
+          "url": "https://open.spotify.com/artist/1hCuN7zeXgcoLq6Ys1UOe4"
+        }
+      ],
+      "duration_ms": 32699,
+      "name": "Palinodes",
+      "url": "https://open.spotify.com/track/6Dlledo5CPotiHkDSO9xJB"
     },
     {
       "added_at": null,

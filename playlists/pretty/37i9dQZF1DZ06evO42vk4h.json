@@ -1,12 +1,12 @@
 {
   "description": "This is OSKIDO. The essential tracks, all in one playlist.",
-  "num_followers": 4175,
+  "num_followers": 4174,
   "original_name": "This Is OSKIDO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRZxAAAAAADFHC6CAnt/U50NC4jwodv+",
+  "snapshot_id": "aRfCgAAAAAC+1Wt8iqW1tBtE7fO0wmBt",
   "tracks": [
     {
       "added_at": null,
@@ -247,6 +247,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ngizimisele",
+        "url": "https://open.spotify.com/album/0J5lDjlxCM515GQeS1JO8h"
+      },
+      "artists": [
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "Nkosazana Daughter",
+          "url": "https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66"
+        },
+        {
+          "name": "X-wise",
+          "url": "https://open.spotify.com/artist/7LJ9Zi6YhJc6hn1YdRvEyn"
+        }
+      ],
+      "duration_ms": 394285,
+      "name": "Ngizimisele",
+      "url": "https://open.spotify.com/track/40HxAjzO8wpe578MCVBMcy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Our Father",
         "url": "https://open.spotify.com/album/1dI9dADANjMtU5qfwkjbzc"
       },
@@ -271,30 +295,6 @@
       "duration_ms": 310582,
       "name": "Y-Tjukuja",
       "url": "https://open.spotify.com/track/2V63tXAalMiOveSc3pRLJp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ngizimisele",
-        "url": "https://open.spotify.com/album/0J5lDjlxCM515GQeS1JO8h"
-      },
-      "artists": [
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        },
-        {
-          "name": "Nkosazana Daughter",
-          "url": "https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66"
-        },
-        {
-          "name": "X-wise",
-          "url": "https://open.spotify.com/artist/7LJ9Zi6YhJc6hn1YdRvEyn"
-        }
-      ],
-      "duration_ms": 394285,
-      "name": "Ngizimisele",
-      "url": "https://open.spotify.com/track/40HxAjzO8wpe578MCVBMcy"
     },
     {
       "added_at": null,
@@ -991,34 +991,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Date Night (feat. King Talkzin)",
-        "url": "https://open.spotify.com/album/2FhNBJLWieMXPHIUCQxusp"
-      },
-      "artists": [
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        },
-        {
-          "name": "Daliwonga",
-          "url": "https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn"
-        },
-        {
-          "name": "Deep Sen",
-          "url": "https://open.spotify.com/artist/4Ld6Rt2l5Fmd2G39BeZeIv"
-        },
-        {
-          "name": "KingTalkzin",
-          "url": "https://open.spotify.com/artist/4Wj3cC5wZc8XTXz1mn4bMa"
-        }
-      ],
-      "duration_ms": 378459,
-      "name": "Date Night (feat. King Talkzin) - Club Edit",
-      "url": "https://open.spotify.com/track/0Jwngzaphnm6C8zKxDL6XW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Church Grooves Evolution",
         "url": "https://open.spotify.com/album/4759cdMebLbrNuG8AlNR0U"
       },
@@ -1047,6 +1019,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Date Night (feat. King Talkzin)",
+        "url": "https://open.spotify.com/album/2FhNBJLWieMXPHIUCQxusp"
+      },
+      "artists": [
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "Daliwonga",
+          "url": "https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn"
+        },
+        {
+          "name": "Deep Sen",
+          "url": "https://open.spotify.com/artist/4Ld6Rt2l5Fmd2G39BeZeIv"
+        },
+        {
+          "name": "KingTalkzin",
+          "url": "https://open.spotify.com/artist/4Wj3cC5wZc8XTXz1mn4bMa"
+        }
+      ],
+      "duration_ms": 378459,
+      "name": "Date Night (feat. King Talkzin) - Club Edit",
+      "url": "https://open.spotify.com/track/0Jwngzaphnm6C8zKxDL6XW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Listen to the Kids",
         "url": "https://open.spotify.com/album/7ARgpYp0gR8rTsuQUV5LW5"
       },
@@ -1071,6 +1071,34 @@
       "duration_ms": 445714,
       "name": "Emaweni",
       "url": "https://open.spotify.com/track/2hTli2tDcSviRcTRWtpdTf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reunited",
+        "url": "https://open.spotify.com/album/1pc9scQ5qX4lg0Opl83RB4"
+      },
+      "artists": [
+        {
+          "name": "Mafikizolo",
+          "url": "https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN"
+        },
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "DJ Micks",
+          "url": "https://open.spotify.com/artist/4j9zc19lwaM4NY6PDHn81B"
+        },
+        {
+          "name": "May D",
+          "url": "https://open.spotify.com/artist/7ahfCquNK3ReYc2UHhugs5"
+        }
+      ],
+      "duration_ms": 474180,
+      "name": "Happiness",
+      "url": "https://open.spotify.com/track/4tv8HUHpZRio3ydnv7ecqh"
     },
     {
       "added_at": null,
@@ -1111,30 +1139,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reunited",
-        "url": "https://open.spotify.com/album/1pc9scQ5qX4lg0Opl83RB4"
+        "name": "Sabela",
+        "url": "https://open.spotify.com/album/35fo6qvzOiIWfFEdPr2puO"
       },
       "artists": [
-        {
-          "name": "Mafikizolo",
-          "url": "https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN"
-        },
         {
           "name": "OSKIDO",
           "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
         },
         {
-          "name": "DJ Micks",
-          "url": "https://open.spotify.com/artist/4j9zc19lwaM4NY6PDHn81B"
+          "name": "Tman Xpress",
+          "url": "https://open.spotify.com/artist/6Wqpl1YTjgy5TiTluzFzjx"
         },
         {
-          "name": "May D",
-          "url": "https://open.spotify.com/artist/7ahfCquNK3ReYc2UHhugs5"
+          "name": "King Tone SA",
+          "url": "https://open.spotify.com/artist/3DoyERZYghbTIOhr6XSKKA"
         }
       ],
-      "duration_ms": 474180,
-      "name": "Happiness",
-      "url": "https://open.spotify.com/track/4tv8HUHpZRio3ydnv7ecqh"
+      "duration_ms": 214285,
+      "name": "Sabela - Radio Edit",
+      "url": "https://open.spotify.com/track/704kjwbiGaRqUDxbtxa7zW"
     },
     {
       "added_at": null,
@@ -1191,30 +1215,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sabela",
-        "url": "https://open.spotify.com/album/35fo6qvzOiIWfFEdPr2puO"
-      },
-      "artists": [
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        },
-        {
-          "name": "Tman Xpress",
-          "url": "https://open.spotify.com/artist/6Wqpl1YTjgy5TiTluzFzjx"
-        },
-        {
-          "name": "King Tone SA",
-          "url": "https://open.spotify.com/artist/3DoyERZYghbTIOhr6XSKKA"
-        }
-      ],
-      "duration_ms": 214285,
-      "name": "Sabela - Radio Edit",
-      "url": "https://open.spotify.com/track/704kjwbiGaRqUDxbtxa7zW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Church Grooves Evolution",
         "url": "https://open.spotify.com/album/4759cdMebLbrNuG8AlNR0U"
       },
@@ -1267,30 +1267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Master & The Karate Kid",
-        "url": "https://open.spotify.com/album/5rmwShVOOaaV4w4LJBFMRt"
-      },
-      "artists": [
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        },
-        {
-          "name": "King Tone SA",
-          "url": "https://open.spotify.com/artist/3DoyERZYghbTIOhr6XSKKA"
-        },
-        {
-          "name": "Scotts Maphuma",
-          "url": "https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS"
-        }
-      ],
-      "duration_ms": 379454,
-      "name": "Iqhude",
-      "url": "https://open.spotify.com/track/0c5q4Fw5UOfN2WG6LLFD8O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Uzobuya",
         "url": "https://open.spotify.com/album/0F7r7hwDnx4ui5WTXiLlaf"
       },
@@ -1315,6 +1291,30 @@
       "duration_ms": 289057,
       "name": "Uzobuya",
       "url": "https://open.spotify.com/track/6dfmPhjcqGM2EDGmcwwyTY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Master & The Karate Kid",
+        "url": "https://open.spotify.com/album/5rmwShVOOaaV4w4LJBFMRt"
+      },
+      "artists": [
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "King Tone SA",
+          "url": "https://open.spotify.com/artist/3DoyERZYghbTIOhr6XSKKA"
+        },
+        {
+          "name": "Scotts Maphuma",
+          "url": "https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS"
+        }
+      ],
+      "duration_ms": 379454,
+      "name": "Iqhude",
+      "url": "https://open.spotify.com/track/0c5q4Fw5UOfN2WG6LLFD8O"
     }
   ],
   "unique_name": "This Is OSKIDO",

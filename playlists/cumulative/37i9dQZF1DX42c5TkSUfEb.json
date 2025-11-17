@@ -3053,6 +3053,24 @@
     },
     {
       "album": {
+        "name": "failles",
+        "url": "https://open.spotify.com/album/3k6UPDk6tdvDMtZ7KADgQk"
+      },
+      "artists": [
+        {
+          "name": "Heroe",
+          "url": "https://open.spotify.com/artist/4MkrS9W3HKGDoFcg6vhbF1"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166401,
+      "name": "heureux",
+      "url": "https://open.spotify.com/track/1xMutgnDfUkwzM9Cn4afZu"
+    },
+    {
+      "album": {
         "name": "Multitudes",
         "url": "https://open.spotify.com/album/2uDbIwcvfGsMEbzeU3iyoU"
       },
@@ -5836,7 +5854,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-17",
       "duration_ms": 219466,
       "name": "Poison & Wine",
       "url": "https://open.spotify.com/track/5eAZSmWJjKNnMposeGbcCh"

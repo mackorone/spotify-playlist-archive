@@ -4,7 +4,7 @@
 
 > The most popular Jazz tracks in one playlist\. Cover: Herbie Hancock
 
-830 songs - 2 day 18 hr 26 min
+831 songs - 2 day 18 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [Dear Kathy](https://open.spotify.com/track/151RegbPut96kOvkSiPqLb) | [Benny Golson](https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG) | [Turning Point](https://open.spotify.com/album/0agszqZvTEs9EpGAsAj6yT) | 4:48 | 2024-02-01 |  |
 | [Dedicated To You](https://open.spotify.com/track/7Codqj9B5oMniYPUhfv26I) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [The Body & The Soul](https://open.spotify.com/album/4HI73mieaBFtwKS37HmvQH) | 3:22 | 2022-10-27 |  |
 | [Dedicated To You](https://open.spotify.com/track/7981FAW8DbDs1ueK4Ha8R2) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [John Coltrane And Johnny Hartman](https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU) | 5:32 | 2023-01-18 | 2025-10-30 |
+| [Deep As Love](https://open.spotify.com/track/2zLYr006x2323uleZZT1U2) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [Changing Places](https://open.spotify.com/album/4572n5PFAccWTD3Aq3tw5g) | 5:54 | 2024-07-17 |  |
 | [Deep In A Dream](https://open.spotify.com/track/0em61RfC2p6XAi9cBSEjE6) | [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8) | [Leapin' And Lopin'](https://open.spotify.com/album/2akec72Ypln9yScfhHo8rm) | 6:42 | 2022-10-27 |  |
 | [Desafinado](https://open.spotify.com/track/7oxwhQxkGegjlMf3k9sWgm) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Jazz 'Round Midnight](https://open.spotify.com/album/7LAyThhW5nCJbjSRbQX0U1) | 4:14 | 2022-10-27 |  |
 | [Diamonds And Pearls](https://open.spotify.com/track/3yArsNjOHHr7FF0pxDFhwo) | [Marcin Wasilewski Trio](https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL) | [January](https://open.spotify.com/album/0uZt1xe1sLvt4ZAOLHj3fY) | 5:45 | 2022-10-27 |  |
@@ -798,7 +799,7 @@
 | [When I Fell for You](https://open.spotify.com/track/5o7zflAK8LxDYuqpSDmwhM) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [When I Fell for You](https://open.spotify.com/album/6v6O5lQqx8E3PqENPC7hAk) | 5:22 | 2022-10-27 |  |
 | [When It Rains](https://open.spotify.com/track/7eYF1tAcKBvhJU4W9K0Uca) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Largo](https://open.spotify.com/album/7i4wN3UGvFhr663Hpjgscx) | 6:36 | 2024-07-17 | 2025-08-16 |
 | [When It's Sleepytime Down South](https://open.spotify.com/track/0ZO3xca4fN38Be1un20nc9) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Standard Time Vol\. 2: Intimacy Calling](https://open.spotify.com/album/4cmRWv6XOmC9sRryBkeU8U) | 5:09 | 2022-10-27 | 2023-06-06 |
-| [When It's Sleepytime Down South](https://open.spotify.com/track/7JrgVgkA0n4AnAPvC2y6wV) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Standards & Ballads](https://open.spotify.com/album/3tqWiJf0QKpxX2IItsAl24) | 5:09 | 2024-07-17 |  |
+| [When It's Sleepytime Down South](https://open.spotify.com/track/7JrgVgkA0n4AnAPvC2y6wV) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Standards & Ballads](https://open.spotify.com/album/3tqWiJf0QKpxX2IItsAl24) | 5:09 | 2024-07-17 | 2025-11-17 |
 | [When Sunny Gets Blue](https://open.spotify.com/track/1J9iVCaEriyoMXpj2XszhU) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Today And Tomorrow](https://open.spotify.com/album/6MinQE3GG7Xb9GWrOoAWEz) | 4:42 | 2022-10-27 |  |
 | [When Your Lover Has Gone](https://open.spotify.com/track/7m4OEcDjdVPVKRhXmnQko5) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Ben Webster Meets Oscar Peterson](https://open.spotify.com/album/52vxvueV32JO6tZHaSojRZ) | 3:56 | 2024-02-21 | 2024-04-13 |
 | [When Your Lover Has Gone \- Instrumental](https://open.spotify.com/track/2OqRnfC8QqRdcUfVGtidcr) | [Art Farmer](https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u) | [2 Trumpets](https://open.spotify.com/album/4xMWuvN8wdA7k4NPfzo0EN) | 5:10 | 2023-12-20 |  |

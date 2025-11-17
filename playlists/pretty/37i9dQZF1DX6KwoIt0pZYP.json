@@ -1,6 +1,6 @@
 {
   "description": "soft, chewy & good for the soul. uwu",
-  "num_followers": 255265,
+  "num_followers": 255295,
   "original_name": "tapioca",
   "owner": {
     "name": "Spotify",
@@ -715,6 +715,22 @@
     {
       "added_at": "2025-10-10 06:07:16",
       "album": {
+        "name": "Walking Back Home",
+        "url": "https://open.spotify.com/album/103U1ni9LPA8TkD4Q7U1q3"
+      },
+      "artists": [
+        {
+          "name": "Vira Talisa",
+          "url": "https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv"
+        }
+      ],
+      "duration_ms": 132762,
+      "name": "Walking Back Home",
+      "url": "https://open.spotify.com/track/43A8VtuqZuJHn8CCtnSL2l"
+    },
+    {
+      "added_at": "2025-10-10 06:07:16",
+      "album": {
         "name": "Ikigai (feat. Loonie)",
         "url": "https://open.spotify.com/album/4XkhhI9dq3Dr2IJGpiXpBf"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 245729,
       "name": "Ikigai (feat. Loonie)",
       "url": "https://open.spotify.com/track/521fDEPuyS2szREJ9NkMDs"
-    },
-    {
-      "added_at": "2025-10-10 06:07:16",
-      "album": {
-        "name": "Walking Back Home",
-        "url": "https://open.spotify.com/album/103U1ni9LPA8TkD4Q7U1q3"
-      },
-      "artists": [
-        {
-          "name": "Vira Talisa",
-          "url": "https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv"
-        }
-      ],
-      "duration_ms": 132762,
-      "name": "Walking Back Home",
-      "url": "https://open.spotify.com/track/43A8VtuqZuJHn8CCtnSL2l"
     },
     {
       "added_at": "2025-10-10 06:07:16",

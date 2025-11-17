@@ -1,6 +1,6 @@
 {
   "description": "Verdi was the undisputed king of Italian opera in the 19th century. Explore his greatest works, including Rigoletto and La Traviata, right here.",
-  "num_followers": 86176,
+  "num_followers": 86192,
   "original_name": "This Is Verdi",
   "owner": {
     "name": "Spotify",
@@ -791,6 +791,34 @@
     {
       "added_at": "2025-09-15 14:00:14",
       "album": {
+        "name": "Romantic Arias",
+        "url": "https://open.spotify.com/album/4qA4Q7Fs4oj8mfBZBYR386"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Jonas Kaufmann",
+          "url": "https://open.spotify.com/artist/2OHnFY58Dg8c2SC2PtootB"
+        },
+        {
+          "name": "Prague Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0Rz5lkGCgaSSycEKtyIbLs"
+        },
+        {
+          "name": "Marco Armiliato",
+          "url": "https://open.spotify.com/artist/36WnZcQTHWowOoT1kS3LxV"
+        }
+      ],
+      "duration_ms": 327133,
+      "name": "Rigoletto / Act 2: \"Ella mi fu rapita... Parmi veder le lagrime\"",
+      "url": "https://open.spotify.com/track/2nr6wfqIBQG5XDM6vEawAd"
+    },
+    {
+      "added_at": "2025-09-15 14:00:14",
+      "album": {
         "name": "Celeste Aida - The Verdi Album",
         "url": "https://open.spotify.com/album/3imbRbkVQlzLMYYuUjkQan"
       },
@@ -831,34 +859,6 @@
       "duration_ms": 275626,
       "name": "Aida / Act 4: \"O terra, addio; addio valle di pianti\"",
       "url": "https://open.spotify.com/track/7cZzmx8BXqoCfuif0E3brY"
-    },
-    {
-      "added_at": "2025-09-15 14:00:14",
-      "album": {
-        "name": "Romantic Arias",
-        "url": "https://open.spotify.com/album/4qA4Q7Fs4oj8mfBZBYR386"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Jonas Kaufmann",
-          "url": "https://open.spotify.com/artist/2OHnFY58Dg8c2SC2PtootB"
-        },
-        {
-          "name": "Prague Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/0Rz5lkGCgaSSycEKtyIbLs"
-        },
-        {
-          "name": "Marco Armiliato",
-          "url": "https://open.spotify.com/artist/36WnZcQTHWowOoT1kS3LxV"
-        }
-      ],
-      "duration_ms": 327133,
-      "name": "Rigoletto / Act 2: \"Ella mi fu rapita... Parmi veder le lagrime\"",
-      "url": "https://open.spotify.com/track/2nr6wfqIBQG5XDM6vEawAd"
     },
     {
       "added_at": "2025-09-15 14:00:14",
@@ -1295,30 +1295,6 @@
     {
       "added_at": "2025-09-15 14:00:14",
       "album": {
-        "name": "Verdi: La forza del destino",
-        "url": "https://open.spotify.com/album/7dOAuusf4Bvmj33E7BL3z1"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Riccardo Muti",
-          "url": "https://open.spotify.com/artist/7silW8RiEOoLBgAg5JBCL1"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        }
-      ],
-      "duration_ms": 431133,
-      "name": "Verdi: La forza del destino: Overture",
-      "url": "https://open.spotify.com/track/3K5TAZ192q52fTDQjz52av"
-    },
-    {
-      "added_at": "2025-09-15 14:00:14",
-      "album": {
         "name": "Verdi: Messa da Requiem",
         "url": "https://open.spotify.com/album/1Svvhsb1rnRmPMxo1h0jY6"
       },
@@ -1355,6 +1331,30 @@
       "duration_ms": 143133,
       "name": "Verdi: Messa da Requiem: XIX. Dies ir\u00e6",
       "url": "https://open.spotify.com/track/71EdUh8dE27ufo78UKB5Ti"
+    },
+    {
+      "added_at": "2025-09-15 14:00:14",
+      "album": {
+        "name": "Verdi: La forza del destino",
+        "url": "https://open.spotify.com/album/7dOAuusf4Bvmj33E7BL3z1"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Riccardo Muti",
+          "url": "https://open.spotify.com/artist/7silW8RiEOoLBgAg5JBCL1"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        }
+      ],
+      "duration_ms": 431133,
+      "name": "Verdi: La forza del destino: Overture",
+      "url": "https://open.spotify.com/track/3K5TAZ192q52fTDQjz52av"
     },
     {
       "added_at": "2025-09-15 14:00:14",

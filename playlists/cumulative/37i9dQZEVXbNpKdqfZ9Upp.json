@@ -2141,6 +2141,36 @@
     },
     {
       "album": {
+        "name": "ACELERAA\u00c1",
+        "url": "https://open.spotify.com/album/2TKn4GY7C2jZ7DtPJo0noi"
+      },
+      "artists": [
+        {
+          "name": "Lucho RK",
+          "url": "https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ"
+        },
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        },
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "Juacko",
+          "url": "https://open.spotify.com/artist/0LLnP7NEsEQ1pSCfsuYURr"
+        }
+      ],
+      "date_added": "2025-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268224,
+      "name": "ACELERAA\u00c1",
+      "url": "https://open.spotify.com/track/2BEJp2meUuyLN8TxU3bZQn"
+    },
+    {
+      "album": {
         "name": "Aces",
         "url": "https://open.spotify.com/album/7e0f5k0iqJVH5OdUEP9vOf"
       },
@@ -26275,6 +26305,24 @@
     },
     {
       "album": {
+        "name": "her",
+        "url": "https://open.spotify.com/album/6cUhnbhBBTFNb6z2w7llGx"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "date_added": "2025-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171757,
+      "name": "her",
+      "url": "https://open.spotify.com/track/6G9YlbU3ByPJQvOFDRdwyM"
+    },
+    {
+      "album": {
         "name": "Here With Me",
         "url": "https://open.spotify.com/album/6VGoENqiseiYwmPUQW2oVl"
       },
@@ -30750,7 +30798,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-17",
       "duration_ms": 205714,
       "name": "La Ciudad del Sol",
       "url": "https://open.spotify.com/track/6xiQzVWczksJRBVbMDkV6A"
@@ -35420,7 +35468,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-17",
       "duration_ms": 271341,
       "name": "mal comunicada",
       "url": "https://open.spotify.com/track/3q4UXDFDa6is0TDHhZJ70e"
@@ -42022,7 +42070,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-17",
       "duration_ms": 222545,
       "name": "No digas nada",
       "url": "https://open.spotify.com/track/4wtWL0UV8tCPv9VbUMLXYP"
@@ -69000,7 +69048,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-15",
+      "date_removed": null,
       "duration_ms": 114736,
       "name": "Ya Tengo Candidata",
       "url": "https://open.spotify.com/track/033nsWcjR9OcMNMDsxJVLc"

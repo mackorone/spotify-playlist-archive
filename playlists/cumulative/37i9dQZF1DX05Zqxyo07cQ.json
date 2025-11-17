@@ -9225,6 +9225,24 @@
     },
     {
       "album": {
+        "name": "Neiel",
+        "url": "https://open.spotify.com/album/6zxATBSRTBCcZSJ6Olyzwa"
+      },
+      "artists": [
+        {
+          "name": "Stilly Night",
+          "url": "https://open.spotify.com/artist/6QIztxy4eQlPJxZGq0YS0z"
+        }
+      ],
+      "date_added": "2025-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140571,
+      "name": "Neiel",
+      "url": "https://open.spotify.com/track/2tfhr5e8EC9dkfPDA6CuYS"
+    },
+    {
+      "album": {
         "name": "Neith",
         "url": "https://open.spotify.com/album/34DdXfiK2sDtF3g5mis03P"
       },
@@ -10626,7 +10644,7 @@
       ],
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-17",
       "duration_ms": 171118,
       "name": "Prismatic",
       "url": "https://open.spotify.com/track/4CzH17y6ZqsfL44KIcBPQY"

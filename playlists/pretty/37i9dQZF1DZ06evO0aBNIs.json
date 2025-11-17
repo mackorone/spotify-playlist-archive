@@ -1,12 +1,12 @@
 {
   "description": "This is Avril Lavigne. The essential tracks, all in one playlist.",
-  "num_followers": 746892,
+  "num_followers": 746933,
   "original_name": "This Is Avril Lavigne",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRZxAAAAAADu3xiEUDGN/og05NluYo4A",
+  "snapshot_id": "aRfCgAAAAADm+L6dxabpGvBw5/r6d1uz",
   "tracks": [
     {
       "added_at": null,
@@ -459,6 +459,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Forever (Legendary Edition)",
+        "url": "https://open.spotify.com/album/2eWMDbh3Igz3si1aX4a7Wv"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        },
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 196916,
+      "name": "Living in Paradise (with Avril Lavigne)",
+      "url": "https://open.spotify.com/track/798hR8Q0YSE2J7RnhVCZdj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Avril Lavigne (Expanded Edition)",
         "url": "https://open.spotify.com/album/7qjA5gbagHWVbqKUgVt49l"
       },
@@ -539,22 +559,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forever (Legendary Edition)",
-        "url": "https://open.spotify.com/album/2eWMDbh3Igz3si1aX4a7Wv"
+        "name": "Nobody's Home",
+        "url": "https://open.spotify.com/album/3lcqYhgY599FdXetGtNElV"
       },
       "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        },
         {
           "name": "Avril Lavigne",
           "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
         }
       ],
-      "duration_ms": 196916,
-      "name": "Living in Paradise (with Avril Lavigne)",
-      "url": "https://open.spotify.com/track/798hR8Q0YSE2J7RnhVCZdj"
+      "duration_ms": 170533,
+      "name": "Knockin' on Heaven's Door - Studio Version",
+      "url": "https://open.spotify.com/track/6xF5RkVUNl7YkNapPCk2Ds"
     },
     {
       "added_at": null,
@@ -575,18 +591,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nobody's Home",
-        "url": "https://open.spotify.com/album/3lcqYhgY599FdXetGtNElV"
+        "name": "Bulletproof (feat. Avril Lavigne)",
+        "url": "https://open.spotify.com/album/1tEc7o0AbTqnl3RA873yHK"
       },
       "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        },
         {
           "name": "Avril Lavigne",
           "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
         }
       ],
-      "duration_ms": 170533,
-      "name": "Knockin' on Heaven's Door - Studio Version",
-      "url": "https://open.spotify.com/track/6xF5RkVUNl7YkNapPCk2Ds"
+      "duration_ms": 183919,
+      "name": "Bulletproof (feat. Avril Lavigne)",
+      "url": "https://open.spotify.com/track/3Hns0fETEXY84fGjboAbT7"
     },
     {
       "added_at": null,
@@ -607,26 +627,6 @@
       "duration_ms": 267973,
       "name": "Let Me Go (feat. Chad Kroeger)",
       "url": "https://open.spotify.com/track/2o0V0AATmWmCmMOAFWDuEV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bulletproof (feat. Avril Lavigne)",
-        "url": "https://open.spotify.com/album/1tEc7o0AbTqnl3RA873yHK"
-      },
-      "artists": [
-        {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
-        },
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 183919,
-      "name": "Bulletproof (feat. Avril Lavigne)",
-      "url": "https://open.spotify.com/track/3Hns0fETEXY84fGjboAbT7"
     },
     {
       "added_at": null,
@@ -663,26 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Avril Lavigne (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7qjA5gbagHWVbqKUgVt49l"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        },
-        {
-          "name": "Marilyn Manson",
-          "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
-        }
-      ],
-      "duration_ms": 174906,
-      "name": "Bad Girl (feat. Marilyn Manson)",
-      "url": "https://open.spotify.com/track/1HiV8vDg7l9eKp6abjvA7P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love Sux",
         "url": "https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 145103,
       "name": "Love It When You Hate Me (feat. blackbear)",
       "url": "https://open.spotify.com/track/6m0Dk7Cm7rWQLzCjeYIiIt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Avril Lavigne (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7qjA5gbagHWVbqKUgVt49l"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        },
+        {
+          "name": "Marilyn Manson",
+          "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
+        }
+      ],
+      "duration_ms": 174906,
+      "name": "Bad Girl (feat. Marilyn Manson)",
+      "url": "https://open.spotify.com/track/1HiV8vDg7l9eKp6abjvA7P"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Avril Lavigne (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7qjA5gbagHWVbqKUgVt49l"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 225266,
-      "name": "Give You What You Like",
-      "url": "https://open.spotify.com/track/3lRSfCNYx9XvJdCL2JcdVa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Best Damn Thing (Expanded Edition)",
         "url": "https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 189200,
       "name": "The Best Damn Thing",
       "url": "https://open.spotify.com/track/7lmX3dD2Xy13Jo1oCTR4ot"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Avril Lavigne (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7qjA5gbagHWVbqKUgVt49l"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 225266,
+      "name": "Give You What You Like",
+      "url": "https://open.spotify.com/track/3lRSfCNYx9XvJdCL2JcdVa"
     },
     {
       "added_at": null,
@@ -819,22 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Sux",
-        "url": "https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 168803,
-      "name": "Love Sux",
-      "url": "https://open.spotify.com/track/0ML3PJ6f9lgj1B4FQo4kZB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ambitions",
         "url": "https://open.spotify.com/album/6R01MdFYUhoIjxqdq6NV8b"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 218992,
       "name": "Listen (featuring Avril Lavigne)",
       "url": "https://open.spotify.com/track/0GT5m0eIa0OATOECdQtcsk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Sux",
+        "url": "https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 168803,
+      "name": "Love Sux",
+      "url": "https://open.spotify.com/track/0ML3PJ6f9lgj1B4FQo4kZB"
     },
     {
       "added_at": null,

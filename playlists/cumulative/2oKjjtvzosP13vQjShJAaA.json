@@ -121,6 +121,24 @@
     },
     {
       "album": {
+        "name": "Anton Saefkow Park",
+        "url": "https://open.spotify.com/album/74ZVicIKHrt5aPI48T8Fw0"
+      },
+      "artists": [
+        {
+          "name": "Tua",
+          "url": "https://open.spotify.com/artist/1GXnXJCevXK2b7qDAwdU5u"
+        }
+      ],
+      "date_added": "2025-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191749,
+      "name": "Anton Saefkow Park",
+      "url": "https://open.spotify.com/track/1I596sYIkByUU3gONbzA9Y"
+    },
+    {
+      "album": {
         "name": "Artist Dinner mit dem Crazy Frog",
         "url": "https://open.spotify.com/album/2M7NDvRAEJqlxmQ7guVMuL"
       },

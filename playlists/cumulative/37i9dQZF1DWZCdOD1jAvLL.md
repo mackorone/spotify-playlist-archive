@@ -4,7 +4,7 @@
 
 > Ride the bassline\. Cover: TyriqueOrDie
 
-907 songs - 2 day 1 hr 6 min
+908 songs - 2 day 1 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -496,6 +496,7 @@
 | [Madonna](https://open.spotify.com/track/2bf7wxuRxN2tkNoPH7z1an) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [LOVRA](https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5) | [Madonna](https://open.spotify.com/album/1AoOfbqM1tovUJjWL6kArz) | 2:25 | 2022-03-18 | 2022-04-02 |
 | [Majestic \(Ride or Die\)](https://open.spotify.com/track/19zxhHtJMYoCuR5dmFJ1WN) | [Croatia Squad](https://open.spotify.com/artist/3FAUGHLioXySQ1QTnCOWQC) | [Majestic \(Ride or Die\)](https://open.spotify.com/album/1YaY6qMiUUdNY5198aTGet) | 3:08 | 2022-10-14 | 2023-03-11 |
 | [Make Believe](https://open.spotify.com/track/6runSRlHCq8b1QWuzQY3zj) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc) | [Make Believe](https://open.spotify.com/album/4jvgXjygIbhKSysm8EsZ9o) | 3:45 | 2025-08-29 |  |
+| [Make It Work](https://open.spotify.com/track/0KPlbfJ7e8Beufds7pILpH) | [bradeazy](https://open.spotify.com/artist/1dESZUZevzhd5dzq9ZsMLI), [TyriqueOrDie](https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE) | [Make It Work](https://open.spotify.com/album/7iFai9pwfc6Wwj5HYVzPNd) | 2:51 | 2025-11-14 |  |
 | [Make Me Feel](https://open.spotify.com/track/7xz0zWS9RGucopvS2i1GZC) | [DJ Hanzel](https://open.spotify.com/artist/6nxYdBHCGZ8bBM7sGhqxSC), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [Make Me Feel](https://open.spotify.com/album/1rmBeofIajOiaaB7DCVe70) | 3:32 | 2022-09-23 | 2023-01-21 |
 | [Make Me Feel](https://open.spotify.com/track/2i6FWcstV4Ct72L4ORnfwZ) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Cheyenne Giles](https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj) | [Make Me Feel](https://open.spotify.com/album/6VGs1p7hG1sRLmToA3Dw9d) | 2:34 | 2023-01-13 | 2023-10-14 |
 | [Make U SWEAT!](https://open.spotify.com/track/5uh8m2Lna0Gfk8YGqYVb6d) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [Make U SWEAT!](https://open.spotify.com/album/0kHRNlcXwAsSJTlUYOtmg3) | 3:54 | 2023-01-13 | 2023-10-14 |
@@ -712,7 +713,7 @@
 | [Set You Free](https://open.spotify.com/track/4MyPLcBTpqfXZJKcUhMXOg) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Laura White](https://open.spotify.com/artist/4eWvHAcWh3Hq6DYJ9K3mD4) | [Set You Free](https://open.spotify.com/album/1cQwMGOrpiXTdeot0bdplB) | 2:49 | 2022-01-28 | 2022-04-29 |
 | [Sete](https://open.spotify.com/track/5B4gUqNKYgU38ULSWP5Bzj) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Sete](https://open.spotify.com/album/2dUSIzfLEgYB3QJB2Vt8j3) | 3:29 | 2022-03-25 | 2022-04-16 |
 | [Seven Wonders](https://open.spotify.com/track/4mjW3MW0gMHcyUKxYWYUQ0) | [Sydney Blu](https://open.spotify.com/artist/2Js5903erwUWbAijR6A8rb) | [Seven Wonders](https://open.spotify.com/album/0CJgNs1mX0oKIqfXDBir6L) | 5:55 | 2022-04-01 | 2022-06-25 |
-| [Sex In The Mosh](https://open.spotify.com/track/2jjtWrKi0LW8nnFqbRJr8p) | [TyriqueOrDie](https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE) | [Sex In The Mosh](https://open.spotify.com/album/0TMRJHdvd1GBEcKeMoadew) | 2:14 | 2025-08-29 |  |
+| [Sex In The Mosh](https://open.spotify.com/track/2jjtWrKi0LW8nnFqbRJr8p) | [TyriqueOrDie](https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE) | [Sex In The Mosh](https://open.spotify.com/album/0TMRJHdvd1GBEcKeMoadew) | 2:14 | 2025-08-29 | 2025-11-17 |
 | [SH SH SH \(Hit That\) \(feat\. Wiz Khalifa, Urfavxboyfriend & Goldsoul\)](https://open.spotify.com/track/3ZlE2T9tLjbciy2BYpi7u3) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Urfavxboyfriend](https://open.spotify.com/artist/7tnamWpipgTKkLQEFiOKb5), [Goldsoul](https://open.spotify.com/artist/2QlOPebAv6cRo3Lj53fKYk) | [SH SH SH \(Hit That\) \(feat\. Wiz Khalifa, Urfavxboyfriend & Goldsoul\)](https://open.spotify.com/album/1xHwoTd8QTaQyWKlMTdZ6J) | 2:13 | 2023-02-10 | 2023-09-09 |
 | [Shadows](https://open.spotify.com/track/3j3PX04rM6SI8oNOl1T3n3) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz), [Iván Reich](https://open.spotify.com/artist/4uBitmqyeR0fcbpoTyEbSg), [Jonathan.](https://open.spotify.com/artist/3Jjd0Ch3cIFTWo5A2ZIq9M) | [Slaughterhouse](https://open.spotify.com/album/6gQBI7Qvjk7Xs5SLvc6Dcf) | 4:44 | 2022-01-14 | 2022-03-05 |
 | [Shady Intentions \(feat\. Tori Levett\) \- VIP](https://open.spotify.com/track/0H7ohNCf0NzJQdtm0045RR) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Tori Levett](https://open.spotify.com/artist/0VXSswAMDSlObSftPEkPqL) | [Shady Intentions \(feat\. Tori Levett\) \[VIP\]](https://open.spotify.com/album/5JmKOq0STayo8YdKHLIs7B) | 3:02 | 2023-03-19 | 2024-02-14 |

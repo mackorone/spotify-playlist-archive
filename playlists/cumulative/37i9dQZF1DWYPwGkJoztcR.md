@@ -4,7 +4,7 @@
 
 > Koffie met gemoedelijke muziek op de achtergrond.
 
-138 songs - 7 hr 57 min
+139 songs - 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Basement beds](https://open.spotify.com/track/0wonMnl5a1ufy8UKTfAyid) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Basement beds](https://open.spotify.com/album/0FmNalyo8dk0LX7BU4XhX7) | 4:21 | 2025-06-27 | 2025-10-26 |
 | [Be My Own](https://open.spotify.com/track/1K0DoOa7iEgUcXdBPXC5lw) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [Be My Own](https://open.spotify.com/album/6SKu22UR1q7puVJoUYwl70) | 3:39 | 2025-08-06 |  |
 | [Beginners](https://open.spotify.com/track/5AsLsFWZPWDC5KSv49nEhd) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Beginners](https://open.spotify.com/album/5gG3tn5rwn5MRVVIRq8wNN) | 3:36 | 2025-06-27 |  |
-| [Bend](https://open.spotify.com/track/5ndA2BSNuy54Ga49nEkECX) | [Noa Lee](https://open.spotify.com/artist/4YGchyGbwAekTbhOxczQqM) | [Bend](https://open.spotify.com/album/24Lcq3Gfs5zUkovQWsmTAT) | 3:56 | 2025-10-31 | 2025-11-15 |
+| [Bend](https://open.spotify.com/track/5ndA2BSNuy54Ga49nEkECX) | [Noa Lee](https://open.spotify.com/artist/4YGchyGbwAekTbhOxczQqM) | [Bend](https://open.spotify.com/album/24Lcq3Gfs5zUkovQWsmTAT) | 3:56 | 2025-10-31 |  |
 | [Bring Me My Horse](https://open.spotify.com/track/1GovyMSQrOWzL4CySOtr7f) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [It Is What It Is](https://open.spotify.com/album/5M84TQMlBTgqPZej6KCvVd) | 4:22 | 2025-06-27 | 2025-11-12 |
 | [Brotherhood](https://open.spotify.com/track/2ETvqF6fCwAcGjI7OEZlRh) | [Isaac Roux](https://open.spotify.com/artist/7tPhoEe9VD1m37VqUiC6hA) | [Brotherhood](https://open.spotify.com/album/7haF1TCzyvqeqsb89lMlAT) | 3:56 | 2025-09-03 |  |
 | [By the Way](https://open.spotify.com/track/2LZMbbBHOjbBy7z6Jexx8i) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [By the Way](https://open.spotify.com/album/2Ca40BzWrHKfwIXtNycg2u) | 2:40 | 2025-09-03 |  |
@@ -35,7 +35,7 @@
 | [Cruel Heart](https://open.spotify.com/track/4D7tOyEvUdzNvkDXuD0PQW) | [Novastar](https://open.spotify.com/artist/3r2qdoM2Ryp8aBb3S3qIG1) | [In The Cold Light of Monday](https://open.spotify.com/album/4dcllgpFwPz84zxxv0sC4i) | 2:51 | 2025-06-27 | 2025-09-04 |
 | [Cruisin’](https://open.spotify.com/track/1L7PYfV7Axk4PHqvzIctWJ) | [TOINE](https://open.spotify.com/artist/1UKhHMifOzxgAaoQvJW7no) | [Cruisin’](https://open.spotify.com/album/4ZnUyydglrmKxqYJCwLmkI) | 3:24 | 2025-06-27 |  |
 | [Daydreaming](https://open.spotify.com/track/1bBXBskc6n3uJywJUdcWEC) | [Werner Bekker](https://open.spotify.com/artist/1mbI2Vrn5ZIHEH1PzTrA4K) | [In my cluttered head](https://open.spotify.com/album/1AchE697lDOBQB0LuUTjDC) | 3:23 | 2025-06-27 |  |
-| [Daylight](https://open.spotify.com/track/3sVVxX78LIK5bXUfmAF7F1) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Watercress](https://open.spotify.com/album/16Bp2wOfOAbK7uKZY42IkW) | 3:15 | 2025-11-11 |  |
+| [Daylight](https://open.spotify.com/track/3sVVxX78LIK5bXUfmAF7F1) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Watercress](https://open.spotify.com/album/16Bp2wOfOAbK7uKZY42IkW) | 3:15 | 2025-11-11 | 2025-11-17 |
 | [Do You Want To Be Honest?](https://open.spotify.com/track/2jbacqyhvUFTEQN0M6y63p) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Do You Want To Be Honest?](https://open.spotify.com/album/4mO3V9u8oISHSL33i3AivQ) | 3:32 | 2025-06-27 |  |
 | [Don't Break My Heart](https://open.spotify.com/track/4bMWXpyJEGsYqmr757E7BK) | [Nona](https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb) | [Don't Break My Heart](https://open.spotify.com/album/6aCN1U0UVnVHBGtoMBsvjN) | 2:54 | 2025-10-02 |  |
 | [Don't Leave Me Now](https://open.spotify.com/track/6WmFcu5t23LYIw6jotpn5Z) | [Lucas Hamming](https://open.spotify.com/artist/4iDpNIlF0YzksZ35iQf196) | [Don't Leave Me Now](https://open.spotify.com/album/3242iTcpKXzQe4zFTp2AMz) | 3:52 | 2025-09-25 |  |
@@ -87,7 +87,7 @@
 | [Moondog](https://open.spotify.com/track/4lX7whuTp5UdGfoSiFb5sU) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Revelation](https://open.spotify.com/album/0db5o1FtmNXhIfxi3gXs51) | 5:05 | 2025-06-27 |  |
 | [Morning Dawns Again](https://open.spotify.com/track/7mWqW5NWE6ijQ2MSXKEwVZ) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Morning Dawns Again](https://open.spotify.com/album/4yQlOGtEMAj1aetMqrowWx) | 3:58 | 2025-09-10 |  |
 | [Never Fall In Love Again](https://open.spotify.com/track/3pJRl0wFfczrK4lr1au7QA) | [Lucas Hamming](https://open.spotify.com/artist/4iDpNIlF0YzksZ35iQf196) | [Never Fall In Love Again](https://open.spotify.com/album/2XGXw8RTtA2vqFZgPmgH1o) | 2:48 | 2025-06-27 |  |
-| [Nice To Meet You](https://open.spotify.com/track/7dmiORZteCCZMj9yWRtdsb) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [Nice To Meet You](https://open.spotify.com/album/0rNN9txzPOXExZAtE8XFth) | 3:07 | 2025-06-27 |  |
+| [Nice To Meet You](https://open.spotify.com/track/7dmiORZteCCZMj9yWRtdsb) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [Nice To Meet You](https://open.spotify.com/album/0rNN9txzPOXExZAtE8XFth) | 3:07 | 2025-06-27 | 2025-11-17 |
 | [Nickel For Goodbye](https://open.spotify.com/track/0mozpacigd082TTRqi5IZc) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [Nickel For Goodbye](https://open.spotify.com/album/4xROG3RcoNOVF8A7IycHEI) | 3:51 | 2025-06-27 | 2025-09-04 |
 | [Northern Star](https://open.spotify.com/track/4cfVHLsWpN7dwbLRLsSoSn) | [Nambyar](https://open.spotify.com/artist/2OVh8vBXmBS9Sc5w6G5Ko9) | [Northern Star](https://open.spotify.com/album/5R4PL73ePjYo53hfmicqFP) | 3:12 | 2025-10-17 |  |
 | [Not The One](https://open.spotify.com/track/74Zu26EVqhfSN5QpTWtvr4) | [BLUAI](https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF) | [Save It For Later](https://open.spotify.com/album/1JCSyDDYF8k1dAxbchvxbl) | 3:28 | 2025-09-03 |  |
@@ -136,6 +136,7 @@
 | [To Love Somebody](https://open.spotify.com/track/6j8FjzwlWpr1SlDnN5IDzj) | [Tim Dawn](https://open.spotify.com/artist/55VC7UDCmceodks4rbHgHe) | [To Love Somebody](https://open.spotify.com/album/5AvAQALNYpsHoHK98JE6j9) | 2:40 | 2025-06-27 |  |
 | [Uncharted \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/2cOwUzjqyk9S4PsAW7BycC) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [Spotify Singles](https://open.spotify.com/album/5YcB3oSnzUImqETGH3jqeq) | 3:57 | 2025-06-27 |  |
 | [Waiting in the Wings](https://open.spotify.com/track/0lnkIwIK15rPeQDNIYF1bV) | [Bertolf](https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty) | [Happy in Hindsight](https://open.spotify.com/album/4mbTJzPO8Y5RwlOLGiZLQs) | 4:14 | 2025-06-27 |  |
+| [Walls](https://open.spotify.com/track/23maC3cddA5XAxmeVVxpr3) | [MELL VF](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Walls](https://open.spotify.com/album/6SRWhcfH94UmcQrvXRuFWS) | 3:06 | 2025-11-11 |  |
 | [We Could Start a Thing](https://open.spotify.com/track/0EK4qiXLTDv0dq1tIJhUHh) | [Twan Ray](https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr) | [We Could Start a Thing](https://open.spotify.com/album/55oBheqmFGiAYmFFY0Byyg) | 2:24 | 2025-06-27 | 2025-10-03 |
 | [Weathervane](https://open.spotify.com/track/0vxNNwfm6zj8ISkCi6INFR) | [Hunter Metts](https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14) | [Weathervane](https://open.spotify.com/album/1ldMfY7Pe1ap39wvPtpo25) | 3:44 | 2025-06-27 | 2025-09-04 |
 | [What I Really Want To Do](https://open.spotify.com/track/3n9HKcjIQBEQNKE8ZikDvr) | [Janne Schra](https://open.spotify.com/artist/7IGk0iXhaPjqvQF4Zi2R2K) | [What I Really Want To Do](https://open.spotify.com/album/7gBrgmkeXYJ7nZXoaIlLeG) | 3:12 | 2025-06-27 | 2025-09-04 |

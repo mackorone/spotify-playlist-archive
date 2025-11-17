@@ -1,12 +1,12 @@
 {
   "description": "This is Aitana. The essential tracks, all in one playlist.",
-  "num_followers": 229003,
+  "num_followers": 229046,
   "original_name": "This Is Aitana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRZxAAAAAADgejz/ILahwRd8UcZs8lxw",
+  "snapshot_id": "aRfCgAAAAAByLiIRTF2kZkzeuzFnyDgL",
   "tracks": [
     {
       "added_at": null,
@@ -390,15 +390,11 @@
         {
           "name": "Aitana",
           "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        },
-        {
-          "name": "Ela Taubert",
-          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
         }
       ],
-      "duration_ms": 141503,
-      "name": "\u00bfPARA QU\u00c9 VOLVER?",
-      "url": "https://open.spotify.com/track/6JmbsVrw0u2Q4Qf4XLnD93"
+      "duration_ms": 191368,
+      "name": "SEGUNDO INTENTO",
+      "url": "https://open.spotify.com/track/473FchgGiaKD5CsL7SOhJJ"
     },
     {
       "added_at": null,
@@ -439,6 +435,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "4TO 23",
+        "url": "https://open.spotify.com/album/7HQRMSvgVrlVCxM4k0XdXg"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 168320,
+      "name": "4TO 23",
+      "url": "https://open.spotify.com/track/6zB8TVWUZpQ2UWRxFT1BrI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CUARTO AZUL",
+        "url": "https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        },
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        }
+      ],
+      "duration_ms": 141503,
+      "name": "\u00bfPARA QU\u00c9 VOLVER?",
+      "url": "https://open.spotify.com/track/6JmbsVrw0u2Q4Qf4XLnD93"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Aunque No Sea Conmigo",
         "url": "https://open.spotify.com/album/1nv68APHpQMhYtlqln442M"
       },
@@ -455,38 +487,6 @@
       "duration_ms": 179648,
       "name": "Aunque No Sea Conmigo",
       "url": "https://open.spotify.com/track/6GfqNqXkAofNOakU77MWEb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CUARTO AZUL",
-        "url": "https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 191368,
-      "name": "SEGUNDO INTENTO",
-      "url": "https://open.spotify.com/track/473FchgGiaKD5CsL7SOhJJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "4TO 23",
-        "url": "https://open.spotify.com/album/7HQRMSvgVrlVCxM4k0XdXg"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 168320,
-      "name": "4TO 23",
-      "url": "https://open.spotify.com/track/6zB8TVWUZpQ2UWRxFT1BrI"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Photo by David Wolff via Getty Images
 
-574 songs - 1 day 23 hr 36 min
+575 songs - 1 day 23 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Adagio I \- Mut](https://open.spotify.com/track/6qgzqQRF5KVmzsd9PsFZmP) | [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C) | [Nothing Lasts Forever](https://open.spotify.com/album/1G4cROLKOADQHqhNeCzGqC) | 4:46 | 2022-02-11 | 2024-08-29 |
 | [Affiliate](https://open.spotify.com/track/3ibSQOkXDoVtr5o5izWwC9) | [Tangent](https://open.spotify.com/artist/1Ad0cOIi5d9YkVsRMLWegv), [Dryft](https://open.spotify.com/artist/15XyOjcwHR1BLzZDpcja9f) | [Acquiesce](https://open.spotify.com/album/7brmSCmB5orSsJgGJULcqx) | 4:08 | 2021-12-26 | 2023-04-30 |
 | [Afrodisia](https://open.spotify.com/track/6xD2aDniPCEYLB3zi5GE3i) | [Samuele CYMA](https://open.spotify.com/artist/1RXsSSM8C7wdG5FSxDTMFM) | [Afrodisia](https://open.spotify.com/album/0Bcq3HvI1e6pCiXj3RRlUT) | 9:00 | 2025-04-18 | 2025-11-15 |
-| [After the Rain](https://open.spotify.com/track/7o20ATLEOEw9xpAN1dx9Rn) | [Cole Pulice](https://open.spotify.com/artist/7JUWlvLs6PzPMLryj6sdCh) | [After the Rain](https://open.spotify.com/album/5wPmRnCE9RttrYzug8zFyp) | 9:00 | 2025-04-11 |  |
+| [After the Rain](https://open.spotify.com/track/7o20ATLEOEw9xpAN1dx9Rn) | [Cole Pulice](https://open.spotify.com/artist/7JUWlvLs6PzPMLryj6sdCh) | [After the Rain](https://open.spotify.com/album/5wPmRnCE9RttrYzug8zFyp) | 9:00 | 2025-04-11 | 2025-11-17 |
 | [Afterglow](https://open.spotify.com/track/1tvrdTMUPrL5QAAUu2mBpL) | [Tim Angrave](https://open.spotify.com/artist/6y9JXfBjqfOAql3YYLaNJm) | [Afterglow](https://open.spotify.com/album/0Bp2qglhyUtYpSwCII3ayZ) | 5:52 | 2022-03-25 | 2024-07-05 |
 | [Agalma V](https://open.spotify.com/track/6pwsr8MsXAGYWHeJirQyRW) | [Drew McDowall](https://open.spotify.com/artist/3jAdN6k0KlW1X48AUizxn4), [Kali Malone](https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9) | [Agalma](https://open.spotify.com/album/2y82aUBnl81FdYBLqpA1C6) | 7:30 | 2022-08-19 | 2023-08-12 |
 | [Agalma V \(ft\. Kali Malone\)](https://open.spotify.com/track/6NwJpEnFkWdCYst3iBYCcn) | [Drew McDowall](https://open.spotify.com/artist/3jAdN6k0KlW1X48AUizxn4), [Kali Malone](https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9) | [Agalma V \(ft\. Kali Malone\)](https://open.spotify.com/album/0mbSK7lbwq2Rgfv352bAQv) | 7:30 | 2021-12-26 | 2022-07-24 |
@@ -447,6 +447,7 @@
 | [Silicon Jungle \- Sofie Birch Remix](https://open.spotify.com/track/3zpbuCezsYzGBtaNI2whRN) | [Para One](https://open.spotify.com/artist/5MRONaryo2z75lLiuJ0NWJ), [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Silicon Jungle \(Sofie Birch Remix\)](https://open.spotify.com/album/0G7LEsMsmaZX2f9w8u4hrP) | 5:21 | 2021-12-26 | 2023-08-12 |
 | [Silver Ladders](https://open.spotify.com/track/0cWCoT7I1XOmpXAYG0C6QE) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Silver Ladders](https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy) | 3:45 | 2025-01-09 |  |
 | [Simferopol](https://open.spotify.com/track/10NtTpFDhKyNvZYPtjcrZt) | [Andrew Pekler](https://open.spotify.com/artist/4nDIRB3WZRZ40uSmZG0q6J), [Giuseppe Ielasi](https://open.spotify.com/artist/7JqFxlbv8o0djCv6o1LWLL) | [Palimpsests](https://open.spotify.com/album/3zh7gaR5TzIP4qE4QcI4uv) | 2:54 | 2021-12-26 | 2023-08-12 |
+| [Simulacra](https://open.spotify.com/track/32cH3wrfQ4UpZ4p3dB0sxK) | [Slow Riffs](https://open.spotify.com/artist/1OM9xXTByZgCV0qUFQGnXF) | [Simulacra](https://open.spotify.com/album/2z6KIB5IonfBS56FdsHveh) | 4:48 | 2025-11-14 |  |
 | [Simulacrum II \- Roly Porter Remix](https://open.spotify.com/track/0qfAe2NZhRf5y958UrK4HH) | [Aho Ssan](https://open.spotify.com/artist/6DP0aNDMupNmkyK4drCrvC), [Roly Porter](https://open.spotify.com/artist/4RN8pUdphaky5GRL8rUL6P) | [Simulacrum Remixed](https://open.spotify.com/album/4IkLBRzKXlH5Y90CZRYkuo) | 6:11 | 2021-12-26 | 2022-01-14 |
 | [Sine Waves](https://open.spotify.com/track/3iLbERuL98HVj4utkn7U04) | [Martin Roth](https://open.spotify.com/artist/4LoSbPey3kklzX5f2KEks1), [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Mono No Aware](https://open.spotify.com/album/70hyp5k7zuvuI52UZvWBKx) | 4:38 | 2022-09-20 | 2025-05-13 |
 | [Singularity](https://open.spotify.com/track/5H7MkToBZTfphmaYyCFNWS) | [Germind](https://open.spotify.com/artist/6Nqurhynev5eAUbHCaKzZh) | [My Space](https://open.spotify.com/album/4u1IvjuiRix1rN7ZoVxVzv) | 6:37 | 2022-01-23 | 2023-07-06 |

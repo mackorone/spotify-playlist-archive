@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to nov\-dec 2025
 
-803 songs - 1 day 23 hr 16 min
+804 songs - 1 day 23 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,6 +301,7 @@
 | [Home Is in Your Head](https://open.spotify.com/track/1RLbifxzeiRb4VazXCn0H8) | [His Name Is Alive](https://open.spotify.com/artist/4LMQqMZYbFJgvxBOzshZVL) | [Home Is in Your Head](https://open.spotify.com/album/7I0VFFotoizHk2FoNP3V9F) | 2:23 | 2024-07-29 | 2024-09-08 |
 | [Homme \(萌夢\)](https://open.spotify.com/track/7JV4O8Lh5zb62U4lyll4Ew) | [Oscilation Circuit](https://open.spotify.com/artist/3jvi65ZLtt5fPK1CqFYIW5) | [Oscilation Circuit \- Série Réflexion 1](https://open.spotify.com/album/0NdCm0U0cSvcGSNIZVJhwc) | 16:49 | 2024-12-02 | 2025-01-12 |
 | [Hope](https://open.spotify.com/track/1roduXdAiUduitAeMDKx7D) | [Juana Molina](https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3) | [EXHALO](https://open.spotify.com/album/62BuJJXQKkvbPi1gnpOQI5) | 3:49 | 2024-12-09 | 2025-01-12 |
+| [Horse County](https://open.spotify.com/track/70lW1sv0qx7SsTEOyXBFT9) | [YeYe](https://open.spotify.com/artist/2YUe21UG1hJsuhy9E3bzxp) | [Horse County](https://open.spotify.com/album/3B0xXGGFKGbLZzJ2yuJNNS) | 3:31 | 2025-11-16 |  |
 | [HOV](https://open.spotify.com/track/62ik7tuPPdoFrDMkpBC7yt) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Hole Erth](https://open.spotify.com/album/0rGj6027LrBwC5filFlrVe) | 3:48 | 2024-09-20 | 2024-11-14 |
 | [How](https://open.spotify.com/track/7iq5isJ5Y9ya3QTqPV4G6A) | [Nicholas Krgovich](https://open.spotify.com/artist/68QhSfYuqyiT1KPoHlCvSv) | [Ducks](https://open.spotify.com/album/7uwe7Gx9cmqQbOfAN8BeTz) | 1:57 | 2024-03-09 | 2024-05-16 |
 | [How Can I Apply ...?](https://open.spotify.com/track/0mtT4rLj2sTy14btyZvbP3) | [Trashcan Sinatras](https://open.spotify.com/artist/0i2IEcWvtHUBYPkYWwCgjC) | [A Happy Pocket](https://open.spotify.com/album/40e48hdvuvFySGcMm33ps9) | 2:52 | 2025-01-21 | 2025-03-02 |

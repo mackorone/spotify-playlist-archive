@@ -4,7 +4,7 @@
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-371 songs - 17 hr 34 min
+372 songs - 17 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Calming Retreat](https://open.spotify.com/track/3M0fqqYDCYA26xG1gXJK80) | [Miyklo](https://open.spotify.com/artist/2X3Invt8lYGm7czZvFUPCj) | [Calming Retreat](https://open.spotify.com/album/1bezCktHbFJdi3ytiuOmo7) | 2:40 | 2025-07-01 |  |
 | [Canola Morning](https://open.spotify.com/track/3NlKaBvnrdwMuYdsYgKAet) | [Volker Anderson](https://open.spotify.com/artist/77UwtMovkeXsignTuy1dB1) | [Canola Morning](https://open.spotify.com/album/5WfEKVlJo9uNtBTeBsFnFb) | 2:44 | 2023-01-24 | 2024-11-29 |
 | [Casuarina Calm](https://open.spotify.com/track/5syn43yn7MgCy4XMLgiAUl) | [Bliss Phenomena](https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr) | [Casuarina Calm](https://open.spotify.com/album/067IKmHN7ANBq6tum4tST9) | 2:55 | 2023-07-28 |  |
+| [Cave of Secrets](https://open.spotify.com/track/6pCSTOEL0CSQAy2a21wHNu) | [Light Garden](https://open.spotify.com/artist/1LvHtO44PddBf4DeQ7i9aF) | [Cave of Secrets](https://open.spotify.com/album/2Ki1z5SvTVDvSF8YvfVZgZ) | 2:49 | 2025-10-24 |  |
 | [Cedar Forest](https://open.spotify.com/track/16Aoy96Xo1Y1xnNW5Q0rnu) | [Alma Forest](https://open.spotify.com/artist/5n7QXdkmXfGAz6srNlrF8l) | [The Birds' Lullaby](https://open.spotify.com/album/3FM8vHSAiC47KQwL1HVHNe) | 2:24 | 2023-03-03 | 2025-02-11 |
 | [Celestial Rain](https://open.spotify.com/track/1IpcYkKpZAO6yJWgKsn2XN) | [Pure Purposes](https://open.spotify.com/artist/4kbLiTWkq9FIV3VHRS24EY) | [Celestial Rain](https://open.spotify.com/album/460QKUqdTezlgttDkMwMtT) | 2:48 | 2025-10-24 |  |
 | [Changing Colors](https://open.spotify.com/track/0uqcH5GIa9Qcvez3Y1Lcuf) | [Hiwet Tesmi](https://open.spotify.com/artist/7MIJsl2yQjdrjtVdNKd60T) | [Changing Colors](https://open.spotify.com/album/2FPYTlqy2N3I8wicQabdTf) | 3:00 | 2023-01-24 | 2024-04-02 |
@@ -289,7 +290,7 @@
 | [Restituere](https://open.spotify.com/track/7lavIExZm0TRGe8Cco9d4h) | [Takiyo](https://open.spotify.com/artist/0NZ4KsYEIFxpEP7Go3gvI1) | [Restituere](https://open.spotify.com/album/3xca1inY0KAcdo2SpqpydC) | 2:51 | 2024-04-01 |  |
 | [Restore](https://open.spotify.com/track/3k8YRCxJEjGNLQUpLMhm31) | [Onni](https://open.spotify.com/artist/7A0mACsqOhqMaeKYJfQkbx) | [Restore](https://open.spotify.com/album/17pKoNnfW6k4AdvpEgLtgk) | 3:14 | 2025-02-10 |  |
 | [Retrograde](https://open.spotify.com/track/545OJfzJ8JSXsp9maoiuIB) | [Abyssé](https://open.spotify.com/artist/4ZSC7QqnOxFeyGaAb2pKnQ) | [Retrograde](https://open.spotify.com/album/4tqFubjBcNsN4EL8EgaZE4) | 2:48 | 2024-03-01 |  |
-| [Reverie](https://open.spotify.com/track/1FqAtrmpCR97Eg0GJHufaV) | [Inner Purpose](https://open.spotify.com/artist/5Oy46V4li9PKCzp6bBxxd7) | [Reverie](https://open.spotify.com/album/4bu1PMgzPwk8mkmheIJe2v) | 3:03 | 2024-07-16 |  |
+| [Reverie](https://open.spotify.com/track/1FqAtrmpCR97Eg0GJHufaV) | [Inner Purpose](https://open.spotify.com/artist/5Oy46V4li9PKCzp6bBxxd7) | [Reverie](https://open.spotify.com/album/4bu1PMgzPwk8mkmheIJe2v) | 3:03 | 2024-07-16 | 2025-11-17 |
 | [Rhizome](https://open.spotify.com/track/351e6h8azojdBQ9IVoCZSj) | [Cierna Sobre Ti](https://open.spotify.com/artist/3B4uijr2TavmmonBtJgcW9) | [Rhizome](https://open.spotify.com/album/0NzS4TXtxjpOZOtGLLYyNt) | 2:08 | 2023-01-24 | 2024-07-17 |
 | [River Breath](https://open.spotify.com/track/1jbmHQILuPj4Tt9AkyMc55) | [Nature Pulse](https://open.spotify.com/artist/70vUxFU28oeZCt4GremOQ0) | [River Breath](https://open.spotify.com/album/0RItQrTpmdXnV34eOSVQWP) | 3:30 | 2024-12-12 |  |
 | [River Hymn](https://open.spotify.com/track/0G6qOjR6sbdx3f812Jf6m3) | [Melatonement](https://open.spotify.com/artist/1ZlMvBVYhelNe23PPk4mBN) | [River Hymn](https://open.spotify.com/album/1JeUE7z5MzGdlRVSeWcMLv) | 2:56 | 2024-03-05 | 2025-07-02 |

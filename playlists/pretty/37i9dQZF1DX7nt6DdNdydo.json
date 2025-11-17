@@ -1,6 +1,6 @@
 {
   "description": "Where swing meets blues.",
-  "num_followers": 61436,
+  "num_followers": 61451,
   "original_name": "Jump Blues",
   "owner": {
     "name": "Spotify",
@@ -339,6 +339,22 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
+        "name": "Aladdin '52-'59:Let The Good Times Roll",
+        "url": "https://open.spotify.com/album/5UOdBLbQBqGZlQoV1OJQTP"
+      },
+      "artists": [
+        {
+          "name": "Shirley & Lee",
+          "url": "https://open.spotify.com/artist/7kowgNVIlvDxx9Uhvcft5Y"
+        }
+      ],
+      "duration_ms": 119720,
+      "name": "The Flirt",
+      "url": "https://open.spotify.com/track/0367Y5NNAanCDqBTLEUEwU"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
         "name": "Nervous",
         "url": "https://open.spotify.com/album/0vNGXCP2gfCjlkYB0ktiri"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 371893,
       "name": "Is You Is Or Is You Ain't My Baby",
       "url": "https://open.spotify.com/track/0M0r27mFU32BoLGliqLMm8"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Aladdin '52-'59:Let The Good Times Roll",
-        "url": "https://open.spotify.com/album/5UOdBLbQBqGZlQoV1OJQTP"
-      },
-      "artists": [
-        {
-          "name": "Shirley & Lee",
-          "url": "https://open.spotify.com/artist/7kowgNVIlvDxx9Uhvcft5Y"
-        }
-      ],
-      "duration_ms": 119720,
-      "name": "The Flirt",
-      "url": "https://open.spotify.com/track/0367Y5NNAanCDqBTLEUEwU"
     },
     {
       "added_at": "2022-03-28 19:44:25",

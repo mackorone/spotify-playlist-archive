@@ -4,7 +4,7 @@
 
 > Pacific reggae, roots rockers\. Relax, you're on island time\. Cover: Myshaan
 
-257 songs - 15 hr 47 min
+258 songs - 15 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Beautiful Woman](https://open.spotify.com/track/1V9QhVxsxYG73V4At6Q0CB) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Heartbeat](https://open.spotify.com/album/1uGwZldzs5sxIrSHFH7SpD) | 3:19 | 2025-06-05 | 2025-09-10 |
 | [Best of My Love](https://open.spotify.com/track/3Ps9C8uby83DzBwqidIUuY) | [Tomorrow People](https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY) | [Best of My Love](https://open.spotify.com/album/3s7KFeCg5hewKwmWxh0JJE) | 3:54 | 2023-11-28 | 2025-09-10 |
 | [Betcha By Golly Wow](https://open.spotify.com/track/53SSPtxyWw6SmPvNvjH1KT) | [Tomorrow People](https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY) | [Betcha By Golly Wow](https://open.spotify.com/album/0QHVMNKlr24yCOGLTK9GF8) | 3:10 | 2024-03-21 | 2025-09-10 |
-| [Better Off On A Beach](https://open.spotify.com/track/4ZOoHIATFCuBrvQnsGbFbm) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA) | [Last Sip of Summer](https://open.spotify.com/album/0XiXSefXS6syX87Z6UQ5vo) | 3:06 | 2025-06-26 |  |
+| [Better Off On A Beach](https://open.spotify.com/track/4ZOoHIATFCuBrvQnsGbFbm) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA) | [Last Sip of Summer](https://open.spotify.com/album/0XiXSefXS6syX87Z6UQ5vo) | 3:06 | 2025-06-26 | 2025-11-17 |
 | [Blue Eyed Māori](https://open.spotify.com/track/47WVBSXAXqouYBu0Uvnv9W) | [Corrella](https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX) | [Road From 26](https://open.spotify.com/album/6QjWeTibBrfnv2PTdEKf8R) | 3:16 | 2023-11-28 | 2024-04-19 |
 | [Blue Eyed Māori](https://open.spotify.com/track/59Spoi9b71TW4ZGtaJhaoF) | [Corrella](https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX) | [Road From 26](https://open.spotify.com/album/3XO3ohQJ3C8L0RKY17CmoR) | 3:16 | 2024-03-21 | 2025-09-10 |
 | [BUB](https://open.spotify.com/track/2sdHPNi7pvGz3yAwzlscvz) | [BADASSMUTHA](https://open.spotify.com/artist/4sIOO1xmOIT9hqn0Jhw9bo) | [BUB](https://open.spotify.com/album/2YqyOB6sgDYN5CXMfQ4g0R) | 3:59 | 2025-05-22 | 2025-09-10 |
@@ -210,6 +210,7 @@
 | [SLOW DOWN](https://open.spotify.com/track/5nL0ef2YGMhGgG97LGkTj6) | [SUB\-TRIBE](https://open.spotify.com/artist/4NRBNfnAtQXxVxevBvlXe2) | [SLOW DOWN](https://open.spotify.com/album/16BvudaA1gjBFeVl7HxYvp) | 4:14 | 2024-01-17 | 2025-09-10 |
 | [Slow Ride](https://open.spotify.com/track/7utGEYOcNDczxmiNEf162K) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Slow Ride](https://open.spotify.com/album/3LK1Pf2stMGqONSkOUIZZX) | 3:52 | 2025-05-08 |  |
 | [Slow Up](https://open.spotify.com/track/6INwzydOIayqZGXtr732YW) | [Tomorrow People](https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY), [Josh Wawa](https://open.spotify.com/artist/1oMTlALW2sKMJfvcbahRUz) | [Slow Up](https://open.spotify.com/album/3nPzDSC3Jx9gmLblpzZtrx) | 3:39 | 2023-11-28 | 2025-09-10 |
+| [Slowly](https://open.spotify.com/track/7oaq2kZQXREqCN7flvblov) | [Ismuki](https://open.spotify.com/artist/72C1ypMUqI4dVpwUf601RG), [Chris Young](https://open.spotify.com/artist/24nf3HFgkV1Qer9ZqIPfUB), [Stegga Bwoy](https://open.spotify.com/artist/7Izwcum9BvJfbkQR8CdUPs) | [Slowly](https://open.spotify.com/album/48cDtcnsnRFuhnc7XjSsoI) | 4:24 | 2025-09-09 |  |
 | [So True](https://open.spotify.com/track/5gAHSJPdHqz2MHc5WsfXnD) | [The Black Seeds](https://open.spotify.com/artist/0Q35wRRhdsU8EbsJ1eouCY) | [On the Sun](https://open.spotify.com/album/6bB9QEMR57Ce6HBAADpvQv) | 3:54 | 2025-09-09 |  |
 | [So True / Koia Ko Koe](https://open.spotify.com/track/7wBWcOC52UDk3OEejLKHAJ) | [The Black Seeds](https://open.spotify.com/artist/0Q35wRRhdsU8EbsJ1eouCY) | [So True / Koia Ko Koe](https://open.spotify.com/album/6NoNRr7Wh8J7WBEdRdhclH) | 3:52 | 2023-11-28 | 2025-09-10 |
 | [Souljah Feeling \(with Chad Chambers\)](https://open.spotify.com/track/2Plq6KG55s843PdMT1Yurn) | [Tomorrow People](https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY), [Chad Chambers](https://open.spotify.com/artist/3afbPu5x8f61qABONqINA3) | [One](https://open.spotify.com/album/77Qc0TCXokpAnt751M6ii5) | 3:24 | 2025-09-09 |  |

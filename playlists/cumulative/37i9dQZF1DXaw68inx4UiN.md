@@ -4,7 +4,7 @@
 
 > Recordings from the tropical rainforest
 
-121 songs - 7 hr 2 min
+122 songs - 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Frogs and Rain near the River](https://open.spotify.com/track/6e5HVs8ctp5QxGShtMlEMY) | [Nicolas Gutierrez G.](https://open.spotify.com/artist/5blyFWCmmsbLdxQVRARv6x) | [Frogs and Rain near the River](https://open.spotify.com/album/7DDVhkJ1acgUJlMFXPz73p) | 2:20 | 2023-06-20 |  |
 | [Fugue of the Forest](https://open.spotify.com/track/0Do11qV3N7Wo1ZPoGjkE27) | [Sound Of The Woods](https://open.spotify.com/artist/3fRd8qPNSLClRFaxvFFLPL) | [Peaceful Nature Melodies](https://open.spotify.com/album/0TFmJQQqxdHlLcGz5MNnZE) | 3:32 | 2023-06-20 |  |
 | [Garasia Rain Forest](https://open.spotify.com/track/0I42DRVbtMJr0bLEO6ZQB6) | [Literrain](https://open.spotify.com/artist/4rwOqhIQpWyk3Tx4GbiqMw) | [Garasia Rain Forest](https://open.spotify.com/album/05T1og9UcFJdSUzZcobUfz) | 2:07 | 2021-11-12 |  |
+| [Gentle Rainforest](https://open.spotify.com/track/43jrfv5hZem5HTlxYiWaan) | [Nature's Essence](https://open.spotify.com/artist/0JklQwIpSXSIxaSP1IbT8j) | [Gentle Rainforest](https://open.spotify.com/album/6hBWOWpY7PLvcXscEIt1kM) | 2:41 | 2025-11-11 |  |
 | [Healing Rain](https://open.spotify.com/track/3MeV1PeFOCjgwXOnADJtE5) | [R\. Guru](https://open.spotify.com/artist/1J6XFH9yaFImOmbaAWAx48) | [Healing Rain](https://open.spotify.com/album/3q6h5lns25xvocifvgsXv8) | 3:28 | 2022-01-06 |  |
 | [Howler Monkeys and Bird Songs in the Tropical Wet Forest](https://open.spotify.com/track/4RGPG1DbWsUS6uBNxUkTnv) | [Nicoguga](https://open.spotify.com/artist/7h3EBgqROmytU7UE4UwFoS) | [Howler Monkeys and Bird Songs in the Tropical Wet Forest](https://open.spotify.com/album/6VvWeQKdLlo7BiLQXBsp8k) | 2:35 | 2024-12-03 |  |
 | [In The Wild](https://open.spotify.com/track/402u8vEl017GWUpTxYwbxT) | [Zebric](https://open.spotify.com/artist/1I4n7zzunfZwuEo8bPB7VZ) | [In The Wild](https://open.spotify.com/album/6VjivM6ZIYQcZbVQ3hjtsP) | 2:04 | 2022-07-04 |  |
@@ -107,7 +108,7 @@
 | [Sounds of Congo](https://open.spotify.com/track/55IAZKoY31CjxxGCgCMmo8) | [Wildazon](https://open.spotify.com/artist/3MDGo9gMugtZGrB0oyQ69G) | [Sounds of Congo](https://open.spotify.com/album/0Ul7eYB4hKLvKzODqRe8k0) | 3:28 | 2022-02-23 |  |
 | [Sounds of Rainforests](https://open.spotify.com/track/7e6pLy8XAUPvPCAJBrJvTh) | [Rainforest Sounds](https://open.spotify.com/artist/4WQqqTMX3CdIZQgfzctQmy) | [Sounds of Rainforests](https://open.spotify.com/album/2eJJu5XufieNWuvONkP6rg) | 1:02 | 2021-12-22 | 2023-06-21 |
 | [South American Jungle Ambience](https://open.spotify.com/track/62UzU328BY9sOluH2yTMQR) | [Nature Soundscape](https://open.spotify.com/artist/0GbSsMHnNTZ28ALJmQecCW) | [Rain Forest](https://open.spotify.com/album/50UYLBtzy02dHkzssaFzNW) | 9:50 | 2021-11-12 | 2024-03-27 |
-| [The Music of the Forest](https://open.spotify.com/track/2EhEZWBADwQNIyAt4k3qme) | [The Sleep Specialist](https://open.spotify.com/artist/3TWBaLqcB1lbb3LhLwAayN) | [Secret Life of Trees](https://open.spotify.com/album/7uaPwBS26PUvqhhZIlwrrH) | 2:16 | 2023-06-20 |  |
+| [The Music of the Forest](https://open.spotify.com/track/2EhEZWBADwQNIyAt4k3qme) | [The Sleep Specialist](https://open.spotify.com/artist/3TWBaLqcB1lbb3LhLwAayN) | [Secret Life of Trees](https://open.spotify.com/album/7uaPwBS26PUvqhhZIlwrrH) | 2:16 | 2023-06-20 | 2025-11-17 |
 | [The Rainforest](https://open.spotify.com/track/6hktqFLE1dKP1kIGmEaIVr) | [Olof Dahlström Recordings](https://open.spotify.com/artist/6nwprrB1xrohGrilsErewM) | [Back To The Origin](https://open.spotify.com/album/1BzdZrarFzZvVQ6e4Zee2Z) | 2:23 | 2021-11-12 |  |
 | [The Sound Of The Jungle With Coloured Birds For Relaxation, Sleeping, Studying](https://open.spotify.com/track/61SiFnjiY36uVSTBVXK5Yw) | [Life Sounds Nature](https://open.spotify.com/artist/0SGJ24mW8PvCH3O8GeXSFg) | [The Very Best Sound Of Nature \- Birds, Waves, Rain \(With Forest, Creek, Wind, Thunder\)](https://open.spotify.com/album/5qukUq6sBLjghcEcFOdgKP) | 1:33 | 2021-11-12 | 2023-06-21 |
 | [Thunderous Amazon](https://open.spotify.com/track/4Xy4EQyJWS01SEERqnfrkn) | [Ambiworld](https://open.spotify.com/artist/5iZR4UKrhE03RTdCSJo6eG) | [Thunderous Relaxation](https://open.spotify.com/album/57AK2pZaIKBJaWR6SAfGMu) | 3:09 | 2024-03-26 |  |

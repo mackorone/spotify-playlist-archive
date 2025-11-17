@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Summer Walker, Musa Keys, Zara Larsson, TOSS and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,768 likes - 73 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,827 likes - 73 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

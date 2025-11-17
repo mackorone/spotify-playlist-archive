@@ -1,12 +1,12 @@
 {
   "description": "This is Coi Leray. The essential tracks, all in one playlist.",
-  "num_followers": 18826,
+  "num_followers": 18823,
   "original_name": "This Is Coi Leray",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRZxAAAAAACLximcX3DATCDclgH7eNOn",
+  "snapshot_id": "aRfCgAAAAAAFyssIpWKOJYAs1yrWENVK",
   "tracks": [
     {
       "added_at": null,
@@ -211,30 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pink Money (feat. G Herbo)",
-        "url": "https://open.spotify.com/album/24mo9s4QMG2lWNVbANYdaC"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        },
-        {
-          "name": "Bktherula",
-          "url": "https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 164586,
-      "name": "Pink Money (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/6B1EaN6xYGvAVaWZXVxQoW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
         "url": "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs"
       },
@@ -259,6 +235,30 @@
       "duration_ms": 178720,
       "name": "Save The Day (feat. Coi Leray & LouGotCash)",
       "url": "https://open.spotify.com/track/0vkzRCT7wzqWCFJw5TN1MQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pink Money (feat. G Herbo)",
+        "url": "https://open.spotify.com/album/24mo9s4QMG2lWNVbANYdaC"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "Bktherula",
+          "url": "https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 164586,
+      "name": "Pink Money (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/6B1EaN6xYGvAVaWZXVxQoW"
     },
     {
       "added_at": null,
@@ -343,26 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Never Gets Late Here",
-        "url": "https://open.spotify.com/album/2wkK1n9m6c7OutXRgtvVsz"
-      },
-      "artists": [
-        {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 164256,
-      "name": "Flava (feat. Coi Leray)",
-      "url": "https://open.spotify.com/track/3VDpWtgUilVuM2WICHgr9n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "COI",
         "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
       },
@@ -399,6 +379,26 @@
       "duration_ms": 190355,
       "name": "Tomboy (feat. Coi Leray)",
       "url": "https://open.spotify.com/track/2iRSvggpclrZU49PH3tqtg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Never Gets Late Here",
+        "url": "https://open.spotify.com/album/2wkK1n9m6c7OutXRgtvVsz"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 164256,
+      "name": "Flava (feat. Coi Leray)",
+      "url": "https://open.spotify.com/track/3VDpWtgUilVuM2WICHgr9n"
     },
     {
       "added_at": null,
@@ -715,6 +715,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lick Back (feat. Skrilla) [Remix]",
+        "url": "https://open.spotify.com/album/4Gi58kfGwjjXIOURUQ6SVo"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "Skrilla",
+          "url": "https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U"
+        }
+      ],
+      "duration_ms": 133670,
+      "name": "Lick Back (feat. Skrilla) - Remix",
+      "url": "https://open.spotify.com/track/4KcQw2rMOQO06sZ6Bkic8j"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bops",
         "url": "https://open.spotify.com/album/2wVIh2YkTMZgjQf64sbPFM"
       },
@@ -963,26 +983,6 @@
       "duration_ms": 135733,
       "name": "The One (Sprite Limelight)",
       "url": "https://open.spotify.com/track/22Xi8off2rIqT1kwTZXKPW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lick Back (feat. Skrilla) [Remix]",
-        "url": "https://open.spotify.com/album/4Gi58kfGwjjXIOURUQ6SVo"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        },
-        {
-          "name": "Skrilla",
-          "url": "https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U"
-        }
-      ],
-      "duration_ms": 133670,
-      "name": "Lick Back (feat. Skrilla) - Remix",
-      "url": "https://open.spotify.com/track/4KcQw2rMOQO06sZ6Bkic8j"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Rock para cantar en todos lados! Joaquina en portada.",
-  "num_followers": 37054,
+  "num_followers": 37064,
   "original_name": "Pop Rock Latino",
   "owner": {
     "name": "Spotify",
@@ -571,22 +571,6 @@
     {
       "added_at": "2025-10-17 06:00:28",
       "album": {
-        "name": "La Puerta",
-        "url": "https://open.spotify.com/album/3uW3dr9cYAvk6fouQY0EzH"
-      },
-      "artists": [
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
-        }
-      ],
-      "duration_ms": 183109,
-      "name": "La Puerta",
-      "url": "https://open.spotify.com/track/5JM0MaVqz9I38pRzbo9U6l"
-    },
-    {
-      "added_at": "2025-10-17 06:00:28",
-      "album": {
         "name": "NO ME IMPORTA",
         "url": "https://open.spotify.com/album/0BviN7vBSyv8nlVF8gJAMc"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 153815,
       "name": "NO ME IMPORTA",
       "url": "https://open.spotify.com/track/7gTIqYWwORtQhWcCVakfnD"
+    },
+    {
+      "added_at": "2025-10-17 06:00:28",
+      "album": {
+        "name": "La Puerta",
+        "url": "https://open.spotify.com/album/3uW3dr9cYAvk6fouQY0EzH"
+      },
+      "artists": [
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "duration_ms": 183109,
+      "name": "La Puerta",
+      "url": "https://open.spotify.com/track/5JM0MaVqz9I38pRzbo9U6l"
     },
     {
       "added_at": "2025-10-17 06:00:28",
@@ -883,26 +883,6 @@
     {
       "added_at": "2025-10-17 06:00:28",
       "album": {
-        "name": "M\u00e1s Cerquita",
-        "url": "https://open.spotify.com/album/6K0PvWj8QYiMDQIGnDZ0Rk"
-      },
-      "artists": [
-        {
-          "name": "Miel De Montagne",
-          "url": "https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf"
-        },
-        {
-          "name": "Girl Ultra",
-          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
-        }
-      ],
-      "duration_ms": 179142,
-      "name": "M\u00e1s Cerquita",
-      "url": "https://open.spotify.com/track/4uBWOQCmYrXzkUvAPNrzob"
-    },
-    {
-      "added_at": "2025-10-17 06:00:28",
-      "album": {
         "name": "El M\u00e9ndigo D\u00eda Del Padre",
         "url": "https://open.spotify.com/album/5h5eVaiuXPxfUfxgFOPuE9"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 266066,
       "name": "El M\u00e9ndigo D\u00eda Del Padre",
       "url": "https://open.spotify.com/track/6KwKCsC05vg2RbhF5rVmc3"
+    },
+    {
+      "added_at": "2025-10-17 06:00:28",
+      "album": {
+        "name": "M\u00e1s Cerquita",
+        "url": "https://open.spotify.com/album/6K0PvWj8QYiMDQIGnDZ0Rk"
+      },
+      "artists": [
+        {
+          "name": "Miel De Montagne",
+          "url": "https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf"
+        },
+        {
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+        }
+      ],
+      "duration_ms": 179142,
+      "name": "M\u00e1s Cerquita",
+      "url": "https://open.spotify.com/track/4uBWOQCmYrXzkUvAPNrzob"
     },
     {
       "added_at": "2025-10-17 06:00:28",
@@ -979,6 +979,22 @@
     {
       "added_at": "2025-10-17 06:00:28",
       "album": {
+        "name": "Campeones del Mundo / Rayo de Luz",
+        "url": "https://open.spotify.com/album/2KWmh6cY1fCU4WNZtaIJvF"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Madero",
+          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
+        }
+      ],
+      "duration_ms": 341600,
+      "name": "Rayo de Luz",
+      "url": "https://open.spotify.com/track/5f6NAUO04clfZMGEHh1ohC"
+    },
+    {
+      "added_at": "2025-10-17 06:00:28",
+      "album": {
         "name": "Miel",
         "url": "https://open.spotify.com/album/62w772P9uxu5l8OmVWpj6Q"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 217135,
       "name": "Miel",
       "url": "https://open.spotify.com/track/6QUXKT69EsdxOKVzz3z8E9"
-    },
-    {
-      "added_at": "2025-10-17 06:00:28",
-      "album": {
-        "name": "Campeones del Mundo / Rayo de Luz",
-        "url": "https://open.spotify.com/album/2KWmh6cY1fCU4WNZtaIJvF"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Madero",
-          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
-        }
-      ],
-      "duration_ms": 341600,
-      "name": "Rayo de Luz",
-      "url": "https://open.spotify.com/track/5f6NAUO04clfZMGEHh1ohC"
     },
     {
       "added_at": "2025-10-17 06:00:28",
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2025-10-17 06:00:28",
       "album": {
-        "name": "Hablar de Flores",
-        "url": "https://open.spotify.com/album/1QaPbNvQv3yEVQ3S1V70P7"
-      },
-      "artists": [
-        {
-          "name": "Los Caligaris",
-          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
-        },
-        {
-          "name": "Coti",
-          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
-        }
-      ],
-      "duration_ms": 189551,
-      "name": "Hablar de Flores",
-      "url": "https://open.spotify.com/track/5Kl2aRgbzHQGpzMgCmpWAS"
-    },
-    {
-      "added_at": "2025-10-17 06:00:28",
-      "album": {
         "name": "Quiero saber si es amor (feat. Joy)",
         "url": "https://open.spotify.com/album/33hSdcOl6uiBMEtmRvAVGx"
       },
@@ -1107,6 +1087,26 @@
       "duration_ms": 267238,
       "name": "Quiero saber si es amor (feat. Joy)",
       "url": "https://open.spotify.com/track/7eCEgiZZkQXtLtfZWaOBOv"
+    },
+    {
+      "added_at": "2025-10-17 06:00:28",
+      "album": {
+        "name": "Hablar de Flores",
+        "url": "https://open.spotify.com/album/1QaPbNvQv3yEVQ3S1V70P7"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        },
+        {
+          "name": "Coti",
+          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
+        }
+      ],
+      "duration_ms": 189551,
+      "name": "Hablar de Flores",
+      "url": "https://open.spotify.com/track/5Kl2aRgbzHQGpzMgCmpWAS"
     },
     {
       "added_at": "2025-10-17 06:00:28",
@@ -1315,26 +1315,18 @@
     {
       "added_at": "2025-10-17 06:00:28",
       "album": {
-        "name": "El para\u00edso #2",
-        "url": "https://open.spotify.com/album/64GURwXiHXbcjdCIxk6Bpu"
+        "name": "Te Desenamoraste",
+        "url": "https://open.spotify.com/album/7LKSwnfdobqRHjOtUHMn1D"
       },
       "artists": [
         {
-          "name": "Mikel Izal",
-          "url": "https://open.spotify.com/artist/4H3BAAfpEcLHQkaQKfvoW8"
-        },
-        {
-          "name": "Mar\u00eda de Juan",
-          "url": "https://open.spotify.com/artist/3JOaesg3hFdm9PjUAlAevb"
-        },
-        {
-          "name": "Liam Garner",
-          "url": "https://open.spotify.com/artist/01Ct72ERdVHRVlFDdl3cAF"
+          "name": "Drake Bell",
+          "url": "https://open.spotify.com/artist/03ilIKH0i08IxmjKcn63ne"
         }
       ],
-      "duration_ms": 174629,
-      "name": "El para\u00edso #2",
-      "url": "https://open.spotify.com/track/0Sk0gQDXrdlrCFk8xFYOrx"
+      "duration_ms": 162712,
+      "name": "Te Desenamoraste",
+      "url": "https://open.spotify.com/track/5A20iH28ulrJ8U3WfCmsJM"
     },
     {
       "added_at": "2025-10-17 06:00:28",

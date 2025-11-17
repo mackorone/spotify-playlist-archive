@@ -1,6 +1,6 @@
 {
   "description": "Appreciate the many miracles around you with these songs of worship.",
-  "num_followers": 234114,
+  "num_followers": 234148,
   "original_name": "Miracles",
   "owner": {
     "name": "Spotify",
@@ -111,6 +111,30 @@
     {
       "added_at": "2025-09-14 09:26:33",
       "album": {
+        "name": "Old Church Basement",
+        "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+        }
+      ],
+      "duration_ms": 405513,
+      "name": "Million Little Miracles (feat. Joe L Barnes)",
+      "url": "https://open.spotify.com/track/2AX4m5yewzlDmzODLJ8Lcz"
+    },
+    {
+      "added_at": "2025-09-14 09:26:33",
+      "album": {
         "name": "Kingdom Come (Live)",
         "url": "https://open.spotify.com/album/00k6ygAQhIav9FwyGX8oqJ"
       },
@@ -123,22 +147,6 @@
       "duration_ms": 413725,
       "name": "Lean Back (Live)",
       "url": "https://open.spotify.com/track/76AQAwj7BbMVIMRnHKkLuz"
-    },
-    {
-      "added_at": "2025-09-14 09:26:33",
-      "album": {
-        "name": "I Am Loved",
-        "url": "https://open.spotify.com/album/4pHDnWMt0uMGANMTr2yHem"
-      },
-      "artists": [
-        {
-          "name": "Mack Brock",
-          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
-        }
-      ],
-      "duration_ms": 432640,
-      "name": "I Am Loved",
-      "url": "https://open.spotify.com/track/3eWfz0o9bJZ3t9GCPjLtQD"
     },
     {
       "added_at": "2025-09-14 09:26:33",
@@ -163,26 +171,18 @@
     {
       "added_at": "2025-09-14 09:26:33",
       "album": {
-        "name": "Old Church Basement",
-        "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
+        "name": "I Am Loved",
+        "url": "https://open.spotify.com/album/4pHDnWMt0uMGANMTr2yHem"
       },
       "artists": [
         {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Joe L Barnes",
-          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+          "name": "Mack Brock",
+          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
         }
       ],
-      "duration_ms": 405513,
-      "name": "Million Little Miracles (feat. Joe L Barnes)",
-      "url": "https://open.spotify.com/track/2AX4m5yewzlDmzODLJ8Lcz"
+      "duration_ms": 432640,
+      "name": "I Am Loved",
+      "url": "https://open.spotify.com/track/3eWfz0o9bJZ3t9GCPjLtQD"
     },
     {
       "added_at": "2025-09-14 09:26:33",
@@ -239,22 +239,6 @@
     {
       "added_at": "2025-09-14 09:26:33",
       "album": {
-        "name": "For This Purpose (Live)",
-        "url": "https://open.spotify.com/album/2ci3jBSOWzTEsrQ6bnX9if"
-      },
-      "artists": [
-        {
-          "name": "SEU Worship",
-          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
-        }
-      ],
-      "duration_ms": 379093,
-      "name": "Altar (Live)",
-      "url": "https://open.spotify.com/track/38heLtyRuyWilWcGxFl8Sw"
-    },
-    {
-      "added_at": "2025-09-14 09:26:33",
-      "album": {
         "name": "Let It Echo (Live)",
         "url": "https://open.spotify.com/album/6UUG6SxdjbHC8ALwmKS1HO"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 518679,
       "name": "Miracles - Live",
       "url": "https://open.spotify.com/track/3sS3krMEoOsTSAPNtsTobt"
+    },
+    {
+      "added_at": "2025-09-14 09:26:33",
+      "album": {
+        "name": "For This Purpose (Live)",
+        "url": "https://open.spotify.com/album/2ci3jBSOWzTEsrQ6bnX9if"
+      },
+      "artists": [
+        {
+          "name": "SEU Worship",
+          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
+        }
+      ],
+      "duration_ms": 379093,
+      "name": "Altar (Live)",
+      "url": "https://open.spotify.com/track/38heLtyRuyWilWcGxFl8Sw"
     },
     {
       "added_at": "2025-09-14 09:26:33",
@@ -303,22 +303,6 @@
     {
       "added_at": "2025-09-14 09:26:33",
       "album": {
-        "name": "On My Side",
-        "url": "https://open.spotify.com/album/5CAfJkZS88sq08EZC62k5W"
-      },
-      "artists": [
-        {
-          "name": "Kim Walker-Smith",
-          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
-        }
-      ],
-      "duration_ms": 284946,
-      "name": "Throne Room",
-      "url": "https://open.spotify.com/track/02X93AUKXP7FPJBPckqgGu"
-    },
-    {
-      "added_at": "2025-09-14 09:26:33",
-      "album": {
         "name": "Another One (feat. Chris Brown)",
         "url": "https://open.spotify.com/album/3NfyzXp4dCBmfkc8PVECRE"
       },
@@ -339,18 +323,18 @@
     {
       "added_at": "2025-09-14 09:26:33",
       "album": {
-        "name": "Heaven Is Where You Are",
-        "url": "https://open.spotify.com/album/2HwC7uEfppbjefeQByqkhl"
+        "name": "On My Side",
+        "url": "https://open.spotify.com/album/5CAfJkZS88sq08EZC62k5W"
       },
       "artists": [
         {
-          "name": "Erik Nieder",
-          "url": "https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh"
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
         }
       ],
-      "duration_ms": 198835,
-      "name": "Heaven Is Where You Are",
-      "url": "https://open.spotify.com/track/4OtfBQ2sHDdcag87TN1bb7"
+      "duration_ms": 284946,
+      "name": "Throne Room",
+      "url": "https://open.spotify.com/track/02X93AUKXP7FPJBPckqgGu"
     },
     {
       "added_at": "2025-09-14 09:26:33",
@@ -379,6 +363,22 @@
     {
       "added_at": "2025-09-14 09:26:33",
       "album": {
+        "name": "Heaven Is Where You Are",
+        "url": "https://open.spotify.com/album/2HwC7uEfppbjefeQByqkhl"
+      },
+      "artists": [
+        {
+          "name": "Erik Nieder",
+          "url": "https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh"
+        }
+      ],
+      "duration_ms": 198835,
+      "name": "Heaven Is Where You Are",
+      "url": "https://open.spotify.com/track/4OtfBQ2sHDdcag87TN1bb7"
+    },
+    {
+      "added_at": "2025-09-14 09:26:33",
+      "album": {
         "name": "Worship Through It",
         "url": "https://open.spotify.com/album/20n1fFSb2Wrqs6pjwqKZEg"
       },
@@ -395,26 +395,6 @@
       "duration_ms": 220133,
       "name": "Worship Through It",
       "url": "https://open.spotify.com/track/0WE0lN2uFCg4ojyO2ryq9I"
-    },
-    {
-      "added_at": "2025-09-14 09:26:33",
-      "album": {
-        "name": "Fearless / Fill Up The Sky (Live)",
-        "url": "https://open.spotify.com/album/0FJOaqUeh18LeJMqFx9k1A"
-      },
-      "artists": [
-        {
-          "name": "Jesus Culture",
-          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
-        },
-        {
-          "name": "Kim Walker-Smith",
-          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
-        }
-      ],
-      "duration_ms": 280519,
-      "name": "Fearless - Live",
-      "url": "https://open.spotify.com/track/5rp9r3rFr45bPTsgi18tQB"
     },
     {
       "added_at": "2025-09-14 09:26:33",
@@ -455,22 +435,22 @@
     {
       "added_at": "2025-09-14 09:26:33",
       "album": {
-        "name": "Simple Gospel (Live)",
-        "url": "https://open.spotify.com/album/3gQerhWK0nFDxmqRZww8Qp"
+        "name": "Fearless / Fill Up The Sky (Live)",
+        "url": "https://open.spotify.com/album/0FJOaqUeh18LeJMqFx9k1A"
       },
       "artists": [
         {
-          "name": "United Pursuit",
-          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
         },
         {
-          "name": "Will Reagan",
-          "url": "https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP"
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
         }
       ],
-      "duration_ms": 394186,
-      "name": "Hidden (Live) [feat. Will Reagan]",
-      "url": "https://open.spotify.com/track/3ChZ1DsvihNTayyK6BbfEC"
+      "duration_ms": 280519,
+      "name": "Fearless - Live",
+      "url": "https://open.spotify.com/track/5rp9r3rFr45bPTsgi18tQB"
     },
     {
       "added_at": "2025-09-14 09:26:33",
@@ -495,6 +475,26 @@
       "duration_ms": 354223,
       "name": "What A Miracle (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/1GkgOYQ797fsxJ3BvrBOBH"
+    },
+    {
+      "added_at": "2025-09-14 09:26:33",
+      "album": {
+        "name": "Simple Gospel (Live)",
+        "url": "https://open.spotify.com/album/3gQerhWK0nFDxmqRZww8Qp"
+      },
+      "artists": [
+        {
+          "name": "United Pursuit",
+          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
+        },
+        {
+          "name": "Will Reagan",
+          "url": "https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP"
+        }
+      ],
+      "duration_ms": 394186,
+      "name": "Hidden (Live) [feat. Will Reagan]",
+      "url": "https://open.spotify.com/track/3ChZ1DsvihNTayyK6BbfEC"
     },
     {
       "added_at": "2025-09-14 09:26:33",
@@ -695,22 +695,6 @@
     {
       "added_at": "2025-09-14 09:26:33",
       "album": {
-        "name": "The Things We Did at First",
-        "url": "https://open.spotify.com/album/3VS7ZrBjKzBWB7rYca7ALh"
-      },
-      "artists": [
-        {
-          "name": "Sean Feucht",
-          "url": "https://open.spotify.com/artist/3DJuBJtjHdjAXlpIZCltTR"
-        }
-      ],
-      "duration_ms": 238478,
-      "name": "When My Heart Became Aware",
-      "url": "https://open.spotify.com/track/0KitfgfQREza7nK9gkPouX"
-    },
-    {
-      "added_at": "2025-09-14 09:26:33",
-      "album": {
         "name": "Forever Amen",
         "url": "https://open.spotify.com/album/4INKppNLM2RZwGmggvpMvY"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 265400,
       "name": "Christ The Lord Is with Me (with Amanda Cook & Wonder Grace Gretzinger)",
       "url": "https://open.spotify.com/track/0VJc0VM2TJWp6wi4szBFaw"
+    },
+    {
+      "added_at": "2025-09-14 09:26:33",
+      "album": {
+        "name": "The Things We Did at First",
+        "url": "https://open.spotify.com/album/3VS7ZrBjKzBWB7rYca7ALh"
+      },
+      "artists": [
+        {
+          "name": "Sean Feucht",
+          "url": "https://open.spotify.com/artist/3DJuBJtjHdjAXlpIZCltTR"
+        }
+      ],
+      "duration_ms": 238478,
+      "name": "When My Heart Became Aware",
+      "url": "https://open.spotify.com/track/0KitfgfQREza7nK9gkPouX"
     },
     {
       "added_at": "2025-09-14 09:26:33",
@@ -843,6 +843,22 @@
     {
       "added_at": "2025-09-14 09:26:33",
       "album": {
+        "name": "Living Hope",
+        "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 282546,
+      "name": "Tethered",
+      "url": "https://open.spotify.com/track/2qeDQupafKL2K5mEVfEvCP"
+    },
+    {
+      "added_at": "2025-09-14 09:26:33",
+      "album": {
         "name": "United We Stand (Live)",
         "url": "https://open.spotify.com/album/50naWCBZJurPrqIL4p2V6f"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 329320,
       "name": "None But Jesus - Live",
       "url": "https://open.spotify.com/track/5tgywPECreoxcE2m2DiPQm"
-    },
-    {
-      "added_at": "2025-09-14 09:26:33",
-      "album": {
-        "name": "Living Hope",
-        "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 282546,
-      "name": "Tethered",
-      "url": "https://open.spotify.com/track/2qeDQupafKL2K5mEVfEvCP"
     },
     {
       "added_at": "2025-09-14 09:26:33",
@@ -931,22 +931,6 @@
     {
       "added_at": "2025-09-14 09:26:33",
       "album": {
-        "name": "Praise Before My Breakthrough",
-        "url": "https://open.spotify.com/album/2Puh89WKI6MHT2VQLa76Q9"
-      },
-      "artists": [
-        {
-          "name": "Bryan & Katie Torwalt",
-          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
-        }
-      ],
-      "duration_ms": 226107,
-      "name": "Be With Me",
-      "url": "https://open.spotify.com/track/51YwIV5laxNugYz32eJIdw"
-    },
-    {
-      "added_at": "2025-09-14 09:26:33",
-      "album": {
         "name": "Isla Vista Worship Presents Ryan Ellis Live from the Upper Room II",
         "url": "https://open.spotify.com/album/0XZqQTpAx04RKjP49pgaeQ"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 509219,
       "name": "Worthy (Live)",
       "url": "https://open.spotify.com/track/5A1HchBRzogpjMP0GvSt0j"
+    },
+    {
+      "added_at": "2025-09-14 09:26:33",
+      "album": {
+        "name": "Praise Before My Breakthrough",
+        "url": "https://open.spotify.com/album/2Puh89WKI6MHT2VQLa76Q9"
+      },
+      "artists": [
+        {
+          "name": "Bryan & Katie Torwalt",
+          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
+        }
+      ],
+      "duration_ms": 226107,
+      "name": "Be With Me",
+      "url": "https://open.spotify.com/track/51YwIV5laxNugYz32eJIdw"
     },
     {
       "added_at": "2025-09-14 09:26:33",
@@ -1327,6 +1327,38 @@
     {
       "added_at": "2025-09-14 09:26:33",
       "album": {
+        "name": "Reckless Love",
+        "url": "https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB"
+      },
+      "artists": [
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        }
+      ],
+      "duration_ms": 265377,
+      "name": "Endless Alleluia",
+      "url": "https://open.spotify.com/track/0mqDhUDKwpnDvIFoQYR524"
+    },
+    {
+      "added_at": "2025-09-14 09:26:33",
+      "album": {
+        "name": "This Is Love (Live)",
+        "url": "https://open.spotify.com/album/2vBQ6WdlR01gc6iJbwFJdI"
+      },
+      "artists": [
+        {
+          "name": "New Wine Worship",
+          "url": "https://open.spotify.com/artist/2G5uXRzRvQILLfvQCsnSUV"
+        }
+      ],
+      "duration_ms": 320683,
+      "name": "This Is Love - Live",
+      "url": "https://open.spotify.com/track/19TTpoQDJmX11sBrLwt7Nx"
+    },
+    {
+      "added_at": "2025-09-14 09:26:33",
+      "album": {
         "name": "More",
         "url": "https://open.spotify.com/album/2mGewKlkzqeAld4N3T1lfx"
       },
@@ -1339,42 +1371,6 @@
       "duration_ms": 497560,
       "name": "All Hail King Jesus",
       "url": "https://open.spotify.com/track/0FRdprdBRrdo0jMxhK0hTy"
-    },
-    {
-      "added_at": "2025-09-14 09:26:33",
-      "album": {
-        "name": "Kingdom Culture Worship",
-        "url": "https://open.spotify.com/album/21us72bpT0drS6w5ieLMJk"
-      },
-      "artists": [
-        {
-          "name": "Kingdom Culture Worship",
-          "url": "https://open.spotify.com/artist/0KYoEkNrjtHSuTwaiGZTcc"
-        }
-      ],
-      "duration_ms": 475000,
-      "name": "Abide",
-      "url": "https://open.spotify.com/track/2hKuhm3kV2lxDjVzS8pqr5"
-    },
-    {
-      "added_at": "2025-09-14 09:26:33",
-      "album": {
-        "name": "Moments",
-        "url": "https://open.spotify.com/album/4bKpeGX4y9MZmzSYNnU4KC"
-      },
-      "artists": [
-        {
-          "name": "UPPERROOM",
-          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
-        },
-        {
-          "name": "Elyssa Figueroa",
-          "url": "https://open.spotify.com/artist/0u6BP0u3FLrJrlWU3XwC8l"
-        }
-      ],
-      "duration_ms": 349525,
-      "name": "Surrounded (Fight My Battles) [Live]",
-      "url": "https://open.spotify.com/track/4GlWqYw49fgrRiB0YzfyMO"
     }
   ],
   "unique_name": "Miracles",

@@ -4,7 +4,7 @@
 
 > The gentle sound of some of the greatest voices and instrumentalists in Jazz\. Your Jazz dinner soundtrack.
 
-126 songs - 8 hr 14 min
+127 songs - 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [But Not For Me](https://open.spotify.com/track/07vtuaY3Ym8jf76SJ8g7ar) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Love Is Here To Stay](https://open.spotify.com/album/7dj3N9Ue8kXeMjXyxesD2t) | 3:05 | 2025-02-04 |  |
 | [Can't Get out of This Mood](https://open.spotify.com/track/3ddbXEt3W1UZUd2AOi2HhF) | [Live Foyn Friis](https://open.spotify.com/artist/4dZ1woIhLE3Y92MRKhr8af), [Bård Helgerud](https://open.spotify.com/artist/2GMYgVdLfQj8frPJDRLkvh), [Rodrigo Villagra](https://open.spotify.com/artist/0RgfOjYOuHTiBygi9BwAzv), [Magnus Sefaniassen Eide](https://open.spotify.com/artist/6S5pM5PQo4Z7dv6xUE8Ahw) | [Live Sings Sassy](https://open.spotify.com/album/1iimKeyogFlVxDgnrpaKTr) | 3:22 | 2025-02-04 |  |
 | [Can't We Be Friends](https://open.spotify.com/track/6GkriQILiLxQqhvAfXYpmB) | [Mildred Bailey](https://open.spotify.com/artist/0LyTHMstvqKiSoqdnnjqix) | [Sings..\. Me And The Blues](https://open.spotify.com/album/5vc8CnGTsboRWY5ckBUt7u) | 3:10 | 2025-02-04 |  |
+| [Chan's Song \(Never Said\)](https://open.spotify.com/track/2XTSiJ2GVi2L8Ob0ppotBU) | [Michael Brecker](https://open.spotify.com/artist/5IkynsVZoak9UR2Xt8qsMj) | [Nearness Of You: The Ballad Book](https://open.spotify.com/album/51XWcgZLxZSpBCcrsI8YFY) | 5:15 | 2025-02-04 |  |
 | [Count Me In](https://open.spotify.com/track/76rD8liEuU0louCpIXDSKv) | [Taylor Owen Trio](https://open.spotify.com/artist/5pCUMgtJ7hUMrCDeYm96Ca) | [Count Me In](https://open.spotify.com/album/4J7FQxTSNaZTGx9oppZbk4) | 3:37 | 2025-02-04 |  |
 | [Dancing on the Ceiling](https://open.spotify.com/track/27j5vjWiTCnys8U2AJQnJ3) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings: It Could Happen To You \[Original Jazz Classics Remasters\] \(OJC Remaster\)](https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc) | 3:09 | 2025-02-04 |  |
 | [Dancing Shadows](https://open.spotify.com/track/6F14syg4FMAOjIHCfJvb2C) | [Dries Riesen](https://open.spotify.com/artist/2CBiYt7JDgmt7EYJEVmDdL) | [Dancing Shadows](https://open.spotify.com/album/05JsbFBmz50hZwtFH2GQWK) | 3:24 | 2025-02-04 |  |
@@ -91,7 +92,7 @@
 | [Mystic Moonlight Groove](https://open.spotify.com/track/4DySf1DPVMOVl04WBvSvqi) | [Greydon Park Band](https://open.spotify.com/artist/6pZIC4vzuNxdwy8hJSq29S) | [Mystic Moonlight Groove](https://open.spotify.com/album/52zp4HrTeYZeiLn3iDy01S) | 3:31 | 2025-02-04 |  |
 | [Nevermore](https://open.spotify.com/track/4nrB8V4gpLyHcQNDUsMWDJ) | [Megan Wofford](https://open.spotify.com/artist/3ac7SLoq4Rbms8XZE0rdkA) | [Reimagine](https://open.spotify.com/album/3jBOhHMWIVsCGsexc7JgGy) | 4:14 | 2025-02-04 |  |
 | [Nice Try](https://open.spotify.com/track/0B1DkEpFZCbCIpw8UfI4kH) | [da Suécia](https://open.spotify.com/artist/4oOtPyWe8TK5mn4gKJDNse) | [Nice Try](https://open.spotify.com/album/2xwZAOuNICjJdVgm6y2yCa) | 2:42 | 2025-02-04 |  |
-| [Nostalgic Days](https://open.spotify.com/track/5b2BUoXRVmB9fqNsIPyNy0) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Nostalgic Days](https://open.spotify.com/album/20ld6T3TYuPvsjQx1dI3U6) | 5:53 | 2025-02-04 |  |
+| [Nostalgic Days](https://open.spotify.com/track/5b2BUoXRVmB9fqNsIPyNy0) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Nostalgic Days](https://open.spotify.com/album/20ld6T3TYuPvsjQx1dI3U6) | 5:53 | 2025-02-04 | 2025-11-17 |
 | [On The Sunny Side Of The Street](https://open.spotify.com/track/42glcnGSZYpv5kg9izfAuP) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm), [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [The President Plays With The Oscar Peterson Trio](https://open.spotify.com/album/7JkisS9bjzaQCgJ9btGjfq) | 3:23 | 2025-02-04 |  |
 | [Passing Time](https://open.spotify.com/track/1tOHfIMejiASTjsmkvH704) | [Sean Murphy](https://open.spotify.com/artist/3tYPwi8YXV9PTnt445WJKq) | [Passing Time](https://open.spotify.com/album/48s0tTqeqhWSHA24zIv1pL) | 3:05 | 2025-02-04 |  |
 | [Pearl\-button](https://open.spotify.com/track/6BNIemd2679Bg6BbNjP9Ko) | [Meadowpoints](https://open.spotify.com/artist/3EJ5w7wMNM0ZVOKFBaRp4J) | [Pearl\-button](https://open.spotify.com/album/2YLC9erulM0m04cnteK4lb) | 3:18 | 2025-02-04 |  |

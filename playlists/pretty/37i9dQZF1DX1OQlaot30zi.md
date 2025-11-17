@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Papa, Skinny e Yugi, Nitro, Astro, 22Simba, Hash e IvanBi e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,844 likes - 107 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,861 likes - 107 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

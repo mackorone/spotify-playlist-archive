@@ -1,12 +1,12 @@
 {
   "description": "This is Arch Enemy. The essential tracks, all in one playlist.",
-  "num_followers": 79620,
+  "num_followers": 79636,
   "original_name": "This Is Arch Enemy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRZxAAAAAACqG0ogK2t4S+9TkcWL3LgR",
+  "snapshot_id": "aRfCgAAAAAA+Mq2Pf0ExbCCLWrJ3oKdd",
   "tracks": [
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Will To Power",
-        "url": "https://open.spotify.com/album/1HimPrGurKic1hNOSidwF2"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 288320,
-      "name": "First Day in Hell",
-      "url": "https://open.spotify.com/track/7uqohNjCnZ8sZd5S2vh5vx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Anthems of Rebellion",
         "url": "https://open.spotify.com/album/79KP5UGPkyDLMKRoz1nxq7"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 246706,
       "name": "We Will Rise",
       "url": "https://open.spotify.com/track/0KtQaeUT372b7vRProw9Sm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Will To Power",
+        "url": "https://open.spotify.com/album/1HimPrGurKic1hNOSidwF2"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 288320,
+      "name": "First Day in Hell",
+      "url": "https://open.spotify.com/track/7uqohNjCnZ8sZd5S2vh5vx"
     },
     {
       "added_at": null,

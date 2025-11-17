@@ -6298,24 +6298,6 @@
     {
       "album": {
         "name": "I Run",
-        "url": "https://open.spotify.com/album/0tPAbIZlpOoPxlLO8YGxPa"
-      },
-      "artists": [
-        {
-          "name": "HAVEN.",
-          "url": "https://open.spotify.com/artist/7ouEqUl1PCVPlNninecdcz"
-        }
-      ],
-      "date_added": "2025-11-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 129565,
-      "name": "I Run",
-      "url": "https://open.spotify.com/track/0gUe53zOzsnFwpDGYld3ke"
-    },
-    {
-      "album": {
-        "name": "I Run",
         "url": "https://open.spotify.com/album/4bqyKumRF0H8BZXtUIazLn"
       },
       "artists": [
@@ -6330,6 +6312,28 @@
       "duration_ms": 129565,
       "name": "I Run",
       "url": "https://open.spotify.com/track/4nffa2OJOlgjCr4WPUZAuY"
+    },
+    {
+      "album": {
+        "name": "I Run",
+        "url": "https://open.spotify.com/album/0tPAbIZlpOoPxlLO8YGxPa"
+      },
+      "artists": [
+        {
+          "name": "HAVEN.",
+          "url": "https://open.spotify.com/artist/7ouEqUl1PCVPlNninecdcz"
+        },
+        {
+          "name": "Kaitlin Aragon",
+          "url": "https://open.spotify.com/artist/0MjdTHzxhkhOS4J2rWw6uK"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129565,
+      "name": "I Run",
+      "url": "https://open.spotify.com/track/0gUe53zOzsnFwpDGYld3ke"
     },
     {
       "album": {

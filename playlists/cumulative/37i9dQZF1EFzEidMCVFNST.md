@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39SNiObet41EA7ooyHRZRo">Vinicius Poeta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-559 songs - 1 day 2 hr 34 min
+560 songs - 1 day 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [20 Despedidas \- Ao Vivo Em São Paulo / 2019](https://open.spotify.com/track/5ysdbQHTlEtlElmr5Kc4iy) | [Júlia & Rafaela](https://open.spotify.com/artist/7JJBuq3tgc4y2NO0TqAm02) | [Despertar \- Ensaio \(Ao Vivo Em São Paulo / 2019\)](https://open.spotify.com/album/76oY7Q3fIgkT9wFCXAyH1y) | 2:59 | 2024-01-29 |  |
 | [3, 2, 1 Rapidin](https://open.spotify.com/track/5sui8wXQqCh7IwvFLMQnHU) | [Beto & Breno](https://open.spotify.com/artist/7iFKA14MpJ9bhPhZIUqDOS), [Gabi Martins](https://open.spotify.com/artist/3bMxoALDz4DJM8pJG0bnvs) | [3, 2, 1 Rapidin](https://open.spotify.com/album/70QobBWILDLwboeJdJBOqe) | 2:35 | 2024-01-29 |  |
 | [4G](https://open.spotify.com/track/0Xyai3VqkT2sujXvF58zDQ) | [Max e Luan](https://open.spotify.com/artist/5M1ILxS67JEzWguvzNakgE) | [4G](https://open.spotify.com/album/4xPBKbhYP0g7jm0axk5Mrj) | 2:42 | 2024-01-29 |  |
-| [6 Graus Abaixo de Zero \- Ao Vivo](https://open.spotify.com/track/4hMeVIvSBJoxQ5V0qEOPpv) | [Breno & Caio Cesar](https://open.spotify.com/artist/0qzIE6qGhz0erJe0Fy8RHt), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [\#JuntosComBCC \(Ao Vivo\)](https://open.spotify.com/album/1FEFYOFrkK61T3zMXt590L) | 3:03 | 2024-01-29 |  |
+| [6 Graus Abaixo de Zero](https://open.spotify.com/track/7llizvX6gYL7DOqaAMN2GC) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Arrocha Safadão](https://open.spotify.com/album/4dmdQ4uriuehLMFwY6SAKQ) | 2:37 | 2025-11-16 |  |
+| [6 Graus Abaixo de Zero \- Ao Vivo](https://open.spotify.com/track/4hMeVIvSBJoxQ5V0qEOPpv) | [Breno & Caio Cesar](https://open.spotify.com/artist/0qzIE6qGhz0erJe0Fy8RHt), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [\#JuntosComBCC \(Ao Vivo\)](https://open.spotify.com/album/1FEFYOFrkK61T3zMXt590L) | 3:03 | 2024-01-29 | 2025-11-17 |
 | [8 E 80](https://open.spotify.com/track/6OsAvyCZjs5hnJGzj3veYU) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr) | [Hipnose \(Ao Vivo\)](https://open.spotify.com/album/66GJKi3ULprjZB9rBlqnBN) | 3:09 | 2025-03-29 |  |
 | [8 e 80 \- Ao Vivo](https://open.spotify.com/track/10QwS6vwsY7SseTTwSmMFZ) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr) | [Hipnose \(Ao Vivo\)](https://open.spotify.com/album/15xpWd7MpVbVtDsywlPgZC) | 3:09 | 2024-08-18 | 2025-03-30 |
 | [8 E 80 \- Ao Vivo](https://open.spotify.com/track/375yMUSMjQASt7ci63M2Gk) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr) | [Hipnose Ao Vivo \- Ao Vivo](https://open.spotify.com/album/52rIL56BICJZfbDlDZBCci) | 3:09 | 2024-01-29 | 2024-08-19 |

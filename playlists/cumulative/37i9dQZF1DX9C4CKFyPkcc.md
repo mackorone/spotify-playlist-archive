@@ -4,7 +4,7 @@
 
 > Enjoy the holidays with this fresh mix of new and classic Christmas songs!
 
-373 songs - 21 hr 51 min
+374 songs - 21 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [CHRISTMAS MORNING](https://open.spotify.com/track/2EexyQTsG7IyJIvXkjeozV) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [CHRISTMAS MORNING](https://open.spotify.com/album/1e6yUvVixHZisjzEuJamSe) | 2:10 | 2025-11-16 |  |
 | [Christmas Pick Me Up](https://open.spotify.com/track/0QN8SGs82YIuYsz2wOAH9N) | [Rudy Currence](https://open.spotify.com/artist/1XjkqiNiTkbF2FOEDMNqC8), [Raheem DeVaughn](https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL) | [Christmas Pick Me Up](https://open.spotify.com/album/44odr8fGUzUtNRRNqeTyJu) | 3:59 | 2022-12-11 | 2024-11-18 |
 | [Christmas Time Again](https://open.spotify.com/track/4fZOOTo7H9ralEE18IeIi0) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [Joy](https://open.spotify.com/album/0IJGoazlUcCQTWdL7BV1Oa) | 3:13 | 2022-12-11 |  |
+| [Christmas Time Has Come](https://open.spotify.com/track/0JDniarTARP2tibPvHenUH) | [SSTEDI](https://open.spotify.com/artist/1VZIyB5EgFbnBlOlY8SgYK) | [Christmas Time Has Come](https://open.spotify.com/album/3VuMd0LgmyZAt5h5pQeF2V) | 3:11 | 2025-11-16 |  |
 | [Christmas Time Is Here](https://open.spotify.com/track/2EPBlKjnAF8KqRHYGQkIbt) | [Mervin Mayo](https://open.spotify.com/artist/32N3ovxRWJFnUzlUZmXM2t) | [Christmas Time Is Here](https://open.spotify.com/album/1oH2Jh8UaBTy8EgQPrW7Gj) | 3:55 | 2023-12-15 | 2024-07-30 |
 | [Christmas Time Is Here](https://open.spotify.com/track/6qsGiwpMUHXo752nUPg1YW) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [this is our Christmas album](https://open.spotify.com/album/6wBted9sjsgGSoGhELXaBC) | 2:45 | 2022-11-26 |  |
 | [Christmas Time Is Here](https://open.spotify.com/track/2BhqB61ZY7vrsE6sQ2W1XE) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Snowflakes](https://open.spotify.com/album/3ZaX7lHCPdIXpnOZBeTnKQ) | 4:11 | 2024-07-29 | 2024-10-27 |
@@ -319,7 +320,7 @@
 | [The First Noel](https://open.spotify.com/track/4PrJBQfMftpMcuzchztO8r) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [The First Noel](https://open.spotify.com/album/4xfqjNEA1tJpZsTE4SJ5eh) | 4:48 | 2022-12-11 |  |
 | [The First Noël](https://open.spotify.com/track/1SqCZGjHJGeSg1ZuKMDWqD) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [The First Noël](https://open.spotify.com/album/2tNbwGEri8pNkp8AmEf39f) | 4:19 | 2021-12-24 | 2024-07-30 |
 | [The Hope for All](https://open.spotify.com/track/6xRhLODIOh065PTQTj9008) | [Soul City Worship](https://open.spotify.com/artist/5LtsEFW2aTWHrlwv5R49pP) | [The Hope for All](https://open.spotify.com/album/6G1ViS0M7AxZ7a3AnICM03) | 4:57 | 2022-12-11 | 2023-12-03 |
-| [The Kings' Nutcracker Suite](https://open.spotify.com/track/5Re4LEkwp0Mty5PSTvpkNy) | [Kings Return](https://open.spotify.com/artist/1MCC8nsXurGKs7K2TXocBh) | [We Four Kings](https://open.spotify.com/album/3hDmMBXMnoNP6igeIJK6am) | 4:24 | 2023-12-15 |  |
+| [The Kings' Nutcracker Suite](https://open.spotify.com/track/5Re4LEkwp0Mty5PSTvpkNy) | [Kings Return](https://open.spotify.com/artist/1MCC8nsXurGKs7K2TXocBh) | [We Four Kings](https://open.spotify.com/album/3hDmMBXMnoNP6igeIJK6am) | 4:24 | 2023-12-15 | 2025-11-17 |
 | [The Manger \(with Josh Turner\)](https://open.spotify.com/track/7aKm5vWuizayEDJJSp0OiW) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN), [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [The Manger](https://open.spotify.com/album/07eR5Q7zlJXjotNfqekAjH) | 3:49 | 2022-11-26 |  |
 | [The More the Merrier](https://open.spotify.com/track/3n90yEGHncHiEQ991p7hEj) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [The More the Merrier](https://open.spotify.com/album/7pEBFiztEnEPAs0WGJj36e) | 3:31 | 2024-11-29 |  |
 | [The One](https://open.spotify.com/track/4eTJECZAqZU9pfoB3JNwoF) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Every Christmas](https://open.spotify.com/album/417JYo0idxISlugwKE4fsb) | 3:53 | 2023-11-03 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ygqbbD1pKk.md) - [plain]
 
 > Todos tus éxitos favoritos de Disney\. Lilo & Stitch, Moana 2, Encanto y mucho más!
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,613 likes - 69 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,630 likes - 69 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ygqbbD1pKk.md) - [plain]
 | 68 | [Take Me Away](https://open.spotify.com/track/6MFraiWmc8KfjfY5m3Nx9e) | [Christina Vidal Mitchell](https://open.spotify.com/artist/0677ffAmURcLIn4qC5lYMk), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Freakier Friday \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/21GEjVF1Rr389EmT0pEedm) | 3:08 |
 | 69 | [Breaking Free](https://open.spotify.com/track/5zQ1Wq6HNYjGZWkVv5P8Eg) | [Troy](https://open.spotify.com/artist/6zTbBugfNc95zo8ClFDhIn), [Gabriella](https://open.spotify.com/artist/0GyAZiIV45rnBBf4KdGLS7), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical](https://open.spotify.com/album/4dOvFkIgrb6b9zCcGfCcci) | 3:27 |
 
-Snapshot ID: `AAAAAND1NFiXHHXDVWFqfFdNKvKWsBl6`
+Snapshot ID: `AAAAAGaYZ9N2WrboFW6bmEOkKYmYtisR`

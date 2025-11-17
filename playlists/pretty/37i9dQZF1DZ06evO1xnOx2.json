@@ -1,12 +1,12 @@
 {
   "description": "This is Hozier. The essential tracks, all in one playlist.",
-  "num_followers": 621841,
+  "num_followers": 621871,
   "original_name": "This Is Hozier",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRZxAAAAAABUNxoLfZDns2W6/XaW3Vhv",
+  "snapshot_id": "aRfCgAAAAADseKlppxUrmoUwuscOX55l",
   "tracks": [
     {
       "added_at": null,
@@ -367,22 +367,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forever Is A Feeling: The Archives",
-        "url": "https://open.spotify.com/album/2K91mmZiTrqVmt3ZRoosk6"
+        "name": "Hozier (Special Edition)",
+        "url": "https://open.spotify.com/album/44zQnmrFcPCmPp6NLMfTuz"
       },
       "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        },
         {
           "name": "Hozier",
           "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 227083,
-      "name": "Bullseye (at Radio City Music Hall)",
-      "url": "https://open.spotify.com/track/1InFoRPPAtAstb3Hv5glGx"
+      "duration_ms": 266611,
+      "name": "Arsonist's Lullabye",
+      "url": "https://open.spotify.com/track/7lpmIGFw7Kc9qIdq4cGs34"
     },
     {
       "added_at": null,
@@ -435,18 +431,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hozier (Special Edition)",
-        "url": "https://open.spotify.com/album/44zQnmrFcPCmPp6NLMfTuz"
+        "name": "Forever Is A Feeling: The Archives",
+        "url": "https://open.spotify.com/album/2K91mmZiTrqVmt3ZRoosk6"
       },
       "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        },
         {
           "name": "Hozier",
           "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 266611,
-      "name": "Arsonist's Lullabye",
-      "url": "https://open.spotify.com/track/7lpmIGFw7Kc9qIdq4cGs34"
+      "duration_ms": 227083,
+      "name": "Bullseye (at Radio City Music Hall)",
+      "url": "https://open.spotify.com/track/1InFoRPPAtAstb3Hv5glGx"
     },
     {
       "added_at": null,

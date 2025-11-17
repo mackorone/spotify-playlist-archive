@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2449GK.md) - [plain]
 
 > This is Alcolirykoz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,030 likes - 37 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,035 likes - 37 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2449GK.md) - [plain]
 | 36 | [Terapia de Grupo](https://open.spotify.com/track/1jJ0y1wNdSHc6YT1cD6Z46) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [El Despilfarro](https://open.spotify.com/album/5uHOagTTb7uMubkK23phZ9) | 2:46 |
 | 37 | [El Salón de la Injusticia](https://open.spotify.com/track/5KCegoON1Q2cvb2ECIuZsa) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Efectos Secundarios](https://open.spotify.com/album/2rZ4AlA2uXKfeDQ9UDdoqp) | 3:50 |
 
-Snapshot ID: `aRZxAAAAAAA3rLBxfo3kMo9GFVSg6cr+`
+Snapshot ID: `aRfCgAAAAADx3l8vk4PPBMG4aZ+ARZu5`

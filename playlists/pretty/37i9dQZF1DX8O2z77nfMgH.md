@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: RØZ
 
-[Spotify](https://open.spotify.com/user/spotify) - 863,326 likes - 63 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 863,243 likes - 63 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 54 | [Exotic](https://open.spotify.com/track/0e4DAsobnL6NiNzDy65pXg) | [DOUBLE Di](https://open.spotify.com/artist/37sw1NItrqhJcnjfpr58CF), [ARM](https://open.spotify.com/artist/7q1ppdQ7pwZpWtV8UAsHPV), [Eduk Beatz](https://open.spotify.com/artist/7MbYrLpUqqlvMZCOmwmlU5) | [Exotic](https://open.spotify.com/album/0sThccVXGc2hns5kNX6EGR) | 2:21 |
 | 55 | [Chao Que Te Vi](https://open.spotify.com/track/6cuLklNPEYJYjLwnuo0xJu) | [Kenny Man](https://open.spotify.com/artist/6SGvRyZuaSuWmP6IWUKpGf) | [Chao Que Te Vi](https://open.spotify.com/album/6925RQk3Zns3KtWtfdR9hB) | 2:41 |
 | 56 | [Palida](https://open.spotify.com/track/7tZb2UrxuLClY45MCWYoqd) | [Nadir](https://open.spotify.com/artist/7H6WVamspxVcJiSMhWcyiZ), [Valentino GRM](https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr) | [Palida](https://open.spotify.com/album/58FsxOqtmhXSb9YfrTrJbh) | 3:48 |
-| 57 | [CARNE HINCHADA](https://open.spotify.com/track/2J4J9KVbGNWFULxmYC6PdQ) | [Farah](https://open.spotify.com/artist/499MeLMskp0GHYO1587gZK), [Don Pablo Mures](https://open.spotify.com/artist/4YcotSTsnWhSSizEgJlH5k) | [CARNE HINCHADA](https://open.spotify.com/album/0lf73ZAEScLL3J0ekSEH6U) | 2:23 |
+| 57 | [CARNE HINCHA](https://open.spotify.com/track/2J4J9KVbGNWFULxmYC6PdQ) | [Farah](https://open.spotify.com/artist/499MeLMskp0GHYO1587gZK), [Don Pablo Mures](https://open.spotify.com/artist/4YcotSTsnWhSSizEgJlH5k) | [CARNE HINCHA](https://open.spotify.com/album/0lf73ZAEScLL3J0ekSEH6U) | 2:23 |
 | 58 | [Latemotiv](https://open.spotify.com/track/6IGQh05TwmwfQOCel2dSP8) | [stivijoes](https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx) | [El único ser sin talento](https://open.spotify.com/album/0lFP1nPPMPfuKzVZeOvBRH) | 3:08 |
 | 59 | [Click Clack](https://open.spotify.com/track/3rewPI0rEo0cApuMeUiVUZ) | [Italian Somali](https://open.spotify.com/artist/38VNGRG9Wz2FOBKAyA6HFv), [Don Pablo Mures](https://open.spotify.com/artist/4YcotSTsnWhSSizEgJlH5k) | [Click Clack](https://open.spotify.com/album/6PwD9YzdeFRC2TW5Cf4vM6) | 3:14 |
 | 60 | [Mentes Tão Bem \(Mientes Tan Bien\)](https://open.spotify.com/track/1VEyDlRdDIKopb4YRgbCFe) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [Country Sessions 2](https://open.spotify.com/album/68OY0mYlWfoIDE30464mi6) | 3:40 |

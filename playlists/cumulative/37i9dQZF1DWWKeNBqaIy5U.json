@@ -507,6 +507,24 @@
     },
     {
       "album": {
+        "name": "Nearness Of You: The Ballad Book",
+        "url": "https://open.spotify.com/album/51XWcgZLxZSpBCcrsI8YFY"
+      },
+      "artists": [
+        {
+          "name": "Michael Brecker",
+          "url": "https://open.spotify.com/artist/5IkynsVZoak9UR2Xt8qsMj"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315266,
+      "name": "Chan's Song (Never Said)",
+      "url": "https://open.spotify.com/track/2XTSiJ2GVi2L8Ob0ppotBU"
+    },
+    {
+      "album": {
         "name": "Count Me In",
         "url": "https://open.spotify.com/album/4J7FQxTSNaZTGx9oppZbk4"
       },
@@ -1586,7 +1604,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-17",
       "duration_ms": 353927,
       "name": "Nostalgic Days",
       "url": "https://open.spotify.com/track/5b2BUoXRVmB9fqNsIPyNy0"

@@ -1,6 +1,6 @@
 {
   "description": "dig through the record bin.",
-  "num_followers": 297889,
+  "num_followers": 297973,
   "original_name": "Thrifted",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Mellow Gold",
-        "url": "https://open.spotify.com/album/0iIGP4Sxw3KR4OCFv2yvz8"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "Loser",
-      "url": "https://open.spotify.com/track/5PntSbMHC1ud6Vvl8x56qd"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "Urban Hymns (Deluxe / Remastered 2016)",
         "url": "https://open.spotify.com/album/4uWmfuW68AR0mGFpYlUDjL"
       },
@@ -463,18 +447,34 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Nevermind (Remastered)",
-        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
+        "name": "Mellow Gold",
+        "url": "https://open.spotify.com/album/0iIGP4Sxw3KR4OCFv2yvz8"
       },
       "artists": [
         {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
         }
       ],
-      "duration_ms": 232146,
-      "name": "Something In The Way",
-      "url": "https://open.spotify.com/track/1nFtiJxYdhtFfFtfXBv06s"
+      "duration_ms": 235000,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/5PntSbMHC1ud6Vvl8x56qd"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "The Stone Roses",
+        "url": "https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw"
+      },
+      "artists": [
+        {
+          "name": "The Stone Roses",
+          "url": "https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d"
+        }
+      ],
+      "duration_ms": 292800,
+      "name": "I Wanna Be Adored - Remastered 2009",
+      "url": "https://open.spotify.com/track/758wEKVqfYopJIHYWdLVd4"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -511,18 +511,18 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "The Stone Roses",
-        "url": "https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw"
+        "name": "Nevermind (Remastered)",
+        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
       },
       "artists": [
         {
-          "name": "The Stone Roses",
-          "url": "https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d"
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
         }
       ],
-      "duration_ms": 292800,
-      "name": "I Wanna Be Adored - Remastered 2009",
-      "url": "https://open.spotify.com/track/758wEKVqfYopJIHYWdLVd4"
+      "duration_ms": 232146,
+      "name": "Something In The Way",
+      "url": "https://open.spotify.com/track/1nFtiJxYdhtFfFtfXBv06s"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
+        "name": "Fizzy Fuzzy Big & Buzzy",
+        "url": "https://open.spotify.com/album/2BAANDNiY6WvmSMVEKpjOV"
+      },
+      "artists": [
+        {
+          "name": "The Refreshments",
+          "url": "https://open.spotify.com/artist/5Fhey8VIfTavg9F99QlipO"
+        }
+      ],
+      "duration_ms": 257200,
+      "name": "Banditos",
+      "url": "https://open.spotify.com/track/466QMr5bVL5dEjtGxgaXyC"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
         "name": "It's A Wonderful Life",
         "url": "https://open.spotify.com/album/6iP3HGmoRXFUrKiml2QVkz"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 163733,
       "name": "Piano Fire",
       "url": "https://open.spotify.com/track/0N3H8hAe6Lfu2iGSxGVdGQ"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
-        "name": "Fizzy Fuzzy Big & Buzzy",
-        "url": "https://open.spotify.com/album/2BAANDNiY6WvmSMVEKpjOV"
-      },
-      "artists": [
-        {
-          "name": "The Refreshments",
-          "url": "https://open.spotify.com/artist/5Fhey8VIfTavg9F99QlipO"
-        }
-      ],
-      "duration_ms": 257200,
-      "name": "Banditos",
-      "url": "https://open.spotify.com/track/466QMr5bVL5dEjtGxgaXyC"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
+        "name": "Monster (Remastered)",
+        "url": "https://open.spotify.com/album/17mS71JVgCCYLVdVcG0aUT"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "duration_ms": 240306,
+      "name": "What\u2019s The Frequency, Kenneth? - Remastered 2013",
+      "url": "https://open.spotify.com/track/2ElyyOi86SHyMKcUrv2f8e"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
         "name": "Enter The Vaselines (Deluxe Edition)",
         "url": "https://open.spotify.com/album/630p98oUEIBRflGJRRInCt"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 211000,
       "name": "Galaxie / Hello, Goodbye",
       "url": "https://open.spotify.com/track/7iggXRD8XULv2nw4NjkIjZ"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
-        "name": "Monster (Remastered)",
-        "url": "https://open.spotify.com/album/17mS71JVgCCYLVdVcG0aUT"
-      },
-      "artists": [
-        {
-          "name": "R.E.M.",
-          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
-        }
-      ],
-      "duration_ms": 240306,
-      "name": "What\u2019s The Frequency, Kenneth? - Remastered 2013",
-      "url": "https://open.spotify.com/track/2ElyyOi86SHyMKcUrv2f8e"
     },
     {
       "added_at": "2025-01-15 04:11:50",

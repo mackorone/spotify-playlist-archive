@@ -1,12 +1,12 @@
 {
   "description": "This is Herencia de Patrones. The essential tracks, all in one playlist.",
-  "num_followers": 139670,
+  "num_followers": 139688,
   "original_name": "This Is Herencia de Patrones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRZxAAAAAADtkmkOye7CNdn0Tk6zze8K",
+  "snapshot_id": "aRfCgAAAAAAGWYlhY0Y1XBvcg6LCFvPP",
   "tracks": [
     {
       "added_at": null,
@@ -387,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Los Que Conocen El Rollo",
-        "url": "https://open.spotify.com/album/6mru0SSKCLIY91sdcYjEWH"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 213102,
-      "name": "Soy El Jefe",
-      "url": "https://open.spotify.com/track/6KzMQ0dcR1OqJ1EziYDQuh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Ultimos Son Los Primeros",
         "url": "https://open.spotify.com/album/3drj9hFTaeneCFvq7yJKb4"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 153384,
       "name": "No Me Preocupo Tanto",
       "url": "https://open.spotify.com/track/6ZCL1JXiW9kVGdz56lHWoB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Para Los Que Conocen El Rollo",
+        "url": "https://open.spotify.com/album/6mru0SSKCLIY91sdcYjEWH"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 213102,
+      "name": "Soy El Jefe",
+      "url": "https://open.spotify.com/track/6KzMQ0dcR1OqJ1EziYDQuh"
     },
     {
       "added_at": null,
@@ -515,26 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Va Pa Largo 2",
-        "url": "https://open.spotify.com/album/2hUFEj13uquBzCLjj7zlAB"
-      },
-      "artists": [
-        {
-          "name": "Grupo Hacendado",
-          "url": "https://open.spotify.com/artist/06hHiaGkSEyRusl6n2iK3M"
-        },
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 193853,
-      "name": "NO VAN A PODER",
-      "url": "https://open.spotify.com/track/2sera6DORQyNvftXa0UhDL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "L7X",
         "url": "https://open.spotify.com/album/4mJCWEIyFuWVG0gNqtb8Eo"
       },
@@ -571,8 +551,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Va Pa' Largo",
-        "url": "https://open.spotify.com/album/7yHaEWts81Kl1U14CjXSlV"
+        "name": "Se Va Pa Largo 2",
+        "url": "https://open.spotify.com/album/2hUFEj13uquBzCLjj7zlAB"
       },
       "artists": [
         {
@@ -584,9 +564,9 @@
           "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
         }
       ],
-      "duration_ms": 164925,
-      "name": "Cupcake Factory",
-      "url": "https://open.spotify.com/track/16enfjOIe90HZuYBS2NJ1U"
+      "duration_ms": 193853,
+      "name": "NO VAN A PODER",
+      "url": "https://open.spotify.com/track/2sera6DORQyNvftXa0UhDL"
     },
     {
       "added_at": null,
@@ -603,6 +583,26 @@
       "duration_ms": 169629,
       "name": "Ric Flair",
       "url": "https://open.spotify.com/track/1gXU6XIRIJ83Y3C7dZfTBm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Se Va Pa' Largo",
+        "url": "https://open.spotify.com/album/7yHaEWts81Kl1U14CjXSlV"
+      },
+      "artists": [
+        {
+          "name": "Grupo Hacendado",
+          "url": "https://open.spotify.com/artist/06hHiaGkSEyRusl6n2iK3M"
+        },
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 164925,
+      "name": "Cupcake Factory",
+      "url": "https://open.spotify.com/track/16enfjOIe90HZuYBS2NJ1U"
     },
     {
       "added_at": null,
@@ -743,30 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reyes Magos",
-        "url": "https://open.spotify.com/album/607kkbEXNd4v5AOE5CnttF"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        },
-        {
-          "name": "JOP",
-          "url": "https://open.spotify.com/artist/7ob0holUszbJOSSotPiyba"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Reyes Magos",
-      "url": "https://open.spotify.com/track/4FdSA59Wyl2p5FOW3lrNkX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Yo, Billetes y Damas (feat. Herencia de Patrones)",
         "url": "https://open.spotify.com/album/54UMtaPgBFFOUwqr0QKBTG"
       },
@@ -803,6 +779,30 @@
       "duration_ms": 188481,
       "name": "Vara Alta",
       "url": "https://open.spotify.com/track/6IPni1a6mvyZrG1JR7Au22"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reyes Magos",
+        "url": "https://open.spotify.com/album/607kkbEXNd4v5AOE5CnttF"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        },
+        {
+          "name": "JOP",
+          "url": "https://open.spotify.com/artist/7ob0holUszbJOSSotPiyba"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Reyes Magos",
+      "url": "https://open.spotify.com/track/4FdSA59Wyl2p5FOW3lrNkX"
     },
     {
       "added_at": null,

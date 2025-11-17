@@ -225,6 +225,24 @@
     },
     {
       "album": {
+        "name": "The Parlour",
+        "url": "https://open.spotify.com/album/2XObMLdXaVSIKCL6fLjtVs"
+      },
+      "artists": [
+        {
+          "name": "Picture Parlour",
+          "url": "https://open.spotify.com/artist/0lGEUAqbgX8yeEGIWjY9eV"
+        }
+      ],
+      "date_added": "2025-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248574,
+      "name": "Around The Bend",
+      "url": "https://open.spotify.com/track/4VxQgqHAHyh5FXWCSeJrTj"
+    },
+    {
+      "album": {
         "name": "Memory Of A Day",
         "url": "https://open.spotify.com/album/4H1TE5m2eltLhVKVuB53b1"
       },
@@ -666,10 +684,28 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-17",
       "duration_ms": 245393,
       "name": "Burn Me With A Bible",
       "url": "https://open.spotify.com/track/14axJIbe94zBTuMQAmS873"
+    },
+    {
+      "album": {
+        "name": "Lover Of A Ghost",
+        "url": "https://open.spotify.com/album/4HM2Cd3zXHgiRVrdpV1Kwr"
+      },
+      "artists": [
+        {
+          "name": "VIOLENT VIRA",
+          "url": "https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S"
+        }
+      ],
+      "date_added": "2025-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245393,
+      "name": "Burn Me With A Bible",
+      "url": "https://open.spotify.com/track/3Pur5ZFRlDmKhg67Y7i6Op"
     },
     {
       "album": {
@@ -4439,6 +4475,24 @@
     },
     {
       "album": {
+        "name": "Lover Of A Ghost",
+        "url": "https://open.spotify.com/album/4HM2Cd3zXHgiRVrdpV1Kwr"
+      },
+      "artists": [
+        {
+          "name": "VIOLENT VIRA",
+          "url": "https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S"
+        }
+      ],
+      "date_added": "2025-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192341,
+      "name": "Saccharine",
+      "url": "https://open.spotify.com/track/3J65NAYTuI4Bijum16hRTz"
+    },
+    {
+      "album": {
         "name": "Saccharine",
         "url": "https://open.spotify.com/album/4JKSFwpmyXKYnSdplEcKXz"
       },
@@ -4450,7 +4504,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-17",
       "duration_ms": 192347,
       "name": "Saccharine",
       "url": "https://open.spotify.com/track/1NiPI7ATyw4ZwI2b858XrT"

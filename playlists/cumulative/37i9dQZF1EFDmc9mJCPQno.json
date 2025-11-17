@@ -1873,6 +1873,24 @@
     },
     {
       "album": {
+        "name": "Fashionably Late",
+        "url": "https://open.spotify.com/album/1NJ9tmNuz88hJ10dPLLOQH"
+      },
+      "artists": [
+        {
+          "name": "XO",
+          "url": "https://open.spotify.com/artist/3uRDnagY9HyAPIo7Y34V4r"
+        }
+      ],
+      "date_added": "2025-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156012,
+      "name": "Ponytail",
+      "url": "https://open.spotify.com/track/356sykgkwuqWnvXwq1M1l0"
+    },
+    {
+      "album": {
         "name": "The Dream Chapter: MAGIC",
         "url": "https://open.spotify.com/album/5g58Gtd4i0KtJxNeC56Mus"
       },

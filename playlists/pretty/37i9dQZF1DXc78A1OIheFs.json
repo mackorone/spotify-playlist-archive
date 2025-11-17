@@ -1,6 +1,6 @@
 {
   "description": "Discover the best in new music from Aotearoa. Cover: Lorde",
-  "num_followers": 19196,
+  "num_followers": 19195,
   "original_name": "The Local List Aotearoa",
   "owner": {
     "name": "Spotify",
@@ -119,22 +119,6 @@
     {
       "added_at": "2025-11-06 13:00:36",
       "album": {
-        "name": "So Cold",
-        "url": "https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs"
-      },
-      "artists": [
-        {
-          "name": "Balu Brigada",
-          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
-        }
-      ],
-      "duration_ms": 201133,
-      "name": "So Cold",
-      "url": "https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv"
-    },
-    {
-      "added_at": "2025-11-06 13:00:36",
-      "album": {
         "name": "Ready To Ride",
         "url": "https://open.spotify.com/album/6G4cGs3sIKpnL8hdIVUrGB"
       },
@@ -151,6 +135,54 @@
       "duration_ms": 221600,
       "name": "Ready To Ride",
       "url": "https://open.spotify.com/track/5Ov3TERXJhFfuHcTpJR0iV"
+    },
+    {
+      "added_at": "2025-11-06 13:00:36",
+      "album": {
+        "name": "So Cold",
+        "url": "https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs"
+      },
+      "artists": [
+        {
+          "name": "Balu Brigada",
+          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
+        }
+      ],
+      "duration_ms": 201133,
+      "name": "So Cold",
+      "url": "https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv"
+    },
+    {
+      "added_at": "2025-11-06 13:00:36",
+      "album": {
+        "name": "Cinnamon",
+        "url": "https://open.spotify.com/album/7epoeWPFWTeHfuG8eR7HD3"
+      },
+      "artists": [
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "duration_ms": 162266,
+      "name": "Cinnamon",
+      "url": "https://open.spotify.com/track/3snrmj8vx2A3u70Lr5V4R3"
+    },
+    {
+      "added_at": "2025-11-06 13:00:36",
+      "album": {
+        "name": "Welcome to the Mood / Sundown",
+        "url": "https://open.spotify.com/album/41XgAI6YFm0zl6bwDWLXhk"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 184133,
+      "name": "Sundown",
+      "url": "https://open.spotify.com/track/4n741qFXYCwhdA5dcQRXOb"
     },
     {
       "added_at": "2025-11-06 13:00:36",
@@ -187,22 +219,6 @@
     {
       "added_at": "2025-11-06 13:00:36",
       "album": {
-        "name": "Welcome to the Mood / Sundown",
-        "url": "https://open.spotify.com/album/41XgAI6YFm0zl6bwDWLXhk"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 184133,
-      "name": "Sundown",
-      "url": "https://open.spotify.com/track/4n741qFXYCwhdA5dcQRXOb"
-    },
-    {
-      "added_at": "2025-11-06 13:00:36",
-      "album": {
         "name": "SENESCENCE 05 + 06",
         "url": "https://open.spotify.com/album/423g9lUsvvCEqK5KRvYFXg"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 170235,
       "name": "Grin",
       "url": "https://open.spotify.com/track/5wXmPTEY49DWP8b0dfk7F7"
-    },
-    {
-      "added_at": "2025-11-06 13:00:36",
-      "album": {
-        "name": "Cinnamon",
-        "url": "https://open.spotify.com/album/7epoeWPFWTeHfuG8eR7HD3"
-      },
-      "artists": [
-        {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
-        }
-      ],
-      "duration_ms": 162266,
-      "name": "Cinnamon",
-      "url": "https://open.spotify.com/track/3snrmj8vx2A3u70Lr5V4R3"
     },
     {
       "added_at": "2025-11-06 13:00:36",
@@ -299,6 +299,22 @@
     {
       "added_at": "2025-11-06 13:00:36",
       "album": {
+        "name": "Sad Boiii",
+        "url": "https://open.spotify.com/album/52WgEY29coP4ZokwAqmYbR"
+      },
+      "artists": [
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "duration_ms": 166026,
+      "name": "Sad Boiii",
+      "url": "https://open.spotify.com/track/5LOUGL5zAmtxRQIJBmuUay"
+    },
+    {
+      "added_at": "2025-11-06 13:00:36",
+      "album": {
         "name": "BITE BACK",
         "url": "https://open.spotify.com/album/44u8w5fzJ8lVizD4t1T0pr"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 200734,
       "name": "M\u0101ori Ki Te Ao",
       "url": "https://open.spotify.com/track/1PEMFdaHfWv4EXUc26Y3dz"
-    },
-    {
-      "added_at": "2025-11-06 13:00:36",
-      "album": {
-        "name": "Sad Boiii",
-        "url": "https://open.spotify.com/album/52WgEY29coP4ZokwAqmYbR"
-      },
-      "artists": [
-        {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
-        }
-      ],
-      "duration_ms": 166026,
-      "name": "Sad Boiii",
-      "url": "https://open.spotify.com/track/5LOUGL5zAmtxRQIJBmuUay"
     },
     {
       "added_at": "2025-11-06 13:00:36",
@@ -399,22 +399,6 @@
     {
       "added_at": "2025-11-06 13:00:36",
       "album": {
-        "name": "PLEASER",
-        "url": "https://open.spotify.com/album/3DLbNeGEg77U7wyAgIv4pc"
-      },
-      "artists": [
-        {
-          "name": "Vana",
-          "url": "https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T"
-        }
-      ],
-      "duration_ms": 165925,
-      "name": "PLEASER",
-      "url": "https://open.spotify.com/track/57aoIncSQMCTT58Nczu5se"
-    },
-    {
-      "added_at": "2025-11-06 13:00:36",
-      "album": {
         "name": "Nights Like This",
         "url": "https://open.spotify.com/album/7cGYemTtKlqYqR61wETgU4"
       },
@@ -451,50 +435,18 @@
     {
       "added_at": "2025-11-06 13:00:36",
       "album": {
-        "name": "pretend",
-        "url": "https://open.spotify.com/album/3DgzMxPjuf3WDXGiOxczaj"
+        "name": "PLEASER",
+        "url": "https://open.spotify.com/album/3DLbNeGEg77U7wyAgIv4pc"
       },
       "artists": [
         {
-          "name": "Teo Glacier",
-          "url": "https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY"
+          "name": "Vana",
+          "url": "https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T"
         }
       ],
-      "duration_ms": 170676,
-      "name": "pretend",
-      "url": "https://open.spotify.com/track/3VKW1b4IAxKvNoTki0fLIF"
-    },
-    {
-      "added_at": "2025-11-06 13:00:36",
-      "album": {
-        "name": "Eldest Daughter Of An Eldest Daughter",
-        "url": "https://open.spotify.com/album/4a5uJvHjC5NrORjUrtCV55"
-      },
-      "artists": [
-        {
-          "name": "Kiki Rockwell",
-          "url": "https://open.spotify.com/artist/5HuKMWteBRI09tWyKeQE1F"
-        }
-      ],
-      "duration_ms": 266706,
-      "name": "Faery King",
-      "url": "https://open.spotify.com/track/3jMJ7s8FQupDa1oRpaQsCc"
-    },
-    {
-      "added_at": "2025-11-06 13:00:36",
-      "album": {
-        "name": "Dime",
-        "url": "https://open.spotify.com/album/6X4VcwQyRbZoYunMhh8avd"
-      },
-      "artists": [
-        {
-          "name": "Serebii",
-          "url": "https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms"
-        }
-      ],
-      "duration_ms": 131306,
-      "name": "Telling Lies",
-      "url": "https://open.spotify.com/track/4r6riAEVEIh10h1WuHhY5Z"
+      "duration_ms": 165925,
+      "name": "PLEASER",
+      "url": "https://open.spotify.com/track/57aoIncSQMCTT58Nczu5se"
     },
     {
       "added_at": "2025-11-06 13:00:36",
@@ -515,6 +467,38 @@
     {
       "added_at": "2025-11-06 13:00:36",
       "album": {
+        "name": "Eldest Daughter Of An Eldest Daughter",
+        "url": "https://open.spotify.com/album/4a5uJvHjC5NrORjUrtCV55"
+      },
+      "artists": [
+        {
+          "name": "Kiki Rockwell",
+          "url": "https://open.spotify.com/artist/5HuKMWteBRI09tWyKeQE1F"
+        }
+      ],
+      "duration_ms": 266706,
+      "name": "Faery King",
+      "url": "https://open.spotify.com/track/3jMJ7s8FQupDa1oRpaQsCc"
+    },
+    {
+      "added_at": "2025-11-06 13:00:36",
+      "album": {
+        "name": "pretend",
+        "url": "https://open.spotify.com/album/3DgzMxPjuf3WDXGiOxczaj"
+      },
+      "artists": [
+        {
+          "name": "Teo Glacier",
+          "url": "https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY"
+        }
+      ],
+      "duration_ms": 170676,
+      "name": "pretend",
+      "url": "https://open.spotify.com/track/3VKW1b4IAxKvNoTki0fLIF"
+    },
+    {
+      "added_at": "2025-11-06 13:00:36",
+      "album": {
         "name": "What Do We Ever Really Know?",
         "url": "https://open.spotify.com/album/3yfY2tkI6g8WR2HfZBaQfv"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 233000,
       "name": "What Do We Ever Really Know?",
       "url": "https://open.spotify.com/track/1nyCxSZlwqP4Dj6yu5r24b"
+    },
+    {
+      "added_at": "2025-11-06 13:00:36",
+      "album": {
+        "name": "Dime",
+        "url": "https://open.spotify.com/album/6X4VcwQyRbZoYunMhh8avd"
+      },
+      "artists": [
+        {
+          "name": "Serebii",
+          "url": "https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms"
+        }
+      ],
+      "duration_ms": 131306,
+      "name": "Telling Lies",
+      "url": "https://open.spotify.com/track/4r6riAEVEIh10h1WuHhY5Z"
     },
     {
       "added_at": "2025-11-06 13:00:36",
@@ -639,6 +639,22 @@
     {
       "added_at": "2025-11-06 13:00:36",
       "album": {
+        "name": "Politix",
+        "url": "https://open.spotify.com/album/1sS8uIfmWBrlJIIgXgrODy"
+      },
+      "artists": [
+        {
+          "name": "Balu Brigada",
+          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
+        }
+      ],
+      "duration_ms": 272933,
+      "name": "Politix",
+      "url": "https://open.spotify.com/track/0ipstNSiF9kD4nNResIHtz"
+    },
+    {
+      "added_at": "2025-11-06 13:00:36",
+      "album": {
         "name": "Under The Surface",
         "url": "https://open.spotify.com/album/4DLH00hSYYu1nhf6ys0Nvz"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 214440,
       "name": "Above Me",
       "url": "https://open.spotify.com/track/3pupSD8tv3IVlORhWH1VM7"
-    },
-    {
-      "added_at": "2025-11-06 13:00:36",
-      "album": {
-        "name": "Politix",
-        "url": "https://open.spotify.com/album/1sS8uIfmWBrlJIIgXgrODy"
-      },
-      "artists": [
-        {
-          "name": "Balu Brigada",
-          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
-        }
-      ],
-      "duration_ms": 272933,
-      "name": "Politix",
-      "url": "https://open.spotify.com/track/0ipstNSiF9kD4nNResIHtz"
     },
     {
       "added_at": "2025-11-06 13:00:36",
@@ -803,22 +803,6 @@
     {
       "added_at": "2025-11-06 13:00:36",
       "album": {
-        "name": "Dominoes",
-        "url": "https://open.spotify.com/album/5HDdfdL3z8GOMcVjQDDAMd"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 179600,
-      "name": "Dominoes",
-      "url": "https://open.spotify.com/track/4lw8fSL7zLzINdE3ng8hvW"
-    },
-    {
-      "added_at": "2025-11-06 13:00:36",
-      "album": {
         "name": "East Coast",
         "url": "https://open.spotify.com/album/7IdwGiHgVmpBrmcBA157TK"
       },
@@ -867,6 +851,22 @@
     {
       "added_at": "2025-11-06 13:00:36",
       "album": {
+        "name": "Dominoes",
+        "url": "https://open.spotify.com/album/5HDdfdL3z8GOMcVjQDDAMd"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 179600,
+      "name": "Dominoes",
+      "url": "https://open.spotify.com/track/4lw8fSL7zLzINdE3ng8hvW"
+    },
+    {
+      "added_at": "2025-11-06 13:00:36",
+      "album": {
         "name": "The Drip",
         "url": "https://open.spotify.com/album/4AnurorczccotGyQOVXEdp"
       },
@@ -899,22 +899,6 @@
     {
       "added_at": "2025-11-06 13:00:36",
       "album": {
-        "name": "Metal",
-        "url": "https://open.spotify.com/album/4xjNfpHmPjhl2coRgNWvOz"
-      },
-      "artists": [
-        {
-          "name": "The Beths",
-          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
-        }
-      ],
-      "duration_ms": 283253,
-      "name": "Metal",
-      "url": "https://open.spotify.com/track/6KF6TkyYpEWKg6BZ3OYJz7"
-    },
-    {
-      "added_at": "2025-11-06 13:00:36",
-      "album": {
         "name": "L.A.B VI",
         "url": "https://open.spotify.com/album/2GgCCAXEdgHQOTlVvyQpfE"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 260088,
       "name": "Ocean Demon",
       "url": "https://open.spotify.com/track/6ZFhxFNHkPvdUHtx8NOCD2"
+    },
+    {
+      "added_at": "2025-11-06 13:00:36",
+      "album": {
+        "name": "Metal",
+        "url": "https://open.spotify.com/album/4xjNfpHmPjhl2coRgNWvOz"
+      },
+      "artists": [
+        {
+          "name": "The Beths",
+          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
+        }
+      ],
+      "duration_ms": 283253,
+      "name": "Metal",
+      "url": "https://open.spotify.com/track/6KF6TkyYpEWKg6BZ3OYJz7"
     },
     {
       "added_at": "2025-11-06 13:00:36",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2025-11-06 13:00:36",
       "album": {
-        "name": "Tief Im Wald",
-        "url": "https://open.spotify.com/album/3VAlGVnh10qltWmjMu6Ioy"
-      },
-      "artists": [
-        {
-          "name": "Kiki Rockwell",
-          "url": "https://open.spotify.com/artist/5HuKMWteBRI09tWyKeQE1F"
-        }
-      ],
-      "duration_ms": 218033,
-      "name": "Tief Im Wald",
-      "url": "https://open.spotify.com/track/2JOieVIEDws6VOe5T0dGpu"
-    },
-    {
-      "added_at": "2025-11-06 13:00:36",
-      "album": {
         "name": "Maumahara Noa Ahau",
         "url": "https://open.spotify.com/album/1M03YWeJdRd1OhFD4g0QMp"
       },
@@ -1071,6 +1055,22 @@
     {
       "added_at": "2025-11-06 13:00:36",
       "album": {
+        "name": "Tief Im Wald",
+        "url": "https://open.spotify.com/album/3VAlGVnh10qltWmjMu6Ioy"
+      },
+      "artists": [
+        {
+          "name": "Kiki Rockwell",
+          "url": "https://open.spotify.com/artist/5HuKMWteBRI09tWyKeQE1F"
+        }
+      ],
+      "duration_ms": 218033,
+      "name": "Tief Im Wald",
+      "url": "https://open.spotify.com/track/2JOieVIEDws6VOe5T0dGpu"
+    },
+    {
+      "added_at": "2025-11-06 13:00:36",
+      "album": {
         "name": "Chantilly",
         "url": "https://open.spotify.com/album/6qEqLDUoSIceyLYDS07lv1"
       },
@@ -1083,6 +1083,22 @@
       "duration_ms": 213459,
       "name": "Chantilly",
       "url": "https://open.spotify.com/track/6nHfOWaRuClaybogUR6Vt1"
+    },
+    {
+      "added_at": "2025-11-06 13:00:36",
+      "album": {
+        "name": "thought of you",
+        "url": "https://open.spotify.com/album/7x6JnVTlfYdQOIskmq0aab"
+      },
+      "artists": [
+        {
+          "name": "Teo Glacier",
+          "url": "https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY"
+        }
+      ],
+      "duration_ms": 225295,
+      "name": "thought of you",
+      "url": "https://open.spotify.com/track/1BLhi5rDFlPkRk8gbp4uiI"
     },
     {
       "added_at": "2025-11-06 13:00:36",
@@ -1107,22 +1123,6 @@
     {
       "added_at": "2025-11-06 13:00:36",
       "album": {
-        "name": "Everything Is Going To Be Alright",
-        "url": "https://open.spotify.com/album/68VjqhhlPZRLMAGxs1FSuU"
-      },
-      "artists": [
-        {
-          "name": "Princess Chelsea",
-          "url": "https://open.spotify.com/artist/6SrA4711bML5NvPO13Tr6t"
-        }
-      ],
-      "duration_ms": 191812,
-      "name": "Forever Is A Charm",
-      "url": "https://open.spotify.com/track/2eepdxWeNXa3dU7qRhtNHP"
-    },
-    {
-      "added_at": "2025-11-06 13:00:36",
-      "album": {
         "name": "Hell Of A Night",
         "url": "https://open.spotify.com/album/4yy9Kng4fAMUQ4UUe1h7H2"
       },
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2025-11-06 13:00:36",
       "album": {
-        "name": "thought of you",
-        "url": "https://open.spotify.com/album/7x6JnVTlfYdQOIskmq0aab"
+        "name": "Everything Is Going To Be Alright",
+        "url": "https://open.spotify.com/album/68VjqhhlPZRLMAGxs1FSuU"
       },
       "artists": [
         {
-          "name": "Teo Glacier",
-          "url": "https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY"
+          "name": "Princess Chelsea",
+          "url": "https://open.spotify.com/artist/6SrA4711bML5NvPO13Tr6t"
         }
       ],
-      "duration_ms": 225295,
-      "name": "thought of you",
-      "url": "https://open.spotify.com/track/1BLhi5rDFlPkRk8gbp4uiI"
+      "duration_ms": 191812,
+      "name": "Forever Is A Charm",
+      "url": "https://open.spotify.com/track/2eepdxWeNXa3dU7qRhtNHP"
     },
     {
       "added_at": "2025-11-06 13:00:36",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2025-11-06 13:00:36",
       "album": {
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/0SflKaUmjrhPMAaIwLTaMp"
+      },
+      "artists": [
+        {
+          "name": "SACHI",
+          "url": "https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR"
+        }
+      ],
+      "duration_ms": 156055,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/3P7EBoqZz6ZcPRluURhann"
+    },
+    {
+      "added_at": "2025-11-06 13:00:36",
+      "album": {
         "name": "Russian Roulette",
         "url": "https://open.spotify.com/album/1D0knXchRfzVXkQWc6fSZs"
       },
@@ -1223,18 +1239,18 @@
     {
       "added_at": "2025-11-06 13:00:36",
       "album": {
-        "name": "Wildfire",
-        "url": "https://open.spotify.com/album/0SflKaUmjrhPMAaIwLTaMp"
+        "name": "distance",
+        "url": "https://open.spotify.com/album/1VmLlJTGhcSMXHfdI8o4OI"
       },
       "artists": [
         {
-          "name": "SACHI",
-          "url": "https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR"
+          "name": "Teo Glacier",
+          "url": "https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY"
         }
       ],
-      "duration_ms": 156055,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/3P7EBoqZz6ZcPRluURhann"
+      "duration_ms": 142000,
+      "name": "distance",
+      "url": "https://open.spotify.com/track/2OhPmJmI7GGQhtQ6u96oz2"
     },
     {
       "added_at": "2025-11-06 13:00:36",
@@ -1255,22 +1271,6 @@
       "duration_ms": 254281,
       "name": "Under One Roof",
       "url": "https://open.spotify.com/track/4WyvctqcmQT4ksjZjnfW64"
-    },
-    {
-      "added_at": "2025-11-06 13:00:36",
-      "album": {
-        "name": "Red Dirt Romeo",
-        "url": "https://open.spotify.com/album/4efAnZiWIGbf6sklc5JQ2R"
-      },
-      "artists": [
-        {
-          "name": "Kaylee Bell",
-          "url": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
-        }
-      ],
-      "duration_ms": 225685,
-      "name": "Red Dirt Romeo",
-      "url": "https://open.spotify.com/track/3XqmFDMszpOQ6fh2YssOEo"
     }
   ],
   "unique_name": "The Local List Aotearoa",

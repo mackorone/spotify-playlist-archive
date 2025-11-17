@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 
 > Workout with Haryanvi Songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,087 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,116 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 | 45 | [Tedhe Chaalak](https://open.spotify.com/track/5EXNgdixf4572ATdvnSdXL) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [Ankee](https://open.spotify.com/artist/0eJO7NuzYBNE2tVGcxiRfn) | [Tedhe Chaalak](https://open.spotify.com/album/48e53D1ZHIh0EfVpCySju6) | 3:16 |
 | 46 | [Panga](https://open.spotify.com/track/13yHaNGlckcW7zvJ5yUSwN) | [Ammy Chahar](https://open.spotify.com/artist/5XE93ktVBgJuN7ln4YDvmX), [Shine](https://open.spotify.com/artist/0tSuiGWMqg0KzeweQKeiIM) | [Panga](https://open.spotify.com/album/3BTHZFnhSzPqSho78f8Kwz) | 3:01 |
 | 47 | [Power](https://open.spotify.com/track/2QPQ4mqVJRVxqi1vGlFiXw) | [Addy Nagar](https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5), [DRJ Sohail](https://open.spotify.com/artist/1cMmtYmcMDsPOrEu7uVJYN) | [Power](https://open.spotify.com/album/2K1UUqgmoUp5BD7hjw602v) | 2:53 |
-| 48 | [Dabke Na Chale](https://open.spotify.com/track/4VVqoi4F2GZg5EBnOGUAc3) | [Raj Mawar](https://open.spotify.com/artist/0481f4CMOOSlFB69C2wyZf) | [Dabke Na Chale](https://open.spotify.com/album/2iQNuAG6QWNQcCcJdxFzL3) | 2:14 |
-| 49 | [Pehlwan](https://open.spotify.com/track/1SnFnbxHkldx3dZxgv7RVw) | [Rahul Dhandlaniya](https://open.spotify.com/artist/3uIl3S4LSdiqMj19bqlDBX), [Vishvajeet Choudhary](https://open.spotify.com/artist/1mfAGblExpLNFZtiv88m9D), [Yogesh Jakhodiya](https://open.spotify.com/artist/36MYlNNUlZ9cZqLJMqxJVA) | [Pehlwan](https://open.spotify.com/album/42YOUQe0aQBmprIsQzvKiJ) | 2:32 |
-| 50 | [System](https://open.spotify.com/track/2YubJQ3VbHtwSvSed7837i) | [Surender Romio](https://open.spotify.com/artist/2HvRwVX1VLbmdhXy55LDbO), [Manisha Sharma](https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf) | [System](https://open.spotify.com/album/4nMFvVARjlHbvnT3v4hxvG) | 2:31 |
+| 48 | [Pehlwan](https://open.spotify.com/track/1SnFnbxHkldx3dZxgv7RVw) | [Rahul Dhandlaniya](https://open.spotify.com/artist/3uIl3S4LSdiqMj19bqlDBX), [Vishvajeet Choudhary](https://open.spotify.com/artist/1mfAGblExpLNFZtiv88m9D), [Yogesh Jakhodiya](https://open.spotify.com/artist/36MYlNNUlZ9cZqLJMqxJVA) | [Pehlwan](https://open.spotify.com/album/42YOUQe0aQBmprIsQzvKiJ) | 2:32 |
+| 49 | [Dabke Na Chale](https://open.spotify.com/track/4VVqoi4F2GZg5EBnOGUAc3) | [Raj Mawar](https://open.spotify.com/artist/0481f4CMOOSlFB69C2wyZf) | [Dabke Na Chale](https://open.spotify.com/album/2iQNuAG6QWNQcCcJdxFzL3) | 2:14 |
+| 50 | [Notorious Desi](https://open.spotify.com/track/7yCQyuIqzHtXBsIY0OiNti) | [Ndee Kundu](https://open.spotify.com/artist/61P6g4b3TgZ9m2caJlXS4K) | [Notorious Desi](https://open.spotify.com/album/0DBU7BkdjqHsgAT5WgvkFh) | 2:46 |
 
 Snapshot ID: `AAAAANEOET8h4rN3GMXiuQUZswnauR7A`

@@ -1,6 +1,6 @@
 {
   "description": "Moody electronica for the night shift",
-  "num_followers": 1753,
+  "num_followers": 1756,
   "original_name": "Night Shift",
   "owner": {
     "name": "Spotify",
@@ -439,6 +439,22 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
+        "name": "do you feel it too?",
+        "url": "https://open.spotify.com/album/3BrTI93IecTgOSLqyn4SId"
+      },
+      "artists": [
+        {
+          "name": "Seb Wildblood",
+          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
+        }
+      ],
+      "duration_ms": 308623,
+      "name": "by the reservoir",
+      "url": "https://open.spotify.com/track/2KTzvg9BdiO9ss0kiZzBe1"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
         "name": "You Need Somebody",
         "url": "https://open.spotify.com/album/4oSnGMfEK0NCZlTLsFDtdi"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 282349,
       "name": "Cold",
       "url": "https://open.spotify.com/track/7sIPjaEIz3puBvD9eLlSWs"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
-        "name": "do you feel it too?",
-        "url": "https://open.spotify.com/album/3BrTI93IecTgOSLqyn4SId"
-      },
-      "artists": [
-        {
-          "name": "Seb Wildblood",
-          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
-        }
-      ],
-      "duration_ms": 308623,
-      "name": "by the reservoir",
-      "url": "https://open.spotify.com/track/2KTzvg9BdiO9ss0kiZzBe1"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -579,18 +579,18 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Memories In Flight",
-        "url": "https://open.spotify.com/album/581T6Mw7jPP4IGgFDrQAfE"
+        "name": "View from the Aeroplane Window",
+        "url": "https://open.spotify.com/album/2sRxQH3FnEm4M0K8PnmQsH"
       },
       "artists": [
         {
-          "name": "Sampology",
-          "url": "https://open.spotify.com/artist/4si18qS80CBDvSo59qthZJ"
+          "name": "edapollo",
+          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
         }
       ],
-      "duration_ms": 229399,
-      "name": "Memories In Flight",
-      "url": "https://open.spotify.com/track/0c2mirf2nzleq4ctZ5vFKx"
+      "duration_ms": 233346,
+      "name": "View from the Aeroplane Window",
+      "url": "https://open.spotify.com/track/4mM9mgoDCa6NtWsHxe12pr"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -611,6 +611,22 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
+        "name": "Memories In Flight",
+        "url": "https://open.spotify.com/album/581T6Mw7jPP4IGgFDrQAfE"
+      },
+      "artists": [
+        {
+          "name": "Sampology",
+          "url": "https://open.spotify.com/artist/4si18qS80CBDvSo59qthZJ"
+        }
+      ],
+      "duration_ms": 229399,
+      "name": "Memories In Flight",
+      "url": "https://open.spotify.com/track/0c2mirf2nzleq4ctZ5vFKx"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
         "name": "Floating",
         "url": "https://open.spotify.com/album/5ZDfdoj6YtnOhPGwPKTTr8"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 349000,
       "name": "Floating",
       "url": "https://open.spotify.com/track/0sfY8uUKQxPqnK8sqvvKO2"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
-        "name": "View from the Aeroplane Window",
-        "url": "https://open.spotify.com/album/2sRxQH3FnEm4M0K8PnmQsH"
-      },
-      "artists": [
-        {
-          "name": "edapollo",
-          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
-        }
-      ],
-      "duration_ms": 233346,
-      "name": "View from the Aeroplane Window",
-      "url": "https://open.spotify.com/track/4mM9mgoDCa6NtWsHxe12pr"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -695,6 +695,22 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
+        "name": "Blue Spring",
+        "url": "https://open.spotify.com/album/2WSYktq8Bu9EMn47nnzR35"
+      },
+      "artists": [
+        {
+          "name": "edapollo",
+          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
+        }
+      ],
+      "duration_ms": 203493,
+      "name": "Blue Skies",
+      "url": "https://open.spotify.com/track/4UKJbtE1rC2LaWm5CFTnfA"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
         "name": "Poly 61",
         "url": "https://open.spotify.com/album/4QtJHCnRvyffr6Jx34K68H"
       },
@@ -727,8 +743,8 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Jesper",
-        "url": "https://open.spotify.com/album/4VSoAgoOCnHThOIgGgx77C"
+        "name": "ENCLOSURE",
+        "url": "https://open.spotify.com/album/1hcGDnuOuufMcUn2QfmrQ0"
       },
       "artists": [
         {
@@ -736,9 +752,9 @@
           "url": "https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32"
         }
       ],
-      "duration_ms": 261333,
-      "name": "Jesper",
-      "url": "https://open.spotify.com/track/7JNwNDg2I9SS79aGm6cxvF"
+      "duration_ms": 259805,
+      "name": "ENCLOSURE",
+      "url": "https://open.spotify.com/track/4izuPtp0dTuJF9xoqQR4W3"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -771,22 +787,6 @@
       "duration_ms": 243692,
       "name": "Coasting",
       "url": "https://open.spotify.com/track/4GH858YJvWQnMrJULGEDxR"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
-        "name": "Blue Spring",
-        "url": "https://open.spotify.com/album/2WSYktq8Bu9EMn47nnzR35"
-      },
-      "artists": [
-        {
-          "name": "edapollo",
-          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
-        }
-      ],
-      "duration_ms": 203493,
-      "name": "Blue Skies",
-      "url": "https://open.spotify.com/track/4UKJbtE1rC2LaWm5CFTnfA"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -827,18 +827,18 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Absent",
-        "url": "https://open.spotify.com/album/5dR04HbCNgPfhPCBuL2gnn"
+        "name": "Kwong",
+        "url": "https://open.spotify.com/album/16YCGbxqVsH1PAMqOS57JB"
       },
       "artists": [
         {
-          "name": "Liam Thomas",
-          "url": "https://open.spotify.com/artist/0CDvUUuendAExit0nkRVpN"
+          "name": "Knopha",
+          "url": "https://open.spotify.com/artist/3FgmBnQVnritfgmLRpwNAF"
         }
       ],
-      "duration_ms": 189473,
-      "name": "Absent",
-      "url": "https://open.spotify.com/track/5gdNah69fvQqI9SuESeqT5"
+      "duration_ms": 343384,
+      "name": "Corundrum",
+      "url": "https://open.spotify.com/track/3RbD9sf6y6QxA4BGMvtXRr"
     }
   ],
   "unique_name": "Night Shift",

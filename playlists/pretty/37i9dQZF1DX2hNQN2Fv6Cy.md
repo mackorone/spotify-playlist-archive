@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hNQN2Fv6Cy.md) - [plain]
 
 > 90's & 00's party jams with Aaliyah, Justin Timberlake, Destiny's Child and Usher.
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,763 likes - 128 songs - 8 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,045 likes - 128 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hNQN2Fv6Cy.md) - [plain]
 | 95 | [Wifey](https://open.spotify.com/track/3NEzjZbeSCy72Kx1clSYgC) | [Next](https://open.spotify.com/artist/2MGT7CYlixSPxAnnkhLpaA) | [Platinum & Gold Collection](https://open.spotify.com/album/6OlIbU9i7OaBrBqx7ZYAFS) | 4:03 |
 | 96 | [Right Here \- Human Nature Radio Mix](https://open.spotify.com/track/5u3FywQOPJ5O7ZAjm31cnq) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [Right Here](https://open.spotify.com/album/5mfslBbxkZtxhSfnB2u2Gj) | 3:46 |
 | 97 | [Never Leave You \(Uh Oooh, Uh Oooh\) \- Uh Oooh Remix](https://open.spotify.com/track/7h4T9TmS2uxOHYGOrc6wSM) | [Lumidee](https://open.spotify.com/artist/1IO0GVa1xjkFMXsg66FiE9), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [Almost Famous](https://open.spotify.com/album/6rqhiXmQNt6YmuavJhCVNv) | 3:32 |
-| 98 | [Dip It Low](https://open.spotify.com/track/73JCugW0hKqzGYGwXHVzQ4) | [Christina Milian](https://open.spotify.com/artist/4eAOcbAXIF4BmbN6E1QIlw) | [Dip It Low](https://open.spotify.com/album/3xY1zD84VivPdS2JMY7IY5) | 3:17 |
-| 99 | [Whatever \- Radio Edit](https://open.spotify.com/track/3tHAB8FI4rfULUHHG1d2Ct) | [Ideal](https://open.spotify.com/artist/2bK1rpFhmGkImiZNuUyHVT) | [Ideal](https://open.spotify.com/album/0sCYqD1xXtAvHiYETuTP0K) | 3:48 |
+| 98 | [Whatever \- Radio Edit](https://open.spotify.com/track/3tHAB8FI4rfULUHHG1d2Ct) | [Ideal](https://open.spotify.com/artist/2bK1rpFhmGkImiZNuUyHVT) | [Ideal](https://open.spotify.com/album/0sCYqD1xXtAvHiYETuTP0K) | 3:48 |
+| 99 | [Dip It Low](https://open.spotify.com/track/73JCugW0hKqzGYGwXHVzQ4) | [Christina Milian](https://open.spotify.com/artist/4eAOcbAXIF4BmbN6E1QIlw) | [Dip It Low](https://open.spotify.com/album/3xY1zD84VivPdS2JMY7IY5) | 3:17 |
 | 100 | [I'm Gonna Be Alright \(feat\. Nas\)](https://open.spotify.com/track/3SHSWxOXqCrw55LiXAB8J1) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Cory Rooney](https://open.spotify.com/artist/6v0jNVxRKCvjwXIU2SuqKo), [Poke and Tone](https://open.spotify.com/artist/7M8EwIpyu0mZ9oA8sqcsWj) | [This Is Me...Then](https://open.spotify.com/album/1l8TpRDfjJjKdtbzNtSycM) | 2:52 |
 | 101 | [Are You That Somebody?](https://open.spotify.com/track/2TNaQWWTeTyig2wsr1BNaL) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [I Care 4 U](https://open.spotify.com/album/0vqRNgbh25rbYpiZ2Ejv6s) | 4:25 |
 | 102 | [Trade It All, Pt\. 2 \(feat\. P\. Diddy & Jagged Edge\)](https://open.spotify.com/track/6h7PQQIUQSNSAWqRe98MBU) | [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp) | [Street Dreams \(Bonus Track\)](https://open.spotify.com/album/46tIBaFs0Ov0HJsCDrq1Kl) | 4:35 |
@@ -121,8 +121,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hNQN2Fv6Cy.md) - [plain]
 | 111 | [No, No, No Pt\. 2 \(feat\. Wyclef Jean\)](https://open.spotify.com/track/61cOjgiouWpx0VKGREZy4k) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) | [Destiny's Child](https://open.spotify.com/album/7LCfpsK9t0JnVeL3mtQ3dC) | 3:27 |
 | 112 | [Trick Me](https://open.spotify.com/track/3aImJnJlAgcE7bJ1NxthGt) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [Tasty](https://open.spotify.com/album/7zesXMFikT4DdgkklIk3Jz) | 3:26 |
 | 113 | [Oh Boy](https://open.spotify.com/track/4gdQ8QShlC3toP9Mkc8DwB) | [Cam'ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS), [Juelz Santana](https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb) | [Come Home With Me](https://open.spotify.com/album/4wn9wcP2D71SyiB7KbVKMy) | 3:24 |
-| 114 | [Like Glue](https://open.spotify.com/track/6pbCkvCENw0suVGr4Ckkae) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Dutty Rock](https://open.spotify.com/album/3nAwSh2fcp3M8voQKZS2as) | 3:52 |
-| 115 | [Hypnotize](https://open.spotify.com/track/2ujbOwvdiH020TO5EucGiX) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Life After Death \(Deluxe Version\)](https://open.spotify.com/album/2sRdk7s8ObFBEn3ZoPmE5r) | 3:50 |
+| 114 | [Hypnotize](https://open.spotify.com/track/2ujbOwvdiH020TO5EucGiX) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Life After Death \(Deluxe Version\)](https://open.spotify.com/album/2sRdk7s8ObFBEn3ZoPmE5r) | 3:50 |
+| 115 | [Like Glue](https://open.spotify.com/track/6pbCkvCENw0suVGr4Ckkae) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Dutty Rock](https://open.spotify.com/album/3nAwSh2fcp3M8voQKZS2as) | 3:52 |
 | 116 | [Livin' It Up](https://open.spotify.com/track/52gqeRlrBE7hqMlRxEsi6y) | [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6), [Case](https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy) | [Pain Is Love](https://open.spotify.com/album/2wMavIKnu6feFNOeQ1hVwf) | 4:17 |
 | 117 | [I'm Sprung](https://open.spotify.com/track/0F7rEdewJ6cSLylOZZpDu7) | [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Rappa Ternt Sanga](https://open.spotify.com/album/67kj88d9xbscqqG8EdMpIu) | 3:51 |
 | 118 | [Yo \(Excuse Me Miss\)](https://open.spotify.com/track/1zpu1PZ8ecmcX525Z3X8cl) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Chris Brown](https://open.spotify.com/album/2gRm1k9fVkhTfZDHvBI2sR) | 3:49 |

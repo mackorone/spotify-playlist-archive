@@ -4,7 +4,7 @@
 
 > Grüezi! This is 100% made in Switzerland\.  Cover: Linda Elys
 
-443 songs - 22 hr 51 min
+444 songs - 22 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Called In Advance](https://open.spotify.com/track/2GNRbMrtDoplUQ8jExQrwa) | [To Athena](https://open.spotify.com/artist/3sdOf3sXS7uXLIaPQL33fl) | [The Movie](https://open.spotify.com/album/2Hl58qQYSxGfAYb9dNIvLi) | 5:10 | 2025-05-01 | 2025-05-09 |
 | [Campari Soda](https://open.spotify.com/track/28Iqj8A8wvAU0daTlxYZsf) | [Taxi](https://open.spotify.com/artist/2A5SG2ci4aR0u6jLQ4yNbf) | [Campari Soda](https://open.spotify.com/album/4Lt2lCW8f7k42aNbSOhBJE) | 3:12 | 2025-04-17 | 2025-04-25 |
 | [Can](https://open.spotify.com/track/5WgC4W0XtrOaUK63WqsDAy) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [Can](https://open.spotify.com/album/0aWzHhNvUVfII5KkLsvLy9) | 3:21 | 2025-02-27 |  |
-| [Can't Be Loved](https://open.spotify.com/track/69H5EfyNRLIKd0WAPNQr0T) | [Bastian Baker](https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC) | [Can't Be Loved](https://open.spotify.com/album/5YmdC1mjV30uWAUfqT8uQo) | 2:51 | 2024-06-27 | 2025-11-15 |
+| [Can't Be Loved](https://open.spotify.com/track/69H5EfyNRLIKd0WAPNQr0T) | [Bastian Baker](https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC) | [Can't Be Loved](https://open.spotify.com/album/5YmdC1mjV30uWAUfqT8uQo) | 2:51 | 2024-06-27 |  |
 | [Caroline](https://open.spotify.com/track/0Y3OX3KZVsyG23qyV1JgYp) | [Nickless](https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea) | [Caroline](https://open.spotify.com/album/2t6x3lyAeeHDtPG8gfguE8) | 3:22 | 2025-05-22 |  |
 | [Casanova](https://open.spotify.com/track/4EhyAiwViE9iDnp2mVcOfV) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [Unexplainable](https://open.spotify.com/album/7j4sidrwHWHhP1bmdS3kaG) | 3:02 | 2025-05-16 | 2025-05-23 |
 | [Casanova](https://open.spotify.com/track/7DKqquL8njykv59YgLtJU9) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [Casanova](https://open.spotify.com/album/6iELgLhTy8AzINTUH2PQ1c) | 3:02 | 2025-05-22 |  |
@@ -120,6 +120,7 @@
 | [Ehrlich](https://open.spotify.com/track/2CpYkZOMP8Xmac4akYnAxF) | [Baschi](https://open.spotify.com/artist/6XzAV5lONpTgoSJDsF2Ubz) | [Ehrlich](https://open.spotify.com/album/3SxtFi80kNDFfnjSHBoZe3) | 3:50 | 2024-06-27 | 2025-09-13 |
 | [Ein bisschen Frieden](https://open.spotify.com/track/1NTjTztpbbrpbrkVLppj6c) | [San Silvan](https://open.spotify.com/artist/4MY0xfcyD9dLgbj27g59XT), [Steiner & Madlaina](https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg) | [Ein bisschen Frieden](https://open.spotify.com/album/7n5pZ8QBFhwjjft94495tQ) | 3:52 | 2024-12-20 | 2025-03-08 |
 | [Eisbär](https://open.spotify.com/track/6dO3t1e3pb7sxyDQbDyVNX) | [Grauzone](https://open.spotify.com/artist/2oNZUW4sR0AGXRyPExtFnW) | [Eisbär](https://open.spotify.com/album/6T7XaTroien9MaoWJZiUdE) | 4:48 | 2025-05-15 | 2025-05-23 |
+| [Emily](https://open.spotify.com/track/4cpbe6NFv4D6ZhhseFxzbn) | [Lost in Lona](https://open.spotify.com/artist/6GpX7OGPoZNG1GMbtbiOPD) | [The Killer](https://open.spotify.com/album/42fS5G4YXzoi4iz2pztDLP) | 3:43 | 2025-11-13 |  |
 | [En Lea](https://open.spotify.com/track/2js5S4h0pIFeHX0WLDOxwW) | [Muddy Monk](https://open.spotify.com/artist/5rv6OYiDFLm0gQ8wbihOib) | [Longue Ride](https://open.spotify.com/album/0e64skKjTvndxBV6BOea3d) | 3:51 | 2025-05-15 |  |
 | [ENEMY](https://open.spotify.com/track/2ml2U1MZUnXfnHPghzQZ7q) | [L Loko](https://open.spotify.com/artist/6iI54kPtuDGxFe6T3eIR53), [Drini](https://open.spotify.com/artist/5tRlhg6J2lBxI7Qb4IfL00) | [ENEMY](https://open.spotify.com/album/4PhWAyBtcNjqKvuATjgYMc) | 2:32 | 2025-03-07 | 2025-06-03 |
 | [Enough](https://open.spotify.com/track/0vgXEftdFm12zERrMkLqzH) | [Jared Lembo](https://open.spotify.com/artist/7m40p3LDka0BxsiX0tZT9g) | [Enough](https://open.spotify.com/album/40PbD4AUnhOJQD1y1qKlOh) | 2:40 | 2024-10-11 | 2024-12-08 |
@@ -266,7 +267,7 @@
 | [MEXENDO OMBRIN](https://open.spotify.com/track/4q4vNgUjbtSCjUiHfSBLae) | [BAHIANO](https://open.spotify.com/artist/1Eak86FtlSJpUcBi7TXEXA), [Attlanta](https://open.spotify.com/artist/62sBXKsvsgkuSZ93cQHDzr), [Trembart](https://open.spotify.com/artist/4rncj8X31QBuSSXiT5XiIR) | [MEXENDO OMBRIN](https://open.spotify.com/album/76M7ENrL7ywPCi0Nxorryx) | 2:19 | 2025-04-24 | 2025-05-02 |
 | [Mi Mundo](https://open.spotify.com/track/7b52XqwbhEFvsMMqO7YWLT) | [Loco Escrito](https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ) | [Mi Mundo](https://open.spotify.com/album/6g7qoedFwv2nEjuC05YDUq) | 2:56 | 2024-06-27 | 2024-07-18 |
 | [Migros oder Coop](https://open.spotify.com/track/7DK5IE6ynYeCFRWWqVh5zk) | [Fründe](https://open.spotify.com/artist/2wfimwYFeZLGY59D7cxc3c) | [Migros oder Coop](https://open.spotify.com/album/1cc3f0UR1Gk2L5C3GEEFxM) | 2:40 | 2025-05-08 | 2025-05-16 |
-| [Milchstrass \(feat\. Aaron Asteria\)](https://open.spotify.com/track/4gYy4OPpKdVYLtc600YjEc) | [Bligg](https://open.spotify.com/artist/1q4LHoD7IzquqGQR4YZRQr), [Aaron Asteria](https://open.spotify.com/artist/7DxUqzuXRoTBvna6yo5Mq8) | [Milchstrass \(feat\. Aaron Asteria\)](https://open.spotify.com/album/2FTCdDCysfUceC2dPBSKdL) | 3:57 | 2024-06-27 |  |
+| [Milchstrass \(feat\. Aaron Asteria\)](https://open.spotify.com/track/4gYy4OPpKdVYLtc600YjEc) | [Bligg](https://open.spotify.com/artist/1q4LHoD7IzquqGQR4YZRQr), [Aaron Asteria](https://open.spotify.com/artist/7DxUqzuXRoTBvna6yo5Mq8) | [Milchstrass \(feat\. Aaron Asteria\)](https://open.spotify.com/album/2FTCdDCysfUceC2dPBSKdL) | 3:57 | 2024-06-27 | 2025-11-17 |
 | [Million de Mois](https://open.spotify.com/track/3KM0f6MYQav0xwNwYKTpPI) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN) | [Million de Mois](https://open.spotify.com/album/2dd0VBYJZpZb0tSrqrcg2D) | 2:57 | 2025-07-10 |  |
 | [Minus das wo passiert](https://open.spotify.com/track/7zgYGu1Ny1cM4HlpKNO7BT) | [Lo & Leduc](https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe) | [Minus das wo passiert](https://open.spotify.com/album/1KDawvzQeeyzJGnHU3fHOV) | 2:16 | 2025-04-24 | 2025-05-02 |
 | [mistaken for a while \- OST Hundertdreizehn](https://open.spotify.com/track/4TecP7nifEow1WTBQaKuhh) | [The Gardener & The Tree](https://open.spotify.com/artist/1GarejqGHyKM1adTFnB4NN) | [mistaken for a while \(OST Hundertdreizehn\)](https://open.spotify.com/album/6j5RVTiV6OQZCGiumQiz5Z) | 5:10 | 2025-10-09 |  |
@@ -430,7 +431,7 @@
 | [Watergun](https://open.spotify.com/track/4ih4oGbMt9b6PbKhTPbAmw) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Watergun](https://open.spotify.com/album/6aBXNHeyTnhy5PooV2izJT) | 2:52 | 2024-06-27 |  |
 | [We Got Love](https://open.spotify.com/track/6o2HzZfazmewxdXpYufWRx) | [Chiara Castelli](https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33) | [We Got Love](https://open.spotify.com/album/2KBis9Of82TXR9ZDtwGrpL) | 2:20 | 2024-06-27 | 2024-10-20 |
 | [Weekend](https://open.spotify.com/track/3XiLkVWxjafBq4YcvtCqq8) | [Arma Jackson](https://open.spotify.com/artist/22I8wvU1Zw6EMiOt4W98BN) | [Été sans fin](https://open.spotify.com/album/5ya3DUeWCWz2gtftAC3tLH) | 2:24 | 2025-04-24 | 2025-05-02 |
-| [Weird Kid](https://open.spotify.com/track/6ChiiuzwA5FV2Szt22nJ7s) | [To Athena](https://open.spotify.com/artist/3sdOf3sXS7uXLIaPQL33fl) | [Weird Kid](https://open.spotify.com/album/5YBiuHnpqXl0UBC3tthNj6) | 3:45 | 2025-06-26 |  |
+| [Weird Kid](https://open.spotify.com/track/6ChiiuzwA5FV2Szt22nJ7s) | [To Athena](https://open.spotify.com/artist/3sdOf3sXS7uXLIaPQL33fl) | [Weird Kid](https://open.spotify.com/album/5YBiuHnpqXl0UBC3tthNj6) | 3:45 | 2025-06-26 | 2025-11-17 |
 | [Wenn Du Das Lied Ghörsch](https://open.spotify.com/track/4Iu56eMBRx5CN6l5m4M16o) | [Baschi](https://open.spotify.com/artist/6XzAV5lONpTgoSJDsF2Ubz) | [Fürs Volk](https://open.spotify.com/album/5LMk7KjAHAhOqEna4GNqZG) | 3:33 | 2025-05-01 | 2025-05-09 |
 | [Wer hats erfunden](https://open.spotify.com/track/0QDZw9cs0VnQzEol2DfGJh) | [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [Wer hats erfunden](https://open.spotify.com/album/52JBA7u2pkfcovbX91KTpm) | 2:12 | 2025-05-22 | 2025-09-13 |
 | [What If This World](https://open.spotify.com/track/5iij775fYn7KUTYJPX9SSw) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [What If This World](https://open.spotify.com/album/1sIyk17IVWsl7l5OGd8ZRr) | 3:39 | 2025-08-14 | 2025-10-29 |

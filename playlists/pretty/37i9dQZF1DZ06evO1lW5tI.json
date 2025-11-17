@@ -1,12 +1,12 @@
 {
   "description": "This is Khruangbin. The essential tracks, all in one playlist.",
-  "num_followers": 250031,
+  "num_followers": 250081,
   "original_name": "This Is Khruangbin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRZxAAAAAABiNRMk+HdRgjQ8TxXw/ef4",
+  "snapshot_id": "aRfCgAAAAABIlAHD+imvwTiP7BKnwYLf",
   "tracks": [
     {
       "added_at": null,
@@ -167,6 +167,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Universe Smiles Upon You ii",
+        "url": "https://open.spotify.com/album/45ZWDMMVK0N0Hd2p7fLTCB"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 109634,
+      "name": "The Man Who Took My Sunglasses ii",
+      "url": "https://open.spotify.com/track/6aG4gndzvSGopOEH6mSwh9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Texas Sun",
         "url": "https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz"
       },
@@ -187,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Calf Born in Winter",
-        "url": "https://open.spotify.com/album/4Jc3Vg4MHHDahhPWbHm8nM"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 209046,
-      "name": "A Calf Born In Winter",
-      "url": "https://open.spotify.com/track/3uR4I2H3X3CwNiwJOUPqlq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Universe Smiles Upon You",
         "url": "https://open.spotify.com/album/32MaUU5gk5Ig0nHC9G5VNX"
       },
@@ -219,38 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Universe Smiles Upon You ii",
-        "url": "https://open.spotify.com/album/45ZWDMMVK0N0Hd2p7fLTCB"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 109634,
-      "name": "The Man Who Took My Sunglasses ii",
-      "url": "https://open.spotify.com/track/6aG4gndzvSGopOEH6mSwh9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mordechai",
-        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 342189,
-      "name": "Time (You and I)",
-      "url": "https://open.spotify.com/track/0S3BtG3i5tkQmehJhIhHF3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Calf Born in Winter",
         "url": "https://open.spotify.com/album/4Jc3Vg4MHHDahhPWbHm8nM"
       },
@@ -260,25 +228,9 @@
           "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 219415,
-      "name": "The Recital that Never Happened",
-      "url": "https://open.spotify.com/track/30SbBmaPwspxQEwOhwojBG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Universe Smiles Upon You",
-        "url": "https://open.spotify.com/album/32MaUU5gk5Ig0nHC9G5VNX"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 219840,
-      "name": "Dern Kala",
-      "url": "https://open.spotify.com/track/4Fx8dpPrAtwSlg1XEwxMUF"
+      "duration_ms": 209046,
+      "name": "A Calf Born In Winter",
+      "url": "https://open.spotify.com/track/3uR4I2H3X3CwNiwJOUPqlq"
     },
     {
       "added_at": null,
@@ -308,15 +260,15 @@
           "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 167972,
-      "name": "Pelota",
-      "url": "https://open.spotify.com/track/6FNdzxV9g4NaINrejBTPUi"
+      "duration_ms": 342189,
+      "name": "Time (You and I)",
+      "url": "https://open.spotify.com/track/0S3BtG3i5tkQmehJhIhHF3"
     },
     {
       "added_at": null,
       "album": {
-        "name": "A LA SALA",
-        "url": "https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2"
+        "name": "The Universe Smiles Upon You",
+        "url": "https://open.spotify.com/album/32MaUU5gk5Ig0nHC9G5VNX"
       },
       "artists": [
         {
@@ -324,9 +276,57 @@
           "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 229437,
-      "name": "Hold Me Up (Thank You)",
-      "url": "https://open.spotify.com/track/0juMDnoo3u3uDJ32wjK2BF"
+      "duration_ms": 219840,
+      "name": "Dern Kala",
+      "url": "https://open.spotify.com/track/4Fx8dpPrAtwSlg1XEwxMUF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Calf Born in Winter",
+        "url": "https://open.spotify.com/album/4Jc3Vg4MHHDahhPWbHm8nM"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 219415,
+      "name": "The Recital that Never Happened",
+      "url": "https://open.spotify.com/track/30SbBmaPwspxQEwOhwojBG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Universe Smiles Upon You ii",
+        "url": "https://open.spotify.com/album/45ZWDMMVK0N0Hd2p7fLTCB"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 224688,
+      "name": "Dern Kala ii",
+      "url": "https://open.spotify.com/track/69nbehsKfuZHdQzlNtTVHW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mordechai",
+        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 167972,
+      "name": "Pelota",
+      "url": "https://open.spotify.com/track/6FNdzxV9g4NaINrejBTPUi"
     },
     {
       "added_at": null,
@@ -347,6 +347,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A LA SALA",
+        "url": "https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 229437,
+      "name": "Hold Me Up (Thank You)",
+      "url": "https://open.spotify.com/track/0juMDnoo3u3uDJ32wjK2BF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Universe Smiles Upon You ii",
         "url": "https://open.spotify.com/album/45ZWDMMVK0N0Hd2p7fLTCB"
       },
@@ -356,9 +372,9 @@
           "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 224688,
-      "name": "Dern Kala ii",
-      "url": "https://open.spotify.com/track/69nbehsKfuZHdQzlNtTVHW"
+      "duration_ms": 477560,
+      "name": "People Everywhere ii",
+      "url": "https://open.spotify.com/track/0zJigFPQL9x6i5meeJh801"
     },
     {
       "added_at": null,
@@ -383,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A LA SALA",
-        "url": "https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 178436,
-      "name": "Pon P\u00f3n",
-      "url": "https://open.spotify.com/track/41c8iFH2Q8n87lkrlaRZ1X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Universe Smiles Upon You",
         "url": "https://open.spotify.com/album/32MaUU5gk5Ig0nHC9G5VNX"
       },
@@ -415,6 +415,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A LA SALA",
+        "url": "https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 178436,
+      "name": "Pon P\u00f3n",
+      "url": "https://open.spotify.com/track/41c8iFH2Q8n87lkrlaRZ1X"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Universe Smiles Upon You ii",
         "url": "https://open.spotify.com/album/45ZWDMMVK0N0Hd2p7fLTCB"
       },
@@ -424,9 +440,9 @@
           "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 477560,
-      "name": "People Everywhere ii",
-      "url": "https://open.spotify.com/track/0zJigFPQL9x6i5meeJh801"
+      "duration_ms": 389074,
+      "name": "August Twelve ii",
+      "url": "https://open.spotify.com/track/4OTxVX45ULM1ykErAreiUf"
     },
     {
       "added_at": null,
@@ -492,9 +508,9 @@
           "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 389074,
-      "name": "August Twelve ii",
-      "url": "https://open.spotify.com/track/4OTxVX45ULM1ykErAreiUf"
+      "duration_ms": 315789,
+      "name": "Little Joe and Mary ii",
+      "url": "https://open.spotify.com/track/4yMzaFna7vVKKZ3J23KFda"
     },
     {
       "added_at": null,
@@ -515,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A LA SALA",
-        "url": "https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 124177,
-      "name": "Juegos y Nubes",
-      "url": "https://open.spotify.com/track/231a0JtwO0iYOeHsjbFVzI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Late Night Tales: Khruangbin",
         "url": "https://open.spotify.com/album/2pqebJQi4AP1zUFSHY561K"
       },
@@ -547,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Universe Smiles Upon You ii",
-        "url": "https://open.spotify.com/album/45ZWDMMVK0N0Hd2p7fLTCB"
+        "name": "A LA SALA",
+        "url": "https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2"
       },
       "artists": [
         {
@@ -556,25 +556,9 @@
           "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 315789,
-      "name": "Little Joe and Mary ii",
-      "url": "https://open.spotify.com/track/4yMzaFna7vVKKZ3J23KFda"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Infamous Bill",
-        "url": "https://open.spotify.com/album/0cBC8V1F4ABcmpmqJDIQgB"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 221218,
-      "name": "The No.4",
-      "url": "https://open.spotify.com/track/4hqW5pzyGljsAP7S9wjq7T"
+      "duration_ms": 124177,
+      "name": "Juegos y Nubes",
+      "url": "https://open.spotify.com/track/231a0JtwO0iYOeHsjbFVzI"
     },
     {
       "added_at": null,
@@ -595,6 +579,22 @@
       "duration_ms": 267200,
       "name": "Feel Good",
       "url": "https://open.spotify.com/track/3PURbsY67tLMyausOABtit"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Infamous Bill",
+        "url": "https://open.spotify.com/album/0cBC8V1F4ABcmpmqJDIQgB"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 221218,
+      "name": "The No.4",
+      "url": "https://open.spotify.com/track/4hqW5pzyGljsAP7S9wjq7T"
     },
     {
       "added_at": null,
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 242536,
-      "name": "C\u00f3mo Te Quiero",
-      "url": "https://open.spotify.com/track/6y9t7mXJVzBGQG4XhHy8Li"
+      "duration_ms": 190999,
+      "name": "Maria Tambi\u00e9n",
+      "url": "https://open.spotify.com/track/3CT4U4jJEagjIHg5PPph8X"
     },
     {
       "added_at": null,
@@ -828,9 +828,9 @@
           "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 190999,
-      "name": "Maria Tambi\u00e9n",
-      "url": "https://open.spotify.com/track/3CT4U4jJEagjIHg5PPph8X"
+      "duration_ms": 242536,
+      "name": "C\u00f3mo Te Quiero",
+      "url": "https://open.spotify.com/track/6y9t7mXJVzBGQG4XhHy8Li"
     },
     {
       "added_at": null,

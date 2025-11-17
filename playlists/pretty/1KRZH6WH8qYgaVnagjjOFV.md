@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1KRZH6WH8qYgaVnagjjOFV.md) - [plain]
 
 > Top Christian Hits 2025 \| Latest and greatest Christian songs of 2025\. NEW CHRISTIAN MUSIC!  New Music Friday! Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>\. Cover: <a href="https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2?si=QHxGAhkxR5CxBJUba7VwdA">Josiah Queen</a>
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 363,624 likes - 126 songs - 8 hr 11 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 363,819 likes - 126 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

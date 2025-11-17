@@ -1,6 +1,6 @@
 {
   "description": "De beste tunes op repeat. Cover: Jonna Fraser & Lil Kleine",
-  "num_followers": 140327,
+  "num_followers": 140325,
   "original_name": "Pull Up Hits",
   "owner": {
     "name": "Spotify",
@@ -307,6 +307,22 @@
     {
       "added_at": "2025-10-15 22:00:08",
       "album": {
+        "name": "Holy Ghost",
+        "url": "https://open.spotify.com/album/2mjQFCTzCQ3Up4RWHHpKMm"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 186153,
+      "name": "Holy Ghost",
+      "url": "https://open.spotify.com/track/5vqLQ8nrejrMf591htfM5u"
+    },
+    {
+      "added_at": "2025-10-15 22:00:08",
+      "album": {
         "name": "No Wahala (Remix)",
         "url": "https://open.spotify.com/album/1CuCITWTEr6lE2q3MraOSG"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 178413,
       "name": "No Wahala - Remix",
       "url": "https://open.spotify.com/track/4yaPPFIafaVaMRHZ5IHkbA"
-    },
-    {
-      "added_at": "2025-10-15 22:00:08",
-      "album": {
-        "name": "Holy Ghost",
-        "url": "https://open.spotify.com/album/2mjQFCTzCQ3Up4RWHHpKMm"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 186153,
-      "name": "Holy Ghost",
-      "url": "https://open.spotify.com/track/5vqLQ8nrejrMf591htfM5u"
     },
     {
       "added_at": "2025-10-15 22:00:08",
@@ -575,26 +575,6 @@
     {
       "added_at": "2025-10-15 22:00:08",
       "album": {
-        "name": "Damage",
-        "url": "https://open.spotify.com/album/3hQ8L8ZqfLGe2gXPNWXBrk"
-      },
-      "artists": [
-        {
-          "name": "Noano",
-          "url": "https://open.spotify.com/artist/5eDdy8QxB47JsLASK2FI1m"
-        },
-        {
-          "name": "Ronnie Flex",
-          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
-        }
-      ],
-      "duration_ms": 130615,
-      "name": "Damage",
-      "url": "https://open.spotify.com/track/1b6G5YNi5akoOpwlqnulH8"
-    },
-    {
-      "added_at": "2025-10-15 22:00:08",
-      "album": {
         "name": "Cough (Odo)",
         "url": "https://open.spotify.com/album/3j33Z0rLryDGCZFRhppoZq"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 176134,
       "name": "Cough (Odo)",
       "url": "https://open.spotify.com/track/0u2A4QNAMUyfQbgfVR3HvK"
+    },
+    {
+      "added_at": "2025-10-15 22:00:08",
+      "album": {
+        "name": "Damage",
+        "url": "https://open.spotify.com/album/3hQ8L8ZqfLGe2gXPNWXBrk"
+      },
+      "artists": [
+        {
+          "name": "Noano",
+          "url": "https://open.spotify.com/artist/5eDdy8QxB47JsLASK2FI1m"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        }
+      ],
+      "duration_ms": 130615,
+      "name": "Damage",
+      "url": "https://open.spotify.com/track/1b6G5YNi5akoOpwlqnulH8"
     },
     {
       "added_at": "2025-10-15 22:00:08",
@@ -655,26 +655,6 @@
     {
       "added_at": "2025-10-15 22:00:08",
       "album": {
-        "name": "Knock Knock 4",
-        "url": "https://open.spotify.com/album/3apJGrdwV3LmHRoLvXSn0f"
-      },
-      "artists": [
-        {
-          "name": "CHO",
-          "url": "https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R"
-        },
-        {
-          "name": "Idaly",
-          "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
-        }
-      ],
-      "duration_ms": 147116,
-      "name": "Niet Genoeg (feat. Idaly)",
-      "url": "https://open.spotify.com/track/5NNcU38EVLajKZbYydu6tR"
-    },
-    {
-      "added_at": "2025-10-15 22:00:08",
-      "album": {
         "name": "The Baddest",
         "url": "https://open.spotify.com/album/7KPEH7yiNZ3qDFcozl1xTV"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 171533,
       "name": "The Baddest",
       "url": "https://open.spotify.com/track/5L5wa7XXoPrleRSuwBiHHR"
+    },
+    {
+      "added_at": "2025-10-15 22:00:08",
+      "album": {
+        "name": "Knock Knock 4",
+        "url": "https://open.spotify.com/album/3apJGrdwV3LmHRoLvXSn0f"
+      },
+      "artists": [
+        {
+          "name": "CHO",
+          "url": "https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R"
+        },
+        {
+          "name": "Idaly",
+          "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
+        }
+      ],
+      "duration_ms": 147116,
+      "name": "Niet Genoeg (feat. Idaly)",
+      "url": "https://open.spotify.com/track/5NNcU38EVLajKZbYydu6tR"
     },
     {
       "added_at": "2025-10-15 22:00:08",
@@ -963,26 +963,6 @@
     {
       "added_at": "2025-10-15 22:00:08",
       "album": {
-        "name": "Wonderland",
-        "url": "https://open.spotify.com/album/1kXKhpGQNwFrHZmmzF6xJ4"
-      },
-      "artists": [
-        {
-          "name": "Kevin",
-          "url": "https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1"
-        },
-        {
-          "name": "KM",
-          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
-        }
-      ],
-      "duration_ms": 176892,
-      "name": "Darling",
-      "url": "https://open.spotify.com/track/7LtHyF0iUvR1g39UP6kI11"
-    },
-    {
-      "added_at": "2025-10-15 22:00:08",
-      "album": {
         "name": "Carrousel",
         "url": "https://open.spotify.com/album/7yTJXbUMRfyHnkRqoXtkLt"
       },
@@ -1019,6 +999,26 @@
       "duration_ms": 188160,
       "name": "Dansvloerkiller",
       "url": "https://open.spotify.com/track/47tS35fPyJjIHLk95OBeHc"
+    },
+    {
+      "added_at": "2025-10-15 22:00:08",
+      "album": {
+        "name": "Wonderland",
+        "url": "https://open.spotify.com/album/1kXKhpGQNwFrHZmmzF6xJ4"
+      },
+      "artists": [
+        {
+          "name": "Kevin",
+          "url": "https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1"
+        },
+        {
+          "name": "KM",
+          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
+        }
+      ],
+      "duration_ms": 176892,
+      "name": "Darling",
+      "url": "https://open.spotify.com/track/7LtHyF0iUvR1g39UP6kI11"
     },
     {
       "added_at": "2025-10-15 22:00:08",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2025-10-15 22:00:08",
       "album": {
-        "name": "Plenty Bars - EP",
-        "url": "https://open.spotify.com/album/71AOYMYwbLHEzH2UCDzQjk"
-      },
-      "artists": [
-        {
-          "name": "Kevin",
-          "url": "https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1"
-        }
-      ],
-      "duration_ms": 141552,
-      "name": "Bushokje",
-      "url": "https://open.spotify.com/track/5qeKjCFlvCwPlUK3zeBZfD"
-    },
-    {
-      "added_at": "2025-10-15 22:00:08",
-      "album": {
         "name": "Update",
         "url": "https://open.spotify.com/album/2HX58CDc9At5raER932yCf"
       },
@@ -1111,6 +1095,22 @@
     {
       "added_at": "2025-10-15 22:00:08",
       "album": {
+        "name": "Plenty Bars - EP",
+        "url": "https://open.spotify.com/album/71AOYMYwbLHEzH2UCDzQjk"
+      },
+      "artists": [
+        {
+          "name": "Kevin",
+          "url": "https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1"
+        }
+      ],
+      "duration_ms": 141552,
+      "name": "Bushokje",
+      "url": "https://open.spotify.com/track/5qeKjCFlvCwPlUK3zeBZfD"
+    },
+    {
+      "added_at": "2025-10-15 22:00:08",
+      "album": {
         "name": "Tiptop",
         "url": "https://open.spotify.com/album/02pGycUh9gWr3r1T7b2yQN"
       },
@@ -1135,8 +1135,8 @@
     {
       "added_at": "2025-10-15 22:00:08",
       "album": {
-        "name": "Lost & Found",
-        "url": "https://open.spotify.com/album/2UMTQXRwobqaIDJaYDsHN8"
+        "name": "Appel Mint Puur",
+        "url": "https://open.spotify.com/album/38hA8Zqn3mR4pO5us9D6uQ"
       },
       "artists": [
         {
@@ -1144,9 +1144,9 @@
           "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
         }
       ],
-      "duration_ms": 195643,
-      "name": "Lost & Found",
-      "url": "https://open.spotify.com/track/7kleqbfZAvPzMMiX1uxCin"
+      "duration_ms": 207430,
+      "name": "Appel Mint Puur",
+      "url": "https://open.spotify.com/track/3Pv2qL5XAHqx6j1L5ZkeY3"
     },
     {
       "added_at": "2025-10-15 22:00:08",
@@ -1235,8 +1235,8 @@
     {
       "added_at": "2025-10-15 22:00:08",
       "album": {
-        "name": "Appel Mint Puur",
-        "url": "https://open.spotify.com/album/38hA8Zqn3mR4pO5us9D6uQ"
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/2UMTQXRwobqaIDJaYDsHN8"
       },
       "artists": [
         {
@@ -1244,9 +1244,9 @@
           "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
         }
       ],
-      "duration_ms": 207430,
-      "name": "Appel Mint Puur",
-      "url": "https://open.spotify.com/track/3Pv2qL5XAHqx6j1L5ZkeY3"
+      "duration_ms": 195643,
+      "name": "Lost & Found",
+      "url": "https://open.spotify.com/track/7kleqbfZAvPzMMiX1uxCin"
     },
     {
       "added_at": "2025-10-15 22:00:08",
@@ -1379,26 +1379,18 @@
     {
       "added_at": "2025-10-15 22:00:08",
       "album": {
-        "name": "Loro Piana",
-        "url": "https://open.spotify.com/album/0egHLSkTArwzqumnOHzejS"
+        "name": "In De Nacht",
+        "url": "https://open.spotify.com/album/7B52kWwf8iXkjpA11lMDp0"
       },
       "artists": [
         {
-          "name": "Glades",
-          "url": "https://open.spotify.com/artist/2IrIxkfver7SZcOsFC0l6Q"
-        },
-        {
-          "name": "Henkie T",
-          "url": "https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El"
-        },
-        {
-          "name": "Josylvio",
-          "url": "https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx"
+          "name": "Shah",
+          "url": "https://open.spotify.com/artist/7lPPiwLIuHV5fPlN6jLi13"
         }
       ],
-      "duration_ms": 188160,
-      "name": "Loro Piana",
-      "url": "https://open.spotify.com/track/11sTBZXqq6nKIFHFRDBKnu"
+      "duration_ms": 150840,
+      "name": "In De Nacht",
+      "url": "https://open.spotify.com/track/2yiXHStn90Xf7i9DcFv4Wy"
     },
     {
       "added_at": "2025-10-15 22:00:08",
@@ -1427,18 +1419,26 @@
     {
       "added_at": "2025-10-15 22:00:08",
       "album": {
-        "name": "In De Nacht",
-        "url": "https://open.spotify.com/album/7B52kWwf8iXkjpA11lMDp0"
+        "name": "Loro Piana",
+        "url": "https://open.spotify.com/album/0egHLSkTArwzqumnOHzejS"
       },
       "artists": [
         {
-          "name": "Shah",
-          "url": "https://open.spotify.com/artist/7lPPiwLIuHV5fPlN6jLi13"
+          "name": "Glades",
+          "url": "https://open.spotify.com/artist/2IrIxkfver7SZcOsFC0l6Q"
+        },
+        {
+          "name": "Henkie T",
+          "url": "https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El"
+        },
+        {
+          "name": "Josylvio",
+          "url": "https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx"
         }
       ],
-      "duration_ms": 150840,
-      "name": "In De Nacht",
-      "url": "https://open.spotify.com/track/2yiXHStn90Xf7i9DcFv4Wy"
+      "duration_ms": 188160,
+      "name": "Loro Piana",
+      "url": "https://open.spotify.com/track/11sTBZXqq6nKIFHFRDBKnu"
     },
     {
       "added_at": "2025-10-15 22:00:08",
@@ -1795,26 +1795,26 @@
     {
       "added_at": "2025-10-15 22:00:08",
       "album": {
-        "name": "Spanje",
-        "url": "https://open.spotify.com/album/2wu6po7eDveSp9XYYNjeqF"
+        "name": "Sweety Darling",
+        "url": "https://open.spotify.com/album/2NtImoM1XD9dQefEpeQx9S"
       },
       "artists": [
         {
-          "name": "Ksix",
-          "url": "https://open.spotify.com/artist/2vzRN2N10AtxEHaxSIN1NR"
+          "name": "Young Ellens",
+          "url": "https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub"
         },
         {
-          "name": "J.FIZ",
-          "url": "https://open.spotify.com/artist/0XlmgJDA7Zqoyyreep2YpT"
+          "name": "Gio",
+          "url": "https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS"
         },
         {
-          "name": "Dylisa",
-          "url": "https://open.spotify.com/artist/1EZhPZUiU6c52gOAZLIcR2"
+          "name": "Fmg",
+          "url": "https://open.spotify.com/artist/2cZwVNd4sK0CCJ6BqY7U9H"
         }
       ],
-      "duration_ms": 141230,
-      "name": "Spanje",
-      "url": "https://open.spotify.com/track/5pFxWvLViHHkKBFiln1vij"
+      "duration_ms": 187086,
+      "name": "Sweety Darling",
+      "url": "https://open.spotify.com/track/1pT2D94nmsih5N9gqoV5bJ"
     },
     {
       "added_at": "2025-10-15 22:00:08",

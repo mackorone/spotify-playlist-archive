@@ -1996,7 +1996,7 @@
       ],
       "date_added": "2025-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-21",
+      "date_removed": null,
       "duration_ms": 160500,
       "name": "Alo Alo",
       "url": "https://open.spotify.com/track/1iX4wq3TAqkeVDG8VIK64y"
@@ -2346,7 +2346,7 @@
       ],
       "date_added": "2024-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-13",
+      "date_removed": null,
       "duration_ms": 147477,
       "name": "Amo, Amo",
       "url": "https://open.spotify.com/track/0gOjMBj92rLOX6M134LMMh"
@@ -11402,7 +11402,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-17",
       "duration_ms": 261294,
       "name": "DIN NOUA LA CEVA",
       "url": "https://open.spotify.com/track/4D7uOZreXdd4O212SymNGw"
@@ -12024,7 +12024,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-17",
       "duration_ms": 137875,
       "name": "Doua Bagaboante",
       "url": "https://open.spotify.com/track/2xcgKHm4xf4oQqCeIqyeV7"
@@ -12780,7 +12780,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-15",
+      "date_removed": null,
       "duration_ms": 157674,
       "name": "E Wow",
       "url": "https://open.spotify.com/track/3EejJyGv6Dj3V0R28gq3lg"
@@ -14106,7 +14106,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-17",
       "duration_ms": 143505,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/26L8DBVuNze7p4Awek9je5"
@@ -15896,7 +15896,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-12",
+      "date_removed": null,
       "duration_ms": 197226,
       "name": "Gabriela",
       "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
@@ -21620,7 +21620,7 @@
       ],
       "date_added": "2025-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-10",
+      "date_removed": null,
       "duration_ms": 186923,
       "name": "KIM K",
       "url": "https://open.spotify.com/track/4WRdEbfgaTrVgpJ2M4u21p"
@@ -23554,7 +23554,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-17",
       "duration_ms": 166294,
       "name": "LSD",
       "url": "https://open.spotify.com/track/4Ktg9LdNrudJrrl8A15oZT"
@@ -24689,6 +24689,24 @@
     },
     {
       "album": {
+        "name": "Mananca gagica bio",
+        "url": "https://open.spotify.com/album/6UPChqSKTa8IkTU3YGtBtz"
+      },
+      "artists": [
+        {
+          "name": "Tzanca Uraganu",
+          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
+        }
+      ],
+      "date_added": "2025-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Mananca gagica bio",
+      "url": "https://open.spotify.com/track/1aNgsgAip1JfeFNkWVM4hv"
+    },
+    {
+      "album": {
         "name": "Manca-Ti-as Hazu",
         "url": "https://open.spotify.com/album/2rBQZVtyDI9tSiVbECXhbb"
       },
@@ -25334,7 +25352,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-05",
+      "date_removed": null,
       "duration_ms": 159858,
       "name": "Meneaito",
       "url": "https://open.spotify.com/track/4Cy1wIbi2TGoiCBXE9qBID"
@@ -30724,7 +30742,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-16",
+      "date_removed": null,
       "duration_ms": 171878,
       "name": "Perdoname",
       "url": "https://open.spotify.com/track/6wZGcl9qrUvlzrX1S1aci4"
@@ -30818,7 +30836,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-17",
       "duration_ms": 127200,
       "name": "PETER PARKER",
       "url": "https://open.spotify.com/track/6IMQap1ZjMh6KR5Is2rhuR"
@@ -35838,7 +35856,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-17",
       "duration_ms": 142000,
       "name": "sexyZ",
       "url": "https://open.spotify.com/track/2G7zweQ25yC9xHNIGEuvcb"
@@ -42342,7 +42360,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-17",
       "duration_ms": 174262,
       "name": "TURN UP",
       "url": "https://open.spotify.com/track/3ooz6wBRXYBADTDA0yt6iD"
@@ -43320,7 +43338,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-17",
       "duration_ms": 162919,
       "name": "VENOM",
       "url": "https://open.spotify.com/track/6E7brNSTwarnzmVrtdsuy4"

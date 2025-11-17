@@ -1,12 +1,12 @@
 {
   "description": "This is Charli xcx. The essential tracks, all in one playlist.",
-  "num_followers": 180065,
+  "num_followers": 180096,
   "original_name": "This Is Charli xcx",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRZxAAAAAAA0MdcUi3QaPdCPG6KdZj40",
+  "snapshot_id": "aRfCgAAAAAAiuElury66GuJ3BFoWX4/A",
   "tracks": [
     {
       "added_at": null,
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         }
       ],
-      "duration_ms": 136614,
-      "name": "Good Ones",
-      "url": "https://open.spotify.com/track/2grSOc6HNTXQQXNoRKt9UM"
+      "duration_ms": 189373,
+      "name": "Constant Repeat",
+      "url": "https://open.spotify.com/track/0U9ltIN4q3aBKGZDZq5cAW"
     },
     {
       "added_at": null,
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         }
       ],
-      "duration_ms": 189373,
-      "name": "Constant Repeat",
-      "url": "https://open.spotify.com/track/0U9ltIN4q3aBKGZDZq5cAW"
+      "duration_ms": 136614,
+      "name": "Good Ones",
+      "url": "https://open.spotify.com/track/2grSOc6HNTXQQXNoRKt9UM"
     },
     {
       "added_at": null,
@@ -807,22 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "how i'm feeling now",
-        "url": "https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 124066,
-      "name": "pink diamond",
-      "url": "https://open.spotify.com/track/3V0PgcsUMlAGXwCD0084pY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SUCKER",
         "url": "https://open.spotify.com/album/2fGpw56D35My0c82eNfKJF"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 203907,
       "name": "Break the Rules",
       "url": "https://open.spotify.com/track/70ebKSMHvkUSg7JXgUz74Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "how i'm feeling now",
+        "url": "https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 124066,
+      "name": "pink diamond",
+      "url": "https://open.spotify.com/track/3V0PgcsUMlAGXwCD0084pY"
     },
     {
       "added_at": null,

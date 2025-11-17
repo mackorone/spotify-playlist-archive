@@ -1,6 +1,6 @@
 {
   "description": "New indie from black artists driving the current. Cover: John Glacier",
-  "num_followers": 57576,
+  "num_followers": 57582,
   "original_name": "Indie Frequency",
   "owner": {
     "name": "Spotify",
@@ -699,6 +699,22 @@
     {
       "added_at": "2025-06-13 18:04:13",
       "album": {
+        "name": "Reach Out And Kiss Me",
+        "url": "https://open.spotify.com/album/1QWOmlkjOJFF7f39IAsRUX"
+      },
+      "artists": [
+        {
+          "name": "Love Spells",
+          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
+        }
+      ],
+      "duration_ms": 210691,
+      "name": "Reach Out And Kiss Me",
+      "url": "https://open.spotify.com/track/59Qv0E4uhUEdJIElLFiN8N"
+    },
+    {
+      "added_at": "2025-06-13 18:04:13",
+      "album": {
         "name": "Flood",
         "url": "https://open.spotify.com/album/2W71nSL9RnbhRvnlwDlmT1"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 167544,
       "name": "Flood",
       "url": "https://open.spotify.com/track/6xTHApbdtb0GZEHqpKe2MU"
-    },
-    {
-      "added_at": "2025-06-13 18:04:13",
-      "album": {
-        "name": "Reach Out And Kiss Me",
-        "url": "https://open.spotify.com/album/1QWOmlkjOJFF7f39IAsRUX"
-      },
-      "artists": [
-        {
-          "name": "Love Spells",
-          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
-        }
-      ],
-      "duration_ms": 210691,
-      "name": "Reach Out And Kiss Me",
-      "url": "https://open.spotify.com/track/59Qv0E4uhUEdJIElLFiN8N"
     },
     {
       "added_at": "2025-06-13 18:04:13",

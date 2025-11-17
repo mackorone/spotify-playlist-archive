@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIO2QWRavWZ.md) - [plain]
 
 > New music from your favorite women\.  Cover: Jai'len Josey
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,212 likes - 106 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,238 likes - 106 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

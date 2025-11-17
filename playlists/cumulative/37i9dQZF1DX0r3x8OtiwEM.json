@@ -1528,7 +1528,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-17",
       "duration_ms": 120853,
       "name": "BOY (ZACARIA)",
       "url": "https://open.spotify.com/track/04sAktFgPACZPDeiXV09PL"
@@ -4133,6 +4133,28 @@
     },
     {
       "album": {
+        "name": "Eyes On Me",
+        "url": "https://open.spotify.com/album/3fZj8YWdyRjx5Zuk79BhRU"
+      },
+      "artists": [
+        {
+          "name": "Nicole Moudaber",
+          "url": "https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe"
+        },
+        {
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218978,
+      "name": "Eyes On Me",
+      "url": "https://open.spotify.com/track/3pXKGIgJ9tLCDIplmLdGHj"
+    },
+    {
+      "album": {
         "name": "Fading",
         "url": "https://open.spotify.com/album/52BqwuUYV9KTvX1jStO5Y9"
       },
@@ -5312,7 +5334,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-17",
       "duration_ms": 205714,
       "name": "Heal My Mind",
       "url": "https://open.spotify.com/track/1i3rncFmCIJfIm24QAjfsG"
@@ -7764,6 +7786,32 @@
       "duration_ms": 464545,
       "name": "Mayhem",
       "url": "https://open.spotify.com/track/6OJKnaeNbqSgamGZ6IIGz1"
+    },
+    {
+      "album": {
+        "name": "Meet Me",
+        "url": "https://open.spotify.com/album/1GthDfKWmqsKkxlXII6rG5"
+      },
+      "artists": [
+        {
+          "name": "Mathame",
+          "url": "https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS"
+        },
+        {
+          "name": "JONOS",
+          "url": "https://open.spotify.com/artist/1pbStEEJ96l2EaeZyTqzjh"
+        },
+        {
+          "name": "Son of Son",
+          "url": "https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Meet Me",
+      "url": "https://open.spotify.com/track/5NIh6RvA8hOV31OnQGdk4d"
     },
     {
       "album": {

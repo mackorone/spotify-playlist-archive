@@ -1,6 +1,6 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors. Cover: KETTAMA",
-  "num_followers": 50270,
+  "num_followers": 50284,
   "original_name": "Editors' Picks: Best Songs of October",
   "owner": {
     "name": "Spotify",
@@ -259,22 +259,6 @@
     {
       "added_at": "2025-11-04 21:00:27",
       "album": {
-        "name": "Son Of Spergy",
-        "url": "https://open.spotify.com/album/115s3YJqm6iLblABdjtgzQ"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 265000,
-      "name": "Root of all Evil",
-      "url": "https://open.spotify.com/track/0NZKfcua68wuZePhjp8N2I"
-    },
-    {
-      "added_at": "2025-11-04 21:00:27",
-      "album": {
         "name": "No Voy A Cambiar",
         "url": "https://open.spotify.com/album/1kgLWHrvpuZuZ40DguJmbf"
       },
@@ -295,6 +279,22 @@
     {
       "added_at": "2025-11-04 21:00:27",
       "album": {
+        "name": "Son Of Spergy",
+        "url": "https://open.spotify.com/album/115s3YJqm6iLblABdjtgzQ"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 265000,
+      "name": "Root of all Evil",
+      "url": "https://open.spotify.com/track/0NZKfcua68wuZePhjp8N2I"
+    },
+    {
+      "added_at": "2025-11-04 21:00:27",
+      "album": {
         "name": "Melt",
         "url": "https://open.spotify.com/album/4Arf0rqtYsnJ5hhscuqCLB"
       },
@@ -307,6 +307,22 @@
       "duration_ms": 212336,
       "name": "Slip",
       "url": "https://open.spotify.com/track/3bUUZznrg3tbLYSM0vMXRo"
+    },
+    {
+      "added_at": "2025-11-04 21:00:27",
+      "album": {
+        "name": "Cherry Valley",
+        "url": "https://open.spotify.com/album/5cBseH5iReybVachkE0BMA"
+      },
+      "artists": [
+        {
+          "name": "Carter Faith",
+          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
+        }
+      ],
+      "duration_ms": 174666,
+      "name": "Betty",
+      "url": "https://open.spotify.com/track/6QN5ClFa3Ul4kFzsdw3Z8t"
     },
     {
       "added_at": "2025-11-04 21:00:27",
@@ -327,22 +343,6 @@
       "duration_ms": 127830,
       "name": "Noises + JT",
       "url": "https://open.spotify.com/track/36e4mRTGXQL283nBFSA9Tv"
-    },
-    {
-      "added_at": "2025-11-04 21:00:27",
-      "album": {
-        "name": "Cherry Valley",
-        "url": "https://open.spotify.com/album/5cBseH5iReybVachkE0BMA"
-      },
-      "artists": [
-        {
-          "name": "Carter Faith",
-          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
-        }
-      ],
-      "duration_ms": 174666,
-      "name": "Betty",
-      "url": "https://open.spotify.com/track/6QN5ClFa3Ul4kFzsdw3Z8t"
     },
     {
       "added_at": "2025-11-04 21:00:27",
@@ -403,22 +403,6 @@
     {
       "added_at": "2025-11-04 21:00:27",
       "album": {
-        "name": "Dearly Missed",
-        "url": "https://open.spotify.com/album/2Y5moL7gzsUqrcDrjpsqHS"
-      },
-      "artists": [
-        {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
-        }
-      ],
-      "duration_ms": 360720,
-      "name": "Dearly Missed",
-      "url": "https://open.spotify.com/track/1FolOCn6zNFCfqMrV7jdWP"
-    },
-    {
-      "added_at": "2025-11-04 21:00:27",
-      "album": {
         "name": "baby",
         "url": "https://open.spotify.com/album/50qzmXH7hqkEaUkHwX8wzr"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 183269,
       "name": "baby",
       "url": "https://open.spotify.com/track/5Oq6iKIWE3Q1i3G2fES5Oc"
+    },
+    {
+      "added_at": "2025-11-04 21:00:27",
+      "album": {
+        "name": "Dearly Missed",
+        "url": "https://open.spotify.com/album/2Y5moL7gzsUqrcDrjpsqHS"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "duration_ms": 360720,
+      "name": "Dearly Missed",
+      "url": "https://open.spotify.com/track/1FolOCn6zNFCfqMrV7jdWP"
     },
     {
       "added_at": "2025-11-04 21:00:27",
@@ -575,26 +575,6 @@
     {
       "added_at": "2025-11-04 21:00:27",
       "album": {
-        "name": "Trist\u00e1n, Ahora Con Reloj",
-        "url": "https://open.spotify.com/album/7oDxt14IyAbiLAxlCMLHEe"
-      },
-      "artists": [
-        {
-          "name": "TRIST\u00c1N!",
-          "url": "https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0"
-        },
-        {
-          "name": "Guitarricadelafuente",
-          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
-        }
-      ],
-      "duration_ms": 200906,
-      "name": "Estoy Am\u00e1ndote Tan Fuerte",
-      "url": "https://open.spotify.com/track/5PlYq2BQAdoCvfPaMnqjXg"
-    },
-    {
-      "added_at": "2025-11-04 21:00:27",
-      "album": {
         "name": "Hypersilent",
         "url": "https://open.spotify.com/album/0dUwtvMnpFyiUq7CO5hWBb"
       },
@@ -647,6 +627,26 @@
       "duration_ms": 207421,
       "name": "Wholesale Anthem",
       "url": "https://open.spotify.com/track/76amMtyRHVVa2mpIuclM9l"
+    },
+    {
+      "added_at": "2025-11-04 21:00:27",
+      "album": {
+        "name": "Trist\u00e1n, Ahora Con Reloj",
+        "url": "https://open.spotify.com/album/7oDxt14IyAbiLAxlCMLHEe"
+      },
+      "artists": [
+        {
+          "name": "TRIST\u00c1N!",
+          "url": "https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0"
+        },
+        {
+          "name": "Guitarricadelafuente",
+          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
+        }
+      ],
+      "duration_ms": 200906,
+      "name": "Estoy Am\u00e1ndote Tan Fuerte",
+      "url": "https://open.spotify.com/track/5PlYq2BQAdoCvfPaMnqjXg"
     },
     {
       "added_at": "2025-11-04 21:00:27",
@@ -767,22 +767,6 @@
     {
       "added_at": "2025-11-04 21:00:27",
       "album": {
-        "name": "A BUG'S LIFE",
-        "url": "https://open.spotify.com/album/112vEhb67dIIWu6QOQB8qh"
-      },
-      "artists": [
-        {
-          "name": "Sudan Archives",
-          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
-        }
-      ],
-      "duration_ms": 187533,
-      "name": "A BUG'S LIFE",
-      "url": "https://open.spotify.com/track/2Bb9jsaeHdjnDy6ZGIM5tY"
-    },
-    {
-      "added_at": "2025-11-04 21:00:27",
-      "album": {
         "name": "ALL MY ANGELS",
         "url": "https://open.spotify.com/album/6r1dO7jcuNo8xP4mESY0Er"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 181012,
       "name": "ALL MY ANGELS",
       "url": "https://open.spotify.com/track/1U3UoJ4VxuTI8mlD4zOI8x"
+    },
+    {
+      "added_at": "2025-11-04 21:00:27",
+      "album": {
+        "name": "A BUG'S LIFE",
+        "url": "https://open.spotify.com/album/112vEhb67dIIWu6QOQB8qh"
+      },
+      "artists": [
+        {
+          "name": "Sudan Archives",
+          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
+        }
+      ],
+      "duration_ms": 187533,
+      "name": "A BUG'S LIFE",
+      "url": "https://open.spotify.com/track/2Bb9jsaeHdjnDy6ZGIM5tY"
     },
     {
       "added_at": "2025-11-04 21:00:27",
@@ -835,22 +835,6 @@
     {
       "added_at": "2025-11-04 21:00:27",
       "album": {
-        "name": "Incurable Optimist",
-        "url": "https://open.spotify.com/album/1Aq9I9rA3kOyrrLJaoY5um"
-      },
-      "artists": [
-        {
-          "name": "Hohnen Ford",
-          "url": "https://open.spotify.com/artist/34c3b95E9ZQPMPapPOv8RW"
-        }
-      ],
-      "duration_ms": 200964,
-      "name": "Tomorrow's Tomorrow",
-      "url": "https://open.spotify.com/track/7LajHAuV0nHMFvFGsU1FAU"
-    },
-    {
-      "added_at": "2025-11-04 21:00:27",
-      "album": {
         "name": "Worldwide",
         "url": "https://open.spotify.com/album/1Lej9DPOh2ljmeiyKTFHrz"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 191542,
       "name": "Star 6 9",
       "url": "https://open.spotify.com/track/0e2aRqnNEkLc1NDgVpfSuP"
+    },
+    {
+      "added_at": "2025-11-04 21:00:27",
+      "album": {
+        "name": "Incurable Optimist",
+        "url": "https://open.spotify.com/album/1Aq9I9rA3kOyrrLJaoY5um"
+      },
+      "artists": [
+        {
+          "name": "Hohnen Ford",
+          "url": "https://open.spotify.com/artist/34c3b95E9ZQPMPapPOv8RW"
+        }
+      ],
+      "duration_ms": 200964,
+      "name": "Tomorrow's Tomorrow",
+      "url": "https://open.spotify.com/track/7LajHAuV0nHMFvFGsU1FAU"
     },
     {
       "added_at": "2025-11-04 21:00:27",

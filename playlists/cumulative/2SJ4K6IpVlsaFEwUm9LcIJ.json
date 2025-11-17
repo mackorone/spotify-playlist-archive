@@ -5419,6 +5419,24 @@
     },
     {
       "album": {
+        "name": "Horse County",
+        "url": "https://open.spotify.com/album/3B0xXGGFKGbLZzJ2yuJNNS"
+      },
+      "artists": [
+        {
+          "name": "YeYe",
+          "url": "https://open.spotify.com/artist/2YUe21UG1hJsuhy9E3bzxp"
+        }
+      ],
+      "date_added": "2025-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211924,
+      "name": "Horse County",
+      "url": "https://open.spotify.com/track/70lW1sv0qx7SsTEOyXBFT9"
+    },
+    {
+      "album": {
         "name": "Hole Erth",
         "url": "https://open.spotify.com/album/0rGj6027LrBwC5filFlrVe"
       },

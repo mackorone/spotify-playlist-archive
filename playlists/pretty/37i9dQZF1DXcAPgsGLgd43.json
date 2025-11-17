@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb with Gordo",
-  "num_followers": 102864,
+  "num_followers": 102911,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -843,22 +843,6 @@
     {
       "added_at": "2025-11-14 05:00:32",
       "album": {
-        "name": "Patadas de Ahogado / LAT\u00cdN MAFIA, HUMBE (Rework)",
-        "url": "https://open.spotify.com/album/4XNpw8KZFcml3E0wz4ZyYx"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        }
-      ],
-      "duration_ms": 186341,
-      "name": "Patadas de Ahogado / LAT\u00cdN MAFIA, HUMBE - Rework",
-      "url": "https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg"
-    },
-    {
-      "added_at": "2025-11-14 05:00:32",
-      "album": {
         "name": "Baiana",
         "url": "https://open.spotify.com/album/2s8PZkaN35LVwWMoUVEExE"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 116250,
       "name": "Baiana",
       "url": "https://open.spotify.com/track/0xEbe8QpLVSBX6E0wxeS5l"
+    },
+    {
+      "added_at": "2025-11-14 05:00:32",
+      "album": {
+        "name": "Patadas de Ahogado / LAT\u00cdN MAFIA, HUMBE (Rework)",
+        "url": "https://open.spotify.com/album/4XNpw8KZFcml3E0wz4ZyYx"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        }
+      ],
+      "duration_ms": 186341,
+      "name": "Patadas de Ahogado / LAT\u00cdN MAFIA, HUMBE - Rework",
+      "url": "https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg"
     },
     {
       "added_at": "2025-11-14 05:00:32",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2025-11-14 05:00:32",
       "album": {
+        "name": "La Samba",
+        "url": "https://open.spotify.com/album/78EiNoZY04IBAcmENGRyYq"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6bZ11vzZLe2XZhvgLVcZum"
+        }
+      ],
+      "duration_ms": 150476,
+      "name": "La Samba",
+      "url": "https://open.spotify.com/track/7pLBRrgdyTlDqDKUEq7HFr"
+    },
+    {
+      "added_at": "2025-11-14 05:00:32",
+      "album": {
         "name": "Morenita",
         "url": "https://open.spotify.com/album/1tVe5NkJfNSwnEArPYH5Yr"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 136088,
       "name": "Coroa",
       "url": "https://open.spotify.com/track/7tgVdw3YmgZe2JyFHxpmq3"
-    },
-    {
-      "added_at": "2025-11-14 05:00:32",
-      "album": {
-        "name": "La Samba",
-        "url": "https://open.spotify.com/album/78EiNoZY04IBAcmENGRyYq"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6bZ11vzZLe2XZhvgLVcZum"
-        }
-      ],
-      "duration_ms": 150476,
-      "name": "La Samba",
-      "url": "https://open.spotify.com/track/7pLBRrgdyTlDqDKUEq7HFr"
     },
     {
       "added_at": "2025-11-14 05:00:32",
@@ -1823,50 +1823,6 @@
     {
       "added_at": "2025-11-14 05:00:32",
       "album": {
-        "name": "Piquete Cabron",
-        "url": "https://open.spotify.com/album/3o4xW1GtO6jmOItDsJdkzq"
-      },
-      "artists": [
-        {
-          "name": "Tom Enzy",
-          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
-        },
-        {
-          "name": "Pensi\u00f3n",
-          "url": "https://open.spotify.com/artist/0keK1LwbYlAeAwmM00q8PM"
-        },
-        {
-          "name": "Bray",
-          "url": "https://open.spotify.com/artist/2D3KD8asLccXu0Fp3TQuHn"
-        }
-      ],
-      "duration_ms": 162580,
-      "name": "Piquete Cabron",
-      "url": "https://open.spotify.com/track/1mmgm9xT14LpjzLPtujjMJ"
-    },
-    {
-      "added_at": "2025-11-14 05:00:32",
-      "album": {
-        "name": "Noche Y Dia",
-        "url": "https://open.spotify.com/album/7f8GZCsm9oouiSvTKrYtxs"
-      },
-      "artists": [
-        {
-          "name": "Calussa",
-          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
-        },
-        {
-          "name": "Fuego",
-          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
-        }
-      ],
-      "duration_ms": 152601,
-      "name": "Noche Y Dia",
-      "url": "https://open.spotify.com/track/0wxPlfCVEGPBgqxwziRwJa"
-    },
-    {
-      "added_at": "2025-11-14 05:00:32",
-      "album": {
         "name": "Rulay",
         "url": "https://open.spotify.com/album/1kEPi6brGvWW5y2ryQPwgN"
       },
@@ -1891,6 +1847,26 @@
     {
       "added_at": "2025-11-14 05:00:32",
       "album": {
+        "name": "Noche Y Dia",
+        "url": "https://open.spotify.com/album/7f8GZCsm9oouiSvTKrYtxs"
+      },
+      "artists": [
+        {
+          "name": "Calussa",
+          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
+        },
+        {
+          "name": "Fuego",
+          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
+        }
+      ],
+      "duration_ms": 152601,
+      "name": "Noche Y Dia",
+      "url": "https://open.spotify.com/track/0wxPlfCVEGPBgqxwziRwJa"
+    },
+    {
+      "added_at": "2025-11-14 05:00:32",
+      "album": {
         "name": "Marrakesh",
         "url": "https://open.spotify.com/album/4JFwSZw2uFMTjI7eCtUJ4y"
       },
@@ -1907,18 +1883,26 @@
     {
       "added_at": "2025-11-14 05:00:32",
       "album": {
-        "name": "Dame De Eso",
-        "url": "https://open.spotify.com/album/4WvuIoyZFw4jLWCUNcQXEy"
+        "name": "Piquete Cabron",
+        "url": "https://open.spotify.com/album/3o4xW1GtO6jmOItDsJdkzq"
       },
       "artists": [
         {
-          "name": "Wade",
-          "url": "https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR"
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        },
+        {
+          "name": "Pensi\u00f3n",
+          "url": "https://open.spotify.com/artist/0keK1LwbYlAeAwmM00q8PM"
+        },
+        {
+          "name": "Bray",
+          "url": "https://open.spotify.com/artist/2D3KD8asLccXu0Fp3TQuHn"
         }
       ],
-      "duration_ms": 214153,
-      "name": "Dame De Eso",
-      "url": "https://open.spotify.com/track/5JOnEA0t4lW9ZAR3NB6AhP"
+      "duration_ms": 162580,
+      "name": "Piquete Cabron",
+      "url": "https://open.spotify.com/track/1mmgm9xT14LpjzLPtujjMJ"
     },
     {
       "added_at": "2025-11-14 05:00:32",
@@ -1939,6 +1923,22 @@
     {
       "added_at": "2025-11-14 05:00:32",
       "album": {
+        "name": "Dame De Eso",
+        "url": "https://open.spotify.com/album/4WvuIoyZFw4jLWCUNcQXEy"
+      },
+      "artists": [
+        {
+          "name": "Wade",
+          "url": "https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR"
+        }
+      ],
+      "duration_ms": 214153,
+      "name": "Dame De Eso",
+      "url": "https://open.spotify.com/track/5JOnEA0t4lW9ZAR3NB6AhP"
+    },
+    {
+      "added_at": "2025-11-14 05:00:32",
+      "album": {
         "name": "Sin Pero",
         "url": "https://open.spotify.com/album/08fzl82SQEQttAUCUhw5lo"
       },
@@ -1951,6 +1951,34 @@
       "duration_ms": 159374,
       "name": "Sin Pero",
       "url": "https://open.spotify.com/track/00cZ6btKe7o8TECVLBpIXR"
+    },
+    {
+      "added_at": "2025-11-14 05:00:32",
+      "album": {
+        "name": "La Buena Vida (feat. Tayson Kryss)",
+        "url": "https://open.spotify.com/album/2HIc2AaPKvkU6APeLBwN0T"
+      },
+      "artists": [
+        {
+          "name": "JOHN ELLE",
+          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
+        },
+        {
+          "name": "LiL CaKe",
+          "url": "https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z"
+        },
+        {
+          "name": "Albert Breaker",
+          "url": "https://open.spotify.com/artist/7ARLlH0R0zY7aeLrzeUYIf"
+        },
+        {
+          "name": "Tayson Kryss",
+          "url": "https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7"
+        }
+      ],
+      "duration_ms": 137963,
+      "name": "La Buena Vida (feat. Tayson Kryss)",
+      "url": "https://open.spotify.com/track/0VpQieuQ6vS00yknO16eGy"
     },
     {
       "added_at": "2025-11-14 05:00:32",
@@ -1975,22 +2003,6 @@
       "duration_ms": 157500,
       "name": "Noventa (with J Balvin) - Tony Romera Remix",
       "url": "https://open.spotify.com/track/3RLVNDwFp3dVcdMnmhM8Kh"
-    },
-    {
-      "added_at": "2025-11-14 05:00:32",
-      "album": {
-        "name": "Como Se Llama",
-        "url": "https://open.spotify.com/album/2OUgnZvY9qxz9aCbnxrcTK"
-      },
-      "artists": [
-        {
-          "name": "Tony Romera",
-          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
-        }
-      ],
-      "duration_ms": 161250,
-      "name": "Como Se Llama",
-      "url": "https://open.spotify.com/track/3DgKAnFjBdfB9s3UVMbkqt"
     },
     {
       "added_at": "2025-11-14 05:00:32",

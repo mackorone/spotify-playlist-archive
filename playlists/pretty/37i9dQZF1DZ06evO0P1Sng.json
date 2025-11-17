@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRZxAAAAAABUO3e4MyQlx530YVPo7DFA",
+  "snapshot_id": "aRfCgAAAAABviUIZoNSb/KeyUcej4iJq",
   "tracks": [
     {
       "added_at": null,
@@ -439,26 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todos Contra 1",
-        "url": "https://open.spotify.com/album/58YnsBjxrlUOMwgFw44GHd"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Felixxx",
-          "url": "https://open.spotify.com/artist/1iOEXBqcRUWxN5tBxESHxZ"
-        }
-      ],
-      "duration_ms": 163298,
-      "name": "Todos Contra 1",
-      "url": "https://open.spotify.com/track/2bF02iYjemsTLSeOwb9wm7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trof\u00e9u",
         "url": "https://open.spotify.com/album/5M274S1cUS8suxN7aD4hvp"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 163428,
       "name": "60K - Remix",
       "url": "https://open.spotify.com/track/4tRhRB2kJQLosmNCWrIsLw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Todos Contra 1",
+        "url": "https://open.spotify.com/album/58YnsBjxrlUOMwgFw44GHd"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Felixxx",
+          "url": "https://open.spotify.com/artist/1iOEXBqcRUWxN5tBxESHxZ"
+        }
+      ],
+      "duration_ms": 163298,
+      "name": "Todos Contra 1",
+      "url": "https://open.spotify.com/track/2bF02iYjemsTLSeOwb9wm7"
     },
     {
       "added_at": null,
@@ -595,6 +595,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Outro Lugar",
+        "url": "https://open.spotify.com/album/4RBWF7dnGgQdxMUp9vsGOZ"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Spinnheli",
+          "url": "https://open.spotify.com/artist/4hlAv9C6uWQRTQvqE7xWud"
+        }
+      ],
+      "duration_ms": 153623,
+      "name": "Outro Lugar",
+      "url": "https://open.spotify.com/track/5wPLXHoC5WaIe1grjPvgvJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Agi Igual Homem",
         "url": "https://open.spotify.com/album/29MrpgI8GveiJUjAukWqkk"
       },
@@ -623,26 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outro Lugar",
-        "url": "https://open.spotify.com/album/4RBWF7dnGgQdxMUp9vsGOZ"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Spinnheli",
-          "url": "https://open.spotify.com/artist/4hlAv9C6uWQRTQvqE7xWud"
-        }
-      ],
-      "duration_ms": 153623,
-      "name": "Outro Lugar",
-      "url": "https://open.spotify.com/track/5wPLXHoC5WaIe1grjPvgvJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dona de Mim (Novela)",
         "url": "https://open.spotify.com/album/6p6ZGXLBOeXYjUZBp6se5p"
       },
@@ -663,6 +663,30 @@
       "duration_ms": 151737,
       "name": "Dona de Mim - Novela",
       "url": "https://open.spotify.com/track/1AkaAvhFy8BUk5PH93hTP6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amor Intenso",
+        "url": "https://open.spotify.com/album/5WJvrQgYVkSaMkdrFpJuJe"
+      },
+      "artists": [
+        {
+          "name": "MC Zaquin",
+          "url": "https://open.spotify.com/artist/1OwYxVDNKP9JtSpp5E0uA4"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Kelwin Lopes",
+          "url": "https://open.spotify.com/artist/0s7XyRPQrAAfi9I7OOrHEP"
+        }
+      ],
+      "duration_ms": 136022,
+      "name": "Amor Intenso",
+      "url": "https://open.spotify.com/track/35uDP9LyfJ790dEx9h5TBd"
     },
     {
       "added_at": null,
@@ -711,30 +735,6 @@
       "duration_ms": 414703,
       "name": "Poetisas no Topo 4",
       "url": "https://open.spotify.com/track/5eAsjTMGdKEUgNhRJUc9YU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amor Intenso",
-        "url": "https://open.spotify.com/album/5WJvrQgYVkSaMkdrFpJuJe"
-      },
-      "artists": [
-        {
-          "name": "MC Zaquin",
-          "url": "https://open.spotify.com/artist/1OwYxVDNKP9JtSpp5E0uA4"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Kelwin Lopes",
-          "url": "https://open.spotify.com/artist/0s7XyRPQrAAfi9I7OOrHEP"
-        }
-      ],
-      "duration_ms": 136022,
-      "name": "Amor Intenso",
-      "url": "https://open.spotify.com/track/35uDP9LyfJ790dEx9h5TBd"
     },
     {
       "added_at": null,
@@ -1131,26 +1131,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sua Inten\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/1wOwDz4f9eYZhZXG0KJgGS"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Spinnheli",
-          "url": "https://open.spotify.com/artist/4hlAv9C6uWQRTQvqE7xWud"
-        }
-      ],
-      "duration_ms": 131584,
-      "name": "Sua Inten\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/4Yv4otyzNdft5wq4bMm3Xi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "2 Minutos",
         "url": "https://open.spotify.com/album/5DPRUTrk79KG5HMKmsl6XQ"
       },
@@ -1179,6 +1159,26 @@
       "duration_ms": 215520,
       "name": "2 Minutos",
       "url": "https://open.spotify.com/track/3bZZd8qlz5WhRkxXfKxsw2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sua Inten\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/1wOwDz4f9eYZhZXG0KJgGS"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Spinnheli",
+          "url": "https://open.spotify.com/artist/4hlAv9C6uWQRTQvqE7xWud"
+        }
+      ],
+      "duration_ms": 131584,
+      "name": "Sua Inten\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/4Yv4otyzNdft5wq4bMm3Xi"
     },
     {
       "added_at": null,

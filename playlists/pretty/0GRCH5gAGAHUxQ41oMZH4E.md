@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0GRCH5gAGAHUxQ41oMZH4E.md) - [plain]
 
 > Just like the old days, making tapes for your mates\. A mashup of old and new, music we love to listen to whether at home, in the studio or on tour.
 
-[GoGo Penguin](https://open.spotify.com/user/gogopenguinofficial) - 3,915 likes - 54 songs - 3 hr 53 min
+[GoGo Penguin](https://open.spotify.com/user/gogopenguinofficial) - 3,914 likes - 54 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

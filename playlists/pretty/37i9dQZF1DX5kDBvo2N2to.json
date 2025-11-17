@@ -1,6 +1,6 @@
 {
   "description": "l\u00e5tarna som inte g\u00e5r att f\u00e5 nog av. ",
-  "num_followers": 60512,
+  "num_followers": 60511,
   "original_name": "p\u00e5 repeat",
   "owner": {
     "name": "Spotify",
@@ -339,26 +339,6 @@
     {
       "added_at": "2025-11-13 23:00:18",
       "album": {
-        "name": "Superhj\u00e4ltar",
-        "url": "https://open.spotify.com/album/5KBbzxuJqFJBQ0Fk8hDRnm"
-      },
-      "artists": [
-        {
-          "name": "LOAM",
-          "url": "https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P"
-        },
-        {
-          "name": "Lia Lindst\u00e9n",
-          "url": "https://open.spotify.com/artist/4GnwFUXajKqpZ9cOnIIUnM"
-        }
-      ],
-      "duration_ms": 144285,
-      "name": "Superhj\u00e4ltar",
-      "url": "https://open.spotify.com/track/6mXkroSXhGFLTX1mkOxEiO"
-    },
-    {
-      "added_at": "2025-11-13 23:00:18",
-      "album": {
         "name": "Waiting For A Star To Fall",
         "url": "https://open.spotify.com/album/7vRRyAIjUrdVy40CeqV8yF"
       },
@@ -375,6 +355,26 @@
       "duration_ms": 166003,
       "name": "Waiting For A Star To Fall",
       "url": "https://open.spotify.com/track/5aC3iodGKBkpvw1V72crkD"
+    },
+    {
+      "added_at": "2025-11-13 23:00:18",
+      "album": {
+        "name": "Superhj\u00e4ltar",
+        "url": "https://open.spotify.com/album/5KBbzxuJqFJBQ0Fk8hDRnm"
+      },
+      "artists": [
+        {
+          "name": "LOAM",
+          "url": "https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P"
+        },
+        {
+          "name": "Lia Lindst\u00e9n",
+          "url": "https://open.spotify.com/artist/4GnwFUXajKqpZ9cOnIIUnM"
+        }
+      ],
+      "duration_ms": 144285,
+      "name": "Superhj\u00e4ltar",
+      "url": "https://open.spotify.com/track/6mXkroSXhGFLTX1mkOxEiO"
     },
     {
       "added_at": "2025-11-13 23:00:18",
@@ -443,22 +443,6 @@
     {
       "added_at": "2025-11-13 23:00:18",
       "album": {
-        "name": "Klara",
-        "url": "https://open.spotify.com/album/5CNoE336D6RcLoWP0w9h2H"
-      },
-      "artists": [
-        {
-          "name": "Ida-Lova",
-          "url": "https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO"
-        }
-      ],
-      "duration_ms": 229994,
-      "name": "Klara",
-      "url": "https://open.spotify.com/track/0bGNkAnYXjd9V8rMTbctHs"
-    },
-    {
-      "added_at": "2025-11-13 23:00:18",
-      "album": {
         "name": "Before",
         "url": "https://open.spotify.com/album/2u9L6k6ZDl5CQkDVW2Spre"
       },
@@ -475,18 +459,18 @@
     {
       "added_at": "2025-11-13 23:00:18",
       "album": {
-        "name": "Backspegeln",
-        "url": "https://open.spotify.com/album/2GRF1ZqmwNykbINiXkCzT2"
+        "name": "Klara",
+        "url": "https://open.spotify.com/album/5CNoE336D6RcLoWP0w9h2H"
       },
       "artists": [
         {
-          "name": "Veronica Maggio",
-          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
+          "name": "Ida-Lova",
+          "url": "https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO"
         }
       ],
-      "duration_ms": 226745,
-      "name": "Backspegeln - Radio Edit",
-      "url": "https://open.spotify.com/track/5zgTMnEwglRFL8ghv9Y7AY"
+      "duration_ms": 229994,
+      "name": "Klara",
+      "url": "https://open.spotify.com/track/0bGNkAnYXjd9V8rMTbctHs"
     },
     {
       "added_at": "2025-11-13 23:00:18",
@@ -543,6 +527,22 @@
     {
       "added_at": "2025-11-13 23:00:18",
       "album": {
+        "name": "Backspegeln",
+        "url": "https://open.spotify.com/album/2GRF1ZqmwNykbINiXkCzT2"
+      },
+      "artists": [
+        {
+          "name": "Veronica Maggio",
+          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
+        }
+      ],
+      "duration_ms": 226745,
+      "name": "Backspegeln - Radio Edit",
+      "url": "https://open.spotify.com/track/5zgTMnEwglRFL8ghv9Y7AY"
+    },
+    {
+      "added_at": "2025-11-13 23:00:18",
+      "album": {
         "name": "500 kr",
         "url": "https://open.spotify.com/album/3geXWI7QW7FOg6MNSJ07CE"
       },
@@ -563,22 +563,6 @@
     {
       "added_at": "2025-11-13 23:00:18",
       "album": {
-        "name": "Sakte Film",
-        "url": "https://open.spotify.com/album/3BgXNYkT0dJsg0at6P84Fa"
-      },
-      "artists": [
-        {
-          "name": "Bausa",
-          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
-        }
-      ],
-      "duration_ms": 157034,
-      "name": "Sakte Film",
-      "url": "https://open.spotify.com/track/3UPjsBEaPTGE82x9Gqe3JG"
-    },
-    {
-      "added_at": "2025-11-13 23:00:18",
-      "album": {
         "name": "Andarna",
         "url": "https://open.spotify.com/album/7xzfbsn3XlOxsemWxzykqY"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 226124,
       "name": "Andarna",
       "url": "https://open.spotify.com/track/3LbU3hQgMSyRHqYcGXVFLx"
+    },
+    {
+      "added_at": "2025-11-13 23:00:18",
+      "album": {
+        "name": "Sakte Film",
+        "url": "https://open.spotify.com/album/3BgXNYkT0dJsg0at6P84Fa"
+      },
+      "artists": [
+        {
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
+        }
+      ],
+      "duration_ms": 157034,
+      "name": "Sakte Film",
+      "url": "https://open.spotify.com/track/3UPjsBEaPTGE82x9Gqe3JG"
     },
     {
       "added_at": "2025-11-13 23:00:18",
@@ -627,22 +627,6 @@
     {
       "added_at": "2025-11-13 23:00:18",
       "album": {
-        "name": "N\u00e5n annan tar sm\u00e4llen",
-        "url": "https://open.spotify.com/album/15g6qnv79rD9uQQrSDrsim"
-      },
-      "artists": [
-        {
-          "name": "Myra Granberg",
-          "url": "https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2"
-        }
-      ],
-      "duration_ms": 180195,
-      "name": "N\u00e5n annan tar sm\u00e4llen",
-      "url": "https://open.spotify.com/track/2hYe3v585VPvZDKGvFZyyL"
-    },
-    {
-      "added_at": "2025-11-13 23:00:18",
-      "album": {
         "name": "Steep Hills",
         "url": "https://open.spotify.com/album/0G3wnAeXMgPqWvE4ZyH4AS"
       },
@@ -659,18 +643,18 @@
     {
       "added_at": "2025-11-13 23:00:18",
       "album": {
-        "name": "Cutting Ties",
-        "url": "https://open.spotify.com/album/7bTMwmeLcgu9qZ0Te2y2Cp"
+        "name": "N\u00e5n annan tar sm\u00e4llen",
+        "url": "https://open.spotify.com/album/15g6qnv79rD9uQQrSDrsim"
       },
       "artists": [
         {
-          "name": "Elina",
-          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
+          "name": "Myra Granberg",
+          "url": "https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2"
         }
       ],
-      "duration_ms": 261854,
-      "name": "Cutting Ties",
-      "url": "https://open.spotify.com/track/20u5kuP9kpwARr7y3x8uIP"
+      "duration_ms": 180195,
+      "name": "N\u00e5n annan tar sm\u00e4llen",
+      "url": "https://open.spotify.com/track/2hYe3v585VPvZDKGvFZyyL"
     },
     {
       "added_at": "2025-11-13 23:00:18",
@@ -687,6 +671,22 @@
       "duration_ms": 145568,
       "name": "Fr\u00e5n & med nu",
       "url": "https://open.spotify.com/track/4xpRrrshnyEM4UMiAOMOzG"
+    },
+    {
+      "added_at": "2025-11-13 23:00:18",
+      "album": {
+        "name": "Cutting Ties",
+        "url": "https://open.spotify.com/album/7bTMwmeLcgu9qZ0Te2y2Cp"
+      },
+      "artists": [
+        {
+          "name": "Elina",
+          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
+        }
+      ],
+      "duration_ms": 261854,
+      "name": "Cutting Ties",
+      "url": "https://open.spotify.com/track/20u5kuP9kpwARr7y3x8uIP"
     },
     {
       "added_at": "2025-11-13 23:00:18",
@@ -739,6 +739,38 @@
     {
       "added_at": "2025-11-13 23:00:18",
       "album": {
+        "name": "Nostalgi",
+        "url": "https://open.spotify.com/album/3NFRYOP651HE9QwHNRXpu5"
+      },
+      "artists": [
+        {
+          "name": "KHARMA",
+          "url": "https://open.spotify.com/artist/2EZTSVr6dVIOe7aeMEFQic"
+        }
+      ],
+      "duration_ms": 140597,
+      "name": "Nostalgi",
+      "url": "https://open.spotify.com/track/7exxRwkE4xTJBNmpEO8Igj"
+    },
+    {
+      "added_at": "2025-11-13 23:00:18",
+      "album": {
+        "name": "Tryna make it in LA",
+        "url": "https://open.spotify.com/album/4fp8OAtfX796SBKkwfvQ9D"
+      },
+      "artists": [
+        {
+          "name": "Kerstin Ljungstr\u00f6m",
+          "url": "https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe"
+        }
+      ],
+      "duration_ms": 141960,
+      "name": "En av alla andra",
+      "url": "https://open.spotify.com/track/4Fy6KwY5ewtQcR6Z6u0gHn"
+    },
+    {
+      "added_at": "2025-11-13 23:00:18",
+      "album": {
         "name": "MIG/DIG (feat. Klaudy)",
         "url": "https://open.spotify.com/album/4xeizK2EHs4GlbDezTmR5S"
       },
@@ -759,18 +791,22 @@
     {
       "added_at": "2025-11-13 23:00:18",
       "album": {
-        "name": "Nostalgi",
-        "url": "https://open.spotify.com/album/3NFRYOP651HE9QwHNRXpu5"
+        "name": "Hittat hem",
+        "url": "https://open.spotify.com/album/3LRL5ylunpeHB352pVmmOE"
       },
       "artists": [
         {
-          "name": "KHARMA",
-          "url": "https://open.spotify.com/artist/2EZTSVr6dVIOe7aeMEFQic"
+          "name": "Klara Almstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2xUZsZaMqJSqpxIoTJl9D3"
+        },
+        {
+          "name": "Bj\u00f6rn Holmgren",
+          "url": "https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F"
         }
       ],
-      "duration_ms": 140597,
-      "name": "Nostalgi",
-      "url": "https://open.spotify.com/track/7exxRwkE4xTJBNmpEO8Igj"
+      "duration_ms": 184315,
+      "name": "Hittat hem",
+      "url": "https://open.spotify.com/track/2hAHrzFTAZh28fg6Y5awC7"
     },
     {
       "added_at": "2025-11-13 23:00:18",
@@ -807,26 +843,6 @@
     {
       "added_at": "2025-11-13 23:00:18",
       "album": {
-        "name": "Hittat hem",
-        "url": "https://open.spotify.com/album/3LRL5ylunpeHB352pVmmOE"
-      },
-      "artists": [
-        {
-          "name": "Klara Almstr\u00f6m",
-          "url": "https://open.spotify.com/artist/2xUZsZaMqJSqpxIoTJl9D3"
-        },
-        {
-          "name": "Bj\u00f6rn Holmgren",
-          "url": "https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F"
-        }
-      ],
-      "duration_ms": 184315,
-      "name": "Hittat hem",
-      "url": "https://open.spotify.com/track/2hAHrzFTAZh28fg6Y5awC7"
-    },
-    {
-      "added_at": "2025-11-13 23:00:18",
-      "album": {
         "name": "Where's My Mind",
         "url": "https://open.spotify.com/album/13RSenTt0kuRapPWMMJO0h"
       },
@@ -843,22 +859,6 @@
     {
       "added_at": "2025-11-13 23:00:18",
       "album": {
-        "name": "Regn \u00f6ver Zinken",
-        "url": "https://open.spotify.com/album/7KBJwS8O2z8ZslnjQONpgb"
-      },
-      "artists": [
-        {
-          "name": "Kerstin Ljungstr\u00f6m",
-          "url": "https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe"
-        }
-      ],
-      "duration_ms": 244733,
-      "name": "Regn \u00f6ver Zinken",
-      "url": "https://open.spotify.com/track/5vNdZIUXEMgcTt46CuhA7C"
-    },
-    {
-      "added_at": "2025-11-13 23:00:18",
-      "album": {
         "name": "Mjukt ljus",
         "url": "https://open.spotify.com/album/2NlBfbdzrKtMKzcwBGQeVe"
       },
@@ -871,54 +871,6 @@
       "duration_ms": 160817,
       "name": "Mjukt ljus",
       "url": "https://open.spotify.com/track/2NaFkhr86MXCLgmxcJSYNS"
-    },
-    {
-      "added_at": "2025-11-13 23:00:18",
-      "album": {
-        "name": "MSN & Lunar",
-        "url": "https://open.spotify.com/album/6dJsgto6bwHsJBGqX6CXwk"
-      },
-      "artists": [
-        {
-          "name": "Rymdpojken",
-          "url": "https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17"
-        }
-      ],
-      "duration_ms": 213680,
-      "name": "MSN & Lunar",
-      "url": "https://open.spotify.com/track/7I1ilCxXvxl26XjzR8PF2b"
-    },
-    {
-      "added_at": "2025-11-13 23:00:18",
-      "album": {
-        "name": "Dominos",
-        "url": "https://open.spotify.com/album/3zmDn72AZRPZ5V9IieOtmg"
-      },
-      "artists": [
-        {
-          "name": "Herman Silow",
-          "url": "https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO"
-        }
-      ],
-      "duration_ms": 160601,
-      "name": "Dominos",
-      "url": "https://open.spotify.com/track/7wI92IXumenyQgway6FaKs"
-    },
-    {
-      "added_at": "2025-11-13 23:00:18",
-      "album": {
-        "name": "Same Kids",
-        "url": "https://open.spotify.com/album/07s6cD5W72Kxf31gHu2hIE"
-      },
-      "artists": [
-        {
-          "name": "Girl Scout",
-          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
-        }
-      ],
-      "duration_ms": 211360,
-      "name": "Same Kids",
-      "url": "https://open.spotify.com/track/0THMUz0ygpsYVijF1DIkLm"
     },
     {
       "added_at": "2025-11-13 23:00:18",
@@ -943,8 +895,8 @@
     {
       "added_at": "2025-11-13 23:00:18",
       "album": {
-        "name": "Tryna make it in LA",
-        "url": "https://open.spotify.com/album/4fp8OAtfX796SBKkwfvQ9D"
+        "name": "Regn \u00f6ver Zinken",
+        "url": "https://open.spotify.com/album/7KBJwS8O2z8ZslnjQONpgb"
       },
       "artists": [
         {
@@ -952,15 +904,31 @@
           "url": "https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe"
         }
       ],
-      "duration_ms": 141960,
-      "name": "En av alla andra",
-      "url": "https://open.spotify.com/track/4Fy6KwY5ewtQcR6Z6u0gHn"
+      "duration_ms": 244733,
+      "name": "Regn \u00f6ver Zinken",
+      "url": "https://open.spotify.com/track/5vNdZIUXEMgcTt46CuhA7C"
     },
     {
       "added_at": "2025-11-13 23:00:18",
       "album": {
-        "name": "RING MIG 112!!?",
-        "url": "https://open.spotify.com/album/2NSfq8TfMOrTjGyzhHTpxt"
+        "name": "Dominos",
+        "url": "https://open.spotify.com/album/3zmDn72AZRPZ5V9IieOtmg"
+      },
+      "artists": [
+        {
+          "name": "Herman Silow",
+          "url": "https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO"
+        }
+      ],
+      "duration_ms": 160601,
+      "name": "Dominos",
+      "url": "https://open.spotify.com/track/7wI92IXumenyQgway6FaKs"
+    },
+    {
+      "added_at": "2025-11-13 23:00:18",
+      "album": {
+        "name": "MSN & Lunar",
+        "url": "https://open.spotify.com/album/6dJsgto6bwHsJBGqX6CXwk"
       },
       "artists": [
         {
@@ -968,9 +936,9 @@
           "url": "https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17"
         }
       ],
-      "duration_ms": 176000,
-      "name": "RING MIG 112!!?",
-      "url": "https://open.spotify.com/track/4XOPm2rZy1MZLhxLdqVYcH"
+      "duration_ms": 213680,
+      "name": "MSN & Lunar",
+      "url": "https://open.spotify.com/track/7I1ilCxXvxl26XjzR8PF2b"
     },
     {
       "added_at": "2025-11-13 23:00:18",
@@ -991,18 +959,18 @@
     {
       "added_at": "2025-11-13 23:00:18",
       "album": {
-        "name": "sunday night",
-        "url": "https://open.spotify.com/album/3XhRy1r95xpExil6yAHUre"
+        "name": "Same Kids",
+        "url": "https://open.spotify.com/album/07s6cD5W72Kxf31gHu2hIE"
       },
       "artists": [
         {
-          "name": ".blank",
-          "url": "https://open.spotify.com/artist/6CIY504cTi6MgI1ZHaxd7w"
+          "name": "Girl Scout",
+          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
         }
       ],
-      "duration_ms": 167569,
-      "name": "sunday night",
-      "url": "https://open.spotify.com/track/2Sn2zG2argohDp2lm0c0vk"
+      "duration_ms": 211360,
+      "name": "Same Kids",
+      "url": "https://open.spotify.com/track/0THMUz0ygpsYVijF1DIkLm"
     },
     {
       "added_at": "2025-11-13 23:00:18",
@@ -1019,6 +987,22 @@
       "duration_ms": 195500,
       "name": "Jag m\u00e5ste v\u00e4lja",
       "url": "https://open.spotify.com/track/3GDX6H2fLc3UyBaHHdIGwz"
+    },
+    {
+      "added_at": "2025-11-13 23:00:18",
+      "album": {
+        "name": "sunday night",
+        "url": "https://open.spotify.com/album/3XhRy1r95xpExil6yAHUre"
+      },
+      "artists": [
+        {
+          "name": ".blank",
+          "url": "https://open.spotify.com/artist/6CIY504cTi6MgI1ZHaxd7w"
+        }
+      ],
+      "duration_ms": 167569,
+      "name": "sunday night",
+      "url": "https://open.spotify.com/track/2Sn2zG2argohDp2lm0c0vk"
     },
     {
       "added_at": "2025-11-13 23:00:18",
@@ -1071,8 +1055,24 @@
     {
       "added_at": "2025-11-13 23:00:18",
       "album": {
-        "name": "02:30",
-        "url": "https://open.spotify.com/album/4a1vLUmOFdCWKRveif26Ja"
+        "name": "Sv\u00e5rt",
+        "url": "https://open.spotify.com/album/1wmxJgIRdw1f25WCCf6Oj9"
+      },
+      "artists": [
+        {
+          "name": "Amani Smith",
+          "url": "https://open.spotify.com/artist/05ibPxjpnmCVAq5z2kOe9M"
+        }
+      ],
+      "duration_ms": 179616,
+      "name": "Sv\u00e5rt",
+      "url": "https://open.spotify.com/track/40TOlWGgY4Yjwbx6cXeE5P"
+    },
+    {
+      "added_at": "2025-11-13 23:00:18",
+      "album": {
+        "name": "RING MIG 112!!?",
+        "url": "https://open.spotify.com/album/2NSfq8TfMOrTjGyzhHTpxt"
       },
       "artists": [
         {
@@ -1080,9 +1080,9 @@
           "url": "https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17"
         }
       ],
-      "duration_ms": 217000,
-      "name": "02:30",
-      "url": "https://open.spotify.com/track/1jpxVXKhTwvnBoAoEVOdE7"
+      "duration_ms": 176000,
+      "name": "RING MIG 112!!?",
+      "url": "https://open.spotify.com/track/4XOPm2rZy1MZLhxLdqVYcH"
     },
     {
       "added_at": "2025-11-13 23:00:18",
@@ -1099,22 +1099,6 @@
       "duration_ms": 154340,
       "name": "Damned",
       "url": "https://open.spotify.com/track/4aSqI2QSyfmnCBmKqaExz0"
-    },
-    {
-      "added_at": "2025-11-13 23:00:18",
-      "album": {
-        "name": "Sv\u00e5rt",
-        "url": "https://open.spotify.com/album/1wmxJgIRdw1f25WCCf6Oj9"
-      },
-      "artists": [
-        {
-          "name": "Amani Smith",
-          "url": "https://open.spotify.com/artist/05ibPxjpnmCVAq5z2kOe9M"
-        }
-      ],
-      "duration_ms": 179616,
-      "name": "Sv\u00e5rt",
-      "url": "https://open.spotify.com/track/40TOlWGgY4Yjwbx6cXeE5P"
     },
     {
       "added_at": "2025-11-13 23:00:18",
@@ -1167,6 +1151,22 @@
     {
       "added_at": "2025-11-13 23:00:18",
       "album": {
+        "name": "02:30",
+        "url": "https://open.spotify.com/album/4a1vLUmOFdCWKRveif26Ja"
+      },
+      "artists": [
+        {
+          "name": "Rymdpojken",
+          "url": "https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "02:30",
+      "url": "https://open.spotify.com/track/1jpxVXKhTwvnBoAoEVOdE7"
+    },
+    {
+      "added_at": "2025-11-13 23:00:18",
+      "album": {
         "name": "24/7",
         "url": "https://open.spotify.com/album/5emD6veRgAKrGIf31AoyI5"
       },
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2025-11-13 23:00:18",
       "album": {
-        "name": "Byta efternamn",
-        "url": "https://open.spotify.com/album/026Mwh5F4wqS9aukok9UiF"
-      },
-      "artists": [
-        {
-          "name": "Hemliga Klubben",
-          "url": "https://open.spotify.com/artist/2PlHciJMEDaarjew8FmTsf"
-        }
-      ],
-      "duration_ms": 193026,
-      "name": "Byta efternamn",
-      "url": "https://open.spotify.com/track/0l6xmLvm4tXgTkD362vj0E"
-    },
-    {
-      "added_at": "2025-11-13 23:00:18",
-      "album": {
         "name": "Solros",
         "url": "https://open.spotify.com/album/00ImPIP0ISklhkv9UvNwoT"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 161597,
       "name": "Solros",
       "url": "https://open.spotify.com/track/1VgZrgml86gvvb4HAgDJP5"
+    },
+    {
+      "added_at": "2025-11-13 23:00:18",
+      "album": {
+        "name": "Byta efternamn",
+        "url": "https://open.spotify.com/album/026Mwh5F4wqS9aukok9UiF"
+      },
+      "artists": [
+        {
+          "name": "Hemliga Klubben",
+          "url": "https://open.spotify.com/artist/2PlHciJMEDaarjew8FmTsf"
+        }
+      ],
+      "duration_ms": 193026,
+      "name": "Byta efternamn",
+      "url": "https://open.spotify.com/track/0l6xmLvm4tXgTkD362vj0E"
     },
     {
       "added_at": "2025-11-13 23:00:18",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2025-11-13 23:00:18",
       "album": {
-        "name": "Stockholm City",
-        "url": "https://open.spotify.com/album/2pw15Ool1F0Eq85FcfSH6L"
-      },
-      "artists": [
-        {
-          "name": "Adrian Mac\u00e9us",
-          "url": "https://open.spotify.com/artist/1znCudkO8pApRUyRijRN2g"
-        }
-      ],
-      "duration_ms": 160465,
-      "name": "Stockholm City",
-      "url": "https://open.spotify.com/track/7Kk0drc1rrjfTgUGbjvl2S"
-    },
-    {
-      "added_at": "2025-11-13 23:00:18",
-      "album": {
         "name": "Storstads\u00e5ngest (jag beh\u00f6ver dig Sabrina)",
         "url": "https://open.spotify.com/album/282V3114CXhdwxHdVDWpE3"
       },
@@ -1311,22 +1295,6 @@
       "duration_ms": 172053,
       "name": "Storstads\u00e5ngest (jag beh\u00f6ver dig Sabrina)",
       "url": "https://open.spotify.com/track/0gEMFfHYQXxjRp1bVIllVa"
-    },
-    {
-      "added_at": "2025-11-13 23:00:18",
-      "album": {
-        "name": "Same Old Dirt",
-        "url": "https://open.spotify.com/album/5nBa7kEFLjmMmftj60JWwM"
-      },
-      "artists": [
-        {
-          "name": "Hannes Aitman",
-          "url": "https://open.spotify.com/artist/1c4LDWC8eotoBU95E0YJef"
-        }
-      ],
-      "duration_ms": 186893,
-      "name": "Same Old Dirt",
-      "url": "https://open.spotify.com/track/4ctyXOajJuarzKIIVekcAD"
     },
     {
       "added_at": "2025-11-13 23:00:18",
@@ -1347,18 +1315,34 @@
     {
       "added_at": "2025-11-13 23:00:18",
       "album": {
-        "name": "Madame",
-        "url": "https://open.spotify.com/album/5NR1oY7UzZ2VdjwrxjLpuf"
+        "name": "Same Old Dirt",
+        "url": "https://open.spotify.com/album/5nBa7kEFLjmMmftj60JWwM"
       },
       "artists": [
         {
-          "name": "Henric Edstr\u00f6m",
-          "url": "https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA"
+          "name": "Hannes Aitman",
+          "url": "https://open.spotify.com/artist/1c4LDWC8eotoBU95E0YJef"
         }
       ],
-      "duration_ms": 134254,
-      "name": "Madame",
-      "url": "https://open.spotify.com/track/5hIMz0ZftiFGTNrVqo5JrB"
+      "duration_ms": 186893,
+      "name": "Same Old Dirt",
+      "url": "https://open.spotify.com/track/4ctyXOajJuarzKIIVekcAD"
+    },
+    {
+      "added_at": "2025-11-13 23:00:18",
+      "album": {
+        "name": "Stockholm City",
+        "url": "https://open.spotify.com/album/2pw15Ool1F0Eq85FcfSH6L"
+      },
+      "artists": [
+        {
+          "name": "Adrian Mac\u00e9us",
+          "url": "https://open.spotify.com/artist/1znCudkO8pApRUyRijRN2g"
+        }
+      ],
+      "duration_ms": 160465,
+      "name": "Stockholm City",
+      "url": "https://open.spotify.com/track/7Kk0drc1rrjfTgUGbjvl2S"
     },
     {
       "added_at": "2025-11-13 23:00:18",
@@ -1379,6 +1363,22 @@
       "duration_ms": 131100,
       "name": "ISLAND",
       "url": "https://open.spotify.com/track/6HIyVsMgerWNe8aqJKeivg"
+    },
+    {
+      "added_at": "2025-11-13 23:00:18",
+      "album": {
+        "name": "Madame",
+        "url": "https://open.spotify.com/album/5NR1oY7UzZ2VdjwrxjLpuf"
+      },
+      "artists": [
+        {
+          "name": "Henric Edstr\u00f6m",
+          "url": "https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA"
+        }
+      ],
+      "duration_ms": 134254,
+      "name": "Madame",
+      "url": "https://open.spotify.com/track/5hIMz0ZftiFGTNrVqo5JrB"
     },
     {
       "added_at": "2025-11-13 23:00:18",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2025-11-13 23:00:18",
       "album": {
-        "name": "Run It Up",
-        "url": "https://open.spotify.com/album/4SyiWqVrp8NbHkTJoTmIx1"
-      },
-      "artists": [
-        {
-          "name": "Tasha17k",
-          "url": "https://open.spotify.com/artist/3QgpgRgnODIPgu5NDEkcgd"
-        }
-      ],
-      "duration_ms": 123886,
-      "name": "Run It Up",
-      "url": "https://open.spotify.com/track/6K54qTmlXf6MW1YQvZDFVA"
-    },
-    {
-      "added_at": "2025-11-13 23:00:18",
-      "album": {
         "name": "Sl\u00e4cka tankarna",
         "url": "https://open.spotify.com/album/01unShVTteCUhKNqDCCO4i"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 198709,
       "name": "Tills natt blir dag",
       "url": "https://open.spotify.com/track/39O4z0CnFqAnE781FhYHN2"
+    },
+    {
+      "added_at": "2025-11-13 23:00:18",
+      "album": {
+        "name": "Run It Up",
+        "url": "https://open.spotify.com/album/4SyiWqVrp8NbHkTJoTmIx1"
+      },
+      "artists": [
+        {
+          "name": "Tasha17k",
+          "url": "https://open.spotify.com/artist/3QgpgRgnODIPgu5NDEkcgd"
+        }
+      ],
+      "duration_ms": 123886,
+      "name": "Run It Up",
+      "url": "https://open.spotify.com/track/6K54qTmlXf6MW1YQvZDFVA"
     },
     {
       "added_at": "2025-11-13 23:00:18",

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0nWt7RisY0ovBXztrbCyiV">Sia</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-404 songs - 1 day 1 hr 38 min
+405 songs - 1 day 1 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Electric Bird](https://open.spotify.com/track/2KvGbqCxDEghQ1P4kUzrsE) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Some People Have REAL Problems](https://open.spotify.com/album/6jwrliQ4758qVYMtdgQtZt) | 4:25 | 2023-12-30 |  |
 | [Ever \- Original Mix](https://open.spotify.com/track/76M3CpU4603Wnhx70fKs3b) | [Audio Werner](https://open.spotify.com/artist/3sAiPMoERiyl61BoNpOI1l) | [Rushograph EP](https://open.spotify.com/album/24mLp734ROBxISw2bGf4vP) | 11:01 | 2023-12-30 |  |
 | [Everyday Is Christmas](https://open.spotify.com/track/30DnQCN64v8xBpGZpLgb6l) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 3:23 | 2023-12-30 |  |
+| [Everything You Needed](https://open.spotify.com/track/3Hjl3OZnxOVGMFHvlzGzkI) | [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF) | [Hidden Gems](https://open.spotify.com/album/7gcHB4LFJHHv8EMJo2cVdm) | 3:50 | 2025-11-16 |  |
 | [Expertease \(Ready Set Go\)](https://open.spotify.com/track/549WxwIJahhrSXM1rpNali) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [A.K.A\. \(Deluxe\)](https://open.spotify.com/album/7DoFFUz6BAVBwUFaMCTTcL) | 4:04 | 2023-12-30 | 2024-04-29 |
 | [Expertease \(Ready Set Go\)](https://open.spotify.com/track/5tpRdQQHr9eKa0tNdTmI64) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [A.K.A\. \(Deluxe\)](https://open.spotify.com/album/5sgtN5B8rUr6nfUzJ4RRIk) | 4:04 | 2024-04-28 |  |
 | [Eye of the Needle](https://open.spotify.com/track/2ejeiQQcxOONtMDgV2GXSu) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear](https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9) | 4:08 | 2023-12-30 |  |

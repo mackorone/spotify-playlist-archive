@@ -4,7 +4,7 @@
 
 > Fall fast asleep with deep noise
 
-633 songs - 1 day 9 hr 34 min
+634 songs - 1 day 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Ambient Brown 150 Hz Soft Q](https://open.spotify.com/track/6CvRhqgufOLoYhujaZoxSt) | [Ambient Eclipse](https://open.spotify.com/artist/5kfu1YGIiPo81N6z7ipvOB) | [Focus Freq.](https://open.spotify.com/album/44qDPoC3RbYTMzqxQmH74P) | 3:02 | 2022-12-20 |  |
 | [Ambient Noise 100 Hz](https://open.spotify.com/track/4H8xQ7eeZ79T1WFhruPzR6) | [Suburban DZ](https://open.spotify.com/artist/33eIaajbND4MYRXV3roJ5Q) | [Sleep Sounds](https://open.spotify.com/album/0tpGrdiPu73zQwvtlhsc9M) | 3:40 | 2021-12-01 | 2023-02-17 |
 | [Ambient Noise 500 Hz](https://open.spotify.com/track/2XnQvULMhqaXAKS6BfO7X5) | [Suburban DZ](https://open.spotify.com/artist/33eIaajbND4MYRXV3roJ5Q) | [Sleep Sounds](https://open.spotify.com/album/0tpGrdiPu73zQwvtlhsc9M) | 3:40 | 2021-12-01 | 2023-01-28 |
+| [Analog Brown Noise](https://open.spotify.com/track/6x71cG20zil5A68ymL1dds) | [Sthlm Division](https://open.spotify.com/artist/6M2cF0vXXMHNKAkhNqenIy) | [Analog Brown Noise](https://open.spotify.com/album/2cYUr8XRjK1UlvQ04Mq0Ms) | 2:40 | 2025-11-13 |  |
 | [Baby Sleep BN Four](https://open.spotify.com/track/7qVfb0nxgRYDtIZMpXogPl) | [Dream Shard](https://open.spotify.com/artist/3EUg5IOxGnBPtjK0uzMxcJ) | [Baby Sleep Brown Noise](https://open.spotify.com/album/72oELCMIURf5TwCP1tC7RE) | 2:24 | 2021-12-01 | 2022-11-19 |
 | [Baby Sleep BN One](https://open.spotify.com/track/6J8DMT0HbyIbUoT7u1B07u) | [Dream Shard](https://open.spotify.com/artist/3EUg5IOxGnBPtjK0uzMxcJ) | [Baby Sleep Brown Noise](https://open.spotify.com/album/72oELCMIURf5TwCP1tC7RE) | 2:19 | 2021-12-01 | 2025-11-14 |
 | [Baby Sleep BN Twelve](https://open.spotify.com/track/3HT1QZ6HehaTqMhjI9q7NC) | [Dream Shard](https://open.spotify.com/artist/3EUg5IOxGnBPtjK0uzMxcJ) | [Baby Sleep Brown Noise](https://open.spotify.com/album/72oELCMIURf5TwCP1tC7RE) | 2:19 | 2021-12-01 | 2022-12-21 |
@@ -609,7 +610,7 @@
 | [Time Collecting Noise](https://open.spotify.com/track/45CO9xKmt9o9sqfVKXGDy0) | [No Shapes Island](https://open.spotify.com/artist/2yllrSykto1kVMIOhbwed4) | [Time Collecting Noise](https://open.spotify.com/album/0wZMwQUUIPaaNvH3wqnLCe) | 2:15 | 2021-12-01 |  |
 | [Tranquil Brown Noise](https://open.spotify.com/track/7dQxSOe970eA588wdrRJwP) | [Holuka](https://open.spotify.com/artist/2vhp6YYXzpAZKMTJ7Gor9u) | [Tranquil Brown Noise](https://open.spotify.com/album/7xp0o274OOr733c3AqszDc) | 3:44 | 2022-11-18 | 2025-10-29 |
 | [Tranquil Brown Noise](https://open.spotify.com/track/3jozn2lodsEPVmAG8XjPcx) | [Ozonezzz](https://open.spotify.com/artist/3D4ZyZNY4vP7YHF9CtWQzZ) | [Night Time Brown Noise](https://open.spotify.com/album/5wGCehDajJGZQnGvzTYNNy) | 2:28 | 2021-12-01 | 2023-12-06 |
-| [Tranquil Pink Noise](https://open.spotify.com/track/0WyaA3Ul8pDAIfMHo8G3vj) | [Dozy Sounds](https://open.spotify.com/artist/6GjywyZ0Qtsu0f95gL5CDG) | [Peaceful Pink Noise Sounds](https://open.spotify.com/album/0ryNsGuRSxueEbviA65XL0) | 3:01 | 2022-11-18 |  |
+| [Tranquil Pink Noise](https://open.spotify.com/track/0WyaA3Ul8pDAIfMHo8G3vj) | [Dozy Sounds](https://open.spotify.com/artist/6GjywyZ0Qtsu0f95gL5CDG) | [Peaceful Pink Noise Sounds](https://open.spotify.com/album/0ryNsGuRSxueEbviA65XL0) | 3:01 | 2022-11-18 | 2025-11-17 |
 | [Tranquil Pink Noise State](https://open.spotify.com/track/06Eq5ym3NuwWVvLvqbfC2r) | [Lavia 6](https://open.spotify.com/artist/1TaKbrkFRAq5YJoMieIMPR) | [Tranqil Pink Noise State](https://open.spotify.com/album/5cxmr7o1TVaPkZx5ShqPSv) | 3:16 | 2022-08-02 | 2023-03-25 |
 | [Tranquility \(Pink Noise\)](https://open.spotify.com/track/4e1IeTZFJhI4wUTbYmjeWR) | [Luke Andersson](https://open.spotify.com/artist/5aFhL9biVJqgXPKDvQyTFc) | [Tranquility \(Pink Noise\)](https://open.spotify.com/album/1Ns2DXaiFF2yd9P8PktWzJ) | 3:12 | 2022-11-18 | 2025-10-11 |
 | [Tuned Brown Noise](https://open.spotify.com/track/4VntwsWNxi8PecYcY6rC3H) | [Fortuna](https://open.spotify.com/artist/2gbFrZ06uCjIZsE1LS46uV) | [Brown Noise Relaxation](https://open.spotify.com/album/6Ebja7i0qo75APOZKqSxbu) | 2:32 | 2022-08-02 |  |

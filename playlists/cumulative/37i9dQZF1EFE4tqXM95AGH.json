@@ -3723,6 +3723,24 @@
     },
     {
       "album": {
+        "name": "EVERYONE'S A STAR!",
+        "url": "https://open.spotify.com/album/0zkgIyTdpvOpV5z4oK7c2j"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "date_added": "2025-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195806,
+      "name": "Telephone Busy",
+      "url": "https://open.spotify.com/track/2JgwHnrqubIzSSlwVlu9mY"
+    },
+    {
+      "album": {
         "name": "Telephone Busy",
         "url": "https://open.spotify.com/album/08VCKSJ3j5Cgvkq5DM0cH2"
       },
@@ -3734,7 +3752,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-17",
       "duration_ms": 195806,
       "name": "Telephone Busy",
       "url": "https://open.spotify.com/track/6j0MEtClnzHKW6YLusvlfC"
