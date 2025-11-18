@@ -1,12 +1,12 @@
 {
   "description": "This is Prof. The essential tracks, all in one playlist.",
-  "num_followers": 23066,
+  "num_followers": 23074,
   "original_name": "This Is Prof",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRfCgAAAAABfHFloEOgu6lESwFWKFR4P",
+  "snapshot_id": "aRkUAAAAAADEyYqHp/a/3XHBG7TCiP8E",
   "tracks": [
     {
       "added_at": null,
@@ -679,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pookie Baby",
+        "url": "https://open.spotify.com/album/4PsACI8jpFTGFgpbTUat5A"
+      },
+      "artists": [
+        {
+          "name": "Prof",
+          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        }
+      ],
+      "duration_ms": 211453,
+      "name": "Pookie Baby",
+      "url": "https://open.spotify.com/track/1GLZpvlLj1nMrn2Ld2ehhK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Windows",
         "url": "https://open.spotify.com/album/7g16JXCVFnNqKH5VVOoRLK"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 213640,
       "name": "Windows",
       "url": "https://open.spotify.com/track/4ilUS5TveEEr0KFgWyYvyb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pookie Baby",
-        "url": "https://open.spotify.com/album/4PsACI8jpFTGFgpbTUat5A"
-      },
-      "artists": [
-        {
-          "name": "Prof",
-          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        }
-      ],
-      "duration_ms": 211453,
-      "name": "Pookie Baby",
-      "url": "https://open.spotify.com/track/1GLZpvlLj1nMrn2Ld2ehhK"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Liability",
-        "url": "https://open.spotify.com/album/5s5svsB4vo4STUkneqJGlr"
-      },
-      "artists": [
-        {
-          "name": "Prof",
-          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        }
-      ],
-      "duration_ms": 177320,
-      "name": "Permission",
-      "url": "https://open.spotify.com/track/2KZ0GMuXz3EOOSzi0XIAk4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Survivor's Guilt",
         "url": "https://open.spotify.com/album/3RX8lRbQ7rK9qcJ8WsQ6Y6"
       },
@@ -787,8 +771,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dodo Birds",
-        "url": "https://open.spotify.com/album/6nM5ZjZp85PxVjbyszoOft"
+        "name": "Liability",
+        "url": "https://open.spotify.com/album/5s5svsB4vo4STUkneqJGlr"
       },
       "artists": [
         {
@@ -796,33 +780,9 @@
           "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
         }
       ],
-      "duration_ms": 133487,
-      "name": "Dodo Birds",
-      "url": "https://open.spotify.com/track/4ZitKfCGxhOcqrfQU6STgq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chitty Bang",
-        "url": "https://open.spotify.com/album/6bTXdnnsOOgsWdxxNGnwPA"
-      },
-      "artists": [
-        {
-          "name": "Prof",
-          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        },
-        {
-          "name": "Devin The Dude",
-          "url": "https://open.spotify.com/artist/0OMJR0LjjKv21qNvICTgbi"
-        },
-        {
-          "name": "Jarren Benton",
-          "url": "https://open.spotify.com/artist/5YI7PJwny5JsO7djczHwhP"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Chitty Bang",
-      "url": "https://open.spotify.com/track/14EUifm44d6gODebTIEDSn"
+      "duration_ms": 177320,
+      "name": "Permission",
+      "url": "https://open.spotify.com/track/2KZ0GMuXz3EOOSzi0XIAk4"
     },
     {
       "added_at": null,
@@ -851,6 +811,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chitty Bang",
+        "url": "https://open.spotify.com/album/6bTXdnnsOOgsWdxxNGnwPA"
+      },
+      "artists": [
+        {
+          "name": "Prof",
+          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        },
+        {
+          "name": "Devin The Dude",
+          "url": "https://open.spotify.com/artist/0OMJR0LjjKv21qNvICTgbi"
+        },
+        {
+          "name": "Jarren Benton",
+          "url": "https://open.spotify.com/artist/5YI7PJwny5JsO7djczHwhP"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Chitty Bang",
+      "url": "https://open.spotify.com/track/14EUifm44d6gODebTIEDSn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dodo Birds",
+        "url": "https://open.spotify.com/album/6nM5ZjZp85PxVjbyszoOft"
+      },
+      "artists": [
+        {
+          "name": "Prof",
+          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        }
+      ],
+      "duration_ms": 133487,
+      "name": "Dodo Birds",
+      "url": "https://open.spotify.com/track/4ZitKfCGxhOcqrfQU6STgq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "King Gampo",
         "url": "https://open.spotify.com/album/2JQWfvAfH1f5ypTohkGfT2"
       },
@@ -863,6 +863,22 @@
       "duration_ms": 175493,
       "name": "Whiskey",
       "url": "https://open.spotify.com/track/2P4otq5puB0C9ZqDJVveQt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pookie Baby",
+        "url": "https://open.spotify.com/album/4PsACI8jpFTGFgpbTUat5A"
+      },
+      "artists": [
+        {
+          "name": "Prof",
+          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        }
+      ],
+      "duration_ms": 216306,
+      "name": "Action",
+      "url": "https://open.spotify.com/track/0qi526Q4l45TDR06J26GnS"
     },
     {
       "added_at": null,
@@ -887,22 +903,6 @@
       "duration_ms": 232483,
       "name": "Penny Nickel Dime",
       "url": "https://open.spotify.com/track/30rmz7OJYaDnYrgxkzpsS1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pookie Baby",
-        "url": "https://open.spotify.com/album/4PsACI8jpFTGFgpbTUat5A"
-      },
-      "artists": [
-        {
-          "name": "Prof",
-          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        }
-      ],
-      "duration_ms": 216306,
-      "name": "Action",
-      "url": "https://open.spotify.com/track/0qi526Q4l45TDR06J26GnS"
     }
   ],
   "unique_name": "This Is Prof",

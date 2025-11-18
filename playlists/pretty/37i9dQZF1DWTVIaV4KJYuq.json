@@ -1,6 +1,6 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 707399,
+  "num_followers": 707395,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/2fEYL3YBVILeEuiKJL7S2n"
-      },
-      "artists": [
-        {
-          "name": "Madilyn Bailey",
-          "url": "https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU"
-        }
-      ],
-      "duration_ms": 236666,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/1ty3N197je3o1dN0F6Fu1G"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Vignettes",
         "url": "https://open.spotify.com/album/3QzGPQofSaqMNWqk7BqmAJ"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 255675,
       "name": "If It Makes You Happy",
       "url": "https://open.spotify.com/track/4GQ9PStMvCHmF13SLz1zki"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/2fEYL3YBVILeEuiKJL7S2n"
+      },
+      "artists": [
+        {
+          "name": "Madilyn Bailey",
+          "url": "https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU"
+        }
+      ],
+      "duration_ms": 236666,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/1ty3N197je3o1dN0F6Fu1G"
     },
     {
       "added_at": "2025-08-29 04:00:33",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "More Than a Woman",
-        "url": "https://open.spotify.com/album/5Nw0TgZQGMB9QwBsaUlQBM"
-      },
-      "artists": [
-        {
-          "name": "The Shadowboxers",
-          "url": "https://open.spotify.com/artist/3gq3IRuBKSmyBbGXwfagj4"
-        }
-      ],
-      "duration_ms": 224666,
-      "name": "More Than a Woman",
-      "url": "https://open.spotify.com/track/7rYyYKW8QxGzkRnqa165JC"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Both Sides Now",
         "url": "https://open.spotify.com/album/7vlApA4V6FDavmJBpr3R5N"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 257941,
       "name": "Both Sides Now",
       "url": "https://open.spotify.com/track/0d5tb0XcClqZo7CJ4GQuBm"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "More Than a Woman",
+        "url": "https://open.spotify.com/album/5Nw0TgZQGMB9QwBsaUlQBM"
+      },
+      "artists": [
+        {
+          "name": "The Shadowboxers",
+          "url": "https://open.spotify.com/artist/3gq3IRuBKSmyBbGXwfagj4"
+        }
+      ],
+      "duration_ms": 224666,
+      "name": "More Than a Woman",
+      "url": "https://open.spotify.com/track/7rYyYKW8QxGzkRnqa165JC"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1273,22 +1273,6 @@
       "url": "https://open.spotify.com/track/0xi6e2yX8GxvygU2g4noDc"
     },
     {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Mercy Mercy Me (The Ecology)",
-        "url": "https://open.spotify.com/album/23R9tHU6mYMP4vLItECWfl"
-      },
-      "artists": [
-        {
-          "name": "Devon Gilfillian",
-          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
-        }
-      ],
-      "duration_ms": 190885,
-      "name": "Mercy Mercy Me (The Ecology)",
-      "url": "https://open.spotify.com/track/0rwicAYj73I9yhDUB40E1e"
-    },
-    {
       "added_at": "2025-08-29 04:00:33",
       "album": {
         "name": "My Valentine (with Paul McCartney)",
@@ -1307,6 +1291,22 @@
       "duration_ms": 258712,
       "name": "My Valentine (with Paul McCartney)",
       "url": "https://open.spotify.com/track/5ieWsEv2u9vMHWB3uV3R5Z"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Mercy Mercy Me (The Ecology)",
+        "url": "https://open.spotify.com/album/23R9tHU6mYMP4vLItECWfl"
+      },
+      "artists": [
+        {
+          "name": "Devon Gilfillian",
+          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
+        }
+      ],
+      "duration_ms": 190885,
+      "name": "Mercy Mercy Me (The Ecology)",
+      "url": "https://open.spotify.com/track/0rwicAYj73I9yhDUB40E1e"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Lunafied",
-        "url": "https://open.spotify.com/album/1r5Y5fQ6X7qgnYYcRfG4Of"
-      },
-      "artists": [
-        {
-          "name": "Luna",
-          "url": "https://open.spotify.com/artist/2AACqFGo8offvHCKGvrWxq"
-        }
-      ],
-      "duration_ms": 320693,
-      "name": "Season of the Witch",
-      "url": "https://open.spotify.com/track/2GaQr1kOxgrzcfHWuDLIqu"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Born To Run",
         "url": "https://open.spotify.com/album/6JTj9IVdUqDd39M7UZLfGX"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 184386,
       "name": "Born To Run",
       "url": "https://open.spotify.com/track/0JHBf66hHh8N3Cj3uiTPYE"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Lunafied",
+        "url": "https://open.spotify.com/album/1r5Y5fQ6X7qgnYYcRfG4Of"
+      },
+      "artists": [
+        {
+          "name": "Luna",
+          "url": "https://open.spotify.com/artist/2AACqFGo8offvHCKGvrWxq"
+        }
+      ],
+      "duration_ms": 320693,
+      "name": "Season of the Witch",
+      "url": "https://open.spotify.com/track/2GaQr1kOxgrzcfHWuDLIqu"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1827,6 +1827,22 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
+        "name": "You Don't Know How It Feels",
+        "url": "https://open.spotify.com/album/7pWTvThKZquHfq4E0e5KwX"
+      },
+      "artists": [
+        {
+          "name": "Walk off the Earth",
+          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
+        }
+      ],
+      "duration_ms": 222008,
+      "name": "You Don't Know How It Feels",
+      "url": "https://open.spotify.com/track/4jRfYs49suF4VINcWVXAvb"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
         "name": "Sweet Child o\u2019 Mine",
         "url": "https://open.spotify.com/album/4qD0tpu2Omt2OcYDxfyjd7"
       },
@@ -1839,22 +1855,6 @@
       "duration_ms": 302880,
       "name": "Sweet Child O' Mine",
       "url": "https://open.spotify.com/track/16i6f7yJWs1j67fxBjfc7z"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Transfiguration of Vincent",
-        "url": "https://open.spotify.com/album/3I1zi5eB3rHCYye20JoG2U"
-      },
-      "artists": [
-        {
-          "name": "M. Ward",
-          "url": "https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI"
-        }
-      ],
-      "duration_ms": 300186,
-      "name": "Let's Dance",
-      "url": "https://open.spotify.com/track/2ww6vlXkh2Ntw3pZwtqnHj"
     }
   ],
   "unique_name": "Classic Covers",

@@ -4,7 +4,7 @@
 
 > Nieuw: Vensly, D.SEL, ILLIE, Sepa en meer en meer
 
-244 songs - 10 hr 39 min
+245 songs - 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Brikka](https://open.spotify.com/track/12fOlkEyX9MHvdKfCYgfGS) | [Marou](https://open.spotify.com/artist/787K0Q2xGqiAL0jcoo5kb5), [Massin](https://open.spotify.com/artist/7g8HFGXym7WNVPMsuAINQE) | [Brikka](https://open.spotify.com/album/4Va5iVnzRs7O7rqkoPw9uY) | 2:32 | 2025-09-25 | 2025-11-07 |
 | [Broekzak](https://open.spotify.com/track/0H59aVh4LI9aswzjR2JlJK) | [Hiltje](https://open.spotify.com/artist/7IzRpPjjOsoCkhctY8lAb8) | [Brokkenpiloot](https://open.spotify.com/album/4cPZs6g5lmcMIeyyNMZ1T4) | 2:17 | 2025-09-08 | 2025-10-03 |
 | [Brokko \(Joselu\)](https://open.spotify.com/track/1yVAxe7h5o0Qtnrtlu5WzE) | [Clep N Flyy](https://open.spotify.com/artist/5jX0t5N4lu8OfUFQDQURNq) | [SummerPack](https://open.spotify.com/album/3Eo4fhEIk0ysenx3REaveM) | 2:58 | 2025-09-15 | 2025-09-19 |
+| [BUMA](https://open.spotify.com/track/0tDiHHTmwoFNMroJ3OHNLf) | [Yung Felix](https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu), [GP UIT G](https://open.spotify.com/artist/4dgbnJmnTFDiJiKloaWH2p), [Oomto](https://open.spotify.com/artist/10Tmpcwo1bS6hnYOBI1Gip) | [BUMA](https://open.spotify.com/album/5jXlUSm2wJgI4AyC4L0o6P) | 2:35 | 2025-11-17 |  |
 | [Buurt Heet](https://open.spotify.com/track/0WWPKfzXurSnLwjipOwkGo) | [Araz](https://open.spotify.com/artist/1rPMcrX4V33XyzbdAx7wAL), [Dpomerta](https://open.spotify.com/artist/7mB5bLUHOGUSQ9oE1SVFJj) | [Buurt Heet](https://open.spotify.com/album/6dcOkgIKdaM2ehOD9tlNfw) | 2:16 | 2025-11-13 |  |
 | [Call Me](https://open.spotify.com/track/7htHKkSHvbWR9IuBTumNux) | [Leafs](https://open.spotify.com/artist/6Ul16nbSefjbgfpDz2k9il) | [Call Me](https://open.spotify.com/album/5RoeNCapTkAX4wIuMDTNS1) | 3:12 | 2025-08-14 | 2025-09-26 |
 | [Chagrijnig voor m'n od](https://open.spotify.com/track/6psCJcGQSrezQGAqMIbXSq) | [Vlekkeloos](https://open.spotify.com/artist/2qz4sJHkcI84vlbtsS2Y4i), [YUNG UMBRO](https://open.spotify.com/artist/40sfgug5w4oU06G2h0SLBw) | [Chagrijnig voor m'n od](https://open.spotify.com/album/3DlW87KgtQj1jdb2rVNzDT) | 2:21 | 2025-10-09 |  |
@@ -151,7 +152,7 @@
 | [Make It Out](https://open.spotify.com/track/0g5F4SGVlNRh2VovNtTgPQ) | [Karma K](https://open.spotify.com/artist/0ua6wTu1hZ9yCFbxwPRXII) | [Make It Out](https://open.spotify.com/album/31BLhsl8eTVLGXfamY2hAH) | 2:59 | 2025-08-07 | 2025-09-19 |
 | [MAKINA](https://open.spotify.com/track/7mYakNpvYwOYGjTNrfTBqN) | [Orco](https://open.spotify.com/artist/0fu2mSZ27dPE5OElHvgQP7), [Rockywhereyoubeen](https://open.spotify.com/artist/5pieMKHiTXhVZEmlMT0ij7), [Narco](https://open.spotify.com/artist/6WpmH4J0R74ZkHtgm7JLvM) | [MAKINA](https://open.spotify.com/album/53vvwKlifFZdwN7ogYPinN) | 2:09 | 2025-08-28 | 2025-10-03 |
 | [Man Zijn](https://open.spotify.com/track/6ntnmM14ptMpdOcUziSdCC) | [Vinny](https://open.spotify.com/artist/4ZDIqLTT2TZuC199G4KwTD), [Kingsize](https://open.spotify.com/artist/1d6XcWMNZgvbgs123LlFgJ) | [Filantroop](https://open.spotify.com/album/2C6yXgjoNE7pmZpDmQwc8P) | 2:32 | 2025-09-18 | 2025-11-01 |
-| [Mandem FC](https://open.spotify.com/track/16L8iY1AxRtjNG0G9rakHZ) | [Buurtchase](https://open.spotify.com/artist/7egR3WkKUDT2EnnLtYCJFA), [Quincy Promes](https://open.spotify.com/artist/6ak4Dte1ZVVz6iGqv7jTrS) | [Mandem FC](https://open.spotify.com/album/1OcDzH5g0p8ejBEtMwnDiJ) | 2:32 | 2025-11-13 |  |
+| [Mandem FC](https://open.spotify.com/track/16L8iY1AxRtjNG0G9rakHZ) | [Buurtchase](https://open.spotify.com/artist/7egR3WkKUDT2EnnLtYCJFA), [Quincy Promes](https://open.spotify.com/artist/6ak4Dte1ZVVz6iGqv7jTrS) | [Mandem FC](https://open.spotify.com/album/1OcDzH5g0p8ejBEtMwnDiJ) | 2:32 | 2025-11-13 | 2025-11-18 |
 | [MARV & MACK](https://open.spotify.com/track/1xzPeSp1Zd0VbrfhV2RgDB) | [$KEER&BOO$](https://open.spotify.com/artist/54AXOGACUgkWEWlIG07d6B), [Starvin Marv](https://open.spotify.com/artist/1G4mjanvIMscJ8JuNOAqik) | [MARV & MACK](https://open.spotify.com/album/6UPENYnK296D2H8LO56OQx) | 2:48 | 2025-09-18 | 2025-11-01 |
 | [MEER & MEER](https://open.spotify.com/track/1x450EOqnqRDAmf5V1HaFd) | [B4RKIE](https://open.spotify.com/artist/2MQ6TLWN9FQ5OqnsB9HNXs), [SKO](https://open.spotify.com/artist/4dh374pyaeKLOTy5jnUcAS) | [MEER & MEER](https://open.spotify.com/album/4xOezOHMrps02j6UxqKLCM) | 2:26 | 2025-08-28 | 2025-10-03 |
 | [Meer Money](https://open.spotify.com/track/54OgxYjv2mDpkZ4aw5mWAD) | [PJ Scoolio](https://open.spotify.com/artist/2EozjqoLUKLQSnVAO90pyg) | [Meer Money](https://open.spotify.com/album/2QlR4QRBLoAll73tKyWktI) | 2:07 | 2025-07-17 | 2025-08-29 |

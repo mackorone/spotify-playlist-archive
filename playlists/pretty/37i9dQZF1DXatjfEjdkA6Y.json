@@ -1,6 +1,6 @@
 {
   "description": "The highlights of Eurovision from the 50s, 60s & 70s. Cover: ABBA",
-  "num_followers": 5503,
+  "num_followers": 5506,
   "original_name": "Eurovision Gold",
   "owner": {
     "name": "Spotify",
@@ -443,6 +443,22 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
+        "name": "Pure... France",
+        "url": "https://open.spotify.com/album/7qHQ8U2HlkyXsBoSfoidkr"
+      },
+      "artists": [
+        {
+          "name": "Alain Barri\u00e8re",
+          "url": "https://open.spotify.com/artist/0ZKY5JXrPqZ761rg10WqtW"
+        }
+      ],
+      "duration_ms": 177133,
+      "name": "Elle \u00e9tait si jolie",
+      "url": "https://open.spotify.com/track/6zExa9fc43F6uxNdaVmcUR"
+    },
+    {
+      "added_at": "2025-03-14 16:55:23",
+      "album": {
         "name": "16 Hits",
         "url": "https://open.spotify.com/album/74u48w2QLDrnp2neG6hzLN"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 177293,
       "name": "Dansevise",
       "url": "https://open.spotify.com/track/1oIVUqdVUFouSa6xsSN5aM"
-    },
-    {
-      "added_at": "2025-03-14 16:55:23",
-      "album": {
-        "name": "Pure... France",
-        "url": "https://open.spotify.com/album/7qHQ8U2HlkyXsBoSfoidkr"
-      },
-      "artists": [
-        {
-          "name": "Alain Barri\u00e8re",
-          "url": "https://open.spotify.com/artist/0ZKY5JXrPqZ761rg10WqtW"
-        }
-      ],
-      "duration_ms": 177133,
-      "name": "Elle \u00e9tait si jolie",
-      "url": "https://open.spotify.com/track/6zExa9fc43F6uxNdaVmcUR"
     },
     {
       "added_at": "2025-03-14 16:55:23",
@@ -703,22 +703,6 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
-        "name": "Alle Macht den Gef\u00fchlen",
-        "url": "https://open.spotify.com/album/20OmM7msF0aALXBhaWgUFI"
-      },
-      "artists": [
-        {
-          "name": "Udo J\u00fcrgens",
-          "url": "https://open.spotify.com/artist/2G0htB8PxlO2onxnIismur"
-        }
-      ],
-      "duration_ms": 166026,
-      "name": "Merci Ch\u00e9rie",
-      "url": "https://open.spotify.com/track/29wXI6B7d5vy3iPfXhYMuP"
-    },
-    {
-      "added_at": "2025-03-14 16:55:23",
-      "album": {
         "name": "Solino",
         "url": "https://open.spotify.com/album/0I3MXd5FYGAj6X9GOJepMb"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 178720,
       "name": "Uno Per Tutte",
       "url": "https://open.spotify.com/track/4OF9t8dHcIBMip0Vc5hSlk"
+    },
+    {
+      "added_at": "2025-03-14 16:55:23",
+      "album": {
+        "name": "Alle Macht den Gef\u00fchlen",
+        "url": "https://open.spotify.com/album/20OmM7msF0aALXBhaWgUFI"
+      },
+      "artists": [
+        {
+          "name": "Udo J\u00fcrgens",
+          "url": "https://open.spotify.com/artist/2G0htB8PxlO2onxnIismur"
+        }
+      ],
+      "duration_ms": 166026,
+      "name": "Merci Ch\u00e9rie",
+      "url": "https://open.spotify.com/track/29wXI6B7d5vy3iPfXhYMuP"
     },
     {
       "added_at": "2025-03-14 16:55:23",
@@ -751,22 +751,6 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
-        "name": "Non ho l\u00b4eta (Remastered)",
-        "url": "https://open.spotify.com/album/48phIpjpaG5tev1dUQgUYl"
-      },
-      "artists": [
-        {
-          "name": "Gigliola Cinquetti",
-          "url": "https://open.spotify.com/artist/6QxfNzuPwvVnH5n1U24Cmh"
-        }
-      ],
-      "duration_ms": 196519,
-      "name": "Non ho l'et\u00e0 - Remastered",
-      "url": "https://open.spotify.com/track/65715T2yQVD0uPDRcrODGk"
-    },
-    {
-      "added_at": "2025-03-14 16:55:23",
-      "album": {
         "name": "Herzen zu verschenken",
         "url": "https://open.spotify.com/album/0RGfq0U1p0D1PumB2YHlUB"
       },
@@ -783,18 +767,18 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
-        "name": "Udo J\u00fcrgens - Die Erfolgsgeschichte",
-        "url": "https://open.spotify.com/album/7ux7Y97oJmhfjtYKO95Ku6"
+        "name": "Non ho l\u00b4eta (Remastered)",
+        "url": "https://open.spotify.com/album/48phIpjpaG5tev1dUQgUYl"
       },
       "artists": [
         {
-          "name": "Udo J\u00fcrgens",
-          "url": "https://open.spotify.com/artist/2G0htB8PxlO2onxnIismur"
+          "name": "Gigliola Cinquetti",
+          "url": "https://open.spotify.com/artist/6QxfNzuPwvVnH5n1U24Cmh"
         }
       ],
-      "duration_ms": 178826,
-      "name": "Warum nur, warum",
-      "url": "https://open.spotify.com/track/231iiM3Zt82cVUjEUHFSZA"
+      "duration_ms": 196519,
+      "name": "Non ho l'et\u00e0 - Remastered",
+      "url": "https://open.spotify.com/track/65715T2yQVD0uPDRcrODGk"
     },
     {
       "added_at": "2025-03-14 16:55:23",
@@ -811,6 +795,22 @@
       "duration_ms": 183040,
       "name": "Tom Pillibi",
       "url": "https://open.spotify.com/track/3fZIQ0sdsy7u7YDmOpqbxS"
+    },
+    {
+      "added_at": "2025-03-14 16:55:23",
+      "album": {
+        "name": "Udo J\u00fcrgens - Die Erfolgsgeschichte",
+        "url": "https://open.spotify.com/album/7ux7Y97oJmhfjtYKO95Ku6"
+      },
+      "artists": [
+        {
+          "name": "Udo J\u00fcrgens",
+          "url": "https://open.spotify.com/artist/2G0htB8PxlO2onxnIismur"
+        }
+      ],
+      "duration_ms": 178826,
+      "name": "Warum nur, warum",
+      "url": "https://open.spotify.com/track/231iiM3Zt82cVUjEUHFSZA"
     },
     {
       "added_at": "2025-03-14 16:55:23",

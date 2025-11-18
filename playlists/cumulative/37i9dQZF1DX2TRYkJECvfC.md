@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-653 songs - 2 day 5 hr 48 min
+654 songs - 2 day 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Extassy](https://open.spotify.com/track/2uK3ghC7nVXanDzeTL22Zw) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Extassy / In A Distorted Galaxy](https://open.spotify.com/album/7ik3JfNXlgGFLqeEtgzWS0) | 9:43 | 2022-10-28 | 2025-08-30 |
 | [Fade](https://open.spotify.com/track/1bNo2ybJL8rmZzOdd6T3sG) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB), [Sølv](https://open.spotify.com/artist/4QmC9vyeUlNcmR9sKzbmxe) | [Fade](https://open.spotify.com/album/29CnJBF1VbNG79dvyguEzj) | 3:18 | 2023-02-03 |  |
 | [Fade \- Fatima & Jerome Interpretation](https://open.spotify.com/track/2s2Cgh3uwaMpCnIXavUSHt) | [Fatima Njai](https://open.spotify.com/artist/2ZsFEqTaZHuETRbQfgBsQS), [Jerome Sydenham](https://open.spotify.com/artist/4e7xQaHgOjyFZtSic0Nk9B) | [Brooklyn Zoo](https://open.spotify.com/album/4ngyeGZoZZN0HGC2uwUHDM) | 6:03 | 2021-12-08 | 2023-03-07 |
+| [Fade Away](https://open.spotify.com/track/2F3j8fIePm0ZfWo5tGeRch) | [Warung](https://open.spotify.com/artist/2V1Ub5tTf23y9LkBjLT5hz) | [Fade Away](https://open.spotify.com/album/2f1yVOoMjf7QNPXGkGz9kw) | 3:12 | 2025-11-07 |  |
 | [Faded Memory](https://open.spotify.com/track/30sWK9of3ll8689n12qV0b) | [Planète](https://open.spotify.com/artist/6Vu5ri1skVRQ5jh8Tkytri) | [Alone In Parallel / Faded Memory](https://open.spotify.com/album/7mZsqsu1FHR3QKnF4eH3sV) | 4:14 | 2021-12-08 | 2023-08-12 |
 | [Falling Apart](https://open.spotify.com/track/6OLWbvjMrcnjee9YyD6qnA) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Falling Apart](https://open.spotify.com/album/2WOEuoplEe5oGQlz6jNlji) | 3:28 | 2024-08-02 |  |
 | [Far Away](https://open.spotify.com/track/0owkRiLsjtXe3JKYxt9tf5) | [jackLNDN](https://open.spotify.com/artist/6ZPZXXnq3PbxZSR9vu9fso), [ZEMBU](https://open.spotify.com/artist/62VBDaxSQkTLYkKIXVItGr) | [Far Away](https://open.spotify.com/album/1A20CLLIpdw7tsZu25xZ7C) | 2:58 | 2021-12-08 | 2025-08-30 |
@@ -568,7 +569,7 @@
 | [Tears](https://open.spotify.com/track/2dpzs6UBVMvB4zHM6ly1iq) | [Bound to Divide](https://open.spotify.com/artist/5nQ7llwdZYT6MWMeLLe8dc), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [Tears](https://open.spotify.com/album/7hMZlhA5J4w7qYIJEnk0Rt) | 3:57 | 2023-09-08 |  |
 | [Tears](https://open.spotify.com/track/1XtlpDLDLbuk9mFnUs614k) | [Tim Green](https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB) | [Eastbound Silhouette](https://open.spotify.com/album/7CgB2RVayWXcMSd3cv0gOa) | 8:47 | 2022-10-28 | 2024-08-10 |
 | [Tears](https://open.spotify.com/track/5KYdRygDWQcWoFeo6dOBRY) | [Tim Green](https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB) | [Eastbound Silhouette](https://open.spotify.com/album/3BwTQp1wRmL4B7WkXkwvzd) | 8:47 | 2023-11-17 | 2024-04-19 |
-| [The Crown](https://open.spotify.com/track/76rmPDUCuf6IDdYMzDMURR) | [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [The Crown](https://open.spotify.com/album/4aKmGcRsqb2ENQEMsQO1Ys) | 3:04 | 2025-08-29 |  |
+| [The Crown](https://open.spotify.com/track/76rmPDUCuf6IDdYMzDMURR) | [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [The Crown](https://open.spotify.com/album/4aKmGcRsqb2ENQEMsQO1Ys) | 3:04 | 2025-08-29 | 2025-11-18 |
 | [The Lights \- HANA Remix](https://open.spotify.com/track/7bwi46wM1XxbR6iGNfFFWV) | [Nicky Elisabeth](https://open.spotify.com/artist/7nt1M2NuH98Fr9c69lscEE), [HANA](https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o) | [The Lights \(HANA Remix\)](https://open.spotify.com/album/2ciw6n34rRHIFd7GvUEhRc) | 3:08 | 2025-09-05 |  |
 | [The Melody \- Henrik Schwarz Remix](https://open.spotify.com/track/5k1S9YYZUlxD8R57KFjh8p) | [Carl Craig](https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU), [Francesco Tristano](https://open.spotify.com/artist/19CMctG8DNWO0rHPE98ujj), [Les Siècles](https://open.spotify.com/artist/1ncGbUNumu1kLQDLfI5Hds), [François\-Xavier Roth](https://open.spotify.com/artist/01MlLLNqc0Dp9jS04Rm6gp), [Henrik Schwarz](https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R) | [The Melody \(Henrik Schwarz Remix\)](https://open.spotify.com/album/3PwiGONOF33KuHMmCmyUxM) | 7:41 | 2021-12-08 | 2024-04-13 |
 | [the mirror](https://open.spotify.com/track/00i5lwTpbdEq3Cp9m3oB88) | [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF) | [the mirror](https://open.spotify.com/album/1TEjpHuMWHgpxmE1MPzCFX) | 8:54 | 2021-12-08 | 2022-11-21 |

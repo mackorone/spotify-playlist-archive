@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain](/playlists/plain/37i9dQZF1DWSrj7tqQ9IOu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSrj7tqQ9IOu)
 
-### [Made in France](https://open.spotify.com/playlist/37i9dQZF1DWSrj7tqQ9IOu)
+### [Indie France](https://open.spotify.com/playlist/37i9dQZF1DWSrj7tqQ9IOu)
 
 > Le meilleur de l'indie français\. Cover : BLOWSOM
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,476 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,455 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

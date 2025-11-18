@@ -1,12 +1,12 @@
 {
   "description": "Las favoritas de los patrones. Panter B\u00e9lico en portada.",
-  "num_followers": 224538,
+  "num_followers": 224611,
   "original_name": "Corridos Chakalosos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF847YIg2P8vVDES8fEs+FJynMa8",
+  "snapshot_id": "AAAAANMhBe2kwaEYWzFTVEhC4J8Vm9h5",
   "tracks": [
     {
       "added_at": "2025-11-07 18:00:12",
@@ -595,6 +595,22 @@
     {
       "added_at": "2025-11-07 18:00:12",
       "album": {
+        "name": "El Jelty",
+        "url": "https://open.spotify.com/album/0HnwPMtwdE6iRhv8vRaulE"
+      },
+      "artists": [
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+        }
+      ],
+      "duration_ms": 189605,
+      "name": "El Jelty",
+      "url": "https://open.spotify.com/track/0hXOh8C8Yz6Ok0yMXqdgnO"
+    },
+    {
+      "added_at": "2025-11-07 18:00:12",
+      "album": {
         "name": "El Dos de los Antrax",
         "url": "https://open.spotify.com/album/3QREXMTqKJdqBNU0JnNgvS"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 199769,
       "name": "El Dos de los Antrax",
       "url": "https://open.spotify.com/track/0afnj4MhXXw66wK238iUwe"
-    },
-    {
-      "added_at": "2025-11-07 18:00:12",
-      "album": {
-        "name": "El Jelty",
-        "url": "https://open.spotify.com/album/0HnwPMtwdE6iRhv8vRaulE"
-      },
-      "artists": [
-        {
-          "name": "Herencia De Grandes",
-          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
-        }
-      ],
-      "duration_ms": 189605,
-      "name": "El Jelty",
-      "url": "https://open.spotify.com/track/0hXOh8C8Yz6Ok0yMXqdgnO"
     },
     {
       "added_at": "2025-11-07 18:00:12",
@@ -683,22 +683,6 @@
     {
       "added_at": "2025-11-07 18:00:12",
       "album": {
-        "name": "10 Corridos Autorizados",
-        "url": "https://open.spotify.com/album/2wrps2mlZBUfw63G9Sf7Th"
-      },
-      "artists": [
-        {
-          "name": "Novillos de la Sierra",
-          "url": "https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro"
-        }
-      ],
-      "duration_ms": 226944,
-      "name": "El Doble R",
-      "url": "https://open.spotify.com/track/78ZDV7gNfRTDQaVdgzs8PN"
-    },
-    {
-      "added_at": "2025-11-07 18:00:12",
-      "album": {
         "name": "Contrato A La Vida",
         "url": "https://open.spotify.com/album/0mUwAhUW45BYtG3apeePZD"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 186366,
       "name": "Chambeando En Lo Verde",
       "url": "https://open.spotify.com/track/7qfEXN9F6xhtgpsadxQu8m"
+    },
+    {
+      "added_at": "2025-11-07 18:00:12",
+      "album": {
+        "name": "10 Corridos Autorizados",
+        "url": "https://open.spotify.com/album/2wrps2mlZBUfw63G9Sf7Th"
+      },
+      "artists": [
+        {
+          "name": "Novillos de la Sierra",
+          "url": "https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro"
+        }
+      ],
+      "duration_ms": 226944,
+      "name": "El Doble R",
+      "url": "https://open.spotify.com/track/78ZDV7gNfRTDQaVdgzs8PN"
     },
     {
       "added_at": "2025-11-07 18:00:12",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2025-11-07 18:00:12",
       "album": {
-        "name": "Resguardando El Estado",
-        "url": "https://open.spotify.com/album/328Wk4jwQ7klvuVDlogBfr"
-      },
-      "artists": [
-        {
-          "name": "JR Torres",
-          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
-        }
-      ],
-      "duration_ms": 112518,
-      "name": "Resguardando El Estado",
-      "url": "https://open.spotify.com/track/725bqAGnFr9L8jxUR2IPck"
-    },
-    {
-      "added_at": "2025-11-07 18:00:12",
-      "album": {
         "name": "Punto Y Aparte",
         "url": "https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 189149,
       "name": "Seraf\u00edn",
       "url": "https://open.spotify.com/track/7s9pcSenofBwaNfI0vjisP"
+    },
+    {
+      "added_at": "2025-11-07 18:00:12",
+      "album": {
+        "name": "Resguardando El Estado",
+        "url": "https://open.spotify.com/album/328Wk4jwQ7klvuVDlogBfr"
+      },
+      "artists": [
+        {
+          "name": "JR Torres",
+          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
+        }
+      ],
+      "duration_ms": 112518,
+      "name": "Resguardando El Estado",
+      "url": "https://open.spotify.com/track/725bqAGnFr9L8jxUR2IPck"
     },
     {
       "added_at": "2025-11-07 18:00:12",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2025-11-07 18:00:12",
       "album": {
+        "name": "La Raza de Michoac\u00e1n",
+        "url": "https://open.spotify.com/album/6LV5hKxJFgPPdsxPnua7fN"
+      },
+      "artists": [
+        {
+          "name": "Alemi Bustos",
+          "url": "https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF"
+        }
+      ],
+      "duration_ms": 155018,
+      "name": "La Raza de Michoac\u00e1n",
+      "url": "https://open.spotify.com/track/2V5TwDefnxaxMxByDM2cG1"
+    },
+    {
+      "added_at": "2025-11-07 18:00:12",
+      "album": {
         "name": "La Cruda Deluxe (En Vivo)",
         "url": "https://open.spotify.com/album/7FULQRQbO2j0c3uqpr4N5u"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 157966,
       "name": "El Panu (En Vivo)",
       "url": "https://open.spotify.com/track/0W1ifaL01aXznVi6ZhMWir"
-    },
-    {
-      "added_at": "2025-11-07 18:00:12",
-      "album": {
-        "name": "La Raza de Michoac\u00e1n",
-        "url": "https://open.spotify.com/album/6LV5hKxJFgPPdsxPnua7fN"
-      },
-      "artists": [
-        {
-          "name": "Alemi Bustos",
-          "url": "https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF"
-        }
-      ],
-      "duration_ms": 155018,
-      "name": "La Raza de Michoac\u00e1n",
-      "url": "https://open.spotify.com/track/2V5TwDefnxaxMxByDM2cG1"
     },
     {
       "added_at": "2025-11-07 18:00:12",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2025-11-07 18:00:12",
       "album": {
-        "name": "MALA FAMA",
-        "url": "https://open.spotify.com/album/6H1Hqffcfb36xRrKDQK5h7"
-      },
-      "artists": [
-        {
-          "name": "Los Chavalos De La Perla",
-          "url": "https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "R3",
-      "url": "https://open.spotify.com/track/4fLNsB5vYYmh01aWhftI7v"
-    },
-    {
-      "added_at": "2025-11-07 18:00:12",
-      "album": {
         "name": "El 04",
         "url": "https://open.spotify.com/album/6sAO8JZsJdWIA0x1g53CAq"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 176066,
       "name": "El 04",
       "url": "https://open.spotify.com/track/6igq3Wr66N1lbjNs216aHw"
+    },
+    {
+      "added_at": "2025-11-07 18:00:12",
+      "album": {
+        "name": "MALA FAMA",
+        "url": "https://open.spotify.com/album/6H1Hqffcfb36xRrKDQK5h7"
+      },
+      "artists": [
+        {
+          "name": "Los Chavalos De La Perla",
+          "url": "https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "R3",
+      "url": "https://open.spotify.com/track/4fLNsB5vYYmh01aWhftI7v"
     },
     {
       "added_at": "2025-11-07 18:00:12",
@@ -1387,26 +1387,6 @@
     {
       "added_at": "2025-11-07 18:00:12",
       "album": {
-        "name": "Somos Leyenda",
-        "url": "https://open.spotify.com/album/3wCdZP5zvUlanVuNI951Il"
-      },
-      "artists": [
-        {
-          "name": "Grupo Maximo Grado",
-          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
-        },
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        }
-      ],
-      "duration_ms": 219615,
-      "name": "El N1 El Perfil o El Chavalon",
-      "url": "https://open.spotify.com/track/6DijdXsyS0PtjfAnqFsQS2"
-    },
-    {
-      "added_at": "2025-11-07 18:00:12",
-      "album": {
         "name": "Los Brothers (09/19)",
         "url": "https://open.spotify.com/album/0A5XLLKJ8Z7G6AM7uL4WzI"
       },
@@ -1427,6 +1407,26 @@
       "duration_ms": 216310,
       "name": "Los Brothers (09/19)",
       "url": "https://open.spotify.com/track/0c8WcRLJRUuQfQIdmXAzpA"
+    },
+    {
+      "added_at": "2025-11-07 18:00:12",
+      "album": {
+        "name": "Somos Leyenda",
+        "url": "https://open.spotify.com/album/3wCdZP5zvUlanVuNI951Il"
+      },
+      "artists": [
+        {
+          "name": "Grupo Maximo Grado",
+          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "duration_ms": 219615,
+      "name": "El N1 El Perfil o El Chavalon",
+      "url": "https://open.spotify.com/track/6DijdXsyS0PtjfAnqFsQS2"
     },
     {
       "added_at": "2025-11-07 18:00:12",
@@ -1483,26 +1483,6 @@
     {
       "added_at": "2025-11-07 18:00:12",
       "album": {
-        "name": "Somos Leyenda",
-        "url": "https://open.spotify.com/album/3wCdZP5zvUlanVuNI951Il"
-      },
-      "artists": [
-        {
-          "name": "Grupo Maximo Grado",
-          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 236426,
-      "name": "El Hombre del Equipo",
-      "url": "https://open.spotify.com/track/7kS8h635mshrSVF8qiJfSN"
-    },
-    {
-      "added_at": "2025-11-07 18:00:12",
-      "album": {
         "name": "DEFIENDO EL TERRE",
         "url": "https://open.spotify.com/album/3dSuYPcIUIgUdUZsKZiDMh"
       },
@@ -1519,6 +1499,26 @@
       "duration_ms": 150000,
       "name": "DEFIENDO EL TERRE",
       "url": "https://open.spotify.com/track/150x3uhN0IOSohoxaj3auy"
+    },
+    {
+      "added_at": "2025-11-07 18:00:12",
+      "album": {
+        "name": "Somos Leyenda",
+        "url": "https://open.spotify.com/album/3wCdZP5zvUlanVuNI951Il"
+      },
+      "artists": [
+        {
+          "name": "Grupo Maximo Grado",
+          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 236426,
+      "name": "El Hombre del Equipo",
+      "url": "https://open.spotify.com/track/7kS8h635mshrSVF8qiJfSN"
     },
     {
       "added_at": "2025-11-07 18:00:12",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2025-11-07 18:00:12",
       "album": {
+        "name": "XV Recargado",
+        "url": "https://open.spotify.com/album/47pZ8cK6ufjFgX1RNObRLd"
+      },
+      "artists": [
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        }
+      ],
+      "duration_ms": 219116,
+      "name": "15 Millones por el M (En Vivo)",
+      "url": "https://open.spotify.com/track/28WrLmRF0Q89fv4SpZZigT"
+    },
+    {
+      "added_at": "2025-11-07 18:00:12",
+      "album": {
         "name": "Somos Leyenda",
         "url": "https://open.spotify.com/album/3wCdZP5zvUlanVuNI951Il"
       },
@@ -1599,24 +1615,8 @@
     {
       "added_at": "2025-11-07 18:00:12",
       "album": {
-        "name": "XV Recargado",
-        "url": "https://open.spotify.com/album/47pZ8cK6ufjFgX1RNObRLd"
-      },
-      "artists": [
-        {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
-        }
-      ],
-      "duration_ms": 219116,
-      "name": "15 Millones por el M (En Vivo)",
-      "url": "https://open.spotify.com/track/28WrLmRF0Q89fv4SpZZigT"
-    },
-    {
-      "added_at": "2025-11-07 18:00:12",
-      "album": {
-        "name": "Traficantes Michoacanos",
-        "url": "https://open.spotify.com/album/5TgwAXNo1a9ROlqxkDJt9L"
+        "name": "El Viejo Fino",
+        "url": "https://open.spotify.com/album/6JV5WJH9zOwDK9NaWYtb0n"
       },
       "artists": [
         {
@@ -1624,9 +1624,9 @@
           "url": "https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF"
         }
       ],
-      "duration_ms": 199038,
-      "name": "Traficantes Michoacanos",
-      "url": "https://open.spotify.com/track/6Wu6lpZXzVTVGlvDCDL2Qk"
+      "duration_ms": 179492,
+      "name": "Versos de Nazario",
+      "url": "https://open.spotify.com/track/0tyPhCyOtvbf3ApfRWqHfl"
     },
     {
       "added_at": "2025-11-07 18:00:12",
@@ -1703,8 +1703,8 @@
     {
       "added_at": "2025-11-07 18:00:12",
       "album": {
-        "name": "El Viejo Fino",
-        "url": "https://open.spotify.com/album/6JV5WJH9zOwDK9NaWYtb0n"
+        "name": "Traficantes Michoacanos",
+        "url": "https://open.spotify.com/album/5TgwAXNo1a9ROlqxkDJt9L"
       },
       "artists": [
         {
@@ -1712,9 +1712,9 @@
           "url": "https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF"
         }
       ],
-      "duration_ms": 179492,
-      "name": "Versos de Nazario",
-      "url": "https://open.spotify.com/track/0tyPhCyOtvbf3ApfRWqHfl"
+      "duration_ms": 199038,
+      "name": "Traficantes Michoacanos",
+      "url": "https://open.spotify.com/track/6Wu6lpZXzVTVGlvDCDL2Qk"
     },
     {
       "added_at": "2025-11-07 18:00:12",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2025-11-07 18:00:12",
       "album": {
-        "name": "La Tropa Del Infierno",
-        "url": "https://open.spotify.com/album/6w2ZltCLxUaTF6OyQo46kx"
-      },
-      "artists": [
-        {
-          "name": "Victor Cibrian",
-          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
-        }
-      ],
-      "duration_ms": 162641,
-      "name": "La Tropa Del Infierno",
-      "url": "https://open.spotify.com/track/4FLBugx2vcm6hLKdOjlZU7"
-    },
-    {
-      "added_at": "2025-11-07 18:00:12",
-      "album": {
         "name": "Todo Marcha Bien",
         "url": "https://open.spotify.com/album/4oxmEgTKEEGghIEUQcNoc9"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 141506,
       "name": "Todo Marcha Bien",
       "url": "https://open.spotify.com/track/3ZrDGZeQPkh1SRCIDTdxBt"
+    },
+    {
+      "added_at": "2025-11-07 18:00:12",
+      "album": {
+        "name": "La Tropa Del Infierno",
+        "url": "https://open.spotify.com/album/6w2ZltCLxUaTF6OyQo46kx"
+      },
+      "artists": [
+        {
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+        }
+      ],
+      "duration_ms": 162641,
+      "name": "La Tropa Del Infierno",
+      "url": "https://open.spotify.com/track/4FLBugx2vcm6hLKdOjlZU7"
     },
     {
       "added_at": "2025-11-07 18:00:12",

@@ -1,12 +1,12 @@
 {
   "description": "This is Cassiane. The essential tracks, all in one playlist.",
-  "num_followers": 37401,
+  "num_followers": 37415,
   "original_name": "This Is Cassiane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRfCgAAAAAAq4QjDz88cEWV0SVCDuf13",
+  "snapshot_id": "aRkUAAAAAAB6DGXno8cKxDtm96uKtTwG",
   "tracks": [
     {
       "added_at": null,
@@ -851,22 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Harpa Vol.1",
-        "url": "https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 247942,
-      "name": "A Alma Abatida",
-      "url": "https://open.spotify.com/track/512xriilWCODMzkyhFaR4O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Escolhidas",
         "url": "https://open.spotify.com/album/4ull6HOMUtcjs9hhlOb3YC"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 247756,
       "name": "Escolhidas",
       "url": "https://open.spotify.com/track/67iZyjUMkdGl8RSXsXaYET"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Harpa Vol.1",
+        "url": "https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 247942,
+      "name": "A Alma Abatida",
+      "url": "https://open.spotify.com/track/512xriilWCODMzkyhFaR4O"
     },
     {
       "added_at": null,
@@ -927,22 +927,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tem Milagre",
-        "url": "https://open.spotify.com/album/786Yb8RGLm5I1hezYh9klS"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 247051,
-      "name": "Tem Milagre",
-      "url": "https://open.spotify.com/track/4N8W1ihLYDi7b3PzBjgiqc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Harpa Vol.2",
         "url": "https://open.spotify.com/album/5SUEVRCx1ccyoeWunYiZ9r"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 300419,
       "name": "Deus Velar\u00e1 por Ti",
       "url": "https://open.spotify.com/track/7EtEkZQfJEDHlsLaMZ2jIg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tem Milagre",
+        "url": "https://open.spotify.com/album/786Yb8RGLm5I1hezYh9klS"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 247051,
+      "name": "Tem Milagre",
+      "url": "https://open.spotify.com/track/4N8W1ihLYDi7b3PzBjgiqc"
     }
   ],
   "unique_name": "This Is Cassiane",

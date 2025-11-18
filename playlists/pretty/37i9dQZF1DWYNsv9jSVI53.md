@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNsv9jSVI53.md) - [plain]
 
 > The official playlist for Russian Doll on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,902 likes - 26 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,907 likes - 26 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNsv9jSVI53.md) - [plain]
 | 21 | [The Thin Ice](https://open.spotify.com/track/62zuXt6X5B6YQOBNFV2eXG) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Wall](https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F) | 2:26 |
 | 22 | [Runnin' with the Devil](https://open.spotify.com/track/46FW5ZZ6fOF1WpMTEOVEHX) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Best of Volume 1](https://open.spotify.com/album/7ndqT6LH9o6YQ5uA7aT0St) | 3:36 |
 | 23 | [Front](https://open.spotify.com/track/6SCAXoQUdLB7oPCwSA6YAd) | [Vex Ruffin](https://open.spotify.com/artist/6lxA3O2PKkIPpAjPHtQ8Kv) | [Conveyor](https://open.spotify.com/album/3SyLU1W5jMUGb9gys46jih) | 2:53 |
-| 24 | [Shine On You Crazy Diamond \(Pts\. 1\-5\)](https://open.spotify.com/track/6pnwfWyaWjQiHCKTiZLItr) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Wish You Were Here](https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw) | 13:31 |
+| 24 | [Shine On You Crazy Diamond \(Pts\. 1\-5\)](https://open.spotify.com/track/6pnwfWyaWjQiHCKTiZLItr) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Wish You Were Here](https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw) | 13:32 |
 | 25 | [Showtime](https://open.spotify.com/track/7ld59FzTeRSyR58BSOilTs) | [Joe Wong](https://open.spotify.com/artist/62TZuRSv7K8KK5BmL90K32) | [Russian Doll: Seasons 1 & 2 \(Music From The Netflix Original Series\)](https://open.spotify.com/album/0Dt08kWhZvV18tp4bALqWY) | 1:31 |
 | 26 | [Dream Mother](https://open.spotify.com/track/5SLfUZcKNs3Ab2F1BOjQXr) | [Joe Wong](https://open.spotify.com/artist/62TZuRSv7K8KK5BmL90K32) | [Russian Doll: Seasons 1 & 2 \(Music From The Netflix Original Series\)](https://open.spotify.com/album/0Dt08kWhZvV18tp4bALqWY) | 1:46 |
 

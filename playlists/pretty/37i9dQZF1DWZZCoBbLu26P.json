@@ -107,6 +107,22 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
+        "name": "I'm That Bitch",
+        "url": "https://open.spotify.com/album/7kRlARoaczAjQoVxOEV37b"
+      },
+      "artists": [
+        {
+          "name": "The Cast of RuPaul's Drag Race, Season 12",
+          "url": "https://open.spotify.com/artist/082jBeu8MzgcpEAYU56yJt"
+        }
+      ],
+      "duration_ms": 250053,
+      "name": "I'm That Bitch",
+      "url": "https://open.spotify.com/track/1f2cBGbsFTyMH1LwlrE4kB"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
         "name": "Lucky",
         "url": "https://open.spotify.com/album/254Ri8NToEgWzwZvu8VB2q"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 224430,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/3C3jcnDl4fbX05x67Jp4B6"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
-        "name": "I'm That Bitch",
-        "url": "https://open.spotify.com/album/7kRlARoaczAjQoVxOEV37b"
-      },
-      "artists": [
-        {
-          "name": "The Cast of RuPaul's Drag Race, Season 12",
-          "url": "https://open.spotify.com/artist/082jBeu8MzgcpEAYU56yJt"
-        }
-      ],
-      "duration_ms": 250053,
-      "name": "I'm That Bitch",
-      "url": "https://open.spotify.com/track/1f2cBGbsFTyMH1LwlrE4kB"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -195,6 +195,26 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
+        "name": "Break Up Bye Bye (Frock Destroyers Version)",
+        "url": "https://open.spotify.com/album/4vydhCuNsBlq3S4PNCO5K6"
+      },
+      "artists": [
+        {
+          "name": "The Cast of RuPaul's Drag Race UK",
+          "url": "https://open.spotify.com/artist/7oNsk0nkBTccrd9DTdeiPc"
+        },
+        {
+          "name": "Frock Destroyers",
+          "url": "https://open.spotify.com/artist/0bgDzuEKKYLcQrvb0XANf1"
+        }
+      ],
+      "duration_ms": 151825,
+      "name": "Break Up Bye Bye - Frock Destroyers Version",
+      "url": "https://open.spotify.com/track/13lgFanIzQVjIiVvxyAjjS"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
         "name": "Queens Everywhere (Cast Version)",
         "url": "https://open.spotify.com/album/4qRdeAlRbk0LfK6IHgNf5n"
       },
@@ -215,26 +235,6 @@
       "duration_ms": 197422,
       "name": "Queens Everywhere - Cast Version",
       "url": "https://open.spotify.com/track/2zbCUcfKcM9RDsnDcuybvV"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
-        "name": "Break Up Bye Bye (Frock Destroyers Version)",
-        "url": "https://open.spotify.com/album/4vydhCuNsBlq3S4PNCO5K6"
-      },
-      "artists": [
-        {
-          "name": "The Cast of RuPaul's Drag Race UK",
-          "url": "https://open.spotify.com/artist/7oNsk0nkBTccrd9DTdeiPc"
-        },
-        {
-          "name": "Frock Destroyers",
-          "url": "https://open.spotify.com/artist/0bgDzuEKKYLcQrvb0XANf1"
-        }
-      ],
-      "duration_ms": 151825,
-      "name": "Break Up Bye Bye - Frock Destroyers Version",
-      "url": "https://open.spotify.com/track/13lgFanIzQVjIiVvxyAjjS"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -635,22 +635,6 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Rodeo",
-        "url": "https://open.spotify.com/album/5qAwGFaG7II3KvQgeqbhvp"
-      },
-      "artists": [
-        {
-          "name": "Bimini",
-          "url": "https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk"
-        }
-      ],
-      "duration_ms": 210708,
-      "name": "Rodeo",
-      "url": "https://open.spotify.com/track/4yD54gEYISBUYtgth3cSv2"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
         "name": "Everybody Hates Linux",
         "url": "https://open.spotify.com/album/0xUsVc4uD9kO1u6TF0x29X"
       },
@@ -671,22 +655,18 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Everyone Is A Little Bit Gay",
-        "url": "https://open.spotify.com/album/0ecCfZt9jcLvm3rRv9n9Q5"
+        "name": "Rodeo",
+        "url": "https://open.spotify.com/album/5qAwGFaG7II3KvQgeqbhvp"
       },
       "artists": [
         {
-          "name": "Ash Gordon",
-          "url": "https://open.spotify.com/artist/0VovWkTz0WMOVbVTYcU6MF"
-        },
-        {
-          "name": "Alaska Thunderfuck",
-          "url": "https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy"
+          "name": "Bimini",
+          "url": "https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk"
         }
       ],
-      "duration_ms": 190603,
-      "name": "Everyone Is A Little Bit Gay",
-      "url": "https://open.spotify.com/track/04M8IuMRVeBjNpFmTzfyzW"
+      "duration_ms": 210708,
+      "name": "Rodeo",
+      "url": "https://open.spotify.com/track/4yD54gEYISBUYtgth3cSv2"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -707,6 +687,26 @@
       "duration_ms": 222159,
       "name": "Arrogant",
       "url": "https://open.spotify.com/track/6MmI4fwcClbnQJeIvtmJPm"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "Everyone Is A Little Bit Gay",
+        "url": "https://open.spotify.com/album/0ecCfZt9jcLvm3rRv9n9Q5"
+      },
+      "artists": [
+        {
+          "name": "Ash Gordon",
+          "url": "https://open.spotify.com/artist/0VovWkTz0WMOVbVTYcU6MF"
+        },
+        {
+          "name": "Alaska Thunderfuck",
+          "url": "https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy"
+        }
+      ],
+      "duration_ms": 190603,
+      "name": "Everyone Is A Little Bit Gay",
+      "url": "https://open.spotify.com/track/04M8IuMRVeBjNpFmTzfyzW"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Drag Den",
-        "url": "https://open.spotify.com/album/7MVcG4rJhelgCOK34fFl8b"
-      },
-      "artists": [
-        {
-          "name": "Manila Luzon",
-          "url": "https://open.spotify.com/artist/1cJCVvFLO8SLM8W9EITe1g"
-        }
-      ],
-      "duration_ms": 195474,
-      "name": "Drag Den",
-      "url": "https://open.spotify.com/track/3OcG8HWvhRJnX6GxRPNlIL"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
         "name": "Sweet T",
         "url": "https://open.spotify.com/album/6zCFc5e0UljWQKIO5T371V"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 275175,
       "name": "Ohh Lala Lala",
       "url": "https://open.spotify.com/track/3z02EeRFTXux2iD8hvKrLh"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "Drag Den",
+        "url": "https://open.spotify.com/album/7MVcG4rJhelgCOK34fFl8b"
+      },
+      "artists": [
+        {
+          "name": "Manila Luzon",
+          "url": "https://open.spotify.com/artist/1cJCVvFLO8SLM8W9EITe1g"
+        }
+      ],
+      "duration_ms": 195474,
+      "name": "Drag Den",
+      "url": "https://open.spotify.com/track/3OcG8HWvhRJnX6GxRPNlIL"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -1387,6 +1387,26 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
+        "name": "Straight Outta Oz",
+        "url": "https://open.spotify.com/album/1abVmBsdc82pIj9CQu7cN0"
+      },
+      "artists": [
+        {
+          "name": "Todrick Hall",
+          "url": "https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH"
+        },
+        {
+          "name": "Bob the Drag Queen",
+          "url": "https://open.spotify.com/artist/71WL5bNm5jPPpwpDcW3Icj"
+        }
+      ],
+      "duration_ms": 158222,
+      "name": "Wrong Bitch",
+      "url": "https://open.spotify.com/track/3eOYEYe2VUsiOSCW53OiZv"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
         "name": "Till Death Do Us Party",
         "url": "https://open.spotify.com/album/1fjGYWLyDPItMHLbu2QMeQ"
       },
@@ -1399,26 +1419,6 @@
       "duration_ms": 222833,
       "name": "I Adore U",
       "url": "https://open.spotify.com/track/3OJ34PxLlQZX8l6Ku0tyTF"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
-        "name": "Straight Outta Oz (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3UeUYonBAGu7lZi0706Vdb"
-      },
-      "artists": [
-        {
-          "name": "Todrick Hall",
-          "url": "https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH"
-        },
-        {
-          "name": "RuPaul",
-          "url": "https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe"
-        }
-      ],
-      "duration_ms": 201904,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/2TqWayWYGNjqfTpapyveyu"
     }
   ],
   "unique_name": "FIERCE",

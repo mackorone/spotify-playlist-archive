@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > JC Reyes x Morad x Quevedo, Manuel Turizo,  De La Rose x Mora, Laura Pausini con Yami Safdie y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,255 likes - 74 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,317 likes - 74 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

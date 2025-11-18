@@ -1,6 +1,6 @@
 {
   "description": "Remember these?",
-  "num_followers": 1347895,
+  "num_followers": 1348002,
   "original_name": "One-Hit Wonders",
   "owner": {
     "name": "Spotify",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-03-27 15:59:38",
       "album": {
-        "name": "Liebling (France version)",
-        "url": "https://open.spotify.com/album/5JP2ldSSJOjHsLmiKNZmsP"
-      },
-      "artists": [
-        {
-          "name": "Andreas Johnson",
-          "url": "https://open.spotify.com/artist/5CKhp4ovgbSd7PdVIza7cC"
-        }
-      ],
-      "duration_ms": 207293,
-      "name": "Glorious",
-      "url": "https://open.spotify.com/track/3Mx6U6CpcvLj4fHYneg5RB"
-    },
-    {
-      "added_at": "2024-03-27 15:59:38",
-      "album": {
         "name": "Do You Really Like It? (Remixes)",
         "url": "https://open.spotify.com/album/6Q29k7cHbnjX8ErN6B32GV"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 217120,
       "name": "Do You Really Like It? - Radio Edit",
       "url": "https://open.spotify.com/track/4Mnw05kNd0j1XDHwtfzofp"
+    },
+    {
+      "added_at": "2024-03-27 15:59:38",
+      "album": {
+        "name": "Liebling (France version)",
+        "url": "https://open.spotify.com/album/5JP2ldSSJOjHsLmiKNZmsP"
+      },
+      "artists": [
+        {
+          "name": "Andreas Johnson",
+          "url": "https://open.spotify.com/artist/5CKhp4ovgbSd7PdVIza7cC"
+        }
+      ],
+      "duration_ms": 207293,
+      "name": "Glorious",
+      "url": "https://open.spotify.com/track/3Mx6U6CpcvLj4fHYneg5RB"
     },
     {
       "added_at": "2024-03-27 15:59:38",

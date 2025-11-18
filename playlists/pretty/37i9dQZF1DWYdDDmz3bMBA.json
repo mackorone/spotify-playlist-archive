@@ -6,8 +6,88 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABsIeopsASM8emsWlBRZx3AMlJcd",
+  "snapshot_id": "AAAAABghTt+gMiJw6kHdQxqmR3e7DMSF",
   "tracks": [
+    {
+      "added_at": "2025-11-17 18:07:22",
+      "album": {
+        "name": "Behind The Wall",
+        "url": "https://open.spotify.com/album/5VjSRHdISZZnT9WkZC4xBb"
+      },
+      "artists": [
+        {
+          "name": "Behind The Wall",
+          "url": "https://open.spotify.com/show/5VjSRHdISZZnT9WkZC4xBb"
+        }
+      ],
+      "duration_ms": 2468329,
+      "name": "I Interviewed Bruce Springsteen And What He Said Surprised Everyone",
+      "url": "https://open.spotify.com/episode/1Yr2KLrsiSGCkZAKGLTke5"
+    },
+    {
+      "added_at": "2025-11-17 18:07:22",
+      "album": {
+        "name": "Tiger Sisters",
+        "url": "https://open.spotify.com/album/05r0jVSXGGAs8niZ1VsdzF"
+      },
+      "artists": [
+        {
+          "name": "Tiger Sisters",
+          "url": "https://open.spotify.com/show/05r0jVSXGGAs8niZ1VsdzF"
+        }
+      ],
+      "duration_ms": 2225002,
+      "name": "How to Talk About Money With Your Partner",
+      "url": "https://open.spotify.com/episode/1UDK7wiwDFL4MjQytlDRLP"
+    },
+    {
+      "added_at": "2025-11-17 18:07:22",
+      "album": {
+        "name": "Let's Get Haunted",
+        "url": "https://open.spotify.com/album/0Aw3LuTZqL6i4tRptbZPJv"
+      },
+      "artists": [
+        {
+          "name": "Let's Get Haunted",
+          "url": "https://open.spotify.com/show/0Aw3LuTZqL6i4tRptbZPJv"
+        }
+      ],
+      "duration_ms": 6833319,
+      "name": "Episode 240.5: Listener Stories #39 (DEMON TALES)",
+      "url": "https://open.spotify.com/episode/50YN2KQJpl6mMPb6LEFB4b"
+    },
+    {
+      "added_at": "2025-11-17 18:07:22",
+      "album": {
+        "name": "House Guest",
+        "url": "https://open.spotify.com/album/04A7siemGWqKh1ihsl6Due"
+      },
+      "artists": [
+        {
+          "name": "House Guest",
+          "url": "https://open.spotify.com/show/04A7siemGWqKh1ihsl6Due"
+        }
+      ],
+      "duration_ms": 2498496,
+      "name": "Halle Bailey Is Entering a New Era",
+      "url": "https://open.spotify.com/episode/74AxdNsDxbxX78IGA7Uxw2"
+    },
+    {
+      "added_at": "2025-11-17 18:07:22",
+      "album": {
+        "name": "T'd Up with Pierre Andresen",
+        "url": "https://open.spotify.com/album/7kydwMSRbw9fEFkAgiWj1Q"
+      },
+      "artists": [
+        {
+          "name": "T'd Up with Pierre Andresen",
+          "url": "https://open.spotify.com/show/7kydwMSRbw9fEFkAgiWj1Q"
+        }
+      ],
+      "duration_ms": 3010507,
+      "name": "Players I\u2019m ENJOYING, Players I need MORE from, PLUS MVP talk w/ Combo!",
+      "url": "https://open.spotify.com/episode/0gaBNQog9y8LIxyjTRv5h6"
+    },
     {
       "added_at": "2025-10-14 02:59:23",
       "album": {

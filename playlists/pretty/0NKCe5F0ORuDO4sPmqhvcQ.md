@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,469 likes - 78 songs - 4 hr 30 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,469 likes - 79 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,5 +86,6 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 76 | [LIMERENCE](https://open.spotify.com/track/5nITzteXAc5fXDtiQmhIBI) | [Beauvois](https://open.spotify.com/artist/6AbXJxYckXHpMDApmUyP8A) | [LIMERENCE](https://open.spotify.com/album/4iKMecARl9jUolLXdjO6QS) | 2:59 |
 | 77 | [It's Strange \(feat\. K.Flay\) \- jigitz Remix](https://open.spotify.com/track/1AONUJWKH8RufJKrN1p6Mr) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr), [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [It's Strange \(feat\. K.Flay\) \[10th Anniversary Edition\]](https://open.spotify.com/album/5SipI7btNPTGmV2ZPUBOcS) | 2:53 |
 | 78 | [lucky 777](https://open.spotify.com/track/2PItx8ylP9oGrcoQMhPA3r) | [wes mills](https://open.spotify.com/artist/0EuHfcxMPDNkOjGVF4e1KT) | [lucky 777](https://open.spotify.com/album/4yQO2awKYEX7cMd4AbGcXY) | 2:16 |
+| 79 | [Off My Head](https://open.spotify.com/track/1XKnWwwjUfiZwoqGyc0UaU) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [ElmyX](https://open.spotify.com/artist/3HE2rmc5yd27lV668hRPEV), [Simona Shao](https://open.spotify.com/artist/4iF8VQ9Avxe5RM3A4ddlvF) | [Off My Head](https://open.spotify.com/album/2H1tZkDlhFnYzBL4rHmDxs) | 3:55 |
 
-Snapshot ID: `AAArDo1tJdu+QjMeXIUxdH9vncnoFPTL`
+Snapshot ID: `AAArD15R6H1ucBLg/JS9Eqm60sLtjYMJ`

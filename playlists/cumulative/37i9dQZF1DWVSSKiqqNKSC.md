@@ -230,6 +230,6 @@
 | [Yo Voy Pa Encima](https://open.spotify.com/track/6CyqA8KDBXprJxkbwBVuIz) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Yo Voy Pa Encima](https://open.spotify.com/album/3X8Xfid9BomsVbXUB7isFJ) | 3:26 | 2020-08-25 | 2025-01-06 |
 | [¡UEA!](https://open.spotify.com/track/0ZjAqYRECVtph1ros7fEW7) | [Elito Revé y su Charangón](https://open.spotify.com/artist/2hIYHAObXRLZ2WVUJZ499Z), [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn) | [¡Uea!](https://open.spotify.com/album/71RxJ0XbxoVGidD6EPSPei) | 4:55 | 2020-08-25 | 2022-07-22 |
 | [¿Dónde va Chichi?](https://open.spotify.com/track/5DPfEdyjJpt1PpFOKSAcW3) | [Sierra Maestra](https://open.spotify.com/artist/04azg2bFlSz46nOe03VY2w) | [Tibiri Tabara](https://open.spotify.com/album/7zmnzispQ0hGww56bg7kMX) | 5:13 | 2020-08-25 | 2022-07-29 |
-| [Ámame con Tu Experiencia \- Remasterizado](https://open.spotify.com/track/0FJQWQiCVmazkqIMNZ6jst) | [Juan Carlos Alfonso y su Dan Den](https://open.spotify.com/artist/25pI6o2nQxbMc6lLXiIGQM) | [Fiestas de Cuba \(Remasterizado\)](https://open.spotify.com/album/520m5W3Yq9dKrNRp3WqU3u) | 4:42 | 2020-08-25 |  |
+| [Ámame con Tu Experiencia \- Remasterizado](https://open.spotify.com/track/0FJQWQiCVmazkqIMNZ6jst) | [Juan Carlos Alfonso y su Dan Den](https://open.spotify.com/artist/25pI6o2nQxbMc6lLXiIGQM) | [Fiestas de Cuba \(Remasterizado\)](https://open.spotify.com/album/520m5W3Yq9dKrNRp3WqU3u) | 4:44 | 2020-08-25 |  |
 
 \*This playlist was first scraped on 2022-03-22. Prior content cannot be recovered.

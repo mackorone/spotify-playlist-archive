@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 
 > nü\-metal revival is happening here and now with MOTHICA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,285 likes - 80 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,373 likes - 80 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Evergreen Misery](https://open.spotify.com/track/1ypA3UK8yindQars9vhhWx) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Evergreen Misery](https://open.spotify.com/album/7yx5tiwwshhYl89XD3cnvU) | 3:18 |
 | 2 | [Making Love to Morgan Wallen](https://open.spotify.com/track/7Ki2fTfTdDhqY2AY8muY5z) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Making Love to Morgan Wallen](https://open.spotify.com/album/5gnSTqbBS89Ekjl6urNeyM) | 4:09 |
-| 3 | [SMOKEBOMB](https://open.spotify.com/track/5KC9cGQ3Dp4v3L74zd2b4n) | [RinRin](https://open.spotify.com/artist/4O4yXhwbHmxOv9csGeu6qq) | [SMOKEBOMB](https://open.spotify.com/album/3lx3v0kykUvlPgQoicVvhh) | 2:58 |
-| 4 | [Personalities](https://open.spotify.com/track/681IuFzFiGfCvkuxEGQDM5) | [RevengeinKyoto](https://open.spotify.com/artist/7avzhbB7YZbr3qba5F7O0B) | [Personalities](https://open.spotify.com/album/1byrSyyEh15BbsOJxFTBlR) | 2:35 |
-| 5 | [Disconnected](https://open.spotify.com/track/1H3wjeRIilS7ffzNTqobkt) | [Mike's Dead](https://open.spotify.com/artist/6uLNznYVguXrwbIPj9qUb1), [Johnny 3 Tears](https://open.spotify.com/artist/74iE6rXyjSPl853bFQhlNF), [Funny Man](https://open.spotify.com/artist/2zL0TmGfivsuZEIWGtAhKb) | [Disconnected](https://open.spotify.com/album/338f5CbDP4xItbaB1KkWu4) | 3:04 |
-| 6 | [Violence \(feat\. As December Falls\)](https://open.spotify.com/track/7MlSS4EB0u4szJiaF2AV13) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ), [As December Falls](https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX) | [Violence \(feat\. As December Falls\)](https://open.spotify.com/album/35NJW2tUWom47p99Zzq6q1) | 2:32 |
+| 3 | [Disconnected](https://open.spotify.com/track/1H3wjeRIilS7ffzNTqobkt) | [Mike's Dead](https://open.spotify.com/artist/6uLNznYVguXrwbIPj9qUb1), [Johnny 3 Tears](https://open.spotify.com/artist/74iE6rXyjSPl853bFQhlNF), [Funny Man](https://open.spotify.com/artist/2zL0TmGfivsuZEIWGtAhKb) | [Disconnected](https://open.spotify.com/album/338f5CbDP4xItbaB1KkWu4) | 3:04 |
+| 4 | [Violence \(feat\. As December Falls\)](https://open.spotify.com/track/7MlSS4EB0u4szJiaF2AV13) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ), [As December Falls](https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX) | [Violence \(feat\. As December Falls\)](https://open.spotify.com/album/35NJW2tUWom47p99Zzq6q1) | 2:32 |
+| 5 | [SMOKEBOMB](https://open.spotify.com/track/5KC9cGQ3Dp4v3L74zd2b4n) | [RinRin](https://open.spotify.com/artist/4O4yXhwbHmxOv9csGeu6qq) | [SMOKEBOMB](https://open.spotify.com/album/3lx3v0kykUvlPgQoicVvhh) | 2:58 |
+| 6 | [Personalities](https://open.spotify.com/track/681IuFzFiGfCvkuxEGQDM5) | [RevengeinKyoto](https://open.spotify.com/artist/7avzhbB7YZbr3qba5F7O0B) | [Personalities](https://open.spotify.com/album/1byrSyyEh15BbsOJxFTBlR) | 2:35 |
 | 7 | [THE VEIL](https://open.spotify.com/track/6GI38SAryXGJdXtZSljOSy) | [Memory of a Melody](https://open.spotify.com/artist/7MUx5uHwpNCLJzLBhkuKbP), [Martin Gonzalez](https://open.spotify.com/artist/5JM8caNvIgCqRWYtLYxxNg), [ERIK SEIME](https://open.spotify.com/artist/4sySRuh2u7W8V04xkWNPg5) | [THE VEIL](https://open.spotify.com/album/1uF3KzT84qsZJYmXVu7nqp) | 3:52 |
 | 8 | [D!E FOR ME](https://open.spotify.com/track/35AtGNzmpojI3DGerua6Xt) | [Ekoh](https://open.spotify.com/artist/5lC7N2Mm9i92KSfW4opawO) | [D!E FOR ME](https://open.spotify.com/album/5UkkLoIW75RudvilPnkJuJ) | 2:26 |
 | 9 | [Traffic](https://open.spotify.com/track/3gpWJdEl2siwZTran2nhRH) | [Silly Goose](https://open.spotify.com/artist/0GicbfMtwhn3Ch0PdwkADQ) | [Keys To The City](https://open.spotify.com/album/6R9JatwRXocbajKarpTqPy) | 3:20 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 | 79 | [IDGAF](https://open.spotify.com/track/1Xjrir3GrFEMkUn4U4ZvDS) | [20TOKENS](https://open.spotify.com/artist/283uQnP38E3Ua5ExYuOH0Q), [Sable](https://open.spotify.com/artist/5rRyGasapvQWgfTijFs2mq) | [IDGAF](https://open.spotify.com/album/1odTnw4dT0CDwkix6HVwcx) | 2:21 |
 | 80 | [Homebound](https://open.spotify.com/track/6ViU8p8KmjL02ZzWwYBGYu) | [dEMOTIONAL](https://open.spotify.com/artist/0RuPWYczjuZmLc4omO51GN) | [Homebound](https://open.spotify.com/album/0ViSCyRzZDIQceh1OXLrlk) | 4:52 |
 
-Snapshot ID: `AAAAACE6jn2Xdt66jhZLFt5N+FWdRCF9`
+Snapshot ID: `AAAAAOpBiCbWTf87YY8vQ/neH3bxiLe6`

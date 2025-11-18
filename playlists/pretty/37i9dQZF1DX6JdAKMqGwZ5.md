@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 
 > Descubre los temas emergentes del mundo indie\. Foto: stivijoes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,119 likes - 120 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,121 likes - 120 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 | 38 | [la soledad](https://open.spotify.com/track/3RsCYC4k3HlyQulMTFwtaW) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [la soledad](https://open.spotify.com/album/0KTVuOKvUVG3J83PWmRCM8) | 3:19 |
 | 39 | [Rendición](https://open.spotify.com/track/6gDvSHXwWyJYtQ3LvoCmN7) | [Delaporte](https://open.spotify.com/artist/1GDip5phlxYzeZ36vnf9kJ), [bruno](https://open.spotify.com/artist/3zLCzDGv99EaxNIxk94Yna) | [Rendición](https://open.spotify.com/album/2DXRoJ8Hh4ERUQm80wnl0s) | 3:44 |
 | 40 | [El Bosque \[2025\]](https://open.spotify.com/track/3yCDGq7JG1FLTwr1oiuQvr) | [MERINO](https://open.spotify.com/artist/6oUhPlreIDCXfoUSUcXOam) | [El Bosque \[2025\]](https://open.spotify.com/album/7xJaH7iOl4xpSPDCAY9coQ) | 3:57 |
-| 41 | [Revolá](https://open.spotify.com/track/0x6KUhEUHvvWvRghtAjV2k) | [Sanguijuelas del Guadiana](https://open.spotify.com/artist/1myJQ6hUJMP6cfvwSdjw01), [Celia Romero](https://open.spotify.com/artist/1pWTMI3wKgToqLKd2CfV0z) | [Revolá](https://open.spotify.com/album/3LGtg4UwYpYz3Cmr0QZJ1a) | 3:43 |
+| 41 | [Revolá](https://open.spotify.com/track/0x6KUhEUHvvWvRghtAjV2k) | [Sanguijuelas del Guadiana](https://open.spotify.com/artist/1myJQ6hUJMP6cfvwSdjw01) | [Revolá](https://open.spotify.com/album/3LGtg4UwYpYz3Cmr0QZJ1a) | 3:43 |
 | 42 | [Lo Que Me Pasa](https://open.spotify.com/track/3GBWdd8w6zqMM6mUsmfcRR) | [Maria Rodés](https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf), [Albert Cases](https://open.spotify.com/artist/61llloTcQIbaT4ojaBOJbS) | [Lo Que Me Pasa](https://open.spotify.com/album/3bjFlNdShEBcKmQVd7KvZm) | 2:52 |
 | 43 | [tiene que ser más fácil](https://open.spotify.com/track/2QmjmQQeNAl4BFynm5N4Dh) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [tiene que ser más fácil](https://open.spotify.com/album/6xVdTAJCQAcjM4CyHiJjZa) | 3:50 |
 | 44 | [angelito](https://open.spotify.com/track/19Qv79nXtWfMDIMgFUREpS) | [tarchi](https://open.spotify.com/artist/3hQ7aT3GTzf9jNYh80UBo3) | [recuerda que vas a morir](https://open.spotify.com/album/4nXVU4gQxZIVB3Csq4qha6) | 3:44 |

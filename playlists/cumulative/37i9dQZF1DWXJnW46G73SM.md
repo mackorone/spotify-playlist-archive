@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف: روبي
 
-1,599 songs - 3 day 17 hr 11 min
+1,600 songs - 3 day 17 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -949,6 +949,7 @@
 | [We Fag2a](https://open.spotify.com/track/2R5jANgM046Vo5MEdYlYMY) | [Omar Shaaban](https://open.spotify.com/artist/2mqfT4zskEW4k2u5m3xnyh), [Fady Haroun](https://open.spotify.com/artist/1D2jk1MgsTms2iiJgNRXdV) | [We Fag2a](https://open.spotify.com/album/4TiVj6cKbx5hYA2NgzCeul) | 3:33 | 2023-02-16 | 2023-04-11 |
 | [We Lesa Ya Donya](https://open.spotify.com/track/3T3rQCq9rwox4gF1ATaJNz) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [We Lesa Ya Donya](https://open.spotify.com/album/5Cmt2DK38UfaUXSYnWYxdm) | 3:08 | 2023-03-24 | 2023-05-12 |
 | [Welad El Nas](https://open.spotify.com/track/7IVOH9iOYCLh4ghPc2IjEn) | [Aziz El Shafei](https://open.spotify.com/artist/5afhldfOH1zWp9nhlvxFQL) | [Welad El Nas](https://open.spotify.com/album/3C47PBslEIMHA8C5MSC7ms) | 3:43 | 2022-10-26 | 2023-01-13 |
+| [Wenak](https://open.spotify.com/track/4OLkFHPJsobeRaSe7YU6BG) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Wenak](https://open.spotify.com/album/7FiqZa8hMmvkCuUftjj0br) | 3:00 | 2025-11-17 |  |
 | [Wendala3 \- ونتدلع](https://open.spotify.com/track/2ddCBRsbr5JEsJjA7XtTxT) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Wendala3 \(ونتدلع\)](https://open.spotify.com/album/6JhtlNXPOexvimNW4xzZfj) | 2:47 | 2022-06-09 | 2022-09-16 |
 | [Wenta Be3eed \- From "Bhabak" Movie](https://open.spotify.com/track/73NkK8DgV8Cgba60Cz4WKc) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Wenta Be3eed \(From "Bhabak" Movie\)](https://open.spotify.com/album/4UukvPx3Zgpy1jtro3FHPH) | 3:46 | 2022-07-10 | 2022-10-11 |
 | [Wesh El Donia](https://open.spotify.com/track/5InlGrf900BzwNibcNOysI) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu) | [Wesh El Donia](https://open.spotify.com/album/2Htqvq5JyWRuPhUXvDcCzZ) | 4:50 | 2024-10-24 | 2025-02-15 |
@@ -1154,7 +1155,7 @@
 | [بحكيلك عن الأيام](https://open.spotify.com/track/0LBdR8Oub0hKQSuW9KEfvt) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [انا بحبك انت](https://open.spotify.com/album/7Gif2pehfqWP5OkBEPElPa) | 4:02 | 2025-07-17 |  |
 | [بخاف من مسلسل سيد الناس](https://open.spotify.com/track/0fHBJnmzWkOhfkbKGBTVlW) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [بخاف من مسلسل سيد الناس](https://open.spotify.com/album/37Y9kPOLBf9mBHYX60YDVf) | 4:52 | 2025-02-27 | 2025-05-23 |
 | [بدارى](https://open.spotify.com/track/5nE3HufIFDQ9WkP941nSSh) | [Wael Amer](https://open.spotify.com/artist/5ZZI6hmqMxslXH7KR44cHW) | [بدارى](https://open.spotify.com/album/3dKDzbDDSyWnQKyYMQ7tnk) | 5:14 | 2023-07-20 | 2023-07-23 |
-| [بذمتك](https://open.spotify.com/track/5cBJuOGVoLdo9d0yv78S8R) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672), [Karim Mohsen](https://open.spotify.com/artist/56JGGZouDaedckdIuTg98X) | [بذمتك](https://open.spotify.com/album/4Rg8YtcK72ShhxLBpo6vvH) | 3:31 | 2025-07-10 |  |
+| [بذمتك](https://open.spotify.com/track/5cBJuOGVoLdo9d0yv78S8R) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672), [Karim Mohsen](https://open.spotify.com/artist/56JGGZouDaedckdIuTg98X) | [بذمتك](https://open.spotify.com/album/4Rg8YtcK72ShhxLBpo6vvH) | 3:31 | 2025-07-10 | 2025-11-18 |
 | [برقص عل احزان](https://open.spotify.com/track/701o32JXLUpsioqlsBGC9G) | [Qetoo](https://open.spotify.com/artist/6XnHQclydV6kIVoBClncdF) | [برقص عل احزان](https://open.spotify.com/album/0fYArJcRhUrpU4YYZ1ihqw) | 1:52 | 2025-02-20 | 2025-03-05 |
 | [بره المقاييس](https://open.spotify.com/track/0J6wnJRwAvxO23m3mczYU7) | [Mohamed Rahim](https://open.spotify.com/artist/2PlOBU4hLGbVxIGOtDOeEi) | [بره المقاييس](https://open.spotify.com/album/7tmwsV5DxlO0tn3nGVGBjR) | 4:40 | 2023-08-28 | 2023-12-15 |
 | [بره حياتي بره](https://open.spotify.com/track/3wUBnP59BWBgnLtp6zuJJv) | [Yara Mohamed](https://open.spotify.com/artist/29nvzTxUgaF2Hjka84IgkD) | [بره حياتي بره](https://open.spotify.com/album/4SCfa6Ge3SIAQP8loYTEvk) | 4:24 | 2025-05-01 | 2025-06-20 |

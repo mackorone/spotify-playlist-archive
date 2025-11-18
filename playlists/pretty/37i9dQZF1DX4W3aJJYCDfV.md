@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Charli xcx, Robyn, Lewis Capaldi and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 943,017 likes - 116 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 942,978 likes - 116 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

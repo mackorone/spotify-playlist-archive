@@ -16275,6 +16275,32 @@
     },
     {
       "album": {
+        "name": "La Nostra Gigi",
+        "url": "https://open.spotify.com/album/1X50uSbMgyZ53jPgFgxFET"
+      },
+      "artists": [
+        {
+          "name": "SRNO",
+          "url": "https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q"
+        },
+        {
+          "name": "Mensa",
+          "url": "https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC"
+        },
+        {
+          "name": "Dylisa",
+          "url": "https://open.spotify.com/artist/1EZhPZUiU6c52gOAZLIcR2"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125538,
+      "name": "La Nostra Gigi",
+      "url": "https://open.spotify.com/track/4INwyQpPaIBW5UeZcaOlpQ"
+    },
+    {
+      "album": {
         "name": "La Plena (W Sound 05)",
         "url": "https://open.spotify.com/album/4Xdo78uvvt1P7rWRX8TOPt"
       },

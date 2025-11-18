@@ -1,12 +1,12 @@
 {
   "description": "This is Bonobo. The essential tracks, all in one playlist.",
-  "num_followers": 162742,
+  "num_followers": 162747,
   "original_name": "This Is Bonobo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRfCgAAAAABmMP31BRPFaIscKb7B1Cvw",
+  "snapshot_id": "aRkUAAAAAACS6S6LxKtX8Lm8ZJiVy7ZO",
   "tracks": [
     {
       "added_at": null,
@@ -370,11 +370,15 @@
         {
           "name": "Bonobo",
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Miguel Atwood-Ferguson",
+          "url": "https://open.spotify.com/artist/6SlLXvZvYEGnurxBUpUdri"
         }
       ],
-      "duration_ms": 182293,
-      "name": "Elysian",
-      "url": "https://open.spotify.com/track/0PYMIPuZk9AjcmkscMeC3D"
+      "duration_ms": 108800,
+      "name": "Polyghost",
+      "url": "https://open.spotify.com/track/0JL9dXZ2tjMabWjVjeutKH"
     },
     {
       "added_at": null,
@@ -438,15 +442,11 @@
         {
           "name": "Bonobo",
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        },
-        {
-          "name": "Miguel Atwood-Ferguson",
-          "url": "https://open.spotify.com/artist/6SlLXvZvYEGnurxBUpUdri"
         }
       ],
-      "duration_ms": 108800,
-      "name": "Polyghost",
-      "url": "https://open.spotify.com/track/0JL9dXZ2tjMabWjVjeutKH"
+      "duration_ms": 182293,
+      "name": "Elysian",
+      "url": "https://open.spotify.com/track/0PYMIPuZk9AjcmkscMeC3D"
     },
     {
       "added_at": null,
@@ -544,13 +544,13 @@
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         },
         {
-          "name": "Bajka",
-          "url": "https://open.spotify.com/artist/4V8wJAPq2ar1y1Zc8d9DhI"
+          "name": "Fink",
+          "url": "https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf"
         }
       ],
-      "duration_ms": 274893,
-      "name": "Walk In The Sky",
-      "url": "https://open.spotify.com/track/3fsQsL36PH1G8mn68lsFRK"
+      "duration_ms": 323773,
+      "name": "If You Stayed Over",
+      "url": "https://open.spotify.com/track/1yGTwR9AcrzQ67JGnwO3jZ"
     },
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lazarus (Adult Swim Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/2l7QYB5EMOkbtuc17WwBnp"
+        "name": "Dial 'M' for Monkey",
+        "url": "https://open.spotify.com/album/6TaDSeHRXqw06H2PlYsD5K"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 123506,
-      "name": "Rippling",
-      "url": "https://open.spotify.com/track/0SHGfREepNpkbAceg1G6sC"
+      "duration_ms": 284280,
+      "name": "Flutter",
+      "url": "https://open.spotify.com/track/5K8WNrf5JvmBE6O0MbSRuJ"
     },
     {
       "added_at": null,
@@ -612,13 +612,13 @@
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         },
         {
-          "name": "Fink",
-          "url": "https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf"
+          "name": "Bajka",
+          "url": "https://open.spotify.com/artist/4V8wJAPq2ar1y1Zc8d9DhI"
         }
       ],
-      "duration_ms": 323773,
-      "name": "If You Stayed Over",
-      "url": "https://open.spotify.com/track/1yGTwR9AcrzQ67JGnwO3jZ"
+      "duration_ms": 274893,
+      "name": "Walk In The Sky",
+      "url": "https://open.spotify.com/track/3fsQsL36PH1G8mn68lsFRK"
     },
     {
       "added_at": null,
@@ -639,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dial 'M' for Monkey",
-        "url": "https://open.spotify.com/album/6TaDSeHRXqw06H2PlYsD5K"
+        "name": "Lazarus (Adult Swim Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/2l7QYB5EMOkbtuc17WwBnp"
       },
       "artists": [
         {
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 284280,
-      "name": "Flutter",
-      "url": "https://open.spotify.com/track/5K8WNrf5JvmBE6O0MbSRuJ"
+      "duration_ms": 123506,
+      "name": "Rippling",
+      "url": "https://open.spotify.com/track/0SHGfREepNpkbAceg1G6sC"
     },
     {
       "added_at": null,

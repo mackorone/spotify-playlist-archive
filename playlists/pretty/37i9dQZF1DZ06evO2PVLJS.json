@@ -1,12 +1,12 @@
 {
   "description": "This is Vicente Fern\u00e1ndez. The essential tracks, all in one playlist.",
-  "num_followers": 1105937,
+  "num_followers": 1106089,
   "original_name": "This Is Vicente Fern\u00e1ndez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRfCgAAAAAAUTlR1X5+4Dx7fpC5XCUS1",
+  "snapshot_id": "aRkUAAAAAADr/HzCn4UUpAY28kHKflrO",
   "tracks": [
     {
       "added_at": null,
@@ -303,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Tahur",
-        "url": "https://open.spotify.com/album/7DFIUkl2gT6b400CJltmJd"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 189933,
-      "name": "Se\u00f1ora de Tal",
-      "url": "https://open.spotify.com/track/55pnB5yA9nhyM0IMw3k4tq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Hijo Del Pueblo",
         "url": "https://open.spotify.com/album/1TUMG8VFTVolUJLLdM2gQn"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 160866,
       "name": "El Hijo del Pueblo",
       "url": "https://open.spotify.com/track/6ElbF1uBCYlazCH6jAoF5s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Tahur",
+        "url": "https://open.spotify.com/album/7DFIUkl2gT6b400CJltmJd"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 189933,
+      "name": "Se\u00f1ora de Tal",
+      "url": "https://open.spotify.com/track/55pnB5yA9nhyM0IMw3k4tq"
     },
     {
       "added_at": null,

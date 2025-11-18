@@ -1,12 +1,12 @@
 {
   "description": "This is Bluey. The essential tracks, all in one playlist.",
-  "num_followers": 50213,
+  "num_followers": 50223,
   "original_name": "This Is Bluey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRfCgAAAAAAUgcaqjsk0Lq3d4Fn5dgbG",
+  "snapshot_id": "aRkUAAAAAABZBoP9bhKSRf8SFchrXNvT",
   "tracks": [
     {
       "added_at": null,
@@ -368,9 +368,9 @@
           "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
         }
       ],
-      "duration_ms": 76443,
-      "name": "Rug Island, Pt. 2",
-      "url": "https://open.spotify.com/track/3Cq2MyHslpTABcw1bPx50m"
+      "duration_ms": 193938,
+      "name": "Bin Night",
+      "url": "https://open.spotify.com/track/3mmahMWgu7hMc50NuLDCTZ"
     },
     {
       "added_at": null,
@@ -448,9 +448,9 @@
           "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
         }
       ],
-      "duration_ms": 193938,
-      "name": "Bin Night",
-      "url": "https://open.spotify.com/track/3mmahMWgu7hMc50NuLDCTZ"
+      "duration_ms": 76443,
+      "name": "Rug Island, Pt. 2",
+      "url": "https://open.spotify.com/track/3Cq2MyHslpTABcw1bPx50m"
     },
     {
       "added_at": null,
@@ -464,13 +464,13 @@
           "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
         },
         {
-          "name": "Joff Bush",
-          "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
+          "name": "Pluto Jonze",
+          "url": "https://open.spotify.com/artist/6DRm66ULaD9MVnfZ4TBfmF"
         }
       ],
-      "duration_ms": 202098,
-      "name": "Wagon Ride",
-      "url": "https://open.spotify.com/track/5A7NglEPKMeCu7y8AJmzAD"
+      "duration_ms": 96398,
+      "name": "Fruit Bat",
+      "url": "https://open.spotify.com/track/0LlgXONyO3DotVbK38T6oe"
     },
     {
       "added_at": null,
@@ -499,6 +499,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Le g\u00e9n\u00e9rique de Bluey (French Version)",
+        "url": "https://open.spotify.com/album/2skjS457RIBNEkIaaL7yQi"
+      },
+      "artists": [
+        {
+          "name": "Bluey",
+          "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
+        }
+      ],
+      "duration_ms": 64311,
+      "name": "Le g\u00e9n\u00e9rique de Bluey (French Version)",
+      "url": "https://open.spotify.com/track/3P3vNQ95AdWgnr5YGmYdhk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rug Island",
         "url": "https://open.spotify.com/album/0OSnOvYEtdwuAYvqLa8hyV"
       },
@@ -512,9 +528,9 @@
           "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
         }
       ],
-      "duration_ms": 98566,
-      "name": "Rug Island, Pt. 3",
-      "url": "https://open.spotify.com/track/2kmZBAGzmvnw6vaizoZONh"
+      "duration_ms": 196078,
+      "name": "Caf\u00e9",
+      "url": "https://open.spotify.com/track/1DpssfN5yVYJ4NApETYbFU"
     }
   ],
   "unique_name": "This Is Bluey",

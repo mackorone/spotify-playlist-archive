@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBkH6REkPEr.md) - [plain]
 
 > Floor fillers and big streamers of 2014.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,906 likes - 81 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,946 likes - 81 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBkH6REkPEr.md) - [plain]
 | 49 | [Imagination](https://open.spotify.com/track/3ZrWmt3DGH75hItHp6uWLz) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Katy Menditta](https://open.spotify.com/artist/106MIqAGadRmicPsEfwZTn) | [Sirens](https://open.spotify.com/album/1tfrh7jInz0lgBamg12OFj) | 3:37 |
 | 50 | [Kanye](https://open.spotify.com/track/5brMyscUnQg14hMriS91ks) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [sirenXX](https://open.spotify.com/artist/1QM03lnjHcx2l52sWaW5V5) | [Kanye](https://open.spotify.com/album/1kDxLifAXYG0I81ynPPRcn) | 3:49 |
 | 51 | [You're On \(feat\. Kyan\)](https://open.spotify.com/track/4PTPZeJlK1rYlYr6bf11hk) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc), [Kyan](https://open.spotify.com/artist/1fpemL1wk3ZyXVfpzlVEkL) | [Adventure \(Deluxe\)](https://open.spotify.com/album/3uKLwDjku2Us0c81LEmftR) | 3:12 |
-| 52 | [Riptide \- FlicFlac Edit](https://open.spotify.com/track/6FeGkJquvWWoAOa3rMM6EB) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT), [FlicFlac](https://open.spotify.com/artist/118tMA379KP9TjxmsQsLKY) | [Riptide \(FlicFlac Edit\)](https://open.spotify.com/album/5jQhvxw1BMfsGQ8oTCT3Yp) | 5:39 |
-| 53 | [Faded](https://open.spotify.com/track/27ImR3LOSWgzqrABxD92uq) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [Nightday \(EP\)](https://open.spotify.com/album/1sZNLQ70ksj1gVRbaf7yBP) | 3:43 |
+| 52 | [Faded](https://open.spotify.com/track/27ImR3LOSWgzqrABxD92uq) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [Nightday \(EP\)](https://open.spotify.com/album/1sZNLQ70ksj1gVRbaf7yBP) | 3:43 |
+| 53 | [Riptide \- FlicFlac Edit](https://open.spotify.com/track/6FeGkJquvWWoAOa3rMM6EB) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT), [FlicFlac](https://open.spotify.com/artist/118tMA379KP9TjxmsQsLKY) | [Riptide \(FlicFlac Edit\)](https://open.spotify.com/album/5jQhvxw1BMfsGQ8oTCT3Yp) | 5:39 |
 | 54 | [Turn Up The Speakers \- Radio Edit](https://open.spotify.com/track/7102UhVPxGoYGNE2w3duPh) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Turn Up The Speakers](https://open.spotify.com/album/1UZYYRkjn11x2mKROMeAYG) | 3:03 |
 | 55 | [Wild Eyes](https://open.spotify.com/track/6CZSePF4e6DJbraNkjgJ6d) | [Broiler](https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC), [RAVVEL](https://open.spotify.com/artist/0ONN78qj6zuTEsmal4ZJKG) | [Wild Eyes](https://open.spotify.com/album/1mL75lJ1xc6QiePLukGLKB) | 3:24 |
 | 56 | [Wicked Wonderland](https://open.spotify.com/track/0zQXwzM2gtGfClqBBTsKXp) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [Wicked Wonderland](https://open.spotify.com/album/0sto8hJizRoPKSQoFo57d9) | 3:37 |

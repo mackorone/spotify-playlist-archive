@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best new AUS & NZ Rap\. Cover: Kerser
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,134 likes - 100 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,148 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 71 | [Imperfections](https://open.spotify.com/track/1qYalXlo1QlcuK2D2QCkMV) | [Celly](https://open.spotify.com/artist/7zBBABGp1O95Fills6I7MN) | [Imperfections](https://open.spotify.com/album/16MMr4oW3i5YvYH4jxBk6O) | 2:36 |
 | 72 | [Type Shi](https://open.spotify.com/track/1Hqvcw1B0Ed05ikscGw7xP) | [TAKTiX](https://open.spotify.com/artist/6gBRnjov5e97HFnYXnfNvs) | [Type Shi](https://open.spotify.com/album/1bPyHyvmn2R62CzMApzFcF) | 2:19 |
 | 73 | [Valid](https://open.spotify.com/track/7mhronFLwrg0hhuknVWVM6) | [Miko Mal](https://open.spotify.com/artist/1Eb4Yx0nxEYO46IwWAqLM7) | [Valid](https://open.spotify.com/album/3UIMr3sj5HVtPHRjtWS85h) | 1:48 |
-| 74 | [Jimmy Choo](https://open.spotify.com/track/0XOVfr5TugE8BXPjcx1twT) | [BnB](https://open.spotify.com/artist/4jUxz9vL5BF7GAakeqD1iS) | [Jimmy Choo](https://open.spotify.com/album/6bU02h8iVOBFyVbAVZbvRV) | 2:17 |
+| 74 | [JIMMY CHOO](https://open.spotify.com/track/0XOVfr5TugE8BXPjcx1twT) | [BnB](https://open.spotify.com/artist/4jUxz9vL5BF7GAakeqD1iS) | [JIMMY CHOO](https://open.spotify.com/album/6bU02h8iVOBFyVbAVZbvRV) | 2:17 |
 | 75 | [Paranoia](https://open.spotify.com/track/5OfNwxoCMVIr6OtKcnB8lR) | [Seth Sentry](https://open.spotify.com/artist/3N9qpKjXarCt5AIZRCeqr8), [trials](https://open.spotify.com/artist/3vDxmrKt8X4CQl0RmDLVai), [Sesta](https://open.spotify.com/artist/1cjnP0BTDt3j5YDXausTYi) | [Super Cool Tree House 2](https://open.spotify.com/album/0zknu7nRjjKduPZIDlOnPh) | 4:09 |
 | 76 | [FADED](https://open.spotify.com/track/2nrDLkv49Kr7veWTOHQwhi) | [ZPLUTO](https://open.spotify.com/artist/3vMjTM3wg0sOZDDoc3FuEN) | [FADED](https://open.spotify.com/album/31tMFCIfhLwx7tX2NZKv7m) | 3:13 |
 | 77 | [IT WAS WRITTEN](https://open.spotify.com/track/3eWyFDRsnnbtIpNo8P74xh) | [Jaecy](https://open.spotify.com/artist/4hd0k0g3b2MLUiw0gPAsee) | [NEVER TOO LATE](https://open.spotify.com/album/2C0S4iT1AIrX0z40jMnlxd) | 1:21 |

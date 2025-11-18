@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124782,
+  "num_followers": 124776,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAU0IxL/E+z4xde4N/c2KX6BRKAsFmN",
+  "snapshot_id": "AAAU0hE0+JBTtTH+2aqYe+0lQMQmwjtS",
   "tracks": [
+    {
+      "added_at": "2025-11-17 14:34:32",
+      "album": {
+        "name": "Reverie",
+        "url": "https://open.spotify.com/album/0xk3atz0bPVIGZkP7mbUDk"
+      },
+      "artists": [
+        {
+          "name": "Haywyre",
+          "url": "https://open.spotify.com/artist/7aUSp5cOZlwEtd5zPC795k"
+        },
+        {
+          "name": "Braken",
+          "url": "https://open.spotify.com/artist/1SFSz2SewAsgPeFvGmAouI"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "Reverie",
+      "url": "https://open.spotify.com/track/1v1y5wqUBNc3xxY2ZJfz8b"
+    },
     {
       "added_at": "2025-11-14 16:20:41",
       "album": {
@@ -1119,50 +1139,6 @@
       "duration_ms": 193272,
       "name": "Hyperfocus",
       "url": "https://open.spotify.com/track/4LvnF1Iw4HcQ2rCm07mYjc"
-    },
-    {
-      "added_at": "2025-08-27 14:18:41",
-      "album": {
-        "name": "Rockstar Bass",
-        "url": "https://open.spotify.com/album/2PEU5vtNeeFsMPfku7lY4T"
-      },
-      "artists": [
-        {
-          "name": "ShockOne",
-          "url": "https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH"
-        },
-        {
-          "name": "NCT",
-          "url": "https://open.spotify.com/artist/5iWNGhdgW9MA0l5AqFLqh9"
-        },
-        {
-          "name": "Scrufizzer",
-          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
-        }
-      ],
-      "duration_ms": 206896,
-      "name": "Rockstar Bass",
-      "url": "https://open.spotify.com/track/2zivCVM48VJ0zT7Vbtn1Ga"
-    },
-    {
-      "added_at": "2025-08-26 15:04:21",
-      "album": {
-        "name": "Feeling",
-        "url": "https://open.spotify.com/album/1j5koOWuY2kIoCX3hsPayx"
-      },
-      "artists": [
-        {
-          "name": "Shingo Nakamura",
-          "url": "https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ"
-        },
-        {
-          "name": "Warung",
-          "url": "https://open.spotify.com/artist/2V1Ub5tTf23y9LkBjLT5hz"
-        }
-      ],
-      "duration_ms": 200655,
-      "name": "Feeling",
-      "url": "https://open.spotify.com/track/16vnGjVUbGeniz8aXAxUxk"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

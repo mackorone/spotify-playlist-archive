@@ -4,7 +4,7 @@
 
 > New dance music from Deep House to Future Rave\. Refreshed Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases.
 
-791 songs - 1 day 15 hr 10 min
+793 songs - 1 day 15 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -640,6 +640,7 @@
 | [Squid Play \(Player 456 Mix\)](https://open.spotify.com/track/5Fj26NGOzBIlUHhmhFBmde) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Cuebrick](https://open.spotify.com/artist/2ONoOunWxnWn1DikA6rjBM) | [Squid Play \(Player 456 Mix\)](https://open.spotify.com/album/0VK7oDLIlNh8lHM9OiaTlZ) | 2:33 | 2025-01-03 | 2025-01-31 |
 | [Starlight](https://open.spotify.com/track/3lA9DHLUN1iyw0UEu6SML9) | [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Starlight](https://open.spotify.com/album/71LDaF3s8cCLg4iWyEHu7V) | 3:00 | 2025-07-04 |  |
 | [State Of Emergency](https://open.spotify.com/track/39Bz1AM2z7s6wCeJ6KEpRr) | [Smith & Sorren](https://open.spotify.com/artist/0jr9KCoFLBpa8KJL0jRn3A) | [State Of Emergency](https://open.spotify.com/album/1h4IElYGVPnku0hM7C1JPw) | 4:05 | 2025-11-05 |  |
+| [Stay Awake](https://open.spotify.com/track/7f71BTXWubBCTIlbEqKeUi) | [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Stay Awake](https://open.spotify.com/album/5Ev62f2XpQUWw9XdSsYuDL) | 3:28 | 2025-11-17 |  |
 | [Stick Season](https://open.spotify.com/track/5D9hrfUtgFetORbaIKhFRy) | [Sara Phillips](https://open.spotify.com/artist/0IYTdG3kSqaozW2xSPA6GL) | [Stick Season](https://open.spotify.com/album/6LqbfWlQIHjNNOV59qTGfA) | 3:50 | 2024-11-22 | 2024-12-06 |
 | [Still Into You](https://open.spotify.com/track/0GYx8Q9iS05CRe9kyzwAIL) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [maryjo](https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H) | [Still Into You](https://open.spotify.com/album/12AGcC8vmuGnxLIoyJDrj5) | 2:31 | 2024-10-24 | 2024-11-23 |
 | [Stokbrood](https://open.spotify.com/track/3oZNFr1Hz24iRpZUOtM1iq) | [Ruben de Ronde](https://open.spotify.com/artist/3q7BRw9D1DupXTONJdr94m), [Matt Fax](https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV) | [Stokbrood](https://open.spotify.com/album/2rA0lG2i3TF8cL8MgS4O9o) | 3:27 | 2024-07-26 | 2024-08-02 |
@@ -792,6 +793,7 @@
 | [You Like It Rough \(feat\. Lee McKing\)](https://open.spotify.com/track/08oJNlCDLWglZcbLNMuQ3J) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Lee McKing](https://open.spotify.com/artist/6gjwMfbDEX2vTmjsbiHJHK) | [You Like It Rough \(feat\. Lee McKing\)](https://open.spotify.com/album/7zGfUevKbCjaYhHUFe89km) | 2:36 | 2024-07-19 | 2024-07-27 |
 | [You Want The Fire](https://open.spotify.com/track/1L3syVgeYCOYc5O7IECxwI) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L) | [You Want The Fire](https://open.spotify.com/album/5DNvEa1r4unflBRdU0zBWB) | 3:41 | 2025-06-26 |  |
 | [You've Got The Love](https://open.spotify.com/track/4Mhivjnm1UNw5nhHCioZOZ) | [JOHN ELLE](https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot) | [You've Got The Love](https://open.spotify.com/album/4TOwJTWm3n2EK2sH5vjphA) | 2:45 | 2025-02-06 | 2025-05-31 |
+| [Your Turn](https://open.spotify.com/track/14rx03yHQzd9jnnzhzYQM0) | [NO\. SYGNL](https://open.spotify.com/artist/1tJIyQ7VJERr5YGEKpgmun) | [Your Turn](https://open.spotify.com/album/4h1u8r9WhyyKSw9UvdQV3P) | 3:34 | 2025-11-17 |  |
 | [Your Voice](https://open.spotify.com/track/3v66edalBUNYxsJMLih2k5) | [Ken Bauer](https://open.spotify.com/artist/19bSyzqhV2NIVhHtqdFX7t) | [Your Voice](https://open.spotify.com/album/6dAmlccxwVjmrgTyXQdk6u) | 2:34 | 2024-07-09 | 2024-07-13 |
 | [ZENLESS](https://open.spotify.com/track/2GW2qcpzaRrErv4Nd8NSCH) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M), [Sān\-Z](https://open.spotify.com/artist/4Ep9NXSZDTJzz6BIv24p5x) | [ZENLESS](https://open.spotify.com/album/5ItApQpFnG9fDaZpUgbYzu) | 2:24 | 2024-07-04 | 2024-07-19 |
 | [ZENLESS](https://open.spotify.com/track/3mIouw7V3msMJkm8iqKXXr) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M), [Sān\-Z](https://open.spotify.com/artist/3YQzkkbhmbwaMmZuNxkvsb) | [ZENLESS](https://open.spotify.com/album/4ntjc4RbUVs7TfKUvvTSIA) | 2:24 | 2024-07-04 | 2024-07-13 |

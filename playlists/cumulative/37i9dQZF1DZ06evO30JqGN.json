@@ -270,7 +270,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 178026,
       "name": "Deeper",
       "url": "https://open.spotify.com/track/7uwpgQQufpSsFIhhGJDHQF"
@@ -420,7 +420,7 @@
       ],
       "date_added": "2025-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 168002,
       "name": "Give Me A Reason (with Bryson Tiller)",
       "url": "https://open.spotify.com/track/7uHapC7IlHVLcC3TxVEn7I"
@@ -446,7 +446,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 247100,
       "name": "Good Good",
       "url": "https://open.spotify.com/track/0J1YRLYhTG1MBosjidD7OI"
@@ -985,6 +985,24 @@
     },
     {
       "album": {
+        "name": "Finally Over It",
+        "url": "https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140190,
+      "name": "Situationship",
+      "url": "https://open.spotify.com/track/0tg1Rx9IDiZ1LO0IPsnCYr"
+    },
+    {
+      "album": {
         "name": "Something Real (with London On Da Track & Chris Brown)",
         "url": "https://open.spotify.com/album/3sKfMROqgj9nNxOuyPDndH"
       },
@@ -1370,7 +1388,7 @@
       ],
       "date_added": "2025-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 244000,
       "name": "You're Stuck",
       "url": "https://open.spotify.com/track/5lqrfNrGrMfNlPxcCrlmyp"

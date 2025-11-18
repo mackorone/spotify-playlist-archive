@@ -1,6 +1,6 @@
 {
   "description": "O melhor do Tecnobrega, Melody e Brega do norte! Foto: Viviane Batid\u00e3o",
-  "num_followers": 356325,
+  "num_followers": 356370,
   "original_name": "Melodys Marcantes",
   "owner": {
     "name": "Spotify",
@@ -919,6 +919,22 @@
     {
       "added_at": "2025-11-14 14:11:58",
       "album": {
+        "name": "Manu",
+        "url": "https://open.spotify.com/album/3nWSN49yT6w8aoVSoacZZS"
+      },
+      "artists": [
+        {
+          "name": "Manu",
+          "url": "https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r"
+        }
+      ],
+      "duration_ms": 219036,
+      "name": "Eu Fiz Tudo Errado",
+      "url": "https://open.spotify.com/track/2CYsMFirzEqCcWVuKIhppp"
+    },
+    {
+      "added_at": "2025-11-14 14:11:58",
+      "album": {
         "name": "Essa \u00c9 a Ultima Vez",
         "url": "https://open.spotify.com/album/1s0VJLoLdhsMw4vlkmlLe7"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 171047,
       "name": "B\u00fafalo do Maraj\u00f3",
       "url": "https://open.spotify.com/track/6FWyRWvXJ2srLSHOvWf4UU"
-    },
-    {
-      "added_at": "2025-11-14 14:11:58",
-      "album": {
-        "name": "Manu",
-        "url": "https://open.spotify.com/album/3nWSN49yT6w8aoVSoacZZS"
-      },
-      "artists": [
-        {
-          "name": "Manu",
-          "url": "https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r"
-        }
-      ],
-      "duration_ms": 219036,
-      "name": "Eu Fiz Tudo Errado",
-      "url": "https://open.spotify.com/track/2CYsMFirzEqCcWVuKIhppp"
     },
     {
       "added_at": "2025-11-14 14:11:58",

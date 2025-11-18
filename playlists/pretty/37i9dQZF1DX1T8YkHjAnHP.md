@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T8YkHjAnHP.md) - [plain]
 
 > <a href="spotify:artist:5bKdC6382t97Qnpvs81Rqx">Bedouin</a>'s favorite tracks\. Updated regularly\. Curated by Bedouin\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,627 likes - 71 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,631 likes - 71 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T8YkHjAnHP.md) - [plain]
 | 16 | [On My Mind](https://open.spotify.com/track/6LBNRWUS3dKeZxREy3WHTL) | [Ajna \(BE\)](https://open.spotify.com/artist/6TILJrqby5UzMV1EemkxtN) | [On My Mind](https://open.spotify.com/album/6VcvfOH50yuKWVaeluq2SJ) | 4:20 |
 | 17 | [After En Cali](https://open.spotify.com/track/3wqlO3v1swLDl7epNTcThh) | [Malandra Jr.](https://open.spotify.com/artist/7KgVyMfGnLuYLLbftkfVNQ) | [ROULETTE ROULOTTE](https://open.spotify.com/album/2jmF23pH65cghVYNj9DNWA) | 6:28 |
 | 18 | [The Trap](https://open.spotify.com/track/33GOBfoF5QQFgWLhNoj7Km) | [Jamek Ortega](https://open.spotify.com/artist/0z4954ccQLUdwTHCSMXtem), [JUNO \(DE\)](https://open.spotify.com/artist/6H0Lbuc95DxzpDkKdwnYQ3) | [The Trap](https://open.spotify.com/album/6PcP3P4KKajhKMrDshFsDR) | 3:44 |
-| 19 | [Wish You Were Here](https://open.spotify.com/track/6mFkJmJqdDVQ1REhVfGgd1) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Wish You Were Here](https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw) | 5:34 |
+| 19 | [Wish You Were Here](https://open.spotify.com/track/6mFkJmJqdDVQ1REhVfGgd1) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Wish You Were Here](https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw) | 5:38 |
 | 20 | [Running \- Nandu Remix](https://open.spotify.com/track/7JOIGGoQUWqP7YmJvDbklj) | [Animal Trainer](https://open.spotify.com/artist/2bfx0bw0uVRyfikzS3h5Mg), [Noah Kulaga](https://open.spotify.com/artist/4tgjM4H8ONwXj82PTVD5Bj), [Nandu](https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0) | [Running \(Nandu Remix\)](https://open.spotify.com/album/5D5p0OWi04J91ykQ12QUh0) | 3:36 |
 | 21 | [Trippy Yeah](https://open.spotify.com/track/1CM0kiqrtCSHClFjTccTOb) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Trippy Yeah](https://open.spotify.com/album/2kcnbaQIOOEz7zb5yWhVp3) | 3:58 |
 | 22 | [Better Than This \- Dorian Craft & Baron Remix](https://open.spotify.com/track/3zdf3SM4MLuEirljbZdYMV) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx), [Dorian Craft](https://open.spotify.com/artist/6Le8YP9kxvtYRKGZNDR4Ip), [Baron \(FR\)](https://open.spotify.com/artist/3JdaEdgDuNckfx9Nl7x9C3) | [Better Than This \(Dorian Craft & Baron Remix\)](https://open.spotify.com/album/34ghDY0AwF0mhsxobYNGej) | 3:44 |

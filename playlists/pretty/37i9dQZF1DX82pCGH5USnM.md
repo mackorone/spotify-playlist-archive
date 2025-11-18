@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82pCGH5USnM.md) - [plain]
 
 > Soft house music for your laidback moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,381,683 likes - 212 songs - 9 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,381,872 likes - 212 songs - 9 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -221,4 +221,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82pCGH5USnM.md) - [plain]
 | 211 | [Coffee On The Balcony](https://open.spotify.com/track/7kQQkhYxeKRlfwgbUEb8H9) | [Mr Rawlings](https://open.spotify.com/artist/5IjVKmCZM7Sy41wQISlmRI) | [Coffee On The Balcony](https://open.spotify.com/album/3ONy0OqFsq1M80BPh60t3g) | 2:40 |
 | 212 | [Serene Waves](https://open.spotify.com/track/73WEbDUWwi131nFtG4a5Xt) | [Static 99](https://open.spotify.com/artist/3KWyHBYuMIZF9fuhrhGoju) | [Serene Waves](https://open.spotify.com/album/5aM2DcY5F7vqZL4JW4AggR) | 2:34 |
 
-Snapshot ID: `AAAAADZecgixi2nYfOblaEyMpC5Q3XEG`
+Snapshot ID: `AAAAAOL8asF3SgWr2j4KUCu54BYmB1oJ`

@@ -4423,6 +4423,24 @@
     },
     {
       "album": {
+        "name": "Silver",
+        "url": "https://open.spotify.com/album/3nJnR5Zu95pGWzWxS2HbEa"
+      },
+      "artists": [
+        {
+          "name": "Niall Mutter",
+          "url": "https://open.spotify.com/artist/26nkWfI1zwh7OFESYPRn2w"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222226,
+      "name": "I Don't Wanna Give You Up",
+      "url": "https://open.spotify.com/track/4rCZUOAzUEkgqit17eDlzi"
+    },
+    {
+      "album": {
         "name": "I Don't Wanna Move",
         "url": "https://open.spotify.com/album/0RXwFY7VftxJ087h5lqCxo"
       },

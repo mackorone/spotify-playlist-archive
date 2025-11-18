@@ -4,7 +4,7 @@
 
 > Celebrate 30 years of friendship and beyond with Disney and Pixar's Toy Story.
 
-104 songs - 4 hr 49 min
+105 songs - 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Field Trip](https://open.spotify.com/track/099QlSujdXkd9DCwAh2fgX) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [Finding Nemo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2kJpuz9FOqX5riMjGwihhY) | 0:57 | 2023-09-15 |  |
 | [Find Yourself \(from "Cars"\) \- From "Cars"/Soundtrack Version](https://open.spotify.com/track/7kuV6uwFsTNhBfhfK12GZw) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Disney\-Pixar All Time Favorites](https://open.spotify.com/album/1zVWxB8TvIQHNjVrRrhkjD) | 4:10 | 2023-09-15 |  |
 | [Finding Dory \(Main Title\)](https://open.spotify.com/track/354K3xQPgALQEOiIYzAMat) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [Finding Dory \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1S27vSJrXuHXiBOolInF0j) | 0:55 | 2023-09-15 |  |
-| [First Day](https://open.spotify.com/track/6C7NLheYmP4zintC6OOXzf) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [Finding Nemo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2kJpuz9FOqX5riMjGwihhY) | 1:15 | 2023-09-15 |  |
+| [First Day](https://open.spotify.com/track/6C7NLheYmP4zintC6OOXzf) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [Finding Nemo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2kJpuz9FOqX5riMjGwihhY) | 1:15 | 2023-09-15 | 2025-11-18 |
 | [Full Purple](https://open.spotify.com/track/1Uspb8vWtI7vKWq9kwk0EG) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [Elemental \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7L15PXtti3kXEn7vTXi8ZV) | 2:04 | 2023-09-15 |  |
 | [Go Find Out for Me](https://open.spotify.com/track/3EwGfyOpbJqLGVAkXkuGmq) | [Dan Romer](https://open.spotify.com/artist/5ppJZFMF0gAfrHfZTGuHe4) | [Luca \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/62coFwzQrIGBhkVFYv5xPa) | 1:39 | 2023-09-15 |  |
 | [Here Comes Elastigirl \- Elastigirl's Theme](https://open.spotify.com/track/0mL1awDtKnXGZUVE2ijGIc) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Incredibles 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1kbdqZFxL3fuOmetdZ1VWO) | 1:23 | 2023-09-15 |  |
@@ -96,6 +96,7 @@
 | [Un Poco Loco](https://open.spotify.com/track/0OFknyqxmSQ42SoKxWVTok) | [Anthony Gonzalez](https://open.spotify.com/artist/2q10Wskc3lPYmEuV7rzMCv), [Gael Garcia Bernal](https://open.spotify.com/artist/09oR0uKhqwScsKa2eUK97p) | [Coco \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5) | 1:52 | 2023-09-15 |  |
 | [Un Poco Loco](https://open.spotify.com/track/65vseJi4kug0grGTTSmH2u) | [Luis Ángel Gómez Jaramillo](https://open.spotify.com/artist/6UaKHgRNaUxQfQD67gzgc5), [Gael Garcia Bernal](https://open.spotify.com/artist/09oR0uKhqwScsKa2eUK97p) | [Coco \(Banda Sonora Original en Español\)](https://open.spotify.com/album/0nyS6HuJFyovkq5EJSztWI) | 1:52 | 2024-10-16 |  |
 | [Unforgettable](https://open.spotify.com/track/3zIqOgooI83sDqwSfo0aOH) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Finding Dory \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1S27vSJrXuHXiBOolInF0j) | 3:17 | 2023-09-15 |  |
+| [Use Your Head](https://open.spotify.com/track/3wWsBaZJ9tlJss9iZ2HPAA) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Toy Story 2](https://open.spotify.com/album/0MCE2KRV2L5NJYMyQNPKHY) | 4:18 | 2025-11-17 |  |
 | [Wall\-E](https://open.spotify.com/track/5GAE12gkdsWnscaoXxCDdq) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [WALL\-E \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2LhcAFdMWcB49mHSxYrqJT) | 1:59 | 2023-09-15 |  |
 | [Wall\-E \- From "WALL\-E"/Score](https://open.spotify.com/track/5h8X9sIEMqO6Wi0OHGL01M) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [WALL\-E](https://open.spotify.com/album/6ML1fFTZ11DcCjS6PPnbaB) | 1:59 | 2024-04-08 | 2024-06-01 |
 | [We Belong Together](https://open.spotify.com/track/2m1mYan1nvOMORlb12q2Y9) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Toy Story 3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3y8MjpBVOSPzJLdgUGNIZQ) | 4:02 | 2023-09-15 |  |

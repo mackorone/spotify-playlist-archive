@@ -1,12 +1,12 @@
 {
   "description": "This is Seyi Vibez. The essential tracks, all in one playlist.",
-  "num_followers": 40919,
+  "num_followers": 40951,
   "original_name": "This Is Seyi Vibez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRfCgAAAAAAaKPMq6HQsudtqjo5L9iGE",
+  "snapshot_id": "aRkUAAAAAAAJreV2o3+0RWs9Rq7ROnNv",
   "tracks": [
     {
       "added_at": null,
@@ -199,6 +199,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "FUJI MOTO",
+        "url": "https://open.spotify.com/album/0hFlRO0BYOF3WySD9jEhMT"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 57144,
+      "name": "TORTOISE MAMBO",
+      "url": "https://open.spotify.com/track/7CU66EhJmgEtUYbxiyIErP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Instagram",
         "url": "https://open.spotify.com/album/0GyUBLiSgnRIMnV0H6bP8S"
       },
@@ -284,9 +300,9 @@
           "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 57144,
-      "name": "TORTOISE MAMBO",
-      "url": "https://open.spotify.com/track/7CU66EhJmgEtUYbxiyIErP"
+      "duration_ms": 158150,
+      "name": "FUJI MOTO",
+      "url": "https://open.spotify.com/track/3am9LsAqmh8yTWTb9Mwzy8"
     },
     {
       "added_at": null,
@@ -351,6 +367,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "FUJI MOTO",
+        "url": "https://open.spotify.com/album/0hFlRO0BYOF3WySD9jEhMT"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 142441,
+      "name": "UNIVERSE",
+      "url": "https://open.spotify.com/track/3wEguEqsbkMbrjzaPaKrJv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Trench Kid (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3Uj9cMWx6MjmIuXIK0NHl2"
       },
@@ -403,6 +435,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "FUJI MOTO",
+        "url": "https://open.spotify.com/album/0hFlRO0BYOF3WySD9jEhMT"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 123528,
+      "name": "FUJI PARTY",
+      "url": "https://open.spotify.com/track/6YOByn9plxYPTA6oeLlRkb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "247",
         "url": "https://open.spotify.com/album/5ByH5b4vGuYOH3g6UmjM0Z"
       },
@@ -435,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FUJI MOTO",
-        "url": "https://open.spotify.com/album/0hFlRO0BYOF3WySD9jEhMT"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 158150,
-      "name": "FUJI MOTO",
-      "url": "https://open.spotify.com/track/3am9LsAqmh8yTWTb9Mwzy8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NSNV",
         "url": "https://open.spotify.com/album/0sKjHC9aD5BZsDTxs8I4jk"
       },
@@ -463,22 +499,6 @@
       "duration_ms": 212297,
       "name": "God Sent",
       "url": "https://open.spotify.com/track/6CFlBksvFGvYk8yXP2JrGZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Children of Africa",
-        "url": "https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 140527,
-      "name": "SHAOLIN",
-      "url": "https://open.spotify.com/track/2hODYSmDyWMu2C2XN4bgOV"
     },
     {
       "added_at": null,
@@ -510,11 +530,31 @@
         {
           "name": "Seyi Vibez",
           "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        },
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
         }
       ],
-      "duration_ms": 142441,
-      "name": "UNIVERSE",
-      "url": "https://open.spotify.com/track/3wEguEqsbkMbrjzaPaKrJv"
+      "duration_ms": 163200,
+      "name": "UP",
+      "url": "https://open.spotify.com/track/3txOxWfFWDxo5e8mxqIdgL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Children of Africa",
+        "url": "https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 140527,
+      "name": "SHAOLIN",
+      "url": "https://open.spotify.com/track/2hODYSmDyWMu2C2XN4bgOV"
     },
     {
       "added_at": null,
@@ -551,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "FUJI MOTO",
+        "url": "https://open.spotify.com/album/0hFlRO0BYOF3WySD9jEhMT"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 111624,
+      "name": "FUJI HOUSE",
+      "url": "https://open.spotify.com/track/62JukoHpfCTkvbbP1Nu2Gk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Thy Kingdom Come",
         "url": "https://open.spotify.com/album/1SsFGuWTEBgvDd50NZzGfn"
       },
@@ -563,26 +619,6 @@
       "duration_ms": 162782,
       "name": "Hushpuppi",
       "url": "https://open.spotify.com/track/4VanaQ2X3B4k3WBSFkgWca"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FUJI MOTO",
-        "url": "https://open.spotify.com/album/0hFlRO0BYOF3WySD9jEhMT"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        },
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 123528,
-      "name": "FUJI PARTY",
-      "url": "https://open.spotify.com/track/6YOByn9plxYPTA6oeLlRkb"
     },
     {
       "added_at": null,
@@ -635,6 +671,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "NAHAMciaga",
+        "url": "https://open.spotify.com/album/2AuZ237jxny5vdLm8BtadC"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Today",
+      "url": "https://open.spotify.com/track/1dpSGMq9TjMxwv6aDFC5Sg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Thy Kingdom Come",
         "url": "https://open.spotify.com/album/1SsFGuWTEBgvDd50NZzGfn"
       },
@@ -647,26 +699,6 @@
       "duration_ms": 138947,
       "name": "Flakky",
       "url": "https://open.spotify.com/track/6SHKNvlSpKXQOwEse9OT6I"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FUJI MOTO",
-        "url": "https://open.spotify.com/album/0hFlRO0BYOF3WySD9jEhMT"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        },
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        }
-      ],
-      "duration_ms": 163200,
-      "name": "UP",
-      "url": "https://open.spotify.com/track/3txOxWfFWDxo5e8mxqIdgL"
     },
     {
       "added_at": null,
@@ -707,38 +739,6 @@
       "duration_ms": 179485,
       "name": "Giza (feat. Seyi Vibez)",
       "url": "https://open.spotify.com/track/0UdBaetogSoEIO7fSD1334"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NAHAMciaga",
-        "url": "https://open.spotify.com/album/2AuZ237jxny5vdLm8BtadC"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "Today",
-      "url": "https://open.spotify.com/track/1dpSGMq9TjMxwv6aDFC5Sg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FUJI MOTO",
-        "url": "https://open.spotify.com/album/0hFlRO0BYOF3WySD9jEhMT"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 111624,
-      "name": "FUJI HOUSE",
-      "url": "https://open.spotify.com/track/62JukoHpfCTkvbbP1Nu2Gk"
     },
     {
       "added_at": null,
@@ -911,26 +911,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jiggy Forever",
-        "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
+        "name": "NAHAMciaga",
+        "url": "https://open.spotify.com/album/2AuZ237jxny5vdLm8BtadC"
       },
       "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        },
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        },
         {
           "name": "Seyi Vibez",
           "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 180530,
-      "name": "Big Big Things (feat. Kizz Daniel & Seyi Vibez)",
-      "url": "https://open.spotify.com/track/0ww0GM0f5USzNZidkcoCVX"
+      "duration_ms": 163846,
+      "name": "Shazam",
+      "url": "https://open.spotify.com/track/7h3lUXlCx5Wn7ac0fQriz3"
     }
   ],
   "unique_name": "This Is Seyi Vibez",

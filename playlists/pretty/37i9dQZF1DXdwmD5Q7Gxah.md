@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > <a href="https://loremandfriends.substack.com/p/smerz\-daniel\-caesar\-and\-the\-dawn">November newsletter w/ Daniel Caesar & Smerz is live 📿</a> Cover: Charli xcx & John Cale
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,186,948 likes - 181 songs - 10 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,186,932 likes - 181 songs - 10 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2405,6 +2405,24 @@
     },
     {
       "album": {
+        "name": "It Ain't Easy",
+        "url": "https://open.spotify.com/album/2o37O88rBfov877yx4SqGc"
+      },
+      "artists": [
+        {
+          "name": "HILLARI",
+          "url": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "It Ain't Easy",
+      "url": "https://open.spotify.com/track/3KhuRm5r30KMJ3E99adaIy"
+    },
+    {
+      "album": {
         "name": "It's Ok If You Forget Me",
         "url": "https://open.spotify.com/album/5gojU2qbIqKDBO7L1Q8OOG"
       },
@@ -4520,7 +4538,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 192213,
       "name": "Synd synd synd",
       "url": "https://open.spotify.com/track/1E3XUJ45spbv204ePpWeJR"

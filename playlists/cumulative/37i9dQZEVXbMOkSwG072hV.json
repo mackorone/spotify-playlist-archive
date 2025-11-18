@@ -12644,7 +12644,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 266737,
       "name": "CAJU",
       "url": "https://open.spotify.com/track/7DSDIL1ANt76FfEASnkA5p"
@@ -20564,7 +20564,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-17",
+      "date_removed": null,
       "duration_ms": 138000,
       "name": "Dharma",
       "url": "https://open.spotify.com/track/0EZg6KOUpuq9bBDWrPpK1f"
@@ -23542,7 +23542,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 220316,
       "name": "Ele Faz",
       "url": "https://open.spotify.com/track/3rxiJFHRD6ZptvsRS6rCy7"
@@ -49491,6 +49491,24 @@
     },
     {
       "album": {
+        "name": "MUEVELOU",
+        "url": "https://open.spotify.com/album/6XhOBWkP7QpAbFBvJEsvjR"
+      },
+      "artists": [
+        {
+          "name": "VAD BOYZ",
+          "url": "https://open.spotify.com/artist/6L9j8pEAo7qqQ9RqkdlN2W"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135659,
+      "name": "MUEVELOU",
+      "url": "https://open.spotify.com/track/27gcAFVOnixwd1Kd7q428C"
+    },
+    {
+      "album": {
         "name": "Mujeriego",
         "url": "https://open.spotify.com/album/43sxUsU622oLloqafw61vN"
       },
@@ -70954,7 +70972,7 @@
       },
       "artists": [
         {
-          "name": "Pegada X",
+          "name": "Harry o Bruxo",
           "url": "https://open.spotify.com/artist/332Fln0M0hMo0iyQJcRYXz"
         }
       ],
@@ -83930,6 +83948,32 @@
     {
       "album": {
         "name": "Where Have You Been (Orchestra)",
+        "url": "https://open.spotify.com/album/5FL1ijeOfNQYz9PfrgAVtE"
+      },
+      "artists": [
+        {
+          "name": "Lune",
+          "url": "https://open.spotify.com/artist/47v3oYMWQ0JjGhHb77dRmc"
+        },
+        {
+          "name": "mikeeysmind",
+          "url": "https://open.spotify.com/artist/0g0ZYLiNYI4kMg8MX76bkN"
+        },
+        {
+          "name": "Unjaps",
+          "url": "https://open.spotify.com/artist/4GK74dyUdNHHeQv4bQOpZi"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171264,
+      "name": "Where Have You Been (Orchestra)",
+      "url": "https://open.spotify.com/track/5UDv726vPnY2diGOkY1DkS"
+    },
+    {
+      "album": {
+        "name": "Where Have You Been (Orchestra)",
         "url": "https://open.spotify.com/album/6OjWM5GNIsG7Yhi2vqEIRu"
       },
       "artists": [
@@ -83940,7 +83984,7 @@
       ],
       "date_added": "2025-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 171949,
       "name": "Where Have You Been - Orchestra",
       "url": "https://open.spotify.com/track/317wMVyKK4itcGnKrzmptA"

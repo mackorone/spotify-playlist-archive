@@ -6475,6 +6475,28 @@
     },
     {
       "album": {
+        "name": "Majili Marvels",
+        "url": "https://open.spotify.com/album/3PjOfkLCURKWdbpgOSo48Z"
+      },
+      "artists": [
+        {
+          "name": "John Robins",
+          "url": "https://open.spotify.com/artist/4vrGxEyhSmRkywIlWp8Xqc"
+        },
+        {
+          "name": "Madras Miran",
+          "url": "https://open.spotify.com/artist/2uGJ4HB24UySISeUlOHsNb"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188689,
+      "name": "Majili Marvels",
+      "url": "https://open.spotify.com/track/2xboIsvvkyvOV8CNIJBngG"
+    },
+    {
+      "album": {
         "name": "Makal",
         "url": "https://open.spotify.com/album/0tSGRLL1qHoR2HoLeCAP2r"
       },
@@ -8618,7 +8640,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 224444,
       "name": "Nizhal Koondhal",
       "url": "https://open.spotify.com/track/6p0P1iuqSXIP9zkSHNcOjS"
@@ -8780,6 +8802,28 @@
       "duration_ms": 215996,
       "name": "Oh Kanmaniye",
       "url": "https://open.spotify.com/track/1miOAICSQx1qM6W3a3cp7C"
+    },
+    {
+      "album": {
+        "name": "Oh My Baby",
+        "url": "https://open.spotify.com/album/3G9ETvDZGYQvOEQwWFi8RV"
+      },
+      "artists": [
+        {
+          "name": "Sharon Shobana Vasudevan",
+          "url": "https://open.spotify.com/artist/34T3pEe3EpbGVta9jXsTxg"
+        },
+        {
+          "name": "Sridhar Sena",
+          "url": "https://open.spotify.com/artist/5YSYUHw3olaxG4SZhtCPET"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276645,
+      "name": "Oh My Baby",
+      "url": "https://open.spotify.com/track/6ZEz7w3tmInPP7WlK9C1wB"
     },
     {
       "album": {
@@ -14218,7 +14262,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 148158,
       "name": "YAAR AVAL",
       "url": "https://open.spotify.com/track/1o1eqqm0tqsiJuqeXvo8Y6"
@@ -14314,7 +14358,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 172500,
       "name": "Yaathe",
       "url": "https://open.spotify.com/track/6NYYe7z6RTefuWAZGMfDFM"

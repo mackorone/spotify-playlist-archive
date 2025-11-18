@@ -1,6 +1,6 @@
 {
   "description": "Fusion music for the soul.  Cover- Salim-Sulaiman and Shankar Mahadevan",
-  "num_followers": 80974,
+  "num_followers": 80984,
   "original_name": "Fusion Finds",
   "owner": {
     "name": "Spotify",
@@ -859,26 +859,6 @@
     {
       "added_at": "2025-11-05 07:00:48",
       "album": {
-        "name": "Bulbuli",
-        "url": "https://open.spotify.com/album/4f5KGhlRtDxxxrQwLSnhZK"
-      },
-      "artists": [
-        {
-          "name": "Ritu Raj",
-          "url": "https://open.spotify.com/artist/1yTkWdk95JHU9bD8gZWMor"
-        },
-        {
-          "name": "Nandita",
-          "url": "https://open.spotify.com/artist/1olb97DNlYXqItxaR3qfxC"
-        }
-      ],
-      "duration_ms": 346560,
-      "name": "Bulbuli",
-      "url": "https://open.spotify.com/track/3UQNpb3oIk5GWNu9efvNg5"
-    },
-    {
-      "added_at": "2025-11-05 07:00:48",
-      "album": {
         "name": "Chal Chaliye",
         "url": "https://open.spotify.com/album/0lkJiX0MNdmSw4aSK0tvgB"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 234207,
       "name": "Chal Chaliye",
       "url": "https://open.spotify.com/track/0Wr1k0Fm8PQvjnSiYReNGC"
+    },
+    {
+      "added_at": "2025-11-05 07:00:48",
+      "album": {
+        "name": "Bulbuli",
+        "url": "https://open.spotify.com/album/4f5KGhlRtDxxxrQwLSnhZK"
+      },
+      "artists": [
+        {
+          "name": "Ritu Raj",
+          "url": "https://open.spotify.com/artist/1yTkWdk95JHU9bD8gZWMor"
+        },
+        {
+          "name": "Nandita",
+          "url": "https://open.spotify.com/artist/1olb97DNlYXqItxaR3qfxC"
+        }
+      ],
+      "duration_ms": 346560,
+      "name": "Bulbuli",
+      "url": "https://open.spotify.com/track/3UQNpb3oIk5GWNu9efvNg5"
     },
     {
       "added_at": "2025-11-05 07:00:48",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,940 likes - 143 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,936 likes - 143 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,23 +13,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 3 | [Hur ska jag må](https://open.spotify.com/track/2F55MZek0xwxjGXxoHp9DR) | [Nuqi](https://open.spotify.com/artist/2I1j9kLL2wXV0KnKjs4Cz5) | [Hur ska jag må](https://open.spotify.com/album/6COuEsBGNEGML0kG3WLJfX) | 2:27 |
 | 4 | [Pick & Pack](https://open.spotify.com/track/5ZZvA49i9O0Eta3bD8vWCu) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Pick & Pack](https://open.spotify.com/album/24ToNpIDjjMPT5YEVo86IL) | 2:29 |
 | 5 | [Kraft](https://open.spotify.com/track/0vj31m7sRV5bw7qpKqnCAd) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Kraft](https://open.spotify.com/album/7xlM8p9pPRFMgtS6npr3G2) | 3:00 |
-| 6 | [FAKE](https://open.spotify.com/track/2KsU2kCLYql5LlrHUG67uR) | [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [FAKE](https://open.spotify.com/album/3TA8X246pivhN9X06iFZUl) | 2:41 |
-| 7 | [Ett Glas](https://open.spotify.com/track/7gwuSvvrzy6icRYDg8tWwh) | [Mohelá](https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ) | [Ett Glas](https://open.spotify.com/album/4gsuOvu33iLBs2VzMRkIJo) | 1:50 |
-| 8 | [X](https://open.spotify.com/track/7DYvcwCrtckSM5bidztQhj) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [Reyn](https://open.spotify.com/artist/0fyeRmbc7XdKio5Fm13LPB) | [YEMAYA II](https://open.spotify.com/album/6xqiRAirHxigWJD1nHiXUj) | 2:42 |
-| 9 | [FÖR EVIGT](https://open.spotify.com/track/7gdDgeh1Zq36pRmKqj3P8r) | [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp) | [FÖR EVIGT](https://open.spotify.com/album/4RVYj3LuBvgJ6JS4mAhZMT) | 2:03 |
-| 10 | [Back2Basic](https://open.spotify.com/track/33ce8S1SLKoVDlFKe9klj5) | [Euroo](https://open.spotify.com/artist/5ZVHfahjeu8Z81RYyhcLDH) | [Back2Basic](https://open.spotify.com/album/3Yp0LfXQeKhnv76luEfh2O) | 2:19 |
-| 11 | [KOMPLICERAD](https://open.spotify.com/track/1wOCfrCIbeJGFCeVB1897f) | [Lekaye](https://open.spotify.com/artist/1ex9QsvTSM6iNuLh1lkJUM) | [KOMPLICERAD](https://open.spotify.com/album/7z2Z4PBOXuaai2kd7wMFIe) | 2:04 |
-| 12 | [WENKI \(Corazón\)](https://open.spotify.com/track/34p3Feb9ByqKCep6PZe4ni) | [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK) | [WENKI \(Corazón\)](https://open.spotify.com/album/7I3nAEFSDVaHBs9jLfMk9H) | 2:24 |
-| 13 | [Vespa](https://open.spotify.com/track/1kRfkFEJD6ojL353QVOgYd) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP), [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8) | [Young & Heartless](https://open.spotify.com/album/0Xwy0b8nbvovrqgDashXXZ) | 2:11 |
+| 6 | [Back2Basic](https://open.spotify.com/track/33ce8S1SLKoVDlFKe9klj5) | [Euroo](https://open.spotify.com/artist/5ZVHfahjeu8Z81RYyhcLDH) | [Back2Basic](https://open.spotify.com/album/3Yp0LfXQeKhnv76luEfh2O) | 2:19 |
+| 7 | [WENKI \(Corazón\)](https://open.spotify.com/track/34p3Feb9ByqKCep6PZe4ni) | [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK) | [WENKI \(Corazón\)](https://open.spotify.com/album/7I3nAEFSDVaHBs9jLfMk9H) | 2:24 |
+| 8 | [FAKE](https://open.spotify.com/track/2KsU2kCLYql5LlrHUG67uR) | [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [FAKE](https://open.spotify.com/album/3TA8X246pivhN9X06iFZUl) | 2:41 |
+| 9 | [Ett Glas](https://open.spotify.com/track/7gwuSvvrzy6icRYDg8tWwh) | [Mohelá](https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ) | [Ett Glas](https://open.spotify.com/album/4gsuOvu33iLBs2VzMRkIJo) | 1:50 |
+| 10 | [X](https://open.spotify.com/track/7DYvcwCrtckSM5bidztQhj) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [Reyn](https://open.spotify.com/artist/0fyeRmbc7XdKio5Fm13LPB) | [YEMAYA II](https://open.spotify.com/album/6xqiRAirHxigWJD1nHiXUj) | 2:42 |
+| 11 | [Vespa](https://open.spotify.com/track/1kRfkFEJD6ojL353QVOgYd) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP), [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8) | [Young & Heartless](https://open.spotify.com/album/0Xwy0b8nbvovrqgDashXXZ) | 2:11 |
+| 12 | [FÖR EVIGT](https://open.spotify.com/track/7gdDgeh1Zq36pRmKqj3P8r) | [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp) | [FÖR EVIGT](https://open.spotify.com/album/4RVYj3LuBvgJ6JS4mAhZMT) | 2:03 |
+| 13 | [KOMPLICERAD](https://open.spotify.com/track/1wOCfrCIbeJGFCeVB1897f) | [Lekaye](https://open.spotify.com/artist/1ex9QsvTSM6iNuLh1lkJUM) | [KOMPLICERAD](https://open.spotify.com/album/7z2Z4PBOXuaai2kd7wMFIe) | 2:04 |
 | 14 | [SAMMA SAK](https://open.spotify.com/track/1rZ8yLijuXqreaDNwlvfpI) | [MIGI](https://open.spotify.com/artist/6SQ1V0fuKnQGrLYE37Q1n3), [Femme Fatale Selection](https://open.spotify.com/artist/4AScgQYszH5PHyB5rGTZh9) | [SAMMA SAK](https://open.spotify.com/album/4hKLWOQCfUnMrQxhl67qNd) | 2:14 |
-| 15 | [Sweet N Sour](https://open.spotify.com/track/542FUa9YVBt4Ae9TazKQ4o) | [IRMÃO](https://open.spotify.com/artist/38FjF8j532u7xIWCw0ykGp) | [Sweet N Sour](https://open.spotify.com/album/6E9iV4gzjUuymfQjmt6P3I) | 2:06 |
-| 16 | [Mitt Lakan](https://open.spotify.com/track/4anWW01BomrDXliEWKXK3i) | [Nisch](https://open.spotify.com/artist/7smlmmfx2RNvzQIebdSpVU) | [Mitt Lakan](https://open.spotify.com/album/67LAbK4ZdQ2nYvgxLRHgx3) | 2:29 |
-| 17 | [Offline](https://open.spotify.com/track/6LQSHYiDKmkehXiDELsyE1) | [ROMANOS](https://open.spotify.com/artist/5GT8ltnqVPe7Zf8Ynrb5mV), [Lekaye](https://open.spotify.com/artist/1ex9QsvTSM6iNuLh1lkJUM), [Montana](https://open.spotify.com/artist/2RmwY9PuyhQF6SrNAZJwQG) | [Offline](https://open.spotify.com/album/6lnTWUT8fc608HdV66fpBl) | 2:02 |
-| 18 | [Mon Poto](https://open.spotify.com/track/6lL4o9BcZjXyuqZp9xKb7U) | [Rami Bazi](https://open.spotify.com/artist/1xyGVJFEvENupHZdAkYcHd) | [Mon Poto](https://open.spotify.com/album/2fPLHdR32lgsisW0JwebbH) | 2:03 |
-| 19 | [INGEN VARNING](https://open.spotify.com/track/2QA2D3koTkPELwqgUqaFww) | [Sticky](https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [SKITZOFRENIA](https://open.spotify.com/album/2oE0Zzk4NFiuQZT8Vsqybo) | 2:45 |
-| 20 | [365](https://open.spotify.com/track/4cEUJZQ58gzpWT1zr5fFwW) | [Montana](https://open.spotify.com/artist/4klH9sjw1BjPGzibWyZaIj) | [365](https://open.spotify.com/album/1IROocNwLeUDqQEXs0RaLn) | 2:17 |
-| 21 | [TÄNK](https://open.spotify.com/track/22WDvHFpaNLAND708pdRUI) | [Adel](https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT), [Ceasar DD](https://open.spotify.com/artist/2b9daIUUiOJEbStrT2chg4) | [TÄNK](https://open.spotify.com/album/3yofOf4yccca2QnqYNQcjY) | 2:00 |
-| 22 | [MARIYAH](https://open.spotify.com/track/1tkAucxYpCCinUd0FJgJqu) | [Euroo](https://open.spotify.com/artist/5ZVHfahjeu8Z81RYyhcLDH) | [MARIYAH](https://open.spotify.com/album/1aveuLy7qa8mHID62R940i) | 2:32 |
+| 15 | [MARIYAH](https://open.spotify.com/track/1tkAucxYpCCinUd0FJgJqu) | [Euroo](https://open.spotify.com/artist/5ZVHfahjeu8Z81RYyhcLDH) | [MARIYAH](https://open.spotify.com/album/1aveuLy7qa8mHID62R940i) | 2:32 |
+| 16 | [Sweet N Sour](https://open.spotify.com/track/542FUa9YVBt4Ae9TazKQ4o) | [IRMÃO](https://open.spotify.com/artist/38FjF8j532u7xIWCw0ykGp) | [Sweet N Sour](https://open.spotify.com/album/6E9iV4gzjUuymfQjmt6P3I) | 2:06 |
+| 17 | [Mitt Lakan](https://open.spotify.com/track/4anWW01BomrDXliEWKXK3i) | [Nisch](https://open.spotify.com/artist/7smlmmfx2RNvzQIebdSpVU) | [Mitt Lakan](https://open.spotify.com/album/67LAbK4ZdQ2nYvgxLRHgx3) | 2:29 |
+| 18 | [Offline](https://open.spotify.com/track/6LQSHYiDKmkehXiDELsyE1) | [ROMANOS](https://open.spotify.com/artist/5GT8ltnqVPe7Zf8Ynrb5mV), [Lekaye](https://open.spotify.com/artist/1ex9QsvTSM6iNuLh1lkJUM), [Montana](https://open.spotify.com/artist/2RmwY9PuyhQF6SrNAZJwQG) | [Offline](https://open.spotify.com/album/6lnTWUT8fc608HdV66fpBl) | 2:02 |
+| 19 | [Mon Poto](https://open.spotify.com/track/6lL4o9BcZjXyuqZp9xKb7U) | [Rami Bazi](https://open.spotify.com/artist/1xyGVJFEvENupHZdAkYcHd) | [Mon Poto](https://open.spotify.com/album/2fPLHdR32lgsisW0JwebbH) | 2:03 |
+| 20 | [INGEN VARNING](https://open.spotify.com/track/2QA2D3koTkPELwqgUqaFww) | [Sticky](https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [SKITZOFRENIA](https://open.spotify.com/album/2oE0Zzk4NFiuQZT8Vsqybo) | 2:45 |
+| 21 | [365](https://open.spotify.com/track/4cEUJZQ58gzpWT1zr5fFwW) | [Montana](https://open.spotify.com/artist/4klH9sjw1BjPGzibWyZaIj) | [365](https://open.spotify.com/album/1IROocNwLeUDqQEXs0RaLn) | 2:17 |
+| 22 | [TÄNK](https://open.spotify.com/track/22WDvHFpaNLAND708pdRUI) | [Adel](https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT), [Ceasar DD](https://open.spotify.com/artist/2b9daIUUiOJEbStrT2chg4) | [TÄNK](https://open.spotify.com/album/3yofOf4yccca2QnqYNQcjY) | 2:00 |
 | 23 | [HOLLOW TIP](https://open.spotify.com/track/4x3rU75CtZ45mZMYyxYb2Y) | [R10](https://open.spotify.com/artist/4SpQbTURvPQJbkmKqBkD6m) | [EP 1](https://open.spotify.com/album/20JDe00PfANWrnIiQkVGkD) | 2:09 |
 | 24 | [25](https://open.spotify.com/track/1QdUmwck1w9lK503YJErFy) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [YEMAYA II](https://open.spotify.com/album/6xqiRAirHxigWJD1nHiXUj) | 2:32 |
 | 25 | [Milano](https://open.spotify.com/track/67kvIYRLOC3kmzErX2fG4l) | [Seedy](https://open.spotify.com/artist/1iQU1h00vZTEnTiqL15gVv) | [Milano](https://open.spotify.com/album/76eLdS9euVE0CZJlVNKeSh) | 2:48 |
@@ -152,4 +152,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 142 | [Ge Ej Upp](https://open.spotify.com/track/7Lolw0ToMMBSVxiB0FAUAp) | [Awave](https://open.spotify.com/artist/2zrzhtWVPEcj1btFiRDQlF), [NBLNATION](https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6) | [Ge Ej Upp](https://open.spotify.com/album/5798b1KEUVxrESw0qXBalH) | 2:26 |
 | 143 | [Zizou](https://open.spotify.com/track/04svnAvyB0gCeLzLGlzHkQ) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt), [NBLNATION](https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6) | [Zizou](https://open.spotify.com/album/2YSsbdos0JCYpsBmt059xU) | 2:30 |
 
-Snapshot ID: `AAAAAAhsiZMMlP3/dDddLahduXPyHFQi`
+Snapshot ID: `AAAAAG7cfCii9nD+YaZQ6DURvzh9avqI`

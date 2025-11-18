@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 
 > Start your morning right with this collection of funky, soulful, jazzy tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 444,344 likes - 80 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 444,501 likes - 80 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 | 71 | [Don't Answer](https://open.spotify.com/track/7r4ktpN7S9DORPXVoyXaBN) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Don't Answer](https://open.spotify.com/album/3t08Js8O3fPiiPBSba91z6) | 3:42 |
 | 72 | [Peaceful Place](https://open.spotify.com/track/2OiJ2pEQlLPnOywokPkG4N) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Peaceful Place](https://open.spotify.com/album/6ZJwX0ETt1mAZReAEDbI3X) | 4:15 |
 | 73 | [Silver Tongue](https://open.spotify.com/track/0Qxsuh1NoCMWDYVfC49XRE) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Silver Tongue](https://open.spotify.com/album/6kzadEspZVh3DAFv5BnulS) | 4:22 |
-| 74 | [Lights Out](https://open.spotify.com/track/4wRaWtogW3IXgNBrL2jqZ8) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Find Your Flame](https://open.spotify.com/album/7dkkrLhrHCTPsmc7JucvgL) | 4:01 |
+| 74 | [Lights Out](https://open.spotify.com/track/4wRaWtogW3IXgNBrL2jqZ8) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [Aziza Jaye](https://open.spotify.com/artist/0tHJp3y1T8uA9oWhEOMRzE) | [Find Your Flame](https://open.spotify.com/album/7dkkrLhrHCTPsmc7JucvgL) | 4:01 |
 | 75 | [Seconds, Minutes, Hours](https://open.spotify.com/track/7dSu6dQ8dQikkGSq0ZEj3f) | [JAÏNDA](https://open.spotify.com/artist/66o7kKRzYuVjtmQo4acAkR) | [Seconds, Minutes, Hours](https://open.spotify.com/album/4vqGSFdoW2vX2Umle1d2ml) | 3:06 |
 | 76 | [Good Heart Bad Place](https://open.spotify.com/track/7F1lIW0T93reSdfPndSP4Y) | [Nathan Badu](https://open.spotify.com/artist/3IjtugjO4uMXKRiNDmyAWY) | [Good Heart Bad Place](https://open.spotify.com/album/7sydmVeEkWKMPAuVbDLYTA) | 2:56 |
 | 77 | [Changes](https://open.spotify.com/track/2BRlr1GWfNxtZllyf5YB17) | [Stefan Sands](https://open.spotify.com/artist/63iNYBnrXorH2RsjM1KOfv) | [Changes](https://open.spotify.com/album/2oow0cVzVXw7FOAxKyjD1v) | 3:32 |

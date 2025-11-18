@@ -1,6 +1,6 @@
 {
   "description": "Die Playlist zur Wasserpfeife. Cover: Jazeek",
-  "num_followers": 916283,
+  "num_followers": 916252,
   "original_name": "Shisha Club",
   "owner": {
     "name": "Spotify",
@@ -271,26 +271,6 @@
     {
       "added_at": "2025-11-14 13:17:06",
       "album": {
-        "name": "Tutto Bene",
-        "url": "https://open.spotify.com/album/6hp9ryEwD5QwQ7uztaEcMD"
-      },
-      "artists": [
-        {
-          "name": "Dardan",
-          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
-        },
-        {
-          "name": "Morad",
-          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
-        }
-      ],
-      "duration_ms": 219733,
-      "name": "Tutto Bene",
-      "url": "https://open.spotify.com/track/7iOadzb2kNGSR0vuZk1DD9"
-    },
-    {
-      "added_at": "2025-11-14 13:17:06",
-      "album": {
         "name": "REDE",
         "url": "https://open.spotify.com/album/1HoueopEdCizCdy1VSe4BU"
       },
@@ -311,8 +291,28 @@
     {
       "added_at": "2025-11-14 13:17:06",
       "album": {
-        "name": "Pech & Schwefel",
-        "url": "https://open.spotify.com/album/4lv03w3mhu2o1NOZX24z9R"
+        "name": "Tutto Bene",
+        "url": "https://open.spotify.com/album/6hp9ryEwD5QwQ7uztaEcMD"
+      },
+      "artists": [
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        },
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        }
+      ],
+      "duration_ms": 219733,
+      "name": "Tutto Bene",
+      "url": "https://open.spotify.com/track/7iOadzb2kNGSR0vuZk1DD9"
+    },
+    {
+      "added_at": "2025-11-14 13:17:06",
+      "album": {
+        "name": "Zieh Zieh",
+        "url": "https://open.spotify.com/album/5u5bKLkbu0chTbmvTvQgKq"
       },
       "artists": [
         {
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
         }
       ],
-      "duration_ms": 187286,
-      "name": "Pech & Schwefel",
-      "url": "https://open.spotify.com/track/6yKRxSyDyKXcYA9DGkG5Aq"
+      "duration_ms": 133403,
+      "name": "Zieh Zieh",
+      "url": "https://open.spotify.com/track/5BsS41PRBAXs7EibiFdvPp"
     },
     {
       "added_at": "2025-11-14 13:17:06",
@@ -371,22 +371,6 @@
     {
       "added_at": "2025-11-14 13:17:06",
       "album": {
-        "name": "Schmerz",
-        "url": "https://open.spotify.com/album/6DXSVluSMQF8aj8zQnoiVZ"
-      },
-      "artists": [
-        {
-          "name": "Dardan",
-          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
-        }
-      ],
-      "duration_ms": 163946,
-      "name": "Schmerz",
-      "url": "https://open.spotify.com/track/4SXUbnaYt80pFpAebHVR5Q"
-    },
-    {
-      "added_at": "2025-11-14 13:17:06",
-      "album": {
         "name": "Yerinde Dur Remix feat. Amo & Aymen",
         "url": "https://open.spotify.com/album/3e966JmhN3SrKx6QLTtwY2"
       },
@@ -415,8 +399,24 @@
     {
       "added_at": "2025-11-14 13:17:06",
       "album": {
-        "name": "Zieh Zieh",
-        "url": "https://open.spotify.com/album/5u5bKLkbu0chTbmvTvQgKq"
+        "name": "Schmerz",
+        "url": "https://open.spotify.com/album/6DXSVluSMQF8aj8zQnoiVZ"
+      },
+      "artists": [
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        }
+      ],
+      "duration_ms": 163946,
+      "name": "Schmerz",
+      "url": "https://open.spotify.com/track/4SXUbnaYt80pFpAebHVR5Q"
+    },
+    {
+      "added_at": "2025-11-14 13:17:06",
+      "album": {
+        "name": "Pech & Schwefel",
+        "url": "https://open.spotify.com/album/4lv03w3mhu2o1NOZX24z9R"
       },
       "artists": [
         {
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
         }
       ],
-      "duration_ms": 133403,
-      "name": "Zieh Zieh",
-      "url": "https://open.spotify.com/track/5BsS41PRBAXs7EibiFdvPp"
+      "duration_ms": 187286,
+      "name": "Pech & Schwefel",
+      "url": "https://open.spotify.com/track/6yKRxSyDyKXcYA9DGkG5Aq"
     },
     {
       "added_at": "2025-11-14 13:17:06",
@@ -475,22 +475,6 @@
     {
       "added_at": "2025-11-14 13:17:06",
       "album": {
-        "name": "Drama",
-        "url": "https://open.spotify.com/album/1cOvy0q3RBQyHV0BGPZhE5"
-      },
-      "artists": [
-        {
-          "name": "Dardan",
-          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
-        }
-      ],
-      "duration_ms": 170773,
-      "name": "Drama",
-      "url": "https://open.spotify.com/track/2Eoa4NYwOkVOc2fgOfuvb6"
-    },
-    {
-      "added_at": "2025-11-14 13:17:06",
-      "album": {
         "name": "Buscape",
         "url": "https://open.spotify.com/album/1DXIc6GvvfFdx7j2gOdCNb"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 151755,
       "name": "Buscape",
       "url": "https://open.spotify.com/track/20ABHNIR9jBXjaQnLjcVI2"
+    },
+    {
+      "added_at": "2025-11-14 13:17:06",
+      "album": {
+        "name": "Drama",
+        "url": "https://open.spotify.com/album/1cOvy0q3RBQyHV0BGPZhE5"
+      },
+      "artists": [
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        }
+      ],
+      "duration_ms": 170773,
+      "name": "Drama",
+      "url": "https://open.spotify.com/track/2Eoa4NYwOkVOc2fgOfuvb6"
     },
     {
       "added_at": "2025-11-14 13:17:06",
@@ -567,26 +567,6 @@
     {
       "added_at": "2025-11-14 13:17:06",
       "album": {
-        "name": "Highlight",
-        "url": "https://open.spotify.com/album/60XndUjPqFimUaGzaKmlgS"
-      },
-      "artists": [
-        {
-          "name": "Dardan",
-          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
-        },
-        {
-          "name": "Jamin",
-          "url": "https://open.spotify.com/artist/742hF8NzfLAfwg7pwSh1x9"
-        }
-      ],
-      "duration_ms": 184453,
-      "name": "Highlight",
-      "url": "https://open.spotify.com/track/1ivw4hEEh8sUHcqjmuYnZ6"
-    },
-    {
-      "added_at": "2025-11-14 13:17:06",
-      "album": {
         "name": "Playboys im AMG",
         "url": "https://open.spotify.com/album/352ocuWsww6xXPgUDmXFqq"
       },
@@ -607,6 +587,26 @@
       "duration_ms": 153175,
       "name": "Syt",
       "url": "https://open.spotify.com/track/4UxVPXznavq6dwRv9bro7G"
+    },
+    {
+      "added_at": "2025-11-14 13:17:06",
+      "album": {
+        "name": "Highlight",
+        "url": "https://open.spotify.com/album/60XndUjPqFimUaGzaKmlgS"
+      },
+      "artists": [
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        },
+        {
+          "name": "Jamin",
+          "url": "https://open.spotify.com/artist/742hF8NzfLAfwg7pwSh1x9"
+        }
+      ],
+      "duration_ms": 184453,
+      "name": "Highlight",
+      "url": "https://open.spotify.com/track/1ivw4hEEh8sUHcqjmuYnZ6"
     },
     {
       "added_at": "2025-11-14 13:17:06",
@@ -679,6 +679,22 @@
     {
       "added_at": "2025-11-14 13:17:06",
       "album": {
+        "name": "\u00f4 dis o\u00f9 t'es",
+        "url": "https://open.spotify.com/album/2zil9C5LyM5ryiFTYv9sEE"
+      },
+      "artists": [
+        {
+          "name": "Monet192",
+          "url": "https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw"
+        }
+      ],
+      "duration_ms": 130469,
+      "name": "\u00f4 dis o\u00f9 t'es",
+      "url": "https://open.spotify.com/track/6HFIcrIgp65pXnnFm7zC4w"
+    },
+    {
+      "added_at": "2025-11-14 13:17:06",
+      "album": {
         "name": "Simpel",
         "url": "https://open.spotify.com/album/6wDfuAJ9aaOhaATIhnsQpL"
       },
@@ -695,18 +711,18 @@
     {
       "added_at": "2025-11-14 13:17:06",
       "album": {
-        "name": "\u00f4 dis o\u00f9 t'es",
-        "url": "https://open.spotify.com/album/2zil9C5LyM5ryiFTYv9sEE"
+        "name": "Parkplatz",
+        "url": "https://open.spotify.com/album/3nLKdyHEUFyx0EPcoeV7X3"
       },
       "artists": [
         {
-          "name": "Monet192",
-          "url": "https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw"
+          "name": "Olexesh",
+          "url": "https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl"
         }
       ],
-      "duration_ms": 130469,
-      "name": "\u00f4 dis o\u00f9 t'es",
-      "url": "https://open.spotify.com/track/6HFIcrIgp65pXnnFm7zC4w"
+      "duration_ms": 154000,
+      "name": "Parkplatz",
+      "url": "https://open.spotify.com/track/3sTr8yoAaBlnBARdiVTvpP"
     },
     {
       "added_at": "2025-11-14 13:17:06",
@@ -747,18 +763,18 @@
     {
       "added_at": "2025-11-14 13:17:06",
       "album": {
-        "name": "Parkplatz",
-        "url": "https://open.spotify.com/album/3nLKdyHEUFyx0EPcoeV7X3"
+        "name": "Sie ist",
+        "url": "https://open.spotify.com/album/55LftgNaBrImsVkBQZLUsG"
       },
       "artists": [
         {
-          "name": "Olexesh",
-          "url": "https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl"
+          "name": "Monet192",
+          "url": "https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw"
         }
       ],
-      "duration_ms": 154000,
-      "name": "Parkplatz",
-      "url": "https://open.spotify.com/track/3sTr8yoAaBlnBARdiVTvpP"
+      "duration_ms": 144359,
+      "name": "Sie ist",
+      "url": "https://open.spotify.com/track/3iKocY9U4TP3J3hjxsSBwM"
     },
     {
       "added_at": "2025-11-14 13:17:06",
@@ -775,22 +791,6 @@
       "duration_ms": 148500,
       "name": "Mrs. Toxic",
       "url": "https://open.spotify.com/track/3uhwFTBCoTO7VyW0NH9u1i"
-    },
-    {
-      "added_at": "2025-11-14 13:17:06",
-      "album": {
-        "name": "Sie ist",
-        "url": "https://open.spotify.com/album/55LftgNaBrImsVkBQZLUsG"
-      },
-      "artists": [
-        {
-          "name": "Monet192",
-          "url": "https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw"
-        }
-      ],
-      "duration_ms": 144359,
-      "name": "Sie ist",
-      "url": "https://open.spotify.com/track/3iKocY9U4TP3J3hjxsSBwM"
     },
     {
       "added_at": "2025-11-14 13:17:06",
@@ -847,22 +847,18 @@
     {
       "added_at": "2025-11-14 13:17:06",
       "album": {
-        "name": "DON'T JUDGE",
-        "url": "https://open.spotify.com/album/5PJDbdQeBpwnDo9azB3lub"
+        "name": "3 Engel f\u00fcr Cave",
+        "url": "https://open.spotify.com/album/36N7FGrmCp2wPRL3DsMlBC"
       },
       "artists": [
         {
-          "name": "BILLA JOE",
-          "url": "https://open.spotify.com/artist/72y6W9pGy97xTM44dwy3F6"
-        },
-        {
-          "name": "Shindy",
-          "url": "https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34"
+          "name": "Cave 110",
+          "url": "https://open.spotify.com/artist/2LAMcjEMXfL8mWohcAkCF9"
         }
       ],
-      "duration_ms": 108386,
-      "name": "DON'T JUDGE",
-      "url": "https://open.spotify.com/track/7esMLn3RT1WawDY4Wom7QN"
+      "duration_ms": 132000,
+      "name": "3 Engel f\u00fcr Cave",
+      "url": "https://open.spotify.com/track/4nQmittuiFsPeU4nGfXDha"
     },
     {
       "added_at": "2025-11-14 13:17:06",
@@ -883,18 +879,22 @@
     {
       "added_at": "2025-11-14 13:17:06",
       "album": {
-        "name": "3 Engel f\u00fcr Cave",
-        "url": "https://open.spotify.com/album/36N7FGrmCp2wPRL3DsMlBC"
+        "name": "DON'T JUDGE",
+        "url": "https://open.spotify.com/album/5PJDbdQeBpwnDo9azB3lub"
       },
       "artists": [
         {
-          "name": "Cave 110",
-          "url": "https://open.spotify.com/artist/2LAMcjEMXfL8mWohcAkCF9"
+          "name": "BILLA JOE",
+          "url": "https://open.spotify.com/artist/72y6W9pGy97xTM44dwy3F6"
+        },
+        {
+          "name": "Shindy",
+          "url": "https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34"
         }
       ],
-      "duration_ms": 132000,
-      "name": "3 Engel f\u00fcr Cave",
-      "url": "https://open.spotify.com/track/4nQmittuiFsPeU4nGfXDha"
+      "duration_ms": 108386,
+      "name": "DON'T JUDGE",
+      "url": "https://open.spotify.com/track/7esMLn3RT1WawDY4Wom7QN"
     },
     {
       "added_at": "2025-11-14 13:17:06",
@@ -947,6 +947,22 @@
     {
       "added_at": "2025-11-14 13:17:06",
       "album": {
+        "name": "alors on danse",
+        "url": "https://open.spotify.com/album/6GOQyhFvzh1DXr5AwJM3yh"
+      },
+      "artists": [
+        {
+          "name": "Monet192",
+          "url": "https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw"
+        }
+      ],
+      "duration_ms": 157264,
+      "name": "alors on danse",
+      "url": "https://open.spotify.com/track/0wo1rEf20bD1Vevsbu6ijp"
+    },
+    {
+      "added_at": "2025-11-14 13:17:06",
+      "album": {
         "name": "HOKUS POKUS",
         "url": "https://open.spotify.com/album/1AWAuL3lkGaH7ZbelmJKrO"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 191661,
       "name": "HOKUS POKUS",
       "url": "https://open.spotify.com/track/0UfRPRyFnKrW4wKCRenAi4"
-    },
-    {
-      "added_at": "2025-11-14 13:17:06",
-      "album": {
-        "name": "alors on danse",
-        "url": "https://open.spotify.com/album/6GOQyhFvzh1DXr5AwJM3yh"
-      },
-      "artists": [
-        {
-          "name": "Monet192",
-          "url": "https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw"
-        }
-      ],
-      "duration_ms": 157264,
-      "name": "alors on danse",
-      "url": "https://open.spotify.com/track/0wo1rEf20bD1Vevsbu6ijp"
     },
     {
       "added_at": "2025-11-14 13:17:06",
@@ -1135,22 +1135,18 @@
     {
       "added_at": "2025-11-14 13:17:06",
       "album": {
-        "name": "SANTOS",
-        "url": "https://open.spotify.com/album/340mhMLU57SVVGqZ9SMVUP"
+        "name": "VIP",
+        "url": "https://open.spotify.com/album/5wLJcdbE6EPyBAtst8slVP"
       },
       "artists": [
         {
-          "name": "SANTOS",
-          "url": "https://open.spotify.com/artist/4hK7sEnm0se5bqoI3Yb5o1"
-        },
-        {
-          "name": "Dardan",
-          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+          "name": "KC Rebell",
+          "url": "https://open.spotify.com/artist/5p7mWeX4RlvqBCxylfiXdE"
         }
       ],
-      "duration_ms": 124093,
-      "name": "Heartbreaks",
-      "url": "https://open.spotify.com/track/3NC8Zs1B4RZijkvFzXEMAa"
+      "duration_ms": 123840,
+      "name": "VIP",
+      "url": "https://open.spotify.com/track/5cSza1Zj12oBDNDgeBK8Vf"
     },
     {
       "added_at": "2025-11-14 13:17:06",
@@ -1171,6 +1167,26 @@
       "duration_ms": 163064,
       "name": "DU FEHLST",
       "url": "https://open.spotify.com/track/4Vna11o1Sw268jgcsXLace"
+    },
+    {
+      "added_at": "2025-11-14 13:17:06",
+      "album": {
+        "name": "SANTOS",
+        "url": "https://open.spotify.com/album/340mhMLU57SVVGqZ9SMVUP"
+      },
+      "artists": [
+        {
+          "name": "SANTOS",
+          "url": "https://open.spotify.com/artist/4hK7sEnm0se5bqoI3Yb5o1"
+        },
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        }
+      ],
+      "duration_ms": 124093,
+      "name": "Heartbreaks",
+      "url": "https://open.spotify.com/track/3NC8Zs1B4RZijkvFzXEMAa"
     },
     {
       "added_at": "2025-11-14 13:17:06",
@@ -1227,22 +1243,6 @@
     {
       "added_at": "2025-11-14 13:17:06",
       "album": {
-        "name": "SOMMERNACHT 2",
-        "url": "https://open.spotify.com/album/2kAEj9QhAEz3x4ndm3DaH4"
-      },
-      "artists": [
-        {
-          "name": "OMAR",
-          "url": "https://open.spotify.com/artist/0h0Iypw4Zpe2pWEKIS9So3"
-        }
-      ],
-      "duration_ms": 166018,
-      "name": "SOMMERNACHT 2",
-      "url": "https://open.spotify.com/track/3vlaxBPQggwXUS6TqkBHok"
-    },
-    {
-      "added_at": "2025-11-14 13:17:06",
-      "album": {
         "name": "SOMMERN\u00c4CHTE.mp3",
         "url": "https://open.spotify.com/album/0K6bhfucyOq6gBU1An2O3z"
       },
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2025-11-14 13:17:06",
       "album": {
+        "name": "SOMMERNACHT 2",
+        "url": "https://open.spotify.com/album/2kAEj9QhAEz3x4ndm3DaH4"
+      },
+      "artists": [
+        {
+          "name": "OMAR",
+          "url": "https://open.spotify.com/artist/0h0Iypw4Zpe2pWEKIS9So3"
+        }
+      ],
+      "duration_ms": 166018,
+      "name": "SOMMERNACHT 2",
+      "url": "https://open.spotify.com/track/3vlaxBPQggwXUS6TqkBHok"
+    },
+    {
+      "added_at": "2025-11-14 13:17:06",
+      "album": {
         "name": "Diadem",
         "url": "https://open.spotify.com/album/0TSNWMt7fOHD4QjLy6RXmI"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 164937,
       "name": "Diadem",
       "url": "https://open.spotify.com/track/5my01OPtKE7EbyBiyjfRvy"
-    },
-    {
-      "added_at": "2025-11-14 13:17:06",
-      "album": {
-        "name": "VIP",
-        "url": "https://open.spotify.com/album/5wLJcdbE6EPyBAtst8slVP"
-      },
-      "artists": [
-        {
-          "name": "KC Rebell",
-          "url": "https://open.spotify.com/artist/5p7mWeX4RlvqBCxylfiXdE"
-        }
-      ],
-      "duration_ms": 123840,
-      "name": "VIP",
-      "url": "https://open.spotify.com/track/5cSza1Zj12oBDNDgeBK8Vf"
     },
     {
       "added_at": "2025-11-14 13:17:06",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2025-11-14 13:17:06",
       "album": {
-        "name": "Theater \ud83c\udfad",
-        "url": "https://open.spotify.com/album/34CqMFySOBvYmKVhEhjevt"
-      },
-      "artists": [
-        {
-          "name": "Bonez MC",
-          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
-        }
-      ],
-      "duration_ms": 141999,
-      "name": "Theater \ud83c\udfad",
-      "url": "https://open.spotify.com/track/2lRzkiGhOWV7GKTFmRZ4uC"
-    },
-    {
-      "added_at": "2025-11-14 13:17:06",
-      "album": {
         "name": "GTA WEDDING",
         "url": "https://open.spotify.com/album/1uTOpO3Wfr4KXFvKQKi9ZE"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 153533,
       "name": "COME OVER",
       "url": "https://open.spotify.com/track/2zRh2tE9jAUf0InquzgppI"
+    },
+    {
+      "added_at": "2025-11-14 13:17:06",
+      "album": {
+        "name": "Theater \ud83c\udfad",
+        "url": "https://open.spotify.com/album/34CqMFySOBvYmKVhEhjevt"
+      },
+      "artists": [
+        {
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        }
+      ],
+      "duration_ms": 141999,
+      "name": "Theater \ud83c\udfad",
+      "url": "https://open.spotify.com/track/2lRzkiGhOWV7GKTFmRZ4uC"
     },
     {
       "added_at": "2025-11-14 13:17:06",

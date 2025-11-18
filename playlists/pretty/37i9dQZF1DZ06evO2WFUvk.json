@@ -1,12 +1,12 @@
 {
   "description": "This is Rodrigo Gonzalez. The essential tracks, all in one playlist.",
-  "num_followers": 3991,
+  "num_followers": 3993,
   "original_name": "This Is Rodrigo Gonzalez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRfCgAAAAADyzxr9Y6964YifHTPZMONT",
+  "snapshot_id": "aRkUAAAAAAArHD/Ntw19f2ov2lQpoB4L",
   "tracks": [
     {
       "added_at": null,
@@ -439,6 +439,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Euphoria Under the Stars",
+        "url": "https://open.spotify.com/album/2A6MjShDvMsZtRzFkD1p6x"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "duration_ms": 128673,
+      "name": "Euphoria Under the Stars",
+      "url": "https://open.spotify.com/track/6jVadFriXE41vSRDfGqwAL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Take Me Higher",
         "url": "https://open.spotify.com/album/04nHAVldhSET2NsLsAMn8u"
       },
@@ -455,18 +471,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Euphoria Under the Stars",
-        "url": "https://open.spotify.com/album/2A6MjShDvMsZtRzFkD1p6x"
+        "name": "Naked Kings",
+        "url": "https://open.spotify.com/album/4Wa8qkocXOX38OVaWlkdlu"
       },
       "artists": [
+        {
+          "name": "Tarakany!",
+          "url": "https://open.spotify.com/artist/3OZMcYBFNSr0ztFd82aJK9"
+        },
         {
           "name": "Rodrigo Gonzalez",
           "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
         }
       ],
-      "duration_ms": 128673,
-      "name": "Euphoria Under the Stars",
-      "url": "https://open.spotify.com/track/6jVadFriXE41vSRDfGqwAL"
+      "duration_ms": 216927,
+      "name": "Schlechte T\u00e4nzer",
+      "url": "https://open.spotify.com/track/1FCiQlIciSBQK6sxSq9fiz"
     }
   ],
   "unique_name": "This Is Rodrigo Gonzalez",

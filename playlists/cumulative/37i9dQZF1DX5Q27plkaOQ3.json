@@ -10832,7 +10832,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-15",
+      "date_removed": null,
       "duration_ms": 170339,
       "name": "Healing",
       "url": "https://open.spotify.com/track/2eYQw2SkWD4tw4U5TUMnOI"
@@ -11324,6 +11324,10 @@
         {
           "name": "Izzy Vadim",
           "url": "https://open.spotify.com/artist/3mEgLhTVxuUG4n1ezLNY5l"
+        },
+        {
+          "name": "Ghastly",
+          "url": "https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh"
         }
       ],
       "date_added": "2025-09-05",
@@ -21812,7 +21816,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 185142,
       "name": "Still Into You",
       "url": "https://open.spotify.com/track/5VIi4tVFzOVZIiXhaAzY6v"

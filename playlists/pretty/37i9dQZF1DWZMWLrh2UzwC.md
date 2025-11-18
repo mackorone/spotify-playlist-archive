@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from, Mimifly, Liza Hanim, DIOR 大穎, Lewis Capaldi, Miley Cyrus, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,900 likes - 127 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,902 likes - 127 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

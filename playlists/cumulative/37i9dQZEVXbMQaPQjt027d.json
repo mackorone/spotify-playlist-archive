@@ -1017,6 +1017,24 @@
     },
     {
       "album": {
+        "name": "blackout blackout",
+        "url": "https://open.spotify.com/album/3EtoJYgBedcyTzFtOSipbe"
+      },
+      "artists": [
+        {
+          "name": "all things break",
+          "url": "https://open.spotify.com/artist/7krmtqHJ8N1fg1JkjlrP0P"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138955,
+      "name": "blackout blackout",
+      "url": "https://open.spotify.com/track/3GWq178RXxxXnuGOpuJ6MZ"
+    },
+    {
+      "album": {
         "name": "The Singer and the Song",
         "url": "https://open.spotify.com/album/5vVrfTlAZqwpdCs52MjdZH"
       },
@@ -6818,7 +6836,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-12",
+      "date_removed": null,
       "duration_ms": 109759,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf"
@@ -9834,7 +9852,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 146000,
       "name": "which one x 1er gaou",
       "url": "https://open.spotify.com/track/6eynivQry1ZjQ4FxWTMZTi"
@@ -9942,7 +9960,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 191764,
       "name": "Wij zeggen nee, nee, nee, tegen een AZC - Hardcore Mix",
       "url": "https://open.spotify.com/track/5jjZQhqLRPrS42o1Ao3uut"

@@ -1,12 +1,12 @@
 {
   "description": "This is Generaci\u00f3n 12. The essential tracks, all in one playlist.",
-  "num_followers": 49362,
+  "num_followers": 49375,
   "original_name": "This Is Generaci\u00f3n 12",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRfCgAAAAACLP98eckcoaW+Lft0VFY8n",
+  "snapshot_id": "aRkUAAAAAABamN7NM98Cu7I0I7MhT182",
   "tracks": [
     {
       "added_at": null,
@@ -487,26 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unidos Somos M\u00e1s Fuertes",
-        "url": "https://open.spotify.com/album/5CaiOljtlmZvIOcKyyFIZ8"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Jay Kalyl",
-          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
-        }
-      ],
-      "duration_ms": 256305,
-      "name": "Unidos Somos M\u00e1s Fuertes",
-      "url": "https://open.spotify.com/track/50OAZ16SOAKSfp8ksaDOZF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Seamos Luz",
         "url": "https://open.spotify.com/album/7bqSmn95rOqnWQL3H5xJ4Z"
       },
@@ -523,6 +503,26 @@
       "duration_ms": 433080,
       "name": "Baut\u00edzame",
       "url": "https://open.spotify.com/track/5YDpjsYWuromv6xxN7ybwr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Esto Es un Avivamiento",
+        "url": "https://open.spotify.com/album/6ZlOnNItorE8uCHOLgCa7T"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+        }
+      ],
+      "duration_ms": 256305,
+      "name": "Unidos Somos M\u00e1s Fuertes - Bonus Track",
+      "url": "https://open.spotify.com/track/2HjmrOJk6nLhPld5LdAPUm"
     },
     {
       "added_at": null,
@@ -955,22 +955,6 @@
       "duration_ms": 450186,
       "name": "Pr\u00f3digo",
       "url": "https://open.spotify.com/track/2VaH4aUQA8gSxY4VDkWsnu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Esto Es un Avivamiento",
-        "url": "https://open.spotify.com/album/6ZlOnNItorE8uCHOLgCa7T"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        }
-      ],
-      "duration_ms": 227040,
-      "name": "Me Decid\u00ed por Ti",
-      "url": "https://open.spotify.com/track/7MlIR0VI0QOfqclPCmSqzg"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Turn up the volume for some filthy bassline! ",
-  "num_followers": 271097,
+  "num_followers": 271168,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
@@ -315,8 +315,8 @@
     {
       "added_at": "2025-11-07 00:00:17",
       "album": {
-        "name": "Fallin",
-        "url": "https://open.spotify.com/album/4CWuwshxlc0fplo8JjyMSm"
+        "name": "Moment (feat. Charlotte Plank)",
+        "url": "https://open.spotify.com/album/4oRA0Sfdp22VFn86dEBqFV"
       },
       "artists": [
         {
@@ -324,13 +324,13 @@
           "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
         },
         {
-          "name": "Denon Reed",
-          "url": "https://open.spotify.com/artist/7uPcIYxrvLRWaL0xQU4TnE"
+          "name": "Charlotte Plank",
+          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
         }
       ],
-      "duration_ms": 182276,
-      "name": "Fallin",
-      "url": "https://open.spotify.com/track/7efJW4yGZrj2j3Vhfr3Ylw"
+      "duration_ms": 123242,
+      "name": "Moment (feat. Charlotte Plank)",
+      "url": "https://open.spotify.com/track/7BDPFIpiwHggWmuGLyaRzf"
     },
     {
       "added_at": "2025-11-07 00:00:17",
@@ -419,8 +419,8 @@
     {
       "added_at": "2025-11-07 00:00:17",
       "album": {
-        "name": "Moment (feat. Charlotte Plank)",
-        "url": "https://open.spotify.com/album/4oRA0Sfdp22VFn86dEBqFV"
+        "name": "Fallin",
+        "url": "https://open.spotify.com/album/4CWuwshxlc0fplo8JjyMSm"
       },
       "artists": [
         {
@@ -428,13 +428,13 @@
           "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
         },
         {
-          "name": "Charlotte Plank",
-          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
+          "name": "Denon Reed",
+          "url": "https://open.spotify.com/artist/7uPcIYxrvLRWaL0xQU4TnE"
         }
       ],
-      "duration_ms": 123242,
-      "name": "Moment (feat. Charlotte Plank)",
-      "url": "https://open.spotify.com/track/7BDPFIpiwHggWmuGLyaRzf"
+      "duration_ms": 182276,
+      "name": "Fallin",
+      "url": "https://open.spotify.com/track/7efJW4yGZrj2j3Vhfr3Ylw"
     },
     {
       "added_at": "2025-11-07 00:00:17",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2025-11-07 00:00:17",
       "album": {
-        "name": "Flump",
-        "url": "https://open.spotify.com/album/6Aek9VzYtw6dPA6u5pzkDZ"
-      },
-      "artists": [
-        {
-          "name": "Cesco",
-          "url": "https://open.spotify.com/artist/7Gg3X2b5ljrhVGXDAwcrq3"
-        }
-      ],
-      "duration_ms": 250746,
-      "name": "Flump",
-      "url": "https://open.spotify.com/track/6OSswcrCIZz2D93uC8z9vh"
-    },
-    {
-      "added_at": "2025-11-07 00:00:17",
-      "album": {
         "name": "Ur Number",
         "url": "https://open.spotify.com/album/4uTybjyrLbp6zCrENn0bKN"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 155772,
       "name": "Ur Number",
       "url": "https://open.spotify.com/track/3xijz9hc74Negf2y3QgjWn"
+    },
+    {
+      "added_at": "2025-11-07 00:00:17",
+      "album": {
+        "name": "Flump",
+        "url": "https://open.spotify.com/album/6Aek9VzYtw6dPA6u5pzkDZ"
+      },
+      "artists": [
+        {
+          "name": "Cesco",
+          "url": "https://open.spotify.com/artist/7Gg3X2b5ljrhVGXDAwcrq3"
+        }
+      ],
+      "duration_ms": 250746,
+      "name": "Flump",
+      "url": "https://open.spotify.com/track/6OSswcrCIZz2D93uC8z9vh"
     },
     {
       "added_at": "2025-11-07 00:00:17",
@@ -1359,22 +1359,18 @@
     {
       "added_at": "2025-11-07 00:00:17",
       "album": {
-        "name": "Head's Gone",
-        "url": "https://open.spotify.com/album/5DSYVYwmhBUHTfoe4CyBnc"
+        "name": "What About The DJ?",
+        "url": "https://open.spotify.com/album/2AjtUXYB9SY0Y4PFSFZQUV"
       },
       "artists": [
         {
-          "name": "Local",
-          "url": "https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2"
-        },
-        {
-          "name": "Example",
-          "url": "https://open.spotify.com/artist/6Vh6UDWfu9PUSXSzAaB3CW"
+          "name": "Silva Bumpa",
+          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
         }
       ],
-      "duration_ms": 148124,
-      "name": "Head's Gone",
-      "url": "https://open.spotify.com/track/3bZ30vr6E19I2p1RPHAsFJ"
+      "duration_ms": 280554,
+      "name": "Passion",
+      "url": "https://open.spotify.com/track/18AyZRURPxEXMSqBAV3G1n"
     }
   ],
   "unique_name": "Bassline Bangers",

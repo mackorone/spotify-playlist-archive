@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuw: LUNA, Roxy Dekker, MEAU, Chef'Special, Summer Walker en meer...
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,304 likes - 102 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,294 likes - 102 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 66 | [Bad Gyal](https://open.spotify.com/track/3cBQoYnSaPeMrE7LCgajOY) | [Shaz](https://open.spotify.com/artist/4SINBSA4jou9ptE88AYQE9), [Kalibwoy](https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x) | [Bad Gyal](https://open.spotify.com/album/0AwHLm7iIWUNPsyErLjrR3) | 2:44 |
 | 67 | [God's Favorite](https://open.spotify.com/track/25rZ7uF3mWpHE7JqR93w3a) | [Swan](https://open.spotify.com/artist/5jGvXj4Virggz7GjqBTs9h) | [God's Favorite](https://open.spotify.com/album/4fyX3mpJqjq34rxSs3q1Td) | 3:39 |
 | 68 | [Bang Dat Ik Spring](https://open.spotify.com/track/7mGEyicqCXj4lvtIq71I8R) | [Spinvis](https://open.spotify.com/artist/1Vxc40v4VtLpSWTF2bn8Y4) | [Bang Dat Ik Spring](https://open.spotify.com/album/0Cpxp6XmrxJjmTsb1MJwn2) | 3:06 |
-| 69 | [Borderline](https://open.spotify.com/track/7irshOkHY8CitSsypEuMAY) | [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI), [ADF Samski](https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8), [Issairo](https://open.spotify.com/artist/5plDUJR66Vb8TYzXu9L1YV), [Styn](https://open.spotify.com/artist/6d6vzodhIaZei2UrASTFNL) | [Borderline](https://open.spotify.com/album/2OpaioDP2g5Qchejb63Tzf) | 2:51 |
+| 69 | [Borderline](https://open.spotify.com/track/7irshOkHY8CitSsypEuMAY) | [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI), [ADF Samski](https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8), [Issairo](https://open.spotify.com/artist/5plDUJR66Vb8TYzXu9L1YV), [Styn](https://open.spotify.com/artist/0vTPGCQGp2pkRUCXF8gEXd) | [Borderline](https://open.spotify.com/album/2OpaioDP2g5Qchejb63Tzf) | 2:51 |
 | 70 | [Something ‘Bout This Girl](https://open.spotify.com/track/4QCoz0qIlkthpsvfRkmY9a) | [Money & the Man](https://open.spotify.com/artist/3ZaamXC1tpMZ7kVXOLYi0i) | [MAMMON \(Extended\)](https://open.spotify.com/album/26Jsvu0OqNJi1i0KqSzFWD) | 2:28 |
 | 71 | [Portal](https://open.spotify.com/track/15ZiSkyhC82n60jbMKvvOS) | [Julia Mandoki](https://open.spotify.com/artist/6AlnyvngKEFg1hVQ6Pl8vR) | [Portal](https://open.spotify.com/album/6VLzax10G5jBa7iYSl5YWX) | 3:22 |
 | 72 | [That Face You Make When It's Raining](https://open.spotify.com/track/326kqNLjSk8Jr30AAxYfWJ) | [Antony Szmierek](https://open.spotify.com/artist/1odn2oz1bEsGWugQ8W3zhn) | [Service Station At The End Of The Universe \(Deluxe\)](https://open.spotify.com/album/6NfFgaoCQh26ReiosIuDYC) | 2:21 |

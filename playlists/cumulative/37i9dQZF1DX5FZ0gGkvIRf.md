@@ -2,7 +2,7 @@
 
 ### [Kickass Metal presents Best Heavy Songs of 2024](https://open.spotify.com/playlist/37i9dQZF1DX5FZ0gGkvIRf)
 
-> Our editors' picks for best metal and hard rock songs of the year\.  Cover: Knocked Loose
+> Our editors' picks for best metal and hard rock songs of the year\.  Cover: Poppy
 
 303 songs - 20 hr 15 min
 

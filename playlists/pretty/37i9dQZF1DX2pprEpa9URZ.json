@@ -1,6 +1,6 @@
 {
   "description": "Deep electronic and organic house sounds, inspired by the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 883116,
+  "num_followers": 883224,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
@@ -327,6 +327,22 @@
     {
       "added_at": "2025-11-11 13:44:10",
       "album": {
+        "name": "Copal",
+        "url": "https://open.spotify.com/album/0cIbZmg4f802O0OvRCEZpn"
+      },
+      "artists": [
+        {
+          "name": "Oliver Koletzki",
+          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
+        }
+      ],
+      "duration_ms": 364543,
+      "name": "Copal",
+      "url": "https://open.spotify.com/track/6TqYadgz6qObDRYkcQe21L"
+    },
+    {
+      "added_at": "2025-11-11 13:44:10",
+      "album": {
         "name": "I See The Sun",
         "url": "https://open.spotify.com/album/4etM1UCLaOIDvemwbX1x3w"
       },
@@ -351,22 +367,6 @@
     {
       "added_at": "2025-11-11 13:44:10",
       "album": {
-        "name": "Copal",
-        "url": "https://open.spotify.com/album/0cIbZmg4f802O0OvRCEZpn"
-      },
-      "artists": [
-        {
-          "name": "Oliver Koletzki",
-          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
-        }
-      ],
-      "duration_ms": 364543,
-      "name": "Copal",
-      "url": "https://open.spotify.com/track/6TqYadgz6qObDRYkcQe21L"
-    },
-    {
-      "added_at": "2025-11-11 13:44:10",
-      "album": {
         "name": "Closer (feat. Bantu)",
         "url": "https://open.spotify.com/album/3EICRU6TnGigdorbZwKqOl"
       },
@@ -383,6 +383,22 @@
       "duration_ms": 181000,
       "name": "Closer (feat. Bantu)",
       "url": "https://open.spotify.com/track/46qondUDqflcac1ufdqAlZ"
+    },
+    {
+      "added_at": "2025-11-11 13:44:10",
+      "album": {
+        "name": "Before the Storm",
+        "url": "https://open.spotify.com/album/1anaTK4HBkYkwEp5q3jM3j"
+      },
+      "artists": [
+        {
+          "name": "Santi & Tu\u011f\u00e7e",
+          "url": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
+        }
+      ],
+      "duration_ms": 445210,
+      "name": "Before the Storm",
+      "url": "https://open.spotify.com/track/4HFO4JUkrkqNIKh4kwgQpR"
     },
     {
       "added_at": "2025-11-11 13:44:10",
@@ -411,18 +427,22 @@
     {
       "added_at": "2025-11-11 13:44:10",
       "album": {
-        "name": "Before the Storm",
-        "url": "https://open.spotify.com/album/1anaTK4HBkYkwEp5q3jM3j"
+        "name": "Amado",
+        "url": "https://open.spotify.com/album/3hAikGvkPNuXSs7gYgqJRI"
       },
       "artists": [
         {
-          "name": "Santi & Tu\u011f\u00e7e",
-          "url": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
+          "name": "MAXI MERAKI",
+          "url": "https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm"
+        },
+        {
+          "name": "Orsay",
+          "url": "https://open.spotify.com/artist/0jbyfa9yocQWIf7nXO8LH4"
         }
       ],
-      "duration_ms": 445210,
-      "name": "Before the Storm",
-      "url": "https://open.spotify.com/track/4HFO4JUkrkqNIKh4kwgQpR"
+      "duration_ms": 210500,
+      "name": "Amado",
+      "url": "https://open.spotify.com/track/2ZNTl0Fkst8ckJAbm0cwfY"
     },
     {
       "added_at": "2025-11-11 13:44:10",
@@ -443,26 +463,6 @@
       "duration_ms": 180021,
       "name": "Marathon",
       "url": "https://open.spotify.com/track/5Vl5WJkkWfyHRbg1PKeWpW"
-    },
-    {
-      "added_at": "2025-11-11 13:44:10",
-      "album": {
-        "name": "Amado",
-        "url": "https://open.spotify.com/album/3hAikGvkPNuXSs7gYgqJRI"
-      },
-      "artists": [
-        {
-          "name": "MAXI MERAKI",
-          "url": "https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm"
-        },
-        {
-          "name": "Orsay",
-          "url": "https://open.spotify.com/artist/0jbyfa9yocQWIf7nXO8LH4"
-        }
-      ],
-      "duration_ms": 210500,
-      "name": "Amado",
-      "url": "https://open.spotify.com/track/2ZNTl0Fkst8ckJAbm0cwfY"
     },
     {
       "added_at": "2025-11-11 13:44:10",
@@ -879,30 +879,18 @@
     {
       "added_at": "2025-11-11 13:44:10",
       "album": {
-        "name": "Show Me",
-        "url": "https://open.spotify.com/album/5Ta8jERROmZgTiCGAt6Mkn"
+        "name": "Forlorn Hope",
+        "url": "https://open.spotify.com/album/4HsVqD7Kd3nWAmeXFDHWTx"
       },
       "artists": [
         {
-          "name": "Arodes",
-          "url": "https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47"
-        },
-        {
-          "name": "TH;EN",
-          "url": "https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff"
-        },
-        {
-          "name": "Henri Bergmann",
-          "url": "https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo"
-        },
-        {
-          "name": "Beob\u00ea",
-          "url": "https://open.spotify.com/artist/1SNjvPpsWFYWGpJW5wPeeK"
+          "name": "Oceanvs Orientalis",
+          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
         }
       ],
-      "duration_ms": 170324,
-      "name": "Show Me",
-      "url": "https://open.spotify.com/track/7rPKSjPgwWDc8S9toczFgV"
+      "duration_ms": 520042,
+      "name": "Forlorn Hope",
+      "url": "https://open.spotify.com/track/1Xs3LqFit5BSZPrGyxJBYw"
     },
     {
       "added_at": "2025-11-11 13:44:10",
@@ -927,18 +915,30 @@
     {
       "added_at": "2025-11-11 13:44:10",
       "album": {
-        "name": "Forlorn Hope",
-        "url": "https://open.spotify.com/album/4HsVqD7Kd3nWAmeXFDHWTx"
+        "name": "Show Me",
+        "url": "https://open.spotify.com/album/5Ta8jERROmZgTiCGAt6Mkn"
       },
       "artists": [
         {
-          "name": "Oceanvs Orientalis",
-          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
+          "name": "Arodes",
+          "url": "https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47"
+        },
+        {
+          "name": "TH;EN",
+          "url": "https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff"
+        },
+        {
+          "name": "Henri Bergmann",
+          "url": "https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo"
+        },
+        {
+          "name": "Beob\u00ea",
+          "url": "https://open.spotify.com/artist/1SNjvPpsWFYWGpJW5wPeeK"
         }
       ],
-      "duration_ms": 520042,
-      "name": "Forlorn Hope",
-      "url": "https://open.spotify.com/track/1Xs3LqFit5BSZPrGyxJBYw"
+      "duration_ms": 170324,
+      "name": "Show Me",
+      "url": "https://open.spotify.com/track/7rPKSjPgwWDc8S9toczFgV"
     },
     {
       "added_at": "2025-11-11 13:44:10",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2025-11-11 13:44:10",
       "album": {
-        "name": "Ritmo",
-        "url": "https://open.spotify.com/album/00QDIAtrKiS45HPy6w2tLB"
+        "name": "6 Years of Underyourskin Records",
+        "url": "https://open.spotify.com/album/0lzBCZ4jYzWAnprP4UidiJ"
       },
       "artists": [
         {
-          "name": "VHOOR",
-          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
+          "name": "Ameli Paul",
+          "url": "https://open.spotify.com/artist/2pVs2F50UrSwUthN16rTJc"
         }
       ],
-      "duration_ms": 115090,
-      "name": "Terra",
-      "url": "https://open.spotify.com/track/13JC5nvIbCbxTrHqFLvwPM"
+      "duration_ms": 418364,
+      "name": "Worak",
+      "url": "https://open.spotify.com/track/4bBT53FvvtFqHJm9iq7G7L"
     },
     {
       "added_at": "2025-11-11 13:44:10",
@@ -1123,18 +1123,58 @@
     {
       "added_at": "2025-11-11 13:44:10",
       "album": {
-        "name": "6 Years of Underyourskin Records",
-        "url": "https://open.spotify.com/album/0lzBCZ4jYzWAnprP4UidiJ"
+        "name": "Casablanca",
+        "url": "https://open.spotify.com/album/2G4vviYLIiVAspd8iGdihA"
       },
       "artists": [
         {
-          "name": "Ameli Paul",
-          "url": "https://open.spotify.com/artist/2pVs2F50UrSwUthN16rTJc"
+          "name": "Lilya Mandre",
+          "url": "https://open.spotify.com/artist/463i9LIHaALBtaNMxiNffW"
+        },
+        {
+          "name": "VXSION",
+          "url": "https://open.spotify.com/artist/1mhfrC0qmYcAcAX6yM1tXJ"
         }
       ],
-      "duration_ms": 418364,
-      "name": "Worak",
-      "url": "https://open.spotify.com/track/4bBT53FvvtFqHJm9iq7G7L"
+      "duration_ms": 285148,
+      "name": "Casablanca",
+      "url": "https://open.spotify.com/track/1Am4yQgjawTWCy3dZsNWpJ"
+    },
+    {
+      "added_at": "2025-11-11 13:44:10",
+      "album": {
+        "name": "Ritmo",
+        "url": "https://open.spotify.com/album/00QDIAtrKiS45HPy6w2tLB"
+      },
+      "artists": [
+        {
+          "name": "VHOOR",
+          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
+        }
+      ],
+      "duration_ms": 115090,
+      "name": "Terra",
+      "url": "https://open.spotify.com/track/13JC5nvIbCbxTrHqFLvwPM"
+    },
+    {
+      "added_at": "2025-11-11 13:44:10",
+      "album": {
+        "name": "I Am Free",
+        "url": "https://open.spotify.com/album/5tzqzDJhJ9bKuDY5xMUkLj"
+      },
+      "artists": [
+        {
+          "name": "CARTFISH",
+          "url": "https://open.spotify.com/artist/3w1wNgMXNtM48xdYNCXWgC"
+        },
+        {
+          "name": "Lizwi",
+          "url": "https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X"
+        }
+      ],
+      "duration_ms": 231147,
+      "name": "I Am Free",
+      "url": "https://open.spotify.com/track/6iHFanVnZvK8g9OJlbkkkD"
     },
     {
       "added_at": "2025-11-11 13:44:10",
@@ -1231,46 +1271,6 @@
     {
       "added_at": "2025-11-11 13:44:10",
       "album": {
-        "name": "Casablanca",
-        "url": "https://open.spotify.com/album/2G4vviYLIiVAspd8iGdihA"
-      },
-      "artists": [
-        {
-          "name": "Lilya Mandre",
-          "url": "https://open.spotify.com/artist/463i9LIHaALBtaNMxiNffW"
-        },
-        {
-          "name": "VXSION",
-          "url": "https://open.spotify.com/artist/1mhfrC0qmYcAcAX6yM1tXJ"
-        }
-      ],
-      "duration_ms": 285148,
-      "name": "Casablanca",
-      "url": "https://open.spotify.com/track/1Am4yQgjawTWCy3dZsNWpJ"
-    },
-    {
-      "added_at": "2025-11-11 13:44:10",
-      "album": {
-        "name": "I Am Free",
-        "url": "https://open.spotify.com/album/5tzqzDJhJ9bKuDY5xMUkLj"
-      },
-      "artists": [
-        {
-          "name": "CARTFISH",
-          "url": "https://open.spotify.com/artist/3w1wNgMXNtM48xdYNCXWgC"
-        },
-        {
-          "name": "Lizwi",
-          "url": "https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X"
-        }
-      ],
-      "duration_ms": 231147,
-      "name": "I Am Free",
-      "url": "https://open.spotify.com/track/6iHFanVnZvK8g9OJlbkkkD"
-    },
-    {
-      "added_at": "2025-11-11 13:44:10",
-      "album": {
         "name": "Ancestry",
         "url": "https://open.spotify.com/album/6oMwy9QzP1FzbKhR6BWABP"
       },
@@ -1327,30 +1327,6 @@
     {
       "added_at": "2025-11-11 13:44:10",
       "album": {
-        "name": "Guard Your Joy",
-        "url": "https://open.spotify.com/album/2PiuBzsxTp8jPOhywF56pX"
-      },
-      "artists": [
-        {
-          "name": "Helsloot",
-          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
-        },
-        {
-          "name": "mOat",
-          "url": "https://open.spotify.com/artist/5cwcCt2XL9QIC0yZy33Fds"
-        },
-        {
-          "name": "Pete Josef",
-          "url": "https://open.spotify.com/artist/7c59lOg1veety7jD83d31w"
-        }
-      ],
-      "duration_ms": 265573,
-      "name": "Guard Your Joy",
-      "url": "https://open.spotify.com/track/0kN37UhHU9BGZe2ZLyFW1O"
-    },
-    {
-      "added_at": "2025-11-11 13:44:10",
-      "album": {
         "name": "Ormila",
         "url": "https://open.spotify.com/album/7rHLPxwPdaBh1VBGx5wlmX"
       },
@@ -1387,6 +1363,30 @@
       "duration_ms": 433330,
       "name": "Ya Nahar Ya Gamel",
       "url": "https://open.spotify.com/track/4SKb9f6WJrAWaIzabSdUqy"
+    },
+    {
+      "added_at": "2025-11-11 13:44:10",
+      "album": {
+        "name": "Guard Your Joy",
+        "url": "https://open.spotify.com/album/2PiuBzsxTp8jPOhywF56pX"
+      },
+      "artists": [
+        {
+          "name": "Helsloot",
+          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
+        },
+        {
+          "name": "mOat",
+          "url": "https://open.spotify.com/artist/5cwcCt2XL9QIC0yZy33Fds"
+        },
+        {
+          "name": "Pete Josef",
+          "url": "https://open.spotify.com/artist/7c59lOg1veety7jD83d31w"
+        }
+      ],
+      "duration_ms": 265573,
+      "name": "Guard Your Joy",
+      "url": "https://open.spotify.com/track/0kN37UhHU9BGZe2ZLyFW1O"
     },
     {
       "added_at": "2025-11-11 13:44:10",

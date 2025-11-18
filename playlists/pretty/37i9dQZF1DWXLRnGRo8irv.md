@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 
 > 한국의 재능있는 여성 아티스트들을 만나보세요! \(Listen Korea’s talented female artists!\) \(Cover: ITZY\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,993 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,992 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 | 49 | [Birthday Song](https://open.spotify.com/track/2h6aWrQegkTFL1XyIXHZpT) | [KIMMARIE](https://open.spotify.com/artist/0dBTTLuseszs4BqgyXCrC8) | [Birthday Song](https://open.spotify.com/album/3Ss1DQmaGehLA3yD3UMMKE) | 2:48 |
 | 50 | [Perfect Timing](https://open.spotify.com/track/4ABUtfKjZa9L74DhyhRvkq) | [KIMMARIE](https://open.spotify.com/artist/0dBTTLuseszs4BqgyXCrC8) | [Turbulence: A Guide to Balance](https://open.spotify.com/album/3GFsHfijih7udSL8yTu3HR) | 3:09 |
 
-Snapshot ID: `AAAAAOi5pypUmS6sSGfHZ/m9svEwyDnC`
+Snapshot ID: `AAAAAO3O8jkqbm/H2T+Xycea4OoymnlO`

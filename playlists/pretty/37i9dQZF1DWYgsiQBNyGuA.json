@@ -1,6 +1,6 @@
 {
   "description": "Soul to brighten up your day. Cover: Gabriel Jacoby",
-  "num_followers": 107782,
+  "num_followers": 107851,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
@@ -1037,26 +1037,6 @@
       "url": "https://open.spotify.com/track/7f7uTJaivqgLEqrOk6cUkx"
     },
     {
-      "added_at": "2025-06-27 04:00:46",
-      "album": {
-        "name": "Stare at Me",
-        "url": "https://open.spotify.com/album/5wWZ3Kdg4ZCQdFd3vwjiYu"
-      },
-      "artists": [
-        {
-          "name": "JANE HANDCOCK",
-          "url": "https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 235658,
-      "name": "Stare at Me",
-      "url": "https://open.spotify.com/track/5OQGljb4oGPYojBFpNrQ4a"
-    },
-    {
       "added_at": "2024-03-08 13:51:25",
       "album": {
         "name": "My World",
@@ -1075,6 +1055,26 @@
       "duration_ms": 246573,
       "name": "Honey Dove",
       "url": "https://open.spotify.com/track/1emxi7e5EWFsJmwSKTuUDH"
+    },
+    {
+      "added_at": "2025-06-27 04:00:46",
+      "album": {
+        "name": "Stare at Me",
+        "url": "https://open.spotify.com/album/5wWZ3Kdg4ZCQdFd3vwjiYu"
+      },
+      "artists": [
+        {
+          "name": "JANE HANDCOCK",
+          "url": "https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 235658,
+      "name": "Stare at Me",
+      "url": "https://open.spotify.com/track/5OQGljb4oGPYojBFpNrQ4a"
     },
     {
       "added_at": "2024-08-30 05:32:52",
@@ -1233,20 +1233,24 @@
       "url": "https://open.spotify.com/track/0DkjaDx0bP6vFrIbeROUot"
     },
     {
-      "added_at": "2025-06-20 04:00:56",
+      "added_at": "2025-04-21 15:39:41",
       "album": {
-        "name": "Just Can't Wait",
-        "url": "https://open.spotify.com/album/5PCF0cVC5RFFW8pgn1HZah"
+        "name": "Three Piece Suit (feat. Azekel)",
+        "url": "https://open.spotify.com/album/2Nqaqx256kZBgaIS5FvzBQ"
       },
       "artists": [
         {
           "name": "Kokoroko",
           "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+        },
+        {
+          "name": "Azekel",
+          "url": "https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA"
         }
       ],
-      "duration_ms": 382508,
-      "name": "Just Can't Wait",
-      "url": "https://open.spotify.com/track/3aWWdmdsBva7kiOnacL4tf"
+      "duration_ms": 276733,
+      "name": "Three Piece Suit (feat. Azekel)",
+      "url": "https://open.spotify.com/track/0VIegveYbIaxxTgBNHSl3v"
     },
     {
       "added_at": "2024-03-08 13:51:25",
@@ -1281,22 +1285,6 @@
       "url": "https://open.spotify.com/track/7km1tntASwmtyzGr8vaT0e"
     },
     {
-      "added_at": "2025-08-08 06:15:25",
-      "album": {
-        "name": "CRYSALIS",
-        "url": "https://open.spotify.com/album/18OM4kStC0UfGiJZcqePgX"
-      },
-      "artists": [
-        {
-          "name": "Jenevieve",
-          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
-        }
-      ],
-      "duration_ms": 107080,
-      "name": "Crysalis",
-      "url": "https://open.spotify.com/track/0JTaxloJYWa8xu8VZ9DqbF"
-    },
-    {
       "added_at": "2025-03-07 06:27:51",
       "album": {
         "name": "Yonder: Book III",
@@ -1313,24 +1301,36 @@
       "url": "https://open.spotify.com/track/15JA8Cex1Q10LgJ31llVdR"
     },
     {
-      "added_at": "2025-04-21 15:39:41",
+      "added_at": "2025-08-08 06:15:25",
       "album": {
-        "name": "Three Piece Suit (feat. Azekel)",
-        "url": "https://open.spotify.com/album/2Nqaqx256kZBgaIS5FvzBQ"
+        "name": "CRYSALIS",
+        "url": "https://open.spotify.com/album/18OM4kStC0UfGiJZcqePgX"
+      },
+      "artists": [
+        {
+          "name": "Jenevieve",
+          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
+        }
+      ],
+      "duration_ms": 107080,
+      "name": "Crysalis",
+      "url": "https://open.spotify.com/track/0JTaxloJYWa8xu8VZ9DqbF"
+    },
+    {
+      "added_at": "2025-06-20 04:00:56",
+      "album": {
+        "name": "Just Can't Wait",
+        "url": "https://open.spotify.com/album/5PCF0cVC5RFFW8pgn1HZah"
       },
       "artists": [
         {
           "name": "Kokoroko",
           "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
-        },
-        {
-          "name": "Azekel",
-          "url": "https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA"
         }
       ],
-      "duration_ms": 276733,
-      "name": "Three Piece Suit (feat. Azekel)",
-      "url": "https://open.spotify.com/track/0VIegveYbIaxxTgBNHSl3v"
+      "duration_ms": 382508,
+      "name": "Just Can't Wait",
+      "url": "https://open.spotify.com/track/3aWWdmdsBva7kiOnacL4tf"
     },
     {
       "added_at": "2025-09-12 19:19:09",
@@ -1669,22 +1669,6 @@
       "url": "https://open.spotify.com/track/7lt6KKaSXku9ExpG8EaqwV"
     },
     {
-      "added_at": "2025-05-16 15:23:54",
-      "album": {
-        "name": "Feel Like Makin' Love - Spotify Singles (Cover)",
-        "url": "https://open.spotify.com/album/2IEeiGYo0OGK9x27CyLVEA"
-      },
-      "artists": [
-        {
-          "name": "WESLEYFRANKLIN",
-          "url": "https://open.spotify.com/artist/5kKyuVfbMT2YX6QF3sh6vh"
-        }
-      ],
-      "duration_ms": 266460,
-      "name": "Feel Like Makin' Love - Spotify Singles - Cover",
-      "url": "https://open.spotify.com/track/4Q854c9cytFvuWMgey7CT9"
-    },
-    {
       "added_at": "2025-03-07 06:27:51",
       "album": {
         "name": "Best For Us",
@@ -1699,6 +1683,22 @@
       "duration_ms": 220338,
       "name": "Best For Us",
       "url": "https://open.spotify.com/track/1ZExgSbVQ0Ku5gjryLeKpQ"
+    },
+    {
+      "added_at": "2025-05-16 15:23:54",
+      "album": {
+        "name": "Feel Like Makin' Love - Spotify Singles (Cover)",
+        "url": "https://open.spotify.com/album/2IEeiGYo0OGK9x27CyLVEA"
+      },
+      "artists": [
+        {
+          "name": "WESLEYFRANKLIN",
+          "url": "https://open.spotify.com/artist/5kKyuVfbMT2YX6QF3sh6vh"
+        }
+      ],
+      "duration_ms": 266460,
+      "name": "Feel Like Makin' Love - Spotify Singles - Cover",
+      "url": "https://open.spotify.com/track/4Q854c9cytFvuWMgey7CT9"
     }
   ],
   "unique_name": "Soulful Day",

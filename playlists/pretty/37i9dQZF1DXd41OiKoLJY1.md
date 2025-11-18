@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover:  Rafi Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,442 likes - 283 songs - 16 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,447 likes - 283 songs - 16 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

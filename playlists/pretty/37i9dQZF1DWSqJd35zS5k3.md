@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqJd35zS5k3.md) - [plain]
 
 > Disfruta de la Navidad con los villancicos de siempre.
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,908 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,949 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqJd35zS5k3.md) - [plain]
 | 11 | [Esta noche es Nochebuena](https://open.spotify.com/track/6pC1M6oEqPwZ7qtVoAsMYm) | [Los Chunguitos](https://open.spotify.com/artist/5dRk8JyA2Tg9wL0iiTqbVu) | [Navidad En España](https://open.spotify.com/album/4C4U9Rmq9gdtAUreLkh5oO) | 2:41 |
 | 12 | [Mis Deseos / Feliz Navidad \(with Thalia\)](https://open.spotify.com/track/6ZdxGOaZoNzbGrBLjUcrUs) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3), [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0) | 4:24 |
 | 13 | [Blanca Navidad](https://open.spotify.com/track/77J6wE54qpAb2iGegfCVFu) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Navidades Luis Miguel](https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i) | 3:32 |
-| 14 | [Campana Sobre Campana](https://open.spotify.com/track/15f3aIvW7EOzB7YZThAfr6) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [Campana Sobre Campana](https://open.spotify.com/album/26l6hfwW9Fy2dFgEEg2jdz) | 2:10 |
+| 14 | [Campana Sobre Campana](https://open.spotify.com/track/15f3aIvW7EOzB7YZThAfr6) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [Campana Sobre Campana](https://open.spotify.com/album/26l6hfwW9Fy2dFgEEg2jdz) | 2:09 |
 | 15 | [Todo Es Posible En Navidad](https://open.spotify.com/track/6BXGTQLFPeeTg1gQozCN7L) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Todo Es Posible En Navidad](https://open.spotify.com/album/0N6EhZwUx9nXKFGWmYmOsU) | 3:31 |
 | 16 | [El Burrito De Belén](https://open.spotify.com/track/1s8opuqalYMgW0fPM42kgE) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [El Burrito De Belen](https://open.spotify.com/album/2NLDIgiA60k5FukGh5vGHY) | 3:11 |
 | 17 | [Ande La Marimorena](https://open.spotify.com/track/3FAzRy0TPA6y2N4iFxOuL5) | [Manolo Escobar](https://open.spotify.com/artist/0Zt1X6eSDuttQS3JHIyCvZ) | [Los Villancicos Más Populares](https://open.spotify.com/album/7a3t9jgdtVKq8pVe7IpQVP) | 2:27 |

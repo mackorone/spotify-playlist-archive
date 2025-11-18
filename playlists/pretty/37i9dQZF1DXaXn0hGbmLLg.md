@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 
 ### [EQUAL Benelux](https://open.spotify.com/playlist/37i9dQZF1DXaXn0hGbmLLg)
 
-> Listen to women at full volume! October ambassador: <a href="spotify:artist:6ihYEkLlAWkafYVAvEkMd0">Danique</a>
+> Listen to women at full volume! November ambassador: <a href="spotify:artist:6ihYEkLlAWkafYVAvEkMd0">Danique</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,492 likes - 105 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,493 likes - 105 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 | 104 | [Ik Voel Dus Ik Besta](https://open.spotify.com/track/1GlTom2WtLc4xVcdQNdmZV) | [Bieke](https://open.spotify.com/artist/36AOPdmCyVuL8j8t8bbvCM) | [Ik Voel Dus Ik Besta](https://open.spotify.com/album/04Ew6ndDjOFRhgZ6ookxpP) | 2:47 |
 | 105 | [ELITE](https://open.spotify.com/track/137WxPleuQ7IOi99lgc3bB) | [Raivy](https://open.spotify.com/artist/5NOlarkkj4S0pU6cR9lHbr) | [ELITE](https://open.spotify.com/album/71wNhzjqZNS2DtLU9wYbfJ) | 2:24 |
 
-Snapshot ID: `AAAAAE7z5SPyyWEPg/oU7pgCMVpositw`
+Snapshot ID: `AAAAAITecwH1pM83NLx9Y16zlYU3FV3E`

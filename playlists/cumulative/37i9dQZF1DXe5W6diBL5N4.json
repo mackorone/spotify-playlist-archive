@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Enjoy the freshest K-Pop new releases (Cover: PLAVE (\ud50c\ub808\uc774\ube0c)) (\uad6d\ub0b4 \ucd5c\uc2e0\uace1\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Enjoy the freshest K-Pop new releases (Cover: ALLDAY PROJECT) (\uad6d\ub0b4 \ucd5c\uc2e0\uace1\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "All New K-Pop (\uad6d\ub0b4 \ucd5c\uc2e0 \uac00\uc694)",
   "tracks": [
     {
@@ -736,7 +736,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 244500,
       "name": "1 Chance",
       "url": "https://open.spotify.com/track/7hAbuARJpMuAnLeg9ORbwy"
@@ -11248,7 +11248,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 174190,
       "name": "ALL IN MOTION (feat. Yung Fazo)",
       "url": "https://open.spotify.com/track/1cApOhUoff9Dtv4FZdcETr"
@@ -21839,6 +21839,24 @@
     },
     {
       "album": {
+        "name": "Beat It Up",
+        "url": "https://open.spotify.com/album/7jd5hUsxFPUsM0dqfpRjmp"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Beat It Up",
+      "url": "https://open.spotify.com/track/4UJwJG0Byki4e9MNTxo8aF"
+    },
+    {
+      "album": {
         "name": "Old EK",
         "url": "https://open.spotify.com/album/0daYZEpPA1JetVxplZEbwq"
       },
@@ -23364,6 +23382,24 @@
       "duration_ms": 175750,
       "name": "Bedroom Singer",
       "url": "https://open.spotify.com/track/66xtkQZk0oMpOt3m0QU7Pk"
+    },
+    {
+      "album": {
+        "name": "been doing fine",
+        "url": "https://open.spotify.com/album/5SddykzMFJfDTcRUPbUsSE"
+      },
+      "artists": [
+        {
+          "name": "paulkyte",
+          "url": "https://open.spotify.com/artist/5RO4x4GZYSAIrRkEQFhs2x"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252500,
+      "name": "been doing fine",
+      "url": "https://open.spotify.com/track/65o65AlhN7h9Ojh0kYhpDF"
     },
     {
       "album": {
@@ -27564,7 +27600,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 218291,
       "name": "Bloom With You",
       "url": "https://open.spotify.com/track/0NnejWnbkGAqpxEpt9DMSU"
@@ -31167,6 +31203,24 @@
     },
     {
       "album": {
+        "name": "A Violet to Remember",
+        "url": "https://open.spotify.com/album/2zzM42TgcBC65kOLj9hNwo"
+      },
+      "artists": [
+        {
+          "name": "PURPLE KISS",
+          "url": "https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Breath",
+      "url": "https://open.spotify.com/track/3L5wYisClQZ30ercc1hdn6"
+    },
+    {
+      "album": {
         "name": "Breath",
         "url": "https://open.spotify.com/album/6QuNlwW88PX0cHI1UZ8elE"
       },
@@ -33354,7 +33408,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 177000,
       "name": "But a dream",
       "url": "https://open.spotify.com/track/4NecGY29dazbez0xEdHI2A"
@@ -39739,6 +39793,24 @@
     },
     {
       "album": {
+        "name": "Choose",
+        "url": "https://open.spotify.com/album/66vRe3MmrT37PtgQP2sIec"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186014,
+      "name": "Choose",
+      "url": "https://open.spotify.com/track/1zweSaoWJ0N7wSwMIxFFQN"
+    },
+    {
+      "album": {
         "name": "Choose Me (feat. Vince)",
         "url": "https://open.spotify.com/album/2vLVhxjpQVOPDxNQo7UeCb"
       },
@@ -39888,7 +39960,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 206520,
       "name": "Christmas is Coming (feat. Kelsey Kuan & prettyhappy)",
       "url": "https://open.spotify.com/track/2CiRzMXe6uk1RmDHLADsOx"
@@ -42308,6 +42380,28 @@
       "duration_ms": 114229,
       "name": "COD (prod. KayArchon)",
       "url": "https://open.spotify.com/track/5VlypxNApg0yJOL4zuB7vt"
+    },
+    {
+      "album": {
+        "name": "BABO ZIPPER",
+        "url": "https://open.spotify.com/album/0cqUYYCX03YQ3HYiPduVCD"
+      },
+      "artists": [
+        {
+          "name": "PARKMOONCHI",
+          "url": "https://open.spotify.com/artist/1LIw1nom0dT1E99JFLINqh"
+        },
+        {
+          "name": "JO YURI",
+          "url": "https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Code : Kwang (Feat. JO YURI)",
+      "url": "https://open.spotify.com/track/3uQ2cWkpt1OqJM6fRzUeKj"
     },
     {
       "album": {
@@ -47078,7 +47172,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 155000,
       "name": "CYNICAL",
       "url": "https://open.spotify.com/track/39AbBWHLGckfng4J8b9h4Z"
@@ -47760,7 +47854,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 169000,
       "name": "DAISY (Prod. Gaeko)",
       "url": "https://open.spotify.com/track/3Z7e6ukSVcgb4tSUn43Teg"
@@ -84159,6 +84253,24 @@
     },
     {
       "album": {
+        "name": "SYNK : aeXIS LINE - 2025 Special Digital Single",
+        "url": "https://open.spotify.com/album/74gHwFGwl4KWA3sD8ZmAbJ"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175018,
+      "name": "GOOD STUFF - KARINA Solo",
+      "url": "https://open.spotify.com/track/19iJj3pCMwGxrA6pltPat3"
+    },
+    {
+      "album": {
         "name": "We are",
         "url": "https://open.spotify.com/album/4vj008nVDYfO4m75ZT1VBu"
       },
@@ -85802,7 +85914,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 250000,
       "name": "Grass Flower",
       "url": "https://open.spotify.com/track/48X2HO5OlaskS8UjatUVIi"
@@ -88728,7 +88840,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 214000,
       "name": "Happy Hour (\ud1f4\uadfc\uae38) (with Kwon Jin Ah)",
       "url": "https://open.spotify.com/track/7qCMoJWqSjPfDDAdJC8YkC"
@@ -89475,6 +89587,28 @@
     },
     {
       "album": {
+        "name": "Have A Good Time",
+        "url": "https://open.spotify.com/album/4z0qDxvdwY7wb5yCJrVaEV"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        },
+        {
+          "name": "YUQI",
+          "url": "https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Have A Good Time",
+      "url": "https://open.spotify.com/track/5FIBWD7WZLgbtOpzS8ijKU"
+    },
+    {
+      "album": {
         "name": "Have we really ended",
         "url": "https://open.spotify.com/album/0QYqRtLFz6oVvl3eNafxs7"
       },
@@ -90024,7 +90158,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 183000,
       "name": "Heart Drop",
       "url": "https://open.spotify.com/track/4lihmuAwCau08DRXHOCthl"
@@ -97083,6 +97217,24 @@
     },
     {
       "album": {
+        "name": "How We Become Love",
+        "url": "https://open.spotify.com/album/5Bt8CxPzWNmUufgSAjA8Iy"
+      },
+      "artists": [
+        {
+          "name": "LEEWOO",
+          "url": "https://open.spotify.com/artist/3yqfDFGcPyMlSaR2AMKaSz"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243849,
+      "name": "How We Become Love",
+      "url": "https://open.spotify.com/track/77SYy9ajax9OWrqVBLzWpX"
+    },
+    {
+      "album": {
         "name": "FLEEKY SEASON",
         "url": "https://open.spotify.com/album/2j9zs9bC1zlUylBIVzg2a9"
       },
@@ -100290,6 +100442,24 @@
       "duration_ms": 205226,
       "name": "I don't want to try too hard",
       "url": "https://open.spotify.com/track/5i4AG1SJzoaZA9BRIcLIkd"
+    },
+    {
+      "album": {
+        "name": "i dont know",
+        "url": "https://open.spotify.com/album/2J1KYI1NWf9P04sIBLVAGy"
+      },
+      "artists": [
+        {
+          "name": "Ginibini",
+          "url": "https://open.spotify.com/artist/3rZsqCWycjeGJnK3zueMTA"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174320,
+      "name": "i dont know",
+      "url": "https://open.spotify.com/track/4MHOBYcBQSmOD0jIAgM1o4"
     },
     {
       "album": {
@@ -103970,7 +104140,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 174000,
       "name": "I see you",
       "url": "https://open.spotify.com/track/32uO2j39p9DRHUPyttoSlp"
@@ -108002,7 +108172,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 186934,
       "name": "ICE LUV",
       "url": "https://open.spotify.com/track/6I4FZuxJxUbYzNK1P0e11V"
@@ -108994,7 +109164,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 278000,
       "name": "If It Were Me",
       "url": "https://open.spotify.com/track/6dMB4gO3Q3cFMG2ijS0JAf"
@@ -112012,7 +112182,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 132453,
       "name": "In Your Arms",
       "url": "https://open.spotify.com/track/34dNlfWxc53pWKizHNLF7N"
@@ -121308,7 +121478,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 192272,
       "name": "KOKKIO",
       "url": "https://open.spotify.com/track/02US7uFkBFRJ7RkpT7AznC"
@@ -124993,6 +125163,24 @@
     },
     {
       "album": {
+        "name": "Let You Go",
+        "url": "https://open.spotify.com/album/66CHQdlhhbmVOnqpFuRVbT"
+      },
+      "artists": [
+        {
+          "name": "RYU MIN HEE",
+          "url": "https://open.spotify.com/artist/0Le2D9d1fECvdS0fYWkyjg"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220968,
+      "name": "Let You Go",
+      "url": "https://open.spotify.com/track/2lnTnxNyu2QqcBXCLf0O0a"
+    },
+    {
+      "album": {
         "name": "The Breakup Archives 2",
         "url": "https://open.spotify.com/album/3qsQYuXrovcWRiUl1AqaXH"
       },
@@ -125450,6 +125638,24 @@
       "duration_ms": 212480,
       "name": "Let's never meet again",
       "url": "https://open.spotify.com/track/6HFGWu9jRRfaF8h6RWMdN9"
+    },
+    {
+      "album": {
+        "name": "Let's Not Forget",
+        "url": "https://open.spotify.com/album/1UFZXGwwBy6V84gDciSVtx"
+      },
+      "artists": [
+        {
+          "name": "Suki",
+          "url": "https://open.spotify.com/artist/3nvehGmSWu2jlnWSC2EacH"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257356,
+      "name": "Let's Not Forget",
+      "url": "https://open.spotify.com/track/01tt2RvHcEbH5Zj0raMBr4"
     },
     {
       "album": {
@@ -128201,6 +128407,24 @@
     },
     {
       "album": {
+        "name": "Like the Sea, Like the River",
+        "url": "https://open.spotify.com/album/0nbyji1ac3ZqZ3aDFDirod"
+      },
+      "artists": [
+        {
+          "name": "109",
+          "url": "https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249173,
+      "name": "Like the Sea, Like the River",
+      "url": "https://open.spotify.com/track/4qZvldWN1IT5Y2rZ2QYbJX"
+    },
+    {
+      "album": {
         "name": "Like the Wind Didn't Blow (Original Soundtrack from the Webtoon A Not So Fairy Tale)",
         "url": "https://open.spotify.com/album/4DVZ3PnWvWRn7nJVutnFBR"
       },
@@ -130754,7 +130978,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 148908,
       "name": "Look So Good",
       "url": "https://open.spotify.com/track/7q5g74MfLvv7ZPfUjYmOB4"
@@ -133501,6 +133725,24 @@
     },
     {
       "album": {
+        "name": "Love in Christmas",
+        "url": "https://open.spotify.com/album/0YwqxWX9pX5lOcK9BeG8D4"
+      },
+      "artists": [
+        {
+          "name": "NCHIVE",
+          "url": "https://open.spotify.com/artist/3DA03oZ7LDPXNup162ton5"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Love in Christmas",
+      "url": "https://open.spotify.com/track/5NyUkcBczzPc7fNoO2SqIt"
+    },
+    {
+      "album": {
         "name": "Love in Jakarta",
         "url": "https://open.spotify.com/album/3qWlsiXkrnjpq3urqMDYVF"
       },
@@ -135827,6 +136069,28 @@
     },
     {
       "album": {
+        "name": "Love Smile (Original Soundtrack from Last Summer)",
+        "url": "https://open.spotify.com/album/0jEAsckPwsD1k926YW12Oe"
+      },
+      "artists": [
+        {
+          "name": "YUNAH",
+          "url": "https://open.spotify.com/artist/0PjmP9xV64eWTo5d5tXxB2"
+        },
+        {
+          "name": "MINJU",
+          "url": "https://open.spotify.com/artist/7lhiEEAGZosFSF2tlSBBKO"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169051,
+      "name": "Love Smile",
+      "url": "https://open.spotify.com/track/0RMzZqob3KiT07CXv6Mtmu"
+    },
+    {
+      "album": {
         "name": "The Midnight Studio, Pt. 8 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/05RRa78WXts7BSKxNHFT7a"
       },
@@ -136868,6 +137132,24 @@
       "duration_ms": 192386,
       "name": "LOVE, AFRAID",
       "url": "https://open.spotify.com/track/1pLMNDbYPRpYy1C5vtl3ke"
+    },
+    {
+      "album": {
+        "name": "Love, After All",
+        "url": "https://open.spotify.com/album/78rLlylzjtm8JpCbFpUQkz"
+      },
+      "artists": [
+        {
+          "name": "GYE0M",
+          "url": "https://open.spotify.com/artist/2nFAl5FcbuagY1zVglLvPc"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237619,
+      "name": "Love, After All",
+      "url": "https://open.spotify.com/track/220eac16XYiepPKj7igHzB"
     },
     {
       "album": {
@@ -140855,6 +141137,24 @@
     },
     {
       "album": {
+        "name": "The Dream Life of Mr.Kim (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/4BMiAdB99UDD2TOQlqRrMl"
+      },
+      "artists": [
+        {
+          "name": "WOODZ",
+          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "March",
+      "url": "https://open.spotify.com/track/3WV4TlAmdhlu0csvTuTxRC"
+    },
+    {
+      "album": {
         "name": "march",
         "url": "https://open.spotify.com/album/0ewTdMcb9ydgYE4tGQ5xZd"
       },
@@ -140910,6 +141210,24 @@
       "duration_ms": 190709,
       "name": "Marge",
       "url": "https://open.spotify.com/track/28cicjJtZV0k93VIZ9PId1"
+    },
+    {
+      "album": {
+        "name": "Maria (Kpop ver)",
+        "url": "https://open.spotify.com/album/1GdONWZE3J8PyV5fx6xWlZ"
+      },
+      "artists": [
+        {
+          "name": "Park Jin Joo",
+          "url": "https://open.spotify.com/artist/05AYUT9lXm5E4N2Z2wVlXm"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Maria (Kpop ver)",
+      "url": "https://open.spotify.com/track/6WA3uJoAXmUxISMrO5hQ4v"
     },
     {
       "album": {
@@ -147973,6 +148291,24 @@
     },
     {
       "album": {
+        "name": "Moondance",
+        "url": "https://open.spotify.com/album/1LYt1Jb1ooZzJWqnfIxdx2"
+      },
+      "artists": [
+        {
+          "name": "TOUCHED",
+          "url": "https://open.spotify.com/artist/5jgIm8tZ4hqLeoHTo9wJIV"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "Moondance",
+      "url": "https://open.spotify.com/track/2KUEKN10jfO8IQ3uUKdynn"
+    },
+    {
+      "album": {
         "name": "Moonflower",
         "url": "https://open.spotify.com/album/2gTvNYjHnLTInbPc5bqnYz"
       },
@@ -150696,7 +151032,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 193066,
       "name": "My Destiny Is You",
       "url": "https://open.spotify.com/track/43yfoh91re3KE7LatEHMQn"
@@ -153500,6 +153836,24 @@
       "duration_ms": 174026,
       "name": "Naked",
       "url": "https://open.spotify.com/track/2dFIqSB5r0IrqJFJS367Kx"
+    },
+    {
+      "album": {
+        "name": "NAKED",
+        "url": "https://open.spotify.com/album/2BXbtEqrsNv1LNV3y4Dtki"
+      },
+      "artists": [
+        {
+          "name": "Y:SY",
+          "url": "https://open.spotify.com/artist/6poSAr6d3ycm04lRtcMzxA"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185339,
+      "name": "NAKED",
+      "url": "https://open.spotify.com/track/2a6vMQiclAa0ZcBy6zFn4H"
     },
     {
       "album": {
@@ -163976,6 +164330,24 @@
     {
       "album": {
         "name": "ONE MORE TIME",
+        "url": "https://open.spotify.com/album/5VxaQoQltZT93oaGc72Csy"
+      },
+      "artists": [
+        {
+          "name": "ALLDAY PROJECT",
+          "url": "https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195259,
+      "name": "ONE MORE TIME",
+      "url": "https://open.spotify.com/track/7FyKqLLICVzwBiAUtbVYUW"
+    },
+    {
+      "album": {
+        "name": "ONE MORE TIME",
         "url": "https://open.spotify.com/album/5o3vgo7t4tTTCVh9zSptML"
       },
       "artists": [
@@ -169181,6 +169553,32 @@
     },
     {
       "album": {
+        "name": "Paper Love (feat. OLNL & hartts)",
+        "url": "https://open.spotify.com/album/1VrxPE02XPVE0B0tC5TuTY"
+      },
+      "artists": [
+        {
+          "name": "LOTI",
+          "url": "https://open.spotify.com/artist/5HlwsKjYi0iygvWg19itif"
+        },
+        {
+          "name": "OLNL",
+          "url": "https://open.spotify.com/artist/4ls4GQkl0kkBlAWq2DgS0z"
+        },
+        {
+          "name": "hartts",
+          "url": "https://open.spotify.com/artist/0a1stdnZdUUGkudEf9iymv"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178999,
+      "name": "Paper Love (feat. OLNL & hartts)",
+      "url": "https://open.spotify.com/track/0VIYhg97OVN56nlNcneTLV"
+    },
+    {
+      "album": {
         "name": "Paper Memories",
         "url": "https://open.spotify.com/album/1L90MkCqbZ08Lh1hlvlBOW"
       },
@@ -172140,7 +172538,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 221000,
       "name": "Pinocchio",
       "url": "https://open.spotify.com/track/3hXsfPCNGZnZx0l4AYvh8E"
@@ -174732,7 +175130,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 256432,
       "name": "Pot rice",
       "url": "https://open.spotify.com/track/2rhigAHCdppRYMPqFuOXhs"
@@ -175040,6 +175438,24 @@
       "duration_ms": 275360,
       "name": "Pray",
       "url": "https://open.spotify.com/track/68ycyYtXtbTH6ujIMHdida"
+    },
+    {
+      "album": {
+        "name": "pray (Webtoon 'The Princess\u2019s Guide to a Perfect Life' Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6O8WNU2lauBmp0otr6kwn6"
+      },
+      "artists": [
+        {
+          "name": "Seo In Guk",
+          "url": "https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "pray",
+      "url": "https://open.spotify.com/track/19tCwRktpkEP3Y7X2yIGuG"
     },
     {
       "album": {
@@ -176364,7 +176780,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 210125,
       "name": "Propose",
       "url": "https://open.spotify.com/track/3KwlazkaekeKfyvDsrsrYd"
@@ -180870,6 +181286,24 @@
       "duration_ms": 208373,
       "name": "Regret of the Times - 2024 Remastered Version",
       "url": "https://open.spotify.com/track/5RcGQ7is0iQEhS7XsTOiST"
+    },
+    {
+      "album": {
+        "name": "Rehearsal",
+        "url": "https://open.spotify.com/album/1EUujN5F5ZJtlQW7z4X9FN"
+      },
+      "artists": [
+        {
+          "name": "Kim Hye Rim",
+          "url": "https://open.spotify.com/artist/5eKQbKV7Khdo1RjmkbzbTT"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239896,
+      "name": "Rehearsal",
+      "url": "https://open.spotify.com/track/0oLiHJLphtfZTp579VWkK6"
     },
     {
       "album": {
@@ -185724,7 +186158,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 174000,
       "name": "Run & Run",
       "url": "https://open.spotify.com/track/2T7WF29RwkgS3OnWctG89f"
@@ -187977,6 +188411,24 @@
     },
     {
       "album": {
+        "name": "Nice to Not Meet You (Original Television Soundtrack) Pt. 3",
+        "url": "https://open.spotify.com/album/2ZnPSp9PFOIeXFAHXndiy4"
+      },
+      "artists": [
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Sarr, Srr",
+      "url": "https://open.spotify.com/track/6vWRzs6vqLCJQGOUx1eMWm"
+    },
+    {
+      "album": {
         "name": "Dog's Desire",
         "url": "https://open.spotify.com/album/0ZRoTmOxkXQOZL4KshfU0N"
       },
@@ -188772,6 +189224,24 @@
       "duration_ms": 212764,
       "name": "Say You Love Me",
       "url": "https://open.spotify.com/track/5QUBprUbVSmnnzsJkDVrDc"
+    },
+    {
+      "album": {
+        "name": "Dynamite Kiss (Original Television Soundtrack), Pt.2",
+        "url": "https://open.spotify.com/album/61k2pEHKJkWbPukgCjrm6P"
+      },
+      "artists": [
+        {
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "Say You Love Me",
+      "url": "https://open.spotify.com/track/4cGVoziBUY3QM3386qNwE2"
     },
     {
       "album": {
@@ -190130,7 +190600,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 210587,
       "name": "Secret Quest",
       "url": "https://open.spotify.com/track/6c1O24cKJUobRYCUcTsoOw"
@@ -190662,7 +191132,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 261301,
       "name": "Self Portrait",
       "url": "https://open.spotify.com/track/7ajhLiVQKKzyL3n4z3ofna"
@@ -194020,7 +194490,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 187000,
       "name": "Shooting Star",
       "url": "https://open.spotify.com/track/0RfNTMF3DHQ3cwtHsnsrkH"
@@ -195866,6 +196336,24 @@
       "duration_ms": 167500,
       "name": "Siren",
       "url": "https://open.spotify.com/track/2Oygz6GbZrGjUgfyXSxZLO"
+    },
+    {
+      "album": {
+        "name": "Typhoon Family, Pt. 6 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/419ZDfe92T9mmeAapUV2Rl"
+      },
+      "artists": [
+        {
+          "name": "KIM MIN SEOK",
+          "url": "https://open.spotify.com/artist/7BMVOgbZlqyr8FRf8PdjO3"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Sirius",
+      "url": "https://open.spotify.com/track/17ntmaoXwRc7IqqkpjjlGQ"
     },
     {
       "album": {
@@ -197752,6 +198240,24 @@
       "duration_ms": 183620,
       "name": "Smile",
       "url": "https://open.spotify.com/track/2wmfdL5kfqvgXr1wSOcOUP"
+    },
+    {
+      "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/73ms27Is1QoHgJk5K7AJbM"
+      },
+      "artists": [
+        {
+          "name": "woona",
+          "url": "https://open.spotify.com/artist/6vsRM7NBG4pNDMcFN3VzO3"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/1duwCphgmIEFXLzZsgosRg"
     },
     {
       "album": {
@@ -205040,7 +205546,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 194004,
       "name": "Starving",
       "url": "https://open.spotify.com/track/18JFKESC4ZJTiydyE0LIot"
@@ -207235,6 +207741,24 @@
     },
     {
       "album": {
+        "name": "Still Love You (Original Soundtrack from Last Summer)",
+        "url": "https://open.spotify.com/album/52c1TRAhzglIgGvj2CUBhy"
+      },
+      "artists": [
+        {
+          "name": "Heize",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250389,
+      "name": "Still Love You",
+      "url": "https://open.spotify.com/track/25zlFlYPYK97W1KOj8lhNM"
+    },
+    {
+      "album": {
         "name": "Second Shot at Love, Pt. 2 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/2IP0HcIpAzKw2aEhJWAhY8"
       },
@@ -208488,7 +209012,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 182000,
       "name": "Stretch",
       "url": "https://open.spotify.com/track/45ika45Kgm9A0a9Hg36tRz"
@@ -215664,7 +216188,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 150200,
       "name": "Talk to You",
       "url": "https://open.spotify.com/track/6Oag0XXglYu48Cd8EufeTw"
@@ -222050,7 +222574,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 213000,
       "name": "the reason you left me",
       "url": "https://open.spotify.com/track/5TnTJv8JkjKEQRWR8CkkgZ"
@@ -227864,7 +228388,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 198000,
       "name": "To Me From Me (Prod. TABLO)",
       "url": "https://open.spotify.com/track/5qnKbP6x2SyUbsLem897iL"
@@ -230025,6 +230549,24 @@
     },
     {
       "album": {
+        "name": "Too Real To Enjoy",
+        "url": "https://open.spotify.com/album/7vBgGXIZzfqEsR9bvbwka1"
+      },
+      "artists": [
+        {
+          "name": "\uac15\uc608\uc601",
+          "url": "https://open.spotify.com/artist/0Rwpm36PpiOlYZiY3mZByf"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132815,
+      "name": "Too Real To Enjoy",
+      "url": "https://open.spotify.com/track/1JwtXlwLlHBUM7L8CcxIu0"
+    },
+    {
+      "album": {
         "name": "took",
         "url": "https://open.spotify.com/album/75uoBvStIbjZYTK7l1ccwP"
       },
@@ -231786,7 +232328,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 143437,
       "name": "TRUE HEART",
       "url": "https://open.spotify.com/track/3qZ3enAinCUtPjFzc6Jhv2"
@@ -233391,6 +233933,24 @@
     },
     {
       "album": {
+        "name": "Our Golden Days OST Part.13 (Soundtrack)",
+        "url": "https://open.spotify.com/album/4MZU4urpiAe41HFaOZnbzd"
+      },
+      "artists": [
+        {
+          "name": "Blusher",
+          "url": "https://open.spotify.com/artist/3gzcpbNY7Xdj1zeaHGyM2G"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166631,
+      "name": "U R cute, I like U, so love so much",
+      "url": "https://open.spotify.com/track/2RBjSdlVDVjUMVFFC2RbQR"
+    },
+    {
+      "album": {
         "name": "U&Iverse",
         "url": "https://open.spotify.com/album/13QtsOvK9KOmQBQglnbsQo"
       },
@@ -233424,6 +233984,24 @@
       "duration_ms": 152142,
       "name": "U1",
       "url": "https://open.spotify.com/track/5YGZZT2HVYb0ANk8gmns6g"
+    },
+    {
+      "album": {
+        "name": "Heroes Next Door, Pt. 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3A9OX8Wp2BIgZB6K7HLPS2"
+      },
+      "artists": [
+        {
+          "name": "Lee Hyuk",
+          "url": "https://open.spotify.com/artist/1DYXSbR16g5HFkR8R45CMb"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "UDT",
+      "url": "https://open.spotify.com/track/0VOg5Lh7XGeaCaG8ItXify"
     },
     {
       "album": {
@@ -238180,6 +238758,24 @@
       "duration_ms": 280226,
       "name": "Waiting all day",
       "url": "https://open.spotify.com/track/4WoTnnMkgusiOWGTwUZ0fm"
+    },
+    {
+      "album": {
+        "name": "Waiting for Me",
+        "url": "https://open.spotify.com/album/69lxrmwYTHLnyyVhj1qxQh"
+      },
+      "artists": [
+        {
+          "name": "Cha ga eul",
+          "url": "https://open.spotify.com/artist/4mSV7GdIFUByJJVxI4HyOi"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244931,
+      "name": "Waiting for Me",
+      "url": "https://open.spotify.com/track/6l7vMOM0SBvAp6X3BWk3lw"
     },
     {
       "album": {
@@ -245024,7 +245620,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 278640,
       "name": "When I Hold You In My Arms",
       "url": "https://open.spotify.com/track/2vAfRezKm491l4SwTrwjur"
@@ -249696,6 +250292,24 @@
       "duration_ms": 243098,
       "name": "Winter Comes Again (feat. Shin Jikseon)",
       "url": "https://open.spotify.com/track/1T7nGuFxsgw4JBLIUHJ9du"
+    },
+    {
+      "album": {
+        "name": "Winter Coming Home",
+        "url": "https://open.spotify.com/album/5GV6WrN078ktnoVkouZzXs"
+      },
+      "artists": [
+        {
+          "name": "ARO",
+          "url": "https://open.spotify.com/artist/6ECu2vO8wvgX5pDjYqHEuC"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207987,
+      "name": "Winter Coming Home",
+      "url": "https://open.spotify.com/track/2Tzec1QsW7c9FWw45LyM7l"
     },
     {
       "album": {
@@ -260158,7 +260772,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 163000,
       "name": "\uac00\uc704\ubc14\uc704\ubcf4 Eeny meeny miny moe",
       "url": "https://open.spotify.com/track/5hy45ZHbIypFH2NsiEyc0Z"
@@ -263230,6 +263844,24 @@
       "duration_ms": 164102,
       "name": "\ub208\ubcf4\ub77c",
       "url": "https://open.spotify.com/track/1ZVcV1OAGmlS03W52UtNzk"
+    },
+    {
+      "album": {
+        "name": "\ub9c8\ub9ac\uc640 \ubcc4\ub09c \uc544\ube60\ub4e4 (Original Television Soundtrack) Pt.5",
+        "url": "https://open.spotify.com/album/7HVWqQf8GlG0BdtvJt6FEa"
+      },
+      "artists": [
+        {
+          "name": "Ahn Yeseul",
+          "url": "https://open.spotify.com/artist/4gcwTPPRhA3OPYI95ehTtl"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172474,
+      "name": "\ub208\uc774 \ubd80\uc2e0\ub0a0\ub4e4",
+      "url": "https://open.spotify.com/track/5ERHkavz05B4qxRn5Uoall"
     },
     {
       "album": {
@@ -267796,7 +268428,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 162475,
       "name": "\uc54c\uace0\ub9d0\uace0",
       "url": "https://open.spotify.com/track/1JoiX4tvic4brn41uzx1dC"
@@ -271010,7 +271642,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 150000,
       "name": "\uc9c0\ub098\ubcf4\uba74",
       "url": "https://open.spotify.com/track/6g1iWKL9asO9Eu5hSVQkoP"

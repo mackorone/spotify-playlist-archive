@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3ubJMppxuP.md) - [plain]
 
 > Hardstyle in het Nederlands\. Feest!
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,733 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,751 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3ubJMppxuP.md) - [plain]
 | 45 | [De Hut Verbouwen \- Dr\. Rude Remix](https://open.spotify.com/track/2dqRZXkpiet7V3ebJBY645) | [Vieze Jack](https://open.spotify.com/artist/14VHCbKz3ITlGgh8Ozni2L), [Dr Rude](https://open.spotify.com/artist/5akubyqg9eYtnCtDEeJz2s) | [De Hut Verbouwen \(Dr\. Rude Remix\)](https://open.spotify.com/album/2vJ9bELr5NGhnPqbH5qUcp) | 3:00 |
 | 46 | [Van God Los \- Official 2025 Kamping Kitsch Club Anthem](https://open.spotify.com/track/7Ij8PzPOoLGWcJfF8vF6cV) | [Jody Bernal](https://open.spotify.com/artist/7oKJmnPaABXLPkw3gT7rIa), [Jebroer](https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk), [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa), [Kamping Kitsch Club Soundsystem](https://open.spotify.com/artist/2DPRgxvMDx9oQNR25vUIIG), [Boerin Anna](https://open.spotify.com/artist/35DH30n3qCSB631m0Ea9X8) | [Van God Los \(Official 2025 Kamping Kitsch Club Anthem\)](https://open.spotify.com/album/3R3Ysl9LK5POTeXXgw0qQL) | 2:45 |
 | 47 | [Held In De Nacht \- De Lievelings DJ's Van Je Zusje Remix](https://open.spotify.com/track/3dyhGdd2p4Jt2MtaXOKazA) | [HockeyLoverz](https://open.spotify.com/artist/0blXxSYseHGU0nJ2daxjCF), [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [De Lievelings DJ's Van Je Zusje](https://open.spotify.com/artist/6miq9hCHtjQACUWx9FCi9D) | [Held In De Nacht \(De Lievelings DJ's Van Je Zusje Remix\)](https://open.spotify.com/album/0sjumIBLVnWnItUD3c9dSi) | 2:02 |
-| 48 | [Hey Meid \- Total Loss Remix](https://open.spotify.com/track/3DEOsGeqcpHsN7DAgcWzkG) | [PartyfrieX](https://open.spotify.com/artist/1QXZ1BMJKU2dl2q6rDn1pB), [Total Loss](https://open.spotify.com/artist/7r1uNv2eh16EPoBAEB1PLn) | [Hey Meid \(Total Loss Remix\)](https://open.spotify.com/album/1i0R7xiLKmZwYNWGmE598J) | 2:28 |
-| 49 | [Het Is Een Nacht \- Total Loss Remix](https://open.spotify.com/track/7F17y60qAsDiOmWj5XZOhQ) | [Arjon Oostrom](https://open.spotify.com/artist/2sdP2pb74y3kf44RxZwaCb), [Dr Rude](https://open.spotify.com/artist/5akubyqg9eYtnCtDEeJz2s) | [Het Is Een Nacht \(Total Loss Remix\)](https://open.spotify.com/album/3xUfmOr4zK9Q5KdoIxC1V3) | 4:17 |
+| 48 | [Het Is Een Nacht \- Total Loss Remix](https://open.spotify.com/track/7F17y60qAsDiOmWj5XZOhQ) | [Arjon Oostrom](https://open.spotify.com/artist/2sdP2pb74y3kf44RxZwaCb), [Dr Rude](https://open.spotify.com/artist/5akubyqg9eYtnCtDEeJz2s) | [Het Is Een Nacht \(Total Loss Remix\)](https://open.spotify.com/album/3xUfmOr4zK9Q5KdoIxC1V3) | 4:17 |
+| 49 | [Hey Meid \- Total Loss Remix](https://open.spotify.com/track/3DEOsGeqcpHsN7DAgcWzkG) | [PartyfrieX](https://open.spotify.com/artist/1QXZ1BMJKU2dl2q6rDn1pB), [Total Loss](https://open.spotify.com/artist/7r1uNv2eh16EPoBAEB1PLn) | [Hey Meid \(Total Loss Remix\)](https://open.spotify.com/album/1i0R7xiLKmZwYNWGmE598J) | 2:28 |
 | 50 | [Het Allerlaatste Rondje](https://open.spotify.com/track/1tNFA1UmvXzGDfmXrbdOQH) | [Snollebollekes](https://open.spotify.com/artist/2DbTbUZFWbi3U3QzgJqU0V) | [Het Allerlaatste Rondje](https://open.spotify.com/album/0kXKzl1x7YIJ2qHCauPuIV) | 2:42 |
 
 Snapshot ID: `AAAAAM3YTxbxWQ1rLjDu1Z80zgbVzUeI`

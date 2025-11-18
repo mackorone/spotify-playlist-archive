@@ -4,7 +4,7 @@
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: James Reid
 
-619 songs - 1 day 14 hr 29 min
+622 songs - 1 day 14 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [Halikana](https://open.spotify.com/track/2bdSVYtbQe5RWW6g4kXIsO) | [Ryannah J](https://open.spotify.com/artist/6qmz5baFW3JXKU7jUv3vJD), [Baby Blood](https://open.spotify.com/artist/43mQpC11b5yKRPDURZOC76), [NEXXFRIDAY](https://open.spotify.com/artist/6yWj0mvdzglZZDHa0FHmpd) | [Halikana](https://open.spotify.com/album/6YOAxlb0s1MCSyfWsTdka3) | 3:23 | 2024-08-14 | 2024-11-21 |
 | [Hanapin Ang Sarili \(Original Soundtrack\)](https://open.spotify.com/track/1KQyv34wwqIhPLthXNzaho) | [Morissette](https://open.spotify.com/artist/62WbvkXqQGvXQvw74GU3kQ) | [Hanapin Ang Sarili \(Original Soundtrack\)](https://open.spotify.com/album/7auRPLqx3X6Ki0McTLSYwS) | 2:31 | 2025-03-10 | 2025-05-24 |
 | [Handa Na](https://open.spotify.com/track/5LFrdalPULz4htOdtZH6Qs) | [Noah Raquel](https://open.spotify.com/artist/3cXAOAlL3hdCbm2SGTagr2) | [Handa Na](https://open.spotify.com/album/1LTLb5DBP9PXSqJ1qeyEAM) | 3:04 | 2024-10-18 | 2025-03-01 |
+| [Handa Na Akong Sumugal](https://open.spotify.com/track/2DrmHtlsnDVy7nCh69nrWX) | [Avery Leon](https://open.spotify.com/artist/75YebYHY6ryNvPWlPvLbm3) | [Handa Na Akong Sumugal](https://open.spotify.com/album/4Ojq8SHd9qGb5xifo0vCq7) | 4:24 | 2025-11-17 |  |
 | [Hanggang Kailan](https://open.spotify.com/track/2i1TTUWdQlntOpxMZKVzf9) | [Darren Espanto](https://open.spotify.com/artist/0u4G1K1CSzcp5PZ6G6FIGu) | [Hanggang Kailan](https://open.spotify.com/album/1d8wq7e8BiL3c0RVdiDju3) | 3:53 | 2024-07-02 | 2024-07-13 |
 | [Hanggang sa Magsawa](https://open.spotify.com/track/3jqZKT0N9hEx0uwe6Sm8pS) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [7th Sense](https://open.spotify.com/album/6fLn0CW5g9nLSplYDfomyl) | 5:55 | 2025-03-10 | 2025-05-31 |
 | [Happy Ending](https://open.spotify.com/track/1hv8gjkImdxHMw98bxXGre) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Happy Ending](https://open.spotify.com/album/2mWCsQlDlhidVlxyRRoQ1a) | 4:41 | 2024-11-22 | 2025-06-07 |
@@ -278,11 +279,13 @@
 | [KYGM](https://open.spotify.com/track/02XR8kfVg6AYjfeEEz3g2B) | [The Ridleys](https://open.spotify.com/artist/03KZ3tIgA3DSCU4o8PahVG) | [KYGM](https://open.spotify.com/album/4fIW5VdhoOr968dtTtvHT6) | 5:37 | 2024-07-02 | 2024-07-09 |
 | [La Loba](https://open.spotify.com/track/110ynMei3R2Kfn55ByPpy3) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [La Loba](https://open.spotify.com/album/3NKI08Hye3rR6FlOp2KwRp) | 3:32 | 2025-11-07 |  |
 | [Lagi Na Lang](https://open.spotify.com/track/3PweW0iw8tbD3bGHbKvteg) | [Sugarcane](https://open.spotify.com/artist/61OfH8eB8aJIc9T98cecNT) | [Lagi Na Lang](https://open.spotify.com/album/294o3fzYUe4vxWDfaMIcOf) | 4:09 | 2024-11-08 | 2025-02-15 |
+| [Lalapit?](https://open.spotify.com/track/6EiNfnUrSbiouZqFx7kxHf) | [Brxn](https://open.spotify.com/artist/11sFlcfZXlFoGYEnPYfFSF) | [Lalapit?](https://open.spotify.com/album/7yXl6AtxQFNhWhtH0RpMV0) | 3:50 | 2025-11-17 |  |
 | [Lalim](https://open.spotify.com/track/6dvP7J9alzF4OWMIlmrpTd) | [MATÉO](https://open.spotify.com/artist/5IIDooHzGQ1riNb6PWHexf) | [Lalim](https://open.spotify.com/album/2XmT37yNkFXpdOtLGoynNP) | 3:19 | 2024-09-25 | 2025-04-08 |
 | [lanamantayo](https://open.spotify.com/track/2W7YhtNKlOluSN4rFjCs3L) | [Kenaniah](https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS) | [lanamantayo](https://open.spotify.com/album/2RoMwtu2ESdIt1HYYAStGs) | 3:25 | 2024-07-02 | 2024-07-09 |
 | [Langit](https://open.spotify.com/track/0mwJVnMPx7dUODRpBfFLzi) | [Jed Baruelo](https://open.spotify.com/artist/6EigliA66uumHSob7cOG1y) | [Langit](https://open.spotify.com/album/0TXzVqUogh7QWTFdg8NtIS) | 4:18 | 2024-07-02 | 2024-09-25 |
 | [Langit Lupa](https://open.spotify.com/track/3LxDcAiZSdjYL4nLBwmoYP) | [dwta](https://open.spotify.com/artist/1UwnrHfh8Kd8Y8Ax8a3qWy) | [Langit Lupa](https://open.spotify.com/album/7g62tz1qtEchywthimqOs0) | 3:34 | 2025-10-24 |  |
 | [Larawan](https://open.spotify.com/track/7KGw4emQ399EbF331j3b6d) | [Rangel](https://open.spotify.com/artist/0bleiPugTnkqSUBnepa7Xi) | [Larawan](https://open.spotify.com/album/3XARO9hODVmLRGVGX5w1gC) | 3:22 | 2025-03-21 | 2025-05-31 |
+| [Laro](https://open.spotify.com/track/06pA8vxowvqlRCe2hteMsB) | [polaris.](https://open.spotify.com/artist/48iP2a3vIRKl7MtFZDLnUx) | [Laro](https://open.spotify.com/album/1tryiZ8ELSSko2XcSJJ1Jd) | 3:48 | 2025-11-17 |  |
 | [LASIK](https://open.spotify.com/track/5da5VCHTC3516y0y8p40Ee) | [HEY JUNE!](https://open.spotify.com/artist/4Bxk4PebmsWgvjMrtQqBvq) | [Curiosity Killed the Cat](https://open.spotify.com/album/5duuHmLrcRq26ePcf7XBFd) | 3:45 | 2025-06-02 | 2025-10-25 |
 | [LASING NA SA'YO](https://open.spotify.com/track/30ceUZfn5o5m0v2e0A4yEq) | [LU](https://open.spotify.com/artist/2PFOavJcy4B4Eom96N7vDl), [Off The Record](https://open.spotify.com/artist/0h2lW8O3gilzdOjbgLYivM) | [LASING NA SA'YO](https://open.spotify.com/album/7qR85SeauTbSnHXDDl0vP7) | 4:07 | 2025-07-25 |  |
 | [Lason](https://open.spotify.com/track/32SzoIWoN63YdDpWspnYS2) | [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ), [Because](https://open.spotify.com/artist/0n4a5imdLBN24fIrBWoqrv), [MMONN](https://open.spotify.com/artist/57wPsYZkEErG0C2ntgqNTe) | [Lason](https://open.spotify.com/album/3uBdLkGzbRcS9f7ba1e0bl) | 3:03 | 2025-09-19 |  |

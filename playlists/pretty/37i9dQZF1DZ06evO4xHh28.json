@@ -1,12 +1,12 @@
 {
   "description": "This is My Chemical Romance. The essential tracks, all in one playlist.",
-  "num_followers": 618397,
+  "num_followers": 618434,
   "original_name": "This Is My Chemical Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRfCgAAAAACLWiavz/GWfxP7nAxynWrb",
+  "snapshot_id": "aRkUAAAAAADYGJUkNNCyDy+iH/z1dLzR",
   "tracks": [
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Three Cheers for Sweet Revenge (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2UyMXfEjHvT4LlrVYqXGTM"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 202181,
-      "name": "Helena - 2025 Mix",
-      "url": "https://open.spotify.com/track/5Oi4bcuLV8D3YJ6w4FBEUz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Danger Days: The True Lives of the Fabulous Killjoys",
         "url": "https://open.spotify.com/album/2wPnKggTK3QhYAKL7Q0vvr"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 272906,
       "name": "DESTROYA",
       "url": "https://open.spotify.com/track/08gaUXuT1LXIae7TwBTCB9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Three Cheers for Sweet Revenge (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2UyMXfEjHvT4LlrVYqXGTM"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 202181,
+      "name": "Helena - 2025 Mix",
+      "url": "https://open.spotify.com/track/5Oi4bcuLV8D3YJ6w4FBEUz"
     },
     {
       "added_at": null,

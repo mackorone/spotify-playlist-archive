@@ -4,7 +4,7 @@
 
 > De 50 grootste hits in NL\. Cover: Cristian D
 
-538 songs - 1 day 2 hr 26 min
+539 songs - 1 day 2 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,7 +237,7 @@
 | [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 | 2024-04-11 | 2024-07-05 |
 | [I Love You, I'm Sorry](https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 2:37 | 2024-09-12 | 2025-01-10 |
 | [I Need Your Love](https://open.spotify.com/track/2fnhMzGEEPKvFtExQ3FMMo) | [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg), [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [I Need Your Love](https://open.spotify.com/album/2OKk9baUzD5hvaQ9JxlEZ0) | 2:43 | 2024-10-24 | 2025-04-04 |
-| [I Run](https://open.spotify.com/track/0gUe53zOzsnFwpDGYld3ke) | [HAVEN.](https://open.spotify.com/artist/7ouEqUl1PCVPlNninecdcz), [Kaitlin Aragon](https://open.spotify.com/artist/0MjdTHzxhkhOS4J2rWw6uK) | [I Run](https://open.spotify.com/album/0tPAbIZlpOoPxlLO8YGxPa) | 2:09 | 2025-11-13 |  |
+| [I Run](https://open.spotify.com/track/0gUe53zOzsnFwpDGYld3ke) | [HAVEN.](https://open.spotify.com/artist/7ouEqUl1PCVPlNninecdcz), [Kaitlin Aragon](https://open.spotify.com/artist/0MjdTHzxhkhOS4J2rWw6uK) | [I Run](https://open.spotify.com/album/0tPAbIZlpOoPxlLO8YGxPa) | 2:09 | 2025-11-13 | 2025-11-18 |
 | [I Surrender \- Remix](https://open.spotify.com/track/7GDEIrIOGdE5AkQfuk1FA3) | [Joshua Robbie](https://open.spotify.com/artist/63FGE7jdsJPFDjxbMspsfQ), [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE) | [I Surrender \(Remix\)](https://open.spotify.com/album/7yaehZezasawQfcqWOkbcT) | 3:33 | 2025-01-23 | 2025-04-25 |
 | [I Won't Let Go](https://open.spotify.com/track/1yV7mWA7FqYLxw4LMaeoX6) | [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [I Won't Let Go](https://open.spotify.com/album/3JrmfauG25tz4C5hmJED64) | 3:43 | 2024-11-07 | 2025-01-24 |
 | [I'll Be Waiting](https://open.spotify.com/track/0JIhRhZPF5j5dx0FGqTWxy) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [I'll Be Waiting \(Sad At Christmas\)](https://open.spotify.com/album/0jC03OijHmOVjS2sc9yUuM) | 2:52 | 2023-02-23 | 2023-06-02 |
@@ -292,6 +292,7 @@
 | [Little Things x Gypsy Woman \- L BEATS MASHUP](https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things x Gypsy Woman \(L BEATS MASHUP\)](https://open.spotify.com/album/052c03LAr2euUtLKgvOKae) | 2:11 | 2023-07-20 | 2023-11-10 |
 | [Loco Loco \(feat\. Sluwe Ollie\)](https://open.spotify.com/track/78dZXRH9JBXITQsS9Mlnsl) | [Alessio](https://open.spotify.com/artist/6gFuwMAaoJDU6M3c8UHcAj), [Sluwe Ollie](https://open.spotify.com/artist/7zRN086UvocMbINAumZ8kx) | [Loco Loco \(feat\. Sluwe Ollie\)](https://open.spotify.com/album/3v4lZJxJps8UEnZ8UVEIAy) | 2:45 | 2023-10-12 | 2024-01-19 |
 | [Lose Control](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) | 3:30 | 2023-08-31 | 2024-04-12 |
+| [Loser](https://open.spotify.com/track/6SxPeeIm0exX9vXLZMZn2J) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [GO BESTFRIEND](https://open.spotify.com/album/2cCRxb2mWYNWAL7KNMoL95) | 2:43 | 2025-11-17 |  |
 | [Losing Control](https://open.spotify.com/track/3gJ16QEGGhLFPNLvbXgB1u) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Losing Control](https://open.spotify.com/album/4x4LKLSlnUfLVCHKDmD9LV) | 2:50 | 2025-08-28 | 2025-10-03 |
 | [Lost & Found](https://open.spotify.com/track/7kleqbfZAvPzMMiX1uxCin) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [Lost & Found](https://open.spotify.com/album/2UMTQXRwobqaIDJaYDsHN8) | 3:15 | 2024-02-29 | 2024-03-15 |
 | [Lotje](https://open.spotify.com/track/2wu9tmhmdwIk0IcCHPndhI) | [Lustrum U.V.S.V./N.V.V.S.U.](https://open.spotify.com/artist/2VZGqt6DSeA7Z5103qtYRK), [Jopke van Dobbenburgh](https://open.spotify.com/artist/2JA0qfHxIxKrjOj1YCuh9D), [Roeland Beelen](https://open.spotify.com/artist/3AO2szj8eZ8MSTw0hghw3M) | [Lotje](https://open.spotify.com/album/0YJfvsHFmJBpI7sj4SbWq2) | 2:47 | 2025-04-10 | 2025-06-13 |

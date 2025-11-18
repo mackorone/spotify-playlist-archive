@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wc5ry.md) - [plain]
 
 > This is Outkast\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,443 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,467 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wc5ry.md) - [plain]
 | 49 | [Sole Sunday \(feat\. Goodie Mob\) \- Dirty Mix](https://open.spotify.com/track/0jHeh2OVWqd5xvtRULVoI9) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Goodie Mob](https://open.spotify.com/artist/3F2Y683ovlWT53WKCeq0oj) | [Stankonia \(25th Anniversary\)](https://open.spotify.com/album/6k5p5oU3jFqUc3p8U7qYwA) | 4:39 |
 | 50 | [Throw Your Hands Up \(feat\. Outkast\)](https://open.spotify.com/track/7LTyTsaXmJ7A1YtNo24XhN) | [8Ball](https://open.spotify.com/artist/6B16XZWuJ9VERn7pXxCIda), [MJG](https://open.spotify.com/artist/6pDFdYZARPitpkfm44UsOQ), [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [We Are The South \(Greatest Hits\)](https://open.spotify.com/album/50TNviDm3rDP4409wtFwDQ) | 5:25 |
 
-Snapshot ID: `aRfCgAAAAAD1kxHZ7AUlcToUXdkDqEXj`
+Snapshot ID: `aRkUAAAAAABDbnd4gQuqKe+cnjvJXzGq`

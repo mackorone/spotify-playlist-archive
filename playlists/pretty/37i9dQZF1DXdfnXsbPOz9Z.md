@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfnXsbPOz9Z.md) - [plain]
 
 > Les tubes pop pour toute la famille
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,689 likes - 87 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,691 likes - 87 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfnXsbPOz9Z.md) - [plain]
 | 65 | [La tribu de Dana](https://open.spotify.com/track/7dtqGkkWFUOOPHuERA772V) | [Evan et Marco](https://open.spotify.com/artist/0qgw5KQPb3ZkCuuAbCfP0I) | [Evan et Marco](https://open.spotify.com/album/3evknzIth3rOhAR5BNzJHR) | 3:40 |
 | 66 | [Sorry](https://open.spotify.com/track/64rOVBWON5cE3RmPgdv8Yz) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop 31](https://open.spotify.com/album/6I4KqQwYmTZufx0KKTcy1s) | 3:02 |
 | 67 | [Trois petits pas](https://open.spotify.com/track/4YXs7LCyMLx5vgWnT7x6ey) | [Carla](https://open.spotify.com/artist/6FLqKeDxjLqbbEifG4oCuz), [Kids United Nouvelle Generation](https://open.spotify.com/artist/3GjGdUg7HGaoqwMzFBbdqt), [Lou](https://open.spotify.com/artist/6iHKWDaniE1NyU3xZ7FeGg), [YUN](https://open.spotify.com/artist/3ubqH7KHuudR4dSQ8P2nmE) | [Trois petits pas](https://open.spotify.com/album/1qD3qEnZyS5hbV9L6xCUFL) | 2:33 |
-| 68 | [I'm a Lady \- from SMURFS: THE LOST VILLAGE](https://open.spotify.com/track/7MSFoTbgwi5BFpilewAbUo) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [I'm a Lady \(from SMURFS: THE LOST VILLAGE\)](https://open.spotify.com/album/2WmgJ564fx8gNku6JdIjB5) | 2:44 |
+| 68 | [I'm a Lady \- from SMURFS: THE LOST VILLAGE](https://open.spotify.com/track/7MSFoTbgwi5BFpilewAbUo) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [I'm a Lady \(from SMURFS: THE LOST VILLAGE\)](https://open.spotify.com/album/2WmgJ564fx8gNku6JdIjB5) | 2:42 |
 | 69 | [L’histoire de la vie](https://open.spotify.com/track/2D1iCycI1TZ0OwB09HMBja) | [Kids Love Disney](https://open.spotify.com/artist/18rYh1xRfgPUwxDn7EIrmX), [Lévanah Solomon](https://open.spotify.com/artist/2EuNgNFjFo6iboDB1y9Qqc), [Ismaël El Marjou](https://open.spotify.com/artist/2hKMbLjhkxbw6bRCA5Iva4) | [Kids Love Disney](https://open.spotify.com/album/0waeL4km2PxZJ6je5pjONA) | 4:02 |
 | 70 | [This Is What You Came For](https://open.spotify.com/track/0QuwmuIGdlGfhOOssvw693) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 33](https://open.spotify.com/album/18wL3gXfAxI4qUJTL6SD2o) | 2:39 |
 | 71 | [Le lion est mort ce soir](https://open.spotify.com/track/7jTlbzLP2mwTXfl7l18NaA) | [Kids United Nouvelle Generation](https://open.spotify.com/artist/3GjGdUg7HGaoqwMzFBbdqt) | [Au bout de nos rêves](https://open.spotify.com/album/3nJRfnX2R0FdKEZYERN9LJ) | 2:35 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the South\. Cover: Lil Baby
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,262,311 likes - 101 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,262,399 likes - 101 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 32 | [Mr\. Pay For Shit](https://open.spotify.com/track/625bN1E5BinklW6jLMdgy8) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Mr\. Pay For Shit \(feat\. BenDaDonnn\)](https://open.spotify.com/album/0YwKh0scNsvAtDhXZdD8dc) | 2:15 |
 | 33 | [Hip\-Hop \(feat\. BigXthaPlug, Jay Jones\)](https://open.spotify.com/track/0t5LNjml8LTuAPiEfD7zFN) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Jay Jones](https://open.spotify.com/artist/2Oaq4UUJgqtQzPuuXTpiZL) | [Tha Carter VI](https://open.spotify.com/album/3f35htoN6xM1w2fKE8YZIJ) | 4:01 |
 | 34 | [Chaos \(feat\. Isaiah Rashad\)](https://open.spotify.com/track/75pWaQwRzbEL7e9Bgf59PX) | [iAMLYRIC](https://open.spotify.com/artist/57tjtvBR1dB7aZQPKmV1Y5), [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [Chaos \(feat\. Isaiah Rashad\)](https://open.spotify.com/album/08O64Qty8xLcn6jcd1lGnm) | 3:51 |
-| 35 | [FUPM](https://open.spotify.com/track/3Xe14w1KVkFSN53BpMwYVt) | [Fetty P Franklin](https://open.spotify.com/artist/2DAkZwVRDGLyC4fS29OuHq) | [FRANK \(Deluxe\)](https://open.spotify.com/album/4GfOoXccFc7rvOlUrhTRp2) | 2:33 |
+| 35 | [FUPM](https://open.spotify.com/track/3Xe14w1KVkFSN53BpMwYVt) | [Fetty P Franklin](https://open.spotify.com/artist/2DAkZwVRDGLyC4fS29OuHq), [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs) | [FRANK \(Deluxe\)](https://open.spotify.com/album/4GfOoXccFc7rvOlUrhTRp2) | 2:33 |
 | 36 | [Girls Gone Wild](https://open.spotify.com/track/1TYLYTMtSIqqPpOGJhmp0y) | [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Girls Gone Wild](https://open.spotify.com/album/4QB0GsSjMFlHyz1VLEY6BF) | 3:27 |
 | 37 | [Take Me Thru Dere](https://open.spotify.com/track/2GFawZaMjG8QLxiR4OD3db) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Breskii](https://open.spotify.com/artist/2wVt4s4eHizk62Er2CLunw), [YKNIECE](https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog), [DJ Spinz](https://open.spotify.com/artist/7m4YY1JUSagIGuM9BL7KR1) | [Metro Boomin Presents: A Futuristic Summa \(Hosted by DJ Spinz\)](https://open.spotify.com/album/48UcYpGBpoNhEJriPfZFWJ) | 2:42 |
 | 38 | [BP Music \(feat\. Rob49 & YTB Fatt\)](https://open.spotify.com/track/1KpB3AP8fH7Ld2wqVmU397) | [Culture Jam](https://open.spotify.com/artist/3NbMf2TTL0tcjISP5AFgzf), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT) | [Culture Jam Presents: Legend In My Hood](https://open.spotify.com/album/4Bvbm845mhiltIsO6stBPc) | 2:48 |

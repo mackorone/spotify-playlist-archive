@@ -488,7 +488,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 75746,
       "name": "First Day",
       "url": "https://open.spotify.com/track/6C7NLheYmP4zintC6OOXzf"
@@ -1770,6 +1770,24 @@
       "duration_ms": 197946,
       "name": "Unforgettable",
       "url": "https://open.spotify.com/track/3zIqOgooI83sDqwSfo0aOH"
+    },
+    {
+      "album": {
+        "name": "Toy Story 2",
+        "url": "https://open.spotify.com/album/0MCE2KRV2L5NJYMyQNPKHY"
+      },
+      "artists": [
+        {
+          "name": "Randy Newman",
+          "url": "https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258399,
+      "name": "Use Your Head",
+      "url": "https://open.spotify.com/track/3wWsBaZJ9tlJss9iZ2HPAA"
     },
     {
       "album": {

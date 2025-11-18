@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdipfKDeMPTE.md) - [plain]
 
 > Smooth beats for sleepless nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,662 likes - 200 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,732 likes - 200 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdipfKDeMPTE.md) - [plain]
 | 199 | [burgundy](https://open.spotify.com/track/7HcbBm0hS43kmLSNclrAue) | [affogato.wav](https://open.spotify.com/artist/5IVNgz7eOCRq61neiYgXZT) | [burgundy](https://open.spotify.com/album/28wE9i34oVa5zG1ZC0miq7) | 1:45 |
 | 200 | [Koya's adventure](https://open.spotify.com/track/3XSX6JQ403W9llQ1CHe9de) | [Kumo City](https://open.spotify.com/artist/0WLyZCjbiZcpPPfM73TtmA) | [Koya's adventure](https://open.spotify.com/album/0R3CHnVqDJdINqfgJDaVN7) | 1:58 |
 
-Snapshot ID: `AAAAABVxgdH+KN5xzfEqAK6w+nuFbzv/`
+Snapshot ID: `AAAAAL9dmVknJxdIUbK9BoglzyCXmqEk`

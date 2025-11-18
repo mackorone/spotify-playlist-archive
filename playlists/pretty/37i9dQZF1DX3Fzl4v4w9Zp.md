@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Where roots meet what’s next\. Cover: Mavis Staples
 
-[Spotify](https://open.spotify.com/user/spotify) - 627,040 likes - 145 songs - 8 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 627,026 likes - 145 songs - 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

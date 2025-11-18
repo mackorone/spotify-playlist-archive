@@ -1,6 +1,6 @@
 {
   "description": "as g\u00eameas com uma enxurrada de refs e quem tem d\u00f3 \u00e9 cavaco",
-  "num_followers": 85213,
+  "num_followers": 85459,
   "original_name": "Baby Hair",
   "owner": {
     "name": "Spotify",
@@ -663,6 +663,26 @@
     {
       "added_at": "2025-11-14 03:03:04",
       "album": {
+        "name": "Face Card",
+        "url": "https://open.spotify.com/album/5CIEM08attregcFPhVtxih"
+      },
+      "artists": [
+        {
+          "name": "Mc Soffia",
+          "url": "https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT"
+        },
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        }
+      ],
+      "duration_ms": 203076,
+      "name": "Face Card",
+      "url": "https://open.spotify.com/track/2IXFqNpacoTxIf3bVMl7Ym"
+    },
+    {
+      "added_at": "2025-11-14 03:03:04",
+      "album": {
         "name": "PERIGOSA",
         "url": "https://open.spotify.com/album/1eE1x9nWoDgOuXDYsjLryn"
       },
@@ -691,46 +711,6 @@
     {
       "added_at": "2025-11-14 03:03:04",
       "album": {
-        "name": "Face Card",
-        "url": "https://open.spotify.com/album/5CIEM08attregcFPhVtxih"
-      },
-      "artists": [
-        {
-          "name": "Mc Soffia",
-          "url": "https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT"
-        },
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        }
-      ],
-      "duration_ms": 203076,
-      "name": "Face Card",
-      "url": "https://open.spotify.com/track/2IXFqNpacoTxIf3bVMl7Ym"
-    },
-    {
-      "added_at": "2025-11-14 03:03:04",
-      "album": {
-        "name": "Indom\u00e1vel",
-        "url": "https://open.spotify.com/album/1SPuLKrxQjNmIfGIpNzPiA"
-      },
-      "artists": [
-        {
-          "name": "CRIOLA",
-          "url": "https://open.spotify.com/artist/7eMtPbhMxkdp5XXD0eNu74"
-        },
-        {
-          "name": "VHOOR",
-          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
-        }
-      ],
-      "duration_ms": 112166,
-      "name": "Indom\u00e1vel",
-      "url": "https://open.spotify.com/track/6J0ZXuSkhRME2HrcgnhUWJ"
-    },
-    {
-      "added_at": "2025-11-14 03:03:04",
-      "album": {
         "name": "Verdinha Criminosa",
         "url": "https://open.spotify.com/album/2EedIUumt8ALF4Hr26SunX"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 159516,
       "name": "Verdinha Criminosa",
       "url": "https://open.spotify.com/track/6WHReC5GArql7M1MC92DY4"
+    },
+    {
+      "added_at": "2025-11-14 03:03:04",
+      "album": {
+        "name": "Indom\u00e1vel",
+        "url": "https://open.spotify.com/album/1SPuLKrxQjNmIfGIpNzPiA"
+      },
+      "artists": [
+        {
+          "name": "CRIOLA",
+          "url": "https://open.spotify.com/artist/7eMtPbhMxkdp5XXD0eNu74"
+        },
+        {
+          "name": "VHOOR",
+          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
+        }
+      ],
+      "duration_ms": 112166,
+      "name": "Indom\u00e1vel",
+      "url": "https://open.spotify.com/track/6J0ZXuSkhRME2HrcgnhUWJ"
     },
     {
       "added_at": "2025-11-14 03:03:04",

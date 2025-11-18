@@ -4,7 +4,7 @@
 
 > Meet the future of music around the world\. Cover: BOYNEXTDOOR
 
-2,214 songs - 4 day 23 hr 33 min
+2,215 songs - 4 day 23 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [Been Thinking](https://open.spotify.com/track/2TDovGBTIpZ6zXKeyhsFzz) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Been Thinking](https://open.spotify.com/album/3GkG4c6zjKYvyiJA52q0Dn) | 3:07 | 2023-05-04 | 2023-10-06 |
 | [beggin' u 2](https://open.spotify.com/track/1CBUhnEqPSZqVzZ76mRb1Q) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [beggin' u 2](https://open.spotify.com/album/6XVxghf2IpjjCW05hdnUQc) | 3:52 | 2024-04-12 | 2024-08-17 |
 | [Belai](https://open.spotify.com/track/5I2JFiU2QrajBkY3Z8l9RF) | [Bunga](https://open.spotify.com/artist/1lHG5Nh4kVcBViogIek98t), [Amsyar Leee](https://open.spotify.com/artist/6ofZ3MNiuNNGPKEbOaWEY8) | [Belai](https://open.spotify.com/album/08vWdvWvob9YPnrr3Z3qAg) | 3:43 | 2022-02-10 | 2022-03-03 |
+| [Believer](https://open.spotify.com/track/6zRsQkn99LTGcGAcgHYEMm) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Believer](https://open.spotify.com/album/6Gy8bgQT87rQxCZGC7lkl2) | 2:47 | 2025-11-17 |  |
 | [Belki Bi' Gün Anlarsın](https://open.spotify.com/track/0ddXQ4eNqVOr1YacLki5Xa) | [Böyleyken Böyle](https://open.spotify.com/artist/3yLCFdWSpXsvl8rK2INQRH) | [Belki Bi' Gün Anlarsın](https://open.spotify.com/album/4TjIITyVEoaYup0JFmNMjg) | 2:25 | 2024-02-26 | 2024-04-19 |
 | [Bells](https://open.spotify.com/track/7c5rKCDYYbyBsLlJ00NgCD) | [DBN Gogo](https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l), [TNK MusiQ](https://open.spotify.com/artist/2oA819q93vu53ZDkCJYdbN), [DJ Stopper](https://open.spotify.com/artist/36KSzfIAH1QPHtgxgCNAs8), [EltonK](https://open.spotify.com/artist/10pVHSoimTxm86twXjuEkG) | [Bells](https://open.spotify.com/album/5fb9nAydl4x1Orhsrd4622) | 5:51 | 2022-05-13 | 2023-05-09 |
 | [Beni Yanına Al](https://open.spotify.com/track/5JZ5UvqUP7Rgip7jqBXQX6) | [Ege Can Sal](https://open.spotify.com/artist/20mkFP4AY47MtOJ39fP0bX) | [Beni Yanına Al](https://open.spotify.com/album/0KWSQFLE7UroT6eB29o5l0) | 2:53 | 2023-10-11 | 2024-01-27 |
@@ -1724,7 +1725,7 @@
 | [Tangerine Dream](https://open.spotify.com/track/0l466Sdh5FNmn8kSYzSO0E) | [Everydaze](https://open.spotify.com/artist/3zl0vHEKbb53bbQg9ZaN3g) | [Room247](https://open.spotify.com/album/5o3vb0aBtrdSm9JzRHywoD) | 3:49 | 2023-05-30 | 2023-12-02 |
 | [Tanz für mich](https://open.spotify.com/track/21D3ZIjm5vecprbEcD8qzW) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Wir bauten uns Amerika](https://open.spotify.com/album/6aVCdLcfeGgvBTJx5FyfYI) | 3:28 | 2025-09-09 | 2025-10-02 |
 | [Tapu Te Po](https://open.spotify.com/track/1327O2x1SfFA5wMTag96ou) | [QuinzeQuinze](https://open.spotify.com/artist/2SWMwDn0bu2QcXwBWznf5u) | [VĀRUA](https://open.spotify.com/album/7jgSag5L2lSg2Ycbn1XAyS) | 4:42 | 2022-04-07 | 2023-01-21 |
-| [Taste of Heaven](https://open.spotify.com/track/7lHu3bOYZBJNwlftCTZxfh) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Taste of Heaven](https://open.spotify.com/album/1j5cyAmFErb1wF3SYGRuCQ) | 2:37 | 2025-11-14 |  |
+| [Taste of Heaven](https://open.spotify.com/track/7lHu3bOYZBJNwlftCTZxfh) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Taste of Heaven](https://open.spotify.com/album/1j5cyAmFErb1wF3SYGRuCQ) | 2:37 | 2025-11-14 | 2025-11-18 |
 | [TATTOO](https://open.spotify.com/track/1LAUJwiUaYOQnwx1u8Q8fQ) | [Mandark](https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks), [恐龍的皮](https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J) | [We Were So Young](https://open.spotify.com/album/6GYty2L58da7ERYD04QGLc) | 3:01 | 2025-04-04 | 2025-09-10 |
 | [tau mich auf](https://open.spotify.com/track/6j8OrKDQHxXakjA7KKbWzj) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0) | [tau mich auf](https://open.spotify.com/album/7dajv17bGrOJRn1I5etrcq) | 1:50 | 2025-01-31 | 2025-02-22 |
 | [Teaser](https://open.spotify.com/track/6cVTmFLm9hhu5KIKvlThQX) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Teaser](https://open.spotify.com/album/67BgP8ggs4tkB0hR90ehXA) | 2:52 | 2024-02-02 | 2024-08-03 |

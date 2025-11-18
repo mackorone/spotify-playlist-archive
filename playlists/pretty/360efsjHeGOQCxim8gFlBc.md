@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/360efsjHeGOQCxim8gFlBc.md) - [plain]
 | 52 | [Onwards](https://open.spotify.com/track/3Fxeij5df6GMIs3z3swsPc) | [William Thomson](https://open.spotify.com/artist/0LX3VkUVbKepVNL5zLL4qa) | [Onwards](https://open.spotify.com/album/1WUhnpiGa6cRPo4H01Ytz5) | 2:53 |
 | 53 | [Spirals](https://open.spotify.com/track/23VyJmDQDek6mtVJBjCJBi) | [Julie Hanney](https://open.spotify.com/artist/13K0QZ02xfsIptclG3NE5d) | [Wonderment](https://open.spotify.com/album/6mXkFT4UzV1PfYzcTFMr75) | 2:47 |
 | 54 | [Clear Minded](https://open.spotify.com/track/0bXOA663nBacMzi0T7Ft4l) | [Henry Rowbotham](https://open.spotify.com/artist/5g9fPQjGIcLHgBMQcAARh0) | [Reflections](https://open.spotify.com/album/6TnNurk8VugTV2r9VW2c1v) | 1:29 |
-| 55 | [love story](https://open.spotify.com/track/0b8aXwsq9zeyOzHZ9ZP1Nx) | [Helder Boutens](https://open.spotify.com/artist/66kU70xhLdbz9P5PUKljUE) | [love story](https://open.spotify.com/album/1VczEbCVFcQ5Nt5IGfdiFw) | 1:34 |
+| 55 | [love story](https://open.spotify.com/track/3hiiDp2Wb8ljCRFUZfZg3t) | [Helder Boutens](https://open.spotify.com/artist/66kU70xhLdbz9P5PUKljUE) | [love story](https://open.spotify.com/album/7vWxv01MBk7Ln8cLbli2HG) | 1:34 |
 | 56 | [moments in between](https://open.spotify.com/track/5N2hvhGu7CJ2Bj4nwDkpiG) | [Jonas Hoffmann](https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP) | [moments in between](https://open.spotify.com/album/40c32j8tzigbZNkKGGPQO4) | 2:32 |
 | 57 | [lost in thought](https://open.spotify.com/track/2i98t1liW7ImQ0YNlQi2Pj) | [stray](https://open.spotify.com/artist/6TZ7ImCY9aK3ZxpKLYSyHS) | [Lost In Thought](https://open.spotify.com/album/5sKPcXrq8x0QocY2EgjUrH) | 4:00 |
 | 58 | [Life](https://open.spotify.com/track/38i6LcfcjhxQFlWLnDJdtt) | [Olha Shustova](https://open.spotify.com/artist/43CI8IOHXnklTvPQaou8lN) | [Back To Life](https://open.spotify.com/album/6d2tEb80HYcEsycz19Fm1f) | 3:53 |
@@ -107,7 +107,7 @@ pretty - [cumulative](/playlists/cumulative/360efsjHeGOQCxim8gFlBc.md) - [plain]
 | 97 | [bubbles](https://open.spotify.com/track/1paEjDJQ58aDfFRz85LOA0) | [Jonas Hoffmann](https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP) | [bubbles](https://open.spotify.com/album/0PqMgfUT9vJHtiPBKM8U55) | 1:53 |
 | 98 | [Cascade](https://open.spotify.com/track/40ZufZh2MEI7DawsofsT31) | [Luca Verdant](https://open.spotify.com/artist/1fL5eZC34fv79A9eUbCkp7) | [Cascade](https://open.spotify.com/album/2lsZlj37xP7gtCadKICgsB) | 2:20 |
 | 99 | [Neptis rivularis](https://open.spotify.com/track/1D4CoZf1UNicasNH8DuxkE) | [Valentin Scholl](https://open.spotify.com/artist/31nziFCQXhUjs3mURgkS3j) | [Neptis rivularis](https://open.spotify.com/album/0TzPBadsJD4KuphwpbXl8w) | 1:48 |
-| 100 | [love song](https://open.spotify.com/track/2H8VEt9t6fTApmR2WdI4PR) | [Helder Boutens](https://open.spotify.com/artist/66kU70xhLdbz9P5PUKljUE) | [love song](https://open.spotify.com/album/5DcrbNHusW1DQRuugdLdgV) | 2:05 |
+| 100 | [love song](https://open.spotify.com/track/7MF2wgf4zXyva3w3ntYm4X) | [Helder Boutens](https://open.spotify.com/artist/66kU70xhLdbz9P5PUKljUE) | [love song](https://open.spotify.com/album/7f6ek2nZdtjSQCce6L3jSn) | 2:05 |
 | 101 | [Conversation](https://open.spotify.com/track/4aH8Dv3waBBO328OEwW3yC) | [William Thomson](https://open.spotify.com/artist/0LX3VkUVbKepVNL5zLL4qa) | [As It Goes](https://open.spotify.com/album/5Go73tCDhE3gZgmyaUck2r) | 2:56 |
 | 102 | [dichotomie](https://open.spotify.com/track/5SDT5L3nJfX5s0grLhIY66) | [dichotomie](https://open.spotify.com/artist/421le6xvPSyAh8diWo9TYP) | [dichotomie](https://open.spotify.com/album/1oczN9M5wH4tLjj8xnzzmE) | 1:09 |
 | 103 | [Resting Heart](https://open.spotify.com/track/0lsc85G1bGzdR75sIvFj9I) | [Luca Verdant](https://open.spotify.com/artist/1fL5eZC34fv79A9eUbCkp7) | [Resting Heart](https://open.spotify.com/album/0puPIz195r3B1tDVVC1mdO) | 2:26 |
@@ -369,4 +369,4 @@ pretty - [cumulative](/playlists/cumulative/360efsjHeGOQCxim8gFlBc.md) - [plain]
 | 359 | [Two Years](https://open.spotify.com/track/5OXimoxINUI6lvCAGQqPDY) | [Jonas Hoffmann](https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP) | [Two Years](https://open.spotify.com/album/7Cpo5iK9QckXMTGdGhs0DD) | 2:08 |
 | 360 | [as the wind dances through the forest](https://open.spotify.com/track/58rT93fl1bbt6J4TvTVzJO) | [Cauzy](https://open.spotify.com/artist/2gA4dVQbXci5FwTVlqgphl) | [as the wind dances through the forest](https://open.spotify.com/album/12weKSiYCtIQQqLDWFAIig) | 3:05 |
 
-Snapshot ID: `AAAHPsMj199xHZkbCHifXncuiZO5hRk6`
+Snapshot ID: `AAAHRS7S1TZ0C9EusK5wgmjAJxqS2pc3`

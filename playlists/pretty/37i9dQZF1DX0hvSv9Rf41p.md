@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 
 > All things <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">bass</a>  🚀🚀 with Sub Focus & Grimes
 
-[Spotify](https://open.spotify.com/user/spotify) - 988,861 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 988,909 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 | 55 | [groovininininin](https://open.spotify.com/track/4W9FZn7bdsQr8CP8SFuNuP) | [TYNAN](https://open.spotify.com/artist/5oiSxivTCIoOk5UlMSwzWM), [Izadi](https://open.spotify.com/artist/74ldOkcio7YXoirKWjlBd0) | [groovininininin](https://open.spotify.com/album/5texkP0egoLdV0VwFdiiEO) | 2:35 |
 | 56 | [Yeke Yeke](https://open.spotify.com/track/2LIygs54xLMIOlpaLg8hFE) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF) | [Yeke Yeke](https://open.spotify.com/album/3lUmEiPqlKt0PdFNVfJcWV) | 4:16 |
 | 57 | [Curry Goat](https://open.spotify.com/track/0PsdtLApDW2Uk5ufs9nXy0) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Solesky](https://open.spotify.com/artist/68Qt3UOMYDriBgoq9NAATw) | [Curry Goat](https://open.spotify.com/album/5XZCh5gSJM8IIzgK7RFOfV) | 2:19 |
-| 58 | [HOOLIGANS](https://open.spotify.com/track/0bcoPdat6SIiixawZvWNws) | [GHENGAR](https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf), [Izzy Vadim](https://open.spotify.com/artist/3mEgLhTVxuUG4n1ezLNY5l) | [HOOLIGANS](https://open.spotify.com/album/4assuAhpOy71OEyYQqhIJT) | 2:07 |
+| 58 | [HOOLIGANS](https://open.spotify.com/track/0bcoPdat6SIiixawZvWNws) | [GHENGAR](https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf), [Izzy Vadim](https://open.spotify.com/artist/3mEgLhTVxuUG4n1ezLNY5l), [Ghastly](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [HOOLIGANS](https://open.spotify.com/album/4assuAhpOy71OEyYQqhIJT) | 2:07 |
 | 59 | [ON JOB](https://open.spotify.com/track/0QgRQ5uxzGcRFcjXU0bt9L) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH) | [ON JOB](https://open.spotify.com/album/0P8FoWrMOpB4JZWdvJzzvy) | 3:18 |
 | 60 | [Bonebreaker](https://open.spotify.com/track/5FQ5Ijl6HQsJYD6QaZseFo) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K) | [Bonebreaker](https://open.spotify.com/album/6rO5sbNtexE7Js3AZmVV7q) | 3:00 |
 | 61 | [Dingus](https://open.spotify.com/track/4xWXrhg0Vwc29lbeyHZsYt) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc), [LEVEL UP](https://open.spotify.com/artist/1ZpDxqXS6HAvoZyCzQfKRb) | [Dingus](https://open.spotify.com/album/0XHk4T6oko97C3cjIipb26) | 3:38 |

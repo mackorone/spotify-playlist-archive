@@ -4,7 +4,7 @@
 
 > The best tracks of 2025\. A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-5,440 songs - 12 day 16 hr 0 min
+5,443 songs - 12 day 16 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1622,6 +1622,7 @@
 | [First Time In Forever](https://open.spotify.com/track/5xuqO4eaU92gzXfj1KEuiA) | [Mars Lasar](https://open.spotify.com/artist/1Y5juAYDcY3pv167EIBwlk), [SlidV](https://open.spotify.com/artist/6UYUBOw0pUtH0cBNBYWubY) | [First Time In Forever](https://open.spotify.com/album/4faselaJ3EgwSoB1zIRG0I) | 3:47 | 2024-12-31 | 2025-01-11 |
 | [Fishbowl](https://open.spotify.com/track/5iFfqKG6ZLNO0twq9Bpl76) | [King Raw Dogg](https://open.spotify.com/artist/0UvojalTPmwLKuuT4WAfeD) | [Fishbowl](https://open.spotify.com/album/2hzmn5vtLvcSKMOCQuzuQF) | 2:30 | 2021-04-10 | 2021-04-26 |
 | [fishy](https://open.spotify.com/track/22J1NArXWxb8hfvPesqSb4) | [Adult Male Blondes](https://open.spotify.com/artist/0HtUAxyBejOiuecGjy2HGz) | [fishy](https://open.spotify.com/album/5NJxfkjVqY4Vg4FgQfBdqU) | 2:42 | 2025-06-20 | 2025-07-02 |
+| [Fitted Dress](https://open.spotify.com/track/7JL7B426UdkdTjiR5exBjv) | [Jah Gordy](https://open.spotify.com/artist/7vhU9v9k5lKGnq7It37m7e) | [Fitted Dress](https://open.spotify.com/album/15hekwYsao0XtMrTfvMYNH) | 2:49 | 2025-11-17 |  |
 | [Five 2 Five](https://open.spotify.com/track/57EZriaucxmxlMtOCw6vbS) | [Prince Prophet](https://open.spotify.com/artist/6EDYWb0tVCLQ0X4d2nfpsD) | [S3 Carter](https://open.spotify.com/album/2leVikrHEATpNAMaFRuILr) | 3:36 | 2024-07-02 | 2024-07-14 |
 | [Fixations](https://open.spotify.com/track/1DPtuwtUxem0qvTRXz2Rzt) | [JOS](https://open.spotify.com/artist/07IupuXv6tNTjb5xBo3P9a), [Ashdown](https://open.spotify.com/artist/0l6pyDkdaojMjTu5lAuJzE), [Spijk](https://open.spotify.com/artist/3KXJ7gaMIWeUQb3gY24idX) | [Fixations](https://open.spotify.com/album/3zphZDeM17LCk8RwmJV34t) | 3:13 | 2024-01-05 | 2024-01-19 |
 | [Fiyah](https://open.spotify.com/track/33G8UNApZc1wizedNUbYOX) | [Angel + Dren](https://open.spotify.com/artist/6Ye3j17VAZMvh1v24l1hXc) | [Fiyah](https://open.spotify.com/album/3eVagZhjuvBs4gzIRKKI6C) | 2:23 | 2024-08-06 | 2024-08-15 |
@@ -2091,6 +2092,7 @@
 | [Hold On \(Change Is Comin'\)](https://open.spotify.com/track/3hl063NQxiuWyymhgaLf92) | [Sounds Of Blackness](https://open.spotify.com/artist/0a0l3QVhfMwQNAO4wPAmP9) | [Time For Healing](https://open.spotify.com/album/4hXec8HEn4R03xC3n2JDlf) | 4:20 | 2019-09-29\* | 2021-11-19 |
 | [Hold on to Me](https://open.spotify.com/track/7HfDcoZpW64alWikM7SWby) | [BAYWUD](https://open.spotify.com/artist/3dDdngfjnuthfO2OPYRZqz) | [Hold on to Me](https://open.spotify.com/album/4hNDyFz5uInKoR5FHpGyM3) | 3:40 | 2023-01-20 | 2023-02-11 |
 | [Hold Tight](https://open.spotify.com/track/4q7Vak7esNrzPQeDGT42qE) | [Bronx Soul Collective](https://open.spotify.com/artist/780eu4RGJcEvncrGnujoiW) | [Hold Tight](https://open.spotify.com/album/0YeN1Ug8pkXggdCg0ITvsD) | 3:16 | 2024-10-14 | 2024-10-26 |
+| [Hold You](https://open.spotify.com/track/0X5obnBCTtXdhJgTwuJ1L5) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Hold You](https://open.spotify.com/album/7spbRt9SqbU9ixAhhTGMyW) | 3:05 | 2025-11-17 |  |
 | [Hold Your Lights Up](https://open.spotify.com/track/2BaoHGdwp5JVfqD9se6Un8) | [Kugman](https://open.spotify.com/artist/1KznfqgZOIhm5NpIC3IbzK) | [In My Way](https://open.spotify.com/album/4P7Xx3jrgtmrfsBU5ZFNFZ) | 4:24 | 2020-12-04 | 2020-12-19 |
 | [Holding Back the Years \- 2008 Remaster](https://open.spotify.com/track/1yg7fwwYmx9DQ2TdXUmfpJ) | [Simply Red](https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8) | [Picture Book \(Expanded Version\)](https://open.spotify.com/album/4pk3tltFMVlT06MLJfmWTT) | 4:29 | 2021-07-11 | 2024-04-21 |
 | [Holiday](https://open.spotify.com/track/0aF6uG5TmGKHdw3npNzoYm) | [Arianna Tsar](https://open.spotify.com/artist/62cSPuCVcFqdRrMMyguEC0) | [Holiday](https://open.spotify.com/album/0YhuSxNLbuesVoHZ4mgLQk) | 4:06 | 2023-12-01 | 2023-12-19 |
@@ -2437,6 +2439,7 @@
 | [It's Raining Somewhere \(Remastered\)](https://open.spotify.com/track/6P7TOAZpY2ISInHEvlnlR5) | [Wayne Merdinger](https://open.spotify.com/artist/6UCVec7pS1YaAJLOviGnvG) | [Hidden Gems](https://open.spotify.com/album/2LzDsZWKJRWNCkvP2QIdBZ) | 4:12 | 2023-08-05 | 2023-08-28 |
 | [It's You](https://open.spotify.com/track/3Z6llVBscKwFd5SojQuFOA) | [BoyCaro](https://open.spotify.com/artist/4TyhSSi5hBeK9WTo6qSmBc) | [It's You](https://open.spotify.com/album/2dQMOs2fbniaT9roOMJ1PM) | 2:20 | 2021-12-10 | 2021-12-27 |
 | [It's You](https://open.spotify.com/track/5gPiUutNldJNrjye7mJafL) | [Gavriel](https://open.spotify.com/artist/4uZYkecG20FolZDNjrB2US) | [What I've Found](https://open.spotify.com/album/2QWfWlbGrrNtT3LR03hYys) | 3:30 | 2020-08-03 | 2020-08-20 |
+| [It's Your Thing](https://open.spotify.com/track/2UHFRqS7rewxOuDYsIWpdj) | [The Gold Souls](https://open.spotify.com/artist/6xA6MgahVEsOPTP5JUSehs) | [It's Your Thing](https://open.spotify.com/album/1he9kEH4YW8HW60xABC8fb) | 6:11 | 2025-11-17 |  |
 | [ithinkilikeu](https://open.spotify.com/track/66MwqT9J5WEncDlM1oUS2E) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [ithinkilikeu](https://open.spotify.com/album/3xnv86dTt22Ebu2bsjKFSp) | 1:54 | 2021-10-16 | 2021-10-31 |
 | [Its Way With Me](https://open.spotify.com/track/4ozdSH2MuFoABtDWa4S1mJ) | [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB) | [Its Way With Me](https://open.spotify.com/album/7JvQaezYGVWAlEt079zFvB) | 4:36 | 2021-07-11 | 2024-04-21 |
 | [Itsa Bop Itsa Jam](https://open.spotify.com/track/5qlHhQiH0snGWhRTdydTvi) | [& AnD &](https://open.spotify.com/artist/2HMl1AHiQpQfDZwFreWpI1) | [The Odyssey](https://open.spotify.com/album/6ZjDRprx7UgL6a2kqqbidd) | 3:00 | 2024-05-21 | 2024-06-01 |

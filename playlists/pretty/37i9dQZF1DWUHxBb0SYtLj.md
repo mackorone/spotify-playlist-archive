@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 
 > Artiste italiane da ascoltare a tutto volume 🔊 Cover: Mia Martini
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,268 likes - 70 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,265 likes - 69 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,14 +69,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 | 59 | [Da domani cosa farai?](https://open.spotify.com/track/54kkMJ3j6PwYZ1B71AiAFI) | [svegliaginevra](https://open.spotify.com/artist/0mNU2jWtQEYmhBjWtWTBBS) | [Da domani cosa farai?](https://open.spotify.com/album/14kgrXT2gbWNEAnBTQO00f) | 3:33 |
 | 60 | [Söldi/Fögli](https://open.spotify.com/track/5PXOHsD9mdltk94HhreLTh) | [Clamö](https://open.spotify.com/artist/3NHMeAt6gT8bx5Pru8n1jR) | [Söldi/Fögli](https://open.spotify.com/album/2ZWsDZloi74V8Ixt2rrOjJ) | 2:30 |
 | 61 | [Settembre ti perdonerò anche se](https://open.spotify.com/track/3yJSb76nbOlK3iZKMxzQR7) | [Nuvola](https://open.spotify.com/artist/1DxW7i7SZhmYiNxXIYbV79) | [Settembre ti perdonerò anche se](https://open.spotify.com/album/7LtrScZDATq4zXff91Mog4) | 3:20 |
-| 62 | [XXX](https://open.spotify.com/track/4RCJFBSdsqhyGxxUbpX0gI) | [Evissimax](https://open.spotify.com/artist/3KRbZfhEbntEDFNV3b48Cv) | [XXX](https://open.spotify.com/album/1ERIBF7nbJRRLplG0yz1f4) | 4:31 |
-| 63 | [Paradiso](https://open.spotify.com/track/1APwnXntnMEakvngEmepiL) | [Ilaria Graziano](https://open.spotify.com/artist/57WViMLL9KfooFkVKsyODr) | [Paradiso](https://open.spotify.com/album/2oU2zgrbm8TDGrpf1at9VV) | 3:13 |
-| 64 | [secondo posto](https://open.spotify.com/track/4LBuAVcOYHOJKuP7QdtWGX) | [gnvra](https://open.spotify.com/artist/0HdDGvPohyWskzqRBOWU4S) | [secondo posto](https://open.spotify.com/album/0HugUnklTBUhW5DKkRJSGu) | 2:20 |
-| 65 | [Futuro](https://open.spotify.com/track/3H9dnTQPRHJZwU8Ib4xcXD) | [Alice Robber](https://open.spotify.com/artist/1XSsPUO3YEM8zHWm25Luy2) | [Futuro](https://open.spotify.com/album/7q4ROjXmFjfcxbOD8peCec) | 2:52 |
-| 66 | [bossa x averti](https://open.spotify.com/track/0kuxx3OVvj9YqnCSbOCFRq) | [Diora Madama](https://open.spotify.com/artist/7wOA7etbtOByr52HImiMI2) | [bossa x averti](https://open.spotify.com/album/1qC5o8vG2jk3ONKylbtM0l) | 2:50 |
-| 67 | [lasolitudinefafarecosestupide](https://open.spotify.com/track/1paQ84Xx1gCERH9igQy6vf) | [bhadmari](https://open.spotify.com/artist/22byg3Xzd14XU81AgdRvOG) | [lasolitudinefafarecosestupide](https://open.spotify.com/album/3Nc9qoIDFJtZHT17rcLZqD) | 3:22 |
-| 68 | [ORE ORE ORE](https://open.spotify.com/track/6FJfsnvnoAk7QfdSvh2SzF) | [Aria](https://open.spotify.com/artist/3QptZmsuqUYGVDlrC02wdD) | [ORE ORE ORE](https://open.spotify.com/album/5aHW7ZOyYjWBtZidDnOCuV) | 2:19 |
-| 69 | [Quanto Tempo](https://open.spotify.com/track/6yZSB4XbuS0mLfpTQccIlV) | [MilleAlice](https://open.spotify.com/artist/7wtk4d8GuaMqOjPReuhlTa) | [Quanto Tempo](https://open.spotify.com/album/2tH8YFBWs1lmuwbPznubEZ) | 3:15 |
-| 70 | [TUTTO](https://open.spotify.com/track/1VTZb9UnIZ1eg5Mk3UJrce) | [Greta Grida](https://open.spotify.com/artist/5aTaVTuJx0xzt4guFjsPBc) | [TUTTO](https://open.spotify.com/album/0XUaNses2mBIyFhxiDoP5p) | 2:28 |
+| 62 | [Paradiso](https://open.spotify.com/track/1APwnXntnMEakvngEmepiL) | [Ilaria Graziano](https://open.spotify.com/artist/57WViMLL9KfooFkVKsyODr) | [Paradiso](https://open.spotify.com/album/2oU2zgrbm8TDGrpf1at9VV) | 3:13 |
+| 63 | [secondo posto](https://open.spotify.com/track/4LBuAVcOYHOJKuP7QdtWGX) | [gnvra](https://open.spotify.com/artist/0HdDGvPohyWskzqRBOWU4S) | [secondo posto](https://open.spotify.com/album/0HugUnklTBUhW5DKkRJSGu) | 2:20 |
+| 64 | [Futuro](https://open.spotify.com/track/3H9dnTQPRHJZwU8Ib4xcXD) | [Alice Robber](https://open.spotify.com/artist/1XSsPUO3YEM8zHWm25Luy2) | [Futuro](https://open.spotify.com/album/7q4ROjXmFjfcxbOD8peCec) | 2:52 |
+| 65 | [bossa x averti](https://open.spotify.com/track/0kuxx3OVvj9YqnCSbOCFRq) | [Diora Madama](https://open.spotify.com/artist/7wOA7etbtOByr52HImiMI2) | [bossa x averti](https://open.spotify.com/album/1qC5o8vG2jk3ONKylbtM0l) | 2:50 |
+| 66 | [lasolitudinefafarecosestupide](https://open.spotify.com/track/1paQ84Xx1gCERH9igQy6vf) | [bhadmari](https://open.spotify.com/artist/22byg3Xzd14XU81AgdRvOG) | [lasolitudinefafarecosestupide](https://open.spotify.com/album/3Nc9qoIDFJtZHT17rcLZqD) | 3:22 |
+| 67 | [ORE ORE ORE](https://open.spotify.com/track/6FJfsnvnoAk7QfdSvh2SzF) | [Aria](https://open.spotify.com/artist/3QptZmsuqUYGVDlrC02wdD) | [ORE ORE ORE](https://open.spotify.com/album/5aHW7ZOyYjWBtZidDnOCuV) | 2:19 |
+| 68 | [Quanto Tempo](https://open.spotify.com/track/6yZSB4XbuS0mLfpTQccIlV) | [MilleAlice](https://open.spotify.com/artist/7wtk4d8GuaMqOjPReuhlTa) | [Quanto Tempo](https://open.spotify.com/album/2tH8YFBWs1lmuwbPznubEZ) | 3:15 |
+| 69 | [TUTTO](https://open.spotify.com/track/1VTZb9UnIZ1eg5Mk3UJrce) | [Greta Grida](https://open.spotify.com/artist/5aTaVTuJx0xzt4guFjsPBc) | [TUTTO](https://open.spotify.com/album/0XUaNses2mBIyFhxiDoP5p) | 2:28 |
 
-Snapshot ID: `AAAAABRzHEhfT4KIq2vQoCHhMu5JwEvR`
+Snapshot ID: `AAAAAJg3BiVLLahj1KZD+YpHMl4+jX7Q`

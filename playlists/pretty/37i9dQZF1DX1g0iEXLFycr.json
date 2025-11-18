@@ -1,6 +1,6 @@
 {
   "description": "Uplifting anthems to power you through 'til the weekend.",
-  "num_followers": 1073076,
+  "num_followers": 1073041,
   "original_name": "Feel Good Friday",
   "owner": {
     "name": "Spotify",
@@ -899,6 +899,22 @@
     {
       "added_at": "2024-03-22 16:40:22",
       "album": {
+        "name": "Sunchyme",
+        "url": "https://open.spotify.com/album/6TtZuP1WRvIScmqLlUwet2"
+      },
+      "artists": [
+        {
+          "name": "Dario G",
+          "url": "https://open.spotify.com/artist/3Eo78i1MPfle0XVjMvia8A"
+        }
+      ],
+      "duration_ms": 235850,
+      "name": "Sunchyme",
+      "url": "https://open.spotify.com/track/2YOuBWIyHgyvHnLMpjzBf2"
+    },
+    {
+      "added_at": "2024-03-22 16:40:22",
+      "album": {
         "name": "Brighter Days",
         "url": "https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 201637,
       "name": "Sweet Lovin' - Radio Edit",
       "url": "https://open.spotify.com/track/1qp0ptMXNg9hqLH8sk7cc2"
-    },
-    {
-      "added_at": "2024-03-22 16:40:22",
-      "album": {
-        "name": "Sunchyme",
-        "url": "https://open.spotify.com/album/6TtZuP1WRvIScmqLlUwet2"
-      },
-      "artists": [
-        {
-          "name": "Dario G",
-          "url": "https://open.spotify.com/artist/3Eo78i1MPfle0XVjMvia8A"
-        }
-      ],
-      "duration_ms": 235850,
-      "name": "Sunchyme",
-      "url": "https://open.spotify.com/track/2YOuBWIyHgyvHnLMpjzBf2"
     },
     {
       "added_at": "2024-03-22 16:40:22",

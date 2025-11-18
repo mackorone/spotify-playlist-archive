@@ -1,13 +1,29 @@
 {
   "description": "A weekly selection of tracks that I love to listen to at home or play out at a party.",
-  "num_followers": 282060,
+  "num_followers": 282037,
   "original_name": "Martin Garrix Radio",
   "owner": {
     "name": "Martin Garrix",
     "url": "https://open.spotify.com/user/martingarrix"
   },
-  "snapshot_id": "AAAIgoALcEaMCWdI6H7iMi3nIV1UfIoS",
+  "snapshot_id": "AAAIg6PM/k9WnztjkuSff/Qmrz9BNv4a",
   "tracks": [
+    {
+      "added_at": "2025-11-17 10:55:05",
+      "album": {
+        "name": "Beam Me Up",
+        "url": "https://open.spotify.com/album/3nU5jtvFu1yazyWAidRXKn"
+      },
+      "artists": [
+        {
+          "name": "Quality G",
+          "url": "https://open.spotify.com/artist/6XzdLgg33plw86GuctSuAh"
+        }
+      ],
+      "duration_ms": 168750,
+      "name": "Beam Me Up",
+      "url": "https://open.spotify.com/track/2tz34C7OUcsNC7Q09TeYqi"
+    },
     {
       "added_at": "2025-11-01 12:21:15",
       "album": {

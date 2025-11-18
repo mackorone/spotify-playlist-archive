@@ -4,7 +4,7 @@
 
 > Sayf, Artie e Guè in cover della playlist urban più grande d'Italia 🔥
 
-913 songs - 1 day 20 hr 23 min
+914 songs - 1 day 20 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -368,7 +368,7 @@
 | [GURU DEL BUSINESS](https://open.spotify.com/track/0IqoqvFdmvnHaOtKUJZ2Rw) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [GURU DEL BUSINESS](https://open.spotify.com/album/1BsmAW3BDFNwytA8TJ30t2) | 2:13 | 2023-12-07 | 2024-01-12 |
 | [Habibi](https://open.spotify.com/track/4RqqST6XJU7zJJkXKlP81d) | [Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu) | [Habibi](https://open.spotify.com/album/1KDX75fwsL4wpLAjzqCpHH) | 3:06 | 2025-10-23 | 2025-11-07 |
 | [Hace Calor \- Remix](https://open.spotify.com/track/3h043RAJ7tKaG1HDFeet6w) | [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Hace Calor \(Remix\)](https://open.spotify.com/album/1ScrZWEue2DdYU8aj9AiSF) | 4:07 | 2022-06-09 | 2022-11-09 |
-| [HAPPINESS](https://open.spotify.com/track/4h5JQTc5HEDYUGRS0dM7pT) | [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9), [IvanBi](https://open.spotify.com/artist/0bmPz6WAJMsuDLY5QtSYtg) | [HAPPINESS](https://open.spotify.com/album/2n28fhR5NPZhNlXtKy6Zi4) | 3:00 | 2025-10-20 |  |
+| [HAPPINESS](https://open.spotify.com/track/4h5JQTc5HEDYUGRS0dM7pT) | [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9), [IvanBi](https://open.spotify.com/artist/0bmPz6WAJMsuDLY5QtSYtg) | [HAPPINESS](https://open.spotify.com/album/2n28fhR5NPZhNlXtKy6Zi4) | 3:00 | 2025-10-20 | 2025-11-18 |
 | [HARDER \(feat\. Low\-Red\)](https://open.spotify.com/track/5qLvcq1BMgwj5jMKuIYRGQ) | [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41), [Low\-Red](https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N) | [HARDER \(feat\. Low\-Red\)](https://open.spotify.com/album/14FuU4isEL7dte8A4GQNNc) | 2:56 | 2025-02-06 | 2025-05-03 |
 | [HASTA LA MUERTE](https://open.spotify.com/track/7rb3Fo6N2NhbsBlCtNjYUk) | [Capozanarky](https://open.spotify.com/artist/4L2hq3OboU70UVsqOrU6qt) | [HASTA LA MUERTE](https://open.spotify.com/album/7BO0UzQeDgHK3g1rYcw4M5) | 2:34 | 2025-03-24 | 2025-05-30 |
 | [HATTORI HANZO \(feat\. Madame\)](https://open.spotify.com/track/5e6Qu6LyjBJ3xROHLhwcTT) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [RADIO SAKURA](https://open.spotify.com/album/5MHSMa7gBXLoOGIPbNtOCo) | 2:46 | 2024-03-07 | 2024-05-10 |
@@ -910,6 +910,7 @@
 | [WHY U MAD](https://open.spotify.com/track/7dYgUWAIXFUniq5S2OkDZC) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [VERA BADDIE](https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2) | 2:05 | 2024-12-06 | 2025-05-16 |
 | [WIFEY \(feat\. Guè\)](https://open.spotify.com/track/1me6JiCLFU4Cr2Mlh19uJl) | [Digital Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [WIFEY \(feat\. Guè\)](https://open.spotify.com/album/4iax1wFoOMb9vTL7lQJzv6) | 3:09 | 2024-06-17 | 2024-09-06 |
 | [Wop Wop \(feat\. Shiva\)](https://open.spotify.com/track/7LjhTVncMxoH9X6KMWECgq) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF) | [Mafia Slime 2](https://open.spotify.com/album/3lWXS1KGNgGSvBU9lpwkFI) | 3:03 | 2025-01-16 | 2025-05-23 |
+| [WROØM WROØM](https://open.spotify.com/track/60ZDfFRHuY7UB0Dxq9HO8d) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [WROØM WROØM](https://open.spotify.com/album/1isHPLHhzEpxcMkqeCate7) | 3:26 | 2025-11-17 |  |
 | [X CASO \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/2E32Pv8w20r6ZH4oFecxOf) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [IL CORAGGIO DEI BAMBINI](https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K) | 3:35 | 2023-01-05 | 2023-10-27 |
 | [YAMAL](https://open.spotify.com/track/5OUW8dccdPD4bAmQHXa4Dy) | [Le\-one](https://open.spotify.com/artist/5Otk4eRecMMbC5YR4Iliou) | [YAMAL](https://open.spotify.com/album/49EEeGx2No1LAqcPsKVwlg) | 2:07 | 2025-07-21 |  |
 | [YAMAMAY](https://open.spotify.com/track/6P68S7IrfuDyXOmhUpwvxZ) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg) | [YAMAMAY](https://open.spotify.com/album/4yMQk3qc1pbUOLjgRN1gIB) | 2:42 | 2023-03-07 | 2023-07-29 |

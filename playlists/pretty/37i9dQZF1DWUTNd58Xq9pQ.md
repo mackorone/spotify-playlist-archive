@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTNd58Xq9pQ.md) - [plain]
 
 > Relive False Idols at Drumsheds 2024!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,698 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,699 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTNd58Xq9pQ.md) - [plain]
 | 44 | [Don't Bother Me](https://open.spotify.com/track/7sU97fZkuTXnQsv4qkUZIJ) | [SYREETA](https://open.spotify.com/artist/6NLeKpbb77Bgp6hPZjf6KJ) | [Don't Bother Me EP](https://open.spotify.com/album/5il50KYizwMVqyiiVwJrFE) | 3:30 |
 | 45 | [Brat](https://open.spotify.com/track/0NVnlAuLfKeOxK0sxvJFKI) | [J Wax](https://open.spotify.com/artist/32UMn8JWwIcnJp5P7G61UQ), [LN](https://open.spotify.com/artist/7G6Tv0i12NplnOB2nbwiAJ) | [Brat/Nasty](https://open.spotify.com/album/19gN9RaefCtvZoGUZc8YLC) | 2:32 |
 | 46 | [Honey Child](https://open.spotify.com/track/4s8pYCTyKtpW6InPbyxj8O) | [Ammara](https://open.spotify.com/artist/7GqNimUoiYFht4cYL0cT0I) | [Honey Child](https://open.spotify.com/album/4QXPVtv2HI92XulT9TsS71) | 2:31 |
-| 47 | [Slay 4 Me \(feat\. Jesse Fields\) \- Edit](https://open.spotify.com/track/2ycAx22Kc8PJNVY1cyTcON) | [Baby Weight](https://open.spotify.com/artist/48OPpTnWriqiSMnOsqII4T), [Jesse Fields](https://open.spotify.com/artist/2B9buLG6jo5TbMDupYNPQe) | [It's Giving EP](https://open.spotify.com/album/0gAE7755ojE0IEmFuKdlGQ) | 3:39 |
-| 48 | [Chez Moi \(Waiting For You\) \- Club Mix](https://open.spotify.com/track/1lZ6m220kXb3EFvnjzFbyo) | [CC:DISCO!](https://open.spotify.com/artist/37fxVoFAMzet5CiiDg7SL7), [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Chez Moi \(Waiting For You\)](https://open.spotify.com/album/5HwZIHl2vkaEGzuvNorz84) | 6:25 |
+| 47 | [Chez Moi \(Waiting For You\) \- Club Mix](https://open.spotify.com/track/1lZ6m220kXb3EFvnjzFbyo) | [CC:DISCO!](https://open.spotify.com/artist/37fxVoFAMzet5CiiDg7SL7), [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Chez Moi \(Waiting For You\)](https://open.spotify.com/album/5HwZIHl2vkaEGzuvNorz84) | 6:25 |
+| 48 | [Slay 4 Me \(feat\. Jesse Fields\) \- Edit](https://open.spotify.com/track/2ycAx22Kc8PJNVY1cyTcON) | [Baby Weight](https://open.spotify.com/artist/48OPpTnWriqiSMnOsqII4T), [Jesse Fields](https://open.spotify.com/artist/2B9buLG6jo5TbMDupYNPQe) | [It's Giving EP](https://open.spotify.com/album/0gAE7755ojE0IEmFuKdlGQ) | 3:39 |
 | 49 | [BRAND NEW BITCH](https://open.spotify.com/track/13DNuiQyuTDcAw6Y8thZFM) | [Cobrah](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [BRAND NEW BITCH](https://open.spotify.com/album/6xMnRBIpa2x3M40yVkGMBb) | 3:16 |
 | 50 | [Tryna Call \- Me n U \- Mixed](https://open.spotify.com/track/5qWCGBGmnHi6Lcz47IYspB) | [Felix Geith](https://open.spotify.com/artist/52wus9Sd4fER2u5lP26mku) | [Mixmag Presents Logic1000](https://open.spotify.com/album/5RtXdNzE9CUqaAvzgDhi1X) | 3:26 |
 

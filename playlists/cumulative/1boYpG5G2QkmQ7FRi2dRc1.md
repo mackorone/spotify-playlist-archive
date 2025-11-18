@@ -4,7 +4,7 @@
 
 > A weekly selection of tracks that I love to listen to at home or play out at a party.
 
-2,739 songs - 6 day 22 hr 59 min
+2,740 songs - 6 day 23 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,6 +237,7 @@
 | [Be Someone \(feat\. Ray X Ben\) \- SHKHR Remix](https://open.spotify.com/track/09h133vBONSwi2yEMOBTjJ) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [Schillist](https://open.spotify.com/artist/2qvWyc9Z0oHK156P65vH4d), [Benny Morrell](https://open.spotify.com/artist/1s4B6fb9iNflnlOFKIn5q9), [SHKHR](https://open.spotify.com/artist/1ZEJTNLYcquv69asSb1G13) | [Be Someone \(feat\. Ray X Ben\) \[Remixes\]](https://open.spotify.com/album/4xNHzkESE2CWecbcJrs5oc) | 3:06 | 2023-01-06 | 2023-01-29 |
 | [Be The First One](https://open.spotify.com/track/0UsBpozOiItwFrErgLkDAh) | [Caius](https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi), [NYAROL](https://open.spotify.com/artist/378ilmifyE7FfICFkwlAD7) | [Be The First One](https://open.spotify.com/album/5yNthIBAghTkSfRTtDKd8k) | 2:43 | 2025-05-10 | 2025-05-18 |
 | [Be With Me](https://open.spotify.com/track/1sBLUfsMLocIH1vc1uGYLD) | [Love Remain](https://open.spotify.com/artist/5ELuqqizVx5FdajBcrBckx) | [Be With Me](https://open.spotify.com/album/5fyOAPwp4N5TJUjuiGBPcv) | 4:34 | 2022-12-03 | 2023-01-07 |
+| [Beam Me Up](https://open.spotify.com/track/2tz34C7OUcsNC7Q09TeYqi) | [Quality G](https://open.spotify.com/artist/6XzdLgg33plw86GuctSuAh) | [Beam Me Up](https://open.spotify.com/album/3nU5jtvFu1yazyWAidRXKn) | 2:48 | 2025-11-17 |  |
 | [Beat Drop](https://open.spotify.com/track/10DLpyqHKLi9txUHPZjkhF) | [Jarv Dee](https://open.spotify.com/artist/1sAKNLVFmAmxaurWLdmu1u), [Bad Colours](https://open.spotify.com/artist/0x3KkCJuve7n51ThZGNAIX) | [Beat Drop](https://open.spotify.com/album/6RD0bjZAAj2yjBhTYGqWpu) | 4:14 | 2023-06-30 | 2023-07-08 |
 | [Beat Fantasy](https://open.spotify.com/track/3RWYv4VkjSBI1AMXc2YOpa) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Beat Fantasy](https://open.spotify.com/album/5I8Ms0FKL9CkKVTM5fjBDy) | 3:07 | 2024-08-30 | 2024-09-14 |
 | [Beat Of The Drum](https://open.spotify.com/track/5maUP6kkmNTMtoKNxstN7T) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Beat Of The Drum](https://open.spotify.com/album/4HFWXFBNtVdC4JuRJRI7LC) | 2:54 | 2025-03-07 | 2025-03-23 |

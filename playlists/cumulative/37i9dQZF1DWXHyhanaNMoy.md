@@ -4,7 +4,7 @@
 
 > Motion & good vibes! Cover: Kish ✨
 
-1,565 songs - 2 day 21 hr 34 min
+1,566 songs - 2 day 21 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -739,6 +739,7 @@
 | [La Coqueta](https://open.spotify.com/track/2s6PayqjpmEj7uepUyyeW1) | [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD), [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [Lion Fiah](https://open.spotify.com/artist/4MvQy0WYny2XpZdGzpxZzN), [Bay\-C](https://open.spotify.com/artist/21ciCl1i66cJdB0owlmyQ8) | [La Coqueta](https://open.spotify.com/album/0J4w81GYvgqJTJd6Omry1E) | 2:20 | 2023-11-09 | 2023-12-08 |
 | [LA HORA Y EL DÍA](https://open.spotify.com/track/1j4yhkxSCEDmiLVKjpYKWq) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [LA HORA Y EL DÍA](https://open.spotify.com/album/3AucKVb9GvQ4pOGaZ8UhFK) | 3:37 | 2023-02-20 | 2023-03-25 |
 | [La Jefa \(feat\. JMReal\)](https://open.spotify.com/track/6MkJl9joujz9BMSGLCDoee) | [BuenosDiaz](https://open.spotify.com/artist/3qMCibsPjK04k9BAijQCRM), [Jones Suave](https://open.spotify.com/artist/0lui1pVpLAap3nxrMXmFwo), [Alazar](https://open.spotify.com/artist/02QNUJxKwMO7HqOFL7zTIR), [JMReal](https://open.spotify.com/artist/7mvbWbf9G6FoiQhzJJ9Mem) | [La Jefa \(feat\. JMReal\)](https://open.spotify.com/album/1ecw7HHkrChFjqUK6roDUO) | 2:28 | 2022-07-28 | 2022-08-26 |
+| [La Nostra Gigi](https://open.spotify.com/track/4INwyQpPaIBW5UeZcaOlpQ) | [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q), [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC), [Dylisa](https://open.spotify.com/artist/1EZhPZUiU6c52gOAZLIcR2) | [La Nostra Gigi](https://open.spotify.com/album/1X50uSbMgyZ53jPgFgxFET) | 2:05 | 2025-11-17 |  |
 | [La Plena \- W Sound 05](https://open.spotify.com/track/6iOndD4OFo7GkaDypWQIou) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [La Plena \(W Sound 05\)](https://open.spotify.com/album/4Xdo78uvvt1P7rWRX8TOPt) | 2:30 | 2025-03-20 | 2025-10-31 |
 | [La Vida](https://open.spotify.com/track/5KfzlufnFri1aWcQZY2RY5) | [KILATE TESLA](https://open.spotify.com/artist/3aO2Q4cXKGxsh87bX4Oavo) | [La Vida](https://open.spotify.com/album/5Dc3GyedlXR6CcBzFXCCa3) | 3:05 | 2025-05-01 | 2025-05-30 |
 | [La Vida Loca](https://open.spotify.com/track/2In3xN9kujyxAWIz54jpxf) | [Alessio](https://open.spotify.com/artist/6gFuwMAaoJDU6M3c8UHcAj), [Avenue](https://open.spotify.com/artist/5NBiiazDZXAGReVI4U3hPw) | [La Vida Loca](https://open.spotify.com/album/5tT02kwcuk7v5Jdgnmpqzc) | 2:01 | 2023-03-02 | 2023-03-31 |

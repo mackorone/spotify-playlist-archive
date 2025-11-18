@@ -4,7 +4,7 @@
 
 > The exciting new music on our radar in the Middle East and North Africa\.  Cover: Nour
 
-166 songs - 8 hr 47 min
+167 songs - 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Baadek Bizakerti](https://open.spotify.com/track/583BG3e4wpZzkwJTPbQc2W) | [Chris Moussa](https://open.spotify.com/artist/72DLvyPzbU6R4NZel6MaX5) | [Baadek Bizakerti](https://open.spotify.com/album/5CGX6rOvDdKLcB7usNXyNH) | 3:16 | 2022-06-24 | 2025-01-30 |
 | [Balak](https://open.spotify.com/track/5x7LMsSBWbQlLnmxF3U5PC) | [zeyne](https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf), [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Balak](https://open.spotify.com/album/2I2lamkjFbeLFLUEcH8SAc) | 3:04 | 2022-07-14 | 2024-05-15 |
 | [Bara L Koon](https://open.spotify.com/track/7fc5zsFu2iemGf2GTgx95z) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Bara L Koon](https://open.spotify.com/album/6iZPXJKS4cATmFcegbKjrL) | 2:48 | 2024-05-02 |  |
-| [Barki Byesmaani](https://open.spotify.com/track/0pdY5q4BOh6GflEQrC3PJy) | [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8) | [Barki Byesmaani](https://open.spotify.com/album/08QoXsgdXFkqowiniOio2x) | 1:54 | 2025-02-10 |  |
+| [Barki Byesmaani](https://open.spotify.com/track/0pdY5q4BOh6GflEQrC3PJy) | [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8) | [Barki Byesmaani](https://open.spotify.com/album/08QoXsgdXFkqowiniOio2x) | 1:54 | 2025-02-10 | 2025-11-18 |
 | [Baya3 Kalam](https://open.spotify.com/track/0lcWmChbpTnXfrKnHLZtV5) | [Nabil](https://open.spotify.com/artist/4Rl8onVZp4QFiYARW298WD) | [Baya3 Kalam](https://open.spotify.com/album/4CSz0T7gbSOJYpzTkqOnZn) | 3:36 | 2022-06-24 | 2022-11-09 |
 | [Believer](https://open.spotify.com/track/4dXqIN9cZV5mKpD08gLkxE) | [Hamza Hawsawi](https://open.spotify.com/artist/2ZfxDAzauSIxjmFaQLsoLu) | [Believer](https://open.spotify.com/album/72O6heLEI3Nah3M3lYxDWn) | 3:51 | 2022-06-24 | 2022-11-09 |
 | [By The Sea](https://open.spotify.com/track/2TGQUjLw3zVxZgDWikfRzU) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [By The Sea](https://open.spotify.com/album/2HSbIrnOW1cdvwnhsiRkBS) | 2:50 | 2022-06-24 | 2024-05-15 |
@@ -97,6 +97,7 @@
 | [Met3ala2 Beeky](https://open.spotify.com/track/5HS17JQ7GlTOZrensjIbNO) | [Ahmed El Ruby](https://open.spotify.com/artist/4bYHqS5oBc6Jk8LfjbbWTf) | [Met3ala2 Beeky](https://open.spotify.com/album/6l9K0N3YqtarzoeDyyWwh7) | 3:20 | 2022-06-24 | 2023-06-07 |
 | [Mimti](https://open.spotify.com/track/6MZ3lIqUARBkZEDERr6tlF) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [Mimti](https://open.spotify.com/album/0YVkrsk7cyE1xhrKDhpqWv) | 3:18 | 2024-01-09 |  |
 | [Momken Aeesh](https://open.spotify.com/track/53ossgJfdQhNVoVBPKd4Qz) | [Haneen Hussain](https://open.spotify.com/artist/4CmKKm9NdvAUNGjpc3LjJJ) | [Momken Aeesh](https://open.spotify.com/album/3Lcv7m0jw02fisyQPh7qmQ) | 4:47 | 2025-02-10 |  |
+| [MSKA D'SCHWEPPES](https://open.spotify.com/track/4ZTJMTiZK1O4KjixJGzDnu) | [Shinigami](https://open.spotify.com/artist/0ENNdQNQ6dlTit1exQNrL0) | [MSKA D'SCHWEPPES](https://open.spotify.com/album/7MIntEpAZYDeb2tDHkgXmY) | 3:15 | 2025-11-17 |  |
 | [my secrets](https://open.spotify.com/track/2FUMEJlBFVUaa8ikJD29lF) | [1Take](https://open.spotify.com/artist/52NTEGHT81WhaH9Npafc0G) | [my secrets](https://open.spotify.com/album/0OOKu50qAAcHsgNUUvHXI1) | 4:32 | 2023-10-05 | 2024-04-19 |
 | [Nasser](https://open.spotify.com/track/6JcdmDmB9EV7wFYxbwa8xa) | [Nasser](https://open.spotify.com/artist/2oVmRIBicoQpEtrwww7dJO), [Kay](https://open.spotify.com/artist/2ZizUpffI2ErDfcsqrRGoG) | [Nasser](https://open.spotify.com/album/6f8XAV4PBmAmbP3OPwR7ST) | 2:52 | 2025-03-24 |  |
 | [NDAM!](https://open.spotify.com/track/2ITBHhygkMRvqD5D3IPCz5) | [Najm](https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI) | [NDAM!](https://open.spotify.com/album/5gIn00hPqJbYfENYCSJG3m) | 3:23 | 2025-01-29 |  |

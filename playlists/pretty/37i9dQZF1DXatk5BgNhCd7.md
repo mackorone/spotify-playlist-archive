@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Todo lo nuevo de música tropical 📸  Sting & Juan Luis Guerra
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,647 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,698 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 99 | [Servando & Florentino \- Mix En Vivo](https://open.spotify.com/track/2LfBhlWqDguEp3Eq5ZIUPA) | [Free Cover Venezuela](https://open.spotify.com/artist/5zXl6z1tUnm1UJtgGY8COu), [Servando & Florentino](https://open.spotify.com/artist/2sU7vdIXtvChlnXIcUliVe), [Ronald Borjas](https://open.spotify.com/artist/1c8m6rFeA6QIhImbIaZ7k2) | [Servando & Florentino \(Mix En Vivo\)](https://open.spotify.com/album/6JOODZ6sGgalLrXcHQJLgX) | 18:33 |
 | 100 | [Muchachita Consentida](https://open.spotify.com/track/3ErVl2GuTuLDALyc6XR9lw) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl), [Rayito Colombiano](https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn) | [Muchachita Consentida](https://open.spotify.com/album/14EOFo2JQO4yTPQQlb9cGN) | 3:18 |
 
-Snapshot ID: `AAAAAItx/Hcmdm9gX8bFuhk+bV2AuL4M`
+Snapshot ID: `AAAAAIa4Q0iNfDvoCej+a/dIFMsX92Nk`

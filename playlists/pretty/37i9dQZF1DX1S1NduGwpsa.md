@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Celeste
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,769 likes - 60 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,781 likes - 60 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 2 | [LEAN ON MY LOVE \(feat\. Andra Day\)](https://open.spotify.com/track/6qPidYSSbSZigyZFD1sJee) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [BIG MONEY](https://open.spotify.com/album/7qYbLlvM7qPAz4XAWnXDC3) | 4:11 |
 | 3 | [Chasing Shadows](https://open.spotify.com/track/7ubvJ2uA8J03MzGyeRtIpB) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Chasing Shadows](https://open.spotify.com/album/5LL2gV74c4Sm1ti5Ue1TIg) | 4:34 |
 | 4 | [Amazone Blues](https://open.spotify.com/track/1ohcAmZl6D4BtaQ1TjQDoQ) | [Henri Texier](https://open.spotify.com/artist/7nFb95Ufz3MkdXP4bnlSES), [Sébastien Texier](https://open.spotify.com/artist/6zwjF5PQCREmT9hfRnSEeu), [Hermon Mehari](https://open.spotify.com/artist/3xQJfdus5EvyRsKxuQUEjT), [Emmanuel Borghi](https://open.spotify.com/artist/2zQxEBrtaCkbyrUVBcxRPk), [Gautier Garrigue](https://open.spotify.com/artist/3mUKJa0KuUOyLllzNP1DAO) | [Healing Songs](https://open.spotify.com/album/5htGZT3fLKOMEPMLI5Gi4y) | 5:56 |
-| 5 | [Skylark](https://open.spotify.com/track/7w8wB21SgPWxgmEZ14WfBe) | [Marion Rampal](https://open.spotify.com/artist/3i8F40UKXQY3JmCIwbuCQD), [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Song for Abbey \(Tribute to Abbey Lindoln\)](https://open.spotify.com/album/61bvkueuAf7anU6B18PS1z) | 3:38 |
+| 5 | [Skylark](https://open.spotify.com/track/7w8wB21SgPWxgmEZ14WfBe) | [Marion Rampal](https://open.spotify.com/artist/3i8F40UKXQY3JmCIwbuCQD), [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Song for Abbey \(Tribute to Abbey Lincoln\)](https://open.spotify.com/album/61bvkueuAf7anU6B18PS1z) | 3:38 |
 | 6 | [The Playful Listener](https://open.spotify.com/track/1O8upChPtS2EYyK3krjqy0) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU) | [Everyday Superheroes](https://open.spotify.com/album/0t29Q1FASaChkVGRq3C8QF) | 3:56 |
 | 7 | [The Barges Blues](https://open.spotify.com/track/04tKPExuojMrvcrcmIQlsI) | [Amaury Faye](https://open.spotify.com/artist/6O7ANcEElszVLKwPOSVXte), [Julian Lee](https://open.spotify.com/artist/6IYbf14480bkXi6JnwWkTH), [Amina Scott](https://open.spotify.com/artist/2mA7agMNb4IjjXcEb5U6La), [Herlin Riley](https://open.spotify.com/artist/5FuXrmOgtBTlGDUP1O41Ir) | [The Barges Blues](https://open.spotify.com/album/7sEcDNcdQTkAfGzZWinm4C) | 3:47 |
 | 8 | [Letter to My Favorite Boy](https://open.spotify.com/track/5OGWcAYy3JROjCW9KxBO1H) | [Lila\-May](https://open.spotify.com/artist/6MoTY5UDMYyOuU1ZGl5grx) | [Out of Time](https://open.spotify.com/album/4j01Jt4AEJMFlkJuAj3Mhv) | 3:44 |

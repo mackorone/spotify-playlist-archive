@@ -2,9 +2,9 @@
 
 ### [K\-R&B Now](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Ellui\(엘루이\)\)
+> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: 이서연 \(Y:SY\)\)
 
-585 songs - 1 day 7 hr 30 min
+586 songs - 1 day 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -361,6 +361,7 @@
 | [My Memory](https://open.spotify.com/track/6pSNLABOjuqymQSkfyXuGt) | [Hawoong](https://open.spotify.com/artist/57saO8Z8WQgBNCfhRc1i3G) | [My Memory](https://open.spotify.com/album/22osHqy2luFmK18jEc39MZ) | 3:28 | 2025-04-18 | 2025-08-06 |
 | [My Time](https://open.spotify.com/track/2uymLlkO57qpLZUAry8I1R) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [My Time](https://open.spotify.com/album/3xlPKqOeXG7pSvk8tA6wco) | 2:28 | 2023-09-13 | 2024-02-07 |
 | [Naked](https://open.spotify.com/track/2dFIqSB5r0IrqJFJS367Kx) | [xooos](https://open.spotify.com/artist/0OqnFLmTWiVGm3Ifk6mahQ) | [Naked](https://open.spotify.com/album/2zpxFjdb5JINyMyvTpyGOc) | 2:54 | 2023-01-13 | 2023-07-08 |
+| [NAKED](https://open.spotify.com/track/2a6vMQiclAa0ZcBy6zFn4H) | [Y:SY](https://open.spotify.com/artist/6poSAr6d3ycm04lRtcMzxA) | [NAKED](https://open.spotify.com/album/2BXbtEqrsNv1LNV3y4Dtki) | 3:05 | 2025-11-17 |  |
 | [NASA](https://open.spotify.com/track/2y3opu08ybnMRziQFdvcZv) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [3:33](https://open.spotify.com/album/1AzP7NB0qSSJJSLX9ZQe98) | 2:41 | 2024-11-29 | 2025-03-13 |
 | [Natural](https://open.spotify.com/track/0ACt3PP22HyKfpFIV6AQUW) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Natural](https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ) | 2:24 | 2022-05-28 | 2022-07-08 |
 | [Need You \(Outro\)](https://open.spotify.com/track/1cezqft1vwwPCmHlkydESz) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Need You \(Outro\)](https://open.spotify.com/album/0MrrGoUO9vibHBfeVGD5Aw) | 4:05 | 2022-05-28 | 2022-07-14 |

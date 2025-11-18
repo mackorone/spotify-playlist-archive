@@ -4,7 +4,7 @@
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: Architects
 
-1,403 songs - 3 day 13 hr 41 min
+1,404 songs - 3 day 13 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -956,7 +956,7 @@
 | [RAIN](https://open.spotify.com/track/7jvtwjcmvwRvRizkgIJdqA) | [HEAVENSGATE](https://open.spotify.com/artist/5xxpBuljNlb95kr6fcf6hj) | [RAIN](https://open.spotify.com/album/14dDeoUMafE62Z3S8mquFM) | 2:57 | 2025-07-25 | 2025-08-16 |
 | [Rain Down](https://open.spotify.com/track/0WcS5eAg9byayXJFZ75eEi) | [Solence](https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg) | [Rain Down](https://open.spotify.com/album/2qcmpfLRQq8qi4WCJOI1oc) | 4:07 | 2022-07-08 | 2022-12-17 |
 | [Rainbow Veins](https://open.spotify.com/track/7cjlfruK9Oqw7k5wAZGO72) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Rainbow Veins](https://open.spotify.com/album/7moGhJvy4szDPEEgvgffGj) | 4:58 | 2021-12-17 | 2022-01-08 |
-| [RAINBOWS](https://open.spotify.com/track/5PRPMGAiQXEQL5frHaJneT) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a) | [SELF HELL](https://open.spotify.com/album/3vUzV2wdNrDubtH2gG7rb5) | 4:22 | 2024-04-12 |  |
+| [RAINBOWS](https://open.spotify.com/track/5PRPMGAiQXEQL5frHaJneT) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a) | [SELF HELL](https://open.spotify.com/album/3vUzV2wdNrDubtH2gG7rb5) | 4:22 | 2024-04-12 | 2025-11-18 |
 | [RAMPAGE](https://open.spotify.com/track/7lvYFiGca0eqeHUSGB9AWB) | [shinigami](https://open.spotify.com/artist/0ntNwPE7MYnKrTh59tU2BA), [Billy Martin](https://open.spotify.com/artist/50cv1LUzko0wYHYGFE3PFE) | [RAMPAGE](https://open.spotify.com/album/3cXopz7daDUlntgsDt9636) | 2:32 | 2022-03-11 | 2022-04-23 |
 | [Raw](https://open.spotify.com/track/7FCVJA2Fam3DiTsgBJoVuk) | [Thornhill](https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD) | [Raw](https://open.spotify.com/album/73pyrNaGLPGT8JuHZTSfv9) | 3:42 | 2022-05-27 | 2022-12-17 |
 | [RE\-Animate](https://open.spotify.com/track/1swGkxWE39ddPCPLwWyWLw) | [For The Fallen Dreams](https://open.spotify.com/artist/0rsHKddRhuze38fVL0egOY) | [RE\-Animate](https://open.spotify.com/album/4ivJq2bYddTsyWUjEtTBHJ) | 3:19 | 2022-09-09 | 2022-12-17 |
@@ -1189,6 +1189,7 @@
 | [The End](https://open.spotify.com/track/4OLpBU09jwpUoCzVcZok1q) | [Patient Sixty\-Seven](https://open.spotify.com/artist/1wklENd4yCkEW1u0fkJR2c) | [The End](https://open.spotify.com/album/4ZAu4ckPNK7byvytMmWeCw) | 3:33 | 2025-10-17 |  |
 | [The End Aesthetic](https://open.spotify.com/track/0Q7KGor0cF0vO2x2Gs0xyp) | [Wind Walkers](https://open.spotify.com/artist/2K2bsaNeuQAFkuVwrrlJe0) | [The End Aesthetic](https://open.spotify.com/album/3VwIw2ich9nLzzwPBMeU0g) | 3:52 | 2025-04-25 |  |
 | [The End to a Brief Moment of Lasting Intimacy](https://open.spotify.com/track/4sSDuuHmKD3wKoZaoGVM29) | [SeeYouSpaceCowboy...](https://open.spotify.com/artist/7CFS5X96xBaJft4QdzTTC1) | [The End to a Brief Moment of Lasting Intimacy](https://open.spotify.com/album/5bJ6joEOY28UkisojIyFOk) | 3:35 | 2021-12-17 | 2022-01-28 |
+| [The Fall](https://open.spotify.com/track/3ZaXQi994D1GaMMd7m8xHa) | [Her Last Sight](https://open.spotify.com/artist/1KbA9fRxHiOCFESxSaM29p) | [The Fall](https://open.spotify.com/album/18EPEjBar9yS0WYsqSGfy2) | 3:45 | 2025-11-14 |  |
 | [The Far Side](https://open.spotify.com/track/3ws26a6G2rYjtAD5fK9ObC) | [Vended](https://open.spotify.com/artist/17pZeX1Vy9hugVufmKFbCQ) | [Vended](https://open.spotify.com/album/2tDnVMI6pBlsiEMOfb5DaU) | 4:58 | 2024-09-20 | 2025-04-26 |
 | [The Fatalist](https://open.spotify.com/track/3FrT1TD82QxLtRIn5IinK4) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Pink Moon](https://open.spotify.com/album/7H14q1uaSsDDgSV0rn3W5c) | 2:50 | 2025-09-12 |  |
 | [The Fear of God](https://open.spotify.com/track/4rY6F8L0xmTVOC3PcHX9Ji) | [Convictions](https://open.spotify.com/artist/0PNbGkwlV3farYnmoojYAY) | [The Fear of God](https://open.spotify.com/album/6jAKZs5AgEtvtvYHTjOcyj) | 2:02 | 2024-08-12 | 2025-05-18 |

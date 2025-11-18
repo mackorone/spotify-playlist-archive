@@ -1840,7 +1840,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-12",
+      "date_removed": null,
       "duration_ms": 274026,
       "name": "All for You",
       "url": "https://open.spotify.com/track/3JyEmaZmPsuIvFivnwN22k"
@@ -4526,7 +4526,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 385650,
       "name": "Awungazi",
       "url": "https://open.spotify.com/track/5jpJFXVOC8bUfPk94CGEl7"
@@ -6798,7 +6798,7 @@
       ],
       "date_added": "2025-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 407936,
       "name": "Bhampa",
       "url": "https://open.spotify.com/track/7G14szC3tfEvsLGcsEGhkU"
@@ -9454,7 +9454,7 @@
       ],
       "date_added": "2025-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-27",
+      "date_removed": null,
       "duration_ms": 188059,
       "name": "CHANEL",
       "url": "https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7"
@@ -12262,7 +12262,7 @@
       ],
       "date_added": "2025-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-14",
+      "date_removed": null,
       "duration_ms": 445896,
       "name": "Di Kgomo",
       "url": "https://open.spotify.com/track/723kBcWHaPWeAApqdYguSI"
@@ -23520,7 +23520,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 394285,
       "name": "Iphupho (feat. Thatohatsi)",
       "url": "https://open.spotify.com/track/6t7jwNNBTceuXuVeT71naT"
@@ -31884,7 +31884,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-17",
+      "date_removed": null,
       "duration_ms": 535310,
       "name": "Methodist Medley",
       "url": "https://open.spotify.com/track/4iitLhHIPZIyTPt9HfsykG"
@@ -35990,7 +35990,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 257018,
       "name": "Njengo Zahara",
       "url": "https://open.spotify.com/track/18b6nk2sFx5Cp0gLzMRly9"
@@ -42360,7 +42360,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-17",
+      "date_removed": null,
       "duration_ms": 254778,
       "name": "Sajola Kamnandi",
       "url": "https://open.spotify.com/track/2QVyLdd8FNg33pm5qfju1g"
@@ -42728,6 +42728,28 @@
       "duration_ms": 191013,
       "name": "Save Your Tears (with Ariana Grande) (Remix)",
       "url": "https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy"
+    },
+    {
+      "album": {
+        "name": "Inteng'dinayo",
+        "url": "https://open.spotify.com/album/4rVLH67fT6kNaxt2TcbE2L"
+      },
+      "artists": [
+        {
+          "name": "Falabo",
+          "url": "https://open.spotify.com/artist/1tlK89N9NdqIWVXRSyClAw"
+        },
+        {
+          "name": "Sne Ntuli",
+          "url": "https://open.spotify.com/artist/3uUIaOfFjbOPmUm2zn4dkT"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195402,
+      "name": "Savele Sahlukana",
+      "url": "https://open.spotify.com/track/5fWGOMGBly4IUyqJdPIvuy"
     },
     {
       "album": {
@@ -53558,7 +53580,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 280502,
       "name": "UQAMBA AMANGA",
       "url": "https://open.spotify.com/track/3RTLQmVu82YxZfIMOp0jH1"
@@ -54994,7 +55016,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 297903,
       "name": "Wa Inama",
       "url": "https://open.spotify.com/track/4BVq8iuuhqjcwhHh6t8SP9"
@@ -55782,7 +55804,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 312293,
       "name": "Wayengenalutho",
       "url": "https://open.spotify.com/track/6VBfzBgHu8tFeeg2ZQO4gH"
@@ -56800,7 +56822,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-16",
+      "date_removed": null,
       "duration_ms": 217346,
       "name": "When I See U",
       "url": "https://open.spotify.com/track/4iuNZTcvT9diFySSzVsnVS"

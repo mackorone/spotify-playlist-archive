@@ -1,12 +1,12 @@
 {
   "description": "This is Willie Col\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 85489,
+  "num_followers": 85507,
   "original_name": "This Is Willie Col\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRfCgAAAAAABQRvT6toDQ3ARaTv4eJix",
+  "snapshot_id": "aRkUAAAAAAAzLq60P5rthwjAc2Jw7iKj",
   "tracks": [
     {
       "added_at": null,
@@ -475,6 +475,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Metiendo Mano",
+        "url": "https://open.spotify.com/album/3oOEQ4KB3ZegkjEvfHjiYn"
+      },
+      "artists": [
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 296240,
+      "name": "Plantaci\u00f3n Adentro",
+      "url": "https://open.spotify.com/track/2OBZVLhtWun61t4Q94HcVR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Band And Their Music: Campeones",
         "url": "https://open.spotify.com/album/4qKhAuom2JYxGkVw8fzFbp"
       },
@@ -519,26 +539,6 @@
       "duration_ms": 331720,
       "name": "Qu\u00edtate T\u00fa - Live",
       "url": "https://open.spotify.com/track/1rijHA5veEZDV5CrGLpex6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Metiendo Mano",
-        "url": "https://open.spotify.com/album/3oOEQ4KB3ZegkjEvfHjiYn"
-      },
-      "artists": [
-        {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
-        },
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 296240,
-      "name": "Plantaci\u00f3n Adentro",
-      "url": "https://open.spotify.com/track/2OBZVLhtWun61t4Q94HcVR"
     },
     {
       "added_at": null,

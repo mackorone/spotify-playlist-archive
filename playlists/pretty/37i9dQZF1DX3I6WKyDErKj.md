@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I6WKyDErKj.md) - [plain]
 
 > HBCU Anthems! Curated by Howard University's own <a href="spotify:artist:44qqbgojo0P8r68CuRbSN4">Lady London</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 928 likes - 53 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 942 likes - 53 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

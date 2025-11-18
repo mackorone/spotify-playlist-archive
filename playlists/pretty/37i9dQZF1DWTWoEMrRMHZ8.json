@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Roberto Menescal, Cris Delanno",
-  "num_followers": 353597,
+  "num_followers": 353599,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -207,6 +207,22 @@
     {
       "added_at": "2025-10-25 00:51:33",
       "album": {
+        "name": "Todas Elas (Deluxe)",
+        "url": "https://open.spotify.com/album/34Z3IDAEuX79HesCNLuqL1"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Da Mata",
+          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
+        }
+      ],
+      "duration_ms": 283293,
+      "name": "Nada Mais",
+      "url": "https://open.spotify.com/track/2sG4JlM2fO3RzXoXffRYyX"
+    },
+    {
+      "added_at": "2025-10-25 00:51:33",
+      "album": {
         "name": "PALCO",
         "url": "https://open.spotify.com/album/11D3RPdsEaovaCBPks0908"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 278736,
       "name": "PALCO",
       "url": "https://open.spotify.com/track/3zMgTQolE201ZTHvxWltkq"
-    },
-    {
-      "added_at": "2025-10-25 00:51:33",
-      "album": {
-        "name": "Todas Elas (Deluxe)",
-        "url": "https://open.spotify.com/album/34Z3IDAEuX79HesCNLuqL1"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Da Mata",
-          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
-        }
-      ],
-      "duration_ms": 283293,
-      "name": "Nada Mais",
-      "url": "https://open.spotify.com/track/2sG4JlM2fO3RzXoXffRYyX"
     },
     {
       "added_at": "2025-10-25 00:51:33",
@@ -639,6 +639,26 @@
     {
       "added_at": "2025-10-25 00:51:33",
       "album": {
+        "name": "Voando (Nel Blu Dipinto Di Blu)",
+        "url": "https://open.spotify.com/album/1QQkssDjcaEVl6pJhSOWIQ"
+      },
+      "artists": [
+        {
+          "name": "Rita Lee",
+          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
+        },
+        {
+          "name": "Roberto De Carvalho",
+          "url": "https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1"
+        }
+      ],
+      "duration_ms": 236618,
+      "name": "Voando (Nel Blu Dipinto Di Blu)",
+      "url": "https://open.spotify.com/track/5eJ4kcwdET3HsQvwT5QSuX"
+    },
+    {
+      "added_at": "2025-10-25 00:51:33",
+      "album": {
         "name": "Todo carnaval tem seu fim",
         "url": "https://open.spotify.com/album/1hpYnot4DYD0jace4qsKnL"
       },
@@ -659,26 +679,6 @@
       "duration_ms": 140100,
       "name": "Todo carnaval tem seu fim",
       "url": "https://open.spotify.com/track/5ggN8QDm492S8wQpb451Ks"
-    },
-    {
-      "added_at": "2025-10-25 00:51:33",
-      "album": {
-        "name": "Voando (Nel Blu Dipinto Di Blu)",
-        "url": "https://open.spotify.com/album/1QQkssDjcaEVl6pJhSOWIQ"
-      },
-      "artists": [
-        {
-          "name": "Rita Lee",
-          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
-        },
-        {
-          "name": "Roberto De Carvalho",
-          "url": "https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1"
-        }
-      ],
-      "duration_ms": 236618,
-      "name": "Voando (Nel Blu Dipinto Di Blu)",
-      "url": "https://open.spotify.com/track/5eJ4kcwdET3HsQvwT5QSuX"
     },
     {
       "added_at": "2025-10-25 00:51:33",
@@ -719,22 +719,6 @@
     {
       "added_at": "2025-10-25 00:51:33",
       "album": {
-        "name": "O amor me fala de voc\u00ea",
-        "url": "https://open.spotify.com/album/7kvvIABxvGFT5Cyz6mvgEz"
-      },
-      "artists": [
-        {
-          "name": "Caike Souza",
-          "url": "https://open.spotify.com/artist/6tjtXcfi8CU4froDsEydxa"
-        }
-      ],
-      "duration_ms": 199308,
-      "name": "O amor me fala de voc\u00ea",
-      "url": "https://open.spotify.com/track/2gBUrqogdBtgOBSm0h5AG5"
-    },
-    {
-      "added_at": "2025-10-25 00:51:33",
-      "album": {
         "name": "Nosso Caso",
         "url": "https://open.spotify.com/album/0AXxBy1IF6U6myBm3EyZ3u"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 222758,
       "name": "Porque Eu Sei Que \u00c9 Amor (Microfonado)",
       "url": "https://open.spotify.com/track/5gXebJZbpKRHl32Ft44Kxh"
+    },
+    {
+      "added_at": "2025-10-25 00:51:33",
+      "album": {
+        "name": "O amor me fala de voc\u00ea",
+        "url": "https://open.spotify.com/album/7kvvIABxvGFT5Cyz6mvgEz"
+      },
+      "artists": [
+        {
+          "name": "Caike Souza",
+          "url": "https://open.spotify.com/artist/6tjtXcfi8CU4froDsEydxa"
+        }
+      ],
+      "duration_ms": 199308,
+      "name": "O amor me fala de voc\u00ea",
+      "url": "https://open.spotify.com/track/2gBUrqogdBtgOBSm0h5AG5"
     },
     {
       "added_at": "2025-10-25 00:51:33",
@@ -859,26 +859,6 @@
     {
       "added_at": "2025-10-25 00:51:33",
       "album": {
-        "name": "A hist\u00f3ria da nossa l\u00edngua",
-        "url": "https://open.spotify.com/album/62n6upnCeTwn0P1n77kAIm"
-      },
-      "artists": [
-        {
-          "name": "Lucas Santtana",
-          "url": "https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z"
-        },
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 286869,
-      "name": "A hist\u00f3ria da nossa l\u00edngua",
-      "url": "https://open.spotify.com/track/5Lw3gwWGtaZ2mHbdKL8kbF"
-    },
-    {
-      "added_at": "2025-10-25 00:51:33",
-      "album": {
         "name": "FOI NO S\u00c3O JO\u00c3O",
         "url": "https://open.spotify.com/album/6Ql0MXVyqO4ph6bz8HQ2pD"
       },
@@ -899,18 +879,42 @@
     {
       "added_at": "2025-10-25 00:51:33",
       "album": {
-        "name": "\u00c2mbar",
-        "url": "https://open.spotify.com/album/25iYTRlmDMaSMYMedcjkEl"
+        "name": "A hist\u00f3ria da nossa l\u00edngua",
+        "url": "https://open.spotify.com/album/62n6upnCeTwn0P1n77kAIm"
       },
       "artists": [
         {
-          "name": "Tain\u00e1",
-          "url": "https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC"
+          "name": "Lucas Santtana",
+          "url": "https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z"
+        },
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
         }
       ],
-      "duration_ms": 172586,
-      "name": "\u00c2mbar",
-      "url": "https://open.spotify.com/track/3tZSEpmI6vAJO5iAZVrQvN"
+      "duration_ms": 286869,
+      "name": "A hist\u00f3ria da nossa l\u00edngua",
+      "url": "https://open.spotify.com/track/5Lw3gwWGtaZ2mHbdKL8kbF"
+    },
+    {
+      "added_at": "2025-10-25 00:51:33",
+      "album": {
+        "name": "Qualquer Canto",
+        "url": "https://open.spotify.com/album/257ZClpDD4cyOplPlv2JVU"
+      },
+      "artists": [
+        {
+          "name": "Abacaxepa",
+          "url": "https://open.spotify.com/artist/37YBTVhchsMr6ekdUHEKRy"
+        },
+        {
+          "name": "Alessandra Le\u00e3o",
+          "url": "https://open.spotify.com/artist/37m97yyap5ftH0sx3IHqno"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Qualquer Canto",
+      "url": "https://open.spotify.com/track/6cTMZoxnb9b6cneBK8eTf8"
     },
     {
       "added_at": "2025-10-25 00:51:33",
@@ -943,22 +947,18 @@
     {
       "added_at": "2025-10-25 00:51:33",
       "album": {
-        "name": "Qualquer Canto",
-        "url": "https://open.spotify.com/album/257ZClpDD4cyOplPlv2JVU"
+        "name": "\u00c2mbar",
+        "url": "https://open.spotify.com/album/25iYTRlmDMaSMYMedcjkEl"
       },
       "artists": [
         {
-          "name": "Abacaxepa",
-          "url": "https://open.spotify.com/artist/37YBTVhchsMr6ekdUHEKRy"
-        },
-        {
-          "name": "Alessandra Le\u00e3o",
-          "url": "https://open.spotify.com/artist/37m97yyap5ftH0sx3IHqno"
+          "name": "Tain\u00e1",
+          "url": "https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC"
         }
       ],
-      "duration_ms": 224000,
-      "name": "Qualquer Canto",
-      "url": "https://open.spotify.com/track/6cTMZoxnb9b6cneBK8eTf8"
+      "duration_ms": 172586,
+      "name": "\u00c2mbar",
+      "url": "https://open.spotify.com/track/3tZSEpmI6vAJO5iAZVrQvN"
     },
     {
       "added_at": "2025-10-25 00:51:33",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2025-10-25 00:51:33",
       "album": {
-        "name": "Reencontro",
-        "url": "https://open.spotify.com/album/6FHmlkD5iOGhbvbXlVupp5"
-      },
-      "artists": [
-        {
-          "name": "Ana Vilela",
-          "url": "https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4"
-        }
-      ],
-      "duration_ms": 200500,
-      "name": "Reencontro",
-      "url": "https://open.spotify.com/track/0J9K0NPeUyQEZw87N0T0y0"
-    },
-    {
-      "added_at": "2025-10-25 00:51:33",
-      "album": {
         "name": "Se o Meu Peito Fosse o Mundo (Ao Vivo)",
         "url": "https://open.spotify.com/album/5YGJgU35coBKBHnsaHcNJL"
       },
@@ -1059,6 +1043,22 @@
     {
       "added_at": "2025-10-25 00:51:33",
       "album": {
+        "name": "Reencontro",
+        "url": "https://open.spotify.com/album/6FHmlkD5iOGhbvbXlVupp5"
+      },
+      "artists": [
+        {
+          "name": "Ana Vilela",
+          "url": "https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4"
+        }
+      ],
+      "duration_ms": 200500,
+      "name": "Reencontro",
+      "url": "https://open.spotify.com/track/0J9K0NPeUyQEZw87N0T0y0"
+    },
+    {
+      "added_at": "2025-10-25 00:51:33",
+      "album": {
         "name": "Fullg\u00e1s",
         "url": "https://open.spotify.com/album/5PaaYWMN2SXYc4kygrfWCQ"
       },
@@ -1071,6 +1071,26 @@
       "duration_ms": 172258,
       "name": "Fullg\u00e1s",
       "url": "https://open.spotify.com/track/1vFwHGzBsCwlpQe2mU0f91"
+    },
+    {
+      "added_at": "2025-10-25 00:51:33",
+      "album": {
+        "name": "Passageiro",
+        "url": "https://open.spotify.com/album/65uSV3GkJ8Pn34WOfi6fdm"
+      },
+      "artists": [
+        {
+          "name": "Vicka",
+          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
+        },
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        }
+      ],
+      "duration_ms": 219574,
+      "name": "Passageiro",
+      "url": "https://open.spotify.com/track/0a2n21hySpr5NBfrJu4OIq"
     },
     {
       "added_at": "2025-10-25 00:51:33",
@@ -1099,42 +1119,22 @@
     {
       "added_at": "2025-10-25 00:51:33",
       "album": {
-        "name": "Passageiro",
-        "url": "https://open.spotify.com/album/65uSV3GkJ8Pn34WOfi6fdm"
+        "name": "Este seu olhar / Promessas",
+        "url": "https://open.spotify.com/album/547xruDRV40FshGIzdcZHg"
       },
       "artists": [
         {
-          "name": "Vicka",
-          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
+          "name": "Roberto Menescal",
+          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
         },
         {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+          "name": "Cris Delanno",
+          "url": "https://open.spotify.com/artist/1q66oVc7ZO3bFndFCAuOOd"
         }
       ],
-      "duration_ms": 219574,
-      "name": "Passageiro",
-      "url": "https://open.spotify.com/track/0a2n21hySpr5NBfrJu4OIq"
-    },
-    {
-      "added_at": "2025-10-25 00:51:33",
-      "album": {
-        "name": "Estrela",
-        "url": "https://open.spotify.com/album/3t9mP6TVjZsG6UmvsFQpTI"
-      },
-      "artists": [
-        {
-          "name": "Lucas Felix",
-          "url": "https://open.spotify.com/artist/4bdlQqQxa0NVjqHWkr5meV"
-        },
-        {
-          "name": "Larissa Luz",
-          "url": "https://open.spotify.com/artist/14pUxO8NDxospQBy9W1aIq"
-        }
-      ],
-      "duration_ms": 246136,
-      "name": "Estrela",
-      "url": "https://open.spotify.com/track/0ksvjOeB4HMDAkLIPcVpra"
+      "duration_ms": 212727,
+      "name": "Este seu olhar / Promessas",
+      "url": "https://open.spotify.com/track/03c2G5aK5K7tpzxezRX3RH"
     },
     {
       "added_at": "2025-10-25 00:51:33",
@@ -1159,22 +1159,38 @@
     {
       "added_at": "2025-10-25 00:51:33",
       "album": {
-        "name": "Este seu olhar / Promessas",
-        "url": "https://open.spotify.com/album/547xruDRV40FshGIzdcZHg"
+        "name": "Estrela",
+        "url": "https://open.spotify.com/album/3t9mP6TVjZsG6UmvsFQpTI"
       },
       "artists": [
         {
-          "name": "Roberto Menescal",
-          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
+          "name": "Lucas Felix",
+          "url": "https://open.spotify.com/artist/4bdlQqQxa0NVjqHWkr5meV"
         },
         {
-          "name": "Cris Delanno",
-          "url": "https://open.spotify.com/artist/1q66oVc7ZO3bFndFCAuOOd"
+          "name": "Larissa Luz",
+          "url": "https://open.spotify.com/artist/14pUxO8NDxospQBy9W1aIq"
         }
       ],
-      "duration_ms": 212727,
-      "name": "Este seu olhar / Promessas",
-      "url": "https://open.spotify.com/track/03c2G5aK5K7tpzxezRX3RH"
+      "duration_ms": 246136,
+      "name": "Estrela",
+      "url": "https://open.spotify.com/track/0ksvjOeB4HMDAkLIPcVpra"
+    },
+    {
+      "added_at": "2025-10-25 00:51:33",
+      "album": {
+        "name": "Universo de Paix\u00e3o",
+        "url": "https://open.spotify.com/album/51QbgpsAkuZE2ejyE7ht7Y"
+      },
+      "artists": [
+        {
+          "name": "Natascha Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/0UhJSEM5vgkPWXDA6mYuhh"
+        }
+      ],
+      "duration_ms": 241860,
+      "name": "Melhor Assim",
+      "url": "https://open.spotify.com/track/3kf9cCRHPyDYr93nXWAbav"
     },
     {
       "added_at": "2025-10-25 00:51:33",
@@ -1207,22 +1223,6 @@
       "duration_ms": 191166,
       "name": "A Donzela Se Casou",
       "url": "https://open.spotify.com/track/0Br1JyBTmuO49RlNuwujjG"
-    },
-    {
-      "added_at": "2025-10-25 00:51:33",
-      "album": {
-        "name": "Universo de Paix\u00e3o",
-        "url": "https://open.spotify.com/album/51QbgpsAkuZE2ejyE7ht7Y"
-      },
-      "artists": [
-        {
-          "name": "Natascha Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/0UhJSEM5vgkPWXDA6mYuhh"
-        }
-      ],
-      "duration_ms": 241860,
-      "name": "Melhor Assim",
-      "url": "https://open.spotify.com/track/3kf9cCRHPyDYr93nXWAbav"
     },
     {
       "added_at": "2025-10-25 00:51:33",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2025-10-25 00:51:33",
       "album": {
+        "name": "a natureza das coisas",
+        "url": "https://open.spotify.com/album/0MxZANPoJbhP7ma8NK5col"
+      },
+      "artists": [
+        {
+          "name": "Flavio Ferrari",
+          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
+        }
+      ],
+      "duration_ms": 119702,
+      "name": "a natureza das coisas",
+      "url": "https://open.spotify.com/track/2XOWOM7ljx20baKe6dGdLy"
+    },
+    {
+      "added_at": "2025-10-25 00:51:33",
+      "album": {
         "name": "Branco",
         "url": "https://open.spotify.com/album/2FQBFjNRtYj8CvBxtAgwil"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 217840,
       "name": "Na Ronda",
       "url": "https://open.spotify.com/track/0VpM9cCo1I1lQMm8acFzUt"
-    },
-    {
-      "added_at": "2025-10-25 00:51:33",
-      "album": {
-        "name": "a natureza das coisas",
-        "url": "https://open.spotify.com/album/0MxZANPoJbhP7ma8NK5col"
-      },
-      "artists": [
-        {
-          "name": "Flavio Ferrari",
-          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
-        }
-      ],
-      "duration_ms": 119702,
-      "name": "a natureza das coisas",
-      "url": "https://open.spotify.com/track/2XOWOM7ljx20baKe6dGdLy"
     },
     {
       "added_at": "2025-10-25 00:51:33",
@@ -1655,26 +1655,6 @@
     {
       "added_at": "2025-10-25 00:51:33",
       "album": {
-        "name": "Tudo Vai Conspirar",
-        "url": "https://open.spotify.com/album/43Vh4wyKdRXNjHWLi1IZHk"
-      },
-      "artists": [
-        {
-          "name": "Vicka",
-          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
-        },
-        {
-          "name": "Nathan Carvalho",
-          "url": "https://open.spotify.com/artist/4jKKMcr1tu7dl9phu8o3pl"
-        }
-      ],
-      "duration_ms": 184875,
-      "name": "Tudo Vai Conspirar",
-      "url": "https://open.spotify.com/track/4mwrmRsKZBwzdTCKdB50Sc"
-    },
-    {
-      "added_at": "2025-10-25 00:51:33",
-      "album": {
         "name": "Ainda \u00e9 Ver\u00e3o",
         "url": "https://open.spotify.com/album/07q14bTS307dpARQ1X9rg9"
       },
@@ -1691,6 +1671,26 @@
       "duration_ms": 172484,
       "name": "Ainda \u00e9 Ver\u00e3o",
       "url": "https://open.spotify.com/track/4RoQJkr2NkWEr7hIUrNuh8"
+    },
+    {
+      "added_at": "2025-10-25 00:51:33",
+      "album": {
+        "name": "Tudo Vai Conspirar",
+        "url": "https://open.spotify.com/album/43Vh4wyKdRXNjHWLi1IZHk"
+      },
+      "artists": [
+        {
+          "name": "Vicka",
+          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
+        },
+        {
+          "name": "Nathan Carvalho",
+          "url": "https://open.spotify.com/artist/4jKKMcr1tu7dl9phu8o3pl"
+        }
+      ],
+      "duration_ms": 184875,
+      "name": "Tudo Vai Conspirar",
+      "url": "https://open.spotify.com/track/4mwrmRsKZBwzdTCKdB50Sc"
     },
     {
       "added_at": "2025-10-25 00:51:33",

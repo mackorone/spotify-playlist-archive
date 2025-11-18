@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Bom9R0tCgx.md) - [plain]
 
 > All the stuff that will blow your speakers!
 
-[Spotify](https://open.spotify.com/user/spotify) - 442,437 likes - 100 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 442,488 likes - 100 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Bom9R0tCgx.md) - [plain]
 | 58 | [What I Want](https://open.spotify.com/track/77VtR2l9SUqNgN4mDRDEDt) | [Gregor McMurray](https://open.spotify.com/artist/1I2XKnqddS320Fo1vXH9WO) | [What I Want](https://open.spotify.com/album/0equCatWbHF6wgpR7Lxh0Q) | 3:02 |
 | 59 | [Oblivion](https://open.spotify.com/track/050mcqcICeaJ4h2yXdwCHT) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [Hedara](https://open.spotify.com/artist/6lUauNyvHBjAp0tBFDiBNm) | [Oblivion](https://open.spotify.com/album/0WOXfzinWC4ACoMv7L8KJa) | 2:01 |
 | 60 | [Day 'N' Nite](https://open.spotify.com/track/7t7OC0F1LpOFyRIJNgPkQo) | [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd), [Badjack](https://open.spotify.com/artist/40oI86vaTUHgkSGlYkEiLM), [Acid Boyz](https://open.spotify.com/artist/1K078F4kwAcsOerdCs4m8a) | [Day 'N' Nite](https://open.spotify.com/album/6dcsjHmG76mqILvU5tQVfa) | 2:13 |
-| 61 | [Stumblin' In \(LUNAX Remix\)](https://open.spotify.com/track/4ZySJNZ7LRTlPFhzBHs2oV) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR) | [Stumblin' In \(LUNAX Remix\)](https://open.spotify.com/album/5b3URVxK37W2advy0gEdj6) | 3:00 |
-| 62 | [Rockafeller Skank](https://open.spotify.com/track/2CeMzUrbykkE7QWA3qlXvx) | [ILYAA](https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1) | [Rockafeller Skank](https://open.spotify.com/album/4VzJuJaV7gtjJhXMLEt9WD) | 2:25 |
+| 61 | [Rockafeller Skank](https://open.spotify.com/track/2CeMzUrbykkE7QWA3qlXvx) | [ILYAA](https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1) | [Rockafeller Skank](https://open.spotify.com/album/4VzJuJaV7gtjJhXMLEt9WD) | 2:25 |
+| 62 | [Stumblin' In \(LUNAX Remix\)](https://open.spotify.com/track/4ZySJNZ7LRTlPFhzBHs2oV) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR) | [Stumblin' In \(LUNAX Remix\)](https://open.spotify.com/album/5b3URVxK37W2advy0gEdj6) | 3:00 |
 | 63 | [I Feel](https://open.spotify.com/track/03neM3HWo29PTZ4OVVUyv3) | [ZAPRAVKA](https://open.spotify.com/artist/4oCaLmRVMM4Ck4VGrmh4VC), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [I Feel](https://open.spotify.com/album/6ZaXuqLxGYtBJoKePPSnNb) | 2:20 |
 | 64 | [P.I.M.P\. \- HEDEGAARD Remix](https://open.spotify.com/track/5UCxWGNXG4kjBmpftwyctt) | [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2) | [DARK MATTER](https://open.spotify.com/album/03PhHS2Rf06ee9nucQmHhg) | 2:54 |
 | 65 | [Jump Dance Move Bounce](https://open.spotify.com/track/4BSJd6jkmroYkGKIrrstUa) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb), [NOTMYTYPE](https://open.spotify.com/artist/7hjdOgAfEdNYBGViGyy28U), [AENJAY](https://open.spotify.com/artist/1sDPjXJ8bNlkrzbNLR18AQ) | [Jump Dance Move Bounce](https://open.spotify.com/album/7uqDX4ot0zHwEAG4OpLjby) | 2:29 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Bom9R0tCgx.md) - [plain]
 | 96 | [Hey Ya](https://open.spotify.com/track/2sEaL74YW1e5qUY1Y3ljYH) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Tiscore](https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI) | [Hey Ya](https://open.spotify.com/album/1SKAksw9ZJqIoLAOS5MKQF) | 2:14 |
 | 97 | [Mozart's Final Rave \(Lacrimosa\)](https://open.spotify.com/track/5PpS0qaJb2k4BzQA060Uys) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Charles B](https://open.spotify.com/artist/1r2acF91AoYoHYrQYY9wCO), [Dana Vicci](https://open.spotify.com/artist/06xgwbbr9uaPpoGsCf9NC4) | [Mozart's Final Rave \(Lacrimosa\)](https://open.spotify.com/album/7uaOfyOqUaorsTsUmRsjbE) | 1:45 |
 | 98 | [Crawling](https://open.spotify.com/track/1khBnYHMABE5yXgKs5p5of) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Crawling](https://open.spotify.com/album/75lVQpORGx9xwyyPr55Aa1) | 2:56 |
-| 99 | [Tell Me](https://open.spotify.com/track/3FxIVbSCCOvWjHSCtEmIR7) | [Felix Harrer](https://open.spotify.com/artist/7DDyntOmWbEgkGoIUaTxEp) | [Tell Me](https://open.spotify.com/album/6CFfmrqFNdXzSE4HPPbsRL) | 2:04 |
-| 100 | [Better Than U Thought](https://open.spotify.com/track/067FrGDLXv4oDOGrcCDCA6) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Better Than U Thought](https://open.spotify.com/album/5LaUQcTL2F4TtqRbIZdxiG) | 3:09 |
+| 99 | [Better Than U Thought](https://open.spotify.com/track/067FrGDLXv4oDOGrcCDCA6) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Better Than U Thought](https://open.spotify.com/album/5LaUQcTL2F4TtqRbIZdxiG) | 3:09 |
+| 100 | [Tell Me](https://open.spotify.com/track/3FxIVbSCCOvWjHSCtEmIR7) | [Felix Harrer](https://open.spotify.com/artist/7DDyntOmWbEgkGoIUaTxEp) | [Tell Me](https://open.spotify.com/album/6CFfmrqFNdXzSE4HPPbsRL) | 2:04 |
 
 Snapshot ID: `AAAAACtE5p/wGl4I0K1D7IFcVIPF5UDd`

@@ -12626,7 +12626,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 180923,
       "name": "CITADEL",
       "url": "https://open.spotify.com/track/2Lg8XngFhqwS3ROntccz7e"
@@ -29146,7 +29146,7 @@
       ],
       "date_added": "2025-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-16",
+      "date_removed": null,
       "duration_ms": 314500,
       "name": "I Exist I Exist I Exist",
       "url": "https://open.spotify.com/track/0nO25NiPrKX64oy7lz5ZaJ"
@@ -44840,7 +44840,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-17",
+      "date_removed": null,
       "duration_ms": 165728,
       "name": "NAV\u017dDYCKY BL\u00c1ZEN",
       "url": "https://open.spotify.com/track/0FvV3lYeJ5xiqhsFDT0rzI"
@@ -60514,7 +60514,7 @@
       ],
       "date_added": "2025-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-29",
+      "date_removed": null,
       "duration_ms": 167973,
       "name": "So Right",
       "url": "https://open.spotify.com/track/3h6BhbgZ1jHvMZO84eO5LW"
@@ -61276,7 +61276,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 172313,
       "name": "SPAGHETTI",
       "url": "https://open.spotify.com/track/2N9miXnewVmUrgl6JSK1FI"
@@ -65574,7 +65574,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 226073,
       "name": "The Fate of Ophelia",
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
@@ -76960,10 +76960,28 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 146000,
       "name": "\u041d\u0430 \u043c\u0443\u0440\u043c\u0443\u043b\u044f\u0445",
       "url": "https://open.spotify.com/track/3M6ponW1oyWc3ZiexgNM9Y"
+    },
+    {
+      "album": {
+        "name": "\u041d\u0430 \u043c\u0443\u0440\u043c\u0443\u043b\u044f\u0445",
+        "url": "https://open.spotify.com/album/3uJ2Bvb2HrrRL8EzNoQizJ"
+      },
+      "artists": [
+        {
+          "name": "\u042d\u0442\u043e \u0420\u0430\u0434\u0438\u043e",
+          "url": "https://open.spotify.com/artist/4ub4NOi0oclhtW5XbKkIF5"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146017,
+      "name": "\u041d\u0430 \u043c\u0443\u0440\u043c\u0443\u043b\u044f\u0445",
+      "url": "https://open.spotify.com/track/4tOvwbFoMJnQpg0YuFWbyj"
     },
     {
       "album": {

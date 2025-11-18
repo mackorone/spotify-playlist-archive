@@ -5205,6 +5205,24 @@
     },
     {
       "album": {
+        "name": "Chaos And Creation In The Backyard",
+        "url": "https://open.spotify.com/album/0XcNHzWiVE1RAQrQ4tvtOZ"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185360,
+      "name": "Fine Line",
+      "url": "https://open.spotify.com/track/4PyGMMfh9MiiFOPVyAikar"
+    },
+    {
+      "album": {
         "name": "Floorspace",
         "url": "https://open.spotify.com/album/0zJkFKoviOWGLmT5mvWhWC"
       },
@@ -13796,7 +13814,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 51200,
       "name": "SKRILLEX IS DEAD",
       "url": "https://open.spotify.com/track/3tkzHn6WVGdAGEet1J4VDt"
@@ -13989,7 +14007,7 @@
       "date_added": "2025-08-17",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 237013,
+      "duration_ms": 237020,
       "name": "So Special",
       "url": "https://open.spotify.com/track/50EsWUxLBSS4nQnTuagVjF"
     },

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0lIpJfAmU1IfLj1RQiDaPS">Erika Ender</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-174 songs - 10 hr 43 min
+175 songs - 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Siempre Más \(Pode Acreditar\)](https://open.spotify.com/track/3QbriztLLCkrdYYszMg6Zg) | [Z4](https://open.spotify.com/artist/5srJ7AfiYT2RgeN6pkShBx) | [Z4 em Espanhol](https://open.spotify.com/album/5w9EHxR8lLrE8Xgw4toFwM) | 2:39 | 2023-03-09 |  |
 | [Sigo Caminando](https://open.spotify.com/track/1Ap7SgnEnvcE7Uih5CXNXO) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Sigo Caminando](https://open.spotify.com/album/37WnSB8LQ6LFsXnFMGVgWg) | 3:34 | 2023-03-09 |  |
 | [Sin Rumbo](https://open.spotify.com/track/6cNFdyjODCc2ooX7XyMAxt) | [Lenys Paredes](https://open.spotify.com/artist/63iNv5IQAeYBecX9nFAyjE) | [Empiezo a Vivir](https://open.spotify.com/album/3RXFx7yvhlpoc3f5xfMlJh) | 3:30 | 2023-03-09 | 2024-05-02 |
+| [Solo conmigo](https://open.spotify.com/track/4ReXblBJlsOcptSRpivJUm) | [Enrique Ramil](https://open.spotify.com/artist/0j2p53CorUX290ZthVLl2p), [Oscar Moncada](https://open.spotify.com/artist/5JBXctnUxCqSwfCU5tney5) | [Solo conmigo](https://open.spotify.com/album/6qc4UOR4QELCdKRkh4JfhN) | 3:45 | 2025-11-17 |  |
 | [Somos Panamá](https://open.spotify.com/track/6h0h3gP5pNvoRv0MFGtIcW) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Panamá Mía](https://open.spotify.com/album/11NwW5Y133MwLsll261Lzv) | 3:02 | 2023-03-09 |  |
 | [SOS \(SOS\)](https://open.spotify.com/track/7d7XiRp6pCmF5ROCYYbzyw) | [Z4](https://open.spotify.com/artist/5srJ7AfiYT2RgeN6pkShBx) | [Z4 em Espanhol](https://open.spotify.com/album/5w9EHxR8lLrE8Xgw4toFwM) | 2:29 | 2023-03-09 |  |
 | [Soy Lo Que Soy](https://open.spotify.com/track/1wv1manNi61gGyXnKtrDDC) | [Banda Fortuna](https://open.spotify.com/artist/7tdLl1TJQ80SBEBGN8r0AY) | [Porque La Fortuna Es Tuya](https://open.spotify.com/album/6RsPPBohTTFjGyEa7sbf1g) | 3:00 | 2023-03-09 |  |

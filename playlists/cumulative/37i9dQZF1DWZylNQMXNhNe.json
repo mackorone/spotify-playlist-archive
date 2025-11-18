@@ -115,6 +115,28 @@
     },
     {
       "album": {
+        "name": "8 HORAS DE PRAZER",
+        "url": "https://open.spotify.com/album/2MoMvu4WvsfDimDrMnRWXT"
+      },
+      "artists": [
+        {
+          "name": "Lia Clark",
+          "url": "https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY"
+        },
+        {
+          "name": "Mc Carol",
+          "url": "https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161777,
+      "name": "8 HORAS DE PRAZER",
+      "url": "https://open.spotify.com/track/30h7GGYIRcPtFA1fDlHr0w"
+    },
+    {
+      "album": {
         "name": "A QUEDA",
         "url": "https://open.spotify.com/album/1nrGJRwyxKMNnGB8Rz1QJR"
       },
@@ -1714,7 +1736,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 163569,
       "name": "f:)da-se",
       "url": "https://open.spotify.com/track/2UBAm99YG2MubgLymHqXOl"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ES6W0ExTX9.md) - [plain]
 
 > Can you survive? Listen to the music from and inspired by FNAF.
 
-[Spotify](https://open.spotify.com/user/spotify) - 427,643 likes - 43 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 427,725 likes - 43 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ES6W0ExTX9.md) - [plain]
 | 11 | [Stay Calm \(feat\. Jeff Burgess\)](https://open.spotify.com/track/1uEirYIgTtCnojbufoer37) | [Griffinilla](https://open.spotify.com/artist/4YbLu4l7vHlJPD9yGjCkRu), [Jeff Burgess](https://open.spotify.com/artist/1XXSgks7W3pnb8CxGUS51v) | [Stay Calm \(feat\. Jeff Burgess\)](https://open.spotify.com/album/6fnqa31bmeRYL7AzOnpXob) | 3:01 |
 | 12 | [It's Been So Long](https://open.spotify.com/track/463r5bsN1VqGXtaMctn4Rr) | [The Living Tombstone](https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF) | [It's Been So Long](https://open.spotify.com/album/14kh9qb1ZnqAFnshjFS4vO) | 2:54 |
 | 13 | [I Got No Time](https://open.spotify.com/track/3v00V6dfYTO5Kqv1U205a8) | [CG5](https://open.spotify.com/artist/3YJDqtTSjydvUpTvU1fJ6O) | [I Got No Time](https://open.spotify.com/album/6Q9jo8FfF8T48rMR498oJD) | 2:58 |
-| 14 | [The Bonnie Song](https://open.spotify.com/track/6qUBnm38dI8yYuCKyLN04W) | [Skyfixing](https://open.spotify.com/artist/7oNQoSI5fptljRAjvVsMdz) | [Nightmares](https://open.spotify.com/album/7jdPFgXuKTjnI3zSzNS7Wg) | 4:36 |
+| 14 | [The Bonnie Song](https://open.spotify.com/track/6qUBnm38dI8yYuCKyLN04W) | [Groundbreaking](https://open.spotify.com/artist/4s0H5EBBiQRBiuGCgN6svC) | [Nightmares](https://open.spotify.com/album/7jdPFgXuKTjnI3zSzNS7Wg) | 4:36 |
 | 15 | [Run Run!](https://open.spotify.com/track/3HUJE0NFIERdj1glMDE2EK) | [Jorge Aguilar II](https://open.spotify.com/artist/0nFImDWLQMuYEL1dWcXs1K) | [Run Run!](https://open.spotify.com/album/2l9lj49N2jMRXn3Uhwm13D) | 3:25 |
 | 16 | [Afton Family](https://open.spotify.com/track/27moqO3vXLWvqCTNdOzjpK) | [KryFuZe](https://open.spotify.com/artist/3Lh4732M2pvWBoMljgh0P2) | [Afton Family](https://open.spotify.com/album/1L0gGOrO568nb8H81dDBUt) | 4:16 |
 | 17 | [Circus of the Dead](https://open.spotify.com/track/6NkYZg4IRJOqDSKXFTOzza) | [Tryhardninja](https://open.spotify.com/artist/0B7Y5KDNScTBzeN7DY74YG), [Jordan LaCore](https://open.spotify.com/artist/2GJZsyXS40AaF7b7ZnuabF) | [Five Nights at Freddy's Songs 2](https://open.spotify.com/album/6VtMeammCQBNsOzwK1F97N) | 4:11 |
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ES6W0ExTX9.md) - [plain]
 | 24 | [Never Be Alone](https://open.spotify.com/track/2FfRcyV3BoxU5jZwyaQfNT) | [Shadrow](https://open.spotify.com/artist/2fZ2nHEB3va8LTHXX8oKgU) | [Never Be Alone](https://open.spotify.com/album/07HCUJzOLakHtftpKEKa5G) | 3:00 |
 | 25 | [Follow Me](https://open.spotify.com/track/5tvvVkt2MhUHfBXEwO1eH3) | [Tryhardninja](https://open.spotify.com/artist/0B7Y5KDNScTBzeN7DY74YG) | [Five Nights at Freddy's Songs](https://open.spotify.com/album/0A1G2GuC0F45Jb7tYn5w4e) | 3:24 |
 | 26 | [Labyrinth](https://open.spotify.com/track/5F4nIA3JX7ONBuTw2tZI1Y) | [CG5](https://open.spotify.com/artist/3YJDqtTSjydvUpTvU1fJ6O), [Caleb Hyles](https://open.spotify.com/artist/6jDwZUFYUH1dC4xWzOd8QU), [Dagames](https://open.spotify.com/artist/6O2VM2aM7KwyDIJ4VvAbYx), [Fandroid!](https://open.spotify.com/artist/1ugK8Asl9rFTv6ehF9puwv), [Chi\-Chi](https://open.spotify.com/artist/73z7IaMZWklUITS2qrtXzW), [Dawko](https://open.spotify.com/artist/4FnnJYQ1aBQ5sSm0CtKdbj) | [Labyrinth](https://open.spotify.com/album/4l4P6L7AMd6clhPj7qWAaE) | 4:40 |
-| 27 | [The Mangle](https://open.spotify.com/track/2OgwVOy19kJhbjXPK5yOsr) | [Skyfixing](https://open.spotify.com/artist/7oNQoSI5fptljRAjvVsMdz), [Nicole Gene](https://open.spotify.com/artist/7KMSiW9w1EMiKvJttYVF2F) | [Nightmares](https://open.spotify.com/album/7jdPFgXuKTjnI3zSzNS7Wg) | 4:30 |
+| 27 | [The Mangle](https://open.spotify.com/track/2OgwVOy19kJhbjXPK5yOsr) | [Groundbreaking](https://open.spotify.com/artist/4s0H5EBBiQRBiuGCgN6svC), [Nicole Gene](https://open.spotify.com/artist/7KMSiW9w1EMiKvJttYVF2F) | [Nightmares](https://open.spotify.com/album/7jdPFgXuKTjnI3zSzNS7Wg) | 4:30 |
 | 28 | [You Belong Here](https://open.spotify.com/track/3ZyaP0GyRehoDrhPkuh5Qw) | [JT Music](https://open.spotify.com/artist/5qvrAlKjc0Sqrqz6v2wBGk), [Andrea Storm Kaden](https://open.spotify.com/artist/2suYQj2pv0J5xZdNNqzDaU) | [All Five Nights](https://open.spotify.com/album/0VMe8U5hfSlZUP7Xw9Xwln) | 4:13 |
 | 29 | [Afton Family](https://open.spotify.com/track/65FsOUIs2n6oeo0DJ7R9PY) | [ApAngryPiggy](https://open.spotify.com/artist/3o0F4cP9HGYY6WEoDBAzk1) | [Afton Family](https://open.spotify.com/album/4PBYZ7H6q0EIfsHAYkWYgM) | 3:49 |
 | 30 | [Shadow Bonnie: Music Box](https://open.spotify.com/track/6j6UdEAxeBq6kp0CFrmyIq) | [DHeusta](https://open.spotify.com/artist/1dYLcY8kRTQ2l2Gsvq96MY) | [Shadow Bonnie: Music Box](https://open.spotify.com/album/7qtOOQ5HwJKuoKpZibpmts) | 2:24 |

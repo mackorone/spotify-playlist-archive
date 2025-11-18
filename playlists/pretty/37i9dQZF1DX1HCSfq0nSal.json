@@ -1,15 +1,15 @@
 {
   "description": "Si est\u00e1 pegao, est\u00e1 aqu\u00ed. Feat. JC Reyes",
-  "num_followers": 1501313,
+  "num_followers": 1501281,
   "original_name": "PEGAO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAACQ4V98vxR0b/AgIxOfmE6UKTcX",
+  "snapshot_id": "AAAAAM3Cao4G8ppBjmdif+tINKVptO2w",
   "tracks": [
     {
-      "added_at": "2025-11-14 09:16:23",
+      "added_at": "2025-11-17 17:53:48",
       "album": {
         "name": "VIVIR PA' QUEDARSE",
         "url": "https://open.spotify.com/album/7KyQI0HwUtbq5tmH6yMaHt"
@@ -33,7 +33,7 @@
       "url": "https://open.spotify.com/track/3IfAANbZ6YqkEF009VukMB"
     },
     {
-      "added_at": "2025-11-14 09:16:23",
+      "added_at": "2025-11-17 17:53:48",
       "album": {
         "name": "Que Sensaci\u00f3n (Remix)",
         "url": "https://open.spotify.com/album/27L1rWQUpb8ctfroyDofHZ"
@@ -53,7 +53,27 @@
       "url": "https://open.spotify.com/track/0xh2JGmHH1lgRMDaIL94pz"
     },
     {
-      "added_at": "2025-11-14 09:16:23",
+      "added_at": "2025-11-17 17:53:48",
+      "album": {
+        "name": "LOQUITA",
+        "url": "https://open.spotify.com/album/1K5TbHKzrXWTcn8aESR08d"
+      },
+      "artists": [
+        {
+          "name": "JC Reyes",
+          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
+        },
+        {
+          "name": "Slayter",
+          "url": "https://open.spotify.com/artist/44cW3xznP61BXbu0e7fgxn"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "LOQUITA",
+      "url": "https://open.spotify.com/track/0Jep4PtPjGk8IIrAP4W8Rz"
+    },
+    {
+      "added_at": "2025-11-17 17:53:48",
       "album": {
         "name": "PINKY PROMISE 2",
         "url": "https://open.spotify.com/album/5D9814ry3IMoiArNV7dwng"
@@ -77,10 +97,26 @@
       "url": "https://open.spotify.com/track/6hFzA2zbArwtGpmTQEsxnn"
     },
     {
-      "added_at": "2025-11-14 09:16:23",
+      "added_at": "2025-11-17 17:53:48",
       "album": {
-        "name": "LOQUITA",
-        "url": "https://open.spotify.com/album/1K5TbHKzrXWTcn8aESR08d"
+        "name": "LOVE",
+        "url": "https://open.spotify.com/album/5mgrmxXmQpIwXyEwXzou29"
+      },
+      "artists": [
+        {
+          "name": "Clarent",
+          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "LOVE",
+      "url": "https://open.spotify.com/track/3YmFH8V7TUtLAYhnlswkdQ"
+    },
+    {
+      "added_at": "2025-11-17 17:53:48",
+      "album": {
+        "name": "VIVIR PA' QUEDARSE",
+        "url": "https://open.spotify.com/album/7KyQI0HwUtbq5tmH6yMaHt"
       },
       "artists": [
         {
@@ -88,16 +124,44 @@
           "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
         },
         {
-          "name": "Slayter",
-          "url": "https://open.spotify.com/artist/44cW3xznP61BXbu0e7fgxn"
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "Piero 47",
+          "url": "https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB"
         }
       ],
-      "duration_ms": 150000,
-      "name": "LOQUITA",
-      "url": "https://open.spotify.com/track/0Jep4PtPjGk8IIrAP4W8Rz"
+      "duration_ms": 251653,
+      "name": "MAKATUSSIN",
+      "url": "https://open.spotify.com/track/0rm4galJHD3P6MXSpfFsCK"
     },
     {
-      "added_at": "2025-11-14 09:16:23",
+      "added_at": "2025-11-17 17:53:48",
+      "album": {
+        "name": "CUPIDOxX",
+        "url": "https://open.spotify.com/album/2sUSOrqJo2ivs5vdROMPfD"
+      },
+      "artists": [
+        {
+          "name": "Juseph",
+          "url": "https://open.spotify.com/artist/5kgDdP7a4TsvkF08gpJGX0"
+        },
+        {
+          "name": "La Pantera",
+          "url": "https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL"
+        },
+        {
+          "name": "Lucho RK",
+          "url": "https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ"
+        }
+      ],
+      "duration_ms": 216470,
+      "name": "CUPIDOxX",
+      "url": "https://open.spotify.com/track/65pAD5JQJAgqpcnSzHGbrP"
+    },
+    {
+      "added_at": "2025-11-17 17:53:48",
       "album": {
         "name": "444 (Remix)",
         "url": "https://open.spotify.com/album/3mVZl9O0ungJP8CG7iPKTD"
@@ -125,31 +189,7 @@
       "url": "https://open.spotify.com/track/5AK6QqM8aUXXTk6oY00ZRh"
     },
     {
-      "added_at": "2025-11-14 09:16:23",
-      "album": {
-        "name": "CUPIDOxX",
-        "url": "https://open.spotify.com/album/2sUSOrqJo2ivs5vdROMPfD"
-      },
-      "artists": [
-        {
-          "name": "Juseph",
-          "url": "https://open.spotify.com/artist/5kgDdP7a4TsvkF08gpJGX0"
-        },
-        {
-          "name": "La Pantera",
-          "url": "https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL"
-        },
-        {
-          "name": "Lucho RK",
-          "url": "https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ"
-        }
-      ],
-      "duration_ms": 216470,
-      "name": "CUPIDOxX",
-      "url": "https://open.spotify.com/track/65pAD5JQJAgqpcnSzHGbrP"
-    },
-    {
-      "added_at": "2025-11-14 09:16:23",
+      "added_at": "2025-11-17 17:53:48",
       "album": {
         "name": "FX De La Rose",
         "url": "https://open.spotify.com/album/5axCFUuprKXWFT1zpbv4sQ"
@@ -169,23 +209,7 @@
       "url": "https://open.spotify.com/track/0n5av7q5DWBdWrF4cjZ5km"
     },
     {
-      "added_at": "2025-11-14 09:16:23",
-      "album": {
-        "name": "LOVE",
-        "url": "https://open.spotify.com/album/5mgrmxXmQpIwXyEwXzou29"
-      },
-      "artists": [
-        {
-          "name": "Clarent",
-          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "LOVE",
-      "url": "https://open.spotify.com/track/3YmFH8V7TUtLAYhnlswkdQ"
-    },
-    {
-      "added_at": "2025-11-14 09:16:23",
+      "added_at": "2025-11-17 17:53:48",
       "album": {
         "name": "Talento",
         "url": "https://open.spotify.com/album/0OPj1ePYra9uwgebE6HHpU"
@@ -205,31 +229,7 @@
       "url": "https://open.spotify.com/track/7sChwC2NZjGc2Kdni3hlDg"
     },
     {
-      "added_at": "2025-11-14 09:16:23",
-      "album": {
-        "name": "VIVIR PA' QUEDARSE",
-        "url": "https://open.spotify.com/album/7KyQI0HwUtbq5tmH6yMaHt"
-      },
-      "artists": [
-        {
-          "name": "JC Reyes",
-          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
-        },
-        {
-          "name": "Kidd Voodoo",
-          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
-        },
-        {
-          "name": "Piero 47",
-          "url": "https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB"
-        }
-      ],
-      "duration_ms": 251653,
-      "name": "MAKATUSSIN",
-      "url": "https://open.spotify.com/track/0rm4galJHD3P6MXSpfFsCK"
-    },
-    {
-      "added_at": "2025-11-14 09:16:23",
+      "added_at": "2025-11-17 17:53:48",
       "album": {
         "name": "The Bad Boy",
         "url": "https://open.spotify.com/album/5eklEkHSU1l3yewxdePzRL"
@@ -249,7 +249,7 @@
       "url": "https://open.spotify.com/track/614NVFo5csQqRnryl4jXs2"
     },
     {
-      "added_at": "2025-11-14 09:16:23",
+      "added_at": "2025-11-17 17:53:48",
       "album": {
         "name": "AV\u00cdSAME",
         "url": "https://open.spotify.com/album/396EIQk3iN4a2ab86ZiVOJ"
@@ -265,7 +265,7 @@
       "url": "https://open.spotify.com/track/5sJENjW2kNuzIFxDSuid44"
     },
     {
-      "added_at": "2025-11-14 09:16:23",
+      "added_at": "2025-11-17 17:53:48",
       "album": {
         "name": "Problema (with Luar La L)",
         "url": "https://open.spotify.com/album/2ka3g5xlLYmcsTYUXVRbBA"
@@ -285,67 +285,27 @@
       "url": "https://open.spotify.com/track/37H9cf57o6BcExHB06N2OU"
     },
     {
-      "added_at": "2025-11-14 09:16:23",
+      "added_at": "2025-11-17 17:53:48",
       "album": {
-        "name": "FX De La Rose",
-        "url": "https://open.spotify.com/album/10FrXNEY6Inn07cZFBf3k3"
+        "name": "NO WAY",
+        "url": "https://open.spotify.com/album/39HUq09WMtlEbTB2Jwma3y"
       },
       "artists": [
         {
-          "name": "De La Rose",
-          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
-        }
-      ],
-      "duration_ms": 174293,
-      "name": "ALL TIME",
-      "url": "https://open.spotify.com/track/7lKEEchVEUdxZUJrqNbnUN"
-    },
-    {
-      "added_at": "2025-11-14 09:16:23",
-      "album": {
-        "name": "Pieza Exhibici\u00f3n",
-        "url": "https://open.spotify.com/album/7p5H5BRUqMenAPNZmLsiuX"
-      },
-      "artists": [
-        {
-          "name": "Luar La L",
-          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+          "name": "JC Reyes",
+          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
         },
         {
-          "name": "ROA",
-          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
-        },
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+          "name": "Louis BPM",
+          "url": "https://open.spotify.com/artist/54NBSkiOmMBEfacGfefPq0"
         }
       ],
-      "duration_ms": 283668,
-      "name": "Pieza Exhibici\u00f3n",
-      "url": "https://open.spotify.com/track/6BIeMM4lJYzeVlYP289uDp"
+      "duration_ms": 164571,
+      "name": "NO WAY",
+      "url": "https://open.spotify.com/track/6KevDI27HMdDr7fSvJMO4i"
     },
     {
-      "added_at": "2025-11-14 09:16:23",
-      "album": {
-        "name": "Avece",
-        "url": "https://open.spotify.com/album/3MscqliTChw3pPK5Ohlclk"
-      },
-      "artists": [
-        {
-          "name": "NTG",
-          "url": "https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 152082,
-      "name": "Avece",
-      "url": "https://open.spotify.com/track/7xpW5u12cuoIWZA4PpWtLO"
-    },
-    {
-      "added_at": "2025-11-14 09:16:23",
+      "added_at": "2025-11-17 17:53:48",
       "album": {
         "name": "Ruina",
         "url": "https://open.spotify.com/album/0pdvMmMdvKRIkms1KjpX0W"
@@ -373,27 +333,7 @@
       "url": "https://open.spotify.com/track/1k9ehVSjlGY0GZFhrHavnH"
     },
     {
-      "added_at": "2025-11-14 09:16:23",
-      "album": {
-        "name": "NO WAY",
-        "url": "https://open.spotify.com/album/39HUq09WMtlEbTB2Jwma3y"
-      },
-      "artists": [
-        {
-          "name": "JC Reyes",
-          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
-        },
-        {
-          "name": "Louis BPM",
-          "url": "https://open.spotify.com/artist/54NBSkiOmMBEfacGfefPq0"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "NO WAY",
-      "url": "https://open.spotify.com/track/6KevDI27HMdDr7fSvJMO4i"
-    },
-    {
-      "added_at": "2025-11-14 09:16:23",
+      "added_at": "2025-11-17 17:53:48",
       "album": {
         "name": "Cosa Nuestra: Cap\u00edtulo 0",
         "url": "https://open.spotify.com/album/752aUI4EPYOGrNuo74pmCR"
@@ -417,7 +357,7 @@
       "url": "https://open.spotify.com/track/6Wr4xBLqAAXHrtiUghxEwL"
     },
     {
-      "added_at": "2025-11-14 09:16:23",
+      "added_at": "2025-11-17 17:53:48",
       "album": {
         "name": "$F VERANO MIX VOL.2",
         "url": "https://open.spotify.com/album/6JJVx2agB7StZF3qF7s7gu"
@@ -441,7 +381,47 @@
       "url": "https://open.spotify.com/track/0ZvOVala8uRK6cVmp5p5qx"
     },
     {
-      "added_at": "2025-11-14 09:16:23",
+      "added_at": "2025-11-17 17:53:48",
+      "album": {
+        "name": "GANGTEL",
+        "url": "https://open.spotify.com/album/1i5UQggnBjvDCOzzmtqUOW"
+      },
+      "artists": [
+        {
+          "name": "Gonzy",
+          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
+        }
+      ],
+      "duration_ms": 176645,
+      "name": "GANGTEL",
+      "url": "https://open.spotify.com/track/2XoH0IGikmWIRkCBBqvfp1"
+    },
+    {
+      "added_at": "2025-11-17 17:53:48",
+      "album": {
+        "name": "Pieza Exhibici\u00f3n",
+        "url": "https://open.spotify.com/album/7p5H5BRUqMenAPNZmLsiuX"
+      },
+      "artists": [
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        },
+        {
+          "name": "ROA",
+          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "duration_ms": 283668,
+      "name": "Pieza Exhibici\u00f3n",
+      "url": "https://open.spotify.com/track/6BIeMM4lJYzeVlYP289uDp"
+    },
+    {
+      "added_at": "2025-11-17 17:53:48",
       "album": {
         "name": "PPC",
         "url": "https://open.spotify.com/album/4V5HyefyVSF15kOhuy11up"
@@ -461,7 +441,7 @@
       "url": "https://open.spotify.com/track/30ga1gIdpg6M6ZshWo7YgC"
     },
     {
-      "added_at": "2025-11-14 09:16:23",
+      "added_at": "2025-11-17 17:53:48",
       "album": {
         "name": "Underwater",
         "url": "https://open.spotify.com/album/4CD94BoI6vtgW8FRcqb08Y"
@@ -477,23 +457,7 @@
       "url": "https://open.spotify.com/track/6XmgziZuWHy5wbBVVbE4uv"
     },
     {
-      "added_at": "2025-11-14 09:16:23",
-      "album": {
-        "name": "GANGTEL",
-        "url": "https://open.spotify.com/album/1i5UQggnBjvDCOzzmtqUOW"
-      },
-      "artists": [
-        {
-          "name": "Gonzy",
-          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
-        }
-      ],
-      "duration_ms": 176645,
-      "name": "GANGTEL",
-      "url": "https://open.spotify.com/track/2XoH0IGikmWIRkCBBqvfp1"
-    },
-    {
-      "added_at": "2025-11-14 09:16:23",
+      "added_at": "2025-11-17 17:53:48",
       "album": {
         "name": "Duro Ma",
         "url": "https://open.spotify.com/album/6LUX9sGKsuewSe7ErFFEbJ"
@@ -517,7 +481,47 @@
       "url": "https://open.spotify.com/track/5NTdorni110puBoPgWhK58"
     },
     {
-      "added_at": "2025-11-14 09:16:23",
+      "added_at": "2025-11-17 17:53:48",
+      "album": {
+        "name": "Scat Pack",
+        "url": "https://open.spotify.com/album/2GokHfG7eRuwqTCsptZNRx"
+      },
+      "artists": [
+        {
+          "name": "Clarent",
+          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "duration_ms": 253658,
+      "name": "Scat Pack",
+      "url": "https://open.spotify.com/track/43cjtebODc9uKZbhAhD2J2"
+    },
+    {
+      "added_at": "2025-11-17 17:53:48",
+      "album": {
+        "name": "TRAUMAS E INDICA",
+        "url": "https://open.spotify.com/album/5sKqnyTDszmAll1rEyrzFi"
+      },
+      "artists": [
+        {
+          "name": "La Pantera",
+          "url": "https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL"
+        },
+        {
+          "name": "Botlok",
+          "url": "https://open.spotify.com/artist/2JMMYnclwW8fhcgty8VSxg"
+        }
+      ],
+      "duration_ms": 182616,
+      "name": "TRAUMAS E INDICA",
+      "url": "https://open.spotify.com/track/4yjvsPe7zZ7PweGfSonhwW"
+    },
+    {
+      "added_at": "2025-11-17 17:53:48",
       "album": {
         "name": "YOGURCITO REMIX (feat. Kris R., ROA)",
         "url": "https://open.spotify.com/album/3VpceHZ7RMR5Te1GljOED9"
@@ -553,79 +557,27 @@
       "url": "https://open.spotify.com/track/7nrd0eIftH3NQLfgk20Qp9"
     },
     {
-      "added_at": "2025-11-14 09:16:23",
+      "added_at": "2025-11-17 17:53:48",
       "album": {
-        "name": "TRAUMAS E INDICA",
-        "url": "https://open.spotify.com/album/5sKqnyTDszmAll1rEyrzFi"
+        "name": "Avece",
+        "url": "https://open.spotify.com/album/3MscqliTChw3pPK5Ohlclk"
       },
       "artists": [
         {
-          "name": "La Pantera",
-          "url": "https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL"
+          "name": "NTG",
+          "url": "https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ"
         },
         {
-          "name": "Botlok",
-          "url": "https://open.spotify.com/artist/2JMMYnclwW8fhcgty8VSxg"
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 182616,
-      "name": "TRAUMAS E INDICA",
-      "url": "https://open.spotify.com/track/4yjvsPe7zZ7PweGfSonhwW"
+      "duration_ms": 152082,
+      "name": "Avece",
+      "url": "https://open.spotify.com/track/7xpW5u12cuoIWZA4PpWtLO"
     },
     {
-      "added_at": "2025-11-14 09:16:23",
-      "album": {
-        "name": "Revol\u00fa",
-        "url": "https://open.spotify.com/album/5fO2I7hEgGQVV17Sky863O"
-      },
-      "artists": [
-        {
-          "name": "Rvfv",
-          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
-        }
-      ],
-      "duration_ms": 200156,
-      "name": "Revol\u00fa",
-      "url": "https://open.spotify.com/track/0PLEcRTmhL9By2KMTqLbzz"
-    },
-    {
-      "added_at": "2025-11-14 09:16:23",
-      "album": {
-        "name": "Scat Pack",
-        "url": "https://open.spotify.com/album/2GokHfG7eRuwqTCsptZNRx"
-      },
-      "artists": [
-        {
-          "name": "Clarent",
-          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
-        },
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        }
-      ],
-      "duration_ms": 253658,
-      "name": "Scat Pack",
-      "url": "https://open.spotify.com/track/43cjtebODc9uKZbhAhD2J2"
-    },
-    {
-      "added_at": "2025-11-14 09:16:23",
-      "album": {
-        "name": "SETEADORA",
-        "url": "https://open.spotify.com/album/52NbDHSGAaS67ows7hTgaq"
-      },
-      "artists": [
-        {
-          "name": "LAJA",
-          "url": "https://open.spotify.com/artist/6z6URinoHeWcsTB20nX3qb"
-        }
-      ],
-      "duration_ms": 137012,
-      "name": "SETEADORA",
-      "url": "https://open.spotify.com/track/7DprNQSiwC4jBV7bwY761J"
-    },
-    {
-      "added_at": "2025-11-14 09:16:23",
+      "added_at": "2025-11-17 17:53:48",
       "album": {
         "name": "FAYA",
         "url": "https://open.spotify.com/album/7iZyITUW27dx2NUzOzU4j4"
@@ -649,27 +601,23 @@
       "url": "https://open.spotify.com/track/4w9Lbv2E3kuXF1zMz71xh7"
     },
     {
-      "added_at": "2025-11-14 09:16:23",
+      "added_at": "2025-11-17 17:53:48",
       "album": {
-        "name": "PRE\u00d1\u00c1",
-        "url": "https://open.spotify.com/album/7brEChjNyiCa6aEi4VtMU6"
+        "name": "Revol\u00fa",
+        "url": "https://open.spotify.com/album/5fO2I7hEgGQVV17Sky863O"
       },
       "artists": [
         {
-          "name": "Lucho RK",
-          "url": "https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ"
-        },
-        {
-          "name": "GIO",
-          "url": "https://open.spotify.com/artist/1DzHYzxnMTpElJgNoq1bEH"
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
         }
       ],
-      "duration_ms": 208721,
-      "name": "PRE\u00d1\u00c1",
-      "url": "https://open.spotify.com/track/454b0WL1k7vQ8MX1wRNRuS"
+      "duration_ms": 200156,
+      "name": "Revol\u00fa",
+      "url": "https://open.spotify.com/track/0PLEcRTmhL9By2KMTqLbzz"
     },
     {
-      "added_at": "2025-11-14 09:16:23",
+      "added_at": "2025-11-17 17:53:48",
       "album": {
         "name": "Novio No",
         "url": "https://open.spotify.com/album/2DrUbcRALdDHhZUS0BaFs7"
@@ -693,7 +641,7 @@
       "url": "https://open.spotify.com/track/1PwccGgKAgmtCor56QTvaG"
     },
     {
-      "added_at": "2025-11-14 09:16:23",
+      "added_at": "2025-11-17 17:53:48",
       "album": {
         "name": "K HUBO PS MOR",
         "url": "https://open.spotify.com/album/4vmg2S2isfFP5l9Sc6Qvjw"
@@ -717,27 +665,7 @@
       "url": "https://open.spotify.com/track/2lhp8Nc4xsikcJXl7vNWmM"
     },
     {
-      "added_at": "2025-11-14 09:16:23",
-      "album": {
-        "name": "Killa",
-        "url": "https://open.spotify.com/album/40oMlBlaBhH4XbO6cgU90u"
-      },
-      "artists": [
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        },
-        {
-          "name": "Clarent",
-          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
-        }
-      ],
-      "duration_ms": 188673,
-      "name": "Killa",
-      "url": "https://open.spotify.com/track/76GPCCO2Qy5d68vSpAcliC"
-    },
-    {
-      "added_at": "2025-11-14 09:16:23",
+      "added_at": "2025-11-17 17:53:48",
       "album": {
         "name": "Primer Lugar",
         "url": "https://open.spotify.com/album/5Jk8q1BVRKEyjtruBCSQTe"
@@ -757,27 +685,67 @@
       "url": "https://open.spotify.com/track/5rBE7fZIOauzXUm1E9vPxM"
     },
     {
-      "added_at": "2025-11-14 09:16:23",
+      "added_at": "2025-11-17 17:53:48",
       "album": {
-        "name": "Prettygyal",
-        "url": "https://open.spotify.com/album/4przS4l6ACDWIPCSsolWaG"
+        "name": "SETEADORA",
+        "url": "https://open.spotify.com/album/52NbDHSGAaS67ows7hTgaq"
       },
       "artists": [
         {
-          "name": "Came Beats",
-          "url": "https://open.spotify.com/artist/6Q3ske8DX705YojfAgidez"
-        },
-        {
-          "name": "D.Valentino",
-          "url": "https://open.spotify.com/artist/01WzyfcDKX94myMXnGfU4N"
+          "name": "LAJA",
+          "url": "https://open.spotify.com/artist/6z6URinoHeWcsTB20nX3qb"
         }
       ],
-      "duration_ms": 143030,
-      "name": "Prettygyal",
-      "url": "https://open.spotify.com/track/0nw0be0MBaUCvsIwkEddfB"
+      "duration_ms": 137012,
+      "name": "SETEADORA",
+      "url": "https://open.spotify.com/track/7DprNQSiwC4jBV7bwY761J"
     },
     {
-      "added_at": "2025-11-14 09:16:23",
+      "added_at": "2025-11-17 17:53:48",
+      "album": {
+        "name": "SUERTE",
+        "url": "https://open.spotify.com/album/7mCiwgVTJt0k8QeLp2Q5rz"
+      },
+      "artists": [
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        },
+        {
+          "name": "RaiNao",
+          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
+        },
+        {
+          "name": "Slow Jamz",
+          "url": "https://open.spotify.com/artist/5OxY89csMbfechtyR7EX4o"
+        }
+      ],
+      "duration_ms": 193654,
+      "name": "SUERTE",
+      "url": "https://open.spotify.com/track/6pJj7JbS6TXCZW19BzXot6"
+    },
+    {
+      "added_at": "2025-11-17 17:53:48",
+      "album": {
+        "name": "PRE\u00d1\u00c1",
+        "url": "https://open.spotify.com/album/7brEChjNyiCa6aEi4VtMU6"
+      },
+      "artists": [
+        {
+          "name": "Lucho RK",
+          "url": "https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ"
+        },
+        {
+          "name": "GIO",
+          "url": "https://open.spotify.com/artist/1DzHYzxnMTpElJgNoq1bEH"
+        }
+      ],
+      "duration_ms": 208721,
+      "name": "PRE\u00d1\u00c1",
+      "url": "https://open.spotify.com/track/454b0WL1k7vQ8MX1wRNRuS"
+    },
+    {
+      "added_at": "2025-11-17 17:53:48",
       "album": {
         "name": "ACELERAA\u00c1",
         "url": "https://open.spotify.com/album/2TKn4GY7C2jZ7DtPJo0noi"
@@ -805,31 +773,27 @@
       "url": "https://open.spotify.com/track/2BEJp2meUuyLN8TxU3bZQn"
     },
     {
-      "added_at": "2025-11-14 09:16:23",
+      "added_at": "2025-11-17 17:53:48",
       "album": {
-        "name": "SUERTE",
-        "url": "https://open.spotify.com/album/7mCiwgVTJt0k8QeLp2Q5rz"
+        "name": "Killa",
+        "url": "https://open.spotify.com/album/40oMlBlaBhH4XbO6cgU90u"
       },
       "artists": [
         {
-          "name": "Yan Block",
-          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
         },
         {
-          "name": "RaiNao",
-          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
-        },
-        {
-          "name": "Slow Jamz",
-          "url": "https://open.spotify.com/artist/5OxY89csMbfechtyR7EX4o"
+          "name": "Clarent",
+          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
         }
       ],
-      "duration_ms": 193654,
-      "name": "SUERTE",
-      "url": "https://open.spotify.com/track/6pJj7JbS6TXCZW19BzXot6"
+      "duration_ms": 188673,
+      "name": "Killa",
+      "url": "https://open.spotify.com/track/76GPCCO2Qy5d68vSpAcliC"
     },
     {
-      "added_at": "2025-11-14 09:16:23",
+      "added_at": "2025-11-17 17:53:48",
       "album": {
         "name": "WIFE MATERIAL*",
         "url": "https://open.spotify.com/album/45OKTplPmo1X9JMvv63n5R"
@@ -849,7 +813,43 @@
       "url": "https://open.spotify.com/track/2rRf0QyHyweHJgWw7pgT7p"
     },
     {
-      "added_at": "2025-11-14 09:16:23",
+      "added_at": "2025-11-17 17:53:48",
+      "album": {
+        "name": "FX De La Rose",
+        "url": "https://open.spotify.com/album/10FrXNEY6Inn07cZFBf3k3"
+      },
+      "artists": [
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        }
+      ],
+      "duration_ms": 174293,
+      "name": "ALL TIME",
+      "url": "https://open.spotify.com/track/7lKEEchVEUdxZUJrqNbnUN"
+    },
+    {
+      "added_at": "2025-11-17 17:53:48",
+      "album": {
+        "name": "Prettygyal",
+        "url": "https://open.spotify.com/album/4przS4l6ACDWIPCSsolWaG"
+      },
+      "artists": [
+        {
+          "name": "Came Beats",
+          "url": "https://open.spotify.com/artist/6Q3ske8DX705YojfAgidez"
+        },
+        {
+          "name": "D.Valentino",
+          "url": "https://open.spotify.com/artist/01WzyfcDKX94myMXnGfU4N"
+        }
+      ],
+      "duration_ms": 143030,
+      "name": "Prettygyal",
+      "url": "https://open.spotify.com/track/0nw0be0MBaUCvsIwkEddfB"
+    },
+    {
+      "added_at": "2025-11-17 17:53:48",
       "album": {
         "name": "Underwater",
         "url": "https://open.spotify.com/album/4CD94BoI6vtgW8FRcqb08Y"

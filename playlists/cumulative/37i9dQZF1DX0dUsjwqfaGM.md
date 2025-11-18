@@ -2,7 +2,7 @@
 
 ### [RADAR Vietnam](https://open.spotify.com/playlist/37i9dQZF1DX0dUsjwqfaGM)
 
-> Thế hệ nghệ sĩ mới\. Ảnh bìa: GUrbane
+> Thế hệ nghệ sĩ mới\. Ảnh bìa: VƯƠNG BÌNH
 
 183 songs - 10 hr 34 min
 
@@ -33,7 +33,7 @@
 | [Bồng Bềnh Bồng Bềnh](https://open.spotify.com/track/6RwBMr8gI1vvJLcAzzsMEc) | [Vy Vy](https://open.spotify.com/artist/6H2gXTxEeGqSwsgWCIZs4j) | [Buộc Vào Cơn Gió](https://open.spotify.com/album/4basKSUKBplqhy2mMEzK6L) | 4:18 | 2024-12-04 |  |
 | [chanh tuyết](https://open.spotify.com/track/0i3kkjdLLumFcDIPwIY8b4) | [SIXTYUPTOWN](https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay) | [chanh tuyết](https://open.spotify.com/album/0pJIWUfipTVXuJ4ivTe8xy) | 2:40 | 2024-12-04 |  |
 | [Chanh Tuyết \- Live At Home](https://open.spotify.com/track/3PzJrG7RJsoYDKc9t4r5KY) | [SIXTYUPTOWN](https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay), [The Banisterz](https://open.spotify.com/artist/00qMj1gYwwMHPNqPDZRxQV) | [Chanh Tuyết \(Live At Home\)](https://open.spotify.com/album/7HWCx7oZgPhwuN943ZLIuj) | 3:22 | 2024-04-02 | 2025-03-28 |
-| [Checkmate: The Fame](https://open.spotify.com/track/7GoKGI2T3RjhWlIHOil4ui) | [Teddie J](https://open.spotify.com/artist/5L6kiKUKCDWxCg3gOKDEMk), [Anna Da Kiddo](https://open.spotify.com/artist/54bTSaYNNPxjF9LN9gu4E4) | [Checkmate: The Fame](https://open.spotify.com/album/2MR7O6gZm3gJLqA5ycclcd) | 2:59 | 2024-12-04 | 2025-03-28 |
+| [Checkmate: The Fame](https://open.spotify.com/track/7GoKGI2T3RjhWlIHOil4ui) | [Teddie J](https://open.spotify.com/artist/5L6kiKUKCDWxCg3gOKDEMk), [Anna Da Kiddo](https://open.spotify.com/artist/54bTSaYNNPxjF9LN9gu4E4) | [Checkmate: The Fame](https://open.spotify.com/album/2MR7O6gZm3gJLqA5ycclcd) | 2:59 | 2024-12-04 |  |
 | [chiều thứ 7](https://open.spotify.com/track/4Via6cJtYwTD95mrrwgRkw) | [SIXTYUPTOWN](https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay), [Daisy Le Garçon](https://open.spotify.com/artist/5J3aJu1LxotI5WXEtTPiHo) | [chiều thứ 7](https://open.spotify.com/album/4U8Krj8WzLaBEwlSYle5Rk) | 4:39 | 2024-12-04 |  |
 | [Cho phép tôi mời anh một ly](https://open.spotify.com/track/4XP59vzJsW9CRptktJqEwA) | [VƯƠNG BÌNH](https://open.spotify.com/artist/351mBX7BjjI2plbfozIzqb), [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV) | [ANH BỜ VAI](https://open.spotify.com/album/6GpNEurteQ3B3x1gY1HD2z) | 2:58 | 2025-03-27 |  |
 | [Chú Lật Đật](https://open.spotify.com/track/39uULsf4hx4pVyLgmLuab7) | [Vy Vy](https://open.spotify.com/artist/6H2gXTxEeGqSwsgWCIZs4j) | [Chú Lật Đật](https://open.spotify.com/album/2ycmmF2YPuQ53trzA3JcLN) | 4:10 | 2024-12-04 | 2025-03-28 |
@@ -117,7 +117,7 @@
 | [MOT NGUOI VI EM](https://open.spotify.com/track/6lmJXxTcLTe6bdgwSfTqhO) | [WEAN](https://open.spotify.com/artist/30eFAXoU2kTjJPf2cq80B8) | [MOT NGUOI VI EM](https://open.spotify.com/album/4RdYWBn5Vw5SOYH0A30v1u) | 3:30 | 2022-09-09 | 2024-04-03 |
 | [my, my, my](https://open.spotify.com/track/1W1SPIukViuTd6wPo7hWB6) | [tanny ng](https://open.spotify.com/artist/6SmToDyj12uS8WGrc6m8ei), [juhye](https://open.spotify.com/artist/3xjFSJEkVSZvWdhMK4aOPl) | [my, my, my](https://open.spotify.com/album/701FniKi8G2MPnpbryojrj) | 3:36 | 2023-10-05 | 2024-04-03 |
 | [Mê](https://open.spotify.com/track/6Rbz4nzR4ytexB7Zx28AmL) | [Hoàng Duyên](https://open.spotify.com/artist/3LbBKYlyMaATS8IIe7HJ0d) | [Mê](https://open.spotify.com/album/48ZqlDgLxU4jjkUGnopIFk) | 3:38 | 2022-09-09 | 2024-09-27 |
-| [mơ](https://open.spotify.com/track/7egXRAL5jmZMWcgu0OqzuQ) | [m tú](https://open.spotify.com/artist/7a6FvNRlbkR8oBXKIHUGr6) | [mơ](https://open.spotify.com/album/5uuAgeZeoZmEIYxg6LTvZM) | 3:10 | 2024-12-04 |  |
+| [mơ](https://open.spotify.com/track/7egXRAL5jmZMWcgu0OqzuQ) | [m tú](https://open.spotify.com/artist/7a6FvNRlbkR8oBXKIHUGr6) | [mơ](https://open.spotify.com/album/5uuAgeZeoZmEIYxg6LTvZM) | 3:10 | 2024-12-04 | 2025-11-18 |
 | [Mưa Ơi Đừng Rơi](https://open.spotify.com/track/6LjnpeWCzBpbkP5DqeuqlU) | [Cầm](https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj), [REDT](https://open.spotify.com/artist/5iggzY0xY68wNNWXhiPrZz) | [Mưa Ơi Đừng Rơi](https://open.spotify.com/album/0oEecgtZQYMnTZpP1fSQMf) | 3:29 | 2023-04-29 | 2023-09-15 |
 | [Mập Mờ](https://open.spotify.com/track/1VPZWsMQaGsYkR3fBakklP) | [Phí Phương Anh](https://open.spotify.com/artist/1OnnVNvbz0OsApDXHUX2bM), [RIN9](https://open.spotify.com/artist/6InVt9jASvsJY7qA60AGzf), [DREAMeR](https://open.spotify.com/artist/1f3aY4gX0O9B59iQyZXY0I) | [Dancing Queen](https://open.spotify.com/album/2Gjv7giZNiHRmD45yS6NId) | 3:45 | 2024-04-02 | 2024-12-05 |
 | [Mập Mờ \(feat\. RIN9\)](https://open.spotify.com/track/3tKNOjg2saBDd76aOtr314) | [Phí Phương Anh](https://open.spotify.com/artist/1OnnVNvbz0OsApDXHUX2bM), [RIN9](https://open.spotify.com/artist/6InVt9jASvsJY7qA60AGzf) | [Mập Mờ \(feat\. RIN9\)](https://open.spotify.com/album/0hQQ4AUaI7l5OPpdBDYm7T) | 3:51 | 2024-02-01 | 2024-04-19 |

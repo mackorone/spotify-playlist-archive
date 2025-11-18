@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRfCgAAAAABnsG9grkSg5c5UBjsZS819",
+  "snapshot_id": "aRkUAAAAAABQ56ImXoUPhT3e0cgSSnDz",
   "tracks": [
     {
       "added_at": null,
@@ -551,6 +551,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Valentine (What's It Gonna Be)",
+        "url": "https://open.spotify.com/album/74StlHqfhj4TdqDspB2tEO"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 207355,
+      "name": "Valentine (What's It Gonna Be)",
+      "url": "https://open.spotify.com/track/2Cqnn3kIApkW3UUn12qnDr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SAWAYAMA (Deluxe Edition)",
         "url": "https://open.spotify.com/album/39WmCBKGptRLti86qxZAVc"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 106832,
       "name": "Bees & Honey (Bonus Track)",
       "url": "https://open.spotify.com/track/3PkmtBWfb6OERS7wLBagln"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Valentine (What's It Gonna Be)",
-        "url": "https://open.spotify.com/album/74StlHqfhj4TdqDspB2tEO"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 207355,
-      "name": "Valentine (What's It Gonna Be)",
-      "url": "https://open.spotify.com/track/2Cqnn3kIApkW3UUn12qnDr"
     },
     {
       "added_at": null,

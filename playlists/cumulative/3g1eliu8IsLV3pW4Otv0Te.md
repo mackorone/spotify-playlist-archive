@@ -4,7 +4,7 @@
 
 > 
 
-241 songs - 16 hr 21 min
+242 songs - 16 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [Someone \- The Prototypes Remix](https://open.spotify.com/track/0wfplXvoyb8vY4MjFw0pDz) | [Someone \(Feat\. Mclean\)](https://open.spotify.com/artist/606NobRCnZyp7gwy8bStHT), [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr), [McLean](https://open.spotify.com/artist/4u4unPAmNsYPO7rtYgWeaz) | [Someone EP](https://open.spotify.com/album/4KUe6EEQlzIwz7SigCh96s) | 4:18 | 2018-01-31 |  |
 | [Something in the Orange](https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Something in the Orange](https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv) | 3:48 | 2025-11-13 |  |
 | [Sometimes](https://open.spotify.com/track/04K7w24hGPhcIuZMyS3xg8) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Fighting Demons \(Deluxe\)](https://open.spotify.com/album/7hDMgGXdy0x8hDbtOHIS5j) | 4:19 | 2024-04-26 |  |
+| [Spellbound](https://open.spotify.com/track/4KNjK6R0aB4j8IT9LU0o6T) | [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ) | [Spellbound](https://open.spotify.com/album/7qNkTDCyN1yGKcHAJPQmCX) | 2:17 | 2025-11-17 |  |
 | [Spirit of Life](https://open.spotify.com/track/6eRPYyh1EPRqDhgb3Nardw) | [Blackmill](https://open.spotify.com/artist/08A9f7wRecEKFGN2PoylTl) | [Miracle](https://open.spotify.com/album/2ayhUoOppwZ5paYiXTRqqa) | 6:15 | 2016-01-14 |  |
 | [Starscapes \- Rameses B Remix](https://open.spotify.com/track/2aw6LCIiF9kqmKvZmm92wB) | [TwoThirds](https://open.spotify.com/artist/1Q0ug0ZkUQ3pyfY8vKE730), [Feint](https://open.spotify.com/artist/6RQ9kYbHisp1UUbnfwHNeU), [Veela](https://open.spotify.com/artist/3CiuuHKIxxJPoNRvF94GtR) | [Starscapes](https://open.spotify.com/album/1X0na0LkeuKTH5nGJAP7fA) | 4:51 | 2016-07-14 |  |
 | [Stay](https://open.spotify.com/track/6uBhi9gBXWjanegOb2Phh0) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Stay](https://open.spotify.com/album/1I4W7JKzYbl8VKRfD61DIS) | 3:30 | 2024-02-26 |  |

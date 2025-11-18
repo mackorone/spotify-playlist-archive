@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Tee Grizzley, Ken Carson, Wale and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 360,301 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 360,358 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 42 | [MORE IS MORE](https://open.spotify.com/track/0HXwgEGpvY7eRPd6rD4BLi) | [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [WISH YOU WERE \(T\)HERE](https://open.spotify.com/album/0dO1yNAZg24voi0Tu4IRpz) | 2:53 |
 | 43 | [Complications \(feat\. Aesop Rock\)](https://open.spotify.com/track/48XNw6xY4jVd2hGLGblPOW) | [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc), [August Fanon](https://open.spotify.com/artist/1oiKHHaaMEJUgPhI8OfOa4), [Aesop Rock](https://open.spotify.com/artist/2fSaE6BXtQy0x7R7v9IOmZ) | [Complications \(feat\. Aesop Rock\)](https://open.spotify.com/album/1KxZz9KtdFzkEYuxNLg2vw) | 3:12 |
 | 44 | [TEARS](https://open.spotify.com/track/7wCOdsdgTFePRRPKii9YH4) | [Oblé Reed](https://open.spotify.com/artist/4drP7GL5gdmNowIgcunWgn) | [TEARS](https://open.spotify.com/album/1brY2gv2n5hv6beZcQCD6Y) | 2:42 |
-| 45 | [FUPM](https://open.spotify.com/track/3Xe14w1KVkFSN53BpMwYVt) | [Fetty P Franklin](https://open.spotify.com/artist/2DAkZwVRDGLyC4fS29OuHq) | [FRANK \(Deluxe\)](https://open.spotify.com/album/4GfOoXccFc7rvOlUrhTRp2) | 2:33 |
+| 45 | [FUPM](https://open.spotify.com/track/3Xe14w1KVkFSN53BpMwYVt) | [Fetty P Franklin](https://open.spotify.com/artist/2DAkZwVRDGLyC4fS29OuHq), [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs) | [FRANK \(Deluxe\)](https://open.spotify.com/album/4GfOoXccFc7rvOlUrhTRp2) | 2:33 |
 | 46 | [act like u know](https://open.spotify.com/track/1WNvviBHAGTkZgvrslJU6t) | [osquinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN), [FearDorian](https://open.spotify.com/artist/2VddwtW7ie3dDcW8WKXHdn) | [Before You Press Play](https://open.spotify.com/album/7Hup1Ag3QCioejoNKTmJh0) | 2:41 |
 | 47 | [twenty four](https://open.spotify.com/track/6AUtLIZhas25QbUrkV9qhM) | [Taylr](https://open.spotify.com/artist/5OI8f36YWTxeJVfICzIW5X), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [twenty four](https://open.spotify.com/album/7FCgA0AwJ4ve322KQGjh4g) | 2:43 |
 | 48 | [Gangtalk](https://open.spotify.com/track/6glF4tgUPqADLY16zlFP3O) | [Siete7x](https://open.spotify.com/artist/7J5UWTbsUFjoSQZQCQCqbQ), [Big Sad 1900](https://open.spotify.com/artist/6CPTMFjo7Sq3ACuzHsXVkt) | [Misunderstood](https://open.spotify.com/album/0RkSLTrUNAIYoopUlMMwJC) | 2:36 |

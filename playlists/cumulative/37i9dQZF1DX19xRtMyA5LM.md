@@ -4,7 +4,7 @@
 
 > De beste tracks in WS❗️Cover: Young Ellens
 
-214 songs - 9 hr 39 min
+215 songs - 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Mainport](https://open.spotify.com/track/4e938d4sdR1R8hK6Dh6jPw) | [Mario Cash](https://open.spotify.com/artist/1NmZEnCbCyf1O1bkTXZhDB), [Hef](https://open.spotify.com/artist/7ge3QfYPMTjDbMoVLuuIuJ) | [Mainport](https://open.spotify.com/album/3PF9BwmEOTXvj4UR14rAP0) | 2:35 | 2025-07-17 | 2025-08-26 |
 | [Major](https://open.spotify.com/track/2UGtLQ8NMyamfkDmQOlDi4) | [Blacka](https://open.spotify.com/artist/30pd29wLmBULRRp7k5yIxW) | [Major](https://open.spotify.com/album/54krODQnFs2nIt4zUysQUQ) | 2:30 | 2025-09-25 | 2025-10-24 |
 | [Makkelijk](https://open.spotify.com/track/2gTKZKyPtfghl9NO7hIxmo) | [Topperig](https://open.spotify.com/artist/4ZCjmwaMyx0uu5QShvrEZu), [Gregossan](https://open.spotify.com/artist/0p2nWJAXVkj0IkhGiTcPdC), [Kili](https://open.spotify.com/artist/6A9qX1ebPIWADHzSSOGh8S) | [Makkelijk](https://open.spotify.com/album/0LM7W6rBaEM7vs11d82l6M) | 2:31 | 2025-08-14 | 2025-09-12 |
+| [Mandem FC](https://open.spotify.com/track/16L8iY1AxRtjNG0G9rakHZ) | [Buurtchase](https://open.spotify.com/artist/7egR3WkKUDT2EnnLtYCJFA), [Quincy Promes](https://open.spotify.com/artist/6ak4Dte1ZVVz6iGqv7jTrS) | [Mandem FC](https://open.spotify.com/album/1OcDzH5g0p8ejBEtMwnDiJ) | 2:32 | 2025-11-17 |  |
 | [Marlboro](https://open.spotify.com/track/06fLkEod1UrzAlDzUBeBMh) | [Gregossan](https://open.spotify.com/artist/0p2nWJAXVkj0IkhGiTcPdC), [ILLIE](https://open.spotify.com/artist/04fDz5ShbYBrGXsujOoVT5), [GEM\-Z](https://open.spotify.com/artist/3P7ZxTeZ8t4ZfWNxQOyYfp) | [Marlboro](https://open.spotify.com/album/29kW2ScJ6Fr6AAC1rh2XWm) | 2:07 | 2025-07-17 | 2025-08-15 |
 | [MARSEILLE](https://open.spotify.com/track/2u3xX0vQ8m4iYjzV1H3SGh) | [Gregossan](https://open.spotify.com/artist/0p2nWJAXVkj0IkhGiTcPdC) | [MARSEILLE](https://open.spotify.com/album/46bHlbcS8PVEzSUPJbq4Eo) | 2:53 | 2025-08-14 | 2025-11-14 |
 | [Marseille](https://open.spotify.com/track/71tYf13Vv4kiXPtCPnaMAM) | [Johnny Sellah](https://open.spotify.com/artist/0INETKNJYPVfrzAnOuo9H4) | [Marseille](https://open.spotify.com/album/1GZdgB5Elcv162k0UBRf4j) | 2:42 | 2025-09-18 | 2025-11-14 |
@@ -221,6 +222,6 @@
 | [Zoveel Cash](https://open.spotify.com/track/2cQ9JkQYodOBF4WMHgKwK5) | [Boufi](https://open.spotify.com/artist/2MdgZ3w54OVxWs8C0wdBFK) | [Zoveel Cash](https://open.spotify.com/album/42Sdc79eoOhTWfTI40aRiF) | 2:30 | 2025-07-17 | 2025-08-08 |
 | [Zoveel gegeven](https://open.spotify.com/track/2GweTDbz78W7ZaX73O5ae6) | [Rz](https://open.spotify.com/artist/0Uicf2CoBVxIQZxFXuXlO8) | [Zoveel gegeven](https://open.spotify.com/album/5XlzvxKkSxThyVZQBK2Uqp) | 2:20 | 2025-09-11 | 2025-09-19 |
 | [Zó Dan](https://open.spotify.com/track/38zYd5aIdpkew1vmdO7IMy) | [Rijck](https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ), [Emms](https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2) | [Zó Dan](https://open.spotify.com/album/5Zk6d1f3qEG1hhz8uENN19) | 3:04 | 2025-09-25 |  |
-| [⁠⁠LEBHUIS](https://open.spotify.com/track/0aCjZ8fn8rFXzr3nYzHR1Q) | [Young Ellens](https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub), [GP UIT G](https://open.spotify.com/artist/4dgbnJmnTFDiJiKloaWH2p) | [DAYDA](https://open.spotify.com/album/6w620VqNHfmyS3t8qENq1A) | 2:05 | 2025-11-13 |  |
+| [⁠⁠LEBHUIS](https://open.spotify.com/track/0aCjZ8fn8rFXzr3nYzHR1Q) | [Young Ellens](https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub), [GP UIT G](https://open.spotify.com/artist/4dgbnJmnTFDiJiKloaWH2p) | [DAYDA](https://open.spotify.com/album/6w620VqNHfmyS3t8qENq1A) | 2:05 | 2025-11-13 | 2025-11-18 |
 
 \*This playlist was first scraped on 2025-07-20. Prior content cannot be recovered.

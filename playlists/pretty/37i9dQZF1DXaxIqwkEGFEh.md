@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: Youngboy Never Broke Again
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,250,638 likes - 100 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,250,725 likes - 100 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 21 | [PLUTOSKI](https://open.spotify.com/track/2t4H61OtTYgmDe61KxkjKH) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [MIXTAPE PLUTO](https://open.spotify.com/album/4Zoxsc06EUHRf5GrJPJZ54) | 2:59 |
 | 22 | [How To Bip](https://open.spotify.com/track/64rP4gEgmxJ8Jg5nN3fzDo) | [Rockout Danny](https://open.spotify.com/artist/6zeQl72GknqjTGCbrzvSbc), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [VonOff1700](https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ) | [How To Bip](https://open.spotify.com/album/57xr0iFHq2QFiEjszdBZ8Z) | 2:34 |
 | 23 | [This N That \(Bonus\)](https://open.spotify.com/track/6K5RMhhSucN3vqwCvBngKG) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Lil Herb \(Extended\)](https://open.spotify.com/album/0aqpG80oRkiQRMjaS4saAi) | 3:18 |
-| 24 | [FUPM](https://open.spotify.com/track/3Xe14w1KVkFSN53BpMwYVt) | [Fetty P Franklin](https://open.spotify.com/artist/2DAkZwVRDGLyC4fS29OuHq) | [FRANK \(Deluxe\)](https://open.spotify.com/album/4GfOoXccFc7rvOlUrhTRp2) | 2:33 |
+| 24 | [FUPM](https://open.spotify.com/track/3Xe14w1KVkFSN53BpMwYVt) | [Fetty P Franklin](https://open.spotify.com/artist/2DAkZwVRDGLyC4fS29OuHq), [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs) | [FRANK \(Deluxe\)](https://open.spotify.com/album/4GfOoXccFc7rvOlUrhTRp2) | 2:33 |
 | 25 | [Walk](https://open.spotify.com/track/1WRMHCzVNWDsHdZSgZ21tG) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Street Psalms](https://open.spotify.com/album/0F81kdKteOdZ5fBofqn3NN) | 2:38 |
 | 26 | [Fuk Em](https://open.spotify.com/track/4PAs9QivjLo95KNLGDd1pk) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Fuk Em](https://open.spotify.com/album/490kPkFxsMR51izk8lLrtv) | 2:46 |
 | 27 | [Party On The 6](https://open.spotify.com/track/2OKVPtAyjCC3ibI5WzFLW5) | [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [Party On The 6](https://open.spotify.com/album/59inGb2PQ6DWWMREpGgspG) | 1:50 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0lIpJfAmU1IfLj1RQiDaPS">Erika Ender</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 463 likes - 146 songs - 8 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 463 likes - 147 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,10 +149,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 139 | [Vulnerable](https://open.spotify.com/track/0OEH8OEUisGGQYP40y02cz) | [Marger](https://open.spotify.com/artist/69thfQCn68arnQ31jxF2gN) | [Como Te Digo](https://open.spotify.com/album/6P0o98lx8qGwSkdyE9Y1ji) | 4:02 |
 | 140 | [Talénpro](https://open.spotify.com/track/5ihcx6z4ZOqsyIMy7oyACN) | [Generación Talénpro](https://open.spotify.com/artist/3QzJj9SjDd5TtDih8VtNK0) | [Talénpro](https://open.spotify.com/album/1MYfmwWbISTPsCMHjZCNFI) | 1:42 |
 | 141 | [Efecto Secundario](https://open.spotify.com/track/1lr19xYTvsSH5Vf819bMAG) | [Marger](https://open.spotify.com/artist/69thfQCn68arnQ31jxF2gN) | [Como Te Digo](https://open.spotify.com/album/6P0o98lx8qGwSkdyE9Y1ji) | 3:33 |
-| 142 | [Confusion](https://open.spotify.com/track/36pswvlcWQRiX3cLaxgQUp) | [Alejandro Jaen](https://open.spotify.com/artist/6xPjI2hVO8pvwgMzRAB3zu) | [Latidos](https://open.spotify.com/album/2eEuNELgeEZDmzynb9OhBN) | 4:17 |
-| 143 | [No Se Vale](https://open.spotify.com/track/2DosHRGldnfvuXFoQYrSXV) | [Nell Valenti](https://open.spotify.com/artist/1VKyQ95e14RhR9pkuko3CA) | [Simple](https://open.spotify.com/album/6XYsyIvn46HTqX3JI92HJI) | 3:18 |
-| 144 | [Entre el Piano y el Amor](https://open.spotify.com/track/6LRGICKeYv2OgYtpjGPtmY) | [Fernando Acosta](https://open.spotify.com/artist/4nTDn2UoT14TUvuNn05NM5) | [Entre el Piano y el Amor](https://open.spotify.com/album/5zPHOmWSNzyncdUinKCVZJ) | 4:38 |
-| 145 | [A Punto de Naufragar](https://open.spotify.com/track/0CMlI2cENOzR1xsBohRovm) | [Fernando Acosta](https://open.spotify.com/artist/4nTDn2UoT14TUvuNn05NM5) | [Entre el Piano y el Amor](https://open.spotify.com/album/5zPHOmWSNzyncdUinKCVZJ) | 4:29 |
-| 146 | [Cuarto Menguante](https://open.spotify.com/track/0jn4mbofhTz8M5iWAKFc51) | [LIZZIE BLASINI](https://open.spotify.com/artist/3U6BxnObGblB6VI1f5lvpH) | [Cuarto Menguante](https://open.spotify.com/album/3FoNl5uOXTrmILe49C1aN7) | 4:22 |
+| 142 | [Solo conmigo](https://open.spotify.com/track/4ReXblBJlsOcptSRpivJUm) | [Enrique Ramil](https://open.spotify.com/artist/0j2p53CorUX290ZthVLl2p), [Oscar Moncada](https://open.spotify.com/artist/5JBXctnUxCqSwfCU5tney5) | [Solo conmigo](https://open.spotify.com/album/6qc4UOR4QELCdKRkh4JfhN) | 3:45 |
+| 143 | [Confusion](https://open.spotify.com/track/36pswvlcWQRiX3cLaxgQUp) | [Alejandro Jaen](https://open.spotify.com/artist/6xPjI2hVO8pvwgMzRAB3zu) | [Latidos](https://open.spotify.com/album/2eEuNELgeEZDmzynb9OhBN) | 4:17 |
+| 144 | [No Se Vale](https://open.spotify.com/track/2DosHRGldnfvuXFoQYrSXV) | [Nell Valenti](https://open.spotify.com/artist/1VKyQ95e14RhR9pkuko3CA) | [Simple](https://open.spotify.com/album/6XYsyIvn46HTqX3JI92HJI) | 3:18 |
+| 145 | [Entre el Piano y el Amor](https://open.spotify.com/track/6LRGICKeYv2OgYtpjGPtmY) | [Fernando Acosta](https://open.spotify.com/artist/4nTDn2UoT14TUvuNn05NM5) | [Entre el Piano y el Amor](https://open.spotify.com/album/5zPHOmWSNzyncdUinKCVZJ) | 4:38 |
+| 146 | [A Punto de Naufragar](https://open.spotify.com/track/0CMlI2cENOzR1xsBohRovm) | [Fernando Acosta](https://open.spotify.com/artist/4nTDn2UoT14TUvuNn05NM5) | [Entre el Piano y el Amor](https://open.spotify.com/album/5zPHOmWSNzyncdUinKCVZJ) | 4:29 |
+| 147 | [Cuarto Menguante](https://open.spotify.com/track/0jn4mbofhTz8M5iWAKFc51) | [LIZZIE BLASINI](https://open.spotify.com/artist/3U6BxnObGblB6VI1f5lvpH) | [Cuarto Menguante](https://open.spotify.com/album/3FoNl5uOXTrmILe49C1aN7) | 4:22 |
 
-Snapshot ID: `AcBxfAAAAABhvUAjTQo4UQJ/OsPI6jkJ`
+Snapshot ID: `AcB3HAAAAACxVcloIJ83VHjc8G6kG3CL`

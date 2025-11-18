@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Chile.
 
-3,517 songs - 7 day 20 hr 33 min
+3,518 songs - 7 day 20 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1032,6 +1032,7 @@
 | [En Privado](https://open.spotify.com/track/2SkB7jADnfiWH8qAE9H8cO) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [En Privado](https://open.spotify.com/album/3XWtTmeGfsUMof0HvqvLEc) | 3:19 | 2025-02-25 | 2025-03-26 |
 | [En que topamo?](https://open.spotify.com/track/66yq3d8qMMhYzi9h53wQ5B) | [Jossie A](https://open.spotify.com/artist/3wXd0N7IkY2bZ4KMbhmBJ5), [l3tter](https://open.spotify.com/artist/3B0n8UdEg8Eo2OMUvhrlZt) | [En que topamo?](https://open.spotify.com/album/2MKYspfeR8EM9lW7NAXgR6) | 2:36 | 2025-07-08 | 2025-07-28 |
 | [En To Lao](https://open.spotify.com/track/2zUEnw6wWrWaPcF15F76OA) | [Haze](https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [En To Lao](https://open.spotify.com/album/6vbpPVgsQJgXyfXc6q6CPl) | 3:15 | 2023-07-04 | 2023-07-13 |
+| [En un Largo Tour](https://open.spotify.com/track/7KJr365Ld0o8ajIfR0wIpV) | [Sol y Lluvia](https://open.spotify.com/artist/6iGoMyoSIjyTxbCRyHREtI) | [Clima Humana](https://open.spotify.com/album/4gQEN4YB2pzNxph3pBVKjd) | 4:22 | 2025-11-17 |  |
 | [Enamorado de Ella](https://open.spotify.com/track/18ouTwcDXaundgNOmmAbKy) | [Rubby Pérez](https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx) | [Fiesta para Dos!!](https://open.spotify.com/album/00VQ30oxy9Xy65WTLxOeIw) | 4:27 | 2025-04-12 | 2025-04-20 |
 | [Enamorado tuyo](https://open.spotify.com/track/35LdDKNMwvKftENaj1WIwF) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Porfiado](https://open.spotify.com/album/4X6PQwYWxtGGtKjAfX6wa6) | 4:19 | 2023-08-11 | 2023-09-06 |
 | [Enamorados](https://open.spotify.com/track/4yZHewo7vTT8geUxNAeYqY) | [Grupo Manzanar de Chiloé](https://open.spotify.com/artist/3QPoAnDjfEVR0LRe21Zc55) | [Suena Lindo](https://open.spotify.com/album/6YZwH3Q5TA7u6QMxnVBrKl) | 2:14 | 2024-09-11 | 2025-09-27 |
@@ -1127,7 +1128,7 @@
 | [Fantasía](https://open.spotify.com/track/0fgSjEdxn4kjS8yxPTGWpA) | [elmaskesuena](https://open.spotify.com/artist/7Jt2cDnf0y8TKGI36hmI32) | [Fantasía](https://open.spotify.com/album/3itV9lmJQKOL5sLLX10sco) | 3:06 | 2024-02-20 | 2024-02-29 |
 | [FANTASÍA](https://open.spotify.com/track/5hWpXZOs7vpz0JD3CIylsb) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH) | [FANTASÍA](https://open.spotify.com/album/0qotDgu0CuYiWrg2JvaTSs) | 3:06 | 2025-03-11 | 2025-03-19 |
 | [FANÁTICO](https://open.spotify.com/track/32fRErxI6gKskZXSbEAAAn) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [FANÁTICO](https://open.spotify.com/album/5S6TLyMgO3WBE3v8FISDOw) | 2:42 | 2024-10-15 | 2024-10-23 |
-| [FaSHioN](https://open.spotify.com/track/4ecdsGz3Hg6TKPwQ0ZOdJz) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [COLOR OUTSIDE THE LINES](https://open.spotify.com/album/2yMfaynthtWVAkJ5A3Kwrf) | 2:54 | 2025-09-23 | 2025-11-17 |
+| [FaSHioN](https://open.spotify.com/track/4ecdsGz3Hg6TKPwQ0ZOdJz) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [COLOR OUTSIDE THE LINES](https://open.spotify.com/album/2yMfaynthtWVAkJ5A3Kwrf) | 2:54 | 2025-09-23 |  |
 | [Fashion Girl](https://open.spotify.com/track/35HatUvsF0Rcrn8BoMdhrc) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4) | [Fashion Girl](https://open.spotify.com/album/2e5i1z5W9SyQC83KnUgXEa) | 2:37 | 2023-02-07 | 2023-05-17 |
 | [Fashion Girl \- Remix](https://open.spotify.com/track/4VHKOThPROw1Qo1a43Am8S) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq) | [Fashion Girl \(Remix\)](https://open.spotify.com/album/59DS3dN2FAU5ZcxBi9AXiR) | 3:11 | 2024-04-03 | 2024-04-24 |
 | [Fashion Girl \- Remix](https://open.spotify.com/track/6ECqgyhDZcf6fqlJhSTRhP) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq) | [Fashion Girl \(Remix\)](https://open.spotify.com/album/21sLFYA7VmVpCadRw7Z1sq) | 3:11 | 2023-06-06 | 2024-04-04 |
@@ -3157,7 +3158,7 @@
 | [Tu Mama](https://open.spotify.com/track/58XHvZqkFbyQj6EW8CHbMI) | [Chamaquito](https://open.spotify.com/artist/082uJVKDzvNlQAzLUpHfY3) | [Tu Mama](https://open.spotify.com/album/7IUD0uJlee55ez35ayuEKp) | 2:52 | 2023-10-31 | 2023-11-16 |
 | [TU MANTA](https://open.spotify.com/track/6uUYmvgx6MDIK52vrcELU2) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [1 1 1](https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF) | 3:07 | 2023-12-19 | 2023-12-22 |
 | [Tu Me Dice](https://open.spotify.com/track/1mFGB3ipJigkwnzzkmHLls) | [salastkbr0n](https://open.spotify.com/artist/0TtAyLGnZIryy3kKBydSoK) | [Tu Me Dice](https://open.spotify.com/album/26B0HS1Tk6auY7NwLEB8dL) | 1:47 | 2025-07-15 | 2025-07-27 |
-| [Tu Misterioso Alguien](https://open.spotify.com/track/4ksf1UdqNc9pU8R4ZZrgdY) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [El Templo del Pop, Vol\. 2](https://open.spotify.com/album/7hfkdtulZht6MCFAvvXEGl) | 4:04 | 2025-07-29 |  |
+| [Tu Misterioso Alguien](https://open.spotify.com/track/4ksf1UdqNc9pU8R4ZZrgdY) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [El Templo del Pop, Vol\. 2](https://open.spotify.com/album/7hfkdtulZht6MCFAvvXEGl) | 4:04 | 2025-07-29 | 2025-11-18 |
 | [Tu Misterioso Alguien](https://open.spotify.com/track/5BaWu0bYT7XPaIYyXJOZvJ) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [Miranda Es Imposible!](https://open.spotify.com/album/1UTpvroWrhmgpntarWj1OO) | 4:04 | 2025-07-21 | 2025-07-30 |
 | [TU MISTERIOSO ALGUIEN \(CUARTETO\) \(feat\. Miranda!\)](https://open.spotify.com/track/4Kzi8hXKkT87SQoYClizh0) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [TU MISTERIOSO ALGUIEN \(CUARTETO\) \(feat\. Miranda!\)](https://open.spotify.com/album/2LpL0pdOS6HWxxYeN1v2Zy) | 2:36 | 2025-09-30 | 2025-10-07 |
 | [Tu Pelo Negro](https://open.spotify.com/track/5pP5sfmqaecBT2d20aXB2i) | [Bayron Fire](https://open.spotify.com/artist/2IAxPmQzx2NuutHe7ta7gs), [l3tter](https://open.spotify.com/artist/3B0n8UdEg8Eo2OMUvhrlZt) | [Tu Pelo Negro](https://open.spotify.com/album/3QjgmpXhBrlAPAVD6JftQv) | 2:26 | 2025-09-26 | 2025-10-15 |
@@ -3222,7 +3223,7 @@
 | [Un poco de suerte](https://open.spotify.com/track/1lvveqa2wWop6IKu7hYrJH) | [Nvscvr](https://open.spotify.com/artist/2YB75f3AI0PqcfW4kQ4kIz) | [Final Lap](https://open.spotify.com/album/6GRZoiLnmhmwmdr8klWsyW) | 4:00 | 2023-02-15 | 2023-08-18 |
 | [Un poco loco](https://open.spotify.com/track/17R7na6hD4ouj0GvgXKmz5) | [Nastyy](https://open.spotify.com/artist/2PLbXweWNSTKnjtET0ulHZ) | [Un poco loco](https://open.spotify.com/album/17ys8Wws1nxrQ9BYTEFjKg) | 2:58 | 2025-05-13 | 2025-08-30 |
 | [UN PREVIEW](https://open.spotify.com/track/5ixdmTpCmH5diBA1j154wN) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 2:45 | 2023-10-17 | 2023-10-31 |
-| [Un Ramito De Violetas](https://open.spotify.com/track/3exX0sgCdCHq91Emx4z2Fz) | [Zalo Reyes](https://open.spotify.com/artist/0EShyzemaVRTIukphkQZBZ) | [Canto Por Amor](https://open.spotify.com/album/22cN2EKsSASNKE1N944gPJ) | 3:57 | 2022-08-23 |  |
+| [Un Ramito De Violetas](https://open.spotify.com/track/3exX0sgCdCHq91Emx4z2Fz) | [Zalo Reyes](https://open.spotify.com/artist/0EShyzemaVRTIukphkQZBZ) | [Canto Por Amor](https://open.spotify.com/album/22cN2EKsSASNKE1N944gPJ) | 3:57 | 2022-08-23 | 2025-11-18 |
 | [Un Ratito](https://open.spotify.com/track/5CzixCxDkRXX9mScCmah8O) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:56 | 2022-05-31 | 2022-07-01 |
 | [UN SIGLO SIN TI](https://open.spotify.com/track/2AFC9ad4nGauS1cgm7FCqU) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [UN SIGLO SIN TI](https://open.spotify.com/album/4SoT5hvuP9LLXZM2QuV2Pz) | 2:34 | 2024-08-13 | 2024-08-21 |
 | [Un Star](https://open.spotify.com/track/1PjcJOp04pJ3aYcMARr6pX) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy) | [Un Star](https://open.spotify.com/album/51mLc2AIHcv5fQ9fghcNB9) | 3:23 | 2023-05-10 | 2023-06-07 |

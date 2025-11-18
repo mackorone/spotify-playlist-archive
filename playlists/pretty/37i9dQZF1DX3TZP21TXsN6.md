@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 
 > Nieuw: Vensly, D.SEL, ILLIE, Sepa en meer en meer
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,069 likes - 72 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,063 likes - 72 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Kimbo](https://open.spotify.com/track/06w472WZHR6E0zbG0ITifv) | [Vensly](https://open.spotify.com/artist/1yalnSfdVdX8qVMbCodMoA), [Dammie](https://open.spotify.com/artist/5SMdr117AWhgV6HusRQjjb), [BFLClyde](https://open.spotify.com/artist/5ybuFtnUioZDYS90bDO4GD), [Freezz](https://open.spotify.com/artist/2VcXNLYjdaTD2yFOIn1JIO) | [Kimbo](https://open.spotify.com/album/25EKBWyLoaJzh8wLiLOuFT) | 2:37 |
-| 2 | [Mandem FC](https://open.spotify.com/track/16L8iY1AxRtjNG0G9rakHZ) | [Buurtchase](https://open.spotify.com/artist/7egR3WkKUDT2EnnLtYCJFA), [Quincy Promes](https://open.spotify.com/artist/6ak4Dte1ZVVz6iGqv7jTrS) | [Mandem FC](https://open.spotify.com/album/1OcDzH5g0p8ejBEtMwnDiJ) | 2:32 |
-| 3 | [Nada](https://open.spotify.com/track/04mZRd6t9PkaTXewmxmLG1) | [D.SEL](https://open.spotify.com/artist/4lQRNhAKqn4S8pbHvJykKh), [ILLIE](https://open.spotify.com/artist/04fDz5ShbYBrGXsujOoVT5) | [Nada](https://open.spotify.com/album/3Un9Vwe8PWbPZwqM651yUd) | 2:28 |
-| 4 | [Papa Is Een Crip II](https://open.spotify.com/track/4hoLFVvpwUoljeGmfLHomZ) | [Sepa](https://open.spotify.com/artist/5oBUDu4SFA4clHOLCrh2b7) | [Papa Is Een Crip II](https://open.spotify.com/album/6cNSly47JHGCMAizhtUFiG) | 3:12 |
-| 5 | [Buurt Heet](https://open.spotify.com/track/0WWPKfzXurSnLwjipOwkGo) | [Araz](https://open.spotify.com/artist/1rPMcrX4V33XyzbdAx7wAL), [Dpomerta](https://open.spotify.com/artist/7mB5bLUHOGUSQ9oE1SVFJj) | [Buurt Heet](https://open.spotify.com/album/6dcOkgIKdaM2ehOD9tlNfw) | 2:16 |
-| 6 | [911](https://open.spotify.com/track/3gScqpZMP4Tj2tEdrA3ihs) | [Brasco](https://open.spotify.com/artist/1oF9VGP4yn9vVu1sPDLAyr) | [911](https://open.spotify.com/album/5ev7F3pomSoUQEdGdlimaE) | 1:29 |
-| 7 | [Hoofd Omhoog](https://open.spotify.com/track/6ph2kgxZbllaTcaH5l3WFM) | [FOCUS](https://open.spotify.com/artist/4LPnjKJNGs4iU3gVbP2fUn), [Seffelinie](https://open.spotify.com/artist/2rYxEnHjY4kAGMy2muATL0) | [Hoofd Omhoog](https://open.spotify.com/album/0yqK42d9cd5lAChpGokfMR) | 2:15 |
-| 8 | [Rennen](https://open.spotify.com/track/0tyHIFigPatIM80OubyrNA) | [WV](https://open.spotify.com/artist/2xWvtE4mK5ZQTT86pB99Mh) | [Rennen](https://open.spotify.com/album/3buDq4TxAV5SD0CxnxFCII) | 2:23 |
+| 2 | [911](https://open.spotify.com/track/3gScqpZMP4Tj2tEdrA3ihs) | [Brasco](https://open.spotify.com/artist/1oF9VGP4yn9vVu1sPDLAyr) | [911](https://open.spotify.com/album/5ev7F3pomSoUQEdGdlimaE) | 1:29 |
+| 3 | [BUMA](https://open.spotify.com/track/0tDiHHTmwoFNMroJ3OHNLf) | [Yung Felix](https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu), [GP UIT G](https://open.spotify.com/artist/4dgbnJmnTFDiJiKloaWH2p), [Oomto](https://open.spotify.com/artist/10Tmpcwo1bS6hnYOBI1Gip) | [BUMA](https://open.spotify.com/album/5jXlUSm2wJgI4AyC4L0o6P) | 2:35 |
+| 4 | [Nada](https://open.spotify.com/track/04mZRd6t9PkaTXewmxmLG1) | [D.SEL](https://open.spotify.com/artist/4lQRNhAKqn4S8pbHvJykKh), [ILLIE](https://open.spotify.com/artist/04fDz5ShbYBrGXsujOoVT5) | [Nada](https://open.spotify.com/album/3Un9Vwe8PWbPZwqM651yUd) | 2:28 |
+| 5 | [Rennen](https://open.spotify.com/track/0tyHIFigPatIM80OubyrNA) | [WV](https://open.spotify.com/artist/2xWvtE4mK5ZQTT86pB99Mh) | [Rennen](https://open.spotify.com/album/3buDq4TxAV5SD0CxnxFCII) | 2:23 |
+| 6 | [Papa Is Een Crip II](https://open.spotify.com/track/4hoLFVvpwUoljeGmfLHomZ) | [Sepa](https://open.spotify.com/artist/5oBUDu4SFA4clHOLCrh2b7) | [Papa Is Een Crip II](https://open.spotify.com/album/6cNSly47JHGCMAizhtUFiG) | 3:12 |
+| 7 | [Buurt Heet](https://open.spotify.com/track/0WWPKfzXurSnLwjipOwkGo) | [Araz](https://open.spotify.com/artist/1rPMcrX4V33XyzbdAx7wAL), [Dpomerta](https://open.spotify.com/artist/7mB5bLUHOGUSQ9oE1SVFJj) | [Buurt Heet](https://open.spotify.com/album/6dcOkgIKdaM2ehOD9tlNfw) | 2:16 |
+| 8 | [Hoofd Omhoog](https://open.spotify.com/track/6ph2kgxZbllaTcaH5l3WFM) | [FOCUS](https://open.spotify.com/artist/4LPnjKJNGs4iU3gVbP2fUn), [Seffelinie](https://open.spotify.com/artist/2rYxEnHjY4kAGMy2muATL0) | [Hoofd Omhoog](https://open.spotify.com/album/0yqK42d9cd5lAChpGokfMR) | 2:15 |
 | 9 | [troubadour](https://open.spotify.com/track/1fL4Tv0ntJcRwLpYnJL67V) | [damy](https://open.spotify.com/artist/174dVKjThMTw6S3PYfYUZK) | [troubadour](https://open.spotify.com/album/0BlyYPekEGbCv5RKp4Jwhi) | 2:59 |
 | 10 | [Forest](https://open.spotify.com/track/4L9EEJc18gaZmNTe4XLsQo) | [Leafs](https://open.spotify.com/artist/6Ul16nbSefjbgfpDz2k9il), [XANNY](https://open.spotify.com/artist/2Nq5hnrJkJgOMMBSdrOnWk) | [Forest](https://open.spotify.com/album/7ea6wOX83LQnzs3sYwmJ2r) | 2:42 |
 | 11 | [Trap & Dance 12 \(Alors Bonne Chance\)](https://open.spotify.com/track/4nPtJJKJSvQFbA1gWA7k5l) | [PJ Scoolio](https://open.spotify.com/artist/2EozjqoLUKLQSnVAO90pyg), [AG BLAXX](https://open.spotify.com/artist/0BdZi6qH5GIysWupr5kTdo) | [Trap & Dance 12 \(Alors Bonne Chance\)](https://open.spotify.com/album/03m6YRml5ChR7AFkgsVDmA) | 2:50 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 | 71 | [Gnumes Gna](https://open.spotify.com/track/7rBkFjCLrbbXzm4D2dy4Ym) | [AB7](https://open.spotify.com/artist/6n6tlB44JuXjIevREM1HqG), [D.SEL](https://open.spotify.com/artist/4lQRNhAKqn4S8pbHvJykKh) | [Gnumes Gna](https://open.spotify.com/album/6nmyUNhonwSaBTJ21NEpYf) | 2:42 |
 | 72 | [BACKSEAT](https://open.spotify.com/track/7Cc6Bs9VALK1D483fZ8qfw) | [Leafs](https://open.spotify.com/artist/6Ul16nbSefjbgfpDz2k9il) | [BACKSEAT](https://open.spotify.com/album/4D7vPYvM28l2ZGHIl0n9WS) | 1:49 |
 
-Snapshot ID: `AAAAAFfLBPUmP3E1b+QKfsCc22xy4dpE`
+Snapshot ID: `AAAAALpSPJKLLW6LFr4ie1xtwHWq22J3`

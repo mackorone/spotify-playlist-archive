@@ -4,7 +4,7 @@
 
 > Playlist
 
-619 songs - 1 day 12 hr 41 min
+620 songs - 1 day 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,6 +249,7 @@
 | [Hypertext](https://open.spotify.com/track/70td1VnjpL3R05IDZGMrJk) | [World Brain](https://open.spotify.com/artist/2CiVXlqZHnOj4nWFBj3s2k) | [Peer 2 Peer](https://open.spotify.com/album/0yj7MLtNm1dfYoiqU0hONP) | 3:26 | 2023-10-25 |  |
 | [I Am the Changer](https://open.spotify.com/track/0FHUc53O9m8pYmIZodzet1) | [Den Dala](https://open.spotify.com/artist/2aQ3bC2gG3TmUzuYBO2FWV) | [I Am the Changer](https://open.spotify.com/album/4c36MN2Qmt6DFUrFaf4aZH) | 3:33 | 2023-10-25 |  |
 | [I Cavalli](https://open.spotify.com/track/7kAvIDgCO5MHhQ1uVaEocT) | [The Quincey](https://open.spotify.com/artist/5NJG2qOVlhuXWTH9nQgGd3), [Nice Guys](https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN) | [Reprise Vol\. 1](https://open.spotify.com/album/2cQwGuRwSG5XBP9OTXhSYt) | 2:48 | 2023-10-25 |  |
+| [I Don't Wanna Give You Up](https://open.spotify.com/track/4rCZUOAzUEkgqit17eDlzi) | [Niall Mutter](https://open.spotify.com/artist/26nkWfI1zwh7OFESYPRn2w) | [Silver](https://open.spotify.com/album/3nJnR5Zu95pGWzWxS2HbEa) | 3:42 | 2025-11-17 |  |
 | [I Don't Wanna Move](https://open.spotify.com/track/2S2We8HCvgNSLfgmBZBTRF) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [I Don't Wanna Move](https://open.spotify.com/album/0RXwFY7VftxJ087h5lqCxo) | 3:42 | 2023-10-25 |  |
 | [I Love U \- This is For All My Hopeless Romantics](https://open.spotify.com/track/1o9QRE5GOqm3iEeDDUq9Fz) | [Xavier Gibson](https://open.spotify.com/artist/5jiVUs2t8wwMV3Ch1gvgOy) | [I Love U \(This is For All My Hopeless Romantics\)](https://open.spotify.com/album/79lFOpnWoFzREbx5ibjJZT) | 2:55 | 2023-10-25 |  |
 | [I See You](https://open.spotify.com/track/4derY89Caf6ShCgi08wNsJ) | [Echo Frame](https://open.spotify.com/artist/0GmTtKJyLs8HQitzFWXlOi) | [I See You](https://open.spotify.com/album/11BhLCphuQO5Cak7MwgZHp) | 2:43 | 2023-10-25 |  |

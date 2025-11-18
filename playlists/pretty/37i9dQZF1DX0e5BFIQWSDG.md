@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 
 > Οι μεγαλύτερες επιτυχίες του σήμερα και του αύριο, επιλεγμένες από την ομάδα μας\. Εξώφυλλο: Nikos Oikonomopoulos
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,714 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,679 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 | 49 | [The Fate of Ophelia](https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:46 |
 | 50 | [Spasmeni Fleva](https://open.spotify.com/track/5OBGB0w41ecJacqcdSop5B) | [LEX](https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1), [Kepler Is Free](https://open.spotify.com/artist/47qtSCZnmoPGZVhXDUqcmB) | [Spasmeni Fleva](https://open.spotify.com/album/5MEf69SWdJqgd2kiu4wpv0) | 4:00 |
 
-Snapshot ID: `AAAAAANisrfQY9xcoJ9jRAbSZy51hXEo`
+Snapshot ID: `AAAAAFopXu73lk6ztQOsRQI78GibjO4z`

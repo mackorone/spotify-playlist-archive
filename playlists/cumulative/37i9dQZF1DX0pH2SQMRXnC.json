@@ -856,7 +856,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-06",
+      "date_removed": null,
       "duration_ms": 193000,
       "name": "Apologize",
       "url": "https://open.spotify.com/track/5AdpdaoHXbQtV3kjWYUMe4"
@@ -1146,7 +1146,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-07",
+      "date_removed": null,
       "duration_ms": 157500,
       "name": "BANGER AFTER BANGER AFTER BANGER AFTER BANGER AFTER BANGER AFTER BANGER AFTER BANGER AFTER BANGER",
       "url": "https://open.spotify.com/track/2rGWPDScp9GUDgmSamnxWh"
@@ -2568,7 +2568,7 @@
       ],
       "date_added": "2025-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 245401,
       "name": "Capital Of Crazy - Official Intents Festival 2025 Anthem",
       "url": "https://open.spotify.com/track/359u0bxaE927xVFHOfRip9"
@@ -3516,7 +3516,7 @@
       ],
       "date_added": "2025-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-17",
+      "date_removed": null,
       "duration_ms": 190500,
       "name": "Country Roads",
       "url": "https://open.spotify.com/track/1ymdX49SbJzb9DH1YAH8W7"
@@ -4436,7 +4436,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 160212,
       "name": "DLMD",
       "url": "https://open.spotify.com/track/2d9EgBM9F09IkEG8t9T6L8"
@@ -5392,7 +5392,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 216937,
       "name": "Everytime We Touch - Sound Rush Remix",
       "url": "https://open.spotify.com/track/6HRQ2TCrIFhZpIdI9DyhEh"
@@ -5598,7 +5598,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-21",
+      "date_removed": null,
       "duration_ms": 167294,
       "name": "Faith",
       "url": "https://open.spotify.com/track/5tlmO0EqsLwqS2CGxVVjEe"
@@ -5898,6 +5898,28 @@
       "duration_ms": 182094,
       "name": "Feels",
       "url": "https://open.spotify.com/track/6WBjSkw1bTrzcaDCBCOFq5"
+    },
+    {
+      "album": {
+        "name": "Felt The Ghost",
+        "url": "https://open.spotify.com/album/1cmEH5ce7PhZw5wrNukHh6"
+      },
+      "artists": [
+        {
+          "name": "Ghost Stories",
+          "url": "https://open.spotify.com/artist/6J6UF3GqOLdt6f4gfazSzf"
+        },
+        {
+          "name": "D-Block & S-te-Fan",
+          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Felt The Ghost",
+      "url": "https://open.spotify.com/track/1mkyqCC9sBfMfONFzkxILr"
     },
     {
       "album": {
@@ -6806,7 +6828,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-21",
+      "date_removed": null,
       "duration_ms": 213995,
       "name": "G.L.Y.",
       "url": "https://open.spotify.com/track/0XacYFLW0WdPqXTajmmdw5"
@@ -7878,7 +7900,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-23",
+      "date_removed": null,
       "duration_ms": 127354,
       "name": "Hemel Of De Hel",
       "url": "https://open.spotify.com/track/1escL1SNOKwtICWMbtDVXa"
@@ -7996,6 +8018,32 @@
       "duration_ms": 184012,
       "name": "Hey DJ (Refuzion Remix)",
       "url": "https://open.spotify.com/track/29QZimw0fohQRHvCD7ZYFT"
+    },
+    {
+      "album": {
+        "name": "Hideaway",
+        "url": "https://open.spotify.com/album/1xyCu4NGVKLg5EEbZcNHv5"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Atmozfears",
+          "url": "https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64"
+        },
+        {
+          "name": "Jaimes",
+          "url": "https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216888,
+      "name": "Hideaway",
+      "url": "https://open.spotify.com/track/1mBF7Ulsa4z5hWor4eduYb"
     },
     {
       "album": {
@@ -8200,7 +8248,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 75000,
       "name": "Holy Madness",
       "url": "https://open.spotify.com/track/01lqSCzwSqM3c4JBc79CL1"
@@ -8888,7 +8936,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 235009,
       "name": "In Hardstyle We Trust - Melody Mix",
       "url": "https://open.spotify.com/track/694DLdlWtk26a6pyaf1vMi"
@@ -9394,7 +9442,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 207750,
       "name": "It Will Be OK",
       "url": "https://open.spotify.com/track/6CtHeORCTBgceaxVrWKgm0"
@@ -10870,7 +10918,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 253012,
       "name": "Lose My Mind - Sub Zero Project Remix",
       "url": "https://open.spotify.com/track/6FQTEo5HfXoMzXV513unv9"
@@ -11778,7 +11826,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 179586,
       "name": "Moonlight Shadow",
       "url": "https://open.spotify.com/track/0R2KmlsyojxoYG8wxcd5XX"
@@ -12318,6 +12366,28 @@
       "duration_ms": 197762,
       "name": "Never Going Home",
       "url": "https://open.spotify.com/track/7LY4ORM47R1YR1Jowwzg8o"
+    },
+    {
+      "album": {
+        "name": "Never Surrender",
+        "url": "https://open.spotify.com/album/0b0G6oXqDgy5NQDxvuHh5B"
+      },
+      "artists": [
+        {
+          "name": "Sub Zero Project",
+          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+        },
+        {
+          "name": "Nathalie Blue",
+          "url": "https://open.spotify.com/artist/2VRgy5skIildisco3sF7Nt"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159978,
+      "name": "Never Surrender",
+      "url": "https://open.spotify.com/track/5WUi83oaFYgo7Y54mLlt5J"
     },
     {
       "album": {
@@ -14362,7 +14432,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 189000,
       "name": "Rave Love",
       "url": "https://open.spotify.com/track/0YHL0wDP6b7ov6h0yEhorO"
@@ -16282,7 +16352,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-14",
+      "date_removed": null,
       "duration_ms": 203391,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/5k0I0O8eom23uHoVCNB2eG"
@@ -16304,6 +16374,32 @@
       "duration_ms": 179216,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/6XrgqWfIax5GjbEk0m3umc"
+    },
+    {
+      "album": {
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/4Ju6Z1k6wAgqwb46FM1y7B"
+      },
+      "artists": [
+        {
+          "name": "Sound Rush",
+          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+        },
+        {
+          "name": "Sogma",
+          "url": "https://open.spotify.com/artist/1aQ5RklusunvA9N3kqbbJA"
+        },
+        {
+          "name": "Ekaterina Shelehova",
+          "url": "https://open.spotify.com/artist/2TGfzbEaJkHLEsRvryVhsJ"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244507,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/2QcRNDG4fnBb7rjbfN4jd1"
     },
     {
       "album": {
@@ -16548,7 +16644,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 182015,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/1KtCYs1x2zZB0QXiSY6IN3"
@@ -16598,6 +16694,28 @@
       "duration_ms": 235322,
       "name": "Strongest Formation",
       "url": "https://open.spotify.com/track/65J9Ruvl07VyCn29etCz5k"
+    },
+    {
+      "album": {
+        "name": "Stuck In The Middle",
+        "url": "https://open.spotify.com/album/7Jkxwy6alSRbaYRx0BXEUG"
+      },
+      "artists": [
+        {
+          "name": "Ran-D",
+          "url": "https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT"
+        },
+        {
+          "name": "Vertile",
+          "url": "https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232215,
+      "name": "Stuck In The Middle",
+      "url": "https://open.spotify.com/track/2vpH5Pr0e8YuuRv4YLHB6V"
     },
     {
       "album": {
@@ -17030,7 +17148,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-19",
+      "date_removed": null,
       "duration_ms": 171983,
       "name": "Sweet But Psycho",
       "url": "https://open.spotify.com/track/4tuAQKIOvR2y93N2b8zI9m"
@@ -18880,7 +18998,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 182168,
       "name": "Trip To Mars (Astronauts)",
       "url": "https://open.spotify.com/track/7zXW8qC4ZFmA542eEHppke"
@@ -18898,7 +19016,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 232950,
       "name": "Trip to Valhalla",
       "url": "https://open.spotify.com/track/2D9WT9MeG07a26kKU9IGEb"
@@ -20750,7 +20868,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 204000,
       "name": "YEAHBOIII",
       "url": "https://open.spotify.com/track/0ylo3XIQYUzPYhTdfPWn4v"

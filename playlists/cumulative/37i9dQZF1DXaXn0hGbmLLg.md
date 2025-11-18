@@ -2,7 +2,7 @@
 
 ### [EQUAL Benelux](https://open.spotify.com/playlist/37i9dQZF1DXaXn0hGbmLLg)
 
-> Listen to women at full volume! October ambassador: <a href="spotify:artist:6ihYEkLlAWkafYVAvEkMd0">Danique</a>
+> Listen to women at full volume! November ambassador: <a href="spotify:artist:6ihYEkLlAWkafYVAvEkMd0">Danique</a>
 
 2,854 songs - 6 day 5 hr 40 min
 

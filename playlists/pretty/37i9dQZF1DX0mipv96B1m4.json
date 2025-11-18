@@ -1,6 +1,6 @@
 {
   "description": "Top flight Caribbean influenced bangers made in Uganda ",
-  "num_followers": 1580,
+  "num_followers": 1581,
   "original_name": "Kidandali Parte",
   "owner": {
     "name": "Spotify",
@@ -579,6 +579,22 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
+        "name": "Nsudiya",
+        "url": "https://open.spotify.com/album/6Yi9cEkIT7Nuskrip7ozGV"
+      },
+      "artists": [
+        {
+          "name": "Aroma Music",
+          "url": "https://open.spotify.com/artist/7sQ73ctV0zhIB3tBq54co2"
+        }
+      ],
+      "duration_ms": 165429,
+      "name": "Nsudiya",
+      "url": "https://open.spotify.com/track/3mvoKv50cFaPnO47kett6D"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
         "name": "Randomly",
         "url": "https://open.spotify.com/album/3riIOAhXg6Zo3GNze6M08e"
       },
@@ -611,18 +627,22 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
-        "name": "Nsudiya",
-        "url": "https://open.spotify.com/album/6Yi9cEkIT7Nuskrip7ozGV"
+        "name": "Semi Final",
+        "url": "https://open.spotify.com/album/0YRa3fnnHj4KWfamSubtl0"
       },
       "artists": [
         {
-          "name": "Aroma Music",
-          "url": "https://open.spotify.com/artist/7sQ73ctV0zhIB3tBq54co2"
+          "name": "Daddy Andre",
+          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
+        },
+        {
+          "name": "Dush",
+          "url": "https://open.spotify.com/artist/1jIysipyPAKkHyIQvIZwBQ"
         }
       ],
-      "duration_ms": 165429,
-      "name": "Nsudiya",
-      "url": "https://open.spotify.com/track/3mvoKv50cFaPnO47kett6D"
+      "duration_ms": 172721,
+      "name": "Semi Final",
+      "url": "https://open.spotify.com/track/3UqJPo5PgQTS6kdMRMnczm"
     },
     {
       "added_at": "2024-03-01 12:07:08",
@@ -643,26 +663,6 @@
       "duration_ms": 184400,
       "name": "Bikole",
       "url": "https://open.spotify.com/track/3iE5GT16HzXgZLlyVz9NKn"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
-        "name": "Semi Final",
-        "url": "https://open.spotify.com/album/0YRa3fnnHj4KWfamSubtl0"
-      },
-      "artists": [
-        {
-          "name": "Daddy Andre",
-          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
-        },
-        {
-          "name": "Dush",
-          "url": "https://open.spotify.com/artist/1jIysipyPAKkHyIQvIZwBQ"
-        }
-      ],
-      "duration_ms": 172721,
-      "name": "Semi Final",
-      "url": "https://open.spotify.com/track/3UqJPo5PgQTS6kdMRMnczm"
     },
     {
       "added_at": "2024-03-01 12:07:08",

@@ -4,7 +4,7 @@
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-1,332 songs - 3 day 0 hr 21 min
+1,333 songs - 3 day 0 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,7 +259,7 @@
 | [Desire](https://open.spotify.com/track/33yWC2Sf9kdjF9T4es4y6I) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Desire](https://open.spotify.com/album/0AL99H8IKDqCqAAoraDKQH) | 2:35 | 2020-09-21\* | 2021-02-20 |
 | [Desire](https://open.spotify.com/track/1g2D7SpGbRPPXKLCly1mPc) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY) | [Desire](https://open.spotify.com/album/0iveF55RhHxTp2IB8vxoTH) | 2:39 | 2023-07-21 | 2024-05-08 |
 | [Desire \(with Sam Smith\)](https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Desire \(with Sam Smith\)](https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C) | 2:59 | 2023-08-04 | 2025-04-19 |
-| [Desolate Lands](https://open.spotify.com/track/0otmh5QkPkM4HtSleILAWC) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U) | [Desolate Lands](https://open.spotify.com/album/2KLiLQvguVwRpcLqL74Huc) | 4:18 | 2025-11-03 |  |
+| [Desolate Lands](https://open.spotify.com/track/0otmh5QkPkM4HtSleILAWC) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U) | [Desolate Lands](https://open.spotify.com/album/2KLiLQvguVwRpcLqL74Huc) | 4:18 | 2025-11-03 | 2025-11-18 |
 | [Destination](https://open.spotify.com/track/4CiWLaMrGQ9CR5j604HyoW) | [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF), [Mahalo](https://open.spotify.com/artist/1SeU8Y2rEUpEoeWmUCdQIR) | [Destination](https://open.spotify.com/album/6XI1OjhyceEToQJfDRpLEC) | 3:05 | 2021-03-27 | 2021-08-07 |
 | [Destiny](https://open.spotify.com/track/226k90b2zBBhhnHtF5G7bB) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [SACHA](https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG) | [Destiny](https://open.spotify.com/album/6elqX6r1NOL3ZzyaC6pi1p) | 2:50 | 2025-11-03 |  |
 | [Devils](https://open.spotify.com/track/3jOyg77BUcPtbRtObyogTG) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE), [Vince Freeman](https://open.spotify.com/artist/74fA5V74G5FAxND01a42is) | [Devils](https://open.spotify.com/album/32lQX81sQIEFC7Qslj46Va) | 2:38 | 2021-08-14 | 2022-03-12 |
@@ -688,6 +688,7 @@
 | [Maths \- Cobra Effect Remix](https://open.spotify.com/track/6Xjz4oVlgYP6DVDCApfooV) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Cobra Effect](https://open.spotify.com/artist/1OQqnxsfFoETMEByBIQvHK) | [5 Years of mau5](https://open.spotify.com/album/7BPS2kgyzObOvy07j0lk06) | 4:43 | 2020-09-21\* | 2020-10-10 |
 | [Maximal Crazy \(Original Mix\)](https://open.spotify.com/track/7aT2HFws6awkUXdrBAtIqR) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Club Life \- Volume 2 Miami](https://open.spotify.com/album/5P21DkmdD7MiWR05Mde1Cc) | 4:29 | 2020-09-21\* | 2020-11-03 |
 | [Meet Again \- VIVID Remix](https://open.spotify.com/track/6Fa2ZuCZ6M7Wje5BFozAXb) | [Mark Sixma](https://open.spotify.com/artist/3ePCIHipMKD4n8IBXBYWSm), [ANVY](https://open.spotify.com/artist/1mgNVAgWBv1L9CvAocHTTD), [VIVID](https://open.spotify.com/artist/3VcAPpkjFtd3Sj5fmqPQd1) | [Meet Again \(VIVID Remix\)](https://open.spotify.com/album/5a7R9UxGskWJ9fTz2P3Ji8) | 3:30 | 2020-09-21\* | 2021-01-23 |
+| [Meet Me](https://open.spotify.com/track/5NIh6RvA8hOV31OnQGdk4d) | [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS), [JONOS](https://open.spotify.com/artist/1pbStEEJ96l2EaeZyTqzjh), [Son of Son](https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM) | [Meet Me](https://open.spotify.com/album/1GthDfKWmqsKkxlXII6rG5) | 3:15 | 2025-11-14 |  |
 | [Melodia](https://open.spotify.com/track/0G6r9pghzSm8gGfgV64pHn) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [PollyAnna](https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL) | [Melodia](https://open.spotify.com/album/5ibwloBOv2GUuh8TKVllmL) | 3:03 | 2025-07-18 |  |
 | [Melodia](https://open.spotify.com/track/78dLyf8klcyrmgpwgmRQlE) | [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Melodia](https://open.spotify.com/album/4LntPSMGgRAOym8Yj684Gw) | 3:42 | 2024-10-04 | 2025-03-30 |
 | [Melody](https://open.spotify.com/track/1rSUNzMXSxspf02RRQ3p5m) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [Melody](https://open.spotify.com/album/0Ntw26ASZDaNWzSY9KcFTt) | 2:33 | 2022-03-11 | 2022-07-29 |

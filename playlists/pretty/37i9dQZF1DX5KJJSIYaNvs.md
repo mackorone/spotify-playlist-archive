@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KJJSIYaNvs.md) - [plain]
 
 > Listen to women at full volume\. Cover \- Param
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,554 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,575 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KJJSIYaNvs.md) - [plain]
 | 5 | [Pehla Ishq](https://open.spotify.com/track/4w1V0Tw923MIGcwxYvsccf) | [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk), [Sachin Gupta](https://open.spotify.com/artist/34R6DQd8ErBy1xyOyMHFrq) | [Pehla Ishq](https://open.spotify.com/album/4FXI6yJutTa8fDODneckUf) | 3:00 |
 | 6 | [Nasha](https://open.spotify.com/track/0TrIoJaqN8QBmCViEeHMzt) | [Aanchal Tyagi](https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off), [Shayra Apoorva](https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8), [Dronark](https://open.spotify.com/artist/5lOdnhqrGPtKohxH9xS7NV) | [Nasha](https://open.spotify.com/album/5uBmD75BsRBBdsT5WIiEEG) | 2:25 |
 | 7 | [Raaz E Dil](https://open.spotify.com/track/6q6mlWI0tUE2TmQHLubRGF) | [Palak Muchhal](https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr), [Naresh Sharma](https://open.spotify.com/artist/3nFgnEel499wKuPnnSlPs3), [Prince Dubey](https://open.spotify.com/artist/3bs0mT7GMaduAPHu1oWJwq) | [Raaz E Dil](https://open.spotify.com/album/18vogfBKjU4TLjYCcZBwgC) | 3:35 |
-| 8 | [Jaane De](https://open.spotify.com/track/0S6wcmBlvyX2GUWuAHKdFp) | [Gaurav Chatterji](https://open.spotify.com/artist/2yC22iFmcNBOfauIctRvPT), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW) | [CO\-ED \(Soundtrack from the series\)](https://open.spotify.com/album/668bPHbwQ9LyYC3CDvNTI4) | 2:16 |
+| 8 | [Jaane De](https://open.spotify.com/track/0S6wcmBlvyX2GUWuAHKdFp) | [Gaurav Chatterji](https://open.spotify.com/artist/2yC22iFmcNBOfauIctRvPT), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Ginny Diwan](https://open.spotify.com/artist/4EZ6GDVebknxx5Funcp0X2) | [CO\-ED \(Soundtrack from the series\)](https://open.spotify.com/album/668bPHbwQ9LyYC3CDvNTI4) | 2:16 |
 | 9 | [Dilbar Ki Aankhon Ka \(From "Thamma"\) \[Feat\. Nora Fatehi\]](https://open.spotify.com/track/5jE2mbf6tsHwYIk0tiEix2) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J), [Jigar Saraiya](https://open.spotify.com/artist/48RCl7AbbfhC60EN8a80Op), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Dilbar Ki Aankhon Ka \(From "Thamma"\) \[Feat\. Nora Fatehi\]](https://open.spotify.com/album/6iJ7sOLA4jqh2uPYAvKzuq) | 2:49 |
 | 10 | [AANKH](https://open.spotify.com/track/1EZzUDV9IdzLVgmz7v86nx) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI) | [AANKH](https://open.spotify.com/album/5X1DGttuOWvWy4uhGw03eE) | 3:08 |
 | 11 | [Haan Ke Haan](https://open.spotify.com/track/1WxzZoWBTmB68AtyA6ejBB) | [Sohail Sen](https://open.spotify.com/artist/1bTROl5p3rGTpvKeWnGgrw), [Monali Thakur](https://open.spotify.com/artist/2o4R2rK7FetH40HTv0SUWl), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) | [Maharaj](https://open.spotify.com/album/2R2iYcw81Fjfup0kUZtlf6) | 3:24 |

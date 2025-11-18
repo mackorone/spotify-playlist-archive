@@ -4,7 +4,7 @@
 
 > deep dark ambient and half\-remembered hypnagogic soundscapes.
 
-316 songs - 23 hr 34 min
+317 songs - 23 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Blob On The Lawn](https://open.spotify.com/track/14zU712whThn4ZtSmz8vil) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [The Seed \(Original Score\)](https://open.spotify.com/album/7MArDuvtpOhgryQM20gegq) | 2:52 | 2022-03-11 | 2024-04-19 |
 | [Blob On The Lawn](https://open.spotify.com/track/6hBn3ujYOMYKwTF1fXgQMS) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [The Seed \(Original Score\)](https://open.spotify.com/album/22pNuld3QFrQ2dBfztOIU6) | 2:52 | 2022-03-11 | 2023-04-30 |
 | [Boo Boo Tannenbaum](https://open.spotify.com/track/1QC4gJrhknpzziXGMmnHHr) | [Casey Scott](https://open.spotify.com/artist/2sjwDJ8VpQ2Oj0YjctNxpC) | [Orrery](https://open.spotify.com/album/2iYGCxK8yrOIFmGXHPMyf4) | 5:18 | 2022-03-30 | 2025-10-13 |
-| [Breve](https://open.spotify.com/track/0rPolyYcE1EFWfyHp9OxlT) | [Hainbach](https://open.spotify.com/artist/3FlXXv8lfSt3ZWk9epMxe7) | [Breve](https://open.spotify.com/album/3pv2MeVmzPomW7kGyO4JHb) | 4:12 | 2024-11-14 |  |
+| [Breve](https://open.spotify.com/track/0rPolyYcE1EFWfyHp9OxlT) | [Hainbach](https://open.spotify.com/artist/3FlXXv8lfSt3ZWk9epMxe7) | [Breve](https://open.spotify.com/album/3pv2MeVmzPomW7kGyO4JHb) | 4:12 | 2024-11-14 | 2025-11-18 |
 | [Broken Theme](https://open.spotify.com/track/2yPwst86GlebGzgaO78CjQ) | [Chrome Canyon](https://open.spotify.com/artist/4AqiYN2GsRkmrQ7nAYrx1T) | [Director](https://open.spotify.com/album/41KJ1g4Ig3qowHZYB8IwxL) | 2:09 | 2022-02-25 |  |
 | [Bugambilia](https://open.spotify.com/track/1BhJi0s4bsMpvwvdOmrNsa) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6) | [Vesica Piscis](https://open.spotify.com/album/1wLQVoxpUOdcCymwnCyH7e) | 3:56 | 2022-04-05 | 2025-10-31 |
 | [By Design](https://open.spotify.com/track/64HHEZIKEbIRhuUR9fYTb2) | [Visionist](https://open.spotify.com/artist/7FnYYWkKnxLYQEYRz6dptV), [Louis Carnell](https://open.spotify.com/artist/4qCmhUVU5FypJEFPWYxpvJ), [Ben Romans\-Hopcraft](https://open.spotify.com/artist/2gzLktVkzJWSSb4d8gQtgj) | [A Call to Arms](https://open.spotify.com/album/19PMS91Xy5v4blWuMa2tvN) | 5:38 | 2021-10-27 | 2022-07-29 |
@@ -192,6 +192,7 @@
 | [No Delay For Days](https://open.spotify.com/track/7yRLPZ014j30fiBMcpon0V) | [o9](https://open.spotify.com/artist/09Elp35mdJo7hjexnWMcjy) | [The Cosmic Forces of Mu](https://open.spotify.com/album/0bS5uOkhs1NjqAX79aHjSr) | 5:01 | 2022-04-06 | 2024-06-30 |
 | [November Sequence](https://open.spotify.com/track/20izJg7Kft3HmOtmalKBl2) | [Pye Corner Audio with The Advisory Circle](https://open.spotify.com/artist/29C6FFgTDpuzN92DEnrHTl), [Pye Corner Audio](https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL), [The Advisory Circle](https://open.spotify.com/artist/6W0YlZ9EupJ8kSsW97KG6S) | [Study Series 07: Autumnal Activities](https://open.spotify.com/album/4kszHqLUfAllYvodM8wM5r) | 2:48 | 2021-10-27 |  |
 | [Nowe Przebudzenie](https://open.spotify.com/track/1maCbZFc6vWashG0Sut5B1) | [Wiktor Stribog](https://open.spotify.com/artist/70TrF9S9a212DRhvhjbZYs) | [Poradnik Uśmiechu \(Original Soundtrack\)](https://open.spotify.com/album/1MQtxIbW80AU5LDMqhyKON) | 7:09 | 2025-10-31 |  |
+| [Odio En El Alma](https://open.spotify.com/track/3LK6ecWsEEDbYNJuli9XgE) | [Hocico](https://open.spotify.com/artist/5cilSDFcAQcLwh0dNqMhrE) | [Odio Bajo El Alma](https://open.spotify.com/album/4E7XMWhx8XBNIwIzfm2TaJ) | 6:13 | 2025-11-14 |  |
 | [Okinawa Fantasia](https://open.spotify.com/track/7phasdQ9ODIIJlCfE1z3fY) | [Martin Glass](https://open.spotify.com/artist/4Icvm8wrj4Btq3O7FHJJZd) | [The Pacific Visions of Martin Glass](https://open.spotify.com/album/1u45eCsl1EhMCVpOzNW8Si) | 1:32 | 2021-10-27 |  |
 | [Omni Vignette](https://open.spotify.com/track/5F0Ne6CGaUYZaegGli9BYN) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [The Last Panthers](https://open.spotify.com/album/6jN4zYKKtmdva12AjbfXNB) | 2:18 | 2021-10-27 | 2024-04-19 |
 | [Omni Vignette](https://open.spotify.com/track/6QFj2DMznntolgajylaJeT) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [The Last Panthers](https://open.spotify.com/album/4mdIrf0fbkfODM1vlJQ47V) | 2:18 | 2021-10-27 | 2023-02-02 |

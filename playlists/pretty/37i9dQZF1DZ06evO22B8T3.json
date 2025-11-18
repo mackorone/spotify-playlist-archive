@@ -1,12 +1,12 @@
 {
   "description": "This is Paulo Londra. The essential tracks, all in one playlist.",
-  "num_followers": 1308185,
+  "num_followers": 1308141,
   "original_name": "This Is Paulo Londra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRfCgAAAAABgDQ/tXDITVxxnR9ZFd6l9",
+  "snapshot_id": "aRkUAAAAAADgfTlHkHNC1vhnx3YTouH6",
   "tracks": [
     {
       "added_at": null,
@@ -287,26 +287,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Flashbacks | CROSSOVER #9",
-        "url": "https://open.spotify.com/album/3RVunVsTpDf0UQ18IVVWBy"
+        "name": "Back To The Game",
+        "url": "https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h"
       },
       "artists": [
-        {
-          "name": "Big One",
-          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
-        },
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
         {
           "name": "Paulo Londra",
           "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
         }
       ],
-      "duration_ms": 182871,
-      "name": "Flashbacks | CROSSOVER #9",
-      "url": "https://open.spotify.com/track/73JFuGO9niMXXqmJ2WAMPU"
+      "duration_ms": 165560,
+      "name": "Ojal\u00e1",
+      "url": "https://open.spotify.com/track/1IpzwwhCo2eoCyecfhDqt2"
     },
     {
       "added_at": null,
@@ -327,18 +319,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back To The Game",
-        "url": "https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h"
+        "name": "Flashbacks | CROSSOVER #9",
+        "url": "https://open.spotify.com/album/3RVunVsTpDf0UQ18IVVWBy"
       },
       "artists": [
+        {
+          "name": "Big One",
+          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
         {
           "name": "Paulo Londra",
           "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
         }
       ],
-      "duration_ms": 165560,
-      "name": "Ojal\u00e1",
-      "url": "https://open.spotify.com/track/1IpzwwhCo2eoCyecfhDqt2"
+      "duration_ms": 182871,
+      "name": "Flashbacks | CROSSOVER #9",
+      "url": "https://open.spotify.com/track/73JFuGO9niMXXqmJ2WAMPU"
     },
     {
       "added_at": null,
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
         }
       ],
-      "duration_ms": 158497,
-      "name": "MI VERSI\u00d3N",
-      "url": "https://open.spotify.com/track/7Hn8GrXOuEwNRdgduGbN6c"
+      "duration_ms": 119061,
+      "name": "GRACIAS",
+      "url": "https://open.spotify.com/track/3Y7eFATOD0kXo5I9NuBj3r"
     },
     {
       "added_at": null,
@@ -784,9 +784,9 @@
           "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
         }
       ],
-      "duration_ms": 119061,
-      "name": "GRACIAS",
-      "url": "https://open.spotify.com/track/3Y7eFATOD0kXo5I9NuBj3r"
+      "duration_ms": 158497,
+      "name": "MI VERSI\u00d3N",
+      "url": "https://open.spotify.com/track/7Hn8GrXOuEwNRdgduGbN6c"
     },
     {
       "added_at": null,

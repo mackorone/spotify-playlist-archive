@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6J1r02xyO2qkMA9dDNZytJ.md) - [plain]
 
 > All the biggest House, Tech House &amp; Techno anthems right now! Follow us on <a href="https://www.instagram.com/toolroomrecords/">Instagram</a>
 
-[Toolroom Records](https://open.spotify.com/user/1135439236) - 62,679 likes - 100 songs - 5 hr 0 min
+[Toolroom Records](https://open.spotify.com/user/1135439236) - 62,687 likes - 104 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,5 +108,9 @@ pretty - [cumulative](/playlists/cumulative/6J1r02xyO2qkMA9dDNZytJ.md) - [plain]
 | 98 | [Valerie](https://open.spotify.com/track/78IApFVx1V4KINyZnIXjoi) | [CASSIMM](https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG) | [Valerie](https://open.spotify.com/album/4dYCFK8K9PQSL0SZ1DSgJD) | 2:21 |
 | 99 | [Dance To The Music](https://open.spotify.com/track/0izF9lgQMFggcKXaia48Xa) | [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob), [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [Dance To The Music](https://open.spotify.com/album/6zcnuO88B7AClFIH7kB9Vq) | 2:38 |
 | 100 | [Raw \- Tony Romera Remix](https://open.spotify.com/track/7lxbCUxQXJRkPQ1eErYZd3) | [Julio Navas](https://open.spotify.com/artist/1xTuChuImQkqK7A0aGaZqr), [Gustavo Bravetti](https://open.spotify.com/artist/3COgt6jQqmGpT8vM79C7R9), [David Amo](https://open.spotify.com/artist/6hnD17Gw6ohwryCf3D2AwD), [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [Raw \(Tony Romera Remix\)](https://open.spotify.com/album/05RVsgf3zkK6pcTHFmoNkZ) | 3:37 |
+| 101 | [By The Hour](https://open.spotify.com/track/5opoEqziQvyGT8R58QoLKL) | [Alex Preston](https://open.spotify.com/artist/0f8HuVIxsHG6bnEZsz0RuD) | [By The Hour](https://open.spotify.com/album/3BeTNjm1UsLbHgdEEIObra) | 3:07 |
+| 102 | [Jacked In](https://open.spotify.com/track/6GM6890r9vLzd577LrQCO7) | [Saniero](https://open.spotify.com/artist/1aiFUSO5O3PEeBXgZFZSUF), [Flaroll](https://open.spotify.com/artist/1cLikWp8V8Pw5g3VYa3yNe) | [Jacked In](https://open.spotify.com/album/3z81d9kUrXNn5AiidIyPzA) | 2:41 |
+| 103 | [My Baby](https://open.spotify.com/track/1YVVCFUY0xVQWrJeePs9Ue) | [Matt's Experiment](https://open.spotify.com/artist/36y1S9iFmSVtDXwgAH60NR) | [My Baby](https://open.spotify.com/album/5CatF5zpD8Wka4Haeyc5ZA) | 3:10 |
+| 104 | [The Butcher](https://open.spotify.com/track/74XpGDcBBdfXqffkk2Of0J) | [FeR BR](https://open.spotify.com/artist/78fAtGKcAeu68c4mPLo9Q9) | [The Butcher](https://open.spotify.com/album/4iOvfQhJMg6Me4L0YlhzZs) | 3:20 |
 
-Snapshot ID: `AAAnZOU7R2wSbfkQ4ss+C36jhRiaj3zP`
+Snapshot ID: `AAAnaJgw26X19buhoNUOI+QRKlKUTp5X`

@@ -1,12 +1,12 @@
 {
   "description": "This is Dave. The essential tracks, all in one playlist.",
-  "num_followers": 253821,
+  "num_followers": 253896,
   "original_name": "This Is Dave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRfCgAAAAABJLCfI2hQBT6lT4lFLD76v",
+  "snapshot_id": "aRkUAAAAAAAB8ri7PGgg7qMDGPq4yuyi",
   "tracks": [
     {
       "added_at": null,
@@ -939,26 +939,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "12 Questions",
-        "url": "https://open.spotify.com/album/5zh9ibSFLqUY91cKupwihN"
+        "name": "Paper Cuts",
+        "url": "https://open.spotify.com/album/0bOYi2NpSA7BmCwmdszfCI"
       },
       "artists": [
         {
-          "name": "Future Utopia",
-          "url": "https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo"
-        },
-        {
           "name": "Dave",
           "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Es Devlin",
-          "url": "https://open.spotify.com/artist/2zBduxEdOsDLDT5Fk0wTut"
         }
       ],
-      "duration_ms": 202652,
-      "name": "Children Of The Internet",
-      "url": "https://open.spotify.com/track/3zts4KqAV78dZXc55v4mQv"
+      "duration_ms": 179626,
+      "name": "Paper Cuts",
+      "url": "https://open.spotify.com/track/1gFMfqyVSXHMgvRloH2gDL"
     }
   ],
   "unique_name": "This Is Dave",

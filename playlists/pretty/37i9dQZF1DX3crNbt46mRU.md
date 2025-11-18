@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Charli xcx, Robyn,  Lewis Capaldi, Jul, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,929 likes - 107 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,926 likes - 107 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

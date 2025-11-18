@@ -3048,7 +3048,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 186808,
       "name": "BANDANA",
       "url": "https://open.spotify.com/track/7A65mp4YCD2HyrYZ7DGIW9"
@@ -4674,7 +4674,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-17",
+      "date_removed": null,
       "duration_ms": 206983,
       "name": "B\u00c1MM 2",
       "url": "https://open.spotify.com/track/2jWpA2NgW9xVXBESy3JGsP"
@@ -6124,7 +6124,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-17",
+      "date_removed": null,
       "duration_ms": 240095,
       "name": "CSICSKA",
       "url": "https://open.spotify.com/track/3I2vjm7OyDLDDbDBfRWpuQ"
@@ -6342,7 +6342,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-17",
+      "date_removed": null,
       "duration_ms": 137999,
       "name": "DADDY",
       "url": "https://open.spotify.com/track/4MQmgboYHKTI8Nfxd0nDjA"
@@ -6784,7 +6784,7 @@
       ],
       "date_added": "2025-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 171806,
       "name": "Demo",
       "url": "https://open.spotify.com/track/3huWs5M8a0MXTgc477aORn"
@@ -17153,6 +17153,28 @@
     },
     {
       "album": {
+        "name": "MARIO",
+        "url": "https://open.spotify.com/album/4hBIjSARJ1kmQE351GDdp0"
+      },
+      "artists": [
+        {
+          "name": "LMEN PRALA",
+          "url": "https://open.spotify.com/artist/3IIFNhvPllMor8rcbecmSj"
+        },
+        {
+          "name": "BSW",
+          "url": "https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "MARIO",
+      "url": "https://open.spotify.com/track/4AFGsWF8bF7w8s1gqUucvj"
+    },
+    {
+      "album": {
         "name": "Marokk\u00f3",
         "url": "https://open.spotify.com/album/1RSk79ytpKvDbrHUALhVVE"
       },
@@ -17352,6 +17374,24 @@
       "duration_ms": 392138,
       "name": "meet the grahams",
       "url": "https://open.spotify.com/track/4S8PxReB1UiDR2F5x1lyIR"
+    },
+    {
+      "album": {
+        "name": "Megcsalok veled ak\u00e1rkit",
+        "url": "https://open.spotify.com/album/1DBXUt5xMsJA8KtP5JVLO6"
+      },
+      "artists": [
+        {
+          "name": "Marics Peti",
+          "url": "https://open.spotify.com/artist/3AL01X7ic44uuE4xsMVPbp"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144461,
+      "name": "Megcsalok veled ak\u00e1rkit",
+      "url": "https://open.spotify.com/track/0ZQ5xI0kFUJG4BbC0FGoU9"
     },
     {
       "album": {
@@ -21524,7 +21564,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 137614,
       "name": "Passport",
       "url": "https://open.spotify.com/track/1tI1LGUz4fZg8es7toVK6K"
@@ -26700,7 +26740,7 @@
       ],
       "date_added": "2025-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 191707,
       "name": "SZAR AZ \u00c9LET",
       "url": "https://open.spotify.com/track/3jsbWC8B4zKp45oeXiUnLP"
@@ -30816,7 +30856,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 189714,
       "name": "VID\u00c9KI CSAJSZI",
       "url": "https://open.spotify.com/track/1105P9BDFQ4GZj7VS5vDuY"

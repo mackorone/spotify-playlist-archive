@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 
 > Jazz, but make it funky\. Cover: Skinny Hightower
 
-[Spotify](https://open.spotify.com/user/spotify) - 400,434 likes - 200 songs - 15 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 400,526 likes - 200 songs - 15 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 39 | [The Warrior Code](https://open.spotify.com/track/1otrWVcbCxemNnn7eiKW1P) | [The Sorcerers](https://open.spotify.com/artist/2eTKPnPlLHpFi8QH5aIVYA) | [I Too Am A Stranger](https://open.spotify.com/album/1wF6WneR7NyifTyXhhPQaP) | 4:04 |
 | 40 | [Ok Boomer](https://open.spotify.com/track/57zbii1xrWEJqiMYq2idih) | [Sam Fribush](https://open.spotify.com/artist/0L7BpYTrKRXYKyNppykAEx), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc), [Calvin Napper](https://open.spotify.com/artist/2PPOE2P2KXO3TdVOFluIzz) | [People Please](https://open.spotify.com/album/6RN9cpqds047VYZhqUVzFN) | 4:19 |
 | 41 | [SWEET LITTLE LIES](https://open.spotify.com/track/0GnnAEntAnsQVvfz5nNA0X) | [Eudald Payés](https://open.spotify.com/artist/72atXcV9ekLP3iDmLD0BDc), [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM), [Mabreezee](https://open.spotify.com/artist/4ixydE8BVYzM2P1mFrBWac) | [SWEET LITTLE LIES](https://open.spotify.com/album/1mvcFgCjE2vtaH4VtcycDo) | 3:06 |
-| 42 | [Lights Out](https://open.spotify.com/track/52qi04bO7emYkJH6lhA4sk) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Lights Out](https://open.spotify.com/album/5Tu4ytCjEMSDx04f1TwGYf) | 4:01 |
+| 42 | [Lights Out](https://open.spotify.com/track/52qi04bO7emYkJH6lhA4sk) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [Aziza Jaye](https://open.spotify.com/artist/0tHJp3y1T8uA9oWhEOMRzE) | [Lights Out](https://open.spotify.com/album/5Tu4ytCjEMSDx04f1TwGYf) | 4:01 |
 | 43 | [Asa](https://open.spotify.com/track/1ytNQaSmAcMnnWtzC4eLjt) | [Joabe Reis](https://open.spotify.com/artist/1JiLPWNdWWRYIkMfh4m2PK), [Agenor de Lorenzi](https://open.spotify.com/artist/08tzQH6xIsbJxxq4hNygPG), [Daniel Pinheiro](https://open.spotify.com/artist/621ldIdMOskFO8bAxEhi17), [Flávio Silva](https://open.spotify.com/artist/5mC4ZacVsd5bOV2C5XRWdH), [Josue Lopez](https://open.spotify.com/artist/0mhi3HqBVORAmDbKFQNkJA), [Rafael Reis](https://open.spotify.com/artist/2xYZ8QYAJSI5qNNcGg4LeE), [Sidmar Vieira](https://open.spotify.com/artist/13yenubT6mQJO3m6uDQTiN), [Tuto Ferraz](https://open.spotify.com/artist/3AVod2hiob1FXHhXv3UwZd) | [Asa](https://open.spotify.com/album/5l5vMpKbdQAc2rN1wI2UU9) | 4:07 |
 | 44 | [Exotic Rose](https://open.spotify.com/track/3uYuaFdOFuqJCPTwUy3K8K) | [EXOTIC SKATES](https://open.spotify.com/artist/0Gmp3J9ioTkaKxeynbZ9CP), [MONKY](https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O) | [Exotic Rose](https://open.spotify.com/album/0JsFB9OZbY0lBEnTBxiGNf) | 4:50 |
 | 45 | [Deep Blue](https://open.spotify.com/track/01WASYPxeJGNUXwBqVKzaJ) | [BrhyM](https://open.spotify.com/artist/3nPNUch0UScZ9OnAOhwUv3), [Bruce Hornsby](https://open.spotify.com/artist/2iM28IgKg89v1o7BTQAVPo), [yMusic](https://open.spotify.com/artist/4h7DUL1L3RrCzquDp8xQXY) | [Deep Blue](https://open.spotify.com/album/3r4E4SkeQM6IlQWPd1X9C3) | 3:22 |

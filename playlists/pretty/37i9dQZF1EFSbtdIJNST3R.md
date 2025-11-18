@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSbtdIJNST3R.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6oEa7f0DcvJhreGq1I3Zwe">Sigourney Korper</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 103 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSbtdIJNST3R.md) - [plain]
 | 22 | [Ongelofelijk](https://open.spotify.com/track/09xShRjUnJyJe1nFm0qS14) | [Aliyah](https://open.spotify.com/artist/7E7VmEW6CxpkGNipjVQywD) | [Ongelofelijk](https://open.spotify.com/album/1b34dfAabmWlwMT9U7mqH5) | 3:39 |
 | 23 | [Addicted](https://open.spotify.com/track/3ngW4Y9sxBoK8abawMEZ9C) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj), [Sevn Alias](https://open.spotify.com/artist/0HDMwoCS316xhKCZlJPBnc) | [Addicted](https://open.spotify.com/album/0nOUrDieoBSKrXdK43me9u) | 2:36 |
 | 24 | [Echte Meisjes Huilen Niet](https://open.spotify.com/track/3Gp2CvHRdDWCMKxIkbDKZR) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Echte Meisjes Huilen Niet](https://open.spotify.com/album/2RcaeG5ATd0CwPLNcYuTMx) | 2:17 |
-| 25 | [Hallo, Dit Is Je Ex](https://open.spotify.com/track/5E2TJEIkEaqv7gLqG2zWIz) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Echte Meisjes Huilen Niet](https://open.spotify.com/album/2RcaeG5ATd0CwPLNcYuTMx) | 2:31 |
-| 26 | [Lovey Dovey](https://open.spotify.com/track/5rPh4RtiNHH6zGZVaPcYEw) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Echte Meisjes Huilen Niet](https://open.spotify.com/album/2RcaeG5ATd0CwPLNcYuTMx) | 2:45 |
-| 27 | [Piet Pyama Party](https://open.spotify.com/track/53ufLC1lzbZwvpUs4Sl6YA) | [De Club van Sinterklaas](https://open.spotify.com/artist/4GaAzGCRu6rYPmVDn3iEJ1), [KADO](https://open.spotify.com/artist/3Q00kkvihGYh7ym4vMdpdZ) | [De Leukste Liedjes 2021](https://open.spotify.com/album/1czwYtZdav91HjwNmppicN) | 2:05 |
+| 25 | [Piet Pyama Party](https://open.spotify.com/track/53ufLC1lzbZwvpUs4Sl6YA) | [De Club van Sinterklaas](https://open.spotify.com/artist/4GaAzGCRu6rYPmVDn3iEJ1), [KADO](https://open.spotify.com/artist/3Q00kkvihGYh7ym4vMdpdZ) | [De Leukste Liedjes 2021](https://open.spotify.com/album/1czwYtZdav91HjwNmppicN) | 2:05 |
+| 26 | [Hallo, Dit Is Je Ex](https://open.spotify.com/track/5E2TJEIkEaqv7gLqG2zWIz) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Echte Meisjes Huilen Niet](https://open.spotify.com/album/2RcaeG5ATd0CwPLNcYuTMx) | 2:31 |
+| 27 | [Lovey Dovey](https://open.spotify.com/track/5rPh4RtiNHH6zGZVaPcYEw) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Echte Meisjes Huilen Niet](https://open.spotify.com/album/2RcaeG5ATd0CwPLNcYuTMx) | 2:45 |
 | 28 | [Till the End](https://open.spotify.com/track/6DwMJ76cJbXg6OvrLOK09Z) | [Inez](https://open.spotify.com/artist/2sGGaKKex7GgNlH1DRXZSa) | [Searching](https://open.spotify.com/album/7bSkQflJmHKWRuhhDQ6gr6) | 2:25 |
 | 29 | [Als Ik Haar Was](https://open.spotify.com/track/0mOdv3w3W9ZkAsTmlJ3rUs) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Echte Meisjes Huilen Niet](https://open.spotify.com/album/2RcaeG5ATd0CwPLNcYuTMx) | 2:45 |
 | 30 | [Loco](https://open.spotify.com/track/6OG3E84PZPTWyI3unCiMV5) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj), [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF), [Sarita Lorena](https://open.spotify.com/artist/5V9JsrZb5RjuvbzvJsA5gp) | [Loco](https://open.spotify.com/album/2YzAm5UkVJSFANQNlSGFKj) | 3:08 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSbtdIJNST3R.md) - [plain]
 | 35 | [Eenzame Nacht](https://open.spotify.com/track/05rDzpftmp52BxVjHta9TI) | [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU) | [Eenzame Nacht](https://open.spotify.com/album/7lFEE4QYgFBzMuwbGbSljV) | 3:19 |
 | 36 | [Sauvignon](https://open.spotify.com/track/0VHXix8h9flwMdJajrKhnT) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Sauvignon](https://open.spotify.com/album/6UlrKixl15syjZiSsfI0qE) | 2:39 |
 | 37 | [Regular Girls](https://open.spotify.com/track/0OYJ43sBm7ZmSBAj4QIKJi) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8) | [Regular Girls](https://open.spotify.com/album/7N3zxoDY07EwOSopX5xs8A) | 2:23 |
-| 38 | [Slaaptekort](https://open.spotify.com/track/3p2Z2ql0Lh5Ywa6sfQOjlC) | [Carmell](https://open.spotify.com/artist/4N7rpMAZalTWO8swnp2Fse) | [Slaaptekort](https://open.spotify.com/album/63rceqrBYQJBdpOXheMZmU) | 2:26 |
-| 39 | [LOS](https://open.spotify.com/track/7Ldgeb2tFhXB42322j16e9) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [LOS](https://open.spotify.com/album/4NkRtMQZ50XR3gd3GO4QR5) | 3:14 |
+| 38 | [LOS](https://open.spotify.com/track/7Ldgeb2tFhXB42322j16e9) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [LOS](https://open.spotify.com/album/4NkRtMQZ50XR3gd3GO4QR5) | 3:14 |
+| 39 | [Slaaptekort](https://open.spotify.com/track/3p2Z2ql0Lh5Ywa6sfQOjlC) | [Carmell](https://open.spotify.com/artist/4N7rpMAZalTWO8swnp2Fse) | [Slaaptekort](https://open.spotify.com/album/63rceqrBYQJBdpOXheMZmU) | 2:26 |
 | 40 | [Bitter Candy](https://open.spotify.com/track/4R9axL2QnBhy2Lz2REGLTt) | [TP4Y](https://open.spotify.com/artist/7ncXvRgpeELvS692m8N9Ka) | [Kisses](https://open.spotify.com/album/4RPMCzrskSTFYaY2UXDW42) | 3:06 |
 | 41 | [Sum Like That \(feat\. Sigourney K\)](https://open.spotify.com/track/3QB4Avw7a95SEl7WnuGLyI) | [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN), [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj), [Thomas Helsloot](https://open.spotify.com/artist/4pVfQbm8g4tMztNgXoHTYL) | [Sum Like That \(feat\. Sigourney K\)](https://open.spotify.com/album/2UIKMONyNKHiutdSlXhaMd) | 2:53 |
 | 42 | [Take It Like a Man](https://open.spotify.com/track/3XkbXbLu9TQensKNdwgQ5u) | [TP4Y](https://open.spotify.com/artist/7ncXvRgpeELvS692m8N9Ka) | [Kisses](https://open.spotify.com/album/4RPMCzrskSTFYaY2UXDW42) | 2:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSbtdIJNST3R.md) - [plain]
 | 49 | [Huilen In De Club](https://open.spotify.com/track/76w2a0YoSkeRlSemAewu6q) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Echte Meisjes Huilen Niet](https://open.spotify.com/album/2RcaeG5ATd0CwPLNcYuTMx) | 2:55 |
 | 50 | [Blockparty](https://open.spotify.com/track/40sZ1V8JA1vxH4WdYewQax) | [Zirkus Zirkus](https://open.spotify.com/artist/746vTXKIR6HcTpyrdmQGPS) | [In De Tent](https://open.spotify.com/album/6ydoCDUdefP6cDRFzLQQWd) | 3:35 |
 
-Snapshot ID: `AcBxfAAAAAAqDkCFoyJmpAE70NEMl5/G`
+Snapshot ID: `AcB3EgAAAADRvh+hCisaC+8aHTXO6xnb`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra bla\. Robyn, Dagny, JOA og mange fler!🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,772 likes - 101 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,755 likes - 101 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 93 | [Tell Me You're Fighting](https://open.spotify.com/track/4nU1ozanQhBheKqiC2ooef) | [Bavé](https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM) | [Tell Me You're Fighting](https://open.spotify.com/album/20nQR4HuCHAfHt3kBNsNRh) | 2:16 |
 | 94 | [Moon](https://open.spotify.com/track/0DMY2gMQ1bYV5jgVW50Dhi) | [Mia Berg](https://open.spotify.com/artist/2olyZZaveIJkOzSNS23Ybf) | [Moon](https://open.spotify.com/album/1lxlTikTDq9pPLQoPY2O7u) | 4:05 |
 | 95 | [Min vän och jag](https://open.spotify.com/track/0NPyQAU96LDQ2xLyIPyAg6) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK), [Arvid Nero](https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew) | [Min vän och jag](https://open.spotify.com/album/2XCaCiPFPnZCF5tnCrOm0K) | 2:38 |
-| 96 | [The Thrill Is Gone](https://open.spotify.com/track/6UJnjqOBUs1jNQadLEx2k7) | [Jon Eberson](https://open.spotify.com/artist/1IvNA2YJTx90pNuRaGRwjm), [Marte Eberson](https://open.spotify.com/artist/5DvFRKXZ3PVC2MXDCmCsbr) | [Forgetful](https://open.spotify.com/album/73h7UENAcjJGPbaD3fPwnF) | 4:06 |
+| 96 | [The Thrill Is Gone](https://open.spotify.com/track/6UJnjqOBUs1jNQadLEx2k7) | [Jon Eberson](https://open.spotify.com/artist/1IvNA2YJTx90pNuRaGRwjm), [Marte Eberson](https://open.spotify.com/artist/5DvFRKXZ3PVC2MXDCmCsbr), [Eberson](https://open.spotify.com/artist/2kjdjRq67MMrNSwrED3ToW) | [Forgetful](https://open.spotify.com/album/73h7UENAcjJGPbaD3fPwnF) | 4:06 |
 | 97 | [CHIEF KEEF](https://open.spotify.com/track/77f2kQuDSnHBS78BFQwouy) | [J\-Zino](https://open.spotify.com/artist/4wDABZ13fok4xAeNvjW6Hm), [Linni](https://open.spotify.com/artist/5EnyJ6QaGHnetHxAUD9Xoc), [Angelo Reira](https://open.spotify.com/artist/108MBqDoWGVHCyUNfOj47O) | [PUSHER MARATON](https://open.spotify.com/album/1w4DLBjDuJujoWd2syhEXE) | 3:21 |
 | 98 | [the robbery](https://open.spotify.com/track/4Vstu1elITaiLuuqQgHZKI) | [Oakland Rain](https://open.spotify.com/artist/5KfRoJYMy6yuBdJfDXU1wR) | [dinner with enemies](https://open.spotify.com/album/6KX5yaft51xRe7RcyxllXE) | 2:42 |
 | 99 | [AUX](https://open.spotify.com/track/2pLka0eqM9DPQL0C9Za0Ut) | [Ondt Blod](https://open.spotify.com/artist/2pnF4q8xbqN1EwrRU0x8lX) | [AUX](https://open.spotify.com/album/1Ts7FfhE9L7eE7HJd0xRbW) | 2:35 |

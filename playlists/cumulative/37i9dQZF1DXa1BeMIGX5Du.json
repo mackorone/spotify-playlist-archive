@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 221226,
       "name": "5432",
       "url": "https://open.spotify.com/track/3gXaiPXUZZFg2HTAV7eCEO"
@@ -850,7 +850,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 176760,
       "name": "Brian Cox",
       "url": "https://open.spotify.com/track/0LbtMgKgt5gCN74xpaYNo0"
@@ -2072,7 +2072,7 @@
       ],
       "date_added": "2025-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 233262,
       "name": "Every Town",
       "url": "https://open.spotify.com/track/3cGCnGYGIDZXz1MK4QHDc0"
@@ -3285,6 +3285,24 @@
     },
     {
       "album": {
+        "name": "How Not To Be",
+        "url": "https://open.spotify.com/album/4r6VwgBJRTjt2N4R8aSxI2"
+      },
+      "artists": [
+        {
+          "name": "Ben Abraham",
+          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147493,
+      "name": "How Not To Be",
+      "url": "https://open.spotify.com/track/3m4owbJTmJCkX0hex6w2WL"
+    },
+    {
+      "album": {
         "name": "How to Forget",
         "url": "https://open.spotify.com/album/3MYJWD831kp1HuvlBCE61X"
       },
@@ -3636,6 +3654,28 @@
       "duration_ms": 200000,
       "name": "If Only",
       "url": "https://open.spotify.com/track/2Lo5Eejn8Ohectg9z5GipX"
+    },
+    {
+      "album": {
+        "name": "Tomorrow Mind",
+        "url": "https://open.spotify.com/album/73PgMAmds1E7Yvc55Co8DX"
+      },
+      "artists": [
+        {
+          "name": "Yaz Williams",
+          "url": "https://open.spotify.com/artist/1Vr3BdiaDRuVLTMdrCjuTy"
+        },
+        {
+          "name": "Callan Brown",
+          "url": "https://open.spotify.com/artist/1KQTt65tDsEgrbihGs4ruu"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214054,
+      "name": "In The Sun",
+      "url": "https://open.spotify.com/track/55sbszpjC52YTt595NF97L"
     },
     {
       "album": {
@@ -4210,6 +4250,24 @@
       "duration_ms": 278126,
       "name": "Let The Light In (feat. Father John Misty)",
       "url": "https://open.spotify.com/track/4qG7hWhljsqqENL5PaLA2z"
+    },
+    {
+      "album": {
+        "name": "There's a Place I Go",
+        "url": "https://open.spotify.com/album/2WrT9ExSxQAg3nBWPfJBvI"
+      },
+      "artists": [
+        {
+          "name": "Laura Lucas",
+          "url": "https://open.spotify.com/artist/26C6XIcWyR8utyqb1wycyc"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224276,
+      "name": "Let the Winter Have Me",
+      "url": "https://open.spotify.com/track/6n95B2mJPJBS3lBSn86JfL"
     },
     {
       "album": {
@@ -5120,7 +5178,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 155640,
       "name": "On Her Side",
       "url": "https://open.spotify.com/track/27EEp3yjPGh4XQGi0JDJ5Y"
@@ -5272,6 +5330,28 @@
       "duration_ms": 162000,
       "name": "Peeps with the Goods",
       "url": "https://open.spotify.com/track/3RqNDhzKoi7gLdW1ppQ77l"
+    },
+    {
+      "album": {
+        "name": "Storms",
+        "url": "https://open.spotify.com/album/4rQG7S2kz5Hg6FGPYWvp2m"
+      },
+      "artists": [
+        {
+          "name": "Husky Gawenda",
+          "url": "https://open.spotify.com/artist/1sNJ4MiIoUC38wEPkXdW1W"
+        },
+        {
+          "name": "Husky",
+          "url": "https://open.spotify.com/artist/47nuMLurQsLP1gLK7gJtis"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187221,
+      "name": "Photograph",
+      "url": "https://open.spotify.com/track/5xHsGR9V9KbseclKiPeceV"
     },
     {
       "album": {
@@ -5673,6 +5753,24 @@
     },
     {
       "album": {
+        "name": "Shake Off the Rain",
+        "url": "https://open.spotify.com/album/4zOqdbkSSn2PX7KMwdHxdh"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282831,
+      "name": "Shake Off the Rain",
+      "url": "https://open.spotify.com/track/0gVBrNtip58FmG1JlGwATM"
+    },
+    {
+      "album": {
         "name": "Shiva",
         "url": "https://open.spotify.com/album/3Q8CPszxKBHYKSMNlv5wrf"
       },
@@ -5684,7 +5782,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 182386,
       "name": "Shiva",
       "url": "https://open.spotify.com/track/42oPBjCm3xqOfevxJcjhdO"
@@ -6176,7 +6274,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 119705,
       "name": "Stay Awake",
       "url": "https://open.spotify.com/track/3Fcdwu4gMqd0eAlC9thpKo"
@@ -6816,6 +6914,24 @@
       "duration_ms": 219316,
       "name": "The Second Act",
       "url": "https://open.spotify.com/track/5RcWnnP5TMszVvarhYaoqa"
+    },
+    {
+      "album": {
+        "name": "The Shadow",
+        "url": "https://open.spotify.com/album/0l2n1iiBESkCUjzLG6gECY"
+      },
+      "artists": [
+        {
+          "name": "Stu Larsen",
+          "url": "https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281497,
+      "name": "The Shadow",
+      "url": "https://open.spotify.com/track/5NUc11LW8s9hbHkDmCP1iX"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [Mezzanotte Chill Rap](https://open.spotify.com/playlist/37i9dQZF1DX37pZLd58ED5)
 
-> Solo beat e rime avvolgenti\. Cover: Tony Boy
+> Solo beat e rime avvolgenti\. Cover: Marracash
 
 269 songs - 14 hr 3 min
 

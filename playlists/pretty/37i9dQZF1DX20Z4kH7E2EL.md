@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20Z4kH7E2EL.md) - [plain]
 
 > <a href="spotify:artist:0bGDTQ78MVgI5Snqo9KJZw">Qrion</a>'s favorite tracks\. Updated regularly\. Curated by Qrion\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,133 likes - 80 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,132 likes - 80 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20Z4kH7E2EL.md) - [plain]
 | 79 | [Carry Me \- Sugarstarr Remix](https://open.spotify.com/track/1IDG5R1PPQWLpqWCs1E2Ff) | [Virak](https://open.spotify.com/artist/7gEgxCJulGmrl6vAa39NcK), [Yvan Polge](https://open.spotify.com/artist/7xjTeFDWr1O3XyKdun8SIa), [Sugarstarr](https://open.spotify.com/artist/7FXy2Mz6gHQKouWYhNz0NK) | [Carry Me \(Sugarstarr Remix\)](https://open.spotify.com/album/2MHfI94hwXJN15SS4Uewr7) | 3:03 |
 | 80 | [Umami](https://open.spotify.com/track/2gLSA0nDTcLkmNm4IbDeHv) | [Me & George](https://open.spotify.com/artist/4VYA3yEmxcU2ElaVRPHGFv), [Povoa](https://open.spotify.com/artist/6K3ZMm8QvrVvEds0ZjKrwC) | [Umami](https://open.spotify.com/album/3pH0Pwav8pSDjx6sskJWpN) | 5:26 |
 
-Snapshot ID: `AAAAAIvwT6qi2JCf9xCqiFVtVXIqe1zY`
+Snapshot ID: `AAAAAN4RiFAwNNXOaGA/G3ygEb0kZnZY`

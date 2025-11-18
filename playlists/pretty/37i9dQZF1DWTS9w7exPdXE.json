@@ -1,6 +1,6 @@
 {
   "description": "Volkspop | Nederpop. Cover: Yves Berendse",
-  "num_followers": 153850,
+  "num_followers": 153874,
   "original_name": "Hollandse Meezingers",
   "owner": {
     "name": "Spotify",
@@ -259,6 +259,26 @@
     {
       "added_at": "2025-09-04 22:00:28",
       "album": {
+        "name": "Van Goes Tot Purmerend",
+        "url": "https://open.spotify.com/album/4Kc9vHk2XB9tGNcyikgNpm"
+      },
+      "artists": [
+        {
+          "name": "Jan Smit",
+          "url": "https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq"
+        },
+        {
+          "name": "Marco Schuitmaker",
+          "url": "https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ"
+        }
+      ],
+      "duration_ms": 201363,
+      "name": "Van Goes Tot Purmerend",
+      "url": "https://open.spotify.com/track/6dgkHkbtXg4mGwRPJiE1LV"
+    },
+    {
+      "added_at": "2025-09-04 22:00:28",
+      "album": {
         "name": "Vannacht Slaap Jij Bij Mij",
         "url": "https://open.spotify.com/album/72aiMSxFyKAiY4mrolRPgj"
       },
@@ -283,26 +303,6 @@
       "duration_ms": 148704,
       "name": "Vannacht Slaap Jij Bij Mij",
       "url": "https://open.spotify.com/track/7gv9Ky47iGM6LRp5aO5tkt"
-    },
-    {
-      "added_at": "2025-09-04 22:00:28",
-      "album": {
-        "name": "Van Goes Tot Purmerend",
-        "url": "https://open.spotify.com/album/4Kc9vHk2XB9tGNcyikgNpm"
-      },
-      "artists": [
-        {
-          "name": "Jan Smit",
-          "url": "https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq"
-        },
-        {
-          "name": "Marco Schuitmaker",
-          "url": "https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ"
-        }
-      ],
-      "duration_ms": 201363,
-      "name": "Van Goes Tot Purmerend",
-      "url": "https://open.spotify.com/track/6dgkHkbtXg4mGwRPJiE1LV"
     },
     {
       "added_at": "2025-09-04 22:00:28",
@@ -739,6 +739,22 @@
     {
       "added_at": "2025-09-04 22:00:28",
       "album": {
+        "name": "De nieuwe van....",
+        "url": "https://open.spotify.com/album/2x0327Ozc7ODk3LQCSk6tL"
+      },
+      "artists": [
+        {
+          "name": "Jannes",
+          "url": "https://open.spotify.com/artist/02ydjJPvRKpejxRzZyHdaq"
+        }
+      ],
+      "duration_ms": 218880,
+      "name": "Zwevend naar 't geluk",
+      "url": "https://open.spotify.com/track/0DBCfqAcsiQAonBXMD50cA"
+    },
+    {
+      "added_at": "2025-09-04 22:00:28",
+      "album": {
         "name": "Zomer In M'n Bol (feat. Andr\u00e9 Hazes)",
         "url": "https://open.spotify.com/album/6nULDYcDGqhpZ4P9vksgD5"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 152285,
       "name": "Zomer In M'n Bol (feat. Andr\u00e9 Hazes)",
       "url": "https://open.spotify.com/track/5VlY1Th1IgoNCLutkFfUVu"
-    },
-    {
-      "added_at": "2025-09-04 22:00:28",
-      "album": {
-        "name": "De nieuwe van....",
-        "url": "https://open.spotify.com/album/2x0327Ozc7ODk3LQCSk6tL"
-      },
-      "artists": [
-        {
-          "name": "Jannes",
-          "url": "https://open.spotify.com/artist/02ydjJPvRKpejxRzZyHdaq"
-        }
-      ],
-      "duration_ms": 218880,
-      "name": "Zwevend naar 't geluk",
-      "url": "https://open.spotify.com/track/0DBCfqAcsiQAonBXMD50cA"
     },
     {
       "added_at": "2025-09-04 22:00:28",

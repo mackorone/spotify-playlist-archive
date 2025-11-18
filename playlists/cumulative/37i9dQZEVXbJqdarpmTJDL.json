@@ -878,7 +878,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-15",
+      "date_removed": null,
       "duration_ms": 195345,
       "name": "5 AM",
       "url": "https://open.spotify.com/track/1JGntUi9e8Oe2N5lBdXYGU"
@@ -3708,7 +3708,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 274666,
       "name": "Antigonidon",
       "url": "https://open.spotify.com/track/5XoBIF0Y6zaHjMnf2aZsMh"
@@ -14213,6 +14213,32 @@
     },
     {
       "album": {
+        "name": "ENTAKSEI",
+        "url": "https://open.spotify.com/album/0EmrFD4zWx34xzeEtgwkQL"
+      },
+      "artists": [
+        {
+          "name": "How",
+          "url": "https://open.spotify.com/artist/1fOZ5oJ54j38CGvVapIBDi"
+        },
+        {
+          "name": "KATO",
+          "url": "https://open.spotify.com/artist/0AhOwQ26N0W0Q3TlaB9yPK"
+        },
+        {
+          "name": "skinny",
+          "url": "https://open.spotify.com/artist/0GjmHecf3cA6aWnPalC7RK"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133211,
+      "name": "ENTAKSEI",
+      "url": "https://open.spotify.com/track/0nJLaOtSXnEJzuCpMSJOM5"
+    },
+    {
+      "album": {
         "name": "Lingo 2",
         "url": "https://open.spotify.com/album/6BPkSnOSgApcpdhGP32tcW"
       },
@@ -20156,7 +20182,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 317751,
       "name": "HOODLIGANS",
       "url": "https://open.spotify.com/track/2yl0VQGlQcgxNhOXxjXAM7"
@@ -24714,7 +24740,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-15",
+      "date_removed": null,
       "duration_ms": 247346,
       "name": "KSEHORISTO",
       "url": "https://open.spotify.com/track/1mOLBCX3IRwGNDLqYzXpM5"
@@ -28834,7 +28860,7 @@
       ],
       "date_added": "2025-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 222048,
       "name": "Me Liga Logia",
       "url": "https://open.spotify.com/track/3YXFHZZRd2tzqMwsNx0cYv"
@@ -33052,7 +33078,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 199133,
       "name": "Non Stop",
       "url": "https://open.spotify.com/track/2yy5z25y213U4NiSrCs0tW"
@@ -36388,7 +36414,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 309554,
       "name": "PEGASUS",
       "url": "https://open.spotify.com/track/7zlSJEQdA4UaztxQcGnXrO"
@@ -41983,6 +42009,28 @@
     },
     {
       "album": {
+        "name": "Siopi Sti Diapason",
+        "url": "https://open.spotify.com/album/5hq3mhVls5TmQmreXUslx2"
+      },
+      "artists": [
+        {
+          "name": "Ioulia Kallimani",
+          "url": "https://open.spotify.com/artist/6HsM9NbNIunWMEFLOk4d9p"
+        },
+        {
+          "name": "Michael Touratzidis",
+          "url": "https://open.spotify.com/artist/5dwadtCk3MY582FXpBAHwz"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190030,
+      "name": "Siopi Sti Diapason",
+      "url": "https://open.spotify.com/track/1Zw1dBNnFCyHWTRWTRk3wW"
+    },
+    {
+      "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
       },
@@ -42882,6 +42930,24 @@
       "duration_ms": 168428,
       "name": "SOSA",
       "url": "https://open.spotify.com/track/1j8aRXVJFYkDWEUpZeGrdc"
+    },
+    {
+      "album": {
+        "name": "Sou Eleipsa H Oxi?",
+        "url": "https://open.spotify.com/album/3Y3vGleylpZtWMQUySRcvI"
+      },
+      "artists": [
+        {
+          "name": "Katerina Lioliou",
+          "url": "https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239482,
+      "name": "Sou Eleipsa H Oxi?",
+      "url": "https://open.spotify.com/track/3DjRWr61uRKkd6pe0DkO3e"
     },
     {
       "album": {
@@ -44398,7 +44464,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-15",
+      "date_removed": null,
       "duration_ms": 138543,
       "name": "SYNTAGH",
       "url": "https://open.spotify.com/track/48ZHtSECQg0LISXnGrHSum"
@@ -45766,7 +45832,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 226073,
       "name": "The Fate of Ophelia",
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
@@ -48936,7 +49002,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-16",
+      "date_removed": null,
       "duration_ms": 181224,
       "name": "Valaoritou",
       "url": "https://open.spotify.com/track/1qnGRggChnWJ6FWM2FRL7n"
@@ -50352,7 +50418,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 279613,
       "name": "X (SZN)",
       "url": "https://open.spotify.com/track/0N62GNJamKzUBOaLD0FIGr"

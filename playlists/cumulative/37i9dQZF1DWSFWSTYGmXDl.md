@@ -4,7 +4,7 @@
 
 > Soft and warm Christmas songs from recent years\. Cover: Laufey
 
-240 songs - 13 hr 2 min
+242 songs - 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,7 +195,7 @@
 | [Season of Lights and Wonder](https://open.spotify.com/track/0WDLGIY0jvSjOGatUXS4mn) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Merry Christmas \(Welcome to the Family\)](https://open.spotify.com/album/0E0pHnydub2gfVIUr8Cyi3) | 2:54 | 2024-12-06 |  |
 | [Silent Night](https://open.spotify.com/track/44i7QLwC4NQ9dSIYJaEzXl) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [You Make It Feel Like Christmas](https://open.spotify.com/album/58qdMDlJaZBYleY7Bf0gNc) | 3:14 | 2021-12-12 | 2023-11-16 |
 | [Silent Night](https://open.spotify.com/track/60iHtNrA3WoJsXa1dgjGAZ) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Under The Mistletoe \(Deluxe Edition\)](https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p) | 2:49 | 2021-12-12 | 2023-11-16 |
-| [Silent Night](https://open.spotify.com/track/1rRb8IFx7OYqlZnt6ag7cP) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [A Very Teddy Christmas](https://open.spotify.com/album/5Uz5dJxxx80FlqetqpvCJp) | 4:11 | 2023-11-15 |  |
+| [Silent Night](https://open.spotify.com/track/1rRb8IFx7OYqlZnt6ag7cP) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [A Very Teddy Christmas](https://open.spotify.com/album/5Uz5dJxxx80FlqetqpvCJp) | 4:11 | 2023-11-15 | 2025-11-18 |
 | [Silent Night](https://open.spotify.com/track/6ADnHfEQ3Bc9HqdFMlkFZM) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Honor The Light](https://open.spotify.com/album/6NXHxEZBAedotZFvYiXOhI) | 1:42 | 2024-11-25 |  |
 | [Silver Bells](https://open.spotify.com/track/07FpmgWdTUjWBiRP3ON6OJ) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Silver Bells](https://open.spotify.com/album/2GPICARHZjMAxMu15hhT3M) | 3:33 | 2021-12-12 | 2024-12-07 |
 | [Snow](https://open.spotify.com/track/1UkFYMVhWAT1N7IIhJJMtE) | [Emilee Moore](https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m) | [Snow](https://open.spotify.com/album/2XVDuyZ7gDHxpU9BAtMwu0) | 3:45 | 2021-12-12 |  |
@@ -208,7 +208,8 @@
 | [Snowman \- Slowed Down](https://open.spotify.com/track/6Ob0vkoBVpja3yLQkjCdpK) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Snowman \(Slowed Down & Snowed In Remix\)](https://open.spotify.com/album/7Ktba0IWwrAyFpoUNc0bL8) | 3:00 | 2021-12-12 |  |
 | [something about december](https://open.spotify.com/track/0ehuqbHuFZIOedqkWn0JZi) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [a very merry perri christmas](https://open.spotify.com/album/5noTFKbSGzGgXWxnEiuoK2) | 3:58 | 2021-12-12 | 2023-11-16 |
 | [Song for a Winter's Night](https://open.spotify.com/track/1fDCLXq6otLzctI4Bdde48) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0) | [Song for a Winter's Night](https://open.spotify.com/album/2Kf5yMZ6rn3uuj6z0RFWt4) | 3:22 | 2025-11-07 |  |
-| [Sweet December \(feat\. Kelly Clarkson\)](https://open.spotify.com/track/3WjuBnuW3JHSHtxet4V38x) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Sweet December \(feat\. Kelly Clarkson\)](https://open.spotify.com/album/6cqilu8CWH4qW1xfU499OL) | 3:20 | 2024-11-04 |  |
+| [Sweet December \(feat\. Kelly Clarkson\)](https://open.spotify.com/track/3WjuBnuW3JHSHtxet4V38x) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Sweet December \(feat\. Kelly Clarkson\)](https://open.spotify.com/album/6cqilu8CWH4qW1xfU499OL) | 3:20 | 2024-11-04 | 2025-11-18 |
+| [The Christmas Song](https://open.spotify.com/track/4WRb5qAPnvMbUIrnjLaggC) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Christmas Song](https://open.spotify.com/album/1XihsRNijZ4GXrAHmQQv6n) | 2:55 | 2025-11-17 |  |
 | [The Christmas Song](https://open.spotify.com/track/69J4F1pG1e8uGvgiARFjab) | [Steve Perry](https://open.spotify.com/artist/5xQKoGD7Ql92fWd1uWwKkf) | [The Season](https://open.spotify.com/album/1Mw4vvs9yvuIQ5AMcO7cTJ) | 3:31 | 2021-12-12 | 2022-11-19 |
 | [The Christmas Song \(Chestnuts Roasting On An Open Fire\)](https://open.spotify.com/track/3eYnKe0LhQA1B5HEkQaRTP) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Under The Mistletoe \(Deluxe Edition\)](https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p) | 3:35 | 2021-12-12 | 2023-11-16 |
 | [The Christmas Song \(Chestnuts Roasting on an Open Fire\)](https://open.spotify.com/track/0Dmucyb2ZVU0LDVhjAxbJf) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [The Christmas Present \(Deluxe\)](https://open.spotify.com/album/1JDeu83sZU5nmRu2OTSk4F) | 3:12 | 2021-12-12 | 2023-11-16 |
@@ -230,6 +231,7 @@
 | [two christmases](https://open.spotify.com/track/4VwgQEJtPLh91KOSudzCtS) | [nobody likes you pat](https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I) | [two christmases](https://open.spotify.com/album/364lYUcGHWq5Mk2h5NMHSM) | 2:22 | 2022-11-10 | 2024-11-26 |
 | [two queens in a king sized bed](https://open.spotify.com/track/1pUyZuge2qoSG1nzDxftQJ) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [two queens in a king sized bed](https://open.spotify.com/album/38v3Ga4U869AXC0BKIzuXG) | 3:10 | 2021-12-12 |  |
 | [two queens in a king sized bed](https://open.spotify.com/track/2dP8R44P2Lo3hdyevbYFfy) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [two queens in a king sized bed](https://open.spotify.com/album/6CHnC6lp4ZR9F8iKECQOII) | 3:10 | 2021-12-12 | 2024-04-19 |
+| [Under The Mistletoe](https://open.spotify.com/track/2xnnh8PDwQ6aBGIb0cjA0M) | [Valerie Broussard](https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c) | [Under The Mistletoe](https://open.spotify.com/album/0QxscyV7aQehN5JEJKc5US) | 3:26 | 2025-11-17 |  |
 | [Under the Mistletoe \(with Kendra Jae\)](https://open.spotify.com/track/6sMaVcsbSyWZWK0wFBzRRH) | [AUGUST 08](https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi), [Kendra Jae](https://open.spotify.com/artist/1KcnqRVBBJ2FUZMQUn3k5P) | [Def The Halls](https://open.spotify.com/album/0wV5Edyo92gZMKvEPpxUAc) | 2:51 | 2022-11-29 |  |
 | [Under the Tree \(from “That Christmas”\)](https://open.spotify.com/track/3emyfamOMxgrus8oZQh6Mx) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Under the Tree \(from “That Christmas”\)](https://open.spotify.com/album/3HcgqKuPvj9ZpqLCny0GWg) | 4:02 | 2024-12-06 |  |
 | [Warm December](https://open.spotify.com/track/1xLBOnBn16AXmvDZ2WOTOw) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Warm December](https://open.spotify.com/album/1IudCFPdNr3NcTkfXLLcVx) | 3:15 | 2021-12-12 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0q1RHoDiZBg.md) - [plain]
 
 > Fresh takes—from new revisions and iconic covers to unexpected versions and the songwriter's own covers\. Cover: <a href="spotify:artist:74ASZWbe4lXaubB36ztrGX">Bob Dylan</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,541 likes - 106 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,538 likes - 106 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0q1RHoDiZBg.md) - [plain]
 | 32 | [Baby, I'm In The Mood For You](https://open.spotify.com/track/50ZHlDg707OUDn61nba1gy) | [Odetta](https://open.spotify.com/artist/2wkz8hACugzAvF0voupg3H) | [Odetta Sings Dylan](https://open.spotify.com/album/2laIs6Ws4MhFazcJpFgZ34) | 2:48 |
 | 33 | [To Ramona](https://open.spotify.com/track/2YIFEhugIuCCMK7rttQSPz) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Cryin' to You](https://open.spotify.com/album/3SoEcGncHdNs6qEoRLaWlj) | 4:36 |
 | 34 | [A Hard Rain's A Gonna Fall](https://open.spotify.com/track/3IfL6ToMZmiMjIxvrtMPev) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Listen To Bob Dylan \- A Tribute](https://open.spotify.com/album/1lkp6bU55AW0FjGvmCr5bI) | 8:12 |
-| 35 | [I Could Have Told You](https://open.spotify.com/track/4kRh9lyQMQyg0MK1kzKAzN) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Triplicate](https://open.spotify.com/album/5coSubIBt21W8V40Po41pY) | 3:36 |
+| 35 | [I Could Have Told You](https://open.spotify.com/track/4kRh9lyQMQyg0MK1kzKAzN) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Triplicate](https://open.spotify.com/album/5coSubIBt21W8V40Po41pY) | 3:39 |
 | 36 | [The Lonesome Death Of Hattie Carroll](https://open.spotify.com/track/2lnrxXWkV6JHJjSIUtLLeL) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Chimes Of Freedom: The Songs Of Bob Dylan Honoring 50 Years Of Amnesty International](https://open.spotify.com/album/1SB9SD66SM04dm8wZdLatY) | 4:59 |
 | 37 | [Girl From The North Country](https://open.spotify.com/track/6WFN2f7IptgrM2QA9LPtaE) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Leave Me Breathless](https://open.spotify.com/album/62EG6ravDzMqNtGb1CCYjy) | 4:00 |
 | 38 | [Ring Them Bells](https://open.spotify.com/track/0Oi59LV3PxJf4eRu7iyV53) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [I'm Not There \(Music From The Motion Picture\)](https://open.spotify.com/album/6ZSp2CcRWdyTm50DbI9MAX) | 6:20 |

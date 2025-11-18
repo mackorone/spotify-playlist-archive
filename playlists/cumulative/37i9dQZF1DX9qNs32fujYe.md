@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks\. Cover: King Diamond
 
-1,160 songs - 3 day 12 hr 29 min
+1,161 songs - 3 day 12 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Bone Church](https://open.spotify.com/track/36sAFU68abNDrMOJI5QYZi) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Bone Church](https://open.spotify.com/album/3YfWgkwUS52CmKJeOpBACz) | 5:27 | 2023-02-11 | 2024-05-18 |
 | [Bound by Silence \(feat\. John Bush\)](https://open.spotify.com/track/3do3uQH28Awy7gZze71fWy) | [Metal Allegiance](https://open.spotify.com/artist/0WMCrmC96IpOteF4W4mZ3v), [John Bush](https://open.spotify.com/artist/0sigxeZTjygDvlHAwCDGJz) | [Bound by Silence \(feat\. John Bush\)](https://open.spotify.com/album/2yvYFpto2SPoTmNjrcoF6n) | 4:57 | 2022-03-02 | 2022-04-21 |
 | [Bound to You](https://open.spotify.com/track/2e3BYKQxVqrwDNBthAVMRf) | [Lords of Black](https://open.spotify.com/artist/5PgEqen6HcezHZRU1PJO0Z) | [Bound to You](https://open.spotify.com/album/4LBRpVSwm4DKouQRuj9xJg) | 5:20 | 2021-12-17 | 2022-07-28 |
+| [Box With Spirits](https://open.spotify.com/track/7ivGhbcvChk4TSSjIAvqcx) | [Cyhra](https://open.spotify.com/artist/6tkhw6PSVw7b2M7h5fLBLE) | [Box With Spirits](https://open.spotify.com/album/23zSQg0YS7mpq7RjtFVSYB) | 3:18 | 2025-11-14 |  |
 | [Brace for Impact](https://open.spotify.com/track/6nqhwI9sRHsGAtMYUkGo0j) | [Flotsam & Jetsam](https://open.spotify.com/artist/1ApBh0VSoxRjjT3kFQZrpz) | [Brace for Impact](https://open.spotify.com/album/60F8SQR15qRIpJV24q0gX1) | 4:33 | 2021-12-17 | 2022-07-23 |
 | [BRAVE NEW WORLD](https://open.spotify.com/track/7stpbtJzoBx1D38egFeT29) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [BRAVE NEW WORLD](https://open.spotify.com/album/6ODIDW9Ud3whinMHkY2Cbh) | 4:23 | 2024-05-03 |  |
 | [Break Away](https://open.spotify.com/track/6wtfIonPBuxMmgPZUCM0kj) | [Firewind](https://open.spotify.com/artist/70I9vE7YTwKmelfEplXc5r) | [Firewind](https://open.spotify.com/album/0eABZjNzoxwU6UVDyPzg3y) | 5:13 | 2021-12-17 | 2022-07-29 |
@@ -157,7 +158,7 @@
 | [California](https://open.spotify.com/track/5hs7EN2e47VSzJhIiSGR9j) | [Sonata Arctica](https://open.spotify.com/artist/5YeoQ1L71cXDMpSpqxOjfH) | [Clear Cold Beyond](https://open.spotify.com/album/5udxJVHVFuD35pKn9Oh2X3) | 4:25 | 2024-03-08 | 2024-11-28 |
 | [Call of the Night](https://open.spotify.com/track/57QjQeKO0GqG004JoqZyTZ) | [Dynazty](https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV) | [Call of the Night](https://open.spotify.com/album/7e7XJxVyMLTYPjQlnLOLMM) | 3:34 | 2025-01-10 | 2025-02-15 |
 | [Can You Feel My Heart](https://open.spotify.com/track/0WSa1sucoNRcEeULlZVQXj) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Sempiternal \(Expanded Edition\)](https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz) | 3:48 | 2022-08-19 | 2023-02-11 |
-| [Can You Hear Me](https://open.spotify.com/track/4sNfEL2D6Qgy370ajeldtJ) | [Beyond The Black](https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf), [Asami](https://open.spotify.com/artist/5yItSTT0kJf72XXL9uG026) | [Can You Hear Me](https://open.spotify.com/album/1sPmGATnN4rdUUJyr7dLRT) | 4:10 | 2025-10-24 |  |
+| [Can You Hear Me](https://open.spotify.com/track/4sNfEL2D6Qgy370ajeldtJ) | [Beyond The Black](https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf), [LOVEBITES](https://open.spotify.com/artist/4H1S8RTYv4vN3SiM5uSZSa) | [Can You Hear Me](https://open.spotify.com/album/1sPmGATnN4rdUUJyr7dLRT) | 4:10 | 2025-10-24 |  |
 | [Cancelled](https://open.spotify.com/track/6zMBklADPUiVev8tFrMHIy) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Cancelled](https://open.spotify.com/album/5O2RCRX6fCXmynOWl5gFSK) | 4:47 | 2024-11-04 |  |
 | [Captain Goat](https://open.spotify.com/track/4qWhupNTHvRUkY47f6HP4d) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs) | [Captain Goat](https://open.spotify.com/album/6k401HU0tFAKeOwEb5OMMi) | 4:29 | 2025-05-30 | 2025-08-30 |
 | [Carnivore](https://open.spotify.com/track/06vavIMqqrQgz9gcdgmuoY) | [Wolfheart](https://open.spotify.com/artist/11EAP8MX0cfrW9lzkK424H) | [Carnivore](https://open.spotify.com/album/4hmTl50zJt2g592Whs5qiI) | 4:34 | 2025-08-15 |  |
@@ -643,7 +644,7 @@
 | [Nemo](https://open.spotify.com/track/1RNwniZkJqdw9LMkkyynjx) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Once](https://open.spotify.com/album/2wM6svkNOCsYP8sr9gP2zc) | 4:36 | 2023-05-05 | 2024-07-13 |
 | [Nemo](https://open.spotify.com/track/5OF7nhjVV0dmngqYjDrZGw) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Once](https://open.spotify.com/album/0aDCpYtFdQ0S8C3oAtOonk) | 4:36 | 2022-08-19 | 2023-02-11 |
 | [Nerve](https://open.spotify.com/track/7axsqaUbWaD2MMnIiJUv36) | [Orbit Culture](https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY) | [Nerve](https://open.spotify.com/album/4BbTiIHFLWEkqabIVpDDDE) | 5:52 | 2025-09-05 |  |
-| [Never Again \(Parasite\)](https://open.spotify.com/track/5gXIDQDs0ur8CjPg6BFLoG) | [Tetrarch](https://open.spotify.com/artist/5e43m4iYsZF54tHcJNAVU2) | [Never Again \(Parasite\)](https://open.spotify.com/album/6JiZnSdiYzpqUBdmHZVnWv) | 3:24 | 2025-02-14 |  |
+| [Never Again \(Parasite\)](https://open.spotify.com/track/5gXIDQDs0ur8CjPg6BFLoG) | [Tetrarch](https://open.spotify.com/artist/5e43m4iYsZF54tHcJNAVU2) | [Never Again \(Parasite\)](https://open.spotify.com/album/6JiZnSdiYzpqUBdmHZVnWv) | 3:24 | 2025-02-14 | 2025-11-18 |
 | [Never Dawn](https://open.spotify.com/track/53h0CfeES5dh1ECvoNjlMu) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Never Dawn](https://open.spotify.com/album/3n9sbXBR3ZhRwuNb4KBisF) | 4:49 | 2024-03-08 | 2025-02-15 |
 | [Never the Heroes](https://open.spotify.com/track/5LHebeJkgALO0q8YpullpY) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Reflections \- 50 Heavy Metal Years of Music](https://open.spotify.com/album/2alySadx70cVPH0YC9QHFM) | 4:24 | 2021-12-17 | 2025-02-01 |
 | [Nevermore](https://open.spotify.com/track/3UxbX3S3t6IKzGW4gGgYtr) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Nevermore](https://open.spotify.com/album/5cIXfBbWxO4vcWqcur8LEc) | 4:35 | 2022-06-10 | 2022-06-17 |

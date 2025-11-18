@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FWIO38pHuz.md) - [plain]
 
 > Our editors' top picks for the best Funk songs of the year\. Cover: PJ Morton
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,406 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,404 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Smoke and Mirrors](https://open.spotify.com/track/07y1iSWmPa2sDIj614QPWr) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Cape Town to Cairo](https://open.spotify.com/album/3xrdk0MImcnbt9NEc7pSnK) | 3:19 |
 | 2 | [Online](https://open.spotify.com/track/69NC8FNTlg78LJG4tTk0eI) | [TWRP](https://open.spotify.com/artist/6N3egqZ7OtcYYXyU6PBdNr), [Montaigne](https://open.spotify.com/artist/1ZcnsSFqWusWlRK01vKE6b), [Tom Cardy](https://open.spotify.com/artist/0hQBkU2vuMYXucmd89JUSw) | [Digital Nightmare](https://open.spotify.com/album/4qkSsAWMPhXTEwXZIDnlJv) | 4:14 |
 | 3 | [Queen](https://open.spotify.com/track/0t6qpXXwi9Mev4m2DaYr0D) | [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5), [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k), [Nigel Hall](https://open.spotify.com/artist/04HwdlOSZ8Rnmp4D3vyjI2) | [Queen](https://open.spotify.com/album/3XR8FN0cFnpi1A8wUKjirn) | 4:42 |
-| 4 | [Lights Out](https://open.spotify.com/track/4wRaWtogW3IXgNBrL2jqZ8) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Find Your Flame](https://open.spotify.com/album/7dkkrLhrHCTPsmc7JucvgL) | 4:01 |
+| 4 | [Lights Out](https://open.spotify.com/track/4wRaWtogW3IXgNBrL2jqZ8) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [Aziza Jaye](https://open.spotify.com/artist/0tHJp3y1T8uA9oWhEOMRzE) | [Find Your Flame](https://open.spotify.com/album/7dkkrLhrHCTPsmc7JucvgL) | 4:01 |
 | 5 | [Hip Replacement](https://open.spotify.com/track/3IYucJmgvn9e1OAtuLz3lU) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Family Business](https://open.spotify.com/album/3xVD5Lr09bhqJshMANPoUA) | 4:13 |
 | 6 | [Fist Bump \(feat\. Free Nationals\) \- Radio Edit](https://open.spotify.com/track/5El5mxXJzfYYr0PM61xrvn) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj) | [Fist Bump \(feat\. Free Nationals\) \(Radio Edit\)](https://open.spotify.com/album/2KKfaCj1zRMDHuCa2fmlZa) | 3:33 |
 | 7 | [Feels This Good](https://open.spotify.com/track/1iopiDQmLbENyX48Ny4CZF) | [Jon Mero](https://open.spotify.com/artist/6MuZFI7KLPBjhmgkkX5LPf), [LÒNIS](https://open.spotify.com/artist/1pS3ir5bQSBiBYvOBjPWcm) | [Next Big Thing](https://open.spotify.com/album/0wJRGPKODTYpPsrbbzYEqq) | 2:12 |

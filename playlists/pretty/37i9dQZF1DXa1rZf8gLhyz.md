@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1rZf8gLhyz.md) - [plain]
 
 > Let these calm Jazz tracks lull you to sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,522,292 likes - 135 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,527,452 likes - 135 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1rZf8gLhyz.md) - [plain]
 | 134 | [Once In A Serenade](https://open.spotify.com/track/6Ia3eru04MZCaWHSjXuf42) | [Meadow Park](https://open.spotify.com/artist/3xgSoGgPQpQvOK5XOyoOAm) | [Once In A Serenade](https://open.spotify.com/album/21tgArGIfB91eKUkndpfJG) | 2:57 |
 | 135 | [Soulful](https://open.spotify.com/track/4OhD0Bs4Rf3tHtRLhSOt24) | [Frank Abrahall](https://open.spotify.com/artist/3yEDrHb9D0EG5jeUfnfas5) | [Soulful](https://open.spotify.com/album/5qZQOI9SQUzQHFGkKpif3b) | 2:50 |
 
-Snapshot ID: `AAAAABtMxpouHRx1xnvNPoYwgi6gtbz6`
+Snapshot ID: `AAAAAKylQMLIY4n4rUQYh4SyBoZ4HolA`

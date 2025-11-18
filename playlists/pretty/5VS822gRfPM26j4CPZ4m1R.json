@@ -1,12 +1,12 @@
 {
   "description": "Playlist",
-  "num_followers": 17865,
+  "num_followers": 17867,
   "original_name": "Nice Guys | 24/7 Radio",
   "owner": {
     "name": "Nice Guys",
     "url": "https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc"
   },
-  "snapshot_id": "AAAMKjC1mZ7BqKkqWF++FgjPQskKHMQ9",
+  "snapshot_id": "AAAMLZbKeo2OKGQAxfWB7/JUMKb09Xc1",
   "tracks": [
     {
       "added_at": "2025-11-06 10:06:32",
@@ -39,6 +39,22 @@
       "duration_ms": 340000,
       "name": "Lule e Eg\u00ebr",
       "url": "https://open.spotify.com/track/68HCHDGbYaiOgO3DYeaXXN"
+    },
+    {
+      "added_at": "2025-11-17 09:26:36",
+      "album": {
+        "name": "Silver",
+        "url": "https://open.spotify.com/album/3nJnR5Zu95pGWzWxS2HbEa"
+      },
+      "artists": [
+        {
+          "name": "Niall Mutter",
+          "url": "https://open.spotify.com/artist/26nkWfI1zwh7OFESYPRn2w"
+        }
+      ],
+      "duration_ms": 222226,
+      "name": "I Don't Wanna Give You Up",
+      "url": "https://open.spotify.com/track/4rCZUOAzUEkgqit17eDlzi"
     },
     {
       "added_at": "2025-10-24 08:11:00",

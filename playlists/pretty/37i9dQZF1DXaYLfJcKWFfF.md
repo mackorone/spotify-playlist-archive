@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: Tessi Nandi
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,422 likes - 80 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,450 likes - 80 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 54 | [The Adults Are Talking](https://open.spotify.com/track/2nTNClRzELryaGpbFBSJHK) | [Mila Smith](https://open.spotify.com/artist/7DI5lMybujziYTvkwJajab) | [The Adults Are Talking](https://open.spotify.com/album/5kaGxvecYiURJZ5hW4Mdmk) | 2:25 |
 | 55 | [Keep On Loving Me \(Biko Biko\)](https://open.spotify.com/track/6P6NBxeNQTQIu1ZGpoTwks) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Keep On Loving Me \(Biko Biko\)](https://open.spotify.com/album/2uRLG0A0JXYaXfe0zLCbrR) | 2:14 |
 | 56 | [Citrus](https://open.spotify.com/track/45bXXyFCZPrRDIdhjaQUHU) | [Mia Lord](https://open.spotify.com/artist/4QSh1pbgB4Q7t1lL7sIZfI) | [Citrus](https://open.spotify.com/album/35wtAN1hExKJFtW18MUpIX) | 3:07 |
-| 57 | [Ocean Blue](https://open.spotify.com/track/2X6pF8CDfXxYmgzPJqqOLY) | [We Are All Fossils](https://open.spotify.com/artist/15vQbVx84dPqYBWX2XK8kw) | [Ocean Blue](https://open.spotify.com/album/3AVr9YPktzwJVjTFoBJpVL) | 3:05 |
-| 58 | [Goodbyes](https://open.spotify.com/track/6Gf8lW8YOh7OmEMUSG5OM6) | [Nic van Graan](https://open.spotify.com/artist/5szYkf5z4q40eLOyWDFJgt) | [Goodbyes](https://open.spotify.com/album/2WrsY0gAVrCmzd2PtlDydT) | 3:38 |
+| 57 | [Goodbyes](https://open.spotify.com/track/6Gf8lW8YOh7OmEMUSG5OM6) | [Nic van Graan](https://open.spotify.com/artist/5szYkf5z4q40eLOyWDFJgt) | [Goodbyes](https://open.spotify.com/album/2WrsY0gAVrCmzd2PtlDydT) | 3:38 |
+| 58 | [Ocean Blue](https://open.spotify.com/track/2X6pF8CDfXxYmgzPJqqOLY) | [We Are All Fossils](https://open.spotify.com/artist/15vQbVx84dPqYBWX2XK8kw) | [Ocean Blue](https://open.spotify.com/album/3AVr9YPktzwJVjTFoBJpVL) | 3:05 |
 | 59 | [Let Me Go \(Acoustic\)](https://open.spotify.com/track/64EdpHc7nTMEYbA3Woarpq) | [Fena Gitu](https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W) | [Let Me Go \(Acoustic\)](https://open.spotify.com/album/2OMdg93floiPduHW9SkCIZ) | 3:06 |
 | 60 | [All That I Am](https://open.spotify.com/track/6VcJDLVNppqqFHGkQcs0kb) | [PSILK](https://open.spotify.com/artist/2En0hpA97YxdCqyGVnDOK6) | [All That I Am](https://open.spotify.com/album/0Q3mPbwZR61xAOsvtXA95R) | 2:23 |
 | 61 | [PETER AND JESUS](https://open.spotify.com/track/0fyEtqKrSAAoSO0isqyFc4) | [burningforestboy](https://open.spotify.com/artist/44JiNZ7Zxi7IDh6njqD55M) | [PETER AND JESUS](https://open.spotify.com/album/0KSx0TO3RHggizzeLtDagf) | 2:07 |
@@ -77,16 +77,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 67 | [Maji](https://open.spotify.com/track/2OWyURynojKqDEEuvsdNL1) | [Mpho Sebina](https://open.spotify.com/artist/3Z2T6mI5rrWuijYZkclFEN), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Alkebulan](https://open.spotify.com/album/7t0MipiWRtNllff4xk4GBv) | 3:19 |
 | 68 | [Kú yâk ñtuà éyét](https://open.spotify.com/track/54kVmozEcghsPjSXk8uHvm) | [Etuk Ubong](https://open.spotify.com/artist/1vb5a9BPGYGCGt0zFQ4up7) | [Kú yâk ñtuà éyét](https://open.spotify.com/album/3j2J214yaLBbnBUQL4W8R6) | 5:51 |
 | 69 | [Tariro](https://open.spotify.com/track/3AqBDvLglwUIZBGh6At7hq) | [Gemma Griffiths](https://open.spotify.com/artist/1ho07fAwkrMIMAJId6DbCG), [Feli Nandi](https://open.spotify.com/artist/5FRNc8KgPwQohXVLrn9UNg) | [Gemma](https://open.spotify.com/album/06FFDnJvTkMYjFmBR7clLy) | 2:39 |
-| 70 | [We Live To Die](https://open.spotify.com/track/0RsbZTC7nsztMRjdo1xI6M) | [We Are All Fossils](https://open.spotify.com/artist/15vQbVx84dPqYBWX2XK8kw) | [We Live To Die](https://open.spotify.com/album/3h9o8HQ6bh24IY5BjXlZD6) | 3:06 |
-| 71 | [Jellyfish](https://open.spotify.com/track/5ocBo0wYEEkonAuvhBU2j8) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Jellyfish](https://open.spotify.com/album/66jybmyf9i4NelFuzOkJYz) | 2:04 |
-| 72 | [Runaway](https://open.spotify.com/track/7MhwICkzmhuWWdsNn082c8) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek), [Seyyoh](https://open.spotify.com/artist/28Olo730ChJyyW7acJkW3h) | [In Pursuit Of Happiness](https://open.spotify.com/album/7cR90I8NPn64HTVjcDHQpb) | 2:39 |
-| 73 | [get lifted](https://open.spotify.com/track/5m5DkPYIRY7nPMTrM0sDIK) | [Zoë Modiga](https://open.spotify.com/artist/6vfxDPW9Lc9tAMVy0oeqiB) | [nomthandazo](https://open.spotify.com/album/0yaSKg83zo7r7TfTRBORs1) | 3:01 |
+| 70 | [Jellyfish](https://open.spotify.com/track/5ocBo0wYEEkonAuvhBU2j8) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Jellyfish](https://open.spotify.com/album/66jybmyf9i4NelFuzOkJYz) | 2:04 |
+| 71 | [Runaway](https://open.spotify.com/track/7MhwICkzmhuWWdsNn082c8) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek), [Seyyoh](https://open.spotify.com/artist/28Olo730ChJyyW7acJkW3h) | [In Pursuit Of Happiness](https://open.spotify.com/album/7cR90I8NPn64HTVjcDHQpb) | 2:39 |
+| 72 | [get lifted](https://open.spotify.com/track/5m5DkPYIRY7nPMTrM0sDIK) | [Zoë Modiga](https://open.spotify.com/artist/6vfxDPW9Lc9tAMVy0oeqiB) | [nomthandazo](https://open.spotify.com/album/0yaSKg83zo7r7TfTRBORs1) | 3:01 |
+| 73 | [We Live To Die](https://open.spotify.com/track/0RsbZTC7nsztMRjdo1xI6M) | [We Are All Fossils](https://open.spotify.com/artist/15vQbVx84dPqYBWX2XK8kw) | [We Live To Die](https://open.spotify.com/album/3h9o8HQ6bh24IY5BjXlZD6) | 3:06 |
 | 74 | [Lost My Mind](https://open.spotify.com/track/6XUV1VSMXuAfQacsy4AORj) | [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA), [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp), [Crystal Murray](https://open.spotify.com/artist/2lRXAjsNoYGqyYkgHxk5OH) | [Lost My Mind](https://open.spotify.com/album/2OKt1XZRrtqkpf649qNbzf) | 3:02 |
-| 75 | [See You Soon](https://open.spotify.com/track/4LiKVSHo3x0Lmv50UOR0iv) | [Adam Srae](https://open.spotify.com/artist/3QxhXJxbonsOqLObAIuKAE) | [See You Soon](https://open.spotify.com/album/6WTXiaDaUq2i5AYxwiZiTM) | 2:41 |
-| 76 | [Standing in the Light](https://open.spotify.com/track/5jM3yT6eltDp3uR7bbjnx0) | [Nic van Graan](https://open.spotify.com/artist/5szYkf5z4q40eLOyWDFJgt), [Nathaniel Stewart](https://open.spotify.com/artist/3qBX9rcr5zRlfdC5ixrzrt) | [Standing in the Light](https://open.spotify.com/album/1vE7JqcDUHQHkaeAe0mvlf) | 3:07 |
+| 75 | [Standing in the Light](https://open.spotify.com/track/5jM3yT6eltDp3uR7bbjnx0) | [Nic van Graan](https://open.spotify.com/artist/5szYkf5z4q40eLOyWDFJgt), [Nathaniel Stewart](https://open.spotify.com/artist/3qBX9rcr5zRlfdC5ixrzrt) | [Standing in the Light](https://open.spotify.com/album/1vE7JqcDUHQHkaeAe0mvlf) | 3:07 |
+| 76 | [See You Soon](https://open.spotify.com/track/4LiKVSHo3x0Lmv50UOR0iv) | [Adam Srae](https://open.spotify.com/artist/3QxhXJxbonsOqLObAIuKAE) | [See You Soon](https://open.spotify.com/album/6WTXiaDaUq2i5AYxwiZiTM) | 2:41 |
 | 77 | [eyes\~](https://open.spotify.com/track/4jTlIwyg9WkHxnGYAV5oBZ) | [Corbon Amodio](https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ) | [when the night ends](https://open.spotify.com/album/0OMAhbCagKggdTIRe1ZwK3) | 3:27 |
 | 78 | [Sugar Rush](https://open.spotify.com/track/2biDEbOgHPFrFBFDSU6VZl) | [Porcelain Moon](https://open.spotify.com/artist/6bs5zCX9gJQ5nhxZ1Xu549) | [Sugar Rush](https://open.spotify.com/album/5W4zIRDdgp5y3N0AzxGSmL) | 2:58 |
-| 79 | [WAY BACK](https://open.spotify.com/track/16xpoMs2nXaHNS5k1tXGGg) | [99 PHACES](https://open.spotify.com/artist/2l1fCZcDvjN6Bvvea40p1p) | [WAY BACK](https://open.spotify.com/album/1TCi9dPFfZPXzMyEcnhP2m) | 2:47 |
-| 80 | [Spheres](https://open.spotify.com/track/7bYXCCtVFwaiRyoUP1uD3n) | [Shane Cooper](https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ), [Bokani Dyer](https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy), [Outeniqua](https://open.spotify.com/artist/3wKzi1cig0h6Vmxw0PJsml) | [Spheres](https://open.spotify.com/album/2I8Mjgw47gc9gBWLZQcOly) | 3:50 |
+| 79 | [Spheres](https://open.spotify.com/track/7bYXCCtVFwaiRyoUP1uD3n) | [Shane Cooper](https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ), [Bokani Dyer](https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy), [Outeniqua](https://open.spotify.com/artist/3wKzi1cig0h6Vmxw0PJsml) | [Spheres](https://open.spotify.com/album/2I8Mjgw47gc9gBWLZQcOly) | 3:50 |
+| 80 | [WAY BACK](https://open.spotify.com/track/16xpoMs2nXaHNS5k1tXGGg) | [99 PHACES](https://open.spotify.com/artist/2l1fCZcDvjN6Bvvea40p1p) | [WAY BACK](https://open.spotify.com/album/1TCi9dPFfZPXzMyEcnhP2m) | 2:47 |
 
 Snapshot ID: `AAAAAKQxIXcN+Kxj459zt3VwxRjOiJ0t`

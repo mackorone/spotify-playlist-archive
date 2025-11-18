@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-1,023 songs - 2 day 4 hr 27 min
+1,024 songs - 2 day 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1030,6 +1030,7 @@
 | [You're Makin Me High](https://open.spotify.com/track/7vptpK5xwhWWLf9RXD3GxQ) | [Hi\_Tack](https://open.spotify.com/artist/6N1W9mAlncCKbqBHgBR2bN) | [You're Makin Me High](https://open.spotify.com/album/1FbZJC14ukWYQcPGo6zggH) | 2:27 | 2023-02-12 | 2023-04-13 |
 | [You're Not Alone](https://open.spotify.com/track/0FNi3IvctBQ8OH08RmsyWU) | [Ginchy](https://open.spotify.com/artist/0HOE39NQ7ewDCXEZm796MP) | [You're Not Alone](https://open.spotify.com/album/0OOgKXxPfzx5Lctgg1YgS9) | 3:23 | 2023-08-25 | 2023-12-14 |
 | [Your Eyes \- Extended Mix](https://open.spotify.com/track/4yWlG0pSkvRWdWaVCntq41) | [KuKs](https://open.spotify.com/artist/5PWpXV7tpqjNx2Laro6Ytx) | [EnsisLand, Vol\. 15 \- SummerVibes](https://open.spotify.com/album/58B3HfLVQodeQxs0K2oOHa) | 3:00 | 2023-09-01 | 2023-12-14 |
+| [Your Turn](https://open.spotify.com/track/14rx03yHQzd9jnnzhzYQM0) | [NO\. SYGNL](https://open.spotify.com/artist/1tJIyQ7VJERr5YGEKpgmun) | [Your Turn](https://open.spotify.com/album/4h1u8r9WhyyKSw9UvdQV3P) | 3:34 | 2025-11-17 |  |
 | [Zombie \(feat\. Sam Stray Wood & Kiirah\)](https://open.spotify.com/track/1DzhpS9SP57PHHVO5HEewk) | [Leandro Da Silva](https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx), [Alterboy](https://open.spotify.com/artist/4yR4Yc8RhsKBEwJ3JQQcY3), [Sam Stray Wood](https://open.spotify.com/artist/4X1oGt6g3c7h9UFTmwYDhF), [Kiirah](https://open.spotify.com/artist/5dOP9Sfrydo6TqNsX7oPhv) | [Zombie \(feat\. Sam Stray Wood & Kiirah\)](https://open.spotify.com/album/0D2UuEfuO21LT5al7X1Ygv) | 3:07 | 2023-03-10 | 2023-12-14 |
 
 \*This playlist was first scraped on 2023-02-16. Prior content cannot be recovered.

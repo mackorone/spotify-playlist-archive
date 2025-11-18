@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9stbPFTxeaB.md) - [plain]
 
 > Blues, but funky\. Or funk, but bluesy\. Cover: Kenny Wayne Shepherd
 
-[Spotify](https://open.spotify.com/user/spotify) - 831,419 likes - 75 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 831,409 likes - 75 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9stbPFTxeaB.md) - [plain]
 | 55 | [Who Do You Love?](https://open.spotify.com/track/4v4zFRDRkXyGPTRyYur26i) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Diamonds In The Dirt](https://open.spotify.com/album/7qev8XrmWI1pqJBkXqLcVT) | 3:07 |
 | 56 | [Open Road](https://open.spotify.com/track/4kAOHwPEBawS1znACiyuqA) | [Oli Brown](https://open.spotify.com/artist/2b5hTGWhfcA88PyeZAJ3Ma) | [Open Road](https://open.spotify.com/album/1L2NhLHg4muWzR7cHpriPb) | 3:47 |
 | 57 | [Love Sweet Love](https://open.spotify.com/track/34mId8TooqXQhb186K05aV) | [Anthony Gomes](https://open.spotify.com/artist/0aBEiafPqEJ3o0yp6gFsHg) | [Up 2 Zero](https://open.spotify.com/album/6T3ZsbUPtJ31i9vgyhhHcz) | 3:29 |
-| 58 | [Find a Way](https://open.spotify.com/track/4PTfrK6IhnTOd7SRpH17EK) | [Robert Randolph & The Family Band](https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR) | [Got Soul](https://open.spotify.com/album/2WWqqmFSB4jFEnnRwngeSB) | 3:56 |
+| 58 | [Find a Way](https://open.spotify.com/track/4PTfrK6IhnTOd7SRpH17EK) | [Robert Randolph & The Family Band](https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR) | [Got Soul](https://open.spotify.com/album/2WWqqmFSB4jFEnnRwngeSB) | 3:58 |
 | 59 | [Just in case](https://open.spotify.com/track/2SMDdT0TPMtDmYGeeDKUhq) | [Paulo Mendonca](https://open.spotify.com/artist/5IXO0yGQMScYQMsWg6L8YG) | [Live from Pama Studio 1](https://open.spotify.com/album/6cALzVHdHMmXt49arF7WqL) | 3:59 |
 | 60 | [Carry Yourself](https://open.spotify.com/track/4wwyCumdNnXjIGt7YyLCJE) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Carry Yourself](https://open.spotify.com/album/7Jem47TNx36yh1Zjf3s7il) | 5:23 |
 | 61 | [The Damned](https://open.spotify.com/track/7wl9VAQmGJcWTStbeKhKHf) | [Richie Kotzen](https://open.spotify.com/artist/6nYo7m5cO64bANRvilwVBb) | [The Damned](https://open.spotify.com/album/5z3dlL97c6PnI8I0kZDNeo) | 4:39 |

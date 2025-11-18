@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 
 > świeże brzmienia na horyzoncie ✨ Cover: Zaleś
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,426 likes - 65 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,424 likes - 65 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 | 10 | [Mały Książę](https://open.spotify.com/track/4Fb8kcZaeklt4TypJgRm1V) | [Fida](https://open.spotify.com/artist/6bXkQoRLIyuiEdKa1PUyt6) | [Mały Książę](https://open.spotify.com/album/1qCfiwWZQttvAljU1SZpLp) | 3:00 |
 | 11 | [Firdygałki](https://open.spotify.com/track/7HjSGd75KfBbKAEcMZogKi) | [maks.tachasiuk](https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz) | [Firdygałki](https://open.spotify.com/album/3hvfKTYWgFdqtmFOby3LZr) | 3:53 |
 | 12 | [Rzeka](https://open.spotify.com/track/3tjABLsXoFCxoGmj2O6L6S) | [LUNARIA](https://open.spotify.com/artist/1XsO4JN3QWw3kliCrrKXaP), [W\. Krajewski](https://open.spotify.com/artist/7lEVFDOUQeA7Zw7DqUvO9F) | [Rzeka](https://open.spotify.com/album/2Qt3FgzD4N0WeQJquEwXFh) | 3:00 |
-| 13 | [Before](https://open.spotify.com/track/56pAra1kohtrmO3AYNjrOo) | [JOA](https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9) | [Before](https://open.spotify.com/album/2u9L6k6ZDl5CQkDVW2Spre) | 2:39 |
-| 14 | [Beznamiętnie](https://open.spotify.com/track/5QJfW0S7fUJQUcKOZGtrth) | [Natalia Muianga](https://open.spotify.com/artist/5ixTh4FeSw3QQb3anXHEV4) | [Beznamiętnie](https://open.spotify.com/album/2jPRaXK8k8v9QqCoGuO42l) | 2:44 |
+| 13 | [Beznamiętnie](https://open.spotify.com/track/5QJfW0S7fUJQUcKOZGtrth) | [Natalia Muianga](https://open.spotify.com/artist/5ixTh4FeSw3QQb3anXHEV4) | [Beznamiętnie](https://open.spotify.com/album/2jPRaXK8k8v9QqCoGuO42l) | 2:44 |
+| 14 | [Before](https://open.spotify.com/track/56pAra1kohtrmO3AYNjrOo) | [JOA](https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9) | [Before](https://open.spotify.com/album/2u9L6k6ZDl5CQkDVW2Spre) | 2:39 |
 | 15 | [Wczorajszy tlen](https://open.spotify.com/track/6hDAg8JGPWcdryzQJm1CuO) | [Przebiśniegi](https://open.spotify.com/artist/19lOxXnatl3J8HHKIqHoqx) | [Wczorajszy tlen](https://open.spotify.com/album/3q0HA6dlmep1lommlVGyql) | 3:00 |
 | 16 | [Czuły punkt](https://open.spotify.com/track/2lszUq5AKP7gsC2ICpCs3S) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9), [ZORZA](https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX) | [Czuły punkt](https://open.spotify.com/album/2pt9ofYyr8H5RFG7kngEVJ) | 3:14 |
 | 17 | [ZANOSI SIĘ NA MIŁOŚĆ](https://open.spotify.com/track/3rvz9XIZF5H25FmaTcUYbo) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4), [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [ZANOSI SIĘ NA MIŁOŚĆ](https://open.spotify.com/album/7H6cI48ILXDzycxzkKO2Xn) | 3:37 |
@@ -57,15 +57,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 | 47 | [Sedno](https://open.spotify.com/track/184h1j6ZZv26SmoKzv5uHD) | [Felivers](https://open.spotify.com/artist/0jEJGHxA3gkLdjviT1H0wk) | [Sedno](https://open.spotify.com/album/7BdBHF7fDtd5OL5lPiAs75) | 2:21 |
 | 48 | [NAD RANEM](https://open.spotify.com/track/3WOdMYBgZJBKKqMVzU3ndj) | [Piotr Odoszewski](https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk) | [NAD RANEM](https://open.spotify.com/album/5QXG3wphlrSN8iF97n7Mkv) | 4:33 |
 | 49 | [Lepsze dni](https://open.spotify.com/track/3eS2Q7d7Pd8RG1B2eQ8cwA) | [Maciej Skiba](https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq) | [Lepsze dni](https://open.spotify.com/album/4b98rZf8iYZ5lyux2knvGS) | 3:35 |
-| 50 | [Ałłtobus](https://open.spotify.com/track/2z7xuv9dKI7ECJwMXREnyC) | [Mateusz Gędek](https://open.spotify.com/artist/1cfpfsSRiNBDnteA7s1hQD), [mop](https://open.spotify.com/artist/6mHsoKwXCaQ3TCWBBPu9Dy) | [Ałłtobus](https://open.spotify.com/album/6tZiFTisGmTWHWmnuRrJBe) | 3:04 |
-| 51 | [MAMY CZAS](https://open.spotify.com/track/158kRJZfrHHbL7LXT6UlSh) | [NEWSKIN](https://open.spotify.com/artist/5Mjmvf4xclnuWsy6MGuxW6), [ZORZA](https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX) | [MAMY CZAS](https://open.spotify.com/album/2UNYyT3D4fSiWT8H5er3uH) | 3:45 |
+| 50 | [MAMY CZAS](https://open.spotify.com/track/158kRJZfrHHbL7LXT6UlSh) | [NEWSKIN](https://open.spotify.com/artist/5Mjmvf4xclnuWsy6MGuxW6), [ZORZA](https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX) | [MAMY CZAS](https://open.spotify.com/album/2UNYyT3D4fSiWT8H5er3uH) | 3:45 |
+| 51 | [Ałłtobus](https://open.spotify.com/track/2z7xuv9dKI7ECJwMXREnyC) | [Mateusz Gędek](https://open.spotify.com/artist/1cfpfsSRiNBDnteA7s1hQD), [mop](https://open.spotify.com/artist/6mHsoKwXCaQ3TCWBBPu9Dy) | [Ałłtobus](https://open.spotify.com/album/6tZiFTisGmTWHWmnuRrJBe) | 3:04 |
 | 52 | [Chcę się z Tobą bawić](https://open.spotify.com/track/0zP8wabUyDzx6O36m9DvOc) | [Jadwiga Zarzycka](https://open.spotify.com/artist/2mXL9q8CcQ1pfou5ajYXZ0), [Maria Sadowska](https://open.spotify.com/artist/4zjvLsSNVpp8A95RZb7ryC) | [Chcę się z Tobą bawić](https://open.spotify.com/album/1mo1ZbH9DQDqB17ms82ahA) | 3:26 |
 | 53 | [Mów mi tak](https://open.spotify.com/track/2cZTeWBBqX1hjVquW7Vxio) | [Blu](https://open.spotify.com/artist/5iRHlWVQoS8kPIlZEBwA8K) | [Mów mi tak](https://open.spotify.com/album/5sKcjO9l9MrrNtwXkx3zJu) | 2:37 |
 | 54 | [Prosto krętą drogą](https://open.spotify.com/track/5HnnxyZMp4Dhl4pRVz7TUn) | [Daliva](https://open.spotify.com/artist/57IyKKJVTloFrwrTBnnqGA) | [kiedyś mi przejdzie](https://open.spotify.com/album/76wanX1S3b4QOck6kdbStc) | 3:40 |
 | 55 | [sama ze sobą!](https://open.spotify.com/track/2ZFBhH8U98Y9T0YJoH81TQ) | [Dominika Płonka](https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8) | [sama ze sobą!](https://open.spotify.com/album/4hXKWDP9q7APH8diHyfGiR) | 1:57 |
 | 56 | [Zabij](https://open.spotify.com/track/0t7yAsZITr3QU2jQOh7PkN) | [Michał Anioł](https://open.spotify.com/artist/7jIDRyneRCnRsLQyuO91pS) | [Zabij](https://open.spotify.com/album/03HyBfrhvD62En7PK1kEKx) | 3:46 |
-| 57 | [Rzeka](https://open.spotify.com/track/7EI8yqG3nA8MvfUKGkTIwC) | [Clayknot](https://open.spotify.com/artist/3ZxpsVkaNjQbagCHapxVE7) | [Rzeka](https://open.spotify.com/album/3D3J5dpQAHrawx2KujS2ao) | 3:52 |
-| 58 | [dookoła mnie](https://open.spotify.com/track/34QjFSfFR6oi9nUKb0jLWA) | [emi](https://open.spotify.com/artist/1cIGr563sge3dInoMsn0Cu) | [dookoła mnie](https://open.spotify.com/album/7AF2nxYKHzJM1C7PpI94og) | 2:04 |
+| 57 | [dookoła mnie](https://open.spotify.com/track/34QjFSfFR6oi9nUKb0jLWA) | [emi](https://open.spotify.com/artist/1cIGr563sge3dInoMsn0Cu) | [dookoła mnie](https://open.spotify.com/album/7AF2nxYKHzJM1C7PpI94og) | 2:04 |
+| 58 | [Rzeka](https://open.spotify.com/track/7EI8yqG3nA8MvfUKGkTIwC) | [Clayknot](https://open.spotify.com/artist/3ZxpsVkaNjQbagCHapxVE7) | [Rzeka](https://open.spotify.com/album/3D3J5dpQAHrawx2KujS2ao) | 3:52 |
 | 59 | [wifey material](https://open.spotify.com/track/1g8puN0EuWAuupTQfGBGZN) | [Milky.wav](https://open.spotify.com/artist/0d4V9KFvcZZS9ASemIGuDP) | [wifey material](https://open.spotify.com/album/60U1gVo9t0FP69JWud0BQ5) | 2:02 |
 | 60 | [Śmiać się i płakać](https://open.spotify.com/track/2Q3Y2eR0Sx90JKWl7H265z) | [Zuza Jabłońska](https://open.spotify.com/artist/2obyllmx54A5zB0yZe5ikt) | [Śmiać się i płakać](https://open.spotify.com/album/1viZCuhPFo51923kpMvEfJ) | 2:15 |
 | 61 | [co to? Miłość](https://open.spotify.com/track/6ujrbBFwVsI8op1IncntBV) | [Amelia And](https://open.spotify.com/artist/58wKaNZ5iuXaeelRtHzEsk) | [polecie](https://open.spotify.com/album/7b7qFH044TgbZhOhpcQc8f) | 2:49 |

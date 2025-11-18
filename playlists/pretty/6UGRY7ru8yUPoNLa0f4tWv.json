@@ -1,12 +1,12 @@
 {
   "description": "The Biggest Clubland tunes!",
-  "num_followers": 295280,
+  "num_followers": 295273,
   "original_name": "Clubland Classix",
   "owner": {
     "name": "Clubland",
     "url": "https://open.spotify.com/user/clublandhq"
   },
-  "snapshot_id": "AAAOaw1Ab76qmgcOxiUCZBjcjhDRvVhQ",
+  "snapshot_id": "AAAOeUId4cTK4FYouhBit0qqaIYF03rK",
   "tracks": [
     {
       "added_at": "2023-04-14 12:34:37",
@@ -45,44 +45,20 @@
       "url": "https://open.spotify.com/track/6mMLCV18JarTaXas6zZ7Dz"
     },
     {
-      "added_at": "2024-03-01 10:10:22",
+      "added_at": "2025-11-17 12:12:27",
       "album": {
-        "name": "Take Me To The Clouds Above (LMC Vs. U2 / Remixes)",
-        "url": "https://open.spotify.com/album/2jOxjU5Mw0eIKQIFohnghC"
+        "name": "Metro",
+        "url": "https://open.spotify.com/album/4HaO63jCnSf32NJ62NACAg"
       },
       "artists": [
         {
-          "name": "LMC",
-          "url": "https://open.spotify.com/artist/69QKcDt724e93ZYkBSjsYP"
-        },
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+          "name": "Hixxy",
+          "url": "https://open.spotify.com/artist/79PC6rrXA39xOdNTf71dvN"
         }
       ],
-      "duration_ms": 171546,
-      "name": "Take Me To The Clouds Above - LMC Vs. U2 / Radio Edit",
-      "url": "https://open.spotify.com/track/4zrl5YGi2OqMar45Kdn4BM"
-    },
-    {
-      "added_at": "2019-11-05 11:07:50",
-      "album": {
-        "name": "It's Over Now",
-        "url": "https://open.spotify.com/album/33rEDhbsmCz9v3jdjLPVEF"
-      },
-      "artists": [
-        {
-          "name": "Big Ang",
-          "url": "https://open.spotify.com/artist/4g7Fw878SETM9BJhY41l3T"
-        },
-        {
-          "name": "Siobhan",
-          "url": "https://open.spotify.com/artist/01ECQGGtoCYebgGrNWaIay"
-        }
-      ],
-      "duration_ms": 195426,
-      "name": "It's Over Now",
-      "url": "https://open.spotify.com/track/5L0jJD6T7uCgAyvxbKYw56"
+      "duration_ms": 137294,
+      "name": "Metro",
+      "url": "https://open.spotify.com/track/5erdiNvnRU6Hiv4hkhdq3m"
     },
     {
       "added_at": "2025-10-22 11:21:46",
@@ -99,6 +75,22 @@
       "duration_ms": 260920,
       "name": "J'adore Hardcore",
       "url": "https://open.spotify.com/track/5NzS5NALGcQJInXbumIhI1"
+    },
+    {
+      "added_at": "2024-05-17 16:34:40",
+      "album": {
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/6AsKz5Ofh2mheArhZszs1p"
+      },
+      "artists": [
+        {
+          "name": "Ultrabeat",
+          "url": "https://open.spotify.com/artist/596ByjVYnslGJIHxEBGjF8"
+        }
+      ],
+      "duration_ms": 179386,
+      "name": "Feelin' Fine",
+      "url": "https://open.spotify.com/track/1pdyjuLU2w1cCISBlyJc0G"
     },
     {
       "added_at": "2024-12-16 13:01:06",
@@ -133,10 +125,46 @@
       "url": "https://open.spotify.com/track/5YJtMNWKe55yr49cyJgxva"
     },
     {
-      "added_at": "2025-07-08 15:16:02",
+      "added_at": "2025-10-22 11:21:52",
       "album": {
-        "name": "Whiskey Roll (GBX & Outforce Remix)",
-        "url": "https://open.spotify.com/album/1oEHkQvkD6qVvvdc8Wvsjx"
+        "name": "Floorfillers 2010",
+        "url": "https://open.spotify.com/album/26o8hBuWD7sUdhCOkZcWqk"
+      },
+      "artists": [
+        {
+          "name": "Skyla",
+          "url": "https://open.spotify.com/artist/4GMGkWLuRDeNtso0wHdyMj"
+        }
+      ],
+      "duration_ms": 199866,
+      "name": "Ayo Technology - C16 Edit",
+      "url": "https://open.spotify.com/track/4j0vTgDLOFspIoMHHt5uDm"
+    },
+    {
+      "added_at": "2019-11-05 11:07:50",
+      "album": {
+        "name": "It's Over Now",
+        "url": "https://open.spotify.com/album/33rEDhbsmCz9v3jdjLPVEF"
+      },
+      "artists": [
+        {
+          "name": "Big Ang",
+          "url": "https://open.spotify.com/artist/4g7Fw878SETM9BJhY41l3T"
+        },
+        {
+          "name": "Siobhan",
+          "url": "https://open.spotify.com/artist/01ECQGGtoCYebgGrNWaIay"
+        }
+      ],
+      "duration_ms": 195426,
+      "name": "It's Over Now",
+      "url": "https://open.spotify.com/track/5L0jJD6T7uCgAyvxbKYw56"
+    },
+    {
+      "added_at": "2025-11-17 12:22:26",
+      "album": {
+        "name": "Pipes Of Home (MEZIAH x GBX Remix)",
+        "url": "https://open.spotify.com/album/2rleVTzu7WjUCng2oNktOV"
       },
       "artists": [
         {
@@ -144,17 +172,17 @@
           "url": "https://open.spotify.com/artist/28J1DHByWcyaurTUQ8Rzs9"
         },
         {
-          "name": "GBX",
-          "url": "https://open.spotify.com/artist/42gTqApv7di4ocvt2gjYZB"
+          "name": "MEZIAH",
+          "url": "https://open.spotify.com/artist/1Bp66CqgKU6Ncq6WoGd6CY"
         },
         {
-          "name": "Outforce",
-          "url": "https://open.spotify.com/artist/0SyKgafiTwxlGmkmGEvDpz"
+          "name": "GBX",
+          "url": "https://open.spotify.com/artist/42gTqApv7di4ocvt2gjYZB"
         }
       ],
-      "duration_ms": 219574,
-      "name": "Whiskey Roll - GBX & Outforce Remix",
-      "url": "https://open.spotify.com/track/4MiF3a7GZ9c6Cv7DFfo4kY"
+      "duration_ms": 146031,
+      "name": "Pipes Of Home - MEZIAH x GBX Remix",
+      "url": "https://open.spotify.com/track/3Ix9C6Xhdd6H4nqwRzlh2W"
     },
     {
       "added_at": "2019-11-05 11:07:09",
@@ -171,6 +199,26 @@
       "duration_ms": 201920,
       "name": "Pretty Green Eyes - Radio Edit",
       "url": "https://open.spotify.com/track/71NJqORRmwlcZSLk0VsFjU"
+    },
+    {
+      "added_at": "2025-11-17 12:21:21",
+      "album": {
+        "name": "100% Clubland X-Treme",
+        "url": "https://open.spotify.com/album/1wzAle30yjFTja60u74WZD"
+      },
+      "artists": [
+        {
+          "name": "Colours",
+          "url": "https://open.spotify.com/artist/2OW8lvAxdoSugqyMGCf49O"
+        },
+        {
+          "name": "Domino",
+          "url": "https://open.spotify.com/artist/31jkjldc2rO3Ko4O6gGAl1"
+        }
+      ],
+      "duration_ms": 229751,
+      "name": "Holding Me Kissing Me - Radio Mix",
+      "url": "https://open.spotify.com/track/5dgqWNUkLqwDbNwZN25q5g"
     },
     {
       "added_at": "2025-09-19 12:28:26",
@@ -195,6 +243,26 @@
       "duration_ms": 170400,
       "name": "Bad Life",
       "url": "https://open.spotify.com/track/2uXrUCOShsrYDT1unc798b"
+    },
+    {
+      "added_at": "2024-03-01 10:10:22",
+      "album": {
+        "name": "Take Me To The Clouds Above (LMC Vs. U2 / Remixes)",
+        "url": "https://open.spotify.com/album/2jOxjU5Mw0eIKQIFohnghC"
+      },
+      "artists": [
+        {
+          "name": "LMC",
+          "url": "https://open.spotify.com/artist/69QKcDt724e93ZYkBSjsYP"
+        },
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 171546,
+      "name": "Take Me To The Clouds Above - LMC Vs. U2 / Radio Edit",
+      "url": "https://open.spotify.com/track/4zrl5YGi2OqMar45Kdn4BM"
     },
     {
       "added_at": "2025-08-10 18:14:07",
@@ -365,22 +433,6 @@
       "url": "https://open.spotify.com/track/3KgAJ5giyFLQ9EWsCkAoPt"
     },
     {
-      "added_at": "2024-05-17 16:34:40",
-      "album": {
-        "name": "The Album",
-        "url": "https://open.spotify.com/album/6AsKz5Ofh2mheArhZszs1p"
-      },
-      "artists": [
-        {
-          "name": "Ultrabeat",
-          "url": "https://open.spotify.com/artist/596ByjVYnslGJIHxEBGjF8"
-        }
-      ],
-      "duration_ms": 179386,
-      "name": "Feelin' Fine",
-      "url": "https://open.spotify.com/track/1pdyjuLU2w1cCISBlyJc0G"
-    },
-    {
       "added_at": "2020-05-09 20:41:09",
       "album": {
         "name": "The Way (Put Your Hand In My Hand)",
@@ -447,6 +499,26 @@
       "duration_ms": 204360,
       "name": "This Is What It Feels Like",
       "url": "https://open.spotify.com/track/5GjnIpUlLGEIYk052ISOw9"
+    },
+    {
+      "added_at": "2025-07-05 08:19:58",
+      "album": {
+        "name": "Like A Prayer",
+        "url": "https://open.spotify.com/album/6lcQRgyzAOMw7xS6rDrTZ9"
+      },
+      "artists": [
+        {
+          "name": "Ultrabeat",
+          "url": "https://open.spotify.com/artist/596ByjVYnslGJIHxEBGjF8"
+        },
+        {
+          "name": "Flip & Fill",
+          "url": "https://open.spotify.com/artist/0g202lpdrAgQdN4Z8wVrkV"
+        }
+      ],
+      "duration_ms": 119515,
+      "name": "Like A Prayer",
+      "url": "https://open.spotify.com/track/7jmt3o17C66yYsQjbkTPiH"
     },
     {
       "added_at": "2022-07-15 07:50:54",
@@ -601,24 +673,28 @@
       "url": "https://open.spotify.com/track/1W2xElM9HHnqMsU4XH0mQr"
     },
     {
-      "added_at": "2025-07-05 08:19:58",
+      "added_at": "2025-07-08 15:16:02",
       "album": {
-        "name": "Like A Prayer",
-        "url": "https://open.spotify.com/album/6lcQRgyzAOMw7xS6rDrTZ9"
+        "name": "Whiskey Roll (GBX & Outforce Remix)",
+        "url": "https://open.spotify.com/album/1oEHkQvkD6qVvvdc8Wvsjx"
       },
       "artists": [
         {
-          "name": "Ultrabeat",
-          "url": "https://open.spotify.com/artist/596ByjVYnslGJIHxEBGjF8"
+          "name": "Cammy Barnes",
+          "url": "https://open.spotify.com/artist/28J1DHByWcyaurTUQ8Rzs9"
         },
         {
-          "name": "Flip & Fill",
-          "url": "https://open.spotify.com/artist/0g202lpdrAgQdN4Z8wVrkV"
+          "name": "GBX",
+          "url": "https://open.spotify.com/artist/42gTqApv7di4ocvt2gjYZB"
+        },
+        {
+          "name": "Outforce",
+          "url": "https://open.spotify.com/artist/0SyKgafiTwxlGmkmGEvDpz"
         }
       ],
-      "duration_ms": 119515,
-      "name": "Like A Prayer",
-      "url": "https://open.spotify.com/track/7jmt3o17C66yYsQjbkTPiH"
+      "duration_ms": 219574,
+      "name": "Whiskey Roll - GBX & Outforce Remix",
+      "url": "https://open.spotify.com/track/4MiF3a7GZ9c6Cv7DFfo4kY"
     },
     {
       "added_at": "2025-05-24 09:12:14",
@@ -1791,22 +1867,6 @@
       "duration_ms": 183600,
       "name": "True Love Never Dies",
       "url": "https://open.spotify.com/track/2sNlv2IoUE9tvuWZAD1aGB"
-    },
-    {
-      "added_at": "2025-10-22 11:21:52",
-      "album": {
-        "name": "Floorfillers 2010",
-        "url": "https://open.spotify.com/album/26o8hBuWD7sUdhCOkZcWqk"
-      },
-      "artists": [
-        {
-          "name": "Skyla",
-          "url": "https://open.spotify.com/artist/4GMGkWLuRDeNtso0wHdyMj"
-        }
-      ],
-      "duration_ms": 199866,
-      "name": "Ayo Technology - C16 Edit",
-      "url": "https://open.spotify.com/track/4j0vTgDLOFspIoMHHt5uDm"
     }
   ],
   "unique_name": "Clubland Classix",

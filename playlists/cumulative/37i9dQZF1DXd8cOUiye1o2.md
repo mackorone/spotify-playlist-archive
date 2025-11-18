@@ -4,7 +4,7 @@
 
 > Listen to the song that says what hearts couldn’t\. 'Usey Kehna' from Tere Ishk Mein is out now.
 
-395 songs - 23 hr 48 min
+396 songs - 23 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -352,7 +352,8 @@
 | [Teri Yaad](https://open.spotify.com/track/1IbvCWzAbzUle559VXyvLy) | [Faheem Abdullah](https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3), [Hyder Dar](https://open.spotify.com/artist/7Khu2sHjq6VFAfiRLql5tt), [Zia](https://open.spotify.com/artist/0DsXhM2h3rIODiAxuLOb6q) | [Teri Yaad](https://open.spotify.com/album/38ea1ME7inmtnwok4cQSO0) | 4:53 | 2025-10-07 |  |
 | [The Po Po Song \(From "Son Of Sardaar 2"\)](https://open.spotify.com/track/3tM6pIPMoZQYqT9w2ztTlJ) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Armaan Lahoria](https://open.spotify.com/artist/4KLQtsULex87FN5sg05g8C), [Himesh Reshammiya](https://open.spotify.com/artist/0sSxphmGskGCKlwB9xa6WU), [Armaan Sharma](https://open.spotify.com/artist/5nn7leCI4A1Kfp5Q0un5Pi), [Shabbir Ahmed](https://open.spotify.com/artist/6KZ6c43Dnjm6STHZ6avQU1) | [The Po Po Song \(From "Son Of Sardaar 2"\)](https://open.spotify.com/album/6PyWk5K1Ha5PtZ7yoaP6cp) | 2:43 | 2025-07-17 | 2025-08-09 |
 | [the search](https://open.spotify.com/track/4niKbGcfQW3MJpciMWxEJS) | [aswekeepsearching](https://open.spotify.com/artist/3K1oloNu09kQTV0Idz378q) | [the search](https://open.spotify.com/album/4s7WDVLqRANgV6AhbeDT96) | 4:36 | 2025-07-01 | 2025-07-19 |
-| [They call him KING \- King Theme \(From "King"\)](https://open.spotify.com/track/5egoaDfqFpsB1FGUU76TT1) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Heisenberg](https://open.spotify.com/artist/3bsrlEbnX8sWwXlTe80RSr) | [They call him KING \- King Theme \(From "King"\)](https://open.spotify.com/album/516SBH6EgHKtQmkcbcMZBX) | 1:15 | 2025-11-04 |  |
+| [They call him KING \- King Theme \(From "King"\)](https://open.spotify.com/track/5egoaDfqFpsB1FGUU76TT1) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Heisenberg](https://open.spotify.com/artist/3bsrlEbnX8sWwXlTe80RSr) | [They call him KING \- King Theme \(From "King"\)](https://open.spotify.com/album/516SBH6EgHKtQmkcbcMZBX) | 1:15 | 2025-11-04 | 2025-11-18 |
+| [They Call Him KING \- King Theme \(From "King"\)](https://open.spotify.com/track/7KKXCjrcxlLf69F3p9theL) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Heisenberg](https://open.spotify.com/artist/3bsrlEbnX8sWwXlTe80RSr) | [They Call Him KING \- King Theme \(From "King"\)](https://open.spotify.com/album/2KZaoN2wG6Vm0hSrptLXSJ) | 1:15 | 2025-11-17 |  |
 | [Thodi Si Daaru](https://open.spotify.com/track/3JiLQJmVW7d4O8AQDFB3oj) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Thodi Si Daaru](https://open.spotify.com/album/5VtCQYa9RJHYMQAfzAb1HQ) | 3:00 | 2025-07-17 | 2025-08-30 |
 | [Toot Gaya](https://open.spotify.com/track/28vq8tUVGxs6Xk8F1VceDa) | [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES), [Goldie Sohel](https://open.spotify.com/artist/5Y9YGMxRoQYfJFj4kJ9TVv) | [Broken](https://open.spotify.com/album/4j3Q0oWVdnU3pw0Y8G8h06) | 3:21 | 2025-07-18 | 2025-08-27 |
 | [Tootay](https://open.spotify.com/track/6liPuxu4mdKY7vNH7bEIAG) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Tootay](https://open.spotify.com/album/490IlXwyYJctauX9KyTjRC) | 3:08 | 2025-07-31 | 2025-08-26 |

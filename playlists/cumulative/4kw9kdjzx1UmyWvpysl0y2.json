@@ -6974,7 +6974,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 200655,
       "name": "Feeling",
       "url": "https://open.spotify.com/track/16vnGjVUbGeniz8aXAxUxk"
@@ -16515,6 +16515,28 @@
     },
     {
       "album": {
+        "name": "Reverie",
+        "url": "https://open.spotify.com/album/0xk3atz0bPVIGZkP7mbUDk"
+      },
+      "artists": [
+        {
+          "name": "Haywyre",
+          "url": "https://open.spotify.com/artist/7aUSp5cOZlwEtd5zPC795k"
+        },
+        {
+          "name": "Braken",
+          "url": "https://open.spotify.com/artist/1SFSz2SewAsgPeFvGmAouI"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231000,
+      "name": "Reverie",
+      "url": "https://open.spotify.com/track/1v1y5wqUBNc3xxY2ZJfz8b"
+    },
+    {
+      "album": {
         "name": "Someone You Can Count On",
         "url": "https://open.spotify.com/album/5wj4dMktjUCPq8BfsQCMR2"
       },
@@ -16880,7 +16902,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 206896,
       "name": "Rockstar Bass",
       "url": "https://open.spotify.com/track/2zivCVM48VJ0zT7Vbtn1Ga"

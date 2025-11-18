@@ -6416,7 +6416,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 180250,
       "name": "Dirty Work",
       "url": "https://open.spotify.com/track/1ic3Thr0mG0IsBE98pPcQ2"
@@ -8022,7 +8022,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 180353,
       "name": "FAMOUS",
       "url": "https://open.spotify.com/track/598bDTl82CSTSDnZG0XhGK"
@@ -10189,6 +10189,24 @@
     },
     {
       "album": {
+        "name": "SYNK : aeXIS LINE - 2025 Special Digital Single",
+        "url": "https://open.spotify.com/album/74gHwFGwl4KWA3sD8ZmAbJ"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175018,
+      "name": "GOOD STUFF - KARINA Solo",
+      "url": "https://open.spotify.com/track/19iJj3pCMwGxrA6pltPat3"
+    },
+    {
+      "album": {
         "name": "We are",
         "url": "https://open.spotify.com/album/1t6JFkzuqg7Wb7SzkHkheH"
       },
@@ -10200,7 +10218,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 154386,
       "name": "Good Thing",
       "url": "https://open.spotify.com/track/3GFeuIIJQDgCpVHjsLkEgw"
@@ -17946,6 +17964,24 @@
     {
       "album": {
         "name": "ONE MORE TIME",
+        "url": "https://open.spotify.com/album/5VxaQoQltZT93oaGc72Csy"
+      },
+      "artists": [
+        {
+          "name": "ALLDAY PROJECT",
+          "url": "https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195259,
+      "name": "ONE MORE TIME",
+      "url": "https://open.spotify.com/track/7FyKqLLICVzwBiAUtbVYUW"
+    },
+    {
+      "album": {
+        "name": "ONE MORE TIME",
         "url": "https://open.spotify.com/album/5o3vgo7t4tTTCVh9zSptML"
       },
       "artists": [
@@ -19226,6 +19262,28 @@
       "duration_ms": 150709,
       "name": "Promise",
       "url": "https://open.spotify.com/track/6PovIIOpRlHzv8Cg9Qjr81"
+    },
+    {
+      "album": {
+        "name": "PS118 (feat. Rapsody)",
+        "url": "https://open.spotify.com/album/3m7AhzkJtlEFJy3F5ekhqG"
+      },
+      "artists": [
+        {
+          "name": "JURIN ASAYA",
+          "url": "https://open.spotify.com/artist/1CHDdqhyEC343e2O8dRo4N"
+        },
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160919,
+      "name": "PS118 - feat. Rapsody",
+      "url": "https://open.spotify.com/track/1X5BMHJoKkVlf9Vo2YYsJz"
     },
     {
       "album": {

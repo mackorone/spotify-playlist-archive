@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Charli xcx, Robyn, Jazeek,  Lewis Capaldi und mehr.
 
-[Spotify](https://open.spotify.com/user/spotify) - 893,178 likes - 81 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 893,092 likes - 81 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

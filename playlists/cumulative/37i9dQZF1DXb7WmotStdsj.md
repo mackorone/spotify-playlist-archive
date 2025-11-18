@@ -4,7 +4,7 @@
 
 > أفضل أغاني الراي
 
-236 songs - 19 hr 10 min
+238 songs - 19 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [Nabghi Nhawas](https://open.spotify.com/track/2u8hovFZoxDdTAMmgHsiMi) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh), [DJ Moulay](https://open.spotify.com/artist/3RHFZVCcl94jZRgIT51Yig) | [Nabghi Nhawas](https://open.spotify.com/album/197oMQkYh9nl8SqTrCUM19) | 4:34 | 2022-08-24 | 2024-07-10 |
 | [Nad El Borkan](https://open.spotify.com/track/3sphBPmMtnnJTLn49xYiT3) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [Nad El Borkan](https://open.spotify.com/album/4QEMiHrd1yH0mTJEOJEpeU) | 4:16 | 2022-09-20 | 2022-12-27 |
 | [Nakareen El Khir](https://open.spotify.com/track/73dNejNw458nkrl9ZxZq36) | [Amine 31](https://open.spotify.com/artist/1FAQqzHTQMSqyDsYCzN6o9) | [Nakareen El Khir](https://open.spotify.com/album/29NpPCEDfXbrTV7Ok4zviR) | 4:58 | 2022-01-31 | 2024-09-10 |
+| [Namchi Wngoul Ça va](https://open.spotify.com/track/1py7Rjj1axmqPQtUTVELxF) | [Abdou Gambetta](https://open.spotify.com/artist/1tK2o8xfVFCjGVs41FWhT2) | [Namchi Wngoul Ça va](https://open.spotify.com/album/5KKolIb9Iibkqn0TBtyyFk) | 4:32 | 2025-11-17 |  |
 | [Ndamt 3Lik](https://open.spotify.com/track/5nH6y9Oz5mv1b0gfREbe1d) | [Cheb Momo](https://open.spotify.com/artist/2WGoTbMj2VO7bv45UG1WfM) | [Ndamt 3Lik](https://open.spotify.com/album/6dAnabX8QR4W0qrUw1GU51) | 6:03 | 2023-07-27 |  |
 | [Nebghiha Fort](https://open.spotify.com/track/2wo2GyiPDb0cL9UdQN6DzD) | [Bilel Tacchini](https://open.spotify.com/artist/2QtIVRuCdO2a4RWyoF4ayb) | [Nebghiha Fort](https://open.spotify.com/album/0BsMS6fQ7FIgGDuHWUvLIU) | 3:04 | 2022-12-12 | 2023-12-30 |
 | [Nebghiha Fort](https://open.spotify.com/track/2sC0QU0RVCzDW4I5v3iuJN) | [Bilel Tacchini](https://open.spotify.com/artist/2QtIVRuCdO2a4RWyoF4ayb) | [Nebghiha Fort](https://open.spotify.com/album/5tyiGjYRULNqvmsCi7llfV) | 3:04 | 2023-12-28 | 2024-04-19 |
@@ -169,7 +170,7 @@
 | [Nebki 3la Teswirtek](https://open.spotify.com/track/42UfblYvwCmX9Ri9TNPlVd) | [Mohamed Benchenet](https://open.spotify.com/artist/1SXvU32qAqhAniQTUhJJdS) | [Nebki 3la Teswirtek](https://open.spotify.com/album/1ObCN69iY2W0M7H7l8lxbp) | 5:12 | 2022-09-20 | 2023-02-10 |
 | [Nedabzou Sur Les Nerfs](https://open.spotify.com/track/0lEc7oxWZiZqF6tFvKoalb) | [Cheba Manel](https://open.spotify.com/artist/2gf81e1DwyMQ4TbmPgM8Qs), [Tchikou 22](https://open.spotify.com/artist/1Awe2WHMc69DBEf6TG6WvX) | [Nedabzou Sur Les Nerfs](https://open.spotify.com/album/0PsBfJV1yrqia6sltrwyu6) | 4:40 | 2023-01-14 | 2023-03-18 |
 | [Nensak Dra3](https://open.spotify.com/track/4M4sHSOBAIlqtPkFikUcMo) | [Abdelkader Belabbes](https://open.spotify.com/artist/5TwUxKiLvqL7Ux6dTqVdhu) | [Nensak Dra3](https://open.spotify.com/album/1rpCdaXwkDNYvwu2dwFtPh) | 4:05 | 2022-09-20 | 2022-12-27 |
-| [Neti Tbghini wana nbghik](https://open.spotify.com/track/0VKSQKJiB6x9KB5tPxjuM5) | [Houari Djazira](https://open.spotify.com/artist/1tSjYFjDNkjUMAgWrhsC3o) | [Neti Tbghini wana nbghik](https://open.spotify.com/album/3jcuNJID5VmFP73WtNF0fT) | 7:44 | 2025-04-21 |  |
+| [Neti Tbghini wana nbghik](https://open.spotify.com/track/0VKSQKJiB6x9KB5tPxjuM5) | [Houari Djazira](https://open.spotify.com/artist/1tSjYFjDNkjUMAgWrhsC3o) | [Neti Tbghini wana nbghik](https://open.spotify.com/album/3jcuNJID5VmFP73WtNF0fT) | 7:44 | 2025-04-21 | 2025-11-18 |
 | [Nifi Wala Autoroute](https://open.spotify.com/track/4gqg0rUZRt8q5g3FkVtyHG) | [Cheb Zizou](https://open.spotify.com/artist/0jqfKafpVfBYPUgSLhW7dY) | [Nifi Wala Autoroute](https://open.spotify.com/album/4AW5xFzNd6OXGhXVhuCfsb) | 2:31 | 2023-10-11 |  |
 | [Nrohlah Wela Yjini L'essentiel Yrangéni](https://open.spotify.com/track/5yqlKsyNTsJ9FyneSZVIbm) | [Cheb Nassim](https://open.spotify.com/artist/36HNrlSe0rp6bFPEDRRXHo) | [Nrohlah Wela Yjini L'essentiel Yrangéni](https://open.spotify.com/album/6Aebn10r1Ar2HPXsa5msno) | 5:16 | 2022-09-20 | 2022-12-27 |
 | [Nti Daout El Kheir](https://open.spotify.com/track/0w9SfiXXJsC8sXPocUatO6) | [Faycel Sghir](https://open.spotify.com/artist/6nWoudLNCfWwFYW0h2HTb1) | [Nti Daout El Kheir](https://open.spotify.com/album/6vSuWq4upKblZk9JPISsrX) | 4:25 | 2021-10-19 | 2024-02-17 |
@@ -185,7 +186,7 @@
 | [Sahr Lyali](https://open.spotify.com/track/3cXIVHqz1kQBAkih5IrE3r) | [Cheb Hasni](https://open.spotify.com/artist/6AqjzYRx9TeJDzKhkSSHFx) | [Oualaftek](https://open.spotify.com/album/2SvQ9CXIsfNHXHjorOhS5M) | 5:32 | 2022-11-07 | 2023-03-18 |
 | [Sayi Lmineur Kebret](https://open.spotify.com/track/6OEvdTHt3MOWU1aZBYfuH5) | [Cheb walid](https://open.spotify.com/artist/6rRjMolKBrQbBfem0IKSDI) | [Sayi Lmineur Kebret](https://open.spotify.com/album/3TlFBb5kNCiNwBzEv0iW2J) | 3:29 | 2024-03-16 |  |
 | [Sghira Ou Hara](https://open.spotify.com/track/0L7LlOENW6UuOr52zcaYPE) | [Hichem Smati](https://open.spotify.com/artist/4NqyeNqz4XfIeEWrXPknYJ), [Samy](https://open.spotify.com/artist/10bINesF7eZDORpkyHYQFD) | [Sghira Ou Hara](https://open.spotify.com/album/2XA7CTMcjG9n6JuQw5oIDv) | 4:49 | 2021-10-19 | 2023-10-12 |
-| [Smouni Nrodek](https://open.spotify.com/track/4JcwZAIkdqDWrvFlXjt1bU) | [Cherifi Akram](https://open.spotify.com/artist/1GT5LwzTtwW3Ka716vm4c4) | [Smouni Nrodek](https://open.spotify.com/album/1TAo3CzMQO3mM7zrfcgJ5s) | 4:36 | 2025-03-20 |  |
+| [Smouni Nrodek](https://open.spotify.com/track/4JcwZAIkdqDWrvFlXjt1bU) | [Cherifi Akram](https://open.spotify.com/artist/1GT5LwzTtwW3Ka716vm4c4) | [Smouni Nrodek](https://open.spotify.com/album/1TAo3CzMQO3mM7zrfcgJ5s) | 4:36 | 2025-03-20 | 2025-11-18 |
 | [Tayer 3la jalha Rouho golouhalh](https://open.spotify.com/track/59h6C78HlXp830a2rkxfoC) | [Cheb Faycel Chole](https://open.spotify.com/artist/3bBht8a9t2kDWV9mDnVECf) | [Tayer 3la jalha Rouho golouhalh](https://open.spotify.com/album/5lbUeFQ4SWlAHmDTiI2P6O) | 12:49 | 2023-06-14 | 2025-10-06 |
 | [Tayha Love](https://open.spotify.com/track/3ZFDVnwbi8cJiEyPxbZGea) | [Cheb Nassim](https://open.spotify.com/artist/36HNrlSe0rp6bFPEDRRXHo), [Tchikou 22](https://open.spotify.com/artist/1PQR1mOLesI2wPJDXcyl7H) | [Tayha Love](https://open.spotify.com/album/6wl0rqJu3eO97Z1Qyfv8Gd) | 4:43 | 2024-01-18 |  |
 | [Tebghih wela zkara fiya](https://open.spotify.com/track/6B51n6J8Y0BCEuylos9MdY) | [Zaid Laazizi](https://open.spotify.com/artist/6jNObcobsYYSfd7t5RvTPi) | [Tebghih wela zkara fiya](https://open.spotify.com/album/7E1ewz7KmfRN90aYPWpyyr) | 4:13 | 2022-09-20 | 2023-03-11 |
@@ -231,6 +232,7 @@
 | [شوفو لامور مادار فيا](https://open.spotify.com/track/0yvcSDx1WMdxnUHhqG7PEh) | [Bilel Tacchini](https://open.spotify.com/artist/2QtIVRuCdO2a4RWyoF4ayb) | [شوفو لامور مادار فيا](https://open.spotify.com/album/6DAw2PoGBVo2lggm87EgG6) | 3:06 | 2024-01-24 |  |
 | [شوفو لامور مدار فيا](https://open.spotify.com/track/3c58Jl3ddpirlnR6mkEiED) | [Bilal Tacchini](https://open.spotify.com/artist/5Jtc3clXvoMsmCt9EXVX3o) | [شوفو لامور مدار فيا](https://open.spotify.com/album/1PTe3yvpsDEAOpN06oB0jv) | 3:06 | 2023-09-25 | 2023-10-21 |
 | [طيري يا طيارة](https://open.spotify.com/track/0qJPN8mWjsORy7v2a6Benw) | [Mohamed Khassani](https://open.spotify.com/artist/32d1Iok2R1iGEbsj4zXgOC) | [طيري يا طيارة](https://open.spotify.com/album/7jaNQ3MZzO2FS2aCkxP6Xv) | 3:07 | 2022-09-20 | 2023-07-12 |
+| [عشق الهالوين](https://open.spotify.com/track/3Bm5cjpmf3o8StNRGhtJmB) | [Sofiane Asla](https://open.spotify.com/artist/2ywplm7qGli4HsGE3SNS8A) | [عشق الهالوين](https://open.spotify.com/album/4qr2UkfLbj2qc94BmDJC4A) | 6:08 | 2025-11-17 |  |
 | [عشقها فات الحدود](https://open.spotify.com/track/2hI4PLjRtD6p9aeuwNIsqf) | [Cheb Momo](https://open.spotify.com/artist/2WGoTbMj2VO7bv45UG1WfM), [Numidia Lezoul](https://open.spotify.com/artist/6muXgBSOp2nEPpnoJZUvGZ) | [عشقها فات الحدود](https://open.spotify.com/album/7ngjklnX34oPZfnulpA0dB) | 5:10 | 2024-02-13 | 2024-03-08 |
 | [على رواحنا منكذبوش](https://open.spotify.com/track/5BaSu9ES2R8LIYxAZBTqQA) | [Cheb Houssem](https://open.spotify.com/artist/4l3uOQQa1NaZz7OVNAjbC2) | [على رواحنا منكذبوش](https://open.spotify.com/album/0Oe1AG3aTF6lEyNyKAzo68) | 4:20 | 2021-10-19 | 2022-09-09 |
 | [قالو عليها طاطة شابة ماشي خلاطة](https://open.spotify.com/track/2H0aSCHi9R2UR3XmQwML3W) | [Cheb Nadir 22](https://open.spotify.com/artist/3eXk15TVlyGMQiajw6ra1l) | [قالو عليها طاطة شابة ماشي خلاطة](https://open.spotify.com/album/13nS0hTGyJMzeKhO5WCsdl) | 5:18 | 2024-05-13 | 2024-07-05 |

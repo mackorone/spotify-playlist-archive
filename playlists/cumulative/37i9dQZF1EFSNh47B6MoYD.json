@@ -2807,6 +2807,28 @@
     },
     {
       "album": {
+        "name": "Solo conmigo",
+        "url": "https://open.spotify.com/album/6qc4UOR4QELCdKRkh4JfhN"
+      },
+      "artists": [
+        {
+          "name": "Enrique Ramil",
+          "url": "https://open.spotify.com/artist/0j2p53CorUX290ZthVLl2p"
+        },
+        {
+          "name": "Oscar Moncada",
+          "url": "https://open.spotify.com/artist/5JBXctnUxCqSwfCU5tney5"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225967,
+      "name": "Solo conmigo",
+      "url": "https://open.spotify.com/track/4ReXblBJlsOcptSRpivJUm"
+    },
+    {
+      "album": {
         "name": "Panam\u00e1 M\u00eda",
         "url": "https://open.spotify.com/album/11NwW5Y133MwLsll261Lzv"
       },

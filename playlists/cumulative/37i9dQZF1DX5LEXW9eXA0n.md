@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover: 도영 \(DOYOUNG\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,609 songs - 4 day 8 hr 32 min
+1,611 songs - 4 day 8 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -459,6 +459,7 @@
 | [Happy Ending](https://open.spotify.com/track/1Ik7tOkpdPNBArJuvbc7Rz) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq), [Kang Seungwon](https://open.spotify.com/artist/48DsjCcpYJQWi5fulzyuBm) | [Happy Ending](https://open.spotify.com/album/3gIgM2702guh1dn8taB5k3) | 3:55 | 2022-07-22 | 2022-10-13 |
 | [Happy Me](https://open.spotify.com/track/5VC7zSNSIwLumbjuPuFt7C) | [BIG MAMA](https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ) | [Happy Me](https://open.spotify.com/album/4zFfQBm5sBkKosycicJVAG) | 4:30 | 2023-10-11 | 2024-01-09 |
 | [Hard to Say I Love You](https://open.spotify.com/track/2ilUqImdWBVPrzWL4kTbxx) | [Zia](https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk) | [Red Balloon OST Part.3](https://open.spotify.com/album/5fvFvfK7fzy9jTZdiqGPNS) | 4:05 | 2023-01-20 | 2023-02-15 |
+| [Have A Good Time](https://open.spotify.com/track/5FIBWD7WZLgbtOpzS8ijKU) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv), [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) | [Have A Good Time](https://open.spotify.com/album/4z0qDxvdwY7wb5yCJrVaEV) | 2:00 | 2025-11-17 |  |
 | [He's next to you, instead of me](https://open.spotify.com/track/1vMxDpmSBRHhh0eRCLxQcQ) | [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [Kid Wine](https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb) | [He's next to you, instead of me](https://open.spotify.com/album/0blCdfQUSARuYDtwzHUxqP) | 2:52 | 2022-02-17 | 2022-07-06 |
 | [Healing](https://open.spotify.com/track/3jXvQPiwLDtgA1JdhhMYLV) | [Hwang Karam](https://open.spotify.com/artist/61jr8e2uLQusD1PLqTKqQc) | [Healing](https://open.spotify.com/album/5RioRsDCuLZA1FJ274ZvEA) | 3:49 | 2025-08-04 |  |
 | [Heart](https://open.spotify.com/track/1BuA7GJXWD6P9LMShz7YSt) | [DK](https://open.spotify.com/artist/4l7mkcB0cZgIQrcd2AsQI3) | [Heart](https://open.spotify.com/album/3MGuNgtEJTCkgHtiMFfARP) | 4:17 | 2023-09-14 | 2025-01-12 |
@@ -1343,6 +1344,7 @@
 | [To Me](https://open.spotify.com/track/6eLNBIUwf81FxFHekvd8Gu) | [Shin Sae Byeok](https://open.spotify.com/artist/0cqVnk9oe3o3SwbCmqnAm0) | [To Me](https://open.spotify.com/album/4W5GjsG10XacO0WE6ckZaH) | 3:51 | 2022-08-01 | 2022-12-27 |
 | [To my distant friend](https://open.spotify.com/track/0YLE9JIvYDeM2Rkg6Mt5dy) | [Kang Jin Ah](https://open.spotify.com/artist/0ZWE1SWTPqm0AlsIm1jm4f) | [To my distant friend](https://open.spotify.com/album/5oHwfhmnT1lYYltG18qEJ0) | 4:35 | 2024-09-17 | 2024-12-12 |
 | [To My Friends](https://open.spotify.com/track/0AXqXz5kX5HzWsydXnbFsx) | [South Club](https://open.spotify.com/artist/4ZVqQ5bLpSef3QmZP3gGnK) | [To My Friends](https://open.spotify.com/album/0Bc4VvFhNY6lxWJyeeCFCE) | 3:46 | 2022-02-23 | 2022-04-20 |
+| [To The One](https://open.spotify.com/track/00babQKpTcxbh8kKsATc0R) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [To The One](https://open.spotify.com/album/3pvLfa1Y8N92FzFbEwOxEG) | 3:48 | 2025-11-17 |  |
 | [To the ordinary you](https://open.spotify.com/track/2QZKyD8R2ZtJroH3sGQdTD) | [2NB](https://open.spotify.com/artist/01n1Lj2lmdteXD8qFPqhsL) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/1jrZAwFNCuTIOS9bE3eIw9) | 3:55 | 2022-03-24 | 2022-04-20 |
 | [To You](https://open.spotify.com/track/0Vm57FDy9ANofqxnweBSyN) | [KEN](https://open.spotify.com/artist/08fiOzXWHTizuWGyS1dWu6) | [To You](https://open.spotify.com/album/13twQej8IAGbw2yNjJ4wmS) | 4:32 | 2025-05-21 | 2025-08-04 |
 | [To You Again](https://open.spotify.com/track/574xYNFxyCA4rwcHvNUKgq) | [Lee Ye Ji](https://open.spotify.com/artist/7lxQNSuiUoDOW1sIb5MgdB), [Hong Seung Min](https://open.spotify.com/artist/28ztxLG4EqbrHGwDnnM1Ic) | [The Ballad of Us Story 8](https://open.spotify.com/album/4w48ebzPvmIMVzUTAyJkLZ) | 4:20 | 2025-11-14 |  |

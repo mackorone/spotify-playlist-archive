@@ -2,9 +2,9 @@
 
 ### [K\-Pop Duets \(러블리 듀엣\)](https://open.spotify.com/playlist/37i9dQZF1DWZYjbSZYSpu6)
 
-> Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers\. \(Cover: Grizzly & Rothy\)
+> Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers\. \(Cover: Paul Kim, YUQI\(폴킴 & 우기\)\)
 
-272 songs - 16 hr 4 min
+273 songs - 16 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Good Person \(2022\)](https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi) | [HAECHAN](https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3) | [Good Person \(2022\)](https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm) | 4:40 | 2022-03-24 |  |
 | [GOOD VIBES](https://open.spotify.com/track/2MpJ3KdQiwCw5NOIs5j0Rg) | [Chad Future](https://open.spotify.com/artist/7FOqtptgmy8wtpNrzXcYOT), [Kyung dasom](https://open.spotify.com/artist/6ye5C0aCtNApMSefJTzdj1) | [GOOD VIBES](https://open.spotify.com/album/75YhMYc4lGw8BN4AWcHoSj) | 2:59 | 2023-01-25 | 2023-02-25 |
 | [Happiness index](https://open.spotify.com/track/4pEeKM4zXFj1EI9mGro4h1) | [LEEWOO](https://open.spotify.com/artist/3yqfDFGcPyMlSaR2AMKaSz), [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) | [Happiness index](https://open.spotify.com/album/7HkYhaMZWzkt5i8yXfzLcy) | 4:02 | 2023-03-24 | 2023-09-12 |
+| [Have A Good Time](https://open.spotify.com/track/5FIBWD7WZLgbtOpzS8ijKU) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv), [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) | [Have A Good Time](https://open.spotify.com/album/4z0qDxvdwY7wb5yCJrVaEV) | 2:00 | 2025-11-17 |  |
 | [Hello Tutorial](https://open.spotify.com/track/4vh0x47AvwbCywPOlEmfFQ) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [ZZZ](https://open.spotify.com/album/1h68ClpWp0bS59PAZuLk4X) | 3:22 | 2022-03-24 | 2022-07-29 |
 | [Hold Me Like It’s Forever](https://open.spotify.com/track/6QZJTunvjAU44kpXzDNXzn) | [Fromm](https://open.spotify.com/artist/4ht1mwP4ouSu79jOOktCY3), [Car](https://open.spotify.com/artist/4IwZDPPzFIVVN2DSVudIZO), [The Garden](https://open.spotify.com/artist/60OalAUIgelvXUGPkrFm6O) | [Midnight Candy](https://open.spotify.com/album/6jU28TIxDs4HEkaJ4ea2zO) | 3:03 | 2022-05-11 | 2022-07-01 |
 | [I See You](https://open.spotify.com/track/3ykkBOfFlZrIqgxn6aoLya) | [ODD\-CAT](https://open.spotify.com/artist/61jqDpCSDJeuItEQIgBxBe), [Kim Je Hun](https://open.spotify.com/artist/2yBQzC1P5kNQBFqpgHUIg0) | [I See You](https://open.spotify.com/album/4FwZ6ZCeZVo7wQ3abMjvH4) | 3:12 | 2022-04-12 | 2022-07-13 |
@@ -220,7 +221,7 @@
 | [Telepathy](https://open.spotify.com/track/1xbxSb7zTHysqWZmjFdJ2n) | [Yang Yoseob](https://open.spotify.com/artist/1fwMtpwCEJovQuyxSuHcAd), [EUNHA](https://open.spotify.com/artist/4MLK9Hhz7UhxAzU2awoLxk) | [Under the Oak Tree \(Original Soundtrack\), Part\. 4](https://open.spotify.com/album/5zJVeHgHrwJ3m24sSMSrTV) | 3:12 | 2022-07-04 | 2022-08-22 |
 | [Temperature \(feat\. Park Hyeonseo\)](https://open.spotify.com/track/3gG2erGa5Pb1yiF2Vv3CRy) | [Mighty Mouth](https://open.spotify.com/artist/7pxK1v2idIDo5Imir0lb5i), [Park Hyeonseo](https://open.spotify.com/artist/3UyDHvpC9iJZndsZze1LYk) | [Temperature \(feat\. Park Hyeonseo\)](https://open.spotify.com/album/6J9Iok7eG7dg0am7jvEeMh) | 3:27 | 2022-05-11 | 2022-06-02 |
 | [The Day I Miss You \(feat\. DAL\)](https://open.spotify.com/track/365W64SsxM0EahGSBdqKHE) | [SUNNYSIDEMJ](https://open.spotify.com/artist/50hc5LTdbu0RKvf8IuOrLq), [DAL](https://open.spotify.com/artist/3W0J1SBkT2zjEmWlSpFhIx) | [The Day I Miss You](https://open.spotify.com/album/6ZHaJJ7gDhh5EjySQsGvaw) | 3:52 | 2022-03-24 | 2022-04-21 |
-| [The Moon \(Feat\. TAEIL of NCT\)](https://open.spotify.com/track/6Qfhu8fcLSY8Tw7syG8hdK) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [TAEIL](https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq) | [The Moon \(Feat\. TAEIL of NCT\)](https://open.spotify.com/album/6NfkVXBrjpR9JG69VOg52G) | 2:42 | 2022-03-24 |  |
+| [The Moon \(Feat\. TAEIL of NCT\)](https://open.spotify.com/track/6Qfhu8fcLSY8Tw7syG8hdK) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [TAEIL](https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq) | [The Moon \(Feat\. TAEIL of NCT\)](https://open.spotify.com/album/6NfkVXBrjpR9JG69VOg52G) | 2:42 | 2022-03-24 | 2025-11-18 |
 | [The night I drew you](https://open.spotify.com/track/27eU3lE6mbGK0GKqhypHH0) | [Youth Library](https://open.spotify.com/artist/5dXZbHN0uyD3Ds6lnJW1uF), [YAEBIN](https://open.spotify.com/artist/1NmZh9t8XzyL3gk2rRUojp) | [Youth Library EP.7](https://open.spotify.com/album/0TfiyUqKOxNm3ysgBEzc2r) | 4:26 | 2022-05-03 | 2022-06-07 |
 | [The Sea with Stars \(Feat\. Hailey Jeong\)](https://open.spotify.com/track/7pEMEaMHoFkt60BPWVKWC0) | [SUNNYSIDEMJ](https://open.spotify.com/artist/50hc5LTdbu0RKvf8IuOrLq), [Hailey Jeong](https://open.spotify.com/artist/7EhVfkEbLB64DCZv7Gnqjl) | [The Sea with Stars](https://open.spotify.com/album/6NyzyvKBJxp74S2eWVHg8U) | 4:12 | 2022-03-24 | 2022-07-25 |
 | [The way we came together](https://open.spotify.com/track/2XCnhgTPLp01TxZB5u434P) | [SOOIN](https://open.spotify.com/artist/1DxQgqC0FRx2RkiGAlXNPb), [Joon Gyo Seo](https://open.spotify.com/artist/1OEzaKHWvVdspJLX0H0MEG) | [The End of a Wander](https://open.spotify.com/album/55oIrLyWTFPySdvdY5PP6f) | 4:23 | 2022-03-24 | 2022-04-20 |

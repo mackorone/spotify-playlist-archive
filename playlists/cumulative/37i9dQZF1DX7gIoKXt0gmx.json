@@ -1591,7 +1591,7 @@
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
       "date_removed": null,
-      "duration_ms": 198293,
+      "duration_ms": 198294,
       "name": "Don't",
       "url": "https://open.spotify.com/track/3pXF1nA74528Edde4of9CC"
     },
@@ -4129,6 +4129,24 @@
     },
     {
       "album": {
+        "name": "Soft Spot",
+        "url": "https://open.spotify.com/album/1q60X7MvRXKggMB3h2xJof"
+      },
+      "artists": [
+        {
+          "name": "JMSN",
+          "url": "https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273010,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/2hY9mOKGblxfNFl2GOQKj4"
+    },
+    {
+      "album": {
         "name": "Love Me",
         "url": "https://open.spotify.com/album/0UPYatIF4cw6OtM4Isjz2j"
       },
@@ -4640,7 +4658,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 206080,
       "name": "Morning",
       "url": "https://open.spotify.com/track/54Yappwod1fELR5zb2gDBn"
@@ -5539,7 +5557,7 @@
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
       "date_removed": null,
-      "duration_ms": 249320,
+      "duration_ms": 249318,
       "name": "Right My Wrongs",
       "url": "https://open.spotify.com/track/5rgrBsAFYMun6yhtnLKRPz"
     },

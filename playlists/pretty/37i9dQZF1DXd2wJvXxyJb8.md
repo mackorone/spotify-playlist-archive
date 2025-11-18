@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 
 > as gigas da net
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,583,904 likes - 70 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,584,661 likes - 70 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 11 | [MONTAGEM CAMERA LENTA](https://open.spotify.com/track/6YAK1Sle1Wl7jOurqwWCfh) | [DJ DUARTE](https://open.spotify.com/artist/76JV5kzmRyAtP4cmMgjMZi), [DJ ORBITAL](https://open.spotify.com/artist/01XS19DjUcPe5dfYEkXjsg), [Dj Rs](https://open.spotify.com/artist/3t0ufVf4b2wFeCG1SVNNWY), [Error Records](https://open.spotify.com/artist/6rZ3QDiOS7SIF82jMrkzq9) | [MONTAGEM CAMERA LENTA](https://open.spotify.com/album/2pdoRydehXDDEYzC6e1uSK) | 2:49 |
 | 12 | [SEM FRESCURA SEM PIRRACA, SEM MIMIMI](https://open.spotify.com/track/7Ff0mR8ETS2QpL20dirwmj) | [DJ PH DE CAMPOS](https://open.spotify.com/artist/2R83mRnOb2ftzr4DUIARTr) | [SEM FRESCURA SEM PIRRACA, SEM MIMIMI](https://open.spotify.com/album/2OHhdbLZZBCC97Of1AchXA) | 1:52 |
 | 13 | [AMOR BANDIDO](https://open.spotify.com/track/7trxRWRqAhf9bJziU1ZQBH) | [J\. Eskine](https://open.spotify.com/artist/4gKSUeHW82tGBeJsJSB1JC), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Alef Donk](https://open.spotify.com/artist/0aSE67DwCWR6JKhdVUmz6I) | [NEM SÓ DE MALUQUICE VIVE O HOMEM](https://open.spotify.com/album/3lHprza8hVWcc19Ouj48jy) | 3:14 |
-| 14 | [Sorri, Sou Rei](https://open.spotify.com/track/0u6xEmvDwwVOLIywwu6xKN) | [Pegada X](https://open.spotify.com/artist/332Fln0M0hMo0iyQJcRYXz) | [Brega do Bruxo](https://open.spotify.com/album/2pABm4fBCMvlyCvq6zIxRY) | 2:43 |
+| 14 | [Sorri, Sou Rei](https://open.spotify.com/track/0u6xEmvDwwVOLIywwu6xKN) | [Harry o Bruxo](https://open.spotify.com/artist/332Fln0M0hMo0iyQJcRYXz) | [Brega do Bruxo](https://open.spotify.com/album/2pABm4fBCMvlyCvq6zIxRY) | 2:43 |
 | 15 | [Não Sirvo](https://open.spotify.com/track/6pscx2XMC2ZcE13WOQ082K) | [Eduardinho dos Teclados](https://open.spotify.com/artist/1quJu43mKzxzA3WxItCYvx) | [É Diferente](https://open.spotify.com/album/1kmgqBrxtN00b4fb1aX6A4) | 3:09 |
 | 16 | [Te Amo, Te Odeio](https://open.spotify.com/track/2YHn7o5nEpXMdy4xvFIuJs) | [DUPÊ](https://open.spotify.com/artist/33Ol2AOgNFyAlhIZXQmPEm), [Bagua Records](https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk), [Drake D.N](https://open.spotify.com/artist/1vzDo7jFkbW3beWrNYDB27), [Guiga Serra](https://open.spotify.com/artist/5uWhcNhwxiHN6oX4CEcEh4) | [Cangaço Sessions, Vol\. 2 \(Deluxe\)](https://open.spotify.com/album/15p530hCphxOXdjuPL25Es) | 3:06 |
 | 17 | [Até Quebrar a Cama 2.0](https://open.spotify.com/track/7aOv4uSAmiB9XKnkibqSdo) | [cjnobeat](https://open.spotify.com/artist/4fKJ81BAFxuwAFUI3B1BXM), [Mc Morena](https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [Até Quebrar a Cama 2.0](https://open.spotify.com/album/0M3Eqgtjept5qmPYWNdzWR) | 2:12 |

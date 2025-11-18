@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXmRdYIgq8J.md) - [plain]
 
 > Tropical tunes from the Indo\-Caribbean diaspora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,180 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,185 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,13 +24,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXmRdYIgq8J.md) - [plain]
 | 14 | [Free Like a Bird](https://open.spotify.com/track/4aaRKvMcByCxVtmssBvN4D) | [Yung Bredda](https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL) | [Free Like a Bird](https://open.spotify.com/album/769e5weHHS4L5MWc8KhobY) | 2:57 |
 | 15 | [Prescription](https://open.spotify.com/track/4LKcY2x9F64lJmr3qeNhBm) | [Ravi B](https://open.spotify.com/artist/6r9ZI8cFoP2cbszW50tdJj) | [Soca Gold 2013](https://open.spotify.com/album/3P4NsDb4H3rL9YSiLoFuSS) | 3:31 |
 | 16 | [Ab Na Jaibe](https://open.spotify.com/track/42jxQLPSuH6OMrkDhPiWkE) | [Kanchan](https://open.spotify.com/artist/20LxVmOnMzPm716JTA7XKi) | [Ab Na Jaibe](https://open.spotify.com/album/2n5A0bEoYkn8q3wm6cc75q) | 3:42 |
-| 17 | [Lootala](https://open.spotify.com/track/1XbEmKkEdifeicWVbhbS3T) | [Sonny Mann](https://open.spotify.com/artist/7ISdKLHNOk7qDf9vIRwCa0) | [Soca Gold 2](https://open.spotify.com/album/67tWcKDetfKQS7o3sLV71y) | 5:02 |
-| 18 | [Cya Come \(feat\. Skinny Fabulous\)](https://open.spotify.com/track/1WXJZK7uTn3iRrbfaXYZ6n) | [Ravi B and Karma the Band](https://open.spotify.com/artist/0f2Ro30PphxH8JaXsr2fFC), [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x) | [Rise of a New King](https://open.spotify.com/album/47ZPIYAGwct5LotU50oetq) | 5:11 |
+| 17 | [Cya Come \(feat\. Skinny Fabulous\)](https://open.spotify.com/track/1WXJZK7uTn3iRrbfaXYZ6n) | [Ravi B and Karma the Band](https://open.spotify.com/artist/0f2Ro30PphxH8JaXsr2fFC), [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x) | [Rise of a New King](https://open.spotify.com/album/47ZPIYAGwct5LotU50oetq) | 5:11 |
+| 18 | [Lootala](https://open.spotify.com/track/1XbEmKkEdifeicWVbhbS3T) | [Sonny Mann](https://open.spotify.com/artist/7ISdKLHNOk7qDf9vIRwCa0) | [Soca Gold 2](https://open.spotify.com/album/67tWcKDetfKQS7o3sLV71y) | 5:02 |
 | 19 | [Love You Again](https://open.spotify.com/track/1yH3Gb72AWXlTpJbbr4Amf) | [Ki & the Band](https://open.spotify.com/artist/0z79pZtEi1CkDICY4Q5ZxW) | [Love You Again](https://open.spotify.com/album/1yPhTWthx8zbzFfI9CxOmC) | 3:16 |
 | 20 | [Bend](https://open.spotify.com/track/0g7wbLkY6PV1or9n6oIskt) | [Yung Bredda](https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL), [Dan Evens](https://open.spotify.com/artist/5ZbHn0BqI2WtNqto3qUpzK), [DJ Puffy](https://open.spotify.com/artist/4YbipEAtJgAbKrZvdFEeTr) | [Bend](https://open.spotify.com/album/37rSCs6ZzJegxd4645i67x) | 2:48 |
 | 21 | [Jhulai Kai Jhulaneeya](https://open.spotify.com/track/4T2RNha3216ColKhrewoRe) | [Savita Singh TT](https://open.spotify.com/artist/3xZQr5mvpbIl6CEAN0jU7i), [Devanand Gattoo](https://open.spotify.com/artist/6YJbkTQjvcQIlMgs6B0gUf) | [Jhulai Kai Jhulaneeya](https://open.spotify.com/album/1J3jCiMaCw6vONtH5dD5CJ) | 3:53 |
-| 22 | [Bandarwah \(feat\. Ravi B\)](https://open.spotify.com/track/3IGfrhOSd1eg1CSBzUX01w) | [Rasika Dindial](https://open.spotify.com/artist/6bqai4im8en2b0vgEFhSnJ), [Ravi B](https://open.spotify.com/artist/6r9ZI8cFoP2cbszW50tdJj) | [Bandarwah \(feat\. Ravi B\)](https://open.spotify.com/album/1EpG3o1xvOD2pcmMu0Jt9q) | 4:25 |
-| 23 | [Holi Kare](https://open.spotify.com/track/3fd0xrRbadHWBQOxICpu5C) | [Ravi B and Karma the Band](https://open.spotify.com/artist/0f2Ro30PphxH8JaXsr2fFC) | [License to Wine](https://open.spotify.com/album/1kphTUZucP58mHBqDdtwIp) | 2:57 |
+| 22 | [Holi Kare](https://open.spotify.com/track/3fd0xrRbadHWBQOxICpu5C) | [Ravi B and Karma the Band](https://open.spotify.com/artist/0f2Ro30PphxH8JaXsr2fFC) | [License to Wine](https://open.spotify.com/album/1kphTUZucP58mHBqDdtwIp) | 2:57 |
+| 23 | [Bandarwah \(feat\. Ravi B\)](https://open.spotify.com/track/3IGfrhOSd1eg1CSBzUX01w) | [Rasika Dindial](https://open.spotify.com/artist/6bqai4im8en2b0vgEFhSnJ), [Ravi B](https://open.spotify.com/artist/6r9ZI8cFoP2cbszW50tdJj) | [Bandarwah \(feat\. Ravi B\)](https://open.spotify.com/album/1EpG3o1xvOD2pcmMu0Jt9q) | 4:25 |
 | 24 | [Cheers to Life](https://open.spotify.com/track/3y6b6RDAN3hTuKIFeDNVKT) | [Prince JP](https://open.spotify.com/artist/7aABRrarbHYwuDXabHm3l0) | [Cheers to Life](https://open.spotify.com/album/50sgMELadQIXAbAB0SC9Ba) | 3:18 |
 | 25 | [Take Me Higher](https://open.spotify.com/track/5JGsCNlb8iYkbT7mowcbAe) | [Savita Singh](https://open.spotify.com/artist/41QsX79zGwzoMh8CnPG6Lp) | [Take Me Higher](https://open.spotify.com/album/3ii1WYdMsi8rgRAItvItAJ) | 3:05 |
 | 26 | [Sweet Music](https://open.spotify.com/track/0BoXb90LdGTpy4TmpOZygA) | [Savita Singh TT](https://open.spotify.com/artist/3xZQr5mvpbIl6CEAN0jU7i) | [Sweet Music](https://open.spotify.com/album/7LRXkjgTP0OLpo1UsxDoLa) | 3:07 |

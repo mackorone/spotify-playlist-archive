@@ -4,7 +4,7 @@
 
 > Spread some cheer with this list of new and old seasonal favorites\. Cover: Brenda Lee
 
-184 songs - 10 hr 17 min
+185 songs - 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [All I Want for Christmas Is You](https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:01 | 2021-12-20 |  |
 | [Baby, It's Cold Outside \(feat\. Kelly Clarkson\)](https://open.spotify.com/track/0cBCE4fJztY5LcB6P7P2io) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [A Legendary Christmas](https://open.spotify.com/album/4rvtCloap7CfNl2Ogl8B87) | 3:38 | 2022-10-23 | 2024-04-19 |
 | [Baby, It's Cold Outside \(feat\. Kelly Clarkson\)](https://open.spotify.com/track/0ImOL4s238XPV8d2DKTJ2D) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [A Legendary Christmas](https://open.spotify.com/album/67vlDQxXPo2JKnZ5e6tHKY) | 3:38 | 2021-12-20 | 2022-11-13 |
-| [Baby, It's Cold Outside \(feat\. Kelly Clarkson\)](https://open.spotify.com/track/54q6WgqyTXjwOSrevVR8z9) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [A Legendary Christmas: Deluxe Edition](https://open.spotify.com/album/3wanKGZXsWXr6ZKdQrDtGu) | 3:38 | 2021-12-20 |  |
+| [Baby, It's Cold Outside \(feat\. Kelly Clarkson\)](https://open.spotify.com/track/54q6WgqyTXjwOSrevVR8z9) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [A Legendary Christmas: Deluxe Edition](https://open.spotify.com/album/3wanKGZXsWXr6ZKdQrDtGu) | 3:38 | 2021-12-20 | 2025-11-18 |
 | [Blue Christmas](https://open.spotify.com/track/1oP8pYttKCd0aAyFqq3WpM) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Relaxing Christmas Music](https://open.spotify.com/album/3fhZuGARTqvmMDsMljRHzP) | 3:48 | 2022-10-23 | 2022-11-13 |
 | [Blue Christmas](https://open.spotify.com/track/29Q7G9NJWi0XN7jj83NbrR) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [These are Special Times](https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN) | 3:48 | 2021-12-20 | 2022-12-06 |
 | [Blue Christmas](https://open.spotify.com/track/4ogdKEtzsmAC9rRkYPC3Kq) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [These Are Special Times](https://open.spotify.com/album/0LvrjOn7CrNSs0jVUvrgVy) | 3:48 | 2021-12-20 | 2022-07-29 |
@@ -189,6 +189,7 @@
 | [Wonderful Christmastime \- Edited Version / Remastered 2011](https://open.spotify.com/track/1SV1fxF65n9NhRHp3KlBuu) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney II \(Special Edition\)](https://open.spotify.com/album/48rypPDKdKiusMXKaYcEGV) | 3:47 | 2021-12-20 | 2024-04-19 |
 | [Wonderful Christmastime \[Edited Version\] \- Remastered 2011 / Edited Version](https://open.spotify.com/track/7Lbxvt42JsNSKVCaN63qhD) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney II \(Special Edition\)](https://open.spotify.com/album/1mODksGrJUHVAIIbPXB43v) | 3:47 | 2021-12-20 |  |
 | [Wrap Me Up](https://open.spotify.com/track/1tGlu4k3SPA1kHVSpDSo3u) | [Jimmy Fallon](https://open.spotify.com/artist/7mAcgRMD6EfCKHO6cIkDOP), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Wrap Me Up](https://open.spotify.com/album/0M6OuM3H038lJkpl5EMzik) | 2:28 | 2023-11-17 |  |
+| [You Deserve It All](https://open.spotify.com/track/2ZAEbbKPNf1Wv1fifB2nyd) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [You Deserve It All](https://open.spotify.com/album/5Ak2W28qw9158kDPOwQJFd) | 3:18 | 2025-11-17 |  |
 | [You For Christmas](https://open.spotify.com/track/0JnT4HGgwKZspTP55W7EaN) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [You For Christmas](https://open.spotify.com/album/30Kw3uH0UKxEllvLTZuE4q) | 2:54 | 2024-11-04 |  |
 | [You're A Mean One, Mr\. Grinch](https://open.spotify.com/track/6TnjaL02usP9dwCGzdk5GS) | [Thurl Ravenscroft](https://open.spotify.com/artist/5Gejwv3xz2DpLcxVpMD6hL) | [Dr\. Seuss' How The Grinch Stole Christmas!](https://open.spotify.com/album/6i5r2wHckEUWNo5vODUr3d) | 5:15 | 2021-12-20 | 2024-11-05 |
 | [You're A Mean One, Mr\. Grinch](https://open.spotify.com/track/4qP2V09IpTct5A1ZSnr1zh) | [Thurl Ravenscroft](https://open.spotify.com/artist/5Gejwv3xz2DpLcxVpMD6hL), [Boris Karloff](https://open.spotify.com/artist/1W9sjfsJp3TqWFgvScMZdG) | [Dr\. Seuss' How The Grinch Stole Christmas! \(Original TV Soundtrack\)](https://open.spotify.com/album/6P62c1CkC8iNejWXQGegDQ) | 5:15 | 2021-12-20 | 2024-04-19 |

@@ -2,9 +2,9 @@
 
 ### [أقوى المهرجانات](https://open.spotify.com/playlist/37i9dQZF1DX4qF0846GNk8)
 
-> أجمد المهرجانات في مصر مع عصام صاصا
+> أجمد المهرجانات في مصر مع كريم كريستيانو
 
-326 songs - 20 hr 18 min
+327 songs - 20 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [صورتك في حضني \( نور عيوني انتي صحبتي وبنتي \)](https://open.spotify.com/track/4LYLk2eSqniBqjxy4SOUh0) | [Hamo Bika](https://open.spotify.com/artist/054D7n62qxjhkfcBZhdRSI), [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [صورتك في حضني \( نور عيوني انتي صحبتي وبنتي \)](https://open.spotify.com/album/3dHElxwkFyxBTxHE0Uz7rk) | 3:28 | 2024-01-31 | 2024-02-22 |
 | [ضحكتك و ضحكتي عليا \( لحظه فراقك جرحتني \)](https://open.spotify.com/track/5WQ4GUTek3BUnjmcoxf4cU) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [ضحكتك و ضحكتي عليا \( لحظه فراقك جرحتني \)](https://open.spotify.com/album/0eVad4eWSNMuOpe55MdZUZ) | 3:13 | 2023-03-23 | 2023-09-06 |
 | [ضرب الحكومه مش عيب وحرام\( اصحاب بلدنا والكل عارف \)](https://open.spotify.com/track/4IYAVkWav5sOewme2OXpNQ) | [Mostafa El Gen](https://open.spotify.com/artist/2drznmRpH5GnzMiKfJDyOZ), [Hady El Saghier](https://open.spotify.com/artist/6uIt8lVnaIvXZ5pCvvEqCd) | [ضرب الحكومه مش عيب وحرام\( اصحاب بلدنا والكل عارف \)](https://open.spotify.com/album/4crETVBtLR0H1EL9jmWcqw) | 3:38 | 2024-01-31 |  |
+| [طب طمنيني لو حتى برنه](https://open.spotify.com/track/7dWPHHTBF1q81MU3IE0pHM) | [Karim Cristiano](https://open.spotify.com/artist/6Ss3HQTUk6PeyD1a0IV6RB) | [طب طمنيني لو حتى برنه](https://open.spotify.com/album/3rh4kdpxXQeCmZ77l5DXHh) | 3:52 | 2025-11-17 |  |
 | [طب كنتو تقولو انكو هتخونو](https://open.spotify.com/track/1DNIu3TwRRTnB4jk4A7Vsw) | [حمو الطيخا](https://open.spotify.com/artist/5ti8g7X1OG2lGsagt6GB3t) | [طب كنتو تقولو انكو هتخونو](https://open.spotify.com/album/1qKONakKAq2NmwOfTPWbnJ) | 5:45 | 2023-12-14 | 2024-03-09 |
 | [طب هأ دي حبيبتك مش بتقول لا \- مهرجان \- طب هأ دي حبيبتك مش بتقول لا \- اسلام كابونجا \-ميسو ميسره \-توزيع فيجو الدخلاوي مهرجانات](https://open.spotify.com/track/44KVuj4G37j4HULHHrteQu) | [ميسو ميسره](https://open.spotify.com/artist/0QpJBmVA3GcAX8NgPlrrMW), [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB) | [طب هأ دي حبيبتك مش بتقول لا \(مهرجان \- طب هأ دي حبيبتك مش بتقول لا \- اسلام كابونجا \-ميسو ميسره \-توزيع فيجو الدخلاوي مهرجانات\)](https://open.spotify.com/album/2TTvzhsqIDnxS6rBPgw2Tu) | 4:51 | 2024-03-08 | 2024-08-13 |
 | [طخ طخ انا الطخطوخ](https://open.spotify.com/track/3smY1fF2RinJwhaxGToDSh) | [حمو الطيخا](https://open.spotify.com/artist/5ti8g7X1OG2lGsagt6GB3t) | [طخ طخ انا الطخطوخ](https://open.spotify.com/album/64o8RrttINtiwfUcCXMMMv) | 5:51 | 2021-12-16 | 2022-07-29 |
@@ -235,7 +236,7 @@
 | [قراميط قراميط و الهلافيت عاملين مظابيط \(صحبي اللي اداك يدينا \)](https://open.spotify.com/track/7GdTv7oq8wMIEHm6ZO3C5w) | [Karim Cristiano](https://open.spotify.com/artist/6Ss3HQTUk6PeyD1a0IV6RB) | [قراميط قراميط و الهلافيت عاملين مظابيط \(صحبي اللي اداك يدينا \)](https://open.spotify.com/album/4ZrbdcI2JPDlkInji4FlaV) | 3:51 | 2023-06-06 | 2024-08-13 |
 | [قطر جيلك](https://open.spotify.com/track/6Hkdmyd5ccq8CMb6DCEQUN) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV), [Hassan Shakosh](https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt) | [قطر جيلك](https://open.spotify.com/album/5qsxwmkaGVhDAZPN97F0u4) | 2:43 | 2024-08-12 | 2024-10-09 |
 | [قلبي ياللي كلامي عندك](https://open.spotify.com/track/2TDgNk26VOAV4ioDUB9wSh) | [Houda](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [قلبي ياللي كلامي عندك](https://open.spotify.com/album/0LA3UCm1McaTnHxFT38mfi) | 3:18 | 2023-08-08 | 2025-05-21 |
-| [قمبلة الجيل \( اختي وصحبتي \)](https://open.spotify.com/track/2qU4cGVCZ6CJQ8RjMHvGvp) | [حمادة مجدي](https://open.spotify.com/artist/3K85LdQnIv6Vb2hR4mDeVe), [Hassan Shakosh](https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt) | [قمبلة الجيل \( اختي وصحبتي \)](https://open.spotify.com/album/1w6Mz1FmDpfmgH044e5Mac) | 2:59 | 2024-04-16 |  |
+| [قمبلة الجيل \( اختي وصحبتي \)](https://open.spotify.com/track/2qU4cGVCZ6CJQ8RjMHvGvp) | [حمادة مجدي](https://open.spotify.com/artist/3K85LdQnIv6Vb2hR4mDeVe), [Hassan Shakosh](https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt) | [قمبلة الجيل \( اختي وصحبتي \)](https://open.spotify.com/album/1w6Mz1FmDpfmgH044e5Mac) | 2:59 | 2024-04-16 | 2025-11-18 |
 | [قمر التيكتوكايه](https://open.spotify.com/track/4hqilOlBqh1gM1MJ6y7VUa) | [Hamo Bika](https://open.spotify.com/artist/054D7n62qxjhkfcBZhdRSI), [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV), [Ali Adora](https://open.spotify.com/artist/1YBCglSx16gpk34ayxU5Dp), [Nour El Tot](https://open.spotify.com/artist/1SfTMO63F7PCdKmBQao1kq) | [قمر التيكتوكايه](https://open.spotify.com/album/5NWO8i853mA4oyHwwzCfgs) | 4:23 | 2021-12-16 | 2022-07-29 |
 | [قمر التيكتوكايه](https://open.spotify.com/track/4NLFg43DInhC8Fik0bp88e) | [Hamo Bika](https://open.spotify.com/artist/054D7n62qxjhkfcBZhdRSI), [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV), [Ali Adora](https://open.spotify.com/artist/1YBCglSx16gpk34ayxU5Dp), [Nour El Tot](https://open.spotify.com/artist/1SfTMO63F7PCdKmBQao1kq) | [قمر التيكتوكايه](https://open.spotify.com/album/3dI09CzSY6Z3MOCRdsurIn) | 4:24 | 2022-07-19 | 2022-10-17 |
 | [قموصه \( لو مدايق \)](https://open.spotify.com/track/3PZuWYrm3p78Sx96HNWusd) | [Mostafa el Degwy](https://open.spotify.com/artist/58Aady92Ax4EADOATwDJWC) | [قموصه \( لو مدايق \)](https://open.spotify.com/album/58agffHGyi4ojubltavq6Z) | 3:17 | 2021-12-16 | 2022-09-28 |

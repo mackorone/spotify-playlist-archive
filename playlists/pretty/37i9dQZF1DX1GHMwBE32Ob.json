@@ -1,6 +1,6 @@
 {
   "description": "From the trenches. Through the streets.\nCover: Seyi Vibez",
-  "num_followers": 119028,
+  "num_followers": 119113,
   "original_name": "Street Energy ",
   "owner": {
     "name": "Spotify",
@@ -711,6 +711,22 @@
     {
       "added_at": "2025-11-14 00:01:31",
       "album": {
+        "name": "Free Service",
+        "url": "https://open.spotify.com/album/0fpIqaXbLdgWB7gLybePVW"
+      },
+      "artists": [
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "duration_ms": 156473,
+      "name": "Free Service",
+      "url": "https://open.spotify.com/track/0CbmiJiGy6sN4RJ75mJthR"
+    },
+    {
+      "added_at": "2025-11-14 00:01:31",
+      "album": {
         "name": "Rover",
         "url": "https://open.spotify.com/album/4TcZrHap6VtZGDRs3gVlha"
       },
@@ -731,38 +747,6 @@
     {
       "added_at": "2025-11-14 00:01:31",
       "album": {
-        "name": "Free Service",
-        "url": "https://open.spotify.com/album/0fpIqaXbLdgWB7gLybePVW"
-      },
-      "artists": [
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
-        }
-      ],
-      "duration_ms": 156473,
-      "name": "Free Service",
-      "url": "https://open.spotify.com/track/0CbmiJiGy6sN4RJ75mJthR"
-    },
-    {
-      "added_at": "2025-11-14 00:01:31",
-      "album": {
-        "name": "My Way",
-        "url": "https://open.spotify.com/album/5ew8bhyjYFzX6wgoMdEn4i"
-      },
-      "artists": [
-        {
-          "name": "Hotkeed",
-          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
-        }
-      ],
-      "duration_ms": 154455,
-      "name": "My Way",
-      "url": "https://open.spotify.com/track/3yLREZjJFnYLAN4aOUqqP6"
-    },
-    {
-      "added_at": "2025-11-14 00:01:31",
-      "album": {
         "name": "Hello Hello",
         "url": "https://open.spotify.com/album/2MemAGSs6AwHzhHRr4FezH"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 155789,
       "name": "Hello Hello",
       "url": "https://open.spotify.com/track/2Ee6WFlAauCqC241KOe4xq"
+    },
+    {
+      "added_at": "2025-11-14 00:01:31",
+      "album": {
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/5ew8bhyjYFzX6wgoMdEn4i"
+      },
+      "artists": [
+        {
+          "name": "Hotkeed",
+          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
+        }
+      ],
+      "duration_ms": 154455,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/3yLREZjJFnYLAN4aOUqqP6"
     },
     {
       "added_at": "2025-11-14 00:01:31",
@@ -871,26 +871,6 @@
     {
       "added_at": "2025-11-14 00:01:31",
       "album": {
-        "name": "Kilometer II",
-        "url": "https://open.spotify.com/album/2FJH9gV7isBuUno0lqGYBQ"
-      },
-      "artists": [
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        },
-        {
-          "name": "Kashcoming",
-          "url": "https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI"
-        }
-      ],
-      "duration_ms": 133043,
-      "name": "Too Busy",
-      "url": "https://open.spotify.com/track/22l3YPQhWkphT3FWJL7heC"
-    },
-    {
-      "added_at": "2025-11-14 00:01:31",
-      "album": {
         "name": "BlownBoy RU",
         "url": "https://open.spotify.com/album/6PAGfuja5bu2d7EHzo77uz"
       },
@@ -911,22 +891,22 @@
     {
       "added_at": "2025-11-14 00:01:31",
       "album": {
-        "name": "Sanity",
-        "url": "https://open.spotify.com/album/7EkD7BdTnfOHdh2nJR4Nry"
+        "name": "Kilometer II",
+        "url": "https://open.spotify.com/album/2FJH9gV7isBuUno0lqGYBQ"
       },
       "artists": [
         {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
         },
         {
-          "name": "K1 De Ultimate",
-          "url": "https://open.spotify.com/artist/4QDPgnH8H5BkicUp3nbIWT"
+          "name": "Kashcoming",
+          "url": "https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI"
         }
       ],
-      "duration_ms": 195997,
-      "name": "Fuji Fusion",
-      "url": "https://open.spotify.com/track/5KenjWAk3sGXR2yMThHGFZ"
+      "duration_ms": 133043,
+      "name": "Too Busy",
+      "url": "https://open.spotify.com/track/22l3YPQhWkphT3FWJL7heC"
     },
     {
       "added_at": "2025-11-14 00:01:31",
@@ -943,6 +923,26 @@
       "duration_ms": 322209,
       "name": "Fuji Vibe",
       "url": "https://open.spotify.com/track/2WHM3orrvvqziSkG0xp8sy"
+    },
+    {
+      "added_at": "2025-11-14 00:01:31",
+      "album": {
+        "name": "Sanity",
+        "url": "https://open.spotify.com/album/7EkD7BdTnfOHdh2nJR4Nry"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
+        {
+          "name": "K1 De Ultimate",
+          "url": "https://open.spotify.com/artist/4QDPgnH8H5BkicUp3nbIWT"
+        }
+      ],
+      "duration_ms": 195997,
+      "name": "Fuji Fusion",
+      "url": "https://open.spotify.com/track/5KenjWAk3sGXR2yMThHGFZ"
     },
     {
       "added_at": "2025-11-14 00:01:31",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2025-11-14 00:01:31",
       "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/2Ti12rxuf2NZ22iUzUXSNP"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 137631,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/7fA7mrYaXVDVVGCAV65NRN"
+    },
+    {
+      "added_at": "2025-11-14 00:01:31",
+      "album": {
         "name": "Bust Down",
         "url": "https://open.spotify.com/album/5WBwh4xPACk0mfi5J5vw1G"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 196363,
       "name": "Bust Down",
       "url": "https://open.spotify.com/track/3eWpfsYgd5OL2QdwcVcF6Q"
-    },
-    {
-      "added_at": "2025-11-14 00:01:31",
-      "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/2Ti12rxuf2NZ22iUzUXSNP"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 137631,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/7fA7mrYaXVDVVGCAV65NRN"
     },
     {
       "added_at": "2025-11-14 00:01:31",

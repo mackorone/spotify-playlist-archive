@@ -207,6 +207,24 @@
     },
     {
       "album": {
+        "name": "Ang Ilaw Mo",
+        "url": "https://open.spotify.com/album/67Ri7UIqsLVWmOBVlYG05H"
+      },
+      "artists": [
+        {
+          "name": "Healy After Dark",
+          "url": "https://open.spotify.com/artist/5xRllYZrqUU5by4KMyz9cY"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236253,
+      "name": "Ang Ilaw Mo",
+      "url": "https://open.spotify.com/track/41nU0pp66IAP19b7dwLQ7V"
+    },
+    {
+      "album": {
         "name": "Ang Pag-ibig",
         "url": "https://open.spotify.com/album/7lheyrZDUh2R6N2mBWXnqP"
       },
@@ -4680,7 +4698,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 172937,
       "name": "Too Good to be Bad",
       "url": "https://open.spotify.com/track/2LJ2C2vj3IltIhxPx377w3"

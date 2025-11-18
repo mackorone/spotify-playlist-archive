@@ -108,7 +108,7 @@
       ],
       "date_added": "2025-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-14",
+      "date_removed": null,
       "duration_ms": 196078,
       "name": "Caf\u00e9",
       "url": "https://open.spotify.com/track/1DpssfN5yVYJ4NApETYbFU"
@@ -238,6 +238,28 @@
           "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
         },
         {
+          "name": "Pluto Jonze",
+          "url": "https://open.spotify.com/artist/6DRm66ULaD9MVnfZ4TBfmF"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96398,
+      "name": "Fruit Bat",
+      "url": "https://open.spotify.com/track/0LlgXONyO3DotVbK38T6oe"
+    },
+    {
+      "album": {
+        "name": "Bluey the Album (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/4ke6cauk7sHuydZCrkgD7s"
+      },
+      "artists": [
+        {
+          "name": "Bluey",
+          "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
+        },
+        {
           "name": "Helena Czajka",
           "url": "https://open.spotify.com/artist/4rA0u7NMQXLrfhX6Sf9pmO"
         },
@@ -306,7 +328,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-21",
+      "date_removed": null,
       "duration_ms": 64311,
       "name": "Le g\u00e9n\u00e9rique de Bluey (French Version)",
       "url": "https://open.spotify.com/track/3P3vNQ95AdWgnr5YGmYdhk"
@@ -560,7 +582,7 @@
       ],
       "date_added": "2025-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 98566,
       "name": "Rug Island, Pt. 3",
       "url": "https://open.spotify.com/track/2kmZBAGzmvnw6vaizoZONh"
@@ -686,7 +708,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 202098,
       "name": "Wagon Ride",
       "url": "https://open.spotify.com/track/5A7NglEPKMeCu7y8AJmzAD"

@@ -1,12 +1,12 @@
 {
   "description": "This is Alexisonfire. The essential tracks, all in one playlist.",
-  "num_followers": 24627,
+  "num_followers": 24630,
   "original_name": "This Is Alexisonfire",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRfCgAAAAAB6IKImjZZ7aSBwDb7Fcht6",
+  "snapshot_id": "aRkUAAAAAAD3Y4rOfxnE8k3YVhWTZXYF",
   "tracks": [
     {
       "added_at": null,
@@ -123,22 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Misogyny",
-        "url": "https://open.spotify.com/album/1UzUVAimqdkb7u4YEFAvr2"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 188768,
-      "name": "Misogyny",
-      "url": "https://open.spotify.com/track/4Oy6eTbEaMj1ouejqVt0N3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alexisonfire",
         "url": "https://open.spotify.com/album/49lCvR6PcufVwZtJJVu5uC"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 271255,
       "name": ".44 Caliber Love Letter",
       "url": "https://open.spotify.com/track/1ir5oMNuxrNeCwUJFaEyum"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Misogyny",
+        "url": "https://open.spotify.com/album/1UzUVAimqdkb7u4YEFAvr2"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 188768,
+      "name": "Misogyny",
+      "url": "https://open.spotify.com/track/4Oy6eTbEaMj1ouejqVt0N3"
     },
     {
       "added_at": null,

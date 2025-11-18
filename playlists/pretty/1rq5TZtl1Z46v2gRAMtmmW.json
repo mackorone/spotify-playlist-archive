@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 31659,
+  "num_followers": 31660,
   "original_name": "Ninja Tune // New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "AAAQ8YSph+qn1L9a7sqfMgOrw42PoT9z",
+  "snapshot_id": "AAAQ9a+HgYqr2NGn7aFKcTA1yStzpRTF",
   "tracks": [
     {
       "added_at": "2025-11-06 21:08:43",
@@ -117,6 +117,26 @@
       "url": "https://open.spotify.com/track/0sCjYTtc6PW1vkKJcKO00b"
     },
     {
+      "added_at": "2025-11-17 15:16:13",
+      "album": {
+        "name": "Caught Up In The Fire",
+        "url": "https://open.spotify.com/album/6stjuO04Rw5O2xqog9u8dA"
+      },
+      "artists": [
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        },
+        {
+          "name": "JONAH",
+          "url": "https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4"
+        }
+      ],
+      "duration_ms": 223538,
+      "name": "Caught Up In The Fire",
+      "url": "https://open.spotify.com/track/1cskXAWztObojI6r2j60Al"
+    },
+    {
       "added_at": "2025-11-05 11:34:20",
       "album": {
         "name": "Yume",
@@ -135,6 +155,26 @@
       "duration_ms": 205125,
       "name": "Career Climbing",
       "url": "https://open.spotify.com/track/5bkxmQ4Im03LVDQsX78gdZ"
+    },
+    {
+      "added_at": "2025-11-17 16:06:17",
+      "album": {
+        "name": "You Thought!",
+        "url": "https://open.spotify.com/album/52Qw5zCKPoWJCIv3W6S24i"
+      },
+      "artists": [
+        {
+          "name": "Brian Nasty",
+          "url": "https://open.spotify.com/artist/5RpQGZtxRWXdEZpV7gNdvM"
+        },
+        {
+          "name": "Lord Apex",
+          "url": "https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz"
+        }
+      ],
+      "duration_ms": 226284,
+      "name": "You Thought!",
+      "url": "https://open.spotify.com/track/3CoNCkH0WixzONEFBoVApf"
     },
     {
       "added_at": "2025-11-07 11:36:32",

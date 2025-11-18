@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 
 > This is Yoss Bones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,047 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,055 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 | 34 | [Tequila y Miel](https://open.spotify.com/track/0tSB1fuRtQbdQbE5h1fW6M) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Hispana](https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5) | [Tequila y Miel](https://open.spotify.com/album/3qIzssaVo8bUhfHxwbeDua) | 3:31 |
 | 35 | [No quiero que amanezca](https://open.spotify.com/track/1ujwLJ7na5L4zjOShTTTXD) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Pipo Ti](https://open.spotify.com/artist/5IxU70PZhE8uqCBOGHZHgJ) | [ROMA](https://open.spotify.com/album/2a41sz8sMlWxR31PGTFLyW) | 3:48 |
 | 36 | [Lo Que Quedó](https://open.spotify.com/track/1SU9MrVBKY2CZXWZP1F3BC) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Lo Que Quedó](https://open.spotify.com/album/1rSjJvh3GZ9c4xjAdS2LkN) | 3:27 |
-| 37 | [El](https://open.spotify.com/track/6mWDXotbiEeRWZeQB9muCl) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [El](https://open.spotify.com/album/7tLkIgVXrErZK0K9RIyN4w) | 3:24 |
-| 38 | [Serendipia](https://open.spotify.com/track/5QV0T0Fz6AgMhpDhQ1AKuu) | [Adan Golden Ganga](https://open.spotify.com/artist/6FXfgNHxytp8GsDnK6uXlH), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Golden Ganga](https://open.spotify.com/artist/54P0u0BOmRdmtEVPgcoZy0) | [Feedback](https://open.spotify.com/album/3OI8rQ4iGVRVswrQGWAmr1) | 3:20 |
+| 37 | [Serendipia](https://open.spotify.com/track/5QV0T0Fz6AgMhpDhQ1AKuu) | [Adan Golden Ganga](https://open.spotify.com/artist/6FXfgNHxytp8GsDnK6uXlH), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Golden Ganga](https://open.spotify.com/artist/54P0u0BOmRdmtEVPgcoZy0) | [Feedback](https://open.spotify.com/album/3OI8rQ4iGVRVswrQGWAmr1) | 3:20 |
+| 38 | [El](https://open.spotify.com/track/6mWDXotbiEeRWZeQB9muCl) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [El](https://open.spotify.com/album/7tLkIgVXrErZK0K9RIyN4w) | 3:24 |
 | 39 | [De Roll](https://open.spotify.com/track/2sdKmNpQJmgVSPoiyXcq0t) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Pato Machete](https://open.spotify.com/artist/0Wvud7hEqI5zaI0o0iIkj2) | [De Roll](https://open.spotify.com/album/6a8vWL0w3KFrSw7DqpPxSa) | 3:46 |
 | 40 | [Otra Oportunidad](https://open.spotify.com/track/0BXk6oUSkehJkZOv2TBzgG) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l) | [Otra Oportunidad](https://open.spotify.com/album/73fsMmzD84KtQeKzL497C3) | 3:51 |
 | 41 | [Smoke](https://open.spotify.com/track/1BKfnWOViooRpW2pAs3YLT) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Smoke](https://open.spotify.com/album/1BTyb724qBItdFLINxaAPp) | 3:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 | 49 | [Cheque En Blanco](https://open.spotify.com/track/1zgA5AWWPAGjJgroKzBAfS) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Cheque En Blanco](https://open.spotify.com/album/4aEXhOW3BoReEifboscpf8) | 2:47 |
 | 50 | [Le Ruego a Dios](https://open.spotify.com/track/1g7kOe2a27074bzgZiXast) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Le Ruego a Dios](https://open.spotify.com/album/2iDUeErcSvIoFKtjVGej9n) | 3:03 |
 
-Snapshot ID: `aRfCgAAAAACb/rLCHzishILN/Fw9Rw1L`
+Snapshot ID: `aRkUAAAAAAByK/P8mSGEVPjKEIJpPlQD`

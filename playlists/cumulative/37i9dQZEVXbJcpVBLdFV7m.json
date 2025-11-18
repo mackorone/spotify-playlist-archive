@@ -12850,7 +12850,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-08",
+      "date_removed": null,
       "duration_ms": 237413,
       "name": "Head Shot / Gas In The Truck",
       "url": "https://open.spotify.com/track/369I51M6XDujuwDlj3GW6R"
@@ -13586,7 +13586,7 @@
       ],
       "date_added": "2025-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 154363,
       "name": "HOES DEPRESSED",
       "url": "https://open.spotify.com/track/3YjVhsdXUG69TeUm0XzIFZ"
@@ -15564,6 +15564,24 @@
       "duration_ms": 169066,
       "name": "JESTOVE",
       "url": "https://open.spotify.com/track/1tXCBU0KYj80kAVOjfKL37"
+    },
+    {
+      "album": {
+        "name": "Razorblade Romance",
+        "url": "https://open.spotify.com/album/4TGbiYOokXYDtgnw7yKC5N"
+      },
+      "artists": [
+        {
+          "name": "HIM",
+          "url": "https://open.spotify.com/artist/74aLweE8FHHf4yN5TWv1GM"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216746,
+      "name": "Join Me - Razorblade Mix",
+      "url": "https://open.spotify.com/track/5ooqCHqs4axSJbWqIHfKfB"
     },
     {
       "album": {
@@ -20074,7 +20092,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 130461,
       "name": "Mist",
       "url": "https://open.spotify.com/track/2NLOyWzztMiW5FmNhD83K6"
@@ -24312,7 +24330,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 110430,
       "name": "PIXELATED KISSES",
       "url": "https://open.spotify.com/track/2OZVskV28xxJjjhQqKTLSg"
@@ -27040,7 +27058,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-17",
+      "date_removed": null,
       "duration_ms": 196857,
       "name": "Seni D\u00fc\u015f\u00fcnd\u00fcm",
       "url": "https://open.spotify.com/track/6oZ8BPQSQog7Q3LPUVgxCr"
@@ -39682,10 +39700,28 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 146000,
       "name": "\u041d\u0430 \u043c\u0443\u0440\u043c\u0443\u043b\u044f\u0445",
       "url": "https://open.spotify.com/track/3M6ponW1oyWc3ZiexgNM9Y"
+    },
+    {
+      "album": {
+        "name": "\u041d\u0430 \u043c\u0443\u0440\u043c\u0443\u043b\u044f\u0445",
+        "url": "https://open.spotify.com/album/3uJ2Bvb2HrrRL8EzNoQizJ"
+      },
+      "artists": [
+        {
+          "name": "\u042d\u0442\u043e \u0420\u0430\u0434\u0438\u043e",
+          "url": "https://open.spotify.com/artist/4ub4NOi0oclhtW5XbKkIF5"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146017,
+      "name": "\u041d\u0430 \u043c\u0443\u0440\u043c\u0443\u043b\u044f\u0445",
+      "url": "https://open.spotify.com/track/4tOvwbFoMJnQpg0YuFWbyj"
     },
     {
       "album": {

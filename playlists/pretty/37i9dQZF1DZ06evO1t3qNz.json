@@ -1,12 +1,12 @@
 {
   "description": "This is Jessie Murph. The essential tracks, all in one playlist.",
-  "num_followers": 51093,
+  "num_followers": 51144,
   "original_name": "This Is Jessie Murph",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRfCgAAAAAA2u0DZ1/lZRvuozAvP+vc5",
+  "snapshot_id": "aRkUAAAAAAAy14JDwWzk3SgibAjXTOoZ",
   "tracks": [
     {
       "added_at": null,
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
         }
       ],
-      "duration_ms": 155983,
-      "name": "Son of a Bitch",
-      "url": "https://open.spotify.com/track/1hnHgiBiMZlZp7EVxD0eCX"
+      "duration_ms": 125975,
+      "name": "Love Lies",
+      "url": "https://open.spotify.com/track/3abIPNFqcG1QvNKtjduDxU"
     },
     {
       "added_at": null,
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
         }
       ],
-      "duration_ms": 125975,
-      "name": "Love Lies",
-      "url": "https://open.spotify.com/track/3abIPNFqcG1QvNKtjduDxU"
+      "duration_ms": 155983,
+      "name": "Son of a Bitch",
+      "url": "https://open.spotify.com/track/1hnHgiBiMZlZp7EVxD0eCX"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "When I'm Not Around",
-        "url": "https://open.spotify.com/album/7xtZSKGsF3f4QagaNjaGKz"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        }
-      ],
-      "duration_ms": 201310,
-      "name": "When I'm Not Around",
-      "url": "https://open.spotify.com/track/2NIYKZkwuDKylxcGja4fAe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sex Hysteria (Deluxe)",
         "url": "https://open.spotify.com/album/6TpEUt1l3llFkDLbIgpinr"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 192416,
       "name": "Forever (feat. 6LACK)",
       "url": "https://open.spotify.com/track/5YgLr3Hn1JwngvChsXdJGH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "When I'm Not Around",
+        "url": "https://open.spotify.com/album/7xtZSKGsF3f4QagaNjaGKz"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 201310,
+      "name": "When I'm Not Around",
+      "url": "https://open.spotify.com/track/2NIYKZkwuDKylxcGja4fAe"
     },
     {
       "added_at": null,

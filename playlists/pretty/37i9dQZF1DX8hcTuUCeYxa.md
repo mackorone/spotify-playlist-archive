@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: M\. Byrd
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,700 likes - 90 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,688 likes - 90 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 84 | [Faustine](https://open.spotify.com/track/6NunCOF3D01SJDsv4AnCba) | [Lipka](https://open.spotify.com/artist/4jnKZH3HxAS8GCTaJR9pHX) | [Faustine](https://open.spotify.com/album/52D7MFmR31I76ehZGd5WGv) | 2:49 |
 | 85 | [Memphis](https://open.spotify.com/track/5ESCkKKAhKZTTZ0sQ4dk0R) | [Ava Vegas](https://open.spotify.com/artist/5ql0vsOE9XzHXwi8xP4yes) | [Everything Got Too Sci\-Fi To Be Disco EP](https://open.spotify.com/album/0JdKdy348b4fYIsQdsnX2V) | 2:27 |
 | 86 | [Ambient Heat](https://open.spotify.com/track/68vgaMDFR8EZsCOpqUCSOZ) | [Lucy Kruger & The Lost Boys](https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u) | [Ambient Heat](https://open.spotify.com/album/0N7Bg9lSqXOTlFkDzGvxIV) | 4:57 |
-| 87 | [:\)](https://open.spotify.com/track/3ub8jyNkIlYczkUgPha5J3) | [Nik Dandelion](https://open.spotify.com/artist/5SrhFOt282uZjwSYWo71ds), [Padi](https://open.spotify.com/artist/6EULZKSkWTRJflvyFqmyAr) | [DANDYLiON](https://open.spotify.com/album/3sxnIpaw7bdoA6D07QjaQx) | 4:31 |
+| 87 | [:\)](https://open.spotify.com/track/3ub8jyNkIlYczkUgPha5J3) | [Nik Dandelion](https://open.spotify.com/artist/5SrhFOt282uZjwSYWo71ds), [Padi](https://open.spotify.com/artist/3BqbpG4GyEmaybhZSclexV) | [DANDYLiON](https://open.spotify.com/album/3sxnIpaw7bdoA6D07QjaQx) | 4:31 |
 | 88 | [desperate eyes](https://open.spotify.com/track/6stiell19WTK49tscdoYgl) | [emi](https://open.spotify.com/artist/5yUvntXwc1otvnZ8Bhxo85) | [desperate eyes](https://open.spotify.com/album/1zaMfWaDGNpWIguuJm0WJ1) | 2:34 |
 | 89 | [Slaughterhouse](https://open.spotify.com/track/5ZTRqD25RsTcKrfX82FSZD) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Devour](https://open.spotify.com/album/0ZnuaHRAI6C7fGxg1VuoXO) | 3:32 |
 | 90 | [Home](https://open.spotify.com/track/232RM3E3HNMDxuLcXLSaYq) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [Home](https://open.spotify.com/album/4A1R2s1aeGoz8LoATTNNwH) | 1:59 |

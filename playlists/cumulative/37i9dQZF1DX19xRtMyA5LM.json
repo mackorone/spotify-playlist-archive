@@ -2429,6 +2429,28 @@
     },
     {
       "album": {
+        "name": "Mandem FC",
+        "url": "https://open.spotify.com/album/1OcDzH5g0p8ejBEtMwnDiJ"
+      },
+      "artists": [
+        {
+          "name": "Buurtchase",
+          "url": "https://open.spotify.com/artist/7egR3WkKUDT2EnnLtYCJFA"
+        },
+        {
+          "name": "Quincy Promes",
+          "url": "https://open.spotify.com/artist/6ak4Dte1ZVVz6iGqv7jTrS"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152275,
+      "name": "Mandem FC",
+      "url": "https://open.spotify.com/track/16L8iY1AxRtjNG0G9rakHZ"
+    },
+    {
+      "album": {
         "name": "Marlboro",
         "url": "https://open.spotify.com/album/29kW2ScJ6Fr6AAC1rh2XWm"
       },
@@ -4714,7 +4736,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-18",
       "duration_ms": 125070,
       "name": "\u2060\u2060LEBHUIS",
       "url": "https://open.spotify.com/track/0aCjZ8fn8rFXzr3nYzHR1Q"

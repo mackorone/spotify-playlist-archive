@@ -1,12 +1,12 @@
 {
   "description": "This is Carlos Y Jose. The essential tracks, all in one playlist.",
-  "num_followers": 37582,
+  "num_followers": 37590,
   "original_name": "This Is Carlos Y Jose",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRfCgAAAAADluixWzIMnslFGAA62rb3u",
+  "snapshot_id": "aRkUAAAAAAATORVyIYEmHvFPtJ4X3ejJ",
   "tracks": [
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 165280,
-      "name": "El Rayo De Sinaloa",
-      "url": "https://open.spotify.com/track/1t3CCfo0cJd77OBakt0Vim"
+      "duration_ms": 174573,
+      "name": "La Emboscada Del Gallo",
+      "url": "https://open.spotify.com/track/1IbrUgORKmQVk6lbqY73eW"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00a1Ay Que Triste!",
-        "url": "https://open.spotify.com/album/6M886Mg1U15kSK4lACU9H5"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 186226,
-      "name": "Asesino A Sueldo",
-      "url": "https://open.spotify.com/track/0T9MBxiBJznCdjdw2QMMlV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos De Lujo",
         "url": "https://open.spotify.com/album/1mgpi8kIeS9Vz8Fa9W0tbh"
       },
@@ -555,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u00a1Ay Que Triste!",
+        "url": "https://open.spotify.com/album/6M886Mg1U15kSK4lACU9H5"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 186226,
+      "name": "Asesino A Sueldo",
+      "url": "https://open.spotify.com/track/0T9MBxiBJznCdjdw2QMMlV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Patrulla 05 Corridos Con",
         "url": "https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq"
       },
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 174573,
-      "name": "La Emboscada Del Gallo",
-      "url": "https://open.spotify.com/track/1IbrUgORKmQVk6lbqY73eW"
+      "duration_ms": 165280,
+      "name": "El Rayo De Sinaloa",
+      "url": "https://open.spotify.com/track/1t3CCfo0cJd77OBakt0Vim"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nuestros 15 Exitos",
-        "url": "https://open.spotify.com/album/1GHMkn23Oq9AJoLwwiXPmv"
+        "name": "Corridos De Caballos Famosos Con",
+        "url": "https://open.spotify.com/album/6z3guGK2jlvhj4SlZufhe0"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 191791,
-      "name": "La Noria Escondida",
-      "url": "https://open.spotify.com/track/0S0rgFudcFSKg3wVcoWjqR"
+      "duration_ms": 219960,
+      "name": "El Siete Leguas",
+      "url": "https://open.spotify.com/track/20Vf0wHEus0qRMg7pxbA4n"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos De Caballos Famosos Con",
-        "url": "https://open.spotify.com/album/6z3guGK2jlvhj4SlZufhe0"
+        "name": "Nuestros 15 Exitos",
+        "url": "https://open.spotify.com/album/1GHMkn23Oq9AJoLwwiXPmv"
       },
       "artists": [
         {
@@ -708,9 +708,25 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 219960,
-      "name": "El Siete Leguas",
-      "url": "https://open.spotify.com/track/20Vf0wHEus0qRMg7pxbA4n"
+      "duration_ms": 191791,
+      "name": "La Noria Escondida",
+      "url": "https://open.spotify.com/track/0S0rgFudcFSKg3wVcoWjqR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Dulce Y Lo Amargo",
+        "url": "https://open.spotify.com/album/1GiLhT7ASsEedLKoViDQOJ"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 142973,
+      "name": "Eso Y M\u00e1s",
+      "url": "https://open.spotify.com/track/687VIkOLpnz5MX6jkd0nkS"
     },
     {
       "added_at": null,
@@ -747,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Norte\u00f1os Con Carlos Y Jos\u00e9",
-        "url": "https://open.spotify.com/album/0tkrAv4a7Cad5wqrBc1V0Z"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 183693,
-      "name": "Ramiro Y Miguel",
-      "url": "https://open.spotify.com/track/6U7BgvIenwmFI65FTcrbaa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Gallo De San Juan",
         "url": "https://open.spotify.com/album/0cBPDXzhU6hz9go0STNn9p"
       },
@@ -779,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Dulce Y Lo Amargo",
-        "url": "https://open.spotify.com/album/1GiLhT7ASsEedLKoViDQOJ"
+        "name": "Corridos Norte\u00f1os Con Carlos Y Jos\u00e9",
+        "url": "https://open.spotify.com/album/0tkrAv4a7Cad5wqrBc1V0Z"
       },
       "artists": [
         {
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 142973,
-      "name": "Eso Y M\u00e1s",
-      "url": "https://open.spotify.com/track/687VIkOLpnz5MX6jkd0nkS"
+      "duration_ms": 183693,
+      "name": "Ramiro Y Miguel",
+      "url": "https://open.spotify.com/track/6U7BgvIenwmFI65FTcrbaa"
     },
     {
       "added_at": null,

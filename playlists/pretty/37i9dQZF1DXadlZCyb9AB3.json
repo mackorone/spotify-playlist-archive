@@ -1,6 +1,6 @@
 {
   "description": "Defining songs of the riot grrrl era and the artists keeping its spirit alive\n",
-  "num_followers": 204755,
+  "num_followers": 204772,
   "original_name": "Riot Grrrl",
   "owner": {
     "name": "Spotify",
@@ -307,22 +307,6 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Spend The Night (U.S. Version)",
-        "url": "https://open.spotify.com/album/15wLLULZwFUQ2aDp4PB3nv"
-      },
-      "artists": [
-        {
-          "name": "The Donnas",
-          "url": "https://open.spotify.com/artist/2c0qomdZabcCyqTZ5M9msd"
-        }
-      ],
-      "duration_ms": 161999,
-      "name": "Take It Off",
-      "url": "https://open.spotify.com/track/6QyBIZEvs11K9lKjyLYtv6"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
         "name": "Pretty On The Inside",
         "url": "https://open.spotify.com/album/335Wo8YySOsJdc0QV9ANvK"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 177226,
       "name": "Teenage Whore",
       "url": "https://open.spotify.com/track/5L3H63sBURBch3bUJ2acIJ"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
+        "name": "Spend The Night (U.S. Version)",
+        "url": "https://open.spotify.com/album/15wLLULZwFUQ2aDp4PB3nv"
+      },
+      "artists": [
+        {
+          "name": "The Donnas",
+          "url": "https://open.spotify.com/artist/2c0qomdZabcCyqTZ5M9msd"
+        }
+      ],
+      "duration_ms": 161999,
+      "name": "Take It Off",
+      "url": "https://open.spotify.com/track/6QyBIZEvs11K9lKjyLYtv6"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -371,22 +371,6 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "The First Two Records",
-        "url": "https://open.spotify.com/album/6U4EMkDA3CZarmG5t3Bqze"
-      },
-      "artists": [
-        {
-          "name": "Bikini Kill",
-          "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
-        }
-      ],
-      "duration_ms": 160860,
-      "name": "Double Dare Ya",
-      "url": "https://open.spotify.com/track/2tRI6j8RxFwrxoRKs7dnV8"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
         "name": "Fontanelle",
         "url": "https://open.spotify.com/album/3fbPYfpyJtow8IF3ho7o09"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 172266,
       "name": "Bruise Violet",
       "url": "https://open.spotify.com/track/0o0fnK2CqZvI3jONRDv6ax"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
+        "name": "The First Two Records",
+        "url": "https://open.spotify.com/album/6U4EMkDA3CZarmG5t3Bqze"
+      },
+      "artists": [
+        {
+          "name": "Bikini Kill",
+          "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
+        }
+      ],
+      "duration_ms": 160860,
+      "name": "Double Dare Ya",
+      "url": "https://open.spotify.com/track/2tRI6j8RxFwrxoRKs7dnV8"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -467,18 +467,18 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "The Singles",
-        "url": "https://open.spotify.com/album/6kwyhuzuCrz4N4vMhZ9Deb"
+        "name": "Nemesisters",
+        "url": "https://open.spotify.com/album/7KGRLGS0Bwc494GS7awFsL"
       },
       "artists": [
         {
-          "name": "Bikini Kill",
-          "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
+          "name": "Babes In Toyland\u00a0",
+          "url": "https://open.spotify.com/artist/3Xdna5z74yNICNKqdaNX9z"
         }
       ],
-      "duration_ms": 93493,
-      "name": "New Radio",
-      "url": "https://open.spotify.com/track/4DgsvJNNGvV5WPQ40qR3R8"
+      "duration_ms": 244506,
+      "name": "Sweet '69",
+      "url": "https://open.spotify.com/track/55oE1XL7HceNY7VR7Nz4yu"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -547,8 +547,24 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Nemesisters",
-        "url": "https://open.spotify.com/album/7KGRLGS0Bwc494GS7awFsL"
+        "name": "The Singles",
+        "url": "https://open.spotify.com/album/6kwyhuzuCrz4N4vMhZ9Deb"
+      },
+      "artists": [
+        {
+          "name": "Bikini Kill",
+          "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
+        }
+      ],
+      "duration_ms": 93493,
+      "name": "New Radio",
+      "url": "https://open.spotify.com/track/4DgsvJNNGvV5WPQ40qR3R8"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
+        "name": "Painkillers",
+        "url": "https://open.spotify.com/album/3ym30rhJeAnjr7DHcYpqJa"
       },
       "artists": [
         {
@@ -556,9 +572,9 @@
           "url": "https://open.spotify.com/artist/3Xdna5z74yNICNKqdaNX9z"
         }
       ],
-      "duration_ms": 244506,
-      "name": "Sweet '69",
-      "url": "https://open.spotify.com/track/55oE1XL7HceNY7VR7Nz4yu"
+      "duration_ms": 175213,
+      "name": "He's My Thing - 2007 Remaster",
+      "url": "https://open.spotify.com/track/5aMsCHy4nyk0LKJnk63aCr"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -579,22 +595,6 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "FREE I.H: This Is Not the One You've Been Waiting For",
-        "url": "https://open.spotify.com/album/2Epa4HydFeZJ6rxm8OZ7aw"
-      },
-      "artists": [
-        {
-          "name": "illuminati hotties",
-          "url": "https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O"
-        }
-      ],
-      "duration_ms": 94360,
-      "name": "superiority complex (big noise)",
-      "url": "https://open.spotify.com/track/4RAPGBiC5HJN7sFr1B6EsG"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
         "name": "Smell the Magic",
         "url": "https://open.spotify.com/album/0VgXvWzdF93KHuNdzzSgaB"
       },
@@ -607,6 +607,22 @@
       "duration_ms": 193480,
       "name": "Shove - Remastered",
       "url": "https://open.spotify.com/track/3qtJyjX8gnhKlqbNKdY9jb"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
+        "name": "FREE I.H: This Is Not the One You've Been Waiting For",
+        "url": "https://open.spotify.com/album/2Epa4HydFeZJ6rxm8OZ7aw"
+      },
+      "artists": [
+        {
+          "name": "illuminati hotties",
+          "url": "https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O"
+        }
+      ],
+      "duration_ms": 94360,
+      "name": "superiority complex (big noise)",
+      "url": "https://open.spotify.com/track/4RAPGBiC5HJN7sFr1B6EsG"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -643,22 +659,6 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Painkillers",
-        "url": "https://open.spotify.com/album/3ym30rhJeAnjr7DHcYpqJa"
-      },
-      "artists": [
-        {
-          "name": "Babes In Toyland\u00a0",
-          "url": "https://open.spotify.com/artist/3Xdna5z74yNICNKqdaNX9z"
-        }
-      ],
-      "duration_ms": 175213,
-      "name": "He's My Thing - 2007 Remaster",
-      "url": "https://open.spotify.com/track/5aMsCHy4nyk0LKJnk63aCr"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
         "name": "Ladies, Women and Girls",
         "url": "https://open.spotify.com/album/6kRFwx5Yj0sFOMeXgm8PbQ"
       },
@@ -671,22 +671,6 @@
       "duration_ms": 146946,
       "name": "Eating Toothpaste",
       "url": "https://open.spotify.com/track/3woDV8HAFSwgS8uTWrjYFI"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
-        "name": "The Punk Singer (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7DoTlKAupC8rNAdb0tNmZ2"
-      },
-      "artists": [
-        {
-          "name": "The Julie Ruin",
-          "url": "https://open.spotify.com/artist/3jCDV35GjiUGWYWKgMd9CF"
-        }
-      ],
-      "duration_ms": 196460,
-      "name": "Ha Ha Ha Armageddon",
-      "url": "https://open.spotify.com/track/0brTq66ZftMGbr6OfKFUM9"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -707,6 +691,22 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
+        "name": "The Punk Singer (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7DoTlKAupC8rNAdb0tNmZ2"
+      },
+      "artists": [
+        {
+          "name": "The Julie Ruin",
+          "url": "https://open.spotify.com/artist/3jCDV35GjiUGWYWKgMd9CF"
+        }
+      ],
+      "duration_ms": 196460,
+      "name": "Ha Ha Ha Armageddon",
+      "url": "https://open.spotify.com/track/0brTq66ZftMGbr6OfKFUM9"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
         "name": "Sick'em",
         "url": "https://open.spotify.com/album/39vMdABPceCzciL1mlolsg"
       },
@@ -719,38 +719,6 @@
       "duration_ms": 167333,
       "name": "Dead Men Don't Rape",
       "url": "https://open.spotify.com/track/4iGxxqZaZ2Z0YFiXgd8n8O"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
-        "name": "xxx",
-        "url": "https://open.spotify.com/album/7oFHZxaSE9WzWCi592zMhC"
-      },
-      "artists": [
-        {
-          "name": "Pussy Riot",
-          "url": "https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9"
-        }
-      ],
-      "duration_ms": 195155,
-      "name": "Make America Great Again",
-      "url": "https://open.spotify.com/track/0d858Q4cbhALzhzvljHC8k"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
-        "name": "Dry",
-        "url": "https://open.spotify.com/album/08Plby1CLD0UNgChnPD8lo"
-      },
-      "artists": [
-        {
-          "name": "PJ Harvey",
-          "url": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
-        }
-      ],
-      "duration_ms": 198200,
-      "name": "Dress",
-      "url": "https://open.spotify.com/track/3ajG91JkP3bAaLrDjywKNj"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -771,6 +739,22 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
+        "name": "xxx",
+        "url": "https://open.spotify.com/album/7oFHZxaSE9WzWCi592zMhC"
+      },
+      "artists": [
+        {
+          "name": "Pussy Riot",
+          "url": "https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9"
+        }
+      ],
+      "duration_ms": 195155,
+      "name": "Make America Great Again",
+      "url": "https://open.spotify.com/track/0d858Q4cbhALzhzvljHC8k"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
         "name": "Luxury Problem",
         "url": "https://open.spotify.com/album/5QZhFMU4gDHawZeZFCjKXr"
       },
@@ -783,6 +767,38 @@
       "duration_ms": 248893,
       "name": "Bad Ass Bitch",
       "url": "https://open.spotify.com/track/6RnIQtsHeCWSA9ILQgx6J1"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
+        "name": "Run Fast",
+        "url": "https://open.spotify.com/album/0BSqUgcOoDsMtSro646c8f"
+      },
+      "artists": [
+        {
+          "name": "The Julie Ruin",
+          "url": "https://open.spotify.com/artist/3jCDV35GjiUGWYWKgMd9CF"
+        }
+      ],
+      "duration_ms": 231920,
+      "name": "Just My Kind",
+      "url": "https://open.spotify.com/track/2mc0Lq811WFLcfYgggz0fp"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
+        "name": "Dry",
+        "url": "https://open.spotify.com/album/08Plby1CLD0UNgChnPD8lo"
+      },
+      "artists": [
+        {
+          "name": "PJ Harvey",
+          "url": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+        }
+      ],
+      "duration_ms": 198200,
+      "name": "Dress",
+      "url": "https://open.spotify.com/track/3ajG91JkP3bAaLrDjywKNj"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -819,22 +835,6 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Run Fast",
-        "url": "https://open.spotify.com/album/0BSqUgcOoDsMtSro646c8f"
-      },
-      "artists": [
-        {
-          "name": "The Julie Ruin",
-          "url": "https://open.spotify.com/artist/3jCDV35GjiUGWYWKgMd9CF"
-        }
-      ],
-      "duration_ms": 231920,
-      "name": "Just My Kind",
-      "url": "https://open.spotify.com/track/2mc0Lq811WFLcfYgggz0fp"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
         "name": "Rhythm and Paranoia: The Best of Bush Tetras",
         "url": "https://open.spotify.com/album/1N88J8RmLwvapgXTbuZe79"
       },
@@ -863,6 +863,22 @@
       "duration_ms": 228191,
       "name": "Where's My Wife",
       "url": "https://open.spotify.com/track/7MY32OSePqeLg5YPAqEkEc"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
+        "name": "Run Fast",
+        "url": "https://open.spotify.com/album/0BSqUgcOoDsMtSro646c8f"
+      },
+      "artists": [
+        {
+          "name": "The Julie Ruin",
+          "url": "https://open.spotify.com/artist/3jCDV35GjiUGWYWKgMd9CF"
+        }
+      ],
+      "duration_ms": 199480,
+      "name": "Girls Like Us",
+      "url": "https://open.spotify.com/track/55iEQ6oFvMsQm2eLGl4OIC"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -943,22 +959,6 @@
       "duration_ms": 123240,
       "name": "What Kind of Monster Are You?",
       "url": "https://open.spotify.com/track/7AfEKgIdg2jYvarZwNJIXd"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
-        "name": "Run Fast",
-        "url": "https://open.spotify.com/album/0BSqUgcOoDsMtSro646c8f"
-      },
-      "artists": [
-        {
-          "name": "The Julie Ruin",
-          "url": "https://open.spotify.com/artist/3jCDV35GjiUGWYWKgMd9CF"
-        }
-      ],
-      "duration_ms": 199480,
-      "name": "Girls Like Us",
-      "url": "https://open.spotify.com/track/55iEQ6oFvMsQm2eLGl4OIC"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Last Splash",
-        "url": "https://open.spotify.com/album/4lxW0axOKlImAQ0akMRz61"
-      },
-      "artists": [
-        {
-          "name": "The Breeders",
-          "url": "https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp"
-        }
-      ],
-      "duration_ms": 213693,
-      "name": "Cannonball",
-      "url": "https://open.spotify.com/track/11nv53N7ZnNTCgyl8yxvYd"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
         "name": "Frenching the Bully",
         "url": "https://open.spotify.com/album/0x27NVxUSjXYF4oHDDlboO"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 177960,
       "name": "Second Skin",
       "url": "https://open.spotify.com/track/6pfQbtWvs7PtSBDGxLEyGB"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
+        "name": "Last Splash",
+        "url": "https://open.spotify.com/album/4lxW0axOKlImAQ0akMRz61"
+      },
+      "artists": [
+        {
+          "name": "The Breeders",
+          "url": "https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp"
+        }
+      ],
+      "duration_ms": 213693,
+      "name": "Cannonball",
+      "url": "https://open.spotify.com/track/11nv53N7ZnNTCgyl8yxvYd"
     },
     {
       "added_at": "2024-10-07 20:36:39",

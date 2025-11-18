@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uqkwkR49kK.md) - [plain]
 
 > A collection of insane progressive rock creations, from classic acts to recent gems\. Cover: Rush
 
-[Spotify](https://open.spotify.com/user/spotify) - 375,221 likes - 60 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,268 likes - 60 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uqkwkR49kK.md) - [plain]
 | 7 | [Five Rooms](https://open.spotify.com/track/4qZGUujSv1XktGbzvH6jA3) | [Wobbler](https://open.spotify.com/artist/00Uv0804nrBM2RxUBTkyHj) | [Dwellers of the Deep](https://open.spotify.com/album/13tZz9iMXj12RqBfIQHa5m) | 8:27 |
 | 8 | [Roundabout \- 2008 Remaster](https://open.spotify.com/track/7lPjS6Yd4lRk4BsboDsm1H) | [Yes](https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil) | [Fragile](https://open.spotify.com/album/4X6gq5bgpGXcHINlFWzriM) | 8:35 |
 | 9 | [Tom Sawyer](https://open.spotify.com/track/3QZ7uX97s82HFYSmQUAN1D) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Moving Pictures \(2011 Remaster\)](https://open.spotify.com/album/2xg7iIKoSqaDNpDbJnyCjY) | 4:36 |
-| 10 | [Time](https://open.spotify.com/track/3TO7bbrUKrOSPGRTB5MeCz) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Dark Side of the Moon](https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv) | 6:53 |
+| 10 | [Time](https://open.spotify.com/track/3TO7bbrUKrOSPGRTB5MeCz) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Dark Side of the Moon](https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv) | 7:02 |
 | 11 | [Time To Turn](https://open.spotify.com/track/3DW1BXUHalgmS7QfcS1TnY) | [Eloy](https://open.spotify.com/artist/00ZLLJ51l9Ir5gyaGSUYxL) | [Time To Turn](https://open.spotify.com/album/24xpef77qNidD1GoWXBHLf) | 4:34 |
 | 12 | [Folklore](https://open.spotify.com/track/5BQR1vcdmvhGvK1RvZyxdQ) | [Big Big Train](https://open.spotify.com/artist/68VJJPVAVNAmwsDDf1i70g) | [Folklore](https://open.spotify.com/album/3j1MgNFNI90XdSTEGDN4pa) | 7:30 |
 | 13 | [Reflection](https://open.spotify.com/track/0R7HFX1LW3E0ZR5BnAJLHz) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Lateralus](https://open.spotify.com/album/5l5m1hnH4punS1GQXgEi3T) | 11:07 |

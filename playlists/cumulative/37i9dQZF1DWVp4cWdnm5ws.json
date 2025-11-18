@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Discover new artists on the horizon this 2025. Cover: Justin Vasquez\n",
+  "description": "Discover new artists on the horizon this 2025. Cover: JERGE\n",
   "name": "RADAR Philippines",
   "tracks": [
     {
@@ -210,6 +210,24 @@
       "duration_ms": 227268,
       "name": "All These Ladies",
       "url": "https://open.spotify.com/track/4IziPWd0KztwFIRzPw1Ahy"
+    },
+    {
+      "album": {
+        "name": "Halabyu",
+        "url": "https://open.spotify.com/album/2OPCyTjalGPWV3a4wAViOD"
+      },
+      "artists": [
+        {
+          "name": "JERGE",
+          "url": "https://open.spotify.com/artist/220RvBKeVFbVEZf3YE2tKC"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177500,
+      "name": "Alphamart",
+      "url": "https://open.spotify.com/track/31lMscTTCcX8AJF6uLYxUy"
     },
     {
       "album": {
@@ -2856,6 +2874,28 @@
       "duration_ms": 121660,
       "name": "Makasarili Malambing (feat. Hev Abi)",
       "url": "https://open.spotify.com/track/24lbO7qor0IB4u9uu8pDw8"
+    },
+    {
+      "album": {
+        "name": "Malakas",
+        "url": "https://open.spotify.com/album/3YwYxIwy1rItrhCOd56dW9"
+      },
+      "artists": [
+        {
+          "name": "Young Blood Neet",
+          "url": "https://open.spotify.com/artist/0Vl8gbpWPr8B6N7g5UtPSU"
+        },
+        {
+          "name": "Kiyo",
+          "url": "https://open.spotify.com/artist/6gcteR920pLEynlHzjSRYd"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183596,
+      "name": "Malakas",
+      "url": "https://open.spotify.com/track/5F2HTYUiHQIt4nVgsUwJaE"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2013. Cover: HAIM ",
-  "num_followers": 92210,
+  "num_followers": 92228,
   "original_name": "Best of Indie 2013",
   "owner": {
     "name": "Spotify",
@@ -1387,6 +1387,26 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
+        "name": "Lockjaw",
+        "url": "https://open.spotify.com/album/4wngUMjPQwiOngxqKPuh5p"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+        }
+      ],
+      "duration_ms": 221894,
+      "name": "Drop The Game",
+      "url": "https://open.spotify.com/track/06WnUZymWyJamDivTWqJZA"
+    },
+    {
+      "added_at": "2025-03-14 13:17:39",
+      "album": {
         "name": "2.0",
         "url": "https://open.spotify.com/album/7MvpqHRTRxHu7QoPiYnmzH"
       },
@@ -1419,26 +1439,6 @@
       "duration_ms": 242773,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/7a6D9wPtTDFZs8gvVY7b6t"
-    },
-    {
-      "added_at": "2025-03-14 13:17:39",
-      "album": {
-        "name": "Lockjaw",
-        "url": "https://open.spotify.com/album/4wngUMjPQwiOngxqKPuh5p"
-      },
-      "artists": [
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        },
-        {
-          "name": "Chet Faker",
-          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
-        }
-      ],
-      "duration_ms": 221894,
-      "name": "Drop The Game",
-      "url": "https://open.spotify.com/track/06WnUZymWyJamDivTWqJZA"
     },
     {
       "added_at": "2025-03-14 13:17:39",

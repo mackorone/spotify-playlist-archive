@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 
 > The latest, greatest cinema soundtracks from the big and small screen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,817 likes - 211 songs - 9 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,845 likes - 211 songs - 9 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 21 | [Forgiveness](https://open.spotify.com/track/6VqWBqnsyN0nWx3YPCBgru) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0), [Eldbjørg Hemsing](https://open.spotify.com/artist/4M2W6hcJWi6Nrd3XelpO3F) | [Forgiveness \(from the Netflix Film "Frankenstein"\)](https://open.spotify.com/album/3upmJbTOVXwMtDY2jyKqA2) | 3:35 |
 | 22 | [The Witcher](https://open.spotify.com/track/5XMm4Tg8JWNgrWDU8axY2j) | [Joseph Trapanese](https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V), [Max Davidoff\-Grey](https://open.spotify.com/artist/4QmLB4qMUKHeobmZwF2Uq7) | [The Witcher: Season 4 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/4FxNc36IbNBg43EJGyUV4D) | 1:49 |
 | 23 | [Non Changers](https://open.spotify.com/track/74qeGUYERO0vLzaz968AXo) | [Danny Bensi and Saunder Jurriaans](https://open.spotify.com/artist/7fO0iCzJh7IvVEFiFYfOC2) | [Anniversary \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4aEcsGr13IIYselXA2CxMQ) | 2:25 |
-| 24 | [Behind the Wheel](https://open.spotify.com/track/5P1SUXVadKbfRUtbimwQC8) | [Lorne Balfe](https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es), [Peter Adams](https://open.spotify.com/artist/2XvcbN0NtGEGvDHKLD44zf) | [Hallow Road \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1i12jw1hBCUqYljvCzp2rU) | 4:38 |
+| 24 | [Behind the Wheel](https://open.spotify.com/track/5P1SUXVadKbfRUtbimwQC8) | [Lorne Balfe](https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es), [Peter Adams](https://open.spotify.com/artist/67z7CbEMlZAhgXLoMzQ5s6) | [Hallow Road \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1i12jw1hBCUqYljvCzp2rU) | 4:38 |
 | 25 | [Of the undiscovered country \- From The Original Motion Picture "Hamnet"](https://open.spotify.com/track/5psjdB5UIHuDvfZqxjRIGb) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Of the undiscovered country \(From The Original Motion Picture "Hamnet"\)](https://open.spotify.com/album/6pt0WcKOkyqZkdGz04zoY9) | 5:22 |
 | 26 | [Cinema Theme \- Quintet \- Bonus Track](https://open.spotify.com/track/3YIUMF5pnDYEYY42BMVvHi) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [Cinema Theme \- Quintet \(from the Original Motion Picture "Jay Kelly"\) \[Bonus Track\]](https://open.spotify.com/album/6Q5unIe3EWRHuazeFjZCj6) | 0:56 |
 | 27 | [Star Saliva / Industry](https://open.spotify.com/track/068BmVbU8nUYlNwVvGwh7J) | [Jerskin Fendrix](https://open.spotify.com/artist/42ktBPs67SvwvkWZDtn6TW) | [Star Saliva / Industry \(from the "Bugonia" Soundtrack\)](https://open.spotify.com/album/4904gfwk38G97MZDdu7lQv) | 5:19 |

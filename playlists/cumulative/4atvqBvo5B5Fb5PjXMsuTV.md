@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 16 Nov 19:04 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 18 Nov 23:04 UTC.
 
-5,826 songs - 13 day 12 hr 1 min
+5,829 songs - 13 day 12 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -410,6 +410,7 @@
 | [BABASONICO](https://open.spotify.com/track/45JcbGAWOaqL8X7DFAMeP3) | [Stiffy](https://open.spotify.com/artist/7g7N6cRr5izWiIWvffgwWO), [turrobaby](https://open.spotify.com/artist/3ZZY9rHZxm8lmug0aoX3pB), [Zell](https://open.spotify.com/artist/0bslv0fksKPyiH3LQqHagi), [AgusFortnite2008](https://open.spotify.com/artist/6S0NgDvO6FINUMYschvqZe) | [BABASONICO](https://open.spotify.com/album/74rfiKnITSdktvbgqi5Kut) | 1:46 | 2024-11-06 | 2024-11-08 |
 | [Baby](https://open.spotify.com/track/37bY677poQAFeSdBNTN7Ik) | [Standing On The Corner](https://open.spotify.com/artist/5yD3wA48IGUoCVboe0LdHx) | [Baby](https://open.spotify.com/album/15t5pAZbc5EAnu3Uc2BKHX) | 6:33 | 2025-05-14 | 2025-05-22 |
 | [Baby \(Is it a Crime\)](https://open.spotify.com/track/6NOrpcicPUh2eaj8bAD44u) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Baby \(Is it a Crime\)](https://open.spotify.com/album/6UyYWiOrIJMlccE1DmNRHK) | 2:44 | 2025-02-08 | 2025-02-15 |
+| [baby blue](https://open.spotify.com/track/2iUv18ruokAyhWk9w0CTYy) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [baby blue](https://open.spotify.com/album/2GRdKh2u9tleGC5gGWV8lx) | 3:16 | 2025-11-17 |  |
 | [Baby Blue Movie](https://open.spotify.com/track/6kgn7bCEXk0A5ZrPqrRZwc) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Baby Blue Movie](https://open.spotify.com/album/3T7i2gfwdTmMOUD5wiuoAj) | 4:04 | 2024-06-04 | 2024-06-06 |
 | [Baby Bright](https://open.spotify.com/track/3mqmXj2IkjNbWNwCrQy8cw) | [Nadia Reid](https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn) | [Baby Bright](https://open.spotify.com/album/1zmDYIWkJIJfbqXTtUoY0X) | 3:52 | 2024-10-09 | 2024-10-11 |
 | [Baby Charmander](https://open.spotify.com/track/2HPBumftSL56qbrsVITxhv) | [Conductor Williams](https://open.spotify.com/artist/1VuBGdfqq86BQyiDactQAC), [Rei The Imperial](https://open.spotify.com/artist/0FXVFwfExhiohOaMQqBsVV) | [Baby Charmander](https://open.spotify.com/album/0XbqdPJTIJ25lwXeXt31bP) | 1:58 | 2024-08-22 | 2024-08-24 |
@@ -744,6 +745,7 @@
 | [Breaking Into Acting](https://open.spotify.com/track/6SxRzxiueXTwb7K07i9Ga3) | [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp), [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Breaking Into Acting](https://open.spotify.com/album/2qXpq3oE0EZB9LMmckSxbb) | 3:34 | 2025-04-24 | 2025-04-26 |
 | [BREAKTHESOUND](https://open.spotify.com/track/0XgKaZxMHBnNNGkz7n7Pz8) | [TURQUOISEDEATH](https://open.spotify.com/artist/3TEsU8VzLEGC52THfNvh9B) | [BREAKTHESOUND](https://open.spotify.com/album/1VnLVU1rNDGGLCjd0Sfe3T) | 1:57 | 2024-11-29 | 2024-12-04 |
 | [BREAKUP](https://open.spotify.com/track/1z5IgJwq78uRL7l9AZ0qpN) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [BREAKUP](https://open.spotify.com/album/2JGIZABHaQ64BJn646SwgE) | 2:40 | 2025-11-08 |  |
+| [Breath](https://open.spotify.com/track/3L5wYisClQZ30ercc1hdn6) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [A Violet to Remember](https://open.spotify.com/album/2zzM42TgcBC65kOLj9hNwo) | 3:02 | 2025-11-17 |  |
 | [Breath and Air](https://open.spotify.com/track/1O5kwGOmJG14kjPWKKDPK6) | [Heather Nova](https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z) | [Breath and Air](https://open.spotify.com/album/5IBrs2SIkhxt25XlOBdaYl) | 4:03 | 2024-11-01 | 2024-11-05 |
 | [Breath, Eyes, Memory](https://open.spotify.com/track/24vI2utYaLpJm0kKoku99s) | [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y), [J\. Rawls](https://open.spotify.com/artist/3M5miYDu8lWrm0A3Q0OTag) | [Breath, Eyes, Memory](https://open.spotify.com/album/2TMwjsy07LdO8KCxm3NTwJ) | 2:44 | 2024-09-06 | 2024-09-11 |
 | [Breathe](https://open.spotify.com/track/691BUkDzJN4qpyfz5PX2n2) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk) | [Breathe](https://open.spotify.com/album/3k0I7evLrcIRNdV1HbNfvW) | 2:29 | 2025-03-03 | 2025-03-07 |
@@ -820,7 +822,7 @@
 | [C'est La Vie](https://open.spotify.com/track/0b9RNAzGtDRRMQS1cF9HXT) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [C'est La Vie](https://open.spotify.com/album/1FGfkxrv2RIPNjQgXCt8p0) | 2:40 | 2025-03-03 | 2025-03-07 |
 | [C\-Zone](https://open.spotify.com/track/0e8J8pmIGKSGhtySxkSzJe) | [Mnogoznaal](https://open.spotify.com/artist/16ZNqMkDZrzd8fTXeN2kUH) | [C\-Zone](https://open.spotify.com/album/5rXaaiXxddjwDVls1y4reF) | 2:04 | 2024-11-29 | 2024-12-05 |
 | [C2](https://open.spotify.com/track/4DrvOsrKmR9wD6yR0VFuvn) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [C2](https://open.spotify.com/album/1M1k2yttLtpOFqDLzLY7OM) | 3:27 | 2024-09-30 | 2024-10-03 |
-| [CA$h IT OUT](https://open.spotify.com/track/2scc8cik1a5NP6qoQBcz2B) | [roro](https://open.spotify.com/artist/0Y9jBmQGmBdDhlu3bSxECs) | [CA$h IT OUT](https://open.spotify.com/album/6aukeZnZGh7vL4ad9raFVd) | 2:26 | 2025-11-07 |  |
+| [CA$h IT OUT](https://open.spotify.com/track/2scc8cik1a5NP6qoQBcz2B) | [roro](https://open.spotify.com/artist/0Y9jBmQGmBdDhlu3bSxECs) | [CA$h IT OUT](https://open.spotify.com/album/6aukeZnZGh7vL4ad9raFVd) | 2:26 | 2025-11-07 | 2025-11-18 |
 | [CA$HMERE TEAR$](https://open.spotify.com/track/5WvywljeMsfYjcCSrZguav) | [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK) | [CA$HMERE TEAR$](https://open.spotify.com/album/4HKTUnrk9UQ6N8Jbd1oDGs) | 4:02 | 2024-10-25 | 2024-10-29 |
 | [Cali 2 Canada](https://open.spotify.com/track/6XfdzHJyQpNuMpt3hESXui) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Warren G](https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE) | [Cali 2 Canada](https://open.spotify.com/album/1vvtix4jni9CaCLldZgmlX) | 3:06 | 2024-06-01 | 2024-06-05 |
 | [cali\_demo\_v3](https://open.spotify.com/track/1YoebeJtLySjtDIWw0aj5z) | [LUIS](https://open.spotify.com/artist/1GdFniPzxbAmIGIn89RwoI) | [cali\_demo\_v3](https://open.spotify.com/album/2qMzDawY1Dp5sHB76YF8oZ) | 2:52 | 2024-10-02 | 2024-10-05 |
@@ -878,7 +880,7 @@
 | [CAT'S EYE](https://open.spotify.com/track/5lzjvTvybxPQLlGO3SVm5l) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [CAT'S EYE](https://open.spotify.com/album/3SEAcawf6EhTRl42ulumyd) | 3:00 | 2025-09-16 | 2025-09-20 |
 | [Catalina](https://open.spotify.com/track/1WrIm1ktonrh7Zu1oOo4nY) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Yaisel LM](https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL) | [Catalina](https://open.spotify.com/album/4iI6RDSCw08g9HvRMZGN6p) | 3:00 | 2024-07-12 | 2024-07-17 |
 | [Cataract Time](https://open.spotify.com/track/681ZfGnArxSspYkBw7eg2n) | [Destroyer](https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In) | [Cataract Time](https://open.spotify.com/album/0kE0sFfDTd1n8y8hW0MzoY) | 8:00 | 2025-03-07 | 2025-03-15 |
-| [catastrophe](https://open.spotify.com/track/40wXMYAjbTb9NsYx7O56PG) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [catastrophe](https://open.spotify.com/album/6x6rAfxmJoAF0MBzYzOyUW) | 2:10 | 2025-11-07 |  |
+| [catastrophe](https://open.spotify.com/track/40wXMYAjbTb9NsYx7O56PG) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [catastrophe](https://open.spotify.com/album/6x6rAfxmJoAF0MBzYzOyUW) | 2:10 | 2025-11-07 | 2025-11-18 |
 | [CATCH AND RELEASE](https://open.spotify.com/track/0xFDEEdNrcqK6OKPQGsyok) | [Alice Glass](https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3) | [CATCH AND RELEASE](https://open.spotify.com/album/4jUocI6n5D4jEWx4GqYtpu) | 2:24 | 2025-07-17 | 2025-07-25 |
 | [Catch Fire](https://open.spotify.com/track/5RA7rpNFBxZfDEH14n27TO) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Catch Fire](https://open.spotify.com/album/7AMwbkL82YAcUR4Rflz7Lx) | 1:59 | 2024-10-31 | 2024-11-02 |
 | [Catch Me If You Can](https://open.spotify.com/track/08xkny1wm9GWKnnzGRv3Xv) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z) | [Catch Me If You Can / So Far Away](https://open.spotify.com/album/2Vhdv7qbPOsqSCw6F6EA6E) | 2:47 | 2025-05-30 | 2025-06-07 |
@@ -1334,7 +1336,7 @@
 | [DIE FOR ME](https://open.spotify.com/track/0qKKAOF4kezKlvtyYyv12C) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [DIE FOR ME](https://open.spotify.com/album/1rlrlI6iBRK1WV7KZaEhtA) | 3:26 | 2024-08-23 | 2024-08-29 |
 | [Die For The Party](https://open.spotify.com/track/1JvV2nnstVEGe8rZ85EM41) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Die For The Party](https://open.spotify.com/album/7hEV7T7NjXra4EtsUGuVKZ) | 2:33 | 2024-09-20 | 2024-09-26 |
 | [Die For You](https://open.spotify.com/track/6cLd2xZirorZbZY5500XDA) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [Die For You](https://open.spotify.com/album/2pLF47SOE8fRwUy31Wesl6) | 3:39 | 2025-05-19 | 2025-05-29 |
-| [Die Happy](https://open.spotify.com/track/4lU0whPQnQn0EMgmF46iz0) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Die Happy](https://open.spotify.com/album/25Sk6k5HonelxbWMChnl4k) | 3:49 | 2025-11-07 |  |
+| [Die Happy](https://open.spotify.com/track/4lU0whPQnQn0EMgmF46iz0) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Die Happy](https://open.spotify.com/album/25Sk6k5HonelxbWMChnl4k) | 3:49 | 2025-11-07 | 2025-11-18 |
 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-08-16 | 2024-08-23 |
 | [Dies Irae](https://open.spotify.com/track/56zVJmHbhDxM1izT6A4p64) | [Synestia](https://open.spotify.com/artist/5q6QQFwE4elu0q1HA10HTb) | [Dies Irae](https://open.spotify.com/album/4l6hMYETnY8w5ta1m4h8yx) | 4:44 | 2025-02-06 | 2025-02-13 |
 | [Diet Pepsi](https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Diet Pepsi](https://open.spotify.com/album/0XA403JTounqFh2owquBXu) | 2:49 | 2024-08-09 | 2024-08-14 |
@@ -3684,6 +3686,7 @@
 | [One By One](https://open.spotify.com/track/3desWYUkTBp3imvV6VkdXx) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [One By One](https://open.spotify.com/album/4MCfG6iC1dGk3ZghC5op0K) | 2:59 | 2024-10-30 | 2024-11-01 |
 | [One Eye Open](https://open.spotify.com/track/1SWrMW3VEXSVWOsXFl22U2) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [One Eye Open](https://open.spotify.com/album/7BLnL74dM0zUE91Fqfd5ck) | 3:32 | 2024-10-25 | 2024-10-30 |
 | [One More Dance](https://open.spotify.com/track/2SyMl67slr9yJA9YJFC3mV) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [One More Dance](https://open.spotify.com/album/2mw1qufYqXPQ9yqA5vA0Aw) | 3:08 | 2025-02-07 | 2025-02-15 |
+| [ONE MORE TIME](https://open.spotify.com/track/7FyKqLLICVzwBiAUtbVYUW) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [ONE MORE TIME](https://open.spotify.com/album/5VxaQoQltZT93oaGc72Csy) | 3:15 | 2025-11-17 |  |
 | [One of My Bedbugs Ate My Pussy](https://open.spotify.com/track/5nk6lGgzXObbIl9PmHOQGb) | [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM) | [One of My Bedbugs Ate My Pussy](https://open.spotify.com/album/1q7rmLsftastmCekfQ1q95) | 2:52 | 2025-06-09 | 2025-06-21 |
 | [One of the Greats](https://open.spotify.com/track/4MMQdCB91BabMdpeFSxhv3) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [One of the Greats](https://open.spotify.com/album/2tJD14Pr3uNltSZJ4Iz4Yi) | 6:32 | 2025-09-24 | 2025-10-05 |
 | [one of the ones](https://open.spotify.com/track/5suD5LTKXheT2zBtXtPfEy) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [one of the ones](https://open.spotify.com/album/6N5pQPXCLUTGfOMUwYzPgb) | 2:05 | 2025-07-25 | 2025-08-06 |
