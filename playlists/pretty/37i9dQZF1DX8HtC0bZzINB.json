@@ -1,6 +1,6 @@
 {
   "description": "Yerli Afro, Latin ve trap ritimleri ile yaz\u0131n en hareketli hali.",
-  "num_followers": 107284,
+  "num_followers": 107289,
   "original_name": "Yaz Ritmi",
   "owner": {
     "name": "Spotify",
@@ -871,26 +871,6 @@
     {
       "added_at": "2024-07-08 08:41:13",
       "album": {
-        "name": "PARAMPAR\u00c7A",
-        "url": "https://open.spotify.com/album/6s48Hfq7goYvPnRbTXSOOR"
-      },
-      "artists": [
-        {
-          "name": "Papa Benj",
-          "url": "https://open.spotify.com/artist/6VxQOfN8SzlyH78rd7fyQB"
-        },
-        {
-          "name": "Oversize",
-          "url": "https://open.spotify.com/artist/56P4MjAIYVf0ruSy9pzKLs"
-        }
-      ],
-      "duration_ms": 128776,
-      "name": "PARAMPAR\u00c7A",
-      "url": "https://open.spotify.com/track/4NA5nUTn0KM457fR9ba20A"
-    },
-    {
-      "added_at": "2024-07-08 08:41:13",
-      "album": {
         "name": "Kod ad\u0131: D.E.V",
         "url": "https://open.spotify.com/album/4d3SG95olBXGm823dDxlj9"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 161632,
       "name": "Dillere Destan",
       "url": "https://open.spotify.com/track/4WVgsEp3WDLZUVU7Zmxxfd"
+    },
+    {
+      "added_at": "2024-07-08 08:41:13",
+      "album": {
+        "name": "PARAMPAR\u00c7A",
+        "url": "https://open.spotify.com/album/6s48Hfq7goYvPnRbTXSOOR"
+      },
+      "artists": [
+        {
+          "name": "Papa Benj",
+          "url": "https://open.spotify.com/artist/6VxQOfN8SzlyH78rd7fyQB"
+        },
+        {
+          "name": "Oversize",
+          "url": "https://open.spotify.com/artist/56P4MjAIYVf0ruSy9pzKLs"
+        }
+      ],
+      "duration_ms": 128776,
+      "name": "PARAMPAR\u00c7A",
+      "url": "https://open.spotify.com/track/4NA5nUTn0KM457fR9ba20A"
     }
   ],
   "unique_name": "Yaz Ritmi",

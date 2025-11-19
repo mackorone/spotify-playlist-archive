@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zPOPPFGNc8.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="http://tbhits.com/">Tommy Brown</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,792 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,805 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

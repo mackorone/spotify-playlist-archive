@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 165878,
+  "num_followers": 165881,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -499,6 +499,34 @@
     {
       "added_at": "2025-11-14 00:00:20",
       "album": {
+        "name": "Reload",
+        "url": "https://open.spotify.com/album/2z78ad2f2wX8aFJmI1emFo"
+      },
+      "artists": [
+        {
+          "name": "A Little Sound",
+          "url": "https://open.spotify.com/artist/1Jv2F8VFJsSr2XKte0vpbQ"
+        },
+        {
+          "name": "Kelvin 373",
+          "url": "https://open.spotify.com/artist/2dfy5XzFykgcuyOaUhMlrD"
+        },
+        {
+          "name": "Selecta J-Man",
+          "url": "https://open.spotify.com/artist/25UCJWhCAOcXmm7i4hLyNP"
+        },
+        {
+          "name": "Aries",
+          "url": "https://open.spotify.com/artist/2DhDWuXRLdMpGJKZzTuxPo"
+        }
+      ],
+      "duration_ms": 215172,
+      "name": "Reload",
+      "url": "https://open.spotify.com/track/1oM52NNGYAT961AgxEgv6E"
+    },
+    {
+      "added_at": "2025-11-14 00:00:20",
+      "album": {
         "name": "Don't Slow Down",
         "url": "https://open.spotify.com/album/05iSvXggDKaW49P1N4Tsi1"
       },
@@ -539,34 +567,6 @@
     {
       "added_at": "2025-11-14 00:00:20",
       "album": {
-        "name": "Reload",
-        "url": "https://open.spotify.com/album/2z78ad2f2wX8aFJmI1emFo"
-      },
-      "artists": [
-        {
-          "name": "A Little Sound",
-          "url": "https://open.spotify.com/artist/1Jv2F8VFJsSr2XKte0vpbQ"
-        },
-        {
-          "name": "Kelvin 373",
-          "url": "https://open.spotify.com/artist/2dfy5XzFykgcuyOaUhMlrD"
-        },
-        {
-          "name": "Selecta J-Man",
-          "url": "https://open.spotify.com/artist/25UCJWhCAOcXmm7i4hLyNP"
-        },
-        {
-          "name": "Aries",
-          "url": "https://open.spotify.com/artist/2DhDWuXRLdMpGJKZzTuxPo"
-        }
-      ],
-      "duration_ms": 215172,
-      "name": "Reload",
-      "url": "https://open.spotify.com/track/1oM52NNGYAT961AgxEgv6E"
-    },
-    {
-      "added_at": "2025-11-14 00:00:20",
-      "album": {
         "name": "Go Down Low",
         "url": "https://open.spotify.com/album/5h8WeWXrIe9MD4VZZleC8N"
       },
@@ -583,26 +583,6 @@
       "duration_ms": 112140,
       "name": "Go Down Low",
       "url": "https://open.spotify.com/track/6D2S9ubpTQZsOaPbgUdR7b"
-    },
-    {
-      "added_at": "2025-11-14 00:00:20",
-      "album": {
-        "name": "Bringing the pain",
-        "url": "https://open.spotify.com/album/1IIhfLfwtp1OQFYKfQLMZS"
-      },
-      "artists": [
-        {
-          "name": "Alonestar",
-          "url": "https://open.spotify.com/artist/1kwi1Q7X4jPTkHTgayxKhS"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 201299,
-      "name": "Bringing the pain",
-      "url": "https://open.spotify.com/track/5ptEed5dl6MPK5TbA8zvV5"
     },
     {
       "added_at": "2025-11-14 00:00:20",
@@ -635,6 +615,26 @@
       "duration_ms": 161206,
       "name": "To The Limit",
       "url": "https://open.spotify.com/track/1aaz5QC5JW5YuyYq8AGHTI"
+    },
+    {
+      "added_at": "2025-11-14 00:00:20",
+      "album": {
+        "name": "Bringing the pain",
+        "url": "https://open.spotify.com/album/1IIhfLfwtp1OQFYKfQLMZS"
+      },
+      "artists": [
+        {
+          "name": "Alonestar",
+          "url": "https://open.spotify.com/artist/1kwi1Q7X4jPTkHTgayxKhS"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 201299,
+      "name": "Bringing the pain",
+      "url": "https://open.spotify.com/track/5ptEed5dl6MPK5TbA8zvV5"
     },
     {
       "added_at": "2025-11-14 00:00:20",
@@ -723,6 +723,22 @@
     {
       "added_at": "2025-11-14 00:00:20",
       "album": {
+        "name": "Substance",
+        "url": "https://open.spotify.com/album/0VLtqQTq8jknSNAHmWPeog"
+      },
+      "artists": [
+        {
+          "name": "Delta Heavy",
+          "url": "https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T"
+        }
+      ],
+      "duration_ms": 226206,
+      "name": "Substance",
+      "url": "https://open.spotify.com/track/35xMkZ8QgiXQQgSujSzvTP"
+    },
+    {
+      "added_at": "2025-11-14 00:00:20",
+      "album": {
         "name": "Interstellar",
         "url": "https://open.spotify.com/album/6c2lgEoa6569HdwpGghy5C"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 206996,
       "name": "Stay The Night",
       "url": "https://open.spotify.com/track/4OyDiydPAu3q6rNcLp313U"
-    },
-    {
-      "added_at": "2025-11-14 00:00:20",
-      "album": {
-        "name": "Substance",
-        "url": "https://open.spotify.com/album/0VLtqQTq8jknSNAHmWPeog"
-      },
-      "artists": [
-        {
-          "name": "Delta Heavy",
-          "url": "https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T"
-        }
-      ],
-      "duration_ms": 226206,
-      "name": "Substance",
-      "url": "https://open.spotify.com/track/35xMkZ8QgiXQQgSujSzvTP"
     },
     {
       "added_at": "2025-11-14 00:00:20",
@@ -951,6 +951,26 @@
     {
       "added_at": "2025-11-14 00:00:20",
       "album": {
+        "name": "The Speaker",
+        "url": "https://open.spotify.com/album/3kQYo33KoxYrraQsXZpGBk"
+      },
+      "artists": [
+        {
+          "name": "T & Sugah",
+          "url": "https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH"
+        },
+        {
+          "name": "Grace Barton",
+          "url": "https://open.spotify.com/artist/6sliIMvgGGdk8GRPD2FwMx"
+        }
+      ],
+      "duration_ms": 158181,
+      "name": "The Speaker",
+      "url": "https://open.spotify.com/track/2dMSlDUweM20x4WjXbKTBi"
+    },
+    {
+      "added_at": "2025-11-14 00:00:20",
+      "album": {
         "name": "Out Of Control",
         "url": "https://open.spotify.com/album/5Fzg5JxyGtVdt10KoyHwYc"
       },
@@ -1031,22 +1051,6 @@
     {
       "added_at": "2025-11-14 00:00:20",
       "album": {
-        "name": "Give Up The Ghost",
-        "url": "https://open.spotify.com/album/1KvEL8BAgXyqxjtLVSVCHB"
-      },
-      "artists": [
-        {
-          "name": "Modestep",
-          "url": "https://open.spotify.com/artist/5zYJziKktyqWwmoAWXrShP"
-        }
-      ],
-      "duration_ms": 254482,
-      "name": "Give Up The Ghost",
-      "url": "https://open.spotify.com/track/1XA8bp2fTfWIucd3SOvWGt"
-    },
-    {
-      "added_at": "2025-11-14 00:00:20",
-      "album": {
         "name": "Dutty",
         "url": "https://open.spotify.com/album/5dfawAgRpWLQxOkQb1mT8v"
       },
@@ -1067,6 +1071,22 @@
     {
       "added_at": "2025-11-14 00:00:20",
       "album": {
+        "name": "Give Up The Ghost",
+        "url": "https://open.spotify.com/album/1KvEL8BAgXyqxjtLVSVCHB"
+      },
+      "artists": [
+        {
+          "name": "Modestep",
+          "url": "https://open.spotify.com/artist/5zYJziKktyqWwmoAWXrShP"
+        }
+      ],
+      "duration_ms": 254482,
+      "name": "Give Up The Ghost",
+      "url": "https://open.spotify.com/track/1XA8bp2fTfWIucd3SOvWGt"
+    },
+    {
+      "added_at": "2025-11-14 00:00:20",
+      "album": {
         "name": "Arctic",
         "url": "https://open.spotify.com/album/7lnZnX50hruW4tLEKahF5E"
       },
@@ -1083,30 +1103,6 @@
       "duration_ms": 146371,
       "name": "Arctic",
       "url": "https://open.spotify.com/track/4tNkhfKqbJSzOTKX6D276Q"
-    },
-    {
-      "added_at": "2025-11-14 00:00:20",
-      "album": {
-        "name": "TEK",
-        "url": "https://open.spotify.com/album/474HNg0vy4i1r6ZRTkyaIo"
-      },
-      "artists": [
-        {
-          "name": "Nasser UK",
-          "url": "https://open.spotify.com/artist/0OKtqx9di2GqRpRqA3eFpD"
-        },
-        {
-          "name": "Killa P",
-          "url": "https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ"
-        },
-        {
-          "name": "Addicted",
-          "url": "https://open.spotify.com/artist/29Z2ip6vZO0MhEynUazeWy"
-        }
-      ],
-      "duration_ms": 182068,
-      "name": "TEK (feat.Killa P)",
-      "url": "https://open.spotify.com/track/3erxcHJ61TSb6eewzR1pAU"
     },
     {
       "added_at": "2025-11-14 00:00:20",
@@ -1135,22 +1131,26 @@
     {
       "added_at": "2025-11-14 00:00:20",
       "album": {
-        "name": "The Speaker",
-        "url": "https://open.spotify.com/album/3kQYo33KoxYrraQsXZpGBk"
+        "name": "TEK",
+        "url": "https://open.spotify.com/album/474HNg0vy4i1r6ZRTkyaIo"
       },
       "artists": [
         {
-          "name": "T & Sugah",
-          "url": "https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH"
+          "name": "Nasser UK",
+          "url": "https://open.spotify.com/artist/0OKtqx9di2GqRpRqA3eFpD"
         },
         {
-          "name": "Grace Barton",
-          "url": "https://open.spotify.com/artist/6sliIMvgGGdk8GRPD2FwMx"
+          "name": "Killa P",
+          "url": "https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ"
+        },
+        {
+          "name": "Addicted",
+          "url": "https://open.spotify.com/artist/29Z2ip6vZO0MhEynUazeWy"
         }
       ],
-      "duration_ms": 158181,
-      "name": "The Speaker",
-      "url": "https://open.spotify.com/track/2dMSlDUweM20x4WjXbKTBi"
+      "duration_ms": 182068,
+      "name": "TEK (feat.Killa P)",
+      "url": "https://open.spotify.com/track/3erxcHJ61TSb6eewzR1pAU"
     },
     {
       "added_at": "2025-11-14 00:00:20",
@@ -1279,26 +1279,6 @@
     {
       "added_at": "2025-11-14 00:00:20",
       "album": {
-        "name": "On Your Feet",
-        "url": "https://open.spotify.com/album/1934Phan5spsO5879iwokO"
-      },
-      "artists": [
-        {
-          "name": "DRS",
-          "url": "https://open.spotify.com/artist/0WCfu8x76QX3CjVgiE3Hn2"
-        },
-        {
-          "name": "Dogger",
-          "url": "https://open.spotify.com/artist/79gz89B3EUt31SNQVQW1tU"
-        }
-      ],
-      "duration_ms": 279069,
-      "name": "On Your Feet",
-      "url": "https://open.spotify.com/track/75KWXVroEfF79xQPDOG9js"
-    },
-    {
-      "added_at": "2025-11-14 00:00:20",
-      "album": {
         "name": "Sell My Soul (VIP)",
         "url": "https://open.spotify.com/album/0i1uC1hcfO2iAZELFriz5N"
       },
@@ -1323,6 +1303,26 @@
     {
       "added_at": "2025-11-14 00:00:20",
       "album": {
+        "name": "On Your Feet",
+        "url": "https://open.spotify.com/album/1934Phan5spsO5879iwokO"
+      },
+      "artists": [
+        {
+          "name": "DRS",
+          "url": "https://open.spotify.com/artist/0WCfu8x76QX3CjVgiE3Hn2"
+        },
+        {
+          "name": "Dogger",
+          "url": "https://open.spotify.com/artist/79gz89B3EUt31SNQVQW1tU"
+        }
+      ],
+      "duration_ms": 279069,
+      "name": "On Your Feet",
+      "url": "https://open.spotify.com/track/75KWXVroEfF79xQPDOG9js"
+    },
+    {
+      "added_at": "2025-11-14 00:00:20",
+      "album": {
         "name": "Satan's Alley",
         "url": "https://open.spotify.com/album/12GOuAO4h3wsOrHHOwCPFs"
       },
@@ -1339,6 +1339,22 @@
       "duration_ms": 244114,
       "name": "Satan's Alley",
       "url": "https://open.spotify.com/track/0hMFRwnaH2l3vAPfwp0m8h"
+    },
+    {
+      "added_at": "2025-11-14 00:00:20",
+      "album": {
+        "name": "BODY DROP (Won't Stop)",
+        "url": "https://open.spotify.com/album/02YJzamF4j3mvuxsKHaq5A"
+      },
+      "artists": [
+        {
+          "name": "Pirapus",
+          "url": "https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe"
+        }
+      ],
+      "duration_ms": 224914,
+      "name": "BODY DROP (Won't Stop)",
+      "url": "https://open.spotify.com/track/6k65tpDYrP39jUPQcxvhmy"
     },
     {
       "added_at": "2025-11-14 00:00:20",
@@ -1363,22 +1379,6 @@
       "duration_ms": 182683,
       "name": "Do It Like Me",
       "url": "https://open.spotify.com/track/7JXxPzRxLhN9V1NJJw20TH"
-    },
-    {
-      "added_at": "2025-11-14 00:00:20",
-      "album": {
-        "name": "BODY DROP (Won't Stop)",
-        "url": "https://open.spotify.com/album/02YJzamF4j3mvuxsKHaq5A"
-      },
-      "artists": [
-        {
-          "name": "Pirapus",
-          "url": "https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe"
-        }
-      ],
-      "duration_ms": 224914,
-      "name": "BODY DROP (Won't Stop)",
-      "url": "https://open.spotify.com/track/6k65tpDYrP39jUPQcxvhmy"
     },
     {
       "added_at": "2025-11-14 00:00:20",
@@ -1439,26 +1439,6 @@
     {
       "added_at": "2025-11-14 00:00:20",
       "album": {
-        "name": "The Samurai",
-        "url": "https://open.spotify.com/album/4KixaoegcviwhbvACyYj1H"
-      },
-      "artists": [
-        {
-          "name": "Hoax",
-          "url": "https://open.spotify.com/artist/3W1enT2cxmP2PjLG5zwmby"
-        },
-        {
-          "name": "Purple Velvet Curtains",
-          "url": "https://open.spotify.com/artist/5UNXmWQKKqqBCxmcotxXmO"
-        }
-      ],
-      "duration_ms": 231586,
-      "name": "The Samurai",
-      "url": "https://open.spotify.com/track/1CfQ6NhnjR4JO9wnHKzleb"
-    },
-    {
-      "added_at": "2025-11-14 00:00:20",
-      "album": {
         "name": "Outlaw",
         "url": "https://open.spotify.com/album/1CmpfvkAdZF2M3X25bwsWQ"
       },
@@ -1475,6 +1455,26 @@
       "duration_ms": 177136,
       "name": "Outlaw",
       "url": "https://open.spotify.com/track/1dgTcXVMLvp0aeiBFPtW9a"
+    },
+    {
+      "added_at": "2025-11-14 00:00:20",
+      "album": {
+        "name": "The Samurai",
+        "url": "https://open.spotify.com/album/4KixaoegcviwhbvACyYj1H"
+      },
+      "artists": [
+        {
+          "name": "Hoax",
+          "url": "https://open.spotify.com/artist/3W1enT2cxmP2PjLG5zwmby"
+        },
+        {
+          "name": "Purple Velvet Curtains",
+          "url": "https://open.spotify.com/artist/5UNXmWQKKqqBCxmcotxXmO"
+        }
+      ],
+      "duration_ms": 231586,
+      "name": "The Samurai",
+      "url": "https://open.spotify.com/track/1CfQ6NhnjR4JO9wnHKzleb"
     },
     {
       "added_at": "2025-11-14 00:00:20",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2025-11-14 00:00:20",
       "album": {
-        "name": "Romance EP",
-        "url": "https://open.spotify.com/album/2DMEFv7wDdSCICaYXGZ1EL"
-      },
-      "artists": [
-        {
-          "name": "Monrroe",
-          "url": "https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d"
-        }
-      ],
-      "duration_ms": 282000,
-      "name": "Mudcrab",
-      "url": "https://open.spotify.com/track/1awqLWOY994AEUtnHM9Nlp"
-    },
-    {
-      "added_at": "2025-11-14 00:00:20",
-      "album": {
         "name": "One More Time",
         "url": "https://open.spotify.com/album/3pNxlmza89XpVlLGlQ8JRM"
       },
@@ -1595,6 +1579,22 @@
     {
       "added_at": "2025-11-14 00:00:20",
       "album": {
+        "name": "Romance EP",
+        "url": "https://open.spotify.com/album/2DMEFv7wDdSCICaYXGZ1EL"
+      },
+      "artists": [
+        {
+          "name": "Monrroe",
+          "url": "https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d"
+        }
+      ],
+      "duration_ms": 282000,
+      "name": "Mudcrab",
+      "url": "https://open.spotify.com/track/1awqLWOY994AEUtnHM9Nlp"
+    },
+    {
+      "added_at": "2025-11-14 00:00:20",
+      "album": {
         "name": "Voices",
         "url": "https://open.spotify.com/album/3KVezVSkQD5E4l4sMVZEKm"
       },
@@ -1607,42 +1607,6 @@
       "duration_ms": 208457,
       "name": "Voices",
       "url": "https://open.spotify.com/track/542RuKAa7204eeEjbAm9Vh"
-    },
-    {
-      "added_at": "2025-11-14 00:00:20",
-      "album": {
-        "name": "Champion Ting / Mouse Trap",
-        "url": "https://open.spotify.com/album/7z4JzoJBb3pgCPIbhGpmQl"
-      },
-      "artists": [
-        {
-          "name": "Voltage",
-          "url": "https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP"
-        }
-      ],
-      "duration_ms": 202971,
-      "name": "Champion Ting",
-      "url": "https://open.spotify.com/track/1suL6QTR6nYHmvLkWaRMGs"
-    },
-    {
-      "added_at": "2025-11-14 00:00:20",
-      "album": {
-        "name": "RUDEBOI",
-        "url": "https://open.spotify.com/album/55CkoKNrxQWaQ7KnMQ7lgj"
-      },
-      "artists": [
-        {
-          "name": "Unglued",
-          "url": "https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC"
-        },
-        {
-          "name": "Deadline",
-          "url": "https://open.spotify.com/artist/4ODNQly5SX6AWp8P5mRzGq"
-        }
-      ],
-      "duration_ms": 204342,
-      "name": "RUDEBOI",
-      "url": "https://open.spotify.com/track/3eUxChWoWIq3FHgHItSRBp"
     },
     {
       "added_at": "2025-11-14 00:00:20",
@@ -1667,6 +1631,22 @@
     {
       "added_at": "2025-11-14 00:00:20",
       "album": {
+        "name": "Champion Ting / Mouse Trap",
+        "url": "https://open.spotify.com/album/7z4JzoJBb3pgCPIbhGpmQl"
+      },
+      "artists": [
+        {
+          "name": "Voltage",
+          "url": "https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP"
+        }
+      ],
+      "duration_ms": 202971,
+      "name": "Champion Ting",
+      "url": "https://open.spotify.com/track/1suL6QTR6nYHmvLkWaRMGs"
+    },
+    {
+      "added_at": "2025-11-14 00:00:20",
+      "album": {
         "name": "Orchid",
         "url": "https://open.spotify.com/album/1H7kMYpmTl0M3bzpVlY941"
       },
@@ -1687,6 +1667,26 @@
     {
       "added_at": "2025-11-14 00:00:20",
       "album": {
+        "name": "RUDEBOI",
+        "url": "https://open.spotify.com/album/55CkoKNrxQWaQ7KnMQ7lgj"
+      },
+      "artists": [
+        {
+          "name": "Unglued",
+          "url": "https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC"
+        },
+        {
+          "name": "Deadline",
+          "url": "https://open.spotify.com/artist/4ODNQly5SX6AWp8P5mRzGq"
+        }
+      ],
+      "duration_ms": 204342,
+      "name": "RUDEBOI",
+      "url": "https://open.spotify.com/track/3eUxChWoWIq3FHgHItSRBp"
+    },
+    {
+      "added_at": "2025-11-14 00:00:20",
+      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/3RgzJTmaUnzkUG0piagj7N"
       },
@@ -1699,6 +1699,38 @@
       "duration_ms": 266057,
       "name": "Closer",
       "url": "https://open.spotify.com/track/6fQ28z72LSK7zPxu2giy7q"
+    },
+    {
+      "added_at": "2025-11-14 00:00:20",
+      "album": {
+        "name": "Voicenote Violence",
+        "url": "https://open.spotify.com/album/2r4HHzBV9SiJn9zvxFOzDL"
+      },
+      "artists": [
+        {
+          "name": "Casey Club",
+          "url": "https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj"
+        }
+      ],
+      "duration_ms": 166714,
+      "name": "Voicenote Violence",
+      "url": "https://open.spotify.com/track/2oQ9v12JBeHPIagTkEHNHn"
+    },
+    {
+      "added_at": "2025-11-14 00:00:20",
+      "album": {
+        "name": "Posra",
+        "url": "https://open.spotify.com/album/3UvGVvCAJc1YHf6o8LgkR2"
+      },
+      "artists": [
+        {
+          "name": "skantia",
+          "url": "https://open.spotify.com/artist/0FZS1HlJfonbMpQGzTrh0M"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Posra",
+      "url": "https://open.spotify.com/track/1IuehNv6oLuj1fUb68go9V"
     },
     {
       "added_at": "2025-11-14 00:00:20",
@@ -1723,34 +1755,66 @@
     {
       "added_at": "2025-11-14 00:00:20",
       "album": {
-        "name": "Posra",
-        "url": "https://open.spotify.com/album/3UvGVvCAJc1YHf6o8LgkR2"
+        "name": "THE WAY I ROLL",
+        "url": "https://open.spotify.com/album/7D50ajSo5ltD3MPQVksYlC"
       },
       "artists": [
         {
-          "name": "skantia",
-          "url": "https://open.spotify.com/artist/0FZS1HlJfonbMpQGzTrh0M"
+          "name": "Blooom",
+          "url": "https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS"
+        },
+        {
+          "name": "Mila Falls",
+          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
         }
       ],
-      "duration_ms": 205714,
-      "name": "Posra",
-      "url": "https://open.spotify.com/track/1IuehNv6oLuj1fUb68go9V"
+      "duration_ms": 188965,
+      "name": "THE WAY I ROLL",
+      "url": "https://open.spotify.com/track/4Hiddy4c4DbTR0HyBycuQQ"
     },
     {
       "added_at": "2025-11-14 00:00:20",
       "album": {
-        "name": "Voicenote Violence",
-        "url": "https://open.spotify.com/album/2r4HHzBV9SiJn9zvxFOzDL"
+        "name": "TERRANOVA",
+        "url": "https://open.spotify.com/album/3VAGJEglKmueo1XLBWiDdv"
       },
       "artists": [
         {
-          "name": "Casey Club",
-          "url": "https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj"
+          "name": "PhaseOne",
+          "url": "https://open.spotify.com/artist/0mO3Yf5XIPHfAbHh8yWLFk"
+        },
+        {
+          "name": "Flowidus",
+          "url": "https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC"
+        },
+        {
+          "name": "Dread MC",
+          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
         }
       ],
-      "duration_ms": 166714,
-      "name": "Voicenote Violence",
-      "url": "https://open.spotify.com/track/2oQ9v12JBeHPIagTkEHNHn"
+      "duration_ms": 199253,
+      "name": "RESET",
+      "url": "https://open.spotify.com/track/1nKr3EwkWaADQfNRyMZ3pj"
+    },
+    {
+      "added_at": "2025-11-14 00:00:20",
+      "album": {
+        "name": "Dancing In My Sleep",
+        "url": "https://open.spotify.com/album/1YvJahlJfGc47tP4foYhC2"
+      },
+      "artists": [
+        {
+          "name": "Ren\u00e9 LaVice",
+          "url": "https://open.spotify.com/artist/0e5WyCWPCJT91whT3lFT4v"
+        },
+        {
+          "name": "Tania Foster",
+          "url": "https://open.spotify.com/artist/4Edy0AEO2mh3eZSNggPM7Y"
+        }
+      ],
+      "duration_ms": 202068,
+      "name": "Dancing In My Sleep",
+      "url": "https://open.spotify.com/track/4ZuB89GuIXL1pq0VCjP0n7"
     },
     {
       "added_at": "2025-11-14 00:00:20",
@@ -1783,70 +1847,6 @@
       "duration_ms": 335233,
       "name": "Goldikus (feat. Cleveland Watkiss) - Phase Remix",
       "url": "https://open.spotify.com/track/3qFC07G7mup6YO7rxe57tQ"
-    },
-    {
-      "added_at": "2025-11-14 00:00:20",
-      "album": {
-        "name": "THE WAY I ROLL",
-        "url": "https://open.spotify.com/album/7D50ajSo5ltD3MPQVksYlC"
-      },
-      "artists": [
-        {
-          "name": "Blooom",
-          "url": "https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS"
-        },
-        {
-          "name": "Mila Falls",
-          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
-        }
-      ],
-      "duration_ms": 188965,
-      "name": "THE WAY I ROLL",
-      "url": "https://open.spotify.com/track/4Hiddy4c4DbTR0HyBycuQQ"
-    },
-    {
-      "added_at": "2025-11-14 00:00:20",
-      "album": {
-        "name": "Dancing In My Sleep",
-        "url": "https://open.spotify.com/album/1YvJahlJfGc47tP4foYhC2"
-      },
-      "artists": [
-        {
-          "name": "Ren\u00e9 LaVice",
-          "url": "https://open.spotify.com/artist/0e5WyCWPCJT91whT3lFT4v"
-        },
-        {
-          "name": "Tania Foster",
-          "url": "https://open.spotify.com/artist/4Edy0AEO2mh3eZSNggPM7Y"
-        }
-      ],
-      "duration_ms": 202068,
-      "name": "Dancing In My Sleep",
-      "url": "https://open.spotify.com/track/4ZuB89GuIXL1pq0VCjP0n7"
-    },
-    {
-      "added_at": "2025-11-14 00:00:20",
-      "album": {
-        "name": "TERRANOVA",
-        "url": "https://open.spotify.com/album/3VAGJEglKmueo1XLBWiDdv"
-      },
-      "artists": [
-        {
-          "name": "PhaseOne",
-          "url": "https://open.spotify.com/artist/0mO3Yf5XIPHfAbHh8yWLFk"
-        },
-        {
-          "name": "Flowidus",
-          "url": "https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC"
-        },
-        {
-          "name": "Dread MC",
-          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
-        }
-      ],
-      "duration_ms": 199253,
-      "name": "RESET",
-      "url": "https://open.spotify.com/track/1nKr3EwkWaADQfNRyMZ3pj"
     },
     {
       "added_at": "2025-11-14 00:00:20",
@@ -1891,6 +1891,22 @@
     {
       "added_at": "2025-11-14 00:00:20",
       "album": {
+        "name": "RUN",
+        "url": "https://open.spotify.com/album/4JBGhW2NrfdnQvdA2wqXXN"
+      },
+      "artists": [
+        {
+          "name": "\u00c6ON:MODE",
+          "url": "https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV"
+        }
+      ],
+      "duration_ms": 180689,
+      "name": "RUN",
+      "url": "https://open.spotify.com/track/49bPzRToh1kiYGWUJLYhd2"
+    },
+    {
+      "added_at": "2025-11-14 00:00:20",
+      "album": {
         "name": "Losing Control (VIP)",
         "url": "https://open.spotify.com/album/724fbPLMgQqdijbtl1ioFd"
       },
@@ -1911,6 +1927,22 @@
     {
       "added_at": "2025-11-14 00:00:20",
       "album": {
+        "name": "Count That",
+        "url": "https://open.spotify.com/album/00pIU5WVxQYOR5xSNb96Xt"
+      },
+      "artists": [
+        {
+          "name": "SHOSH",
+          "url": "https://open.spotify.com/artist/1emgVmY6u8GGlRhkHESKKH"
+        }
+      ],
+      "duration_ms": 216214,
+      "name": "Count That",
+      "url": "https://open.spotify.com/track/4WnCJ3dIGqH2dbI45WhuiK"
+    },
+    {
+      "added_at": "2025-11-14 00:00:20",
+      "album": {
         "name": "Call The Hurse",
         "url": "https://open.spotify.com/album/3KeEMKBTOVMrua11nE9kj6"
       },
@@ -1927,58 +1959,6 @@
       "duration_ms": 169431,
       "name": "Call The Hurse",
       "url": "https://open.spotify.com/track/0G3ONeSlmFgHtw1ft1kg1k"
-    },
-    {
-      "added_at": "2025-11-14 00:00:20",
-      "album": {
-        "name": "99 Octane",
-        "url": "https://open.spotify.com/album/2Nk6wy0nWd7uAsi6X0bVr0"
-      },
-      "artists": [
-        {
-          "name": "P Money",
-          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
-        },
-        {
-          "name": "Whiney",
-          "url": "https://open.spotify.com/artist/4YTBo7qadslqj8V8FMRuqK"
-        },
-        {
-          "name": "hayve",
-          "url": "https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs"
-        }
-      ],
-      "duration_ms": 180147,
-      "name": "99 Octane",
-      "url": "https://open.spotify.com/track/7L3a1pYYJ6eJGUgZyxnLYQ"
-    },
-    {
-      "added_at": "2025-11-14 00:00:20",
-      "album": {
-        "name": "Brick Lane (feat. D Double E, Morrisson & Catching Cairo)",
-        "url": "https://open.spotify.com/album/3c7tJnWUuYVCpcmeia459g"
-      },
-      "artists": [
-        {
-          "name": "Turno",
-          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
-        },
-        {
-          "name": "D Double E",
-          "url": "https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN"
-        },
-        {
-          "name": "Morrisson",
-          "url": "https://open.spotify.com/artist/3bn93QEHOITZ4ARuiZdfRA"
-        },
-        {
-          "name": "Catching Cairo",
-          "url": "https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB"
-        }
-      ],
-      "duration_ms": 226022,
-      "name": "Brick Lane (feat. D Double E, Morrisson & Catching Cairo)",
-      "url": "https://open.spotify.com/track/6FR9pKjugKwdb4JQcrVizK"
     }
   ],
   "unique_name": "Proper Naughty ",

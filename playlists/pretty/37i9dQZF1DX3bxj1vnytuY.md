@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,331 likes - 100 songs - 8 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,340 likes - 100 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 | 99 | [Kuar \- FNX Omar Remix](https://open.spotify.com/track/3HFFBfoTdd0TOlvMgq3Lzc) | [Emmanuel Jal](https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm), [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW) | [Kuar \(FNX Omar Remix\)](https://open.spotify.com/album/5zJNZeDGkoSirEIu2R1B5W) | 6:40 |
 | 100 | [Rush \- Moody Jones Remix](https://open.spotify.com/track/760wWZ9MSOKKqYjIlmwkDF) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Moody Jones](https://open.spotify.com/artist/24FWdrSufRayxwGPvzSFaz) | [Rush \(Moody Jones Remix\)](https://open.spotify.com/album/0IHjPMsQQWcYbiMl9wp9gm) | 3:54 |
 
-Snapshot ID: `AAAAAHXt63kcmboEAsd1U7jQKTbi0z8N`
+Snapshot ID: `AAAAAKVVGCHop+Im6QuyzTP/rw/1W5G/`

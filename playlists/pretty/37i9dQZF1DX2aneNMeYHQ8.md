@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 
 > alt, folk, and indie rock sprinkled into this sonic melting pot\. Cover: Goldie Boutilier
 
-[Spotify](https://open.spotify.com/user/spotify) - 619,848 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 619,821 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 | 37 | [Rainbow](https://open.spotify.com/track/6buQeGlk47QiPVoPObaZ7x) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Neon Pill](https://open.spotify.com/album/2dGlEut1TyhAyApZ0ADIsd) | 3:15 |
 | 38 | [Gild the Lily](https://open.spotify.com/track/181YsWsKwhTmoHYZ4xtiuZ) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Highway Prayers](https://open.spotify.com/album/6ARzD9YEt9vx2rz7X3NDlo) | 5:05 |
 | 39 | [Nobody's Soldier](https://open.spotify.com/track/3rnAobCeh4uD1NfNpbNc2e) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unaired](https://open.spotify.com/album/3nXgYu1LTKBflY7ES8WEdo) | 3:57 |
-| 40 | [Incomprehensible](https://open.spotify.com/track/1sXdUadp0TcENaTscPUu8v) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Incomprehensible](https://open.spotify.com/album/7IcMyoc3AX2VU0WG6vpMB7) | 3:53 |
-| 41 | [Nowhere To Run](https://open.spotify.com/track/44R1ZALac20AijYr5TtPgr) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Can We Please Have Fun](https://open.spotify.com/album/2FKCYNTlVVub7yPDncWamQ) | 3:40 |
+| 40 | [Nowhere To Run](https://open.spotify.com/track/44R1ZALac20AijYr5TtPgr) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Can We Please Have Fun](https://open.spotify.com/album/2FKCYNTlVVub7yPDncWamQ) | 3:40 |
+| 41 | [Incomprehensible](https://open.spotify.com/track/1sXdUadp0TcENaTscPUu8v) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Incomprehensible](https://open.spotify.com/album/7IcMyoc3AX2VU0WG6vpMB7) | 3:53 |
 | 42 | [Greyhound](https://open.spotify.com/track/60DSysH1dDIThBHXpNxSNv) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Greyhound](https://open.spotify.com/album/4SVuAXDREVQ4JTAAAW9tCx) | 3:46 |
 | 43 | [Mint Tea](https://open.spotify.com/track/6F7mS7NLtJ54WIkFZuaKT8) | [Johnny Blue Skies](https://open.spotify.com/artist/5R55ruC73ANyzDSOzIZjNc), [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [Passage Du Desir](https://open.spotify.com/album/71On7h3S7yH5D0Td6YNw1t) | 3:37 |
 | 44 | [Out of My Head](https://open.spotify.com/track/5LgguaX9k42ruNIHNZA6Re) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Palomino](https://open.spotify.com/album/7oiUfuyk01h71NTmBUSk6D) | 3:33 |
@@ -72,15 +72,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 | 62 | [The Night Before](https://open.spotify.com/track/4kawArrYyru9uT0phHxWKt) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [The Night Before](https://open.spotify.com/album/3rEd1OxnsM8XPKp5LgVI6O) | 2:34 |
 | 63 | [Heartless](https://open.spotify.com/track/6QXhBSDthWBH7e6uQjfWFn) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Heartless](https://open.spotify.com/album/4yJlgo1yOViRYT0lMTIbxm) | 3:18 |
 | 64 | [Triple Marathon](https://open.spotify.com/track/6gEl8SZNT90jyNCXVhZ3BO) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Triple Marathon](https://open.spotify.com/album/2PSzv4iDxvcbfTHL11obmh) | 2:37 |
-| 65 | [Superstar](https://open.spotify.com/track/7Ew5us0FuyUZZ4p6jRP2r3) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Superstar](https://open.spotify.com/album/1qFrExdXI9pjXU30XulYae) | 3:13 |
-| 66 | [Super Breath](https://open.spotify.com/track/71dMjqJ8UJV700zYs5YZCh) | [Karen O](https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz), [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf) | [Super Breath](https://open.spotify.com/album/6Ab1VSoMD5fvlagOW2QDOJ) | 3:31 |
+| 65 | [Super Breath](https://open.spotify.com/track/71dMjqJ8UJV700zYs5YZCh) | [Karen O](https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz), [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf) | [Super Breath](https://open.spotify.com/album/6Ab1VSoMD5fvlagOW2QDOJ) | 3:31 |
+| 66 | [Superstar](https://open.spotify.com/track/7Ew5us0FuyUZZ4p6jRP2r3) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Superstar](https://open.spotify.com/album/1qFrExdXI9pjXU30XulYae) | 3:13 |
 | 67 | [A Fragile Thing](https://open.spotify.com/track/17k0Dwj1nr2VnES26230lJ) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [A Fragile Thing](https://open.spotify.com/album/0AWjjB8tla6JjP2XQzKS9l) | 4:43 |
 | 68 | [If Our Love Is Dead](https://open.spotify.com/track/4cdUz71Ov5QPEErCiQli6u) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [If Our Love Is Dead](https://open.spotify.com/album/3Y2J3JxHDBLXcGLw4Nr7xn) | 2:53 |
 | 69 | [Vienna \(Everything’s Fine\)](https://open.spotify.com/track/4MZkA1wOfqYclYkQt7MUEd) | [Vienna Vienna](https://open.spotify.com/artist/5ZVQRC3rtUNBJVrrrSl17r) | [Vienna \(Everything’s Fine\)](https://open.spotify.com/album/47wbE9QX926Oc3UIFAnKFQ) | 2:57 |
 | 70 | [Kid](https://open.spotify.com/track/24TzmWrz2HHWV3UO5PlvNb) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Kid](https://open.spotify.com/album/5LqoF8G9MsNme4b8DpBExe) | 3:28 |
-| 71 | [Little Chaos](https://open.spotify.com/track/3aZmbEhKrTHMmNQaafA24d) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Everybody Needs a Hero](https://open.spotify.com/album/00JkCQwC0mjcE55t4R4nqe) | 2:54 |
-| 72 | [Wanting and Waiting](https://open.spotify.com/track/2tshfSpT1vLHlMZ88btPOj) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [Wanting and Waiting](https://open.spotify.com/album/7nNsP5Tgq1bsQDXBOXVzhw) | 4:15 |
-| 73 | [Ultraviolet](https://open.spotify.com/track/6DMxLT4C2n1Iilvb6a01Ic) | [Clover County](https://open.spotify.com/artist/1vOabSI7N1elDhNGoirgU2) | [Ultraviolet](https://open.spotify.com/album/5nxiqAwXcEsBkKmsouCMKk) | 3:17 |
+| 71 | [Ultraviolet](https://open.spotify.com/track/6DMxLT4C2n1Iilvb6a01Ic) | [Clover County](https://open.spotify.com/artist/1vOabSI7N1elDhNGoirgU2) | [Ultraviolet](https://open.spotify.com/album/5nxiqAwXcEsBkKmsouCMKk) | 3:17 |
+| 72 | [Little Chaos](https://open.spotify.com/track/3aZmbEhKrTHMmNQaafA24d) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Everybody Needs a Hero](https://open.spotify.com/album/00JkCQwC0mjcE55t4R4nqe) | 2:54 |
+| 73 | [Wanting and Waiting](https://open.spotify.com/track/2tshfSpT1vLHlMZ88btPOj) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [Wanting and Waiting](https://open.spotify.com/album/7nNsP5Tgq1bsQDXBOXVzhw) | 4:15 |
 | 74 | [Sweetest Heart](https://open.spotify.com/track/66hVnkXp2fedj5uDXArbfl) | [Rachel Bobbitt](https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC) | [Sweetest Heart](https://open.spotify.com/album/3Kqj4em7mdF3fXF5CGe8xL) | 3:16 |
 | 75 | [Lonely Cowboy](https://open.spotify.com/track/4b4qenweAK0E90SiuUtrLy) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Lonely Cowboy](https://open.spotify.com/album/4D6uVAiz0FYzdbn3nPdl1A) | 4:53 |
 | 76 | [What About The Children](https://open.spotify.com/track/4bGTNdEbmrDlvqYJKRKJxR) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [JPEG RAW](https://open.spotify.com/album/09XurHGqbBgvj7SH96UbPV) | 4:39 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 | 97 | [Much Ado About Nothing](https://open.spotify.com/track/1ptXvuSGFStaYw6eumiesq) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Much Ado About Nothing](https://open.spotify.com/album/4gHhAhd9V5f6GkZXQT8xRN) | 3:49 |
 | 98 | [Old Tape \(feat\. Adam Granduciel\) \- Single Edit](https://open.spotify.com/track/1jAhvw24wQv2puNASTzFvM) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Old Tape \(feat\. Adam Granduciel\)](https://open.spotify.com/album/2hnTUBlcbAPk0fcnQi1jyn) | 3:32 |
 | 99 | [Delilah](https://open.spotify.com/track/7v4FF3DWuUfRecyXWCgoQY) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Mood Swings](https://open.spotify.com/album/7sVfGWfXF2C97KvHHw3Voa) | 4:23 |
-| 100 | [Hello](https://open.spotify.com/track/7IH898LJRwuh0m2x29N0fm) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [I Want It All Right Now](https://open.spotify.com/album/1oo5SXe74thWKkBPGrkYoG) | 3:23 |
+| 100 | [My Heart is Drowning](https://open.spotify.com/track/3ULdoOEdHUrfoi7D1B4IC5) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [My Heart is Drowning](https://open.spotify.com/album/27MkfKfFf4AONvPedCeBrX) | 2:43 |
 
 Snapshot ID: `AAAAAM/KXEOul58q66EUXYKTZQYKC21Q`

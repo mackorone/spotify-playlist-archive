@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4cWDcc.md) - [plain]
 
 > This is Jimi Hendrix\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 323,458 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 323,459 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,19 +44,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4cWDcc.md) - [plain]
 | 34 | [Bleeding Heart](https://open.spotify.com/track/5QytK3mFNMckdsgVdCv5Lf) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [People, Hell & Angels](https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf) | 3:58 |
 | 35 | [Lover Man](https://open.spotify.com/track/4pufpcO8KDHalIp3Uh8GEU) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Both Sides of the Sky](https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407) | 3:03 |
 | 36 | [Drifting](https://open.spotify.com/track/4xmlBI4xprNK78GSoTtkxp) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [The Cry of Love](https://open.spotify.com/album/7ykAHaoptbCYaO0HAjpgcL) | 3:49 |
-| 37 | [Valleys of Neptune](https://open.spotify.com/track/78FgaL6lR2VMWGjqAHT4S2) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Lady Studios: A Jimi Hendrix Vision](https://open.spotify.com/album/4TkDrqWkZZXznaJPEtvLe4) | 3:45 |
+| 37 | [Hey Baby \(New Rising Sun\)](https://open.spotify.com/track/5IAQMk5kTyapufseqmvwjm) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Rainbow Bridge](https://open.spotify.com/album/2et0fTgbRp3w4Izzs4uVtz) | 6:04 |
 | 38 | [Villanova Junction Blues](https://open.spotify.com/track/0ME8AQSwfAtSa6ZQpgjROg) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [People, Hell & Angels](https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf) | 1:44 |
-| 39 | [Hey Baby \(New Rising Sun\)](https://open.spotify.com/track/5IAQMk5kTyapufseqmvwjm) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Rainbow Bridge](https://open.spotify.com/album/2et0fTgbRp3w4Izzs4uVtz) | 6:04 |
+| 39 | [Valleys of Neptune](https://open.spotify.com/track/78FgaL6lR2VMWGjqAHT4S2) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Lady Studios: A Jimi Hendrix Vision](https://open.spotify.com/album/4TkDrqWkZZXznaJPEtvLe4) | 3:45 |
 | 40 | [Like A Rolling Stone \- Live At Monterey](https://open.spotify.com/track/2y84zRlD8OD6wYpxUylgTV) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Live At Monterey](https://open.spotify.com/album/6NdaU4JVYrQAxDOSrG0aPF) | 7:06 |
-| 41 | [Farther Up the Road](https://open.spotify.com/track/5JQuN4RkTtkuoHgwx8MUqj) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Lady Studios: A Jimi Hendrix Vision](https://open.spotify.com/album/4TkDrqWkZZXznaJPEtvLe4) | 1:46 |
-| 42 | [Voodoo Chile Blues](https://open.spotify.com/track/2z34AUAlDL5ZVjZpCNqwD1) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Blues](https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz) | 8:48 |
-| 43 | [Things I Used to Do](https://open.spotify.com/track/2YFfcJF038SQMtHUwOKO6P) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Both Sides of the Sky](https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407) | 3:41 |
+| 41 | [Voodoo Chile Blues](https://open.spotify.com/track/2z34AUAlDL5ZVjZpCNqwD1) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Blues](https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz) | 8:48 |
+| 42 | [Things I Used to Do](https://open.spotify.com/track/2YFfcJF038SQMtHUwOKO6P) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Both Sides of the Sky](https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407) | 3:41 |
+| 43 | [Farther Up the Road](https://open.spotify.com/track/5JQuN4RkTtkuoHgwx8MUqj) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Lady Studios: A Jimi Hendrix Vision](https://open.spotify.com/album/4TkDrqWkZZXznaJPEtvLe4) | 1:46 |
 | 44 | [Room Full of Mirrors](https://open.spotify.com/track/7uQcSTXM4q7tGzguGVeLtX) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Rainbow Bridge](https://open.spotify.com/album/2et0fTgbRp3w4Izzs4uVtz) | 3:35 |
-| 45 | [Straight Ahead \- Takes 1 & 2](https://open.spotify.com/track/0NNtvGMVxeZtU9jRgNXhjg) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Lady Studios: A Jimi Hendrix Vision](https://open.spotify.com/album/4TkDrqWkZZXznaJPEtvLe4) | 6:12 |
-| 46 | [Machine Gun \- Live at the Fillmore East, NY \- 12/31/69 \- 1st Set](https://open.spotify.com/track/47XzyeCErz1ojPKMcNwfN2) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Songs For Groovy Children: The Fillmore East Concerts](https://open.spotify.com/album/1kCKuBSxO5w8MPN31pP9K9) | 8:53 |
-| 47 | [Georgia Blues](https://open.spotify.com/track/1hRZUpohbhw2WUtWQo3K9x) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Both Sides of the Sky](https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407) | 7:55 |
+| 45 | [Machine Gun \- Live at the Fillmore East, NY \- 12/31/69 \- 1st Set](https://open.spotify.com/track/47XzyeCErz1ojPKMcNwfN2) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Songs For Groovy Children: The Fillmore East Concerts](https://open.spotify.com/album/1kCKuBSxO5w8MPN31pP9K9) | 8:53 |
+| 46 | [Georgia Blues](https://open.spotify.com/track/1hRZUpohbhw2WUtWQo3K9x) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Both Sides of the Sky](https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407) | 7:55 |
+| 47 | [Straight Ahead \- Takes 1 & 2](https://open.spotify.com/track/0NNtvGMVxeZtU9jRgNXhjg) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Lady Studios: A Jimi Hendrix Vision](https://open.spotify.com/album/4TkDrqWkZZXznaJPEtvLe4) | 6:12 |
 | 48 | [Who Knows \- Live At Fillmore East, 1970 / 50th Anniversary](https://open.spotify.com/track/6uNyTYOEaNOY38r1dgoqAL) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Band Of Gypsys \(50th Anniversary / Live\)](https://open.spotify.com/album/0B0Zwfcy4pAY2JAoxIEkR5) | 9:36 |
-| 49 | [Astro Man \- Takes 9 & 10](https://open.spotify.com/track/33S1QGMFmrAUULXa4UpVhg) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Lady Studios: A Jimi Hendrix Vision](https://open.spotify.com/album/4TkDrqWkZZXznaJPEtvLe4) | 2:51 |
-| 50 | [Stone Free / Up From The Skies \- Demo](https://open.spotify.com/track/4V6Br5pVCsC7W2RBzup24Z) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Stone Free / Up From The Skies \(Demo\)](https://open.spotify.com/album/1g5zUvlIAiqHL3LJzNpSGp) | 2:17 |
+| 49 | [Stone Free / Up From The Skies \- Demo](https://open.spotify.com/track/4V6Br5pVCsC7W2RBzup24Z) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Stone Free / Up From The Skies \(Demo\)](https://open.spotify.com/album/1g5zUvlIAiqHL3LJzNpSGp) | 2:17 |
+| 50 | [Once I Had a Woman](https://open.spotify.com/track/2AtnrJEq48pGhlpgS59akM) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Blues](https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz) | 7:49 |
 
-Snapshot ID: `aRkUAAAAAADyPMpmWHqvAgQn252CtECt`
+Snapshot ID: `aRplgAAAAABNs8so5fcPWtY8KKZtQpjL`

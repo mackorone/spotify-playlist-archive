@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 
 > Today's biggest dance hits! Cover: Sonny Fodera, Poppy Baskcomb, D.O.D
 
-[Spotify](https://open.spotify.com/user/spotify) - 422,757 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 422,768 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Coming Up \(It’s Dare\)](https://open.spotify.com/track/7JHkJ5mDS868b5j5h67cwL) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [HYPERBEAM](https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n) | [Coming Up \(It’s Dare\)](https://open.spotify.com/album/2aXtY87dtUYnV93D8xTdmq) | 3:00 |
-| 2 | [Faded](https://open.spotify.com/track/3CtqBiTvoTnWD8Kaaameuw) | [Joel Fletcher](https://open.spotify.com/artist/2Z4QqhmV5Xw5vX2ZI70HOR), [Open Till L8](https://open.spotify.com/artist/6niasBrBbbzrUe7iWT6swJ) | [Faded](https://open.spotify.com/album/6IQP1dPdqcqrjANBdiK33y) | 3:26 |
-| 3 | [Ain't No Party](https://open.spotify.com/track/4OjT5tTYsmQl29oQT6OHab) | [Lance Savali](https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd) | [Ain't No Party](https://open.spotify.com/album/3WEW6RrQrhxOB0wdlU6mGb) | 3:05 |
-| 4 | [Think About Us](https://open.spotify.com/track/0lRnxwJeUOxwEvWMw4uQKj) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Think About Us](https://open.spotify.com/album/1jmVSpWhzD8vciWg2Qtd5V) | 2:58 |
+| 1 | [Think About Us](https://open.spotify.com/track/0lRnxwJeUOxwEvWMw4uQKj) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Think About Us](https://open.spotify.com/album/1jmVSpWhzD8vciWg2Qtd5V) | 2:58 |
+| 2 | [Ain't No Party](https://open.spotify.com/track/4OjT5tTYsmQl29oQT6OHab) | [Lance Savali](https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd) | [Ain't No Party](https://open.spotify.com/album/3WEW6RrQrhxOB0wdlU6mGb) | 3:05 |
+| 3 | [Coming Up \(It’s Dare\)](https://open.spotify.com/track/7JHkJ5mDS868b5j5h67cwL) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [HYPERBEAM](https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n) | [Coming Up \(It’s Dare\)](https://open.spotify.com/album/2aXtY87dtUYnV93D8xTdmq) | 3:00 |
+| 4 | [Faded](https://open.spotify.com/track/3CtqBiTvoTnWD8Kaaameuw) | [Joel Fletcher](https://open.spotify.com/artist/2Z4QqhmV5Xw5vX2ZI70HOR), [Open Till L8](https://open.spotify.com/artist/6niasBrBbbzrUe7iWT6swJ) | [Faded](https://open.spotify.com/album/6IQP1dPdqcqrjANBdiK33y) | 3:26 |
 | 5 | [Desire](https://open.spotify.com/track/4sMR8fuTzbUyzB0asxifV0) | [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km), [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Desire](https://open.spotify.com/album/2yamyyBAOGWiGKI1O9X0wf) | 2:38 |
 | 6 | [Lick It](https://open.spotify.com/track/0JoaUkfqUIonNgxBq8wvwD) | [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn) | [Lick It](https://open.spotify.com/album/4mT1c8jk8dlzROX7mSMvWD) | 3:24 |
 | 7 | [Cry For You \(2025\)](https://open.spotify.com/track/2xVDlAuxS6rhEMXOlX9h07) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Cry For You \(2025\)](https://open.spotify.com/album/7pYLQoKHX1JlhuUyti0HwF) | 2:56 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 | 74 | [Supersonic](https://open.spotify.com/track/01jx3vXwUaw9cfFeBk8sJQ) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [Supersonic / Hands Up In The Sky](https://open.spotify.com/album/0x72kHM5nCDu7qtoIJcnfT) | 3:08 |
 | 75 | [TESLA](https://open.spotify.com/track/6qJhrI2BMuA8qHcmycD3fL) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [TESLA](https://open.spotify.com/album/2dOvYQS8loEBLISp9MNRNn) | 3:06 |
 
-Snapshot ID: `AAAAAMJDvnoQ4vCzpG1OVrabwrN2yHKc`
+Snapshot ID: `AAAAAI9C/Bbtl54vBKYzei91+tkeO5bt`

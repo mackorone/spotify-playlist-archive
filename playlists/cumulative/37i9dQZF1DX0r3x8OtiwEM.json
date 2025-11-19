@@ -412,7 +412,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 216166,
       "name": "All The Love",
       "url": "https://open.spotify.com/track/3hAfmM8O1VgtFmSfbm5FSc"
@@ -1172,7 +1172,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 369798,
       "name": "Before The Storm",
       "url": "https://open.spotify.com/track/1Rd0kA3ditVAlVAb5Hdb1p"
@@ -2726,6 +2726,28 @@
       "duration_ms": 184045,
       "name": "Dancing Thing",
       "url": "https://open.spotify.com/track/4M2pTJYh02HGpH3KqkGvoP"
+    },
+    {
+      "album": {
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/5rbT9aLdysEsXZnLapWUNF"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        },
+        {
+          "name": "Alika",
+          "url": "https://open.spotify.com/artist/1U3n3wACHLjc8sS1obMEuf"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231701,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/3YRFFwV0OtH5pWJYvNS8yV"
     },
     {
       "album": {
@@ -15066,6 +15088,28 @@
       "duration_ms": 218929,
       "name": "You Belong To No-One",
       "url": "https://open.spotify.com/track/4Zp4cKltb5SYVKnkKizfIG"
+    },
+    {
+      "album": {
+        "name": "You Gonna Want Me (I Know)",
+        "url": "https://open.spotify.com/album/0NWejE4qcU16cqia7YSWaN"
+      },
+      "artists": [
+        {
+          "name": "Tiga",
+          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
+        },
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192187,
+      "name": "You Gonna Want Me (I Know)",
+      "url": "https://open.spotify.com/track/0jXDwNszuI3K2xs5ShoE18"
     },
     {
       "album": {

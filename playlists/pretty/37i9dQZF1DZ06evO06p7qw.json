@@ -1,12 +1,12 @@
 {
   "description": "This is Manuel Medrano. The essential tracks, all in one playlist.",
-  "num_followers": 187989,
+  "num_followers": 188082,
   "original_name": "This Is Manuel Medrano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRkUAAAAAABxYQCY8kWiU7lH9zmkVx7g",
+  "snapshot_id": "aRplgAAAAAD3mUbX0DMtfCt8Ozmphauz",
   "tracks": [
     {
       "added_at": null,
@@ -467,6 +467,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "SUPERIOR",
+        "url": "https://open.spotify.com/album/7Aa5Xb8P3l5DPYvn3drCCM"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        },
+        {
+          "name": "Andr\u00e9s Obreg\u00f3n",
+          "url": "https://open.spotify.com/artist/0AQMbCYt6y84wEHGzScKve"
+        }
+      ],
+      "duration_ms": 191866,
+      "name": "Juntos",
+      "url": "https://open.spotify.com/track/6GdvsmiIeMEPnvhgrXIj7C"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Las De Infante",
         "url": "https://open.spotify.com/album/1AkLQlVCOPPuRzfwPwgpZH"
       },
@@ -507,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Buena",
-        "url": "https://open.spotify.com/album/5qX4MWfoFf18oBL95wfkqN"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 218013,
-      "name": "Buena",
-      "url": "https://open.spotify.com/track/2UDMeklpmOfq8L6wI75ysa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eterno",
         "url": "https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi"
       },
@@ -539,22 +543,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "SUPERIOR",
-        "url": "https://open.spotify.com/album/7Aa5Xb8P3l5DPYvn3drCCM"
+        "name": "Buena",
+        "url": "https://open.spotify.com/album/5qX4MWfoFf18oBL95wfkqN"
       },
       "artists": [
         {
           "name": "Manuel Medrano",
           "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        },
-        {
-          "name": "Andr\u00e9s Obreg\u00f3n",
-          "url": "https://open.spotify.com/artist/0AQMbCYt6y84wEHGzScKve"
         }
       ],
-      "duration_ms": 191866,
-      "name": "Juntos",
-      "url": "https://open.spotify.com/track/6GdvsmiIeMEPnvhgrXIj7C"
+      "duration_ms": 218013,
+      "name": "Buena",
+      "url": "https://open.spotify.com/track/2UDMeklpmOfq8L6wI75ysa"
     },
     {
       "added_at": null,

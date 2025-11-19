@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAArCxuIRGQ.md) - [plain]
 
 > A sizzling hot soundtrack for your sunshine social.
 
-[Spotify](https://open.spotify.com/user/spotify) - 653,300 likes - 75 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 653,260 likes - 75 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAArCxuIRGQ.md) - [plain]
 | 66 | [Teardrops \- 7” Single Version](https://open.spotify.com/track/2eRmD96ncTEgQwJmXa6rrg) | [Womack & Womack](https://open.spotify.com/artist/7qShKycqNUP0GLEiTENDVZ) | [80s Soul \(International Version\)](https://open.spotify.com/album/6eQ7vSfXNxJWeLUFeqKt4A) | 3:48 |
 | 67 | [Welcome To Jamrock](https://open.spotify.com/track/3jtd9Jslk6phPPYzBqfomg) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Welcome to Jamrock](https://open.spotify.com/album/6tqa7pPWXrtdGVFqZx3b1j) | 3:33 |
 | 68 | [Right Here \- Human Nature Radio Mix](https://open.spotify.com/track/5u3FywQOPJ5O7ZAjm31cnq) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [Right Here](https://open.spotify.com/album/5mfslBbxkZtxhSfnB2u2Gj) | 3:46 |
-| 69 | [Love Come Down \- Single Version](https://open.spotify.com/track/2RCOWNCxDIphjhqTtkwtwR) | [Evelyn "Champagne" King](https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7) | [The Best Of Evelyn "Champagne" King](https://open.spotify.com/album/6W7na0F9qczswPzdb42rZO) | 3:40 |
-| 70 | [Sunshine \(feat\. Anthony Hamilton\)](https://open.spotify.com/track/5y8WWi1BaKHXfuln0XoIZs) | [Twista](https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS), [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Kamikaze](https://open.spotify.com/album/7tbgPQub8dUigxMdkYDfOb) | 3:46 |
+| 69 | [Sunshine \(feat\. Anthony Hamilton\)](https://open.spotify.com/track/5y8WWi1BaKHXfuln0XoIZs) | [Twista](https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS), [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Kamikaze](https://open.spotify.com/album/7tbgPQub8dUigxMdkYDfOb) | 3:46 |
+| 70 | [Love Come Down \- Single Version](https://open.spotify.com/track/2RCOWNCxDIphjhqTtkwtwR) | [Evelyn "Champagne" King](https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7) | [The Best Of Evelyn "Champagne" King](https://open.spotify.com/album/6W7na0F9qczswPzdb42rZO) | 3:40 |
 | 71 | [Pure Shores](https://open.spotify.com/track/4mjLAbsWBCuqSOqMvaPkXd) | [All Saints](https://open.spotify.com/artist/5TDVKqW9uhqGjwwwKGuma4) | [Pure Shores](https://open.spotify.com/album/0q5pj4C8Fl8d3pzn2OH0ZV) | 4:28 |
 | 72 | [Dy\-Na\-Mi\-Tee](https://open.spotify.com/track/3cCjEDTIWSNr5stzGhiRWI) | [Ms\. Dynamite](https://open.spotify.com/artist/42qLC3FgtazA9AvaIoiP62) | [A Little Deeper](https://open.spotify.com/album/3R6aIbq0UGfht1x0rck5Tn) | 3:37 |
-| 73 | [Brown Eyed Girl](https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Blowin' Your Mind!](https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC) | 3:03 |
-| 74 | [Steal My Sunshine](https://open.spotify.com/track/1puEUilaw5RSbi3AYnkF8K) | [LEN](https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ) | [You Can't Stop The Bum Rush](https://open.spotify.com/album/5HSrkpKs0kEhEMuM3ZkG8W) | 4:25 |
+| 73 | [Steal My Sunshine](https://open.spotify.com/track/1puEUilaw5RSbi3AYnkF8K) | [LEN](https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ) | [You Can't Stop The Bum Rush](https://open.spotify.com/album/5HSrkpKs0kEhEMuM3ZkG8W) | 4:25 |
+| 74 | [Brown Eyed Girl](https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Blowin' Your Mind!](https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC) | 3:03 |
 | 75 | [Shine](https://open.spotify.com/track/1abBJRmGX2jLvE0b0GDmFV) | [Aswad](https://open.spotify.com/artist/55LyOQNIa9J8wX6y6eJfc0) | [Cool Summer Reggae](https://open.spotify.com/album/6pQIllBkF56hkziZMSUKji) | 3:46 |
 
 Snapshot ID: `AAAAANrb+6bp9HldmDPk7FEgWbsb3a0k`

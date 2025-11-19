@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HWhBzpBj05.md) - [plain]
 
 > Spread some cheer with this list of new and old seasonal favorites\. Cover: Brenda Lee
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,633 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,811 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HWhBzpBj05.md) - [plain]
 | 3 | [Winter Wonderland \- Spotify Singles Holiday](https://open.spotify.com/track/1LmkdWSxjCV7wKTPsCvYWN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Spotify Singles Holiday](https://open.spotify.com/album/1Ph9nV8cNv7Gq7yHOlmbgh) | 2:12 |
 | 4 | [Last Christmas](https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [LAST CHRISTMAS](https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ) | 4:22 |
 | 5 | [Santa Claus Is Comin' to Town \- Live at C.W\. Post College, Greenvale, NY \- December 1975](https://open.spotify.com/track/6s2wpWPFPAgKg2LXxi1Oee) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Santa Claus Is Comin' to Town \(Live at C.W\. Post College, Greenvale, NY \- December 1975\)](https://open.spotify.com/album/6SEtGOi92yZM5TyAGlXlpZ) | 4:27 |
-| 6 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/3PIDciSFdrQxSQSihim3hN) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 2:33 |
+| 6 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/3PIDciSFdrQxSQSihim3hN) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 2:35 |
 | 7 | [Driving Home for Christmas \- Spotify Singles Holiday](https://open.spotify.com/track/2gciS7UJjv59l7608DFGNl) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Driving Home for Christmas \- Spotify Singles Holiday](https://open.spotify.com/album/0gmojjrEnKs0BoN1WnYh8x) | 2:46 |
 | 8 | [We Wish You The Merriest](https://open.spotify.com/track/6ImuFqEAZf9dkpuYahSr0K) | [Seth MacFarlane](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW), [Liz Gillies](https://open.spotify.com/artist/7pLntWGInZPQxc4kXxzzjB) | [We Wish You The Merriest](https://open.spotify.com/album/4ysE4YdybaD1lNHcPBSCkY) | 2:26 |
 | 9 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/0jPnNZS9IJ0awbpFLZr3EY) | [Kate Hudson](https://open.spotify.com/artist/5AILMlfEtVO0ehMpDhesME) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/7qZx1FWE5Li3mAPmUlyCHx) | 3:55 |

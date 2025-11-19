@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpQPPZq3F7n.md) - [plain]
 
 > Let these songs be the background score to your love story\.  Cover \- Saiyaara
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,703,864 likes - 75 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,704,482 likes - 75 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

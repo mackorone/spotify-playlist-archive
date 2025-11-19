@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 
 > Come alive with this progressive & melodic house selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,270 likes - 60 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,331 likes - 60 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 35 | [Wayside](https://open.spotify.com/track/41BRWHGuqEcSZszacBBCld) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw), [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [We Are Always Under The Same Sky](https://open.spotify.com/album/0SpZZ8NyMsk2xlKrp9rBkJ) | 4:09 |
 | 36 | [Weightless](https://open.spotify.com/track/3ZDr3LJNCHailBSkpc29SF) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Weightless](https://open.spotify.com/album/1hRQTykXLhpCU8QGBLWVh8) | 3:42 |
 | 37 | [Lighter](https://open.spotify.com/track/0LJeMisvD34COpkt7QFFIO) | [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu), [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [Lighter](https://open.spotify.com/album/50lrGLN2b1eO2t1rIuzc3h) | 3:07 |
-| 38 | [come home](https://open.spotify.com/track/1MDB9jQulqzJ0EiBzIFLMv) | [LSR/CITY](https://open.spotify.com/artist/0YQ22xAzgefaKw8vKCAEp2), [Annabel](https://open.spotify.com/artist/4zR2t8bagib4ozydVgb93l) | [come home](https://open.spotify.com/album/5BePg04gVbSdstdgD4L1ap) | 3:23 |
-| 39 | [Lifetime](https://open.spotify.com/track/4fngEmw1UWrEomobMMONyL) | [J Ribbon](https://open.spotify.com/artist/0d3EDVe5qgeW2UnrPgPhsk) | [Lifetime](https://open.spotify.com/album/3YYhyx9KGWk1wPwU01tbdW) | 3:05 |
+| 38 | [Lifetime](https://open.spotify.com/track/4fngEmw1UWrEomobMMONyL) | [J Ribbon](https://open.spotify.com/artist/0d3EDVe5qgeW2UnrPgPhsk) | [Lifetime](https://open.spotify.com/album/3YYhyx9KGWk1wPwU01tbdW) | 3:05 |
+| 39 | [come home](https://open.spotify.com/track/1MDB9jQulqzJ0EiBzIFLMv) | [LSR/CITY](https://open.spotify.com/artist/0YQ22xAzgefaKw8vKCAEp2), [Annabel](https://open.spotify.com/artist/4zR2t8bagib4ozydVgb93l) | [come home](https://open.spotify.com/album/5BePg04gVbSdstdgD4L1ap) | 3:23 |
 | 40 | [Keep Dancing](https://open.spotify.com/track/0WYihY6WRZeHYixHV6cMSP) | [heylucas](https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4), [Lily Denning](https://open.spotify.com/artist/3gY5phLoPwEPBcHXck53XX) | [Keep Dancing](https://open.spotify.com/album/7478dTxcx2Gg9zuoKLF3RG) | 3:00 |
 | 41 | [Before The Storm](https://open.spotify.com/track/1Rd0kA3ditVAlVAb5Hdb1p) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Rinzen](https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI) | [Before The Storm](https://open.spotify.com/album/3STvJmVOJVqeBMRvuNHfoS) | 6:09 |
 | 42 | [Martin](https://open.spotify.com/track/6o9cf8uFietnTZLtSGCvHH) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Bloom](https://open.spotify.com/album/57OLEpkhCXysV9FWrSbwid) | 3:49 |

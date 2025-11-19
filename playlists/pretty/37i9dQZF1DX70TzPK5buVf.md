@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70TzPK5buVf.md) - [plain]
 
 > Funk to these good ol' funky soul classics!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,303,198 likes - 75 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,303,187 likes - 75 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70TzPK5buVf.md) - [plain]
 | 7 | [Fantastic Voyage \- Extended](https://open.spotify.com/track/64JkfFIUe4gQTCXCQESF2X) | [Lakeside](https://open.spotify.com/artist/74lTWE4DqbFU3Vn8z4uH72) | [The Best of Lakeside](https://open.spotify.com/album/6qEgsBxOzMnrWyc4iOhGQp) | 6:09 |
 | 8 | [Got To Give It Up \- Pt\. 1](https://open.spotify.com/track/7ohR0qPH6f2Vuj2pUNanJG) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Every Great Motown Hit Of Marvin Gaye](https://open.spotify.com/album/4JdEAA9aYadM2pZ96VHKNL) | 4:15 |
 | 9 | [Funkin' for Jamaica](https://open.spotify.com/track/55xXj4qc4ByMxcVRb5Slc4) | [Tom Browne](https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9) | [Love Approach \(Bonus Track\)](https://open.spotify.com/album/7MKr7uOdenxSKTk0RCZ0mP) | 4:42 |
-| 10 | [Blame It on the Boogie](https://open.spotify.com/track/0ryUadrXsahO3mASlKUJlT) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [The Essential Michael Jackson](https://open.spotify.com/album/77dNyQA0z8dV33M4so4eRY) | 3:30 |
+| 10 | [Blame It on the Boogie](https://open.spotify.com/track/0ryUadrXsahO3mASlKUJlT) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [The Essential Michael Jackson](https://open.spotify.com/album/77dNyQA0z8dV33M4so4eRY) | 3:35 |
 | 11 | [Rock Steady](https://open.spotify.com/track/7rvGZDlfqCjY9EWEUg3Xs6) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Young, Gifted and Black](https://open.spotify.com/album/0k5C3Z7w7uQpyGFQEzl7yB) | 3:13 |
 | 12 | [Get Up Offa That Thing](https://open.spotify.com/track/3whRKAOlJ0M3banzcChvQv) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Cold Sweat & Other Soul Classics: James Brown](https://open.spotify.com/album/6CygdzTfDPgHKm8RAuiV7R) | 4:10 |
 | 13 | [Use Me](https://open.spotify.com/track/4gRA0i5sxx3jAhHaVjPnUN) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Still Bill](https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v) | 3:48 |

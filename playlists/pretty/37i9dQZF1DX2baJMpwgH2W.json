@@ -1,6 +1,6 @@
 {
   "description": "Ballads from the best shows, from the West End and beyond.",
-  "num_followers": 177435,
+  "num_followers": 177439,
   "original_name": "Ballads From The Musicals",
   "owner": {
     "name": "Spotify",
@@ -127,6 +127,22 @@
     {
       "added_at": "2024-11-26 16:17:17",
       "album": {
+        "name": "The Greatest Showman (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7ayBZIe1FHkNv0T5xFCX6F"
+      },
+      "artists": [
+        {
+          "name": "Michelle Williams",
+          "url": "https://open.spotify.com/artist/2LAqcqAQ8KPTsl1HBgBrqM"
+        }
+      ],
+      "duration_ms": 234360,
+      "name": "Tightrope",
+      "url": "https://open.spotify.com/track/0GVuLQtPXFaL18ijEOqoAa"
+    },
+    {
+      "added_at": "2024-11-26 16:17:17",
+      "album": {
         "name": "Tangled",
         "url": "https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 224240,
       "name": "I See the Light - From \"Tangled\" / Soundtrack Version",
       "url": "https://open.spotify.com/track/6klpXs2uAjagnZMFkt4qkl"
-    },
-    {
-      "added_at": "2024-11-26 16:17:17",
-      "album": {
-        "name": "The Greatest Showman (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7ayBZIe1FHkNv0T5xFCX6F"
-      },
-      "artists": [
-        {
-          "name": "Michelle Williams",
-          "url": "https://open.spotify.com/artist/2LAqcqAQ8KPTsl1HBgBrqM"
-        }
-      ],
-      "duration_ms": 234360,
-      "name": "Tightrope",
-      "url": "https://open.spotify.com/track/0GVuLQtPXFaL18ijEOqoAa"
     },
     {
       "added_at": "2024-11-26 16:17:17",

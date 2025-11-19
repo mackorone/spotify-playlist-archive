@@ -1,6 +1,6 @@
 {
   "description": "A soundtrack to fuel your good mood while on the road.",
-  "num_followers": 6700885,
+  "num_followers": 6701437,
   "original_name": "Classic Road Trip Songs",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2021-11-12 16:54:53",
       "album": {
-        "name": "Leftoverture (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7MejfRSNnrpcLZIxkeZDqR"
-      },
-      "artists": [
-        {
-          "name": "Kansas",
-          "url": "https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1"
-        }
-      ],
-      "duration_ms": 323000,
-      "name": "Carry on Wayward Son",
-      "url": "https://open.spotify.com/track/4DMKwE2E2iYDKY01C335Uw"
-    },
-    {
-      "added_at": "2021-11-12 16:54:53",
-      "album": {
         "name": "I Love Rock 'N' Roll (Expanded Edition)",
         "url": "https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 175173,
       "name": "I Love Rock 'N Roll",
       "url": "https://open.spotify.com/track/2Cdvbe2G4hZsnhNMKyGrie"
+    },
+    {
+      "added_at": "2021-11-12 16:54:53",
+      "album": {
+        "name": "Leftoverture (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7MejfRSNnrpcLZIxkeZDqR"
+      },
+      "artists": [
+        {
+          "name": "Kansas",
+          "url": "https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1"
+        }
+      ],
+      "duration_ms": 323000,
+      "name": "Carry on Wayward Son",
+      "url": "https://open.spotify.com/track/4DMKwE2E2iYDKY01C335Uw"
     },
     {
       "added_at": "2021-11-12 16:54:53",
@@ -505,38 +505,6 @@
       "url": "https://open.spotify.com/track/5dRQUolXAVX3BbCiIxmSsf"
     },
     {
-      "added_at": "2022-04-08 18:54:53",
-      "album": {
-        "name": "Rumours",
-        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 193346,
-      "name": "Don't Stop - 2004 Remaster",
-      "url": "https://open.spotify.com/track/4bEb3KE4mSKlTFjtWJQBqO"
-    },
-    {
-      "added_at": "2021-11-12 16:54:53",
-      "album": {
-        "name": "Rio (Collector's Edition)",
-        "url": "https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm"
-      },
-      "artists": [
-        {
-          "name": "Duran Duran",
-          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
-        }
-      ],
-      "duration_ms": 220626,
-      "name": "Hungry Like the Wolf - 2009 Remaster",
-      "url": "https://open.spotify.com/track/39lSeqnyjZJejRuaREfyLL"
-    },
-    {
       "added_at": "2021-11-12 16:54:53",
       "album": {
         "name": "Breakfast In America (Deluxe Edition)",
@@ -569,6 +537,22 @@
       "url": "https://open.spotify.com/track/2BY7ALEWdloFHgQZG6VMLA"
     },
     {
+      "added_at": "2022-04-08 18:54:53",
+      "album": {
+        "name": "Rumours",
+        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 193346,
+      "name": "Don't Stop - 2004 Remaster",
+      "url": "https://open.spotify.com/track/4bEb3KE4mSKlTFjtWJQBqO"
+    },
+    {
       "added_at": "2021-11-12 16:54:53",
       "album": {
         "name": "Discovery",
@@ -580,9 +564,25 @@
           "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
         }
       ],
-      "duration_ms": 243373,
+      "duration_ms": 243132,
       "name": "Don't Bring Me Down",
       "url": "https://open.spotify.com/track/72ahyckBJfTigJCFCviVN7"
+    },
+    {
+      "added_at": "2021-11-12 16:54:53",
+      "album": {
+        "name": "Rio (Collector's Edition)",
+        "url": "https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm"
+      },
+      "artists": [
+        {
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        }
+      ],
+      "duration_ms": 220626,
+      "name": "Hungry Like the Wolf - 2009 Remaster",
+      "url": "https://open.spotify.com/track/39lSeqnyjZJejRuaREfyLL"
     },
     {
       "added_at": "2021-11-12 16:54:53",
@@ -852,7 +852,7 @@
           "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
         }
       ],
-      "duration_ms": 212306,
+      "duration_ms": 211708,
       "name": "Livin' Thing",
       "url": "https://open.spotify.com/track/2hdNya0b6Cc2YJ8IyaQIWp"
     },
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2021-11-12 16:54:53",
       "album": {
-        "name": "The Cars",
-        "url": "https://open.spotify.com/album/4tJPWT4r4FSKwy784Qs1Fq"
-      },
-      "artists": [
-        {
-          "name": "The Cars",
-          "url": "https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp"
-        }
-      ],
-      "duration_ms": 225626,
-      "name": "Just What I Needed",
-      "url": "https://open.spotify.com/track/4alHo6RGd0D3OUbTPExTHN"
-    },
-    {
-      "added_at": "2021-11-12 16:54:53",
-      "album": {
         "name": "Asia",
         "url": "https://open.spotify.com/album/5TkfP3cqWgeBvCugPeiGNl"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 227893,
       "name": "Heat Of The Moment",
       "url": "https://open.spotify.com/track/1nmZ8yqKkfooOuYvtFctDp"
+    },
+    {
+      "added_at": "2021-11-12 16:54:53",
+      "album": {
+        "name": "The Cars",
+        "url": "https://open.spotify.com/album/4tJPWT4r4FSKwy784Qs1Fq"
+      },
+      "artists": [
+        {
+          "name": "The Cars",
+          "url": "https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp"
+        }
+      ],
+      "duration_ms": 225626,
+      "name": "Just What I Needed",
+      "url": "https://open.spotify.com/track/4alHo6RGd0D3OUbTPExTHN"
     },
     {
       "added_at": "2022-10-03 15:51:09",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2021-11-12 16:54:53",
       "album": {
+        "name": "Diamond Dogs (2016 Remaster)",
+        "url": "https://open.spotify.com/album/72mfhbEsMtXR6s7v9UhKe3"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 274746,
+      "name": "Rebel Rebel - 2016 Remaster",
+      "url": "https://open.spotify.com/track/2EC9IJj7g0mN1Q5VrZkiYY"
+    },
+    {
+      "added_at": "2021-11-12 16:54:53",
+      "album": {
         "name": "Tropico",
         "url": "https://open.spotify.com/album/5qxb9JwzVz5EqegShruoM8"
       },
@@ -1291,18 +1307,18 @@
     {
       "added_at": "2021-11-12 16:54:53",
       "album": {
-        "name": "Diamond Dogs (2016 Remaster)",
-        "url": "https://open.spotify.com/album/72mfhbEsMtXR6s7v9UhKe3"
+        "name": "The Best Of Everything - The Definitive Career Spanning Hits Collection 1976-2016",
+        "url": "https://open.spotify.com/album/32OhZ2CWxc259H9w52JMTH"
       },
       "artists": [
         {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
         }
       ],
-      "duration_ms": 274746,
-      "name": "Rebel Rebel - 2016 Remaster",
-      "url": "https://open.spotify.com/track/2EC9IJj7g0mN1Q5VrZkiYY"
+      "duration_ms": 261812,
+      "name": "Runnin' Down A Dream",
+      "url": "https://open.spotify.com/track/5yAu4njFSdM47dfsTkQPZ2"
     },
     {
       "added_at": "2022-04-08 18:54:53",
@@ -1319,22 +1335,6 @@
       "duration_ms": 234866,
       "name": "You Ain't Seen Nothing Yet",
       "url": "https://open.spotify.com/track/0HOrDVS349XFcpCYsO2hAP"
-    },
-    {
-      "added_at": "2021-11-12 16:54:53",
-      "album": {
-        "name": "The Best Of Everything - The Definitive Career Spanning Hits Collection 1976-2016",
-        "url": "https://open.spotify.com/album/32OhZ2CWxc259H9w52JMTH"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty",
-          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
-        }
-      ],
-      "duration_ms": 261812,
-      "name": "Runnin' Down A Dream",
-      "url": "https://open.spotify.com/track/5yAu4njFSdM47dfsTkQPZ2"
     },
     {
       "added_at": "2021-11-12 16:54:53",

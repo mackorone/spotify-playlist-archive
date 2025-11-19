@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUnxTFrYlC2a.md) - [plain]
 
 > 🍬😝 CA7RIEL & Paco Amoroso EN PORTADA
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,612 likes - 72 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,600 likes - 72 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUnxTFrYlC2a.md) - [plain]
 | 16 | [malibU](https://open.spotify.com/track/4uulymZhmebsjKedRaJ1gQ) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [DAISY](https://open.spotify.com/album/0o1RGF3A02UN1aVAX1SLuQ) | 3:35 |
 | 17 | [Tiempo Perfecto](https://open.spotify.com/track/2gJ5HpHVVkFu5eQkw0eIt0) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [Tiempo Perfecto](https://open.spotify.com/album/3Wy3lKA5xLbmitR75IuhkI) | 4:59 |
 | 18 | [Se fue la luz](https://open.spotify.com/track/39PPT5p915YbhBfa8GWi4H) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Se fue la luz](https://open.spotify.com/album/06apbSuVacUMztWSj9USqW) | 3:32 |
-| 19 | [DUMBAI \- Live at NPR MUSIC's Tiny Desk](https://open.spotify.com/track/7mUGgxv8KdYSnNyCUdZaro) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf), [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [PAPOTA](https://open.spotify.com/album/1NDJk94691Vydq1IrIeGC0) | 2:41 |
+| 19 | [DUMBAI \- Live at NPR MUSIC's Tiny Desk](https://open.spotify.com/track/7mUGgxv8KdYSnNyCUdZaro) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX) | [PAPOTA](https://open.spotify.com/album/1NDJk94691Vydq1IrIeGC0) | 2:41 |
 | 20 | [QLOO\*](https://open.spotify.com/track/2mdrVnxEnPR6iFijakkxQS) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Kreamly](https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk) | [QLOO\*](https://open.spotify.com/album/2GgT2TLwb9WzzYcUuspH5L) | 2:28 |
 | 21 | [CELL](https://open.spotify.com/track/52YWbcGCtHtj05rVtLelqI) | [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [CELL](https://open.spotify.com/album/2lQimFLMOUtfewfjvsgJBM) | 2:18 |
 | 22 | [ronaldinho](https://open.spotify.com/track/2eZU3uZaN5PVDfRnETEzLj) | [1111](https://open.spotify.com/artist/7s5UemXTsq4giWtzr4fqiN), [9ckles](https://open.spotify.com/artist/1DfbSaxJu1kOKS0uOLcKYR), [Armas](https://open.spotify.com/artist/6zG5DsamSoeRGvrRAfML8u), [Fedra](https://open.spotify.com/artist/6HQEJXnpcTf5tgnqfujaW2), [ru0001](https://open.spotify.com/artist/2mKl8gU4ZLvNQdYk55wLOu) | [la mil ciento once](https://open.spotify.com/album/4FA7bK3jB76cYBnTfvchn2) | 2:12 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUnxTFrYlC2a.md) - [plain]
 | 27 | [1111 Falla \- Original](https://open.spotify.com/track/795V6n9CvGJQwoMguAPjfY) | [Mushu](https://open.spotify.com/artist/2GNwvCUYYwEk8flXZMqhdk) | [Tierra de Jazz \(Lado B\)](https://open.spotify.com/album/0ev1h3q5O9pGskmBsNRfbk) | 2:21 |
 | 28 | [BOBOMENSOTONTO](https://open.spotify.com/track/7yjSJCFHonG9hz1A8WHHbn) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu), [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O) | [ATP](https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe) | 3:01 |
 | 29 | [PRAY4ME](https://open.spotify.com/track/4xbpljNCfVAa5m5GqtShzQ) | [Recycled J](https://open.spotify.com/artist/4bWHA8fMNjzfGPQqnh5D6y), [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy), [DRUMMIE](https://open.spotify.com/artist/569eg6JD5GgpfbGJ1b81b5) | [SAN JORGE](https://open.spotify.com/album/5SMgH661iAfJixb3gVRtH5) | 2:55 |
-| 30 | [\#TETAS](https://open.spotify.com/track/2RAKwOzLiXA8AgA1pFIuFe) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf), [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [PAPOTA](https://open.spotify.com/album/1NDJk94691Vydq1IrIeGC0) | 2:29 |
+| 30 | [\#TETAS](https://open.spotify.com/track/2RAKwOzLiXA8AgA1pFIuFe) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX) | [PAPOTA](https://open.spotify.com/album/1NDJk94691Vydq1IrIeGC0) | 2:29 |
 | 31 | [algo así \(remix\)](https://open.spotify.com/track/6P6w5zbJBGNoID8rd365aZ) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [diamante$ + espina$](https://open.spotify.com/album/3nLYJGsqBARtdGRcOmdzgB) | 3:43 |
 | 32 | [AMOR DE CINE](https://open.spotify.com/track/0v9UztY5A12cJUsWD7PZzS) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [AURORA](https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs) | 4:22 |
 | 33 | [GUARANÁ](https://open.spotify.com/track/2Dv5IjPlAN24FJZUarybu4) | [nusar3000](https://open.spotify.com/artist/2Mvgw0Sfyepmz6lgRAooex) | [JUGO VOL\. I \(RMX\)](https://open.spotify.com/album/6WwXAmzwLMojJh3Cd21vwv) | 2:01 |

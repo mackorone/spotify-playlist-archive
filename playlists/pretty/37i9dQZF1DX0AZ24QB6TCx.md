@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 
 > Relax with deep house and electronica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,759 likes - 70 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,794 likes - 70 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 28 | [Laika.](https://open.spotify.com/track/3EA4UHJwQhkGDEoESpz0px) | [Montee](https://open.spotify.com/artist/2rgFqpsqtoEJGOr0JzFxtG), [Misc.Inc](https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi) | [Laika.](https://open.spotify.com/album/67BUFgh99F0rfnZOKrxPSP) | 3:00 |
 | 29 | [Healing](https://open.spotify.com/track/6BFgRgJWIuIba0K5IKupnT) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Healing](https://open.spotify.com/album/0A8OvnT0h2rXSqZjdSdwQF) | 4:11 |
 | 30 | [Extraordinary \- Radio Edit](https://open.spotify.com/track/2yAGQ2mDaMg4hfckXmkI8L) | [She Knows](https://open.spotify.com/artist/1mbYwpQqPnkAThstKosMer) | [Extraordinary](https://open.spotify.com/album/67Wo8I6Z0lG6Pb18DMlZkc) | 3:49 |
-| 31 | [Spectrum](https://open.spotify.com/track/4rw9xbxHWWRuihfAvQG3M2) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Unspoken Words](https://open.spotify.com/album/5JuO2GgzgGLrF1Kz0l82Qk) | 4:45 |
-| 32 | [Cloudline \(Parra for Cuva Reimagination\)](https://open.spotify.com/track/4zfkAmevNeLU7OmOjHVD4k) | [Aukai](https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny), [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Cloudline \(Parra for Cuva Reimagination\)](https://open.spotify.com/album/5oUwhn4vBBNlaAqLNidLXi) | 4:56 |
+| 31 | [Cloudline \(Parra for Cuva Reimagination\)](https://open.spotify.com/track/4zfkAmevNeLU7OmOjHVD4k) | [Aukai](https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny), [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Cloudline \(Parra for Cuva Reimagination\)](https://open.spotify.com/album/5oUwhn4vBBNlaAqLNidLXi) | 4:56 |
+| 32 | [Spectrum](https://open.spotify.com/track/4rw9xbxHWWRuihfAvQG3M2) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Unspoken Words](https://open.spotify.com/album/5JuO2GgzgGLrF1Kz0l82Qk) | 4:45 |
 | 33 | [Rosewood](https://open.spotify.com/track/3MOhipHFUkGpS0rV7cKrJO) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Rosewood](https://open.spotify.com/album/0jjMHsOQJzzRi3JpxiS5xj) | 4:02 |
 | 34 | [Firmoral](https://open.spotify.com/track/4o2LMdyunFhlVlDacprnUQ) | [Polar Inc.](https://open.spotify.com/artist/5r2fdrpH44S8EdFXO4jWfI) | [Purified Fragments Vi](https://open.spotify.com/album/7zy8P6zIkCeX5dEBwbNTGJ) | 3:48 |
 | 35 | [Miyanosawa](https://open.spotify.com/track/25NyrNbtdNc2G9NE2werEN) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Miyanosawa](https://open.spotify.com/album/1kogXGRFKVpkbRZE6lLmOu) | 3:28 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 43 | [Clarion \- Kiasmos Remix](https://open.spotify.com/track/3VSQJhXdcJZOLyTLPbmxDr) | [Ben Lukas Boysen](https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER), [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD) | [Clarion \(Kiasmos Remix\)](https://open.spotify.com/album/57HX6lB11c4KENls8XUfAD) | 5:43 |
 | 44 | [Vanished](https://open.spotify.com/track/5Fbo9zn7cgWNAsDabYeEL2) | [Ceas](https://open.spotify.com/artist/6poVmwB0wQp0blleNlIUKM) | [Vanished](https://open.spotify.com/album/51x6mmvl5ilrYHSO0nM3KI) | 5:56 |
 | 45 | [Les Orangers](https://open.spotify.com/track/0aEwYyCvLEMNWmc7u0vqHp) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [Les Orangers](https://open.spotify.com/album/4rGdiQW6mqpCwKYD885Dmk) | 6:42 |
-| 46 | [Something About](https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Something About](https://open.spotify.com/album/3qlZd2dgippiunzkO8D0pM) | 3:44 |
-| 47 | [Three Drums](https://open.spotify.com/track/2FRIWWs5xxPoQrk5pMmsQN) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three Drums](https://open.spotify.com/album/6zPGFGI2VVFGbiGTlsI237) | 8:15 |
+| 46 | [Three Drums](https://open.spotify.com/track/2FRIWWs5xxPoQrk5pMmsQN) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three Drums](https://open.spotify.com/album/6zPGFGI2VVFGbiGTlsI237) | 8:15 |
+| 47 | [Something About](https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Something About](https://open.spotify.com/album/3qlZd2dgippiunzkO8D0pM) | 3:44 |
 | 48 | [Peace](https://open.spotify.com/track/0JsdRVcOPmk5MqlifhWPQl) | [MEUTE](https://open.spotify.com/artist/1z5xbcOeFRQXBVDpvRPh8H) | [Peace](https://open.spotify.com/album/2OEzkuJirqao61dblPqLuX) | 7:47 |
 | 49 | [Turning Away \- Parra for Cuva Remix](https://open.spotify.com/track/02JRU5lHhypYRUKlF4mw8o) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Turning Away \(Parra for Cuva Remix\)](https://open.spotify.com/album/1lIxiDKxX65zzDz9J1UVVs) | 4:21 |
 | 50 | [Far Behind \- Jeremy Olander Remix](https://open.spotify.com/track/59GHYFeuqYdp6KX8HAvEAi) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI), [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB) | [A Radiant Sign \(Remixed\)](https://open.spotify.com/album/5gWPZTg4FHp9yi7uXjDGgM) | 3:47 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 65 | [Shades of You \(feat\. Henry Green\) \- Tim Engelhardt Remix](https://open.spotify.com/track/0YXbPIuXsDyRFpA7rLwz3m) | [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp), [Tim Engelhardt](https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE) | [Hiraeth Remixes](https://open.spotify.com/album/5ma5FaYh586UIRYpQihkqC) | 6:37 |
 | 66 | [Oh, Lover \- NTO Remix](https://open.spotify.com/track/2gWA2eWOso3Ncj5navWlmz) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow), [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [Oh, Lover \(NTO Remix\)](https://open.spotify.com/album/7sCU7QpAGHxxqvekykCm2N) | 5:16 |
 | 67 | [Eye of the Storm](https://open.spotify.com/track/0J5RmlZclG6vzuU4p6EDiu) | [Yannek Maunz](https://open.spotify.com/artist/2Kpl9Z7stnwWTE8tZK7srj), [Ivy Purple](https://open.spotify.com/artist/0kHMWR7Mbh9rkQGgjVtdOF) | [Eye of the Storm](https://open.spotify.com/album/61I90KD5xtxdSutb8LJxCw) | 7:38 |
-| 68 | [Outside](https://open.spotify.com/track/3UaFSJ0Oycs0SVSEWgfGqO) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Outside](https://open.spotify.com/album/1sJDL3FIePJVTbHo2ffJ17) | 3:58 |
-| 69 | [Blissda](https://open.spotify.com/track/5trIxTDiFfTeqnRiRjW0A8) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Blissda](https://open.spotify.com/album/1ZHRTJ5kAhqFbfm3MFCxZ9) | 5:43 |
+| 68 | [Blissda](https://open.spotify.com/track/5trIxTDiFfTeqnRiRjW0A8) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Blissda](https://open.spotify.com/album/1ZHRTJ5kAhqFbfm3MFCxZ9) | 5:43 |
+| 69 | [Outside](https://open.spotify.com/track/3UaFSJ0Oycs0SVSEWgfGqO) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Outside](https://open.spotify.com/album/1sJDL3FIePJVTbHo2ffJ17) | 3:58 |
 | 70 | [Dreaming](https://open.spotify.com/track/6DpIKPZTfbPr5spl1bHyda) | [Matt Nash](https://open.spotify.com/artist/0hxW1uZPEjt4wuu9wNDF2y) | [Dreaming](https://open.spotify.com/album/47FOIxBN2NCLwO6g3NjtP1) | 3:40 |
 
 Snapshot ID: `AAAAAPirBAluyJWzIb7QJkcyA70t8kzy`

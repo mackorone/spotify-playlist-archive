@@ -1,12 +1,12 @@
 {
   "description": "This is Anti-Flag. The essential tracks, all in one playlist.",
-  "num_followers": 16534,
+  "num_followers": 16533,
   "original_name": "This Is Anti-Flag",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRkUAAAAAACucm+CwSwfvpkZj9pj2dhg",
+  "snapshot_id": "aRplgAAAAACkpk6S+7jkJw4ysMZVWfVR",
   "tracks": [
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A New Kind of Army",
-        "url": "https://open.spotify.com/album/1Y0Z1edYpuumeeELWdseMv"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 153991,
-      "name": "Captain Anarchy",
-      "url": "https://open.spotify.com/track/1tqC8SbK0zAPOOhq0YXc5Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The General Strike",
         "url": "https://open.spotify.com/album/406J0Oguq0uZBtJmsc5juw"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 165767,
       "name": "This Is the New Sound",
       "url": "https://open.spotify.com/track/4t98qp03cHX5oau9jsxE0M"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A New Kind of Army",
+        "url": "https://open.spotify.com/album/1Y0Z1edYpuumeeELWdseMv"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 153991,
+      "name": "Captain Anarchy",
+      "url": "https://open.spotify.com/track/1tqC8SbK0zAPOOhq0YXc5Z"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The People Or the Gun",
-        "url": "https://open.spotify.com/album/5PAiVz2v0z9FqOI7e9Ebvn"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 170400,
-      "name": "Sodom, Gomorrah, Washington D.C. (Sheep in Shepherds Clothing)",
-      "url": "https://open.spotify.com/track/6yYrpq7dyqQGxw5XB9nShv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LIES THEY TELL OUR CHILDREN",
         "url": "https://open.spotify.com/album/0y6Yl2xeyimgGJvIt2aNbk"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 211866,
       "name": "VICTORY OR DEATH (WE GAVE 'EM HELL) (feat. Campino of Die Toten Hosen)",
       "url": "https://open.spotify.com/track/1gLX2nqjwB7J7udA95Zmr3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The People Or the Gun",
+        "url": "https://open.spotify.com/album/5PAiVz2v0z9FqOI7e9Ebvn"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 170400,
+      "name": "Sodom, Gomorrah, Washington D.C. (Sheep in Shepherds Clothing)",
+      "url": "https://open.spotify.com/track/6yYrpq7dyqQGxw5XB9nShv"
     },
     {
       "added_at": null,

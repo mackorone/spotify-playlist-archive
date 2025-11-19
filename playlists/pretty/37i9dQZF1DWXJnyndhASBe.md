@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Kizo
 
-[Spotify](https://open.spotify.com/user/spotify) - 574,836 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 574,822 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 9 | [NAWETT JAK](https://open.spotify.com/track/1jFjbuYdJ7U1RVzZ8GLnSx) | [Otsochodzi](https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB), [lohleq](https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF), [@atutowy](https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a) | [NAWETT JAK](https://open.spotify.com/album/56aHZhK2Uf58bwZiiF7VmW) | 2:22 |
 | 10 | [GGG FREESTYLE](https://open.spotify.com/track/6Who976rqdqGrdZWW7IPtr) | [Zeamsone](https://open.spotify.com/artist/1FdfWn1DrRwWDtRK8faYKY) | [GGG FREESTYLE](https://open.spotify.com/album/2oLqpPHrYCpKSDqVc79OpB) | 3:21 |
 | 11 | [Nie bój się bać](https://open.spotify.com/track/0LvpebWbdZaeN4Izhk9yM3) | [PRO8L3M](https://open.spotify.com/artist/7v49oVVUhvIQG5EK0jkcF7), [Anita Lipnicka](https://open.spotify.com/artist/3JIRLDbCJ55I5nevDYiasK), [Luxon](https://open.spotify.com/artist/62Gar1Ac49mJeo3bRuHnkc) | [Nie bój się bać](https://open.spotify.com/album/3MGZ2sgslhF9py8bNpdkIN) | 3:36 |
-| 12 | [50 koła](https://open.spotify.com/track/6KVbv9CcdBQJSYiO6Iq7LO) | [Okekel](https://open.spotify.com/artist/2FkgKcXTqukAQ9GuXFzgN3), [Młody West](https://open.spotify.com/artist/1bOTP9P3CS97UwhBm2WekK), [Nolyrics Beats](https://open.spotify.com/artist/4z9oiedO8ugGNpfbJcg0iq) | [50 koła](https://open.spotify.com/album/49iBrHq4djzuWTCLwGD7hl) | 3:16 |
+| 12 | [50 koła](https://open.spotify.com/track/6KVbv9CcdBQJSYiO6Iq7LO) | [Okekel](https://open.spotify.com/artist/2FkgKcXTqukAQ9GuXFzgN3), [Młody West](https://open.spotify.com/artist/1bOTP9P3CS97UwhBm2WekK) | [50 koła](https://open.spotify.com/album/49iBrHq4djzuWTCLwGD7hl) | 3:16 |
 | 13 | [Generał](https://open.spotify.com/track/6uh2Q3k0s7KbwhhaRDzXjt) | [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E), [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs) | [Generał](https://open.spotify.com/album/1GqNXK7ZG4tKCWem9isOCt) | 2:42 |
 | 14 | [DWA RAZY TYLE](https://open.spotify.com/track/2nIyuz4f11SjDi32mcSCnL) | [Chivas](https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA) | [DWA RAZY TYLE](https://open.spotify.com/album/0dBQpbBxl5s041GAA5vLja) | 2:07 |
 | 15 | [Presja środowiska](https://open.spotify.com/track/23ZcklE7HcPXMwrut4jdG1) | [Pezet](https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7), [Michał Lange](https://open.spotify.com/artist/5sh77l01GDJ6JfCWs1CiiB), [Auer](https://open.spotify.com/artist/4oRFYtb8Wfcsbaga2VqR1N) | [Muzyka Popularna](https://open.spotify.com/album/4gkNKj0RfEpaiT7D9tAvEU) | 4:13 |

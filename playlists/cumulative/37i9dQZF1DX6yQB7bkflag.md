@@ -4,7 +4,7 @@
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Charli xcx
 
-2,419 songs - 5 day 20 hr 13 min
+2,419 songs - 5 day 20 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -342,6 +342,7 @@
 | [Brown Eyed Baby](https://open.spotify.com/track/5cPYGdyQDvb6eyv9PhLIs8) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Brown Eyed Baby](https://open.spotify.com/album/0BbuNyHUWmDYrPUan7GNx9) | 2:59 | 2024-06-06 | 2024-06-28 |
 | [BTTF](https://open.spotify.com/track/4gkiXKGyp4PnHnOO70q8bK) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Go Back To The Future](https://open.spotify.com/album/2sOb21DLBATC7czm21LQoM) | 3:00 | 2025-07-17 | 2025-08-08 |
 | [Buang \- Buang Waktu](https://open.spotify.com/track/3KosRTfZJFnErNBMF1ugua) | [Nidji](https://open.spotify.com/artist/4sEWznAKWWNcicTuLxzb6d) | [Buang \- Buang Waktu](https://open.spotify.com/album/5jyZwljzuKZEKHprgTTmDv) | 3:16 | 2024-02-09 | 2024-03-01 |
+| [Buang Mantan](https://open.spotify.com/track/4NivuhjN2tXk6UstgauLpS) | [Tenny TAP](https://open.spotify.com/artist/2mjuC8gdXeRJkfWqHkZ62P) | [Buang Mantan](https://open.spotify.com/album/4IOXsITT4m02DPVGrMREGd) | 4:07 | 2025-11-14 |  |
 | [Buang Waktu](https://open.spotify.com/track/498HBb9Fg8djwl2kIkL33h) | [Meiska](https://open.spotify.com/artist/1ZT1OfVAO3kpOEHVejBxV8) | [Hanya Figuran](https://open.spotify.com/album/7lhbsQ75nktdtQNlwa06Gy) | 3:55 | 2024-07-11 | 2024-08-17 |
 | [Buang Waktu](https://open.spotify.com/track/6ZQst2HOrB4AguVEhM6jSl) | [Vintonic](https://open.spotify.com/artist/656eL5tEeJqWHwvkJn5TIW) | [Radio Dalam Hati](https://open.spotify.com/album/30wxKbcmjeNK4iJ3aYABLg) | 3:37 | 2025-11-07 |  |
 | [BUCK \(feat\. Diljit Dosanjh\)](https://open.spotify.com/track/70sREIqvDuuHKXSjmWMysS) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [BUCK \(feat\. Diljit Dosanjh\)](https://open.spotify.com/album/29xxo6iJM8mqwKYWTHCu06) | 2:43 | 2025-05-08 | 2025-06-06 |
@@ -1764,7 +1765,6 @@
 | [Sahabat](https://open.spotify.com/track/2amLA5AYQChuOWe73LqUJ0) | [Stand Here Alone](https://open.spotify.com/artist/3YwAgafEWJCd6Haotq7Qd2) | [Sahabat](https://open.spotify.com/album/1XqMXrRKA1o7O2G318fkJb) | 4:23 | 2025-05-22 | 2025-06-20 |
 | [Saham Naik](https://open.spotify.com/track/7nZO67lj0rbx9RLzc9KxmG) | [ALYPH](https://open.spotify.com/artist/3qeuv2ijwaAcbX3KVMJfuj) | [The Storm](https://open.spotify.com/album/3W0brGF5pZDWpEjjmupzB6) | 2:50 | 2025-01-23 | 2025-02-21 |
 | [SAINT](https://open.spotify.com/track/4auMua2dpYAQge1UGMiBnP) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [SAINT](https://open.spotify.com/album/7p5Nfjf6G1SC4xveOYrmHc) | 2:59 | 2024-06-06 | 2024-07-05 |
-| [Sajak Rindu](https://open.spotify.com/track/4NivuhjN2tXk6UstgauLpS) | [Peter Holly](https://open.spotify.com/artist/6jjRl6DiuWp03YdfGGI4fb) | [Sajak Rindu](https://open.spotify.com/album/4IOXsITT4m02DPVGrMREGd) | 4:31 | 2025-11-14 |  |
 | [Sakit Hati](https://open.spotify.com/track/3ogHZ8gDoMsTwVKSiFr37x) | [Kenriz](https://open.spotify.com/artist/0KNqyNkuttIabEfX3lSUuT), [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp) | [Sakit Hati](https://open.spotify.com/album/5zzs8bUKrWEQUxywA4Ju7e) | 3:47 | 2025-06-05 | 2025-08-23 |
 | [Sakura Abadi](https://open.spotify.com/track/6q8rtXPPOTqTHbdDm5y2El) | [Diskoria](https://open.spotify.com/artist/4Z9pg3LzMfuuSgl3hMDYuG), [Laleilmanino](https://open.spotify.com/artist/3Wf4i7kB01QI2wQlEgxKFm), [Neida](https://open.spotify.com/artist/6pXFLqoZMjMxHMwrNuueoW) | [Sakura Abadi](https://open.spotify.com/album/1CI0a2vCr0ecCMRWFFUOMB) | 6:45 | 2024-11-28 | 2025-01-24 |
 | [Salah Menaruh Hati](https://open.spotify.com/track/603dNtE5q3OHmWFtQkcE2Y) | [Adiva Adelia](https://open.spotify.com/artist/5YL3oC1bDNrBd1YciWxRsl) | [Salah Menaruh Hati](https://open.spotify.com/album/1lgfcB3q446ILwmW1NztJ6) | 4:30 | 2024-11-07 | 2024-11-29 |

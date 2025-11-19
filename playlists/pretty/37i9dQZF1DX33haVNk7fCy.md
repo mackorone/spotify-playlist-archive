@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 
 > Dukh Dard Peeda!  🫂
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,620 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,764 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 | 49 | [Dil Lauta Do](https://open.spotify.com/track/1VfUpyKz9uN7et8t6Qhe7v) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Dil Lauta Do](https://open.spotify.com/album/2VfuGeouepkWV0dsSoHZD8) | 5:02 |
 | 50 | [Mirza](https://open.spotify.com/track/4YQW2LiQxh3efV2En95t6U) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [JAI DHIR](https://open.spotify.com/artist/6T9VTdP8GxXoedKTls26pP) | [Mirza](https://open.spotify.com/album/1ncdWtw7rFMrDYSI49bMWd) | 1:00 |
 
-Snapshot ID: `AAAAAPQ3jHKfTau2dYaLchPI2puRok08`
+Snapshot ID: `AAAAAPthUxMVP33uks4MOzDWStiMUtZv`

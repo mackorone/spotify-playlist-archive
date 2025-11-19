@@ -4,12 +4,12 @@
 
 > I didn’t do my makeup just to cry!<br/>chloe moriondo on the cover.
 
-601 songs - 1 day 9 hr 39 min
+602 songs - 1 day 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [24](https://open.spotify.com/track/5nsMKSAJwcr1pA9I6PW429) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [24](https://open.spotify.com/album/3X4pg5g6RIl0Le8RSgiwfJ) | 2:13 | 2021-10-21 | 2025-03-11 |
-| [24/7](https://open.spotify.com/track/5EsODmIpUVw30t1Bq8dF5b) | [Moyka](https://open.spotify.com/artist/2u7pjisWrThF8JErPVIPlJ) | [24/7](https://open.spotify.com/album/2dWmHY90dhPLu5pKnI5qDh) | 2:37 | 2025-06-20 |  |
+| [24/7](https://open.spotify.com/track/5EsODmIpUVw30t1Bq8dF5b) | [Moyka](https://open.spotify.com/artist/2u7pjisWrThF8JErPVIPlJ) | [24/7](https://open.spotify.com/album/2dWmHY90dhPLu5pKnI5qDh) | 2:37 | 2025-06-20 | 2025-11-19 |
 | [4 In The Morning](https://open.spotify.com/track/64fSdRkaB7ksxI9suUGYmi) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [The Sweet Escape](https://open.spotify.com/album/7xnZ539lh8x6de9jzlpCJp) | 4:51 | 2019-07-28 | 2019-08-10 |
 | [8 Letters](https://open.spotify.com/track/4zRZAmBQP8vhNPf9i9opXt) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [8 Letters](https://open.spotify.com/album/2qIbHfs93z6eDwGoAdCkXA) | 3:10 | 2019-05-26\* | 2021-10-02 |
 | [8Track \- Spotify Singles](https://open.spotify.com/track/03erzHIEr9Oiv6u5OADpXB) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [8Track \(Spotify Singles\)](https://open.spotify.com/album/20UErVpYtx3XM72nRTWQcI) | 3:12 | 2021-11-20 | 2022-07-29 |
@@ -427,6 +427,7 @@
 | [Reminds Me](https://open.spotify.com/track/4KNlASXNNrYYmNZj4KG8qX) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Reminds Me](https://open.spotify.com/album/39YqiiIeV7BjNSZEggvI0F) | 2:37 | 2020-02-14 | 2021-10-23 |
 | [Reminds Me Of You](https://open.spotify.com/track/5YSHygGN9D0mID1NsVd5my) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Reminds Me Of You](https://open.spotify.com/album/16ilcI6xOgSh3Jd3bxF6MI) | 2:38 | 2021-01-08 | 2021-10-02 |
 | [Reunite](https://open.spotify.com/track/6tiW6fIVp2NaniQURK3n1Q) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Reunite](https://open.spotify.com/album/60BRAvQVlseoSpphGSoZEB) | 3:56 | 2025-10-10 |  |
+| [Right Hand Man](https://open.spotify.com/track/7y55jveNYMyVqBQNRUdZme) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Right Hand Man](https://open.spotify.com/album/7M2wRKrfmi8pyjrqdFR8Ih) | 3:25 | 2025-11-18 |  |
 | [Roses](https://open.spotify.com/track/6fqbblMIytVYfUn8ra4bdV) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Roses](https://open.spotify.com/album/7I1rq9232iROAhn1YTYKcc) | 3:10 | 2024-08-23 | 2025-07-01 |
 | [rubberband](https://open.spotify.com/track/2E8IlL26PwtZq7CqAHBBUw) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TOO YOUNG TO BE SAD](https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR) | 2:27 | 2024-01-22 | 2024-04-19 |
 | [rubberband](https://open.spotify.com/track/05ABOPiW13nqIedJfqmfPM) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [rubberband](https://open.spotify.com/album/3CWYvhScPEskXPOYiXG8SH) | 2:27 | 2021-01-23 |  |

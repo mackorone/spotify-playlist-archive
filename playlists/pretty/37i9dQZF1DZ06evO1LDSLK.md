@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LDSLK.md) - [plain]
 
 > This is Iggy Pop\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,124 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,125 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LDSLK.md) - [plain]
 | 20 | [China Girl](https://open.spotify.com/track/5nB8x0jxofKalTtaQLpGZL) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [The Idiot](https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6) | 5:08 |
 | 21 | [Sixteen](https://open.spotify.com/track/70ZlAJGfC4DesFw4oQ7YZM) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Lust For Life](https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz) | 2:26 |
 | 22 | [Les Feuilles Mortes](https://open.spotify.com/track/4jsfwKGrdOLfQM5DHheVz8) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Preliminaires](https://open.spotify.com/album/1CXwGPRwAbg5OOMhTB5xs9) | 3:55 |
-| 23 | [Beside You](https://open.spotify.com/track/2KZYHks9fBXCX1Ac8McutM) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [American Caesar](https://open.spotify.com/album/3f3HzLIKkqOGDAL0Iy0woi) | 4:29 |
-| 24 | [Loves Missing](https://open.spotify.com/track/4ZxEF6c6dHYiRkGQjsZEY5) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Free](https://open.spotify.com/album/7BLKzTgaj5fHkNpSPGwjwh) | 4:19 |
-| 25 | [Sister Midnight](https://open.spotify.com/track/4pU9OwAXdwghkgUhaZQQ3Q) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [The Idiot](https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6) | 4:20 |
+| 23 | [Loves Missing](https://open.spotify.com/track/4ZxEF6c6dHYiRkGQjsZEY5) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Free](https://open.spotify.com/album/7BLKzTgaj5fHkNpSPGwjwh) | 4:19 |
+| 24 | [Sister Midnight](https://open.spotify.com/track/4pU9OwAXdwghkgUhaZQQ3Q) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [The Idiot](https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6) | 4:20 |
+| 25 | [Beside You](https://open.spotify.com/track/2KZYHks9fBXCX1Ac8McutM) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [American Caesar](https://open.spotify.com/album/3f3HzLIKkqOGDAL0Iy0woi) | 4:29 |
 | 26 | [Everybody's Talkin'](https://open.spotify.com/track/5eSP5IqYqeMeIYoaTEs8yF) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Après \(10th\-anniversary edition\)](https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2) | 2:48 |
 | 27 | [He's Frank \- Slight Return](https://open.spotify.com/track/7kbOroxknznMU4k7MaWnZ4) | [The BPA](https://open.spotify.com/artist/1YJaPNfbWVIItItFlBrEK2), [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [He's Frank \(Slight Return\)](https://open.spotify.com/album/3cohHyy8SX0mbSi8cerA5F) | 3:17 |
 | 28 | [Fall In Love With Me](https://open.spotify.com/track/6YQjQdymVA9tvE0Ygnpsdd) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Lust For Life](https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz) | 6:32 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LDSLK.md) - [plain]
 | 33 | [Gold \- From The Original Motion Picture Soundtrack "Gold"](https://open.spotify.com/track/04AJSn0D3BHwT8FQ9q5FVp) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Gold \(From The Original Motion Picture Soundtrack "Gold"\)](https://open.spotify.com/album/3Enwyua0EjFqREWX2s2zpE) | 3:12 |
 | 34 | [James Bond](https://open.spotify.com/track/4MtGjAHHh3pSvJPaDltuhm) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Free](https://open.spotify.com/album/7BLKzTgaj5fHkNpSPGwjwh) | 4:31 |
 | 35 | [Tiny Girls](https://open.spotify.com/track/5Jwn7FaCOEvJmiWQACIKZ1) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [The Idiot](https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6) | 3:00 |
-| 36 | [Strung Out Johnny](https://open.spotify.com/track/6OGIBcJV5qV1FF5uiofnX0) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [EVERY LOSER](https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd) | 4:13 |
-| 37 | [Michelle](https://open.spotify.com/track/3L2CN09jZcXtet8kEVeLPz) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Après \(10th\-anniversary edition\)](https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2) | 2:43 |
+| 36 | [Michelle](https://open.spotify.com/track/3L2CN09jZcXtet8kEVeLPz) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Après \(10th\-anniversary edition\)](https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2) | 2:43 |
+| 37 | [Strung Out Johnny](https://open.spotify.com/track/6OGIBcJV5qV1FF5uiofnX0) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [EVERY LOSER](https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd) | 4:13 |
 | 38 | [This Is A Film \- "Arizona Dream" Original Motion Picture Soundtrack](https://open.spotify.com/track/1lJt4lE7eGIejYZBMcVdPu) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Welcome To Goran Bregovic](https://open.spotify.com/album/77MrRtQU0y7U4F1oz0ayda) | 4:13 |
 | 39 | [Dum Dum Boys](https://open.spotify.com/track/4D2oxcrgtaRlzpGwUVSKkA) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [The Idiot](https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6) | 7:13 |
 | 40 | [Louie Louie](https://open.spotify.com/track/15e3sz0HdP1TXxSdZV7bQc) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [American Caesar](https://open.spotify.com/album/3f3HzLIKkqOGDAL0Iy0woi) | 3:48 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LDSLK.md) - [plain]
 | 44 | [I'm Bored](https://open.spotify.com/track/6GVfe1CSI7n6G8818mPArW) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Arista Heritage Series: Iggy Pop](https://open.spotify.com/album/2uLW0zozcIW2QjSthikLLo) | 2:47 |
 | 45 | [I Want To Go To The Beach](https://open.spotify.com/track/3Jeyxi4v6n8VakOmiG4TPf) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Preliminaires](https://open.spotify.com/album/1CXwGPRwAbg5OOMhTB5xs9) | 2:52 |
 | 46 | [Supermarket](https://open.spotify.com/track/21AfGXS5oiWXpLxllErl9o) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4), [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Skull Ring](https://open.spotify.com/album/4y0DpbIDRVqf8MPGs1pvBu) | 3:01 |
-| 47 | [Sunday](https://open.spotify.com/track/2jRQcQFH7XLPsIFZsSuHkB) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Post Pop Depression](https://open.spotify.com/album/5jRBK15ic9i5C8ucN5LTx1) | 6:06 |
-| 48 | [Personal Jesus](https://open.spotify.com/track/1YX3505xUckBaX9qIkVROX) | [Trevor Horn](https://open.spotify.com/artist/2oQd3GVbHbjyCyeG4MGMuT), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4), [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [ECHOES – ANCIENT & MODERN](https://open.spotify.com/album/5tY51acOrbffScV0oR2Kbq) | 3:26 |
+| 47 | [Personal Jesus](https://open.spotify.com/track/1YX3505xUckBaX9qIkVROX) | [Trevor Horn](https://open.spotify.com/artist/2oQd3GVbHbjyCyeG4MGMuT), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4), [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [ECHOES – ANCIENT & MODERN](https://open.spotify.com/album/5tY51acOrbffScV0oR2Kbq) | 3:26 |
+| 48 | [Sunday](https://open.spotify.com/track/2jRQcQFH7XLPsIFZsSuHkB) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Post Pop Depression](https://open.spotify.com/album/5jRBK15ic9i5C8ucN5LTx1) | 6:06 |
 | 49 | [Morning Show](https://open.spotify.com/track/2nOlu2nR0TzDooI0zc8HXj) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [EVERY LOSER](https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd) | 3:47 |
 | 50 | [La Javanaise](https://open.spotify.com/track/2nBJvYYw33mF3gFm4Fkjdt) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Après \(10th\-anniversary edition\)](https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2) | 2:30 |
 
-Snapshot ID: `aRkUAAAAAADKuUgDwkDpAuHIMI0adOcD`
+Snapshot ID: `aRplgAAAAACDMoDYhbjoINiDbYaT0Rfl`

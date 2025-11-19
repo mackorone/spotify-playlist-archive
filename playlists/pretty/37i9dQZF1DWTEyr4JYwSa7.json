@@ -1,6 +1,6 @@
 {
   "description": "La playlist qui sent le sapin pis la joie!",
-  "num_followers": 61691,
+  "num_followers": 61743,
   "original_name": "No\u00ebl, No\u00ebl, No\u00ebl",
   "owner": {
     "name": "Spotify",
@@ -108,7 +108,7 @@
           "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
         }
       ],
-      "duration_ms": 241106,
+      "duration_ms": 241562,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
     },
@@ -823,22 +823,6 @@
     {
       "added_at": "2025-11-14 05:01:19",
       "album": {
-        "name": "Sheezus",
-        "url": "https://open.spotify.com/album/5Swr80WlTTC0PKExtoU4jU"
-      },
-      "artists": [
-        {
-          "name": "Lily Allen",
-          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
-        }
-      ],
-      "duration_ms": 208504,
-      "name": "Somewhere Only We Know",
-      "url": "https://open.spotify.com/track/1mvfvDZOybiEgS1ecJxt9W"
-    },
-    {
-      "added_at": "2025-11-14 05:01:19",
-      "album": {
         "name": "Blame It On The Mistletoe",
         "url": "https://open.spotify.com/album/3MuX8Afd4KC0kGIBOstzxs"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 185739,
       "name": "Blame It On The Mistletoe",
       "url": "https://open.spotify.com/track/110lWlsa8fJXgrrwGgg0f1"
+    },
+    {
+      "added_at": "2025-11-14 05:01:19",
+      "album": {
+        "name": "Sheezus",
+        "url": "https://open.spotify.com/album/5Swr80WlTTC0PKExtoU4jU"
+      },
+      "artists": [
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        }
+      ],
+      "duration_ms": 208504,
+      "name": "Somewhere Only We Know",
+      "url": "https://open.spotify.com/track/1mvfvDZOybiEgS1ecJxt9W"
     },
     {
       "added_at": "2025-11-14 05:01:19",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2025-11-14 05:01:19",
       "album": {
-        "name": "_dec carte de no\u00ebl",
-        "url": "https://open.spotify.com/album/0hAs4JSdnymgbu18ARLLs7"
-      },
-      "artists": [
-        {
-          "name": "Pomme",
-          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
-        }
-      ],
-      "duration_ms": 124960,
-      "name": "_dec carte de no\u00ebl",
-      "url": "https://open.spotify.com/track/0yr7VTpZTGsoLrqEaJdJm1"
-    },
-    {
-      "added_at": "2025-11-14 05:01:19",
-      "album": {
         "name": "En attendant No\u00ebl",
         "url": "https://open.spotify.com/album/5HB5vxSYdZTBqwkohAcaPZ"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 177213,
       "name": "I'll Be Home for Christmas",
       "url": "https://open.spotify.com/track/3iSbqwNEwJBR3gRAHxF9ak"
+    },
+    {
+      "added_at": "2025-11-14 05:01:19",
+      "album": {
+        "name": "_dec carte de no\u00ebl",
+        "url": "https://open.spotify.com/album/0hAs4JSdnymgbu18ARLLs7"
+      },
+      "artists": [
+        {
+          "name": "Pomme",
+          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
+        }
+      ],
+      "duration_ms": 124960,
+      "name": "_dec carte de no\u00ebl",
+      "url": "https://open.spotify.com/track/0yr7VTpZTGsoLrqEaJdJm1"
     },
     {
       "added_at": "2025-11-14 05:01:19",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2025-11-14 05:01:19",
       "album": {
+        "name": "Ma liste de No\u00ebl",
+        "url": "https://open.spotify.com/album/6JPuGeaY5nZQ6bCvwtg7hT"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9lissa B\u00e9dard",
+          "url": "https://open.spotify.com/artist/3fmI1VNKHDRTVOJdd70ghk"
+        }
+      ],
+      "duration_ms": 158573,
+      "name": "Joie dans le monde",
+      "url": "https://open.spotify.com/track/1biyfmYffp1k90JwirelVl"
+    },
+    {
+      "added_at": "2025-11-14 05:01:19",
+      "album": {
         "name": "No\u00ebl ! No\u00ebl !! No\u00ebl !!!",
         "url": "https://open.spotify.com/album/2rbYdy6TGghrdNWbCkqAIK"
       },
@@ -1539,18 +1555,18 @@
     {
       "added_at": "2025-11-14 05:01:19",
       "album": {
-        "name": "Ma liste de No\u00ebl",
-        "url": "https://open.spotify.com/album/6JPuGeaY5nZQ6bCvwtg7hT"
+        "name": "On attendait No\u00ebl",
+        "url": "https://open.spotify.com/album/4WusiC2tPI65QpMbqUQ6GN"
       },
       "artists": [
         {
-          "name": "M\u00e9lissa B\u00e9dard",
-          "url": "https://open.spotify.com/artist/3fmI1VNKHDRTVOJdd70ghk"
+          "name": "Isabelle Boulay",
+          "url": "https://open.spotify.com/artist/5gx3I0a3G8F4hui6GZLfQF"
         }
       ],
-      "duration_ms": 158573,
-      "name": "Joie dans le monde",
-      "url": "https://open.spotify.com/track/1biyfmYffp1k90JwirelVl"
+      "duration_ms": 226786,
+      "name": "On attendait No\u00ebl",
+      "url": "https://open.spotify.com/track/6G8UzGYZbWTFfThhOmRudY"
     },
     {
       "added_at": "2025-11-14 05:01:19",
@@ -1575,22 +1591,6 @@
     {
       "added_at": "2025-11-14 05:01:19",
       "album": {
-        "name": "On attendait No\u00ebl",
-        "url": "https://open.spotify.com/album/4WusiC2tPI65QpMbqUQ6GN"
-      },
-      "artists": [
-        {
-          "name": "Isabelle Boulay",
-          "url": "https://open.spotify.com/artist/5gx3I0a3G8F4hui6GZLfQF"
-        }
-      ],
-      "duration_ms": 226786,
-      "name": "On attendait No\u00ebl",
-      "url": "https://open.spotify.com/track/6G8UzGYZbWTFfThhOmRudY"
-    },
-    {
-      "added_at": "2025-11-14 05:01:19",
-      "album": {
         "name": "Les Plus Beaux Noels Du Monde",
         "url": "https://open.spotify.com/album/0ok068mhWBRbDI0ckAcDAW"
       },
@@ -1603,22 +1603,6 @@
       "duration_ms": 169640,
       "name": "Petit gar\u00e7on",
       "url": "https://open.spotify.com/track/4mzJTzRomZtFDBGRbvYR1t"
-    },
-    {
-      "added_at": "2025-11-14 05:01:19",
-      "album": {
-        "name": "Christmas (Deluxe Special Edition)",
-        "url": "https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 206639,
-      "name": "It's Beginning to Look a Lot like Christmas",
-      "url": "https://open.spotify.com/track/5a1iz510sv2W9Dt1MvFd5R"
     },
     {
       "added_at": "2025-11-14 05:01:19",
@@ -1639,18 +1623,18 @@
     {
       "added_at": "2025-11-14 05:01:19",
       "album": {
-        "name": "Chansons hivernales",
-        "url": "https://open.spotify.com/album/67fhTNeQ9ahmPPJaAGS3WJ"
+        "name": "Christmas (Deluxe Special Edition)",
+        "url": "https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0"
       },
       "artists": [
         {
-          "name": "Pierre Lapointe",
-          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
         }
       ],
-      "duration_ms": 255013,
-      "name": "Le premier No\u00ebl de Jules",
-      "url": "https://open.spotify.com/track/39oytpbeOyFiepAlTLONEP"
+      "duration_ms": 206639,
+      "name": "It's Beginning to Look a Lot like Christmas",
+      "url": "https://open.spotify.com/track/5a1iz510sv2W9Dt1MvFd5R"
     },
     {
       "added_at": "2025-11-14 05:01:19",
@@ -1667,6 +1651,22 @@
       "duration_ms": 177773,
       "name": "\u00c7a Berger",
       "url": "https://open.spotify.com/track/2P3wmWVzs9qVkGcIkL94Dn"
+    },
+    {
+      "added_at": "2025-11-14 05:01:19",
+      "album": {
+        "name": "Chansons hivernales",
+        "url": "https://open.spotify.com/album/67fhTNeQ9ahmPPJaAGS3WJ"
+      },
+      "artists": [
+        {
+          "name": "Pierre Lapointe",
+          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
+        }
+      ],
+      "duration_ms": 255013,
+      "name": "Le premier No\u00ebl de Jules",
+      "url": "https://open.spotify.com/track/39oytpbeOyFiepAlTLONEP"
     },
     {
       "added_at": "2025-11-14 05:01:19",

@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-791 songs - 1 day 15 hr 32 min
+792 songs - 1 day 15 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -622,6 +622,7 @@
 | [Severed Rose](https://open.spotify.com/track/6awADEzIzjQDEhtGlX22g0) | [Clarx](https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr), [SlidV](https://open.spotify.com/artist/6UYUBOw0pUtH0cBNBYWubY) | [Severed Rose](https://open.spotify.com/album/414EI6TUOPoUyQr3Zj6A8V) | 2:36 | 2024-12-08 |  |
 | [Shadow Glow](https://open.spotify.com/track/4UdZlMtHMx3ukdrK4OHcRW) | [Janji](https://open.spotify.com/artist/5VXPJC0PNpJbzB10A39G8E) | [Shadow Glow](https://open.spotify.com/album/5V28DtpAwucq8yHSqszM20) | 2:39 | 2025-09-25 |  |
 | [Shadow Of Ages](https://open.spotify.com/track/7bu3s4HOeeThwIzupE8bp6) | [Wiguez](https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU), [Ric Waves](https://open.spotify.com/artist/290b7FiG8ePIb0VaLosR49) | [Shadow Of Ages](https://open.spotify.com/album/4hYf5tJ8E8peLMFT0Q7rfM) | 2:33 | 2023-12-26 | 2024-07-19 |
+| [shadows](https://open.spotify.com/track/5dOUynmbCMOP7hgz12zvJc) | [criticaleye](https://open.spotify.com/artist/00Be3qCb8kvv6VXXLYzLlr), [SHIRO](https://open.spotify.com/artist/44y7O50xAJlIfvCL66L4nb), [EVILDXER](https://open.spotify.com/artist/6mEaCmk5qUN3U83PzhpjqH) | [shadows](https://open.spotify.com/album/3nzLGxCbQ3DhaVcZuzENxF) | 3:27 | 2025-11-18 |  |
 | [Sharks](https://open.spotify.com/track/2BWAkwnvTjLAyQzQteVUXE) | [Zeli](https://open.spotify.com/artist/76XUcSGE6JZ8pbCxnBd1iz) | [Sharks](https://open.spotify.com/album/4xN74bBcTEwFpPRHODfncV) | 3:10 | 2023-03-07 | 2023-08-10 |
 | [Shine](https://open.spotify.com/track/7jW2dcStZndF9lWRrPUvzV) | [Spektrem](https://open.spotify.com/artist/1bNEG4iSClCqQRyZgho3YV) | [Shine](https://open.spotify.com/album/1TS3cjyqnslzRJIU91kGYF) | 5:15 | 2023-08-08 | 2024-01-04 |
 | [Shine \- Always Mirin Remix](https://open.spotify.com/track/3E4XupKOGXm97jh6FyjN9F) | [Spektrem](https://open.spotify.com/artist/1bNEG4iSClCqQRyZgho3YV), [Always Mirin](https://open.spotify.com/artist/1bHV3u8ZUs2J2XNYxpvF8y) | [Shine \(Always Mirin Remix\)](https://open.spotify.com/album/0WQ9UjPuP0EeZxifMZQAtN) | 2:20 | 2024-08-08 |  |

@@ -340,7 +340,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 174175,
       "name": "Abyss",
       "url": "https://open.spotify.com/track/01ROOZyL7yFfuVZsOmcxVJ"
@@ -12163,6 +12163,24 @@
     },
     {
       "album": {
+        "name": "Silent Reflection",
+        "url": "https://open.spotify.com/album/4eV8ERThfChcNsO2ua1MQn"
+      },
+      "artists": [
+        {
+          "name": "Seth Sands",
+          "url": "https://open.spotify.com/artist/1EcwJ494z7gVanrsuDjNs8"
+        }
+      ],
+      "date_added": "2025-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161590,
+      "name": "Silent Reflection",
+      "url": "https://open.spotify.com/track/7Ge0xUbxdOv0IvgqwO30Hj"
+    },
+    {
+      "album": {
         "name": "Silk Dreams",
         "url": "https://open.spotify.com/album/4FlPvNG5wdOTzs0sxUPloK"
       },
@@ -14449,6 +14467,24 @@
     },
     {
       "album": {
+        "name": "Tranquess Aura",
+        "url": "https://open.spotify.com/album/4gZekvtxzT1qkYhI7NTyrf"
+      },
+      "artists": [
+        {
+          "name": "Diphthong",
+          "url": "https://open.spotify.com/artist/6rFQdN2p2yfZ9rk88nKYTY"
+        }
+      ],
+      "date_added": "2025-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156642,
+      "name": "Tranquess Aura",
+      "url": "https://open.spotify.com/track/3TDLjKbsDIK2LEwkXLanjy"
+    },
+    {
+      "album": {
         "name": "Tranquil Tides",
         "url": "https://open.spotify.com/album/0mtTouu7QDJosgzXo9nvFg"
       },
@@ -14630,7 +14666,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 141187,
       "name": "Traveler",
       "url": "https://open.spotify.com/track/0dpjQsA1zp4D3iE6aF4ifs"

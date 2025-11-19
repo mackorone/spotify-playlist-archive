@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2uYCFYN7H4JUOEI7N4dLHN.md) - [plain]
 
 > Rock through the 80s\. Over 8 hours of music from iconic bands and artists! Cover: Queen
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 148,354 likes - 125 songs - 8 hr 49 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 148,344 likes - 125 songs - 8 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,7 +108,7 @@ pretty - [cumulative](/playlists/cumulative/2uYCFYN7H4JUOEI7N4dLHN.md) - [plain]
 | 98 | [Makes No Sense At All](https://open.spotify.com/track/3NNwIsOgMLE2CmMHPCdb9I) | [Hüsker Dü](https://open.spotify.com/artist/16bN8mhtDFdegWbg0z3s10) | [Flip Your Wig](https://open.spotify.com/album/64ww8DQgkLRSFTUjNg0v47) | 2:46 |
 | 99 | [Paradise City](https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW) | 6:45 |
 | 100 | [Burning Down the House](https://open.spotify.com/track/2VNfJpwdEQBLyXajaa6LWT) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Burning Down the House / I Get Wild / Wild Gravity](https://open.spotify.com/album/1invpprZoPxP2H3CfGgSfJ) | 4:01 |
-| 101 | [Pretty in Pink](https://open.spotify.com/track/1K1TFdBh7NrDyKiwiJEmsy) | [The Psychedelic Furs](https://open.spotify.com/artist/0O0lrN34wrcuBenkqlEDZe) | [Talk Talk Talk](https://open.spotify.com/album/2fwQTAo511xnTWUYJ1Gnrh) | 3:58 |
+| 101 | [Pretty In Pink](https://open.spotify.com/track/1K1TFdBh7NrDyKiwiJEmsy) | [The Psychedelic Furs](https://open.spotify.com/artist/0O0lrN34wrcuBenkqlEDZe) | [Talk Talk Talk](https://open.spotify.com/album/2fwQTAo511xnTWUYJ1Gnrh) | 3:58 |
 | 102 | [Patio Lanterns](https://open.spotify.com/track/4kVGbzriXY198lnNeh3nAv) | [Kim Mitchell](https://open.spotify.com/artist/5P6mPJKEwpIgjFIIFZhEma) | [Shakin' Like A Human Being](https://open.spotify.com/album/2Gw4mynDQDMO0VBZgJZBjJ) | 3:28 |
 | 103 | [Any Way You Want It \(2024 Remaster\)](https://open.spotify.com/track/4UVKy0DI1hOlL8xF99Ba5j) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Greatest Hits \(2024 Remaster\)](https://open.spotify.com/album/1Gtf2hZQlOGVER16uemmzR) | 3:23 |
 | 104 | [New Sensation](https://open.spotify.com/track/2gTj9PRAEFMpqsRNphO1k7) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [INXS Remastered](https://open.spotify.com/album/7CJvhqb2PJq5fBcY6eKqjl) | 3:40 |

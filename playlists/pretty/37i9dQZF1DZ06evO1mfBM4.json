@@ -1,12 +1,12 @@
 {
   "description": "This is Luis Miguel. The essential tracks, all in one playlist.",
-  "num_followers": 2522041,
+  "num_followers": 2522275,
   "original_name": "This Is Luis Miguel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRkUAAAAAAAXoxHaF9OCO/3IVJ+zebWz",
+  "snapshot_id": "aRplgAAAAADrA0JOHFmOcFoNoGikhgh5",
   "tracks": [
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Segundo Romance",
-        "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
+        "name": "Romances",
+        "url": "https://open.spotify.com/album/3OdgRM6jaoh8Q1Nu3BnheU"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 234293,
-      "name": "Historia De Un Amor",
-      "url": "https://open.spotify.com/track/6av3uLAacGG7c9fjshWmuH"
+      "duration_ms": 181853,
+      "name": "El Reloj",
+      "url": "https://open.spotify.com/track/6BTte0lvV5phb00xaxseC4"
     },
     {
       "added_at": null,
@@ -443,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Romances",
-        "url": "https://open.spotify.com/album/3OdgRM6jaoh8Q1Nu3BnheU"
+        "name": "Segundo Romance",
+        "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
       },
       "artists": [
         {
@@ -452,25 +452,9 @@
           "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 181853,
-      "name": "El Reloj",
-      "url": "https://open.spotify.com/track/6BTte0lvV5phb00xaxseC4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Palabra De Honor",
-        "url": "https://open.spotify.com/album/45xKQlOetCnDcZxRu4tEwh"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 218951,
-      "name": "Palabra De Honor",
-      "url": "https://open.spotify.com/track/3WY8ecMJJjdepU2k2NoFv1"
+      "duration_ms": 234293,
+      "name": "Historia De Un Amor",
+      "url": "https://open.spotify.com/track/6av3uLAacGG7c9fjshWmuH"
     },
     {
       "added_at": null,
@@ -487,6 +471,22 @@
       "duration_ms": 215066,
       "name": "Un Hombre Busca a Una Mujer",
       "url": "https://open.spotify.com/track/3ZRUhvuUE2lwZF19puKM8P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Palabra De Honor",
+        "url": "https://open.spotify.com/album/45xKQlOetCnDcZxRu4tEwh"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 218951,
+      "name": "Palabra De Honor",
+      "url": "https://open.spotify.com/track/3WY8ecMJJjdepU2k2NoFv1"
     },
     {
       "added_at": null,

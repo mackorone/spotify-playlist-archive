@@ -1,6 +1,6 @@
 {
   "description": "Coloque a bota e o ch\u00e1peu que hoje o trabalho vai render!",
-  "num_followers": 443919,
+  "num_followers": 443890,
   "original_name": "Sertanejo no Trabalho",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "AAAAAMUkcKM2hkR9lZkaU7kjEsiCmcSS",
   "tracks": [
-    {
-      "added_at": "2025-05-30 18:43:30",
-      "album": {
-        "name": "Diego & Victor Hugo Ao Vivo em Bras\u00edlia",
-        "url": "https://open.spotify.com/album/6PlcH8kJmbJIagbWVuqHz7"
-      },
-      "artists": [
-        {
-          "name": "Diego & Victor Hugo",
-          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
-        }
-      ],
-      "duration_ms": 190244,
-      "name": "\u00c1udio - Ao Vivo em Bras\u00edlia",
-      "url": "https://open.spotify.com/track/4v6SAnzwEr7s2m0gFQnJFJ"
-    },
     {
       "added_at": "2025-05-30 18:43:30",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 170853,
       "name": "A Rosa E O Beija-Flor - Na Praia / Ao Vivo",
       "url": "https://open.spotify.com/track/4XrAf0Z1J2NunZXl4BMjlA"
+    },
+    {
+      "added_at": "2025-05-30 18:43:30",
+      "album": {
+        "name": "Diego & Victor Hugo Ao Vivo em Bras\u00edlia",
+        "url": "https://open.spotify.com/album/6PlcH8kJmbJIagbWVuqHz7"
+      },
+      "artists": [
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        }
+      ],
+      "duration_ms": 190244,
+      "name": "\u00c1udio - Ao Vivo em Bras\u00edlia",
+      "url": "https://open.spotify.com/track/4v6SAnzwEr7s2m0gFQnJFJ"
     },
     {
       "added_at": "2025-05-30 18:43:30",
@@ -659,18 +659,18 @@
     {
       "added_at": "2025-05-30 18:43:30",
       "album": {
-        "name": "Ac\u00fastico Show PPA (Ac\u00fastico / Ao Vivo)",
-        "url": "https://open.spotify.com/album/2e3hqKwmFvMd6QrC7zLCww"
+        "name": "Made in Ro\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3rRfJJYjeoqranLMo1udIU"
       },
       "artists": [
         {
-          "name": "Pedro Paulo & Alex",
-          "url": "https://open.spotify.com/artist/5zpNiDA9xLFWQfPCJOQNGN"
+          "name": "Loubet",
+          "url": "https://open.spotify.com/artist/6DtpcJP3QBgHfte3eKzUCI"
         }
       ],
-      "duration_ms": 147040,
-      "name": "Desbotequei (Ai Beb\u00ea) - Ac\u00fastico / Ao Vivo",
-      "url": "https://open.spotify.com/track/5XeWwlZf786vKxXaekvyyh"
+      "duration_ms": 187595,
+      "name": "Mui\u00e9, Chap\u00e9u e Butina - Ao Vivo",
+      "url": "https://open.spotify.com/track/1ZB3pjR7MdkIBbBzz4Fg9C"
     },
     {
       "added_at": "2025-05-30 18:43:30",
@@ -691,18 +691,18 @@
     {
       "added_at": "2025-05-30 18:43:30",
       "album": {
-        "name": "Made in Ro\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3rRfJJYjeoqranLMo1udIU"
+        "name": "Ac\u00fastico Show PPA (Ac\u00fastico / Ao Vivo)",
+        "url": "https://open.spotify.com/album/2e3hqKwmFvMd6QrC7zLCww"
       },
       "artists": [
         {
-          "name": "Loubet",
-          "url": "https://open.spotify.com/artist/6DtpcJP3QBgHfte3eKzUCI"
+          "name": "Pedro Paulo & Alex",
+          "url": "https://open.spotify.com/artist/5zpNiDA9xLFWQfPCJOQNGN"
         }
       ],
-      "duration_ms": 187595,
-      "name": "Mui\u00e9, Chap\u00e9u e Butina - Ao Vivo",
-      "url": "https://open.spotify.com/track/1ZB3pjR7MdkIBbBzz4Fg9C"
+      "duration_ms": 147040,
+      "name": "Desbotequei (Ai Beb\u00ea) - Ac\u00fastico / Ao Vivo",
+      "url": "https://open.spotify.com/track/5XeWwlZf786vKxXaekvyyh"
     },
     {
       "added_at": "2025-05-30 18:43:30",
@@ -927,6 +927,22 @@
     {
       "added_at": "2025-05-30 18:43:30",
       "album": {
+        "name": "Eu Era",
+        "url": "https://open.spotify.com/album/4vQ19EdJVj7sS6JvKGlq0K"
+      },
+      "artists": [
+        {
+          "name": "Marcos & Belutti",
+          "url": "https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT"
+        }
+      ],
+      "duration_ms": 211324,
+      "name": "Eu Era",
+      "url": "https://open.spotify.com/track/09hQbo0PphvZ7y3ZZK9AJw"
+    },
+    {
+      "added_at": "2025-05-30 18:43:30",
+      "album": {
         "name": "Ele N\u00e3o Tem",
         "url": "https://open.spotify.com/album/1H3osN9EmZy0a8DGV27hXy"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 212192,
       "name": "Ele N\u00e3o Tem",
       "url": "https://open.spotify.com/track/1JHvLQWHUoYuapwQikeDuD"
-    },
-    {
-      "added_at": "2025-05-30 18:43:30",
-      "album": {
-        "name": "Eu Era",
-        "url": "https://open.spotify.com/album/4vQ19EdJVj7sS6JvKGlq0K"
-      },
-      "artists": [
-        {
-          "name": "Marcos & Belutti",
-          "url": "https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT"
-        }
-      ],
-      "duration_ms": 211324,
-      "name": "Eu Era",
-      "url": "https://open.spotify.com/track/09hQbo0PphvZ7y3ZZK9AJw"
     },
     {
       "added_at": "2025-05-30 18:43:30",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2025-05-30 18:43:30",
       "album": {
-        "name": "Sou do Interior (Ao Vivo) [Deluxe]",
-        "url": "https://open.spotify.com/album/7wo5bswQTsr4Nmk97UNG3V"
-      },
-      "artists": [
-        {
-          "name": "Fernando & Sorocaba",
-          "url": "https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8"
-        }
-      ],
-      "duration_ms": 176835,
-      "name": "Terapinga - Ao Vivo",
-      "url": "https://open.spotify.com/track/2YCTACQ3QfMr9QtlGI2tQE"
-    },
-    {
-      "added_at": "2025-05-30 18:43:30",
-      "album": {
         "name": "My Baby",
         "url": "https://open.spotify.com/album/2YWSmJ37zzqKI9gqjwDJ0L"
       },
@@ -1451,42 +1435,18 @@
     {
       "added_at": "2025-05-30 18:43:30",
       "album": {
-        "name": "Volta Marcada",
-        "url": "https://open.spotify.com/album/3tGRBso3V5BMLM65tFSy9a"
+        "name": "Sou do Interior (Ao Vivo) [Deluxe]",
+        "url": "https://open.spotify.com/album/7wo5bswQTsr4Nmk97UNG3V"
       },
       "artists": [
         {
-          "name": "Juan Marcus & Vin\u00edcius",
-          "url": "https://open.spotify.com/artist/0GVW2S0kS9yOIEo93ZCNLW"
-        },
-        {
-          "name": "Lauana Prado",
-          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+          "name": "Fernando & Sorocaba",
+          "url": "https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8"
         }
       ],
-      "duration_ms": 167573,
-      "name": "Volta Marcada",
-      "url": "https://open.spotify.com/track/0V0k5MpqZ55XwJRTQq2GbM"
-    },
-    {
-      "added_at": "2025-05-30 18:43:30",
-      "album": {
-        "name": "Reflexo (Ao Vivo | Deluxe)",
-        "url": "https://open.spotify.com/album/12l3RVZkb3tZVCAdwF2yl7"
-      },
-      "artists": [
-        {
-          "name": "Maiara & Maraisa",
-          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
-        },
-        {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
-        }
-      ],
-      "duration_ms": 148330,
-      "name": "Bebo Litro - Ao Vivo",
-      "url": "https://open.spotify.com/track/0GSHXM7PZ75f6ZwpekBq83"
+      "duration_ms": 176835,
+      "name": "Terapinga - Ao Vivo",
+      "url": "https://open.spotify.com/track/2YCTACQ3QfMr9QtlGI2tQE"
     },
     {
       "added_at": "2025-05-30 18:43:30",
@@ -1511,22 +1471,42 @@
     {
       "added_at": "2025-05-30 18:43:30",
       "album": {
-        "name": "Bom Rapaz (feat. Jorge & Mateus) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/5353UyoQBadJ6oombQLQVS"
+        "name": "Reflexo (Ao Vivo | Deluxe)",
+        "url": "https://open.spotify.com/album/12l3RVZkb3tZVCAdwF2yl7"
       },
       "artists": [
         {
-          "name": "Fernando & Sorocaba",
-          "url": "https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8"
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
         },
         {
           "name": "Jorge & Mateus",
           "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
         }
       ],
-      "duration_ms": 234592,
-      "name": "Bom Rapaz (feat. Jorge & Mateus) - Ao Vivo",
-      "url": "https://open.spotify.com/track/2WVZwImXEOdSSvPZg0TQyx"
+      "duration_ms": 148330,
+      "name": "Bebo Litro - Ao Vivo",
+      "url": "https://open.spotify.com/track/0GSHXM7PZ75f6ZwpekBq83"
+    },
+    {
+      "added_at": "2025-05-30 18:43:30",
+      "album": {
+        "name": "Volta Marcada",
+        "url": "https://open.spotify.com/album/3tGRBso3V5BMLM65tFSy9a"
+      },
+      "artists": [
+        {
+          "name": "Juan Marcus & Vin\u00edcius",
+          "url": "https://open.spotify.com/artist/0GVW2S0kS9yOIEo93ZCNLW"
+        },
+        {
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+        }
+      ],
+      "duration_ms": 167573,
+      "name": "Volta Marcada",
+      "url": "https://open.spotify.com/track/0V0k5MpqZ55XwJRTQq2GbM"
     },
     {
       "added_at": "2025-05-30 18:43:30",
@@ -1547,6 +1527,26 @@
       "duration_ms": 144071,
       "name": "Do Copo Eu Vim (feat. Mar\u00edlia Mendon\u00e7a) - Ao Vivo em Bras\u00edlia",
       "url": "https://open.spotify.com/track/7sl95MXCpM8WWsaH1BqvR3"
+    },
+    {
+      "added_at": "2025-05-30 18:43:30",
+      "album": {
+        "name": "Bom Rapaz (feat. Jorge & Mateus) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/5353UyoQBadJ6oombQLQVS"
+      },
+      "artists": [
+        {
+          "name": "Fernando & Sorocaba",
+          "url": "https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8"
+        },
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "duration_ms": 234592,
+      "name": "Bom Rapaz (feat. Jorge & Mateus) - Ao Vivo",
+      "url": "https://open.spotify.com/track/2WVZwImXEOdSSvPZg0TQyx"
     },
     {
       "added_at": "2025-05-30 18:43:30",
@@ -1607,26 +1607,6 @@
     {
       "added_at": "2025-05-30 18:43:30",
       "album": {
-        "name": "Frieza (Ao Vivo)",
-        "url": "https://open.spotify.com/album/168758Ys5Cjmyg5PdpQLOt"
-      },
-      "artists": [
-        {
-          "name": "Murilo Huff",
-          "url": "https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz"
-        },
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
-        }
-      ],
-      "duration_ms": 185761,
-      "name": "Frieza - Ao Vivo",
-      "url": "https://open.spotify.com/track/5rM3D9t7d7DlcsDe9RIB3b"
-    },
-    {
-      "added_at": "2025-05-30 18:43:30",
-      "album": {
         "name": "Cancela o Sentimento (feat. Mar\u00edlia Mendon\u00e7a)",
         "url": "https://open.spotify.com/album/6BUjNYSPOiRcyARuPkcwhn"
       },
@@ -1659,6 +1639,26 @@
       "duration_ms": 176734,
       "name": "Contr\u00e1rio",
       "url": "https://open.spotify.com/track/76NzI3TmJCAvw28nB3EGk2"
+    },
+    {
+      "added_at": "2025-05-30 18:43:30",
+      "album": {
+        "name": "Frieza (Ao Vivo)",
+        "url": "https://open.spotify.com/album/168758Ys5Cjmyg5PdpQLOt"
+      },
+      "artists": [
+        {
+          "name": "Murilo Huff",
+          "url": "https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz"
+        },
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "duration_ms": 185761,
+      "name": "Frieza - Ao Vivo",
+      "url": "https://open.spotify.com/track/5rM3D9t7d7DlcsDe9RIB3b"
     },
     {
       "added_at": "2025-05-30 18:43:30",

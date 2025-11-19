@@ -1,6 +1,6 @@
 {
   "description": "This is Singeli. High energy dance music echoing throughout the streets of Tanzania. Cover: Mavokali",
-  "num_followers": 7947,
+  "num_followers": 7963,
   "original_name": "Singeli Sounds",
   "owner": {
     "name": "Spotify",
@@ -479,6 +479,22 @@
     {
       "added_at": "2025-11-13 23:59:09",
       "album": {
+        "name": "Toilet",
+        "url": "https://open.spotify.com/album/1bMBU9RVQysL6RTFhJCtTD"
+      },
+      "artists": [
+        {
+          "name": "Kontawa",
+          "url": "https://open.spotify.com/artist/0eAIknlSpzsXC7ScIOXjZk"
+        }
+      ],
+      "duration_ms": 228806,
+      "name": "Toilet",
+      "url": "https://open.spotify.com/track/43BmpGqwsEieXTSo70Q1J8"
+    },
+    {
+      "added_at": "2025-11-13 23:59:09",
+      "album": {
         "name": "Shemeji Yako",
         "url": "https://open.spotify.com/album/6Sxcp9nwJnY6qvC2lJJSNs"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 256350,
       "name": "Shemeji Yako",
       "url": "https://open.spotify.com/track/6h9NKoZ0O1WZlQRhC2euXa"
-    },
-    {
-      "added_at": "2025-11-13 23:59:09",
-      "album": {
-        "name": "Toilet",
-        "url": "https://open.spotify.com/album/1bMBU9RVQysL6RTFhJCtTD"
-      },
-      "artists": [
-        {
-          "name": "Kontawa",
-          "url": "https://open.spotify.com/artist/0eAIknlSpzsXC7ScIOXjZk"
-        }
-      ],
-      "duration_ms": 228806,
-      "name": "Toilet",
-      "url": "https://open.spotify.com/track/43BmpGqwsEieXTSo70Q1J8"
     },
     {
       "added_at": "2025-11-13 23:59:09",
@@ -807,6 +807,22 @@
     {
       "added_at": "2025-11-13 23:59:09",
       "album": {
+        "name": "Maokoto",
+        "url": "https://open.spotify.com/album/42BkNLDMP0zEbvzJaS3JuG"
+      },
+      "artists": [
+        {
+          "name": "Mocco Genius",
+          "url": "https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9"
+        }
+      ],
+      "duration_ms": 154838,
+      "name": "Maokoto",
+      "url": "https://open.spotify.com/track/5NV9jkFToD1sqTwKqOTZUe"
+    },
+    {
+      "added_at": "2025-11-13 23:59:09",
+      "album": {
         "name": "Kafubaa",
         "url": "https://open.spotify.com/album/7bD47Q1LTN7zc6ZabWbMjG"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 246986,
       "name": "Kafubaa",
       "url": "https://open.spotify.com/track/0Eq2gxOPzyyChNbmtntbav"
-    },
-    {
-      "added_at": "2025-11-13 23:59:09",
-      "album": {
-        "name": "Maokoto",
-        "url": "https://open.spotify.com/album/42BkNLDMP0zEbvzJaS3JuG"
-      },
-      "artists": [
-        {
-          "name": "Mocco Genius",
-          "url": "https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9"
-        }
-      ],
-      "duration_ms": 154838,
-      "name": "Maokoto",
-      "url": "https://open.spotify.com/track/5NV9jkFToD1sqTwKqOTZUe"
     },
     {
       "added_at": "2025-11-13 23:59:09",
@@ -863,22 +863,6 @@
     {
       "added_at": "2025-11-13 23:59:09",
       "album": {
-        "name": "Hujanikomoa",
-        "url": "https://open.spotify.com/album/3wG7OVKa5pP6rl103ji9qM"
-      },
-      "artists": [
-        {
-          "name": "Harmonize",
-          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
-        }
-      ],
-      "duration_ms": 359026,
-      "name": "Hujanikomoa",
-      "url": "https://open.spotify.com/track/32fa47Dvcz1YyqnCDCsB3Z"
-    },
-    {
-      "added_at": "2025-11-13 23:59:09",
-      "album": {
         "name": "Twende",
         "url": "https://open.spotify.com/album/24H1AVBF6gLoAljBGn3LgU"
       },
@@ -895,6 +879,22 @@
     {
       "added_at": "2025-11-13 23:59:09",
       "album": {
+        "name": "Hujanikomoa",
+        "url": "https://open.spotify.com/album/3wG7OVKa5pP6rl103ji9qM"
+      },
+      "artists": [
+        {
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+        }
+      ],
+      "duration_ms": 359026,
+      "name": "Hujanikomoa",
+      "url": "https://open.spotify.com/track/32fa47Dvcz1YyqnCDCsB3Z"
+    },
+    {
+      "added_at": "2025-11-13 23:59:09",
+      "album": {
         "name": "Matunzo",
         "url": "https://open.spotify.com/album/1pYwEft8Z5WFQFofED3Waj"
       },
@@ -907,58 +907,6 @@
       "duration_ms": 183903,
       "name": "Matunzo",
       "url": "https://open.spotify.com/track/4yGA9XnyM67FVaSmVq0ENG"
-    },
-    {
-      "added_at": "2025-11-13 23:59:09",
-      "album": {
-        "name": "Penzi Jipya",
-        "url": "https://open.spotify.com/album/6w38hV7TcLYrKwhIoVzxM1"
-      },
-      "artists": [
-        {
-          "name": "Gigy Money",
-          "url": "https://open.spotify.com/artist/5fFt6BSEyxfm9XOIWVpT9e"
-        },
-        {
-          "name": "Tamimu",
-          "url": "https://open.spotify.com/artist/1tjcmVIRIiOUmnE9Yu4L1k"
-        }
-      ],
-      "duration_ms": 314493,
-      "name": "Penzi Jipya",
-      "url": "https://open.spotify.com/track/06n62HV6RIhYiZHkjVvjwc"
-    },
-    {
-      "added_at": "2025-11-13 23:59:09",
-      "album": {
-        "name": "Sawa Nitaacha",
-        "url": "https://open.spotify.com/album/2FrGDEyLSt7r5TIPb88KcQ"
-      },
-      "artists": [
-        {
-          "name": "Balaa MC",
-          "url": "https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR"
-        }
-      ],
-      "duration_ms": 218197,
-      "name": "Sawa Nitaacha",
-      "url": "https://open.spotify.com/track/48HlmOUD7vUASd0AqkZkbr"
-    },
-    {
-      "added_at": "2025-11-13 23:59:09",
-      "album": {
-        "name": "Nikizipata",
-        "url": "https://open.spotify.com/album/6zk14RHkGJfDvxWw1rtuy4"
-      },
-      "artists": [
-        {
-          "name": "Dulla Makabila",
-          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Nikizipata",
-      "url": "https://open.spotify.com/track/5Q2aW3Deb1Kis2JdodvlCa"
     },
     {
       "added_at": "2025-11-13 23:59:09",
@@ -983,22 +931,70 @@
     {
       "added_at": "2025-11-13 23:59:09",
       "album": {
-        "name": "High School",
-        "url": "https://open.spotify.com/album/3z6kTovG8bmftnLzrmCLWu"
+        "name": "Penzi Jipya",
+        "url": "https://open.spotify.com/album/6w38hV7TcLYrKwhIoVzxM1"
       },
       "artists": [
         {
-          "name": "Harmonize",
-          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+          "name": "Gigy Money",
+          "url": "https://open.spotify.com/artist/5fFt6BSEyxfm9XOIWVpT9e"
         },
         {
-          "name": "Sholo Mwamba",
-          "url": "https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T"
+          "name": "Tamimu",
+          "url": "https://open.spotify.com/artist/1tjcmVIRIiOUmnE9Yu4L1k"
         }
       ],
-      "duration_ms": 308654,
-      "name": "Kamaliza (feat. Sholo Mwamba)",
-      "url": "https://open.spotify.com/track/34qqd0XRPpY9BcNbtocCRp"
+      "duration_ms": 314493,
+      "name": "Penzi Jipya",
+      "url": "https://open.spotify.com/track/06n62HV6RIhYiZHkjVvjwc"
+    },
+    {
+      "added_at": "2025-11-13 23:59:09",
+      "album": {
+        "name": "Nikizipata",
+        "url": "https://open.spotify.com/album/6zk14RHkGJfDvxWw1rtuy4"
+      },
+      "artists": [
+        {
+          "name": "Dulla Makabila",
+          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Nikizipata",
+      "url": "https://open.spotify.com/track/5Q2aW3Deb1Kis2JdodvlCa"
+    },
+    {
+      "added_at": "2025-11-13 23:59:09",
+      "album": {
+        "name": "BELIEVE",
+        "url": "https://open.spotify.com/album/0XampDY52VBFjRFWxuJOOB"
+      },
+      "artists": [
+        {
+          "name": "DJ Travella",
+          "url": "https://open.spotify.com/artist/0PD7wCo7ybcKXouWDCWgfW"
+        }
+      ],
+      "duration_ms": 101009,
+      "name": "BELIEVE",
+      "url": "https://open.spotify.com/track/1uUsDhq9xqnpH97Hb6BmAi"
+    },
+    {
+      "added_at": "2025-11-13 23:59:09",
+      "album": {
+        "name": "Sawa Nitaacha",
+        "url": "https://open.spotify.com/album/2FrGDEyLSt7r5TIPb88KcQ"
+      },
+      "artists": [
+        {
+          "name": "Balaa MC",
+          "url": "https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR"
+        }
+      ],
+      "duration_ms": 218197,
+      "name": "Sawa Nitaacha",
+      "url": "https://open.spotify.com/track/48HlmOUD7vUASd0AqkZkbr"
     },
     {
       "added_at": "2025-11-13 23:59:09",
@@ -1039,38 +1035,22 @@
     {
       "added_at": "2025-11-13 23:59:09",
       "album": {
-        "name": "BELIEVE",
-        "url": "https://open.spotify.com/album/0XampDY52VBFjRFWxuJOOB"
+        "name": "High School",
+        "url": "https://open.spotify.com/album/3z6kTovG8bmftnLzrmCLWu"
       },
       "artists": [
         {
-          "name": "DJ Travella",
-          "url": "https://open.spotify.com/artist/0PD7wCo7ybcKXouWDCWgfW"
-        }
-      ],
-      "duration_ms": 101009,
-      "name": "BELIEVE",
-      "url": "https://open.spotify.com/track/1uUsDhq9xqnpH97Hb6BmAi"
-    },
-    {
-      "added_at": "2025-11-13 23:59:09",
-      "album": {
-        "name": "Maturity EP",
-        "url": "https://open.spotify.com/album/55GR8hOcCxxiWApDdURREq"
-      },
-      "artists": [
-        {
-          "name": "Nandy",
-          "url": "https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3"
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
         },
         {
-          "name": "Dulla Makabila",
-          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
+          "name": "Sholo Mwamba",
+          "url": "https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T"
         }
       ],
-      "duration_ms": 270460,
-      "name": "Hatujui",
-      "url": "https://open.spotify.com/track/5TRX2T7BNBFINuTOCpb8ZN"
+      "duration_ms": 308654,
+      "name": "Kamaliza (feat. Sholo Mwamba)",
+      "url": "https://open.spotify.com/track/34qqd0XRPpY9BcNbtocCRp"
     },
     {
       "added_at": "2025-11-13 23:59:09",
@@ -1095,6 +1075,26 @@
     {
       "added_at": "2025-11-13 23:59:09",
       "album": {
+        "name": "Maturity EP",
+        "url": "https://open.spotify.com/album/55GR8hOcCxxiWApDdURREq"
+      },
+      "artists": [
+        {
+          "name": "Nandy",
+          "url": "https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3"
+        },
+        {
+          "name": "Dulla Makabila",
+          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
+        }
+      ],
+      "duration_ms": 270460,
+      "name": "Hatujui",
+      "url": "https://open.spotify.com/track/5TRX2T7BNBFINuTOCpb8ZN"
+    },
+    {
+      "added_at": "2025-11-13 23:59:09",
+      "album": {
         "name": "Sina",
         "url": "https://open.spotify.com/album/4Mbf8XSzcpQCck4Qzu2Awu"
       },
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2025-11-13 23:59:09",
       "album": {
-        "name": "Niaminishe",
-        "url": "https://open.spotify.com/album/3YqLpGfjbwkkb6ThnZL3ka"
-      },
-      "artists": [
-        {
-          "name": "Kayumba",
-          "url": "https://open.spotify.com/artist/1HzG2aC1CemHeowaRUeahk"
-        }
-      ],
-      "duration_ms": 272718,
-      "name": "Niaminishe",
-      "url": "https://open.spotify.com/track/0phOZHYeL2fmsubAwswkFk"
-    },
-    {
-      "added_at": "2025-11-13 23:59:09",
-      "album": {
         "name": "Stress",
         "url": "https://open.spotify.com/album/3ABUxuGydsu6SaXKSH21CD"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 252043,
       "name": "Stress",
       "url": "https://open.spotify.com/track/11ogL4EDviRvREmLPLZtIg"
+    },
+    {
+      "added_at": "2025-11-13 23:59:09",
+      "album": {
+        "name": "Niaminishe",
+        "url": "https://open.spotify.com/album/3YqLpGfjbwkkb6ThnZL3ka"
+      },
+      "artists": [
+        {
+          "name": "Kayumba",
+          "url": "https://open.spotify.com/artist/1HzG2aC1CemHeowaRUeahk"
+        }
+      ],
+      "duration_ms": 272718,
+      "name": "Niaminishe",
+      "url": "https://open.spotify.com/track/0phOZHYeL2fmsubAwswkFk"
     },
     {
       "added_at": "2025-11-13 23:59:09",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2025-11-13 23:59:09",
       "album": {
-        "name": "Dar Es Salaam",
-        "url": "https://open.spotify.com/album/1zbJ41YdrJ9WuOjxcgH4hJ"
-      },
-      "artists": [
-        {
-          "name": "Harmonize",
-          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
-        }
-      ],
-      "duration_ms": 153281,
-      "name": "Dar Es Salaam",
-      "url": "https://open.spotify.com/track/5ilkB8b305bzKh3zzgs5cB"
-    },
-    {
-      "added_at": "2025-11-13 23:59:09",
-      "album": {
         "name": "Dua",
         "url": "https://open.spotify.com/album/3zr0XmzcH06k2mejKtW2A7"
       },
@@ -1199,26 +1183,6 @@
       "duration_ms": 282984,
       "name": "Dua",
       "url": "https://open.spotify.com/track/5CZXDKVNmd2NGJtrtuhnT1"
-    },
-    {
-      "added_at": "2025-11-13 23:59:09",
-      "album": {
-        "name": "Lipa",
-        "url": "https://open.spotify.com/album/4kDFP1HTXsGE8rsxZWxERH"
-      },
-      "artists": [
-        {
-          "name": "Kiwanda",
-          "url": "https://open.spotify.com/artist/5WkPo47nFulbuDtjtjmxqT"
-        },
-        {
-          "name": "Aslam Tz",
-          "url": "https://open.spotify.com/artist/5QgUWlRx4MXPcZNcAU8T3O"
-        }
-      ],
-      "duration_ms": 223884,
-      "name": "Lipa",
-      "url": "https://open.spotify.com/track/7i06Ir6zXiN0gw9FVNVYgB"
     },
     {
       "added_at": "2025-11-13 23:59:09",
@@ -1239,6 +1203,42 @@
       "duration_ms": 279000,
       "name": "Cheusi Cheupe (feat. Meja Kunta)",
       "url": "https://open.spotify.com/track/6tyNhUeTa66PcE5Mn7HjTu"
+    },
+    {
+      "added_at": "2025-11-13 23:59:09",
+      "album": {
+        "name": "Dar Es Salaam",
+        "url": "https://open.spotify.com/album/1zbJ41YdrJ9WuOjxcgH4hJ"
+      },
+      "artists": [
+        {
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+        }
+      ],
+      "duration_ms": 153281,
+      "name": "Dar Es Salaam",
+      "url": "https://open.spotify.com/track/5ilkB8b305bzKh3zzgs5cB"
+    },
+    {
+      "added_at": "2025-11-13 23:59:09",
+      "album": {
+        "name": "Lipa",
+        "url": "https://open.spotify.com/album/4kDFP1HTXsGE8rsxZWxERH"
+      },
+      "artists": [
+        {
+          "name": "Kiwanda",
+          "url": "https://open.spotify.com/artist/5WkPo47nFulbuDtjtjmxqT"
+        },
+        {
+          "name": "Aslam Tz",
+          "url": "https://open.spotify.com/artist/5QgUWlRx4MXPcZNcAU8T3O"
+        }
+      ],
+      "duration_ms": 223884,
+      "name": "Lipa",
+      "url": "https://open.spotify.com/track/7i06Ir6zXiN0gw9FVNVYgB"
     },
     {
       "added_at": "2025-11-13 23:59:09",

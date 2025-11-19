@@ -1,15 +1,15 @@
 {
   "description": "\ud83d\udcaf Suomi.  Kannessa Jore & Zpoppa.",
-  "num_followers": 91538,
+  "num_followers": 91533,
   "original_name": "100 Suomi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACdegCZP5XjnYqyOcnJvorjkgrkI",
+  "snapshot_id": "AAAAABon2WN7zxWfP5KTIEUtRm+2ioP9",
   "tracks": [
     {
-      "added_at": "2025-11-13 22:01:05",
+      "added_at": "2025-11-18 13:04:10",
       "album": {
         "name": "Teht\u00e4v\u00e4 t\u00e4\u00e4",
         "url": "https://open.spotify.com/album/3vqp9wreCwyvswPt92cprd"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/2vaFrvauevJtiY6HXk84YH"
     },
     {
-      "added_at": "2025-11-13 22:01:05",
+      "added_at": "2025-11-18 13:04:10",
       "album": {
         "name": "Yksin t\u00e4\u00e4l (feat. Lauri Haav)",
         "url": "https://open.spotify.com/album/0RXpXtg3Iwuu0yrJWwHWBC"
@@ -45,23 +45,7 @@
       "url": "https://open.spotify.com/track/5elZ9A56hUsDtI8KwBSukS"
     },
     {
-      "added_at": "2025-11-13 22:01:05",
-      "album": {
-        "name": "P\u00f6yd\u00e4t k\u00e4\u00e4ntyy",
-        "url": "https://open.spotify.com/album/4sCu5cSceK9VHwQKrbqART"
-      },
-      "artists": [
-        {
-          "name": "SHRTY",
-          "url": "https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2"
-        }
-      ],
-      "duration_ms": 148046,
-      "name": "Paremmin nyt",
-      "url": "https://open.spotify.com/track/5Qk2r9VPCloxC7h0ufY1wb"
-    },
-    {
-      "added_at": "2025-11-13 22:01:05",
+      "added_at": "2025-11-18 13:04:10",
       "album": {
         "name": "Totuus sattuu (with pehmoaino)",
         "url": "https://open.spotify.com/album/3KHJZYkmNJ8DjqrRGgMsJr"
@@ -81,23 +65,7 @@
       "url": "https://open.spotify.com/track/6wTnsZgua00pdQoYkroEQL"
     },
     {
-      "added_at": "2025-11-13 22:01:05",
-      "album": {
-        "name": "Magic City",
-        "url": "https://open.spotify.com/album/6F5zxzwlcpCHZKhKQto9sE"
-      },
-      "artists": [
-        {
-          "name": "Turisti",
-          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
-        }
-      ],
-      "duration_ms": 114937,
-      "name": "Kui paljon",
-      "url": "https://open.spotify.com/track/4rch7q4kFz6vqaNzt8FBj5"
-    },
-    {
-      "added_at": "2025-11-13 22:01:05",
+      "added_at": "2025-11-18 13:04:10",
       "album": {
         "name": "Made it",
         "url": "https://open.spotify.com/album/7ofaH0AtjS8BYYfyoHMuzY"
@@ -113,7 +81,71 @@
       "url": "https://open.spotify.com/track/3x0Z2IBTRMOHEuEQYIHnhW"
     },
     {
-      "added_at": "2025-11-13 22:01:05",
+      "added_at": "2025-11-18 13:04:10",
+      "album": {
+        "name": "P\u00f6yd\u00e4t k\u00e4\u00e4ntyy",
+        "url": "https://open.spotify.com/album/4sCu5cSceK9VHwQKrbqART"
+      },
+      "artists": [
+        {
+          "name": "SHRTY",
+          "url": "https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2"
+        }
+      ],
+      "duration_ms": 148046,
+      "name": "Paremmin nyt",
+      "url": "https://open.spotify.com/track/5Qk2r9VPCloxC7h0ufY1wb"
+    },
+    {
+      "added_at": "2025-11-18 13:04:10",
+      "album": {
+        "name": "Magic City",
+        "url": "https://open.spotify.com/album/6F5zxzwlcpCHZKhKQto9sE"
+      },
+      "artists": [
+        {
+          "name": "Turisti",
+          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
+        }
+      ],
+      "duration_ms": 114937,
+      "name": "Kui paljon",
+      "url": "https://open.spotify.com/track/4rch7q4kFz6vqaNzt8FBj5"
+    },
+    {
+      "added_at": "2025-11-18 13:04:10",
+      "album": {
+        "name": "Poikii on",
+        "url": "https://open.spotify.com/album/6TVWI8u2gbQnl5jXBtOb56"
+      },
+      "artists": [
+        {
+          "name": "Alina Burnet",
+          "url": "https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J"
+        }
+      ],
+      "duration_ms": 141372,
+      "name": "Poikii on",
+      "url": "https://open.spotify.com/track/5Lcqxese2p6RAAw3maH81R"
+    },
+    {
+      "added_at": "2025-11-18 13:04:10",
+      "album": {
+        "name": "Ai Ett\u00e4",
+        "url": "https://open.spotify.com/album/4N63GxMekabqpOMSu4uBSg"
+      },
+      "artists": [
+        {
+          "name": "Isac Elliot",
+          "url": "https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D"
+        }
+      ],
+      "duration_ms": 161632,
+      "name": "Ai Ett\u00e4",
+      "url": "https://open.spotify.com/track/4fgLmTOX8eIDwcFA1Zgwra"
+    },
+    {
+      "added_at": "2025-11-18 13:04:10",
       "album": {
         "name": "Senya x OFF THE BOOTH (Itserakas)",
         "url": "https://open.spotify.com/album/6cyqQjNXbtusjlXvKApmA3"
@@ -133,7 +165,7 @@
       "url": "https://open.spotify.com/track/1R6Pd2lsSDBboDAafLaEjT"
     },
     {
-      "added_at": "2025-11-13 22:01:05",
+      "added_at": "2025-11-18 13:04:10",
       "album": {
         "name": "Mit\u00e4 vaan / Syyt\u00e4 t\u00e4t\u00e4 iltaa",
         "url": "https://open.spotify.com/album/1lvWVaWvgdRpcmShilPptD"
@@ -153,7 +185,7 @@
       "url": "https://open.spotify.com/track/2ygbM2P7Fjtdy50ErK9Vw9"
     },
     {
-      "added_at": "2025-11-13 22:01:05",
+      "added_at": "2025-11-18 13:04:10",
       "album": {
         "name": "Griselda Blanco",
         "url": "https://open.spotify.com/album/7gvNSb5nIGHOP6qomTNEP5"
@@ -169,23 +201,7 @@
       "url": "https://open.spotify.com/track/6FoBHmjnw32uwrdeQcpIqd"
     },
     {
-      "added_at": "2025-11-13 22:01:05",
-      "album": {
-        "name": "Ai Ett\u00e4",
-        "url": "https://open.spotify.com/album/4N63GxMekabqpOMSu4uBSg"
-      },
-      "artists": [
-        {
-          "name": "Isac Elliot",
-          "url": "https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D"
-        }
-      ],
-      "duration_ms": 161632,
-      "name": "Ai Ett\u00e4",
-      "url": "https://open.spotify.com/track/4fgLmTOX8eIDwcFA1Zgwra"
-    },
-    {
-      "added_at": "2025-11-13 22:01:05",
+      "added_at": "2025-11-18 13:04:10",
       "album": {
         "name": "L\u00e4\u00e4ke (Vain el\u00e4m\u00e4\u00e4 kausi 16)",
         "url": "https://open.spotify.com/album/6q7AseIG8cZx1N9RqlY9tL"
@@ -201,7 +217,7 @@
       "url": "https://open.spotify.com/track/1ieDBPzqG7gjiTMacM9ftm"
     },
     {
-      "added_at": "2025-11-13 22:01:05",
+      "added_at": "2025-11-18 13:04:10",
       "album": {
         "name": "Tyhm\u00e4\u00e4",
         "url": "https://open.spotify.com/album/2LXaYEFEKgtCwOh8tZ3uuR"
@@ -217,7 +233,7 @@
       "url": "https://open.spotify.com/track/2zGCt8Nf4c9KvlM883rYJb"
     },
     {
-      "added_at": "2025-11-13 22:01:05",
+      "added_at": "2025-11-18 13:04:10",
       "album": {
         "name": "T\u00e4hdet",
         "url": "https://open.spotify.com/album/3cHr0DdC6GKr9RhXSJcl4Q"
@@ -237,23 +253,7 @@
       "url": "https://open.spotify.com/track/3ARgFb4seYmgDDPQjokiaQ"
     },
     {
-      "added_at": "2025-11-13 22:01:05",
-      "album": {
-        "name": "Poikii on",
-        "url": "https://open.spotify.com/album/6TVWI8u2gbQnl5jXBtOb56"
-      },
-      "artists": [
-        {
-          "name": "Alina Burnet",
-          "url": "https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J"
-        }
-      ],
-      "duration_ms": 141372,
-      "name": "Poikii on",
-      "url": "https://open.spotify.com/track/5Lcqxese2p6RAAw3maH81R"
-    },
-    {
-      "added_at": "2025-11-13 22:01:05",
+      "added_at": "2025-11-18 13:04:10",
       "album": {
         "name": "Pit\u00e4isk\u00f6 mun soittaa sille",
         "url": "https://open.spotify.com/album/4OTutrhz68vKEcsK9uW640"
@@ -269,7 +269,7 @@
       "url": "https://open.spotify.com/track/0DbUrs6t9JLcFx3EsMcPY3"
     },
     {
-      "added_at": "2025-11-13 22:01:05",
+      "added_at": "2025-11-18 13:04:10",
       "album": {
         "name": "NEED SUM MO",
         "url": "https://open.spotify.com/album/4VRh9XgLoD0Nku07vL1tVe"
@@ -285,7 +285,7 @@
       "url": "https://open.spotify.com/track/2GC6rk5C8xlSMz9Tv8S3KQ"
     },
     {
-      "added_at": "2025-11-13 22:01:05",
+      "added_at": "2025-11-18 13:04:10",
       "album": {
         "name": "DENIM",
         "url": "https://open.spotify.com/album/59K4XTz4XemdL5XqDr2ZEa"
@@ -317,7 +317,7 @@
       "url": "https://open.spotify.com/track/4zH8TU2iPWc6cu4gwGoEZ7"
     },
     {
-      "added_at": "2025-11-13 22:01:05",
+      "added_at": "2025-11-18 13:04:10",
       "album": {
         "name": "Parempi mies",
         "url": "https://open.spotify.com/album/0PC2XvK07EEMfGS08PAc5a"
@@ -333,7 +333,7 @@
       "url": "https://open.spotify.com/track/7cHnbBoghcPqFQ1rcCUort"
     },
     {
-      "added_at": "2025-11-13 22:01:05",
+      "added_at": "2025-11-18 13:04:10",
       "album": {
         "name": "Luuleks (feat. Ares)",
         "url": "https://open.spotify.com/album/5Nnn4fHocRguOixJkN2VEC"
@@ -353,7 +353,7 @@
       "url": "https://open.spotify.com/track/1dhyYodxrbpVw1UGpIIe3q"
     },
     {
-      "added_at": "2025-11-13 22:01:05",
+      "added_at": "2025-11-18 13:04:10",
       "album": {
         "name": "Rallikansa",
         "url": "https://open.spotify.com/album/6LD8MbRnh2VrOg4SqTw5kD"
@@ -369,39 +369,7 @@
       "url": "https://open.spotify.com/track/7L1rB3YL8wCNzwPK7OnyO4"
     },
     {
-      "added_at": "2025-11-13 22:01:05",
-      "album": {
-        "name": "BAD BOYS",
-        "url": "https://open.spotify.com/album/7pDNzPKkC4cykO6Ux9BQzs"
-      },
-      "artists": [
-        {
-          "name": "Bojos",
-          "url": "https://open.spotify.com/artist/3HRZJD5TbCbhSPRVlhvFtM"
-        }
-      ],
-      "duration_ms": 140959,
-      "name": "BAD BOYS",
-      "url": "https://open.spotify.com/track/0wOFYkLqNAEj7kGAVcb4wJ"
-    },
-    {
-      "added_at": "2025-11-13 22:01:05",
-      "album": {
-        "name": "LADABOIS",
-        "url": "https://open.spotify.com/album/2Wh7Z50InqrASkMS0tBYae"
-      },
-      "artists": [
-        {
-          "name": "Mouhous",
-          "url": "https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i"
-        }
-      ],
-      "duration_ms": 197205,
-      "name": "Rakkaudesta manii",
-      "url": "https://open.spotify.com/track/1TQS9xivhWJWk00HgEF3Wu"
-    },
-    {
-      "added_at": "2025-11-13 22:01:05",
+      "added_at": "2025-11-18 13:04:10",
       "album": {
         "name": "EXIT",
         "url": "https://open.spotify.com/album/2grZKNgllDuPAbMGTmx5Ap"
@@ -421,7 +389,39 @@
       "url": "https://open.spotify.com/track/4n6PzDyWGkjAVRl74aR8Pb"
     },
     {
-      "added_at": "2025-11-13 22:01:05",
+      "added_at": "2025-11-18 13:04:10",
+      "album": {
+        "name": "BAD BOYS",
+        "url": "https://open.spotify.com/album/7pDNzPKkC4cykO6Ux9BQzs"
+      },
+      "artists": [
+        {
+          "name": "Bojos",
+          "url": "https://open.spotify.com/artist/3HRZJD5TbCbhSPRVlhvFtM"
+        }
+      ],
+      "duration_ms": 140959,
+      "name": "BAD BOYS",
+      "url": "https://open.spotify.com/track/0wOFYkLqNAEj7kGAVcb4wJ"
+    },
+    {
+      "added_at": "2025-11-18 13:04:10",
+      "album": {
+        "name": "LADABOIS",
+        "url": "https://open.spotify.com/album/2Wh7Z50InqrASkMS0tBYae"
+      },
+      "artists": [
+        {
+          "name": "Mouhous",
+          "url": "https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i"
+        }
+      ],
+      "duration_ms": 197205,
+      "name": "Rakkaudesta manii",
+      "url": "https://open.spotify.com/track/1TQS9xivhWJWk00HgEF3Wu"
+    },
+    {
+      "added_at": "2025-11-18 13:04:10",
       "album": {
         "name": "Vastal\u00e4\u00e4ke (feat. Etta)",
         "url": "https://open.spotify.com/album/0P63Euv9xv2KtazXz1MlXj"
@@ -441,7 +441,7 @@
       "url": "https://open.spotify.com/track/35IfC9JlQTKhz93mGRLl14"
     },
     {
-      "added_at": "2025-11-13 22:01:05",
+      "added_at": "2025-11-18 13:04:10",
       "album": {
         "name": "Mit\u00e4 jos?",
         "url": "https://open.spotify.com/album/4aZhGEemQewECZbqQrFAkw"
@@ -465,7 +465,7 @@
       "url": "https://open.spotify.com/track/2c8jKORMUzoB2Gy5Zoc8BF"
     },
     {
-      "added_at": "2025-11-13 22:01:05",
+      "added_at": "2025-11-18 13:04:10",
       "album": {
         "name": "CASH",
         "url": "https://open.spotify.com/album/7urGLHpiDwRVRkQgf4sZDq"
@@ -481,7 +481,7 @@
       "url": "https://open.spotify.com/track/71nsQ0fpgV9WfAGxiapCEE"
     },
     {
-      "added_at": "2025-11-13 22:01:05",
+      "added_at": "2025-11-18 13:04:10",
       "album": {
         "name": "Leffastara",
         "url": "https://open.spotify.com/album/1MXiWQsS8FPDdVx4ih7DUk"
@@ -497,7 +497,7 @@
       "url": "https://open.spotify.com/track/7ceplN1E5dAupsN6Muxlfr"
     },
     {
-      "added_at": "2025-11-13 22:01:05",
+      "added_at": "2025-11-18 13:04:10",
       "album": {
         "name": "Aja tai kuole",
         "url": "https://open.spotify.com/album/5H5orhEdULcEb6yiV1yCxZ"
@@ -517,7 +517,7 @@
       "url": "https://open.spotify.com/track/7m7Mmlw9m1NJxcYbvdW2z7"
     },
     {
-      "added_at": "2025-11-13 22:01:05",
+      "added_at": "2025-11-18 13:04:10",
       "album": {
         "name": "Neighbourhood Kid",
         "url": "https://open.spotify.com/album/7u932Lm9aZ3xHwMGRvjZTm"
@@ -537,7 +537,7 @@
       "url": "https://open.spotify.com/track/2EcZmlpGYRRh6cZlTmW2H7"
     },
     {
-      "added_at": "2025-11-13 22:01:05",
+      "added_at": "2025-11-18 13:04:10",
       "album": {
         "name": "Hauki",
         "url": "https://open.spotify.com/album/6SCLpy8SJ8czojoUcSi9SJ"
@@ -553,7 +553,7 @@
       "url": "https://open.spotify.com/track/2dai7toOP0V2JJ8nvH0IYQ"
     },
     {
-      "added_at": "2025-11-13 22:01:05",
+      "added_at": "2025-11-18 13:04:10",
       "album": {
         "name": "X",
         "url": "https://open.spotify.com/album/3PBRdSIYduGIYfpG5FOXys"
@@ -569,7 +569,7 @@
       "url": "https://open.spotify.com/track/1aYzlHJla01Kam316YVADh"
     },
     {
-      "added_at": "2025-11-13 22:01:05",
+      "added_at": "2025-11-18 13:04:10",
       "album": {
         "name": "NBA",
         "url": "https://open.spotify.com/album/0QJuqtUbv5TiITMmSA6VwW"
@@ -589,7 +589,7 @@
       "url": "https://open.spotify.com/track/51UGWpfgtfah9FNodYMv07"
     },
     {
-      "added_at": "2025-11-13 22:01:05",
+      "added_at": "2025-11-18 13:04:10",
       "album": {
         "name": "Jos t\u00e4\u00e4 ei oo se",
         "url": "https://open.spotify.com/album/34VKb7gyE1OUf35rPBQsYt"
@@ -605,7 +605,7 @@
       "url": "https://open.spotify.com/track/7lOQNzL9pLMM6UttEQPLLU"
     },
     {
-      "added_at": "2025-11-13 22:01:05",
+      "added_at": "2025-11-18 13:04:10",
       "album": {
         "name": "Lumikki",
         "url": "https://open.spotify.com/album/1wPGUGOwwsd0jPqijrJkhE"
@@ -621,7 +621,7 @@
       "url": "https://open.spotify.com/track/4chiuEnr73PDWVKykVejqx"
     },
     {
-      "added_at": "2025-11-13 22:01:05",
+      "added_at": "2025-11-18 13:04:10",
       "album": {
         "name": "Jos se must on kii (feat. Ares & Elastinen)",
         "url": "https://open.spotify.com/album/7GsHjQ9SptXSAhfCXdRr8B"
@@ -645,7 +645,7 @@
       "url": "https://open.spotify.com/track/599LaM9qaYIOe5mJa2lXxk"
     },
     {
-      "added_at": "2025-11-13 22:01:05",
+      "added_at": "2025-11-18 13:04:10",
       "album": {
         "name": "Yliajattelija",
         "url": "https://open.spotify.com/album/7mjpBLjv1TEqo85ERLfTXb"
@@ -661,7 +661,7 @@
       "url": "https://open.spotify.com/track/0M9aHCy9mp040zf7Xv08ww"
     },
     {
-      "added_at": "2025-11-13 22:01:05",
+      "added_at": "2025-11-18 13:04:10",
       "album": {
         "name": "NRO1 B\u00c4M\u00c4",
         "url": "https://open.spotify.com/album/4Qw9aHxTzjFkWxZsGiwK8z"
@@ -677,7 +677,7 @@
       "url": "https://open.spotify.com/track/6cNFoKcRDKFs2j2aUKxYtt"
     },
     {
-      "added_at": "2025-11-13 22:01:05",
+      "added_at": "2025-11-18 13:04:10",
       "album": {
         "name": "Tehtaan Takuu",
         "url": "https://open.spotify.com/album/4eIOlifvxj7isLOfKDgKjX"
@@ -701,7 +701,7 @@
       "url": "https://open.spotify.com/track/0fCPXD3gyyvcGCUDNbWIwf"
     },
     {
-      "added_at": "2025-11-13 22:01:05",
+      "added_at": "2025-11-18 13:04:10",
       "album": {
         "name": "DIANA",
         "url": "https://open.spotify.com/album/4boTBGtkKQZpEqpLTSLrlo"
@@ -717,7 +717,7 @@
       "url": "https://open.spotify.com/track/1tyDlQvwms8mljMK3rO2Bd"
     },
     {
-      "added_at": "2025-11-13 22:01:05",
+      "added_at": "2025-11-18 13:04:10",
       "album": {
         "name": "Ylibuukattu",
         "url": "https://open.spotify.com/album/738LkmjU8QxUmHtOq6Waoh"
@@ -737,7 +737,7 @@
       "url": "https://open.spotify.com/track/0tHGD8lfEjbIYgG28aVyDz"
     },
     {
-      "added_at": "2025-11-13 22:01:05",
+      "added_at": "2025-11-18 13:04:10",
       "album": {
         "name": "Trappist girl (The night) / AITOMONSTERI",
         "url": "https://open.spotify.com/album/4Vofrrg3JJ7YwKYoggylMh"
@@ -753,7 +753,7 @@
       "url": "https://open.spotify.com/track/2nCyU8ibpA1iAnRCVb3gs3"
     },
     {
-      "added_at": "2025-11-13 22:01:05",
+      "added_at": "2025-11-18 13:04:10",
       "album": {
         "name": "PiENT\u00c4KiVAA",
         "url": "https://open.spotify.com/album/7fymE8MMeIYnCmEthFnmnW"
@@ -769,7 +769,7 @@
       "url": "https://open.spotify.com/track/2GmLbOljJ595b3mwhxLHzB"
     },
     {
-      "added_at": "2025-11-13 22:01:05",
+      "added_at": "2025-11-18 13:04:10",
       "album": {
         "name": "Ei syntt\u00e4rii",
         "url": "https://open.spotify.com/album/2nQhx0ijiwaiCGEUva3kbB"
@@ -785,7 +785,7 @@
       "url": "https://open.spotify.com/track/4MqsiyCZmg9nQe8aOqXE6t"
     },
     {
-      "added_at": "2025-11-13 22:01:05",
+      "added_at": "2025-11-18 13:04:10",
       "album": {
         "name": "Naarmuja",
         "url": "https://open.spotify.com/album/4GqH3QQoP5BOlmxTkbq8mg"
@@ -801,7 +801,7 @@
       "url": "https://open.spotify.com/track/06Jn7UjPJzP99sg0cT49KA"
     },
     {
-      "added_at": "2025-11-13 22:01:05",
+      "added_at": "2025-11-18 13:04:10",
       "album": {
         "name": "REHELLISESTI",
         "url": "https://open.spotify.com/album/3u929hv6INpg9vTdPnXyQD"
@@ -817,7 +817,7 @@
       "url": "https://open.spotify.com/track/38vgNcY8nfqx6v8tjvhhgK"
     },
     {
-      "added_at": "2025-11-13 22:01:05",
+      "added_at": "2025-11-18 13:04:10",
       "album": {
         "name": "Tuhat ja yksi y\u00f6t\u00e4",
         "url": "https://open.spotify.com/album/2oizcE37WwDzW9ZvQuO0cY"
@@ -833,7 +833,7 @@
       "url": "https://open.spotify.com/track/44MDbctWdAEwsLWzMH5YLc"
     },
     {
-      "added_at": "2025-11-13 22:01:05",
+      "added_at": "2025-11-18 13:04:10",
       "album": {
         "name": "My Cup",
         "url": "https://open.spotify.com/album/6Bu1mRJFRbm8IzpTA0ske0"
@@ -849,7 +849,7 @@
       "url": "https://open.spotify.com/track/129Od0XU709Tc84aqVLa2t"
     },
     {
-      "added_at": "2025-11-13 22:01:05",
+      "added_at": "2025-11-18 13:04:10",
       "album": {
         "name": "AIT (feat. Celly)",
         "url": "https://open.spotify.com/album/7fARB8m7C3ZpP22Ond83Zd"
@@ -869,7 +869,7 @@
       "url": "https://open.spotify.com/track/7mKsblBSQW24gKV9ou1dnR"
     },
     {
-      "added_at": "2025-11-13 22:01:05",
+      "added_at": "2025-11-18 13:04:10",
       "album": {
         "name": "Kultaa",
         "url": "https://open.spotify.com/album/62HSRy8W8RaeRavSVYQyMZ"
@@ -885,7 +885,7 @@
       "url": "https://open.spotify.com/track/50eX1JtYibpnRVPGqXfweE"
     },
     {
-      "added_at": "2025-11-13 22:01:05",
+      "added_at": "2025-11-18 13:04:10",
       "album": {
         "name": "shawty",
         "url": "https://open.spotify.com/album/4YD626R8qGxvwZAPRaaZwK"

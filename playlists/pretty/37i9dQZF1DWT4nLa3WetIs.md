@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 
 > 15 Years of timeless music by Flavour
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,408 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,500 likes - 80 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 | 11 | [Joha](https://open.spotify.com/track/5UwxpuGHkwiojKDaPC5ZNu) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 2:28 |
 | 12 | [Forever \(Remix\)](https://open.spotify.com/track/4vLY6fJQWgBzQYHzguDZme) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Forever \(Remix\)](https://open.spotify.com/album/4aVhyknHZk1updZEHkwd0H) | 3:21 |
 | 13 | [Shake](https://open.spotify.com/track/7bkxY6grNuQZhpNCvc2Elw) | [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [Blessed](https://open.spotify.com/album/05qKgQRBSBHN2cUUK3Y1GK) | 3:56 |
-| 14 | [No Wahala \- Remix](https://open.spotify.com/track/4yaPPFIafaVaMRHZ5IHkbA) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [No Wahala \(Remix\)](https://open.spotify.com/album/1CuCITWTEr6lE2q3MraOSG) | 2:58 |
-| 15 | [Baby Riddim](https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX) | [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Baby Riddim](https://open.spotify.com/album/6dCmbmHyfCQpmJGZW9Am3b) | 3:10 |
+| 14 | [Baby Riddim](https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX) | [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Baby Riddim](https://open.spotify.com/album/6dCmbmHyfCQpmJGZW9Am3b) | 3:10 |
+| 15 | [No Wahala \- Remix](https://open.spotify.com/track/4yaPPFIafaVaMRHZ5IHkbA) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [No Wahala \(Remix\)](https://open.spotify.com/album/1CuCITWTEr6lE2q3MraOSG) | 2:58 |
 | 16 | [Your Number](https://open.spotify.com/track/5J4FiKDJIdJ8AKx2gaWMt4) | [Ayo Jay](https://open.spotify.com/artist/1V6rvT87qMQvo6HAixjlpY) | [Your Number](https://open.spotify.com/album/2dusPkqFxxdOtmG1JpKFFN) | 3:24 |
 | 17 | [Xtra Cool](https://open.spotify.com/track/5F4OfeowSReF93KcH2eUcG) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Xtra Cool](https://open.spotify.com/album/0VCIXWb1BjfOfBOLJTOOUL) | 2:30 |
 | 18 | [Organise](https://open.spotify.com/track/2wgvxtggKVzPkl0smF2UzI) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 2:03 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 | 56 | [Pana](https://open.spotify.com/track/3ddd0nUY2jZtPYzg0r0wTb) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Pana](https://open.spotify.com/album/62sUZK9tqrSH3AMg4gOSmz) | 4:02 |
 | 57 | [10 Toes \(feat\. Omah Lay\)](https://open.spotify.com/track/7JVUJLsVXysVpSWChbnz9I) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [5 Star](https://open.spotify.com/album/32Ls6JAwVZTbiRIyZ2H0lt) | 2:57 |
 | 58 | [Stamina](https://open.spotify.com/track/1tOp1bXhT9tvydSAGDHdQy) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Stamina](https://open.spotify.com/album/1hfN3p0gt7f6kW8UUyehWm) | 2:46 |
-| 59 | [Hamba Wena](https://open.spotify.com/track/1hsFJ92y0FU2cFOOLkEFVr) | [Deep London](https://open.spotify.com/artist/4WcuDDFGfo4j6VHqkGmjZ8), [Boohle](https://open.spotify.com/artist/6fHE8xZBCxzwer9DIbOmv4) | [Hamba Wena](https://open.spotify.com/album/4vwKHSXGmqA0Fe9u9NLt51) | 6:14 |
-| 60 | [Final \(Baba Nla\)](https://open.spotify.com/track/5bPpNuK3qgt1UbI18QEUYx) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Final \(Baba Nla\) \- Single](https://open.spotify.com/album/3PhMIu5CI6S79XdmXzou4t) | 2:40 |
+| 59 | [Final \(Baba Nla\)](https://open.spotify.com/track/5bPpNuK3qgt1UbI18QEUYx) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Final \(Baba Nla\) \- Single](https://open.spotify.com/album/3PhMIu5CI6S79XdmXzou4t) | 2:40 |
+| 60 | [Hamba Wena](https://open.spotify.com/track/1hsFJ92y0FU2cFOOLkEFVr) | [Deep London](https://open.spotify.com/artist/4WcuDDFGfo4j6VHqkGmjZ8), [Boohle](https://open.spotify.com/artist/6fHE8xZBCxzwer9DIbOmv4) | [Hamba Wena](https://open.spotify.com/album/4vwKHSXGmqA0Fe9u9NLt51) | 6:14 |
 | 61 | [Azonto](https://open.spotify.com/track/1TeIFb2AIbExCZjInMxGha) | [Fuse ODG](https://open.spotify.com/artist/374sWpAJsbZckf98df2jJJ), [Tiffany Owusu](https://open.spotify.com/artist/37hnVT1tp5qMyIwgbmLsvO) | [T.I.N.A.](https://open.spotify.com/album/3v9NqDh72DLPjhPVBo4oh1) | 3:52 |
 | 62 | [yawa](https://open.spotify.com/track/5tM3Fo4qBqDAwWJ9ZY5AtX) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [yawa](https://open.spotify.com/album/3x4uU6LegVMe04Dn5fLiLw) | 3:00 |
 | 63 | [Talibans II](https://open.spotify.com/track/5zq5fYXIE7X842DD5HBiiB) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [Talibans II](https://open.spotify.com/album/4EouhaKTJkW8xRpLsCz7va) | 2:56 |

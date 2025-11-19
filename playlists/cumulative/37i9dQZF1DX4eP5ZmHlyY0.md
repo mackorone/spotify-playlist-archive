@@ -2,9 +2,9 @@
 
 ### [Boy in the Moon](https://open.spotify.com/playlist/37i9dQZF1DX4eP5ZmHlyY0)
 
-> グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover:BOYNEXTDOOR
+> グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: BOYNEXTDOOR
 
-801 songs - 1 day 19 hr 53 min
+804 songs - 1 day 20 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Daydream](https://open.spotify.com/track/06QuQaDv68bvr8oaNXoSSY) | [OCTPATH](https://open.spotify.com/artist/3RNZ3qV2S5PWCZLt69MDR7) | [OCTAVE / Daydream](https://open.spotify.com/album/5xFM0bU4tuO8e67eOgtaPA) | 3:31 | 2024-02-20 | 2024-05-29 |
 | [Days](https://open.spotify.com/track/1f8qRx4uWmiwSIsQoZU5rH) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [NOT OKAY](https://open.spotify.com/album/7uBc2WW6vvm2QH6Nre7ND1) | 4:19 | 2024-02-27 | 2024-05-29 |
 | [Dealio!?](https://open.spotify.com/track/0QiNhV9XSsnQxVWzZtjiO5) | [DXTEEN](https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR) | [Tick\-Tack](https://open.spotify.com/album/55rN1Mparq98YdjAH8PrbD) | 3:02 | 2025-05-06 | 2025-07-16 |
+| [Dear DIVA](https://open.spotify.com/track/4vCZibK8wRUrHgHQ58FkWN) | [ROIROM](https://open.spotify.com/artist/3g5EB8SrWpWGz82HifWZSj) | [Dear DIVA](https://open.spotify.com/album/4yQDzvSV87kmm3GDg1G6lq) | 3:28 | 2025-11-18 |  |
 | [DEAR MY LOVER](https://open.spotify.com/track/6zCa0mAKrk7w4p6lfUnOsS) | [Hey! Say! JUMP](https://open.spotify.com/artist/64BB3FFJokfd3owfpnwxb0) | [P.U!](https://open.spotify.com/album/63j2GyF1WGdRIxPuHbOmoU) | 4:59 | 2024-01-02 | 2025-03-07 |
 | [DEAREST](https://open.spotify.com/track/3hFe12pRLMwSVI8JY0LHde) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [ZONE](https://open.spotify.com/album/4dQ7f9UXqzUzFqYMDEC0AC) | 4:06 | 2025-03-06 | 2025-03-24 |
 | [DEEP WAVE](https://open.spotify.com/track/4pRYvi4ybMifd2LPnzOVHp) | [龍宮城](https://open.spotify.com/artist/0xOawbTJb7VLKsaJGjpeCK) | [DEEP WAVE](https://open.spotify.com/album/5MAfHAjQkTUUpbuJwuHmfV) | 3:26 | 2024-03-12 | 2024-04-03 |
@@ -320,7 +321,7 @@
 | [In My Head](https://open.spotify.com/track/14fYNWLL13lnpV8pdJmREV) | [BALLISTIK BOYZ from EXILE TRIBE](https://open.spotify.com/artist/1dZ8IZ8BXP30yhG50TH06o) | [In My Head](https://open.spotify.com/album/1xJb2W3tod9ecek8mAl2Bf) | 3:20 | 2024-02-20 | 2024-02-22 |
 | [In My Head](https://open.spotify.com/track/1ca1fujaysoprH04Pcjnfe) | [BALLISTIK BOYZ from EXILE TRIBE](https://open.spotify.com/artist/1dZ8IZ8BXP30yhG50TH06o) | [Back & Forth](https://open.spotify.com/album/6chK5tRYokqZR6fTN8SDNP) | 3:20 | 2024-02-20 | 2024-04-24 |
 | [In The Dark](https://open.spotify.com/track/4ByIwUEB12eKgYeFA8NqwV) | [TEMPEST](https://open.spotify.com/artist/1iyFL3CRuKW7PXgPH4VxSP) | [As I am](https://open.spotify.com/album/173YgSJe4F1sZG6pABL2zm) | 3:18 | 2025-10-27 |  |
-| [In The Dark \(with Stray Kids\)](https://open.spotify.com/track/3JOQqT93lt9TXfhbqAjA7c) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Nomad](https://open.spotify.com/album/7j6mSOEPv6m0JOZXwFXymX) | 2:59 | 2025-11-07 |  |
+| [In The Dark \(with Stray Kids\)](https://open.spotify.com/track/3JOQqT93lt9TXfhbqAjA7c) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Nomad](https://open.spotify.com/album/7j6mSOEPv6m0JOZXwFXymX) | 2:59 | 2025-11-07 | 2025-11-19 |
 | [In Your Fantasy \(Korean Ver.\)](https://open.spotify.com/track/2Bolr7uiAoqeccV3MJ7Kjx) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.3 'In Your Fantasy Edition'](https://open.spotify.com/album/2rBtlOpNMuE4u9imyZz0YL) | 3:12 | 2025-07-10 | 2025-07-19 |
 | [In Your Fantasy \- Korean Ver.](https://open.spotify.com/track/1ng2YXmSmbj0evM5QRBqHK) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.3 \(In Your Fantasy Edition\)](https://open.spotify.com/album/49niymyM1a8TlYSbt9tPfo) | 3:12 | 2025-07-18 | 2025-09-17 |
 | [INFERNO](https://open.spotify.com/track/212BPxhwlB49xBb19xrEoh) | [RIKU](https://open.spotify.com/artist/5nnTRY8f0Gi8rIC9bgrnZG), [MA55IVE THE RAMPAGE](https://open.spotify.com/artist/4WrhFhuiPWwEkbsRzAjMBk) | [INFERNO](https://open.spotify.com/album/4NqvSNYyzoeddxkQgSdTvX) | 3:41 | 2024-01-31 | 2024-02-07 |
@@ -341,7 +342,7 @@
 | [Keep on Moving](https://open.spotify.com/track/4nS2rDbFUcvcrNoTEQFJJM) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [Ride the Vibe \(Japanese Ver.\) / Keep on Moving \-Special Edition\-](https://open.spotify.com/album/5tyosIYVnbP67FGL9o8Xx6) | 3:06 | 2024-08-22 | 2024-09-25 |
 | [Keep on Moving \(Korean Version\)](https://open.spotify.com/track/1yxwMcQCslhKvGHA4OnNaj) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [Keep on Moving \(Korean Version\)](https://open.spotify.com/album/4q1Pmz0UWvz6LoiNF6q63r) | 3:06 | 2024-09-24 | 2024-10-16 |
 | [Killa](https://open.spotify.com/track/4KwBjOcDve0jQrvD9eQljz) | [ENJIN](https://open.spotify.com/artist/1xO6BVi6M8m2Q2O1EE7oEC) | [Inception](https://open.spotify.com/album/5qb6vswL32wO47scCrZ7EL) | 3:24 | 2024-06-12 | 2024-07-10 |
-| [Killin' It Girl \(feat\. GloRilla\)](https://open.spotify.com/track/5PCOOngROV9jWsUViSy4Ed) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Killin' It Girl \(feat\. GloRilla\)](https://open.spotify.com/album/0SSznW46Qvf6PHvO58aPNs) | 2:28 | 2025-06-13 |  |
+| [Killin' It Girl \(feat\. GloRilla\)](https://open.spotify.com/track/5PCOOngROV9jWsUViSy4Ed) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Killin' It Girl \(feat\. GloRilla\)](https://open.spotify.com/album/0SSznW46Qvf6PHvO58aPNs) | 2:28 | 2025-06-13 | 2025-11-19 |
 | [King Kila Game](https://open.spotify.com/track/2fuUnp8GTH9IBhm5xgtnlO) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [King Kila Game](https://open.spotify.com/album/3j1oA9TCyN5KSSvK1KLQBy) | 2:45 | 2025-04-07 | 2025-04-15 |
 | [KING KONG \- JP Ver.](https://open.spotify.com/track/6Q96nfYOcmF1ORjAn9uIhW) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [KING KONG / REVERSE](https://open.spotify.com/album/6gncf79WtnIJNpWKtJRgUh) | 3:16 | 2024-08-22 | 2024-10-02 |
 | [KISS](https://open.spotify.com/track/0dsbzWM9vJvcBSdjMwVuDu) | [IMP.](https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1) | [KISS](https://open.spotify.com/album/5y5pVpvu7sSGoRR2UlkGl5) | 2:55 | 2025-11-02 |  |
@@ -498,7 +499,7 @@
 | [Poppin’](https://open.spotify.com/track/0Li0jmcIZI1KDZ00Hfn1Xp) | [Cool\-X](https://open.spotify.com/artist/61LvMTjrjLLjKODTNvpnCl) | [Poppin’](https://open.spotify.com/album/0HO1vTjbfohJXItDbPi8NY) | 3:11 | 2024-03-19 | 2024-04-03 |
 | [poppop](https://open.spotify.com/track/1Y3Z8ZgjFse47Nt2ZR4EFU) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [poppop \- The 2nd Mini Album](https://open.spotify.com/album/46VvKhK6C8GC2Ew7nAIK3Y) | 3:02 | 2025-04-14 | 2025-07-16 |
 | [Potion](https://open.spotify.com/track/28eKPYXgO3AeZuNzMHLCYp) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [Potion](https://open.spotify.com/album/3wxpO3GVleiGFaD8OB0pWQ) | 2:39 | 2025-05-01 | 2025-06-02 |
-| [Present](https://open.spotify.com/track/6Sj1YUpoWn3IsE0VlHCmMU) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [Present](https://open.spotify.com/album/5tq7fJiO0PAXr5AZ9Wm73w) | 3:15 | 2025-11-07 |  |
+| [Present](https://open.spotify.com/track/6Sj1YUpoWn3IsE0VlHCmMU) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [Present](https://open.spotify.com/album/5tq7fJiO0PAXr5AZ9Wm73w) | 3:15 | 2025-11-07 | 2025-11-19 |
 | [Present](https://open.spotify.com/track/1laQLfoxkzQX3qSiTgB3Eo) | [OCTPATH](https://open.spotify.com/artist/3RNZ3qV2S5PWCZLt69MDR7) | [Present](https://open.spotify.com/album/2FNIoMSAQ796xyI06iMnUy) | 3:44 | 2024-11-19 | 2024-11-27 |
 | [present](https://open.spotify.com/track/6iz1Hlc9Evt7xayq3LyRCP) | [THE BEAT GARDEN](https://open.spotify.com/artist/7gcQfJbjZ2W440kQ2wmqzk) | [present](https://open.spotify.com/album/68Tt5pQ5JRSMRA9SYczoIs) | 4:27 | 2024-02-13 | 2024-03-06 |
 | [Pretty Boy](https://open.spotify.com/track/4etRRTZx5odrdgKiZqGSZ6) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [DUH!](https://open.spotify.com/album/31Q4mSPAjzNEwqSwyBzW5p) | 2:56 | 2025-08-04 | 2025-09-17 |
@@ -545,6 +546,7 @@
 | [SAVIOR](https://open.spotify.com/track/3GujwZryUismW6xKOn309M) | [ONE N' ONLY](https://open.spotify.com/artist/6Pob63g9NOdT7moTAUZ4GB) | [SAVIOR](https://open.spotify.com/album/3iXdmJU9Ya628gLjlgoWZr) | 2:59 | 2025-01-14 | 2025-02-10 |
 | [SAY CHEESE!](https://open.spotify.com/track/5K7Mt6iXdKKJV08fn1aFdb) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [SAY CHEESE!](https://open.spotify.com/album/5r8SFpLS1F2UtCgI9pVAGQ) | 2:52 | 2025-11-09 |  |
 | [Say I do](https://open.spotify.com/track/5XKjC9HCdGdGyltKvsqNdb) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [Say I do](https://open.spotify.com/album/31CPmLdGSzZ6MHRCIOVhsO) | 4:02 | 2025-03-06 | 2025-04-16 |
+| [Say Something](https://open.spotify.com/track/1lI76Tz7WvjaXdcINJP1Um) | [THE JET BOY BANGERZ from EXILE TRIBE](https://open.spotify.com/artist/3fjFsQiDcaCYsbcnFz3Rhi) | [Let's Dance](https://open.spotify.com/album/0RjG9ZNP4eZ0h4uC9q2GtN) | 3:12 | 2025-11-18 |  |
 | [SBY](https://open.spotify.com/track/2O9EGN7oPpO1culiuzwAev) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [THE BEST 2020 \- 2025](https://open.spotify.com/album/4aAwZdP0gcG0WXPoFH5Tpp) | 3:11 | 2025-04-07 | 2025-08-20 |
 | [SCORCH](https://open.spotify.com/track/3W5j5s8PD22PAmIPGg9VKs) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [Jelly Bean](https://open.spotify.com/album/72I1qNoBJDKSDVs9TC0qCO) | 3:01 | 2025-03-25 | 2025-06-23 |
 | [Seaside Story](https://open.spotify.com/track/1ZMv8crk9nkfKhTyneEB5s) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [Seaside Story](https://open.spotify.com/album/1tcQGv1r3PTF9H7igHDwWt) | 3:10 | 2024-07-09 | 2024-11-19 |
@@ -645,6 +647,7 @@
 | [Treasure Believer](https://open.spotify.com/track/47kYfk9KuZppYzt1n7soRP) | [VΔLZ](https://open.spotify.com/artist/5NsoCPfSPuShXpS1xuLmPf) | [三華の樂](https://open.spotify.com/album/4GnRqlotGHfKskEIprHBEz) | 3:52 | 2024-06-04 | 2024-06-13 |
 | [Trendsetter](https://open.spotify.com/track/0KdRHPuaYxXmDkHPNMHo3l) | [KID PHENOMENON from EXILE TRIBE](https://open.spotify.com/artist/0fDuN5RNp3ysq68Zdz17MV) | [Unstoppable](https://open.spotify.com/album/2JJxm3mIqGHbrwDGxDoMQ8) | 3:15 | 2024-10-08 | 2024-11-13 |
 | [Tricky](https://open.spotify.com/track/3G6rXjTd5dzChNH3xTeTZj) | [IMP.](https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1) | [BAM\-BOO／ミチシルベ](https://open.spotify.com/album/4na3Tzdx6VoIUy6J57Papr) | 3:23 | 2024-12-17 | 2025-04-03 |
+| [True Love](https://open.spotify.com/track/5EqNFRYvdvHo6kfKTB3qgF) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [THE WINTER MAGIC](https://open.spotify.com/album/7EPhcoQIaHON3W29MMFDpF) | 2:40 | 2025-11-18 |  |
 | [TRUE LOVE](https://open.spotify.com/track/0wnjaknKCvliLDwsrTiAYz) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [TRUE LOVE](https://open.spotify.com/album/0Vx9lG8jqCsS4lYKnynCO8) | 4:25 | 2025-10-06 | 2025-10-13 |
 | [True or Doubt](https://open.spotify.com/track/4rYthQE68476ZAuZCcz6g0) | [GENERATIONS from EXILE TRIBE](https://open.spotify.com/artist/4HfuyMMy295oBvbIuXr0v8) | [True or Doubt](https://open.spotify.com/album/5y1BmvP8eyXHn01gKycYso) | 3:07 | 2025-02-04 | 2025-02-12 |
 | [Twilight](https://open.spotify.com/track/34j16cc8dbfSQBUDSp5tBG) | [ASTRO](https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8) | [Twilight](https://open.spotify.com/album/3l0ysTm95Ki0mi3wgvpNhx) | 3:23 | 2025-03-06 | 2025-04-16 |
@@ -764,7 +767,7 @@
 | [両片想い](https://open.spotify.com/track/1UMIpUFDRaNmTMMu1br8gL) | [DXTEEN](https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR) | [両片想い](https://open.spotify.com/album/0N8vRd5AcdsyifTccX4abX) | 3:08 | 2025-07-31 |  |
 | [五月雨 \(Samidare\)](https://open.spotify.com/track/7tXjyOod2TlM9g447E8NUn) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [五月雨 \(Samidare\)](https://open.spotify.com/album/2I0nlM24jBs20fWzSwUfLE) | 3:11 | 2024-05-07 | 2025-02-12 |
 | [共闘 feat\. RYOKI from BE:FIRST](https://open.spotify.com/track/4yhuShHeIeTJYKmQcMAYJC) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa), [RYOKI](https://open.spotify.com/artist/5wTRBlhKerluU2z9KGtdFm) | [共闘 feat\. RYOKI from BE:FIRST](https://open.spotify.com/album/1Bnpg0kRAWkmCkxIN1aEwU) | 2:56 | 2024-04-16 | 2024-05-22 |
-| [冬のダイアモンド](https://open.spotify.com/track/5pcdD8E6QswYqbImTldQpP) | [THE JET BOY BANGERZ from EXILE TRIBE](https://open.spotify.com/artist/3fjFsQiDcaCYsbcnFz3Rhi) | [冬のダイアモンド](https://open.spotify.com/album/3cwPahvY7R0lk0nWEPudqu) | 4:00 | 2025-11-05 |  |
+| [冬のダイアモンド](https://open.spotify.com/track/5pcdD8E6QswYqbImTldQpP) | [THE JET BOY BANGERZ from EXILE TRIBE](https://open.spotify.com/artist/3fjFsQiDcaCYsbcnFz3Rhi) | [冬のダイアモンド](https://open.spotify.com/album/3cwPahvY7R0lk0nWEPudqu) | 4:00 | 2025-11-05 | 2025-11-19 |
 | [初心LOVE（うぶらぶ）](https://open.spotify.com/track/6niUXDrcVDnwrXIz77gd0c) | [なにわ男子](https://open.spotify.com/artist/5V0oa9WaeYkBszHV6ItVD6) | [初心LOVE（うぶらぶ）](https://open.spotify.com/album/6Lv6W4CtTA5rmInHtrgimB) | 3:47 | 2024-08-13 | 2025-02-05 |
 | [刺激最優先](https://open.spotify.com/track/3XfsYmvktlb7Csgb1ItDY7) | [LIL LEAGUE from EXILE TRIBE](https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ) | [刺激最優先](https://open.spotify.com/album/1R7e1FHHGKNtT6uWqok07p) | 2:35 | 2025-03-06 | 2025-03-26 |
 | [刺激最優先](https://open.spotify.com/track/37eg0Bti0pWhbl8TTbBZUZ) | [LIL LEAGUE from EXILE TRIBE](https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ) | [刺激最優先](https://open.spotify.com/album/0Y5YM1A3Ft6YEmzeqiMudx) | 2:35 | 2024-11-19 | 2024-12-11 |

@@ -4,7 +4,7 @@
 
 > Enjoy the best of acoustic, easy listening pop, and singer\-songwriter music for work, study or relaxing with a cup of coffee or tea\. Warm melodies to create the perfect mood for your lovely day\. Best coffee lounge background music 2025\. Koffie \| Koffiehuis \| Musique de café \| música ambiente de café
 
-361 songs - 20 hr 2 min
+362 songs - 20 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Leave It Just Like This](https://open.spotify.com/track/7mEmlSVnW7khnkvaEb4J65) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [Boy Made Out Of Stars](https://open.spotify.com/album/61u3bJdUYO6zizGTPxK7zZ) | 3:20 | 2025-07-18 |  |
 | [Let Alone The One You Love](https://open.spotify.com/track/3Vd4fHzwS6pBS3muymjiDi) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 3:06 | 2025-09-26 |  |
 | [Let The Lonely](https://open.spotify.com/track/6WgBtsykRW7F0C7Qf7rhj4) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Let The Lonely](https://open.spotify.com/album/4u9BR3AFUBH4Pn7UltwH0L) | 3:18 | 2025-09-22 |  |
+| [Letters From The Day](https://open.spotify.com/track/6MkGpvikb539hjZWYzIyJz) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Letters From The Day](https://open.spotify.com/album/5VX9FRu3o6y8cvbx4qv8EP) | 4:19 | 2025-11-18 |  |
 | [Like I'm Gonna Lose You \(feat\. John Legend\)](https://open.spotify.com/track/2YlZnw2ikdb837oKMKjBkW) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Title \(Deluxe\)](https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE) | 3:45 | 2025-07-18 |  |
 | [Listening Now](https://open.spotify.com/track/4BEA3Xwkj90eOYo7by1HLI) | [David Arlo](https://open.spotify.com/artist/0p5H44Hufi4BrG8PyaH7rK) | [Listening Now](https://open.spotify.com/album/5mi9kuH3w0mIeToHBkgtc8) | 3:28 | 2025-08-08 |  |
 | [Little By Little](https://open.spotify.com/track/4V5ejXmLyywcFgE9Rqsvr9) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute...](https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY) | 3:21 | 2025-07-18 |  |

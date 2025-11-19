@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1eByu0.md) - [plain]
 
 > This is Aline Barros\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,405 likes - 50 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,403 likes - 50 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,13 +38,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1eByu0.md) - [plain]
 | 28 | [Lugar Seguro](https://open.spotify.com/track/5x1af1rD0Als1qnhvUk5qz) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Graça](https://open.spotify.com/album/6uQsl1WlVplqnehH77hNFL) | 4:10 |
 | 29 | [Te Adorar é o Meu Prazer](https://open.spotify.com/track/3tzl7KLt2URgiPTgqHf7uS) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Som de Adoradores](https://open.spotify.com/album/44c0Ejf6sz9GAy5n00Cyb9) | 6:34 |
 | 30 | [Homenzinho Torto](https://open.spotify.com/track/7oI40EwoWgUTpE28SCStdS) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia](https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4) | 2:47 |
-| 31 | [Caminho de Milagres](https://open.spotify.com/track/6tN9l7ThcLuuwVbt773zIX) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Caminho de Milagres](https://open.spotify.com/album/28aJm8Sn0MLMUXi20GMk7u) | 4:35 |
-| 32 | [Consagração / Louvor ao Rei \- Ao Vivo](https://open.spotify.com/track/49z6QBLAYJDbITRbidCoMn) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros 20 Anos Ao Vivo](https://open.spotify.com/album/5QXDVXCZoUPslgqQ9O2JI7) | 7:29 |
+| 31 | [Consagração / Louvor ao Rei \- Ao Vivo](https://open.spotify.com/track/49z6QBLAYJDbITRbidCoMn) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros 20 Anos Ao Vivo](https://open.spotify.com/album/5QXDVXCZoUPslgqQ9O2JI7) | 7:29 |
+| 32 | [Caminho de Milagres](https://open.spotify.com/track/6tN9l7ThcLuuwVbt773zIX) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Caminho de Milagres](https://open.spotify.com/album/28aJm8Sn0MLMUXi20GMk7u) | 4:35 |
 | 33 | [Ele Vem / A Cidade Santa \- Ao Vivo](https://open.spotify.com/track/3ITvJ8pM7FVFsqXwBepr0C) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [One Service Project](https://open.spotify.com/artist/6fUKkqN2PLedcYs1AQAwg7) | [Ele Vem / A Cidade Santa \(Ao Vivo\)](https://open.spotify.com/album/0QYG11SWkllPiFFnq5pxgQ) | 5:29 |
 | 34 | [Dança do Pinguim](https://open.spotify.com/track/4xIhkjavXmWmlUSBOtEqUq) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia](https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4) | 2:56 |
 | 35 | [Vento do Espírito](https://open.spotify.com/track/68bMEiYsaVqdO35XLWEz5z) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Som de Adoradores](https://open.spotify.com/album/44c0Ejf6sz9GAy5n00Cyb9) | 5:08 |
-| 36 | [Pedro, Tiago e João no Barquinho](https://open.spotify.com/track/1180Pe0jjGNslftSXTrEKi) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia 2](https://open.spotify.com/album/58dham8BeNuWKBJJTbzenr) | 3:09 |
-| 37 | [Pai Presente](https://open.spotify.com/track/17A6kCom591jICydbChxCk) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Pai Presente](https://open.spotify.com/album/682eYG75UszY1zmE0yHhys) | 4:53 |
+| 36 | [Pai Presente](https://open.spotify.com/track/17A6kCom591jICydbChxCk) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Pai Presente](https://open.spotify.com/album/682eYG75UszY1zmE0yHhys) | 4:53 |
+| 37 | [Pedro, Tiago e João no Barquinho](https://open.spotify.com/track/1180Pe0jjGNslftSXTrEKi) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia 2](https://open.spotify.com/album/58dham8BeNuWKBJJTbzenr) | 3:09 |
 | 38 | [Jesus Cristo Mudou Meu Viver \(What a Difference You've Made In My Life\) \- Ao Vivo](https://open.spotify.com/track/6lp6PPv7PjP8mLLP7bVjgZ) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros 20 Anos Ao Vivo](https://open.spotify.com/album/5QXDVXCZoUPslgqQ9O2JI7) | 3:56 |
 | 39 | [Ele Se Move](https://open.spotify.com/track/61mM34xhgyclClrB6ayGwd) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Ele Se Move](https://open.spotify.com/album/1iwxIJJ1Uch7UCKnIfQ5pZ) | 5:41 |
 | 40 | [Pisa na Muralha](https://open.spotify.com/track/73lX64r9ZjNbprMuwrxznZ) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia 3](https://open.spotify.com/album/6dtJQolCzJVqKjpBE72gpg) | 3:22 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1eByu0.md) - [plain]
 | 42 | [Samuel](https://open.spotify.com/track/5NnWQ6Bqy3Lvcek2yoUXSE) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia](https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4) | 2:40 |
 | 43 | [Casa de Deus](https://open.spotify.com/track/4PWM6JVp0UMaZnHMOzH7q4) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Som de Adoradores](https://open.spotify.com/album/44c0Ejf6sz9GAy5n00Cyb9) | 5:40 |
 | 44 | [Eu Li na Bíblia](https://open.spotify.com/track/73ACUt1xfsU6HAolULv9Fp) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia 3](https://open.spotify.com/album/6dtJQolCzJVqKjpBE72gpg) | 4:10 |
-| 45 | [A Dança do Quaquito](https://open.spotify.com/track/3o7vf9FujS4DkcDOMVMTug) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia 2](https://open.spotify.com/album/58dham8BeNuWKBJJTbzenr) | 2:58 |
-| 46 | [Refinador \(Refiner\)](https://open.spotify.com/track/2zMg5jNFn6cv6imFPrYuBR) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Minha Oração](https://open.spotify.com/album/389BcZL9PPZK0m4sSkIDH5) | 5:07 |
+| 45 | [Refinador \(Refiner\)](https://open.spotify.com/track/2zMg5jNFn6cv6imFPrYuBR) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Minha Oração](https://open.spotify.com/album/389BcZL9PPZK0m4sSkIDH5) | 5:07 |
+| 46 | [A Dança do Quaquito](https://open.spotify.com/track/3o7vf9FujS4DkcDOMVMTug) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia 2](https://open.spotify.com/album/58dham8BeNuWKBJJTbzenr) | 2:58 |
 | 47 | [Yo Sé Quien Soy](https://open.spotify.com/track/34Ie7cr6R8Np8MighWg37q) | [Emir Sensini](https://open.spotify.com/artist/0PymX5SwKjel2b1lXRvU20), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Yo Sé Quien Soy](https://open.spotify.com/album/5M9E9nX5CYId00OAWa5pPd) | 3:59 |
 | 48 | [Arca de Noé](https://open.spotify.com/track/2IlFyiCXLg5EK5JChEgWGA) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia 3](https://open.spotify.com/album/6dtJQolCzJVqKjpBE72gpg) | 3:21 |
-| 49 | [O Barco Balançou](https://open.spotify.com/track/1XoHbczW2WUPOJAUTmXLz5) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia 2](https://open.spotify.com/album/58dham8BeNuWKBJJTbzenr) | 3:05 |
-| 50 | [Louvar é Bom Demais](https://open.spotify.com/track/52bR6NwdMWJUc8rXuWwxjh) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia](https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4) | 2:57 |
+| 49 | [Louvar é Bom Demais](https://open.spotify.com/track/52bR6NwdMWJUc8rXuWwxjh) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia](https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4) | 2:57 |
+| 50 | [O Barco Balançou](https://open.spotify.com/track/1XoHbczW2WUPOJAUTmXLz5) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia 2](https://open.spotify.com/album/58dham8BeNuWKBJJTbzenr) | 3:05 |
 
-Snapshot ID: `aRkUAAAAAABguAfrnZkpEmAwwDLbvxWE`
+Snapshot ID: `aRplgAAAAAB9U7kcBnAdbkbr/aafpMFg`

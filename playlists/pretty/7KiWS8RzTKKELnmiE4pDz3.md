@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 361 songs - 20 hr 52 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 364 songs - 21 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -369,5 +369,8 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 359 | [RZA](https://open.spotify.com/track/3UNRWUp42N4Oaj1M1mcDRE) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [The Family](https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy) | 2:12 |
 | 360 | [Sweet Lady](https://open.spotify.com/track/6VBuV3fk37EGAqFbDVQjHv) | [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [Purple Summer](https://open.spotify.com/album/0mN9qYcfmWYMfsy0t30xUc) | 4:40 |
 | 361 | [Bleed \(feat\. Omar Apollo\)](https://open.spotify.com/track/2TAKt1x0k9AltDJm31GhEu) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz), [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Malcolm Todd](https://open.spotify.com/album/6IkS2cDHxaYVkJueCPSdFs) | 2:59 |
+| 362 | [Mellow My Man](https://open.spotify.com/track/0bzFaHiymbvjmIDKf6XAbS) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu) | [Do You Want More?!!!??!](https://open.spotify.com/album/3fr53Fq6cElPicmpKz9w1g) | 4:41 |
+| 363 | [Sometimes](https://open.spotify.com/track/5RnLNOSL1nkBzil8mVM10o) | [The Brand New Heavies](https://open.spotify.com/artist/3DEveX6KVzhPDqq2VRuN14) | [Shelter](https://open.spotify.com/album/0c9Ixyl94wsxMiW1k4Obh9) | 4:46 |
+| 364 | [Free Your Mind](https://open.spotify.com/track/6YjqkGsBgRHqdnbCS4pbjs) | [James Taylor Quartet](https://open.spotify.com/artist/4yJ5JaEQvtAynbcucAiN0R) | [In the Hand of the Inevitable](https://open.spotify.com/album/4XTXpbLvjAvzyzInkgK992) | 4:54 |
 
-Snapshot ID: `AAAfMmDUN1m9gR7VJ+qIXdhKymGzCyf1`
+Snapshot ID: `AAAfNShJ/+EvYMb0TtRa0229/viNhHXK`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXPoAK0p4FcE.md) - [plain]
 
 > อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: เรนิษรา
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,731 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,726 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,12 +13,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXPoAK0p4FcE.md) - [plain]
 | 3 | [ถูกรักโดยไม่ต้องร้องขอ](https://open.spotify.com/track/0sn4QE0IOX8XDYACXVbAJU) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW) | [ถูกรักโดยไม่ต้องร้องขอ](https://open.spotify.com/album/5TUxEV56ieRDJ3tGv2DFP8) | 3:44 |
 | 4 | [ชาติหน้าช้าไป \(K.O.\)](https://open.spotify.com/track/0lQPdxfV1So2QbRrOLz0ft) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [ชาติหน้าช้าไป \(K.O.\)](https://open.spotify.com/album/6kn51Xi2Pj3KlyikjPn4A2) | 3:51 |
 | 5 | [กลัวว่าฉันจะไม่เสียใจ \(Fear\)](https://open.spotify.com/track/4ntIPuXf6DpvrZExXrn5QA) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [กลัวว่าฉันจะไม่เสียใจ \(Fear\)](https://open.spotify.com/album/1Uwz9ZHd0kCz4cqxNCUs7K) | 4:47 |
-| 6 | [ทุกครั้งที่หลับตา \(Lucid Dream\)](https://open.spotify.com/track/4xtYwmu1FkBQkOhK5fTqd4) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [ทุกครั้งที่หลับตา \(Lucid Dream\)](https://open.spotify.com/album/4iwWf24XP5mfvnhsnSjxsI) | 5:23 |
+| 6 | [คงจะดีหากฉันหายไป \(Vanishing\)](https://open.spotify.com/track/5H1KfK3lWKPCEUFkJKrUly) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [คงจะดีหากฉันหายไป \(Vanishing\)](https://open.spotify.com/album/0jff59Bpd4lc1WmAcp8UPD) | 4:14 |
 | 7 | [ละเมอดาว \(Starry Night\)](https://open.spotify.com/track/6JpF08HpTe7I5IYH5nx7Rl) | [SHERRY](https://open.spotify.com/artist/3Uzr5SP3rk1GL9OdPYL0Rz) | [ละเมอดาว \(Starry Night\)](https://open.spotify.com/album/2zG73XChEkI2PaoQnIrxdr) | 3:45 |
 | 8 | [โปรดออกไปจากฝัน \(sweet nightmare\)](https://open.spotify.com/track/5oWSGGdlWExRTL0PEMlJTU) | [The White Hair Cut](https://open.spotify.com/artist/2uL9cdYQwaJbvudGv4VxOc) | [Second Hand Store](https://open.spotify.com/album/4ehCfNCFuND4oRScDH4mH1) | 3:14 |
 | 9 | [ยังมีหน้ากลับมา? \(How Dare You?\)](https://open.spotify.com/track/5GFhuaQZgF240TDr6VMfKZ) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [ยังมีหน้ากลับมา? \(How Dare You?\)](https://open.spotify.com/album/5V9mD5CxFt0eWroOlYdWjM) | 4:17 |
 | 10 | [นี่ฉันเองคนที่...](https://open.spotify.com/track/7xIA2UmWstNzDU3tba4VP1) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [นี่ฉันเองคนที่...](https://open.spotify.com/album/11gCYa9lh1X1QyxnIZGArK) | 4:16 |
-| 11 | [คงจะดีหากฉันหายไป \(Vanishing\)](https://open.spotify.com/track/5H1KfK3lWKPCEUFkJKrUly) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [คงจะดีหากฉันหายไป \(Vanishing\)](https://open.spotify.com/album/0jff59Bpd4lc1WmAcp8UPD) | 4:14 |
+| 11 | [ทุกครั้งที่หลับตา \(Lucid Dream\)](https://open.spotify.com/track/4xtYwmu1FkBQkOhK5fTqd4) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [ทุกครั้งที่หลับตา \(Lucid Dream\)](https://open.spotify.com/album/4iwWf24XP5mfvnhsnSjxsI) | 5:23 |
 | 12 | [มีชีวิต \(Alive\)](https://open.spotify.com/track/21NBknen0yxwugDGFPYXy1) | [Plastic Plastic](https://open.spotify.com/artist/0YjEWrRKD9nBJfeF5eLdBd) | [Alive](https://open.spotify.com/album/6iG4T2CRpmPDsj8VRTBZAJ) | 3:42 |
 | 13 | [Trip](https://open.spotify.com/track/7k0zv87tT5Q9pEfDErNcm5) | [Moving and Cut](https://open.spotify.com/artist/4Ay4SXrEtSvyImMWgFeFZ3) | [Trip](https://open.spotify.com/album/1JLTRV3W2SedWzmtUMjDn6) | 3:39 |
 | 14 | [สิ่งที่สวยงาม \(I Wish Every Night\)](https://open.spotify.com/track/6pQp49ThiAsKwCl8OWcO4V) | [Whal & Dolph](https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh) | [สิ่งที่สวยงาม \(I Wish Every Night\)](https://open.spotify.com/album/1MHUEhvO4u9sKKKVcUOVRy) | 3:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXPoAK0p4FcE.md) - [plain]
 | 49 | [เปลี่ยนไปเหมือนกัน \(Vesper\)](https://open.spotify.com/track/2LXwmbBwQtMlxyc7B8URR3) | [Television off](https://open.spotify.com/artist/1KmzHN004Sm7O5pqRmh9hA) | [เปลี่ยนไปเหมือนกัน \(Vesper\)](https://open.spotify.com/album/5rzx4nzHzapsZ34X22Ykg1) | 4:06 |
 | 50 | [บอกทีได้ไหม?](https://open.spotify.com/track/0hnEQh5IUjnXgT923C07qR) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [บอกทีได้ไหม?](https://open.spotify.com/album/4DBDoBVgZatuk4dcKeU4uq) | 3:58 |
 
-Snapshot ID: `AAAAAI+JVepccyHOpJFRznbqkw4kuywl`
+Snapshot ID: `AAAAALl27gc7z81qocWldlOfMRL8nGJp`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 
 > Blissful indie for dreamers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,859 likes - 80 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,875 likes - 80 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 | 29 | [De ma Tour](https://open.spotify.com/track/5mXgCx5JKyqsIapstWQ94b) | [Reymour](https://open.spotify.com/artist/6mlzYzLXQ7gQrMg3DydrAi) | [Leviosa](https://open.spotify.com/album/4dZlnblHaQxVDbUKkdVuL3) | 3:16 |
 | 30 | [Cellar](https://open.spotify.com/track/6PWjL98PtO7QBbMzBYszNY) | [Sea Lemon](https://open.spotify.com/artist/6Oy4STraI9APdMoCO5te6w) | [Cellar](https://open.spotify.com/album/3SYtJKO826EDWOwvZvhdb8) | 4:05 |
 | 31 | [Slide](https://open.spotify.com/track/0BKIK1Zf025Y5zklE4IXSd) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Slide](https://open.spotify.com/album/3pEOuINxpeoHPL9Sf9IAe2) | 3:53 |
-| 32 | [Come Down and Waste With Me](https://open.spotify.com/track/3j3842JTc24dyCpeP3s2YL) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4) | [Ways To Get Out \(Deluxe\)](https://open.spotify.com/album/7FmLx521t1FJ6bWggcuNCY) | 4:07 |
+| 32 | [I've Been Dreaming of You](https://open.spotify.com/track/1QefCoXtVK3wY1KDTt93Ei) | [HEIGHTS](https://open.spotify.com/artist/5EdogtWIzqFv45sdk6ePZH) | [I've Been Dreaming Of You](https://open.spotify.com/album/5JBMkxhLl4894CjX2O9jEO) | 2:28 |
 | 33 | [i wanna](https://open.spotify.com/track/16yTwYw2o5hgtf1YDePQN7) | [sweet93](https://open.spotify.com/artist/1bZAIpozrb4BckaTTRm52y) | [i wanna](https://open.spotify.com/album/6BhQyzycyRPetDQ8iJhN5i) | 2:19 |
-| 34 | [I've Been Dreaming of You](https://open.spotify.com/track/1QefCoXtVK3wY1KDTt93Ei) | [HEIGHTS](https://open.spotify.com/artist/5EdogtWIzqFv45sdk6ePZH) | [I've Been Dreaming Of You](https://open.spotify.com/album/5JBMkxhLl4894CjX2O9jEO) | 2:28 |
+| 34 | [Come Down and Waste With Me](https://open.spotify.com/track/3j3842JTc24dyCpeP3s2YL) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4) | [Ways To Get Out \(Deluxe\)](https://open.spotify.com/album/7FmLx521t1FJ6bWggcuNCY) | 4:07 |
 | 35 | [Space Between Us](https://open.spotify.com/track/0RuQddbj6LGbMq1CzzPgGj) | [VHS Collection](https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH) | [Space Between Us](https://open.spotify.com/album/6ZoG8UIgbpue4NGJ3x9VS8) | 3:59 |
 | 36 | [Tell me I never knew that](https://open.spotify.com/track/2Kd9o6XhbcMLQcqkyoAg3f) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Tell me I never knew that](https://open.spotify.com/album/6Z76fbESpNdmG9WSvlvaCW) | 4:39 |
 | 37 | [Quite Like You](https://open.spotify.com/track/7B6jRQYFeJR4eUe2LBZfr4) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [Quite Like You](https://open.spotify.com/album/5mja6AsqxnYjorZZ9eG77X) | 2:59 |
@@ -68,10 +68,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 | 58 | [Beautiful World](https://open.spotify.com/track/6jfZZqVjPLOuIRFmYwTtfg) | [Blondes](https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP) | [Beautiful World](https://open.spotify.com/album/5Hq9ivqHhytJcNING1NyXc) | 3:40 |
 | 59 | [Deceiver](https://open.spotify.com/track/1rtlnLhySfda2ZgY5sRpEH) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Fantasy](https://open.spotify.com/album/3OP8x4M096zMaMx3Rk89fw) | 6:29 |
 | 60 | [No More Kissing In The Rain](https://open.spotify.com/track/6euR55gwJ65nxIPeXLPPwo) | [trentemøller](https://open.spotify.com/artist/4O71i7ke5iIBX6RNSFoZbS), [Lisbet Fritze](https://open.spotify.com/artist/6ImgDd6PSpdu3uOGoTaGod) | [Memoria](https://open.spotify.com/album/7w5COkBSsfMksBbXnDVog2) | 4:19 |
-| 61 | [rest up](https://open.spotify.com/track/5vFpDxSYbw2ooyuKFfXNPr) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [rest up](https://open.spotify.com/album/1ctBuXXFgblyXuqBzOH5Ue) | 3:24 |
-| 62 | [Make Me Wanna](https://open.spotify.com/track/4bDTwDYjVdTWMRvfoPGAla) | [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ), [Navy Blue](https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV) | [Make Me Wanna](https://open.spotify.com/album/5NjTqkwOPJByuwuZB9oxjs) | 3:22 |
-| 63 | [Haunt You Still](https://open.spotify.com/track/7hLYnfqZ8IlIMxjdTkRFxO) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Heaven](https://open.spotify.com/album/1N1hcETSwMi13yU30szzpD) | 4:02 |
-| 64 | [Honeybee](https://open.spotify.com/track/0RRkuQwb77DpJ29Z2CDgHH) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [Honeybee](https://open.spotify.com/album/31TfscfSs0SHkqhA7KEYwK) | 2:49 |
+| 61 | [Make Me Wanna](https://open.spotify.com/track/4bDTwDYjVdTWMRvfoPGAla) | [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ), [Navy Blue](https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV) | [Make Me Wanna](https://open.spotify.com/album/5NjTqkwOPJByuwuZB9oxjs) | 3:22 |
+| 62 | [rest up](https://open.spotify.com/track/5vFpDxSYbw2ooyuKFfXNPr) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [rest up](https://open.spotify.com/album/1ctBuXXFgblyXuqBzOH5Ue) | 3:24 |
+| 63 | [Honeybee](https://open.spotify.com/track/0RRkuQwb77DpJ29Z2CDgHH) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [Honeybee](https://open.spotify.com/album/31TfscfSs0SHkqhA7KEYwK) | 2:49 |
+| 64 | [Haunt You Still](https://open.spotify.com/track/7hLYnfqZ8IlIMxjdTkRFxO) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Heaven](https://open.spotify.com/album/1N1hcETSwMi13yU30szzpD) | 4:02 |
 | 65 | [If I Come Home](https://open.spotify.com/track/1pqrOSuEubjirB4OyBNHPm) | [rozey](https://open.spotify.com/artist/20fOKcudXS3Yyl6ifwXf2u) | [If I Come Home](https://open.spotify.com/album/7l2qDkPU22dXV5mylQTj45) | 3:36 |
 | 66 | [How Many Love Songs Have Died In Vegas?](https://open.spotify.com/track/6ldiSdfgx96IQvUm2XOobi) | [Swim Deep](https://open.spotify.com/artist/2XddLUPFBmTonCFy8uB3uc) | [How Many Love Songs Have Died In Vegas?](https://open.spotify.com/album/3ctaMoubphJD5IVfNfsb1V) | 3:53 |
 | 67 | [Driving in My Car](https://open.spotify.com/track/4NcWigh0uMXPKxCdesQWxG) | [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr), [Nick Hexum](https://open.spotify.com/artist/0lXQieFzHiPaeimBBGqAXY) | [George Clanton and Nick Hexum](https://open.spotify.com/album/714XLbWXbM8C6sfaYALRG7) | 3:37 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 | 70 | [How Can I Love? \- When I Can't Get Away from You](https://open.spotify.com/track/521d9sMAWCvOwsxKUtdZg3) | [fika](https://open.spotify.com/artist/4nJPiUgLhO1HcK13jBkAqX), [Bambie](https://open.spotify.com/artist/2K2zheLCDXiIK9j83oWNxv) | [How Can I Love? \(When I Can't Get Away from You\)](https://open.spotify.com/album/47dm9IPB8nas3cTzwLZu0q) | 2:59 |
 | 71 | [Nothing Left To Lose](https://open.spotify.com/track/00udfYIC2Z9rLaghIxRh3x) | [Bleach Lab](https://open.spotify.com/artist/2B70zWgfCAGQ8o2ImS2bH8) | [Lost In A Rush Of Emptiness](https://open.spotify.com/album/3EvUVXwaGNkeqinGICcGQU) | 3:18 |
 | 72 | [nightingale](https://open.spotify.com/track/6ihhpKNXWZunLWGrctUMbq) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [all that heaven allows](https://open.spotify.com/album/3mbHTRafIT6ndcL37omlgI) | 3:35 |
-| 73 | [what if love isn't enough](https://open.spotify.com/track/3eIGb91cDxpyaGoDjflUoL) | [ellis](https://open.spotify.com/artist/7EQmY1hAAeuJLa0GUNpKNN) | [what if love isn't enough](https://open.spotify.com/album/3bOj7Y6H1q8TqqEoAIGjd0) | 3:48 |
-| 74 | [Portal](https://open.spotify.com/track/1ufpOeDERnDjc27jLRFDp7) | [Juan Son](https://open.spotify.com/artist/0KMvNa9hacj7I16cmapuGG), [Simone Pace](https://open.spotify.com/artist/6uO0MwL8aRtn5r4rEyOCeo) | [Portal](https://open.spotify.com/album/36rdTGwMgq7jOhVYegLaKO) | 3:32 |
+| 73 | [Portal](https://open.spotify.com/track/1ufpOeDERnDjc27jLRFDp7) | [Juan Son](https://open.spotify.com/artist/0KMvNa9hacj7I16cmapuGG), [Simone Pace](https://open.spotify.com/artist/6uO0MwL8aRtn5r4rEyOCeo) | [Portal](https://open.spotify.com/album/36rdTGwMgq7jOhVYegLaKO) | 3:32 |
+| 74 | [what if love isn't enough](https://open.spotify.com/track/3eIGb91cDxpyaGoDjflUoL) | [ellis](https://open.spotify.com/artist/7EQmY1hAAeuJLa0GUNpKNN) | [what if love isn't enough](https://open.spotify.com/album/3bOj7Y6H1q8TqqEoAIGjd0) | 3:48 |
 | 75 | [Ohio Blue Tips](https://open.spotify.com/track/3cKzdHoTN1g39ktjm3twCF) | [Terry vs\. Tori](https://open.spotify.com/artist/1UAyQNs2HANU7mGGqtXzJv) | [Heathers](https://open.spotify.com/album/219YBWjZumk7SNvu9Rk86K) | 3:14 |
 | 76 | [Wry](https://open.spotify.com/track/4xwjpqfk8mHL36w1lsGcl2) | [Keep Shelly In Athens](https://open.spotify.com/artist/15cJEqQvfVczJK2DVdY6DV) | [Wry](https://open.spotify.com/album/0CnWFjySZ8PqIo5S5OD7qC) | 3:00 |
 | 77 | [Blister](https://open.spotify.com/track/2wEJqjOi41VFRdDJkGm6Bx) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY), [Kaeve](https://open.spotify.com/artist/36RCTbO3VLENi4UnVqC1tP) | [Blister](https://open.spotify.com/album/2M6B6ARH3uJLF8rZ0lQrWD) | 3:49 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 | 79 | [The Heart](https://open.spotify.com/track/4Qr2AKqQO1s3YQ6gCV72Gd) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [The Heart](https://open.spotify.com/album/6SrHImPQRscEaGsNdaIHbD) | 4:37 |
 | 80 | [Near](https://open.spotify.com/track/7IK0y5ni8yyfxoOfOitxul) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE), [Bat For Lashes](https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7) | [Future Falling](https://open.spotify.com/album/4V0Xf9ER0qdXBY4erJEOSj) | 5:40 |
 
-Snapshot ID: `AAAAAGCxD4KVJ6d/Qi0CNa6lPzeEA/Nr`
+Snapshot ID: `AAAAAB5FEZDTK5w3ZVp2yeusHITsgvNW`

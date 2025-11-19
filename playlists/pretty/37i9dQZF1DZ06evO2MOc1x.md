@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MOc1x.md) - [plain]
 
 > This is Bonnie Raitt\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,515 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,512 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,16 +22,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MOc1x.md) - [plain]
 | 12 | [Baby I Love You](https://open.spotify.com/track/1jJNeiTnmoVqHhawN9tXfE) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Deuces Wild](https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV) | 4:01 |
 | 13 | [Call It Home](https://open.spotify.com/track/4EN9iaFnuzHQRDZwNt8fpM) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Call It Home, Vol\. 1](https://open.spotify.com/album/2BgDbmhRwn30Kv24s6Kzq0) | 4:08 |
 | 14 | [Six Strings Down](https://open.spotify.com/track/0C7mriFxQZ24xpDXgSfIc8) | [Jimmie Vaughan](https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY), [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO), [Art Neville](https://open.spotify.com/artist/4f9WzVkgm5FoJW8lGGmHkG) | [The Essential Jimmie Vaughan](https://open.spotify.com/album/61ahDSudLBKZ06utlL3g4y) | 6:21 |
-| 15 | [Thing Called Love](https://open.spotify.com/track/3g6lXYay6mqmtFmjzSYr66) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Nick Of Time](https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln) | 3:52 |
-| 16 | [Angel from Montgomery \- Live](https://open.spotify.com/track/4iFaAIBihFXWZ4hiLLASWV) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [John Prine \(Live\)](https://open.spotify.com/album/1jfc5Hverd9LT9GQ4N1al1) | 4:16 |
+| 15 | [Angel from Montgomery \- Live](https://open.spotify.com/track/4iFaAIBihFXWZ4hiLLASWV) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [John Prine \(Live\)](https://open.spotify.com/album/1jfc5Hverd9LT9GQ4N1al1) | 4:16 |
+| 16 | [Thing Called Love](https://open.spotify.com/track/3g6lXYay6mqmtFmjzSYr66) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Nick Of Time](https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln) | 3:52 |
 | 17 | [I Ain't Blue \- 2008 Remaster](https://open.spotify.com/track/54CBPWCAZ37nY94t16ocyL) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Bonnie Raitt \(2008 Remaster\)](https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0) | 3:36 |
 | 18 | [Not The Only One](https://open.spotify.com/track/13p06XYJaV05Q65hSU87jW) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Luck Of The Draw](https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf) | 5:03 |
 | 19 | [Knuckles](https://open.spotify.com/track/3KvkxLG3qIKnvRKsiBaiKl) | [The Bros\. Landreth](https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Knuckles](https://open.spotify.com/album/5Kj6CtezpoXJaIuuyDE9T3) | 4:14 |
 | 20 | [Made Up Mind](https://open.spotify.com/track/2M13EkwriCE63GAg4lZ97z) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Just Like That...](https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd) | 3:40 |
 | 21 | [Any Day Woman \- 2008 Remaster](https://open.spotify.com/track/6hH5c3iQ0z1RjyOuz4D0c2) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Bonnie Raitt \(2008 Remaster\)](https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0) | 2:23 |
 | 22 | [Have A Heart](https://open.spotify.com/track/5DXvq6kWCNefq4qTSVGGGC) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Nick Of Time](https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln) | 4:49 |
-| 23 | [Come To Me](https://open.spotify.com/track/77jvkoKzy83gHwYe4pLi1Y) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Luck Of The Draw](https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf) | 4:20 |
-| 24 | [Home \- 2008 Remaster](https://open.spotify.com/track/4SgIuqaMyQSckMOCrZBBPe) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Sweet Forgiveness](https://open.spotify.com/album/3hNmPJhslMBIBRlOD1iD0B) | 3:28 |
+| 23 | [Home \- 2008 Remaster](https://open.spotify.com/track/4SgIuqaMyQSckMOCrZBBPe) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Sweet Forgiveness](https://open.spotify.com/album/3hNmPJhslMBIBRlOD1iD0B) | 3:28 |
+| 24 | [Come To Me](https://open.spotify.com/track/77jvkoKzy83gHwYe4pLi1Y) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Luck Of The Draw](https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf) | 4:20 |
 | 25 | [Hell To Pay](https://open.spotify.com/track/5oBFPW3PpybYWSsvEuuGnv) | [Boz Scaggs](https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [A Fool To Care](https://open.spotify.com/album/4LzBJVxW5Pr77G7d4CrRbX) | 6:15 |
 | 26 | [I’m In The Mood \- feat\. Bonnie Raitt](https://open.spotify.com/track/5ZMRMaydpaWtuxlNFx9D6n) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [The Healer](https://open.spotify.com/album/7dX5RVwG4Bdw13xrCuIFbk) | 4:31 |
 | 27 | [Guilty \- 2008 Remaster](https://open.spotify.com/track/2QUpntd3v7cZQByy7Kyh4L) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Takin' My Time](https://open.spotify.com/album/6wnsIGl42ActiWfYwkxbra) | 3:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MOc1x.md) - [plain]
 | 49 | [Right Down The Line](https://open.spotify.com/track/1ciDeTaBbYEP3aBj2Eu5X4) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Slipstream](https://open.spotify.com/album/1tlNRoFelhNdpaaxkJIX9T) | 5:27 |
 | 50 | [Write Me a Few of Your Lines / Kokomo Blues \- 2008 Remaster](https://open.spotify.com/track/5Juf20LCeAalwUoeQQHaSP) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Takin' My Time](https://open.spotify.com/album/6wnsIGl42ActiWfYwkxbra) | 3:36 |
 
-Snapshot ID: `aRkUAAAAAAATBbfnAIYcnVdOwvxHmclF`
+Snapshot ID: `aRplgAAAAACSJii5cDzia+hU+bLipR/F`

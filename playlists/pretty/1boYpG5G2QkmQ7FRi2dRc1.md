@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 
 > A weekly selection of tracks that I love to listen to at home or play out at a party.
 
-[Martin Garrix](https://open.spotify.com/user/martingarrix) - 282,037 likes - 38 songs - 2 hr 22 min
+[Martin Garrix](https://open.spotify.com/user/martingarrix) - 282,019 likes - 38 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

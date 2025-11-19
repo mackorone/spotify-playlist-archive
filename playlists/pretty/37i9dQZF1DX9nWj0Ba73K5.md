@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9nWj0Ba73K5.md) - [plain]
 
 > In loving memory of songwriter <a href="https://open.spotify.com/playlist/37i9dQZF1DZ06evO2iM06L"> Brett James</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,037 likes - 195 songs - 11 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,047 likes - 195 songs - 11 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9nWj0Ba73K5.md) - [plain]
 | 37 | [When You Say Nothing At All](https://open.spotify.com/track/7mXjTkZ79hpL0p1ofHlcio) | [Don Schlitz](https://open.spotify.com/artist/4qsw90Ipm5SbFLFQZ4tvLr) | [Greatest Hits](https://open.spotify.com/album/7LAKDwDjQsjeOh5YbZobrn) | 4:14 |
 | 38 | [The Driver](https://open.spotify.com/track/1LDeuD3jbSpHucsd0nOt6t) | [Charles Kelley](https://open.spotify.com/artist/2Hbxyk7qJ22i8wFEqgM3vC), [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [Eric Paslay](https://open.spotify.com/artist/4TONBKcqVR1LmPdfJxvkMU) | [The Driver](https://open.spotify.com/album/6YXkbmsVABrzPBO6Vknj2P) | 4:34 |
 | 39 | [Year & Some Change](https://open.spotify.com/track/783NY7XpsF8JFa6kWeED5I) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [Year & Some Change](https://open.spotify.com/album/0pseNxQLxspnPFtnvS2qis) | 2:49 |
-| 40 | [Sunday Mornin' Comin' Down](https://open.spotify.com/track/4JwFrnLLSO4qqxOeHQATf4) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Kristofferson](https://open.spotify.com/album/4HN8SWymMSOxquR6wY2vke) | 4:30 |
+| 40 | [Sunday Mornin' Comin' Down](https://open.spotify.com/track/4JwFrnLLSO4qqxOeHQATf4) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Kristofferson](https://open.spotify.com/album/4HN8SWymMSOxquR6wY2vke) | 4:35 |
 | 41 | [T\-Shirt](https://open.spotify.com/track/5AAHiCmdVSl83vJVXRCbf0) | [AIMP Nashville](https://open.spotify.com/artist/1ZErafHGtMZeSem9789LMo), [Shane McAnally](https://open.spotify.com/artist/0DxKYZItTwmdZYicUhm05C) | [2016 Nominees \- Original Songwriter Demos](https://open.spotify.com/album/2rfAtTubp83YShEfKUBrKb) | 3:21 |
 | 42 | [Radio Silence](https://open.spotify.com/track/06kZnASR1tSP8Vb9I5WobH) | [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Radio Silence](https://open.spotify.com/album/7sMuzKOhf0sQFNRVmgvHVe) | 3:42 |
 | 43 | [When She Comes Home Tonight](https://open.spotify.com/track/1tgn640w7LpWvti4BDTNux) | [Jordan Fletcher](https://open.spotify.com/artist/43U27Vp3DiU94H7FJx804a) | [When She Comes Home Tonight](https://open.spotify.com/album/4q8t7dDpFa47uypBt5coDN) | 4:44 |

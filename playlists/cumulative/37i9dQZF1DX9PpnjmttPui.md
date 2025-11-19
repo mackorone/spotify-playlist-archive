@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3l0CmX0FuQjFxr8SK7Vqag">Clairo</a> shares the songs she finds charming ✨ Welcome to <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">mixtape</a>, a curator's playground.
 
-50 songs - 2 hr 40 min
+50 songs - 2 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

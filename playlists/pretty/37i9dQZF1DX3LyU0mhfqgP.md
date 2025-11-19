@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Songs from LGBTQIA+ artists\. Cover: Brenda Fassie
+> Songs from LGBTQIA+ artists\. Cover: kwn
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,071,380 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,071,302 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 49 | [Ador](https://open.spotify.com/track/7A3CwgewrTkQI1yvKzv5Ie) | [Andrei Ursu](https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW) | [Ador](https://open.spotify.com/album/5gzYfapn3hqSKbFZAmRljC) | 3:09 |
 | 50 | [MAI PIÙ](https://open.spotify.com/track/7EQBu1WZmTq24SXIpUIpTn) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq), [Longo](https://open.spotify.com/artist/6myydsPHqq4xmZD7DWzRjI) | [MAI PIÙ](https://open.spotify.com/album/2b3n7jKsXTfEkREiKejVWJ) | 2:52 |
 
-Snapshot ID: `AAAAACwbie6e3J5Y6y1tWQQF1cAY9XvV`
+Snapshot ID: `AAAAALubjUdl5u9eawSFnGTBrPflSjQL`

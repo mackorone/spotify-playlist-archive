@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCIleLirYKm.md) - [plain]
 
 > a state of mind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,493 likes - 101 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,593 likes - 101 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Highwayman](https://open.spotify.com/track/7jWbXvrgdbkajU8L28ahn5) | [The Highwaymen](https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Highwayman](https://open.spotify.com/album/6rFM5jHaGzwut3hGbG9pGU) | 3:02 |
-| 2 | [Sunday Mornin' Comin' Down](https://open.spotify.com/track/4JwFrnLLSO4qqxOeHQATf4) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Kristofferson](https://open.spotify.com/album/4HN8SWymMSOxquR6wY2vke) | 4:30 |
+| 2 | [Sunday Mornin' Comin' Down](https://open.spotify.com/track/4JwFrnLLSO4qqxOeHQATf4) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Kristofferson](https://open.spotify.com/album/4HN8SWymMSOxquR6wY2vke) | 4:35 |
 | 3 | [I'm a Ramblin' Man](https://open.spotify.com/track/24uwABPWPejBuvFL4tMkvD) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM) | [The Ramblin' Man](https://open.spotify.com/album/353z5yWoQlug84akazanpg) | 2:47 |
 | 4 | [What Else Is New](https://open.spotify.com/track/7uAWex7T9i7ZXghCh4rltO) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Adobe Sessions Unplugged](https://open.spotify.com/album/68r61PTSnBOHcNhVXT9mH5) | 2:50 |
 | 5 | [Hurtin' \(On the Bottle\)](https://open.spotify.com/track/161ih87Mf1Jsx6E6WgVPDu) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Midwest Farmer's Daughter](https://open.spotify.com/album/55byaTflUCrOReQQukpctP) | 4:12 |
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCIleLirYKm.md) - [plain]
 | 30 | [Mama Tried \- Remastered 2001](https://open.spotify.com/track/1FTlLpP6V05yJWmcIg0rlK) | [Merle Haggard & The Strangers](https://open.spotify.com/artist/3mSAqBoXQgdlpwzWsIgBzL) | [Mama Tried](https://open.spotify.com/album/0f6Gx3lFLqdcY8XSXMKgCm) | 2:12 |
 | 31 | [The Rock and the Hill](https://open.spotify.com/track/1J3vn9vwq2pyC9iYlEUFEH) | [Allison Moorer](https://open.spotify.com/artist/1Fp2fNrv2udkdpOqFWn8IY) | [Blood](https://open.spotify.com/album/1wBCGpLEYgfDPG3mm7kH72) | 3:39 |
 | 32 | [Snake Farm](https://open.spotify.com/track/2vULyRIRIZH8dnw7lyXAcR) | [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0) | [Snake Farm](https://open.spotify.com/album/50TtZo1OeEN6eecHoCWTFV) | 3:53 |
-| 33 | [Help Me Make It Through the Night](https://open.spotify.com/track/2KU944ARlycn1xv8W4I3Oe) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Kristofferson](https://open.spotify.com/album/4HN8SWymMSOxquR6wY2vke) | 2:21 |
+| 33 | [Help Me Make It Through the Night](https://open.spotify.com/track/2KU944ARlycn1xv8W4I3Oe) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Kristofferson](https://open.spotify.com/album/4HN8SWymMSOxquR6wY2vke) | 2:27 |
 | 34 | [We Ride](https://open.spotify.com/track/4ua94LvtGZlGsZVlvMJCUS) | [Bryan Martin](https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U) | [We Ride](https://open.spotify.com/album/4E1qrH1o4eKRu8S6JVAnn3) | 3:08 |
 | 35 | [Good Hearted Woman](https://open.spotify.com/track/4KmAGKJbeY2DUiLInlet53) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM) | [Good Hearted Woman](https://open.spotify.com/album/13fXjHXIcgjroGQ4vsUfbv) | 3:01 |
 | 36 | [Between Jennings And Jones](https://open.spotify.com/track/2Jq2KzxOvLrlH16hlcnm7d) | [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [That Lonesome Song](https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i) | 4:11 |
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCIleLirYKm.md) - [plain]
 | 69 | [That Lonesome Song](https://open.spotify.com/track/3R8YbAsBsFnGIKL25s6iiO) | [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [That Lonesome Song](https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i) | 4:01 |
 | 70 | [The Devil Wears a Suit and Tie](https://open.spotify.com/track/7hlA8gMMz6jSp91Twsnuv3) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Imaginary Appalachia](https://open.spotify.com/album/1widYgH6RNVOxnLOiVeihU) | 3:56 |
 | 71 | [Why You Been Gone so Long](https://open.spotify.com/track/33HkPcuNKgnPT81H9pO9SL) | [Jessi Colter](https://open.spotify.com/artist/43HpW8B5gYRnYbSzm37n5v) | [A Country Star Is Born](https://open.spotify.com/album/1u2ETFYboqz0DjqFZrZyae) | 3:05 |
-| 72 | [Are You Sure Hank Done It This Way](https://open.spotify.com/track/5Z0Khiz8xgC8AYMr4ctS8Y) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM) | [Dreaming My Dreams](https://open.spotify.com/album/2iZvfv5wU8DxGm2o2O1dis) | 2:54 |
+| 72 | [Are You Sure Hank Done It This Way](https://open.spotify.com/track/5Z0Khiz8xgC8AYMr4ctS8Y) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM) | [Dreaming My Dreams](https://open.spotify.com/album/2iZvfv5wU8DxGm2o2O1dis) | 2:58 |
 | 73 | [Devil Always Made Me Think Twice](https://open.spotify.com/track/3olGkpomYOWwRZsbFTZqiX) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW) | 3:51 |
 | 74 | [Can't Let Go](https://open.spotify.com/track/0kyM6MaS573Gt9Yna1rsqd) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Car Wheels On A Gravel Road](https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig) | 3:28 |
 | 75 | [Feelin' Good Again](https://open.spotify.com/track/4NpYrBb5iuDqW1S5qrU3b6) | [Robert Earl Keen](https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP) | [Walking Distance](https://open.spotify.com/album/0n7FDhF0uwZ7hKpEyH9Ycq) | 3:16 |

@@ -1,6 +1,6 @@
 {
   "description": "Enter a world of stunning melodies and absolutely enormous hammers; this is the music of Mahler.",
-  "num_followers": 56899,
+  "num_followers": 56908,
   "original_name": "This Is Mahler",
   "owner": {
     "name": "Spotify",
@@ -1059,34 +1059,6 @@
     {
       "added_at": "2025-09-15 14:00:15",
       "album": {
-        "name": "Mahler: Das Lied von der Erde",
-        "url": "https://open.spotify.com/album/4PLnFO9I99tGcWuuxWCnkp"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Kent Nagano",
-          "url": "https://open.spotify.com/artist/3JzgNB1Kzlc17zuSzrC51x"
-        },
-        {
-          "name": "Christian Gerhaher",
-          "url": "https://open.spotify.com/artist/0reEj3pa0lTG2gOkj9BoPb"
-        },
-        {
-          "name": "Orchestre Symphonique de Montr\u00e9al",
-          "url": "https://open.spotify.com/artist/4AcXapei4U7xnWecv9AEBd"
-        }
-      ],
-      "duration_ms": 408000,
-      "name": "Das Lied von der Erde: IV. Von der Sch\u00f6nheit",
-      "url": "https://open.spotify.com/track/3qI4JIuhtF3gsbuQQgzyKa"
-    },
-    {
-      "added_at": "2025-09-15 14:00:15",
-      "album": {
         "name": "Boulez - Mahler",
         "url": "https://open.spotify.com/album/6reobqFtAW1qGIwfiaDVWO"
       },
@@ -1111,6 +1083,34 @@
       "duration_ms": 172906,
       "name": "Des Knaben Wunderhorn: Trost im Ungl\u00fcck - Live at Severance Hall, Cleveland, 2010",
       "url": "https://open.spotify.com/track/77qkhDGTbXhG2OR9DJ5tIQ"
+    },
+    {
+      "added_at": "2025-09-15 14:00:15",
+      "album": {
+        "name": "Mahler: Das Lied von der Erde",
+        "url": "https://open.spotify.com/album/4PLnFO9I99tGcWuuxWCnkp"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Kent Nagano",
+          "url": "https://open.spotify.com/artist/3JzgNB1Kzlc17zuSzrC51x"
+        },
+        {
+          "name": "Christian Gerhaher",
+          "url": "https://open.spotify.com/artist/0reEj3pa0lTG2gOkj9BoPb"
+        },
+        {
+          "name": "Orchestre Symphonique de Montr\u00e9al",
+          "url": "https://open.spotify.com/artist/4AcXapei4U7xnWecv9AEBd"
+        }
+      ],
+      "duration_ms": 408000,
+      "name": "Das Lied von der Erde: IV. Von der Sch\u00f6nheit",
+      "url": "https://open.spotify.com/track/3qI4JIuhtF3gsbuQQgzyKa"
     },
     {
       "added_at": "2025-09-15 14:00:15",
@@ -1171,30 +1171,6 @@
     {
       "added_at": "2025-09-15 14:00:15",
       "album": {
-        "name": "Mahler: Symphony No.10",
-        "url": "https://open.spotify.com/album/4jiU4En8NZgwPX3aIZjRsB"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Wiener Philharmoniker",
-          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
-        },
-        {
-          "name": "Daniel Harding",
-          "url": "https://open.spotify.com/artist/3sjupE75AphhTX12fgkQv6"
-        }
-      ],
-      "duration_ms": 240586,
-      "name": "Symphony No. 10 in F sharp (unfinished) - Ed. Deryck Cooke: 3. Purgatorio",
-      "url": "https://open.spotify.com/track/10QeQRM2VBCUETSVu2rSEz"
-    },
-    {
-      "added_at": "2025-09-15 14:00:15",
-      "album": {
         "name": "Mahler: Das Lied von der Erde",
         "url": "https://open.spotify.com/album/4PLnFO9I99tGcWuuxWCnkp"
       },
@@ -1219,6 +1195,30 @@
       "duration_ms": 250986,
       "name": "Das Lied von der Erde: V. Der Trunkene im Fr\u00fchling",
       "url": "https://open.spotify.com/track/6edUx0kf2GViMiIRu8wAKQ"
+    },
+    {
+      "added_at": "2025-09-15 14:00:15",
+      "album": {
+        "name": "Mahler: Symphony No.10",
+        "url": "https://open.spotify.com/album/4jiU4En8NZgwPX3aIZjRsB"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Daniel Harding",
+          "url": "https://open.spotify.com/artist/3sjupE75AphhTX12fgkQv6"
+        }
+      ],
+      "duration_ms": 240586,
+      "name": "Symphony No. 10 in F sharp (unfinished) - Ed. Deryck Cooke: 3. Purgatorio",
+      "url": "https://open.spotify.com/track/10QeQRM2VBCUETSVu2rSEz"
     },
     {
       "added_at": "2025-09-15 14:00:15",

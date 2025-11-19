@@ -1,6 +1,6 @@
 {
   "description": "Pumping tracks for pumping iron!",
-  "num_followers": 7888951,
+  "num_followers": 7888947,
   "original_name": "Gym Hits",
   "owner": {
     "name": "Spotify",
@@ -1271,6 +1271,26 @@
     {
       "added_at": "2025-11-06 23:00:32",
       "album": {
+        "name": "Feeling Good",
+        "url": "https://open.spotify.com/album/5YnyS9JNsqhkaBPIWOYtXk"
+      },
+      "artists": [
+        {
+          "name": "Hypaton",
+          "url": "https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 203307,
+      "name": "Feeling Good",
+      "url": "https://open.spotify.com/track/2rtkijCiF44Uy4EqBhOsQP"
+    },
+    {
+      "added_at": "2025-11-06 23:00:32",
+      "album": {
         "name": "Turn On The Lights again.. (feat. Future & Fred again..) [Remixes]",
         "url": "https://open.spotify.com/album/71yJ0XH2iQA1uOk5CE95fx"
       },
@@ -1295,26 +1315,6 @@
       "duration_ms": 253433,
       "name": "Turn On The Lights again.. (feat. Future & Fred again..) - Anyma Remix",
       "url": "https://open.spotify.com/track/4ptnQ0kQnN1U1Ig8TSslj6"
-    },
-    {
-      "added_at": "2025-11-06 23:00:32",
-      "album": {
-        "name": "Feeling Good",
-        "url": "https://open.spotify.com/album/5YnyS9JNsqhkaBPIWOYtXk"
-      },
-      "artists": [
-        {
-          "name": "Hypaton",
-          "url": "https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 203307,
-      "name": "Feeling Good",
-      "url": "https://open.spotify.com/track/2rtkijCiF44Uy4EqBhOsQP"
     },
     {
       "added_at": "2025-11-06 23:00:32",
@@ -1675,30 +1675,26 @@
     {
       "added_at": "2025-11-06 23:00:32",
       "album": {
-        "name": "I Don't Wanna Wait (Hardwell & Olly James Remix)",
-        "url": "https://open.spotify.com/album/2Y4Tm0KdcUWNnPpphhhGZ4"
+        "name": "palm of my hands (Odd Mob Remix)",
+        "url": "https://open.spotify.com/album/4wAyp0F1m8WNDb7SsuQarq"
       },
       "artists": [
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
         },
         {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
         },
         {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        },
-        {
-          "name": "Olly James",
-          "url": "https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC"
+          "name": "venbee",
+          "url": "https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1"
         }
       ],
-      "duration_ms": 183200,
-      "name": "I Don't Wanna Wait - Hardwell & Olly James Remix",
-      "url": "https://open.spotify.com/track/0GOXlShsWOp7BQ7nt9uwUL"
+      "duration_ms": 203636,
+      "name": "palm of my hands - Odd Mob Remix",
+      "url": "https://open.spotify.com/track/2vxsdAnntt6eGZJJRaLBF6"
     }
   ],
   "unique_name": "Gym Hits",

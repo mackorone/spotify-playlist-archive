@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FZ0gGkvIRf.md) - [plain]
 
 ### [Kickass Metal presents Best Heavy Songs of 2024](https://open.spotify.com/playlist/37i9dQZF1DX5FZ0gGkvIRf)
 
-> Our editors' picks for best metal and hard rock songs of the year\.  Cover: Poppy
+> Our editors' picks for best metal and hard rock songs of the year\.  Cover: Knocked Loose
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,023 likes - 75 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,031 likes - 75 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -289,6 +289,32 @@
     },
     {
       "album": {
+        "name": "1234",
+        "url": "https://open.spotify.com/album/6jROIBlCdYZV17MKExwGTa"
+      },
+      "artists": [
+        {
+          "name": "cero",
+          "url": "https://open.spotify.com/artist/2YW2jsqJMVaxPgeETV2Ttl"
+        },
+        {
+          "name": "nano4rf",
+          "url": "https://open.spotify.com/artist/3RfJicZbXOPuGbvLaPVv0G"
+        },
+        {
+          "name": "zillatt",
+          "url": "https://open.spotify.com/artist/16hrISHG1WNTiO5oNbpKCr"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96766,
+      "name": "1234",
+      "url": "https://open.spotify.com/track/0ytpvcVgi0tmd6Orn1X8y3"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51"
       },
@@ -680,6 +706,36 @@
       "duration_ms": 175280,
       "name": "444",
       "url": "https://open.spotify.com/track/1o4xkdBe0RjSf2u6VXi4OI"
+    },
+    {
+      "album": {
+        "name": "444 (Remix)",
+        "url": "https://open.spotify.com/album/3mVZl9O0ungJP8CG7iPKTD"
+      },
+      "artists": [
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        },
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        },
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299325,
+      "name": "444 - Remix",
+      "url": "https://open.spotify.com/track/5AK6QqM8aUXXTk6oY00ZRh"
     },
     {
       "album": {
@@ -4592,7 +4648,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 231235,
       "name": "Borraxxa - Acoustic",
       "url": "https://open.spotify.com/track/0K9FPyhkC39A41B3dmRPM5"
@@ -6414,6 +6470,24 @@
       "duration_ms": 154455,
       "name": "cifra de seguidos",
       "url": "https://open.spotify.com/track/1nxvx2oWW5NnDvhLiPletw"
+    },
+    {
+      "album": {
+        "name": "Definitely Maybe (Remastered)",
+        "url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289146,
+      "name": "Cigarettes & Alcohol - Remastered",
+      "url": "https://open.spotify.com/track/2wKeVnM8OBoGjGm8Qvqhi5"
     },
     {
       "album": {
@@ -9197,6 +9271,24 @@
     },
     {
       "album": {
+        "name": "Time Flies... 1994-2009 (Remastered)",
+        "url": "https://open.spotify.com/album/6nznHVahdEzZ7Qwv9TrOW4"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290640,
+      "name": "Don't Look Back in Anger - Remastered",
+      "url": "https://open.spotify.com/track/1gYNo6sCys1dJEIFcgqlYr"
+    },
+    {
+      "album": {
         "name": "Vertigo",
         "url": "https://open.spotify.com/album/7qbKTfezFBs265qBgpGleg"
       },
@@ -9344,7 +9436,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 195096,
       "name": "Down",
       "url": "https://open.spotify.com/track/5b5xh1omN5tSrIfmTckmIU"
@@ -10328,6 +10420,24 @@
       "duration_ms": 242493,
       "name": "El Poder Nuestro Es",
       "url": "https://open.spotify.com/track/2wZJFeW0H1WnokB2V0gMhm"
+    },
+    {
+      "album": {
+        "name": "El Regreso",
+        "url": "https://open.spotify.com/album/13P9Qaty5SUmKgpSvpbOYt"
+      },
+      "artists": [
+        {
+          "name": "Tan Bionica",
+          "url": "https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220240,
+      "name": "El Problema Del Amor",
+      "url": "https://open.spotify.com/track/0qDqdzfkWlI3GxTOKyeV1E"
     },
     {
       "album": {
@@ -12422,7 +12532,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 173453,
       "name": "FAVORITA",
       "url": "https://open.spotify.com/track/6EhX9FjpQZ5CohoGeqUM2u"
@@ -12604,7 +12714,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 250162,
       "name": "Femme Fatale",
       "url": "https://open.spotify.com/track/2T5ELHiRW8pGcWyJaurFgJ"
@@ -13566,7 +13676,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 233653,
       "name": "Gil",
       "url": "https://open.spotify.com/track/5jgmQkVypORb3enASCxjYs"
@@ -14359,6 +14469,24 @@
     },
     {
       "album": {
+        "name": "hasta que vuelvas a abrazarme",
+        "url": "https://open.spotify.com/album/5yspp6x3KkWkJAbxWuk0Ww"
+      },
+      "artists": [
+        {
+          "name": "Nat\u00e1n",
+          "url": "https://open.spotify.com/artist/0E9SrOvn3lOYk15neJW2Lb"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176750,
+      "name": "hasta que vuelvas a abrazarme",
+      "url": "https://open.spotify.com/track/0omqaRQcwFxKhCLTS2Bp70"
+    },
+    {
+      "album": {
         "name": "Speak Now (Deluxe Package)",
         "url": "https://open.spotify.com/album/6S6JQWzUrJVcJLK4fi74Fw"
       },
@@ -14884,10 +15012,28 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 201360,
       "name": "Hello",
       "url": "https://open.spotify.com/track/24R3iAektcSdG97d8aXvxS"
+    },
+    {
+      "album": {
+        "name": "(What's The Story) Morning Glory? [Remastered]",
+        "url": "https://open.spotify.com/album/1VW1MFNstaJuygaoTPkdCk"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203186,
+      "name": "Hello - Remastered",
+      "url": "https://open.spotify.com/track/2LmwUKeGCJZUKHKwOrX3Xb"
     },
     {
       "album": {
@@ -16561,6 +16707,28 @@
     },
     {
       "album": {
+        "name": "JOJO",
+        "url": "https://open.spotify.com/album/4MvXN88TgxRdH88qadBEG8"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "XROSS",
+          "url": "https://open.spotify.com/artist/1sV3HHU1TBH5owKu0WLHf7"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130876,
+      "name": "JOJO",
+      "url": "https://open.spotify.com/track/4Ldo3ZQCK6KpTHm1wsbWOg"
+    },
+    {
+      "album": {
         "name": "JOYRIDE",
         "url": "https://open.spotify.com/album/145ynqxpTLjXrU5qvER4ea"
       },
@@ -17048,7 +17216,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 103095,
       "name": "LA DESPEDIDA DE FREED",
       "url": "https://open.spotify.com/track/4iM5RtPKbDB6ikeFjHZMR3"
@@ -19408,7 +19576,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 186680,
       "name": "Luci\u00e9rnagas",
       "url": "https://open.spotify.com/track/2YaOGEaBCoISE521kunnyK"
@@ -21139,6 +21307,24 @@
     },
     {
       "album": {
+        "name": "MI CHINA",
+        "url": "https://open.spotify.com/album/76KgqITGU3xYIYgJurvDWM"
+      },
+      "artists": [
+        {
+          "name": "TOBIKA",
+          "url": "https://open.spotify.com/artist/2aJA34lnMLsr3deynZN9I5"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127200,
+      "name": "MI CHINA",
+      "url": "https://open.spotify.com/track/357YDywBW0HNOLsA7ymDIM"
+    },
+    {
+      "album": {
         "name": "Mi Coraz\u00f3n",
         "url": "https://open.spotify.com/album/5e8zaDNGYEs72yRCuPrr4w"
       },
@@ -21668,7 +21854,7 @@
       ],
       "date_added": "2025-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 140560,
       "name": "Mimosa 2000",
       "url": "https://open.spotify.com/track/79bWkyd08EFDO0ZZuu7IRT"
@@ -22452,7 +22638,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 304293,
       "name": "Morning Glory",
       "url": "https://open.spotify.com/track/5uhKHittCEU69xbCNzfTR9"
@@ -22470,7 +22656,7 @@
       ],
       "date_added": "2025-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-18",
+      "date_removed": null,
       "duration_ms": 303320,
       "name": "Morning Glory - Remastered",
       "url": "https://open.spotify.com/track/0awZMpokrVSdvtYe1MdcWM"
@@ -22842,7 +23028,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 135659,
       "name": "MUEVELOU",
       "url": "https://open.spotify.com/track/27gcAFVOnixwd1Kd7q428C"
@@ -24023,6 +24209,32 @@
     },
     {
       "album": {
+        "name": "No Me Lastimes",
+        "url": "https://open.spotify.com/album/4RT87aECG9RK3iYcctcNcR"
+      },
+      "artists": [
+        {
+          "name": "Marcela Morelo",
+          "url": "https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9"
+        },
+        {
+          "name": "La Delio Valdez",
+          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
+        },
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191026,
+      "name": "No Me Lastimes",
+      "url": "https://open.spotify.com/track/23VI7jLGvqDp650fXdoYeY"
+    },
+    {
+      "album": {
         "name": "no me mires as\u00ed",
         "url": "https://open.spotify.com/album/5pSoAsZRO5zgZXQGsQ7tSo"
       },
@@ -24988,6 +25200,32 @@
       "duration_ms": 144000,
       "name": "O Melhor no Que Faz 3.0 [Slowed]",
       "url": "https://open.spotify.com/track/1H5PVxswRh4KpLoW5o78VJ"
+    },
+    {
+      "album": {
+        "name": "Obra de arte",
+        "url": "https://open.spotify.com/album/7zawGMKxcSFxfCqCC78t69"
+      },
+      "artists": [
+        {
+          "name": "Lauta",
+          "url": "https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci"
+        },
+        {
+          "name": "Migrantes",
+          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
+        },
+        {
+          "name": "Nico Valdi",
+          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145709,
+      "name": "Obra de Arte",
+      "url": "https://open.spotify.com/track/6R16BTwpTs53y3RIwTx4Gv"
     },
     {
       "album": {
@@ -26848,7 +27086,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 130384,
       "name": "PERREO TH 7",
       "url": "https://open.spotify.com/track/1xVC7ab21v6dK03j0f9bgU"
@@ -27903,6 +28141,28 @@
     },
     {
       "album": {
+        "name": "PUTER\u00cd4",
+        "url": "https://open.spotify.com/album/1lkzZ6bQyw3lWsviJs8HAD"
+      },
+      "artists": [
+        {
+          "name": "DobleP",
+          "url": "https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036"
+        },
+        {
+          "name": "Peipper",
+          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144468,
+      "name": "PUTER\u00cd4",
+      "url": "https://open.spotify.com/track/1IgrATr9zMmRjtFVFY6O7s"
+    },
+    {
+      "album": {
         "name": "PRIMERA MUSA",
         "url": "https://open.spotify.com/album/3C5uwdRE5QRoXSGPPxpDd4"
       },
@@ -28279,6 +28539,54 @@
     },
     {
       "album": {
+        "name": "Quickie Preshow (Flotando En Un R\u00edo)",
+        "url": "https://open.spotify.com/album/51ukw9iZp6ArHKtrVIdzOY"
+      },
+      "artists": [
+        {
+          "name": "Tussiwarriors",
+          "url": "https://open.spotify.com/artist/4iVXdkoTNazv6MQh1wojj0"
+        },
+        {
+          "name": "Awesome Pierre",
+          "url": "https://open.spotify.com/artist/7FWtti4FgQOvxvoB2Ycmmh"
+        },
+        {
+          "name": "Mortedor",
+          "url": "https://open.spotify.com/artist/3lrFHcazkKKqyy5WlN0fqf"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135146,
+      "name": "Quickie Preshow (Flotando En Un R\u00edo)",
+      "url": "https://open.spotify.com/track/4OalexVifwyKk3kqSUyaPT"
+    },
+    {
+      "album": {
+        "name": "BACKSTAGE COVER VOL. 1",
+        "url": "https://open.spotify.com/album/2loqWNVvSbY09nN5x63DzU"
+      },
+      "artists": [
+        {
+          "name": "ARA",
+          "url": "https://open.spotify.com/artist/5wkxQh0fD5bsqxKm6Ajv7o"
+        },
+        {
+          "name": "Oney1",
+          "url": "https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125711,
+      "name": "QUIERO AMARTE",
+      "url": "https://open.spotify.com/track/09l76TiKhPfZTLhkLxFeFM"
+    },
+    {
+      "album": {
         "name": "Insomnio",
         "url": "https://open.spotify.com/album/2zwuaAuKxwrYX0MXSJQQmB"
       },
@@ -28294,7 +28602,7 @@
       ],
       "date_added": "2025-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 222348,
       "name": "Quiero Decirte",
       "url": "https://open.spotify.com/track/4Oc1qHsjM4kM0AARvlwSs3"
@@ -28330,7 +28638,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 103718,
       "name": "quitate los Jeans",
       "url": "https://open.spotify.com/track/3x6gtoIxAcKd8HNYxxN85n"
@@ -30292,7 +30600,7 @@
       ],
       "date_added": "2025-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 128624,
       "name": "Session Guaratech #1 Kid Wazi",
       "url": "https://open.spotify.com/track/5tpAZ8fZGlFTFBZ4cUuzGB"
@@ -30596,6 +30904,28 @@
       "duration_ms": 158480,
       "name": "Shiny",
       "url": "https://open.spotify.com/track/72aGCwuSwD5Qb3tHvXBoX3"
+    },
+    {
+      "album": {
+        "name": "Shiny / Todo Ke Ver / Falsas Promesas",
+        "url": "https://open.spotify.com/album/2aCNrAtllOd7XkExhMuVz4"
+      },
+      "artists": [
+        {
+          "name": "Tiago Usandivaras",
+          "url": "https://open.spotify.com/artist/2VxsKDSbdkHuO52GPnOsgW"
+        },
+        {
+          "name": "Esepe",
+          "url": "https://open.spotify.com/artist/0yexVnuH9R3yJhyP17XRIP"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193326,
+      "name": "Shiny / Todo Ke Ver / Falsas Promesas",
+      "url": "https://open.spotify.com/track/3kLWo1PpTwXfTKyVNBsDWG"
     },
     {
       "album": {
@@ -31102,7 +31432,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 392733,
       "name": "Slide Away",
       "url": "https://open.spotify.com/track/2iDM76B3zHr6khKkiX4vUr"
@@ -31120,9 +31450,9 @@
       ],
       "date_added": "2024-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-05",
+      "date_removed": null,
       "duration_ms": 392306,
-      "name": "Slide Away - 2014 Remaster",
+      "name": "Slide Away - Remastered",
       "url": "https://open.spotify.com/track/62L8HlrCQLvBHKfpu8iqLa"
     },
     {
@@ -32682,7 +33012,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 252071,
       "name": "Suena en la Previa, Vol. 2",
       "url": "https://open.spotify.com/track/0LswOwsXAfPYLGVwqRlNyW"
@@ -32878,6 +33208,32 @@
       "duration_ms": 144272,
       "name": "Superpoder",
       "url": "https://open.spotify.com/track/5sMTYHv3AW1aPQGglAEYnL"
+    },
+    {
+      "album": {
+        "name": "supersexi",
+        "url": "https://open.spotify.com/album/7Cgt2NuDUMwCWcSuKONwHI"
+      },
+      "artists": [
+        {
+          "name": "ZECCA",
+          "url": "https://open.spotify.com/artist/2Yia9CwtgcrsN5kVOQ0qRA"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "Bb trickz",
+          "url": "https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186293,
+      "name": "supersexi",
+      "url": "https://open.spotify.com/track/5MPHZfPu9hsXDPEqGjUgec"
     },
     {
       "album": {
@@ -33100,7 +33456,7 @@
       ],
       "date_added": "2025-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 120682,
       "name": "t2o",
       "url": "https://open.spotify.com/track/5nZkXncB4NjeUrNP2EN94L"
@@ -33676,7 +34032,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 140087,
       "name": "Te Lo Doy - Remix",
       "url": "https://open.spotify.com/track/7cRSsZ2iM0AtWSPPYu1LZy"
@@ -35082,7 +35438,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 172142,
       "name": "TOP 1 CHARTS (MEGA BAIT)",
       "url": "https://open.spotify.com/track/33zvMSZub4Oj7JSCrIUU0P"
@@ -35286,6 +35642,24 @@
       "duration_ms": 166800,
       "name": "tranqui, te puedes enamorar",
       "url": "https://open.spotify.com/track/5L7Cj7HFf7YcCb9GU1ySDt"
+    },
+    {
+      "album": {
+        "name": "TRANQUILO (Afro House)",
+        "url": "https://open.spotify.com/album/1bjA38oK7bPw7D5PmaHaXh"
+      },
+      "artists": [
+        {
+          "name": "tomy keller",
+          "url": "https://open.spotify.com/artist/7opBmr0dD8ITUnVj95rwJB"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125366,
+      "name": "TRANQUILO (Afro House)",
+      "url": "https://open.spotify.com/track/3m9SDtImo4BiRt6ZmDoONN"
     },
     {
       "album": {
@@ -38403,6 +38777,24 @@
     },
     {
       "album": {
+        "name": "Time Flies... 1994-2009 (Remastered)",
+        "url": "https://open.spotify.com/album/6nznHVahdEzZ7Qwv9TrOW4"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261933,
+      "name": "Wonderwall - Remastered",
+      "url": "https://open.spotify.com/track/0A6sqSxlqml1wjQLjuM4BH"
+    },
+    {
+      "album": {
         "name": "WTF 2",
         "url": "https://open.spotify.com/album/7ebZRkmaweJp2FKLP5NoFt"
       },
@@ -38939,6 +39331,24 @@
     },
     {
       "album": {
+        "name": "YO RAPERO, ELLA DELANTERA",
+        "url": "https://open.spotify.com/album/6TiSstrF1Jb7TsTaij9obw"
+      },
+      "artists": [
+        {
+          "name": "LoLo",
+          "url": "https://open.spotify.com/artist/04gHmjV4hmiIrT3PHXlTbZ"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156466,
+      "name": "YO RAPERO, ELLA DELANTERA",
+      "url": "https://open.spotify.com/track/2xCaLZGrp9BcgvFoMkpNmQ"
+    },
+    {
+      "album": {
         "name": "3 A.M.",
         "url": "https://open.spotify.com/album/6HS9TsSBYFKwALTeRPvcdI"
       },
@@ -39032,7 +39442,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 375381,
       "name": "YOGURCITO REMIX (feat. Kris R., ROA)",
       "url": "https://open.spotify.com/track/7nrd0eIftH3NQLfgk20Qp9"

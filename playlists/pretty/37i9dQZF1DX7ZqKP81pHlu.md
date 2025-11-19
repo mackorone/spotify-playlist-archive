@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZqKP81pHlu.md) - [plain]
 
 > Les hits du moment en Algérie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,558 likes - 51 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,590 likes - 51 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZqKP81pHlu.md) - [plain]
 | 50 | [Chwiya Wa9t W Nensak](https://open.spotify.com/track/2WLCFfLNLXJQAIWPAnSbHg) | [Sofiane Asla](https://open.spotify.com/artist/2ywplm7qGli4HsGE3SNS8A) | [Chwiya Wa9t W Nensak](https://open.spotify.com/album/26XCHwaPPubRHzdU9JPdGR) | 5:37 |
 | 51 | [Mélanine](https://open.spotify.com/track/0t7d6wbJLS2A31yqlHFew7) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [LVDR](https://open.spotify.com/album/5RVH7GP0pwyS3KMnRurfj1) | 3:01 |
 
-Snapshot ID: `AAAAAMfHR9FYWrVKzaTjWFK2f/C5Knxb`
+Snapshot ID: `AAAAAOSk1gMM2/2iHmCBvlxw0Ay3z5no`

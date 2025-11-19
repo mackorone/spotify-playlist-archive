@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EB6q4.md) - [plain]
 
 > This is Nanpa Básico\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,634 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,695 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,10 +43,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EB6q4.md) - [plain]
 | 33 | [Peor Que La Policía \(feat\. PMP\)](https://open.spotify.com/track/75ujpDovO206MUKRNHSRP6) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Lia Kali](https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89), [GARABATTO](https://open.spotify.com/artist/6JaOGIlSvYswVLPmGUheOO), [PMP](https://open.spotify.com/artist/5ZCfjramRRGj3D72drnyxK) | [Duelo](https://open.spotify.com/album/5lyKUk7jLN0Tue0ThuW9kl) | 3:19 |
 | 34 | [Me Gustas Más Que Salir a Fumar](https://open.spotify.com/track/4YboPBRofQXESDyYLZZOSM) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Me Gustas Más Que Salir a Fumar](https://open.spotify.com/album/7B09xwvImN3XxIC7Dk5bOL) | 3:23 |
 | 35 | [TRAGO \#1 LOLOLO](https://open.spotify.com/track/4hwdIStMgDWTkFBoNSwlM8) | [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Altafulla](https://open.spotify.com/artist/0Tr6PMUYJ3MupljA0MS4Dy), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [TRAGO \#1 LOLOLO](https://open.spotify.com/album/1ASpVS2RnpVQ3PdBh2rhd8) | 3:05 |
-| 36 | [Verte Cerquita](https://open.spotify.com/track/2Nuvc1lSGW3wRDhngRJ3S6) | [Movimiento Original](https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Aerstame](https://open.spotify.com/artist/4L5QHhmkOdVWH91Kz0uLPg), [Stailok](https://open.spotify.com/artist/3raEZI89hszEBTTvb5wLsi) | [Sobre el Aire](https://open.spotify.com/album/4QXjXW4J6E9KPimmQCnz3T) | 3:52 |
-| 37 | [No Pienses Que Me Fui](https://open.spotify.com/track/7u4hKefShl1DZuCrigTXiM) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [No Pienses Que Me Fui](https://open.spotify.com/album/62vCdSR0XvlCjbz0ApdhxG) | 2:30 |
+| 36 | [La Luna Me Dijo](https://open.spotify.com/track/356yogopiw8SyrRO6aXilZ) | [Soley](https://open.spotify.com/artist/1zo2ucFhzu58hKcniMpSQs), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [La Luna Me Dijo](https://open.spotify.com/album/513fTyVwVc64UWDYAAUY0r) | 2:37 |
+| 37 | [Verte Cerquita](https://open.spotify.com/track/2Nuvc1lSGW3wRDhngRJ3S6) | [Movimiento Original](https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Aerstame](https://open.spotify.com/artist/4L5QHhmkOdVWH91Kz0uLPg), [Stailok](https://open.spotify.com/artist/3raEZI89hszEBTTvb5wLsi) | [Sobre el Aire](https://open.spotify.com/album/4QXjXW4J6E9KPimmQCnz3T) | 3:52 |
 | 38 | [Te Hice Llorar](https://open.spotify.com/track/0iqkjwsF783Lw0OGTnIssP) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [HECHO M13RD4](https://open.spotify.com/album/6sJJd1j1ekg8p8grveeydi) | 3:34 |
-| 39 | [La Luna Me Dijo](https://open.spotify.com/track/356yogopiw8SyrRO6aXilZ) | [Soley](https://open.spotify.com/artist/1zo2ucFhzu58hKcniMpSQs), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [La Luna Me Dijo](https://open.spotify.com/album/513fTyVwVc64UWDYAAUY0r) | 2:37 |
+| 39 | [No Pienses Que Me Fui](https://open.spotify.com/track/7u4hKefShl1DZuCrigTXiM) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [No Pienses Que Me Fui](https://open.spotify.com/album/62vCdSR0XvlCjbz0ApdhxG) | 2:30 |
 | 40 | [Sólo Tú](https://open.spotify.com/track/0OpaOJ0gYjhnSgdEaSxHqY) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc) | [Según Nosotros](https://open.spotify.com/album/2WVRIzfP6hreSpWyKxEeME) | 3:44 |
 | 41 | [Hace Tanto Tiempo](https://open.spotify.com/track/4gOkQHYJ1ImPzNQJORg1nD) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Sui Géneris](https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4) | 4:39 |
 | 42 | [Lejos de Ti](https://open.spotify.com/track/04sXYgNcb48fNO0prhFHpq) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [HECHO M13RD4](https://open.spotify.com/album/6sJJd1j1ekg8p8grveeydi) | 3:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EB6q4.md) - [plain]
 | 49 | [Mía](https://open.spotify.com/track/4DJglNblWD6tSBHIqe3Ymq) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Compilado, Vol\. 1](https://open.spotify.com/album/7fZDOnXpFSO6hUe0Ds9iAG) | 3:10 |
 | 50 | [Caballero](https://open.spotify.com/track/0uVVQdgUSUPNYXhcmwBOv4) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Duelo](https://open.spotify.com/album/5lyKUk7jLN0Tue0ThuW9kl) | 2:29 |
 
-Snapshot ID: `aRkUAAAAAAAvWhBYDNtxM+aU0T1DnD90`
+Snapshot ID: `aRplgAAAAAA7j1dodhsJ+bWO4a8goYRI`

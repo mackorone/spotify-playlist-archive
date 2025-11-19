@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > the deep & minimal side of house & tech ⛏️⛏️ <br/>with Chris Stussy
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,969 likes - 115 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,030 likes - 115 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

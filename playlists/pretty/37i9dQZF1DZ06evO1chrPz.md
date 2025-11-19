@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 
 > This is Bethel Music\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,408 likes - 50 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,409 likes - 50 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 | 39 | [Elohim \- Live From Church](https://open.spotify.com/track/7crAY5NVt4JB7oDEy7rEI6) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Aubree Archibeck](https://open.spotify.com/artist/604TmIQowwYB89ZXdgnc8t) | [Elohim \(Live\)](https://open.spotify.com/album/2tZSh33eyL3zDIbC73nVdJ) | 7:27 |
 | 40 | [Reckless Love](https://open.spotify.com/track/3UwwW9Ymz3xob5SxHx4uLO) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Peace](https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE) | 5:39 |
 | 41 | [We Praise You \(Live\)](https://open.spotify.com/track/3t8IxqbGlWeILQM6bPt5VU) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Revival's In The Air \(Live\)](https://open.spotify.com/album/4WkiqAKSiWoP4dMWP7ejt9) | 6:55 |
-| 42 | [Our Father](https://open.spotify.com/track/5WfHk1NXVs9AQRtfqzc8Wt) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [For the Sake of the World](https://open.spotify.com/album/6211HgvnEsZFSpCosSd52T) | 6:48 |
-| 43 | [Beauty](https://open.spotify.com/track/59vLGHrpzwcwyPbQBG0KZy) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [David Funk](https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc) | [Come Up Here](https://open.spotify.com/album/4d5y9lclXFqb4ADKfEnBDN) | 5:18 |
+| 42 | [Beauty](https://open.spotify.com/track/59vLGHrpzwcwyPbQBG0KZy) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [David Funk](https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc) | [Come Up Here](https://open.spotify.com/album/4d5y9lclXFqb4ADKfEnBDN) | 5:18 |
+| 43 | [Our Father](https://open.spotify.com/track/5WfHk1NXVs9AQRtfqzc8Wt) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [For the Sake of the World](https://open.spotify.com/album/6211HgvnEsZFSpCosSd52T) | 6:48 |
 | 44 | [My King Forever \(Live\)](https://open.spotify.com/track/77hZXcf7yhZ1Rny964UTgg) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [Homecoming \(Live\)](https://open.spotify.com/album/4RROYQpwPTYq9yJVWxYDxz) | 5:15 |
 | 45 | [Tend](https://open.spotify.com/track/4x6SymFX0lfohFb6rUk9dj) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Emmy Rose](https://open.spotify.com/artist/16f4gB92qCHbrYWixnzDGo) | [Simple](https://open.spotify.com/album/4vkHgRSat7jX2Egvy0zeys) | 4:53 |
 | 46 | [Even Though I Walk \- Live](https://open.spotify.com/track/4zAIwci5B82d59OhGOkJRl) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Hannah McClure](https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya) | [We Must Respond \(Live\)](https://open.spotify.com/album/4SkbfeWMHz58YzZQ5vThTH) | 7:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 | 49 | [I Want Jesus \- Live](https://open.spotify.com/track/4gkmrFMLBjL0ORrIMdh24Y) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [John Wilds](https://open.spotify.com/artist/7EtFuC5bUGDUyl6QLyYCvg) | [I Want Jesus \(Live\)](https://open.spotify.com/album/7IdEtizrVA9XlZRN8Pxed0) | 6:09 |
 | 50 | [Jesus Have It All \(Spontaneous\) \- Live](https://open.spotify.com/track/4t2nKUddnq1ST2Fi6dZdJy) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Edward Rivera](https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv) | [We Must Respond \(Live\)](https://open.spotify.com/album/4SkbfeWMHz58YzZQ5vThTH) | 8:07 |
 
-Snapshot ID: `aRkUAAAAAAAUz5YGzQ7a5pTY9RJuTjXq`
+Snapshot ID: `aRplgAAAAABWxt1WgIkRv46r9+WITvY3`

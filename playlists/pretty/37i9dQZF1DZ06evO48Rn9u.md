@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO48Rn9u.md) - [plain]
 
 > This is Kacey Musgraves\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,884 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,885 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO48Rn9u.md) - [plain]
 | 49 | [Lost Highway](https://open.spotify.com/track/7okG4aydS3Sb8xZvI3BvLH) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Lost Highway](https://open.spotify.com/album/75xRAiBzaIxASbYLy8EJdf) | 3:09 |
 | 50 | [Ruthless](https://open.spotify.com/track/6eFNtM0QMmRxi6VphwDS1E) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well: Deeper into the Well](https://open.spotify.com/album/1qkr1AJ7sc8IF2nLmjCBkZ) | 3:26 |
 
-Snapshot ID: `aRkUAAAAAAD1XXN7PuBzx0t3rrVaPEoK`
+Snapshot ID: `aRplgAAAAADC5ps8dD7a0/QZJMLAMqiQ`

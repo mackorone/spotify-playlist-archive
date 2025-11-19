@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ["Sprung On A Thug"](https://open.spotify.com/track/6GFnfBZhNrcCMnMjfZ3X6f) | [La La](https://open.spotify.com/artist/57KuZVjVTRT9zWYYGb1dxT) | ["Sprung On A Thug"](https://open.spotify.com/album/55zbebJPp7Cd9qn05W9Tez) | 3:20 | 2025-04-04 | 2025-06-07 |
-| [\#TETAS](https://open.spotify.com/track/2RAKwOzLiXA8AgA1pFIuFe) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf), [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [PAPOTA](https://open.spotify.com/album/1NDJk94691Vydq1IrIeGC0) | 2:29 | 2025-04-27 |  |
+| [\#TETAS](https://open.spotify.com/track/2RAKwOzLiXA8AgA1pFIuFe) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX) | [PAPOTA](https://open.spotify.com/album/1NDJk94691Vydq1IrIeGC0) | 2:29 | 2025-04-27 |  |
 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 | 2024-05-31 | 2025-03-07 |
 | [1865 \(96º In The Shade\)](https://open.spotify.com/track/2Jko3yQgktaKnFcmyLv3g7) | [Third World](https://open.spotify.com/artist/6qfKnsgz1CwyqA7lTdieRJ) | [96 Degrees In The Shade](https://open.spotify.com/album/3YoEPzjAMfRO18CVXs2evN) | 4:27 | 2025-05-02 |  |
 | [2002](https://open.spotify.com/track/2BgEsaKNfHUdlh97KmvFyo) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Speak Your Mind \(Deluxe\)](https://open.spotify.com/album/7lPoGKpCGgdKFAxpudhAH5) | 3:06 | 2024-05-31 | 2025-03-07 |

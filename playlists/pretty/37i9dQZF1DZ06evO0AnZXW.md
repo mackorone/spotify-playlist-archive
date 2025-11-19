@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AnZXW.md) - [plain]
 
 > This is XXXTENTACION\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,955,653 likes - 50 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,955,605 likes - 50 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AnZXW.md) - [plain]
 | 49 | [Take A Step Back](https://open.spotify.com/track/2gQYziDV5cSTRSqr6akzi5) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [You Will Regret \(Reloaded\)](https://open.spotify.com/album/2pTyjuQ1d1d79Chhknoa2h) | 3:30 |
 | 50 | [NEVER](https://open.spotify.com/track/5J4tp32gF3lWNk4RqvsjsO) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [LOOK AT ME: THE ALBUM](https://open.spotify.com/album/7vNqlfthayItIbI0Ssmfoa) | 3:40 |
 
-Snapshot ID: `aRkUAAAAAAAu9yOzX4cnB1+wAelfebgp`
+Snapshot ID: `aRplgAAAAAAHUuco/Zaw4NaRaBZ0biye`

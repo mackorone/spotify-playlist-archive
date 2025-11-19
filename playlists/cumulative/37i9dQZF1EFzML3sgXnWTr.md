@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2RXuZnFEt8P7rr9UUIsyZo">Alessandro La Cava</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-108 songs - 5 hr 31 min
+110 songs - 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Maranza](https://open.spotify.com/track/6Ybc2KTvfEiJeHSneaak7o) | [Il Pagante](https://open.spotify.com/artist/1vKXVGgIDP1XXZX4Tehjtn), [Fabio Rovazzi](https://open.spotify.com/artist/35orQw8LgQn7KOFjzCyY7E) | [FOMO](https://open.spotify.com/album/54ya3twstlGFMzEtsETqpl) | 3:00 | 2025-06-15 |  |
 | [mariposas](https://open.spotify.com/track/5R2hNuiiwnKVAUNktF9j2Y) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [mariposas](https://open.spotify.com/album/5oSxZwLHXX8NOpayMUC9VH) | 2:34 | 2022-09-16 |  |
 | [mariposas](https://open.spotify.com/track/7uGG7fssFM4BwW698xCpYg) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [mariposas](https://open.spotify.com/album/0GaIRDUkMJ6juvZU7D5cg8) | 2:42 | 2023-12-14 | 2024-01-29 |
+| [Match Point](https://open.spotify.com/track/34U0T2a4EuIlsTIDJcFgcz) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [MET GALA](https://open.spotify.com/album/4kS1yg2jnfGJEq0cKiZ7rh) | 2:38 | 2025-11-18 |  |
 | [melodrama](https://open.spotify.com/track/5y7dpbKf0E3TW93k5w0JIs) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [poké melodrama](https://open.spotify.com/album/2wTktpdvwoQdSYVhw54Lbz) | 2:27 | 2024-09-11 |  |
 | [melodrama \- spanish version](https://open.spotify.com/track/58VNLfh2s8c0hIIyt6pSju) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [melodrama \(spanish version\)](https://open.spotify.com/album/6ZnPYFp4Kdbq0tktEyiNUZ) | 2:28 | 2025-04-19 |  |
 | [Metà mondo](https://open.spotify.com/track/5zZ0yzln50TFBzKl1YNckG) | [Gio Evan](https://open.spotify.com/artist/1UjLyuJUXKzlECQRLIsF3n) | [Metà mondo](https://open.spotify.com/album/6dJf5WCRsjpCX0pvDlLdZy) | 2:58 | 2022-09-16 |  |
@@ -102,6 +103,7 @@
 | [STORIE DI ROSE APPASSITE](https://open.spotify.com/track/3gqln1UCgcXnjG5lGQmCU1) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [PRIMO](https://open.spotify.com/album/7u25F0vMvoStxcrqvzYGgp) | 3:03 | 2025-01-05 |  |
 | [STORIE DI ROSE APPASSITE](https://open.spotify.com/track/44JN8Oz9MEKrXmCaxgfQiH) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [PRIMO](https://open.spotify.com/album/7EV8pGuFCChzOPmcopNQ4t) | 3:03 | 2024-06-11 | 2025-01-06 |
 | [Stupidi lovers](https://open.spotify.com/track/6eZXzI6f0nHiTtL2C2V8E8) | [Sissi](https://open.spotify.com/artist/6P7jNZ4DCs766yu5td601i) | [Leggera](https://open.spotify.com/album/6vtGqGLz1IqeLtEXwluv70) | 3:24 | 2022-09-16 |  |
+| [Taki](https://open.spotify.com/track/24HZYhiT0GhKM3KY95NTp0) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [MET GALA](https://open.spotify.com/album/4kS1yg2jnfGJEq0cKiZ7rh) | 2:33 | 2025-11-18 |  |
 | [Tasche](https://open.spotify.com/track/2MLEfq2eP8lGfQaupsALXc) | [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [Tasche](https://open.spotify.com/album/1Vtj0G5V5TjH7AE5SVwhRe) | 3:17 | 2023-06-14 |  |
 | [Testa tra le nuvole, Pt\. 0](https://open.spotify.com/track/4kroXv8P8Jz9aMlALh4zpm) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7), [Yanomi](https://open.spotify.com/artist/6YgYCNwq3DkSXEd6kGxoZW) | [Before Wanderlust](https://open.spotify.com/album/7yfUJSxxqFcI5obk2nyrGA) | 2:52 | 2023-02-25 |  |
 | [Testa tra le nuvole, Pt\. 0](https://open.spotify.com/track/6jm6xEF89GMviLo8GILp6z) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7), [Yanomi](https://open.spotify.com/artist/6YgYCNwq3DkSXEd6kGxoZW) | [Before Wanderlust](https://open.spotify.com/album/4m56Ae5dOv24XbtQLYtXKp) | 2:52 | 2022-09-16 | 2023-02-26 |

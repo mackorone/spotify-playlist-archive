@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 
 > Fantastiske viser fra noen av våre aller beste artister.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,231 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,235 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 | 14 | [Bestevenn](https://open.spotify.com/track/0bQLTkISNpcZ70TbGGisTA) | [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv) | [Bestevenn \(Bonus Version\)](https://open.spotify.com/album/7M0cXZCjiZ4tjewFs25Nwy) | 4:04 |
 | 15 | [Gressholmen](https://open.spotify.com/track/48scWF4cl9Qr6oCJ0KJCLu) | [Kristian Kristensen](https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta) | [Gressholmen](https://open.spotify.com/album/5ZUNIkbIigepocjfzRWdX9) | 4:13 |
 | 16 | [Ingen som du](https://open.spotify.com/track/4FbpUlIwMiWiqP8fUhDbW2) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C) | [Berre meg](https://open.spotify.com/album/7s0RRWzX6z2zieWyyyxogN) | 3:46 |
-| 17 | [Å Kunne Æ Skrive](https://open.spotify.com/track/3Q5UYAQJ4l3crdc3YjnqbK) | [Kari Bremnes](https://open.spotify.com/artist/1vHopQ5qWJVDXXPc2VxjUd), [Ola Bremnes](https://open.spotify.com/artist/2YUcEURAjhrNV7wxBBfq7E), [Lars Bremnes](https://open.spotify.com/artist/1L7U4qOZlB5M0GaAICnxc4) | [Soløye](https://open.spotify.com/album/5G5WRvcAMhNFEEBa57INLW) | 3:23 |
-| 18 | [Kamilla Og Tyven](https://open.spotify.com/track/5S3iampR4PvPov7fvN2Mt7) | [Morten Harket](https://open.spotify.com/artist/08t5VdmH6cpxHXUmb9bFeP) | [Kamilla Og Tyven](https://open.spotify.com/album/31yk847bN0MUuhwNQbfsNC) | 3:34 |
+| 17 | [Kamilla Og Tyven](https://open.spotify.com/track/5S3iampR4PvPov7fvN2Mt7) | [Morten Harket](https://open.spotify.com/artist/08t5VdmH6cpxHXUmb9bFeP) | [Kamilla Og Tyven](https://open.spotify.com/album/31yk847bN0MUuhwNQbfsNC) | 3:34 |
+| 18 | [Å Kunne Æ Skrive](https://open.spotify.com/track/3Q5UYAQJ4l3crdc3YjnqbK) | [Kari Bremnes](https://open.spotify.com/artist/1vHopQ5qWJVDXXPc2VxjUd), [Ola Bremnes](https://open.spotify.com/artist/2YUcEURAjhrNV7wxBBfq7E), [Lars Bremnes](https://open.spotify.com/artist/1L7U4qOZlB5M0GaAICnxc4) | [Soløye](https://open.spotify.com/album/5G5WRvcAMhNFEEBa57INLW) | 3:23 |
 | 19 | [Trondheimsnatt \(feat\. Line Sofie Aleksandersen\)](https://open.spotify.com/track/0eIvpsLphOvtjcaDoAMDvf) | [Åge Aleksandersen](https://open.spotify.com/artist/08H8B226x5IRKwbm8TD8bz), [Line Sofie Aleksandersen](https://open.spotify.com/artist/139biVMfyquAUumShjaSQs) | [Linedans](https://open.spotify.com/album/79BW7npDsLuTpg7RCJ1KrU) | 3:50 |
 | 20 | [Har En Drøm](https://open.spotify.com/track/4gxOSJI3TBLv7YK0h2HO9Q) | [Jørn Hoel](https://open.spotify.com/artist/6WGO9mdAxgwVQxui0t98DC) | [Varme Ut Av Is](https://open.spotify.com/album/0UgIhsI11cvJrrQb5iBqwp) | 3:54 |
 | 21 | [Tårnet](https://open.spotify.com/track/6JmZt1IQx2gzytm34xdyDQ) | [Kristian Kristensen](https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta) | [Gressholmen](https://open.spotify.com/album/5ZUNIkbIigepocjfzRWdX9) | 3:51 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 | 45 | [Ka Du HÃ¥pa PÃ¥](https://open.spotify.com/track/21lhhyD37K61NGo36a6QKX) | [Inge Bremnes](https://open.spotify.com/artist/4lgiQEUzN7K9IsXDXpHkVB) | [Ka Du HÃ¥pa PÃ¥](https://open.spotify.com/album/70x1xmznD1DRiH3ArPVEI9) | 3:29 |
 | 46 | [Så fullt av ja](https://open.spotify.com/track/03R1lVzNfr7j9CwLE53eDQ) | [Kari Bremnes](https://open.spotify.com/artist/1vHopQ5qWJVDXXPc2VxjUd) | [3 sanger](https://open.spotify.com/album/3xjsMLjW25DMe5K09x522s) | 4:41 |
 | 47 | [Lilla vackra Anna](https://open.spotify.com/track/6fAsL3cjB7fMGrMlXwYFIg) | [Finn Kalvik](https://open.spotify.com/artist/4t5H7BynY6Et5nbYwjU3an) | [Kom ut kom fram](https://open.spotify.com/album/211PaS9J8AAPWXCVkyIVkF) | 3:46 |
-| 48 | [Ikke slipp](https://open.spotify.com/track/4uEElpOvG54makyKCVnWDs) | [Trygve Skaug](https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n) | [Ikke slipp](https://open.spotify.com/album/6uI7b5qmPwZ4dioH3m39oD) | 4:23 |
-| 49 | [Varherres Klinkekuler](https://open.spotify.com/track/5jbz1Pwz06o9fPMYFrmTOP) | [Erik Bye](https://open.spotify.com/artist/1qqBCY3Scz9Ea1mjkCDgaZ) | [Hildringstimer \- 14 velvalgte viser](https://open.spotify.com/album/3STZjoiXVRs4EnnkrBiZ1x) | 3:07 |
-| 50 | [Alt det som skinner](https://open.spotify.com/track/0HYvxo4SmIg7pS6TDoODUD) | [Anne Grete Preus](https://open.spotify.com/artist/32mTrXKr7W8Tg4hH4S2Do1) | [Alt det som skinner](https://open.spotify.com/album/2R6Dqa6ORZaDkBXeD9SMbr) | 4:10 |
+| 48 | [Alt det som skinner](https://open.spotify.com/track/0HYvxo4SmIg7pS6TDoODUD) | [Anne Grete Preus](https://open.spotify.com/artist/32mTrXKr7W8Tg4hH4S2Do1) | [Alt det som skinner](https://open.spotify.com/album/2R6Dqa6ORZaDkBXeD9SMbr) | 4:10 |
+| 49 | [Ikke slipp](https://open.spotify.com/track/4uEElpOvG54makyKCVnWDs) | [Trygve Skaug](https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n) | [Ikke slipp](https://open.spotify.com/album/6uI7b5qmPwZ4dioH3m39oD) | 4:23 |
+| 50 | [Varherres Klinkekuler](https://open.spotify.com/track/5jbz1Pwz06o9fPMYFrmTOP) | [Erik Bye](https://open.spotify.com/artist/1qqBCY3Scz9Ea1mjkCDgaZ) | [Hildringstimer \- 14 velvalgte viser](https://open.spotify.com/album/3STZjoiXVRs4EnnkrBiZ1x) | 3:07 |
 
 Snapshot ID: `AAAAAE1YfDaprHVtHpX95mrQYhpzlS52`

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRkUAAAAAAD1eWdJVf6735DLF0c2XIUC",
+  "snapshot_id": "aRplgAAAAAAWi9ZO4HQx1Fm1xw/qoBmV",
   "tracks": [
     {
       "added_at": null,
@@ -123,6 +123,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Who Are You Now",
+        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 280293,
+      "name": "Song In My Head",
+      "url": "https://open.spotify.com/track/0SqfoSpuWsk4CJpCX2LvCD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Age of Apathy",
         "url": "https://open.spotify.com/album/0GvP6JkCysq2idJCmIxqBo"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 212255,
       "name": "Passengers",
       "url": "https://open.spotify.com/track/4DQFYIY3Dg3LwpSAEFWoi2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Who Are You Now",
-        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 280293,
-      "name": "Song In My Head",
-      "url": "https://open.spotify.com/track/0SqfoSpuWsk4CJpCX2LvCD"
     },
     {
       "added_at": null,
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 247013,
-      "name": "Take Two",
-      "url": "https://open.spotify.com/track/5i3Oa3qPuNzcx8j8txKuBR"
+      "duration_ms": 298920,
+      "name": "Skeletree",
+      "url": "https://open.spotify.com/track/3rGu21P8XTUi1PhqvKCTe1"
     },
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 298920,
-      "name": "Skeletree",
-      "url": "https://open.spotify.com/track/3rGu21P8XTUi1PhqvKCTe1"
+      "duration_ms": 247013,
+      "name": "Take Two",
+      "url": "https://open.spotify.com/track/5i3Oa3qPuNzcx8j8txKuBR"
     },
     {
       "added_at": null,
@@ -635,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Who Are You Now",
+        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 194226,
+      "name": "Trouble Found Me",
+      "url": "https://open.spotify.com/track/5eOvYoXwPk5b3yEIKiphuV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "...but i'd rather be with you, too",
         "url": "https://open.spotify.com/album/5rBVASdotOwS4z4a4LAbmS"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 197790,
       "name": "Strong Enough",
       "url": "https://open.spotify.com/track/69qLjFRZbz7V7uM13DtmOW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Who Are You Now",
-        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 194226,
-      "name": "Trouble Found Me",
-      "url": "https://open.spotify.com/track/5eOvYoXwPk5b3yEIKiphuV"
     },
     {
       "added_at": null,
@@ -707,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Who Are You Now",
+        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 228013,
+      "name": "L.A. (Looking Alive)",
+      "url": "https://open.spotify.com/track/7zPotVoWNGt5TxFLg24cbT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Modern Man",
         "url": "https://open.spotify.com/album/2mYhqIuQKJ8CQCkuJH14A2"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 184445,
       "name": "Modern Man (feat. Madison Cunningham)",
       "url": "https://open.spotify.com/track/5wo8gxWeFb9YsZ719fALSL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Who Are You Now",
-        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 228013,
-      "name": "L.A. (Looking Alive)",
-      "url": "https://open.spotify.com/track/7zPotVoWNGt5TxFLg24cbT"
     },
     {
       "added_at": null,
@@ -775,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Who Are You Now",
+        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 237493,
+      "name": "Something To Believe In",
+      "url": "https://open.spotify.com/track/79NCNvyJMKSCVSGQZjSLf4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Neighbor Song (ft. Madison Cunningham)",
         "url": "https://open.spotify.com/album/1gWFh2G3METlCAbzhfaIzs"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 220230,
       "name": "Neighbor Song [Feat. Madison Cunningham]",
       "url": "https://open.spotify.com/track/5t6reWfzf0aOeMgVijYRGS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Who Are You Now",
-        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 237493,
-      "name": "Something To Believe In",
-      "url": "https://open.spotify.com/track/79NCNvyJMKSCVSGQZjSLf4"
     },
     {
       "added_at": null,

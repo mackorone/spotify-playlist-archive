@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRkUAAAAAADzV32WoBYua0ec5a1uNuWy",
+  "snapshot_id": "aRplgAAAAAC0ChTQzHU2myWeDRwdKA7Q",
   "tracks": [
     {
       "added_at": null,
@@ -259,6 +259,62 @@
     {
       "added_at": null,
       "album": {
+        "name": "Reca\u00edda",
+        "url": "https://open.spotify.com/album/02AaiB6d2Io8EgmfnEY5vx"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
+        {
+          "name": "Medellin",
+          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
+        }
+      ],
+      "duration_ms": 188976,
+      "name": "Reca\u00edda",
+      "url": "https://open.spotify.com/track/55vzhkPkwksWHU83hhDMX0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seu Desejo",
+        "url": "https://open.spotify.com/album/3adNSP3xdQtHLXDiKt7AMU"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "GREGO",
+          "url": "https://open.spotify.com/artist/4v4g6B3AmczdtPlNE4t39X"
+        },
+        {
+          "name": "DJ Pedro Vieira",
+          "url": "https://open.spotify.com/artist/6Nc0KutYK7ABhJ2jC1K2mn"
+        },
+        {
+          "name": "Nath Fischer",
+          "url": "https://open.spotify.com/artist/1QcNQjPOs6hNGLOvddrwfW"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        }
+      ],
+      "duration_ms": 234545,
+      "name": "Seu Desejo",
+      "url": "https://open.spotify.com/track/2YcIs0ze3MeObnD9zXTifZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Set Dj Br da Tijuca 2",
         "url": "https://open.spotify.com/album/3J6S6wPIgYQU4y7DfG7uBJ"
       },
@@ -323,62 +379,6 @@
       "duration_ms": 432367,
       "name": "Set Dj Br da Tijuca 2",
       "url": "https://open.spotify.com/track/1UEknJ3tmxgeQI6CoXvDHx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reca\u00edda",
-        "url": "https://open.spotify.com/album/02AaiB6d2Io8EgmfnEY5vx"
-      },
-      "artists": [
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        },
-        {
-          "name": "Medellin",
-          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
-        }
-      ],
-      "duration_ms": 188976,
-      "name": "Reca\u00edda",
-      "url": "https://open.spotify.com/track/55vzhkPkwksWHU83hhDMX0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Seu Desejo",
-        "url": "https://open.spotify.com/album/3adNSP3xdQtHLXDiKt7AMU"
-      },
-      "artists": [
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "GREGO",
-          "url": "https://open.spotify.com/artist/4v4g6B3AmczdtPlNE4t39X"
-        },
-        {
-          "name": "DJ Pedro Vieira",
-          "url": "https://open.spotify.com/artist/6Nc0KutYK7ABhJ2jC1K2mn"
-        },
-        {
-          "name": "Nath Fischer",
-          "url": "https://open.spotify.com/artist/1QcNQjPOs6hNGLOvddrwfW"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
-        }
-      ],
-      "duration_ms": 234545,
-      "name": "Seu Desejo",
-      "url": "https://open.spotify.com/track/2YcIs0ze3MeObnD9zXTifZ"
     },
     {
       "added_at": null,
@@ -483,26 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quer Ir no Meu Show ?",
-        "url": "https://open.spotify.com/album/46nO35DqIMYP4YOo1RJukt"
-      },
-      "artists": [
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Bianca",
-          "url": "https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg"
-        }
-      ],
-      "duration_ms": 280946,
-      "name": "Quer Ir no Meu Show ?",
-      "url": "https://open.spotify.com/track/4bni91rf5R2zF6xElZY5la"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "V\u00caNUS\u2260netuno",
         "url": "https://open.spotify.com/album/5T2KhsmSyj6UvXehTNFLg8"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 183380,
       "name": "APOCAL\u00cdPTIKA",
       "url": "https://open.spotify.com/track/4pdHinWMilOcFb65irdH8w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quer Ir no Meu Show ?",
+        "url": "https://open.spotify.com/album/46nO35DqIMYP4YOo1RJukt"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Bianca",
+          "url": "https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg"
+        }
+      ],
+      "duration_ms": 280946,
+      "name": "Quer Ir no Meu Show ?",
+      "url": "https://open.spotify.com/track/4bni91rf5R2zF6xElZY5la"
     },
     {
       "added_at": null,
@@ -587,26 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pouco Assunto",
-        "url": "https://open.spotify.com/album/2qlqrSaD2YDmhCNHCmCcFx"
-      },
-      "artists": [
-        {
-          "name": "ANAJU",
-          "url": "https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN"
-        },
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        }
-      ],
-      "duration_ms": 166491,
-      "name": "Pouco Assunto",
-      "url": "https://open.spotify.com/track/0JjWZ5QDvBCqtksJ4miyeF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Donas do Jogo",
         "url": "https://open.spotify.com/album/7MBjkpeqRT5iQeff5uhcP9"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 244000,
       "name": "Donas do Jogo",
       "url": "https://open.spotify.com/track/1cS6RxJm9VWnbIYyFM0BVm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pouco Assunto",
+        "url": "https://open.spotify.com/album/2qlqrSaD2YDmhCNHCmCcFx"
+      },
+      "artists": [
+        {
+          "name": "ANAJU",
+          "url": "https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN"
+        },
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        }
+      ],
+      "duration_ms": 166491,
+      "name": "Pouco Assunto",
+      "url": "https://open.spotify.com/track/0JjWZ5QDvBCqtksJ4miyeF"
     },
     {
       "added_at": null,
@@ -839,26 +839,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Na Onda do Boldo",
-        "url": "https://open.spotify.com/album/1FEunMxrUJ7sJigVe74cL4"
+        "name": "Nike Novo",
+        "url": "https://open.spotify.com/album/7vdftrf3dgyLrWO5LNXrOm"
       },
       "artists": [
+        {
+          "name": "Felp 22",
+          "url": "https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK"
+        },
         {
           "name": "Hyperanhas",
           "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
         },
         {
-          "name": "Thammy",
-          "url": "https://open.spotify.com/artist/69AJjk7Kr9O05pUtJjGxF0"
-        },
-        {
-          "name": "Caio Passos",
-          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+          "name": "Medellin",
+          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Na Onda do Boldo",
-      "url": "https://open.spotify.com/track/42BwDKygmTWy01npggoFhl"
+      "duration_ms": 184256,
+      "name": "Nike Novo",
+      "url": "https://open.spotify.com/track/6dvmKKxL0An5ynDVAAkAZy"
     },
     {
       "added_at": null,
@@ -887,26 +887,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nike Novo",
-        "url": "https://open.spotify.com/album/7vdftrf3dgyLrWO5LNXrOm"
+        "name": "Na Onda do Boldo",
+        "url": "https://open.spotify.com/album/1FEunMxrUJ7sJigVe74cL4"
       },
       "artists": [
-        {
-          "name": "Felp 22",
-          "url": "https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK"
-        },
         {
           "name": "Hyperanhas",
           "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
         },
         {
-          "name": "Medellin",
-          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
+          "name": "Thammy",
+          "url": "https://open.spotify.com/artist/69AJjk7Kr9O05pUtJjGxF0"
+        },
+        {
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
         }
       ],
-      "duration_ms": 184256,
-      "name": "Nike Novo",
-      "url": "https://open.spotify.com/track/6dvmKKxL0An5ynDVAAkAZy"
+      "duration_ms": 186000,
+      "name": "Na Onda do Boldo",
+      "url": "https://open.spotify.com/track/42BwDKygmTWy01npggoFhl"
     },
     {
       "added_at": null,
@@ -1083,18 +1083,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poc Poc",
-        "url": "https://open.spotify.com/album/2xaNuhVlP39plZFv7kRjrc"
+        "name": "2003",
+        "url": "https://open.spotify.com/album/6u9FLfTTmw4Nm63JS2v6xw"
       },
       "artists": [
+        {
+          "name": "T\u00edlia",
+          "url": "https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo"
+        },
         {
           "name": "Hyperanhas",
           "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
         }
       ],
-      "duration_ms": 212375,
-      "name": "Poc Poc",
-      "url": "https://open.spotify.com/track/6NXlMgjZkhqnAecJSuA90v"
+      "duration_ms": 163636,
+      "name": "TO PRONTA!",
+      "url": "https://open.spotify.com/track/25BCBAxBSpJ8evRp7pI3QA"
     },
     {
       "added_at": null,
@@ -1123,22 +1127,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "2003",
-        "url": "https://open.spotify.com/album/6u9FLfTTmw4Nm63JS2v6xw"
+        "name": "Poc Poc",
+        "url": "https://open.spotify.com/album/2xaNuhVlP39plZFv7kRjrc"
       },
       "artists": [
-        {
-          "name": "T\u00edlia",
-          "url": "https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo"
-        },
         {
           "name": "Hyperanhas",
           "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
         }
       ],
-      "duration_ms": 163636,
-      "name": "TO PRONTA!",
-      "url": "https://open.spotify.com/track/25BCBAxBSpJ8evRp7pI3QA"
+      "duration_ms": 212375,
+      "name": "Poc Poc",
+      "url": "https://open.spotify.com/track/6NXlMgjZkhqnAecJSuA90v"
     },
     {
       "added_at": null,
@@ -1323,6 +1323,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "No meu Flat",
+        "url": "https://open.spotify.com/album/2lc9wdanTUu4UVvkaFacFt"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Buddy",
+          "url": "https://open.spotify.com/artist/6M4I5fzROAwy9WcsnvLVxa"
+        }
+      ],
+      "duration_ms": 242285,
+      "name": "No meu Flat",
+      "url": "https://open.spotify.com/track/0bwPnwCSM3txTCxdmMQ3ay"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Time dos Sonhos",
         "url": "https://open.spotify.com/album/6nzRGaBnhvL6hqJ0X0o9S5"
       },
@@ -1355,26 +1375,6 @@
       "duration_ms": 411428,
       "name": "Time dos Sonhos",
       "url": "https://open.spotify.com/track/1Ab3rxk7i8yZ4jbs3AzGrC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No meu Flat",
-        "url": "https://open.spotify.com/album/2lc9wdanTUu4UVvkaFacFt"
-      },
-      "artists": [
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Buddy",
-          "url": "https://open.spotify.com/artist/6M4I5fzROAwy9WcsnvLVxa"
-        }
-      ],
-      "duration_ms": 242285,
-      "name": "No meu Flat",
-      "url": "https://open.spotify.com/track/0bwPnwCSM3txTCxdmMQ3ay"
     }
   ],
   "unique_name": "This Is Hyperanhas",

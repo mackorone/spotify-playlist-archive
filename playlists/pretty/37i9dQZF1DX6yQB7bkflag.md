@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Charli xcx
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,032 likes - 161 songs - 9 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,028 likes - 161 songs - 9 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 | 27 | [Bayangan Cinta Yang Lalu](https://open.spotify.com/track/7k5KS786ibuDQIU4YKRnQ7) | [KIM](https://open.spotify.com/artist/1ltPgn4r3rgK3NcpJZScIp), [Nabila Taqiyyah](https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe) | [Bayangan Cinta Yang Lalu](https://open.spotify.com/album/3LAMMg0LKfDuIePDLgnTBH) | 3:44 |
 | 28 | [Destiny](https://open.spotify.com/track/3lgjvBBSBYpwNpLDY1nsmR) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Destiny](https://open.spotify.com/album/4wprqrMAFplpkWVySr4kD1) | 4:37 |
 | 29 | [Palaces](https://open.spotify.com/track/1A4fhhL8nFcEmDnLjSXsSM) | [Louis Tomlinson](https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp) | [Palaces](https://open.spotify.com/album/4bgsi7TkqYeZQ8v4Ywf7Ub) | 2:47 |
-| 30 | [Sajak Rindu](https://open.spotify.com/track/4NivuhjN2tXk6UstgauLpS) | [Peter Holly](https://open.spotify.com/artist/6jjRl6DiuWp03YdfGGI4fb) | [Sajak Rindu](https://open.spotify.com/album/4IOXsITT4m02DPVGrMREGd) | 4:31 |
+| 30 | [Buang Mantan](https://open.spotify.com/track/4NivuhjN2tXk6UstgauLpS) | [Tenny TAP](https://open.spotify.com/artist/2mjuC8gdXeRJkfWqHkZ62P) | [Buang Mantan](https://open.spotify.com/album/4IOXsITT4m02DPVGrMREGd) | 4:07 |
 | 31 | [It's Been U.](https://open.spotify.com/track/2ECZGh7lOO7IrMR62G2bmW) | [Ivan Gojaya](https://open.spotify.com/artist/7FCcRddXD2jm7nTIEX5S4W), [Agustin Oendari](https://open.spotify.com/artist/1AoG8XhI0jjfx4buab3qqI) | [It's Been U.](https://open.spotify.com/album/5k0LqR6G71CWnkUb7aqs3l) | 3:53 |
 | 32 | [bandaids](https://open.spotify.com/track/7vlkotgJCvYzVrmRqDYNYh) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [bandaids](https://open.spotify.com/album/5JvfHXiAioipSTjXAHMXrX) | 3:08 |
 | 33 | [Call It A Day](https://open.spotify.com/track/3zhnjPBOuz6cVC4te4PY7G) | [Tilly Birds](https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH) | [Call It A Day](https://open.spotify.com/album/11HIro0GtIxoeysAULtuU2) | 2:56 |

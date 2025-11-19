@@ -1,6 +1,6 @@
 {
   "description": "Tracks crediting NATURE support its conservation.",
-  "num_followers": 10427,
+  "num_followers": 10451,
   "original_name": "feat. NATURE",
   "owner": {
     "name": "Spotify",
@@ -851,26 +851,6 @@
     {
       "added_at": "2025-11-06 11:36:44",
       "album": {
-        "name": "Dew (feat. NATURE)",
-        "url": "https://open.spotify.com/album/7lXQ19myGmHdIPBVaoeDJo"
-      },
-      "artists": [
-        {
-          "name": "NEBULAH",
-          "url": "https://open.spotify.com/artist/3VsBG9lxz1YW1CK0hGGcmf"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        }
-      ],
-      "duration_ms": 257250,
-      "name": "Dew (feat. NATURE)",
-      "url": "https://open.spotify.com/track/2Juto9OSTiDPiGaVpWuQEn"
-    },
-    {
-      "added_at": "2025-11-06 11:36:44",
-      "album": {
         "name": "Bushes & Briars & Birds (feat. NATURE)",
         "url": "https://open.spotify.com/album/1gomiGaGoQyNBPC499WYHg"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 290677,
       "name": "Bushes & Briars & Birds (feat. NATURE)",
       "url": "https://open.spotify.com/track/103Ek8YLz0lq5APcFI3tqG"
+    },
+    {
+      "added_at": "2025-11-06 11:36:44",
+      "album": {
+        "name": "Dew (feat. NATURE)",
+        "url": "https://open.spotify.com/album/7lXQ19myGmHdIPBVaoeDJo"
+      },
+      "artists": [
+        {
+          "name": "NEBULAH",
+          "url": "https://open.spotify.com/artist/3VsBG9lxz1YW1CK0hGGcmf"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "duration_ms": 257250,
+      "name": "Dew (feat. NATURE)",
+      "url": "https://open.spotify.com/track/2Juto9OSTiDPiGaVpWuQEn"
     },
     {
       "added_at": "2025-11-06 11:36:44",

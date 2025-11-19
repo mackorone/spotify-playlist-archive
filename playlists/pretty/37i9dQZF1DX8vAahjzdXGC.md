@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Yura Yunita, Charli xcx, The Lantis dan masih banyak lagi dari dalam dan mancanegara
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,305 likes - 124 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,319 likes - 124 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 27 | [Still Don't Care](https://open.spotify.com/track/17tuuYUw3K1J9pDe4QrWNo) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Still Don't Care](https://open.spotify.com/album/11XiRiJX157BvMuuc9ixuw) | 2:49 |
 | 28 | [Destiny](https://open.spotify.com/track/3lgjvBBSBYpwNpLDY1nsmR) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Destiny](https://open.spotify.com/album/4wprqrMAFplpkWVySr4kD1) | 4:37 |
 | 29 | [Palaces](https://open.spotify.com/track/1A4fhhL8nFcEmDnLjSXsSM) | [Louis Tomlinson](https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp) | [Palaces](https://open.spotify.com/album/4bgsi7TkqYeZQ8v4Ywf7Ub) | 2:47 |
-| 30 | [Sajak Rindu](https://open.spotify.com/track/4NivuhjN2tXk6UstgauLpS) | [Peter Holly](https://open.spotify.com/artist/6jjRl6DiuWp03YdfGGI4fb) | [Sajak Rindu](https://open.spotify.com/album/4IOXsITT4m02DPVGrMREGd) | 4:31 |
+| 30 | [Buang Mantan](https://open.spotify.com/track/4NivuhjN2tXk6UstgauLpS) | [Tenny TAP](https://open.spotify.com/artist/2mjuC8gdXeRJkfWqHkZ62P) | [Buang Mantan](https://open.spotify.com/album/4IOXsITT4m02DPVGrMREGd) | 4:07 |
 | 31 | [Crave Me, Superstar](https://open.spotify.com/track/58zF0g3So838gVtFMWJQ3h) | [Rimba](https://open.spotify.com/artist/0ejPHB5hhzjG2JtglWKjlZ) | [Technicolor Meeting](https://open.spotify.com/album/4ytWptqrooC52m6hkyB6mD) | 4:55 |
 | 32 | [Lapor Mas Wapres](https://open.spotify.com/track/1ottATig7wFOwVe0HOE2N7) | [Aldy Amis](https://open.spotify.com/artist/1cH4Kfu1QYyTnmAgEt1j8V) | [Lapor Mas Wapres](https://open.spotify.com/album/6eZZR65XIidru3G1sFZsGi) | 3:35 |
 | 33 | [Good Morning, Goodbye](https://open.spotify.com/track/4Fb1gbBMGtDSx9CTfLHPBO) | [Ricecooker](https://open.spotify.com/artist/6yfnX1zKi8rsuPPWXjx20q) | [Good Morning, Goodbye](https://open.spotify.com/album/1BFvEfpMYM71nuRxbdANUA) | 3:21 |

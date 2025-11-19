@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKktnMCmHx1.md) - [plain]
 
 > Tecnica, stile e talento: MVP starter pack, nel rap come nel gaming 🎮
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,493 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,492 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKktnMCmHx1.md) - [plain]
 | 68 | [PIOVE \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/6BUueuMQR4k7CuoMEsnGou) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 2:35 |
 | 69 | [AIRFORCE \(feat\. Madame\)](https://open.spotify.com/track/4MTlIhliwFJnTfbEoctDyB) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [SOLO TUTTO](https://open.spotify.com/album/7I9kWuzlJwWCtP0jDgqpcw) | 3:40 |
 | 70 | [Ma Chérie \(feat\. Capo Plaza\)](https://open.spotify.com/track/56oawXplSFrfIJSyZjBgez) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [DELINQUENTE](https://open.spotify.com/album/2wcLZ4N9hLO19PXpmZFWNh) | 2:39 |
-| 71 | [BETRAYED](https://open.spotify.com/track/5sxq1iFhvcqSbS86Cws8aj) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Gully \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3AXV4OJLUI7v9MQ3w8wzaN) | 3:12 |
-| 72 | [Look Back at It \(feat\. CAPO PLAZA\)](https://open.spotify.com/track/34Jnbbi34tPtYdutY5Pd6G) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Look Back at It \(feat\. CAPO PLAZA\)](https://open.spotify.com/album/0aMlaFvuHZNRxOIPP5GRwr) | 3:45 |
+| 71 | [Look Back at It \(feat\. CAPO PLAZA\)](https://open.spotify.com/track/34Jnbbi34tPtYdutY5Pd6G) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Look Back at It \(feat\. CAPO PLAZA\)](https://open.spotify.com/album/0aMlaFvuHZNRxOIPP5GRwr) | 3:45 |
+| 72 | [BETRAYED](https://open.spotify.com/track/5sxq1iFhvcqSbS86Cws8aj) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Gully \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3AXV4OJLUI7v9MQ3w8wzaN) | 3:12 |
 | 73 | [REPEAT IT \(with Gunna\)](https://open.spotify.com/track/21AJQhGZpujjZQXByZAXpr) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [REPEAT IT](https://open.spotify.com/album/0hTvuLmKKMWoBWgPPrpUKF) | 3:10 |
 | 74 | [Walk Em Down \(feat\. Roddy Ricch\)](https://open.spotify.com/track/4cSSL3YafYjM3yjgFO1vJg) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Walk Em Down \(feat\. Roddy Ricch\)](https://open.spotify.com/album/3EYg0XBIcyz3OvhIy7gsZQ) | 2:53 |
 | 75 | [UHLALA](https://open.spotify.com/track/1D7sdScaOxtmb0lInM90SN) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Famoso](https://open.spotify.com/album/2nLyZRTwA9dJkXWoWBhBGL) | 3:09 |

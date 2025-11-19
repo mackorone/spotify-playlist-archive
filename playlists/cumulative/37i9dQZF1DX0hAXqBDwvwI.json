@@ -5342,7 +5342,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 235525,
       "name": "PUNKS",
       "url": "https://open.spotify.com/track/3KCvdwzkUI1iyLWfhWws0o"
@@ -7516,7 +7516,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-22",
+      "date_removed": null,
       "duration_ms": 209636,
       "name": "veil",
       "url": "https://open.spotify.com/track/1dGF5ymTyBB2ZmOypkeU1F"
@@ -12519,6 +12519,24 @@
     },
     {
       "album": {
+        "name": "\u611b\u2661\u30b9\u30af\u30ea\uff5e\u30e0\uff01",
+        "url": "https://open.spotify.com/album/1l4SKYcXWUhCQ1jiasP9XZ"
+      },
+      "artists": [
+        {
+          "name": "AiScReam",
+          "url": "https://open.spotify.com/artist/5cW1SVDUXXzsj3eFT7Gmta"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262106,
+      "name": "\u611b\u2661\u30b9\u30af\u30ea\uff5e\u30e0\uff01",
+      "url": "https://open.spotify.com/track/2BBIUV8wIBbqc7HXObzdgH"
+    },
+    {
+      "album": {
         "name": "\u611b\u306f\u85ac",
         "url": "https://open.spotify.com/album/2wfdLp7pe92E16ZwBHdFpP"
       },
@@ -15024,7 +15042,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 265053,
       "name": "\u9752\u6625\u6c38\u9060",
       "url": "https://open.spotify.com/track/1aO9Nxg1ImfpEs70YLAiuT"

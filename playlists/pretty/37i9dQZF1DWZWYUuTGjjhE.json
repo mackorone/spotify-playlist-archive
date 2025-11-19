@@ -1,6 +1,6 @@
 {
   "description": "Timeless easy listening from the sixties...",
-  "num_followers": 364414,
+  "num_followers": 364418,
   "original_name": "Easy 60s",
   "owner": {
     "name": "Spotify",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-06-03 14:49:59",
       "album": {
-        "name": "Save the Last Dance for Me",
-        "url": "https://open.spotify.com/album/6sWL3HHXGkqlST0rfWXvBU"
-      },
-      "artists": [
-        {
-          "name": "The Drifters",
-          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
-        }
-      ],
-      "duration_ms": 154960,
-      "name": "Save the Last Dance for Me",
-      "url": "https://open.spotify.com/track/391TUcoPonqYykPkSZ5Z9U"
-    },
-    {
-      "added_at": "2024-06-03 14:49:59",
-      "album": {
         "name": "The Best Of Bobby Vinton",
         "url": "https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 168093,
       "name": "Blue Velvet",
       "url": "https://open.spotify.com/track/4QelFzhVgLomeQhvKrwM1S"
+    },
+    {
+      "added_at": "2024-06-03 14:49:59",
+      "album": {
+        "name": "Save the Last Dance for Me",
+        "url": "https://open.spotify.com/album/6sWL3HHXGkqlST0rfWXvBU"
+      },
+      "artists": [
+        {
+          "name": "The Drifters",
+          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+        }
+      ],
+      "duration_ms": 154960,
+      "name": "Save the Last Dance for Me",
+      "url": "https://open.spotify.com/track/391TUcoPonqYykPkSZ5Z9U"
     },
     {
       "added_at": "2024-06-03 14:49:59",
@@ -999,6 +999,22 @@
     {
       "added_at": "2024-06-03 14:49:59",
       "album": {
+        "name": "Build Me Up Buttercup",
+        "url": "https://open.spotify.com/album/0AFXSZYiYyggIkcYW5GK0x"
+      },
+      "artists": [
+        {
+          "name": "The Foundations",
+          "url": "https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD"
+        }
+      ],
+      "duration_ms": 178533,
+      "name": "Build Me Up Buttercup",
+      "url": "https://open.spotify.com/track/3XcuLPQb1LG13ZJEEa6wUI"
+    },
+    {
+      "added_at": "2024-06-03 14:49:59",
+      "album": {
         "name": "At Last!",
         "url": "https://open.spotify.com/album/2pBhXw3Hi1hBf8FpAtE101"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 182400,
       "name": "At Last - Single Version",
       "url": "https://open.spotify.com/track/0CmIALzGn4vHIHJG4n3Q4z"
-    },
-    {
-      "added_at": "2024-06-03 14:49:59",
-      "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/1pjFUrcV77wbRBNpTRMlRc"
-      },
-      "artists": [
-        {
-          "name": "The Marvelettes",
-          "url": "https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH"
-        }
-      ],
-      "duration_ms": 149293,
-      "name": "Please Mr. Postman - Single Version / Mono",
-      "url": "https://open.spotify.com/track/6aTeoDQaHkkpzhI1bDcmdJ"
     },
     {
       "added_at": "2024-06-03 14:49:59",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-06-03 14:49:59",
       "album": {
-        "name": "Where Did Our Love Go: 40th Anniversary Edition",
-        "url": "https://open.spotify.com/album/3W2FhBKieLAcrS4e9SHtr6"
-      },
-      "artists": [
-        {
-          "name": "The Supremes",
-          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
-        }
-      ],
-      "duration_ms": 151440,
-      "name": "Where Did Our Love Go - Stereo Version",
-      "url": "https://open.spotify.com/track/6yz8hKpO3s2byra8Et3w9x"
-    },
-    {
-      "added_at": "2024-06-03 14:49:59",
-      "album": {
         "name": "The Extraordinary",
         "url": "https://open.spotify.com/album/02uBH1eZ0GQRYw9GoE9Oiu"
       },
@@ -1079,18 +1063,34 @@
     {
       "added_at": "2024-06-03 14:49:59",
       "album": {
-        "name": "Build Me Up Buttercup",
-        "url": "https://open.spotify.com/album/0AFXSZYiYyggIkcYW5GK0x"
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/1pjFUrcV77wbRBNpTRMlRc"
       },
       "artists": [
         {
-          "name": "The Foundations",
-          "url": "https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD"
+          "name": "The Marvelettes",
+          "url": "https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH"
         }
       ],
-      "duration_ms": 178533,
-      "name": "Build Me Up Buttercup",
-      "url": "https://open.spotify.com/track/3XcuLPQb1LG13ZJEEa6wUI"
+      "duration_ms": 149293,
+      "name": "Please Mr. Postman - Single Version / Mono",
+      "url": "https://open.spotify.com/track/6aTeoDQaHkkpzhI1bDcmdJ"
+    },
+    {
+      "added_at": "2024-06-03 14:49:59",
+      "album": {
+        "name": "Where Did Our Love Go: 40th Anniversary Edition",
+        "url": "https://open.spotify.com/album/3W2FhBKieLAcrS4e9SHtr6"
+      },
+      "artists": [
+        {
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+        }
+      ],
+      "duration_ms": 151440,
+      "name": "Where Did Our Love Go - Stereo Version",
+      "url": "https://open.spotify.com/track/6yz8hKpO3s2byra8Et3w9x"
     },
     {
       "added_at": "2024-06-03 14:49:59",
@@ -1230,10 +1230,14 @@
         {
           "name": "Elvis Presley",
           "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
         }
       ],
       "duration_ms": 198600,
-      "name": "Can't Help Falling In Love",
+      "name": "Can't Help Falling In Love - with The Royal Philharmonic Orchestra",
       "url": "https://open.spotify.com/track/6sE53f6saWW6AwB5V8Z47U"
     },
     {

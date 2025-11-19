@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eLc3c.md) - [plain]
 
 > This is Patti Smith\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,076 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,088 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,11 +26,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eLc3c.md) - [plain]
 | 16 | [Changing of the Guards](https://open.spotify.com/track/2NUDgu1fFrFHSKda4IErpr) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Twelve](https://open.spotify.com/album/3hlHi5Mz5hRao09uUvT0ta) | 5:45 |
 | 17 | [Ain't It Strange](https://open.spotify.com/track/4Q0gexDyqLyLHmnktsn0KQ) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Radio Ethiopia](https://open.spotify.com/album/7jmAoRWQ9qUXtRXUOW2agu) | 6:36 |
 | 18 | [25th Floor](https://open.spotify.com/track/4juJw163tH0zGCptRcoTM4) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Easter](https://open.spotify.com/album/1p6cWoueuunhpgy6131zAd) | 4:03 |
-| 19 | [Kimberly](https://open.spotify.com/track/0iI8LriXKjg47IxjNCWuwz) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Horses \(Legacy Edition\)](https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6) | 4:25 |
+| 19 | [Birdland](https://open.spotify.com/track/0imH2Uj2Vbxjl8QekmZHE2) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Horses](https://open.spotify.com/album/0OeuSeP8wp8n8OuTqYb61C) | 9:15 |
 | 20 | [Pastime Paradise](https://open.spotify.com/track/3aT5zZz6FEtWAGDRJy7t8j) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Twelve](https://open.spotify.com/album/3hlHi5Mz5hRao09uUvT0ta) | 5:24 |
 | 21 | [Ask the Angels](https://open.spotify.com/track/6BmAr1i0Jnk8ztzRVQHyEi) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Radio Ethiopia](https://open.spotify.com/album/7jmAoRWQ9qUXtRXUOW2agu) | 3:09 |
 | 22 | [Ghost Dance](https://open.spotify.com/track/3JRoZqOoTuQu6pI1prK7QC) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Easter](https://open.spotify.com/album/1p6cWoueuunhpgy6131zAd) | 4:43 |
-| 23 | [Birdland](https://open.spotify.com/track/0imH2Uj2Vbxjl8QekmZHE2) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Horses](https://open.spotify.com/album/0OeuSeP8wp8n8OuTqYb61C) | 9:15 |
+| 23 | [Kimberly](https://open.spotify.com/track/0iI8LriXKjg47IxjNCWuwz) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Horses \(Legacy Edition\)](https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6) | 4:25 |
 | 24 | [Everybody Wants to Rule the World](https://open.spotify.com/track/4LXwDXCJnTPoWexw3BJFVZ) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Twelve](https://open.spotify.com/album/3hlHi5Mz5hRao09uUvT0ta) | 4:03 |
 | 25 | [April Fool](https://open.spotify.com/track/53eJ84ALjlKpU2A2OpohCN) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Banga](https://open.spotify.com/album/67epO9J9KoY8KSFA4xC4kA) | 3:47 |
 | 26 | [Till Victory](https://open.spotify.com/track/0ykdasEHKPJbVFYUibtaap) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Easter](https://open.spotify.com/album/1p6cWoueuunhpgy6131zAd) | 2:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eLc3c.md) - [plain]
 | 49 | [These Are The Words \- From "Pope Francis: A Man of His Word"](https://open.spotify.com/track/4VA2oV0FfcpaAowScXnR18) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [These Are The Words \(From "Pope Francis: A Man of His Word"\)](https://open.spotify.com/album/2fXB301xeX4kcuMd4lD5x6) | 4:25 |
 | 50 | [This Is the Girl](https://open.spotify.com/track/3aDLTIgOoi21boHt8KXIKB) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Banga](https://open.spotify.com/album/67epO9J9KoY8KSFA4xC4kA) | 3:49 |
 
-Snapshot ID: `aRkUAAAAAAAjVCyj8s/lRx8Eh1v9GxCq`
+Snapshot ID: `aRplgAAAAABQGG0hiCiajowGn3pFRjmX`

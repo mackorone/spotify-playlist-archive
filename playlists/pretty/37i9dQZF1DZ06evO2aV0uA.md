@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2aV0uA.md) - [plain]
 
 > This is Lamb of God\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,721 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,736 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Laid to Rest](https://open.spotify.com/track/4VdQBhm4dnvBPgZfFNjSzH) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Ashes of the Wake \(20th Anniversary Edition\)](https://open.spotify.com/album/7CwtVHoJ9cl6YEQjsSeEca) | 3:50 |
 | 2 | [Redneck](https://open.spotify.com/track/1WZVnw0YWc7OLkVijEargx) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Sacrament \(15th Anniversary Edition\)](https://open.spotify.com/album/1PJtQrmYNraIeTjapfuYcf) | 3:40 |
-| 3 | [Sepsis](https://open.spotify.com/track/3ScIZdvkqGTrhW4hZDIL00) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Sepsis](https://open.spotify.com/album/3M2vuwAY3UtNNvGiclTR7V) | 3:38 |
-| 4 | [Memento Mori](https://open.spotify.com/track/5I29F9GR0OkaU1nuxp9hU8) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Lamb of God](https://open.spotify.com/album/34Y9ZcZ4b3WGbhx66zS0QV) | 5:48 |
+| 3 | [Memento Mori](https://open.spotify.com/track/5I29F9GR0OkaU1nuxp9hU8) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Lamb of God](https://open.spotify.com/album/34Y9ZcZ4b3WGbhx66zS0QV) | 5:48 |
+| 4 | [Sepsis](https://open.spotify.com/track/3ScIZdvkqGTrhW4hZDIL00) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Sepsis](https://open.spotify.com/album/3M2vuwAY3UtNNvGiclTR7V) | 3:38 |
 | 5 | [Now You've Got Something to Die For](https://open.spotify.com/track/53CYNxzR49G438rPaKFOIp) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Ashes of the Wake \(20th Anniversary Edition\)](https://open.spotify.com/album/7CwtVHoJ9cl6YEQjsSeEca) | 3:39 |
 | 6 | [Walk with Me In Hell](https://open.spotify.com/track/0Aq5S8Did22z1YrpO7MJIG) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Sacrament \(15th Anniversary Edition\)](https://open.spotify.com/album/1PJtQrmYNraIeTjapfuYcf) | 5:11 |
 | 7 | [512](https://open.spotify.com/track/1WWq2DUV0UbO4XJda2usuv) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [VII: Sturm und Drang](https://open.spotify.com/album/3MnHIi1Nbk2TaHSE2dMVM0) | 4:44 |
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2aV0uA.md) - [plain]
 | 22 | [Floods of Triton](https://open.spotify.com/track/08IpZZZPvzDMED3oq9F8Or) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT), [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Floods of Triton](https://open.spotify.com/album/3Cyx76Qa9H1lFjOM7yRqSp) | 4:29 |
 | 23 | [Again We Rise](https://open.spotify.com/track/5wYpug3WCxliMt9WDa8WvU) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Sacrament \(15th Anniversary Edition\)](https://open.spotify.com/album/1PJtQrmYNraIeTjapfuYcf) | 4:30 |
 | 24 | [Set To Fail](https://open.spotify.com/track/4MMGq2YxRFyMMUhxaAQdQs) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath \(Special Edition\)](https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU) | 3:46 |
-| 25 | [Resurrection Man](https://open.spotify.com/track/53xXTqz8QfadLsXbs411si) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Lamb of God](https://open.spotify.com/album/34Y9ZcZ4b3WGbhx66zS0QV) | 4:59 |
-| 26 | [Vigil](https://open.spotify.com/track/77XOYoYeK1CoTfnKUIXTjk) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [As The Palaces Burn](https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa) | 4:43 |
+| 25 | [Vigil](https://open.spotify.com/track/77XOYoYeK1CoTfnKUIXTjk) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [As The Palaces Burn](https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa) | 4:43 |
+| 26 | [Resurrection Man](https://open.spotify.com/track/53xXTqz8QfadLsXbs411si) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Lamb of God](https://open.spotify.com/album/34Y9ZcZ4b3WGbhx66zS0QV) | 4:59 |
 | 27 | [Omens](https://open.spotify.com/track/2calJdlU1JseiOf7c5jXwP) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Omens](https://open.spotify.com/album/2lq8ePf2hVkaBohPPwrwJc) | 3:47 |
 | 28 | [Desolation](https://open.spotify.com/track/7siSMBw1wFPPBNoBtXNzMb) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Resolution](https://open.spotify.com/album/5rMKS2tqK818wfwr4zWQzX) | 3:54 |
 | 29 | [Grace](https://open.spotify.com/track/3A5zeEH2eLW3uMYXoBj9Tq) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath \(Special Edition\)](https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU) | 3:56 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2aV0uA.md) - [plain]
 | 46 | [Purified](https://open.spotify.com/track/1cQS0BcV8HIVSWLeWunEp4) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [As The Palaces Burn](https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa) | 3:10 |
 | 47 | [Grayscale](https://open.spotify.com/track/2Uyda5UuQnxkdYkECw3F8C) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Omens](https://open.spotify.com/album/2lq8ePf2hVkaBohPPwrwJc) | 3:59 |
 | 48 | [Broken Hands](https://open.spotify.com/track/3WJaypEGPAc0GH4l9ouoww) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath \(Special Edition\)](https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU) | 3:53 |
-| 49 | [Ghost Shaped People](https://open.spotify.com/track/6gq5YInoFxEUT13bzu9DyC) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Lamb of God \(Deluxe Version\)](https://open.spotify.com/album/13oFnEbK6yXLZBLm1rMqzE) | 4:05 |
-| 50 | [Reality Bath](https://open.spotify.com/track/0GwyDNEcUavoLYdK0oDDSI) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Lamb of God](https://open.spotify.com/album/34Y9ZcZ4b3WGbhx66zS0QV) | 4:32 |
+| 49 | [Reality Bath](https://open.spotify.com/track/0GwyDNEcUavoLYdK0oDDSI) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Lamb of God](https://open.spotify.com/album/34Y9ZcZ4b3WGbhx66zS0QV) | 4:32 |
+| 50 | [Ghost Shaped People](https://open.spotify.com/track/6gq5YInoFxEUT13bzu9DyC) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Lamb of God \(Deluxe Version\)](https://open.spotify.com/album/13oFnEbK6yXLZBLm1rMqzE) | 4:05 |
 
-Snapshot ID: `aRkUAAAAAACCcWv3Id0YHrdcV2MlXyzj`
+Snapshot ID: `aRplgAAAAABz/g5yiRmrNClG5FB91+67`

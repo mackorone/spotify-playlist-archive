@@ -4,7 +4,7 @@
 
 > 
 
-2,673 songs - 5 day 19 hr 20 min
+2,674 songs - 5 day 19 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2455,6 +2455,7 @@
 | [UFO](https://open.spotify.com/track/7jbTH07TjX0z7vOalgaTC3) | [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7), [Eggedd](https://open.spotify.com/artist/0c41gp29ZkkV0ty4CGZ5SL) | [UFO](https://open.spotify.com/album/39iWjXVCRemwArmM9D1mBQ) | 4:22 | 2023-05-20 |  |
 | [UFO](https://open.spotify.com/track/0PujXK4qkWx1TwpNzQuCCP) | [Little Sis Nora](https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9), [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2) | [UFO](https://open.spotify.com/album/41bLs9vO65L6zKetSZUfPQ) | 2:52 | 2023-06-02 |  |
 | [Ultimate Feeling](https://open.spotify.com/track/2O5eWDf48yznxgHZ6As1Ng) | [Ultimacy](https://open.spotify.com/artist/5MhOTGE7F2ox8OGiKe5N8K) | [Ultimate Feeling](https://open.spotify.com/album/6P4sKKambYMyWEjZWPxX3m) | 2:01 | 2025-05-28 |  |
+| [Ultimate Hyper Lv.100](https://open.spotify.com/track/76JVfYDJWWs93uGsd01ZO9) | [DJ Genki](https://open.spotify.com/artist/787mj6iFvEpBBuQQRDdMXB) | [Ultimate Hyper Lv.100](https://open.spotify.com/album/312wCVUx0ZuGh5lKcokZ50) | 2:33 | 2025-11-18 |  |
 | [Umbrella \- Sped Up](https://open.spotify.com/track/0sIsbU5G0qGjzeD8T4roZ2) | [MELON](https://open.spotify.com/artist/12nEr6QOfSKkiTXjEp8tBB), [Thyron](https://open.spotify.com/artist/75jOSvJYkVT21xz5yll1xM), [Hardstyle Fruits Music](https://open.spotify.com/artist/5EkNG5Mzk2KopyyxAdNHJ8) | [Umbrella](https://open.spotify.com/album/4ajrO7sxPO3dal6RIpJTva) | 3:20 | 2023-04-23 |  |
 | [Unbreakable](https://open.spotify.com/track/1G0Kd7ry0POdfjZjJNYmon) | [Sunhiausa](https://open.spotify.com/artist/1qDgh7C7FRYAln38RsYZ0x) | [Unbreakable](https://open.spotify.com/album/3l1FWykTW8MYAvQHw3igJ0) | 3:30 | 2024-11-22 |  |
 | [Unbroken Vision](https://open.spotify.com/track/2SRObBpu5YLgoouzUepQkV) | [USAO](https://open.spotify.com/artist/25iPl8VJFDu38JMFF6uMXI) | [Unbroken Vision](https://open.spotify.com/album/3n8wZPHQsBx2VQyj5qI8ZC) | 2:48 | 2024-10-11 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-29",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIZMGq5iNDWIK>Eminem</a>, <a href=spotify:playlist:37i9dQZF1EIUY5V9mnUM6w>Junior H</a>, <a href=spotify:playlist:37i9dQZF1EIXya8JbQtUVN>Gracie Abrams</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIV1hAnuH1ilI>Justin Bieber</a>, <a href=spotify:playlist:37i9dQZF1EIYcZwbbjckJd>Radiohead</a>, <a href=spotify:playlist:37i9dQZF1EIZMGq5iNDWIK>Eminem</a> and more",
   "name": "Moody Mix",
   "tracks": [
     {
@@ -5606,7 +5606,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 157146,
       "name": "I Love You, I'm Sorry",
       "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
@@ -7896,10 +7896,28 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-28",
+      "date_removed": null,
       "duration_ms": 263373,
       "name": "Love The Way You Lie",
       "url": "https://open.spotify.com/track/15JINEqzVMv3SvJTAXAKED"
+    },
+    {
+      "album": {
+        "name": "Purpose (Deluxe)",
+        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2025-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233720,
+      "name": "Love Yourself",
+      "url": "https://open.spotify.com/track/50kpGaPAhYJ3sGmk6vplg0"
     },
     {
       "album": {
@@ -8312,7 +8330,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 226035,
       "name": "MIENTRAS DUERMES",
       "url": "https://open.spotify.com/track/4e76Ss3ji7HQZ4qwcPNkNA"
@@ -8406,7 +8424,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 250760,
       "name": "Mockingbird",
       "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
@@ -8922,7 +8940,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-09",
+      "date_removed": null,
       "duration_ms": 229120,
       "name": "No Surprises",
       "url": "https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB"
@@ -12847,7 +12865,7 @@
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 208826,
+      "duration_ms": 208864,
       "name": "Train Wreck",
       "url": "https://open.spotify.com/track/55Am8neGJkdj2ADaM3aw5H"
     },

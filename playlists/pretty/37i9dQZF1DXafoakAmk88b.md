@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 
 > New indie from black artists driving the current\. Cover: John Glacier
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,589 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,588 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,11 +31,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 | 21 | [Sunday](https://open.spotify.com/track/4J95y5Goj21bbI5H0VDvLZ) | [Annahstasia](https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE) | [Surface Tension](https://open.spotify.com/album/632eFniptp1u6saHBEN06y) | 4:01 |
 | 22 | [The Rest Of Me](https://open.spotify.com/track/4xyZ8TMuWWlSCN3NRUsOCq) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [The Rest Of Me](https://open.spotify.com/album/3JZctelEqYNf7zNBiMQuXh) | 3:50 |
 | 23 | [act viii: i hate to be alone](https://open.spotify.com/track/1jIu9uVVYaP3x09HLjikQ3) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [u made me a st4r](https://open.spotify.com/album/49JXgb1wGpDCdhnHglwpqr) | 2:47 |
-| 24 | [hunting days](https://open.spotify.com/track/6zsCOSqaG0QiWoTqJkRpEG) | [Khatumu](https://open.spotify.com/artist/4UKSvoK7sV3294V39V0pfu) | [hunting days](https://open.spotify.com/album/28EWTxtGcRWPPbSfacYr7H) | 3:32 |
+| 24 | [With Only Your Mouth](https://open.spotify.com/track/7cpQwNcUnqqzIRCluyD4ry) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [With Only Your Mouth](https://open.spotify.com/album/3in3hrBp5PsAjMngNXVmPB) | 3:03 |
 | 25 | [Babylon](https://open.spotify.com/track/4KnEBw94WkGhtdcZ5tTXwC) | [Cola Boyy](https://open.spotify.com/artist/6CZN3MHeeEXh5PxKZivIa8) | [Quit to Play Chess](https://open.spotify.com/album/255ea4BNBkMKULxcVZICeO) | 3:06 |
 | 26 | [Sober](https://open.spotify.com/track/7mZcHbpk2U6nZimDW4okd2) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Sober](https://open.spotify.com/album/0F6zv5oKgDzgI4NSDago87) | 3:41 |
 | 27 | [SCREAM MY NAME](https://open.spotify.com/track/6V9FSNT1V3LceWw9TjlXRg) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [DISTRACTION / SCREAM MY NAME](https://open.spotify.com/album/4eeDjxrPJQQHv150OiVedy) | 2:40 |
-| 28 | [With Only Your Mouth](https://open.spotify.com/track/7cpQwNcUnqqzIRCluyD4ry) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [With Only Your Mouth](https://open.spotify.com/album/3in3hrBp5PsAjMngNXVmPB) | 3:03 |
+| 28 | [hunting days](https://open.spotify.com/track/6zsCOSqaG0QiWoTqJkRpEG) | [Khatumu](https://open.spotify.com/artist/4UKSvoK7sV3294V39V0pfu) | [hunting days](https://open.spotify.com/album/28EWTxtGcRWPPbSfacYr7H) | 3:32 |
 | 29 | [Hello, Hi](https://open.spotify.com/track/3zIqekohxiaS4HF79pxHzt) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Hello, Hi](https://open.spotify.com/album/10HfbJ0arWU8m6YOg85Q9y) | 2:15 |
 | 30 | [Sweetie](https://open.spotify.com/track/5rffvBl5fCAGCW6hdTZ3q9) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Sweetie](https://open.spotify.com/album/0vDhIEFfkP8uURlzIdBi36) | 4:04 |
 | 31 | [Let Me Be Wrong](https://open.spotify.com/track/7iueQDyeYZRXZc4DYYAwDw) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [I Don't Know How But They Found Me!](https://open.spotify.com/album/61pSh8kSiqdyoTgDbaPG8h) | 2:36 |

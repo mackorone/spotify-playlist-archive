@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Norway.",
-  "num_followers": 542986,
+  "num_followers": 542989,
   "original_name": "Top 50 - Norway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MK6R+AAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MK/jeAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-11-17 16:19:09",
+      "added_at": "2025-11-18 14:22:23",
       "album": {
         "name": "The Life of a Showgirl",
         "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
@@ -25,7 +25,55 @@
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
     },
     {
-      "added_at": "2025-11-17 16:19:09",
+      "added_at": "2025-11-18 14:22:23",
+      "album": {
+        "name": "Valget \u00e5 g\u00e5, og vi gikk",
+        "url": "https://open.spotify.com/album/2h2KURYW7u2ja9AAJstTdK"
+      },
+      "artists": [
+        {
+          "name": "Ari Bajgora",
+          "url": "https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD"
+        }
+      ],
+      "duration_ms": 200693,
+      "name": "Mari&Hannah",
+      "url": "https://open.spotify.com/track/1dPZDS1N5YIGBzhD1UReoJ"
+    },
+    {
+      "added_at": "2025-11-18 14:22:23",
+      "album": {
+        "name": "ingenting er magisk",
+        "url": "https://open.spotify.com/album/4uAID7XcGNdxLJJC0BkOtd"
+      },
+      "artists": [
+        {
+          "name": "Ram\u00f3n",
+          "url": "https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL"
+        }
+      ],
+      "duration_ms": 216672,
+      "name": "ingenting er magisk",
+      "url": "https://open.spotify.com/track/1aKVPi9doltHZd1AxgzrYW"
+    },
+    {
+      "added_at": "2025-11-18 14:22:23",
+      "album": {
+        "name": "Siste Dans (fra Sn\u00f8s\u00f8steren)",
+        "url": "https://open.spotify.com/album/6G4GX3mlwWrPWqBy9Vm5vz"
+      },
+      "artists": [
+        {
+          "name": "Delara",
+          "url": "https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg"
+        }
+      ],
+      "duration_ms": 218030,
+      "name": "Siste Dans - fra Sn\u00f8s\u00f8steren",
+      "url": "https://open.spotify.com/track/6YSq1MHTG61D0p489GqcLA"
+    },
+    {
+      "added_at": "2025-11-18 14:22:23",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -57,55 +105,7 @@
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
     },
     {
-      "added_at": "2025-11-17 16:19:09",
-      "album": {
-        "name": "Valget \u00e5 g\u00e5, og vi gikk",
-        "url": "https://open.spotify.com/album/2h2KURYW7u2ja9AAJstTdK"
-      },
-      "artists": [
-        {
-          "name": "Ari Bajgora",
-          "url": "https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD"
-        }
-      ],
-      "duration_ms": 200693,
-      "name": "Mari&Hannah",
-      "url": "https://open.spotify.com/track/1dPZDS1N5YIGBzhD1UReoJ"
-    },
-    {
-      "added_at": "2025-11-17 16:19:09",
-      "album": {
-        "name": "ingenting er magisk",
-        "url": "https://open.spotify.com/album/4uAID7XcGNdxLJJC0BkOtd"
-      },
-      "artists": [
-        {
-          "name": "Ram\u00f3n",
-          "url": "https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL"
-        }
-      ],
-      "duration_ms": 216672,
-      "name": "ingenting er magisk",
-      "url": "https://open.spotify.com/track/1aKVPi9doltHZd1AxgzrYW"
-    },
-    {
-      "added_at": "2025-11-17 16:19:09",
-      "album": {
-        "name": "Siste Dans (fra Sn\u00f8s\u00f8steren)",
-        "url": "https://open.spotify.com/album/6G4GX3mlwWrPWqBy9Vm5vz"
-      },
-      "artists": [
-        {
-          "name": "Delara",
-          "url": "https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg"
-        }
-      ],
-      "duration_ms": 218030,
-      "name": "Siste Dans - fra Sn\u00f8s\u00f8steren",
-      "url": "https://open.spotify.com/track/6YSq1MHTG61D0p489GqcLA"
-    },
-    {
-      "added_at": "2025-11-17 16:19:09",
+      "added_at": "2025-11-18 14:22:23",
       "album": {
         "name": "Man I Need",
         "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
@@ -121,39 +121,7 @@
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
     },
     {
-      "added_at": "2025-11-17 16:19:09",
-      "album": {
-        "name": "Merry Christmas",
-        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 241106,
-      "name": "All I Want for Christmas Is You",
-      "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
-    },
-    {
-      "added_at": "2025-11-17 16:19:09",
-      "album": {
-        "name": "Everyday Is Christmas (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 165900,
-      "name": "Snowman",
-      "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
-    },
-    {
-      "added_at": "2025-11-17 16:19:09",
+      "added_at": "2025-11-18 14:22:23",
       "album": {
         "name": "WHERE IS MY HUSBAND!",
         "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
@@ -169,39 +137,7 @@
       "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
     },
     {
-      "added_at": "2025-11-17 16:19:09",
-      "album": {
-        "name": "You'll Be Alright, Kid (Chapter 1)",
-        "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 186964,
-      "name": "Ordinary",
-      "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
-    },
-    {
-      "added_at": "2025-11-17 16:19:09",
-      "album": {
-        "name": "LAST CHRISTMAS",
-        "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
-      },
-      "artists": [
-        {
-          "name": "Wham!",
-          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
-        }
-      ],
-      "duration_ms": 262960,
-      "name": "Last Christmas",
-      "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
-    },
-    {
-      "added_at": "2025-11-17 16:19:09",
+      "added_at": "2025-11-18 14:22:23",
       "album": {
         "name": "Valget \u00e5 g\u00e5, og vi gikk",
         "url": "https://open.spotify.com/album/2h2KURYW7u2ja9AAJstTdK"
@@ -217,7 +153,55 @@
       "url": "https://open.spotify.com/track/3YJA6qP1OMqMTfGxznhpAR"
     },
     {
-      "added_at": "2025-11-17 16:19:09",
+      "added_at": "2025-11-18 14:22:23",
+      "album": {
+        "name": "Everyday Is Christmas (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 165900,
+      "name": "Snowman",
+      "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
+    },
+    {
+      "added_at": "2025-11-18 14:22:23",
+      "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 241562,
+      "name": "All I Want for Christmas Is You",
+      "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
+    },
+    {
+      "added_at": "2025-11-18 14:22:23",
+      "album": {
+        "name": "You'll Be Alright, Kid (Chapter 1)",
+        "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 186964,
+      "name": "Ordinary",
+      "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
+    },
+    {
+      "added_at": "2025-11-18 14:22:23",
       "album": {
         "name": "N\u00e5r Sn\u00f8en Smelter (fra Tre n\u00f8tter til Askepott)",
         "url": "https://open.spotify.com/album/7a7Y8R2hG0WJrcziQFvAoL"
@@ -233,7 +217,23 @@
       "url": "https://open.spotify.com/track/0M3G7kxxZt2W1T3PH97iXd"
     },
     {
-      "added_at": "2025-11-17 16:19:09",
+      "added_at": "2025-11-18 14:22:23",
+      "album": {
+        "name": "LAST CHRISTMAS",
+        "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "duration_ms": 262960,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
+    },
+    {
+      "added_at": "2025-11-18 14:22:23",
       "album": {
         "name": "Tobias Sten",
         "url": "https://open.spotify.com/album/6I1HbLIOKk2yrM6zlR7yuH"
@@ -249,23 +249,7 @@
       "url": "https://open.spotify.com/track/1hdy7Ve9G9RBHas7kWegk6"
     },
     {
-      "added_at": "2025-11-17 16:19:09",
-      "album": {
-        "name": "The Art of Loving",
-        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "So Easy (To Fall In Love)",
-      "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
-    },
-    {
-      "added_at": "2025-11-17 16:19:09",
+      "added_at": "2025-11-18 14:22:23",
       "album": {
         "name": "I Barely Know Her",
         "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
@@ -281,39 +265,119 @@
       "url": "https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W"
     },
     {
-      "added_at": "2025-11-17 16:19:09",
+      "added_at": "2025-11-18 14:22:23",
       "album": {
-        "name": "Christmas",
-        "url": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
+        "name": "The Art of Loving",
+        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
       },
       "artists": [
         {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
         }
       ],
-      "duration_ms": 206639,
-      "name": "It's Beginning to Look a Lot like Christmas",
-      "url": "https://open.spotify.com/track/0lLdorYw7lVrJydTINhWdI"
+      "duration_ms": 169000,
+      "name": "So Easy (To Fall In Love)",
+      "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
     },
     {
-      "added_at": "2025-11-17 16:19:09",
+      "added_at": "2025-11-18 14:22:23",
       "album": {
-        "name": "Selmas sang (fra Sn\u00f8fall)",
-        "url": "https://open.spotify.com/album/4a9b5TzhjKPXURJkODS5BJ"
+        "name": "GOLF",
+        "url": "https://open.spotify.com/album/2ZTc5n62uK6TjSbpURO5Me"
       },
       "artists": [
         {
-          "name": "Eva Weel Skram",
-          "url": "https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3"
+          "name": "GOLF",
+          "url": "https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm"
         }
       ],
-      "duration_ms": 208427,
-      "name": "Selmas sang (fra Sn\u00f8fall)",
-      "url": "https://open.spotify.com/track/0PRX6CXffB3cARlzNCkmR4"
+      "duration_ms": 174857,
+      "name": "Juniregnet",
+      "url": "https://open.spotify.com/track/7iZHA1WIBbDER2YvheX0kP"
     },
     {
-      "added_at": "2025-11-17 16:19:09",
+      "added_at": "2025-11-18 14:22:23",
+      "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 200646,
+      "name": "Lush Life",
+      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
+    },
+    {
+      "added_at": "2025-11-18 14:22:23",
+      "album": {
+        "name": "Maskulin",
+        "url": "https://open.spotify.com/album/1yyhzVZMl7jRc8bHaRTKxX"
+      },
+      "artists": [
+        {
+          "name": "Ylva",
+          "url": "https://open.spotify.com/artist/3BLtF1cfHaJ98drJiRefIG"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "Maskulin",
+      "url": "https://open.spotify.com/track/771dXT0ppsiSU8frVIDWJL"
+    },
+    {
+      "added_at": "2025-11-18 14:22:23",
+      "album": {
+        "name": "Fireworks & Rollerblades",
+        "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 180304,
+      "name": "Beautiful Things",
+      "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
+    },
+    {
+      "added_at": "2025-11-18 14:22:23",
+      "album": {
+        "name": "Valget \u00e5 g\u00e5, og vi gikk",
+        "url": "https://open.spotify.com/album/2h2KURYW7u2ja9AAJstTdK"
+      },
+      "artists": [
+        {
+          "name": "Ari Bajgora",
+          "url": "https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD"
+        }
+      ],
+      "duration_ms": 158186,
+      "name": "Dopamin",
+      "url": "https://open.spotify.com/track/3JKnwr5Wf6z3ULEqwjphM2"
+    },
+    {
+      "added_at": "2025-11-18 14:22:23",
+      "album": {
+        "name": "I Barely Know Her",
+        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 199032,
+      "name": "back to friends",
+      "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
+    },
+    {
+      "added_at": "2025-11-18 14:22:23",
       "album": {
         "name": "Alle vil til himmelen",
         "url": "https://open.spotify.com/album/4vzLkPviZltNi8oI7F6e2Z"
@@ -333,55 +397,23 @@
       "url": "https://open.spotify.com/track/2HrQbrT7N3VcV3PmZIy9Wq"
     },
     {
-      "added_at": "2025-11-17 16:19:09",
+      "added_at": "2025-11-18 14:22:23",
       "album": {
-        "name": "GOLF",
-        "url": "https://open.spotify.com/album/2ZTc5n62uK6TjSbpURO5Me"
+        "name": "Inferno",
+        "url": "https://open.spotify.com/album/0Pkg2U6eM9f15PN9ZXefNq"
       },
       "artists": [
         {
-          "name": "GOLF",
-          "url": "https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm"
+          "name": "Petra Marklund",
+          "url": "https://open.spotify.com/artist/2ZX1rncu0C7WOuSFC1aEbh"
         }
       ],
-      "duration_ms": 174857,
-      "name": "Juniregnet",
-      "url": "https://open.spotify.com/track/7iZHA1WIBbDER2YvheX0kP"
+      "duration_ms": 237813,
+      "name": "H\u00e4nderna mot himlen",
+      "url": "https://open.spotify.com/track/14AJI1RloVWTh8bJe9gBPM"
     },
     {
-      "added_at": "2025-11-17 16:19:09",
-      "album": {
-        "name": "Maskulin",
-        "url": "https://open.spotify.com/album/1yyhzVZMl7jRc8bHaRTKxX"
-      },
-      "artists": [
-        {
-          "name": "Ylva",
-          "url": "https://open.spotify.com/artist/3BLtF1cfHaJ98drJiRefIG"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "Maskulin",
-      "url": "https://open.spotify.com/track/771dXT0ppsiSU8frVIDWJL"
-    },
-    {
-      "added_at": "2025-11-17 16:19:09",
-      "album": {
-        "name": "I Barely Know Her",
-        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 199032,
-      "name": "back to friends",
-      "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
-    },
-    {
-      "added_at": "2025-11-17 16:19:09",
+      "added_at": "2025-11-18 14:22:23",
       "album": {
         "name": "Tobias Sten",
         "url": "https://open.spotify.com/album/6I1HbLIOKk2yrM6zlR7yuH"
@@ -397,23 +429,23 @@
       "url": "https://open.spotify.com/track/5iw7PzTQdsg2FVhR14cgGw"
     },
     {
-      "added_at": "2025-11-17 16:19:09",
+      "added_at": "2025-11-18 14:22:23",
       "album": {
-        "name": "Valget \u00e5 g\u00e5, og vi gikk",
-        "url": "https://open.spotify.com/album/2h2KURYW7u2ja9AAJstTdK"
+        "name": "Selmas sang (fra Sn\u00f8fall)",
+        "url": "https://open.spotify.com/album/4a9b5TzhjKPXURJkODS5BJ"
       },
       "artists": [
         {
-          "name": "Ari Bajgora",
-          "url": "https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD"
+          "name": "Eva Weel Skram",
+          "url": "https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3"
         }
       ],
-      "duration_ms": 158186,
-      "name": "Dopamin",
-      "url": "https://open.spotify.com/track/3JKnwr5Wf6z3ULEqwjphM2"
+      "duration_ms": 208427,
+      "name": "Selmas sang (fra Sn\u00f8fall)",
+      "url": "https://open.spotify.com/track/0PRX6CXffB3cARlzNCkmR4"
     },
     {
-      "added_at": "2025-11-17 16:19:09",
+      "added_at": "2025-11-18 14:22:23",
       "album": {
         "name": "Jeg skal finne deg",
         "url": "https://open.spotify.com/album/0Gb1gTcfo63M5zYJHGfZVK"
@@ -429,27 +461,7 @@
       "url": "https://open.spotify.com/track/5kBLY1qUXU2RVWtkil2Thh"
     },
     {
-      "added_at": "2025-11-17 16:19:09",
-      "album": {
-        "name": "Klokkene kallar",
-        "url": "https://open.spotify.com/album/2h8WBOXsRMMdiYqxNyjvXL"
-      },
-      "artists": [
-        {
-          "name": "Ingebj\u00f8rg Bratland",
-          "url": "https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C"
-        },
-        {
-          "name": "Ina Svenningdal",
-          "url": "https://open.spotify.com/artist/5yIIaTNUpUuzW0eP4Rfjo3"
-        }
-      ],
-      "duration_ms": 216080,
-      "name": "Jul i svingen",
-      "url": "https://open.spotify.com/track/0fKwOY2Z6oB9ntoNDR13nP"
-    },
-    {
-      "added_at": "2025-11-17 16:19:09",
+      "added_at": "2025-11-18 14:22:23",
       "album": {
         "name": "Tobias Sten (Utvida)",
         "url": "https://open.spotify.com/album/2amxjhjDQaFYho4orTUehy"
@@ -469,7 +481,111 @@
       "url": "https://open.spotify.com/track/3eR6Hc3POZkClqpCsUy0qL"
     },
     {
-      "added_at": "2025-11-17 16:19:09",
+      "added_at": "2025-11-18 14:22:23",
+      "album": {
+        "name": "Christmas (Deluxe 10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6UuaXwIIaIaNSGrpPE1vFt"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 207199,
+      "name": "It's Beginning to Look a Lot like Christmas",
+      "url": "https://open.spotify.com/track/3it2BvJfyhPEWF3kD2TZJ1"
+    },
+    {
+      "added_at": "2025-11-18 14:22:23",
+      "album": {
+        "name": "No Broke Boys",
+        "url": "https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N"
+      },
+      "artists": [
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        },
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 163994,
+      "name": "No Broke Boys",
+      "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
+    },
+    {
+      "added_at": "2025-11-18 14:22:23",
+      "album": {
+        "name": "Klokkene kallar",
+        "url": "https://open.spotify.com/album/2h8WBOXsRMMdiYqxNyjvXL"
+      },
+      "artists": [
+        {
+          "name": "Ingebj\u00f8rg Bratland",
+          "url": "https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C"
+        },
+        {
+          "name": "Ina Svenningdal",
+          "url": "https://open.spotify.com/artist/5yIIaTNUpUuzW0eP4Rfjo3"
+        }
+      ],
+      "duration_ms": 216080,
+      "name": "Jul i svingen",
+      "url": "https://open.spotify.com/track/0fKwOY2Z6oB9ntoNDR13nP"
+    },
+    {
+      "added_at": "2025-11-18 14:22:23",
+      "album": {
+        "name": "Deadbeat",
+        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 205308,
+      "name": "Dracula",
+      "url": "https://open.spotify.com/track/1NXbNEAcPvY5G1xvfN57aA"
+    },
+    {
+      "added_at": "2025-11-18 14:22:23",
+      "album": {
+        "name": "American Heart",
+        "url": "https://open.spotify.com/album/3C0QJ1R0T3xX0BUbOZcdCw"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 165746,
+      "name": "Mystical Magical",
+      "url": "https://open.spotify.com/track/2ipIPsgrgd0j2beDf4Ki70"
+    },
+    {
+      "added_at": "2025-11-18 14:22:23",
+      "album": {
+        "name": "Valget \u00e5 g\u00e5, og vi gikk",
+        "url": "https://open.spotify.com/album/2h2KURYW7u2ja9AAJstTdK"
+      },
+      "artists": [
+        {
+          "name": "Ari Bajgora",
+          "url": "https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD"
+        }
+      ],
+      "duration_ms": 208280,
+      "name": "Hvis jeg kunne fly",
+      "url": "https://open.spotify.com/track/53HlIaKfn1wF5BfqwQ5hhV"
+    },
+    {
+      "added_at": "2025-11-18 14:22:23",
       "album": {
         "name": "Have Yourself A Merry Little Christmas",
         "url": "https://open.spotify.com/album/1YbbdbiUKFY5RqIlNrh1Bc"
@@ -489,7 +605,27 @@
       "url": "https://open.spotify.com/track/0WFyQgDzbQCfJuxcHW4Zrt"
     },
     {
-      "added_at": "2025-11-17 16:19:09",
+      "added_at": "2025-11-18 14:22:23",
+      "album": {
+        "name": "Det g\u00e5r bra",
+        "url": "https://open.spotify.com/album/3QIyVTcQmGRyUPjzvw6PwF"
+      },
+      "artists": [
+        {
+          "name": "Julie Bergan",
+          "url": "https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv"
+        },
+        {
+          "name": "Ruben",
+          "url": "https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM"
+        }
+      ],
+      "duration_ms": 197133,
+      "name": "Det g\u00e5r bra",
+      "url": "https://open.spotify.com/track/1a7vBJg7GDMy5ClHexkfvv"
+    },
+    {
+      "added_at": "2025-11-18 14:22:23",
       "album": {
         "name": "Santa Tell Me",
         "url": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97"
@@ -505,23 +641,39 @@
       "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
     },
     {
-      "added_at": "2025-11-17 16:19:09",
+      "added_at": "2025-11-18 14:22:23",
       "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
+        "name": "Dizzy up the Girl",
+        "url": "https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T"
       },
       "artists": [
         {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+          "name": "The Goo Goo Dolls",
+          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
         }
       ],
-      "duration_ms": 200646,
-      "name": "Lush Life",
-      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
+      "duration_ms": 289533,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
     },
     {
-      "added_at": "2025-11-17 16:19:09",
+      "added_at": "2025-11-18 14:22:23",
+      "album": {
+        "name": "American Heart",
+        "url": "https://open.spotify.com/album/3C0QJ1R0T3xX0BUbOZcdCw"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 156582,
+      "name": "Sorry I'm Here For Someone Else",
+      "url": "https://open.spotify.com/track/15zJeVUmKFnbrxm9dxcxYD"
+    },
+    {
+      "added_at": "2025-11-18 14:22:23",
       "album": {
         "name": "Fireworks & Rollerblades",
         "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
@@ -532,12 +684,48 @@
           "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
         }
       ],
-      "duration_ms": 180304,
-      "name": "Beautiful Things",
-      "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
+      "duration_ms": 216410,
+      "name": "In The Stars",
+      "url": "https://open.spotify.com/track/315aBOUD3xtj7sUMXtRgMV"
     },
     {
-      "added_at": "2025-11-17 16:19:09",
+      "added_at": "2025-11-18 14:22:23",
+      "album": {
+        "name": "Valget \u00e5 g\u00e5, og vi gikk",
+        "url": "https://open.spotify.com/album/2h2KURYW7u2ja9AAJstTdK"
+      },
+      "artists": [
+        {
+          "name": "Ari Bajgora",
+          "url": "https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD"
+        },
+        {
+          "name": "Due",
+          "url": "https://open.spotify.com/artist/7yIAX7VC5OTc651ec9XWcx"
+        }
+      ],
+      "duration_ms": 208400,
+      "name": "Walking Dead",
+      "url": "https://open.spotify.com/track/0L3q9BRlKUt2bDIG5sk7EK"
+    },
+    {
+      "added_at": "2025-11-18 14:22:23",
+      "album": {
+        "name": "Tobias Sten (Utvida)",
+        "url": "https://open.spotify.com/album/2amxjhjDQaFYho4orTUehy"
+      },
+      "artists": [
+        {
+          "name": "Tobias Sten",
+          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
+        }
+      ],
+      "duration_ms": 234252,
+      "name": "Hymne",
+      "url": "https://open.spotify.com/track/1r4yk3P9ZO0mYokO58pidh"
+    },
+    {
+      "added_at": "2025-11-18 14:22:23",
       "album": {
         "name": "Friskis",
         "url": "https://open.spotify.com/album/34GDL15iOZdbCknRQjgpGu"
@@ -561,131 +749,7 @@
       "url": "https://open.spotify.com/track/7v9T6N0q35ZwpqdN7Ln2xs"
     },
     {
-      "added_at": "2025-11-17 16:19:09",
-      "album": {
-        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
-      },
-      "artists": [
-        {
-          "name": "Saja Boys",
-          "url": "https://open.spotify.com/artist/0BJ2EjOqcfgFvlZXNKrNbE"
-        },
-        {
-          "name": "Andrew Choi",
-          "url": "https://open.spotify.com/artist/7JBaynR7JFeniONqbnn1U4"
-        },
-        {
-          "name": "Neckwav",
-          "url": "https://open.spotify.com/artist/5bXNU0MAF2HSqyFPhYtscH"
-        },
-        {
-          "name": "Danny Chung",
-          "url": "https://open.spotify.com/artist/11pXvO7wYuzRWYONDOBd33"
-        },
-        {
-          "name": "KEVIN WOO",
-          "url": "https://open.spotify.com/artist/2RYonYiVhhzBz82UFXOvEN"
-        },
-        {
-          "name": "samUIL Lee",
-          "url": "https://open.spotify.com/artist/1eDupbD9kIx8UaZlzcBG5r"
-        },
-        {
-          "name": "KPop Demon Hunters Cast",
-          "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
-        }
-      ],
-      "duration_ms": 150686,
-      "name": "Soda Pop",
-      "url": "https://open.spotify.com/track/02sy7FAs8dkDNYsHp4Ul3f"
-    },
-    {
-      "added_at": "2025-11-17 16:19:09",
-      "album": {
-        "name": "Merry Christmas From Brenda Lee",
-        "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
-      },
-      "artists": [
-        {
-          "name": "Brenda Lee",
-          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
-        }
-      ],
-      "duration_ms": 126266,
-      "name": "Rockin' Around The Christmas Tree",
-      "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
-    },
-    {
-      "added_at": "2025-11-17 16:19:09",
-      "album": {
-        "name": "No Broke Boys",
-        "url": "https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N"
-      },
-      "artists": [
-        {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
-        },
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 163994,
-      "name": "No Broke Boys",
-      "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
-    },
-    {
-      "added_at": "2025-11-17 16:19:09",
-      "album": {
-        "name": "Valget \u00e5 g\u00e5, og vi gikk",
-        "url": "https://open.spotify.com/album/2h2KURYW7u2ja9AAJstTdK"
-      },
-      "artists": [
-        {
-          "name": "Ari Bajgora",
-          "url": "https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD"
-        }
-      ],
-      "duration_ms": 208280,
-      "name": "Hvis jeg kunne fly",
-      "url": "https://open.spotify.com/track/53HlIaKfn1wF5BfqwQ5hhV"
-    },
-    {
-      "added_at": "2025-11-17 16:19:09",
-      "album": {
-        "name": "Inferno",
-        "url": "https://open.spotify.com/album/0Pkg2U6eM9f15PN9ZXefNq"
-      },
-      "artists": [
-        {
-          "name": "Petra Marklund",
-          "url": "https://open.spotify.com/artist/2ZX1rncu0C7WOuSFC1aEbh"
-        }
-      ],
-      "duration_ms": 237813,
-      "name": "H\u00e4nderna mot himlen",
-      "url": "https://open.spotify.com/track/14AJI1RloVWTh8bJe9gBPM"
-    },
-    {
-      "added_at": "2025-11-17 16:19:09",
-      "album": {
-        "name": "Jingle Bell Rock/Captain Santa Claus (And His Reindeer Space Patrol)",
-        "url": "https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT"
-      },
-      "artists": [
-        {
-          "name": "Bobby Helms",
-          "url": "https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC"
-        }
-      ],
-      "duration_ms": 130973,
-      "name": "Jingle Bell Rock",
-      "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
-    },
-    {
-      "added_at": "2025-11-17 16:19:09",
+      "added_at": "2025-11-18 14:22:23",
       "album": {
         "name": "Strange Trails",
         "url": "https://open.spotify.com/album/0Rfqw98N7kZ4qVPGWvt8Gn"
@@ -701,91 +765,23 @@
       "url": "https://open.spotify.com/track/5yJaXWIErrrsjQ3J0eR5aK"
     },
     {
-      "added_at": "2025-11-17 16:19:09",
+      "added_at": "2025-11-18 14:22:23",
       "album": {
-        "name": "Det g\u00e5r bra",
-        "url": "https://open.spotify.com/album/3QIyVTcQmGRyUPjzvw6PwF"
+        "name": "I Barely Know Her",
+        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
       },
       "artists": [
         {
-          "name": "Julie Bergan",
-          "url": "https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv"
-        },
-        {
-          "name": "Ruben",
-          "url": "https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM"
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
         }
       ],
-      "duration_ms": 197133,
-      "name": "Det g\u00e5r bra",
-      "url": "https://open.spotify.com/track/1a7vBJg7GDMy5ClHexkfvv"
+      "duration_ms": 182088,
+      "name": "undressed",
+      "url": "https://open.spotify.com/track/0TFTAtCYhp2tQ9KcJIZb55"
     },
     {
-      "added_at": "2025-11-17 16:19:09",
-      "album": {
-        "name": "Deadbeat",
-        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 205308,
-      "name": "Dracula",
-      "url": "https://open.spotify.com/track/1NXbNEAcPvY5G1xvfN57aA"
-    },
-    {
-      "added_at": "2025-11-17 16:19:09",
-      "album": {
-        "name": "Tobias Sten (Utvida)",
-        "url": "https://open.spotify.com/album/2amxjhjDQaFYho4orTUehy"
-      },
-      "artists": [
-        {
-          "name": "Tobias Sten",
-          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
-        }
-      ],
-      "duration_ms": 234252,
-      "name": "Hymne",
-      "url": "https://open.spotify.com/track/1r4yk3P9ZO0mYokO58pidh"
-    },
-    {
-      "added_at": "2025-11-17 16:19:09",
-      "album": {
-        "name": "Dizzy up the Girl",
-        "url": "https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T"
-      },
-      "artists": [
-        {
-          "name": "The Goo Goo Dolls",
-          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
-        }
-      ],
-      "duration_ms": 289533,
-      "name": "Iris",
-      "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
-    },
-    {
-      "added_at": "2025-11-17 16:19:09",
-      "album": {
-        "name": "Under The Mistletoe (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 182946,
-      "name": "Mistletoe",
-      "url": "https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA"
-    },
-    {
-      "added_at": "2025-11-17 16:19:09",
+      "added_at": "2025-11-18 14:22:23",
       "album": {
         "name": "Just Keep Watching (From F1\u00ae The Movie)",
         "url": "https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY"
@@ -805,92 +801,72 @@
       "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
     },
     {
-      "added_at": "2025-11-17 16:19:09",
+      "added_at": "2025-11-18 14:22:23",
       "album": {
-        "name": "Hey Ho",
-        "url": "https://open.spotify.com/album/4GTqGHsFSHBY1SeMCnvHuE"
+        "name": "Pust i bakken",
+        "url": "https://open.spotify.com/album/7ueGnow0PO4JXVzw6Qz5yr"
       },
       "artists": [
         {
-          "name": "Freddy Kalas",
-          "url": "https://open.spotify.com/artist/2HAShHcL0dMLf1iNzmxTi3"
+          "name": "Streetboys",
+          "url": "https://open.spotify.com/artist/6R3OPXyzteMubaNClGZZDW"
         }
       ],
-      "duration_ms": 174946,
-      "name": "Hey Ho",
-      "url": "https://open.spotify.com/track/73bwhA1NxxkBMJAziBgUnX"
+      "duration_ms": 163624,
+      "name": "Pust i bakken",
+      "url": "https://open.spotify.com/track/22I2nh2M1TkB7OPzTYidIV"
     },
     {
-      "added_at": "2025-11-17 16:19:09",
+      "added_at": "2025-11-18 14:22:23",
       "album": {
-        "name": "I Barely Know Her",
-        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
+        "name": "Alt For Norge",
+        "url": "https://open.spotify.com/album/73ZZN6P6S9fPNUYVhaxeQQ"
       },
       "artists": [
         {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+          "name": "Drillos",
+          "url": "https://open.spotify.com/artist/0gSgXDEsDJj4ZsMclAGjeh"
         }
       ],
-      "duration_ms": 182088,
-      "name": "undressed",
-      "url": "https://open.spotify.com/track/0TFTAtCYhp2tQ9KcJIZb55"
+      "duration_ms": 261333,
+      "name": "Alt For Norge",
+      "url": "https://open.spotify.com/track/3E5IeN5MqUs16rjvMRlaT1"
     },
     {
-      "added_at": "2025-11-17 16:19:09",
+      "added_at": "2025-11-18 14:22:23",
       "album": {
-        "name": "You'll Be Alright, Kid",
-        "url": "https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK"
+        "name": "Fifty Shades Of Treddis",
+        "url": "https://open.spotify.com/album/46IIjov09x9D9fkpbrdvtK"
       },
       "artists": [
         {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 189553,
-      "name": "Eternity",
-      "url": "https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8"
-    },
-    {
-      "added_at": "2025-11-17 16:19:09",
-      "album": {
-        "name": "Valget \u00e5 g\u00e5, og vi gikk",
-        "url": "https://open.spotify.com/album/2h2KURYW7u2ja9AAJstTdK"
-      },
-      "artists": [
-        {
-          "name": "Ari Bajgora",
-          "url": "https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD"
+          "name": "Onkel Petter",
+          "url": "https://open.spotify.com/artist/6d2GY0ewv3sQXA96fP8RPp"
         },
         {
-          "name": "Due",
-          "url": "https://open.spotify.com/artist/7yIAX7VC5OTc651ec9XWcx"
+          "name": "3D",
+          "url": "https://open.spotify.com/artist/37BXAB8Czx0cPCBQ1323qU"
         }
       ],
-      "duration_ms": 208400,
-      "name": "Walking Dead",
-      "url": "https://open.spotify.com/track/0L3q9BRlKUt2bDIG5sk7EK"
+      "duration_ms": 130130,
+      "name": "Fifty Shades Of Treddis",
+      "url": "https://open.spotify.com/track/3A4JcQXUjagm2GzjCu9riD"
     },
     {
-      "added_at": "2025-11-17 16:19:09",
+      "added_at": "2025-11-18 14:22:23",
       "album": {
-        "name": "LENGE LEVE LIVET",
-        "url": "https://open.spotify.com/album/4hka0YqBcLB9uWydvhcx0R"
+        "name": "Merry Christmas From Brenda Lee",
+        "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
       },
       "artists": [
         {
-          "name": "lille Caesar",
-          "url": "https://open.spotify.com/artist/79ydqO3TZ35NwkWtjyvugR"
-        },
-        {
-          "name": "Tobias Sten",
-          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
+          "name": "Brenda Lee",
+          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
         }
       ],
-      "duration_ms": 203693,
-      "name": "hvem kan seile foruten vind?",
-      "url": "https://open.spotify.com/track/5E5GQ6dnxc5PpvMcN9U3fX"
+      "duration_ms": 126266,
+      "name": "Rockin' Around The Christmas Tree",
+      "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
     }
   ],
   "unique_name": "Top 50 - Norway",

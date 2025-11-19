@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbShqaetC9Tw.md) - [plain]
 
 > 새벽 감성\. Issa Vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,359 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,341 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbShqaetC9Tw.md) - [plain]
 | 5 | [Midnight Call](https://open.spotify.com/track/3TssoZ9ii3dhczxLQGjasQ) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Midnight Call](https://open.spotify.com/album/5mYcp0Nf4P1KGFPPA01ARr) | 3:04 |
 | 6 | [Location Unknown ◐ \(feat\. BEKA\) \- Brooklyn Session](https://open.spotify.com/track/43kiDtoYD0nDJYxzQwclpT) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [BEKA](https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A) | [Love Me / Love Me Not \(Sessions\)](https://open.spotify.com/album/74nLAOXgk7p5ujlR5RYZ03) | 5:28 |
 | 7 | [Tomorrow](https://open.spotify.com/track/0g82rF6dlmvvl3wghnvtqE) | [GYE0M](https://open.spotify.com/artist/2nFAl5FcbuagY1zVglLvPc) | [Tomorrow](https://open.spotify.com/album/1GBtFpiUETP72tsSd719Ym) | 3:32 |
-| 8 | [I'd Rather Pretend \(with d4vd\)](https://open.spotify.com/track/1NHflT1W5O7fntEXN9rfe9) | [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK), [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [I'd Rather Pretend \(with d4vd\)](https://open.spotify.com/album/4CDZFVWG65WF44WIMNFw2g) | 3:04 |
+| 8 | [Never Not](https://open.spotify.com/track/1MaQMMOR80DNUWVBM7L9fz) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/2iIqqSVeH04ytD0DIWrrA6) | 3:28 |
 | 9 | [Night within you](https://open.spotify.com/track/4QlGtDYlVWAIiwCNU5f1i3) | [Krr](https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7) | [Night within you](https://open.spotify.com/album/3JkOtuYHXxscyJuYT3k3VL) | 4:14 |
-| 10 | [Never Not](https://open.spotify.com/track/1MaQMMOR80DNUWVBM7L9fz) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/2iIqqSVeH04ytD0DIWrrA6) | 3:28 |
+| 10 | [I'd Rather Pretend \(with d4vd\)](https://open.spotify.com/track/1NHflT1W5O7fntEXN9rfe9) | [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK), [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [I'd Rather Pretend \(with d4vd\)](https://open.spotify.com/album/4CDZFVWG65WF44WIMNFw2g) | 3:04 |
 | 11 | [Lily of The Valley](https://open.spotify.com/track/4gAIUEY7VkeiKQOPwIYaYb) | [DANIEL](https://open.spotify.com/artist/1eZ0sjIrNuSNiZSfjTYgi6) | [Flower](https://open.spotify.com/album/2M7Shx9AkhvDRs33JZR7wx) | 4:57 |
 | 12 | [Wonderful Life](https://open.spotify.com/track/5phSRJKDo1ihkqbwNlSTVp) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [A Wonderful Life](https://open.spotify.com/album/5sjDYH0h22YYNEWiRw9IH5) | 3:48 |
 | 13 | [Dancing In the Rain \- Wendy Wander Remake](https://open.spotify.com/track/0I7cu4uLecf71IpM8Wn10T) | [Wendy Wander](https://open.spotify.com/artist/5YVLwkimiEhl8L409NfySF), [Lacuna](https://open.spotify.com/artist/2FDl06nCrSYpA1n9PLZfen) | [Dancing In the Rain \(Wendy Wander Remake\)](https://open.spotify.com/album/0vORYLctd05d89nCUuwVJ2) | 4:06 |

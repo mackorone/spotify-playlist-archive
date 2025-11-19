@@ -1,6 +1,6 @@
 {
   "description": "The songs of the 1960s that will make you dance all summer long!",
-  "num_followers": 242245,
+  "num_followers": 242261,
   "original_name": "Summer Hits of the 60s",
   "owner": {
     "name": "Spotify",
@@ -723,22 +723,6 @@
     {
       "added_at": "2025-04-15 15:37:47",
       "album": {
-        "name": "Elvis 30 #1 Hits",
-        "url": "https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 140426,
-      "name": "(You're The) Devil in Disguise",
-      "url": "https://open.spotify.com/track/0D1pEisM3QkiacGXJe5dmd"
-    },
-    {
-      "added_at": "2025-04-15 15:37:47",
-      "album": {
         "name": "I'll Cry If I Want To",
         "url": "https://open.spotify.com/album/7KSrseQi4wJDUfMT4mxNo8"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 140000,
       "name": "It's My Party",
       "url": "https://open.spotify.com/track/1Pq47iFLC5U7j8xeNiNcuS"
+    },
+    {
+      "added_at": "2025-04-15 15:37:47",
+      "album": {
+        "name": "Elvis 30 #1 Hits",
+        "url": "https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 140426,
+      "name": "(You're The) Devil in Disguise",
+      "url": "https://open.spotify.com/track/0D1pEisM3QkiacGXJe5dmd"
     },
     {
       "added_at": "2025-04-15 15:37:47",
@@ -915,22 +915,6 @@
     {
       "added_at": "2025-04-15 15:37:47",
       "album": {
-        "name": "The Best Of The Clovers (Love Potion No. 9)",
-        "url": "https://open.spotify.com/album/6tfGv9PH9Kx1fKpp2dVe4y"
-      },
-      "artists": [
-        {
-          "name": "The Clovers",
-          "url": "https://open.spotify.com/artist/0ckkj0a9CvIJr4h84B0OlN"
-        }
-      ],
-      "duration_ms": 113200,
-      "name": "Love Potion No. 9 - Remastered / Single Version",
-      "url": "https://open.spotify.com/track/5ytPMYb6dkoli8sNSEsdmZ"
-    },
-    {
-      "added_at": "2025-04-15 15:37:47",
-      "album": {
         "name": "Hey! Baby (Deluxe Edition Remastered)",
         "url": "https://open.spotify.com/album/09YAng6bZ2wJVcL3MWVCri"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 143627,
       "name": "Hey! Baby - Remastered",
       "url": "https://open.spotify.com/track/0obIo2GEab6qqms6t3JaMY"
+    },
+    {
+      "added_at": "2025-04-15 15:37:47",
+      "album": {
+        "name": "The Best Of The Clovers (Love Potion No. 9)",
+        "url": "https://open.spotify.com/album/6tfGv9PH9Kx1fKpp2dVe4y"
+      },
+      "artists": [
+        {
+          "name": "The Clovers",
+          "url": "https://open.spotify.com/artist/0ckkj0a9CvIJr4h84B0OlN"
+        }
+      ],
+      "duration_ms": 113200,
+      "name": "Love Potion No. 9 - Remastered / Single Version",
+      "url": "https://open.spotify.com/track/5ytPMYb6dkoli8sNSEsdmZ"
     },
     {
       "added_at": "2025-04-15 15:37:47",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2025-04-15 15:37:47",
       "album": {
-        "name": "Never To Be Forgotten - The Mustang Years",
-        "url": "https://open.spotify.com/album/7KEDLBdqvyiV4D2uH9SgbV"
-      },
-      "artists": [
-        {
-          "name": "The Bobby Fuller Four",
-          "url": "https://open.spotify.com/artist/5XoM6cP8fQykllfuK5V5TR"
-        }
-      ],
-      "duration_ms": 138360,
-      "name": "I Fought the Law - Single Version",
-      "url": "https://open.spotify.com/track/6Um3XCAxl9YfFmAnGl93xc"
-    },
-    {
-      "added_at": "2025-04-15 15:37:47",
-      "album": {
         "name": "Mony Mony",
         "url": "https://open.spotify.com/album/5X5DaYvnFqc4EatPOYSmnt"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 174133,
       "name": "Mony Mony",
       "url": "https://open.spotify.com/track/23xk9Rf7oIHVUU1JvmXYFn"
+    },
+    {
+      "added_at": "2025-04-15 15:37:47",
+      "album": {
+        "name": "Never To Be Forgotten - The Mustang Years",
+        "url": "https://open.spotify.com/album/7KEDLBdqvyiV4D2uH9SgbV"
+      },
+      "artists": [
+        {
+          "name": "The Bobby Fuller Four",
+          "url": "https://open.spotify.com/artist/5XoM6cP8fQykllfuK5V5TR"
+        }
+      ],
+      "duration_ms": 138360,
+      "name": "I Fought the Law - Single Version",
+      "url": "https://open.spotify.com/track/6Um3XCAxl9YfFmAnGl93xc"
     },
     {
       "added_at": "2025-04-15 15:37:47",

@@ -4,7 +4,7 @@
 
 > Favoritlåtar för lugna och sköna stunder.
 
-175 songs - 9 hr 23 min
+176 songs - 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Feeling Good \- triple j Like A Version](https://open.spotify.com/track/4kY3cAWzzKVn3ZmYfOOJul) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Feeling Good \(triple j Like A Version\)](https://open.spotify.com/album/6YQtpgkFSYr9sF8fTsHbMs) | 3:59 | 2024-06-27 |  |
 | [Fire Escapes](https://open.spotify.com/track/7f8lDyHliy2grjseiVV7JS) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Fire Escapes](https://open.spotify.com/album/7kkPQtRxES08kc1r24BpjK) | 2:50 | 2024-06-27 | 2024-09-16 |
 | [First Heartbreak](https://open.spotify.com/track/0IPY0ENbqkDhHKxPK2s357) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [First Heartbreak](https://open.spotify.com/album/1QGOpJ2KxpQ4TryPQfPq9n) | 3:00 | 2024-09-12 |  |
-| [Flytta härifrån](https://open.spotify.com/track/76jsbvUYLVT0RPHUJkHl8v) | [Manon Lamartine](https://open.spotify.com/artist/1zcAHdb8ppOg7wV3Aaagvw) | [Flytta härifrån](https://open.spotify.com/album/6uUuPh3SkieVRxcruAwaMh) | 3:28 | 2024-10-04 |  |
+| [Flytta härifrån](https://open.spotify.com/track/76jsbvUYLVT0RPHUJkHl8v) | [Manon Lamartine](https://open.spotify.com/artist/1zcAHdb8ppOg7wV3Aaagvw) | [Flytta härifrån](https://open.spotify.com/album/6uUuPh3SkieVRxcruAwaMh) | 3:28 | 2024-10-04 | 2025-11-19 |
 | [Follow You](https://open.spotify.com/track/34Q2nKX8PIQNrYEe98mFoH) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Follow You](https://open.spotify.com/album/4ZYs6XPHza9DCaNccj5vo3) | 3:39 | 2025-05-26 | 2025-07-01 |
 | [Fragile Thing](https://open.spotify.com/track/6WThsZZ0AaMNm4UkBnMmiB) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Fragile Thing](https://open.spotify.com/album/1DP01efbCq7HrWl9Yj3JDj) | 2:48 | 2024-06-27 |  |
 | [Free Falling](https://open.spotify.com/track/13d25rq5AA5ppzekwPwtUz) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Bitter Sweet Love](https://open.spotify.com/album/02muSEofPSAk276DCafUPb) | 2:53 | 2024-06-27 |  |
@@ -178,6 +178,7 @@
 | [Why Keep Trying?](https://open.spotify.com/track/2ZN7xICw1NCMvDffky7Crj) | [Aggy Ally](https://open.spotify.com/artist/0BA6Cx7qcqWVHg0dUjDsZs) | [Why Keep Trying?](https://open.spotify.com/album/3UUWAoL4MspBet1B7lNJNX) | 3:42 | 2025-03-06 |  |
 | [With You](https://open.spotify.com/track/7mdJAkMBPkKYOLxcVPDqa0) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [With You](https://open.spotify.com/album/5SrfDaHUYiIGprdRBpAy8x) | 3:09 | 2025-01-09 |  |
 | [Wonderful](https://open.spotify.com/track/3Jm4XJix6nkGiY3IY8mPyu) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Wonderful](https://open.spotify.com/album/3BwgvjyD1pDNyj1VLW0dBw) | 3:46 | 2024-06-27 | 2024-09-21 |
+| [you chose this](https://open.spotify.com/track/12CcA3RDkKo5U0lbNsCbSX) | [Emelie Trahan](https://open.spotify.com/artist/26ZYSsr8RPofalTXPh4yyq) | [you chose this](https://open.spotify.com/album/1xSeDb9h7JclM6c7qhAEGL) | 2:38 | 2025-11-18 |  |
 | [You Could Start A Cult \- Live from Spotify Studios](https://open.spotify.com/track/2fWqTX6zcIHCfhJjLA5pxR) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Live from Spotify Studios](https://open.spotify.com/album/2jTuIdO2IX2TlMyt1dyZxh) | 2:56 | 2024-06-27 | 2025-05-24 |
 | [Younger](https://open.spotify.com/track/4w3Sq0JfjNPLZsjBxw7dXx) | [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [Younger](https://open.spotify.com/album/6xR58S23eubMHUlwWGOq4E) | 3:25 | 2024-10-24 |  |
 | [Your Bones](https://open.spotify.com/track/6bIJHwyaNb1txgOKbYh0rH) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Your Bones](https://open.spotify.com/album/4DYdcN6zXdIH8lWmtd1FQV) | 2:39 | 2024-06-27 |  |

@@ -4,7 +4,7 @@
 
 > JC Reyes x Morad x Quevedo, Manuel Turizo,  De La Rose x Mora, Laura Pausini con Yami Safdie y más novedades de la semana.
 
-3,832 songs - 8 day 3 hr 31 min
+3,832 songs - 8 day 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3789,7 +3789,7 @@
 | [You're All I Got](https://open.spotify.com/track/44DEp6ZrAVlptrzOKBjO88) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [You're All I Got / So Long](https://open.spotify.com/album/6ZxZ4cvU5Fc3IYmA1k8XNz) | 3:22 | 2025-01-31 | 2025-02-07 |
 | [Young](https://open.spotify.com/track/1SSeXpZJz5LY0tM4H8bmfC) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Young](https://open.spotify.com/album/3kA6SPFnEBihAT9IfCQ4vY) | 2:50 | 2025-05-15 | 2025-05-23 |
 | [Young & Dumb \(feat\. Simple Plan\)](https://open.spotify.com/track/3mJncxEu2NrKYfRvoWiVfm) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Young & Dumb \(feat\. Simple Plan\)](https://open.spotify.com/album/4qiHuolMaUIhdu27VJpntV) | 2:46 | 2025-05-08 | 2025-05-16 |
-| [YOUNG BOY](https://open.spotify.com/track/0ldXCPNClEmAhot5RKSEsl) | [KG970](https://open.spotify.com/artist/6m735GSES3duQtLrgqoGUb), [Elpatron970](https://open.spotify.com/artist/2rPOaAdN74S2D0Kw3ImL5O) | [YOUNG BOY](https://open.spotify.com/album/5cSPLtKyfSsYRtp6D22abz) | 1:54 | 2025-11-13 |  |
+| [YOUNG BOY](https://open.spotify.com/track/0ldXCPNClEmAhot5RKSEsl) | [KG970](https://open.spotify.com/artist/6m735GSES3duQtLrgqoGUb), [Elpatron970](https://open.spotify.com/artist/2rPOaAdN74S2D0Kw3ImL5O) | [YOUNG BOY](https://open.spotify.com/album/5cSPLtKyfSsYRtp6D22abz) | 2:06 | 2025-11-13 |  |
 | [Younger And Hotter Than Me](https://open.spotify.com/track/4XKCwXacGJ0Am1s7oD2rDM) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [I Said I Love You First](https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR) | 3:09 | 2025-03-20 | 2025-03-28 |
 | [Your Mind](https://open.spotify.com/track/2crEwjCQ4DMwvKEjIDslkj) | [Atura](https://open.spotify.com/artist/5nn0cIrXfm1pZ7jKFFexei), [Oscar Wallyn](https://open.spotify.com/artist/7J0KMSIGpJYscqTGc6L1oN), [Viiq](https://open.spotify.com/artist/4hHvJgsm5erOOP97SBJ8uQ) | [Your Mind](https://open.spotify.com/album/2n8p61Ro0BVU2wCOTAhg6D) | 3:02 | 2025-09-18 | 2025-09-27 |
 | [Ysilandia](https://open.spotify.com/track/1Uiees22RmVuFaGrbdCbR5) | [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [Ysilandia](https://open.spotify.com/album/3P2TJ5AUSNb0yCdXqX9QvZ) | 3:37 | 2025-02-13 | 2025-02-21 |

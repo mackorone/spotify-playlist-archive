@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Roberto Menescal, Cris Delanno",
-  "num_followers": 353599,
+  "num_followers": 353609,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -683,42 +683,6 @@
     {
       "added_at": "2025-10-25 00:51:33",
       "album": {
-        "name": "Vento",
-        "url": "https://open.spotify.com/album/5bbVhxfRTR1e1Ps0XYOWkK"
-      },
-      "artists": [
-        {
-          "name": "Feyj\u00e3o",
-          "url": "https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt"
-        },
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 172329,
-      "name": "Vento",
-      "url": "https://open.spotify.com/track/6VQ5R3OQeQjwEwxPPlkNMi"
-    },
-    {
-      "added_at": "2025-10-25 00:51:33",
-      "album": {
-        "name": "Se Acaso Voc\u00ea Chegasse",
-        "url": "https://open.spotify.com/album/6QVaN8Rem6eekBccoZTzDz"
-      },
-      "artists": [
-        {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
-        }
-      ],
-      "duration_ms": 139658,
-      "name": "Se Acaso Voc\u00ea Chegasse",
-      "url": "https://open.spotify.com/track/44zjrwmi6RjfZbGe1F0ymj"
-    },
-    {
-      "added_at": "2025-10-25 00:51:33",
-      "album": {
         "name": "Nosso Caso",
         "url": "https://open.spotify.com/album/0AXxBy1IF6U6myBm3EyZ3u"
       },
@@ -735,6 +699,22 @@
       "duration_ms": 211699,
       "name": "Nosso Caso",
       "url": "https://open.spotify.com/track/0EAKZbRpwDUVdr8wxUtazd"
+    },
+    {
+      "added_at": "2025-10-25 00:51:33",
+      "album": {
+        "name": "Se Acaso Voc\u00ea Chegasse",
+        "url": "https://open.spotify.com/album/6QVaN8Rem6eekBccoZTzDz"
+      },
+      "artists": [
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        }
+      ],
+      "duration_ms": 139658,
+      "name": "Se Acaso Voc\u00ea Chegasse",
+      "url": "https://open.spotify.com/track/44zjrwmi6RjfZbGe1F0ymj"
     },
     {
       "added_at": "2025-10-25 00:51:33",
@@ -771,6 +751,26 @@
       "duration_ms": 199308,
       "name": "O amor me fala de voc\u00ea",
       "url": "https://open.spotify.com/track/2gBUrqogdBtgOBSm0h5AG5"
+    },
+    {
+      "added_at": "2025-10-25 00:51:33",
+      "album": {
+        "name": "Vento",
+        "url": "https://open.spotify.com/album/5bbVhxfRTR1e1Ps0XYOWkK"
+      },
+      "artists": [
+        {
+          "name": "Feyj\u00e3o",
+          "url": "https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt"
+        },
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 172329,
+      "name": "Vento",
+      "url": "https://open.spotify.com/track/6VQ5R3OQeQjwEwxPPlkNMi"
     },
     {
       "added_at": "2025-10-25 00:51:33",
@@ -947,22 +947,6 @@
     {
       "added_at": "2025-10-25 00:51:33",
       "album": {
-        "name": "\u00c2mbar",
-        "url": "https://open.spotify.com/album/25iYTRlmDMaSMYMedcjkEl"
-      },
-      "artists": [
-        {
-          "name": "Tain\u00e1",
-          "url": "https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC"
-        }
-      ],
-      "duration_ms": 172586,
-      "name": "\u00c2mbar",
-      "url": "https://open.spotify.com/track/3tZSEpmI6vAJO5iAZVrQvN"
-    },
-    {
-      "added_at": "2025-10-25 00:51:33",
-      "album": {
         "name": "Pagode da Mart'n\u00e1lia",
         "url": "https://open.spotify.com/album/6TuPkpocUpWzhr8Q91vv1Z"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 180982,
       "name": "Cheia de Manias",
       "url": "https://open.spotify.com/track/6m7oHKGEW3cMHrYES1xIbC"
+    },
+    {
+      "added_at": "2025-10-25 00:51:33",
+      "album": {
+        "name": "\u00c2mbar",
+        "url": "https://open.spotify.com/album/25iYTRlmDMaSMYMedcjkEl"
+      },
+      "artists": [
+        {
+          "name": "Tain\u00e1",
+          "url": "https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC"
+        }
+      ],
+      "duration_ms": 172586,
+      "name": "\u00c2mbar",
+      "url": "https://open.spotify.com/track/3tZSEpmI6vAJO5iAZVrQvN"
     },
     {
       "added_at": "2025-10-25 00:51:33",
@@ -1003,26 +1003,6 @@
     {
       "added_at": "2025-10-25 00:51:33",
       "album": {
-        "name": "Um Trem para as Estrelas",
-        "url": "https://open.spotify.com/album/4g5evSq0zyRmJlRpy8j7XP"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        },
-        {
-          "name": "Nilo Romero",
-          "url": "https://open.spotify.com/artist/62RsxSRoTKw2gxgCoaAMbA"
-        }
-      ],
-      "duration_ms": 216425,
-      "name": "Um Trem Para as Estrelas",
-      "url": "https://open.spotify.com/track/7yTVP7L2L6ACdt9n16tFW4"
-    },
-    {
-      "added_at": "2025-10-25 00:51:33",
-      "album": {
         "name": "Se o Meu Peito Fosse o Mundo (Ao Vivo)",
         "url": "https://open.spotify.com/album/5YGJgU35coBKBHnsaHcNJL"
       },
@@ -1043,18 +1023,22 @@
     {
       "added_at": "2025-10-25 00:51:33",
       "album": {
-        "name": "Reencontro",
-        "url": "https://open.spotify.com/album/6FHmlkD5iOGhbvbXlVupp5"
+        "name": "Um Trem para as Estrelas",
+        "url": "https://open.spotify.com/album/4g5evSq0zyRmJlRpy8j7XP"
       },
       "artists": [
         {
-          "name": "Ana Vilela",
-          "url": "https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4"
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        },
+        {
+          "name": "Nilo Romero",
+          "url": "https://open.spotify.com/artist/62RsxSRoTKw2gxgCoaAMbA"
         }
       ],
-      "duration_ms": 200500,
-      "name": "Reencontro",
-      "url": "https://open.spotify.com/track/0J9K0NPeUyQEZw87N0T0y0"
+      "duration_ms": 216425,
+      "name": "Um Trem Para as Estrelas",
+      "url": "https://open.spotify.com/track/7yTVP7L2L6ACdt9n16tFW4"
     },
     {
       "added_at": "2025-10-25 00:51:33",
@@ -1075,6 +1059,22 @@
     {
       "added_at": "2025-10-25 00:51:33",
       "album": {
+        "name": "Reencontro",
+        "url": "https://open.spotify.com/album/6FHmlkD5iOGhbvbXlVupp5"
+      },
+      "artists": [
+        {
+          "name": "Ana Vilela",
+          "url": "https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4"
+        }
+      ],
+      "duration_ms": 200500,
+      "name": "Reencontro",
+      "url": "https://open.spotify.com/track/0J9K0NPeUyQEZw87N0T0y0"
+    },
+    {
+      "added_at": "2025-10-25 00:51:33",
+      "album": {
         "name": "Passageiro",
         "url": "https://open.spotify.com/album/65uSV3GkJ8Pn34WOfi6fdm"
       },
@@ -1091,30 +1091,6 @@
       "duration_ms": 219574,
       "name": "Passageiro",
       "url": "https://open.spotify.com/track/0a2n21hySpr5NBfrJu4OIq"
-    },
-    {
-      "added_at": "2025-10-25 00:51:33",
-      "album": {
-        "name": "Praia do Futuro",
-        "url": "https://open.spotify.com/album/24izpsE4XkFEwNRoauYBPg"
-      },
-      "artists": [
-        {
-          "name": "BaianaSystem",
-          "url": "https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5"
-        },
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        },
-        {
-          "name": "Antonio Carlos & Jocafi",
-          "url": "https://open.spotify.com/artist/6we2u0wHu4S9H6A1LVZ6LA"
-        }
-      ],
-      "duration_ms": 321115,
-      "name": "Praia do Futuro",
-      "url": "https://open.spotify.com/track/78HsMq1JAmcODsD2jvfXyc"
     },
     {
       "added_at": "2025-10-25 00:51:33",
@@ -1159,6 +1135,46 @@
     {
       "added_at": "2025-10-25 00:51:33",
       "album": {
+        "name": "Praia do Futuro",
+        "url": "https://open.spotify.com/album/24izpsE4XkFEwNRoauYBPg"
+      },
+      "artists": [
+        {
+          "name": "BaianaSystem",
+          "url": "https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5"
+        },
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        },
+        {
+          "name": "Antonio Carlos & Jocafi",
+          "url": "https://open.spotify.com/artist/6we2u0wHu4S9H6A1LVZ6LA"
+        }
+      ],
+      "duration_ms": 321115,
+      "name": "Praia do Futuro",
+      "url": "https://open.spotify.com/track/78HsMq1JAmcODsD2jvfXyc"
+    },
+    {
+      "added_at": "2025-10-25 00:51:33",
+      "album": {
+        "name": "Universo de Paix\u00e3o",
+        "url": "https://open.spotify.com/album/51QbgpsAkuZE2ejyE7ht7Y"
+      },
+      "artists": [
+        {
+          "name": "Natascha Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/0UhJSEM5vgkPWXDA6mYuhh"
+        }
+      ],
+      "duration_ms": 241860,
+      "name": "Melhor Assim",
+      "url": "https://open.spotify.com/track/3kf9cCRHPyDYr93nXWAbav"
+    },
+    {
+      "added_at": "2025-10-25 00:51:33",
+      "album": {
         "name": "Estrela",
         "url": "https://open.spotify.com/album/3t9mP6TVjZsG6UmvsFQpTI"
       },
@@ -1179,18 +1195,38 @@
     {
       "added_at": "2025-10-25 00:51:33",
       "album": {
-        "name": "Universo de Paix\u00e3o",
-        "url": "https://open.spotify.com/album/51QbgpsAkuZE2ejyE7ht7Y"
+        "name": "Baianidade Nag\u00f4",
+        "url": "https://open.spotify.com/album/0fFgkGL0MXDuHKsIaFY9lj"
       },
       "artists": [
         {
-          "name": "Natascha Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/0UhJSEM5vgkPWXDA6mYuhh"
+          "name": "NAY PORTTELA",
+          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
         }
       ],
-      "duration_ms": 241860,
-      "name": "Melhor Assim",
-      "url": "https://open.spotify.com/track/3kf9cCRHPyDYr93nXWAbav"
+      "duration_ms": 222000,
+      "name": "Baianidade Nag\u00f4",
+      "url": "https://open.spotify.com/track/0QShxG90ekt8ZErjtb6p79"
+    },
+    {
+      "added_at": "2025-10-25 00:51:33",
+      "album": {
+        "name": "Fulor\u00e1",
+        "url": "https://open.spotify.com/album/4QUe4PqEDYYiK21Z7Kwu3v"
+      },
+      "artists": [
+        {
+          "name": "Bruna Black",
+          "url": "https://open.spotify.com/artist/4XT8kTR1AgQzXS7ggdYPDX"
+        },
+        {
+          "name": "Juliana Linhares",
+          "url": "https://open.spotify.com/artist/2TYSLpy17fec9NRzbtfsof"
+        }
+      ],
+      "duration_ms": 233404,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/5in3nRFCJm8bUV8Twa561Z"
     },
     {
       "added_at": "2025-10-25 00:51:33",
@@ -1223,42 +1259,6 @@
       "duration_ms": 191166,
       "name": "A Donzela Se Casou",
       "url": "https://open.spotify.com/track/0Br1JyBTmuO49RlNuwujjG"
-    },
-    {
-      "added_at": "2025-10-25 00:51:33",
-      "album": {
-        "name": "Fulor\u00e1",
-        "url": "https://open.spotify.com/album/4QUe4PqEDYYiK21Z7Kwu3v"
-      },
-      "artists": [
-        {
-          "name": "Bruna Black",
-          "url": "https://open.spotify.com/artist/4XT8kTR1AgQzXS7ggdYPDX"
-        },
-        {
-          "name": "Juliana Linhares",
-          "url": "https://open.spotify.com/artist/2TYSLpy17fec9NRzbtfsof"
-        }
-      ],
-      "duration_ms": 233404,
-      "name": "Saudade",
-      "url": "https://open.spotify.com/track/5in3nRFCJm8bUV8Twa561Z"
-    },
-    {
-      "added_at": "2025-10-25 00:51:33",
-      "album": {
-        "name": "Baianidade Nag\u00f4",
-        "url": "https://open.spotify.com/album/0fFgkGL0MXDuHKsIaFY9lj"
-      },
-      "artists": [
-        {
-          "name": "NAY PORTTELA",
-          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Baianidade Nag\u00f4",
-      "url": "https://open.spotify.com/track/0QShxG90ekt8ZErjtb6p79"
     },
     {
       "added_at": "2025-10-25 00:51:33",
@@ -1467,26 +1467,6 @@
     {
       "added_at": "2025-10-25 00:51:33",
       "album": {
-        "name": "Eu Vivendo Nossa Vida",
-        "url": "https://open.spotify.com/album/0VDAhfXxnVJg5O5geqBzg0"
-      },
-      "artists": [
-        {
-          "name": "Tom Karabachian",
-          "url": "https://open.spotify.com/artist/3SRd2GBL1Hpandxreo3kdW"
-        },
-        {
-          "name": "Chico C\u00e9sar",
-          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
-        }
-      ],
-      "duration_ms": 194494,
-      "name": "Eu Vivendo Nossa Vida",
-      "url": "https://open.spotify.com/track/21sQjtZhCiK2wO6UwnaqKH"
-    },
-    {
-      "added_at": "2025-10-25 00:51:33",
-      "album": {
         "name": "Alma Turva",
         "url": "https://open.spotify.com/album/0HiJoWzkfAENzSJcB9oVKQ"
       },
@@ -1503,6 +1483,26 @@
       "duration_ms": 141874,
       "name": "Alma Turva",
       "url": "https://open.spotify.com/track/719yUpGCeImqyzkOgZ4M55"
+    },
+    {
+      "added_at": "2025-10-25 00:51:33",
+      "album": {
+        "name": "Eu Vivendo Nossa Vida",
+        "url": "https://open.spotify.com/album/0VDAhfXxnVJg5O5geqBzg0"
+      },
+      "artists": [
+        {
+          "name": "Tom Karabachian",
+          "url": "https://open.spotify.com/artist/3SRd2GBL1Hpandxreo3kdW"
+        },
+        {
+          "name": "Chico C\u00e9sar",
+          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
+        }
+      ],
+      "duration_ms": 194494,
+      "name": "Eu Vivendo Nossa Vida",
+      "url": "https://open.spotify.com/track/21sQjtZhCiK2wO6UwnaqKH"
     },
     {
       "added_at": "2025-10-25 00:51:33",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2025-10-25 00:51:33",
       "album": {
+        "name": "a natureza das coisas",
+        "url": "https://open.spotify.com/album/0MxZANPoJbhP7ma8NK5col"
+      },
+      "artists": [
+        {
+          "name": "Flavio Ferrari",
+          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
+        }
+      ],
+      "duration_ms": 119702,
+      "name": "a natureza das coisas",
+      "url": "https://open.spotify.com/track/2XOWOM7ljx20baKe6dGdLy"
+    },
+    {
+      "added_at": "2025-10-25 00:51:33",
+      "album": {
         "name": "Donatural (Ao Vivo)",
         "url": "https://open.spotify.com/album/69sBJHQWjXQiMj9OiKZxvC"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 215173,
       "name": "Balan\u00e7a - Ao Vivo",
       "url": "https://open.spotify.com/track/4LKgxetmy9aos6dDYI7oPw"
-    },
-    {
-      "added_at": "2025-10-25 00:51:33",
-      "album": {
-        "name": "a natureza das coisas",
-        "url": "https://open.spotify.com/album/0MxZANPoJbhP7ma8NK5col"
-      },
-      "artists": [
-        {
-          "name": "Flavio Ferrari",
-          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
-        }
-      ],
-      "duration_ms": 119702,
-      "name": "a natureza das coisas",
-      "url": "https://open.spotify.com/track/2XOWOM7ljx20baKe6dGdLy"
     },
     {
       "added_at": "2025-10-25 00:51:33",
@@ -1655,26 +1655,6 @@
     {
       "added_at": "2025-10-25 00:51:33",
       "album": {
-        "name": "Ainda \u00e9 Ver\u00e3o",
-        "url": "https://open.spotify.com/album/07q14bTS307dpARQ1X9rg9"
-      },
-      "artists": [
-        {
-          "name": "Alulu Paranhos",
-          "url": "https://open.spotify.com/artist/2MgLL5LN6URJwfdr0NGDrW"
-        },
-        {
-          "name": "Bruno Berle",
-          "url": "https://open.spotify.com/artist/6wUEejDd6aQJtchKP5c7Q0"
-        }
-      ],
-      "duration_ms": 172484,
-      "name": "Ainda \u00e9 Ver\u00e3o",
-      "url": "https://open.spotify.com/track/4RoQJkr2NkWEr7hIUrNuh8"
-    },
-    {
-      "added_at": "2025-10-25 00:51:33",
-      "album": {
         "name": "Tudo Vai Conspirar",
         "url": "https://open.spotify.com/album/43Vh4wyKdRXNjHWLi1IZHk"
       },
@@ -1691,6 +1671,26 @@
       "duration_ms": 184875,
       "name": "Tudo Vai Conspirar",
       "url": "https://open.spotify.com/track/4mwrmRsKZBwzdTCKdB50Sc"
+    },
+    {
+      "added_at": "2025-10-25 00:51:33",
+      "album": {
+        "name": "Ainda \u00e9 Ver\u00e3o",
+        "url": "https://open.spotify.com/album/07q14bTS307dpARQ1X9rg9"
+      },
+      "artists": [
+        {
+          "name": "Alulu Paranhos",
+          "url": "https://open.spotify.com/artist/2MgLL5LN6URJwfdr0NGDrW"
+        },
+        {
+          "name": "Bruno Berle",
+          "url": "https://open.spotify.com/artist/6wUEejDd6aQJtchKP5c7Q0"
+        }
+      ],
+      "duration_ms": 172484,
+      "name": "Ainda \u00e9 Ver\u00e3o",
+      "url": "https://open.spotify.com/track/4RoQJkr2NkWEr7hIUrNuh8"
     },
     {
       "added_at": "2025-10-25 00:51:33",

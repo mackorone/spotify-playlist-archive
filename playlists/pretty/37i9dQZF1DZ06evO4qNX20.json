@@ -1,12 +1,12 @@
 {
   "description": "This is Chalino Sanchez. The essential tracks, all in one playlist.",
-  "num_followers": 339892,
+  "num_followers": 339939,
   "original_name": "This Is Chalino Sanchez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRkUAAAAAACXLacSbNzS23dOOxtEDMIu",
+  "snapshot_id": "aRplgAAAAADdyh2ZTK8tkRNfhilJzB9g",
   "tracks": [
     {
       "added_at": null,
@@ -387,26 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Mexico Querido",
-        "url": "https://open.spotify.com/album/1HjUAVVEwOBdj2UOgxiVIz"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        },
-        {
-          "name": "Los Amables Del Norte",
-          "url": "https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K"
-        }
-      ],
-      "duration_ms": 219997,
-      "name": "Coquio Castro",
-      "url": "https://open.spotify.com/track/58kdEzKW2J51TzU1CGUIUf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chalino S\u00e1nchez Con Mariachi",
         "url": "https://open.spotify.com/album/5mH9ZEaAY0vYLm3WhN3v3e"
       },
@@ -439,6 +419,26 @@
       "duration_ms": 199045,
       "name": "Corazoncito Tirano",
       "url": "https://open.spotify.com/track/1lRVQ0anNC6adfOLfsHjG7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Mexico Querido",
+        "url": "https://open.spotify.com/album/1HjUAVVEwOBdj2UOgxiVIz"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        },
+        {
+          "name": "Los Amables Del Norte",
+          "url": "https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K"
+        }
+      ],
+      "duration_ms": 219997,
+      "name": "Coquio Castro",
+      "url": "https://open.spotify.com/track/58kdEzKW2J51TzU1CGUIUf"
     },
     {
       "added_at": null,
@@ -551,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Exitos de Colecci\u00f3n, Vol.1",
-        "url": "https://open.spotify.com/album/7vlwwgfC7ZQDnfRNDNGxgX"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        }
-      ],
-      "duration_ms": 156120,
-      "name": "La Ametralladora",
-      "url": "https://open.spotify.com/track/2xTyJxQf3jS7jSWndCt2Zx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chalino S\u00e1nchez y Cornelio Reyna, Vol. 2",
         "url": "https://open.spotify.com/album/4pxNYjILuiD9ro6cwrfjT8"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 202675,
       "name": "Corrido Del Gallito",
       "url": "https://open.spotify.com/track/3iOVKQR6StoaMH7kOvVYWr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Exitos de Colecci\u00f3n, Vol.1",
+        "url": "https://open.spotify.com/album/7vlwwgfC7ZQDnfRNDNGxgX"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "duration_ms": 156120,
+      "name": "La Ametralladora",
+      "url": "https://open.spotify.com/track/2xTyJxQf3jS7jSWndCt2Zx"
     },
     {
       "added_at": null,

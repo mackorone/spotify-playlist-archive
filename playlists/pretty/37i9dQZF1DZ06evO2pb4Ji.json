@@ -1,12 +1,12 @@
 {
   "description": "This is League of Legends. The essential tracks, all in one playlist.",
-  "num_followers": 393896,
+  "num_followers": 393910,
   "original_name": "This Is League of Legends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRkUAAAAAAAaKzPDo/O0Cuw73rUScRI1",
+  "snapshot_id": "aRplgAAAAAC5cp6n1zo/2DYktqZ6HrVC",
   "tracks": [
     {
       "added_at": null,
@@ -803,38 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ALL OUT",
-        "url": "https://open.spotify.com/album/3wX4yrxMuHapSLvadxQkVV"
-      },
-      "artists": [
-        {
-          "name": "K/DA",
-          "url": "https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v"
-        },
-        {
-          "name": "Wolftyla",
-          "url": "https://open.spotify.com/artist/7qd6KGoABHifvXKeFNe2Yb"
-        },
-        {
-          "name": "Bekuh Boom",
-          "url": "https://open.spotify.com/artist/260LldmHBR0r2wtWtjzNxL"
-        },
-        {
-          "name": "Aluna",
-          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
-        },
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        }
-      ],
-      "duration_ms": 200914,
-      "name": "DRUM GO DUM",
-      "url": "https://open.spotify.com/track/3CEW3iffD2QvNZMK20sMqW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GIANTS",
         "url": "https://open.spotify.com/album/5WJx10ohNCu9i6hfFWunPA"
       },
@@ -871,6 +839,38 @@
       "duration_ms": 191720,
       "name": "GIANTS",
       "url": "https://open.spotify.com/track/5Eoq0zBxTqE5VntEYclSwU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ALL OUT",
+        "url": "https://open.spotify.com/album/3wX4yrxMuHapSLvadxQkVV"
+      },
+      "artists": [
+        {
+          "name": "K/DA",
+          "url": "https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v"
+        },
+        {
+          "name": "Wolftyla",
+          "url": "https://open.spotify.com/artist/7qd6KGoABHifvXKeFNe2Yb"
+        },
+        {
+          "name": "Bekuh Boom",
+          "url": "https://open.spotify.com/artist/260LldmHBR0r2wtWtjzNxL"
+        },
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "duration_ms": 200914,
+      "name": "DRUM GO DUM",
+      "url": "https://open.spotify.com/track/3CEW3iffD2QvNZMK20sMqW"
     },
     {
       "added_at": null,

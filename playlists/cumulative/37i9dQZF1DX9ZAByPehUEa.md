@@ -4,7 +4,7 @@
 
 > Welcome to DISCOLAND 🪩🕺🏽 it's a happy place
 
-698 songs - 1 day 18 hr 2 min
+699 songs - 1 day 18 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -537,7 +537,7 @@
 | [Sage comme une image \- Good as Gold](https://open.spotify.com/track/2sjd0qvJ5t49KHIYueVBdO) | [ABSOLUTE.](https://open.spotify.com/artist/7LAUsmZK0QfpJAmapct66h) | [Sage comme une image \(Good as Gold\)](https://open.spotify.com/album/01OGxc61qn6dxDbOVj3gmI) | 3:56 | 2022-01-14 | 2022-07-26 |
 | [Sailing Away](https://open.spotify.com/track/6LkwvXgYfM5qoW198vlIn8) | [Antoine Bourachot](https://open.spotify.com/artist/24bH0ZMlrOkri5XncEL7Oy) | [Sailing Away](https://open.spotify.com/album/0l13ZlBmEjGIGRjzToTiSn) | 4:41 | 2025-05-16 | 2025-11-15 |
 | [Sanctuary](https://open.spotify.com/track/5xXGRExlDrPuYzhAj0BHxm) | [Horse Meat Disco](https://open.spotify.com/artist/5MnToV7aAt2Zy9ag3DAsna), [The Phenomenal Handclap Band](https://open.spotify.com/artist/4S8UOAApPhwz9WcVOj13VO) | [Love And Dancing](https://open.spotify.com/album/7yCIoLAcNR8xcR8CeNyWcd) | 5:35 | 2022-01-14 | 2022-07-29 |
-| [Satisfy Your Soul \- Radio Edit](https://open.spotify.com/track/30FNBuPkq0FeWjVrZPEdfD) | [Da Lukas](https://open.spotify.com/artist/20yglF8snDfJjVnkEHSOtP) | [Satisfy Your Soul](https://open.spotify.com/album/4IqJyq5RoaX5GySTIzFFsw) | 3:10 | 2024-03-15 |  |
+| [Satisfy Your Soul \- Radio Edit](https://open.spotify.com/track/30FNBuPkq0FeWjVrZPEdfD) | [Da Lukas](https://open.spotify.com/artist/20yglF8snDfJjVnkEHSOtP) | [Satisfy Your Soul](https://open.spotify.com/album/4IqJyq5RoaX5GySTIzFFsw) | 3:10 | 2024-03-15 | 2025-11-19 |
 | [saudade \- Edit](https://open.spotify.com/track/3ecmX9cdy5NKeoE4GwLoV3) | [David Bay](https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo) | [saudade \- Edit](https://open.spotify.com/album/71QyRx58NvssqPyzBQq9B3) | 4:32 | 2023-01-13 |  |
 | [Save Me \- Edit](https://open.spotify.com/track/3ndTMyjYSvl5jTI0QlloEZ) | [Adelphi Music Factory](https://open.spotify.com/artist/27cAR2QA0zM5v0KL9JNWwe) | [Save Me \(Edit\)](https://open.spotify.com/album/3wV9GXghMRiMnP6VQKl3uh) | 3:00 | 2022-05-10 | 2022-08-06 |
 | [Save Me Tonight \- Tensnake Remix](https://open.spotify.com/track/1g4xYS9Ub4t17G3A1gj7al) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO), [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq) | [Save Me Tonight \(Tensnake Remix\)](https://open.spotify.com/album/4WTzzXDcjxRbaY9Ec1eStw) | 2:24 | 2024-03-01 | 2024-06-09 |
@@ -615,6 +615,7 @@
 | [Superficial](https://open.spotify.com/track/5rSVh3Esz1eGWpXoo4hOIJ) | [Kira Divine](https://open.spotify.com/artist/4AFUtRGh4gJb1mWNTtN0Ha), [Marques Toliver](https://open.spotify.com/artist/5zrD2ZqM6SB5XRJJwTroAu) | [Bird Of Paradise](https://open.spotify.com/album/5e72oexw3KT0TV7Tdgq4xE) | 2:32 | 2025-03-28 | 2025-04-12 |
 | [Supernature MMXXV \- Purple Disco Machine Remix \- Edit](https://open.spotify.com/track/43RZQRAL5M9pmDDkQwFQYp) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Cerrone](https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM), [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Supernature MMXXV \(Purple Disco Machine Remix\)](https://open.spotify.com/album/6qv9tZVFJRhVsLsj7Lb5As) | 3:29 | 2025-07-04 |  |
 | [SURF](https://open.spotify.com/track/3Dsyx9AGZIjwvEucp1HHYm) | [Bodysync](https://open.spotify.com/artist/34KMxwDAHIvM7Kwt1PcClb) | [SURF](https://open.spotify.com/album/04cgcyb9FV8ZvLwIEhcEZW) | 3:00 | 2025-02-21 |  |
+| [Surrender](https://open.spotify.com/track/1A10VPWjTzz6iyIBDDISvp) | [Kideko](https://open.spotify.com/artist/0ZwQMCRqfyh1OGQkBh9Cnj), [Alexander Som](https://open.spotify.com/artist/22tboof8TJ0m7PjeuRzQeW) | [Surrender](https://open.spotify.com/album/0WILtKED2onNZYAP37WkyB) | 3:12 | 2025-11-18 |  |
 | [Surrender \(feat\. PRICIE\)](https://open.spotify.com/track/6seDjSbkqKkOUsHjhhHMJw) | [Tseba](https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf), [PRICIE](https://open.spotify.com/artist/74qq2TFVWRaySx8MVjKelJ) | [Surrender \(feat\. PRICIE\)](https://open.spotify.com/album/37hBfo5a5MO72OgX37K3KC) | 3:57 | 2022-01-14 | 2023-06-10 |
 | [Susannah](https://open.spotify.com/track/2ggtoA4Y5VbdFwcEApWXGs) | [Kideko](https://open.spotify.com/artist/0ZwQMCRqfyh1OGQkBh9Cnj) | [Susannah](https://open.spotify.com/album/3fdR5UojHAPXGs404YUSJc) | 3:07 | 2024-08-05 | 2025-06-07 |
 | [Sweet One Morning \- Radio Edit](https://open.spotify.com/track/3uCKxL0laWz0YCb9Gq6LNM) | [Hatiras](https://open.spotify.com/artist/7DQ8fX4Fbi43HaesfrVYpO) | [Sweet One Morning](https://open.spotify.com/album/7HivA6N0vAsSDipGSISmPi) | 3:07 | 2025-06-20 |  |

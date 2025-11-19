@@ -1,12 +1,12 @@
 {
   "description": "This is Larkin Poe. The essential tracks, all in one playlist.",
-  "num_followers": 30140,
+  "num_followers": 30133,
   "original_name": "This Is Larkin Poe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRkUAAAAAADv/5enl+3M23wIK9Ppg6sI",
+  "snapshot_id": "aRplgAAAAADwQqGXGsyYk9U8TR6CpAhp",
   "tracks": [
     {
       "added_at": null,
@@ -63,22 +63,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sweetwater (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/46SCZ9Z6zeSU3mB5AbP2kp"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 140543,
-      "name": "Get Up",
-      "url": "https://open.spotify.com/track/7bXqvbsH7owO0tjlzHItqX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Self Made Man",
         "url": "https://open.spotify.com/album/0LoCekPqAvmILfr01rK9ea"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 202917,
       "name": "Holy Ghost Fire",
       "url": "https://open.spotify.com/track/6lvL0sBjlBb8WP1FCiWGZc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sweetwater (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/46SCZ9Z6zeSU3mB5AbP2kp"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 140543,
+      "name": "Get Up",
+      "url": "https://open.spotify.com/track/7bXqvbsH7owO0tjlzHItqX"
     },
     {
       "added_at": null,
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 201526,
-      "name": "In The Air Tonight",
-      "url": "https://open.spotify.com/track/5Z5L59U2Jjdm8gVIogk8OM"
+      "duration_ms": 210989,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/150uQDJ6nOL5uJpTFN3HWt"
     },
     {
       "added_at": null,
@@ -811,22 +811,6 @@
       "duration_ms": 190306,
       "name": "Crown of Fire",
       "url": "https://open.spotify.com/track/3KVficEsEWertaGcY4r5ij"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Peach",
-        "url": "https://open.spotify.com/album/3kC3LH2q08aJxTBqDUIhCi"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 204106,
-      "name": "Look Away",
-      "url": "https://open.spotify.com/track/3jDyuGn0phTE1pqNrBXRek"
     },
     {
       "added_at": null,
@@ -851,6 +835,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Peach",
+        "url": "https://open.spotify.com/album/3kC3LH2q08aJxTBqDUIhCi"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 204106,
+      "name": "Look Away",
+      "url": "https://open.spotify.com/track/3jDyuGn0phTE1pqNrBXRek"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Kindred Spirits",
         "url": "https://open.spotify.com/album/2cXTHO6vrMFAD5qRDgQWme"
       },
@@ -860,9 +860,29 @@
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 210989,
-      "name": "Fly Away",
-      "url": "https://open.spotify.com/track/150uQDJ6nOL5uJpTFN3HWt"
+      "duration_ms": 201526,
+      "name": "In The Air Tonight",
+      "url": "https://open.spotify.com/track/5Z5L59U2Jjdm8gVIogk8OM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Co-Starring",
+        "url": "https://open.spotify.com/album/4vRwOE5KE82xb6n9uQi8ET"
+      },
+      "artists": [
+        {
+          "name": "Ray Wylie Hubbard",
+          "url": "https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0"
+        },
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 271678,
+      "name": "Rattlesnake Shakin\u2019 Woman",
+      "url": "https://open.spotify.com/track/4dfRbmnFnT5yjjqHJ4mcdM"
     },
     {
       "added_at": null,
@@ -887,26 +907,6 @@
       "duration_ms": 226013,
       "name": "Rosetta",
       "url": "https://open.spotify.com/track/1EW75a4rh00F4NIuY7bLhn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Co-Starring",
-        "url": "https://open.spotify.com/album/4vRwOE5KE82xb6n9uQi8ET"
-      },
-      "artists": [
-        {
-          "name": "Ray Wylie Hubbard",
-          "url": "https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0"
-        },
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 271678,
-      "name": "Rattlesnake Shakin\u2019 Woman",
-      "url": "https://open.spotify.com/track/4dfRbmnFnT5yjjqHJ4mcdM"
     }
   ],
   "unique_name": "This Is Larkin Poe",

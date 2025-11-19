@@ -1,6 +1,6 @@
 {
   "description": "La hora de la nostalgia es patrocinada por tus baladas favoritas.",
-  "num_followers": 247939,
+  "num_followers": 247956,
   "original_name": "Balada Americana",
   "owner": {
     "name": "Spotify",
@@ -80,12 +80,12 @@
       },
       "artists": [
         {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
-        },
-        {
           "name": "Grover Washington, Jr.",
           "url": "https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1"
+        },
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
         }
       ],
       "duration_ms": 443773,

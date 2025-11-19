@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1l6u9Tapgr.md) - [plain]
 
 > 【全セットリスト公開】8月16日\(土\)\~17日\(日\)、SUMMER SONIC 2025 @幕張メッセにて<a href="https://spotify\-earlynoise.jp/">Spotify Stage</a>開催！セットリストをプレイリストで再現。
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,327 likes - 127 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,326 likes - 127 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

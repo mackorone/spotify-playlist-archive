@@ -1,6 +1,6 @@
 {
   "description": "Because a quiet Sunday every now and again doesn't hurt anybody.",
-  "num_followers": 435457,
+  "num_followers": 435465,
   "original_name": "Lazy Sunday",
   "owner": {
     "name": "Spotify",
@@ -228,7 +228,7 @@
           "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
         }
       ],
-      "duration_ms": 211466,
+      "duration_ms": 211477,
       "name": "Say You Won't Let Go",
       "url": "https://open.spotify.com/track/5uCax9HTNlzGybIStD3vDh"
     },
@@ -631,6 +631,22 @@
     {
       "added_at": "2025-11-13 13:00:06",
       "album": {
+        "name": "Divinely Uninspired To A Hellish Extent",
+        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 205686,
+      "name": "Hold Me While You Wait",
+      "url": "https://open.spotify.com/track/60iSKGrGazRzICtMjADNSM"
+    },
+    {
+      "added_at": "2025-11-13 13:00:06",
+      "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 242946,
       "name": "I'm Yours",
       "url": "https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA"
-    },
-    {
-      "added_at": "2025-11-13 13:00:06",
-      "album": {
-        "name": "Divinely Uninspired To A Hellish Extent",
-        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 205686,
-      "name": "Hold Me While You Wait",
-      "url": "https://open.spotify.com/track/60iSKGrGazRzICtMjADNSM"
     },
     {
       "added_at": "2025-11-13 13:00:06",
@@ -859,6 +859,22 @@
     {
       "added_at": "2025-11-13 13:00:06",
       "album": {
+        "name": "If You Love Her",
+        "url": "https://open.spotify.com/album/5hgwPA78vCrhEDaTazNMyR"
+      },
+      "artists": [
+        {
+          "name": "Forest Blakk",
+          "url": "https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc"
+        }
+      ],
+      "duration_ms": 217351,
+      "name": "If You Love Her",
+      "url": "https://open.spotify.com/track/727Z2S2mtNH46CbP9EWPwY"
+    },
+    {
+      "added_at": "2025-11-13 13:00:06",
+      "album": {
         "name": "Love Is Gone (Acoustic)",
         "url": "https://open.spotify.com/album/4sFNNIc9t1SS1FnuVKXR3J"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 201173,
       "name": "Waiting On the World to Change",
       "url": "https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh"
-    },
-    {
-      "added_at": "2025-11-13 13:00:06",
-      "album": {
-        "name": "If You Love Her",
-        "url": "https://open.spotify.com/album/5hgwPA78vCrhEDaTazNMyR"
-      },
-      "artists": [
-        {
-          "name": "Forest Blakk",
-          "url": "https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc"
-        }
-      ],
-      "duration_ms": 217351,
-      "name": "If You Love Her",
-      "url": "https://open.spotify.com/track/727Z2S2mtNH46CbP9EWPwY"
     },
     {
       "added_at": "2025-11-13 13:00:06",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2025-11-13 13:00:06",
       "album": {
-        "name": "A Night At The Opera (Deluxe Edition 2011 Remaster)",
-        "url": "https://open.spotify.com/album/75eP8LZolyNBpqIRyB5pvB"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 217386,
-      "name": "Love Of My Life - Remastered 2011",
-      "url": "https://open.spotify.com/track/4YJUTdZ0Pgl0ZeNyHYXeLd"
-    },
-    {
-      "added_at": "2025-11-13 13:00:06",
-      "album": {
         "name": "In Between Dreams",
         "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 207680,
       "name": "Better Together",
       "url": "https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y"
+    },
+    {
+      "added_at": "2025-11-13 13:00:06",
+      "album": {
+        "name": "A Night At The Opera (Deluxe Edition 2011 Remaster)",
+        "url": "https://open.spotify.com/album/75eP8LZolyNBpqIRyB5pvB"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 217386,
+      "name": "Love Of My Life - Remastered 2011",
+      "url": "https://open.spotify.com/track/4YJUTdZ0Pgl0ZeNyHYXeLd"
     },
     {
       "added_at": "2025-11-13 13:00:06",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2025-11-13 13:00:06",
       "album": {
-        "name": "Send It Back",
-        "url": "https://open.spotify.com/album/1w88Rkop980Vu2KBZQbPM6"
-      },
-      "artists": [
-        {
-          "name": "DON WEST",
-          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
-        }
-      ],
-      "duration_ms": 173112,
-      "name": "Send It Back",
-      "url": "https://open.spotify.com/track/6FDYvTpaGaGjXqsnNhUPXm"
-    },
-    {
-      "added_at": "2025-11-13 13:00:06",
-      "album": {
         "name": "Stop Stealing The Covers!",
         "url": "https://open.spotify.com/album/7mCxkaPLj0IGKmbBuLDYah"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 197360,
       "name": "Home",
       "url": "https://open.spotify.com/track/18V1UiYRvWYwn01CRDbbuR"
+    },
+    {
+      "added_at": "2025-11-13 13:00:06",
+      "album": {
+        "name": "Send It Back",
+        "url": "https://open.spotify.com/album/1w88Rkop980Vu2KBZQbPM6"
+      },
+      "artists": [
+        {
+          "name": "DON WEST",
+          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
+        }
+      ],
+      "duration_ms": 173112,
+      "name": "Send It Back",
+      "url": "https://open.spotify.com/track/6FDYvTpaGaGjXqsnNhUPXm"
     },
     {
       "added_at": "2025-11-13 13:00:06",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2025-11-13 13:00:06",
       "album": {
-        "name": "Forever You and Me",
-        "url": "https://open.spotify.com/album/1aUMtW3DvOoPetvGzgkuUW"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 175592,
-      "name": "Forever You and Me",
-      "url": "https://open.spotify.com/track/4GUaG3df9nbrj77GKEB76j"
-    },
-    {
-      "added_at": "2025-11-13 13:00:06",
-      "album": {
         "name": "Good Thing",
         "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 207309,
       "name": "Bad Bad News",
       "url": "https://open.spotify.com/track/7FxzgizJRGTQ3fxUqfvljg"
+    },
+    {
+      "added_at": "2025-11-13 13:00:06",
+      "album": {
+        "name": "Forever You and Me",
+        "url": "https://open.spotify.com/album/1aUMtW3DvOoPetvGzgkuUW"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 175592,
+      "name": "Forever You and Me",
+      "url": "https://open.spotify.com/track/4GUaG3df9nbrj77GKEB76j"
     },
     {
       "added_at": "2025-11-13 13:00:06",

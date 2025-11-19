@@ -1,12 +1,12 @@
 {
   "description": "Wekelijkse update met Hollands en Volkspop. Cover: Jo\u00ebl Borelli & Xander de Buisonj\u00e9",
-  "num_followers": 153784,
+  "num_followers": 153789,
   "original_name": "Liever Hollands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIJ92+BTxAL9NYJBDAm7rI0wbFU7",
+  "snapshot_id": "AAAAAIle0MNNJO32GSJWOUWtxfbsSiL3",
   "tracks": [
     {
       "added_at": "2025-11-13 23:00:25",
@@ -91,6 +91,38 @@
     {
       "added_at": "2025-11-13 23:00:25",
       "album": {
+        "name": "Gewoon Omdat Het Kan",
+        "url": "https://open.spotify.com/album/4Igks3lKCilN0C2CONNSPi"
+      },
+      "artists": [
+        {
+          "name": "Davey van der Sluis",
+          "url": "https://open.spotify.com/artist/3ewaEvAw1iJsUt6mcCWUMs"
+        }
+      ],
+      "duration_ms": 126968,
+      "name": "Gewoon Omdat Het Kan",
+      "url": "https://open.spotify.com/track/5UkKbrz487JtcpIqwkvfuF"
+    },
+    {
+      "added_at": "2025-11-13 23:00:25",
+      "album": {
+        "name": "Kijk mij niet zo aan",
+        "url": "https://open.spotify.com/album/3LDpqnA4m5vUmFnUGgGKA0"
+      },
+      "artists": [
+        {
+          "name": "Henk Damen",
+          "url": "https://open.spotify.com/artist/2ZUBS5L3nTT2H3ck5EEEDW"
+        }
+      ],
+      "duration_ms": 154501,
+      "name": "Kijk mij niet zo aan",
+      "url": "https://open.spotify.com/track/3mzaisAm0LHNAchlOB3Lc4"
+    },
+    {
+      "added_at": "2025-11-13 23:00:25",
+      "album": {
         "name": "Vreemde uit de kroeg",
         "url": "https://open.spotify.com/album/1IaTfBznir2X6ZWUOtycic"
       },
@@ -143,22 +175,6 @@
       "duration_ms": 155491,
       "name": "Liefde In De Nacht",
       "url": "https://open.spotify.com/track/29Oq2JIEG7Ma3mH82ELwes"
-    },
-    {
-      "added_at": "2025-11-13 23:00:25",
-      "album": {
-        "name": "Kijk mij niet zo aan",
-        "url": "https://open.spotify.com/album/3LDpqnA4m5vUmFnUGgGKA0"
-      },
-      "artists": [
-        {
-          "name": "Henk Damen",
-          "url": "https://open.spotify.com/artist/2ZUBS5L3nTT2H3ck5EEEDW"
-        }
-      ],
-      "duration_ms": 154501,
-      "name": "Kijk mij niet zo aan",
-      "url": "https://open.spotify.com/track/3mzaisAm0LHNAchlOB3Lc4"
     },
     {
       "added_at": "2025-11-13 23:00:25",
@@ -259,22 +275,6 @@
       "duration_ms": 156423,
       "name": "Goud",
       "url": "https://open.spotify.com/track/2gf4tNTtfDh8FoREZGc1aS"
-    },
-    {
-      "added_at": "2025-11-13 23:00:25",
-      "album": {
-        "name": "Gewoon Omdat Het Kan",
-        "url": "https://open.spotify.com/album/4Igks3lKCilN0C2CONNSPi"
-      },
-      "artists": [
-        {
-          "name": "Davey van der Sluis",
-          "url": "https://open.spotify.com/artist/3ewaEvAw1iJsUt6mcCWUMs"
-        }
-      ],
-      "duration_ms": 126968,
-      "name": "Gewoon Omdat Het Kan",
-      "url": "https://open.spotify.com/track/5UkKbrz487JtcpIqwkvfuF"
     },
     {
       "added_at": "2025-11-13 23:00:25",

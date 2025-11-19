@@ -4,7 +4,7 @@
 
 > Who's now and next in pop\. Cover: Thomas Day
 
-2,783 songs - 5 day 23 hr 54 min
+2,784 songs - 5 day 23 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2115,7 +2115,7 @@
 | [Shapeshifting on a Saturday Night](https://open.spotify.com/track/5ohPveFr3t93leJhCiWAqt) | [Avery Cochrane](https://open.spotify.com/artist/2I0aPV0zqzG1LKhsMaKFDR) | [Shapeshifting on a Saturday Night](https://open.spotify.com/album/6OcMg9GPmcyEZtaipr6x3s) | 3:25 | 2025-08-15 | 2025-09-28 |
 | [Sharks](https://open.spotify.com/track/0TyUOnU4H4GLqOcrH0auc8) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Sharks](https://open.spotify.com/album/587Ykd8NOCdzRmaW4nlT4e) | 3:10 | 2022-06-24 | 2022-08-20 |
 | [She Calls Me Back \(with Kacey Musgraves\)](https://open.spotify.com/track/0p1hBWPaSxUDTSa32PyhnU) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [She Calls Me Back \(with Kacey Musgraves\)](https://open.spotify.com/album/6XPbfNCiFWlz1Licn4IEHz) | 4:03 | 2023-10-06 | 2023-12-02 |
-| [SHE DON'T NEED TO KNOW](https://open.spotify.com/track/4R6McrWJ5fpVuzsNwoukI9) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [SHE DON'T NEED TO KNOW](https://open.spotify.com/album/45oJTfBl4jrQ9nGCvYpksv) | 2:30 | 2025-08-29 |  |
+| [SHE DON'T NEED TO KNOW](https://open.spotify.com/track/4R6McrWJ5fpVuzsNwoukI9) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [SHE DON'T NEED TO KNOW](https://open.spotify.com/album/45oJTfBl4jrQ9nGCvYpksv) | 2:30 | 2025-08-29 | 2025-11-19 |
 | [she got a thing about her](https://open.spotify.com/track/1PyaesWoAa7Xz7TEbyyvcz) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [she got a thing about her](https://open.spotify.com/album/2CcfkAn9LW1d8UgG6eHqxy) | 2:18 | 2025-07-18 | 2025-10-11 |
 | [she's all i wanna be](https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [she's all i wanna be](https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8) | 3:26 | 2022-02-04 | 2022-05-14 |
 | [Sheesh!](https://open.spotify.com/track/3ddNKnYpVx0uI8vcwbTQ5Y) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u), [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Sheesh!](https://open.spotify.com/album/7aGQrZNnvPaOc0PVm7yuc5) | 2:28 | 2021-08-21 | 2021-10-23 |
@@ -2215,6 +2215,7 @@
 | [Son of a Bitch](https://open.spotify.com/track/5EyxR5yEN3mohQ5EycOpII) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Son of a Bitch](https://open.spotify.com/album/4QBpgWspmECfxr201lGim4) | 2:35 | 2024-02-23 | 2024-04-27 |
 | [Sooner Or Later](https://open.spotify.com/track/2QLdrqojYq2yRKHqv6tXh1) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Sooner Or Later](https://open.spotify.com/album/6bMgJgiQFBxVamHwAd6VYt) | 3:20 | 2022-01-14 | 2022-01-22 |
 | [Sorry](https://open.spotify.com/track/65tQ1ZL4Q5uKsghVoj1O8o) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [ISÁK](https://open.spotify.com/artist/2LGU3PxihjIK5SUeCVcdFl) | [Sorry](https://open.spotify.com/album/4ovjS3yvn1WNjtrUQWwlnd) | 2:45 | 2021-02-06 | 2021-02-19 |
+| [SORRY](https://open.spotify.com/track/34ksxaX1hF5d6v73jETP70) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [FEAR](https://open.spotify.com/album/6KLrnVqUhPpX4IzgHgsJTg) | 3:11 | 2025-11-18 |  |
 | [Sorry I'm Here For Someone Else](https://open.spotify.com/track/3x3K1RP3Zfi2qeMR8kyrNO) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Sorry I'm Here For Someone Else](https://open.spotify.com/album/38PKSUSFXnO4mbUhLC4ELZ) | 2:36 | 2025-02-28 | 2025-05-24 |
 | [Sorry To Me Too](https://open.spotify.com/track/4SDccIA3pVkjaZsivDPaV5) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Sorry To Me Too](https://open.spotify.com/album/6tIdThlPKMAhHuB3wKSuNS) | 3:29 | 2022-11-11 | 2023-02-18 |
 | [SOS \- ENG Version](https://open.spotify.com/track/37PGX0e12hB2nC8P7eRPHX) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Love Tune](https://open.spotify.com/album/4jCiEqSvakhAN2n7Gr2r2r) | 3:07 | 2024-09-20 | 2024-11-16 |

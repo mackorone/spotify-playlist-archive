@@ -4,7 +4,7 @@
 
 > This is Jordan Davis\. The essential tracks, all in one playlist.
 
-75 songs - 3 hr 52 min
+76 songs - 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Good News Sold](https://open.spotify.com/track/2nK23mwuUUiJTx9efT9Lvb) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Good News Sold](https://open.spotify.com/album/0z3clvkLiQYa5q6bIcrODQ) | 3:23 | 2024-02-24 |  |
 | [Guiding Light \(feat\. Sam Hunt / Live Acoustic\)](https://open.spotify.com/track/5lA1Xfr3ZnIKGJRDPcdfxY) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Guiding Light \(feat\. Sam Hunt / Live Acoustic\)](https://open.spotify.com/album/2Yivsi4urNKVmfWlQPhejR) | 5:04 | 2024-04-21 | 2025-07-20 |
 | [Her Way Or The Highway](https://open.spotify.com/track/59SCat3LTL5d1SBOBRB43D) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Learn The Hard Way](https://open.spotify.com/album/134A79bb9B0FH4ZYxyQ3Sp) | 2:52 | 2025-08-17 |  |
-| [I Ain't Sayin'](https://open.spotify.com/track/7lCs3stpWCtAn5Y2lmnPhV) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [I Ain't Sayin'](https://open.spotify.com/album/3U0pFKPURiE6x5gWFhDr8d) | 2:54 | 2024-07-27 |  |
+| [I Ain't Sayin'](https://open.spotify.com/track/7lCs3stpWCtAn5Y2lmnPhV) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [I Ain't Sayin'](https://open.spotify.com/album/3U0pFKPURiE6x5gWFhDr8d) | 2:54 | 2024-07-27 | 2025-11-19 |
+| [I Ain't Sayin'](https://open.spotify.com/track/50v47bZxJ7sIhiOn0iJWbL) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Learn The Hard Way](https://open.spotify.com/album/134A79bb9B0FH4ZYxyQ3Sp) | 2:54 | 2025-11-19 |  |
 | [I Still Smoked](https://open.spotify.com/track/2SMzVQE4Y1k0idunVh6R2R) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Buy Dirt](https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO) | 3:26 | 2024-05-17 | 2024-07-21 |
 | [In Case You Missed It](https://open.spotify.com/track/38CBst5T62W2HvGfCIG0YZ) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [In Case You Missed It](https://open.spotify.com/album/2c0ukSFnvvlpxZGsSEaln1) | 2:45 | 2025-02-09 | 2025-08-28 |
 | [In Case You Missed It](https://open.spotify.com/track/7llQ1aQgTCemXLmDSaHd56) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Learn The Hard Way](https://open.spotify.com/album/134A79bb9B0FH4ZYxyQ3Sp) | 2:45 | 2025-08-28 | 2025-09-01 |
@@ -48,7 +49,7 @@
 | [Louisiana Stick \(with Marcus King\)](https://open.spotify.com/track/1gbQ9iwuO9teaFieEwBLn8) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Louisiana Stick \(with Marcus King\)](https://open.spotify.com/album/4O4DhX9FTNLzHyyds0IYgF) | 2:28 | 2025-08-10 | 2025-08-31 |
 | [Made That Way](https://open.spotify.com/track/2k4Chj6SG01uoySJzBK1lO) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Home State](https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR) | 2:53 | 2023-02-08 | 2024-06-01 |
 | [Memory Don't Mess Around](https://open.spotify.com/track/6ZtQfeEqAVHdqscxpqm2ET) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Learn The Hard Way](https://open.spotify.com/album/134A79bb9B0FH4ZYxyQ3Sp) | 2:57 | 2025-08-17 | 2025-10-29 |
-| [Mess With Missing You \(with Carly Pearce\)](https://open.spotify.com/track/2eL9xMNYl1R36f7eZavDpg) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI), [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Learn The Hard Way](https://open.spotify.com/album/134A79bb9B0FH4ZYxyQ3Sp) | 3:38 | 2025-08-17 |  |
+| [Mess With Missing You \(with Carly Pearce\)](https://open.spotify.com/track/2eL9xMNYl1R36f7eZavDpg) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI), [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Learn The Hard Way](https://open.spotify.com/album/134A79bb9B0FH4ZYxyQ3Sp) | 3:38 | 2025-08-17 | 2025-11-19 |
 | [Midnight Crisis](https://open.spotify.com/track/7xIfvgLl8E4UGE8BAt0oA3) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI), [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Midnight Crisis](https://open.spotify.com/album/640Piuf9BkOLph0xUd98tc) | 3:23 | 2023-02-08 | 2023-03-10 |
 | [Money Isn't Real](https://open.spotify.com/track/1rNglbtKiHh3NuDvN7l3TV) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Money Isn't Real](https://open.spotify.com/album/3GKMoWHdXCQoivyqQc2Pft) | 3:15 | 2023-02-08 | 2023-03-29 |
 | [Money Isn't Real](https://open.spotify.com/track/4VRkH8LXu73OT5bcxehI60) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Bluebird Days](https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG) | 3:15 | 2023-03-28 | 2023-03-31 |

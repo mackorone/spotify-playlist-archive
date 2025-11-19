@@ -2,9 +2,9 @@
 
 ### [Punk Japan](https://open.spotify.com/playlist/37i9dQZF1DX7uwh9GrVLfz)
 
-> The legendary classics meet the newest cutting edge\. This is Japanese punk\. / レジェンドも新世代も一つの叫びに。進化し続ける日本のパンク・ロックを特集。Cover: FIRE ON FIRE
+> The legendary classics meet the newest cutting edge\. This is Japanese punk\. / レジェンドも新世代も一つの叫びに。進化し続ける日本のパンク・ロックを特集。Cover: ヤバイTシャツ屋さん
 
-860 songs - 1 day 21 hr 34 min
+861 songs - 1 day 21 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,7 +226,7 @@
 | [Hourglass](https://open.spotify.com/track/0hx0wgbkX6Rl7gRkySR1X0) | [waterweed](https://open.spotify.com/artist/3xo2d6Mjw5Gkb14HFOwFkQ) | [Hourglass](https://open.spotify.com/album/4hKowDy7jzTEp0SQU3NjY6) | 2:40 | 2024-04-30 | 2024-12-18 |
 | [Hurdle Race](https://open.spotify.com/track/2vVdCWpMMJGoLXoDTiVSOd) | [dustbox](https://open.spotify.com/artist/11PVIVQzvdHOrvVmNlkYNZ) | [Blooming Harvest](https://open.spotify.com/album/38OJkyqzjzBFpguQksifKn) | 2:35 | 2023-02-10 | 2023-04-02 |
 | [Hurdle Race](https://open.spotify.com/track/4IUjUIp4f2a54RNstS6qUX) | [dustbox](https://open.spotify.com/artist/11PVIVQzvdHOrvVmNlkYNZ) | [Blooming Harvest](https://open.spotify.com/album/18k6aVfVyInbeSQOzJiTQb) | 2:35 | 2022-05-12 | 2022-07-20 |
-| [I keep making the same mistake](https://open.spotify.com/track/7enSf9y4J2DNGKcBMkNGar) | [鉄風東京](https://open.spotify.com/artist/2dcQMsKiEfgJ9t7GolC4rn) | [Space/Range](https://open.spotify.com/album/36k15NB2Ksjq811w7N55nX) | 3:46 | 2025-10-07 |  |
+| [I keep making the same mistake](https://open.spotify.com/track/7enSf9y4J2DNGKcBMkNGar) | [鉄風東京](https://open.spotify.com/artist/2dcQMsKiEfgJ9t7GolC4rn) | [Space/Range](https://open.spotify.com/album/36k15NB2Ksjq811w7N55nX) | 3:46 | 2025-10-07 | 2025-11-19 |
 | [I know](https://open.spotify.com/track/15fphhO291Ut1Uu3LpS6tY) | [SEPTALUCK](https://open.spotify.com/artist/5SzyFQjwKUq5jq3qeENnZo) | [I know](https://open.spotify.com/album/3NBx35slNN8loaFNeEInB8) | 3:44 | 2022-08-25 | 2022-09-15 |
 | [I Like You](https://open.spotify.com/track/1heOMysisFUHkzn76lMBgB) | [HONEST](https://open.spotify.com/artist/59iGba2GaoFVPVlnwy5J1G) | [HONEST](https://open.spotify.com/album/22DUKrSmkz2H86ew2lsVgJ) | 1:48 | 2023-01-31 | 2023-03-01 |
 | [I LOVE HIS SONG I COULD DIE](https://open.spotify.com/track/7bxyTGWClbH0JXhG1lYx9W) | [LONGMAN](https://open.spotify.com/artist/0MBIT0F93uiCv6uLQfH7i7) | [I LOVE HIS SONG I COULD DIE](https://open.spotify.com/album/0Ib48h7MauySf6xS7xgxoC) | 3:01 | 2023-04-27 | 2023-05-17 |
@@ -397,6 +397,7 @@
 | [Out in Bloom](https://open.spotify.com/track/2yVrpY1ilEaovzQW4XS8Zj) | [LOW IQ 01](https://open.spotify.com/artist/03iXYfVe4ZvZ0Q0dfLxzKc) | [Out in Bloom](https://open.spotify.com/album/4eVijcTaBTYJoMKd2VfuaH) | 4:50 | 2022-10-25 | 2023-01-13 |
 | [OUT老GUYS](https://open.spotify.com/track/2M12fEB3BcDnA72QoJFshM) | [Dohatsuten](https://open.spotify.com/artist/2UUHBIbp6MHWflVwNbPUOE) | [more\-AA\-janaica](https://open.spotify.com/album/6MWiOU2RpUxxfcijwqkST5) | 5:27 | 2023-03-21 | 2023-04-19 |
 | [OVERRIDE GENERATION](https://open.spotify.com/track/5fmZ7p8oubZ1DaJHw7j0T5) | [SOBUT](https://open.spotify.com/artist/7wiOTXhsRROAbAm7GDETD4) | [KICKIN' YOUR HEAD](https://open.spotify.com/album/1p07aehQpgQVndO8pnqRwK) | 2:45 | 2022-05-31 | 2022-07-28 |
+| [PAC\-MANISM](https://open.spotify.com/track/06OI5rkTs4hHrlUGjD1UUw) | [Yabai T\-Shirts Yasan](https://open.spotify.com/artist/3GP0RQRnBvpYVgdVYfcaGS) | [PAC\-MANISM](https://open.spotify.com/album/4Rl64ebxCFoq7NuECnR9Nu) | 2:07 | 2025-11-18 |  |
 | [Parasites](https://open.spotify.com/track/2PvPwvinXuMcF82qkR9DqG) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Parasites](https://open.spotify.com/album/02Tb76LOod9iowVjS8r9sF) | 2:10 | 2024-01-09 | 2024-02-29 |
 | [Parasites](https://open.spotify.com/track/7CJWvOBiVULjCGdElIkmNp) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Indian Burn](https://open.spotify.com/album/0IChffToKdKcuJTlz5H7AI) | 2:10 | 2024-02-27 | 2025-08-02 |
 | [PARDON?](https://open.spotify.com/track/1OiEyOhzqSVy88ZO6Gzqxf) | [Otoboke Beaver](https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq) | [Super Champon](https://open.spotify.com/album/4r851ZakCghaOeuJCuUpkU) | 1:45 | 2022-05-12 | 2022-06-29 |

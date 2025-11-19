@@ -5719,6 +5719,24 @@
     },
     {
       "album": {
+        "name": "Cocoon",
+        "url": "https://open.spotify.com/album/2uwbXDzfDu2CIU4nfCklvH"
+      },
+      "artists": [
+        {
+          "name": "Fight Pausa",
+          "url": "https://open.spotify.com/artist/1BkdvKE1YNIAAWrLNzLWKU"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169560,
+      "name": "Cocoon",
+      "url": "https://open.spotify.com/track/6D4ggqizOhkUMbVVBvoHlB"
+    },
+    {
+      "album": {
         "name": "Cold Hands",
         "url": "https://open.spotify.com/album/4tat8E8Y65ekxRmKwC9KZA"
       },

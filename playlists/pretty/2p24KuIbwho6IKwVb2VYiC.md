@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2p24KuIbwho6IKwVb2VYiC.md) - [plain]
 
 > The best Dance, House, Bass and EDM tracks right now, curated by <a href="https://www.instagram.com/nightvision/">NIGHTVISION</a>!  Cover: Nelly Furtado &amp; HAYLA
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 21,287 likes - 181 songs - 9 hr 21 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 21,286 likes - 181 songs - 9 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

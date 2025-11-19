@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-23",
-  "description": "Get ready for the upcoming concert by listening to the artist's best songs! (\uc544\ud2f0\uc2a4\ud2b8\uc758 \ubca0\uc2a4\ud2b8\uace1\uc744 \ub4e4\uc73c\uba70 \ub2e4\uac00\uc624\ub294 \ucf58\uc11c\ud2b8\ub97c \uc900\ube44\ud574\ubcf4\uc138\uc694!)",
+  "description": "enjoy the IVE WORLD TOUR [SHOW WHAT I AM] LIVE SET including the voices of them on stage! (\uc544\uc774\ube0c\uc758 \ubb34\ub300 \uba58\ud2b8\uc640 \ubaa9\uc18c\ub9ac\uac00 \ud3ec\ud568\ub41c [SHOW WHAT I AM] \ucf58\uc11c\ud2b8 LIVE SET\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
   "name": "IVE WORLD TOUR [SHOW WHAT I AM]",
   "tracks": [
     {
@@ -88,7 +88,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 167546,
       "name": "Blue Blood",
       "url": "https://open.spotify.com/track/7b9F8G4wfQd5wJmwHVyV1v"
@@ -106,7 +106,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 166946,
       "name": "Either Way",
       "url": "https://open.spotify.com/track/0hfgdZKMICdgW84SUk3jfT"
@@ -124,7 +124,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 178453,
       "name": "ELEVEN",
       "url": "https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr"
@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "IVE SECRET",
+        "url": "https://open.spotify.com/album/1rhedhcbhR9KQcFTSQ6sli"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151000,
+      "name": "GOTCHA (Baddest Eros)",
+      "url": "https://open.spotify.com/track/1Z9zcnlfg3TiKZzvDN39je"
+    },
+    {
+      "album": {
         "name": "IVE SWITCH",
         "url": "https://open.spotify.com/album/5jcarWURPZMLOwsdhIcDFo"
       },
@@ -160,7 +178,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 189680,
       "name": "HEYA",
       "url": "https://open.spotify.com/track/6JjydtOl3rysvM2prpCBaf"
@@ -214,10 +232,28 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 180626,
       "name": "I WANT",
       "url": "https://open.spotify.com/track/1Xnha5ko8j7yY8O3ATe0Vs"
+    },
+    {
+      "album": {
+        "name": "IVE SWITCH",
+        "url": "https://open.spotify.com/album/5jcarWURPZMLOwsdhIcDFo"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183226,
+      "name": "Ice Queen",
+      "url": "https://open.spotify.com/track/3VEOEmmcqWxkAZ9kZvXNPu"
     },
     {
       "album": {
@@ -254,6 +290,168 @@
       "duration_ms": 177186,
       "name": "LOVE DIVE",
       "url": "https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi"
+    },
+    {
+      "album": {
+        "name": "IVE WORLD TOUR [SHOW WHAT I AM]",
+        "url": "https://open.spotify.com/album/7aT6c5vnrSxdWKZNSWcuON"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 44944,
+      "name": "MENT1",
+      "url": "https://open.spotify.com/track/2tZVLJnSTkKFbRo6V1jJdQ"
+    },
+    {
+      "album": {
+        "name": "IVE WORLD TOUR [SHOW WHAT I AM]",
+        "url": "https://open.spotify.com/album/7aT6c5vnrSxdWKZNSWcuON"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 41808,
+      "name": "MENT2",
+      "url": "https://open.spotify.com/track/3RfdabsWZmG8RA42II8zOn"
+    },
+    {
+      "album": {
+        "name": "IVE WORLD TOUR [SHOW WHAT I AM]",
+        "url": "https://open.spotify.com/album/7aT6c5vnrSxdWKZNSWcuON"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 36169,
+      "name": "MENT3",
+      "url": "https://open.spotify.com/track/4Ch8RaV0VP29WZuhx5uVgc"
+    },
+    {
+      "album": {
+        "name": "IVE WORLD TOUR [SHOW WHAT I AM]",
+        "url": "https://open.spotify.com/album/7aT6c5vnrSxdWKZNSWcuON"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 26426,
+      "name": "MENT4",
+      "url": "https://open.spotify.com/track/3NpyINNKTNtIKtFcFhJKtw"
+    },
+    {
+      "album": {
+        "name": "IVE WORLD TOUR [SHOW WHAT I AM]",
+        "url": "https://open.spotify.com/album/7aT6c5vnrSxdWKZNSWcuON"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 24791,
+      "name": "MENT5",
+      "url": "https://open.spotify.com/track/1RaEaDHTUXXD0wAgRjOFxb"
+    },
+    {
+      "album": {
+        "name": "IVE WORLD TOUR [SHOW WHAT I AM]",
+        "url": "https://open.spotify.com/album/7aT6c5vnrSxdWKZNSWcuON"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 57690,
+      "name": "MENT6",
+      "url": "https://open.spotify.com/track/4ro1DqRZUw4jBQrty5y5w0"
+    },
+    {
+      "album": {
+        "name": "IVE WORLD TOUR [SHOW WHAT I AM]",
+        "url": "https://open.spotify.com/album/7aT6c5vnrSxdWKZNSWcuON"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341941,
+      "name": "MENT7",
+      "url": "https://open.spotify.com/track/22Qpy8eAHdVnFn5UVyffAC"
+    },
+    {
+      "album": {
+        "name": "IVE WORLD TOUR [SHOW WHAT I AM]",
+        "url": "https://open.spotify.com/album/7aT6c5vnrSxdWKZNSWcuON"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75375,
+      "name": "MENT8",
+      "url": "https://open.spotify.com/track/6JHP1D06cUBLmtsy6swNic"
+    },
+    {
+      "album": {
+        "name": "After LIKE",
+        "url": "https://open.spotify.com/album/4MNb9ii6LzgcCT8PrvdClb"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "My Satisfaction",
+      "url": "https://open.spotify.com/track/2jaZpjWHv68e2FYr0v3WUj"
     },
     {
       "album": {
@@ -304,10 +502,50 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 206226,
       "name": "ROYAL",
       "url": "https://open.spotify.com/track/0LMdtBOxbVgrYoA4n0Vwvv"
+    },
+    {
+      "album": {
+        "name": "Supernova Love",
+        "url": "https://open.spotify.com/album/6h4ZRW8ptciCijS4IeWYMo"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199504,
+      "name": "Supernova Love",
+      "url": "https://open.spotify.com/track/4U9gGfjz3wVSKMPDD4Rp9v"
+    },
+    {
+      "album": {
+        "name": "IVE EMPATHY",
+        "url": "https://open.spotify.com/album/0YaLbDxHTeZLT3CpDunKuT"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186120,
+      "name": "TKO",
+      "url": "https://open.spotify.com/track/3zCbIlgyavSldqhoL5tJHo"
     },
     {
       "album": {
@@ -329,6 +567,24 @@
     },
     {
       "album": {
+        "name": "IVE SWITCH",
+        "url": "https://open.spotify.com/album/5jcarWURPZMLOwsdhIcDFo"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178573,
+      "name": "WOW",
+      "url": "https://open.spotify.com/track/2PICxVkRQjK3x6OlZCWP1h"
+    },
+    {
+      "album": {
         "name": "IVE SECRET",
         "url": "https://open.spotify.com/album/1rhedhcbhR9KQcFTSQ6sli"
       },
@@ -344,6 +600,24 @@
       "duration_ms": 154000,
       "name": "XOXZ",
       "url": "https://open.spotify.com/track/2f79jWcTf2pxVxDLdxi1Lm"
+    },
+    {
+      "album": {
+        "name": "IVE EMPATHY",
+        "url": "https://open.spotify.com/album/0YaLbDxHTeZLT3CpDunKuT"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174506,
+      "name": "You Wanna Cry",
+      "url": "https://open.spotify.com/track/4RcSeV4CLmk6j0kMR0QuL4"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Herbie Hancock. The essential tracks, all in one playlist.",
-  "num_followers": 40969,
+  "num_followers": 40985,
   "original_name": "This Is Herbie Hancock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRkUAAAAAAAxw3GWGcN78iHxrol8Uu/Y",
+  "snapshot_id": "aRplgAAAAAAOtIjBq88PpBg3TuVhXnyy",
   "tracks": [
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Point Of View (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2d2kGgtdmuiBR7D9HsOJGh"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 499253,
-      "name": "Blind Man, Blind Man",
-      "url": "https://open.spotify.com/track/7wzPJFQRgx0bsl8QYtIfWR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NOT TiGHT",
         "url": "https://open.spotify.com/album/6cXQ0dxd2pWCTFhZ8RIg2j"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 271167,
       "name": "MOON (feat. Herbie Hancock)",
       "url": "https://open.spotify.com/track/10UmWJn4BXev5y6uj1VwMl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Point Of View (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2d2kGgtdmuiBR7D9HsOJGh"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 499253,
+      "name": "Blind Man, Blind Man",
+      "url": "https://open.spotify.com/track/7wzPJFQRgx0bsl8QYtIfWR"
     },
     {
       "added_at": null,
@@ -607,26 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Possibilities",
-        "url": "https://open.spotify.com/album/7MEY24jBSYdNHh5XezNWUH"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        },
-        {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
-        }
-      ],
-      "duration_ms": 414466,
-      "name": "Sister Moon (feat. Sting)",
-      "url": "https://open.spotify.com/track/0GiqmR1TtxOTZgf3AIYEp7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Head Hunters",
         "url": "https://open.spotify.com/album/5fmIolILp5NAtNYiRPjhzA"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 395266,
       "name": "And What If I Don't - Remastered",
       "url": "https://open.spotify.com/track/3rQWPfEMS81vNrCIOd2lS2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Possibilities",
+        "url": "https://open.spotify.com/album/7MEY24jBSYdNHh5XezNWUH"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        },
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "duration_ms": 414466,
+      "name": "Sister Moon (feat. Sting)",
+      "url": "https://open.spotify.com/track/0GiqmR1TtxOTZgf3AIYEp7"
     },
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thrust",
-        "url": "https://open.spotify.com/album/00Uf5PRAinCJ0oiCX1Cv2k"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 579760,
-      "name": "Actual Proof",
-      "url": "https://open.spotify.com/track/1Aix42Q7mxGLMDglHhIOg3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mr. Hands",
         "url": "https://open.spotify.com/album/0ZzOJ3XuyVDBIWxrA17YE5"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 321000,
       "name": "4 A.M.",
       "url": "https://open.spotify.com/track/6HFhLv0wa8129Y7AXgnQC7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thrust",
+        "url": "https://open.spotify.com/album/00Uf5PRAinCJ0oiCX1Cv2k"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 579760,
+      "name": "Actual Proof",
+      "url": "https://open.spotify.com/track/1Aix42Q7mxGLMDglHhIOg3"
     },
     {
       "added_at": null,
@@ -847,18 +847,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thrust",
-        "url": "https://open.spotify.com/album/00Uf5PRAinCJ0oiCX1Cv2k"
+        "name": "Sorcerer",
+        "url": "https://open.spotify.com/album/4ONkvBCQrd2A8qJ5Cw6FYo"
       },
       "artists": [
         {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "Wayne Shorter",
+          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
+        },
+        {
           "name": "Herbie Hancock",
           "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        },
+        {
+          "name": "Ron Carter",
+          "url": "https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP"
+        },
+        {
+          "name": "Tony Williams",
+          "url": "https://open.spotify.com/artist/1TW90GjShgkjySrxBxcwQe"
         }
       ],
-      "duration_ms": 677333,
-      "name": "Butterfly",
-      "url": "https://open.spotify.com/track/2YQBDxMbQbOsdXixdL4ZyE"
+      "duration_ms": 292389,
+      "name": "Pee Wee (feat. Wayne Shorter, Herbie Hancock, Ron Carter & Tony Williams)",
+      "url": "https://open.spotify.com/track/4x4Y3DVb5L9Ym7kPc1VQIj"
     }
   ],
   "unique_name": "This Is Herbie Hancock",

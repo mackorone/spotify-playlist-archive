@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXak4YJ5RJ6q4.md) - [plain]
 
 > A story about a first love that lingers forever\. Listen to the music from Forever, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,209 likes - 57 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,246 likes - 57 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXak4YJ5RJ6q4.md) - [plain]
 | 34 | [Japanese Denim](https://open.spotify.com/track/1boXOL0ua7N2iCOUVI1p9F) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Get You \- Single](https://open.spotify.com/album/5qfhZ5YkZ4LhEUbYgjrWt6) | 4:30 |
 | 35 | [New Whip, Who Dis?](https://open.spotify.com/track/5CpLPpP5aOEO6qrB3srTyB) | [Daz Rinko](https://open.spotify.com/artist/5KHZOoGxynwyatN1LWCS9K) | [New Whip, Who Dis?](https://open.spotify.com/album/2M7RWfeChdHk8l52tBH7fw) | 2:39 |
 | 36 | [8TEEN](https://open.spotify.com/track/5bgwqaRSS3M8WHWruHgSL5) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [American Teen](https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg) | 3:48 |
-| 37 | [River](https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 4:00 |
+| 37 | [River](https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 3:58 |
 | 38 | [BITTA](https://open.spotify.com/track/5FZ1HZ9ke8CVbim5fVTXsm) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [BITTA](https://open.spotify.com/album/5sVuH0zhKKgPz21oKaCOeY) | 3:13 |
 | 39 | [Tadow](https://open.spotify.com/track/51rPRW8NjxZoWPPjnRGzHw) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Lady Lady](https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt) | 5:01 |
 | 40 | [Hey Mr\. D.J.](https://open.spotify.com/track/6eB35pgMXdfhz5Z0WjwF1O) | [Zhané](https://open.spotify.com/artist/6cjSmkVvMvyE6tCAo1M9Is) | [Pronounced Jah\-Nay](https://open.spotify.com/album/4Rj3sxQFk2chQQqfad4siz) | 4:12 |

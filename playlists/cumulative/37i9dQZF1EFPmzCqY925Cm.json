@@ -1227,6 +1227,24 @@
     },
     {
       "album": {
+        "name": "LILITH",
+        "url": "https://open.spotify.com/album/1GUCH2r70wXvAMwhugQs1G"
+      },
+      "artists": [
+        {
+          "name": "Lilyisthatyou",
+          "url": "https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146867,
+      "name": "VENUS",
+      "url": "https://open.spotify.com/track/4P9gbJX6AGFIzhcuCz2Bay"
+    },
+    {
+      "album": {
         "name": "What You Want",
         "url": "https://open.spotify.com/album/1FmlNS4zMot7O3l0yjT30W"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6zH3lfyDPJl.md) - [plain]
 
 > 센치한 감정을 노래하는 감성적인 곡들과 함께 물 멍에 잠겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,526 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,553 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,17 +28,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6zH3lfyDPJl.md) - [plain]
 | 18 | [Shouldn't Be](https://open.spotify.com/track/7F6PtLP6fJPVtA1FWVkl8K) | [Luke Chiang](https://open.spotify.com/artist/1dPSMH55yhvjYIwqCP4iDj) | [Shouldn't Be](https://open.spotify.com/album/0GObFfKRxmmY7lAeehFO51) | 3:30 |
 | 19 | [Sweet](https://open.spotify.com/track/2KhrPRV0V1FS2l4eQMJUWt) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5chTLnnxlxQVAgEv6YbEBe) | 4:51 |
 | 20 | [homesick](https://open.spotify.com/track/2FZIabCRMEWAYfN69Ijn1U) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [0.1 flaws and all.](https://open.spotify.com/album/5T0Gt5JYXh6gEttuB8ujML) | 5:06 |
-| 21 | [Next Semester](https://open.spotify.com/track/1BANPzYIhCQkJ1ZFq2Fb0O) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Clancy](https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI) | 3:54 |
-| 22 | [Never Not](https://open.spotify.com/track/1MaQMMOR80DNUWVBM7L9fz) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/2iIqqSVeH04ytD0DIWrrA6) | 3:28 |
+| 21 | [Never Not](https://open.spotify.com/track/1MaQMMOR80DNUWVBM7L9fz) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/2iIqqSVeH04ytD0DIWrrA6) | 3:28 |
+| 22 | [Next Semester](https://open.spotify.com/track/1BANPzYIhCQkJ1ZFq2Fb0O) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Clancy](https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI) | 3:54 |
 | 23 | [Break My Heart Again](https://open.spotify.com/track/7zw6nQHTwml1mVuQDf5V6k) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony \(Deluxe\)](https://open.spotify.com/album/52Kcim8psSCfCJN2kktKDj) | 3:57 |
 | 24 | [THE LONELIEST](https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [THE LONELIEST](https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc) | 4:07 |
 | 25 | [Pistol](https://open.spotify.com/track/36pMQRacz9p99OevARrvVs) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Pistol](https://open.spotify.com/album/5nvVm89VAndk8QoIwKBB3I) | 3:54 |
 | 26 | [The Most Beautiful Thing](https://open.spotify.com/track/07koEqsKHZTlGVMC9eoEjO) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz) | 3:55 |
-| 27 | [Backslide](https://open.spotify.com/track/6fNaHkjAxP6rI2sZhT7QJn) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Clancy](https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI) | 3:00 |
-| 28 | [Fire in These Hills](https://open.spotify.com/track/2Morv8EWzWFsfbqG8vdUfy) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [LOOM](https://open.spotify.com/album/7EPrkhjTBrwAV8yAKCmY0Y) | 3:39 |
-| 29 | [drunk](https://open.spotify.com/track/6D6HVKe7Qu3imn4zzJD0W9) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [always](https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A) | 3:47 |
-| 30 | [Lily of The Valley](https://open.spotify.com/track/4gAIUEY7VkeiKQOPwIYaYb) | [DANIEL](https://open.spotify.com/artist/1eZ0sjIrNuSNiZSfjTYgi6) | [Flower](https://open.spotify.com/album/2M7Shx9AkhvDRs33JZR7wx) | 4:57 |
-| 31 | [Alonica](https://open.spotify.com/track/25wNGoRO6hViX3AIPPFjpo) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [a beautiful blur](https://open.spotify.com/album/5w3zZsY4gg9M0L599NNmV2) | 3:58 |
+| 27 | [Fire in These Hills](https://open.spotify.com/track/2Morv8EWzWFsfbqG8vdUfy) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [LOOM](https://open.spotify.com/album/7EPrkhjTBrwAV8yAKCmY0Y) | 3:39 |
+| 28 | [drunk](https://open.spotify.com/track/6D6HVKe7Qu3imn4zzJD0W9) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [always](https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A) | 3:47 |
+| 29 | [Lily of The Valley](https://open.spotify.com/track/4gAIUEY7VkeiKQOPwIYaYb) | [DANIEL](https://open.spotify.com/artist/1eZ0sjIrNuSNiZSfjTYgi6) | [Flower](https://open.spotify.com/album/2M7Shx9AkhvDRs33JZR7wx) | 4:57 |
+| 30 | [Alonica](https://open.spotify.com/track/25wNGoRO6hViX3AIPPFjpo) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [a beautiful blur](https://open.spotify.com/album/5w3zZsY4gg9M0L599NNmV2) | 3:58 |
+| 31 | [Backslide](https://open.spotify.com/track/6fNaHkjAxP6rI2sZhT7QJn) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Clancy](https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI) | 3:00 |
 | 32 | [do you think you could love me?](https://open.spotify.com/track/2SyLEZFDH9pHAF4GpfVRJS) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [do you think you could love me?](https://open.spotify.com/album/3qHQ0WqQdY3p8a1ExkozNp) | 3:56 |
 | 33 | [Sexy to Someone](https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sexy to Someone](https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU) | 3:27 |
 | 34 | [YOUtopia](https://open.spotify.com/track/24l3mfIPWVa645a9LEwSHx) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: NeX GEn](https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD) | 4:02 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6zH3lfyDPJl.md) - [plain]
 | 41 | [Rainbow](https://open.spotify.com/track/6buQeGlk47QiPVoPObaZ7x) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Neon Pill](https://open.spotify.com/album/2dGlEut1TyhAyApZ0ADIsd) | 3:15 |
 | 42 | [Love Shine](https://open.spotify.com/track/467zSU1hr4OF3Zq5zVX3Dt) | [LEEHEESANG](https://open.spotify.com/artist/6zJiJ82GmaUZF8TwTPktsz) | [WHOEVER](https://open.spotify.com/album/4j878Utyg4KAXw0vAKuaSj) | 4:26 |
 | 43 | [The Craving \- single version](https://open.spotify.com/track/0S7lkKStHgfgjgwSFOvRNA) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Craving](https://open.spotify.com/album/7K7eWZNR5t9UBlrN2ltzLI) | 2:53 |
-| 44 | [Holidays](https://open.spotify.com/track/4U6Mq3JeRNyrNdG70cPsyJ) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Holidays](https://open.spotify.com/album/2ThtBfqXl82TjNx76GYqK2) | 3:41 |
-| 45 | [We Don't Wanna Talk](https://open.spotify.com/track/7Gzs6HvJBEBSxsNkXwBqay) | [Friday Pilots Club](https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY) | [Nowhere](https://open.spotify.com/album/52g4ptmJZyzP2q33EnVaOO) | 2:39 |
+| 44 | [We Don't Wanna Talk](https://open.spotify.com/track/7Gzs6HvJBEBSxsNkXwBqay) | [Friday Pilots Club](https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY) | [Nowhere](https://open.spotify.com/album/52g4ptmJZyzP2q33EnVaOO) | 2:39 |
+| 45 | [Holidays](https://open.spotify.com/track/4U6Mq3JeRNyrNdG70cPsyJ) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Holidays](https://open.spotify.com/album/2ThtBfqXl82TjNx76GYqK2) | 3:41 |
 | 46 | [1:05](https://open.spotify.com/track/4bjNOhOMvqFPflwHIaS7Fw) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [TEAM BABY](https://open.spotify.com/album/4x4xyLYUjyyBqKlkFT4YdY) | 4:00 |
 | 47 | [Save Yourself](https://open.spotify.com/track/5D5fiDX8MhK3lfHJmZZmpt) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Luxury Disease](https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4) | 3:17 |
-| 48 | [Medicate Me](https://open.spotify.com/track/1EusMjYm7PZftlZn87vPWE) | [Rain City Drive](https://open.spotify.com/artist/4rMxZovfLSDjEL9eI2pKo7), [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Medicate Me](https://open.spotify.com/album/5IVuTn7LffwxIzCx2Ii3Bp) | 2:47 |
+| 48 | [lovememore.](https://open.spotify.com/track/0P9XwjnnIPQFTwdqvu01Mf) | [dosii](https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd) | [dosii](https://open.spotify.com/album/0nrhKqYSxc2gwoMFzTckU6) | 3:51 |
 | 49 | [나무](https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [나무](https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur) | 3:52 |
-| 50 | [lovememore.](https://open.spotify.com/track/0P9XwjnnIPQFTwdqvu01Mf) | [dosii](https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd) | [dosii](https://open.spotify.com/album/0nrhKqYSxc2gwoMFzTckU6) | 3:51 |
+| 50 | [Medicate Me](https://open.spotify.com/track/1EusMjYm7PZftlZn87vPWE) | [Rain City Drive](https://open.spotify.com/artist/4rMxZovfLSDjEL9eI2pKo7), [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Medicate Me](https://open.spotify.com/album/5IVuTn7LffwxIzCx2Ii3Bp) | 2:47 |
 
-Snapshot ID: `AAAAAJEWVjeKt6l3Fgs3lBO7R5YrOuH2`
+Snapshot ID: `AAAAAEnTmjwhLfcG5dVo2Mf6YcUq5QTn`

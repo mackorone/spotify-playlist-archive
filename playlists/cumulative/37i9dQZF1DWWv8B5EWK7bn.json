@@ -1045,6 +1045,24 @@
     },
     {
       "album": {
+        "name": "Cocoon",
+        "url": "https://open.spotify.com/album/2uwbXDzfDu2CIU4nfCklvH"
+      },
+      "artists": [
+        {
+          "name": "Fight Pausa",
+          "url": "https://open.spotify.com/artist/1BkdvKE1YNIAAWrLNzLWKU"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169560,
+      "name": "Cocoon",
+      "url": "https://open.spotify.com/track/6D4ggqizOhkUMbVVBvoHlB"
+    },
+    {
+      "album": {
         "name": "CODE",
         "url": "https://open.spotify.com/album/52dJSmlSJSukSry0Ohuuvt"
       },
@@ -1190,6 +1208,24 @@
       "duration_ms": 447453,
       "name": "Corner Of My Sky",
       "url": "https://open.spotify.com/track/0Kx5mnfoluqEcrZmQDin6m"
+    },
+    {
+      "album": {
+        "name": "Corporate Shakespeare",
+        "url": "https://open.spotify.com/album/45g4yPfR9J2AsaAe3WhP1p"
+      },
+      "artists": [
+        {
+          "name": "Mindchatter",
+          "url": "https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158837,
+      "name": "Corporate Shakespeare",
+      "url": "https://open.spotify.com/track/3axFIm02EBDRF2ktqRg9aR"
     },
     {
       "album": {
@@ -5298,10 +5334,28 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 268640,
       "name": "Para los P\u00e1jaros",
       "url": "https://open.spotify.com/track/21i2D8lKOnfT7vOJx5D8z5"
+    },
+    {
+      "album": {
+        "name": "K for Key",
+        "url": "https://open.spotify.com/album/0qXFTcccbDaYt52bSnlRMf"
+      },
+      "artists": [
+        {
+          "name": "Korobu",
+          "url": "https://open.spotify.com/artist/4HE8DeV0LzecMQthc6ZPRA"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "Park",
+      "url": "https://open.spotify.com/track/0OhXb4TAocAWYio3TmKUt6"
     },
     {
       "album": {
@@ -5338,7 +5392,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 182800,
       "name": "Peculiar Machine - Georgia Anne Muldrow Remix",
       "url": "https://open.spotify.com/track/2zHv421xcKeRKkeTU7S042"
@@ -6406,7 +6460,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 180848,
       "name": "Smelly Floor",
       "url": "https://open.spotify.com/track/5wEsz3Gx3roK0mJ78iFHqn"

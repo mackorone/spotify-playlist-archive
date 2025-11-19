@@ -1,12 +1,12 @@
 {
   "description": "This is X Ambassadors. The essential tracks, all in one playlist.",
-  "num_followers": 57193,
+  "num_followers": 57195,
   "original_name": "This Is X Ambassadors",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRkUAAAAAAAjY0h+8uDBf0eEguHsAajb",
+  "snapshot_id": "aRplgAAAAAAQnkijly9LwRD43FXGOkUe",
   "tracks": [
     {
       "added_at": null,
@@ -435,6 +435,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Love Songs Drug Songs",
+        "url": "https://open.spotify.com/album/2gb0qB8risulVnHeXCqqhK"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 321386,
+      "name": "Litost",
+      "url": "https://open.spotify.com/track/7HyvbdOddwXEGzKoLNxhKG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Revival",
         "url": "https://open.spotify.com/album/0U6ldwLBEMkwgfQRY4V6D2"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 287893,
       "name": "Bad Husband (feat. X Ambassadors)",
       "url": "https://open.spotify.com/track/3GOjD8hwXOxbTF3apTqSqX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love Songs Drug Songs",
-        "url": "https://open.spotify.com/album/2gb0qB8risulVnHeXCqqhK"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 321386,
-      "name": "Litost",
-      "url": "https://open.spotify.com/track/7HyvbdOddwXEGzKoLNxhKG"
     },
     {
       "added_at": null,

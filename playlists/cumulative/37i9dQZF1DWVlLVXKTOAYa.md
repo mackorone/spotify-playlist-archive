@@ -4,7 +4,7 @@
 
 > The most interesting tracks in the current world of pop music.
 
-1,245 songs - 2 day 16 hr 29 min
+1,246 songs - 2 day 16 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -337,7 +337,7 @@
 | [emily](https://open.spotify.com/track/1sTtlEZeVeeEnxEztJNkYN) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [brent ii](https://open.spotify.com/album/0A9eIFTz09ciHqCHJNYyf2) | 3:53 | 2021-12-16 | 2022-04-18 |
 | [emo girl \(feat\. WILLOW\)](https://open.spotify.com/track/2AAyBZmMVZSZfgzXRYJOWQ) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [emo girl \(feat\. WILLOW\)](https://open.spotify.com/album/1BnZXtDOHSW7tx72fPAhyA) | 2:39 | 2022-03-24 | 2022-04-21 |
 | [End of the World](https://open.spotify.com/track/5SxahezRlC0saXbCALfB7c) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [End of the World](https://open.spotify.com/album/3ApGUtCbEwErvJ8AOs3kOW) | 4:10 | 2025-04-04 |  |
-| [Endless Summer](https://open.spotify.com/track/0yGh0gZX5nGRn4G3TWT9E8) | [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349) | [Endless Summer](https://open.spotify.com/album/1KZLgwiwvM1t4zCEA9ZOYb) | 2:45 | 2025-05-23 |  |
+| [Endless Summer](https://open.spotify.com/track/0yGh0gZX5nGRn4G3TWT9E8) | [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349) | [Endless Summer](https://open.spotify.com/album/1KZLgwiwvM1t4zCEA9ZOYb) | 2:45 | 2025-05-23 | 2025-11-19 |
 | [Envolver](https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Envolver](https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7) | 3:13 | 2022-03-24 | 2022-09-16 |
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-06-28 | 2025-03-06 |
 | [ETA](https://open.spotify.com/track/56v8WEnGzLByGsDAXDiv4d) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 2nd EP 'Get Up'](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | 2:31 | 2023-08-17 | 2024-05-24 |
@@ -888,6 +888,7 @@
 | [r u ok](https://open.spotify.com/track/7rq1zCf90CnU7OalBLIgNp) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [r u ok](https://open.spotify.com/album/4xhldRhsJY00rIkBFMe5yC) | 3:05 | 2021-12-16 | 2022-06-03 |
 | [Rasputin](https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Rasputin](https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd) | 3:06 | 2022-03-24 | 2022-10-01 |
 | [Real Thing \(feat\. Tori Kelly\)](https://open.spotify.com/track/4Nk5iJrw4u7vJ6nGXosuxk) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Pink Moon](https://open.spotify.com/album/5MxLgiQF7yvC7SVMghxPZ1) | 3:15 | 2022-03-24 | 2022-04-10 |
+| [Real To Me](https://open.spotify.com/track/5mThLXcmnbDgoudfO6HBNm) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [Real To Me](https://open.spotify.com/album/5JhzejBKo3M8xRbKsdOjqD) | 3:10 | 2025-11-10 |  |
 | [Reckless](https://open.spotify.com/track/5ajjAnNRh8bxFvaVHzpPjh) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Reckless](https://open.spotify.com/album/5lVImnUah94yoxXy2H1qo7) | 3:23 | 2021-12-16 | 2024-01-12 |
 | [Record Player \(with AJR\)](https://open.spotify.com/track/4jYt1pQqg2mIZmY4FWCZEM) | [Daisy the Great](https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB), [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [Record Player \(with AJR\)](https://open.spotify.com/album/0zs9o2NkQxcRTlGlcOteP5) | 2:29 | 2022-03-24 | 2022-04-08 |
 | [Red Eye \(feat\. TroyBoi\)](https://open.spotify.com/track/24OeEKPQ8qqNZnPevRHxUT) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [Justice \(The Complete Edition\)](https://open.spotify.com/album/3uPnO1aZBwMgWK1DI5zve9) | 3:07 | 2021-12-16 | 2022-07-11 |

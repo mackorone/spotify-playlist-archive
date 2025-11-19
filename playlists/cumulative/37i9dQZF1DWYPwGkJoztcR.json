@@ -99,6 +99,24 @@
     },
     {
       "album": {
+        "name": "Amsterdam",
+        "url": "https://open.spotify.com/album/5Poc7rMFKXvwGejX9WWJfy"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245562,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/7Get7yGumhmImlPmD1fKOM"
+    },
+    {
+      "album": {
         "name": "Another Year Will Pass",
         "url": "https://open.spotify.com/album/5upyUvc97PJ25cRb1vLLDI"
       },
@@ -1168,7 +1186,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 234183,
       "name": "Kind Of Love",
       "url": "https://open.spotify.com/track/6IBkD70W6Lx4w13dzyYNEn"

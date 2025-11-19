@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUnhhRs5u3TO.md) - [plain]
 
 > The best metal songs of the 2010s\. Cover: Avenged Sevenfold
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,058 likes - 75 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,060 likes - 75 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUnhhRs5u3TO.md) - [plain]
 | 6 | [Rotting In Vain](https://open.spotify.com/track/5jQnPdDMHOd8MdCM2avhQm) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Serenity of Suffering \(Deluxe\)](https://open.spotify.com/album/4RjHOlFpX2rHqsViJa0fSn) | 3:33 |
 | 7 | [Repentless](https://open.spotify.com/track/65POu6kUQdR33JxwN92afX) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [Repentless](https://open.spotify.com/album/4w99bkmWwryeYvw2zFYt9M) | 3:19 |
 | 8 | [All Out Life](https://open.spotify.com/track/6vAQtUlYrzolE6SS9QCTs5) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [All Out Life](https://open.spotify.com/album/65QFxYBGGQGGvAcW0YNMXa) | 5:40 |
-| 9 | [I Am Machine](https://open.spotify.com/track/2UDumaw7osnyjH7RZ2DLpB) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Human](https://open.spotify.com/album/0YkHsU3Mblh7jvNngbV20W) | 3:20 |
+| 9 | [I Am Machine](https://open.spotify.com/track/2UDumaw7osnyjH7RZ2DLpB) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Human](https://open.spotify.com/album/0YkHsU3Mblh7jvNngbV20W) | 3:21 |
 | 10 | [Pneuma](https://open.spotify.com/track/03sEzk1VyrUZSgyhoQR0LZ) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Fear Inoculum](https://open.spotify.com/album/7acEciVtnuTzmwKptkjth5) | 11:53 |
 | 11 | [RISE](https://open.spotify.com/track/46QdfDL0LnGlHLKmREiXP5) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Lifelines](https://open.spotify.com/album/1GpxP0nEqmQoQimVAp8bAZ) | 3:14 |
 | 12 | [Your Betrayal](https://open.spotify.com/track/25GC50HslaaruyrKjdu0lP) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Fever](https://open.spotify.com/album/3q3DB4fElKDIDE2bXTLFlb) | 4:51 |

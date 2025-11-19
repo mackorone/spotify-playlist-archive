@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BHSzm.md) - [plain]
 
 > This is The Who\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,880 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,899 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,11 +32,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BHSzm.md) - [plain]
 | 22 | [Getting In Tune](https://open.spotify.com/track/0M7tdKXvtrEk26j8nXFtvC) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who's Next \(Deluxe Edition\)](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) | 4:48 |
 | 23 | [I'm Free](https://open.spotify.com/track/7tbp39GZvDA0cItgHynVnG) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Tommy](https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4) | 2:39 |
 | 24 | [5:15](https://open.spotify.com/track/5E7AQh3drqwYcIQkcdUs5Y) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Quadrophenia \(Super Deluxe Edition\)](https://open.spotify.com/album/2miMVTH3qNA49YD2BUaIWK) | 5:00 |
-| 25 | [Boris The Spider](https://open.spotify.com/track/1S0F285e5h5BNI2gJAmPqe) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [A Quick One \(Expanded Edition\)](https://open.spotify.com/album/6f4mqM3RNAfO1t6XeeUa8P) | 2:29 |
-| 26 | [The Kids Are Alright](https://open.spotify.com/track/4zJBF8rXepeoJ0qJOqMLhj) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [My Generation \(50th Anniversary / Super Deluxe\)](https://open.spotify.com/album/0ooEHMMu3yiwnFwNYHcqwX) | 3:07 |
+| 25 | [The Kids Are Alright](https://open.spotify.com/track/4zJBF8rXepeoJ0qJOqMLhj) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [My Generation \(50th Anniversary / Super Deluxe\)](https://open.spotify.com/album/0ooEHMMu3yiwnFwNYHcqwX) | 3:07 |
+| 26 | [Happy Jack](https://open.spotify.com/track/4EQL3I68WEw20icaY5y6Cy) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Meaty, Beaty, Big And Bouncy](https://open.spotify.com/album/0NufsuTuf3U0BY0p6jFdxV) | 2:12 |
 | 27 | [Overture](https://open.spotify.com/track/3P0VltjBDpzJeFFHVpF0nK) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Tommy](https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4) | 5:20 |
 | 28 | [I'm One](https://open.spotify.com/track/6TRQUflD06zYvNijwb2HNH) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Quadrophenia \(Super Deluxe Edition\)](https://open.spotify.com/album/2miMVTH3qNA49YD2BUaIWK) | 2:37 |
-| 29 | [Happy Jack](https://open.spotify.com/track/4EQL3I68WEw20icaY5y6Cy) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Meaty, Beaty, Big And Bouncy](https://open.spotify.com/album/0NufsuTuf3U0BY0p6jFdxV) | 2:12 |
+| 29 | [Boris The Spider](https://open.spotify.com/track/1S0F285e5h5BNI2gJAmPqe) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [A Quick One \(Expanded Edition\)](https://open.spotify.com/album/6f4mqM3RNAfO1t6XeeUa8P) | 2:29 |
 | 30 | [Athena](https://open.spotify.com/track/255k7GWdOau9yOsewX85lg) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [It's Hard](https://open.spotify.com/album/46rjSfrOaPBPX8npn50l0A) | 3:47 |
 | 31 | [1921](https://open.spotify.com/track/2EJo2k8xmQsA3E5VwTta7I) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Tommy](https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4) | 2:49 |
 | 32 | [Batman \- Mono Version](https://open.spotify.com/track/7CcCDv8Pd91brlJISTEZlp) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [A Quick One](https://open.spotify.com/album/4YlPOh1uDMnHtDdzSdAGBM) | 1:34 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BHSzm.md) - [plain]
 | 44 | [Quadrophenia](https://open.spotify.com/track/0tw9YJD5pF7JgjbKjO29kP) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Quadrophenia](https://open.spotify.com/album/3JV6BIIXo3mj6GLIGH9p8a) | 6:13 |
 | 45 | [Sister Disco](https://open.spotify.com/track/7xo7YHCPkXlh8ibJmSHBFN) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who Are You](https://open.spotify.com/album/7at3CV9Y9P57wsEXkfU0q8) | 4:22 |
 | 46 | [I Am The Sea](https://open.spotify.com/track/0f0DUjcrkg9Vi4Eg0abLPi) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Quadrophenia \(Super Deluxe Edition\)](https://open.spotify.com/album/2miMVTH3qNA49YD2BUaIWK) | 2:09 |
-| 47 | [Don't Let Go The Coat](https://open.spotify.com/track/2W0OIBbPwrCzKwDApKN8uk) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Face Dances](https://open.spotify.com/album/2zLGQD3h1VG2tKzJCdAAyR) | 3:48 |
-| 48 | [New Song \- Pete Vocal Version](https://open.spotify.com/track/79rkfGjPoYuUKPt4DsaDQp) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [New Song \(Pete Vocal Version\)](https://open.spotify.com/album/2c4vUP2C3NIB5akiXef06H) | 4:20 |
+| 47 | [New Song \- Pete Vocal Version](https://open.spotify.com/track/79rkfGjPoYuUKPt4DsaDQp) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [New Song \(Pete Vocal Version\)](https://open.spotify.com/album/2c4vUP2C3NIB5akiXef06H) | 4:20 |
+| 48 | [Don't Let Go The Coat](https://open.spotify.com/track/2W0OIBbPwrCzKwDApKN8uk) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Face Dances](https://open.spotify.com/album/2zLGQD3h1VG2tKzJCdAAyR) | 3:48 |
 | 49 | [905](https://open.spotify.com/track/1OUhfm8VXT7jvDPjH7P6Sx) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who Are You](https://open.spotify.com/album/7at3CV9Y9P57wsEXkfU0q8) | 4:02 |
 | 50 | [Ball and Chain](https://open.spotify.com/track/64csOaHL9FYqiOJxAi8h5X) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [WHO \(Deluxe\)](https://open.spotify.com/album/2WuaYvGgx9MS1Vj37aBiyU) | 4:29 |
 
-Snapshot ID: `aRkUAAAAAADVi6j7E6VIcNcLMJ9CNTxb`
+Snapshot ID: `aRplgAAAAAAts7eIa3s6Wz05sJHh3ocR`

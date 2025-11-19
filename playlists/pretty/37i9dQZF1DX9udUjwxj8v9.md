@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udUjwxj8v9.md) - [plain]
 
 > minha carne é de carnaval, meu coração é igual
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,980 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,978 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udUjwxj8v9.md) - [plain]
 | 2 | [Mal Acostumada \- Ao Vivo](https://open.spotify.com/track/7vjXPjtvm9IjoPKGVyfg10) | [Ara Ketu](https://open.spotify.com/artist/6NqIUh0cpaygBWUUAjBaog) | [Ao Vivo](https://open.spotify.com/album/5pRG4SxFRIp5QZPczn1Ngx) | 4:23 |
 | 3 | [Vou Festejar](https://open.spotify.com/track/54JLlb23AnzXErLRSNVIUn) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [De Pé No Chão](https://open.spotify.com/album/2QxzAhXKjoUuiVO2sqMjP6) | 3:09 |
 | 4 | [Reconvexo \- Ao Vivo](https://open.spotify.com/track/1ddeP7G76wscmc0RH5sjVA) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Amor Festa Devoção Ao Vivo](https://open.spotify.com/album/1st1nLzI6XNEZOy0iIyx38) | 5:00 |
-| 5 | [Toda Menina Baiana](https://open.spotify.com/track/0ENvhTTww1MVOulrzuxSmu) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Realce](https://open.spotify.com/album/7dBoyhnlxf1DvmWxtgQPLr) | 3:46 |
-| 6 | [Tropicana \(Morena Tropicana\)](https://open.spotify.com/track/54BLy0zSiBUOINjOwMC3M2) | [Alceu Valença](https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG) | [20 Grandes Sucessos De Alceu Valença](https://open.spotify.com/album/5zSPeLOror6UiYeodh4Bs9) | 3:51 |
+| 5 | [Tropicana \(Morena Tropicana\)](https://open.spotify.com/track/54BLy0zSiBUOINjOwMC3M2) | [Alceu Valença](https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG) | [20 Grandes Sucessos De Alceu Valença](https://open.spotify.com/album/5zSPeLOror6UiYeodh4Bs9) | 3:51 |
+| 6 | [Toda Menina Baiana](https://open.spotify.com/track/0ENvhTTww1MVOulrzuxSmu) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Realce](https://open.spotify.com/album/7dBoyhnlxf1DvmWxtgQPLr) | 3:46 |
 | 7 | [Eu Quero É Botar Meu Bloco Na Rua](https://open.spotify.com/track/6yEBV6MlSODqJPXK6BilZo) | [Sérgio Sampaio](https://open.spotify.com/artist/0ttwBh6o5To3XujSD4x3uA) | [Eu Quero É Botar Meu Bloco Na Rua](https://open.spotify.com/album/221cRlERrYynaEGITG5LhE) | 4:40 |
 | 8 | [Me Abraça](https://open.spotify.com/track/63lNKw8FiWJG5xsXYeMaY4) | [Banda Eva](https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ) | [Hora H](https://open.spotify.com/album/5ReSNT2PPdG3fNI8rl8852) | 4:10 |
 | 9 | [A Luz De Tieta](https://open.spotify.com/track/2QC8Y1mUL709fOZWO8okcR) | [Timbalada](https://open.spotify.com/artist/1Da4NyNC4CLayaNGGmL9uZ), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Axé Bahia](https://open.spotify.com/album/63VoP8enjIIB5EBNAwx4OZ) | 3:14 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udUjwxj8v9.md) - [plain]
 | 47 | [Que bloco é esse?](https://open.spotify.com/track/4njPA0lM6wexbn6L9eY8oQ) | [Ilê Aiyê](https://open.spotify.com/artist/7ntfJVmjXJqHALQ89SVmLY) | [Canto Negro](https://open.spotify.com/album/3WgPAI060b6EN6UayPTKa5) | 3:13 |
 | 48 | [Estação da Luz](https://open.spotify.com/track/20jqOQnJnF89ju9DMfQ2Kk) | [Alceu Valença](https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG) | [Estação da Luz](https://open.spotify.com/album/0Jsqnl2N8Ixy1hEh5p0YbO) | 3:22 |
 | 49 | [Massa Real](https://open.spotify.com/track/6aiTiZ3CKpwVpusZpmjbLX) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Fantasia](https://open.spotify.com/album/7CnmrVFElrgMKUSuIvYqgE) | 2:46 |
-| 50 | [O Carnaval Quem É Que Faz?](https://open.spotify.com/track/2TPCINjlzZ9Hbp0tCRQC2b) | [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5), [Lucas Santtana](https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z) | [BaianaSystem](https://open.spotify.com/album/1oAU4OkP63pBrWTvLPGlRS) | 4:23 |
+| 50 | [Portela Na Avenida](https://open.spotify.com/track/1zVuzDifwftaRGzj4AZCv2) | [Clara Nunes](https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown) | [Meus Momentos](https://open.spotify.com/album/7aGsQAH1uvanvleHoNZtrk) | 3:45 |
 
 Snapshot ID: `AAAAAL/RkVLbYifL+cxBQWLYnqtoYctU`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3H1QVmsldwybLKBNwpa8IA.md) - [plain]
 
 > All I Want For Christmas Is...this playlist! Listen to your fav holiday classics here.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 35,610 likes - 140 songs - 7 hr 31 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 35,610 likes - 140 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/3H1QVmsldwybLKBNwpa8IA.md) - [plain]
 | 59 | [Jingle Bell Rock \- Daryl's Version](https://open.spotify.com/track/3y8Z2sOJrBt6yKEfsZG1NY) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Christmas Hits](https://open.spotify.com/album/2ojsnLAKwDMT0k3sU0ur0x) | 2:02 |
 | 60 | [All I Want for Christmas is You](https://open.spotify.com/track/4rTeOy6VlQm10EGRhcEi0V) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Walter Afanasieff](https://open.spotify.com/artist/3kre11hj5tSyNIKQdZ8u2i), [The Piano Guys](https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI) | [All I Want for Christmas is You](https://open.spotify.com/album/6qa7hIEIMrq8kn23zobv9u) | 3:13 |
 | 61 | [I'll Be Home for Christmas](https://open.spotify.com/track/5oTGfOV9OkYufPZalNRgvP) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [One Wish / The Holiday Album](https://open.spotify.com/album/7bEbn6yaqOzXmb3eAXDRbU) | 3:45 |
-| 62 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/3PIDciSFdrQxSQSihim3hN) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 2:33 |
+| 62 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/3PIDciSFdrQxSQSihim3hN) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 2:35 |
 | 63 | [Grown\-Up Christmas List \(feat\. Kelly Clarkson\)](https://open.spotify.com/track/34puL6WaA1fjX4zvsDpkPq) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [The Best Of Pentatonix Christmas](https://open.spotify.com/album/1ohdh4vzVUXhtaE04cHvle) | 4:42 |
 | 64 | [I'll Be Home](https://open.spotify.com/track/4ZWiQrSCsoZZsHm7GCYxv1) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [I'll Be Home](https://open.spotify.com/album/4wjIJBPsLBaBqaY0gDG8BX) | 3:39 |
 | 65 | [Father Christmas](https://open.spotify.com/track/2oDoXdt2ZNyjlMTX2wahLW) | [Platinum Blonde](https://open.spotify.com/artist/5oxTKyMgf6POnzlqM1mduA) | [Father Christmas / Père Noël](https://open.spotify.com/album/4tWk6d2AhKexFb7GxNKXL5) | 3:47 |
@@ -117,7 +117,7 @@ pretty - [cumulative](/playlists/cumulative/3H1QVmsldwybLKBNwpa8IA.md) - [plain]
 | 107 | [Winter Wonderland](https://open.spotify.com/track/3svlCHYt8YCtAYXjKhrpUs) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Runnin' Out of Fools \(Expanded Edition\)](https://open.spotify.com/album/4y31w9vk2A1Wn3GGZCpOpq) | 2:12 |
 | 108 | [Hard Candy Christmas](https://open.spotify.com/track/0uTVChzibEWKrXojPaJ9y1) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Once Upon A Christmas](https://open.spotify.com/album/5JWR4pqfxra6JEeUqNMPO7) | 3:37 |
 | 109 | [Let it Snow! Let it Snow! Let it Snow!](https://open.spotify.com/track/0P5TAzDQueTle3WTIsf0Tq) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Naughty List](https://open.spotify.com/album/0ECQqczzPAXQ6AMw5Z9HrX) | 2:51 |
-| 110 | [Silent Night](https://open.spotify.com/track/1sFWEpf1aPYN576LS1aa4Y) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 3:39 |
+| 110 | [Silent Night](https://open.spotify.com/track/1sFWEpf1aPYN576LS1aa4Y) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 3:41 |
 | 111 | [A Marshmallow World](https://open.spotify.com/track/3szI9hDVbyOYU0yd77G35n) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Dean Martin Christmas Album](https://open.spotify.com/album/4Kd6niUoyuNkcLRVmThm0H) | 2:40 |
 | 112 | [Someday at Christmas](https://open.spotify.com/track/5NlzXWxlu3lWlQhre9T15p) | [Jackie Evancho](https://open.spotify.com/artist/7FukyKMUPL10mDN9LgAngI) | [Someday at Christmas](https://open.spotify.com/album/3p4yYl4oILHK84ciA5o4XE) | 4:20 |
 | 113 | [Wrapped in Red](https://open.spotify.com/track/2nMZx7QHerfo4Wv37xNUEC) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Wrapped In Red](https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ) | 3:36 |
@@ -145,7 +145,7 @@ pretty - [cumulative](/playlists/cumulative/3H1QVmsldwybLKBNwpa8IA.md) - [plain]
 | 135 | [There Is No Christmas Like a Home Christmas](https://open.spotify.com/track/0bXoxsKw6751ZT1BLKcgve) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [A Perry Como Christmas](https://open.spotify.com/album/6kwOEj6diw9tUSbhgIVeBP) | 3:18 |
 | 136 | [O Christmas Tree \(Glee Cast Version\)](https://open.spotify.com/track/0ItFNdmFzFHtYnf1d5KHyL) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm) | [Glee: The Music, The Christmas Album](https://open.spotify.com/album/7FNrLZcarhJDymYgoUQfQN) | 2:59 |
 | 137 | [Auld Lang Syne](https://open.spotify.com/track/73Qw33wmrc3r4kSRBXHGSX) | [Susan Boyle](https://open.spotify.com/artist/1qAuetfG6mhtDgsVIffWQc) | [The Gift](https://open.spotify.com/album/2SHlXY3Z9gKK2MPExaWR8M) | 2:44 |
-| 138 | [O Holy Night](https://open.spotify.com/track/3B7FO3kJ5kv3mX7yiaB7sT) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:26 |
+| 138 | [O Holy Night](https://open.spotify.com/track/3B7FO3kJ5kv3mX7yiaB7sT) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:27 |
 | 139 | [This Christmas I'm Coming Home](https://open.spotify.com/track/7JZAQlrUT16F5dHeGeeB3Y) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [This Christmas I'm Coming Home](https://open.spotify.com/album/1cN6RQKe5daBWQj795grM2) | 3:00 |
 | 140 | [Santa Claus Is Comin' To Town](https://open.spotify.com/track/5h1LioQgmLvWoRU7V4pjma) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday](https://open.spotify.com/album/32gqZfrZ51UMunez3CZDJZ) | 2:39 |
 

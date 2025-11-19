@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3WNHaM.md) - [plain]
 
 > This is Deftones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 463,705 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 464,015 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,11 +25,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3WNHaM.md) - [plain]
 | 15 | [Diamond Eyes](https://open.spotify.com/track/6nmDEbjMZru5j55HIkX2yZ) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Diamond Eyes](https://open.spotify.com/album/1GjjBpY2iDwSQs5bykQI5e) | 3:08 |
 | 16 | [my mind is a mountain](https://open.spotify.com/track/0DMU0QiSypeYxL6BYdxjcy) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [private music](https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ) | 2:50 |
 | 17 | [Passenger](https://open.spotify.com/track/7IoK6jZBxY7NMoQPoPXZCF) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [White Pony](https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC) | 6:08 |
-| 18 | [Engine No\. 9](https://open.spotify.com/track/5vVKkF3xih38Vcoo4HgAo8) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Adrenaline](https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG) | 3:24 |
+| 18 | [7 Words](https://open.spotify.com/track/6DoXuH326aAYEN8CnlLmhP) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Adrenaline](https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG) | 3:43 |
 | 19 | [Beauty School](https://open.spotify.com/track/5sUCU4eiyf0pplIJ7OGEoc) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Diamond Eyes](https://open.spotify.com/album/1GjjBpY2iDwSQs5bykQI5e) | 4:47 |
 | 20 | [milk of the madonna](https://open.spotify.com/track/2463q6UN8BIDfeVI379qFz) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [private music](https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ) | 4:08 |
 | 21 | [Hole in the Earth](https://open.spotify.com/track/5Bpc360LNUScK53FrM8nvB) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Saturday Night Wrist](https://open.spotify.com/album/4ilqDlqD37nilewk9x8tyZ) | 4:09 |
-| 22 | [7 Words](https://open.spotify.com/track/6DoXuH326aAYEN8CnlLmhP) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Adrenaline](https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG) | 3:43 |
+| 22 | [Engine No\. 9](https://open.spotify.com/track/5vVKkF3xih38Vcoo4HgAo8) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Adrenaline](https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG) | 3:24 |
 | 23 | [Swerve City](https://open.spotify.com/track/2OUR8g12h5qsGDs1v5lqvp) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Koi No Yokan](https://open.spotify.com/album/4PIVdqvL1Rc7T7Vfsr8n8Q) | 2:44 |
 | 24 | [ecdysis](https://open.spotify.com/track/4JV3BjszeEUD1bTTcx9hdx) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [private music](https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ) | 3:28 |
 | 25 | [Xerces](https://open.spotify.com/track/5hxcxipGOjgTzrPOkfsyyS) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Saturday Night Wrist](https://open.spotify.com/album/4ilqDlqD37nilewk9x8tyZ) | 3:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3WNHaM.md) - [plain]
 | 49 | [\(L\)MIRL](https://open.spotify.com/track/4hYNZvsCnAOZP0lADhpmgC) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Gore](https://open.spotify.com/album/3tsXyEbUQehXPaRFCS8K1n) | 5:02 |
 | 50 | [Genesis](https://open.spotify.com/track/6FfMQVzOC46ZL5byOQfUhT) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Ohms](https://open.spotify.com/album/0VEFy5MsBiq0u2lWL0OwOd) | 5:17 |
 
-Snapshot ID: `aRkUAAAAAAAfcH3v4xvz5qRLf3xezwFH`
+Snapshot ID: `aRplgAAAAAD6kBHjhphxhOtvc4WOXtoZ`

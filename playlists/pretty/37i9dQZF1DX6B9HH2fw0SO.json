@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2015. Cover: Tame Impala\n\n\n\n\n\n",
-  "num_followers": 80483,
+  "num_followers": 80507,
   "original_name": "Best of Indie 2015",
   "owner": {
     "name": "Spotify",
@@ -212,7 +212,7 @@
           "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
         }
       ],
-      "duration_ms": 225973,
+      "duration_ms": 225980,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/5n0CTysih20NYdT2S0Wpe8"
     },
@@ -292,7 +292,7 @@
           "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
         }
       ],
-      "duration_ms": 214386,
+      "duration_ms": 214383,
       "name": "Cold Cold Cold",
       "url": "https://open.spotify.com/track/1Q3t9fWvHUXKsMmpD2XpUu"
     },
@@ -520,9 +520,25 @@
           "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
         }
       ],
-      "duration_ms": 215440,
+      "duration_ms": 215666,
       "name": "Oceans",
       "url": "https://open.spotify.com/track/5eXnC2B5RU5fAhfwvV2ABD"
+    },
+    {
+      "added_at": "2024-03-18 13:24:52",
+      "album": {
+        "name": "Oh Wonder",
+        "url": "https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT"
+      },
+      "artists": [
+        {
+          "name": "Oh Wonder",
+          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
+        }
+      ],
+      "duration_ms": 229934,
+      "name": "Lose It",
+      "url": "https://open.spotify.com/track/2QgNcjwEn0vGmTommfszQd"
     },
     {
       "added_at": "2024-03-18 13:24:52",
@@ -559,22 +575,6 @@
     {
       "added_at": "2024-03-18 13:24:52",
       "album": {
-        "name": "Oh Wonder",
-        "url": "https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT"
-      },
-      "artists": [
-        {
-          "name": "Oh Wonder",
-          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
-        }
-      ],
-      "duration_ms": 229934,
-      "name": "Lose It",
-      "url": "https://open.spotify.com/track/2QgNcjwEn0vGmTommfszQd"
-    },
-    {
-      "added_at": "2024-03-18 13:24:52",
-      "album": {
         "name": "Blood",
         "url": "https://open.spotify.com/album/1Fh5Y8ldo4PIW8Ija51BRK"
       },
@@ -607,18 +607,18 @@
     {
       "added_at": "2024-03-18 13:24:52",
       "album": {
-        "name": "What Went Down",
-        "url": "https://open.spotify.com/album/0RyCpIKlCV0kgEuzrmp73O"
+        "name": "Oh Wonder",
+        "url": "https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT"
       },
       "artists": [
         {
-          "name": "Foals",
-          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
+          "name": "Oh Wonder",
+          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
         }
       ],
-      "duration_ms": 300720,
-      "name": "What Went Down",
-      "url": "https://open.spotify.com/track/78tgXRq9Q6tPNP9hKCpgwB"
+      "duration_ms": 224740,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/0IVHlst3XMgzXUJbIyZ8oO"
     },
     {
       "added_at": "2024-03-18 13:24:52",
@@ -639,18 +639,18 @@
     {
       "added_at": "2024-03-18 13:24:52",
       "album": {
-        "name": "Oh Wonder",
-        "url": "https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT"
+        "name": "What Went Down",
+        "url": "https://open.spotify.com/album/0RyCpIKlCV0kgEuzrmp73O"
       },
       "artists": [
         {
-          "name": "Oh Wonder",
-          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
+          "name": "Foals",
+          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
         }
       ],
-      "duration_ms": 224740,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/0IVHlst3XMgzXUJbIyZ8oO"
+      "duration_ms": 300720,
+      "name": "What Went Down",
+      "url": "https://open.spotify.com/track/78tgXRq9Q6tPNP9hKCpgwB"
     },
     {
       "added_at": "2024-03-18 13:24:52",
@@ -664,7 +664,7 @@
           "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
         }
       ],
-      "duration_ms": 173173,
+      "duration_ms": 173175,
       "name": "Mess Around",
       "url": "https://open.spotify.com/track/0X0Lz7LwpiIWcdGqVWaxXD"
     },
@@ -687,6 +687,22 @@
       "duration_ms": 228000,
       "name": "Firefly",
       "url": "https://open.spotify.com/track/2s9C5THb9llwyVXtjveV4E"
+    },
+    {
+      "added_at": "2024-03-18 13:24:52",
+      "album": {
+        "name": "Oh Wonder",
+        "url": "https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT"
+      },
+      "artists": [
+        {
+          "name": "Oh Wonder",
+          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
+        }
+      ],
+      "duration_ms": 180119,
+      "name": "Technicolour Beat",
+      "url": "https://open.spotify.com/track/5pLpkaIRobcvPnUmclNv6o"
     },
     {
       "added_at": "2024-03-18 13:24:52",
@@ -723,22 +739,6 @@
     {
       "added_at": "2024-03-18 13:24:52",
       "album": {
-        "name": "Oh Wonder",
-        "url": "https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT"
-      },
-      "artists": [
-        {
-          "name": "Oh Wonder",
-          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
-        }
-      ],
-      "duration_ms": 180119,
-      "name": "Technicolour Beat",
-      "url": "https://open.spotify.com/track/5pLpkaIRobcvPnUmclNv6o"
-    },
-    {
-      "added_at": "2024-03-18 13:24:52",
-      "album": {
         "name": "Tell Me I'm Pretty",
         "url": "https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ"
       },
@@ -748,7 +748,7 @@
           "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
         }
       ],
-      "duration_ms": 252786,
+      "duration_ms": 252787,
       "name": "Too Late To Say Goodbye",
       "url": "https://open.spotify.com/track/48sc7vBJeNoCEQhxO3zYKA"
     },
@@ -767,6 +767,22 @@
       "duration_ms": 187720,
       "name": "Lampshades on Fire",
       "url": "https://open.spotify.com/track/5jJ69cMDMC0aeWPjZo6VP2"
+    },
+    {
+      "added_at": "2024-03-18 13:24:52",
+      "album": {
+        "name": "Oh Wonder",
+        "url": "https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT"
+      },
+      "artists": [
+        {
+          "name": "Oh Wonder",
+          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
+        }
+      ],
+      "duration_ms": 214174,
+      "name": "All We Do",
+      "url": "https://open.spotify.com/track/6Vigp41BietH0WoFZ52JI5"
     },
     {
       "added_at": "2024-03-18 13:24:52",
@@ -803,22 +819,6 @@
     {
       "added_at": "2024-03-18 13:24:52",
       "album": {
-        "name": "Oh Wonder",
-        "url": "https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT"
-      },
-      "artists": [
-        {
-          "name": "Oh Wonder",
-          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
-        }
-      ],
-      "duration_ms": 214174,
-      "name": "All We Do",
-      "url": "https://open.spotify.com/track/6Vigp41BietH0WoFZ52JI5"
-    },
-    {
-      "added_at": "2024-03-18 13:24:52",
-      "album": {
         "name": "Yours, Dreamily,",
         "url": "https://open.spotify.com/album/7GcnWeopUkyCwFFEt6RrsA"
       },
@@ -847,6 +847,22 @@
       "duration_ms": 293468,
       "name": "Delilah",
       "url": "https://open.spotify.com/track/12HB8AmFTovKrFcGG36KbL"
+    },
+    {
+      "added_at": "2024-03-18 13:24:52",
+      "album": {
+        "name": "Oh Wonder",
+        "url": "https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT"
+      },
+      "artists": [
+        {
+          "name": "Oh Wonder",
+          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
+        }
+      ],
+      "duration_ms": 257426,
+      "name": "White Blood",
+      "url": "https://open.spotify.com/track/3sZfQB5uYTJmA4QnB8dv7P"
     },
     {
       "added_at": "2024-03-18 13:24:52",
@@ -883,22 +899,6 @@
       "duration_ms": 224527,
       "name": "Shadow",
       "url": "https://open.spotify.com/track/3sJQGz6WX2YIBaHsH3bRMq"
-    },
-    {
-      "added_at": "2024-03-18 13:24:52",
-      "album": {
-        "name": "Oh Wonder",
-        "url": "https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT"
-      },
-      "artists": [
-        {
-          "name": "Oh Wonder",
-          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
-        }
-      ],
-      "duration_ms": 257426,
-      "name": "White Blood",
-      "url": "https://open.spotify.com/track/3sZfQB5uYTJmA4QnB8dv7P"
     },
     {
       "added_at": "2024-03-18 13:24:52",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-03-18 13:24:52",
       "album": {
-        "name": "Painting Greys",
-        "url": "https://open.spotify.com/album/3HR8LNAashzW2CdEpW0Pct"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 227368,
-      "name": "Painting Greys",
-      "url": "https://open.spotify.com/track/6kUohQ7py1XEcQAhUgf2Zz"
-    },
-    {
-      "added_at": "2024-03-18 13:24:52",
-      "album": {
         "name": "Multi-Love",
         "url": "https://open.spotify.com/album/587Clxxo1i5flgjvS52bEC"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 250800,
       "name": "Multi-Love",
       "url": "https://open.spotify.com/track/0PEXp5yk0sx9dJ8JzwvjJb"
+    },
+    {
+      "added_at": "2024-03-18 13:24:52",
+      "album": {
+        "name": "Painting Greys",
+        "url": "https://open.spotify.com/album/3HR8LNAashzW2CdEpW0Pct"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "duration_ms": 227368,
+      "name": "Painting Greys",
+      "url": "https://open.spotify.com/track/6kUohQ7py1XEcQAhUgf2Zz"
     }
   ],
   "unique_name": "Best of Indie 2015",

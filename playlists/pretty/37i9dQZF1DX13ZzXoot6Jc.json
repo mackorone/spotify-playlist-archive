@@ -1,6 +1,6 @@
 {
   "description": "Josh Ross and Country hits that will have you singing every word.",
-  "num_followers": 452035,
+  "num_followers": 452015,
   "original_name": "Country Favourites",
   "owner": {
     "name": "Spotify",
@@ -711,22 +711,6 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
-        "name": "4\u00d74\u00d7U",
-        "url": "https://open.spotify.com/album/0mfQ7QpjPEoeHZJZdGOsZD"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 239453,
-      "name": "4\u00d74\u00d7U",
-      "url": "https://open.spotify.com/track/0ZHdP6TzcInPSdQwQ1fkBZ"
-    },
-    {
-      "added_at": "2025-07-04 04:00:22",
-      "album": {
         "name": "Bluebird Days",
         "url": "https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 172853,
       "name": "Tucson Too Late",
       "url": "https://open.spotify.com/track/2hNQDbZcN3vqRAuwiz7poI"
+    },
+    {
+      "added_at": "2025-07-04 04:00:22",
+      "album": {
+        "name": "4\u00d74\u00d7U",
+        "url": "https://open.spotify.com/album/0mfQ7QpjPEoeHZJZdGOsZD"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 239453,
+      "name": "4\u00d74\u00d7U",
+      "url": "https://open.spotify.com/track/0ZHdP6TzcInPSdQwQ1fkBZ"
     },
     {
       "added_at": "2025-07-04 04:00:22",
@@ -799,22 +799,6 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
-        "name": "Whirlwind",
-        "url": "https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 240120,
-      "name": "Whirlwind",
-      "url": "https://open.spotify.com/track/1avlmOsNBhIaHDxpEOPQYz"
-    },
-    {
-      "added_at": "2025-07-04 04:00:22",
-      "album": {
         "name": "I Ain't Sayin'",
         "url": "https://open.spotify.com/album/3U0pFKPURiE6x5gWFhDr8d"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 174060,
       "name": "I Ain't Sayin'",
       "url": "https://open.spotify.com/track/7lCs3stpWCtAn5Y2lmnPhV"
+    },
+    {
+      "added_at": "2025-07-04 04:00:22",
+      "album": {
+        "name": "Whirlwind",
+        "url": "https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 240120,
+      "name": "Whirlwind",
+      "url": "https://open.spotify.com/track/1avlmOsNBhIaHDxpEOPQYz"
     },
     {
       "added_at": "2025-07-04 04:00:22",
@@ -895,26 +895,6 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
-        "name": "You Had To Be There (feat. Kenny Chesney)",
-        "url": "https://open.spotify.com/album/3W0Ygv9YJbtfMNM9iHtbNk"
-      },
-      "artists": [
-        {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
-        },
-        {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        }
-      ],
-      "duration_ms": 220157,
-      "name": "You Had To Be There (feat. Kenny Chesney)",
-      "url": "https://open.spotify.com/track/7GqNLsydHDulc4ifcS4Qqb"
-    },
-    {
-      "added_at": "2025-07-04 04:00:22",
-      "album": {
         "name": "Texas (feat. Maren Morris)",
         "url": "https://open.spotify.com/album/0eFUKdJ9A9TeBoRbnLlIcK"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 198106,
       "name": "Texas (feat. Maren Morris)",
       "url": "https://open.spotify.com/track/7IP075Nyr92maaJNS52hUM"
+    },
+    {
+      "added_at": "2025-07-04 04:00:22",
+      "album": {
+        "name": "You Had To Be There (feat. Kenny Chesney)",
+        "url": "https://open.spotify.com/album/3W0Ygv9YJbtfMNM9iHtbNk"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        },
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        }
+      ],
+      "duration_ms": 220157,
+      "name": "You Had To Be There (feat. Kenny Chesney)",
+      "url": "https://open.spotify.com/track/7GqNLsydHDulc4ifcS4Qqb"
     },
     {
       "added_at": "2025-07-04 04:00:22",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
-        "name": "No Caller ID",
-        "url": "https://open.spotify.com/album/5plO8l5Kz0QC3fOGdHDzrW"
-      },
-      "artists": [
-        {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
-        }
-      ],
-      "duration_ms": 208759,
-      "name": "No Caller ID",
-      "url": "https://open.spotify.com/track/2uHgCkaiHwZKl7tDBTVsyW"
-    },
-    {
-      "added_at": "2025-07-04 04:00:22",
-      "album": {
         "name": "Deeper Well",
         "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 160053,
       "name": "Too Good to be True",
       "url": "https://open.spotify.com/track/27RDQ0TfxzWMlQFuKrPT11"
+    },
+    {
+      "added_at": "2025-07-04 04:00:22",
+      "album": {
+        "name": "No Caller ID",
+        "url": "https://open.spotify.com/album/5plO8l5Kz0QC3fOGdHDzrW"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "duration_ms": 208759,
+      "name": "No Caller ID",
+      "url": "https://open.spotify.com/track/2uHgCkaiHwZKl7tDBTVsyW"
     },
     {
       "added_at": "2025-07-04 04:00:22",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
-        "name": "STRAIGHT LINE",
-        "url": "https://open.spotify.com/album/3uacbN2CW4qOedhbLIWsIg"
-      },
-      "artists": [
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "STRAIGHT LINE",
-      "url": "https://open.spotify.com/track/5eUuNoeb3ssH6T6zQiXsIj"
-    },
-    {
-      "added_at": "2025-07-04 04:00:22",
-      "album": {
         "name": "Complicated",
         "url": "https://open.spotify.com/album/4KHD5LGWqkmyZSyZOU08l0"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 177313,
       "name": "Complicated",
       "url": "https://open.spotify.com/track/3GtjS01mYbI1FGUr9xy29d"
+    },
+    {
+      "added_at": "2025-07-04 04:00:22",
+      "album": {
+        "name": "STRAIGHT LINE",
+        "url": "https://open.spotify.com/album/3uacbN2CW4qOedhbLIWsIg"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "STRAIGHT LINE",
+      "url": "https://open.spotify.com/track/5eUuNoeb3ssH6T6zQiXsIj"
     }
   ],
   "unique_name": "Country Favourites",

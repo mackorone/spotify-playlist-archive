@@ -13073,6 +13073,32 @@
     },
     {
       "album": {
+        "name": "shadows",
+        "url": "https://open.spotify.com/album/3nzLGxCbQ3DhaVcZuzENxF"
+      },
+      "artists": [
+        {
+          "name": "criticaleye",
+          "url": "https://open.spotify.com/artist/00Be3qCb8kvv6VXXLYzLlr"
+        },
+        {
+          "name": "SHIRO",
+          "url": "https://open.spotify.com/artist/44y7O50xAJlIfvCL66L4nb"
+        },
+        {
+          "name": "EVILDXER",
+          "url": "https://open.spotify.com/artist/6mEaCmk5qUN3U83PzhpjqH"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207438,
+      "name": "shadows",
+      "url": "https://open.spotify.com/track/5dOUynmbCMOP7hgz12zvJc"
+    },
+    {
+      "album": {
         "name": "Sharks",
         "url": "https://open.spotify.com/album/4xN74bBcTEwFpPRHODfncV"
       },

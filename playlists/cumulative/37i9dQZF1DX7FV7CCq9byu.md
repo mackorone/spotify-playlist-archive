@@ -4,7 +4,7 @@
 
 > Det bästa från svensk & internationell pop.
 
-1,300 songs - 2 day 18 hr 15 min
+1,301 songs - 2 day 18 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1287,6 +1287,7 @@
 | [Yeah Yeah](https://open.spotify.com/track/5HUZUWq22164INQ0CXnEBu) | [Albin Johnsén](https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj), [KHARMA](https://open.spotify.com/artist/2EZTSVr6dVIOe7aeMEFQic) | [Yeah Yeah](https://open.spotify.com/album/3ysBtzKs10TrCGdbAVB0GR) | 2:25 | 2025-05-16 | 2025-06-13 |
 | [Yihaa](https://open.spotify.com/track/2CMLgiwaTlemYqc7llxO6i) | [Dolly Style](https://open.spotify.com/artist/0D00AEI0IWmoBtdIH75zXs) | [Yihaa](https://open.spotify.com/album/1zzBMa4v3vSTGvp07VuAHd) | 2:56 | 2025-02-18 | 2025-03-21 |
 | [YIPPEE\-KI\-YAY\. \(feat\. T\-Pain\)](https://open.spotify.com/track/1WxODiG0B1x5eunqiP6AoS) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [YIPPEE\-KI\-YAY\. \(feat\. T\-Pain\)](https://open.spotify.com/album/2Tq48FIwmhfjyfSI436PLr) | 3:32 | 2025-03-27 | 2025-05-09 |
+| [you chose this](https://open.spotify.com/track/12CcA3RDkKo5U0lbNsCbSX) | [Emelie Trahan](https://open.spotify.com/artist/26ZYSsr8RPofalTXPh4yyq) | [you chose this](https://open.spotify.com/album/1xSeDb9h7JclM6c7qhAEGL) | 2:38 | 2025-11-18 |  |
 | [You Found Me](https://open.spotify.com/track/0xr8Vdy7svQMJXicR1XWEt) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [You Found Me](https://open.spotify.com/album/0A4r9XhPvTM5Axc2ctn3Kv) | 3:27 | 2024-06-27 | 2024-08-09 |
 | [You Go Your Way](https://open.spotify.com/track/35jE2icc2pV4QDgbJiYMUe) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [You Go Your Way](https://open.spotify.com/album/5TfDNyXTjan0eZhELfj1jx) | 3:54 | 2024-10-04 | 2024-11-23 |
 | [You You You](https://open.spotify.com/track/1mAyIS5bC2xrRjsJ6xM86h) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [You You You](https://open.spotify.com/album/7bB4eDlR3ZPp68ETIRPVXV) | 2:42 | 2025-04-17 | 2025-05-30 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSttCmn8GHUg.md) - [plain]
 
 > Patriotic country songs celebrating the land of the free and the home of the brave.
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,608 likes - 99 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,620 likes - 99 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSttCmn8GHUg.md) - [plain]
 | 71 | [All\-American Girl](https://open.spotify.com/track/2dRPQFwPqAmc42mDRnsDQu) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Carnival Ride](https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX) | 3:32 |
 | 72 | [Til The Last Shot's Fired](https://open.spotify.com/track/5NA5FmzfDQPl6HWX4cYrh7) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [Trace Adkins "X"](https://open.spotify.com/album/6aCFYxUYpZuhh6nXHSUerx) | 4:59 |
 | 73 | [It’s America](https://open.spotify.com/track/6QbcLktLNe7eYqh8TjZeCd) | [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2) | [It's America](https://open.spotify.com/album/1bWrDfZLiqzpac2iNiFAJH) | 3:33 |
-| 74 | [American Country Love Song](https://open.spotify.com/track/0O1x2tRm8ZpfDbcpOWZp7z) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [American Love](https://open.spotify.com/album/5gsWgFeHRxRkIXGXWPiOIW) | 3:19 |
+| 74 | [American Country Love Song](https://open.spotify.com/track/0O1x2tRm8ZpfDbcpOWZp7z) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [American Love](https://open.spotify.com/album/5gsWgFeHRxRkIXGXWPiOIW) | 3:17 |
 | 75 | [You've Got to Stand for Something](https://open.spotify.com/track/7s2NbKcFIJuEQumhvtHTAD) | [Aaron Tippin](https://open.spotify.com/artist/4XwKU420OWVk38vz1KvH3M) | [You've Got to Stand for Something](https://open.spotify.com/album/0NTPV5YssGexGoz1OzaVRt) | 3:02 |
 | 76 | [My Town](https://open.spotify.com/track/51bNXhI8t5rH47BJLhK5Ed) | [Montgomery Gentry](https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a) | [My Town](https://open.spotify.com/album/6dFMJi2op2N2IJaieIJhzm) | 4:25 |
 | 77 | [If I Don't Make It Back](https://open.spotify.com/track/7JUYsasuTQbOdFf0Hq4SY5) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD) | [Then And Now: The Hits Collection](https://open.spotify.com/album/3WHKnUCy5sEg9HL4x8bK94) | 4:04 |

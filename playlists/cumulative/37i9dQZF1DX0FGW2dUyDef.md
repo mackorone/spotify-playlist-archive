@@ -4,7 +4,7 @@
 
 > Dinlemekten vazgeçemediklerin ve en yeni hitler\.  Kapak: UZI x Motive
 
-220 songs - 10 hr 53 min
+221 songs - 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 | 2024-07-18 | 2024-08-15 |
 | [gelemez](https://open.spotify.com/track/5NZIOc4fppMklnzBB6O0JE) | [EGE!](https://open.spotify.com/artist/5chlGLYjNChbXjDbojObt5) | [gelemez](https://open.spotify.com/album/3knLu4ljJ8JCP9MqzKo6PW) | 2:32 | 2025-10-06 | 2025-10-27 |
 | [GELME İSTEMEM](https://open.spotify.com/track/2X4NUYZN0ylbM41ADKYv1X) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [GELME İSTEMEM](https://open.spotify.com/album/3tZxBZL1BaJajOariJZHVF) | 3:06 | 2024-11-04 | 2025-08-06 |
+| [Geri Ver](https://open.spotify.com/track/6fCS2Zg9OKiWh51TbFFWXG) | [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [Geri Ver](https://open.spotify.com/album/5mFTXf9dPQ6cTxbt7nuHpw) | 2:49 | 2025-11-18 |  |
 | [Geçiyor Zaman](https://open.spotify.com/track/3ma4Ef3Bnl3UBOV4ShiMLX) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Geçiyor Zaman](https://open.spotify.com/album/0flBR9Gz8N0UXPplEbrP1p) | 2:38 | 2024-08-14 | 2025-05-08 |
 | [GEÇMİŞİMDEN KAÇTIM](https://open.spotify.com/track/4LmZ9i14ulI6YGe7q7ED3R) | [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5), [SNOW](https://open.spotify.com/artist/58H98oCs7wfe6XZOgIaT0q) | [GEÇMİŞİMDEN KAÇTIM](https://open.spotify.com/album/6PCEEWJ6FMcERbAbZkKxAO) | 2:25 | 2025-08-25 | 2025-09-17 |
 | [Geçsin Yıllar](https://open.spotify.com/track/5CiycCVVt7vLJyMw1MVfzS) | [Oğuzhan Koç](https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i), [Merve Özbey](https://open.spotify.com/artist/74IYRdqa9EFKMMXUIjGyxM) | [Geçsin Yıllar](https://open.spotify.com/album/5vc7GUQqWQ2zZS3CffxRmx) | 3:27 | 2025-05-26 | 2025-08-23 |
@@ -226,7 +227,7 @@
 | [Çıkmaz Bir Sokakta](https://open.spotify.com/track/4SJjMPowhsrYSWgxM61yxm) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Çıkmaz Bir Sokakta](https://open.spotify.com/album/7GlV9sM06u3Of5RROelFtC) | 2:42 | 2025-10-26 |  |
 | [Ölüyorum Anla](https://open.spotify.com/track/7AxK6ojozGBLlxuRaXwQQ1) | [Mert Demir](https://open.spotify.com/artist/1Zj4GtouAnxHq4qw7ooLfm) | [Ölüyorum Anla](https://open.spotify.com/album/3uO5eTI7iFm0WCgRYRergy) | 3:03 | 2024-07-02 | 2024-12-11 |
 | [Önümüz Yaz](https://open.spotify.com/track/28Aau4tlztDlgKJQXrWhZR) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Önümüz Yaz](https://open.spotify.com/album/1RQR6pJby9qvranN8SuM1v) | 3:01 | 2024-07-02 | 2025-01-21 |
-| [ÜZÜLECEKSİN 2.0](https://open.spotify.com/track/2lh2tbZpcMs7scV62GcJaI) | [SNOW](https://open.spotify.com/artist/58H98oCs7wfe6XZOgIaT0q), [Murat Boz](https://open.spotify.com/artist/53oeVgECSa18dkHBQ9X6Eh), [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM) | [ÜZÜLECEKSİN 2.0](https://open.spotify.com/album/0gngUevVkWfjzdwiH77ULJ) | 2:19 | 2025-05-07 |  |
+| [ÜZÜLECEKSİN 2.0](https://open.spotify.com/track/2lh2tbZpcMs7scV62GcJaI) | [SNOW](https://open.spotify.com/artist/58H98oCs7wfe6XZOgIaT0q), [Murat Boz](https://open.spotify.com/artist/53oeVgECSa18dkHBQ9X6Eh), [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM) | [ÜZÜLECEKSİN 2.0](https://open.spotify.com/album/0gngUevVkWfjzdwiH77ULJ) | 2:19 | 2025-05-07 | 2025-11-19 |
 | [Şarkılar Sokaklara Ait](https://open.spotify.com/track/2HjJTdEdEApv1QrKcMXKqo) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [Şarkılar Sokaklara Ait](https://open.spotify.com/album/34hptGPWx0q7xhZ4AXJPzg) | 2:55 | 2025-10-26 |  |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

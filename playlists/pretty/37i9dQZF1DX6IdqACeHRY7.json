@@ -1,6 +1,6 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 157640,
+  "num_followers": 157650,
   "original_name": "ren hygge",
   "owner": {
     "name": "Spotify",
@@ -679,22 +679,6 @@
     {
       "added_at": "2025-10-07 14:04:26",
       "album": {
-        "name": "All This Love",
-        "url": "https://open.spotify.com/album/3fKYHJgBUoEnjmiTzzuhb4"
-      },
-      "artists": [
-        {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
-        }
-      ],
-      "duration_ms": 205978,
-      "name": "All This Love",
-      "url": "https://open.spotify.com/track/5SkXIcRHzkOcR3E1iRpyEA"
-    },
-    {
-      "added_at": "2025-10-07 14:04:26",
-      "album": {
         "name": "Stop All the World Now (Special Edition)",
         "url": "https://open.spotify.com/album/5OmZitvmVXYsjEXkTD3P6Y"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 277000,
       "name": "Collide - Acoustic Version",
       "url": "https://open.spotify.com/track/5rwq6R0Uq0BngM3rdmCeNg"
+    },
+    {
+      "added_at": "2025-10-07 14:04:26",
+      "album": {
+        "name": "All This Love",
+        "url": "https://open.spotify.com/album/3fKYHJgBUoEnjmiTzzuhb4"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "duration_ms": 205978,
+      "name": "All This Love",
+      "url": "https://open.spotify.com/track/5SkXIcRHzkOcR3E1iRpyEA"
     },
     {
       "added_at": "2025-10-07 14:04:26",
@@ -827,6 +827,22 @@
     {
       "added_at": "2025-10-07 14:04:26",
       "album": {
+        "name": "When You Love Someone (Acoustic)",
+        "url": "https://open.spotify.com/album/3qeOuc4R3WLCKVnYVvGwfl"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 210106,
+      "name": "When You Love Someone - Acoustic",
+      "url": "https://open.spotify.com/track/6668ZaUUXqZ25Tb0DMr2HO"
+    },
+    {
+      "added_at": "2025-10-07 14:04:26",
+      "album": {
         "name": "Hvor Var Jeg Endt",
         "url": "https://open.spotify.com/album/4qefEfwkmVFCFU3BYEmKJB"
       },
@@ -847,38 +863,6 @@
     {
       "added_at": "2025-10-07 14:04:26",
       "album": {
-        "name": "When You Love Someone (Acoustic)",
-        "url": "https://open.spotify.com/album/3qeOuc4R3WLCKVnYVvGwfl"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 210106,
-      "name": "When You Love Someone - Acoustic",
-      "url": "https://open.spotify.com/track/6668ZaUUXqZ25Tb0DMr2HO"
-    },
-    {
-      "added_at": "2025-10-07 14:04:26",
-      "album": {
-        "name": "\u00c5boulevarden",
-        "url": "https://open.spotify.com/album/5mJP3xBZvvTXSxnukizPf4"
-      },
-      "artists": [
-        {
-          "name": "Skinz",
-          "url": "https://open.spotify.com/artist/323gjVOWgnKGW3VuT8VKTx"
-        }
-      ],
-      "duration_ms": 162585,
-      "name": "\u00c5boulevarden",
-      "url": "https://open.spotify.com/track/0tuxMYBCRX9hbWU4oezfHK"
-    },
-    {
-      "added_at": "2025-10-07 14:04:26",
-      "album": {
         "name": "T\u00c6T P\u00c5 (feat. Delara)",
         "url": "https://open.spotify.com/album/2EJfw8c22rvYkdhdH9RIKx"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 137400,
       "name": "T\u00c6T P\u00c5 (feat. Delara)",
       "url": "https://open.spotify.com/track/7v30u3hUBxW0NhbYHazNDg"
+    },
+    {
+      "added_at": "2025-10-07 14:04:26",
+      "album": {
+        "name": "\u00c5boulevarden",
+        "url": "https://open.spotify.com/album/5mJP3xBZvvTXSxnukizPf4"
+      },
+      "artists": [
+        {
+          "name": "Skinz",
+          "url": "https://open.spotify.com/artist/323gjVOWgnKGW3VuT8VKTx"
+        }
+      ],
+      "duration_ms": 162585,
+      "name": "\u00c5boulevarden",
+      "url": "https://open.spotify.com/track/0tuxMYBCRX9hbWU4oezfHK"
     },
     {
       "added_at": "2025-10-07 14:04:26",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2025-10-07 14:04:26",
       "album": {
-        "name": "Honey",
-        "url": "https://open.spotify.com/album/3aPakmsCVj19Gz1zoLuYOf"
-      },
-      "artists": [
-        {
-          "name": "Hans Philip",
-          "url": "https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C"
-        }
-      ],
-      "duration_ms": 290500,
-      "name": "Tristan & Isolde",
-      "url": "https://open.spotify.com/track/361guhUskLY7XA6X178aEk"
-    },
-    {
-      "added_at": "2025-10-07 14:04:26",
-      "album": {
         "name": "Alt Det (feat. Noah Carter)",
         "url": "https://open.spotify.com/album/561WRtqToj8ILZEkDXkfqm"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 178366,
       "name": "Alt Det (feat. Noah Carter)",
       "url": "https://open.spotify.com/track/1knZ2cJRHNUeEidZvhypRm"
+    },
+    {
+      "added_at": "2025-10-07 14:04:26",
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/3aPakmsCVj19Gz1zoLuYOf"
+      },
+      "artists": [
+        {
+          "name": "Hans Philip",
+          "url": "https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C"
+        }
+      ],
+      "duration_ms": 290500,
+      "name": "Tristan & Isolde",
+      "url": "https://open.spotify.com/track/361guhUskLY7XA6X178aEk"
     },
     {
       "added_at": "2025-10-07 14:04:26",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2025-10-07 14:04:26",
       "album": {
-        "name": "Keeping Faith",
-        "url": "https://open.spotify.com/album/4lxNvi3XfEZfon54OltWQh"
-      },
-      "artists": [
-        {
-          "name": "Amy Wadge",
-          "url": "https://open.spotify.com/artist/0Zh5nyS0km753bfcX4QGHp"
-        }
-      ],
-      "duration_ms": 172058,
-      "name": "Faith's Song",
-      "url": "https://open.spotify.com/track/4HFUxZOWqVemXYF1T7QQ1l"
-    },
-    {
-      "added_at": "2025-10-07 14:04:26",
-      "album": {
         "name": "Scars To Your Beautiful",
         "url": "https://open.spotify.com/album/7lwdqOUtzxHH7wxUHtFffj"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 237857,
       "name": "Scars To Your Beautiful",
       "url": "https://open.spotify.com/track/19f6MVdX9dLFerHynoM5im"
+    },
+    {
+      "added_at": "2025-10-07 14:04:26",
+      "album": {
+        "name": "Keeping Faith",
+        "url": "https://open.spotify.com/album/4lxNvi3XfEZfon54OltWQh"
+      },
+      "artists": [
+        {
+          "name": "Amy Wadge",
+          "url": "https://open.spotify.com/artist/0Zh5nyS0km753bfcX4QGHp"
+        }
+      ],
+      "duration_ms": 172058,
+      "name": "Faith's Song",
+      "url": "https://open.spotify.com/track/4HFUxZOWqVemXYF1T7QQ1l"
     },
     {
       "added_at": "2025-10-07 14:04:26",
@@ -1771,6 +1771,26 @@
     {
       "added_at": "2025-10-07 14:04:26",
       "album": {
+        "name": "Weak",
+        "url": "https://open.spotify.com/album/4KeIxMxenWyNIfusGxKCb7"
+      },
+      "artists": [
+        {
+          "name": "Halloran & Kate",
+          "url": "https://open.spotify.com/artist/26GKAYYuyr424SdSkr8xlQ"
+        },
+        {
+          "name": "May Raya",
+          "url": "https://open.spotify.com/artist/30I99Rrr7vPR38I9Wx8oQ9"
+        }
+      ],
+      "duration_ms": 201282,
+      "name": "Weak - Acoustic",
+      "url": "https://open.spotify.com/track/5RvpcF6WipmIipuZbjJkVV"
+    },
+    {
+      "added_at": "2025-10-07 14:04:26",
+      "album": {
         "name": "Lifetimes Away (feat. Medina)",
         "url": "https://open.spotify.com/album/3scIOLSRCADZSH2hNPNVkL"
       },
@@ -1807,26 +1827,6 @@
     {
       "added_at": "2025-10-07 14:04:26",
       "album": {
-        "name": "Weak",
-        "url": "https://open.spotify.com/album/4KeIxMxenWyNIfusGxKCb7"
-      },
-      "artists": [
-        {
-          "name": "Halloran & Kate",
-          "url": "https://open.spotify.com/artist/26GKAYYuyr424SdSkr8xlQ"
-        },
-        {
-          "name": "May Raya",
-          "url": "https://open.spotify.com/artist/30I99Rrr7vPR38I9Wx8oQ9"
-        }
-      ],
-      "duration_ms": 201282,
-      "name": "Weak - Acoustic",
-      "url": "https://open.spotify.com/track/5RvpcF6WipmIipuZbjJkVV"
-    },
-    {
-      "added_at": "2025-10-07 14:04:26",
-      "album": {
         "name": "Mads Langer",
         "url": "https://open.spotify.com/album/5aYWd0BdvFOKs2q7TT3jC1"
       },
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2025-10-07 14:04:26",
       "album": {
-        "name": "Black Beatles (Acoustic)",
-        "url": "https://open.spotify.com/album/3zQYmL17iTyCk3CUOTwPDf"
-      },
-      "artists": [
-        {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
-        }
-      ],
-      "duration_ms": 211781,
-      "name": "Black Beatles - Acoustic",
-      "url": "https://open.spotify.com/track/7tOwlsbz3lmbEjxmury4qZ"
-    },
-    {
-      "added_at": "2025-10-07 14:04:26",
-      "album": {
         "name": "Hey Ya!",
         "url": "https://open.spotify.com/album/6T2TpTzKg9Q2ZEwBLZK92G"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 214689,
       "name": "Hey Ya! - Acoustic",
       "url": "https://open.spotify.com/track/4qJq5V3Ca2X615wxNV0QWB"
+    },
+    {
+      "added_at": "2025-10-07 14:04:26",
+      "album": {
+        "name": "Black Beatles (Acoustic)",
+        "url": "https://open.spotify.com/album/3zQYmL17iTyCk3CUOTwPDf"
+      },
+      "artists": [
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "duration_ms": 211781,
+      "name": "Black Beatles - Acoustic",
+      "url": "https://open.spotify.com/track/7tOwlsbz3lmbEjxmury4qZ"
     },
     {
       "added_at": "2025-10-07 14:04:26",

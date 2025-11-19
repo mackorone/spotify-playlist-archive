@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 
 > Historias y versos que tocan la piel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,751 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,762 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 | 14 | [Lucia \(with Silvio Rodríguez\)](https://open.spotify.com/track/44RRIuioxHdtujpJ3PDkxA) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7), [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Antología Desordenada](https://open.spotify.com/album/5hyxVY36Zb54xX5uEpVwCR) | 3:12 |
 | 15 | [Alevosía](https://open.spotify.com/track/7lVAkvu9j5d6Pgd1CbXn16) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Alevosia](https://open.spotify.com/album/1UpLSQ8L2ZCfT8OlXyAQKe) | 4:38 |
 | 16 | [Mujer Que Camina](https://open.spotify.com/track/5U1hQvJzMLsjeySz5V5BuG) | [Alejandro Filio](https://open.spotify.com/artist/2zfJb2mtxjtjPWTldg9R6K) | [Mujer Que Camina](https://open.spotify.com/album/7sm8OhJ1XcOSc1SCtlzFHK) | 5:22 |
-| 17 | [Divina Tú](https://open.spotify.com/track/7K1ZJlEZ2Nw9BrPHLyEmvC) | [Carlos Macías](https://open.spotify.com/artist/6tUBc12V14eu8JRyN7PL9X) | [El Cartero](https://open.spotify.com/album/43UawrlG9nlw5rvGqgE6jW) | 4:23 |
+| 17 | [Y Sin Embargo \- En Directo](https://open.spotify.com/track/2PwlT72CyKMN2WzgCS4yUR) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Nos Sobran Los Motivos](https://open.spotify.com/album/6lzBpfskJ6azfSi88CECKv) | 6:02 |
 | 18 | [Unicornio](https://open.spotify.com/track/0lxu1Pmegx2SELobpAXzz4) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Unicornio](https://open.spotify.com/album/26CzBExUPuHvrmXsC4HlBT) | 5:08 |
-| 19 | [Y Sin Embargo \- En Directo](https://open.spotify.com/track/2PwlT72CyKMN2WzgCS4yUR) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Nos Sobran Los Motivos](https://open.spotify.com/album/6lzBpfskJ6azfSi88CECKv) | 6:02 |
+| 19 | [Divina Tú](https://open.spotify.com/track/7K1ZJlEZ2Nw9BrPHLyEmvC) | [Carlos Macías](https://open.spotify.com/artist/6tUBc12V14eu8JRyN7PL9X) | [El Cartero](https://open.spotify.com/album/43UawrlG9nlw5rvGqgE6jW) | 4:23 |
 | 20 | [Las Cuatro y Diez](https://open.spotify.com/track/4Z8DiiAJsMFppYOf0yJSAT) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Auterretratos](https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv) | 2:37 |
 | 21 | [Te Doy Una Cancion](https://open.spotify.com/track/6yGx5fJ2C6YrmZhVadd7vC) | [Silvio Rodriguez and Pablo Milanes](https://open.spotify.com/artist/182fhYiodsjX2AZnZlWWzK) | [Silvio Rodriguez y Pablo Milanes](https://open.spotify.com/album/5Dn5RWgcjL462SXPTGYF9f) | 3:10 |
 | 22 | [Por Ti](https://open.spotify.com/track/5vVwrqxCYDRGBkWpPuLqFU) | [Óscar Chávez](https://open.spotify.com/artist/4QHjJWgPhculd31AHEsjOb) | [Oscar Chávez / La Más Completa Colección](https://open.spotify.com/album/47J1O0MfeIVexX6SpIoAFv) | 2:52 |
@@ -37,11 +37,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 | 27 | [Sin Tu Latido](https://open.spotify.com/track/5c6OaqhGZq0thRc56z5nAn) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Cuerpo A Cuerpo](https://open.spotify.com/album/3WkzCVHH31VULuzWaIDyD5) | 5:01 |
 | 28 | [Después de Ti](https://open.spotify.com/track/7o6WEhWTa73yA3qiprJfQO) | [Alejandro Filio](https://open.spotify.com/artist/2zfJb2mtxjtjPWTldg9R6K) | [1978/1988](https://open.spotify.com/album/7bIbdEJSYLqQ8nLXaMbm6f) | 3:04 |
 | 29 | [Cantares \- En Directo](https://open.spotify.com/track/5HmYuJIqLEXOa9i4YQJWoQ) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Serrat En Directo](https://open.spotify.com/album/5uc1F7ZXMeGxgvfp9z7W8G) | 3:16 |
-| 30 | [Hacerte venir](https://open.spotify.com/track/1YguO4pcfFZseldt05E7rF) | [Amaury Pérez](https://open.spotify.com/artist/5dQbt6k1CXsAPV2H5WYDBm) | [No Lo Van a Impedir](https://open.spotify.com/album/4DLnrdFW1OClDq9OoOeYjh) | 3:28 |
-| 31 | [Todavía](https://open.spotify.com/track/2HSC6Dy73O16zvWJnKViSw) | [Francisco Céspedes](https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8) | [Todavía](https://open.spotify.com/album/7pXbtBSDRM9v4ZQP6dbRP7) | 3:05 |
+| 30 | [Por Si No Te Vuelvo A Ver](https://open.spotify.com/track/3PDUwo7N2IF6fOfD3dEZMH) | [Miguel Inzunza](https://open.spotify.com/artist/4SJeNatQfW3voPrhmMgj70) | [Juguete De Madera](https://open.spotify.com/album/1wuudf3MeIPS0MdGvjU5YM) | 3:29 |
+| 31 | [Hacerte venir](https://open.spotify.com/track/1YguO4pcfFZseldt05E7rF) | [Amaury Pérez](https://open.spotify.com/artist/5dQbt6k1CXsAPV2H5WYDBm) | [No Lo Van a Impedir](https://open.spotify.com/album/4DLnrdFW1OClDq9OoOeYjh) | 3:28 |
 | 32 | [Al Alba](https://open.spotify.com/track/5zftYFI80oeA7UKfisvRUt) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Albanta](https://open.spotify.com/album/71bflvCi5VkZBS5IV81b8M) | 4:57 |
 | 33 | [Trova Azul](https://open.spotify.com/track/01lLpcMp5aLUH3BRdLoKHH) | [Alejandro Filio](https://open.spotify.com/artist/2zfJb2mtxjtjPWTldg9R6K) | [Trova Azul](https://open.spotify.com/album/77rRwgkqNQbzxf6t4Ffb1K) | 3:51 |
-| 34 | [Por Si No Te Vuelvo A Ver](https://open.spotify.com/track/3PDUwo7N2IF6fOfD3dEZMH) | [Miguel Inzunza](https://open.spotify.com/artist/4SJeNatQfW3voPrhmMgj70) | [Juguete De Madera](https://open.spotify.com/album/1wuudf3MeIPS0MdGvjU5YM) | 3:29 |
+| 34 | [Todavía](https://open.spotify.com/track/2HSC6Dy73O16zvWJnKViSw) | [Francisco Céspedes](https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8) | [Todavía](https://open.spotify.com/album/7pXbtBSDRM9v4ZQP6dbRP7) | 3:05 |
 | 35 | [Usted No Debería](https://open.spotify.com/track/4aHorudydhwrPUT4tN2k6R) | [Carlos Macías](https://open.spotify.com/artist/6tUBc12V14eu8JRyN7PL9X) | [De Ti o de Nadie](https://open.spotify.com/album/7KWFLNIn1JR9hdVj9CCA7x) | 3:19 |
 | 36 | [Tu Fantasma](https://open.spotify.com/track/70H4C8Q4HFjWC3kHNdpT79) | [3 de Copas](https://open.spotify.com/artist/4Zwwo4j8jNzdv89HPPfRCy) | [Milagritos](https://open.spotify.com/album/3ZNrH33J08oFN8H6DkVI1M) | 3:36 |
 | 37 | [De Alguna Manera](https://open.spotify.com/track/7MtdhnO67fNwuF7Bes1xOh) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Auterretratos](https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv) | 3:32 |

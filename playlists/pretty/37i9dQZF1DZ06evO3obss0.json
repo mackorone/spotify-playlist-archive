@@ -1,12 +1,12 @@
 {
   "description": "This is RAYE. The essential tracks, all in one playlist.",
-  "num_followers": 149879,
+  "num_followers": 150103,
   "original_name": "This Is RAYE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRkUAAAAAADxqMksfYmtqqp6OEPuCbKD",
+  "snapshot_id": "aRplgAAAAACsv3UWW7u/+/8ntkwiW0+r",
   "tracks": [
     {
       "added_at": null,
@@ -695,26 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Don't Want You",
-        "url": "https://open.spotify.com/album/4moT0z2FHOCnAr9Zh9EiC2"
-      },
-      "artists": [
-        {
-          "name": "Riton",
-          "url": "https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 190240,
-      "name": "I Don't Want You",
-      "url": "https://open.spotify.com/track/5vcfy76yr163pFH7NkN6nX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You Can\u2019t Change Me (feat. Raye)",
         "url": "https://open.spotify.com/album/5OSSa4lPIbnn1VGtwlojCx"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 170859,
       "name": "You Can\u2019t Change Me (feat. Raye)",
       "url": "https://open.spotify.com/track/4HjLBWJ7AKZQcmupi1NSM5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Don't Want You",
+        "url": "https://open.spotify.com/album/4moT0z2FHOCnAr9Zh9EiC2"
+      },
+      "artists": [
+        {
+          "name": "Riton",
+          "url": "https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 190240,
+      "name": "I Don't Want You",
+      "url": "https://open.spotify.com/track/5vcfy76yr163pFH7NkN6nX"
     },
     {
       "added_at": null,

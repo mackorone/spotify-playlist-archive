@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRkUAAAAAACIW8M74eybwF7tIJXUykyg",
+  "snapshot_id": "aRplgAAAAADe7wjxgJAmzTfZ2z1g2nKb",
   "tracks": [
     {
       "added_at": null,
@@ -96,9 +96,9 @@
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
         }
       ],
-      "duration_ms": 153191,
-      "name": "Take Ten",
-      "url": "https://open.spotify.com/track/33KkhOpxBmBr2Jor1gs11d"
+      "duration_ms": 262500,
+      "name": "Carta Pra Amy",
+      "url": "https://open.spotify.com/track/2fOzeW265HQxThDOrA66Mc"
     },
     {
       "added_at": null,
@@ -248,25 +248,9 @@
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
         }
       ],
-      "duration_ms": 262500,
-      "name": "Carta Pra Amy",
-      "url": "https://open.spotify.com/track/2fOzeW265HQxThDOrA66Mc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fica At\u00e9 Umas Hora",
-        "url": "https://open.spotify.com/album/76mwd2KXWLCHumse2wW7Eq"
-      },
-      "artists": [
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 228800,
-      "name": "Fica At\u00e9 Umas Hora",
-      "url": "https://open.spotify.com/track/7xga0gWCTSUpU7Uz5pldQS"
+      "duration_ms": 153191,
+      "name": "Take Ten",
+      "url": "https://open.spotify.com/track/33KkhOpxBmBr2Jor1gs11d"
     },
     {
       "added_at": null,
@@ -283,6 +267,22 @@
       "duration_ms": 197840,
       "name": "Real Gold",
       "url": "https://open.spotify.com/track/4qQm3DuFEVsqp2GWjkNFli"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fica At\u00e9 Umas Hora",
+        "url": "https://open.spotify.com/album/76mwd2KXWLCHumse2wW7Eq"
+      },
+      "artists": [
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 228800,
+      "name": "Fica At\u00e9 Umas Hora",
+      "url": "https://open.spotify.com/track/7xga0gWCTSUpU7Uz5pldQS"
     },
     {
       "added_at": null,
@@ -571,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Princ\u00edpio Era o Verbo - Babylon by Gus, Vol. II",
+        "url": "https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN"
+      },
+      "artists": [
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 176318,
+      "name": "O Estranho Vizinho da Frente",
+      "url": "https://open.spotify.com/track/7ymEK7S0DIlXiTLB4Fs17J"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bambas & Biritas, Vol. 1",
         "url": "https://open.spotify.com/album/6VXrWuih63rlLPkWHI0Lqa"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 307253,
       "name": "Na Noite Se Resolve",
       "url": "https://open.spotify.com/track/0LudrxIEUQT7P2f8DkBfDU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Princ\u00edpio Era o Verbo - Babylon by Gus, Vol. II",
-        "url": "https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN"
-      },
-      "artists": [
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 191981,
-      "name": "Rolo Compressor",
-      "url": "https://open.spotify.com/track/5wFUgWRIVGPr0RnidObdEc"
     },
     {
       "added_at": null,
@@ -655,6 +655,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Princ\u00edpio Era o Verbo - Babylon by Gus, Vol. II",
+        "url": "https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN"
+      },
+      "artists": [
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 191981,
+      "name": "Rolo Compressor",
+      "url": "https://open.spotify.com/track/5wFUgWRIVGPr0RnidObdEc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Crian\u00e7as Selvagens",
         "url": "https://open.spotify.com/album/1AY1gFOjPTPJ3jXhpEgKe1"
       },
@@ -687,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Princ\u00edpio Era o Verbo - Babylon by Gus, Vol. II",
-        "url": "https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN"
-      },
-      "artists": [
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 176318,
-      "name": "O Estranho Vizinho da Frente",
-      "url": "https://open.spotify.com/track/7ymEK7S0DIlXiTLB4Fs17J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sangue de Free",
         "url": "https://open.spotify.com/album/1cseH3sATZXHYOAJlZuSd1"
       },
@@ -715,30 +715,6 @@
       "duration_ms": 210959,
       "name": "Sangue de Free",
       "url": "https://open.spotify.com/track/1yplC5zrM528Ie26S85zGM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Insolente",
-        "url": "https://open.spotify.com/album/7mMAxGxVUdblaH1sLrvPXB"
-      },
-      "artists": [
-        {
-          "name": "Marcelinho Da Lua",
-          "url": "https://open.spotify.com/artist/4Yw5FcyGxFtur6gG4YWmZ6"
-        },
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        },
-        {
-          "name": "Bi Ribeiro",
-          "url": "https://open.spotify.com/artist/0toWNUEQ8Bcimaq6BKh7Tr"
-        }
-      ],
-      "duration_ms": 214187,
-      "name": "Black Belt (feat. Black Alien & Bi Ribeiro)",
-      "url": "https://open.spotify.com/track/2UtZyVQIghFcIvm1MxpRd6"
     },
     {
       "added_at": null,
@@ -783,6 +759,30 @@
       "duration_ms": 254769,
       "name": "Somos o Mundo",
       "url": "https://open.spotify.com/track/5PlRYhWSeZpOE4C1KhDjMg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Insolente",
+        "url": "https://open.spotify.com/album/7mMAxGxVUdblaH1sLrvPXB"
+      },
+      "artists": [
+        {
+          "name": "Marcelinho Da Lua",
+          "url": "https://open.spotify.com/artist/4Yw5FcyGxFtur6gG4YWmZ6"
+        },
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        },
+        {
+          "name": "Bi Ribeiro",
+          "url": "https://open.spotify.com/artist/0toWNUEQ8Bcimaq6BKh7Tr"
+        }
+      ],
+      "duration_ms": 214187,
+      "name": "Black Belt (feat. Black Alien & Bi Ribeiro)",
+      "url": "https://open.spotify.com/track/2UtZyVQIghFcIvm1MxpRd6"
     },
     {
       "added_at": null,

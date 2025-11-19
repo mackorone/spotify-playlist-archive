@@ -1,6 +1,6 @@
 {
   "description": "Unearth the year's most exciting rock and alternative hidden gems. Cover: Chloe Slater",
-  "num_followers": 33122,
+  "num_followers": 33140,
   "original_name": "2024 Rock songs you may have missed",
   "owner": {
     "name": "Spotify",
@@ -911,6 +911,22 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
+        "name": "Before I Die",
+        "url": "https://open.spotify.com/album/65v7rU2IHRuhmxnMqgjjQ1"
+      },
+      "artists": [
+        {
+          "name": "Footballhead",
+          "url": "https://open.spotify.com/artist/2nwoELT7b1GI21sww1pRwd"
+        }
+      ],
+      "duration_ms": 185146,
+      "name": "Your Ghost",
+      "url": "https://open.spotify.com/track/6Qqw9m2tS2I3wJOOEWyE7S"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
         "name": "Crispy Skin",
         "url": "https://open.spotify.com/album/1rCWTAzY2JTdOPCsg03WeA"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 379400,
       "name": "Crispy Skin",
       "url": "https://open.spotify.com/track/2FVdd3s90GiXaWpfJlWLC5"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Don't",
-        "url": "https://open.spotify.com/album/44wFARJr0tnfTKCZduwFND"
-      },
-      "artists": [
-        {
-          "name": "Honeyglaze",
-          "url": "https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM"
-        }
-      ],
-      "duration_ms": 165510,
-      "name": "Don't",
-      "url": "https://open.spotify.com/track/51492YDzG1jwyFHKpkVbsK"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -959,18 +959,18 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Before I Die",
-        "url": "https://open.spotify.com/album/65v7rU2IHRuhmxnMqgjjQ1"
+        "name": "Don't",
+        "url": "https://open.spotify.com/album/44wFARJr0tnfTKCZduwFND"
       },
       "artists": [
         {
-          "name": "Footballhead",
-          "url": "https://open.spotify.com/artist/2nwoELT7b1GI21sww1pRwd"
+          "name": "Honeyglaze",
+          "url": "https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM"
         }
       ],
-      "duration_ms": 185146,
-      "name": "Your Ghost",
-      "url": "https://open.spotify.com/track/6Qqw9m2tS2I3wJOOEWyE7S"
+      "duration_ms": 165510,
+      "name": "Don't",
+      "url": "https://open.spotify.com/track/51492YDzG1jwyFHKpkVbsK"
     },
     {
       "added_at": "2024-12-04 12:15:00",

@@ -15024,7 +15024,7 @@
       ],
       "date_added": "2025-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-16",
+      "date_removed": null,
       "duration_ms": 253920,
       "name": "Every Breath You Take",
       "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
@@ -21370,7 +21370,7 @@
       ],
       "date_added": "2025-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 149610,
       "name": "Jak Ta LALA",
       "url": "https://open.spotify.com/track/6YxlYt5sCNlaCF32MuZfir"
@@ -25258,7 +25258,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 165483,
       "name": "Kulig",
       "url": "https://open.spotify.com/track/4vhYckF7yzomDdqoHb3dIl"
@@ -33566,6 +33566,36 @@
       "duration_ms": 160481,
       "name": "Niech m\u00f3wi\u0105",
       "url": "https://open.spotify.com/track/40qD9qMnp7tmYJeNfncjiv"
+    },
+    {
+      "album": {
+        "name": "Niech \u017cyje bal",
+        "url": "https://open.spotify.com/album/7mDBzQX4EWUyIX56jWILZW"
+      },
+      "artists": [
+        {
+          "name": "Maryla Rodowicz",
+          "url": "https://open.spotify.com/artist/1IYFJPQcbXYjgkyebYs1w6"
+        },
+        {
+          "name": "B\u0142a\u017cej Kr\u00f3l",
+          "url": "https://open.spotify.com/artist/0gH4VBwt5MwWomiOXloDC4"
+        },
+        {
+          "name": "Igor Herbut",
+          "url": "https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX"
+        },
+        {
+          "name": "Misia Furtak",
+          "url": "https://open.spotify.com/artist/1gHY7d1BsJjxJ1VjAnqm5M"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238093,
+      "name": "Niech \u017cyje bal",
+      "url": "https://open.spotify.com/track/5lc8SL1jIDUOrP0hmKtNAL"
     },
     {
       "album": {
@@ -50908,7 +50938,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 138000,
       "name": "Uno Momento",
       "url": "https://open.spotify.com/track/2lszjkyKpER3mEFPQQayZR"
@@ -56756,6 +56786,32 @@
       "duration_ms": 138330,
       "name": "\u017bYCIE TO ZA MA\u0141O",
       "url": "https://open.spotify.com/track/5bayoLypQTj0On1QEkU24K"
+    },
+    {
+      "album": {
+        "name": "\u017bYRAFA",
+        "url": "https://open.spotify.com/album/2MfDJ8O2N7gvvS5i1Ing4b"
+      },
+      "artists": [
+        {
+          "name": "vkie",
+          "url": "https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v"
+        },
+        {
+          "name": "Bruno",
+          "url": "https://open.spotify.com/artist/6gqxmw3SfTsjaEMVHbwwUo"
+        },
+        {
+          "name": "a1rocky",
+          "url": "https://open.spotify.com/artist/0kIJFyQ1ZjGvhx8kOrfk61"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "\u017bYRAFA",
+      "url": "https://open.spotify.com/track/1VrsQYv5V3C6YQJtLilO1k"
     },
     {
       "album": {

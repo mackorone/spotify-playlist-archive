@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEr4IfnBNnly.md) - [plain]
 | 8 | [Jheeze](https://open.spotify.com/track/6jYO8RSMk85V3rf460rfgp) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [Cosmic EP](https://open.spotify.com/album/1BILYdgS6lJKkFmlEgAWtP) | 3:14 |
 | 9 | [21 Seconds](https://open.spotify.com/track/23QGl89duiLAngpPCcbBSt) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [started in college \(mixtape\)](https://open.spotify.com/album/3HfPgsV9182o2KraJHNQ83) | 3:17 |
 | 10 | [Messed Up \(feat\. LK Faith\)](https://open.spotify.com/track/3rwvx3YnglHg9Y2VHFem01) | [Louis Mattrs](https://open.spotify.com/artist/7qevodTHcV0rtg9O7ih6nn), [LK Faith](https://open.spotify.com/artist/7p4qGFqH7a0Eittt17TOt1) | [Slow Waves \- EP](https://open.spotify.com/album/6nZteuYubXw8vNCt7pgXyz) | 3:59 |
-| 11 | [Sink or Swim](https://open.spotify.com/track/5Ir63UHpJuydc7frFGS7vs) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Following My Intuition \(Expanded Edition\)](https://open.spotify.com/album/0Vop2iSyeir0QntOrgamFN) | 3:21 |
+| 11 | [Sink or Swim](https://open.spotify.com/track/5Ir63UHpJuydc7frFGS7vs) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Following My Intuition \(Expanded Edition\)](https://open.spotify.com/album/0Vop2iSyeir0QntOrgamFN) | 3:17 |
 | 12 | [So Deep](https://open.spotify.com/track/0Yg0203arYkcNlL9M41D9s) | [iLL BLU](https://open.spotify.com/artist/550Zxz0BTZi3yd8gX9QINw) | [So Deep](https://open.spotify.com/album/1OnZwt3geJVKCSq952WdIa) | 2:52 |
 | 13 | [High](https://open.spotify.com/track/31EN3aJtDh5Tpd8fWSqLhO) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Cervendos](https://open.spotify.com/artist/3DZRro0HzRPtZ5UxJzf6gZ), [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [High](https://open.spotify.com/album/274RjiIvWoIG9TyyaMjOTL) | 6:41 |
 | 14 | [Feels](https://open.spotify.com/track/79Ek1YkhUkeD0Xv1PRPVt0) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [No Path To Follow](https://open.spotify.com/album/7nbRIhyK8tjyBrNutjQ1EZ) | 4:01 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEr4IfnBNnly.md) - [plain]
 | 51 | [High](https://open.spotify.com/track/0TLl0EKtJUIgp3H89Wc4Yl) | [PATOBO](https://open.spotify.com/artist/47Xy9sgpBgG2IbxPWSAnib), [Panna Pejtsik](https://open.spotify.com/artist/2eSkSj35EJAiaUt1Uvg4Ft) | [WEHMOTIONS](https://open.spotify.com/album/0FmfuYbQVkIYxXLccCIkXh) | 2:54 |
 | 52 | [Sorry Not Sorry](https://open.spotify.com/track/6sYDCx3rQZsadayyAuh8U8) | [Molly Elizabeth](https://open.spotify.com/artist/3g0ZkVtrQWot5YhGZr3hSt) | [Cruel Intentions](https://open.spotify.com/album/6AWSAFGksTbUeRaKhSUYLE) | 2:55 |
 
-Snapshot ID: `AcB3HAAAAABpIQa+qWemc8LzFAnfbfr3`
+Snapshot ID: `AcB8vAAAAAD0YnDYJIKkbFkUC1NyvHVg`

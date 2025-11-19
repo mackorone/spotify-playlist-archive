@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 
 > The Deans are taking over the world!
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,124 likes - 243 songs - 16 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,127 likes - 243 songs - 16 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

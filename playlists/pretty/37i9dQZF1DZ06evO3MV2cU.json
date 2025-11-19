@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRkUAAAAAAAP+RJMPB8epS7T3/kYLz/Q",
+  "snapshot_id": "aRplgAAAAABRhZ/HSNBKXDyig6EBC5+F",
   "tracks": [
     {
       "added_at": null,
@@ -207,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arriving",
-        "url": "https://open.spotify.com/album/4cCT11g6AEsDrDkyAome9f"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 237986,
-      "name": "Indescribable",
-      "url": "https://open.spotify.com/track/0M1ujzJ1RTvLt13C4GsnaT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Instrumental Songs Of Worship",
         "url": "https://open.spotify.com/album/3DzhS9CumbDVCkB7WYvtEX"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 348750,
       "name": "What A Beautiful Name",
       "url": "https://open.spotify.com/track/7yeslH8Y5kwAVJyxK7AqIt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arriving",
+        "url": "https://open.spotify.com/album/4cCT11g6AEsDrDkyAome9f"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 237986,
+      "name": "Indescribable",
+      "url": "https://open.spotify.com/track/0M1ujzJ1RTvLt13C4GsnaT"
     },
     {
       "added_at": null,
@@ -275,26 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "REBEL",
-        "url": "https://open.spotify.com/album/0sJhrYC1988r2NNxsmzk3V"
-      },
-      "artists": [
-        {
-          "name": "Anne Wilson",
-          "url": "https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN"
-        },
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 221186,
-      "name": "The Cross",
-      "url": "https://open.spotify.com/track/3BYjy9SgiD9BbBPdhOfRg5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Instrumental Songs Of Worship",
         "url": "https://open.spotify.com/album/3DzhS9CumbDVCkB7WYvtEX"
       },
@@ -311,6 +291,26 @@
       "duration_ms": 264923,
       "name": "Good Good Father",
       "url": "https://open.spotify.com/track/1l6Ffi07jIzh5DquHPf7a3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "REBEL",
+        "url": "https://open.spotify.com/album/0sJhrYC1988r2NNxsmzk3V"
+      },
+      "artists": [
+        {
+          "name": "Anne Wilson",
+          "url": "https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN"
+        },
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 221186,
+      "name": "The Cross",
+      "url": "https://open.spotify.com/track/3BYjy9SgiD9BbBPdhOfRg5"
     },
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "How Great Is Our God: The Essential Collection",
-        "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 326960,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/6ChFsa3xElTTIJAo460out"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Instrumental Songs Of Worship",
         "url": "https://open.spotify.com/album/3DzhS9CumbDVCkB7WYvtEX"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 349545,
       "name": "How Great Is Our God",
       "url": "https://open.spotify.com/track/0R34dLuWSMDYnOg50L5qqL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "How Great Is Our God: The Essential Collection",
+        "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 326960,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/6ChFsa3xElTTIJAo460out"
     },
     {
       "added_at": null,
@@ -423,22 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "How Great Is Our God: The Essential Collection",
-        "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 280960,
-      "name": "We Fall Down",
-      "url": "https://open.spotify.com/track/5gnMKEfIyg2zu84vfmfSpa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Instrumental Songs Of Worship",
         "url": "https://open.spotify.com/album/3DzhS9CumbDVCkB7WYvtEX"
       },
@@ -459,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "How Great Is Our God: The Essential Collection",
+        "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 280960,
+      "name": "We Fall Down",
+      "url": "https://open.spotify.com/track/5gnMKEfIyg2zu84vfmfSpa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Doesn't He",
         "url": "https://open.spotify.com/album/2bGNVHr3YSVvj3rUGowO3b"
       },
@@ -471,26 +471,6 @@
       "duration_ms": 255398,
       "name": "Doesn't He",
       "url": "https://open.spotify.com/track/1re3ARSEiDfRxUTKKlbI8k"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chris Tomlin & Friends",
-        "url": "https://open.spotify.com/album/1tk6wHfQdW92NyYa9YKnfP"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        },
-        {
-          "name": "Lady A",
-          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
-        }
-      ],
-      "duration_ms": 230360,
-      "name": "Who You Are To Me (feat. Lady A)",
-      "url": "https://open.spotify.com/track/1L4MQJhKyrw0XiF0n0C2hL"
     },
     {
       "added_at": null,
@@ -535,18 +515,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arriving",
-        "url": "https://open.spotify.com/album/4cCT11g6AEsDrDkyAome9f"
+        "name": "Chris Tomlin & Friends",
+        "url": "https://open.spotify.com/album/1tk6wHfQdW92NyYa9YKnfP"
       },
       "artists": [
         {
           "name": "Chris Tomlin",
           "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        },
+        {
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
         }
       ],
-      "duration_ms": 248986,
-      "name": "Your Grace Is Enough",
-      "url": "https://open.spotify.com/track/6nVzKwxkRdm5ZM7rMDCwE1"
+      "duration_ms": 230360,
+      "name": "Who You Are To Me (feat. Lady A)",
+      "url": "https://open.spotify.com/track/1L4MQJhKyrw0XiF0n0C2hL"
     },
     {
       "added_at": null,
@@ -563,6 +547,22 @@
       "duration_ms": 229680,
       "name": "Sing, Sing, Sing",
       "url": "https://open.spotify.com/track/198MQwd4SASt2PPGbtHu2I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arriving",
+        "url": "https://open.spotify.com/album/4cCT11g6AEsDrDkyAome9f"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 248986,
+      "name": "Your Grace Is Enough",
+      "url": "https://open.spotify.com/track/6nVzKwxkRdm5ZM7rMDCwE1"
     },
     {
       "added_at": null,
@@ -783,8 +783,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burning Lights",
-        "url": "https://open.spotify.com/album/3tSSB1DofuOXRnNXPDjwiW"
+        "name": "Pour Over Me - Worship Together Live 2001",
+        "url": "https://open.spotify.com/album/154cvVNb9uaBEqztlz6rmv"
       },
       "artists": [
         {
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 218747,
-      "name": "God's Great Dance Floor",
-      "url": "https://open.spotify.com/track/2nVmKOoqzbHt5YMT3dzLnp"
+      "duration_ms": 338026,
+      "name": "Give Us Clean Hands - Pour Over Me Album Version",
+      "url": "https://open.spotify.com/track/2jjyMzq3pvknVSBeSzjck6"
     },
     {
       "added_at": null,
@@ -815,8 +815,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pour Over Me - Worship Together Live 2001",
-        "url": "https://open.spotify.com/album/154cvVNb9uaBEqztlz6rmv"
+        "name": "Burning Lights",
+        "url": "https://open.spotify.com/album/3tSSB1DofuOXRnNXPDjwiW"
       },
       "artists": [
         {
@@ -824,9 +824,9 @@
           "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 338026,
-      "name": "Give Us Clean Hands - Pour Over Me Album Version",
-      "url": "https://open.spotify.com/track/2jjyMzq3pvknVSBeSzjck6"
+      "duration_ms": 218747,
+      "name": "God's Great Dance Floor",
+      "url": "https://open.spotify.com/track/2nVmKOoqzbHt5YMT3dzLnp"
     },
     {
       "added_at": null,

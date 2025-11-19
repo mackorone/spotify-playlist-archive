@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JIytk.md) - [plain]
 
 > This is Anti\-Flag\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,534 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,533 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,11 +33,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JIytk.md) - [plain]
 | 23 | [LAUGH\. CRY\. SMILE\. DIE\. \(feat\. Shane Told of Silverstein\)](https://open.spotify.com/track/6AmR0jgVwt26PqY3FJL8zk) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Shane Told](https://open.spotify.com/artist/04Pv8STObLiJIKEm72YDPY) | [LIES THEY TELL OUR CHILDREN](https://open.spotify.com/album/0y6Yl2xeyimgGJvIt2aNbk) | 3:04 |
 | 24 | [Hymn For The Dead](https://open.spotify.com/track/01iUSHBgeMR1Zz23XTZzwX) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [For Blood And Empire](https://open.spotify.com/album/3B3gJszXnaDZMz8YVRZ1J2) | 3:39 |
 | 25 | [Should I Stay or Should I Go \- Live Version](https://open.spotify.com/track/6RUQBnoaTvJWmeKWonkJwB) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Complete Control Sessions](https://open.spotify.com/album/7sKPLjegUKYQewu3ytf0Si) | 2:43 |
-| 26 | [Captain Anarchy](https://open.spotify.com/track/1tqC8SbK0zAPOOhq0YXc5Z) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [A New Kind of Army](https://open.spotify.com/album/1Y0Z1edYpuumeeELWdseMv) | 2:33 |
-| 27 | [This Is the New Sound](https://open.spotify.com/track/4t98qp03cHX5oau9jsxE0M) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The General Strike](https://open.spotify.com/album/406J0Oguq0uZBtJmsc5juw) | 2:45 |
+| 26 | [This Is the New Sound](https://open.spotify.com/track/4t98qp03cHX5oau9jsxE0M) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The General Strike](https://open.spotify.com/album/406J0Oguq0uZBtJmsc5juw) | 2:45 |
+| 27 | [Captain Anarchy](https://open.spotify.com/track/1tqC8SbK0zAPOOhq0YXc5Z) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [A New Kind of Army](https://open.spotify.com/album/1Y0Z1edYpuumeeELWdseMv) | 2:33 |
 | 28 | [The Criminals](https://open.spotify.com/track/5XM2XAGYQxzgGr8CVZi5UP) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Fall](https://open.spotify.com/album/55oNSkAEaPPS1PnSZimhts) | 2:43 |
-| 29 | [Sodom, Gomorrah, Washington D.C\. \(Sheep in Shepherds Clothing\)](https://open.spotify.com/track/6yYrpq7dyqQGxw5XB9nShv) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The People Or the Gun](https://open.spotify.com/album/5PAiVz2v0z9FqOI7e9Ebvn) | 2:50 |
-| 30 | [VICTORY OR DEATH \(WE GAVE 'EM HELL\) \(feat\. Campino of Die Toten Hosen\)](https://open.spotify.com/track/1gLX2nqjwB7J7udA95Zmr3) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Campino](https://open.spotify.com/artist/4URwBrjUZk4M2L1bSfJCIs) | [LIES THEY TELL OUR CHILDREN](https://open.spotify.com/album/0y6Yl2xeyimgGJvIt2aNbk) | 3:31 |
+| 29 | [VICTORY OR DEATH \(WE GAVE 'EM HELL\) \(feat\. Campino of Die Toten Hosen\)](https://open.spotify.com/track/1gLX2nqjwB7J7udA95Zmr3) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Campino](https://open.spotify.com/artist/4URwBrjUZk4M2L1bSfJCIs) | [LIES THEY TELL OUR CHILDREN](https://open.spotify.com/album/0y6Yl2xeyimgGJvIt2aNbk) | 3:31 |
+| 30 | [Sodom, Gomorrah, Washington D.C\. \(Sheep in Shepherds Clothing\)](https://open.spotify.com/track/6yYrpq7dyqQGxw5XB9nShv) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The People Or the Gun](https://open.spotify.com/album/5PAiVz2v0z9FqOI7e9Ebvn) | 2:50 |
 | 31 | [The Neoliberal Anthem](https://open.spotify.com/track/1eFFX62lE73xMal8dGPMHU) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The General Strike](https://open.spotify.com/album/406J0Oguq0uZBtJmsc5juw) | 3:17 |
 | 32 | [Fabled World](https://open.spotify.com/track/3HNYcvcsw78tNXJtc4YbES) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Spring](https://open.spotify.com/album/6UtJ5648uGVbr0EGCJs6S7) | 3:16 |
 | 33 | [When The Wall Falls](https://open.spotify.com/track/2j6BvBYHuvlHHRx33sDG7X) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Fall](https://open.spotify.com/album/55oNSkAEaPPS1PnSZimhts) | 2:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JIytk.md) - [plain]
 | 49 | [Rotten Future](https://open.spotify.com/track/77QXaDMVbxeLA9PpfqHmHs) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Die for the Government](https://open.spotify.com/album/5q8xABjtqtUm4ItxT51NQP) | 1:58 |
 | 50 | [1915](https://open.spotify.com/track/4wVyJwCztcUG1vomQH1day) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The General Strike](https://open.spotify.com/album/406J0Oguq0uZBtJmsc5juw) | 2:51 |
 
-Snapshot ID: `aRkUAAAAAACucm+CwSwfvpkZj9pj2dhg`
+Snapshot ID: `aRplgAAAAACkpk6S+7jkJw4ysMZVWfVR`

@@ -150,7 +150,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-05",
+      "date_removed": null,
       "duration_ms": 146666,
       "name": "4 Raws",
       "url": "https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT"
@@ -374,6 +374,24 @@
       "duration_ms": 174857,
       "name": "ADHD",
       "url": "https://open.spotify.com/track/4XdXOs0nb6GwLYQjl1WuaB"
+    },
+    {
+      "album": {
+        "name": "Don't Tread On Me",
+        "url": "https://open.spotify.com/album/0BcmwUQT2qQrnG6kdFcFQK"
+      },
+      "artists": [
+        {
+          "name": "Cain Walker",
+          "url": "https://open.spotify.com/artist/7BKNTwZykUrvFUK5QbeHhg"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198199,
+      "name": "Ain't My Problem",
+      "url": "https://open.spotify.com/track/1s8kwEysRcSGPZC4Eg12By"
     },
     {
       "album": {
@@ -842,7 +860,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 140000,
       "name": "Baila De Utrecht",
       "url": "https://open.spotify.com/track/1si4C09HPkKIPmTV1l1Qfa"
@@ -959,6 +977,24 @@
     },
     {
       "album": {
+        "name": "Wereld Van Sosa 2",
+        "url": "https://open.spotify.com/album/0QABh43APLzaww6N0igdYp"
+      },
+      "artists": [
+        {
+          "name": "Lil Saint",
+          "url": "https://open.spotify.com/artist/32nKrlbSIPvgVTcd4LKJor"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167647,
+      "name": "Bienderen",
+      "url": "https://open.spotify.com/track/37qT7EYqoTjDNH5hVUzWsR"
+    },
+    {
+      "album": {
         "name": "Bij Jou Zijn",
         "url": "https://open.spotify.com/album/325ZEU60AqpElp1J9LyrOJ"
       },
@@ -1028,7 +1064,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 138955,
       "name": "blackout blackout",
       "url": "https://open.spotify.com/track/3GWq178RXxxXnuGOpuJ6MZ"
@@ -1480,6 +1516,24 @@
       "duration_ms": 172819,
       "name": "Carolien (Nee, Ik Blijf Wel Hier)",
       "url": "https://open.spotify.com/track/5qAqwsdfnb0E9uETWqPKAY"
+    },
+    {
+      "album": {
+        "name": "Century",
+        "url": "https://open.spotify.com/album/3iEInaFAamSTND6sovehX7"
+      },
+      "artists": [
+        {
+          "name": "EsDeeKid",
+          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109714,
+      "name": "Century",
+      "url": "https://open.spotify.com/track/1lJOLxDS8kS2rihrqezMcv"
     },
     {
       "album": {
@@ -2496,7 +2550,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 229439,
       "name": "Doolhof",
       "url": "https://open.spotify.com/track/4wbtOVwvD51zs2UPpjG1bO"
@@ -2929,6 +2983,32 @@
     },
     {
       "album": {
+        "name": "FALL AGAIN",
+        "url": "https://open.spotify.com/album/2Gwa3T4RlRVl2EBuDiiLEB"
+      },
+      "artists": [
+        {
+          "name": "Wally",
+          "url": "https://open.spotify.com/artist/5sKJpW8V9gGDpLIaBYbr8x"
+        },
+        {
+          "name": "Def",
+          "url": "https://open.spotify.com/artist/7xSvzzpRGlGKyXVOI6IeWk"
+        },
+        {
+          "name": "Bokoesam",
+          "url": "https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167647,
+      "name": "FALL AGAIN",
+      "url": "https://open.spotify.com/track/5OwcN7VpWuViKrtYlZuzTn"
+    },
+    {
+      "album": {
         "name": "COLOR OUTSIDE THE LINES",
         "url": "https://open.spotify.com/album/2yMfaynthtWVAkJ5A3Kwrf"
       },
@@ -3016,6 +3096,32 @@
       "duration_ms": 182400,
       "name": "Feel The Ground Shake",
       "url": "https://open.spotify.com/track/4WKuPFcr0JtO9RCwkfvQeY"
+    },
+    {
+      "album": {
+        "name": "Harlem's Finest: Return Of The King",
+        "url": "https://open.spotify.com/album/52bbgcaJfoKW3N2eO8TYMN"
+      },
+      "artists": [
+        {
+          "name": "Big L",
+          "url": "https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM"
+        },
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "Pale Jay",
+          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155142,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/7lCpzHEIIBf7BQKfRyRP01"
     },
     {
       "album": {
@@ -3347,6 +3453,28 @@
     },
     {
       "album": {
+        "name": "Glas",
+        "url": "https://open.spotify.com/album/0kO81VfsNlgcdp206XgXQx"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        },
+        {
+          "name": "Racoon",
+          "url": "https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215585,
+      "name": "Glas",
+      "url": "https://open.spotify.com/track/3Xj9DodEXwgpTho3R9tU3b"
+    },
+    {
+      "album": {
         "name": "Go Shawty",
         "url": "https://open.spotify.com/album/3bGEmdL2XkICohy6Aoo5yw"
       },
@@ -3612,7 +3740,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 162666,
       "name": "Helaas",
       "url": "https://open.spotify.com/track/0JzULZMvwyf00IMQmGFoS5"
@@ -4211,6 +4339,24 @@
     },
     {
       "album": {
+        "name": "I Run - Zara House",
+        "url": "https://open.spotify.com/album/2jmwHs0U90a9zcIjoSZLvO"
+      },
+      "artists": [
+        {
+          "name": "4dawgs",
+          "url": "https://open.spotify.com/artist/4oRU1mfWnTMKunA5zUmTJ6"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61037,
+      "name": "I Run - Zara House",
+      "url": "https://open.spotify.com/track/7xjndO8oFhdxINX7mK5pCb"
+    },
+    {
+      "album": {
         "name": "BITE ME",
         "url": "https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN"
       },
@@ -4516,7 +4662,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 126000,
       "name": "Incoming - Noxiouz & Satirized Remix",
       "url": "https://open.spotify.com/track/5CKu1sCiPFq86d3IJAVkYJ"
@@ -5301,6 +5447,24 @@
     },
     {
       "album": {
+        "name": "Lovin Lovin",
+        "url": "https://open.spotify.com/album/4DOZs3ELHMAqof1ho2LG4O"
+      },
+      "artists": [
+        {
+          "name": "Kaya Imani",
+          "url": "https://open.spotify.com/artist/1vGqIJlfH4QS0KQzrKU8tw"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135638,
+      "name": "Lovin Lovin",
+      "url": "https://open.spotify.com/track/6jUijp6Ic3AyRBSV2CaWOt"
+    },
+    {
+      "album": {
         "name": "Low Again",
         "url": "https://open.spotify.com/album/6afCL6c4857TgbFFS3FGWe"
       },
@@ -5774,7 +5938,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 140560,
       "name": "Mimosa 2000",
       "url": "https://open.spotify.com/track/79bWkyd08EFDO0ZZuu7IRT"
@@ -5956,7 +6120,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 135659,
       "name": "MUEVELOU",
       "url": "https://open.spotify.com/track/27gcAFVOnixwd1Kd7q428C"
@@ -6104,7 +6268,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 229779,
       "name": "Niemand",
       "url": "https://open.spotify.com/track/2ZodgwtywVovNUNIcKDpbD"
@@ -6130,6 +6294,24 @@
       "duration_ms": 210112,
       "name": "Niemand Kan Blijven",
       "url": "https://open.spotify.com/track/0mtgMC6QSzemU5fTImXU6R"
+    },
+    {
+      "album": {
+        "name": "Nighthawk (Reprise)",
+        "url": "https://open.spotify.com/album/6CRDx0qW96wAyZYoylUg8v"
+      },
+      "artists": [
+        {
+          "name": "Re:um",
+          "url": "https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "Nighthawk - Reprise",
+      "url": "https://open.spotify.com/track/1HadQI0LBZKqF2J6iTRn0t"
     },
     {
       "album": {
@@ -6657,6 +6839,24 @@
     },
     {
       "album": {
+        "name": "Outro",
+        "url": "https://open.spotify.com/album/3pUJwPC75JQzqq76qQdIUA"
+      },
+      "artists": [
+        {
+          "name": "The Saints",
+          "url": "https://open.spotify.com/artist/0CE9b5MpyYgJNxa2bNkOMc"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144814,
+      "name": "Outro",
+      "url": "https://open.spotify.com/track/4zmRv5Br7ZFMAUHeqiPQ8R"
+    },
+    {
+      "album": {
         "name": "Overdosis",
         "url": "https://open.spotify.com/album/32We7ASDADKiivoG5cJGhL"
       },
@@ -7098,7 +7298,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 241693,
       "name": "Pussy Palace",
       "url": "https://open.spotify.com/track/73vfMXcXa6iY1E3lpf2fZO"
@@ -7588,7 +7788,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 154507,
       "name": "Single In De Club",
       "url": "https://open.spotify.com/track/5045jDDUndh7937KS177Ir"
@@ -7654,7 +7854,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 169000,
       "name": "So Easy (To Fall In Love)",
       "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
@@ -8148,6 +8348,32 @@
       "duration_ms": 182016,
       "name": "Takedown",
       "url": "https://open.spotify.com/track/0MHStU0muAIEMbwdnebYu2"
+    },
+    {
+      "album": {
+        "name": "Talk of the Town",
+        "url": "https://open.spotify.com/album/7qjrNDFT178bazNZiASRBU"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        },
+        {
+          "name": "Reggie",
+          "url": "https://open.spotify.com/artist/0kJOr4qkmePXKFVm9OBK0X"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193846,
+      "name": "Talk of the Town",
+      "url": "https://open.spotify.com/track/0Y2QAFRdkzrNAJDPJ5lATF"
     },
     {
       "album": {
@@ -8800,7 +9026,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 184711,
       "name": "Unhinged",
       "url": "https://open.spotify.com/track/5hvyS23Ya468Sp4VeL48U5"
@@ -9328,7 +9554,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 186676,
       "name": "Wacht Op Mij",
       "url": "https://open.spotify.com/track/0P6nJmFxmZ6StMiAveIabG"
@@ -9913,6 +10139,28 @@
     },
     {
       "album": {
+        "name": "Wij Gaan Niet Weg (Radio Edit)",
+        "url": "https://open.spotify.com/album/0TtjWznlLyUNRfhBdealJo"
+      },
+      "artists": [
+        {
+          "name": "Mocro Media Crew",
+          "url": "https://open.spotify.com/artist/6wfXjm0zi61OwJwjRqbJAm"
+        },
+        {
+          "name": "Dj Fadil",
+          "url": "https://open.spotify.com/artist/2cNKEzpDPRTllryEBOz1jT"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155719,
+      "name": "Wij Gaan Niet Weg - Radio Edit",
+      "url": "https://open.spotify.com/track/6lXcDnVtz0FBtPajAT00Ce"
+    },
+    {
+      "album": {
         "name": "Wij zeggen nee, nee, nee, tegen een AZC",
         "url": "https://open.spotify.com/album/64tMaHZZvQcU2173dhWmUS"
       },
@@ -10014,10 +10262,32 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-13",
+      "date_removed": null,
       "duration_ms": 72073,
       "name": "Wij Zijn Groep 3 (Golden)",
       "url": "https://open.spotify.com/track/3yaNz4G79700PzKwpaaslP"
+    },
+    {
+      "album": {
+        "name": "WILDFIRE",
+        "url": "https://open.spotify.com/album/5kckaBe8QaB0WzC6fByoem"
+      },
+      "artists": [
+        {
+          "name": "FUZION",
+          "url": "https://open.spotify.com/artist/6Onz7lRkfK9vCyZDEKoFmB"
+        },
+        {
+          "name": "Zeli",
+          "url": "https://open.spotify.com/artist/76XUcSGE6JZ8pbCxnBd1iz"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177111,
+      "name": "WILDFIRE",
+      "url": "https://open.spotify.com/track/1dpB1jrziyaczTQvvz8du1"
     },
     {
       "album": {
@@ -10162,7 +10432,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 159673,
       "name": "YAMA",
       "url": "https://open.spotify.com/track/1GBn2lt8KfovKFP5gHPgMt"
@@ -10446,7 +10716,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 234101,
       "name": "Zo Stil",
       "url": "https://open.spotify.com/track/08HQVzUkFF7QjUs9FmO4VH"

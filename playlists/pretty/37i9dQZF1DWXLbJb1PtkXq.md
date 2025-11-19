@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLbJb1PtkXq.md) - [plain]
 
 > Les plus grands hits français des années 90\. Photo: Tryo
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,016 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,034 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLbJb1PtkXq.md) - [plain]
 | 15 | [Le jerk](https://open.spotify.com/track/5aRh9MryKg4B8NC1X6DvF1) | [Thierry Hazard](https://open.spotify.com/artist/21h26EWdy9snENqbeAZorA) | [Le jerk](https://open.spotify.com/album/1cyqbFP9Qvv6qqNC7Hxlwe) | 3:55 |
 | 16 | [La corrida \- Remastered](https://open.spotify.com/track/5MtP6QGoOkA1L5ynZyQEiv) | [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [Samedi soir sur la terre \(Remastered\)](https://open.spotify.com/album/4KXrFpUXZO6e5RdZ70HaK8) | 5:42 |
 | 17 | [Pour que tu m'aimes encore](https://open.spotify.com/track/6qlpXtA29VcxCNgLWR5IWx) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [D'Eux](https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p) | 4:14 |
-| 18 | [Le paradis blanc \- Remasterisé en 2002](https://open.spotify.com/track/6N6uTt8e1vLLgIZK5FgSYh) | [Michel Berger](https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4) | [Ca ne tient pas debout \(Remasterisé en 2002\)](https://open.spotify.com/album/2X3NWw5yXoj2yJJIGvFhKM) | 6:36 |
+| 18 | [Le paradis blanc \- Remasterisé en 2002](https://open.spotify.com/track/6N6uTt8e1vLLgIZK5FgSYh) | [Michel Berger](https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4) | [Ça ne tient pas debout \(Remasterisé en 2002\)](https://open.spotify.com/album/2X3NWw5yXoj2yJJIGvFhKM) | 6:36 |
 | 19 | [J'te l'dis quand même](https://open.spotify.com/track/1Ek1OEhcEw9gRr5fxVizhk) | [Patrick Bruel](https://open.spotify.com/artist/0vmrFTWCwK3gFGDzeUzeMg) | [Alors regarde](https://open.spotify.com/album/2BPmd6BmvLHEz9ieEJBSNt) | 3:39 |
 | 20 | [Savoir aimer](https://open.spotify.com/track/0x8GIrcAO8msuslNoTKIXM) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9) | [Savoir Aimer](https://open.spotify.com/album/6f6O9rhUAlFv9y18O2AZ0p) | 4:41 |
 | 21 | [Désenchantée](https://open.spotify.com/track/15XYdD283tK9iyJzL738bn) | [Mylène Farmer](https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD) | [L'Autre](https://open.spotify.com/album/2P7i0qBBgJPxc01wRQU2DM) | 5:22 |

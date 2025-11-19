@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUwJ0RFwrgQP.md) - [plain]
 
 > Poussez les meubles, lancez la playlist\. Que la fête continue !
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,415 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,384 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUwJ0RFwrgQP.md) - [plain]
 | 29 | [PARISIENNE](https://open.spotify.com/track/3igbfkHq3s5wGMvC8iAscj) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [PARISIENNE](https://open.spotify.com/album/0uLbgYJN8rKSL8Xn7dSL9b) | 2:38 |
 | 30 | [Light It Up \(feat\. Nyla & Fuse ODG\) \[Remix\]](https://open.spotify.com/track/1pjvlYOMIg1NhGQbM6iwrY) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Nyla](https://open.spotify.com/artist/4VZY0nxYMSNotbS7WjNVQy), [Fuse ODG](https://open.spotify.com/artist/374sWpAJsbZckf98df2jJJ) | [Peace Is The Mission : Extended](https://open.spotify.com/album/2U0b5MfkMUgzdvRUI69mya) | 2:46 |
 | 31 | [Shake It Off](https://open.spotify.com/track/3fthfkkvy9av3q3uAGVf7U) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Deluxe Edition\)](https://open.spotify.com/album/34OkZVpuzBa9y40DCy0LPR) | 3:39 |
-| 32 | [This Is What You Came For](https://open.spotify.com/track/0azC730Exh71aQlOt9Zj3y) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [This Is What You Came For](https://open.spotify.com/album/3pEgGUv379EDinvg1TN7Kt) | 3:42 |
+| 32 | [This Is What You Came For](https://open.spotify.com/track/0azC730Exh71aQlOt9Zj3y) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [This Is What You Came For](https://open.spotify.com/album/3pEgGUv379EDinvg1TN7Kt) | 3:41 |
 | 33 | [Titanium \(feat\. Sia\)](https://open.spotify.com/track/0TDLuuLlV54CkRRUOahJb4) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Nothing but the Beat \(Ultimate Edition\)](https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl) | 4:05 |
 | 34 | [Baianá](https://open.spotify.com/track/7MUazB4rGIqFFIkjT95rCO) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [Baianá](https://open.spotify.com/album/7ImQIxwDqi9OKS93QMsKQN) | 3:00 |
 | 35 | [The Dead Dance](https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Dead Dance](https://open.spotify.com/album/1KdrtZn2AmuQPHKIr3h4e6) | 3:48 |

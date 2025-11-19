@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0PFYKeP9rl.md) - [plain]
 
 > Freshly squeezed, from concentrate and 100% online.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,304 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,305 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0PFYKeP9rl.md) - [plain]
 | 49 | [Bad Bih 4 Ya \(feat\. Boston Richey\)](https://open.spotify.com/track/6oXwnROJNUkozh28jT9O1V) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Boston Richey](https://open.spotify.com/artist/6N6dtckgIXwmGROqfhwkFz) | [Ehhthang Ehhthang](https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI) | 3:00 |
 | 50 | [I Lied to You](https://open.spotify.com/track/0XfwXFXOI7oys9rsZ2sjrt) | [Miles Caton](https://open.spotify.com/artist/0EEwD5PTnNLxUfAS22mErL), [Sinners Movie](https://open.spotify.com/artist/0SBtkuQnoKrDFqsMNrFzhU) | [Sinners \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0zjAqh1Fr7XQWy1SlzGhMn) | 5:14 |
 
-Snapshot ID: `AAAAAC0GFDBkKv3hzRtKKGYrhU1Qw/nR`
+Snapshot ID: `AAAAAD7aEKlYPL7kPOBq0l8/wZBYyM0Y`

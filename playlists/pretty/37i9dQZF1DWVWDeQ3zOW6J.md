@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWDeQ3zOW6J.md) - [plain]
 
 > ¡Nada le gana a una comida hecha con buena salsa!
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,796 likes - 60 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,814 likes - 60 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWDeQ3zOW6J.md) - [plain]
 | 37 | [Manyoma](https://open.spotify.com/track/2MGT7BNwjf3c6DbhXqBaW9) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [Fruko el Grande](https://open.spotify.com/album/4VwcUaZ0yWCHp9hEDue09C) | 4:08 |
 | 38 | [Quiéreme Siempre](https://open.spotify.com/track/3cOjwAd2qUFlXG71620G6C) | [Orquesta Aragón](https://open.spotify.com/artist/2jXlqT8v9XIJnKQYRgLvSr) | [Mosaicos Tropicales](https://open.spotify.com/album/11OAMNwtwOQZnGpJzBNn3C) | 2:59 |
 | 39 | [Máximo Chamorro](https://open.spotify.com/track/4KARXeRqsfk8ZbyrRhqKc5) | [Lalo Rodriguez](https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U) | [Simplemente..\. Lalo](https://open.spotify.com/album/02BFzeqsPhtq8r9mEdrl2E) | 7:38 |
-| 40 | [Yamulemau](https://open.spotify.com/track/3wyKZNE5qs4Etunb0dFrLw) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [Colección Éxitos Joe Arroyo \(Vol\. 2\)](https://open.spotify.com/album/0qGM0WX4GuaRaHWxzi73tX) | 4:28 |
-| 41 | [Que Bueno Baila Usted](https://open.spotify.com/track/5c2JVgFOORbNCtaMS0myWY) | [Beny Moré](https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw) | [The Very Best Of Beny More Vol\. 1](https://open.spotify.com/album/45tO9TmvTvtAFWqWqB89hq) | 3:14 |
+| 40 | [Que Bueno Baila Usted](https://open.spotify.com/track/5c2JVgFOORbNCtaMS0myWY) | [Beny Moré](https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw) | [The Very Best Of Beny More Vol\. 1](https://open.spotify.com/album/45tO9TmvTvtAFWqWqB89hq) | 3:14 |
+| 41 | [Yamulemau](https://open.spotify.com/track/3wyKZNE5qs4Etunb0dFrLw) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [Colección Éxitos Joe Arroyo \(Vol\. 2\)](https://open.spotify.com/album/0qGM0WX4GuaRaHWxzi73tX) | 4:28 |
 | 42 | [Patillero](https://open.spotify.com/track/2oaGtTnoM8jL8Pxouf6GJ1) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Wilson "Saoko" Manyoma](https://open.spotify.com/artist/43zrpWYGTWyHmRAmhE07u0) | [Fruko el Patillero](https://open.spotify.com/album/2XfXsROaksq5IlUCRn0XOR) | 3:27 |
 | 43 | [Melao De Caña](https://open.spotify.com/track/7yHleQZ0QlKXBcSC6fnxie) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Songs](https://open.spotify.com/album/0KQGOYXK7YdTavxcfDtcmI) | 2:52 |
 | 44 | [Te conozco bacalao](https://open.spotify.com/track/3UuFzofATsKBzRUggfWigb) | [El Combo Belga](https://open.spotify.com/artist/69vFORDMYL8ZfBGHtAfDve) | [Rompiendo clave](https://open.spotify.com/album/0zzAXAwmZXzeWqrbHiyZ8v) | 4:24 |

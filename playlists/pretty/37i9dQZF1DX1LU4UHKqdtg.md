@@ -2,26 +2,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 
 ### [Stargirl vibes](https://open.spotify.com/playlist/37i9dQZF1DX1LU4UHKqdtg)
 
-> グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: ITZY
+> グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: JURIN ASAYA
 
-[Spotify](https://open.spotify.com/user/spotify) - 449,012 likes - 80 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 449,089 likes - 79 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [SPAGHETTI](https://open.spotify.com/track/2N9miXnewVmUrgl6JSK1FI) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [SPAGHETTI](https://open.spotify.com/album/2yUrwTLHDWBrW74Ewuw6RX) | 2:52 |
-| 2 | [TUNNEL VISION](https://open.spotify.com/track/1XkuFmRm3H4G4nTxsC9inD) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [TUNNEL VISION](https://open.spotify.com/album/1NFtkNZ4KqDZ2kd8HqJjhA) | 3:05 |
-| 3 | [Blue Valentine](https://open.spotify.com/track/0FKR7mQJnYqdEmHAMhgQjw) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Blue Valentine](https://open.spotify.com/album/0fDy1DwMawX4l1nvV2diwW) | 3:06 |
-| 4 | [FOCUS](https://open.spotify.com/track/6jYiHr12NVKLzn0X7K8aSK) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [FOCUS \- The 1st Mini Album](https://open.spotify.com/album/0SVlu6q116wFO1m4EZ088b) | 2:57 |
-| 5 | [PS118 \- feat\. Rapsody](https://open.spotify.com/track/1X5BMHJoKkVlf9Vo2YYsJz) | [JURIN ASAYA](https://open.spotify.com/artist/1CHDdqhyEC343e2O8dRo4N), [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5) | [PS118 \(feat\. Rapsody\)](https://open.spotify.com/album/3m7AhzkJtlEFJy3F5ekhqG) | 2:40 |
+| 1 | [PS118 \- feat\. Rapsody](https://open.spotify.com/track/1X5BMHJoKkVlf9Vo2YYsJz) | [JURIN ASAYA](https://open.spotify.com/artist/1CHDdqhyEC343e2O8dRo4N), [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5) | [PS118 \(feat\. Rapsody\)](https://open.spotify.com/album/3m7AhzkJtlEFJy3F5ekhqG) | 2:40 |
+| 2 | [SPAGHETTI](https://open.spotify.com/track/2N9miXnewVmUrgl6JSK1FI) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [SPAGHETTI](https://open.spotify.com/album/2yUrwTLHDWBrW74Ewuw6RX) | 2:52 |
+| 3 | [TUNNEL VISION](https://open.spotify.com/track/1XkuFmRm3H4G4nTxsC9inD) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [TUNNEL VISION](https://open.spotify.com/album/1NFtkNZ4KqDZ2kd8HqJjhA) | 3:05 |
+| 4 | [Blue Valentine](https://open.spotify.com/track/0FKR7mQJnYqdEmHAMhgQjw) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Blue Valentine](https://open.spotify.com/album/0fDy1DwMawX4l1nvV2diwW) | 3:06 |
+| 5 | [FOCUS](https://open.spotify.com/track/6jYiHr12NVKLzn0X7K8aSK) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [FOCUS \- The 1st Mini Album](https://open.spotify.com/album/0SVlu6q116wFO1m4EZ088b) | 2:57 |
 | 6 | [WE GO UP](https://open.spotify.com/track/1tonXoW6dcb7GGNpec3PTl) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [WE GO UP](https://open.spotify.com/album/4QymxXCfQoxscpmFiMXcv9) | 3:06 |
 | 7 | [Rich Man](https://open.spotify.com/track/1sUjTLLCJzcxC15GUBrOlg) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Rich Man \- The 6th Mini Album](https://open.spotify.com/album/7FxdJyW8SaXRMR9d7pdDv2) | 3:17 |
 | 8 | [BURNING UP](https://open.spotify.com/track/0p5xMhVvw441Z10hNWsk5Q) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [BURNING UP](https://open.spotify.com/album/7fXV48Cb6oovOhREBeQgaV) | 2:49 |
-| 9 | [My Body](https://open.spotify.com/track/4tQPrEh1GZYlSLDx5gLtxs) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [My Body](https://open.spotify.com/album/3DBFF0VG1N0eqyTMkbmI6I) | 3:23 |
-| 10 | [ONE MORE TIME](https://open.spotify.com/track/7FyKqLLICVzwBiAUtbVYUW) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [ONE MORE TIME](https://open.spotify.com/album/5VxaQoQltZT93oaGc72Csy) | 3:15 |
-| 11 | [가위바위보 Eeny meeny miny moe](https://open.spotify.com/track/5hy45ZHbIypFH2NsiEyc0Z) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Too Much Part 1](https://open.spotify.com/album/0spXOvUlUo1EUDs13nlXki) | 2:43 |
-| 12 | [XOXZ](https://open.spotify.com/track/2c6xH9usslUoHnOzsRhpcP) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE SECRET](https://open.spotify.com/album/25Mn0mDW9mFCvnrx9bPqP6) | 2:34 |
-| 13 | [ME+YOU](https://open.spotify.com/track/28Ygtr4cR376cQN7WOOBjT) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [TEN: The Story Goes On](https://open.spotify.com/album/40sp9TMuaBxgumWUY2XgZO) | 2:55 |
-| 14 | [♡Emotion](https://open.spotify.com/track/4iO9jhr2M1mwWKcszwFpk7) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [♡Emotion](https://open.spotify.com/album/2zCqs1mLztvaNN9a6Tcue5) | 3:39 |
+| 9 | [ONE MORE TIME](https://open.spotify.com/track/7FyKqLLICVzwBiAUtbVYUW) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [ONE MORE TIME](https://open.spotify.com/album/5VxaQoQltZT93oaGc72Csy) | 3:15 |
+| 10 | [My Body](https://open.spotify.com/track/4tQPrEh1GZYlSLDx5gLtxs) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [My Body](https://open.spotify.com/album/3DBFF0VG1N0eqyTMkbmI6I) | 3:23 |
+| 11 | [♡Emotion](https://open.spotify.com/track/4iO9jhr2M1mwWKcszwFpk7) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [♡Emotion](https://open.spotify.com/album/2zCqs1mLztvaNN9a6Tcue5) | 3:39 |
+| 12 | [가위바위보 Eeny meeny miny moe](https://open.spotify.com/track/5hy45ZHbIypFH2NsiEyc0Z) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Too Much Part 1](https://open.spotify.com/album/0spXOvUlUo1EUDs13nlXki) | 2:43 |
+| 13 | [XOXZ](https://open.spotify.com/track/2c6xH9usslUoHnOzsRhpcP) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE SECRET](https://open.spotify.com/album/25Mn0mDW9mFCvnrx9bPqP6) | 2:34 |
+| 14 | [ME+YOU](https://open.spotify.com/track/28Ygtr4cR376cQN7WOOBjT) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [TEN: The Story Goes On](https://open.spotify.com/album/40sp9TMuaBxgumWUY2XgZO) | 2:55 |
 | 15 | [Mamma Mia](https://open.spotify.com/track/1WNc4sGUuEArGDUIaTTRXe) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [Not Just Pretty](https://open.spotify.com/album/2LfRsLiziLIEBljoMeH5VU) | 2:39 |
 | 16 | [GALA](https://open.spotify.com/track/6laUIsJKwTQMXAAEKnCwES) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [GALA](https://open.spotify.com/album/3NRRlw17pH8AinthjFc2MT) | 3:47 |
 | 17 | [GOOD STUFF \- KARINA Solo](https://open.spotify.com/track/19iJj3pCMwGxrA6pltPat3) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [SYNK : aeXIS LINE \- 2025 Special Digital Single](https://open.spotify.com/album/74gHwFGwl4KWA3sD8ZmAbJ) | 2:55 |
@@ -86,7 +86,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 | 76 | [TILT](https://open.spotify.com/track/1etiDVN61JMXErlRMia2oR) | [Red Velvet \- IRENE & SEULGI](https://open.spotify.com/artist/6bwp9ObI8FWvMPCIWVBmhl) | [TILT \- The 2nd Mini Album](https://open.spotify.com/album/706xdC5SJBOk85HoJSFJeq) | 3:04 |
 | 77 | [Messy \(From F1® The Movie\)](https://open.spotify.com/track/6Wobsw9uZ0D0xkfOjxXSq9) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Messy \(From F1® The Movie\)](https://open.spotify.com/album/0k428U1kVhDaxhqBP7PbGr) | 2:59 |
 | 78 | [Hello Stranger](https://open.spotify.com/track/2rY9jItQLvMWImHZygEV3d) | [KWON EUNBI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [Hello Stranger](https://open.spotify.com/album/4fy8OpuY3eepNbp6V0p6Og) | 3:01 |
-| 79 | [LOVE, AFRAID](https://open.spotify.com/track/1pLMNDbYPRpYy1C5vtl3ke) | [MADEIN](https://open.spotify.com/artist/5Sso2rRE8bs9Ff6bkfqUKe) | [MADEIN FOREVER](https://open.spotify.com/album/6HGJb9CKxgnIRdTsvY3Mey) | 3:12 |
-| 80 | [Supernatural](https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Supernatural](https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN) | 3:11 |
+| 79 | [Supernatural](https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Supernatural](https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN) | 3:11 |
 
-Snapshot ID: `AAAAAAlNkvZV0/nqsMT7DAtdFuUJGUf7`
+Snapshot ID: `AAAAACa0IqCxRGNsf6iCe2ZHV7W9/30i`

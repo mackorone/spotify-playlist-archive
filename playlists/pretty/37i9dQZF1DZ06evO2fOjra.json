@@ -1,12 +1,12 @@
 {
   "description": "This is Korn. The essential tracks, all in one playlist.",
-  "num_followers": 552972,
+  "num_followers": 553081,
   "original_name": "This Is Korn",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRkUAAAAAAAJgRBLV8jwG3BB3gTxKCrV",
+  "snapshot_id": "aRplgAAAAACnSHSsQA64igIgbRojeIpi",
   "tracks": [
     {
       "added_at": null,
@@ -20,7 +20,7 @@
           "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
         }
       ],
-      "duration_ms": 255733,
+      "duration_ms": 255729,
       "name": "Freak On a Leash",
       "url": "https://open.spotify.com/track/6W21LNLz9Sw7sUSNWMSHRu"
     },
@@ -84,7 +84,7 @@
           "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
         }
       ],
-      "duration_ms": 225306,
+      "duration_ms": 225319,
       "name": "Got the Life",
       "url": "https://open.spotify.com/track/6nJPHXRpKYv2yqtalEjKy5"
     },
@@ -264,7 +264,7 @@
           "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
         }
       ],
-      "duration_ms": 269573,
+      "duration_ms": 269577,
       "name": "It's On!",
       "url": "https://open.spotify.com/track/0e06Zwd1027jFtmrRbXAjl"
     },
@@ -332,7 +332,7 @@
           "url": "https://open.spotify.com/artist/6xs3t4VrfszbO3YJg2wLPa"
         }
       ],
-      "duration_ms": 288973,
+      "duration_ms": 288978,
       "name": "All In the Family (feat. Fred Durst)",
       "url": "https://open.spotify.com/track/7yYvvOB7CuzdVldb6zOk1m"
     },
@@ -559,22 +559,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Follow The Leader",
-        "url": "https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4"
+        "name": "Greatest Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/48no7LB4tsCfNS9ntRLc4P"
       },
       "artists": [
         {
           "name": "Korn",
           "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        },
-        {
-          "name": "Ice Cube",
-          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
         }
       ],
-      "duration_ms": 232600,
-      "name": "Children of the Korn (feat. Ice Cube)",
-      "url": "https://open.spotify.com/track/72ZarLfZuVXLa2VN1jzAWk"
+      "duration_ms": 427986,
+      "name": "Another Brick in the Wall, Pt. 1, 2, 3 - Pink Floyd Cover",
+      "url": "https://open.spotify.com/track/5fBI2YzuyOVF0nkYjIGjJv"
     },
     {
       "added_at": null,
@@ -595,18 +591,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits, Vol. 1",
-        "url": "https://open.spotify.com/album/48no7LB4tsCfNS9ntRLc4P"
+        "name": "Follow The Leader",
+        "url": "https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4"
       },
       "artists": [
         {
           "name": "Korn",
           "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        },
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
         }
       ],
-      "duration_ms": 427986,
-      "name": "Another Brick in the Wall, Pt. 1, 2, 3 - Pink Floyd Cover",
-      "url": "https://open.spotify.com/track/5fBI2YzuyOVF0nkYjIGjJv"
+      "duration_ms": 232596,
+      "name": "Children of the Korn (feat. Ice Cube)",
+      "url": "https://open.spotify.com/track/72ZarLfZuVXLa2VN1jzAWk"
     },
     {
       "added_at": null,
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
         }
       ],
-      "duration_ms": 230053,
-      "name": "Insane",
-      "url": "https://open.spotify.com/track/3bVwfHr4vuJv6DGZal2Dpq"
+      "duration_ms": 241146,
+      "name": "Black Is the Soul",
+      "url": "https://open.spotify.com/track/1wYXIhJXqlIAGS6sbzpTL6"
     },
     {
       "added_at": null,
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
         }
       ],
-      "duration_ms": 241146,
-      "name": "Black Is the Soul",
-      "url": "https://open.spotify.com/track/1wYXIhJXqlIAGS6sbzpTL6"
+      "duration_ms": 230053,
+      "name": "Insane",
+      "url": "https://open.spotify.com/track/3bVwfHr4vuJv6DGZal2Dpq"
     },
     {
       "added_at": null,

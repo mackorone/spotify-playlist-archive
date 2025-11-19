@@ -1,12 +1,12 @@
 {
   "description": "This is 2Baba. The essential tracks, all in one playlist.",
-  "num_followers": 7770,
+  "num_followers": 7773,
   "original_name": "This Is 2Baba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRkUAAAAAAA2neOT63o7sw7HyhmdD3uH",
+  "snapshot_id": "aRplgAAAAAAi3UJgIknmzDV5t5+QyTsS",
   "tracks": [
     {
       "added_at": null,
@@ -228,13 +228,13 @@
           "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
         },
         {
-          "name": "Peruzzi",
-          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 227683,
-      "name": "Amaka (feat. Peruzzi)",
-      "url": "https://open.spotify.com/track/2F5EpzUXZBX46ruU0muOx0"
+      "duration_ms": 227970,
+      "name": "Opo (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/1aPT4OyFWsqPp004pH2DuY"
     },
     {
       "added_at": null,
@@ -308,29 +308,33 @@
           "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
         },
         {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+          "name": "Peruzzi",
+          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
         }
       ],
-      "duration_ms": 227970,
-      "name": "Opo (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/1aPT4OyFWsqPp004pH2DuY"
+      "duration_ms": 227683,
+      "name": "Amaka (feat. Peruzzi)",
+      "url": "https://open.spotify.com/track/2F5EpzUXZBX46ruU0muOx0"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Salary 4 Life",
-        "url": "https://open.spotify.com/album/2JdhdRFrmEOLRxojMh5y76"
+        "name": "AWAY & BEYOND",
+        "url": "https://open.spotify.com/album/584KPtSKilxTAGAhzttVP6"
       },
       "artists": [
         {
           "name": "2Baba",
           "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "Huma Lara",
+          "url": "https://open.spotify.com/artist/7Jy0uvwHjLZmPODkzdU1qG"
         }
       ],
-      "duration_ms": 153027,
-      "name": "Salary 4 Life",
-      "url": "https://open.spotify.com/track/5hbSZEE3pg99Y0Qj330rKT"
+      "duration_ms": 235781,
+      "name": "Higher (Spiritual Healing) [feat. Huma Lara]",
+      "url": "https://open.spotify.com/track/3Cx0XcneUukQQv2VZgiAE1"
     },
     {
       "added_at": null,
@@ -355,22 +359,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "AWAY & BEYOND",
-        "url": "https://open.spotify.com/album/584KPtSKilxTAGAhzttVP6"
+        "name": "Salary 4 Life",
+        "url": "https://open.spotify.com/album/2JdhdRFrmEOLRxojMh5y76"
       },
       "artists": [
         {
           "name": "2Baba",
           "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "Huma Lara",
-          "url": "https://open.spotify.com/artist/7Jy0uvwHjLZmPODkzdU1qG"
         }
       ],
-      "duration_ms": 235781,
-      "name": "Higher (Spiritual Healing) [feat. Huma Lara]",
-      "url": "https://open.spotify.com/track/3Cx0XcneUukQQv2VZgiAE1"
+      "duration_ms": 153027,
+      "name": "Salary 4 Life",
+      "url": "https://open.spotify.com/track/5hbSZEE3pg99Y0Qj330rKT"
     },
     {
       "added_at": null,
@@ -435,6 +435,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Warriors",
+        "url": "https://open.spotify.com/album/5NqcaCfak06QPIY7gXFnsK"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "Syemca",
+          "url": "https://open.spotify.com/artist/4deX5BRJZF7cfEdxcMXTDp"
+        }
+      ],
+      "duration_ms": 184420,
+      "name": "Target You (feat. Syemca)",
+      "url": "https://open.spotify.com/track/3TnN2kZvjnZDsrS19beSqt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Grass 2 Grace",
         "url": "https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA"
       },
@@ -467,26 +487,6 @@
       "duration_ms": 218462,
       "name": "Dance in the Rain",
       "url": "https://open.spotify.com/track/3bhQHT4YYeQugPW643l8JX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Warriors",
-        "url": "https://open.spotify.com/album/5NqcaCfak06QPIY7gXFnsK"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "Syemca",
-          "url": "https://open.spotify.com/artist/4deX5BRJZF7cfEdxcMXTDp"
-        }
-      ],
-      "duration_ms": 184420,
-      "name": "Target You (feat. Syemca)",
-      "url": "https://open.spotify.com/track/3TnN2kZvjnZDsrS19beSqt"
     },
     {
       "added_at": null,
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KUKU GOOGLE AM",
-        "url": "https://open.spotify.com/album/6XLYPGlLqeNDHp79xoqOvX"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "duration_ms": 210250,
-      "name": "KUKU GOOGLE AM",
-      "url": "https://open.spotify.com/track/2KRAQNY4WrlkrhZUg205co"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gaga Shuffle",
         "url": "https://open.spotify.com/album/0OoIp7iVPm1c1JYSgl4jEO"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 221584,
       "name": "Gaga Shuffle",
       "url": "https://open.spotify.com/track/0XEaIqAvu2Z0GepEXNWzHd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KUKU GOOGLE AM",
+        "url": "https://open.spotify.com/album/6XLYPGlLqeNDHp79xoqOvX"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "duration_ms": 210250,
+      "name": "KUKU GOOGLE AM",
+      "url": "https://open.spotify.com/track/2KRAQNY4WrlkrhZUg205co"
     },
     {
       "added_at": null,
@@ -959,6 +959,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Officially Blind",
+        "url": "https://open.spotify.com/album/4VbAu57Fzi3DRW6opWs0C9"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "duration_ms": 187026,
+      "name": "Officially Blind",
+      "url": "https://open.spotify.com/track/1sEG4j3BPpYyT4hFBQ2M4N"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mad Over Hills",
         "url": "https://open.spotify.com/album/7JRmK6GrPkncTiyNiA8TAH"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 154529,
       "name": "Mad Over Hills",
       "url": "https://open.spotify.com/track/4GmccSWLJaFOeoH8JATCHE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Officially Blind",
-        "url": "https://open.spotify.com/album/4VbAu57Fzi3DRW6opWs0C9"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "duration_ms": 187026,
-      "name": "Officially Blind",
-      "url": "https://open.spotify.com/track/1sEG4j3BPpYyT4hFBQ2M4N"
     }
   ],
   "unique_name": "This Is 2Baba",

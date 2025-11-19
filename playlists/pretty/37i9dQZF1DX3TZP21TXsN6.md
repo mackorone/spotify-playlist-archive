@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 
 > Nieuw: Vensly, D.SEL, ILLIE, Sepa en meer en meer
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,063 likes - 72 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,059 likes - 72 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 | 41 | [Formule](https://open.spotify.com/track/3PxeCM0xaaXFdzEVNaNYbZ) | [HAYABUSA](https://open.spotify.com/artist/2qWVVGxTmT9ZQG2TXYuiVd), [HB The Plug](https://open.spotify.com/artist/17fsAjYzpvI7C5M1D8T34T) | [Formule](https://open.spotify.com/album/5dA4cV2hhEyGqrhmbb9GAl) | 2:00 |
 | 42 | [Wilskracht](https://open.spotify.com/track/5zm31FbU6lS70wEgB8VTs8) | [Loontje Packs](https://open.spotify.com/artist/7zdCYb0tL9wzgtiZmo86yo) | [Wilskracht](https://open.spotify.com/album/0ihGdEZCEF2E6POlulIPlq) | 2:29 |
 | 43 | [PARXS/LONDXN](https://open.spotify.com/track/3CoDcewtoJNZVfr2g0WUJ8) | [B4RKIE](https://open.spotify.com/artist/2MQ6TLWN9FQ5OqnsB9HNXs) | [PARXS/LONDXN](https://open.spotify.com/album/7lXcptTPD1fyXCcg7dR2u6) | 3:01 |
-| 44 | [Baddie Zoals Jij](https://open.spotify.com/track/0x5MSTlha3rWGgZ0NVXEnm) | [Sluwe Ollie](https://open.spotify.com/artist/7zRN086UvocMbINAumZ8kx) | [Baddie Zoals Jij](https://open.spotify.com/album/7LejBE3T5YwUt4RJ3iWsOX) | 2:39 |
+| 44 | [BADDIE ZOALS JIJ](https://open.spotify.com/track/0x5MSTlha3rWGgZ0NVXEnm) | [Sluwe Ollie](https://open.spotify.com/artist/7zRN086UvocMbINAumZ8kx) | [BADDIE ZOALS JIJ](https://open.spotify.com/album/7LejBE3T5YwUt4RJ3iWsOX) | 2:39 |
 | 45 | [act like that](https://open.spotify.com/track/5QCjS1w9NqhB7NXKtN1MLM) | [TJWAVE](https://open.spotify.com/artist/2N42z0vPgDduoGlO4opnmV), [Dammie](https://open.spotify.com/artist/5SMdr117AWhgV6HusRQjjb), [Quina01](https://open.spotify.com/artist/5Eqd3fO4nHEtBHlr6Vf7Yw), [Sinco](https://open.spotify.com/artist/1GEKTsDoAdwpTW21yMTDDD), [FJ](https://open.spotify.com/artist/78tcT7iDWCsXTEt4m4Ko49), [Gini](https://open.spotify.com/artist/68EPalTRpL5bYo2wLqJ8NN) | [act like that](https://open.spotify.com/album/0sXdwh193EpQVBUrEPctmw) | 2:40 |
 | 46 | [Alors On Suil](https://open.spotify.com/track/3HexcpVhvvQdxWGKYWYe9P) | [Suilju](https://open.spotify.com/artist/68UTqb5uLKpStTq7jKW54j) | [Alors On Suil](https://open.spotify.com/album/5xBEg8KgWNjkaFgF0MOLPL) | 1:54 |
 | 47 | [Nooit Genoeg](https://open.spotify.com/track/1jOcblB8UzE0leSU9CDsOr) | [TB](https://open.spotify.com/artist/32dyZVtIJgvvGCLvCKD87s) | [Nooit Genoeg](https://open.spotify.com/album/6q15IcUgdxeYPsboSiOj2C) | 2:59 |

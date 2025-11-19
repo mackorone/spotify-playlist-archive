@@ -1,6 +1,6 @@
 {
   "description": "indie folk latino de estaci\u00f3n. Foto: Diosque y Juliana Gattas",
-  "num_followers": 61486,
+  "num_followers": 61481,
   "original_name": "folk & primavera",
   "owner": {
     "name": "Spotify",
@@ -175,30 +175,6 @@
     {
       "added_at": "2025-10-27 16:45:31",
       "album": {
-        "name": "Me Gustas Tanto (Remix)",
-        "url": "https://open.spotify.com/album/76AkbUyhoc5LgqeroxLXw4"
-      },
-      "artists": [
-        {
-          "name": "un muerto mas",
-          "url": "https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0"
-        },
-        {
-          "name": "Plastilina",
-          "url": "https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9"
-        },
-        {
-          "name": "Polska",
-          "url": "https://open.spotify.com/artist/5RpQqJ8QJKu4vIzAJZQxwk"
-        }
-      ],
-      "duration_ms": 208213,
-      "name": "Me Gustas Tanto - Remix",
-      "url": "https://open.spotify.com/track/6cJfur2fUVukLfgZdDJbAC"
-    },
-    {
-      "added_at": "2025-10-27 16:45:31",
-      "album": {
         "name": "Decir que s\u00ed",
         "url": "https://open.spotify.com/album/52PFaNWnDjXTCuDyMdIFT0"
       },
@@ -211,6 +187,22 @@
       "duration_ms": 138065,
       "name": "Dije que s\u00ed",
       "url": "https://open.spotify.com/track/78rLvvoIpOAcdVPmQJNTnt"
+    },
+    {
+      "added_at": "2025-10-27 16:45:31",
+      "album": {
+        "name": "me hace bien amar(te)",
+        "url": "https://open.spotify.com/album/2HAvhKv3XT3yIifmoPCKp2"
+      },
+      "artists": [
+        {
+          "name": "LAR\u00d3",
+          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
+        }
+      ],
+      "duration_ms": 223142,
+      "name": "me hace bien amar(te)",
+      "url": "https://open.spotify.com/track/6tpri2UVMbpWLpiwvWz4fB"
     },
     {
       "added_at": "2025-10-27 16:45:31",
@@ -235,18 +227,26 @@
     {
       "added_at": "2025-10-27 16:45:31",
       "album": {
-        "name": "me hace bien amar(te)",
-        "url": "https://open.spotify.com/album/2HAvhKv3XT3yIifmoPCKp2"
+        "name": "Me Gustas Tanto (Remix)",
+        "url": "https://open.spotify.com/album/76AkbUyhoc5LgqeroxLXw4"
       },
       "artists": [
         {
-          "name": "LAR\u00d3",
-          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
+          "name": "un muerto mas",
+          "url": "https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0"
+        },
+        {
+          "name": "Plastilina",
+          "url": "https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9"
+        },
+        {
+          "name": "Polska",
+          "url": "https://open.spotify.com/artist/5RpQqJ8QJKu4vIzAJZQxwk"
         }
       ],
-      "duration_ms": 223142,
-      "name": "me hace bien amar(te)",
-      "url": "https://open.spotify.com/track/6tpri2UVMbpWLpiwvWz4fB"
+      "duration_ms": 208213,
+      "name": "Me Gustas Tanto - Remix",
+      "url": "https://open.spotify.com/track/6cJfur2fUVukLfgZdDJbAC"
     },
     {
       "added_at": "2025-10-27 16:45:31",
@@ -371,22 +371,6 @@
     {
       "added_at": "2025-10-27 16:45:31",
       "album": {
-        "name": "Matilda",
-        "url": "https://open.spotify.com/album/3U9I5ENgoFkz9OonQXWRNY"
-      },
-      "artists": [
-        {
-          "name": "Vipisita",
-          "url": "https://open.spotify.com/artist/1UQEx36I7kssobWTSDpw32"
-        }
-      ],
-      "duration_ms": 160696,
-      "name": "Matilda",
-      "url": "https://open.spotify.com/track/6jfpm3cW2zS24LKrXS4leV"
-    },
-    {
-      "added_at": "2025-10-27 16:45:31",
-      "album": {
         "name": "Fantasma",
         "url": "https://open.spotify.com/album/6yxNIY4vpe4N6Ovgydn0ug"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 228297,
       "name": "Fantasma",
       "url": "https://open.spotify.com/track/5ky2inW5srGBriAAYjvCiY"
+    },
+    {
+      "added_at": "2025-10-27 16:45:31",
+      "album": {
+        "name": "Matilda",
+        "url": "https://open.spotify.com/album/3U9I5ENgoFkz9OonQXWRNY"
+      },
+      "artists": [
+        {
+          "name": "Vipisita",
+          "url": "https://open.spotify.com/artist/1UQEx36I7kssobWTSDpw32"
+        }
+      ],
+      "duration_ms": 160696,
+      "name": "Matilda",
+      "url": "https://open.spotify.com/track/6jfpm3cW2zS24LKrXS4leV"
     },
     {
       "added_at": "2025-10-27 16:45:31",
@@ -451,6 +451,22 @@
     {
       "added_at": "2025-10-27 16:45:31",
       "album": {
+        "name": "sin dormir",
+        "url": "https://open.spotify.com/album/2SYQZ048xVo5QFVddwryM8"
+      },
+      "artists": [
+        {
+          "name": "Carolina Donati",
+          "url": "https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT"
+        }
+      ],
+      "duration_ms": 180750,
+      "name": "sin dormir",
+      "url": "https://open.spotify.com/track/59UvXZfr6mHrJBRAuUE9sw"
+    },
+    {
+      "added_at": "2025-10-27 16:45:31",
+      "album": {
         "name": "Madre",
         "url": "https://open.spotify.com/album/3tCum4uYwoeZQKS6MF5Huj"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 187088,
       "name": "Madre",
       "url": "https://open.spotify.com/track/3aC7Zr43bVLQU9s2d12enq"
-    },
-    {
-      "added_at": "2025-10-27 16:45:31",
-      "album": {
-        "name": "sin dormir",
-        "url": "https://open.spotify.com/album/2SYQZ048xVo5QFVddwryM8"
-      },
-      "artists": [
-        {
-          "name": "Carolina Donati",
-          "url": "https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT"
-        }
-      ],
-      "duration_ms": 180750,
-      "name": "sin dormir",
-      "url": "https://open.spotify.com/track/59UvXZfr6mHrJBRAuUE9sw"
     },
     {
       "added_at": "2025-10-27 16:45:31",
@@ -607,22 +607,6 @@
     {
       "added_at": "2025-10-27 16:45:31",
       "album": {
-        "name": "La flor",
-        "url": "https://open.spotify.com/album/7AhQPybEfm0TDETnoYNHSY"
-      },
-      "artists": [
-        {
-          "name": "Minco",
-          "url": "https://open.spotify.com/artist/1bh3W2nSMpGnc7jApTUcH0"
-        }
-      ],
-      "duration_ms": 177005,
-      "name": "La flor",
-      "url": "https://open.spotify.com/track/3NVKTfHRh54yr5bGcCt5Z1"
-    },
-    {
-      "added_at": "2025-10-27 16:45:31",
-      "album": {
         "name": "Track",
         "url": "https://open.spotify.com/album/513Rz0NbAVxMULy2dieJWL"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 204241,
       "name": "Track Track",
       "url": "https://open.spotify.com/track/3iYRLqDPD52FsVEKPE5Ro8"
+    },
+    {
+      "added_at": "2025-10-27 16:45:31",
+      "album": {
+        "name": "La flor",
+        "url": "https://open.spotify.com/album/7AhQPybEfm0TDETnoYNHSY"
+      },
+      "artists": [
+        {
+          "name": "Minco",
+          "url": "https://open.spotify.com/artist/1bh3W2nSMpGnc7jApTUcH0"
+        }
+      ],
+      "duration_ms": 177005,
+      "name": "La flor",
+      "url": "https://open.spotify.com/track/3NVKTfHRh54yr5bGcCt5Z1"
     },
     {
       "added_at": "2025-10-27 16:45:31",
@@ -891,22 +891,6 @@
     {
       "added_at": "2025-10-27 16:45:31",
       "album": {
-        "name": "Volar",
-        "url": "https://open.spotify.com/album/1JdAQSX4XwFsgpaqXit3ly"
-      },
-      "artists": [
-        {
-          "name": "Yorka",
-          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
-        }
-      ],
-      "duration_ms": 199946,
-      "name": "Volar",
-      "url": "https://open.spotify.com/track/3qu7fBSjryb5kRTUAX4koC"
-    },
-    {
-      "added_at": "2025-10-27 16:45:31",
-      "album": {
         "name": "Ganas de Dejarte",
         "url": "https://open.spotify.com/album/3iikqJogxGgONOMVfzI5za"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 224000,
       "name": "Calor",
       "url": "https://open.spotify.com/track/3VJGRgrWKdT5UeFduHxzq6"
+    },
+    {
+      "added_at": "2025-10-27 16:45:31",
+      "album": {
+        "name": "Volar",
+        "url": "https://open.spotify.com/album/1JdAQSX4XwFsgpaqXit3ly"
+      },
+      "artists": [
+        {
+          "name": "Yorka",
+          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
+        }
+      ],
+      "duration_ms": 199946,
+      "name": "Volar",
+      "url": "https://open.spotify.com/track/3qu7fBSjryb5kRTUAX4koC"
     },
     {
       "added_at": "2025-10-27 16:45:31",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2025-10-27 16:45:31",
       "album": {
-        "name": "Locomotora",
-        "url": "https://open.spotify.com/album/5EGcEvMUKQS4cnJFhlYvvf"
-      },
-      "artists": [
-        {
-          "name": "La Gente del Bien",
-          "url": "https://open.spotify.com/artist/0M7YLSxwvd6kNKHbH8eQUw"
-        }
-      ],
-      "duration_ms": 185296,
-      "name": "Que Placer",
-      "url": "https://open.spotify.com/track/2SS9GnNMqb1ciYOSWLXNAL"
-    },
-    {
-      "added_at": "2025-10-27 16:45:31",
-      "album": {
         "name": "2:42",
         "url": "https://open.spotify.com/album/0IeereaucGl6PwFZ3CCh4O"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 171388,
       "name": "2:42",
       "url": "https://open.spotify.com/track/4yzo6HV34l2wGug7W90BPZ"
+    },
+    {
+      "added_at": "2025-10-27 16:45:31",
+      "album": {
+        "name": "Locomotora",
+        "url": "https://open.spotify.com/album/5EGcEvMUKQS4cnJFhlYvvf"
+      },
+      "artists": [
+        {
+          "name": "La Gente del Bien",
+          "url": "https://open.spotify.com/artist/0M7YLSxwvd6kNKHbH8eQUw"
+        }
+      ],
+      "duration_ms": 185296,
+      "name": "Que Placer",
+      "url": "https://open.spotify.com/track/2SS9GnNMqb1ciYOSWLXNAL"
     },
     {
       "added_at": "2025-10-27 16:45:31",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2025-10-27 16:45:31",
       "album": {
-        "name": "Ser\u00e9 m\u00eda",
-        "url": "https://open.spotify.com/album/1QGEjpTaJ64tSx3CsQqbkU"
-      },
-      "artists": [
-        {
-          "name": "Kurmi",
-          "url": "https://open.spotify.com/artist/1BF5IPlIOTc6JJWQPuqG3W"
-        }
-      ],
-      "duration_ms": 194611,
-      "name": "Ser\u00e9 m\u00eda",
-      "url": "https://open.spotify.com/track/6ztXazDxjvxifJMWRAGkKn"
-    },
-    {
-      "added_at": "2025-10-27 16:45:31",
-      "album": {
         "name": "Un amor",
         "url": "https://open.spotify.com/album/1MRtSdJSapLRHzJeeuv4kL"
       },
@@ -1179,18 +1163,18 @@
     {
       "added_at": "2025-10-27 16:45:31",
       "album": {
-        "name": "Una Vez M\u00e1s",
-        "url": "https://open.spotify.com/album/5GtNzOeObvCTuob1bxt7e0"
+        "name": "Ser\u00e9 m\u00eda",
+        "url": "https://open.spotify.com/album/1QGEjpTaJ64tSx3CsQqbkU"
       },
       "artists": [
         {
-          "name": "Valdes",
-          "url": "https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc"
+          "name": "Kurmi",
+          "url": "https://open.spotify.com/artist/1BF5IPlIOTc6JJWQPuqG3W"
         }
       ],
-      "duration_ms": 244689,
-      "name": "Otra Vez",
-      "url": "https://open.spotify.com/track/5g2zTEnrgZQa9MInAahB3h"
+      "duration_ms": 194611,
+      "name": "Ser\u00e9 m\u00eda",
+      "url": "https://open.spotify.com/track/6ztXazDxjvxifJMWRAGkKn"
     },
     {
       "added_at": "2025-10-27 16:45:31",
@@ -1211,6 +1195,22 @@
     {
       "added_at": "2025-10-27 16:45:31",
       "album": {
+        "name": "Una Vez M\u00e1s",
+        "url": "https://open.spotify.com/album/5GtNzOeObvCTuob1bxt7e0"
+      },
+      "artists": [
+        {
+          "name": "Valdes",
+          "url": "https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc"
+        }
+      ],
+      "duration_ms": 244689,
+      "name": "Otra Vez",
+      "url": "https://open.spotify.com/track/5g2zTEnrgZQa9MInAahB3h"
+    },
+    {
+      "added_at": "2025-10-27 16:45:31",
+      "album": {
         "name": "Dolor",
         "url": "https://open.spotify.com/album/6zB720K3Qqm1dpiZPJB60h"
       },
@@ -1223,26 +1223,6 @@
       "duration_ms": 168037,
       "name": "Dolor",
       "url": "https://open.spotify.com/track/0chHnBvvMZPlYhu9zng97m"
-    },
-    {
-      "added_at": "2025-10-27 16:45:31",
-      "album": {
-        "name": "Tur Blues",
-        "url": "https://open.spotify.com/album/0FFTFsQQz0E8eldoOpSlxg"
-      },
-      "artists": [
-        {
-          "name": "pau",
-          "url": "https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3"
-        },
-        {
-          "name": "Diego Lorenzini",
-          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
-        }
-      ],
-      "duration_ms": 213112,
-      "name": "Tur Blues",
-      "url": "https://open.spotify.com/track/1uiNMtfqJh6pzOXUsSiWOu"
     },
     {
       "added_at": "2025-10-27 16:45:31",
@@ -1263,6 +1243,26 @@
       "duration_ms": 153320,
       "name": "Y vos dec\u00eds que me gust\u00e1s",
       "url": "https://open.spotify.com/track/39Zdm7as5HOcbIkvIQBqLD"
+    },
+    {
+      "added_at": "2025-10-27 16:45:31",
+      "album": {
+        "name": "Tur Blues",
+        "url": "https://open.spotify.com/album/0FFTFsQQz0E8eldoOpSlxg"
+      },
+      "artists": [
+        {
+          "name": "pau",
+          "url": "https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3"
+        },
+        {
+          "name": "Diego Lorenzini",
+          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
+        }
+      ],
+      "duration_ms": 213112,
+      "name": "Tur Blues",
+      "url": "https://open.spotify.com/track/1uiNMtfqJh6pzOXUsSiWOu"
     },
     {
       "added_at": "2025-10-27 16:45:31",
@@ -1475,46 +1475,6 @@
     {
       "added_at": "2025-10-27 16:45:31",
       "album": {
-        "name": "a\u00fan as\u00ed",
-        "url": "https://open.spotify.com/album/59m9P7LhajZCo37PffWKMr"
-      },
-      "artists": [
-        {
-          "name": "J18",
-          "url": "https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q"
-        },
-        {
-          "name": "imbn",
-          "url": "https://open.spotify.com/artist/4G8NhGa4RLX6Vyw5Cfb09o"
-        }
-      ],
-      "duration_ms": 234527,
-      "name": "a\u00fan as\u00ed",
-      "url": "https://open.spotify.com/track/6xhZTQCPxvPVAhptkjL7x1"
-    },
-    {
-      "added_at": "2025-10-27 16:45:31",
-      "album": {
-        "name": "Azul",
-        "url": "https://open.spotify.com/album/7xmxWuzUa907hkQYL64jJD"
-      },
-      "artists": [
-        {
-          "name": "Luciana Tagliapietra",
-          "url": "https://open.spotify.com/artist/1Q3Ba3dBArHD2RV4SpROOk"
-        },
-        {
-          "name": "Santiago Motorizado",
-          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
-        }
-      ],
-      "duration_ms": 170353,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/7jUG0DPV7K1r0gHBvF6BFz"
-    },
-    {
-      "added_at": "2025-10-27 16:45:31",
-      "album": {
         "name": "Cuando Estemos Solos",
         "url": "https://open.spotify.com/album/2H5mxVSPzZ7gP9Gd26ArdS"
       },
@@ -1543,6 +1503,46 @@
       "duration_ms": 175408,
       "name": "Coraz\u00f3n de Metal",
       "url": "https://open.spotify.com/track/2WfjpO5nlmUHSN0NLQs6IQ"
+    },
+    {
+      "added_at": "2025-10-27 16:45:31",
+      "album": {
+        "name": "Azul",
+        "url": "https://open.spotify.com/album/7xmxWuzUa907hkQYL64jJD"
+      },
+      "artists": [
+        {
+          "name": "Luciana Tagliapietra",
+          "url": "https://open.spotify.com/artist/1Q3Ba3dBArHD2RV4SpROOk"
+        },
+        {
+          "name": "Santiago Motorizado",
+          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
+        }
+      ],
+      "duration_ms": 170353,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/7jUG0DPV7K1r0gHBvF6BFz"
+    },
+    {
+      "added_at": "2025-10-27 16:45:31",
+      "album": {
+        "name": "a\u00fan as\u00ed",
+        "url": "https://open.spotify.com/album/59m9P7LhajZCo37PffWKMr"
+      },
+      "artists": [
+        {
+          "name": "J18",
+          "url": "https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q"
+        },
+        {
+          "name": "imbn",
+          "url": "https://open.spotify.com/artist/4G8NhGa4RLX6Vyw5Cfb09o"
+        }
+      ],
+      "duration_ms": 234527,
+      "name": "a\u00fan as\u00ed",
+      "url": "https://open.spotify.com/track/6xhZTQCPxvPVAhptkjL7x1"
     },
     {
       "added_at": "2025-10-27 16:45:31",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2025-10-27 16:45:31",
       "album": {
-        "name": "Barquinho",
-        "url": "https://open.spotify.com/album/1TIJdi8RR0NynFLZWqKdK0"
-      },
-      "artists": [
-        {
-          "name": "LA LOU",
-          "url": "https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof"
-        }
-      ],
-      "duration_ms": 152750,
-      "name": "Barquinho",
-      "url": "https://open.spotify.com/track/50ToY96BGpEettrv6UeR5u"
-    },
-    {
-      "added_at": "2025-10-27 16:45:31",
-      "album": {
         "name": "De Viaje",
         "url": "https://open.spotify.com/album/3vNCP5XY6ZuYMbqrLj3ChU"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 202956,
       "name": "De Viaje",
       "url": "https://open.spotify.com/track/0YwrqRHtpvlQChhbiYoQI5"
+    },
+    {
+      "added_at": "2025-10-27 16:45:31",
+      "album": {
+        "name": "Barquinho",
+        "url": "https://open.spotify.com/album/1TIJdi8RR0NynFLZWqKdK0"
+      },
+      "artists": [
+        {
+          "name": "LA LOU",
+          "url": "https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof"
+        }
+      ],
+      "duration_ms": 152750,
+      "name": "Barquinho",
+      "url": "https://open.spotify.com/track/50ToY96BGpEettrv6UeR5u"
     },
     {
       "added_at": "2025-10-27 16:45:31",
@@ -1647,18 +1647,18 @@
     {
       "added_at": "2025-10-27 16:45:31",
       "album": {
-        "name": "lo-fi",
-        "url": "https://open.spotify.com/album/2ou8ilCBWA00ZJDgZtdRb8"
+        "name": "Simona a Guitarra y Voz (Lado A)",
+        "url": "https://open.spotify.com/album/3LnuQLn6sRN58vctyqd9NC"
       },
       "artists": [
         {
-          "name": "Martin Oliver",
-          "url": "https://open.spotify.com/artist/3RiVbzQAmviwm6NPFlHYIm"
+          "name": "Mauro Samaniego",
+          "url": "https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L"
         }
       ],
-      "duration_ms": 175392,
-      "name": "lo-fi",
-      "url": "https://open.spotify.com/track/0jsCPolR169poPX99rNtCe"
+      "duration_ms": 247636,
+      "name": "Paredes Finas",
+      "url": "https://open.spotify.com/track/73k8ezRBHx9LSSGufofMbc"
     },
     {
       "added_at": "2025-10-27 16:45:31",
@@ -1683,18 +1683,18 @@
     {
       "added_at": "2025-10-27 16:45:31",
       "album": {
-        "name": "Simona a Guitarra y Voz (Lado A)",
-        "url": "https://open.spotify.com/album/3LnuQLn6sRN58vctyqd9NC"
+        "name": "lo-fi",
+        "url": "https://open.spotify.com/album/2ou8ilCBWA00ZJDgZtdRb8"
       },
       "artists": [
         {
-          "name": "Mauro Samaniego",
-          "url": "https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L"
+          "name": "Martin Oliver",
+          "url": "https://open.spotify.com/artist/3RiVbzQAmviwm6NPFlHYIm"
         }
       ],
-      "duration_ms": 247636,
-      "name": "Paredes Finas",
-      "url": "https://open.spotify.com/track/73k8ezRBHx9LSSGufofMbc"
+      "duration_ms": 175392,
+      "name": "lo-fi",
+      "url": "https://open.spotify.com/track/0jsCPolR169poPX99rNtCe"
     },
     {
       "added_at": "2025-10-27 16:45:31",

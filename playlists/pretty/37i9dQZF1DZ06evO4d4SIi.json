@@ -1,12 +1,12 @@
 {
   "description": "This is Jordan Davis. The essential tracks, all in one playlist.",
-  "num_followers": 52840,
+  "num_followers": 52850,
   "original_name": "This Is Jordan Davis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRkUAAAAAABT89nUUcEB+5ucomN6dD7w",
+  "snapshot_id": "aRplgAAAAAD+81m3ZzuU5/bLCfEdVsAo",
   "tracks": [
     {
       "added_at": null,
@@ -79,8 +79,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Ain't Sayin'",
-        "url": "https://open.spotify.com/album/3U0pFKPURiE6x5gWFhDr8d"
+        "name": "Learn The Hard Way",
+        "url": "https://open.spotify.com/album/134A79bb9B0FH4ZYxyQ3Sp"
       },
       "artists": [
         {
@@ -88,9 +88,9 @@
           "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
         }
       ],
-      "duration_ms": 174060,
+      "duration_ms": 174066,
       "name": "I Ain't Sayin'",
-      "url": "https://open.spotify.com/track/7lCs3stpWCtAn5Y2lmnPhV"
+      "url": "https://open.spotify.com/track/50v47bZxJ7sIhiOn0iJWbL"
     },
     {
       "added_at": null,
@@ -175,22 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Learn The Hard Way",
-        "url": "https://open.spotify.com/album/134A79bb9B0FH4ZYxyQ3Sp"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 179906,
-      "name": "Ain't Enough Road",
-      "url": "https://open.spotify.com/track/0froGQFzaDPiXzxxk0LuOi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jordan Davis",
         "url": "https://open.spotify.com/album/0SwlWLg5DuW837b05V2s0c"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 159997,
       "name": "A Little Lime",
       "url": "https://open.spotify.com/track/3vfBA0Q342toaXalxwPvOo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Learn The Hard Way",
+        "url": "https://open.spotify.com/album/134A79bb9B0FH4ZYxyQ3Sp"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 179906,
+      "name": "Ain't Enough Road",
+      "url": "https://open.spotify.com/track/0froGQFzaDPiXzxxk0LuOi"
     },
     {
       "added_at": null,
@@ -523,26 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Learn The Hard Way",
-        "url": "https://open.spotify.com/album/134A79bb9B0FH4ZYxyQ3Sp"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        },
-        {
-          "name": "Carly Pearce",
-          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
-        }
-      ],
-      "duration_ms": 218506,
-      "name": "Mess With Missing You (with Carly Pearce)",
-      "url": "https://open.spotify.com/track/2eL9xMNYl1R36f7eZavDpg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Detours",
         "url": "https://open.spotify.com/album/4PSZ6uPL4zeQ07hFQSvrXj"
       },
@@ -575,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bluebird Days",
-        "url": "https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 165146,
-      "name": "Whiskey Weak",
-      "url": "https://open.spotify.com/track/40MIJQeZ9nR0qDXq0GlfLE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cool Anymore",
         "url": "https://open.spotify.com/album/4QPR4yoDxGzpSCZaK3lnFL"
       },
@@ -607,6 +571,22 @@
       "duration_ms": 200415,
       "name": "Cool Anymore",
       "url": "https://open.spotify.com/track/4H1ScKTo6abUt8yTXDewct"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bluebird Days",
+        "url": "https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 165146,
+      "name": "Whiskey Weak",
+      "url": "https://open.spotify.com/track/40MIJQeZ9nR0qDXq0GlfLE"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Sounds of birds, rain, and forest ambience.
 
-205 songs - 9 hr 49 min
+206 songs - 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [A Walk in the Country](https://open.spotify.com/track/4XgSBvtZjKvFIAE3r4B49p) | [Nature Sounds](https://open.spotify.com/artist/4NqS7DbPFYwZmniGHCPMpm) | [Forest Sounds of Relaxation](https://open.spotify.com/album/1l30XEyglzmyIh2ex9n6C3) | 3:19 | 2022-03-25 | 2022-04-29 |
 | [Agua De Playa](https://open.spotify.com/track/5h1MJISxaTvTRYP1sMNl6C) | [Olas Glaciares](https://open.spotify.com/artist/0J9Whb1aS7peILZ3faOiMj) | [Agua De Playa](https://open.spotify.com/album/4cw4d0MjRb0WYcsuKcKSIj) | 1:15 | 2022-03-25 | 2022-07-05 |
 | [Amazon Rain](https://open.spotify.com/track/416OmlQ43aOViS4Hum4KRd) | [Oerwoud](https://open.spotify.com/artist/5nQ9HpkiXvRUN30EJpkj29) | [Under the Acacia Tree](https://open.spotify.com/album/2Ga4V14nlEEAkv7rzQbnqM) | 3:28 | 2022-07-04 | 2023-09-21 |
-| [Ambience of Tayrona National Park](https://open.spotify.com/track/11oTjrpsMVRG26SBmu2CeM) | [Nicolas Gutierrez G.](https://open.spotify.com/artist/5blyFWCmmsbLdxQVRARv6x) | [Ambience of Tayrona National Park](https://open.spotify.com/album/68zndYRfCtweSEgZbg5JSf) | 4:00 | 2024-12-03 |  |
+| [Ambience of Tayrona National Park](https://open.spotify.com/track/11oTjrpsMVRG26SBmu2CeM) | [Nicolas Gutierrez G.](https://open.spotify.com/artist/5blyFWCmmsbLdxQVRARv6x) | [Ambience of Tayrona National Park](https://open.spotify.com/album/68zndYRfCtweSEgZbg5JSf) | 4:00 | 2024-12-03 | 2025-11-19 |
 | [Ambient Woods](https://open.spotify.com/track/3UaXmGGrnybMEdNe5rh941) | [Outside HD Samples](https://open.spotify.com/artist/0puqEYQUnviYjUyomzF5rJ) | [Forest Sounds For Relaxation](https://open.spotify.com/album/03M9bEN52lhF5BHCbrml7D) | 2:08 | 2022-03-25 | 2024-03-27 |
 | [Amour D'oiseau](https://open.spotify.com/track/5HUvWmP7XJ6vpzdmMBBZle) | [La Nature](https://open.spotify.com/artist/7AS6fHy7sK2j8EKoL5ygXT) | [Amour D'oiseau](https://open.spotify.com/album/5yDIfRt5KSttJ3tdvPCqDW) | 2:22 | 2022-04-29 |  |
 | [Andorran Forest River](https://open.spotify.com/track/6RybNJHwhOCOWUfih3xIek) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Chill Palm](https://open.spotify.com/artist/5bUGPaWS2tccpbiid4MSNE) | [Streaming Waters](https://open.spotify.com/album/2S1r91o8tF7X2mxaT8DV4A) | 3:21 | 2025-09-23 |  |
@@ -193,6 +193,7 @@
 | [The Millpond VI](https://open.spotify.com/track/5dEqC0Eg2Djg5PJ0Q963y1) | [Elberry](https://open.spotify.com/artist/3HcvBTK8MOcYl9cVEg45vP) | [The Millpond VI](https://open.spotify.com/album/2Uoy8TmdDdzeWv3r9VqOpr) | 2:15 | 2025-07-21 |  |
 | [The Millpond VII](https://open.spotify.com/track/2dNizJkyRarfT8qtOBLsHm) | [Elberry](https://open.spotify.com/artist/3HcvBTK8MOcYl9cVEg45vP) | [The Millpond VII](https://open.spotify.com/album/7rditgWAg73FfmUDMAUmY9) | 2:18 | 2025-07-21 |  |
 | [The Millpond XI](https://open.spotify.com/track/3eeuBEStklq9Kjf7Bknx8K) | [Elberry](https://open.spotify.com/artist/3HcvBTK8MOcYl9cVEg45vP) | [The Millpond XI](https://open.spotify.com/album/26YJnlSqCFh2jdkCql4hMh) | 2:05 | 2025-07-21 |  |
+| [The Millpond XIV](https://open.spotify.com/track/3JgdY13hUUoTmqXHjU3c94) | [Elberry](https://open.spotify.com/artist/3HcvBTK8MOcYl9cVEg45vP) | [The Millpond XIV](https://open.spotify.com/album/6cjBAj1Ei15cMmOPKlzkId) | 2:08 | 2025-11-11 |  |
 | [The Singing Birds](https://open.spotify.com/track/5bT75sYxgRTGyFE9bMdeEI) | [Herbird](https://open.spotify.com/artist/35zC83DS27iISaGLzmXk8S) | [Nectar Rain](https://open.spotify.com/album/3hDnVO9C6LWboK7VP3GnBD) | 2:32 | 2022-03-25 |  |
 | [The Sounds of Nature](https://open.spotify.com/track/3gAE1tbD6F2oNPB2Ae1sal) | [Nature Nerd](https://open.spotify.com/artist/6TH1CGqCrzFrdQFHiYWaaO) | [The Forest Symphony](https://open.spotify.com/album/7cdf3vtNr1DFNvuJ3ZgczE) | 1:49 | 2023-06-20 | 2023-10-12 |
 | [The Wind in the Woods](https://open.spotify.com/track/5L9z8yjjAtFZS9sHubdeAo) | [Experience Nature](https://open.spotify.com/artist/5cyMbzcbIkbyMlkJ4cy1ax) | [The Wind in the Woods](https://open.spotify.com/album/7G4BDFTsFB6Zq8XvhrCwwJ) | 3:50 | 2023-06-20 | 2025-11-12 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Sister Rosetta Tharpe. The essential tracks, all in one playlist.",
-  "num_followers": 24788,
+  "num_followers": 24799,
   "original_name": "This Is Sister Rosetta Tharpe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRkUAAAAAABk55mupLCE8fQ5NA4K3OOU",
+  "snapshot_id": "aRplgAAAAAAEdoAK22RkGoFiDqF2cMDV",
   "tracks": [
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gospel Train (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3OGOZW8wCyD0zj254FZ0Ei"
-      },
-      "artists": [
-        {
-          "name": "Sister Rosetta Tharpe",
-          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
-        }
-      ],
-      "duration_ms": 212181,
-      "name": "How About You",
-      "url": "https://open.spotify.com/track/6ZruOPBw97ZTTPeiNqMQny"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Best Of Sister Rosetta Tharpe",
         "url": "https://open.spotify.com/album/0JxBYG03IPDAcCdNEtQq7x"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 229462,
       "name": "Walking Up The King's Highway",
       "url": "https://open.spotify.com/track/6RRbT45pMJ54g3ewa9nOHP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gospel Train (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3OGOZW8wCyD0zj254FZ0Ei"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "duration_ms": 212181,
+      "name": "How About You",
+      "url": "https://open.spotify.com/track/6ZruOPBw97ZTTPeiNqMQny"
     },
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sister Rosetta Tharpe Vol. 2 1942-1944",
-        "url": "https://open.spotify.com/album/4FkQ3aw8yWpFGEuAcNIM4f"
-      },
-      "artists": [
-        {
-          "name": "Sister Rosetta Tharpe",
-          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
-        }
-      ],
-      "duration_ms": 160731,
-      "name": "Rock Daniel (VD129)",
-      "url": "https://open.spotify.com/track/4AE2k4Ng7W6Yj5tD9xqVo2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Best Of Sister Rosetta Tharpe",
         "url": "https://open.spotify.com/album/0JxBYG03IPDAcCdNEtQq7x"
       },
@@ -759,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sister Rosetta Tharpe Vol. 2 1942-1944",
+        "url": "https://open.spotify.com/album/4FkQ3aw8yWpFGEuAcNIM4f"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "duration_ms": 160731,
+      "name": "Rock Daniel (VD129)",
+      "url": "https://open.spotify.com/track/4AE2k4Ng7W6Yj5tD9xqVo2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Spirituals In Rhythm",
         "url": "https://open.spotify.com/album/0m04XubMVnvu8oKgGSgTT9"
       },
@@ -771,22 +771,6 @@
       "duration_ms": 135302,
       "name": "Blow Ye The Trumpet In Zion",
       "url": "https://open.spotify.com/track/5JsBbXQT8IHxVJDrYcC7Vw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sing Sister Sing",
-        "url": "https://open.spotify.com/album/37eAippKdaKLfGT1Qo91br"
-      },
-      "artists": [
-        {
-          "name": "Sister Rosetta Tharpe",
-          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
-        }
-      ],
-      "duration_ms": 101119,
-      "name": "Travelin' Shoes",
-      "url": "https://open.spotify.com/track/7u0xtYAnMsqrhz4dfhM90m"
     },
     {
       "added_at": null,
@@ -823,6 +807,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sing Sister Sing",
+        "url": "https://open.spotify.com/album/37eAippKdaKLfGT1Qo91br"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "duration_ms": 101119,
+      "name": "Travelin' Shoes",
+      "url": "https://open.spotify.com/track/7u0xtYAnMsqrhz4dfhM90m"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Just a Closer Walk With Thee",
         "url": "https://open.spotify.com/album/2CuZe0vzmqXgu5hqbDWFgu"
       },
@@ -855,22 +855,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blessed Assurance (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0uwIyZoW8IFjkQzdSjllQc"
+        "name": "The Best Of Sister Rosetta Tharpe",
+        "url": "https://open.spotify.com/album/0JxBYG03IPDAcCdNEtQq7x"
       },
       "artists": [
         {
           "name": "Sister Rosetta Tharpe",
           "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
-        },
-        {
-          "name": "The Rosettes",
-          "url": "https://open.spotify.com/artist/41AAQ12p0hQJzH0ze5ANVD"
         }
       ],
-      "duration_ms": 205898,
-      "name": "Amazing Grace",
-      "url": "https://open.spotify.com/track/6l3QpNalr5RJy3QKkCUrzu"
+      "duration_ms": 216341,
+      "name": "Last Mile Of The Way",
+      "url": "https://open.spotify.com/track/2t9x8kje9KrX1JmH8TB2jj"
     }
   ],
   "unique_name": "This Is Sister Rosetta Tharpe",

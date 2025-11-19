@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 
 > Find hope in Him in every note of these songs full of faith!
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,478 likes - 100 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,511 likes - 100 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 | 42 | [Broken & Restored](https://open.spotify.com/track/2k7YZwfEWUEzDnpp0tD9qT) | [People of The Earth](https://open.spotify.com/artist/05fX9C5f0vRtX6WhiaaGL5) | [Broken & Restored](https://open.spotify.com/album/0VTANFGgpI7TbTUs4iQtHu) | 4:47 |
 | 43 | [Be There For You](https://open.spotify.com/track/7AWkRQoTPaqUrZpRvCH748) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Running Home](https://open.spotify.com/album/0x7Hr6i67SAQ4Kd4rclmPB) | 3:48 |
 | 44 | [PEACE](https://open.spotify.com/track/4qHVQTNhEKyCty4Edqn33c) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Peace](https://open.spotify.com/album/76MAve42IxCPmmr6FGkqfQ) | 4:19 |
-| 45 | [Not The End](https://open.spotify.com/track/4UxBbFETMwBIHhXtlAI0Po) | [Edward Rivera](https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv) | [Not The End](https://open.spotify.com/album/1z9cu0bqNqoJ0YHZqzmMM8) | 2:41 |
-| 46 | [Gold \- Live](https://open.spotify.com/track/6Uq3aMPuxk07NAie8SrS8G) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Church Volume One \(Live\)](https://open.spotify.com/album/06wlpmt4p99xMXHibcgoVj) | 8:19 |
+| 45 | [Gold \- Live](https://open.spotify.com/track/6Uq3aMPuxk07NAie8SrS8G) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Church Volume One \(Live\)](https://open.spotify.com/album/06wlpmt4p99xMXHibcgoVj) | 8:19 |
+| 46 | [Not The End](https://open.spotify.com/track/4UxBbFETMwBIHhXtlAI0Po) | [Edward Rivera](https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv) | [Not The End](https://open.spotify.com/album/1z9cu0bqNqoJ0YHZqzmMM8) | 2:41 |
 | 47 | [Where You Are](https://open.spotify.com/track/4IjgGxTQDs9Bf31TGtdxOv) | [Mitch Langley](https://open.spotify.com/artist/3LtLqBXTdKiroUNFlqZLOM), [Jasmine Murray](https://open.spotify.com/artist/3RsGHkHYZW0WkXcEf0CRdR), [Citizen Way](https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4) | [Where You Are](https://open.spotify.com/album/3aOI1EJVtokwfq2tob9xkQ) | 2:27 |
 | 48 | [Just Like Jesus](https://open.spotify.com/track/5n2McD0ceb8erMwb9KmSTx) | [Iveth Luna](https://open.spotify.com/artist/2fiP5LcBybuvRJlE9RW8zv) | [Just Like Jesus](https://open.spotify.com/album/49ZSXWroWWx4MYkIHuLJHG) | 3:54 |
 | 49 | [Hold On](https://open.spotify.com/track/6njtDzvCTECqQQCGjnQcSS) | [7 Hills Worship](https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1), [Kaelob Mecum](https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4) | [Hold On](https://open.spotify.com/album/0r1SPhUGL54zILNycUBKsE) | 3:34 |

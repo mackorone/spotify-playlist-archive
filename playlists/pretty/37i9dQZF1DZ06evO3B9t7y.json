@@ -1,12 +1,12 @@
 {
   "description": "This is Car\u00edn Le\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 1100416,
+  "num_followers": 1100632,
   "original_name": "This Is Car\u00edn Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRkUAAAAAACgWD5cIiao4CoXKya/DnCQ",
+  "snapshot_id": "aRplgAAAAABEGK4nNEV9RSeeb+3wV3sN",
   "tracks": [
     {
       "added_at": null,
@@ -311,8 +311,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Palabra De To's (Seca)",
-        "url": "https://open.spotify.com/album/37R1JCesvIct4jBsS4bW8P"
+        "name": "El Amor De Tu Vida",
+        "url": "https://open.spotify.com/album/5ZgM7Cd76zsjHVZuqESNj9"
       },
       "artists": [
         {
@@ -320,13 +320,13 @@
           "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         },
         {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+          "name": "Tony Melendez",
+          "url": "https://open.spotify.com/artist/2xtVF7p8OnfvOmTExIoknF"
         }
       ],
-      "duration_ms": 189512,
-      "name": "Si T\u00fa Me Vieras",
-      "url": "https://open.spotify.com/track/46964wQT31RrX0XJ6ML62I"
+      "duration_ms": 163223,
+      "name": "El Amor De Tu Vida",
+      "url": "https://open.spotify.com/track/7AWgHNS16hOhmiyPIRRcmC"
     },
     {
       "added_at": null,
@@ -367,8 +367,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Amor De Tu Vida",
-        "url": "https://open.spotify.com/album/5ZgM7Cd76zsjHVZuqESNj9"
+        "name": "Palabra De To's (Seca)",
+        "url": "https://open.spotify.com/album/37R1JCesvIct4jBsS4bW8P"
       },
       "artists": [
         {
@@ -376,13 +376,13 @@
           "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         },
         {
-          "name": "Tony Melendez",
-          "url": "https://open.spotify.com/artist/2xtVF7p8OnfvOmTExIoknF"
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 163223,
-      "name": "El Amor De Tu Vida",
-      "url": "https://open.spotify.com/track/7AWgHNS16hOhmiyPIRRcmC"
+      "duration_ms": 189512,
+      "name": "Si T\u00fa Me Vieras",
+      "url": "https://open.spotify.com/track/46964wQT31RrX0XJ6ML62I"
     },
     {
       "added_at": null,
@@ -407,22 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Malo",
-        "url": "https://open.spotify.com/album/5We7yGwHCRWuy7T5StvTwS"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 155802,
-      "name": "Me la Avente",
-      "url": "https://open.spotify.com/track/3nQ0FbZL6DTcGnu03Jpgzm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Comienzo",
         "url": "https://open.spotify.com/album/6Zk9W9Ab3CnhttW5nBOUnY"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 169418,
       "name": "QUE VUELVAS",
       "url": "https://open.spotify.com/track/44vHtuBiZz2phwEwv1Rabu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Malo",
+        "url": "https://open.spotify.com/album/5We7yGwHCRWuy7T5StvTwS"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 155802,
+      "name": "Me la Avente",
+      "url": "https://open.spotify.com/track/3nQ0FbZL6DTcGnu03Jpgzm"
     },
     {
       "added_at": null,
@@ -475,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "In\u00e9dito",
+        "url": "https://open.spotify.com/album/2OsszrrYft2W0pprUj7jyX"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 197107,
+      "name": "Qu\u00e9 M\u00e1s Puedo Pedir - Bonus Track",
+      "url": "https://open.spotify.com/track/2dtwxFjUGeoMO4Y2Zy9sW2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lost In Translation",
         "url": "https://open.spotify.com/album/31KEwBStOtt70o9CQk59vM"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 196197,
       "name": "Lost In Translation",
       "url": "https://open.spotify.com/track/2DQ4xJf4xm1Ho8yKQkOqgi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In\u00e9dito",
-        "url": "https://open.spotify.com/album/2OsszrrYft2W0pprUj7jyX"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 197107,
-      "name": "Qu\u00e9 M\u00e1s Puedo Pedir - Bonus Track",
-      "url": "https://open.spotify.com/track/2dtwxFjUGeoMO4Y2Zy9sW2"
     },
     {
       "added_at": null,
@@ -687,6 +687,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mutuo",
+        "url": "https://open.spotify.com/album/5h4frelJxmc9kN32dcH5Ib"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 177888,
+      "name": "Mutuo",
+      "url": "https://open.spotify.com/track/1t5mXc2275dAEBiX6gLyfv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Colmillo De Leche",
         "url": "https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv"
       },
@@ -715,26 +735,6 @@
       "duration_ms": 154420,
       "name": "Secuelas De Amor",
       "url": "https://open.spotify.com/track/3wavwOSbjbDahGOI16fpgG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mutuo",
-        "url": "https://open.spotify.com/album/5h4frelJxmc9kN32dcH5Ib"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 177888,
-      "name": "Mutuo",
-      "url": "https://open.spotify.com/track/1t5mXc2275dAEBiX6gLyfv"
     },
     {
       "added_at": null,

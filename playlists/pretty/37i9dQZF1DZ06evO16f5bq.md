@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO16f5bq.md) - [plain]
 
 > This is MC Cabelinho\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,877 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,867 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO16f5bq.md) - [plain]
 | 29 | [Saudade](https://open.spotify.com/track/3lbkPMBvM2hmgx4nDqLqvb) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Djay W](https://open.spotify.com/artist/5nkzLizeD93QtabjeK4oyl) | [Ainda](https://open.spotify.com/album/2YEX8OaLPGDd1SjhIipLjS) | 3:27 |
 | 30 | [MINHA CURA](https://open.spotify.com/track/3YQvZNmRc2y1hgdvustkce) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj) | [LITTLE LOVE](https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV) | 2:34 |
 | 31 | [Carro Forte](https://open.spotify.com/track/1TL33F4bcT9fZPSqvUbFV5) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Dono das Esquinas](https://open.spotify.com/album/1A0a8bYGqm5tC4vgSnvDmK) | 4:00 |
-| 32 | [ciúme bobo \- bônus track](https://open.spotify.com/track/5kRHcPpwskPBHsKZUMfLwn) | [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [Vinho](https://open.spotify.com/album/2uzAaxLP1X1JVNpN9kJa1h) | 2:52 |
-| 33 | [FUI](https://open.spotify.com/track/0F0bSpQoHvA2UmbbT2VRGL) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Palma](https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [ÊXTASE](https://open.spotify.com/album/0bWyQxzGtZ4QV3H6GF8xhF) | 3:58 |
-| 34 | [GOTHAM](https://open.spotify.com/track/415dld79DDW9drRA3luAqf) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [LITTLE HAIR](https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V) | 2:50 |
+| 32 | [GOTHAM](https://open.spotify.com/track/415dld79DDW9drRA3luAqf) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [LITTLE HAIR](https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V) | 2:50 |
+| 33 | [ciúme bobo \- bônus track](https://open.spotify.com/track/5kRHcPpwskPBHsKZUMfLwn) | [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [Vinho](https://open.spotify.com/album/2uzAaxLP1X1JVNpN9kJa1h) | 2:52 |
+| 34 | [FUI](https://open.spotify.com/track/0F0bSpQoHvA2UmbbT2VRGL) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Palma](https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [ÊXTASE](https://open.spotify.com/album/0bWyQxzGtZ4QV3H6GF8xhF) | 3:58 |
 | 35 | [Vamo Marolar](https://open.spotify.com/track/0cvVetonbe66pOOPMtuSOC) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Palma](https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [IRRASTREÁVEL](https://open.spotify.com/album/02xKTYrVQ1gSN8Lo4w7JmG) | 3:01 |
 | 36 | [CAOS](https://open.spotify.com/track/04XCCgpMnd4QLitSXNBrfI) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [meLLo](https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm), [Honaiser](https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [LITTLE LOVE](https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV) | 2:40 |
 | 37 | [Blindado por Deus](https://open.spotify.com/track/4O1JF5Yngbc9jc7doenL4n) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [Confia: Sonho de Cria \- Trilha Sonora](https://open.spotify.com/album/7hK2s7g8yU1a8ULW4AuVBf) | 3:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO16f5bq.md) - [plain]
 | 49 | [nssmnsb](https://open.spotify.com/track/2JQnJDm11xI1aPDydn5qIN) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5) | [Não Sou Santo Mas Não Sou Bandido](https://open.spotify.com/album/0SLQorSjD7PmKDMcP9H9ml) | 3:07 |
 | 50 | [Anjo](https://open.spotify.com/track/1UQhXpOKXJeNu1HNolwbZy) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Malía](https://open.spotify.com/artist/06Ta0NqRjBW6qubwdyeb9u) | [Confia: Sonho de Cria \- Trilha Sonora](https://open.spotify.com/album/7hK2s7g8yU1a8ULW4AuVBf) | 2:50 |
 
-Snapshot ID: `aRkUAAAAAADZ4n8hV8JHn58WIS91xlKx`
+Snapshot ID: `aRplgAAAAADn/ZEZe2i2zK+TsI+2FFNK`

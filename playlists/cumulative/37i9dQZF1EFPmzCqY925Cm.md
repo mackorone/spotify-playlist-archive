@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0vazKoFv2TDrHUfBarjJ0n">Boy Blue</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-69 songs - 3 hr 0 min
+70 songs - 3 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [THE PART](https://open.spotify.com/track/2RCZZqbvNR5pEORY3p8PY2) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [RABBITHOLE](https://open.spotify.com/album/1gyUNc54TWzgzXtPvOdOYN) | 2:44 | 2025-01-28 |  |
 | [Torture](https://open.spotify.com/track/28K8xAaFrNZHSe1EmCBJNU) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Where Am I?](https://open.spotify.com/album/5HwTjLAj4NbPkdvA0NXYWV) | 2:28 | 2024-01-29 |  |
 | [uh uh \(outside\)](https://open.spotify.com/track/5nT60m44V8pI8fxYW8F5XH) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [uh uh \(outside\)](https://open.spotify.com/album/3ElOgRYBG6fZDjubmlr1ca) | 3:09 | 2025-01-28 |  |
+| [VENUS](https://open.spotify.com/track/4P9gbJX6AGFIzhcuCz2Bay) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [LILITH](https://open.spotify.com/album/1GUCH2r70wXvAMwhugQs1G) | 2:26 | 2025-11-18 |  |
 | [What You Want](https://open.spotify.com/track/7hjXgc6eOXtYDEgCNROUMs) | [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn) | [What You Want](https://open.spotify.com/album/1FmlNS4zMot7O3l0yjT30W) | 2:54 | 2024-01-29 |  |
 | [Where Am I?](https://open.spotify.com/track/5A3NEMVcI9sAp7BSuaEeWU) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Where Am I?](https://open.spotify.com/album/5HwTjLAj4NbPkdvA0NXYWV) | 1:07 | 2024-01-29 |  |
 | [While We Have the Time](https://open.spotify.com/track/3pkojejSd7DVjDXSSKgZdO) | [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn), [Sam Carter](https://open.spotify.com/artist/0x1N3jJbGtzIDIoJcktVCA) | [While We Have the Time](https://open.spotify.com/album/4KNH2Ba1dJTHuDz0YgLf1s) | 4:06 | 2024-01-29 |  |

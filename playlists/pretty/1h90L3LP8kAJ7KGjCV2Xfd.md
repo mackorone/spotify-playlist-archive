@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1h90L3LP8kAJ7KGjCV2Xfd.md) - [plain]
 
 > happy \| vibes \| feel good \| music \| mood boost \| happy hits \| clean pop \| positive vibes \| dopamine \| serotonin \| high vibes \| happy summer \| positive affirmation \| upbeat \| drive \| windows down \| good vibes \| indie \| pop \| rock \| alternative \| feelin' good \| healing \| rise \| smile
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 289,470 likes - 255 songs - 14 hr 23 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 289,450 likes - 255 songs - 14 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,7 +116,7 @@ pretty - [cumulative](/playlists/cumulative/1h90L3LP8kAJ7KGjCV2Xfd.md) - [plain]
 | 106 | [Dreamlover](https://open.spotify.com/track/6HcQZfMrw3KwGyzrKw1Pjy) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Music Box](https://open.spotify.com/album/2NKxb7pk04CuZab5udkGUl) | 3:52 |
 | 107 | [Dandelions](https://open.spotify.com/track/2eAvDnpXP5W0cVtiI0PUxV) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Safe Haven](https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52) | 3:53 |
 | 108 | [Forever in Your Arms](https://open.spotify.com/track/4fytEaLJpb67c6iq1xUG8e) | [AVIGA](https://open.spotify.com/artist/1JZsObLDi3gwXhcjxpvrr5), [BRØWNS](https://open.spotify.com/artist/3R7Y3zN4MT8MQMbyZLDjYx) | [Forever in Your Arms](https://open.spotify.com/album/7hiVweoZuW8LMh8sfH9fHV) | 2:45 |
-| 109 | [Suspicious Minds](https://open.spotify.com/track/1H5IfYyIIAlgDX8zguUzns) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [From Elvis in Memphis](https://open.spotify.com/album/3ekkFrfotMsEAKc5g71GHk) | 4:21 |
+| 109 | [Suspicious Minds](https://open.spotify.com/track/1H5IfYyIIAlgDX8zguUzns) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [From Elvis in Memphis](https://open.spotify.com/album/3ekkFrfotMsEAKc5g71GHk) | 4:23 |
 | 110 | [Classic](https://open.spotify.com/track/2Dz8KeCYs9awlwUJStJlmh) | [MKTO](https://open.spotify.com/artist/2l35CQqtYRh3d8ZIiBep4v) | [MKTO](https://open.spotify.com/album/6hcPm6dCD58O5UI6xv019r) | 2:55 |
 | 111 | [Hug Me](https://open.spotify.com/track/6eVM9lCmIqwGTUOoeH61Lu) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Trey Parker](https://open.spotify.com/artist/0NnoRcD3WkqC9aouHyE8YY) | [Despicable Me 3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6kFJhsN8drSfWwL493qK0c) | 2:20 |
 | 112 | [Full Time Job](https://open.spotify.com/track/4gtkHMuEMhysN6ZitUSRBf) | [We Three](https://open.spotify.com/artist/5oYuKMBiaAc0W8Gt7FVIjb) | [Full Time Job](https://open.spotify.com/album/1SQYguMhUSyRkk6BM2rxJn) | 2:27 |
@@ -204,7 +204,7 @@ pretty - [cumulative](/playlists/cumulative/1h90L3LP8kAJ7KGjCV2Xfd.md) - [plain]
 | 194 | [Mine](https://open.spotify.com/track/1FYbKJI9kRofsRgOVYciic) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [Mine](https://open.spotify.com/album/759xTRwjc0HF1m64zkRm0L) | 3:14 |
 | 195 | [Light It Up](https://open.spotify.com/track/27G2FTLanmvyUmXzT0pecS) | [Moss Kena](https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv), [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE) | [Light It Up](https://open.spotify.com/album/17Ey42YChKT9G4vH9WX52c) | 3:34 |
 | 196 | [eighteen](https://open.spotify.com/track/37ZOqyxz7B7bmIa2sq5odC) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [eighteen](https://open.spotify.com/album/5X37ePjevJgwrKDzk9S3mY) | 3:09 |
-| 197 | [Burning Love](https://open.spotify.com/track/7zMUCLm1TN9o9JlLISztxO) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis \(Fool\)](https://open.spotify.com/album/3gpHiNAmT5oXVxe6ewTGuN) | 2:50 |
+| 197 | [Burning Love](https://open.spotify.com/track/7zMUCLm1TN9o9JlLISztxO) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis \(Fool\)](https://open.spotify.com/album/3gpHiNAmT5oXVxe6ewTGuN) | 2:51 |
 | 198 | [Skyline](https://open.spotify.com/track/1QxIFMs4M8qd5cbJJu80v4) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Skyline](https://open.spotify.com/album/7CrDnyaqZVhO6UupmkQiHe) | 3:02 |
 | 199 | [La Fórmula](https://open.spotify.com/track/5Fh9fyHRnSwKLo4asG6fEX) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [La Fórmula](https://open.spotify.com/album/5BMotNmzFRoGABaWM6YFI2) | 4:27 |
 | 200 | [Meet Your Mama](https://open.spotify.com/track/5YS7OWTpQVhv38cdC1WvFH) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [Meet Your Mama](https://open.spotify.com/album/4aam4kwHC8owvaXnbb5NFY) | 2:58 |

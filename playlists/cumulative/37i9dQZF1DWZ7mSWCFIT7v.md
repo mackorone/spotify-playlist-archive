@@ -4,7 +4,7 @@
 
 > time\-stretching granular synthesis
 
-520 songs - 1 day 17 hr 39 min
+521 songs - 1 day 17 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Cactomuzik](https://open.spotify.com/track/3PPqYHkGBUAEdAuQLsbwex) | [Grosskopof & Amezcua](https://open.spotify.com/artist/3C2S50mhsAz2PknUWUxMlf) | [Quetzalkrautl](https://open.spotify.com/album/5icq9aVdOKj7HQRU71jW6O) | 5:58 | 2021-10-06 | 2025-07-17 |
 | [Calion](https://open.spotify.com/track/0p2mTY5mnZyuWuD9M8O4MT) | [Anna Meredith](https://open.spotify.com/artist/5zDUidkda0GoYHu2vMr3G2) | [FIBS](https://open.spotify.com/album/1s05RP1wmD0p4uGZ7q1xwC) | 5:06 | 2021-10-06 | 2024-02-09 |
 | [Calion](https://open.spotify.com/track/7dPY1pM0h0iDZoJNGHnbRX) | [Anna Meredith](https://open.spotify.com/artist/5zDUidkda0GoYHu2vMr3G2) | [FIBS](https://open.spotify.com/album/1y9d61gXNTgG0rZl7d6IFj) | 5:06 | 2021-10-06 | 2025-07-17 |
+| [Candeleda](https://open.spotify.com/track/0sj3hcs65CXX6YkulAlB8T) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J), [Rob Clouth](https://open.spotify.com/artist/2dVK1PzRYltCwzq7uKgHa6) | [Candeleda](https://open.spotify.com/album/2TEe2Xtsn7rlxRYf3w944E) | 5:09 | 2025-11-18 |  |
 | [Carbonated](https://open.spotify.com/track/5d3qZ4xZv0inQK292Mmnhh) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [Crooks & Lovers](https://open.spotify.com/album/22shOa6UBod9o1HHe0JPmr) | 4:18 | 2021-10-06 | 2025-07-17 |
 | [Care](https://open.spotify.com/track/3HASOs3lkSm8syq43tLaNc) | [ZULI](https://open.spotify.com/artist/5Kur13kkU4pOoNFAE8K0YF) | [Care](https://open.spotify.com/album/1nGG5ILI3DLkW5jKSYGYPK) | 4:57 | 2025-06-20 | 2025-11-04 |
 | [Carry Cash](https://open.spotify.com/track/3LdnCp3hEivIUMKhajPFa8) | [Wylie Cable](https://open.spotify.com/artist/6Na4a1Vc689Z5C9C3Ht8zf) | [Shimmer, then Disappear](https://open.spotify.com/album/2XAcxWxvhSnx0BCYNF8kwX) | 2:50 | 2021-10-06 | 2025-07-17 |
@@ -261,7 +262,7 @@
 | [Lost You in the Fog](https://open.spotify.com/track/40nn7NYGNb5KfLe6Qsok72) | [Auscultation](https://open.spotify.com/artist/5KlOanD5FKL6qWZ8auNVKQ) | [L'étreinte Imaginaire](https://open.spotify.com/album/1E5qllAtZJmSI94vHGMdGn) | 8:53 | 2021-10-06 | 2025-07-17 |
 | [Lotus Light](https://open.spotify.com/track/7E5YAVrt11Xkgl0jhXLgAP) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [No Highs](https://open.spotify.com/album/7nKNz12BoGEYHqJmwUoC4P) | 8:31 | 2023-04-15 | 2025-08-23 |
 | [Love & Aggression](https://open.spotify.com/track/510FIqgsteZpZvY9g0XWtu) | [Hologramme](https://open.spotify.com/artist/6nDNh0saNzpeQBjYxAliwN) | [Love & Aggression](https://open.spotify.com/album/3WnwcRbhmT6jfPLMD7Yg01) | 4:29 | 2025-08-22 | 2025-11-04 |
-| [Loved](https://open.spotify.com/track/6fUo4GlD0FbvXNTylA4o68) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Loved](https://open.spotify.com/album/7z0gdOZRbERZSAq50rassb) | 4:03 | 2024-01-11 |  |
+| [Loved](https://open.spotify.com/track/6fUo4GlD0FbvXNTylA4o68) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Loved](https://open.spotify.com/album/7z0gdOZRbERZSAq50rassb) | 4:03 | 2024-01-11 | 2025-11-19 |
 | [LSI Dreaming](https://open.spotify.com/track/4TQwoeLP4Mj9vHsf6h6zNw) | [Mayurashka](https://open.spotify.com/artist/6gdSugS8T7jCKcMA1B4Zcf) | [LSI Dreaming](https://open.spotify.com/album/0Zy5FDZUHa4cMdM3UmUgYi) | 5:13 | 2025-06-20 | 2025-10-04 |
 | [Lucky Me](https://open.spotify.com/track/0x5xYIRlkAYComANpdnPNB) | [Stimming](https://open.spotify.com/artist/2yPveJtn9DpeN0CgNJHvAQ) | [Lucky Me](https://open.spotify.com/album/1HKIdsPLPNWtZ6TO5xy0AK) | 5:58 | 2025-03-14 | 2025-09-20 |
 | [Lush Nova Elec](https://open.spotify.com/track/1zE3a5bnQp7oItLXIWG6Ap) | [Leila](https://open.spotify.com/artist/77uSxZ20fMeBEI804UuGX8) | [Courtesy of Choice ۲۵..\. asides and besides \(25th anniversary\)](https://open.spotify.com/album/7Ibx5ilXwSbjQl2NB6Yb7K) | 3:09 | 2025-11-14 |  |

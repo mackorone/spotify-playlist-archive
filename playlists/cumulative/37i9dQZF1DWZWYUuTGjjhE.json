@@ -420,24 +420,6 @@
     {
       "album": {
         "name": "If I Can Dream: Elvis Presley with the Royal Philharmonic Orchestra",
-        "url": "https://open.spotify.com/album/3hnTlNIWecT7V0IkxWHeqS"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "date_added": "2020-10-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 198600,
-      "name": "Can't Help Falling In Love",
-      "url": "https://open.spotify.com/track/6sE53f6saWW6AwB5V8Z47U"
-    },
-    {
-      "album": {
-        "name": "If I Can Dream: Elvis Presley with the Royal Philharmonic Orchestra",
         "url": "https://open.spotify.com/album/3BYCjGZjrTkilIY7U25fNt"
       },
       "artists": [
@@ -456,6 +438,28 @@
       "duration_ms": 198600,
       "name": "Can't Help Falling In Love - with The Royal Philharmonic Orchestra",
       "url": "https://open.spotify.com/track/2MRJ3Oqb5yAONPvQyoWnQ9"
+    },
+    {
+      "album": {
+        "name": "If I Can Dream: Elvis Presley with the Royal Philharmonic Orchestra",
+        "url": "https://open.spotify.com/album/3hnTlNIWecT7V0IkxWHeqS"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198600,
+      "name": "Can't Help Falling In Love - with The Royal Philharmonic Orchestra",
+      "url": "https://open.spotify.com/track/6sE53f6saWW6AwB5V8Z47U"
     },
     {
       "album": {

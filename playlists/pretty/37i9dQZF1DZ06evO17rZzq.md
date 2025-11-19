@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17rZzq.md) - [plain]
 
 > This is Kaliii\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,859 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,861 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17rZzq.md) - [plain]
 | 19 | [Bad Bitches \(Remix\) \[feat\. Lola Brooke & Kaliii\]](https://open.spotify.com/track/5uNg131mN22zZzQ9XjRQ5Q) | [BreezyLYN](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Bad Bitches \(Remix\) \[feat\. Lola Brooke & Kaliii\]](https://open.spotify.com/album/4lUP6CjI2ZsClgPCGi6bbW) | 3:10 |
 | 20 | [Champion \(feat\. Tierra Whack, Kaliii & Jimmy Jolliff\)](https://open.spotify.com/track/4eTa1ZOffRhCQtnM2Ag9cB) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Jimmy Jolliff](https://open.spotify.com/artist/7uzmxsPUTv4bfNtrLhr5jk) | [Reasonable Woman](https://open.spotify.com/album/2JYsCq8rOuQXkwv9BtJEa8) | 2:40 |
 | 21 | [do it 4 th€ gram \- r€mix](https://open.spotify.com/track/7MVmS6K6kxRrhJQJ35nfjV) | [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3), [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [blu€s \(d€lux€\)](https://open.spotify.com/album/4cdd2jx9GScUzDETwJ6GEk) | 2:28 |
-| 22 | [SHAKE \- feat\. Kaliii and Stunna Girl](https://open.spotify.com/track/1gYPFlrHvmP8PiuTf0a9n1) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Stunna Girl](https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV) | [SHAKE \(feat\. Kaliii and Stunna Girl\)](https://open.spotify.com/album/5Ht7NVw5YFw4p3P3QqKacv) | 3:11 |
-| 23 | [Red Light Special \(feat\. Kaliii\)](https://open.spotify.com/track/4Y0bW6Dc0XlY77kjuV6KkG) | [TheARTI$t](https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Who I Am](https://open.spotify.com/album/2RcR9tY2ZkKnHVmZh5RIKh) | 2:30 |
+| 22 | [Red Light Special \(feat\. Kaliii\)](https://open.spotify.com/track/4Y0bW6Dc0XlY77kjuV6KkG) | [TheARTI$t](https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Who I Am](https://open.spotify.com/album/2RcR9tY2ZkKnHVmZh5RIKh) | 2:30 |
+| 23 | [SHAKE \- feat\. Kaliii and Stunna Girl](https://open.spotify.com/track/1gYPFlrHvmP8PiuTf0a9n1) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Stunna Girl](https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV) | [SHAKE \(feat\. Kaliii and Stunna Girl\)](https://open.spotify.com/album/5Ht7NVw5YFw4p3P3QqKacv) | 3:11 |
 | 24 | [Track & Field \(feat\. Kaliii\)](https://open.spotify.com/track/2VEqGWCSJaQeQlwToXSB36) | [Enchanting](https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [No Luv](https://open.spotify.com/album/3dWR4DigMGjegp0NPBfAV7) | 2:18 |
 | 25 | [Ms\. Lick Back](https://open.spotify.com/track/1A2e34Eb1mpgWTeV8sTVRy) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Toxic Chocolate](https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh) | 3:08 |
 | 26 | [Can’t Get ‘Em](https://open.spotify.com/track/2aG3cPs5o9QTvVDSs6h1Gw) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [FCK GIRL SZN](https://open.spotify.com/album/6FtK5vQ8zUzVjQqAnJiuOV) | 2:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17rZzq.md) - [plain]
 | 49 | [Good News \(Remix\)](https://open.spotify.com/track/41gY64wTB0TJFl83GHrabM) | [Dono](https://open.spotify.com/artist/5wyWKmk8XPhoJlD6rnw0eG), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Accountable Blues](https://open.spotify.com/album/1drgTeQV0wkw0OFFhQe43b) | 2:24 |
 | 50 | [OOP](https://open.spotify.com/track/3ZZ2kSbVdgOhgoYFqQEsGB) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [OOP](https://open.spotify.com/album/2rUO2lLr9lVGLpmRmYOJBJ) | 2:10 |
 
-Snapshot ID: `aRkUAAAAAADb1qiFIAUF8HcZskMf7Khz`
+Snapshot ID: `aRplgAAAAACQcxbb51A7hm5IvVeua5Lo`

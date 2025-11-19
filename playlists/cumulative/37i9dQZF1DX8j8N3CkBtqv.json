@@ -5066,6 +5066,10 @@
         {
           "name": "Sagar Dhote",
           "url": "https://open.spotify.com/artist/63NTePIe7eeyeT1Sv8TP7a"
+        },
+        {
+          "name": "Megha Rawoot",
+          "url": "https://open.spotify.com/artist/2eR3G6MJ5y5fCwJP15GxGD"
         }
       ],
       "date_added": "2025-11-14",
@@ -5886,6 +5890,24 @@
       "duration_ms": 192281,
       "name": "Dilbar Maanja",
       "url": "https://open.spotify.com/track/2XhIP88BxjhDl0ShpjY4gK"
+    },
+    {
+      "album": {
+        "name": "Dilshad",
+        "url": "https://open.spotify.com/album/1MnJL9weMtsPfxiCr0BXyq"
+      },
+      "artists": [
+        {
+          "name": "The Western Ghats",
+          "url": "https://open.spotify.com/artist/3vX5K7r9Icdjsrlax4FzWv"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Dilshad",
+      "url": "https://open.spotify.com/track/1dNuiofeiGzh32uqPSbjvw"
     },
     {
       "album": {
@@ -22164,7 +22186,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 162666,
       "name": "Tere Ishq Mein",
       "url": "https://open.spotify.com/track/2C9tjgeVMeExRKa3ARMaxq"

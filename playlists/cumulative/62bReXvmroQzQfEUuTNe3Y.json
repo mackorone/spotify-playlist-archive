@@ -9923,6 +9923,32 @@
     },
     {
       "album": {
+        "name": "Weyu",
+        "url": "https://open.spotify.com/album/4FbMW7LEw4yDVgSXBXYvdT"
+      },
+      "artists": [
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "Lenji",
+          "url": "https://open.spotify.com/artist/4NyAVAttRLmlUpV7HpgLfR"
+        },
+        {
+          "name": "Amadi Blue",
+          "url": "https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133365,
+      "name": "Weyu",
+      "url": "https://open.spotify.com/track/0LGUxRAobq2shxKN3xtnMJ"
+    },
+    {
+      "album": {
         "name": "What About Me",
         "url": "https://open.spotify.com/album/26itlv8iMJgvevPRko5Fwb"
       },

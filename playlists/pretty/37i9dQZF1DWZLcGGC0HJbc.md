@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 
 > als het woud een playlist zou zijn
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,851 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,869 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 | 2 | [Rust.](https://open.spotify.com/track/2y6vEKzRcA49gCJEv9DP8N) | [Mon Rovîa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [Rust.](https://open.spotify.com/album/5UFLVvCrvlPw5WAWb6T7XU) | 3:35 |
 | 3 | [Younger Days](https://open.spotify.com/track/17EVNTLaA1unyp48sahMDz) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Bungalow](https://open.spotify.com/album/4XhG9K7809PaC7aGN7nsE6) | 3:31 |
 | 4 | [I'm Not Ready To Go](https://open.spotify.com/track/5zOaXxYlOm67a6lMn1AE8I) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low \(Side B\)](https://open.spotify.com/album/2SRsyHHPOXRwwe56K8LCcZ) | 4:22 |
-| 5 | [Tie you down](https://open.spotify.com/track/0S2c7Zxd1NyUewjQyW187L) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Tie you down](https://open.spotify.com/album/1I791510xrKrTghdNBHfgm) | 2:56 |
-| 6 | [Mind Reader](https://open.spotify.com/track/0k8QlJE37M1euY9L3rsZNE) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Oblivion](https://open.spotify.com/album/3QCJELG1LLOrUDzGnskiIa) | 2:43 |
+| 5 | [Mind Reader](https://open.spotify.com/track/0k8QlJE37M1euY9L3rsZNE) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Oblivion](https://open.spotify.com/album/3QCJELG1LLOrUDzGnskiIa) | 2:43 |
+| 6 | [Tie you down](https://open.spotify.com/track/0S2c7Zxd1NyUewjQyW187L) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Tie you down](https://open.spotify.com/album/1I791510xrKrTghdNBHfgm) | 2:56 |
 | 7 | [Oh Wide World](https://open.spotify.com/track/6B16dc3mOK69pcPY0cDAiv) | [Mon Rovîa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [Oh Wide World](https://open.spotify.com/album/7lAy11wBJhfqMwtURlwGgj) | 2:59 |
 | 8 | [Feeling](https://open.spotify.com/track/5J6TfufAsesi9BPnvlgBl8) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Feeling](https://open.spotify.com/album/15BiKQLRmY8xQIk4arEEsq) | 3:20 |
 | 9 | [AWARDS SEASON](https://open.spotify.com/track/0QOs67pGVjeCdUpzato35p) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE, fABLE](https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T) | 5:16 |
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 | 17 | [Say You'll Stay](https://open.spotify.com/track/4MOVvLoJH0Q9V6hIjarPjP) | [Koa Rae](https://open.spotify.com/artist/5OJ1k0urJj2DSWSVVzMgZw) | [Say You'll Stay](https://open.spotify.com/album/4rI92qYqrV2XfJuocHqA1N) | 2:49 |
 | 18 | [I Miss You](https://open.spotify.com/track/2AAhrVlXSqTUDLGPQDbqCz) | [Douglas Firs](https://open.spotify.com/artist/4bIqgUsS9Vgb5vQOPdaLr4) | [Happy, Pt\. 2](https://open.spotify.com/album/6ZU1LCfGkXbU7Ot0R528yi) | 3:50 |
 | 19 | [More More More](https://open.spotify.com/track/3l8t8MTOomTwvN7I4dc0LZ) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [More More More](https://open.spotify.com/album/2gVSL0UNZknT1leTnK46Pz) | 3:12 |
-| 20 | [Much Ado About Nothing](https://open.spotify.com/track/0nuneId81O8XGxUjSCL316) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Tigers Blood](https://open.spotify.com/album/5O9TGAJ6Opoya7KCBKKQUA) | 3:49 |
-| 21 | [To The Sandals](https://open.spotify.com/track/3bTDnlYinDUIC5giN64TNE) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [To The Sandals](https://open.spotify.com/album/6IoiGncVRksI6Tcw6UXzDw) | 4:08 |
+| 20 | [To The Sandals](https://open.spotify.com/track/3bTDnlYinDUIC5giN64TNE) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [To The Sandals](https://open.spotify.com/album/6IoiGncVRksI6Tcw6UXzDw) | 4:08 |
+| 21 | [Much Ado About Nothing](https://open.spotify.com/track/0nuneId81O8XGxUjSCL316) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Tigers Blood](https://open.spotify.com/album/5O9TGAJ6Opoya7KCBKKQUA) | 3:49 |
 | 22 | [Ferris Wheel](https://open.spotify.com/track/63HPIbP11nHHlcC2gKxLcA) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Ferris Wheel](https://open.spotify.com/album/3PBgZgV4CjAeBSTMvC5rkp) | 3:25 |
 | 23 | [Darling](https://open.spotify.com/track/1OQWeYu8b2QZoS2kGUTkCM) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Darling](https://open.spotify.com/album/0UK2D5JonE1BKF04uxYH4k) | 3:30 |
 | 24 | [Another Year Will Pass](https://open.spotify.com/track/2kK1NHAOsnl4WmRf4Zlv9B) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Another Year Will Pass](https://open.spotify.com/album/5upyUvc97PJ25cRb1vLLDI) | 3:15 |
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 | 26 | [All Night All Day](https://open.spotify.com/track/56PuaVhEQzQ57PnREmTCuI) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [All Night All Day](https://open.spotify.com/album/1Q11CbPzG4porUhAtAD9RN) | 4:48 |
 | 27 | [Crown](https://open.spotify.com/track/7xTplcuSNquTW0mpuikq1E) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Crown](https://open.spotify.com/album/07gjkxd6XpuPOYPjx11iDY) | 2:22 |
 | 28 | [The Surface](https://open.spotify.com/track/4329XA7OGxcJXruj4nirnn) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [The Surface](https://open.spotify.com/album/08x9Txl6jTNKIgfL64iwaG) | 3:55 |
-| 29 | [Watercress](https://open.spotify.com/track/5I7ga76O3qTWF1PZRtAi4Y) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Watercress](https://open.spotify.com/album/73jezCj2wZDwJTZLBpCmZM) | 3:48 |
+| 29 | [Shake Off the Rain](https://open.spotify.com/track/0gVBrNtip58FmG1JlGwATM) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Shake Off the Rain](https://open.spotify.com/album/4zOqdbkSSn2PX7KMwdHxdh) | 4:42 |
 | 30 | [Suzanne](https://open.spotify.com/track/2L93TdW2GMue1H2zlkt30F) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [Songs Of Leonard Cohen](https://open.spotify.com/album/2Aiv0ThDpFa7lqHphR6MN5) | 3:49 |
-| 31 | [Shake Off the Rain](https://open.spotify.com/track/0gVBrNtip58FmG1JlGwATM) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Shake Off the Rain](https://open.spotify.com/album/4zOqdbkSSn2PX7KMwdHxdh) | 4:42 |
+| 31 | [Watercress](https://open.spotify.com/track/5I7ga76O3qTWF1PZRtAi4Y) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Watercress](https://open.spotify.com/album/73jezCj2wZDwJTZLBpCmZM) | 3:48 |
 | 32 | [Underwear](https://open.spotify.com/track/10zG0Yamj5zQoWcRCnQI7Z) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Underwear](https://open.spotify.com/album/2bLVEtFJZFX94OZ2oeUa9Y) | 3:27 |
 | 33 | [Bus Back To Richmond](https://open.spotify.com/track/0uP3nr5ygvojAQftifZ0ga) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Bus Back To Richmond / More Than Friends](https://open.spotify.com/album/7MJlctOJwPCNL39oaag0ce) | 2:54 |
 | 34 | [Owls](https://open.spotify.com/track/2qsGpZXGFovXJid7OukhdB) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [Groundwork Rising](https://open.spotify.com/album/3RiEl4kIcuEczIaYol36wh) | 4:12 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 | 37 | [God Loves Weirdos](https://open.spotify.com/track/2ZrUGV4BYg13r4Q3ilGdt3) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [God Loves Weirdos](https://open.spotify.com/album/0Goshi4S6DLOdTCoPDTsXB) | 3:09 |
 | 38 | [The Soils Ever Changing](https://open.spotify.com/track/7JDySQnkWJuRDmmIPeiqRt) | [Bertie Newman](https://open.spotify.com/artist/5FgAV3f4fiJ8tuztZ5eyWh) | [The Soils Ever Changing](https://open.spotify.com/album/1hG1LegaM7GrrE3Mfu6rG3) | 3:59 |
 | 39 | [Speaking of You](https://open.spotify.com/track/4a4BqvfGcEh2PwRdFVwiMM) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Speaking of You](https://open.spotify.com/album/1VRsxPMJdQ1LgeKhNb5Kv1) | 4:25 |
-| 40 | [Carry You](https://open.spotify.com/track/2nN96CD98ppkuMTG9BeaIZ) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [A Little Light in the Dark](https://open.spotify.com/album/5qkitI5JItbEEx7JSDQzHQ) | 3:22 |
-| 41 | [Abilene](https://open.spotify.com/track/1eXPy9yPydGgJYnM2WkFGy) | [Hunter Metts](https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14) | [Abilene](https://open.spotify.com/album/0qheGwJpGcA3e0vNPxT6nw) | 4:16 |
+| 40 | [Abilene](https://open.spotify.com/track/1eXPy9yPydGgJYnM2WkFGy) | [Hunter Metts](https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14) | [Abilene](https://open.spotify.com/album/0qheGwJpGcA3e0vNPxT6nw) | 4:16 |
+| 41 | [Carry You](https://open.spotify.com/track/2nN96CD98ppkuMTG9BeaIZ) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [A Little Light in the Dark](https://open.spotify.com/album/5qkitI5JItbEEx7JSDQzHQ) | 3:22 |
 | 42 | [Sanctuary](https://open.spotify.com/track/6HEWgg6dWX226zCg5D3442) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH), [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Sanctuary](https://open.spotify.com/album/6i7qwDdRw1MsSQa61qDiWt) | 3:31 |
 | 43 | [Ashes](https://open.spotify.com/track/0uoJUir7zZJCGxwfh9ekKD) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Ashes](https://open.spotify.com/album/62lXmNrNMjNLBO0d7YkJRJ) | 4:42 |
 | 44 | [Into The Night](https://open.spotify.com/track/10dx7ktH1k0r1SsJr7Vutu) | [Loverman](https://open.spotify.com/artist/1jAN8aazFq2Ugm6HTCzjky) | [Lovesongs](https://open.spotify.com/album/55Me24z7uZjij3Dv92WsDi) | 3:17 |

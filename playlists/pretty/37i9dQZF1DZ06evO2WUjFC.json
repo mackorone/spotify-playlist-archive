@@ -1,12 +1,12 @@
 {
   "description": "This is Danny Felix. The essential tracks, all in one playlist.",
-  "num_followers": 1032,
+  "num_followers": 1033,
   "original_name": "This Is Danny Felix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRkUAAAAAAARR6qQ+u04Ef29wzAx0RzI",
+  "snapshot_id": "aRplgAAAAACix2jmk+Ikz0uvYEa46l0o",
   "tracks": [
     {
       "added_at": null,
@@ -447,18 +447,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "EN VIVO DESDE EL VALLE",
-        "url": "https://open.spotify.com/album/3aAkifKjqkWLM7Tw4Ndq4b"
+        "name": "Mariachi Tumbado",
+        "url": "https://open.spotify.com/album/2sbXCLAfQ1cE5DBgyp3idU"
       },
       "artists": [
         {
           "name": "Danny Felix",
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        },
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
         }
       ],
-      "duration_ms": 183530,
-      "name": "COMPA BLADI - En Vivo",
-      "url": "https://open.spotify.com/track/0TihV9VrLmGM8HlG0eXpno"
+      "duration_ms": 174946,
+      "name": "\u00bfCon Qui\u00e9n?",
+      "url": "https://open.spotify.com/track/6XiGIzAJDMML0qV0Ho4bPw"
     },
     {
       "added_at": null,
@@ -495,38 +499,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mariachi Tumbado",
-        "url": "https://open.spotify.com/album/2sbXCLAfQ1cE5DBgyp3idU"
+        "name": "EN VIVO DESDE EL VALLE",
+        "url": "https://open.spotify.com/album/3aAkifKjqkWLM7Tw4Ndq4b"
       },
       "artists": [
         {
           "name": "Danny Felix",
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        },
-        {
-          "name": "Yeison Jimenez",
-          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
         }
       ],
-      "duration_ms": 174946,
-      "name": "\u00bfCon Qui\u00e9n?",
-      "url": "https://open.spotify.com/track/6XiGIzAJDMML0qV0Ho4bPw"
+      "duration_ms": 183530,
+      "name": "COMPA BLADI - En Vivo",
+      "url": "https://open.spotify.com/track/0TihV9VrLmGM8HlG0eXpno"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Y.T.L.S.V.",
-        "url": "https://open.spotify.com/album/3fsZw4FkYbALKGWSsHqOcq"
+        "name": "AMEN",
+        "url": "https://open.spotify.com/album/628Kex6bcmoIkHin6sdBS6"
       },
       "artists": [
+        {
+          "name": "Ovi",
+          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
+        },
+        {
+          "name": "Grupo Codiciado",
+          "url": "https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc"
+        },
         {
           "name": "Danny Felix",
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
         }
       ],
-      "duration_ms": 175586,
-      "name": "LOS CHISMES",
-      "url": "https://open.spotify.com/track/3VgC4wYJBteNN6wmNcssK8"
+      "duration_ms": 231765,
+      "name": "De Cero",
+      "url": "https://open.spotify.com/track/5UCOFCpcZuAqZhB3pwmA6X"
     },
     {
       "added_at": null,
@@ -567,26 +575,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "AMEN",
-        "url": "https://open.spotify.com/album/628Kex6bcmoIkHin6sdBS6"
+        "name": "Y.T.L.S.V.",
+        "url": "https://open.spotify.com/album/3fsZw4FkYbALKGWSsHqOcq"
       },
       "artists": [
-        {
-          "name": "Ovi",
-          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
-        },
-        {
-          "name": "Grupo Codiciado",
-          "url": "https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc"
-        },
         {
           "name": "Danny Felix",
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
         }
       ],
-      "duration_ms": 231765,
-      "name": "De Cero",
-      "url": "https://open.spotify.com/track/5UCOFCpcZuAqZhB3pwmA6X"
+      "duration_ms": 175586,
+      "name": "LOS CHISMES",
+      "url": "https://open.spotify.com/track/3VgC4wYJBteNN6wmNcssK8"
     },
     {
       "added_at": null,
@@ -807,6 +807,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "EN VIVO DESDE EL VALLE",
+        "url": "https://open.spotify.com/album/3aAkifKjqkWLM7Tw4Ndq4b"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        },
+        {
+          "name": "Evelyn Ozuna",
+          "url": "https://open.spotify.com/artist/3WOxDYEXZgUkddUFOeztYr"
+        }
+      ],
+      "duration_ms": 258081,
+      "name": "QUIERO SABER DE TI - En Vivo",
+      "url": "https://open.spotify.com/track/5vWV0zWKlv1ugGn93MOTnH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mi Ranchito (En Vivo)",
         "url": "https://open.spotify.com/album/1CCEw0IApi1xVQ43G6ufvf"
       },
@@ -851,26 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EN VIVO DESDE EL VALLE",
-        "url": "https://open.spotify.com/album/3aAkifKjqkWLM7Tw4Ndq4b"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        },
-        {
-          "name": "Evelyn Ozuna",
-          "url": "https://open.spotify.com/artist/3WOxDYEXZgUkddUFOeztYr"
-        }
-      ],
-      "duration_ms": 258081,
-      "name": "QUIERO SABER DE TI - En Vivo",
-      "url": "https://open.spotify.com/track/5vWV0zWKlv1ugGn93MOTnH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live, Rancho Style",
         "url": "https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA"
       },
@@ -883,6 +883,26 @@
       "duration_ms": 226943,
       "name": "Anillo Grabado (Live)",
       "url": "https://open.spotify.com/track/7B8A9CscEBKyJJ4wbhkEbT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EN VIVO DESDE EL VALLE",
+        "url": "https://open.spotify.com/album/3aAkifKjqkWLM7Tw4Ndq4b"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        },
+        {
+          "name": "Gente Del Rancho",
+          "url": "https://open.spotify.com/artist/6BbZzab6fVZzep3FvLjLUt"
+        }
+      ],
+      "duration_ms": 203221,
+      "name": "LOS PLEBES ATREVIDOS - En Vivo",
+      "url": "https://open.spotify.com/track/4bwHmvfQC2Vs6uhze1h1yM"
     },
     {
       "added_at": null,
@@ -931,26 +951,6 @@
       "duration_ms": 172319,
       "name": "LVR",
       "url": "https://open.spotify.com/track/5KNvCKJdtfXI3Ldagd2g6c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "EN VIVO DESDE EL VALLE",
-        "url": "https://open.spotify.com/album/3aAkifKjqkWLM7Tw4Ndq4b"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        },
-        {
-          "name": "Gente Del Rancho",
-          "url": "https://open.spotify.com/artist/6BbZzab6fVZzep3FvLjLUt"
-        }
-      ],
-      "duration_ms": 203221,
-      "name": "LOS PLEBES ATREVIDOS - En Vivo",
-      "url": "https://open.spotify.com/track/4bwHmvfQC2Vs6uhze1h1yM"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > A mega Anime hits mix! Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-820 songs - 2 day 5 hr 2 min
+821 songs - 2 day 5 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,7 +293,7 @@
 | [PINK BLOOD](https://open.spotify.com/track/39lq5gU4lPc0rYVaRo0stH) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [PINK BLOOD](https://open.spotify.com/album/4eQs3mcSejRAVTWmaYXNYl) | 3:17 | 2022-06-03 | 2022-07-26 |
 | [Plastic Smile](https://open.spotify.com/track/3y7FUgB8mwJSo37YmDouYq) | [Kaori Ishihara](https://open.spotify.com/artist/0iozpQbR93p8mOSDrevajw) | [Plastic Smile](https://open.spotify.com/album/6EKzeS69OIX5zvT57wWkrd) | 4:21 | 2022-06-03 | 2022-07-21 |
 | [Plazma](https://open.spotify.com/track/1KLg01cjnRsENoFhJWUTSd) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [Plazma](https://open.spotify.com/album/3fEm98bR4ojbm2GBqzhTGp) | 3:00 | 2025-07-14 |  |
-| [PUNKS](https://open.spotify.com/track/3KCvdwzkUI1iyLWfhWws0o) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [PUNKS](https://open.spotify.com/album/2WdU0ESaT3y6lhdtW2KXrh) | 3:55 | 2025-10-21 |  |
+| [PUNKS](https://open.spotify.com/track/3KCvdwzkUI1iyLWfhWws0o) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [PUNKS](https://open.spotify.com/album/2WdU0ESaT3y6lhdtW2KXrh) | 3:55 | 2025-10-21 | 2025-11-19 |
 | [PUPPET'S](https://open.spotify.com/track/0miO0TfAYiIJVaL7Fj7Uao) | [TOKYO MONSTERS](https://open.spotify.com/artist/6OyL8IIcy7b1W20SkMpvNQ) | [PUPPET'S](https://open.spotify.com/album/2NwZuLUH5M1AGC1pJmMux3) | 3:30 | 2022-06-21 | 2022-07-20 |
 | [Q?](https://open.spotify.com/track/02l4CnXJXM2KE8IN99whsX) | [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) | [Q?](https://open.spotify.com/album/4eInzp36x0Vjaif6ic8rDf) | 3:15 | 2022-06-03 | 2022-07-24 |
 | [QUEEN](https://open.spotify.com/track/0ifl6VeDZkAhEQtC1J1QBk) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [QUEEN](https://open.spotify.com/album/44LudOcruib8E2QoacG6I8) | 3:07 | 2025-01-14 | 2025-07-14 |
@@ -410,7 +410,7 @@
 | [unravel](https://open.spotify.com/track/5orAKrVdrk1kPtTa7zNvYL) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [Fantastic Magic](https://open.spotify.com/album/7GJspOwIWdFfzJfxN8oVTF) | 3:58 | 2022-06-14 | 2022-07-16 |
 | [unravel \(n\-buna from ヨルシカ Remix\) \- Exhibition edit](https://open.spotify.com/track/5gEEcgxnyagVvAZlQ43dfn) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS), [n\-buna](https://open.spotify.com/artist/01aGTLJAOJhZOWwMrZcoQk) | [unravel \(n\-buna from ヨルシカ Remix\) \- Exhibition edit](https://open.spotify.com/album/3IMpUt3E18n261kF9Kpejg) | 3:25 | 2022-06-03 | 2022-07-29 |
 | [Unti\-L](https://open.spotify.com/track/0Ipq8yJTVZgmDtjSrJvpga) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [R∃/MEMBER](https://open.spotify.com/album/77GtJJcdtbg254QMEvQfNr) | 4:03 | 2022-06-03 | 2022-07-02 |
-| [veil](https://open.spotify.com/track/1dGF5ymTyBB2ZmOypkeU1F) | [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [porte](https://open.spotify.com/album/2vV8klrByPkSnocfIlaOMI) | 3:29 | 2022-06-03 | 2025-10-22 |
+| [veil](https://open.spotify.com/track/1dGF5ymTyBB2ZmOypkeU1F) | [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [porte](https://open.spotify.com/album/2vV8klrByPkSnocfIlaOMI) | 3:29 | 2022-06-03 |  |
 | [Vengeance](https://open.spotify.com/track/1Jz6GFrsgtyVwQtIUiHYMw) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Vengeance](https://open.spotify.com/album/2zlZb3IpmrLwSUT0NLdoXU) | 3:58 | 2024-07-02 | 2024-10-02 |
 | [Venus Line](https://open.spotify.com/track/5OPIulr7qagiGtCthBkqxr) | [Kohmi Hirose](https://open.spotify.com/artist/0jMZY406RfgjK6PFKIRfAv) | [Venus Line](https://open.spotify.com/album/1mJo7rsbEzsFGIeVzuume4) | 4:37 | 2022-07-07 | 2022-07-10 |
 | [Viewtiful Days!](https://open.spotify.com/track/5A6Kb2VW9EHfYUFleCxQLf) | [和氣あず未](https://open.spotify.com/artist/3xmpisx9RrqCxxnkzD3dYK) | [Viewtiful Days!](https://open.spotify.com/album/2XdpeZdn9mdD7UNMmdiUNV) | 4:04 | 2022-06-21 | 2022-07-20 |
@@ -679,6 +679,7 @@
 | [恋ノ行方](https://open.spotify.com/track/1ognDP1UWqfcPaOvlzTCXx) | [あかせあかり](https://open.spotify.com/artist/50k6hfXdVJ3uD8fUt7PQvL) | [恋ノ行方](https://open.spotify.com/album/5PobZ27bNVPebdG5sRvnQF) | 3:37 | 2022-06-03 | 2022-07-29 |
 | [恋愛サーキュレーション](https://open.spotify.com/track/5P8lyudWE7HQxb4ludLbEm) | [物語シリーズ](https://open.spotify.com/artist/0NT8fqhPoKJrd038u1Qumz) | [Utamonogatari Special Edition \(Original Soundtrack\)](https://open.spotify.com/album/0Wibr4Xn7la0V69fnnujJw) | 4:15 | 2022-07-28 |  |
 | [息を吸う ここで吸う 生きてく](https://open.spotify.com/track/4IuiAmZd248MLAntebZFKo) | [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [息を吸う ここで吸う 生きてく](https://open.spotify.com/album/0a2TRcs3q6ovWkJjEVOwjL) | 3:11 | 2022-06-03 | 2022-07-29 |
+| [愛♡スクリ～ム！](https://open.spotify.com/track/2BBIUV8wIBbqc7HXObzdgH) | [AiScReam](https://open.spotify.com/artist/5cW1SVDUXXzsj3eFT7Gmta) | [愛♡スクリ～ム！](https://open.spotify.com/album/1l4SKYcXWUhCQ1jiasP9XZ) | 4:22 | 2025-11-18 |  |
 | [愛は薬](https://open.spotify.com/track/1rf80hAVw6y8rVc1HsOpuv) | [wacci](https://open.spotify.com/artist/7jCHrVGjeHUYP2pHv8FOJ3) | [愛は薬](https://open.spotify.com/album/2wfdLp7pe92E16ZwBHdFpP) | 4:24 | 2024-04-10 | 2024-06-17 |
 | [扉を開けたら \- 成瀬直子 ver.](https://open.spotify.com/track/5EorqErJrWgLz0lNDWvIyW) | [成瀬直子 \(CV: 若井友希\)](https://open.spotify.com/artist/0MPFS4TrT8Klf3JbpPp4BQ) | [扉を開けたら \(成瀬直子 ver.\)](https://open.spotify.com/album/7INU7XMc3bXgXUfHFGCooB) | 3:57 | 2022-06-24 | 2022-06-28 |
 | [打上花火](https://open.spotify.com/track/7pcTLUekZJQnzDOUDuExVJ) | [Daoko](https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC), [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [打上花火](https://open.spotify.com/album/1zIM9xHEOKU0rDCH6nIXQS) | 4:49 | 2022-07-28 |  |
@@ -816,7 +817,7 @@
 | [青のすみか](https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [青のすみか](https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS) | 3:16 | 2024-01-19 |  |
 | [青のすみか \(Acoustic ver.\)](https://open.spotify.com/track/2vB0EKXrPcYIshTXZFtQVP) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [青のすみか \(Acoustic ver.\)](https://open.spotify.com/album/1KUQXjdwhIHQGiV40UkILg) | 3:23 | 2025-07-14 |  |
 | [青春コンプレックス](https://open.spotify.com/track/0jpP8AlQLVtaMwA3vQYpYB) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [青春コンプレックス](https://open.spotify.com/album/3yiMrbhmz7rqjTW3AgmG9W) | 3:25 | 2023-02-02 | 2025-05-04 |
-| [青春永遠](https://open.spotify.com/track/1aO9Nxg1ImfpEs70YLAiuT) | [Shonan No Kaze](https://open.spotify.com/artist/70x6gPIjIhWtxjczooKl3p), [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [青春永遠](https://open.spotify.com/album/4klpOxb4XO8sEHQ7Ngv1gF) | 4:25 | 2025-11-11 |  |
+| [青春永遠](https://open.spotify.com/track/1aO9Nxg1ImfpEs70YLAiuT) | [Shonan No Kaze](https://open.spotify.com/artist/70x6gPIjIhWtxjczooKl3p), [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [青春永遠](https://open.spotify.com/album/4klpOxb4XO8sEHQ7Ngv1gF) | 4:25 | 2025-11-11 | 2025-11-19 |
 | [青春謳歌 \(feat.ano\)](https://open.spotify.com/track/5N6DFXriMN64kM62mpk9uc) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z), [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [青春謳歌 \(feat.ano\)](https://open.spotify.com/album/4szJowsqkuvKbBwZG9rYQG) | 3:47 | 2024-07-01 | 2024-07-16 |
 | [頑張っている君だから](https://open.spotify.com/track/1mRNjvJAijIBaKOhUUqSy8) | [伊藤美来](https://open.spotify.com/artist/4IcWgtz5hpMVQ8ZFEXUSAD), [Yu Serizawa](https://open.spotify.com/artist/0TskwVXV9CO11Gjaf8mUuP), [和氣あず未](https://open.spotify.com/artist/3xmpisx9RrqCxxnkzD3dYK), [内村史子](https://open.spotify.com/artist/0AvJfmoAGItgNqzqyJbrrE) | [頑張っている君だから](https://open.spotify.com/album/5JASlLK3A1mNfLbHH10Nh8) | 4:37 | 2022-06-24 | 2022-06-28 |
 | [風、花](https://open.spotify.com/track/2LyD72XzzJMSKqGrddyVr4) | [Hitorie](https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0) | [風、花](https://open.spotify.com/album/0uZBgvAuuoejT0ZcCzFXaj) | 3:16 | 2022-07-14 | 2022-07-25 |

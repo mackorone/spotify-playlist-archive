@@ -4,7 +4,7 @@
 
 > This is Santa Fe Klan\. The essential tracks, all in one playlist.
 
-111 songs - 6 hr 37 min
+112 songs - 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [DUEÑOS DE LA ESQUINA](https://open.spotify.com/track/2iZvRRmnt4RIIIhkh0DQY8) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [BLANCO Y NEGRO](https://open.spotify.com/album/1NNL0Nr5Z9g3XksrNvWRtT) | 3:29 | 2024-11-01 | 2025-03-01 |
 | [El Catrín \(feat\. Santa Fe Klan\)](https://open.spotify.com/track/1N9fhsSQ5uiiFJWiEPpK6R) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [El Vicio y la Fama](https://open.spotify.com/album/1jY2gqdDwbRbtwIIwmcxqI) | 3:49 | 2023-11-10 |  |
 | [El Ángel Que Te Cuida](https://open.spotify.com/track/2Biy7WyvcK7PWHtv6H23Ms) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [El Ángel Que Te Cuida](https://open.spotify.com/album/6ECJOBHCepwHMuziMDq202) | 2:45 | 2023-12-16 | 2024-03-28 |
+| [ESCÁPATE](https://open.spotify.com/track/3GZOE8uZZXXdo0uK56NTSG) | [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [VIVIR PA' QUEDARSE](https://open.spotify.com/album/7KyQI0HwUtbq5tmH6yMaHt) | 3:00 | 2025-11-19 |  |
 | [Está Caliente](https://open.spotify.com/track/40q3AqR9WiKOTlA79Iyv9h) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Necesidad](https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6) | 3:47 | 2023-11-10 |  |
 | [Familia](https://open.spotify.com/track/7nlwjDDc7jNvb9sy8EcQCE) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Bendecido](https://open.spotify.com/album/5t6smstXej1mG4yeh2Rgn0) | 3:20 | 2024-03-11 | 2024-07-13 |
 | [Fotos y Recuerdos](https://open.spotify.com/track/1kW9YAt1Tl5xp1fZZZQ4KL) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Fotos y Recuerdos](https://open.spotify.com/album/70d43jUvjO0nwHpv5jy9Qo) | 3:18 | 2024-10-25 | 2025-07-27 |
@@ -77,7 +78,7 @@
 | [No Me Dijeron](https://open.spotify.com/track/3Sp9XAakWhDeJahZmdbj8J) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [No Me Dijeron](https://open.spotify.com/album/3fvve2qtWst6nxb0Mgc4fb) | 3:07 | 2024-12-24 | 2025-02-04 |
 | [No Seré Quién Canta](https://open.spotify.com/track/2jw4qfV4ub019PiCre7ZvS) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [No Seré Quién Canta](https://open.spotify.com/album/4JANnrrOzgDNKfpQeTjQ2v) | 4:10 | 2025-11-09 |  |
 | [NO SON KLLE](https://open.spotify.com/track/4dUES55SAFKZp4ekMlLHWZ) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [NO SON KLLE](https://open.spotify.com/album/3manJutsZhzlnZe2xMWp7y) | 3:43 | 2024-02-24 |  |
-| [No Te Metas](https://open.spotify.com/track/341IhTrfJQujky7ovX3hlV) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD) | [No Te Metas](https://open.spotify.com/album/5MHhCvivczCfxuhItlYgbS) | 3:39 | 2023-11-10 |  |
+| [No Te Metas](https://open.spotify.com/track/341IhTrfJQujky7ovX3hlV) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD) | [No Te Metas](https://open.spotify.com/album/5MHhCvivczCfxuhItlYgbS) | 3:39 | 2023-11-10 | 2025-11-19 |
 | [Nunca Imaginé](https://open.spotify.com/track/3SERRzMQ0DL3aImY2smoe9) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Nunca Imaginé](https://open.spotify.com/album/352sRI2EeX9EyIiVUgPqRf) | 2:48 | 2023-11-10 | 2025-08-09 |
 | [Ojos Tumbados](https://open.spotify.com/track/7uYFOLEhhmojSLTyVZ8r4O) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx) | [Ojos Tumbados](https://open.spotify.com/album/5bVfYgtEBKQDayvcxkyYq9) | 4:22 | 2023-11-10 |  |
 | [PA QUE CONMIGO](https://open.spotify.com/track/6EQ2lpYqcWp0lpbgLmQGFS) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [PA QUE CONMIGO](https://open.spotify.com/album/5DMDB1y2gSxBWyXGPn38vy) | 2:56 | 2024-03-09 | 2024-06-09 |

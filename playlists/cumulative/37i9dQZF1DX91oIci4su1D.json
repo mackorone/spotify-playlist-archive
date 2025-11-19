@@ -1956,7 +1956,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 211862,
       "name": "Away",
       "url": "https://open.spotify.com/track/19ofHnEgE8dIOaCthpoo84"
@@ -4364,6 +4364,24 @@
       "duration_ms": 209142,
       "name": "COLLIDE",
       "url": "https://open.spotify.com/track/1M7h0DxRLM9qctzi9KmdNX"
+    },
+    {
+      "album": {
+        "name": "Collide",
+        "url": "https://open.spotify.com/album/5vNgoFH4MvtScyYyWMQSos"
+      },
+      "artists": [
+        {
+          "name": "Taylor Torrence",
+          "url": "https://open.spotify.com/artist/4PhWdminU7odBReTmyyZrH"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171998,
+      "name": "Collide",
+      "url": "https://open.spotify.com/track/3cV9sNCtVcTGqNabn599Sd"
     },
     {
       "album": {

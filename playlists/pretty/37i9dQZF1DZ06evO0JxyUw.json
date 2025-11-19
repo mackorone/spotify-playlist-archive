@@ -1,12 +1,12 @@
 {
   "description": "This is Christina Aguilera. The essential tracks, all in one playlist.",
-  "num_followers": 275799,
+  "num_followers": 275802,
   "original_name": "This Is Christina Aguilera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRkUAAAAAAA3gyc6MsJ1cp9dcctUiHAX",
+  "snapshot_id": "aRplgAAAAAB4m8nkzP3h9ftkyx3EAUWN",
   "tracks": [
     {
       "added_at": null,
@@ -883,26 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Santo",
-        "url": "https://open.spotify.com/album/4M6KWDyo4wi2wY9rxpV9RC"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 183414,
-      "name": "Santo",
-      "url": "https://open.spotify.com/track/2M6IDHdaSAyt7FcJcptHjj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AGUILERA",
         "url": "https://open.spotify.com/album/1yzGdDRVUtPRGWATYs7J35"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 206542,
       "name": "Cuando Me D\u00e9 la Gana",
       "url": "https://open.spotify.com/track/054rVEFJSFyS9tHbZp1Pwz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Santo",
+        "url": "https://open.spotify.com/album/4M6KWDyo4wi2wY9rxpV9RC"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 183414,
+      "name": "Santo",
+      "url": "https://open.spotify.com/track/2M6IDHdaSAyt7FcJcptHjj"
     },
     {
       "added_at": null,

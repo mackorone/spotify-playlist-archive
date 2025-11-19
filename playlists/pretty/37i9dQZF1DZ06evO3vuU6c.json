@@ -1,12 +1,12 @@
 {
   "description": "This is Sia. The essential tracks, all in one playlist.",
-  "num_followers": 1434174,
+  "num_followers": 1434190,
   "original_name": "This Is Sia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRkUAAAAAADeTVxfjBeFqkuxymWOMFA1",
+  "snapshot_id": "aRplgAAAAABBku9ffDq5py2eSioo8eH5",
   "tracks": [
     {
       "added_at": null,
@@ -168,7 +168,7 @@
           "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
         }
       ],
-      "duration_ms": 210920,
+      "duration_ms": 210906,
       "name": "The Greatest",
       "url": "https://open.spotify.com/track/6bLopGnirdrilrpdVB6Um1"
     },
@@ -367,6 +367,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Angel By The Wings",
+        "url": "https://open.spotify.com/album/1diZXhFKWvBHJg6YMEZ74b"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 319200,
+      "name": "Angel By The Wings",
+      "url": "https://open.spotify.com/track/4OLVK3kktkdLPp8dDgoCtb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ENOC",
         "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 214506,
       "name": "Del Mar",
       "url": "https://open.spotify.com/track/5cpJFiNwYyWwFLH0V6B3N8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Angel By The Wings",
-        "url": "https://open.spotify.com/album/1diZXhFKWvBHJg6YMEZ74b"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 319200,
-      "name": "Angel By The Wings",
-      "url": "https://open.spotify.com/track/4OLVK3kktkdLPp8dDgoCtb"
     },
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gimme Love (Reasonable Woman Version)",
-        "url": "https://open.spotify.com/album/4jLwuz6VaUKuIiS799cU2z"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 214074,
-      "name": "Gimme Love (Reasonable Woman Version)",
-      "url": "https://open.spotify.com/track/5o4XJKRxUK6nXhFLAIS33A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Never Give Up (From \"Lion\" Soundtrack)",
         "url": "https://open.spotify.com/album/3pOA3oohNOrloauSH9rd8n"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 221986,
       "name": "Never Give Up (From \"Lion\" Soundtrack)",
       "url": "https://open.spotify.com/track/1ssmjAYSU5PbmsjLq5yrNH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gimme Love (Reasonable Woman Version)",
+        "url": "https://open.spotify.com/album/4jLwuz6VaUKuIiS799cU2z"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 214074,
+      "name": "Gimme Love (Reasonable Woman Version)",
+      "url": "https://open.spotify.com/track/5o4XJKRxUK6nXhFLAIS33A"
     },
     {
       "added_at": null,
@@ -583,6 +583,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mon coeur avait raison",
+        "url": "https://open.spotify.com/album/4tYyNNlbRGlS6FNphD8mur"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 213026,
+      "name": "Je te pardonne (feat. Sia) - Pilule bleue",
+      "url": "https://open.spotify.com/track/6ftEA8CwMP4vtlL7F6VKsj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Simple Things",
         "url": "https://open.spotify.com/album/291IqGpnrkekWf8hn0xB3x"
       },
@@ -603,26 +623,6 @@
       "duration_ms": 337800,
       "name": "Destiny - Extended Mix",
       "url": "https://open.spotify.com/track/4ECvY5smtvyK1HkipYICAI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mon coeur avait raison",
-        "url": "https://open.spotify.com/album/4tYyNNlbRGlS6FNphD8mur"
-      },
-      "artists": [
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 213026,
-      "name": "Je te pardonne (feat. Sia) - Pilule bleue",
-      "url": "https://open.spotify.com/track/6ftEA8CwMP4vtlL7F6VKsj"
     },
     {
       "added_at": null,
@@ -827,6 +827,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dance Alone",
+        "url": "https://open.spotify.com/album/6VFvESDvhvsBjCSlIXpIXw"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 172246,
+      "name": "Dance Alone",
+      "url": "https://open.spotify.com/track/1XZy2eprbATl4AnL9Fpsw1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Listen Again",
         "url": "https://open.spotify.com/album/7bpWEp24oHgUs08ImjakfU"
       },
@@ -851,26 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dance Alone",
-        "url": "https://open.spotify.com/album/6VFvESDvhvsBjCSlIXpIXw"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        },
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 172246,
-      "name": "Dance Alone",
-      "url": "https://open.spotify.com/track/1XZy2eprbATl4AnL9Fpsw1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Floating Through Space",
         "url": "https://open.spotify.com/album/0BE9HxEf6RRDyni3SSvM6t"
       },
@@ -887,22 +887,6 @@
       "duration_ms": 177800,
       "name": "Floating Through Space",
       "url": "https://open.spotify.com/track/2AceGjiX9isUbXmMZa0Dl1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/4TM7wmWEakp4xk1ZffVkL8"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 205207,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/5id3Rqn7SPj1LX4FfY4nGz"
     },
     {
       "added_at": null,
@@ -939,6 +923,22 @@
       "duration_ms": 301000,
       "name": "Guts Over Fear",
       "url": "https://open.spotify.com/track/3pAnZV3mgNKCABheAUatc3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/4TM7wmWEakp4xk1ZffVkL8"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 205207,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/5id3Rqn7SPj1LX4FfY4nGz"
     },
     {
       "added_at": null,

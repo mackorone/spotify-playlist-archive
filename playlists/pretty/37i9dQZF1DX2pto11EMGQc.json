@@ -1,6 +1,6 @@
 {
   "description": "Here's to the groom! Enjoy your day with the boys!",
-  "num_followers": 97519,
+  "num_followers": 97536,
   "original_name": "Bachelor Party",
   "owner": {
     "name": "Spotify",
@@ -108,7 +108,7 @@
           "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
         }
       ],
-      "duration_ms": 229360,
+      "duration_ms": 229358,
       "name": "Time of Our Lives",
       "url": "https://open.spotify.com/track/2bJvI42r8EF3wxjOuDav4r"
     },
@@ -255,22 +255,6 @@
     {
       "added_at": "2022-05-11 15:37:27",
       "album": {
-        "name": "Wild Ones",
-        "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
-      },
-      "artists": [
-        {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-        }
-      ],
-      "duration_ms": 248133,
-      "name": "Good Feeling",
-      "url": "https://open.spotify.com/track/2LEF1A8DOZ9wRYikWgVlZ8"
-    },
-    {
-      "added_at": "2022-05-11 15:37:27",
-      "album": {
         "name": "Starboy",
         "url": "https://open.spotify.com/album/4AdZV63ycxFLF6Hcol0QnB"
       },
@@ -311,22 +295,18 @@
     {
       "added_at": "2022-05-11 15:37:27",
       "album": {
-        "name": "2001",
-        "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
+        "name": "Wild Ones",
+        "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
       },
       "artists": [
         {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
         }
       ],
-      "duration_ms": 161506,
-      "name": "The Next Episode",
-      "url": "https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC"
+      "duration_ms": 248133,
+      "name": "Good Feeling",
+      "url": "https://open.spotify.com/track/2LEF1A8DOZ9wRYikWgVlZ8"
     },
     {
       "added_at": "2022-05-11 15:37:27",
@@ -343,6 +323,26 @@
       "duration_ms": 221506,
       "name": "Paris",
       "url": "https://open.spotify.com/track/72jbDTw1piOOj770jWNeaG"
+    },
+    {
+      "added_at": "2022-05-11 15:37:27",
+      "album": {
+        "name": "2001",
+        "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 161506,
+      "name": "The Next Episode",
+      "url": "https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC"
     },
     {
       "added_at": "2022-05-11 15:37:27",
@@ -915,22 +915,18 @@
     {
       "added_at": "2022-05-11 15:37:27",
       "album": {
-        "name": "Intuition",
-        "url": "https://open.spotify.com/album/4Tk1gvdwy7TL3Ma2s9iZ9f"
+        "name": "finding it hard to smile",
+        "url": "https://open.spotify.com/album/2AbPwLvpR0FwpqGt4ZY1q4"
       },
       "artists": [
         {
-          "name": "Jamie Foxx",
-          "url": "https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w"
-        },
-        {
-          "name": "T-Pain",
-          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+          "name": "lovelytheband",
+          "url": "https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp"
         }
       ],
-      "duration_ms": 289746,
-      "name": "Blame It",
-      "url": "https://open.spotify.com/track/08uGhvS5MfBk7crUCpnjva"
+      "duration_ms": 204878,
+      "name": "broken",
+      "url": "https://open.spotify.com/track/6XcfKZvJio9Z0fQy11GnNX"
     }
   ],
   "unique_name": "Bachelor Party",

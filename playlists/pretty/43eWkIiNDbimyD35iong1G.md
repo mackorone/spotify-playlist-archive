@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/43eWkIiNDbimyD35iong1G.md) - [plain]
 
 > Celebrate your wedding with over 100 love songs\. Perfect for dancing at the reception party, saying your vows, walking down the aisle, and the romantic first dance❤️
 
-[Topsify US](https://open.spotify.com/user/warnermusicus) - 168,850 likes - 150 songs - 9 hr 3 min
+[Topsify US](https://open.spotify.com/user/warnermusicus) - 168,935 likes - 150 songs - 9 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/43eWkIiNDbimyD35iong1G.md) - [plain]
 | 68 | [Home With Me](https://open.spotify.com/track/4L5k6CJOltwqapOYT7OvkH) | [RIIKI REID](https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC) | [Home With Me](https://open.spotify.com/album/4YuGF62IsiSP9PzRu3YERe) | 2:47 |
 | 69 | [Green Eyes](https://open.spotify.com/track/2FvJarUKRhzOB8RJ9J9O99) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Wedding Songs](https://open.spotify.com/album/55aDarji66T5sb3cWEpDWS) | 3:43 |
 | 70 | [Something in the Orange](https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Something in the Orange](https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv) | 3:48 |
-| 71 | [I Will Always Love You](https://open.spotify.com/track/6nRvgo4ySezQKD1D7NIqAu) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene](https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj) | 2:56 |
+| 71 | [I Will Always Love You](https://open.spotify.com/track/6nRvgo4ySezQKD1D7NIqAu) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene](https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj) | 2:57 |
 | 72 | [Haven't Met You Yet](https://open.spotify.com/track/4fIWvT19w9PR0VVBuPYpWA) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Crazy Love](https://open.spotify.com/album/3MXDonOIzrIrCh0HvlACyj) | 4:04 |
 | 73 | [Just the Way You Are](https://open.spotify.com/track/56WG8yn5x8JNYHGfGEExCt) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Viral Hits: Rewind](https://open.spotify.com/album/0In57J2lQkZVXSkFTmzuut) | 3:40 |
 | 74 | [Last Request](https://open.spotify.com/track/7dziUAR2Fy0VN8Zmfp2aUi) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Wedding Songs](https://open.spotify.com/album/55aDarji66T5sb3cWEpDWS) | 3:40 |

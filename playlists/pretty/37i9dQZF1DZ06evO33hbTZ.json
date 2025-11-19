@@ -1,12 +1,12 @@
 {
   "description": "This is Victor Thompson. The essential tracks, all in one playlist.",
-  "num_followers": 5767,
+  "num_followers": 5769,
   "original_name": "This Is Victor Thompson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRkUAAAAAAAOEUAK0I3um5hCdd2V0aOl",
+  "snapshot_id": "aRplgAAAAAAUnDkasfVyvk4p8hR7K4kp",
   "tracks": [
     {
       "added_at": null,
@@ -663,38 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You are Lifted (Spontaneous Worship)",
-        "url": "https://open.spotify.com/album/3GL93N3e9sBtznX6BIHzng"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 2461616,
-      "name": "You are Lifted (Spontaneous Worship)",
-      "url": "https://open.spotify.com/track/4O9kmanzq6i11XhGOyNXfN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blessed",
-        "url": "https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 169687,
-      "name": "Halle",
-      "url": "https://open.spotify.com/track/3b8q3iDLUUTEzkexbVgkxy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Great is Your Faithfulness",
         "url": "https://open.spotify.com/album/60NUOnCVQ28gul1cqFo1hl"
       },
@@ -715,6 +683,38 @@
       "duration_ms": 1147000,
       "name": "Great is Your Faithfulness",
       "url": "https://open.spotify.com/track/7sjq9jAZBIcjMRsL6pQol7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 169687,
+      "name": "Halle",
+      "url": "https://open.spotify.com/track/3b8q3iDLUUTEzkexbVgkxy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You are Lifted (Spontaneous Worship)",
+        "url": "https://open.spotify.com/album/3GL93N3e9sBtznX6BIHzng"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 2461616,
+      "name": "You are Lifted (Spontaneous Worship)",
+      "url": "https://open.spotify.com/track/4O9kmanzq6i11XhGOyNXfN"
     },
     {
       "added_at": null,

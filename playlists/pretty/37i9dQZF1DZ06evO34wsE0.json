@@ -1,12 +1,12 @@
 {
   "description": "This is Shania Twain. The essential tracks, all in one playlist.",
-  "num_followers": 251433,
+  "num_followers": 251443,
   "original_name": "This Is Shania Twain",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRkUAAAAAADXjNJkZKsT41fiVGC+uUj7",
+  "snapshot_id": "aRplgAAAAADHK1sUl2u6FW3U/cWmlQM7",
   "tracks": [
     {
       "added_at": null,
@@ -807,8 +807,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come On Over",
-        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
+        "name": "Not Just A Girl (The Highlights)",
+        "url": "https://open.spotify.com/album/1Gqoca4RxsEZCIAgx6PsTS"
       },
       "artists": [
         {
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 243948,
-      "name": "If You Wanna Touch Her, Ask!",
-      "url": "https://open.spotify.com/track/7uQTbTiCf9p2v0ceOWkXli"
+      "duration_ms": 191493,
+      "name": "Not Just A Girl",
+      "url": "https://open.spotify.com/track/7DF7d3MvTaEaktGUFc6s3d"
     },
     {
       "added_at": null,
@@ -839,8 +839,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Not Just A Girl (The Highlights)",
-        "url": "https://open.spotify.com/album/1Gqoca4RxsEZCIAgx6PsTS"
+        "name": "Come On Over",
+        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
       },
       "artists": [
         {
@@ -848,9 +848,9 @@
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 191493,
-      "name": "Not Just A Girl",
-      "url": "https://open.spotify.com/track/7DF7d3MvTaEaktGUFc6s3d"
+      "duration_ms": 243948,
+      "name": "If You Wanna Touch Her, Ask!",
+      "url": "https://open.spotify.com/track/7uQTbTiCf9p2v0ceOWkXli"
     }
   ],
   "unique_name": "This Is Shania Twain",

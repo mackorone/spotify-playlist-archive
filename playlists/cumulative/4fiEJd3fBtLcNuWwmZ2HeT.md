@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-399 songs - 23 hr 7 min
+401 songs - 23 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,6 +209,7 @@
 | [SISTERS](https://open.spotify.com/track/4vvqRZm4dXnzP07bUGoCj5) | [John](https://open.spotify.com/artist/2FkyWQImfwhuhSrsG8ZZ4k) | [misérable](https://open.spotify.com/album/1C8X9L62l1qMjyDQjqK5gt) | 2:59 | 2025-06-30 |  |
 | [SIU](https://open.spotify.com/track/22tot0Y6uKuWdAZnEQyB6g) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [SIU](https://open.spotify.com/album/3H4KputrhYs3q5Dm8hC7DQ) | 4:38 | 2022-03-16 |  |
 | [Skyfall](https://open.spotify.com/track/6VObnIkLVruX4UVyxWhlqm) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Skyfall](https://open.spotify.com/album/6TwN6Lq9glwnG8kNp6chHY) | 4:46 | 2023-11-12 |  |
+| [sneer](https://open.spotify.com/track/49iPWsVzlm4lkcVbeq6pqN) | [KOMEDAWARA](https://open.spotify.com/artist/5IHeMc4VSgGZyQBBeZhY3F), [Una Otomachi](https://open.spotify.com/artist/3hv0cVJtEVUppVUb9Gp5xp) | [sneer](https://open.spotify.com/album/1DN9zA67aiNNClynWkbwUJ) | 3:59 | 2025-11-18 |  |
 | [Snooze](https://open.spotify.com/track/1Ht0sIJf1IYEiBW9XDLKnF) | [wotaku](https://open.spotify.com/artist/0685luDRQZRkN4JnhnRSKX) | [Snooze](https://open.spotify.com/album/0GrWylaTP2A3nDLDIklvWM) | 2:58 | 2025-09-15 |  |
 | [Something more awesome than a ghost](https://open.spotify.com/track/47f3tIWTiD6wHB2AaCmkkp) | [null](https://open.spotify.com/artist/2uunASYD2lq4NEKTWE0O6V), [warabe](https://open.spotify.com/artist/6o7QGeizvqvNU5Aq2Okw13) | [Something more awesome than a ghost](https://open.spotify.com/album/49TixC2pbSlrKHpGZBntp1) | 3:10 | 2025-08-04 |  |
 | [SPECIALZ](https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [SPECIALZ](https://open.spotify.com/album/16Wxo6FKPXPzU9IApZfdlc) | 3:58 | 2023-09-14 |  |
@@ -278,6 +279,7 @@
 | [アイデンティティ](https://open.spotify.com/track/4X3L6G6KDs0jBKvfTkmKmi) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [アイデンティティ](https://open.spotify.com/album/5bN9ddnWBszIifz4XhLlKj) | 2:35 | 2025-10-16 |  |
 | [アディオス](https://open.spotify.com/track/5GvjB9nq8oGYJWfEIMebZ3) | [DAZBEE](https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz) | [アディオス](https://open.spotify.com/album/4ugiNFkcSGCDLCPdX7Nj9w) | 3:20 | 2023-09-11 |  |
 | [アデュー、サロー](https://open.spotify.com/track/0KeLopzJIbotv8hQ8fdBX3) | [猫又おかゆ](https://open.spotify.com/artist/28lO8lCOqFvDB5la90xKUW) | [アデュー、サロー](https://open.spotify.com/album/2rf16QleG0chhlywJ9UPsi) | 2:35 | 2022-08-27 |  |
+| [アブノーマリティ・ダンシンガール](https://open.spotify.com/track/3sWcYSiFPCL5CNzU0H5Wau) | [ぐちり](https://open.spotify.com/artist/7AhWr9uwljlOcqY6eiX7ww) | [憂象夢象](https://open.spotify.com/album/5HdP7JlJXuOhqnraTBVeUP) | 3:28 | 2025-11-18 |  |
 | [イドラのサーカス](https://open.spotify.com/track/2FvGW1qdjJwSzyB31IeeJj) | [Neru](https://open.spotify.com/artist/0rhcL1Mw7J9YJRDpD6mhXr) | [マイネームイズラヴソング](https://open.spotify.com/album/676AXtU3CFKuDBf0wJsYuz) | 3:31 | 2022-08-18 |  |
 | [カリスマティック・スーパードゥーパー・ロックスター](https://open.spotify.com/track/0lZbtgvlgjamaFfqLI27EL) | [アザミ](https://open.spotify.com/artist/7hvp5ittRpuSvksfusEkmv) | [獅子型アラベスク超午前、青](https://open.spotify.com/album/0rgdlXM5DIXKfq751vkr4P) | 3:39 | 2025-09-09 |  |
 | [カルミア・ラティフォリア](https://open.spotify.com/track/6Y0khuGz96c6Lc5Mgnm7GL) | [neo:niruni](https://open.spotify.com/artist/2fa8KhPhC09GO17ThPq4Fv) | [カルミア・ラティフォリア](https://open.spotify.com/album/3pdbPxHHoSsfifyKjIqhcf) | 3:55 | 2025-05-25 |  |

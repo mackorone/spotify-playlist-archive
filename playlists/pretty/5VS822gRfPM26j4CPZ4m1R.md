@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/5VS822gRfPM26j4CPZ4m1R.md) - [plain]
 
 > Playlist
 
-[Nice Guys](https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc) - 17,867 likes - 621 songs - 1 day 12 hr 53 min
+[Nice Guys](https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc) - 17,868 likes - 621 songs - 1 day 12 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Whiskey River](https://open.spotify.com/track/2ccCZk3DGQ6nm8sNH2ck4F) | [Grayson Hamm](https://open.spotify.com/artist/1zQbqJWYcdrVXef2iatspr) | [Whiskey River](https://open.spotify.com/album/0jBh8fTaj1ih73onffOfgJ) | 4:24 |
-| 2 | [Lule e Egër](https://open.spotify.com/track/68HCHDGbYaiOgO3DYeaXXN) | [Corpus Perditum](https://open.spotify.com/artist/41bRvSUF56ZIhyJsAMahmJ) | [Lule e Egër](https://open.spotify.com/album/6YaXvfFdT7yeh9TR4LYb2u) | 5:40 |
-| 3 | [I Don't Wanna Give You Up](https://open.spotify.com/track/4rCZUOAzUEkgqit17eDlzi) | [Niall Mutter](https://open.spotify.com/artist/26nkWfI1zwh7OFESYPRn2w) | [Silver](https://open.spotify.com/album/3nJnR5Zu95pGWzWxS2HbEa) | 3:42 |
+| 2 | [I Don't Wanna Give You Up](https://open.spotify.com/track/4rCZUOAzUEkgqit17eDlzi) | [Niall Mutter](https://open.spotify.com/artist/26nkWfI1zwh7OFESYPRn2w) | [Silver](https://open.spotify.com/album/3nJnR5Zu95pGWzWxS2HbEa) | 3:42 |
+| 3 | [Lule e Egër](https://open.spotify.com/track/68HCHDGbYaiOgO3DYeaXXN) | [Corpus Perditum](https://open.spotify.com/artist/41bRvSUF56ZIhyJsAMahmJ) | [Lule e Egër](https://open.spotify.com/album/6YaXvfFdT7yeh9TR4LYb2u) | 5:40 |
 | 4 | [Gum Head](https://open.spotify.com/track/2X7VGyu4tZdFWookIoQoDA) | [Boy Deco](https://open.spotify.com/artist/2ToFHcW8xlcnx73z5Jzzu7) | [Gum Head](https://open.spotify.com/album/0tF77q8FyG4ZHF76r69ELK) | 2:24 |
 | 5 | [bones](https://open.spotify.com/track/5obGMp5stzItyTXOmzoiFt) | [Stephan Kreussel](https://open.spotify.com/artist/5ZurMijkyknLpWTUp4678J) | [plateau](https://open.spotify.com/album/6JlOYEQWx0ZgR0WkeTIuge) | 3:52 |
 | 6 | [Jenny Said](https://open.spotify.com/track/1hNlmDOQCvD6VU3CI6Xycr) | [Niall Mutter](https://open.spotify.com/artist/26nkWfI1zwh7OFESYPRn2w) | [Jenny Said](https://open.spotify.com/album/5YfPNo20uWuGgAoTMLWCza) | 3:52 |
@@ -630,4 +630,4 @@ pretty - [cumulative](/playlists/cumulative/5VS822gRfPM26j4CPZ4m1R.md) - [plain]
 | 620 | [Criaturas da Noite](https://open.spotify.com/track/52QOOeICT7uUg3EaET0Xr0) | [Pedro Mizutani](https://open.spotify.com/artist/64QDqXMHjg0lUoGbXSCX2R), [Skinshape](https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe) | [Criaturas da Noite](https://open.spotify.com/album/6AxgdZrrtWJjYxRePiprqr) | 1:46 |
 | 621 | [Bye Dummy](https://open.spotify.com/track/13xRpimF9gtVsB5GM8Gyjz) | [Hector Gachan](https://open.spotify.com/artist/7JWTyY1F2DGO4WphbQo2yM) | [Bye Dummy](https://open.spotify.com/album/0BPaiZ5xFY692UPO6Hfw10) | 2:49 |
 
-Snapshot ID: `AAAMLZbKeo2OKGQAxfWB7/JUMKb09Xc1`
+Snapshot ID: `AAAMLvixEqLZrqrm5QeOyCd4Ep1ngeDa`

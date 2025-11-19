@@ -4,7 +4,7 @@
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Morgan Seatree
 
-4,931 songs - 9 day 19 hr 17 min
+4,932 songs - 9 day 19 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4757,6 +4757,7 @@
 | [Where Do We Go](https://open.spotify.com/track/1M2NNUv8UV5smjMVGyTrmz) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR) | [Where Do We Go](https://open.spotify.com/album/4DDBDbyg0A15tQuClSvcqg) | 2:51 | 2023-08-31 | 2023-09-15 |
 | [Where Do We Go](https://open.spotify.com/track/6kJb1Y3iy2wfJW2iSp3mXQ) | [ZHANGYE](https://open.spotify.com/artist/1sZntnf0HWP0Rx392NSPwW), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Rosie Darling](https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI) | [Where Do We Go](https://open.spotify.com/album/377QxEPZ8i3ayUMR7ULx39) | 2:30 | 2025-10-02 | 2025-10-17 |
 | [Where Have You Been \(Old Jim Remix\)](https://open.spotify.com/track/4AkP2DF8jx2j6d4k1V7fui) | [REESE](https://open.spotify.com/artist/2MRXCqZSMkdI9K46WDWCUX), [Old Jim](https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu) | [Where Have You Been \(Old Jim Remix\)](https://open.spotify.com/album/5Q9YkkaUnqnhkE0GF97dhA) | 3:16 | 2025-04-03 | 2025-04-11 |
+| [WHERE IS MY HUSBAND! \- Remix](https://open.spotify.com/track/0vYSTV1Lye2Z2zktF6P39C) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7) | [WHERE IS MY HUSBAND! \(Remix\)](https://open.spotify.com/album/0v51IyQgTnzyfKP4yBg0AC) | 2:33 | 2025-11-18 |  |
 | [Where Is The Love](https://open.spotify.com/track/3PdEuecIXLHsur8TUkwloa) | [Remady](https://open.spotify.com/artist/3JxNeLgMuJI0DEmDt9dLzc), [Manu\-L](https://open.spotify.com/artist/14SHTcuQj0D9MK9klr1Sxj) | [Where Is The Love](https://open.spotify.com/album/5WMc3VkVybqt6NKWUU1iM5) | 2:21 | 2024-03-07 | 2024-03-15 |
 | [Where is Your Mind?](https://open.spotify.com/track/2JOnyWw6pPmHaofhRtZHEB) | [Gestört aber GeiL](https://open.spotify.com/artist/7KAGJwWQQui8b0uqwXRkSr), [Anthony Carney](https://open.spotify.com/artist/2gpyYv7KTHdXFIQQ3N2lgQ), [Housejunkee](https://open.spotify.com/artist/7GDyQOWcC6put9QqYregzw) | [Where is Your Mind?](https://open.spotify.com/album/5WFUh6tHpfvC1gv5eVYSIe) | 2:12 | 2024-05-09 | 2024-05-17 |
 | [Where Nobody Knows](https://open.spotify.com/track/4fzUXbg5iev2CqbmbzW3mg) | [Hyzteria](https://open.spotify.com/artist/25hmNMFuDlPLe0TIcr8Djd), [Dakota](https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms) | [Where Nobody Knows](https://open.spotify.com/album/1tguKZ8ZjrYhOSTXmnsddd) | 2:55 | 2025-03-06 | 2025-03-14 |

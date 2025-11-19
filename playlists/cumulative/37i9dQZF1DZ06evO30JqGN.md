@@ -4,7 +4,7 @@
 
 > This is Summer Walker\. The essential tracks, all in one playlist.
 
-69 songs - 3 hr 29 min
+70 songs - 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Drunk Dialing...LODT](https://open.spotify.com/track/0pzWCDSuVRX7m95EFOxVa0) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Over It](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) | 2:14 | 2024-10-07 | 2024-12-07 |
 | [Eleven \(feat\. Summer Walker\)](https://open.spotify.com/track/18O00Y7yrkJ0pRXm1n21Og) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Eleven \(feat\. Summer Walker\)](https://open.spotify.com/album/27JROxwlU2KnOg1Kgp8Wak) | 3:26 | 2024-10-05 |  |
 | [Ex For A Reason \(with JT from City Girls\)](https://open.spotify.com/track/1De7cOMrdUnVpjWBaowMg4) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 3:45 | 2024-10-05 |  |
+| [Finally Over It](https://open.spotify.com/track/4dlFGIn5KP6AaCZSujM7cj) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Finally Over It](https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx) | 2:23 | 2025-11-19 |  |
 | [FMT](https://open.spotify.com/track/67KAaGKHUrYLCmHml6v0Yk) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Finally Over It](https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx) | 3:28 | 2025-11-16 |  |
 | [Girls Need Love \(with Drake\) \- Remix](https://open.spotify.com/track/14SaZBTjxlorHJQxXh01Hu) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Last Day Of Summer](https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz) | 3:42 | 2024-10-05 |  |
 | [Give Me A Reason \(with Bryson Tiller\)](https://open.spotify.com/track/7uHapC7IlHVLcC3TxVEn7I) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Finally Over It](https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx) | 2:48 | 2025-11-16 | 2025-11-18 |
@@ -56,7 +57,7 @@
 | [Session 33](https://open.spotify.com/track/1k7Sn04nBNcLKbSwORsFgJ) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 2:07 | 2024-10-05 | 2025-07-18 |
 | [Shame](https://open.spotify.com/track/3LdGRWewvpcaZrkOpc70fP) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Last Day Of Summer](https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz) | 2:46 | 2024-10-05 |  |
 | [Shower Tears \(feat\. Summer Walker\)](https://open.spotify.com/track/5g8frSfNnBYjSpLkLtFnCd) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [AM I THE DRAMA?](https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ) | 3:27 | 2025-09-21 |  |
-| [Situationship](https://open.spotify.com/track/0tg1Rx9IDiZ1LO0IPsnCYr) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Finally Over It](https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx) | 2:20 | 2025-11-18 |  |
+| [Situationship](https://open.spotify.com/track/0tg1Rx9IDiZ1LO0IPsnCYr) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Finally Over It](https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx) | 2:20 | 2025-11-18 | 2025-11-19 |
 | [Something Real \(with London On Da Track & Chris Brown\)](https://open.spotify.com/track/4otQJBpb8okSeykALR3eCH) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [London On Da Track](https://open.spotify.com/artist/5Nf5yishRW9Ye174sJISkg), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Something Real \(with London On Da Track & Chris Brown\)](https://open.spotify.com/album/3sKfMROqgj9nNxOuyPDndH) | 3:03 | 2025-04-06 | 2025-11-05 |
 | [Songs About U](https://open.spotify.com/track/1iuNH5Ajdqt7O2NMon1EB5) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Songs About U](https://open.spotify.com/album/4F6grP1bKnxdEDkwecx3IM) | 3:00 | 2024-10-05 | 2025-11-05 |
 | [Spend It](https://open.spotify.com/track/290eKCMBc9f9CcSLFuQrim) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Spend It](https://open.spotify.com/album/1bbRn3bCzOPvjbShgj26K9) | 2:45 | 2025-05-07 |  |

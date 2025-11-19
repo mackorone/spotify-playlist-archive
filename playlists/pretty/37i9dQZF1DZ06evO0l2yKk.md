@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0l2yKk.md) - [plain]
 
 > This is Cardenales De Nuevo León\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,469 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,542 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0l2yKk.md) - [plain]
 | 49 | [Quiero Ver tus Ojos](https://open.spotify.com/track/3yWoJKSMdCWNd9oQCpjeEE) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Fuego Contra Fuego](https://open.spotify.com/album/0IAQTzZUZkgwMfN5hZJjp3) | 2:32 |
 | 50 | [Ni Amores Ni Deudas](https://open.spotify.com/track/37XJBZYOnErRNl7vawIwf7) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV), [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [10+10](https://open.spotify.com/album/32PDVB8vzIpO0hqyas42fY) | 2:26 |
 
-Snapshot ID: `aRkUAAAAAAB7V7TWwUv83N6/TS70hBsA`
+Snapshot ID: `aRplgAAAAADr3vXV9i5yU4NBm4nP+WTT`

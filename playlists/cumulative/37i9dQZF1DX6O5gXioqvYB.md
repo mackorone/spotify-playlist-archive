@@ -4,7 +4,7 @@
 
 > Tutte le migliori nuove uscite indie sono qui 👀 Cover: Angelica Bove
 
-1,101 songs - 2 day 8 hr 18 min
+1,104 songs - 2 day 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [COCA!](https://open.spotify.com/track/1udi93U3RlgxXwVlj9E6dn) | [Umarell](https://open.spotify.com/artist/3x99VxtGkA6KaeWlu6zeOQ) | [BOLOGNA!](https://open.spotify.com/album/3hFrU0dWVldEqg5S23D1DH) | 3:55 | 2025-01-02 | 2025-03-21 |
 | [CocaCola & Pepsi](https://open.spotify.com/track/6CgoGZbSpK82pbRWRX6Eyg) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB) | [X TROVARE UN POSTO NEL MONDO](https://open.spotify.com/album/61fkXN3qBwCHkA3DO1G9yN) | 2:48 | 2024-06-27 | 2024-07-19 |
 | [CocaCola Margarita](https://open.spotify.com/track/6enaFhxhTq9K4uY9XlBP7E) | [Itto](https://open.spotify.com/artist/2LJFeWUIvW4OF583ZiqIRh), [Malpelo](https://open.spotify.com/artist/3yfbIVTJBT6kawT1yjQvOZ) | [CocaCola Margarita](https://open.spotify.com/album/6tDFuL4spAuth2oY29i1tv) | 2:12 | 2025-08-07 | 2025-09-19 |
+| [Cocoon](https://open.spotify.com/track/6D4ggqizOhkUMbVVBvoHlB) | [Fight Pausa](https://open.spotify.com/artist/1BkdvKE1YNIAAWrLNzLWKU) | [Cocoon](https://open.spotify.com/album/2uwbXDzfDu2CIU4nfCklvH) | 2:49 | 2025-11-18 |  |
 | [codardo](https://open.spotify.com/track/4xz2hDhsnV0YAjzoMUvSFc) | [DANU](https://open.spotify.com/artist/4hVodcSKHtJWb5fIRvzax7) | [codardo](https://open.spotify.com/album/0mCGpJ2hMhy19hAQzGvdcz) | 2:58 | 2025-07-24 | 2025-09-12 |
 | [codice morse](https://open.spotify.com/track/65F3X4vmeu3j6qAn1tqNJp) | [moha111](https://open.spotify.com/artist/0zInhyakN9jMdmXwCLRUyW) | [codice morse](https://open.spotify.com/album/2zUwAyYhGvM8GaEoju9A4G) | 2:39 | 2025-01-30 | 2025-03-08 |
 | [Cold Hands](https://open.spotify.com/track/3seAP5VNmMNhDgW3mU3PD4) | [Leatherette](https://open.spotify.com/artist/4nAQf14Uz5C0uSACkrNwIW) | [Cold Hands](https://open.spotify.com/album/4tat8E8Y65ekxRmKwC9KZA) | 2:17 | 2025-11-06 |  |
@@ -565,6 +566,7 @@
 | [Luglio](https://open.spotify.com/track/3jlXR7AJTqxgzWSgs1jGbm) | [Prim](https://open.spotify.com/artist/4eiK39Rrg0g8Dml029aGHy) | [DIY Crochet](https://open.spotify.com/album/4BpUAJQnrqoS0nBvNukBVI) | 2:31 | 2025-07-17 | 2025-09-12 |
 | [Luna di Lupo](https://open.spotify.com/track/7BaXogv1saFbLbwFFXroPS) | [Margherita Zerbini](https://open.spotify.com/artist/2RMXndYAzhBJd4IcgECmsY) | [Luna di Lupo](https://open.spotify.com/album/0vogFiZZi5YNyZeh6lKt9Y) | 3:08 | 2025-05-22 | 2025-07-04 |
 | [Luna elettrica](https://open.spotify.com/track/6A7Pwen2tv5m9ddiFi0D3a) | [Michelangelo Vood](https://open.spotify.com/artist/4ZWLxBFrqQpBflEZ4wBFJ7) | [Non c'è più tempo](https://open.spotify.com/album/057GVwIW5vzooi7SHHYgeT) | 3:13 | 2024-06-27 | 2024-07-12 |
+| [Luna Piena](https://open.spotify.com/track/2J5c0O1B5uqcQJibde6ln5) | [Studio Murena](https://open.spotify.com/artist/1rWbZmR5D63aZU60lMtVZx), [Francesca Michielin](https://open.spotify.com/artist/4jFlmD92WULLlaRS8Cj6QS) | [Notturno](https://open.spotify.com/album/4m1XOK5GYqtp9ekjo3JYlj) | 3:10 | 2025-11-18 |  |
 | [Lunedì blu](https://open.spotify.com/track/23WMdJgRYnVZpxPNUamXa8) | [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN) | [Lunedì blu](https://open.spotify.com/album/3o217jWs0rLnkC1bj48RAw) | 3:09 | 2025-09-18 | 2025-10-17 |
 | [làcero\-contùsa](https://open.spotify.com/track/4nAniJpaJeiuRe18iDQD9b) | [dianalunae](https://open.spotify.com/artist/0k2xrARG83uNmdNteXCSVH) | [làcero\-contùsa](https://open.spotify.com/album/6WTWNonq8bl4gvDLyF1He9) | 3:33 | 2025-10-16 | 2025-11-12 |
 | [L’amore visto dall’eternità](https://open.spotify.com/track/0hK2IJpduWRoSZc98SH1Kh) | [MILLE](https://open.spotify.com/artist/2X5RjwWkxAg9WBce3BLoJj), [Amalfitano](https://open.spotify.com/artist/6etd8FRodAwSq5dBetjTHJ) | [L’amore visto dall’eternità](https://open.spotify.com/album/5Q9pl2khtyhaddVY7GYiwA) | 3:05 | 2025-11-13 |  |
@@ -771,6 +773,7 @@
 | [Piantine](https://open.spotify.com/track/70KnZRAgna00ZBx4v0Zwjx) | [Bravo, Bravissimo](https://open.spotify.com/artist/6st78j54gm9fHJfB9ZKdh4) | [Piantine](https://open.spotify.com/album/5d6yF4Guh7jw3e9aeNL4gZ) | 2:45 | 2025-09-25 | 2025-10-24 |
 | [Piatti Sporchi](https://open.spotify.com/track/1sAEdIzVJZ46651zb8nmew) | [Santangelo](https://open.spotify.com/artist/4LKwrBjZdAMgED80UXGLec) | [Piatti Sporchi](https://open.spotify.com/album/3vxnNCbPxfOR7iFfTD0LVH) | 3:18 | 2025-10-23 |  |
 | [Piazza Centrale](https://open.spotify.com/track/18Qwl091shcZXWQJVu1ALh) | [Gaia Banfi](https://open.spotify.com/artist/60hS0Wt0Px2B3rr9Zzur8E) | [Piazza Centrale](https://open.spotify.com/album/2R2v7AI4Z6B9a8OFqhQ1WW) | 3:38 | 2025-01-23 | 2025-07-04 |
+| [Piazzale degli Eroi](https://open.spotify.com/track/0HznKHR0rq2ydRPTNdr4yX) | [Tutti Fenomeni](https://open.spotify.com/artist/13jvLDXME7yplEwCweRivE) | [Piazzale degli Eroi](https://open.spotify.com/album/0JkG2md6SYiPWmDqMToBt9) | 3:25 | 2025-11-18 |  |
 | [Piccolo](https://open.spotify.com/track/6HkEEelWbG2H6AvqRElA5H) | [Arssalendo](https://open.spotify.com/artist/54LmkGE6kI6eoaPdd6XiEd) | [Puoi chiamare se hai paura](https://open.spotify.com/album/70xMEfj93xmLgby2fZcfuw) | 2:50 | 2025-03-20 | 2025-07-04 |
 | [Piccolo Tornado](https://open.spotify.com/track/6DHbFV8VtthSD6brpfmmRQ) | [Giovanni Toscano](https://open.spotify.com/artist/1FNMcZG4mg6w5sfpTYQ2eM) | [Piccolo Tornado](https://open.spotify.com/album/1RyXXN2FM54OhAzRXqU54I) | 3:18 | 2024-10-10 | 2024-12-20 |
 | [PIENSE A T’ANNAMMURÁ](https://open.spotify.com/track/1pRctZZmX9tVE330JUDN9U) | [Gabriele Esposito](https://open.spotify.com/artist/6KBX0GZAeEOYSgONCtcwFL) | [accurdammece vol.1](https://open.spotify.com/album/0qO5npHZs0SCchqgpFLI43) | 3:03 | 2024-06-27 | 2024-07-05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 
 > The best of current & contemporary Reggae\.  Cover: Haile
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,112,645 likes - 70 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,112,554 likes - 70 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 | 20 | [Worthwhile](https://open.spotify.com/track/4GVkOSoojuaTTWQgPqGjPj) | [NESTA](https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx) | [Worthwhile](https://open.spotify.com/album/1OcnDnSl6uryQgYcjJWHS0) | 2:53 |
 | 21 | [In Bloom \(feat\. Lila Iké\)](https://open.spotify.com/track/3WwXaLYKNx0qJqyjnzDadx) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [In Search Of Lost Time](https://open.spotify.com/album/3kF6kDaK450bGM7rgOTVgW) | 3:47 |
 | 22 | [Nice Up The Dance](https://open.spotify.com/track/2KR1FKbtBscgImHlKdoVyj) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Nice Up The Dance](https://open.spotify.com/album/42MgLUbnXdROVjTGeChKQZ) | 3:32 |
-| 23 | [Finally](https://open.spotify.com/track/3F31ufvgjdWikS04V3GVWq) | [Romain Virgo](https://open.spotify.com/artist/6HCIRVlJ8tvmKPAtFnxyFg), [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [Finally](https://open.spotify.com/album/1ZH0Lk2KiayBhNIMlLl7Ks) | 3:09 |
+| 23 | [Love And Mercy](https://open.spotify.com/track/1xulzoD8FGNwfqe4ot9fDT) | [Samory I](https://open.spotify.com/artist/2Tecz83XE3bNwAxGiGDFJR) | [Love And Mercy](https://open.spotify.com/album/3pEDTam6hFt9A1i7gA9T62) | 3:27 |
 | 24 | [Vibe \(feat\. Popcaan\)](https://open.spotify.com/track/4VFk3eto9JaRlOQokHWZZB) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Vibe](https://open.spotify.com/album/4vY5bGXeYLqW2gQqADFMty) | 3:15 |
-| 25 | [Love And Mercy](https://open.spotify.com/track/1xulzoD8FGNwfqe4ot9fDT) | [Samory I](https://open.spotify.com/artist/2Tecz83XE3bNwAxGiGDFJR) | [Love And Mercy](https://open.spotify.com/album/3pEDTam6hFt9A1i7gA9T62) | 3:27 |
+| 25 | [Finally](https://open.spotify.com/track/3F31ufvgjdWikS04V3GVWq) | [Romain Virgo](https://open.spotify.com/artist/6HCIRVlJ8tvmKPAtFnxyFg), [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [Finally](https://open.spotify.com/album/1ZH0Lk2KiayBhNIMlLl7Ks) | 3:09 |
 | 26 | [Ten Cane Row \(feat\. Jorja Smith\)](https://open.spotify.com/track/1ObD1mQ91u4yBK46EYNCgl) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Ten Cane Row \(feat\. Jorja Smith\)](https://open.spotify.com/album/5BY7i9MB7Ykwf7hMt1npU1) | 3:29 |
 | 27 | [Never Leave](https://open.spotify.com/track/6d5E28VYwyws9CY00lwxfq) | [WSTRN](https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs), [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Never Leave](https://open.spotify.com/album/1uHkmdfOvhr3Jj7mdLIIkp) | 3:16 |
 | 28 | [Cool Down](https://open.spotify.com/track/7ktaE00AVIPqSNkyQ4GVEe) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Cool Down](https://open.spotify.com/album/4AGbPjkx87jkHek4TEoE93) | 4:02 |
@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 | 46 | [Radio](https://open.spotify.com/track/3dRjsMrxyqUbN5bfyLGbOS) | [Jaz Elise](https://open.spotify.com/artist/1KcAq7rtxXV2RJ7BsFFItA) | [The Golden Hour](https://open.spotify.com/album/5KvwBh1yyh6HiaTGDBzP78) | 3:00 |
 | 47 | [Believe](https://open.spotify.com/track/4lelv8PEcOEpSxZGsYZWil) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Believe](https://open.spotify.com/album/09dXLJqAXCOCrsFNZv9NzC) | 2:38 |
 | 48 | [Let's Make Up](https://open.spotify.com/track/0vXUQKUSOItuBwnRU6FsW2) | [Bitty McLean](https://open.spotify.com/artist/2t3eEaWiT5weaCJIh6aRv2), [Sly & Robbie](https://open.spotify.com/artist/6jJG408jz8VayohX86nuTt) | [Forward](https://open.spotify.com/album/1AIRz1KsEzGjh55J81z03F) | 4:51 |
-| 49 | [Rose Petal](https://open.spotify.com/track/7xywfSEGrXeONik3afbjLf) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Rose Petal](https://open.spotify.com/album/3puzUOeDspdXYqC7uLpGWF) | 3:29 |
+| 49 | [Way You Make Me Feel](https://open.spotify.com/track/7liPPCJ2159T02PnqyhhuY) | [Kelissa](https://open.spotify.com/artist/7yO5rUbDIUN1RDKMJcHeeg) | [Way You Make Me Feel](https://open.spotify.com/album/1xSwH7uxVv63vA6I5D5kqc) | 3:59 |
 | 50 | [Step by Step](https://open.spotify.com/track/4dE2GBJewg2A8HsmrWQk8O) | [Jah Lil](https://open.spotify.com/artist/5XjXxI4GloTdy1DpZHMFww) | [Step by Step](https://open.spotify.com/album/6gF4AjZeBsUIHX5LKTASfe) | 3:45 |
-| 51 | [Way You Make Me Feel](https://open.spotify.com/track/7liPPCJ2159T02PnqyhhuY) | [Kelissa](https://open.spotify.com/artist/7yO5rUbDIUN1RDKMJcHeeg) | [Way You Make Me Feel](https://open.spotify.com/album/1xSwH7uxVv63vA6I5D5kqc) | 3:59 |
+| 51 | [Rose Petal](https://open.spotify.com/track/7xywfSEGrXeONik3afbjLf) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Rose Petal](https://open.spotify.com/album/3puzUOeDspdXYqC7uLpGWF) | 3:29 |
 | 52 | [Perfectly With You](https://open.spotify.com/track/6li1utKb0kTo2R9FQU66yn) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Perfectly With You](https://open.spotify.com/album/6cDKLuyr4i3lY2uCOuEO3J) | 3:32 |
 | 53 | [Keep Blazin'](https://open.spotify.com/track/3blQBAryJo7rmvRGW0rcTp) | [Green Lion Crew](https://open.spotify.com/artist/7iA6sxOMDOu5MnyfmKQv6m), [Roe Summerz](https://open.spotify.com/artist/28qKo7P9G17aasylX64m79) | [Keep Blazin'](https://open.spotify.com/album/0AbmIWR90BHUxSINeBPJ9G) | 3:04 |
 | 54 | [Mi Deh Yah](https://open.spotify.com/track/49v38DJoDmsKR2hLuuX035) | [Capleton](https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf), [Mixing Finga](https://open.spotify.com/artist/2UopbSlohTzQEyqorhWAzx) | [Mi Deh Yah](https://open.spotify.com/album/1nidBImbRcFGTYh0YBkAuu) | 3:47 |

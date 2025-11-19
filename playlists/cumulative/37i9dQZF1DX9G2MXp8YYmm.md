@@ -4,7 +4,7 @@
 
 > Pop'un sevilen isimleri\. Kapak: Ceylin Arslan
 
-429 songs - 21 hr 27 min
+430 songs - 21 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,6 +243,7 @@
 | [Koy](https://open.spotify.com/track/0HZi4wE9hQM6TAL33xzXcx) | [Salman Tin](https://open.spotify.com/artist/539RbtR2AVUYdmHQZjLL6m) | [Koy](https://open.spotify.com/album/1Wuw1HlYJQakuvryQEev38) | 2:37 | 2025-05-08 | 2025-05-22 |
 | [Koş Gel](https://open.spotify.com/track/6TozRw4u9gjM8yHG8M3prS) | [Hande Ünsal](https://open.spotify.com/artist/6YapGsI8u59kfewJjjJ2LJ) | [Koş Gel](https://open.spotify.com/album/5BeWlkm20Z43wtQz6wIIqb) | 2:39 | 2025-04-03 |  |
 | [KTS](https://open.spotify.com/track/0T9wqk6MpJWBMEAyyQGVAK) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [KTS](https://open.spotify.com/album/5FHUBFUyPhl9guiqM5z1DR) | 2:26 | 2025-05-15 | 2025-08-01 |
+| [Kurşun Adres Sormaz Ki](https://open.spotify.com/track/7rCJlWtpNCwegGXECRLwnk) | [Ebru Gündeş](https://open.spotify.com/artist/5AboYJAlMb9FGadTTDKRoN) | [Akustik 2](https://open.spotify.com/album/0Iy1sZOXc3JBSE7HOuHdzs) | 5:28 | 2025-11-13 |  |
 | [Kutuplar](https://open.spotify.com/track/6enbvLSRJJbmcovxPheEC2) | [Murat Güneş](https://open.spotify.com/artist/61F5kPiTYCmmRJprI90WCs), [Aynur Aydın](https://open.spotify.com/artist/27TH57uXZezzxdlmbbyWQU) | [Kutuplar](https://open.spotify.com/album/6EbgIudVop3N3cyyuX5ihF) | 3:00 | 2025-08-21 | 2025-09-05 |
 | [Kör Sevdam](https://open.spotify.com/track/2RlpOjMTH17Gf0F0AM40Lw) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Kör Sevdam](https://open.spotify.com/album/5LnSokIxzuo1rVOdq6plPa) | 3:11 | 2025-05-22 |  |
 | [KÖRKÜTÜK](https://open.spotify.com/track/6iostOh9TPow9esciyRHSE) | [Derya Bedavacı](https://open.spotify.com/artist/6eBKQVpzyvlMoQaR7buvX8) | [KÖRKÜTÜK](https://open.spotify.com/album/5iO1DlqpjKLdGTgKfuKa7E) | 3:50 | 2024-07-18 | 2024-09-15 |
@@ -326,7 +327,7 @@
 | [Sesini Duymadan](https://open.spotify.com/track/7rdh1nIXma6TGcAjUg73EP) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz), [Eda Sakız](https://open.spotify.com/artist/43kof4zqki1s51xx3bX8wB) | [Sesini Duymadan](https://open.spotify.com/album/1inriD9tYt18qtoKy3lppN) | 2:53 | 2025-08-15 |  |
 | [Sesini Duymam Lazım](https://open.spotify.com/track/0RPc5Dd42QIxwXWWziBvCZ) | [Cem Belevi](https://open.spotify.com/artist/5yhN4qXpv9cghmJglovvmg) | [CEMiyet Beach](https://open.spotify.com/album/29irqiFigkCaqcK5d5Feej) | 2:20 | 2024-07-18 | 2024-08-20 |
 | [Sessizim](https://open.spotify.com/track/3sHbx4dQJkdUTAxKkHMxTr) | [Mustafa Mert Koç](https://open.spotify.com/artist/7EEw1AEDeS0ldNfmixIOqi) | [Sessizim](https://open.spotify.com/album/2ma8ecolQnN4TFK9Gsu1JG) | 3:01 | 2024-06-27 | 2025-10-24 |
-| [Sevda Treni](https://open.spotify.com/track/1E14MPC2yAEbABOqVf4U0n) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Sevda Treni](https://open.spotify.com/album/4emRxiAVJFfRSxf0erdzz4) | 2:32 | 2025-07-17 |  |
+| [Sevda Treni](https://open.spotify.com/track/1E14MPC2yAEbABOqVf4U0n) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Sevda Treni](https://open.spotify.com/album/4emRxiAVJFfRSxf0erdzz4) | 2:32 | 2025-07-17 | 2025-11-19 |
 | [Sevdam](https://open.spotify.com/track/1kxyTI6tIkozvTlLXaa4ER) | [Bilal Sonses](https://open.spotify.com/artist/6iBdV6h17D1kOnK9lFyWo3), [Zehra](https://open.spotify.com/artist/2kdaYJfJVIGBaNcMmrg13p) | [Sevdam](https://open.spotify.com/album/1dz1wwRN1kFoxNCimPiDm6) | 3:11 | 2024-06-27 | 2025-02-07 |
 | [Sevilmeye Doy Diye](https://open.spotify.com/track/47gwZxbkrZ4ko9nKheRsTH) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Anlatasım Var](https://open.spotify.com/album/2qMIz3YNB30GPbj6hTurWQ) | 3:52 | 2025-11-06 |  |
 | [Seviyore Mi](https://open.spotify.com/track/03akFZOY1Gpe6gnBjq3ZzM) | [Nazan Öncel](https://open.spotify.com/artist/4li4dx5mFgZlMVeHlARBHP) | [Seviyore Mi](https://open.spotify.com/album/4wZIEKXg8VAFfFtgkH9MOw) | 2:22 | 2024-07-11 | 2024-07-24 |

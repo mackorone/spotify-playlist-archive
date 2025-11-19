@@ -4,7 +4,7 @@
 
 > Soothing rolling thunder sounds, all through the night...
 
-179 songs - 8 hr 32 min
+180 songs - 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Pouring Thunder Above The Ocean](https://open.spotify.com/track/67YztHRQ5ntq11LRrWN9KO) | [Somnolency](https://open.spotify.com/artist/6jBbuQOiZPrPl6Ehv7Lahb) | [Pouring Thunder Above The Ocean](https://open.spotify.com/album/2R6feIQUjvZFaauQAJM0Hw) | 3:04 | 2022-10-28 |  |
 | [Rain & Thunder Outside The Palace](https://open.spotify.com/track/5H6GwQZbsw9LSewKcfb57O) | [Royal Rain](https://open.spotify.com/artist/2C32BFATM0fyN4FFTl3fHe) | [Rain For The Queen](https://open.spotify.com/album/2q0IUlA89T4UMf4n4j2DMR) | 3:30 | 2022-10-28 |  |
 | [Rain and Thunder](https://open.spotify.com/track/0FjuflbopkwyPdYlo1dx8D) | [Lissening](https://open.spotify.com/artist/0nKn7U6mLdh9AtbUvK5dja) | [Thunderstuck](https://open.spotify.com/album/0XlwevCM65m1dwMbmOVqNr) | 3:44 | 2023-09-20 |  |
-| [Rain Distant Thunder Samos](https://open.spotify.com/track/11tPKEkyvvguwJcghHEqhW) | [Drakir Nature](https://open.spotify.com/artist/3bbyEDM22FIFzuaCTYFonZ) | [Rain & Thunder Samos](https://open.spotify.com/album/6xmwcrMZbAxNsnuCrbbfsC) | 2:25 | 2023-09-20 |  |
+| [Rain Distant Thunder Samos](https://open.spotify.com/track/11tPKEkyvvguwJcghHEqhW) | [Drakir Nature](https://open.spotify.com/artist/3bbyEDM22FIFzuaCTYFonZ) | [Rain & Thunder Samos](https://open.spotify.com/album/6xmwcrMZbAxNsnuCrbbfsC) | 2:25 | 2023-09-20 | 2025-11-19 |
 | [Rain On The Porch](https://open.spotify.com/track/0bXYBIzlncmj0LwOd3J5wn) | [Miraflor](https://open.spotify.com/artist/5klckE2u6tdpVIyLQ3REgo) | [Relaxing Rain Sounds](https://open.spotify.com/album/1MvTpPYBFMJNYkThlmdC2l) | 2:47 | 2022-10-28 |  |
 | [Rain with Rolling and Clapping Thunder](https://open.spotify.com/track/4ndtxpFn1DfrKoXwsSnNug) | [In Natura](https://open.spotify.com/artist/0g2QtLAW2w9KQV66KkwOu7) | [ETERNAL RAIN](https://open.spotify.com/album/2cCYxYXcBC89F7cLRT0IXF) | 2:08 | 2022-10-28 |  |
 | [Raining Rolling Thunder](https://open.spotify.com/track/7e3Hn9AFgrZrYgAZMJsvDb) | [Creatress](https://open.spotify.com/artist/6wwfROG3fnqz3jyGV3ngPQ) | [Thunder & Rain](https://open.spotify.com/album/3N3P2MRUuDVC6E6Z4ZdOjE) | 3:42 | 2022-10-28 |  |
@@ -116,6 +116,7 @@
 | [Soft Thunders](https://open.spotify.com/track/0ru1Q1p2CUz9fuc0yNLpHw) | [Oceanica](https://open.spotify.com/artist/5XecShujxcNg7fz68DP8nD) | [By The Window](https://open.spotify.com/album/2pwFiAHfav6jV6aKOI7ruL) | 2:05 | 2023-01-13 |  |
 | [Sonido Dormido](https://open.spotify.com/track/1gWCfhUtzEtOkWS5lM6zca) | [Dormir Dan](https://open.spotify.com/artist/2B8ofgf0e96eyGnXfYNtST) | [Dormir Dan](https://open.spotify.com/album/3uBJcpWWkUjf67rmvtJ4Fc) | 2:10 | 2022-10-28 |  |
 | [Soothing Rain & Thunder](https://open.spotify.com/track/7fiPcWHNvqwbKZ0yexMqt4) | [Naturalis](https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB) | [Soothing Rain & Thunder](https://open.spotify.com/album/4MokIJuPIONaS9P5SLwjsX) | 3:47 | 2023-09-20 |  |
+| [Stay Inside](https://open.spotify.com/track/3hdJ1hzaVj0qm1DTVX1WNi) | [Noise Matters](https://open.spotify.com/artist/4NZCehSaIGVPKa1nGQZqJA) | [Stay Inside](https://open.spotify.com/album/4ioM7nm8czvI2P0iKntTRj) | 3:11 | 2025-11-11 |  |
 | [Storm Away](https://open.spotify.com/track/4JU9FYKj4K1eaey9SazCKE) | [Brontology](https://open.spotify.com/artist/2wV6tmD1aCH03G6uBqVOMp) | [Liquid Storm](https://open.spotify.com/album/1bBZfJGjFBeohv2Mdigyti) | 2:16 | 2022-10-28 |  |
 | [Storm Away](https://open.spotify.com/track/2aRwU4NEBchyPIAvzONd67) | [Dark Thunder Forest](https://open.spotify.com/artist/7HnH9fTkvDwEgTit9qwe9d) | [Dark Thunder 2](https://open.spotify.com/album/2JDGCTkC92RckQGlOeUEch) | 2:42 | 2022-10-28 |  |
 | [Storm From The North](https://open.spotify.com/track/6suFVz8lztiEwk7WFcM1TN) | [Stormie](https://open.spotify.com/artist/2brtdNdmDGrLUcEGmE3a8y) | [Storm From The North](https://open.spotify.com/album/1uHb3rCfRwo9UTNKvXt7hd) | 2:44 | 2022-10-28 |  |
@@ -142,7 +143,7 @@
 | [Thunder and Rain](https://open.spotify.com/track/5KV2iZahicmCkHPOiFIewm) | [Weather Pass](https://open.spotify.com/artist/2H3oeCocy2EKakpX7Es1T5) | [Loud Thunder Boom](https://open.spotify.com/album/4zIvNSA5x4h6QIC5FdLGuJ) | 1:54 | 2023-09-20 | 2025-07-13 |
 | [Thunder and Rain Sleep Sound](https://open.spotify.com/track/3HD9I4sCFAIgZ8DR8DzFkI) | [Louis Lightning](https://open.spotify.com/artist/1sOxydo8E7OEF5ctUaqcnK) | [Thunder and Lightning Relaxation](https://open.spotify.com/album/3s966QfBSAUptLaLnwXWHR) | 2:57 | 2023-09-20 | 2025-10-17 |
 | [Thunder and Rain Sounds for Sleep](https://open.spotify.com/track/1IPWimN1vmECIFzZbhzuSk) | [Pure Relaxing Vibes](https://open.spotify.com/artist/4XdPbkEAdTU7KDmfOCIakS) | [Thunderstorm Sounds for Sleep](https://open.spotify.com/album/4yeyKUHbsCyfW4sLM8zFlV) | 8:19 | 2022-10-28 | 2023-01-06 |
-| [Thunder and Roses](https://open.spotify.com/track/5lWm9HCGQFmPA0kgCPfYAY) | [Trueno Tropical](https://open.spotify.com/artist/1u9cwMm7ARcvZ2q2fV7UWW) | [Lightning in the Twilight](https://open.spotify.com/album/061t0ST7V9KjdQayPS1dvJ) | 2:22 | 2023-09-20 |  |
+| [Thunder and Roses](https://open.spotify.com/track/5lWm9HCGQFmPA0kgCPfYAY) | [Trueno Tropical](https://open.spotify.com/artist/1u9cwMm7ARcvZ2q2fV7UWW) | [Lightning in the Twilight](https://open.spotify.com/album/061t0ST7V9KjdQayPS1dvJ) | 2:22 | 2023-09-20 | 2025-11-19 |
 | [Thunder Around The Clock](https://open.spotify.com/track/6UDwp5I6QMzgJEv4czsG48) | [Lunacy](https://open.spotify.com/artist/1YrzJskaD4814wEI0N3mof) | [Century Storm](https://open.spotify.com/album/3RXln41pnRqCopG98l1jzJ) | 2:20 | 2022-10-28 |  |
 | [Thunder From The Patio](https://open.spotify.com/track/01gNkIQ1DRW42K1LX8Y3ZZ) | [Kuling](https://open.spotify.com/artist/4q17IksiUGgRMQAkVRmbhH) | [Thunder from the patio](https://open.spotify.com/album/66ePsaO4Ssm1oQmgTk7cDr) | 2:47 | 2023-09-20 | 2024-12-30 |
 | [Thunder in my Head](https://open.spotify.com/track/4HSAqiUMTApKA1fcfkUitG) | [Astrinity](https://open.spotify.com/artist/1w4jhXTFvr5k1Zk7GJ7Iyq) | [Lightning in the Afternoon](https://open.spotify.com/album/0Mu1JfxyBPhMs5o4c1wTKa) | 2:56 | 2023-09-20 |  |
@@ -181,7 +182,7 @@
 | [Tropical Queensland Storm](https://open.spotify.com/track/0x6PMqz9jSDPDPqKwRhUjj) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [The Listening Planet](https://open.spotify.com/artist/0ibpxyRfuKDpHxLbMzji2Y) | [Thunderstorm Symphony](https://open.spotify.com/album/4XekPC0v7XEE3i8JVZM6qk) | 3:25 | 2024-04-15 |  |
 | [Tumult Weather](https://open.spotify.com/track/0MACB4R2mVmzfoNDJlgGeI) | [Lunacy](https://open.spotify.com/artist/1YrzJskaD4814wEI0N3mof) | [Tumult Weather](https://open.spotify.com/album/42P8aCd9vU9wAr98WeklKs) | 2:06 | 2022-10-28 |  |
 | [Under The Umbrella \- Seamless](https://open.spotify.com/track/4XtdcXBOp3tFW3mUtBvTCx) | [Tranquility Sound Machine](https://open.spotify.com/artist/7rdHn837SCQCIZ1HOQsJsj) | [Under The Umbrella](https://open.spotify.com/album/5JLXavSqFrPocNKfXVqmLy) | 2:55 | 2023-09-20 |  |
-| [Verdant Dreamland](https://open.spotify.com/track/375sTVKVgMi8pAc6UQGTXr) | [Lauren Whyatt](https://open.spotify.com/artist/6VrqstTqqTtV7nG13WRvrx) | [Verdant Dreamland](https://open.spotify.com/album/4IxDsU15b0fETy7T7lXHQl) | 4:51 | 2024-06-10 | 2025-06-10 |
+| [Verdant Dreamland](https://open.spotify.com/track/375sTVKVgMi8pAc6UQGTXr) | [Lauren Whyatt](https://open.spotify.com/artist/6VrqstTqqTtV7nG13WRvrx) | [Verdant Dreamland](https://open.spotify.com/album/4IxDsU15b0fETy7T7lXHQl) | 4:51 | 2024-06-10 |  |
 | [Wednesday](https://open.spotify.com/track/5oJjJo0k8XduWQIrskmxZ9) | [Altostratus](https://open.spotify.com/artist/0F1KiweoRWIIKbgKWTHaua) | [Storm in the fields](https://open.spotify.com/album/1jffCmND2gYAn2JHomEP2n) | 2:29 | 2023-02-13 |  |
 | [Wind Storm, Rain & Far Thunder \(Stereo & HD\)](https://open.spotify.com/track/1eBBOLXyIfNyWHnHxwWVqV) | [Sound of the Wilderness](https://open.spotify.com/artist/3dhmYlIkKaYTdTqh1O7wLX) | [Thunder Stories \- Stereo HD Sounds](https://open.spotify.com/album/5BTff57UJusB5TgQyIV7CK) | 2:00 | 2022-10-28 |  |
 | [Windy Green Noise](https://open.spotify.com/track/7vTHgLyabM4wWJDy6S81d1) | [Contented](https://open.spotify.com/artist/5MxzFMVa5rVuZ08lD4gDNP) | [Windy Green Noise](https://open.spotify.com/album/0UaYMl1fr54ct0cZe8Z8g7) | 2:30 | 2025-07-23 | 2025-11-12 |

@@ -1780,7 +1780,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 194500,
       "name": "Body",
       "url": "https://open.spotify.com/track/3hH3ypxqE0JwYq4mfyYmlD"
@@ -4681,6 +4681,28 @@
     },
     {
       "album": {
+        "name": "ICE",
+        "url": "https://open.spotify.com/album/2EZhgvO9ff4pxyfeLp3B0G"
+      },
+      "artists": [
+        {
+          "name": "MERO",
+          "url": "https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ"
+        },
+        {
+          "name": "Amo",
+          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139000,
+      "name": "ICE",
+      "url": "https://open.spotify.com/track/2ecao7k4l0ADD4ZANUkQDr"
+    },
+    {
+      "album": {
         "name": "Ice 2 Water",
         "url": "https://open.spotify.com/album/07QpZOg940gjr7NqqtdPTd"
       },
@@ -6268,6 +6290,24 @@
       "duration_ms": 188571,
       "name": "MAMACITA",
       "url": "https://open.spotify.com/track/3qxnil0JyAWGS3vWxJyXEi"
+    },
+    {
+      "album": {
+        "name": "Marbella",
+        "url": "https://open.spotify.com/album/1TBOrXCDn26WX5L5xy0VDt"
+      },
+      "artists": [
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142153,
+      "name": "Marbella",
+      "url": "https://open.spotify.com/track/3kUkQYLPgw2aqBMcilZ4kt"
     },
     {
       "album": {
@@ -10200,7 +10240,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 222093,
       "name": "Trap Queen",
       "url": "https://open.spotify.com/track/5iNRPN7oYQvdB9AmeSW6d3"

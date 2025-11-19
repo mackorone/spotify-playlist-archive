@@ -1,12 +1,12 @@
 {
   "description": "This is Dolly Parton. The essential tracks, all in one playlist.",
-  "num_followers": 254356,
+  "num_followers": 254348,
   "original_name": "This Is Dolly Parton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRkUAAAAAAA0uY2rZbjDwajD/7d7PXWq",
+  "snapshot_id": "aRplgAAAAAC7CvOu71JNQBQGMTDamV2W",
   "tracks": [
     {
       "added_at": null,
@@ -144,7 +144,7 @@
           "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 176093,
+      "duration_ms": 177404,
       "name": "I Will Always Love You",
       "url": "https://open.spotify.com/track/6nRvgo4ySezQKD1D7NIqAu"
     },
@@ -472,7 +472,7 @@
           "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 187560,
+      "duration_ms": 189989,
       "name": "My Tennessee Mountain Home",
       "url": "https://open.spotify.com/track/6rQlfR31QLNCBrq0no1Qc2"
     },
@@ -639,6 +639,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eagle When She Flies",
+        "url": "https://open.spotify.com/album/2YWXeKsHZVctFXi45IiS4n"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Ricky Van Shelton",
+          "url": "https://open.spotify.com/artist/4uaaRGr9KMfYPDaUnBIngc"
+        }
+      ],
+      "duration_ms": 206306,
+      "name": "Rockin' Years (with Ricky Van Shelton)",
+      "url": "https://open.spotify.com/track/7rRvH22GRxGvsz1d2AnRXM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Trio (2016 Remaster)",
         "url": "https://open.spotify.com/album/4sQEu1QnbFvtYItC4mQSO4"
       },
@@ -663,26 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eagle When She Flies",
-        "url": "https://open.spotify.com/album/2YWXeKsHZVctFXi45IiS4n"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Ricky Van Shelton",
-          "url": "https://open.spotify.com/artist/4uaaRGr9KMfYPDaUnBIngc"
-        }
-      ],
-      "duration_ms": 206306,
-      "name": "Rockin' Years (with Ricky Van Shelton)",
-      "url": "https://open.spotify.com/track/7rRvH22GRxGvsz1d2AnRXM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love Is Like a Butterfly",
         "url": "https://open.spotify.com/album/3MLoZC9rEBvyA2zLKBNYxT"
       },
@@ -692,7 +692,7 @@
           "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 140733,
+      "duration_ms": 143398,
       "name": "Love Is Like a Butterfly",
       "url": "https://open.spotify.com/track/7d4hiv8TcJ2vx9BjSxqvj8"
     },
@@ -851,6 +851,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "New Harvest...First Gathering",
+        "url": "https://open.spotify.com/album/1cvsUKsk753nko4CmpzG4H"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 315613,
+      "name": "You Are",
+      "url": "https://open.spotify.com/track/6okcxWVQetuXyRKMcVqJXZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Let It Be (feat. Paul McCartney and Ringo Starr)",
         "url": "https://open.spotify.com/album/33BWIVo4IBWijRDKMMB5bV"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 267859,
       "name": "Let It Be (feat. Paul McCartney and Ringo Starr)",
       "url": "https://open.spotify.com/track/67eBprqjXUiKOzoK2jgsCe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "New Harvest...First Gathering",
-        "url": "https://open.spotify.com/album/1cvsUKsk753nko4CmpzG4H"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 315613,
-      "name": "You Are",
-      "url": "https://open.spotify.com/track/6okcxWVQetuXyRKMcVqJXZ"
     },
     {
       "added_at": null,

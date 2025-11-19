@@ -4,7 +4,7 @@
 
 > 恋してるあなたに寄り添う、素敵なラブソングを集めました。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-486 songs - 1 day 6 hr 41 min
+487 songs - 1 day 6 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Darlin'](https://open.spotify.com/track/2sf21oF3XMuEl5uj7zS3oE) | [Yumcha](https://open.spotify.com/artist/2xZeyR38yb0Wru7qwAeT1g) | [Darlin'](https://open.spotify.com/album/6iBVOqqrsWUaI4zN2c0GxQ) | 3:06 | 2023-11-28 | 2023-11-30 |
 | [Darlin'](https://open.spotify.com/track/49gahZG8BL6CDL0fcO03cY) | [Yumcha](https://open.spotify.com/artist/2xZeyR38yb0Wru7qwAeT1g) | [Darlin'](https://open.spotify.com/album/2qlU1ZkAgL649iwJ9O8aLU) | 3:06 | 2023-11-28 | 2023-12-27 |
 | [Darling Darling](https://open.spotify.com/track/0UfmsjmAUJ5MjlbmuBHbXd) | [有華](https://open.spotify.com/artist/762RAUTV6WKHmrHR7fsFbj) | [Darling Darling](https://open.spotify.com/album/4iAOVZNJxnoNwhHqasovuY) | 2:42 | 2023-07-04 | 2023-07-12 |
-| [DASAI DAZAI](https://open.spotify.com/track/2gzCeQDiECL9uzrca3sM4j) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [あにゅー](https://open.spotify.com/album/6FPxMWiR2LQvKDuVU0ifEH) | 2:50 | 2025-10-10 |  |
+| [DASAI DAZAI](https://open.spotify.com/track/2gzCeQDiECL9uzrca3sM4j) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [あにゅー](https://open.spotify.com/album/6FPxMWiR2LQvKDuVU0ifEH) | 2:50 | 2025-10-10 | 2025-11-19 |
 | [die die die](https://open.spotify.com/track/46l3n7oTiju65uPMh9VCY2) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Anone](https://open.spotify.com/album/6GPPBZEsdwoIXFKOe0ZxW0) | 3:29 | 2023-12-05 | 2023-12-22 |
 | [die die die](https://open.spotify.com/track/4xgygQkGuHvz65JkboKJv8) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [あのね](https://open.spotify.com/album/3Zr1XXjQWTazEcW7hnXJCV) | 3:29 | 2023-12-05 | 2023-12-07 |
 | [doudemoii hanashiga shitai](https://open.spotify.com/track/7pbMb6wgeowLSl2ZoN5X31) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [doudemoii hanashiga shitai](https://open.spotify.com/album/1XmBGaPoJeUzBlKLK8pns9) | 3:21 | 2023-10-17 | 2024-03-20 |
@@ -427,6 +427,7 @@
 | [憂い桜](https://open.spotify.com/track/3i1w3l5dnk2sCxVsVHsjuw) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [憂い桜](https://open.spotify.com/album/1YfaIMNRslj7EHBsZw63cz) | 4:35 | 2023-03-02 | 2023-05-31 |
 | [挿入歌](https://open.spotify.com/track/1fVv4ryroKX1SjibfjdwQn) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [挿入歌](https://open.spotify.com/album/59CltZlhPEnyJDJzL9sUL2) | 2:57 | 2025-03-25 | 2025-10-01 |
 | [最低](https://open.spotify.com/track/0qmF7YXfxp15wDexlK1tTt) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [最低](https://open.spotify.com/album/4DV2vgNpPKrd4BS3p2Msb0) | 3:20 | 2023-02-09 | 2024-01-11 |
+| [最低な君に贈る歌](https://open.spotify.com/track/1i11aYHrGaX16sh7Mi1cQm) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [最低な君に贈る歌](https://open.spotify.com/album/6tSyFozZFoCFkdHbM1oq5z) | 4:12 | 2025-11-18 |  |
 | [月並](https://open.spotify.com/track/1gKVnefvQ6beLh3TGvolAT) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [月並](https://open.spotify.com/album/6ftGMbUNSNwaWYYpPQngXW) | 3:34 | 2025-07-15 | 2025-08-20 |
 | [未恋](https://open.spotify.com/track/52Wr1agI0y15cVG3h5H4a6) | [ChoQMay](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [未恋](https://open.spotify.com/album/5BPiP0dIDTPERkRf25y57i) | 3:08 | 2025-01-21 | 2025-02-19 |
 | [本当はね、](https://open.spotify.com/track/16yajBS7lk0QAa5CZnTHo9) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [歌にしてしまえば、どんなことでも許されると思っていた](https://open.spotify.com/album/6PuiGsnDm2d8zKPkK9Iq1e) | 3:21 | 2024-04-16 |  |

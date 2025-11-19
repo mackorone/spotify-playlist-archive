@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: The Lantis
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,398 likes - 128 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,417 likes - 128 songs - 8 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 10 | [Tak Mau Mandiri](https://open.spotify.com/track/4PJ16pijjWai1uXKXhobsC) | [A\. Nayaka](https://open.spotify.com/artist/7pUvDeRGoUPXDN5q3i8e1n), [Gabriella Ekaputri](https://open.spotify.com/artist/73lAkOBolLeP9ZBirROJui) | [Tak Mau Mandiri](https://open.spotify.com/album/2rL1me2uFEGjgCVyinYBDV) | 3:35 |
 | 11 | [Untungnya, Hidup Harus Tetap Berjalan \- Babak Penutup: Untungnya, untungnya \- Live](https://open.spotify.com/track/1zkyWDokMlZnyNANahOEIk) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Babak Penutup: Untungnya, Untungnya \(Live\)](https://open.spotify.com/album/3iDSNry5Y7yIuFGNqsdEod) | 3:41 |
 | 12 | [CERITA ROMANSA](https://open.spotify.com/track/2DbFzTzMVHnHLBw2GX2oFC) | [Sandhy Sondoro](https://open.spotify.com/artist/4sZCNSc9bpEa6bjM8Z3NOu) | [CERITA ROMANSA](https://open.spotify.com/album/2rcoMGGxPi17x0aAGzIdkN) | 3:55 |
-| 13 | [Sajak Rindu](https://open.spotify.com/track/4NivuhjN2tXk6UstgauLpS) | [Peter Holly](https://open.spotify.com/artist/6jjRl6DiuWp03YdfGGI4fb) | [Sajak Rindu](https://open.spotify.com/album/4IOXsITT4m02DPVGrMREGd) | 4:31 |
+| 13 | [Buang Mantan](https://open.spotify.com/track/4NivuhjN2tXk6UstgauLpS) | [Tenny TAP](https://open.spotify.com/artist/2mjuC8gdXeRJkfWqHkZ62P) | [Buang Mantan](https://open.spotify.com/album/4IOXsITT4m02DPVGrMREGd) | 4:07 |
 | 14 | [Makin Aku Cinta](https://open.spotify.com/track/5CtyREB80zdg676XLxgqEb) | [Glenn Samuel](https://open.spotify.com/artist/26ez0LOxJMgy1GkkXhZiCV), [Brisia Jodie](https://open.spotify.com/artist/0GxxkBLH2uLa4b3URWudGb), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [GLENN](https://open.spotify.com/album/38JgbBDqJCfyUkuzBmzreB) | 4:28 |
 | 15 | [Segalanya Itu Kamu](https://open.spotify.com/track/3g8wJXQRebkJl1fMZzRqdj) | [David Bayu](https://open.spotify.com/artist/3jeN1xOULuoVF6284LDaQO) | [Segalanya Itu Kamu](https://open.spotify.com/album/6OX62qJnN2Nvr3BGulsZXC) | 3:55 |
 | 16 | [Mengejar Restu](https://open.spotify.com/track/3EpdvBbPB94mrFKeYgTYKB) | [Panji Sakti](https://open.spotify.com/artist/1zJG0BbOnVVijQXfYYibvD) | [Mengejar Restu](https://open.spotify.com/album/0ICYOvGIjUyTBqeR0PQJdI) | 5:13 |

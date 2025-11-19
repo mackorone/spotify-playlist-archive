@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: Antonin Padilla
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,131 likes - 95 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,160 likes - 95 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 75 | [No Me Preocupo Tanto](https://open.spotify.com/track/6ZCL1JXiW9kVGdz56lHWoB) | [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Los Ultimos Son Los Primeros](https://open.spotify.com/album/3drj9hFTaeneCFvq7yJKb4) | 2:33 |
 | 76 | [105 y 710](https://open.spotify.com/track/7HtnVFdeKSKHgAPNjJyOjv) | [Otro Nivel](https://open.spotify.com/artist/2dCsNoreGt2dkckeSrszzp) | [105 y 710](https://open.spotify.com/album/5vsNJavSLxTDLLz9d1oVz0) | 2:11 |
 | 77 | [Primer Amor](https://open.spotify.com/track/7esQPmazvqpOYHK7lmjIpM) | [Fabio Capri](https://open.spotify.com/artist/1SvS3C2cttLfpWzIIQiPAq) | [Primer Amor](https://open.spotify.com/album/0nSYplRW2IQwcNHQE4r3pG) | 2:48 |
-| 78 | [PLAYBOY](https://open.spotify.com/track/7bzhUIMCvFQp6hUyStv80H) | [Daniel Garcia](https://open.spotify.com/artist/5i2Jd6V3K4WdpXAqvQtCrE) | [Sin Rumbo](https://open.spotify.com/album/6A9AcyUAEfykm4rB37PBOi) | 3:23 |
+| 78 | [PLAYBOY](https://open.spotify.com/track/7bzhUIMCvFQp6hUyStv80H) | [Daniel Garcia](https://open.spotify.com/artist/5i2Jd6V3K4WdpXAqvQtCrE), [Sintapia](https://open.spotify.com/artist/5SWXhtigdFs6Q9Wqri5ROo) | [Sin Rumbo](https://open.spotify.com/album/6A9AcyUAEfykm4rB37PBOi) | 3:23 |
 | 79 | [vete de una vez](https://open.spotify.com/track/6RM6EWJjDuvjwkUBqbyMhl) | [Julio Caesar](https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K) | [vete de una vez](https://open.spotify.com/album/3ZRctlFN64rCLSXvCHRsW2) | 3:40 |
 | 80 | [Amo](https://open.spotify.com/track/0QieT45vFvqEkzrcbIz01s) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Amo](https://open.spotify.com/album/4ePqxgdhLET9p96yDVvLr1) | 3:39 |
 | 81 | [CRF](https://open.spotify.com/track/0l12Eb0ybqQ9DpZbZPXaO0) | [JPL](https://open.spotify.com/artist/618X9qfrn7Cu3dQ17TBEWd) | [CRF](https://open.spotify.com/album/1DcsUQ0GPAlguIH25YtEjg) | 2:53 |

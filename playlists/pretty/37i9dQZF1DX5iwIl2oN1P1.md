@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 
 > All new Gospel songs on the rise! Cover: Ariel Fitz\-Patrick
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,265 likes - 74 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,301 likes - 74 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

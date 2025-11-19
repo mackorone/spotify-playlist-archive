@@ -4,7 +4,7 @@
 
 > Relaxing music with soft nature sounds for meditation, sleep or to just enjoy.
 
-272 songs - 12 hr 45 min
+273 songs - 12 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,7 +176,7 @@
 | [On the Cottage Floor](https://open.spotify.com/track/0yjeRqDkfvT9iMXusDp7dq) | [Birdwalk House](https://open.spotify.com/artist/3RJY7q5VlfcdnlUTjeGCGM) | [A Cottage in a Storm](https://open.spotify.com/album/71BxdqhFXfv0W60R82WgQ1) | 2:46 | 2023-03-03 | 2024-11-23 |
 | [One last call](https://open.spotify.com/track/5NJyS0aFGLhFW35NmEnnS8) | [Phases of You](https://open.spotify.com/artist/04f6XeDUKqybwfbSheAoWv) | [Entre tus manos](https://open.spotify.com/album/5loAom6m6jvgODXh7J3QqK) | 2:14 | 2023-03-03 | 2023-07-22 |
 | [Open Windows](https://open.spotify.com/track/0haM4uUy5Gl0qVdyn6csKG) | [Leonore Baldwin](https://open.spotify.com/artist/6ZlHe1gzZkHFr83kgRkxNA) | [Open Windows](https://open.spotify.com/album/2ieEchgcw6pTWoQSpNPDt7) | 2:42 | 2023-03-03 | 2025-06-12 |
-| [Paladin Diversum](https://open.spotify.com/track/60r8LX6fGaLQYjYCdBB2Kp) | [Los Sobriles](https://open.spotify.com/artist/3JST5hIfjYPRqhKMJXqku2) | [Paladin Diversum](https://open.spotify.com/album/2S05YvCq7NM8x57DIb73ur) | 3:16 | 2024-02-06 |  |
+| [Paladin Diversum](https://open.spotify.com/track/60r8LX6fGaLQYjYCdBB2Kp) | [Los Sobriles](https://open.spotify.com/artist/3JST5hIfjYPRqhKMJXqku2) | [Paladin Diversum](https://open.spotify.com/album/2S05YvCq7NM8x57DIb73ur) | 3:16 | 2024-02-06 | 2025-11-19 |
 | [Panacea](https://open.spotify.com/track/3fmRwSmm3MkItB5cUMr4YE) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Panacea](https://open.spotify.com/album/2bLZwZtd96totLeWRYrq2f) | 2:46 | 2024-05-01 |  |
 | [Panorama Sky](https://open.spotify.com/track/7l17NcC5dUhh2ZnYHUCcoA) | [Willow Skies](https://open.spotify.com/artist/7vD3hGQ6SFDLUy0i4UDirc) | [Panorama Sky](https://open.spotify.com/album/6f7mYP43UkkoHAHYPvRRYw) | 2:52 | 2025-03-19 |  |
 | [Part 1, Good Morning Tubac](https://open.spotify.com/track/3ZrVhaB84vn6hJiZrLi0DE) | [Chad Crouch](https://open.spotify.com/artist/5JRxfOFTlqoWivEpflMHjq) | [Anza Trail Soundwalk](https://open.spotify.com/album/0r0kniPp7rZPRahBAKZTY3) | 1:48 | 2023-04-13 | 2023-10-07 |
@@ -187,6 +187,7 @@
 | [Pentode](https://open.spotify.com/track/3R3XZJ6HPrGIuBXdHehp9W) | [No Pude Detenerme](https://open.spotify.com/artist/5PPQ1GQmwabzQpN9W7ihoN) | [Pentode](https://open.spotify.com/album/7s4sByi9wlNJ4Dd07s0K9A) | 2:39 | 2023-03-03 | 2024-07-19 |
 | [Pitter Patter](https://open.spotify.com/track/7JHGHOEQA2xhiraQESNSyu) | [A Long Story](https://open.spotify.com/artist/1RFdkmm7AtmHeZTrdoJOFI) | [Pitter Patter](https://open.spotify.com/album/6vroyHfRe7dytL34m4yatE) | 2:42 | 2023-03-03 | 2025-05-30 |
 | [Placid Creek](https://open.spotify.com/track/5c1dou6CFIqAkk2Dlp7ZHp) | [Refugium](https://open.spotify.com/artist/4zMvYPGhp76vbz8bGgxjjC) | [Placid Creek](https://open.spotify.com/album/6RT2AFbIMyhRSYY1A0rpW7) | 2:59 | 2024-03-01 |  |
+| [Portobelloh](https://open.spotify.com/track/2SE0r08kOZJiIB2DwtDZX1) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Portobelloh](https://open.spotify.com/album/6sQqMQqYtyXGBT7mJHW2M3) | 2:56 | 2025-09-24 |  |
 | [quiet plateau \- ambient room mix](https://open.spotify.com/track/4ED5zjEGxTIY2oUHgqidGB) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [the piano next door](https://open.spotify.com/album/7pVqb2flsJL6zX6ly0VoR2) | 2:40 | 2023-03-03 | 2025-05-08 |
 | [Quiet Soul](https://open.spotify.com/track/0BHSOKE86hjSpxuUrnsLpo) | [The Sun Door](https://open.spotify.com/artist/4mIc8FKCkWqviS6jlZ4cyc) | [Quiet Soul](https://open.spotify.com/album/31jhmj4AZRdyLy2HcYozXz) | 3:18 | 2023-07-28 |  |
 | [Rainy Day Alone](https://open.spotify.com/track/7sLGSLFtNwNKCCiv2QlvTc) | [Birdwalk House](https://open.spotify.com/artist/3RJY7q5VlfcdnlUTjeGCGM) | [A Cottage in a Storm](https://open.spotify.com/album/71BxdqhFXfv0W60R82WgQ1) | 2:15 | 2023-03-03 | 2024-03-02 |

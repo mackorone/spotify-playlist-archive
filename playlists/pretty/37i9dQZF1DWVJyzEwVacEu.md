@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJyzEwVacEu.md) - [plain]
 
 > De bekendste hits in NL 📻\. Cover: Lady Gaga
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,497 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,495 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

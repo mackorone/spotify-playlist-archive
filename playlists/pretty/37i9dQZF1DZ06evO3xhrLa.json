@@ -1,12 +1,12 @@
 {
   "description": "This is Jhen\u00e9 Aiko. The essential tracks, all in one playlist.",
-  "num_followers": 243784,
+  "num_followers": 243799,
   "original_name": "This Is Jhen\u00e9 Aiko",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRkUAAAAAACyI4ps3jeSqR60N1c674gt",
+  "snapshot_id": "aRplgAAAAAB0JUJlsOW/mVkSsaKgYRcv",
   "tracks": [
     {
       "added_at": null,
@@ -419,18 +419,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "P*$$Y Fairy (OTW)",
-        "url": "https://open.spotify.com/album/0NC1AcoK5y2cBLwzej6tqE"
+        "name": "Born Sinner (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623"
       },
       "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
         {
           "name": "Jhen\u00e9 Aiko",
           "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
         }
       ],
-      "duration_ms": 181860,
-      "name": "P*$$Y Fairy (OTW)",
-      "url": "https://open.spotify.com/track/48KXAIruJ07kJVCWOGohMV"
+      "duration_ms": 252053,
+      "name": "Sparks Will Fly (feat. Jhen\u00e9 Aiko)",
+      "url": "https://open.spotify.com/track/5fBoh0hqi7shM8a8nfPnDB"
     },
     {
       "added_at": null,
@@ -451,22 +455,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Born Sinner (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623"
+        "name": "P*$$Y Fairy (OTW)",
+        "url": "https://open.spotify.com/album/0NC1AcoK5y2cBLwzej6tqE"
       },
       "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        },
         {
           "name": "Jhen\u00e9 Aiko",
           "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
         }
       ],
-      "duration_ms": 252053,
-      "name": "Sparks Will Fly (feat. Jhen\u00e9 Aiko)",
-      "url": "https://open.spotify.com/track/5fBoh0hqi7shM8a8nfPnDB"
+      "duration_ms": 181860,
+      "name": "P*$$Y Fairy (OTW)",
+      "url": "https://open.spotify.com/track/48KXAIruJ07kJVCWOGohMV"
     },
     {
       "added_at": null,

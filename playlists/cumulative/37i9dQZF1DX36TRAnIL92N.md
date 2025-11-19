@@ -4,7 +4,7 @@
 
 > High energy Techno to boost your workout.
 
-284 songs - 23 hr 31 min
+285 songs - 23 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Frequency Differ \- Original Mix](https://open.spotify.com/track/2XGdv6M567kqNoWLm3KcS3) | [UMEK](https://open.spotify.com/artist/5Hini2nQyoglzpdKe41cZt) | [Frequency Differ](https://open.spotify.com/album/03bFwiXnO9uziaWFdN0DyQ) | 6:49 | 2022-07-05 | 2022-07-28 |
 | [Future Dust](https://open.spotify.com/track/7BbdmhlX1kVgFrn1YlKJG2) | [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Silence EP](https://open.spotify.com/album/1yEygTNMJpqohn7MATAnSc) | 8:29 | 2023-11-10 | 2024-04-19 |
 | [Future Dust \- Original Mix](https://open.spotify.com/track/3dwDBE5AMcHLxemIAEp2xb) | [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Silence EP](https://open.spotify.com/album/0jk2PButBmv8Kqvu5x9Yys) | 8:29 | 2022-07-05 | 2023-11-05 |
+| [Gaana Modam](https://open.spotify.com/track/2au7L8zr6mMuXLPwGmPJBs) | [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU), [Shanti People](https://open.spotify.com/artist/4udXDlf1VbsKEaII28KQLt) | [Gaana Modam](https://open.spotify.com/album/4BUFnidsdwP7fH613sJXs4) | 3:33 | 2025-11-14 |  |
 | [Gasoline](https://open.spotify.com/track/5ardmsHuWc0chy7GzsvrLd) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Gasoline](https://open.spotify.com/album/7CvBP12l6XQHKCkn6hnxeY) | 3:13 | 2024-04-12 | 2025-07-21 |
 | [Geht's noch? \- DJ Gigola Remix](https://open.spotify.com/track/00V7ezFmvR4wv4m7f9PC5A) | [Roman Flügel](https://open.spotify.com/artist/2GvwZbDjH1DbQpodGKENDw), [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [Geht's noch? \(21 Year Anniversary Pt\. 1\)](https://open.spotify.com/album/6KbnDVQVCobouAN8Mkc0B4) | 4:08 | 2025-05-27 | 2025-07-06 |
 | [GENESIS](https://open.spotify.com/track/2NZ8HlZmXQUvDonf24hw34) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [GENESIS](https://open.spotify.com/album/0ooUnGvQJmZap152eUHY0y) | 3:28 | 2024-03-20 | 2024-10-09 |
@@ -267,7 +268,7 @@
 | [Twisted](https://open.spotify.com/track/2hVKyTO50HPKfVmFas7Fcm) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Twisted](https://open.spotify.com/album/41n9tQvEH5vhv5ZcG7ckQp) | 3:04 | 2023-03-29 | 2024-09-16 |
 | [UFOs & LFOs](https://open.spotify.com/track/6ohzW6SWk4erB5DWFGUPaK) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Digital Age](https://open.spotify.com/album/1FS174VHssFFCmZajvmQ6t) | 4:56 | 2022-09-09 | 2023-03-29 |
 | [Underground \- Original Mix](https://open.spotify.com/track/5n6AgtEn2SSGH6ZYuZFQwE) | [Kaspar](https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC) | [Underground \(Original Mix\)](https://open.spotify.com/album/32QwA3nRlFwvewFnRkFric) | 5:41 | 2023-03-30 | 2023-07-24 |
-| [Universal Nation \- Charlotte de Witte Rework](https://open.spotify.com/track/4OrY514bfwTTtykP7s049a) | [Push](https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR), [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Universal Nation \(Charlotte de Witte Rework\)](https://open.spotify.com/album/0xlI8P19mLSH5gPqO2UzPq) | 7:32 | 2024-03-20 |  |
+| [Universal Nation \- Charlotte de Witte Rework](https://open.spotify.com/track/4OrY514bfwTTtykP7s049a) | [Push](https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR), [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Universal Nation \(Charlotte de Witte Rework\)](https://open.spotify.com/album/0xlI8P19mLSH5gPqO2UzPq) | 7:32 | 2024-03-20 | 2025-11-19 |
 | [Up Down Jumper](https://open.spotify.com/track/0evYoPRWnnQ6ACNC0LJPul) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Up Down Jumper](https://open.spotify.com/album/77gAd4MCswYYXswGlBaLbv) | 7:12 | 2022-07-05 |  |
 | [Usp](https://open.spotify.com/track/0hvQ5NMd7h7BrGr4lAVn3Z) | [Heerhorst](https://open.spotify.com/artist/4C3vrP3HDWOph3a6XSAVWR) | [Usp](https://open.spotify.com/album/5GCITrupnOeUYSQCuiX0dh) | 6:24 | 2022-12-16 | 2023-02-01 |
 | [Veritas](https://open.spotify.com/track/6KVUpPL8NJSDHt6OYAi2A8) | [Jay Lumen](https://open.spotify.com/artist/6rxmj7vNEofe96g84qMWoV) | [Veritas](https://open.spotify.com/album/7fKwFEf1MWzZN6kpuCBPGj) | 7:06 | 2023-08-09 | 2023-10-04 |

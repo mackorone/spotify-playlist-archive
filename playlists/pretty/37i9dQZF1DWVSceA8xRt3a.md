@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSceA8xRt3a.md) - [plain]
 
 > Celine Song of A24's Past Lives curates a playlist of "love songs about cities"
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,082 likes - 47 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,106 likes - 47 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSceA8xRt3a.md) - [plain]
 | 4 | [New York, I Love You but You're Bringing Me Down](https://open.spotify.com/track/5rAff9XfcWx7rguN3t0fkW) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Sound of Silver](https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X) | 5:35 |
 | 5 | [Vegas](https://open.spotify.com/track/6IGAhHPpr56zXxxKrErLBe) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Masterpiece](https://open.spotify.com/album/5eSbNHaPAkwpAuo9k0o2YU) | 2:19 |
 | 6 | [Homecoming](https://open.spotify.com/track/4iz9lGMjU1lXS51oPmUmTe) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Chris Martin](https://open.spotify.com/artist/0LQoZQIV0mIs0y0XQb0Sw2) | [Graduation](https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3) | 3:23 |
-| 7 | [San Tropez](https://open.spotify.com/track/3kbUFmLV5SHVQonfOpNgkd) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Meddle](https://open.spotify.com/album/468ZwCchVtzEbt9BHmXopb) | 3:43 |
+| 7 | [San Tropez](https://open.spotify.com/track/3kbUFmLV5SHVQonfOpNgkd) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Meddle](https://open.spotify.com/album/468ZwCchVtzEbt9BHmXopb) | 3:42 |
 | 8 | [Beverly Hills](https://open.spotify.com/track/1yKu2MhpwzDXXH2tzG6xoa) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Make Believe](https://open.spotify.com/album/4D8A8M0NJjEdQhusawyeDz) | 3:16 |
 | 9 | [The Best Ever Death Metal Band in Denton](https://open.spotify.com/track/4AtUqjDgRO2S3jBzAjRvh7) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [All Hail West Texas \(Remastered\)](https://open.spotify.com/album/3yreM49ULtR2xW4fSENo3K) | 2:36 |
 | 10 | [Ghost Ship](https://open.spotify.com/track/61JDaStnXY3vbaEjliB5WA) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Magic Whip](https://open.spotify.com/album/0nSzBICzQHea8grwfqa5Gb) | 4:59 |
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSceA8xRt3a.md) - [plain]
 | 16 | [The Girl from Ipanema](https://open.spotify.com/track/1aucqAQImjlcxcQajOBUAv) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) | [The Collection](https://open.spotify.com/album/4us3GOm42EubfNyOqYf55R) | 3:04 |
 | 17 | [Kansas City](https://open.spotify.com/track/7GoBeudlghOYGNoRuz9yLI) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [Volume II](https://open.spotify.com/album/1xG5S6sfeFZcekU2qjGlGf) | 2:31 |
 | 18 | [Love This Town](https://open.spotify.com/track/3YnijCtsTTpCRE1WKiHmCj) | [Joel Plaskett](https://open.spotify.com/artist/2AHGXy73E91elgCPcDlboC) | [La De Da](https://open.spotify.com/album/6vmFFa2XTEpsB7Z6LGMl98) | 3:30 |
-| 19 | [The Only Living Boy in New York](https://open.spotify.com/track/5MbXzXGbqobR8xPVPs8OXA) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bridge Over Troubled Water](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) | 3:58 |
+| 19 | [The Only Living Boy in New York](https://open.spotify.com/track/5MbXzXGbqobR8xPVPs8OXA) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bridge Over Troubled Water](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) | 4:01 |
 | 20 | [San Francisco Bay](https://open.spotify.com/track/0TaatujAlsDlmmZPLlu5dR) | [Lee Oskar](https://open.spotify.com/artist/0ZjB2OpMQL3LKJyEdeIz7o) | [Before the Rain](https://open.spotify.com/album/1dCO1DxYlCvbRRfX0zZANI) | 7:25 |
 | 21 | [One Great City!](https://open.spotify.com/track/79jIauLDQffSrwtY0ostxv) | [The Weakerthans](https://open.spotify.com/artist/1US3cA3tVZ50O7n4xE1o0K) | [Reconstruction Site](https://open.spotify.com/album/14gpuI6JNy9gekaT0p6m9N) | 2:54 |
 | 22 | [San Diego](https://open.spotify.com/track/27SYHtDA4WsdcLTJx55Sao) | [Starlight Mints](https://open.spotify.com/artist/1PUcFRu2DyznyQS1nVIcEE) | [Built on Squares](https://open.spotify.com/album/1upSOFGjov4vu0lN6XQsPa) | 2:35 |

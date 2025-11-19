@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Uol5MpckMS.md) - [plain]
 
 > Le meilleur des années 60 en 60 titres.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,182 likes - 60 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,189 likes - 60 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Uol5MpckMS.md) - [plain]
 | 13 | [Le pénitencier](https://open.spotify.com/track/6phMPtxOkjdXR8ax9xoCJ9) | [Johnny Hallyday](https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA) | [Le pénitencier](https://open.spotify.com/album/6BIYQZuFPkhbkCl2PHPcj6) | 4:05 |
 | 14 | [Reach Out I'll Be There \- Single Version / Mono](https://open.spotify.com/track/6tYIQpc9rX2wTBtb9Rh37K) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Motown Legends: Bernadette](https://open.spotify.com/album/3XjEIrHExP51C8Iyircdzt) | 2:57 |
 | 15 | [Love Me, Please Love Me](https://open.spotify.com/track/17iPC7fomsZaWXLTZgEmNh) | [Michel Polnareff](https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT) | [Love Me Please Love Me](https://open.spotify.com/album/4V5xtW0tFqjJUlAWHHv1Rg) | 4:20 |
-| 16 | [Suspicious Minds](https://open.spotify.com/track/1H5IfYyIIAlgDX8zguUzns) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [From Elvis in Memphis](https://open.spotify.com/album/3ekkFrfotMsEAKc5g71GHk) | 4:21 |
+| 16 | [Suspicious Minds](https://open.spotify.com/track/1H5IfYyIIAlgDX8zguUzns) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [From Elvis in Memphis](https://open.spotify.com/album/3ekkFrfotMsEAKc5g71GHk) | 4:23 |
 | 17 | [Rock Around The Clock](https://open.spotify.com/track/34AmZ4PMz9iNZVp9AMIGZj) | [Bill Haley & His Comets](https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr) | [Biggest Hits](https://open.spotify.com/album/7iUpDsgeK8MgrUr0Fvmhe7) | 2:17 |
 | 18 | [California Dreamin' \- Single Version](https://open.spotify.com/track/4s6LhHAV5SEsOV0lC2tjvJ) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [If You Can Believe Your Eyes & Ears](https://open.spotify.com/album/76oMr4Y2pOtcrvZLc2ZikF) | 2:42 |
 | 19 | [Somethin' Stupid](https://open.spotify.com/track/3cVWNLd0uEHkc2tnBoE3Ay) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2) | [The World We Knew](https://open.spotify.com/album/00vMwG6tYLzcwXgwvzlzyK) | 2:42 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DTJEE.md) - [plain]
 
 > This is Riley Green\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,187 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,208 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,11 +40,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DTJEE.md) - [plain]
 | 30 | [Good Morning From Mexico](https://open.spotify.com/track/2UzdgpZgL41ZkT3TUnNZPr) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Way Out Here](https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7) | 3:08 |
 | 31 | [They Don’t Make 'Em Like That No More](https://open.spotify.com/track/0Pc3pfJI8DSdvxZkWneH0D) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Ain't My Last Rodeo](https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR) | 3:15 |
 | 32 | [What Am I Supposed To Do Now](https://open.spotify.com/track/4AJ5ij32WW1yI9RgCDBc3n) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Don't Mind If I Do \(Deluxe\)](https://open.spotify.com/album/1zYMNgeczOfopUj0mDK8Nx) | 3:43 |
-| 33 | [Same Old Song](https://open.spotify.com/track/7lBkuyDfK0y6x6N6Zd1Z0U) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Different 'Round Here](https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv) | 3:08 |
+| 33 | [Break Up More Often](https://open.spotify.com/track/6FpSqJRS0786oDMKIDqISd) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Different 'Round Here](https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv) | 3:23 |
 | 34 | [Rather Be](https://open.spotify.com/track/0gLFZFnaOy3Fa2uBApznuW) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Rather Be](https://open.spotify.com/album/0lxxno3J2bozJPkMYLD2X4) | 2:51 |
 | 35 | [Workin' On Me](https://open.spotify.com/track/5yW4e8NG9a14JctdIlXAFt) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Ain't My Last Rodeo](https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR) | 3:36 |
 | 36 | [Cowboy In Me \- Acoustic](https://open.spotify.com/track/6Rfr1N8uFJrORp4AH3XZEg) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Midtown Sessions](https://open.spotify.com/album/7Bk3NQvOA9AgH1JVjnEJdT) | 3:14 |
-| 37 | [Break Up More Often](https://open.spotify.com/track/6FpSqJRS0786oDMKIDqISd) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Different 'Round Here](https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv) | 3:23 |
+| 37 | [Same Old Song](https://open.spotify.com/track/7lBkuyDfK0y6x6N6Zd1Z0U) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Different 'Round Here](https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv) | 3:08 |
 | 38 | [I Let A Damn Good Woman Leave](https://open.spotify.com/track/43ooMII6qHAgHEiFNSrtYa) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Behind The Bar](https://open.spotify.com/album/5okzhzPKByC8n0NxBYD2e5) | 3:32 |
 | 39 | [Ain’t Like I Can Hide It](https://open.spotify.com/track/6Snk73We1i1vuUcd2oRAOA) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Ain't My Last Rodeo](https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR) | 3:00 |
 | 40 | [Where Corn Don’t Grow](https://open.spotify.com/track/6jxQfS8A6yz99wXGpGCLzy) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Where Corn Don't Grow](https://open.spotify.com/album/65ipgpM1Z5TmFj6AAIrP2F) | 4:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DTJEE.md) - [plain]
 | 49 | [Huntin' Land \(feat\. Riley Green\)](https://open.spotify.com/track/6rQvX1oNRAS3p3tyKJpTUl) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS), [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Blue In The Sky](https://open.spotify.com/album/2u0DD4sNHOcgbuJrJyMUu3) | 3:01 |
 | 50 | [Looking Back On This](https://open.spotify.com/track/0n29uT9GJvsN0cWdsVWdEK) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Don't Mind If I Do](https://open.spotify.com/album/5gAHdPbFLoKvpNsD7JK67D) | 3:32 |
 
-Snapshot ID: `aRkUAAAAAABzHihRbysrYMLm6jQHHoVG`
+Snapshot ID: `aRplgAAAAADdnM2sxhACVSKQY4vaEfhr`

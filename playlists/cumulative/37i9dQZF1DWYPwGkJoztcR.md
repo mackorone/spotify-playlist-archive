@@ -4,7 +4,7 @@
 
 > Koffie met gemoedelijke muziek op de achtergrond.
 
-139 songs - 8 hr 0 min
+140 songs - 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [adeline](https://open.spotify.com/track/0xMF4mYFyJXUjJPo3tcO0J) | [Katie Koss](https://open.spotify.com/artist/0tF0BK361CxlAYtmu6WADN) | [i'm changing my mind](https://open.spotify.com/album/7cjunboFq4ymwahQTGiPQB) | 3:54 | 2025-06-27 |  |
 | [Afterlife](https://open.spotify.com/track/53spNZ1E32zh40DupLu6cf) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Afterlife](https://open.spotify.com/album/2nCXDKFnPvlSTH4D119M4V) | 3:01 | 2025-06-27 | 2025-10-18 |
 | [Amen \- Acoustic](https://open.spotify.com/track/2dPlHxjsK1Ol7sUiOj8qnv) | [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Amen \(Acoustic\)](https://open.spotify.com/album/6djsYBWmFpvHuOgcH4CTKO) | 3:30 | 2025-06-27 |  |
+| [Amsterdam](https://open.spotify.com/track/7Get7yGumhmImlPmD1fKOM) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Amsterdam](https://open.spotify.com/album/5Poc7rMFKXvwGejX9WWJfy) | 4:05 | 2025-11-11 |  |
 | [Another Year Will Pass](https://open.spotify.com/track/2kK1NHAOsnl4WmRf4Zlv9B) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Another Year Will Pass](https://open.spotify.com/album/5upyUvc97PJ25cRb1vLLDI) | 3:15 | 2025-10-31 |  |
 | [Anything To Feel Alive](https://open.spotify.com/track/0ZfCPcY1RrPKdY8L5N79YP) | [FRIDAY](https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX), [Alice on the roof](https://open.spotify.com/artist/4M07FSqpxgqLfCOaX1WUei) | [Anything To Feel Alive](https://open.spotify.com/album/68gQpGGfxAXDokf3PBLCzQ) | 4:20 | 2025-06-27 |  |
 | [Apple Tree](https://open.spotify.com/track/3F8qD0jYXjGweKRYv5CQRf) | [Niels Geusebroek](https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l) | [Apple Tree](https://open.spotify.com/album/1iKpZ2BXsPfibh7g897dgx) | 2:58 | 2025-06-27 |  |
@@ -70,7 +71,7 @@
 | [Julianne](https://open.spotify.com/track/67xn8VjUQtGD0ptoKKSfIZ) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Last Night In The Bittersweet](https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x) | 4:51 | 2025-06-27 |  |
 | [July \(feat\. Leon Bridges\)](https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [July \(feat\. Leon Bridges\)](https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic) | 2:32 | 2025-06-27 |  |
 | [Just Say Aye](https://open.spotify.com/track/2FUWdMp90MAPCc1zV0CtQd) | [Daniel Docherty](https://open.spotify.com/artist/186gOhAX0pNXjYldk47D0F), [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Just Say Aye](https://open.spotify.com/album/6aTtPR8tdR33NwAFJg9yyb) | 3:38 | 2025-06-27 | 2025-10-16 |
-| [Kind Of Love](https://open.spotify.com/track/6IBkD70W6Lx4w13dzyYNEn) | [Kris Berry](https://open.spotify.com/artist/0IIPgITtEO4JJfipw57KGv) | [Kind Of Love](https://open.spotify.com/album/0DAoXzBMrgwUt84tXqkKyJ) | 3:54 | 2025-06-27 |  |
+| [Kind Of Love](https://open.spotify.com/track/6IBkD70W6Lx4w13dzyYNEn) | [Kris Berry](https://open.spotify.com/artist/0IIPgITtEO4JJfipw57KGv) | [Kind Of Love](https://open.spotify.com/album/0DAoXzBMrgwUt84tXqkKyJ) | 3:54 | 2025-06-27 | 2025-11-19 |
 | [Kiss Me](https://open.spotify.com/track/5J7FySNDIRY5uENT7PTCtJ) | [FLORE](https://open.spotify.com/artist/5IcU8YO2wyVss4vdA5AN2h) | [Kiss Me](https://open.spotify.com/album/356rRG2NTWd2OAsQJwkdCi) | 2:25 | 2025-06-27 | 2025-11-12 |
 | [Last Forever \- Acoustic](https://open.spotify.com/track/29H7L2HjWj6D36efQRPGBm) | [FRIDAY](https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX) | [Last Forever](https://open.spotify.com/album/6zRmU09G6WpOyEEjyx415P) | 3:14 | 2025-06-27 |  |
 | [Last Goodbyes](https://open.spotify.com/track/6b9lBTcHz4nZzBPJiE1XDM) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [Last Goodbyes](https://open.spotify.com/album/7wpFdJabvBuM8z934d1nuk) | 3:23 | 2025-11-11 |  |

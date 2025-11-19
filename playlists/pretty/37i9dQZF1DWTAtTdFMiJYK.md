@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 
 > Most exciting artists from the Indian Indie scene\. Cover: Aanchal Tyagi
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,471 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,490 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 | 74 | [Kahani](https://open.spotify.com/track/6sMxjlCiYvcfmK8DxfIXeH) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Kahani](https://open.spotify.com/album/7I29dbTNdImBhxnqhOEEWD) | 4:05 |
 | 75 | [Ye Zindagi](https://open.spotify.com/track/76WGQlitFCuX9m4IsChzsq) | [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Ye Zindagi](https://open.spotify.com/album/1Tib7ORYuc7K9nEMADj6ME) | 2:47 |
 
-Snapshot ID: `AAAAAHnuP25Wsvk1s24ULTB+iiB5w99g`
+Snapshot ID: `AAAAAPPikg9YLc8IMf0EFkK4AfeG25Xq`

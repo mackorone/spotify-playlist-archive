@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsQxABZdOtf.md) - [plain]
 
 > <a href="spotify:artist:3L2tOP2vRYfjXVW4W1tKEJ">Nina Las Vegas'</a> favourite tracks\. Updated regularly\. Curated by Nina Las Vegas\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,472 likes - 70 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,473 likes - 70 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsQxABZdOtf.md) - [plain]
 | 12 | [Gold](https://open.spotify.com/track/0BzX5iHjzOJw3j9xK4B5pq) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Gold](https://open.spotify.com/album/0SSa5t24QuJPYXCDCgJadM) | 3:08 |
 | 13 | [Thunder \(feat\. JELEEL!\)](https://open.spotify.com/track/7bp9HAwhRr28gfs0mM3K5p) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [INFINITY CLUB II](https://open.spotify.com/album/65rerxGdYHjGKB9Fx26rYK) | 2:08 |
 | 14 | [Bangalang](https://open.spotify.com/track/27lrXtK8mDFsmQrcatZ71E) | [1300](https://open.spotify.com/artist/34dKvFZNwGaM0NMDtZaJ0P) | [Bangalang](https://open.spotify.com/album/30C5X5Vvltbe6Wt1DAawEi) | 2:45 |
-| 15 | [KFC Santería](https://open.spotify.com/track/0SqXYMHELy6S2SQoOIKNqn) | [Cain Culto](https://open.spotify.com/artist/7IFepbBZvGSOYFzTk5Shub), [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [KFC Santería](https://open.spotify.com/album/4PM1aSq6VQ8ox26ITWNbg5) | 3:02 |
+| 15 | [KFC Santería \- Sudan Archives Remix](https://open.spotify.com/track/0SqXYMHELy6S2SQoOIKNqn) | [Cain Culto](https://open.spotify.com/artist/7IFepbBZvGSOYFzTk5Shub), [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [KFC Santería \(Sudan Archives Remix\)](https://open.spotify.com/album/4PM1aSq6VQ8ox26ITWNbg5) | 3:02 |
 | 16 | [Hot Minute](https://open.spotify.com/track/4QQOZsSErvrn2KUhUT6kis) | [Arthi](https://open.spotify.com/artist/700RxrCFFg46ZosW39M6x4), [Roska](https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5) | [Hot Minute](https://open.spotify.com/album/5pBMkkbZpVkbLwLcfwkb1Q) | 3:22 |
 | 17 | [Shot Caller](https://open.spotify.com/track/7wCY9HLLNECM1DxO3Mz6CK) | [Nina Las Vegas](https://open.spotify.com/artist/3L2tOP2vRYfjXVW4W1tKEJ), [Swick](https://open.spotify.com/artist/5VNkkC3qDvK5k5qtfEaEID), [Zanillya](https://open.spotify.com/artist/525tLjcAVmE8JpqncIAD7p) | [Shot Caller](https://open.spotify.com/album/1ZagA41DDTxulo2jWZzrmF) | 2:49 |
 | 18 | [DUPLA DE BANDIDO](https://open.spotify.com/track/2l3YKmRENUvTx9AuoCeKJA) | [Lorkestra](https://open.spotify.com/artist/4uud1BAHqvEsXpllk0kFOf), [Mabrada](https://open.spotify.com/artist/0valYl0qLzIycA7LnqGTXR) | [DUPLA DE BANDIDO](https://open.spotify.com/album/5Onz1C2ItIZVQX9cpdGtfZ) | 2:19 |

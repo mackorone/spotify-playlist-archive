@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oUiKm.md) - [plain]
 
 > This is Cynthia Erivo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,615 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,629 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oUiKm.md) - [plain]
 | 49 | [Our Prayer](https://open.spotify.com/track/6BmnVvND7DHAZs5SgzRPF3) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Joaquina Kalukango](https://open.spotify.com/artist/0QcsX0a3SZO3F61Thbx1jb), [Isaiah Johnson](https://open.spotify.com/artist/7MYNM3h4lEjuKcOqiqNVhB), [Kevyn Morrow](https://open.spotify.com/artist/1MjW1SNPKPd5gyt7JpK7z3) | [The Color Purple \(New Broadway Cast Recording\)](https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W) | 4:38 |
 | 50 | [Everything's Alright](https://open.spotify.com/track/3xO030eZebHF82IMjz626q) | [Morgan James](https://open.spotify.com/artist/56cxpytHZalu41uOraqsB4), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Shoshana Bean](https://open.spotify.com/artist/3f6n3RzZESaZnpoKit0Sk5) | [She Is Risen, Vol\. 2](https://open.spotify.com/album/1HfkVtVSe4OQqpFLSmT94X) | 4:16 |
 
-Snapshot ID: `aRkUAAAAAAAvR4CRjsefe1RFK8iwJq9Q`
+Snapshot ID: `aRplgAAAAABZYqsfy613wzUGpLnCo1G+`

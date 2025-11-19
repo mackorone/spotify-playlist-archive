@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T8YkHjAnHP.md) - [plain]
 
 > <a href="spotify:artist:5bKdC6382t97Qnpvs81Rqx">Bedouin</a>'s favorite tracks\. Updated regularly\. Curated by Bedouin\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,631 likes - 71 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,642 likes - 71 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T8YkHjAnHP.md) - [plain]
 | 32 | [Makes Me \- Prok & Fitch Remix](https://open.spotify.com/track/3VeYokgHZ1Ov7KhzHZKSXD) | [Jose Nunez](https://open.spotify.com/artist/4JIeLfcNRkL7wlCcszOjyj), [Prok & Fitch](https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys), [Taina](https://open.spotify.com/artist/2x8Baihx4yQiHyKEKVPw6v) | [Makes Me \(Prok & Fitch Remix\)](https://open.spotify.com/album/3Kz3g1Dfef5IiWsGnsftPC) | 3:06 |
 | 33 | [1001 Nuits \- Radio Edit](https://open.spotify.com/track/74JKZeV9CIFMFu7xKtasi4) | [GROSSOMODDO](https://open.spotify.com/artist/541P8kParJeyWFaxfsEHdt) | [1001 Nuits \(Extended Mix\)](https://open.spotify.com/album/71DuLGOJwXTcvUzgndjClw) | 4:28 |
 | 34 | [Act A Fool](https://open.spotify.com/track/3eMoprmyQvZJ2ID5DeDZjj) | [Liva K](https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj), [Luch](https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp) | [Act A Fool](https://open.spotify.com/album/3QSHm2WmJOo183q1MHOtnm) | 3:38 |
-| 35 | [Replay](https://open.spotify.com/track/2HWkGVABhljh5LmihatdVe) | [Bobbi Fallon](https://open.spotify.com/artist/2iGBTGNxBGp36zT37zvpHB), [Bun Xapa](https://open.spotify.com/artist/0tD4QlKohHKqpuPZKELnwZ), [Joezi](https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B) | [Replay](https://open.spotify.com/album/2Q5zccXXjYf1K4MZ4LWkQo) | 3:34 |
+| 35 | [Replay](https://open.spotify.com/track/2HWkGVABhljh5LmihatdVe) | [Bobbi Fallon](https://open.spotify.com/artist/2iGBTGNxBGp36zT37zvpHB), [Bun Xapa](https://open.spotify.com/artist/0tD4QlKohHKqpuPZKELnwZ), [Joezi](https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B) | [Replay](https://open.spotify.com/album/2Q5zccXXjYf1K4MZ4LWkQo) | 3:33 |
 | 36 | [FE!N \- CHASE B REMIX](https://open.spotify.com/track/6sFriHsWdq31GcaHdgFHoY) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [CHASE B](https://open.spotify.com/artist/2cMVIRpseAO7fJAxNfg6rD) | [FE!N \(CHASE B REMIX\)](https://open.spotify.com/album/3PgQ3tZpZH8gZm9PEmSlJA) | 4:36 |
 | 37 | [Swim](https://open.spotify.com/track/1cBmC6LH5SAcNo4fEUH0sZ) | [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp) | [Swim / Surrounded](https://open.spotify.com/album/2dTHKAcKGZIvkrA17lwSMB) | 4:09 |
 | 38 | [Talking Drums](https://open.spotify.com/track/0wouQLscZ2XeNjX5DRVGbd) | [Tayllor](https://open.spotify.com/artist/0Z4yZfeuvWVBh1U6vNeYbD) | [Talking Drums](https://open.spotify.com/album/1bpfcPv8xiKI0ybxfjcjj6) | 3:22 |

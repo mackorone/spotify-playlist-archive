@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 
 > New music by the heaviest independent artists and labels every Wednesday\. Cover: PINKNOISE
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,653 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,666 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

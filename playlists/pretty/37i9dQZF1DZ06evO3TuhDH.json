@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRkUAAAAAAD9wJ3pisHVj48O/cv+8gYX",
+  "snapshot_id": "aRplgAAAAABHciuyI5TGi3UpfQNYPKGa",
   "tracks": [
     {
       "added_at": null,
@@ -363,26 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "COI",
-        "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 135253,
-      "name": "Make My Day (with David Guetta)",
-      "url": "https://open.spotify.com/track/4f0i8ligJspqXf8qeAV1sS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Never Gets Late Here",
         "url": "https://open.spotify.com/album/2wkK1n9m6c7OutXRgtvVsz"
       },
@@ -419,6 +399,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "COI",
+        "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 135253,
+      "name": "Make My Day (with David Guetta)",
+      "url": "https://open.spotify.com/track/4f0i8ligJspqXf8qeAV1sS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Die 4 Respect",
         "url": "https://open.spotify.com/album/4TzzpYnIMI8opSO9koKKVG"
       },
@@ -443,18 +443,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "COI",
-        "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
+        "name": "Lick Back (feat. Skrilla) [Remix]",
+        "url": "https://open.spotify.com/album/4Gi58kfGwjjXIOURUQ6SVo"
       },
       "artists": [
         {
           "name": "Coi Leray",
           "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "Skrilla",
+          "url": "https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U"
         }
       ],
-      "duration_ms": 110826,
-      "name": "Get Loud",
-      "url": "https://open.spotify.com/track/31WthjI5kvPSdD9Eb70ZBi"
+      "duration_ms": 133670,
+      "name": "Lick Back (feat. Skrilla) - Remix",
+      "url": "https://open.spotify.com/track/4KcQw2rMOQO06sZ6Bkic8j"
     },
     {
       "added_at": null,
@@ -479,6 +483,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "COI",
+        "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 110826,
+      "name": "Get Loud",
+      "url": "https://open.spotify.com/track/31WthjI5kvPSdD9Eb70ZBi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Still Sleep? (Deluxe)",
         "url": "https://open.spotify.com/album/0ZjOFfItjIA9YbzhERRIBr"
       },
@@ -495,46 +515,6 @@
       "duration_ms": 119715,
       "name": "2055 (feat. Coi Leray)",
       "url": "https://open.spotify.com/track/0VhA1feaHVoftAyZ5fGGHA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lick Back (feat. Skrilla) [Remix]",
-        "url": "https://open.spotify.com/album/4Gi58kfGwjjXIOURUQ6SVo"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        },
-        {
-          "name": "Skrilla",
-          "url": "https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U"
-        }
-      ],
-      "duration_ms": 133670,
-      "name": "Lick Back (feat. Skrilla) - Remix",
-      "url": "https://open.spotify.com/track/4KcQw2rMOQO06sZ6Bkic8j"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "COI",
-        "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        },
-        {
-          "name": "James Brown",
-          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
-        }
-      ],
-      "duration_ms": 196373,
-      "name": "Man's World (with James Brown)",
-      "url": "https://open.spotify.com/track/235C6mYJSyfN74X8s92900"
     },
     {
       "added_at": null,
@@ -579,6 +559,26 @@
       "duration_ms": 160586,
       "name": "TWINNEM (Remix) (feat. DaBaby)",
       "url": "https://open.spotify.com/track/21hKipgjcM6JL2mmoUKrQi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "COI",
+        "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        }
+      ],
+      "duration_ms": 196373,
+      "name": "Man's World (with James Brown)",
+      "url": "https://open.spotify.com/track/235C6mYJSyfN74X8s92900"
     },
     {
       "added_at": null,

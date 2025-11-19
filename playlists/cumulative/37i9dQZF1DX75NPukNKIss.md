@@ -2,9 +2,9 @@
 
 ### [Sexy Drill](https://open.spotify.com/playlist/37i9dQZF1DX75NPukNKIss)
 
-> Way 2 Slizzy\. Click into the feed to learn all about the movement\. Cover: Bryson Tiller
+> Way 2 Slizzy\. Cover: Don Toliver
 
-152 songs - 7 hr 0 min
+153 songs - 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [ATTITUDE \(FEAT\. CHARLIE WILSON & CASH COBAIN\)](https://open.spotify.com/track/0KFXE2mLTFdOKkTZEDgJPv) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Attitude \(feat\. Charlie Wilson & Cash Cobain\)](https://open.spotify.com/album/5qT2WTrg8b062akPjO9AGY) | 2:41 | 2024-10-25 |  |
 | [Attractive](https://open.spotify.com/track/6ZVXkexsf2z4MJIGRILSfg) | [Sturdyyoungin](https://open.spotify.com/artist/2DnJs9S5S7DWOyE2zK2fNs) | [Rookie of the Year](https://open.spotify.com/album/4GSlPYadgWlrjUjtWoPC9P) | 1:53 | 2025-06-06 | 2025-08-09 |
 | [BABY](https://open.spotify.com/track/1hs6NSqRaOSnnsHDTq23D4) | [FLEE](https://open.spotify.com/artist/0kvDb0sP1IM6XSQ8ZBi20p) | [BABY](https://open.spotify.com/album/1A2scsZ160QX6nuUkCEJ04) | 2:14 | 2024-12-13 | 2024-12-21 |
+| [Baby \(with Chris Brown\)](https://open.spotify.com/track/1LxGpGxyFmIwYPP61Tzaho) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Finally Over It](https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx) | 2:28 | 2025-11-18 |  |
 | [Baby Girl On The Way](https://open.spotify.com/track/6FHsuGMFpmY4cxT7qL4l1c) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Baby Girl On The Way](https://open.spotify.com/album/10JghYSsQ9P5vXQQpcOoZq) | 2:52 | 2024-10-25 |  |
 | [BACKD00R \(feat\. Kendrick Lamar & Jhené Aiko\)](https://open.spotify.com/track/0rNgWFQJtfttOYIHfDOHCg) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:10 | 2025-03-17 |  |
 | [Bad Bitches](https://open.spotify.com/track/1bOUmlmuxBY22foEJvYcQB) | [BreezyLYN](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq) | [Bad Bitches](https://open.spotify.com/album/6HdImiXIslmzq6aFofGWCF) | 2:12 | 2025-04-18 |  |
@@ -118,7 +119,7 @@
 | [Private Room](https://open.spotify.com/track/35qWJOaWkfaGLuY9Ngn6VV) | [J.P.](https://open.spotify.com/artist/6ygDlIilHZqielxxkvmIVH) | [Coming Out Party](https://open.spotify.com/album/5vdKOSZqhHsEf9HEMqWidz) | 2:33 | 2024-10-25 | 2024-11-14 |
 | [problem \(feat\. Laila!, Fabolous, Big Sean, Kenzo B, Lay Bankz, Luh Tyler, Anycia, Chow Lee, Kaliii, 6lack, Flo Milli, Yn Jay, Flee, Don Q & Rob49\)](https://open.spotify.com/track/62DOQC3exqebSVLWyN2mWa) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [Laila!](https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t) | [PLAY CASH COBAIN](https://open.spotify.com/album/1nMDe5h9FEfmCSm6nwA66s) | 7:39 | 2024-10-25 |  |
 | [PROGRESSION](https://open.spotify.com/track/5gPOvRTZlGvva5RkZIGIuO) | [R2R MOE](https://open.spotify.com/artist/6wNPY2m52IiyyVZXR339D9) | [PROGRESSION](https://open.spotify.com/album/1yIUDCF985oPjob0CBcSeZ) | 2:34 | 2025-01-17 |  |
-| [Receiver](https://open.spotify.com/track/2mMi5MpN4MhBKv0sZriZ6c) | [Dee Billz](https://open.spotify.com/artist/2fBU7rOViK7ywwHCIYEa7h), [LouGotCash](https://open.spotify.com/artist/1Sz0VZ2PxcZPD2qRIX9GSK) | [Blood, Sweat & Billz](https://open.spotify.com/album/0tONlwqnJyuZWBaHxQw3rK) | 2:07 | 2025-08-29 |  |
+| [Receiver](https://open.spotify.com/track/2mMi5MpN4MhBKv0sZriZ6c) | [Dee Billz](https://open.spotify.com/artist/2fBU7rOViK7ywwHCIYEa7h), [LouGotCash](https://open.spotify.com/artist/1Sz0VZ2PxcZPD2qRIX9GSK) | [Blood, Sweat & Billz](https://open.spotify.com/album/0tONlwqnJyuZWBaHxQw3rK) | 2:07 | 2025-08-29 | 2025-11-19 |
 | [Regular Type \(feat\. Chow Lee\)](https://open.spotify.com/track/1pqswmjvnS3xr7JdA4gD2x) | [Nino Paid](https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H), [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [Regular Type \(feat\. Chow Lee\)](https://open.spotify.com/album/7jIpISYSxVcKBPdLt0vmBr) | 2:46 | 2025-04-11 |  |
 | [RENZ&B](https://open.spotify.com/track/2bcQBG9OI7etCWLNPJdHzB) | [Renz](https://open.spotify.com/artist/41CSndbOU6r05kajQCO9b1) | [RENZ&B](https://open.spotify.com/album/7Hg6cdprOXcTZff5gVpJ5H) | 2:00 | 2024-10-25 |  |
 | [Rump Punch](https://open.spotify.com/track/2jqISPQZfkZbcbQiVbUUAO) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Rump Punch](https://open.spotify.com/album/7oDtnVBRHE48kEcQp1AvVe) | 2:03 | 2024-10-25 |  |

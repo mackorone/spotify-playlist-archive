@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Deem Spencer
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,296,058 likes - 175 songs - 10 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,295,949 likes - 175 songs - 10 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Love You](https://open.spotify.com/track/0QynngeQX5Ww1WAOxasFgC) | [Tobias Jesso Jr.](https://open.spotify.com/artist/3RosuARXNIOfNYoJXR7fzA) | [I Love You](https://open.spotify.com/album/5QLRmqFImJmDZlxFgqg2ky) | 4:09 |
 | 2 | [If You Know Me](https://open.spotify.com/track/1QnFKAPgZ7GI9sYITPuYyL) | [Hudson Freeman](https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8) | [If You Know Me / Wild Horses](https://open.spotify.com/album/6BTPGJ3IgfRa43UKmD0Nw8) | 3:23 |
 | 3 | [\_you never really get that far\_ \(Coldplay cover\)](https://open.spotify.com/track/3LadbhRQVnK6UTtK2YzzlZ) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA) | [caroline 2 \(deluxe\)](https://open.spotify.com/album/1p8ZZz8jeRlQDUlpyxma4C) | 3:57 |
-| 4 | [someone](https://open.spotify.com/track/4pnJV33XLfXMeEZuNDav57) | [Deem Spencer](https://open.spotify.com/artist/4iXaGootDLE50qY42LCdnK), [Brian Nasty](https://open.spotify.com/artist/5RpQGZtxRWXdEZpV7gNdvM) | [Pain & the people around me](https://open.spotify.com/album/16RYcOy0DyFeIkI0SKZqQL) | 4:24 |
+| 4 | [someone](https://open.spotify.com/track/4pnJV33XLfXMeEZuNDav57) | [Deem Spencer](https://open.spotify.com/artist/4iXaGootDLE50qY42LCdnK), [Brian Nasty](https://open.spotify.com/artist/5RpQGZtxRWXdEZpV7gNdvM) | [Pain & the people around me](https://open.spotify.com/album/16RYcOy0DyFeIkI0SKZqQL) | 4:26 |
 | 5 | [Photograph of a Cyclone](https://open.spotify.com/track/23FYMYQwvk7tYATcPe3EfE) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Photograph of a Cyclone](https://open.spotify.com/album/1izRdreIuynbBHrzp9gS5u) | 3:28 |
 | 6 | [Prize Fighter](https://open.spotify.com/track/0CnzuwAURBgG4Zd7vsR19w) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Rock A Bye Baby, Glimmer of God](https://open.spotify.com/album/7KXoonGSm7oBWn267d5XPa) | 3:49 |
 | 7 | [Enemy](https://open.spotify.com/track/3nvQr4XpiZFHuG0QLzh3V8) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L) | [Enemy](https://open.spotify.com/album/3p3lmExl5r6M8ZV6kBLUl9) | 3:11 |
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 11 | [Sentry](https://open.spotify.com/track/5SFwml6SjVbEvDWm0gh2me) | [Sword II](https://open.spotify.com/artist/0JYwNChldP4Ad3OC6U83zi) | [Electric Hour](https://open.spotify.com/album/5glk52BEcA9c9RODElJkqF) | 3:54 |
 | 12 | [Porcelain Warrior](https://open.spotify.com/track/2XZNlO9iD9Nta0fqrb6N35) | [chokecherry](https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT) | [Ripe Fruit Rots and Falls](https://open.spotify.com/album/1gQAGyUvCMcV6iVDLYO2KW) | 4:00 |
 | 13 | [silene](https://open.spotify.com/track/1QB4biIsWlJFoxVfDslg2a) | [crushed](https://open.spotify.com/artist/5U7wHWp1AmjN0mzvAfA6YM) | [silene](https://open.spotify.com/album/1zwj3ufnutoiKGc142Tith) | 4:46 |
-| 14 | [O Mistress Mine](https://open.spotify.com/track/3KuUK0RlVSmldqiW5qjEqv) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn), [Michael Thurber](https://open.spotify.com/artist/5zdCcd7nJejwygIgvJzjhf), [Twelfth Night Cast](https://open.spotify.com/artist/2bkPJglMWAb9C2f19TpmUs) | [O Mistress Mine](https://open.spotify.com/album/1rRFmNjjwljBoaL6qs8V7k) | 2:07 |
+| 14 | [O Mistress Mine](https://open.spotify.com/track/3KuUK0RlVSmldqiW5qjEqv) | [Michael Thurber](https://open.spotify.com/artist/5zdCcd7nJejwygIgvJzjhf), [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn), [Twelfth Night Cast](https://open.spotify.com/artist/2bkPJglMWAb9C2f19TpmUs) | [O Mistress Mine](https://open.spotify.com/album/1rRFmNjjwljBoaL6qs8V7k) | 2:07 |
 | 15 | [Holo Boy](https://open.spotify.com/track/3Xf9TsClkc9ncSplhihsEh) | [This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun) | [Holo Boy](https://open.spotify.com/album/7CXT8RYl4Hq3Rui5rRHLQw) | 3:30 |
 | 16 | [I LOVE MY FRIENDS](https://open.spotify.com/track/1x81fp7WVuqc666iGSxr1Y) | [Hollis Howard](https://open.spotify.com/artist/38SGcqf6cMSdDxd4t6SuFq) | [Good Morning, We Love You](https://open.spotify.com/album/1tCz8hHpqjxTPVzS97ZkGh) | 2:33 |
 | 17 | [2000 Miles \(from "Oh\. What\. Fun."\)](https://open.spotify.com/track/1CmWAnDKY4W13XRH6dC5XX) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe), [Oh\. What\. Fun.](https://open.spotify.com/artist/5VYSkRVd4ZrQo12YhB3t7S) | [2000 Miles \(from "Oh\. What\. Fun."\)](https://open.spotify.com/album/4THFp0pVKS4HCMUMDrTJYe) | 3:09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > JC Reyes x Morad x Quevedo, Manuel Turizo,  De La Rose x Mora, Laura Pausini con Yami Safdie y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,317 likes - 74 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,346 likes - 74 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 51 | [Alocao](https://open.spotify.com/track/07POsMQQTIYejFxDoonEBL) | [El Daddy](https://open.spotify.com/artist/0ZiG3Fe4yVcYjUCZHmAzVQ), [El Único](https://open.spotify.com/artist/7vwS89N1pBm5UNccF6FXlz), [Makiki](https://open.spotify.com/artist/6uF1ABl9hCBgL0d2e0cR14) | [Alocao](https://open.spotify.com/album/2dWCvJzCDwnxQzugH6HnUP) | 2:51 |
 | 52 | [IV\. Criando chetos](https://open.spotify.com/track/6qHJ8ghgb4Yr4Ku9qxnJ5N) | [El Bugg](https://open.spotify.com/artist/6o4L5N0aiAhdtN3pqEwG0P), [El Toca](https://open.spotify.com/artist/5ADbrUxRcZuDt9YDBDM4J6), [David Marley](https://open.spotify.com/artist/09ryxLeU3mzmubZtcyDGdA) | [IV\. Criando chetos](https://open.spotify.com/album/7izm69rfQfeDmOU1pYZdWy) | 3:02 |
 | 53 | [Hasta el espacio](https://open.spotify.com/track/1ZoHI7FDn7jb9XG3zery7V) | [Chema Rivas](https://open.spotify.com/artist/1tMWkquIkQtVD6vaZlDbSQ) | [Hasta el espacio](https://open.spotify.com/album/4hv3zvbfXa8OG6svdLzrca) | 3:12 |
-| 54 | [YOUNG BOY](https://open.spotify.com/track/0ldXCPNClEmAhot5RKSEsl) | [KG970](https://open.spotify.com/artist/6m735GSES3duQtLrgqoGUb), [Elpatron970](https://open.spotify.com/artist/2rPOaAdN74S2D0Kw3ImL5O) | [YOUNG BOY](https://open.spotify.com/album/5cSPLtKyfSsYRtp6D22abz) | 1:54 |
+| 54 | [YOUNG BOY](https://open.spotify.com/track/0ldXCPNClEmAhot5RKSEsl) | [KG970](https://open.spotify.com/artist/6m735GSES3duQtLrgqoGUb), [Elpatron970](https://open.spotify.com/artist/2rPOaAdN74S2D0Kw3ImL5O) | [YOUNG BOY](https://open.spotify.com/album/5cSPLtKyfSsYRtp6D22abz) | 2:06 |
 | 55 | [Grand Prix](https://open.spotify.com/track/6tIippImwMGzZaLb3DqQtb) | [Midas Alonso](https://open.spotify.com/artist/4YbohdhSehUUc7RT3STcKW), [Delson Aravena](https://open.spotify.com/artist/7z3WDAzeazNjQckDeenDAf) | [Grand Prix](https://open.spotify.com/album/3WfDvHqIPZlL0JrwKSl36e) | 1:51 |
 | 56 | [Fe, Talento y Disciplina](https://open.spotify.com/track/6n7ONq6PCe8bKK6WVatKTt) | [Hecky](https://open.spotify.com/artist/62LTdoyTuT7z5r75cUozX7) | [Fe, Talento y Disciplina](https://open.spotify.com/album/5YcHOta3ezxakaeqI1TWJG) | 2:25 |
 | 57 | [Que Tapen El Sol](https://open.spotify.com/track/5Tg326RY8O4HKnLOtxmuHi) | [Choclock](https://open.spotify.com/artist/1Ixof0imwzqpuV21Ug9pKn) | [Dame Más Tiempo](https://open.spotify.com/album/4QoSmUOjJEnfvvTnTsXiBl) | 3:13 |

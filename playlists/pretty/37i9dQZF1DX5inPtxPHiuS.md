@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 
 > ¡Disfruta con los grandes del rock colombiano! Foto: Pirineos en Llamas
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,755 likes - 60 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,756 likes - 60 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,18 +48,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 | 38 | [Frágil](https://open.spotify.com/track/0RrAW7InSmDFgpJ1yLkKxC) | [Higuita en Chanclas](https://open.spotify.com/artist/6KxEb5gHvWvxrplWIe6rcO) | [Frágil](https://open.spotify.com/album/2zlHTnoNZOZohSnXXt65GR) | 4:23 |
 | 39 | [Cherokee](https://open.spotify.com/track/3qY0oKFlzTYfPoXS9cnn8z) | [La Ramona](https://open.spotify.com/artist/6iWNuXAKgG1vQee6aWmTEW) | [Cherokee](https://open.spotify.com/album/6ryizw0fatTEithgl6xCCx) | 3:51 |
 | 40 | [La Clase Que Trabaja](https://open.spotify.com/track/0CpRKuFzJuh8hj55UXZ3Hs) | [APOLO 7](https://open.spotify.com/artist/322BLVw40Mq2hWHxGLykr6) | [La Clase Que Trabaja](https://open.spotify.com/album/1chXS9QVcQa8LMDLXOkybe) | 3:07 |
-| 41 | [Campesino](https://open.spotify.com/track/16NjxeQhuY5wQ8xl3gTZXt) | [La Doble A](https://open.spotify.com/artist/3Dhh3KGwP2XmiRdMqDLVhQ) | [Campesino](https://open.spotify.com/album/1dr8WuOYOeGk27RgnXImXQ) | 4:38 |
-| 42 | [INFECTOS](https://open.spotify.com/track/1qj8rfBVk1zIcM1Yq08agk) | [Perros de Reserva](https://open.spotify.com/artist/74jRYbi35m8O9hOKlGx0ba), [Pornomotora](https://open.spotify.com/artist/14SXRis11vJfEIdzqqV6a5) | [INFECTOS](https://open.spotify.com/album/7n0NxieCFnU2SkHVBiAlIr) | 2:54 |
+| 41 | [INFECTOS](https://open.spotify.com/track/1qj8rfBVk1zIcM1Yq08agk) | [Perros de Reserva](https://open.spotify.com/artist/74jRYbi35m8O9hOKlGx0ba), [Pornomotora](https://open.spotify.com/artist/14SXRis11vJfEIdzqqV6a5) | [INFECTOS](https://open.spotify.com/album/7n0NxieCFnU2SkHVBiAlIr) | 2:54 |
+| 42 | [Campesino](https://open.spotify.com/track/16NjxeQhuY5wQ8xl3gTZXt) | [La Doble A](https://open.spotify.com/artist/3Dhh3KGwP2XmiRdMqDLVhQ) | [Campesino](https://open.spotify.com/album/1dr8WuOYOeGk27RgnXImXQ) | 4:38 |
 | 43 | [Rocal](https://open.spotify.com/track/2lYG5r6ahoFOknygopkjMr) | [Los Niños Telepaticos](https://open.spotify.com/artist/2XrYe0zAKNrysuK1IuatTU) | [Rocal](https://open.spotify.com/album/4ihD17BMxTDcCfwcC2TlfC) | 3:50 |
 | 44 | [Texas](https://open.spotify.com/track/3si9cjEp9d37zE4IqpFbZK) | [Superlitio](https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB) | [Texas](https://open.spotify.com/album/6opu23ikoXvGYXI9BIrATP) | 4:18 |
 | 45 | [Lockdownska](https://open.spotify.com/track/3wa8cbyJbGoAoFqaJdzlwA) | [Burning Caravan](https://open.spotify.com/artist/6EWzrar8NxPYxH9mLdgkat) | [Lockdownska](https://open.spotify.com/album/63drV0XsviR9CVU6eRvs0P) | 3:39 |
 | 46 | [Prende](https://open.spotify.com/track/1MkRoo0Vr7Ol8BMQ6bMbGs) | [Tequendama](https://open.spotify.com/artist/5jtmZEtfuDg8on48lsLxmU) | [Prende](https://open.spotify.com/album/4yoIFrJyYMVB78v2oVYzHG) | 3:17 |
 | 47 | [Hoy](https://open.spotify.com/track/7MMPHXwa2wVGlUCKfSnC4t) | [Cielito Drive](https://open.spotify.com/artist/1QplpI4W7QuaxzxEpjKayY) | [Hoy](https://open.spotify.com/album/5SdzuAGnAPzSOCJPStzDIY) | 4:36 |
 | 48 | [Estallados](https://open.spotify.com/track/3FO2k1oUkFBsU63BqVIGRS) | [Los Niños Telepaticos](https://open.spotify.com/artist/2XrYe0zAKNrysuK1IuatTU) | [Estallados](https://open.spotify.com/album/0bKbPtDXlXn07olVlaIAnr) | 4:30 |
-| 49 | [Recorrer el Mundo](https://open.spotify.com/track/1wpn2kg0vFgvEl7V6XeQzK) | [Bonus Trak](https://open.spotify.com/artist/3v68dDHJPpjDZ3sJDNsqQP) | [Recorrer el Mundo](https://open.spotify.com/album/2H4P2Z1NJLy12k8WvrjSjw) | 2:58 |
-| 50 | [Antes de Que Sea Muy Tarde](https://open.spotify.com/track/5bIuihsCdiDMA6MmlGFgre) | [Sismo](https://open.spotify.com/artist/3KMQT3nOebFOgoE3p35zVq) | [Antes de Que Sea Muy Tarde](https://open.spotify.com/album/6FFIXNpWmBGwZijE6A9lNe) | 3:12 |
-| 51 | [La Fuente](https://open.spotify.com/track/2c6niSBI2M7gqVK1tWwEhu) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7) | [La Fuente](https://open.spotify.com/album/0oMlRNLt7gEZrftInylnmT) | 5:27 |
-| 52 | [Sed](https://open.spotify.com/track/5NIiEaXpBzGAUVNPwWqZJg) | [Lucio Feuillet](https://open.spotify.com/artist/5cV9Dza9Slv8jlGAzYYiCy) | [Sed](https://open.spotify.com/album/0G7nexrpLnddOAHIoyEIxn) | 4:59 |
+| 49 | [Antes de Que Sea Muy Tarde](https://open.spotify.com/track/5bIuihsCdiDMA6MmlGFgre) | [Sismo](https://open.spotify.com/artist/3KMQT3nOebFOgoE3p35zVq) | [Antes de Que Sea Muy Tarde](https://open.spotify.com/album/6FFIXNpWmBGwZijE6A9lNe) | 3:12 |
+| 50 | [Recorrer el Mundo](https://open.spotify.com/track/1wpn2kg0vFgvEl7V6XeQzK) | [Bonus Trak](https://open.spotify.com/artist/3v68dDHJPpjDZ3sJDNsqQP) | [Recorrer el Mundo](https://open.spotify.com/album/2H4P2Z1NJLy12k8WvrjSjw) | 2:58 |
+| 51 | [Sed](https://open.spotify.com/track/5NIiEaXpBzGAUVNPwWqZJg) | [Lucio Feuillet](https://open.spotify.com/artist/5cV9Dza9Slv8jlGAzYYiCy) | [Sed](https://open.spotify.com/album/0G7nexrpLnddOAHIoyEIxn) | 4:59 |
+| 52 | [La Fuente](https://open.spotify.com/track/2c6niSBI2M7gqVK1tWwEhu) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7) | [La Fuente](https://open.spotify.com/album/0oMlRNLt7gEZrftInylnmT) | 5:27 |
 | 53 | [Madre Tierra](https://open.spotify.com/track/1Nm64MdvvkfjwIntgflE17) | [La Sociedad de La Sombrilla](https://open.spotify.com/artist/76ZpJJKxWFJyKOJzQXVWbk), [Sebastián Panesso](https://open.spotify.com/artist/7klsfmubwzRluxsG4nRUyf) | [Madre Tierra](https://open.spotify.com/album/6hfC8pQP0TYzJD9xd9EKSF) | 3:32 |
 | 54 | [Aunque Pretendas Olvidar](https://open.spotify.com/track/3ZmVUUrgKBmSI2IkTq42zk) | [La Banda del Bisonte](https://open.spotify.com/artist/363z8t8XMXCozcLQorLiPD) | [Aunque Pretendas Olvidar](https://open.spotify.com/album/4ymkJ4kYySzAaxIP3Ul6NW) | 3:03 |
 | 55 | [Cisne](https://open.spotify.com/track/3HEjxQXUOFV8cWLaGDR27g) | [V for Volume](https://open.spotify.com/artist/2Sgo9dXRK6VKbAAMhmb3Zz) | [Cisne](https://open.spotify.com/album/7f7pQzEZjRdDZZDEtqWgl3) | 2:34 |

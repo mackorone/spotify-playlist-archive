@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3pk81i.md) - [plain]
 
 > This is Los Primos del Este\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,799 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,801 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,19 +19,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3pk81i.md) - [plain]
 | 9 | [Quiero Ser \(Version Norteña\)](https://open.spotify.com/track/7Cte3d7S9NXqmT7jgAhntF) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Poesías](https://open.spotify.com/album/67HdvBGwER7WCcFb1keYYg) | 3:32 |
 | 10 | [Bandido](https://open.spotify.com/track/7wgQC3zvKtEmOhzV7FnK37) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [Bandido](https://open.spotify.com/album/72dpueKPayWOlGcCgWr3g5) | 2:28 |
 | 11 | [Baby \(Version Norteña\)](https://open.spotify.com/track/7L5f1cWtVCeVn128pwTt5b) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ) | [Luna De Miel](https://open.spotify.com/album/0rNBpiw8fHCsqGb9fJXAUq) | 3:18 |
-| 12 | [Con Una Mirada](https://open.spotify.com/track/3UbwPNINEgzZ8QfWmEYTHh) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Con Una Mirada](https://open.spotify.com/album/380MMrYgSSedRqiDWtsJjL) | 3:21 |
+| 12 | [Todita Me Encantas](https://open.spotify.com/track/7neeZNumEtyUe93ybWqr3N) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Todita Me Encantas](https://open.spotify.com/album/15qYJqe46DroUxj9Fa7b74) | 2:17 |
 | 13 | [No Hay Solución](https://open.spotify.com/track/7qcINxO8odH2nyLe8LR5sE) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Poesías](https://open.spotify.com/album/67HdvBGwER7WCcFb1keYYg) | 2:24 |
-| 14 | [Todita Me Encantas](https://open.spotify.com/track/7neeZNumEtyUe93ybWqr3N) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Todita Me Encantas](https://open.spotify.com/album/15qYJqe46DroUxj9Fa7b74) | 2:17 |
+| 14 | [Con Una Mirada](https://open.spotify.com/track/3UbwPNINEgzZ8QfWmEYTHh) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Con Una Mirada](https://open.spotify.com/album/380MMrYgSSedRqiDWtsJjL) | 3:21 |
 | 15 | [Que Vas a Hacer \(Version Norteña\)](https://open.spotify.com/track/6BqyOf8ofcTaeSEuPDntIc) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Que Vas a Hacer \(Version Norteña\)](https://open.spotify.com/album/25aRwgpKOnQHqOj6HJvQiz) | 2:54 |
 | 16 | [Conexión](https://open.spotify.com/track/6nVaSyHHv07obQYrVuWQFa) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Conexión](https://open.spotify.com/album/3LzrPKfe2norm7MRc2vZmD) | 2:26 |
 | 17 | [AMOR DE SUBIDA](https://open.spotify.com/track/6NP5zsbDIpf6bkG7k6yXAi) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [AMOR DE SUBIDA](https://open.spotify.com/album/4kZcBWTNaSwRSh9HFUTbsG) | 4:03 |
 | 18 | [Loko](https://open.spotify.com/track/6MsbMIHQL3ZM6RUWb2F8tU) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Loko](https://open.spotify.com/album/59SSpxu6Lau67i21tUvswt) | 2:08 |
-| 19 | [ME TIENES LOCO](https://open.spotify.com/track/5ceptXWvTbtHDW136LA1Oq) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [AMOR DE SUBIDA](https://open.spotify.com/album/7qNfws1fbFNw2zkWrjC4BF) | 2:24 |
-| 20 | [Prada](https://open.spotify.com/track/5IXU5eUPQJwhCGOmcOzc9k) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Poesías](https://open.spotify.com/album/67HdvBGwER7WCcFb1keYYg) | 2:39 |
+| 19 | [Prada](https://open.spotify.com/track/5IXU5eUPQJwhCGOmcOzc9k) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Poesías](https://open.spotify.com/album/67HdvBGwER7WCcFb1keYYg) | 2:39 |
+| 20 | [ME TIENES LOCO](https://open.spotify.com/track/5ceptXWvTbtHDW136LA1Oq) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [AMOR DE SUBIDA](https://open.spotify.com/album/7qNfws1fbFNw2zkWrjC4BF) | 2:24 |
 | 21 | [BACCARAT](https://open.spotify.com/track/4c3nS9PxDBRj7u9nLEYPpl) | [Linea Personal](https://open.spotify.com/artist/5Bb18koIu6bYuvZWzYKkLJ), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [BACCARAT](https://open.spotify.com/album/6wj2LMLRq13TAQHizN5PDG) | 2:37 |
 | 22 | [Labios Rojos \(Version Norteña\)](https://open.spotify.com/track/3zeOGStcMvRNYhN0QY9S95) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [LDNE](https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ) | [Luna De Miel](https://open.spotify.com/album/0rNBpiw8fHCsqGb9fJXAUq) | 4:10 |
-| 23 | [NO TE HUBIERA BESADO](https://open.spotify.com/track/6mHtY4wKseGpQWxXTxH9EM) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [NO TE HUBIERA BESADO](https://open.spotify.com/album/2plPejGZIWWggruY0NizsL) | 2:19 |
-| 24 | [Nuestro Final](https://open.spotify.com/track/7p72E8Piay4uhAqaoPKfRu) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Poesías](https://open.spotify.com/album/67HdvBGwER7WCcFb1keYYg) | 2:05 |
+| 23 | [Nuestro Final](https://open.spotify.com/track/7p72E8Piay4uhAqaoPKfRu) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Poesías](https://open.spotify.com/album/67HdvBGwER7WCcFb1keYYg) | 2:05 |
+| 24 | [NO TE HUBIERA BESADO](https://open.spotify.com/track/6mHtY4wKseGpQWxXTxH9EM) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [NO TE HUBIERA BESADO](https://open.spotify.com/album/2plPejGZIWWggruY0NizsL) | 2:19 |
 | 25 | [JÁLATE CONMIGO](https://open.spotify.com/track/1ReSEvrls62oUS82Lrjked) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [AMOR DE SUBIDA](https://open.spotify.com/album/7qNfws1fbFNw2zkWrjC4BF) | 2:58 |
 | 26 | [Esta Noche \(Version Norteña\)](https://open.spotify.com/track/6pVS9jlTZ7tpMZPVeEs6uK) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Luna De Miel](https://open.spotify.com/album/0rNBpiw8fHCsqGb9fJXAUq) | 2:21 |
 | 27 | [Contigo](https://open.spotify.com/track/7tHbFvrWjqvfILZlRc2A6A) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Contigo](https://open.spotify.com/album/6AVu2TZoE7ZRNAog3BCMCm) | 2:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3pk81i.md) - [plain]
 | 49 | [Una Rosa Blanca](https://open.spotify.com/track/1HWfuahHaDu2JAmqhpNMB5) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Una Rosa Blanca](https://open.spotify.com/album/6ZrH3aoxhVjBWZu0Cjj49o) | 3:20 |
 | 50 | [Sin Mi Sufre](https://open.spotify.com/track/3r9WCxHvUoyibVjLy3TJmL) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Grupo TMB](https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT) | [Me Ama Sin Temor](https://open.spotify.com/album/6hLommr7Wr5zxefGelqMT9) | 3:38 |
 
-Snapshot ID: `aRkUAAAAAACqn7d1affC4AYChaztHMit`
+Snapshot ID: `aRplgAAAAABD9TFYU0Eyx1mxaZCH9BNb`

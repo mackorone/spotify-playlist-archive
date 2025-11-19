@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBq4mDDFnfA.md) - [plain]
 
 > Relax to the sound of classical guitar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,674 likes - 58 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,747 likes - 58 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBq4mDDFnfA.md) - [plain]
 | 25 | [Granada](https://open.spotify.com/track/5uTkGuNtweBM8i2fIDEQ4Z) | [Isaac Albéniz](https://open.spotify.com/artist/4sbcjbyksdT4dJ5Lh0SvZp), [David Russell](https://open.spotify.com/artist/1Ni1doOFD6ATODkZJSRT70) | [Isaac Albéniz: Spanish Music For Classical Guitar](https://open.spotify.com/album/1PDm57C6SPXg9MNMnOPe5Z) | 5:02 |
 | 26 | [Por ti mi Corazón \(Version for Guitar\)](https://open.spotify.com/track/1CuyfxNWIiewyISCi8rWIk) | [Manuel Ponce](https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK), [Jason Vieaux](https://open.spotify.com/artist/0wHPFvTTjnGMQ6bvUn2KlO) | [Play](https://open.spotify.com/album/0YRcR0lcnYBZcGrCML3O9h) | 3:17 |
 | 27 | [Goldberg Variations, BWV 988: XIII\. Variation 13 \(arr\. David Juritz\)](https://open.spotify.com/track/1kYPoC4fHUqj31mC53gB9e) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [David Juritz](https://open.spotify.com/artist/5Xyu14RdgJeW896p80XDFU), [Craig Ogden](https://open.spotify.com/artist/07pZelCNTBK93CD474588Q), [Tim Hugh](https://open.spotify.com/artist/1O6njeMdZ3Jm2lnR9s5lEk) | [Goldberg Variations, BWV 988: XIII\. Variation 13 \(arr\. David Juritz\)](https://open.spotify.com/album/5Qf3KbhDYJF9hcHP9cBtVY) | 3:39 |
-| 28 | [Un Dia de Noviembre](https://open.spotify.com/track/4Cpv0VEkedN82bUfShsifl) | [Leo Brouwer](https://open.spotify.com/artist/4PdumqEAuo2EQzukVWnxa0), [Thibault Cauvin](https://open.spotify.com/artist/6d81rjlV6r9u8qPMAjavRV) | [Thibault Cauvin](https://open.spotify.com/album/3xh9nAAn1jntzf6phXqYcG) | 4:26 |
+| 28 | [Un Dia de Noviembre](https://open.spotify.com/track/4Cpv0VEkedN82bUfShsifl) | [Leo Brouwer](https://open.spotify.com/artist/4PdumqEAuo2EQzukVWnxa0), [Thibault Cauvin](https://open.spotify.com/artist/6d81rjlV6r9u8qPMAjavRV) | [Thibault Cauvin](https://open.spotify.com/album/3xh9nAAn1jntzf6phXqYcG) | 4:29 |
 | 29 | [Lágrima](https://open.spotify.com/track/1aMeBqrCnPf1CzRXlKyNFs) | [Francisco Tárrega](https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t), [Julian Bream](https://open.spotify.com/artist/6vjF8XdNoqVRj5G021FBM6) | [Romantic Guitar](https://open.spotify.com/album/0qPOwxdotqb7ODOOzhn5y3) | 2:03 |
 | 30 | [Bachianinha No\. 1 \(Arr\. for Guitar by Sérgio Assad\)](https://open.spotify.com/track/1FO2czopUN5qjFzZfXKExk) | [Paulinho Nogueira](https://open.spotify.com/artist/5ReVxzuREWusYE4ovnMbBn), [Plínio Fernandes](https://open.spotify.com/artist/0FK16dJDaoLTqNO9YhawG8) | [Bachianinha No\. 1 \(Arr\. for Guitar by Sérgio Assad\)](https://open.spotify.com/album/0y1JGIEV2FBpVJKJHY0k4b) | 3:20 |
 | 31 | [Moon River \(Arr\. for Guitar by Sérgio Assad\) \- From "Breakfast at Tiffany's"](https://open.spotify.com/track/4cUcI2A7BxkES0nOBn15pO) | [Plínio Fernandes](https://open.spotify.com/artist/0FK16dJDaoLTqNO9YhawG8) | [Cinema](https://open.spotify.com/album/4b4nboVDurZKBFzaL9lJdS) | 3:24 |

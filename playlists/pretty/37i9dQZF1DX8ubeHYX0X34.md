@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ubeHYX0X34.md) - [plain]
 
 > Timeless Pakistani hits, all in one place\. Cover \- Junaid Jamshed
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,817 likes - 70 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,836 likes - 70 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Aitebar](https://open.spotify.com/track/1qPQnqu0E87x36SNamVDRQ) | [Vital Signs](https://open.spotify.com/artist/6KX5FJjRlLTjMsnwLvAmJu) | [The Definitive Collection, Vol\. 2](https://open.spotify.com/album/1wA9Te2dFw5dIcu0C4CEwU) | 4:12 |
 | 2 | [Jo Tu Na Mila](https://open.spotify.com/track/6DefzsWqnwrFrmNVnJxWkS) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Jo Tu Na Mila](https://open.spotify.com/album/4KSvSqPJwTo7qMxP4XyIaH) | 3:54 |
-| 3 | [Bikhra](https://open.spotify.com/track/0OdztoASgKBBNcAgtErk0X) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Bikhra](https://open.spotify.com/album/4yfjeaROize8h6IkgU5RBn) | 2:48 |
-| 4 | [Faasle](https://open.spotify.com/track/6YNl1rXbhKvmbMrw9cp3RQ) | [Kaavish](https://open.spotify.com/artist/6znPk9JRNmg6uyB6h8nJu3), [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q) | [Coke Studio Season 10: Episode 2](https://open.spotify.com/album/0WJn9oPJOjaZenZ4OVQEgy) | 5:11 |
+| 3 | [Faasle](https://open.spotify.com/track/6YNl1rXbhKvmbMrw9cp3RQ) | [Kaavish](https://open.spotify.com/artist/6znPk9JRNmg6uyB6h8nJu3), [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q) | [Coke Studio Season 10: Episode 2](https://open.spotify.com/album/0WJn9oPJOjaZenZ4OVQEgy) | 5:11 |
+| 4 | [Bikhra](https://open.spotify.com/track/0OdztoASgKBBNcAgtErk0X) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Bikhra](https://open.spotify.com/album/4yfjeaROize8h6IkgU5RBn) | 2:48 |
 | 5 | [Pasoori](https://open.spotify.com/track/7lvDsmTRXFE3dK4OjvRiWB) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl), [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP) | [Pasoori](https://open.spotify.com/album/7wgrW5XyZdtk0K8PkW5A7h) | 3:44 |
 | 6 | [Iraaday](https://open.spotify.com/track/6qrifdo7QINdPQr80IelGi) | [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C), [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1) | [Iraaday](https://open.spotify.com/album/5rrokeOdlkdlyLaGfiixYy) | 2:13 |
 | 7 | [Kahani Suno 2.0](https://open.spotify.com/track/4VsP4Dm8gsibRxB5I2hEkw) | [Kaifi Khalil](https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9) | [Kahani Suno 2.0](https://open.spotify.com/album/6BHlJhCk1vjCG6hqTG2SFV) | 2:53 |
@@ -68,9 +68,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ubeHYX0X34.md) - [plain]
 | 58 | [Khushfehmi](https://open.spotify.com/track/7fhk5is4r1ZcLPsG8XCEYl) | [Mauj](https://open.spotify.com/artist/7hF2h024edRGQQZ4XSfVLb) | [Now in Technicolor](https://open.spotify.com/album/3YKc6pe4R3oM2sY8UXWEIz) | 4:44 |
 | 59 | [Mahi\-Ve](https://open.spotify.com/track/6u2uJXCU1gxiIyfa3LJkX2) | [JoSH the Band](https://open.spotify.com/artist/3bZPukLEVZlmVmNI2zkbLU) | [Mausam](https://open.spotify.com/album/758VIaUPNO3rY8nBxPTzv1) | 4:06 |
 | 60 | [Bin Tere Kya Hai Jeena](https://open.spotify.com/track/5H37ud3obrc1uqRbpxIwJX) | [Jawad Ahmad](https://open.spotify.com/artist/2gXOOKY8mmJG6iwHrTq9gp) | [Bol Tujhe Kya Chahiye](https://open.spotify.com/album/4pF6gcm1SuGxeu3Ds9JU8Q) | 4:41 |
-| 61 | [Rano](https://open.spotify.com/track/72pZNRX4pl2lNZpCuIVt7p) | [Abrar Ul Haq](https://open.spotify.com/artist/5Z1MqXZgG3ooTyK3oqQVpw), [Khiza](https://open.spotify.com/artist/5zkTvI8BqLcbNxzapM8oLd) | [Nara Sada Ishq Aye](https://open.spotify.com/album/2ejPAyZuv7eHBaVw2kb6uz) | 4:15 |
+| 61 | [Mukhra](https://open.spotify.com/track/31KZ3ZymFdyO1quVkpot2c) | [Shehzad Roy](https://open.spotify.com/artist/2IoNBHUOfnf7hsUwBKr6l4), [Rab Janey](https://open.spotify.com/artist/4lxld8EAoaaPRwNkcMXe8l) | [Shehzad Roy](https://open.spotify.com/album/7vS4aINdfTyauCwEdRDqSi) | 3:58 |
 | 62 | [Ajnabi](https://open.spotify.com/track/6qE6zm1FJlgRwClkBa1Ucj) | [Aaroh](https://open.spotify.com/artist/0FkdHz5RBdvLUTBf97WRSo) | [Sawaal](https://open.spotify.com/album/0fVgvrRb2zst9O7HiCYJOU) | 5:21 |
-| 63 | [Mukhra](https://open.spotify.com/track/31KZ3ZymFdyO1quVkpot2c) | [Shehzad Roy](https://open.spotify.com/artist/2IoNBHUOfnf7hsUwBKr6l4), [Rab Janey](https://open.spotify.com/artist/4lxld8EAoaaPRwNkcMXe8l) | [Shehzad Roy](https://open.spotify.com/album/7vS4aINdfTyauCwEdRDqSi) | 3:58 |
+| 63 | [Rano](https://open.spotify.com/track/72pZNRX4pl2lNZpCuIVt7p) | [Abrar Ul Haq](https://open.spotify.com/artist/5Z1MqXZgG3ooTyK3oqQVpw), [Khiza](https://open.spotify.com/artist/5zkTvI8BqLcbNxzapM8oLd) | [Nara Sada Ishq Aye](https://open.spotify.com/album/2ejPAyZuv7eHBaVw2kb6uz) | 4:15 |
 | 64 | [Huqa Pani](https://open.spotify.com/track/0PV0bP3cqsQdXajY3f8pUL) | [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ) | [Huqa Pani](https://open.spotify.com/album/4ccLUwsTaAt2fvVC75Copb) | 4:43 |
 | 65 | [Paimana Bitte](https://open.spotify.com/track/6KAE4MMywFS0Cy7ikNojQb) | [Zeb & Haniya](https://open.spotify.com/artist/7yRWAVvdjzgjU2wrpaKXLA) | [Chup](https://open.spotify.com/album/5gwT7LD8k8457NUK824Kb5) | 4:38 |
 | 66 | [Deewana](https://open.spotify.com/track/13Nh7FZe0D6vBlAREaqfTR) | [Ali Azmat](https://open.spotify.com/artist/38lgkItatcpCc0I9hV4nEr) | [Social Circus](https://open.spotify.com/album/4Nj2wbrQ8k2pzh4XQktP3K) | 5:19 |

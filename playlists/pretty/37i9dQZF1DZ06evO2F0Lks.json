@@ -1,12 +1,12 @@
 {
   "description": "This is Carrie Underwood. The essential tracks, all in one playlist.",
-  "num_followers": 151088,
+  "num_followers": 151091,
   "original_name": "This Is Carrie Underwood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRkUAAAAAAAaIRHZ2/Xf7yqmiuzI2EsF",
+  "snapshot_id": "aRplgAAAAADeh0L1896MP7cmc5m+bdIy",
   "tracks": [
     {
       "added_at": null,
@@ -112,7 +112,7 @@
           "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 193333,
+      "duration_ms": 194494,
       "name": "Church Bells",
       "url": "https://open.spotify.com/track/67citk3uzWs5qbaIVKTeg8"
     },
@@ -340,7 +340,7 @@
           "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 209920,
+      "duration_ms": 210972,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/05BgC2247XGi8ySwBzOO0o"
     },
@@ -408,7 +408,7 @@
           "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 204093,
+      "duration_ms": 205105,
       "name": "Dirty Laundry",
       "url": "https://open.spotify.com/track/5qRRiqndqXaq2QBudIrkYU"
     },
@@ -463,8 +463,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cry Pretty",
-        "url": "https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd"
+        "name": "Some Hearts",
+        "url": "https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg"
       },
       "artists": [
         {
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 202853,
-      "name": "Southbound",
-      "url": "https://open.spotify.com/track/7qXPZxXn6Xmv1sjh03skiW"
+      "duration_ms": 274266,
+      "name": "Wasted",
+      "url": "https://open.spotify.com/track/5d98TnYzxQmFE4vKgzWXuT"
     },
     {
       "added_at": null,
@@ -527,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Some Hearts",
-        "url": "https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg"
+        "name": "Cry Pretty",
+        "url": "https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd"
       },
       "artists": [
         {
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 274266,
-      "name": "Wasted",
-      "url": "https://open.spotify.com/track/5d98TnYzxQmFE4vKgzWXuT"
+      "duration_ms": 202853,
+      "name": "Southbound",
+      "url": "https://open.spotify.com/track/7qXPZxXn6Xmv1sjh03skiW"
     },
     {
       "added_at": null,
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 237600,
-      "name": "Blessed Assurance",
-      "url": "https://open.spotify.com/track/1b8eNyAT5BW8xOeWUsNahv"
+      "duration_ms": 210040,
+      "name": "The Old Rugged Cross",
+      "url": "https://open.spotify.com/track/436rdO5fgKVH3HhjA0VyFQ"
     },
     {
       "added_at": null,
@@ -732,7 +732,7 @@
           "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 198333,
+      "duration_ms": 199933,
       "name": "Smoke Break",
       "url": "https://open.spotify.com/track/46W2wkCzFerbeQbNz3EIaa"
     },
@@ -819,6 +819,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Denim & Rhinestones",
+        "url": "https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 203600,
+      "name": "Pink Champagne",
+      "url": "https://open.spotify.com/track/0LI59fuqv8OTAnY9cqCife"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Duets II",
         "url": "https://open.spotify.com/album/5ktAYFq8wJ1hcWHaxl6AQf"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 228853,
       "name": "It Had to Be You",
       "url": "https://open.spotify.com/track/328dqlTGkTgH5GPrsQusql"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Denim & Rhinestones",
-        "url": "https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 203600,
-      "name": "Pink Champagne",
-      "url": "https://open.spotify.com/track/0LI59fuqv8OTAnY9cqCife"
     }
   ],
   "unique_name": "This Is Carrie Underwood",

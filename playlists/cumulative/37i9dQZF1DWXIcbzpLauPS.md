@@ -4,7 +4,7 @@
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: Architects
 
-1,404 songs - 3 day 13 hr 44 min
+1,405 songs - 3 day 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -628,7 +628,7 @@
 | [I Will Return](https://open.spotify.com/track/0AQcFVw3RkS01iMfs24qUt) | [Earth Caller](https://open.spotify.com/artist/0t3PBFciaPWM5uMksLH1AW), [Misstiq](https://open.spotify.com/artist/2T56ZlaXC3o801bzHwzJg1) | [I Will Return](https://open.spotify.com/album/3fX3jDxRc6uDQbhjdoZ8wS) | 3:29 | 2022-05-06 | 2022-11-26 |
 | [I WON'T BACK DOWN](https://open.spotify.com/track/7nBKzSA8l5msyNV4wkDvQp) | [From Fall to Spring](https://open.spotify.com/artist/373XSzgRHjl6imFLdGNlQm) | [I WON'T BACK DOWN](https://open.spotify.com/album/10C6jOFAImGjenVam7idgu) | 3:21 | 2025-05-09 | 2025-08-24 |
 | [IDGAF](https://open.spotify.com/track/1Xjrir3GrFEMkUn4U4ZvDS) | [20TOKENS](https://open.spotify.com/artist/283uQnP38E3Ua5ExYuOH0Q), [Sable](https://open.spotify.com/artist/5rRyGasapvQWgfTijFs2mq) | [IDGAF](https://open.spotify.com/album/1odTnw4dT0CDwkix6HVwcx) | 2:21 | 2025-05-16 | 2025-05-24 |
-| [If It's All The Same To You](https://open.spotify.com/track/4wyU17zJTM512I1i6OSI0X) | [Malevolence](https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk) | [If It's All The Same To You](https://open.spotify.com/album/3nmqCvpxxLOYkikOZGNaNG) | 4:14 | 2025-03-31 |  |
+| [If It's All The Same To You](https://open.spotify.com/track/4wyU17zJTM512I1i6OSI0X) | [Malevolence](https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk) | [If It's All The Same To You](https://open.spotify.com/album/3nmqCvpxxLOYkikOZGNaNG) | 4:14 | 2025-03-31 | 2025-11-19 |
 | [Illusive Obsession](https://open.spotify.com/track/2YkSmJa5jtPuf3QKzQ9K7M) | [Depths of Hatred](https://open.spotify.com/artist/50uXDrPUyPgJOn4wmd6N7N) | [Illusive Obsession](https://open.spotify.com/album/7GUg5PW2SOoowXQXLarO4G) | 4:47 | 2022-07-13 | 2022-07-16 |
 | [IMAGO](https://open.spotify.com/track/2VyENkTDQPz6hXE1hkCbkk) | [Space Of Variations](https://open.spotify.com/artist/6mcSNYbGthL93gHZEIdsw6) | [IMAGO](https://open.spotify.com/album/08u01qs66Th1vASwCuuJxP) | 3:17 | 2022-07-08 | 2022-08-27 |
 | [IMAGO](https://open.spotify.com/track/7JQMRfognfgWlzptQVeUV2) | [Space Of Variations](https://open.spotify.com/artist/6mcSNYbGthL93gHZEIdsw6) | [IMAGO](https://open.spotify.com/album/4L48CMMHuCpppX0t0IUfu8) | 3:17 | 2022-05-20 | 2022-07-29 |
@@ -1402,6 +1402,7 @@
 | [Y](https://open.spotify.com/track/2nfYd5u63QE2bhlYX4UvDH) | [Chaosbay](https://open.spotify.com/artist/7GNTvmIi6DDF2XDJKYKoUk) | [Y](https://open.spotify.com/album/7kBQC3jd52a27AufUTOMJT) | 3:59 | 2021-12-17 | 2022-01-15 |
 | [YOU](https://open.spotify.com/track/7LqxtCHpFVrU9aS53YYwKb) | [Adept](https://open.spotify.com/artist/1TsgX8DlUvpk9mrUqxmOZu) | [YOU](https://open.spotify.com/album/471vGPjfjkkdhGXQEP5SHP) | 4:24 | 2025-06-13 | 2025-09-27 |
 | [You Must Die](https://open.spotify.com/track/62FvxmmrGxBBEBI6yBkI0E) | [Suicide Silence](https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc) | [You Must Die](https://open.spotify.com/album/5caFwAXPLpgbK5DtDnHBTj) | 2:42 | 2022-09-02 | 2022-12-17 |
+| [You Only Live Once](https://open.spotify.com/track/152eBiDb28PGnEkruarOpB) | [Caliban](https://open.spotify.com/artist/1oeo6cC9Fqa2bxxv67qBQL) | [You Only Live Once](https://open.spotify.com/album/4L8so5GwxCfBIFzdXOxINX) | 3:12 | 2025-11-14 |  |
 | [You Scream Good for A Girl](https://open.spotify.com/track/77qrvaqkWsaHvOqTCjadKz) | [Taylor Destroy](https://open.spotify.com/artist/6KgGTPfnLvinigjwIiZlcw) | [You Scream Good for A Girl](https://open.spotify.com/album/664Ago1PB7fkmyZHZPyfoa) | 3:18 | 2021-12-17 | 2022-03-12 |
 | [You'll Know It Was Me \(feat\. George Clarke\)](https://open.spotify.com/track/3i1JqxyQn1Zmya2I3v4NhA) | [Church Tongue](https://open.spotify.com/artist/698NcCj3gdla5i3RrYYgFh), [Deafheaven](https://open.spotify.com/artist/4XpPveeg7RuYS3CgLo75t9), [George Clarke](https://open.spotify.com/artist/64w7dHQqmPYoNLBLzK1cdO) | [You'll Know It Was Me](https://open.spotify.com/album/3bFFAIHUILPJmF8l24oGhf) | 4:26 | 2025-03-31 | 2025-04-27 |
 | [Younger](https://open.spotify.com/track/6NR49l8DcbO30ag0YY9Hk0) | [Saviour](https://open.spotify.com/artist/6xVW2xsoMQbvcUTwqYxf0y) | [Younger](https://open.spotify.com/album/6kD41w7XeOUusooACNJqQ0) | 5:35 | 2022-02-25 | 2022-04-23 |

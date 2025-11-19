@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/43ZED10qAFnfZZIy8nTgHy">Theron Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 537 likes - 273 songs - 15 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 536 likes - 273 songs - 15 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -245,8 +245,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 235 | [Win Win](https://open.spotify.com/track/7EYtUMHG5IfvZud1bf0AMl) | [B\. Smyth](https://open.spotify.com/artist/76JyRfZDqhAIow2Awv91iW), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [The Florida Files](https://open.spotify.com/album/5plWds6ATedVEKS39ENeBu) | 4:06 |
 | 236 | [Grown Man Cry](https://open.spotify.com/track/4nuq3ahtDol0fj6oBOpc2b) | [Pressure Busspipe](https://open.spotify.com/artist/61meTZVdfRrHMotU1AJipD) | [The Artist](https://open.spotify.com/album/4lYhbvNpqi84aKPr6FiX85) | 3:38 |
 | 237 | [All On Your Body](https://open.spotify.com/track/0cJ2E7TrVBe5mOOl0Eq8Wg) | [Jay Sean](https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H), [Ace Hood](https://open.spotify.com/artist/31HjiqargV4NAw4GZqUale) | [Neon](https://open.spotify.com/album/22CbLhGKCX4cWs8ajlo1bm) | 2:49 |
-| 238 | [I Love the Islands](https://open.spotify.com/track/4bf60q6ihExnmiYP7v23tP) | [Savage](https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf), [Rock City](https://open.spotify.com/artist/4JLxuWOMYM50zRMCjYaHvH) | [Savage Island](https://open.spotify.com/album/0CQIoZZVBqdQMCE5gMESzw) | 3:44 |
-| 239 | [WICKED \- Diplo Remix](https://open.spotify.com/track/3khSG33zOqh8Mv3gnwKJam) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [WICKED \(Diplo Remix\)](https://open.spotify.com/album/13sIfrF1vCbtMThrAWji2T) | 2:37 |
+| 238 | [WICKED \- Diplo Remix](https://open.spotify.com/track/3khSG33zOqh8Mv3gnwKJam) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [WICKED \(Diplo Remix\)](https://open.spotify.com/album/13sIfrF1vCbtMThrAWji2T) | 2:37 |
+| 239 | [I Love the Islands](https://open.spotify.com/track/4bf60q6ihExnmiYP7v23tP) | [Savage](https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf), [Rock City](https://open.spotify.com/artist/4JLxuWOMYM50zRMCjYaHvH) | [Savage Island](https://open.spotify.com/album/0CQIoZZVBqdQMCE5gMESzw) | 3:44 |
 | 240 | [Time After Time](https://open.spotify.com/track/6aZnSlxQmeChHpuKMmYh0u) | [ANGEL!](https://open.spotify.com/artist/6RIJu05yhEIYskbVgxmk3R) | [Time After Time](https://open.spotify.com/album/4GpRAwq2wyt7GttDqZGLjA) | 3:33 |
 | 241 | [Help Me](https://open.spotify.com/track/0Bbqzj2W6ZUa5jsDj8E9Vv) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [The Sellout](https://open.spotify.com/album/6IIf2u92YUo0n67nh8zdU8) | 4:37 |
 | 242 | [My Bih](https://open.spotify.com/track/0qGMWc9QuQ3KTfzqtbvvfW) | [Kirko Bangz](https://open.spotify.com/artist/2r8r62VGJKGi463aH1HJUZ) | [Back Flossin](https://open.spotify.com/album/3vmo3yZ1f2Rj6lK6lHTECy) | 3:11 |
@@ -273,8 +273,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 263 | [Infatuated](https://open.spotify.com/track/4d4NdCxHx4ElfrdFArnzC2) | [Prima J](https://open.spotify.com/artist/4RZtJt5A0kG2tyPCcOWlLh) | [Prima J](https://open.spotify.com/album/2SPeiUL67yPZUyJVR1JlwG) | 4:13 |
 | 264 | [Fete You](https://open.spotify.com/track/21ILpXgkletL9kEvMZRknT) | [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX), [Deli Banger](https://open.spotify.com/artist/3SEStgS4TnJvgUjqGPvt5b) | [Follow Me](https://open.spotify.com/album/3cgAgfEmTg3z9P2FeJJXmG) | 4:20 |
 | 265 | [Slow Motion](https://open.spotify.com/track/4deUD7wJPdVJsD0yYh3ClR) | [Pressure Busspipe](https://open.spotify.com/artist/61meTZVdfRrHMotU1AJipD), [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [The Artist](https://open.spotify.com/album/4lYhbvNpqi84aKPr6FiX85) | 4:32 |
-| 266 | [Perfectionist](https://open.spotify.com/track/3LVOpdtSQ4hWAJX4MNzvlK) | [Asher Roth](https://open.spotify.com/artist/1wgY8huggK60P5nvYrwcYT), [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX), [Beanie Sigel](https://open.spotify.com/artist/0tCtGc5vt29zFZp6KXzN50) | [Asleep In The Bread Aisle \(Expanded Edition\)](https://open.spotify.com/album/6gNayQdn99Ga2g2UMma5Rc) | 3:56 |
-| 267 | [Love Language](https://open.spotify.com/track/0mZtuc61VpzJ10Rl4p8kT4) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [In A World We Don't Belong \(Pt.1\)](https://open.spotify.com/album/2qmKexam2hulUGtbFkOPO6) | 2:56 |
+| 266 | [Love Language](https://open.spotify.com/track/0mZtuc61VpzJ10Rl4p8kT4) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [In A World We Don't Belong \(Pt.1\)](https://open.spotify.com/album/2qmKexam2hulUGtbFkOPO6) | 2:56 |
+| 267 | [Perfectionist](https://open.spotify.com/track/3LVOpdtSQ4hWAJX4MNzvlK) | [Asher Roth](https://open.spotify.com/artist/1wgY8huggK60P5nvYrwcYT), [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX), [Beanie Sigel](https://open.spotify.com/artist/0tCtGc5vt29zFZp6KXzN50) | [Asleep In The Bread Aisle \(Expanded Edition\)](https://open.spotify.com/album/6gNayQdn99Ga2g2UMma5Rc) | 3:56 |
 | 268 | [Badonthebeat](https://open.spotify.com/track/6CjgPFN7Y2Sly314epQUSi) | [Malibu Babie](https://open.spotify.com/artist/30BzssruVp26rt8bIe6LcZ) | [Malibu Babie SZN: Vol I](https://open.spotify.com/album/0baOUkjYE0kLhwWaGwdu78) | 2:24 |
 | 269 | [Close](https://open.spotify.com/track/5EuZeqptc9gPyvBTI4XxvK) | [Maori](https://open.spotify.com/artist/2BVVBl3mlTyJRXxJQgrCEW), [Alexandra](https://open.spotify.com/artist/6SJW81YySWIZxiNak4T0Ss) | [Close](https://open.spotify.com/album/2JdzDl1Hrf9FCrh2KslLpX) | 3:13 |
 | 270 | [Treat](https://open.spotify.com/track/4ZiqVkjqQ5vgCWmMbo8wBM) | [Rice Krispies Treats](https://open.spotify.com/artist/7sypsCkKclWN3euFcaJIf6) | [Treat](https://open.spotify.com/album/2rzEqrSxpm9uQ2W6epyXre) | 2:46 |
@@ -282,4 +282,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 272 | [Awhoa \(Aye Daddy\)](https://open.spotify.com/track/4S4aJTbb3h1cCQN7nFBfQm) | [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [Awhoa \(Aye Daddy\)](https://open.spotify.com/album/6ZVGYPPJQqplR9ip9Y8F2a) | 2:32 |
 | 273 | [Gugoo Game \(feat\. PIKO太郎\)](https://open.spotify.com/track/5sdiIBDaZRqNaoz78UXBT7) | [吳映潔 GEmma Wu](https://open.spotify.com/artist/1pjJLeDInKlJcBH54suirm) | [GX](https://open.spotify.com/album/38hRLWQIteNB7TpDqw44FO) | 2:08 |
 
-Snapshot ID: `AcB3HAAAAAC2ruh/NiMV+VXehqcMTZXI`
+Snapshot ID: `AcB8vAAAAABUAs8eXZy/9boBC0ppu+LI`

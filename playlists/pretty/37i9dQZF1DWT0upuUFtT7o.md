@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Cover: DellaXOZ
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,850 likes - 150 songs - 8 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,841 likes - 150 songs - 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [someone](https://open.spotify.com/track/4pnJV33XLfXMeEZuNDav57) | [Deem Spencer](https://open.spotify.com/artist/4iXaGootDLE50qY42LCdnK), [Brian Nasty](https://open.spotify.com/artist/5RpQGZtxRWXdEZpV7gNdvM) | [Pain & the people around me](https://open.spotify.com/album/16RYcOy0DyFeIkI0SKZqQL) | 4:24 |
+| 1 | [someone](https://open.spotify.com/track/4pnJV33XLfXMeEZuNDav57) | [Deem Spencer](https://open.spotify.com/artist/4iXaGootDLE50qY42LCdnK), [Brian Nasty](https://open.spotify.com/artist/5RpQGZtxRWXdEZpV7gNdvM) | [Pain & the people around me](https://open.spotify.com/album/16RYcOy0DyFeIkI0SKZqQL) | 4:26 |
 | 2 | [stop talking to AI talk to God](https://open.spotify.com/track/7bLgfvkizDvmEjh6b1symF) | [svn4vr](https://open.spotify.com/artist/44Y2zfqpUrMwFWSnP37a4B) | [postgrad](https://open.spotify.com/album/4PM9YypEGn32qzfJeomz5F) | 1:56 |
 | 3 | [Sleeping Away My Prime](https://open.spotify.com/track/56FzCuIZBTssi5o8nWR7bn) | [DellaXOZ](https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e) | [Sleeping Away My Prime](https://open.spotify.com/album/15XvORWwKNSEi6V5ojg5RK) | 2:33 |
 | 4 | [Fly Away](https://open.spotify.com/track/6N7kR64unjAKBgnYDNOhIX) | [Girlfriend Wife](https://open.spotify.com/artist/7zvFSAz5RYFZcNQyHixDDM) | [Fly Away](https://open.spotify.com/album/0kaoBkP2qYkCfVfCYTuoPW) | 3:24 |

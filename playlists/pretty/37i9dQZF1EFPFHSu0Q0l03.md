@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPFHSu0Q0l03.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Zbqt8mPfYuL4tGBq13sFT">Aaron Dessner</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,030 likes - 267 songs - 17 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,031 likes - 267 songs - 17 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,8 +143,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPFHSu0Q0l03.md) - [plain]
 | 133 | [Born to Beg](https://open.spotify.com/track/5oMorrhWYwqvcBEFsT2Pkx) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Sleep Well Beast](https://open.spotify.com/album/2lsM7Py65EOtlq8BgwkXCS) | 4:22 |
 | 134 | [Punchline](https://open.spotify.com/track/4gqRVDvnILW0cvBWZzKcRf) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg) | 3:26 |
 | 135 | [Your Mind Is Not Your Friend \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/0hMqlU7TLbX2HaYmwHPquP) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [First Two Pages of Frankenstein](https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6) | 4:24 |
-| 136 | [Ada](https://open.spotify.com/track/3ec6fb3DxyGkjGFP3MnVsg) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Boxer](https://open.spotify.com/album/3Td1c2eAXaFzU4F8QCbFbp) | 4:03 |
-| 137 | [A Cautionary Tale](https://open.spotify.com/track/45V401Bth2A0G5yh1B2irI) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/3ZWIfcV7tylRzVh6amRaDv) | 4:16 |
+| 136 | [A Cautionary Tale](https://open.spotify.com/track/45V401Bth2A0G5yh1B2irI) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/3ZWIfcV7tylRzVh6amRaDv) | 4:16 |
+| 137 | [Ada](https://open.spotify.com/track/3ec6fb3DxyGkjGFP3MnVsg) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Boxer](https://open.spotify.com/album/3Td1c2eAXaFzU4F8QCbFbp) | 4:03 |
 | 138 | [Where Is Her Head](https://open.spotify.com/track/7feLRaxYCAznOMuFVgJluq) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [I Am Easy to Find](https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h) | 4:41 |
 | 139 | [Lucky You](https://open.spotify.com/track/19GDzR3zE3TekzL8FwmPUy) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Sad Songs for Dirty Lovers](https://open.spotify.com/album/2GXoU6gpOlx1oZ0DkNgrUM) | 4:22 |
 | 140 | [That’s On Me](https://open.spotify.com/track/6n8UfmEOGvDGxYRUrGf4z7) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg) | 3:47 |
@@ -186,15 +186,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPFHSu0Q0l03.md) - [plain]
 | 176 | [Hymnostic](https://open.spotify.com/track/5IKfKPPzk7AFHTUGVVcD1B) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O) | [Big Red Machine](https://open.spotify.com/album/1c3dz3iboMl5gWpLfTi6D2) | 3:02 |
 | 177 | [Deep Green](https://open.spotify.com/track/4vvJPjHFnxpNIzWurp4rkW) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O) | [Big Red Machine](https://open.spotify.com/album/1c3dz3iboMl5gWpLfTi6D2) | 3:59 |
 | 178 | [It Never Happened](https://open.spotify.com/track/7timozTlGw1k7yyZH4RTP3) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Sad Songs for Dirty Lovers](https://open.spotify.com/album/2GXoU6gpOlx1oZ0DkNgrUM) | 4:37 |
-| 179 | [Wasp Nest \- 2021 Remaster](https://open.spotify.com/track/6qdTFvp8MBJTpP0Pwzuub1) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Cherry Tree \(2021 Remaster\)](https://open.spotify.com/album/5MoABbHznJUM1jwGlJqmLl) | 3:22 |
-| 180 | [Ice Machines](https://open.spotify.com/track/5HjovA5JOU4SrNxotF3i1d) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [First Two Pages of Frankenstein](https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6) | 4:16 |
-| 181 | [The Old Religion](https://open.spotify.com/track/6Z2hokFLCbEXKnnBosDj8u) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Everybody Scream](https://open.spotify.com/album/0z7l9VEJyFMv8p8wffRDaF) | 3:40 |
+| 179 | [The Old Religion](https://open.spotify.com/track/6Z2hokFLCbEXKnnBosDj8u) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Everybody Scream](https://open.spotify.com/album/0z7l9VEJyFMv8p8wffRDaF) | 3:40 |
+| 180 | [Wasp Nest \- 2021 Remaster](https://open.spotify.com/track/6qdTFvp8MBJTpP0Pwzuub1) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Cherry Tree \(2021 Remaster\)](https://open.spotify.com/album/5MoABbHznJUM1jwGlJqmLl) | 3:22 |
+| 181 | [Ice Machines](https://open.spotify.com/track/5HjovA5JOU4SrNxotF3i1d) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [First Two Pages of Frankenstein](https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6) | 4:16 |
 | 182 | [Walk Off](https://open.spotify.com/track/2hfJTuC305vhBkYvuaDY0f) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [High Violet](https://open.spotify.com/album/4mo2QfpquAIMEaoKvNa3Rz) | 2:40 |
 | 183 | [Sin\-Eaters](https://open.spotify.com/track/5hKhpNCD8xq0wXvwEVhnZ1) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [High Violet](https://open.spotify.com/album/4mo2QfpquAIMEaoKvNa3Rz) | 3:39 |
 | 184 | [You've Done It Again, Virginia](https://open.spotify.com/track/5MQhSIHpnS6IJ0UDyA6Bm1) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [A Skin, A Night + The Virginia EP](https://open.spotify.com/album/7zoPW334cQNfQyWWteTwMj) | 3:09 |
-| 185 | [Santa Clara](https://open.spotify.com/track/1zrxUkEoazGfsqr2cq7vxf) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Mistaken for Strangers](https://open.spotify.com/album/31Umwz6RoaU1AciJEuQ65S) | 4:05 |
-| 186 | [Send For Me](https://open.spotify.com/track/4Eu8A8slqHySKSh10wgR49) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [First Two Pages of Frankenstein](https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6) | 4:14 |
-| 187 | [Perfume and Milk](https://open.spotify.com/track/2R0HZcJCaamgHlY5gdNIi7) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Everybody Scream](https://open.spotify.com/album/0z7l9VEJyFMv8p8wffRDaF) | 4:08 |
+| 185 | [Perfume and Milk](https://open.spotify.com/track/2R0HZcJCaamgHlY5gdNIi7) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Everybody Scream](https://open.spotify.com/album/0z7l9VEJyFMv8p8wffRDaF) | 4:08 |
+| 186 | [Santa Clara](https://open.spotify.com/track/1zrxUkEoazGfsqr2cq7vxf) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Mistaken for Strangers](https://open.spotify.com/album/31Umwz6RoaU1AciJEuQ65S) | 4:05 |
+| 187 | [Send For Me](https://open.spotify.com/track/4Eu8A8slqHySKSh10wgR49) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [First Two Pages of Frankenstein](https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6) | 4:14 |
 | 188 | [Change the Locks](https://open.spotify.com/track/1fgMGkGIzpjpwsqp85FDJP) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Hold On Baby](https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c) | 4:29 |
 | 189 | [Sorry Kid](https://open.spotify.com/track/4WkXkSKdcUgvBTNJenI7h1) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Collections From The Whiteout](https://open.spotify.com/album/09P40BHcaue9iF4QasXMTK) | 4:59 |
 | 190 | [Dreaming](https://open.spotify.com/track/0kGhj3TL4RSuwgtqpo1rc4) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Laugh Track](https://open.spotify.com/album/7re8T0K3s8v3S3xeiQcOYi) | 3:46 |
@@ -276,4 +276,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPFHSu0Q0l03.md) - [plain]
 | 266 | [Hold On](https://open.spotify.com/track/3u8YEarq9quMVJqCFzSayu) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Hysteria](https://open.spotify.com/album/1yZlQ1M6CLciH3x74848nk) | 3:36 |
 | 267 | [Conversation 16](https://open.spotify.com/track/5oCTSVz91wGO0k64vVmkiY) | [Scream Silence](https://open.spotify.com/artist/2JmERTSFL7NdBSGRnEduLf) | [Heartburnt](https://open.spotify.com/album/0m06y2RzVqnUv7rb5TW9W1) | 5:05 |
 
-Snapshot ID: `AcB3HAAAAACzGSTKHAKnDdagT1Tv2DgC`
+Snapshot ID: `AcB8vAAAAACp/nELFyfpa0BzzgCgYo2A`

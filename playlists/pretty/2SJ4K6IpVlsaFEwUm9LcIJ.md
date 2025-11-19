@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to nov\-dec 2025
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,547 likes - 15 songs - 57 min 22 sec
+[margeaux](https://open.spotify.com/user/1220511975) - 23,557 likes - 16 songs - 59 min 44 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,5 +23,6 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 13 | [Arcadia](https://open.spotify.com/track/1xTi10LGVMv9MbKbg944mm) | [dome 3000](https://open.spotify.com/artist/3mBx6bxMOEGvTYe2B5pTH5) | [After The Dream Comes True](https://open.spotify.com/album/4xOPUGqhLNceNlxXxiDIfX) | 2:11 |
 | 14 | [Behind The Ears](https://open.spotify.com/track/23fAwEKmxaT0R9mYS5elJa) | [sugar plant](https://open.spotify.com/artist/0KrBZKq6kpcv9N0vBesN8o) | [Dryfruit](https://open.spotify.com/album/2eVOt0a7wQp0R09AXqwleG) | 10:09 |
 | 15 | [Horse County](https://open.spotify.com/track/70lW1sv0qx7SsTEOyXBFT9) | [YeYe](https://open.spotify.com/artist/2YUe21UG1hJsuhy9E3bzxp) | [Horse County](https://open.spotify.com/album/3B0xXGGFKGbLZzJ2yuJNNS) | 3:31 |
+| 16 | [Circlesz](https://open.spotify.com/track/31djYAZR2kl3HotgjFScEi) | [GENA](https://open.spotify.com/artist/1ptSYluUqpp93ZRQEYJ4bE), [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ) | [Circlesz](https://open.spotify.com/album/6gnIbhhnF3e7bT4VSvaTf4) | 2:21 |
 
-Snapshot ID: `AAANahZ5HNwHb0xTAKh8AI4mJdjzRysj`
+Snapshot ID: `AAANa4eJg+LbbVwZsYfxvEzzEAAc/8M6`

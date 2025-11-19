@@ -1,12 +1,12 @@
 {
   "description": "Non-stop een goed gevoel!",
-  "num_followers": 686048,
+  "num_followers": 686039,
   "original_name": "Happy Tunes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC4LOnFOZDTQeNc7ZfE1yIlZ8/iN",
+  "snapshot_id": "AAAAAMLOOBeNEgPRp3IpcjaRsJSGd8Ey",
   "tracks": [
     {
       "added_at": "2025-11-13 23:00:26",
@@ -91,6 +91,22 @@
     {
       "added_at": "2025-11-13 23:00:26",
       "album": {
+        "name": "Torches",
+        "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
+      },
+      "artists": [
+        {
+          "name": "Foster The People",
+          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+        }
+      ],
+      "duration_ms": 239600,
+      "name": "Pumped Up Kicks",
+      "url": "https://open.spotify.com/track/7w87IxuO7BDcJ3YUqCyMTT"
+    },
+    {
+      "added_at": "2025-11-13 23:00:26",
+      "album": {
         "name": "Sweet Dreams (Are Made Of This)",
         "url": "https://open.spotify.com/album/5jNDWA19BJbE24x1UUJGRY"
       },
@@ -127,22 +143,6 @@
       "duration_ms": 278719,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D"
-    },
-    {
-      "added_at": "2025-11-13 23:00:26",
-      "album": {
-        "name": "Torches",
-        "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
-      },
-      "artists": [
-        {
-          "name": "Foster The People",
-          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
-        }
-      ],
-      "duration_ms": 239600,
-      "name": "Pumped Up Kicks",
-      "url": "https://open.spotify.com/track/7w87IxuO7BDcJ3YUqCyMTT"
     },
     {
       "added_at": "2025-11-13 23:00:26",
@@ -468,7 +468,7 @@
           "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
         }
       ],
-      "duration_ms": 248413,
+      "duration_ms": 247632,
       "name": "Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]",
       "url": "https://open.spotify.com/track/2Foc5Q5nqNiosCNqttzHof"
     },
@@ -516,7 +516,7 @@
           "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
         }
       ],
-      "duration_ms": 303373,
+      "duration_ms": 303820,
       "name": "Mr. Blue Sky",
       "url": "https://open.spotify.com/track/2RlgNHKcydI9sayD2Df2xp"
     },
@@ -643,6 +643,22 @@
     {
       "added_at": "2025-11-13 23:00:26",
       "album": {
+        "name": "Future Nostalgia",
+        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 221820,
+      "name": "Break My Heart",
+      "url": "https://open.spotify.com/track/017PF4Q3l4DBUiWoXk4OWT"
+    },
+    {
+      "added_at": "2025-11-13 23:00:26",
+      "album": {
         "name": "New Eyes",
         "url": "https://open.spotify.com/album/0dNt3MfPrvj6mHmajSuahw"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 227833,
       "name": "Rather Be (feat. Jess Glynne)",
       "url": "https://open.spotify.com/track/61dCUoMCg28qEBzrW6htYM"
-    },
-    {
-      "added_at": "2025-11-13 23:00:26",
-      "album": {
-        "name": "Future Nostalgia",
-        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 221820,
-      "name": "Break My Heart",
-      "url": "https://open.spotify.com/track/017PF4Q3l4DBUiWoXk4OWT"
     },
     {
       "added_at": "2025-11-13 23:00:26",
@@ -727,6 +727,22 @@
     {
       "added_at": "2025-11-13 23:00:26",
       "album": {
+        "name": "Dua Lipa (Deluxe)",
+        "url": "https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 217946,
+      "name": "IDGAF",
+      "url": "https://open.spotify.com/track/76cy1WJvNGJTj78UqeA5zr"
+    },
+    {
+      "added_at": "2025-11-13 23:00:26",
+      "album": {
         "name": "Toulouse Street",
         "url": "https://open.spotify.com/album/2x1Yi30lsWJUoBj1kmovnm"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 195973,
       "name": "Drive By",
       "url": "https://open.spotify.com/track/0KAiuUOrLTIkzkpfpn9jb9"
-    },
-    {
-      "added_at": "2025-11-13 23:00:26",
-      "album": {
-        "name": "Dua Lipa (Deluxe)",
-        "url": "https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 217946,
-      "name": "IDGAF",
-      "url": "https://open.spotify.com/track/76cy1WJvNGJTj78UqeA5zr"
     },
     {
       "added_at": "2025-11-13 23:00:26",
@@ -907,22 +907,6 @@
     {
       "added_at": "2025-11-13 23:00:26",
       "album": {
-        "name": "Daniel Powter",
-        "url": "https://open.spotify.com/album/4zhigAhPwqp43XVHBiVeQI"
-      },
-      "artists": [
-        {
-          "name": "Daniel Powter",
-          "url": "https://open.spotify.com/artist/7xTcuBOIAAIGDOSvwYFPzk"
-        }
-      ],
-      "duration_ms": 233640,
-      "name": "Bad Day",
-      "url": "https://open.spotify.com/track/0mUyMawtxj1CJ76kn9gIZK"
-    },
-    {
-      "added_at": "2025-11-13 23:00:26",
-      "album": {
         "name": "Night Visions",
         "url": "https://open.spotify.com/album/6nxDQi0FeEwccEPJeNySoS"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 192280,
       "name": "On Top Of The World",
       "url": "https://open.spotify.com/track/213x4gsFDm04hSqIUkg88w"
+    },
+    {
+      "added_at": "2025-11-13 23:00:26",
+      "album": {
+        "name": "Daniel Powter",
+        "url": "https://open.spotify.com/album/4zhigAhPwqp43XVHBiVeQI"
+      },
+      "artists": [
+        {
+          "name": "Daniel Powter",
+          "url": "https://open.spotify.com/artist/7xTcuBOIAAIGDOSvwYFPzk"
+        }
+      ],
+      "duration_ms": 233640,
+      "name": "Bad Day",
+      "url": "https://open.spotify.com/track/0mUyMawtxj1CJ76kn9gIZK"
     },
     {
       "added_at": "2025-11-13 23:00:26",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2025-11-13 23:00:26",
       "album": {
-        "name": "Please Please Me (Remastered)",
-        "url": "https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 155226,
-      "name": "Twist And Shout - Remastered 2009",
-      "url": "https://open.spotify.com/track/5ZBeML7Lf3FMEVviTyvi8l"
-    },
-    {
-      "added_at": "2025-11-13 23:00:26",
-      "album": {
         "name": "Jazz (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 248173,
       "name": "Give A Little Bit",
       "url": "https://open.spotify.com/track/6XUHsYE38CEbYunT983O9G"
+    },
+    {
+      "added_at": "2025-11-13 23:00:26",
+      "album": {
+        "name": "Please Please Me (Remastered)",
+        "url": "https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 155226,
+      "name": "Twist And Shout - Remastered 2009",
+      "url": "https://open.spotify.com/track/5ZBeML7Lf3FMEVviTyvi8l"
     },
     {
       "added_at": "2025-11-13 23:00:26",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2025-11-13 23:00:26",
       "album": {
-        "name": "Staying at Tamara's",
-        "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 201287,
-      "name": "Shotgun",
-      "url": "https://open.spotify.com/track/4ofwffwvvnbSkrMSCKQDaC"
-    },
-    {
-      "added_at": "2025-11-13 23:00:26",
-      "album": {
         "name": "Night Moves",
         "url": "https://open.spotify.com/album/5QkOpsZupEPLq186YOrBNe"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 324422,
       "name": "Night Moves",
       "url": "https://open.spotify.com/track/6UBjSnyP1O5W5ndJoO9vUk"
+    },
+    {
+      "added_at": "2025-11-13 23:00:26",
+      "album": {
+        "name": "Staying at Tamara's",
+        "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 201287,
+      "name": "Shotgun",
+      "url": "https://open.spotify.com/track/4ofwffwvvnbSkrMSCKQDaC"
     },
     {
       "added_at": "2025-11-13 23:00:26",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2025-11-13 23:00:26",
       "album": {
+        "name": "Blurring The Edges",
+        "url": "https://open.spotify.com/album/56viTB3cu7FbFwAWDctRz1"
+      },
+      "artists": [
+        {
+          "name": "Meredith Brooks",
+          "url": "https://open.spotify.com/artist/2QmLFuIDtNDmmJY3OtvinN"
+        }
+      ],
+      "duration_ms": 252760,
+      "name": "Bitch",
+      "url": "https://open.spotify.com/track/3i6qNxyVgIdUZTTi5m25EM"
+    },
+    {
+      "added_at": "2025-11-13 23:00:26",
+      "album": {
         "name": "Inseparable",
         "url": "https://open.spotify.com/album/1eTNYVS06XwHjwMssf6Fsx"
       },
@@ -1315,38 +1331,18 @@
     {
       "added_at": "2025-11-13 23:00:26",
       "album": {
-        "name": "Blurring The Edges",
-        "url": "https://open.spotify.com/album/56viTB3cu7FbFwAWDctRz1"
+        "name": "In Between Dreams",
+        "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
       },
       "artists": [
         {
-          "name": "Meredith Brooks",
-          "url": "https://open.spotify.com/artist/2QmLFuIDtNDmmJY3OtvinN"
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
         }
       ],
-      "duration_ms": 252760,
-      "name": "Bitch",
-      "url": "https://open.spotify.com/track/3i6qNxyVgIdUZTTi5m25EM"
-    },
-    {
-      "added_at": "2025-11-13 23:00:26",
-      "album": {
-        "name": "Grease (The Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
-      },
-      "artists": [
-        {
-          "name": "John Travolta",
-          "url": "https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH"
-        },
-        {
-          "name": "Olivia Newton-John",
-          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
-        }
-      ],
-      "duration_ms": 216906,
-      "name": "Summer Nights - From \u201cGrease\u201d",
-      "url": "https://open.spotify.com/track/2AVkArcfALVk2X8sfPRzya"
+      "duration_ms": 207680,
+      "name": "Better Together",
+      "url": "https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y"
     },
     {
       "added_at": "2025-11-13 23:00:26",
@@ -1367,22 +1363,6 @@
       "duration_ms": 205604,
       "name": "Bam Bam (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1"
-    },
-    {
-      "added_at": "2025-11-13 23:00:26",
-      "album": {
-        "name": "In Between Dreams",
-        "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
-      },
-      "artists": [
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        }
-      ],
-      "duration_ms": 207680,
-      "name": "Better Together",
-      "url": "https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y"
     },
     {
       "added_at": "2025-11-13 23:00:26",
@@ -1503,22 +1483,6 @@
     {
       "added_at": "2025-11-13 23:00:26",
       "album": {
-        "name": "Costello Music",
-        "url": "https://open.spotify.com/album/7avNT7QnpWXl1Khqnsguaw"
-      },
-      "artists": [
-        {
-          "name": "The Fratellis",
-          "url": "https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G"
-        }
-      ],
-      "duration_ms": 215306,
-      "name": "Chelsea Dagger",
-      "url": "https://open.spotify.com/track/1bCmvezFg5MRcENzCGG1Cy"
-    },
-    {
-      "added_at": "2025-11-13 23:00:26",
-      "album": {
         "name": "Jack Johnson And Friends: Sing-A-Longs And Lullabies For The Film Curious George",
         "url": "https://open.spotify.com/album/3Jl7i9Vo0Ht4co9SqTFjQy"
       },
@@ -1531,6 +1495,22 @@
       "duration_ms": 208653,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/6shRGWCtBUOPFLFTTqXZIC"
+    },
+    {
+      "added_at": "2025-11-13 23:00:26",
+      "album": {
+        "name": "Costello Music",
+        "url": "https://open.spotify.com/album/7avNT7QnpWXl1Khqnsguaw"
+      },
+      "artists": [
+        {
+          "name": "The Fratellis",
+          "url": "https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G"
+        }
+      ],
+      "duration_ms": 215306,
+      "name": "Chelsea Dagger",
+      "url": "https://open.spotify.com/track/1bCmvezFg5MRcENzCGG1Cy"
     },
     {
       "added_at": "2025-11-13 23:00:26",
@@ -1651,22 +1631,6 @@
     {
       "added_at": "2025-11-13 23:00:26",
       "album": {
-        "name": "Gold Rush Kid",
-        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 167613,
-      "name": "Green Green Grass",
-      "url": "https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB"
-    },
-    {
-      "added_at": "2025-11-13 23:00:26",
-      "album": {
         "name": "The Lockdown Sessions",
         "url": "https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om"
       },
@@ -1687,6 +1651,22 @@
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/7rglLriMNBPAyuJOMGwi39"
+    },
+    {
+      "added_at": "2025-11-13 23:00:26",
+      "album": {
+        "name": "Gold Rush Kid",
+        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 167613,
+      "name": "Green Green Grass",
+      "url": "https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB"
     },
     {
       "added_at": "2025-11-13 23:00:26",
@@ -2131,6 +2111,22 @@
       "duration_ms": 219893,
       "name": "Fuck You",
       "url": "https://open.spotify.com/track/5st5644IlBmKiiRE73UsoZ"
+    },
+    {
+      "added_at": "2025-11-13 23:00:26",
+      "album": {
+        "name": "The Magnificent Tree",
+        "url": "https://open.spotify.com/album/10QqxagLfdvXvVL9CpdHeE"
+      },
+      "artists": [
+        {
+          "name": "Hooverphonic",
+          "url": "https://open.spotify.com/artist/5EP020iZcwBqHRnJftibXX"
+        }
+      ],
+      "duration_ms": 223733,
+      "name": "Mad About You",
+      "url": "https://open.spotify.com/track/5drK2kTE2mrUdV33iHWyrx"
     }
   ],
   "unique_name": "Happy Tunes",

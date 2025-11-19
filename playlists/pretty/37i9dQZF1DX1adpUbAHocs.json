@@ -1,6 +1,6 @@
 {
   "description": "hop in and take the long way.",
-  "num_followers": 644077,
+  "num_followers": 644015,
   "original_name": "Scenic Route",
   "owner": {
     "name": "Spotify",
@@ -339,6 +339,38 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
+        "name": "Resin",
+        "url": "https://open.spotify.com/album/3zurNYr1HaGcnoI20tvYSX"
+      },
+      "artists": [
+        {
+          "name": "Dustin Tebbutt",
+          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
+        }
+      ],
+      "duration_ms": 203939,
+      "name": "Resin",
+      "url": "https://open.spotify.com/track/6AmrRS8slCMxGUZePjV6dH"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
+        "name": "And The War Came",
+        "url": "https://open.spotify.com/album/1Sq6MrxVCTezf62YzsbzED"
+      },
+      "artists": [
+        {
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+        }
+      ],
+      "duration_ms": 319840,
+      "name": "Family and Genus",
+      "url": "https://open.spotify.com/track/5lJ1NMNz6ymwdaL9aejm8e"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
         "name": "The Highwomen",
         "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
       },
@@ -371,38 +403,6 @@
       "duration_ms": 212480,
       "name": "Highwomen",
       "url": "https://open.spotify.com/track/0CTNLJMN9dMG4cl5qgsZSv"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
-        "name": "And The War Came",
-        "url": "https://open.spotify.com/album/1Sq6MrxVCTezf62YzsbzED"
-      },
-      "artists": [
-        {
-          "name": "Shakey Graves",
-          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
-        }
-      ],
-      "duration_ms": 319840,
-      "name": "Family and Genus",
-      "url": "https://open.spotify.com/track/5lJ1NMNz6ymwdaL9aejm8e"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
-        "name": "Resin",
-        "url": "https://open.spotify.com/album/3zurNYr1HaGcnoI20tvYSX"
-      },
-      "artists": [
-        {
-          "name": "Dustin Tebbutt",
-          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
-        }
-      ],
-      "duration_ms": 203939,
-      "name": "Resin",
-      "url": "https://open.spotify.com/track/6AmrRS8slCMxGUZePjV6dH"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -783,6 +783,22 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
+        "name": "Neptune",
+        "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
+      },
+      "artists": [
+        {
+          "name": "Tall Heights",
+          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+        }
+      ],
+      "duration_ms": 244951,
+      "name": "Horse to Water",
+      "url": "https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 195106,
       "name": "Believe",
       "url": "https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
-        "name": "Neptune",
-        "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
-      },
-      "artists": [
-        {
-          "name": "Tall Heights",
-          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
-        }
-      ],
-      "duration_ms": 244960,
-      "name": "Horse to Water",
-      "url": "https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "Virginia (Wind In The Night)",
-        "url": "https://open.spotify.com/album/0NgrmQ40zdQLLqZF09wiIx"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 205293,
-      "name": "Virginia (Wind In The Night)",
-      "url": "https://open.spotify.com/track/03gx5xXMcfEK7ZnOHsjvJL"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
         "name": "The Third Gleam",
         "url": "https://open.spotify.com/album/6qHVJFxoizJAdhB7CdbaV2"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 244280,
       "name": "Untitled #4",
       "url": "https://open.spotify.com/track/1kq9lzEHoY3p8naHWpqNlh"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
+        "name": "Virginia (Wind In The Night)",
+        "url": "https://open.spotify.com/album/0NgrmQ40zdQLLqZF09wiIx"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 205293,
+      "name": "Virginia (Wind In The Night)",
+      "url": "https://open.spotify.com/track/03gx5xXMcfEK7ZnOHsjvJL"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "Another Man's Jeans",
-        "url": "https://open.spotify.com/album/54xLeetI8f6mslHLEJ5K2X"
-      },
-      "artists": [
-        {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
-        }
-      ],
-      "duration_ms": 165067,
-      "name": "Another Man's Jeans",
-      "url": "https://open.spotify.com/track/2Tv3bPKLESHfl8jgAlY2Pv"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
         "name": "Sometimes I Wish We Were An Eagle",
         "url": "https://open.spotify.com/album/4bKHXqEVmt32YU7u51GIHB"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 342746,
       "name": "Rococo Zephyr",
       "url": "https://open.spotify.com/track/4pptcDdsgxN4qsjOOzotI6"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
+        "name": "Another Man's Jeans",
+        "url": "https://open.spotify.com/album/54xLeetI8f6mslHLEJ5K2X"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "duration_ms": 165067,
+      "name": "Another Man's Jeans",
+      "url": "https://open.spotify.com/track/2Tv3bPKLESHfl8jgAlY2Pv"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "Walk Through Fire (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL"
-      },
-      "artists": [
-        {
-          "name": "Yola",
-          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
-        }
-      ],
-      "duration_ms": 195376,
-      "name": "Ride Out In The Country",
-      "url": "https://open.spotify.com/track/4FCIOhpTSqt1hjYDdLFScX"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
         "name": "Don't Do Me Good",
         "url": "https://open.spotify.com/album/26sIa4onZCyC8VWiKLSwuB"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 253613,
       "name": "Don't Do Me Good",
       "url": "https://open.spotify.com/track/0oiiE9xAEoq7Pk49LtDc9W"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
+        "name": "Walk Through Fire (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL"
+      },
+      "artists": [
+        {
+          "name": "Yola",
+          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
+        }
+      ],
+      "duration_ms": 195376,
+      "name": "Ride Out In The Country",
+      "url": "https://open.spotify.com/track/4FCIOhpTSqt1hjYDdLFScX"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
+        "name": "Tight Knit",
+        "url": "https://open.spotify.com/album/4vS4ELlf7HddnAg5mactkC"
+      },
+      "artists": [
+        {
+          "name": "Vetiver",
+          "url": "https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E"
+        }
+      ],
+      "duration_ms": 318893,
+      "name": "Rolling Sea",
+      "url": "https://open.spotify.com/track/5BI2FOOcSqnrjsjZL29YuS"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
         "name": "Dancin' Around My Grave",
         "url": "https://open.spotify.com/album/06H89MK9A5I2v7Baf2kFSF"
       },
@@ -1643,34 +1659,18 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "Tight Knit",
-        "url": "https://open.spotify.com/album/4vS4ELlf7HddnAg5mactkC"
+        "name": "Migration Stories",
+        "url": "https://open.spotify.com/album/6wkWIyipqrQI4xLLxv6IGy"
       },
       "artists": [
         {
-          "name": "Vetiver",
-          "url": "https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E"
+          "name": "M. Ward",
+          "url": "https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI"
         }
       ],
-      "duration_ms": 318893,
-      "name": "Rolling Sea",
-      "url": "https://open.spotify.com/track/5BI2FOOcSqnrjsjZL29YuS"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
-        "name": "The Pet Parade",
-        "url": "https://open.spotify.com/album/4fyZyhtsOevsFYLbLitaHZ"
-      },
-      "artists": [
-        {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
-        }
-      ],
-      "duration_ms": 248925,
-      "name": "The Balcony",
-      "url": "https://open.spotify.com/track/27GaPhdSkbvrfPTKZk2C6V"
+      "duration_ms": 208298,
+      "name": "Migration of Souls",
+      "url": "https://open.spotify.com/track/2GmGy1eJTvPACm3ekX0hxD"
     }
   ],
   "unique_name": "Scenic Route",

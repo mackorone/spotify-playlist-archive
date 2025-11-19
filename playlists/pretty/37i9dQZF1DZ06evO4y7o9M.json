@@ -1,12 +1,12 @@
 {
   "description": "This is Junior H. The essential tracks, all in one playlist.",
-  "num_followers": 909464,
+  "num_followers": 909749,
   "original_name": "This Is Junior H",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRkUAAAAAAB1AmuQKFc28FaxGjjKDE9N",
+  "snapshot_id": "aRplgAAAAABP8hR+nxce7DBt52hI+0yP",
   "tracks": [
     {
       "added_at": null,
@@ -447,6 +447,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Comienzo",
+        "url": "https://open.spotify.com/album/6Zk9W9Ab3CnhttW5nBOUnY"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 166570,
+      "name": "EN ALTAVOZ",
+      "url": "https://open.spotify.com/track/7GRBoiZ3aXbjIn4rML7GQE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cruisin' with Junior H",
         "url": "https://open.spotify.com/album/0HANqWtJABVpAWVrQzE2XM"
       },
@@ -483,26 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "a new star (1 9 9 3)",
-        "url": "https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 223783,
-      "name": "Un Desperdicio",
-      "url": "https://open.spotify.com/track/75qepWUT3FEyPyXQMMMVZm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MUSICA <3",
         "url": "https://open.spotify.com/album/1wAx2wnAA7F1SRrznW2GcH"
       },
@@ -519,22 +519,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Comienzo",
-        "url": "https://open.spotify.com/album/6Zk9W9Ab3CnhttW5nBOUnY"
+        "name": "a new star (1 9 9 3)",
+        "url": "https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4"
       },
       "artists": [
         {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
         },
         {
           "name": "Junior H",
           "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
         }
       ],
-      "duration_ms": 166570,
-      "name": "EN ALTAVOZ",
-      "url": "https://open.spotify.com/track/7GRBoiZ3aXbjIn4rML7GQE"
+      "duration_ms": 223783,
+      "name": "Un Desperdicio",
+      "url": "https://open.spotify.com/track/75qepWUT3FEyPyXQMMMVZm"
     },
     {
       "added_at": null,

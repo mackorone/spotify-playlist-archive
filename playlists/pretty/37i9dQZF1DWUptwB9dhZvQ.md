@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 
 > Its time to relish the best themes of Kollywood!<br/>Cover : Coolie
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,475 likes - 75 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,507 likes - 75 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 | 72 | [Amar Theme \- Background Score](https://open.spotify.com/track/2zVOFcdPAurQMbP1D6czwo) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 2:28 |
 | 73 | [Ghost Unmasked \- Background Score](https://open.spotify.com/track/0wgOTeDbMblOxncPcXLCvf) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 1:14 |
 | 74 | [Beat of Master \- Instrumental](https://open.spotify.com/track/7wQR696XF4L91Zr9groP8v) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Master \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/11YJfivZjEaEUU9lJmeidh) | 1:15 |
-| 75 | [Mathew Theme \(From "Jailer"\)](https://open.spotify.com/track/1DfpYz98hG74VoH8ROcvw2) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Mathew Theme \(From "Jailer"\)](https://open.spotify.com/album/6GD2CMMyn07ALf3tguGZZF) | 2:09 |
+| 75 | [Glimpse of Harold Das \(From "Leo"\)](https://open.spotify.com/track/622DShHXxhC32wnAHbVpuK) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Glimpse of Harold Das \(From "Leo"\)](https://open.spotify.com/album/4XnpLZbKAaScKfvFlRouQ1) | 0:42 |
 
 Snapshot ID: `AAAAANt5wK5fts0iV5W+elMVDLfF8shf`

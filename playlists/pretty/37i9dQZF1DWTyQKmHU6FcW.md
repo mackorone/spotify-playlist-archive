@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyQKmHU6FcW.md) - [plain]
 
 > Elvis Presley's most romantic songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,171 likes - 35 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,192 likes - 35 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Love Me](https://open.spotify.com/track/2DQ5r0crvortwaNRYcninK) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis](https://open.spotify.com/album/4BxOdLUpWYFL0mfdYiukyQ) | 2:43 |
 | 2 | [It's Now or Never](https://open.spotify.com/track/6p8LNHMqJiUMjPXy4rnO5H) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis 30 \#1 Hits \(Expanded Edition\)](https://open.spotify.com/album/0uJJdEZ8sRLNPoKEkjvqTD) | 3:14 |
-| 3 | [Burning Love](https://open.spotify.com/track/7zMUCLm1TN9o9JlLISztxO) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis \(Fool\)](https://open.spotify.com/album/3gpHiNAmT5oXVxe6ewTGuN) | 2:50 |
+| 3 | [Burning Love](https://open.spotify.com/track/7zMUCLm1TN9o9JlLISztxO) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis \(Fool\)](https://open.spotify.com/album/3gpHiNAmT5oXVxe6ewTGuN) | 2:51 |
 | 4 | [Love Me Tender](https://open.spotify.com/track/7iBBcw61QVJxI3NDzlpX2E) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis 30 \#1 Hits](https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc) | 2:42 |
 | 5 | [Crying In the Chapel](https://open.spotify.com/track/0DIvlGtdeLS51h7gnud6Zw) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis Ultimate Gospel](https://open.spotify.com/album/6IsYeEEmFve5FbJ4um36S0) | 2:23 |
-| 6 | [Always On My Mind](https://open.spotify.com/track/1B5Tp2Ml9nLlmTSJx8xVfI) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis \(Fool\)](https://open.spotify.com/album/3gpHiNAmT5oXVxe6ewTGuN) | 3:38 |
+| 6 | [Always On My Mind](https://open.spotify.com/track/1B5Tp2Ml9nLlmTSJx8xVfI) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis \(Fool\)](https://open.spotify.com/album/3gpHiNAmT5oXVxe6ewTGuN) | 3:39 |
 | 7 | [Can't Help Falling in Love](https://open.spotify.com/track/44AyOl4qVkzS48vBsbNXaC) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Blue Hawaii](https://open.spotify.com/album/7xe8VI48TxUpU1IIo0RfGi) | 3:02 |
 | 8 | [Spanish Eyes](https://open.spotify.com/track/154uez7TUERGpe27JXTegC) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [The 50 Greatest Love Songs](https://open.spotify.com/album/5cY3REzxOvyi3FI5kgeqKS) | 2:21 |
 | 9 | [One Night](https://open.spotify.com/track/3nwxwYSwdFvyLngepyPxOZ) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [50,000,000 Elvis Fans Can't Be Wrong: Elvis' Gold Records, Vol\. 2](https://open.spotify.com/album/0s357yjkkRrf0KCXtnISGe) | 2:32 |
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyQKmHU6FcW.md) - [plain]
 | 19 | [There Goes My Everything](https://open.spotify.com/track/0BUPl8PH68Vjqp6WxQNRvD) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [The 50 Greatest Love Songs](https://open.spotify.com/album/5cY3REzxOvyi3FI5kgeqKS) | 2:57 |
 | 20 | [Memories \- Live](https://open.spotify.com/track/6OiKLQ2SuDpzmuHpBuoCOa) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [The Complete '68 Comeback Special\- The 40th Anniversary Edition](https://open.spotify.com/album/3V9kEPY93tqrMkTksmgrXH) | 3:18 |
 | 21 | [You've Lost That Loving Feeling \- Live at The International Hotel, Las Vegas](https://open.spotify.com/track/3Kb4kr3DGzzU5OtYqycWvE) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [That's the Way It Is](https://open.spotify.com/album/5Daouulcid6tWztS39KWhc) | 4:24 |
-| 22 | [Kentucky Rain](https://open.spotify.com/track/1dIChAQ6MLzIsXWl6vWAqX) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [From Elvis in Memphis](https://open.spotify.com/album/3ekkFrfotMsEAKc5g71GHk) | 3:15 |
-| 23 | [Pocketful of Rainbows](https://open.spotify.com/track/6lSGhstIFdvPT0mYbTM6Y2) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [G.I\. Blues](https://open.spotify.com/album/1TqAYM0PTj6TDdzTcY8VGT) | 2:34 |
+| 22 | [Kentucky Rain](https://open.spotify.com/track/1dIChAQ6MLzIsXWl6vWAqX) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [From Elvis in Memphis](https://open.spotify.com/album/3ekkFrfotMsEAKc5g71GHk) | 3:16 |
+| 23 | [Pocketful of Rainbows](https://open.spotify.com/track/6lSGhstIFdvPT0mYbTM6Y2) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [G.I\. Blues](https://open.spotify.com/album/1TqAYM0PTj6TDdzTcY8VGT) | 2:35 |
 | 24 | [\(Let Me Be Your\) Teddy Bear](https://open.spotify.com/track/4FjkmQ9JYaIeh1NxeLEO80) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis 30 \#1 Hits](https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc) | 1:46 |
 | 25 | [Surrender](https://open.spotify.com/track/4CLKOf0qczUKV4FzLYICra) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE), [The Jordanaires](https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv) | [The 50 Greatest Love Songs](https://open.spotify.com/album/5cY3REzxOvyi3FI5kgeqKS) | 1:51 |
 | 26 | [Love Letters](https://open.spotify.com/track/4WrhD1kIZOmicPXHVSxbwC) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [The 50 Greatest Love Songs](https://open.spotify.com/album/5cY3REzxOvyi3FI5kgeqKS) | 2:49 |

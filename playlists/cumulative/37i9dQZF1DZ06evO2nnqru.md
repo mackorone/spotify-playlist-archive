@@ -4,7 +4,7 @@
 
 > This is Marca MP\. The essential tracks, all in one playlist.
 
-133 songs - 7 hr 0 min
+134 songs - 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [LOKERON](https://open.spotify.com/track/0upDkv91v57p3TQmoXUIv9) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [PARY](https://open.spotify.com/album/2A2nUmF7VufHsPY6uEiCLh) | 2:40 | 2024-09-10 | 2025-02-16 |
 | [Lumbre Al Cigarro](https://open.spotify.com/track/59c3aYfsXyTSo88Jet72tQ) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [DEV, Vol\. 2](https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU) | 2:20 | 2022-06-01 | 2023-06-01 |
 | [Mato](https://open.spotify.com/track/6lppqhHvoszj4S2yUVGFVE) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Mato](https://open.spotify.com/album/75Swo9PpPDjLJ4BLZ6Ox02) | 3:17 | 2025-10-26 |  |
+| [Me Alejo](https://open.spotify.com/track/5cSKWsPLB2u9fuegBySjs6) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Historias Mal Contadas](https://open.spotify.com/album/2FAIffGJUWJCB2el84y4Rj) | 3:46 | 2025-11-19 |  |
 | [Me Encanta](https://open.spotify.com/track/1IGfld5xWP3kA5zVkWjMhb) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [LEALTAD](https://open.spotify.com/album/1JdiEIBdZQWfrZB2uFEGqm) | 2:27 | 2024-02-05 | 2024-06-09 |
 | [Me Estoy Enamorando \- en Vivo](https://open.spotify.com/track/43UQAAZQB9eVlZhdz5pnt1) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Desde El Cantón \(en Vivo\)](https://open.spotify.com/album/2c3E1sKcWvcIt1lxYbiqgv) | 2:53 | 2022-06-01 |  |
 | [Me Gustas Mucho \- En vivo](https://open.spotify.com/track/30R4GITMuZLLVGmXXGwr9I) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Las Preferidas, Vol\. 3 \(En vivo\)](https://open.spotify.com/album/4jufeGTVJpClLZiktiMMGn) | 3:40 | 2022-06-01 |  |
@@ -115,7 +116,7 @@
 | [Sigo Al Frente](https://open.spotify.com/track/0na2KcdWb67qUDu0297IWf) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Seguimos Avanzando](https://open.spotify.com/album/0oN9LSWr8UQGbxfCZvk2RC) | 2:57 | 2022-06-01 |  |
 | [Sigues Siendo Tu \- En vivo](https://open.spotify.com/track/2QAnp9ABPbpoTWfjyjRBD3) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Las Preferidas, Vol\. 5 \(En vivo\)](https://open.spotify.com/album/6ERihYOfcsvTucjGuBXuI7) | 3:35 | 2022-06-01 | 2025-11-05 |
 | [Sin Mí](https://open.spotify.com/track/4CkpqTLPw14hlXxJB1r0Ba) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Sin Mí](https://open.spotify.com/album/3xN9ooUhk0pQs6wl3pjB5V) | 2:17 | 2025-10-05 |  |
-| [Sin Rencores](https://open.spotify.com/track/3zteaSRVNGnb64nYdNESgw) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Sin Rencores](https://open.spotify.com/album/3t9mSoc9znrVKsUBUyMCW5) | 2:28 | 2023-03-12 |  |
+| [Sin Rencores](https://open.spotify.com/track/3zteaSRVNGnb64nYdNESgw) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Sin Rencores](https://open.spotify.com/album/3t9mSoc9znrVKsUBUyMCW5) | 2:28 | 2023-03-12 | 2025-11-19 |
 | [Sobrino Del Chavalon \- En Vivo](https://open.spotify.com/track/4IZvy2zGSrlUkGCRZ02pVN) | [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [En Vivo Desde Anaheim, CA](https://open.spotify.com/album/77ZS3zOcl24hgHQpI9S9Z1) | 3:28 | 2024-06-01 |  |
 | [Sofisticado](https://open.spotify.com/track/0vq4MJPXBzJoufua6cZryv) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Brindo](https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI) | 2:43 | 2022-07-19 | 2022-08-23 |
 | [Solo Un Día \(En Vivo\)](https://open.spotify.com/track/5pUwzBRD8Sz2gZJBBOyJJ9) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Las Preferidas, Vol\. 4 \(En Vivo\)](https://open.spotify.com/album/73ZvjsY05oQ16RTnKuHGgW) | 2:54 | 2022-06-01 | 2022-08-30 |

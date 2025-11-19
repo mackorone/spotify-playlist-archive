@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 
 > Wyzwania, cele, zadania, spotkania, dedlajny… ale najpierw kawa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,202 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,193 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 13 | [Eternity](https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid](https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK) | 3:09 |
 | 14 | [Dracula](https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Dracula](https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4) | 3:25 |
 | 15 | [Show Me Love](https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Show Me Love](https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6) | 2:56 |
-| 16 | [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 |
-| 17 | [bittersweet](https://open.spotify.com/track/3A02hWQ2ebOFDWSbAMNnpw) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [bittersweet](https://open.spotify.com/album/6lR8zt2MKz7xdqBQqxZ5yR) | 3:22 |
+| 16 | [bittersweet](https://open.spotify.com/track/3A02hWQ2ebOFDWSbAMNnpw) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [bittersweet](https://open.spotify.com/album/6lR8zt2MKz7xdqBQqxZ5yR) | 3:22 |
+| 17 | [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 |
 | 18 | [Lose My Mind \(feat\. Doja Cat\) \[From F1® The Movie\]](https://open.spotify.com/track/02BcXEH1zJYbXSabPtNlKf) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Lose My Mind \(feat\. Doja Cat\) \[From F1® The Movie\]](https://open.spotify.com/album/157Gano57F4G2EAWL5NKP8) | 3:29 |
 | 19 | [Mystical Magical](https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Mystical Magical](https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK) | 2:45 |
 | 20 | [Sally, When The Wine Runs Out](https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore \(The Longest Goodbye\)](https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f) | 3:38 |
@@ -63,9 +63,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 53 | [La Loba](https://open.spotify.com/track/110ynMei3R2Kfn55ByPpy3) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [La Loba](https://open.spotify.com/album/3NKI08Hye3rR6FlOp2KwRp) | 3:32 |
 | 54 | [Codzienność \(Pamiętaj Nas\)](https://open.spotify.com/track/0XY68QmJAUqzRCIHS5xEEp) | [Roxie](https://open.spotify.com/artist/6Lf4vAUaFUR2jAsybC7cGV) | [Codzienność \(Pamiętaj Nas\)](https://open.spotify.com/album/6lLQXfC2VHLdrEbAdn1m4m) | 2:37 |
 | 55 | [Los](https://open.spotify.com/track/2ZrDmDRxMJZkJ4JZbqvstj) | [Bletka](https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m) | [Los](https://open.spotify.com/album/5AypQAAZv3ryCsQkMqZzHj) | 2:44 |
-| 56 | [Hiroszima, mon amour](https://open.spotify.com/track/3gMwIRYyZV3hpE5WhBCkNQ) | [Lordofon](https://open.spotify.com/artist/7G3hAQixY7DIAGTgA2GU99) | [Niesamowita Trupa Pana Hiroszimy](https://open.spotify.com/album/0keblXeuVMoglZxtBUGYfE) | 3:31 |
-| 57 | [sticky rice](https://open.spotify.com/track/11pYSQjxJ57i6tsu1OIzOk) | [Fausti](https://open.spotify.com/artist/6A1ynRvP3mW9mlLkWcSnlx), [clearmind](https://open.spotify.com/artist/7KYseTkErcYMRvcIqacxUq) | [sticky rice](https://open.spotify.com/album/7sfA7avZWjCLToSLhteWBF) | 3:07 |
-| 58 | [najgorsze restauracje](https://open.spotify.com/track/4zMKD8kgLfYwuZlzvGTqOJ) | [Lor](https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx) | [najgorsze restauracje](https://open.spotify.com/album/4N7S8DQNO3TIJqVtijain8) | 2:45 |
+| 56 | [najgorsze restauracje](https://open.spotify.com/track/4zMKD8kgLfYwuZlzvGTqOJ) | [Lor](https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx) | [najgorsze restauracje](https://open.spotify.com/album/4N7S8DQNO3TIJqVtijain8) | 2:45 |
+| 57 | [Hiroszima, mon amour](https://open.spotify.com/track/3gMwIRYyZV3hpE5WhBCkNQ) | [Lordofon](https://open.spotify.com/artist/7G3hAQixY7DIAGTgA2GU99) | [Niesamowita Trupa Pana Hiroszimy](https://open.spotify.com/album/0keblXeuVMoglZxtBUGYfE) | 3:31 |
+| 58 | [sticky rice](https://open.spotify.com/track/11pYSQjxJ57i6tsu1OIzOk) | [Fausti](https://open.spotify.com/artist/6A1ynRvP3mW9mlLkWcSnlx), [clearmind](https://open.spotify.com/artist/7KYseTkErcYMRvcIqacxUq) | [sticky rice](https://open.spotify.com/album/7sfA7avZWjCLToSLhteWBF) | 3:07 |
 | 59 | [Firdygałki](https://open.spotify.com/track/7HjSGd75KfBbKAEcMZogKi) | [maks.tachasiuk](https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz) | [Firdygałki](https://open.spotify.com/album/3hvfKTYWgFdqtmFOby3LZr) | 3:53 |
 | 60 | [Rzeka](https://open.spotify.com/track/3tjABLsXoFCxoGmj2O6L6S) | [LUNARIA](https://open.spotify.com/artist/1XsO4JN3QWw3kliCrrKXaP), [W\. Krajewski](https://open.spotify.com/artist/7lEVFDOUQeA7Zw7DqUvO9F) | [Rzeka](https://open.spotify.com/album/2Qt3FgzD4N0WeQJquEwXFh) | 3:00 |
 

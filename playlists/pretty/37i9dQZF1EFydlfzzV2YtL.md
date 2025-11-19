@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6M9QH5CEPdtif778LoMbQ5">Emily Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,470 likes - 181 songs - 9 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,469 likes - 181 songs - 9 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 24 | [Wheels on the Bus](https://open.spotify.com/track/2plUcsOZm6pi1kFUncqLni) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [K\-12](https://open.spotify.com/album/1KerGJUScYGffP3Mjmjz8c) | 3:40 |
 | 25 | [Strawberry Shortcake](https://open.spotify.com/track/57OBlxZRcRyHFdlXlsHP7G) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [K\-12](https://open.spotify.com/album/1KerGJUScYGffP3Mjmjz8c) | 3:04 |
 | 26 | [Until You Were Gone \(feat\. Emily Warren\)](https://open.spotify.com/track/3PHAN9g1qziYB16D7Vs91A) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Tritonal](https://open.spotify.com/artist/521qvhdobR0GzhvU6TFw76), [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [The Chainsmokers\- Japan Special Edition](https://open.spotify.com/album/3ShQFl9FladFKlonwPGZFc) | 3:37 |
-| 27 | [You Owe Me](https://open.spotify.com/track/3CgTgHLI8qHAqLoZkz1BdQ) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Sick Boy](https://open.spotify.com/album/6ZvDJs17O3woQirttKRYCG) | 3:10 |
-| 28 | [Recess](https://open.spotify.com/track/1QtpKRXtJZSdJp3Y299zkQ) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [K\-12](https://open.spotify.com/album/1KerGJUScYGffP3Mjmjz8c) | 3:50 |
+| 27 | [Recess](https://open.spotify.com/track/1QtpKRXtJZSdJp3Y299zkQ) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [K\-12](https://open.spotify.com/album/1KerGJUScYGffP3Mjmjz8c) | 3:50 |
+| 28 | [You Owe Me](https://open.spotify.com/track/3CgTgHLI8qHAqLoZkz1BdQ) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Sick Boy](https://open.spotify.com/album/6ZvDJs17O3woQirttKRYCG) | 3:10 |
 | 29 | [Aftertaste](https://open.spotify.com/track/3ilt7lMNflb49pEDpcZPAa) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Handwritten](https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ) | 2:49 |
 | 30 | [Air](https://open.spotify.com/track/7eKbFpX6jvCSW9CUwzMJsE) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Handwritten](https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ) | 3:14 |
 | 31 | [Phone Down](https://open.spotify.com/track/5bvNpG6wiIEf1PA13TkTu2) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc), [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Phone Down](https://open.spotify.com/album/2jEoK4yuqMQOrxXj2006mu) | 3:35 |
@@ -190,4 +190,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 180 | [Break The Silence](https://open.spotify.com/track/29HAzOVnX3947Az2RAsEfE) | [Richard Stirton](https://open.spotify.com/artist/0UW24U271lz9qy3Z19EuvB) | [Middle Ground](https://open.spotify.com/album/6Y15hurwzN1gMLTv4eAQNy) | 3:31 |
 | 181 | [Paper Cuts](https://open.spotify.com/track/25oDwHzFC3coKT3jcPAbJC) | [Alec Chambers](https://open.spotify.com/artist/3weLeY2Bu0Eij4k0tQ4EzJ) | [Paper Cuts](https://open.spotify.com/album/6KhZJNPMnHT7ypOhgNAekF) | 2:53 |
 
-Snapshot ID: `AcB3HAAAAAAZ9rZC3cdXiTc1ir4uo7uf`
+Snapshot ID: `AcB85AAAAAAn6sNrKQVwjXTMtnbpORwT`

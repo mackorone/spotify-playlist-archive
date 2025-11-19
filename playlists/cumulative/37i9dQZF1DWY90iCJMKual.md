@@ -4,7 +4,7 @@
 
 > PH vibin' cover: Jason Dhakal
 
-421 songs - 23 hr 1 min
+424 songs - 23 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Di Na Babalik](https://open.spotify.com/track/0Gt84LW4Ec1ptxIQiIJY3N) | [yshy](https://open.spotify.com/artist/5DKxABYbjG07LuQ929VRST), [Limpo](https://open.spotify.com/artist/5pRXGrEPlgwQLEKeO2NQhp) | [Di Na Babalik](https://open.spotify.com/album/5RAmV5jGpAZTz99u1sVIJM) | 3:51 | 2023-09-06 | 2023-11-04 |
 | [Di Nakakasawa](https://open.spotify.com/track/60mzK1F8VTNfWGaSFprYfI) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22), [Kiyo](https://open.spotify.com/artist/6gcteR920pLEynlHzjSRYd) | [II: The second](https://open.spotify.com/album/5OWcchm5l2CZDOeJnL5oqw) | 3:17 | 2025-11-13 |  |
 | [Di Ngayon](https://open.spotify.com/track/1rdBXxtvJqH8PcM7v1CpjV) | [Zo zo](https://open.spotify.com/artist/0xyijUZwKlIH8yjj0OuDf6), [Samm](https://open.spotify.com/artist/2JL7BiVkQ5W1rzYCUw3y9a) | [Di Ngayon](https://open.spotify.com/album/3aGNT5eglsVIrZg6LoYPVO) | 3:01 | 2023-11-17 | 2024-06-04 |
+| [Di Panandalian \- Remix](https://open.spotify.com/track/3eJgiruVmHL8JQa5N9vUvm) | [Icy D](https://open.spotify.com/artist/0DrnDxPyiRdLOa75RPrA2e), [Owen Greyson](https://open.spotify.com/artist/0G7MRTGnVV99IUnlk91aJB), [Knowa Lazarus](https://open.spotify.com/artist/2EcLLQZDUL6D0MrdnfcbTT) | [Di Panandalian \(Remix\)](https://open.spotify.com/album/6vnzMPstT4mK6BRTQEk0m6) | 3:13 | 2025-11-18 |  |
 | [Did You Find It?](https://open.spotify.com/track/4PhW0Z9U99NPtPDT8Y8uhC) | [Miguel Abella](https://open.spotify.com/artist/7gStcwSNzziJ8QL0QswaXd) | [Did You Find It?](https://open.spotify.com/album/53drB90hiqveZhAeUsRah5) | 3:25 | 2023-06-13 | 2023-09-26 |
 | [Diggin On You](https://open.spotify.com/track/1U3eywESMeRvn6OSdh5HzU) | [Kiddo Chris](https://open.spotify.com/artist/4ZO0HvlndussEIrQsozD2G) | [Diggin On You](https://open.spotify.com/album/4nt0w0fvGSRWIIawUbeC1J) | 2:54 | 2022-12-14 | 2023-09-07 |
 | [Dikapamigay](https://open.spotify.com/track/5bEoMNE8AuautKnCVKHyxf) | [Realest Cram](https://open.spotify.com/artist/3d0hhzHPK0jA5mKTeFIZc5), [ENZO MF](https://open.spotify.com/artist/1Miwe0S1KiQu7zZhTYdtJV) | [Dikapamigay](https://open.spotify.com/album/1kISZMlDKKu14boq3Ze9Qp) | 4:17 | 2024-07-26 | 2025-01-17 |
@@ -140,6 +141,7 @@
 | [Halikana](https://open.spotify.com/track/2bdSVYtbQe5RWW6g4kXIsO) | [Ryannah J](https://open.spotify.com/artist/6qmz5baFW3JXKU7jUv3vJD), [Baby Blood](https://open.spotify.com/artist/43mQpC11b5yKRPDURZOC76), [NEXXFRIDAY](https://open.spotify.com/artist/6yWj0mvdzglZZDHa0FHmpd) | [Halikana](https://open.spotify.com/album/6YOAxlb0s1MCSyfWsTdka3) | 3:23 | 2024-08-02 | 2025-03-22 |
 | [Hanap](https://open.spotify.com/track/42HwpLFw73GBckZlWorib4) | [Kiyo](https://open.spotify.com/artist/6gcteR920pLEynlHzjSRYd) | [Hanap](https://open.spotify.com/album/7yxTHClks4z6qV6zATd1F2) | 4:02 | 2024-11-29 |  |
 | [Handa Ka Ba](https://open.spotify.com/track/6OiJpYVW6x6l1CZTI1Ah3a) | [Samsara 304](https://open.spotify.com/artist/7iDnmQrHjOaihg0RLOp4RQ) | [Handa Ka Ba](https://open.spotify.com/album/3rvItCAjXieA18AgSjoJhb) | 3:48 | 2024-10-11 | 2025-10-25 |
+| [Handa Na Akong Sumugal](https://open.spotify.com/track/2DrmHtlsnDVy7nCh69nrWX) | [Avery Leon](https://open.spotify.com/artist/75YebYHY6ryNvPWlPvLbm3) | [Handa Na Akong Sumugal](https://open.spotify.com/album/4Ojq8SHd9qGb5xifo0vCq7) | 4:24 | 2025-11-18 |  |
 | [harana](https://open.spotify.com/track/4LkI6c7295WYISKRYXCRfV) | [Baby Blood](https://open.spotify.com/artist/43mQpC11b5yKRPDURZOC76), [KLLY](https://open.spotify.com/artist/4eBTFDYHEwhgg4OE30E1eF) | [harana](https://open.spotify.com/album/5QMyDROm7bkfFJu8eGxXaW) | 3:40 | 2025-03-21 |  |
 | [HATDOG \(ft\. James Reid\)](https://open.spotify.com/track/6xlrgkUrgMxkjK9y1LCRb1) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac), [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH) | [HATDOG \(ft\. James Reid\)](https://open.spotify.com/album/4tHTQhh34jaLf5KrQzeP0L) | 3:07 | 2022-10-12 | 2023-07-29 |
 | [Haven](https://open.spotify.com/track/3DROR9gNWqRicj73IQ2fpe) | [Dom Guyot](https://open.spotify.com/artist/5ygKtDod9YYPAe0574Cwk0) | [Haven](https://open.spotify.com/album/3wFXOuwmyqEXnDH42kDtoy) | 4:18 | 2022-10-12 | 2023-05-03 |
@@ -210,6 +212,7 @@
 | [Lackin'](https://open.spotify.com/track/7C6lV2MBF9SsQfNzb6hWUW) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [Sweet Nothings \(Chapter 1\)](https://open.spotify.com/album/26osN3pVqjyhGUedWZIueX) | 2:59 | 2023-11-17 | 2025-01-17 |
 | [Lackin'](https://open.spotify.com/track/7l9LyA8LkmsXpMZ9WZ3ReC) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [Sweet Nothings \(Chapter 1\)](https://open.spotify.com/album/4TdIVLLS4os2X4r2p6vTr5) | 2:59 | 2023-11-17 | 2024-06-04 |
 | [Lagi\-lagi](https://open.spotify.com/track/5xJ2EXdVpbzMA9TIvDF7eq) | [KV](https://open.spotify.com/artist/4ZPvMY3YPMZbVZn5WIjzvB) | [Lagi\-lagi](https://open.spotify.com/album/0FcqxYTR0x6fLeux92wF5b) | 3:27 | 2024-06-08 | 2024-08-17 |
+| [Lalapit?](https://open.spotify.com/track/6EiNfnUrSbiouZqFx7kxHf) | [Brxn](https://open.spotify.com/artist/11sFlcfZXlFoGYEnPYfFSF) | [Lalapit?](https://open.spotify.com/album/7yXl6AtxQFNhWhtH0RpMV0) | 3:50 | 2025-11-18 |  |
 | [Lalayo O Tatabi](https://open.spotify.com/track/6Mxh4RBf3BA3hNzaqHseqR) | [KV](https://open.spotify.com/artist/4ZPvMY3YPMZbVZn5WIjzvB) | [Lalayo O Tatabi](https://open.spotify.com/album/1103FsKVzZZnObhDt0cHLn) | 2:31 | 2023-08-03 | 2023-10-28 |
 | [Lambing \(feat\. Kiyo\)](https://open.spotify.com/track/0daJYm6XQNjKKiIrddULNH) | [KINDRED](https://open.spotify.com/artist/20bisCfPMhrXJH4Wv5lmh1), [Kiyo](https://open.spotify.com/artist/6gcteR920pLEynlHzjSRYd) | [Lambing \(feat\. Kiyo\)](https://open.spotify.com/album/6l0kQa5M2byUTlTE3vQPug) | 3:41 | 2023-04-17 | 2023-10-03 |
 | [Langit, Mundo](https://open.spotify.com/track/7pB8BnZyVdgiomsOnOzmp1) | [MMONN](https://open.spotify.com/artist/57wPsYZkEErG0C2ntgqNTe), [Calvin De Leon](https://open.spotify.com/artist/3WyQJx169swY8v3htgAqaK) | [Langit, Mundo](https://open.spotify.com/album/3gvxmxAFCY9gypFJ0RUW3A) | 3:24 | 2023-05-17 | 2023-11-18 |

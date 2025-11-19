@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "DELIRIUM",
+        "url": "https://open.spotify.com/album/0xTFLxAqGha7RPtlHkDqm6"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155518,
+      "name": "/Desvelaos",
+      "url": "https://open.spotify.com/track/4v4ZRvkVBzSOeMY0Is3Cfk"
+    },
+    {
+      "album": {
         "name": "0 Sentimientos",
         "url": "https://open.spotify.com/album/6Fa9qyvlQcFL1G8h96ZcTi"
       },
@@ -246,6 +264,24 @@
       "duration_ms": 180688,
       "name": "7 DIAS",
       "url": "https://open.spotify.com/track/5Z75FvRFiultmPFWHx5jQ7"
+    },
+    {
+      "album": {
+        "name": "7 Vidas",
+        "url": "https://open.spotify.com/album/2AXbpqGa1iELh2NhmewQKn"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177160,
+      "name": "7 Vidas",
+      "url": "https://open.spotify.com/track/7xdVoNuJ67iuEhMFi6pDzo"
     },
     {
       "album": {
@@ -602,7 +638,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 219906,
       "name": "Amo",
       "url": "https://open.spotify.com/track/0QieT45vFvqEkzrcbIz01s"
@@ -1326,7 +1362,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 141193,
       "name": "Changuito Me Apodaron",
       "url": "https://open.spotify.com/track/1UsmlOwx67vonHxwZloOfG"
@@ -2352,7 +2388,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 163223,
       "name": "El Amor De Tu Vida",
       "url": "https://open.spotify.com/track/7AWgHNS16hOhmiyPIRRcmC"
@@ -3765,6 +3801,28 @@
     },
     {
       "album": {
+        "name": "Eres Veneno",
+        "url": "https://open.spotify.com/album/5sNmy4jQLyHYV83lLNyct9"
+      },
+      "artists": [
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125428,
+      "name": "Eres Veneno",
+      "url": "https://open.spotify.com/track/5DJCbtz1sF20CsDI0GGbnC"
+    },
+    {
+      "album": {
         "name": "30 Aniversario",
         "url": "https://open.spotify.com/album/6R0zUtsEyeLEPmWBhVmenf"
       },
@@ -3798,6 +3856,24 @@
       "duration_ms": 191893,
       "name": "Escondidos",
       "url": "https://open.spotify.com/track/2v2totojcWdvtjy7lAvl9o"
+    },
+    {
+      "album": {
+        "name": "ESPEJO",
+        "url": "https://open.spotify.com/album/753sqjbgaL6FduBY5umQY2"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199114,
+      "name": "ESPEJO",
+      "url": "https://open.spotify.com/track/6nB43uscF0PP1MY46JGCck"
     },
     {
       "album": {
@@ -3914,7 +3990,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 213333,
       "name": "Fuentes De Ortiz",
       "url": "https://open.spotify.com/track/3pPzYqVcgUvaPBwUpjc90j"
@@ -3950,7 +4026,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 154868,
       "name": "Fuera De Servicio",
       "url": "https://open.spotify.com/track/6wTqVQ6RRkqAyT5XDGcRq4"
@@ -5821,6 +5897,24 @@
     },
     {
       "album": {
+        "name": "Mi Decisi\u00f3n",
+        "url": "https://open.spotify.com/album/1oLoLphydD0kRsMnTvP8NM"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183456,
+      "name": "Mi Decisi\u00f3n",
+      "url": "https://open.spotify.com/track/7sh3XoqpbDU62VcWHD7mNP"
+    },
+    {
+      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
         "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
       },
@@ -6185,6 +6279,24 @@
     },
     {
       "album": {
+        "name": "LO QUE ME FALTA POR LLORAR",
+        "url": "https://open.spotify.com/album/1rQaw35QueiDUvAhvTOWZi"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218353,
+      "name": "monterrey",
+      "url": "https://open.spotify.com/track/4WK3s6BZwopY5tdJLcXlBg"
+    },
+    {
+      "album": {
         "name": "Mood Malandro",
         "url": "https://open.spotify.com/album/6x60IHS4WQeKN2xSxPSJbr"
       },
@@ -6327,6 +6439,28 @@
     },
     {
       "album": {
+        "name": "NENA MALDICI\u00d3N",
+        "url": "https://open.spotify.com/album/7BOAPCq2tPFT9kmUT0dwka"
+      },
+      "artists": [
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        },
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171316,
+      "name": "NENA MALDICI\u00d3N",
+      "url": "https://open.spotify.com/track/1FUz5190iNSO9nxmMBYvWG"
+    },
+    {
+      "album": {
         "name": "THE GB",
         "url": "https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc"
       },
@@ -6360,7 +6494,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 155600,
       "name": "Ni Diablo Ni Santo",
       "url": "https://open.spotify.com/track/2OmVUVVx3pWjNWHxgbliCe"
@@ -7088,7 +7222,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 203606,
       "name": "PLAYBOY",
       "url": "https://open.spotify.com/track/7bzhUIMCvFQp6hUyStv80H"
@@ -7618,6 +7752,28 @@
       "duration_ms": 170506,
       "name": "Que Sea",
       "url": "https://open.spotify.com/track/4yKC4OVtG5Z9nIX98r7SQp"
+    },
+    {
+      "album": {
+        "name": "Que Te Quieran Bonito",
+        "url": "https://open.spotify.com/album/6m8V9wAhAL3jqlzIKGQwmx"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162211,
+      "name": "Que Te Quieran Bonito",
+      "url": "https://open.spotify.com/track/3YV73DlP8kB6sOACXeiACW"
     },
     {
       "album": {
@@ -9242,7 +9398,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 164360,
       "name": "Tranquilito",
       "url": "https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge"

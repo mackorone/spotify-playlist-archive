@@ -4,7 +4,7 @@
 
 > \~ have a lovely time \~
 
-385 songs - 22 hr 24 min
+385 songs - 22 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,7 +280,7 @@
 | [Renegade](https://open.spotify.com/track/73W5aXorr5vxrySFcoZqIN) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 4:14 | 2022-07-29 | 2024-04-19 |
 | [Renegade \(feat\. Taylor Swift\)](https://open.spotify.com/track/1aU1wpYBSpP0M6IiihY5Ue) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Renegade \(feat\. Taylor Swift\)](https://open.spotify.com/album/4kD0pFwhEjEiF9pwUwkpNo) | 4:14 | 2022-04-05 | 2022-07-29 |
 | [Resolution](https://open.spotify.com/track/76QK6gTaW2bBV47FDe3RPK) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Resolution \- EP](https://open.spotify.com/album/22aja1RtjRSzdKRuwx0Aog) | 4:16 | 2022-04-05 | 2022-07-23 |
-| [River](https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 4:00 | 2022-06-24 |  |
+| [River](https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 3:58 | 2022-06-24 |  |
 | [Role Model](https://open.spotify.com/track/7EbHleMQStqGD7YKiCeBmz) | [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [Role Model](https://open.spotify.com/album/2mHWAQ08dnXOPh3ddrQqJ6) | 2:11 | 2023-05-03 | 2024-08-27 |
 | [Rome](https://open.spotify.com/track/0t34scg6386JnLUEb7jFb1) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL) | [Tomorrow's Gonna Come](https://open.spotify.com/album/7v8VvueBjcukRvpMU0wxF0) | 3:38 | 2022-04-05 | 2025-11-11 |
 | [Rooftop Dancing](https://open.spotify.com/track/4q7wwwMXLoIkuOJv3LvbON) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Free Love](https://open.spotify.com/album/2KAPJ40On8JY1Yt64JJgTk) | 3:03 | 2022-04-05 | 2022-07-29 |

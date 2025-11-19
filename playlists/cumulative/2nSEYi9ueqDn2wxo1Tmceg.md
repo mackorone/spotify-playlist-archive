@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a>Georgia</a>
 
-1,580 songs - 4 day 10 hr 47 min
+1,581 songs - 4 day 10 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1192,6 +1192,7 @@
 | [Semantics](https://open.spotify.com/track/47LFVvwDd0GY899H9mycSd) | [TVAM](https://open.spotify.com/artist/7aKv42QgcrCLQg37J4CkTM) | [Semantics](https://open.spotify.com/album/3BJv9FNqFtqJUtpfAIS5M2) | 4:03 | 2022-09-21 | 2022-10-21 |
 | [Serene King](https://open.spotify.com/track/2MLWlv0FjiuzaYYNqa3hLa) | [Guided By Voices](https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl) | [Serene King](https://open.spotify.com/album/73s9AcfBH4qedokS40d1vP) | 3:14 | 2024-05-15 | 2024-06-13 |
 | [Serpentine](https://open.spotify.com/track/5QZxcjUqcsQ5c9vNXNqa2n) | [Silverfish](https://open.spotify.com/artist/7Jc4asBe7zfajAZI04Rh90) | [Serpentine](https://open.spotify.com/album/0YmSvmQrl9C9Dtc9VOV0Ra) | 3:26 | 2025-07-30 | 2025-09-11 |
+| [Serpentine \- The Field Remix](https://open.spotify.com/track/4a9VBJxs84wlqdGIJoEzfE) | [Disiniblud](https://open.spotify.com/artist/58yu67FLeWi0auMgHNfIHt), [Rachika Nayar](https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ), [Nina Keith](https://open.spotify.com/artist/1nuCYFGzi0e4xb8lE18m2i), [The Field](https://open.spotify.com/artist/23MIhFHpoOuhtEHZDrrnCS), [Cassandra Croft](https://open.spotify.com/artist/5P3llffs6Hq1IYsx747anV) | [Serpentine \(The Field Remix\)](https://open.spotify.com/album/12CB8qWStEjeWuj2oeo1oH) | 11:04 | 2025-11-18 |  |
 | [Setting Sun](https://open.spotify.com/track/4BG4Smwt9cu1RzAKurrIN6) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Setting Sun](https://open.spotify.com/album/2ExANkuoKaZn7qOGvf014G) | 6:13 | 2022-08-17 | 2022-09-29 |
 | [Settled](https://open.spotify.com/track/4aG6n0GqZbCLed4hylmZBZ) | [lilo](https://open.spotify.com/artist/0UHZYAHCtBGKef12trPQrL) | [Settled](https://open.spotify.com/album/5JVJuzodPafoyYiyoG9eqh) | 3:20 | 2022-10-26 | 2022-12-01 |
 | [Seventeen](https://open.spotify.com/track/2XZDtVBGje3OFEeuUBBAFG) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Seventeen](https://open.spotify.com/album/2veKfKqnyMmbREK1N4GvTz) | 3:22 | 2025-09-17 | 2025-11-06 |

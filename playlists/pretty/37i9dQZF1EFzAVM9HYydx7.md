@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5OF1YU2YzcMyFem3Fi4M3E">Boi\-1da</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,997 likes - 306 songs - 18 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,996 likes - 306 songs - 18 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -269,8 +269,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 259 | [Set It Off](https://open.spotify.com/track/7ouXmLj4SCOIuIJDlbFnnx) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2) | [Not 4 Sale](https://open.spotify.com/album/3nlZ9m98yAvhzIvaF62tpq) | 4:37 |
 | 260 | [Patience](https://open.spotify.com/track/2v0HEvoISO2ZIWxgzzHk3U) | [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH), [ANGEL!](https://open.spotify.com/artist/6RIJu05yhEIYskbVgxmk3R) | [Spectrum](https://open.spotify.com/album/71DEJkhoME6hrXisBGWoQd) | 3:20 |
 | 261 | [Rich Shit](https://open.spotify.com/track/29uJqsQwlbLKA797fTo4hi) | [Lil Gotit](https://open.spotify.com/artist/4ke9HXbejpYVMhbOjSa4le), [Lil Keed](https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [The Cheater](https://open.spotify.com/album/62lnNIiyfmRak3vHQL89zV) | 2:20 |
-| 262 | [All I Know](https://open.spotify.com/track/6wK2uzNdEnUs7NCb4guyvl) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI) | [The R.E.D\. Album](https://open.spotify.com/album/6PvZnd9Q2ymDo3gpoM5I37) | 4:03 |
-| 263 | [Demons & Angels](https://open.spotify.com/track/7CF2TJYzPTRT0HXDFxaiTx) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Gift For The Streets](https://open.spotify.com/album/2XRIFNw0ODKJ4GO3DwjOBE) | 2:57 |
+| 262 | [Demons & Angels](https://open.spotify.com/track/7CF2TJYzPTRT0HXDFxaiTx) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Gift For The Streets](https://open.spotify.com/album/2XRIFNw0ODKJ4GO3DwjOBE) | 2:57 |
+| 263 | [All I Know](https://open.spotify.com/track/6wK2uzNdEnUs7NCb4guyvl) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI) | [The R.E.D\. Album](https://open.spotify.com/album/6PvZnd9Q2ymDo3gpoM5I37) | 4:03 |
 | 264 | [Future](https://open.spotify.com/track/5F3inqOUMtTl6lW1MDGxwY) | [Mindless Behavior](https://open.spotify.com/artist/2waKklOyXKNqhqIOmE4yBA) | [\#1 Girl](https://open.spotify.com/album/72Dqv9RL9xaG5fwEClkC6w) | 3:23 |
 | 265 | [Clean Edit](https://open.spotify.com/track/0lR9C9p0w0EaYU1ENet9Ty) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi) | [Mumble Rap](https://open.spotify.com/album/04XJbeTbd7CvN0eXwe4K8P) | 2:08 |
 | 266 | [Another Dose](https://open.spotify.com/track/1UA7A9ipmYOYXMtJGjShzy) | [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w) | [Hollywood: A Story of a Dozen Roses \(Deluxe Version\)](https://open.spotify.com/album/79EyqF9taW9XFPKci2U5D9) | 3:54 |
@@ -315,4 +315,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 305 | [Love Me Til I Die](https://open.spotify.com/track/4GLENDZP3pxlrzpkQDITWt) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Talk A Good Game \(Deluxe Edition\)](https://open.spotify.com/album/2oPT6EoZENUaEzT03RoG6C) | 4:18 |
 | 306 | [Whatever Became Of You](https://open.spotify.com/track/1Ycr1YY3M9ITVVNhXIAp2J) | [Colin Munroe](https://open.spotify.com/artist/7IF7emaerV9vIoAjey6IHe) | [Unsung Hero](https://open.spotify.com/album/1UPa8cbZK9mpKAkG0tjJTi) | 4:46 |
 
-Snapshot ID: `AcB3EgAAAAA2/AJP+N1Q0xGMVFKF96zK`
+Snapshot ID: `AcB85AAAAACI6ttK0rzNc8AjDZT1zqB9`

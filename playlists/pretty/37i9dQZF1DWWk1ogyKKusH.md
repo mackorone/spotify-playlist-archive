@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWk1ogyKKusH.md) - [plain]
 
 > Lose Yourself to Dance\. Listen to all music from Fortnite Daft Punk Experience here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,687 likes - 30 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,736 likes - 30 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Around the World](https://open.spotify.com/track/1pKYYY0dkg23sQQXi0Q5zN) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Homework](https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y) | 7:09 |
-| 2 | [Get Lucky \(Radio Edit\) \[feat\. Pharrell Williams and Nile Rodgers\]](https://open.spotify.com/track/2Foc5Q5nqNiosCNqttzHof) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Get Lucky \(Radio Edit\) \[feat\. Pharrell Williams and Nile Rodgers\]](https://open.spotify.com/album/2ePFIvZKMe8zefATp9ofFA) | 4:08 |
+| 2 | [Get Lucky \(Radio Edit\) \[feat\. Pharrell Williams and Nile Rodgers\]](https://open.spotify.com/track/2Foc5Q5nqNiosCNqttzHof) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Get Lucky \(Radio Edit\) \[feat\. Pharrell Williams and Nile Rodgers\]](https://open.spotify.com/album/2ePFIvZKMe8zefATp9ofFA) | 4:07 |
 | 3 | [Contact](https://open.spotify.com/track/2KHRENHQzTIQ001nlP9Gdc) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Random Access Memories](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) | 6:23 |
 | 4 | [Touch \(2021 Epilogue\) \[feat\. Paul Williams\]](https://open.spotify.com/track/7oMbGRDGVDIb6ZeVcq7LfW) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Paul Williams](https://open.spotify.com/artist/3f626JSVauIhTQgatsFcs4) | [Random Access Memories \(10th Anniversary Edition\)](https://open.spotify.com/album/4mAhdh996uW5SnnFKXUmC0) | 2:59 |
 | 5 | [Alive](https://open.spotify.com/track/1PH5Es89c1cENU8WVuWwbp) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Homework](https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y) | 5:16 |

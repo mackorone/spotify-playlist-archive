@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHqb7XwW9OVZ.md) - [plain]
 | 30 | [Crush feat\. Erika de Casier](https://open.spotify.com/track/4F3Xx2vBcZ0jq2JD8Bv9ZQ) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Nymph\_o](https://open.spotify.com/album/28MZKxXQKX89mr1Y9g9d3k) | 2:53 |
 | 31 | [Friendly](https://open.spotify.com/track/41s3kJ6aOLNLDs9MT7tMYO) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Sensational](https://open.spotify.com/album/4nsap9FkZQJLSbQP8I9one) | 3:00 |
 | 32 | [Test It](https://open.spotify.com/track/1UMAHQ2G23kmost9bTNv26) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Still](https://open.spotify.com/album/7ArSPwsw4Su6nyeId06SZH) | 2:46 |
-| 33 | [Space](https://open.spotify.com/track/4zpls3vUm7H4VVL53DEEzH) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Essentials](https://open.spotify.com/album/6AYAMoty9hbhfzRKWaILTW) | 4:15 |
-| 34 | [December](https://open.spotify.com/track/5xiRrfntOYopw0Zoa5MMHY) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lifetime](https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z) | 3:00 |
+| 33 | [December](https://open.spotify.com/track/5xiRrfntOYopw0Zoa5MMHY) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lifetime](https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z) | 3:00 |
+| 34 | [Space](https://open.spotify.com/track/4zpls3vUm7H4VVL53DEEzH) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Essentials](https://open.spotify.com/album/6AYAMoty9hbhfzRKWaILTW) | 4:15 |
 | 35 | [Seasons](https://open.spotify.com/track/5RBv4o9OW0v8NWVNrs5krA) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lifetime](https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z) | 2:09 |
 | 36 | [Make My Day](https://open.spotify.com/track/7eHHF8vP2wV4ukcCsWWSAC) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Sensational](https://open.spotify.com/album/4nsap9FkZQJLSbQP8I9one) | 3:29 |
 | 37 | [You Got It!](https://open.spotify.com/track/4g3NhWgkT5FCROOHyhy4QT) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lifetime](https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z) | 1:54 |
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHqb7XwW9OVZ.md) - [plain]
 | 64 | [Someone](https://open.spotify.com/track/3jfR63XcKHLVYqEq4p3bKE) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Still](https://open.spotify.com/album/7ArSPwsw4Su6nyeId06SZH) | 3:26 |
 | 65 | [Camo](https://open.spotify.com/track/0NYTDaeVpepG9KxxP3ehQ9) | [Saint Cava](https://open.spotify.com/artist/5jHcWYiZoV18ALtgTjirLW) | [Bliss](https://open.spotify.com/album/4C1IvWSjR0deLBqZFtyIAK) | 3:07 |
 | 66 | [No One's God](https://open.spotify.com/track/3lI8GbBt2RTH2F2AJkJXgS) | [Saint Cava](https://open.spotify.com/artist/5jHcWYiZoV18ALtgTjirLW) | [No One's God](https://open.spotify.com/album/0Sy6QHq7t9bxY3poE7E3Se) | 4:07 |
-| 67 | [Ride](https://open.spotify.com/track/6k7yFNyWrK8rfWxsZlFiLW) | [Saint Cava](https://open.spotify.com/artist/5jHcWYiZoV18ALtgTjirLW) | [Bliss](https://open.spotify.com/album/4C1IvWSjR0deLBqZFtyIAK) | 3:48 |
-| 68 | [Blunt Force Trauma](https://open.spotify.com/track/6afDGn5RO7QvV88C6dESzg) | [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS), [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Speak Daggers](https://open.spotify.com/album/6ChvcmOKQHcUMaktvmBhPG) | 3:29 |
+| 67 | [Blunt Force Trauma](https://open.spotify.com/track/6afDGn5RO7QvV88C6dESzg) | [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS), [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Speak Daggers](https://open.spotify.com/album/6ChvcmOKQHcUMaktvmBhPG) | 3:29 |
+| 68 | [Ride](https://open.spotify.com/track/6k7yFNyWrK8rfWxsZlFiLW) | [Saint Cava](https://open.spotify.com/artist/5jHcWYiZoV18ALtgTjirLW) | [Bliss](https://open.spotify.com/album/4C1IvWSjR0deLBqZFtyIAK) | 3:48 |
 
-Snapshot ID: `AcB3HAAAAAB6E39CZ+nEHgw+H4i391Jp`
+Snapshot ID: `AcB8qAAAAADmw1mSw6Lhe0BsB/7sx1JM`

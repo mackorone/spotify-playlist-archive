@@ -4,7 +4,7 @@
 
 > This is Amén\. The essential tracks, all in one playlist.
 
-56 songs - 3 hr 21 min
+58 songs - 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Ella Es](https://open.spotify.com/track/7bpOAW9LnQAsAbFbyImhwS) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Ella Es](https://open.spotify.com/album/6P0eRSeMkYkulYGS2zzdFF) | 3:15 | 2023-08-25 |  |
 | [Entre Cuatro Paredes](https://open.spotify.com/track/11n5j6ySQnOVNtFuVmIegM) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Entre Cuatro Paredes](https://open.spotify.com/album/1tRPMMuI2unJBg6v8ZknOw) | 4:26 | 2023-09-18 |  |
 | [Entre Tus LLamas \(El Tunche\)](https://open.spotify.com/track/2cmcgsLAcUKc62FrsWvEZu) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Tiempos de Resurrección](https://open.spotify.com/album/0eDQe2HtPCCNwJ6DjxnDVN) | 3:59 | 2023-08-25 |  |
-| [Feliz](https://open.spotify.com/track/0K4sJ6POIZPwbTkYqF4rA8) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Feliz](https://open.spotify.com/album/2RygylLconytLpI3VPQ1VX) | 3:07 | 2023-08-25 |  |
+| [Feliz](https://open.spotify.com/track/0K4sJ6POIZPwbTkYqF4rA8) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Feliz](https://open.spotify.com/album/2RygylLconytLpI3VPQ1VX) | 3:07 | 2023-08-25 | 2025-11-19 |
+| [Feliz](https://open.spotify.com/track/0QTSobzqpGqtkKsAjoAh1X) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [2020](https://open.spotify.com/album/1oXZpcZxhAIPejsCHdpq8o) | 3:07 | 2025-11-19 |  |
 | [Fin del Tiempo](https://open.spotify.com/track/5xj5qixWeH2I44SFx0Icdv) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [AMEN](https://open.spotify.com/album/5lI2aYjpKfats9NYrNBAbl) | 3:06 | 2023-08-25 |  |
 | [Fumar el Amor](https://open.spotify.com/track/0PyGXOtp1XlvMeGfQao8ne) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Infectado](https://open.spotify.com/album/2zAl9NEyqqhmupC1MFtlHK) | 4:19 | 2023-08-25 |  |
 | [Haz el Amor](https://open.spotify.com/track/30GrX78jqjyJVQI6WMmUb9) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Libre](https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH) | 3:32 | 2023-08-31 |  |
@@ -40,7 +41,8 @@
 | [Libre](https://open.spotify.com/track/22voq3jOhXWab1TZWQmXu2) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Somos la Gente \(Somos 2\)](https://open.spotify.com/album/1ahfHigpORAaxqpRS6qAM8) | 3:04 | 2023-08-25 |  |
 | [Los Finos](https://open.spotify.com/track/2VZF5V2UtGkcxVsynxLxoE) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [2020](https://open.spotify.com/album/2XXSSuTZwjCGyI0yshXmJv) | 4:08 | 2023-08-25 |  |
 | [Love N' Shit](https://open.spotify.com/track/0kZKUPXsNPNIBd7LtVGif5) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Tiempos de Resurrección](https://open.spotify.com/album/0eDQe2HtPCCNwJ6DjxnDVN) | 3:36 | 2023-08-25 |  |
-| [Magia](https://open.spotify.com/track/2dRiSTQQFw2mvXMJMRsMNi) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Magia](https://open.spotify.com/album/6Siy5RIoHnsou0AfiglNwi) | 3:16 | 2023-08-25 |  |
+| [Magia](https://open.spotify.com/track/2dRiSTQQFw2mvXMJMRsMNi) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Magia](https://open.spotify.com/album/6Siy5RIoHnsou0AfiglNwi) | 3:16 | 2023-08-25 | 2025-11-19 |
+| [Magia](https://open.spotify.com/track/6HZWQYRTObFmn7LpKtfxAH) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [2020](https://open.spotify.com/album/1oXZpcZxhAIPejsCHdpq8o) | 3:16 | 2025-11-19 |  |
 | [María](https://open.spotify.com/track/0TELUUtorjfY4gvlaVuiTu) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [2020](https://open.spotify.com/album/2XXSSuTZwjCGyI0yshXmJv) | 4:04 | 2024-11-18 |  |
 | [María](https://open.spotify.com/track/74S4elvYfwhKdThkB9APUv) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [María](https://open.spotify.com/album/1gf3hGi60TRvxyN4dDIJFZ) | 4:04 | 2023-08-25 | 2024-11-18 |
 | [Milagros](https://open.spotify.com/track/4bZryEWX4rdZJBJ9JqUeSh) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [AMEN](https://open.spotify.com/album/5lI2aYjpKfats9NYrNBAbl) | 4:04 | 2023-08-25 |  |

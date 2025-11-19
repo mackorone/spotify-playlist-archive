@@ -1,12 +1,12 @@
 {
   "description": "This is Nicky Romero. The essential tracks, all in one playlist.",
-  "num_followers": 72396,
+  "num_followers": 72394,
   "original_name": "This Is Nicky Romero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRkUAAAAAAB4YoW7DNt9Fe7o7TnaU/p/",
+  "snapshot_id": "aRplgAAAAABHIYHI6IOYE85SD9iS6D2y",
   "tracks": [
     {
       "added_at": null,
@@ -463,6 +463,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Wanna Dance",
+        "url": "https://open.spotify.com/album/6CxgIkOgE7uIG4p70b8lyl"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "MERYLL",
+          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
+        }
+      ],
+      "duration_ms": 198805,
+      "name": "I Wanna Dance",
+      "url": "https://open.spotify.com/track/2UMDjpShbeQoON9Dn7ONMK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love You for the Summer (Kohen Remix)",
         "url": "https://open.spotify.com/album/6ufmXFf1GL3vWmyZVpC8yz"
       },
@@ -487,30 +511,6 @@
       "duration_ms": 158769,
       "name": "Love You for the Summer - Kohen Remix",
       "url": "https://open.spotify.com/track/7y3oxdNRRc0moNrzYPNK1K"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Wanna Dance",
-        "url": "https://open.spotify.com/album/6CxgIkOgE7uIG4p70b8lyl"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "MERYLL",
-          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
-        }
-      ],
-      "duration_ms": 198805,
-      "name": "I Wanna Dance",
-      "url": "https://open.spotify.com/track/2UMDjpShbeQoON9Dn7ONMK"
     },
     {
       "added_at": null,
@@ -555,30 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Holy (Nicky Romero & Almero Festival Edit)",
-        "url": "https://open.spotify.com/album/4YrGxWlTt7h1Q0BPIUEOAI"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "\u00c9milie Rachel",
-          "url": "https://open.spotify.com/artist/5vgh47byX55s6GPztw1V3Q"
-        },
-        {
-          "name": "Almero",
-          "url": "https://open.spotify.com/artist/7q03I7IegvJ063qYJIg4kI"
-        }
-      ],
-      "duration_ms": 223937,
-      "name": "Holy - Nicky Romero & Almero Festival Edit",
-      "url": "https://open.spotify.com/track/1eL80CN0UF5aBsncWBPfFQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sometimes",
         "url": "https://open.spotify.com/album/1vuWqrCgIqeiaTUJnbAF40"
       },
@@ -599,26 +575,6 @@
       "duration_ms": 182950,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/4Ld9Wvjpj1IOAIbnNy07AP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sober",
-        "url": "https://open.spotify.com/album/4GRth1z0snfAbeLoZXtnpk"
-      },
-      "artists": [
-        {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 162924,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/4LSkEJ5P5MV0y3PZqw7guJ"
     },
     {
       "added_at": null,
@@ -651,30 +607,66 @@
     {
       "added_at": null,
       "album": {
-        "name": "Halo",
-        "url": "https://open.spotify.com/album/4EWr9IMsfwg20zWXGiacmp"
+        "name": "Holy (Nicky Romero & Almero Festival Edit)",
+        "url": "https://open.spotify.com/album/4YrGxWlTt7h1Q0BPIUEOAI"
       },
       "artists": [
         {
-          "name": "Monocule",
-          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
         },
         {
-          "name": "LAMAS (BR)",
-          "url": "https://open.spotify.com/artist/3sEeagShEwr9APxjh62Hr8"
+          "name": "\u00c9milie Rachel",
+          "url": "https://open.spotify.com/artist/5vgh47byX55s6GPztw1V3Q"
         },
         {
-          "name": "Dan Soleil",
-          "url": "https://open.spotify.com/artist/2z0mmxKTw0KpO7Qnb6aB2r"
+          "name": "Almero",
+          "url": "https://open.spotify.com/artist/7q03I7IegvJ063qYJIg4kI"
+        }
+      ],
+      "duration_ms": 223937,
+      "name": "Holy - Nicky Romero & Almero Festival Edit",
+      "url": "https://open.spotify.com/track/1eL80CN0UF5aBsncWBPfFQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sober",
+        "url": "https://open.spotify.com/album/4GRth1z0snfAbeLoZXtnpk"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
         },
         {
           "name": "Nicky Romero",
           "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
         }
       ],
-      "duration_ms": 209400,
-      "name": "Halo",
-      "url": "https://open.spotify.com/track/63GxgopLJOCQ4YFp65mQQt"
+      "duration_ms": 162924,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/4LSkEJ5P5MV0y3PZqw7guJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Higher Off The Ground",
+        "url": "https://open.spotify.com/album/3MN43OG1psXq1XMGDCGF4a"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 210307,
+      "name": "Day & Night",
+      "url": "https://open.spotify.com/track/0shxu0SFg40gUiYMWzBMbe"
     },
     {
       "added_at": null,
@@ -699,6 +691,34 @@
       "duration_ms": 245538,
       "name": "Desire",
       "url": "https://open.spotify.com/track/6dpgiVoEttQGpKd763nr4i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Halo",
+        "url": "https://open.spotify.com/album/4EWr9IMsfwg20zWXGiacmp"
+      },
+      "artists": [
+        {
+          "name": "Monocule",
+          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
+        },
+        {
+          "name": "LAMAS (BR)",
+          "url": "https://open.spotify.com/artist/3sEeagShEwr9APxjh62Hr8"
+        },
+        {
+          "name": "Dan Soleil",
+          "url": "https://open.spotify.com/artist/2z0mmxKTw0KpO7Qnb6aB2r"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 209400,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/63GxgopLJOCQ4YFp65mQQt"
     },
     {
       "added_at": null,
@@ -827,26 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Higher Off The Ground",
-        "url": "https://open.spotify.com/album/3MN43OG1psXq1XMGDCGF4a"
-      },
-      "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 210307,
-      "name": "Day & Night",
-      "url": "https://open.spotify.com/track/0shxu0SFg40gUiYMWzBMbe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I'll Follow You",
         "url": "https://open.spotify.com/album/6n8A62fT6vLTMrwuVDQAIp"
       },
@@ -959,26 +959,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/3Jkk3mOfUiIcaJboZ77lkp"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "NIIKO X SWAE",
-          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
-        }
-      ],
-      "duration_ms": 149516,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/4VVzgTike7FW8OiUIDN7hk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "For The People",
         "url": "https://open.spotify.com/album/5QcP3EZoMWUi0ETWkh0NAj"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 219345,
       "name": "For The People",
       "url": "https://open.spotify.com/track/4MvA2osUdPQpDKNwuDjlM8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/3Jkk3mOfUiIcaJboZ77lkp"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "NIIKO X SWAE",
+          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
+        }
+      ],
+      "duration_ms": 149516,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/4VVzgTike7FW8OiUIDN7hk"
     },
     {
       "added_at": null,
@@ -1091,30 +1091,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drown (feat. Clinton Kane) [Nicky Romero Remix]",
-        "url": "https://open.spotify.com/album/0yyVHA6DKNQSfYMVuvjuza"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Clinton Kane",
-          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 187380,
-      "name": "Drown (feat. Clinton Kane) - Nicky Romero Remix",
-      "url": "https://open.spotify.com/track/5aRwLXpWjgXmwoJvXoYvCq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Destiny",
         "url": "https://open.spotify.com/album/0iYk7ujef4AMfDJJYoCfnq"
       },
@@ -1139,26 +1115,46 @@
     {
       "added_at": null,
       "album": {
-        "name": "Be There",
-        "url": "https://open.spotify.com/album/3NIArT6BvFcK5FKL4PfK6u"
+        "name": "Drown (feat. Clinton Kane) [Nicky Romero Remix]",
+        "url": "https://open.spotify.com/album/0yyVHA6DKNQSfYMVuvjuza"
       },
       "artists": [
         {
-          "name": "Monocule",
-          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
         },
         {
-          "name": "Emiel Monte",
-          "url": "https://open.spotify.com/artist/2mSHOC40hbPRqVIGPJAkzC"
+          "name": "Clinton Kane",
+          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
         },
         {
           "name": "Nicky Romero",
           "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
         }
       ],
-      "duration_ms": 224516,
-      "name": "Be There",
-      "url": "https://open.spotify.com/track/50cHNRi4ALoqT1AI9XJckF"
+      "duration_ms": 187380,
+      "name": "Drown (feat. Clinton Kane) - Nicky Romero Remix",
+      "url": "https://open.spotify.com/track/5aRwLXpWjgXmwoJvXoYvCq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lights Up (Dimitri Vegas & Like Mike Edit)",
+        "url": "https://open.spotify.com/album/1jtuFy5U2SMXOhESik9Cfp"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        }
+      ],
+      "duration_ms": 190746,
+      "name": "Lights Up - Dimitri Vegas & Like Mike Edit",
+      "url": "https://open.spotify.com/track/31T0ANtI2p01yG111kAJ7P"
     }
   ],
   "unique_name": "This Is Nicky Romero",

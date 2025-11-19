@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36tZFVjdWfJ.md) - [plain]
 
 > Listen to the music from and inspired by Priscilla, curated by Sofia Coppola.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,932 likes - 28 songs - 1 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,933 likes - 28 songs - 1 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Pocketful of Rainbows](https://open.spotify.com/track/6lSGhstIFdvPT0mYbTM6Y2) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [G.I\. Blues](https://open.spotify.com/album/1TqAYM0PTj6TDdzTcY8VGT) | 2:34 |
+| 1 | [Pocketful of Rainbows](https://open.spotify.com/track/6lSGhstIFdvPT0mYbTM6Y2) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [G.I\. Blues](https://open.spotify.com/album/1TqAYM0PTj6TDdzTcY8VGT) | 2:35 |
 | 2 | [Venus](https://open.spotify.com/track/6KHEgLNJn7SDvUEF2FZPS0) | [Frankie Avalon](https://open.spotify.com/artist/5zNOI87gG4RttFmYAZWaxQ) | [Priscilla \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/68KMSWZumigzfszTy87ESB) | 2:22 |
 | 3 | [Crimson & Clover](https://open.spotify.com/track/4etbBw63TpkWowL8OBxyd7) | [Tommy James & The Shondells](https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI) | [Priscilla \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/68KMSWZumigzfszTy87ESB) | 3:28 |
 | 4 | [My Elixir](https://open.spotify.com/track/5ShoQtH1YaLSmtE5STXspw) | [Sons of Raphael](https://open.spotify.com/artist/1stGFX6w6VMHQPDPlBqX74) | [Priscilla \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/68KMSWZumigzfszTy87ESB) | 3:49 |
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36tZFVjdWfJ.md) - [plain]
 | 24 | [Lonely Sea \(Mono\)](https://open.spotify.com/track/465pSbGkS2UnH9ECAr22La) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surfin' USA \(Mono & Stereo\)](https://open.spotify.com/album/6zImwx0g5TZ4HrvS1E8MYu) | 2:23 |
 | 25 | [Gassenhauer](https://open.spotify.com/track/4mfXDIKgh4mseQ11yxabNv) | [Erik Charlston](https://open.spotify.com/artist/5B6S3ITPXQ28IJhzhN1lez) | [Priscilla \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/68KMSWZumigzfszTy87ESB) | 0:46 |
 | 26 | [Going Home](https://open.spotify.com/track/73YWS9Puvt3EDh7Z8nmjD0) | [Alice Coltrane](https://open.spotify.com/artist/0oKYiTD5CdNbrofRvM1dIr) | [Priscilla \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/68KMSWZumigzfszTy87ESB) | 9:59 |
-| 27 | [Always On My Mind](https://open.spotify.com/track/1B5Tp2Ml9nLlmTSJx8xVfI) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis \(Fool\)](https://open.spotify.com/album/3gpHiNAmT5oXVxe6ewTGuN) | 3:38 |
-| 28 | [I Will Always Love You](https://open.spotify.com/track/6nRvgo4ySezQKD1D7NIqAu) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene](https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj) | 2:56 |
+| 27 | [Always On My Mind](https://open.spotify.com/track/1B5Tp2Ml9nLlmTSJx8xVfI) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis \(Fool\)](https://open.spotify.com/album/3gpHiNAmT5oXVxe6ewTGuN) | 3:39 |
+| 28 | [I Will Always Love You](https://open.spotify.com/track/6nRvgo4ySezQKD1D7NIqAu) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene](https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj) | 2:57 |
 
 Snapshot ID: `AAAAAFnZ9dIhCJkiWcFfAoKxp/s00QvC`

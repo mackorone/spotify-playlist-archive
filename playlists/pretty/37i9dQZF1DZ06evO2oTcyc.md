@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oTcyc.md) - [plain]
 
 > This is Kodak Black\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,329 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,354 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oTcyc.md) - [plain]
 | 12 | [HVN ON EARTH \(with Kodak Black\)](https://open.spotify.com/track/4CIyxiObT9G35HrSItAblR) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [TEC](https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE) | 3:08 |
 | 13 | [Institution](https://open.spotify.com/track/2G6PeWL4JanUge47LNdFtJ) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Institution](https://open.spotify.com/album/4J5QtgOhv6tPCsxxifVskj) | 2:56 |
 | 14 | [Love & War](https://open.spotify.com/track/293mQGfVwgXIOdA1GpiwAt) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Back For Everything](https://open.spotify.com/album/7sX9VE0I4zbslanrLXR5aR) | 3:59 |
-| 15 | [BROTHER STONE \(FEAT\. KODAK BLACK\)](https://open.spotify.com/track/093MlZS93ZKlHpGkmb3k3W) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 3:22 |
-| 16 | [What It Is \(Block Boy\) \(with Kodak Black\)](https://open.spotify.com/track/1O8zCu3dLLPxkbGfIsbRgE) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [What It Is \(Block Boy\) \(with Kodak Black\)](https://open.spotify.com/album/1O9xrX782LqLx4Z60528Ih) | 3:43 |
+| 15 | [What It Is \(Block Boy\) \(with Kodak Black\)](https://open.spotify.com/track/1O8zCu3dLLPxkbGfIsbRgE) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [What It Is \(Block Boy\) \(with Kodak Black\)](https://open.spotify.com/album/1O9xrX782LqLx4Z60528Ih) | 3:43 |
+| 16 | [BROTHER STONE \(FEAT\. KODAK BLACK\)](https://open.spotify.com/track/093MlZS93ZKlHpGkmb3k3W) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 3:22 |
 | 17 | [Unexplainable](https://open.spotify.com/track/6X5x6uOKio6vBiHyptfkGV) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Project Baby 2: All Grown Up](https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i) | 2:30 |
 | 18 | [Calling My Spirit](https://open.spotify.com/track/2MShy1GSSgbmGUxADNIao5) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Dying to Live](https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp) | 2:32 |
 | 19 | [Like Dat](https://open.spotify.com/track/788NX6uCNEVuZW8x5BkQqM) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Institution](https://open.spotify.com/album/4J5QtgOhv6tPCsxxifVskj) | 3:20 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oTcyc.md) - [plain]
 | 43 | [Time To Be Free](https://open.spotify.com/track/24n0qB5aWEqRztvfh4SVWE) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Just Getting Started](https://open.spotify.com/album/29CRmHA3hsGk1nwoRnjbxC) | 2:56 |
 | 44 | [If I'm Lyin', I'm Flyin'](https://open.spotify.com/track/7HdNB8nvJOBwHa8hIkzvxp) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Dying to Live](https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp) | 2:10 |
 | 45 | [Till im Gone \(feat\. Kodak Black\)](https://open.spotify.com/track/6I0Jucv2KfH32lNp1Acana) | [Flipp Dinero](https://open.spotify.com/artist/2HUwZ0kumzCSlhFcjFZfpp), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [LOVE FOR GUALA](https://open.spotify.com/album/3zMEkZNzS5yJDcnqPhIk10) | 3:46 |
-| 46 | [Imma Shoot](https://open.spotify.com/track/7AsZ1KI3AHWjP1liPpOykV) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Imma Shoot](https://open.spotify.com/album/1XAvyrDwCMoctHaogYEQDP) | 3:26 |
+| 46 | [Gave It All I Got](https://open.spotify.com/track/7Kbf1qDeDqshPsG2eSonFy) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Lil Big Pac](https://open.spotify.com/album/6dAUCUgPdEiorKV7101AtE) | 3:33 |
 | 47 | [Really Liv’n](https://open.spotify.com/track/7zD7jlHM7UY485rQXNZEaQ) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Just Getting Started](https://open.spotify.com/album/29CRmHA3hsGk1nwoRnjbxC) | 2:15 |
-| 48 | [Gave It All I Got](https://open.spotify.com/track/7Kbf1qDeDqshPsG2eSonFy) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Lil Big Pac](https://open.spotify.com/album/6dAUCUgPdEiorKV7101AtE) | 3:33 |
+| 48 | [Imma Shoot](https://open.spotify.com/track/7AsZ1KI3AHWjP1liPpOykV) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Imma Shoot](https://open.spotify.com/album/1XAvyrDwCMoctHaogYEQDP) | 3:26 |
 | 49 | [Pills & Automobiles \(feat\. Yo Gotti, A Boogie Wit Da Hoodie & Kodak Black\)](https://open.spotify.com/track/5gx2E5aIXMRBellPZW1up5) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Heartbreak on a Full Moon](https://open.spotify.com/album/3zak0kNLcOY5vFcB3Ipskp) | 4:53 |
 | 50 | [Day for Day](https://open.spotify.com/track/0rGipWrGwAnZsaVkyiJpap) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Painting Pictures](https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96) | 2:48 |
 
-Snapshot ID: `aRkUAAAAAACViYgu6zaNs5nKlBp8vO76`
+Snapshot ID: `aRplgAAAAABE8H8NI1+YSEPYNwi17EqK`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7g9DBqnMitx.md) - [plain]
 
 > Le cinéma ça s'écoute aussi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,876 likes - 70 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,881 likes - 70 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7g9DBqnMitx.md) - [plain]
 | 55 | [Never Ending Story](https://open.spotify.com/track/2IAQnOWKWjj1iA166KznVd) | [Limahl](https://open.spotify.com/artist/7LTzUnZaptYfAFmvqW5M6D) | [The Never Ending Story](https://open.spotify.com/album/6ufy7fmrQRv2sh2cJI5GES) | 3:30 |
 | 56 | [Chanson sur une drôle de vie](https://open.spotify.com/track/12zakSjWxrohomLLgxTkCR) | [Géraldine Nakache](https://open.spotify.com/artist/0IDsFBG1IGixFtXn0fWEFe), [Leïla Bekhti](https://open.spotify.com/artist/0glFopPWoGI1iAwltIpxOA) | [Tout ce qui brille \(Bande originale du film\)](https://open.spotify.com/album/5THGRTWYfqHjw8DfD9tAHF) | 2:47 |
 | 57 | [End Credits \- Soundtrack Reissue \(2002\)](https://open.spotify.com/track/49kKT4dFOjFSMmQ0KIpfeY) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [E.T\. The Extra Terrestrial \(Original Soundtrack \- 20th Anniversary Remaster\)](https://open.spotify.com/album/6qbtlYI0l4Fpj3hJ7e9jGY) | 3:49 |
-| 58 | [Footloose \- From "Footloose" Soundtrack](https://open.spotify.com/track/4lUquPSQVHZv1eKuswOLsG) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Footloose \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Tx8adY1323eMrMuvPILpl) | 3:46 |
+| 58 | [Footloose \- From "Footloose" Soundtrack](https://open.spotify.com/track/4lUquPSQVHZv1eKuswOLsG) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Footloose \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Tx8adY1323eMrMuvPILpl) | 3:47 |
 | 59 | [Happy Meal \- Concerto pour l’Aile ou la cuisse](https://open.spotify.com/track/3312vCIRGN7Z7Zg7QuAa57) | [Vladimir Cosma](https://open.spotify.com/artist/30YHp6jELIUSYUGssR9JRY) | [L'aile ou la cuisse \(Bande originale du film de Claude Zidi\)](https://open.spotify.com/album/24iTJqS3twJ44tRpOUGvZp) | 2:29 |
 | 60 | [Calling You \- Bagdad Cafe/Soundtrack Version](https://open.spotify.com/track/0TwsjNAtErKrdFImpIg9To) | [Jevetta Steele](https://open.spotify.com/artist/60uus5jXLZ6fArMHuqpQoR) | [Bagdad Cafe](https://open.spotify.com/album/7mWCUfRFz4lmttQsDo56BK) | 5:22 |
 | 61 | [Maniac](https://open.spotify.com/track/0QKfiqpEU4h9ycPSzIFwYe) | [Michael Sembello](https://open.spotify.com/artist/771qBvjnXOH9Azr6lKy6FB) | [Flashdance \(Original Soundtrack From The Motion Picture\)](https://open.spotify.com/album/3R6Z3Hp8EMdhgkA5t89NiL) | 4:04 |

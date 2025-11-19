@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 
 > Songs you love with an indie spin on it\. Cover: Blondshell
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,594 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,606 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,19 +94,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 | 84 | [Blinding Lights](https://open.spotify.com/track/3uertkdKKnKntI2kK0fDqg) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB), [Pop Goes Ambient](https://open.spotify.com/artist/2jHRNCV3XlGTMJJaBaB3sP), [Amelia Magdalena](https://open.spotify.com/artist/0z0lcAGtZwp9PUrqUCArLu) | [Blinding Lights](https://open.spotify.com/album/2ULm5UwqgPxTypBJYi0w1w) | 2:52 |
 | 85 | [More Than This](https://open.spotify.com/track/2zhwY62MVZlWBVzgh210HV) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Music From The Pen Gala 1983](https://open.spotify.com/album/2WedBViHbzk10PflnQhNOg) | 3:31 |
 | 86 | [Genius of Love](https://open.spotify.com/track/0UMfconu33lpuioJ696nKv) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp), [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Genius of Love](https://open.spotify.com/album/7ATVtKtlDE1cxauGVsZvSv) | 3:25 |
-| 87 | [Under The Milky Way](https://open.spotify.com/track/23PKv99vrds2hQ5NeI5rrL) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Under The Milky Way](https://open.spotify.com/album/2nLFwnQ1oaO9GxmA7dOiAS) | 4:20 |
-| 88 | [Wildest Dreams](https://open.spotify.com/track/37PKuOlceH4r1zXQgsFPpZ) | [The Native](https://open.spotify.com/artist/6c3Jb6rRod9x4pGtiizwzT) | [Looking Back EP \(Deluxe Version\)](https://open.spotify.com/album/0pcitN9tJOsw4vte4wS3fI) | 3:15 |
-| 89 | [Tonight, Tonight](https://open.spotify.com/track/2bhGrMTnI2Rv1qiuJl4k2V) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Tonight, Tonight](https://open.spotify.com/album/6uA83XxtcMRScfFCt0xV8m) | 4:21 |
-| 90 | [Reptilia](https://open.spotify.com/track/2NeitqclMuX4Xyj1M1mmTp) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Reptilia](https://open.spotify.com/album/5O4v55zC7ya6mxjiQ2xJRU) | 3:41 |
-| 91 | [Maps](https://open.spotify.com/track/4CKRwn0AIG5Fmbf040suEj) | [Raffaella](https://open.spotify.com/artist/0tYrHjgdca0ZLPkR4P0eW4), [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Maps](https://open.spotify.com/album/1J05fZukYUxjZwzZQcMZDi) | 3:30 |
+| 87 | [Wildest Dreams](https://open.spotify.com/track/37PKuOlceH4r1zXQgsFPpZ) | [The Native](https://open.spotify.com/artist/6c3Jb6rRod9x4pGtiizwzT) | [Looking Back EP \(Deluxe Version\)](https://open.spotify.com/album/0pcitN9tJOsw4vte4wS3fI) | 3:15 |
+| 88 | [Under The Milky Way](https://open.spotify.com/track/23PKv99vrds2hQ5NeI5rrL) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Under The Milky Way](https://open.spotify.com/album/2nLFwnQ1oaO9GxmA7dOiAS) | 4:20 |
+| 89 | [Reptilia](https://open.spotify.com/track/2NeitqclMuX4Xyj1M1mmTp) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Reptilia](https://open.spotify.com/album/5O4v55zC7ya6mxjiQ2xJRU) | 3:41 |
+| 90 | [Maps](https://open.spotify.com/track/4CKRwn0AIG5Fmbf040suEj) | [Raffaella](https://open.spotify.com/artist/0tYrHjgdca0ZLPkR4P0eW4), [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Maps](https://open.spotify.com/album/1J05fZukYUxjZwzZQcMZDi) | 3:30 |
+| 91 | [Tonight, Tonight](https://open.spotify.com/track/2bhGrMTnI2Rv1qiuJl4k2V) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Tonight, Tonight](https://open.spotify.com/album/6uA83XxtcMRScfFCt0xV8m) | 4:21 |
 | 92 | [What You Won't Do for Love](https://open.spotify.com/track/5Nr2cbWCipKDW3zPe63g7h) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [What You Won't Do for Love](https://open.spotify.com/album/2PaIjmeAXUAJNTkoOr7CWy) | 3:13 |
 | 93 | [Heaven](https://open.spotify.com/track/3R0iA3AlPcpvfwYIoUTVRx) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Heaven](https://open.spotify.com/album/3lve8evv61lFzAtZcdGZPk) | 4:17 |
-| 94 | [Making Breakfast](https://open.spotify.com/track/2slU3LSs6yFAsit4blFSjA) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Making Breakfast](https://open.spotify.com/album/6gZ2JwFSMQsllwM2XJjZIh) | 2:20 |
-| 95 | [Adam's Song \- triple j Like A Version](https://open.spotify.com/track/6wAucih2u2ENLTZjIyJN2v) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9), [E^ST](https://open.spotify.com/artist/7ASucWaI33cepJbo74Hlo0) | [Adam's Song \(triple j Like A Version\)](https://open.spotify.com/album/0iOMlmeL9Gwe7KmBfLuxLX) | 4:16 |
+| 94 | [Adam's Song \- triple j Like A Version](https://open.spotify.com/track/6wAucih2u2ENLTZjIyJN2v) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9), [E^ST](https://open.spotify.com/artist/7ASucWaI33cepJbo74Hlo0) | [Adam's Song \(triple j Like A Version\)](https://open.spotify.com/album/0iOMlmeL9Gwe7KmBfLuxLX) | 4:16 |
+| 95 | [Making Breakfast](https://open.spotify.com/track/2slU3LSs6yFAsit4blFSjA) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Making Breakfast](https://open.spotify.com/album/6gZ2JwFSMQsllwM2XJjZIh) | 2:20 |
 | 96 | [Thank You for Sending Me an Angel](https://open.spotify.com/track/7j5diHi0CsErlpnfdw8GPg) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Thank You for Sending Me an Angel](https://open.spotify.com/album/3XXw969WtYPCotGSO5S5x9) | 3:08 |
 | 97 | [Dreams](https://open.spotify.com/track/0tueLq12kgxw1s7Wd0WfIF) | [Azure Ryder](https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8) | [Dreams](https://open.spotify.com/album/7zuBYf3lEDOOpvRmSn7lSW) | 3:54 |
 | 98 | [No Surprises](https://open.spotify.com/track/4eXOqmr69p5v8mztsEeO1R) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [No Surprises](https://open.spotify.com/album/4h8UfmHaGPZDivrHVOjAQi) | 3:35 |
 | 99 | [Cooking](https://open.spotify.com/track/6QS1OLPLLjKiZsdIs9GUdi) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Cooking](https://open.spotify.com/album/1a48ZfwsNdTMdy3NNrdeh7) | 2:51 |
-| 100 | [Bad Religion](https://open.spotify.com/track/7Kx832x6sRNGRy8o40u7Mr) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Bad Religion / A Pair Of Brown Eyes](https://open.spotify.com/album/2yjZoxPqfpRQyGwuOXo5Rp) | 4:20 |
+| 100 | [Sea of Love \(with The National\) \[From “Norah Jones is Playing Along” Podcast\]](https://open.spotify.com/track/2SUfpiTVAMqC4HEdTn1PPf) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Sea of Love \(with The National\) \[From “Norah Jones is Playing Along” Podcast\]](https://open.spotify.com/album/5iT2I6aOLxLTqpAmXl6hVN) | 4:09 |
 
 Snapshot ID: `AAAAAKbMcQcboUWNo8l5ljq7h6bLL9Au`

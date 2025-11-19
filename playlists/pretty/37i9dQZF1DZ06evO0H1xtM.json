@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Marca Registrada. The essential tracks, all in one playlist.",
-  "num_followers": 360808,
+  "num_followers": 360916,
   "original_name": "This Is Grupo Marca Registrada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRkUAAAAAABWeyKBUVisoikDor6UMUAW",
+  "snapshot_id": "aRplgAAAAABs7W/x5kvIo4+rBfziKyT4",
   "tracks": [
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Subiendo De Nivel",
-        "url": "https://open.spotify.com/album/0H58hvJ4R2WRJEKPG6lOmw"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 110828,
-      "name": "Tu No Eres Lo Que Quer\u00eda",
-      "url": "https://open.spotify.com/track/5dzDXov0yNDEPl1GYNpzrh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sigue La Magia Dando",
         "url": "https://open.spotify.com/album/1aIIP4cPvZFZnSCwAjKEVW"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 213613,
       "name": "Si Supieran",
       "url": "https://open.spotify.com/track/61cPaeNerTafqZLYMEfTQ3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Subiendo De Nivel",
+        "url": "https://open.spotify.com/album/0H58hvJ4R2WRJEKPG6lOmw"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 110828,
+      "name": "Tu No Eres Lo Que Quer\u00eda",
+      "url": "https://open.spotify.com/track/5dzDXov0yNDEPl1GYNpzrh"
     },
     {
       "added_at": null,
@@ -815,6 +815,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Haciendo Magia",
+        "url": "https://open.spotify.com/album/0SJxiltxmAxmLb3R4A1PU5"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 167893,
+      "name": "As\u00ed Nac\u00ed",
+      "url": "https://open.spotify.com/track/30yaDgoJbR3wujuclohMaq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Duele Tu Abandono (En Vivo)",
         "url": "https://open.spotify.com/album/2GsM14v55cfq9hPlfXRzan"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 226345,
       "name": "Duele Tu Abandono (En Vivo)",
       "url": "https://open.spotify.com/track/2G1w6qfHd03zBzsNjAkPOt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Haciendo Magia",
-        "url": "https://open.spotify.com/album/0SJxiltxmAxmLb3R4A1PU5"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 167893,
-      "name": "As\u00ed Nac\u00ed",
-      "url": "https://open.spotify.com/track/30yaDgoJbR3wujuclohMaq"
     },
     {
       "added_at": null,
@@ -923,22 +923,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Stop The Magic",
-        "url": "https://open.spotify.com/album/5I5DtMQDh1PnflVUtTLMN7"
+        "name": "Mi Mu\u00f1equita",
+        "url": "https://open.spotify.com/album/14Q0D9jC3rpgx8LpLmUmmy"
       },
       "artists": [
         {
           "name": "Grupo Marca Registrada",
           "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 168576,
-      "name": "Me Haces Tan Bien",
-      "url": "https://open.spotify.com/track/5NkAVF1k2tAmNdsFw4qVnM"
+      "duration_ms": 226933,
+      "name": "Mi Mu\u00f1equita",
+      "url": "https://open.spotify.com/track/01IFbhPxXAnrNBTwhhgQA3"
     }
   ],
   "unique_name": "This Is Grupo Marca Registrada",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxGv3yVVJefk.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/02Zegjy92TEyYM8PSxvf8Y">Luther Vandross</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 331 likes - 63 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 332 likes - 63 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxGv3yVVJefk.md) - [plain]
 | 35 | [Apologize](https://open.spotify.com/track/0QA40eWNCs6gBrJMaMDkgR) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Dance With My Father](https://open.spotify.com/album/43Ci8cugIRwfmkXEyEgfVM) | 4:59 |
 | 36 | [Too Proud To Beg](https://open.spotify.com/track/4IBfq7JnxlhUKRd5ecfdY7) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Your Secret Love](https://open.spotify.com/album/3F4E8x0AIxDFBFjFlLYPeN) | 4:50 |
 | 37 | [I'm Only Human](https://open.spotify.com/track/0RNyMds4oiBrh4E29LBePL) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP), [Bob James](https://open.spotify.com/artist/6ryjbFyWBZho9KGXqKZdqQ), [Cassandra Wilson](https://open.spotify.com/artist/6TZ5t4kclsmGWHqb3mGyha) | [I Know](https://open.spotify.com/album/7tcFetI7thjbKImCIXIDmT) | 5:28 |
-| 38 | [Who Do You Love](https://open.spotify.com/track/2dUFDcYgiXgDO7ohd52kRr) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [I'm Your Baby Tonight](https://open.spotify.com/album/5LaUUDnUTySWnJLj1xiBnw) | 3:57 |
+| 38 | [Who Do You Love](https://open.spotify.com/track/2dUFDcYgiXgDO7ohd52kRr) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [I'm Your Baby Tonight](https://open.spotify.com/album/5LaUUDnUTySWnJLj1xiBnw) | 3:55 |
 | 39 | [She Saw You](https://open.spotify.com/track/7dN6LdEvKdvwoZquYIVNEP) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Dance With My Father](https://open.spotify.com/album/43Ci8cugIRwfmkXEyEgfVM) | 5:44 |
 | 40 | [Are You Using Me?](https://open.spotify.com/track/1QtxGA8cWVJPLEslj9CrL3) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [I Know](https://open.spotify.com/album/7tcFetI7thjbKImCIXIDmT) | 5:21 |
 | 41 | [Right in the Middle](https://open.spotify.com/track/3DRT8CMXAh76fOzblti1lV) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Dance With My Father](https://open.spotify.com/album/43Ci8cugIRwfmkXEyEgfVM) | 4:50 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxGv3yVVJefk.md) - [plain]
 | 62 | [This Strange Feeling](https://open.spotify.com/track/2iukFid6vhDSEXMgo4Ycng) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP), [Luther](https://open.spotify.com/artist/0LK2gak2mwCnKaINYPl8iM) | [Luther](https://open.spotify.com/album/06bM5GxUptd8xlB6ORNjdG) | 4:44 |
 | 63 | [In This Lonely Hour](https://open.spotify.com/track/1lYOzU0fzs3yQuhXB9bHlj) | [Delores Hall](https://open.spotify.com/artist/0EpH9VlSM5qidHHnDORvS6) | [Hall\-Mark!!](https://open.spotify.com/album/7vWxgfco70D8I6ZslLZHcd) | 2:34 |
 
-Snapshot ID: `AcB3JgAAAABGy2WvqIs4f92oMp5y3T/h`
+Snapshot ID: `AcB8xgAAAABrh9tWR9dMcfhfyllISRz6`

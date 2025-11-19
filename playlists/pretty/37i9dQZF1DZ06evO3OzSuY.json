@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRkUAAAAAACu6QbEZDEVQVpe5kJC2Ljc",
+  "snapshot_id": "aRplgAAAAADsvkO0OVrP3RLBPMZKx2xZ",
   "tracks": [
     {
       "added_at": null,
@@ -540,13 +540,17 @@
       },
       "artists": [
         {
+          "name": "Bella Thorne",
+          "url": "https://open.spotify.com/artist/58AqJv0sDFPFnnBcLT8eeX"
+        },
+        {
           "name": "Zendaya",
           "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
         }
       ],
-      "duration_ms": 196026,
-      "name": "Beat Of My Drum",
-      "url": "https://open.spotify.com/track/3kQof6BTRSz9eo0e8E0mSU"
+      "duration_ms": 187813,
+      "name": "This is My Dance Floor",
+      "url": "https://open.spotify.com/track/6A4t0Qss5Azkt2D7n0XbFJ"
     },
     {
       "added_at": null,
@@ -608,17 +612,13 @@
       },
       "artists": [
         {
-          "name": "Bella Thorne",
-          "url": "https://open.spotify.com/artist/58AqJv0sDFPFnnBcLT8eeX"
-        },
-        {
           "name": "Zendaya",
           "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
         }
       ],
-      "duration_ms": 187813,
-      "name": "This is My Dance Floor",
-      "url": "https://open.spotify.com/track/6A4t0Qss5Azkt2D7n0XbFJ"
+      "duration_ms": 196026,
+      "name": "Beat Of My Drum",
+      "url": "https://open.spotify.com/track/3kQof6BTRSz9eo0e8E0mSU"
     },
     {
       "added_at": null,

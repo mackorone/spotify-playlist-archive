@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5SUu7au16Jd2bvqWVN09HM">Jon "MAGS" Maguire</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 351 likes - 106 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 352 likes - 106 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,10 +87,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 | 77 | [The Writing's On The Wall](https://open.spotify.com/track/0TBNJLc19JEr5PXwbyaWfX) | [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY) | [The Writing's On The Wall](https://open.spotify.com/album/6Ed2yhkWOGoGog1QTSch0j) | 2:39 |
 | 78 | [Mad](https://open.spotify.com/track/2OVGuGN4Ia77OJz3CFgiG6) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Avenoir](https://open.spotify.com/album/0PpZlKRSocIBOf6mUY3tVw) | 3:10 |
 | 79 | [Lose Myself](https://open.spotify.com/track/6xLR0LNVqenF9ihWoXMhKW) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Avenoir](https://open.spotify.com/album/0PpZlKRSocIBOf6mUY3tVw) | 2:44 |
-| 80 | [Don't Play This on the Radio](https://open.spotify.com/track/1PJ5jEyfsLYPHe8Arlq68B) | [Lucy Spraggan](https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N) | [Today Was a Good Day](https://open.spotify.com/album/7IIVfnuwQ2zrfbMp2vWsdQ) | 3:13 |
-| 81 | [Bodystop](https://open.spotify.com/track/3p3N646rTTbyp6SE59Ezxz) | [Hook N Sling](https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D), [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY), [YOU](https://open.spotify.com/artist/266PvBAoJzPdxt3dgkEsBW) | [Bodystop](https://open.spotify.com/album/66rZeSSkClPAobtRPt9E0m) | 2:50 |
-| 82 | [All About a Girl](https://open.spotify.com/track/1KO9sRiIZhRDKpu7MAFkBV) | [Union J](https://open.spotify.com/artist/7DTZkttLXeUXamkocrRzeh) | [You Got It All](https://open.spotify.com/album/312WowjvJsuTSfaxXBXi6Q) | 3:15 |
-| 83 | [Hey Son](https://open.spotify.com/track/0OiNRfziXYdxP5I3ysqeuz) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [MC4D](https://open.spotify.com/artist/2MbY32LPINIi9P6PCkrOJI), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Hey Son](https://open.spotify.com/album/6wKpxhTWl6HtdreIFPSbpq) | 3:00 |
+| 80 | [Hey Son](https://open.spotify.com/track/0OiNRfziXYdxP5I3ysqeuz) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [MC4D](https://open.spotify.com/artist/2MbY32LPINIi9P6PCkrOJI), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Hey Son](https://open.spotify.com/album/6wKpxhTWl6HtdreIFPSbpq) | 3:00 |
+| 81 | [Don't Play This on the Radio](https://open.spotify.com/track/1PJ5jEyfsLYPHe8Arlq68B) | [Lucy Spraggan](https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N) | [Today Was a Good Day](https://open.spotify.com/album/7IIVfnuwQ2zrfbMp2vWsdQ) | 3:13 |
+| 82 | [Bodystop](https://open.spotify.com/track/3p3N646rTTbyp6SE59Ezxz) | [Hook N Sling](https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D), [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY), [YOU](https://open.spotify.com/artist/266PvBAoJzPdxt3dgkEsBW) | [Bodystop](https://open.spotify.com/album/66rZeSSkClPAobtRPt9E0m) | 2:50 |
+| 83 | [All About a Girl](https://open.spotify.com/track/1KO9sRiIZhRDKpu7MAFkBV) | [Union J](https://open.spotify.com/artist/7DTZkttLXeUXamkocrRzeh) | [You Got It All](https://open.spotify.com/album/312WowjvJsuTSfaxXBXi6Q) | 3:15 |
 | 84 | [Never Wanna Fall in Love](https://open.spotify.com/track/1CniRSNjJmLuD2vnf1G96U) | [Catherine McGrath](https://open.spotify.com/artist/0db28KdTi7VNaTipfAnlWQ) | [Starting From Now](https://open.spotify.com/album/7xtbwxSS5gmY4kAILOYgSw) | 3:14 |
 | 85 | [One More Time](https://open.spotify.com/track/03cXcevjjmVaR4IU13XMRZ) | [Union J](https://open.spotify.com/artist/7DTZkttLXeUXamkocrRzeh) | [You Got It All](https://open.spotify.com/album/312WowjvJsuTSfaxXBXi6Q) | 2:32 |
 | 86 | [Gone](https://open.spotify.com/track/6vdaDwTbA2yKq9NV6MG6w8) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Avenoir](https://open.spotify.com/album/0PpZlKRSocIBOf6mUY3tVw) | 2:59 |
@@ -106,8 +106,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 | 96 | [One Last Time](https://open.spotify.com/track/3V3J6ObCYR8nx1Sk2LqKBp) | [Scouting For Girls](https://open.spotify.com/artist/2wpJOPmf1TIOzrB9mzHifd) | [B\-Sides & Rarities](https://open.spotify.com/album/3vwxBq57O0bRKBqHIRVI4a) | 3:01 |
 | 97 | [Carry Me](https://open.spotify.com/track/5UCXNtgoKOkxvXA5mr9Rmf) | [Rea Garvey](https://open.spotify.com/artist/0bmxU94V20pNJ2Vie9kFYv) | [HALO](https://open.spotify.com/album/64qanlJYo3CsSuzReUMA5n) | 2:09 |
 | 98 | [Given Up, Giving Up](https://open.spotify.com/track/6zdyGZuSVvyKFfAZNvHofS) | [Lilygreen & Maguire](https://open.spotify.com/artist/4TpXSJQCJhJynucuQQcgwB) | [Given Up, Giving Up](https://open.spotify.com/album/5LRp2IQEmVCF8DyEZchYLJ) | 3:52 |
-| 99 | [Falling out of Love](https://open.spotify.com/track/2hDVo59GNn1W3VN1HObnge) | [Lilygreen & Maguire](https://open.spotify.com/artist/4TpXSJQCJhJynucuQQcgwB) | [Ain't Love Crazy](https://open.spotify.com/album/4fh8KEvwQCK8LhPUnAnH2p) | 3:13 |
-| 100 | [All For You](https://open.spotify.com/track/0vmxkMlvs48oKYcOJJRfZj) | [Simple Things](https://open.spotify.com/artist/4shOc51gERMCBeJALYIQmN) | [All For You](https://open.spotify.com/album/2PN4Pl0eqHebYdXpWofu25) | 3:26 |
+| 99 | [All For You](https://open.spotify.com/track/0vmxkMlvs48oKYcOJJRfZj) | [Simple Things](https://open.spotify.com/artist/4shOc51gERMCBeJALYIQmN) | [All For You](https://open.spotify.com/album/2PN4Pl0eqHebYdXpWofu25) | 3:26 |
+| 100 | [Falling out of Love](https://open.spotify.com/track/2hDVo59GNn1W3VN1HObnge) | [Lilygreen & Maguire](https://open.spotify.com/artist/4TpXSJQCJhJynucuQQcgwB) | [Ain't Love Crazy](https://open.spotify.com/album/4fh8KEvwQCK8LhPUnAnH2p) | 3:13 |
 | 101 | [Mercedes](https://open.spotify.com/track/0kfY0oZBLuvIZz5ccq8khh) | [Kumi Koda](https://open.spotify.com/artist/2mGYHril2LuZodRtTX06BC) | [WALK OF MY LIFE](https://open.spotify.com/album/74m4nnIEJqwiBD3Lv6f4Xt) | 2:54 |
 | 102 | [Like It Like That](https://open.spotify.com/track/0UG7iUrCSlhZvQK8zpu3gZ) | [Si Cranstoun](https://open.spotify.com/artist/7csp7TiZwQF5Yn9Mt2Us2w) | [Modern Life](https://open.spotify.com/album/5DjyYDHHwbfG2v03F5ZXf0) | 2:47 |
 | 103 | [All I Care About Is You](https://open.spotify.com/track/7MFeKvFDQugbhKLbCqbfPA) | [Lilygreen & Maguire](https://open.spotify.com/artist/4TpXSJQCJhJynucuQQcgwB) | [Given Up, Giving Up](https://open.spotify.com/album/5LRp2IQEmVCF8DyEZchYLJ) | 3:02 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 | 105 | [Still Breathing](https://open.spotify.com/track/45Vv22j4BeBa7mmKiWSNoM) | [Jenn Bostic](https://open.spotify.com/artist/0TK1H3VeQnZEczCCdzAvap) | [Faithful](https://open.spotify.com/album/087LvnihJ9pst9AzEn0Iz0) | 3:23 |
 | 106 | [DIE FOR YOU](https://open.spotify.com/track/6h18FgTEtFKdbhwwmP8VHt) | [Álbert Montes](https://open.spotify.com/artist/4xkX06GBRTgABQAT18ADgW) | [DIE FOR YOU](https://open.spotify.com/album/4L0ewrs2F2poqVYkeZ8nKI) | 3:13 |
 
-Snapshot ID: `AcB2/gAAAACDuIi+jODjbttTMDYhLuIp`
+Snapshot ID: `AcB82gAAAADCn6qDF4ACbGRp8xw/YRX8`

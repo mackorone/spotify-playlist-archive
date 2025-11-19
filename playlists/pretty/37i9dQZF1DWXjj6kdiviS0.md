@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjj6kdiviS0.md) - [plain]
 
 > Classics from the Baroque era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,585 likes - 72 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,802 likes - 72 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,6 +79,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjj6kdiviS0.md) - [plain]
 | 69 | [Ciaccona \(I\)](https://open.spotify.com/track/3QJrYXsAWshnTzzHzapRCz) | [Christina Pluhar](https://open.spotify.com/artist/7xB7TQUAeFWgqdkhGiArgZ), [Maurizio Cazzati](https://open.spotify.com/artist/0RmIi9D8DWjiyivNnp0IPW), [L'Arpeggiata](https://open.spotify.com/artist/3kC7VaScP8y69rzg0vsswQ) | [All' Improvviso: Ciaccone, Bergamasche, & un po' di Follie...](https://open.spotify.com/album/4bt4Ytdca9kcGGysElYIba) | 3:52 |
 | 70 | [Suite in G major: Prélude \- lentement](https://open.spotify.com/track/14stuPc6g7QVOQt2FSMJJM) | [Marin Marais](https://open.spotify.com/artist/3iPWeMA0avSRKrPKcLaTDE), [Mieneke van der Velden](https://open.spotify.com/artist/6kTE2t6fPmH5DVe7l91Bdp), [Glen Wilson](https://open.spotify.com/artist/35JsAHbNzAnSImdGxEeBhs) | [Marais: Pieces de Viole](https://open.spotify.com/album/0xTKwdmMk6FxXmdOMQQ8q6) | 2:27 |
 | 71 | [Cello Suite No\. 2 in D Minor, BWV 1008: III\. Courante](https://open.spotify.com/track/0QFWuS6woPDDdXayRmfpnU) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Anja Lechner](https://open.spotify.com/artist/0SGPrWBKXE2DfxLX4GbtBN) | [J.S\. Bach: Cello Suite No\. 2 in D Minor, BWV 1008: III\. Courante](https://open.spotify.com/album/6BodS37ZZiicXIbokoMsDw) | 2:13 |
-| 72 | [Canarios](https://open.spotify.com/track/4wVfNcuFvJzBE5FQ5J479c) | [Gaspar Sanz](https://open.spotify.com/artist/1OdITJSYADZMOPRSyXlb3c), [Thibault Cauvin](https://open.spotify.com/artist/6d81rjlV6r9u8qPMAjavRV) | [Thibault Cauvin](https://open.spotify.com/album/3xh9nAAn1jntzf6phXqYcG) | 2:27 |
+| 72 | [Canarios](https://open.spotify.com/track/4wVfNcuFvJzBE5FQ5J479c) | [Gaspar Sanz](https://open.spotify.com/artist/1OdITJSYADZMOPRSyXlb3c), [Thibault Cauvin](https://open.spotify.com/artist/6d81rjlV6r9u8qPMAjavRV) | [Thibault Cauvin](https://open.spotify.com/album/3xh9nAAn1jntzf6phXqYcG) | 2:30 |
 
 Snapshot ID: `AAAAAO/26v4HioT+j1c0sczCYqOnOiNu`

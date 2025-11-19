@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-1,690 songs - 4 day 6 hr 8 min
+1,691 songs - 4 day 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1054,7 +1054,7 @@
 | [STARS](https://open.spotify.com/track/0mMikRupn84z6woeMHccz1) | [w.o.d.](https://open.spotify.com/artist/06sqnZl2EzpyIamhM1u3eO) | [STARS](https://open.spotify.com/album/758HaOSUUneTb9qVyurf3x) | 3:33 | 2023-07-11 |  |
 | [Stateless feat\. YonYon](https://open.spotify.com/track/2aaGksOvk3MqhlFvhnPVif) | [Gotch](https://open.spotify.com/artist/6IVCk7qklx0tv5wtr4VSPc), [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl) | [Stateless feat\. YonYon](https://open.spotify.com/album/0HmxEwYS2irKltYO87x0F2) | 3:31 | 2024-01-09 | 2024-02-11 |
 | [Stay](https://open.spotify.com/track/0Hu3e0RBJwUSBc8Nextmft) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK) | [Stay](https://open.spotify.com/album/7zI8awEHpNi7KtHLH6USis) | 2:29 | 2022-12-01 | 2023-04-26 |
-| [stay tune](https://open.spotify.com/track/7n3UucbScaMCOHayTBcyaX) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [stay tune](https://open.spotify.com/album/0NFlXSACdR4nZXapj6ZHFI) | 2:43 | 2024-02-15 |  |
+| [stay tune](https://open.spotify.com/track/7n3UucbScaMCOHayTBcyaX) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [stay tune](https://open.spotify.com/album/0NFlXSACdR4nZXapj6ZHFI) | 2:43 | 2024-02-15 | 2025-11-19 |
 | [Stay With Me \(feat\. Hikaru Utada\)](https://open.spotify.com/track/6KrGHvcXxhFi9O4z3NUrv9) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [Stay With Me \(feat\. Hikaru Utada\)](https://open.spotify.com/album/6Y7Keo6YYwgBbB50ShM976) | 2:52 | 2024-08-28 | 2025-07-08 |
 | [Step](https://open.spotify.com/track/49GUjKB2nBXKVrjwiwTnfZ) | [Yurufuwa Gang](https://open.spotify.com/artist/5F80x2l9juqR6RLeuACpqS) | [GAMA](https://open.spotify.com/album/2FUak4FlOqbNoPMQB2MiiV) | 4:14 | 2022-06-14 | 2022-07-20 |
 | [STEP IT](https://open.spotify.com/track/1orgfiHTB2opQkbwf9Gpnl) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD) | [STEP IT](https://open.spotify.com/album/50zbhHNA9zNyC0zVcVUPzx) | 3:40 | 2022-07-28 | 2022-08-17 |
@@ -1267,6 +1267,7 @@
 | [WINTER WITHOUT YOU](https://open.spotify.com/track/5KxTHd0r8eM6T2K65zxt2L) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [WINTER WITHOUT YOU](https://open.spotify.com/album/19mxFJfGlthz0Gmg9AiguM) | 4:03 | 2023-12-07 | 2025-02-28 |
 | [wish i could hate you](https://open.spotify.com/track/2cynQrxwlp2Q8ILbG6Ko13) | [Alisa](https://open.spotify.com/artist/27iFGBD5aaJB4GSsfYAoLW) | [pending](https://open.spotify.com/album/4xqjO4wMZEsEM5EjNvMGkr) | 2:20 | 2023-12-05 | 2023-12-13 |
 | [WOKE UP](https://open.spotify.com/track/4keuUM29CtIWgsPRzRhXoW) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [WOKE UP](https://open.spotify.com/album/2e9eizo3Euh2aaBef2B2bw) | 3:08 | 2024-05-23 | 2025-01-22 |
+| [Won't ever](https://open.spotify.com/track/7uXbeSZqwSHEvi3fIfl4DO) | [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Won't ever](https://open.spotify.com/album/4mdaxkLZ454RKHh1Lhm3QU) | 2:53 | 2025-11-12 |  |
 | [Wonder Woman](https://open.spotify.com/track/63Z1plOzb8d2Ke0ypFkz2g) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb) | [Wonder Woman](https://open.spotify.com/album/4HPznSYTy5MTam9Ug4dHoS) | 2:38 | 2025-02-21 | 2025-03-17 |
 | [Wonderful Life](https://open.spotify.com/track/6V36HaM6MDqRKCg8OY716v) | [Tavito Nanao](https://open.spotify.com/artist/6OK5I4qMrrS3taSgczMS1a) | [Long Voyage](https://open.spotify.com/album/4VluotpD3vrZglWd2v3qSi) | 7:22 | 2022-09-13 | 2022-10-26 |
 | [WOO! GO!](https://open.spotify.com/track/4BfXAxcuOyPRWcUHCasVit) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [WOO! GO!](https://open.spotify.com/album/6TeEBQZuGMjY3cu7e6JjUX) | 3:19 | 2022-05-26 | 2022-07-20 |

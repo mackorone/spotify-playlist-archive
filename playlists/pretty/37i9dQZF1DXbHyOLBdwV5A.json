@@ -1,6 +1,6 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar.",
-  "num_followers": 130870,
+  "num_followers": 130884,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
@@ -1127,30 +1127,6 @@
     {
       "added_at": "2025-08-29 03:01:05",
       "album": {
-        "name": "O Autor",
-        "url": "https://open.spotify.com/album/50A1UrSjQM0zcLJuqEI3rr"
-      },
-      "artists": [
-        {
-          "name": "Lufra",
-          "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
-        },
-        {
-          "name": "Dj Mello",
-          "url": "https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2"
-        },
-        {
-          "name": "Felson",
-          "url": "https://open.spotify.com/artist/2DDzAI8sGdcVE4MYs8VuU2"
-        }
-      ],
-      "duration_ms": 176640,
-      "name": "O Autor",
-      "url": "https://open.spotify.com/track/56kNz9R6DCjeoQuCrljeYy"
-    },
-    {
-      "added_at": "2025-08-29 03:01:05",
-      "album": {
         "name": "Me Encontrou Remix",
         "url": "https://open.spotify.com/album/0W3OfqzLQ5GIWYFXMZD50p"
       },
@@ -1171,6 +1147,30 @@
       "duration_ms": 190800,
       "name": "Me Encontrou (DJ Vitor Capoia Remix)",
       "url": "https://open.spotify.com/track/2BZMBpOPJ1537isDKVrfSX"
+    },
+    {
+      "added_at": "2025-08-29 03:01:05",
+      "album": {
+        "name": "O Autor",
+        "url": "https://open.spotify.com/album/50A1UrSjQM0zcLJuqEI3rr"
+      },
+      "artists": [
+        {
+          "name": "Lufra",
+          "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
+        },
+        {
+          "name": "Dj Mello",
+          "url": "https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2"
+        },
+        {
+          "name": "Felson",
+          "url": "https://open.spotify.com/artist/2DDzAI8sGdcVE4MYs8VuU2"
+        }
+      ],
+      "duration_ms": 176640,
+      "name": "O Autor",
+      "url": "https://open.spotify.com/track/56kNz9R6DCjeoQuCrljeYy"
     },
     {
       "added_at": "2025-08-29 03:01:05",

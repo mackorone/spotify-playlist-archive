@@ -1,6 +1,6 @@
 {
   "description": "Feeling like summer in 03'",
-  "num_followers": 7312,
+  "num_followers": 7311,
   "original_name": "Summer Nostalgia",
   "owner": {
     "name": "Spotify",
@@ -326,11 +326,15 @@
         {
           "name": "Lil Wayne",
           "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Static Major",
+          "url": "https://open.spotify.com/artist/3pbi8H08p95NUZ7m6ybxUV"
         }
       ],
-      "duration_ms": 221840,
-      "name": "A Milli",
-      "url": "https://open.spotify.com/track/6ScJMrlpiLfZUGtWp4QIVt"
+      "duration_ms": 299333,
+      "name": "Lollipop",
+      "url": "https://open.spotify.com/track/4P7VFiaZb3xrXoqGwZXC3J"
     },
     {
       "added_at": "2023-06-19 01:52:12",
@@ -418,15 +422,11 @@
         {
           "name": "Lil Wayne",
           "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Static Major",
-          "url": "https://open.spotify.com/artist/3pbi8H08p95NUZ7m6ybxUV"
         }
       ],
-      "duration_ms": 299333,
-      "name": "Lollipop",
-      "url": "https://open.spotify.com/track/4P7VFiaZb3xrXoqGwZXC3J"
+      "duration_ms": 221840,
+      "name": "A Milli",
+      "url": "https://open.spotify.com/track/6ScJMrlpiLfZUGtWp4QIVt"
     },
     {
       "added_at": "2023-06-19 01:52:12",

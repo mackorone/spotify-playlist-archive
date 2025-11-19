@@ -1,12 +1,12 @@
 {
   "description": "This is Gabriela Rocha. The essential tracks, all in one playlist.",
-  "num_followers": 269264,
+  "num_followers": 269260,
   "original_name": "This Is Gabriela Rocha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRkUAAAAAACESeK+9Yw8Ka0wpYQMuDiy",
+  "snapshot_id": "aRplgAAAAACb2j7W0QtT7VeFjz6/U/wT",
   "tracks": [
     {
       "added_at": null,
@@ -491,18 +491,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00c9s o Amor (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6XwMG5ccStny3gdS1jepER"
+        "name": "Tua Gl\u00f3ria Me Abra\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1GXc9lZVWfB4msh6AnaRSa"
       },
       "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        },
         {
           "name": "Gabriela Rocha",
           "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 403538,
-      "name": "\u00c9s o Amor - Ao Vivo",
-      "url": "https://open.spotify.com/track/1GCcCDFgvbWkvoV0p63GzE"
+      "duration_ms": 327318,
+      "name": "Tua Gl\u00f3ria Me Abra\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/3GisPyEirIgTI6mEeJ7SHL"
     },
     {
       "added_at": null,
@@ -523,22 +527,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tua Gl\u00f3ria Me Abra\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1GXc9lZVWfB4msh6AnaRSa"
+        "name": "\u00c9s o Amor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6XwMG5ccStny3gdS1jepER"
       },
       "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        },
         {
           "name": "Gabriela Rocha",
           "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 327318,
-      "name": "Tua Gl\u00f3ria Me Abra\u00e7a - Ao Vivo",
-      "url": "https://open.spotify.com/track/3GisPyEirIgTI6mEeJ7SHL"
+      "duration_ms": 403538,
+      "name": "\u00c9s o Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/1GCcCDFgvbWkvoV0p63GzE"
     },
     {
       "added_at": null,

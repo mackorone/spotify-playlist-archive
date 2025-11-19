@@ -1,6 +1,6 @@
 {
   "description": "Kick back and enjoy these classic summer songs.",
-  "num_followers": 548716,
+  "num_followers": 548694,
   "original_name": "Feel Good Summer",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2024-07-14 16:19:42",
       "album": {
-        "name": "Oh, Pretty Woman",
-        "url": "https://open.spotify.com/album/2jTbcSPVTBRAoc3mHU6hy0"
-      },
-      "artists": [
-        {
-          "name": "Roy Orbison",
-          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
-        }
-      ],
-      "duration_ms": 178933,
-      "name": "Oh, Pretty Woman",
-      "url": "https://open.spotify.com/track/48i055G1OT5KxGGftwFxWy"
-    },
-    {
-      "added_at": "2024-07-14 16:19:42",
-      "album": {
         "name": "Christopher Cross",
         "url": "https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 256146,
       "name": "Sailing",
       "url": "https://open.spotify.com/track/6Hu6dzwlvoyg3zBUC8k4BK"
+    },
+    {
+      "added_at": "2024-07-14 16:19:42",
+      "album": {
+        "name": "Oh, Pretty Woman",
+        "url": "https://open.spotify.com/album/2jTbcSPVTBRAoc3mHU6hy0"
+      },
+      "artists": [
+        {
+          "name": "Roy Orbison",
+          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
+        }
+      ],
+      "duration_ms": 178933,
+      "name": "Oh, Pretty Woman",
+      "url": "https://open.spotify.com/track/48i055G1OT5KxGGftwFxWy"
     },
     {
       "added_at": "2024-07-14 16:19:42",
@@ -564,7 +564,7 @@
           "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
         }
       ],
-      "duration_ms": 174826,
+      "duration_ms": 174717,
       "name": "Cecilia",
       "url": "https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY"
     },
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-07-14 16:19:42",
       "album": {
-        "name": "Jump Up Calypso",
-        "url": "https://open.spotify.com/album/1o6SO1ywnIQgb3MFMF1siI"
-      },
-      "artists": [
-        {
-          "name": "Harry Belafonte",
-          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
-        }
-      ],
-      "duration_ms": 221704,
-      "name": "Jump in the Line",
-      "url": "https://open.spotify.com/track/1zW2csx1vVJrKfvDrFQNVt"
-    },
-    {
-      "added_at": "2024-07-14 16:19:42",
-      "album": {
         "name": "Surfin' USA (Remastered)",
         "url": "https://open.spotify.com/album/6u5tGarzvESDsQiIpC4SlI"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 149373,
       "name": "Surfin' U.S.A. - Remastered 2001",
       "url": "https://open.spotify.com/track/0wz1LjDb9ZNEYwOmDJ3Q4b"
+    },
+    {
+      "added_at": "2024-07-14 16:19:42",
+      "album": {
+        "name": "Jump Up Calypso",
+        "url": "https://open.spotify.com/album/1o6SO1ywnIQgb3MFMF1siI"
+      },
+      "artists": [
+        {
+          "name": "Harry Belafonte",
+          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
+        }
+      ],
+      "duration_ms": 221704,
+      "name": "Jump in the Line",
+      "url": "https://open.spotify.com/track/1zW2csx1vVJrKfvDrFQNVt"
     },
     {
       "added_at": "2024-07-14 16:19:42",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-07-14 16:19:42",
       "album": {
-        "name": "Sunny",
-        "url": "https://open.spotify.com/album/6pJkF95sYsVg3FJtTvTuEG"
-      },
-      "artists": [
-        {
-          "name": "Bobby Hebb",
-          "url": "https://open.spotify.com/artist/2uNpV18izVIP7DNusoWbT5"
-        }
-      ],
-      "duration_ms": 165066,
-      "name": "Sunny",
-      "url": "https://open.spotify.com/track/4vju55Ag7apDL2CfotuE7Q"
-    },
-    {
-      "added_at": "2024-07-14 16:19:42",
-      "album": {
         "name": "Ritchie Valens",
         "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 126960,
       "name": "La Bamba - Single Version",
       "url": "https://open.spotify.com/track/2aEeghgUcnu75tzcolFMfs"
+    },
+    {
+      "added_at": "2024-07-14 16:19:42",
+      "album": {
+        "name": "Sunny",
+        "url": "https://open.spotify.com/album/6pJkF95sYsVg3FJtTvTuEG"
+      },
+      "artists": [
+        {
+          "name": "Bobby Hebb",
+          "url": "https://open.spotify.com/artist/2uNpV18izVIP7DNusoWbT5"
+        }
+      ],
+      "duration_ms": 165066,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/4vju55Ag7apDL2CfotuE7Q"
     },
     {
       "added_at": "2024-07-14 16:19:42",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-07-14 16:19:42",
       "album": {
-        "name": "Sherry and 11 Other Hits",
-        "url": "https://open.spotify.com/album/18rFAAWrT2wzvWckYmoLnE"
-      },
-      "artists": [
-        {
-          "name": "Frankie Valli & The Four Seasons",
-          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
-        }
-      ],
-      "duration_ms": 152160,
-      "name": "Sherry",
-      "url": "https://open.spotify.com/track/7sqK6f8dHVx3Q1GjFrVyGl"
-    },
-    {
-      "added_at": "2024-07-14 16:19:42",
-      "album": {
         "name": "Where There's Smoke... (Expanded Edition)",
         "url": "https://open.spotify.com/album/6dePMhqoFfN5mm73ChBgOU"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 352920,
       "name": "Cruisin'",
       "url": "https://open.spotify.com/track/2gliw3L0oa4w8LqaHploje"
+    },
+    {
+      "added_at": "2024-07-14 16:19:42",
+      "album": {
+        "name": "Sherry and 11 Other Hits",
+        "url": "https://open.spotify.com/album/18rFAAWrT2wzvWckYmoLnE"
+      },
+      "artists": [
+        {
+          "name": "Frankie Valli & The Four Seasons",
+          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
+        }
+      ],
+      "duration_ms": 152160,
+      "name": "Sherry",
+      "url": "https://open.spotify.com/track/7sqK6f8dHVx3Q1GjFrVyGl"
     },
     {
       "added_at": "2024-07-14 16:19:42",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-07-14 16:19:42",
       "album": {
-        "name": "The Age Of Aquarius",
-        "url": "https://open.spotify.com/album/1kVipwgtVNAaHM7Py341Ch"
-      },
-      "artists": [
-        {
-          "name": "The 5th Dimension",
-          "url": "https://open.spotify.com/artist/1UUYAQ9LiRsZF0ZukQNWXM"
-        }
-      ],
-      "duration_ms": 289293,
-      "name": "Aquarius/Let The Sunshine In (The Flesh Failures) - From the Musical \"Hair\"",
-      "url": "https://open.spotify.com/track/0HZlND4giwzgolBpaNIRGV"
-    },
-    {
-      "added_at": "2024-07-14 16:19:42",
-      "album": {
         "name": "Heat Wave",
         "url": "https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 163053,
       "name": "(Love Is Like A) Heat Wave",
       "url": "https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF"
+    },
+    {
+      "added_at": "2024-07-14 16:19:42",
+      "album": {
+        "name": "The Age Of Aquarius",
+        "url": "https://open.spotify.com/album/1kVipwgtVNAaHM7Py341Ch"
+      },
+      "artists": [
+        {
+          "name": "The 5th Dimension",
+          "url": "https://open.spotify.com/artist/1UUYAQ9LiRsZF0ZukQNWXM"
+        }
+      ],
+      "duration_ms": 289293,
+      "name": "Aquarius/Let The Sunshine In (The Flesh Failures) - From the Musical \"Hair\"",
+      "url": "https://open.spotify.com/track/0HZlND4giwzgolBpaNIRGV"
     },
     {
       "added_at": "2024-07-14 16:19:42",

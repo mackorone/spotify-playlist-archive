@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX88mTcSM3nFc.md) - [plain]
 
 > christmas always makes me cry
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,061 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,108 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX88mTcSM3nFc.md) - [plain]
 | 2 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/6KktzUnQSJZC3iZSwj812R) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/5P6ipsN2cYH8Bp2DokqkHf) | 2:59 |
 | 3 | [Christmas Lights \- Spotify Singles Holiday](https://open.spotify.com/track/5sZR7OC7uHArUWvNyunS3T) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Christmas Lights \(Spotify Singles Holiday\)](https://open.spotify.com/album/2Mo9WFAGGbSwon6iNm2lOk) | 3:22 |
 | 4 | [Not So Merry Christmas](https://open.spotify.com/track/2PJus90Cvm31pZPMiUHvsT) | [Michigander](https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu) | [Not So Merry Christmas](https://open.spotify.com/album/3FjEsDVwunoyH7JsM8CyVi) | 3:53 |
-| 5 | [Miss You Most \(At Christmas Time\)](https://open.spotify.com/track/1uQRAiaDstq15Vd52ryoI7) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:31 |
+| 5 | [Miss You Most \(At Christmas Time\)](https://open.spotify.com/track/1uQRAiaDstq15Vd52ryoI7) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:33 |
 | 6 | [Please Come Home for Christmas \- 2013 Remaster](https://open.spotify.com/track/3QIoEi8Enr9uHffwInGIsC) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Please Come Home for Christmas / Funky New Year \(2013 Remaster\)](https://open.spotify.com/album/4QxtDUU3U7gCCyT9Lm3bg5) | 2:57 |
 | 7 | [The Coldest Night of the Year](https://open.spotify.com/track/4G1riMW9K3O9nI49UawBIX) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Christmas Party](https://open.spotify.com/album/4s3vR4B3qPc9U5Gs1NPxLR) | 3:34 |
 | 8 | [Blue Christmas](https://open.spotify.com/track/3QiAAp20rPC3dcAtKtMaqQ) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Christmas Album](https://open.spotify.com/album/6zk4RKl6JFlgLCV4Z7DQ7N) | 2:09 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX88mTcSM3nFc.md) - [plain]
 | 31 | [Please Come Home For Christmas](https://open.spotify.com/track/2UTO3vuKleiyHjOGX1dppL) | [Charles Brown](https://open.spotify.com/artist/3trsSEaKM3UM2R9RBJwdtJ) | [Sings Christmas Songs](https://open.spotify.com/album/0sYk8ncYCqrrJPKeGiBwKL) | 2:50 |
 | 32 | [Christmas Makes Me Cry](https://open.spotify.com/track/0pZjp6KTdWZVBIHGqfBaW7) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [A Very Kacey Christmas](https://open.spotify.com/album/7sIB15nu0Rp1vR8wXnTx3a) | 2:50 |
 | 33 | [Silent Night, Holy Night](https://open.spotify.com/track/3TsoMWVVcbs1mKHBiW5aWz) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [The Andy Williams Christmas Album](https://open.spotify.com/album/4dcJHxlOJwtyypL7sx1qch) | 2:15 |
-| 34 | [Single On The 25th](https://open.spotify.com/track/3hTSUqyG6ntAYXjgYOjS16) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Single On The 25th](https://open.spotify.com/album/3dQ9PkqMkvgcjvEnKWEL3n) | 2:41 |
-| 35 | [Christmas Must Be Tonight](https://open.spotify.com/track/5HGeTJqFRlhY3VYC9phKw6) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [This Warm December, A Brushfire Holiday Vol\. 2](https://open.spotify.com/album/4dTpeR3SNPSp77CztAXT7T) | 3:47 |
+| 34 | [Christmas Must Be Tonight](https://open.spotify.com/track/5HGeTJqFRlhY3VYC9phKw6) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [This Warm December, A Brushfire Holiday Vol\. 2](https://open.spotify.com/album/4dTpeR3SNPSp77CztAXT7T) | 3:47 |
+| 35 | [Single On The 25th](https://open.spotify.com/track/3hTSUqyG6ntAYXjgYOjS16) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Single On The 25th](https://open.spotify.com/album/3dQ9PkqMkvgcjvEnKWEL3n) | 2:41 |
 | 36 | [Frosty the Snowman](https://open.spotify.com/track/732qfVoTwzKNDTGm1MfJvp) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [The Hotel Café presents..\. Winter Songs](https://open.spotify.com/album/4fhTdBtyYkBi1pJpfSLRad) | 2:10 |
 | 37 | [Christmas Bells](https://open.spotify.com/track/5XpNyWYhthe92tlmkOXqwI) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Christmas Bells](https://open.spotify.com/album/1dXRKuoD1gJpa4ZQp0zN46) | 4:07 |
 | 38 | [For Those Who Can't Be Here](https://open.spotify.com/track/7nrB7gaYNe1x8Kvv7c0Tps) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [For Those Who Can't Be Here](https://open.spotify.com/album/06whzJAwv0hrYW3i2N4TWx) | 3:03 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX88mTcSM3nFc.md) - [plain]
 | 44 | [The Bells of St\. Mary's \- 45 Version](https://open.spotify.com/track/2W7S8BIesug04Wr1AdAalQ) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [White Christmas / The Bells of St\. Mary's](https://open.spotify.com/album/6zWKbjgZHIWILfd5qHCzpC) | 2:40 |
 | 45 | [It's Not Christmas](https://open.spotify.com/track/1WsG32qO3bVxXjcM3hu0iT) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [It's Not Christmas](https://open.spotify.com/album/0LBp8zWibJzzRXJfwQobTV) | 3:19 |
 | 46 | [long distance christmas](https://open.spotify.com/track/46jGv8HeBxL5ZcL5rjV2EG) | [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [long distance christmas](https://open.spotify.com/album/3ZFZN7pMgE5GYGHTz7VxfL) | 2:56 |
-| 47 | [Just A Lonely Christmas \- Bonus Track / 2015 Mix Version](https://open.spotify.com/track/1Ph3qvqLo8696FOf4W9iAS) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Merry Christmas \(Expanded Edition\)](https://open.spotify.com/album/3mKxD3slkstGtfDxBI8p62) | 2:29 |
-| 48 | [The Ghost of New Years Past](https://open.spotify.com/track/5DwWcIrYo4GgqJjxYW47nD) | [Book On Tape Worm](https://open.spotify.com/artist/7K1NlbQTUisk7RbqVHMaVJ) | [The Ghost of New Years Past](https://open.spotify.com/album/1dOgArn4bahlWfPsZKK8C5) | 5:41 |
+| 47 | [The Ghost of New Years Past](https://open.spotify.com/track/5DwWcIrYo4GgqJjxYW47nD) | [Book On Tape Worm](https://open.spotify.com/artist/7K1NlbQTUisk7RbqVHMaVJ) | [The Ghost of New Years Past](https://open.spotify.com/album/1dOgArn4bahlWfPsZKK8C5) | 5:41 |
+| 48 | [Just A Lonely Christmas \- Bonus Track / 2015 Mix Version](https://open.spotify.com/track/1Ph3qvqLo8696FOf4W9iAS) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Merry Christmas \(Expanded Edition\)](https://open.spotify.com/album/3mKxD3slkstGtfDxBI8p62) | 2:29 |
 | 49 | [O Holy Night](https://open.spotify.com/track/3JIHsuJjTxdfK0Mff0pTy5) | [Pat Boone](https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu) | [White Christmas](https://open.spotify.com/album/3ED25ItOo8gmmUkIywh2Nt) | 2:14 |
 | 50 | [This Time Last Year](https://open.spotify.com/track/4wUhXOfV4hqNTurbJkWOU9) | [Simone](https://open.spotify.com/artist/5k6BuuGye7fUjFvPOOJ8C2) | [This Time Last Year](https://open.spotify.com/album/09LBtelS62mavkNWHg325x) | 3:45 |
 

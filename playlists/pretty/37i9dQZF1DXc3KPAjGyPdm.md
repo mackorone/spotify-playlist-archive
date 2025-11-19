@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KPAjGyPdm.md) - [plain]
 
 > Music from and inspired by Stranger Things\. Watch Season 4 now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,219,111 likes - 199 songs - 11 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,221,385 likes - 199 songs - 11 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

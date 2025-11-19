@@ -15358,7 +15358,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 182400,
       "name": "FCK DAT",
       "url": "https://open.spotify.com/track/3d5EXv6u0rWzQYWWFFxJ9u"
@@ -44802,6 +44802,44 @@
       "duration_ms": 184266,
       "name": "Un Cigarrillo",
       "url": "https://open.spotify.com/track/4k7CNPArKLf4QuvGfMeHDk"
+    },
+    {
+      "album": {
+        "name": "Un Dia En Mi Barrio (Remix)",
+        "url": "https://open.spotify.com/album/2wA2nVsgjQYMKWSlraEQLi"
+      },
+      "artists": [
+        {
+          "name": "Tony Monta",
+          "url": "https://open.spotify.com/artist/1WF0qzllFgT2xJlk0Nrwqo"
+        },
+        {
+          "name": "Pirlo",
+          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
+        },
+        {
+          "name": "Topboy TGR",
+          "url": "https://open.spotify.com/artist/1HYdJRbyNCkiko7TAw9rei"
+        },
+        {
+          "name": "DFZM",
+          "url": "https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw"
+        },
+        {
+          "name": "Akapellah",
+          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+        },
+        {
+          "name": "Fharid On the Beat",
+          "url": "https://open.spotify.com/artist/5OK9NPDzd0KKaqTxH1XJdZ"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 435000,
+      "name": "Un Dia En Mi Barrio - Remix",
+      "url": "https://open.spotify.com/track/1KiI7qXgmqlX0KzK4f985q"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Zlatan. The essential tracks, all in one playlist.",
-  "num_followers": 6653,
+  "num_followers": 6660,
   "original_name": "This Is Zlatan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRkUAAAAAACKbimiizajbYhWxGoaENrl",
+  "snapshot_id": "aRplgAAAAADaz3+3PeuZN+pL/KWLD4OJ",
   "tracks": [
     {
       "added_at": null,
@@ -319,6 +319,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Good Life {Freestyle}",
+        "url": "https://open.spotify.com/album/18a1PIlmP8RoxvPJcgLF6o"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 92589,
+      "name": "Good Life {Freestyle}",
+      "url": "https://open.spotify.com/track/1XwGGXSgu5UpWr8rdaRRG0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hallelu",
         "url": "https://open.spotify.com/album/61WdROyGDMJQDI91kpMVLM"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 213492,
       "name": "Hallelu",
       "url": "https://open.spotify.com/track/0C8RxBixBaXYc5enAXIm28"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Good Life {Freestyle}",
-        "url": "https://open.spotify.com/album/18a1PIlmP8RoxvPJcgLF6o"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 92589,
-      "name": "Good Life {Freestyle}",
-      "url": "https://open.spotify.com/track/1XwGGXSgu5UpWr8rdaRRG0"
     },
     {
       "added_at": null,
@@ -527,6 +527,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "DREAMS II",
+        "url": "https://open.spotify.com/album/5Gv2wMWPt9dmBEPjc47XZo"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 237647,
+      "name": "DREAMS II",
+      "url": "https://open.spotify.com/track/5rOIb9reu3rDswgaNKBo6s"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Help Is On The Way",
         "url": "https://open.spotify.com/album/7nHPB32iLkDSs1AynldxtT"
       },
@@ -551,30 +575,6 @@
       "duration_ms": 176183,
       "name": "Living Life",
       "url": "https://open.spotify.com/track/22vwTjakdrSsColpKdcDQa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DREAMS II",
-        "url": "https://open.spotify.com/album/5Gv2wMWPt9dmBEPjc47XZo"
-      },
-      "artists": [
-        {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        }
-      ],
-      "duration_ms": 237647,
-      "name": "DREAMS II",
-      "url": "https://open.spotify.com/track/5rOIb9reu3rDswgaNKBo6s"
     },
     {
       "added_at": null,
@@ -727,6 +727,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lagos Anthem",
+        "url": "https://open.spotify.com/album/5d78fTQDQxh9ryCgymMZZr"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 209747,
+      "name": "Lagos Anthem",
+      "url": "https://open.spotify.com/track/1vVLdumXpjKqiHF8OLdfSM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Killin Dem",
         "url": "https://open.spotify.com/album/2Le6W3ospgVmqVJYWVzgXW"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 220884,
       "name": "Killin Dem",
       "url": "https://open.spotify.com/track/4cxyQw1AKCVqa9JVSN7njk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lagos Anthem",
-        "url": "https://open.spotify.com/album/5d78fTQDQxh9ryCgymMZZr"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 209747,
-      "name": "Lagos Anthem",
-      "url": "https://open.spotify.com/track/1vVLdumXpjKqiHF8OLdfSM"
     },
     {
       "added_at": null,
@@ -875,6 +875,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Am I a Yahoo Boy",
+        "url": "https://open.spotify.com/album/0cXmTtt5BlvsgTn3Ggv0CL"
+      },
+      "artists": [
+        {
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 148820,
+      "name": "Am I a Yahoo Boy",
+      "url": "https://open.spotify.com/track/7lWPp0cGS1w5JYEJ8NB3n5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Elon Musk (Remix)",
         "url": "https://open.spotify.com/album/5payO4dC3cuMZryiZ5pFdd"
       },
@@ -895,26 +915,6 @@
       "duration_ms": 204107,
       "name": "Elon Musk (Remix)",
       "url": "https://open.spotify.com/track/2AARxK7bhm2PNL08d0FHto"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Am I a Yahoo Boy",
-        "url": "https://open.spotify.com/album/0cXmTtt5BlvsgTn3Ggv0CL"
-      },
-      "artists": [
-        {
-          "name": "Naira Marley",
-          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 148820,
-      "name": "Am I a Yahoo Boy",
-      "url": "https://open.spotify.com/track/7lWPp0cGS1w5JYEJ8NB3n5"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Stick Figure. The essential tracks, all in one playlist.",
-  "num_followers": 92209,
+  "num_followers": 92227,
   "original_name": "This Is Stick Figure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRkUAAAAAADSBsuiOdYv34Vr8+8zVHBz",
+  "snapshot_id": "aRplgAAAAADngMKzUBnkt+I5Z6bJxh4Z",
   "tracks": [
     {
       "added_at": null,
@@ -163,26 +163,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Castles",
-        "url": "https://open.spotify.com/album/5980M98hQs4xk9odzGmjHQ"
-      },
-      "artists": [
-        {
-          "name": "The Elovaters",
-          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
-        },
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 233314,
-      "name": "Gardenia (with Stick Figure)",
-      "url": "https://open.spotify.com/track/0OcIijvgNNIotHuvGTwDBT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Railroad Shelter (with Stick Figure)",
         "url": "https://open.spotify.com/album/3BNHMe5yqmK0dn332yDD6D"
       },
@@ -199,6 +179,26 @@
       "duration_ms": 245059,
       "name": "Railroad Shelter (with Stick Figure)",
       "url": "https://open.spotify.com/track/2Cv6DwpDGeg1m6gcHG55dc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Castles",
+        "url": "https://open.spotify.com/album/5980M98hQs4xk9odzGmjHQ"
+      },
+      "artists": [
+        {
+          "name": "The Elovaters",
+          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
+        },
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 233314,
+      "name": "Gardenia (with Stick Figure)",
+      "url": "https://open.spotify.com/track/0OcIijvgNNIotHuvGTwDBT"
     },
     {
       "added_at": null,
@@ -483,6 +483,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Treasure (with Stick Figure)",
+        "url": "https://open.spotify.com/album/5xDZR9z2v4V0oLe4DmT2uS"
+      },
+      "artists": [
+        {
+          "name": "Stay High",
+          "url": "https://open.spotify.com/artist/6TZ4G6EThyydgsg2VEXNio"
+        },
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 202457,
+      "name": "Treasure (with Stick Figure)",
+      "url": "https://open.spotify.com/track/3fpOS57qm6u5R0Pfi7JkVO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Set in Stone",
+        "url": "https://open.spotify.com/album/28S63tpbApp3AhWZZYN6l9"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 327986,
+      "name": "Fire on the Horizon",
+      "url": "https://open.spotify.com/track/7mnk9W0umx7q4Vo4FjtOot"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Got Me On The Run (with Stick Figure and Pepper)",
         "url": "https://open.spotify.com/album/7utd2iqVDpBxA4BLfFVZtF"
       },
@@ -507,42 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Set in Stone",
-        "url": "https://open.spotify.com/album/28S63tpbApp3AhWZZYN6l9"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 327986,
-      "name": "Fire on the Horizon",
-      "url": "https://open.spotify.com/track/7mnk9W0umx7q4Vo4FjtOot"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Treasure (with Stick Figure)",
-        "url": "https://open.spotify.com/album/5xDZR9z2v4V0oLe4DmT2uS"
-      },
-      "artists": [
-        {
-          "name": "Stay High",
-          "url": "https://open.spotify.com/artist/6TZ4G6EThyydgsg2VEXNio"
-        },
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 202457,
-      "name": "Treasure (with Stick Figure)",
-      "url": "https://open.spotify.com/track/3fpOS57qm6u5R0Pfi7JkVO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "World on Fire",
         "url": "https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB"
       },
@@ -559,26 +559,6 @@
       "duration_ms": 238767,
       "name": "Summertime (feat. Citizen Cope)",
       "url": "https://open.spotify.com/track/2WbZZGXlVWHEfrCG9mC0UV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hopes and Dreams",
-        "url": "https://open.spotify.com/album/3yCsh7NFJKoF9sEo2YLkE5"
-      },
-      "artists": [
-        {
-          "name": "KBong",
-          "url": "https://open.spotify.com/artist/2dzSec5CF9xQeW53ZJ5RHq"
-        },
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 233810,
-      "name": "Livin' Easy",
-      "url": "https://open.spotify.com/track/02jGkgEhljd0UC9V0HeV2v"
     },
     {
       "added_at": null,
@@ -603,8 +583,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Easy to Love You",
-        "url": "https://open.spotify.com/album/6Q7i2NPBvaoe0caVYIrm91"
+        "name": "Hopes and Dreams",
+        "url": "https://open.spotify.com/album/3yCsh7NFJKoF9sEo2YLkE5"
       },
       "artists": [
         {
@@ -616,9 +596,9 @@
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
         }
       ],
-      "duration_ms": 269090,
-      "name": "Middle of the Ocean",
-      "url": "https://open.spotify.com/track/6ol8eSBUh9GEEIzkGIPR2J"
+      "duration_ms": 233810,
+      "name": "Livin' Easy",
+      "url": "https://open.spotify.com/track/02jGkgEhljd0UC9V0HeV2v"
     },
     {
       "added_at": null,
@@ -639,6 +619,26 @@
       "duration_ms": 209032,
       "name": "Something To Believe In",
       "url": "https://open.spotify.com/track/7kMnqTDJm3aPibKgz46eLe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Easy to Love You",
+        "url": "https://open.spotify.com/album/6Q7i2NPBvaoe0caVYIrm91"
+      },
+      "artists": [
+        {
+          "name": "KBong",
+          "url": "https://open.spotify.com/artist/2dzSec5CF9xQeW53ZJ5RHq"
+        },
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 269090,
+      "name": "Middle of the Ocean",
+      "url": "https://open.spotify.com/track/6ol8eSBUh9GEEIzkGIPR2J"
     },
     {
       "added_at": null,
@@ -731,6 +731,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Free Flow Sessions",
+        "url": "https://open.spotify.com/album/0RxeQLaMBO8m6vk2243rkt"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 158880,
+      "name": "Land of the Midnight Sun",
+      "url": "https://open.spotify.com/track/3ctXNf5E5ccLKspyTEIhXX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Burial Ground",
+        "url": "https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 255439,
+      "name": "Heartland",
+      "url": "https://open.spotify.com/track/4BG3BJjZ6g2tMOiFaawWEP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love Me Easy",
         "url": "https://open.spotify.com/album/6gzFhQHXfMpwha4ZvNBngj"
       },
@@ -755,38 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burial Ground",
-        "url": "https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 255439,
-      "name": "Heartland",
-      "url": "https://open.spotify.com/track/4BG3BJjZ6g2tMOiFaawWEP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Free Flow Sessions",
-        "url": "https://open.spotify.com/album/0RxeQLaMBO8m6vk2243rkt"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 158880,
-      "name": "Land of the Midnight Sun",
-      "url": "https://open.spotify.com/track/3ctXNf5E5ccLKspyTEIhXX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sacred Sound",
         "url": "https://open.spotify.com/album/1mWCAdn4pHhjEHl9yVY796"
       },
@@ -803,6 +803,38 @@
       "duration_ms": 216476,
       "name": "Give Thanks (feat. Stick Figure)",
       "url": "https://open.spotify.com/track/38kPL6TNtdNp871jAsVW1r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Free Flow Sessions",
+        "url": "https://open.spotify.com/album/0RxeQLaMBO8m6vk2243rkt"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 122206,
+      "name": "This Is What We Came Here For",
+      "url": "https://open.spotify.com/track/3auT7nH9KA0YfId2bm62wZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Burial Ground",
+        "url": "https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 266549,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/3K7g0NbCyMC2G1BpL4gVxX"
     },
     {
       "added_at": null,
@@ -827,38 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burial Ground",
-        "url": "https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 266549,
-      "name": "Golden Hour",
-      "url": "https://open.spotify.com/track/3K7g0NbCyMC2G1BpL4gVxX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Free Flow Sessions",
-        "url": "https://open.spotify.com/album/0RxeQLaMBO8m6vk2243rkt"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 122206,
-      "name": "This Is What We Came Here For",
-      "url": "https://open.spotify.com/track/3auT7nH9KA0YfId2bm62wZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Smoke Stack",
         "url": "https://open.spotify.com/album/2ecSuU7MQZI5CH7Mhjxc50"
       },
@@ -875,46 +875,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slow Ride",
-        "url": "https://open.spotify.com/album/3LK1Pf2stMGqONSkOUIZZX"
-      },
-      "artists": [
-        {
-          "name": "Sublime",
-          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
-        },
-        {
-          "name": "Slightly Stoopid",
-          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
-        },
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 232444,
-      "name": "Slow Ride",
-      "url": "https://open.spotify.com/track/7utGEYOcNDczxmiNEf162K"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wisdom",
-        "url": "https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1"
+        "name": "Free Flow Sessions",
+        "url": "https://open.spotify.com/album/0RxeQLaMBO8m6vk2243rkt"
       },
       "artists": [
         {
           "name": "Stick Figure",
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        },
-        {
-          "name": "Collie Buddz",
-          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
         }
       ],
-      "duration_ms": 265654,
-      "name": "Showdown (with Collie Buddz)",
-      "url": "https://open.spotify.com/track/3z9AA2p7kCDX8Ds8Donb7l"
+      "duration_ms": 190037,
+      "name": "Dub Style Blues",
+      "url": "https://open.spotify.com/track/7zedJWSRVibgnoj8hheAKl"
     },
     {
       "added_at": null,
@@ -928,9 +900,25 @@
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
         }
       ],
-      "duration_ms": 190037,
-      "name": "Dub Style Blues",
-      "url": "https://open.spotify.com/track/7zedJWSRVibgnoj8hheAKl"
+      "duration_ms": 135584,
+      "name": "Rudeboy Riddim",
+      "url": "https://open.spotify.com/track/0I6a9PuokMxDn6JrBtoUsg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Free Flow Sessions",
+        "url": "https://open.spotify.com/album/0RxeQLaMBO8m6vk2243rkt"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 113466,
+      "name": "Fools Gold",
+      "url": "https://open.spotify.com/track/3mjKFSYhauWShsarAEDtJU"
     }
   ],
   "unique_name": "This Is Stick Figure",

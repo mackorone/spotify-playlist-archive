@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX888loZNVRav.md) - [plain]
 
 > Love at its most dramatic\. Cover: Maybe Happy Ending
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,782 likes - 75 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,792 likes - 75 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX888loZNVRav.md) - [plain]
 | 56 | [All The Wasted Time](https://open.spotify.com/track/0ZBRs1C3g6nZykR7jPFPBi) | [Sierra Boggess](https://open.spotify.com/artist/6QB1J3JKvV9KXWu33g1r7W), [Julian Ovenden](https://open.spotify.com/artist/4MtwwZvqAt5fXJTV9dlnuu) | [Together At A Distance](https://open.spotify.com/album/59ninoXyrak9KxDAeGqVVi) | 4:42 |
 | 57 | [Song on the Sand](https://open.spotify.com/track/3LX9Tcu3b3gQGYYUmHvzqQ) | [Jerry Herman](https://open.spotify.com/artist/4GBe6ctpZMwMbaRb9KZrNU), [Kelsey Grammer](https://open.spotify.com/artist/3GKxKd2D1EybXwKgXb0iPp), [Douglas Hodge](https://open.spotify.com/artist/41TGcX4Gl8saiG0wUI4Rkq) | [La Cage Aux Folles \(New Broadway Cast Recording\)](https://open.spotify.com/album/4iQ4C2Wtz3pXSXJs9KyxdV) | 4:41 |
 | 58 | [The Origin of Love](https://open.spotify.com/track/6DEldtOBfDedT20LIlfAnb) | [Hedwig And The Angry Inch \- Original Broadway Cast](https://open.spotify.com/artist/5IQFLz9g7xdgHtw8BKa96y) | [Hedwig And The Angry Inch Original Broadway Cast Recording](https://open.spotify.com/album/1X4nZqGyPMACCMs4zx9hH2) | 5:35 |
-| 59 | [The Best Thing That Ever Has Happened \(with Alec Baldwin\)](https://open.spotify.com/track/6FMrzmKlLzrXKGp3qvQT1f) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6), [Alec Baldwin](https://open.spotify.com/artist/6gDUFIEcDsus6j7kudW0Oa) | [Encore: Movie Partners Sing Broadway](https://open.spotify.com/album/5w4GRGWJFNFGmzPgMsvK9w) | 3:12 |
+| 59 | [The Best Thing That Ever Has Happened \(with Alec Baldwin\)](https://open.spotify.com/track/6FMrzmKlLzrXKGp3qvQT1f) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6), [Alec Baldwin](https://open.spotify.com/artist/6gDUFIEcDsus6j7kudW0Oa) | [Encore: Movie Partners Sing Broadway](https://open.spotify.com/album/5w4GRGWJFNFGmzPgMsvK9w) | 3:13 |
 | 60 | [I Won't Send Roses \- From "Mack & Mabel Original Cast Recording"](https://open.spotify.com/track/0Dd4VyKXlNcsAhLq3f9zqN) | [Jerry Herman](https://open.spotify.com/artist/4GBe6ctpZMwMbaRb9KZrNU), [Robert Preston](https://open.spotify.com/artist/4KMMjF738dOUpmO51lMUrf) | [Mack & Mabel](https://open.spotify.com/album/4dSepzwqLghAou8ndXMzxs) | 3:09 |
 | 61 | [I'd Rather Be Sailing](https://open.spotify.com/track/2UiBDVEGAWTEvas95hjdwL) | [William Finn](https://open.spotify.com/artist/1fhox2yo0D2ZE1X28OuJnn), [Aaron Lazar](https://open.spotify.com/artist/6ETQCRI940NdLTF9wqAZhh), [Jonathan Groff](https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB) | [A New Brain \(2015 New York Cast Recording\)](https://open.spotify.com/album/6vsRhoxMNFQBUhRIZ3Ocr9) | 3:02 |
 | 62 | [You Walk with Me](https://open.spotify.com/track/1kwrtoiuvnRAn1vg34pTyV) | [Jason Danieley](https://open.spotify.com/artist/0WZeAgkdC5N2uTCrTBUttb), [Romain Frugé](https://open.spotify.com/artist/20fhOCaUNLHcUXia9ysfHT) | [The Full Monty \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1ryQjSxXsdtphq71mCKf9z) | 3:11 |

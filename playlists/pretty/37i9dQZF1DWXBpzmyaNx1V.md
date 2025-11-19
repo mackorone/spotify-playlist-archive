@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBpzmyaNx1V.md) - [plain]
 
 > nací en la generación correcta: matcha, tote bags y joyería.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,738 likes - 101 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,749 likes - 101 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBpzmyaNx1V.md) - [plain]
 | 45 | [Ivy](https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 4:09 |
 | 46 | [Kneel](https://open.spotify.com/track/3zHlu8zTCOQ2R6nobGogKJ) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Dancing Shoes](https://open.spotify.com/album/3YFxLOJQhY5voCBsEQ1kCt) | 3:44 |
 | 47 | [Superstar](https://open.spotify.com/track/6aYG6qnRBbqOMmqh1neJzd) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/79NySyjxJ8xric31mXKMAo) | 6:08 |
-| 48 | [DUMBAI \- Live at NPR MUSIC's Tiny Desk](https://open.spotify.com/track/7mUGgxv8KdYSnNyCUdZaro) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf), [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [PAPOTA](https://open.spotify.com/album/1NDJk94691Vydq1IrIeGC0) | 2:41 |
+| 48 | [DUMBAI \- Live at NPR MUSIC's Tiny Desk](https://open.spotify.com/track/7mUGgxv8KdYSnNyCUdZaro) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX) | [PAPOTA](https://open.spotify.com/album/1NDJk94691Vydq1IrIeGC0) | 2:41 |
 | 49 | [The Morning](https://open.spotify.com/track/4jBfUB4kQJCWOrjGLQqhO0) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [House Of Balloons \(Original\)](https://open.spotify.com/album/7zCODUHkfuRxsUjtuzNqbd) | 5:14 |
 | 50 | [tus pupilas](https://open.spotify.com/track/4hVYlJ9OTl5gSKQKBFxOFU) | [day2k](https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3), [balaclavx](https://open.spotify.com/artist/4pWxCn4W08KR8uMmWVL0oQ) | [idek](https://open.spotify.com/album/3WOcKu6D3jHEPkWW28SGN1) | 3:14 |
 | 51 | [Good Days](https://open.spotify.com/track/4PMqSO5qyjpvzhlLI5GnID) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 4:39 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4O0AdBo80OE.md) - [plain]
 
 > Rimas cremosas, tan necesarias como tu café\. DAAZ en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,791 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,807 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4O0AdBo80OE.md) - [plain]
 | 39 | [balearico](https://open.spotify.com/track/1wAkBB3pOOjOPAWnjJKvoh) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [balearico](https://open.spotify.com/album/0Ck8RKyWCJv77wBlgFOPrA) | 2:30 |
 | 40 | [Atrapado en un Sueño](https://open.spotify.com/track/4c7nGM9irzliRPB9wiNq9l) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Atrapado en un Sueño](https://open.spotify.com/album/1WEYD957nsBAfdYYcCZAaQ) | 3:25 |
 | 41 | [Cardiaca Sensacion](https://open.spotify.com/track/0ed0tiME9M39Cq2810299j) | [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [Cardiaca Sensacion](https://open.spotify.com/album/3OaUYhYg1cWonJEcJbKUfk) | 2:59 |
-| 42 | [Eden](https://open.spotify.com/track/43wXTUWmwPXlzCZaSigw5R) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Eden](https://open.spotify.com/album/5I0m1VdqstrGOYY8J7y9GS) | 3:07 |
+| 42 | [Eden](https://open.spotify.com/track/43wXTUWmwPXlzCZaSigw5R) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [Eden](https://open.spotify.com/album/5I0m1VdqstrGOYY8J7y9GS) | 3:07 |
 | 43 | [Sigo Esperando Que Vuelvas \(feat\. Los Golpes\)](https://open.spotify.com/track/1rdkLyIU3b9LTX1a6RrP5M) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Eirian Music](https://open.spotify.com/artist/4hMiTS2vx4r1mJbR4VUzn4), [Los Golpes](https://open.spotify.com/artist/7vyUXV67P88Hxq4Q5cpC1j) | [Sigo Esperando Que Vuelvas \(feat\. Los Golpes\)](https://open.spotify.com/album/58a7npneCuVfs5wqIT64TY) | 3:16 |
 | 44 | [GUAPÍSIMA BUENÍSIMA](https://open.spotify.com/track/2xaKMrNkGVqK5eNgZcg4P3) | [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [GUAPÍSIMA BUENÍSIMA](https://open.spotify.com/album/02Kb0jYPDw2TsBNEyvDH7F) | 2:48 |
 | 45 | [Tu Héroe](https://open.spotify.com/track/5AKWFDSXV2edVPHPlaO9qL) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Tu Héroe](https://open.spotify.com/album/09zIV6A4I2sZJFJ6z3vAwn) | 4:01 |

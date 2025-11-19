@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 
 > Cele mai noi hituri pop românești\. Cover: MIRA
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,683 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,686 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Aleg Să Zâmbesc](https://open.spotify.com/track/0aJmgRfVoNZaUccbS8pjrG) | [MIRA](https://open.spotify.com/artist/2nMFC7hWK0haX8ilvRpb59) | [Aleg Să Zâmbesc](https://open.spotify.com/album/66FUEWBBI69xIrzkZPNSF7) | 2:33 |
-| 2 | [INTR\-O ZI](https://open.spotify.com/track/1uWDmBW5ql1RYq5OB0An5N) | [Misha Miller](https://open.spotify.com/artist/3RyCLaPoUBr14rFufZ7Gnp), [EMAA](https://open.spotify.com/artist/4j4xD0oanPaJMB0BVqsRGE) | [13:13](https://open.spotify.com/album/2BgUNZe80Vz5T9pTYmIFjK) | 2:59 |
+| 2 | [INTR\-O ZI](https://open.spotify.com/track/1uWDmBW5ql1RYq5OB0An5N) | [Misha Miller](https://open.spotify.com/artist/3RyCLaPoUBr14rFufZ7Gnp), [EMAA](https://open.spotify.com/artist/4j4xD0oanPaJMB0BVqsRGE) | [13:13](https://open.spotify.com/album/2BgUNZe80Vz5T9pTYmIFjK) | 3:00 |
 | 3 | [7 zile](https://open.spotify.com/track/74lOqQaeKR7OGLZ6xJZ711) | [Florian Rus](https://open.spotify.com/artist/0UPJKLFhLR0GuiBZBLNAsd), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [7 zile](https://open.spotify.com/album/7IMnhD1xz0UtpQVYsnlgqE) | 2:38 |
 | 4 | [Gura ta](https://open.spotify.com/track/0NckleLTzztPYasUQ75Sb4) | [rares](https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9) | [Cel mai fericit de pe pământ](https://open.spotify.com/album/6qik3Q8d7HLitqAyhOSRkB) | 2:02 |
 | 5 | [Azucar](https://open.spotify.com/track/7C8OBP3RyIy9458F2T0FFe) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Mixed Feelings](https://open.spotify.com/album/6P21kzrMNOGSULxDw47nXD) | 2:21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNz9xcyse7Z.md) - [plain]
 
 > Cruzando cerros y arroyos mientras recordamos el legado campirano y rancherón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,713 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,777 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,17 +71,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNz9xcyse7Z.md) - [plain]
 | 61 | [Para Morir Naci](https://open.spotify.com/track/58VjK7wICoMm0M2zftvsll) | [Los Dukes De Sonora](https://open.spotify.com/artist/6CPniXwNjmvUgGE2cPzmmb) | [Para Morir Nací](https://open.spotify.com/album/6xO9JouFVYKw9lD9YejQJD) | 3:12 |
 | 62 | [Hombre de Rancho](https://open.spotify.com/track/1wroMcCg0IfrL4FzB78Xfe) | [Grupo cessna](https://open.spotify.com/artist/5cxRMXREpTmtI6lFc5hE7W) | [Hombres de Rancho](https://open.spotify.com/album/4Twk9Hn6QoII8zuuQ7rC5t) | 3:20 |
 | 63 | [Entre la lluvia y mi llorar](https://open.spotify.com/track/0WCMzGVDGntss0FTQHotNX) | [Los Paisanos de Sinaloa](https://open.spotify.com/artist/4dxvCbHBu0SFagqc2kM1pZ) | [Como le hago](https://open.spotify.com/album/3Rw3Tq83OofomSXL3L5aZ9) | 2:58 |
-| 64 | [Quiéreme Como Te Quiero](https://open.spotify.com/track/5HOgr1vGGin7nicfjrylP6) | [Los Gavilanes de la Sierra](https://open.spotify.com/artist/1m41o6nhLXMVGGzz9kLgq1) | [Piel de Azúcar](https://open.spotify.com/album/6LRYnSGOYJZufNSd5IscGV) | 3:23 |
-| 65 | [Rama Verde](https://open.spotify.com/track/4ItuglUP2usKbAWKFcPZna) | [El Canelo De Sinaloa](https://open.spotify.com/artist/5WyCFEWzY8eMcSOu0BFjhJ), [Los Dos Del Sitio](https://open.spotify.com/artist/4fKzhjg1iCHqWvXBB1U6G2) | [El Diablo y el Federal](https://open.spotify.com/album/2rcwazegT8e3JlhPPtHJYk) | 2:36 |
+| 64 | [Rama Verde](https://open.spotify.com/track/4ItuglUP2usKbAWKFcPZna) | [El Canelo De Sinaloa](https://open.spotify.com/artist/5WyCFEWzY8eMcSOu0BFjhJ), [Los Dos Del Sitio](https://open.spotify.com/artist/4fKzhjg1iCHqWvXBB1U6G2) | [El Diablo y el Federal](https://open.spotify.com/album/2rcwazegT8e3JlhPPtHJYk) | 2:36 |
+| 65 | [Quiéreme Como Te Quiero](https://open.spotify.com/track/5HOgr1vGGin7nicfjrylP6) | [Los Gavilanes de la Sierra](https://open.spotify.com/artist/1m41o6nhLXMVGGzz9kLgq1) | [Piel de Azúcar](https://open.spotify.com/album/6LRYnSGOYJZufNSd5IscGV) | 3:23 |
 | 66 | [Que Te Casas](https://open.spotify.com/track/3rZD94i2rUr1nddo8uVXWq) | [Ramon Massiaca Y Los Dos Plebes](https://open.spotify.com/artist/70F5hQ2GuRjGCBawrf1joe) | [La Sombra Del Arbol](https://open.spotify.com/album/4R0sMZcXew3rNAiIfpPLax) | 2:34 |
 | 67 | [Cielo Azul, Cielo Nublado](https://open.spotify.com/track/5GRe4EsGxq49GaxKYvWQoZ) | [Roman De Los Reyes](https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF) | [Tu Lo Decidiste](https://open.spotify.com/album/0JNCEzRPMSqwTTVh350Mj8) | 3:05 |
 | 68 | [Los Plebes Atrevidos](https://open.spotify.com/track/59hQ9CzM8Mrril2tKdXFj0) | [Los Cuen's De Sinaloa](https://open.spotify.com/artist/4QLyaPcH64FhlBxA8FAeN2) | [Los Cuen's De Sinaloa](https://open.spotify.com/album/0ySeNWEVo1p6JLkylvagO0) | 3:17 |
 | 69 | [Ambicion](https://open.spotify.com/track/6UFTow898t6dbHb14FnKzk) | [Los Pescadores De Guaymas](https://open.spotify.com/artist/0Lnai7lNe8gZOe9fPaYFmv) | [Raza Pesada](https://open.spotify.com/album/5RPjZ9F7vHbXBDya9z9f8t) | 3:14 |
-| 70 | [Ni Dada La Quiero](https://open.spotify.com/track/6wld61I8oL6n5w1dO0DawE) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Grandes Exitos con Tuba, Acordeón y Guitarra Vol\. 2](https://open.spotify.com/album/1fW1WW9YONI4LS3WRajavt) | 2:48 |
+| 70 | [Pilares de Cristal](https://open.spotify.com/track/3VFjhO9kmWJNEIXDhvJ695) | [Gigantes de sinaloa](https://open.spotify.com/artist/322p0n25QmFQ5K6lX8998y) | [El Favorito](https://open.spotify.com/album/7jkwQCWRpoqXO6JRhRr7zP) | 2:46 |
 | 71 | [El Amor No Se Vende](https://open.spotify.com/track/0IvrsLn1zFZno6O5rpXKAP) | [Ramon Massiaca Y Los Dos Plebes](https://open.spotify.com/artist/70F5hQ2GuRjGCBawrf1joe) | [La Sombra Del Arbol](https://open.spotify.com/album/4R0sMZcXew3rNAiIfpPLax) | 3:27 |
 | 72 | [El Primer Tonto](https://open.spotify.com/track/3MbRlkq41kemX1uNiqk2gb) | [Roman De Los Reyes](https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF) | [Tu Lo Decidiste](https://open.spotify.com/album/0JNCEzRPMSqwTTVh350Mj8) | 2:58 |
 | 73 | [Amores Fingidos](https://open.spotify.com/track/7dHPgzcHDFq8s6B50H9bfn) | [Los Cuen's De Sinaloa](https://open.spotify.com/artist/4QLyaPcH64FhlBxA8FAeN2) | [Los Cuen's De Sinaloa](https://open.spotify.com/album/0ySeNWEVo1p6JLkylvagO0) | 2:48 |
-| 74 | [Pilares de Cristal](https://open.spotify.com/track/3VFjhO9kmWJNEIXDhvJ695) | [Gigantes de sinaloa](https://open.spotify.com/artist/322p0n25QmFQ5K6lX8998y) | [El Favorito](https://open.spotify.com/album/7jkwQCWRpoqXO6JRhRr7zP) | 2:46 |
+| 74 | [Ni Dada La Quiero](https://open.spotify.com/track/6wld61I8oL6n5w1dO0DawE) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Grandes Exitos con Tuba, Acordeón y Guitarra Vol\. 2](https://open.spotify.com/album/1fW1WW9YONI4LS3WRajavt) | 2:48 |
 | 75 | [Las Lluvias](https://open.spotify.com/track/5JWnxJIBUa7bVHqaZIEoUy) | [Los Gavilanes de la Sierra](https://open.spotify.com/artist/1m41o6nhLXMVGGzz9kLgq1) | [Piel de Azúcar](https://open.spotify.com/album/6LRYnSGOYJZufNSd5IscGV) | 3:04 |
 | 76 | [Fue Tu Culpa](https://open.spotify.com/track/1aCOsi8TtpL7Mo8Lx0qT0f) | [Los Grandes Del Pardito](https://open.spotify.com/artist/2xAvH1L1bUERbPMBny3EYb) | [De La Sierra A La Playa](https://open.spotify.com/album/3T0EMRduGzvEHZgvftYTxc) | 3:35 |
 | 77 | [El Buque de Mas Potencia](https://open.spotify.com/track/1PKLz0d2aaEYG2tEFnGXl5) | [Roman De Los Reyes](https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF) | [Tu Lo Decidiste](https://open.spotify.com/album/0JNCEzRPMSqwTTVh350Mj8) | 2:39 |

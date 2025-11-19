@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gHUsLp9bcj.md) - [plain]
 
 > The Latin soundtrack of the 50s! Cover: Pedro Infante
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,638 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,647 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,10 +14,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gHUsLp9bcj.md) - [plain]
 | 4 | [Bésame Mucho](https://open.spotify.com/track/1HlX3tDP7eJBs5CJx4XIIk) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Tesoros De Coleccion](https://open.spotify.com/album/5fvc3yXYkuFeutWruzxCTk) | 3:00 |
 | 5 | [Viajera](https://open.spotify.com/track/3Nsn3y2IpzcuDIKZDgS3oS) | [Luis Arcaraz Y Su Orquesta](https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg) | [Cita Con Luis Arcaraz](https://open.spotify.com/album/2yhhV6GIC9dLiSJ0olcUdE) | 3:17 |
 | 6 | [La Bamba \- Single Version](https://open.spotify.com/track/2aEeghgUcnu75tzcolFMfs) | [Ritchie Valens](https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P) | [Ritchie Valens](https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W) | 2:06 |
-| 7 | [Como Fue](https://open.spotify.com/track/6BDI8tJZLePuf70SzCiX42) | [Beny Moré](https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw) | [Romántico](https://open.spotify.com/album/5vF1wkyOrXRdnu3o3QNjNk) | 2:56 |
+| 7 | [Si Nos Dejan](https://open.spotify.com/track/4pZEUFPChCHLkJJ78hkwvh) | [Los Tres Ases](https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B) | [Los Tres Ases](https://open.spotify.com/album/0Qsqqs8HWEjVSXfoHhlIkp) | 3:02 |
 | 8 | [El gavilán pollero](https://open.spotify.com/track/2K1A5myyaOr2ZmUFSLT6R4) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [15 Inmortales de Pedro Infante](https://open.spotify.com/album/0EUGqkj07wWx27XADAq3Ba) | 2:32 |
 | 9 | [Mi Último Fracaso](https://open.spotify.com/track/6fy5Q2Pkdltq3GkDD6UXRk) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Leyendas Solamente Los Mejores](https://open.spotify.com/album/4R4CFtjXHrWFLKYaMs05lC) | 3:05 |
-| 10 | [Si Nos Dejan](https://open.spotify.com/track/4pZEUFPChCHLkJJ78hkwvh) | [Los Tres Ases](https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B) | [Los Tres Ases](https://open.spotify.com/album/0Qsqqs8HWEjVSXfoHhlIkp) | 3:02 |
+| 10 | [Como Fue](https://open.spotify.com/track/6BDI8tJZLePuf70SzCiX42) | [Beny Moré](https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw) | [Romántico](https://open.spotify.com/album/5vF1wkyOrXRdnu3o3QNjNk) | 2:56 |
 | 11 | [El Cayuco](https://open.spotify.com/track/3j05qtcQlRIVF0a2DOoO68) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Dance Mania Vol.1](https://open.spotify.com/album/1XjabdmwipT62cLSZV45SU) | 2:35 |
 | 12 | [Solamente una Vez](https://open.spotify.com/track/4OK9UQQIHN9DSfmXTIiNhU) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [20 Exitos](https://open.spotify.com/album/2VAfS6wE5hokS4Nb5I0p4O) | 3:22 |
 | 13 | [Tú, solo tú](https://open.spotify.com/track/1sQ5nok0rccMPmAyGdQzvt) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [60 Rancheras Inmortales](https://open.spotify.com/album/7r20ZE4dXhmE7Ldc9sGeok) | 3:17 |
@@ -28,13 +28,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gHUsLp9bcj.md) - [plain]
 | 18 | [La que se fue](https://open.spotify.com/track/7jbw51fAxM61ELUdfvx8Ua) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [60 Rancheras Inmortales](https://open.spotify.com/album/7r20ZE4dXhmE7Ldc9sGeok) | 2:39 |
 | 19 | [Que Rico el Mambo](https://open.spotify.com/track/4XgsTDM3I0T6D0hvWBVWOC) | [Pérez Prado y Su Gran Orquesta](https://open.spotify.com/artist/0LIjbauWCv9ccbewmWnV5x) | [El Rey del Mambo](https://open.spotify.com/album/3cyW7js4KZs8LZ9tMHESy7) | 3:08 |
 | 20 | [Aquellos ojos verdes \(bolero\)](https://open.spotify.com/track/7lNA5fkgtuoLoheD6Rdk8V) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz), [Agustín Lara](https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop) | [Alma de negro](https://open.spotify.com/album/3F5U5ghrNGPnijdMvduDMj) | 2:20 |
-| 21 | [Doce Cascabeles](https://open.spotify.com/track/7BUvNHsdaKgSjoGsAL4UJA) | [Los Churumbeles De España](https://open.spotify.com/artist/5jpiQUq0Xyneu77BPajLu4) | [Los Churumbeles](https://open.spotify.com/album/3D1Be6P20ztSlF2HHWwMA3) | 3:12 |
-| 22 | [Usted](https://open.spotify.com/track/20NBwMxhtHrNgnWFIlNeP4) | [Los Tres Diamantes](https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1) | [Canciones De Amor](https://open.spotify.com/album/0aqqz67nPmidIqCUfaO69n) | 3:14 |
+| 21 | [Usted](https://open.spotify.com/track/20NBwMxhtHrNgnWFIlNeP4) | [Los Tres Diamantes](https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1) | [Canciones De Amor](https://open.spotify.com/album/0aqqz67nPmidIqCUfaO69n) | 3:14 |
+| 22 | [Doce Cascabeles](https://open.spotify.com/track/7BUvNHsdaKgSjoGsAL4UJA) | [Los Churumbeles De España](https://open.spotify.com/artist/5jpiQUq0Xyneu77BPajLu4) | [Los Churumbeles](https://open.spotify.com/album/3D1Be6P20ztSlF2HHWwMA3) | 3:12 |
 | 23 | [Pénjamo](https://open.spotify.com/track/2vKYADIQCZb07DRE4LzwxK) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [60 Rancheras Inmortales](https://open.spotify.com/album/7r20ZE4dXhmE7Ldc9sGeok) | 3:15 |
 | 24 | [La Cama de Piedra](https://open.spotify.com/track/0W2sWeK8d32hqAPIvpq8Kl) | [Cuco Sánchez](https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E) | [El Revolucionario](https://open.spotify.com/album/6nyUcQEosgPKpNUhkp3bAI) | 3:12 |
 | 25 | [Cuando Calienta El Sol](https://open.spotify.com/track/7pP7yMX0Nu862YXP5S9Eqs) | [Trini Lopez](https://open.spotify.com/artist/5FlTKgucbhHvlJVf0pnvOv) | [His 28 Greatest Hits](https://open.spotify.com/album/0le6lAknFh1BF6GZ3GSTon) | 2:26 |
-| 26 | [Quiereme siempre \- Remastered](https://open.spotify.com/track/29fdJkJSmD4PoSJamszJQF) | [Los 5 Latinos](https://open.spotify.com/artist/7aZR9nyaShysVN1JyGoPsA) | [Por siempre los 5 latinos, Vol\. 1 \(Remastered\)](https://open.spotify.com/album/19eaIeTw3q3pWrN5q5R1R6) | 2:16 |
-| 27 | [Amor Que Malo Eres](https://open.spotify.com/track/3UALUQSEr7cIp3yjnPCMVe) | [Los Tres Diamantes](https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1) | [Boleros In Trío](https://open.spotify.com/album/6Q5WjwqD0rXwSlU5fuw0O7) | 2:37 |
+| 26 | [Amor Que Malo Eres](https://open.spotify.com/track/3UALUQSEr7cIp3yjnPCMVe) | [Los Tres Diamantes](https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1) | [Boleros In Trío](https://open.spotify.com/album/6Q5WjwqD0rXwSlU5fuw0O7) | 2:37 |
+| 27 | [Quiereme siempre \- Remastered](https://open.spotify.com/track/29fdJkJSmD4PoSJamszJQF) | [Los 5 Latinos](https://open.spotify.com/artist/7aZR9nyaShysVN1JyGoPsA) | [Por siempre los 5 latinos, Vol\. 1 \(Remastered\)](https://open.spotify.com/album/19eaIeTw3q3pWrN5q5R1R6) | 2:16 |
 | 28 | [No Me Platiques Más](https://open.spotify.com/track/6G6oAAr2x7ndjFfHiB23Lt) | [Los Tres Ases](https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B) | [Sus Mejores Boleros](https://open.spotify.com/album/0qN42jK4MHgVt7uEclhJpu) | 2:56 |
 | 29 | [Quiereme Mucho \(Yours\)](https://open.spotify.com/track/3hThX54q9haPCi0olgOHG2) | [Los Copacabana](https://open.spotify.com/artist/3eBJqE3k7Jr4CZbI4N4Jrg) | [Mexico's Greatest Hits](https://open.spotify.com/album/2giGcyHpDs98pN0FsdvcCW) | 3:52 |
 | 30 | [Quinto Patio](https://open.spotify.com/track/3HI6DC983guuu26sfCT3jD) | [Luis Arcaraz Y Su Orquesta](https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg) | [RCA 100 Años De Musica](https://open.spotify.com/album/0hyUBRhHBjB52XcYczQeGV) | 3:03 |

@@ -4,12 +4,12 @@
 
 > Your chill anime soundtrack\. Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-139 songs - 9 hr 26 min
+140 songs - 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(I keep reaching but\) the light is far](https://open.spotify.com/track/21uv2vOAAnRXTj0ZYjNgfU) | [スカート](https://open.spotify.com/artist/1rOnNKoQhifOY4rIH4wMtk) | [\(I keep reaching but\) the light is far](https://open.spotify.com/album/3mOmkItwWWARVN2v9BakWl) | 3:05 | 2025-07-22 | 2025-10-06 |
-| [4:00A.M.](https://open.spotify.com/track/0zoGVO4bQXG8U6ChKwNgeg) | [Taeko Onuki](https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy) | [MIGNONNE \(Mastered by Bernie Grundman\)](https://open.spotify.com/album/0Y4RPWAZZui6gUL1kwgND6) | 5:36 | 2023-01-05 |  |
+| [4:00A.M.](https://open.spotify.com/track/0zoGVO4bQXG8U6ChKwNgeg) | [Taeko Onuki](https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy) | [MIGNONNE \(Mastered by Bernie Grundman\)](https://open.spotify.com/album/0Y4RPWAZZui6gUL1kwgND6) | 5:36 | 2023-01-05 | 2025-11-19 |
 | [A Million Miles Away](https://open.spotify.com/track/0WQRbcwmUd1fZ5AJcH5GDT) | [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40) | [Belle \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Dh6RJv03InPzUWLwmpezp) | 8:01 | 2023-01-05 | 2024-04-19 |
 | [A Million Miles Away](https://open.spotify.com/track/4EouoYXPLTgO1v16BE8t4L) | [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40) | [「竜とそばかすの姫」オリジナル・サウンドトラック](https://open.spotify.com/album/0tukMaQwVfipeF0cuFfGlW) | 8:01 | 2024-04-02 |  |
 | [again 〜YUI Acoustic Version〜](https://open.spotify.com/track/1jSmpQoTDhYJnPcvTnYml1) | [YUI](https://open.spotify.com/artist/5WBO8UyOuJ1l7ZBqqBimpO) | [It's all too much / Never say die](https://open.spotify.com/album/5s5VpPSwFyMBo3kd3bPvS2) | 4:20 | 2023-01-05 | 2025-01-31 |
@@ -57,9 +57,9 @@
 | [My Plan](https://open.spotify.com/track/2MKuMuQZbLOW16zXQksZse) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [My Plan](https://open.spotify.com/album/5tnh0GwxdYRH5aVxVBm52e) | 3:43 | 2023-01-12 | 2024-01-11 |
 | [My Plan \- Lofi Remix](https://open.spotify.com/track/3By0mwdcJC2m9Vq0W3LwC2) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg), [一騎\(CV:豊永利行\)](https://open.spotify.com/artist/6UNfWUQV7Zjuz2WvFSXcj3), [零\(CV:内山昂輝\)](https://open.spotify.com/artist/3bT8HW83dr4YDKYN20RYjy) | [My Plan](https://open.spotify.com/album/3CpERluTyAXWsI6kaQp139) | 3:37 | 2023-03-14 | 2024-01-11 |
 | [Next to you \- from Parasyte](https://open.spotify.com/track/3iVvQHWCLGjfY3iFEwV9lO) | [Ken Arai](https://open.spotify.com/artist/5zGGIlGJXnwLcbniSyoc7w), [NSZX](https://open.spotify.com/artist/2DvKwWmzK5CPUBSRCWtZCy) | [Next to you \(from Parasyte\)](https://open.spotify.com/album/3GWLbX2NoKUi2wv6IKJ5z3) | 3:33 | 2023-01-05 | 2023-01-13 |
-| [Obsessed](https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [Obsessed](https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF) | 3:16 | 2024-02-01 | 2025-07-30 |
+| [Obsessed](https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [Obsessed](https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF) | 3:16 | 2024-02-01 |  |
 | [Octopus Daughter](https://open.spotify.com/track/5e0hPk2kJAqpVFeX9olJ9V) | [Serani Poji](https://open.spotify.com/artist/6JzJhoOtjzVLZpMi3Ppz3T) | [manamoon \(まなもぉん\)](https://open.spotify.com/album/49oWwsiDEYNBot7wKN92HG) | 6:04 | 2024-04-02 | 2024-07-25 |
-| [ODDTAXI](https://open.spotify.com/track/2Lwl5ElqC6Nq2CAwXxmsOE) | [スカートとPUNPEE](https://open.spotify.com/artist/2c1PTv8do7xhzgK6rKBf5A), [スカート](https://open.spotify.com/artist/1rOnNKoQhifOY4rIH4wMtk), [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6) | [ODDTAXI](https://open.spotify.com/album/5RyStjfQGvf0wan3sC88rs) | 3:23 | 2024-04-02 |  |
+| [ODDTAXI](https://open.spotify.com/track/2Lwl5ElqC6Nq2CAwXxmsOE) | [スカートとPUNPEE](https://open.spotify.com/artist/2c1PTv8do7xhzgK6rKBf5A), [スカート](https://open.spotify.com/artist/1rOnNKoQhifOY4rIH4wMtk), [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6) | [ODDTAXI](https://open.spotify.com/album/5RyStjfQGvf0wan3sC88rs) | 3:23 | 2024-04-02 | 2025-11-19 |
 | [ODDTAXI](https://open.spotify.com/track/4bMo9lJmh3jNTzfmfQ1YcL) | [スカートとPUNPEE](https://open.spotify.com/artist/2c1PTv8do7xhzgK6rKBf5A), [スカート](https://open.spotify.com/artist/1rOnNKoQhifOY4rIH4wMtk), [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6) | [ODDTAXI](https://open.spotify.com/album/3xvfQSF7SX9lk4OC1wwOTS) | 3:23 | 2023-01-05 | 2024-04-19 |
 | [odoriko](https://open.spotify.com/track/1uK4zAdMcBRyinAOArUA5X) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [odoriko](https://open.spotify.com/album/5GYj8Dv4xReZAEA8sp4S5y) | 3:50 | 2023-09-21 | 2023-11-18 |
 | [Oh](https://open.spotify.com/track/4fWRIQBUH9VaWpz9E5ZFc7) | [luvis](https://open.spotify.com/artist/0TkhuOSDpZ6NhRiPkmQ77M) | [Oh](https://open.spotify.com/album/2qHLv0U8pxGV7nAHinJiuU) | 4:05 | 2025-10-11 |  |
@@ -104,6 +104,7 @@
 | [わをん](https://open.spotify.com/track/2jGj8CmWeybFK4rjZOLowA) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [わをん](https://open.spotify.com/album/6CaESXa0TuGHe5JZzlsSf2) | 4:30 | 2025-01-30 | 2025-02-05 |
 | [アイネクライネ](https://open.spotify.com/track/45YBVp6zMwQZRbUDcPzmMB) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [YANKEE](https://open.spotify.com/album/64SAjax288grKsmuLDfA6G) | 4:48 | 2023-01-05 |  |
 | [イザベラの唄](https://open.spotify.com/track/6qzTbAFDX82BxJIBbdKPH8) | [小畑貴裕](https://open.spotify.com/artist/1ts9YsGOQHW0vzUrhG4ZpH) | [約束のネバーランド Season1 Original Soundtrack](https://open.spotify.com/album/6yN3OuEpq0YkHK21VDQJKb) | 2:29 | 2023-01-05 | 2025-02-28 |
+| [オレンジ](https://open.spotify.com/track/21htkjP5rYjD3CXG3y9wCT) | [7!!](https://open.spotify.com/artist/3rJbSZv98yyWLNOvD6MsAV) | [アニップス](https://open.spotify.com/album/4Uqxq3iwghdOrbDWNOo0rd) | 5:50 | 2025-11-18 |  |
 | [カタオモイ](https://open.spotify.com/track/2HovXsvcdJur52BOcYGydz) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [daydream](https://open.spotify.com/album/336m0kejdM5Fkw2HUX46Bw) | 3:27 | 2023-01-05 |  |
 | [コイワズライ](https://open.spotify.com/track/0ZiO07cHvb675UDaKB1iix) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Sun Dance](https://open.spotify.com/album/0FNWMFyb0nLCCHucsDfxmA) | 3:55 | 2023-01-05 | 2025-02-28 |
 | [コネクト](https://open.spotify.com/track/3DZG4wc2NQbgjR2m8iXpG1) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [BIRTHDAY](https://open.spotify.com/album/4bRHjrsaHEtOVdxmZrFAy7) | 4:30 | 2023-01-05 | 2023-01-13 |

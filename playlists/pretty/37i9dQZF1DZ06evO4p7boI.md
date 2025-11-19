@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4p7boI.md) - [plain]
 
 > This is NAV\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,930 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,941 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4p7boI.md) - [plain]
 | 47 | [Foreign \(feat\. Nav\)](https://open.spotify.com/track/3CTOc6QGsoaxwaPJYFxNsG) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Virgo World](https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX) | 2:13 |
 | 48 | [REAL ME \(WITH METRO BOOMIN\)](https://open.spotify.com/track/5gceXfpczt6WqGkkqeICAm) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [REAL ME](https://open.spotify.com/album/0pPQgcXmQXqlFEgYJPMgBX) | 3:07 |
 | 49 | [Make It Right Back](https://open.spotify.com/track/6AyXdUH0gnVrJFQb7L7rkI) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Emergency Tsunami](https://open.spotify.com/album/1tihFpzHHM9mDSoFbhMoZL) | 2:36 |
-| 50 | [Power Of A Dollar Interlude](https://open.spotify.com/track/6karkMKGimOzHXzR5ib5td) | [NorthSideBenji](https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Money Musik](https://open.spotify.com/artist/0Y5Wgx4aNU8Jm4T9OxI22o) | [Misery Loves Company](https://open.spotify.com/album/4So2cgWi3q7Ieb9ItvC8TY) | 2:46 |
+| 50 | [On My Own \(2016\)](https://open.spotify.com/track/1JfhrpmEjgO85Y7sM2QWvH) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [On My Own \(2016\)](https://open.spotify.com/album/0R0Zqjy0b5vkPCBKhP3IRo) | 2:48 |
 
-Snapshot ID: `aRkUAAAAAADstRAvG6KnyBiRi4FmNw2G`
+Snapshot ID: `aRplgAAAAAA4o4j9ADaVJBsdS6bWUlaV`

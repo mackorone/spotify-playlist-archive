@@ -1,6 +1,6 @@
 {
   "description": "Warm and cozy jazz vibes to get you in a positive mood.\n\n",
-  "num_followers": 482829,
+  "num_followers": 482958,
   "original_name": "Feel Good Jazz",
   "owner": {
     "name": "Spotify",
@@ -111,26 +111,6 @@
     {
       "added_at": "2025-09-26 11:27:35",
       "album": {
-        "name": "Got You on My Mind",
-        "url": "https://open.spotify.com/album/2JEelOrzOn2cJT9O5CSA1S"
-      },
-      "artists": [
-        {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
-        },
-        {
-          "name": "William Galison",
-          "url": "https://open.spotify.com/artist/7h0BtqCDYMVLc57uiinjxn"
-        }
-      ],
-      "duration_ms": 152531,
-      "name": "Back in Your Own Back Yard",
-      "url": "https://open.spotify.com/track/7hZ5vjaWl6KxvTXo1aMorp"
-    },
-    {
-      "added_at": "2025-09-26 11:27:35",
-      "album": {
         "name": "Jazz Samba",
         "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
       },
@@ -151,18 +131,22 @@
     {
       "added_at": "2025-09-26 11:27:35",
       "album": {
-        "name": "The Electrifying Aretha Franklin (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5tGs5EjPwWWLJcsx7r1rvH"
+        "name": "Got You on My Mind",
+        "url": "https://open.spotify.com/album/2JEelOrzOn2cJT9O5CSA1S"
       },
       "artists": [
         {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+        },
+        {
+          "name": "William Galison",
+          "url": "https://open.spotify.com/artist/7h0BtqCDYMVLc57uiinjxn"
         }
       ],
-      "duration_ms": 136373,
-      "name": "Ac-Cent-Tchu-Ate the Positive",
-      "url": "https://open.spotify.com/track/4JBtcz5a0WHBTfKXpg7P0e"
+      "duration_ms": 152531,
+      "name": "Back in Your Own Back Yard",
+      "url": "https://open.spotify.com/track/7hZ5vjaWl6KxvTXo1aMorp"
     },
     {
       "added_at": "2025-09-26 11:27:35",
@@ -179,6 +163,22 @@
       "duration_ms": 142680,
       "name": "Oh, Good Grief",
       "url": "https://open.spotify.com/track/7t6Kf3myyknIqWzDFfaImE"
+    },
+    {
+      "added_at": "2025-09-26 11:27:35",
+      "album": {
+        "name": "The Electrifying Aretha Franklin (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5tGs5EjPwWWLJcsx7r1rvH"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 136373,
+      "name": "Ac-Cent-Tchu-Ate the Positive",
+      "url": "https://open.spotify.com/track/4JBtcz5a0WHBTfKXpg7P0e"
     },
     {
       "added_at": "2025-09-26 11:27:35",
@@ -299,22 +299,6 @@
     {
       "added_at": "2025-09-26 11:27:35",
       "album": {
-        "name": "Ultimate Peggy Lee",
-        "url": "https://open.spotify.com/album/1bXDfEwCLg5gl3M1orv1WX"
-      },
-      "artists": [
-        {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
-        }
-      ],
-      "duration_ms": 150053,
-      "name": "Hallelujah, I Love Him So",
-      "url": "https://open.spotify.com/track/499GXjmRXzKrZLmiWrhvuY"
-    },
-    {
-      "added_at": "2025-09-26 11:27:35",
-      "album": {
         "name": "That Bad Eartha",
         "url": "https://open.spotify.com/album/19ZUoDOWmYb59rG5p5WoSW"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 185666,
       "name": "Let's Do It",
       "url": "https://open.spotify.com/track/1f1ybry2mOfAgP3qBFMiKc"
+    },
+    {
+      "added_at": "2025-09-26 11:27:35",
+      "album": {
+        "name": "Ultimate Peggy Lee",
+        "url": "https://open.spotify.com/album/1bXDfEwCLg5gl3M1orv1WX"
+      },
+      "artists": [
+        {
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+        }
+      ],
+      "duration_ms": 150053,
+      "name": "Hallelujah, I Love Him So",
+      "url": "https://open.spotify.com/track/499GXjmRXzKrZLmiWrhvuY"
     },
     {
       "added_at": "2025-09-26 11:27:35",
@@ -352,7 +352,7 @@
           "url": "https://open.spotify.com/artist/1m12PvAi6HuXaSp9vPizwS"
         }
       ],
-      "duration_ms": 150800,
+      "duration_ms": 152026,
       "name": "Mountain Greenery",
       "url": "https://open.spotify.com/track/1fLjpMWjiB9WavCBrPX1eH"
     },
@@ -703,6 +703,38 @@
     {
       "added_at": "2025-09-26 11:27:35",
       "album": {
+        "name": "You Can't Lose with the Blues",
+        "url": "https://open.spotify.com/album/0FZkyEdeAJlR4FIwMLbHyl"
+      },
+      "artists": [
+        {
+          "name": "Lafayette Harris, Jr.",
+          "url": "https://open.spotify.com/artist/53clI7NaUHryu3JxQ593PT"
+        }
+      ],
+      "duration_ms": 315586,
+      "name": "Wonder Why",
+      "url": "https://open.spotify.com/track/5JnVSvNTtEPLe2xM1EvXGs"
+    },
+    {
+      "added_at": "2025-09-26 11:27:35",
+      "album": {
+        "name": "Desafinado",
+        "url": "https://open.spotify.com/album/4Zmp4npHwNJ3cIdwv3sWz4"
+      },
+      "artists": [
+        {
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+        }
+      ],
+      "duration_ms": 173160,
+      "name": "I'm Looking Over A Four Leaf Clover (Jazz Samba)",
+      "url": "https://open.spotify.com/track/1wqrfKgBPtCHITqSwwXcxf"
+    },
+    {
+      "added_at": "2025-09-26 11:27:35",
+      "album": {
         "name": "September in the Rain",
         "url": "https://open.spotify.com/album/6d8P2kjdu2ZttekvM8yTBX"
       },
@@ -723,22 +755,6 @@
     {
       "added_at": "2025-09-26 11:27:35",
       "album": {
-        "name": "You Can't Lose with the Blues",
-        "url": "https://open.spotify.com/album/0FZkyEdeAJlR4FIwMLbHyl"
-      },
-      "artists": [
-        {
-          "name": "Lafayette Harris, Jr.",
-          "url": "https://open.spotify.com/artist/53clI7NaUHryu3JxQ593PT"
-        }
-      ],
-      "duration_ms": 315586,
-      "name": "Wonder Why",
-      "url": "https://open.spotify.com/track/5JnVSvNTtEPLe2xM1EvXGs"
-    },
-    {
-      "added_at": "2025-09-26 11:27:35",
-      "album": {
         "name": "You Go to My Head",
         "url": "https://open.spotify.com/album/5N9kxHTPKQznSLXbwbAfzl"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 239026,
       "name": "You Go to My Head",
       "url": "https://open.spotify.com/track/6i4YrBNk01mgjkPjQ1xPE3"
-    },
-    {
-      "added_at": "2025-09-26 11:27:35",
-      "album": {
-        "name": "Desafinado",
-        "url": "https://open.spotify.com/album/4Zmp4npHwNJ3cIdwv3sWz4"
-      },
-      "artists": [
-        {
-          "name": "Coleman Hawkins",
-          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
-        }
-      ],
-      "duration_ms": 173160,
-      "name": "I'm Looking Over A Four Leaf Clover (Jazz Samba)",
-      "url": "https://open.spotify.com/track/1wqrfKgBPtCHITqSwwXcxf"
     },
     {
       "added_at": "2025-09-26 11:27:35",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2025-09-26 11:27:35",
       "album": {
-        "name": "Thedia",
-        "url": "https://open.spotify.com/album/5ccRhv2mXCgIgHY8RLWxQo"
-      },
-      "artists": [
-        {
-          "name": "Cory Weeds",
-          "url": "https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy"
-        }
-      ],
-      "duration_ms": 303163,
-      "name": "Thedia",
-      "url": "https://open.spotify.com/track/1BOH3GRgTRZz7NITH4oEIG"
-    },
-    {
-      "added_at": "2025-09-26 11:27:35",
-      "album": {
         "name": "Way Out West (OJC Remaster)",
         "url": "https://open.spotify.com/album/6pWgCHxQp3DYbPKxduwvmC"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 343120,
       "name": "I'm an Old Cowhand",
       "url": "https://open.spotify.com/track/6VRSZGxuhPGOCgUUAnAaUw"
+    },
+    {
+      "added_at": "2025-09-26 11:27:35",
+      "album": {
+        "name": "Thedia",
+        "url": "https://open.spotify.com/album/5ccRhv2mXCgIgHY8RLWxQo"
+      },
+      "artists": [
+        {
+          "name": "Cory Weeds",
+          "url": "https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy"
+        }
+      ],
+      "duration_ms": 303163,
+      "name": "Thedia",
+      "url": "https://open.spotify.com/track/1BOH3GRgTRZz7NITH4oEIG"
     },
     {
       "added_at": "2025-09-26 11:27:35",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2025-09-26 11:27:35",
       "album": {
+        "name": "Singin' a Melody",
+        "url": "https://open.spotify.com/album/1A6JA1ogqLpX4HlV9APXKG"
+      },
+      "artists": [
+        {
+          "name": "Paul Callander",
+          "url": "https://open.spotify.com/artist/7DxH2g9FfTI6C7CXBTZNtq"
+        }
+      ],
+      "duration_ms": 224786,
+      "name": "Singin' a Melody",
+      "url": "https://open.spotify.com/track/60WNBop8SdFIZZ8PZABZNq"
+    },
+    {
+      "added_at": "2025-09-26 11:27:35",
+      "album": {
         "name": "Happy Song No.2",
         "url": "https://open.spotify.com/album/2hhuaHogBZWrmhpAHYksuj"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 181306,
       "name": "Happy Song No. 2",
       "url": "https://open.spotify.com/track/3kl4pwODJrCPK1fHsK2was"
-    },
-    {
-      "added_at": "2025-09-26 11:27:35",
-      "album": {
-        "name": "Singin' a Melody",
-        "url": "https://open.spotify.com/album/1A6JA1ogqLpX4HlV9APXKG"
-      },
-      "artists": [
-        {
-          "name": "Paul Callander",
-          "url": "https://open.spotify.com/artist/7DxH2g9FfTI6C7CXBTZNtq"
-        }
-      ],
-      "duration_ms": 224786,
-      "name": "Singin' a Melody",
-      "url": "https://open.spotify.com/track/60WNBop8SdFIZZ8PZABZNq"
     },
     {
       "added_at": "2025-09-26 11:27:35",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2025-09-26 11:27:35",
       "album": {
-        "name": "Score",
-        "url": "https://open.spotify.com/album/331gr9fv5S0JTKxVkMFQ16"
-      },
-      "artists": [
-        {
-          "name": "Randy Brecker",
-          "url": "https://open.spotify.com/artist/3Rsba5XTDhxUyjK4sn1wBj"
-        }
-      ],
-      "duration_ms": 249666,
-      "name": "Morning Song",
-      "url": "https://open.spotify.com/track/7HL4OAOuAdjgnfvaLy7iYJ"
-    },
-    {
-      "added_at": "2025-09-26 11:27:35",
-      "album": {
         "name": "The Architect",
         "url": "https://open.spotify.com/album/50Jy8t0xYgSgGrCIWt5EXZ"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 225485,
       "name": "The Architect",
       "url": "https://open.spotify.com/track/6IsKPToqMCdH50pD5P6AeM"
+    },
+    {
+      "added_at": "2025-09-26 11:27:35",
+      "album": {
+        "name": "Score",
+        "url": "https://open.spotify.com/album/331gr9fv5S0JTKxVkMFQ16"
+      },
+      "artists": [
+        {
+          "name": "Randy Brecker",
+          "url": "https://open.spotify.com/artist/3Rsba5XTDhxUyjK4sn1wBj"
+        }
+      ],
+      "duration_ms": 249666,
+      "name": "Morning Song",
+      "url": "https://open.spotify.com/track/7HL4OAOuAdjgnfvaLy7iYJ"
     },
     {
       "added_at": "2025-09-26 11:27:35",

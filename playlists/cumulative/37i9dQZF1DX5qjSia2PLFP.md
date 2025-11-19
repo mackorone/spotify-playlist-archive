@@ -4,7 +4,7 @@
 
 > They got next and now\. Cover: <a href="spotify:artist:4Uwx6qzRn0kA9sz6cCDpBO">Tkandz</a>
 
-1,329 songs - 2 day 13 hr 16 min
+1,330 songs - 2 day 13 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -594,7 +594,7 @@
 | [Imaginary Friend](https://open.spotify.com/track/6L2QU0UQqEBxbOiaKUJmiE) | [Tae Dawg](https://open.spotify.com/artist/5HxD1kjjKZ0K0adufI1JXN) | [Imaginary Friend](https://open.spotify.com/album/3bSVNfpgs4OasLqpvgJoeE) | 2:15 | 2022-12-16 | 2023-01-16 |
 | [Immaculate](https://open.spotify.com/track/410UDoEH2wjORG5PeUVBG3) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [Immaculate](https://open.spotify.com/album/26keyzFJ18ax1zFybUPOHg) | 3:00 | 2022-08-12 | 2022-12-31 |
 | [In 2 Deep](https://open.spotify.com/track/6dAoE1lXYk5W25CRuCkeq6) | [Chikoruss](https://open.spotify.com/artist/3uZWq09EA6TKOR3wqJGVMx) | [In 2 Deep](https://open.spotify.com/album/6F18TbI5mO5bvhJK0T9Am8) | 2:15 | 2024-01-19 | 2024-04-06 |
-| [In Da Bed](https://open.spotify.com/track/4YWmlD5KXYKPHYfRBRWIE4) | [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [Sweet Lick](https://open.spotify.com/album/18DgexE6Ah9XOeiZG3PQXx) | 2:27 | 2025-11-07 |  |
+| [In Da Bed](https://open.spotify.com/track/4YWmlD5KXYKPHYfRBRWIE4) | [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [Sweet Lick](https://open.spotify.com/album/18DgexE6Ah9XOeiZG3PQXx) | 2:27 | 2025-11-07 | 2025-11-19 |
 | [In Love](https://open.spotify.com/track/5Fivs2sPYb9iBQuk2s0my7) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn) | [In Love](https://open.spotify.com/album/4EK6xVgNdeawBeZ6vMTTbL) | 2:45 | 2024-02-09 | 2024-05-18 |
 | [In My City](https://open.spotify.com/track/3mMRjaMDZir1leHaOJL5z1) | [BMG Dmack](https://open.spotify.com/artist/78LTEEfreqlEoRJ0Zv94Fy) | [In My City](https://open.spotify.com/album/07cDGcvU9dyKDZ23rSLbbT) | 1:57 | 2024-05-10 | 2024-05-25 |
 | [In My Mind](https://open.spotify.com/track/5vV2z9EwVzZ4EPeV8e2YXd) | [DJ Rosegold](https://open.spotify.com/artist/25AzYlOR12VRVYdFWcNYfH), [Alex Mali](https://open.spotify.com/artist/77SLhlrrJKzclwLB9bnRJZ) | [In My Mind](https://open.spotify.com/album/2TiAVPNgib6tF38a5uNz0H) | 2:53 | 2024-03-08 | 2024-03-16 |
@@ -1325,6 +1325,7 @@
 | [You Got It](https://open.spotify.com/track/4ds41ycY4UZaxApauzIg40) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy) | [You Got It](https://open.spotify.com/album/4nJWzgMLcYpNdrjVDO5g81) | 4:12 | 2021-08-14 | 2022-03-05 |
 | [You Got It Made](https://open.spotify.com/track/03M0wprGdDBgPTKfikarQd) | [Young Roc](https://open.spotify.com/artist/5ycH6CkEItjfS7VPVNg5kQ), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg), [Jay John Henry](https://open.spotify.com/artist/6NL6Ja857luFYLYZOqQQ9i) | [You Got It Made](https://open.spotify.com/album/1OiIUAjUxe5IMDwVvDtB2e) | 2:11 | 2021-09-01 | 2022-03-05 |
 | [You Look Good](https://open.spotify.com/track/4uUQb3CStwUvv6IVgwcC5q) | [Cartier](https://open.spotify.com/artist/43Nu4ChA6nE5ENwu8f7Jzf) | [You Look Good](https://open.spotify.com/album/6RFHT3QhYPWexBvQAjNVf3) | 1:47 | 2024-09-13 | 2024-12-13 |
+| [YOU READY?!](https://open.spotify.com/track/72qmdZgY95em4rT5nGZV3F) | [detahjae](https://open.spotify.com/artist/7hx5UNqYxEh0RnyWRExG7g), [La Reezy](https://open.spotify.com/artist/2uVTJrWgoWoJmImS2I0KVE), [Garrett Sparrow](https://open.spotify.com/artist/3DnMgnxJt61Y8bWHv2l9qs) | [FLARE](https://open.spotify.com/album/1VyI3EaxZmfc5k51GXBKnJ) | 3:07 | 2025-11-18 |  |
 | [You Wish](https://open.spotify.com/track/0aoLgGE9S9qMjIGtTgpnNd) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [You Wish + Trashboi](https://open.spotify.com/album/04xgq5VLo2p35E09kdKCWv) | 2:00 | 2023-07-14 | 2023-09-09 |
 | [You Wish \(with Missy Elliott & Kaliii\) – Remix](https://open.spotify.com/track/1bUhj0j6akbGxinxsVe6PR) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [You Wish \(with Missy Elliott & Kaliii\) – Remix](https://open.spotify.com/album/5VUeDa4FENhqT8o2fuFdjK) | 2:37 | 2023-09-08 | 2024-02-10 |
 | [Young Black & Rich](https://open.spotify.com/track/2QWin1zM9hxG9zsApuIvso) | [Melly Mike](https://open.spotify.com/artist/16eXn6niv96hqDHgmK6E1M) | [Young Black & Rich](https://open.spotify.com/album/4So2lxknlUUwSVMaPuU1XV) | 2:35 | 2025-07-11 |  |

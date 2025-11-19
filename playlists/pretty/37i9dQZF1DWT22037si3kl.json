@@ -1,6 +1,6 @@
 {
   "description": "pral\u00e9m do que se veste, \u00e9 vc e sua aura. Foto: Senndy",
-  "num_followers": 148474,
+  "num_followers": 148475,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
@@ -423,26 +423,6 @@
     {
       "added_at": "2025-11-07 03:01:18",
       "album": {
-        "name": "DESCE",
-        "url": "https://open.spotify.com/album/2DZtqMtwHC5YCjB3htnGE0"
-      },
-      "artists": [
-        {
-          "name": "Nebrugg",
-          "url": "https://open.spotify.com/artist/2UD8upUvL1eqllSlMpDIeC"
-        },
-        {
-          "name": "Men\u00f3 Felps",
-          "url": "https://open.spotify.com/artist/0J1AS2d5WgvcAyNtxClutP"
-        }
-      ],
-      "duration_ms": 134400,
-      "name": "DESCE",
-      "url": "https://open.spotify.com/track/7Iw0FvlqtXjJaDMN68vMPs"
-    },
-    {
-      "added_at": "2025-11-07 03:01:18",
-      "album": {
         "name": "O Cen\u00e1rio Certo para o Teatro Perfeito",
         "url": "https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D"
       },
@@ -471,6 +451,26 @@
       "duration_ms": 160000,
       "name": "Desfile na Favela",
       "url": "https://open.spotify.com/track/4ODMkKdMusKLAMWolKAchh"
+    },
+    {
+      "added_at": "2025-11-07 03:01:18",
+      "album": {
+        "name": "DESCE",
+        "url": "https://open.spotify.com/album/2DZtqMtwHC5YCjB3htnGE0"
+      },
+      "artists": [
+        {
+          "name": "Nebrugg",
+          "url": "https://open.spotify.com/artist/2UD8upUvL1eqllSlMpDIeC"
+        },
+        {
+          "name": "Men\u00f3 Felps",
+          "url": "https://open.spotify.com/artist/0J1AS2d5WgvcAyNtxClutP"
+        }
+      ],
+      "duration_ms": 134400,
+      "name": "DESCE",
+      "url": "https://open.spotify.com/track/7Iw0FvlqtXjJaDMN68vMPs"
     },
     {
       "added_at": "2025-11-07 03:01:18",
@@ -631,30 +631,6 @@
     {
       "added_at": "2025-11-07 03:01:18",
       "album": {
-        "name": "Emit\u00ea \u00danico On the Radar Freestyle",
-        "url": "https://open.spotify.com/album/09ScvVzN0hafQWry6N9kb7"
-      },
-      "artists": [
-        {
-          "name": "On The Radar",
-          "url": "https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz"
-        },
-        {
-          "name": "Emit\u00ea \u00danico",
-          "url": "https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75"
-        },
-        {
-          "name": "Salve Crazy",
-          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
-        }
-      ],
-      "duration_ms": 138657,
-      "name": "Emit\u00ea \u00danico On the Radar Freestyle",
-      "url": "https://open.spotify.com/track/6zUCh9am6gzewamg135d9J"
-    },
-    {
-      "added_at": "2025-11-07 03:01:18",
-      "album": {
         "name": "SEMR\u00c9H",
         "url": "https://open.spotify.com/album/2xTJzFHszAuE5hAq0Q1Rpw"
       },
@@ -675,6 +651,30 @@
       "duration_ms": 147967,
       "name": "SEMR\u00c9H",
       "url": "https://open.spotify.com/track/2XdFauLk4oDWT1dKLLxFPs"
+    },
+    {
+      "added_at": "2025-11-07 03:01:18",
+      "album": {
+        "name": "Emit\u00ea \u00danico On the Radar Freestyle",
+        "url": "https://open.spotify.com/album/09ScvVzN0hafQWry6N9kb7"
+      },
+      "artists": [
+        {
+          "name": "On The Radar",
+          "url": "https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz"
+        },
+        {
+          "name": "Emit\u00ea \u00danico",
+          "url": "https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75"
+        },
+        {
+          "name": "Salve Crazy",
+          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
+        }
+      ],
+      "duration_ms": 138657,
+      "name": "Emit\u00ea \u00danico On the Radar Freestyle",
+      "url": "https://open.spotify.com/track/6zUCh9am6gzewamg135d9J"
     },
     {
       "added_at": "2025-11-07 03:01:18",

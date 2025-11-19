@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8ttjhONFA1.md) - [plain]
 
 > Sonido independiente y nacional\. Foto: Carolina Donati
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,460 likes - 125 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,457 likes - 125 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "La playlist \u00e0 la cool pour accompagner votre d\u00eener !",
-  "num_followers": 182780,
+  "num_followers": 182794,
   "original_name": "D\u00eener entre amis",
   "owner": {
     "name": "Spotify",
@@ -579,6 +579,38 @@
     {
       "added_at": "2025-11-14 15:00:00",
       "album": {
+        "name": "This Is The World (I Made It For You) / Nice Day",
+        "url": "https://open.spotify.com/album/4vWx8nV08q3lSTpwZJZQMf"
+      },
+      "artists": [
+        {
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+        }
+      ],
+      "duration_ms": 281786,
+      "name": "This Is The World (I Made It For You)",
+      "url": "https://open.spotify.com/track/6xgNV9489zKLRXnvpiZQXJ"
+    },
+    {
+      "added_at": "2025-11-14 15:00:00",
+      "album": {
+        "name": "I Got Dem Ol' Kozmic Blues Again Mama!",
+        "url": "https://open.spotify.com/album/5rFRfDq52l2l5RtS5kxA9A"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 221790,
+      "name": "Maybe",
+      "url": "https://open.spotify.com/track/0xGSeBsG4V8Scc5YqpZQ66"
+    },
+    {
+      "added_at": "2025-11-14 15:00:00",
+      "album": {
         "name": "found u/me",
         "url": "https://open.spotify.com/album/2GFo9R1vPgwrkWxRPwvz6p"
       },
@@ -591,6 +623,22 @@
       "duration_ms": 169818,
       "name": "found u/me",
       "url": "https://open.spotify.com/track/5LzTzcMwn1YhzPSLkYlNnX"
+    },
+    {
+      "added_at": "2025-11-14 15:00:00",
+      "album": {
+        "name": "Sunny",
+        "url": "https://open.spotify.com/album/7JgO7n3YCFeYN2RmR5A2Bh"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 157333,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/42AsgO0005lineLVc1aSOL"
     },
     {
       "added_at": "2025-11-14 15:00:00",
@@ -611,38 +659,6 @@
       "duration_ms": 215446,
       "name": "Only You",
       "url": "https://open.spotify.com/track/2rDwETmcGw4ZqbuXvLQmDL"
-    },
-    {
-      "added_at": "2025-11-14 15:00:00",
-      "album": {
-        "name": "I Got Dem Ol' Kozmic Blues Again Mama!",
-        "url": "https://open.spotify.com/album/5rFRfDq52l2l5RtS5kxA9A"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 219133,
-      "name": "Maybe",
-      "url": "https://open.spotify.com/track/0xGSeBsG4V8Scc5YqpZQ66"
-    },
-    {
-      "added_at": "2025-11-14 15:00:00",
-      "album": {
-        "name": "Sunny",
-        "url": "https://open.spotify.com/album/7JgO7n3YCFeYN2RmR5A2Bh"
-      },
-      "artists": [
-        {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-        }
-      ],
-      "duration_ms": 157333,
-      "name": "Sunny",
-      "url": "https://open.spotify.com/track/42AsgO0005lineLVc1aSOL"
     },
     {
       "added_at": "2025-11-14 15:00:00",
@@ -699,22 +715,6 @@
       "duration_ms": 154240,
       "name": "I Wonder",
       "url": "https://open.spotify.com/track/2zrtp9krR2IyT9mi2PaIBC"
-    },
-    {
-      "added_at": "2025-11-14 15:00:00",
-      "album": {
-        "name": "This Is The World (I Made It For You) / Nice Day",
-        "url": "https://open.spotify.com/album/4vWx8nV08q3lSTpwZJZQMf"
-      },
-      "artists": [
-        {
-          "name": "Magdalena Bay",
-          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
-        }
-      ],
-      "duration_ms": 281786,
-      "name": "This Is The World (I Made It For You)",
-      "url": "https://open.spotify.com/track/6xgNV9489zKLRXnvpiZQXJ"
     },
     {
       "added_at": "2025-11-14 15:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2025-11-14 15:00:00",
       "album": {
-        "name": "The Fantastic Sound Of",
-        "url": "https://open.spotify.com/album/7MfKFpCQp7v26ZOHcXbmwE"
-      },
-      "artists": [
-        {
-          "name": "Gunter Kallmann Choir",
-          "url": "https://open.spotify.com/artist/4m9LpZ5l3CEdEhA8W9f29g"
-        }
-      ],
-      "duration_ms": 199733,
-      "name": "Daydream",
-      "url": "https://open.spotify.com/track/0F6pFZDlQSiQBWsjQZFbTH"
-    },
-    {
-      "added_at": "2025-11-14 15:00:00",
-      "album": {
         "name": "davina mccall",
         "url": "https://open.spotify.com/album/1tqnxJ9J0mbOv9deIp4wwf"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 227794,
       "name": "davina mccall",
       "url": "https://open.spotify.com/track/1a7ZPKYilBFgAX05MmDeBM"
+    },
+    {
+      "added_at": "2025-11-14 15:00:00",
+      "album": {
+        "name": "The Fantastic Sound Of",
+        "url": "https://open.spotify.com/album/7MfKFpCQp7v26ZOHcXbmwE"
+      },
+      "artists": [
+        {
+          "name": "Gunter Kallmann Choir",
+          "url": "https://open.spotify.com/artist/4m9LpZ5l3CEdEhA8W9f29g"
+        }
+      ],
+      "duration_ms": 199733,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/0F6pFZDlQSiQBWsjQZFbTH"
     },
     {
       "added_at": "2025-11-14 15:00:00",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2025-11-14 15:00:00",
       "album": {
-        "name": "10K",
-        "url": "https://open.spotify.com/album/212Kb9Hs920AxlxhAo7wAV"
+        "name": "La Llorona",
+        "url": "https://open.spotify.com/album/7J8k8Y7zfCFKMPWzUPGVuP"
       },
       "artists": [
         {
-          "name": "Electric Guest",
-          "url": "https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs"
+          "name": "Lhasa De Sela",
+          "url": "https://open.spotify.com/artist/3IbqRfvnvj5C22pHD38KXI"
         }
       ],
-      "duration_ms": 194403,
-      "name": "Creator",
-      "url": "https://open.spotify.com/track/1ArcaROoVptChgQuUbsttl"
+      "duration_ms": 255360,
+      "name": "De Cara a la Pared",
+      "url": "https://open.spotify.com/track/3mnSq0DGKWTZcU3ccymC79"
     },
     {
       "added_at": "2025-11-14 15:00:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2025-11-14 15:00:00",
       "album": {
-        "name": "La Llorona",
-        "url": "https://open.spotify.com/album/7J8k8Y7zfCFKMPWzUPGVuP"
-      },
-      "artists": [
-        {
-          "name": "Lhasa De Sela",
-          "url": "https://open.spotify.com/artist/3IbqRfvnvj5C22pHD38KXI"
-        }
-      ],
-      "duration_ms": 255360,
-      "name": "De Cara a la Pared",
-      "url": "https://open.spotify.com/track/3mnSq0DGKWTZcU3ccymC79"
-    },
-    {
-      "added_at": "2025-11-14 15:00:00",
-      "album": {
         "name": "JET LAGGED",
         "url": "https://open.spotify.com/album/1MqVWu2QqonaSzlpaBLKwV"
       },
@@ -1303,6 +1287,22 @@
     {
       "added_at": "2025-11-14 15:00:00",
       "album": {
+        "name": "10K",
+        "url": "https://open.spotify.com/album/212Kb9Hs920AxlxhAo7wAV"
+      },
+      "artists": [
+        {
+          "name": "Electric Guest",
+          "url": "https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs"
+        }
+      ],
+      "duration_ms": 194403,
+      "name": "Creator",
+      "url": "https://open.spotify.com/track/1ArcaROoVptChgQuUbsttl"
+    },
+    {
+      "added_at": "2025-11-14 15:00:00",
+      "album": {
         "name": "Bloodline",
         "url": "https://open.spotify.com/album/6w9KqIfC7zIoKmdJgs9yBA"
       },
@@ -1315,6 +1315,22 @@
       "duration_ms": 170453,
       "name": "Blame",
       "url": "https://open.spotify.com/track/27dM3Oji0ytPXDYGVwDoJj"
+    },
+    {
+      "added_at": "2025-11-14 15:00:00",
+      "album": {
+        "name": "Edge of the Earth",
+        "url": "https://open.spotify.com/album/1WljWKt77EMsgjRdnMfUHN"
+      },
+      "artists": [
+        {
+          "name": "Skott",
+          "url": "https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc"
+        }
+      ],
+      "duration_ms": 220348,
+      "name": "Edge of the Earth",
+      "url": "https://open.spotify.com/track/3GzhyEkF7m89mVv3BUJh8N"
     },
     {
       "added_at": "2025-11-14 15:00:00",
@@ -1335,22 +1351,6 @@
       "duration_ms": 250600,
       "name": "Somebody That I Used to Know",
       "url": "https://open.spotify.com/track/0kQavaJGqio24iCOHyM6aa"
-    },
-    {
-      "added_at": "2025-11-14 15:00:00",
-      "album": {
-        "name": "Edge of the Earth",
-        "url": "https://open.spotify.com/album/1WljWKt77EMsgjRdnMfUHN"
-      },
-      "artists": [
-        {
-          "name": "Skott",
-          "url": "https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc"
-        }
-      ],
-      "duration_ms": 220348,
-      "name": "Edge of the Earth",
-      "url": "https://open.spotify.com/track/3GzhyEkF7m89mVv3BUJh8N"
     },
     {
       "added_at": "2025-11-14 15:00:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2025-11-14 15:00:00",
       "album": {
-        "name": "Yellow Brick Road",
-        "url": "https://open.spotify.com/album/23AaCgxiZqSapLnnIvmW3K"
-      },
-      "artists": [
-        {
-          "name": "Quinn XCII",
-          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
-        }
-      ],
-      "duration_ms": 152062,
-      "name": "Yellow Brick Road",
-      "url": "https://open.spotify.com/track/3pEOD1EmWMAPRDmBxg299G"
-    },
-    {
-      "added_at": "2025-11-14 15:00:00",
-      "album": {
         "name": "Give Me Your Love Back",
         "url": "https://open.spotify.com/album/4r1zRFQ6pgIPFid4U7ztUO"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 176097,
       "name": "Give Me Your Love Back",
       "url": "https://open.spotify.com/track/070mI5fDgAV77ZBrmoAcfs"
+    },
+    {
+      "added_at": "2025-11-14 15:00:00",
+      "album": {
+        "name": "Yellow Brick Road",
+        "url": "https://open.spotify.com/album/23AaCgxiZqSapLnnIvmW3K"
+      },
+      "artists": [
+        {
+          "name": "Quinn XCII",
+          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
+        }
+      ],
+      "duration_ms": 152062,
+      "name": "Yellow Brick Road",
+      "url": "https://open.spotify.com/track/3pEOD1EmWMAPRDmBxg299G"
     },
     {
       "added_at": "2025-11-14 15:00:00",

@@ -1,29 +1,13 @@
 {
   "description": "This is Dean Martin. The essential tracks, all in one playlist.",
-  "num_followers": 126816,
+  "num_followers": 126820,
   "original_name": "This Is Dean Martin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRkUAAAAAAC7agXaPhUe5T1F8Lv3Bt4r",
+  "snapshot_id": "aRplgAAAAAA9rcH/JM7k8Z0f+FFuo6w0",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "This Is Dean Martin",
-        "url": "https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 181626,
-      "name": "Volare (Nel Blu Di Pinto Di Blu) - Remastered 1998",
-      "url": "https://open.spotify.com/track/5OkKOkdVTKFrYi6GWXkMzR"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 133933,
       "name": "You're Nobody 'Til Somebody Loves You - Remastered/1997",
       "url": "https://open.spotify.com/track/4WUcNkpoNSKoe5MUuyzrfC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Is Dean Martin",
+        "url": "https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 181626,
+      "name": "Volare (Nel Blu Di Pinto Di Blu) - Remastered 1998",
+      "url": "https://open.spotify.com/track/5OkKOkdVTKFrYi6GWXkMzR"
     },
     {
       "added_at": null,
@@ -75,6 +75,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "This Time I'm Swingin'",
+        "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 221413,
+      "name": "On The Street Where You Live - Remastered 1998",
+      "url": "https://open.spotify.com/track/6qMMQzYTKabamnMPlCmfxb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Capitol Years",
         "url": "https://open.spotify.com/album/6bpCpvLc2xHLN1Qnx6rzaI"
       },
@@ -91,22 +107,6 @@
       "duration_ms": 145800,
       "name": "Ain't That A Kick In The Head",
       "url": "https://open.spotify.com/track/3ZpTyU4mF3PR9jLpFA3AAC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "This Time I'm Swingin'",
-        "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 221413,
-      "name": "On The Street Where You Live - Remastered 1998",
-      "url": "https://open.spotify.com/track/6qMMQzYTKabamnMPlCmfxb"
     },
     {
       "added_at": null,
@@ -271,8 +271,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Capitol Years",
-        "url": "https://open.spotify.com/album/6bpCpvLc2xHLN1Qnx6rzaI"
+        "name": "At The Movies",
+        "url": "https://open.spotify.com/album/6Dsdu27CRQNlDvs3jF7BLK"
       },
       "artists": [
         {
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 145600,
-      "name": "Innamorata (Sweetheart) - Remastered",
-      "url": "https://open.spotify.com/track/5QqaUAYLJCaTaChZlu0PU5"
+      "duration_ms": 168466,
+      "name": "My Rifle, My Pony And Me - Remastered",
+      "url": "https://open.spotify.com/track/0dG69tIjOO6DSltDSINNOJ"
     },
     {
       "added_at": null,
@@ -319,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "At The Movies",
-        "url": "https://open.spotify.com/album/6Dsdu27CRQNlDvs3jF7BLK"
+        "name": "The Capitol Years",
+        "url": "https://open.spotify.com/album/6bpCpvLc2xHLN1Qnx6rzaI"
       },
       "artists": [
         {
@@ -328,15 +328,15 @@
           "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 168466,
-      "name": "My Rifle, My Pony And Me - Remastered",
-      "url": "https://open.spotify.com/track/0dG69tIjOO6DSltDSINNOJ"
+      "duration_ms": 145600,
+      "name": "Innamorata (Sweetheart) - Remastered",
+      "url": "https://open.spotify.com/track/5QqaUAYLJCaTaChZlu0PU5"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Italian Love Songs",
-        "url": "https://open.spotify.com/album/5IRbN6WBo1ZMpOkbQdTF10"
+        "name": "(Remember Me) I'm the One That Loves You",
+        "url": "https://open.spotify.com/album/5tG8Yo4TbHyzirUGDq02xK"
       },
       "artists": [
         {
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 161800,
-      "name": "Arrivederci Roma - Remastered 1998",
-      "url": "https://open.spotify.com/track/6PHtklwObDCFCY7FDm10Wj"
+      "duration_ms": 145640,
+      "name": "King of the Road",
+      "url": "https://open.spotify.com/track/1swJ3f1M4HL4qLOp2phhcq"
     },
     {
       "added_at": null,
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "(Remember Me) I'm the One That Loves You",
-        "url": "https://open.spotify.com/album/5tG8Yo4TbHyzirUGDq02xK"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 142893,
-      "name": "King of the Road",
-      "url": "https://open.spotify.com/track/1swJ3f1M4HL4qLOp2phhcq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "This Is Dean Martin",
         "url": "https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX"
       },
@@ -399,6 +383,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Italian Love Songs",
+        "url": "https://open.spotify.com/album/5IRbN6WBo1ZMpOkbQdTF10"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 161800,
+      "name": "Arrivederci Roma - Remastered 1998",
+      "url": "https://open.spotify.com/track/6PHtklwObDCFCY7FDm10Wj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Reprise Years",
         "url": "https://open.spotify.com/album/6anBFHbt3PaNwDKWbsVkzG"
       },
@@ -411,22 +411,6 @@
       "duration_ms": 156173,
       "name": "Gentle on My Mind",
       "url": "https://open.spotify.com/track/0znQyUrJwmuLenUzJXawEY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Italian Love Songs",
-        "url": "https://open.spotify.com/album/5IRbN6WBo1ZMpOkbQdTF10"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 185773,
-      "name": "Non Dimenticar - Remastered 1998",
-      "url": "https://open.spotify.com/track/0M7yY7udI6Cj2RzIXUVNg7"
     },
     {
       "added_at": null,
@@ -467,6 +451,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Italian Love Songs",
+        "url": "https://open.spotify.com/album/5IRbN6WBo1ZMpOkbQdTF10"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 185773,
+      "name": "Non Dimenticar - Remastered 1998",
+      "url": "https://open.spotify.com/track/0M7yY7udI6Cj2RzIXUVNg7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dean Martin: The Capitol Recordings, Vol. 3 (1951-1952)",
         "url": "https://open.spotify.com/album/2Kk2yOUlO23aSwwJBTeXPu"
       },
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Italian Love Songs",
-        "url": "https://open.spotify.com/album/5IRbN6WBo1ZMpOkbQdTF10"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 146360,
-      "name": "Vieni Su (Say You Love Me, Too) - Remastered 1998",
-      "url": "https://open.spotify.com/track/0jH9nmgFuW8Ga7ewfYQgwX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "This Is Dean Martin",
         "url": "https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 177520,
       "name": "Promise Her Anything - 1998 Digital Remaster",
       "url": "https://open.spotify.com/track/4UXSAkJHUU8SYwpux3ikRq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Italian Love Songs",
+        "url": "https://open.spotify.com/album/5IRbN6WBo1ZMpOkbQdTF10"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 146360,
+      "name": "Vieni Su (Say You Love Me, Too) - Remastered 1998",
+      "url": "https://open.spotify.com/track/0jH9nmgFuW8Ga7ewfYQgwX"
     },
     {
       "added_at": null,
@@ -724,7 +724,7 @@
           "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 139386,
+      "duration_ms": 142129,
       "name": "Welcome to My World",
       "url": "https://open.spotify.com/track/66Gt2H63ctSt3968rvbGJe"
     },
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Country Style",
-        "url": "https://open.spotify.com/album/5jZjP2dKKHILInEP99iHyt"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Things",
-      "url": "https://open.spotify.com/track/5kkuFmsiEYlDXHoCWLey4B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dean Martin: The Capitol Recordings, Vol. 6 (1955-1956)",
         "url": "https://open.spotify.com/album/6jq5UCuuPwaCZIwLQlLhT6"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 176960,
       "name": "In Napoli",
       "url": "https://open.spotify.com/track/6hqopvCkT7JW6sSwMw2tFD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Country Style",
+        "url": "https://open.spotify.com/album/5jZjP2dKKHILInEP99iHyt"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Things",
+      "url": "https://open.spotify.com/track/5kkuFmsiEYlDXHoCWLey4B"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > The biggest songs of the 1960s\. Cover: Aretha Franklin
 
-854 songs - 1 day 20 hr 44 min
+854 songs - 1 day 20 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -456,7 +456,7 @@
 | [Mama Tried \- Remastered 2001](https://open.spotify.com/track/1FTlLpP6V05yJWmcIg0rlK) | [Merle Haggard & The Strangers](https://open.spotify.com/artist/3mSAqBoXQgdlpwzWsIgBzL) | [Mama Tried](https://open.spotify.com/album/0f6Gx3lFLqdcY8XSXMKgCm) | 2:12 | 2019-07-17 | 2019-08-10 |
 | [Mas, Que Nada!](https://open.spotify.com/track/6U03Orwr5Dxt8jahLnQpYV) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Samba Esquema Novo](https://open.spotify.com/album/3xWp6y0HGsHZlXljNs7VRy) | 2:59 | 2019-07-18 | 2019-08-02 |
 | [Massachusetts \(2008 Remastered LP Version\)](https://open.spotify.com/track/1mBPlknQe00PCd7R9g34ix) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Best Of Bee Gees, Vol\. 1](https://open.spotify.com/album/0YD5pkRnCzXeCM2z8YlvjU) | 2:25 | 2019-05-29 | 2022-07-29 |
-| [Maybe](https://open.spotify.com/track/0xGSeBsG4V8Scc5YqpZQ66) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [I Got Dem Ol' Kozmic Blues Again Mama!](https://open.spotify.com/album/5rFRfDq52l2l5RtS5kxA9A) | 3:39 | 2022-08-12 |  |
+| [Maybe](https://open.spotify.com/track/0xGSeBsG4V8Scc5YqpZQ66) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [I Got Dem Ol' Kozmic Blues Again Mama!](https://open.spotify.com/album/5rFRfDq52l2l5RtS5kxA9A) | 3:41 | 2022-08-12 |  |
 | [Me and Bobby McGee](https://open.spotify.com/track/1IqFh00G2kvvMm8pRMpehA) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Pearl \(Legacy Edition\)](https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf) | 4:31 | 2019-05-26\* | 2020-06-12 |
 | [Mellow Yellow](https://open.spotify.com/track/7weLWbJdUz7ZQR4ZJX6l59) | [Donovan](https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG) | [Donovan's Greatest Hits](https://open.spotify.com/album/5e5IDfnzjsYXQPnWk6CggM) | 3:40 | 2019-07-21 | 2022-06-21 |
 | [Mercy, Mercy, Mercy \- Live](https://open.spotify.com/track/11zSX1BLCSxmbJxsZ9Yg15) | [The Cannonball Adderley Quintet](https://open.spotify.com/artist/2o346NHhUAlVxl5uXBVxK7) | [Mercy, Mercy, Mercy \(Live\)](https://open.spotify.com/album/6Utj0CAgAWsPLFCVfaqDnB) | 5:10 | 2019-07-18 | 2020-08-15 |
@@ -674,7 +674,7 @@
 | [Surfin' Bird](https://open.spotify.com/track/58iN7HVZWCEfKhHmjYspcI) | [The Trashmen](https://open.spotify.com/artist/5QEA3sofVt5QckQA6QX2nN) | [Surfin' Bird Bird Dance Beat](https://open.spotify.com/album/6T2ZwfmmQ0EFvFMz2biYpj) | 2:14 | 2019-07-21 | 2019-08-08 |
 | [Surfin' Bird](https://open.spotify.com/track/7EjyzZcbLxW7PaaLua9Ksb) | [The Trashmen](https://open.spotify.com/artist/5QEA3sofVt5QckQA6QX2nN) | [Full Metal Jacket \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3tpJtzZm4Urb0n2ITN5mwF) | 2:17 | 2020-12-22 | 2021-05-28 |
 | [Surfin' U.S.A\. \- Remastered 2001](https://open.spotify.com/track/0wz1LjDb9ZNEYwOmDJ3Q4b) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surfin' USA \(Remastered\)](https://open.spotify.com/album/6u5tGarzvESDsQiIpC4SlI) | 2:29 | 2019-05-29 |  |
-| [Suspicious Minds](https://open.spotify.com/track/1H5IfYyIIAlgDX8zguUzns) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [From Elvis in Memphis](https://open.spotify.com/album/3ekkFrfotMsEAKc5g71GHk) | 4:21 | 2024-12-27 |  |
+| [Suspicious Minds](https://open.spotify.com/track/1H5IfYyIIAlgDX8zguUzns) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [From Elvis in Memphis](https://open.spotify.com/album/3ekkFrfotMsEAKc5g71GHk) | 4:23 | 2024-12-27 |  |
 | [Suspicious Minds](https://open.spotify.com/track/6KDG8vvFerlCU63IXdw1zb) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis 30 \#1 Hits](https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc) | 4:32 | 2019-05-26\* | 2024-12-28 |
 | [Suzanne](https://open.spotify.com/track/2L93TdW2GMue1H2zlkt30F) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [Songs Of Leonard Cohen](https://open.spotify.com/album/2Aiv0ThDpFa7lqHphR6MN5) | 3:49 | 2019-06-25 | 2025-08-04 |
 | [Sway \(Quien Sera\)](https://open.spotify.com/track/4nbILrYODP667b3d66ZMzI) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Hey, Brother Pour The Wine](https://open.spotify.com/album/4FGYCziMpKskiKoujCTMj8) | 2:42 | 2020-08-22 |  |
@@ -697,7 +697,7 @@
 | [The Ballad of Bonnie & Clyde](https://open.spotify.com/track/1C2K7ouw8OYXVThAnSXID9) | [Georgie Fame](https://open.spotify.com/artist/5rWKAmlxinr3muqedXVIHa) | [The Third Face Of Fame](https://open.spotify.com/album/3MGdCtzNd66E1JTMJgw8hk) | 3:09 | 2019-07-21 | 2019-08-27 |
 | [The Beat Goes On](https://open.spotify.com/track/0hQKFsaBDy7Q9HJvD9kTTr) | [Sonny & Cher](https://open.spotify.com/artist/71lGEtP9qYXDsSXjfexTqO) | [60's Pop Jukebox](https://open.spotify.com/album/3ZBHqU1ut0qnYVJGEqaBa2) | 3:28 | 2019-06-06 | 2019-08-05 |
 | [The Birds and the Bees](https://open.spotify.com/track/2PNBLcmRZn83z6MjhYynQC) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [\(Remember Me\) I'm the One That Loves You](https://open.spotify.com/album/5tG8Yo4TbHyzirUGDq02xK) | 2:06 | 2019-06-23 | 2021-10-11 |
-| [The Boxer](https://open.spotify.com/track/76TZCvJ8GitQ2FA1q5dKu0) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bridge Over Troubled Water](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) | 5:08 | 2019-05-26\* |  |
+| [The Boxer](https://open.spotify.com/track/76TZCvJ8GitQ2FA1q5dKu0) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bridge Over Troubled Water](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) | 5:12 | 2019-05-26\* |  |
 | [The End](https://open.spotify.com/track/5UgT7w6zVZjP3oyawMzbiK) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Doors](https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn) | 11:43 | 2019-07-22 | 2019-08-27 |
 | [The End of the World](https://open.spotify.com/track/5DTOOkooKFUvWj1XQTFa09) | [Skeeter Davis](https://open.spotify.com/artist/5b2OzvLaL6nyxw5pbVbSdy) | [The Essential Skeeter Davis](https://open.spotify.com/album/3KwArr7JHl7ykUNYrrja7N) | 2:37 | 2019-06-27 |  |
 | [The First Time Ever I Saw Your Face](https://open.spotify.com/track/0SxFyA4FqmEQqZVuAlg8lf) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [First Take](https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F) | 4:20 | 2019-06-24 |  |

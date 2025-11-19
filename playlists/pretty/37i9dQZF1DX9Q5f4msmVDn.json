@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/archdvs/\">Archie Davis</a>",
-  "num_followers": 23936,
+  "num_followers": 23937,
   "original_name": "Archie Davis' Taste",
   "owner": {
     "name": "Spotify",
@@ -627,26 +627,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Lay Wit Ya (feat. Duke Deuce)",
-        "url": "https://open.spotify.com/album/0Y3NDVXecRTw8quOVxBBZ9"
-      },
-      "artists": [
-        {
-          "name": "Isaiah Rashad",
-          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
-        },
-        {
-          "name": "Duke Deuce",
-          "url": "https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW"
-        }
-      ],
-      "duration_ms": 202331,
-      "name": "Lay Wit Ya (feat. Duke Deuce)",
-      "url": "https://open.spotify.com/track/0RlsFYqkOzlg4ZxVQs9YJA"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Fan-Tas-Tic, Vol. 2",
         "url": "https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 194999,
       "name": "We Win (Space Jam: A New Legacy) (and Kirk Franklin)",
       "url": "https://open.spotify.com/track/4Y9BJZccHjVdHUkee0pBRa"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Lay Wit Ya (feat. Duke Deuce)",
+        "url": "https://open.spotify.com/album/0Y3NDVXecRTw8quOVxBBZ9"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Rashad",
+          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
+        },
+        {
+          "name": "Duke Deuce",
+          "url": "https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW"
+        }
+      ],
+      "duration_ms": 202331,
+      "name": "Lay Wit Ya (feat. Duke Deuce)",
+      "url": "https://open.spotify.com/track/0RlsFYqkOzlg4ZxVQs9YJA"
     },
     {
       "added_at": "2022-10-01 16:00:00",

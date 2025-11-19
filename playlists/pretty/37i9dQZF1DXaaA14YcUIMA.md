@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaA14YcUIMA.md) - [plain]
 
 > Anda pa'lante galopante con los grandes del género romántico\. Los Temerarios en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 623,379 likes - 125 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 623,644 likes - 125 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaA14YcUIMA.md) - [plain]
 | 52 | [Perdón Por Tus Lágrimas](https://open.spotify.com/track/3YoLl2RHRhzKg3WhpaFRES) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [Siempre Te Amaré](https://open.spotify.com/album/2vBkgzqbxptOQOnFqwJHos) | 3:57 |
 | 53 | [No Tengo Lágrimas](https://open.spotify.com/track/1uCpYmJNFuU7TuXsL45fgH) | [Ladron](https://open.spotify.com/artist/32BLNtPX18499VCjsUiFj1) | [Tú Me Quieres Lastimar](https://open.spotify.com/album/1iXk5Xg8ZhzfWQdbFxbyVE) | 2:47 |
 | 54 | [Ni El Primero Ni El Último](https://open.spotify.com/track/5s5K4wDAyhKr9KANDwt1xI) | [Los Rehenes](https://open.spotify.com/artist/5IaAggho4F1gWHE5REe1e8) | [Pregúntame A Mi](https://open.spotify.com/album/0HHGcxzBZPPXvS58Jnyc8k) | 2:54 |
-| 55 | [Quien](https://open.spotify.com/track/3gcDZpRcPnRgmP3EguPv6K) | [Los Strwck](https://open.spotify.com/artist/6ZzvGogdwGvqkTeDX1RDKL) | [Solo Para Ti](https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk) | 3:01 |
-| 56 | [Quiéreme Más](https://open.spotify.com/track/3pFenid397ZiUWJKGW668V) | [Grupo Modelo](https://open.spotify.com/artist/1wJ2aDtLBcymSre3vQUBoG) | [Quieréme Más](https://open.spotify.com/album/2wsCHBk0u8GntU6sWCF14j) | 3:58 |
+| 55 | [Quiéreme Más](https://open.spotify.com/track/3pFenid397ZiUWJKGW668V) | [Grupo Modelo](https://open.spotify.com/artist/1wJ2aDtLBcymSre3vQUBoG) | [Quieréme Más](https://open.spotify.com/album/2wsCHBk0u8GntU6sWCF14j) | 3:58 |
+| 56 | [Quien](https://open.spotify.com/track/3gcDZpRcPnRgmP3EguPv6K) | [Los Strwck](https://open.spotify.com/artist/6ZzvGogdwGvqkTeDX1RDKL) | [Solo Para Ti](https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk) | 3:01 |
 | 57 | [Un Dolor](https://open.spotify.com/track/17CjK3UlTIKqklXjOf9mIc) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [Los Yonic's](https://open.spotify.com/album/1n9JO1nI25yEpiqhie0bpt) | 3:12 |
 | 58 | [Enamorado De Tus Ojos](https://open.spotify.com/track/18aKiLS41s7J5RqfAVm9l5) | [Industria del Amor](https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw) | [Para Ti](https://open.spotify.com/album/6vKTeSlxFAq1vh3Ajz35CM) | 3:38 |
 | 59 | [Un Día Sin Ti](https://open.spotify.com/track/0d84xhPNswA2pckcvtzQlV) | [Samuray](https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8) | [Un Día Sin Ti](https://open.spotify.com/album/5bsMdv3Jx9RYsTVMRyuYw8) | 3:34 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaA14YcUIMA.md) - [plain]
 | 74 | [Limosnero De Cariño](https://open.spotify.com/track/12wge7SE8mvrJRPvgH5Jw6) | [Los Rehenes](https://open.spotify.com/artist/5IaAggho4F1gWHE5REe1e8) | [Grandes Éxitos Remezclados Y Remasterizados](https://open.spotify.com/album/6LSJiYBx30s3rMhgUGJPCs) | 3:12 |
 | 75 | [El primer tonto](https://open.spotify.com/track/0MnAe95wZXodQ27X4xmmPi) | [Los Freddy's](https://open.spotify.com/artist/6Pg8M1zA3uDn0h5IOFc3pe) | [Antología\. \. \. Los Freddy's](https://open.spotify.com/album/4294yJuL3aiuMLosQV9Mta) | 3:03 |
 | 76 | [Fuiste Mala](https://open.spotify.com/track/5LNYnwMBaqUkNmTiPbRsoY) | [A.B\. Quintanilla III Y Los Kumbia Kings](https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL), [Ricardo Muñoz](https://open.spotify.com/artist/4uIopkxtCr4XkXtDVSEBYq) | [A.B\. Quintanilla III & Kumbia Kumbia Kings Present The Duets](https://open.spotify.com/album/05CvQnHFWD0JrII6bfM07e) | 3:18 |
-| 77 | [Es Que Te Amo](https://open.spotify.com/track/201DoWLysj5vR8va945CCW) | [Los Fugitivos](https://open.spotify.com/artist/4S7UxwDIG6o3FJkcGPdaBq) | [Vanidosa](https://open.spotify.com/album/0Vqmm3BrCwMeo79WVZz5Gs) | 3:04 |
-| 78 | [Qué Bonito](https://open.spotify.com/track/60pVBdslwbfdr38i34yhUq) | [Los Mismos](https://open.spotify.com/artist/7nkBA0CcBFVR78vPhgcTa7) | [Ven A Mi Mundo](https://open.spotify.com/album/5tFsnxxlmSVqYCFpoJnLCd) | 3:27 |
+| 77 | [Qué Bonito](https://open.spotify.com/track/60pVBdslwbfdr38i34yhUq) | [Los Mismos](https://open.spotify.com/artist/7nkBA0CcBFVR78vPhgcTa7) | [Ven A Mi Mundo](https://open.spotify.com/album/5tFsnxxlmSVqYCFpoJnLCd) | 3:27 |
+| 78 | [Es Que Te Amo](https://open.spotify.com/track/201DoWLysj5vR8va945CCW) | [Los Fugitivos](https://open.spotify.com/artist/4S7UxwDIG6o3FJkcGPdaBq) | [Vanidosa](https://open.spotify.com/album/0Vqmm3BrCwMeo79WVZz5Gs) | 3:04 |
 | 79 | [Cosas Buenas Que Parecen Malas](https://open.spotify.com/track/22gj9wemYAZa74lfk38eqN) | [Los Rehenes](https://open.spotify.com/artist/5IaAggho4F1gWHE5REe1e8) | [Grandes Éxitos Remezclados Y Remasterizados](https://open.spotify.com/album/6LSJiYBx30s3rMhgUGJPCs) | 2:49 |
 | 80 | [Muñeca de Ojos de Miel](https://open.spotify.com/track/7DhWwtEQDFvl6Fw3v3YcKN) | [Los Mier](https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ) | [Desde El Corazon](https://open.spotify.com/album/6f0iQNDK9xsmaWfiuhFUj5) | 3:19 |
 | 81 | [Disculpe Usted](https://open.spotify.com/track/3aumACX4YG7UB38T0q8hbN) | [Los Humildes](https://open.spotify.com/artist/6SvtFKeZVpC4VTq5HQf7zm) | [Solo Lo Nuestro](https://open.spotify.com/album/2yo3ruhpe7BJHf5NTECIjM) | 2:51 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaA14YcUIMA.md) - [plain]
 | 89 | [Notas De Sociedad](https://open.spotify.com/track/5PnGn9vbyCzHKNT2PpFeR0) | [Los Mier](https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ) | [Por Siempre](https://open.spotify.com/album/1bImnfk8i3lgo4XNyqoV8l) | 3:01 |
 | 90 | [Dame un Beso y Dime Adiós](https://open.spotify.com/track/1ysGXIszdrfCtyALss67QP) | [Guardianes Del Amor](https://open.spotify.com/artist/3NLDQVyI2LVtQFJt8JeAAx) | [Lo Mas Romantico De Ayer Con Los Mas Romanticos De Hoy](https://open.spotify.com/album/3It5f5lrSbIRS97VcFfJZc) | 3:38 |
 | 91 | [El Golpe Traidor](https://open.spotify.com/track/6P1G57zOECV3NYGChOan7U) | [Los Saylors](https://open.spotify.com/artist/6yoDVUyg5264OoQuXSPIzu) | [El Golpe Traidor](https://open.spotify.com/album/33AtEHrFcAgqtcfL3vM6Vo) | 3:05 |
-| 92 | [Hay Otro Amor En Tu Lugar](https://open.spotify.com/track/4sGuUITG73yQwLliCuibQv) | [El Golpe](https://open.spotify.com/artist/3evCl0XUunm8x6MBd7MSnD) | [Morir Contigo](https://open.spotify.com/album/1o45pgbPbUoZsLltuRVUYR) | 2:29 |
-| 93 | [El Puente de Piedra](https://open.spotify.com/track/08ksJGciam3UJhNdVJ7I4S) | [Los Chicanos](https://open.spotify.com/artist/4CtmyXgladHink6882NHrX) | [Tesoros De Coleccion \- Los Chicanos](https://open.spotify.com/album/5c7uq6KnmD5f8I51dvjY0u) | 3:40 |
+| 92 | [El Puente de Piedra](https://open.spotify.com/track/08ksJGciam3UJhNdVJ7I4S) | [Los Chicanos](https://open.spotify.com/artist/4CtmyXgladHink6882NHrX) | [Tesoros De Coleccion \- Los Chicanos](https://open.spotify.com/album/5c7uq6KnmD5f8I51dvjY0u) | 3:40 |
+| 93 | [Hay Otro Amor En Tu Lugar](https://open.spotify.com/track/4sGuUITG73yQwLliCuibQv) | [El Golpe](https://open.spotify.com/artist/3evCl0XUunm8x6MBd7MSnD) | [Morir Contigo](https://open.spotify.com/album/1o45pgbPbUoZsLltuRVUYR) | 2:29 |
 | 94 | [Muchacha Triste](https://open.spotify.com/track/5aJtDBC3y4jyK63Af8yFbX) | [Los Fantasmas del Caribe](https://open.spotify.com/artist/3h3fPrG6WOJ38FUUpgAiha) | [Caramelo](https://open.spotify.com/album/1WgwIZMerQkpGMTesIlBHX) | 4:04 |
 | 95 | [Una Lagrima y un Recuerdo](https://open.spotify.com/track/3PqXGMO8t9lpGN6g8YBUuV) | [Grupo Miramar](https://open.spotify.com/artist/4QGAXPnVeZWcJ82CgUsgcK) | [Album de Platino..\. 20 Super Exitos](https://open.spotify.com/album/0ft9IayGb8o8Ix79tG6vNq) | 2:54 |
 | 96 | [Melodia Desencadenada](https://open.spotify.com/track/4wpIWC2jNrGEcDjgXvsUsf) | [Grupo Pegasso](https://open.spotify.com/artist/00YglmekVqqlHbv8N8erfv) | [Soy El Mismo](https://open.spotify.com/album/3BvXrTvzMYqZNz4hnqXSvj) | 3:40 |

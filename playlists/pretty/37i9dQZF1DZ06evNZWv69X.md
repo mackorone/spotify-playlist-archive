@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZWv69X.md) - [plain]
 
 > This is Mar de Copas\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,526 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,527 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Suna](https://open.spotify.com/track/4udGuDY6x5WzWdMiVe3yea) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Todos los Singles 1993\-2006](https://open.spotify.com/album/6OthgAS7EYRLPuGJKTitu8) | 4:04 |
-| 2 | [Mujer Noche](https://open.spotify.com/track/4oKwVesHufTrw9L2gLHq4u) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Mar de Copas](https://open.spotify.com/album/08mPDAxP3cAeqUga7266QQ) | 5:09 |
-| 3 | [Un Día Sin Sexo](https://open.spotify.com/track/2Mvg1fyuwuZtWshE9v0M3g) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Lado B](https://open.spotify.com/album/6lAwgVT7xFEeZazlF95q2t) | 6:37 |
+| 2 | [Un Día Sin Sexo](https://open.spotify.com/track/2Mvg1fyuwuZtWshE9v0M3g) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Lado B](https://open.spotify.com/album/6lAwgVT7xFEeZazlF95q2t) | 6:37 |
+| 3 | [Mujer Noche](https://open.spotify.com/track/4oKwVesHufTrw9L2gLHq4u) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Mar de Copas](https://open.spotify.com/album/08mPDAxP3cAeqUga7266QQ) | 5:09 |
 | 4 | [Balada de un Encuentro Fugaz](https://open.spotify.com/track/7sdwEEi3ZHZVzy2FldXqzx) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Si algo así como el amor está en el aire](https://open.spotify.com/album/4Z2EOWKODHlBbLnvewyQwW) | 3:45 |
 | 5 | [Entre los Árboles](https://open.spotify.com/track/4YZrcsbV7WyQfZJ4JWLa3e) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Entre los Árboles](https://open.spotify.com/album/5a63uy7tHDugATtAijhS7p) | 4:15 |
 | 6 | [La Máquina del Tiempo](https://open.spotify.com/track/7qzIs0YPfQAVOFmgvJFLR4) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Suna](https://open.spotify.com/album/2dbtl75dnHdb0weSIvhrtI) | 4:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZWv69X.md) - [plain]
 | 49 | [Canción](https://open.spotify.com/track/17Te5QkNgs4KdHPlNcqGcB) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Mar de Copas](https://open.spotify.com/album/08mPDAxP3cAeqUga7266QQ) | 4:15 |
 | 50 | [Prisión](https://open.spotify.com/track/355ocef7U2x53fgZBaPWXl) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [El Soundtrack de una Vida](https://open.spotify.com/album/11Hk6UODnh7sWurat5D7Jt) | 4:20 |
 
-Snapshot ID: `aRkUAAAAAACbBQfs3J4eItFUhYNO6Nzc`
+Snapshot ID: `aRplgAAAAACodl4G1EdfeV0Vz6E6m9B2`

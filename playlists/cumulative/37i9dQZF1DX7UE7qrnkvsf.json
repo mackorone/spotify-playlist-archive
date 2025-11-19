@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "A Hint of Spruce",
+        "url": "https://open.spotify.com/album/0vRxsGIsT6g4QXTOpmSRYL"
+      },
+      "artists": [
+        {
+          "name": "Tore Lundblad",
+          "url": "https://open.spotify.com/artist/4zNremLzDLV4qylYjP0nR2"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176199,
+      "name": "A Hint of Spruce",
+      "url": "https://open.spotify.com/track/2BZwO5cYgL8kfCk1fTmNVm"
+    },
+    {
+      "album": {
         "name": "A Knock On The Door",
         "url": "https://open.spotify.com/album/0q2peKbZDl0x0NuIn7UZ7F"
       },
@@ -1262,6 +1280,24 @@
       "duration_ms": 194906,
       "name": "Better? Lighter? Easier?",
       "url": "https://open.spotify.com/track/7G32BRrjxfsmrtOiF7Qaz4"
+    },
+    {
+      "album": {
+        "name": "Between the Hours",
+        "url": "https://open.spotify.com/album/7EvCxdKTYkOC7eNxKmu375"
+      },
+      "artists": [
+        {
+          "name": "The 52nd Street Club",
+          "url": "https://open.spotify.com/artist/43g6zwUUuWLCPXDidr6rfU"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252267,
+      "name": "Between the Hours",
+      "url": "https://open.spotify.com/track/1nrQDzTdNnsSLGcnyq0U1V"
     },
     {
       "album": {
@@ -5828,7 +5864,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 242399,
       "name": "Lush Life",
       "url": "https://open.spotify.com/track/7xuOv4oO4lghAaoS27dIEx"
@@ -7612,7 +7648,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 229756,
       "name": "Remembering Benny",
       "url": "https://open.spotify.com/track/7HFXTKZhD4wsko0rty1WIk"

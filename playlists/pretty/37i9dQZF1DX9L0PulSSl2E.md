@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9L0PulSSl2E.md) - [plain]
 
 > Sit back, thand rakho te Chill Karlo with Armaan & Arnaaz Gill
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,598 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,632 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9L0PulSSl2E.md) - [plain]
 | 49 | [Jatt Mehkma](https://open.spotify.com/track/61R3DMR4U2n25qgX9ryciJ) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [Glory](https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9) | 3:15 |
 | 50 | [Hero \(From "Badnaam"\)](https://open.spotify.com/track/0jF77Ini9zPCMMs7lmfogV) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [Jayy Randhawa](https://open.spotify.com/artist/6VlwEqlRo5sra59dvTcB9w), [Yaari Ghuman](https://open.spotify.com/artist/1joJsPgNOvnSwUlCKwst3N) | [Hero \(From "Badnaam"\)](https://open.spotify.com/album/6WZJofCfrV15hdQX7AyfeL) | 3:33 |
 
-Snapshot ID: `AAAAAOyxQOCCJoHauk5xGQaRPVEX+Yqg`
+Snapshot ID: `AAAAALzzJvo7OgolVjRCmv+a3OTC0eGT`

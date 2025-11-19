@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover:  StraTeGee and K3ndrick
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,846 likes - 101 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,891 likes - 101 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

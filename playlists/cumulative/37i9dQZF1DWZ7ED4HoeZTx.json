@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 336960,
       "name": "4:00A.M.",
       "url": "https://open.spotify.com/track/0zoGVO4bQXG8U6ChKwNgeg"
@@ -946,7 +946,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-30",
+      "date_removed": null,
       "duration_ms": 196500,
       "name": "Obsessed",
       "url": "https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM"
@@ -990,7 +990,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 203364,
       "name": "ODDTAXI",
       "url": "https://open.spotify.com/track/2Lwl5ElqC6Nq2CAwXxmsOE"
@@ -1850,6 +1850,24 @@
       "duration_ms": 149200,
       "name": "\u30a4\u30b6\u30d9\u30e9\u306e\u5504",
       "url": "https://open.spotify.com/track/6qzTbAFDX82BxJIBbdKPH8"
+    },
+    {
+      "album": {
+        "name": "\u30a2\u30cb\u30c3\u30d7\u30b9",
+        "url": "https://open.spotify.com/album/4Uqxq3iwghdOrbDWNOo0rd"
+      },
+      "artists": [
+        {
+          "name": "7!!",
+          "url": "https://open.spotify.com/artist/3rJbSZv98yyWLNOvD6MsAV"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350200,
+      "name": "\u30aa\u30ec\u30f3\u30b8",
+      "url": "https://open.spotify.com/track/21htkjP5rYjD3CXG3y9wCT"
     },
     {
       "album": {

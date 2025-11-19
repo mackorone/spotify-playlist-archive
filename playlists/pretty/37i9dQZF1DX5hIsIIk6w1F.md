@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hIsIIk6w1F.md) - [plain]
 
 > Este Flow tiene otro Flow\. Foto: Kidd Voodoo & cía.
 
-[Spotify](https://open.spotify.com/user/spotify) - 430,164 likes - 102 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 430,173 likes - 102 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hIsIIk6w1F.md) - [plain]
 | 18 | [Pichea](https://open.spotify.com/track/5SqLfBDwcFRoptIGyN38w5) | [Tobal Mj](https://open.spotify.com/artist/2BJWqrBKEqtZUKWtzmpPDj), [Nacho G Flow](https://open.spotify.com/artist/6RGDPzIqEVP895rTeeYk2Q) | [Pichea](https://open.spotify.com/album/5mdv4bxC1XTBjnGawK9jMd) | 3:22 |
 | 19 | [Chandal Prada](https://open.spotify.com/track/70Ff5osUyDJbG6SaErDtI6) | [BEA PELEA](https://open.spotify.com/artist/7n8CEf82NSsckIB7kMwm9d), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Chandal Prada](https://open.spotify.com/album/3RW9uj5tTtOShw45hBvFAr) | 2:19 |
 | 20 | [Vamo a Bailotear](https://open.spotify.com/track/5lCk0ZeN8h76QxNqHEGMZJ) | [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Apocalipsis](https://open.spotify.com/album/47JohERDAJVAzmfCgOfG5w) | 2:40 |
-| 21 | [Quitar La Ropa](https://open.spotify.com/track/7AcKNrVoQPLKzUtcfHDx1e) | [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p), [Rivaldo](https://open.spotify.com/artist/2G1ivj7Cjg9J0b5crt4SgZ), [Tripper](https://open.spotify.com/artist/47JmCbGoXha8wHfWFqEg9q), [Maury](https://open.spotify.com/artist/7LRYPLE0QYC8JeRWmFnGyg) | [Quitar La Ropa](https://open.spotify.com/album/36GX38RYFp2sEkWZop5a7T) | 2:27 |
+| 21 | [Quitar La Ropa](https://open.spotify.com/track/7AcKNrVoQPLKzUtcfHDx1e) | [Aqua VS](https://open.spotify.com/artist/3mTUovGYbK6l1BuZtiEUiS), [Rivaldo](https://open.spotify.com/artist/2G1ivj7Cjg9J0b5crt4SgZ), [Tripper](https://open.spotify.com/artist/47JmCbGoXha8wHfWFqEg9q), [Maury](https://open.spotify.com/artist/7LRYPLE0QYC8JeRWmFnGyg) | [Quitar La Ropa](https://open.spotify.com/album/36GX38RYFp2sEkWZop5a7T) | 2:27 |
 | 22 | [TODO KE VER](https://open.spotify.com/track/47aX1tXPTBpAG8Y2iAYmiy) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Katteyes](https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9), [Mateo on the Beatz](https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg) | [TODO KE VER](https://open.spotify.com/album/6jouPgsFxZaEKu0pRB9nzC) | 2:38 |
 | 23 | [Shiny](https://open.spotify.com/track/72aGCwuSwD5Qb3tHvXBoX3) | [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O), [Dysbit](https://open.spotify.com/artist/2WcCTeyPFxpiGwlntz0X2V) | [I'M PART](https://open.spotify.com/album/2FaWRcWNTc2EhVJniu4t69) | 2:38 |
 | 24 | [Si Te Vas](https://open.spotify.com/track/35NTHnL0y4xr5JEmnnxsoj) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs) | [Si Te Vas](https://open.spotify.com/album/3dPb6v1OMvV0OcSSHYwPfn) | 2:41 |

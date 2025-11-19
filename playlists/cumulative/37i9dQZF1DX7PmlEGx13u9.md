@@ -4,7 +4,7 @@
 
 > Certified R&B hits\. Cover: Leon Thomas
 
-201 songs - 10 hr 31 min
+202 songs - 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Body](https://open.spotify.com/track/7vxLj7MREliG5i5vSnqSVr) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Over It](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) | 3:13 | 2025-09-23 |  |
 | [Boys Like U](https://open.spotify.com/track/1tUYtX5SrRj9MJQgZ9u2W3) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [Boys Like U](https://open.spotify.com/album/20Lna2QqNErPjA4lRDUGoX) | 2:35 | 2024-07-26 | 2024-12-13 |
 | [Bridge Over Troubled Water \(feat\. John Legend & Tori Kelly\)](https://open.spotify.com/track/4FG5dNlurEtZ84kCTg5YLA) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Bridge Over Troubled Water \(feat\. John Legend & Tori Kelly\)](https://open.spotify.com/album/1Zo8V5bfUxTiLPQRO99FK5) | 5:52 | 2025-04-11 | 2025-09-06 |
+| [By Now](https://open.spotify.com/track/55mAE5S1MK79gLUowrnB6h) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Heat The Streets Some Mo'](https://open.spotify.com/album/6hRz8TthZfkHlZ288hcCd4) | 2:47 | 2025-11-14 |  |
 | [CALYPSO](https://open.spotify.com/track/3o2g4rjFVgHsRFSa2qcpgr) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [CALYPSO](https://open.spotify.com/album/3EQdtWF4yIWoLIACYpJnuO) | 3:08 | 2024-03-22 | 2025-10-24 |
 | [Can I Call You Rose? \- Cover](https://open.spotify.com/track/2xJ1NpJ5S69lY317IQ37q5) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [Can I Call You Rose? \(Cover\)](https://open.spotify.com/album/7gfajT0h8Ir6SiIxw4uUWM) | 2:24 | 2024-03-18 | 2025-09-06 |
 | [can't stop](https://open.spotify.com/track/266NPG21d1RGm5GHxchVF3) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [act right](https://open.spotify.com/album/4YVaV9ViXndugkvyBOBGxX) | 3:08 | 2025-09-05 | 2025-11-09 |
@@ -61,7 +62,7 @@
 | [FEELINGS ON SILENT \(feat\. Wale\)](https://open.spotify.com/track/0XQFACvy0OCADmCIgHNtXJ) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 3:29 | 2025-04-11 |  |
 | [Fly Girl \(feat\. Missy Elliott\)](https://open.spotify.com/track/2sITbbWIOeg2Lwp4WN2jqr) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Fly Girl \(feat\. Missy Elliott\)](https://open.spotify.com/album/0cfvGEzoMnxtDKCcugR6Tv) | 3:25 | 2024-11-22 | 2025-04-11 |
 | [Folded](https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Folded](https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm) | 3:58 | 2025-09-05 |  |
-| [For The Streets](https://open.spotify.com/track/5rbCN6PGBWjYt8aMxftGpX) | [Inayah](https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ) | [For The Streets](https://open.spotify.com/album/1O17dsUsuI7Rb423Pxj1y2) | 2:25 | 2025-04-11 |  |
+| [For The Streets](https://open.spotify.com/track/5rbCN6PGBWjYt8aMxftGpX) | [Inayah](https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ) | [For The Streets](https://open.spotify.com/album/1O17dsUsuI7Rb423Pxj1y2) | 2:25 | 2025-04-11 | 2025-11-19 |
 | [Found \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/0GGfGINoVYiSFXPOjg3RHj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Found \(feat\. Brent Faiyaz\)](https://open.spotify.com/album/6nuNgD841boUffjDiI8et4) | 3:29 | 2024-02-09 | 2024-02-23 |
 | [Gaslight 101](https://open.spotify.com/track/5vTNC4ONe5kc1rlGbjOEZs) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Gaslight 101](https://open.spotify.com/album/6JYREZgsg9WKzHblVDuZ6G) | 2:59 | 2024-03-22 | 2024-04-19 |
 | [Gaslight 101](https://open.spotify.com/track/1RFUyaEgrVucSKNm4I8XJs) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Gaslight 101](https://open.spotify.com/album/7ho3u9fJvZvMs48INUqhvl) | 2:59 | 2024-03-18 | 2024-03-24 |

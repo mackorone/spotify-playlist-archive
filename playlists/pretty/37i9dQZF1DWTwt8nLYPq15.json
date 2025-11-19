@@ -1,6 +1,6 @@
 {
   "description": "summer heat \ud83e\udd75\ud83d\udd25\n",
-  "num_followers": 3113,
+  "num_followers": 3115,
   "original_name": "MELT",
   "owner": {
     "name": "Spotify",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-05-31 19:46:57",
       "album": {
-        "name": "PARTYNEXTDOOR 4 (P4)",
-        "url": "https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 219949,
-      "name": "F o r C e r t a i n",
-      "url": "https://open.spotify.com/track/54N8YQb53fKmVCNmbwoSVi"
-    },
-    {
-      "added_at": "2024-05-31 19:46:57",
-      "album": {
         "name": "Bryson Tiller",
         "url": "https://open.spotify.com/album/0frVQ5nctt6zS9ZR1g5HMX"
       },
@@ -545,6 +529,22 @@
       "url": "https://open.spotify.com/track/7tr8SXmP9j0uVqUU0qoapb"
     },
     {
+      "added_at": "2024-05-31 19:46:57",
+      "album": {
+        "name": "PARTYNEXTDOOR 4 (P4)",
+        "url": "https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 219949,
+      "name": "F o r C e r t a i n",
+      "url": "https://open.spotify.com/track/54N8YQb53fKmVCNmbwoSVi"
+    },
+    {
       "added_at": "2023-06-15 04:00:00",
       "album": {
         "name": "A Seat at the Table",
@@ -556,7 +556,7 @@
           "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
         }
       ],
-      "duration_ms": 250973,
+      "duration_ms": 250970,
       "name": "Cranes in the Sky",
       "url": "https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe"
     },

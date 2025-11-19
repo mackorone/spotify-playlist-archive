@@ -4,7 +4,7 @@
 
 > The essential tracks from Kenshi Yonezu/ hachi\. 米津玄師/ ハチの代表曲を1つのプレイリストで。
 
-135 songs - 8 hr 48 min
+136 songs - 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [ゴーゴー幽霊船](https://open.spotify.com/track/6JTUCs01Y8POQjeh5lDvlo) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [diorama](https://open.spotify.com/album/75VDsskmdLJZWqbHYpKcKK) | 3:49 | 2022-11-22 |  |
 | [サンタマリア](https://open.spotify.com/track/0zjtBLZoqcrIxPDxrAfpJq) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [サンタマリア](https://open.spotify.com/album/3VJsXx7mjLMyx3dp9H6x1G) | 5:34 | 2022-11-22 |  |
 | [シンデレラグレイ](https://open.spotify.com/track/421YV4dHoOY8HaU6nHAuks) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [Bremen](https://open.spotify.com/album/2NntpzUApyESbWpuylSP31) | 4:11 | 2022-11-22 |  |
+| [トレモロ](https://open.spotify.com/track/6CMttvDEA7Sku1dDuiucdo) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [Dear Jubilee \-RADWIMPS TRIBUTE\-](https://open.spotify.com/album/6Gru76yWx8iMVWkTqkKU4I) | 3:19 | 2025-11-18 |  |
 | [ドーナツホール](https://open.spotify.com/track/6kwLcF9pDovUbmGOtHo4Ml) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [ドーナツホール](https://open.spotify.com/album/4jNxD5LWmUuwF72qG8Ekfx) | 3:25 | 2022-11-22 |  |
 | [ナンバーナイン](https://open.spotify.com/track/7zdzhDD4v7dryJn68bn4GH) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [BOOTLEG](https://open.spotify.com/album/1mvoieMR8Dwiy7S052ihoC) | 4:21 | 2022-11-22 | 2024-04-19 |
 | [ナンバーナイン](https://open.spotify.com/track/10WOQUye18rKYinzQniHRR) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [LOSER / ナンバーナイン](https://open.spotify.com/album/7IZFdzxga2A1TMDSateh9A) | 4:23 | 2024-04-08 |  |

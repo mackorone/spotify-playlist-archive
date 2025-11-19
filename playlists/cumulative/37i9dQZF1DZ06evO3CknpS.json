@@ -1260,6 +1260,64 @@
     {
       "album": {
         "name": "Dvo\u0159\u00e1k, Ravel, Gershwin & Others: Chamber Works",
+        "url": "https://open.spotify.com/album/07PuUaUiNY5zyIJZqLFjCB"
+      },
+      "artists": [
+        {
+          "name": "Anis Fuleihan",
+          "url": "https://open.spotify.com/artist/5gHoKuc3ZL5JlXOXJnyP9E"
+        },
+        {
+          "name": "Clara Rockmore",
+          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+        },
+        {
+          "name": "Dorothy Lawson",
+          "url": "https://open.spotify.com/artist/3XYSA01q5jP99FV0thEsaS"
+        },
+        {
+          "name": "Robert Burkhardt",
+          "url": "https://open.spotify.com/artist/3SieHSJXe7iWLeUSCJCRAn"
+        },
+        {
+          "name": "Mairi Dorman-Phaneuf",
+          "url": "https://open.spotify.com/artist/5MZaqG2UzmhU8S03XEGiSR"
+        },
+        {
+          "name": "Sara Hewitt-Roth",
+          "url": "https://open.spotify.com/artist/4rQ2872nxXeNwm2sGKeMd6"
+        },
+        {
+          "name": "Ludmila Konstantinova",
+          "url": "https://open.spotify.com/artist/2HBmg1eTqBjgewnSGXmNxP"
+        },
+        {
+          "name": "Jessie Reagen",
+          "url": "https://open.spotify.com/artist/0shhbqrr62wgYbSnkkwN17"
+        },
+        {
+          "name": "Peter Sachon",
+          "url": "https://open.spotify.com/artist/2J5Gm1f9pkYSizG49vzjge"
+        },
+        {
+          "name": "Caroline Stinson",
+          "url": "https://open.spotify.com/artist/123M48kw4UoLoLKpcqIKTa"
+        },
+        {
+          "name": "Nadia Reisenberg",
+          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
+        }
+      ],
+      "date_added": "2025-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242960,
+      "name": "Pastorale (Arr. for Theremin, Piano & Cello Ensemble)",
+      "url": "https://open.spotify.com/track/280r2ASyZu0rHJ17t9tfLM"
+    },
+    {
+      "album": {
+        "name": "Dvo\u0159\u00e1k, Ravel, Gershwin & Others: Chamber Works",
         "url": "https://open.spotify.com/album/55bk8Fqpfpm0rrT5vjREwn"
       },
       "artists": [
@@ -1696,7 +1754,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 127720,
       "name": "Suite No. 5 in C Minor: V. Air (Arr. for Theremin & Piano)",
       "url": "https://open.spotify.com/track/00GEyE83YePZrwszp6ta2h"
@@ -1748,7 +1806,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 392533,
       "name": "Symphonie Espagnole: Andante",
       "url": "https://open.spotify.com/track/184i6lucCoz9GPRzt5IoYA"
@@ -2120,7 +2178,7 @@
       ],
       "date_added": "2023-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-20",
+      "date_removed": null,
       "duration_ms": 1379240,
       "name": "WQXR Radio Broadcast, February 14, 1984: \"Valentine to Vilna\"",
       "url": "https://open.spotify.com/track/6Kkwxiw2n7OXjCOQJpERib"

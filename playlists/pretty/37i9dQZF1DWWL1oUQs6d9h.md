@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL1oUQs6d9h.md) - [plain]
 
 > 머릿속은 복잡하지만, 겉으로는 칠 & 쿨해보이고 싶을 때
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,155 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,177 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL1oUQs6d9h.md) - [plain]
 | 49 | [Ex Machina](https://open.spotify.com/track/3ki3pmiZo3n24DFKdhHIqE) | [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce) | [Soft Error : X](https://open.spotify.com/album/25CRdWLjtFFZAGl2HI0RkU) | 3:02 |
 | 50 | [Slide](https://open.spotify.com/track/2rTnVB1bvwxHtaIl4uVu7f) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Slide](https://open.spotify.com/album/6b3LhhX9Lt2861Dsh3ZCC2) | 3:58 |
 
-Snapshot ID: `AAAAAIzGcbaFGXQVnuKBWP31DM+zr5Zz`
+Snapshot ID: `AAAAAHkKvMScCFORtpz3trO61mMfMRNc`

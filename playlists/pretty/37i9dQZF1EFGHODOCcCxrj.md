@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGHODOCcCxrj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6lpMQmg0sVeladspBg3BYf">Danny L Harle</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 323 likes - 85 songs - 9 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 324 likes - 85 songs - 9 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGHODOCcCxrj.md) - [plain]
 | 25 | [I Believe](https://open.spotify.com/track/6GqesoY3jZD9BqT1v4UEmk) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) | 4:07 |
 | 26 | [Chosen Family \(with Elton John\)](https://open.spotify.com/track/02XbzKFSMItMn60v2MmChs) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Chosen Family \(with Elton John\)](https://open.spotify.com/album/7iV4NiIjNFK2QvamKHGU8i) | 4:39 |
 | 27 | [ILY2](https://open.spotify.com/track/1KPS1MHPrq9uPklJX8Q4XW) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Number 1 Angel](https://open.spotify.com/album/37rI2gAtakAmSFtbIE9THq) | 3:16 |
-| 28 | [Broken Flowers](https://open.spotify.com/track/7Km0ioOI11nh7xGatqrpDj) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD) | [Broken Flowers \- EP](https://open.spotify.com/album/6jpADwNRHSXDsvPSzARq00) | 3:23 |
+| 28 | [Broken Flowers](https://open.spotify.com/track/7Km0ioOI11nh7xGatqrpDj) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD) | [Broken Flowers \- EP](https://open.spotify.com/album/6jpADwNRHSXDsvPSzARq00) | 3:24 |
 | 29 | [Heaven](https://open.spotify.com/track/5PZN71yON3rzA8OaEidrIo) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Nymph](https://open.spotify.com/album/3i4ZYO2l14kCTRzw90JmZ4) | 2:44 |
 | 30 | [Look At Me Now](https://open.spotify.com/track/1z7Pc2fpIffOtXQh1XHMn9) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 3:03 |
 | 31 | [Smoke](https://open.spotify.com/track/2x8zUjRP6z5N2GmZ13zU76) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) | 2:57 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGHODOCcCxrj.md) - [plain]
 | 84 | [Yeva's Lullaby](https://open.spotify.com/track/4vxquvA6UGJbUxj9bQdV9o) | [Alto Arc](https://open.spotify.com/artist/0ICZuF8dhbiJrkRfIbYF8q) | [Alto Arc](https://open.spotify.com/album/7Lr60fwVDyKA2IMoc2si1V) | 6:53 |
 | 85 | [The Circle Unbroken](https://open.spotify.com/track/7IMgOhpJ9gnkGUl52AY3cc) | [Alto Arc](https://open.spotify.com/artist/0ICZuF8dhbiJrkRfIbYF8q) | [Alto Arc](https://open.spotify.com/album/7Lr60fwVDyKA2IMoc2si1V) | 5:17 |
 
-Snapshot ID: `AcB2/gAAAAB5P2m10fzwMGbOcRLhF1Gi`
+Snapshot ID: `AcB82gAAAABVo7wocbxRI6+5GqmuwTWY`

@@ -1,6 +1,6 @@
 {
   "description": "Songs from \u201cENSEMBLE STARS!!\u201d \u00a9 2014-2019 Happy Elements K.K\n",
-  "num_followers": 61796,
+  "num_followers": 61803,
   "original_name": "ENSEMBLE STARS!!",
   "owner": {
     "name": "Spotify",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2025-10-28 15:00:03",
       "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba Valkyrie",
+        "url": "https://open.spotify.com/album/12klK02DpZrlngD2fG9Joa"
+      },
+      "artists": [
+        {
+          "name": "Valkyrie/\u658e\u5bae \u5b97(CV.\u9ad8\u6a4b\u5e83\u6a39)\u3001\u5f71\u7247\u307f\u304b(CV.\u5927\u9808\u8cc0 \u7d14)",
+          "url": "https://open.spotify.com/artist/0ji9EuoClUyb8331TfkBCA"
+        }
+      ],
+      "duration_ms": 249613,
+      "name": "\u9b45\u60d1\u5287",
+      "url": "https://open.spotify.com/track/4ywISXfEvj4M9yXP58vLIs"
+    },
+    {
+      "added_at": "2025-10-28 15:00:03",
+      "album": {
         "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01 \u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba \u6d41\u661f\u968a",
         "url": "https://open.spotify.com/album/51xCDrABka0BpPMG1p0qNe"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 288373,
       "name": "Kiss of Life",
       "url": "https://open.spotify.com/track/7FZ8p7BXhPoG9AvC8ymbhC"
-    },
-    {
-      "added_at": "2025-10-28 15:00:03",
-      "album": {
-        "name": "TV\u30a2\u30cb\u30e1 \u300e\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\u300f ED\u30c6\u30fc\u30de\u96c6 (vol.3)",
-        "url": "https://open.spotify.com/album/37RXOBxM051XIM195TlyXM"
-      },
-      "artists": [
-        {
-          "name": "fine/\u5929\u7965\u9662\u82f1\u667a(CV.\u7dd1\u5ddd \u5149)\u3001\u65e5\u3005\u6a39 \u6e09(CV.\u6c5f\u53e3\u62d3\u4e5f)\u3001\u59eb\u5bae\u6843\u674e(CV.\u6751\u702c \u6b69)\u3001\u4f0f\u898b\u5f13\u5f26(CV.\u6a4b\u672c\u6643\u592a\u6717)",
-          "url": "https://open.spotify.com/artist/7oK5LO53kXSt3xxFsENt4v"
-        }
-      ],
-      "duration_ms": 219920,
-      "name": "\u59cb\u307e\u308a\u306e\u30d5\u30a1\u30f3\u30bf\u30b8\u30a2",
-      "url": "https://open.spotify.com/track/1f7iTXYBjiNGkascBy9r6I"
     }
   ],
   "unique_name": "ENSEMBLE STARS!!",

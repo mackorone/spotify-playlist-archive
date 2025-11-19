@@ -4,9 +4,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXarsGtGJHPf.md) - [plain]
 
 > Enjoy the iconic K\-OSTs with the music videos! \(Cover: 이강에는 달이 흐른다 \(Moon River\)\) \(K\-OST를 뮤직비디오와 함께 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,805 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 4,813 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `AAAAAB9itdD+ix9OHf4FcyTutPJic6y8`
+Snapshot ID: `AAAAAFPG11slB3vyqmTPpa5tF4t1iYkm`

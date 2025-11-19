@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0Tn4EK4iKI58XnvWHuMMm0.md) - [plain]
 
 > Power through your to do list with an affogato and a refreshing mix of chilled classical.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,487 likes - 59 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,488 likes - 59 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/0Tn4EK4iKI58XnvWHuMMm0.md) - [plain]
 | 21 | [Handel / Orch\. Hale: Keyboard Suite No\. 4 in D Minor, HWV 437: III\. Sarabande](https://open.spotify.com/track/1upQiytDIEZfl9ItruoXuC) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Alexander Briger](https://open.spotify.com/artist/6bk0YPhJSL44WBtoGe4GI6), [Academy of St\. Martin in the Fields](https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF) | [Handel Sarabande](https://open.spotify.com/album/657D9POYWMrDMK9MWNxPHL) | 3:27 |
 | 22 | [The Heart Asks Pleasure First / The Promise \- Edit](https://open.spotify.com/track/2Yjv7MOdst5y6fFsq4cKOL) | [Michael Nyman](https://open.spotify.com/artist/2LvhyFvUCDJ7gFuEBOcrM8) | [The Piano: Music From The Motion Picture](https://open.spotify.com/album/2QxIR22Sj9xGc4mOTN550A) | 3:11 |
 | 23 | [Andrew and Natasha in Love](https://open.spotify.com/track/1ZbsfRZ9TEYSuC5jUNFJQn) | [Jan A.P\. Kaczmarek](https://open.spotify.com/artist/6ajp0mepNWwjGZ9ivlqqaT) | [War and Peace](https://open.spotify.com/album/56M5kPJiO52UOhuS0yfUMU) | 7:41 |
-| 24 | [Orchestral Suite No\. 3 in D major, BWV 1068: II\. Air](https://open.spotify.com/track/21rKK1lBgAMGqCShuqUyOf) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Joshua Bell](https://open.spotify.com/artist/3Ka1nDpDzxDveEqUPzIeom), [Academy of St\. Martin in the Fields](https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF) | [Bach: Works for Violin](https://open.spotify.com/album/3wYnBsqxBYxC74D8LDlBAH) | 4:52 |
+| 24 | [Orchestral Suite No\. 3 in D major, BWV 1068: II\. Air](https://open.spotify.com/track/21rKK1lBgAMGqCShuqUyOf) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Joshua Bell](https://open.spotify.com/artist/3Ka1nDpDzxDveEqUPzIeom), [Academy of St\. Martin in the Fields](https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF) | [Bach: Works for Violin](https://open.spotify.com/album/3wYnBsqxBYxC74D8LDlBAH) | 4:55 |
 | 25 | [The Swings Of Central Park](https://open.spotify.com/track/3EpRPjuf7iKzTK31WxLXDg) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0) | [Extremely Loud and Incredibly Close: Original Motion Picture Soundtrack](https://open.spotify.com/album/09IXkJ1rfHN8X7R6zu0KHt) | 8:18 |
 | 26 | [A New Life](https://open.spotify.com/track/3hfzKPRcP6uHRe6rv2sy6x) | [Jerry Goldsmith](https://open.spotify.com/artist/7t8q7ikEtcPNtoaKAm9Vu6) | [First Knight Original Motion Picture Soundtrack](https://open.spotify.com/album/6FS3H65ouEWR8z9N2TZcmv) | 4:53 |
 | 27 | [Saint\-Saëns: Le carnaval des animaux: XIII\. Le cygne \(Arr\. Godowsky for Piano\)](https://open.spotify.com/track/57p7J7Vzp5u8quzKQp41Uo) | [Camille Saint\-Saëns](https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0), [Alexandre Tharaud](https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG) | [Autograph](https://open.spotify.com/album/0RPiJQreijUfloPd3EjUQ9) | 2:49 |

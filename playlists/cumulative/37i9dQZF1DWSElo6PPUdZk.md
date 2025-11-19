@@ -4,7 +4,7 @@
 
 > Catch the queens of Punjabi Pop\. Cover: Sunanda Sharma
 
-237 songs - 12 hr 1 min
+238 songs - 12 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Khereyan de naal \(Lofi\)](https://open.spotify.com/track/2mIRmirJUzL2awfoQcDAqT) | [Mitika Kanwar](https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg) | [Khereyan de naal \(Lofi\)](https://open.spotify.com/album/6zFdNgGhKNFoMGkaoVQgQt) | 3:23 | 2024-08-30 | 2024-09-29 |
 | [Ki Karde Je](https://open.spotify.com/track/0NFkqpzm3kisw9cG8I36Cy) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk), [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Nimmo](https://open.spotify.com/album/6npMtWLVcknfO4NdtIX41K) | 3:35 | 2023-03-18 | 2024-04-19 |
 | [Ki Karde Je](https://open.spotify.com/track/5DnZcwhgXYlUxGOMk348Sz) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk), [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Nimmo](https://open.spotify.com/album/3F2cjyTEus264GbYrXgrnc) | 3:35 | 2024-01-30 | 2024-10-02 |
+| [Ki Sochiye](https://open.spotify.com/track/1KKadwGWhJFTlUiJF7t1FX) | [Rza Heer](https://open.spotify.com/artist/6FWtxe356sqiEEGB0J9aqD), [Vinder Nathu Majra](https://open.spotify.com/artist/1B4NLf9v1eIpwm8vZCEOKN), [Spidy's Music](https://open.spotify.com/artist/4JJpNjGZGXcezGJkS0ASqP) | [Ki Sochiye](https://open.spotify.com/album/3LGAmnMtyDuSsIyo93MMGq) | 2:10 | 2025-11-18 |  |
 | [Kinna Pyar Karan](https://open.spotify.com/track/5k1zCA31FEQ62FrnV9RHIW) | [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ), [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON) | [Kinna Pyar Karan](https://open.spotify.com/album/3k1InutqRcvVcBmwOiX58d) | 3:07 | 2024-04-24 | 2024-09-29 |
 | [Kismat](https://open.spotify.com/track/23Om54rdyag2vKlK4pz07f) | [Sona Walia](https://open.spotify.com/artist/5oskGmORhLpWRv2jcZiVkX) | [Kismat](https://open.spotify.com/album/0o5lFAGhdz8lml9kqGqdoF) | 3:56 | 2024-10-01 | 2024-10-22 |
 | [Koka](https://open.spotify.com/track/5icw6LkuZbIJlYE6P4yALG) | [Sarika Gill](https://open.spotify.com/artist/2gzKmku9ZYUmTrqgWeMDVc), [Flame Music](https://open.spotify.com/artist/685liAZg6uWsPa8Fgqx6Aa), [Raana](https://open.spotify.com/artist/7w7LFAUtY9IXgELoHjeCqG) | [Koka](https://open.spotify.com/album/5Qn9dQPkdB9bf1fXci7ERs) | 3:46 | 2024-09-28 | 2024-11-06 |
@@ -165,7 +166,7 @@
 | [Naseeb](https://open.spotify.com/track/5JgMsHeJypXp3Ixgkhdz1U) | [Sana Panesar](https://open.spotify.com/artist/6tOoWveZi0RsecgXm6cxKf), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x), [Mad Mix](https://open.spotify.com/artist/55fozRiVCKuoMqSkxa6nxv) | [Naseeb](https://open.spotify.com/album/3Hb8QXpntJtNbsMRJ1wEwh) | 1:55 | 2024-12-06 | 2025-03-10 |
 | [Nattiyaan](https://open.spotify.com/track/1oEczJPtEiZb1RfJDDdZ16) | [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ), [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Kavy Riyyaaz](https://open.spotify.com/artist/3E3EEtTlriPOWoIdyPTiX7), [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC) | [Nattiyaan](https://open.spotify.com/album/1uohMZNC2AJ0AsjHyKbB7w) | 3:30 | 2024-09-28 |  |
 | [Nawe Rivaaz](https://open.spotify.com/track/0ZInUKQpOd8IuKnMOrtFpc) | [Kiran Bajwa](https://open.spotify.com/artist/3qmx2CGviBi21h58nDMJcs) | [Nawe Rivaaz](https://open.spotify.com/album/4ghLiOyAllLjkiI8h4Ygvx) | 2:31 | 2025-10-09 | 2025-10-25 |
-| [Nazraan Utaar](https://open.spotify.com/track/3YphNdwpVI9dYHBWBPh9Cz) | [Simran Choudhary](https://open.spotify.com/artist/1eQsrFTW5NHQs1X7B0mImu), [Anmol Daniel](https://open.spotify.com/artist/0kcv0RnAZxw2dnUwq7bz9h) | [Nazraan Utaar](https://open.spotify.com/album/2hxEE3l6zjylCXTslzfasp) | 2:18 | 2025-11-04 |  |
+| [Nazraan Utaar](https://open.spotify.com/track/3YphNdwpVI9dYHBWBPh9Cz) | [Simran Choudhary](https://open.spotify.com/artist/1eQsrFTW5NHQs1X7B0mImu), [Anmol Daniel](https://open.spotify.com/artist/0kcv0RnAZxw2dnUwq7bz9h) | [Nazraan Utaar](https://open.spotify.com/album/2hxEE3l6zjylCXTslzfasp) | 2:18 | 2025-11-04 | 2025-11-19 |
 | [Nepal](https://open.spotify.com/track/2S371A2FhkVALcLr8uMRMv) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Shevv](https://open.spotify.com/artist/2EQoFz6owAP4ATr5hGFRok) | [Mankirt Aulakh Vol\. 1](https://open.spotify.com/album/1LzjSBsrxFGlhHTjvTNtP8) | 3:26 | 2024-10-18 | 2025-01-07 |
 | [No Bullshit](https://open.spotify.com/track/4pHNcvzZ5lnCJCJzxfFBZn) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9) | [No Bullshit](https://open.spotify.com/album/1FjzgqFWa03yqQ46NKOeSS) | 3:51 | 2023-03-18 | 2023-11-18 |
 | [Paranda](https://open.spotify.com/track/3M8axCVcFGCqU6nBglucAV) | [Kaur B](https://open.spotify.com/artist/43iOhUGMAnS6QbPEUYqkpg) | [Paranda](https://open.spotify.com/album/3oA6pDkVvMMIjzuXjB84G8) | 4:06 | 2025-03-20 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Howlin' Wolf. The essential tracks, all in one playlist.",
-  "num_followers": 30747,
+  "num_followers": 30750,
   "original_name": "This Is Howlin' Wolf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRkUAAAAAADhUAWNt9ZasGXDZ0tElRWI",
+  "snapshot_id": "aRplgAAAAAAGXcZdXe38Ry4qyFWUwrKJ",
   "tracks": [
     {
       "added_at": null,
@@ -483,26 +483,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Super Super Blues Band",
-        "url": "https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc"
+        "name": "The Back Door Wolf",
+        "url": "https://open.spotify.com/album/4vh7IH7qY7ToZsSUeNseLt"
       },
       "artists": [
-        {
-          "name": "Bo Diddley",
-          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
-        },
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        },
         {
           "name": "Howlin' Wolf",
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 394173,
-      "name": "Ooh, Baby / Wrecking My Love Life - Medley",
-      "url": "https://open.spotify.com/track/0lp6c7BBYNlDVksKGQqy8X"
+      "duration_ms": 167853,
+      "name": "Moving",
+      "url": "https://open.spotify.com/track/4IyT52kGjY8nc9eyXa5eBn"
     },
     {
       "added_at": null,
@@ -523,18 +515,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Back Door Wolf",
-        "url": "https://open.spotify.com/album/4vh7IH7qY7ToZsSUeNseLt"
+        "name": "The Super Super Blues Band",
+        "url": "https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc"
       },
       "artists": [
+        {
+          "name": "Bo Diddley",
+          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
+        },
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        },
         {
           "name": "Howlin' Wolf",
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 167853,
-      "name": "Moving",
-      "url": "https://open.spotify.com/track/4IyT52kGjY8nc9eyXa5eBn"
+      "duration_ms": 394173,
+      "name": "Ooh, Baby / Wrecking My Love Life - Medley",
+      "url": "https://open.spotify.com/track/0lp6c7BBYNlDVksKGQqy8X"
     },
     {
       "added_at": null,
@@ -655,38 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Message To The Young",
-        "url": "https://open.spotify.com/album/0GZWroLahIzKwjCDqxwdoJ"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 161760,
-      "name": "I Smell A Rat",
-      "url": "https://open.spotify.com/track/0DLtoMUpVzLRfGsxVX4Vfh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Change My Way",
-        "url": "https://open.spotify.com/album/3hiph4Eva4CueYfapJb312"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 140760,
-      "name": "Hidden Charms - Single Version",
-      "url": "https://open.spotify.com/track/3BuY7nN3DWskCCBY3wTKgE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Super Super Blues Band",
         "url": "https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc"
       },
@@ -711,6 +679,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Change My Way",
+        "url": "https://open.spotify.com/album/3hiph4Eva4CueYfapJb312"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 140760,
+      "name": "Hidden Charms - Single Version",
+      "url": "https://open.spotify.com/track/3BuY7nN3DWskCCBY3wTKgE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Message To The Young",
+        "url": "https://open.spotify.com/album/0GZWroLahIzKwjCDqxwdoJ"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 161760,
+      "name": "I Smell A Rat",
+      "url": "https://open.spotify.com/track/0DLtoMUpVzLRfGsxVX4Vfh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Back Door Wolf",
         "url": "https://open.spotify.com/album/4vh7IH7qY7ToZsSUeNseLt"
       },
@@ -723,38 +723,6 @@
       "duration_ms": 175160,
       "name": "Stop Using Me",
       "url": "https://open.spotify.com/track/6Sf2fZ9SqkF1shOetY9Qia"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Howlin' Wolf Greatest Songs",
-        "url": "https://open.spotify.com/album/5C3fhao58c0U8b59cD0PX7"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 191194,
-      "name": "Color And Kind",
-      "url": "https://open.spotify.com/track/0nHrMtXwO96IB1Bpasggv0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Change My Way",
-        "url": "https://open.spotify.com/album/3hiph4Eva4CueYfapJb312"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 134600,
-      "name": "I've Been Abused - Single Version",
-      "url": "https://open.spotify.com/track/2QJA0Gsodidit6P7OnDl16"
     },
     {
       "added_at": null,
@@ -783,8 +751,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Back Door Wolf",
-        "url": "https://open.spotify.com/album/4vh7IH7qY7ToZsSUeNseLt"
+        "name": "Change My Way",
+        "url": "https://open.spotify.com/album/3hiph4Eva4CueYfapJb312"
       },
       "artists": [
         {
@@ -792,9 +760,9 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 293066,
-      "name": "You Turn Slick On Me",
-      "url": "https://open.spotify.com/track/4vFSTxdwlrZJrN5hx6D4ik"
+      "duration_ms": 134600,
+      "name": "I've Been Abused - Single Version",
+      "url": "https://open.spotify.com/track/2QJA0Gsodidit6P7OnDl16"
     },
     {
       "added_at": null,
@@ -811,6 +779,38 @@
       "duration_ms": 191640,
       "name": "You Can't Be Beat - Single Version",
       "url": "https://open.spotify.com/track/0ZkCiuzIOa8g63BbesjHNM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Back Door Wolf",
+        "url": "https://open.spotify.com/album/4vh7IH7qY7ToZsSUeNseLt"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 293066,
+      "name": "You Turn Slick On Me",
+      "url": "https://open.spotify.com/track/4vFSTxdwlrZJrN5hx6D4ik"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Howlin' Wolf Greatest Songs",
+        "url": "https://open.spotify.com/album/5C3fhao58c0U8b59cD0PX7"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 191194,
+      "name": "Color And Kind",
+      "url": "https://open.spotify.com/track/0nHrMtXwO96IB1Bpasggv0"
     },
     {
       "added_at": null,

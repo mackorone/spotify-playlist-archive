@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl4lbUfCVSx.md) - [plain]
 
 > Sa k'ap fèt! Enjoy Haiti’s national music, a smooth modern méringue sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,656 likes - 40 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,661 likes - 40 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl4lbUfCVSx.md) - [plain]
 | 8 | [Se Pa Pou dat](https://open.spotify.com/track/4tLvQ6fvnsWB6BGusXS03n) | [Alan Cavé](https://open.spotify.com/artist/1tNzo7FgikOLSyk1xf3cR2) | [Se Pa Pou Dat](https://open.spotify.com/album/0WT8Un2CLXF7CeALLeIOSn) | 5:41 |
 | 9 | [Mortal kompa](https://open.spotify.com/track/0o1aJCYLo904JH0xyA8fgz) | [lucas seb](https://open.spotify.com/artist/16soxHmY8uUNGhiu1luYhl) | [Mortal kompa](https://open.spotify.com/album/7Icz6IIxVeARwDOZo9csfx) | 4:33 |
 | 10 | [Pedi kontwol](https://open.spotify.com/track/4yCX511KONRG0d4uxGCOjG) | [Oswald](https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ), [Steves J\. Bryan](https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E) | [Oxygen](https://open.spotify.com/album/0uPj4sB73YCpyQTYPmf4cM) | 3:29 |
-| 11 | [I'll Yayad \- Pretty Bumpy](https://open.spotify.com/track/3PJiAnUAuy8FqnyMs85BkW) | [Carimi](https://open.spotify.com/artist/7sDhzCtTnUnJc3drYannat), [5Lan](https://open.spotify.com/artist/5soBVwhSyJeROoyNhL5MXi) | [I'll Yayad \(Pretty Bumpy\)](https://open.spotify.com/album/0N1TfneesRkQpizfFqsvvF) | 4:27 |
-| 12 | [M Sweté'l Dansé](https://open.spotify.com/track/1Whs5ALWz4z5VAtrcUWQJY) | [Zenglen](https://open.spotify.com/artist/2yxotUcQyVGm6LGYfPW8Mj) | [No Dead End](https://open.spotify.com/album/7sUJTtv1O1MbTD31ykgqlT) | 4:27 |
+| 11 | [M Sweté'l Dansé](https://open.spotify.com/track/1Whs5ALWz4z5VAtrcUWQJY) | [Zenglen](https://open.spotify.com/artist/2yxotUcQyVGm6LGYfPW8Mj) | [No Dead End](https://open.spotify.com/album/7sUJTtv1O1MbTD31ykgqlT) | 4:27 |
+| 12 | [I'll Yayad \- Pretty Bumpy](https://open.spotify.com/track/3PJiAnUAuy8FqnyMs85BkW) | [Carimi](https://open.spotify.com/artist/7sDhzCtTnUnJc3drYannat), [5Lan](https://open.spotify.com/artist/5soBVwhSyJeROoyNhL5MXi) | [I'll Yayad \(Pretty Bumpy\)](https://open.spotify.com/album/0N1TfneesRkQpizfFqsvvF) | 4:27 |
 | 13 | [Avé'w](https://open.spotify.com/track/4mAbKXEkZVJlJCW3fwkB01) | [Daan Junior](https://open.spotify.com/artist/1mOEe4YuD4hBTa1xyzSBfs) | [Avé'w](https://open.spotify.com/album/6EfS8JFEcuq4IoBQV3BZRf) | 5:35 |
 | 14 | [Pitit deyo](https://open.spotify.com/track/5z3agFibmtJ068Mjh1tbnC) | [Klass](https://open.spotify.com/artist/5SXlv0JnAn32FcXUP7Ib2n) | [Fè'l Vini Avan](https://open.spotify.com/album/6ljgsTdIoi7olYYtyn0IOQ) | 6:00 |
 | 15 | [Ou Gou](https://open.spotify.com/track/7gFOB1tSGmyyk0ez0boAQu) | [k\-dilak mesaje a](https://open.spotify.com/artist/0V8CG6FzGBvvOEbS2WRMVO) | [Ou Gou](https://open.spotify.com/album/0fuvXt6xRN9kcgG3hhqiPF) | 4:39 |

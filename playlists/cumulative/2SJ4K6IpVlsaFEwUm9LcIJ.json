@@ -2259,6 +2259,32 @@
     },
     {
       "album": {
+        "name": "Circlesz",
+        "url": "https://open.spotify.com/album/6gnIbhhnF3e7bT4VSvaTf4"
+      },
+      "artists": [
+        {
+          "name": "GENA",
+          "url": "https://open.spotify.com/artist/1ptSYluUqpp93ZRQEYJ4bE"
+        },
+        {
+          "name": "Liv.e",
+          "url": "https://open.spotify.com/artist/0YCL71Clky5els6NireSBP"
+        },
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141381,
+      "name": "Circlesz",
+      "url": "https://open.spotify.com/track/31djYAZR2kl3HotgjFScEi"
+    },
+    {
+      "album": {
         "name": "Secrets (Remastered)",
         "url": "https://open.spotify.com/album/1UDgMZLyvJgGYNCOqMEURq"
       },

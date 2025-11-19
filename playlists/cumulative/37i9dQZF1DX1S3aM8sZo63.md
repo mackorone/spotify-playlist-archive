@@ -2,7 +2,7 @@
 
 ### [Banda Romántica](https://open.spotify.com/playlist/37i9dQZF1DX1S3aM8sZo63)
 
-> Así como lo pediste, ponte cursi con las canciones más románticas\. Josi Cuen y  Jorge Medina en portada.
+> Así como lo pediste, ponte cursi con las canciones más románticas\. La Arrolladora Banda El Limón De Rene Camacho & Juanes en portada 📸
 
 260 songs - 13 hr 58 min
 
@@ -24,7 +24,7 @@
 | [Amantes Escondidos](https://open.spotify.com/track/4PbrxFKJg5rLkZ77vKhhY9) | [Germán Montero](https://open.spotify.com/artist/2mJLFoa2cRqCZHL6MZNaak) | [Pensando En Ti](https://open.spotify.com/album/5jt17hy0CY3U7NuzbXdX4u) | 2:53 | 2021-12-27 |  |
 | [Amigos Con Derechos](https://open.spotify.com/track/4ssouMO9j21l7YvqkPYLaP) | [Julio Chaidez](https://open.spotify.com/artist/0iMKZWAsycF13Uu67duuj7) | [Amigos Con Derechos](https://open.spotify.com/album/6Gv0ijdvtXUz8zGuavTv9j) | 3:29 | 2024-10-04 | 2025-01-11 |
 | [Amor Platónico](https://open.spotify.com/track/6VFimaHK7Mv5GO5NrqGYu1) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Amor Platónico](https://open.spotify.com/album/1RejCnEA2V94czIZo8uuhC) | 2:59 | 2021-12-27 |  |
-| [Amorcito Mio](https://open.spotify.com/track/70Gg7ZAnrEzhcIB2zOiyVt) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados \(Live Vol\. 1\)](https://open.spotify.com/album/6zXEcqqa4uHq4rg62M0Fxj) | 3:23 | 2021-12-27 |  |
+| [Amorcito Mio](https://open.spotify.com/track/70Gg7ZAnrEzhcIB2zOiyVt) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados \(Live Vol\. 1\)](https://open.spotify.com/album/6zXEcqqa4uHq4rg62M0Fxj) | 3:23 | 2021-12-27 | 2025-11-19 |
 | [Amorcito Mio \- En Vivo](https://open.spotify.com/track/31UICcEejwN9HFOgbc17KS) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/6eMs2ZZt8PDdOj9QKNjhfg) | 3:23 | 2023-08-08 | 2024-04-19 |
 | [Amorcito Mío \- Live](https://open.spotify.com/track/0iOZvZee49EgTNJEBm1VbC) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados Vol\. 1 \(Live\)](https://open.spotify.com/album/3EznPHQJtIYF3OH2gFUt9K) | 3:23 | 2022-05-06 | 2023-08-09 |
 | [Aquí Hay Para Llevar](https://open.spotify.com/track/5Lz26MOU0fyTS1vEThTaUf) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Aquí Hay Para Llevar](https://open.spotify.com/album/3KJItKYr9JhxYjYI4U5J7E) | 2:59 | 2024-11-06 | 2025-11-08 |
@@ -74,7 +74,7 @@
 | [El Amor de Mi Vida](https://open.spotify.com/track/2xxq5LXFBFyawPChsOOWVu) | [La Adictiva Banda San José de Mesillas](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [El Amor de Mi Vida](https://open.spotify.com/album/4T4LzOrGQAAvs4CjQ4ZrXv) | 3:32 | 2021-12-27 | 2022-07-29 |
 | [El Amor De Tu Vida](https://open.spotify.com/track/5HpXH64cSBNu26yhw3vK37) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Conjunto Primavera](https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb) | [El Amor De Tu Vida](https://open.spotify.com/album/0TkiwzRoKzV332NLyvnKjJ) | 2:43 | 2022-05-06 | 2023-06-26 |
 | [El Amor De Tu Vida](https://open.spotify.com/track/7AWgHNS16hOhmiyPIRRcmC) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Tony Melendez](https://open.spotify.com/artist/2xtVF7p8OnfvOmTExIoknF) | [El Amor De Tu Vida](https://open.spotify.com/album/5ZgM7Cd76zsjHVZuqESNj9) | 2:43 | 2023-06-07 | 2024-04-19 |
-| [El Amor De Tu Vida](https://open.spotify.com/track/728JhI2Z1GDz1ThXbMIBvl) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Conjunto Primavera](https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb) | [El Amor De Tu Vida](https://open.spotify.com/album/2PbWbeflQZor3YlEs3N2lh) | 2:43 | 2021-12-27 | 2025-11-15 |
+| [El Amor De Tu Vida](https://open.spotify.com/track/728JhI2Z1GDz1ThXbMIBvl) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Conjunto Primavera](https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb) | [El Amor De Tu Vida](https://open.spotify.com/album/2PbWbeflQZor3YlEs3N2lh) | 2:43 | 2021-12-27 |  |
 | [El Amor De Tu Vida](https://open.spotify.com/track/07NDoMUU2uThRfYaQLAhNj) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [El Amor De Tu Vida](https://open.spotify.com/album/0m83d317eGDRDC3Cn6zrnF) | 3:04 | 2023-12-01 | 2023-12-16 |
 | [El Amor No Fue Pa´ Mí \(En Vivo\)](https://open.spotify.com/track/6jwctT0wtZdG0fbLNVq5Jk) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Banda Coloso](https://open.spotify.com/artist/4SmIb5onxiijhyC8BilFED) | [El Amor No Fue Pa´ Mí \(En Vivo\)](https://open.spotify.com/album/4NT68hH4qv8qFOaWI8unla) | 3:46 | 2024-10-25 |  |
 | [El Amor Soñado](https://open.spotify.com/track/6Yd0OVYMrixawNof73Q3pC) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Amor Soñado](https://open.spotify.com/album/0CJMtndiL2Wx2xVs3Q0rDO) | 3:02 | 2021-12-27 | 2024-10-05 |

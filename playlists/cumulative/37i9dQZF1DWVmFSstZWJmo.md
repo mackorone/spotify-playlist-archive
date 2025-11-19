@@ -4,7 +4,7 @@
 
 > Fcukers on the cover bby
 
-276 songs - 17 hr 4 min
+277 songs - 17 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [California Dream Girl](https://open.spotify.com/track/4luiQl18IztB9tmtn0ACV0) | [The Hellp](https://open.spotify.com/artist/5DslL3PUa3BcRlCCEP64A4) | [California Dream Girl](https://open.spotify.com/album/7Mu6gL29rc1hiFuVtYFvVs) | 3:00 | 2023-05-19 | 2023-07-14 |
 | [Can't Stand Me Now](https://open.spotify.com/track/2EtZFeLn9msgg4qJzT9Vql) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [The Libertines](https://open.spotify.com/album/026fArxz2P8Vuj8ReXLD6j) | 3:23 | 2022-11-10 | 2024-04-19 |
 | [Cassius](https://open.spotify.com/track/2UU4NqZQ3RK7pTSq6le2t3) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Antidotes](https://open.spotify.com/album/5zUndTRjHpsB5UTsPp5MeM) | 3:49 | 2023-09-05 | 2025-04-21 |
-| [Cheeky](https://open.spotify.com/track/0BD5VUA6o7AH29u2dTzBYu) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [What’s Wrong With New York?: Afters](https://open.spotify.com/album/6Koz57deVak6xZwiY5rOTK) | 2:35 | 2025-06-20 |  |
+| [Cheeky](https://open.spotify.com/track/0BD5VUA6o7AH29u2dTzBYu) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [What’s Wrong With New York?: Afters](https://open.spotify.com/album/6Koz57deVak6xZwiY5rOTK) | 2:35 | 2025-06-20 | 2025-11-19 |
 | [Clothes](https://open.spotify.com/track/4mPWHIj4fPsDuQVI7Pd9sz) | [Club Eat](https://open.spotify.com/artist/073L1kDK5ruwVLIRHGQgwc) | [Clothes](https://open.spotify.com/album/12yRXZbtthu4acdBmnaqY8) | 2:23 | 2023-04-14 | 2023-04-27 |
 | [Club 20](https://open.spotify.com/track/7wkctx2Jea5OyKXUyUC6xe) | [Otha](https://open.spotify.com/artist/6UMUvqiDBEJLyx2uYplGCV) | [Club 20](https://open.spotify.com/album/3P2CgypNUCjskPdRd4J0OQ) | 2:41 | 2025-07-25 |  |
 | [Courtship Dating](https://open.spotify.com/track/1mOsMKTGAoayrYBnvIdBkk) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles](https://open.spotify.com/album/7HJSVyFzG1sM02weSAqhdH) | 3:30 | 2023-05-17 | 2023-09-06 |
@@ -235,6 +235,7 @@
 | [Sunshowers](https://open.spotify.com/track/0k2zJrBaalaEO50CdlW4mn) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Arular](https://open.spotify.com/album/7CzEknt9gJwe0QC89ir1JX) | 3:16 | 2023-09-05 | 2024-08-08 |
 | [Take Me Out](https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Franz Ferdinand](https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z) | 3:57 | 2022-11-10 |  |
 | [Tambourine](https://open.spotify.com/track/3eIhHWOMaTAPvJ6azg0b2L) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [Tambourine](https://open.spotify.com/album/3NyJ2rOwJUIEL1WlaYmhKP) | 3:29 | 2025-08-01 | 2025-10-17 |
+| [tell me](https://open.spotify.com/track/7oeWxx5w6BPVROHcEPDzRL) | [lustr](https://open.spotify.com/artist/58hki6fDZRnymwgCSwmwNY) | [tell me](https://open.spotify.com/album/5RqqJI20uSvOIfJjb7H2eM) | 2:03 | 2025-11-18 |  |
 | [TEQKILLA](https://open.spotify.com/track/4UFrurM4uvaNh9Mf52Qqcy) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [/\\/\\ /\\ Y /\\ \(Deluxe Edition\)](https://open.spotify.com/album/4iuZr9ptf5nAy3f8afPdBM) | 6:19 | 2023-04-14 | 2023-04-27 |
 | [The Bay](https://open.spotify.com/track/2akjLHnHjDGsgqxuf48VYs) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [The English Riviera](https://open.spotify.com/album/716fnrS2qXChPC3J2X73pK) | 4:50 | 2022-11-10 |  |
 | [The End Has No End](https://open.spotify.com/track/0dy6iXYIF0piirySAzCBwF) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Room On Fire](https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh) | 3:05 | 2022-11-10 |  |

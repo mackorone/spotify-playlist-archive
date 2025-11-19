@@ -2,14 +2,15 @@
 
 ### [Je Moerstaal](https://open.spotify.com/playlist/37i9dQZF1DWUX3x84bv557)
 
-> Frisse Nederlandse pop\. Cover: Roxy Dekker
+> Exclusief nieuwe LUNA 'Woensdag'!
 
-1,140 songs - 2 day 6 hr 30 min
+1,142 songs - 2 day 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['s Avonds](https://open.spotify.com/track/7x1g0FzxUy4ca0NQE6ufl3) | [PRISKA](https://open.spotify.com/artist/2VnNxgnvg9H85vWtZuBo6w) | ['s Avonds](https://open.spotify.com/album/5sP1fZrdIBXxXeU0daeAko) | 2:52 | 2025-04-11 | 2025-07-18 |
 | [0612345678](https://open.spotify.com/track/244Lc2uhaHG8ax7Y1Yme5Q) | [Ceder](https://open.spotify.com/artist/4m9BUPqIW7bFZqYVh9rcDd), [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [0612345678](https://open.spotify.com/album/3CgYS7rGV4pFRojDGRCX0g) | 2:23 | 2025-09-18 |  |
+| [1 Dag](https://open.spotify.com/track/4zQh8F0jxyUsKBdKjVvy2x) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Re\-Play](https://open.spotify.com/artist/3P6TDldsIBKCowucdJfFZd) | [1 Dag](https://open.spotify.com/album/1SIgkWVynAWhGZ1s5wyME6) | 3:24 | 2025-11-18 |  |
 | [1 Dans](https://open.spotify.com/track/2kO7seuAYgbVWVvVzLZSP3) | [Guusje](https://open.spotify.com/artist/3JrsxoRQjMCK7UjatNPTGx) | [Doodgewoon](https://open.spotify.com/album/33R9zCzhjy1G0uDU76nmlF) | 3:06 | 2025-03-06 | 2025-06-06 |
 | [1 Laatste Keer](https://open.spotify.com/track/5dRfb6MQJmJyO6jsstRekk) | [ROI](https://open.spotify.com/artist/2RvGx3eWrv0Yiq6nJQNXwA), [Jada Faith](https://open.spotify.com/artist/1Y1heq4pqZt7bF5lKZCDfL) | [1 Laatste Keer](https://open.spotify.com/album/4H8RdxKXJYaaSj2h79x6VY) | 2:51 | 2023-11-30 | 2024-03-01 |
 | [1 Minuut](https://open.spotify.com/track/1p1BuKbmgTCQ87dB7Jcqfi) | [BENR](https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ) | [1 Minuut](https://open.spotify.com/album/19pkLb6FIBcy1b9pjtiRXH) | 2:33 | 2024-02-15 | 2024-05-17 |
@@ -1088,6 +1089,7 @@
 | [Wild Wild West](https://open.spotify.com/track/4pGud1eTrk6mWSOUw33u9o) | [Mick Spek](https://open.spotify.com/artist/23mbvDIZJjSK4y4KhwlnHi) | [Wild Wild West](https://open.spotify.com/album/3ifeNIgF6ce5nNDW9uKlR9) | 2:56 | 2023-02-23 | 2023-05-12 |
 | [Winnaar Van De Tijd](https://open.spotify.com/track/7HZ1jlkGv2Y4qL975pHmfl) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Winnaar Van De Tijd](https://open.spotify.com/album/13D8OBwzsJyCycsdey7mf8) | 2:29 | 2024-05-16 | 2024-10-19 |
 | [WJNMK](https://open.spotify.com/track/7zPY8eLsVIJCE8OK4OGxhg) | [ANNE](https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS) | [WJNMK](https://open.spotify.com/album/6Z2PlWQWGLk4QsIQQIjcnE) | 2:40 | 2025-06-19 | 2025-07-18 |
+| [Woensdag](https://open.spotify.com/track/2uPSbhD8EF8VcE8SY82OGf) | [LUNA](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf) | [Woensdag](https://open.spotify.com/album/5UNGlTJNPHvD2YhTvJgKRc) | 2:21 | 2025-11-18 |  |
 | [Wolk breekt](https://open.spotify.com/track/6qIfk3xwdbK2GpdqqT0bCQ) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [Heimwee](https://open.spotify.com/album/6IgSZ5VJ7m1dP5zeaWBUWh) | 4:10 | 2024-09-12 | 2024-10-11 |
 | [Wolken](https://open.spotify.com/track/2OmLONCXv8o6QEgmzcAmBa) | [AISHA](https://open.spotify.com/artist/5UpppF0nILJOYwXkRCgieY) | [Wolken](https://open.spotify.com/album/2AmTE3OZBOAS1EiihK6wzG) | 2:20 | 2025-11-06 |  |
 | [Wolken](https://open.spotify.com/track/0NqbWfwz6jYjLFV5MbYiqy) | [Flaire](https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH) | [Wolken](https://open.spotify.com/album/0lNqObUDwt9zoj5wDVpGoD) | 3:25 | 2025-01-16 | 2025-03-28 |

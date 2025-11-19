@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX186v583rmzp.md) - [plain]
 
 > Real rap music from the golden era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,201,659 likes - 100 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,202,317 likes - 100 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX186v583rmzp.md) - [plain]
 | 75 | [Halftime](https://open.spotify.com/track/2PRsh2LNPxoxC9OnErnelg) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Illmatic](https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1) | 4:20 |
 | 76 | [Gimme Some More](https://open.spotify.com/track/47wZfF4OdME3xkIPhhpSSF) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Extinction Level Event: The Final World Front](https://open.spotify.com/album/4zb4gmGzDYtlWMjmc1NZWW) | 2:38 |
 | 77 | [The Choice Is Yours \(Revisited\)](https://open.spotify.com/track/4k9EkhkFZY8Bk41Qi0Ob7P) | [Black Sheep](https://open.spotify.com/artist/0NnCgUxhtWt1yBtpDyvFQf) | [A Wolf In Sheep's Clothing](https://open.spotify.com/album/4tIQR0m3PPwybQ32P256IO) | 4:03 |
-| 78 | [Scenario \(feat\. Busta Rhymes, Dinco D & Charlie Brown\) \- LP Mix](https://open.spotify.com/track/0301nLjG0ti26rx5ZmfqtP) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Dinco D](https://open.spotify.com/artist/2cS6wbmG3wMYrzJperKqaa), [Charlie Brown](https://open.spotify.com/artist/23eGWtGneElWXARaabR0Dk) | [The Low End Theory](https://open.spotify.com/album/1p12OAWwudgMqfMzjMvl2a) | 4:10 |
-| 79 | [Guess Who's Back](https://open.spotify.com/track/5czjjnbTatyFal33a9h1aN) | [Rakim](https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE) | [The 18th Letter / The Book Of Life](https://open.spotify.com/album/24ukVVKIZapjS6uDgF1qSn) | 4:10 |
+| 78 | [Guess Who's Back](https://open.spotify.com/track/5czjjnbTatyFal33a9h1aN) | [Rakim](https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE) | [The 18th Letter / The Book Of Life](https://open.spotify.com/album/24ukVVKIZapjS6uDgF1qSn) | 4:10 |
+| 79 | [Scenario \(feat\. Busta Rhymes, Dinco D & Charlie Brown\) \- LP Mix](https://open.spotify.com/track/0301nLjG0ti26rx5ZmfqtP) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Dinco D](https://open.spotify.com/artist/2cS6wbmG3wMYrzJperKqaa), [Charlie Brown](https://open.spotify.com/artist/23eGWtGneElWXARaabR0Dk) | [The Low End Theory](https://open.spotify.com/album/1p12OAWwudgMqfMzjMvl2a) | 4:10 |
 | 80 | [Ice Cream \(feat\. Ghostface Killah, Method Man & Cappadonna\)](https://open.spotify.com/track/6SI4JD7iyQ0rrudhCNtMv0) | [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [Cappadonna](https://open.spotify.com/artist/0dS5xeDefwoUNasLUHnCjR) | [Only Built 4 Cuban Linx...](https://open.spotify.com/album/7btiyhWzUfzxN3ijSiBpC8) | 4:13 |
 | 81 | [Elevators \(Me & You\)](https://open.spotify.com/track/2oLwDI8tZUOh6SmTMRRfKs) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [ATLiens](https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0) | 4:25 |
 | 82 | [Tonight's Da Night](https://open.spotify.com/track/67mtN6BlsJR0LVyzvNZnGt) | [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [Whut? Thee Album](https://open.spotify.com/album/3FsCGJY0JqSxvgezoMWYzF) | 3:21 |

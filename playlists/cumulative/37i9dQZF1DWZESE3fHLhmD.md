@@ -4,7 +4,7 @@
 
 > Pumpkin Spice everything  🧡
 
-353 songs - 18 hr 52 min
+354 songs - 18 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,7 +214,7 @@
 | [MUTT](https://open.spotify.com/track/1mh9eHVRdNhzryG43PXdW1) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0b64yYszabe2wxhG1PiSQo) | 3:13 | 2025-03-28 |  |
 | [My Home](https://open.spotify.com/track/0MtfUEHee9p6RsqAwW8gyF) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [My Home](https://open.spotify.com/album/1K4dKsiNYFfJBYykQQXw6R) | 3:26 | 2023-11-17 | 2024-02-14 |
 | [My Home](https://open.spotify.com/track/4ZEw5uS9RY6M6lEjsu7w8Q) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [My Home](https://open.spotify.com/album/6PXZreuCbDw0VlSBrPJ1ND) | 3:26 | 2024-02-09 | 2024-04-19 |
-| [Nice To Each Other](https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Nice To Each Other](https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV) | 3:29 | 2025-06-17 |  |
+| [Nice To Each Other](https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Nice To Each Other](https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV) | 3:29 | 2025-06-17 | 2025-11-19 |
 | [Nicht allein](https://open.spotify.com/track/24ejkPQlpnaOtRGnA8w2bF) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [Nicht allein](https://open.spotify.com/album/70GyiV8LToJYGYE6pxh8IL) | 2:07 | 2023-12-19 | 2024-02-16 |
 | [nie wieder normal](https://open.spotify.com/track/5exlcLrnyW9DEmLCjke1Wv) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu), [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS) | [nie wieder normal](https://open.spotify.com/album/6VUg6frxqTVbVlIn4oFoav) | 3:17 | 2023-09-01 | 2025-10-10 |
 | [No Fear](https://open.spotify.com/track/2H881m3JRA8lpuuwaQL6zy) | [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF) | [No Fear](https://open.spotify.com/album/35uDNZkjmhAEnV3sz9A7jI) | 2:49 | 2024-03-01 | 2024-12-08 |
@@ -275,6 +275,7 @@
 | [Sing Like Madonna](https://open.spotify.com/track/6R81LNxCNqY9c1TXCuyvXq) | [Sebastian Schub](https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS) | [Sing Like Madonna](https://open.spotify.com/album/4iDYXsSzgSmXRzzyBfR6yT) | 3:33 | 2024-10-18 |  |
 | [Siren sounds \(bonus\)](https://open.spotify.com/track/181yGUB8xEh4LfK8KhC4Wa) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/6KaEpgeZQF6ZVVAmSoZUrb) | 3:03 | 2025-09-25 |  |
 | [SNAP](https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR) | 2:59 | 2023-07-26 | 2024-04-19 |
+| [So Easy \(To Fall In Love\)](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:49 | 2025-11-18 |  |
 | [So Sick Of Dreaming](https://open.spotify.com/track/2VWU98gL9ePoBWzjttq3iC) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/3q149oaxOiW9EoHXqM5nvO) | 3:52 | 2024-04-05 | 2024-04-19 |
 | [So Sick Of Dreaming](https://open.spotify.com/track/4pUWfW7nhtlmqww70u0nkh) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [So Sick Of Dreaming](https://open.spotify.com/album/3WI6jJQhOD82xGYDLTjk0v) | 3:52 | 2024-03-22 | 2024-04-15 |
 | [Softly](https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Softly](https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN) | 3:08 | 2023-07-26 | 2024-02-24 |

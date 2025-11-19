@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 
 > De mooiste muziek: Americana \| Country
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,864 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,863 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 | 14 | [Time \(feat\. Jade Bird\)](https://open.spotify.com/track/3yR8gF5hxJFTXSaZcJCRr3) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0), [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Time \(feat\. Jade Bird\)](https://open.spotify.com/album/4baR3GcohEvZbNkyHqEFC6) | 2:58 |
 | 15 | [Pink Skies](https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Pink Skies](https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT) | 3:14 |
 | 16 | [Indigo \(feat\. Avery Anna\)](https://open.spotify.com/track/1KZG1H1OCugGqIRmk1wF9m) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a), [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Restless Mind](https://open.spotify.com/album/3Dx1IXTwJVIMkEzVMSSSrp) | 4:46 |
-| 17 | [I'm The Problem](https://open.spotify.com/track/3HlWVKwU0JqJXqJK9DWHnZ) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I'm The Problem](https://open.spotify.com/album/0mc2gCpCL7rXvz6HGR6evD) | 2:57 |
-| 18 | [O.D.](https://open.spotify.com/track/2E6HksJPriDYu6thbR6xrV) | [Waylon Wyatt](https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol) | [Til The Sun Goes Down](https://open.spotify.com/album/4hGNvSjAbNPDni4TS22HIM) | 2:49 |
+| 17 | [O.D.](https://open.spotify.com/track/2E6HksJPriDYu6thbR6xrV) | [Waylon Wyatt](https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol) | [Til The Sun Goes Down](https://open.spotify.com/album/4hGNvSjAbNPDni4TS22HIM) | 2:49 |
+| 18 | [I'm The Problem](https://open.spotify.com/track/3HlWVKwU0JqJXqJK9DWHnZ) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I'm The Problem](https://open.spotify.com/album/0mc2gCpCL7rXvz6HGR6evD) | 2:57 |
 | 19 | [What Am I Gonna Do](https://open.spotify.com/track/4DYVmGdpglpFoq1YyawFCl) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Higher](https://open.spotify.com/album/6kcZ35GY84A3FBIcIKVqTW) | 3:01 |
 | 20 | [LEO](https://open.spotify.com/track/2AHfDqdnzfXBwLoKFoWsmg) | [Kimmy June](https://open.spotify.com/artist/1sKzVtXJLtrK6BGTKVJzGK) | [LEO](https://open.spotify.com/album/0iwv7taqBBnXTqPI4p1fYg) | 3:13 |
 | 21 | [Man of the Year](https://open.spotify.com/track/2xlsLf7aPOZlk1p3dvwpeH) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Man of the Year](https://open.spotify.com/album/58iFqnIfxNpuXu1Por7USP) | 3:48 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 | 42 | [Southern Star](https://open.spotify.com/track/6KoHiQmj10mI4V9Xu7CMRN) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Southern Star](https://open.spotify.com/album/3FZsjVIsJqoZ3gc7Bp3P24) | 5:05 |
 | 43 | [Elderberry Wine](https://open.spotify.com/track/1FZXwhynIW71oSoo1u20L5) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Elderberry Wine](https://open.spotify.com/album/5qKmEm0NJ4OzvvUa1cruSV) | 3:35 |
 | 44 | [Every Town](https://open.spotify.com/track/3cGCnGYGIDZXz1MK4QHDc0) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Every Town](https://open.spotify.com/album/2qzfwlGdVtbiJuUBhhOU2Q) | 3:53 |
-| 45 | [All Behind](https://open.spotify.com/track/0zqTjVEqt6YsLG1DwLWW9E) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [All Behind](https://open.spotify.com/album/3Vtcyh9oWdZtNFrikeONaZ) | 4:05 |
-| 46 | [Back At Your Door](https://open.spotify.com/track/4JL5loZbBLCyLsLPgjLmEb) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Stampede](https://open.spotify.com/album/3vi7hLbbjQBJypfAA2gafE) | 3:32 |
+| 45 | [Back At Your Door](https://open.spotify.com/track/4JL5loZbBLCyLsLPgjLmEb) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Stampede](https://open.spotify.com/album/3vi7hLbbjQBJypfAA2gafE) | 3:32 |
+| 46 | [All Behind](https://open.spotify.com/track/0zqTjVEqt6YsLG1DwLWW9E) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [All Behind](https://open.spotify.com/album/3Vtcyh9oWdZtNFrikeONaZ) | 4:05 |
 | 47 | [Moondog](https://open.spotify.com/track/1H26eTheLo3Flr7KIdtSce) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Moondog](https://open.spotify.com/album/0C6QY4CHawH4KPL6GmeTnK) | 5:05 |
 | 48 | [Highway Queen \(feat\. Maren Morris\)](https://open.spotify.com/track/4KjOZ6Ny13zPbBFH7Od8bt) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Highway Queen \(feat\. Maren Morris\)](https://open.spotify.com/album/6UzzFc365CidnoOcEfs3qb) | 3:31 |
 | 49 | [One Deep River](https://open.spotify.com/track/3Ruhf6RwJbrCmP4LcLw0lZ) | [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [One Deep River](https://open.spotify.com/album/1VD0dpNJZjdQ0lelA5JTHv) | 4:17 |

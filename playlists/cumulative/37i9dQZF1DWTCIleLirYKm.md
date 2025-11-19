@@ -4,7 +4,7 @@
 
 > a state of mind.
 
-121 songs - 7 hr 5 min
+121 songs - 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [Angel from Montgomery \- 2008 Remaster](https://open.spotify.com/track/6JssQFiBCi6ZcE6060S9A7) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Streetlights](https://open.spotify.com/album/3FEpG9aXxEwWfdpHeCScvO) | 3:59 | 2023-04-14 |  |
 | [Another Bad Apple](https://open.spotify.com/track/3r9qooc5NP0klrtZbFfBhC) | [Ward Davis](https://open.spotify.com/artist/2Tpxz9WfPRZGQNSCzrjk0a) | [Another Bad Apple](https://open.spotify.com/album/6auwDOqgyAHQVYpfBcOmR9) | 3:03 | 2023-04-14 |  |
 | [Another Bad Apple](https://open.spotify.com/track/5DXkH66yHd6nTMlby8AwHD) | [Ward Davis](https://open.spotify.com/artist/2Tpxz9WfPRZGQNSCzrjk0a) | [Another Bad Apple](https://open.spotify.com/album/5O8QT0vzGanGGu8DZAiitB) | 3:03 | 2023-12-22 | 2024-04-19 |
-| [Are You Sure Hank Done It This Way](https://open.spotify.com/track/5Z0Khiz8xgC8AYMr4ctS8Y) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM) | [Dreaming My Dreams](https://open.spotify.com/album/2iZvfv5wU8DxGm2o2O1dis) | 2:54 | 2023-04-14 |  |
+| [Are You Sure Hank Done It This Way](https://open.spotify.com/track/5Z0Khiz8xgC8AYMr4ctS8Y) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM) | [Dreaming My Dreams](https://open.spotify.com/album/2iZvfv5wU8DxGm2o2O1dis) | 2:58 | 2023-04-14 |  |
 | [Bad Bad Boys \(feat\. Isaac Gibson & Ashley McBryde\)](https://open.spotify.com/track/4tESEUdV1yAQFI1tCBSbrY) | [Kendell Marvel](https://open.spotify.com/artist/7l77Y7qC5sVTsVoU2MymGX), [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB), [Isaac Gibson](https://open.spotify.com/artist/2FGwSMAi6exNr1xihg7vSO), [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Bad Bad Boys \(feat\. Isaac Gibson & Ashley McBryde\)](https://open.spotify.com/album/2NwfjSQinVJfMwVduoWiul) | 3:19 | 2025-05-16 |  |
 | [Between Jennings And Jones](https://open.spotify.com/track/2Jq2KzxOvLrlH16hlcnm7d) | [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [That Lonesome Song](https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i) | 4:11 | 2023-04-14 |  |
 | [Big Iron](https://open.spotify.com/track/0AQquaENerGps8BQmbPw14) | [Marty Robbins](https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo) | [Gunfighter Ballads And Trail Songs](https://open.spotify.com/album/3kQpBS26lAj0A0VGl1snRl) | 3:55 | 2023-04-14 |  |
@@ -39,7 +39,7 @@
 | [God's Gonna Cut You Down](https://open.spotify.com/track/6jXPZid0KLorvgIDP6TiSo) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American V: A Hundred Highways](https://open.spotify.com/album/16VJRQuM2mXHkuppi3SNAh) | 2:38 | 2023-12-22 | 2024-04-19 |
 | [Good Hearted Woman](https://open.spotify.com/track/4KmAGKJbeY2DUiLInlet53) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM) | [Good Hearted Woman](https://open.spotify.com/album/13fXjHXIcgjroGQ4vsUfbv) | 3:01 | 2023-04-14 |  |
 | [Guitar Town](https://open.spotify.com/track/62ZRHYSOIT9WeZnz18kTHS) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Guitar Town](https://open.spotify.com/album/3bEnaGjQRqfoqNkAQtO1Uy) | 2:35 | 2023-04-14 |  |
-| [Help Me Make It Through the Night](https://open.spotify.com/track/2KU944ARlycn1xv8W4I3Oe) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Kristofferson](https://open.spotify.com/album/4HN8SWymMSOxquR6wY2vke) | 2:21 | 2023-04-14 |  |
+| [Help Me Make It Through the Night](https://open.spotify.com/track/2KU944ARlycn1xv8W4I3Oe) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Kristofferson](https://open.spotify.com/album/4HN8SWymMSOxquR6wY2vke) | 2:27 | 2023-04-14 |  |
 | [Help Me Make It Through The Night](https://open.spotify.com/track/2XWmbwp9FBAaFcSE9BLQzc) | [Sammi Smith](https://open.spotify.com/artist/5kZDCAD5zLelf8NYHoRSHS) | [The Best Of Sammi Smith](https://open.spotify.com/album/5E3rKn4oBda4nqbxBlBvQg) | 2:35 | 2023-04-14 |  |
 | [High Cost Of Living](https://open.spotify.com/track/73sWpECi7iZrcISLSRxuaH) | [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [That Lonesome Song](https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i) | 5:45 | 2023-04-14 |  |
 | [Highway Queen](https://open.spotify.com/track/1HSK85Escjg7ClgwgnMI0G) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Highway Queen](https://open.spotify.com/album/0tYgeDm3xRF6AV19UwDXXW) | 3:51 | 2023-04-14 |  |
@@ -101,7 +101,7 @@
 | [Somewhere South of Macon](https://open.spotify.com/track/72J7xbHVfQNB4WMqzHqutu) | [Marshall Chapman](https://open.spotify.com/artist/10NyEvFwxog3iXO1IBYla9) | [Me, I'm Feelin' Free](https://open.spotify.com/album/6bdiWNrvbYmojW1IYQ2bXc) | 3:26 | 2023-04-14 |  |
 | [Southern Babylon](https://open.spotify.com/track/5ElasZohobE6WPwvP5YT5S) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Girl Going Nowhere](https://open.spotify.com/album/2FeaUU9jFydTIsVO5F8rNU) | 4:05 | 2023-04-14 |  |
 | [Stone](https://open.spotify.com/track/4rJesaufMl2xD0f2G8Xgnd) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Mud](https://open.spotify.com/album/73umj4b9Y8amNnJk6diicy) | 5:35 | 2023-04-14 |  |
-| [Sunday Mornin' Comin' Down](https://open.spotify.com/track/4JwFrnLLSO4qqxOeHQATf4) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Kristofferson](https://open.spotify.com/album/4HN8SWymMSOxquR6wY2vke) | 4:30 | 2023-04-14 |  |
+| [Sunday Mornin' Comin' Down](https://open.spotify.com/track/4JwFrnLLSO4qqxOeHQATf4) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Kristofferson](https://open.spotify.com/album/4HN8SWymMSOxquR6wY2vke) | 4:35 | 2023-04-14 |  |
 | [Take This Job and Shove It](https://open.spotify.com/track/63CbvkHcX8VBn09CCcGDLQ) | [Johnny Paycheck](https://open.spotify.com/artist/0DchahWJGQqrqr8PMM5zQD) | [Take This Job And Shove It](https://open.spotify.com/album/6XK1mI9IEtrn6HmhPV86HI) | 2:37 | 2023-04-14 |  |
 | [Tecumseh Valley](https://open.spotify.com/track/7eby7k1AaLr3YT8z9wE996) | [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY), [Elizabeth Cook](https://open.spotify.com/artist/0dyEUZv8ftA0dzL5vb2Y9s) | [Tecumseh Valley / Pancho & Lefty](https://open.spotify.com/album/79qPXm841M359NMu11XLEH) | 4:40 | 2023-04-14 |  |
 | [That Lonesome Song](https://open.spotify.com/track/3R8YbAsBsFnGIKL25s6iiO) | [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [That Lonesome Song](https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i) | 4:01 | 2023-04-14 |  |

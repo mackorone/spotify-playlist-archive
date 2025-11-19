@@ -1,12 +1,12 @@
 {
   "description": "This is Miles Davis. The essential tracks, all in one playlist.",
-  "num_followers": 244484,
+  "num_followers": 244498,
   "original_name": "This Is Miles Davis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRkUAAAAAACNzIPgbUk3YX5OUQ9vygoJ",
+  "snapshot_id": "aRplgAAAAAA9TKoROzl6yrYQgzeDYd9G",
   "tracks": [
     {
       "added_at": null,
@@ -243,22 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ascenseur pour l'\u00e9chafaud",
-        "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 172330,
-      "name": "Au bar du Petit Bac - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
-      "url": "https://open.spotify.com/track/4x1wPhR48abeSDr6o25NAv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Blue Note And Capitol Recordings",
         "url": "https://open.spotify.com/album/2ZN3YPrCFvHJ9dTni1jBUz"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 242973,
       "name": "It Never Entered My Mind",
       "url": "https://open.spotify.com/track/4ZX7fXhm6iwP7nABz1tcFB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ascenseur pour l'\u00e9chafaud",
+        "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 172330,
+      "name": "Au bar du Petit Bac - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
+      "url": "https://open.spotify.com/track/4x1wPhR48abeSDr6o25NAv"
     },
     {
       "added_at": null,
@@ -811,8 +811,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Miles Davis And Horns",
-        "url": "https://open.spotify.com/album/2EVuUPzrGCa5NvPD3h2SBA"
+        "name": "Embraceable",
+        "url": "https://open.spotify.com/album/2j5GUDLnu0vbZCK1fgHo7c"
       },
       "artists": [
         {
@@ -820,9 +820,9 @@
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 180693,
-      "name": "Blue Room - Take 2",
-      "url": "https://open.spotify.com/track/1ueS3LNe63cdkK0boxwEJQ"
+      "duration_ms": 243600,
+      "name": "Out Of Nowhere",
+      "url": "https://open.spotify.com/track/5cA3pwT15ubAZeJR0gRppU"
     },
     {
       "added_at": null,
@@ -843,8 +843,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Embraceable",
-        "url": "https://open.spotify.com/album/2j5GUDLnu0vbZCK1fgHo7c"
+        "name": "Miles Davis And Horns",
+        "url": "https://open.spotify.com/album/2EVuUPzrGCa5NvPD3h2SBA"
       },
       "artists": [
         {
@@ -852,9 +852,9 @@
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 243600,
-      "name": "Out Of Nowhere",
-      "url": "https://open.spotify.com/track/5cA3pwT15ubAZeJR0gRppU"
+      "duration_ms": 180693,
+      "name": "Blue Room - Take 2",
+      "url": "https://open.spotify.com/track/1ueS3LNe63cdkK0boxwEJQ"
     },
     {
       "added_at": null,
@@ -895,26 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sketches of Spain",
-        "url": "https://open.spotify.com/album/2xyhltm9XWSQ5xok4C81BD"
-      },
-      "artists": [
-        {
-          "name": "Gil Evans",
-          "url": "https://open.spotify.com/artist/7g9DeYASD3RzlT4kDchsQZ"
-        },
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 236992,
-      "name": "The Pan Piper",
-      "url": "https://open.spotify.com/track/2bQqOVOml9LQYfyjO3BbOW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bags' Groove (Rudy Van Gelder Remaster)",
         "url": "https://open.spotify.com/album/3rs2Wq1755vGmXxIioU7Xo"
       },
@@ -947,6 +927,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sketches of Spain",
+        "url": "https://open.spotify.com/album/2xyhltm9XWSQ5xok4C81BD"
+      },
+      "artists": [
+        {
+          "name": "Gil Evans",
+          "url": "https://open.spotify.com/artist/7g9DeYASD3RzlT4kDchsQZ"
+        },
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 236992,
+      "name": "The Pan Piper",
+      "url": "https://open.spotify.com/track/2bQqOVOml9LQYfyjO3BbOW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Everything's Beautiful",
         "url": "https://open.spotify.com/album/0DI27qIRQRFkXrMvHxj9yh"
       },
@@ -964,7 +964,7 @@
           "url": "https://open.spotify.com/artist/5SyCTZ8X8YQCI0J1VRp4iC"
         }
       ],
-      "duration_ms": 203680,
+      "duration_ms": 203687,
       "name": "Violets (feat. Phonte)",
       "url": "https://open.spotify.com/track/185ciwUe4FUDPG7VHFNzcv"
     },
@@ -983,26 +983,6 @@
       "duration_ms": 253933,
       "name": "I Loves You, Porgy (From \"Porgy & Bess\")",
       "url": "https://open.spotify.com/track/4udO0OrgJ1Z4CtL9GiOYw9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Complete Columbia Studio Recordings",
-        "url": "https://open.spotify.com/album/6KyD1Yj3FfMVCie7WVMTSz"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        },
-        {
-          "name": "Gil Evans",
-          "url": "https://open.spotify.com/artist/7g9DeYASD3RzlT4kDchsQZ"
-        }
-      ],
-      "duration_ms": 30693,
-      "name": "Studio Discussion - One",
-      "url": "https://open.spotify.com/track/2XKlsf6SUUiGQJ5sGU7cum"
     },
     {
       "added_at": null,
@@ -1035,6 +1015,26 @@
       "duration_ms": 312480,
       "name": "Oleo - RVG Remaster",
       "url": "https://open.spotify.com/track/6xPwn3TDhmKr2LWwg15a3i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Complete Columbia Studio Recordings",
+        "url": "https://open.spotify.com/album/6KyD1Yj3FfMVCie7WVMTSz"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "Gil Evans",
+          "url": "https://open.spotify.com/artist/7g9DeYASD3RzlT4kDchsQZ"
+        }
+      ],
+      "duration_ms": 30693,
+      "name": "Studio Discussion - One",
+      "url": "https://open.spotify.com/track/2XKlsf6SUUiGQJ5sGU7cum"
     },
     {
       "added_at": null,

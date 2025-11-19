@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sWdTksRl5C.md) - [plain]
 
 > Don't play the odds, play the man\. Listen to the music from Suits & NBC's Suits LA, streaming on Peacock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,190 likes - 56 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,192 likes - 56 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sWdTksRl5C.md) - [plain]
 | 51 | [Cold Blood](https://open.spotify.com/track/6UeE8WZ4NPrfIfSublcyta) | [Dave Not Dave](https://open.spotify.com/artist/4PEQbhvNPxwVDzi8ArDorB) | [Cold Blood](https://open.spotify.com/album/1W3utG5qxHwrnMONmMPFeT) | 4:03 |
 | 52 | [This Empty Northern Hemisphere](https://open.spotify.com/track/5FY6QpvB4NDI14MCx5T9xi) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [This Empty Northern Hemisphere](https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g) | 5:00 |
 | 53 | [When I Go](https://open.spotify.com/track/47MRrxHHrXq4qThZPOBABa) | [Keaton Simons](https://open.spotify.com/artist/3JtduJLfvJEAjll8oupFy5) | [When I Go](https://open.spotify.com/album/4aBmarR5hYd1DB87Nm5KuY) | 3:24 |
-| 54 | [Better Man](https://open.spotify.com/track/7tOYSMYowhxJ0uK3WMoL5n) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 2:20 |
+| 54 | [Better Man](https://open.spotify.com/track/7tOYSMYowhxJ0uK3WMoL5n) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 2:21 |
 | 55 | [Into The Wild](https://open.spotify.com/track/4g2T3FUjXH6XuboKw60hHX) | [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Sideways](https://open.spotify.com/album/5XsAy9Iqc4HVotx800ojMA) | 3:30 |
 | 56 | [The Scientist](https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 5:09 |
 

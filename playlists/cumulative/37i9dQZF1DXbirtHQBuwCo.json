@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "\bTrendy & Chill Korean R&B music. (Cover: \nDIMO REX)",
+  "description": "\bTrendy & Chill Korean R&B music. (Cover: \nKISS OF LIFE)",
   "name": "TrenChill K-R&B",
   "tracks": [
     {
@@ -7179,6 +7179,32 @@
     },
     {
       "album": {
+        "name": "MAGIC STATION 1",
+        "url": "https://open.spotify.com/album/2dxvaQ3N7QBu51mnaLrV0Y"
+      },
+      "artists": [
+        {
+          "name": "Bronze",
+          "url": "https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7"
+        },
+        {
+          "name": "zin",
+          "url": "https://open.spotify.com/artist/7KPRlWVq4NZrXWmHTseuTW"
+        },
+        {
+          "name": "PENOMECO",
+          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207560,
+      "name": "I Can\u2032t Let You Go (Feat. zin, PENOMECO)",
+      "url": "https://open.spotify.com/track/632zGKeiF91cwghhKkUPWE"
+    },
+    {
+      "album": {
         "name": "HOPE ON THE STREET VOL.1",
         "url": "https://open.spotify.com/album/5mqxdPWQirLBE7vdDMhlB4"
       },
@@ -9477,6 +9503,24 @@
     },
     {
       "album": {
+        "name": "Lucky (Korean Ver.)",
+        "url": "https://open.spotify.com/album/27Kg4RNGzT2vIQ6OvXUjt5"
+      },
+      "artists": [
+        {
+          "name": "KISS OF LIFE",
+          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Lucky (Korean Ver.)",
+      "url": "https://open.spotify.com/track/5PD4iehNUhZQsmM9E5Vznt"
+    },
+    {
+      "album": {
         "name": "LUH!",
         "url": "https://open.spotify.com/album/3VxgMjHe85dofrqFLQDO9D"
       },
@@ -10430,6 +10474,24 @@
     {
       "album": {
         "name": "NAKED",
+        "url": "https://open.spotify.com/album/2BXbtEqrsNv1LNV3y4Dtki"
+      },
+      "artists": [
+        {
+          "name": "Y:SY",
+          "url": "https://open.spotify.com/artist/6poSAr6d3ycm04lRtcMzxA"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185339,
+      "name": "NAKED",
+      "url": "https://open.spotify.com/track/2a6vMQiclAa0ZcBy6zFn4H"
+    },
+    {
+      "album": {
+        "name": "NAKED",
         "url": "https://open.spotify.com/album/72yIggsMNYf64b22AFH1SA"
       },
       "artists": [
@@ -10480,7 +10542,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 166802,
       "name": "Natural",
       "url": "https://open.spotify.com/track/3irxOdgyrh21D6Vo2ALbUF"
@@ -11468,6 +11530,28 @@
       "duration_ms": 201160,
       "name": "On my mind",
       "url": "https://open.spotify.com/track/14nJ3FvG5dtIwQpMLY4c5B"
+    },
+    {
+      "album": {
+        "name": "Paradox",
+        "url": "https://open.spotify.com/album/39OHQDVXPOR1RqPj4n3XTw"
+      },
+      "artists": [
+        {
+          "name": "RYUL",
+          "url": "https://open.spotify.com/artist/6NA2UPZOjtjgrd4aCEiscq"
+        },
+        {
+          "name": "Moon Sujin",
+          "url": "https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147242,
+      "name": "On The Rocks",
+      "url": "https://open.spotify.com/track/4HOxNNxaJEP7xfX0f0Nm7O"
     },
     {
       "album": {
@@ -14308,7 +14392,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 140000,
       "name": "Space Invader",
       "url": "https://open.spotify.com/track/3yg3Grgpxjut7gs9inW0p3"
@@ -15522,7 +15606,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 178346,
       "name": "Times Of Our Lives",
       "url": "https://open.spotify.com/track/1au7Q5Ae6G5Dyd3Lu4kXrY"
@@ -15754,7 +15838,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 149053,
       "name": "Trigger (DINO Solo)",
       "url": "https://open.spotify.com/track/0MerfQMNc9OPWZvZWeUKWe"

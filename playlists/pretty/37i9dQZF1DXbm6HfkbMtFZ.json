@@ -1,6 +1,6 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 828951,
+  "num_followers": 829025,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
@@ -347,6 +347,22 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
+        "name": "11",
+        "url": "https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 297717,
+      "name": "Fight for Love",
+      "url": "https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D"
+    },
+    {
+      "added_at": "2025-10-24 22:16:10",
+      "album": {
         "name": "Homegrown",
         "url": "https://open.spotify.com/album/4vAakYtJWrer6lENSAP19l"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 143606,
       "name": "Groceries",
       "url": "https://open.spotify.com/track/5KXNgbRYbqwEFIFM0AMakg"
-    },
-    {
-      "added_at": "2025-10-24 22:16:10",
-      "album": {
-        "name": "11",
-        "url": "https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 297717,
-      "name": "Fight for Love",
-      "url": "https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D"
     },
     {
       "added_at": "2025-10-24 22:16:10",
@@ -859,22 +859,6 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
-        "name": "Los Belkings (Ayer y Hoy)",
-        "url": "https://open.spotify.com/album/3vvNY1JAizDCAnMnxUTZie"
-      },
-      "artists": [
-        {
-          "name": "Los Belkings",
-          "url": "https://open.spotify.com/artist/6bI3v3BkqFwEbXQfB081Dn"
-        }
-      ],
-      "duration_ms": 208213,
-      "name": "Sabor Dulce",
-      "url": "https://open.spotify.com/track/2Xlx1ATkGYjYjmNn0w7O59"
-    },
-    {
-      "added_at": "2025-10-24 22:16:10",
-      "album": {
         "name": "A Strange Arrangement",
         "url": "https://open.spotify.com/album/7JfH5D3XhtWJiAQHweJ4cX"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 190964,
       "name": "Next to Normal",
       "url": "https://open.spotify.com/track/32hyjj6HoeylRLJDEwLRPM"
+    },
+    {
+      "added_at": "2025-10-24 22:16:10",
+      "album": {
+        "name": "Los Belkings (Ayer y Hoy)",
+        "url": "https://open.spotify.com/album/3vvNY1JAizDCAnMnxUTZie"
+      },
+      "artists": [
+        {
+          "name": "Los Belkings",
+          "url": "https://open.spotify.com/artist/6bI3v3BkqFwEbXQfB081Dn"
+        }
+      ],
+      "duration_ms": 208213,
+      "name": "Sabor Dulce",
+      "url": "https://open.spotify.com/track/2Xlx1ATkGYjYjmNn0w7O59"
     },
     {
       "added_at": "2025-10-24 22:16:10",
@@ -1339,26 +1339,6 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
-        "name": "Strange World",
-        "url": "https://open.spotify.com/album/61C4duC2M6Nav2cg6QkIzv"
-      },
-      "artists": [
-        {
-          "name": "St. Panther",
-          "url": "https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0"
-        },
-        {
-          "name": "Rae Khalil",
-          "url": "https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq"
-        }
-      ],
-      "duration_ms": 187185,
-      "name": "Strange World",
-      "url": "https://open.spotify.com/track/3PoMsuOCkDTFinad2PBlEh"
-    },
-    {
-      "added_at": "2025-10-24 22:16:10",
-      "album": {
         "name": "I Hope We Get To Love In Time",
         "url": "https://open.spotify.com/album/6Vwss896snaZfuyr351z99"
       },
@@ -1379,18 +1359,22 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
-        "name": "Tako Tsubo (Extended)",
-        "url": "https://open.spotify.com/album/5TzIufkUkIyyDmWse36b9p"
+        "name": "Strange World",
+        "url": "https://open.spotify.com/album/61C4duC2M6Nav2cg6QkIzv"
       },
       "artists": [
         {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+          "name": "St. Panther",
+          "url": "https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0"
+        },
+        {
+          "name": "Rae Khalil",
+          "url": "https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq"
         }
       ],
-      "duration_ms": 268179,
-      "name": "Off to the Side",
-      "url": "https://open.spotify.com/track/23I5jM64mGFDmYAUpcYBO4"
+      "duration_ms": 187185,
+      "name": "Strange World",
+      "url": "https://open.spotify.com/track/3PoMsuOCkDTFinad2PBlEh"
     },
     {
       "added_at": "2025-10-24 22:16:10",
@@ -1411,6 +1395,22 @@
       "duration_ms": 191039,
       "name": "I Just Want To Talk To You",
       "url": "https://open.spotify.com/track/4TmnRITTYSRhgY2zmEAJQ3"
+    },
+    {
+      "added_at": "2025-10-24 22:16:10",
+      "album": {
+        "name": "Tako Tsubo (Extended)",
+        "url": "https://open.spotify.com/album/5TzIufkUkIyyDmWse36b9p"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        }
+      ],
+      "duration_ms": 268179,
+      "name": "Off to the Side",
+      "url": "https://open.spotify.com/track/23I5jM64mGFDmYAUpcYBO4"
     },
     {
       "added_at": "2025-10-24 22:16:10",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
-        "name": "Lonesome No More",
-        "url": "https://open.spotify.com/album/3Po6WS22068XclNCiZqDIi"
-      },
-      "artists": [
-        {
-          "name": "Laura Jean Anderson",
-          "url": "https://open.spotify.com/artist/2SHGDNcy2dtMu7YSDV19r0"
-        }
-      ],
-      "duration_ms": 187542,
-      "name": "Love You Most",
-      "url": "https://open.spotify.com/track/7p9FUXsiQD12A3LMxkzzMh"
-    },
-    {
-      "added_at": "2025-10-24 22:16:10",
-      "album": {
         "name": "Choose Your Own Adventure",
         "url": "https://open.spotify.com/album/2BPkdWCoILy8WV5nHomCvz"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 253466,
       "name": "The Conservation of Energy",
       "url": "https://open.spotify.com/track/301Xkz1BXL7ve3gl9tRWRM"
+    },
+    {
+      "added_at": "2025-10-24 22:16:10",
+      "album": {
+        "name": "Lonesome No More",
+        "url": "https://open.spotify.com/album/3Po6WS22068XclNCiZqDIi"
+      },
+      "artists": [
+        {
+          "name": "Laura Jean Anderson",
+          "url": "https://open.spotify.com/artist/2SHGDNcy2dtMu7YSDV19r0"
+        }
+      ],
+      "duration_ms": 187542,
+      "name": "Love You Most",
+      "url": "https://open.spotify.com/track/7p9FUXsiQD12A3LMxkzzMh"
     },
     {
       "added_at": "2025-10-24 22:16:10",
@@ -1787,6 +1787,22 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
+        "name": "Picture Frame",
+        "url": "https://open.spotify.com/album/6LaTToJMRmCo1Wtxb2NyhU"
+      },
+      "artists": [
+        {
+          "name": "Hector Morlet",
+          "url": "https://open.spotify.com/artist/1xgCILfNVWEJx7EBN1rC2A"
+        }
+      ],
+      "duration_ms": 195276,
+      "name": "Picture Frame",
+      "url": "https://open.spotify.com/track/0DkZynmdHveUtwaas1Xj2m"
+    },
+    {
+      "added_at": "2025-10-24 22:16:10",
+      "album": {
         "name": "Laurence",
         "url": "https://open.spotify.com/album/4q1YH9oZxmdYu34ucwxPP5"
       },
@@ -1803,22 +1819,6 @@
       "duration_ms": 212413,
       "name": "Laurence",
       "url": "https://open.spotify.com/track/3kVukBQ3JeKNxcI89pi5xL"
-    },
-    {
-      "added_at": "2025-10-24 22:16:10",
-      "album": {
-        "name": "Picture Frame",
-        "url": "https://open.spotify.com/album/6LaTToJMRmCo1Wtxb2NyhU"
-      },
-      "artists": [
-        {
-          "name": "Hector Morlet",
-          "url": "https://open.spotify.com/artist/1xgCILfNVWEJx7EBN1rC2A"
-        }
-      ],
-      "duration_ms": 195276,
-      "name": "Picture Frame",
-      "url": "https://open.spotify.com/track/0DkZynmdHveUtwaas1Xj2m"
     },
     {
       "added_at": "2025-10-24 22:16:10",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
-        "name": "Light Speaks the Quilt",
-        "url": "https://open.spotify.com/album/3maM5jsIfu1ALqYLr0Viov"
-      },
-      "artists": [
-        {
-          "name": "Jonny Kosmo",
-          "url": "https://open.spotify.com/artist/6VyZH1zto2r7gkSYsUUBEx"
-        }
-      ],
-      "duration_ms": 176032,
-      "name": "Rolodex",
-      "url": "https://open.spotify.com/track/2qTh3LFhX5hlJ47i2bTvHK"
-    },
-    {
-      "added_at": "2025-10-24 22:16:10",
-      "album": {
         "name": "Maybe Later",
         "url": "https://open.spotify.com/album/7yocoFhxAHU4mvE0anaPFm"
       },
@@ -1903,6 +1887,22 @@
       "duration_ms": 210240,
       "name": "Oh Honey",
       "url": "https://open.spotify.com/track/4eDePvo9VfLNLmp8RcSAoy"
+    },
+    {
+      "added_at": "2025-10-24 22:16:10",
+      "album": {
+        "name": "Light Speaks the Quilt",
+        "url": "https://open.spotify.com/album/3maM5jsIfu1ALqYLr0Viov"
+      },
+      "artists": [
+        {
+          "name": "Jonny Kosmo",
+          "url": "https://open.spotify.com/artist/6VyZH1zto2r7gkSYsUUBEx"
+        }
+      ],
+      "duration_ms": 176032,
+      "name": "Rolodex",
+      "url": "https://open.spotify.com/track/2qTh3LFhX5hlJ47i2bTvHK"
     },
     {
       "added_at": "2025-10-24 22:16:10",
@@ -1987,22 +1987,18 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
-        "name": "Dark Days [Feat. Sylvan Esso]",
-        "url": "https://open.spotify.com/album/4DZlJSUZnQUFMv4nW6Ijgv"
+        "name": "Play Pretend",
+        "url": "https://open.spotify.com/album/4gk7cTFVAi1cvhsGJSP6IT"
       },
       "artists": [
         {
-          "name": "Local Natives",
-          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
-        },
-        {
-          "name": "Sylvan Esso",
-          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
+          "name": "Ali Angel",
+          "url": "https://open.spotify.com/artist/0RPW9rpDMyVD4wEMzvd1RG"
         }
       ],
-      "duration_ms": 181212,
-      "name": "Dark Days [Feat. Sylvan Esso]",
-      "url": "https://open.spotify.com/track/6ZMYbLF33jIECoG2MClauD"
+      "duration_ms": 204406,
+      "name": "Play Pretend",
+      "url": "https://open.spotify.com/track/5Bd2BRtzcEEm0G1ZU2JwLo"
     }
   ],
   "unique_name": "Feel Good Dinner",

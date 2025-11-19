@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 
 > Country music that rocks\. Cover: Chris Stapleton
 
-[Spotify](https://open.spotify.com/user/spotify) - 639,829 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 640,040 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,10 +89,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 79 | [Off The Rails](https://open.spotify.com/track/6h3eHLBhpWL5KQLRKxXz76) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa) | [Off The Rails](https://open.spotify.com/album/4Hem3OoaopJ70xEEAQGBYO) | 3:04 |
 | 80 | [Alexis Texas](https://open.spotify.com/track/4s62FMj60Tvtf6NtFZvuuK) | [Eddie And The Getaway](https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j) | [Alexis Texas](https://open.spotify.com/album/5IvBLBjl0fY6pVsQoTpKTP) | 2:44 |
 | 81 | [5AM](https://open.spotify.com/track/0VujSPpF82QdEJFFG9U8Ac) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [5AM](https://open.spotify.com/album/2FB6kHSCZ9cfzEnqThq7gu) | 3:07 |
-| 82 | [VICES](https://open.spotify.com/track/50otBPum6Ok3S5zIxtV0rc) | [Ryan Jesse](https://open.spotify.com/artist/3D8Amh1jMYCSSj6aq9pxtl) | [VICES](https://open.spotify.com/album/0nK0xwQwzO1Har2LoMuXSy) | 2:32 |
+| 82 | [Find You \(feat\. Rory Rodriguez\)](https://open.spotify.com/track/6Ai14RhZhVEG9S2Vk6JjsL) | [Jon Langston](https://open.spotify.com/artist/4BANbHDs1IluagTx5eRW2P), [Rory Rodriguez](https://open.spotify.com/artist/2tb0p49ZszUQpEGQNTZuz0) | [Find You \(feat\. Rory Rodriguez\)](https://open.spotify.com/album/3fHJPIAdCJbwVjlPqHUS6E) | 3:32 |
 | 83 | [Lips Of An Angel](https://open.spotify.com/track/6CmzMi95AEhOLIFKOF98ln) | [Shaylen](https://open.spotify.com/artist/5wqQVApxKeHbMsfLJTfWMJ), [Austin John Winkler](https://open.spotify.com/artist/7qxZtX9UNGo338GpLJsSjP) | [Lips Of An Angel](https://open.spotify.com/album/4XjC54w13spoXJeJpFrYLv) | 4:09 |
 | 84 | [I'm Not For Everyone](https://open.spotify.com/track/4OFh1cyIE0Ycd0LbNl9WgX) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [I'm Not For Everyone](https://open.spotify.com/album/3VJT2Km0a8tkdelBOR6ucr) | 2:52 |
-| 85 | [Find You \(feat\. Rory Rodriguez\)](https://open.spotify.com/track/6Ai14RhZhVEG9S2Vk6JjsL) | [Jon Langston](https://open.spotify.com/artist/4BANbHDs1IluagTx5eRW2P), [Rory Rodriguez](https://open.spotify.com/artist/2tb0p49ZszUQpEGQNTZuz0) | [Find You \(feat\. Rory Rodriguez\)](https://open.spotify.com/album/3fHJPIAdCJbwVjlPqHUS6E) | 3:32 |
+| 85 | [VICES](https://open.spotify.com/track/50otBPum6Ok3S5zIxtV0rc) | [Ryan Jesse](https://open.spotify.com/artist/3D8Amh1jMYCSSj6aq9pxtl) | [VICES](https://open.spotify.com/album/0nK0xwQwzO1Har2LoMuXSy) | 2:32 |
 | 86 | [Tabasco & Sweet Tea](https://open.spotify.com/track/4Vqhd4iIm8rzXg3nGvOV5B) | [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [Tabasco & Sweet Tea](https://open.spotify.com/album/6uqyfBbmNhlGU6kRlD3WoA) | 4:40 |
 | 87 | [TOMBSTONE TOWN \(feat\. Slash\)](https://open.spotify.com/track/2Xs6Vya6Zninq68d7uUopi) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up), [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE) | [TOMBSTONE TOWN \(feat\. Slash\)](https://open.spotify.com/album/6ADtO6kde5TxMseMn2r7WO) | 3:14 |
 | 88 | [Made For This](https://open.spotify.com/track/7FR7CofCQiuyt75srjwhER) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Made For This](https://open.spotify.com/album/2oILhqKBizkC5tfTvh3J8T) | 3:43 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 90 | [All of These Years](https://open.spotify.com/track/79JAw296lCbgzq8dm4h4tD) | [The Steel Woods](https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM) | [Old News](https://open.spotify.com/album/2c0rPOPDO1JWtN1apC2ToY) | 4:11 |
 | 91 | [Black Powder Soul](https://open.spotify.com/track/0KbCBafoO4ShzNvkcY2cJe) | [Taylor McCall](https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT) | [Black Powder Soul](https://open.spotify.com/album/7FQI1x1uimqWaAtLw1qZvy) | 3:36 |
 | 92 | [Found](https://open.spotify.com/track/10jUv8AkCnxNcCc4NkxGu1) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Found](https://open.spotify.com/album/20nlZ26QvDjhtwKSkbyM03) | 3:46 |
-| 93 | [Dirt Road When I Die](https://open.spotify.com/track/4s6FIcKkm95fsxCJEXZfBk) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [Dirt Road When I Die \- EP](https://open.spotify.com/album/1pCDzPe1mHuVikUpLzXsCM) | 2:54 |
-| 94 | [Middle Finger Motto](https://open.spotify.com/track/4SflMtWx9gjZ4lT7qcU871) | [Eddie And The Getaway](https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j) | [Middle Finger Motto](https://open.spotify.com/album/788rbiHAOAvbo26RzsdyOU) | 2:51 |
+| 93 | [Middle Finger Motto](https://open.spotify.com/track/4SflMtWx9gjZ4lT7qcU871) | [Eddie And The Getaway](https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j) | [Middle Finger Motto](https://open.spotify.com/album/788rbiHAOAvbo26RzsdyOU) | 2:51 |
+| 94 | [Dirt Road When I Die](https://open.spotify.com/track/4s6FIcKkm95fsxCJEXZfBk) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [Dirt Road When I Die \- EP](https://open.spotify.com/album/1pCDzPe1mHuVikUpLzXsCM) | 2:54 |
 | 95 | [Hate My Heart](https://open.spotify.com/track/4oGCfTHN1hmXGy5mqmJVc3) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 3:03 |
 | 96 | [INSIGNIFICANT OTHER \- feat\. Sam Canty & Lance Vanley](https://open.spotify.com/track/2AbJn4gIMxEXrLg4jEbWac) | [Austin Meade](https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79) | [INSIGNIFICANT OTHER](https://open.spotify.com/album/1Ox3g5LLKMPhk0yqOPfv7Y) | 3:27 |
 | 97 | [World On Fire](https://open.spotify.com/track/680abMjLEy7wOLgR7zaQv4) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [World On Fire](https://open.spotify.com/album/1PVoMQaN6xLMAsBOu27Lf7) | 4:21 |

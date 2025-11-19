@@ -4,7 +4,7 @@
 
 > Find your study focus with calm instrumental Jazz.
 
-987 songs - 2 day 9 hr 48 min
+988 songs - 2 day 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -537,6 +537,7 @@
 | [Merry Monday](https://open.spotify.com/track/4jZOeSzfXYIBJszABDdba0) | [Lennie Weston](https://open.spotify.com/artist/2i25BOgCBeXtPKKpj3I0NJ) | [Merry Monday](https://open.spotify.com/album/4jE1tDbdj3RgvlxGGiT72y) | 3:10 | 2022-12-01 | 2025-09-24 |
 | [Midday Walk](https://open.spotify.com/track/1rgG63Kci1aVlCCxFjQ4ci) | [Loft Trio](https://open.spotify.com/artist/0deAuR6p2brrc0MsfMlQXI) | [Midday Walk](https://open.spotify.com/album/47WU0DqHlyUmr3LYNiXdEp) | 3:31 | 2022-08-10 | 2024-10-09 |
 | [Midnight](https://open.spotify.com/track/6EX8ZAwd8QWQDz7sPIYGza) | [Neil Chapman Green](https://open.spotify.com/artist/5iyGZWUlM8wxizjjtBLGFZ) | [Midnight](https://open.spotify.com/album/1Y4kfGNMYdlXOhxOxFGTIm) | 3:30 | 2024-09-09 |  |
+| [Midnight Dialogue](https://open.spotify.com/track/7zstE1Dg5qI9OpOxM6nYhJ) | [The Soft Geometry](https://open.spotify.com/artist/3ojL8MCi3IC8GMZA55ncLr) | [Midnight Dialogue](https://open.spotify.com/album/0LCAUYiSaTSZdFOrOLzFgy) | 2:49 | 2025-11-18 |  |
 | [Midnight Drift](https://open.spotify.com/track/6UjkXOZj0kZB3XTJrGxoIS) | [Urskogen Jazz](https://open.spotify.com/artist/7gaN9W8fBI9obJ9tMK1x0A) | [Midnight Drift](https://open.spotify.com/album/0HqXns0wRSdl5i3npa8dgR) | 3:37 | 2025-03-24 |  |
 | [Midnight Fog](https://open.spotify.com/track/6DSGKzGP9H5HW3WdNq3iBH) | [Trio Rosa](https://open.spotify.com/artist/74qiJSjWdILIXAVQ99np5q) | [Midnight Fog](https://open.spotify.com/album/66aPKq9OcOikr2QZCQcslM) | 3:29 | 2024-11-18 | 2025-09-24 |
 | [Midnight Lines](https://open.spotify.com/track/4sS86z3NqZnfE4RI81ymSV) | [Josh Lavender Trio](https://open.spotify.com/artist/4vphT3pBuwveeulpKz5DzU) | [Midnight Lines](https://open.spotify.com/album/3fmjOE7ExJ1Dzl5v9CNjzX) | 4:43 | 2022-05-17 | 2025-07-02 |
@@ -758,7 +759,7 @@
 | [Spring Came Early](https://open.spotify.com/track/3vlVtBIC5VDiY98GWAgT67) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Spring Came Early](https://open.spotify.com/album/3m97OF4An5bONucwGKVgm4) | 3:39 | 2022-04-26 | 2023-03-03 |
 | [Spring Can Really Hang You Up The Most](https://open.spotify.com/track/6EKISMrXCzFNA9UaMtr0he) | [Mayfare Trio](https://open.spotify.com/artist/3tUSGipRrxvpmZgUc13rd4) | [Spring Can Really Hang You Up The Most](https://open.spotify.com/album/2uAMOafxy5xI71sbAWLm9V) | 4:22 | 2022-06-28 | 2023-06-23 |
 | [Spring Can Really Hang You Up The Most](https://open.spotify.com/track/4xmPDD9Fqmqj9BtjiqU2jW) | [Mike Coen](https://open.spotify.com/artist/17USEyRv0BAOsxvM5pnsA8) | [Spring Can Really Hang You Up The Most](https://open.spotify.com/album/7kFTyR6ptT1AKkC96PvwmU) | 2:49 | 2024-06-24 | 2025-07-24 |
-| [Spring Is Here](https://open.spotify.com/track/6gOncymNzM5SZFqh1QrOdM) | [Tim Franks Trio](https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok) | [Spring Is Here](https://open.spotify.com/album/3pQ4SofVIJ7a2iqbINDxlV) | 2:46 | 2023-04-13 |  |
+| [Spring Is Here](https://open.spotify.com/track/6gOncymNzM5SZFqh1QrOdM) | [Tim Franks Trio](https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok) | [Spring Is Here](https://open.spotify.com/album/3pQ4SofVIJ7a2iqbINDxlV) | 2:46 | 2023-04-13 | 2025-11-19 |
 | [Standing Strong](https://open.spotify.com/track/1WjbXUeQsrtK7NkeQQvSul) | [Gabriel Gonzalez](https://open.spotify.com/artist/5bL2hXMTtmocrHU3BqsZ4U) | [Standing Strong](https://open.spotify.com/album/0LAQFxtjRbzRYCe5JmrNTm) | 2:31 | 2024-03-22 | 2025-07-24 |
 | [Star Eyes](https://open.spotify.com/track/3fJsrfPYlvYrll2306xwJn) | [Bill Walton](https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl) | [Star Eyes](https://open.spotify.com/album/6sscV2kzdu75DlL4b3bIDX) | 4:29 | 2022-08-10 | 2023-02-24 |
 | [Stardust](https://open.spotify.com/track/1BBwIeicvH1pRRyWZRz2cG) | [Bridgerton Vail](https://open.spotify.com/artist/258zL72kPsK1Y6IqgdoPDC) | [Stardust](https://open.spotify.com/album/3x56DyddKPzuzkj8SmFkdr) | 3:46 | 2022-08-10 | 2025-07-24 |

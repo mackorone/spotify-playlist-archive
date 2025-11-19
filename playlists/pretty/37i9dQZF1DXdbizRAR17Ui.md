@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 
 > When the night isn't over just yet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,658 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,655 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 | 30 | [All I Need](https://open.spotify.com/track/3ZL9gPzeCnKG9l5SB1SlcZ) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [All I Need](https://open.spotify.com/album/7cynQpUNbqg7ZqYQu11Yng) | 3:47 |
 | 31 | [True](https://open.spotify.com/track/21SUW6VqiPSwSumXMPYQtz) | [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [True](https://open.spotify.com/album/4DZW1POsJE6ge80HXUfsfs) | 3:56 |
 | 32 | [Plain Sailing](https://open.spotify.com/track/5qZMdIYFvMPRw4Q0Z05zbL) | [Gold Panda](https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk) | [Plain Sailing](https://open.spotify.com/album/0NLuydOJrzo3WKoIgELNGu) | 4:05 |
-| 33 | [Mutt](https://open.spotify.com/track/0bQmS1DS24E6TK5gdVm1jD) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Mutt](https://open.spotify.com/album/4xSgTuaoaNwARRsmI0cMxD) | 3:20 |
-| 34 | [Keep On](https://open.spotify.com/track/7fZTnNUEZSWecuu1iYlobG) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Keep On / Operation](https://open.spotify.com/album/51pDBwHrfZ62Dq8XVjgXFF) | 4:08 |
+| 33 | [Keep On](https://open.spotify.com/track/7fZTnNUEZSWecuu1iYlobG) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Keep On / Operation](https://open.spotify.com/album/51pDBwHrfZ62Dq8XVjgXFF) | 4:08 |
+| 34 | [Mutt](https://open.spotify.com/track/0bQmS1DS24E6TK5gdVm1jD) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Mutt](https://open.spotify.com/album/4xSgTuaoaNwARRsmI0cMxD) | 3:20 |
 | 35 | [Lovestruck](https://open.spotify.com/track/1pfleon3jOOvP1IPWOtt31) | [Mona Yim](https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv), [Strath](https://open.spotify.com/artist/6iM3BATbxNbAxuQ9YaaWFe) | [Lovestruck](https://open.spotify.com/album/5oEp7owVjPRCTKc4xBOr3H) | 3:30 |
 | 36 | [Dance With Me](https://open.spotify.com/track/0Z9STl1kCx91DY69p5i1m3) | [Bassi Fox](https://open.spotify.com/artist/2YwVO7jqibPl0ARPbD97cD) | [Dance With Me](https://open.spotify.com/album/31J1iNzKkTy0ENGnxBx5l0) | 3:21 |
 | 37 | [Swim](https://open.spotify.com/track/76jLlcqIuqBv3SXx5fcnfW) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Swim](https://open.spotify.com/album/7tkmjD2hcGbjZvHhpQnLBI) | 4:03 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 | 44 | [Hold You](https://open.spotify.com/track/42sEy8EwRIzAMQk5pACbcr) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh), [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [Hold You](https://open.spotify.com/album/3tVg0WYwk5drh3NyXqJm8l) | 3:37 |
 | 45 | [sometimes i feel like saying goodbye \(feat\. Sondae\)](https://open.spotify.com/track/0QcO66hidLPUiazab9hprm) | [Jonny was Here.](https://open.spotify.com/artist/23nRxsR5E3ALBpT8Cl2Vbv), [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [sometimes i feel like saying goodbye \(feat\. Sondae\)](https://open.spotify.com/album/13tOrmLKmRMR8KlZE9U9mr) | 3:14 |
 | 46 | [run away](https://open.spotify.com/track/2SN7ULJRUGp4GWFRAaWTbr) | [Rohaan](https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS), [Kelbin](https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6) | [run away](https://open.spotify.com/album/4UQZ0IUOWZOrfx7lrTxWEe) | 3:12 |
-| 47 | [Dream Therapy \(feat\. Sampha\)](https://open.spotify.com/track/1WCiaKkadXRQjK5LapkGtu) | [Oscar Farrell](https://open.spotify.com/artist/1bbz0UKJHqHXnZEqZi5uMX), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Dream Therapy \(feat\. Sampha\)](https://open.spotify.com/album/7bKZYeSRw6XQVdbEdO22Ei) | 4:14 |
-| 48 | [Otherside](https://open.spotify.com/track/2pj2A25YQK4uMxhZheNx7R) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC) | [Otherside](https://open.spotify.com/album/3BYf1IG8EqDbhzdpljcFWY) | 3:53 |
+| 47 | [CHROMA 003 Bi83](https://open.spotify.com/track/0cBrTgUeXg8oAEfKTlZAP6) | [DOVE](https://open.spotify.com/artist/11rGDSS7UriHODN31vFAXF), [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [CHROMA 003](https://open.spotify.com/album/635sAhOGiqkb11OZDCTRyk) | 3:56 |
+| 48 | [Dream Therapy \(feat\. Sampha\)](https://open.spotify.com/track/1WCiaKkadXRQjK5LapkGtu) | [Oscar Farrell](https://open.spotify.com/artist/1bbz0UKJHqHXnZEqZi5uMX), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Dream Therapy \(feat\. Sampha\)](https://open.spotify.com/album/7bKZYeSRw6XQVdbEdO22Ei) | 4:14 |
 | 49 | [First Light](https://open.spotify.com/track/5fV7oTa9uIXWDItxcyhHEV) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [First Light](https://open.spotify.com/album/0wM0yQ1NZ5JoubMkc1flpa) | 4:34 |
-| 50 | [CHROMA 003 Bi83](https://open.spotify.com/track/0cBrTgUeXg8oAEfKTlZAP6) | [DOVE](https://open.spotify.com/artist/11rGDSS7UriHODN31vFAXF), [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [CHROMA 003](https://open.spotify.com/album/635sAhOGiqkb11OZDCTRyk) | 3:56 |
+| 50 | [Otherside](https://open.spotify.com/track/2pj2A25YQK4uMxhZheNx7R) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC) | [Otherside](https://open.spotify.com/album/3BYf1IG8EqDbhzdpljcFWY) | 3:53 |
 
 Snapshot ID: `AAAAAKCuJlsDKeFdWpdH9dB0+oNckoQI`

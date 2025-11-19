@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39ATYW02fre.md) - [plain]
 
 > Beautiful electronic music for melancholy moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,111 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,177 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,11 +31,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39ATYW02fre.md) - [plain]
 | 21 | [Bird Song](https://open.spotify.com/track/51Wao8QZ4Fv4zamKbRnKQd) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Old Friend](https://open.spotify.com/album/3EWFbpqL5iBAL9L7Zoydxj) | 3:16 |
 | 22 | [amelia](https://open.spotify.com/track/1ME0C8xm5YmInbok1znS9W) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV), [mauv](https://open.spotify.com/artist/4ll5dtDkyA2xFOz9n7wBNo) | [sketches of transition](https://open.spotify.com/album/258Q9Jl6LO9OTDOmSRfR21) | 4:21 |
 | 23 | [With You](https://open.spotify.com/track/1G5APoTLndLof2DsggGPzz) | [Alex Baker](https://open.spotify.com/artist/0U6Adu2ODsqB9urN7BslVo), [Hanging Valleys](https://open.spotify.com/artist/6KGv0PaZVxmtUozMBfsOaO) | [With You](https://open.spotify.com/album/2ALEn1ILPaPj885QMF9C4O) | 3:42 |
-| 24 | [Yesterday](https://open.spotify.com/track/2dMVIVXxaO9v2ImiSrWO0C) | [breathe.](https://open.spotify.com/artist/6XrEYPg6rrQMV4GKabTxbE) | [Yesterday](https://open.spotify.com/album/1Ay7BiWxgugN1YXqomG7w1) | 3:24 |
-| 25 | [is this real love](https://open.spotify.com/track/2p3SjPcPdxZ9rYYzS6l6F0) | [Ninezz](https://open.spotify.com/artist/6QnL72psaayojSvTDQaJqY) | [is this real love](https://open.spotify.com/album/0kVBNM3IL2xyDCigklYFAF) | 2:46 |
+| 24 | [is this real love](https://open.spotify.com/track/2p3SjPcPdxZ9rYYzS6l6F0) | [Ninezz](https://open.spotify.com/artist/6QnL72psaayojSvTDQaJqY) | [is this real love](https://open.spotify.com/album/0kVBNM3IL2xyDCigklYFAF) | 2:46 |
+| 25 | [Yesterday](https://open.spotify.com/track/2dMVIVXxaO9v2ImiSrWO0C) | [breathe.](https://open.spotify.com/artist/6XrEYPg6rrQMV4GKabTxbE) | [Yesterday](https://open.spotify.com/album/1Ay7BiWxgugN1YXqomG7w1) | 3:24 |
 | 26 | [Something Right](https://open.spotify.com/track/4m7n8fwmFXIopFBzWbmlzj) | [Luttrell](https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2), [Molly Moonwater](https://open.spotify.com/artist/0z8KcRUs0oUnn9fdQ3jn7O) | [Something Right](https://open.spotify.com/album/3NgRCeEQNc1mSlcbQBUnEI) | 2:55 |
-| 27 | [Ride At Dawn](https://open.spotify.com/track/55Q7oDS8Y4e6dYyqZKax7d) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Zoë Johnston](https://open.spotify.com/artist/3dWyWwLvZWsWtXZHhmAiFL) | [Ride At Dawn](https://open.spotify.com/album/7DiasgKMXc817JWAUi1org) | 2:53 |
-| 28 | [So Good to Me \- Radio Edit](https://open.spotify.com/track/4YYODVaWvNDvqsYiQtJJrM) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [So Good To Me \(Remixes\)](https://open.spotify.com/album/3coyILlnBFrIV8ZW7EjVxV) | 2:38 |
+| 27 | [So Good to Me \- Radio Edit](https://open.spotify.com/track/4YYODVaWvNDvqsYiQtJJrM) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [So Good To Me \(Remixes\)](https://open.spotify.com/album/3coyILlnBFrIV8ZW7EjVxV) | 2:38 |
+| 28 | [Ride At Dawn](https://open.spotify.com/track/55Q7oDS8Y4e6dYyqZKax7d) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Zoë Johnston](https://open.spotify.com/artist/3dWyWwLvZWsWtXZHhmAiFL) | [Ride At Dawn](https://open.spotify.com/album/7DiasgKMXc817JWAUi1org) | 2:53 |
 | 29 | [Blue](https://open.spotify.com/track/72bs66ZAxaeg7GUAVUQzZy) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Blue](https://open.spotify.com/album/7qSI8zRVFIOUKdENPi03E5) | 3:37 |
 | 30 | [Waste \- RY X Remix](https://open.spotify.com/track/08HR9PoLSeovgXWvJEZrvi) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Blood Remixed](https://open.spotify.com/album/1AvkRISSdzC7cq7eLoS5w1) | 9:13 |
 | 31 | [storm](https://open.spotify.com/track/7txKOajpjZ1ae6vDSnhliR) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [storm](https://open.spotify.com/album/1nI4gPdghiiOav4iubD6d3) | 4:08 |
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39ATYW02fre.md) - [plain]
 | 37 | [Shallow Water](https://open.spotify.com/track/74gSgOTNzmotJKcyKRpjom) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Shallow Water](https://open.spotify.com/album/4cMVEtKn0ikqpYrHpHq89w) | 3:22 |
 | 38 | [Versailles \(Hold\) \- Edit](https://open.spotify.com/track/4Yf9QLUM8EeHaCS7EnaHnX) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Versailles \(Hold\)](https://open.spotify.com/album/0LKvGM4ka3ESkrCaiOuD15) | 3:38 |
 | 39 | [Turtle Jazz](https://open.spotify.com/track/6Vx2Z3efuMINFSDOX1PoAu) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [Turtle Jazz](https://open.spotify.com/album/73C1QVOlWsW6qhhknFI6Ws) | 3:13 |
-| 40 | [You](https://open.spotify.com/track/3VtQjrv6HWQKf3fuJsPfim) | [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [You](https://open.spotify.com/album/0X6uOzPmx1XRmCdvEkJdVG) | 4:02 |
-| 41 | [Ghosts](https://open.spotify.com/track/7GT3Wx3bZFE9gDwRqat0Tx) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Ghosts](https://open.spotify.com/album/7qsfQ7phMfTmrS57H3ssZl) | 4:14 |
-| 42 | [The Sun](https://open.spotify.com/track/6fr9xRWjL9VlXLOtbPo81d) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [The Sun](https://open.spotify.com/album/5JFYTOkKcKkOLKf24FfpkK) | 3:04 |
+| 40 | [Ghosts](https://open.spotify.com/track/7GT3Wx3bZFE9gDwRqat0Tx) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Ghosts](https://open.spotify.com/album/7qsfQ7phMfTmrS57H3ssZl) | 4:14 |
+| 41 | [The Sun](https://open.spotify.com/track/6fr9xRWjL9VlXLOtbPo81d) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [The Sun](https://open.spotify.com/album/5JFYTOkKcKkOLKf24FfpkK) | 3:04 |
+| 42 | [You](https://open.spotify.com/track/3VtQjrv6HWQKf3fuJsPfim) | [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [You](https://open.spotify.com/album/0X6uOzPmx1XRmCdvEkJdVG) | 4:02 |
 | 43 | [Pastoral](https://open.spotify.com/track/19vWDttuR4ZVBzUfQFsfPS) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Pastoral](https://open.spotify.com/album/7e79YQn5tWC0LL9M2SFtde) | 3:40 |
 | 44 | [Lydia \(please make it better\)](https://open.spotify.com/track/04yl0gqAhDRZe3MLAncaiD) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life \(April 14 \- December 17 2020\)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 3:07 |
 | 45 | [Love Language](https://open.spotify.com/track/4WzXJHxNBHuMuGg89mZFh1) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy), [Nathan Haines](https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy) | [Love Language](https://open.spotify.com/album/70Vz3MZVPq8Lw89xK2QsS6) | 4:38 |

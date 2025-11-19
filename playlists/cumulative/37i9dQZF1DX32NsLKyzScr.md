@@ -4,7 +4,7 @@
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-1,333 songs - 3 day 0 hr 25 min
+1,334 songs - 3 day 0 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -352,6 +352,7 @@
 | [Explode](https://open.spotify.com/track/4rnwQPqGNoHCQppYVdTZdu) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ) | [Explode](https://open.spotify.com/album/6PlqsS0firvxsrefOvbUOc) | 2:39 | 2024-03-29 | 2024-07-13 |
 | [Explore Your Future](https://open.spotify.com/track/4xpRs7geTFykkr9Ehp66Fg) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Genesys](https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y) | 3:40 | 2023-08-25 | 2024-02-16 |
 | [Explore Your Future](https://open.spotify.com/track/5SfcsMI2nJhdZpmwCcNEGf) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Explore Your Future](https://open.spotify.com/album/1U38OrHbK9mDQFawzU4P7B) | 3:40 | 2023-03-31 | 2023-08-18 |
+| [Eyes On Me](https://open.spotify.com/track/3pXKGIgJ9tLCDIplmLdGHj) | [Nicole Moudaber](https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Eyes On Me](https://open.spotify.com/album/3fZj8YWdyRjx5Zuk79BhRU) | 3:38 | 2025-11-14 |  |
 | [F\*CKING SOCIETY](https://open.spotify.com/track/45857Pj90KZO6U0hzjfLfT) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [F\*CKING SOCIETY](https://open.spotify.com/album/2q0daVPSG8ly1LK8MSrFfv) | 4:39 | 2022-04-15 | 2022-07-20 |
 | [Fade into Black](https://open.spotify.com/track/2TnPyV1ZWW66yTng96HXRJ) | [Kindrid](https://open.spotify.com/artist/5ACAhZZPLo1ukYpA4jLO6u) | [Singularity](https://open.spotify.com/album/0t6kU6Etl5eZVKGBI5Nu74) | 5:07 | 2020-09-21\* | 2020-11-03 |
 | [Fade Out \(with MKLA\)](https://open.spotify.com/track/6gs5VDiNpbBfXHsAj2c9SB) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [MKLA](https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o) | [Fade Out \(with MKLA\)](https://open.spotify.com/album/5TEJE30uV9JsEqO5oJGRtE) | 3:50 | 2023-08-25 | 2024-04-22 |
@@ -1093,7 +1094,7 @@
 | [Supercars](https://open.spotify.com/track/2IfBzmFUr0JOXUiInnua8F) | [Wolfgang Gartner](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK) | [Supercars](https://open.spotify.com/album/6k4ewQMwrEeArMUZxADdFZ) | 3:37 | 2020-09-21\* | 2021-02-06 |
 | [Superheroes](https://open.spotify.com/track/6KwlLWLxnMeIw7C6O0fd6o) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Superheroes](https://open.spotify.com/album/0LwefSGrSgzthFmugunVqX) | 2:41 | 2021-05-15 | 2021-09-18 |
 | [Superman](https://open.spotify.com/track/2HXX7sAKE71YbJ5Wysju9e) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [24h](https://open.spotify.com/artist/0gySpejfRTyfba7i8uok3K) | [Superman](https://open.spotify.com/album/7tYL9vmWTgy5l6XN2yMnYc) | 3:24 | 2022-07-08 | 2022-10-27 |
-| [Supersonic](https://open.spotify.com/track/01jx3vXwUaw9cfFeBk8sJQ) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [Supersonic / Hands Up In The Sky](https://open.spotify.com/album/0x72kHM5nCDu7qtoIJcnfT) | 3:08 | 2025-05-23 |  |
+| [Supersonic](https://open.spotify.com/track/01jx3vXwUaw9cfFeBk8sJQ) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [Supersonic / Hands Up In The Sky](https://open.spotify.com/album/0x72kHM5nCDu7qtoIJcnfT) | 3:08 | 2025-05-23 | 2025-11-19 |
 | [Surrender](https://open.spotify.com/track/2HJu1bxkubHZEXC8r6snXY) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Surrender](https://open.spotify.com/album/5uIjazA5fZ88us2oc1zbBd) | 2:24 | 2025-04-04 |  |
 | [Sweat](https://open.spotify.com/track/5hbJxniiD9BWis6Nsf7HA8) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Sweat](https://open.spotify.com/album/4dRC0egvzhZSS1eJpVEBH7) | 2:39 | 2023-08-18 | 2023-09-25 |
 | [Sweet Caroline](https://open.spotify.com/track/6YtUe8dzZ357QD4t56nG00) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Sweet Caroline](https://open.spotify.com/album/3P5F6AdFTFBhBbPKwFUhbT) | 3:30 | 2022-11-11 | 2024-01-27 |

@@ -1,6 +1,6 @@
 {
   "description": "Soft and cozy acoustic covers of famous songs.",
-  "num_followers": 2436427,
+  "num_followers": 2436532,
   "original_name": "Chill Acoustic Covers",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2025-10-14 09:44:45",
       "album": {
-        "name": "Torn",
-        "url": "https://open.spotify.com/album/0og0ExNcAjYK1nCWKyklL6"
-      },
-      "artists": [
-        {
-          "name": "Eloise Freud",
-          "url": "https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh"
-        }
-      ],
-      "duration_ms": 223874,
-      "name": "Torn",
-      "url": "https://open.spotify.com/track/4INNiMO9R9UnwpLOtzizn6"
-    },
-    {
-      "added_at": "2025-10-14 09:44:45",
-      "album": {
         "name": "Listen to Your Heart",
         "url": "https://open.spotify.com/album/40Z7UsGaGxxK08TxUZmFbV"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 132024,
       "name": "Circles",
       "url": "https://open.spotify.com/track/3bgtpRltZVISs1jo7ouspO"
+    },
+    {
+      "added_at": "2025-10-14 09:44:45",
+      "album": {
+        "name": "Torn",
+        "url": "https://open.spotify.com/album/0og0ExNcAjYK1nCWKyklL6"
+      },
+      "artists": [
+        {
+          "name": "Eloise Freud",
+          "url": "https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh"
+        }
+      ],
+      "duration_ms": 223874,
+      "name": "Torn",
+      "url": "https://open.spotify.com/track/4INNiMO9R9UnwpLOtzizn6"
     },
     {
       "added_at": "2025-10-14 09:44:45",
@@ -331,18 +331,34 @@
     {
       "added_at": "2025-10-14 09:44:45",
       "album": {
-        "name": "When I Get There",
-        "url": "https://open.spotify.com/album/5GSUtNK1MbDbmSWAlh8K6m"
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/1EfRK5vjQxeRyFiDKGgNih"
       },
       "artists": [
         {
-          "name": "Brandon Chase",
-          "url": "https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK"
+          "name": "Eric Serenade",
+          "url": "https://open.spotify.com/artist/6Hqfwx2sW2vYX6tvA1SMda"
         }
       ],
-      "duration_ms": 233150,
-      "name": "When I Get There",
-      "url": "https://open.spotify.com/track/6AmEwM3ioCs9zQZx3TcYNK"
+      "duration_ms": 188124,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/2w2pewokxDHk6bktVmz7GH"
+    },
+    {
+      "added_at": "2025-10-14 09:44:45",
+      "album": {
+        "name": "she's all i wanna be",
+        "url": "https://open.spotify.com/album/4yCSGabeo8VEeETk6fg6ul"
+      },
+      "artists": [
+        {
+          "name": "who's heather",
+          "url": "https://open.spotify.com/artist/7LCGqAuRA0aJc7pQYfJSq8"
+        }
+      ],
+      "duration_ms": 197357,
+      "name": "she's all i wanna be",
+      "url": "https://open.spotify.com/track/6Dbz3vfI07Ox7QDZTSkNuJ"
     },
     {
       "added_at": "2025-10-14 09:44:45",
@@ -363,18 +379,18 @@
     {
       "added_at": "2025-10-14 09:44:45",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/1EfRK5vjQxeRyFiDKGgNih"
+        "name": "When I Get There",
+        "url": "https://open.spotify.com/album/5GSUtNK1MbDbmSWAlh8K6m"
       },
       "artists": [
         {
-          "name": "Eric Serenade",
-          "url": "https://open.spotify.com/artist/6Hqfwx2sW2vYX6tvA1SMda"
+          "name": "Brandon Chase",
+          "url": "https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK"
         }
       ],
-      "duration_ms": 188124,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/2w2pewokxDHk6bktVmz7GH"
+      "duration_ms": 233150,
+      "name": "When I Get There",
+      "url": "https://open.spotify.com/track/6AmEwM3ioCs9zQZx3TcYNK"
     },
     {
       "added_at": "2025-10-14 09:44:45",
@@ -391,22 +407,6 @@
       "duration_ms": 211257,
       "name": "Still The One",
       "url": "https://open.spotify.com/track/1euXH7sEOodtVT7S4QNYRD"
-    },
-    {
-      "added_at": "2025-10-14 09:44:45",
-      "album": {
-        "name": "she's all i wanna be",
-        "url": "https://open.spotify.com/album/4yCSGabeo8VEeETk6fg6ul"
-      },
-      "artists": [
-        {
-          "name": "who's heather",
-          "url": "https://open.spotify.com/artist/7LCGqAuRA0aJc7pQYfJSq8"
-        }
-      ],
-      "duration_ms": 197357,
-      "name": "she's all i wanna be",
-      "url": "https://open.spotify.com/track/6Dbz3vfI07Ox7QDZTSkNuJ"
     },
     {
       "added_at": "2025-10-14 09:44:45",
@@ -667,6 +667,22 @@
     {
       "added_at": "2025-10-14 09:44:45",
       "album": {
+        "name": "Somebody That I Used To Know",
+        "url": "https://open.spotify.com/album/2MBa7MBL9N5fACqj1KXmpl"
+      },
+      "artists": [
+        {
+          "name": "L\u00fac",
+          "url": "https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX"
+        }
+      ],
+      "duration_ms": 172454,
+      "name": "Somebody That I Used To Know",
+      "url": "https://open.spotify.com/track/0Bb9oRoN3suM9iiIwzHtmX"
+    },
+    {
+      "added_at": "2025-10-14 09:44:45",
+      "album": {
         "name": "Here I Go Again - Acoustic EP",
         "url": "https://open.spotify.com/album/5WFy0zXYRVXAdjhWgS3xJ3"
       },
@@ -811,22 +827,6 @@
     {
       "added_at": "2025-10-14 09:44:45",
       "album": {
-        "name": "Somebody That I Used To Know",
-        "url": "https://open.spotify.com/album/2MBa7MBL9N5fACqj1KXmpl"
-      },
-      "artists": [
-        {
-          "name": "L\u00fac",
-          "url": "https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX"
-        }
-      ],
-      "duration_ms": 172454,
-      "name": "Somebody That I Used To Know",
-      "url": "https://open.spotify.com/track/0Bb9oRoN3suM9iiIwzHtmX"
-    },
-    {
-      "added_at": "2025-10-14 09:44:45",
-      "album": {
         "name": "Too Good At Goodbyes",
         "url": "https://open.spotify.com/album/5xHL2UVO1l249ezFEL2QdZ"
       },
@@ -875,22 +875,6 @@
     {
       "added_at": "2025-10-14 09:44:45",
       "album": {
-        "name": "Blinding Lights",
-        "url": "https://open.spotify.com/album/34fwE3cLPQVlNRA8seANC1"
-      },
-      "artists": [
-        {
-          "name": "Demi Femme",
-          "url": "https://open.spotify.com/artist/2d09AaNvj1TRW0GociCEDY"
-        }
-      ],
-      "duration_ms": 206819,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/7q8Tf2APnxcQWKT69nfegF"
-    },
-    {
-      "added_at": "2025-10-14 09:44:45",
-      "album": {
         "name": "I Feel It Coming",
         "url": "https://open.spotify.com/album/7GBboSmTQfhQI14a9bER4f"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 166554,
       "name": "I Feel It Coming",
       "url": "https://open.spotify.com/track/5C2KczvPxtlAbohydAQcYb"
+    },
+    {
+      "added_at": "2025-10-14 09:44:45",
+      "album": {
+        "name": "Blinding Lights",
+        "url": "https://open.spotify.com/album/34fwE3cLPQVlNRA8seANC1"
+      },
+      "artists": [
+        {
+          "name": "Demi Femme",
+          "url": "https://open.spotify.com/artist/2d09AaNvj1TRW0GociCEDY"
+        }
+      ],
+      "duration_ms": 206819,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/7q8Tf2APnxcQWKT69nfegF"
     },
     {
       "added_at": "2025-10-14 09:44:45",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2025-10-14 09:44:45",
       "album": {
-        "name": "Because the Night",
-        "url": "https://open.spotify.com/album/3eFo0L4Dt442Fbl0F6S7zD"
-      },
-      "artists": [
-        {
-          "name": "L\u00fac",
-          "url": "https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX"
-        }
-      ],
-      "duration_ms": 190209,
-      "name": "Because the Night",
-      "url": "https://open.spotify.com/track/53b0UGKJrMVpyq5yF3Uaru"
-    },
-    {
-      "added_at": "2025-10-14 09:44:45",
-      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/0texx5CYZmR9bngDQpTZeC"
       },
@@ -1163,66 +1147,18 @@
     {
       "added_at": "2025-10-14 09:44:45",
       "album": {
-        "name": "Got You (Where I Want You)",
-        "url": "https://open.spotify.com/album/6sDxOln0tkqDXj8qy6t3Qd"
+        "name": "Because the Night",
+        "url": "https://open.spotify.com/album/3eFo0L4Dt442Fbl0F6S7zD"
       },
       "artists": [
         {
-          "name": "Marta Jobim",
-          "url": "https://open.spotify.com/artist/1mdSEV97zy0wyiCU8jfqwj"
+          "name": "L\u00fac",
+          "url": "https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX"
         }
       ],
-      "duration_ms": 193684,
-      "name": "Got You (Where I Want You)",
-      "url": "https://open.spotify.com/track/35z45zlvjqUF2DLOOYBq4u"
-    },
-    {
-      "added_at": "2025-10-14 09:44:45",
-      "album": {
-        "name": "Out Of My Head And Back In My Bed",
-        "url": "https://open.spotify.com/album/2tYlc586qfpzDq1nfh8z1M"
-      },
-      "artists": [
-        {
-          "name": "Eloise Freud",
-          "url": "https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh"
-        }
-      ],
-      "duration_ms": 190561,
-      "name": "Out Of My Head And Back In My Bed",
-      "url": "https://open.spotify.com/track/13TEQskDYFrpAtPtKVMznF"
-    },
-    {
-      "added_at": "2025-10-14 09:44:45",
-      "album": {
-        "name": "I Was Never There",
-        "url": "https://open.spotify.com/album/6bGak7iAgHBHdtz1wXuzyz"
-      },
-      "artists": [
-        {
-          "name": "Parker Clair",
-          "url": "https://open.spotify.com/artist/5GYjNDee9n69Bb3qeaAKJr"
-        }
-      ],
-      "duration_ms": 179383,
-      "name": "I Was Never There",
-      "url": "https://open.spotify.com/track/2boE2b7Lrin4bf410UKhSe"
-    },
-    {
-      "added_at": "2025-10-14 09:44:45",
-      "album": {
-        "name": "I Ain't Worried",
-        "url": "https://open.spotify.com/album/0mXxiT0uogjEy8V8CncCKb"
-      },
-      "artists": [
-        {
-          "name": "Mother's Daughter",
-          "url": "https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k"
-        }
-      ],
-      "duration_ms": 164647,
-      "name": "I Ain't Worried",
-      "url": "https://open.spotify.com/track/7vN1WOXHFJE7q06mDjsPP7"
+      "duration_ms": 190209,
+      "name": "Because the Night",
+      "url": "https://open.spotify.com/track/53b0UGKJrMVpyq5yF3Uaru"
     },
     {
       "added_at": "2025-10-14 09:44:45",
@@ -1243,6 +1179,70 @@
     {
       "added_at": "2025-10-14 09:44:45",
       "album": {
+        "name": "Out Of My Head And Back In My Bed",
+        "url": "https://open.spotify.com/album/2tYlc586qfpzDq1nfh8z1M"
+      },
+      "artists": [
+        {
+          "name": "Eloise Freud",
+          "url": "https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh"
+        }
+      ],
+      "duration_ms": 190561,
+      "name": "Out Of My Head And Back In My Bed",
+      "url": "https://open.spotify.com/track/13TEQskDYFrpAtPtKVMznF"
+    },
+    {
+      "added_at": "2025-10-14 09:44:45",
+      "album": {
+        "name": "Got You (Where I Want You)",
+        "url": "https://open.spotify.com/album/6sDxOln0tkqDXj8qy6t3Qd"
+      },
+      "artists": [
+        {
+          "name": "Marta Jobim",
+          "url": "https://open.spotify.com/artist/1mdSEV97zy0wyiCU8jfqwj"
+        }
+      ],
+      "duration_ms": 193684,
+      "name": "Got You (Where I Want You)",
+      "url": "https://open.spotify.com/track/35z45zlvjqUF2DLOOYBq4u"
+    },
+    {
+      "added_at": "2025-10-14 09:44:45",
+      "album": {
+        "name": "I Ain't Worried",
+        "url": "https://open.spotify.com/album/0mXxiT0uogjEy8V8CncCKb"
+      },
+      "artists": [
+        {
+          "name": "Mother's Daughter",
+          "url": "https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k"
+        }
+      ],
+      "duration_ms": 164647,
+      "name": "I Ain't Worried",
+      "url": "https://open.spotify.com/track/7vN1WOXHFJE7q06mDjsPP7"
+    },
+    {
+      "added_at": "2025-10-14 09:44:45",
+      "album": {
+        "name": "I Was Never There",
+        "url": "https://open.spotify.com/album/6bGak7iAgHBHdtz1wXuzyz"
+      },
+      "artists": [
+        {
+          "name": "Parker Clair",
+          "url": "https://open.spotify.com/artist/5GYjNDee9n69Bb3qeaAKJr"
+        }
+      ],
+      "duration_ms": 179383,
+      "name": "I Was Never There",
+      "url": "https://open.spotify.com/track/2boE2b7Lrin4bf410UKhSe"
+    },
+    {
+      "added_at": "2025-10-14 09:44:45",
+      "album": {
         "name": "I Don't Want To Miss A Thing",
         "url": "https://open.spotify.com/album/6KvHrixwNkjbvDNeccvPcX"
       },
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2025-10-14 09:44:45",
       "album": {
-        "name": "Kiss An Angel Good Mornin'",
-        "url": "https://open.spotify.com/album/4UubPvWcnV1C4zxFQgC895"
-      },
-      "artists": [
-        {
-          "name": "Xochi Krausse",
-          "url": "https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh"
-        }
-      ],
-      "duration_ms": 164785,
-      "name": "Kiss An Angel Good Mornin'",
-      "url": "https://open.spotify.com/track/3RAqqEjitdBdItCphiZAdQ"
-    },
-    {
-      "added_at": "2025-10-14 09:44:45",
-      "album": {
         "name": "All of me - Acoustic",
         "url": "https://open.spotify.com/album/2TsiANPJWN2t0z0ya5wAcd"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 268551,
       "name": "All of me - Acoustic",
       "url": "https://open.spotify.com/track/5vWzHxL50EEk7GCEBhXwrQ"
+    },
+    {
+      "added_at": "2025-10-14 09:44:45",
+      "album": {
+        "name": "Just The Two Of Us - Acoustic",
+        "url": "https://open.spotify.com/album/4YL2SB1NKBwkBvMC1k01dz"
+      },
+      "artists": [
+        {
+          "name": "VDVM",
+          "url": "https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4"
+        }
+      ],
+      "duration_ms": 186008,
+      "name": "Just the Two of Us - Acoustic",
+      "url": "https://open.spotify.com/track/4PF2XC8shB2w4g66MaXyEH"
     },
     {
       "added_at": "2025-10-14 09:44:45",
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2025-10-14 09:44:45",
       "album": {
-        "name": "Just The Two Of Us - Acoustic",
-        "url": "https://open.spotify.com/album/4YL2SB1NKBwkBvMC1k01dz"
+        "name": "Kiss An Angel Good Mornin'",
+        "url": "https://open.spotify.com/album/4UubPvWcnV1C4zxFQgC895"
       },
       "artists": [
         {
-          "name": "VDVM",
-          "url": "https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4"
+          "name": "Xochi Krausse",
+          "url": "https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh"
         }
       ],
-      "duration_ms": 186008,
-      "name": "Just the Two of Us - Acoustic",
-      "url": "https://open.spotify.com/track/4PF2XC8shB2w4g66MaXyEH"
+      "duration_ms": 164785,
+      "name": "Kiss An Angel Good Mornin'",
+      "url": "https://open.spotify.com/track/3RAqqEjitdBdItCphiZAdQ"
     },
     {
       "added_at": "2025-10-14 09:44:45",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2025-10-14 09:44:45",
       "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/4ESX1cbhfchPo9HXYwethh"
-      },
-      "artists": [
-        {
-          "name": "Fox & Hart",
-          "url": "https://open.spotify.com/artist/7cFrfYqBMkAmUn6ftD8KlH"
-        }
-      ],
-      "duration_ms": 214260,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/1AOKBOPdN4pnULaZsp362f"
-    },
-    {
-      "added_at": "2025-10-14 09:44:45",
-      "album": {
         "name": "I'm Good (Blue)",
         "url": "https://open.spotify.com/album/27wqComza4OEQnzS4AniQe"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 175002,
       "name": "I'm Good (Blue)",
       "url": "https://open.spotify.com/track/0Kb3SXteauSCX2o6FmY6LP"
+    },
+    {
+      "added_at": "2025-10-14 09:44:45",
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/4ESX1cbhfchPo9HXYwethh"
+      },
+      "artists": [
+        {
+          "name": "Fox & Hart",
+          "url": "https://open.spotify.com/artist/7cFrfYqBMkAmUn6ftD8KlH"
+        }
+      ],
+      "duration_ms": 214260,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/1AOKBOPdN4pnULaZsp362f"
     },
     {
       "added_at": "2025-10-14 09:44:45",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2025-10-14 09:44:45",
       "album": {
-        "name": "Love Song",
-        "url": "https://open.spotify.com/album/3D2orXAe3EPWBBB1hK0AHn"
-      },
-      "artists": [
-        {
-          "name": "Simon Sage",
-          "url": "https://open.spotify.com/artist/1C2Plo9IW9Caj5uZnwLrIz"
-        }
-      ],
-      "duration_ms": 211043,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/3fGDYm9IW5OhqmJ7juHDM4"
-    },
-    {
-      "added_at": "2025-10-14 09:44:45",
-      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/5eW7UCMMuW9NlfaOgQSXsn"
       },
@@ -1595,18 +1579,34 @@
     {
       "added_at": "2025-10-14 09:44:45",
       "album": {
-        "name": "Desperado",
-        "url": "https://open.spotify.com/album/6bhSX2BYFGgJ3iw4wnpkWZ"
+        "name": "Love Song",
+        "url": "https://open.spotify.com/album/3D2orXAe3EPWBBB1hK0AHn"
       },
       "artists": [
         {
-          "name": "Sarah Kristine",
-          "url": "https://open.spotify.com/artist/6WfvaZWV6UXdkzG9oQCxw9"
+          "name": "Simon Sage",
+          "url": "https://open.spotify.com/artist/1C2Plo9IW9Caj5uZnwLrIz"
         }
       ],
-      "duration_ms": 191971,
-      "name": "Desperado",
-      "url": "https://open.spotify.com/track/0ReprZkqLJKjuBH0nowV44"
+      "duration_ms": 211043,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/3fGDYm9IW5OhqmJ7juHDM4"
+    },
+    {
+      "added_at": "2025-10-14 09:44:45",
+      "album": {
+        "name": "Eyes Closed",
+        "url": "https://open.spotify.com/album/3ZSjHPyJ3NnbtH271F2kWe"
+      },
+      "artists": [
+        {
+          "name": "Theresa Chase",
+          "url": "https://open.spotify.com/artist/1FxU7Hz4HvvknicyJDeG9P"
+        }
+      ],
+      "duration_ms": 203603,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/1MFZQ3L9XixU9Hi3XLXeRl"
     }
   ],
   "unique_name": "Chill Acoustic Covers",

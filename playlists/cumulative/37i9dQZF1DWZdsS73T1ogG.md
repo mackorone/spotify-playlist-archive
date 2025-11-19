@@ -4,7 +4,7 @@
 
 > Descubre lo más nuevo del movimiento\. Cover: Blessd
 
-2,164 songs - 4 day 16 hr 56 min
+2,165 songs - 4 day 17 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -697,7 +697,7 @@
 | [FANTASÍA](https://open.spotify.com/track/5hWpXZOs7vpz0JD3CIylsb) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH) | [FANTASÍA](https://open.spotify.com/album/0qotDgu0CuYiWrg2JvaTSs) | 3:06 | 2025-02-24 | 2025-03-22 |
 | [Fashion Freak](https://open.spotify.com/track/1uCEBYwOdBLs8cyVsL35L2) | [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt) | [Fashion Freak](https://open.spotify.com/album/5c5LCZOKndw0LRyyY2R890) | 2:30 | 2022-08-11 | 2022-10-29 |
 | [FAYA](https://open.spotify.com/track/4w9Lbv2E3kuXF1zMz71xh7) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [BASSYY](https://open.spotify.com/artist/7yFmnMMffSULby54UYhD1b), [Derek Santana](https://open.spotify.com/artist/5NX9cIWJ0YF8qUugwmiacs) | [FAYA](https://open.spotify.com/album/7iZyITUW27dx2NUzOzU4j4) | 3:37 | 2025-08-08 | 2025-10-18 |
-| [FCK DAT](https://open.spotify.com/track/3d5EXv6u0rWzQYWWFFxJ9u) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [FCK DAT](https://open.spotify.com/album/6o6ypK4g4XkA3sW6LyhZcH) | 3:02 | 2025-09-15 |  |
+| [FCK DAT](https://open.spotify.com/track/3d5EXv6u0rWzQYWWFFxJ9u) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [FCK DAT](https://open.spotify.com/album/6o6ypK4g4XkA3sW6LyhZcH) | 3:02 | 2025-09-15 | 2025-11-19 |
 | [FCK LOVE](https://open.spotify.com/track/044s0YuJx6qFv3fYQTLYb2) | [G.O.K.B.](https://open.spotify.com/artist/7fiP6lgxb6HlZcq8gDYCmE), [Remers](https://open.spotify.com/artist/5bVgn8ImAnQDIB1NjxfSvb) | [FCK LOVE](https://open.spotify.com/album/3wcTfahjRB6Oz3IyyGJWOH) | 2:04 | 2025-01-24 | 2025-03-22 |
 | [FDSR](https://open.spotify.com/track/3KwYiawBfqngH7eaUHQn2N) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi) | [FDSR](https://open.spotify.com/album/7klplPJ1UEKbEsUtm5FK0z) | 3:08 | 2024-10-11 | 2025-01-18 |
 | [Fecha](https://open.spotify.com/track/14LaTeixKug7O2jNMK8u1C) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [MANIFESTING 20\-05](https://open.spotify.com/album/5WTsC6KDdxp9xVQrAMIU6c) | 3:08 | 2024-04-12 | 2024-06-08 |
@@ -2020,6 +2020,7 @@
 | [Un Besito](https://open.spotify.com/track/5uVYRddycQ8lBMgqM7gQhn) | [Lleflight](https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V), [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Forest](https://open.spotify.com/artist/2j6Up11EpEUKQ5yIfFXhdU) | [Un Besito](https://open.spotify.com/album/6mDnbII3fazVP0CVNeLVx6) | 4:10 | 2025-01-31 | 2025-03-29 |
 | [Un Bezito](https://open.spotify.com/track/1SQfMaCmPULmazsql39NTb) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly) | [Un Bezito](https://open.spotify.com/album/73ak0lB4a1hE6glj88jp9b) | 2:36 | 2024-05-31 | 2024-06-22 |
 | [Un Cigarrillo](https://open.spotify.com/track/4k7CNPArKLf4QuvGfMeHDk) | [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Un Cigarrillo](https://open.spotify.com/album/4thYGFvkQPc1qwSR4vdRN9) | 3:04 | 2023-05-05 | 2023-09-09 |
+| [Un Dia En Mi Barrio \- Remix](https://open.spotify.com/track/1KiI7qXgmqlX0KzK4f985q) | [Tony Monta](https://open.spotify.com/artist/1WF0qzllFgT2xJlk0Nrwqo), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11), [Topboy TGR](https://open.spotify.com/artist/1HYdJRbyNCkiko7TAw9rei), [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Fharid On the Beat](https://open.spotify.com/artist/5OK9NPDzd0KKaqTxH1XJdZ) | [Un Dia En Mi Barrio \(Remix\)](https://open.spotify.com/album/2wA2nVsgjQYMKWSlraEQLi) | 7:15 | 2025-11-18 |  |
 | [UN PASO](https://open.spotify.com/track/4LUzWf03uKUeEKvo6FbhV0) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [UN PASO](https://open.spotify.com/album/490OfeapGjQDnyiLjDAJcL) | 3:12 | 2022-08-11 | 2022-10-29 |
 | [UN PREVIEW](https://open.spotify.com/track/63ui2w3QJBp8xx0c1MJB2Z) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [UN PREVIEW](https://open.spotify.com/album/72GhGik5fsSeFkgpjsllVj) | 2:45 | 2023-09-29 | 2023-12-09 |
 | [UN TRIO](https://open.spotify.com/track/6i6PpqE9lA5eMYTJX57ZhD) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [UN TRIO](https://open.spotify.com/album/3zAkWZlz7sa6cuzUlAXCF8) | 2:37 | 2025-04-18 | 2025-06-28 |

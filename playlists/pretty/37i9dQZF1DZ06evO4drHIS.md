@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4drHIS.md) - [plain]
 
 > This is Majo Aguilar\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,763 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,764 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4drHIS.md) - [plain]
 | 49 | [Si Tú No Vuelves](https://open.spotify.com/track/5bVsmvc0Yc6fR32vhz5kPQ) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Si Tú No Vuelves](https://open.spotify.com/album/6kauhrMCA9h8KT7PltZJ7T) | 3:27 |
 | 50 | [Déjame Vivir](https://open.spotify.com/track/5Sc3hAINcW0WmiOyhQuK2g) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Déjame Vivir](https://open.spotify.com/album/4yG38ivZD1u0BAaPBvv5bK) | 3:29 |
 
-Snapshot ID: `aRkUAAAAAACDuSagoJ7kvGNcLwoFEIBl`
+Snapshot ID: `aRplgAAAAACH9Y/21IN3FAOy1O/RrVAB`

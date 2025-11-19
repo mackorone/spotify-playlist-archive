@@ -1,6 +1,6 @@
 {
   "description": "No hay nada como una Rumba Colombiana. \u00a1Hasta el amanecer! Foto: Karen Lizarazo",
-  "num_followers": 104683,
+  "num_followers": 104689,
   "original_name": "Rumba Colombiana",
   "owner": {
     "name": "Spotify",
@@ -779,6 +779,22 @@
     {
       "added_at": "2025-05-30 05:03:05",
       "album": {
+        "name": "Deja Que Te Cante",
+        "url": "https://open.spotify.com/album/5YKYtTEULxuokW6tDSxsBd"
+      },
+      "artists": [
+        {
+          "name": "Joe Arroyo",
+          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
+        }
+      ],
+      "duration_ms": 334840,
+      "name": "Mosaico Lo de La Chula",
+      "url": "https://open.spotify.com/track/62O1pmJ6MIN9bHMQTtL51K"
+    },
+    {
+      "added_at": "2025-05-30 05:03:05",
+      "album": {
         "name": "D\u00c9JALO EN VISTO",
         "url": "https://open.spotify.com/album/5XtVHkEov3lgISXN8YUdbe"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 189918,
       "name": "D\u00c9JALO EN VISTO",
       "url": "https://open.spotify.com/track/5phSp1VmzYJTvu1qZYdQS0"
-    },
-    {
-      "added_at": "2025-05-30 05:03:05",
-      "album": {
-        "name": "Deja Que Te Cante",
-        "url": "https://open.spotify.com/album/5YKYtTEULxuokW6tDSxsBd"
-      },
-      "artists": [
-        {
-          "name": "Joe Arroyo",
-          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
-        }
-      ],
-      "duration_ms": 334840,
-      "name": "Mosaico Lo de La Chula",
-      "url": "https://open.spotify.com/track/62O1pmJ6MIN9bHMQTtL51K"
     },
     {
       "added_at": "2025-05-30 05:03:05",

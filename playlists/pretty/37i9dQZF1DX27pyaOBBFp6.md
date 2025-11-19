@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27pyaOBBFp6.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 60's! Cover: Boudewijn de Groot
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,508 likes - 90 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,520 likes - 90 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27pyaOBBFp6.md) - [plain]
 | 68 | [Je Bent Nog Niet Gelukkig Met Een Mooie Vrouw](https://open.spotify.com/track/5Ov14kIrKrGbIdmwZcyT5A) | [Max Woiski Jr.](https://open.spotify.com/artist/5S2Y2OyMuLYbua54iv2QNF) | [Rijst Met Kouseband \(En Andere Poku's\)](https://open.spotify.com/album/56aQwxkpYt8PWWbOqLZuMz) | 2:04 |
 | 69 | [Verboden Vruchten](https://open.spotify.com/track/4EAzFow27dcGBbLyuEMa1e) | [Ronnie Tober](https://open.spotify.com/artist/7AHlsFyu6r8OVqezmQRbhm) | [Het Beste van Ronnie Tober](https://open.spotify.com/album/6588JMhX6PqxYEo5k0Uqg3) | 2:47 |
 | 70 | [Jij Bent Voor Mij Alleen](https://open.spotify.com/track/2eNAWjONbl5l4Ju1Yywvmu) | [De Heikrekels](https://open.spotify.com/artist/3GOkYicm1xxsurU3bGY5JR) | [Het Beste van De Heikrekels \- Instrumentaal](https://open.spotify.com/album/6FDILW7wS2fySJcupx92JG) | 2:51 |
-| 71 | [Vrijgezellenflat](https://open.spotify.com/track/2GHLGh39XwbBAjcdx13ojX) | [Ria Valk](https://open.spotify.com/artist/087pgpL9oSvARP9nTP7x5j) | [Vroeger \- 20 Liedjes Uit Die Goeie Ouwe Tijd, Deel 1](https://open.spotify.com/album/6ENEIx4kuriPCwKq4ZwmyO) | 3:09 |
-| 72 | [Een glaasje madeira](https://open.spotify.com/track/6vFcFphdp1XPKuGMmnGLFd) | [Ted De Braak](https://open.spotify.com/artist/2fi6R2NPeUn8jfbUfXk6QF) | [Hollands Glorie Liedjes van vroeger Top 100](https://open.spotify.com/album/6WvfGdqBJHKPkBlxRQJBmX) | 5:15 |
+| 71 | [Een glaasje madeira](https://open.spotify.com/track/6vFcFphdp1XPKuGMmnGLFd) | [Ted De Braak](https://open.spotify.com/artist/2fi6R2NPeUn8jfbUfXk6QF) | [Hollands Glorie Liedjes van vroeger Top 100](https://open.spotify.com/album/6WvfGdqBJHKPkBlxRQJBmX) | 5:15 |
+| 72 | [Vrijgezellenflat](https://open.spotify.com/track/2GHLGh39XwbBAjcdx13ojX) | [Ria Valk](https://open.spotify.com/artist/087pgpL9oSvARP9nTP7x5j) | [Vroeger \- 20 Liedjes Uit Die Goeie Ouwe Tijd, Deel 1](https://open.spotify.com/album/6ENEIx4kuriPCwKq4ZwmyO) | 3:09 |
 | 73 | [Wil u een stekkie? In een rijtuigie\. Op een mooie Pinksterdag\. M'n opa.](https://open.spotify.com/track/0iY2Ju7FiPTP505dYq3A6T) | [Harry Bannink](https://open.spotify.com/artist/1p8ZTsL8Oyog1jwhp9X3Fd) | [Zingt](https://open.spotify.com/album/1KoK4OFIIoQffVwLee1T4R) | 8:13 |
 | 74 | [Da Doo Ron Ron](https://open.spotify.com/track/7CaFlYMP3S0nzP6rFu9NNx) | [Anneke Gronloh](https://open.spotify.com/artist/29Chv9G8hshAc8E2fL9R9Y) | [De Regenboog Serie: Anneke Grönloh](https://open.spotify.com/album/4roRCYfTzJwP7dzOCPddx9) | 2:17 |
 | 75 | [Ik Vraag Het Aan De Sterren](https://open.spotify.com/track/6lyKdpQyifZpfBC7TDwgrb) | [Trea Dobbs](https://open.spotify.com/artist/4F3c2IiCJy6mhP4EHQVDEe) | [Die Goeie Ouwe Tijd Top 100](https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3) | 2:32 |

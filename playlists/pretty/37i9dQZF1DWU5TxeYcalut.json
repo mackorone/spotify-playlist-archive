@@ -1,6 +1,6 @@
 {
   "description": "Uma sele\u00e7\u00e3o especial do jazz nacional. Foto: Azymuth",
-  "num_followers": 163358,
+  "num_followers": 163370,
   "original_name": "Jazz BR",
   "owner": {
     "name": "Spotify",
@@ -331,6 +331,22 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
+        "name": "Chamam\u00e9",
+        "url": "https://open.spotify.com/album/08ZqtBfCPA1XU0M2zNCkrZ"
+      },
+      "artists": [
+        {
+          "name": "YANGOS",
+          "url": "https://open.spotify.com/artist/3j6WayXYqFcOSQPfG5wqhO"
+        }
+      ],
+      "duration_ms": 202206,
+      "name": "Rasguido Serrano",
+      "url": "https://open.spotify.com/track/0vc6o6imhfWix6jNf6VVtA"
+    },
+    {
+      "added_at": "2025-09-19 14:12:16",
+      "album": {
         "name": "Or\u00edn, a L\u00edngua dos Anjos",
         "url": "https://open.spotify.com/album/592rNszuxHVYJAiRbpQAbF"
       },
@@ -351,18 +367,18 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
-        "name": "Chamam\u00e9",
-        "url": "https://open.spotify.com/album/08ZqtBfCPA1XU0M2zNCkrZ"
+        "name": "Quiz\u00e1s, Quiz\u00e1s, Quiz\u00e1s",
+        "url": "https://open.spotify.com/album/2XQb3gFbkP7pRVZzMPbhCg"
       },
       "artists": [
         {
-          "name": "YANGOS",
-          "url": "https://open.spotify.com/artist/3j6WayXYqFcOSQPfG5wqhO"
+          "name": "Jade Vieira",
+          "url": "https://open.spotify.com/artist/62u2ks7IGeMOqkSLCAaLHK"
         }
       ],
-      "duration_ms": 202206,
-      "name": "Rasguido Serrano",
-      "url": "https://open.spotify.com/track/0vc6o6imhfWix6jNf6VVtA"
+      "duration_ms": 201500,
+      "name": "Quiz\u00e1s, Quiz\u00e1s, Quiz\u00e1s",
+      "url": "https://open.spotify.com/track/3vV7kdVX0gbNHwxgnQjTfF"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -379,22 +395,6 @@
       "duration_ms": 225184,
       "name": "Porto Rio",
       "url": "https://open.spotify.com/track/4cju6IU8utozhyEHYrPua9"
-    },
-    {
-      "added_at": "2025-09-19 14:12:16",
-      "album": {
-        "name": "Quiz\u00e1s, Quiz\u00e1s, Quiz\u00e1s",
-        "url": "https://open.spotify.com/album/2XQb3gFbkP7pRVZzMPbhCg"
-      },
-      "artists": [
-        {
-          "name": "Jade Vieira",
-          "url": "https://open.spotify.com/artist/62u2ks7IGeMOqkSLCAaLHK"
-        }
-      ],
-      "duration_ms": 201500,
-      "name": "Quiz\u00e1s, Quiz\u00e1s, Quiz\u00e1s",
-      "url": "https://open.spotify.com/track/3vV7kdVX0gbNHwxgnQjTfF"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -827,34 +827,6 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
-        "name": "Su\u00edte Amer\u00edndia",
-        "url": "https://open.spotify.com/album/1GDeC6yrxqWKX75FSn8nkg"
-      },
-      "artists": [
-        {
-          "name": "Yamandu Costa",
-          "url": "https://open.spotify.com/artist/3xnqS3i4fWn0P30qIlnWYV"
-        },
-        {
-          "name": "Orquestra Assintom\u00e1tica",
-          "url": "https://open.spotify.com/artist/6aO53sBfidfLeCPuxVmnUm"
-        },
-        {
-          "name": "Mart\u00edn Sued & Orquestra Assintom\u00e1tica",
-          "url": "https://open.spotify.com/artist/67x6qUvregPsZZQcXvAPbx"
-        },
-        {
-          "name": "Martin Sued",
-          "url": "https://open.spotify.com/artist/2tHlPF8Z3LhEA2rBrrEWOI"
-        }
-      ],
-      "duration_ms": 840973,
-      "name": "Su\u00edte Amer\u00edndia",
-      "url": "https://open.spotify.com/track/50i63kSRpuJXi9tAgrpDQF"
-    },
-    {
-      "added_at": "2025-09-19 14:12:16",
-      "album": {
         "name": "If\u00e8",
         "url": "https://open.spotify.com/album/3JK98v9dwUpZWIvU575dvR"
       },
@@ -879,6 +851,34 @@
       "duration_ms": 317986,
       "name": "Mem\u00f3rias",
       "url": "https://open.spotify.com/track/1Ir2uQSAIZt9vRAunNCRQJ"
+    },
+    {
+      "added_at": "2025-09-19 14:12:16",
+      "album": {
+        "name": "Su\u00edte Amer\u00edndia",
+        "url": "https://open.spotify.com/album/1GDeC6yrxqWKX75FSn8nkg"
+      },
+      "artists": [
+        {
+          "name": "Yamandu Costa",
+          "url": "https://open.spotify.com/artist/3xnqS3i4fWn0P30qIlnWYV"
+        },
+        {
+          "name": "Orquestra Assintom\u00e1tica",
+          "url": "https://open.spotify.com/artist/6aO53sBfidfLeCPuxVmnUm"
+        },
+        {
+          "name": "Mart\u00edn Sued & Orquestra Assintom\u00e1tica",
+          "url": "https://open.spotify.com/artist/67x6qUvregPsZZQcXvAPbx"
+        },
+        {
+          "name": "Martin Sued",
+          "url": "https://open.spotify.com/artist/2tHlPF8Z3LhEA2rBrrEWOI"
+        }
+      ],
+      "duration_ms": 840973,
+      "name": "Su\u00edte Amer\u00edndia",
+      "url": "https://open.spotify.com/track/50i63kSRpuJXi9tAgrpDQF"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -1051,6 +1051,46 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
+        "name": "From Rio",
+        "url": "https://open.spotify.com/album/5wZW0ZTI1uORDNbCJTyoM8"
+      },
+      "artists": [
+        {
+          "name": "Marcio Riscado",
+          "url": "https://open.spotify.com/artist/2LGbQV6JqYUFfbrZNr5tST"
+        }
+      ],
+      "duration_ms": 126647,
+      "name": "From Rio",
+      "url": "https://open.spotify.com/track/5ZIksEAchH5o7N1uAz0cat"
+    },
+    {
+      "added_at": "2025-09-19 14:12:16",
+      "album": {
+        "name": "Kurukere",
+        "url": "https://open.spotify.com/album/5wDaxoRCIWH7wWDmwQQSKL"
+      },
+      "artists": [
+        {
+          "name": "Joao Parahyba",
+          "url": "https://open.spotify.com/artist/7h9XKFZhXoppj0vQvRBShW"
+        },
+        {
+          "name": "Marcos Romera",
+          "url": "https://open.spotify.com/artist/3YOrSCZPZyMblbJ0EXkDrV"
+        },
+        {
+          "name": "Marcelo Mariano",
+          "url": "https://open.spotify.com/artist/0tmAPQ38pisrrZR7JD1ILk"
+        }
+      ],
+      "duration_ms": 352329,
+      "name": "Kurukere",
+      "url": "https://open.spotify.com/track/7KRa4kuRagWi0aGJL06CxB"
+    },
+    {
+      "added_at": "2025-09-19 14:12:16",
+      "album": {
         "name": "Mano a Mano Trio Toca Jo\u00e3o Bosco",
         "url": "https://open.spotify.com/album/61W48IvRqMEkSGTmg6KbWP"
       },
@@ -1095,26 +1135,18 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
-        "name": "Kurukere",
-        "url": "https://open.spotify.com/album/5wDaxoRCIWH7wWDmwQQSKL"
+        "name": "Um",
+        "url": "https://open.spotify.com/album/278T99dsaxiUd5LR1I99jO"
       },
       "artists": [
         {
-          "name": "Joao Parahyba",
-          "url": "https://open.spotify.com/artist/7h9XKFZhXoppj0vQvRBShW"
-        },
-        {
-          "name": "Marcos Romera",
-          "url": "https://open.spotify.com/artist/3YOrSCZPZyMblbJ0EXkDrV"
-        },
-        {
-          "name": "Marcelo Mariano",
-          "url": "https://open.spotify.com/artist/0tmAPQ38pisrrZR7JD1ILk"
+          "name": "Edu Sangirardi",
+          "url": "https://open.spotify.com/artist/6PEgT2D62o90YC60iAuf02"
         }
       ],
-      "duration_ms": 352329,
-      "name": "Kurukere",
-      "url": "https://open.spotify.com/track/7KRa4kuRagWi0aGJL06CxB"
+      "duration_ms": 271656,
+      "name": "Canto de Aruanda",
+      "url": "https://open.spotify.com/track/3GkEqnzs4ZtcKdz7LMZdQ6"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -1147,38 +1179,6 @@
       "duration_ms": 221354,
       "name": "Ponteio - Live",
       "url": "https://open.spotify.com/track/6WQ5M4CSmlwQPLQ4TQeye1"
-    },
-    {
-      "added_at": "2025-09-19 14:12:16",
-      "album": {
-        "name": "From Rio",
-        "url": "https://open.spotify.com/album/5wZW0ZTI1uORDNbCJTyoM8"
-      },
-      "artists": [
-        {
-          "name": "Marcio Riscado",
-          "url": "https://open.spotify.com/artist/2LGbQV6JqYUFfbrZNr5tST"
-        }
-      ],
-      "duration_ms": 126647,
-      "name": "From Rio",
-      "url": "https://open.spotify.com/track/5ZIksEAchH5o7N1uAz0cat"
-    },
-    {
-      "added_at": "2025-09-19 14:12:16",
-      "album": {
-        "name": "Um",
-        "url": "https://open.spotify.com/album/278T99dsaxiUd5LR1I99jO"
-      },
-      "artists": [
-        {
-          "name": "Edu Sangirardi",
-          "url": "https://open.spotify.com/artist/6PEgT2D62o90YC60iAuf02"
-        }
-      ],
-      "duration_ms": 271656,
-      "name": "Canto de Aruanda",
-      "url": "https://open.spotify.com/track/3GkEqnzs4ZtcKdz7LMZdQ6"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
+        "name": "Deyeh",
+        "url": "https://open.spotify.com/album/7DjcAv2AKCNczTFvqsgsxb"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Monteiro",
+          "url": "https://open.spotify.com/artist/2toMmE1j1zvEIdZCmTJbGd"
+        }
+      ],
+      "duration_ms": 205466,
+      "name": "Kahkoon",
+      "url": "https://open.spotify.com/track/5c6yOxUijK7K5YtEde3rSt"
+    },
+    {
+      "added_at": "2025-09-19 14:12:16",
+      "album": {
         "name": "Experimento 1",
         "url": "https://open.spotify.com/album/7kpMqU9gIfdNoCPaSKIhzr"
       },
@@ -1307,6 +1323,34 @@
       "duration_ms": 576170,
       "name": "Experimento 1",
       "url": "https://open.spotify.com/track/2htZhUGpBaF6kkdXmRka0t"
+    },
+    {
+      "added_at": "2025-09-19 14:12:16",
+      "album": {
+        "name": "Pro Carnaval Voltar",
+        "url": "https://open.spotify.com/album/7kL1OkviidQqo32KssBYlD"
+      },
+      "artists": [
+        {
+          "name": "Oran Etkin",
+          "url": "https://open.spotify.com/artist/1UbVxOOCTpW3AZkRlvvEcO"
+        },
+        {
+          "name": "Benjamim Taubkin",
+          "url": "https://open.spotify.com/artist/3RXcmh3eKjiIG9XNP3XOmy"
+        },
+        {
+          "name": "Jo\u00e3o Taubkin",
+          "url": "https://open.spotify.com/artist/5RUKQNNnVb67S4HJuEHgzc"
+        },
+        {
+          "name": "Kab\u00e9 Pinheiro",
+          "url": "https://open.spotify.com/artist/6pcIIwCAElxXLUu3iw3xAF"
+        }
+      ],
+      "duration_ms": 481925,
+      "name": "Pro Carnaval Voltar",
+      "url": "https://open.spotify.com/track/5t2qmr2NKocar4Y1re3j2j"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -1383,50 +1427,6 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
-        "name": "Pro Carnaval Voltar",
-        "url": "https://open.spotify.com/album/7kL1OkviidQqo32KssBYlD"
-      },
-      "artists": [
-        {
-          "name": "Oran Etkin",
-          "url": "https://open.spotify.com/artist/1UbVxOOCTpW3AZkRlvvEcO"
-        },
-        {
-          "name": "Benjamim Taubkin",
-          "url": "https://open.spotify.com/artist/3RXcmh3eKjiIG9XNP3XOmy"
-        },
-        {
-          "name": "Jo\u00e3o Taubkin",
-          "url": "https://open.spotify.com/artist/5RUKQNNnVb67S4HJuEHgzc"
-        },
-        {
-          "name": "Kab\u00e9 Pinheiro",
-          "url": "https://open.spotify.com/artist/6pcIIwCAElxXLUu3iw3xAF"
-        }
-      ],
-      "duration_ms": 481925,
-      "name": "Pro Carnaval Voltar",
-      "url": "https://open.spotify.com/track/5t2qmr2NKocar4Y1re3j2j"
-    },
-    {
-      "added_at": "2025-09-19 14:12:16",
-      "album": {
-        "name": "Deyeh",
-        "url": "https://open.spotify.com/album/7DjcAv2AKCNczTFvqsgsxb"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Monteiro",
-          "url": "https://open.spotify.com/artist/2toMmE1j1zvEIdZCmTJbGd"
-        }
-      ],
-      "duration_ms": 205466,
-      "name": "Kahkoon",
-      "url": "https://open.spotify.com/track/5c6yOxUijK7K5YtEde3rSt"
-    },
-    {
-      "added_at": "2025-09-19 14:12:16",
-      "album": {
         "name": "Funktastic",
         "url": "https://open.spotify.com/album/56R5wcChDUvvcZGwF56GS0"
       },
@@ -1439,30 +1439,6 @@
       "duration_ms": 355961,
       "name": "Funktastic",
       "url": "https://open.spotify.com/track/1wpmyzpjVRNxEjShO5Aymz"
-    },
-    {
-      "added_at": "2025-09-19 14:12:16",
-      "album": {
-        "name": "Amilton Godoy 80 Anos",
-        "url": "https://open.spotify.com/album/6iTLkjtp9fZoVDKJt0XBnx"
-      },
-      "artists": [
-        {
-          "name": "Amilton Godoy",
-          "url": "https://open.spotify.com/artist/6eBb2VD12O0Xk5WlNwP7YF"
-        },
-        {
-          "name": "Edu Ribeiro",
-          "url": "https://open.spotify.com/artist/2K3MPGHczQOIRHMsrRSRuX"
-        },
-        {
-          "name": "Sidiel Vieira",
-          "url": "https://open.spotify.com/artist/6w5Vaup8DAh32WeB8OUr50"
-        }
-      ],
-      "duration_ms": 166933,
-      "name": "Ponteio 49",
-      "url": "https://open.spotify.com/track/0AHyQ08UJCdoMBpW1HJGjb"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -1495,6 +1471,30 @@
       "duration_ms": 313880,
       "name": "Francamente",
       "url": "https://open.spotify.com/track/07eg0ksM1tEVextuGzUfd8"
+    },
+    {
+      "added_at": "2025-09-19 14:12:16",
+      "album": {
+        "name": "Amilton Godoy 80 Anos",
+        "url": "https://open.spotify.com/album/6iTLkjtp9fZoVDKJt0XBnx"
+      },
+      "artists": [
+        {
+          "name": "Amilton Godoy",
+          "url": "https://open.spotify.com/artist/6eBb2VD12O0Xk5WlNwP7YF"
+        },
+        {
+          "name": "Edu Ribeiro",
+          "url": "https://open.spotify.com/artist/2K3MPGHczQOIRHMsrRSRuX"
+        },
+        {
+          "name": "Sidiel Vieira",
+          "url": "https://open.spotify.com/artist/6w5Vaup8DAh32WeB8OUr50"
+        }
+      ],
+      "duration_ms": 166933,
+      "name": "Ponteio 49",
+      "url": "https://open.spotify.com/track/0AHyQ08UJCdoMBpW1HJGjb"
     },
     {
       "added_at": "2025-09-19 14:12:16",

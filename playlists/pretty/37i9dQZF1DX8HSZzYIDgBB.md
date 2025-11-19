@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HSZzYIDgBB.md) - [plain]
 
 > Ritmos cálidos y alternativos para relajarte y tirarse bajo el sol 🌺☀️🌴🎶 Maffio en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,822 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,827 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HSZzYIDgBB.md) - [plain]
 | 30 | [Solo Quiero \(feat\. Pedrina\)](https://open.spotify.com/track/4JP3yoybj8GVDVBKrdmkFx) | [Montoya](https://open.spotify.com/artist/52pEvBJxxzBacaaxVOSyxa), [Pedrina](https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1) | [Otun](https://open.spotify.com/album/04o8fTvz7ZcMYVnIx0HAgv) | 4:23 |
 | 31 | [¡Oh, Algoritmo! \(feat\. Noga Erez\)](https://open.spotify.com/track/5HAjAcrI1mrA1PlhKHXJ0v) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt), [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [Tinta y Tiempo](https://open.spotify.com/album/7drLytofGXezhYswIuCGHu) | 3:04 |
 | 32 | [Soñando](https://open.spotify.com/track/3UUkMsnp1NDwN0g1Rg48Y4) | [Acid Coco](https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW) | [Soñando](https://open.spotify.com/album/5HDXllRh6Kyp0TWilBuDsr) | 4:02 |
-| 33 | [Como Fuego](https://open.spotify.com/track/44E4aMwLp8EosJDp8WyQe4) | [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL) | [Como Fuego](https://open.spotify.com/album/2cob5a2IGcGDa0CuYS3jLi) | 3:04 |
-| 34 | [Te Quiero Con Bugalú](https://open.spotify.com/track/0uRr2EBqlCu2CLa8LmQc2c) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [iLevitable](https://open.spotify.com/album/0gHFIMoIvLqYw13PtRd2ky) | 4:09 |
+| 33 | [Te Quiero Con Bugalú](https://open.spotify.com/track/0uRr2EBqlCu2CLa8LmQc2c) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [iLevitable](https://open.spotify.com/album/0gHFIMoIvLqYw13PtRd2ky) | 4:11 |
+| 34 | [Como Fuego](https://open.spotify.com/track/44E4aMwLp8EosJDp8WyQe4) | [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL) | [Como Fuego](https://open.spotify.com/album/2cob5a2IGcGDa0CuYS3jLi) | 3:04 |
 | 35 | [Ta Que Tiembla](https://open.spotify.com/track/608EJ9ZzAa7eAeLwt3O3tw) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Regresa](https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp) | 2:48 |
 | 36 | [Garúa \(Sabor a Querer\)](https://open.spotify.com/track/39jlkB93dZvtx8RG0Zkhdc) | [Tayko](https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m), [Migliz](https://open.spotify.com/artist/0Wg0zqWRumeTT4AEMIVu2b) | [Garúa \(Sabor a Querer\)](https://open.spotify.com/album/0XiN7T7kky8LzThoVwbgNO) | 3:42 |
 | 37 | [Tropicalia](https://open.spotify.com/track/605Rwpv1VrOJ8PZRLiP0Kr) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Toro](https://open.spotify.com/artist/3Ikp2uBBjxkYHJpblUDDRN) | [Tropicalia](https://open.spotify.com/album/7HNC0nJl74WE0FY9aBipXC) | 4:06 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HSZzYIDgBB.md) - [plain]
 | 51 | [Mira Bien](https://open.spotify.com/track/0MBhNioCkdEUAusgm0FATa) | [Tonga Conga](https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU), [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Mira Bien](https://open.spotify.com/album/09TCMzRYLVe74o9uoEywaU) | 3:27 |
 | 52 | [Poco a Poco \- Remix](https://open.spotify.com/track/08qHgtCajTGcNWFbn0HQXT) | [Ilse Hendrix](https://open.spotify.com/artist/4nKY8xVK5R0lpdv2oDyraB), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Poco a Poco \(Remix\)](https://open.spotify.com/album/4A0tvOTSvKJtMCt5T16KAW) | 2:57 |
 | 53 | [Ñe Ñe Ñé](https://open.spotify.com/track/4SjRyukjcdc095b8UfXHea) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Almadura](https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT) | 3:07 |
-| 54 | [Harta](https://open.spotify.com/track/1J4xv5V5dzkA8UGtXSbCNU) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Harta](https://open.spotify.com/album/7xxEXEwifY6NE0sEmIybSg) | 3:05 |
-| 55 | [Tormenta Solar](https://open.spotify.com/track/16pt6SWkfn0kPlL3cSHSaB) | [DUSU](https://open.spotify.com/artist/2C6vqUrtXufvoUk5iwJ2KX), [Terror/Cactus](https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq), [MJ Baez](https://open.spotify.com/artist/0Pror4vlY4kxMAStXy9faN) | [Tormenta Solar](https://open.spotify.com/album/30lTmvLqiQOniFpRN5KGjK) | 4:53 |
+| 54 | [Tormenta Solar](https://open.spotify.com/track/16pt6SWkfn0kPlL3cSHSaB) | [DUSU](https://open.spotify.com/artist/2C6vqUrtXufvoUk5iwJ2KX), [Terror/Cactus](https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq), [MJ Baez](https://open.spotify.com/artist/0Pror4vlY4kxMAStXy9faN) | [Tormenta Solar](https://open.spotify.com/album/30lTmvLqiQOniFpRN5KGjK) | 4:53 |
+| 55 | [Harta](https://open.spotify.com/track/1J4xv5V5dzkA8UGtXSbCNU) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Harta](https://open.spotify.com/album/7xxEXEwifY6NE0sEmIybSg) | 3:05 |
 | 56 | [Todo el Día en la Cama](https://open.spotify.com/track/6TckoX2KeK1hK7wPfdT0zo) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Sorpresa](https://open.spotify.com/album/4clIaqyIpJOku2E6VNnwy2) | 4:16 |
 | 57 | [Gritar](https://open.spotify.com/track/5r1JdY6MDonNCHvv8cUS9g) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Gritar](https://open.spotify.com/album/0yPQu50ZdM0TGGwSa8tHy8) | 3:00 |
 | 58 | [Fuego](https://open.spotify.com/track/1M5WInf2LuwXXKU2U8Oa5u) | [Mima](https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Fuego](https://open.spotify.com/album/0osuEwyAv9oMzYBRz1Q08o) | 3:34 |

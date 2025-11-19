@@ -1,6 +1,6 @@
 {
   "description": "Hit the dance floor with your favorite bops!",
-  "num_followers": 572698,
+  "num_followers": 572748,
   "original_name": "Dance Pop Hits",
   "owner": {
     "name": "Spotify",
@@ -71,26 +71,6 @@
     {
       "added_at": "2025-10-05 23:11:45",
       "album": {
-        "name": "Show Me Love",
-        "url": "https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6"
-      },
-      "artists": [
-        {
-          "name": "WizTheMc",
-          "url": "https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5"
-        },
-        {
-          "name": "bees & honey",
-          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
-        }
-      ],
-      "duration_ms": 176965,
-      "name": "Show Me Love",
-      "url": "https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa"
-    },
-    {
-      "added_at": "2025-10-05 23:11:45",
-      "album": {
         "name": "Motion",
         "url": "https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS"
       },
@@ -127,6 +107,26 @@
       "duration_ms": 233229,
       "name": "The Days - NOTION Remix",
       "url": "https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8"
+    },
+    {
+      "added_at": "2025-10-05 23:11:45",
+      "album": {
+        "name": "Show Me Love",
+        "url": "https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6"
+      },
+      "artists": [
+        {
+          "name": "WizTheMc",
+          "url": "https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5"
+        },
+        {
+          "name": "bees & honey",
+          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
+        }
+      ],
+      "duration_ms": 176965,
+      "name": "Show Me Love",
+      "url": "https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa"
     },
     {
       "added_at": "2025-10-05 23:11:45",
@@ -500,7 +500,7 @@
           "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
         }
       ],
-      "duration_ms": 222160,
+      "duration_ms": 221900,
       "name": "This Is What You Came For",
       "url": "https://open.spotify.com/track/0azC730Exh71aQlOt9Zj3y"
     },
@@ -540,7 +540,7 @@
           "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
         }
       ],
-      "duration_ms": 195706,
+      "duration_ms": 198815,
       "name": "In the Name of Love",
       "url": "https://open.spotify.com/track/23L5CiUhw2jV1OIMwthR3S"
     },
@@ -811,6 +811,26 @@
     {
       "added_at": "2025-10-05 23:11:45",
       "album": {
+        "name": "Ferrari",
+        "url": "https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Miggy Dela Rosa",
+          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
+        }
+      ],
+      "duration_ms": 186661,
+      "name": "Ferrari",
+      "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
+    },
+    {
+      "added_at": "2025-10-05 23:11:45",
+      "album": {
         "name": "Somedays",
         "url": "https://open.spotify.com/album/54R5dT9BWKnR2RX9gOFzDK"
       },
@@ -831,26 +851,6 @@
       "duration_ms": 207168,
       "name": "Somedays",
       "url": "https://open.spotify.com/track/3wo3d0I5H8KjkwGvnz8WbB"
-    },
-    {
-      "added_at": "2025-10-05 23:11:45",
-      "album": {
-        "name": "Ferrari",
-        "url": "https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        },
-        {
-          "name": "Miggy Dela Rosa",
-          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
-        }
-      ],
-      "duration_ms": 186661,
-      "name": "Ferrari",
-      "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
     },
     {
       "added_at": "2025-10-05 23:11:45",
@@ -927,6 +927,22 @@
     {
       "added_at": "2025-10-05 23:11:45",
       "album": {
+        "name": "Ride It",
+        "url": "https://open.spotify.com/album/4zOhjJfe0dwqsNdDYk622E"
+      },
+      "artists": [
+        {
+          "name": "Regard",
+          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
+        }
+      ],
+      "duration_ms": 157605,
+      "name": "Ride It",
+      "url": "https://open.spotify.com/track/2tnVG71enUj33Ic2nFN6kZ"
+    },
+    {
+      "added_at": "2025-10-05 23:11:45",
+      "album": {
         "name": "Still Into You",
         "url": "https://open.spotify.com/album/12AGcC8vmuGnxLIoyJDrj5"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 151875,
       "name": "Still Into You",
       "url": "https://open.spotify.com/track/0GYx8Q9iS05CRe9kyzwAIL"
-    },
-    {
-      "added_at": "2025-10-05 23:11:45",
-      "album": {
-        "name": "Ride It",
-        "url": "https://open.spotify.com/album/4zOhjJfe0dwqsNdDYk622E"
-      },
-      "artists": [
-        {
-          "name": "Regard",
-          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
-        }
-      ],
-      "duration_ms": 157605,
-      "name": "Ride It",
-      "url": "https://open.spotify.com/track/2tnVG71enUj33Ic2nFN6kZ"
     },
     {
       "added_at": "2025-10-05 23:11:45",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2025-10-05 23:11:45",
       "album": {
-        "name": "messy",
-        "url": "https://open.spotify.com/album/4XoiPhxyT8riRh4V2enQZP"
-      },
-      "artists": [
-        {
-          "name": "\u0141aszewo",
-          "url": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN"
-        }
-      ],
-      "duration_ms": 207873,
-      "name": "messy",
-      "url": "https://open.spotify.com/track/3CPhCNH8rV1czzGSmXm9TH"
-    },
-    {
-      "added_at": "2025-10-05 23:11:45",
-      "album": {
         "name": "Roses (Imanbek Remix)",
         "url": "https://open.spotify.com/album/3GqSdhWjmMypMwPLtzoFYs"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 176840,
       "name": "Roses - Imanbek Remix",
       "url": "https://open.spotify.com/track/24Yi9hE78yPEbZ4kxyoXAI"
+    },
+    {
+      "added_at": "2025-10-05 23:11:45",
+      "album": {
+        "name": "messy",
+        "url": "https://open.spotify.com/album/4XoiPhxyT8riRh4V2enQZP"
+      },
+      "artists": [
+        {
+          "name": "\u0141aszewo",
+          "url": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN"
+        }
+      ],
+      "duration_ms": 207873,
+      "name": "messy",
+      "url": "https://open.spotify.com/track/3CPhCNH8rV1czzGSmXm9TH"
     },
     {
       "added_at": "2025-10-05 23:11:45",
@@ -1679,6 +1679,30 @@
     {
       "added_at": "2025-10-05 23:11:45",
       "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/6cWawCk4DohREQA42eEOe1"
+      },
+      "artists": [
+        {
+          "name": "Regard",
+          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
+        },
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        },
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 233386,
+      "name": "You",
+      "url": "https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE"
+    },
+    {
+      "added_at": "2025-10-05 23:11:45",
+      "album": {
         "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
         "url": "https://open.spotify.com/album/44aG7QLYLGotCTlu5Fc2J7"
       },
@@ -1703,30 +1727,6 @@
       "duration_ms": 148629,
       "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
       "url": "https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA"
-    },
-    {
-      "added_at": "2025-10-05 23:11:45",
-      "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/6cWawCk4DohREQA42eEOe1"
-      },
-      "artists": [
-        {
-          "name": "Regard",
-          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
-        },
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        },
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 233386,
-      "name": "You",
-      "url": "https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE"
     },
     {
       "added_at": "2025-10-05 23:11:45",
@@ -1795,6 +1795,30 @@
     {
       "added_at": "2025-10-05 23:11:45",
       "album": {
+        "name": "The Lockdown Sessions",
+        "url": "https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        }
+      ],
+      "duration_ms": 202735,
+      "name": "Cold Heart - PNAU Remix",
+      "url": "https://open.spotify.com/track/7rglLriMNBPAyuJOMGwi39"
+    },
+    {
+      "added_at": "2025-10-05 23:11:45",
+      "album": {
         "name": "Lose Control",
         "url": "https://open.spotify.com/album/1qSOaTvsCOyFJya3v1UzkP"
       },
@@ -1835,30 +1859,6 @@
       "duration_ms": 222653,
       "name": "Solo (feat. Demi Lovato)",
       "url": "https://open.spotify.com/track/6kPJZM97LwdG9QIsT7khp6"
-    },
-    {
-      "added_at": "2025-10-05 23:11:45",
-      "album": {
-        "name": "The Lockdown Sessions",
-        "url": "https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
-        }
-      ],
-      "duration_ms": 202735,
-      "name": "Cold Heart - PNAU Remix",
-      "url": "https://open.spotify.com/track/7rglLriMNBPAyuJOMGwi39"
     },
     {
       "added_at": "2025-10-05 23:11:45",
@@ -1939,26 +1939,6 @@
     {
       "added_at": "2025-10-05 23:11:45",
       "album": {
-        "name": "Clarity (Deluxe)",
-        "url": "https://open.spotify.com/album/4xak0izXQHOMV9Wu1mDAAy"
-      },
-      "artists": [
-        {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
-        },
-        {
-          "name": "Hayley Williams",
-          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
-        }
-      ],
-      "duration_ms": 217346,
-      "name": "Stay The Night - Featuring Hayley Williams Of Paramore",
-      "url": "https://open.spotify.com/track/2QtJA4gbwe1AcanB2p21aP"
-    },
-    {
-      "added_at": "2025-10-05 23:11:45",
-      "album": {
         "name": "Only Human (Deluxe)",
         "url": "https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf"
       },
@@ -1975,6 +1955,26 @@
       "duration_ms": 222889,
       "name": "Dancing On My Own - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/2EHVjRFRSsXQaHAsys74Us"
+    },
+    {
+      "added_at": "2025-10-05 23:11:45",
+      "album": {
+        "name": "Clarity (Deluxe)",
+        "url": "https://open.spotify.com/album/4xak0izXQHOMV9Wu1mDAAy"
+      },
+      "artists": [
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        },
+        {
+          "name": "Hayley Williams",
+          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+        }
+      ],
+      "duration_ms": 217346,
+      "name": "Stay The Night - Featuring Hayley Williams Of Paramore",
+      "url": "https://open.spotify.com/track/2QtJA4gbwe1AcanB2p21aP"
     },
     {
       "added_at": "2025-10-05 23:11:45",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2P0QCc.md) - [plain]
 
 > This is Inspector\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,286 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,293 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2P0QCc.md) - [plain]
 | 32 | [Sin Mirar Atrás](https://open.spotify.com/track/7963PdJLGFUHyc4a0qydqI) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Páginas en Blanco](https://open.spotify.com/album/5UUTz6uw8xlU6V56pBXW8G) | 3:29 |
 | 33 | [Otra Vez](https://open.spotify.com/track/0nOtNlhNtInuUptmnjJtUs) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Otra Vez](https://open.spotify.com/album/6Gy4e2sYwQ3VKEW4AkUtXd) | 4:18 |
 | 34 | [El Dejado](https://open.spotify.com/track/2CImSOkWBJb7aX15imss53) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspección Retroacústica](https://open.spotify.com/album/6BPO85IdQxuZ1TtoiM7ysk) | 3:40 |
-| 35 | [Luna \- Sonando Desde El Auditorio Nacional](https://open.spotify.com/track/301p7RYR4Bg9a16m80XWnY) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [La Marisoul](https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE), [Son Rompe Pera](https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V) | [Luna \(Sonando Desde El Auditorio Nacional\)](https://open.spotify.com/album/554mV2o4xXe18Z8WPvNQnW) | 5:21 |
+| 35 | [Araña Ska \- Sonando desde el Auditorio Nacional](https://open.spotify.com/track/4SKvkWO5CPTTkkzOt4P3SP) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Out Of Control Army](https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy) | [Sonando desde el Auditorio Nacional](https://open.spotify.com/album/3KIOJqMlw5Mon5X6NfVLr8) | 3:46 |
 | 36 | [Breve Historia de Alcohol y una Mujer](https://open.spotify.com/track/7tZ55W74vP6fxBZVBp4rxW) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Páginas en Blanco](https://open.spotify.com/album/5UUTz6uw8xlU6V56pBXW8G) | 3:21 |
-| 37 | [Araña Ska \- Sonando desde el Auditorio Nacional](https://open.spotify.com/track/4SKvkWO5CPTTkkzOt4P3SP) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Out Of Control Army](https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy) | [Sonando desde el Auditorio Nacional](https://open.spotify.com/album/3KIOJqMlw5Mon5X6NfVLr8) | 3:46 |
+| 37 | [Luna \- Sonando Desde El Auditorio Nacional](https://open.spotify.com/track/301p7RYR4Bg9a16m80XWnY) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [La Marisoul](https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE), [Son Rompe Pera](https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V) | [Luna \(Sonando Desde El Auditorio Nacional\)](https://open.spotify.com/album/554mV2o4xXe18Z8WPvNQnW) | 5:21 |
 | 38 | [Volvamos a Ser Novios](https://open.spotify.com/track/1TaxeNJAmzQ91dh9zF5701) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspección Retroacústica](https://open.spotify.com/album/6BPO85IdQxuZ1TtoiM7ysk) | 3:29 |
 | 39 | [Lo Que Tú Me Das \- Gracias](https://open.spotify.com/track/7eOuceG9xpLU9dJaGsiOB4) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Canciones De Amor, Y Un Remedio Pa'l Corazón](https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha) | 3:02 |
 | 40 | [Pasa la Vida](https://open.spotify.com/track/4DP3Pl4f2QysGpBvBakrIE) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Páginas en Blanco](https://open.spotify.com/album/5UUTz6uw8xlU6V56pBXW8G) | 4:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2P0QCc.md) - [plain]
 | 49 | [No Puedo Ser Tu Amigo](https://open.spotify.com/track/2O19dNVIKtMF6K0SKRWjiV) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Serpientes Y Escaleras](https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ) | 3:32 |
 | 50 | [Mala Copa](https://open.spotify.com/track/7zrhd3m1VSWv8HMDXUEORm) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspector](https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB) | 3:39 |
 
-Snapshot ID: `aRkUAAAAAABInVi0im2+F/6oyGhjbBDY`
+Snapshot ID: `aRplgAAAAAC/n6cGY4lw3wpExtToQZHs`

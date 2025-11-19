@@ -1,12 +1,12 @@
 {
   "description": "This is Yoss Bones. The essential tracks, all in one playlist.",
-  "num_followers": 45055,
+  "num_followers": 45056,
   "original_name": "This Is Yoss Bones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRkUAAAAAAByK/P8mSGEVPjKEIJpPlQD",
+  "snapshot_id": "aRplgAAAAAA9BbJ7XmKy3ssJadK1kvQW",
   "tracks": [
     {
       "added_at": null,
@@ -599,26 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sin Rencor Ni Mal De Amores",
-        "url": "https://open.spotify.com/album/2eRRcTldTt3VkELELtUAKE"
-      },
-      "artists": [
-        {
-          "name": "Nunca Jamas",
-          "url": "https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 198591,
-      "name": "Sin Rencor Ni Mal De Amores",
-      "url": "https://open.spotify.com/track/45upTL3P8UfS2jC2yvN9gr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00bfC\u00f3mo Terminamos Aqu\u00ed?",
         "url": "https://open.spotify.com/album/5ODmbI1fYx0NajM6mo6Dpe"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 239500,
       "name": "Se Me Pas\u00f3",
       "url": "https://open.spotify.com/track/24cbsJGo2fQWiFp0dhlTCW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sin Rencor Ni Mal De Amores",
+        "url": "https://open.spotify.com/album/2eRRcTldTt3VkELELtUAKE"
+      },
+      "artists": [
+        {
+          "name": "Nunca Jamas",
+          "url": "https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 198591,
+      "name": "Sin Rencor Ni Mal De Amores",
+      "url": "https://open.spotify.com/track/45upTL3P8UfS2jC2yvN9gr"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12oeLC.md) - [plain]
 
 > This is Yseult\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,866 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,869 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12oeLC.md) - [plain]
 | 42 | [Rodéo](https://open.spotify.com/track/6xspLP2hzZpn0Fz1vi57Tk) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Rouge](https://open.spotify.com/album/54gsOyynoBq0VM1y02OBuY) | 3:03 |
 | 43 | [Summer Love](https://open.spotify.com/track/7cib4iojUbgyEjwIaCEwol) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Yseult](https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs) | 3:00 |
 | 44 | [Blue](https://open.spotify.com/track/6T7NNeIXazB8t2fJVh8scc) | [S.Pri Noir](https://open.spotify.com/artist/5olcgTzelGdyP1rHRLyWgs), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [La Cour des Miracles](https://open.spotify.com/album/50UvC6kz29l4oPJowv1Pql) | 3:16 |
-| 45 | [LVMH](https://open.spotify.com/track/3JZPeai9xfulG2stdSvpIG) | [Le Juiice](https://open.spotify.com/artist/67MIpliQaIhUN1WLSkYEqC), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [NOUS ART : Masterpiece](https://open.spotify.com/album/0a2XyKU93jIJAhFz9oZDDe) | 3:34 |
-| 46 | [Diego](https://open.spotify.com/track/6QkvfAPLuBRbh3ygGDtOkG) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Diego](https://open.spotify.com/album/47HrvjLdnDwEmSVFGenON2) | 2:47 |
+| 45 | [Diego](https://open.spotify.com/track/6QkvfAPLuBRbh3ygGDtOkG) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Diego](https://open.spotify.com/album/47HrvjLdnDwEmSVFGenON2) | 2:47 |
+| 46 | [LVMH](https://open.spotify.com/track/3JZPeai9xfulG2stdSvpIG) | [Le Juiice](https://open.spotify.com/artist/67MIpliQaIhUN1WLSkYEqC), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [NOUS ART : Masterpiece](https://open.spotify.com/album/0a2XyKU93jIJAhFz9oZDDe) | 3:34 |
 | 47 | [Pour l’impossible](https://open.spotify.com/track/3bvFb6eMmoyrAgTZEu5bym) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Yseult](https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs) | 2:30 |
 | 48 | [Meilleur homme](https://open.spotify.com/track/3iiNraQg0tAFJoK1WrD5jW) | [Lino](https://open.spotify.com/artist/6RM5eA0SSP7B8UV3qHbLa8), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Le gang des antillais](https://open.spotify.com/album/0dJ756gBNpM20RpDrmyPwF) | 3:38 |
 | 49 | [Te Amo](https://open.spotify.com/track/4S3Iw9rAoufrcTTJESkKmt) | [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Love Station](https://open.spotify.com/album/1fOg8C9IgkSOjJgLq7SGn9) | 3:02 |
 | 50 | [Ferme là](https://open.spotify.com/track/13WkCO8JEH89AEyvJ4KqOx) | [Benny Adam](https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX), [Le Motif](https://open.spotify.com/artist/0HdLXCWPtmK9wgd7CyNuj3) | [La Barquetterie](https://open.spotify.com/album/1NrmMEOZY5M0AwC1Dokqef) | 3:27 |
 
-Snapshot ID: `aRkUAAAAAABodHKpi87oXCEvJvcrsgaq`
+Snapshot ID: `aRplgAAAAABz961V0A+D/y87wK2p2LYE`

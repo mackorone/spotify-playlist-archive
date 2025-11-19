@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4odPobAM8zzccoqFwAVeBW.md) - [plain]
 
 > Check out our latest Cargo Distribution approved tracks! Updated weekly
 
-[Cargo Independent Distribution](https://open.spotify.com/user/cargorecords) - 622 likes - 67 songs - 4 hr 53 min
+[Cargo Independent Distribution](https://open.spotify.com/user/cargorecords) - 621 likes - 67 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

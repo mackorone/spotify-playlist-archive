@@ -4,7 +4,7 @@
 
 > Regaz indie qui sono benvenut\* 💘 Cover: Tommaso Paradiso
 
-398 songs - 21 hr 14 min
+399 songs - 21 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Becalóva](https://open.spotify.com/track/6EM5Wh5yvEI2bXLqm82sjr) | [Jacopo Èt](https://open.spotify.com/artist/1ubMZaQDpIlttCHLbIBUqy) | [Sammy, Cabiria, etc\. etc.](https://open.spotify.com/album/6o9iETdhprzrxv0ARB4eoB) | 3:00 | 2025-09-04 | 2025-09-26 |
 | [Bella Mossa \(feat\. Coez\)](https://open.spotify.com/track/4VW9kBi5TB2QlhihKgP6tn) | [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Futuri Possibili](https://open.spotify.com/album/5Z4qQSYHPbYjlXS6wnEhXD) | 2:55 | 2025-03-27 |  |
 | [Bloody Mary \(feat\. PUGNI & Fudasca\)](https://open.spotify.com/track/7KHgdxfF2D4bEz4HIEMlwM) | [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC), [PUGNI](https://open.spotify.com/artist/1LfDpyJZOMLA5B6o140mqa), [Fudasca](https://open.spotify.com/artist/3gVs02kUSkMOkErgzttj7T) | [Bloody Mary \(feat\. PUGNI & Fudasca\)](https://open.spotify.com/album/7AP0omdqa2pImzJRVrYq1K) | 2:41 | 2024-07-04 | 2024-10-04 |
-| [buco nero](https://open.spotify.com/track/4UxnRl0oN6htx2593DpJpb) | [i cani](https://open.spotify.com/artist/1WQY0Xovzegy0pJiOuuyRP) | [post mortem](https://open.spotify.com/album/0l8cw32SMyAlYyCheOoL9p) | 3:44 | 2025-04-10 | 2025-07-04 |
+| [buco nero](https://open.spotify.com/track/4UxnRl0oN6htx2593DpJpb) | [i cani](https://open.spotify.com/artist/1WQY0Xovzegy0pJiOuuyRP) | [post mortem](https://open.spotify.com/album/0l8cw32SMyAlYyCheOoL9p) | 3:44 | 2025-04-10 |  |
 | [Buianotte](https://open.spotify.com/track/1bqoLYddCR5bEglt5AV0hY) | [Thruppi](https://open.spotify.com/artist/3DJ294D2VS2W1sEwtBzbjS), [Giovanni Truppi](https://open.spotify.com/artist/6qSYb2AiQlXlAoa50vLx5m), [specchiopaura](https://open.spotify.com/artist/15OZuHjUnj9YAmwn5EXzrM) | [Buianotte](https://open.spotify.com/album/4B8gH29xs7bQ4mk2ll1SwP) | 3:48 | 2025-05-22 | 2025-06-13 |
 | [Buio](https://open.spotify.com/track/2kEesaNMfP5aXEeVUl5jCZ) | [Eugenio In Via Di Gioia](https://open.spotify.com/artist/1UtaXKnNyKhj0efXu2rD5t) | [Buio](https://open.spotify.com/album/3UdbcAYQCwWRIOX2ADdCk4) | 2:55 | 2025-03-06 | 2025-04-25 |
 | [Calore](https://open.spotify.com/track/0Pqf9vCxWD79znPmw5WKDw) | [SANO](https://open.spotify.com/artist/1PZyTe8GphPoqw95oY5of3) | [Calore](https://open.spotify.com/album/0Bdudd1JyswBKGJUXUweOe) | 3:01 | 2025-04-03 | 2025-04-23 |
@@ -280,6 +280,7 @@
 | [Petrolio](https://open.spotify.com/track/2QH9o0EPJGUElDByARkXuy) | [M.E.R.L.O.T](https://open.spotify.com/artist/061DeTQNd4aDwb6VqHq8O1) | [Petrolio](https://open.spotify.com/album/1K36hYryitp9VKOpoCUspA) | 3:03 | 2025-04-17 | 2025-05-09 |
 | [piangerepiangerepiangere](https://open.spotify.com/track/1te6dJOM0uRlv4OvWTF0V0) | [faccianuvola](https://open.spotify.com/artist/5KVUHVqS6B5MZKXf5PXDg1) | [le stelle\* il sole; l'arcobaleno\)\)](https://open.spotify.com/album/1AZSZ1CM8Xen3FmviWh1y7) | 4:21 | 2024-06-27 | 2024-10-04 |
 | [Piangono anche gli uomini \(feat\. Alberto Bianco\)](https://open.spotify.com/track/7C1QXDHC4GYCC2AS2Lr52B) | [MOX](https://open.spotify.com/artist/4eU1G77ExeXQw8FdsQA8It), [Alberto Bianco](https://open.spotify.com/artist/4OvEjbTT6H3zArVIrsEoII) | [Piangono Anche Gli Uomini](https://open.spotify.com/album/2Hp6AtPf7V2jFTTUGnIlkr) | 2:52 | 2025-01-30 | 2025-02-21 |
+| [Piazzale degli Eroi](https://open.spotify.com/track/0HznKHR0rq2ydRPTNdr4yX) | [Tutti Fenomeni](https://open.spotify.com/artist/13jvLDXME7yplEwCweRivE) | [Piazzale degli Eroi](https://open.spotify.com/album/0JkG2md6SYiPWmDqMToBt9) | 3:25 | 2025-11-18 |  |
 | [piccola](https://open.spotify.com/track/23rvrgsyz8UfDcdJ0Q2n6W) | [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [piccola](https://open.spotify.com/album/2K5AyOdOngBYvDhG4pGMcL) | 2:15 | 2024-10-17 | 2024-11-15 |
 | [Piccoli piccoli \(feat\. centomilacarie\)](https://open.spotify.com/track/1A202wT21CErLDE7FikK03) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK), [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [Piccoli piccoli \(feat\. centomilacarie\)](https://open.spotify.com/album/2pP5kkrKygJ5sFsxHXJhSC) | 3:03 | 2024-07-04 | 2024-10-18 |
 | [Piccolo Tornado](https://open.spotify.com/track/6DHbFV8VtthSD6brpfmmRQ) | [Giovanni Toscano](https://open.spotify.com/artist/1FNMcZG4mg6w5sfpTYQ2eM) | [Piccolo Tornado](https://open.spotify.com/album/1RyXXN2FM54OhAzRXqU54I) | 3:18 | 2024-10-17 | 2024-11-22 |

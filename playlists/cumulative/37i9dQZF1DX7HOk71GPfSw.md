@@ -4,7 +4,7 @@
 
 > we love you Danny Brown 🌸
 
-2,499 songs - 4 day 18 hr 2 min
+2,500 songs - 4 day 18 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [\#IAmDelusional](https://open.spotify.com/track/1F9skTtRwFWQNyFk5kWTbn) | [bodyGaard](https://open.spotify.com/artist/2LBjk8Kcii9JHM18uYW873) | [\#IAmDelusional](https://open.spotify.com/album/1NSt8jD0lzBSln5ojKSMNk) | 2:16 | 2022-04-15 | 2022-07-30 |
 | [\#miles](https://open.spotify.com/track/1hboZZxKIEjLHRIkhx4Soi) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [\#miles](https://open.spotify.com/album/2PCs0ZB8bHofV9khzpRmal) | 1:55 | 2022-06-17 | 2022-10-22 |
 | [\#RUready4the<4](https://open.spotify.com/track/5Wqay462LDXGwK7OGwHW4y) | [JUCK](https://open.spotify.com/artist/76TFkKyjZt64sNPdTqJwqS) | [\#LEONARDO](https://open.spotify.com/album/5yuVya9QYP095uM6uDYfkJ) | 2:33 | 2024-04-19 | 2024-08-17 |
-| [\*ussy](https://open.spotify.com/track/0INUt6qvNpFxaNF5X6wVrW) | [dj g2g](https://open.spotify.com/artist/3TnlUNMMrwW2IYrlBDTygL), [jahanam](https://open.spotify.com/artist/0dFS2JcZHhNxg3bxjvHXXa) | [\*ussy](https://open.spotify.com/album/1ttEZSQEEYBdZJ830f1igJ) | 3:16 | 2025-02-21 |  |
+| [\*ussy](https://open.spotify.com/track/0INUt6qvNpFxaNF5X6wVrW) | [dj g2g](https://open.spotify.com/artist/3TnlUNMMrwW2IYrlBDTygL), [jahanam](https://open.spotify.com/artist/0dFS2JcZHhNxg3bxjvHXXa) | [\*ussy](https://open.spotify.com/album/1ttEZSQEEYBdZJ830f1igJ) | 3:16 | 2025-02-21 | 2025-11-19 |
 | [0.0mg](https://open.spotify.com/track/4Hs7GsNpnndVUtWFPh3ONp) | [meat computer](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN) | [0.0mg](https://open.spotify.com/album/477nBIlRH0e09NZXh89D5e) | 1:08 | 2022-10-07 | 2022-10-29 |
 | [0h G0D!!](https://open.spotify.com/track/3wvGpG9cbnWKYlMfLwyLXh) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND) | [0h G0D!!](https://open.spotify.com/album/72t0guyJB2U5L9wM4ynPTM) | 2:40 | 2022-02-04 | 2022-03-19 |
 | [1](https://open.spotify.com/track/2yO7BD85Awa4LTLN5wLWD2) | [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [loverboy](https://open.spotify.com/album/5TtFPiJd9qWbh1RxScHo4D) | 2:51 | 2023-09-22 | 2024-01-23 |
@@ -932,6 +932,7 @@
 | [grandma got run over by a lawnmower](https://open.spotify.com/track/6N3V6QCj9ZfQfb1zFeRUhT) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8) | [grandma got run over by a lawnmower](https://open.spotify.com/album/5oM3AsoclZej9YFvAtInaq) | 1:40 | 2021-04-27 | 2021-11-13 |
 | [grassfield](https://open.spotify.com/track/0ttzFY7Okxr0sRfzlDfyGk) | [i9bonsai](https://open.spotify.com/artist/7dqb1363wqRxJw9RfgQeo3) | [grassfield](https://open.spotify.com/album/0NpvThEmaOj2QcRlre4H0b) | 3:06 | 2022-06-10 | 2022-11-12 |
 | [GREEN APPLE PASTE](https://open.spotify.com/track/4ysStr4DagYqkaCbTPWqHe) | [ElyOtto](https://open.spotify.com/artist/4b19vuzlDcNdU4quI7L6sW) | [GREEN APPLE PASTE](https://open.spotify.com/album/0zwZWs2lxWihruArt4JAc9) | 1:41 | 2023-03-30 | 2023-09-23 |
+| [Green Light](https://open.spotify.com/track/7HQqlyTnavA97mX9h8TNRy) | [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU), [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [Stardust](https://open.spotify.com/album/0h3LYQns7VLlsMW7392Z1X) | 2:48 | 2025-11-18 |  |
 | [Green Light](https://open.spotify.com/track/3pK8YjdB2827WRRvEAEUgC) | [Natalie Red](https://open.spotify.com/artist/38EW5PoQXJSd0tRuhmMbFL) | [Green Light](https://open.spotify.com/album/3kH2nsB9EnNFOi3AScxR5I) | 2:13 | 2023-07-28 | 2024-01-23 |
 | [GREEN SPORE VALLEY](https://open.spotify.com/track/496TD3rnHUlD3hJiTU2vmp) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [META](https://open.spotify.com/album/2HGBn0RTVefCuQAkCX4zb3) | 3:41 | 2022-07-08 | 2022-08-20 |
 | [grinning](https://open.spotify.com/track/7Bcov4ktc7cLnIo7cbKiZw) | [saturn](https://open.spotify.com/artist/42IAg1RgfyE8c66KZcSlSR), [oaf1](https://open.spotify.com/artist/3x2XRFCUMHeXZ9uRit3pKu) | [grinning](https://open.spotify.com/album/43LIECYFd4gDuScmebpa8B) | 2:25 | 2020-10-13\* | 2021-02-10 |

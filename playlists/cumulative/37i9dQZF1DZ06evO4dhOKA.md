@@ -4,11 +4,12 @@
 
 > This is Lalo Mora\. The essential tracks, all in one playlist.
 
-132 songs - 6 hr 42 min
+133 songs - 6 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Punto de Marcharme](https://open.spotify.com/track/6Hz8Ai2vWn1xSeapeSr8Sm) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [El Rey de Mil Coronas](https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy) | 2:45 | 2022-06-01 |  |
+| [A Punto de Marcharme](https://open.spotify.com/track/6Hz8Ai2vWn1xSeapeSr8Sm) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [El Rey de Mil Coronas](https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy) | 2:45 | 2022-06-01 | 2025-11-19 |
+| [A Punto De Marcharme \- Remastered](https://open.spotify.com/track/6jb7fBU3VDJS2rcHfAZIQH) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [45 Éxitos \(Versiones Originales\)](https://open.spotify.com/album/3hgPZ6SJi38giU4wlYi9nN) | 2:45 | 2025-11-19 |  |
 | [Aguanta Corazón](https://open.spotify.com/track/5fWwSOimDb4PDeiV7Gyld1) | [Carlo Mora](https://open.spotify.com/artist/2NMTOWTFH8iFnBvS0Uh4ze), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Aguanta Corazón](https://open.spotify.com/album/61eyl90QQVNrvi4oKn0wbb) | 2:14 | 2024-04-21 |  |
 | [Aguanta Corazón](https://open.spotify.com/track/15wuN0eAzGzwLZk5AD9ptF) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [20 Memorias Norteñas](https://open.spotify.com/album/1BnTwu2JNvBuSAWnfDwBn4) | 2:09 | 2022-06-01 |  |
 | [Aguanta Corazón \(En Vivo Desde El Domo Care\)](https://open.spotify.com/track/1ZEQbmzZqV0KIxEh15zzjQ) | [PALOMAZO NORTEÑO](https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC), [Eliseo Robles](https://open.spotify.com/artist/7mK1F4c2VQnHzuoH4wUX2y), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [PALOMAZO NORTEÑO \(En Vivo Desde El Domo Care\)](https://open.spotify.com/album/1BdNEO3z0uF5axyODDHoGX) | 2:37 | 2024-08-03 |  |

@@ -4,7 +4,7 @@
 
 > All I Want For Christmas Is...this playlist! Listen to your fav holiday classics here.
 
-140 songs - 7 hr 31 min
+140 songs - 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Carol of the Bells \(From "Home Alone" Soundtrack\)](https://open.spotify.com/track/4tHqQMWSqmL6YjXwsqthDI) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Home Alone \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3rDo7fQDUwJ6qmxwP5yQsY) | 1:25 | 2023-12-08 |  |
 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/46pF1zFimM582ss1PrMy68) | [Darlene Love](https://open.spotify.com/artist/391oLRVmoTkumiN79HkTWu) | [A Christmas Gift For You From Phil Spector](https://open.spotify.com/album/2kzkwgOFAtRsDsas5Hi0Qu) | 2:46 | 2023-12-08 |  |
 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/45yomhQzoECIf0wkjdCxRm) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/album/64Cos1GXQhFzalKplYMyJH) | 2:38 | 2023-12-08 |  |
-| [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/3PIDciSFdrQxSQSihim3hN) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 2:33 | 2023-12-08 |  |
+| [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/3PIDciSFdrQxSQSihim3hN) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 2:35 | 2023-12-08 |  |
 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/6oziGeTRE66xhvwUBNxWy5) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [A Tyler Shaw Christmas](https://open.spotify.com/album/3FZoAjWQNUMJy3DmbV9xX8) | 2:45 | 2025-10-17 |  |
 | [Christmas \(Baby Please Come Home\) \(feat\. Bryan Adams\)](https://open.spotify.com/track/5MrUeMnwotFhQCLlb2qEZK) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw), [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [The Christmas Present \(Deluxe\)](https://open.spotify.com/album/1JDeu83sZU5nmRu2OTSk4F) | 2:43 | 2023-12-08 |  |
 | [Christmas All Over Again](https://open.spotify.com/track/6zYDdWwGjEI6w8pRvQnkdn) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [Christmas All Over Again](https://open.spotify.com/album/7B3eH4HDNsYRZh8wzx6XMJ) | 2:43 | 2023-12-08 |  |
@@ -98,7 +98,7 @@
 | [O Christmas Tree \(feat\. Count Basie Big Band\)](https://open.spotify.com/track/2VsCE6ui7N4IRzGIGT7Di8) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Count Basie Big Band](https://open.spotify.com/artist/5OBN8AfE5Rv0K9lbAg16cO) | [A Swingin' Christmas \(feat\. Count Basie Big Band\)](https://open.spotify.com/album/5XwXBRHD4t7yKAHY5Smb8j) | 3:27 | 2023-12-08 |  |
 | [O Christmas Tree \(Glee Cast Version\)](https://open.spotify.com/track/0ItFNdmFzFHtYnf1d5KHyL) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm) | [Glee: The Music, The Christmas Album](https://open.spotify.com/album/7FNrLZcarhJDymYgoUQfQN) | 2:59 | 2023-12-08 |  |
 | [O Holy Night](https://open.spotify.com/track/7zfIflC7NerIvIFezj2bsk) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [These Are Special Times](https://open.spotify.com/album/32MpBKgfq3OJWbqEFcTwWP) | 5:20 | 2023-12-08 |  |
-| [O Holy Night](https://open.spotify.com/track/3B7FO3kJ5kv3mX7yiaB7sT) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:26 | 2023-12-08 |  |
+| [O Holy Night](https://open.spotify.com/track/3B7FO3kJ5kv3mX7yiaB7sT) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:27 | 2023-12-08 |  |
 | [O Holy Night](https://open.spotify.com/track/5WyGLCYSHtg8NXiCZBhIYP) | [Robert Popoli](https://open.spotify.com/artist/5oU0UODQyThQZv5OVVu70O) | [O Holy Night](https://open.spotify.com/album/3xiwdMBkciZVivpPDBaZNN) | 4:00 | 2025-10-17 |  |
 | [O Holy Night \(feat\. The Tenors\)](https://open.spotify.com/track/0z9Sjdm3vd95rdXNNNUERk) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31), [The Tenors](https://open.spotify.com/artist/0IuE3Ne32K4i3BZBbr610a) | [A Tyler Shaw Christmas](https://open.spotify.com/album/3ehYajj7zAyk3YdAWoL7CW) | 4:19 | 2023-12-08 |  |
 | [O Little Town of Bethlehem](https://open.spotify.com/track/6Ai7PiAjnb4eIiC05By0i4) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Christmas Album](https://open.spotify.com/album/6zk4RKl6JFlgLCV4Z7DQ7N) | 2:35 | 2023-12-08 |  |
@@ -118,7 +118,7 @@
 | [Santa Claus Is Comin' to Town](https://open.spotify.com/track/6YeDjSHCDmJKgU8foiaruL) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Christmas Songs by Sinatra](https://open.spotify.com/album/4XbPmVHP7EYBMoE7ZVjKCU) | 2:34 | 2023-12-08 |  |
 | [Santa Claus Is Comin' To Town](https://open.spotify.com/track/5h1LioQgmLvWoRU7V4pjma) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday](https://open.spotify.com/album/32gqZfrZ51UMunez3CZDJZ) | 2:39 | 2025-11-07 |  |
 | [Shake Up Christmas](https://open.spotify.com/track/1NghHeg0wE32eBYrQBVQXL) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Save Me, San Francisco \(Golden Gate Edition\)](https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR) | 3:52 | 2023-12-08 |  |
-| [Silent Night](https://open.spotify.com/track/1sFWEpf1aPYN576LS1aa4Y) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 3:39 | 2023-12-08 |  |
+| [Silent Night](https://open.spotify.com/track/1sFWEpf1aPYN576LS1aa4Y) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 3:41 | 2023-12-08 |  |
 | [Silver Bells](https://open.spotify.com/track/4QX5pZQpQTgVlkqfUTDim0) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Dean Martin Christmas Album](https://open.spotify.com/album/4Kd6niUoyuNkcLRVmThm0H) | 2:22 | 2023-12-08 |  |
 | [Silver Bells \(feat\. Count Basie Big Band\)](https://open.spotify.com/track/1qUNMljTcCUraMU82IU7aN) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Count Basie Big Band](https://open.spotify.com/artist/5OBN8AfE5Rv0K9lbAg16cO) | [The Classic Christmas Album](https://open.spotify.com/album/6Djk03kVAeEzGpFpLbA141) | 3:15 | 2023-12-08 |  |
 | [Sleigh Ride](https://open.spotify.com/track/5ymVfeMK8cDew5vzntTuc7) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [Merry Christmas](https://open.spotify.com/album/7zCvEkPCZcGWa1RHWjo2e0) | 2:08 | 2023-12-08 |  |

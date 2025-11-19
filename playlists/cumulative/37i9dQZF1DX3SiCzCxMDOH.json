@@ -9587,6 +9587,24 @@
     },
     {
       "album": {
+        "name": "Midnight Dialogue",
+        "url": "https://open.spotify.com/album/0LCAUYiSaTSZdFOrOLzFgy"
+      },
+      "artists": [
+        {
+          "name": "The Soft Geometry",
+          "url": "https://open.spotify.com/artist/3ojL8MCi3IC8GMZA55ncLr"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169492,
+      "name": "Midnight Dialogue",
+      "url": "https://open.spotify.com/track/7zstE1Dg5qI9OpOxM6nYhJ"
+    },
+    {
+      "album": {
         "name": "Midnight Drift",
         "url": "https://open.spotify.com/album/0HqXns0wRSdl5i3npa8dgR"
       },
@@ -13584,7 +13602,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 166679,
       "name": "Spring Is Here",
       "url": "https://open.spotify.com/track/6gOncymNzM5SZFqh1QrOdM"

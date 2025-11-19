@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 
 > Some nights aren’t meant to be streamed — this is one of them\. Cover: eaJ
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,251 likes - 20 songs - 51 min 34 sec
+[Spotify](https://open.spotify.com/user/spotify) - 55,242 likes - 20 songs - 51 min 34 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

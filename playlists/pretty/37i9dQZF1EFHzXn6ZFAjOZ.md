@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1EOn1bt5GXJPBxrZZ7SUlg">RAYE</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,615 likes - 128 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,629 likes - 128 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 | 9 | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/track/7KNmIjcmGJIBrhP2s5Vioe) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Alter Ego](https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm) | 3:51 |
 | 10 | [Home with You](https://open.spotify.com/track/6Z3KPGftGu9ZVvkAY8SaZa) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [As She Pleases](https://open.spotify.com/album/3PYA0lKJUKoKhYkVSLDyDb) | 3:10 |
 | 11 | [Oscar Winning Tears.](https://open.spotify.com/track/0iO2iCAjtX0t5duvczNQt6) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:03 |
-| 12 | [Car Keys \(Ayla\)](https://open.spotify.com/track/00E0Z2jrF7reoHps4zcbWQ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Car Keys \(Ayla\)](https://open.spotify.com/album/1yUD0trOHc8dudwm9VAiHs) | 2:27 |
-| 13 | [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:16 |
+| 12 | [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:16 |
+| 13 | [Car Keys \(Ayla\)](https://open.spotify.com/track/00E0Z2jrF7reoHps4zcbWQ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Car Keys \(Ayla\)](https://open.spotify.com/album/1yUD0trOHc8dudwm9VAiHs) | 2:27 |
 | 14 | [Worth It.](https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:06 |
 | 15 | [Kiss My \(Uh Oh\)](https://open.spotify.com/track/0MWiSBKm8Avs8iDIxcertp) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Therapy](https://open.spotify.com/album/4AeowfpQNCScPBpPhnovKM) | 2:56 |
 | 16 | [Stay \(Don't Go Away\) \[feat\. Raye\]](https://open.spotify.com/track/4YhN72dRYL2Z3MsaKyT7rS) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Stay \(Don't Go Away\) \[feat\. Raye\]](https://open.spotify.com/album/581MrXg5n979mmvZaC6AOE) | 3:05 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 | 58 | [Friends](https://open.spotify.com/track/34KTVmypyKLAFJc8CpfI5P) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Friends](https://open.spotify.com/album/5WmYE9Qy49qZ9brCCZ9h79) | 3:24 |
 | 59 | [If I Get My Way](https://open.spotify.com/track/7nZfqSVjcyoKTv0fYFd8rb) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Glory Days \(Expanded Edition\)](https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m) | 3:40 |
 | 60 | [FUFN \(Fuck You For Now\)](https://open.spotify.com/track/6f7SVoKbc1zFE5Lg2Qo9P4) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [THAT'S SHOWBIZ BABY!](https://open.spotify.com/album/4Q1Rf1xZ5OiQcCFnSAHdeE) | 3:35 |
-| 61 | [Not In Love](https://open.spotify.com/track/6zN256SHzVljMn5i3SCitv) | [M.O](https://open.spotify.com/artist/6Ur6METz02CC9zcJWDFicC), [Kent Jones](https://open.spotify.com/artist/3jHBxvZ9gbBkZ17wKUqVsO) | [Not In Love](https://open.spotify.com/album/0lw6II357NuP1I9Jk8f1Gm) | 3:35 |
-| 62 | [Remedy \(feat\. TS Graye\)](https://open.spotify.com/track/4BYpm1zHvGOxkJAvgfutqg) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S), [TS Graye](https://open.spotify.com/artist/5qB8VZFvQcnDIrsj4jBMU9) | [Organ](https://open.spotify.com/album/5iBrKvwaAYaNph01X36NYA) | 3:20 |
+| 61 | [Remedy \(feat\. TS Graye\)](https://open.spotify.com/track/4BYpm1zHvGOxkJAvgfutqg) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S), [TS Graye](https://open.spotify.com/artist/5qB8VZFvQcnDIrsj4jBMU9) | [Organ](https://open.spotify.com/album/5iBrKvwaAYaNph01X36NYA) | 3:20 |
+| 62 | [Not In Love](https://open.spotify.com/track/6zN256SHzVljMn5i3SCitv) | [M.O](https://open.spotify.com/artist/6Ur6METz02CC9zcJWDFicC), [Kent Jones](https://open.spotify.com/artist/3jHBxvZ9gbBkZ17wKUqVsO) | [Not In Love](https://open.spotify.com/album/0lw6II357NuP1I9Jk8f1Gm) | 3:35 |
 | 63 | [Edge of Saturday Night](https://open.spotify.com/track/2Ti9DOQRFRsrD1TIA3VjKw) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Godspeed](https://open.spotify.com/album/0WGs5bQx4HefdubdFh1kfE) | 3:26 |
 | 64 | [On My Way](https://open.spotify.com/track/7H9YC7hkicuj0ASDn3Aati) | [PRETTYMUCH](https://open.spotify.com/artist/5Y8eJDj37KhaEeqbVO7Ag1) | [PRETTYMUCH an EP](https://open.spotify.com/album/2rmcMZwrpFewSPsoaC6Dvc) | 3:52 |
 | 65 | [I Feel Ya](https://open.spotify.com/track/0rwZuDEc2rj3lgxu3zSjMg) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Danny Quest](https://open.spotify.com/artist/3F3uRvVluLsFqBrGaeJP3p), [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [I Feel Ya](https://open.spotify.com/album/7G0Nq4QZmmoOhOx2yifG6t) | 2:49 |
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 | 127 | [Don’t Cry \(feat\. Aida Lae\)](https://open.spotify.com/track/3aXsMhbTt3SQTD4iz3ptcc) | [Preditah](https://open.spotify.com/artist/5qYCZ5FQuzZSjOnesvuYiD), [Aida Lae](https://open.spotify.com/artist/6O3zNHRRBNy1fVMuFsuJwc) | [Don’t Cry \(feat\. Aida Lae\)](https://open.spotify.com/album/20fw7LGasmONYZDICD2cUD) | 2:49 |
 | 128 | [Magic](https://open.spotify.com/track/6Is9lEdN1IJQcD6sfFJiTo) | [Rachel Alejandro](https://open.spotify.com/artist/4oMk1QJuMWUWrNmchRJGWL) | [Heart's Desire](https://open.spotify.com/album/2hx6aKJg9nktlobIjmFiW8) | 3:12 |
 
-Snapshot ID: `AcB3HAAAAADRunLvlr5pxNvKMr3LyM7r`
+Snapshot ID: `AcB8qAAAAABGhUecDNP5FV14uVW6zP8k`

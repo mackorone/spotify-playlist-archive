@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDurFyY5QeAQ.md) - [plain]
 | 63 | [I'm The Drama](https://open.spotify.com/track/21KShmFSfzVOaYAJmMLbHG) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm The Drama](https://open.spotify.com/album/6rhEdVWLmMzxnp8KVppcjx) | 2:36 |
 | 64 | [Nothing Compares To You](https://open.spotify.com/track/2ezQjvDd1x9r9GxjkQa7tU) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [House On Fire](https://open.spotify.com/album/0pFzbeCV5S5hzUqDBr1R5n) | 3:29 |
 | 65 | [Mine](https://open.spotify.com/track/2SuKjwPDuZ7g6PFcBeGX3X) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Expectations](https://open.spotify.com/album/4TOkZvtqNpg5UHyGxCn0mS) | 2:51 |
-| 66 | [This Is Not A Drill \(feat\. Bebe Rexha\)](https://open.spotify.com/track/1n9ihgANQtldosKV142hBz) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Globalization](https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm) | 3:24 |
+| 66 | [This Is Not A Drill \(feat\. Bebe Rexha\)](https://open.spotify.com/track/1n9ihgANQtldosKV142hBz) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Globalization](https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm) | 3:25 |
 | 67 | [Pillow](https://open.spotify.com/track/5MrNSHoWvFKjBQ7TRMkp9I) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Expectations](https://open.spotify.com/album/4TOkZvtqNpg5UHyGxCn0mS) | 3:36 |
 | 68 | [Glowing](https://open.spotify.com/track/2q2IvYjfidmDUXag3batKZ) | [Nikki Williams](https://open.spotify.com/artist/1IYSbgNotSayG9ypffJi11) | [Glowing](https://open.spotify.com/album/6ljqZKDSeQIDr4HfsVkA6r) | 4:08 |
 | 69 | [Trust Fall](https://open.spotify.com/track/6jm6543STio3hL0bHV2xZ8) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Better Mistakes](https://open.spotify.com/album/1v0new1LT7TVddV7dBIAmo) | 2:30 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDurFyY5QeAQ.md) - [plain]
 | 94 | [Miracle](https://open.spotify.com/track/2H5r66uEoNiIS5W9CQ9DB2) | [Greg Scott](https://open.spotify.com/artist/5bBHo5g4F9R3WQoMcw3r80) | [Miracle](https://open.spotify.com/album/0nK7nk8wSXVEkwkbGMsf94) | 2:32 |
 | 95 | [Right Here, Right Now](https://open.spotify.com/track/0n324gn22EDTQsNHvyFvQ0) | [Jeremy Johnson](https://open.spotify.com/artist/7xepAnhCIzCv3zUtpZyq4N) | [Mixtape For War](https://open.spotify.com/album/2D75KXRDeYBHvgttp7gq4l) | 3:49 |
 
-Snapshot ID: `AcB3JgAAAABG8L7cx5eUUTm1yhDmOmns`
+Snapshot ID: `AcB8qAAAAABXSWit3r+HuFJ9sC5umKvc`

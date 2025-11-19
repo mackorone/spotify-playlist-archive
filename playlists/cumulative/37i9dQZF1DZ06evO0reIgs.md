@@ -4,7 +4,7 @@
 
 > This is Cynthia Luz\. The essential tracks, all in one playlist.
 
-116 songs - 7 hr 18 min
+117 songs - 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,8 +112,9 @@
 | [Subirusdoistiozin](https://open.spotify.com/track/5F6VXrAcAC0fQ9G6D2S646) | [Rap Reggae Party](https://open.spotify.com/artist/0H0rXzRoYQpQdzHOkfg1fl), [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Subirusdoistiozin](https://open.spotify.com/album/1bQIRQRTxfnLjBvkPZbavU) | 4:31 | 2024-10-17 | 2024-12-22 |
 | [Só Quero Viajar](https://open.spotify.com/track/1isFUjTray08USSUwd5pTh) | [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Só Quero Viajar](https://open.spotify.com/album/3JJYMENYkiMZ7fVMKucvEb) | 3:33 | 2023-12-30 |  |
 | [Te Adoro](https://open.spotify.com/track/1QTGb30ZhoXhoWGbD2TpTE) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [Ciclo Vicioso \(Deluxe\)](https://open.spotify.com/album/01PAv8YYPcmmkTG8NDo73a) | 2:53 | 2024-11-03 | 2025-05-24 |
+| [Te Ver de Novo](https://open.spotify.com/track/5cnO8RIivzQcedCfg0bLvI) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6) | [Duo](https://open.spotify.com/album/2HP5e9qI6Iw6anUJujeD3t) | 2:09 | 2025-11-19 |  |
 | [Te Ver Sorrindo](https://open.spotify.com/track/6kHVVpIi9ISqALhgPfH5LD) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Afetropia](https://open.spotify.com/album/5PlDJYNDZLhOdsvhYUatQc) | 2:37 | 2023-12-30 | 2024-03-17 |
-| [Temporais 2](https://open.spotify.com/track/2Tqz0VlIN2qPs2ofDGxUZB) | [Black](https://open.spotify.com/artist/2UzbrOSDiSjcLFN8wZ4bz2), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Atemporal](https://open.spotify.com/album/43vrdNHkZFajFFqkZgNIvb) | 3:38 | 2025-11-01 |  |
+| [Temporais 2](https://open.spotify.com/track/2Tqz0VlIN2qPs2ofDGxUZB) | [Black](https://open.spotify.com/artist/2UzbrOSDiSjcLFN8wZ4bz2), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Atemporal](https://open.spotify.com/album/43vrdNHkZFajFFqkZgNIvb) | 3:38 | 2025-11-01 | 2025-11-19 |
 | [Teu Sorriso](https://open.spotify.com/track/73BfMRs1S03dkmzCIDJwIw) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6) | [Teu Sorriso](https://open.spotify.com/album/0yEhVaO6xTfNdhY8ByYqZE) | 3:03 | 2023-12-30 |  |
 | [Tiffany](https://open.spotify.com/track/6ee2iBWXIUgfzQrSbk1mwk) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Jailhouse](https://open.spotify.com/artist/6QuV7w29AgBJFHxKVzRyJY) | [Tiffany](https://open.spotify.com/album/4ksjeDtwyGRzn8xvBeabae) | 2:59 | 2024-01-17 | 2024-08-24 |
 | [Tão Forte](https://open.spotify.com/track/1hbmVcjivTpi9i72mywUD0) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq), [Batista](https://open.spotify.com/artist/5P7LznAMG6vFpraIIoE3qp) | [Ciclo Vicioso](https://open.spotify.com/album/5NN6jAsZ5ePXElnkk3gCuJ) | 3:02 | 2024-03-08 | 2024-11-01 |

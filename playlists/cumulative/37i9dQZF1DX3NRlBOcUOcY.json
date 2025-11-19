@@ -5,6 +5,42 @@
   "tracks": [
     {
       "album": {
+        "name": "DELIRIUM",
+        "url": "https://open.spotify.com/album/0xTFLxAqGha7RPtlHkDqm6"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189019,
+      "name": "/Lentes",
+      "url": "https://open.spotify.com/track/1ur0gl2eeCUwzaO2iev7eP"
+    },
+    {
+      "album": {
+        "name": "DELIRIUM",
+        "url": "https://open.spotify.com/album/0xTFLxAqGha7RPtlHkDqm6"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202823,
+      "name": "/Nachica",
+      "url": "https://open.spotify.com/track/4cU0wBWkkczqC9WwU8ki1d"
+    },
+    {
+      "album": {
         "name": "1000COSAS",
         "url": "https://open.spotify.com/album/0tsruTj7W1OO3QyOLdnoBj"
       },
@@ -1554,7 +1590,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 167118,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/1xGGAKvv0f6gQILGJi2zUE"
@@ -1993,6 +2029,28 @@
     },
     {
       "album": {
+        "name": "Chimba",
+        "url": "https://open.spotify.com/album/4VbBqWUAM1sKdARDmUQDVc"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        },
+        {
+          "name": "Bacilos",
+          "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174315,
+      "name": "Chimba",
+      "url": "https://open.spotify.com/track/6PczmhvRYkPBUhE1utqDRW"
+    },
+    {
+      "album": {
         "name": "Chimbo",
         "url": "https://open.spotify.com/album/5XRQrTcMUREddc69cWGtzn"
       },
@@ -2030,7 +2088,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 165333,
       "name": "Chirriqui Chirri - Remix",
       "url": "https://open.spotify.com/track/2cJPlgUlrvZFeg8mTpOaQe"
@@ -2342,6 +2400,24 @@
       "duration_ms": 182106,
       "name": "Correcaminos",
       "url": "https://open.spotify.com/track/3aCLD0IqnpnG09ZhfyUqIC"
+    },
+    {
+      "album": {
+        "name": "Cosas de Enamorao (Salud mi Reina)",
+        "url": "https://open.spotify.com/album/7lqgz12x7nS4jrGJQChDX8"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159663,
+      "name": "Cosas de Enamorao - Salud mi Reina",
+      "url": "https://open.spotify.com/track/5REuVEc3Mo3aIHn8QYSrxk"
     },
     {
       "album": {
@@ -4427,6 +4503,32 @@
     },
     {
       "album": {
+        "name": "Spotify Anniversary | Oral Fixation (20th) and Pies Descalzos (30th) LIVE",
+        "url": "https://open.spotify.com/album/3MPdhBdbgE1pNvIANARIfL"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208730,
+      "name": "Hips Don't Lie - Spotify Anniversary Version",
+      "url": "https://open.spotify.com/track/2oaGtVSJwivQkslaiDXOTr"
+    },
+    {
+      "album": {
         "name": "Hora Loca Remix - Spotify Singles (with Piso 21)",
         "url": "https://open.spotify.com/album/30YYgDImOQliL0lTWkQwRD"
       },
@@ -4776,7 +4878,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 126315,
       "name": "KHE CALOR",
       "url": "https://open.spotify.com/track/1lzB5qrIA9GBH8cq5mZCSw"
@@ -5372,7 +5474,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 162282,
       "name": "Lo dejo fluir",
       "url": "https://open.spotify.com/track/659DjhTaWZQ8hLw4P0btxl"
@@ -8419,6 +8521,28 @@
     },
     {
       "album": {
+        "name": "Quiero Decirte",
+        "url": "https://open.spotify.com/album/3CnYoRJD1BVt5eyoRwaFar"
+      },
+      "artists": [
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        },
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222348,
+      "name": "Quiero Decirte",
+      "url": "https://open.spotify.com/track/7dT6ccDqmMHvz5C0d8iUND"
+    },
+    {
+      "album": {
         "name": "Qu\u00e9 Chimba",
         "url": "https://open.spotify.com/album/3bCabsApM2gTY3KYRKMsw6"
       },
@@ -8886,7 +9010,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 188307,
       "name": "SE VUELVE LOCA",
       "url": "https://open.spotify.com/track/1buotcwPHniYNYJpzQzZP6"
@@ -11204,7 +11328,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 224081,
       "name": "Volvernos a Ver",
       "url": "https://open.spotify.com/track/5vi7KizvwepFnyquGKDgKc"

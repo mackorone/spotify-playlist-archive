@@ -4,7 +4,7 @@
 
 > This is Oasis\. The essential tracks, all in one playlist.
 
-101 songs - 8 hr 14 min
+102 songs - 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,9 +12,10 @@
 | [All Around The World \- Remastered](https://open.spotify.com/track/6ZYgoD3c2aE4dD3yVFWV51) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Be Here Now \(Deluxe Remastered Edition\)](https://open.spotify.com/album/4XBCWqCXqCdN72K9SklIjy) | 9:19 | 2022-01-11 |  |
 | [Bag It Up](https://open.spotify.com/track/2Sr49PY1vTWFQ8gqMMq0gr) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Dig Out Your Soul](https://open.spotify.com/album/0qzmQzJH4ZDYMHvfN1Px15) | 4:40 | 2022-01-13 | 2024-09-02 |
 | [Be Here Now \- Remastered](https://open.spotify.com/track/1WKQuEgQnvvgVxj5B7ptwl) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Be Here Now \(Deluxe Remastered Edition\)](https://open.spotify.com/album/4XBCWqCXqCdN72K9SklIjy) | 5:12 | 2022-01-11 | 2024-01-15 |
+| [Bring It on Down \- Remastered](https://open.spotify.com/track/4H9muKIJpzTODxUxkPTgnH) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(Remastered\)](https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy) | 4:17 | 2025-11-19 |  |
 | [Bring It On Down \- Remastered](https://open.spotify.com/track/4dXBRhjGDoDjYR0JuvPuXu) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(Deluxe Edition Remastered\)](https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY) | 4:17 | 2022-01-29 | 2022-01-31 |
 | [Champagne Supernova \- Remastered](https://open.spotify.com/track/2A7GGXmTlXuH9LOvBXgOX4) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 7:31 | 2022-01-11 |  |
-| [Cigarettes & Alcohol \- Remastered](https://open.spotify.com/track/5adjc9rGazKvYcyEHNtoz1) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(Deluxe Edition Remastered\)](https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY) | 4:49 | 2022-01-16 |  |
+| [Cigarettes & Alcohol \- Remastered](https://open.spotify.com/track/5adjc9rGazKvYcyEHNtoz1) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(Deluxe Edition Remastered\)](https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY) | 4:49 | 2022-01-16 | 2025-11-19 |
 | [Cigarettes & Alcohol \- Sawmills Outtake](https://open.spotify.com/track/1eDvuhJnGGyP2WU4GpO409) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \- 30th Anniversary Deluxe Edition](https://open.spotify.com/album/03srqDInwtWuyPNNasaR8v) | 5:06 | 2024-09-01 | 2024-09-29 |
 | [Columbia \(Sawmills Outtake\)](https://open.spotify.com/track/2xgy23ATVJPJwaNebyJBVu) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Columbia \(Sawmills Outtake\)](https://open.spotify.com/album/6p2oQjrRUADLx4kfUpy1ir) | 7:17 | 2024-07-13 | 2024-07-27 |
 | [Columbia \- Remastered](https://open.spotify.com/track/20EkniSUbhZ86v1Oc0hhUI) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(Deluxe Edition Remastered\)](https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY) | 6:17 | 2022-01-13 | 2024-05-25 |

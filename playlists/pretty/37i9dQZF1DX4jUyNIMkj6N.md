@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,270 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,286 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 36 | [Took the Train 'til the End](https://open.spotify.com/track/0JhqyLHTwuFbl34Z2nQZWL) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [I Miss You, I Do](https://open.spotify.com/album/0T0s1ct3KmVkQg5dAd8ILU) | 3:59 |
 | 37 | [fare thee well](https://open.spotify.com/track/5HOtLyqKZJElSpZQ9WsXax) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [blómi](https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE) | 4:23 |
 | 38 | [I Let the Good Ones Go](https://open.spotify.com/track/3Q30mwHAXv4cYoIQFiIWt8) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [A Chosen Family](https://open.spotify.com/album/5edXe34CzaJQps4q5ADGdr) | 3:55 |
-| 39 | [What My Heart Needs](https://open.spotify.com/track/0XYd2DMcwh4P2SDB6ahPNh) | [Isak Benjamin](https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C) | [Never Look Down](https://open.spotify.com/album/3FrIUKSAtIxvyVOiLRwbhm) | 2:53 |
-| 40 | [A Dangerous Thing](https://open.spotify.com/track/3Ola5gPTe1NK9GgnVgLoVX) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [A Dangerous Thing](https://open.spotify.com/album/0JyKCwmc6Ye0J88dwkm8uj) | 3:35 |
+| 39 | [A Dangerous Thing](https://open.spotify.com/track/3Ola5gPTe1NK9GgnVgLoVX) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [A Dangerous Thing](https://open.spotify.com/album/0JyKCwmc6Ye0J88dwkm8uj) | 3:35 |
+| 40 | [What My Heart Needs](https://open.spotify.com/track/0XYd2DMcwh4P2SDB6ahPNh) | [Isak Benjamin](https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C) | [Never Look Down](https://open.spotify.com/album/3FrIUKSAtIxvyVOiLRwbhm) | 2:53 |
 | 41 | [I Miss You, I Do](https://open.spotify.com/track/6Q6DS150kHJ3bigd3EEWh6) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [I Miss You, I Do](https://open.spotify.com/album/29ONymW27lZQsuZc3yKxux) | 4:06 |
 | 42 | [Hometown](https://open.spotify.com/track/7FsuOh45ILYfnT6Z9kbuUg) | [Maren Lein](https://open.spotify.com/artist/5KSwZiOZLgVyZBJya03dpq) | [Hometown](https://open.spotify.com/album/0tY0wD2plh4fIeaGVNR6y7) | 3:01 |
 | 43 | [Finding You Again](https://open.spotify.com/track/59RTzis0xZIqlFBteJFsrB) | [Oklahoma](https://open.spotify.com/artist/5Z7ieWTfU3i06MVBgT6Cow) | [Finding You Again](https://open.spotify.com/album/58rLhkfZO2qYvLBeV1ToiD) | 3:18 |
@@ -59,14 +59,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 49 | [UFO](https://open.spotify.com/track/32scuBdePLY3o4ZwJDWLRR) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [UFO](https://open.spotify.com/album/21f17oQynU60lyfT0wjj8U) | 3:00 |
 | 50 | [Feels like That](https://open.spotify.com/track/6odNsNmG4RJbxIkNBe9otp) | [Victor Lundberg](https://open.spotify.com/artist/3aPt0ITiKD1r1GXV3RvOUh) | [Feels like That](https://open.spotify.com/album/74iE9zshOGQsSLWsAtmPlq) | 3:36 |
 | 51 | [anywhere](https://open.spotify.com/track/3UTw97nvn3xfPsB3RtbdWN) | [Malen](https://open.spotify.com/artist/4IdTbZsJ8z00CNjZDdyV4g) | [anywhere](https://open.spotify.com/album/5JbRU6OuMz1vcPlnnZNVsC) | 2:31 |
-| 52 | [Mamma og Pappa](https://open.spotify.com/track/2oiq7rEbWpXshuTIKnYFPX) | [Jonas Alaska](https://open.spotify.com/artist/1OH3Hbbo6G6uBWunJnU148) | [Mamma og Pappa](https://open.spotify.com/album/6WpwisMIzyL9deJ4veWlke) | 3:34 |
-| 53 | [Something Good](https://open.spotify.com/track/4MIpMHjGu9tBoK065wTu6R) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Something Good](https://open.spotify.com/album/6pYjJFbYrjgxPc6O6ke14G) | 3:45 |
+| 52 | [Nick of Time](https://open.spotify.com/track/6cDbus54svH0LbeHMDIaWJ) | [Konradsen](https://open.spotify.com/artist/59CWeBMEzwj6U2HhTVLJ3O), [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Nick of Time](https://open.spotify.com/album/3SqezFkvES8NhapcRZ0f8V) | 3:02 |
+| 53 | [Mamma og Pappa](https://open.spotify.com/track/2oiq7rEbWpXshuTIKnYFPX) | [Jonas Alaska](https://open.spotify.com/artist/1OH3Hbbo6G6uBWunJnU148) | [Mamma og Pappa](https://open.spotify.com/album/6WpwisMIzyL9deJ4veWlke) | 3:34 |
 | 54 | [Pixie's Parasol](https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Pixie's Parasol](https://open.spotify.com/album/4giKFINYxPLvnV0fBsv4Vw) | 3:02 |
-| 55 | [Desert](https://open.spotify.com/track/1aFqPWyt9BoSgIfMIuGb8P) | [Ask Carol](https://open.spotify.com/artist/4KrnntHJnsol4gWJEnCDKR) | [Desert](https://open.spotify.com/album/12NvD133MaNuRg7tsC0RNf) | 5:31 |
-| 56 | [Brick by Brick](https://open.spotify.com/track/4bhQUsObZYGGtiZPe2kGYN) | [August Green](https://open.spotify.com/artist/4ZoIkqWHz47n5xuIfVbncu) | [Brick by Brick](https://open.spotify.com/album/2MyNPpaEbiLzjwXkMrjIfz) | 3:38 |
-| 57 | [Summer Season](https://open.spotify.com/track/3TvRQLowsGNEMXMMHB30KK) | [PS.](https://open.spotify.com/artist/0nHLaX2ZYKfNOtkASkDk48) | [Summer Season](https://open.spotify.com/album/1W6UY4RUUYu8QJHZ4H2bGT) | 2:42 |
-| 58 | [walk the line](https://open.spotify.com/track/7t7P4Qy8zyjmS8dPbhst9y) | [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [walk the line](https://open.spotify.com/album/3ix30TIxlRGD2wN5xUofq8) | 3:35 |
-| 59 | [Peace Song](https://open.spotify.com/track/2RTGWy7mMTKcLeQiHapuTv) | [Moreau](https://open.spotify.com/artist/6wydoYiLiAUaJVxQc0iKpK) | [Peace Song](https://open.spotify.com/album/1bEBNy9nUcZhTCMwc6GDD1) | 2:50 |
-| 60 | [Vulnerable](https://open.spotify.com/track/3lCDch1ZQ7LThCk73gHjBd) | [Oklahoma](https://open.spotify.com/artist/5Z7ieWTfU3i06MVBgT6Cow) | [Vulnerable](https://open.spotify.com/album/1TFFXYhwLKAiRV3tSBEfLS) | 3:14 |
+| 55 | [Brick by Brick](https://open.spotify.com/track/4bhQUsObZYGGtiZPe2kGYN) | [August Green](https://open.spotify.com/artist/4ZoIkqWHz47n5xuIfVbncu) | [Brick by Brick](https://open.spotify.com/album/2MyNPpaEbiLzjwXkMrjIfz) | 3:38 |
+| 56 | [Something Good](https://open.spotify.com/track/4MIpMHjGu9tBoK065wTu6R) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Something Good](https://open.spotify.com/album/6pYjJFbYrjgxPc6O6ke14G) | 3:45 |
+| 57 | [Desert](https://open.spotify.com/track/1aFqPWyt9BoSgIfMIuGb8P) | [Ask Carol](https://open.spotify.com/artist/4KrnntHJnsol4gWJEnCDKR) | [Desert](https://open.spotify.com/album/12NvD133MaNuRg7tsC0RNf) | 5:31 |
+| 58 | [Summer Season](https://open.spotify.com/track/3TvRQLowsGNEMXMMHB30KK) | [PS.](https://open.spotify.com/artist/0nHLaX2ZYKfNOtkASkDk48) | [Summer Season](https://open.spotify.com/album/1W6UY4RUUYu8QJHZ4H2bGT) | 2:42 |
+| 59 | [walk the line](https://open.spotify.com/track/7t7P4Qy8zyjmS8dPbhst9y) | [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [walk the line](https://open.spotify.com/album/3ix30TIxlRGD2wN5xUofq8) | 3:35 |
+| 60 | [Peace Song](https://open.spotify.com/track/2RTGWy7mMTKcLeQiHapuTv) | [Moreau](https://open.spotify.com/artist/6wydoYiLiAUaJVxQc0iKpK) | [Peace Song](https://open.spotify.com/album/1bEBNy9nUcZhTCMwc6GDD1) | 2:50 |
 
 Snapshot ID: `AAAAACaaJx7zQ/611uKgrtp3sbPwV7zn`

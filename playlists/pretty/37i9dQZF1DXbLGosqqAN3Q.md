@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLGosqqAN3Q.md) - [plain]
 
 > Music From "Genesis of Aquarion"!\(C\)2004 河森正治・サテライト/Project AQUARION
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,959 likes - 46 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,965 likes - 46 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

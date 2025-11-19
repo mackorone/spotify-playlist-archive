@@ -4,7 +4,7 @@
 
 > heartbreak feels good in a place like sad hour, with Sabrina Sterling
 
-993 songs - 2 day 6 hr 39 min
+994 songs - 2 day 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,7 +220,7 @@
 | [Doppelgänger](https://open.spotify.com/track/1KjJfUt1UyEbZSbliSkGpi) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Doppelgänger](https://open.spotify.com/album/7wUFChQwfJDOAMTBTFjBHc) | 3:14 | 2022-02-25 | 2022-10-22 |
 | [Double Casket](https://open.spotify.com/track/7rR24CWfEpO61fjSicHQfv) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ) | [Double Casket](https://open.spotify.com/album/2KREFkBR5HsPSEoAt2ECLx) | 2:41 | 2024-10-04 | 2024-10-12 |
 | [Double Date](https://open.spotify.com/track/4CyevrMYaqn6cvODOldS6m) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Double Date](https://open.spotify.com/album/5ofZGLKXLj5RaTNasbBB8O) | 3:12 | 2025-10-24 |  |
-| [Dream](https://open.spotify.com/track/37gousVr7Tfh7798ae6eac) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Dream](https://open.spotify.com/album/79y56tQjNRUextz6CReVXg) | 3:30 | 2024-08-09 |  |
+| [Dream](https://open.spotify.com/track/37gousVr7Tfh7798ae6eac) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Dream](https://open.spotify.com/album/79y56tQjNRUextz6CReVXg) | 3:30 | 2024-08-09 | 2025-11-19 |
 | [drivers license](https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 4:02 | 2022-07-22 | 2022-10-01 |
 | [drivers license](https://open.spotify.com/track/7lPN2DXiMsVn7XUKtOW1CS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drivers license](https://open.spotify.com/album/66FPnVL9G4CMKy3wvaGTcr) | 4:02 | 2021-12-17 | 2022-07-29 |
 | [drivers license \- Spotify Singles](https://open.spotify.com/track/10wk4XQdba4QpHgFb28Ktk) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Spotify Singles](https://open.spotify.com/album/1bqvkdrPKF47lM9bZrRvB9) | 4:22 | 2022-09-23 | 2023-05-27 |
@@ -795,6 +795,7 @@
 | [Something in the Orange](https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Something in the Orange](https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv) | 3:48 | 2022-10-26 |  |
 | [Something To Do](https://open.spotify.com/track/1kWboh3AQlWKzSGSd6Jaep) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Two Places at Once](https://open.spotify.com/album/4wPLBGPd0RsGB1nYuRsss8) | 3:13 | 2022-11-11 | 2022-12-06 |
 | [something to remember](https://open.spotify.com/track/6eI8B3QW20P68MCYMb4Etd) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [something to remember](https://open.spotify.com/album/1XReJJvzNwuKvwcGtSbdfo) | 2:42 | 2023-10-27 |  |
+| [SORRY](https://open.spotify.com/track/5M2ztfcb9GBGmZdUFkSzfQ) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [SORRY](https://open.spotify.com/album/1RnVAiamXujeEQcruNCCWn) | 3:11 | 2025-11-18 |  |
 | [Sorry Ain't Enough](https://open.spotify.com/track/4Rdnh0sq0Xs4d9wKE8Edn2) | [Michael Gerow](https://open.spotify.com/artist/3Wbs390oASVP3AFZz937tl) | [you taught me to read between the lines](https://open.spotify.com/album/51rJr1CW5K5BhIM0mkouxh) | 3:15 | 2024-01-19 | 2024-01-27 |
 | [South Dakota](https://open.spotify.com/track/2s3CzgeeA7NpLP87ZDbmC8) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [South Dakota](https://open.spotify.com/album/7pXsFVBKdJdyLEXUJ3j3oV) | 3:11 | 2022-01-07 | 2022-07-29 |
 | [Sparks](https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 3:47 | 2022-07-29 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 17 likes - 2,666 songs - 5 day 18 hr 56 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 17 likes - 2,667 songs - 5 day 18 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2674,5 +2674,6 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 2664 | [Total Destruction](https://open.spotify.com/track/0LxRnVPDs9AAFqp5jwDe10) | [Acidz](https://open.spotify.com/artist/4AflTeWUY89j7GYJvyWGAo) | [Total Destruction](https://open.spotify.com/album/4gHe942sM2cDwjSf8KSi1U) | 2:34 |
 | 2665 | [Summer Oblivion](https://open.spotify.com/track/68QBADvWE3o5fP5cGDyMmS) | [DJ Shimamura](https://open.spotify.com/artist/3w4XD20Uhwh95PA6Hjfd0M) | [TRUE END](https://open.spotify.com/album/6PWWIQ272j0YTwwpFULae2) | 4:56 |
 | 2666 | [Feel The Magic](https://open.spotify.com/track/24nQs9uiWVK31t1YnTAgyg) | [D\-Luc\-D](https://open.spotify.com/artist/4YWKAKFiI8VBquIqpbptSS) | [TRUE END](https://open.spotify.com/album/6PWWIQ272j0YTwwpFULae2) | 3:30 |
+| 2667 | [Ultimate Hyper Lv.100](https://open.spotify.com/track/76JVfYDJWWs93uGsd01ZO9) | [DJ Genki](https://open.spotify.com/artist/787mj6iFvEpBBuQQRDdMXB) | [Ultimate Hyper Lv.100](https://open.spotify.com/album/312wCVUx0ZuGh5lKcokZ50) | 2:33 |
 
-Snapshot ID: `AAAKt0JJjPhKE2VbDqJ6j8I1uk5vVCKa`
+Snapshot ID: `AAAKuFhyFE8yIgSzb75AjETGJcM4dI7S`

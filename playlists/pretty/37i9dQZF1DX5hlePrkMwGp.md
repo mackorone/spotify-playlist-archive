@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hlePrkMwGp.md) - [plain]
 
 > Enjoy the romantic side of Ani
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,916 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,987 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hlePrkMwGp.md) - [plain]
 | 42 | [Tamilselvi](https://open.spotify.com/track/7zEqY4oGrTVOx85VlRSymi) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB), [Vignesh Shivan](https://open.spotify.com/artist/1yzwPGlvrRLlhYkCRYde5z) | [Remo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/58colQLIZDAInrHq3eT2PF) | 3:50 |
 | 43 | [Bae \(From "Don"\)](https://open.spotify.com/track/5D507IC1VOAg7bKkmOblr6) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm), [Vignesh Shivan](https://open.spotify.com/artist/1yzwPGlvrRLlhYkCRYde5z) | [Bae \(From "Don"\)](https://open.spotify.com/album/2HsFQRxJln6Q9XEf6DbhZ4) | 4:02 |
 | 44 | [Ilamai Thirumbudhe \- From "Petta"](https://open.spotify.com/track/4IUGuoJ41g5fLIqsO1MJoU) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz) | [Petta \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3NAMtgP845mM6cJjYDYy1g) | 3:37 |
-| 45 | [Enna Solla \- The New Life of Tamizh](https://open.spotify.com/track/2109dBho14Lqh2wr8goqAP) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz) | [Thangamagan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6L4ZkUiJTwo2e1E9e31ds3) | 3:35 |
+| 45 | [Enna Solla \- The New Life of Tamizh](https://open.spotify.com/track/2109dBho14Lqh2wr8goqAP) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz) | [Thangamagan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6L4ZkUiJTwo2e1E9e31ds3) | 3:36 |
 | 46 | [Kannazhaga \- The Kiss of Love](https://open.spotify.com/track/2MwCoo4GeXpi8soWn9EiPo) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [Shruti Haasan](https://open.spotify.com/artist/06vOoTzj6cIac9FMbNXz9h) | [3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3KxiTZwnVuot6XVWRqh4PZ) | 3:25 |
 | 47 | [Kanave Kanave](https://open.spotify.com/track/6sPW145Y3LSXd4p1LjBOcS) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [David](https://open.spotify.com/album/3Gef2xMe3ihEF1UILkiriu) | 4:44 |
 | 48 | [Senjitaley](https://open.spotify.com/track/2RB3zzgxWc2RRBaJOkSEka) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Vignesh Shivan](https://open.spotify.com/artist/1yzwPGlvrRLlhYkCRYde5z) | [Remo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/58colQLIZDAInrHq3eT2PF) | 4:11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 
 > for the baddies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,811 likes - 75 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,021 likes - 75 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,10 +25,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 | 15 | [BE QUIET AND DRIVE \(FAR AWAY\)](https://open.spotify.com/track/2SprbOeFdglaLgZoCcytuu) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [BE QUIET AND DRIVE \(FAR AWAY\) – Spotify Singles](https://open.spotify.com/album/6jAdEVjL2cnwhhywkdmIzr) | 3:07 |
 | 16 | [TONGUES](https://open.spotify.com/track/4P40bs3Cqi2XevliZj6FLi) | [Thornhill](https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD) | [TONGUES](https://open.spotify.com/album/6SL0RXcGjUVwx2SwnnI7gy) | 2:51 |
 | 17 | [Creature In The Black Night](https://open.spotify.com/track/4kMBP4BSFB0vNYQDVGiJq6) | [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Creature In The Black Night](https://open.spotify.com/album/2YWEecYJkLwMbNOG1o4cap) | 3:48 |
-| 18 | [Pardon Me](https://open.spotify.com/track/1Y13csEpu3TK5gQdzGLrd8) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Make Yourself](https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR) | 3:43 |
+| 18 | [Follow You](https://open.spotify.com/track/6lFUdRItQEsEuD7dSINL47) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP) | 3:51 |
 | 19 | [Tunnel Lights \- ††† \(Crosses\) remix](https://open.spotify.com/track/543tq6Hdkz2NzCXTdkN27z) | [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10), [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [Tunnel Lights \[††† \(Crosses\) remix\]](https://open.spotify.com/album/0sXqxQOG6RrjwCT4V7zNTW) | 4:23 |
 | 20 | [Make Me Bad](https://open.spotify.com/track/286ek1kspX7VFaheXFSvPk) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Issues](https://open.spotify.com/album/5U0pevIOTrPoDsN8YsBCBh) | 3:55 |
-| 21 | [Follow You](https://open.spotify.com/track/6lFUdRItQEsEuD7dSINL47) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP) | 3:51 |
+| 21 | [Pardon Me](https://open.spotify.com/track/1Y13csEpu3TK5gQdzGLrd8) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Make Yourself](https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR) | 3:43 |
 | 22 | [Letting Go](https://open.spotify.com/track/2hQJFN6wkwtScdFcUbbj1R) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [Letting Go](https://open.spotify.com/album/6PmANbpP9JqPJzcy5VjO2q) | 3:23 |
 | 23 | [Spit](https://open.spotify.com/track/6XydPDin3lvWsT1tJI4QdL) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB), [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [Corpus I](https://open.spotify.com/album/3sR99ifBBjElpRmIGkstcm) | 4:00 |
 | 24 | [Safe In Your Skin](https://open.spotify.com/track/1acjIzGS1YUrx6nSuktnqU) | [Title Fight](https://open.spotify.com/artist/2CnhqfjUG0qzsru0SMuhrk) | [Shed](https://open.spotify.com/album/1vA4pfmBUT9ei4Ukq8uTx1) | 2:34 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 | 35 | [Kleptomaniac](https://open.spotify.com/track/52hhvUNX3OaAI4MP7suPBw) | [Aemia](https://open.spotify.com/artist/7moBZujRHUZsfdHu9eAkG1) | [Kleptomaniac](https://open.spotify.com/album/2svG7sxs570d5D5xChUVbN) | 3:13 |
 | 36 | [Weak And Powerless](https://open.spotify.com/track/7gDVjl5fEw2OPAtjbW4LzR) | [A Perfect Circle](https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc) | [Thirteenth Step](https://open.spotify.com/album/49K6hYDEr5M3GxIBBxlPf9) | 3:15 |
 | 37 | [Will You Love Me When I’m Dead](https://open.spotify.com/track/4z4JQxp5ddY3Z8ETnaPPAK) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Will You Love Me When I’m Dead](https://open.spotify.com/album/2zs0gJMS21tocKOXpWvPxU) | 3:13 |
-| 38 | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/track/6tRneEcItwpSxBtqgem5Dr) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/album/3p7m1Pmg6n3BlpL9Py7IUA) | 4:01 |
-| 39 | [Blvd\. Nights](https://open.spotify.com/track/7xDAU9IAMyWjl7ia3hRxs7) | [Team Sleep](https://open.spotify.com/artist/6CwDvApcRshxhEVMP30Sq7) | [Team Sleep \(U.S\. Release\)](https://open.spotify.com/album/7BORauiIbjPkOVRzSq38DP) | 3:08 |
+| 38 | [Blvd\. Nights](https://open.spotify.com/track/7xDAU9IAMyWjl7ia3hRxs7) | [Team Sleep](https://open.spotify.com/artist/6CwDvApcRshxhEVMP30Sq7) | [Team Sleep \(U.S\. Release\)](https://open.spotify.com/album/7BORauiIbjPkOVRzSq38DP) | 3:08 |
+| 39 | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/track/6tRneEcItwpSxBtqgem5Dr) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/album/3p7m1Pmg6n3BlpL9Py7IUA) | 4:01 |
 | 40 | [SHALLOW](https://open.spotify.com/track/55h5xNwW8na2bHKlZUfHh7) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Shallow](https://open.spotify.com/album/6Cor4gZH5ANpH8OSuyH3a3) | 3:29 |
 | 41 | [milk of the madonna](https://open.spotify.com/track/2gcxuSpWOOGR0z0JGsPB7B) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [milk of the madonna](https://open.spotify.com/album/3IZLumOOvTChaGYODcMuen) | 4:08 |
 | 42 | [Closet](https://open.spotify.com/track/4hAPiyiwGAlIKP53qfmDuN) | [Fleshwater](https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF) | [We're Not Here to Be Loved](https://open.spotify.com/album/0hm7PiBu72tRliLqLfiKy1) | 2:02 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 | 62 | [Antimatter](https://open.spotify.com/track/4b3FN7tBCRrkLcbN5ae4v9) | [Silent Planet](https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU) | [Antimatter](https://open.spotify.com/album/21WE0VYFRtAKg4hEA1ppmZ) | 3:41 |
 | 63 | [velvet](https://open.spotify.com/track/729zO7DaoSJMOLSvOh7UNN) | [sace6](https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS), [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [velvet](https://open.spotify.com/album/2WGZh7y9KdsdA1q42eKzez) | 2:50 |
 | 64 | [Nervous Habits](https://open.spotify.com/track/3iIOUEPbQDG2XQNeckP62n) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Far Removed](https://open.spotify.com/album/13RbzhZDgc98h8VWThEp9a) | 3:51 |
-| 65 | [Sacrifice](https://open.spotify.com/track/2fQpHHqpS5oK3K1QB5psVv) | [Nevertel](https://open.spotify.com/artist/0uTkKGuqdf7CtKlZLt9N0Y) | [Sacrifice](https://open.spotify.com/album/4uEBMcKDtKUMpOZTgZOkJN) | 2:47 |
-| 66 | [PLEASER](https://open.spotify.com/track/57aoIncSQMCTT58Nczu5se) | [Vana](https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T) | [PLEASER](https://open.spotify.com/album/3DLbNeGEg77U7wyAgIv4pc) | 2:45 |
+| 65 | [PLEASER](https://open.spotify.com/track/57aoIncSQMCTT58Nczu5se) | [Vana](https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T) | [PLEASER](https://open.spotify.com/album/3DLbNeGEg77U7wyAgIv4pc) | 2:45 |
+| 66 | [Sacrifice](https://open.spotify.com/track/2fQpHHqpS5oK3K1QB5psVv) | [Nevertel](https://open.spotify.com/artist/0uTkKGuqdf7CtKlZLt9N0Y) | [Sacrifice](https://open.spotify.com/album/4uEBMcKDtKUMpOZTgZOkJN) | 2:47 |
 | 67 | [Chokehold](https://open.spotify.com/track/6lssX4zmdtDiTw3eJhTjyg) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Chokehold](https://open.spotify.com/album/7kU4ySCd35MaGnS93a6AMl) | 5:04 |
 | 68 | [Drain](https://open.spotify.com/track/3k8ptnrHJn8LzQnvh413c5) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Drain](https://open.spotify.com/album/4td2lzPI1u95ohvolQfTkZ) | 3:22 |
 | 69 | [Lonely Day \- Spotify Singles](https://open.spotify.com/track/2bmGjqYsvXVTt1CRfUicIH) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Lonely Day \- Spotify Singles](https://open.spotify.com/album/2GUhX1GveJBRtgpyUQhTSY) | 2:36 |

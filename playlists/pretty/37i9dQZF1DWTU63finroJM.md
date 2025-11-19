@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 ### [RADAR Global ](https://open.spotify.com/playlist/37i9dQZF1DWTU63finroJM)
 
-> Meet the future of music around the world\. Cover: BOYNEXTDOOR
+> Meet the future of music around the world\. Cover: LUKAS OSCAR
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,718 likes - 24 songs - 1 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,717 likes - 24 songs - 1 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 8 | [懂事得可以](https://open.spotify.com/track/2hktUEtNzzjFjHOUsHAkr7) | [Haezee](https://open.spotify.com/artist/0LestIkVCbetqsJ3o72Yzn) | [UNLOCKED](https://open.spotify.com/album/0hW8LEPCKe0y4HhL2f3NDn) | 3:49 |
 | 9 | [浪漫致死](https://open.spotify.com/track/374W8rmTZqcf7UTqpgVGcY) | [Tr33](https://open.spotify.com/artist/5CkI8NcGv6BgLBOaKtgZws) | [浪漫致死](https://open.spotify.com/album/5IfCa02BJLNx9Nzg91UNBr) | 2:51 |
 | 10 | [FACES](https://open.spotify.com/track/5fmNsEdbraFS9leqbsBvbQ) | [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt) | [FACES](https://open.spotify.com/album/738E0JdQ5M2HNEVljWZmLE) | 4:05 |
-| 11 | [Lepas Pegangan](https://open.spotify.com/track/6HlPJ9EhmA6CgBD4Ke5AeG) | [NAKI](https://open.spotify.com/artist/70aQ7JTOrmv7jj6rhlzTrb), [Mitty Zasia](https://open.spotify.com/artist/7w5TB54pRaR6R4Fdx7OqRz) | [Lepas Pegangan](https://open.spotify.com/album/5WOKeopcxaXQPkEjUJrX6q) | 3:15 |
-| 12 | [Będę twoją Sylvią Plath](https://open.spotify.com/track/0Bfe03aAJYC2avYUkyljxs) | [Pola Maj](https://open.spotify.com/artist/0B4TTzKvNuF5Jcmbe5uQ1T) | [Będę twoją Sylvią Plath](https://open.spotify.com/album/3mPq4OEZQGcqtDe6lYHX3y) | 3:10 |
+| 11 | [Będę twoją Sylvią Plath](https://open.spotify.com/track/0Bfe03aAJYC2avYUkyljxs) | [Pola Maj](https://open.spotify.com/artist/0B4TTzKvNuF5Jcmbe5uQ1T) | [Będę twoją Sylvią Plath](https://open.spotify.com/album/3mPq4OEZQGcqtDe6lYHX3y) | 3:10 |
+| 12 | [Lepas Pegangan](https://open.spotify.com/track/6HlPJ9EhmA6CgBD4Ke5AeG) | [NAKI](https://open.spotify.com/artist/70aQ7JTOrmv7jj6rhlzTrb), [Mitty Zasia](https://open.spotify.com/artist/7w5TB54pRaR6R4Fdx7OqRz) | [Lepas Pegangan](https://open.spotify.com/album/5WOKeopcxaXQPkEjUJrX6q) | 3:15 |
 | 13 | [Cari](https://open.spotify.com/track/2Mw6tQcNyvdcieWTBGzwpt) | [Fahimi](https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd) | [Cari](https://open.spotify.com/album/6WjIcxK3PneU3eze5r2hPP) | 2:55 |
 | 14 | [驕傲 \- 電影《自殺通告》主題曲](https://open.spotify.com/track/2xIW9AXKw4fOXg7SuTjg4e) | [JUD 陳泳希](https://open.spotify.com/artist/12oXAua3nGur2Ma3WHyCro) | [驕傲](https://open.spotify.com/album/2lOCQ6QpMey0gJk1sLlAdy) | 4:05 |
 | 15 | [FREEFALL](https://open.spotify.com/track/3HbCHPILR31b1riAxfEjmj) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [Echoes from the Hills](https://open.spotify.com/album/3XZ2Y55Gt0c99bh0jKAAtB) | 2:52 |

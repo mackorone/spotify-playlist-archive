@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 
 > Zonke's "Work of Heart" turns 10.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,732 likes - 60 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,762 likes - 60 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 | 10 | [Grateful \- Interlude](https://open.spotify.com/track/0x1zokrw2rQm2XcmQ5dZN5) | [Zonke](https://open.spotify.com/artist/1eBaQkCXWlq1vhCLMVFdqn) | [Work of Heart](https://open.spotify.com/album/0EH4i0I9Mjw7skmHXqfCUk) | 0:59 |
 | 11 | [Sondela](https://open.spotify.com/track/43VwFP9q5lOrfLPfBvPtsg) | [Ringo Madlingozi](https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ) | [Sondelani](https://open.spotify.com/album/4R42gWyYsd9ybilmlcia1j) | 5:30 |
 | 12 | [Nkalakatha](https://open.spotify.com/track/2PGxiV2TSgVHd02eBd0Kz1) | [Mandoza](https://open.spotify.com/artist/4eNzQCNP9F9UKbglvPkDdH) | [Nkalakatha](https://open.spotify.com/album/1hqQFeOpmzLiqQzVkEYSIg) | 4:45 |
-| 13 | [Siya Jola \(Ok'Salayo\)](https://open.spotify.com/track/3Oy1hjxJLfUyaUsgxojzA7) | [M'Du](https://open.spotify.com/artist/2941g2EP7e8x7Kv3EukgmD) | [M'du Or Die](https://open.spotify.com/album/7N0NOdgLGipl1NkihPBUPQ) | 5:36 |
-| 14 | [Boss Zonke](https://open.spotify.com/track/40k035nx9YwLSpfDhEyKwM) | [Riky Rick](https://open.spotify.com/artist/61ZRdppZ5sCtl9m5gfhoGO) | [Family Values](https://open.spotify.com/album/4Vka3hwfaOqISTHYyOdkKC) | 4:00 |
+| 13 | [Boss Zonke](https://open.spotify.com/track/40k035nx9YwLSpfDhEyKwM) | [Riky Rick](https://open.spotify.com/artist/61ZRdppZ5sCtl9m5gfhoGO) | [Family Values](https://open.spotify.com/album/4Vka3hwfaOqISTHYyOdkKC) | 4:00 |
+| 14 | [Siya Jola \(Ok'Salayo\)](https://open.spotify.com/track/3Oy1hjxJLfUyaUsgxojzA7) | [M'Du](https://open.spotify.com/artist/2941g2EP7e8x7Kv3EukgmD) | [M'du Or Die](https://open.spotify.com/album/7N0NOdgLGipl1NkihPBUPQ) | 5:36 |
 | 15 | [Meet me in my Dreams](https://open.spotify.com/track/4ds2MUP8vtMSaztsyxfjbU) | [Zonke](https://open.spotify.com/artist/1eBaQkCXWlq1vhCLMVFdqn) | [Work of Heart](https://open.spotify.com/album/0EH4i0I9Mjw7skmHXqfCUk) | 3:34 |
 | 16 | [Kum Nakum](https://open.spotify.com/track/6GU2QHzXUeZM2UgpGRafT8) | [Ringo Madlingozi](https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ) | [Ntumba](https://open.spotify.com/album/1FGSoB2oF3I3RlyCtsuIpR) | 5:56 |
 | 17 | [Jika](https://open.spotify.com/track/5CaUga1xSORieHUwZ5urnG) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX) | [Touch My Blood](https://open.spotify.com/album/1cCpD6ImDJDP1nrsZVhV7O) | 5:04 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 | 40 | [Feel Good](https://open.spotify.com/track/6o3P5XYvDDWWTbzoJMURZo) | [Lira](https://open.spotify.com/artist/1ChWj9EwLoK9J0hnHMgKHj) | [Feel Good](https://open.spotify.com/album/2AmhJ7jidf7ZijWlRRZ7gB) | 5:20 |
 | 41 | [Ndawo Yami](https://open.spotify.com/track/0syt5xfbxS2n888ZPib8ES) | [Zamajobe](https://open.spotify.com/artist/4wJoiQmG43ZNUSvlj6uDYv) | [Ndawo Yami](https://open.spotify.com/album/212O2AvgE4xzUuULXvmlGU) | 4:47 |
 | 42 | [Sana Luma \(Thats The Way Love Is\)](https://open.spotify.com/track/1jgwlt5ERSd0uAERPxLYKp) | [Zola](https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW) | [Khokhovula](https://open.spotify.com/album/4r17XN1HWE0xuRfptWVeiK) | 5:17 |
-| 43 | [Palafala \(feat\. S'bu\)](https://open.spotify.com/track/3tAVyo7TeXRoSEDkl2qT1k) | [TKZEE](https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi), [S'bu](https://open.spotify.com/artist/2ewhd7uWaZplwMtqKpevwd) | [Guz Hits](https://open.spotify.com/album/305izURXDMmcRRwR8INvWY) | 5:15 |
-| 44 | [Nizalwa Ngobani?](https://open.spotify.com/track/0SGnd95BYWd1m583zt7mqC) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Zabalaza](https://open.spotify.com/album/2nzNQQpCe88qXWHNUwx7k2) | 6:44 |
+| 43 | [Nizalwa Ngobani?](https://open.spotify.com/track/0SGnd95BYWd1m583zt7mqC) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Zabalaza](https://open.spotify.com/album/2nzNQQpCe88qXWHNUwx7k2) | 6:44 |
+| 44 | [Palafala \(feat\. S'bu\)](https://open.spotify.com/track/3tAVyo7TeXRoSEDkl2qT1k) | [TKZEE](https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi), [S'bu](https://open.spotify.com/artist/2ewhd7uWaZplwMtqKpevwd) | [Guz Hits](https://open.spotify.com/album/305izURXDMmcRRwR8INvWY) | 5:15 |
 | 45 | [Sbali](https://open.spotify.com/track/5F8GhL8UTDDydH7HNq5geV) | [Joe Nina](https://open.spotify.com/artist/0uKndkSvFjmZxg61p1YLEs) | [Mababaza](https://open.spotify.com/album/4CGpMIEdICSqLHyrVAxFxt) | 4:07 |
 | 46 | [Y U 4 Me](https://open.spotify.com/track/6019mUh1nhmsqDtfbKuZnu) | [M'Du](https://open.spotify.com/artist/2941g2EP7e8x7Kv3EukgmD) | [Y U 4 Me](https://open.spotify.com/album/4RELzas44ynDy4FZb8XRj7) | 7:31 |
 | 47 | [Cooler as Ekke](https://open.spotify.com/track/4fBxUtH4erpLDc2BEvUkgf) | [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA) | [Jack Parow](https://open.spotify.com/album/4NOqbyrs8P30p5fXgcCqX4) | 4:08 |
-| 48 | [Fester](https://open.spotify.com/track/4QNTWh444lOn7C4kPGUoYR) | [Jacknife](https://open.spotify.com/artist/2MU7y4Bj9rg69oHvc70YGs) | [Vintage Sounds of Johannesburg](https://open.spotify.com/album/45j6bfm5dD2m2V9mjaVYL3) | 4:52 |
-| 49 | [Sondela \(feat\. Zano\)](https://open.spotify.com/track/00gec53aXVCqYMWbKFJHGg) | [Riky Rick](https://open.spotify.com/artist/61ZRdppZ5sCtl9m5gfhoGO), [ZANO](https://open.spotify.com/artist/0adNleAt3fifQiP12TGZBJ) | [Family Values](https://open.spotify.com/album/4Vka3hwfaOqISTHYyOdkKC) | 4:34 |
+| 48 | [Sondela \(feat\. Zano\)](https://open.spotify.com/track/00gec53aXVCqYMWbKFJHGg) | [Riky Rick](https://open.spotify.com/artist/61ZRdppZ5sCtl9m5gfhoGO), [ZANO](https://open.spotify.com/artist/0adNleAt3fifQiP12TGZBJ) | [Family Values](https://open.spotify.com/album/4Vka3hwfaOqISTHYyOdkKC) | 4:34 |
+| 49 | [Fester](https://open.spotify.com/track/4QNTWh444lOn7C4kPGUoYR) | [Jacknife](https://open.spotify.com/artist/2MU7y4Bj9rg69oHvc70YGs) | [Vintage Sounds of Johannesburg](https://open.spotify.com/album/45j6bfm5dD2m2V9mjaVYL3) | 4:52 |
 | 50 | [I’m Burning Up](https://open.spotify.com/track/5MtRQ4ICD8SqeJqDwSi3yB) | [Yvonne Chaka Chaka](https://open.spotify.com/artist/27JX5L90Wv4SBk4FJZVQcH) | [I'm Burning Up](https://open.spotify.com/album/4N5GxOogtjkRXKAsfcoME3) | 5:10 |
 | 51 | [Magic](https://open.spotify.com/track/12dgNfCf41xfNFefmI0Vu2) | [Zamajobe](https://open.spotify.com/artist/4wJoiQmG43ZNUSvlj6uDYv) | [Ndawo Yami](https://open.spotify.com/album/212O2AvgE4xzUuULXvmlGU) | 4:35 |
 | 52 | [Magesh](https://open.spotify.com/track/0lfi2bjtJdYWiaxjjCryuY) | [TKZEE](https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi) | [Guz Hits](https://open.spotify.com/album/305izURXDMmcRRwR8INvWY) | 4:29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4je779Ww5L2.md) - [plain]
 
 > de sfeer van 6 uur in de ochtend in de buitenlucht
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,782 likes - 80 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,771 likes - 80 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4je779Ww5L2.md) - [plain]
 | 11 | [Homerun 2021](https://open.spotify.com/track/4JZSfAfaOHxDOqVo76l2KL) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [Homerun 2021](https://open.spotify.com/album/3eso9JkXxZyMBrjzUbsBxR) | 3:21 |
 | 12 | [4am](https://open.spotify.com/track/1OvoqDv9bEHUs4oVaX70wv) | [GOODWIN](https://open.spotify.com/artist/0jHZBFB1WUFnfEv1FgNo7l) | [4am](https://open.spotify.com/album/5EIG5KoHg9xuwuJw46BLox) | 3:30 |
 | 13 | [Into My Arms](https://open.spotify.com/track/4sA3EIk4BlutdVGJ7hY4Uk) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Covers](https://open.spotify.com/album/6080Ueecr7AVcjohNEO8su) | 4:35 |
-| 14 | [Trigger](https://open.spotify.com/track/72q4Hksp0Q6nhRGbDqDt3E) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Trigger](https://open.spotify.com/album/5PdcLSkMkoAU7GRGwyRflK) | 3:23 |
-| 15 | [a woman to you](https://open.spotify.com/track/1EQ2AsGuHvXWSTerAljI8I) | [Naaz](https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8) | [a woman to you](https://open.spotify.com/album/7yrahMJM7x5Z4Csq4I5zki) | 3:16 |
-| 16 | [Rush Hour Traffic](https://open.spotify.com/track/6s1lxdvY8PRX3omWmOVaXx) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Rush Hour Traffic](https://open.spotify.com/album/5ADcIb3FaxCChD4dhjbg1y) | 4:24 |
+| 14 | [Rush Hour Traffic](https://open.spotify.com/track/6s1lxdvY8PRX3omWmOVaXx) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Rush Hour Traffic](https://open.spotify.com/album/5ADcIb3FaxCChD4dhjbg1y) | 4:24 |
+| 15 | [Trigger](https://open.spotify.com/track/72q4Hksp0Q6nhRGbDqDt3E) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Trigger](https://open.spotify.com/album/5PdcLSkMkoAU7GRGwyRflK) | 3:23 |
+| 16 | [a woman to you](https://open.spotify.com/track/1EQ2AsGuHvXWSTerAljI8I) | [Naaz](https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8) | [a woman to you](https://open.spotify.com/album/7yrahMJM7x5Z4Csq4I5zki) | 3:16 |
 | 17 | [Leap Year](https://open.spotify.com/track/5G6sgBzBCmZKeCg0R2x67t) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Leap Year](https://open.spotify.com/album/2qiB8YSEJw27QY68Pyx1uO) | 5:45 |
 | 18 | [Baby Blue \- Acoustic](https://open.spotify.com/track/40iPujUUM58f2qsC7KKjg5) | [Penny Roox](https://open.spotify.com/artist/5DXArm1WRDZcLjxEAsEDdg) | [Baby Blue \(Acoustic\)](https://open.spotify.com/album/6vJn1u5GBTMDUM4OLyQ13c) | 3:05 |
 | 19 | [Strange Rooms](https://open.spotify.com/track/2I5r34P8jfleAwAGOLaHbY) | [Bianca Steck](https://open.spotify.com/artist/1Ej7cHu5IXgMuHaz6mLesJ) | [The Joy of Coincidences](https://open.spotify.com/album/4c2E4n34cBqGr2kVzSmDD6) | 3:20 |
@@ -69,19 +69,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4je779Ww5L2.md) - [plain]
 | 59 | [Dragon's Eyes](https://open.spotify.com/track/1ymd7EMb8l88I9JJGo3CfH) | [Bianca Steck](https://open.spotify.com/artist/1Ej7cHu5IXgMuHaz6mLesJ), [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Dragon's Eyes](https://open.spotify.com/album/3E0PArr2h7f5858XtadMCs) | 3:48 |
 | 60 | [Exit Wounds](https://open.spotify.com/track/4ExjFndsVBO5i2mAB5Eutf) | [Sevens](https://open.spotify.com/artist/16TJwfQFZXTDDkPwG1FOzd) | [Sincerely, Sevens](https://open.spotify.com/album/5v8vQHWZctWcuM6VpuLAFn) | 4:10 |
 | 61 | [An Hour Per Day](https://open.spotify.com/track/7rBwAUy2w1CPrrIan7r2Rd) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE) | [An Hour Per Day](https://open.spotify.com/album/32QlWfeGQTrlE5JFR3Teav) | 3:37 |
-| 62 | [no difference \(ft\. LUWTEN\)](https://open.spotify.com/track/3Pve3DY4yQ2CxXdaESmSZ2) | [la loye](https://open.spotify.com/artist/1cvKyOKTQeG0sEHhkyz99S), [LUWTEN](https://open.spotify.com/artist/4cm8GrJ4fx7P2h9shNhUia) | [no difference \(ft\. LUWTEN\)](https://open.spotify.com/album/7jJs8iE9q1ENo3fCmYdjq1) | 4:06 |
-| 63 | [Anymore](https://open.spotify.com/track/2pM5npvsX6AHv5ah50HHBU) | [Maida Rose](https://open.spotify.com/artist/1XNEYqJZDKq9lEqe61sF1k) | [Anymore](https://open.spotify.com/album/7pYeXUlXPmFE26I5bKPkwB) | 4:08 |
+| 62 | [Anymore](https://open.spotify.com/track/2pM5npvsX6AHv5ah50HHBU) | [Maida Rose](https://open.spotify.com/artist/1XNEYqJZDKq9lEqe61sF1k) | [Anymore](https://open.spotify.com/album/7pYeXUlXPmFE26I5bKPkwB) | 4:08 |
+| 63 | [no difference \(ft\. LUWTEN\)](https://open.spotify.com/track/3Pve3DY4yQ2CxXdaESmSZ2) | [la loye](https://open.spotify.com/artist/1cvKyOKTQeG0sEHhkyz99S), [LUWTEN](https://open.spotify.com/artist/4cm8GrJ4fx7P2h9shNhUia) | [no difference \(ft\. LUWTEN\)](https://open.spotify.com/album/7jJs8iE9q1ENo3fCmYdjq1) | 4:06 |
 | 64 | [Moonlit Parade](https://open.spotify.com/track/1NL10e7NLz2eODtCieADly) | [Jono McCleery](https://open.spotify.com/artist/23usQJ95w7f95tnN4MJEgy) | [Moonlit Parade](https://open.spotify.com/album/7AHqrOj1zf75jkMjkjqWat) | 3:05 |
 | 65 | [Sunflower](https://open.spotify.com/track/6ZskcMSGVuInKodFTaLPS6) | [Loki Project](https://open.spotify.com/artist/7ig2Btg4Z1sESTkwmJzrAs) | [Sunflower](https://open.spotify.com/album/2xmhqUrdZY7gbZNbGt0FoU) | 4:26 |
-| 66 | [More than a warning](https://open.spotify.com/track/2WyoxWAgDvsGzqKOWIhxPv) | [Amongster](https://open.spotify.com/artist/6YIKMlerK7c5j109TgfjnK) | [More than a warning](https://open.spotify.com/album/6mDTQhx9rC4e7fnRv9qgOW) | 5:01 |
-| 67 | [Lucy](https://open.spotify.com/track/72RALfAJBuXc939MfC0Gl7) | [Lisette](https://open.spotify.com/artist/5mfbtUhhXdjlP7mysPltPO) | [Lucy](https://open.spotify.com/album/7pYx7rQtcVhaLEKlf0QQ4Y) | 3:45 |
+| 66 | [Lucy](https://open.spotify.com/track/72RALfAJBuXc939MfC0Gl7) | [Lisette](https://open.spotify.com/artist/5mfbtUhhXdjlP7mysPltPO) | [Lucy](https://open.spotify.com/album/7pYx7rQtcVhaLEKlf0QQ4Y) | 3:45 |
+| 67 | [More than a warning](https://open.spotify.com/track/2WyoxWAgDvsGzqKOWIhxPv) | [Amongster](https://open.spotify.com/artist/6YIKMlerK7c5j109TgfjnK) | [More than a warning](https://open.spotify.com/album/6mDTQhx9rC4e7fnRv9qgOW) | 5:01 |
 | 68 | [EMBERS](https://open.spotify.com/track/5F1sWEiHVBYUbVQ178MZ5d) | [Cero Ismael](https://open.spotify.com/artist/2Nj4ggzoUqfVAiE9sVRmSo) | [AT LEAST SOMETHING IS PROTECTING YOU](https://open.spotify.com/album/4gSBN4HJksGUFxXVsdcAX0) | 3:37 |
 | 69 | [Swimming](https://open.spotify.com/track/0LuRbtuakg2uS1z5qoDzba) | [Jacob Drescher](https://open.spotify.com/artist/0azBrYau1kmzbjLIkVG4mv) | [Swimming](https://open.spotify.com/album/2AmsdFE6K0JljNeAB2EqrD) | 3:29 |
 | 70 | [The Distance](https://open.spotify.com/track/0DQgWaerMRpgyB0VEZsFO2) | [Prize Collect](https://open.spotify.com/artist/1QL9FUDTuHnhRI2qp1rogr) | [The Distance](https://open.spotify.com/album/2Wc0fRSE7K6ZI4xX3DGqud) | 3:04 |
-| 71 | [my moon](https://open.spotify.com/track/1hafzeP5FlBnUljHl6OIKh) | [la loye](https://open.spotify.com/artist/1cvKyOKTQeG0sEHhkyz99S) | [my moon](https://open.spotify.com/album/6cevS6KNQ3lsNIEtMskfQ2) | 2:07 |
-| 72 | [More Than Enough](https://open.spotify.com/track/1wTtnNyUUrJL4erWEUfC77) | [Lisette](https://open.spotify.com/artist/5mfbtUhhXdjlP7mysPltPO) | [More Than Enough](https://open.spotify.com/album/2N0laeE3SqH46ADFdgcs34) | 3:16 |
+| 71 | [More Than Enough](https://open.spotify.com/track/1wTtnNyUUrJL4erWEUfC77) | [Lisette](https://open.spotify.com/artist/5mfbtUhhXdjlP7mysPltPO) | [More Than Enough](https://open.spotify.com/album/2N0laeE3SqH46ADFdgcs34) | 3:16 |
+| 72 | [In My Head Today](https://open.spotify.com/track/6LvwKP5nY8ESrLTn6TvnkL) | [Send Me Flowers](https://open.spotify.com/artist/12XFstDiWIWvVnYOvPU8Z5) | [In My Head Today](https://open.spotify.com/album/5ApOG5o1JKyDreecmUYIdL) | 2:28 |
 | 73 | [Where's The Fun In That?](https://open.spotify.com/track/0sZtc0hnEZL9OJ1PfyaCWS) | [Ola](https://open.spotify.com/artist/31IxxyimG9CPpDkpFiYatC) | [Where's The Fun In That?](https://open.spotify.com/album/4b4p6k9ibGvXrIaVk7BDgg) | 2:28 |
-| 74 | [In My Head Today](https://open.spotify.com/track/6LvwKP5nY8ESrLTn6TvnkL) | [Send Me Flowers](https://open.spotify.com/artist/12XFstDiWIWvVnYOvPU8Z5) | [In My Head Today](https://open.spotify.com/album/5ApOG5o1JKyDreecmUYIdL) | 2:28 |
+| 74 | [my moon](https://open.spotify.com/track/1hafzeP5FlBnUljHl6OIKh) | [la loye](https://open.spotify.com/artist/1cvKyOKTQeG0sEHhkyz99S) | [my moon](https://open.spotify.com/album/6cevS6KNQ3lsNIEtMskfQ2) | 2:07 |
 | 75 | [Don't Worry About The Rain](https://open.spotify.com/track/08Vk3LcVrkbEphzkLvvBSq) | [Maida Rose](https://open.spotify.com/artist/1XNEYqJZDKq9lEqe61sF1k) | [Don't Worry About The Rain](https://open.spotify.com/album/2SC76QjYJ4oIoAiypWlj93) | 3:47 |
 | 76 | [Realize \(Essence\)](https://open.spotify.com/track/789rnoPBFblPQBMTNGrGc2) | [Melle Jutte](https://open.spotify.com/artist/29NcmXvID0g9FtDLTvTrxZ) | [A Passage Between](https://open.spotify.com/album/6ghjaRprdmAhepnKaEpVIL) | 4:12 |
 | 77 | [When Everything Was Right](https://open.spotify.com/track/5NYG2qj2ohCYhHykzBhPRK) | [A\. Johanson](https://open.spotify.com/artist/1p11NnGiTGtzm49zznyK69) | [The Seasons: Winter](https://open.spotify.com/album/1Ky0DgdzRVJmFdYA4cuuVf) | 3:18 |

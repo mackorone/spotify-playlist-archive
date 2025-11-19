@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 
 > Sunday morning whenever you like
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,336,764 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,336,672 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 | 10 | [Cherish](https://open.spotify.com/track/2eh3xk8BufBNoW9gnnMgAM) | [TAAHLIAH](https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU) | [Gramarye](https://open.spotify.com/album/4pb1CggtOYd2EAko22VJ6C) | 2:31 |
 | 11 | [Stay For Something](https://open.spotify.com/track/05TyHrGHIEg8EyW31zJj0c) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Crazymad, For Me](https://open.spotify.com/album/27E56zhC7dIPjOapQ1tc3O) | 3:36 |
 | 12 | [Carried Away](https://open.spotify.com/track/50ASFow3YrVJJpqdzaM1YD) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Equus Caballus](https://open.spotify.com/album/7dJPDPUi94jA91VxG4vZb3) | 3:27 |
-| 13 | [Give Me All Your Love](https://open.spotify.com/track/7fL1R1jVY8RfPIlilK9mSd) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Give Me All Your Love](https://open.spotify.com/album/57luneU6B0i2vcHsSAN1X6) | 3:20 |
-| 14 | [He's My Man](https://open.spotify.com/track/62rwEl9PfnDqrjqNjApOwV) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [He's My Man](https://open.spotify.com/album/04HqGBwmXnxvxHHTEms7cR) | 3:52 |
+| 13 | [He's My Man](https://open.spotify.com/track/62rwEl9PfnDqrjqNjApOwV) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [He's My Man](https://open.spotify.com/album/04HqGBwmXnxvxHHTEms7cR) | 3:52 |
+| 14 | [Give Me All Your Love](https://open.spotify.com/track/7fL1R1jVY8RfPIlilK9mSd) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Give Me All Your Love](https://open.spotify.com/album/57luneU6B0i2vcHsSAN1X6) | 3:20 |
 | 15 | [Easy Does It](https://open.spotify.com/track/70v1ILapgu1QnTlOyKGrJr) | [GoldFord](https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS) | [Easy Does It](https://open.spotify.com/album/2EZsexfZ6Rys7I7ZB3sxIz) | 4:07 |
 | 16 | [Millennium](https://open.spotify.com/track/51Uj8b5Oi1YY7ayhM4lDoN) | [Celeste Madden](https://open.spotify.com/artist/3o0nlRLCgJxu7fUwDsvGiB) | [Millennium](https://open.spotify.com/album/2Nsxxy2YWTJNGFnhd3hmT9) | 4:06 |
 | 17 | [EURO\-COUNTRY](https://open.spotify.com/track/22vRKcdPjVW7Q6ydLNcYBV) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [EURO\-COUNTRY](https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag) | 4:56 |
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 | 23 | [Don't Put It All On Me \(feat\. Fleet Foxes\)](https://open.spotify.com/track/4xZK9tK3N0aOIO18k1Ldul) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Don't Put It All On Me \(feat\. Fleet Foxes\)](https://open.spotify.com/album/2oj7wFuIFkVPcUENYjkS9U) | 4:07 |
 | 24 | [Sleeping On It](https://open.spotify.com/track/0Phrnlx3qNUN1CIUxm6Ct4) | [Essence Martins](https://open.spotify.com/artist/4DahLnNm7J5zRiQmiQeWec) | [Sleeping On It](https://open.spotify.com/album/33RAucopvQ0YK24w3KMiWU) | 3:42 |
 | 25 | [back 2 ya](https://open.spotify.com/track/53Th2VpumeGLqw5aZw1cIp) | [Martin Luke Brown](https://open.spotify.com/artist/7L2rePM60cIztWZ7cLlskE) | [man oh man !](https://open.spotify.com/album/3ceQB5KZjY2EI7F2b9h1pQ) | 2:53 |
-| 26 | [Anyone In Love](https://open.spotify.com/track/5fjaHwIsvJKxkhODCYY0EB) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Anyone In Love](https://open.spotify.com/album/2XWTgpZp4up1zFIIUApP3G) | 3:06 |
-| 27 | [Frances](https://open.spotify.com/track/1aWgq6UfTHralw5xL1Drs0) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore \(The Longest Goodbye\)](https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f) | 3:52 |
+| 26 | [Frances](https://open.spotify.com/track/1aWgq6UfTHralw5xL1Drs0) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore \(The Longest Goodbye\)](https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f) | 3:52 |
+| 27 | [Anyone In Love](https://open.spotify.com/track/5fjaHwIsvJKxkhODCYY0EB) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Anyone In Love](https://open.spotify.com/album/2XWTgpZp4up1zFIIUApP3G) | 3:06 |
 | 28 | [Show Pony](https://open.spotify.com/track/4O05ZiEmlfUFPhvafHqcIO) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [I Love You So F\*\*\*ing Much](https://open.spotify.com/album/5i6LJyHq9wxLSecf0N2Iuw) | 4:15 |
 | 29 | [Feeling](https://open.spotify.com/track/5J6TfufAsesi9BPnvlgBl8) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Feeling](https://open.spotify.com/album/15BiKQLRmY8xQIk4arEEsq) | 3:20 |
 | 30 | [Don't Cry, Put Your Head On My Shoulder](https://open.spotify.com/track/7pIkx5eSiIqA4WPRK526Wf) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Don't Cry, Put Your Head On My Shoulder](https://open.spotify.com/album/74xb3RB0NFdpxogUMihIlb) | 3:51 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 | 69 | [Fade Into A Dream](https://open.spotify.com/track/35iZzmaczlIzgSoThF3WdI) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Circles](https://open.spotify.com/album/1GuTKVeOdoJSNaMZadsL5c) | 2:51 |
 | 70 | [backwards loving](https://open.spotify.com/track/0YXpXUlsDBIbHZMIrSyHym) | [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [backwards loving](https://open.spotify.com/album/0zUmHIH9PEE2SICrIppPe4) | 3:52 |
 | 71 | [Lungs](https://open.spotify.com/track/0UiS217Jk2oDxfDnOIrOwb) | [Ruti](https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE) | [Lungs](https://open.spotify.com/album/2kI0bFy7s7H5bvLpPZTxzJ) | 3:57 |
-| 72 | [One Door Closes \(feat\. Breland\)](https://open.spotify.com/track/6ExcHgzbMNJEBqnBtaMko6) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [One Door Closes \(feat\. Breland\)](https://open.spotify.com/album/5AOYmjNyAFYXsceGhAB6Dr) | 3:07 |
-| 73 | [Reach Out And Kiss Me](https://open.spotify.com/track/59Qv0E4uhUEdJIElLFiN8N) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Reach Out And Kiss Me](https://open.spotify.com/album/1QWOmlkjOJFF7f39IAsRUX) | 3:30 |
+| 72 | [Reach Out And Kiss Me](https://open.spotify.com/track/59Qv0E4uhUEdJIElLFiN8N) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Reach Out And Kiss Me](https://open.spotify.com/album/1QWOmlkjOJFF7f39IAsRUX) | 3:30 |
+| 73 | [One Door Closes \(feat\. Breland\)](https://open.spotify.com/track/6ExcHgzbMNJEBqnBtaMko6) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [One Door Closes \(feat\. Breland\)](https://open.spotify.com/album/5AOYmjNyAFYXsceGhAB6Dr) | 3:07 |
 | 74 | [Guy Fawkes Tesco Dissociation](https://open.spotify.com/track/6bPvOeqJRytjU4KFl6Wzdy) | [jasmine.4.t](https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm) | [You Are The Morning](https://open.spotify.com/album/4amlS1zcZeSWkphaXn3lEq) | 4:36 |
 | 75 | [Teenage Love](https://open.spotify.com/track/3fgMHs4LZNPrMV2AFqma3F) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [Teenage Love](https://open.spotify.com/album/1TQuSNnGJGfX80HQE7HBcl) | 4:21 |
 | 76 | [Be Still](https://open.spotify.com/track/5iRAP5qArzW7EjLGyLpPza) | [Sebastian Schub](https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS) | [Be Still](https://open.spotify.com/album/6CI0Mg4tlEUOFAVdZwmtDg) | 4:01 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 | 96 | [steal my soul](https://open.spotify.com/track/0GCatw5uBoK6elQCmIrriS) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [steal my soul](https://open.spotify.com/album/7lf7nq3pmpPMEutyzQ4NVH) | 2:21 |
 | 97 | [Sweet Nothings](https://open.spotify.com/track/5Lxwdlm1ZBnTwZi7CSudpx) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Sweet Nothings](https://open.spotify.com/album/1RIPgsTPa4rOwfVlyG6nMh) | 2:53 |
 | 98 | [Portland](https://open.spotify.com/track/43IbZJjKp3vo7t88TGjocB) | [Rhys Frank](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Portland](https://open.spotify.com/album/44HhRymrweWh8rKCHOpsWf) | 2:52 |
-| 99 | [Too Many Times](https://open.spotify.com/track/10lAFDVD2Hg61RHyJmOy7U) | [Tamzene](https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL) | [Call Them And Tell Them You Love Them](https://open.spotify.com/album/0sjLc36LTNXuLs4YQus8FD) | 3:11 |
-| 100 | [Don't Fall Asleep](https://open.spotify.com/track/3yWgZ1TZIKciCo1Za6GDFa) | [Jacob Alon](https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH) | [Don't Fall Asleep](https://open.spotify.com/album/6VsPNDbUlGL0Ybdg5e7EQu) | 4:29 |
+| 99 | [Don't Fall Asleep](https://open.spotify.com/track/3yWgZ1TZIKciCo1Za6GDFa) | [Jacob Alon](https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH) | [Don't Fall Asleep](https://open.spotify.com/album/6VsPNDbUlGL0Ybdg5e7EQu) | 4:29 |
+| 100 | [collarbone](https://open.spotify.com/track/4lLpORG43iVNYzgQRmYS2G) | [Orlando](https://open.spotify.com/artist/2YpPBfgJthYvaI0zwIkLFy) | [collarbone](https://open.spotify.com/album/3ILfK12zJwCkJCc1zls5qP) | 3:09 |
 
 Snapshot ID: `AAAAAJs2+SlN3W30ltOkpn8G9IBvr8r9`

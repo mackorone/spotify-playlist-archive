@@ -4,7 +4,7 @@
 
 > 아 나도 모르겠다\~ idk idk idkkk\~
 
-120 songs - 6 hr 28 min
+121 songs - 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Why Would I](https://open.spotify.com/track/3eM97YUH843ud44wHHQtjB) | [Kim Gyeol](https://open.spotify.com/artist/2gnOw5uU4XQZtSpXxKsJOf) | [Why Would I](https://open.spotify.com/album/5B36kfBGZVKH1xC5H0MqGu) | 2:56 | 2023-11-09 |  |
 | [work, shit, sleep](https://open.spotify.com/track/6NKAKulkYABhP7s63wbCDK) | [jisokuryClub](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [work, shit, sleep](https://open.spotify.com/album/3Ova8PNeLYEkYcqfSLMak0) | 3:22 | 2025-09-22 |  |
 | [Workaholic \(feat\. ASH ISLAND\)](https://open.spotify.com/track/5arR24jdVitzSURvv5hwIq) | [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [Workaholic \(feat\. ASH ISLAND\)](https://open.spotify.com/album/5Rxn1cnJLLf8qgYJzB4KLu) | 3:13 | 2024-03-29 |  |
+| [wornheart](https://open.spotify.com/track/5pDIfQyiGbWJuvEFp0QwSw) | [Hamooong](https://open.spotify.com/artist/52qgge8Yw8NoJb3dIGpyZP) | [Twenty\-Five](https://open.spotify.com/album/43QkAmdWgI0PAkcPeioUdn) | 2:29 | 2025-11-19 |  |
 | [YES MAN](https://open.spotify.com/track/55EwqptSKkVJjdaJG8LlQN) | [MongDoll](https://open.spotify.com/artist/7b4YrLbDfaE2rbhbWZvTYf) | [YES MAN](https://open.spotify.com/album/7MsumZ5RaI96ToAiBhs36v) | 3:33 | 2025-06-04 |  |
 | [YOLO!!](https://open.spotify.com/track/58ArJNuSY3iTL6SyTVtMhw) | [Hongbi](https://open.spotify.com/artist/7C016qCdmnw6SsBk0D6MlD) | [YOLO!!](https://open.spotify.com/album/5pgMsHengwvJz9vYopbFGj) | 3:29 | 2023-11-09 | 2024-04-19 |
 | [YOLO!!](https://open.spotify.com/track/7CzlruoUvMHw2ilEEXjPRL) | [Hongbi](https://open.spotify.com/artist/7C016qCdmnw6SsBk0D6MlD) | [YOLO!!](https://open.spotify.com/album/4H9NHqoHnM5eOl5JVQ47PT) | 3:29 | 2024-04-17 |  |

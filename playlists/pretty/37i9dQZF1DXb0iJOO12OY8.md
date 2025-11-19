@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0iJOO12OY8.md) - [plain]
 
 > 🤝
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,340 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,330 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0iJOO12OY8.md) - [plain]
 | 37 | [Se på meg](https://open.spotify.com/track/7IYXHtvFO3qZfe6In07sKE) | [Tigergutt101](https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K) | [Se på meg](https://open.spotify.com/album/5vmMQJYn1vtGORBfEBg0fv) | 2:23 |
 | 38 | [Alt Jeg Har](https://open.spotify.com/track/6TzBENrpEVrgoFWiQXp7mP) | [Fjellrev](https://open.spotify.com/artist/5sO8Yr7zER5JhiWVpjjgd8) | [Alt Jeg Har](https://open.spotify.com/album/7aU0dqPYJgBZ16DUYG2Wqa) | 2:12 |
 | 39 | [Zanotti](https://open.spotify.com/track/3nT3EBnBlRgn9X00yrOLHE) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Egoland](https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO) | 4:26 |
-| 40 | [Sunshine Baby](https://open.spotify.com/track/7pzsqAe78VUADwaO1rdKBQ) | [Coucheron](https://open.spotify.com/artist/6ly2Z6h9dOerORbK1l2N8D), [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61) | [Sunshine Baby](https://open.spotify.com/album/2k7CDnBJQw4sajD2h53o1E) | 2:59 |
-| 41 | [Trouble](https://open.spotify.com/track/4IVuDp5OaR7XS4ZreqeKlC) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Gettin' Away With It](https://open.spotify.com/album/09qwD3r5RKCIxjmu4lcWdJ) | 3:13 |
+| 40 | [Trouble](https://open.spotify.com/track/4IVuDp5OaR7XS4ZreqeKlC) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Gettin' Away With It](https://open.spotify.com/album/09qwD3r5RKCIxjmu4lcWdJ) | 3:13 |
+| 41 | [Sunshine Baby](https://open.spotify.com/track/7pzsqAe78VUADwaO1rdKBQ) | [Coucheron](https://open.spotify.com/artist/6ly2Z6h9dOerORbK1l2N8D), [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61) | [Sunshine Baby](https://open.spotify.com/album/2k7CDnBJQw4sajD2h53o1E) | 2:59 |
 | 42 | [Didn't I?](https://open.spotify.com/track/7599XbTuLgp7SD3tAhpw1C) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Didn't I?](https://open.spotify.com/album/0oTqVOIOmBbLQskSoVHXKC) | 2:50 |
 | 43 | [Sjonglerer](https://open.spotify.com/track/48lgNLaCCAGBilhLDTU4zw) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg), [Baloosh](https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC) | [Sjonglerer](https://open.spotify.com/album/7FulcP1O9xEbhtGsqcvkx2) | 2:54 |
 | 44 | [Livet Slik Det Var \(feat\. Madeléne\)](https://open.spotify.com/track/2UX3g1DDHIx13BmxCs6SN1) | [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV), [Madeléne](https://open.spotify.com/artist/7HbJecOAhTcyj5x9P95kQz) | [Livet Slik Det Var \(feat\. Madeléne\)](https://open.spotify.com/album/3CtVuAavZZ0w3xcQgTaiKd) | 2:40 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5FlKpxuzXQrDXGPrCps9zR.md) - [plain]
 
 > 
 
-[dylan](https://open.spotify.com/user/g0hkhph9aqvum331ul8ftxj5i) - 0 likes - 44 songs - 2 hr 12 min
+[dylan](https://open.spotify.com/user/g0hkhph9aqvum331ul8ftxj5i) - 0 likes - 45 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,5 +52,6 @@ pretty - [cumulative](/playlists/cumulative/5FlKpxuzXQrDXGPrCps9zR.md) - [plain]
 | 42 | [Still Don't Care](https://open.spotify.com/track/17tuuYUw3K1J9pDe4QrWNo) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Still Don't Care](https://open.spotify.com/album/11XiRiJX157BvMuuc9ixuw) | 2:49 |
 | 43 | [Midnight Sun](https://open.spotify.com/track/7N1GSHGlLwXY3lN5gv3QLV) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/0nte5x6fXd37Nt7jALSmx0) | 3:09 |
 | 44 | [Pretty Ugly](https://open.spotify.com/track/5FYkRxeoLfVxMqyfNR6TMQ) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/0nte5x6fXd37Nt7jALSmx0) | 2:38 |
+| 45 | [Bang Dem Sticks](https://open.spotify.com/track/1aSjgqYklzgdzOXSXLrWSn) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Title \(Deluxe\)](https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE) | 3:00 |
 
-Snapshot ID: `AAABBVtX50BTapA0S0/Qe5RDsKTNOlX+`
+Snapshot ID: `AAABBjnOo9pVAAF4gdKziQqWMutjv1+W`

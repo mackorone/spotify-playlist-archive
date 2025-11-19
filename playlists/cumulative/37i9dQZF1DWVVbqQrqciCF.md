@@ -4,7 +4,7 @@
 
 > Japanese music duo formed in 2019, consisting of vocalist ikura and producer Ayase\. YOASOBIの楽曲をひとつのプレイリストに。
 
-78 songs - 5 hr 35 min
+79 songs - 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [ラブレター](https://open.spotify.com/track/185Wm4Mx09dQG0fUktklDm) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [ラブレター](https://open.spotify.com/album/6RfHLN2DLnZLAvR5Ogb4jA) | 3:32 | 2022-11-17 |  |
 | [三原色](https://open.spotify.com/track/3FUCuf498nFHJXFYR1V9Bd) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [三原色](https://open.spotify.com/album/3MeMuzwFRLje0g7fdni41h) | 3:44 | 2022-11-17 |  |
 | [中央フリーウェイ](https://open.spotify.com/track/1w3BXhVl88xDJOcrNh5sQH) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj), [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU) | [ユーミン乾杯!!～松任谷由実50周年記念コラボベストアルバム～](https://open.spotify.com/album/6LNustkOXsrHo2bt4bHyxX) | 3:22 | 2023-12-19 |  |
+| [会心の一撃](https://open.spotify.com/track/0yXPq30NX877h69S8vFF39) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [会心の一撃](https://open.spotify.com/album/19d1sNi8HJW9nb2W5IAKpG) | 3:59 | 2025-11-18 |  |
 | [優しい彗星](https://open.spotify.com/track/19fhOFi6pNGeZe5uiFlm7c) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [優しい彗星](https://open.spotify.com/album/2JTvRXbEc1JGPrlKC435Jf) | 3:35 | 2022-11-17 |  |
 | [劇上](https://open.spotify.com/track/3BFx3IfjwIaUr0W5Bl1LED) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [劇上](https://open.spotify.com/album/2u1jyTGzYhnMNy495lVx8G) | 3:18 | 2025-10-01 |  |
 | [勇者](https://open.spotify.com/track/4LjIQmt1t6NjpM0tpttzjo) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [勇者](https://open.spotify.com/album/6L7pjBfP49dh1WYDmHngOO) | 3:14 | 2023-09-28 | 2023-10-05 |

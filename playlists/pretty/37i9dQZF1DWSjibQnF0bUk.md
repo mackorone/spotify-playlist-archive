@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjibQnF0bUk.md) - [plain]
 
 > Definitive African party starters, perfect for any jollof jam or braai! "Spray" money to these hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 560,804 likes - 59 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 560,925 likes - 59 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjibQnF0bUk.md) - [plain]
 | 27 | [Laye Mi](https://open.spotify.com/track/28NElMiahjGMfcE1G8Y6TG) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [CAPTAIN](https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT) | 3:24 |
 | 28 | [FEEL](https://open.spotify.com/track/1mk8ZC9OeTZMr8Wy31LqRj) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:34 |
 | 29 | [Skido \(with Olamide\)](https://open.spotify.com/track/6Qd4tLoc62yDQCQHBrCmDy) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Skido \(with Olamide\)](https://open.spotify.com/album/280b951vtW2SPhfRNXOFW6) | 2:46 |
-| 30 | [Despacito \(feat\. FOLA\)](https://open.spotify.com/track/0HlF88ZuW0yTty8fogzpaG) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [No Excuses](https://open.spotify.com/album/307ndfsqUj3MF4y0uHsinE) | 3:38 |
-| 31 | [Are you there?](https://open.spotify.com/track/10y7iW3rc8bzGbhAC3mNPA) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [MAFFIAN](https://open.spotify.com/album/34MCeC9R3RzTxf3vzEJmWi) | 2:36 |
+| 30 | [Are you there?](https://open.spotify.com/track/10y7iW3rc8bzGbhAC3mNPA) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [MAFFIAN](https://open.spotify.com/album/34MCeC9R3RzTxf3vzEJmWi) | 2:36 |
+| 31 | [Despacito \(feat\. FOLA\)](https://open.spotify.com/track/0HlF88ZuW0yTty8fogzpaG) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [No Excuses](https://open.spotify.com/album/307ndfsqUj3MF4y0uHsinE) | 3:38 |
 | 32 | [Ngozi](https://open.spotify.com/track/5mhM7bfzv52bzfCzlq8vH1) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Trench to Triumph](https://open.spotify.com/album/60dzSRKqWPNVTunBR1aHal) | 3:41 |
 | 33 | [KELEBU](https://open.spotify.com/track/6aoKNOL481xVNuqeayQjPj) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [KELEBU](https://open.spotify.com/album/0dTlxJzKKFaUdPoW7aIQIa) | 2:52 |
 | 34 | [Xtra Cool](https://open.spotify.com/track/5F4OfeowSReF93KcH2eUcG) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Xtra Cool](https://open.spotify.com/album/0VCIXWb1BjfOfBOLJTOOUL) | 2:30 |

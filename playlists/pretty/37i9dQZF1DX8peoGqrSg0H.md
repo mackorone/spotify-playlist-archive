@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 > T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: PERSES
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,342 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,375 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,15 +19,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 9 | [See You Somewhere \- From ซองแดงแต่งผี](https://open.spotify.com/track/3iTOd09b4Dsz1QucpGMivX) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [ซองแดงแต่งผี \(OST\. The Red Envelope Album\)](https://open.spotify.com/album/498pJUSS1xnUzprPYDAPS2) | 3:39 |
 | 10 | [ปากหนัก \(Too Late\)](https://open.spotify.com/track/1UwG1bhUPFpnICDg1hC6Vk) | [TIGGER \(ทิกเกอร์\)](https://open.spotify.com/artist/2DKX2U91UfBZyzVtlwZWdF) | [ปากหนัก \(Too Late\)](https://open.spotify.com/album/284lPIQeWQxn7huMDTYMvr) | 4:17 |
 | 11 | [พบรัก](https://open.spotify.com/track/2LJerOY5jSwO5K6OF9Cyuz) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [พบรัก](https://open.spotify.com/album/3C1L1CgjEjjHoyAPZwePgs) | 3:54 |
-| 12 | [เธอ ๆ เพื่อนเราชอบ \(Guess Who?\)](https://open.spotify.com/track/3ATo1WsiP4luuboQYmuSUT) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [เธอ ๆ เพื่อนเราชอบ \(Guess Who?\)](https://open.spotify.com/album/2FOSJATFDIGtdPkUrbtWFP) | 3:05 |
-| 13 | [คลั่งเธอ \(Dopamine\)](https://open.spotify.com/track/7mKWZhB6AdIPqRMuzuiRsO) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [คลั่งเธอ \(Dopamine\)](https://open.spotify.com/album/53s9ynIUb1BWYHBDZVlzKv) | 4:41 |
-| 14 | [I Just Wanna Know](https://open.spotify.com/track/2hmelRMnKJLo5toNZ5yqZ7) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [I Just Wanna Know](https://open.spotify.com/album/58D3a05FTQi0Eo20WgYWWO) | 3:46 |
+| 12 | [คลั่งเธอ \(Dopamine\)](https://open.spotify.com/track/7mKWZhB6AdIPqRMuzuiRsO) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [คลั่งเธอ \(Dopamine\)](https://open.spotify.com/album/53s9ynIUb1BWYHBDZVlzKv) | 4:41 |
+| 13 | [I Just Wanna Know](https://open.spotify.com/track/2hmelRMnKJLo5toNZ5yqZ7) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [I Just Wanna Know](https://open.spotify.com/album/58D3a05FTQi0Eo20WgYWWO) | 3:46 |
+| 14 | [แค่น้องชาย \(brother zone\)](https://open.spotify.com/track/08NGk13plUmQ5E5yjxIPIz) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [แค่น้องชาย \(brother zone\)](https://open.spotify.com/album/66Y30I4oMrnHVPshlzmpFb) | 3:44 |
 | 15 | [วิงวอน](https://open.spotify.com/track/6d8gjGmu1uNrjjJbLvgyaH) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [CHERRY](https://open.spotify.com/album/6H2DJp8R0UrJjMNU4NNAD7) | 4:11 |
 | 16 | [ฤดูของเธอ \(Your Season\)](https://open.spotify.com/track/5Ssjl0BJRFKtjxbgZlnoj9) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [ฤดูของเธอ \(Your Season\)](https://open.spotify.com/album/4V3Q7Aot4N0MlkhepJ4agw) | 3:15 |
 | 17 | [สักวันฉันจะหายดี](https://open.spotify.com/track/6SNwxbDxjzzN2VO3k6pXdR) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [สักวันฉันจะหายดี](https://open.spotify.com/album/64JJuERE6GnUbFFcJXw73U) | 3:48 |
-| 18 | [แค่น้องชาย \(brother zone\)](https://open.spotify.com/track/08NGk13plUmQ5E5yjxIPIz) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [แค่น้องชาย \(brother zone\)](https://open.spotify.com/album/66Y30I4oMrnHVPshlzmpFb) | 3:44 |
-| 19 | [Pretty Girl](https://open.spotify.com/track/6tB3Own6faovgVetrvNCiZ) | [KimGun](https://open.spotify.com/artist/12mLwmGdGDI6nZxur0atkl) | [Pretty Girl](https://open.spotify.com/album/08H6tDS77MOL0eL5RT2qqE) | 2:47 |
-| 20 | [ดอกไม้ที่รอฝน \(spring\)](https://open.spotify.com/track/4kE80JWRissrodmXuo0xYi) | [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8), [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [ดอกไม้ที่รอฝน \(spring\)](https://open.spotify.com/album/3c507rxKQ6lmPMw7l3Ut6r) | 3:48 |
+| 18 | [Pretty Girl](https://open.spotify.com/track/6tB3Own6faovgVetrvNCiZ) | [KimGun](https://open.spotify.com/artist/12mLwmGdGDI6nZxur0atkl) | [Pretty Girl](https://open.spotify.com/album/08H6tDS77MOL0eL5RT2qqE) | 2:47 |
+| 19 | [ดอกไม้ที่รอฝน \(spring\)](https://open.spotify.com/track/4kE80JWRissrodmXuo0xYi) | [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8), [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [ดอกไม้ที่รอฝน \(spring\)](https://open.spotify.com/album/3c507rxKQ6lmPMw7l3Ut6r) | 3:48 |
+| 20 | [เธอ ๆ เพื่อนเราชอบ \(Guess Who?\)](https://open.spotify.com/track/3ATo1WsiP4luuboQYmuSUT) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [เธอ ๆ เพื่อนเราชอบ \(Guess Who?\)](https://open.spotify.com/album/2FOSJATFDIGtdPkUrbtWFP) | 3:05 |
 | 21 | [ที่เดิม](https://open.spotify.com/track/4KZRjuldIGTS7AQUPbUvbs) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [PUN](https://open.spotify.com/album/2sehVZg3Q9QqyLNg06ULYG) | 3:56 |
 | 22 | [ใบพัด](https://open.spotify.com/track/0brFVslPMHgQT6utYAw6Im) | [COPTER](https://open.spotify.com/artist/2uadqiwrZXc9uxxuP3AXsX), [TAKHLI GANG](https://open.spotify.com/artist/7MPbxRBRGAbRHXldxxi8ON) | [ใบพัด](https://open.spotify.com/album/59VSv8U1wMRFY0NuO8SuGS) | 3:23 |
 | 23 | [SOMTAM \(ส้มตำ\)](https://open.spotify.com/track/0yJse6R8bNxJcjZuB1GE7d) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [SOMTAM \(ส้มตำ\)](https://open.spotify.com/album/3F8jYGorl7sO2oUSY8lTHn) | 3:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 49 | [เรียกว่ารักได้ไหม \(Is This Love?\)](https://open.spotify.com/track/0I4xF90oDZ1tOtZvai8Dtu) | [GEMINI](https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei), [FOURTH](https://open.spotify.com/artist/4PtJISxBNvXOwLxuQgUiyQ) | [เรียกว่ารักได้ไหม \(Is This Love?\)](https://open.spotify.com/album/2EE5Az5ygqidTPBQQxBkbZ) | 3:06 |
 | 50 | [ฉันก่อนเจอเธอ \(Lost and Found\)](https://open.spotify.com/track/52iD6HTHA5y3Bvkzpb4Eyz) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [ฉันก่อนเจอเธอ \(Lost and Found\)](https://open.spotify.com/album/5ETrymml30wW2kHEMIzvsx) | 3:20 |
 
-Snapshot ID: `AAAAALZFJQTGhHVVIeWbAc339czvAXtH`
+Snapshot ID: `AAAAABxjUIBILiInzdPxkT1WWDwDQ6bS`

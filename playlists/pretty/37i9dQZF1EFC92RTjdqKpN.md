@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1D1lDfaOy483s8BIQRjBSS">JHart</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,100 likes - 195 songs - 10 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,101 likes - 195 songs - 10 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -161,14 +161,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 151 | [Baby Don't Dance](https://open.spotify.com/track/1fZ5HV5Qv5aQSV9dXWZ1vy) | [Fleur East](https://open.spotify.com/artist/37mtx80nMDETlbsq2eFCzc) | [Love, Sax & Flashbacks \(Track by Track\)](https://open.spotify.com/album/1nFgJpjh2doGfve56uADlm) | 3:24 |
 | 152 | [Why Does It Hurt](https://open.spotify.com/track/3Vr2LVreIKr9aHy0x7Swmz) | [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Why Does It Hurt](https://open.spotify.com/album/3Zbab5E4YrBcBZPgcXpE05) | 3:18 |
 | 153 | [Who's It Gonna Be](https://open.spotify.com/track/53B756r7H1DB0l0jia4p5x) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Girl Problems](https://open.spotify.com/album/6toYxO6NCaUTUI0g5w2CEq) | 3:27 |
-| 154 | [We've Been Here Before](https://open.spotify.com/track/5Jqrw4v1IOgoKdrPeswPKt) | [Dylan Schneider](https://open.spotify.com/artist/5lRB3MAJfKzlt7dgYMHWgY) | [17 \- EP](https://open.spotify.com/album/6MRKuygv9ooGp2QPUyT4qk) | 3:01 |
-| 155 | [Therapy](https://open.spotify.com/track/2bjRu9zvmzsHcWFcvg9Wek) | [Cerrone](https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM), [James Hart](https://open.spotify.com/artist/7EEz8argPRkpyE5cFJpyi5) | [Red Lips](https://open.spotify.com/album/6huDs4K7QvGIkFvHBYbfd1) | 3:38 |
-| 156 | [Money](https://open.spotify.com/track/5no9qgBHjIokSpqZsdTtda) | [Nathan Sykes](https://open.spotify.com/artist/2Rf4X6m0oayCJhaJ5K63GQ) | [Unfinished Business \(Deluxe\)](https://open.spotify.com/album/3WYRdsLkvrKgLgtxd8VV6X) | 3:18 |
-| 157 | [No\. 1 Obsession](https://open.spotify.com/track/6woglPpa9CWG2WsPrjzS1P) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [EVERYONE'S A STAR!](https://open.spotify.com/album/0zkgIyTdpvOpV5z4oK7c2j) | 3:05 |
-| 158 | [Money On You \- The Voice Performance](https://open.spotify.com/track/35ap6ekPdkGkiUkWfWhZB4) | [Chris Blue](https://open.spotify.com/artist/4urap4WzzvxwW5cC12CBGv) | [The Complete Season 12 Collection \(The Voice Performance\)](https://open.spotify.com/album/7sjWAx2gyKqItDbxTTeAjf) | 3:14 |
-| 159 | [Do You Mind \(feat\. JHart\)](https://open.spotify.com/track/2bYDrpQudPoB0F9T9XbjeX) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Another Friday Night \(Extended\)](https://open.spotify.com/album/0ogJVBlwhWYjaeV6b6QyGo) | 2:47 |
-| 160 | [All The Time](https://open.spotify.com/track/19GhAhZTkpC0FXuL8n5NQQ) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Girl Problems](https://open.spotify.com/album/6toYxO6NCaUTUI0g5w2CEq) | 3:28 |
-| 161 | [Evolve](https://open.spotify.com/track/1GYD0A2nWDmEB0lZp1GvSM) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [EVERYONE'S A STAR!](https://open.spotify.com/album/0zkgIyTdpvOpV5z4oK7c2j) | 3:22 |
+| 154 | [No\. 1 Obsession](https://open.spotify.com/track/6woglPpa9CWG2WsPrjzS1P) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [EVERYONE'S A STAR!](https://open.spotify.com/album/0zkgIyTdpvOpV5z4oK7c2j) | 3:05 |
+| 155 | [We've Been Here Before](https://open.spotify.com/track/5Jqrw4v1IOgoKdrPeswPKt) | [Dylan Schneider](https://open.spotify.com/artist/5lRB3MAJfKzlt7dgYMHWgY) | [17 \- EP](https://open.spotify.com/album/6MRKuygv9ooGp2QPUyT4qk) | 3:01 |
+| 156 | [Evolve](https://open.spotify.com/track/1GYD0A2nWDmEB0lZp1GvSM) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [EVERYONE'S A STAR!](https://open.spotify.com/album/0zkgIyTdpvOpV5z4oK7c2j) | 3:22 |
+| 157 | [Therapy](https://open.spotify.com/track/2bjRu9zvmzsHcWFcvg9Wek) | [Cerrone](https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM), [James Hart](https://open.spotify.com/artist/7EEz8argPRkpyE5cFJpyi5) | [Red Lips](https://open.spotify.com/album/6huDs4K7QvGIkFvHBYbfd1) | 3:38 |
+| 158 | [Money](https://open.spotify.com/track/5no9qgBHjIokSpqZsdTtda) | [Nathan Sykes](https://open.spotify.com/artist/2Rf4X6m0oayCJhaJ5K63GQ) | [Unfinished Business \(Deluxe\)](https://open.spotify.com/album/3WYRdsLkvrKgLgtxd8VV6X) | 3:18 |
+| 159 | [Money On You \- The Voice Performance](https://open.spotify.com/track/35ap6ekPdkGkiUkWfWhZB4) | [Chris Blue](https://open.spotify.com/artist/4urap4WzzvxwW5cC12CBGv) | [The Complete Season 12 Collection \(The Voice Performance\)](https://open.spotify.com/album/7sjWAx2gyKqItDbxTTeAjf) | 3:14 |
+| 160 | [Do You Mind \(feat\. JHart\)](https://open.spotify.com/track/2bYDrpQudPoB0F9T9XbjeX) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Another Friday Night \(Extended\)](https://open.spotify.com/album/0ogJVBlwhWYjaeV6b6QyGo) | 2:47 |
+| 161 | [All The Time](https://open.spotify.com/track/19GhAhZTkpC0FXuL8n5NQQ) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Girl Problems](https://open.spotify.com/album/6toYxO6NCaUTUI0g5w2CEq) | 3:28 |
 | 162 | [Labels](https://open.spotify.com/track/3r8evU1djaHU2iJpcZ8hKN) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Kool Aid](https://open.spotify.com/album/4bDfdcqRQqnxwEbp24xNdg) | 3:11 |
 | 163 | [Show Me](https://open.spotify.com/track/7JJ7S5bgyGFf0OUU0ftSyt) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [idina.](https://open.spotify.com/album/3jXpXBlvGdt0LHZ2CqBg3K) | 5:02 |
 | 164 | [Ready or Not](https://open.spotify.com/track/5f4l8AFUn8AndSXGRbBSNY) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [All the Feels](https://open.spotify.com/album/73hQB56aBFJTHE9vshSCLg) | 3:39 |
@@ -204,4 +204,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 194 | [Tonight](https://open.spotify.com/track/4aTAQCJIGLU5RRcnZNPftn) | [Timati](https://open.spotify.com/artist/3oLccEy7y6zTe1gCFHxuWr), [Shontelle](https://open.spotify.com/artist/4M6Z1wubeKtwPqbjJygTOc) | [SWAGG](https://open.spotify.com/album/6ohDfN4WqQolD87G6s3j3U) | 3:53 |
 | 195 | [Let It Rain](https://open.spotify.com/track/1TG6k7kK3uHX1WyCh2xNpD) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Pressing Onward](https://open.spotify.com/album/6Q4UcPfHz8RnPNn2NlJ71C) | 3:04 |
 
-Snapshot ID: `AcB3HAAAAABsyw4nuOpHYxQ8NWSguyS3`
+Snapshot ID: `AcB8qAAAAACKuSmpdfzjRCb7FCMiSQyu`

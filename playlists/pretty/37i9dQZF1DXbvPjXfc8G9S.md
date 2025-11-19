@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvPjXfc8G9S.md) - [plain]
 
 > Los mejores éxitos de hoy en Colombia\. Foto: Blessd
 
-[Spotify](https://open.spotify.com/user/spotify) - 921,718 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 921,804 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "\u6df1\u591c\u306e\u8aad\u66f8\u3001\u304a\u9152\u3092\u98f2\u307f\u306a\u304c\u3089\u30cd\u30c3\u30c8\u30b5\u30fc\u30d5\u30a3\u30f3 ....\u305d\u3093\u306a\u30ea\u30e9\u30c3\u30af\u30b9\u30bf\u30a4\u30e0\u306e\u304a\u4f9b\u306b\u3002",
-  "num_followers": 127157,
+  "num_followers": 127151,
   "original_name": "Midnight Chill",
   "owner": {
     "name": "Spotify",
@@ -827,6 +827,22 @@
     {
       "added_at": "2025-11-11 06:16:25",
       "album": {
+        "name": "Endlessness",
+        "url": "https://open.spotify.com/album/51CQQ3tQLRZlZJZ5jcpoGE"
+      },
+      "artists": [
+        {
+          "name": "Nala Sinephro",
+          "url": "https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO"
+        }
+      ],
+      "duration_ms": 247538,
+      "name": "Continuum 3",
+      "url": "https://open.spotify.com/track/0AXfx8KBcjY3TlrHmApvNr"
+    },
+    {
+      "added_at": "2025-11-11 06:16:25",
+      "album": {
         "name": "Slow Dancing (Remixes)",
         "url": "https://open.spotify.com/album/5qVmDaecbgUasrvDudT39K"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 198798,
       "name": "Fix It to Break It",
       "url": "https://open.spotify.com/track/1uviKYHZuM4uINK33F7sCt"
-    },
-    {
-      "added_at": "2025-11-11 06:16:25",
-      "album": {
-        "name": "Endlessness",
-        "url": "https://open.spotify.com/album/51CQQ3tQLRZlZJZ5jcpoGE"
-      },
-      "artists": [
-        {
-          "name": "Nala Sinephro",
-          "url": "https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO"
-        }
-      ],
-      "duration_ms": 247538,
-      "name": "Continuum 3",
-      "url": "https://open.spotify.com/track/0AXfx8KBcjY3TlrHmApvNr"
     },
     {
       "added_at": "2025-11-11 06:16:25",
@@ -975,22 +975,6 @@
     {
       "added_at": "2025-11-11 06:16:25",
       "album": {
-        "name": "LEGEND",
-        "url": "https://open.spotify.com/album/0kRBs6M0VbrourQ6fYbCiJ"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 168562,
-      "name": "Wonder Woman",
-      "url": "https://open.spotify.com/track/3BLWGYOcy1svvsBByeFxLh"
-    },
-    {
-      "added_at": "2025-11-11 06:16:25",
-      "album": {
         "name": "BLUE GIANT (\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af)",
         "url": "https://open.spotify.com/album/4GhDb60eJfeVCHJQdHWooc"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 152133,
       "name": "Another autumn",
       "url": "https://open.spotify.com/track/3mFbJ6Ur7gSAAqxQaY3sbq"
+    },
+    {
+      "added_at": "2025-11-11 06:16:25",
+      "album": {
+        "name": "LEGEND",
+        "url": "https://open.spotify.com/album/0kRBs6M0VbrourQ6fYbCiJ"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 168562,
+      "name": "Wonder Woman",
+      "url": "https://open.spotify.com/track/3BLWGYOcy1svvsBByeFxLh"
     },
     {
       "added_at": "2025-11-11 06:16:25",

@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2017. Cover: The xx",
-  "num_followers": 159951,
+  "num_followers": 159972,
   "original_name": "Best of Indie 2017",
   "owner": {
     "name": "Spotify",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Everything Now",
-        "url": "https://open.spotify.com/album/1DNojVW079FU9YnAMk3Cgr"
-      },
-      "artists": [
-        {
-          "name": "Arcade Fire",
-          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
-        }
-      ],
-      "duration_ms": 303013,
-      "name": "Everything Now",
-      "url": "https://open.spotify.com/track/7KsZHCfOitA5V9oQYVdltG"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
         "name": "Roy Pablo",
         "url": "https://open.spotify.com/album/1D3JNjKm7QRaHcIBzv0Xdn"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 198000,
       "name": "Dance, Baby!",
       "url": "https://open.spotify.com/track/5EV4bGHxVN0kHpcAFvgnTt"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "Everything Now",
+        "url": "https://open.spotify.com/album/1DNojVW079FU9YnAMk3Cgr"
+      },
+      "artists": [
+        {
+          "name": "Arcade Fire",
+          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+        }
+      ],
+      "duration_ms": 303013,
+      "name": "Everything Now",
+      "url": "https://open.spotify.com/track/7KsZHCfOitA5V9oQYVdltG"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Nation of Two",
-        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 224400,
-      "name": "Like Gold",
-      "url": "https://open.spotify.com/track/6Od2OWvoT4embWAgIGeFRd"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
         "name": "A Deeper Understanding",
         "url": "https://open.spotify.com/album/4TkmrrpjlPoCPpGyDN3rkF"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 670666,
       "name": "Thinking of a Place",
       "url": "https://open.spotify.com/track/4Sd5tbNP4q8wS64abqwfkN"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "Nation of Two",
+        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 224400,
+      "name": "Like Gold",
+      "url": "https://open.spotify.com/track/6Od2OWvoT4embWAgIGeFRd"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Nation of Two",
-        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 215493,
-      "name": "Lay It on Me",
-      "url": "https://open.spotify.com/track/7oekneJCJO74ycdLzdk16v"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
         "name": "Don't You Worry, Honey",
         "url": "https://open.spotify.com/album/5VvCD7gVffRgdPfExxLfF4"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 231896,
       "name": "High",
       "url": "https://open.spotify.com/track/17aDyX39gb1iV1ZWvD1ffE"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "Nation of Two",
+        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 215493,
+      "name": "Lay It on Me",
+      "url": "https://open.spotify.com/track/7oekneJCJO74ycdLzdk16v"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Stranger in the Alps",
-        "url": "https://open.spotify.com/album/0AkAmg94XyiHODJaiGHh9O"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 229760,
-      "name": "Motion Sickness",
-      "url": "https://open.spotify.com/track/6LxcPUqx6noURdA5qc4BAT"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
         "name": "You Say I'm in Love",
         "url": "https://open.spotify.com/album/7M3ne50fqV9L911ieSAqyN"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 176760,
       "name": "You Say I'm in Love",
       "url": "https://open.spotify.com/track/5Ss6DqCldgTmIo6BekVOJT"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "Stranger in the Alps",
+        "url": "https://open.spotify.com/album/0AkAmg94XyiHODJaiGHh9O"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 229760,
+      "name": "Motion Sickness",
+      "url": "https://open.spotify.com/track/6LxcPUqx6noURdA5qc4BAT"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
+        "name": "Geography",
+        "url": "https://open.spotify.com/album/28enuddLPEA914scE6Drvk"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 357357,
+      "name": "Movie",
+      "url": "https://open.spotify.com/track/6pxElwU80zhjbCC77Vn8EI"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
         "name": "Iris",
         "url": "https://open.spotify.com/album/74wXrpY7UqobiKTiVb3JAL"
       },
@@ -1595,50 +1611,34 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Geography",
-        "url": "https://open.spotify.com/album/28enuddLPEA914scE6Drvk"
+        "name": "The Far Field",
+        "url": "https://open.spotify.com/album/5fhDKNsP4aDsSLjd4JLXrz"
       },
       "artists": [
         {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+          "name": "Future Islands",
+          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
         }
       ],
-      "duration_ms": 357357,
-      "name": "Movie",
-      "url": "https://open.spotify.com/track/6pxElwU80zhjbCC77Vn8EI"
+      "duration_ms": 205586,
+      "name": "Ran",
+      "url": "https://open.spotify.com/track/5GxeKtNdjSVAZTfxSsnXhF"
     },
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Apricot Princess",
-        "url": "https://open.spotify.com/album/2NBVxjZcbH5H1N1Ab2ExDH"
+        "name": "Tailwhip",
+        "url": "https://open.spotify.com/album/7eJd4HvbzBoufq7pnKAIiy"
       },
       "artists": [
         {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
         }
       ],
-      "duration_ms": 135706,
-      "name": "Untitled",
-      "url": "https://open.spotify.com/track/3PbV3ocgAp3Xn0omGFC0cG"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
-        "name": "Stranger in the Alps",
-        "url": "https://open.spotify.com/album/0AkAmg94XyiHODJaiGHh9O"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 232373,
-      "name": "Funeral",
-      "url": "https://open.spotify.com/track/2Tbym0L4Xlox9nol0YzPct"
+      "duration_ms": 225263,
+      "name": "Tailwhip",
+      "url": "https://open.spotify.com/track/2DoO0sn4SbUrz7Uay9ACTM"
     }
   ],
   "unique_name": "Best of Indie 2017",

@@ -1,12 +1,12 @@
 {
   "description": "This is Travis Scott. The essential tracks, all in one playlist.",
-  "num_followers": 1632337,
+  "num_followers": 1632376,
   "original_name": "This Is Travis Scott",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRkUAAAAAACbW2hLWuRKV/vjrShaWxTn",
+  "snapshot_id": "aRplgAAAAADLlLf+PLoEd5eLlBGkw6Gn",
   "tracks": [
     {
       "added_at": null,
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 170498,
-      "name": "KICK OUT",
-      "url": "https://open.spotify.com/track/5P03xImM2uFukzoty7NDw7"
+      "duration_ms": 238249,
+      "name": "DUMBO",
+      "url": "https://open.spotify.com/track/1rQEgtQNsj63xIUzEmKbML"
     },
     {
       "added_at": null,
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 238249,
-      "name": "DUMBO",
-      "url": "https://open.spotify.com/track/1rQEgtQNsj63xIUzEmKbML"
+      "duration_ms": 170498,
+      "name": "KICK OUT",
+      "url": "https://open.spotify.com/track/5P03xImM2uFukzoty7NDw7"
     },
     {
       "added_at": null,
@@ -679,26 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Sick (Deluxe)",
-        "url": "https://open.spotify.com/album/2Q2TRdT994vTzGE3Grmmht"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 192693,
-      "name": "Embarrassed (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/6w9GrSUaQQIaMBYtabge7p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 207306,
       "name": "Niagara Falls (Foot or 2) [with Travis Scott & 21 Savage]",
       "url": "https://open.spotify.com/track/4WuOWVnAqvEQxgSRrspBgt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Sick (Deluxe)",
+        "url": "https://open.spotify.com/album/2Q2TRdT994vTzGE3Grmmht"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 192693,
+      "name": "Embarrassed (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/6w9GrSUaQQIaMBYtabge7p"
     },
     {
       "added_at": null,
@@ -927,30 +927,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nomad",
-        "url": "https://open.spotify.com/album/7j6mSOEPv6m0JOZXwFXymX"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 199385,
-      "name": "Tsunami (feat. Future & Travis Scott)",
-      "url": "https://open.spotify.com/track/1AvZXYluV7hMnqCXZnWpBH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "So Much Fun",
         "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
       },
@@ -995,6 +971,30 @@
       "duration_ms": 272941,
       "name": "WHERE WAS YOU",
       "url": "https://open.spotify.com/track/26N5kAVhlqFOWAkuMQ5Kwe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nomad",
+        "url": "https://open.spotify.com/album/7j6mSOEPv6m0JOZXwFXymX"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 199385,
+      "name": "Tsunami (feat. Future & Travis Scott)",
+      "url": "https://open.spotify.com/track/1AvZXYluV7hMnqCXZnWpBH"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Naura Ayu
 
-718 songs - 1 day 23 hr 4 min
+718 songs - 1 day 23 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Boleh Merindu](https://open.spotify.com/track/2IbXGJUnPbT7trKSAy6LNC) | [Jaz](https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm) | [Boleh Merindu](https://open.spotify.com/album/16tWz380soVodMC5yN9la7) | 4:08 | 2024-09-20 | 2025-01-10 |
 | [Bring It On](https://open.spotify.com/track/7jjSkcLMIVQT0w9LlsfL9q) | [SEBY](https://open.spotify.com/artist/2gyoZB0qaowphecujZAzTd) | [A to Z](https://open.spotify.com/album/5Uwg2KxTq43qPGJkAYWrlR) | 4:08 | 2025-05-08 | 2025-06-13 |
 | [Buang Garam Di Laut](https://open.spotify.com/track/2X4KT7AOroEAHAeg9jheO9) | [Luvia band](https://open.spotify.com/artist/68LnYWYS7UQ67awNV3RO6a) | [Buang Garam Di Laut](https://open.spotify.com/album/3bktbSxvPXoLZVnEL1ZcTz) | 4:49 | 2025-09-11 | 2025-10-31 |
+| [Buang Mantan](https://open.spotify.com/track/4NivuhjN2tXk6UstgauLpS) | [Tenny TAP](https://open.spotify.com/artist/2mjuC8gdXeRJkfWqHkZ62P) | [Buang Mantan](https://open.spotify.com/album/4IOXsITT4m02DPVGrMREGd) | 4:07 | 2025-11-13 |  |
 | [Bukan Akhir Dunia](https://open.spotify.com/track/30XDroGTzYYVDhHU3NzMWw) | [TANIA](https://open.spotify.com/artist/4b2s00tyEITEmK4nFotlJI), [Langit Sore](https://open.spotify.com/artist/2p8EGJCCavN09PyTOKY9Lj) | [Bukan Akhir Dunia](https://open.spotify.com/album/2hiIxjEddgdbFY21qAaLyp) | 4:16 | 2024-08-01 | 2024-10-11 |
 | [Bukan Dengan Dia](https://open.spotify.com/track/03mQ3i9vPCEYO9KVi9qjHb) | [Jaz](https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm), [Mawar de Jongh](https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK) | [Bukan Dengan Dia](https://open.spotify.com/album/6F8ak3UeNmOXcE4v3KctlC) | 4:01 | 2024-06-27 | 2025-01-10 |
 | [Bukan Hati Yang Kutunggu](https://open.spotify.com/track/41e8w4f1X5ynQvrjBbaEXP) | [Dudy Oris](https://open.spotify.com/artist/6YPfs6tdZXvnlzgZNU3SYT), [Pika Iskandar](https://open.spotify.com/artist/3ZYWF9zaonB6IQ7KuOneIo) | [Bukan Hati Yang Kutunggu](https://open.spotify.com/album/0uLmrILkMpzlwLNAtNyCKW) | 3:41 | 2024-10-31 | 2025-01-10 |
@@ -515,7 +516,6 @@
 | [Sabtu](https://open.spotify.com/track/6PLMWqOc8AItKQTGfnhj2t) | [Aurla](https://open.spotify.com/artist/5aqBDf8HH7H0fduSKocH4Y) | [Sabtu](https://open.spotify.com/album/2qkUukh0IhdFXcoFdfTJtm) | 4:00 | 2025-07-24 | 2025-10-03 |
 | [Sadrah \- Acoustic](https://open.spotify.com/track/4IhQA4O98ulPLhsdW2GPPO) | [For Revenge](https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1), [Meiska](https://open.spotify.com/artist/1ZT1OfVAO3kpOEHVejBxV8) | [Sadrah \- Acoustic](https://open.spotify.com/album/5oGmWdzAvYfy1osN4PspuR) | 4:06 | 2024-11-28 | 2025-08-09 |
 | [Sahabat Tersayang](https://open.spotify.com/track/2znrDOGtGwoOcpKPuSTtIV) | [Alika](https://open.spotify.com/artist/1nMUOY9WKwO8R1gZ8i76jU) | [Sahabat Tersayang](https://open.spotify.com/album/4ABRXP1iHwh5RFjsUzfowe) | 4:40 | 2024-12-20 | 2025-03-07 |
-| [Sajak Rindu](https://open.spotify.com/track/4NivuhjN2tXk6UstgauLpS) | [Peter Holly](https://open.spotify.com/artist/6jjRl6DiuWp03YdfGGI4fb) | [Sajak Rindu](https://open.spotify.com/album/4IOXsITT4m02DPVGrMREGd) | 4:31 | 2025-11-13 |  |
 | [Sakit Dua Kali](https://open.spotify.com/track/1A6BAb3O5g6gNQkeQoJ0wF) | [Badai](https://open.spotify.com/artist/57tOtIMTb7Ng8GDugStcRf) | [Sakit Dua Kali](https://open.spotify.com/album/2VDnA3Vi49Fz8VwHRLebKy) | 4:09 | 2024-11-21 | 2025-02-28 |
 | [Sakit Hati](https://open.spotify.com/track/3ogHZ8gDoMsTwVKSiFr37x) | [Kenriz](https://open.spotify.com/artist/0KNqyNkuttIabEfX3lSUuT), [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp) | [Sakit Hati](https://open.spotify.com/album/5zzs8bUKrWEQUxywA4Ju7e) | 3:47 | 2025-06-05 | 2025-07-11 |
 | [Sakit Karena Cinta](https://open.spotify.com/track/6anG2cD3dp7yOxdcvlB3FI) | [Faul Gayo](https://open.spotify.com/artist/5CdK6xKQYwaLsuAFQlhrSz) | [Sakit Karena Cinta](https://open.spotify.com/album/5keIXzGTxenH2oe3pBx26a) | 5:56 | 2025-02-27 | 2025-05-09 |

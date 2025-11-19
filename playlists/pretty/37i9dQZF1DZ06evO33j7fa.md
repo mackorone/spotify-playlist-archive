@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33j7fa.md) - [plain]
 
 > This is Nick Drake\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,707 likes - 38 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,720 likes - 38 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33j7fa.md) - [plain]
 | 37 | [Blues Run The Game](https://open.spotify.com/track/63DZhSq0EGemJVRoAxUtHZ) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Family Tree](https://open.spotify.com/album/6tSbmYy6GAIsjtAId5GCbo) | 2:25 |
 | 38 | [Time Piece](https://open.spotify.com/track/0k6AwBv6WN40pvR6qmw3Md) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Family Tree](https://open.spotify.com/album/6tSbmYy6GAIsjtAId5GCbo) | 0:43 |
 
-Snapshot ID: `aRkUAAAAAAA5rmyso88TMPshEFdia5Fk`
+Snapshot ID: `aRplgAAAAAAo7m1lCE7XSnPPIYjHHiOK`

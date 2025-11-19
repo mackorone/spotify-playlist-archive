@@ -4,7 +4,7 @@
 
 > This is Grupo Frontera\. The essential tracks, all in one playlist.
 
-118 songs - 6 hr 3 min
+120 songs - 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [Agachadita](https://open.spotify.com/track/2nwiohQG9DROhzlgZlXPSK) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [Agachadita](https://open.spotify.com/album/5c9O4aceHfVDbEq8DKEGuY) | 3:15 | 2023-03-10 | 2025-06-20 |
 | [Alch Si](https://open.spotify.com/track/5cWgwbui8BasfjCXvBZ7UA) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Alch Si](https://open.spotify.com/album/7rCPyUIciqYswpRXTa1JYc) | 2:33 | 2023-12-13 |  |
 | [ALV](https://open.spotify.com/track/32hCeeK3ayPux4UauNPsgA) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Sentimiento, Elegancia y Más Maldad](https://open.spotify.com/album/21TAcmAXy0OY0U7B9LlwlY) | 3:44 | 2023-12-13 |  |
-| [AMOR PROPIO](https://open.spotify.com/track/01cN1DKc5HH7F9MOBBjSip) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [AMOR PROPIO](https://open.spotify.com/album/7z3Yk4R2PWF0jkQp4ZKX4y) | 2:52 | 2023-11-10 |  |
+| [AMOR PROPIO](https://open.spotify.com/track/01cN1DKc5HH7F9MOBBjSip) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [AMOR PROPIO](https://open.spotify.com/album/7z3Yk4R2PWF0jkQp4ZKX4y) | 2:52 | 2023-11-10 | 2025-11-19 |
+| [AMOR PROPIO](https://open.spotify.com/track/3y91ILcWUknMxicHWFzvhd) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [AMOR PROPIO](https://open.spotify.com/album/7JWBVCc97jLfUJ17TCUWHK) | 2:52 | 2025-11-19 |  |
 | [Apodo](https://open.spotify.com/track/5OQyCrbytLw7anYRZXlEhc) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Apodo](https://open.spotify.com/album/1lb7uVplwl2K6b7GnAB0jr) | 2:53 | 2025-08-17 |  |
 | [AURORA \(feat\. Armenta\)](https://open.spotify.com/track/3s0rq0VmyDLZKjAnEjrQIZ) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Armenta](https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX) | [MALA MÍA](https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy) | 3:39 | 2024-12-22 |  |
 | [ay bebé](https://open.spotify.com/track/6rq1D0UvJD2TlqWUpzJxLE) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [LO QUE ME FALTA POR LLORAR](https://open.spotify.com/album/1rQaw35QueiDUvAhvTOWZi) | 2:50 | 2025-11-12 |  |
@@ -124,7 +125,8 @@
 | [¿Qué Haces Por Acá?](https://open.spotify.com/track/2hMsGqC4z5czLGacKK93Ap) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Mister Chivo](https://open.spotify.com/artist/0Bxo11d6nt1FpPWCo4PGcw) | [Y Lo Que Viene](https://open.spotify.com/album/5Rghy8jEh35uc0gDRcoydO) | 3:08 | 2025-06-20 | 2025-10-26 |
 | [¿Qué Te Parece?](https://open.spotify.com/track/2XmxgRT3HEhK5OvX1sNxi1) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [¿Qué Te Parece?](https://open.spotify.com/album/4Z0r33fYkC9RjbJApkzrPX) | 3:02 | 2025-11-17 |  |
 | [¿Qué Te Parece?](https://open.spotify.com/track/6oCQOBXMHc1z2JRx1Dv6tG) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [¿Qué Te Parece?](https://open.spotify.com/album/4wJ3OuXAYBT7KgZpQoMMG8) | 3:02 | 2024-11-24 | 2025-11-17 |
-| [ÁNGEL](https://open.spotify.com/track/4JtKlgBLKHtRTqixKHrrw8) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [ÁNGEL](https://open.spotify.com/album/2iiR2powAnVyARFx7deWZT) | 3:04 | 2024-07-27 |  |
+| [ÁNGEL](https://open.spotify.com/track/0jYGePHozqLtHWoKVQZrFV) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [ÁNGEL](https://open.spotify.com/album/2YUVybwjooIwGMbyzpeplq) | 3:04 | 2025-11-19 |  |
+| [ÁNGEL](https://open.spotify.com/track/4JtKlgBLKHtRTqixKHrrw8) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [ÁNGEL](https://open.spotify.com/album/2iiR2powAnVyARFx7deWZT) | 3:04 | 2024-07-27 | 2025-11-19 |
 | [échame la mano](https://open.spotify.com/track/7nkPTFte8HROvVfvaKfRsD) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [LO QUE ME FALTA POR LLORAR](https://open.spotify.com/album/1rQaw35QueiDUvAhvTOWZi) | 2:25 | 2025-10-28 |  |
 
 \*This playlist was first scraped on 2023-03-11. Prior content cannot be recovered.

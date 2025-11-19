@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 
 > Alaba al Seńor con estas canciones clásicas! Foto: Christine D'Clario
 
-[Spotify](https://open.spotify.com/user/spotify) - 489,952 likes - 100 songs - 9 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 490,061 likes - 100 songs - 9 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 | 21 | [Hermoso Momento \(Sesión Acústica\)](https://open.spotify.com/track/2xMa0tcCol50Tx8juI2N6f) | [Kairo Worship](https://open.spotify.com/artist/0Hsw98UmbwZVh0mFWg0unI) | [Hermoso Momento \(Sesión Acústica\)](https://open.spotify.com/album/2W1itxkC4eYr4aWLsRlHHf) | 21:24 |
 | 22 | [Sé fuerte](https://open.spotify.com/track/4bqXBoZT5yzGmMoppIeuvv) | [Sarai Rivera](https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk) | [Sé Fuerte](https://open.spotify.com/album/49IgbjzO62GQp2vqOkm4vh) | 4:11 |
 | 23 | [Cuando Yo Te Conocí](https://open.spotify.com/track/69hFBsRNHaKuCkraGiExgA) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd), [AZ Family](https://open.spotify.com/artist/1aRYbnVZVADi825ka29635) | [DTOX](https://open.spotify.com/album/3Pe3gBLsaciO2Oae7Q5pw1) | 3:42 |
-| 24 | [Mesias \- Live](https://open.spotify.com/track/2f76xe9iPZbab7nMXaUaNR) | [Averly Morillo](https://open.spotify.com/artist/40oCnQkoBkpfTohVnTf40S) | [Mesias \(Live\)](https://open.spotify.com/album/3kFnyNSLQn8d4U40kkgNMP) | 12:23 |
-| 25 | [Inexplicable](https://open.spotify.com/track/5L4hDAnKu7btTTyM3ucm24) | [Denicher Pol](https://open.spotify.com/artist/3C3hBriCxs5RVra7yTMacj) | [Inexplicable](https://open.spotify.com/album/1USOV6SxLg77cCzYrFy7oO) | 5:24 |
+| 24 | [Inexplicable](https://open.spotify.com/track/5L4hDAnKu7btTTyM3ucm24) | [Denicher Pol](https://open.spotify.com/artist/3C3hBriCxs5RVra7yTMacj) | [Inexplicable](https://open.spotify.com/album/1USOV6SxLg77cCzYrFy7oO) | 5:24 |
+| 25 | [Mesias \- Live](https://open.spotify.com/track/2f76xe9iPZbab7nMXaUaNR) | [Averly Morillo](https://open.spotify.com/artist/40oCnQkoBkpfTohVnTf40S) | [Mesias \(Live\)](https://open.spotify.com/album/3kFnyNSLQn8d4U40kkgNMP) | 12:23 |
 | 26 | [Promesas](https://open.spotify.com/track/4fCR5COPBAKXUJAhuUl5W7) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu), [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM) | [Promesas](https://open.spotify.com/album/6AhZUgRb9ONblfzevQACl8) | 4:01 |
 | 27 | [Cada mañana](https://open.spotify.com/track/2Z3IbT1sAYAvkPrP4sSmmx) | [Sarai Rivera](https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk) | [Sé Fuerte](https://open.spotify.com/album/49IgbjzO62GQp2vqOkm4vh) | 3:31 |
 | 28 | [Pa' Que Viva Feliz](https://open.spotify.com/track/55FyD4opL5CO7Nb80Z7Mx7) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [Pa' Que Viva Feliz](https://open.spotify.com/album/3wnUpvSigI8iyFGebeLJjz) | 3:09 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 | 51 | [Humano](https://open.spotify.com/track/0YoMzVYRo37ckKpn6pTdhV) | [Vaes](https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu) | [Humano](https://open.spotify.com/album/7FUlsDT6g65ZB1lAi1CTSx) | 3:00 |
 | 52 | [Vives en Mí](https://open.spotify.com/track/1X56o48bRC91kiEY4X4faS) | [Dorcas Cancel](https://open.spotify.com/artist/0N4rdCv0xy3ontQXyF3iRX), [Onell Diaz](https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Vives en Mí](https://open.spotify.com/album/7fEfG5MeVROYWby5dnAlI4) | 4:08 |
 | 53 | [Que Baje la Nube](https://open.spotify.com/track/2GmA6k2d3GtaymGaCt7Pt7) | [Son By Four](https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j) | [Mujer Frente a la Cruz](https://open.spotify.com/album/5y5z8e3HEagRt9GjkIbs6d) | 6:07 |
-| 54 | [Respiro](https://open.spotify.com/track/2N7VkoqFIsANXJxIthXVtx) | [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue), [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM) | [Respiro](https://open.spotify.com/album/7JQ2JE7zWZwr8dmictQdMl) | 4:09 |
-| 55 | [Amor Real](https://open.spotify.com/track/69KmU0fC0eWkiWgvpw8B5q) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO) | [Amor Real](https://open.spotify.com/album/4OPPnlefSRGfeI0WkI8xCo) | 3:52 |
+| 54 | [Amor Real](https://open.spotify.com/track/69KmU0fC0eWkiWgvpw8B5q) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO) | [Amor Real](https://open.spotify.com/album/4OPPnlefSRGfeI0WkI8xCo) | 3:52 |
+| 55 | [Respiro](https://open.spotify.com/track/2N7VkoqFIsANXJxIthXVtx) | [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue), [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM) | [Respiro](https://open.spotify.com/album/7JQ2JE7zWZwr8dmictQdMl) | 4:09 |
 | 56 | [Volver a Ti](https://open.spotify.com/track/3VZsvgWzGJ7O72hcY0xMAa) | [Anagrace](https://open.spotify.com/artist/7DmgYRbHlVv86Kc48VeT2w) | [Volver a Ti](https://open.spotify.com/album/2vERRM9qaKZN3UB7lP29Mz) | 4:10 |
 | 57 | [Quien Soy Yo \(feat\. Redimi2\)](https://open.spotify.com/track/1W7X4EAT2DcqaISXA4X2q9) | [4 Trinity](https://open.spotify.com/artist/31nSv3P3QAEUk8dtkOJRWT), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [4t](https://open.spotify.com/album/0LjBIJORulBSIeciUhwykB) | 4:15 |
 | 58 | [Gracia](https://open.spotify.com/track/7kKn5FBPScYL4QEo9Z1sxI) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs) | [SEU Worship HOLA](https://open.spotify.com/album/3cHcSuyQ21qQhO3h5KvjeW) | 6:09 |

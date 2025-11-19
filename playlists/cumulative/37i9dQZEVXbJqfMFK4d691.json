@@ -1244,7 +1244,7 @@
       ],
       "date_added": "2024-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 188423,
       "name": "Amor de Vago",
       "url": "https://open.spotify.com/track/5MKbWaXeSQSmzmo7gPQha1"
@@ -1752,7 +1752,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 132170,
       "name": "At\u00e9 Quebrar a Cama 2.0",
       "url": "https://open.spotify.com/track/7aOv4uSAmiB9XKnkibqSdo"
@@ -2625,7 +2625,7 @@
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 207306,
+      "duration_ms": 207296,
       "name": "Borro Cassette",
       "url": "https://open.spotify.com/track/6DUdDIRgLqCGq1DwkNWQTN"
     },
@@ -9066,7 +9066,7 @@
       ],
       "date_added": "2025-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 234682,
       "name": "La Cita",
       "url": "https://open.spotify.com/track/2h4hsalYgf6FkPzuptqwT5"
@@ -9542,7 +9542,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-17",
+      "date_removed": null,
       "duration_ms": 195546,
       "name": "La Perla",
       "url": "https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv"
@@ -9668,7 +9668,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 188571,
       "name": "La revancha",
       "url": "https://open.spotify.com/track/3SMBMGIjc5OrasdvWtcNLD"
@@ -18260,7 +18260,7 @@
       ],
       "date_added": "2025-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-18",
+      "date_removed": null,
       "duration_ms": 172313,
       "name": "SPAGHETTI",
       "url": "https://open.spotify.com/track/2N9miXnewVmUrgl6JSK1FI"
@@ -18848,7 +18848,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-19",
+      "date_removed": null,
       "duration_ms": 226073,
       "name": "The Fate of Ophelia",
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
@@ -19396,6 +19396,24 @@
       "duration_ms": 225880,
       "name": "Tu Boda",
       "url": "https://open.spotify.com/track/5mp6OBKCAjN4UYRvhOuUze"
+    },
+    {
+      "album": {
+        "name": "Mon Laferte (Vol. 1)",
+        "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278546,
+      "name": "Tu Falta De Querer",
+      "url": "https://open.spotify.com/track/4skuEIloXWuxxgekKupkEH"
     },
     {
       "album": {

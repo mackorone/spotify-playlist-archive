@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRegGOhYpv3j.md) - [plain]
 | 77 | [it's not you, it's me](https://open.spotify.com/track/0X3mAcw0fxCLqgVcLoGbpC) | [Savana Santos](https://open.spotify.com/artist/4319F2mBye7whEKPHX8pSm) | [1](https://open.spotify.com/album/6N56gxTiG3hCtCTNgdiYtx) | 2:20 |
 | 78 | [Double Standard](https://open.spotify.com/track/29kSxzMLoSZ4qeEEO2vN4L) | [Conor Clemmons](https://open.spotify.com/artist/6CrzyNTeFnxKAnkXdx8eyv) | [Double Standard](https://open.spotify.com/album/5N9RkXhSdRLVRLNbAJ3hEP) | 3:24 |
 
-Snapshot ID: `AcB2/gAAAAAoVghmKdI3Owxxa8cACIk6`
+Snapshot ID: `AcB82gAAAABDqvJSIFwy05800HqO0gCm`

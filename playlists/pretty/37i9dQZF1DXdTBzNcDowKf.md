@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTBzNcDowKf.md) - [plain]
 
 > Things just got a little more despicable\. Listen to the music from the Despicable Me and Minions movies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,299 likes - 67 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,385 likes - 67 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTBzNcDowKf.md) - [plain]
 | 4 | [Lil Mega Minion](https://open.spotify.com/track/4iTY4faTQSkScwbk2F1FUs) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Lil Mega Minion](https://open.spotify.com/album/3EwNJwsIUmfOG7oZhcWVcY) | 1:51 |
 | 5 | [Happy \- From "Despicable Me 2"](https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [G I R L](https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W) | 3:53 |
 | 6 | [Despicable Me](https://open.spotify.com/track/2EOMe4XAS7U6UA1mhDs9tP) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Despicable Me](https://open.spotify.com/album/0FcxFAcd4gP2kzHrQ95e1m) | 4:12 |
-| 7 | [Freedom](https://open.spotify.com/track/6RB9YvNyP0RZfCUcMtZELH) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Freedom](https://open.spotify.com/album/3Aw8a13WJi24hkjRRtMp9n) | 2:42 |
+| 7 | [Freedom](https://open.spotify.com/track/6RB9YvNyP0RZfCUcMtZELH) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Freedom](https://open.spotify.com/album/3Aw8a13WJi24hkjRRtMp9n) | 2:43 |
 | 8 | [Just a Cloud Away](https://open.spotify.com/track/4UPQiDmYScn2C6S2C2WATY) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Despicable Me 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3xU6u2UadKV6gHjlXdJvqZ) | 2:56 |
 | 9 | [Fun, Fun, Fun \- From "Despicable Me"](https://open.spotify.com/track/0APR73JawLr7KKImPsPUsR) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Despicable Me](https://open.spotify.com/album/0FcxFAcd4gP2kzHrQ95e1m) | 3:25 |
 | 10 | [I'm On A Roll](https://open.spotify.com/track/6wAuGl9OzAm0t3EfiWcQn4) | [Destinee & Paris](https://open.spotify.com/artist/0UJ0dQEzoMpMhFeP70hlhO) | [Despicable Me](https://open.spotify.com/album/0FcxFAcd4gP2kzHrQ95e1m) | 3:10 |

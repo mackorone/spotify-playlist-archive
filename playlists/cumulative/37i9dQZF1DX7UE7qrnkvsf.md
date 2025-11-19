@@ -4,7 +4,7 @@
 
 > Jazz that captures the essence of autumn.
 
-608 songs - 1 day 14 hr 12 min
+610 songs - 1 day 14 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [A Few Odd Jobs](https://open.spotify.com/track/3iqhWCI6anGEfsGuHgTOCm) | [Tore Lundblad](https://open.spotify.com/artist/4zNremLzDLV4qylYjP0nR2) | [A Few Odd Jobs](https://open.spotify.com/album/32mipwmPBIaktTnArY4kJt) | 3:12 | 2022-09-29 | 2023-09-29 |
 | [A Flower Is A Lovesome Thing](https://open.spotify.com/track/2EPm4CREZTAaifDkmTZ1UD) | [Saginaw Society](https://open.spotify.com/artist/6DZHD4qSGUFPJVZZARcJDY) | [A Flower Is A Lovesome Thing](https://open.spotify.com/album/6e5sks6jNZiizyhRdcguh9) | 4:51 | 2023-11-17 | 2025-10-01 |
 | [A Glance Across the Room](https://open.spotify.com/track/1OaBvkhFNk15BH5C13vPgc) | [Måns & Dotter](https://open.spotify.com/artist/2p01LeKL4qyvQ5xKWs9S40) | [A Glance Across the Room](https://open.spotify.com/album/4tXlHGMflBX6647ppnPqVI) | 3:48 | 2024-09-27 | 2025-09-12 |
+| [A Hint of Spruce](https://open.spotify.com/track/2BZwO5cYgL8kfCk1fTmNVm) | [Tore Lundblad](https://open.spotify.com/artist/4zNremLzDLV4qylYjP0nR2) | [A Hint of Spruce](https://open.spotify.com/album/0vRxsGIsT6g4QXTOpmSRYL) | 2:56 | 2025-11-18 |  |
 | [A Knock On The Door](https://open.spotify.com/track/1lKkIBFCcsUOG14fPmvbhw) | [Clover Post](https://open.spotify.com/artist/2XWP1prJQm6CLoHKAqXCEz) | [A Knock On The Door](https://open.spotify.com/album/0q2peKbZDl0x0NuIn7UZ7F) | 3:27 | 2022-09-20 | 2025-10-01 |
 | [A Life Remembered](https://open.spotify.com/track/1Z2syyXirlJMUq8NRh6r3t) | [Bridgerton Vail](https://open.spotify.com/artist/258zL72kPsK1Y6IqgdoPDC) | [A Life Remembered](https://open.spotify.com/album/787bxoPDOcR9LASFyyWlHA) | 2:56 | 2022-05-10 | 2025-10-01 |
 | [A Long Day](https://open.spotify.com/track/0G9w3EodK2pcqKhzB7KpN8) | [Karl\-Erik Trio](https://open.spotify.com/artist/6Q43Skxi3s0lux1BZuTZnv) | [A Long Day](https://open.spotify.com/album/1NNC5s9uAgPIHxwi7VlvBs) | 2:48 | 2023-10-13 |  |
@@ -78,6 +79,7 @@
 | [Beloved Moment](https://open.spotify.com/track/70SS4yWIkSGqWeeamWu5wi) | [Cara Myers Trio](https://open.spotify.com/artist/3YKaVuPgMSkBr5r3zqxEdV) | [Beloved Moment](https://open.spotify.com/album/4qpyfuf9zMuv3QWEjdYlze) | 3:26 | 2023-08-17 | 2025-11-04 |
 | [Berlin](https://open.spotify.com/track/1EUmxA68Tqok0IpvAN6awW) | [Eternal Time Trio](https://open.spotify.com/artist/7Db24rMZl5sv7EQL5CP988) | [Berlin](https://open.spotify.com/album/6IedHNBeWJSr0ncg2HBbYE) | 2:35 | 2023-12-08 | 2025-09-12 |
 | [Better? Lighter? Easier?](https://open.spotify.com/track/7G32BRrjxfsmrtOiF7Qaz4) | [Maxime Leroy Trio](https://open.spotify.com/artist/4z6j0Z8eFGwMjlJFDAmV2M) | [Better? Lighter? Easier?](https://open.spotify.com/album/0ru9McSxaSuleuNABJ1ygj) | 3:14 | 2023-09-22 |  |
+| [Between the Hours](https://open.spotify.com/track/1nrQDzTdNnsSLGcnyq0U1V) | [The 52nd Street Club](https://open.spotify.com/artist/43g6zwUUuWLCPXDidr6rfU) | [Between the Hours](https://open.spotify.com/album/7EvCxdKTYkOC7eNxKmu375) | 4:12 | 2025-11-18 |  |
 | [Bewitched](https://open.spotify.com/track/7va480wmDj33F0PRpINgkD) | [Jaden Berry](https://open.spotify.com/artist/1PjLk33ZP5fgTFpbgN5kJL) | [Bewitched](https://open.spotify.com/album/2GeLBQLeuf4AzujFK206X0) | 3:27 | 2022-04-12 | 2025-09-12 |
 | [Beyond Belief](https://open.spotify.com/track/4Y27hhN8JYQnD4XPnqlZsU) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [Beyond Belief](https://open.spotify.com/album/3NbBA45Xy9RD9og05z7NBJ) | 3:31 | 2022-11-17 | 2024-11-26 |
 | [Beyond Repair](https://open.spotify.com/track/1NoYlAyood0wY0mN8DvqsU) | [Nouvelle Marée](https://open.spotify.com/artist/53xh7BAl56yKW1LrqaLqdq) | [Beyond Repair](https://open.spotify.com/album/0iFwdwfjWu9AQwhzxOKQEr) | 4:39 | 2024-03-22 |  |
@@ -330,7 +332,7 @@
 | [Lovestrung](https://open.spotify.com/track/57tNKYlNeknPlPFvMXsMaK) | [Rossdale Junction](https://open.spotify.com/artist/07lLIhOAtuwjGaZ0goh3iO) | [Lovestrung](https://open.spotify.com/album/7pGN97RlbphE3ap1UsWReS) | 3:19 | 2024-03-22 | 2025-09-12 |
 | [Lumberjacks'](https://open.spotify.com/track/4Za1MUR7dLiKbvYHxlMjhQ) | [Jacky Bonnet Group](https://open.spotify.com/artist/6raCh9DUKDTErUk5QmRYzX) | [Lumberjacks'](https://open.spotify.com/album/5Hx0WztbDPWqBbjr2pjxyU) | 2:30 | 2022-12-01 | 2025-09-18 |
 | [Luna](https://open.spotify.com/track/16kuQew0DW0IFOTCXVQ2F0) | [Joyce Trio](https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf) | [Luna](https://open.spotify.com/album/4LjumPygx5KGf78cfLsacs) | 4:24 | 2022-04-12 | 2025-10-01 |
-| [Lush Life](https://open.spotify.com/track/7xuOv4oO4lghAaoS27dIEx) | [Tiril Brandt](https://open.spotify.com/artist/1Vor0rs0uaRKRuimiXWd92) | [Lush Life](https://open.spotify.com/album/0gTwalJJCInwDoCqDyF8JR) | 4:02 | 2022-08-11 |  |
+| [Lush Life](https://open.spotify.com/track/7xuOv4oO4lghAaoS27dIEx) | [Tiril Brandt](https://open.spotify.com/artist/1Vor0rs0uaRKRuimiXWd92) | [Lush Life](https://open.spotify.com/album/0gTwalJJCInwDoCqDyF8JR) | 4:02 | 2022-08-11 | 2025-11-19 |
 | [Maelstrom](https://open.spotify.com/track/5TPDSrPco4e7IrYEJg7vv2) | [Andreas Gidlund Five](https://open.spotify.com/artist/77TUX9u0E5esyWr95Iwdg6) | [Maelstrom](https://open.spotify.com/album/5Bhy8KHgwXVuEpuTu6Psgn) | 3:04 | 2023-12-08 | 2024-10-08 |
 | [Maia Oh Maia](https://open.spotify.com/track/3VnChEq3PRsTQ3JPA7Gsh4) | [Mitch Coleman](https://open.spotify.com/artist/5YyVZ8kxK9sRVEg1pBh1PV) | [Maia Oh Maia](https://open.spotify.com/album/2dDG5MRroFXo6i60i5MnPQ) | 3:55 | 2022-11-17 |  |
 | [Make bad worse](https://open.spotify.com/track/0YSEDfbMKIihgvPsqmERWu) | [Ornette Haynes](https://open.spotify.com/artist/5Fb5lnOYweoOU7Xt5qQ1h6) | [Make bad worse](https://open.spotify.com/album/7ty0Qser224kx5eqTevfPq) | 2:40 | 2023-10-06 |  |
@@ -428,7 +430,7 @@
 | [Quietude](https://open.spotify.com/track/5AEe4vHNK8A1nkaxcAUD82) | [Lennie Weston](https://open.spotify.com/artist/2i25BOgCBeXtPKKpj3I0NJ) | [Quietude](https://open.spotify.com/album/1sPWjfQFQLmT1N2QxaPJtc) | 4:14 | 2022-10-13 | 2025-09-12 |
 | [Rainy Mix](https://open.spotify.com/track/2lCpVqpPOJQ30mstKPHBqj) | [Eltingvilles](https://open.spotify.com/artist/7qYYtUCPSVXspwRs4wiQ9R) | [Rainy Mix](https://open.spotify.com/album/35cS4jrVD80N8kb8WspUqV) | 4:37 | 2021-12-07 | 2022-11-25 |
 | [Reflections in Blue](https://open.spotify.com/track/2vq1b2eqBWKZpxoVHECAGs) | [Old Town Trio](https://open.spotify.com/artist/4dSiNMDfIlI3qwNuAlk4dZ) | [Reflections in Blue](https://open.spotify.com/album/4y2Qcm0gdpw1ibhfj4QZD4) | 2:32 | 2023-09-22 |  |
-| [Remembering Benny](https://open.spotify.com/track/7HFXTKZhD4wsko0rty1WIk) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [A Simple Book](https://open.spotify.com/album/49asGdlaiX4oisY9vHf3vt) | 3:49 | 2022-08-11 |  |
+| [Remembering Benny](https://open.spotify.com/track/7HFXTKZhD4wsko0rty1WIk) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [A Simple Book](https://open.spotify.com/album/49asGdlaiX4oisY9vHf3vt) | 3:49 | 2022-08-11 | 2025-11-19 |
 | [Remembrance](https://open.spotify.com/track/20idPJhwG1p86XbpNt5dAJ) | [Ben & Katsy](https://open.spotify.com/artist/7zk65sKwJHv61CsjCr8PVw) | [Remembrance](https://open.spotify.com/album/6dT2PVzDSBtjKXu4EhdezZ) | 4:04 | 2022-08-30 | 2023-10-20 |
 | [Remembrance](https://open.spotify.com/track/0kbWuiN6FdHJXu1xCBVxvW) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [Remembrance](https://open.spotify.com/album/6aO2ui4ldnUa338vXUkMGz) | 3:10 | 2022-08-30 | 2023-09-15 |
 | [Reminiscence](https://open.spotify.com/track/4SjpZ8cCLF6LjCKLr3zZNj) | [The Levon Trio](https://open.spotify.com/artist/08hb6f203kyAPrQkV3LlFZ) | [Reminiscence](https://open.spotify.com/album/16oWfTUfptSqQ1xF9WaJLE) | 2:47 | 2023-06-01 |  |

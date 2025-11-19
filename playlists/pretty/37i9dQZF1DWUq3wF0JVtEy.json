@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out.",
-  "num_followers": 920679,
+  "num_followers": 920588,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
@@ -687,6 +687,22 @@
     {
       "added_at": "2025-11-07 05:00:42",
       "album": {
+        "name": "Goosebumps",
+        "url": "https://open.spotify.com/album/3MoEKmUWinVchDsrOmka16"
+      },
+      "artists": [
+        {
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+        }
+      ],
+      "duration_ms": 150128,
+      "name": "Goosebumps",
+      "url": "https://open.spotify.com/track/1pjBBHUjHqS92OmaNa2fWS"
+    },
+    {
+      "added_at": "2025-11-07 05:00:42",
+      "album": {
         "name": "Let Me Think About It Again",
         "url": "https://open.spotify.com/album/5BiDACecOtLeeDR7ElF7zz"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 195813,
       "name": "Let Me Think About It Again",
       "url": "https://open.spotify.com/track/4J4Fk7x2y8jQBxm332n0oY"
-    },
-    {
-      "added_at": "2025-11-07 05:00:42",
-      "album": {
-        "name": "Goosebumps",
-        "url": "https://open.spotify.com/album/3MoEKmUWinVchDsrOmka16"
-      },
-      "artists": [
-        {
-          "name": "Sick Individuals",
-          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
-        }
-      ],
-      "duration_ms": 150128,
-      "name": "Goosebumps",
-      "url": "https://open.spotify.com/track/1pjBBHUjHqS92OmaNa2fWS"
     },
     {
       "added_at": "2025-11-07 05:00:42",
@@ -891,30 +891,6 @@
     {
       "added_at": "2025-11-07 05:00:42",
       "album": {
-        "name": "Party After Party",
-        "url": "https://open.spotify.com/album/26FYs9Ps8SnNuwJLJrFeUd"
-      },
-      "artists": [
-        {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
-        },
-        {
-          "name": "Azooland",
-          "url": "https://open.spotify.com/artist/57Vi4e6NaX8OZqeYCJq4kQ"
-        },
-        {
-          "name": "Tim Bell",
-          "url": "https://open.spotify.com/artist/13AFo4856ytys2f6kQqAlY"
-        }
-      ],
-      "duration_ms": 159230,
-      "name": "Party After Party",
-      "url": "https://open.spotify.com/track/0IJxq5nQv9coXjtmm2vF0e"
-    },
-    {
-      "added_at": "2025-11-07 05:00:42",
-      "album": {
         "name": "Party All The Time (D.O.D Remix)",
         "url": "https://open.spotify.com/album/0ko9z0wMuLm1sDVhKYS4lg"
       },
@@ -939,6 +915,30 @@
     {
       "added_at": "2025-11-07 05:00:42",
       "album": {
+        "name": "Party After Party",
+        "url": "https://open.spotify.com/album/26FYs9Ps8SnNuwJLJrFeUd"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        },
+        {
+          "name": "Azooland",
+          "url": "https://open.spotify.com/artist/57Vi4e6NaX8OZqeYCJq4kQ"
+        },
+        {
+          "name": "Tim Bell",
+          "url": "https://open.spotify.com/artist/13AFo4856ytys2f6kQqAlY"
+        }
+      ],
+      "duration_ms": 159230,
+      "name": "Party After Party",
+      "url": "https://open.spotify.com/track/0IJxq5nQv9coXjtmm2vF0e"
+    },
+    {
+      "added_at": "2025-11-07 05:00:42",
+      "album": {
         "name": "Power Stone",
         "url": "https://open.spotify.com/album/6no9wONT4kamphMKX8DyG0"
       },
@@ -951,22 +951,6 @@
       "duration_ms": 167272,
       "name": "Power Stone",
       "url": "https://open.spotify.com/track/5FufznQatRZsjumawlLbbo"
-    },
-    {
-      "added_at": "2025-11-07 05:00:42",
-      "album": {
-        "name": "Beast Mode (Knock You Out)",
-        "url": "https://open.spotify.com/album/6k5C7dt5RAZZ7oTzoF7LBc"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 164761,
-      "name": "Beast Mode (Knock You Out)",
-      "url": "https://open.spotify.com/track/460FLlsVLaDLzPTclcuOl4"
     },
     {
       "added_at": "2025-11-07 05:00:42",
@@ -991,6 +975,22 @@
       "duration_ms": 166190,
       "name": "Feeling Good",
       "url": "https://open.spotify.com/track/1lA8kHc8maFVVa8pDXw2BN"
+    },
+    {
+      "added_at": "2025-11-07 05:00:42",
+      "album": {
+        "name": "Beast Mode (Knock You Out)",
+        "url": "https://open.spotify.com/album/6k5C7dt5RAZZ7oTzoF7LBc"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 164761,
+      "name": "Beast Mode (Knock You Out)",
+      "url": "https://open.spotify.com/track/460FLlsVLaDLzPTclcuOl4"
     },
     {
       "added_at": "2025-11-07 05:00:42",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2025-11-07 05:00:42",
       "album": {
+        "name": "Pump Up The Bass",
+        "url": "https://open.spotify.com/album/3pvkvEhntrf8LSkFYqRzVk"
+      },
+      "artists": [
+        {
+          "name": "D'Angello & Francis",
+          "url": "https://open.spotify.com/artist/63YpQAD9YjknZPfMVYqyIK"
+        }
+      ],
+      "duration_ms": 214625,
+      "name": "Pump Up The Bass",
+      "url": "https://open.spotify.com/track/3iQAh7rg2thgBt1hm6rUca"
+    },
+    {
+      "added_at": "2025-11-07 05:00:42",
+      "album": {
         "name": "Outer Space",
         "url": "https://open.spotify.com/album/3MIrhsxTtEXfqgzRkvU5DY"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 192382,
       "name": "Outer Space",
       "url": "https://open.spotify.com/track/4BSpzPw0jNM5YdfE6rbFi9"
-    },
-    {
-      "added_at": "2025-11-07 05:00:42",
-      "album": {
-        "name": "Pump Up The Bass",
-        "url": "https://open.spotify.com/album/3pvkvEhntrf8LSkFYqRzVk"
-      },
-      "artists": [
-        {
-          "name": "D'Angello & Francis",
-          "url": "https://open.spotify.com/artist/63YpQAD9YjknZPfMVYqyIK"
-        }
-      ],
-      "duration_ms": 214625,
-      "name": "Pump Up The Bass",
-      "url": "https://open.spotify.com/track/3iQAh7rg2thgBt1hm6rUca"
     },
     {
       "added_at": "2025-11-07 05:00:42",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2025-11-07 05:00:42",
       "album": {
-        "name": "Don't Stop",
-        "url": "https://open.spotify.com/album/55vK8u3nIuOGLwg2t2TwmE"
-      },
-      "artists": [
-        {
-          "name": "Marten H\u00f8rger",
-          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
-        }
-      ],
-      "duration_ms": 177187,
-      "name": "Don't Stop",
-      "url": "https://open.spotify.com/track/1exrUHaSRlgqZspTt4iRpB"
-    },
-    {
-      "added_at": "2025-11-07 05:00:42",
-      "album": {
         "name": "Anywhere You Go",
         "url": "https://open.spotify.com/album/6mRvKOoHZhmm0MLoztR9ky"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 181934,
       "name": "Anywhere You Go",
       "url": "https://open.spotify.com/track/1fFu4J4awCBu1zuwyLrWWh"
+    },
+    {
+      "added_at": "2025-11-07 05:00:42",
+      "album": {
+        "name": "Don't Stop",
+        "url": "https://open.spotify.com/album/55vK8u3nIuOGLwg2t2TwmE"
+      },
+      "artists": [
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        }
+      ],
+      "duration_ms": 177187,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/1exrUHaSRlgqZspTt4iRpB"
     },
     {
       "added_at": "2025-11-07 05:00:42",
@@ -1427,26 +1427,6 @@
     {
       "added_at": "2025-11-07 05:00:42",
       "album": {
-        "name": "Quick Highs",
-        "url": "https://open.spotify.com/album/7JyrchSeYCqkjbzrajEXOf"
-      },
-      "artists": [
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        },
-        {
-          "name": "Helen",
-          "url": "https://open.spotify.com/artist/2z2l9z2yioLWSoCECNIyEl"
-        }
-      ],
-      "duration_ms": 194243,
-      "name": "Quick Highs",
-      "url": "https://open.spotify.com/track/46Gsf4884pmAWdul0n5Px0"
-    },
-    {
-      "added_at": "2025-11-07 05:00:42",
-      "album": {
         "name": "Arsonist",
         "url": "https://open.spotify.com/album/0itXC9BJZhqiNjNXFwwdln"
       },
@@ -1467,22 +1447,22 @@
     {
       "added_at": "2025-11-07 05:00:42",
       "album": {
-        "name": "Free My Mind",
-        "url": "https://open.spotify.com/album/2OUYqhPPHwCd9K4u8qO9jU"
+        "name": "Quick Highs",
+        "url": "https://open.spotify.com/album/7JyrchSeYCqkjbzrajEXOf"
       },
       "artists": [
         {
-          "name": "Dr. Fresch",
-          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
         },
         {
-          "name": "Marten H\u00f8rger",
-          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+          "name": "Helen",
+          "url": "https://open.spotify.com/artist/2z2l9z2yioLWSoCECNIyEl"
         }
       ],
-      "duration_ms": 171076,
-      "name": "Free My Mind",
-      "url": "https://open.spotify.com/track/4mYWE9Agg0hvKuaOaej6vF"
+      "duration_ms": 194243,
+      "name": "Quick Highs",
+      "url": "https://open.spotify.com/track/46Gsf4884pmAWdul0n5Px0"
     },
     {
       "added_at": "2025-11-07 05:00:42",
@@ -1503,6 +1483,26 @@
       "duration_ms": 151384,
       "name": "All Night",
       "url": "https://open.spotify.com/track/6wpIGFUcDUSg2l75npKFdU"
+    },
+    {
+      "added_at": "2025-11-07 05:00:42",
+      "album": {
+        "name": "Free My Mind",
+        "url": "https://open.spotify.com/album/2OUYqhPPHwCd9K4u8qO9jU"
+      },
+      "artists": [
+        {
+          "name": "Dr. Fresch",
+          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
+        },
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        }
+      ],
+      "duration_ms": 171076,
+      "name": "Free My Mind",
+      "url": "https://open.spotify.com/track/4mYWE9Agg0hvKuaOaej6vF"
     },
     {
       "added_at": "2025-11-07 05:00:42",
@@ -1651,6 +1651,26 @@
     {
       "added_at": "2025-11-07 05:00:42",
       "album": {
+        "name": "I Wanna",
+        "url": "https://open.spotify.com/album/4hCKZABBaMgkZgDb7CizQR"
+      },
+      "artists": [
+        {
+          "name": "JSTJR",
+          "url": "https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP"
+        },
+        {
+          "name": "Henry Fong",
+          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
+        }
+      ],
+      "duration_ms": 155520,
+      "name": "I Wanna",
+      "url": "https://open.spotify.com/track/05a3JJNTzhoBFtux514zLj"
+    },
+    {
+      "added_at": "2025-11-07 05:00:42",
+      "album": {
         "name": "Genesis (Don Diablo Edit)",
         "url": "https://open.spotify.com/album/5t5GtF3wm4p8c7wLDMBVvz"
       },
@@ -1675,26 +1695,6 @@
       "duration_ms": 196876,
       "name": "Genesis - Don Diablo Edit",
       "url": "https://open.spotify.com/track/4aPh4IKYRg2fm4sqxLFo8b"
-    },
-    {
-      "added_at": "2025-11-07 05:00:42",
-      "album": {
-        "name": "I Wanna",
-        "url": "https://open.spotify.com/album/4hCKZABBaMgkZgDb7CizQR"
-      },
-      "artists": [
-        {
-          "name": "JSTJR",
-          "url": "https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP"
-        },
-        {
-          "name": "Henry Fong",
-          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
-        }
-      ],
-      "duration_ms": 155520,
-      "name": "I Wanna",
-      "url": "https://open.spotify.com/track/05a3JJNTzhoBFtux514zLj"
     },
     {
       "added_at": "2025-11-07 05:00:42",

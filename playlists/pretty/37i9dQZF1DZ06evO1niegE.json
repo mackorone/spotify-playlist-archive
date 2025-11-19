@@ -1,12 +1,12 @@
 {
   "description": "This is RENEE. The essential tracks, all in one playlist.",
-  "num_followers": 8766,
+  "num_followers": 8771,
   "original_name": "This Is RENEE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRkUAAAAAAC5ZyCEmOKOfKLCq+7q4bM9",
+  "snapshot_id": "aRplgAAAAAB2meeqAGC0pmc/RNgKU9JN",
   "tracks": [
     {
       "added_at": null,
@@ -123,22 +123,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blockbuster",
-        "url": "https://open.spotify.com/album/5a159rNIxq78lGa4qnoZBL"
+        "name": "NMDQH",
+        "url": "https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x"
       },
       "artists": [
-        {
-          "name": "La La Love You",
-          "url": "https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ"
-        },
         {
           "name": "RENEE",
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 189310,
-      "name": "Quiero Quedarme para Siempre",
-      "url": "https://open.spotify.com/track/78LESagKrWYm0P9E4cyRSj"
+      "duration_ms": 181080,
+      "name": "Playlist",
+      "url": "https://open.spotify.com/track/3KPJ4CtYpCRWt69gYaeQaH"
     },
     {
       "added_at": null,
@@ -159,18 +155,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "NMDQH",
-        "url": "https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x"
+        "name": "Blockbuster",
+        "url": "https://open.spotify.com/album/5a159rNIxq78lGa4qnoZBL"
       },
       "artists": [
+        {
+          "name": "La La Love You",
+          "url": "https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ"
+        },
         {
           "name": "RENEE",
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 181080,
-      "name": "Playlist",
-      "url": "https://open.spotify.com/track/3KPJ4CtYpCRWt69gYaeQaH"
+      "duration_ms": 189310,
+      "name": "Quiero Quedarme para Siempre",
+      "url": "https://open.spotify.com/track/78LESagKrWYm0P9E4cyRSj"
     },
     {
       "added_at": null,
@@ -395,22 +395,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Imperfecto",
-        "url": "https://open.spotify.com/album/5ldOIiMp33j3EbswWK0Ipv"
+        "name": "Rakata",
+        "url": "https://open.spotify.com/album/3NU2lWZGlLBk3ojxy0yE2E"
       },
       "artists": [
         {
-          "name": "Meri Deal",
-          "url": "https://open.spotify.com/artist/7zREGj8GMl9UrDa6NPLi0H"
+          "name": "The Jungle Giants",
+          "url": "https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt"
         },
         {
           "name": "RENEE",
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 181181,
-      "name": "Imperfecto",
-      "url": "https://open.spotify.com/track/5V60OhB9WYqDhG8va96eCS"
+      "duration_ms": 182384,
+      "name": "Rakata",
+      "url": "https://open.spotify.com/track/14JaytPzvtwvCxCpsEVyYE"
     },
     {
       "added_at": null,
@@ -447,22 +447,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rakata",
-        "url": "https://open.spotify.com/album/3NU2lWZGlLBk3ojxy0yE2E"
+        "name": "Imperfecto",
+        "url": "https://open.spotify.com/album/5ldOIiMp33j3EbswWK0Ipv"
       },
       "artists": [
         {
-          "name": "The Jungle Giants",
-          "url": "https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt"
+          "name": "Meri Deal",
+          "url": "https://open.spotify.com/artist/7zREGj8GMl9UrDa6NPLi0H"
         },
         {
           "name": "RENEE",
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 182384,
-      "name": "Rakata",
-      "url": "https://open.spotify.com/track/14JaytPzvtwvCxCpsEVyYE"
+      "duration_ms": 181181,
+      "name": "Imperfecto",
+      "url": "https://open.spotify.com/track/5V60OhB9WYqDhG8va96eCS"
     },
     {
       "added_at": null,
@@ -659,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "mucho texto",
+        "url": "https://open.spotify.com/album/5yL8fe4bb8GLP3lCUHmWba"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 201453,
+      "name": "mucho texto",
+      "url": "https://open.spotify.com/track/52bveGvtg6PtlEVxtxH5T4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tiki Tai",
         "url": "https://open.spotify.com/album/2oDU6B51AlXlUm5DkoDcUu"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 224533,
       "name": "A\u00fan Hay Algo",
       "url": "https://open.spotify.com/track/42q8MaOL25k3ZTz3Wa8xU2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "mucho texto",
-        "url": "https://open.spotify.com/album/5yL8fe4bb8GLP3lCUHmWba"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 201453,
-      "name": "mucho texto",
-      "url": "https://open.spotify.com/track/52bveGvtg6PtlEVxtxH5T4"
     },
     {
       "added_at": null,

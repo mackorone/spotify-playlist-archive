@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFRZSqP41al.md) - [plain]
 
 > Burn off all those beers from last night.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,482,126 likes - 60 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,482,334 likes - 60 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,13 +60,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFRZSqP41al.md) - [plain]
 | 50 | [Live to Rise](https://open.spotify.com/track/579801BT5wkzD5IVwRLI8t) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Live to Rise](https://open.spotify.com/album/0AhVRxG0GqFP4yTZWhJaCm) | 4:40 |
 | 51 | [Death by Rock and Roll](https://open.spotify.com/track/5Y2myqmZH2D83n04mbznFe) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Death by Rock and Roll](https://open.spotify.com/album/47WkGfixV8LaP0U34pNRPX) | 3:54 |
 | 52 | [Love Bites \(So Do I\)](https://open.spotify.com/track/6RWArMm7oXa5WAzpqIjLg1) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Hello, It's Mz\. Hyde](https://open.spotify.com/album/1b9y3Jp9B2BllmRLMFcFXE) | 3:12 |
-| 53 | [Into The Fire](https://open.spotify.com/track/1DOJAC971RZsoIdyM5sB53) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Asking Alexandria](https://open.spotify.com/album/6NVy2LKa43nSPUOMrL4NW6) | 3:57 |
-| 54 | [Made An America](https://open.spotify.com/track/0Q6AD7e7d9tpN1dXL4qh5P) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [Made An America](https://open.spotify.com/album/6HLseXtiQsGBeLaQ43Pm6G) | 2:53 |
+| 53 | [Made An America](https://open.spotify.com/track/0Q6AD7e7d9tpN1dXL4qh5P) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [Made An America](https://open.spotify.com/album/6HLseXtiQsGBeLaQ43Pm6G) | 2:53 |
+| 54 | [Into The Fire](https://open.spotify.com/track/1DOJAC971RZsoIdyM5sB53) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Asking Alexandria](https://open.spotify.com/album/6NVy2LKa43nSPUOMrL4NW6) | 3:57 |
 | 55 | [A Weak Ago](https://open.spotify.com/track/3rY98pNrVY2OOacnbxbI0E) | [letlive.](https://open.spotify.com/artist/5ACBALsFxT5Ab3gVe8yyPs) | [If I'm The Devil...](https://open.spotify.com/album/0B3HzbLCsafcQHlOSNpnwg) | 3:11 |
 | 56 | [If Not for You](https://open.spotify.com/track/0YErfApccjJFLU9KvVd0Lv) | [Tremonti](https://open.spotify.com/artist/44tQC1PjxXIpEgW0i8uN00) | [Marching in Time](https://open.spotify.com/album/0kxRp8FlcQ0Sx2edzWzEGe) | 4:10 |
 | 57 | [I Remember](https://open.spotify.com/track/3XDP2NR8lCbyU2mohcsZXq) | [10 Years](https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph) | [I Remember](https://open.spotify.com/album/6hP42dqjbIWOS8gdHXWueK) | 3:08 |
 | 58 | [Fuct](https://open.spotify.com/track/75yrIKGSnzJxnmNgGqv5nF) | [Money](https://open.spotify.com/artist/2v0x2qsSuy06OiFIo8zX6s) | [Money](https://open.spotify.com/album/2VXqjyaaqRellg8cw99QVy) | 3:27 |
-| 59 | [Alarm](https://open.spotify.com/track/0xXDWZre8pbWXG6ERdVPof) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Alarm](https://open.spotify.com/album/4C1YUIIGfDYulvbNzHNWXJ) | 2:28 |
-| 60 | [SOMETHING IN THE WATER](https://open.spotify.com/track/6L0pirvFbzNH4OYwd2D74b) | [Kami Kehoe](https://open.spotify.com/artist/2inxPY2UyH8riOrUuLklVR) | [SOMETHING IN THE WATER](https://open.spotify.com/album/60cDTexJ5atkd4g9Rv0abO) | 3:23 |
+| 59 | [BITE BACK](https://open.spotify.com/track/2Z1fwyUIhfq8MrxrR1yvsh) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [WRONG GENERATION](https://open.spotify.com/album/0ENzm2HTf7mfFjWZ7CaB5u) | 3:10 |
+| 60 | [Alarm](https://open.spotify.com/track/0xXDWZre8pbWXG6ERdVPof) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Alarm](https://open.spotify.com/album/4C1YUIIGfDYulvbNzHNWXJ) | 2:28 |
 
 Snapshot ID: `AAAAACjTIYPtwUu7nBQzNZtm61OSJi8s`

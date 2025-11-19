@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjcafaN2Bom.md) - [plain]
 
 > Finish together\. Listen to the official playlist for Sex Education, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,932 likes - 331 songs - 20 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,935 likes - 331 songs - 20 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjcafaN2Bom.md) - [plain]
 | 52 | [Faith](https://open.spotify.com/track/59eAcAyhYSLi5GKFrgHJzG) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Ladies And Gentlemen..\. The Best Of George Michael](https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl) | 3:14 |
 | 53 | [Tell You \(Today\) \- 12" Vocal](https://open.spotify.com/track/2IllryBU9oFx61KtdM1dqO) | [Loose Joints](https://open.spotify.com/artist/0eoOgNAKS0g3piTJlFY173) | [Tell You \(Today\)](https://open.spotify.com/album/6cs8uVA614A8LtJ2cYbKS9) | 7:02 |
 | 54 | [With Or Without You](https://open.spotify.com/track/6QPhpvO1pWDS91EsEmzsbc) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [U218 Singles](https://open.spotify.com/album/0pYUq4UiXNgq8mO23rlHVU) | 4:56 |
-| 55 | [The Gnome](https://open.spotify.com/track/1GqRmuG89ILDLcuAdcli6r) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Piper at the Gates of Dawn](https://open.spotify.com/album/2Se4ZylF9NkFGD92yv1aZC) | 2:13 |
+| 55 | [The Gnome](https://open.spotify.com/track/1GqRmuG89ILDLcuAdcli6r) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Piper at the Gates of Dawn](https://open.spotify.com/album/2Se4ZylF9NkFGD92yv1aZC) | 2:14 |
 | 56 | [Strawberry Letter 23](https://open.spotify.com/track/4W8IEREeLldaSQyGXcZQ2I) | [Shuggie Otis](https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl) | [Freedom Flight](https://open.spotify.com/album/7suTZDEkiDpzkouw300noM) | 3:59 |
 | 57 | [I Got a Name \- Stereo Version](https://open.spotify.com/track/38llcrfX1arUqrEe0DRRzW) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [I Got a Name](https://open.spotify.com/album/4ieaeNOAdq6VoYQrY0hkhq) | 3:14 |
 | 58 | [Push](https://open.spotify.com/track/37yFl9R1N6EK4CS80nEi1I) | [Pharoahe Monch](https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7) | [Desire](https://open.spotify.com/album/0XxYd2lssGlf1jzO77HPcY) | 2:52 |

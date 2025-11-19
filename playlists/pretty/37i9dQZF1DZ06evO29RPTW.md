@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29RPTW.md) - [plain]
 
 > This is Rob Zombie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,008 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,017 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29RPTW.md) - [plain]
 | 49 | [Satanic Cyanide ! The Killer Rocks On !](https://open.spotify.com/track/0rYjattOlPzXJ2BBD0sZqM) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser](https://open.spotify.com/album/4cwVkh8oYGwLGeVM0Jl35K) | 2:58 |
 | 50 | [Burn MF \(feat Rob Zombie\)](https://open.spotify.com/track/0Pzeu20wyR194P9A9Ihmol) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Burn MF \(feat\. Rob Zombie\)](https://open.spotify.com/album/1ZVbge0YzDj1T3769sm7Ey) | 3:37 |
 
-Snapshot ID: `aRkUAAAAAACWU8XDjfuUWcOvyLWpwXHv`
+Snapshot ID: `aRplgAAAAADXT9AFgv/xnp2W4tbWQI4F`

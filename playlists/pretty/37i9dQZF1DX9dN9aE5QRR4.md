@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9dN9aE5QRR4.md) - [plain]
 
 > La playlist officielle de Nouvelle École\. Saison 4, dispo sur Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,171 likes - 82 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,197 likes - 82 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

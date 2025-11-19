@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fidS28dvfw5PquLev6xtQ.md) - [plain]
 
 > &quot;A Day in the Life&quot; has surpassed the great &quot;Starless&quot; but they&\#x27;ll surely flippy floppy every \(2\) week\(s\)
 
-[jimmyswagz](https://open.spotify.com/user/jimmyswagz) - 46 likes - 99 songs - 12 hr 52 min
+[jimmyswagz](https://open.spotify.com/user/jimmyswagz) - 45 likes - 99 songs - 12 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/4fidS28dvfw5PquLev6xtQ.md) - [plain]
 | 10 | [Life on Mars? \- 2015 Remaster](https://open.spotify.com/track/3ZE3wv8V3w2T2f7nOCjV0N) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Hunky Dory \(2015 Remaster\)](https://open.spotify.com/album/6fQElzBNTiEMGdIeY0hy5l) | 3:55 |
 | 11 | [Sing About Me, I'm Dying Of Thirst](https://open.spotify.com/track/69pkT3GewmjhQf6vQWcK2L) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [good kid, m.A.A.d city](https://open.spotify.com/album/0Oq3mWfexhsjUh0aNNBB5u) | 12:03 |
 | 12 | [Helpless Child](https://open.spotify.com/track/7jEfLF7XLMzBNj9w1PBmCq) | [Swans](https://open.spotify.com/artist/79S80ZWgVhIPMCHuvl6SkA) | [Soundtracks for the Blind](https://open.spotify.com/album/7yV8WpwCChvzW3qr5MuzMf) | 15:47 |
-| 13 | [Echoes](https://open.spotify.com/track/7kriFJLY2KOhw5en9iI2jb) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Meddle](https://open.spotify.com/album/468ZwCchVtzEbt9BHmXopb) | 23:32 |
+| 13 | [Echoes](https://open.spotify.com/track/7kriFJLY2KOhw5en9iI2jb) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Meddle](https://open.spotify.com/album/468ZwCchVtzEbt9BHmXopb) | 23:33 |
 | 14 | [When You Sleep](https://open.spotify.com/track/3HfEgAaf0koxBpBB8NvGda) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Loveless](https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6) | 4:11 |
 | 15 | [Ain't it Funny](https://open.spotify.com/track/4tU1vbxn9rvUv9VuAUXERx) | [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [Atrocity Exhibition](https://open.spotify.com/album/3A1vnUJDPz0xYMful9pO4I) | 2:57 |
 | 16 | [How to Disappear Completely](https://open.spotify.com/track/2rtGaCAeYtmcIvuZsvgTf6) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Kid A](https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7) | 5:56 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/4fidS28dvfw5PquLev6xtQ.md) - [plain]
 | 66 | [The Court Of The Crimson King \- Including "The Return of the Fire Witch" and "The Dance of the Puppets"](https://open.spotify.com/track/05xYoVj6QuFk0U7PVl5Tf2) | [King Crimson](https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi) | [In The Court Of The Crimson King \(Expanded & Remastered Original Album Mix\)](https://open.spotify.com/album/6tVg2Wl9hVKMpHYcAl2V2M) | 10:02 |
 | 67 | [The Glowing Man](https://open.spotify.com/track/3J6wfiNUKtgfkyWyi6BJ5e) | [Swans](https://open.spotify.com/artist/79S80ZWgVhIPMCHuvl6SkA) | [The Glowing Man](https://open.spotify.com/album/30FjZ3FGnMz4ita5zhqgkl) | 28:50 |
 | 68 | [Sinnerman](https://open.spotify.com/track/5xRP5iyVdGglqlY4Vcjhkx) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Pastel Blues](https://open.spotify.com/album/31pd81sWDaK2pP3ok5892z) | 10:22 |
-| 69 | [Dogs](https://open.spotify.com/track/2jvuMDqBK04WvCYYz5qjvG) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Animals](https://open.spotify.com/album/3b4E89rxzZQ9zkhgKpj8N4) | 17:05 |
+| 69 | [Dogs](https://open.spotify.com/track/2jvuMDqBK04WvCYYz5qjvG) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Animals](https://open.spotify.com/album/3b4E89rxzZQ9zkhgKpj8N4) | 17:04 |
 | 70 | [Roundabout \- 2024 Remaster](https://open.spotify.com/track/466C6kwoJHLUJ8VHG98hCY) | [Yes](https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil) | [Fragile \(Super Deluxe\)](https://open.spotify.com/album/78tN6vBPHHyNk4sZYnS5X4) | 8:36 |
 | 71 | [Summer's Gone \-second season ver\-](https://open.spotify.com/track/7qKohSGg9hmRNR9bSO4KUI) | [honeydip](https://open.spotify.com/artist/2UWMhQk46Coymimh2Hky4m) | [Another Sunny Day \-Remastered\-](https://open.spotify.com/album/7zxYI7jjVJGsV3nF2wheBt) | 6:51 |
 | 72 | [Gimme Shelter \- Remastered 2019](https://open.spotify.com/track/14uQWXYRflpBP8J6olZ8mH) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Let It Bleed \(50th Anniversary Edition / Remastered 2019\)](https://open.spotify.com/album/47hOpZQfXVIRzTiv0Ef8pO) | 4:30 |

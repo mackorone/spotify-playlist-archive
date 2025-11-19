@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSsMGLY4ULm9.md) - [plain]
 | 25 | [Te Encher Pra Não Parar](https://open.spotify.com/track/2te9iYdXW8RvT7f5g1TjQt) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz), [Debora Torres](https://open.spotify.com/artist/3dkJrC0qUslIThb7IQOyJx) | [Te Encher Pra Não Parar](https://open.spotify.com/album/2ZCPGQh3ysOIpzGiYliV0v) | 4:24 |
 | 26 | [Deixa Que Ele Abre](https://open.spotify.com/track/6IX3QO2jSkTFS3Ae9NSJfe) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Resolvi Te Abençoar](https://open.spotify.com/album/4NYaqpow0G4q8KrI6IZYGd) | 4:07 |
 | 27 | [Não Pare de Adorar](https://open.spotify.com/track/3ErJFFq3o2CfrwRgXhomJj) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Resolvi Te Abençoar](https://open.spotify.com/album/4NYaqpow0G4q8KrI6IZYGd) | 4:12 |
-| 28 | [Chuva Serôdia](https://open.spotify.com/track/6UBJg3GEL8xLZ4QrxRz3hY) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Chuva Serôdia](https://open.spotify.com/album/1xdUin6acHTZ8YvjX4Blxs) | 5:51 |
-| 29 | [O Quarto Homem](https://open.spotify.com/track/2ReCseW2bnEOxpTt9Cil6E) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [A Glória da Meia\-Noite](https://open.spotify.com/album/2y7YS8hT5nhTepN8sPOAkL) | 6:30 |
+| 28 | [O Quarto Homem](https://open.spotify.com/track/2ReCseW2bnEOxpTt9Cil6E) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [A Glória da Meia\-Noite](https://open.spotify.com/album/2y7YS8hT5nhTepN8sPOAkL) | 6:30 |
+| 29 | [Chuva Serôdia](https://open.spotify.com/track/6UBJg3GEL8xLZ4QrxRz3hY) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Chuva Serôdia](https://open.spotify.com/album/1xdUin6acHTZ8YvjX4Blxs) | 5:51 |
 | 30 | [Tanque de Betesda](https://open.spotify.com/track/7adnIvq5gkyfZ8pF7hfvyF) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Seu Nome É Já](https://open.spotify.com/album/3LjAdB9njhpYvMGA9Je4Lt) | 5:14 |
 | 31 | [Gideão](https://open.spotify.com/track/2qquzytuxuLr396dtGz77l) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Resolvi Te Abençoar](https://open.spotify.com/album/4NYaqpow0G4q8KrI6IZYGd) | 4:46 |
 | 32 | [Esta É a Tua Hora](https://open.spotify.com/track/57f1G2wahTXKaR4JBoxzzq) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Chuva Serôdia](https://open.spotify.com/album/1xdUin6acHTZ8YvjX4Blxs) | 4:21 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSsMGLY4ULm9.md) - [plain]
 | 62 | [Cristo É a Esperança](https://open.spotify.com/track/0gKuqhPZCKoEEZdcBgJF4W) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [A Glória da Meia\-Noite](https://open.spotify.com/album/2y7YS8hT5nhTepN8sPOAkL) | 5:38 |
 | 63 | [João Viu](https://open.spotify.com/track/56xECx4qsFLwq7LFcC3hgK) | [Raquel Coutinho](https://open.spotify.com/artist/3SFmogeXtsLZ6p6HOWBRNG) | [De Bem Com Deus](https://open.spotify.com/album/0jU9n891TACEZppbJpzImE) | 5:28 |
 
-Snapshot ID: `AcB3HAAAAACgmPhJkDMrzBdgpl16iDz3`
+Snapshot ID: `AcB85AAAAADqONIB44/0dv7hmv6rrLxn`

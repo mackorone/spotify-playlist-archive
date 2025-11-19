@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zJGRjWhK7Q.md) - [plain]
 
 > Lo mejor de los '70\. Foto: Ismael Rivera
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,133 likes - 50 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,175 likes - 50 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zJGRjWhK7Q.md) - [plain]
 | 23 | [El Raton](https://open.spotify.com/track/6Zsm8QFqZ4jQhrVnTkzTqA) | [Cheo Feliciano](https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC) | [A Man And His Music](https://open.spotify.com/album/5ooBxlDpe7vgUqHlVekC89) | 3:50 |
 | 24 | [Quitate La Mascara](https://open.spotify.com/track/4k7UQjVkgyqAJ3pEK511YS) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [From the Beginning](https://open.spotify.com/album/3nr9RkYkXpSjmuoyK3IosZ) | 4:31 |
 | 25 | [Mujer Divina](https://open.spotify.com/track/67MXiEsdYo4tYEwIybqgGG) | [Joe Cuba Sextet](https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj) | [Hecho y Derecho \(Doin' It Right\)](https://open.spotify.com/album/65EJIebSAXNM4Fu1oHnecX) | 4:55 |
-| 26 | [Lloraras \- Edit](https://open.spotify.com/track/4Ke0C7xrEiTCZjVGiJWSAM) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ), [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6), [La Dimensión Latina](https://open.spotify.com/artist/5wb8MfrYdUEBSg71SKD0A5) | [Billo's Caracas Boys vs\. Dimension Latina](https://open.spotify.com/album/6V8ZCOf6L8taOSseOwrSUu) | 3:45 |
+| 26 | [Lloraras \- Edit](https://open.spotify.com/track/4Ke0C7xrEiTCZjVGiJWSAM) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6), [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ), [La Dimensión Latina](https://open.spotify.com/artist/5wb8MfrYdUEBSg71SKD0A5) | [Billo's Caracas Boys vs\. Dimension Latina](https://open.spotify.com/album/6V8ZCOf6L8taOSseOwrSUu) | 3:45 |
 | 27 | [Mi Gente](https://open.spotify.com/track/5K9yjxT0XGQbmD5GzjmqYz) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [La Voz](https://open.spotify.com/album/2Y2Kj57DPjmxAVgDRhLxrx) | 5:28 |
 | 28 | [El Negro Bembon](https://open.spotify.com/track/1xVSHCVq7yfjl3txyq9dsw) | [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [El Sonero Mayor](https://open.spotify.com/album/2lV3Tmgb4lIv6CbVJKJmjZ) | 3:03 |
 | 29 | [Sonido Bestial](https://open.spotify.com/track/682K8AJvxcAaUWgjuQSmmN) | [Richie Ray & Bobby Cruz](https://open.spotify.com/artist/56eTRCwZ13vVWAmrG0dMnq) | [A life time of Hits.\. \(Live At Centro De Bellas Artes, San Juan, Puerto Rico.\)](https://open.spotify.com/album/6ZcpYhA2AErirv2nt3R7U2) | 9:58 |

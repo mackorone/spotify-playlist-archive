@@ -4,7 +4,7 @@
 
 > Rock, indie e punk dall'Italia 🎸 Marta Del Grandi in cover
 
-1,728 songs - 3 day 23 hr 54 min
+1,729 songs - 3 day 23 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -317,6 +317,7 @@
 | [Claudio](https://open.spotify.com/track/1FCZL1dhHzXjNQ41PudYm0) | [Turbetto](https://open.spotify.com/artist/5RMf5E5n45iyMgwo8uQQyA) | [Claudio](https://open.spotify.com/album/1dRqIynMDy4rKbG8mus1Tp) | 2:15 | 2023-04-27 | 2023-05-12 |
 | [Clever](https://open.spotify.com/track/4BZ4ln6z5H7xu5JiOJKign) | [The Bloody Beetroots](https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5), [PENGSHUi](https://open.spotify.com/artist/7F8CwvvwIi7GJvZ7qD2ybR) | [Clever](https://open.spotify.com/album/2m2ZKSiyQkfdxV7NVW86aW) | 2:39 | 2025-08-28 | 2025-10-04 |
 | [COCKTAIL DI GAMBERI](https://open.spotify.com/track/33vOPQa2XqAjPPTrj6uVGK) | [Giovanni Ti Amo](https://open.spotify.com/artist/29OsfkIbRZNyCeodZ0uc6K) | [COCKTAIL DI GAMBERI](https://open.spotify.com/album/57d3CXrTKi7iX7G0G9vDZq) | 2:40 | 2024-04-18 | 2024-06-01 |
+| [Cocoon](https://open.spotify.com/track/6D4ggqizOhkUMbVVBvoHlB) | [Fight Pausa](https://open.spotify.com/artist/1BkdvKE1YNIAAWrLNzLWKU) | [Cocoon](https://open.spotify.com/album/2uwbXDzfDu2CIU4nfCklvH) | 2:49 | 2025-11-18 |  |
 | [Cold Hands](https://open.spotify.com/track/3seAP5VNmMNhDgW3mU3PD4) | [Leatherette](https://open.spotify.com/artist/4nAQf14Uz5C0uSACkrNwIW) | [Cold Hands](https://open.spotify.com/album/4tat8E8Y65ekxRmKwC9KZA) | 2:17 | 2025-11-06 |  |
 | [Coldblooded](https://open.spotify.com/track/6ttVgUvfahHGsuyROn3vfB) | [The Scurbats](https://open.spotify.com/artist/4d8AvpY3Yxd7OitgKNnqGw) | [Coldblooded](https://open.spotify.com/album/2cozkJTxZVl5OmftKW5Toj) | 2:03 | 2022-12-15 | 2023-01-27 |
 | [Colla](https://open.spotify.com/track/4a3awPGBs7bOjg2JHLsbec) | [Arianna Pasini](https://open.spotify.com/artist/0PvxzN9MSvVMYj0b0fuwzA) | [Colla](https://open.spotify.com/album/2bkwrzobOPDqvZuTMHwTw6) | 3:11 | 2024-02-22 | 2024-03-15 |

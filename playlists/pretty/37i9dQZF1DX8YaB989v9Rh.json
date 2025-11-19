@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/blaircaldwell/\">Blair Caldwell</a>",
-  "num_followers": 29500,
+  "num_followers": 29509,
   "original_name": "Blair Caldwell's Taste",
   "owner": {
     "name": "Spotify",
@@ -839,6 +839,22 @@
     {
       "added_at": "2022-10-01 16:13:28",
       "album": {
+        "name": "St. Elsewhere",
+        "url": "https://open.spotify.com/album/7p2aWivr9OLXocSTTKtG9B"
+      },
+      "artists": [
+        {
+          "name": "Gnarls Barkley",
+          "url": "https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH"
+        }
+      ],
+      "duration_ms": 182066,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/2N5zMZX7YeL1tico8oQxa9"
+    },
+    {
+      "added_at": "2022-10-01 16:13:28",
+      "album": {
         "name": "Shine",
         "url": "https://open.spotify.com/album/5y4Ikuc4sLtNOpanoKKqwo"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 284733,
       "name": "American Boy",
       "url": "https://open.spotify.com/track/22UDw8rSfLbUsaAGTXQ4Z8"
-    },
-    {
-      "added_at": "2022-10-01 16:13:28",
-      "album": {
-        "name": "St. Elsewhere",
-        "url": "https://open.spotify.com/album/7p2aWivr9OLXocSTTKtG9B"
-      },
-      "artists": [
-        {
-          "name": "Gnarls Barkley",
-          "url": "https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH"
-        }
-      ],
-      "duration_ms": 182066,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/2N5zMZX7YeL1tico8oQxa9"
     },
     {
       "added_at": "2022-10-01 16:13:28",

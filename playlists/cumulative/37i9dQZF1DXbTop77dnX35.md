@@ -4,7 +4,7 @@
 
 > New Music from Seyi Vibez, teni, Omah Lay, Moliy, Wande Coal,  and more
 
-4,376 songs - 9 day 4 hr 10 min
+4,377 songs - 9 day 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1408,6 +1408,7 @@
 | [Gen\-Z Baddies](https://open.spotify.com/track/5pmgEg9Dl2fZsmvuhqkre5) | [Major x](https://open.spotify.com/artist/7gidyRKuc9xiuuUXZAIw0I), [FirstKlaz](https://open.spotify.com/artist/6VPpDxzOXTPNsdxfJ5cAR5) | [Baddies Love X](https://open.spotify.com/album/0z3OH64M3QfZVlAyRMlo7B) | 2:26 | 2024-11-15 | 2024-11-22 |
 | [Gen\-Z Faaji](https://open.spotify.com/track/6ML4o3KWB24d8R7RU6fVkl) | [FirstKlaz](https://open.spotify.com/artist/6VPpDxzOXTPNsdxfJ5cAR5), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Gen\-Z Faaji](https://open.spotify.com/album/3cYGt8zKA4oN1JFIiXGd7Z) | 3:39 | 2024-06-14 | 2024-06-21 |
 | [General](https://open.spotify.com/track/0aG4heCOR0XzZqU7HmDLjt) | [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Cavy In The City](https://open.spotify.com/album/1RMuLxHOH6unGqvqGlzvRa) | 2:31 | 2025-10-31 | 2025-11-07 |
+| [General!\(Izzy\)](https://open.spotify.com/track/5Wq4DVfCOA3Ke0jgvNKlrk) | [Jenerall](https://open.spotify.com/artist/3hbTC1Tq9rBt0w7Bf2Ln6x), [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [General!\(Izzy\)](https://open.spotify.com/album/1bEVUFhGf1BsqVXCYzk5rD) | 2:47 | 2025-11-14 |  |
 | [Gentle Baby](https://open.spotify.com/track/2WsP9OSJYPttgj0Zptt0rk) | [Fimi](https://open.spotify.com/artist/4ZnAdq8niwc3MnthK4ujdr) | [Gentle Baby](https://open.spotify.com/album/6ftxNFksrLfwHymv4jsSiZ) | 2:29 | 2025-08-01 | 2025-08-08 |
 | [Gentleman](https://open.spotify.com/track/7N19Zf0ynOJTCEWbAQIgiw) | [Krista](https://open.spotify.com/artist/7bzt2DfxmIpsQfojRyswo8) | [Gentleman](https://open.spotify.com/album/1BjC7VYSrkx6Xzx5Nk6nzF) | 2:54 | 2024-09-20 | 2024-09-27 |
 | [Georgia Ways \(with Teddy Swims & Luke Bryan\)](https://open.spotify.com/track/64YCRnMmAcj4982RtwNaag) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Georgia Ways \(with Teddy Swims & Luke Bryan\)](https://open.spotify.com/album/4MvWcgCB3dBfSgW8dctJ2h) | 2:48 | 2024-12-06 | 2024-12-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4DLyjRH9elAil3nXGatCcY.md) - [plain]
 
 > 
 
-[Melody](https://open.spotify.com/user/lemo1sgsji7o3jac2spebn5ih) - 7,571 likes - 520 songs - 1 day 10 hr 33 min
+[Melody](https://open.spotify.com/user/lemo1sgsji7o3jac2spebn5ih) - 7,570 likes - 520 songs - 1 day 10 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -296,7 +296,7 @@ pretty - [cumulative](/playlists/cumulative/4DLyjRH9elAil3nXGatCcY.md) - [plain]
 | 286 | [Snakes \(from the series Arcane League of Legends\)](https://open.spotify.com/track/7AEvaz0EOmlqN27o6zpt3k) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy), [MIYAVI](https://open.spotify.com/artist/7sBtBCNVRujQhaHDODkfTN) | [Arcane League of Legends \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/3MdiH74FL8mhlbnR6DcqJd) | 2:41 |
 | 287 | [It Makes You Forget \(Itgehane\)](https://open.spotify.com/track/6GRos6Klc30XItsQtGUcak) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [It Makes You Forget \(Itgehane\)](https://open.spotify.com/album/6KQHrwJdcPIUx1mb97b1Nj) | 6:35 |
 | 288 | [Introduction](https://open.spotify.com/track/6QxU5bolzbNZTxUihxnbqc) | [Solar Fields](https://open.spotify.com/artist/7GyhmlEy51sGUE09A5AWzc) | [Mirror's Edge Original Videogame Score](https://open.spotify.com/album/7fS5tGixMNR7s3G5Eh515y) | 5:34 |
-| 289 | [Get Lucky \(Radio Edit\) \[feat\. Pharrell Williams and Nile Rodgers\]](https://open.spotify.com/track/2Foc5Q5nqNiosCNqttzHof) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Get Lucky \(Radio Edit\) \[feat\. Pharrell Williams and Nile Rodgers\]](https://open.spotify.com/album/2ePFIvZKMe8zefATp9ofFA) | 4:08 |
+| 289 | [Get Lucky \(Radio Edit\) \[feat\. Pharrell Williams and Nile Rodgers\]](https://open.spotify.com/track/2Foc5Q5nqNiosCNqttzHof) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Get Lucky \(Radio Edit\) \[feat\. Pharrell Williams and Nile Rodgers\]](https://open.spotify.com/album/2ePFIvZKMe8zefATp9ofFA) | 4:07 |
 | 290 | [Absolute Territory](https://open.spotify.com/track/32zqrDpYvNr8BuOClDpavD) | [Ken Ashcorp](https://open.spotify.com/artist/1x2YcZB1QpRZB3HT9gdUCQ) | [Absolute Territory](https://open.spotify.com/album/2N8HOZgX1QWpighqf7Tvo7) | 4:28 |
 | 291 | [SHUT UP AND EXPLODE](https://open.spotify.com/track/3fD5HVFpDIAQ0tsPTFPDPl) | [BOOM BOOM SATELLITES](https://open.spotify.com/artist/0vCGPbugjEi38T41ZHny1o) | [EXPOSED](https://open.spotify.com/album/1GQrtz4NfTvyTbbjyH19dr) | 3:37 |
 | 292 | [Chiptune Memories](https://open.spotify.com/track/00S2qoDdWkKDTSKPzd0j2Y) | [she](https://open.spotify.com/artist/3xWktqKQxBAu4LXqLufJwW) | [Chiptune Memories](https://open.spotify.com/album/3rhk4jlJVFkJzjp2iHsY7y) | 3:15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2e5iuTsMOoD.md) - [plain]
 
 > Uma viagem no tempo através de grandes clássicos do Rock!
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,556 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,552 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2e5iuTsMOoD.md) - [plain]
 | 40 | [Burning Love](https://open.spotify.com/track/4VK3MDt1FAP101D0mnFJkz) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis 75 \- Good Rockin' Tonight](https://open.spotify.com/album/34EYk8vvJHCUlNrpGxepea) | 2:49 |
 | 41 | [You Got It](https://open.spotify.com/track/6r20M5DWYdIoCDmDViBxuz) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [Mystery Girl](https://open.spotify.com/album/1UPcuqLY9PC99fQAqWgrSU) | 3:30 |
 | 42 | [I Fall To Pieces](https://open.spotify.com/track/5U2uhwJseYO7eH5nEwPb8z) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [Introducing the Dwights](https://open.spotify.com/album/3Z0LdhZyBaeniH7m9VpSrR) | 2:49 |
-| 43 | [Blue Suede Shoes \- Remastered](https://open.spotify.com/track/3htVOUt4zoFthJhqtJMGTo) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [The Essential Elvis Presley](https://open.spotify.com/album/3X3rFfVKCW58sKMO0UXkwO) | 1:59 |
+| 43 | [Blue Suede Shoes \- Remastered](https://open.spotify.com/track/3htVOUt4zoFthJhqtJMGTo) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [The Essential Elvis Presley](https://open.spotify.com/album/3X3rFfVKCW58sKMO0UXkwO) | 2:01 |
 | 44 | [North Side Gal](https://open.spotify.com/track/6VqC5gNL532RfgdlGzNAv0) | [JD McPherson](https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9) | [Signs & Signifiers](https://open.spotify.com/album/4TcPbpUi60PaJ2QX5scH69) | 2:31 |
 | 45 | [Crazy \- Single Version](https://open.spotify.com/track/4DuBNU1r50XEv4dvsrQcpY) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK), [The Jordanaires](https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv) | [Gold](https://open.spotify.com/album/3kwl00I9hJSfwfWc4T3NAx) | 2:42 |
 | 46 | [Mr\. Jukebox](https://open.spotify.com/track/13QLwPqwFz6ArW0Mvo689t) | [Joshua Hedley](https://open.spotify.com/artist/6OJg4GNkAEtu0cfDVRbnjh) | [Mr\. Jukebox](https://open.spotify.com/album/0zeZuYMWyOCjEHfNZJR70q) | 3:16 |

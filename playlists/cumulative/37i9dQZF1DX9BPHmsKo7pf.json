@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Cele mai de succes 50 de hituri \u00een Rom\u00e2nia. Cover: Florian Rus, INNA",
+  "description": "Cele mai de succes 50 de hituri \u00een Rom\u00e2nia. Cover: Tzanca Uraganu",
   "name": "Hot Hits Rom\u00e2nia",
   "tracks": [
     {
@@ -704,7 +704,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 178853,
       "name": "Berghain",
       "url": "https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj"
@@ -2809,6 +2809,24 @@
     },
     {
       "album": {
+        "name": "Mai Multe Z-uri",
+        "url": "https://open.spotify.com/album/7rhGPdDg2i7iXiskAj6pRQ"
+      },
+      "artists": [
+        {
+          "name": "Aerozen",
+          "url": "https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179076,
+      "name": "Mai Multe Z-uri",
+      "url": "https://open.spotify.com/track/4elEaqPHDfSHu8CigE770N"
+    },
+    {
+      "album": {
         "name": "PLAYBOY CITY",
         "url": "https://open.spotify.com/album/6vx1YeTyd5t0UTXb44rEMi"
       },
@@ -2820,7 +2838,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 142978,
       "name": "MAKE IT HOT",
       "url": "https://open.spotify.com/track/2c8UZZFAinUGLdvAAr8VHh"
@@ -4724,6 +4742,24 @@
       "duration_ms": 139200,
       "name": "Voila",
       "url": "https://open.spotify.com/track/4Kxn0Ix6IDWLnkGxmb4i2D"
+    },
+    {
+      "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/2vzmCj951NdHbnPgaK0SQn"
+      },
+      "artists": [
+        {
+          "name": "Alex Botea",
+          "url": "https://open.spotify.com/artist/0P8GOB6ZytMhZX8fd1OUsz"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196236,
+      "name": "Voodoo",
+      "url": "https://open.spotify.com/track/0X2G0m6hIXc0CohTLM92MJ"
     },
     {
       "album": {

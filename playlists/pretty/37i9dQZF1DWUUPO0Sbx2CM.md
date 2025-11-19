@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUPO0Sbx2CM.md) - [plain]
 
 > Discover a mix of faith and fun with these EDM, Pop, Hip Hop, Worship, and remixed songs!
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,435 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,455 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUPO0Sbx2CM.md) - [plain]
 | 45 | [You](https://open.spotify.com/track/3jhlcmuz08z1eaZmH20nui) | [Jesus Loves Electro](https://open.spotify.com/artist/6OP8EQDkqXBMT6CY9Rsngp) | [You](https://open.spotify.com/album/7gbt61EFvdtJhOyNtbn6yo) | 2:34 |
 | 46 | [Down \(Remix\)](https://open.spotify.com/track/5mmmjhQjqh7HxmAcVbKn4u) | [Sajan Nauriyal](https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6), [Evan Ford](https://open.spotify.com/artist/4eoZNWAcavDmUTQIoiPpyk), [Chris Howland](https://open.spotify.com/artist/2wqF6dCN8bQp7TN0eNDSsc) | [Down \(Remix\)](https://open.spotify.com/album/6MP2d8QD6j3K9xAETIKxPD) | 3:05 |
 | 47 | [Battle Belongs \- Reyer & Retain Remix](https://open.spotify.com/track/2uCL1C9hwqYywVGJrq6RWy) | [Retain](https://open.spotify.com/artist/5SwavZEv1VevR29sNLYTbF), [Sander Nijbroek](https://open.spotify.com/artist/6zakne0mu9dWkzLZI34YWR), [Reyer](https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z) | [Battle Belongs \(Reyer & Retain Remix\)](https://open.spotify.com/album/0iszENrvkQKnEeap9o0RSK) | 3:37 |
-| 48 | [I'm Good](https://open.spotify.com/track/6AKnOJ94EuWu0DJnvMt6xU) | [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [Closer Than You Think](https://open.spotify.com/album/3ZPJpdPrrLgi4rxoXSYLKP) | 2:36 |
-| 49 | [FOUGHT 4 LOVE](https://open.spotify.com/track/4Sor9OP41KfK7AB9uJYYM1) | [Vision of Leo](https://open.spotify.com/artist/21HnuUEkcsr902YIGJRL2e), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [FOUGHT 4 LOVE](https://open.spotify.com/album/0rGLBwhYzI5VfXWztSKFHx) | 2:30 |
+| 48 | [FOUGHT 4 LOVE](https://open.spotify.com/track/4Sor9OP41KfK7AB9uJYYM1) | [Vision of Leo](https://open.spotify.com/artist/21HnuUEkcsr902YIGJRL2e), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [FOUGHT 4 LOVE](https://open.spotify.com/album/0rGLBwhYzI5VfXWztSKFHx) | 2:30 |
+| 49 | [I'm Good](https://open.spotify.com/track/6AKnOJ94EuWu0DJnvMt6xU) | [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [Closer Than You Think](https://open.spotify.com/album/3ZPJpdPrrLgi4rxoXSYLKP) | 2:36 |
 | 50 | [Deeper](https://open.spotify.com/track/2X8mAkdiXXxFdcDGQ4Og13) | [Rock City Worship](https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB) | [Best Thing \- Summer 2022](https://open.spotify.com/album/0scWMv27dJB9TeLkiA2g7s) | 3:02 |
 | 51 | [Future](https://open.spotify.com/track/1vvQwgin7rkd3PSzS0vPrE) | [WE ARE ONE](https://open.spotify.com/artist/3c45wqHSEIsm43MNvb5Ifd) | [Future](https://open.spotify.com/album/250asL6HXVThavIF7t9rBc) | 3:25 |
 | 52 | [All I Need](https://open.spotify.com/track/4vmV6mDATpb0b2EWBVxoaT) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0), [Charlotte Adelle](https://open.spotify.com/artist/0vcKygkWT9xuezIG3mSUTy) | [All I Need](https://open.spotify.com/album/7K0EeJpsv14BmQvW3uizuD) | 3:06 |

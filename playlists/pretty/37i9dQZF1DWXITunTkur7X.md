@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXITunTkur7X.md) - [plain]
 
 > Beste Nederlandstaligs songs uit de 10's! Cover: BLØF
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,025 likes - 65 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,031 likes - 65 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

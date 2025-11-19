@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 
 > From Durban and Cape Town to the globe, yasuka leyonto! Cover: Omagoqa
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,974 likes - 79 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,028 likes - 79 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 130369,
+  "num_followers": 130371,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
@@ -79,22 +79,6 @@
     {
       "added_at": "2025-11-13 16:00:25",
       "album": {
-        "name": "\u80fd\u9047\u898b\uff0c\u5c31\u5f88\u4e0d\u932f\u4e86",
-        "url": "https://open.spotify.com/album/7gtCv2LMG9F41nwqXvVu2S"
-      },
-      "artists": [
-        {
-          "name": "Firdhaus",
-          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
-        }
-      ],
-      "duration_ms": 228686,
-      "name": "\u80fd\u9047\u898b\uff0c\u5c31\u5f88\u4e0d\u932f\u4e86",
-      "url": "https://open.spotify.com/track/2ASWo8MTESnHQhJhpMSPbF"
-    },
-    {
-      "added_at": "2025-11-13 16:00:25",
-      "album": {
         "name": "\u5409\u4ed6\u624b",
         "url": "https://open.spotify.com/album/35QdFULbzmzRWMeH7bHGQR"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 263173,
       "name": "\u592a\u8070\u660e",
       "url": "https://open.spotify.com/track/4DCB1S7G6SmH9qlDpEVIzP"
+    },
+    {
+      "added_at": "2025-11-13 16:00:25",
+      "album": {
+        "name": "\u80fd\u9047\u898b\uff0c\u5c31\u5f88\u4e0d\u932f\u4e86",
+        "url": "https://open.spotify.com/album/7gtCv2LMG9F41nwqXvVu2S"
+      },
+      "artists": [
+        {
+          "name": "Firdhaus",
+          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
+        }
+      ],
+      "duration_ms": 228686,
+      "name": "\u80fd\u9047\u898b\uff0c\u5c31\u5f88\u4e0d\u932f\u4e86",
+      "url": "https://open.spotify.com/track/2ASWo8MTESnHQhJhpMSPbF"
     },
     {
       "added_at": "2025-11-13 16:00:25",
@@ -487,22 +487,6 @@
     {
       "added_at": "2025-11-13 16:00:25",
       "album": {
-        "name": "\u60f3\u81ea\u7531",
-        "url": "https://open.spotify.com/album/0ThGbiZgtDmXPARkCXMTBV"
-      },
-      "artists": [
-        {
-          "name": "\u738b\u5b89\u5b87",
-          "url": "https://open.spotify.com/artist/75CDjVdcyafrJRwNITgluf"
-        }
-      ],
-      "duration_ms": 268605,
-      "name": "\u60f3\u81ea\u7531",
-      "url": "https://open.spotify.com/track/2fLoz0Qd1sgcHVkrBAzAHn"
-    },
-    {
-      "added_at": "2025-11-13 16:00:25",
-      "album": {
         "name": "\u5728\u52a0\u7d0d\u5171\u548c\u570b\u96e2\u5a5a (Acoustic Version)",
         "url": "https://open.spotify.com/album/17eQy9BdSIdKAh6KnWBEIH"
       },
@@ -523,22 +507,6 @@
     {
       "added_at": "2025-11-13 16:00:25",
       "album": {
-        "name": "\u300a\u4e0d\u5920\u5584\u826f\u7684\u6211\u5011 : \u6232\u5287\u97f3\u6a02\u8a2d\u8a08\u5c08\u8f2f\u300b",
-        "url": "https://open.spotify.com/album/0pH2VtQLa0T3G3ZoHSFgeC"
-      },
-      "artists": [
-        {
-          "name": "Tanya Chua",
-          "url": "https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm"
-        }
-      ],
-      "duration_ms": 349541,
-      "name": "\u82ac\u862d\u8ddd\u96e2",
-      "url": "https://open.spotify.com/track/1OvQbBToQ5gMPs7bwqUbbz"
-    },
-    {
-      "added_at": "2025-11-13 16:00:25",
-      "album": {
         "name": "\u5e95\u7247\u88e1\u7684\u590f\u5361\u723e",
         "url": "https://open.spotify.com/album/3s1pKBhbHzoUzcRFBabug4"
       },
@@ -555,6 +523,22 @@
     {
       "added_at": "2025-11-13 16:00:25",
       "album": {
+        "name": "\u300a\u4e0d\u5920\u5584\u826f\u7684\u6211\u5011 : \u6232\u5287\u97f3\u6a02\u8a2d\u8a08\u5c08\u8f2f\u300b",
+        "url": "https://open.spotify.com/album/0pH2VtQLa0T3G3ZoHSFgeC"
+      },
+      "artists": [
+        {
+          "name": "Tanya Chua",
+          "url": "https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm"
+        }
+      ],
+      "duration_ms": 349541,
+      "name": "\u82ac\u862d\u8ddd\u96e2",
+      "url": "https://open.spotify.com/track/1OvQbBToQ5gMPs7bwqUbbz"
+    },
+    {
+      "added_at": "2025-11-13 16:00:25",
+      "album": {
         "name": "\u7b49\u5f85\u4f60\u90a3\u5929",
         "url": "https://open.spotify.com/album/5UqskmXa3TihM95voWWhTw"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 240285,
       "name": "\u7b49\u5f85\u4f60\u90a3\u5929",
       "url": "https://open.spotify.com/track/7EXbutggsR2KP5klyOZeE0"
+    },
+    {
+      "added_at": "2025-11-13 16:00:25",
+      "album": {
+        "name": "\u60f3\u81ea\u7531",
+        "url": "https://open.spotify.com/album/0ThGbiZgtDmXPARkCXMTBV"
+      },
+      "artists": [
+        {
+          "name": "\u738b\u5b89\u5b87",
+          "url": "https://open.spotify.com/artist/75CDjVdcyafrJRwNITgluf"
+        }
+      ],
+      "duration_ms": 268605,
+      "name": "\u60f3\u81ea\u7531",
+      "url": "https://open.spotify.com/track/2fLoz0Qd1sgcHVkrBAzAHn"
     },
     {
       "added_at": "2025-11-13 16:00:25",
@@ -655,22 +655,6 @@
     {
       "added_at": "2025-11-13 16:00:25",
       "album": {
-        "name": "\u5f46\u626d",
-        "url": "https://open.spotify.com/album/3xKjheUgiStRCLWKxNBV4R"
-      },
-      "artists": [
-        {
-          "name": "VH (Vast & Hazy)",
-          "url": "https://open.spotify.com/artist/2O6Fn6smW8hJ5x9rOUDPJc"
-        }
-      ],
-      "duration_ms": 277702,
-      "name": "\u5f46\u626d",
-      "url": "https://open.spotify.com/track/25w1mTL25T5qB6ftpsi5EL"
-    },
-    {
-      "added_at": "2025-11-13 16:00:25",
-      "album": {
         "name": "T.I.A.",
         "url": "https://open.spotify.com/album/16FOXa3qlWPHP7MmPj0Ehi"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 216450,
       "name": "\u592a\u967d\u96e8",
       "url": "https://open.spotify.com/track/2A0vCSTeOryiLsbuWDwX7G"
+    },
+    {
+      "added_at": "2025-11-13 16:00:25",
+      "album": {
+        "name": "\u5f46\u626d",
+        "url": "https://open.spotify.com/album/3xKjheUgiStRCLWKxNBV4R"
+      },
+      "artists": [
+        {
+          "name": "VH (Vast & Hazy)",
+          "url": "https://open.spotify.com/artist/2O6Fn6smW8hJ5x9rOUDPJc"
+        }
+      ],
+      "duration_ms": 277702,
+      "name": "\u5f46\u626d",
+      "url": "https://open.spotify.com/track/25w1mTL25T5qB6ftpsi5EL"
     },
     {
       "added_at": "2025-11-13 16:00:25",

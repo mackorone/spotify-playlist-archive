@@ -1,12 +1,12 @@
 {
   "description": "This is Victony. The essential tracks, all in one playlist.",
-  "num_followers": 14835,
+  "num_followers": 14853,
   "original_name": "This Is Victony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRkUAAAAAADM/EZ7TVDo7V45noSXLxl9",
+  "snapshot_id": "aRplgAAAAAA71KcOyPTWqnyIglwH08KK",
   "tracks": [
     {
       "added_at": null,
@@ -275,26 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Protect Sarz At All Costs",
-        "url": "https://open.spotify.com/album/5h3RPX0SZMPQGz6Mwbly0h"
-      },
-      "artists": [
-        {
-          "name": "Sarz",
-          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 161656,
-      "name": "Up \u200b(f\u200beat. Victony\u200b)",
-      "url": "https://open.spotify.com/track/4s9SNosx6047q9AjLUJqY2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "WORLD BEST",
         "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
       },
@@ -311,6 +291,26 @@
       "duration_ms": 177318,
       "name": "Babylon",
       "url": "https://open.spotify.com/track/0V9hYbo9uL11hqLP3u0yqA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Protect Sarz At All Costs",
+        "url": "https://open.spotify.com/album/5h3RPX0SZMPQGz6Mwbly0h"
+      },
+      "artists": [
+        {
+          "name": "Sarz",
+          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 161656,
+      "name": "Up \u200b(f\u200beat. Victony\u200b)",
+      "url": "https://open.spotify.com/track/4s9SNosx6047q9AjLUJqY2"
     },
     {
       "added_at": null,
@@ -371,26 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Glory II (with Fridayy)",
-        "url": "https://open.spotify.com/album/5KNIe8ATKowEk9Xvzo753f"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        }
-      ],
-      "duration_ms": 175690,
-      "name": "Glory II (with Fridayy)",
-      "url": "https://open.spotify.com/track/0NCw0Nx9qn6Mqya3PN5RIg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ave Maria",
         "url": "https://open.spotify.com/album/5vlT6FIqF6Rh25v1EWZ2Kj"
       },
@@ -407,6 +387,26 @@
       "duration_ms": 182142,
       "name": "Ave Maria",
       "url": "https://open.spotify.com/track/6al03F4hh8LUPRMcnrM3H5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Glory II (with Fridayy)",
+        "url": "https://open.spotify.com/album/5KNIe8ATKowEk9Xvzo753f"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        }
+      ],
+      "duration_ms": 175690,
+      "name": "Glory II (with Fridayy)",
+      "url": "https://open.spotify.com/track/0NCw0Nx9qn6Mqya3PN5RIg"
     },
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stubborn",
-        "url": "https://open.spotify.com/album/0HAMypn9IWyVZ3ytw6R6qr"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 171666,
-      "name": "Ba$Tard, Don't Be Silly",
-      "url": "https://open.spotify.com/track/2gf8dPfeIdXHqugQvfaCf3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Back In Office",
         "url": "https://open.spotify.com/album/5vSyZglUnnQw4nlQC4QaRO"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 184000,
       "name": "Holy Father",
       "url": "https://open.spotify.com/track/6PojTTCNlz3qo3qBKuUyaO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stubborn",
+        "url": "https://open.spotify.com/album/0HAMypn9IWyVZ3ytw6R6qr"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 171666,
+      "name": "Ba$Tard, Don't Be Silly",
+      "url": "https://open.spotify.com/track/2gf8dPfeIdXHqugQvfaCf3"
     },
     {
       "added_at": null,
@@ -635,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "My Darling + Angelus",
+        "url": "https://open.spotify.com/album/7E5NyqTBqxn8SvkwznzgvY"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "My Darling",
+      "url": "https://open.spotify.com/track/1NCWMu8Iy5S4I9tI8AifTj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stubborn",
         "url": "https://open.spotify.com/album/0HAMypn9IWyVZ3ytw6R6qr"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 158833,
       "name": "Pier 46",
       "url": "https://open.spotify.com/track/6EUg3wVnfrqwDzOqLFWovl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Darling + Angelus",
-        "url": "https://open.spotify.com/album/7E5NyqTBqxn8SvkwznzgvY"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "My Darling",
-      "url": "https://open.spotify.com/track/1NCWMu8Iy5S4I9tI8AifTj"
     },
     {
       "added_at": null,
@@ -803,26 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emeka Must Shine",
-        "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 108823,
-      "name": "NAIJA SHAWTY (feat. Victony)",
-      "url": "https://open.spotify.com/track/2ZAlI005a5nE5ys5QGOiQr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tayo",
         "url": "https://open.spotify.com/album/7bYbluaYSIJ8VhkpoDgS85"
       },
@@ -847,6 +827,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Emeka Must Shine",
+        "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 108823,
+      "name": "NAIJA SHAWTY (feat. Victony)",
+      "url": "https://open.spotify.com/track/2ZAlI005a5nE5ys5QGOiQr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hypertension",
         "url": "https://open.spotify.com/album/3opLRe2XgBsWPtccbGUGL8"
       },
@@ -867,22 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Darling + Angelus",
-        "url": "https://open.spotify.com/album/7E5NyqTBqxn8SvkwznzgvY"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Angelus",
-      "url": "https://open.spotify.com/track/2oR4N3EY05WLEotPoMLRJ6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Saturn",
         "url": "https://open.spotify.com/album/460Np75NnukNf4BZpXZUuy"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 163200,
       "name": "Maria",
       "url": "https://open.spotify.com/track/07wR2inlrmqLtGYSCARtHg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Darling + Angelus",
+        "url": "https://open.spotify.com/album/7E5NyqTBqxn8SvkwznzgvY"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Angelus",
+      "url": "https://open.spotify.com/track/2oR4N3EY05WLEotPoMLRJ6"
     },
     {
       "added_at": null,

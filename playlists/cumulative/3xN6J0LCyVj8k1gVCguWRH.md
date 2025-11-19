@@ -4,7 +4,7 @@
 
 > The best tracks of 2025\. A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-5,443 songs - 12 day 16 hr 12 min
+5,446 songs - 12 day 16 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1286,6 +1286,7 @@
 | [Done Believing](https://open.spotify.com/track/5vM7eam9gfUXqqnKs4WKYN) | [Snapdibz](https://open.spotify.com/artist/6oF5Y5JgNMSBfZR93mhKlK) | [Done Believing](https://open.spotify.com/album/1mOdL5EWP7nn8JbbYcq2yb) | 3:24 | 2025-01-13 | 2025-01-25 |
 | [Done Sailing](https://open.spotify.com/track/093dzjKrQ5RCLF4Hpykpzc) | [Sleepers Club](https://open.spotify.com/artist/4PHzHvZnYFeg15NF0LEkOm) | [Done Sailing](https://open.spotify.com/album/4lKMLlJlnG5LLAIkVBGEat) | 3:29 | 2025-09-23 | 2025-10-06 |
 | [Dont You Want It](https://open.spotify.com/track/1RK4YUFkrfBT9ywBD3Ga2i) | [Winnie Ama](https://open.spotify.com/artist/4DJIumnofpauv3dYkgZSv1) | [Don't You Want It?](https://open.spotify.com/album/3aiUMxJFEI2Awlmq1i8QgA) | 2:48 | 2025-05-14 | 2025-07-19 |
+| [Don’t Call Me Again](https://open.spotify.com/track/0KeGFT8G74oQVN8KhNm3xC) | [Ty Lakes](https://open.spotify.com/artist/3zAomN3m44fUouJXZsLbOO) | [Don’t Call Me Again](https://open.spotify.com/album/1Zx3z9Aiz8OW5BGdPBNoYV) | 2:41 | 2025-11-18 |  |
 | [DON’T STOP ME](https://open.spotify.com/track/5w6Wfxy37r4tS7vn9GK5Ls) | [RAKOVICKY](https://open.spotify.com/artist/5J2xJrZgjcWM3nQLyLsDyZ) | [DON’T STOP ME](https://open.spotify.com/album/4hSRG678m00lMqiSNozls5) | 3:08 | 2024-02-23 | 2024-03-08 |
 | [Doo Wop \(That Thing\)](https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:20 | 2019-09-29\* | 2024-08-13 |
 | [Dopamine](https://open.spotify.com/track/3Gx5BKn3cj2flQDtIQWmxr) | [Funsho](https://open.spotify.com/artist/2zTkayBLSvHJO4h1lVxsaY) | [Dopamine](https://open.spotify.com/album/2bdyJLDYU8hmfKMoEDcAfX) | 3:30 | 2025-01-24 | 2025-02-05 |
@@ -1491,6 +1492,7 @@
 | [Fading](https://open.spotify.com/track/47qhavyUKBH9N4iFKQVL5p) | [K\. Epps](https://open.spotify.com/artist/2ASZBoq95nqRoeOAUV7AGM) | [Fading](https://open.spotify.com/album/4IG6VAehaCCwF5WKFnm12B) | 3:31 | 2024-06-24 | 2024-07-05 |
 | [Fairy Tales](https://open.spotify.com/track/347Dn6j31v17f9OSeIEEOu) | [Josiah Hodson](https://open.spotify.com/artist/6WFyVuxvI3WYQ6jam9zMGK) | [Fairy Tales](https://open.spotify.com/album/0c4R8A62DfAD8d6VHboQdn) | 2:32 | 2022-10-14 | 2022-11-05 |
 | [Faith \(feat\. Laura White\)](https://open.spotify.com/track/33Npnk7v1tUD97QC1G4ax8) | [Henri PFR](https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq), [CMC$](https://open.spotify.com/artist/78DWNk8gFHU30TGITAgbM7), [Laura White](https://open.spotify.com/artist/4eWvHAcWh3Hq6DYJ9K3mD4) | [Faith \(feat\. Laura White\)](https://open.spotify.com/album/5tCOWqPgjgCI6xKj6GkCRD) | 2:52 | 2021-06-19 | 2021-07-04 |
+| [Faith \(this world\)](https://open.spotify.com/track/7gCkmOUCmSHQIS7R1giMy5) | [Dayo Time Music](https://open.spotify.com/artist/2HIGfdpSGO2vDcEW50WkgW) | [Faith \(this world\)](https://open.spotify.com/album/6VTuCacLjfuu02ZAFsVNxA) | 4:33 | 2025-11-18 |  |
 | [Faith, Wisdom, You](https://open.spotify.com/track/7fNUf2wmCM8uG75yQafYLA) | [Tyler Street](https://open.spotify.com/artist/02MiDVoTdh0qmnOHwaBE1v) | [Faith, Wisdom, You](https://open.spotify.com/album/6WaDh1zQhuPsbvNFtqDCih) | 3:26 | 2023-12-24 | 2024-01-01 |
 | [fake friends](https://open.spotify.com/track/00LyYWFek6Aunoo4ZDcIPO) | [Julia Kate](https://open.spotify.com/artist/1fIGYGeXGTQXAo1CuW7FaQ) | [fake friends](https://open.spotify.com/album/5x6CaYde9gncmDI5KpIKkQ) | 2:58 | 2025-03-23 | 2025-04-04 |
 | [fake friends](https://open.spotify.com/track/6Snj9UU7dHLyugF0uLnFyA) | [PACIFICA](https://open.spotify.com/artist/4ALMLb3wt9xULh1VFsxSZp), [Yomaez](https://open.spotify.com/artist/01X9SbuNcYoHHvUgalG2EB) | [fake friends](https://open.spotify.com/album/3r4tKOpKNCX6GD7FNXIzHS) | 2:30 | 2021-01-06 | 2021-01-21 |
@@ -5022,6 +5024,7 @@
 | [Vibe Out](https://open.spotify.com/track/6kJBDQLD0YOAyqmo9HWBrR) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [If Orange Was A Place](https://open.spotify.com/album/0x2ntwkM3GoLVAPjAOPrWv) | 4:57 | 2022-07-26 | 2024-04-30 |
 | [Vibe With You](https://open.spotify.com/track/6wgY6M6cjKvqOKiIWmakkL) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Vibe With You](https://open.spotify.com/album/4cvqVnm7AvQvfLwK2l6ILe) | 3:16 | 2020-02-29 | 2020-04-22 |
 | [Vibe'n \- Radio Edit](https://open.spotify.com/track/7Kgtf5oPYA3FvmOXVliu2t) | [Traemoon](https://open.spotify.com/artist/4HH10t47HH26fT3IZcZsIx), [Bassline \- Jay Jones](https://open.spotify.com/artist/7AluLhtxZuU8YdiwXvr6l2) | [Vibe'n \(Radio Edit\)](https://open.spotify.com/album/05dbPJTcZzd6gjx48X04E7) | 2:29 | 2022-05-13 | 2022-05-29 |
+| [Vibes and Wine](https://open.spotify.com/track/0pXxuOBUMjziUYmy4yLGZx) | [Jah Gordy](https://open.spotify.com/artist/7vhU9v9k5lKGnq7It37m7e) | [Vibes and Wine](https://open.spotify.com/album/7nqkkRhiTMlDC5bv3UxalD) | 2:56 | 2025-11-18 |  |
 | [VIBEZ](https://open.spotify.com/track/1x1wzlqBumWtN8n4fxM6Ex) | [Nick Souza](https://open.spotify.com/artist/1O8j2yoItrx52KzYSdAlrt) | [VIBEZ](https://open.spotify.com/album/2Rm6kOAHuEwFtD1ADN6lf6) | 2:19 | 2024-09-24 | 2024-10-06 |
 | [Vibin](https://open.spotify.com/track/4AZGwIhpFbdTzep3XKBWTU) | [Blizzi](https://open.spotify.com/artist/7GEJwwLI5WdMqvIi1Yrhxd), [Kazayah](https://open.spotify.com/artist/77GoP62XZ6Q2cb76gLsEJ4) | [Vibin](https://open.spotify.com/album/1FmA1ppPfIxLZEjG2KP6eR) | 2:31 | 2021-03-06 | 2021-03-24 |
 | [Vibin](https://open.spotify.com/track/16uTVvOkmvf53FHzxipdyH) | [Honey Made](https://open.spotify.com/artist/3RehHfN84w4V5v6aLKRW9j) | [Charge It to the Band Fund](https://open.spotify.com/album/2hFJzJYkgHWaopV1KKRrsb) | 4:01 | 2024-08-29 | 2024-09-10 |

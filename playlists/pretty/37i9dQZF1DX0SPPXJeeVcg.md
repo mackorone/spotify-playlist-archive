@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SPPXJeeVcg.md) - [plain]
 
 > Our editor's picks for R&B songs that have defined the streaming era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 656,817 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 657,285 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SPPXJeeVcg.md) - [plain]
 | 81 | [B.E.D.](https://open.spotify.com/track/1B6TmCvKjC4dopBohVW51x) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [4275 \(Bonus Version\)](https://open.spotify.com/album/03AdJ15pTDdmxry6qkKwlO) | 3:56 |
 | 82 | [Tadow \- Edit](https://open.spotify.com/track/5RgNhmyaWYtuIioRVoQzMR) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Tadow](https://open.spotify.com/album/5JCPRHXnXWoyjcVxwpIzLt) | 3:34 |
 | 83 | [Your Turn \(feat\. Musiq Soulchild, Tish Hyman & 6LACK\)](https://open.spotify.com/track/29zlMCUoFqwWMMTFwY7rTI) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8), [Tish Hyman](https://open.spotify.com/artist/6WzffCtFJ1iDsAwEV35h6K) | [Featuring Ty Dolla $ign](https://open.spotify.com/album/6M4Nu5UgX097dxeF2lm9P8) | 5:19 |
-| 84 | [Permission](https://open.spotify.com/track/3gx6E5B42WHKf5agVWQAf2) | [Ro James](https://open.spotify.com/artist/7r2oyrNc0YjSC7hZL87V0Y) | [ELDORADO](https://open.spotify.com/album/1SXqTsVnjtIULG5YKXafeY) | 4:41 |
+| 84 | [Permission](https://open.spotify.com/track/3gx6E5B42WHKf5agVWQAf2) | [Ro James](https://open.spotify.com/artist/7r2oyrNc0YjSC7hZL87V0Y) | [ELDORADO](https://open.spotify.com/album/1SXqTsVnjtIULG5YKXafeY) | 4:38 |
 | 85 | [I Want You Around](https://open.spotify.com/track/2tUuvamTbprsZ2YevAuzGC) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [\- Ugh, those feels again](https://open.spotify.com/album/0xyp4JuWXxA0lPsjuN57Q8) | 3:32 |
 | 86 | [Only Have Eyes 42](https://open.spotify.com/track/6kIgzGx7gH0qAKTFTF5GsU) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [The Age of Pleasure](https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ) | 2:50 |
 | 87 | [Hate the Club \(feat\. Masego\)](https://open.spotify.com/track/0QUbiLQySWPq5Lh3f7A9bN) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 4:38 |

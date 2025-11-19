@@ -4,7 +4,7 @@
 
 > Praise and Worship the Almighty God with the best songs\. A mix of both African and International songs.
 
-719 songs - 2 day 23 hr 28 min
+720 songs - 2 day 23 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Always On Time](https://open.spotify.com/track/2UEYKgubqd6fp5DBwjXXqa) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Always On Time](https://open.spotify.com/album/1jdKdSOBaFjfBIsd0RwnKa) | 4:01 | 2025-09-26 | 2025-10-11 |
 | [Amaram Onyewem \- Live](https://open.spotify.com/track/4hICkRdqsvZnu4B0gsY47v) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [Pastor Jerry Eze](https://open.spotify.com/artist/5UpWOLAQgVUxzukbqKX3hn) | [Amaram Onyewem \(Live\)](https://open.spotify.com/album/0xSHtIqcHSX3OBLolbuKgP) | 10:42 | 2024-01-12 | 2024-02-08 |
 | [Amen](https://open.spotify.com/track/7bIDSVHXsazyMqK2Peb8FK) | [Cici](https://open.spotify.com/artist/3i9UjIGeZT2cRyltQrr8nj), [Naledi Aphiwe](https://open.spotify.com/artist/6zInR2bva7iaRKxeB5AjqN) | [Amen](https://open.spotify.com/album/0Ozxo0wGqTXSUTgUITRWBE) | 3:18 | 2025-08-01 | 2025-09-26 |
+| [Anchor of My Strength](https://open.spotify.com/track/4TEFKBeXAE20j69TpHFFK7) | [Paul CleverLee](https://open.spotify.com/artist/2OmRPEQ0DmK6myhfVFKLuY), [Gerald Bishung](https://open.spotify.com/artist/7yAihRRmPVVKmZ6xvFCV7I) | [Anchor of My Strength](https://open.spotify.com/album/6j5WW5wCRQpz719p05KNzz) | 3:10 | 2025-11-14 |  |
 | [Ancient Worship](https://open.spotify.com/track/01pdIFc5NQa4riiG1pw5vc) | [Philipiano](https://open.spotify.com/artist/1pvl20igVaAnDLUWxrpoTl) | [Ancient Worship](https://open.spotify.com/album/1CptoyMGUX89ZuT2HYjmtL) | 13:50 | 2025-02-21 | 2025-02-28 |
 | [Anesu \(God with us\) \- Live](https://open.spotify.com/track/3ebUYrBfGD2A0dvOxQx6Cc) | [Mmuso Worship](https://open.spotify.com/artist/5r5sBwAXxOibX4NHzP6j9s), [Chairo](https://open.spotify.com/artist/1FFHFMUEGwwivLM3rO42ce) | [Anesu \(God with us\) \[Live\]](https://open.spotify.com/album/5GI13g4MbffMBJe8adYamQ) | 11:06 | 2025-02-28 | 2025-03-13 |
 | [Anointed](https://open.spotify.com/track/0DOc9cCC5j07CXIAC02onH) | [Pastor Emmanuel Iren](https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw), [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS) | [Anointed](https://open.spotify.com/album/3Zk2GrpqEBsraDxXPp9aKH) | 7:06 | 2025-10-10 |  |
@@ -330,7 +331,7 @@
 | [Ikechi \(Power of God\)](https://open.spotify.com/track/0oLkR9vqXhvBuneYvYcxiA) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [Ikechi \(Power of God\)](https://open.spotify.com/album/1c5oifFnPegiQreaOY5wju) | 2:57 | 2024-02-16 | 2024-04-19 |
 | [Ikechi \(Power of God\)](https://open.spotify.com/track/2qhu3cRVoq4aW30mbPAo5y) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [Ikechi \(Power of God\)](https://open.spotify.com/album/6n6e6Z1cnuMVWMQ9CBeInr) | 2:57 | 2023-07-07 | 2024-02-12 |
 | [Imela \(feat\. Enitan Adaba\)](https://open.spotify.com/track/50OHI0yJ1ti2jTWySMz6jY) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Enitan Adaba](https://open.spotify.com/artist/1FbZCsyKioGGgzQDj6RIkI) | [The Son of God \(& Imela\)](https://open.spotify.com/album/17QFKUXHOJcDzNoDijDcXn) | 5:54 | 2023-12-05 | 2023-12-10 |
-| [In Christ Alone](https://open.spotify.com/track/2hQxLiI93xdjqENJuKeXjO) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [In Christ Alone](https://open.spotify.com/album/6ZVTgCnYuK6Y5TFO4lna5V) | 4:39 | 2024-07-19 |  |
+| [In Christ Alone](https://open.spotify.com/track/2hQxLiI93xdjqENJuKeXjO) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [In Christ Alone](https://open.spotify.com/album/6ZVTgCnYuK6Y5TFO4lna5V) | 4:39 | 2024-07-19 | 2025-11-19 |
 | [In Christ Alone](https://open.spotify.com/track/6oS15LyQtAwYsRL7usnT2M) | [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Seasons](https://open.spotify.com/album/0N7E7ssTnuxjKorNihxEXe) | 4:08 | 2023-12-15 | 2024-07-05 |
 | [In Christ Alone \- Live](https://open.spotify.com/track/6aRwLqDf1bN3lI2gMd6wXp) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Passion: Let The Future Begin](https://open.spotify.com/album/6AEqQa8wsva60vuNuhpjGQ) | 5:39 | 2025-01-27 | 2025-02-02 |
 | [In Jesus Name \(God Of Possible\)](https://open.spotify.com/track/7w7q9tajAO0CiPw1Fx7vOG) | [Anthem Worship](https://open.spotify.com/artist/71LGmy4toAaXKJP7IK8xvG), [Remnant House](https://open.spotify.com/artist/0oCYQlLFMypU2RxjCRvpgR), [Mass Anthem](https://open.spotify.com/artist/0KVR8D2dx5Td8ONhNZRLkM) | [In Jesus Name \(God Of Possible\)](https://open.spotify.com/album/7b73uskrR9eUx516A9WSim) | 3:04 | 2024-03-29 | 2024-06-20 |

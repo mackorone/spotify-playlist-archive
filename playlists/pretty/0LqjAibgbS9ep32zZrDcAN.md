@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0LqjAibgbS9ep32zZrDcAN.md) - [plain]
 
 > Finally that person that we've missed so much is home\. This deserves  a party!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,885 likes - 70 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,883 likes - 70 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/0LqjAibgbS9ep32zZrDcAN.md) - [plain]
 | 14 | [Happy Home \- Matoma Remix](https://open.spotify.com/track/6n0INxW9F7WoUTNFkP97E5) | [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2), [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Happy Home \(Matoma Remix\)](https://open.spotify.com/album/1ILhr28Zukntu0uAMgwXS9) | 4:33 |
 | 15 | [Bring Em Home \(Gold Jacket Remix\)](https://open.spotify.com/track/5wxh5Zge8QLkrfFWdFi9qz) | [D.VELOPED](https://open.spotify.com/artist/6fsOa97Gfd2f5iqlDoHDUM) | [Bring Em Home \(Gold Jacket Remix\)](https://open.spotify.com/album/1yjGbbFwvVcm0C75NXL0Vj) | 3:25 |
 | 16 | [Wannabe](https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 2:53 |
-| 17 | [Get Lucky \(Radio Edit\) \[feat\. Pharrell Williams and Nile Rodgers\]](https://open.spotify.com/track/2Foc5Q5nqNiosCNqttzHof) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Get Lucky \(Radio Edit\) \[feat\. Pharrell Williams and Nile Rodgers\]](https://open.spotify.com/album/2ePFIvZKMe8zefATp9ofFA) | 4:08 |
+| 17 | [Get Lucky \(Radio Edit\) \[feat\. Pharrell Williams and Nile Rodgers\]](https://open.spotify.com/track/2Foc5Q5nqNiosCNqttzHof) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Get Lucky \(Radio Edit\) \[feat\. Pharrell Williams and Nile Rodgers\]](https://open.spotify.com/album/2ePFIvZKMe8zefATp9ofFA) | 4:07 |
 | 18 | [Soldier In The City](https://open.spotify.com/track/6aG3DqLoM4k30T8dq2ZVwh) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Lift Your Spirit](https://open.spotify.com/album/1ImxhQBpfEQeM7bNh61Aqg) | 3:25 |
 | 19 | [We Are Young \(feat\. Janelle Monáe\)](https://open.spotify.com/track/3ehrxAhYms24KLPG8FZe0W) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0), [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [We Are Young \(feat\. Janelle Monáe\)](https://open.spotify.com/album/7dXu1oLf9VPkCsBvXxz4Oe) | 4:10 |
 | 20 | [Happy \- From "Despicable Me 2"](https://open.spotify.com/track/3RkvscbM4aNbELiQf7PJwn) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Happy \(From "Despicable Me 2"\)](https://open.spotify.com/album/1tXHmyPSfn6gJHkAifLGDj) | 3:53 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Charli xcx, Kelsea Ballerini, Summer Walker, Jessie Murph, Robyn, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,471,807 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,471,502 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 37 | [Porcelain Warrior](https://open.spotify.com/track/2XZNlO9iD9Nta0fqrb6N35) | [chokecherry](https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT) | [Ripe Fruit Rots and Falls](https://open.spotify.com/album/1gQAGyUvCMcV6iVDLYO2KW) | 4:00 |
 | 38 | [This Is The World \(I Made It For You\)](https://open.spotify.com/track/6xgNV9489zKLRXnvpiZQXJ) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [This Is The World \(I Made It For You\) / Nice Day](https://open.spotify.com/album/4vWx8nV08q3lSTpwZJZQMf) | 4:41 |
 | 39 | [Be Gentle With Me](https://open.spotify.com/track/4kvxVBDtSLM9xKvde5lpO8) | [runo plum](https://open.spotify.com/artist/0pouttXEXIHvguV90fhB39) | [patching](https://open.spotify.com/album/56stRtD5PbBuywAzERa2GR) | 2:34 |
-| 40 | [O Mistress Mine](https://open.spotify.com/track/3KuUK0RlVSmldqiW5qjEqv) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn), [Michael Thurber](https://open.spotify.com/artist/5zdCcd7nJejwygIgvJzjhf), [Twelfth Night Cast](https://open.spotify.com/artist/2bkPJglMWAb9C2f19TpmUs) | [O Mistress Mine](https://open.spotify.com/album/1rRFmNjjwljBoaL6qs8V7k) | 2:07 |
+| 40 | [O Mistress Mine](https://open.spotify.com/track/3KuUK0RlVSmldqiW5qjEqv) | [Michael Thurber](https://open.spotify.com/artist/5zdCcd7nJejwygIgvJzjhf), [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn), [Twelfth Night Cast](https://open.spotify.com/artist/2bkPJglMWAb9C2f19TpmUs) | [O Mistress Mine](https://open.spotify.com/album/1rRFmNjjwljBoaL6qs8V7k) | 2:07 |
 | 41 | [After Midnight \- feat\. Tyler Hubbard](https://open.spotify.com/track/6SDWFQJxKnwjYZuxWp2bFj) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x), [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [After Midnight \(feat\. Tyler Hubbard\)](https://open.spotify.com/album/23msMw5gDXUmSOQjleicfV) | 2:46 |
 | 42 | [Moonbeam](https://open.spotify.com/track/6JWYMfs0pJdNrf3b6aP5Xu) | [Cassandra Coleman](https://open.spotify.com/artist/1O6GvgnaHzgcFlCX6RlhYV) | [Moonbeam](https://open.spotify.com/album/2yFJrexb16yo2SPSu4Qa8r) | 3:58 |
 | 43 | [Too Slow \(All Night\)](https://open.spotify.com/track/4ywDQlrX9XdJB19bvl3cvU) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK) | [Too Slow \(All Night\)](https://open.spotify.com/album/35IN0y8EZRBW3qVEkvr8bx) | 2:51 |

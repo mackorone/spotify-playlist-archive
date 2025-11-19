@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 
 > chill vibes to soundtrack your gaming session 🎮 👾
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,430 likes - 50 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,441 likes - 50 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 43 | [Smooth Fields](https://open.spotify.com/track/2MKtFmktpp2kMGKm4oaOcH) | [Harvest Emotions](https://open.spotify.com/artist/53JNLKdwnvLY8F2tA6T22K) | [Smooth Fields](https://open.spotify.com/album/3NzRqlA8AJyFqDQUdcT9ht) | 2:50 |
 | 44 | [requiem](https://open.spotify.com/track/3gXDFlnam4GzGwYqtA2KZS) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m), [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X) | [requiem](https://open.spotify.com/album/0o5zePNJzfWgFGNLwynGl3) | 2:06 |
 | 45 | [for B.](https://open.spotify.com/track/4eqYoFG2SGQqMFCvKrjtiu) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [for B.](https://open.spotify.com/album/3l3JcGx513fCNPY6nGarLk) | 1:29 |
-| 46 | [Grace](https://open.spotify.com/track/3tG3JitYn7tpZE1pUm1Koa) | [Kasper Lindmark](https://open.spotify.com/artist/0h3zSsjkg9w9CuuKFwIlyq) | [While You Were Away](https://open.spotify.com/album/7jhoI2ehjpvBPLK3E9myQh) | 0:52 |
-| 47 | [star struck](https://open.spotify.com/track/3JcRY9LLi7aLBqceAbAJaC) | [alixe.](https://open.spotify.com/artist/5CqGgJNg6sTMBr8KbBCqYn) | [star struck](https://open.spotify.com/album/0lWOg0zxjpIS81tzwUB0qr) | 1:36 |
+| 46 | [star struck](https://open.spotify.com/track/3JcRY9LLi7aLBqceAbAJaC) | [alixe.](https://open.spotify.com/artist/5CqGgJNg6sTMBr8KbBCqYn) | [star struck](https://open.spotify.com/album/0lWOg0zxjpIS81tzwUB0qr) | 1:36 |
+| 47 | [Grace](https://open.spotify.com/track/3tG3JitYn7tpZE1pUm1Koa) | [Kasper Lindmark](https://open.spotify.com/artist/0h3zSsjkg9w9CuuKFwIlyq) | [While You Were Away](https://open.spotify.com/album/7jhoI2ehjpvBPLK3E9myQh) | 0:52 |
 | 48 | [Dreaming of Her](https://open.spotify.com/track/6Nhc3IxUqXw0Tw7o3kGA27) | [mellow fox](https://open.spotify.com/artist/2VVDDOoBIhsMVPJMoUXjUE) | [Dreaming of Her](https://open.spotify.com/album/2fLyl1cNveM2ZbWZYwvoIg) | 1:25 |
 | 49 | [Future Gaze](https://open.spotify.com/track/3fNKFTgur8I1IqD62Y4B3M) | [Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK) | [Future Gaze](https://open.spotify.com/album/1ghloy2krgdcTKvIStu6qf) | 2:26 |
 | 50 | [nightshift](https://open.spotify.com/track/1q3gj7XhHrwCcTst8I5XaJ) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m), [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [Lenny Loops](https://open.spotify.com/artist/6MvnyPinXRQbUCMsPoymhR) | [vertigo](https://open.spotify.com/album/5lnQqlfzuwhcX0ZcYsVbXg) | 1:46 |

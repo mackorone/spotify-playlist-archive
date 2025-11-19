@@ -4,7 +4,7 @@
 
 > This is Queen\. The essential tracks, all in one playlist.
 
-123 songs - 7 hr 55 min
+124 songs - 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Crazy Little Thing Called Love \- Remastered 2011](https://open.spotify.com/track/35ItUJlMtjOQW3SSiTCrrw) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Remastered Version\)](https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa) | 2:43 | 2025-03-27 | 2025-11-14 |
 | [Crazy Little Thing Called Love \- Remastered 2011](https://open.spotify.com/track/6xdLJrVj4vIXwhuG8TMopk) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(2011 Remaster\)](https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67) | 2:43 | 2022-09-17 |  |
 | [Death On Two Legs \(Dedicated To...\) \- Remastered 2011](https://open.spotify.com/track/4J0kN8QS2esY6cWBsFjtW9) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera \(Deluxe Remastered Version\)](https://open.spotify.com/album/6X9k3hSsvQck2OfKYdBbXr) | 3:43 | 2025-03-27 | 2025-11-14 |
-| [Death On Two Legs \(Dedicated To...\) \- Remastered 2011](https://open.spotify.com/track/2MvRMWU2ILRcFEU8WWbuP8) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/75eP8LZolyNBpqIRyB5pvB) | 3:43 | 2022-09-17 |  |
+| [Death On Two Legs \(Dedicated To...\) \- Remastered 2011](https://open.spotify.com/track/2MvRMWU2ILRcFEU8WWbuP8) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/75eP8LZolyNBpqIRyB5pvB) | 3:43 | 2022-09-17 | 2025-11-19 |
 | [Don't Stop Me Now \- ...Revisited](https://open.spotify.com/track/3INsYP1Y8GG4qJvBsKCdXC) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Bohemian Rhapsody \(The Original Soundtrack\)](https://open.spotify.com/album/6i6folBtxKV28WX3msQ4FE) | 3:37 | 2022-09-17 |  |
 | [Don't Stop Me Now \- Remastered 2011](https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Jazz \(2011 Remaster\)](https://open.spotify.com/album/2yuTRGIackbcReLUXOYBqU) | 3:29 | 2022-09-17 |  |
 | [Don't Stop Me Now \- Remastered 2011](https://open.spotify.com/track/7hQJA50XrCWABAu5v6QZ4i) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Jazz \(Deluxe Remastered Version\)](https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy) | 3:29 | 2025-03-27 | 2025-11-14 |
@@ -126,6 +126,7 @@
 | [We Will Rock You \- Remastered 2011](https://open.spotify.com/track/54flyrjcdnQdco7300avMJ) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [News Of The World \(Deluxe Remastered Version\)](https://open.spotify.com/album/6Di4m5k1BtMJ0R44bWNutu) | 2:02 | 2025-03-27 | 2025-11-14 |
 | [Who Wants To Live Forever \- Remastered 2011](https://open.spotify.com/track/3SGP8It5WDnCONyApJKRTJ) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Greatest Hits II \(Remastered\)](https://open.spotify.com/album/1uG9cIT7IRuq9NqFvKFUsI) | 4:55 | 2022-09-17 |  |
 | [Who Wants To Live Forever \- Remastered 2011](https://open.spotify.com/track/00QAndVDVfNqNWYdWAhEan) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Greatest Hits II](https://open.spotify.com/album/7rq68qYz66mNdPfidhIEFa) | 4:55 | 2025-03-27 | 2025-11-14 |
+| [Who Wants To Live Forever \- Stranger Things Remix](https://open.spotify.com/track/6PX4PvshYDB0ZFtdlnoywI) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Who Wants To Live Forever \(Stranger Things Remix\)](https://open.spotify.com/album/5lxXxTY1H76qpvuXjTQCA8) | 2:47 | 2025-11-19 |  |
 | [You And I \- Remastered 2011](https://open.spotify.com/track/4QxuI0R23qSGf4nipuOV6h) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Day At The Races \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/4KZGe18wZJbXL6JLW4KyLc) | 3:26 | 2024-05-10 | 2024-07-24 |
 | [You Don't Fool Me \- Remastered 2011](https://open.spotify.com/track/1chxAv59LZcOE5FyrlUze2) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Made In Heaven \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/274tWwrhGJy0IFeMENjWi7) | 5:24 | 2022-09-17 |  |
 | [You Don't Fool Me \- Remastered 2011](https://open.spotify.com/track/35balOkqaPZ4IrvZtG3YNg) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Made in Heaven \(Deluxe Remastered Version\)](https://open.spotify.com/album/4fODEKBcruDGTihYHvBXBD) | 5:24 | 2025-03-27 | 2025-11-14 |

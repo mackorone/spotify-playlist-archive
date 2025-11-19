@@ -1,6 +1,6 @@
 {
   "description": "Ll\u00e9vatela tranqui con los hits m\u00e1s relajados del urbano. Mar\u00eda Becerra en portada",
-  "num_followers": 206711,
+  "num_followers": 206748,
   "original_name": "Flow Tranqui",
   "owner": {
     "name": "Spotify",
@@ -283,6 +283,22 @@
     {
       "added_at": "2025-10-31 06:00:15",
       "album": {
+        "name": "111",
+        "url": "https://open.spotify.com/album/338cbfABt3duRORfvNeqLT"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "duration_ms": 184027,
+      "name": "M.A.I",
+      "url": "https://open.spotify.com/track/35ttE4t8lQZA2vuCYDg4G7"
+    },
+    {
+      "added_at": "2025-10-31 06:00:15",
+      "album": {
         "name": "Volver",
         "url": "https://open.spotify.com/album/6f8MqmZx3H4khLNI6YH69s"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 232149,
       "name": "Volver",
       "url": "https://open.spotify.com/track/61C7zXd4t2Zuhz6DRwgsLM"
-    },
-    {
-      "added_at": "2025-10-31 06:00:15",
-      "album": {
-        "name": "111",
-        "url": "https://open.spotify.com/album/338cbfABt3duRORfvNeqLT"
-      },
-      "artists": [
-        {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
-        }
-      ],
-      "duration_ms": 184027,
-      "name": "M.A.I",
-      "url": "https://open.spotify.com/track/35ttE4t8lQZA2vuCYDg4G7"
     },
     {
       "added_at": "2025-10-31 06:00:15",
@@ -551,26 +551,6 @@
     {
       "added_at": "2025-10-31 06:00:15",
       "album": {
-        "name": "Imag\u00ednate",
-        "url": "https://open.spotify.com/album/3kzUHIIJdOeP7mwyfT3qJ8"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        },
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        }
-      ],
-      "duration_ms": 170365,
-      "name": "Imag\u00ednate",
-      "url": "https://open.spotify.com/track/4zbEItKoaRId1vRZkoO0Uh"
-    },
-    {
-      "added_at": "2025-10-31 06:00:15",
-      "album": {
         "name": "IA",
         "url": "https://open.spotify.com/album/3DXj5cbdAXHzjG9Yy2rDn3"
       },
@@ -591,18 +571,22 @@
     {
       "added_at": "2025-10-31 06:00:15",
       "album": {
-        "name": "OHNANA",
-        "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
+        "name": "Imag\u00ednate",
+        "url": "https://open.spotify.com/album/3kzUHIIJdOeP7mwyfT3qJ8"
       },
       "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
         {
           "name": "Kapo",
           "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
         }
       ],
-      "duration_ms": 156577,
-      "name": "OHNANA",
-      "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
+      "duration_ms": 170365,
+      "name": "Imag\u00ednate",
+      "url": "https://open.spotify.com/track/4zbEItKoaRId1vRZkoO0Uh"
     },
     {
       "added_at": "2025-10-31 06:00:15",
@@ -619,6 +603,22 @@
       "duration_ms": 145342,
       "name": "REAL GANGSTA LOVE",
       "url": "https://open.spotify.com/track/1pymWRCuZfCd0zdiBJo0Hj"
+    },
+    {
+      "added_at": "2025-10-31 06:00:15",
+      "album": {
+        "name": "OHNANA",
+        "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "duration_ms": 156577,
+      "name": "OHNANA",
+      "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
     },
     {
       "added_at": "2025-10-31 06:00:15",
@@ -767,30 +767,6 @@
     {
       "added_at": "2025-10-31 06:00:15",
       "album": {
-        "name": "Portate Bonito",
-        "url": "https://open.spotify.com/album/2guCMLk57vsbqr0jQbY0Zm"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        }
-      ],
-      "duration_ms": 209541,
-      "name": "Portate Bonito",
-      "url": "https://open.spotify.com/track/4XGFya44QyFTbB1pBT1TLi"
-    },
-    {
-      "added_at": "2025-10-31 06:00:15",
-      "album": {
         "name": "SUERTE",
         "url": "https://open.spotify.com/album/7mCiwgVTJt0k8QeLp2Q5rz"
       },
@@ -811,6 +787,30 @@
       "duration_ms": 193654,
       "name": "SUERTE",
       "url": "https://open.spotify.com/track/6pJj7JbS6TXCZW19BzXot6"
+    },
+    {
+      "added_at": "2025-10-31 06:00:15",
+      "album": {
+        "name": "Portate Bonito",
+        "url": "https://open.spotify.com/album/2guCMLk57vsbqr0jQbY0Zm"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "duration_ms": 209541,
+      "name": "Portate Bonito",
+      "url": "https://open.spotify.com/track/4XGFya44QyFTbB1pBT1TLi"
     },
     {
       "added_at": "2025-10-31 06:00:15",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2025-10-31 06:00:15",
       "album": {
+        "name": "EL \u00daLTIMO TOUR DEL MUNDO",
+        "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 139576,
+      "name": "TE DESEO LO MEJOR",
+      "url": "https://open.spotify.com/track/23XjN1s3DZC8Q9ZwuorYY4"
+    },
+    {
+      "added_at": "2025-10-31 06:00:15",
+      "album": {
         "name": "Antes de Morirme (feat. ROSAL\u00cdA)",
         "url": "https://open.spotify.com/album/1thajvxcfKux4QBwgM9Ac5"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 199994,
       "name": "Antes de Morirme - feat. ROSAL\u00cdA",
       "url": "https://open.spotify.com/track/4Dl8bEzhAEGbcwkQawS1XG"
-    },
-    {
-      "added_at": "2025-10-31 06:00:15",
-      "album": {
-        "name": "EL \u00daLTIMO TOUR DEL MUNDO",
-        "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 139576,
-      "name": "TE DESEO LO MEJOR",
-      "url": "https://open.spotify.com/track/23XjN1s3DZC8Q9ZwuorYY4"
     },
     {
       "added_at": "2025-10-31 06:00:15",
@@ -1379,26 +1379,6 @@
     {
       "added_at": "2025-10-31 06:00:15",
       "album": {
-        "name": "Ojal\u00e1",
-        "url": "https://open.spotify.com/album/71t5su830WyBTzVLZQxOb5"
-      },
-      "artists": [
-        {
-          "name": "Juan Duque",
-          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 180361,
-      "name": "Ojal\u00e1",
-      "url": "https://open.spotify.com/track/04hcwA2QczjJkiEFoaK6qC"
-    },
-    {
-      "added_at": "2025-10-31 06:00:15",
-      "album": {
         "name": "Angelito",
         "url": "https://open.spotify.com/album/51XfF3Vuzhj33GNL4GFUWw"
       },
@@ -1419,6 +1399,26 @@
       "duration_ms": 227513,
       "name": "Angelito",
       "url": "https://open.spotify.com/track/5zm5Ra1DVCmujK882R7QSP"
+    },
+    {
+      "added_at": "2025-10-31 06:00:15",
+      "album": {
+        "name": "Ojal\u00e1",
+        "url": "https://open.spotify.com/album/71t5su830WyBTzVLZQxOb5"
+      },
+      "artists": [
+        {
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 180361,
+      "name": "Ojal\u00e1",
+      "url": "https://open.spotify.com/track/04hcwA2QczjJkiEFoaK6qC"
     },
     {
       "added_at": "2025-10-31 06:00:15",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2025-10-31 06:00:15",
       "album": {
-        "name": "Meiomi",
-        "url": "https://open.spotify.com/album/2kEzEaUjDpaIxgfCT5bKVr"
-      },
-      "artists": [
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 224073,
-      "name": "Meiomi",
-      "url": "https://open.spotify.com/track/0yOo4u7eehSNkz6U5trqQA"
-    },
-    {
-      "added_at": "2025-10-31 06:00:15",
-      "album": {
         "name": "Si Me Dices Que S\u00ed",
         "url": "https://open.spotify.com/album/2U2tXCZs8j0H4NEvhfe4zV"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 211651,
       "name": "Si Me Dices Que S\u00ed",
       "url": "https://open.spotify.com/track/56Ta1O7Jxxpjnc6cWdDKUo"
+    },
+    {
+      "added_at": "2025-10-31 06:00:15",
+      "album": {
+        "name": "Meiomi",
+        "url": "https://open.spotify.com/album/2kEzEaUjDpaIxgfCT5bKVr"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 224073,
+      "name": "Meiomi",
+      "url": "https://open.spotify.com/track/0yOo4u7eehSNkz6U5trqQA"
     },
     {
       "added_at": "2025-10-31 06:00:15",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2025-10-31 06:00:15",
       "album": {
-        "name": "LAMENTO EN BAILE",
-        "url": "https://open.spotify.com/album/3jAzXWlEKBUw3eJvrXM74t"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 168217,
-      "name": "EL TOQUE",
-      "url": "https://open.spotify.com/track/3Vje1J5ell0QAYTEtCm91G"
-    },
-    {
-      "added_at": "2025-10-31 06:00:15",
-      "album": {
         "name": "ALOH ALOH",
         "url": "https://open.spotify.com/album/6XyfVd5MfpUW0aWiXfQrky"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 136571,
       "name": "ALOH ALOH",
       "url": "https://open.spotify.com/track/6Gs0ljTHKNdr0uJrSLIkGd"
+    },
+    {
+      "added_at": "2025-10-31 06:00:15",
+      "album": {
+        "name": "LAMENTO EN BAILE",
+        "url": "https://open.spotify.com/album/3jAzXWlEKBUw3eJvrXM74t"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 168217,
+      "name": "EL TOQUE",
+      "url": "https://open.spotify.com/track/3Vje1J5ell0QAYTEtCm91G"
     },
     {
       "added_at": "2025-10-31 06:00:15",
@@ -1907,6 +1907,22 @@
     {
       "added_at": "2025-10-31 06:00:15",
       "album": {
+        "name": "Me Muevo Con Dios",
+        "url": "https://open.spotify.com/album/7yvmtCjHcBe9DqIVl7AwQT"
+      },
+      "artists": [
+        {
+          "name": "Cruz Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3"
+        }
+      ],
+      "duration_ms": 180374,
+      "name": "Movezz en silencio",
+      "url": "https://open.spotify.com/track/1Hrucz5n0cjYuPApCk8VkL"
+    },
+    {
+      "added_at": "2025-10-31 06:00:15",
+      "album": {
         "name": "Conv\u00e9ncete (Remix)",
         "url": "https://open.spotify.com/album/4tmbV9VHWjdlaDu1YK3yQO"
       },
@@ -1927,22 +1943,6 @@
       "duration_ms": 208933,
       "name": "Conv\u00e9ncete (Remix)",
       "url": "https://open.spotify.com/track/4OA8RnYn0HIQMBDgIFnrJu"
-    },
-    {
-      "added_at": "2025-10-31 06:00:15",
-      "album": {
-        "name": "Me Muevo Con Dios",
-        "url": "https://open.spotify.com/album/7yvmtCjHcBe9DqIVl7AwQT"
-      },
-      "artists": [
-        {
-          "name": "Cruz Cafun\u00e9",
-          "url": "https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3"
-        }
-      ],
-      "duration_ms": 180374,
-      "name": "Movezz en silencio",
-      "url": "https://open.spotify.com/track/1Hrucz5n0cjYuPApCk8VkL"
     },
     {
       "added_at": "2025-10-31 06:00:15",

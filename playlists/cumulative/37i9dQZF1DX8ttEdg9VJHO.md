@@ -4,7 +4,7 @@
 
 > Für ein bisschen mehr Leichtigkeit.
 
-137 songs - 7 hr 3 min
+138 songs - 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [All I Know So Far](https://open.spotify.com/track/4LmN3eU1R1vVEdKuDELpGk) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [All I Know So Far](https://open.spotify.com/album/0uVOhoZbkmOIM4kxJFT2IH) | 4:37 | 2023-07-14 |  |
 | [Angel Eyes](https://open.spotify.com/track/5NId2tRxupzFAOPsRDfCxY) | [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Angel Eyes](https://open.spotify.com/album/0vHQE5yaLhJZmGc8lUnxCd) | 2:50 | 2023-09-15 |  |
 | [Are You Satisfied?](https://open.spotify.com/track/411Hvulc0PrGQLOHljTYed) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [The Family Jewels](https://open.spotify.com/album/1CtDa7pVfLF4u2ZadRTWz7) | 3:21 | 2023-09-06 | 2023-10-21 |
-| [ASAP](https://open.spotify.com/track/0FQfX2SZ2X18QVa6hJrWPS) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [ASAP](https://open.spotify.com/album/3jJnmKAhUUkI4OjwO1AkuB) | 3:03 | 2024-03-27 |  |
+| [ASAP](https://open.spotify.com/track/0FQfX2SZ2X18QVa6hJrWPS) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [ASAP](https://open.spotify.com/album/3jJnmKAhUUkI4OjwO1AkuB) | 3:03 | 2024-03-27 | 2025-11-19 |
 | [Ask & You Shall Receive](https://open.spotify.com/track/4zB5pU3cwGiC6Fcz5qtfUe) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Ask & You Shall Receive](https://open.spotify.com/album/5htBDYVAOjfBHgquMxExL8) | 3:19 | 2024-06-17 |  |
 | [Bad For Me \(feat\. Teddy Swims\)](https://open.spotify.com/track/7fHeyjwJRzbIlGm4DAvLJ1) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad For Me \(feat\. Teddy Swims\)](https://open.spotify.com/album/3cz4txvWNPFpw3xiPYVceu) | 3:33 | 2023-07-14 |  |
 | [Be Good](https://open.spotify.com/track/2qqruNZo50n4si5ngAw3iR) | [Dominik Dudek](https://open.spotify.com/artist/2WfziyvfQ6eZG7iL9h7SVx) | [Be Good](https://open.spotify.com/album/33XINeEL6MDmAypOxIuy3A) | 3:00 | 2023-07-14 | 2023-09-09 |
@@ -40,6 +40,7 @@
 | [Dance Before We Walk \(From “The Idea of You”\)](https://open.spotify.com/track/7xELUwXl4BJq1Hm3PE2v1R) | [August Moon](https://open.spotify.com/artist/4INWJGqEB91KDU1xAwLRaA) | [Dance Before We Walk \(From “The Idea of You”\)](https://open.spotify.com/album/6cJvVRDKO1eZcKomjxVQUK) | 2:37 | 2024-05-10 | 2025-04-17 |
 | [Der letzte Tanz](https://open.spotify.com/track/3JtIS5WNPJokeMeEVnWWEM) | [Bosse](https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR) | [Der letzte Tanz](https://open.spotify.com/album/57V0HkA8vDHxpACqWNqQcO) | 3:20 | 2023-07-14 |  |
 | [Don't Stop The Car](https://open.spotify.com/track/4TGFS6BL59tuRSjBByZ3A4) | [Nickless](https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea) | [Don't Stop The Car](https://open.spotify.com/album/0cWThtdC9EYUPQMGAivj7m) | 3:14 | 2025-05-22 |  |
+| [Dopamine](https://open.spotify.com/track/168GHxsiJyT9tlJN74ZO11) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Dopamine](https://open.spotify.com/album/3k63fb9eki4aVFPzU3Ptvw) | 3:35 | 2025-11-18 |  |
 | [Driver](https://open.spotify.com/track/49k2jh99QkPqPIZgOzaW9g) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [Driver](https://open.spotify.com/album/4TxQ4d9et83FNlbcyEO9s5) | 3:10 | 2024-03-27 | 2024-04-24 |
 | [Eyes On You](https://open.spotify.com/track/6qItx3M2IZbXBKRnptbnHM) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Eyes On You](https://open.spotify.com/album/2vwW8EzZGZaAFfZ2HYL1hE) | 2:57 | 2023-07-14 | 2023-07-29 |
 | [Eyes On You](https://open.spotify.com/track/6xpAcenBpNYOyljTMLvzVi) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Good Times Go](https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV) | 2:57 | 2023-07-14 | 2024-04-19 |

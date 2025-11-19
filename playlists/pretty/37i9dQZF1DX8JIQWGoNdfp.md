@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JIQWGoNdfp.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/cheetah/">Tyreek Hill</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,205 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,218 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JIQWGoNdfp.md) - [plain]
 | 37 | [The Way](https://open.spotify.com/track/49aUxrufliNDGj7MTm7pNU) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Who Is Jill Scott? \- Words and Sounds, Vol\. 1](https://open.spotify.com/album/620y2xi6SkUb6IZlnnWxuG) | 4:15 |
 | 38 | [Come Through \(feat\. Chris Brown\)](https://open.spotify.com/track/3krZxyBsWEHfEfJegYaWTd) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Come Through \(feat\. Chris Brown\)](https://open.spotify.com/album/7qKY8n8wPUizIo2bfSWUEB) | 3:34 |
 | 39 | [These Are The Times](https://open.spotify.com/track/0OMmiWMwsCNtpQ5aP6fdp9) | [Dru Hill](https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT) | [Enter The Dru](https://open.spotify.com/album/6L5uROBQ5wy3MOPI334RHE) | 4:08 |
-| 40 | [Permission](https://open.spotify.com/track/3gx6E5B42WHKf5agVWQAf2) | [Ro James](https://open.spotify.com/artist/7r2oyrNc0YjSC7hZL87V0Y) | [ELDORADO](https://open.spotify.com/album/1SXqTsVnjtIULG5YKXafeY) | 4:41 |
+| 40 | [Permission](https://open.spotify.com/track/3gx6E5B42WHKf5agVWQAf2) | [Ro James](https://open.spotify.com/artist/7r2oyrNc0YjSC7hZL87V0Y) | [ELDORADO](https://open.spotify.com/album/1SXqTsVnjtIULG5YKXafeY) | 4:38 |
 | 41 | [Anything \(feat\. Next\)](https://open.spotify.com/track/38084tN66v4KHqiLpl9cN8) | [Jaheim](https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3), [Next](https://open.spotify.com/artist/2MGT7CYlixSPxAnnkhLpaA) | [Ghetto Love](https://open.spotify.com/album/2Hvu2Yh4ghgcLvYLr3V5dM) | 4:47 |
 | 42 | [Night Trouble](https://open.spotify.com/track/5LLtNp8qc3NaCIieZ2W4Dk) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2) | [Night Trouble](https://open.spotify.com/album/7u7l9XNKOdM1UXLOL4BJq8) | 6:31 |
 | 43 | [I Belong To You \(Every Time I See Your Face\)](https://open.spotify.com/track/1nP6feYWJVpbO41aezFtm2) | [Rome](https://open.spotify.com/artist/6KcJMeHZr0A6XHwAwlmfef) | [Rome](https://open.spotify.com/album/4ol8aChmHBMIL85LzG10ja) | 4:33 |

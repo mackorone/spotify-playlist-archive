@@ -148,10 +148,28 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 172485,
       "name": "AMOR PROPIO",
       "url": "https://open.spotify.com/track/01cN1DKc5HH7F9MOBBjSip"
+    },
+    {
+      "album": {
+        "name": "AMOR PROPIO",
+        "url": "https://open.spotify.com/album/7JWBVCc97jLfUJ17TCUWHK"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "date_added": "2025-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172485,
+      "name": "AMOR PROPIO",
+      "url": "https://open.spotify.com/track/3y91ILcWUknMxicHWFzvhd"
     },
     {
       "album": {
@@ -2406,6 +2424,28 @@
     {
       "album": {
         "name": "\u00c1NGEL",
+        "url": "https://open.spotify.com/album/2YUVybwjooIwGMbyzpeplq"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        }
+      ],
+      "date_added": "2025-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184095,
+      "name": "\u00c1NGEL",
+      "url": "https://open.spotify.com/track/0jYGePHozqLtHWoKVQZrFV"
+    },
+    {
+      "album": {
+        "name": "\u00c1NGEL",
         "url": "https://open.spotify.com/album/2iiR2powAnVyARFx7deWZT"
       },
       "artists": [
@@ -2420,7 +2460,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 184095,
       "name": "\u00c1NGEL",
       "url": "https://open.spotify.com/track/4JtKlgBLKHtRTqixKHrrw8"

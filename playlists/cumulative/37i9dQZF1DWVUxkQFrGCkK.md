@@ -4,7 +4,7 @@
 
 > Stick Out!!
 
-1,131 songs - 3 day 6 hr 56 min
+1,132 songs - 3 day 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -842,6 +842,7 @@
 | [Sabu](https://open.spotify.com/track/4KG3SAPJbEvNOVO7VsqJBr) | [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh), [Palane](https://open.spotify.com/artist/393dtQjlemWfdJUUGRKbRr) | [Sabu](https://open.spotify.com/album/0myT5yKI8I18eDlwXV5iLL) | 3:04 | 2025-03-27 | 2025-09-05 |
 | [Samburu](https://open.spotify.com/track/3ORZHQYXG18VBrKPeWAVZo) | [AJ Christou](https://open.spotify.com/artist/6dWcGqZzMm3mNuvc4yLVsj), [Mason Collective](https://open.spotify.com/artist/5v1K4IgzvVs7rFzessYPhS) | [Samburu](https://open.spotify.com/album/5tbIY5LCwWg4oziblZ3NOy) | 7:03 | 2023-11-16 | 2024-06-21 |
 | [Samburu Tribe](https://open.spotify.com/track/4Heg8StdyERCKIWrY5VSQh) | [Tekniq](https://open.spotify.com/artist/7l95bNnc7Bmtk7AAF6T6aD) | [Ridim](https://open.spotify.com/album/62ZqD37ORMKkpR7fDVc28M) | 7:48 | 2023-09-28 | 2024-06-21 |
+| [Same Man \(DERON Rework\)](https://open.spotify.com/track/1zxKcztpxSMMZcNu8rcZZp) | [DERON](https://open.spotify.com/artist/7F8pPpfBuhZJF1F622KD5J), [DJ Delicious](https://open.spotify.com/artist/5Bwa0MY2tBdOAJg8K5PLSQ) | [Same Man \(DERON Rework\)](https://open.spotify.com/album/1rFU1rBwadBtdyya9B5jvc) | 2:43 | 2025-11-18 |  |
 | [Satisfaction \- Vidojean X Oliver Loenn, Sunnery James & Ryan Marciano Remix](https://open.spotify.com/track/2QPRAhxKMQDhzYLQMaOIHb) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [The Biz](https://open.spotify.com/artist/1jQDgp9Fak4WYVZedWLF4G), [Vidojean X Oliver Loenn](https://open.spotify.com/artist/6IoO8i8OnEodMtJ3CFKlAH), [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt) | [Satisfaction \(Vidojean X Oliver Loenn, Sunnery James & Ryan Marciano Remix\)](https://open.spotify.com/album/0j1bKPWWeiorKBaVtu468I) | 3:10 | 2025-02-20 |  |
 | [Satisfied](https://open.spotify.com/track/0swB7iITDrfzrKqQXR661u) | [David Penn](https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki), [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO) | [Satisfied](https://open.spotify.com/album/5Ao966nL5V38v8652399lo) | 3:06 | 2024-02-29 | 2024-03-15 |
 | [Saturday \- MAXI MERAKI Remix](https://open.spotify.com/track/0Fi5BP9mPnqSq4K9bOtIb4) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [MAXI MERAKI](https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm) | [Kiss & Forget Remixes](https://open.spotify.com/album/6EEn6shLUPyB81mp89ZTwQ) | 6:25 | 2024-12-12 |  |

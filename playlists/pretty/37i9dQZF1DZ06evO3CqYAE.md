@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CqYAE.md) - [plain]
 
 > This is Mercy Chinwo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,821 likes - 50 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,823 likes - 50 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,17 +39,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CqYAE.md) - [plain]
 | 29 | [Incredible God](https://open.spotify.com/track/1thApqD2u4cSfLsulqV9OF) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Cross: My Gaze](https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt) | 6:45 |
 | 30 | [Who Is on the Lord's Side](https://open.spotify.com/track/5pVeIe34S5rbP6FZAEahBS) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Birth of Revival](https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH) | 10:29 |
 | 31 | [Lifter](https://open.spotify.com/track/5MZwEDNE3AnecfSieetFaD) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Elevated](https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg) | 4:24 |
-| 32 | [When You Say A Thing](https://open.spotify.com/track/36JNRz48wspzRPzA6fU2tc) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [When You Say A Thing](https://open.spotify.com/album/58KaH3OCajM4VlwWV2XhXY) | 3:59 |
+| 32 | [More Than Enough](https://open.spotify.com/track/4D6hK7dGrFR2PChNfOZY2Y) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [More Than Enough](https://open.spotify.com/album/4IEP8CaltYTr7RaqPQzf0R) | 3:29 |
 | 33 | [Bor Ekom](https://open.spotify.com/track/6seV1XGapGdXZ4jn7VNHAe) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Cross: My Gaze](https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt) | 6:07 |
-| 34 | [More Than Enough](https://open.spotify.com/track/4D6hK7dGrFR2PChNfOZY2Y) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [More Than Enough](https://open.spotify.com/album/4IEP8CaltYTr7RaqPQzf0R) | 3:29 |
+| 34 | [When You Say A Thing](https://open.spotify.com/track/36JNRz48wspzRPzA6fU2tc) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [When You Say A Thing](https://open.spotify.com/album/58KaH3OCajM4VlwWV2XhXY) | 3:59 |
 | 35 | [Yesterday Today Forever](https://open.spotify.com/track/28ZfSHW7oGWpwW2vefLxLB) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Elevated](https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg) | 4:24 |
 | 36 | [Oke Mmiri \- Live](https://open.spotify.com/track/4qLYAlR2b0uwvNTtOapmFF) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Overwhelming Victory](https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV) | 10:13 |
 | 37 | [Imenem](https://open.spotify.com/track/7kX7zB3FrmhGgdMA19s7cf) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Cross: My Gaze](https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt) | 5:46 |
 | 38 | [Suddenly](https://open.spotify.com/track/1hHmS0mH6rUoEj9MAVhiyE) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Suddenly + Amazing God \(Double Single\)](https://open.spotify.com/album/1kBd76gF9G6AAFS3Ss1DMR) | 4:51 |
-| 39 | [Oyoyo Chukwu](https://open.spotify.com/track/2M4NkEkDAevPkb3FD7iyOQ) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [Israel Dammy](https://open.spotify.com/artist/0SQOumbt8n4qp5YkfG491a), [EeZee Tee](https://open.spotify.com/artist/25LbjRDnpYV85ipbuIV5s7) | [Oyoyo Chukwu](https://open.spotify.com/album/6BftpYwx4vzlLi4FN35Ts8) | 5:17 |
+| 39 | [Onyeoma \(Good God\)](https://open.spotify.com/track/7wowCk9oxF24GO00AhCwx8) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Onyeoma \(Good God\)](https://open.spotify.com/album/7wwg5quAluBg8IHJN1lUWM) | 4:25 |
 | 40 | [Not The Same](https://open.spotify.com/track/66tUEMwPlkZrFmhlxByWX0) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Overwhelming Victory](https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV) | 5:15 |
 | 41 | [Regular \(feat\. Fiokee\)](https://open.spotify.com/track/3h4clLNlW8j8XZaZ9Av2nP) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [Fiokee](https://open.spotify.com/artist/0dIKXNriGyVYvw6Cw2jko5) | [The Cross: My Gaze](https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt) | 3:57 |
-| 42 | [Onyeoma \(Good God\)](https://open.spotify.com/track/7wowCk9oxF24GO00AhCwx8) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Onyeoma \(Good God\)](https://open.spotify.com/album/7wwg5quAluBg8IHJN1lUWM) | 4:25 |
+| 42 | [Oyoyo Chukwu](https://open.spotify.com/track/2M4NkEkDAevPkb3FD7iyOQ) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [Israel Dammy](https://open.spotify.com/artist/0SQOumbt8n4qp5YkfG491a), [EeZee Tee](https://open.spotify.com/artist/25LbjRDnpYV85ipbuIV5s7) | [Oyoyo Chukwu](https://open.spotify.com/album/6BftpYwx4vzlLi4FN35Ts8) | 5:17 |
 | 43 | [You No Let Them](https://open.spotify.com/track/1ra32VEEafJj5MzV6NuoEc) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [In His Will](https://open.spotify.com/album/1pL4cc5JPJ9nk44TvNPhom) | 4:09 |
 | 44 | [Imela](https://open.spotify.com/track/2CtReCMMQ7C7FiN1hbFWQ3) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Elevated](https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg) | 4:11 |
 | 45 | [Igwe](https://open.spotify.com/track/0bmIKllyl9bZhNxt2jgvzA) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Cross: My Gaze](https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt) | 5:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CqYAE.md) - [plain]
 | 49 | [I Depend on You](https://open.spotify.com/track/1v5aEbJExlPEVuTxau4xPu) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [In His Will](https://open.spotify.com/album/1pL4cc5JPJ9nk44TvNPhom) | 3:42 |
 | 50 | [You Are My God](https://open.spotify.com/track/6kqrjcQgSAd0onK3AUO69G) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [In His Will](https://open.spotify.com/album/1pL4cc5JPJ9nk44TvNPhom) | 3:47 |
 
-Snapshot ID: `aRkUAAAAAABKmS+xmMlQfyMnqjLCfHPO`
+Snapshot ID: `aRplgAAAAABzsGg5J1Uw5BjKCVtEPbNk`

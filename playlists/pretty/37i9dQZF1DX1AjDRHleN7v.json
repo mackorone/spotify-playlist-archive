@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 398758,
+  "num_followers": 398884,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
@@ -299,6 +299,22 @@
     {
       "added_at": "2025-10-24 15:23:27",
       "album": {
+        "name": "15 Anos (Ao vivo)",
+        "url": "https://open.spotify.com/album/1XRXhmwnkbjh8voQ5rIn0L"
+      },
+      "artists": [
+        {
+          "name": "Tribo De Jah",
+          "url": "https://open.spotify.com/artist/6oAqyhJILwJf9S3Of2zTuv"
+        }
+      ],
+      "duration_ms": 209226,
+      "name": "Uma onda que passou (E eu n\u00e3o dropei) - Ao vivo",
+      "url": "https://open.spotify.com/track/5hmTjMenODKpZuE5c4XzCy"
+    },
+    {
+      "added_at": "2025-10-24 15:23:27",
+      "album": {
         "name": "Oh! Chuva (Ao Vivo)",
         "url": "https://open.spotify.com/album/1XvZ3fUOBfrvserZuP5DDK"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 194771,
       "name": "Oh! Chuva - Ao Vivo",
       "url": "https://open.spotify.com/track/6pGzovjfmkZTwWZ5wMW5MZ"
-    },
-    {
-      "added_at": "2025-10-24 15:23:27",
-      "album": {
-        "name": "15 Anos (Ao vivo)",
-        "url": "https://open.spotify.com/album/1XRXhmwnkbjh8voQ5rIn0L"
-      },
-      "artists": [
-        {
-          "name": "Tribo De Jah",
-          "url": "https://open.spotify.com/artist/6oAqyhJILwJf9S3Of2zTuv"
-        }
-      ],
-      "duration_ms": 209226,
-      "name": "Uma onda que passou (E eu n\u00e3o dropei) - Ao vivo",
-      "url": "https://open.spotify.com/track/5hmTjMenODKpZuE5c4XzCy"
     },
     {
       "added_at": "2025-10-24 15:23:27",
@@ -623,22 +623,6 @@
     {
       "added_at": "2025-10-24 15:23:27",
       "album": {
-        "name": "Que Seja de Alegria",
-        "url": "https://open.spotify.com/album/3ADcKDdPwqiHZrkDRtH4Ma"
-      },
-      "artists": [
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
-        }
-      ],
-      "duration_ms": 174853,
-      "name": "Que Seja de Alegria",
-      "url": "https://open.spotify.com/track/1xJI23nZnGvXV7irhcdJQP"
-    },
-    {
-      "added_at": "2025-10-24 15:23:27",
-      "album": {
         "name": "Pipa",
         "url": "https://open.spotify.com/album/22uNAEqqh6jG9IF9TOBuSA"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 181740,
       "name": "Pipa",
       "url": "https://open.spotify.com/track/7lj99qLQceWVO2xdmu0UYr"
+    },
+    {
+      "added_at": "2025-10-24 15:23:27",
+      "album": {
+        "name": "Que Seja de Alegria",
+        "url": "https://open.spotify.com/album/3ADcKDdPwqiHZrkDRtH4Ma"
+      },
+      "artists": [
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        }
+      ],
+      "duration_ms": 174853,
+      "name": "Que Seja de Alegria",
+      "url": "https://open.spotify.com/track/1xJI23nZnGvXV7irhcdJQP"
     },
     {
       "added_at": "2025-10-24 15:23:27",
@@ -851,18 +851,18 @@
     {
       "added_at": "2025-10-24 15:23:27",
       "album": {
-        "name": "S\u00f3 Pra Brilhar",
-        "url": "https://open.spotify.com/album/1zgxOuUo8iCbBmKCRCvlfR"
+        "name": "Cai\u00e7ara",
+        "url": "https://open.spotify.com/album/7GRtOhtBDFj6jRTFKrgoZK"
       },
       "artists": [
         {
-          "name": "Chimarruts",
-          "url": "https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW"
+          "name": "Vitti Romera",
+          "url": "https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk"
         }
       ],
-      "duration_ms": 198340,
-      "name": "S\u00f3 Pra Brilhar",
-      "url": "https://open.spotify.com/track/4qvkuxl7BcnTZWLXeTZPbH"
+      "duration_ms": 174622,
+      "name": "Cai\u00e7ara",
+      "url": "https://open.spotify.com/track/348fxaFJRVpt775GjR31aM"
     },
     {
       "added_at": "2025-10-24 15:23:27",
@@ -883,18 +883,18 @@
     {
       "added_at": "2025-10-24 15:23:27",
       "album": {
-        "name": "Agarradinho - Spotify Singles",
-        "url": "https://open.spotify.com/album/6ldTBilOX402xGqAcFeFWi"
+        "name": "Magn\u00e9tica",
+        "url": "https://open.spotify.com/album/45ErtgmcN4q2MfwQV17dxI"
       },
       "artists": [
         {
-          "name": "Enme",
-          "url": "https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8"
+          "name": "BRAZA",
+          "url": "https://open.spotify.com/artist/5F0iFhw7bZE7a8INjualJn"
         }
       ],
-      "duration_ms": 164494,
-      "name": "Agarradinho - Spotify Singles",
-      "url": "https://open.spotify.com/track/6j9YiLIN5TqwUuBwoyglMW"
+      "duration_ms": 196056,
+      "name": "Magn\u00e9tica",
+      "url": "https://open.spotify.com/track/558rUxNte2dOz2OXZDT5KX"
     },
     {
       "added_at": "2025-10-24 15:23:27",
@@ -915,38 +915,6 @@
     {
       "added_at": "2025-10-24 15:23:27",
       "album": {
-        "name": "Magn\u00e9tica",
-        "url": "https://open.spotify.com/album/45ErtgmcN4q2MfwQV17dxI"
-      },
-      "artists": [
-        {
-          "name": "BRAZA",
-          "url": "https://open.spotify.com/artist/5F0iFhw7bZE7a8INjualJn"
-        }
-      ],
-      "duration_ms": 196056,
-      "name": "Magn\u00e9tica",
-      "url": "https://open.spotify.com/track/558rUxNte2dOz2OXZDT5KX"
-    },
-    {
-      "added_at": "2025-10-24 15:23:27",
-      "album": {
-        "name": "Cai\u00e7ara",
-        "url": "https://open.spotify.com/album/7GRtOhtBDFj6jRTFKrgoZK"
-      },
-      "artists": [
-        {
-          "name": "Vitti Romera",
-          "url": "https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk"
-        }
-      ],
-      "duration_ms": 174622,
-      "name": "Cai\u00e7ara",
-      "url": "https://open.spotify.com/track/348fxaFJRVpt775GjR31aM"
-    },
-    {
-      "added_at": "2025-10-24 15:23:27",
-      "album": {
         "name": "Meu Destino \u00e9 o Litoral",
         "url": "https://open.spotify.com/album/6dmHQknnJsKsaoZ9Ow44Mh"
       },
@@ -959,6 +927,38 @@
       "duration_ms": 190250,
       "name": "Meu Destino \u00e9 o Litoral",
       "url": "https://open.spotify.com/track/6nvvhe2emrtQsoCmO1dxNg"
+    },
+    {
+      "added_at": "2025-10-24 15:23:27",
+      "album": {
+        "name": "S\u00f3 Pra Brilhar",
+        "url": "https://open.spotify.com/album/1zgxOuUo8iCbBmKCRCvlfR"
+      },
+      "artists": [
+        {
+          "name": "Chimarruts",
+          "url": "https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW"
+        }
+      ],
+      "duration_ms": 198340,
+      "name": "S\u00f3 Pra Brilhar",
+      "url": "https://open.spotify.com/track/4qvkuxl7BcnTZWLXeTZPbH"
+    },
+    {
+      "added_at": "2025-10-24 15:23:27",
+      "album": {
+        "name": "Agarradinho - Spotify Singles",
+        "url": "https://open.spotify.com/album/6ldTBilOX402xGqAcFeFWi"
+      },
+      "artists": [
+        {
+          "name": "Enme",
+          "url": "https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8"
+        }
+      ],
+      "duration_ms": 164494,
+      "name": "Agarradinho - Spotify Singles",
+      "url": "https://open.spotify.com/track/6j9YiLIN5TqwUuBwoyglMW"
     },
     {
       "added_at": "2025-10-24 15:23:27",

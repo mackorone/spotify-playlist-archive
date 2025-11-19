@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 
 > A journey in the modern & old Sudanese sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,646 likes - 120 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,645 likes - 120 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 | 22 | [Ghadara](https://open.spotify.com/track/6v9jNH12jMdwX11d1Hjj4f) | [MarSimba](https://open.spotify.com/artist/04mOXDs7deriXMuchiI48W) | [Ghadara](https://open.spotify.com/album/12AoBSJdRUTki8mNWS6VOR) | 3:02 |
 | 23 | [Kabasa](https://open.spotify.com/track/3BWwZO7jEDkJDfEMkcu9VO) | [Hoosh](https://open.spotify.com/artist/451QYarjabz09nL2SSufeV), [MaMan](https://open.spotify.com/artist/4OGMVOTexmW4hEV4bZMX30) | [Kabasa](https://open.spotify.com/album/3jzgvMVDu6OUaAyyd0IGC6) | 2:47 |
 | 24 | [Ganay Albreedo](https://open.spotify.com/track/0S45re7HsNZYqlktnE9niZ) | [Taha Suliman](https://open.spotify.com/artist/0f8AQFo3xYsmSvDIrLG94a) | [Ganay Albreedo](https://open.spotify.com/album/1dntlbkIw0jZGk3HIDxu2q) | 5:35 |
-| 25 | [Ejaza](https://open.spotify.com/track/5gZV4PSCLqcDVPklLfqmHk) | [Rotation](https://open.spotify.com/artist/3juZpBl6TvM4KdFKFRj4So), [TooDope](https://open.spotify.com/artist/7D0M64Ii5Iv83dlQ50PMnd) | [Tnt: Injaz](https://open.spotify.com/album/08nO4dVa88kyXFzL89vMVf) | 3:40 |
-| 26 | [Caribby](https://open.spotify.com/track/7L2S4kdbsp2NzM3Q3OjyKi) | [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN), [77](https://open.spotify.com/artist/2yOrzp26sCzukpaG23nI9U) | [Caribby](https://open.spotify.com/album/3IRiPrTMPVGt8QkIr2fOy6) | 2:16 |
+| 25 | [Caribby](https://open.spotify.com/track/7L2S4kdbsp2NzM3Q3OjyKi) | [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN), [77](https://open.spotify.com/artist/2yOrzp26sCzukpaG23nI9U) | [Caribby](https://open.spotify.com/album/3IRiPrTMPVGt8QkIr2fOy6) | 2:16 |
+| 26 | [Ejaza](https://open.spotify.com/track/5gZV4PSCLqcDVPklLfqmHk) | [Rotation](https://open.spotify.com/artist/3juZpBl6TvM4KdFKFRj4So), [TooDope](https://open.spotify.com/artist/7D0M64Ii5Iv83dlQ50PMnd) | [Tnt: Injaz](https://open.spotify.com/album/08nO4dVa88kyXFzL89vMVf) | 3:40 |
 | 27 | [Sit Al Banat \(feat\. Sheme\)](https://open.spotify.com/track/6epkYhfZvmAYz6dbAgP2Jw) | [MarSimba](https://open.spotify.com/artist/04mOXDs7deriXMuchiI48W), [Sheme](https://open.spotify.com/artist/6x8vq4QX1MQjqasHWpMWhw) | [Sit Al Banat \(feat\. Sheme\)](https://open.spotify.com/album/7gwGg3MoOvIUPe0kQ4lonz) | 3:26 |
 | 28 | [Silsila](https://open.spotify.com/track/5KTy5Suuea5uBUID1pwKU5) | [ElKhaleefa](https://open.spotify.com/artist/3tREMnMFWzcm8nzHIPXnBG) | [Silsila](https://open.spotify.com/album/1P1feiWIo2Mtl6HGDS0Gqz) | 3:45 |
 | 29 | [Kalam Kteer](https://open.spotify.com/track/2MPhQqiPRsHJUVZqAW3xNi) | [Montiyago](https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk) | [Kalam Kteer](https://open.spotify.com/album/7ticL8OnOkr0oJ9VdssO3a) | 2:52 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 | 36 | [Dafnino](https://open.spotify.com/track/0CWiXLt7mwtbROte487DbZ) | [MaMan](https://open.spotify.com/artist/4OGMVOTexmW4hEV4bZMX30) | [Dafnino](https://open.spotify.com/album/3H3S0xW9UHlQBuuBeig4zY) | 2:27 |
 | 37 | [مسامحك يا حبيبي](https://open.spotify.com/track/7EoJBZ8Gi0SL58cpWmw0e9) | [نانسي عجاج](https://open.spotify.com/artist/10eNNn6xl1vLRBIV7W8wYN) | [مسامحك يا حبيبي](https://open.spotify.com/album/6Fa6ccBtkKWYwlkJaEOc5k) | 6:56 |
 | 38 | [Waraga](https://open.spotify.com/track/5d7lKOsOxblM7m6uI4nz9J) | [O'd](https://open.spotify.com/artist/0LwmaxKGW5M2qF7Mas5ejk) | [O'd the EP](https://open.spotify.com/album/3yPFtPM6fwAlfbr1pLkp9I) | 5:13 |
-| 39 | [DUM TIK TIK](https://open.spotify.com/track/4rXMDVHEmlCywEJD2AHgk3) | [Taha Suliman](https://open.spotify.com/artist/0f8AQFo3xYsmSvDIrLG94a) | [DUM TIK TIK](https://open.spotify.com/album/2ZZidnczOk5PdAkGbef9Ec) | 3:25 |
-| 40 | [Ahel Allel](https://open.spotify.com/track/7km3RkjOhMJFs0N5kMuFot) | [Amira Kheir](https://open.spotify.com/artist/5WZN5v7MdgFPu29h88MWvh) | [View From Somewhere](https://open.spotify.com/album/3Kv4BSX3GJrngRKK61JKR8) | 5:08 |
+| 39 | [Ahel Allel](https://open.spotify.com/track/7km3RkjOhMJFs0N5kMuFot) | [Amira Kheir](https://open.spotify.com/artist/5WZN5v7MdgFPu29h88MWvh) | [View From Somewhere](https://open.spotify.com/album/3Kv4BSX3GJrngRKK61JKR8) | 5:08 |
+| 40 | [DUM TIK TIK](https://open.spotify.com/track/4rXMDVHEmlCywEJD2AHgk3) | [Taha Suliman](https://open.spotify.com/artist/0f8AQFo3xYsmSvDIrLG94a) | [DUM TIK TIK](https://open.spotify.com/album/2ZZidnczOk5PdAkGbef9Ec) | 3:25 |
 | 41 | [Fan3](https://open.spotify.com/track/0e9wgOCa3s2oqM03jNc2qx) | [Tmsa7](https://open.spotify.com/artist/1eUb0Yqoxg2MgUuHyYfM4e) | [Fan3](https://open.spotify.com/album/0RTNur3c132jazOHMua1wU) | 2:19 |
 | 42 | [Matalib](https://open.spotify.com/track/0chh0JBXHHvrOymWelevQM) | [Sammany](https://open.spotify.com/artist/4NyCG4OTfplfwyO65U7gY7) | [Matalib](https://open.spotify.com/album/4kyeAYBNCYeGHEa2CktKDx) | 4:48 |
 | 43 | [Zaman Maf](https://open.spotify.com/track/3RHQmKlOaVqew8UZ5AbmOP) | [O'd](https://open.spotify.com/artist/0LwmaxKGW5M2qF7Mas5ejk), [A7MD](https://open.spotify.com/artist/4lG8ClDdSczGV2g7b2G7Qx) | [Zaman Maf](https://open.spotify.com/album/5m1ZHWPTBZq9V7xeV27IO3) | 3:38 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 | 72 | [فرصة](https://open.spotify.com/track/7vhFycpTFRJRxupGBBbLJb) | [Gadoora](https://open.spotify.com/artist/1teHDQLqalpAJfWIxqi2N1) | [فرصة](https://open.spotify.com/album/07FW0qQHN0rt89U6Rwueyj) | 2:04 |
 | 73 | [Marsa](https://open.spotify.com/track/59LnpUJtFTYVYo1JBN8vsO) | [Walgz](https://open.spotify.com/artist/50gLwM6cfifBxgrML3Q0IT) | [Marsa](https://open.spotify.com/album/4dEXa6zSQParkOq7js55Jt) | 2:56 |
 | 74 | [Sudania](https://open.spotify.com/track/5NeVCUBVudh9rPpDik5amG) | [Omar Majid](https://open.spotify.com/artist/30kqjrpTAZryMkMjk1FbK2), [AKA Keyz](https://open.spotify.com/artist/4JrLK4tGHTmLkof4Gn6gMT), [G Salih](https://open.spotify.com/artist/7k6dtdPdypqE2KXYWWl4tH), [Aidyproof](https://open.spotify.com/artist/7uzLUplPMKoZZ8ZC5XoeIN) | [Sudania](https://open.spotify.com/album/5HtVbnnYh94EB0HLkdrrVo) | 4:27 |
-| 75 | [Agabony](https://open.spotify.com/track/00EfH4456NhY3RIMpBH3yP) | [Sharief Elfehail](https://open.spotify.com/artist/4bBWBw0jxg6rlIx4GpTuLC) | [Agabony](https://open.spotify.com/album/0y8Z1R9rnVv5a87fx7scp0) | 4:34 |
-| 76 | [حبك وطن](https://open.spotify.com/track/1mGZJfUNitNntilLqPdS0k) | [Alsarah](https://open.spotify.com/artist/44xvhsoOZU4Tmr5maR79mS) | [حبك وطن](https://open.spotify.com/album/7MjP1UWvKqJHHjicEZXXU8) | 3:39 |
+| 75 | [حبك وطن](https://open.spotify.com/track/1mGZJfUNitNntilLqPdS0k) | [Alsarah](https://open.spotify.com/artist/44xvhsoOZU4Tmr5maR79mS) | [حبك وطن](https://open.spotify.com/album/7MjP1UWvKqJHHjicEZXXU8) | 3:39 |
+| 76 | [Agabony](https://open.spotify.com/track/00EfH4456NhY3RIMpBH3yP) | [Sharief Elfehail](https://open.spotify.com/artist/4bBWBw0jxg6rlIx4GpTuLC) | [Agabony](https://open.spotify.com/album/0y8Z1R9rnVv5a87fx7scp0) | 4:34 |
 | 77 | [Voyage](https://open.spotify.com/track/0Uz6OrAFUnaRPV3TzpslHR) | [Karet Safar](https://open.spotify.com/artist/40wbwbsa9FeuL2pmB68nG9) | [Safra](https://open.spotify.com/album/4cjgzOqf8YI2CEtb4hSQau) | 3:32 |
 | 78 | [Moya wa Zait](https://open.spotify.com/track/4ZUU8c89Ut56X7ljfqqEHc) | [Walgz](https://open.spotify.com/artist/50gLwM6cfifBxgrML3Q0IT), [Ntitled](https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd) | [Moya wa Zait](https://open.spotify.com/album/6TlqV4YPrrt1X5qHUmZGxA) | 2:38 |
 | 79 | [Logha](https://open.spotify.com/track/7GlC5zReYnDCTw5TpNIn1d) | [Tageel](https://open.spotify.com/artist/4LcBuE8S15eBSgSqKApro5), [Swish](https://open.spotify.com/artist/0CMKtAa3P8sJ6MJjs8sqPi) | [Logha](https://open.spotify.com/album/4YNYUx2sXyYGcfNfqEc3pn) | 3:18 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 
 > The best new songs of the month, handpicked by Spotify editors\. Cover: KETTAMA
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,349 likes - 55 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,403 likes - 55 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 13 | [Entwined](https://open.spotify.com/track/4hphReh7hXDCFb14FfB7n1) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Entwined](https://open.spotify.com/album/4M45TZxg8HtnBwCDyqOb6B) | 3:40 |
 | 14 | [Star Signs](https://open.spotify.com/track/1P9I8lE5sm4k8ZkkVVjeGP) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Solace & The Vices](https://open.spotify.com/album/3Xk1Mz1aaon4cx1f91Z00n) | 3:24 |
 | 15 | [No Voy A Cambiar](https://open.spotify.com/track/7mLqaJfinPdwZ9evLFaG5p) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [No Voy A Cambiar](https://open.spotify.com/album/1kgLWHrvpuZuZ40DguJmbf) | 2:45 |
-| 16 | [Root of all Evil](https://open.spotify.com/track/0NZKfcua68wuZePhjp8N2I) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Son Of Spergy](https://open.spotify.com/album/115s3YJqm6iLblABdjtgzQ) | 4:25 |
-| 17 | [Slip](https://open.spotify.com/track/3bUUZznrg3tbLYSM0vMXRo) | [Not for Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Melt](https://open.spotify.com/album/4Arf0rqtYsnJ5hhscuqCLB) | 3:32 |
-| 18 | [Betty](https://open.spotify.com/track/6QN5ClFa3Ul4kFzsdw3Z8t) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Cherry Valley](https://open.spotify.com/album/5cBseH5iReybVachkE0BMA) | 2:54 |
+| 16 | [Slip](https://open.spotify.com/track/3bUUZznrg3tbLYSM0vMXRo) | [Not for Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Melt](https://open.spotify.com/album/4Arf0rqtYsnJ5hhscuqCLB) | 3:32 |
+| 17 | [Betty](https://open.spotify.com/track/6QN5ClFa3Ul4kFzsdw3Z8t) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Cherry Valley](https://open.spotify.com/album/5cBseH5iReybVachkE0BMA) | 2:54 |
+| 18 | [Root of all Evil](https://open.spotify.com/track/0NZKfcua68wuZePhjp8N2I) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Son Of Spergy](https://open.spotify.com/album/115s3YJqm6iLblABdjtgzQ) | 4:25 |
 | 19 | [Noises + JT](https://open.spotify.com/track/36e4mRTGXQL283nBFSA9Tv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 2:07 |
 | 20 | [MIXED EMOTIONS \(feat\. Leon Thomas\)](https://open.spotify.com/track/606zbOQvuTi9dNxnlZJ31q) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [TYCOON](https://open.spotify.com/album/6sOJ6rEt2KO0j7aLoNMLaK) | 4:03 |
 | 21 | [ego of a man](https://open.spotify.com/track/4QmonUBs8sq51Sgbw26Yg4) | [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [HOT POT!](https://open.spotify.com/album/7J69akDNK0b1k42YZK7Yg7) | 2:37 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 28 | [Verónica](https://open.spotify.com/track/3ppKzJJeiveJtB03kuk43D) | [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [Tristán, Ahora Con Reloj](https://open.spotify.com/album/7oDxt14IyAbiLAxlCMLHEe) | 2:53 |
 | 29 | [Favorite Place](https://open.spotify.com/track/523GiEoDg0ulav50HZItuF) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Favorite Place](https://open.spotify.com/album/09SzjW7xbr4UST7uKQq4m6) | 3:16 |
 | 30 | [Another World](https://open.spotify.com/track/3TEzZdT1s8kipEpRqo98Y7) | [The Belair Lip Bombs](https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT) | [Again](https://open.spotify.com/album/5TUQWlLCMdK4qGBCtNt3iq) | 2:37 |
-| 31 | [Haze](https://open.spotify.com/track/7pmOVNGWu1lRBWVpYTcKH1) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Ellie](https://open.spotify.com/artist/6HUjt5rB3ZotTFN4BA2a9S) | [Tremor](https://open.spotify.com/album/2Mf3c9BbAcMOybdL2FTkkJ) | 3:56 |
-| 32 | [Groupie](https://open.spotify.com/track/6H7CJfDODbdbwcCO3E5mCM) | [Leonie Biney](https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq) | [Groupie](https://open.spotify.com/album/2NMqz2mYpb0UkszvWhPKwV) | 2:52 |
+| 31 | [Groupie](https://open.spotify.com/track/6H7CJfDODbdbwcCO3E5mCM) | [Leonie Biney](https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq) | [Groupie](https://open.spotify.com/album/2NMqz2mYpb0UkszvWhPKwV) | 2:52 |
+| 32 | [Haze](https://open.spotify.com/track/7pmOVNGWu1lRBWVpYTcKH1) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Ellie](https://open.spotify.com/artist/6HUjt5rB3ZotTFN4BA2a9S) | [Tremor](https://open.spotify.com/album/2Mf3c9BbAcMOybdL2FTkkJ) | 3:56 |
 | 33 | [Hypersilent](https://open.spotify.com/track/76SlQsZB2uZxW7ATfr3lpl) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo), [J.J\. Fad](https://open.spotify.com/artist/2eynOGnZLqDuEJwbRHlHN1) | [Hypersilent](https://open.spotify.com/album/0dUwtvMnpFyiUq7CO5hWBb) | 5:54 |
 | 34 | [Flores](https://open.spotify.com/track/7AG0fbggzFP7e7W2j7fUva) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Vendrán Suaves Lluvias](https://open.spotify.com/album/7MJAlq9PJGZJcQRQ53wJna) | 4:43 |
 | 35 | [Wholesale Anthem](https://open.spotify.com/track/76amMtyRHVVa2mpIuclM9l) | [Headache](https://open.spotify.com/artist/1iX0eIvL5iHnaDny7BBtWH), [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [Thank You for Almost Everything](https://open.spotify.com/album/5bvnIPBtewSFLftfn7LONj) | 3:27 |

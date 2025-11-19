@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 Cover: 7co & \u738bADEN",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 Cover: Sagiri S\u00f3l",
   "name": "RADAR: Early Noise ",
   "tracks": [
     {
@@ -1401,6 +1401,24 @@
     },
     {
       "album": {
+        "name": "All That Mattered To You",
+        "url": "https://open.spotify.com/album/4suBGtHgvZQSX3dCRSB9Zq"
+      },
+      "artists": [
+        {
+          "name": "ZenPal",
+          "url": "https://open.spotify.com/artist/7ls4RB8hUdHfaHsvu5ItxF"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222621,
+      "name": "All That Mattered To You",
+      "url": "https://open.spotify.com/track/2pfxdeR4RyyF0cLMzSn8sh"
+    },
+    {
+      "album": {
         "name": "All to Myself",
         "url": "https://open.spotify.com/album/1X9QwFBNOCFiHkOE3OD4v2"
       },
@@ -1896,7 +1914,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 176894,
       "name": "BABY POWDER",
       "url": "https://open.spotify.com/track/20CaiBZnwWB2woBeFydsW5"
@@ -4717,6 +4735,24 @@
     },
     {
       "album": {
+        "name": "Dance to the Music",
+        "url": "https://open.spotify.com/album/7xHWvIUnmDPJaOMS1uRCuI"
+      },
+      "artists": [
+        {
+          "name": "Wang Dang Doodle",
+          "url": "https://open.spotify.com/artist/5OWQWpSRACBuLtPRFPdfq1"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192857,
+      "name": "Dance to the Music",
+      "url": "https://open.spotify.com/track/7cNTeP5G3Dc3vZrYxxP4nV"
+    },
+    {
+      "album": {
         "name": "Dance With Me",
         "url": "https://open.spotify.com/album/5PQwDjqe2iz3Brdami9y40"
       },
@@ -4952,6 +4988,24 @@
       "duration_ms": 199167,
       "name": "Days",
       "url": "https://open.spotify.com/track/0s4yqLuXcjig9VJH6XNMG7"
+    },
+    {
+      "album": {
+        "name": "dead end love",
+        "url": "https://open.spotify.com/album/7quyEoeWYvX8IWv6i2XW4a"
+      },
+      "artists": [
+        {
+          "name": "Sagiri S\u00f3l",
+          "url": "https://open.spotify.com/artist/7lMbNnC8YEcy8zZDekmhcb"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160288,
+      "name": "dead end love",
+      "url": "https://open.spotify.com/track/4Z5HsaeVAOxTmHR6783RgE"
     },
     {
       "album": {
@@ -7087,6 +7141,24 @@
     },
     {
       "album": {
+        "name": "LOSS",
+        "url": "https://open.spotify.com/album/5ahCi5AsIeYnA1AjfzyH0J"
+      },
+      "artists": [
+        {
+          "name": "Meg Bonus",
+          "url": "https://open.spotify.com/artist/0BEEpuk86319ft7cb4jxei"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295764,
+      "name": "Footsteps",
+      "url": "https://open.spotify.com/track/45TjHYs0MqcXmew445Np3r"
+    },
+    {
+      "album": {
         "name": "Foreigner",
         "url": "https://open.spotify.com/album/5bxqzQA6p054On5eTCeABP"
       },
@@ -8424,7 +8496,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 227000,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/0ayKutiQ56FNh4FT1JNq4Z"
@@ -8644,7 +8716,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 232234,
       "name": "Hideaway",
       "url": "https://open.spotify.com/track/0U5eI9p9H669wEu8sry6YO"
@@ -13188,7 +13260,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 238615,
       "name": "My Little Ginger",
       "url": "https://open.spotify.com/track/5u13n1FMmKdf0EErfPdXXr"
@@ -16846,7 +16918,7 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 147547,
       "name": "Runnin' Out",
       "url": "https://open.spotify.com/track/1ZHFRdoknRywefniSsZTWN"
@@ -21376,6 +21448,24 @@
       "duration_ms": 246818,
       "name": "Villain",
       "url": "https://open.spotify.com/track/0ejtTMsf4ZljUhAZZk5boY"
+    },
+    {
+      "album": {
+        "name": "Vintage Car",
+        "url": "https://open.spotify.com/album/5b6pSqS1HyrsK42eqz2rVX"
+      },
+      "artists": [
+        {
+          "name": "Re:name",
+          "url": "https://open.spotify.com/artist/2AX1Mxvl5RSF13svt7n4wa"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244125,
+      "name": "Vintage Car",
+      "url": "https://open.spotify.com/track/0M5edeHgATLmdcpnLVKfFd"
     },
     {
       "album": {

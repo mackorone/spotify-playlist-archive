@@ -1,6 +1,6 @@
 {
   "description": "Certified R&B hits. Cover: Leon Thomas",
-  "num_followers": 62337,
+  "num_followers": 62349,
   "original_name": "Certi: R&B",
   "owner": {
     "name": "Spotify",
@@ -499,26 +499,6 @@
     {
       "added_at": "2025-11-14 00:00:21",
       "album": {
-        "name": "11:11 (Deluxe)",
-        "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 207339,
-      "name": "Run Away (feat. Bryson Tiller)",
-      "url": "https://open.spotify.com/track/5JrQ1Jc3udCcAJasEpH0Ov"
-    },
-    {
-      "added_at": "2025-11-14 00:00:21",
-      "album": {
         "name": "TYLA",
         "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
       },
@@ -535,6 +515,26 @@
       "duration_ms": 147046,
       "name": "No.1 (feat. Tems)",
       "url": "https://open.spotify.com/track/3qeMtqV38UWPZfps7mPTUE"
+    },
+    {
+      "added_at": "2025-11-14 00:00:21",
+      "album": {
+        "name": "11:11 (Deluxe)",
+        "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 207339,
+      "name": "Run Away (feat. Bryson Tiller)",
+      "url": "https://open.spotify.com/track/5JrQ1Jc3udCcAJasEpH0Ov"
     },
     {
       "added_at": "2025-11-14 00:00:21",
@@ -827,6 +827,22 @@
     {
       "added_at": "2025-11-14 00:00:21",
       "album": {
+        "name": "Heat The Streets Some Mo'",
+        "url": "https://open.spotify.com/album/6hRz8TthZfkHlZ288hcCd4"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 167965,
+      "name": "By Now",
+      "url": "https://open.spotify.com/track/55mAE5S1MK79gLUowrnB6h"
+    },
+    {
+      "added_at": "2025-11-14 00:00:21",
+      "album": {
         "name": "He Loves Us Both (feat. H.E.R.)",
         "url": "https://open.spotify.com/album/0x1tZBPycC2BPbosebRSr5"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 225444,
       "name": "BAD BITCHES",
       "url": "https://open.spotify.com/track/5ld2rB0d5nG8RTQRRmkxNa"
-    },
-    {
-      "added_at": "2025-11-14 00:00:21",
-      "album": {
-        "name": "For The Streets",
-        "url": "https://open.spotify.com/album/1O17dsUsuI7Rb423Pxj1y2"
-      },
-      "artists": [
-        {
-          "name": "Inayah",
-          "url": "https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ"
-        }
-      ],
-      "duration_ms": 145605,
-      "name": "For The Streets",
-      "url": "https://open.spotify.com/track/5rbCN6PGBWjYt8aMxftGpX"
     }
   ],
   "unique_name": "Certi: R&B",

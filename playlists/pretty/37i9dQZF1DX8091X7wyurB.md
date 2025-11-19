@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8091X7wyurB.md) - [plain]
 
 > Praise and Worship the Almighty God with the best songs\. A mix of both African and International songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,158 likes - 80 songs - 8 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,427 likes - 80 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8091X7wyurB.md) - [plain]
 | 60 | [Jireh \(My Provider\)](https://open.spotify.com/track/4pR4oQJULf7FDB54TleMyH) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Happi](https://open.spotify.com/artist/6JboUw8iZP7Ts7fDcVowP4) | [Jireh \(My Provider\)](https://open.spotify.com/album/4CsmgXl5bQQWHubJdZvNgW) | 2:48 |
 | 61 | [Worthy of My Praise](https://open.spotify.com/track/2TfDq6YUBAiX09xTlH2bhX) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [The Great Commission](https://open.spotify.com/album/1ceKYPCijmkMxAaD3eIpJc) | 13:28 |
 | 62 | [Defe Defe](https://open.spotify.com/track/2GZNll3SJMAEHstg0wO37N) | [Team Eternity Ghana](https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz) | [Testimony](https://open.spotify.com/album/3bWaysoTLDOIuvVh9JxR69) | 6:46 |
-| 63 | [We will be many](https://open.spotify.com/track/55qF5hzyM6Vv02DOchu0jN) | [Sound Of Salem](https://open.spotify.com/artist/4wXOaCc4CN80m9xcjkmL6I), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI), [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT) | [We will be many](https://open.spotify.com/album/4zBbD33yMF8YXqJPZDhAHX) | 3:14 |
-| 64 | [Methodist Medley](https://open.spotify.com/track/4iitLhHIPZIyTPt9HfsykG) | [Nothando Hlophe](https://open.spotify.com/artist/252fChrCEm5fhuaMTnowg9) | [A NEW DAWN](https://open.spotify.com/album/7yzhKRm8sJIL8h4AmqW6b6) | 8:55 |
+| 63 | [Methodist Medley](https://open.spotify.com/track/4iitLhHIPZIyTPt9HfsykG) | [Nothando Hlophe](https://open.spotify.com/artist/252fChrCEm5fhuaMTnowg9) | [A NEW DAWN](https://open.spotify.com/album/7yzhKRm8sJIL8h4AmqW6b6) | 8:55 |
+| 64 | [We will be many](https://open.spotify.com/track/55qF5hzyM6Vv02DOchu0jN) | [Sound Of Salem](https://open.spotify.com/artist/4wXOaCc4CN80m9xcjkmL6I), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI), [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT) | [We will be many](https://open.spotify.com/album/4zBbD33yMF8YXqJPZDhAHX) | 3:14 |
 | 65 | [Calling My Name \(I'm A Soldier\) \- Live](https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Calling My Name \(I'm A Soldier\) \[Live\]](https://open.spotify.com/album/43Ezc94qcwnX6mnmuUQnUO) | 10:38 |
 | 66 | [Bless God](https://open.spotify.com/track/4nhLPA3DAMEOj92U5i2cOk) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [EIGHT](https://open.spotify.com/album/0yGuCkWWoXxsPK09agGQQu) | 4:52 |
 | 67 | [That's My King](https://open.spotify.com/track/7kfKCB4MvQJCrMy8pQlWiQ) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [That's My King](https://open.spotify.com/album/4yZXtJdzh7ybESwXr3c9rA) | 4:10 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8091X7wyurB.md) - [plain]
 | 76 | [Ndenzel' Uncedo Hymn 377 \- Live](https://open.spotify.com/track/3BTszrSLAt9f11eWeHNTTc) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 25 \- Still We Rise: Live At The Joburg Theatre](https://open.spotify.com/album/3XpdHJykK5cila2uzcNAxz) | 6:28 |
 | 77 | [Chinedum](https://open.spotify.com/track/7LcoRUZI1URqzeumgGbKWp) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:40 |
 | 78 | [Miracle No Dey Tire Jesus](https://open.spotify.com/track/4BdSQteqYNDGU8oD487KEU) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [Miracle No Dey Tire Jesus](https://open.spotify.com/album/6aA6U5p9m8dREYkv0K8tTT) | 2:46 |
-| 79 | [In Christ Alone](https://open.spotify.com/track/2hQxLiI93xdjqENJuKeXjO) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [In Christ Alone](https://open.spotify.com/album/6ZVTgCnYuK6Y5TFO4lna5V) | 4:39 |
+| 79 | [Anchor of My Strength](https://open.spotify.com/track/4TEFKBeXAE20j69TpHFFK7) | [Paul CleverLee](https://open.spotify.com/artist/2OmRPEQ0DmK6myhfVFKLuY), [Gerald Bishung](https://open.spotify.com/artist/7yAihRRmPVVKmZ6xvFCV7I) | [Anchor of My Strength](https://open.spotify.com/album/6j5WW5wCRQpz719p05KNzz) | 3:10 |
 | 80 | [Let It Show \(Live\)](https://open.spotify.com/track/0qShlAPNKT5UHib8bLn3X2) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Let It Show \(Live\)](https://open.spotify.com/album/1yorjTPD4R9JExtEfY70ka) | 7:59 |
 
 Snapshot ID: `AAAAANASmBurI89iljDTPkO+aEFdS5n4`

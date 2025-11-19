@@ -24155,6 +24155,24 @@
     },
     {
       "album": {
+        "name": "you chose this",
+        "url": "https://open.spotify.com/album/1xSeDb9h7JclM6c7qhAEGL"
+      },
+      "artists": [
+        {
+          "name": "Emelie Trahan",
+          "url": "https://open.spotify.com/artist/26ZYSsr8RPofalTXPh4yyq"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158546,
+      "name": "you chose this",
+      "url": "https://open.spotify.com/track/12CcA3RDkKo5U0lbNsCbSX"
+    },
+    {
+      "album": {
         "name": "You Found Me",
         "url": "https://open.spotify.com/album/0A4r9XhPvTM5Axc2ctn3Kv"
       },

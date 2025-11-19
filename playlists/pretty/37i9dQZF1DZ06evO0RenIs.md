@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RenIs.md) - [plain]
 
 > This is Phoenix\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,263 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,264 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RenIs.md) - [plain]
 | 24 | [Consolation Prizes](https://open.spotify.com/track/5yakRZmZ20eaZ1J4nDgQhN) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [It's Never Been Like That \(Deluxe Version\)](https://open.spotify.com/album/2STZqJIh4Kf0OIU5yVgYGV) | 3:16 |
 | 25 | [Odyssey](https://open.spotify.com/track/2xMDqXTRJTcsBFECwwZhYz) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS), [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Odyssey](https://open.spotify.com/album/2qk0NP9lpVaZIjkIY5oUFO) | 3:46 |
 | 26 | [Ti Amo](https://open.spotify.com/track/6vkCxZIAutOwR3JKAvqLL7) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Ti Amo](https://open.spotify.com/album/2Hr5EY19Y7gV7K7ogk9QcR) | 3:25 |
-| 27 | [Run Run Run](https://open.spotify.com/track/2OxcH2hvo4SrVGO3gd7RJO) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alphabetical](https://open.spotify.com/album/0q1YbH7gLkklLFxNBLRKHD) | 3:50 |
-| 28 | [Drakkar Noir](https://open.spotify.com/track/6CdWtrWlB3ejs39G69CBjq) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Bankrupt!](https://open.spotify.com/album/0NVvSmy2su8nXkCjK0zuWg) | 3:22 |
+| 27 | [Drakkar Noir](https://open.spotify.com/track/6CdWtrWlB3ejs39G69CBjq) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Bankrupt!](https://open.spotify.com/album/0NVvSmy2su8nXkCjK0zuWg) | 3:22 |
+| 28 | [Run Run Run](https://open.spotify.com/track/2OxcH2hvo4SrVGO3gd7RJO) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alphabetical](https://open.spotify.com/album/0q1YbH7gLkklLFxNBLRKHD) | 3:50 |
 | 29 | [North](https://open.spotify.com/track/0k2TN25JrgWAFG5LRQMFD7) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [It's Never Been Like That \(Deluxe Version\)](https://open.spotify.com/album/2STZqJIh4Kf0OIU5yVgYGV) | 5:01 |
 | 30 | [Tuttifrutti](https://open.spotify.com/track/4WVvyh5TyJVoC51NX2kFyW) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Ti Amo](https://open.spotify.com/album/2Hr5EY19Y7gV7K7ogk9QcR) | 3:52 |
 | 31 | [Season 2](https://open.spotify.com/track/4Dy26AYLOdCjqSadkaTYJN) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alpha Zulu](https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv) | 2:47 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RenIs.md) - [plain]
 | 39 | [The Only One](https://open.spotify.com/track/3jGODTQ4xpSLp8zOby4H63) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alpha Zulu](https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv) | 3:29 |
 | 40 | [Rally](https://open.spotify.com/track/2n21r18BendiM8hynbe7XJ) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [It's Never Been Like That \(Deluxe Version\)](https://open.spotify.com/album/2STZqJIh4Kf0OIU5yVgYGV) | 3:16 |
 | 41 | [Bourgeois](https://open.spotify.com/track/394RDQPrHMS7EFSODaVn62) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Bankrupt!](https://open.spotify.com/album/0NVvSmy2su8nXkCjK0zuWg) | 4:53 |
-| 42 | [\(You Can't Blame It On\) Anybody](https://open.spotify.com/track/1kVa8X5Ifr6XVmn8XvC1iu) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alphabetical](https://open.spotify.com/album/0q1YbH7gLkklLFxNBLRKHD) | 3:33 |
-| 43 | [All Eyes on Me](https://open.spotify.com/track/3xOj709WgIHbwiwvgjAHLg) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alpha Zulu](https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv) | 3:04 |
+| 42 | [Love for Granted](https://open.spotify.com/track/3Yrk1Ytp3Vg1IRshQud90x) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alphabetical](https://open.spotify.com/album/0q1YbH7gLkklLFxNBLRKHD) | 4:24 |
+| 43 | [My Elixir](https://open.spotify.com/track/0pd2VPSs38dIGQAcPrVydc) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alpha Zulu](https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv) | 3:32 |
 | 44 | [Lost and Found](https://open.spotify.com/track/48vZNUF25E0Q35skL9QoZP) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [It's Never Been Like That \(Deluxe Version\)](https://open.spotify.com/album/2STZqJIh4Kf0OIU5yVgYGV) | 2:56 |
 | 45 | [Honeymoon](https://open.spotify.com/track/5dtTD2LIqWk1GsB8y0zDur) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [United](https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68) | 5:00 |
-| 46 | [Love for Granted](https://open.spotify.com/track/3Yrk1Ytp3Vg1IRshQud90x) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alphabetical](https://open.spotify.com/album/0q1YbH7gLkklLFxNBLRKHD) | 4:24 |
-| 47 | [My Elixir](https://open.spotify.com/track/0pd2VPSs38dIGQAcPrVydc) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alpha Zulu](https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv) | 3:32 |
+| 46 | [\(You Can't Blame It On\) Anybody](https://open.spotify.com/track/1kVa8X5Ifr6XVmn8XvC1iu) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alphabetical](https://open.spotify.com/album/0q1YbH7gLkklLFxNBLRKHD) | 3:33 |
+| 47 | [All Eyes on Me](https://open.spotify.com/track/3xOj709WgIHbwiwvgjAHLg) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alpha Zulu](https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv) | 3:04 |
 | 48 | [On Fire](https://open.spotify.com/track/6ayQqGsXx1jxDiEku4V9Gg) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [United](https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68) | 2:49 |
 | 49 | [Victim of the Crime](https://open.spotify.com/track/2ThMLsmAtcKOmXaEgKdJ93) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alphabetical](https://open.spotify.com/album/0q1YbH7gLkklLFxNBLRKHD) | 4:05 |
 | 50 | [Definitive Breaks](https://open.spotify.com/track/1BfKwzPvTyt45fXq7zUQPZ) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [United](https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68) | 1:40 |
 
-Snapshot ID: `aRkUAAAAAAAgx8JA5lPoBM/W592px3Hw`
+Snapshot ID: `aRplgAAAAABFBop8s0SAK+JkOOkkfj1o`

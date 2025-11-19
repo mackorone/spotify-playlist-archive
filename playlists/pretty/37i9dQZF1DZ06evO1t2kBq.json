@@ -1,12 +1,12 @@
 {
   "description": "This is Bad Religion. The essential tracks, all in one playlist.",
-  "num_followers": 83770,
+  "num_followers": 83777,
   "original_name": "This Is Bad Religion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRkUAAAAAAAfqDRDxBHZbuFUo+m8IkB9",
+  "snapshot_id": "aRplgAAAAAAhpIzasG0uCjoVzFprDMgC",
   "tracks": [
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Suffer",
-        "url": "https://open.spotify.com/album/2tQSaVTntSAVbDognInDQo"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 81793,
-      "name": "You Are (The Government)",
-      "url": "https://open.spotify.com/track/4uKMHiWSI5omiZrSAUjrH8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "True North",
         "url": "https://open.spotify.com/album/64wdVyEDGVxfRsanjWxy2z"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 115826,
       "name": "True North",
       "url": "https://open.spotify.com/track/58lZHE1P9WuNtoKJl9EoC7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Suffer",
+        "url": "https://open.spotify.com/album/2tQSaVTntSAVbDognInDQo"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 81793,
+      "name": "You Are (The Government)",
+      "url": "https://open.spotify.com/track/4uKMHiWSI5omiZrSAUjrH8"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stranger Than Fiction",
-        "url": "https://open.spotify.com/album/4yzTm8IjIyybhPFGMTyv2N"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 149400,
-      "name": "Incomplete",
-      "url": "https://open.spotify.com/track/3cZxrIwGDz6lKi2S1XMgmA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Age Of Unreason",
         "url": "https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz"
       },
@@ -603,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Generator",
-        "url": "https://open.spotify.com/album/31CyVs73lB9MrLOTHBeEgr"
+        "name": "Stranger Than Fiction",
+        "url": "https://open.spotify.com/album/4yzTm8IjIyybhPFGMTyv2N"
       },
       "artists": [
         {
@@ -612,9 +596,9 @@
           "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
         }
       ],
-      "duration_ms": 190853,
-      "name": "Atomic Garden",
-      "url": "https://open.spotify.com/track/0iKBQiTlNxTUPeBDCzlFRP"
+      "duration_ms": 149400,
+      "name": "Incomplete",
+      "url": "https://open.spotify.com/track/3cZxrIwGDz6lKi2S1XMgmA"
     },
     {
       "added_at": null,
@@ -635,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Against The Grain",
-        "url": "https://open.spotify.com/album/5QTyi6ndfGO5vF4DcNgM97"
+        "name": "Generator",
+        "url": "https://open.spotify.com/album/31CyVs73lB9MrLOTHBeEgr"
       },
       "artists": [
         {
@@ -644,9 +628,9 @@
           "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
         }
       ],
-      "duration_ms": 97640,
-      "name": "God Song",
-      "url": "https://open.spotify.com/track/0EhzHcEryTCWHaL98TdzIA"
+      "duration_ms": 190853,
+      "name": "Atomic Garden",
+      "url": "https://open.spotify.com/track/0iKBQiTlNxTUPeBDCzlFRP"
     },
     {
       "added_at": null,
@@ -663,6 +647,22 @@
       "duration_ms": 110320,
       "name": "Chaos From Within",
       "url": "https://open.spotify.com/track/1N8K9up7uz8EuyEiOoy9pq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Against The Grain",
+        "url": "https://open.spotify.com/album/5QTyi6ndfGO5vF4DcNgM97"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 97640,
+      "name": "God Song",
+      "url": "https://open.spotify.com/track/0EhzHcEryTCWHaL98TdzIA"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Against The Grain",
-        "url": "https://open.spotify.com/album/5QTyi6ndfGO5vF4DcNgM97"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 84026,
-      "name": "Turn On the Light",
-      "url": "https://open.spotify.com/track/2aCuA3PDvmDrPCo1MIyJ1Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "How Could Hell Be Any Worse? (2005 Remaster)",
         "url": "https://open.spotify.com/album/7G9tRlpSNYGMzAjcjpgIJP"
       },
@@ -731,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Suffer",
-        "url": "https://open.spotify.com/album/2tQSaVTntSAVbDognInDQo"
+        "name": "Against The Grain",
+        "url": "https://open.spotify.com/album/5QTyi6ndfGO5vF4DcNgM97"
       },
       "artists": [
         {
@@ -740,9 +724,9 @@
           "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
         }
       ],
-      "duration_ms": 164489,
-      "name": "What Can You Do?",
-      "url": "https://open.spotify.com/track/0q1riGCpISLw7zTGQLiuPG"
+      "duration_ms": 84026,
+      "name": "Turn On the Light",
+      "url": "https://open.spotify.com/track/2aCuA3PDvmDrPCo1MIyJ1Q"
     },
     {
       "added_at": null,
@@ -763,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Against The Grain",
-        "url": "https://open.spotify.com/album/5QTyi6ndfGO5vF4DcNgM97"
+        "name": "Suffer",
+        "url": "https://open.spotify.com/album/2tQSaVTntSAVbDognInDQo"
       },
       "artists": [
         {
@@ -772,9 +756,9 @@
           "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
         }
       ],
-      "duration_ms": 141720,
-      "name": "Flat Earth Society",
-      "url": "https://open.spotify.com/track/1Oi1eyyLNTEj7nkWNlW898"
+      "duration_ms": 164489,
+      "name": "What Can You Do?",
+      "url": "https://open.spotify.com/track/0q1riGCpISLw7zTGQLiuPG"
     },
     {
       "added_at": null,
@@ -791,6 +775,22 @@
       "duration_ms": 168773,
       "name": "Fuck Armageddon...This Is Hell",
       "url": "https://open.spotify.com/track/2WUJDRIoViFs5RYclM6gT0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Against The Grain",
+        "url": "https://open.spotify.com/album/5QTyi6ndfGO5vF4DcNgM97"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 141720,
+      "name": "Flat Earth Society",
+      "url": "https://open.spotify.com/track/1Oi1eyyLNTEj7nkWNlW898"
     },
     {
       "added_at": null,

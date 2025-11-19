@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDautEwAKZB.md) - [plain]
 
 > Latin songs you love like you've never heard before\. Cover: Dillom, Marilina Bertoldi, Juliana Gattas y Airbag.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,378 likes - 70 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,377 likes - 70 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDautEwAKZB.md) - [plain]
 | 37 | [O Mundo Dá Voltas \- Spotify Singles](https://open.spotify.com/track/1yz7wQVh2A3cCED0QPpfGU) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi) | [O Mundo Dá Voltas \(Spotify Singles\)](https://open.spotify.com/album/59kSwQ4mkGJ5YVmVgmQv3s) | 3:06 |
 | 38 | [Bichota \- Spotify Singles](https://open.spotify.com/track/7tlPDub0mJRBkGA2VdTSAS) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Bichota – Spotify Singles](https://open.spotify.com/album/5FdT0wz3QPts6r1aJoWDgq) | 2:37 |
 | 39 | [Fora de Si \- Spotify Singles](https://open.spotify.com/track/2gvQ2JkD9ft9q4OI6TSzUD) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Fora de Si \- Spotify Singles](https://open.spotify.com/album/7Krd9lFlvyibIXVHsK1ieN) | 2:16 |
-| 40 | [Mala Costumbre \- Ovy On The Drums \- Spotify Singles](https://open.spotify.com/track/30K54dQDikHIulypekVSZp) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Mala Costumbre \- Ovy On The Drums \- Spotify Singles](https://open.spotify.com/album/5y69JKXX7lNzp4CUaDl2Ly) | 3:01 |
-| 41 | [Ambar Bossa Nova \- Spotify Singles](https://open.spotify.com/track/3d1SX0Fw0gqVKrdrWCJR12) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Spotify Singles](https://open.spotify.com/album/5MlYmVGHlWSCdKutrQcLAV) | 3:01 |
+| 40 | [Ambar Bossa Nova \- Spotify Singles](https://open.spotify.com/track/3d1SX0Fw0gqVKrdrWCJR12) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Spotify Singles](https://open.spotify.com/album/5MlYmVGHlWSCdKutrQcLAV) | 3:01 |
+| 41 | [Mala Costumbre \- Ovy On The Drums \- Spotify Singles](https://open.spotify.com/track/30K54dQDikHIulypekVSZp) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Mala Costumbre \- Ovy On The Drums \- Spotify Singles](https://open.spotify.com/album/5y69JKXX7lNzp4CUaDl2Ly) | 3:01 |
 | 42 | [Vivir Mi Vida \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2fonqgmRhs64TBxzTPlA9w) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Spotify Singles](https://open.spotify.com/album/0Y808JJyzRr0gXTNNDL2bA) | 3:57 |
 | 43 | [La tua canzone \- Recorded at Abbey Road Studios, London](https://open.spotify.com/track/7HfV7tXzzMlivoXWvjcNh3) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Spotify Singles](https://open.spotify.com/album/4HXJQjeEgf8pZX1hOKH2ki) | 3:36 |
 | 44 | [Faz uma loucura por mim \- Recorded At Mosh Studios, São Paulo](https://open.spotify.com/track/7jYmFjZ8l40WFNVf9mhX9P) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Spotify Singles](https://open.spotify.com/album/12khkvFs0A8wiIYYmRIQgk) | 3:14 |

@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-691 songs - 1 day 6 hr 5 min
+692 songs - 1 day 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -322,6 +322,7 @@
 | [library](https://open.spotify.com/track/6KadekEsEQX4rvcqP9X84U) | [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc), [Kofi Anonymous](https://open.spotify.com/artist/2xssjViTF8Zdd97DXXH0lI) | [library](https://open.spotify.com/album/1o4ZIwV0pol0mXbbmpZjBB) | 2:00 | 2024-10-11 |  |
 | [Life Form](https://open.spotify.com/track/3YLFWYh5nsCBxIFUBPiEDa) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Rikard From](https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc) | [Life Form](https://open.spotify.com/album/1ndE30UkZA6eQhzlK7wyfM) | 3:14 | 2024-08-23 | 2025-09-13 |
 | [Light Changes](https://open.spotify.com/track/6lDu71XHCahhK2Gc5vb4gW) | [Oh, My.](https://open.spotify.com/artist/1f5I28sZb2efjRLXO1jX0h) | [Light Changes](https://open.spotify.com/album/7jU1gXaiks9UYq3vbBSIF9) | 2:19 | 2025-09-12 |  |
+| [Lights](https://open.spotify.com/track/3UN61l5ZGaUAllaz8ZUpvV) | [cløse2u](https://open.spotify.com/artist/4SAUbKw5T4xORiIq16XKUE) | [Lights](https://open.spotify.com/album/7z3BTqaVLEOZfcN7jTMV8k) | 1:58 | 2025-11-14 |  |
 | [Likewise](https://open.spotify.com/track/0dqKuR4WSRxe1lpM1q9aS1) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc) | [Likewise](https://open.spotify.com/album/12vFxVDE3C4zLhmqbmWtqX) | 2:00 | 2025-09-05 | 2025-09-20 |
 | [Lily](https://open.spotify.com/track/02z18grgEdVbAb2UmOemyK) | [yungmerrin](https://open.spotify.com/artist/5rsVYU0xdA9SUiipNxLmnf) | [Flora](https://open.spotify.com/album/1bR1iFvILCCblpqr4A6MmN) | 1:44 | 2025-04-11 | 2025-04-19 |
 | [Limbo](https://open.spotify.com/track/6W5MXzKRew1avcRnVQ89UY) | [Keymer](https://open.spotify.com/artist/11KbGk05uR2COLPYEqehU3) | [Limbo](https://open.spotify.com/album/1V1A4f4DmJJfrDjWETEU4C) | 2:42 | 2023-10-27 | 2024-12-25 |
@@ -627,7 +628,7 @@
 | [Tightrope Walker](https://open.spotify.com/track/1dFLvdBAp6OfDb9hiPzZsI) | [Nicolas Kluzek](https://open.spotify.com/artist/0fUtDbK1RDdscZGRHqCHCs) | [Tightrope Walker](https://open.spotify.com/album/07EXafwIFuzr0OXJDYRbbg) | 2:15 | 2025-03-28 | 2025-05-04 |
 | [Time 4 Time](https://open.spotify.com/track/4exkfJ2JVCz6cFjXQixprk) | [Unwind Project](https://open.spotify.com/artist/1pKbeFgKBZ7fk5UVIxo6mf), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O) | [Time 4 Time](https://open.spotify.com/album/0Y02xvTaA13bMCnJezR4f7) | 2:44 | 2025-05-16 |  |
 | [Time Flies](https://open.spotify.com/track/2MS3ImhissWnb9pmGWBc0a) | [Gas Lab](https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN), [Kristoffer Eikrem](https://open.spotify.com/artist/2TxDDfPwhWPoKJKhEcnv3h), [.akshay](https://open.spotify.com/artist/2uTyX7lJEa5u5nXbSGiFT0), [Akshay Iyer](https://open.spotify.com/artist/5tuD0Os3aeTtglvnUd8HOL) | [Overseas](https://open.spotify.com/album/4mFRZCciiEDg4cBZZLzIca) | 2:46 | 2025-06-13 | 2025-06-28 |
-| [Timeless Love](https://open.spotify.com/track/6HiuLGbL1SpX6ntPloBMr2) | [Kowhaii](https://open.spotify.com/artist/0cYSu3gYm3y2GMYW7Xe4US) | [Foundations](https://open.spotify.com/album/0ZFovHBhbcyjt2YKG1eWLG) | 1:45 | 2025-11-14 |  |
+| [Timeless Love](https://open.spotify.com/track/6HiuLGbL1SpX6ntPloBMr2) | [Kowhaii](https://open.spotify.com/artist/0cYSu3gYm3y2GMYW7Xe4US) | [Foundations](https://open.spotify.com/album/0ZFovHBhbcyjt2YKG1eWLG) | 1:45 | 2025-11-14 | 2025-11-19 |
 | [Together Alone](https://open.spotify.com/track/4qn6iJiMF1paNtu5FTVncc) | [Ornithology](https://open.spotify.com/artist/1EpXwbpQDflfGg6juJz89j), [Hubie](https://open.spotify.com/artist/06pHfTjRYEOBsFQ4viO0oM) | [Ornithology Presents: Justin Time Records Flipped, Vol\. 2](https://open.spotify.com/album/5knQfVSEnibMpzgG4xgdew) | 2:43 | 2025-08-29 | 2025-09-06 |
 | [Toucanet](https://open.spotify.com/track/5B8HcOF0JaoHhddYEUCABv) | [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt), [Showyou](https://open.spotify.com/artist/7KbVIv3ToW5rD8qJNnypKO) | [Toucanet / Motmot](https://open.spotify.com/album/1VaEcs3hAVbmfBbwFCLxfK) | 1:55 | 2025-06-06 |  |
 | [Treetwine](https://open.spotify.com/track/0HvgzeL7sVkKpxbKgCAVlY) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [tenkousei.](https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N), [Beats for Trees](https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y) | [Treetwine](https://open.spotify.com/album/2WyvgjCkFqNic1mq68FzAa) | 2:03 | 2025-03-22 | 2025-07-21 |

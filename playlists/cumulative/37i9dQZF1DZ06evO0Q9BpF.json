@@ -124,6 +124,24 @@
     {
       "album": {
         "name": "Emanuel",
+        "url": "https://open.spotify.com/album/0oXynWN5dOPgOa6rLBczTM"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "date_added": "2025-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388186,
+      "name": "Aliento De Vida",
+      "url": "https://open.spotify.com/track/3S7srdmi98Ey4YW0fjBknA"
+    },
+    {
+      "album": {
+        "name": "Emanuel",
         "url": "https://open.spotify.com/album/27dOnvXZkbLhiGusdxPkWY"
       },
       "artists": [
@@ -986,10 +1004,28 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 511266,
       "name": "Gratitud",
       "url": "https://open.spotify.com/track/2aFYyTR9mnemgiqsAveXSZ"
+    },
+    {
+      "album": {
+        "name": "Tu Reino Est\u00e1 Aqu\u00ed (En Vivo)",
+        "url": "https://open.spotify.com/album/4HCRXhbFIH2jaY45Yf9Lfk"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "date_added": "2025-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 504960,
+      "name": "Gratitud - En Vivo",
+      "url": "https://open.spotify.com/track/6DSyIGReyQ9M2W6LD6x8FF"
     },
     {
       "album": {
@@ -1848,7 +1884,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 151653,
       "name": "Sonido de Amor",
       "url": "https://open.spotify.com/track/5Hy5SnsgoJiSseiNZL3TjR"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6jW9mPgBGv2.md) - [plain]
 
 > El rango más alto\. Ellos lo tienen y lo saben\. Kendo Kaponi y Luar La L plantando cara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,174 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,188 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6jW9mPgBGv2.md) - [plain]
 | 22 | [Ohtani](https://open.spotify.com/track/7MJVcGtxARJzYfU6CIttGa) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [DON KBRN](https://open.spotify.com/album/77WXheyyYBkqqz6Q19l37a) | 3:18 |
 | 23 | [KAIO KEN x20](https://open.spotify.com/track/2CX5wguUP1jOJyD9dWdAUj) | [Conep](https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [KAIO KEN x20](https://open.spotify.com/album/3Z1QKrRtK2mv8pAve0G3DL) | 3:01 |
 | 24 | [Mickey](https://open.spotify.com/track/4tRIJ57ePYLTFqMZupSM0z) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Conep](https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx) | [Mickey](https://open.spotify.com/album/1V8EX2DkUUJCLOf24KGUml) | 2:58 |
-| 25 | [Ja Morant](https://open.spotify.com/track/1SxOZg8hIxeEck104rwnCI) | [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [LA M RECORDS](https://open.spotify.com/artist/2TsUM63Y94F6lFK0kDbM9X), [Yama Make Them Bounce](https://open.spotify.com/artist/5w4k2ycYs8poQj5iMR7Vdu) | [JA MORANT](https://open.spotify.com/album/0xZwy50WGpCnby43xDTgZ7) | 2:49 |
+| 25 | [JA MORANT](https://open.spotify.com/track/1SxOZg8hIxeEck104rwnCI) | [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [LA M RECORDS](https://open.spotify.com/artist/2TsUM63Y94F6lFK0kDbM9X), [Yama Make Them Bounce](https://open.spotify.com/artist/5w4k2ycYs8poQj5iMR7Vdu) | [JA MORANT](https://open.spotify.com/album/0xZwy50WGpCnby43xDTgZ7) | 2:49 |
 | 26 | [COMPETENCIA](https://open.spotify.com/track/1hrRcfsancQb92OcifmMV1) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA PANTERA NEGRA](https://open.spotify.com/album/6NmYJszy5BaEm1WF4tJL7Z) | 3:10 |
 | 27 | [NO HAGO TRAP](https://open.spotify.com/track/0Z3g8AK7UWHoPPgJqv6iUj) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [166](https://open.spotify.com/album/6apkynw8DBUza2600Wm70t) | 2:10 |
 | 28 | [Huelemos Rosado](https://open.spotify.com/track/23cLCLCiEdYFb5raIdmEa1) | [Ele A El Dominio](https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS) | [Huelemos Rosado](https://open.spotify.com/album/1n2OROTZFLYfNXT5W1BJMt) | 2:18 |

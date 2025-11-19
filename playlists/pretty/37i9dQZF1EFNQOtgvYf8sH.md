@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFNQOtgvYf8sH.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/13MnpMBzJn80fGK6518dNJ">Matt Schaeffer \(of Beach Noise\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 324 likes - 24 songs - 1 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 323 likes - 24 songs - 1 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFNQOtgvYf8sH.md) - [plain]
 | 9 | [Auntie Diaries](https://open.spotify.com/track/1uY1X8YeBixs1FdQ3fQ7d4) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 4:41 |
 | 10 | [scars](https://open.spotify.com/track/350l5Tkctw6RMcIdl7MlaS) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [The Melodic Blue](https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg) | 4:26 |
 | 11 | [BULLIES](https://open.spotify.com/track/5Ow3QqHeeA78Q3nSnbUbkL) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [DIE FOR MY BITCH](https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI) | 3:14 |
-| 12 | [MY EX](https://open.spotify.com/track/5Yfy4sbXzwFRe4gxrV2TAS) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [DIE FOR MY BITCH](https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI) | 2:33 |
-| 13 | [the giver](https://open.spotify.com/track/77hsj8fxAQlPMgjpQxT9Ln) | [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [shadowbox](https://open.spotify.com/album/3rGKeVhGWOwBzodSU6zBXQ) | 2:20 |
+| 12 | [the giver](https://open.spotify.com/track/77hsj8fxAQlPMgjpQxT9Ln) | [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [shadowbox](https://open.spotify.com/album/3rGKeVhGWOwBzodSU6zBXQ) | 2:20 |
+| 13 | [MY EX](https://open.spotify.com/track/5Yfy4sbXzwFRe4gxrV2TAS) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [DIE FOR MY BITCH](https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI) | 2:33 |
 | 14 | [patience interlude](https://open.spotify.com/track/24xpL4l70GDGIVFIxLbW8s) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [The Melodic Blue \(Deluxe\)](https://open.spotify.com/album/5Co3CGD9lBQVNnn7q0px1g) | 2:21 |
 | 15 | [CRAZY H\*ES](https://open.spotify.com/track/2ftpqQwXX1NwNGALy1hR8h) | [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [Melody Of A Memory](https://open.spotify.com/album/5HHk3WZje18OMnqE6VzVKB) | 2:16 |
 | 16 | [ALLOCATE](https://open.spotify.com/track/7njFMXMSIiLFzPH3jguEgt) | [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [YEAH YEAH!](https://open.spotify.com/album/2bvmhK8LbNwtpnxmAow0vW) | 1:57 |
@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFNQOtgvYf8sH.md) - [plain]
 | 23 | [Wave Watching Interlude](https://open.spotify.com/track/6w5n41T13eattfdxrqVPs8) | [Tanna Leone](https://open.spotify.com/artist/1bPYCoigTRLOQwNfjpwmff) | [Sleepy Soldier](https://open.spotify.com/album/5DsTYhB4bzvBvMSHAu1yiM) | 1:24 |
 | 24 | [Happy Head](https://open.spotify.com/track/7EzefciQSXjQdWQH58cv5l) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Paradise Now](https://open.spotify.com/album/4sYJgySdNNgZxlOkog89xv) | 3:06 |
 
-Snapshot ID: `AcB3HAAAAAD9NS2UVwRFXdxUN6nzf/jI`
+Snapshot ID: `AcB8vAAAAABzcr5ZTsD6anKp29RqMQxm`

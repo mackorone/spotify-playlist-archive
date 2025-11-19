@@ -1,12 +1,12 @@
 {
   "description": "This is Yseult. The essential tracks, all in one playlist.",
-  "num_followers": 17866,
+  "num_followers": 17869,
   "original_name": "This Is Yseult",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRkUAAAAAABodHKpi87oXCEvJvcrsgaq",
+  "snapshot_id": "aRplgAAAAABz961V0A+D/y87wK2p2LYE",
   "tracks": [
     {
       "added_at": null,
@@ -807,6 +807,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Diego",
+        "url": "https://open.spotify.com/album/47HrvjLdnDwEmSVFGenON2"
+      },
+      "artists": [
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "duration_ms": 167773,
+      "name": "Diego",
+      "url": "https://open.spotify.com/track/6QkvfAPLuBRbh3ygGDtOkG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "NOUS ART : Masterpiece",
         "url": "https://open.spotify.com/album/0a2XyKU93jIJAhFz9oZDDe"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 214285,
       "name": "LVMH",
       "url": "https://open.spotify.com/track/3JZPeai9xfulG2stdSvpIG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Diego",
-        "url": "https://open.spotify.com/album/47HrvjLdnDwEmSVFGenON2"
-      },
-      "artists": [
-        {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
-        }
-      ],
-      "duration_ms": 167773,
-      "name": "Diego",
-      "url": "https://open.spotify.com/track/6QkvfAPLuBRbh3ygGDtOkG"
     },
     {
       "added_at": null,

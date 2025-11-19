@@ -1,12 +1,12 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 168232,
+  "num_followers": 168240,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHkPkk7nvNhEGeR0FfnRQvhk0A+S",
+  "snapshot_id": "AAAAAPl8eJymL/f6jKRwbt/EY+S88pZM",
   "tracks": [
     {
       "added_at": "2025-11-10 02:29:40",
@@ -47,22 +47,6 @@
     {
       "added_at": "2025-11-10 02:29:40",
       "album": {
-        "name": "Addison",
-        "url": "https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4"
-      },
-      "artists": [
-        {
-          "name": "Addison Rae",
-          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
-        }
-      ],
-      "duration_ms": 240308,
-      "name": "Headphones On",
-      "url": "https://open.spotify.com/track/3H6xZgwRZx8McVUJzmMxWe"
-    },
-    {
-      "added_at": "2025-11-10 02:29:40",
-      "album": {
         "name": "When It's All Said And Done... Take Time",
         "url": "https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 127807,
       "name": "All To Me",
       "url": "https://open.spotify.com/track/5JycxhApZmzbA4xSwvqh6k"
+    },
+    {
+      "added_at": "2025-11-10 02:29:40",
+      "album": {
+        "name": "Addison",
+        "url": "https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        }
+      ],
+      "duration_ms": 240308,
+      "name": "Headphones On",
+      "url": "https://open.spotify.com/track/3H6xZgwRZx8McVUJzmMxWe"
     },
     {
       "added_at": "2025-11-10 02:29:40",
@@ -95,22 +95,6 @@
     {
       "added_at": "2025-11-10 02:29:40",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/5vplYu9dji5uOQdLutFfnf"
-      },
-      "artists": [
-        {
-          "name": "Natalie Taylor",
-          "url": "https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY"
-        }
-      ],
-      "duration_ms": 183103,
-      "name": "Surrender",
-      "url": "https://open.spotify.com/track/0ecC8p17cDNlxHXkuYqeR6"
-    },
-    {
-      "added_at": "2025-11-10 02:29:40",
-      "album": {
         "name": "Born in the Wild",
         "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 175237,
       "name": "Burning",
       "url": "https://open.spotify.com/track/1D1M805zV8DwhYXsvJdQZx"
+    },
+    {
+      "added_at": "2025-11-10 02:29:40",
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/5vplYu9dji5uOQdLutFfnf"
+      },
+      "artists": [
+        {
+          "name": "Natalie Taylor",
+          "url": "https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY"
+        }
+      ],
+      "duration_ms": 183103,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/0ecC8p17cDNlxHXkuYqeR6"
     },
     {
       "added_at": "2025-11-10 02:29:40",
@@ -303,26 +303,6 @@
     {
       "added_at": "2025-11-10 02:29:40",
       "album": {
-        "name": "Tell Me",
-        "url": "https://open.spotify.com/album/3REQzRGObqM9DqmOmiuvzP"
-      },
-      "artists": [
-        {
-          "name": "Sassy 009",
-          "url": "https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L"
-        },
-        {
-          "name": "Blood Orange",
-          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
-        }
-      ],
-      "duration_ms": 169273,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/1pDiRrLro0tlhsPSexB3Zv"
-    },
-    {
-      "added_at": "2025-11-10 02:29:40",
-      "album": {
         "name": "Protection",
         "url": "https://open.spotify.com/album/5CnZjFfPDmxOX7KnWLLqpC"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 471560,
       "name": "Protection",
       "url": "https://open.spotify.com/track/3kKVqFF4pv4EXeQe428zl2"
+    },
+    {
+      "added_at": "2025-11-10 02:29:40",
+      "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/3REQzRGObqM9DqmOmiuvzP"
+      },
+      "artists": [
+        {
+          "name": "Sassy 009",
+          "url": "https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L"
+        },
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        }
+      ],
+      "duration_ms": 169273,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/1pDiRrLro0tlhsPSexB3Zv"
     },
     {
       "added_at": "2025-11-10 02:29:40",
@@ -659,26 +659,6 @@
     {
       "added_at": "2025-11-10 02:29:40",
       "album": {
-        "name": "Those Days",
-        "url": "https://open.spotify.com/album/3ruuXdcYTLv8j85lBvUouX"
-      },
-      "artists": [
-        {
-          "name": "Dal",
-          "url": "https://open.spotify.com/artist/3NF4EmZKXeCmMKLOAWzYjt"
-        },
-        {
-          "name": "Leah Yeger",
-          "url": "https://open.spotify.com/artist/06p9GzfGI2V2Pmokgy123k"
-        }
-      ],
-      "duration_ms": 229750,
-      "name": "Those Days",
-      "url": "https://open.spotify.com/track/42yFErprYYtoYtzVdkNNAg"
-    },
-    {
-      "added_at": "2025-11-10 02:29:40",
-      "album": {
         "name": "It's Not This",
         "url": "https://open.spotify.com/album/5XbxaUEQQ7jTJ5zBa19pjY"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 190769,
       "name": "It's Not This",
       "url": "https://open.spotify.com/track/12ZC7GrMQNo6xXJdN89d8P"
+    },
+    {
+      "added_at": "2025-11-10 02:29:40",
+      "album": {
+        "name": "Those Days",
+        "url": "https://open.spotify.com/album/3ruuXdcYTLv8j85lBvUouX"
+      },
+      "artists": [
+        {
+          "name": "Dal",
+          "url": "https://open.spotify.com/artist/3NF4EmZKXeCmMKLOAWzYjt"
+        },
+        {
+          "name": "Leah Yeger",
+          "url": "https://open.spotify.com/artist/06p9GzfGI2V2Pmokgy123k"
+        }
+      ],
+      "duration_ms": 229750,
+      "name": "Those Days",
+      "url": "https://open.spotify.com/track/42yFErprYYtoYtzVdkNNAg"
     },
     {
       "added_at": "2025-11-10 02:29:40",
@@ -919,6 +919,22 @@
     {
       "added_at": "2025-11-10 02:29:40",
       "album": {
+        "name": "Quixotic",
+        "url": "https://open.spotify.com/album/5W3A1cKeYDWKwumAcTqQMf"
+      },
+      "artists": [
+        {
+          "name": "Martina Topley-Bird",
+          "url": "https://open.spotify.com/artist/6sKLLGj7SqbP2qDBdEOoZ6"
+        }
+      ],
+      "duration_ms": 232093,
+      "name": "Sandpaper Kisses",
+      "url": "https://open.spotify.com/track/64vNKBA9dpXgQhQfuMocSG"
+    },
+    {
+      "added_at": "2025-11-10 02:29:40",
+      "album": {
         "name": "Diamond Miner",
         "url": "https://open.spotify.com/album/22tlBIBLJy9pmB9AnJILEE"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 231034,
       "name": "Diamond Miner",
       "url": "https://open.spotify.com/track/3dEG2MQ0Bdd7lOqyG3GLFI"
-    },
-    {
-      "added_at": "2025-11-10 02:29:40",
-      "album": {
-        "name": "Quixotic",
-        "url": "https://open.spotify.com/album/5W3A1cKeYDWKwumAcTqQMf"
-      },
-      "artists": [
-        {
-          "name": "Martina Topley-Bird",
-          "url": "https://open.spotify.com/artist/6sKLLGj7SqbP2qDBdEOoZ6"
-        }
-      ],
-      "duration_ms": 232093,
-      "name": "Sandpaper Kisses",
-      "url": "https://open.spotify.com/track/64vNKBA9dpXgQhQfuMocSG"
     },
     {
       "added_at": "2025-11-10 02:29:40",
@@ -995,22 +995,6 @@
     {
       "added_at": "2025-11-10 02:29:40",
       "album": {
-        "name": "8",
-        "url": "https://open.spotify.com/album/0IFjmftqt1Cvy96H2IzNVe"
-      },
-      "artists": [
-        {
-          "name": "Eartheater",
-          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
-        }
-      ],
-      "duration_ms": 290751,
-      "name": "8",
-      "url": "https://open.spotify.com/track/3OahKSfN3hNGn1KL72urlY"
-    },
-    {
-      "added_at": "2025-11-10 02:29:40",
-      "album": {
         "name": "Tsunami",
         "url": "https://open.spotify.com/album/0SX3o2pQvxPaujHIqPVrpP"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 231173,
       "name": "Tsunami",
       "url": "https://open.spotify.com/track/5T9RiaaXbVUQdIG3hLmZDY"
+    },
+    {
+      "added_at": "2025-11-10 02:29:40",
+      "album": {
+        "name": "8",
+        "url": "https://open.spotify.com/album/0IFjmftqt1Cvy96H2IzNVe"
+      },
+      "artists": [
+        {
+          "name": "Eartheater",
+          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
+        }
+      ],
+      "duration_ms": 290751,
+      "name": "8",
+      "url": "https://open.spotify.com/track/3OahKSfN3hNGn1KL72urlY"
     },
     {
       "added_at": "2025-11-10 02:29:40",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2025-11-10 02:29:40",
       "album": {
-        "name": "Breathe In",
-        "url": "https://open.spotify.com/album/3YIwIViTyZ9mcdLaAVeFND"
-      },
-      "artists": [
-        {
-          "name": "Beauty's Confusion",
-          "url": "https://open.spotify.com/artist/4MxeVr8e4j2TOeq3cEEyBi"
-        }
-      ],
-      "duration_ms": 294186,
-      "name": "Moments Like These",
-      "url": "https://open.spotify.com/track/690VYCFMFmzfEwVG2GUEzO"
-    },
-    {
-      "added_at": "2025-11-10 02:29:40",
-      "album": {
         "name": "Spirit",
         "url": "https://open.spotify.com/album/4emDc6rcjqJGqCj8NqEIzG"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 271506,
       "name": "Wicked Dreams",
       "url": "https://open.spotify.com/track/6dvHjr6kOqEnKeQyd3Tozs"
+    },
+    {
+      "added_at": "2025-11-10 02:29:40",
+      "album": {
+        "name": "Breathe In",
+        "url": "https://open.spotify.com/album/3YIwIViTyZ9mcdLaAVeFND"
+      },
+      "artists": [
+        {
+          "name": "Beauty's Confusion",
+          "url": "https://open.spotify.com/artist/4MxeVr8e4j2TOeq3cEEyBi"
+        }
+      ],
+      "duration_ms": 294186,
+      "name": "Moments Like These",
+      "url": "https://open.spotify.com/track/690VYCFMFmzfEwVG2GUEzO"
     },
     {
       "added_at": "2025-11-10 02:29:40",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2025-11-10 02:29:40",
       "album": {
-        "name": "Scarlet Lamb",
-        "url": "https://open.spotify.com/album/5usTfd8cfuQttU2w3Eh0q3"
-      },
-      "artists": [
-        {
-          "name": "yun\u00e8 pinku",
-          "url": "https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD"
-        }
-      ],
-      "duration_ms": 253417,
-      "name": "Reckless Sensation",
-      "url": "https://open.spotify.com/track/0IrQ7lMoICf8rBCho8ZMgK"
-    },
-    {
-      "added_at": "2025-11-10 02:29:40",
-      "album": {
         "name": "Remember",
         "url": "https://open.spotify.com/album/29YT1RXwT1qtQFAw5PMmjL"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 199680,
       "name": "Remember",
       "url": "https://open.spotify.com/track/0rCBbW26RIbOH4i1CHmxP3"
+    },
+    {
+      "added_at": "2025-11-10 02:29:40",
+      "album": {
+        "name": "Scarlet Lamb",
+        "url": "https://open.spotify.com/album/5usTfd8cfuQttU2w3Eh0q3"
+      },
+      "artists": [
+        {
+          "name": "yun\u00e8 pinku",
+          "url": "https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD"
+        }
+      ],
+      "duration_ms": 253417,
+      "name": "Reckless Sensation",
+      "url": "https://open.spotify.com/track/0IrQ7lMoICf8rBCho8ZMgK"
     },
     {
       "added_at": "2025-11-10 02:29:40",
@@ -1531,18 +1531,22 @@
     {
       "added_at": "2025-11-10 02:29:40",
       "album": {
-        "name": "Everything I Didn\u2019t Say",
-        "url": "https://open.spotify.com/album/7sb53RUF8x70PzjPmDxF0Q"
+        "name": "Acchordance",
+        "url": "https://open.spotify.com/album/3adRFNS6sAgApn9uuKDXYF"
       },
       "artists": [
         {
-          "name": "Ella Henderson",
-          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+          "name": "Doctor Flake",
+          "url": "https://open.spotify.com/artist/5DZr9dQj9KPd62WuMeIPqK"
+        },
+        {
+          "name": "Malika",
+          "url": "https://open.spotify.com/artist/4kEd51gggillWwuzr1rpM6"
         }
       ],
-      "duration_ms": 213133,
-      "name": "Ugly",
-      "url": "https://open.spotify.com/track/2kHQScyzjnhhuBPQQ1AVfo"
+      "duration_ms": 276154,
+      "name": "Lonely Road",
+      "url": "https://open.spotify.com/track/22W2hL07wNFLxoAceaEJkt"
     },
     {
       "added_at": "2025-11-10 02:29:40",
@@ -1567,22 +1571,18 @@
     {
       "added_at": "2025-11-10 02:29:40",
       "album": {
-        "name": "Acchordance",
-        "url": "https://open.spotify.com/album/3adRFNS6sAgApn9uuKDXYF"
+        "name": "Everything I Didn\u2019t Say",
+        "url": "https://open.spotify.com/album/7sb53RUF8x70PzjPmDxF0Q"
       },
       "artists": [
         {
-          "name": "Doctor Flake",
-          "url": "https://open.spotify.com/artist/5DZr9dQj9KPd62WuMeIPqK"
-        },
-        {
-          "name": "Malika",
-          "url": "https://open.spotify.com/artist/4kEd51gggillWwuzr1rpM6"
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
         }
       ],
-      "duration_ms": 276154,
-      "name": "Lonely Road",
-      "url": "https://open.spotify.com/track/22W2hL07wNFLxoAceaEJkt"
+      "duration_ms": 213133,
+      "name": "Ugly",
+      "url": "https://open.spotify.com/track/2kHQScyzjnhhuBPQQ1AVfo"
     },
     {
       "added_at": "2025-11-10 02:29:40",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2025-11-10 02:29:40",
       "album": {
-        "name": "Echoes from the Hills",
-        "url": "https://open.spotify.com/album/3XZ2Y55Gt0c99bh0jKAAtB"
-      },
-      "artists": [
-        {
-          "name": "karan",
-          "url": "https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8"
-        }
-      ],
-      "duration_ms": 172551,
-      "name": "FREEFALL",
-      "url": "https://open.spotify.com/track/3HbCHPILR31b1riAxfEjmj"
-    },
-    {
-      "added_at": "2025-11-10 02:29:40",
-      "album": {
         "name": "About You",
         "url": "https://open.spotify.com/album/5KBGp5VvPhLUopd1NkRoML"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 184000,
       "name": "About You",
       "url": "https://open.spotify.com/track/1PuXZ6hSLFbwWhMxQXrkLr"
+    },
+    {
+      "added_at": "2025-11-10 02:29:40",
+      "album": {
+        "name": "Echoes from the Hills",
+        "url": "https://open.spotify.com/album/3XZ2Y55Gt0c99bh0jKAAtB"
+      },
+      "artists": [
+        {
+          "name": "karan",
+          "url": "https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8"
+        }
+      ],
+      "duration_ms": 172551,
+      "name": "FREEFALL",
+      "url": "https://open.spotify.com/track/3HbCHPILR31b1riAxfEjmj"
     },
     {
       "added_at": "2025-11-10 02:29:40",
@@ -1711,6 +1711,22 @@
     {
       "added_at": "2025-11-10 02:29:40",
       "album": {
+        "name": "Luster",
+        "url": "https://open.spotify.com/album/6vRCwr31pNFnURP8mj53KP"
+      },
+      "artists": [
+        {
+          "name": "Maria Somerville",
+          "url": "https://open.spotify.com/artist/5JjgffJf4s4KF29xdEaAQd"
+        }
+      ],
+      "duration_ms": 214106,
+      "name": "Spring",
+      "url": "https://open.spotify.com/track/5FKYSEhkz7sBzlkyLOAXKl"
+    },
+    {
+      "added_at": "2025-11-10 02:29:40",
+      "album": {
         "name": "Squaring The Circle",
         "url": "https://open.spotify.com/album/0npeEzm8BfqZ1YwnzlvfA7"
       },
@@ -1727,22 +1743,6 @@
       "duration_ms": 321176,
       "name": "So Far Gone",
       "url": "https://open.spotify.com/track/59AsW4buRUplzfnJYSvopN"
-    },
-    {
-      "added_at": "2025-11-10 02:29:40",
-      "album": {
-        "name": "Luster",
-        "url": "https://open.spotify.com/album/6vRCwr31pNFnURP8mj53KP"
-      },
-      "artists": [
-        {
-          "name": "Maria Somerville",
-          "url": "https://open.spotify.com/artist/5JjgffJf4s4KF29xdEaAQd"
-        }
-      ],
-      "duration_ms": 214106,
-      "name": "Spring",
-      "url": "https://open.spotify.com/track/5FKYSEhkz7sBzlkyLOAXKl"
     }
   ],
   "unique_name": "\u6211\u7684\u5fae\u91ba\u591c",

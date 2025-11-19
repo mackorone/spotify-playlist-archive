@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to nov\-dec 2025
 
-804 songs - 1 day 23 hr 20 min
+805 songs - 1 day 23 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Chasing Blue](https://open.spotify.com/track/2g1kSvIoQGINyhjnzma7bT) | [Daniel DaVinchy](https://open.spotify.com/artist/4PMpQNVTHYseyuy8gq73iO) | [Chasing Blue](https://open.spotify.com/album/3O2ZeAfmunYwTz6F8C4KzV) | 3:25 | 2025-07-09 | 2025-09-11 |
 | [choke enough](https://open.spotify.com/track/6M1IuZ15hoH1y7o8Q85541) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [choke enough](https://open.spotify.com/album/4ykxxM5kqPqPQcS9147ZQY) | 4:00 | 2024-11-26 | 2025-01-12 |
 | [Choke Throat](https://open.spotify.com/track/77DKMP47yasQNFfz1dadNA) | [GOON](https://open.spotify.com/artist/4NXLuWrShwLG44Had3qhw5) | [Choke Throat](https://open.spotify.com/album/6RqQubyNGzX6lsNfeFaiVn) | 2:02 | 2024-04-03 | 2024-05-16 |
+| [Circlesz](https://open.spotify.com/track/31djYAZR2kl3HotgjFScEi) | [GENA](https://open.spotify.com/artist/1ptSYluUqpp93ZRQEYJ4bE), [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ) | [Circlesz](https://open.spotify.com/album/6gnIbhhnF3e7bT4VSvaTf4) | 2:21 | 2025-11-18 |  |
 | [City Nights \- Remastered](https://open.spotify.com/track/3OGz14dnKpsDvBaoDgPuXK) | [Allan Holdsworth](https://open.spotify.com/artist/5CK3a77IzCSHjNqzRcbhuG) | [Secrets \(Remastered\)](https://open.spotify.com/album/1UDgMZLyvJgGYNCOqMEURq) | 2:33 | 2025-01-13 | 2025-03-02 |
 | [Clayboy](https://open.spotify.com/track/3BESrc7B6JJqt7hFNx2gmb) | [RIP Swirl](https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V), [Ydegirl](https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V) | [Emo Regulation](https://open.spotify.com/album/1pir4aOKWF8N3AosfKsRgk) | 2:35 | 2025-07-03 | 2025-09-11 |
 | [Clearing](https://open.spotify.com/track/6arhzyP34P8MjjjwGylUbX) | [ML Buch](https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC) | [Suntub](https://open.spotify.com/album/6IjtDhIvMy3I8xORtWAVax) | 3:13 | 2024-11-15 | 2024-11-20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwr24yj95lH.md) - [plain]
 
 > The best Grunge heirs' songs\. Cover: Creed
 
-[Spotify](https://open.spotify.com/user/spotify) - 624,464 likes - 70 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 624,476 likes - 70 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,9 +65,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwr24yj95lH.md) - [plain]
 | 55 | [Open Your Eyes](https://open.spotify.com/track/3Gbyl3XZVeEcnFPiiPR09n) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [One Day Remains](https://open.spotify.com/album/6hqietEuZCikevdO2oGTcx) | 4:58 |
 | 56 | [So Cold](https://open.spotify.com/track/3xXKwkmkrpZmGpIof83xbE) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Shallow Bay: The Best Of Breaking Benjamin \(Explicit\)](https://open.spotify.com/album/68pVw4aHEP73HmIufK0gvP) | 4:33 |
 | 57 | [Shelf In The Room](https://open.spotify.com/track/5UNoPMX7K2W769iQ4PDfOt) | [Days Of The New](https://open.spotify.com/artist/07jc1IMGtecDZzOL9cP50t) | [Days Of The New](https://open.spotify.com/album/3JtPH618I1PMOrafvH8Xo8) | 4:43 |
-| 58 | [Down](https://open.spotify.com/track/0Im8piS5MwtQAnpWVla5iw) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [No\. 4](https://open.spotify.com/album/0NgdZp0Z9HGsowYxPBYQSV) | 3:48 |
+| 58 | [1000hp](https://open.spotify.com/track/2DpLoT8qfJdZhsLGFg413r) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [1000hp](https://open.spotify.com/album/23nOachDR5dUA2iLlvvwT3) | 3:46 |
 | 59 | [For You](https://open.spotify.com/track/3gAZuCwnlRkAjcnP1Q4yzu) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Break the Cycle](https://open.spotify.com/album/0HogGfosAvj4tF3GTv2KIE) | 3:26 |
-| 60 | [1000hp](https://open.spotify.com/track/2DpLoT8qfJdZhsLGFg413r) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [1000hp](https://open.spotify.com/album/23nOachDR5dUA2iLlvvwT3) | 3:46 |
+| 60 | [Down](https://open.spotify.com/track/0Im8piS5MwtQAnpWVla5iw) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [No\. 4](https://open.spotify.com/album/0NgdZp0Z9HGsowYxPBYQSV) | 3:48 |
 | 61 | [Breakdown](https://open.spotify.com/track/6tpGF2kYnrqO0S44jKxduZ) | [Tantric](https://open.spotify.com/artist/4tMZahYVKJdjbC1GHVtNnV) | [Tantric \(U.S\. Version\-Enh'd\)](https://open.spotify.com/album/08nOgpgThrvOYlvM6nUOmJ) | 3:10 |
 | 62 | [In Loving Memory](https://open.spotify.com/track/0T9tbj6zsRKLiUx06sbOWX) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [One Day Remains](https://open.spotify.com/album/6hqietEuZCikevdO2oGTcx) | 5:40 |
 | 63 | [Israel's Son](https://open.spotify.com/track/4gAV3sMEZn4lrfKPGARCqA) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Frogstomp \(Deluxe Edition\) \[Remastered\]](https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC) | 5:18 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwr24yj95lH.md) - [plain]
 | 67 | [Stacked Actors](https://open.spotify.com/track/1vziI0NCJKrqKiG94COHBa) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [There Is Nothing Left To Lose](https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY) | 4:16 |
 | 68 | [Shade](https://open.spotify.com/track/2keOybXUjBXImmAjk7UapM) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Frogstomp \(Deluxe Edition\) \[Remastered\]](https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC) | 4:02 |
 | 69 | [Shimmer](https://open.spotify.com/track/6WdoToI0z5f4A4kbZ3SXoa) | [Fuel](https://open.spotify.com/artist/0EyuKHE1AeE9lWUF8mzKVp) | [Sunburn](https://open.spotify.com/album/4Gwwl4Om12HKjYgYs3mIj2) | 3:34 |
-| 70 | [Wasteland](https://open.spotify.com/track/0nTiC2fGkM4q8bGlBKGrGx) | [10 Years](https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph) | [The Autumn Effect](https://open.spotify.com/album/44IoacfwUkvviGnihTUv1X) | 3:49 |
+| 70 | [Hollow](https://open.spotify.com/track/4fwqAO7Sq7jSCWeliHadVf) | [Submersed](https://open.spotify.com/artist/0539gq2LM2VDs01rp8gnGz) | [In Due Time](https://open.spotify.com/album/2kg7OYu7fN3clQtAzFEh1L) | 4:04 |
 
 Snapshot ID: `AAAAAPHqSluRIg+T1/LoeRomcCkQtVa+`

@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2019. Cover: James Blake",
-  "num_followers": 49584,
+  "num_followers": 49598,
   "original_name": "Best of Indie 2019",
   "owner": {
     "name": "Spotify",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
+        "name": "Someone To Spend Time With",
+        "url": "https://open.spotify.com/album/7MNOeNJ9RJgDJ2EPEbsIRv"
+      },
+      "artists": [
+        {
+          "name": "Los Retros",
+          "url": "https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG"
+        }
+      ],
+      "duration_ms": 173953,
+      "name": "Someone To Spend Time With",
+      "url": "https://open.spotify.com/track/0qQ9VcVPkWDTnff6HIhISU"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
         "name": "Jaime",
         "url": "https://open.spotify.com/album/6fbphjr9j57oxMB2bnhzUf"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 191395,
       "name": "Stay High",
       "url": "https://open.spotify.com/track/4vtyIW5uMCzu827nc5ThVt"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
-        "name": "Bipolar",
-        "url": "https://open.spotify.com/album/7bbDmub6x679LEFy8eZj5w"
-      },
-      "artists": [
-        {
-          "name": "Yot Club",
-          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
-        }
-      ],
-      "duration_ms": 212750,
-      "name": "YKWIM?",
-      "url": "https://open.spotify.com/track/7ejeQLLLGjVriLS7cojERB"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
+        "name": "Bipolar",
+        "url": "https://open.spotify.com/album/7bbDmub6x679LEFy8eZj5w"
+      },
+      "artists": [
+        {
+          "name": "Yot Club",
+          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
+        }
+      ],
+      "duration_ms": 212750,
+      "name": "YKWIM?",
+      "url": "https://open.spotify.com/track/7ejeQLLLGjVriLS7cojERB"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
         "name": "This Is How You Smile",
         "url": "https://open.spotify.com/album/17LsQV3q3cgTBrat3D5JSv"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 264525,
       "name": "Running",
       "url": "https://open.spotify.com/track/090a3fK6DnEKCECdfctvYy"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
-        "name": "Someone To Spend Time With",
-        "url": "https://open.spotify.com/album/7MNOeNJ9RJgDJ2EPEbsIRv"
-      },
-      "artists": [
-        {
-          "name": "Los Retros",
-          "url": "https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG"
-        }
-      ],
-      "duration_ms": 173953,
-      "name": "Someone To Spend Time With",
-      "url": "https://open.spotify.com/track/0qQ9VcVPkWDTnff6HIhISU"
     },
     {
       "added_at": "2022-09-16 04:53:36",

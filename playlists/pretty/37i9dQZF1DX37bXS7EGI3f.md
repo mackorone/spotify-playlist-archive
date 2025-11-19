@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 
 > Symphonic and power metal at its most epic\. Cover: Battle Beast
 
-[Spotify](https://open.spotify.com/user/spotify) - 813,992 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 814,096 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 73 | [Is There Anybody Out There?](https://open.spotify.com/track/6UtlekzNKTvFPuOtJvZjkK) | [Beyond The Black](https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf) | [Beyond The Black](https://open.spotify.com/album/0tdRNZ2Rb53OoY6CioMdZy) | 4:29 |
 | 74 | [Armada](https://open.spotify.com/track/0KHTwfaUiDHy4lATwLFwr4) | [Visions of Atlantis](https://open.spotify.com/artist/5kanN1nKzrkW1m2gZmo82x) | [Armada](https://open.spotify.com/album/7F0qgfUktRhh4JqnmpbMfr) | 4:03 |
 | 75 | [I Will Die In It](https://open.spotify.com/track/5g7cfmC3jg0eBeruKiGwmY) | [Lord Of The Lost](https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI) | [I Will Die In It](https://open.spotify.com/album/6CylQwPRDU6tJiQa0RH4HV) | 3:44 |
-| 76 | [Light And Shadow](https://open.spotify.com/track/1ZNNG5R3vubOwrUNuLRhmL) | [Amorphis](https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD) | [Light And Shadow](https://open.spotify.com/album/6IGSMlmG6IsidEUEetpfwp) | 4:18 |
-| 77 | [Silence Like The Grave](https://open.spotify.com/track/6E4BYC297NbL2cx90DRmId) | [Paradise Lost](https://open.spotify.com/artist/0gIo6kGl4KsCeIbqtZVHYp) | [Silence Like The Grave](https://open.spotify.com/album/6OEsAy6XJxHpCINQj8bIaH) | 4:47 |
+| 76 | [Silence Like The Grave](https://open.spotify.com/track/6E4BYC297NbL2cx90DRmId) | [Paradise Lost](https://open.spotify.com/artist/0gIo6kGl4KsCeIbqtZVHYp) | [Silence Like The Grave](https://open.spotify.com/album/6OEsAy6XJxHpCINQj8bIaH) | 4:47 |
+| 77 | [Light And Shadow](https://open.spotify.com/track/1ZNNG5R3vubOwrUNuLRhmL) | [Amorphis](https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD) | [Light And Shadow](https://open.spotify.com/album/6IGSMlmG6IsidEUEetpfwp) | 4:18 |
 | 78 | [Eternal Rains](https://open.spotify.com/track/6dsKcPKE6PLr6PBRxeNPfi) | [Ad Infinitum](https://open.spotify.com/artist/2X3qFQFHkm1sOGo5ppIoSD) | [Chapter III \- Downfall](https://open.spotify.com/album/1yd879vcVkRxjGlxWtG9st) | 3:54 |
 | 79 | [Venerate Me](https://open.spotify.com/track/6D1i1hoMyjs843XbMhNq8J) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [Venerate Me](https://open.spotify.com/album/31N7LU5QrRO1FffpS3oBH7) | 4:43 |
 | 80 | [Rising High](https://open.spotify.com/track/61seLcHUDSr6ysOCmeTrQr) | [Beyond The Black](https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf) | [Rising High](https://open.spotify.com/album/4moCWORbafoaBEmSJqmTZo) | 3:12 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 87 | [Morphine Waltz](https://open.spotify.com/track/4q7tTzUdao2IOKTCz17ym0) | [Fleshgod Apocalypse](https://open.spotify.com/artist/5ctFffJBdJe8PZL7W7NeML) | [Opera](https://open.spotify.com/album/1dDS9EG35qdgeshBzEP2ja) | 3:36 |
 | 88 | [Heavy Metal Viking](https://open.spotify.com/track/1cENvf4W2SC8HyZgjzXOzz) | [Brothers of Metal](https://open.spotify.com/artist/0WPCPYm5IDNtQjuJOGNPcy) | [Heavy Metal Viking](https://open.spotify.com/album/6iUaSm8AsBSW5Hb8IXsR2J) | 3:51 |
 | 89 | [The Apostate](https://open.spotify.com/track/1vAb78bGwENFZmf3T79ABo) | [Rotting Christ](https://open.spotify.com/artist/7FhkwcO8Jd7BRWdllBpXBJ) | [Pro Xristou](https://open.spotify.com/album/3oXblizhnWNqlsWJrpagaB) | 5:01 |
-| 90 | [The Endless Shore](https://open.spotify.com/track/1MmecgkGmAS0dpJtF0k4Is) | [Mortemia](https://open.spotify.com/artist/5RUUgjv8Q0H2osxIC3AYBi), [Ulli Perhonen](https://open.spotify.com/artist/5sVlAjN68bza0JFzEbagzH), [Nils Courbaron](https://open.spotify.com/artist/5TXDrJYFMZU5x7DqNnJcR4) | [The Endless Shore](https://open.spotify.com/album/7KnfUdPa3pZ37r3GQe6yz7) | 4:58 |
-| 91 | [Helldiver](https://open.spotify.com/track/6yxiUlPSK6oq1HFkepBh8Z) | [Invasion](https://open.spotify.com/artist/0UVhdgxNalIFFYqUoLeREd) | [Helldiver](https://open.spotify.com/album/59U6vhesTkJjbJAba5ZSKv) | 3:32 |
+| 90 | [Helldiver](https://open.spotify.com/track/6yxiUlPSK6oq1HFkepBh8Z) | [Invasion](https://open.spotify.com/artist/0UVhdgxNalIFFYqUoLeREd) | [Helldiver](https://open.spotify.com/album/59U6vhesTkJjbJAba5ZSKv) | 3:32 |
+| 91 | [The Endless Shore](https://open.spotify.com/track/1MmecgkGmAS0dpJtF0k4Is) | [Mortemia](https://open.spotify.com/artist/5RUUgjv8Q0H2osxIC3AYBi), [Ulli Perhonen](https://open.spotify.com/artist/5sVlAjN68bza0JFzEbagzH), [Nils Courbaron](https://open.spotify.com/artist/5TXDrJYFMZU5x7DqNnJcR4) | [The Endless Shore](https://open.spotify.com/album/7KnfUdPa3pZ37r3GQe6yz7) | 4:58 |
 | 92 | [Power of Will](https://open.spotify.com/track/480rtuITvEdBj1TA76juXO) | [Dynazty](https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV) | [Power of Will](https://open.spotify.com/album/6MSd9d2q11JwWSsZh6fBVr) | 3:53 |
 | 93 | [Forsaken \- The Aftermath](https://open.spotify.com/track/6dzyEj20geKV3Khh0nFqbR) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Forsaken \(The Aftermath\)](https://open.spotify.com/album/19sM9PTWBKHos2jARNfe06) | 4:58 |
 | 94 | [The Wicked Rule The Night](https://open.spotify.com/track/7GuZED83VYeWCoXJPysg7e) | [Avantasia](https://open.spotify.com/artist/1Ih0fEQQsy9EeAJbYEeQRa), [Ralf Scheepers](https://open.spotify.com/artist/0r4DFjrsHb3Qf3L8NBdPGV) | [The Wicked Rule The Night](https://open.spotify.com/album/7jMuIzBQ7Wz3h9uLvUHCJf) | 4:24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Mario
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,106,717 likes - 300 songs - 15 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,106,740 likes - 300 songs - 15 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 6 | [I Win](https://open.spotify.com/track/3YQIq2JBC6qk3NgABjxrMO) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [I Win](https://open.spotify.com/album/1DTSQOWzN1AjizgQ505HrM) | 2:13 |
 | 7 | [Pop Life \(Extended Version\) \- 2025 Remaster](https://open.spotify.com/track/5Nsu6Tufp8OhPrDlQID5ZA) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Pop Life \(Extended Version\) \[2025 Remaster\]](https://open.spotify.com/album/08yrxrNicJuFoCXk0sc6Zl) | 9:06 |
 | 8 | [Love Language](https://open.spotify.com/track/0mZtuc61VpzJ10Rl4p8kT4) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [In A World We Don't Belong \(Pt.1\)](https://open.spotify.com/album/2qmKexam2hulUGtbFkOPO6) | 2:56 |
-| 9 | [O Mistress Mine](https://open.spotify.com/track/3KuUK0RlVSmldqiW5qjEqv) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn), [Michael Thurber](https://open.spotify.com/artist/5zdCcd7nJejwygIgvJzjhf), [Twelfth Night Cast](https://open.spotify.com/artist/2bkPJglMWAb9C2f19TpmUs) | [O Mistress Mine](https://open.spotify.com/album/1rRFmNjjwljBoaL6qs8V7k) | 2:07 |
+| 9 | [O Mistress Mine](https://open.spotify.com/track/3KuUK0RlVSmldqiW5qjEqv) | [Michael Thurber](https://open.spotify.com/artist/5zdCcd7nJejwygIgvJzjhf), [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn), [Twelfth Night Cast](https://open.spotify.com/artist/2bkPJglMWAb9C2f19TpmUs) | [O Mistress Mine](https://open.spotify.com/album/1rRFmNjjwljBoaL6qs8V7k) | 2:07 |
 | 10 | [bootleg \(feat\. Tom\. G\)](https://open.spotify.com/track/6qDpc8qoWs45f3GigfxGB5) | [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H), [Tom\. G](https://open.spotify.com/artist/75q3USMHhXwAcZWZnl9fGi) | [gutta child](https://open.spotify.com/album/5bGEq0KEtEwQfgpnimNG7c) | 2:29 |
 | 11 | [Lil' Obsession \(feat\. Ambré\)](https://open.spotify.com/track/7r5vzUiBPrYlfGjkdnj1MX) | [BOY SODA](https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW), [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [Lil' Obsession \(feat\. Ambré\)](https://open.spotify.com/album/73cXz39FnNfs7SKA5bvMPH) | 3:02 |
 | 12 | [Limit](https://open.spotify.com/track/6NkJkPVDH8BRWTJXerQU2t) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260) | [Limit](https://open.spotify.com/album/51p6qDj0rYyGuXy97ZeDau) | 2:45 |

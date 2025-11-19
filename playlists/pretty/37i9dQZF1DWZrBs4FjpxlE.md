@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrBs4FjpxlE.md) - [plain]
 
 > we got you\. Cover: Post Malone
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,613 likes - 145 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,667 likes - 145 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrBs4FjpxlE.md) - [plain]
 | 8 | [treading water](https://open.spotify.com/track/4R4mceIGxEzPLhUArgAF7v) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [lost americana](https://open.spotify.com/album/30aIA1FrouOX9kHxP4dEr6) | 3:42 |
 | 9 | [it always ends in heartbreak](https://open.spotify.com/track/6btrmNDwfgdXQ5wj8uG185) | [Who's to Say?](https://open.spotify.com/artist/4QpdtnUhM8NiZRZXpiXVJH), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c), [Boyfifty](https://open.spotify.com/artist/1UXAQeRmVW5aEd4W0gTIA9) | [it always ends in heartbreak](https://open.spotify.com/album/4AzsuD5fTAYmB6nasb9T9F) | 2:13 |
 | 10 | [I Fall Apart](https://open.spotify.com/track/75ZvA4QfFiZvzhj2xkaWAh) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Stoney \(Deluxe\)](https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC) | 3:43 |
-| 11 | [Inherited Neglect](https://open.spotify.com/track/7CwaQKB6ZVGxQLtXvI02cI) | [Baby Smoove](https://open.spotify.com/artist/15oLsNy8mZYaIukh4eDhXy) | [Help](https://open.spotify.com/album/4olq9d2EoVpnvR2wPNDnW3) | 2:30 |
-| 12 | [losing interest](https://open.spotify.com/track/7fbwZ7VuHycKgn0ksPZNgf) | [zown](https://open.spotify.com/artist/5cUFNLkI4OFUhmcqBEGsqz), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [losing interest](https://open.spotify.com/album/3busZjyakCpZP68UbSVywY) | 1:47 |
-| 13 | [again](https://open.spotify.com/track/7k0sm58Wlu2jR4dJB5Y0tS) | [zown](https://open.spotify.com/artist/5cUFNLkI4OFUhmcqBEGsqz), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [again](https://open.spotify.com/album/5GNuSs1dFqX1x083OV3DrQ) | 1:55 |
+| 11 | [SORRY](https://open.spotify.com/track/5M2ztfcb9GBGmZdUFkSzfQ) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [SORRY](https://open.spotify.com/album/1RnVAiamXujeEQcruNCCWn) | 3:11 |
+| 12 | [Inherited Neglect](https://open.spotify.com/track/7CwaQKB6ZVGxQLtXvI02cI) | [Baby Smoove](https://open.spotify.com/artist/15oLsNy8mZYaIukh4eDhXy) | [Help](https://open.spotify.com/album/4olq9d2EoVpnvR2wPNDnW3) | 2:30 |
+| 13 | [losing interest](https://open.spotify.com/track/7fbwZ7VuHycKgn0ksPZNgf) | [zown](https://open.spotify.com/artist/5cUFNLkI4OFUhmcqBEGsqz), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [losing interest](https://open.spotify.com/album/3busZjyakCpZP68UbSVywY) | 1:47 |
 | 14 | [Don't Pretend](https://open.spotify.com/track/0cDE1IzAH6OsPpwLKT1l6t) | [Sik World](https://open.spotify.com/artist/39G9Mcs99KhOEtVuthwztS) | [Don't Pretend](https://open.spotify.com/album/1xzB42qRKOpfZVdFEyoL7B) | 2:44 |
 | 15 | [The Night We Met](https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5) | 3:28 |
 | 16 | [Go Flex](https://open.spotify.com/track/5yuShbu70mtHXY0yLzCQLQ) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Stoney \(Deluxe\)](https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC) | 2:59 |
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrBs4FjpxlE.md) - [plain]
 | 144 | [see me cry](https://open.spotify.com/track/6Q3wnpKg9YJ4yyYj1gxe3J) | [Orlando](https://open.spotify.com/artist/2YpPBfgJthYvaI0zwIkLFy), [Them & I](https://open.spotify.com/artist/7FGAlyRveFmDqEaAwqEzIT) | [see me cry](https://open.spotify.com/album/6FeLEFNqmzJDhL8kxwQuCq) | 2:43 |
 | 145 | [My Everything](https://open.spotify.com/track/5d9YtDcXi97VcJzMBoYI1b) | [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [My Everything](https://open.spotify.com/album/4kIsccihJrNx2sXGbVw41Y) | 3:20 |
 
-Snapshot ID: `AAAAAO74YynAb6bXdoWaxgg9EfcMfbFC`
+Snapshot ID: `AAAAABYVtBpWR3AxX/tUaviunzrUxNv0`

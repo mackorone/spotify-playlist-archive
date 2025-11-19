@@ -4,7 +4,7 @@
 
 > Explore all things indie rock right now\. Featuring music from mercury
 
-2,073 songs - 4 day 21 hr 19 min
+2,074 songs - 4 day 21 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1249,6 +1249,7 @@
 | [MR\. ROMEO](https://open.spotify.com/track/1oxJbV6ixCH6hNEqhj5eQy) | [Ashes To Amber](https://open.spotify.com/artist/1VjLe0p8LUFKPbyKaQZAgu) | [MR\. ROMEO](https://open.spotify.com/album/3IzxVPZ6HUeaAqZiZIYZgk) | 2:37 | 2024-07-05 | 2024-09-14 |
 | [Mr\. Smith](https://open.spotify.com/track/5G3DokUenWPvRjKoOSMWrZ) | [The Kilans](https://open.spotify.com/artist/4OyAwz3jcZcejoUd3bc5Qt) | [Mr\. Smith](https://open.spotify.com/album/7iBeqm0CwLcoQzPOpnJbtl) | 4:27 | 2024-11-22 | 2025-04-05 |
 | [Ms\. Dramatic](https://open.spotify.com/track/493u0mah1icJ3e1Tmllra4) | [Quarters of Change](https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa) | [Into The Rift](https://open.spotify.com/album/7ulrW1c9ERpGyadIqYwu8Y) | 3:01 | 2022-07-29 | 2022-08-17 |
+| [Muck](https://open.spotify.com/track/4ImTjh1dGi8ZloxmfAfp5K) | [Annie DiRusso](https://open.spotify.com/artist/58jk0945bnQBG9xfij6hHw) | [Muck](https://open.spotify.com/album/5VoHyvkJc7GyFQQM9fSIEN) | 3:10 | 2025-11-18 |  |
 | [MUD](https://open.spotify.com/track/4TaDzzRy2PUQn8wAG6Fvpw) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Yard](https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9) | 4:06 | 2023-09-29 | 2024-06-15 |
 | [Murder on the Dance Floor \- triple j Like A Version](https://open.spotify.com/track/1swz9stsbG1p34SJHJqiww) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Murder on the Dancefloor \(triple j Like A Version\)](https://open.spotify.com/album/02tTPri1bqHRdIwhz4gceP) | 3:00 | 2024-02-23 | 2024-04-06 |
 | [Must Be a Cop](https://open.spotify.com/track/3EK8CQiAGRn8iXgzQO4J5Y) | [Husbands](https://open.spotify.com/artist/2FUIaEhxMNdiBpO8ykabdP) | [Must Be a Cop](https://open.spotify.com/album/4igY3gMllO1ThzJpZVjQzO) | 3:49 | 2021-06-11 | 2022-06-09 |

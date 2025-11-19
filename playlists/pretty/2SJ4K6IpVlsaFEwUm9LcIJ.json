@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to nov-dec 2025",
-  "num_followers": 23547,
+  "num_followers": 23557,
   "original_name": "ten years in one room",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAANahZ5HNwHb0xTAKh8AI4mJdjzRysj",
+  "snapshot_id": "AAANa4eJg+LbbVwZsYfxvEzzEAAc/8M6",
   "tracks": [
     {
       "added_at": "2025-11-14 22:45:12",
@@ -259,6 +259,30 @@
       "duration_ms": 211924,
       "name": "Horse County",
       "url": "https://open.spotify.com/track/70lW1sv0qx7SsTEOyXBFT9"
+    },
+    {
+      "added_at": "2025-11-18 22:25:44",
+      "album": {
+        "name": "Circlesz",
+        "url": "https://open.spotify.com/album/6gnIbhhnF3e7bT4VSvaTf4"
+      },
+      "artists": [
+        {
+          "name": "GENA",
+          "url": "https://open.spotify.com/artist/1ptSYluUqpp93ZRQEYJ4bE"
+        },
+        {
+          "name": "Liv.e",
+          "url": "https://open.spotify.com/artist/0YCL71Clky5els6NireSBP"
+        },
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        }
+      ],
+      "duration_ms": 141381,
+      "name": "Circlesz",
+      "url": "https://open.spotify.com/track/31djYAZR2kl3HotgjFScEi"
     }
   ],
   "unique_name": "ten years in one room",

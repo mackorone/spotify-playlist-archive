@@ -4,7 +4,7 @@
 
 > Soft instrumental Jazz for all your activities.
 
-1,600 songs - 3 day 23 hr 33 min
+1,602 songs - 3 day 23 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [A Gentle Reminder](https://open.spotify.com/track/2pwKVc1O6cUQZRXIJ74Lh6) | [Rainy Days Trio](https://open.spotify.com/artist/0ZiJ1fWX1eDMn7PA74GdLN) | [Lonesome Road](https://open.spotify.com/album/7hNrGtYQcUXkuBw4KPWu5C) | 3:29 | 2022-05-31 | 2023-09-08 |
 | [A Glance Across the Room](https://open.spotify.com/track/1OaBvkhFNk15BH5C13vPgc) | [Måns & Dotter](https://open.spotify.com/artist/2p01LeKL4qyvQ5xKWs9S40) | [A Glance Across the Room](https://open.spotify.com/album/4tXlHGMflBX6647ppnPqVI) | 3:48 | 2024-09-27 | 2025-09-11 |
 | [A Golden Hue](https://open.spotify.com/track/3FjdR6CyPczqpQi6hG8tLp) | [Trio Rosa](https://open.spotify.com/artist/74qiJSjWdILIXAVQ99np5q) | [A Golden Hue](https://open.spotify.com/album/3kTxzI9MZSEBWccFriUQif) | 3:35 | 2024-05-30 | 2024-07-16 |
+| [A Hint of Spruce](https://open.spotify.com/track/2BZwO5cYgL8kfCk1fTmNVm) | [Tore Lundblad](https://open.spotify.com/artist/4zNremLzDLV4qylYjP0nR2) | [A Hint of Spruce](https://open.spotify.com/album/0vRxsGIsT6g4QXTOpmSRYL) | 2:56 | 2025-11-18 |  |
 | [A Knock On The Door](https://open.spotify.com/track/1lKkIBFCcsUOG14fPmvbhw) | [Clover Post](https://open.spotify.com/artist/2XWP1prJQm6CLoHKAqXCEz) | [A Knock On The Door](https://open.spotify.com/album/0q2peKbZDl0x0NuIn7UZ7F) | 3:27 | 2022-09-19 | 2024-09-10 |
 | [A Late Night Serenade](https://open.spotify.com/track/2uxZkdO0Q62XN7Vqls91Vn) | [Arto Ferrara](https://open.spotify.com/artist/0mhQiATaCY2exxGueTVOpH) | [A Late Night Serenade](https://open.spotify.com/album/2vuiwUznhdYMq6ascPADwk) | 3:45 | 2025-03-24 |  |
 | [A Letter to Yesterday](https://open.spotify.com/track/7LkdwMWR0xyImej3bSrlpH) | [Sparrow & Bird](https://open.spotify.com/artist/1j7mprvrngD7wjbXtlVQ3d) | [A Letter to Yesterday](https://open.spotify.com/album/7hcZnNWNS4GntGkGbOjPIV) | 3:31 | 2024-10-14 |  |
@@ -180,6 +181,7 @@
 | [Beneath It All](https://open.spotify.com/track/7AGPS3yD3CJR3xrPBTLhcO) | [Bruce Willmington & Co](https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y) | [Beneath It All](https://open.spotify.com/album/2Zk97EqDVC4iLN4GdX0RIs) | 2:51 | 2022-12-08 | 2025-07-16 |
 | [Best Lovers](https://open.spotify.com/track/1CLtYs3qVylJVmhQkmMhnu) | [Sean Murphy](https://open.spotify.com/artist/3tYPwi8YXV9PTnt445WJKq) | [Best Lovers](https://open.spotify.com/album/6j1axugUnFrmyCDJR5r5Mj) | 3:45 | 2024-08-12 |  |
 | [Between Here and Tomorrow](https://open.spotify.com/track/65dEjZcxZfKzkAzg17eFbi) | [Norberg](https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy) | [Between Here and Tomorrow](https://open.spotify.com/album/2GpiTpq1iogjnPhbtXZrIi) | 4:10 | 2024-11-11 | 2025-08-21 |
+| [Between the Hours](https://open.spotify.com/track/1nrQDzTdNnsSLGcnyq0U1V) | [The 52nd Street Club](https://open.spotify.com/artist/43g6zwUUuWLCPXDidr6rfU) | [Between the Hours](https://open.spotify.com/album/7EvCxdKTYkOC7eNxKmu375) | 4:12 | 2025-11-18 |  |
 | [Bewitched](https://open.spotify.com/track/7va480wmDj33F0PRpINgkD) | [Jaden Berry](https://open.spotify.com/artist/1PjLk33ZP5fgTFpbgN5kJL) | [Bewitched](https://open.spotify.com/album/2GeLBQLeuf4AzujFK206X0) | 3:27 | 2022-02-14 | 2024-07-13 |
 | [Bitterly](https://open.spotify.com/track/5Xm41ptJQvE3seHAInytkr) | [Chris Memento](https://open.spotify.com/artist/6dLMos1sm6vC0KWbloaCXb) | [Bitterly](https://open.spotify.com/album/55X0WHP3z9QVch5wKWtskZ) | 4:08 | 2024-03-22 | 2024-10-15 |
 | [Black Ice](https://open.spotify.com/track/2vLmNEKsbw9sjl7PFzmar3) | [Piper Williamson](https://open.spotify.com/artist/5ahbWWBc8VL95P5BG7Miai) | [Black Ice](https://open.spotify.com/album/6Wq8NLhoc7O3VpDZx8hpr4) | 3:48 | 2022-10-27 | 2023-06-23 |
@@ -212,7 +214,7 @@
 | [Breakup Blues](https://open.spotify.com/track/3UAfrwiIszzcAlCIfpVF96) | [Isac Solo Trio](https://open.spotify.com/artist/0PQJ8CW64ZpCQTXIWvpkUN) | [Breakup Blues](https://open.spotify.com/album/2HdHsBiLbSjvx9GlS7cK3P) | 3:27 | 2023-08-10 | 2024-05-11 |
 | [Breathe the Air](https://open.spotify.com/track/0w905sAFNxZ4E7M5aEc8YI) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [Nightcaps](https://open.spotify.com/album/2LkaBy0R9FbEBd6xqsT0ja) | 3:45 | 2023-02-16 | 2024-05-11 |
 | [Bridges](https://open.spotify.com/track/4lwnOftnucowM1naK5rB7X) | [Ikigai](https://open.spotify.com/artist/0bNWgPLuFJzQ3IXoDfydPv) | [Bridges](https://open.spotify.com/album/5zZQGomSy4wpZaWL34x6fK) | 2:53 | 2023-06-08 | 2024-11-19 |
-| [Bright Sun](https://open.spotify.com/track/7b1OIQd1udLag3ERkvhm9E) | [Tate Jackson Trio](https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ) | [Bright Sun](https://open.spotify.com/album/5kEAcZLb9yOTioAQCBYJ2m) | 3:31 | 2025-03-24 |  |
+| [Bright Sun](https://open.spotify.com/track/7b1OIQd1udLag3ERkvhm9E) | [Tate Jackson Trio](https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ) | [Bright Sun](https://open.spotify.com/album/5kEAcZLb9yOTioAQCBYJ2m) | 3:31 | 2025-03-24 | 2025-11-19 |
 | [Bring Me Yesterday](https://open.spotify.com/track/0jGhhONiu7NOpOqrnTBh8d) | [Wendy Marcini](https://open.spotify.com/artist/4CaTfk4pRkpA8A9gXamYg2) | [October Blue](https://open.spotify.com/album/7kZPEYeThqDrK4xfb4LJJh) | 3:23 | 2022-10-27 | 2025-06-06 |
 | [Bring Some Lovin'](https://open.spotify.com/track/0V3X52LW5ERZOOWS8HnJjr) | [Flatland Park](https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd) | [Bring Some Lovin'](https://open.spotify.com/album/2yXLY4cvecdiSn24aZF0Fo) | 3:09 | 2022-08-16 | 2025-08-02 |
 | [Brother Rabbit](https://open.spotify.com/track/7GZMIDtN9DLqluOtFy1mUs) | [Jacky Bonnet Group](https://open.spotify.com/artist/6raCh9DUKDTErUk5QmRYzX) | [Brother Rabbit](https://open.spotify.com/album/0mO4xPzkwqsq9N9nvBGM18) | 2:57 | 2023-01-05 | 2025-10-23 |
@@ -1426,7 +1428,7 @@
 | [Tulip Summer](https://open.spotify.com/track/3spDu5SW9fQRGUNz699MeN) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [The Reasons That I Love You](https://open.spotify.com/album/5GM3f2GT3BwzfKtKdjE0O8) | 5:03 | 2022-08-09 | 2024-09-10 |
 | [Turn Out The Stars](https://open.spotify.com/track/7F7wnKmAmgLzjIjBDGhTRD) | [John B\. Stewart](https://open.spotify.com/artist/0hdiMvtIodxDuDN6Wq9Ibe) | [John B\. Stewart and friends Vol\. 1](https://open.spotify.com/album/2MiuqCoGcESaakS9BS5JAS) | 3:31 | 2022-01-17 | 2022-10-28 |
 | [turned or twisted](https://open.spotify.com/track/4XkhajNW9YvcoBt1l2UuYe) | [Brandon's Three](https://open.spotify.com/artist/2YPncTc0Vj6Ofh2DDooAbM) | [turned or twisted](https://open.spotify.com/album/30UQBgFXxfOORDHH6oxS0a) | 2:27 | 2022-01-17 | 2023-06-09 |
-| [Turning Pages](https://open.spotify.com/track/6SPR9da48FILbdGYrud5NC) | [Felix McCoy Quartet](https://open.spotify.com/artist/2UIgtE5XCEu7BYtjaY8wsh) | [Turning Pages](https://open.spotify.com/album/1AFKNRhJcX1gNDKIcXeEEl) | 2:47 | 2025-07-15 |  |
+| [Turning Pages](https://open.spotify.com/track/6SPR9da48FILbdGYrud5NC) | [Felix McCoy Quartet](https://open.spotify.com/artist/2UIgtE5XCEu7BYtjaY8wsh) | [Turning Pages](https://open.spotify.com/album/1AFKNRhJcX1gNDKIcXeEEl) | 2:47 | 2025-07-15 | 2025-11-19 |
 | [Twelve Oaks](https://open.spotify.com/track/7JpKs9LpWZRdyMyALBCnmf) | [Wonder Eve](https://open.spotify.com/artist/2UWIuNSfLubqitB2Kf0rAa) | [Twelve Oaks](https://open.spotify.com/album/1DBmm9VfsYHL5Oly6tjgo3) | 4:06 | 2025-07-01 |  |
 | [Twenty Somethings](https://open.spotify.com/track/4eaogpCx2UNkKylwlDNGJ7) | [The Central Park North](https://open.spotify.com/artist/5puwAFDyA8ztu2yucgdWKY) | [Twenty Somethings](https://open.spotify.com/album/2U3BM2wzkqr0aKtZm4bNyP) | 2:32 | 2022-12-08 |  |
 | [Twilight Tango](https://open.spotify.com/track/28OvNaGWpPXguj3JrP7j6y) | [Greydon Park Band](https://open.spotify.com/artist/6pZIC4vzuNxdwy8hJSq29S) | [Twilight Tango](https://open.spotify.com/album/1mlBi3H00EBt2G5oEqBUGU) | 2:43 | 2023-11-24 | 2024-04-03 |

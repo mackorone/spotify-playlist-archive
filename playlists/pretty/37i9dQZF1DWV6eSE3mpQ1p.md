@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6eSE3mpQ1p.md) - [plain]
 
 > Let the music take you on a journey of peace, love, and good vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,382 likes - 51 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,407 likes - 51 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6eSE3mpQ1p.md) - [plain]
 | 15 | [Look At Us Now \(Honeycomb\)](https://open.spotify.com/track/6xSr2HhAmY096v9vfJrRqv) | [Daisy Jones & The Six](https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo) | [Look At Us Now \(Honeycomb\)](https://open.spotify.com/album/3vNpYNX7g5Mdljl65tKM30) | 5:32 |
 | 16 | [People Are Strange](https://open.spotify.com/track/1Jmqubf9kGkWeYQXQKImL5) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Strange Days](https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf) | 2:10 |
 | 17 | [My Sweet Lord \- Remastered 2014](https://open.spotify.com/track/0qdQUeKVyevrbKhAo0ibxS) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(Remastered 2014\)](https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6) | 4:41 |
-| 18 | [Call On Me](https://open.spotify.com/track/4HljoGSCvaFsesUZWpb2mK) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Big Brother & The Holding Company](https://open.spotify.com/album/4W821NJLoB9uHHkAFNXXKu) | 2:32 |
+| 18 | [Call On Me](https://open.spotify.com/track/4HljoGSCvaFsesUZWpb2mK) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Big Brother & The Holding Company](https://open.spotify.com/album/4W821NJLoB9uHHkAFNXXKu) | 2:36 |
 | 19 | [California Dreamin' \- Single Version](https://open.spotify.com/track/4s6LhHAV5SEsOV0lC2tjvJ) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [If You Can Believe Your Eyes & Ears](https://open.spotify.com/album/76oMr4Y2pOtcrvZLc2ZikF) | 2:42 |
 | 20 | [Ripple \- 2013 Remaster](https://open.spotify.com/track/1OE5l6sedVcIFELMuxQOPI) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [American Beauty \(2013 Remaster\)](https://open.spotify.com/album/2UDDZVesmQwA4aYfa55diS) | 4:09 |
 | 21 | [I'd Love to Change the World \- 2004 Remaster](https://open.spotify.com/track/7n3WO6ESKS1uCI9fgkGs66) | [Ten Years After](https://open.spotify.com/artist/7nkLRaWHImCvWGHdNGnhVE) | [A Space in Time \(Deluxe Version\)](https://open.spotify.com/album/5ZPvG6hav71Uqmlgs85xbE) | 3:44 |

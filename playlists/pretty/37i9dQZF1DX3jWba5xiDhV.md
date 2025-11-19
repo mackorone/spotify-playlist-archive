@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 
 > When the dancefloor calls your name, that's amore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,864 likes - 75 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,979 likes - 75 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 | 63 | [Kalimba de luna](https://open.spotify.com/track/1GhgNF88EQEhpGpBApiZfc) | [Tony Esposito](https://open.spotify.com/artist/2E236rsxSkaqZfJpv57gYF) | [The Sound of Tony Esposito](https://open.spotify.com/album/3xaaztf2ZXiBbjETpSTEQC) | 5:13 |
 | 64 | [Che Caldo](https://open.spotify.com/track/0pKlilwwUTxcbZsUFUouwP) | [ELASI](https://open.spotify.com/artist/3C8AlXFIhzxJ4BCKxNQJJ6), [Anoraak](https://open.spotify.com/artist/2DfP0hQCCFmZHjstSE8yXC) | [Che Caldo](https://open.spotify.com/album/20QTEjaGNPvDhQpe1nPNCX) | 3:25 |
 | 65 | [Mini Pony](https://open.spotify.com/track/2GhTxFgt38iqze9F7uMghv) | [Protopapa](https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54), [Sébastien Delage](https://open.spotify.com/artist/5h0ORvr8vGIg2fkQAu9m5M) | [Mini Pony](https://open.spotify.com/album/2CCMRVYIgWLMF276c00oi7) | 3:29 |
-| 66 | [Volpi Polari](https://open.spotify.com/track/4RVhp9KUMiu9OwvHk5g3bf) | [Skatebård](https://open.spotify.com/artist/54CS7wTXpIfstKRMkHHM9Q), [Lauer](https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4) | [Volpe](https://open.spotify.com/album/3KMTbb5X36oxIslKZMtcCQ) | 7:47 |
-| 67 | [Danza Organica \- Musumeci Remix Hot Version](https://open.spotify.com/track/1j4LiTZvzTjuG587ghNF9z) | [Sam Ruffillo](https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy), [Musumeci](https://open.spotify.com/artist/5AezOTggHnFTiQ5AiowFBf) | [Danza Organica \(Musumeci Remix Hot Version\)](https://open.spotify.com/album/26dnFWPRl0VZbmXqELrEUE) | 3:16 |
+| 66 | [Danza Organica \- Musumeci Remix Hot Version](https://open.spotify.com/track/1j4LiTZvzTjuG587ghNF9z) | [Sam Ruffillo](https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy), [Musumeci](https://open.spotify.com/artist/5AezOTggHnFTiQ5AiowFBf) | [Danza Organica \(Musumeci Remix Hot Version\)](https://open.spotify.com/album/26dnFWPRl0VZbmXqELrEUE) | 3:16 |
+| 67 | [Volpi Polari](https://open.spotify.com/track/4RVhp9KUMiu9OwvHk5g3bf) | [Skatebård](https://open.spotify.com/artist/54CS7wTXpIfstKRMkHHM9Q), [Lauer](https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4) | [Volpe](https://open.spotify.com/album/3KMTbb5X36oxIslKZMtcCQ) | 7:47 |
 | 68 | [The Night \- Original Remastered Version 2020](https://open.spotify.com/track/4IKfk28YxL7xHOflgt3tr4) | [Valerie Dore](https://open.spotify.com/artist/6IwjxNTPn0EMh4U855D3qs) | [The Night \(Original Remastered Version 2020\)](https://open.spotify.com/album/1Pf3wvHZSx6L3PTjEQNsZc) | 6:16 |
 | 69 | [Cafè \- Original 1979 Version](https://open.spotify.com/track/6bKOUB4zXxYFhG4a3x6JGZ) | [Dd Sound](https://open.spotify.com/artist/7q9FUGUCmVh5kVfXJyCADD) | [Cafè](https://open.spotify.com/album/1vv5SsVv82uIMDMme0ow28) | 6:33 |
 | 70 | [Baby I Love You](https://open.spotify.com/track/0GpbUTVkLhMb200mH8WBOW) | [Easy Going](https://open.spotify.com/artist/3t1n3uomLdEAVdSc5WkVf1) | [Baby I Love You \(Original\) \- Single](https://open.spotify.com/album/7LZpZKT1adV23tV8AJe44U) | 8:23 |

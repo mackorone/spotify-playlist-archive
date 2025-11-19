@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, keep it real\. Cover: Cheema Y
 
-745 songs - 1 day 11 hr 31 min
+746 songs - 1 day 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,6 +226,7 @@
 | [Feature](https://open.spotify.com/track/6sgAtjjWIOhbqVUjnfKzkG) | [Arav Sidhu](https://open.spotify.com/artist/3d0dIOz8qi6JggSHq6FECE), [Deol Harman](https://open.spotify.com/artist/2N8tEhXkaUz7bBi5Ym9Xqa) | [Feature](https://open.spotify.com/album/5h9Gzx928Hnm7BA4DbCsVq) | 2:03 | 2024-09-19 | 2024-11-15 |
 | [Feels](https://open.spotify.com/track/38qDWOA8xACTloqAyvP1M6) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Feels](https://open.spotify.com/album/6J4aQ4uEXy2OIsvLBYvXh9) | 3:16 | 2025-10-24 | 2025-11-15 |
 | [Feem](https://open.spotify.com/track/40s6ANyxQ55OwyZ3jpH1Tw) | [Sultan Singh](https://open.spotify.com/artist/4eAS78hrdEzrqgOWn1ycQD), [Backkbencherrs](https://open.spotify.com/artist/03qMNzU04fJBGdmAF4jHxS) | [Dark Matters](https://open.spotify.com/album/2BLIRxTfHWipMNxyEn3UAr) | 2:32 | 2023-05-26 | 2023-07-21 |
+| [FEEM TO FAME](https://open.spotify.com/track/1NNbi5Jc6j83KZ1kIIQ6g6) | [Sardar Khehra](https://open.spotify.com/artist/3YhEUyspZuU7pfEzmpFCsP), [Manna Music](https://open.spotify.com/artist/7JuTOJ6xkgM1RScWRrbCOT) | [FEEM TO FAME](https://open.spotify.com/album/5EX8OyWRqsVn8mUdvkTytU) | 2:57 | 2025-11-18 |  |
 | [Ferozi Chunni](https://open.spotify.com/track/4W6sV6jA0yYJPzaB2IWEol) | [Pavitar Lassoi](https://open.spotify.com/artist/3fn50P81Whm1meTnMmS8zX) | [Ferozi Chunni](https://open.spotify.com/album/5dIwyLBKrXoKKsaToMWQIB) | 2:54 | 2025-01-10 | 2025-06-13 |
 | [Few Days](https://open.spotify.com/track/2ccThCjEt1t1SF72mP7as2) | [Amantej Hundal](https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Few Days](https://open.spotify.com/album/54QdEwuZTXWQQOYda6FMxa) | 2:57 | 2023-03-29 | 2023-04-25 |
 | [Fight](https://open.spotify.com/track/49wyLmS7QnyAu2GbQCMcax) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [K.S Makhan](https://open.spotify.com/artist/0O35NR0LgBXsui6L5VOOq3), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN) | [Fight](https://open.spotify.com/album/7j0WC5laIVZcyWMzcyBPn0) | 3:03 | 2023-05-24 | 2024-10-04 |
@@ -443,7 +444,7 @@
 | [Mean](https://open.spotify.com/track/468Ifkgbs7PLVbhRT0RNZC) | [Sukhan Verma](https://open.spotify.com/artist/1AcRMgaDzeSN68BhA9mH2m), [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Mean](https://open.spotify.com/album/31UWYMlGmuzLkNa3wDamf9) | 2:43 | 2025-08-04 | 2025-08-24 |
 | [Mehange Mull](https://open.spotify.com/track/3eKHyxRecroxupHyA9qHmf) | [Gopi Waraich](https://open.spotify.com/artist/0xJGcb3ExRGGCnr7VuKXk1) | [G\-2](https://open.spotify.com/album/2XGi5FrzFh6oVa80m5z0OQ) | 2:10 | 2023-06-09 | 2023-06-14 |
 | [Men Duo](https://open.spotify.com/track/7okU19Bxeb6753Z2aeZjzk) | [Veer Sandhu](https://open.spotify.com/artist/2X1Bu6jg2Se8OclSxn4byQ), [RXTRO](https://open.spotify.com/artist/7lGDbXQAFrqSli1Xg28orT), [GAGG E](https://open.spotify.com/artist/1bLhM3jn76Q9wKJSF23x8R) | [Gangsta Poetry](https://open.spotify.com/album/3lEzTY3tK5oAygWMalSb8S) | 3:04 | 2025-09-22 | 2025-10-07 |
-| [Mera Mahi](https://open.spotify.com/track/445SKNj7J0NZC5tp2in8Cc) | [Param](https://open.spotify.com/artist/4yRIu6uwKIMkVrG6e2bQJ0), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [Mera Mahi](https://open.spotify.com/album/4Lavw2Qao6SX3DqcPJRGXs) | 2:59 | 2025-11-05 |  |
+| [Mera Mahi](https://open.spotify.com/track/445SKNj7J0NZC5tp2in8Cc) | [Param](https://open.spotify.com/artist/4yRIu6uwKIMkVrG6e2bQJ0), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [Mera Mahi](https://open.spotify.com/album/4Lavw2Qao6SX3DqcPJRGXs) | 2:59 | 2025-11-05 | 2025-11-19 |
 | [Mere Wala Jatt](https://open.spotify.com/track/2A9cZk5m1wYvlUPLhIMA7U) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Mere Wala Jatt](https://open.spotify.com/album/71mPX0HJuZ6FSJD7WNiTCi) | 3:43 | 2023-03-29 | 2023-04-27 |
 | [Miami Flow](https://open.spotify.com/track/2DgeseqrXJEc7MmKvXWxY0) | [JERRY](https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr) | [RAW](https://open.spotify.com/album/72MyJJSH7ZThR7366dRC2Y) | 2:29 | 2024-05-09 |  |
 | [Millionaire](https://open.spotify.com/track/78BWCd70D1X6LMkDZm1UoF) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [GLORY](https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9) | 3:19 | 2024-08-26 | 2024-09-12 |

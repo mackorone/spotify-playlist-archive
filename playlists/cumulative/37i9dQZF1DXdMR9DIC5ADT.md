@@ -4,7 +4,7 @@
 
 > 来日希望！ライブで観たい注目の海外アーティストを特集。cover: FKA Twigs
 
-724 songs - 1 day 16 hr 9 min
+725 songs - 1 day 16 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Chaise Longue](https://open.spotify.com/track/0nys6GusuHnjSYLW0PYYb7) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 3:16 | 2023-03-15 | 2023-05-05 |
 | [Chamallow](https://open.spotify.com/track/6mdGfjrWlzVxcHcqbOVN3q) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Carrossel Do Tempo](https://open.spotify.com/album/65mUUfH7lL3pVvAM8BCQ90) | 4:00 | 2023-10-05 | 2023-11-11 |
 | [Champagne Shit](https://open.spotify.com/track/5OhG7shUD0xgQMirbRAipe) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [The Age of Pleasure](https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ) | 2:23 | 2023-06-15 | 2023-09-29 |
+| [CHANEL](https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [CHANEL](https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59) | 3:08 | 2025-11-13 |  |
 | [Cheerleader](https://open.spotify.com/track/4Bgh6Uv9851EcAMH8IRirR) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Cheerleader](https://open.spotify.com/album/02TKqxmoLu0YMByukgmtlH) | 2:12 | 2023-07-27 | 2023-09-15 |
 | [Childlike Things](https://open.spotify.com/track/5GmXpNIK6yGwTtKBITIqzK) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [North West](https://open.spotify.com/artist/5NTFOMIZSgupSw6yfnD4E2) | [EUSEXUA](https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF) | 2:30 | 2025-01-23 | 2025-02-07 |
 | [Chill Pad Deluxe](https://open.spotify.com/track/1ZUFxryfVf5395tqMWlyRM) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Good People / Afterhours](https://open.spotify.com/album/4uvjayEmk2gpZmel3vSCj4) | 2:51 | 2023-11-16 | 2024-01-12 |
@@ -382,7 +383,7 @@
 | [Live For Me](https://open.spotify.com/track/0d5OZ7YYD8YXlXGitjHO0n) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Live For Me](https://open.spotify.com/album/4CBFkLLUglKClajY5weXhY) | 3:31 | 2023-10-05 | 2023-12-11 |
 | [LLYLM](https://open.spotify.com/track/2SiAcexM2p1yX6joESbehd) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LLYLM](https://open.spotify.com/album/44mKxp7RB6x5O19VWqEXEm) | 2:54 | 2023-03-15 | 2023-06-22 |
 | [Lonely Dancers](https://open.spotify.com/track/0QctD9krtPbC8KBOK6hRfb) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Lonely Dancers](https://open.spotify.com/album/763Pp8jgi2eWEyQ9SGzODd) | 2:29 | 2024-02-08 | 2024-02-16 |
-| [Lose Control](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) | 3:30 | 2023-09-14 |  |
+| [Lose Control](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) | 3:30 | 2023-09-14 | 2025-11-19 |
 | [Lose My Focus](https://open.spotify.com/track/6JIQgoFRn5JI2Kxc1B0QzY) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS), [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Where the Butterflies Go in the Rain \(Deluxe\)](https://open.spotify.com/album/46niQnejkKyyKyFIt8isDA) | 3:37 | 2025-02-27 | 2025-03-07 |
 | [Lottery \(feat\. LU KALA\)](https://open.spotify.com/track/1JUtrCqYzJ80tcAzMbCvir) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Lottery \(feat\. LU KALA\)](https://open.spotify.com/album/2cMtG6iuA7hXGNb4DHVql4) | 3:06 | 2023-03-15 | 2023-06-20 |
 | [Lotus Eater](https://open.spotify.com/track/3Y6yJhnGJdNTQwgIyKMLE8) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Lotus Eater](https://open.spotify.com/album/494g1fkelfoloDvUuqdAED) | 3:51 | 2024-10-03 | 2024-11-08 |

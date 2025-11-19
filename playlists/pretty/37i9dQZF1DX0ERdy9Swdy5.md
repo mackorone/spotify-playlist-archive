@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ERdy9Swdy5.md) - [plain]
 
 > Lo mejor de la década\. En portada: Joe Arroyo
 
-[Spotify](https://open.spotify.com/user/spotify) - 785,496 likes - 100 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 785,589 likes - 100 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ERdy9Swdy5.md) - [plain]
 | 63 | [Inolvidable](https://open.spotify.com/track/6JeEtAKTZj4hz7KqxmhJpU) | [Frankie Negrón](https://open.spotify.com/artist/3QPEwHBLL8xX8p8HaT4S16) | [Con Amor Se Gana](https://open.spotify.com/album/3MaqSrmpWmDkg3kFo7nhbV) | 4:35 |
 | 64 | [De Mí Enamórate](https://open.spotify.com/track/4hgk2iBQfSupmzye4LfTQE) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [The Greatest Salsa Ever](https://open.spotify.com/album/29JoW88csZRXtKP9YhoFeM) | 5:09 |
 | 65 | [Lloraras](https://open.spotify.com/track/38TXGZ4G7c9jBCBrwV1OrB) | [La Dimensión Latina](https://open.spotify.com/artist/5wb8MfrYdUEBSg71SKD0A5), [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Esenciales Volúmen I](https://open.spotify.com/album/7yibFAEIfUXMMumIixZJsp) | 3:41 |
-| 66 | [Dile A El](https://open.spotify.com/track/7v7VXdLHnTq8q4wmvSo7A9) | [Anthony Cruz](https://open.spotify.com/artist/1sM3IJxKOV5gc3JfvxWADC) | [Para Ti...](https://open.spotify.com/album/5PTzP5nx9BStBILTrfJAZP) | 5:26 |
-| 67 | [Juliana](https://open.spotify.com/track/1Lm4aFolaeESmsGSzgpCuK) | [DLG](https://open.spotify.com/artist/0z0w28IvsF1gsKhVAMbh9p) | [Lo Esencial](https://open.spotify.com/album/60IcnJNtwZVqhvuzf9mGcz) | 4:56 |
+| 66 | [Juliana](https://open.spotify.com/track/1Lm4aFolaeESmsGSzgpCuK) | [DLG](https://open.spotify.com/artist/0z0w28IvsF1gsKhVAMbh9p) | [Lo Esencial](https://open.spotify.com/album/60IcnJNtwZVqhvuzf9mGcz) | 4:56 |
+| 67 | [Dile A El](https://open.spotify.com/track/7v7VXdLHnTq8q4wmvSo7A9) | [Anthony Cruz](https://open.spotify.com/artist/1sM3IJxKOV5gc3JfvxWADC) | [Para Ti...](https://open.spotify.com/album/5PTzP5nx9BStBILTrfJAZP) | 5:26 |
 | 68 | [Hagamos Lo Que Diga El Corazón](https://open.spotify.com/track/481Da1w7hnEZ61sAHKnrer) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Siempre Una Aventura](https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF) | 5:02 |
 | 69 | [Y Nos Amamos](https://open.spotify.com/track/0ycMl4897bcU6pTL6DgBRs) | [David Pabon](https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE) | [Oro Salsero](https://open.spotify.com/album/45jRKB7cqJYwk7vHyYgveo) | 3:54 |
 | 70 | [Dile a Ella](https://open.spotify.com/track/4qBmNU17916oHfaGQzG0dD) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [A Pesar De Todo](https://open.spotify.com/album/5kRD3WwNuUNVk2ig8PIw5t) | 5:05 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ERdy9Swdy5.md) - [plain]
 | 86 | [O Ella O Yo](https://open.spotify.com/track/0jysCamDBv9EeAlfwj2Lla) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck) | [Serie Cinco Estrellas](https://open.spotify.com/album/0ks7E1ySIVQfx0Gle8zqqb) | 4:48 |
 | 87 | [Enamorado De Ti \- Salsa Version](https://open.spotify.com/track/5EOiyV8PrLDXBuvS1NdVu3) | [Frankie Negrón](https://open.spotify.com/artist/3QPEwHBLL8xX8p8HaT4S16), [Ronnie Torres and Ramon Sanchez](https://open.spotify.com/artist/2jebsUroQNfYr1931DQHge) | [Lo Que Llevo Por Dentro](https://open.spotify.com/album/1QTe8NivESo3klvIIhk2Bs) | 4:52 |
 | 88 | [Yo No Te Pido](https://open.spotify.com/track/6fmiVPcmN2tBw5gi2gBY5o) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Esencia](https://open.spotify.com/album/7elaoChLnXM4QN2O6pT47w) | 4:53 |
-| 89 | [Bastó una Mirada](https://open.spotify.com/track/4j16ZetB2rjAvjtKJEmQ5J) | [Los Titanes](https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S) | [Grandes Exitos de Salsa](https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E) | 4:52 |
-| 90 | [Mascarada](https://open.spotify.com/track/7DKmBQ6INFuFRNSQsnwqeX) | [Johnny Ray](https://open.spotify.com/artist/0pC0pFLfdKMboJmKgYgmuw) | [Exitos Eternos](https://open.spotify.com/album/4dY4pdEIlP4XX9Vdj915Qg) | 4:37 |
+| 89 | [Mascarada](https://open.spotify.com/track/7DKmBQ6INFuFRNSQsnwqeX) | [Johnny Ray](https://open.spotify.com/artist/0pC0pFLfdKMboJmKgYgmuw) | [Exitos Eternos](https://open.spotify.com/album/4dY4pdEIlP4XX9Vdj915Qg) | 4:37 |
+| 90 | [Bastó una Mirada](https://open.spotify.com/track/4j16ZetB2rjAvjtKJEmQ5J) | [Los Titanes](https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S) | [Grandes Exitos de Salsa](https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E) | 4:52 |
 | 91 | [El Apartamento](https://open.spotify.com/track/6ilUvSefuUnXgEqxj7SD5Z) | [Willie Rosario](https://open.spotify.com/artist/24qSVomYxpfAFwzBnKCc8J), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Salsa de Amor Vol\. 3](https://open.spotify.com/album/1dgh2p4sLHHDFD6RXshJMZ) | 4:18 |
 | 92 | [Remolino](https://open.spotify.com/track/00bGrgNvhYh3zt5PC0co3K) | [Frankie Negrón](https://open.spotify.com/artist/3QPEwHBLL8xX8p8HaT4S16), [Ronnie Torres and Ramon Sanchez](https://open.spotify.com/artist/2jebsUroQNfYr1931DQHge) | [Lo Que Llevo Por Dentro](https://open.spotify.com/album/1QTe8NivESo3klvIIhk2Bs) | 4:53 |
 | 93 | [Si Me Preguntan Por Ti](https://open.spotify.com/track/3kLOt4pxDk5ZYCprFXnTsZ) | [Brenda K\. Starr](https://open.spotify.com/artist/5Ne8hQEmy0eZu9hlE3j58B) | [No Lo Voy a Olvidar](https://open.spotify.com/album/5jMe7L01uhfNshwYuKvfVg) | 4:39 |

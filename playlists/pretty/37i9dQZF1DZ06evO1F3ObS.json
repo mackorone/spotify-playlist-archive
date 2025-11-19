@@ -1,12 +1,12 @@
 {
   "description": "This is ReoNa. The essential tracks, all in one playlist.",
-  "num_followers": 22183,
+  "num_followers": 22184,
   "original_name": "This Is ReoNa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRkUAAAAAAAJUiiFmSQ6mugmiEpYnNof",
+  "snapshot_id": "aRplgAAAAACQ4arLKR5CN/AwhcBl2fMq",
   "tracks": [
     {
       "added_at": null,
@@ -391,6 +391,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Debris",
+        "url": "https://open.spotify.com/album/3s0NegKIyNZbvXrH4oRxDT"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "duration_ms": 272177,
+      "name": "Debris",
+      "url": "https://open.spotify.com/track/7cISTRx3D4mmIfn2MPDvzQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "time",
         "url": "https://open.spotify.com/album/18bxCRrBnYE2CKtnJWrgMj"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 238666,
       "name": "time",
       "url": "https://open.spotify.com/track/7grcN18xiQDGUVqWR7mUF0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Debris",
-        "url": "https://open.spotify.com/album/3s0NegKIyNZbvXrH4oRxDT"
-      },
-      "artists": [
-        {
-          "name": "ReoNa",
-          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
-        }
-      ],
-      "duration_ms": 272177,
-      "name": "Debris",
-      "url": "https://open.spotify.com/track/7cISTRx3D4mmIfn2MPDvzQ"
     },
     {
       "added_at": null,
@@ -463,8 +463,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "HUMAN",
-        "url": "https://open.spotify.com/album/1viQNIgOEcg34svVzSB5Ic"
+        "name": "SWEET HURT",
+        "url": "https://open.spotify.com/album/5wcOB0FItV2G8a4EGVUZEm"
       },
       "artists": [
         {
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
         }
       ],
-      "duration_ms": 189865,
-      "name": "SACRA",
-      "url": "https://open.spotify.com/track/3ZAzz9T4ANqovBZBJkOiVh"
+      "duration_ms": 277480,
+      "name": "SWEET HURT",
+      "url": "https://open.spotify.com/track/6HpT1pNhenYMIYY9vWgJoc"
     },
     {
       "added_at": null,
@@ -499,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "SWEET HURT",
-        "url": "https://open.spotify.com/album/5wcOB0FItV2G8a4EGVUZEm"
+        "name": "HUMAN",
+        "url": "https://open.spotify.com/album/1viQNIgOEcg34svVzSB5Ic"
       },
       "artists": [
         {
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
         }
       ],
-      "duration_ms": 277480,
-      "name": "SWEET HURT",
-      "url": "https://open.spotify.com/track/6HpT1pNhenYMIYY9vWgJoc"
+      "duration_ms": 189865,
+      "name": "SACRA",
+      "url": "https://open.spotify.com/track/3ZAzz9T4ANqovBZBJkOiVh"
     },
     {
       "added_at": null,
@@ -739,22 +739,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Prologue",
-        "url": "https://open.spotify.com/album/4nvlGw1x1DAg3hm3GXypgj"
+        "name": "HUMAN",
+        "url": "https://open.spotify.com/album/1viQNIgOEcg34svVzSB5Ic"
       },
       "artists": [
-        {
-          "name": "\u795e\u5d0e\u30a8\u30eb\u30b6",
-          "url": "https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR"
-        },
         {
           "name": "ReoNa",
           "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
         }
       ],
-      "duration_ms": 257372,
-      "name": "Dancer in the Discord",
-      "url": "https://open.spotify.com/track/7KmzkpVC89akEovfbwTFG7"
+      "duration_ms": 280183,
+      "name": "Weaker",
+      "url": "https://open.spotify.com/track/7pR7ScZMyG8jLreMh1r2Y3"
     },
     {
       "added_at": null,
@@ -779,18 +775,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "HUMAN",
-        "url": "https://open.spotify.com/album/1viQNIgOEcg34svVzSB5Ic"
+        "name": "Prologue",
+        "url": "https://open.spotify.com/album/4nvlGw1x1DAg3hm3GXypgj"
       },
       "artists": [
+        {
+          "name": "\u795e\u5d0e\u30a8\u30eb\u30b6",
+          "url": "https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR"
+        },
         {
           "name": "ReoNa",
           "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
         }
       ],
-      "duration_ms": 280183,
-      "name": "Weaker",
-      "url": "https://open.spotify.com/track/7pR7ScZMyG8jLreMh1r2Y3"
+      "duration_ms": 257372,
+      "name": "Dancer in the Discord",
+      "url": "https://open.spotify.com/track/7KmzkpVC89akEovfbwTFG7"
     },
     {
       "added_at": null,
@@ -811,8 +811,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Null",
-        "url": "https://open.spotify.com/album/0Ei7kMa7ZFqHucY4rIjbLC"
+        "name": "HUMAN",
+        "url": "https://open.spotify.com/album/1viQNIgOEcg34svVzSB5Ic"
       },
       "artists": [
         {
@@ -820,9 +820,9 @@
           "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
         }
       ],
-      "duration_ms": 332160,
-      "name": "Lotus",
-      "url": "https://open.spotify.com/track/6lrSpZi8Isa1oBwvkIzP7R"
+      "duration_ms": 249741,
+      "name": "\u30e1\u30e1\u30f3\u30c8\u30fb\u30e2\u30ea",
+      "url": "https://open.spotify.com/track/2VEh6M8uR2hk4oBYQBjo9S"
     },
     {
       "added_at": null,
@@ -847,8 +847,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "HUMAN",
-        "url": "https://open.spotify.com/album/1viQNIgOEcg34svVzSB5Ic"
+        "name": "Null",
+        "url": "https://open.spotify.com/album/0Ei7kMa7ZFqHucY4rIjbLC"
       },
       "artists": [
         {
@@ -856,9 +856,9 @@
           "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
         }
       ],
-      "duration_ms": 249741,
-      "name": "\u30e1\u30e1\u30f3\u30c8\u30fb\u30e2\u30ea",
-      "url": "https://open.spotify.com/track/2VEh6M8uR2hk4oBYQBjo9S"
+      "duration_ms": 332160,
+      "name": "Lotus",
+      "url": "https://open.spotify.com/track/6lrSpZi8Isa1oBwvkIzP7R"
     }
   ],
   "unique_name": "This Is ReoNa",

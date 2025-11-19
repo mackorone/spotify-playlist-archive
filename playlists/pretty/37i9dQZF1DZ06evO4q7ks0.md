@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4q7ks0.md) - [plain]
 
 > This is The Cranberries\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 510,306 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 510,356 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4q7ks0.md) - [plain]
 | 34 | [Íosa](https://open.spotify.com/track/7nDnFw9CmNnxgnY1C7vozN) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Íosa](https://open.spotify.com/album/1HJXIxvS7UsHQWcXS34u48) | 4:08 |
 | 35 | [Schizophrenic Playboy](https://open.spotify.com/track/6FdVdYNgEbbWbtIyQh8fPL) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Remembering Dolores](https://open.spotify.com/album/3YsIgJc0Df1D3VV2MXRgxq) | 3:39 |
 | 36 | [Hollywood](https://open.spotify.com/track/2uFBqk6flKDuXiaWt0vV68) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [To The Faithful Departed](https://open.spotify.com/album/5G3I9bLpCZxK4XeLyJ69iu) | 5:07 |
-| 37 | [Wake Me When It's Over](https://open.spotify.com/track/1dJv9b2YEVMsWmtqcTskYr) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [In the End](https://open.spotify.com/album/4cfq0YAgWhhIqTkVkYyvbC) | 4:11 |
-| 38 | [Yesterday's Gone \- Live MTV Unplugged](https://open.spotify.com/track/1fjfSafHHZE6SpmA958ApR) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [MTV Unplugged](https://open.spotify.com/album/3nd1Edu2U0C78WMCsDHF1d) | 4:04 |
+| 37 | [Yesterday's Gone \- Live MTV Unplugged](https://open.spotify.com/track/1fjfSafHHZE6SpmA958ApR) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [MTV Unplugged](https://open.spotify.com/album/3nd1Edu2U0C78WMCsDHF1d) | 4:04 |
+| 38 | [Wake Me When It's Over](https://open.spotify.com/track/1dJv9b2YEVMsWmtqcTskYr) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [In the End](https://open.spotify.com/album/4cfq0YAgWhhIqTkVkYyvbC) | 4:11 |
 | 39 | [The Glory](https://open.spotify.com/track/5Bd2LPvlOY3do39MIph1RD) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Remembering Dolores](https://open.spotify.com/album/3YsIgJc0Df1D3VV2MXRgxq) | 5:14 |
 | 40 | [I'm Still Remembering](https://open.spotify.com/track/47y3AKHvLSLgZ1doP75cbU) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [To The Faithful Departed](https://open.spotify.com/album/5G3I9bLpCZxK4XeLyJ69iu) | 4:48 |
 | 41 | [Song To My Family \- Magic Shop Demo](https://open.spotify.com/track/7mKEw1zNstUEAjYdKEtgrl) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(30th Anniversary / Super Deluxe Edition\)](https://open.spotify.com/album/5VJ5kSs6Pct7Wh9cPQyJeC) | 4:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4q7ks0.md) - [plain]
 | 49 | [So Cold In Ireland](https://open.spotify.com/track/4Hfdrh3dcLj32wPpWfV0yM) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(30th Anniversary / Super Deluxe Edition\)](https://open.spotify.com/album/5VJ5kSs6Pct7Wh9cPQyJeC) | 4:44 |
 | 50 | [What's On My Mind](https://open.spotify.com/track/3SQN0ve67YrlWeRSQL2Qaw) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Dreaming My Dreams With You](https://open.spotify.com/album/4ftBEHJfbJz1awnWnhztdl) | 3:12 |
 
-Snapshot ID: `aRkUAAAAAAC5qTUJ86KS+uuqMdvF5Yvy`
+Snapshot ID: `aRplgAAAAAAFkESEaXFJxxpc+QaryPof`

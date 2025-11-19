@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6mxEw3MObewfyseDUo0AgQ.md) - [plain]
 
 > 
 
-[hooknoa000](https://open.spotify.com/user/hooknoa000) - 5 likes - 66 songs - 3 hr 51 min
+[hooknoa000](https://open.spotify.com/user/hooknoa000) - 5 likes - 66 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/6mxEw3MObewfyseDUo0AgQ.md) - [plain]
 | 20 | [I Love How You Love Me \- Live](https://open.spotify.com/track/07ARfS39HSzPfEWZS8opOs) | [Jeff Mangum](https://open.spotify.com/artist/38xTceqQAKg4Q2TwFCm902) | [Live at Jittery Joe's](https://open.spotify.com/album/3KU66KeI7myOixMqkAIVIE) | 3:26 |
 | 21 | [Lose It](https://open.spotify.com/track/0Ceozg27V0Ws9jgQixD8fr) | [SWMRS](https://open.spotify.com/artist/7dLkuQHF2ijbK6jiLFyIWM) | [Drive North](https://open.spotify.com/album/3KbuvIJRqejRJ4gtO9xwC3) | 4:00 |
 | 22 | [Make It Beautiful](https://open.spotify.com/track/6aacMsUjLORCfTIkmGyHYg) | [Akira The Don](https://open.spotify.com/artist/14ep6TM2JzapH5nk7vaora), [Jordan Peterson](https://open.spotify.com/artist/3Wm0m32euyYvGApvDxgrJL) | [JBPWAVE: Genesis](https://open.spotify.com/album/6bgQ4PPZ6bRltGw6OElA2B) | 4:13 |
-| 23 | [The Boxer](https://open.spotify.com/track/76TZCvJ8GitQ2FA1q5dKu0) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bridge Over Troubled Water](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) | 5:08 |
+| 23 | [The Boxer](https://open.spotify.com/track/76TZCvJ8GitQ2FA1q5dKu0) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bridge Over Troubled Water](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) | 5:12 |
 | 24 | [Comeback Kid \(That's My Dog\)](https://open.spotify.com/track/4Jjr9IXCJVWIXOTuXDBNoq) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [Loverboy](https://open.spotify.com/album/1tTnc3AhId4QUgGR69cCF8) | 3:25 |
 | 25 | [Take a Walk](https://open.spotify.com/track/4Sfa7hdVkqlM8UW5LsSY3F) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Gossamer](https://open.spotify.com/album/14JU5SskmcyckE5I8PY6lv) | 4:24 |
 | 26 | [Little Talks](https://open.spotify.com/track/3a2tuvXCHbW5nuUckuHkKT) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [My Head Is An Animal](https://open.spotify.com/album/6uD3oJCWT1gtlSCg5lDiNF) | 4:26 |

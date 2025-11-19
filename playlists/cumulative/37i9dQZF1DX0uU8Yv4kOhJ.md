@@ -4,7 +4,7 @@
 
 > Concentrate con el aire de la cordillera de los Andes.
 
-97 songs - 6 hr 38 min
+98 songs - 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Boquerón Abandonado](https://open.spotify.com/track/0ECth7Ix1HakMkZVOWDALf) | [Savia Andina](https://open.spotify.com/artist/0hkFv9719WLJ2uupZTn0ru) | [Lo Mejor de Savia Andina \(Música Boliviana\)](https://open.spotify.com/album/3TThUIkeWMC62bZdIdYeV9) | 3:34 | 2022-05-03 |  |
 | [Cacharpaya Del Indio](https://open.spotify.com/track/01faYqKRsEL1LnJa78gkfu) | [Jorge Rico](https://open.spotify.com/artist/3Q3acE5KCV3k0UdCH7bGhp) | [A Journey To The Andes](https://open.spotify.com/album/5z3wwXWdl5P7lNsZ1jTS9P) | 4:56 | 2022-05-03 |  |
 | [Caminar en Belleza](https://open.spotify.com/track/0BkMJwnKsmg7lpXSzRRNuZ) | [Paloma del Cerro](https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp) | [Caminar en Belleza](https://open.spotify.com/album/7zosPbSLoJngyH1Mmjfmdu) | 3:39 | 2022-05-03 |  |
-| [Canto \#7](https://open.spotify.com/track/7qIRptEor1ow6u0WFty8Ej) | [Frailejones](https://open.spotify.com/artist/6i766JnQDXpjZ1Kedhjf3h) | [Canto \#7](https://open.spotify.com/album/7GIhm57UKjqGTVpLkF9pKl) | 4:04 | 2023-09-29 |  |
+| [Canto \#7](https://open.spotify.com/track/7qIRptEor1ow6u0WFty8Ej) | [Frailejones](https://open.spotify.com/artist/6i766JnQDXpjZ1Kedhjf3h) | [Canto \#7](https://open.spotify.com/album/7GIhm57UKjqGTVpLkF9pKl) | 4:04 | 2023-09-29 | 2025-11-19 |
 | [Caracol](https://open.spotify.com/track/3QJcapradiMKjvI0nKb2Vn) | [Tremor](https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD) | [Viajante](https://open.spotify.com/album/4msH94tkW6Iyxke84wmCoQ) | 4:08 | 2023-02-17 | 2024-04-19 |
 | [Caracol](https://open.spotify.com/track/79O6v0FVZHJS7QbQZ0XHBY) | [Tremor](https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD) | [Viajante](https://open.spotify.com/album/3G3M3Tuo24paVJxC3lGMHJ) | 4:10 | 2022-05-03 | 2023-09-02 |
 | [Ceguera](https://open.spotify.com/track/2mlqxHbOJ0hzBZjNfRj0ZN) | [Lucas Hill](https://open.spotify.com/artist/0grWhu56S2tVSOeSzQiSTM) | [Ceguera](https://open.spotify.com/album/37VzZiemzFQd77eZo9kOfv) | 4:19 | 2022-05-03 |  |
@@ -31,6 +31,7 @@
 | [Corazón de Rubí](https://open.spotify.com/track/53qroFU9Rs6gDq7pSD8rHP) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR), [Minuk](https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn) | [Balance](https://open.spotify.com/album/6HUW4nUJNzPBQojQh3gX0B) | 4:14 | 2023-02-17 | 2024-04-19 |
 | [Cumbia del Olvido](https://open.spotify.com/track/1oCHMNWzKJdwdwjsPMjXf3) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Prender el Alma](https://open.spotify.com/album/4i3DT5kt2AlODhnyv0mDKN) | 3:36 | 2022-05-03 | 2024-04-19 |
 | [De Barrio](https://open.spotify.com/track/0AcZqqvX2aLynoxkIYpCL0) | [M.A.K.U SoundSystem](https://open.spotify.com/artist/1XvVZZxpcgZw7MUG5BIUJh) | [Mezcla](https://open.spotify.com/album/4Eq9kFfrgL1LL3mslSKwKa) | 5:51 | 2022-05-03 |  |
+| [Desventura](https://open.spotify.com/track/62JMeGryB8d3EHFUpFfQWQ) | [LaTorre](https://open.spotify.com/artist/1jiEzyMQwfYcQtp19fwOTZ) | [Desventura](https://open.spotify.com/album/1gNGhrPZGS6fYcUSR6I7Ku) | 4:17 | 2023-09-29 |  |
 | [El Canto del Cuculi](https://open.spotify.com/track/4bg6qNjRS1WaD1GrPV6zZm) | [Los Koyas](https://open.spotify.com/artist/24zoa2n32fPZwVJoGOr9xC) | [Le top des Andes \(Les plus grands thèmes à la flûte des Andes\)](https://open.spotify.com/album/5SKiECHgu0Zs1cqIR8HJls) | 2:55 | 2022-05-03 |  |
 | [El Condor Pasa](https://open.spotify.com/track/4QPnKgaAx3vQJ05LGfIu2h) | [Raul Olarte](https://open.spotify.com/artist/7MMG0wFNM3j9ZPzFwJAOvU) | [Quena De Los Andes](https://open.spotify.com/album/5uzYC0tdg1kxzzbNzNq7t1) | 3:42 | 2022-05-03 |  |
 | [El Ecuador](https://open.spotify.com/track/55HYMSdX8cNWH42DKhPQYH) | [Lolabúm](https://open.spotify.com/artist/1Smk5600sBY0IosFDG2zki) | [Tristes Trópicos](https://open.spotify.com/album/5Db5UP6d1ccr8UvILSxv0L) | 3:57 | 2023-02-14 | 2023-06-03 |

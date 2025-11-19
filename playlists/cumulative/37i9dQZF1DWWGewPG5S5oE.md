@@ -2,9 +2,9 @@
 
 ### [Modern Jazz Japan](https://open.spotify.com/playlist/37i9dQZF1DWWGewPG5S5oE)
 
-> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 島裕介
+> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 来海
 
-468 songs - 1 day 14 hr 1 min
+470 songs - 1 day 14 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,7 +239,7 @@
 | [NEW POWER](https://open.spotify.com/track/4gDdNk7QLJ94bxKjy9VMDX) | [Answer to Remember](https://open.spotify.com/artist/0AmjQ7AztgqsgxwtNV7GL9), [ermhoi](https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc), [井上銘](https://open.spotify.com/artist/1cw4DRIdgFVPpNEdx0xORg) | [NEW POWER](https://open.spotify.com/album/6gpYBMgbkFvyfhwVACxu8c) | 3:39 | 2024-07-09 | 2024-09-19 |
 | [New World feat.ELAIZA](https://open.spotify.com/track/2SH3irAb48lnPA4zzxtTwX) | [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM), [ELAIZA](https://open.spotify.com/artist/45dMXQSIdhCQd5RUqDSpka) | [New World feat.ELAIZA](https://open.spotify.com/album/3bUMoQ0Cceo8MJp04N76wU) | 3:48 | 2024-09-10 |  |
 | [Night Cruise](https://open.spotify.com/track/5dGZZQGVOIjMjQCmguuYEo) | [T\-SQUARE](https://open.spotify.com/artist/7BwOjwl5mKpGVIvzvqEcie) | [PARADISE](https://open.spotify.com/album/5Sv5HS9ZNFdGsNwJkbLjQD) | 5:49 | 2022-09-06 | 2024-04-19 |
-| [Night flight](https://open.spotify.com/track/0C6V5RSz6pdfc2WE8NOsJk) | [PYRAMID](https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy) | [Night Flight](https://open.spotify.com/album/6PI5RLr6s5U4nUmBhmyn0J) | 3:50 | 2024-10-08 |  |
+| [Night flight](https://open.spotify.com/track/0C6V5RSz6pdfc2WE8NOsJk) | [PYRAMID](https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy) | [Night Flight](https://open.spotify.com/album/6PI5RLr6s5U4nUmBhmyn0J) | 3:50 | 2024-10-08 | 2025-11-19 |
 | [No Title](https://open.spotify.com/track/6ZbR1rdeVaqpc8dZexbmSg) | [Jun Miyakawa](https://open.spotify.com/artist/5KdoAx6uSh0kTvYYxVnPfj), [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP) | [The Way \(Deluxe Edition\)](https://open.spotify.com/album/1k06f2ViOox957pPj2va5h) | 6:12 | 2025-07-29 | 2025-09-28 |
 | [Noisia](https://open.spotify.com/track/54DUSBw5r1lEqlsvVFmgBm) | [PRIMITIVE ART ORCHESTRA](https://open.spotify.com/artist/5HrFJi08nNdu50d0AQVEi0) | [Noisia](https://open.spotify.com/album/0oKLUiiUtEe6nrJzUS5hFz) | 5:07 | 2025-02-26 | 2025-04-06 |
 | [null](https://open.spotify.com/track/0lNwTmuyzwkZ3lcQwjUIm6) | [PIANO SHIFT](https://open.spotify.com/artist/2NgVrbppUOWDrRtFqxiLgi) | [null](https://open.spotify.com/album/5OQnbpSFMWExzOv12Jqms7) | 3:38 | 2024-02-27 | 2024-06-12 |
@@ -403,6 +403,7 @@
 | [White Runway](https://open.spotify.com/track/6zuiGe5T1RW45DsUzO1c3V) | [EXOTIC SKATES](https://open.spotify.com/artist/0Gmp3J9ioTkaKxeynbZ9CP), [MONKY](https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O) | [White Runway](https://open.spotify.com/album/2P0laiKlcFWjr8WUIbiXCe) | 4:42 | 2023-05-30 | 2023-06-13 |
 | [Wind Loop Case](https://open.spotify.com/track/6OYXXJAqJhTlFwr7rrJIdV) | [Yusuke Shima](https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8), [杉浦睦](https://open.spotify.com/artist/7AUgYo9pZu8ijMfRbnlo5G) | [Wind Loop Case](https://open.spotify.com/album/5V0lIK6rdfCCJl8ZxPRml0) | 3:41 | 2022-09-27 | 2023-03-01 |
 | [wolf moon](https://open.spotify.com/track/4Xp9m04sCoqzu41LaGCmk1) | [来海](https://open.spotify.com/artist/110vAH5DWtQ3fBywg7vNmE) | [wolf moon](https://open.spotify.com/album/5oioKgDqssAhTVd5jWNtMV) | 4:50 | 2025-08-19 | 2025-10-20 |
+| [Woman “Wの悲劇”より](https://open.spotify.com/track/2LekJIHMXmm2PEZ0sPfFfj) | [来海](https://open.spotify.com/artist/110vAH5DWtQ3fBywg7vNmE) | [Woman “Wの悲劇”より](https://open.spotify.com/album/6pdNJgvPa8LfnZXD8giqfx) | 3:53 | 2025-11-18 |  |
 | [Wonderwall](https://open.spotify.com/track/6Qs0a1X7yYnsLL1v0ECgUG) | [Nautilus](https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA), [Ray Yamada](https://open.spotify.com/artist/2iPwbnM7YmwRhe6tMhGfrF) | [Wonderwall](https://open.spotify.com/album/3zjPHlchINdyyXsYc6ry85) | 4:45 | 2024-10-08 | 2024-10-23 |
 | [Workaholic](https://open.spotify.com/track/3sQtlzHErgTBuF3PB8SXrQ) | [SALVALAI](https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3) | [Workaholic](https://open.spotify.com/album/3XRgo5gZLMgvgv8EA024XG) | 4:26 | 2025-02-11 | 2025-11-07 |
 | [World's Famous](https://open.spotify.com/track/2sdU23lpqA9LamR7TWSlI7) | [DJ KOCO aka SHIMOKITA](https://open.spotify.com/artist/5zf5AtO5oLmKZxZG2jvDZR), [45trio](https://open.spotify.com/artist/5RZXjBrAveEOuQAzLHvbfs) | [World's Famous](https://open.spotify.com/album/5JG1jRiLRIwOg3CFzBjrqW) | 3:11 | 2024-12-10 |  |
@@ -412,7 +413,7 @@
 | [Zatto](https://open.spotify.com/track/3mnc8STf3GPV8E9JlA6j4X) | [Nariaki](https://open.spotify.com/artist/6VhZSXucPwAlDJD1j2Zayk) | [Zatto](https://open.spotify.com/album/3zpeZbl6NBa9KJbXpQMrig) | 6:07 | 2025-01-15 |  |
 | [Zero](https://open.spotify.com/track/1T0uAWnsevRr7Nk8E7TI4w) | [PRIMITIVE ART ORCHESTRA](https://open.spotify.com/artist/5HrFJi08nNdu50d0AQVEi0) | [Zero](https://open.spotify.com/album/54KW9F6MVh6tOL74EC8evT) | 3:41 | 2025-01-28 | 2025-04-23 |
 | [Ⅰ\. Overture](https://open.spotify.com/track/6oFZMYre73OreKIuM38oeM) | [Mao Sone](https://open.spotify.com/artist/674ZhINhNClUw6elVb96BG), [Ryo Miyachi](https://open.spotify.com/artist/4cMPr1gwTGk0gAkfZlvE13), [Hironori Suzuki](https://open.spotify.com/artist/4rU87g1ZAPPONOyteoFoRv) | [８つの小品](https://open.spotify.com/album/6ZoKCcmVkTm2mjx2imdE6U) | 5:04 | 2025-09-09 | 2025-11-15 |
-| [あらわらわ](https://open.spotify.com/track/51MR88U7RScGTheJFYOqQ3) | [CRCK/LCKS](https://open.spotify.com/artist/1iCsnjNikUpDDGDAxBalTs) | [あらわらわ](https://open.spotify.com/album/0yMIIhjiAE3zS5YVLkuYA3) | 1:34 | 2025-10-07 |  |
+| [あらわらわ](https://open.spotify.com/track/51MR88U7RScGTheJFYOqQ3) | [CRCK/LCKS](https://open.spotify.com/artist/1iCsnjNikUpDDGDAxBalTs) | [あらわらわ](https://open.spotify.com/album/0yMIIhjiAE3zS5YVLkuYA3) | 1:34 | 2025-10-07 | 2025-11-19 |
 | [お鶴](https://open.spotify.com/track/7pXOQzssyTtQgg0JEPlJHZ) | [賽](https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b) | [An Airship](https://open.spotify.com/album/6ZsY9gSuwihcsl9zGSn307) | 4:39 | 2024-12-17 |  |
 | [くちばしにチェリー](https://open.spotify.com/track/5qSOiMOIJ7e6YdRciPafef) | [EGO\-WRAPPIN’](https://open.spotify.com/artist/133lXHKraE97JysMPVLgOX) | [ROUTE 20 HIT THE ROAD](https://open.spotify.com/album/5EQ4i1sBwc4LKmFwqQt8jT) | 4:18 | 2022-09-06 | 2024-11-13 |
 | [さくらんぼの実る頃（紅の豚）](https://open.spotify.com/track/5HaBg5dAjWykVsYAYEYKt9) | [Kazumi Tateishi Trio](https://open.spotify.com/artist/0lrEYsRTl6UNtTagWmJAqZ) | [GHIBLI meets JAZZ　～Beautiful Songs～](https://open.spotify.com/album/5MW0qpY2JOWdaDOr4vUdoP) | 4:37 | 2024-05-28 | 2024-12-18 |
@@ -467,6 +468,7 @@
 | [炎のインプロビゼーション](https://open.spotify.com/track/0oLlJAlVk0nRJrOX7bmHYP) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Beat Swing](https://open.spotify.com/album/0UDOcS1jMBweDDsF2qWXQp) | 2:02 | 2023-09-12 | 2023-10-20 |
 | [熱帯回廊](https://open.spotify.com/track/1cQOzGQC6lvtmnp90BlRnd) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [熱帯回廊](https://open.spotify.com/album/2atvkylrZP3KHrzqIyqlrD) | 3:21 | 2025-08-05 | 2025-09-23 |
 | [疾走する閃光 \- 2024 NEW TAKE](https://open.spotify.com/track/4PM4nCH3fiJ6LH3v35Hpm3) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [疾走する閃光 \(2024 NEW TAKE\)](https://open.spotify.com/album/4lOSMUJfyIiUDlAJopEWuR) | 3:49 | 2024-07-09 | 2024-09-21 |
+| [相思相愛](https://open.spotify.com/track/3AFRCpDoQaEzblHCvDcXbr) | [C&K](https://open.spotify.com/artist/3eR0Jeo212WCF0Yyi46Pzj), [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF) | [相思相愛](https://open.spotify.com/album/2PP0pTkcnDPdjaO3WaNOkU) | 4:29 | 2025-11-18 |  |
 | [石の教会](https://open.spotify.com/track/17UXJldxw6BDUxVoDjemkK) | [bohemianvoodoo](https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS) | [MOMENTS](https://open.spotify.com/album/1O302L03rMX6CR86W0OfuD) | 4:37 | 2022-09-06 | 2024-12-18 |
 | [砂城の宴](https://open.spotify.com/track/6yr4prjh3bOXN5UlASBTpq) | [Alter Ego](https://open.spotify.com/artist/3fh440O6YUksZVM7BfS1jj), [Yusuke Shima](https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8) | [砂城の宴](https://open.spotify.com/album/0ZDiTIhhY49u6gVnQol566) | 4:10 | 2024-02-06 | 2024-02-28 |
 | [色彩のブルース](https://open.spotify.com/track/49qV0r81Wz0vwuVvQZS6je) | [EGO\-WRAPPIN’](https://open.spotify.com/artist/133lXHKraE97JysMPVLgOX) | [ROUTE 20 HIT THE ROAD](https://open.spotify.com/album/5EQ4i1sBwc4LKmFwqQt8jT) | 5:33 | 2022-09-06 | 2024-11-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3QfEWUJA2k1c2AICnunShP.md) - [plain]
 
 > Klassik &amp; Instrumental Soundtrack Konzentration, Entspannen
 
-[Filtr Germany](https://open.spotify.com/user/playlists.germany) - 30,804 likes - 150 songs - 8 hr 3 min
+[Filtr Germany](https://open.spotify.com/user/playlists.germany) - 30,829 likes - 150 songs - 8 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,7 +125,7 @@ pretty - [cumulative](/playlists/cumulative/3QfEWUJA2k1c2AICnunShP.md) - [plain]
 | 115 | [Avril 14th](https://open.spotify.com/track/6LiHbWmbsI0QIA3nhc5Phr) | [Olga Scheps](https://open.spotify.com/artist/07Nqz7k5QdR10iuTJkd6Mp) | [Avril 14th](https://open.spotify.com/album/1oCLhF1msyosStJwWuc7kX) | 1:42 |
 | 116 | [Dew and Spiderwebs](https://open.spotify.com/track/3mnbEofW5XJGilTCNwUjTf) | [Hauschka](https://open.spotify.com/artist/6fTuDQJqqMDrrEXSFmgyJt) | [Dew and Spiderwebs](https://open.spotify.com/album/0XyAU0GFK2OpmkJL989NUU) | 2:12 |
 | 117 | [Once Upon a Time in the West](https://open.spotify.com/track/5qeiRkIcI8u9Sr7REXh8BZ) | [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C), [Olga Peretyatko](https://open.spotify.com/artist/4xomLb6nE2jqKp9l7S2qcF), [NDR Radiophilharmonie](https://open.spotify.com/artist/6i9KFEJuHq78nMsQxeB1vR), [Ben Palmer](https://open.spotify.com/artist/7BuKIq2YqVZhxSdquEnwko) | [Epic Orchestra \- New Sound of Classical](https://open.spotify.com/album/2dIqWzU2giK5FkyZ3x9YAr) | 3:22 |
-| 118 | [Bring Him Home](https://open.spotify.com/track/3FvgjfERD2q146UmzjNTc4) | [The Piano Guys](https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI) | [The Piano Guys](https://open.spotify.com/album/6P2EwTc87RwLx2ANZVr1JY) | 4:15 |
+| 118 | [Bring Him Home](https://open.spotify.com/track/3FvgjfERD2q146UmzjNTc4) | [The Piano Guys](https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI) | [The Piano Guys](https://open.spotify.com/album/6P2EwTc87RwLx2ANZVr1JY) | 4:17 |
 | 119 | [Herz und Mund und Tat und Leben, BWV 147: Chorale\. Jesus bleibet meine Freude \(Arr\. for Piano\)](https://open.spotify.com/track/2R0vxgZ5SJUD6dLjkgOx5C) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Gran Turismo 5 \(Original Game Soundtrack\)](https://open.spotify.com/album/2fopqZRJz4oYR3ftxBAUWy) | 4:28 |
 | 120 | [Hey Brother \- Short Version](https://open.spotify.com/track/6z77LF1AiXQaSxJPPf1JcS) | [The Modern String Quintet](https://open.spotify.com/artist/6j09ytUn8UDWtb9yNYCVPi) | [Hey Brother](https://open.spotify.com/album/2pYQFUdYiDxaEU6GzzFgc6) | 2:39 |
 | 121 | [Goldberg Variations, BWV 988: Aria](https://open.spotify.com/track/5bu9A6uphPWg39RC3ZKeku) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Glenn Gould](https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP) | [Bach: The Goldberg Variations, BWV 988 \(1981 Gould Remaster\)](https://open.spotify.com/album/1aCpHSQE5ghxibsQ5gkBe0) | 3:04 |

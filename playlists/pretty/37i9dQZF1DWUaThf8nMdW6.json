@@ -1,6 +1,6 @@
 {
   "description": "Relive Southeast Asia's most adored pop hits from the 2000s.",
-  "num_followers": 1586891,
+  "num_followers": 1587102,
   "original_name": "Best of '00s Pop",
   "owner": {
     "name": "Spotify",
@@ -331,6 +331,22 @@
     {
       "added_at": "2020-08-31 04:14:33",
       "album": {
+        "name": "The Better Life",
+        "url": "https://open.spotify.com/album/5gO2acKSOaJnP0Mcy8IpU6"
+      },
+      "artists": [
+        {
+          "name": "3 Doors Down",
+          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
+        }
+      ],
+      "duration_ms": 233933,
+      "name": "Kryptonite",
+      "url": "https://open.spotify.com/track/6ZOBP3NvffbU4SZcrnt1k6"
+    },
+    {
+      "added_at": "2020-08-31 04:14:33",
+      "album": {
         "name": "Nellyville",
         "url": "https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 289160,
       "name": "Dilemma",
       "url": "https://open.spotify.com/track/0ARK753YaiJbpLUk7z5yIM"
-    },
-    {
-      "added_at": "2020-08-31 04:14:33",
-      "album": {
-        "name": "The Better Life",
-        "url": "https://open.spotify.com/album/5gO2acKSOaJnP0Mcy8IpU6"
-      },
-      "artists": [
-        {
-          "name": "3 Doors Down",
-          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
-        }
-      ],
-      "duration_ms": 233933,
-      "name": "Kryptonite",
-      "url": "https://open.spotify.com/track/6ZOBP3NvffbU4SZcrnt1k6"
     },
     {
       "added_at": "2020-08-31 04:14:33",
@@ -455,18 +455,18 @@
     {
       "added_at": "2020-08-31 04:14:33",
       "album": {
-        "name": "The Black Parade",
-        "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
+        "name": "Hybrid Theory (Bonus Edition)",
+        "url": "https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM"
       },
       "artists": [
         {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
         }
       ],
-      "duration_ms": 311106,
-      "name": "Welcome to the Black Parade",
-      "url": "https://open.spotify.com/track/5wQnmLuC1W7ATsArWACrgW"
+      "duration_ms": 184866,
+      "name": "Papercut",
+      "url": "https://open.spotify.com/track/1Vej0qeQ3ioKwpI6FUbRv1"
     },
     {
       "added_at": "2020-08-31 04:14:33",
@@ -487,18 +487,18 @@
     {
       "added_at": "2020-08-31 04:14:33",
       "album": {
-        "name": "Hybrid Theory (Bonus Edition)",
-        "url": "https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM"
+        "name": "The Black Parade",
+        "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
       },
       "artists": [
         {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
         }
       ],
-      "duration_ms": 184866,
-      "name": "Papercut",
-      "url": "https://open.spotify.com/track/1Vej0qeQ3ioKwpI6FUbRv1"
+      "duration_ms": 311106,
+      "name": "Welcome to the Black Parade",
+      "url": "https://open.spotify.com/track/5wQnmLuC1W7ATsArWACrgW"
     },
     {
       "added_at": "2020-08-31 04:14:33",
@@ -823,22 +823,6 @@
     {
       "added_at": "2020-08-31 04:14:33",
       "album": {
-        "name": "Daniel Powter",
-        "url": "https://open.spotify.com/album/4zhigAhPwqp43XVHBiVeQI"
-      },
-      "artists": [
-        {
-          "name": "Daniel Powter",
-          "url": "https://open.spotify.com/artist/7xTcuBOIAAIGDOSvwYFPzk"
-        }
-      ],
-      "duration_ms": 233640,
-      "name": "Bad Day",
-      "url": "https://open.spotify.com/track/0mUyMawtxj1CJ76kn9gIZK"
-    },
-    {
-      "added_at": "2020-08-31 04:14:33",
-      "album": {
         "name": "Black & Blue",
         "url": "https://open.spotify.com/album/41zXjyVr6dzmchWf8tv3UO"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 230093,
       "name": "Shape of My Heart",
       "url": "https://open.spotify.com/track/35o9a4iAfLl5jRmqMX9c1D"
+    },
+    {
+      "added_at": "2020-08-31 04:14:33",
+      "album": {
+        "name": "Daniel Powter",
+        "url": "https://open.spotify.com/album/4zhigAhPwqp43XVHBiVeQI"
+      },
+      "artists": [
+        {
+          "name": "Daniel Powter",
+          "url": "https://open.spotify.com/artist/7xTcuBOIAAIGDOSvwYFPzk"
+        }
+      ],
+      "duration_ms": 233640,
+      "name": "Bad Day",
+      "url": "https://open.spotify.com/track/0mUyMawtxj1CJ76kn9gIZK"
     }
   ],
   "unique_name": "Best of '00s Pop",

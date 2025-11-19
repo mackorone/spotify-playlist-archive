@@ -4,7 +4,7 @@
 
 > This is Grupo Marca Registrada\. The essential tracks, all in one playlist.
 
-132 songs - 6 hr 48 min
+133 songs - 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,9 +94,10 @@
 | [Luceros](https://open.spotify.com/track/6BTWEnqNZ5ROT2RhFBGgNh) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [JPL](https://open.spotify.com/artist/618X9qfrn7Cu3dQ17TBEWd) | [Luceros](https://open.spotify.com/album/4G08b4Dtfq0YjjQNTQcUv5) | 2:28 | 2024-08-11 | 2025-02-25 |
 | [Mafiosa](https://open.spotify.com/track/5LXnSZVJ3kvi0MpA4ryjIb) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Mafiosa](https://open.spotify.com/album/6qazRFZrvM3k9n8pzF1ob5) | 2:50 | 2023-11-10 |  |
 | [Me Haces Tan Bien](https://open.spotify.com/track/5mJ3ce2hMDnpGSuELoKUoL) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Me Haces Tan Bien](https://open.spotify.com/album/6vibWAte3CQY0K6EUxiPAv) | 2:48 | 2023-08-08 | 2024-12-26 |
-| [Me Haces Tan Bien](https://open.spotify.com/track/5NkAVF1k2tAmNdsFw4qVnM) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Don't Stop The Magic](https://open.spotify.com/album/5I5DtMQDh1PnflVUtTLMN7) | 2:48 | 2024-12-26 |  |
+| [Me Haces Tan Bien](https://open.spotify.com/track/5NkAVF1k2tAmNdsFw4qVnM) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Don't Stop The Magic](https://open.spotify.com/album/5I5DtMQDh1PnflVUtTLMN7) | 2:48 | 2024-12-26 | 2025-11-19 |
 | [Me Quemo Machín](https://open.spotify.com/track/2cR5qN8ZNGExUOxVbSaIzo) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [El Medina](https://open.spotify.com/artist/1HAvDPGzG863u9h9u2iMDX) | [EVO LUXURY 2](https://open.spotify.com/album/1f1JtMSwI8gogUd1kj6LmZ) | 2:25 | 2024-12-06 | 2025-02-07 |
 | [Mi Morenita](https://open.spotify.com/track/4Xly6Wx7KtcJc739Y4myOt) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [JPL](https://open.spotify.com/artist/618X9qfrn7Cu3dQ17TBEWd) | [Mi Morenita](https://open.spotify.com/album/1TFykciPJZ54BYl8iZybM1) | 2:29 | 2024-05-27 |  |
+| [Mi Muñequita](https://open.spotify.com/track/01IFbhPxXAnrNBTwhhgQA3) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Mi Muñequita](https://open.spotify.com/album/14Q0D9jC3rpgx8LpLmUmmy) | 3:46 | 2025-11-19 |  |
 | [Modo Maldito](https://open.spotify.com/track/2VmeNiaRsq0Z2gcMcQvHb8) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Pa Que Hablen](https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp) | 2:14 | 2023-08-08 |  |
 | [MUÑEQUITA](https://open.spotify.com/track/6kn9GQY9JSZ9wZriNdlCg9) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [MUÑEQUITA](https://open.spotify.com/album/6oTN8LafyB7RkdzRKiLvgm) | 2:46 | 2025-09-16 |  |
 | [Nada Es Fácil](https://open.spotify.com/track/4T5qPCagVQnkJ7KyQki44L) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Money](https://open.spotify.com/album/2Jj4mjzEDaXp9X3AHpo5Gu) | 3:28 | 2025-03-26 | 2025-07-26 |

@@ -1681,6 +1681,32 @@
     },
     {
       "album": {
+        "name": "Gaana Modam",
+        "url": "https://open.spotify.com/album/4BUFnidsdwP7fH613sJXs4"
+      },
+      "artists": [
+        {
+          "name": "Vini Vici",
+          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
+        },
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        },
+        {
+          "name": "Shanti People",
+          "url": "https://open.spotify.com/artist/4udXDlf1VbsKEaII28KQLt"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213380,
+      "name": "Gaana Modam",
+      "url": "https://open.spotify.com/track/2au7L8zr6mMuXLPwGmPJBs"
+    },
+    {
+      "album": {
         "name": "Gasoline",
         "url": "https://open.spotify.com/album/7CvBP12l6XQHKCkn6hnxeY"
       },
@@ -5162,7 +5188,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 452317,
       "name": "Universal Nation - Charlotte de Witte Rework",
       "url": "https://open.spotify.com/track/4OrY514bfwTTtykP7s049a"

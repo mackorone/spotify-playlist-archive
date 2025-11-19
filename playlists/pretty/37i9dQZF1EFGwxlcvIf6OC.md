@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGwxlcvIf6OC.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3bgocJUTFhXlCEOEZEBTBr">Cam</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 873 likes - 40 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 875 likes - 40 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGwxlcvIf6OC.md) - [plain]
 | 10 | [AMEN](https://open.spotify.com/track/5S8w0v3kqKckV8tyAZSkKO) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [COWBOY CARTER](https://open.spotify.com/album/2m1enA3YrMLVvR3q0MqLpL) | 2:25 |
 | 11 | [Mayday](https://open.spotify.com/track/6S41CRE6RhL7t845m2owk0) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Untamed](https://open.spotify.com/album/5KlzsMAsw5NujrJVQtjQAB) | 3:36 |
 | 12 | [So Long \(feat\. Cam\)](https://open.spotify.com/track/4nMyUJxp3SCA3gGyFhIfX9) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Diplo Presents Thomas Wesley: Chapter 1 \- Snake Oil](https://open.spotify.com/album/24EiVoJXLPY9a6a7AqZNDg) | 2:52 |
-| 13 | [Half Broke Heart](https://open.spotify.com/track/5mWupJUJRttb69wmOgVWVh) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Untamed](https://open.spotify.com/album/5KlzsMAsw5NujrJVQtjQAB) | 3:03 |
+| 13 | [Half Broke Heart](https://open.spotify.com/track/5mWupJUJRttb69wmOgVWVh) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Untamed](https://open.spotify.com/album/5KlzsMAsw5NujrJVQtjQAB) | 3:04 |
 | 14 | [My Mistake](https://open.spotify.com/track/5ICoYTFfmUKguBHpINKkGL) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Untamed](https://open.spotify.com/album/5KlzsMAsw5NujrJVQtjQAB) | 3:20 |
 | 15 | [Classic](https://open.spotify.com/track/4Lme7Xwvc2y0cnP6sCb4HB) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [The Otherside](https://open.spotify.com/album/5MVSCE7VkkqDA6TS9Ug1rW) | 2:55 |
 | 16 | [Village](https://open.spotify.com/track/7t48bfH8F6cYnt6A5d4zha) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Untamed](https://open.spotify.com/album/5KlzsMAsw5NujrJVQtjQAB) | 3:55 |
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGwxlcvIf6OC.md) - [plain]
 | 22 | [Believe](https://open.spotify.com/track/3GRrReIVJ4C71ajUvk7O1e) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Believe](https://open.spotify.com/album/0Wr6JfWQD7bzK7ipLyeiOD) | 3:19 |
 | 23 | [Untamed](https://open.spotify.com/track/1mWqNSFxHkugEscjRzy7c0) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Untamed](https://open.spotify.com/album/5KlzsMAsw5NujrJVQtjQAB) | 3:30 |
 | 24 | [Hungover On Heartache](https://open.spotify.com/track/2DgD0JLwGiSPUHvRXWUYX2) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Untamed](https://open.spotify.com/album/5KlzsMAsw5NujrJVQtjQAB) | 3:13 |
-| 25 | [Want It All](https://open.spotify.com/track/2kgc3ZFjCmyYQOC0fWXd16) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Untamed](https://open.spotify.com/album/5KlzsMAsw5NujrJVQtjQAB) | 3:08 |
-| 26 | [Country Ain't Never Been Pretty](https://open.spotify.com/track/589MsyYBcxB75cy3iMChb8) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Untamed](https://open.spotify.com/album/5KlzsMAsw5NujrJVQtjQAB) | 3:36 |
+| 25 | [Want It All](https://open.spotify.com/track/2kgc3ZFjCmyYQOC0fWXd16) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Untamed](https://open.spotify.com/album/5KlzsMAsw5NujrJVQtjQAB) | 3:09 |
+| 26 | [Country Ain't Never Been Pretty](https://open.spotify.com/track/589MsyYBcxB75cy3iMChb8) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Untamed](https://open.spotify.com/album/5KlzsMAsw5NujrJVQtjQAB) | 3:39 |
 | 27 | [Cold in California](https://open.spotify.com/track/6wKkgtTRDKV8B17MAp9eKi) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Untamed](https://open.spotify.com/album/5KlzsMAsw5NujrJVQtjQAB) | 3:10 |
 | 28 | [Girl Like Me](https://open.spotify.com/track/0MLBiXSe3JCmxItvAiSvSZ) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [The Otherside](https://open.spotify.com/album/5MVSCE7VkkqDA6TS9Ug1rW) | 3:30 |
 | 29 | [Like A Movie](https://open.spotify.com/track/0okMA7kpozN1KXcfNlWri4) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [The Otherside](https://open.spotify.com/album/5MVSCE7VkkqDA6TS9Ug1rW) | 4:03 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGwxlcvIf6OC.md) - [plain]
 | 39 | [Just For You](https://open.spotify.com/track/6ACOdnyDhj2k3VCSDsOEbs) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [All Things Light](https://open.spotify.com/album/4Sj8iHrpEA4axsC3vSld9M) | 1:48 |
 | 40 | [We Always Do](https://open.spotify.com/track/0DpqyzGCvc8GOGFs0ZO46l) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [All Things Light](https://open.spotify.com/album/4Sj8iHrpEA4axsC3vSld9M) | 2:45 |
 
-Snapshot ID: `AcB3HAAAAAAR3X8IFy9VbvsjU1MBGDeQ`
+Snapshot ID: `AcB8vAAAAADnBBcjOzJkFAJD9V8rljOQ`

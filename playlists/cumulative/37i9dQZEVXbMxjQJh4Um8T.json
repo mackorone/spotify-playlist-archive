@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "FX De La Rose",
+        "url": "https://open.spotify.com/album/10FrXNEY6Inn07cZFBf3k3"
+      },
+      "artists": [
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244894,
+      "name": "$extape",
+      "url": "https://open.spotify.com/track/5z3r0C8Q3jlbpJRHvLaVk4"
+    },
+    {
+      "album": {
         "name": "Waking Up The Neighbours",
         "url": "https://open.spotify.com/album/6Rk2VghhfqeYrgKxS21eBh"
       },
@@ -434,6 +456,36 @@
       "duration_ms": 175280,
       "name": "444",
       "url": "https://open.spotify.com/track/1o4xkdBe0RjSf2u6VXi4OI"
+    },
+    {
+      "album": {
+        "name": "444 (Remix)",
+        "url": "https://open.spotify.com/album/3mVZl9O0ungJP8CG7iPKTD"
+      },
+      "artists": [
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        },
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        },
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299325,
+      "name": "444 - Remix",
+      "url": "https://open.spotify.com/track/5AK6QqM8aUXXTk6oY00ZRh"
     },
     {
       "album": {
@@ -1602,7 +1654,7 @@
       ],
       "date_added": "2025-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-05",
+      "date_removed": null,
       "duration_ms": 290146,
       "name": "Apocalypse",
       "url": "https://open.spotify.com/track/1oAwsWBovWRIp7qLMGPIet"
@@ -5254,7 +5306,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 158954,
       "name": "C\u00d3RRER PELS CAMPS",
       "url": "https://open.spotify.com/track/5MUkMnWbFJ2eONjQuk7tx2"
@@ -6122,7 +6174,7 @@
       ],
       "date_added": "2025-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 241218,
       "name": "Do You Remember",
       "url": "https://open.spotify.com/track/0KO8CsDZhirdPAlxi9oA2M"
@@ -7236,7 +7288,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 235626,
       "name": "El Tel\u00e9fono",
       "url": "https://open.spotify.com/track/614NVFo5csQqRnryl4jXs2"
@@ -8240,7 +8292,7 @@
       ],
       "date_added": "2024-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 253920,
       "name": "Every Breath You Take",
       "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
@@ -13888,7 +13940,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-05",
+      "date_removed": null,
       "duration_ms": 184027,
       "name": "M.A.I",
       "url": "https://open.spotify.com/track/35ttE4t8lQZA2vuCYDg4G7"
@@ -14020,7 +14072,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 150027,
       "name": "MALAMENTE - Cap.1: Augurio",
       "url": "https://open.spotify.com/track/1B0BQaSRHxhI0AUlItY3LK"
@@ -14060,7 +14112,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-17",
+      "date_removed": null,
       "duration_ms": 219252,
       "name": "MALPORTADA",
       "url": "https://open.spotify.com/track/1ChPtcjaki0PEjfx4YIWGt"
@@ -16842,7 +16894,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-15",
+      "date_removed": null,
       "duration_ms": 235355,
       "name": "Opalite",
       "url": "https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa"
@@ -18228,7 +18280,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 202912,
       "name": "Problema (with Luar La L)",
       "url": "https://open.spotify.com/track/3rpfSCKQ9Lrbh9MVxUsV1e"
@@ -19344,7 +19396,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 234947,
       "name": "Ruina",
       "url": "https://open.spotify.com/track/1k9ehVSjlGY0GZFhrHavnH"
@@ -22222,7 +22274,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-13",
+      "date_removed": null,
       "duration_ms": 183976,
       "name": "T'he Trobat a Faltar",
       "url": "https://open.spotify.com/track/0Pub20AwouQspBTdtFKa55"

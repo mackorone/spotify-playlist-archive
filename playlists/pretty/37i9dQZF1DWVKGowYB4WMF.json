@@ -1,6 +1,6 @@
 {
   "description": "Jelly, arcades and a man on the moon, this one's for you!",
-  "num_followers": 93474,
+  "num_followers": 93487,
   "original_name": "Born in the 60s",
   "owner": {
     "name": "Spotify",
@@ -155,22 +155,6 @@
     {
       "added_at": "2024-03-26 13:49:34",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/3TaGSuVqPFbNJSo7h4bxB6"
-      },
-      "artists": [
-        {
-          "name": "Ray Parker Jr.",
-          "url": "https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK"
-        }
-      ],
-      "duration_ms": 239133,
-      "name": "Ghostbusters - From Ghostbusters",
-      "url": "https://open.spotify.com/track/569uHYIB0X324FZOBEhvit"
-    },
-    {
-      "added_at": "2024-03-26 13:49:34",
-      "album": {
         "name": "Graceland (25th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 280000,
       "name": "You Can Call Me Al",
       "url": "https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP"
+    },
+    {
+      "added_at": "2024-03-26 13:49:34",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/3TaGSuVqPFbNJSo7h4bxB6"
+      },
+      "artists": [
+        {
+          "name": "Ray Parker Jr.",
+          "url": "https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK"
+        }
+      ],
+      "duration_ms": 239133,
+      "name": "Ghostbusters - From Ghostbusters",
+      "url": "https://open.spotify.com/track/569uHYIB0X324FZOBEhvit"
     },
     {
       "added_at": "2024-03-26 13:49:34",
@@ -292,7 +292,7 @@
           "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 161533,
+      "duration_ms": 163275,
       "name": "Jolene",
       "url": "https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue"
     },
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-03-26 13:49:34",
       "album": {
-        "name": "The Best Of",
-        "url": "https://open.spotify.com/album/3LsiyvsH7JH1EA4slItT8N"
-      },
-      "artists": [
-        {
-          "name": "The Rubettes",
-          "url": "https://open.spotify.com/artist/44ef9VXkdKxbx4XpoNqH39"
-        }
-      ],
-      "duration_ms": 209893,
-      "name": "Sugar Baby Love",
-      "url": "https://open.spotify.com/track/294ii3rwz6bTJ2XMn5BDu0"
-    },
-    {
-      "added_at": "2024-03-26 13:49:34",
-      "album": {
         "name": "Horses (Legacy Edition)",
         "url": "https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 354320,
       "name": "Gloria: In Excelsis Deo",
       "url": "https://open.spotify.com/track/272Z4tzaSMMcgrZ0R494S2"
+    },
+    {
+      "added_at": "2024-03-26 13:49:34",
+      "album": {
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/3LsiyvsH7JH1EA4slItT8N"
+      },
+      "artists": [
+        {
+          "name": "The Rubettes",
+          "url": "https://open.spotify.com/artist/44ef9VXkdKxbx4XpoNqH39"
+        }
+      ],
+      "duration_ms": 209893,
+      "name": "Sugar Baby Love",
+      "url": "https://open.spotify.com/track/294ii3rwz6bTJ2XMn5BDu0"
     },
     {
       "added_at": "2024-03-26 13:49:34",

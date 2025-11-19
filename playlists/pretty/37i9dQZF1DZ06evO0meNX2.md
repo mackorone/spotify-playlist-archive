@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0meNX2.md) - [plain]
 
 > This is Codiciado\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,311 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,334 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,11 +35,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0meNX2.md) - [plain]
 | 25 | [Bandido \- En Vivo](https://open.spotify.com/track/1gKuxAJX4sKow9NOABCLSK) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Bandido \(En Vivo\)](https://open.spotify.com/album/05WrjfX5fyvh4OSDKUwrwZ) | 3:34 |
 | 26 | [El Disney](https://open.spotify.com/track/7s6HTRJUUZ9WCY9gPDhjdj) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [El Disney](https://open.spotify.com/album/71pONzODuum62WjG779fN1) | 2:29 |
 | 27 | [Tal Vez Mañana](https://open.spotify.com/track/2eVmYcOm2tfW0qsVwiQcDu) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [De Norte a Sur](https://open.spotify.com/album/0WbzAROHxqLtsjzrd6UtXm) | 3:33 |
-| 28 | [SOLDADO BLANCO \- En Vivo desde Los Ángeles](https://open.spotify.com/track/3r2kOgyTJ7ECwh6zr62BVL) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [PISTEANDO DESDE LOS ANGELES \(En Vivo\)](https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL) | 3:11 |
+| 28 | [AMOR PRISIONERO \- En Vivo desde Los Ángeles](https://open.spotify.com/track/0r9D3PXAe3Fpa22nWDEDU2) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [PISTEANDO DESDE LOS ANGELES \(En Vivo\)](https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL) | 3:04 |
 | 29 | [Si Yo Me Activo](https://open.spotify.com/track/20ujrHb2a79uFDJnmET4Rf) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Golpes De La Vida](https://open.spotify.com/album/27ODCRlzVevImnQl0KcsXY) | 3:30 |
 | 30 | [TODO DE AMIRI \- En Vivo desde Los Ángeles](https://open.spotify.com/track/5LgqflBrNewltSebcYlLMk) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [TODO DE AMIRI \(En Vivo desde Los Ángeles\)](https://open.spotify.com/album/5v6xboDhAiFOGGFijg65WT) | 2:05 |
 | 31 | [Buena Vida Mala Fama](https://open.spotify.com/track/29n0HRYteSorRJK9a4rKrp) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Pa' las Vibras 2](https://open.spotify.com/album/6WTGGJdnAShmVQLDH1EcKE) | 2:32 |
-| 32 | [AMOR PRISIONERO \- En Vivo desde Los Ángeles](https://open.spotify.com/track/0r9D3PXAe3Fpa22nWDEDU2) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [PISTEANDO DESDE LOS ANGELES \(En Vivo\)](https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL) | 3:04 |
+| 32 | [SOLDADO BLANCO \- En Vivo desde Los Ángeles](https://open.spotify.com/track/3r2kOgyTJ7ECwh6zr62BVL) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [PISTEANDO DESDE LOS ANGELES \(En Vivo\)](https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL) | 3:11 |
 | 33 | [Blindado El Carro](https://open.spotify.com/track/7DCqwMSct0rBmgG0v0FxNi) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ) | [Golpes De La Vida](https://open.spotify.com/album/27ODCRlzVevImnQl0KcsXY) | 3:08 |
 | 34 | [Flotando En El Aire](https://open.spotify.com/track/5C20Df5lKns5u5CxBrHel2) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Flotando En El Aire](https://open.spotify.com/album/35vp7QOXsyTnlOFmWLgetW) | 3:04 |
 | 35 | [Antídoto de Amor](https://open.spotify.com/track/2l8XMlszk4UXd0mK5hA4BA) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Mis Compas Vol\. 1](https://open.spotify.com/album/5yFMiYNofsNSNFcou6VcGa) | 3:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0meNX2.md) - [plain]
 | 49 | [El Motor](https://open.spotify.com/track/3ACSiYnQcqaKf0p3OfzQrU) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [NLIEC 2 \(LIVE SESSION\)](https://open.spotify.com/album/0LJGJbIIEjfbQE1ZpwXGle) | 2:59 |
 | 50 | [Gabachas](https://open.spotify.com/track/2R0ElsGmqt2dWLHWcRMbeN) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw), [Sheeno](https://open.spotify.com/artist/6f6NTISF0XjjlUxEmdXizO) | [Gabachas](https://open.spotify.com/album/4TOQI9fuLr1WOpJ1GSFrJJ) | 2:07 |
 
-Snapshot ID: `aRkUAAAAAAAxVrQsPfA3m6sfne3qBTDE`
+Snapshot ID: `aRplgAAAAABjCrWr6E5rqZl9mJCM6uH5`

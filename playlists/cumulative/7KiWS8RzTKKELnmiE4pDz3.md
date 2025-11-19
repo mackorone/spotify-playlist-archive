@@ -4,7 +4,7 @@
 
 > 
 
-1,210 songs - 2 day 14 hr 14 min
+1,213 songs - 2 day 14 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -361,6 +361,7 @@
 | [Free Mr\. Banks](https://open.spotify.com/track/0Prv7tKONwFjjoJ2KswCoR) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [Free Mr\. Banks](https://open.spotify.com/album/0hSUTpnHqOgP8hy7XKBPyg) | 1:59 | 2025-04-04 |  |
 | [Free Young Thug](https://open.spotify.com/track/459TcVn4q9fN9NJe29RmjL) | [jahhde](https://open.spotify.com/artist/3iwgpA6jf4fXM5ZuH7qglb), [Ifys](https://open.spotify.com/artist/2JJuMFyGSGUltwqf32E8YT) | [Lost Files 4](https://open.spotify.com/album/6vlzHLRHhhQWKhIsxsbH5P) | 2:29 | 2023-12-25 | 2024-04-24 |
 | [Free Young Thug](https://open.spotify.com/track/7LFvmOPOmBMMIb57swvhQm) | [user00xman](https://open.spotify.com/artist/6UWnzCvZ8dOv4f3grPg2wT) | [Lost ?](https://open.spotify.com/album/5FJyFYEfCJy8moRbDfEMBt) | 2:29 | 2023-01-07 | 2023-05-09 |
+| [Free Your Mind](https://open.spotify.com/track/6YjqkGsBgRHqdnbCS4pbjs) | [James Taylor Quartet](https://open.spotify.com/artist/4yJ5JaEQvtAynbcucAiN0R) | [In the Hand of the Inevitable](https://open.spotify.com/album/4XTXpbLvjAvzyzInkgK992) | 4:54 | 2025-11-18 |  |
 | [Freestyle](https://open.spotify.com/track/33YwdmM6I1hBOT0ZQHSQW6) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [Flyest Nigga In Charge, Vol\. 1](https://open.spotify.com/album/0h7HHLlC9uaaxhJOaKBLvr) | 3:29 | 2025-02-26 | 2025-05-21 |
 | [Freestyle 2](https://open.spotify.com/track/28niVl6iodHnHpE1bCeJiV) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [X](https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF) | 2:18 | 2023-10-03 | 2024-04-24 |
 | [Freestyle 3](https://open.spotify.com/track/3ZuKr1NfTecyfGuYwuXb7c) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [XTENDED](https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK) | 2:22 | 2022-10-31 | 2023-05-09 |
@@ -650,6 +651,7 @@
 | [Me And My Bitch](https://open.spotify.com/track/1Kz0tgMRWsbLzEuzRaU1vP) | [Domo Genesis](https://open.spotify.com/artist/6vHBuUxrcpn1do5UaEJ7g6), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [No Idols](https://open.spotify.com/album/3GncI0ExXYyWnIzZe9oxRQ) | 3:05 | 2024-03-26 | 2024-11-06 |
 | [Me N My Kup](https://open.spotify.com/track/0hhNTyH6RJJGItHeSMCof3) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 3:54 | 2023-10-14 |  |
 | [Mean the Most](https://open.spotify.com/track/4ZaBKLdtb8wqq0c3dtCiSy) | [Nehruviandoom](https://open.spotify.com/artist/0ZWQOiDsRVjQXoSljCxraD), [Bishop Nehru](https://open.spotify.com/artist/1b5fazYV5ecKkQHKTlwLG8) | [NEHRUVIANDOOM](https://open.spotify.com/album/152CETYdkMTfchUyFtCDZu) | 4:54 | 2025-09-03 |  |
+| [Mellow My Man](https://open.spotify.com/track/0bzFaHiymbvjmIDKf6XAbS) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu) | [Do You Want More?!!!??!](https://open.spotify.com/album/3fr53Fq6cElPicmpKz9w1g) | 4:41 | 2025-11-18 |  |
 | [Memo](https://open.spotify.com/track/7tk5tOCj84jine8kKJkPYs) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Slime Season 3](https://open.spotify.com/album/2z4c8M8aVzl7CTobIp36KF) | 3:15 | 2024-07-09 | 2025-05-21 |
 | [Metro Spider \(with Young Thug\)](https://open.spotify.com/track/2VtgzixdB967bHDNu5A1nh) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 2:54 | 2024-05-02 | 2024-11-06 |
 | [mewtwo](https://open.spotify.com/track/6xZYGIixR3zhhOHwu7UEMY) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos \(Deluxe\)](https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL) | 2:08 | 2024-07-05 | 2024-11-06 |
@@ -971,6 +973,7 @@
 | [SoHo Freestyle](https://open.spotify.com/track/4fs8ivWpMFLziD20LglPmZ) | [Pivot Gang](https://open.spotify.com/artist/0kDgxQlVYVecF6MCNWJTYE), [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Two Piece Tour Pack](https://open.spotify.com/album/7ACNmhUl7NLo0Gn4WPaE4A) | 3:34 | 2024-05-01 | 2024-11-06 |
 | [Solitaires \(feat\. Travis Scott\)](https://open.spotify.com/track/4kfeRwpq5KUaqTkgi4TbDF) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [High Off Life](https://open.spotify.com/album/4bNPOFOzxGhF5jhfIK6lit) | 3:25 | 2024-12-30 | 2025-05-21 |
 | [Some Time Alone, Alone](https://open.spotify.com/track/6G7rDUqMhnmXFVwRRQ7azu) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Melody's Echo Chamber](https://open.spotify.com/album/2FKVlcqyS9nzKEHrOzbuwb) | 3:46 | 2025-07-01 |  |
+| [Sometimes](https://open.spotify.com/track/5RnLNOSL1nkBzil8mVM10o) | [The Brand New Heavies](https://open.spotify.com/artist/3DEveX6KVzhPDqq2VRuN14) | [Shelter](https://open.spotify.com/album/0c9Ixyl94wsxMiW1k4Obh9) | 4:46 | 2025-11-18 |  |
 | [Song 32](https://open.spotify.com/track/0EgmhYPgButfoBvtnidyR0) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Song 32](https://open.spotify.com/album/3WyY9vsAcsEngOhfOl3aby) | 2:42 | 2022-09-20 | 2023-05-09 |
 | [Sorry 4 The Wait](https://open.spotify.com/track/524yEMK9wdiqPMqkE9kd9H) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Sorry 4 The Wait](https://open.spotify.com/album/6MVsBi4m5eAzfjb6C3JKwp) | 2:36 | 2025-04-24 |  |
 | [Sorry Bout That](https://open.spotify.com/track/4VHkjPgAis9JNfc1URn7zZ) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [4L](https://open.spotify.com/album/05QOSu1AEcQxM5jvZFuann) | 3:06 | 2021-10-08 | 2024-11-06 |

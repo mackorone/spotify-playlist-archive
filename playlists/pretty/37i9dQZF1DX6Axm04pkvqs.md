@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Axm04pkvqs.md) - [plain]
 
 > When my mouth has no words, let my spirit sing
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,706 likes - 80 songs - 11 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,769 likes - 80 songs - 11 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Axm04pkvqs.md) - [plain]
 | 50 | [When God Walks In](https://open.spotify.com/track/38NkJdwVwSzezWnenSYR4A) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Glory Experience \(Songs of Zion\)](https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT) | 12:58 |
 | 51 | [House of Prayer \(feat\. Jayna Cullens\)](https://open.spotify.com/track/386uNqsMRVtiKDulq2P16T) | [Eddie James](https://open.spotify.com/artist/69LsPQEcmyMBXbdMKWT6Yq), [Jayna Cullens](https://open.spotify.com/artist/49UDs5Mtq1PYQeL5n9bqL0) | [Shift \(Awakening\)](https://open.spotify.com/album/4eBjA7nICogcfibf6xuGAz) | 7:59 |
 | 52 | [Agbara Olorun po](https://open.spotify.com/track/6oxBpuu7Ac3xjtrZgvSfyy) | [Clement whyte](https://open.spotify.com/artist/4UuoX5tY9U0Qf9dO66EStT) | [Agbara Olorun po](https://open.spotify.com/album/7ruTymGcJDzgnveU9ZOAsA) | 5:01 |
-| 53 | [Adua Ke \(Cover\)](https://open.spotify.com/track/19m3PKmrtknv7pBQVySo5j) | [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI), [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS) | [Adua Ke \(Cover\)](https://open.spotify.com/album/4ERejtj6c9RXkAZxExOWif) | 5:00 |
-| 54 | [We Bless You Lord \(Chant\)](https://open.spotify.com/track/2JekJNFUyLBsuqZPtSO0YJ) | [Adura Ojofeitimi](https://open.spotify.com/artist/135hnlf8uzG00qITSjtM2V) | [We Bless You Lord \(Chant\)](https://open.spotify.com/album/1W9K0AwSqAk22B63mvHZcC) | 8:14 |
+| 53 | [We Bless You Lord \(Chant\)](https://open.spotify.com/track/2JekJNFUyLBsuqZPtSO0YJ) | [Adura Ojofeitimi](https://open.spotify.com/artist/135hnlf8uzG00qITSjtM2V) | [We Bless You Lord \(Chant\)](https://open.spotify.com/album/1W9K0AwSqAk22B63mvHZcC) | 8:14 |
+| 54 | [Adua Ke \(Cover\)](https://open.spotify.com/track/19m3PKmrtknv7pBQVySo5j) | [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI), [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS) | [Adua Ke \(Cover\)](https://open.spotify.com/album/4ERejtj6c9RXkAZxExOWif) | 5:00 |
 | 55 | [Gratitude](https://open.spotify.com/track/6FOtEedC7uCwri090WzvV0) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Truth in Sounds](https://open.spotify.com/album/0wQ2rB1CLrUZlsYROvBDyq) | 16:37 |
 | 56 | [Revival Revival](https://open.spotify.com/track/7eUF82gjc4HpJM80aI6Rp8) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH), [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe), [121 Selah](https://open.spotify.com/artist/0FjCYT4l6k77uJhK7arnh5) | [We Are Fire](https://open.spotify.com/album/1MBjBNMOTSu2ikfJlt3SIY) | 6:38 |
 | 57 | [Flaunt Your Fire \(Holy Ghost\)](https://open.spotify.com/track/2zwltlr42APbCR1rnAsoOU) | [Praiz Singz](https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h) | [Flaunt Your Fire \(Holy Ghost\)](https://open.spotify.com/album/754CwsqnhdY5y1EZKQqKPd) | 7:10 |

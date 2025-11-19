@@ -1,6 +1,6 @@
 {
   "description": "Classic anthems from a classic era. Cover: DJ EZ at Drumsheds",
-  "num_followers": 612143,
+  "num_followers": 612220,
   "original_name": "UK Garage Classics",
   "owner": {
     "name": "Spotify",
@@ -327,6 +327,26 @@
     {
       "added_at": "2024-10-06 08:09:55",
       "album": {
+        "name": "I Refuse: Collected, Vol.1 (Remixes)",
+        "url": "https://open.spotify.com/album/6AsGgCPli9nNHqsbtgM1v4"
+      },
+      "artists": [
+        {
+          "name": "Somore",
+          "url": "https://open.spotify.com/artist/1erEuKt8YFKmHz3qC4LViw"
+        },
+        {
+          "name": "Damon Trueitt",
+          "url": "https://open.spotify.com/artist/00TSU8ZyeaRjUvvCOwbJey"
+        }
+      ],
+      "duration_ms": 207626,
+      "name": "I Refuse (What You Want) - Industry Standard Radio Mix",
+      "url": "https://open.spotify.com/track/6X00moMegr2nwytMZbiD5P"
+    },
+    {
+      "added_at": "2024-10-06 08:09:55",
+      "album": {
         "name": "Ain't No Stoppin Us (Oracles Remix)",
         "url": "https://open.spotify.com/album/2Yay81iM1lJlNAwtxQO9EC"
       },
@@ -347,26 +367,6 @@
       "duration_ms": 342906,
       "name": "Ain't No Stoppin Us - Oracles Mix",
       "url": "https://open.spotify.com/track/4YwaWXAmeB2PpDQWTLlSvR"
-    },
-    {
-      "added_at": "2024-10-06 08:09:55",
-      "album": {
-        "name": "I Refuse: Collected, Vol.1 (Remixes)",
-        "url": "https://open.spotify.com/album/6AsGgCPli9nNHqsbtgM1v4"
-      },
-      "artists": [
-        {
-          "name": "Somore",
-          "url": "https://open.spotify.com/artist/1erEuKt8YFKmHz3qC4LViw"
-        },
-        {
-          "name": "Damon Trueitt",
-          "url": "https://open.spotify.com/artist/00TSU8ZyeaRjUvvCOwbJey"
-        }
-      ],
-      "duration_ms": 207626,
-      "name": "I Refuse (What You Want) - Industry Standard Radio Mix",
-      "url": "https://open.spotify.com/track/6X00moMegr2nwytMZbiD5P"
     },
     {
       "added_at": "2024-10-06 08:09:55",
@@ -427,30 +427,6 @@
     {
       "added_at": "2024-10-06 08:09:55",
       "album": {
-        "name": "Masterblaster 2000",
-        "url": "https://open.spotify.com/album/54DrfxFAuA9fdGus2bMWBu"
-      },
-      "artists": [
-        {
-          "name": "DJ Luck & MC Neat",
-          "url": "https://open.spotify.com/artist/4MflsXABg2VC9Powgd7JCF"
-        },
-        {
-          "name": "J.J",
-          "url": "https://open.spotify.com/artist/4XEZZV3z4TlU5XmXPfKbss"
-        },
-        {
-          "name": "Oracles",
-          "url": "https://open.spotify.com/artist/782ZTSDrjaLcfR9AbmRvxb"
-        }
-      ],
-      "duration_ms": 332746,
-      "name": "Masterblaster 2000 - Oracles Remix",
-      "url": "https://open.spotify.com/track/79QD38Dz9HaIHqQM9t7Wth"
-    },
-    {
-      "added_at": "2024-10-06 08:09:55",
-      "album": {
         "name": "Execute",
         "url": "https://open.spotify.com/album/6FZCuZTkHljeaz5kli8WC8"
       },
@@ -475,6 +451,30 @@
       "duration_ms": 362373,
       "name": "No Good 4 Me (feat. Megaman, Romeo and Lisa Maffia)",
       "url": "https://open.spotify.com/track/7oysiJ2yYjVYzrGSmIEzME"
+    },
+    {
+      "added_at": "2024-10-06 08:09:55",
+      "album": {
+        "name": "Masterblaster 2000",
+        "url": "https://open.spotify.com/album/54DrfxFAuA9fdGus2bMWBu"
+      },
+      "artists": [
+        {
+          "name": "DJ Luck & MC Neat",
+          "url": "https://open.spotify.com/artist/4MflsXABg2VC9Powgd7JCF"
+        },
+        {
+          "name": "J.J",
+          "url": "https://open.spotify.com/artist/4XEZZV3z4TlU5XmXPfKbss"
+        },
+        {
+          "name": "Oracles",
+          "url": "https://open.spotify.com/artist/782ZTSDrjaLcfR9AbmRvxb"
+        }
+      ],
+      "duration_ms": 332746,
+      "name": "Masterblaster 2000 - Oracles Remix",
+      "url": "https://open.spotify.com/track/79QD38Dz9HaIHqQM9t7Wth"
     },
     {
       "added_at": "2024-10-06 08:09:55",

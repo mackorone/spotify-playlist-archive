@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 
 > The biggest party hits of the 1950s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,958 likes - 135 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,008 likes - 135 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 | 26 | [Splish Splash](https://open.spotify.com/track/40fD7ct05FvQHLdQTgJelG) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [Bobby Darin](https://open.spotify.com/album/5VNyvQC8KIM2jnahEhN4nB) | 2:11 |
 | 27 | [That'll Be The Day](https://open.spotify.com/track/50RwvvEKX5Q7AZt8FTAwIF) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D) | [That'll Be The Day](https://open.spotify.com/album/0KHc3cD7pAOAieo9lPWXkY) | 2:30 |
 | 28 | [Mess Around](https://open.spotify.com/track/7DJsL4jyXA39GDiHFQYQ0t) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Ray Charles \(aka: Hallelujah, I Love Her So\)](https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0) | 2:40 |
-| 29 | [Get Rhythm](https://open.spotify.com/track/2aq1oBnP7Q176mZw5P6eUk) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [The Tennessee Two](https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt) | [Greatest](https://open.spotify.com/album/1tfvwgjJHU9zYWy4qIHZsV) | 2:12 |
-| 30 | [Come Go With Me](https://open.spotify.com/track/4IYyGIbMS5ZkxDXGfPIrXr) | [The Del\-Vikings](https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5) | [Come Go With Me: The Best Of The Del\-Vikings](https://open.spotify.com/album/35hzrbmJqylZoIRcatUfYx) | 2:42 |
+| 29 | [Come Go With Me](https://open.spotify.com/track/4IYyGIbMS5ZkxDXGfPIrXr) | [The Del\-Vikings](https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5) | [Come Go With Me: The Best Of The Del\-Vikings](https://open.spotify.com/album/35hzrbmJqylZoIRcatUfYx) | 2:42 |
+| 30 | [Get Rhythm](https://open.spotify.com/track/2aq1oBnP7Q176mZw5P6eUk) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [The Tennessee Two](https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt) | [Greatest](https://open.spotify.com/album/1tfvwgjJHU9zYWy4qIHZsV) | 2:12 |
 | 31 | [Dream Lover](https://open.spotify.com/track/1KLpjQFgubHI3GkAICCNH3) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [The Ultimate Bobby Darin](https://open.spotify.com/album/65okcRJHUVUrFiDG3I1Sz8) | 2:30 |
 | 32 | [Ain't That A Shame](https://open.spotify.com/track/4ZfQwNx3FlCN07cnUvekh3) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [Fats Domino Swings](https://open.spotify.com/album/3vte37u7rIAmMZJwNyJSjf) | 2:32 |
 | 33 | [Heartbreak Hotel](https://open.spotify.com/track/6xNwKNYZcvgV3XTIwsgNio) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Golden Records](https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek) | 2:07 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 | 85 | [Bring Your Love Back Home](https://open.spotify.com/track/6lvzBdCaRm02bNKjpUTZTV) | [Eddie Snow](https://open.spotify.com/artist/1MskZigKUNqWI4ECsbfudt) | [Ain't That Right / Bring Your Love Back Home](https://open.spotify.com/album/6o93gieTy9n75mc0Mhgtw7) | 3:14 |
 | 86 | [Bear Cat](https://open.spotify.com/track/3gAYM7PfYIfLvpMTFXfbAM) | [Rufus Thomas](https://open.spotify.com/artist/3iRSHS3b4NUdjNbnw3Opg8) | [Bear Cat / Walkin' in the Rain](https://open.spotify.com/album/6gLOb8YSLT611wsgLZ9E7X) | 2:50 |
 | 87 | [Slow Down](https://open.spotify.com/track/2s6ZdkCvWQAI5OyTaCVDyT) | [Jack Earls](https://open.spotify.com/artist/5oqGu2tDspg5xRwVqqbMpY), [The Jimbos](https://open.spotify.com/artist/2tZSmD1d3c1iYRRDOVhh8F) | [Slow Down / A Fool for Loving You](https://open.spotify.com/album/16tQIxNa9s3cmCjrcFUXgx) | 2:17 |
-| 88 | [Shoobie Oobie](https://open.spotify.com/track/3jImyuUHe6bm8ACMIzuUud) | [Rosco Gordon](https://open.spotify.com/artist/35SkZMI5CPiCude4FW45O9) | [Shoobie Oobie / Cheese and Crackers](https://open.spotify.com/album/2QPUN37KYyUzOUACYg4qrX) | 2:54 |
-| 89 | [Drinkin' Wine Spodee\-O\-Dee](https://open.spotify.com/track/591iSuSiJcSIH1ureumYyk) | [Malcolm Yelvington](https://open.spotify.com/artist/3GsQo4yOYOv50rossGAn4v) | [Drinkin' Wine Spodee\-O\-Dee / Just Rolling Along](https://open.spotify.com/album/6nC3m8DahB7IQpmzfEy3xK) | 2:48 |
+| 88 | [Drinkin' Wine Spodee\-O\-Dee](https://open.spotify.com/track/591iSuSiJcSIH1ureumYyk) | [Malcolm Yelvington](https://open.spotify.com/artist/3GsQo4yOYOv50rossGAn4v) | [Drinkin' Wine Spodee\-O\-Dee / Just Rolling Along](https://open.spotify.com/album/6nC3m8DahB7IQpmzfEy3xK) | 2:48 |
+| 89 | [Shoobie Oobie](https://open.spotify.com/track/3jImyuUHe6bm8ACMIzuUud) | [Rosco Gordon](https://open.spotify.com/artist/35SkZMI5CPiCude4FW45O9) | [Shoobie Oobie / Cheese and Crackers](https://open.spotify.com/album/2QPUN37KYyUzOUACYg4qrX) | 2:54 |
 | 90 | [I Need a Man](https://open.spotify.com/track/55TGQizDZ60NgydRBPUws3) | [Barbara Pittman](https://open.spotify.com/artist/6YxcziBo2zwsKgwdgdkve2) | [I Need a Man / No Matter Who's to Blame](https://open.spotify.com/album/0FNgqfF6DWJYYikq77x9MD) | 2:52 |
 | 91 | [Ten Cats Down](https://open.spotify.com/track/1xY56tgHwm7GfiafKPzB42) | [The Miller Sisters](https://open.spotify.com/artist/5mDm0RXoaz7swHBozhOguP) | [Ten Cats Down / Finders Keepers](https://open.spotify.com/album/3DgD0YDs9h067YI7qtzHZK) | 2:17 |
 | 92 | [Little Fine Healthy Thing](https://open.spotify.com/track/2eTOZn2Mn4ZswpMsbrihhm) | [Billy "The Kid" Emerson](https://open.spotify.com/artist/07mlkNoHj4X0n11DmGBptw) | [Something for Nothing / Little Fine Healthy Thing](https://open.spotify.com/album/681gmpIrqPEGuvIKwJ0CRR) | 2:33 |
@@ -141,7 +141,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 | 131 | [Red Hot \- Original](https://open.spotify.com/track/5nfPJteJ9PWGmD3j6iPH7s) | [Billy Lee Riley](https://open.spotify.com/artist/0a85EJEd3a9RGM9ops09rZ) | [Essential Sun Rockabillies Vol.1](https://open.spotify.com/album/3olS3X2vcYccsIQMfJvXHJ) | 2:33 |
 | 132 | [At The Hop](https://open.spotify.com/track/6wcKmXUzB6SExvGbleZkeI) | [Danny & The Juniors](https://open.spotify.com/artist/6Ahm6X9wSKXitavOvu0XzY) | [At The Hop](https://open.spotify.com/album/14OW44PB5YijRkKJtwEE58) | 2:29 |
 | 133 | [Rock And Roll Music](https://open.spotify.com/track/0VDUNaQP6tcM5ZzfcgNLmL) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [One Dozen Berry's](https://open.spotify.com/album/12RwNyD9rsXSSasgQIAli8) | 2:31 |
-| 134 | [Blue Suede Shoes \- Remastered](https://open.spotify.com/track/3htVOUt4zoFthJhqtJMGTo) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [The Essential Elvis Presley](https://open.spotify.com/album/3X3rFfVKCW58sKMO0UXkwO) | 1:59 |
+| 134 | [Blue Suede Shoes \- Remastered](https://open.spotify.com/track/3htVOUt4zoFthJhqtJMGTo) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [The Essential Elvis Presley](https://open.spotify.com/album/3X3rFfVKCW58sKMO0UXkwO) | 2:01 |
 | 135 | [Keep A Knockin](https://open.spotify.com/track/5n5h1rwx8arEaRureuyNeS) | [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [The Essential Little Richard](https://open.spotify.com/album/7jstlbnGMRZ2esWVqVGfoH) | 2:17 |
 
 Snapshot ID: `AAAAANzvFmO/2xB763HFHPMlJfjDqjo1`

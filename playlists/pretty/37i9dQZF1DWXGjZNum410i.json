@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Disfruta de las canciones pop con Juan Carlos Bodoque y Tulio Trivi\u00f1o!",
-  "num_followers": 245365,
+  "num_followers": 245360,
   "original_name": "Pop para Ni\u00f1os",
   "owner": {
     "name": "Spotify",
@@ -511,22 +511,6 @@
     {
       "added_at": "2025-10-10 06:00:38",
       "album": {
-        "name": "La Bachata",
-        "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 162637,
-      "name": "La Bachata",
-      "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
-    },
-    {
-      "added_at": "2025-10-10 06:00:38",
-      "album": {
         "name": "Disco",
         "url": "https://open.spotify.com/album/46LE2xR4e92aVvo1QlUiS3"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 152760,
       "name": "Disco",
       "url": "https://open.spotify.com/track/2Lumsra3kuU61wXkEKzKaK"
+    },
+    {
+      "added_at": "2025-10-10 06:00:38",
+      "album": {
+        "name": "La Bachata",
+        "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 162637,
+      "name": "La Bachata",
+      "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
     },
     {
       "added_at": "2025-10-10 06:00:38",

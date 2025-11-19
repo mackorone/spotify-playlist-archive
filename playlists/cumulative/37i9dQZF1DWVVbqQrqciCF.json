@@ -1133,6 +1133,24 @@
     },
     {
       "album": {
+        "name": "\u4f1a\u5fc3\u306e\u4e00\u6483",
+        "url": "https://open.spotify.com/album/19d1sNi8HJW9nb2W5IAKpG"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239533,
+      "name": "\u4f1a\u5fc3\u306e\u4e00\u6483",
+      "url": "https://open.spotify.com/track/0yXPq30NX877h69S8vFF39"
+    },
+    {
+      "album": {
         "name": "\u512a\u3057\u3044\u5f57\u661f",
         "url": "https://open.spotify.com/album/2JTvRXbEc1JGPrlKC435Jf"
       },

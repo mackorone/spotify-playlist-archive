@@ -1,12 +1,12 @@
 {
   "description": "This is Latto. The essential tracks, all in one playlist.",
-  "num_followers": 38522,
+  "num_followers": 38534,
   "original_name": "This Is Latto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRkUAAAAAAD9N7F3jcmU/+/fVS+cRHvs",
+  "snapshot_id": "aRplgAAAAACLt5QmFoeezym1NndocJOs",
   "tracks": [
     {
       "added_at": null,
@@ -31,22 +31,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somebody",
-        "url": "https://open.spotify.com/album/39jgucp2ZAo3pYpG3AcUY1"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 202426,
-      "name": "Somebody",
-      "url": "https://open.spotify.com/track/1GpslorH7Gi64x8uodyvfO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Finally Over It",
         "url": "https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx"
       },
@@ -67,6 +51,22 @@
       "duration_ms": 230646,
       "name": "Go Girl (with Latto & Doja Cat)",
       "url": "https://open.spotify.com/track/7eCAw2VS0UhbsiSItwWdvl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Somebody",
+        "url": "https://open.spotify.com/album/39jgucp2ZAo3pYpG3AcUY1"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 202426,
+      "name": "Somebody",
+      "url": "https://open.spotify.com/track/1GpslorH7Gi64x8uodyvfO"
     },
     {
       "added_at": null,
@@ -883,26 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mind Yo Business (Feat. Latto)",
-        "url": "https://open.spotify.com/album/0NCupn1XlJsAHmUcCCGLQk"
-      },
-      "artists": [
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 122266,
-      "name": "Mind Yo Business (Feat. Latto)",
-      "url": "https://open.spotify.com/track/5hR1PFUnx0uRkqYsW4Z4ja"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "This Right Here (feat. Latto)",
         "url": "https://open.spotify.com/album/6p7eDmgasSQNXOkCk2OJ5G"
       },
@@ -947,26 +927,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Too Fast (Pull Over) (with Anderson .Paak & Latto)",
-        "url": "https://open.spotify.com/album/1KNyxPSXQoZJ2KMQySCUUo"
+        "name": "Mind Yo Business (Feat. Latto)",
+        "url": "https://open.spotify.com/album/0NCupn1XlJsAHmUcCCGLQk"
       },
       "artists": [
         {
-          "name": "Jay Rock",
-          "url": "https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
         },
         {
           "name": "Latto",
           "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
         }
       ],
-      "duration_ms": 226542,
-      "name": "Too Fast (Pull Over) (with Anderson .Paak & Latto)",
-      "url": "https://open.spotify.com/track/6vz3Fyhj6smbuYuaIZHksu"
+      "duration_ms": 122266,
+      "name": "Mind Yo Business (Feat. Latto)",
+      "url": "https://open.spotify.com/track/5hR1PFUnx0uRkqYsW4Z4ja"
     },
     {
       "added_at": null,
@@ -991,6 +967,30 @@
       "duration_ms": 145655,
       "name": "FTCU (feat. GloRilla & Gangsta Boo)",
       "url": "https://open.spotify.com/track/4lxTmHPgoRWwM9QisWobJL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Too Fast (Pull Over) (with Anderson .Paak & Latto)",
+        "url": "https://open.spotify.com/album/1KNyxPSXQoZJ2KMQySCUUo"
+      },
+      "artists": [
+        {
+          "name": "Jay Rock",
+          "url": "https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 226542,
+      "name": "Too Fast (Pull Over) (with Anderson .Paak & Latto)",
+      "url": "https://open.spotify.com/track/6vz3Fyhj6smbuYuaIZHksu"
     },
     {
       "added_at": null,

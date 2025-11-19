@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qgZOg.md) - [plain]
 
 > This is Skillet\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 316,494 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 316,565 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,13 +35,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qgZOg.md) - [plain]
 | 25 | [Showtime](https://open.spotify.com/track/0LX82kX5rUJ1PTOKybET6m) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Revolution](https://open.spotify.com/album/10ZHxI5PePZZqVwtSw4RNq) | 3:33 |
 | 26 | [Stars](https://open.spotify.com/track/6VMT3SzIMbNoR5lsUsniQY) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Unleashed](https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO) | 3:45 |
 | 27 | [Never Surrender](https://open.spotify.com/track/4MoVvVkDGFNtQPHciZgG3w) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Awake](https://open.spotify.com/album/0RySAmM6oDPGSE03X3dzi1) | 3:30 |
-| 28 | [The Last Night](https://open.spotify.com/track/37CMjUAU8fL6YqZVTplZqZ) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Comatose](https://open.spotify.com/album/16ElbnOtY2UgGaPKoLfst4) | 3:30 |
+| 28 | [Victorious](https://open.spotify.com/track/4emQrNiz37OidY7SoXXQls) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Victorious](https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ) | 4:05 |
 | 29 | [Unpopular](https://open.spotify.com/track/74PfOfWFgxpUBBucEiWWNx) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Revolution](https://open.spotify.com/album/10ZHxI5PePZZqVwtSw4RNq) | 3:05 |
-| 30 | [Victorious](https://open.spotify.com/track/4emQrNiz37OidY7SoXXQls) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Victorious](https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ) | 4:05 |
+| 30 | [The Last Night](https://open.spotify.com/track/37CMjUAU8fL6YqZVTplZqZ) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Comatose](https://open.spotify.com/album/16ElbnOtY2UgGaPKoLfst4) | 3:30 |
 | 31 | [It's Not Me, It's You](https://open.spotify.com/track/1swaR8iEKe5qyCoyCWjyvP) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Awake](https://open.spotify.com/album/0RySAmM6oDPGSE03X3dzi1) | 3:24 |
-| 32 | [Those Nights](https://open.spotify.com/track/1ZWEsoqJSrtZA1qjlG02Hp) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Comatose](https://open.spotify.com/album/16ElbnOtY2UgGaPKoLfst4) | 3:46 |
+| 32 | [Anchor](https://open.spotify.com/track/6EwnYm73XEibpAPOnTc8li) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Victorious](https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ) | 3:36 |
 | 33 | [Not Afraid](https://open.spotify.com/track/1TnAZhq4cp6K2I4UmHJzZ4) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Revolution](https://open.spotify.com/album/10ZHxI5PePZZqVwtSw4RNq) | 3:13 |
-| 34 | [Anchor](https://open.spotify.com/track/6EwnYm73XEibpAPOnTc8li) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Victorious](https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ) | 3:36 |
+| 34 | [Those Nights](https://open.spotify.com/track/1ZWEsoqJSrtZA1qjlG02Hp) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Comatose](https://open.spotify.com/album/16ElbnOtY2UgGaPKoLfst4) | 3:46 |
 | 35 | [One Day Too Late](https://open.spotify.com/track/6JLnc7pF4WUzQ6BWONpc7j) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Awake](https://open.spotify.com/album/0RySAmM6oDPGSE03X3dzi1) | 3:40 |
 | 36 | [Breaking Free \(feat\. Lacey Sturm\)](https://open.spotify.com/track/3sT99jz232QWq5Q2LEaFJ5) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8), [Lacey Sturm](https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap) | [Unleashed Beyond \(Special Edition\)](https://open.spotify.com/album/2KKPw3uv39fzhiUTS7zw37) | 3:52 |
 | 37 | [All That Matters](https://open.spotify.com/track/4TXAA3r1m7CaGoUnDRBAJ2) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Revolution](https://open.spotify.com/album/10ZHxI5PePZZqVwtSw4RNq) | 3:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qgZOg.md) - [plain]
 | 49 | [Wolf \(feat\. John Cooper of Skillet\)](https://open.spotify.com/track/2TotmUJiZqzDh7OMjD7zGr) | [Saint Asonia](https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8), [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Wolf \(feat\. John Cooper of Skillet\)](https://open.spotify.com/album/6q3tBwBS5uMSeeWD3JRhDZ) | 3:18 |
 | 50 | [Open Wounds](https://open.spotify.com/track/2UfKuGYONPAuopJtpGfZyA) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Collide](https://open.spotify.com/album/77JbhmUqfoId7D2AHKU4zW) | 3:14 |
 
-Snapshot ID: `aRkUAAAAAACteouz4dGnJPlj3kdvtLfj`
+Snapshot ID: `aRplgAAAAADt+pNdrivp0Vcjcr04CW7u`

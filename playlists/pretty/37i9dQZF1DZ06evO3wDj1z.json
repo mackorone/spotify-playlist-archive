@@ -1,12 +1,12 @@
 {
   "description": "This is Sergio Vega \"El Shaka\". The essential tracks, all in one playlist.",
-  "num_followers": 114760,
+  "num_followers": 114797,
   "original_name": "This Is Sergio Vega \"El Shaka\"",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRkUAAAAAAAzUaAT12ZJKzwn1XKH+kH8",
+  "snapshot_id": "aRplgAAAAADKo6wLoBsC9J8+F6R9GgNp",
   "tracks": [
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "30 Anos",
-        "url": "https://open.spotify.com/album/59StiRT1AuVJIaZn2igYWL"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 194403,
-      "name": "Esa Triste Guitarra",
-      "url": "https://open.spotify.com/track/5DLkYGsCuWVoNKDCUBZInU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Gusta Estar Contigo",
         "url": "https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 165053,
       "name": "La Mentada",
       "url": "https://open.spotify.com/track/1pnuFhrxM4mjNvHdvwA7Mc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desde el Cielo",
+        "url": "https://open.spotify.com/album/3NLkn2oW8lkfe6pLbTQiRV"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 164106,
+      "name": "Las Parcelas de Mendoza",
+      "url": "https://open.spotify.com/track/3HR093fTutGwn5EUWne3ZR"
     },
     {
       "added_at": null,
@@ -639,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desde el Cielo",
-        "url": "https://open.spotify.com/album/3NLkn2oW8lkfe6pLbTQiRV"
+        "name": "30 Anos",
+        "url": "https://open.spotify.com/album/59StiRT1AuVJIaZn2igYWL"
       },
       "artists": [
         {
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
         }
       ],
-      "duration_ms": 164106,
-      "name": "Las Parcelas de Mendoza",
-      "url": "https://open.spotify.com/track/3HR093fTutGwn5EUWne3ZR"
+      "duration_ms": 194403,
+      "name": "Esa Triste Guitarra",
+      "url": "https://open.spotify.com/track/5DLkYGsCuWVoNKDCUBZInU"
     },
     {
       "added_at": null,

@@ -175,6 +175,24 @@
     },
     {
       "album": {
+        "name": "Title (Deluxe)",
+        "url": "https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180973,
+      "name": "Bang Dem Sticks",
+      "url": "https://open.spotify.com/track/1aSjgqYklzgdzOXSXLrWSn"
+    },
+    {
+      "album": {
         "name": "Believe (Deluxe Edition)",
         "url": "https://open.spotify.com/album/70f70xLCpH7wHaVvB2oZT9"
       },

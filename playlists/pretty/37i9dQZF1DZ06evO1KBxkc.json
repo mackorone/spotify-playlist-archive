@@ -1,12 +1,12 @@
 {
   "description": "This is A Boogie Wit da Hoodie. The essential tracks, all in one playlist.",
-  "num_followers": 203034,
+  "num_followers": 203026,
   "original_name": "This Is A Boogie Wit da Hoodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRkUAAAAAAB/6qKVaTdlbPyJS/BLA4hi",
+  "snapshot_id": "aRplgAAAAAAOz4flRZSxSvQn4IQ48E67",
   "tracks": [
     {
       "added_at": null,
@@ -843,22 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "B4 AVA",
-        "url": "https://open.spotify.com/album/1VxVQAgekwkFo8yoXvFZ8o"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 202133,
-      "name": "Glasses",
-      "url": "https://open.spotify.com/track/3CUqjIsPPuncCJFIydwq5a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Artist 2.0",
         "url": "https://open.spotify.com/album/0cZAE6guibfcYmTZD7hiae"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 175106,
       "name": "DTB 4 Life",
       "url": "https://open.spotify.com/track/4CXSzoyTD2MmedFArsSIUp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "B4 AVA",
+        "url": "https://open.spotify.com/album/1VxVQAgekwkFo8yoXvFZ8o"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 202133,
+      "name": "Glasses",
+      "url": "https://open.spotify.com/track/3CUqjIsPPuncCJFIydwq5a"
     },
     {
       "added_at": null,
@@ -923,26 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Body (feat. Nemzzz) [UK Remix]",
-        "url": "https://open.spotify.com/album/61snpNX6muUxWFyf5kw3nW"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        },
-        {
-          "name": "Nemzzz",
-          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Body (feat. Nemzzz) - UK Remix",
-      "url": "https://open.spotify.com/track/0J0NdLdtshiKqIFSdB2Ipf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Family (feat. Bebe Rexha, Ty Dolla $ign & A Boogie Wit da Hoodie)",
         "url": "https://open.spotify.com/album/1O3wGX19uKgXZZuW7uKb9l"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 158994,
       "name": "Family (feat. Bebe Rexha, Ty Dolla $ign & A Boogie Wit da Hoodie)",
       "url": "https://open.spotify.com/track/0HLhptvI8NozbOHRLNniFz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Body (feat. Nemzzz) [UK Remix]",
+        "url": "https://open.spotify.com/album/61snpNX6muUxWFyf5kw3nW"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Body (feat. Nemzzz) - UK Remix",
+      "url": "https://open.spotify.com/track/0J0NdLdtshiKqIFSdB2Ipf"
     },
     {
       "added_at": null,

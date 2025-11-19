@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXci7j0DJQgGp.md) - [plain]
 
 > The perfect playlist to just sit back and chill out with.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,707,145 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,707,007 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXci7j0DJQgGp.md) - [plain]
 | 68 | [Bed Head \- Acoustic](https://open.spotify.com/track/2d7DuVXlzYByepNPmQSejc) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [Bed Head \(Acoustic\)](https://open.spotify.com/album/51adUeflIsXW7VBLulUd3M) | 4:03 |
 | 69 | [Radio Silence](https://open.spotify.com/track/06kZnASR1tSP8Vb9I5WobH) | [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Radio Silence](https://open.spotify.com/album/7sMuzKOhf0sQFNRVmgvHVe) | 3:42 |
 | 70 | [Way I Go](https://open.spotify.com/track/6v0X2SMVKK9gXHH9y6ilA4) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Way I Go](https://open.spotify.com/album/5YqVZuseoRLBTC5xoYVvFj) | 4:07 |
-| 71 | [Outside the Outside](https://open.spotify.com/track/73lkMzwEOTSJCzvsjJdWBS) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [Far In](https://open.spotify.com/album/6VuufjwylS8CGaUcq3Vs4e) | 5:12 |
-| 72 | [Holocene \[feat\. Weyes Blood\]](https://open.spotify.com/track/0zbc8UgOfYyG96pAWjx3hH) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6), [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Holocene \[feat\. Weyes Blood\]](https://open.spotify.com/album/4sZmMxrfujVWfFtYk6tfXH) | 4:26 |
+| 71 | [Holocene \[feat\. Weyes Blood\]](https://open.spotify.com/track/0zbc8UgOfYyG96pAWjx3hH) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6), [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Holocene \[feat\. Weyes Blood\]](https://open.spotify.com/album/4sZmMxrfujVWfFtYk6tfXH) | 4:26 |
+| 72 | [Outside the Outside](https://open.spotify.com/track/73lkMzwEOTSJCzvsjJdWBS) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [Far In](https://open.spotify.com/album/6VuufjwylS8CGaUcq3Vs4e) | 5:12 |
 | 73 | [Light Blue](https://open.spotify.com/track/1arhLLK6PZNd5g4OupOJyZ) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Valentine](https://open.spotify.com/album/0zNWhYDalgisc4uweLIGZJ) | 2:34 |
 | 74 | [Skin](https://open.spotify.com/track/5WwV3sbkt2F95hVAEs7SgZ) | [August Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Skin](https://open.spotify.com/album/5oeAizWMabulSRyY3mMjEB) | 3:34 |
 | 75 | [Me Before You](https://open.spotify.com/track/0ap1L5LS0igd0zs4erqmT3) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Me Before You](https://open.spotify.com/album/5Vu8Hm0i46IcPP6JNvT0jE) | 3:23 |
@@ -94,12 +94,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXci7j0DJQgGp.md) - [plain]
 | 84 | [I Believe in You](https://open.spotify.com/track/0Ml7rd3x4n1CVqqqWa1OVj) | [more\*](https://open.spotify.com/artist/1PNlt30lRnQITXc9vMnv7i) | [I Believe in You](https://open.spotify.com/album/7r4vwcfdbzyR1L2tHugI6G) | 4:09 |
 | 85 | [South For The Winter \(feat\. Matt Berninger\)](https://open.spotify.com/track/5WD7NduZx58sry7EbodMve) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl), [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [A Southern Gothic](https://open.spotify.com/album/05ZMEHBBxF23Qm0GDclz3n) | 3:15 |
 | 86 | [Grace](https://open.spotify.com/track/6w6rXsCnYcvDcHU6GMq8fZ) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [\(self\-titled\)](https://open.spotify.com/album/2PVuzlWu3Z7Af2y9O2Gppk) | 4:13 |
-| 87 | [Fanfare](https://open.spotify.com/track/2R9xh729jril8QBHZlFJrI) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Fanfare](https://open.spotify.com/album/2ErQw1shqi01uGpZuuThQx) | 4:03 |
-| 88 | [Blindsided](https://open.spotify.com/track/1v8R8ZlnD5brSRkPMSEWjm) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Blindsided](https://open.spotify.com/album/7oRmDTnNW7VXWKXBBMFYNF) | 3:42 |
+| 87 | [Blindsided](https://open.spotify.com/track/1v8R8ZlnD5brSRkPMSEWjm) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Blindsided](https://open.spotify.com/album/7oRmDTnNW7VXWKXBBMFYNF) | 3:42 |
+| 88 | [Fanfare](https://open.spotify.com/track/2R9xh729jril8QBHZlFJrI) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Fanfare](https://open.spotify.com/album/2ErQw1shqi01uGpZuuThQx) | 4:03 |
 | 89 | [My Golden Years](https://open.spotify.com/track/28NQHKpVvnf03kWFWIWMXR) | [The Lemon Twigs](https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T) | [My Golden Years](https://open.spotify.com/album/0cqMtiIhqVJMqjz8Tffsoj) | 3:13 |
 | 90 | [Send My Regards](https://open.spotify.com/track/4k5N65CQWpIFuLmLOfSyRI) | [Anthony da Costa](https://open.spotify.com/artist/59FeKdChfWED6sfb6QQbzj), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Send My Regards](https://open.spotify.com/album/0P0fxg3LcDZuYnMNqSlBmH) | 4:07 |
-| 91 | [Fruits of My Labor](https://open.spotify.com/track/6qWQRmO2za1TpP0tHYLhXw) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Saint Cloud +3](https://open.spotify.com/album/7kIdOOz6yIvEP6Z5RjhrCw) | 5:05 |
-| 92 | [Distant Axis](https://open.spotify.com/track/4ysVx7wS2J8dvk77ON8jVI) | [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [Distant Axis](https://open.spotify.com/album/0sy4l7BHcw0a50DjvvZz0Q) | 4:25 |
+| 91 | [Distant Axis](https://open.spotify.com/track/4ysVx7wS2J8dvk77ON8jVI) | [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [Distant Axis](https://open.spotify.com/album/0sy4l7BHcw0a50DjvvZz0Q) | 4:25 |
+| 92 | [Fruits of My Labor](https://open.spotify.com/track/6qWQRmO2za1TpP0tHYLhXw) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Saint Cloud +3](https://open.spotify.com/album/7kIdOOz6yIvEP6Z5RjhrCw) | 5:05 |
 | 93 | [Fruit](https://open.spotify.com/track/5n3NzdPWuSsRbYEObAdXqr) | [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm) | [Fruit](https://open.spotify.com/album/7sgoUuA9bA0lJYSw1PgbkT) | 3:24 |
 | 94 | [Joy'All](https://open.spotify.com/track/5bzMnlKnmaitjCAaJed3Oj) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Joy'All](https://open.spotify.com/album/2TF6deaYHbiP5xepwFYbd1) | 3:44 |
 | 95 | [Excalibur](https://open.spotify.com/track/4axZspCaHdJgR1E8aeIz0w) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Excalibur / Toy](https://open.spotify.com/album/0cShrlrWOOemhMgkKUOrQR) | 3:25 |

@@ -1,6 +1,6 @@
 {
   "description": "\ud83e\udd1d",
-  "num_followers": 212340,
+  "num_followers": 212330,
   "original_name": "ung, dum & lovende",
   "owner": {
     "name": "Spotify",
@@ -679,6 +679,22 @@
     {
       "added_at": "2025-10-30 23:00:24",
       "album": {
+        "name": "Gettin' Away With It",
+        "url": "https://open.spotify.com/album/09qwD3r5RKCIxjmu4lcWdJ"
+      },
+      "artists": [
+        {
+          "name": "Erin Kinsey",
+          "url": "https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq"
+        }
+      ],
+      "duration_ms": 193133,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/4IVuDp5OaR7XS4ZreqeKlC"
+    },
+    {
+      "added_at": "2025-10-30 23:00:24",
+      "album": {
         "name": "Sunshine Baby",
         "url": "https://open.spotify.com/album/2k7CDnBJQw4sajD2h53o1E"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 179210,
       "name": "Sunshine Baby",
       "url": "https://open.spotify.com/track/7pzsqAe78VUADwaO1rdKBQ"
-    },
-    {
-      "added_at": "2025-10-30 23:00:24",
-      "album": {
-        "name": "Gettin' Away With It",
-        "url": "https://open.spotify.com/album/09qwD3r5RKCIxjmu4lcWdJ"
-      },
-      "artists": [
-        {
-          "name": "Erin Kinsey",
-          "url": "https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq"
-        }
-      ],
-      "duration_ms": 193133,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/4IVuDp5OaR7XS4ZreqeKlC"
     },
     {
       "added_at": "2025-10-30 23:00:24",

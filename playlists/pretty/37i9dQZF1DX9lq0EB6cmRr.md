@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lq0EB6cmRr.md) - [plain]
 
 > Listen hot and new Korean classical & new age  music in here! \(Cover: 임윤찬\(Yunchan Lim\)\) 한국 클래식 음악 핫 & 최신 트랙들을 만나보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,025 likes - 100 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,030 likes - 100 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lq0EB6cmRr.md) - [plain]
 | 95 | [Camellia](https://open.spotify.com/track/777FLvGcK65H7Ljf4K3PNl) | [YOONHAN](https://open.spotify.com/artist/5uJNKjOGqmV02sT1ArP5qb) | [FLOWER](https://open.spotify.com/album/4KJnsMyfh7POyObWxf932i) | 3:52 |
 | 96 | [Love Confession](https://open.spotify.com/track/24X5IqRxbwbz1ucMUWrkTE) | [John Noh](https://open.spotify.com/artist/1tPIuR4bDZafphfZrLXg13) | [Love Confession](https://open.spotify.com/album/6ucfdG0kBvVkHqoOT6A1SE) | 3:57 |
 | 97 | [In Love](https://open.spotify.com/track/5sCjHL8W4IwCIwAegbL1x8) | [Sumi Jo](https://open.spotify.com/artist/2QJJHCdkMmlbff1beZnAz6) | [In Love](https://open.spotify.com/album/6O8SJIDG9wHel9n1yT9AT9) | 2:37 |
-| 98 | [Miracle](https://open.spotify.com/track/5FFk7FVrVS0hNs2vCooaiz) | [Forténa](https://open.spotify.com/artist/3k1X3vt1Oa9c0zqMzYXpF5) | [Miracle](https://open.spotify.com/album/4mkOMlak3QAKhv78p7t676) | 4:06 |
-| 99 | [Love Again](https://open.spotify.com/track/6bM1AM7nvmkpFxUaH3eWk5) | [Paul Kim](https://open.spotify.com/artist/2FRCeQL1u1A7YLxXde0Y1R) | [Love Again](https://open.spotify.com/album/5tJbCZf6eQpp4CANZXG7fQ) | 3:27 |
+| 98 | [Love Again](https://open.spotify.com/track/6bM1AM7nvmkpFxUaH3eWk5) | [Paul Kim](https://open.spotify.com/artist/2FRCeQL1u1A7YLxXde0Y1R) | [Love Again](https://open.spotify.com/album/5tJbCZf6eQpp4CANZXG7fQ) | 3:27 |
+| 99 | [Miracle](https://open.spotify.com/track/5FFk7FVrVS0hNs2vCooaiz) | [Forténa](https://open.spotify.com/artist/3k1X3vt1Oa9c0zqMzYXpF5) | [Miracle](https://open.spotify.com/album/4mkOMlak3QAKhv78p7t676) | 4:06 |
 | 100 | [Il Mare Calmo Della Sera](https://open.spotify.com/track/6dp5kRPh8uLwaPG8WcFLrD) | [KIM HOJOONG](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH) | [PANORAMA](https://open.spotify.com/album/6jh3HKkQqHVBnxJ59AqE0i) | 4:43 |
 
 Snapshot ID: `AAAAAMtSAi4ebqYjP3haxh/psAxnnmo0`

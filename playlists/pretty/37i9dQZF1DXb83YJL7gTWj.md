@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb83YJL7gTWj.md) - [plain]
 
 > Press play and enjoy a relaxing meal\. Easy!
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,871 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,869 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb83YJL7gTWj.md) - [plain]
 | 91 | [Believe](https://open.spotify.com/track/5U8frcz1zLfKDX5sDTpsnV) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Believe](https://open.spotify.com/album/6Q3yJG9z24SwouL3qsZkOm) | 4:12 |
 | 92 | [Somebody \(Acoustic\)](https://open.spotify.com/track/4uY3I4GYC1NfonzhQZuMax) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Somebody \(Acoustic\)](https://open.spotify.com/album/5yj17bTyrxIP9zpBc12WTh) | 2:48 |
 | 93 | [In Bloom](https://open.spotify.com/track/0Nh8WAkD6YlJmFzUiPD0Iq) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [In Bloom](https://open.spotify.com/album/5PVu8HSd5Ig81TaTixT4Wp) | 3:11 |
-| 94 | [Full Circle](https://open.spotify.com/track/1agBQVBW2meTYQjmLdCxbB) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Full Circle](https://open.spotify.com/album/5ajWwglxlTJUUjIXhDg2y8) | 3:19 |
-| 95 | [All I Have To Do Is Dream](https://open.spotify.com/track/747tzQVeqAZFZdEO5SEJ2X) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu), [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [All I Have To Do Is Dream](https://open.spotify.com/album/7qhQ6shTJuhJfz9OGvArKV) | 2:50 |
+| 94 | [All I Have To Do Is Dream](https://open.spotify.com/track/747tzQVeqAZFZdEO5SEJ2X) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu), [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [All I Have To Do Is Dream](https://open.spotify.com/album/7qhQ6shTJuhJfz9OGvArKV) | 2:50 |
+| 95 | [Full Circle](https://open.spotify.com/track/1agBQVBW2meTYQjmLdCxbB) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Full Circle](https://open.spotify.com/album/5ajWwglxlTJUUjIXhDg2y8) | 3:19 |
 | 96 | [Shadows](https://open.spotify.com/track/4uqwjTu6OOTASKwDb1PDtx) | [Talia Rae](https://open.spotify.com/artist/4v6p8rTvDtYbnoegKY3mqr) | [Shadows](https://open.spotify.com/album/0mQFKHQ1KQYQCY46mudsJC) | 3:03 |
 | 97 | [In Real Life](https://open.spotify.com/track/1WF1MdrtmlazEkZT7Rzhve) | [Mandy Moore](https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu) | [In Real Life](https://open.spotify.com/album/58yGjTqTpGCIYqMYcdrzb9) | 3:52 |
 | 98 | [No Expectations](https://open.spotify.com/track/2JI4L5N7qckQcBTjGpa4B6) | [Abby Simone](https://open.spotify.com/artist/1OtlDAlLQBcV1FpHZJNJAN) | [No Expectations](https://open.spotify.com/album/2fgZgqz3lF2s6VInAWqQdQ) | 3:20 |

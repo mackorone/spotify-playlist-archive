@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 
 > アコースティック・メロディーズ。ゆったりとしたアコースティックサウンドでリラックスしませんか？
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,762 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,764 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,15 +68,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 | 58 | [Bloom](https://open.spotify.com/track/1cIXqC75Zx6nwoYOfFyCae) | [LULLANAS](https://open.spotify.com/artist/3b8jXMWK6VSV8FlQ4hbVkd) | [Bloom](https://open.spotify.com/album/5fNY7SfLdlrlLPJB5H7oYY) | 2:53 |
 | 59 | [Los Angeles](https://open.spotify.com/track/0Pe21Qy1cnwZmapx9rzLmN) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Los Angeles / Grandmother](https://open.spotify.com/album/1JL1uKzGz5VGfmguM9owtj) | 3:57 |
 | 60 | [Like Real People Do](https://open.spotify.com/track/7K6LFPfjdnN6QqvGzhvpRO) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) | 3:18 |
-| 61 | [Evangeline](https://open.spotify.com/track/3V4Cr62Dp1bQo5B98k3sDs) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Evangeline](https://open.spotify.com/album/6KvzvU0oOFWLw7yZhV3qse) | 3:26 |
-| 62 | [As It Was](https://open.spotify.com/track/6Cvti10W0AzmzG9D1tpuKp) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [As It Was](https://open.spotify.com/album/10UH2kVhtrXJ60nqlSap2V) | 2:56 |
+| 61 | [As It Was](https://open.spotify.com/track/6Cvti10W0AzmzG9D1tpuKp) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [As It Was](https://open.spotify.com/album/10UH2kVhtrXJ60nqlSap2V) | 2:56 |
+| 62 | [Evangeline](https://open.spotify.com/track/3V4Cr62Dp1bQo5B98k3sDs) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Evangeline](https://open.spotify.com/album/6KvzvU0oOFWLw7yZhV3qse) | 3:26 |
 | 63 | [One Life](https://open.spotify.com/track/5DXKvETa1xppOmd4CDxs9S) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [= \(Tour Edition\)](https://open.spotify.com/album/2CIOGAByaHyjQ1EO55JSzC) | 3:51 |
 | 64 | [花 \- Ballad](https://open.spotify.com/track/4wmioqSrmIUAqqEKnZgvCf) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [花](https://open.spotify.com/album/7DgOPJO8Lk4NUrfAjxtDCR) | 4:07 |
 | 65 | [Get Lucky](https://open.spotify.com/track/3r9exFdDYSr583KHHQ6FOl) | [Bossanova Tribute](https://open.spotify.com/artist/7Cnj4EbIbTSXZFsWuzyEic) | [Get Lucky](https://open.spotify.com/album/0oNss01Xphq9wWwOpiLkYQ) | 3:51 |
 | 66 | [Think I'm Gonna Love You](https://open.spotify.com/track/6BEP2k75mE8u8gHdvxV3mn) | [Michal Leah](https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb), [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj) | [Think I'm Gonna Love You](https://open.spotify.com/album/0kR1xeEz90V7N6w6R8RxN7) | 2:44 |
 | 67 | [晩餐歌 \(弾き語りver\) \- Bansanka \(Acoustic ver\)](https://open.spotify.com/track/1tS8mrZW46pZCvAH3YKVZk) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [晩餐歌 \(弾き語りver\) \- Bansanka \(Acoustic ver\)](https://open.spotify.com/album/584MY8PaexqwpscL7MTKD7) | 3:49 |
-| 68 | [I Know \(A Little\)](https://open.spotify.com/track/4sRvKhOMQ5F1dxCxMuaNbU) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [I Know \(A Little\)](https://open.spotify.com/album/2PkcMhoNwT8uZ46n6Frx2E) | 3:40 |
-| 69 | [Hola](https://open.spotify.com/track/2nHh7scNhJmTdVqEFPJFbj) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Hola](https://open.spotify.com/album/71s7XKGq4QBc5h2Axy3i7t) | 3:14 |
+| 68 | [Hola](https://open.spotify.com/track/2nHh7scNhJmTdVqEFPJFbj) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Hola](https://open.spotify.com/album/71s7XKGq4QBc5h2Axy3i7t) | 3:14 |
+| 69 | [I Know \(A Little\)](https://open.spotify.com/track/4sRvKhOMQ5F1dxCxMuaNbU) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [I Know \(A Little\)](https://open.spotify.com/album/2PkcMhoNwT8uZ46n6Frx2E) | 3:40 |
 | 70 | [Simply the Best \(From "Schitt's Creek"\)](https://open.spotify.com/track/4kcnySwaXAKatz4c5U8MSI) | [Noah Reid](https://open.spotify.com/artist/0h3ltaoCYAfisEeddUYDZT) | [Simply the Best \(From "Schitt's Creek"\)](https://open.spotify.com/album/3fXVr1gH016lXMwp2skLDu) | 2:57 |
 | 71 | [Something Stupid](https://open.spotify.com/track/3yHFw2lWQRLUms1Ai3SBIS) | [Michal Leah](https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb) | [Something Stupid](https://open.spotify.com/album/67CNEX0WcDIDihhdoQJwax) | 2:20 |
 | 72 | [rain](https://open.spotify.com/track/3X7bED3gYbZlSPDWOFphnp) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rain](https://open.spotify.com/album/2yxznO5r7m2ut3HjKvgyNA) | 4:14 |

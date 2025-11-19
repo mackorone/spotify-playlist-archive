@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 
 > Appreciate the many miracles around you with these songs of worship.
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,172 likes - 75 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,201 likes - 75 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 | 17 | [Another One \(feat\. Chris Brown\)](https://open.spotify.com/track/1ks04dUr7tjZJUbT89MoJD) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw) | [Another One \(feat\. Chris Brown\)](https://open.spotify.com/album/3NfyzXp4dCBmfkc8PVECRE) | 6:32 |
 | 18 | [Throne Room](https://open.spotify.com/track/02X93AUKXP7FPJBPckqgGu) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [On My Side](https://open.spotify.com/album/5CAfJkZS88sq08EZC62k5W) | 4:44 |
 | 19 | [Sails](https://open.spotify.com/track/5IvlWYwqxT4HiJMUOyhXOV) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW), [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [Pat Barrett](https://open.spotify.com/album/0aN0xAIaYHQDj63QrgvJJ5) | 5:23 |
-| 20 | [Heaven Is Where You Are](https://open.spotify.com/track/4OtfBQ2sHDdcag87TN1bb7) | [Erik Nieder](https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh) | [Heaven Is Where You Are](https://open.spotify.com/album/2HwC7uEfppbjefeQByqkhl) | 3:18 |
-| 21 | [Worship Through It](https://open.spotify.com/track/0WE0lN2uFCg4ojyO2ryq9I) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw) | [Worship Through It](https://open.spotify.com/album/20n1fFSb2Wrqs6pjwqKZEg) | 3:40 |
+| 20 | [Worship Through It](https://open.spotify.com/track/0WE0lN2uFCg4ojyO2ryq9I) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw) | [Worship Through It](https://open.spotify.com/album/20n1fFSb2Wrqs6pjwqKZEg) | 3:40 |
+| 21 | [Heaven Is Where You Are](https://open.spotify.com/track/4OtfBQ2sHDdcag87TN1bb7) | [Erik Nieder](https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh) | [Heaven Is Where You Are](https://open.spotify.com/album/2HwC7uEfppbjefeQByqkhl) | 3:18 |
 | 22 | [Nothing Without You](https://open.spotify.com/track/5CgLKRSUpqddLIFQHgoby1) | [Will Reagan](https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP), [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo) | [Tell All My Friends](https://open.spotify.com/album/0FCfSIukAiBXKLYFNugmIF) | 4:42 |
 | 23 | [King of Glory \- Live](https://open.spotify.com/track/5JtEowhVthCH9oNtnjZl93) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Believe For It](https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor) | 10:35 |
 | 24 | [Fearless \- Live](https://open.spotify.com/track/5rp9r3rFr45bPTsgi18tQB) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Fearless / Fill Up The Sky \(Live\)](https://open.spotify.com/album/0FJOaqUeh18LeJMqFx9k1A) | 4:40 |

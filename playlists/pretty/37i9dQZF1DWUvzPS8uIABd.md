@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 
 > Tämän hetken kovimmat suomihitit\. Kannessa ABREU.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,787 likes - 60 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,790 likes - 60 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 | 4 | [Rakkauteen \(Vain elämää kausi 16\)](https://open.spotify.com/track/5TeqjpMEE4YAgo1NtlCje9) | [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh) | [Rakkauteen \(Vain elämää kausi 16\)](https://open.spotify.com/album/7FUgrkjZ2S7YYeXGvaFlsn) | 3:15 |
 | 5 | [Mä oon se tyttö](https://open.spotify.com/track/1yPXRZYJcZpi3SUQcT2Yro) | [Pihlaja](https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi) | [Mä oon se tyttö](https://open.spotify.com/album/1BNBt5vqJqJvMx4wNGAfgF) | 2:53 |
 | 6 | [Poikii on](https://open.spotify.com/track/5Lcqxese2p6RAAw3maH81R) | [Alina Burnet](https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J) | [Poikii on](https://open.spotify.com/album/6TVWI8u2gbQnl5jXBtOb56) | 2:21 |
-| 7 | [Matkustaja \(Vain elämää kausi 16\)](https://open.spotify.com/track/35kMp6OpJVgFuSWElHqgbh) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Matkustaja \(Vain elämää kausi 16\)](https://open.spotify.com/album/2VN3IhBnCYWIhLpIrqYB5C) | 3:34 |
-| 8 | [Tähdet](https://open.spotify.com/track/3ARgFb4seYmgDDPQjokiaQ) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK), [Behm](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE) | [Tähdet](https://open.spotify.com/album/3cHr0DdC6GKr9RhXSJcl4Q) | 3:15 |
-| 9 | [Susta löysin kodin](https://open.spotify.com/track/3TNTIJjB4CxaXOk9eLrj9z) | [ELLIMEI](https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra) | [Pieni ikuisuus](https://open.spotify.com/album/25pLeQtsnxTAOMA5IURPrp) | 3:15 |
+| 7 | [Tähdet](https://open.spotify.com/track/3ARgFb4seYmgDDPQjokiaQ) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK), [Behm](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE) | [Tähdet](https://open.spotify.com/album/3cHr0DdC6GKr9RhXSJcl4Q) | 3:15 |
+| 8 | [Susta löysin kodin](https://open.spotify.com/track/3TNTIJjB4CxaXOk9eLrj9z) | [ELLIMEI](https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra) | [Pieni ikuisuus](https://open.spotify.com/album/25pLeQtsnxTAOMA5IURPrp) | 3:15 |
+| 9 | [Matkustaja \(Vain elämää kausi 16\)](https://open.spotify.com/track/35kMp6OpJVgFuSWElHqgbh) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Matkustaja \(Vain elämää kausi 16\)](https://open.spotify.com/album/2VN3IhBnCYWIhLpIrqYB5C) | 3:34 |
 | 10 | [Tyttöystävä](https://open.spotify.com/track/6eN4usKcguQrcGwnepHVE9) | [Minttu](https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr) | [Tyttöystävä](https://open.spotify.com/album/5j0Jb4o5pSg8EXCw70Atu8) | 2:57 |
 | 11 | [Vantaalainen \(Vain elämää kausi 16\)](https://open.spotify.com/track/1rn1Ln1GWJnmxn7oYyKQes) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [Vantaalainen \(Vain elämää kausi 16\)](https://open.spotify.com/album/0IlkosgcmMdnAupG47k0mo) | 2:57 |
 | 12 | [Jääpähän](https://open.spotify.com/track/7L1rB3YL8wCNzwPK7OnyO4) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Rallikansa](https://open.spotify.com/album/6LD8MbRnh2VrOg4SqTw5kD) | 3:10 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 | 59 | [Tahdon](https://open.spotify.com/track/1cHMpCFsz4Imvq72B6IWae) | [louna0nline](https://open.spotify.com/artist/363l8KbAMnNgWeNfH9m6Jy) | [WEB](https://open.spotify.com/album/7r76AzmWQPap2MZgE9zQ3Y) | 3:18 |
 | 60 | [Parasta ja paskinta](https://open.spotify.com/track/1Tpuyc4NjRmqmLuhpbMIqy) | [Jenni & Juho](https://open.spotify.com/artist/5uYU6UHu7wuyF2Oa4OjZnp) | [Parasta ja paskinta](https://open.spotify.com/album/1aNpU5cFwYV0sQaiw1nYNM) | 2:53 |
 
-Snapshot ID: `AAAAAEjM043iZ40WgZTCB8ZkGPjZctgy`
+Snapshot ID: `AAAAAHHX3tsFo/T8SL3Nd0L7XmWgu9Cp`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ngZHk5xUsP.md) - [plain]
 
 > Lagu\-lagu pilihan yang cocok nemenin kamu menuju Bekasi
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,284 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,287 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ngZHk5xUsP.md) - [plain]
 | 25 | [Masih](https://open.spotify.com/track/6GU3OTg3eOPlDQ4A9r1Jap) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp) | [Another Journey : The Beginning](https://open.spotify.com/album/03623GeJY8TZR7v0KoMQs0) | 3:35 |
 | 26 | [untuk hati yang terluka.](https://open.spotify.com/track/28r2ClCmnKAclZZYqE0LTg) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu) | [LEXICON](https://open.spotify.com/album/089QU9ZClm6mksCrXCDBSi) | 3:59 |
 | 27 | [HAHAHA](https://open.spotify.com/track/0coPXOjcMS7mhizONlReis) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [HAHAHA](https://open.spotify.com/album/32KsXDdSdv8lJFKwt1cSEI) | 3:13 |
-| 28 | [Insan Biasa](https://open.spotify.com/track/79T9Ab0SwY8h6kxzDoVZdz) | [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Insan Biasa](https://open.spotify.com/album/2UyX1tZhUrWMt52W3op8ha) | 5:40 |
-| 29 | [Disappear](https://open.spotify.com/track/4PDQYHp5YzHFcfoxDMIDPY) | [White Chorus](https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc) | [FASTFOOD](https://open.spotify.com/album/3YTs3UdJUkNStTevXRfGWu) | 2:15 |
+| 28 | [Disappear](https://open.spotify.com/track/4PDQYHp5YzHFcfoxDMIDPY) | [White Chorus](https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc) | [FASTFOOD](https://open.spotify.com/album/3YTs3UdJUkNStTevXRfGWu) | 2:15 |
+| 29 | [Insan Biasa](https://open.spotify.com/track/79T9Ab0SwY8h6kxzDoVZdz) | [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Insan Biasa](https://open.spotify.com/album/2UyX1tZhUrWMt52W3op8ha) | 5:40 |
 | 30 | [Khanti \(Original Soundtrack from Bidadari Bermata Bening\)](https://open.spotify.com/track/3UAqNuP74Su2h7zOXXIbWm) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp) | [Khanti \(Original Soundtrack from Bidadari Bermata Bening\)](https://open.spotify.com/album/2ff9pyMaCGKVhltK61VYTb) | 3:25 |
 | 31 | [Bertaruh Pada Api](https://open.spotify.com/track/0TblrOwGd4j8YK0cdTRo5v) | [Dongker](https://open.spotify.com/artist/6sf1OnuDZM48bgFQvPkbYm) | [Bertaruh Pada Api](https://open.spotify.com/album/2VOfBP9LA5KsNMFyM35iR1) | 4:30 |
 | 32 | [Tiga Titik Hitam](https://open.spotify.com/track/7Fi3EyFExj8iIumylN29ne) | [Burgerkill](https://open.spotify.com/artist/77X41f0zoHXGhC3a3UvdJk) | [Berkarat](https://open.spotify.com/album/20Lby8PRGQSqfo7kJCz81W) | 5:32 |

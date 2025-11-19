@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lKwK3dS8IE.md) - [plain]
 
 > Folk punk, anti\-folk, acoustic punk & more\. Cover: AJJ
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,510 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,512 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lKwK3dS8IE.md) - [plain]
 | 37 | [Coming of Age](https://open.spotify.com/track/7cy8bN353JaUkc6qeTRg6B) | [Olive Klug](https://open.spotify.com/artist/3SEtmo8E5DJVuGddKYqeiU) | [Coming of Age](https://open.spotify.com/album/1QduDQX8LXLJVTqvrFfbSf) | 3:48 |
 | 38 | [Out of Egypt](https://open.spotify.com/track/4dzi9ff1Zm5PqLtn0gyM9a) | [Foxpaw](https://open.spotify.com/artist/3lrRCJ6WUwtvNVz9dPe3Yn) | [Still Dreaming, I Never See the Stars](https://open.spotify.com/album/69qLqOSmFzaKoLdH9I4V5x) | 2:19 |
 | 39 | [Shadows Follow You](https://open.spotify.com/track/70ocBhBQfu6gRbGZJdMl0h) | [Dogtooth & Nail](https://open.spotify.com/artist/3TzCgwT2fJB0oh2vggswZ9) | [Learning How to Unlearn](https://open.spotify.com/album/2ri1PLSmxfnM0yhamVmHz4) | 3:15 |
-| 40 | [Crag](https://open.spotify.com/track/4g8Djx0U0KlcKXVd2nYIWy) | [Human Behavior](https://open.spotify.com/artist/7dP5gL9CzGF6lPzRlprwS7) | [Golgotha](https://open.spotify.com/album/7jouh2dK5X0lkHJPEQ0TEp) | 3:15 |
-| 41 | [The Year I Get It Right](https://open.spotify.com/track/5kX4Ujo8YxIWMGFAofXAIR) | [Brook Pridemore](https://open.spotify.com/artist/5ZWHEFolveKJpzm9Cbd5ml) | [A Brighter Light](https://open.spotify.com/album/0ZpJ88lqMdaDcuSoiGZxsA) | 2:42 |
+| 40 | [The Year I Get It Right](https://open.spotify.com/track/5kX4Ujo8YxIWMGFAofXAIR) | [Brook Pridemore](https://open.spotify.com/artist/5ZWHEFolveKJpzm9Cbd5ml) | [A Brighter Light](https://open.spotify.com/album/0ZpJ88lqMdaDcuSoiGZxsA) | 2:42 |
+| 41 | [Crag](https://open.spotify.com/track/4g8Djx0U0KlcKXVd2nYIWy) | [Human Behavior](https://open.spotify.com/artist/7dP5gL9CzGF6lPzRlprwS7) | [Golgotha](https://open.spotify.com/album/7jouh2dK5X0lkHJPEQ0TEp) | 3:15 |
 | 42 | [I'm not a good person](https://open.spotify.com/track/27wOKBP8KERkFP2sqqHloH) | [Pat The Bunny](https://open.spotify.com/artist/3aMGHrEKTeVquvDzpvVcct) | [Probably Nothing, Possibly Everything](https://open.spotify.com/album/1mdup5fgvCJcq2eZzuSUzA) | 2:54 |
 | 43 | [I Know How It Feels](https://open.spotify.com/track/3gd0PGrjI49TL1keClyFBh) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [I Know How It Feels](https://open.spotify.com/album/5yWpmbHjwTVx2sVTkrr8KI) | 2:46 |
 | 44 | [Be Happy](https://open.spotify.com/track/6fzlvBtOkL1LNKyrToxVwi) | [A Day Without Love](https://open.spotify.com/artist/09JoYdZo9cekYMqyN1bsGD) | [Be Happy, Today](https://open.spotify.com/album/1dsdPI01rcf6eRHYJTsu1H) | 3:00 |

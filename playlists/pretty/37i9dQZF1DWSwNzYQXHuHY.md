@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요\. \(There is something between us\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,730 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,738 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 14 | [Really Like You](https://open.spotify.com/track/0achc2JEdzkJQXRl0LbUox) | [Gyubin](https://open.spotify.com/artist/7nScMbyBG94XsSpe7yrImS) | [Really Like You](https://open.spotify.com/album/0igq7n1dpRcshD0CX0Gtxu) | 2:58 |
 | 15 | [200%](https://open.spotify.com/track/6qkx0tenDglbF21CU4wa1k) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [PLAY](https://open.spotify.com/album/1eu07xRE0vQfN5et0Y3DAy) | 3:13 |
 | 16 | [Bom](https://open.spotify.com/track/1Vd8qFWC07LB8UvNHyIlzg) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Puberty BookⅠ Bom](https://open.spotify.com/album/0JkeId5EsudMnCK3UHe7cg) | 3:37 |
-| 17 | [99.9% \(WONWOO Solo\)](https://open.spotify.com/track/6PEeh7wjIJpwTOxjjhsAcJ) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 5th Album 'HAPPY BURSTDAY'](https://open.spotify.com/album/0xlyof8BowaJtYPsxWYmkN) | 3:05 |
-| 18 | [Nerdy Love](https://open.spotify.com/track/2TfsNTyC4uuamXBZJnU0ga) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Nerdy Love](https://open.spotify.com/album/2mN6cv4lJ5zATfEr84Myro) | 3:16 |
+| 17 | [Nerdy Love](https://open.spotify.com/track/2TfsNTyC4uuamXBZJnU0ga) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Nerdy Love](https://open.spotify.com/album/2mN6cv4lJ5zATfEr84Myro) | 3:16 |
+| 18 | [99.9% \(WONWOO Solo\)](https://open.spotify.com/track/6PEeh7wjIJpwTOxjjhsAcJ) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 5th Album 'HAPPY BURSTDAY'](https://open.spotify.com/album/0xlyof8BowaJtYPsxWYmkN) | 3:05 |
 | 19 | [A Lot Like Love](https://open.spotify.com/track/5Mu3n2L96MX1lU2EHqnD7p) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [Moonlovers: Scarlet Heart Ryeo \(Original Television Soundtrack\), Pt 7](https://open.spotify.com/album/5sziiV2dSUuADgsBl2M39P) | 3:23 |
 | 20 | [MOVIE](https://open.spotify.com/track/51kQvG4aghW17VSZKkfxTp) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [MOVIE](https://open.spotify.com/album/2yqOMxorfrYXbnVkjcaq5y) | 3:03 |
 | 21 | [Slightly Tipsy \(She is My Type♡ X SANDEUL\)](https://open.spotify.com/track/1xWVYPdaLm909DbFmuPGOR) | [Sandeul](https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx) | [Slightly Tipsy \(She is My Type♡ X SANDEUL\)](https://open.spotify.com/album/2bal48tjyi26OAxY2KxwFL) | 3:47 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 36 | [이렇게 좋아해 본 적이 없어요](https://open.spotify.com/track/7ybpezfufTBZvcMWf4iuT0) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [이렇게 좋아해 본 적이 없어요 \(From “소녀의 세계” \[Original Soundtrack\]\)](https://open.spotify.com/album/1gEeOzKCnjiQ9GSR7s0KlS) | 4:19 |
 | 37 | [Paint on Spring](https://open.spotify.com/track/6HpDaHOApCbCgu5AyyRv6v) | [Martin Smith](https://open.spotify.com/artist/3ISWX9gKLGkhlgS5AhvlTd) | [Paint on Spring](https://open.spotify.com/album/3wHPgbPG7fuBktQszASI1I) | 3:52 |
 | 38 | [ADONIS](https://open.spotify.com/track/6WmVzQtYDvvYX4TlqFIoeV) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Day & Night](https://open.spotify.com/album/087SnCtQCK0szSftQ2KYTF) | 2:39 |
-| 39 | [Magnetic \(R&B Remix\)](https://open.spotify.com/track/2KYwtEX70O5wD2xEn4a42J) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Magnetic \(Remixes\)](https://open.spotify.com/album/3N7bSRtr9USCEbSYOfSlEJ) | 2:51 |
-| 40 | [HONEY](https://open.spotify.com/track/2Lt1ZRU6nFY88vw24GdYLy) | [Chawoo](https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR), [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [HONEY](https://open.spotify.com/album/13G1o00M2cXesfbhj8p8H2) | 3:47 |
+| 39 | [HONEY](https://open.spotify.com/track/2Lt1ZRU6nFY88vw24GdYLy) | [Chawoo](https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR), [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [HONEY](https://open.spotify.com/album/13G1o00M2cXesfbhj8p8H2) | 3:47 |
+| 40 | [Magnetic \(R&B Remix\)](https://open.spotify.com/track/2KYwtEX70O5wD2xEn4a42J) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Magnetic \(Remixes\)](https://open.spotify.com/album/3N7bSRtr9USCEbSYOfSlEJ) | 2:51 |
 | 41 | [I'II be your star](https://open.spotify.com/track/0l9LpCsYufB1e5PJSvOXbU) | [So Soo Bin](https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic) | [A\-TEEN Part\. 2](https://open.spotify.com/album/0vRTiHetZUMy6HGswfv73J) | 3:24 |
 | 42 | [BOY](https://open.spotify.com/track/2UjpQS69PkI3YqzYH0Zksi) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [STAYC Special Single \[I WANT IT\]](https://open.spotify.com/album/252AHBq3W65lTnnELHIi4y) | 3:01 |
 | 43 | [FRIEND THE END](https://open.spotify.com/track/1TN8defSgxLPMwtzN7gUbb) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Love.zip](https://open.spotify.com/album/7w8ZawyWoLyuDr4XRJSsnX) | 3:08 |

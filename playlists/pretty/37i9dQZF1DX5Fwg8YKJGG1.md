@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Fwg8YKJGG1.md) - [plain]
 
 > Christmas favourites played on music box and glockenspiel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,794 likes - 39 songs - 1 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,835 likes - 39 songs - 1 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Fwg8YKJGG1.md) - [plain]
 | 38 | [O come, all ye faithful](https://open.spotify.com/track/3ci7zhMYt1NkURjdGGXnTT) | [Steinar Lugn](https://open.spotify.com/artist/4t0C7gwYJn7VTcCU5os2m1) | [Christmas Day Sleep\-Time](https://open.spotify.com/album/4OR8GZF3LpYvzeChqQLVV6) | 2:35 |
 | 39 | [Alle Jahre Wieder](https://open.spotify.com/track/3bpVrnAYK40WOSVXUC5nZc) | [Odette Weisz](https://open.spotify.com/artist/3uIIsttgIORjqRPNaT18b9) | [Weihnachten für Kleinkinder](https://open.spotify.com/album/3hswkwR8MMlOQHhJvM0twE) | 1:04 |
 
-Snapshot ID: `AAAAAMWASFxDfyJYKAtqKfDFVPbF2qxY`
+Snapshot ID: `AAAAAC1XtIo0sGLBEkoF1F3n7v2s7/6h`

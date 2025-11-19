@@ -317,6 +317,24 @@
     },
     {
       "album": {
+        "name": "Aasai Aasai",
+        "url": "https://open.spotify.com/album/1zMwApAbmgtfbZFQz7fZKp"
+      },
+      "artists": [
+        {
+          "name": "Sruthy Sasidharan",
+          "url": "https://open.spotify.com/artist/25yRkdjW9bHSoEQhHMAsT8"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162406,
+      "name": "Aasai Aasai",
+      "url": "https://open.spotify.com/track/5xatPDdiw1vKGx5laMlG4F"
+    },
+    {
+      "album": {
         "name": "Aasaigal",
         "url": "https://open.spotify.com/album/4cglbrEgdH16IKpcD2sb2z"
       },
@@ -860,7 +878,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 245052,
       "name": "Amma Amma",
       "url": "https://open.spotify.com/track/4UetPrmvMAtO3Q745Knwvl"
@@ -5320,7 +5338,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 194687,
       "name": "Kadhal Serkaadho (From \"MM Originals\") (Original Soundtrack)",
       "url": "https://open.spotify.com/track/5OxjuxmvQG3a58SrVcWfuK"
@@ -6908,6 +6926,24 @@
       "duration_ms": 265032,
       "name": "Maagamaaga Nee",
       "url": "https://open.spotify.com/track/31RulhRU3qYzKdYUja9JHj"
+    },
+    {
+      "album": {
+        "name": "Maara Makka (From \"Think Indie\")",
+        "url": "https://open.spotify.com/album/19DWPHifKZD73XLtkiRb6B"
+      },
+      "artists": [
+        {
+          "name": "rudh",
+          "url": "https://open.spotify.com/artist/2Q3UCe0lQfw6yrq7EoOb4t"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163636,
+      "name": "Maara Makka - From \"Think Indie\"",
+      "url": "https://open.spotify.com/track/13TxDpBIVafb5iAKXaO6IG"
     },
     {
       "album": {

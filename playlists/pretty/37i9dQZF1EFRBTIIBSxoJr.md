@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [In the Name of Love](https://open.spotify.com/track/23L5CiUhw2jV1OIMwthR3S) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [In the Name of Love](https://open.spotify.com/album/1FOJ5IXGXe8dl0cXvCU6wK) | 3:15 |
+| 1 | [In the Name of Love](https://open.spotify.com/track/23L5CiUhw2jV1OIMwthR3S) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [In the Name of Love](https://open.spotify.com/album/1FOJ5IXGXe8dl0cXvCU6wK) | 3:18 |
 | 2 | [Slow Hands](https://open.spotify.com/track/2cOUlop2ZakjOKe4WinesN) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 3:08 |
 | 3 | [Little Do You Know](https://open.spotify.com/track/1almCHdsfikRPfVB9VrEdT) | [Alex & Sierra](https://open.spotify.com/artist/58MLl9nC29IXbE4nEtuoP2) | [It's About Us](https://open.spotify.com/album/3Yk19X5zgXDSrG8uqrPnXC) | 3:05 |
 | 4 | [Work Bitch](https://open.spotify.com/track/3KliPMvk1EvFZu9cvkj8p1) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Britney Jean \(Deluxe Version\)](https://open.spotify.com/album/5rlB2HPoNHg2m1wmmh0TRv) | 4:07 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 51 | [Proud](https://open.spotify.com/track/2P6pcE74d5TMQLy4fn6TqD) | [Lea Michele](https://open.spotify.com/artist/16rJDrSGCHMXjPUuKwQcvp) | [Places](https://open.spotify.com/album/7k39NBjViaNw8dpzNpiXwA) | 3:00 |
 | 52 | [Stronger](https://open.spotify.com/track/40IYwvYNbAtCpVIGFTAVBi) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO), [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [Glorious](https://open.spotify.com/album/3M9tDLu83Y8XlcicBUF3sL) | 4:11 |
 | 53 | [I Still Believe \- Purple Disco Machine Remix](https://open.spotify.com/track/40uD8YIrDmTuFFPNYp3ovN) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [I Still Believe \(Purple Disco Machine Remix\)](https://open.spotify.com/album/4vRTaNLGafRDnsuQfyetJY) | 3:39 |
-| 54 | [Give Me Something](https://open.spotify.com/track/2gfUIB27jMLK2w0xMRdemZ) | [Alex & Sierra](https://open.spotify.com/artist/58MLl9nC29IXbE4nEtuoP2) | [It's About Us](https://open.spotify.com/album/3Yk19X5zgXDSrG8uqrPnXC) | 3:12 |
-| 55 | [She Do](https://open.spotify.com/track/7cJWV4gJVR78HFLvosMhcb) | [In Real Life](https://open.spotify.com/artist/09fEeGYqb3MUeV1c9BJgDI) | [She Do](https://open.spotify.com/album/7KnSdU7mu0fvU1M4gl8Ct7) | 3:20 |
+| 54 | [She Do](https://open.spotify.com/track/7cJWV4gJVR78HFLvosMhcb) | [In Real Life](https://open.spotify.com/artist/09fEeGYqb3MUeV1c9BJgDI) | [She Do](https://open.spotify.com/album/7KnSdU7mu0fvU1M4gl8Ct7) | 3:20 |
+| 55 | [Give Me Something](https://open.spotify.com/track/2gfUIB27jMLK2w0xMRdemZ) | [Alex & Sierra](https://open.spotify.com/artist/58MLl9nC29IXbE4nEtuoP2) | [It's About Us](https://open.spotify.com/album/3Yk19X5zgXDSrG8uqrPnXC) | 3:12 |
 | 56 | [Crown \(feat\. Jamila Velazquez, Raquel Castro & Yani Marin\)](https://open.spotify.com/track/76QiAAm2W1uyCmjgX8Hrrk) | [Empire Cast](https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA), [Jamila Velazquez](https://open.spotify.com/artist/0DNer7EBpWOFyAGuxmF9GN), [Raquel Castro](https://open.spotify.com/artist/1FOw6qIycSqShZV57QtDIX), [Yani Marin](https://open.spotify.com/artist/6eMmKtGbT9oHRnDMDzPlu3) | [Crown \(feat\. Jamila Velazquez, Raquel Castro & Yani Marin\)](https://open.spotify.com/album/1dsVjZhOY20EkB0AfJY8E8) | 3:11 |
 | 57 | [Almost Home](https://open.spotify.com/track/7h38rvuinAanaR7vaYLDVQ) | [Alex & Sierra](https://open.spotify.com/artist/58MLl9nC29IXbE4nEtuoP2) | [It's About Us](https://open.spotify.com/album/3Yk19X5zgXDSrG8uqrPnXC) | 3:23 |
 | 58 | [Feel The Same](https://open.spotify.com/track/5g9zQM8xjmZRHbGbrm0fdU) | [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km), [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Feel The Same \(feat\. RuthAnne\)](https://open.spotify.com/album/1BvIg5jWpKM73SY0YQYieB) | 2:50 |
@@ -148,4 +148,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 138 | [Waiting Room](https://open.spotify.com/track/6WIjcI93x7ai2wHjIYbvkH) | [Sasha Lee](https://open.spotify.com/artist/3dT9AnyUKXdrXCzGsJjx7H) | [Sasha\-Lee](https://open.spotify.com/album/7jzpZmpkbzHMRB3YCTlYfC) | 3:31 |
 | 139 | [New World](https://open.spotify.com/track/3FDGiAjvt2DgrW59SPzz1C) | [Ruth\-Anne](https://open.spotify.com/artist/4LnlxzBp14IU8sJ0dmC9Au) | [New World](https://open.spotify.com/album/5XiSwbh3jsRJvGz8qRjch4) | 3:08 |
 
-Snapshot ID: `AcB3HAAAAACg7JWVIC097ij2+UN+5yDu`
+Snapshot ID: `AcB8vAAAAABFYs9i4bmqLzWv9TKdf/bd`

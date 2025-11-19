@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 > Bağımsız yerli sahneden keşifler! Kapak: ARKADAŞ Çizim: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,257 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,277 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 3 | [Yalan Dünya](https://open.spotify.com/track/0im2Hj4RQEuVEcfUaV9294) | [Begüm Yiğit](https://open.spotify.com/artist/74jfszyHYEkbgAnlyl9HCa) | [Yalan Dünya](https://open.spotify.com/album/35zLdbkxaJLcTqRDyRo7NZ) | 3:07 |
 | 4 | [Geri Dönemem](https://open.spotify.com/track/3Qq1cFhh4oKyCUhO7GPXvb) | [Elif Çohaz](https://open.spotify.com/artist/2nHjQP11BO3BV7ckkg4bZz) | [Geri Dönemem](https://open.spotify.com/album/5lFJq99AXyH8HVEDoGguwj) | 2:43 |
 | 5 | [oyun bahçesi](https://open.spotify.com/track/3TauTYuMReTskVZZ4El8OO) | [ÇIPLAK](https://open.spotify.com/artist/32cdQEC0vq2Gkoqbts5kmi) | [oyun bahçesi](https://open.spotify.com/album/2wRasDERIpDiv2myVsDH1M) | 3:53 |
-| 6 | [Söyle Nerdesin](https://open.spotify.com/track/6gC8XSFlY480HjwUlCdZIf) | [Duru](https://open.spotify.com/artist/30f7VIGbxoWl9QzGj9HJql) | [Söyle Nerdesin](https://open.spotify.com/album/13aJdtWrqxzCKb0Wp4U0Ti) | 2:23 |
+| 6 | [Doğru Aşk](https://open.spotify.com/track/0H3YkvvhdOyufTLXpVuxLv) | [Duru](https://open.spotify.com/artist/30f7VIGbxoWl9QzGj9HJql) | [Doğru Aşk](https://open.spotify.com/album/1zhDOAN6mePq5Au54JygvQ) | 2:17 |
 | 7 | [Yarınım Yok](https://open.spotify.com/track/62TQ5C1QRAG2YCbD5K678V) | [Yeşim Farah](https://open.spotify.com/artist/1e0Dfiy3bhhrleJTYBvSmV) | [Yarınım Yok](https://open.spotify.com/album/4ljKenwXC3yEkMksTIQHjP) | 3:47 |
 | 8 | [insan olmak](https://open.spotify.com/track/5cDaLPmoRLdKHWRqWDGOCz) | [sıla argun](https://open.spotify.com/artist/6mIlg9lvCkLijvjN1Gu4eL) | [insan olmak](https://open.spotify.com/album/4FrC1FJpzWTyF0U2Jo7qHJ) | 3:15 |
 | 9 | [Vukuat](https://open.spotify.com/track/4tZt0liZA5M9AYPqU4w8A6) | [Berat Çiçekçi](https://open.spotify.com/artist/5h6LLHhfVDAdGDqVwtlfmm) | [Vukuat](https://open.spotify.com/album/6pm3Suu3kPPJkYrZaz6tLs) | 2:57 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 74 | [EXILED!!! xDDD](https://open.spotify.com/track/09QB4g3rRQrnaQgiEqiFn0) | [Kaan's Exile](https://open.spotify.com/artist/4vJn1X99fUOXJg3XuDTOKr), [Pastor's Child](https://open.spotify.com/artist/0c17IXceiF19D9zfy0PCag) | [\#KAANCORE, Vol\. 1](https://open.spotify.com/album/66x3qYMJjCz1O8e8rWm84L) | 4:14 |
 | 75 | [Ya Geç Olursa](https://open.spotify.com/track/56WgVetO6T9k0PNQcjDkWI) | [yirmiki](https://open.spotify.com/artist/1i6TBYrhcnI1yNrnHZv7oO) | [Ya Geç Olursa](https://open.spotify.com/album/276lfEaCX6Yd2hU1VAFNMG) | 3:43 |
 
-Snapshot ID: `AAAAAHRttG9wYNgpR+ZTWkylSwy1VpPN`
+Snapshot ID: `AAAAACw5ftJ2nkroQx8owvjHb1Jz9Rvz`

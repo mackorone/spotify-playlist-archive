@@ -4,7 +4,7 @@
 
 > \#fyp
 
-937 songs - 2 day 0 hr 38 min
+938 songs - 2 day 0 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Angel Numbers / Ten Toes](https://open.spotify.com/track/3XqM8hLCEYlbnFjoWwqtFv) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [11:11](https://open.spotify.com/album/0tL8CzbfmF5poGm9puqALR) | 5:06 | 2023-11-24 | 2024-04-27 |
 | [Angela](https://open.spotify.com/track/5tl5NRfjvOEZaVuWBQHOf9) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Et si j'échoue ?](https://open.spotify.com/album/13DOol2YIm4SV5opoucJpu) | 2:54 | 2024-12-13 | 2025-04-05 |
 | [Angels in Tibet](https://open.spotify.com/track/23uUytja1B1mUOOIoygf6u) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 2:22 | 2023-11-17 | 2023-12-14 |
+| [Animal \- Nouvelle École](https://open.spotify.com/track/6xcKQIsZGEevehOdUe4AyH) | [TRZ](https://open.spotify.com/artist/7cLUwy0R7N8q1YSjHYZdrU), [Nouvelle École](https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ) | [Nouvelle École \| Saison 4 \| Partie 2 \(Série Netflix\)](https://open.spotify.com/album/30XbWO5hH3mY4JhP6QZMTx) | 1:53 | 2025-11-18 |  |
 | [Anxiety](https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Anxiety](https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA) | 4:09 | 2025-03-10 | 2025-05-30 |
 | [ANXIETY \(feat\. Doechii\)](https://open.spotify.com/track/3FjK86616FbluOfTxNK2gY) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Boy Meets World](https://open.spotify.com/album/2Qq4N5lYtsZspF2QFLKcbY) | 2:28 | 2025-03-04 | 2025-03-11 |
 | [Apologize](https://open.spotify.com/track/6ucR4KfvsBFWCMVFDvyKKl) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Shock Value](https://open.spotify.com/album/0V7TZQmJBgI81M9Z7GWxCI) | 3:04 | 2025-01-17 | 2025-02-28 |

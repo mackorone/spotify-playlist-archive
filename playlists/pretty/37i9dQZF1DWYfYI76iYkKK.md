@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,369 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,371 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 | 2 | [午觉](https://open.spotify.com/track/0XgTJyrZWvT4ry46Oup6yd) | [饭卡](https://open.spotify.com/artist/4Ak4OMWvPvUb0wIDC4wdfp), [金車厘子](https://open.spotify.com/artist/0KVp6ZWCciKYq9mIlsDcO1) | [仙人掌日报社](https://open.spotify.com/album/3UGuGErZdWgcVOOKqp9qSW) | 3:05 |
 | 3 | [唯一 \(三立/台視戲劇《戀愛是科學》插曲\)](https://open.spotify.com/track/19fp9nI0tq0lcBl7XoCHAb) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [運氣來得若有似無](https://open.spotify.com/album/6Vss0GQqlLtD4k3lSXnYI5) | 4:30 |
 | 4 | [俗世\(CalledLife\)](https://open.spotify.com/track/42GPyTCVBC3EygW06qcwz4) | [鄧典](https://open.spotify.com/artist/7s83TX2Vm2MS1Ol0udwjYY) | [俗世（THE PROCESSING）](https://open.spotify.com/album/6FMFe0YIy2btShCPmRj35c) | 4:42 |
-| 5 | [能遇見，就很不錯了](https://open.spotify.com/track/2ASWo8MTESnHQhJhpMSPbF) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [能遇見，就很不錯了](https://open.spotify.com/album/7gtCv2LMG9F41nwqXvVu2S) | 3:48 |
-| 6 | [太聰明](https://open.spotify.com/track/4DCB1S7G6SmH9qlDpEVIzP) | [Cheer Chen](https://open.spotify.com/artist/4m0xrEWYU0yCUFMaga015T) | [吉他手](https://open.spotify.com/album/35QdFULbzmzRWMeH7bHGQR) | 4:23 |
+| 5 | [太聰明](https://open.spotify.com/track/4DCB1S7G6SmH9qlDpEVIzP) | [Cheer Chen](https://open.spotify.com/artist/4m0xrEWYU0yCUFMaga015T) | [吉他手](https://open.spotify.com/album/35QdFULbzmzRWMeH7bHGQR) | 4:23 |
+| 6 | [能遇見，就很不錯了](https://open.spotify.com/track/2ASWo8MTESnHQhJhpMSPbF) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [能遇見，就很不錯了](https://open.spotify.com/album/7gtCv2LMG9F41nwqXvVu2S) | 3:48 |
 | 7 | [做我的初戀 \(純愛不插電\)](https://open.spotify.com/track/0QTVDDZFhLRyFKqgmphkms) | [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7), [JOYCE 就以斯](https://open.spotify.com/artist/2rnMTHqTdSXZ9h9drhPanv) | [做我的初戀（純愛不插電）](https://open.spotify.com/album/6c7wFSp80wogFSImEgRSK5) | 3:17 |
 | 8 | [不喜歡沒有你的地方](https://open.spotify.com/track/1R0OkkgvpoIqA0XdU0YSp4) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [不喜歡沒有你的地方](https://open.spotify.com/album/75aDWkYgrA0ZAMEHpPCHeJ) | 3:47 |
 | 9 | [我在紐約打電話給你](https://open.spotify.com/track/3vTnGxlxui3i9mWrAepise) | [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [我在紐約打電話給你](https://open.spotify.com/album/705xmvtHgzHVcHADtEdICs) | 3:56 |
@@ -37,19 +37,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 | 27 | [十萬毫升淚水](https://open.spotify.com/track/2mCSqP0xAkWO7N53OnHRLk) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [天使與魔鬼的對話](https://open.spotify.com/album/6joAlbBWoCoaSLongcfI9V) | 4:20 |
 | 28 | [沉默](https://open.spotify.com/track/6DzvjbpPRoH2vbTVvvdDcz) | [Penny Tai](https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud) | [雙生火焰](https://open.spotify.com/album/2u6C7l72qZ9TmKlFz9MJzh) | 5:05 |
 | 29 | [If Only...](https://open.spotify.com/track/79rFtrqN1JHoZDAnBJ6TwJ) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD) | [If Only...](https://open.spotify.com/album/2PflyuQL0apWi1Mz079F4Y) | 3:07 |
-| 30 | [想自由](https://open.spotify.com/track/2fLoz0Qd1sgcHVkrBAzAHn) | [王安宇](https://open.spotify.com/artist/75CDjVdcyafrJRwNITgluf) | [想自由](https://open.spotify.com/album/0ThGbiZgtDmXPARkCXMTBV) | 4:28 |
-| 31 | [在加納共和國離婚 \- Acoustic Version](https://open.spotify.com/track/6k1mngK84iZ1PA8HRlRBCW) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv), [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [在加納共和國離婚 \(Acoustic Version\)](https://open.spotify.com/album/17eQy9BdSIdKAh6KnWBEIH) | 3:56 |
+| 30 | [在加納共和國離婚 \- Acoustic Version](https://open.spotify.com/track/6k1mngK84iZ1PA8HRlRBCW) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv), [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [在加納共和國離婚 \(Acoustic Version\)](https://open.spotify.com/album/17eQy9BdSIdKAh6KnWBEIH) | 3:56 |
+| 31 | [習慣不習慣](https://open.spotify.com/track/2bLphDJvGyfjPbmxs7V4rX) | [理想混蛋 雞丁](https://open.spotify.com/artist/5gLzM47RVqMDkkFc2CaSon) | [底片裡的夏卡爾](https://open.spotify.com/album/3s1pKBhbHzoUzcRFBabug4) | 5:00 |
 | 32 | [芬蘭距離](https://open.spotify.com/track/1OvQbBToQ5gMPs7bwqUbbz) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [《不夠善良的我們 : 戲劇音樂設計專輯》](https://open.spotify.com/album/0pH2VtQLa0T3G3ZoHSFgeC) | 5:49 |
-| 33 | [習慣不習慣](https://open.spotify.com/track/2bLphDJvGyfjPbmxs7V4rX) | [理想混蛋 雞丁](https://open.spotify.com/artist/5gLzM47RVqMDkkFc2CaSon) | [底片裡的夏卡爾](https://open.spotify.com/album/3s1pKBhbHzoUzcRFBabug4) | 5:00 |
-| 34 | [等待你那天](https://open.spotify.com/track/7EXbutggsR2KP5klyOZeE0) | [呂允](https://open.spotify.com/artist/0IOTVYHqENzrhSgJQmIkE9) | [等待你那天](https://open.spotify.com/album/5UqskmXa3TihM95voWWhTw) | 4:00 |
+| 33 | [等待你那天](https://open.spotify.com/track/7EXbutggsR2KP5klyOZeE0) | [呂允](https://open.spotify.com/artist/0IOTVYHqENzrhSgJQmIkE9) | [等待你那天](https://open.spotify.com/album/5UqskmXa3TihM95voWWhTw) | 4:00 |
+| 34 | [想自由](https://open.spotify.com/track/2fLoz0Qd1sgcHVkrBAzAHn) | [王安宇](https://open.spotify.com/artist/75CDjVdcyafrJRwNITgluf) | [想自由](https://open.spotify.com/album/0ThGbiZgtDmXPARkCXMTBV) | 4:28 |
 | 35 | [心臟的右邊 / Right Side of My Heart \(feat\. 魏如萱\)](https://open.spotify.com/track/4FKYYP70R2bAt6X9po9h54) | [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL), [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [Same Stories, Different Narratives](https://open.spotify.com/album/0r2OL5wdLUFAetMaihWFoZ) | 4:32 |
 | 36 | [想和你說說話](https://open.spotify.com/track/1Z3aEPuzNCiOcECvOGUDwf) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [愛的對白](https://open.spotify.com/album/6LHSVcmUUJuSVuBt14uGEV) | 3:05 |
 | 37 | [你會來看我嗎？](https://open.spotify.com/track/0DxkPgLfLetPrvtMeJjNB4) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [你會來看我嗎？](https://open.spotify.com/album/6byW0FebDU634pXsBmb4tC) | 3:41 |
 | 38 | [一起浪費時光的安全感](https://open.spotify.com/track/5yS3QUbj5ukfTVETtGmyGJ) | [楊宜蓉Wooly](https://open.spotify.com/artist/4yhGqaSsVlCIYDs7jb7F6a) | [一起浪費時光的安全感](https://open.spotify.com/album/1ekFKiOOaXT1za6Ef7HYJS) | 3:28 |
 | 39 | [年輪說](https://open.spotify.com/track/0rkKoFtgXTBSy8MLtwYPmc) | [吳青峰](https://open.spotify.com/artist/5a5vu4RzsAHdKN0aYyblZ8) | [冊葉一：一與一](https://open.spotify.com/album/3rF6e6T98lg8usUISr18oG) | 4:55 |
-| 40 | [彆扭](https://open.spotify.com/track/25w1mTL25T5qB6ftpsi5EL) | [VH \(Vast & Hazy\)](https://open.spotify.com/artist/2O6Fn6smW8hJ5x9rOUDPJc) | [彆扭](https://open.spotify.com/album/3xKjheUgiStRCLWKxNBV4R) | 4:37 |
-| 41 | [旅行中忘記](https://open.spotify.com/track/1Of1jcGbCroKpUk7RGJaPA) | [TIA RAY](https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL) | [T.I.A.](https://open.spotify.com/album/16FOXa3qlWPHP7MmPj0Ehi) | 3:54 |
-| 42 | [太陽雨](https://open.spotify.com/track/2A0vCSTeOryiLsbuWDwX7G) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra), [郁心](https://open.spotify.com/artist/09QyyZF4pquXH58c52YUtp) | [太陽雨](https://open.spotify.com/album/1o5ApqEbF0nSfiieqqE80u) | 3:36 |
+| 40 | [旅行中忘記](https://open.spotify.com/track/1Of1jcGbCroKpUk7RGJaPA) | [TIA RAY](https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL) | [T.I.A.](https://open.spotify.com/album/16FOXa3qlWPHP7MmPj0Ehi) | 3:54 |
+| 41 | [太陽雨](https://open.spotify.com/track/2A0vCSTeOryiLsbuWDwX7G) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra), [郁心](https://open.spotify.com/artist/09QyyZF4pquXH58c52YUtp) | [太陽雨](https://open.spotify.com/album/1o5ApqEbF0nSfiieqqE80u) | 3:36 |
+| 42 | [彆扭](https://open.spotify.com/track/25w1mTL25T5qB6ftpsi5EL) | [VH \(Vast & Hazy\)](https://open.spotify.com/artist/2O6Fn6smW8hJ5x9rOUDPJc) | [彆扭](https://open.spotify.com/album/3xKjheUgiStRCLWKxNBV4R) | 4:37 |
 | 43 | [我還在你的夢裡嗎](https://open.spotify.com/track/0Py5JGT1RIImdoGkuuX7k0) | [Chih Siou](https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr) | [!!!!](https://open.spotify.com/album/58CASB7bpccJHW3Xdx0OaY) | 3:36 |
 | 44 | [茧Jian](https://open.spotify.com/track/5AtzX2REgyt6hgduniGMZX) | [Wang OK](https://open.spotify.com/artist/21QQNTzqULHjiaDKaZepRP) | [茧Jian](https://open.spotify.com/album/7w8cW1IqQCo8xKhXmG6313) | 3:19 |
 | 45 | [側臉](https://open.spotify.com/track/37bdVVPemdUmN8FTqQXWYz) | [加木](https://open.spotify.com/artist/45aOa6C5ieGIXh7yExsvVl) | [嵌入生長](https://open.spotify.com/album/4WzTaRTT9piXbAzXyYIXvN) | 3:53 |

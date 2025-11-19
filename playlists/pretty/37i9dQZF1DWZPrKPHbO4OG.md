@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPrKPHbO4OG.md) - [plain]
 
 > Your ultimate gym playlist featuring upbeat Marathi tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,224 likes - 43 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,243 likes - 43 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPrKPHbO4OG.md) - [plain]
 | 14 | [Mi Naadkhula](https://open.spotify.com/track/2hbmcE3ajWAh66EH9s2P29) | [Prashant Nakti](https://open.spotify.com/artist/3f2UsSsI3E7VHH2mbBscJc), [Adarsh Shinde](https://open.spotify.com/artist/5rz9Rq9OG7jQiSm2nmTfd3), [Sonali Sonawane](https://open.spotify.com/artist/4SG93C6umdFmpTKj9glUh3), [Vishal Phale](https://open.spotify.com/artist/5WRKRK4jQ2b1fGYLLDOmqo), [Pratibha Joshi](https://open.spotify.com/artist/50Uud5UqMWgsGHqqUoMTcx) | [Mi Naadkhula](https://open.spotify.com/album/6m3N9YsnIcuut4zpsxKv2l) | 4:19 |
 | 15 | [Shitti Wajali Gaadi Sutali](https://open.spotify.com/track/44FmJZhQSghzLkKd2E5kMy) | [Anand Shinde](https://open.spotify.com/artist/7vJyQMmionozMmzgDkyqUd), [Avadhoot Gupte](https://open.spotify.com/artist/6mxY3ekITToaEK2XGtaock) | [Rege \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0i1f1m6uGlS7LoL2WtOCEP) | 5:07 |
 | 16 | [Angaat Aalaya](https://open.spotify.com/track/3CdyqQCvlKJLVr9II5XIDT) | [Rohan Pradhan](https://open.spotify.com/artist/5OvvUIcEWpnKuP0F3HoRce), [Rohan Rohan](https://open.spotify.com/artist/6wnx3CHIWmuaOWubIXn6UE) | [Angaat Aalaya \- Zombivli](https://open.spotify.com/album/5GJgMooWCCoTVFJ4TOyIkx) | 3:46 |
-| 17 | [Angaar Bhangar Nai Rr](https://open.spotify.com/track/4FXuuc4lb1CfTOfcKny9G1) | [Madhur Milind Shinde](https://open.spotify.com/artist/0H2K4pNnOqpTXf4eVCvk5J) | [Angar Bhangar Nay Rr \- Single](https://open.spotify.com/album/0tbwtoIOv2PyS1hPr5kwRg) | 3:37 |
-| 18 | [Once More Laav](https://open.spotify.com/track/0hBCD8MaqZhHij5VnbFjTB) | [Adarsh Shinde](https://open.spotify.com/artist/5rz9Rq9OG7jQiSm2nmTfd3) | [Once More Laav](https://open.spotify.com/album/6QjpZdG3TjiDpLoG2RIYdP) | 2:57 |
+| 17 | [Once More Laav](https://open.spotify.com/track/0hBCD8MaqZhHij5VnbFjTB) | [Adarsh Shinde](https://open.spotify.com/artist/5rz9Rq9OG7jQiSm2nmTfd3) | [Once More Laav](https://open.spotify.com/album/6QjpZdG3TjiDpLoG2RIYdP) | 2:57 |
+| 18 | [Angaar Bhangar Nai Rr](https://open.spotify.com/track/4FXuuc4lb1CfTOfcKny9G1) | [Madhur Milind Shinde](https://open.spotify.com/artist/0H2K4pNnOqpTXf4eVCvk5J) | [Angar Bhangar Nay Rr \- Single](https://open.spotify.com/album/0tbwtoIOv2PyS1hPr5kwRg) | 3:37 |
 | 19 | [Koligeet Mashup 3](https://open.spotify.com/track/2jtBlW0nxItmYL03yG0gQ1) | [Crown J](https://open.spotify.com/artist/14D73AR7J5qqIzJwplkcda) | [Koligeet Mashup 3](https://open.spotify.com/album/3VSHYXGtPiwodxy8We8AK8) | 3:15 |
 | 20 | [Majhi Navri](https://open.spotify.com/track/35h2x2FdA82bUs90mP8S7Q) | [Sonali Sonawane](https://open.spotify.com/artist/4SG93C6umdFmpTKj9glUh3), [Keval Walanj](https://open.spotify.com/artist/6Wswgu5myN8iTStK7FoGh4), [Vishnupriya](https://open.spotify.com/artist/02tdlcWysk429Q3xMT62L7), [Sai Patil](https://open.spotify.com/artist/4t3ZUbQcJRgD7O6UYU70TI) | [Majhi Navri](https://open.spotify.com/album/37mQ476fRfiAiBl2cW1LbT) | 4:00 |
 | 21 | [Zapuk Zupuk \(From "Zapuk Zupuk"\)](https://open.spotify.com/track/5tR33Cc72be8P3iDW38TMC) | [Kratex](https://open.spotify.com/artist/3Gowc3dedLQgQAt4y0gPBo), [PATYA THE DOC](https://open.spotify.com/artist/67bgYV3B0briff1AeDe5O0) | [Zapuk Zupuk \(From "Zapuk Zupuk"\)](https://open.spotify.com/album/24KadeH1xYQHcrxaiFsY8n) | 2:34 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPrKPHbO4OG.md) - [plain]
 | 42 | [Galavar Khali \- Remix](https://open.spotify.com/track/6vaP1f4kGH0Pp7PYrg3IFb) | [Swapnil Bandodkar](https://open.spotify.com/artist/5yHnIri2Bj5Ysuaki6VOVy), [Philip Larsen](https://open.spotify.com/artist/36HGWVjzOS2QP0sv1d4cws) | [Galavar Khali \- Single](https://open.spotify.com/album/4RH0XzRqLlC3GHDNGrL9SY) | 5:11 |
 | 43 | [Dhuvun Taak](https://open.spotify.com/track/6GWKXINigx4Pf7yuqRHgq3) | [Ajay Gogavale](https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI) | [Mauli \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7mZGc0WvyyQznsSo2L7Rwg) | 3:34 |
 
-Snapshot ID: `AAAAAKOrAIxKk9bPGPHTSf5TKDGvNdyW`
+Snapshot ID: `AAAAALzt+UNP1VCXBiibR3Q3rWOQawMA`

@@ -4,7 +4,7 @@
 
 > viral, trend ve yükselenler\.  Kapak: Şam x Laçin
 
-229 songs - 11 hr 47 min
+231 songs - 11 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,8 +71,9 @@
 | [Düşer O](https://open.spotify.com/track/7cCreOFQhqqhCm82twJg0u) | [İzel](https://open.spotify.com/artist/0QSrUuv6y5Woazd3LAjbSH) | [Aşk En Büyüktür Her Zaman](https://open.spotify.com/album/0eRqafbQDWjvYjcmOykgrd) | 4:59 | 2024-07-02 | 2024-09-06 |
 | [Düşüşlerim Fazla](https://open.spotify.com/track/3AaGQ8lTi31RBk9WMDfPX5) | [ZEDİ](https://open.spotify.com/artist/3FzjRFPl2VuRcDP0lH6sR8) | [Düşüşlerim Fazla](https://open.spotify.com/album/3wvLRWKTy8exkhC81GjyNV) | 2:19 | 2024-12-04 | 2025-04-08 |
 | [Efendim İşitmedim \- 2\. Sezon Soundtrack](https://open.spotify.com/track/0M2Iwnbm8vp0c5YDdUX3Pu) | [Bayhan](https://open.spotify.com/artist/7yiLonxrJVgZKSbjo0gh6V) | [GASSAL \(2\. Sezon Soundtrack\)](https://open.spotify.com/album/3Xp3DqpbV34eIrvDLT2zmu) | 3:07 | 2025-06-05 | 2025-07-01 |
+| [ELA MANA](https://open.spotify.com/track/4uxsrixGArx2vuhjssHDVP) | [Yüksel Baltacı](https://open.spotify.com/artist/5tlE5dBPT5muL6dpPSExWw) | [ELA MANA](https://open.spotify.com/album/5NDghfuOVIJN3n90cNnBfx) | 4:24 | 2025-11-18 |  |
 | [Elini Ver](https://open.spotify.com/track/4wwZyKI0OtpRfHmpxv6JdR) | [Amo988](https://open.spotify.com/artist/05c2IUQGegTcqtWeWwuJ06) | [Elini Ver](https://open.spotify.com/album/5r0s3anoC7C85G0NvcC0yN) | 2:22 | 2024-07-02 | 2024-09-06 |
-| [Es](https://open.spotify.com/track/6hBmElorXW8xsvKbqzXzD6) | [Mustafa Ceceli](https://open.spotify.com/artist/3cNwyF5SboOs9icz2XyotE) | [Es!](https://open.spotify.com/album/3PYfRiN717b82YJMu1j1my) | 4:29 | 2025-10-21 |  |
+| [Es](https://open.spotify.com/track/6hBmElorXW8xsvKbqzXzD6) | [Mustafa Ceceli](https://open.spotify.com/artist/3cNwyF5SboOs9icz2XyotE) | [Es!](https://open.spotify.com/album/3PYfRiN717b82YJMu1j1my) | 4:29 | 2025-10-21 | 2025-11-19 |
 | [ESC\*BAR](https://open.spotify.com/track/6kWF1fWqA2ZuWn70TQvtmQ) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [ESC\*BAR](https://open.spotify.com/album/2tTgc2Nt5VOExrRYybuZuI) | 2:16 | 2024-07-16 | 2024-10-08 |
 | [Extrovert](https://open.spotify.com/track/3eiLwTPzJTFd0GowvO7H2g) | [Ceg](https://open.spotify.com/artist/2QDHxmDObOuv9MCeBYiFtq) | [Bipolar](https://open.spotify.com/album/0ab5RvaLZtVjorEZZ10Oor) | 3:10 | 2025-06-30 | 2025-07-09 |
 | [Ey Aşk](https://open.spotify.com/track/5rElOY8KtcQFqlSZ7hgEuC) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Paşa Gönül Şarkıları](https://open.spotify.com/album/2oBjfy4PesjgtncSmEaY9T) | 4:07 | 2025-06-30 | 2025-10-27 |
@@ -80,10 +81,11 @@
 | [Eyvah Neye Yarar](https://open.spotify.com/track/5wSj1BUYLvYf8NWJy9MQuM) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Karışık Kaset](https://open.spotify.com/album/5SHv3oXpZdmsqHt57lY0Yg) | 3:05 | 2024-07-03 | 2025-02-19 |
 | [Fark Ettim](https://open.spotify.com/track/4rbXJipz3CaSQwtG3xXzzT) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Fark Ettim](https://open.spotify.com/album/4hnVK5UgO5xWJdwxBwmsFv) | 2:35 | 2024-07-02 | 2025-01-12 |
 | [Farzet](https://open.spotify.com/track/5mL3lm7htBJ2TOlvHm2c5S) | [Sertab Erener](https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s) | [Ben Yaşarım](https://open.spotify.com/album/70jZNJODlWajFGhTRqwCgR) | 4:09 | 2025-04-07 |  |
-| [Galata](https://open.spotify.com/track/0w5mKLexkMJqgcMpjLmqq6) | [Halil Sezai](https://open.spotify.com/artist/0Aoou2kIWXrzTOfhFzmNqa) | [İncir Reçeli 2 \(Soundtrack\)](https://open.spotify.com/album/2pH6A5ZsYaq1b1eJSJiF8D) | 4:24 | 2025-08-28 |  |
+| [Galata](https://open.spotify.com/track/0w5mKLexkMJqgcMpjLmqq6) | [Halil Sezai](https://open.spotify.com/artist/0Aoou2kIWXrzTOfhFzmNqa) | [İncir Reçeli 2 \(Soundtrack\)](https://open.spotify.com/album/2pH6A5ZsYaq1b1eJSJiF8D) | 4:24 | 2025-08-28 | 2025-11-19 |
 | [GELME İSTEMEM](https://open.spotify.com/track/2X4NUYZN0ylbM41ADKYv1X) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [GELME İSTEMEM](https://open.spotify.com/album/3tZxBZL1BaJajOariJZHVF) | 3:06 | 2025-02-18 |  |
 | [Geri Dönemedim](https://open.spotify.com/track/10Sa2Mpma0EHWKLuyyrBdq) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Geri Dönemedim](https://open.spotify.com/album/2EsFEiIxSLfij6dy5vd1SC) | 2:18 | 2024-07-02 | 2025-01-23 |
 | [Geri Dönüş Olsa](https://open.spotify.com/track/1KtqOkEN42OUqs9ombxk1E) | [Murat Boz](https://open.spotify.com/artist/53oeVgECSa18dkHBQ9X6Eh) | [Aşklarım Büyük Benden](https://open.spotify.com/album/0SwcauyqVd20ht25l9ctWZ) | 3:18 | 2024-08-08 | 2025-06-05 |
+| [Geri Ver](https://open.spotify.com/track/6fCS2Zg9OKiWh51TbFFWXG) | [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [Geri Ver](https://open.spotify.com/album/5mFTXf9dPQ6cTxbt7nuHpw) | 2:49 | 2025-11-18 |  |
 | [Geçiyor Zaman](https://open.spotify.com/track/3ma4Ef3Bnl3UBOV4ShiMLX) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Geçiyor Zaman](https://open.spotify.com/album/0flBR9Gz8N0UXPplEbrP1p) | 2:38 | 2024-08-15 | 2024-12-06 |
 | [Geçsin Yıllar](https://open.spotify.com/track/5CiycCVVt7vLJyMw1MVfzS) | [Oğuzhan Koç](https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i), [Merve Özbey](https://open.spotify.com/artist/74IYRdqa9EFKMMXUIjGyxM) | [Geçsin Yıllar](https://open.spotify.com/album/5vc7GUQqWQ2zZS3CffxRmx) | 3:27 | 2025-05-28 | 2025-10-22 |
 | [git](https://open.spotify.com/track/1RwVkonL4anIGeNZo0OPp1) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [Virtüöz](https://open.spotify.com/album/2FClckZh5zvtW9vjKbc5bZ) | 2:38 | 2025-07-22 |  |

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Naura Ayu
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,483 likes - 103 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,482 likes - 103 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Lampu Jalan](https://open.spotify.com/track/0i6scCF0UEfJ6rKpXz24Ea) | [Naura Ayu](https://open.spotify.com/artist/319m3CeBHBZzYpVprhURJ2) | [Lampu Jalan](https://open.spotify.com/album/1pgpzFXxuEn2OzsFuY3bOk) | 4:49 |
 | 2 | [Tak Mau Mandiri](https://open.spotify.com/track/4PJ16pijjWai1uXKXhobsC) | [A\. Nayaka](https://open.spotify.com/artist/7pUvDeRGoUPXDN5q3i8e1n), [Gabriella Ekaputri](https://open.spotify.com/artist/73lAkOBolLeP9ZBirROJui) | [Tak Mau Mandiri](https://open.spotify.com/album/2rL1me2uFEGjgCVyinYBDV) | 3:35 |
 | 3 | [Mengejar Restu](https://open.spotify.com/track/3EpdvBbPB94mrFKeYgTYKB) | [Panji Sakti](https://open.spotify.com/artist/1zJG0BbOnVVijQXfYYibvD) | [Mengejar Restu](https://open.spotify.com/album/0ICYOvGIjUyTBqeR0PQJdI) | 5:13 |
-| 4 | [Sajak Rindu](https://open.spotify.com/track/4NivuhjN2tXk6UstgauLpS) | [Peter Holly](https://open.spotify.com/artist/6jjRl6DiuWp03YdfGGI4fb) | [Sajak Rindu](https://open.spotify.com/album/4IOXsITT4m02DPVGrMREGd) | 4:31 |
+| 4 | [Buang Mantan](https://open.spotify.com/track/4NivuhjN2tXk6UstgauLpS) | [Tenny TAP](https://open.spotify.com/artist/2mjuC8gdXeRJkfWqHkZ62P) | [Buang Mantan](https://open.spotify.com/album/4IOXsITT4m02DPVGrMREGd) | 4:07 |
 | 5 | [Maaf](https://open.spotify.com/track/7CYaLYAOr0qANvWPvahmDg) | [Novia Bachmid](https://open.spotify.com/artist/6eK6JN4xhNFMfe2QHLwrx9) | [Maaf](https://open.spotify.com/album/0jA57bBxJYweSY5Ci25bLn) | 4:30 |
 | 6 | [Ego](https://open.spotify.com/track/39B12Su7R0fIDcQPykPwkc) | [Padi](https://open.spotify.com/artist/6PL8FkAt5nOZwYpPIhuAJg) | [Ego](https://open.spotify.com/album/1R9tlrCSbbO1rUmQZ1a8r6) | 5:24 |
 | 7 | [Siluet](https://open.spotify.com/track/5Drvm8LmCBocO3Ha6SaNES) | [Natania Karin](https://open.spotify.com/artist/4HtAIvJXDROCWO5Bb9dL9d) | [Siluet](https://open.spotify.com/album/2cyFkEIoyQcNcVYACeJb3r) | 5:22 |

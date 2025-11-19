@@ -1,12 +1,12 @@
 {
   "description": "This is GloRilla. The essential tracks, all in one playlist.",
-  "num_followers": 42169,
+  "num_followers": 42177,
   "original_name": "This Is GloRilla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRkUAAAAAADLKd6cP7PFnGE9r1WOT7cW",
+  "snapshot_id": "aRplgAAAAADQrg5cEsqTQTuWLE1dYRUU",
   "tracks": [
     {
       "added_at": null,
@@ -79,38 +79,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ehhthang Ehhthang",
-        "url": "https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 142702,
-      "name": "Yeah Glo!",
-      "url": "https://open.spotify.com/track/5A8xI7PN4WDe9e61xEdt94"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Typa",
-        "url": "https://open.spotify.com/album/296t8NLKxtLZ8jBOa0eGSY"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 124137,
-      "name": "Typa",
-      "url": "https://open.spotify.com/track/08L2vgqPpiLt7PpwMHbbk1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Finally Over It",
         "url": "https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx"
       },
@@ -139,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GLORIOUS",
-        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "TGIF",
-      "url": "https://open.spotify.com/track/31TVho4kOuAeRmLYGIEuWn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ehhthang Ehhthang",
         "url": "https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI"
       },
@@ -175,6 +127,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Typa",
+        "url": "https://open.spotify.com/album/296t8NLKxtLZ8jBOa0eGSY"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 124137,
+      "name": "Typa",
+      "url": "https://open.spotify.com/track/08L2vgqPpiLt7PpwMHbbk1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GLORIOUS",
+        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "TGIF",
+      "url": "https://open.spotify.com/track/31TVho4kOuAeRmLYGIEuWn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Anyways, Life\u2019s Great\u2026",
         "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 209811,
       "name": "Tomorrow 2 (with Cardi B)",
       "url": "https://open.spotify.com/track/0WNfQxDGaPTl0yogcMR5v1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ehhthang Ehhthang",
+        "url": "https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 142702,
+      "name": "Yeah Glo!",
+      "url": "https://open.spotify.com/track/5A8xI7PN4WDe9e61xEdt94"
     },
     {
       "added_at": null,

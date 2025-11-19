@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 
 > Uplifting and happy jazz christmas classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,841 likes - 70 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,174 likes - 70 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 | 27 | [The Christmas Song \- Cheery & Bright](https://open.spotify.com/track/0hode0HJru0rWthIlCLSUK) | [Elysia Biro](https://open.spotify.com/artist/1Hf13BeholAGi7Ontz4P5L) | [The Christmas Song](https://open.spotify.com/album/1nHulRk2NK7CFmJ4SZCH6I) | 2:47 |
 | 28 | [I've Got My Love To Keep Me Warm](https://open.spotify.com/track/0Ffhk7o19DQC3eU4nPxiJe) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Louis Wishes You a Cool Yule](https://open.spotify.com/album/2KquMleTyS3Ykm7440PjL6) | 3:11 |
 | 29 | [Winter Wonderland](https://open.spotify.com/track/3Z5g0II4PtIdyhLLSRXERg) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU) | [Winter Wonderland](https://open.spotify.com/album/1fJInYY8L0zWFIIzpoeVgx) | 2:58 |
-| 30 | [Boogie Woogie Santa Claus](https://open.spotify.com/track/03MYXczT3SF2QYCdZYVUpJ) | [Lionel Hampton](https://open.spotify.com/artist/2PjgZkwAEk7UTin4jP6HLP), [Sonny Parker](https://open.spotify.com/artist/70RwoGWutTm2ztdpEBmwdv) | [Merry Christmas](https://open.spotify.com/album/4v2byuh7XMZGBrYjH3XnBx) | 2:42 |
-| 31 | [Christmas Time Is Here \- Christmas Cards from David Hazeltine](https://open.spotify.com/track/2iquYk6RNrlZU4GiSLeA3G) | [David Hazletine](https://open.spotify.com/artist/2K0HazMlUFL8D5haDZEv0u) | [Christmas Time Is Here \(Christmas Cards from David Hazeltine\)](https://open.spotify.com/album/4zUEyVPEHFANqmnvUyB1LB) | 5:56 |
+| 30 | [Christmas Time Is Here \- Christmas Cards from David Hazeltine](https://open.spotify.com/track/2iquYk6RNrlZU4GiSLeA3G) | [David Hazletine](https://open.spotify.com/artist/2K0HazMlUFL8D5haDZEv0u) | [Christmas Time Is Here \(Christmas Cards from David Hazeltine\)](https://open.spotify.com/album/4zUEyVPEHFANqmnvUyB1LB) | 5:56 |
+| 31 | [Boogie Woogie Santa Claus](https://open.spotify.com/track/03MYXczT3SF2QYCdZYVUpJ) | [Lionel Hampton](https://open.spotify.com/artist/2PjgZkwAEk7UTin4jP6HLP), [Sonny Parker](https://open.spotify.com/artist/70RwoGWutTm2ztdpEBmwdv) | [Merry Christmas](https://open.spotify.com/album/4v2byuh7XMZGBrYjH3XnBx) | 2:42 |
 | 32 | [Sleigh Ride](https://open.spotify.com/track/7ijbpqdujMMMbyV3sl6yIQ) | [Seth MacFarlane](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW), [Liz Gillies](https://open.spotify.com/artist/7pLntWGInZPQxc4kXxzzjB) | [Sleigh Ride](https://open.spotify.com/album/4AAqIoIry72zXyaCm9vm9u) | 3:18 |
 | 33 | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/79Vow814grawUCdrBlYZbs) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella & Louis Christmas](https://open.spotify.com/album/4Stxbm7asfnEVduhRpWpzl) | 2:44 |
 | 34 | [What a Night!](https://open.spotify.com/track/0e8bZUPEAGoWjsys4SapXu) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [What A Night! A Christmas Album](https://open.spotify.com/album/4ZD2z6ZVjiaeZolP8MXgvK) | 3:23 |

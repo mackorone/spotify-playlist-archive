@@ -1,6 +1,6 @@
 {
   "description": "Una noche en el Patio con Daniela, Lupita, Dulce y Yuri \ud83c\udf78",
-  "num_followers": 955273,
+  "num_followers": 955294,
   "original_name": "Modo Mentiras",
   "owner": {
     "name": "Spotify",
@@ -591,6 +591,22 @@
     {
       "added_at": "2025-06-20 20:01:19",
       "album": {
+        "name": "Pensamientos",
+        "url": "https://open.spotify.com/album/48zTdk2DxqybNPEJfL6Mnl"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 312360,
+      "name": "Yo No S\u00e9 Qu\u00e9 Me Pas\u00f3",
+      "url": "https://open.spotify.com/track/2xapNXFHl2ZE81MEIqZlrA"
+    },
+    {
+      "added_at": "2025-06-20 20:01:19",
+      "album": {
         "name": "La mujer que bota fuego (feat. Natalia Jim\u00e9nez)",
         "url": "https://open.spotify.com/album/78LoJthaoIuMaRNZGduMdh"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 244262,
       "name": "La mujer que bota fuego (feat. Natalia Jim\u00e9nez)",
       "url": "https://open.spotify.com/track/6w6EINTodc8j0TWtrWHdm2"
-    },
-    {
-      "added_at": "2025-06-20 20:01:19",
-      "album": {
-        "name": "Pensamientos",
-        "url": "https://open.spotify.com/album/48zTdk2DxqybNPEJfL6Mnl"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 312360,
-      "name": "Yo No S\u00e9 Qu\u00e9 Me Pas\u00f3",
-      "url": "https://open.spotify.com/track/2xapNXFHl2ZE81MEIqZlrA"
     },
     {
       "added_at": "2025-06-20 20:01:19",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2025-06-20 20:01:19",
       "album": {
-        "name": "Ya No Pienso en Ti (Spotify Singles)",
-        "url": "https://open.spotify.com/album/1Hi1oyOSYXYCmNDtoW6SzA"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 187350,
-      "name": "Ya No Pienso en Ti - Spotify Singles",
-      "url": "https://open.spotify.com/track/0MlstFQR7Ak6k60xelYcz8"
-    },
-    {
-      "added_at": "2025-06-20 20:01:19",
-      "album": {
         "name": "Recuerdos",
         "url": "https://open.spotify.com/album/1m9I3KWRnaqOTGqptc1gT2"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 257466,
       "name": "El Noa Noa",
       "url": "https://open.spotify.com/track/2Bbvlv1uslztpJbGgEsckH"
+    },
+    {
+      "added_at": "2025-06-20 20:01:19",
+      "album": {
+        "name": "Ya No Pienso en Ti (Spotify Singles)",
+        "url": "https://open.spotify.com/album/1Hi1oyOSYXYCmNDtoW6SzA"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 187350,
+      "name": "Ya No Pienso en Ti - Spotify Singles",
+      "url": "https://open.spotify.com/track/0MlstFQR7Ak6k60xelYcz8"
     },
     {
       "added_at": "2025-06-20 20:01:19",

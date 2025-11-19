@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 
 > Nostalgic <a href="spotify:genre:edm\_dance">dance</a> festival favorites from the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,667 likes - 125 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,694 likes - 125 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,8 +127,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 | 117 | [Booyah](https://open.spotify.com/track/30BBwDTjwHQf1ixFGaE2o2) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [We Are Loud](https://open.spotify.com/artist/2INDI0xc49oGYTZC7fBZjX), [Sonny Wilson](https://open.spotify.com/artist/3gTl4XARdQR2Sy59osG0Ia) | [Booyah](https://open.spotify.com/album/5VlVcVoGT5g1F8t1VUAef8) | 5:11 |
 | 118 | [Crash 2.0](https://open.spotify.com/track/3NAGKEkJN7cUTaIYqFnF8l) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [DallasK](https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW) | [Red // Blue](https://open.spotify.com/album/45hTiiH7JpJx1P5TN6iDDG) | 4:14 |
 | 119 | [Apollo \- Radio Edit](https://open.spotify.com/track/5v54ZQ0glzbB9XUPTaX0cj) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Amba Shepherd](https://open.spotify.com/artist/4RTCIP5yp2tL1AtBCq7ukj) | [Apollo](https://open.spotify.com/album/4ajH0rrtQDiVCY3wKFei55) | 3:29 |
-| 120 | [Beam Me Up \- Radio Edit](https://open.spotify.com/track/64y85LeHY8Z6OlTOM9cpKD) | [CAZZETTE](https://open.spotify.com/artist/1IELhvOMg5VQlU7syRm6CS) | [Eject](https://open.spotify.com/album/5cYW3ILGflf28W2vkkCvgs) | 3:23 |
-| 121 | [Higher Ground](https://open.spotify.com/track/0Js9hB2I66nJliPIJxzn2R) | [TNGHT](https://open.spotify.com/artist/40jiZfvsiAi1aIarh5Z3d3) | [TNGHT](https://open.spotify.com/album/4e0s9NinQo02X4exDDmW65) | 3:19 |
+| 120 | [Higher Ground](https://open.spotify.com/track/0Js9hB2I66nJliPIJxzn2R) | [TNGHT](https://open.spotify.com/artist/40jiZfvsiAi1aIarh5Z3d3) | [TNGHT](https://open.spotify.com/album/4e0s9NinQo02X4exDDmW65) | 3:19 |
+| 121 | [Beam Me Up \- Radio Edit](https://open.spotify.com/track/64y85LeHY8Z6OlTOM9cpKD) | [CAZZETTE](https://open.spotify.com/artist/1IELhvOMg5VQlU7syRm6CS) | [Eject](https://open.spotify.com/album/5cYW3ILGflf28W2vkkCvgs) | 3:23 |
 | 122 | [Revolution \(feat\. Faustix, Imanos & Kai\)](https://open.spotify.com/track/5zG4pMcM2QILFOFL3Y3ZMf) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd), [Imanos](https://open.spotify.com/artist/26fsavNxrXVdRK7wL3jZKb), [kai](https://open.spotify.com/artist/6xHUXzrfhFgnIv86EBR3Ml) | [Revolution](https://open.spotify.com/album/5M0Jehr5jJAwdd23KwvayA) | 4:23 |
 | 123 | [Watch Out For This \(Bumaye\)](https://open.spotify.com/track/3j9o0zUoyGNXkijNSyRyBI) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [The Flexican](https://open.spotify.com/artist/5Z3k52rtOTnOnvFHoKNHEN), [FS Green](https://open.spotify.com/artist/2xjVYIMLS3nR5Y1UOr02Vb) | [Free The Universe \(Extended Version\)](https://open.spotify.com/album/6Ax8Neb7dEif3KUlJwj2P8) | 4:29 |
 | 124 | [Pressure \- Alesso Radio Edit](https://open.spotify.com/track/4ZJjf1jKxiHTcBnF7K6TLW) | [Nadia Ali](https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5), [Starkillers](https://open.spotify.com/artist/6gJE2UbjRlQBb0dFmMQTm0), [Alex Kenji](https://open.spotify.com/artist/57emG0pZhSfbfskupwZ4Bu), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [Pressure \(Alesso Radio Edit\)](https://open.spotify.com/album/1TpzXbZdjk34I5i3LnrUjp) | 3:02 |

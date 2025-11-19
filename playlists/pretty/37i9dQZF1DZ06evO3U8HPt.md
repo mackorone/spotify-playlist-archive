@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3U8HPt.md) - [plain]
 
 > This is Ella Langley\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,470 likes - 30 songs - 1 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,561 likes - 30 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3U8HPt.md) - [plain]
 | 29 | [Hey Ma I Made It](https://open.spotify.com/track/0mmneggTzBRWdiiXyTbpDF) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Hey Ma I Made It](https://open.spotify.com/album/5Pr7NCTji1hzZxQttXNiqb) | 3:30 |
 | 30 | [Buzzes Like Neon](https://open.spotify.com/track/6Tj35xx9Rmb13ybnVh0OLk) | [Adam Hood](https://open.spotify.com/artist/4oqOpULfSzd2BRoBT4aTXk), [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Buzzes Like Neon](https://open.spotify.com/album/0Nrc4EuEY9c7XDHOaXCx23) | 3:28 |
 
-Snapshot ID: `aRkUAAAAAAAZfLPrKaf2QpreN8WF5fYF`
+Snapshot ID: `aRplgAAAAADTcIOqLKmwnAPAQxfdJZmx`

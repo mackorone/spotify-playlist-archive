@@ -6793,6 +6793,24 @@
     },
     {
       "album": {
+        "name": "Rest Easy",
+        "url": "https://open.spotify.com/album/3AKzDK0hhKvBpIpKEZxT38"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167400,
+      "name": "Rest Easy",
+      "url": "https://open.spotify.com/track/5J5mQKqZVxMDKZ3xPKgABa"
+    },
+    {
+      "album": {
         "name": "Rice",
         "url": "https://open.spotify.com/album/2ZoSfYlgiJWrGs1Uacr8hZ"
       },

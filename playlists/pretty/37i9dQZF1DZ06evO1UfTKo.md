@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UfTKo.md) - [plain]
 
 > This is Los Tigres Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 758,899 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 758,950 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Prisión De Amor](https://open.spotify.com/track/3Lpg4XUPBhscufuiSCNd30) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Herencia De Familia](https://open.spotify.com/album/4C43fkuo6G7FdEm6xhq8cV) | 3:08 |
 | 2 | [Ni Parientes Somos](https://open.spotify.com/track/2ANeBRTHe6N0dq7dz7CaVJ) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Mi Buena Suerte](https://open.spotify.com/album/3Ucu7Yp0cBJvikdVn5qsUA) | 2:38 |
 | 3 | [La Banda Del Carro Rojo](https://open.spotify.com/track/6WDwbOSL8PGwokjxxZ7FDG) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [La Banda Del Carro Rojo](https://open.spotify.com/album/7fetk69EbFu3iKqjhrKJdA) | 3:06 |
-| 4 | [Directo Al Corazón](https://open.spotify.com/track/325noBSyeuRHcIzHO6s3ks) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Directo Al Corazon](https://open.spotify.com/album/5U0b7CBxQ6n6KDKseRGmGN) | 3:26 |
-| 5 | [La Mesa Del Rincón](https://open.spotify.com/track/1FrXO0TFnw6g0ygHxhiZ3p) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Los Dos Plebes](https://open.spotify.com/album/2cIEIezxCUx2ifez04CwCK) | 3:23 |
+| 4 | [La Mesa Del Rincón](https://open.spotify.com/track/1FrXO0TFnw6g0ygHxhiZ3p) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Los Dos Plebes](https://open.spotify.com/album/2cIEIezxCUx2ifez04CwCK) | 3:23 |
+| 5 | [Directo Al Corazón](https://open.spotify.com/track/325noBSyeuRHcIzHO6s3ks) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Directo Al Corazon](https://open.spotify.com/album/5U0b7CBxQ6n6KDKseRGmGN) | 3:26 |
 | 6 | [La Camioneta Gris](https://open.spotify.com/track/7e9vWIQWNE6r74PBC7ixdS) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Corridos Prohibidos](https://open.spotify.com/album/6ur3OZ3UXA4Y4IgLpMW5Rw) | 3:15 |
 | 7 | [Tumba Falsa](https://open.spotify.com/track/4sGWDW0VBuCcQnh8pC3ABK) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [La Garra De...](https://open.spotify.com/album/36X48S9LwuT4hOF9igko7Y) | 2:46 |
 | 8 | [Mi Buena Suerte](https://open.spotify.com/track/1LD1RC3P9a1nYkxJ621M17) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Mi Buena Suerte](https://open.spotify.com/album/3Ucu7Yp0cBJvikdVn5qsUA) | 3:09 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UfTKo.md) - [plain]
 | 26 | [¿En Dónde Estabas?](https://open.spotify.com/track/4yZQMrO8OJ8oj9HZqUZ3QN) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [La Reunión \(Deluxe\)](https://open.spotify.com/album/3yIX4FmlUxf2E1UK2fURll) | 2:56 |
 | 27 | [En Qué Fallé](https://open.spotify.com/track/6WNbVxTXPzhitXRUlu3Xqn) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [La Reina Del Sur](https://open.spotify.com/album/3P4hm57jwhpDaO7WZI2RsC) | 3:49 |
 | 28 | [Jefe De Jefes](https://open.spotify.com/track/3TxGNwiGxgE42MqqWAdmDg) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Herencia Musical 20 Corridos Inolvidables](https://open.spotify.com/album/5HHesQPquZcoecO60eTNBT) | 3:33 |
-| 29 | [La Fuga Del Rojo](https://open.spotify.com/track/0V0YkCQBSXaStCEDQttZgy) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Un Dia A La Vez](https://open.spotify.com/album/7dNBtrYe7XJMTTjuTtWp1U) | 3:12 |
-| 30 | [La Jaula De Oro](https://open.spotify.com/track/0Ui4HOFj8qhdh2nm1lJ074) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Jaula De Oro](https://open.spotify.com/album/4xfHI8aqhWroOghjZ7NqkO) | 2:42 |
+| 29 | [La Jaula De Oro](https://open.spotify.com/track/0Ui4HOFj8qhdh2nm1lJ074) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Jaula De Oro](https://open.spotify.com/album/4xfHI8aqhWroOghjZ7NqkO) | 2:42 |
+| 30 | [La Fuga Del Rojo](https://open.spotify.com/track/0V0YkCQBSXaStCEDQttZgy) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Un Dia A La Vez](https://open.spotify.com/album/7dNBtrYe7XJMTTjuTtWp1U) | 3:12 |
 | 31 | [Si No Me Falla El Corazón](https://open.spotify.com/track/0SGdWCUiPeb2Q9sqBoJzGc) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Los Dos Plebes](https://open.spotify.com/album/2cIEIezxCUx2ifez04CwCK) | 3:03 |
 | 32 | [Lágrimas \(Lágrimas Del Corazón\)](https://open.spotify.com/track/23e2dSwQiAAOkV2KfjuIFj) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Herencia De Familia](https://open.spotify.com/album/4C43fkuo6G7FdEm6xhq8cV) | 4:00 |
 | 33 | [Apenas Te Fuistes Ayer](https://open.spotify.com/track/6V79WQFVLdiCLrlsYpdQTV) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Mi Buena Suerte](https://open.spotify.com/album/3Ucu7Yp0cBJvikdVn5qsUA) | 2:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UfTKo.md) - [plain]
 | 49 | [El Tahur](https://open.spotify.com/track/3u3SygqvXONhWDnajeI2kH) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [El Tahur](https://open.spotify.com/album/1FAPxcTXS6hsQGJn9rdOOo) | 3:36 |
 | 50 | [Unidos Para Siempre](https://open.spotify.com/track/5QvJgyPxDHf8V2khZ0jTNJ) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Unidos Para Siempre](https://open.spotify.com/album/1ijDZGR3S97X5vFpQce9iy) | 3:14 |
 
-Snapshot ID: `aRkUAAAAAABwG8FOHUGYdtwELQevtlfL`
+Snapshot ID: `aRplgAAAAACHt3rmwMTy+rbz1MfvF5Nq`

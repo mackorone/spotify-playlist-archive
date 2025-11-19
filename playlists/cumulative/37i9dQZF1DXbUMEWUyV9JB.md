@@ -4,11 +4,12 @@
 
 > ¡Muévete al ritmo de las Cumbias! <br/>Cover: Estevie
 
-436 songs - 1 day 1 hr 46 min
+437 songs - 1 day 1 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Entre Paréntesis\)](https://open.spotify.com/track/68viiGZoRbLCjsy5xD4VrU) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 2:48 | 2024-05-03 |  |
+| [/Nachica](https://open.spotify.com/track/4cU0wBWkkczqC9WwU8ki1d) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [DELIRIUM](https://open.spotify.com/album/0xTFLxAqGha7RPtlHkDqm6) | 3:22 | 2025-11-18 |  |
 | [17 Años](https://open.spotify.com/track/1Y372uxsCkKqNclj2ercap) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Una Lluvia De Rosas](https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv) | 3:01 | 2023-05-01 | 2024-05-03 |
 | [20 Rosas](https://open.spotify.com/track/5zOWyxUVE0i9Ziwm6cE7aF) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Una Lluvia De Rosas](https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv) | 3:14 | 2023-05-01 | 2024-04-19 |
 | [24/7](https://open.spotify.com/track/02hdaX3rWzdjZL6uqBZNhG) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [24/7](https://open.spotify.com/album/352LrVMlDficyblK9e7Olr) | 3:30 | 2024-05-03 |  |
@@ -89,7 +90,7 @@
 | [Cumbia Buena](https://open.spotify.com/track/74pSi4Ukm4geJABToCxGgr) | [Grupo la Cumbia](https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s) | [Cumbia Buena](https://open.spotify.com/album/2hKZd4cGeRpBrO8R8YegAB) | 3:33 | 2023-05-01 |  |
 | [Cumbia Con La Luna](https://open.spotify.com/track/0mgTAs7MVas9SyGNQeKFJp) | [Control](https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx) | [Cumbias Sin Control](https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX) | 3:35 | 2023-05-01 | 2024-05-03 |
 | [Cumbia De La Cobra](https://open.spotify.com/track/68uupqD2ijA27hJxtvnsLH) | [Fito Olivares y Su Grupo](https://open.spotify.com/artist/3zzeZVLuOeetfimOd4k8rE) | [Zoológico Tropical](https://open.spotify.com/album/6hBgzQxYRILZimkK7vTIDN) | 3:18 | 2022-01-14 | 2023-05-02 |
-| [Cumbia de los Pobres](https://open.spotify.com/track/4IZX9MfsGtRDLtRoIedm8Z) | [Joe Rodriguez Y Su Grupo Latino](https://open.spotify.com/artist/1zOOgnJnnxgZh6PzvsnlUU) | [El Disco de Oro para Equipos de Sonido, Vol 1](https://open.spotify.com/album/507MCqVlAqYU3vMxDqT5YT) | 3:19 | 2024-05-03 |  |
+| [Cumbia de los Pobres](https://open.spotify.com/track/4IZX9MfsGtRDLtRoIedm8Z) | [Joe Rodriguez Y Su Grupo Latino](https://open.spotify.com/artist/1zOOgnJnnxgZh6PzvsnlUU) | [El Disco de Oro para Equipos de Sonido, Vol 1](https://open.spotify.com/album/507MCqVlAqYU3vMxDqT5YT) | 3:19 | 2024-05-03 | 2025-11-19 |
 | [Cumbia de Marisol](https://open.spotify.com/track/3S03VuRu7nAkPHisVB87ma) | [Supergrupo Son Tepito](https://open.spotify.com/artist/2OsVjQ6haJx589IpLmpYBp) | [Cumbia de Marisol](https://open.spotify.com/album/61sd5yEb8gDv6Ey9vHi0nE) | 4:13 | 2024-05-03 |  |
 | [Cumbia Del Chinito](https://open.spotify.com/track/761FhLirwe3hFnJKgHUN8y) | [Super Grupo Colombia](https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi) | [Super Grupo Colombia](https://open.spotify.com/album/16b1llxcevVntDsf1HLbtK) | 4:12 | 2023-05-01 | 2024-05-03 |
 | [Cumbia Del Clavi](https://open.spotify.com/track/7H5t2fboweenWJMXeNGRVu) | [Los Morales](https://open.spotify.com/artist/6ApQFyQipz7e35stMrNG4h), [El Clavijas](https://open.spotify.com/artist/10t2ZueXTVRNzyjd7tOXTQ) | [Cumbia Del Clavi](https://open.spotify.com/album/4ICPECk52pvNK0J0nvVPYY) | 2:49 | 2024-05-03 | 2024-11-23 |

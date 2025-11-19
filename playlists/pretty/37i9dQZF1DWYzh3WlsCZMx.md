@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzh3WlsCZMx.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://open.spotify.com/playlist/5FWhibjoWhSsyfQveXzmRv?si=0a61027ee6a34d36">HBO's Rap Sh!t</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,122 likes - 48 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,129 likes - 48 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzh3WlsCZMx.md) - [plain]
 | 36 | [Blow a Check](https://open.spotify.com/track/3IKaK0z2lNVzX6gBH2ReDw) | [Zoey Dollaz](https://open.spotify.com/artist/39Uhf21aJFjMLus1j0YGT8) | [Who Don't Like Dollaz](https://open.spotify.com/album/23uhkVlRY5xibU4tWEYaxQ) | 3:13 |
 | 37 | [Star Dust](https://open.spotify.com/track/7GlMHZc2cXup1pqPDQ90nR) | [Twelve'len](https://open.spotify.com/artist/0G57ms4DD5dn6wXwuFOLdO) | [Friends](https://open.spotify.com/album/5MnMSLhvO7B49anDnzQUwO) | 3:04 |
 | 38 | [The Ave in You](https://open.spotify.com/track/3AIx2mvrJJuCaea9ImEkr1) | [Clairmont The Second](https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7) | [Lil Mont from The Ave](https://open.spotify.com/album/1cZLwwMVQDCEOErLWjJD6X) | 2:56 |
-| 39 | [Drip](https://open.spotify.com/track/4i9cDBfSVF9r9X0jGNmNoj) | [Kiddo Marv](https://open.spotify.com/artist/6HOYSQk7Npiuuy5KDdJQ3o), [Major Nine](https://open.spotify.com/artist/4Ve9PxCRMHIcErb2b6rpLu) | [Drip](https://open.spotify.com/album/28gUzgrYJ8VKt5dMPUomad) | 3:13 |
-| 40 | [Hood Baby](https://open.spotify.com/track/5Elw813HnizJdMcnGAvVUK) | [Hood Brat](https://open.spotify.com/artist/6lXxD7jB6A4GBp8FIj4Drd) | [Hood Baby](https://open.spotify.com/album/3epVF8JDjLOAbMbWXL2SdO) | 2:40 |
+| 39 | [Hood Baby](https://open.spotify.com/track/5Elw813HnizJdMcnGAvVUK) | [Hood Brat](https://open.spotify.com/artist/6lXxD7jB6A4GBp8FIj4Drd) | [Hood Baby](https://open.spotify.com/album/3epVF8JDjLOAbMbWXL2SdO) | 2:40 |
+| 40 | [Drip](https://open.spotify.com/track/4i9cDBfSVF9r9X0jGNmNoj) | [Kiddo Marv](https://open.spotify.com/artist/6HOYSQk7Npiuuy5KDdJQ3o), [Major Nine](https://open.spotify.com/artist/4Ve9PxCRMHIcErb2b6rpLu) | [Drip](https://open.spotify.com/album/28gUzgrYJ8VKt5dMPUomad) | 3:13 |
 | 41 | [FRIENDS](https://open.spotify.com/track/28meAZD8uiVdp2sNcK8Ahl) | [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [ALIEN](https://open.spotify.com/album/6To6T5lr8PLhCQ8ik3vPdv) | 3:25 |
 | 42 | [Hoodrat \(feat\. AzSwaye & Pjay\)](https://open.spotify.com/track/0YrYVhq0EukTxojdqLh2Sj) | [Rucci](https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA), [AZ Chike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw), [Boosie Badazz](https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg), [AzSwaye](https://open.spotify.com/artist/5tg5JDw7tQiZdJCShs9rk9), [Pjay](https://open.spotify.com/artist/6rB1jv0emRIkbLluXskjt9) | [Hoodrat \(feat\. AzSwaye & Pjay\)](https://open.spotify.com/album/4aBeGq3hlU2z7c6EvKjHpc) | 2:36 |
 | 43 | [212](https://open.spotify.com/track/16EMONl2vH3rt9f4ehTG8g) | [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I), [Lazy Jay](https://open.spotify.com/artist/4vUAD0POkGvO6J9c9hv6qR) | [Broke with Expensive Taste](https://open.spotify.com/album/6ptPMZzScoFqSVfzph6m9B) | 3:24 |

@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs in Latin America in 2015. Cover: Nicky Jam\n",
-  "num_followers": 65348,
+  "num_followers": 65398,
   "original_name": "Latin Hits 2015",
   "owner": {
     "name": "Spotify",
@@ -20,7 +20,7 @@
           "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 207306,
+      "duration_ms": 207296,
       "name": "Borro Cassette",
       "url": "https://open.spotify.com/track/6DUdDIRgLqCGq1DwkNWQTN"
     },
@@ -68,7 +68,7 @@
           "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
         }
       ],
-      "duration_ms": 240093,
+      "duration_ms": 240092,
       "name": "Encantadora",
       "url": "https://open.spotify.com/track/7LABrQFfRYcZUqUwng0Heb"
     },
@@ -104,7 +104,7 @@
           "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 206693,
+      "duration_ms": 207168,
       "name": "El Perdedor",
       "url": "https://open.spotify.com/track/1iEwyiSLAunPR6uouANE0O"
     },
@@ -140,7 +140,7 @@
           "url": "https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC"
         }
       ],
-      "duration_ms": 197840,
+      "duration_ms": 197852,
       "name": "Chillax (feat. Ky-Mani Marley)",
       "url": "https://open.spotify.com/track/1lxswgIpzV6HhENRvkflES"
     },
@@ -160,7 +160,7 @@
           "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         }
       ],
-      "duration_ms": 203160,
+      "duration_ms": 203049,
       "name": "La Gozadera (feat. Marc Anthony)",
       "url": "https://open.spotify.com/track/0OMRAvrtLWE2TvcXorRiB9"
     },
@@ -260,7 +260,7 @@
           "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 221053,
+      "duration_ms": 221616,
       "name": "Sin Contrato",
       "url": "https://open.spotify.com/track/3yHJs5NmQk2ROAWCfjniXV"
     },
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-07-13 01:09:02",
       "album": {
-        "name": "Dangerous",
-        "url": "https://open.spotify.com/album/2zD0vIQjiaFbumnbjWC6WY"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 241560,
-      "name": "Nunca Me Olvides",
-      "url": "https://open.spotify.com/track/27ebni0DfbT5Owz6W42HP8"
-    },
-    {
-      "added_at": "2024-07-13 01:09:02",
-      "album": {
         "name": "Si Te Dejas Llevar (feat. Juanka)",
         "url": "https://open.spotify.com/album/4ZBRYtgXi7vaLMQDW53WUY"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 227996,
       "name": "Si Te Dejas Llevar",
       "url": "https://open.spotify.com/track/3cdecPxEdxk99munEMVQ01"
+    },
+    {
+      "added_at": "2024-07-13 01:09:02",
+      "album": {
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/2zD0vIQjiaFbumnbjWC6WY"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 241551,
+      "name": "Nunca Me Olvides",
+      "url": "https://open.spotify.com/track/27ebni0DfbT5Owz6W42HP8"
     },
     {
       "added_at": "2024-07-13 01:09:02",
@@ -403,22 +403,6 @@
     {
       "added_at": "2024-07-13 01:09:02",
       "album": {
-        "name": "Odisea",
-        "url": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 226106,
-      "name": "Si No Te Quiere",
-      "url": "https://open.spotify.com/track/5BHd0eLqg3c58QwyohoYga"
-    },
-    {
-      "added_at": "2024-07-13 01:09:02",
-      "album": {
         "name": "S\u00edgueme Y Te Sigo",
         "url": "https://open.spotify.com/album/0hi7qqQbGUV5Vm6OtUlE1J"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 209786,
       "name": "S\u00edgueme Y Te Sigo",
       "url": "https://open.spotify.com/track/7F7kL3i6SDEIbDcoJZGiig"
+    },
+    {
+      "added_at": "2024-07-13 01:09:02",
+      "album": {
+        "name": "Odisea",
+        "url": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 226106,
+      "name": "Si No Te Quiere",
+      "url": "https://open.spotify.com/track/5BHd0eLqg3c58QwyohoYga"
     },
     {
       "added_at": "2024-07-13 01:09:02",
@@ -500,7 +500,7 @@
           "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
         }
       ],
-      "duration_ms": 228280,
+      "duration_ms": 228275,
       "name": "Pretextos (feat. Cosculluela)",
       "url": "https://open.spotify.com/track/7HDOS7qOhBxmcsWTv29PSK"
     },
@@ -564,7 +564,7 @@
           "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
         }
       ],
-      "duration_ms": 211813,
+      "duration_ms": 211811,
       "name": "Obsesionado",
       "url": "https://open.spotify.com/track/5Jt4zdXTd9y1zxihiNYQI1"
     },
@@ -904,7 +904,7 @@
           "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         }
       ],
-      "duration_ms": 216320,
+      "duration_ms": 216461,
       "name": "Traidora (feat. Marc Anthony)",
       "url": "https://open.spotify.com/track/7Fl3wSxRqBljyQH8dJSz9c"
     }

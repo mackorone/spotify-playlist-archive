@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2baJMpwgH2W.md) - [plain]
 
 > Ballads from the best shows, from the West End and beyond.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,435 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,439 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2baJMpwgH2W.md) - [plain]
 | 4 | [Rewrite The Stars](https://open.spotify.com/track/65fpYBrI8o2cfrwf2US4gq) | [Zac Efron](https://open.spotify.com/artist/6U1dBXJhC8gXFjamvFTmHg), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [The Greatest Showman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7ayBZIe1FHkNv0T5xFCX6F) | 3:37 |
 | 5 | [Burn](https://open.spotify.com/track/4B3qvzOMzLQXLeYgPsG3KA) | [Phillipa Soo](https://open.spotify.com/artist/2OEGI2wrCVmvavKEOMlccy) | [Hamilton \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc) | 3:45 |
 | 6 | [The Wizard And I](https://open.spotify.com/track/4mxj6SQ7BxfQ90CBTbxcwH) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Michelle Yeoh](https://open.spotify.com/artist/5IaJcuBeBkVqhGAzxMciwu) | [Wicked: The Soundtrack](https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT) | 5:36 |
-| 7 | [I See the Light \- From "Tangled" / Soundtrack Version](https://open.spotify.com/track/6klpXs2uAjagnZMFkt4qkl) | [Mandy Moore](https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu), [Zachary Levi](https://open.spotify.com/artist/3XSyTI9ct70ZheMESAv2st) | [Tangled](https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE) | 3:44 |
-| 8 | [Tightrope](https://open.spotify.com/track/0GVuLQtPXFaL18ijEOqoAa) | [Michelle Williams](https://open.spotify.com/artist/2LAqcqAQ8KPTsl1HBgBrqM) | [The Greatest Showman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7ayBZIe1FHkNv0T5xFCX6F) | 3:54 |
+| 7 | [Tightrope](https://open.spotify.com/track/0GVuLQtPXFaL18ijEOqoAa) | [Michelle Williams](https://open.spotify.com/artist/2LAqcqAQ8KPTsl1HBgBrqM) | [The Greatest Showman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7ayBZIe1FHkNv0T5xFCX6F) | 3:54 |
+| 8 | [I See the Light \- From "Tangled" / Soundtrack Version](https://open.spotify.com/track/6klpXs2uAjagnZMFkt4qkl) | [Mandy Moore](https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu), [Zachary Levi](https://open.spotify.com/artist/3XSyTI9ct70ZheMESAv2st) | [Tangled](https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE) | 3:44 |
 | 9 | [Who Lives, Who Dies, Who Tells Your Story](https://open.spotify.com/track/7EsSVPxaYoAZjQwhspJBs2) | [Original Broadway Cast of Hamilton](https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu) | [Hamilton \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc) | 3:37 |
 | 10 | [Speechless \(Full\)](https://open.spotify.com/track/0XPsOSYzDJZJArevQNm2AR) | [Naomi Scott](https://open.spotify.com/artist/2Zi3RrdQqk63Xj0914STkS) | [Aladdin \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4WGcPCflN9FNccSu7tE9iS) | 3:28 |
 | 11 | [I’m Not That Girl](https://open.spotify.com/track/2tWioTW2rs0CXf1dTXlRrX) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Wicked: The Soundtrack](https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT) | 3:57 |

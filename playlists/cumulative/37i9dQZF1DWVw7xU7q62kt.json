@@ -6617,6 +6617,24 @@
     },
     {
       "album": {
+        "name": "Lights",
+        "url": "https://open.spotify.com/album/7z3BTqaVLEOZfcN7jTMV8k"
+      },
+      "artists": [
+        {
+          "name": "cl\u00f8se2u",
+          "url": "https://open.spotify.com/artist/4SAUbKw5T4xORiIq16XKUE"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118153,
+      "name": "Lights",
+      "url": "https://open.spotify.com/track/3UN61l5ZGaUAllaz8ZUpvV"
+    },
+    {
+      "album": {
         "name": "Likewise",
         "url": "https://open.spotify.com/album/12vFxVDE3C4zLhmqbmWtqX"
       },
@@ -13046,7 +13064,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 105600,
       "name": "Timeless Love",
       "url": "https://open.spotify.com/track/6HiuLGbL1SpX6ntPloBMr2"

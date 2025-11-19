@@ -1,6 +1,6 @@
 {
   "description": "Dale play, y que el amor no pare.",
-  "num_followers": 190826,
+  "num_followers": 190839,
   "original_name": "Enganchados: Rom\u00e1nticos",
   "owner": {
     "name": "Spotify",
@@ -735,22 +735,6 @@
     {
       "added_at": "2025-04-11 03:00:07",
       "album": {
-        "name": "La M\u00fasica No Se Toca (Deluxe)",
-        "url": "https://open.spotify.com/album/5O5LrflUeCNwNAsCQ5o0jk"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 278440,
-      "name": "No Me Compares",
-      "url": "https://open.spotify.com/track/6pZmdSXGVzlYG2FJvSOZod"
-    },
-    {
-      "added_at": "2025-04-11 03:00:07",
-      "album": {
         "name": "Mi Reflejo",
         "url": "https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 265733,
       "name": "Pero Me Acuerdo de T\u00ed",
       "url": "https://open.spotify.com/track/4B1sb2YVO03sBmyR8bvzEB"
+    },
+    {
+      "added_at": "2025-04-11 03:00:07",
+      "album": {
+        "name": "La M\u00fasica No Se Toca (Deluxe)",
+        "url": "https://open.spotify.com/album/5O5LrflUeCNwNAsCQ5o0jk"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 278440,
+      "name": "No Me Compares",
+      "url": "https://open.spotify.com/track/6pZmdSXGVzlYG2FJvSOZod"
     },
     {
       "added_at": "2025-04-11 03:00:07",
@@ -971,22 +971,6 @@
     {
       "added_at": "2025-04-11 03:00:07",
       "album": {
-        "name": "Ida y Vuelta",
-        "url": "https://open.spotify.com/album/7wbN3pVycBy58CMBN5IoiR"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Montaner",
-          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
-        }
-      ],
-      "duration_ms": 214720,
-      "name": "Aunque Ahora Est\u00e9s Con El",
-      "url": "https://open.spotify.com/track/6K3b0tQtzvvt6Ez8B34Z6z"
-    },
-    {
-      "added_at": "2025-04-11 03:00:07",
-      "album": {
         "name": "Dispuesto A Amarte",
         "url": "https://open.spotify.com/album/2TjcppxUUfwFZ7H9XAxwfw"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 209613,
       "name": "Porque Aun Te Amo",
       "url": "https://open.spotify.com/track/4xXIrj1bhJP2X0x3WhAgqp"
+    },
+    {
+      "added_at": "2025-04-11 03:00:07",
+      "album": {
+        "name": "Ida y Vuelta",
+        "url": "https://open.spotify.com/album/7wbN3pVycBy58CMBN5IoiR"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Montaner",
+          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+        }
+      ],
+      "duration_ms": 214720,
+      "name": "Aunque Ahora Est\u00e9s Con El",
+      "url": "https://open.spotify.com/track/6K3b0tQtzvvt6Ez8B34Z6z"
     },
     {
       "added_at": "2025-04-11 03:00:07",
@@ -1600,7 +1600,7 @@
           "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
         }
       ],
-      "duration_ms": 184253,
+      "duration_ms": 184133,
       "name": "Desde el Principio",
       "url": "https://open.spotify.com/track/2zQW4cVDdtx6ILz9rNdPLD"
     },

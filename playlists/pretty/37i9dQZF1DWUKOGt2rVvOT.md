@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKOGt2rVvOT.md) - [plain]
 
 > 這些華語歌還很紅也！一年了？兩年了？真的假的？高人氣金曲讓你一路聽下去！Cover: ØZI x 9m88
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,175 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,186 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKOGt2rVvOT.md) - [plain]
 | 49 | [想像我們 \- 影集《影后》插曲](https://open.spotify.com/track/6nCmq2mgPmrWEkfOdi9u0L) | [ANGIE安吉](https://open.spotify.com/artist/4FtbSiZ7Ev2pCRnowp1WIU) | [影集《影后》感情原聲帶](https://open.spotify.com/album/6PvS1cmdGlvI8bJJ4QtOJc) | 4:01 |
 | 50 | [雙重人格](https://open.spotify.com/track/6bkxoNG2cg4hjtrniCGVwB) | [王ADEN](https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV) | [雙重人格](https://open.spotify.com/album/3IwiGXP29ZHPHoP4v3ZE4E) | 3:32 |
 
-Snapshot ID: `AAAAAE4sxv4mOhpM9UFpnTlwd9AKfdo5`
+Snapshot ID: `AAAAALIGn/RapsbYhsJa5X+yx92c/n6t`

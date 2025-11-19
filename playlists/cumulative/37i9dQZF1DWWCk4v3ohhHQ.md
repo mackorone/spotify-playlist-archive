@@ -153,7 +153,7 @@
 | [Wherever I Go](https://open.spotify.com/track/46jLy47W8rkf8rEX04gMKB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Oh My My \(Deluxe\)](https://open.spotify.com/album/6p01JdkB7ry8iAf4IuC1Lv) | 2:49 | 2021-12-02 |  |
 | [Wherever I Go](https://open.spotify.com/track/7kftK4n15rl1wbpfjSq2Tk) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Oh My My](https://open.spotify.com/album/30Ni9qg2MBeeZXybsMOQ7m) | 2:49 | 2021-12-02 | 2024-04-19 |
 | [Without You](https://open.spotify.com/track/6R6ux6KaKrhAg2EIB2krdU) | [Parachute](https://open.spotify.com/artist/2PCUhxD40qlMqsKHjTZD2e) | [Wide Awake](https://open.spotify.com/album/7h5LfM6tT7v8L2gTyL3Bbz) | 3:48 | 2021-12-02 |  |
-| [Work This Body](https://open.spotify.com/track/76EeScTnI2sCjDY0SfEoSb) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [TALKING IS HARD](https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT) | 2:55 | 2021-12-02 |  |
+| [Work This Body](https://open.spotify.com/track/76EeScTnI2sCjDY0SfEoSb) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [TALKING IS HARD](https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT) | 2:57 | 2021-12-02 |  |
 | [Young Volcanoes](https://open.spotify.com/track/4yXNMbZrsFJbPTH0WfhwEB) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Save Rock And Roll](https://open.spotify.com/album/5jKMfS57mHTHzlSFGfPFxU) | 3:24 | 2021-12-02 | 2022-07-29 |
 
 \*This playlist was first scraped on 2022-04-22. Prior content cannot be recovered.

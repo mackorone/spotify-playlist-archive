@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: The Neighbourhood
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,692 likes - 98 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,695 likes - 98 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 3 | [Robot Revolution](https://open.spotify.com/track/1oFZdO313TxVIMrurGaaWa) | [Robot Swing](https://open.spotify.com/artist/75MsybpGuMiLCp76Ou0LTV) | [Override!](https://open.spotify.com/album/25tlbetikHiDQ4Qe7veV2W) | 3:47 |
 | 4 | [Holo Boy](https://open.spotify.com/track/3Xf9TsClkc9ncSplhihsEh) | [This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun) | [Holo Boy](https://open.spotify.com/album/7CXT8RYl4Hq3Rui5rRHLQw) | 3:30 |
 | 5 | [cream soda](https://open.spotify.com/track/6aT46dU2GnYnUcppE6AkbW) | [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of), [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [cream soda](https://open.spotify.com/album/4m1W4Lf2RecSoUdYwJRx3m) | 1:26 |
-| 6 | [O Mistress Mine](https://open.spotify.com/track/3KuUK0RlVSmldqiW5qjEqv) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn), [Michael Thurber](https://open.spotify.com/artist/5zdCcd7nJejwygIgvJzjhf), [Twelfth Night Cast](https://open.spotify.com/artist/2bkPJglMWAb9C2f19TpmUs) | [O Mistress Mine](https://open.spotify.com/album/1rRFmNjjwljBoaL6qs8V7k) | 2:07 |
+| 6 | [O Mistress Mine](https://open.spotify.com/track/3KuUK0RlVSmldqiW5qjEqv) | [Michael Thurber](https://open.spotify.com/artist/5zdCcd7nJejwygIgvJzjhf), [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn), [Twelfth Night Cast](https://open.spotify.com/artist/2bkPJglMWAb9C2f19TpmUs) | [O Mistress Mine](https://open.spotify.com/album/1rRFmNjjwljBoaL6qs8V7k) | 2:07 |
 | 7 | [Call It A Day](https://open.spotify.com/track/3zhnjPBOuz6cVC4te4PY7G) | [Tilly Birds](https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH) | [Call It A Day](https://open.spotify.com/album/11HIro0GtIxoeysAULtuU2) | 2:56 |
 | 8 | [Change](https://open.spotify.com/track/1fwHf7Calby2F56dBkV371) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r), [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Another Picture](https://open.spotify.com/album/4KX3JNsNm2zB2VZO7xMfvk) | 3:47 |
 | 9 | [Enemy](https://open.spotify.com/track/3nvQr4XpiZFHuG0QLzh3V8) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L) | [Enemy](https://open.spotify.com/album/3p3lmExl5r6M8ZV6kBLUl9) | 3:11 |

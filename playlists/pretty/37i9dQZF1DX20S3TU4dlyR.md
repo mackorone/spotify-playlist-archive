@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 
 > Este es el Reggae, al sur del continente americano\. Foto: Dread Mar I.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,212 likes - 89 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,240 likes - 89 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 | 50 | [Si Tú No Estás](https://open.spotify.com/track/4HtwQqBnhftAYqeiww9Rme) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd), [E.N Young](https://open.spotify.com/artist/14vjE0DKC1Y9G1WfdCSzFf) | [Si Tú No Estás](https://open.spotify.com/album/3UNLDMe86tqLPxyXz4dZHi) | 3:10 |
 | 51 | [Runaway \(En Vivo\)](https://open.spotify.com/track/2PMSOgAP1A2TYbRqGCS9ak) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [3000 Vivos \(En Vivo\)](https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1) | 4:07 |
 | 52 | [Hasta Que Me Olvides](https://open.spotify.com/track/4VzXJFzevMYeWTqSfIefJF) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Hasta Que Me Olvides](https://open.spotify.com/album/6TuUpvTRIZH0ZrysVOls2j) | 4:15 |
-| 53 | [Fiesta de zombis](https://open.spotify.com/track/3KUJQbTrxzTcDCOrZREJpc) | [Los Caballeros De La Quema](https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW) | [Fiesta de Zombis](https://open.spotify.com/album/4KwoJGzMTFm6UqiODYriCp) | 4:14 |
-| 54 | [Uma Brasileira](https://open.spotify.com/track/29D91Pr51YCpddMwXBv6MC) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN) | [Uma Brasileira](https://open.spotify.com/album/4Hyx4W2Sn1sDkzdt59D7uC) | 3:18 |
+| 53 | [Uma Brasileira](https://open.spotify.com/track/29D91Pr51YCpddMwXBv6MC) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN) | [Uma Brasileira](https://open.spotify.com/album/4Hyx4W2Sn1sDkzdt59D7uC) | 3:18 |
+| 54 | [Fiesta de zombis](https://open.spotify.com/track/3KUJQbTrxzTcDCOrZREJpc) | [Los Caballeros De La Quema](https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW) | [Fiesta de Zombis](https://open.spotify.com/album/4KwoJGzMTFm6UqiODYriCp) | 4:14 |
 | 55 | [Vale la Pena](https://open.spotify.com/track/1AWBu5AXFzNry1wZJan5so) | [Leonchalon](https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0), [Roman El Original](https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ), [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [Vale la Pena](https://open.spotify.com/album/3WRqiBrtFLAiAEkp2p3l5F) | 2:50 |
 | 56 | [Quemando Tu Pecho](https://open.spotify.com/track/5MRAyyeWEQvcsf9BdruIIY) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Carpe Diem](https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu) | 4:19 |
 | 57 | [Rastone \(En Vivo en el Teatro de Flores\)](https://open.spotify.com/track/2HQ7tr2KXASyKQJoIWtJiB) | [C4 Reggae Combativo](https://open.spotify.com/artist/2HnAud57JxR0WvtR2XviA0), [Viejas Locas](https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV) | [Rastone \(En Vivo en el Teatro de Flores\)](https://open.spotify.com/album/4kENWmOZi09OBZL5ziwi7w) | 3:30 |
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 | 85 | [De Tanto Caminar](https://open.spotify.com/track/3YYxrPjEt5r9BPWvvdYFae) | [Delfines de Etiopia](https://open.spotify.com/artist/3XhuCg7NlHiT3zafRVZdc9) | [Momento Tiempo](https://open.spotify.com/album/0ydi3g7gS5nXOfc1BHAkd1) | 4:19 |
 | 86 | [Se va la luna](https://open.spotify.com/track/4mCiEn4QyvzEzMyNdGqN3X) | [Leonchalon](https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0) | [Se va la luna](https://open.spotify.com/album/7chklGslK4E9zT744tmEy8) | 3:01 |
 | 87 | [Nadie Sabe](https://open.spotify.com/track/1OD9E9AtG0bgRgRxNNDeox) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP), [Guillermo Bonetto](https://open.spotify.com/artist/1rijasyRtILod4s1wmI78L) | [Que Bonita Vecindad](https://open.spotify.com/album/2K10aRTR266ouMt2UiGaJh) | 3:43 |
-| 88 | [Dimelo Ayer](https://open.spotify.com/track/3oLLeHt1QC4UZQR2SQ2wyc) | [Coral](https://open.spotify.com/artist/0G8H711x1d7iYx6JIhMMQq), [Cucho Parisi](https://open.spotify.com/artist/1uuzWNBMb1W3xA1eP3VGHm) | [Dimelo Ayer](https://open.spotify.com/album/3y26sdvr1EWg1hELlXHTm1) | 2:39 |
-| 89 | [El Cuento](https://open.spotify.com/track/1Qdl60UYYCVLkZbsNwSyQZ) | [12 Tribus](https://open.spotify.com/artist/7whGu0xfNiwItHQv41NXH4), [Joe Vasconcellos](https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce) | [Súbete](https://open.spotify.com/album/7g5vosPUeBXE53YHV923pU) | 4:05 |
+| 88 | [Turbulencia o Paz](https://open.spotify.com/track/7ezZxJC2I9tMPY791GcRKZ) | [MAMA GAIA](https://open.spotify.com/artist/5uvIzs93CiewRg46Q9VpCx) | [Turbulencia o Paz](https://open.spotify.com/album/49lFuZH1GlMP7jutMQ0hfi) | 3:23 |
+| 89 | [Dimelo Ayer](https://open.spotify.com/track/3oLLeHt1QC4UZQR2SQ2wyc) | [Coral](https://open.spotify.com/artist/0G8H711x1d7iYx6JIhMMQq), [Cucho Parisi](https://open.spotify.com/artist/1uuzWNBMb1W3xA1eP3VGHm) | [Dimelo Ayer](https://open.spotify.com/album/3y26sdvr1EWg1hELlXHTm1) | 2:39 |
 
 Snapshot ID: `AAAAAMk49LiRxazchh+xiTIaba/UndN5`

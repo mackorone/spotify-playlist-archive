@@ -1,12 +1,12 @@
 {
   "description": "This is Mike Bah\u00eda. The essential tracks, all in one playlist.",
-  "num_followers": 68704,
+  "num_followers": 68711,
   "original_name": "This Is Mike Bah\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRkUAAAAAACpBdv41ilYkNC6j88/FJ2k",
+  "snapshot_id": "aRplgAAAAACoLCQ7K5PYVQM7pvq3R+pq",
   "tracks": [
     {
       "added_at": null,
@@ -354,15 +354,11 @@
         {
           "name": "Mike Bah\u00eda",
           "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
         }
       ],
-      "duration_ms": 197879,
-      "name": "La L\u00e1",
-      "url": "https://open.spotify.com/track/1MYMEtHi6fmmGiDFLrBiY3"
+      "duration_ms": 183092,
+      "name": "Qu\u00e9date Aqu\u00ed",
+      "url": "https://open.spotify.com/track/3BACFM8lX32l9N6jVqxsiY"
     },
     {
       "added_at": null,
@@ -430,11 +426,15 @@
         {
           "name": "Mike Bah\u00eda",
           "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
         }
       ],
-      "duration_ms": 183092,
-      "name": "Qu\u00e9date Aqu\u00ed",
-      "url": "https://open.spotify.com/track/3BACFM8lX32l9N6jVqxsiY"
+      "duration_ms": 197879,
+      "name": "La L\u00e1",
+      "url": "https://open.spotify.com/track/1MYMEtHi6fmmGiDFLrBiY3"
     },
     {
       "added_at": null,
@@ -591,6 +591,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cali Buenaventura",
+        "url": "https://open.spotify.com/album/5DTrImST5GokeEV8iA2u2e"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        },
+        {
+          "name": "DFZM",
+          "url": "https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw"
+        }
+      ],
+      "duration_ms": 198238,
+      "name": "Cali Buenaventura",
+      "url": "https://open.spotify.com/track/0W8UQlUt6yVuPeUvGU7OdK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Contento",
         "url": "https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9"
       },
@@ -611,26 +631,6 @@
       "duration_ms": 209669,
       "name": "Ay Amor",
       "url": "https://open.spotify.com/track/0FEy5me9ZbbCVPMdPITNhi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cali Buenaventura",
-        "url": "https://open.spotify.com/album/5DTrImST5GokeEV8iA2u2e"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        },
-        {
-          "name": "DFZM",
-          "url": "https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw"
-        }
-      ],
-      "duration_ms": 198238,
-      "name": "Cali Buenaventura",
-      "url": "https://open.spotify.com/track/0W8UQlUt6yVuPeUvGU7OdK"
     },
     {
       "added_at": null,
@@ -763,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Contento",
+        "url": "https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 179501,
+      "name": "Navegando",
+      "url": "https://open.spotify.com/track/7n0vJaSOM87pMqIIQWxoIh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Contigo Hasta El Final",
         "url": "https://open.spotify.com/album/4XfWnAyKndaUkwOPahhjbn"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 168720,
       "name": "Contigo Hasta El Final",
       "url": "https://open.spotify.com/track/34Iw1vdwNttY3t9pbFA8iQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Contento",
-        "url": "https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 179501,
-      "name": "Navegando",
-      "url": "https://open.spotify.com/track/7n0vJaSOM87pMqIIQWxoIh"
     },
     {
       "added_at": null,
@@ -839,26 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si t\u00fa te vas (feat. Mike Bah\u00eda)",
-        "url": "https://open.spotify.com/album/4r5UeVObvgWb1a6L1tXonA"
-      },
-      "artists": [
-        {
-          "name": "Alex Ubago",
-          "url": "https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X"
-        },
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 182926,
-      "name": "Si t\u00fa te vas (feat. Mike Bah\u00eda)",
-      "url": "https://open.spotify.com/track/3CpQ9L1ReRdPXIhxB5TDWt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Contento",
         "url": "https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 200547,
       "name": "Ropa Interior (feat. Be\u00e9le)",
       "url": "https://open.spotify.com/track/0fuNqrwsaOVrhowxsAKvc8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Si t\u00fa te vas (feat. Mike Bah\u00eda)",
+        "url": "https://open.spotify.com/album/4r5UeVObvgWb1a6L1tXonA"
+      },
+      "artists": [
+        {
+          "name": "Alex Ubago",
+          "url": "https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X"
+        },
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 182926,
+      "name": "Si t\u00fa te vas (feat. Mike Bah\u00eda)",
+      "url": "https://open.spotify.com/track/3CpQ9L1ReRdPXIhxB5TDWt"
     },
     {
       "added_at": null,

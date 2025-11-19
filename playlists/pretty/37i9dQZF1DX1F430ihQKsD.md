@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > Une sélection 100 % chill, 100 % Montréal\. Photo: Marco Ema
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,394 likes - 96 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,398 likes - 96 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

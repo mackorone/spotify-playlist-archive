@@ -1,6 +1,6 @@
 {
   "description": "Sin ataduras, pero con amor: la medida justa de romance independiente.",
-  "num_followers": 108048,
+  "num_followers": 108042,
   "original_name": "Amor Indie",
   "owner": {
     "name": "Spotify",
@@ -283,6 +283,22 @@
     {
       "added_at": "2025-07-31 23:08:16",
       "album": {
+        "name": "Pensando en Ti",
+        "url": "https://open.spotify.com/album/0DsdrB2awxK94OuFpBl3cH"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 173206,
+      "name": "Pensando en Ti",
+      "url": "https://open.spotify.com/track/56oRryxhnnkwWbARsyBuaM"
+    },
+    {
+      "added_at": "2025-07-31 23:08:16",
+      "album": {
         "name": "Hasta Que Llegue El Verano",
         "url": "https://open.spotify.com/album/6TDE63e1LQdZ3A688Kerur"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 227375,
       "name": "Hasta Que Llegue El Verano",
       "url": "https://open.spotify.com/track/6o2txs2fVptvzLjvlhbTjH"
-    },
-    {
-      "added_at": "2025-07-31 23:08:16",
-      "album": {
-        "name": "Pensando en Ti",
-        "url": "https://open.spotify.com/album/0DsdrB2awxK94OuFpBl3cH"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 173206,
-      "name": "Pensando en Ti",
-      "url": "https://open.spotify.com/track/56oRryxhnnkwWbARsyBuaM"
     },
     {
       "added_at": "2025-07-31 23:08:16",
@@ -527,6 +527,26 @@
     {
       "added_at": "2025-07-31 23:08:16",
       "album": {
+        "name": "Cantamos en mi terraza? #2",
+        "url": "https://open.spotify.com/album/3xpuGIWdVJqCFcFSzdYHD3"
+      },
+      "artists": [
+        {
+          "name": "Jacinta",
+          "url": "https://open.spotify.com/artist/5cYpv6tLZvRfIndbiFNavB"
+        },
+        {
+          "name": "Santiago Manrique",
+          "url": "https://open.spotify.com/artist/6Ks29wN2dCdwF6oUGKHI1h"
+        }
+      ],
+      "duration_ms": 274407,
+      "name": "Tu Falta De Querer",
+      "url": "https://open.spotify.com/track/1Iaz0c3Of0zD5G0IgbWucx"
+    },
+    {
+      "added_at": "2025-07-31 23:08:16",
+      "album": {
         "name": "No Te Puedo Decir Que No",
         "url": "https://open.spotify.com/album/0s4Yzgd1fDrjq05WBFSvvp"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 203470,
       "name": "ACUERDO",
       "url": "https://open.spotify.com/track/2rn1YQ19QkhAWB9oYEb4ue"
-    },
-    {
-      "added_at": "2025-07-31 23:08:16",
-      "album": {
-        "name": "Cantamos en mi terraza? #2",
-        "url": "https://open.spotify.com/album/3xpuGIWdVJqCFcFSzdYHD3"
-      },
-      "artists": [
-        {
-          "name": "Jacinta",
-          "url": "https://open.spotify.com/artist/5cYpv6tLZvRfIndbiFNavB"
-        },
-        {
-          "name": "Santiago Manrique",
-          "url": "https://open.spotify.com/artist/6Ks29wN2dCdwF6oUGKHI1h"
-        }
-      ],
-      "duration_ms": 274407,
-      "name": "Tu Falta De Querer",
-      "url": "https://open.spotify.com/track/1Iaz0c3Of0zD5G0IgbWucx"
     },
     {
       "added_at": "2025-07-31 23:08:16",
@@ -791,22 +791,6 @@
     {
       "added_at": "2025-07-31 23:08:16",
       "album": {
-        "name": "Conexi\u00f3n de Almas",
-        "url": "https://open.spotify.com/album/2l90GlBhi3FRK5uVcOeVwQ"
-      },
-      "artists": [
-        {
-          "name": "Flor Amargo",
-          "url": "https://open.spotify.com/artist/7CcCaAFz7j2igNmrHpieIb"
-        }
-      ],
-      "duration_ms": 195483,
-      "name": "Conexi\u00f3n de Almas",
-      "url": "https://open.spotify.com/track/1FzebSiQU4NqekvmBxmGZF"
-    },
-    {
-      "added_at": "2025-07-31 23:08:16",
-      "album": {
         "name": "Enamorada",
         "url": "https://open.spotify.com/album/6OCzzBiS3G9gQg55C6iYUE"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 232947,
       "name": "Velocidad Crucero",
       "url": "https://open.spotify.com/track/3r1cIjl8iCoLYNK2XBr9zU"
+    },
+    {
+      "added_at": "2025-07-31 23:08:16",
+      "album": {
+        "name": "Conexi\u00f3n de Almas",
+        "url": "https://open.spotify.com/album/2l90GlBhi3FRK5uVcOeVwQ"
+      },
+      "artists": [
+        {
+          "name": "Flor Amargo",
+          "url": "https://open.spotify.com/artist/7CcCaAFz7j2igNmrHpieIb"
+        }
+      ],
+      "duration_ms": 195483,
+      "name": "Conexi\u00f3n de Almas",
+      "url": "https://open.spotify.com/track/1FzebSiQU4NqekvmBxmGZF"
     },
     {
       "added_at": "2025-07-31 23:08:16",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2025-07-31 23:08:16",
       "album": {
-        "name": "en diciembre (me haces falta)",
-        "url": "https://open.spotify.com/album/7abFKmEFbW6T6qNuRBiZjK"
-      },
-      "artists": [
-        {
-          "name": "gabriela arcos",
-          "url": "https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx"
-        }
-      ],
-      "duration_ms": 237261,
-      "name": "en diciembre (me haces falta)",
-      "url": "https://open.spotify.com/track/7DsWOPVbzP11T1BIHKpEUu"
-    },
-    {
-      "added_at": "2025-07-31 23:08:16",
-      "album": {
         "name": "Volver a Llorar",
         "url": "https://open.spotify.com/album/0L2mbl8kNcTqVjYw4I8CeW"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 160533,
       "name": "Volver a Llorar",
       "url": "https://open.spotify.com/track/5fH16NuT1OPJcqz4evTFXi"
+    },
+    {
+      "added_at": "2025-07-31 23:08:16",
+      "album": {
+        "name": "en diciembre (me haces falta)",
+        "url": "https://open.spotify.com/album/7abFKmEFbW6T6qNuRBiZjK"
+      },
+      "artists": [
+        {
+          "name": "gabriela arcos",
+          "url": "https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx"
+        }
+      ],
+      "duration_ms": 237261,
+      "name": "en diciembre (me haces falta)",
+      "url": "https://open.spotify.com/track/7DsWOPVbzP11T1BIHKpEUu"
     },
     {
       "added_at": "2025-07-31 23:08:16",
@@ -1207,6 +1207,38 @@
     {
       "added_at": "2025-07-31 23:08:16",
       "album": {
+        "name": "Tuna",
+        "url": "https://open.spotify.com/album/3AQZJExI7Gy0836Ot2LQnq"
+      },
+      "artists": [
+        {
+          "name": "Mora Navarro",
+          "url": "https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx"
+        }
+      ],
+      "duration_ms": 221250,
+      "name": "Tuna",
+      "url": "https://open.spotify.com/track/26RnklHNP0yoUEmbn7p2Hv"
+    },
+    {
+      "added_at": "2025-07-31 23:08:16",
+      "album": {
+        "name": "Ey",
+        "url": "https://open.spotify.com/album/4x21KaeQo6Qy6fuWBur09e"
+      },
+      "artists": [
+        {
+          "name": "Barco",
+          "url": "https://open.spotify.com/artist/18T3gHC4XCn5KyY0gxSZom"
+        }
+      ],
+      "duration_ms": 197191,
+      "name": "Ey",
+      "url": "https://open.spotify.com/track/4DS3VTwg6lQSNVgDYybM9Z"
+    },
+    {
+      "added_at": "2025-07-31 23:08:16",
+      "album": {
         "name": "\u00c9ramos lo m\u00e1s",
         "url": "https://open.spotify.com/album/7JR1aMehX24jFZ24gO0Dpg"
       },
@@ -1239,38 +1271,6 @@
       "duration_ms": 202655,
       "name": "Tequila",
       "url": "https://open.spotify.com/track/0ZyWR4rAJSZdNn1UDcm6RP"
-    },
-    {
-      "added_at": "2025-07-31 23:08:16",
-      "album": {
-        "name": "Tuna",
-        "url": "https://open.spotify.com/album/3AQZJExI7Gy0836Ot2LQnq"
-      },
-      "artists": [
-        {
-          "name": "Mora Navarro",
-          "url": "https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx"
-        }
-      ],
-      "duration_ms": 221250,
-      "name": "Tuna",
-      "url": "https://open.spotify.com/track/26RnklHNP0yoUEmbn7p2Hv"
-    },
-    {
-      "added_at": "2025-07-31 23:08:16",
-      "album": {
-        "name": "Ey",
-        "url": "https://open.spotify.com/album/4x21KaeQo6Qy6fuWBur09e"
-      },
-      "artists": [
-        {
-          "name": "Barco",
-          "url": "https://open.spotify.com/artist/18T3gHC4XCn5KyY0gxSZom"
-        }
-      ],
-      "duration_ms": 197191,
-      "name": "Ey",
-      "url": "https://open.spotify.com/track/4DS3VTwg6lQSNVgDYybM9Z"
     },
     {
       "added_at": "2025-07-31 23:08:16",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2025-07-31 23:08:16",
       "album": {
-        "name": "TODO LO QUE HICIMOS.",
-        "url": "https://open.spotify.com/album/6tK7ZnVuqJMKX8qXKwwwJK"
-      },
-      "artists": [
-        {
-          "name": "Valdes",
-          "url": "https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc"
-        }
-      ],
-      "duration_ms": 217888,
-      "name": "TODO LO QUE HICIMOS.",
-      "url": "https://open.spotify.com/track/4yREnAodtCMnXrOspdO6QR"
-    },
-    {
-      "added_at": "2025-07-31 23:08:16",
-      "album": {
         "name": "(re)definiciones",
         "url": "https://open.spotify.com/album/6Sy57CxEueZpSgLi69ea3b"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 166588,
       "name": "otr(a v)ez",
       "url": "https://open.spotify.com/track/5uvy0VMwIV3tYAw14LxDIs"
+    },
+    {
+      "added_at": "2025-07-31 23:08:16",
+      "album": {
+        "name": "TODO LO QUE HICIMOS.",
+        "url": "https://open.spotify.com/album/6tK7ZnVuqJMKX8qXKwwwJK"
+      },
+      "artists": [
+        {
+          "name": "Valdes",
+          "url": "https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc"
+        }
+      ],
+      "duration_ms": 217888,
+      "name": "TODO LO QUE HICIMOS.",
+      "url": "https://open.spotify.com/track/4yREnAodtCMnXrOspdO6QR"
     },
     {
       "added_at": "2025-07-31 23:08:16",
@@ -1463,26 +1463,6 @@
     {
       "added_at": "2025-07-31 23:08:16",
       "album": {
-        "name": "Nosotros Dos",
-        "url": "https://open.spotify.com/album/2u8lXaejQL4N9yhOeLdspj"
-      },
-      "artists": [
-        {
-          "name": "C\u00edtrico",
-          "url": "https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9"
-        },
-        {
-          "name": "Goyo Degano",
-          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
-        }
-      ],
-      "duration_ms": 246133,
-      "name": "Nosotros Dos",
-      "url": "https://open.spotify.com/track/2dX6OVcDAYCjopRIoQalKQ"
-    },
-    {
-      "added_at": "2025-07-31 23:08:16",
-      "album": {
         "name": "Escorpio",
         "url": "https://open.spotify.com/album/0S59LCu434GKMKElLFd8wO"
       },
@@ -1499,6 +1479,26 @@
       "duration_ms": 172000,
       "name": "John & Yoko",
       "url": "https://open.spotify.com/track/2vgAXpwMCMEx0WHBpKhy0a"
+    },
+    {
+      "added_at": "2025-07-31 23:08:16",
+      "album": {
+        "name": "Nosotros Dos",
+        "url": "https://open.spotify.com/album/2u8lXaejQL4N9yhOeLdspj"
+      },
+      "artists": [
+        {
+          "name": "C\u00edtrico",
+          "url": "https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9"
+        },
+        {
+          "name": "Goyo Degano",
+          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
+        }
+      ],
+      "duration_ms": 246133,
+      "name": "Nosotros Dos",
+      "url": "https://open.spotify.com/track/2dX6OVcDAYCjopRIoQalKQ"
     },
     {
       "added_at": "2025-07-31 23:08:16",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2025-07-31 23:08:16",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/56i29m64vzKcbDFnZbKd55"
-      },
-      "artists": [
-        {
-          "name": "C\u00edtrico",
-          "url": "https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9"
-        }
-      ],
-      "duration_ms": 170866,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/3TCDwk2QYxOe9oKlM81N2u"
-    },
-    {
-      "added_at": "2025-07-31 23:08:16",
-      "album": {
         "name": "Pangal",
         "url": "https://open.spotify.com/album/7Jvhy8k5mSE9hiMXCp89Lp"
       },
@@ -1591,22 +1575,18 @@
     {
       "added_at": "2025-07-31 23:08:16",
       "album": {
-        "name": "Pienso en Ti",
-        "url": "https://open.spotify.com/album/5U47V2N5iF2ata6zfvFZEN"
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/56i29m64vzKcbDFnZbKd55"
       },
       "artists": [
         {
-          "name": "pau",
-          "url": "https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3"
-        },
-        {
-          "name": "Anyi",
-          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
+          "name": "C\u00edtrico",
+          "url": "https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9"
         }
       ],
-      "duration_ms": 187505,
-      "name": "Pienso en Ti",
-      "url": "https://open.spotify.com/track/6seoRwpChU9ZP3cA2GkjsM"
+      "duration_ms": 170866,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/3TCDwk2QYxOe9oKlM81N2u"
     },
     {
       "added_at": "2025-07-31 23:08:16",
@@ -1647,6 +1627,26 @@
     {
       "added_at": "2025-07-31 23:08:16",
       "album": {
+        "name": "Pienso en Ti",
+        "url": "https://open.spotify.com/album/5U47V2N5iF2ata6zfvFZEN"
+      },
+      "artists": [
+        {
+          "name": "pau",
+          "url": "https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3"
+        },
+        {
+          "name": "Anyi",
+          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
+        }
+      ],
+      "duration_ms": 187505,
+      "name": "Pienso en Ti",
+      "url": "https://open.spotify.com/track/6seoRwpChU9ZP3cA2GkjsM"
+    },
+    {
+      "added_at": "2025-07-31 23:08:16",
+      "album": {
         "name": "duele",
         "url": "https://open.spotify.com/album/0xogsBHAhbvhZg6Qas45J6"
       },
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2025-07-31 23:08:16",
       "album": {
-        "name": "Tuami",
-        "url": "https://open.spotify.com/album/5szk65Ovv0G5VYInwORa3k"
-      },
-      "artists": [
-        {
-          "name": "Soy Emilia",
-          "url": "https://open.spotify.com/artist/09MCzRiOuz48BY0imXgFFM"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Tuami",
-      "url": "https://open.spotify.com/track/1UbSaStuc69LXMOTQhlEtS"
-    },
-    {
-      "added_at": "2025-07-31 23:08:16",
-      "album": {
         "name": "C\u00f3mo y Cu\u00e1ndo",
         "url": "https://open.spotify.com/album/3F8JTJRlLwqan1umbVh1ku"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 204273,
       "name": "C\u00f3mo y Cu\u00e1ndo",
       "url": "https://open.spotify.com/track/5p3ewseYcitkJUdhYpaSkY"
+    },
+    {
+      "added_at": "2025-07-31 23:08:16",
+      "album": {
+        "name": "Tuami",
+        "url": "https://open.spotify.com/album/5szk65Ovv0G5VYInwORa3k"
+      },
+      "artists": [
+        {
+          "name": "Soy Emilia",
+          "url": "https://open.spotify.com/artist/09MCzRiOuz48BY0imXgFFM"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Tuami",
+      "url": "https://open.spotify.com/track/1UbSaStuc69LXMOTQhlEtS"
     },
     {
       "added_at": "2025-07-31 23:08:16",

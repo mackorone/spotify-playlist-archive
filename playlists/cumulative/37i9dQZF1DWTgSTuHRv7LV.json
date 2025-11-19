@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "DELIRIUM",
+        "url": "https://open.spotify.com/album/0xTFLxAqGha7RPtlHkDqm6"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196535,
+      "name": "/Nada Es Igual",
+      "url": "https://open.spotify.com/track/0HctalxUiL8vHY2s18a5GO"
+    },
+    {
+      "album": {
         "name": "100 MILLONES",
         "url": "https://open.spotify.com/album/5nqsQ0kfgdhrN8is8FR2rP"
       },
@@ -168,7 +186,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 179541,
       "name": "250K",
       "url": "https://open.spotify.com/track/3N9oVmLefspH8zUVMLnEFd"
@@ -4476,7 +4494,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 158000,
       "name": "D\u00eda 1",
       "url": "https://open.spotify.com/track/42XTcUI03QpH6f8lwnF1Yp"
@@ -11202,6 +11220,24 @@
       "duration_ms": 170920,
       "name": "One Love",
       "url": "https://open.spotify.com/track/2SfnV0AOAn3e5id2Yg5qJz"
+    },
+    {
+      "album": {
+        "name": "Orula",
+        "url": "https://open.spotify.com/album/4KMJ1C8ZPOb1yOPx18QEoO"
+      },
+      "artists": [
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185935,
+      "name": "Orula",
+      "url": "https://open.spotify.com/track/0ejwu6GH5TeXx82YvO6XSN"
     },
     {
       "album": {

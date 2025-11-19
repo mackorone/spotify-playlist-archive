@@ -12775,6 +12775,24 @@
     },
     {
       "album": {
+        "name": "Mistakes",
+        "url": "https://open.spotify.com/album/2h5AAgM8O5lXcCKVEEOgEh"
+      },
+      "artists": [
+        {
+          "name": "ORACLE",
+          "url": "https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "Mistakes",
+      "url": "https://open.spotify.com/track/098jJf7Hk5rgvBCVwLMYFg"
+    },
+    {
+      "album": {
         "name": "Moment",
         "url": "https://open.spotify.com/album/4RZPytmLloX8b4U8MuKZT8"
       },

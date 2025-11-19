@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUh7dobVCfAj.md) - [plain]
 
 > Sing\-along favorites\. Cover: Billy Joel
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,172 likes - 70 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,218 likes - 70 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,11 +60,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUh7dobVCfAj.md) - [plain]
 | 50 | [Doctor My Eyes](https://open.spotify.com/track/3QcuZo6WLcFkqqLmDs0d95) | [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [Jackson Browne \(Saturate Before Using\)](https://open.spotify.com/album/0n93YRc9GP3ZgREgTHvP5u) | 3:19 |
 | 51 | [Werewolves of London](https://open.spotify.com/track/2nmaEzFZrSm2aMLtfJDzyG) | [Warren Zevon](https://open.spotify.com/artist/3mY9Ii0cL5SQxpOTAm8SHx) | [A Quiet Normal Life: The Best of Warren Zevon](https://open.spotify.com/album/41u8E08e0jIP808qLi1GHB) | 3:28 |
 | 52 | [What's Up?](https://open.spotify.com/track/0jWgAnTrNZmOGmqgvHhZEm) | [4 Non Blondes](https://open.spotify.com/artist/0Je74SitssvJg1w4Ra2EK7) | [Bigger, Better, Faster, More !](https://open.spotify.com/album/2P8M5eo4zWFD0JJtH4D0iA) | 4:55 |
-| 53 | [Evil Woman](https://open.spotify.com/track/777NOXupZkFdg8zlPMoVqc) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [Face the Music](https://open.spotify.com/album/1HSU8sXRI9HiEAHslHRFQ3) | 4:29 |
+| 53 | [Evil Woman](https://open.spotify.com/track/777NOXupZkFdg8zlPMoVqc) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [Face the Music](https://open.spotify.com/album/1HSU8sXRI9HiEAHslHRFQ3) | 4:36 |
 | 54 | [Rocket Man \(I Think It's Going To Be A Long Long Time\)](https://open.spotify.com/track/2zvot9pY2FNl1E94kc4K8M) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Honky Chateau \(Remastered\)](https://open.spotify.com/album/46g6b33tbttcPtzbwzBoG6) | 4:41 |
 | 55 | [I Can't Help Myself \(Sugar Pie, Honey Bunch\)](https://open.spotify.com/track/6b6IMqP565TbtFFZg9iFf3) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Four Tops \- Second Album](https://open.spotify.com/album/2jvkMPydCpLWwRothqJU1O) | 2:40 |
 | 56 | [Midnight Train to Georgia](https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY) | [Gladys Knight & The Pips](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1) | [Imagination \(Expanded Edition\)](https://open.spotify.com/album/6pMzuVjsypAwbeKiZm56wP) | 4:39 |
-| 57 | [Jolene](https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene](https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj) | 2:41 |
+| 57 | [Jolene](https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene](https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj) | 2:43 |
 | 58 | [Ob\-La\-Di, Ob\-La\-Da \- 2018 Mix](https://open.spotify.com/track/02FJNRUlB28e1F0R9uP2s1) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles](https://open.spotify.com/album/1WMVvswNzB9i2UMh9svso5) | 3:08 |
 | 59 | [Shout, Pts\. 1 & 2](https://open.spotify.com/track/2ZNTPtYmAhN9vCwnAgqKn1) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Shout!](https://open.spotify.com/album/3TU9a0ngwVYr7YRe5fJPVH) | 4:28 |
 | 60 | [Build Me Up Buttercup](https://open.spotify.com/track/5idEVWkC6NT5D8Wemi9XIQ) | [The Foundations](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) | [Never Forget The '60s!](https://open.spotify.com/album/5ipYiRXmgoh0Hk3QDdyRof) | 3:00 |

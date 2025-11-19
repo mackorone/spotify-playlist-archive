@@ -1,6 +1,6 @@
 {
   "description": "Relax to the sweet and soothing sound of Bossa nova.",
-  "num_followers": 310947,
+  "num_followers": 311062,
   "original_name": "Bossa Chill",
   "owner": {
     "name": "Spotify",
@@ -84,7 +84,7 @@
           "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
         }
       ],
-      "duration_ms": 189306,
+      "duration_ms": 191122,
       "name": "Manha de Carnaval",
       "url": "https://open.spotify.com/track/0kfdvJhyb0QHBG1IM9Vlht"
     },
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2025-11-10 13:43:58",
       "album": {
+        "name": "My one and only",
+        "url": "https://open.spotify.com/album/5amSqhspHPpgLi7zDxwDVm"
+      },
+      "artists": [
+        {
+          "name": "Dave Oakley trio",
+          "url": "https://open.spotify.com/artist/6HOLnnkgNpWVVjZRELl9lc"
+        }
+      ],
+      "duration_ms": 201624,
+      "name": "My one and only",
+      "url": "https://open.spotify.com/track/5yT0chfor6lWakOdSBcwYg"
+    },
+    {
+      "added_at": "2025-11-10 13:43:58",
+      "album": {
         "name": "Copacabana",
         "url": "https://open.spotify.com/album/1pYAD1swqhNE2RDLvJgWIE"
       },
@@ -1027,18 +1043,34 @@
     {
       "added_at": "2025-11-10 13:43:58",
       "album": {
-        "name": "My one and only",
-        "url": "https://open.spotify.com/album/5amSqhspHPpgLi7zDxwDVm"
+        "name": "A High Romance",
+        "url": "https://open.spotify.com/album/68u4avv9rtgtmSXFCjpQOp"
       },
       "artists": [
         {
-          "name": "Dave Oakley trio",
-          "url": "https://open.spotify.com/artist/6HOLnnkgNpWVVjZRELl9lc"
+          "name": "Tom Rogers Band",
+          "url": "https://open.spotify.com/artist/2T4HDLiHH2f18ieTlW7EPR"
         }
       ],
-      "duration_ms": 201624,
-      "name": "My one and only",
-      "url": "https://open.spotify.com/track/5yT0chfor6lWakOdSBcwYg"
+      "duration_ms": 195778,
+      "name": "A High Romance",
+      "url": "https://open.spotify.com/track/3vmReLMuSqDLBLtMQqIVSh"
+    },
+    {
+      "added_at": "2025-11-10 13:43:58",
+      "album": {
+        "name": "Our Poetry",
+        "url": "https://open.spotify.com/album/654pcW24D0sY2s08xWpmC2"
+      },
+      "artists": [
+        {
+          "name": "Leandro Amor Trio",
+          "url": "https://open.spotify.com/artist/4S4flqSBJsefHltJ4wZXEZ"
+        }
+      ],
+      "duration_ms": 202099,
+      "name": "Our Poetry",
+      "url": "https://open.spotify.com/track/0TucZzpJ9CFlNCSViSDBbM"
     },
     {
       "added_at": "2025-11-10 13:43:58",
@@ -1083,22 +1115,6 @@
     {
       "added_at": "2025-11-10 13:43:58",
       "album": {
-        "name": "A High Romance",
-        "url": "https://open.spotify.com/album/68u4avv9rtgtmSXFCjpQOp"
-      },
-      "artists": [
-        {
-          "name": "Tom Rogers Band",
-          "url": "https://open.spotify.com/artist/2T4HDLiHH2f18ieTlW7EPR"
-        }
-      ],
-      "duration_ms": 195778,
-      "name": "A High Romance",
-      "url": "https://open.spotify.com/track/3vmReLMuSqDLBLtMQqIVSh"
-    },
-    {
-      "added_at": "2025-11-10 13:43:58",
-      "album": {
         "name": "Boomerang",
         "url": "https://open.spotify.com/album/2ii5yi8SZ42Aq4J0q2FoCb"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 207339,
       "name": "Boomerang",
       "url": "https://open.spotify.com/track/04lqMwyxNNijODnl84A1Wq"
-    },
-    {
-      "added_at": "2025-11-10 13:43:58",
-      "album": {
-        "name": "Our Poetry",
-        "url": "https://open.spotify.com/album/654pcW24D0sY2s08xWpmC2"
-      },
-      "artists": [
-        {
-          "name": "Leandro Amor Trio",
-          "url": "https://open.spotify.com/artist/4S4flqSBJsefHltJ4wZXEZ"
-        }
-      ],
-      "duration_ms": 202099,
-      "name": "Our Poetry",
-      "url": "https://open.spotify.com/track/0TucZzpJ9CFlNCSViSDBbM"
     },
     {
       "added_at": "2025-11-10 13:43:58",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2025-11-10 13:43:58",
       "album": {
+        "name": "Ao Mar e ao Vento",
+        "url": "https://open.spotify.com/album/6eZpekST8g6b2qWWffKX5V"
+      },
+      "artists": [
+        {
+          "name": "Marcio Philomena",
+          "url": "https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2"
+        }
+      ],
+      "duration_ms": 312716,
+      "name": "Ao Mar e ao Vento",
+      "url": "https://open.spotify.com/track/1ELY4E0azE57lSuw5K55YJ"
+    },
+    {
+      "added_at": "2025-11-10 13:43:58",
+      "album": {
         "name": "Fim do ver\u00e3o",
         "url": "https://open.spotify.com/album/5sofxaOfF8vLaLAvn9hlzN"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 242866,
       "name": "L\u00e1 Vem a Baiana",
       "url": "https://open.spotify.com/track/1n441XV55b21VveSUSA1SA"
-    },
-    {
-      "added_at": "2025-11-10 13:43:58",
-      "album": {
-        "name": "Ao Mar e ao Vento",
-        "url": "https://open.spotify.com/album/6eZpekST8g6b2qWWffKX5V"
-      },
-      "artists": [
-        {
-          "name": "Marcio Philomena",
-          "url": "https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2"
-        }
-      ],
-      "duration_ms": 312716,
-      "name": "Ao Mar e ao Vento",
-      "url": "https://open.spotify.com/track/1ELY4E0azE57lSuw5K55YJ"
     },
     {
       "added_at": "2025-11-10 13:43:58",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2025-11-10 13:43:58",
       "album": {
-        "name": "Telecoteco",
-        "url": "https://open.spotify.com/album/3vo7Rw9T48cuSkQWHMLnSb"
-      },
-      "artists": [
-        {
-          "name": "Paula Morelenbaum",
-          "url": "https://open.spotify.com/artist/7EFkAxz0BUzUJ7ZmAdBmSN"
-        }
-      ],
-      "duration_ms": 218346,
-      "name": "Teleco-Teco",
-      "url": "https://open.spotify.com/track/7nZARKu6tzkTBkuCVXWaZa"
-    },
-    {
-      "added_at": "2025-11-10 13:43:58",
-      "album": {
         "name": "Praia \u00e0 noite",
         "url": "https://open.spotify.com/album/2qGrmHUuZHRkayn9YdZxH7"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 180610,
       "name": "Praia \u00e0 noite",
       "url": "https://open.spotify.com/track/5nSgChBrcg32gzwJprrrIt"
+    },
+    {
+      "added_at": "2025-11-10 13:43:58",
+      "album": {
+        "name": "Telecoteco",
+        "url": "https://open.spotify.com/album/3vo7Rw9T48cuSkQWHMLnSb"
+      },
+      "artists": [
+        {
+          "name": "Paula Morelenbaum",
+          "url": "https://open.spotify.com/artist/7EFkAxz0BUzUJ7ZmAdBmSN"
+        }
+      ],
+      "duration_ms": 218346,
+      "name": "Teleco-Teco",
+      "url": "https://open.spotify.com/track/7nZARKu6tzkTBkuCVXWaZa"
     },
     {
       "added_at": "2025-11-10 13:43:58",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2025-11-10 13:43:58",
       "album": {
-        "name": "So I Guess That I'm In Love",
-        "url": "https://open.spotify.com/album/1uWDSogiN5yHmUMRLR7cne"
-      },
-      "artists": [
-        {
-          "name": "Flora Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "So I Guess That I'm In Love",
-      "url": "https://open.spotify.com/track/3zvD3eQkdJfIbvxOIQXbra"
-    },
-    {
-      "added_at": "2025-11-10 13:43:58",
-      "album": {
         "name": "Anita's Dream",
         "url": "https://open.spotify.com/album/66o8NXX8M2Lc86t4SRA70b"
       },
@@ -1931,22 +1915,6 @@
     {
       "added_at": "2025-11-10 13:43:58",
       "album": {
-        "name": "The Valentine Sessions",
-        "url": "https://open.spotify.com/album/1znhnVIkzgtJyiPrnWCP0c"
-      },
-      "artists": [
-        {
-          "name": "Matt Rollings",
-          "url": "https://open.spotify.com/artist/0L0kGJvVnSHBXrmT22xEnu"
-        }
-      ],
-      "duration_ms": 199120,
-      "name": "Small Bossa",
-      "url": "https://open.spotify.com/track/4UHOmvAehYOtvoc5ULXLb2"
-    },
-    {
-      "added_at": "2025-11-10 13:43:58",
-      "album": {
         "name": "Rio Bahia",
         "url": "https://open.spotify.com/album/3cgIE2eEoFouC2oxYghfRg"
       },
@@ -1963,6 +1931,38 @@
       "duration_ms": 148146,
       "name": "Jo\u00e3ozinho Boa Pinta",
       "url": "https://open.spotify.com/track/1cqaZpuQpbrPQGzcnPPHfB"
+    },
+    {
+      "added_at": "2025-11-10 13:43:58",
+      "album": {
+        "name": "The Valentine Sessions",
+        "url": "https://open.spotify.com/album/1znhnVIkzgtJyiPrnWCP0c"
+      },
+      "artists": [
+        {
+          "name": "Matt Rollings",
+          "url": "https://open.spotify.com/artist/0L0kGJvVnSHBXrmT22xEnu"
+        }
+      ],
+      "duration_ms": 199120,
+      "name": "Small Bossa",
+      "url": "https://open.spotify.com/track/4UHOmvAehYOtvoc5ULXLb2"
+    },
+    {
+      "added_at": "2025-11-10 13:43:58",
+      "album": {
+        "name": "So I Guess That I'm In Love",
+        "url": "https://open.spotify.com/album/1uWDSogiN5yHmUMRLR7cne"
+      },
+      "artists": [
+        {
+          "name": "Flora Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "So I Guess That I'm In Love",
+      "url": "https://open.spotify.com/track/3zvD3eQkdJfIbvxOIQXbra"
     },
     {
       "added_at": "2025-11-10 13:43:58",

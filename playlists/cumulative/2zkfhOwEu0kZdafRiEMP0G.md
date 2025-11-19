@@ -4,7 +4,7 @@
 
 > 
 
-57 songs - 3 hr 52 min
+58 songs - 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Non\-Stop](https://open.spotify.com/track/7qfoq1JFKBUEIvhqOHzuqX) | [Leslie Odom Jr.](https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN), [Lin\-Manuel Miranda](https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N), [Renée Elise Goldsberry](https://open.spotify.com/artist/5VJN4jB6PqqEg4kJiAj6Eu), [Phillipa Soo](https://open.spotify.com/artist/2OEGI2wrCVmvavKEOMlccy), [Christopher Jackson](https://open.spotify.com/artist/6sLwRSXSUF5JTUnQaFenyj), [Original Broadway Cast of Hamilton](https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu) | [Hamilton \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc) | 6:25 | 2025-11-12 |  |
 | [On Bended Knee](https://open.spotify.com/track/7MYmo0JJJDmu4MZTSAF9y3) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [II](https://open.spotify.com/album/1IWhZEOwEoXbOB4a40XaR3) | 5:29 | 2025-11-07 |  |
 | [One Hundred Sleepless Nights](https://open.spotify.com/track/5TNX6rJ91T8PdEt94X50Y9) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Collide With The Sky](https://open.spotify.com/album/661Hz0qJK8WIp7vAWsqKvk) | 3:41 | 2025-07-22 | 2025-10-23 |
+| [One Last Time](https://open.spotify.com/track/0Iys022UwQ8xBfxE1g4nWZ) | [Christopher Jackson](https://open.spotify.com/artist/6sLwRSXSUF5JTUnQaFenyj), [Lin\-Manuel Miranda](https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N), [Original Broadway Cast of Hamilton](https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu) | [Hamilton \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc) | 4:56 | 2025-11-18 |  |
 | [Only Us](https://open.spotify.com/track/7BbtvJqWnQRt8gSrWbUVym) | [Laura Dreyfuss](https://open.spotify.com/artist/5hqM93qFRmwRv3QGrLO0jK), [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Dear Evan Hansen \(Original Broadway Cast Recording\)](https://open.spotify.com/album/0LhDyJXelg31FKLW5GDcKi) | 3:47 | 2025-10-02 |  |
 | [PREACHER!](https://open.spotify.com/track/69lflYcKpzNMYPyxuJAhOy) | [John michel](https://open.spotify.com/artist/7KIaXj7EsyuuYGH0z2v36h), [Anthony James](https://open.spotify.com/artist/6PWEwhnCN7vzNi9VpXFSUp), [colin!](https://open.spotify.com/artist/4AM5jjmUSmPLoTKlrzybTv) | [Egotrip](https://open.spotify.com/album/3iKxcGgS71n7ND8I2A3CF5) | 3:12 | 2025-07-19 | 2025-11-05 |
 | [Rent](https://open.spotify.com/track/26RykSLUNpC2BymCxJgvTn) | [Anthony Rapp](https://open.spotify.com/artist/3GZGJ33pJdAdUL6IQpK8mR), [Adam Pascal](https://open.spotify.com/artist/0bvwPCit9Yh0yVdLKGnXRi), [Jesse L\. Martin](https://open.spotify.com/artist/5jpma87NOuRoh5FMf0CW5I), [Taye Diggs](https://open.spotify.com/artist/7kVuFisXCpEHzbw8DVp2Zf), [Cast of the Motion Picture RENT](https://open.spotify.com/artist/1x1j39j1KEKsI1oCMQov7K) | [RENT \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7JR7tGOAvqFSpVmDlCzHIJ) | 3:59 | 2025-07-13 | 2025-10-23 |

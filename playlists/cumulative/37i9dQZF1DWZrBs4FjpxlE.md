@@ -4,7 +4,7 @@
 
 > we got you\. Cover: Post Malone
 
-180 songs - 8 hr 52 min
+181 songs - 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [after](https://open.spotify.com/track/56MC5t01ksjryLvJuuZypa) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [after](https://open.spotify.com/album/1x4fNH25BgVaDjo0jWaYD7) | 2:25 | 2025-06-27 |  |
 | [After Dark](https://open.spotify.com/track/2LKOHdMsL0K9KwcPRlJK2v) | [Mr.Kitty](https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y) | [Time](https://open.spotify.com/album/63TYyeXlBYoYKNvE6rT3hI) | 4:19 | 2023-08-07 |  |
 | [Aftermath](https://open.spotify.com/track/2pUAN0zPh6TqyD1B2eZ6S9) | [PVLN](https://open.spotify.com/artist/7uCAdx7vj3t6T1ZSq25WIa) | [Aftermath](https://open.spotify.com/album/7kTIZod5T2uP9NKXAmCmf5) | 3:33 | 2025-01-31 | 2025-03-29 |
-| [again](https://open.spotify.com/track/7k0sm58Wlu2jR4dJB5Y0tS) | [zown](https://open.spotify.com/artist/5cUFNLkI4OFUhmcqBEGsqz), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [again](https://open.spotify.com/album/5GNuSs1dFqX1x083OV3DrQ) | 1:55 | 2025-10-10 |  |
+| [again](https://open.spotify.com/track/7k0sm58Wlu2jR4dJB5Y0tS) | [zown](https://open.spotify.com/artist/5cUFNLkI4OFUhmcqBEGsqz), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [again](https://open.spotify.com/album/5GNuSs1dFqX1x083OV3DrQ) | 1:55 | 2025-10-10 | 2025-11-19 |
 | [ALWAYS DO](https://open.spotify.com/track/7gCe88FGMlkyURLPxglbAo) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [F\*CK LOVE 3+: OVER YOU](https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI) | 2:31 | 2024-02-23 |  |
 | [Apologies](https://open.spotify.com/track/7KvJup9EIS0K5Tsunt2p4r) | [Kee Nola](https://open.spotify.com/artist/4v5hbcPtrVfLlI011eQrER) | [PARTYLAND](https://open.spotify.com/album/1Fj0KeuWt1GTTMDm6ZtmBY) | 2:21 | 2025-04-18 | 2025-04-26 |
 | [Arcade](https://open.spotify.com/track/1Xi84slp6FryDSCbzq4UCD) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Arcade](https://open.spotify.com/album/7BISGeB7QwhqRIadxuLHfG) | 3:03 | 2023-08-07 |  |
@@ -158,6 +158,7 @@
 | [Selfish](https://open.spotify.com/track/479iOebjPbBBXPXZvGKcYc) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti) | [Selfish](https://open.spotify.com/album/5epAkQBKiF1AbHuK3OjI2R) | 2:50 | 2025-04-18 |  |
 | [September 16](https://open.spotify.com/track/7a5RvlW5tMU0AZ4tvbGLhn) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [September 16](https://open.spotify.com/album/6l0SXtc1DYfmjBnPOKw1wJ) | 4:09 | 2024-02-23 |  |
 | [Someone You Loved](https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:02 | 2023-08-07 | 2025-11-08 |
+| [SORRY](https://open.spotify.com/track/5M2ztfcb9GBGmZdUFkSzfQ) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [SORRY](https://open.spotify.com/album/1RnVAiamXujeEQcruNCCWn) | 3:11 | 2025-11-18 |  |
 | [Star Shopping](https://open.spotify.com/track/1WbhIxkn5ECsOwUm795iX1) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [Star Shopping](https://open.spotify.com/album/342nD5SIsD90lP8LxkLaLM) | 2:22 | 2023-08-18 | 2024-04-19 |
 | [Star Shopping](https://open.spotify.com/track/6Ox1rvlwEpB49drasQm6RF) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [Star Shopping](https://open.spotify.com/album/48dH5WaD1L379zPQt6LMDD) | 2:22 | 2023-08-07 |  |
 | [Stay High](https://open.spotify.com/track/21CkzgKCBCq5V4XKjiGSIj) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Legends Never Die](https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL) | 2:48 | 2024-02-23 |  |

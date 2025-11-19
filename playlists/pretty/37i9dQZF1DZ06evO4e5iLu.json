@@ -1,12 +1,12 @@
 {
   "description": "This is KAROL G. The essential tracks, all in one playlist.",
-  "num_followers": 1385421,
+  "num_followers": 1385638,
   "original_name": "This Is KAROL G",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRkUAAAAAAC6HbItpqCqSmkM3OjayO56",
+  "snapshot_id": "aRplgAAAAAD4eX/o8kohUUMR3Mb3tN6a",
   "tracks": [
     {
       "added_at": null,
@@ -679,22 +679,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "OCEAN",
-        "url": "https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK"
+        "name": "Secreto",
+        "url": "https://open.spotify.com/album/6owzcG80ifZRDApCpzJYK1"
       },
       "artists": [
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
           "name": "Anuel AA",
           "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         }
       ],
-      "duration_ms": 228960,
-      "name": "Culpables",
-      "url": "https://open.spotify.com/track/4RGKft6YTTWHjpQeRIInuS"
+      "duration_ms": 258799,
+      "name": "Secreto",
+      "url": "https://open.spotify.com/track/5W83ErFkO3aKAIS1WMi6u0"
     },
     {
       "added_at": null,
@@ -715,22 +715,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Secreto",
-        "url": "https://open.spotify.com/album/6owzcG80ifZRDApCpzJYK1"
+        "name": "OCEAN",
+        "url": "https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK"
       },
       "artists": [
         {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
           "name": "KAROL G",
           "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         }
       ],
-      "duration_ms": 258799,
-      "name": "Secreto",
-      "url": "https://open.spotify.com/track/5W83ErFkO3aKAIS1WMi6u0"
+      "duration_ms": 228960,
+      "name": "Culpables",
+      "url": "https://open.spotify.com/track/4RGKft6YTTWHjpQeRIInuS"
     },
     {
       "added_at": null,
@@ -763,18 +763,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "OCEAN",
-        "url": "https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK"
+        "name": "ORQU\u00cdDEAS",
+        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
       },
       "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
         {
           "name": "KAROL G",
           "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         }
       ],
-      "duration_ms": 155946,
-      "name": "Ocean",
-      "url": "https://open.spotify.com/track/6qoIFQfdmaQF9A1gb67tR7"
+      "duration_ms": 195373,
+      "name": "Labios Mordidos (with KAROL G)",
+      "url": "https://open.spotify.com/track/5ycn8M0WNGedabDuaH9mQT"
     },
     {
       "added_at": null,
@@ -799,22 +803,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "ORQU\u00cdDEAS",
-        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
+        "name": "OCEAN",
+        "url": "https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK"
       },
       "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
         {
           "name": "KAROL G",
           "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         }
       ],
-      "duration_ms": 195373,
-      "name": "Labios Mordidos (with KAROL G)",
-      "url": "https://open.spotify.com/track/5ycn8M0WNGedabDuaH9mQT"
+      "duration_ms": 155946,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/6qoIFQfdmaQF9A1gb67tR7"
     },
     {
       "added_at": null,

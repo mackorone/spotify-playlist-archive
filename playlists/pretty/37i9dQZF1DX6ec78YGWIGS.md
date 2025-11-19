@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 
 > Lo nuevo y lo más escuchado del pop\. Foto: TINI
 
-[Spotify](https://open.spotify.com/user/spotify) - 566,579 likes - 102 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 566,602 likes - 102 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 | 81 | [Piscina](https://open.spotify.com/track/6q6aChVJ5LLXFUSfakwpxW) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Piscina](https://open.spotify.com/album/2dgGJoPFotq4qDUbzAKVU0) | 3:45 |
 | 82 | [POV: te re enamoraste mal](https://open.spotify.com/track/1J3S9Do9s5ZnwVfKr9FKp7) | [Robleis](https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht) | [POV: te re enamoraste mal](https://open.spotify.com/album/08qD4ZXSXJnjKrgLRlSuWs) | 2:45 |
 | 83 | [Más Que Tú](https://open.spotify.com/track/6TzgG83Mj85lfnkWTuyO8O) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Más Que Tú](https://open.spotify.com/album/4SQs6PQwQFanCdSfF0CUd9) | 3:17 |
-| 84 | [EL DÍA DEL AMIGO](https://open.spotify.com/track/74eICpWmMuVmBtaOr3YqPN) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf), [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [PAPOTA](https://open.spotify.com/album/1NDJk94691Vydq1IrIeGC0) | 2:50 |
+| 84 | [EL DÍA DEL AMIGO](https://open.spotify.com/track/74eICpWmMuVmBtaOr3YqPN) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX) | [PAPOTA](https://open.spotify.com/album/1NDJk94691Vydq1IrIeGC0) | 2:50 |
 | 85 | [SENTIMIENTO NATURAL](https://open.spotify.com/track/1uE2MpryIKEUZuGhSipqQG) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [SENTIMIENTO NATURAL](https://open.spotify.com/album/155BdaQ76Y4yxxfKgljH4E) | 3:13 |
 | 86 | [Ciudad de Papel](https://open.spotify.com/track/3SOCd6DbOjtmTP5xpDXWcp) | [TULI](https://open.spotify.com/artist/0ZONTh5kX91I8H6sa8QOlZ) | [Ciudad de Papel](https://open.spotify.com/album/4VaQYHH2pdK5Wou2kfWHFQ) | 2:05 |
 | 87 | [en la cara \- remixXx](https://open.spotify.com/track/1eJzCV4uvsxLYRsFM1b1Wi) | [Olivia Wald](https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [en la cara \(remixXx\)](https://open.spotify.com/album/5aszvVYXNnOR1IaLmC7XBL) | 3:03 |

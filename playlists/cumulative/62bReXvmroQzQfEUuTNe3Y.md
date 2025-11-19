@@ -4,7 +4,7 @@
 
 > Chill tracks to vibe or relax to in 2025\. Updated weekly!
 
-505 songs - 1 day 4 hr 12 min
+506 songs - 1 day 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -473,6 +473,7 @@
 | [Waterfall](https://open.spotify.com/track/5XJvzlRR2FnsObtoYy6qoy) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Ahmed Spins](https://open.spotify.com/artist/4jercY4pUhY6jB8eQjpVJV) | [Waterfall](https://open.spotify.com/album/4S4VjEK6SsnM7kVDy4w5Yx) | 4:24 | 2025-04-11 |  |
 | [Weightless](https://open.spotify.com/track/14Qgz11mmNGbIQ57IZlAUF) | [Hyzteria](https://open.spotify.com/artist/25hmNMFuDlPLe0TIcr8Djd) | [Weightless](https://open.spotify.com/album/2lJ4zllo7kxxEbeWTJxLR6) | 3:06 | 2024-10-18 | 2025-04-16 |
 | [Weightless \(jamesjamesjames Remix\)](https://open.spotify.com/track/1a3u6JpaSEndtkzDyUFOqC) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI), [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [Weightless \(jamesjamesjames Remix\)](https://open.spotify.com/album/6Sv0gyjKWyrdij1ToQG6f0) | 4:09 | 2025-01-03 | 2025-07-31 |
+| [Weyu](https://open.spotify.com/track/0LGUxRAobq2shxKN3xtnMJ) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Lenji](https://open.spotify.com/artist/4NyAVAttRLmlUpV7HpgLfR), [Amadi Blue](https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If) | [Weyu](https://open.spotify.com/album/4FbMW7LEw4yDVgSXBXYvdT) | 2:13 | 2025-11-18 |  |
 | [What About Me](https://open.spotify.com/track/0Dv9RfsaOgJ9sNp2NVwU18) | [King Henry](https://open.spotify.com/artist/4IbUky1dWqlyVlMMTJXPI5) | [What About Me](https://open.spotify.com/album/26itlv8iMJgvevPRko5Fwb) | 3:43 | 2020-09-13\* | 2021-07-17 |
 | [What Else Is There? \(True Electric\) \- DJ Tennis Remix](https://open.spotify.com/track/3mZIto6d69b0zqMG4QnGeb) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY), [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t) | [What Else Is There? \(True Electric\) \[DJ Tennis Remix\]](https://open.spotify.com/album/4w95SXHJoVgYnXjIyzvjHi) | 3:59 | 2025-05-02 |  |
 | [What You Say](https://open.spotify.com/track/2mkwcQDjwb9ZYdLECzjWYt) | [Artonal](https://open.spotify.com/artist/1lYdcy4gTW1btf3rYLARN9), [NuBass](https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO) | [What You Say](https://open.spotify.com/album/7vIsH2fkaKrUaAvc1wZruE) | 2:38 | 2022-11-04 |  |

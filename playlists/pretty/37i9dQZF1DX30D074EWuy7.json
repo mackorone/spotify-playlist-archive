@@ -1,6 +1,6 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Il Mago del Gelato \ud83c\udf49",
-  "num_followers": 33511,
+  "num_followers": 33515,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
@@ -675,22 +675,6 @@
     {
       "added_at": "2025-11-13 23:01:23",
       "album": {
-        "name": "The Jazzness",
-        "url": "https://open.spotify.com/album/6MZzEc8mkCHG7ugAbbI2oQ"
-      },
-      "artists": [
-        {
-          "name": "Inoki",
-          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
-        }
-      ],
-      "duration_ms": 248089,
-      "name": "Ripartire Da Zero 2025",
-      "url": "https://open.spotify.com/track/2VP7ywy2ucmXx089g5Izgb"
-    },
-    {
-      "added_at": "2025-11-13 23:01:23",
-      "album": {
         "name": "Rivelazioni di un maniaco sessuale a capo della squadra mobile (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2bu5QRAoFBgSryv8LQODxI"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 176843,
       "name": "Cio che e' scritto nel vento",
       "url": "https://open.spotify.com/track/6wCsRchz3850j0GgfXYjrV"
+    },
+    {
+      "added_at": "2025-11-13 23:01:23",
+      "album": {
+        "name": "The Jazzness",
+        "url": "https://open.spotify.com/album/6MZzEc8mkCHG7ugAbbI2oQ"
+      },
+      "artists": [
+        {
+          "name": "Inoki",
+          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
+        }
+      ],
+      "duration_ms": 248089,
+      "name": "Ripartire Da Zero 2025",
+      "url": "https://open.spotify.com/track/2VP7ywy2ucmXx089g5Izgb"
     },
     {
       "added_at": "2025-11-13 23:01:23",
@@ -743,26 +743,6 @@
     {
       "added_at": "2025-11-13 23:01:23",
       "album": {
-        "name": "Musica Nuda - My Favorite Tunes",
-        "url": "https://open.spotify.com/album/4r4EAuG5rF6nzJu2haUQQ2"
-      },
-      "artists": [
-        {
-          "name": "Petra Magoni",
-          "url": "https://open.spotify.com/artist/3VrYO8Q1lMGMRH2tgcfr4s"
-        },
-        {
-          "name": "Ferruccio Spinetti",
-          "url": "https://open.spotify.com/artist/2fhNoOh4SrsOEXPWXxpD1f"
-        }
-      ],
-      "duration_ms": 190053,
-      "name": "Bach Aire",
-      "url": "https://open.spotify.com/track/0wUKunfyR7JY0fyQ9Iq1wW"
-    },
-    {
-      "added_at": "2025-11-13 23:01:23",
-      "album": {
         "name": "Shades of Chet",
         "url": "https://open.spotify.com/album/0AC26eZQKVP2pvcnqEyQFK"
       },
@@ -783,18 +763,22 @@
     {
       "added_at": "2025-11-13 23:01:23",
       "album": {
-        "name": "Harlem Nocturne",
-        "url": "https://open.spotify.com/album/12jiJYT5OvWXzXzYP20OHG"
+        "name": "Musica Nuda - My Favorite Tunes",
+        "url": "https://open.spotify.com/album/4r4EAuG5rF6nzJu2haUQQ2"
       },
       "artists": [
         {
-          "name": "Calibro 35",
-          "url": "https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi"
+          "name": "Petra Magoni",
+          "url": "https://open.spotify.com/artist/3VrYO8Q1lMGMRH2tgcfr4s"
+        },
+        {
+          "name": "Ferruccio Spinetti",
+          "url": "https://open.spotify.com/artist/2fhNoOh4SrsOEXPWXxpD1f"
         }
       ],
-      "duration_ms": 124613,
-      "name": "Harlem Nocturne",
-      "url": "https://open.spotify.com/track/6Mho4z2FAGpMKcpZTeNbdw"
+      "duration_ms": 190053,
+      "name": "Bach Aire",
+      "url": "https://open.spotify.com/track/0wUKunfyR7JY0fyQ9Iq1wW"
     },
     {
       "added_at": "2025-11-13 23:01:23",
@@ -811,6 +795,22 @@
       "duration_ms": 175047,
       "name": "Stella del sud",
       "url": "https://open.spotify.com/track/4DkvQdCtKBSPJ8D9O6oP9p"
+    },
+    {
+      "added_at": "2025-11-13 23:01:23",
+      "album": {
+        "name": "Harlem Nocturne",
+        "url": "https://open.spotify.com/album/12jiJYT5OvWXzXzYP20OHG"
+      },
+      "artists": [
+        {
+          "name": "Calibro 35",
+          "url": "https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi"
+        }
+      ],
+      "duration_ms": 124613,
+      "name": "Harlem Nocturne",
+      "url": "https://open.spotify.com/track/6Mho4z2FAGpMKcpZTeNbdw"
     },
     {
       "added_at": "2025-11-13 23:01:23",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2025-11-13 23:01:23",
       "album": {
-        "name": "Grammegna",
-        "url": "https://open.spotify.com/album/2C60NGIF3EjUCkh7QkHdnc"
-      },
-      "artists": [
-        {
-          "name": "The Funkin' Machine",
-          "url": "https://open.spotify.com/artist/7l1iaeDCxprB4GgCRdwBrS"
-        }
-      ],
-      "duration_ms": 285981,
-      "name": "Grammegna",
-      "url": "https://open.spotify.com/track/3NZ1tg9ca0YyY2ppqlBnvy"
-    },
-    {
-      "added_at": "2025-11-13 23:01:23",
-      "album": {
         "name": "Gigi",
         "url": "https://open.spotify.com/album/36xYaInaUB5pOuqVkJ0V5a"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 434413,
       "name": "Gigi",
       "url": "https://open.spotify.com/track/0En4rr7N50o78ENfLnMptQ"
+    },
+    {
+      "added_at": "2025-11-13 23:01:23",
+      "album": {
+        "name": "Grammegna",
+        "url": "https://open.spotify.com/album/2C60NGIF3EjUCkh7QkHdnc"
+      },
+      "artists": [
+        {
+          "name": "The Funkin' Machine",
+          "url": "https://open.spotify.com/artist/7l1iaeDCxprB4GgCRdwBrS"
+        }
+      ],
+      "duration_ms": 285981,
+      "name": "Grammegna",
+      "url": "https://open.spotify.com/track/3NZ1tg9ca0YyY2ppqlBnvy"
     },
     {
       "added_at": "2025-11-13 23:01:23",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2025-11-13 23:01:23",
       "album": {
-        "name": "Citt\u00e0 Futura",
-        "url": "https://open.spotify.com/album/57VVdwvhb2E3hOp21U6Isw"
-      },
-      "artists": [
-        {
-          "name": "Bassolino",
-          "url": "https://open.spotify.com/artist/0pSQCv6P9P2KxiMyJYpTHx"
-        }
-      ],
-      "duration_ms": 284804,
-      "name": "Citt\u00e0 Futura",
-      "url": "https://open.spotify.com/track/6eKPdRjUepZxs8GyaSfuap"
-    },
-    {
-      "added_at": "2025-11-13 23:01:23",
-      "album": {
         "name": "Morabeza",
         "url": "https://open.spotify.com/album/3n55TgC6Qv30oyw7yj11mY"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 165573,
       "name": "Giuramento (feat. Gabriele Mirabassi)",
       "url": "https://open.spotify.com/track/15zNDagxqRrKm4HWtcvTZv"
+    },
+    {
+      "added_at": "2025-11-13 23:01:23",
+      "album": {
+        "name": "Citt\u00e0 Futura",
+        "url": "https://open.spotify.com/album/57VVdwvhb2E3hOp21U6Isw"
+      },
+      "artists": [
+        {
+          "name": "Bassolino",
+          "url": "https://open.spotify.com/artist/0pSQCv6P9P2KxiMyJYpTHx"
+        }
+      ],
+      "duration_ms": 284804,
+      "name": "Citt\u00e0 Futura",
+      "url": "https://open.spotify.com/track/6eKPdRjUepZxs8GyaSfuap"
     },
     {
       "added_at": "2025-11-13 23:01:23",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2025-11-13 23:01:23",
       "album": {
+        "name": "Notturno",
+        "url": "https://open.spotify.com/album/6yJ4cIfrOpoo4QukcFtCYw"
+      },
+      "artists": [
+        {
+          "name": "Studio Murena",
+          "url": "https://open.spotify.com/artist/1rWbZmR5D63aZU60lMtVZx"
+        }
+      ],
+      "duration_ms": 197200,
+      "name": "Another Day with Another Sun",
+      "url": "https://open.spotify.com/track/045b5tSZLnJMihVXfatkXF"
+    },
+    {
+      "added_at": "2025-11-13 23:01:23",
+      "album": {
         "name": "Nidi di Note",
         "url": "https://open.spotify.com/album/0p97eqhSf6ELxHJW37tbqK"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 194638,
       "name": "Inizi\u00f2",
       "url": "https://open.spotify.com/track/6zb4oLpJ6qngKWpNv9GxWG"
-    },
-    {
-      "added_at": "2025-11-13 23:01:23",
-      "album": {
-        "name": "Notturno",
-        "url": "https://open.spotify.com/album/6yJ4cIfrOpoo4QukcFtCYw"
-      },
-      "artists": [
-        {
-          "name": "Studio Murena",
-          "url": "https://open.spotify.com/artist/1rWbZmR5D63aZU60lMtVZx"
-        }
-      ],
-      "duration_ms": 197200,
-      "name": "Another Day with Another Sun",
-      "url": "https://open.spotify.com/track/045b5tSZLnJMihVXfatkXF"
     },
     {
       "added_at": "2025-11-13 23:01:23",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2025-11-13 23:01:23",
       "album": {
-        "name": "AMUN\u00cc",
-        "url": "https://open.spotify.com/album/11Eg6yBh2LphTmiHJY0vwt"
-      },
-      "artists": [
-        {
-          "name": "sunremo",
-          "url": "https://open.spotify.com/artist/0PifXQiTMFvQVmZRu3Skk5"
-        }
-      ],
-      "duration_ms": 220969,
-      "name": "AMUN\u00cc",
-      "url": "https://open.spotify.com/track/3IbJzKw3LBlO0Gomvw4wqP"
-    },
-    {
-      "added_at": "2025-11-13 23:01:23",
-      "album": {
         "name": "La Strada Invisibile",
         "url": "https://open.spotify.com/album/5JEW0isqD0vYpZ0CqGxmhD"
       },
@@ -1807,6 +1791,22 @@
     {
       "added_at": "2025-11-13 23:01:23",
       "album": {
+        "name": "IRA",
+        "url": "https://open.spotify.com/album/4WhBN2WPPxAU5M5Tpw56PL"
+      },
+      "artists": [
+        {
+          "name": "Iosonouncane",
+          "url": "https://open.spotify.com/artist/1njdH9zjRnlM561mWqEocW"
+        }
+      ],
+      "duration_ms": 662586,
+      "name": "hajar",
+      "url": "https://open.spotify.com/track/2sy4zmZz3kIxZGL1VYa7sD"
+    },
+    {
+      "added_at": "2025-11-13 23:01:23",
+      "album": {
         "name": "Dualism",
         "url": "https://open.spotify.com/album/23LG3jcqw0PVQ4BnAOXcVQ"
       },
@@ -1823,18 +1823,18 @@
     {
       "added_at": "2025-11-13 23:01:23",
       "album": {
-        "name": "IRA",
-        "url": "https://open.spotify.com/album/4WhBN2WPPxAU5M5Tpw56PL"
+        "name": "AMUN\u00cc",
+        "url": "https://open.spotify.com/album/11Eg6yBh2LphTmiHJY0vwt"
       },
       "artists": [
         {
-          "name": "Iosonouncane",
-          "url": "https://open.spotify.com/artist/1njdH9zjRnlM561mWqEocW"
+          "name": "sunremo",
+          "url": "https://open.spotify.com/artist/0PifXQiTMFvQVmZRu3Skk5"
         }
       ],
-      "duration_ms": 662586,
-      "name": "hajar",
-      "url": "https://open.spotify.com/track/2sy4zmZz3kIxZGL1VYa7sD"
+      "duration_ms": 220969,
+      "name": "AMUN\u00cc",
+      "url": "https://open.spotify.com/track/3IbJzKw3LBlO0Gomvw4wqP"
     },
     {
       "added_at": "2025-11-13 23:01:23",
@@ -1887,6 +1887,22 @@
     {
       "added_at": "2025-11-13 23:01:23",
       "album": {
+        "name": "Jazz Carnival",
+        "url": "https://open.spotify.com/album/6qeRZWcX3ZBIbG06naVZUS"
+      },
+      "artists": [
+        {
+          "name": "Calibro 35",
+          "url": "https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi"
+        }
+      ],
+      "duration_ms": 226693,
+      "name": "Jazz Carnival",
+      "url": "https://open.spotify.com/track/4bTSotryWXXOQw55gXDAyA"
+    },
+    {
+      "added_at": "2025-11-13 23:01:23",
+      "album": {
         "name": "New York Days",
         "url": "https://open.spotify.com/album/5qIvcmHXW5Av8XQGCAmeIK"
       },
@@ -1915,22 +1931,6 @@
       "duration_ms": 653973,
       "name": "Certi angoli segreti",
       "url": "https://open.spotify.com/track/0TgOi4joOrp0spXM754Z8X"
-    },
-    {
-      "added_at": "2025-11-13 23:01:23",
-      "album": {
-        "name": "Jazz Carnival",
-        "url": "https://open.spotify.com/album/6qeRZWcX3ZBIbG06naVZUS"
-      },
-      "artists": [
-        {
-          "name": "Calibro 35",
-          "url": "https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi"
-        }
-      ],
-      "duration_ms": 226693,
-      "name": "Jazz Carnival",
-      "url": "https://open.spotify.com/track/4bTSotryWXXOQw55gXDAyA"
     }
   ],
   "unique_name": "Jazz Italia",

@@ -4,7 +4,7 @@
 
 > 
 
-66 songs - 3 hr 51 min
+66 songs - 3 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Survivor's Guilt](https://open.spotify.com/track/4xBYR4SHi24LGBj01VZiQG) | [Coma Cinema](https://open.spotify.com/artist/4Ebry32YXxGXbI8FqhhSFu) | [Posthumous Release](https://open.spotify.com/album/4fGmm4duNiLc3uDl9QqLM2) | 1:39 | 2018-10-16 |  |
 | [Take a Walk](https://open.spotify.com/track/4Sfa7hdVkqlM8UW5LsSY3F) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Gossamer](https://open.spotify.com/album/14JU5SskmcyckE5I8PY6lv) | 4:24 | 2018-10-16 |  |
 | [The Best Ever Death Metal Band in Denton](https://open.spotify.com/track/38dYh2pToiZPEKGVErVISk) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [All Hail West Texas \(Remastered\)](https://open.spotify.com/album/0SSMTJHDokOaKuaLaeSAYd) | 2:36 | 2018-10-16 |  |
-| [The Boxer](https://open.spotify.com/track/76TZCvJ8GitQ2FA1q5dKu0) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bridge Over Troubled Water](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) | 5:08 | 2018-10-16 |  |
+| [The Boxer](https://open.spotify.com/track/76TZCvJ8GitQ2FA1q5dKu0) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bridge Over Troubled Water](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) | 5:12 | 2018-10-16 |  |
 | [The Diaz Brothers](https://open.spotify.com/track/5GAsM7OSHbADUNk78HXXnM) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Transcendental Youth](https://open.spotify.com/album/7l2lKqa3E3oTrF3y6rHAzJ) | 2:45 | 2018-10-16 |  |
 | [The Kids Will Be Alright, Eventually](https://open.spotify.com/track/5fWEfaB08275kz33D5GWys) | [Sledding With Tigers](https://open.spotify.com/artist/7E11mR7om6vMgUpPdl65EV) | [Kenny Jeans \(Old Songs That I Wrote\)](https://open.spotify.com/album/4JWKNl10bM0A1ujIaAjpT4) | 3:44 | 2019-01-06 |  |
 | [The Mess Inside](https://open.spotify.com/track/3B7a3OW9h51WJKYQXD5IAo) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [All Hail West Texas \(Remastered\)](https://open.spotify.com/album/0SSMTJHDokOaKuaLaeSAYd) | 3:35 | 2018-10-16 |  |

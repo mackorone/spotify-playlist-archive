@@ -4,7 +4,7 @@
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-371 songs - 22 hr 20 min
+372 songs - 22 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,6 +227,7 @@
 | [Never Gonna Walk Away](https://open.spotify.com/track/2rhiLjBezGsTb5eZHlhVYM) | [Alberta Cross](https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq) | [Never Gonna Walk Away](https://open.spotify.com/album/4K0icHEX4XQf9PAeP5fiXI) | 4:18 | 2024-02-01 | 2024-05-08 |
 | [New Beginnings](https://open.spotify.com/track/1lc210kcOJxk4zuxNxkfrh) | [Alexander Grandjean](https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp) | [Holy Hills](https://open.spotify.com/album/6GHoAg9I0Dbl3VWXYk36qm) | 3:38 | 2023-09-14 | 2023-12-10 |
 | [Next to you](https://open.spotify.com/track/0cT4AriTAEW9cG1eTTURoc) | [Hush Forever](https://open.spotify.com/artist/5MIIeE6xoDQNqwSMTweWlv) | [Passengers](https://open.spotify.com/album/5Phsy4wbNbfbRCUVpbyYcY) | 3:18 | 2024-12-05 | 2025-05-09 |
+| [Nick of Time](https://open.spotify.com/track/6cDbus54svH0LbeHMDIaWJ) | [Konradsen](https://open.spotify.com/artist/59CWeBMEzwj6U2HhTVLJ3O), [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Nick of Time](https://open.spotify.com/album/3SqezFkvES8NhapcRZ0f8V) | 3:02 | 2025-11-13 |  |
 | [No Jolene](https://open.spotify.com/track/32MwhuIuhW55LawKJa8jyQ) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [No Jolene](https://open.spotify.com/album/71R93xVwsFtmiW7nCm4V5h) | 2:37 | 2025-10-23 |  |
 | [Norwegian Black Metal](https://open.spotify.com/track/4i7iWfR241IqLTpoHPDtLE) | [Simen Mitlid](https://open.spotify.com/artist/3AE2EXc8hnJxb0AoGf3i2A), [Ea Othilde](https://open.spotify.com/artist/1pwHSyOp1lppPxASOG0J99) | [Norwegian Black Metal](https://open.spotify.com/album/0hA4KCp77KhfgtQImMp9Rb) | 3:05 | 2023-09-28 | 2024-01-16 |
 | [Nothing Without You](https://open.spotify.com/track/0IfYF9evGdkLHxBrY06hsh) | [Under The Elms](https://open.spotify.com/artist/1nWNNhWyvkcuFlwc1Zwswk) | [Nothing Without You](https://open.spotify.com/album/018QUOPoNDwLlFp3VJ7DvE) | 2:59 | 2025-03-27 | 2025-09-19 |
@@ -334,7 +335,7 @@
 | [Viking Fair](https://open.spotify.com/track/4WDhZnRugs36yOeqdvNMAP) | [forfedre](https://open.spotify.com/artist/56lSAnlEsyFYGXvdzXyICW) | [Viking Fair](https://open.spotify.com/album/22FZK52VbGzyPtzBpBK5D4) | 1:07 | 2024-01-25 |  |
 | [Vikings](https://open.spotify.com/track/5qirIQ2MMhySjzxVDDWTas) | [Celestial Aeon Project](https://open.spotify.com/artist/3erL8NEQbmmOXhO6yyVWxO), [forfedre](https://open.spotify.com/artist/56lSAnlEsyFYGXvdzXyICW) | [Drömmer](https://open.spotify.com/album/5kIFqtdB34Q3nFsOUavKUB) | 4:37 | 2023-02-02 | 2023-03-26 |
 | [Vinyl and a Heartache](https://open.spotify.com/track/4Cvj1Q6S7FktJwwkJLaS9V) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [Vinyl and a Heartache](https://open.spotify.com/album/2xvl46LPQ9xmyj6Z2M9FB9) | 3:51 | 2021-12-02 | 2022-04-21 |
-| [Vulnerable](https://open.spotify.com/track/3lCDch1ZQ7LThCk73gHjBd) | [Oklahoma](https://open.spotify.com/artist/5Z7ieWTfU3i06MVBgT6Cow) | [Vulnerable](https://open.spotify.com/album/1TFFXYhwLKAiRV3tSBEfLS) | 3:14 | 2025-04-10 |  |
+| [Vulnerable](https://open.spotify.com/track/3lCDch1ZQ7LThCk73gHjBd) | [Oklahoma](https://open.spotify.com/artist/5Z7ieWTfU3i06MVBgT6Cow) | [Vulnerable](https://open.spotify.com/album/1TFFXYhwLKAiRV3tSBEfLS) | 3:14 | 2025-04-10 | 2025-11-19 |
 | [vár](https://open.spotify.com/track/34iSLP2Qs7dH4BZqP0Bj9U) | [Fay Wildhagen](https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P) | [vár](https://open.spotify.com/album/4Fy4CcZQ4WpfmRjfNmQMZF) | 3:51 | 2023-05-04 | 2024-05-16 |
 | [Waiting](https://open.spotify.com/track/2KcQh6QnfN40xDTatsybsG) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt) | [Skisser](https://open.spotify.com/album/6H8XTjfJNrNohKU7RB67JI) | 3:04 | 2023-02-16 | 2024-04-19 |
 | [Waiting](https://open.spotify.com/track/4uVC8WydYHDmemPeYov9rZ) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt) | [EPII \(+ Skisser EP\)](https://open.spotify.com/album/4WQf5Do7ASTXKeaRjnzgm9) | 3:04 | 2022-07-14 | 2023-02-25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 
 > Warm indie dance vibes 🌞 the music you need at golden hour
 
-[Spotify](https://open.spotify.com/user/spotify) - 694,819 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 694,839 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 | 93 | [Casita](https://open.spotify.com/track/3HjAGIYYXG7PS7OegQa0xM) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Casita](https://open.spotify.com/album/584aNZB5CF6IXG90Ch28KC) | 3:26 |
 | 94 | [I Do \- Vandelux Remix](https://open.spotify.com/track/5muXOWzcV0ckxYq0ATO1EW) | [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg), [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [I Do \(Vandelux Remix\)](https://open.spotify.com/album/7buYOcQDCOELG8eJuS5Zif) | 3:16 |
 | 95 | [Baby Blue \(feat\. Oliver Sim\)](https://open.spotify.com/track/03vfFtmD5SMZ7rpQm6KXTv) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm) | [Anemoia](https://open.spotify.com/album/3kse3e9XxmIedJb9bfjErH) | 4:02 |
-| 96 | [Make Me Feel Better \- 2025 Edit](https://open.spotify.com/track/0GqZ3deuRcromFjc404K4M) | [Alex Adair](https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5) | [Make Me Feel Better \(2025 Edit\)](https://open.spotify.com/album/1w9U8eM9PXqN3DPgiS2NiE) | 2:27 |
-| 97 | [open this wall](https://open.spotify.com/track/4m30cfL2qOwlFsuGqMOZ8k) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141) | [open this wall](https://open.spotify.com/album/1NjMj1u1EQxn8oESg40bPA) | 2:36 |
+| 96 | [open this wall](https://open.spotify.com/track/4m30cfL2qOwlFsuGqMOZ8k) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141) | [open this wall](https://open.spotify.com/album/1NjMj1u1EQxn8oESg40bPA) | 2:36 |
+| 97 | [Make Me Feel Better \- 2025 Edit](https://open.spotify.com/track/0GqZ3deuRcromFjc404K4M) | [Alex Adair](https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5) | [Make Me Feel Better \(2025 Edit\)](https://open.spotify.com/album/1w9U8eM9PXqN3DPgiS2NiE) | 2:27 |
 | 98 | [Canary Islands](https://open.spotify.com/track/7MuU7UbVaKyu4HkHBoHwrD) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Canary Islands](https://open.spotify.com/album/3T0gMffhvjVW4DQi6PUj1L) | 3:24 |
 | 99 | [Keep It Rising](https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:14 |
 | 100 | [Music On The Radio](https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Music On The Radio](https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv) | 2:56 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqpDKK4ed9O.md) - [plain]
 
 > Tight Roll your jeans, break out the CK1, and set the mood...
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,678,010 likes - 75 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,678,266 likes - 75 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,17 +69,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqpDKK4ed9O.md) - [plain]
 | 59 | [Vision of Love](https://open.spotify.com/track/0gLQ6jhJsyYfl7PrD1RZ7X) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Mariah Carey](https://open.spotify.com/album/5SwNGsGw1I8H361DKiYnnn) | 3:29 |
 | 60 | [A Whole New World \(Aladdin's Theme\)](https://open.spotify.com/track/4tS8xQfyPGc7f4lJ1JP6BX) | [Peabo Bryson](https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0), [Regina Belle](https://open.spotify.com/artist/3J9tQvcK0bY3CcVcgRELxH) | [Passion](https://open.spotify.com/album/3JoYvcDgsinWj0xCb4SaoC) | 4:03 |
 | 61 | [Can You Feel The Love Tonight](https://open.spotify.com/track/67HKtdqchK0rmODxsBeWT8) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Love Songs](https://open.spotify.com/album/1bnoqPJyaxMCtYuSprcBTD) | 4:00 |
-| 62 | [Constant Craving \- 2010 Remaster](https://open.spotify.com/track/0wCrg1LhgPcGMw51qqpI6k) | [k.d\. lang](https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586) | [Recollection](https://open.spotify.com/album/22TXLyA5GOT19O9hIdAHLE) | 4:37 |
-| 63 | [From a Distance](https://open.spotify.com/track/48eiLW57CqSmCYNZRM2J8M) | [Bette Midler](https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W) | [Some People's Lives](https://open.spotify.com/album/7s86va7L6qq82p0y7KVBeb) | 4:36 |
+| 62 | [From a Distance](https://open.spotify.com/track/48eiLW57CqSmCYNZRM2J8M) | [Bette Midler](https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W) | [Some People's Lives](https://open.spotify.com/album/7s86va7L6qq82p0y7KVBeb) | 4:36 |
+| 63 | [Constant Craving \- 2010 Remaster](https://open.spotify.com/track/0wCrg1LhgPcGMw51qqpI6k) | [k.d\. lang](https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586) | [Recollection](https://open.spotify.com/album/22TXLyA5GOT19O9hIdAHLE) | 4:37 |
 | 64 | [I Want You to Want Me](https://open.spotify.com/track/3DcPLPvsZPcFcYfMPMfh4e) | [Letters To Cleo](https://open.spotify.com/artist/7E41j1yL9ZeTWfqe9bUGgw) | [When Did We Do That?](https://open.spotify.com/album/1c2pJwy1y3eSP2Nknt0rp8) | 3:26 |
 | 65 | [Wonderful Tonight](https://open.spotify.com/track/5hBEqzQ2az9kDXRXJTDCZw) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Playlist](https://open.spotify.com/album/3FAdNzCY6H7I8V8TrNwFoI) | 3:42 |
-| 66 | [Baby Baby \- 7" No Getting Over You Mix](https://open.spotify.com/track/3SkVJ7vpdmLSWPgnGTPqsW) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Heart In Motion \(30th Anniversary Edition\)](https://open.spotify.com/album/10TrG0LzNwYP8nvAckpPtD) | 4:01 |
-| 67 | [I Wanna Love You Forever](https://open.spotify.com/track/5gZEhPrN1VLqTG1nIAXeNK) | [Jessica Simpson](https://open.spotify.com/artist/2tFN9ubMXEhdAQvdQxcsma) | [Sweet Kisses](https://open.spotify.com/album/2z4kcQqO0W8des2nWq5ECY) | 4:23 |
+| 66 | [I Wanna Love You Forever](https://open.spotify.com/track/5gZEhPrN1VLqTG1nIAXeNK) | [Jessica Simpson](https://open.spotify.com/artist/2tFN9ubMXEhdAQvdQxcsma) | [Sweet Kisses](https://open.spotify.com/album/2z4kcQqO0W8des2nWq5ECY) | 4:23 |
+| 67 | [Baby Baby \- 7" No Getting Over You Mix](https://open.spotify.com/track/3SkVJ7vpdmLSWPgnGTPqsW) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Heart In Motion \(30th Anniversary Edition\)](https://open.spotify.com/album/10TrG0LzNwYP8nvAckpPtD) | 4:01 |
 | 68 | [Anything](https://open.spotify.com/track/2AtBXRPCZhtIqSGF5ap33B) | [3T](https://open.spotify.com/artist/5rAaG3OuMuWvPWYji9TDgh) | [Brotherhood](https://open.spotify.com/album/5lSFQLg4GgtOZcnY8yXabS) | 5:21 |
 | 69 | [Boy You Knock Me Out](https://open.spotify.com/track/4sWg7HV5QWRlAupyS1KWCg) | [Tatyana Ali](https://open.spotify.com/artist/4ZYkqq2f8wA9vkV4iQIo4C) | [Kiss The Sky](https://open.spotify.com/album/2nJhrAmvHiaScCGBhZTkC1) | 4:10 |
 | 70 | [You're Still The One](https://open.spotify.com/track/7wCH9DbgRs7ujHeqNy6oAS) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/0vOj0JVKv2bobFBBUTjgQF) | 3:32 |
-| 71 | [No Ordinary Love](https://open.spotify.com/track/42vYxMAWsFpBOS7hgAdzqW) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Love Deluxe](https://open.spotify.com/album/6Y8lHGQqTmbE6Hhj1mMCkX) | 7:20 |
-| 72 | [Because You Loved Me](https://open.spotify.com/track/6hRcrByB9i6rYRiHNh170N) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Falling Into You](https://open.spotify.com/album/08aLDHdtfHxjtOmEHusqGC) | 4:33 |
+| 71 | [Because You Loved Me](https://open.spotify.com/track/6hRcrByB9i6rYRiHNh170N) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Falling Into You](https://open.spotify.com/album/08aLDHdtfHxjtOmEHusqGC) | 4:33 |
+| 72 | [No Ordinary Love](https://open.spotify.com/track/42vYxMAWsFpBOS7hgAdzqW) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Love Deluxe](https://open.spotify.com/album/6Y8lHGQqTmbE6Hhj1mMCkX) | 7:20 |
 | 73 | [End Of The Road](https://open.spotify.com/track/3ZxhEGcEmCuwyBzwqCa7oW) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Cooleyhighharmony \- Expanded Edition](https://open.spotify.com/album/0hizzarWYWhBfygpvfFOnt) | 5:49 |
 | 74 | [Back At One](https://open.spotify.com/track/0CjrIEPmqIKnBHy99hun3v) | [Brian McKnight](https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9) | [Back At One](https://open.spotify.com/album/3QWvaUt6fJpYf9KqTPilPm) | 4:22 |
 | 75 | [Love Is All Around \- From "Four Weddings and a Funeral" Original Motion Picture Soundtrack](https://open.spotify.com/track/0A1Y3N4dwrTnjPLiuIMeDk) | [Wet Wet Wet](https://open.spotify.com/artist/2u0gw0uCWBMiqV7h0N8kai) | [Picture This](https://open.spotify.com/album/2lODNMYgdKlOXvj8K4imjE) | 4:06 |

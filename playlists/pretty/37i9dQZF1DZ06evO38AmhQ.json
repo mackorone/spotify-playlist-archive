@@ -1,12 +1,12 @@
 {
   "description": "This is John Williamson. The essential tracks, all in one playlist.",
-  "num_followers": 22039,
+  "num_followers": 22041,
   "original_name": "This Is John Williamson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRkUAAAAAAB9eWf5VUy2vz0y0FyAx8YU",
+  "snapshot_id": "aRplgAAAAABbB51zJBbu+wx+WUwdWd9V",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Warragul",
-        "url": "https://open.spotify.com/album/2NCVm7h6nqijtPmxteTsrl"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 182893,
-      "name": "Rip Rip Woodchip",
-      "url": "https://open.spotify.com/track/2b56dVNyNzRDP01lM3b8n0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mallee Boy",
         "url": "https://open.spotify.com/album/5M2PUXuOVJ4YhsSkQNIKD3"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 271160,
       "name": "Raining on the Rock",
       "url": "https://open.spotify.com/track/4RZXrZvFHCZY8BOQG2JzAK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Warragul",
+        "url": "https://open.spotify.com/album/2NCVm7h6nqijtPmxteTsrl"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 182893,
+      "name": "Rip Rip Woodchip",
+      "url": "https://open.spotify.com/track/2b56dVNyNzRDP01lM3b8n0"
     },
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Waratah St.",
-        "url": "https://open.spotify.com/album/67oWpbbiJmI38ps3SLi0GN"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 206600,
-      "name": "Goondiwindi Pork",
-      "url": "https://open.spotify.com/track/0dvoVIjcF2xszyR0A4gfx8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mallee Boy",
         "url": "https://open.spotify.com/album/5M2PUXuOVJ4YhsSkQNIKD3"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 182933,
       "name": "Diamantina Drover",
       "url": "https://open.spotify.com/track/2MVhIpEf23BMw7NxlU3AGZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Waratah St.",
+        "url": "https://open.spotify.com/album/67oWpbbiJmI38ps3SLi0GN"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 206600,
+      "name": "Goondiwindi Pork",
+      "url": "https://open.spotify.com/track/0dvoVIjcF2xszyR0A4gfx8"
     },
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anthems - A Celebration of Australia",
-        "url": "https://open.spotify.com/album/2P5hfHC2zNLTYhpPTIfMGy"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 230360,
-      "name": "Waltzing Matilda 2000",
-      "url": "https://open.spotify.com/track/3xHpEd9vn7tPjbWpS79VeU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mallee Boy",
         "url": "https://open.spotify.com/album/5M2PUXuOVJ4YhsSkQNIKD3"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 197666,
       "name": "Mallee Boy",
       "url": "https://open.spotify.com/track/72NkwThw0PDHasUu7WomDm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anthems - A Celebration of Australia",
+        "url": "https://open.spotify.com/album/2P5hfHC2zNLTYhpPTIfMGy"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 230360,
+      "name": "Waltzing Matilda 2000",
+      "url": "https://open.spotify.com/track/3xHpEd9vn7tPjbWpS79VeU"
     },
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chandelier of Stars",
-        "url": "https://open.spotify.com/album/7vfX3S5EyXnUd5AOUeKQXi"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 193013,
-      "name": "Flower on the Water",
-      "url": "https://open.spotify.com/track/5nKQJrsJlVjtZBjQgkXaCj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mallee Boy",
         "url": "https://open.spotify.com/album/5M2PUXuOVJ4YhsSkQNIKD3"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 232133,
       "name": "Cootamundra Wattle",
       "url": "https://open.spotify.com/track/0gyWlfuZqPzfBdbE5sF3kM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chandelier of Stars",
+        "url": "https://open.spotify.com/album/7vfX3S5EyXnUd5AOUeKQXi"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 193013,
+      "name": "Flower on the Water",
+      "url": "https://open.spotify.com/track/5nKQJrsJlVjtZBjQgkXaCj"
     },
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anthems - A Celebration of Australia",
-        "url": "https://open.spotify.com/album/2P5hfHC2zNLTYhpPTIfMGy"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "This Is Australia Calling",
-      "url": "https://open.spotify.com/track/42ZwdT2pu6qZUkEZReNsDW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mallee Boy",
         "url": "https://open.spotify.com/album/5M2PUXuOVJ4YhsSkQNIKD3"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 250693,
       "name": "Galleries of Pink Galahs",
       "url": "https://open.spotify.com/track/6nn65PSai61Mh8eWEC6Yit"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anthems - A Celebration of Australia",
+        "url": "https://open.spotify.com/album/2P5hfHC2zNLTYhpPTIfMGy"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "This Is Australia Calling",
+      "url": "https://open.spotify.com/track/42ZwdT2pu6qZUkEZReNsDW"
     },
     {
       "added_at": null,
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Old Man Emu",
-        "url": "https://open.spotify.com/album/39Uimqur7UcRay3BIZbj0b"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 222840,
-      "name": "Diggers of the Anzac (This Is Gallipoli)",
-      "url": "https://open.spotify.com/track/3la6OrVG3kkgZfnA9zb4nV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mallee Boy",
         "url": "https://open.spotify.com/album/5M2PUXuOVJ4YhsSkQNIKD3"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 189733,
       "name": "Three Rivers Hotel",
       "url": "https://open.spotify.com/track/2AW8dwJEdOfumSVNwxfeIg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Old Man Emu",
+        "url": "https://open.spotify.com/album/39Uimqur7UcRay3BIZbj0b"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 222840,
+      "name": "Diggers of the Anzac (This Is Gallipoli)",
+      "url": "https://open.spotify.com/track/3la6OrVG3kkgZfnA9zb4nV"
     },
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hillbilly Road",
-        "url": "https://open.spotify.com/album/5aHA8o7BxsjRQFflSG8RII"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 180866,
-      "name": "Cydi",
-      "url": "https://open.spotify.com/track/0a6fEDzinYAy6xHwYAnANl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Way It Is",
         "url": "https://open.spotify.com/album/5aMccnKBVkDleMGLRglrGx"
       },
@@ -527,6 +511,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hillbilly Road",
+        "url": "https://open.spotify.com/album/5aHA8o7BxsjRQFflSG8RII"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 180866,
+      "name": "Cydi",
+      "url": "https://open.spotify.com/track/0a6fEDzinYAy6xHwYAnANl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Warragul",
         "url": "https://open.spotify.com/album/2NCVm7h6nqijtPmxteTsrl"
       },
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
         }
       ],
-      "duration_ms": 192240,
-      "name": "Amazing Day",
-      "url": "https://open.spotify.com/track/4WqwsO0HkaLFNb6rdWt7FR"
+      "duration_ms": 202560,
+      "name": "Dingo",
+      "url": "https://open.spotify.com/track/4RkZxYF4v9mQLsr0bLGGnP"
     },
     {
       "added_at": null,
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
         }
       ],
-      "duration_ms": 202560,
-      "name": "Dingo",
-      "url": "https://open.spotify.com/track/4RkZxYF4v9mQLsr0bLGGnP"
+      "duration_ms": 192240,
+      "name": "Amazing Day",
+      "url": "https://open.spotify.com/track/4WqwsO0HkaLFNb6rdWt7FR"
     },
     {
       "added_at": null,
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
         }
       ],
-      "duration_ms": 204778,
-      "name": "Don't Let The Old Man In, Mate",
-      "url": "https://open.spotify.com/track/3GR2aZYjiCEATw9eZdrroW"
+      "duration_ms": 166352,
+      "name": "Losin' My Mojo",
+      "url": "https://open.spotify.com/track/6R23XJHeB5iqQO5GUpapUw"
     },
     {
       "added_at": null,

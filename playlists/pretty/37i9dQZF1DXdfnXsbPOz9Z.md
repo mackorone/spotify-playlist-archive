@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfnXsbPOz9Z.md) - [plain]
 
 > Les tubes pop pour toute la famille
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,691 likes - 87 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,694 likes - 87 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfnXsbPOz9Z.md) - [plain]
 | 45 | [Le bleu lumière](https://open.spotify.com/track/4QR3jOfoQsKfQo5oZpJpvX) | [Kids Love Disney](https://open.spotify.com/artist/18rYh1xRfgPUwxDn7EIrmX), [Lévanah Solomon](https://open.spotify.com/artist/2EuNgNFjFo6iboDB1y9Qqc) | [Kids Love Disney](https://open.spotify.com/album/0waeL4km2PxZJ6je5pjONA) | 3:02 |
 | 46 | [Born This Way](https://open.spotify.com/track/6pEmoxeTm8dqqwHoCken25) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [Mini Pop Kids 17](https://open.spotify.com/album/0PlHp1bBQQFotUqHhgvB1t) | 4:20 |
 | 47 | [J'attendrai](https://open.spotify.com/track/69umE2ZfGER4uWkwHQiolv) | [Les Petites Canailles](https://open.spotify.com/artist/6voz31jmwRIKeVeFaz3EyW) | [Chantent Salut Les Copains](https://open.spotify.com/album/36P3kv9uCTQxBnOlFeD3XI) | 3:29 |
-| 48 | [Cake By The Ocean](https://open.spotify.com/track/7E4H1GK0ZcYkw8gA9fTReu) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 32](https://open.spotify.com/album/3lsKnrF4QO2ZG3zcZJM80W) | 3:24 |
+| 48 | [Cake By The Ocean](https://open.spotify.com/track/7E4H1GK0ZcYkw8gA9fTReu) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 32](https://open.spotify.com/album/3lsKnrF4QO2ZG3zcZJM80W) | 3:21 |
 | 49 | [Uptown Funk](https://open.spotify.com/track/59JJfPTYKTm4hZJi3CvmDf) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop 28](https://open.spotify.com/album/21BOMSlYp2czN91z9HaTI2) | 3:44 |
 | 50 | [Mama Africa \(feat\. Angélique Kidjo et Youssou Ndour\)](https://open.spotify.com/track/27N8TFqYeZhdrgFITRJncP) | [Kids United](https://open.spotify.com/artist/3Te4igcN19D4UGSdcb20Vs), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Youssou N'Dour](https://open.spotify.com/artist/77zlytAFjPFjUKda8TNIDY) | [Forever United](https://open.spotify.com/album/0kdYKYkOPYCjEfaw9AdTZJ) | 2:49 |
 | 51 | [Havana](https://open.spotify.com/track/7dwiNsnIY3xOrE0k4kVDEl) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [Mini Pop Kids 15](https://open.spotify.com/album/18maOqDk7WqDrp28Kbshdw) | 3:35 |

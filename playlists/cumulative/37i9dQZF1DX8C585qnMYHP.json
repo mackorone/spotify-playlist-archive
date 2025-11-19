@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-30",
-  "description": "The best new music by Experimental independent artists. <a href=\"spotify:artist:7nfBxjb99prCqaT3wk87u5\">Samba Jean-Baptiste</a> on cover. Artwork by Thami Nabil",
+  "description": "The best new music by Experimental independent artists. <a href=\"spotify:artist:2gSV6FsMxBBH01LLNgx6HU\">Babau</a> on cover. Artwork by Thami Nabil",
   "name": "Fresh Finds Experimental",
   "tracks": [
     {
@@ -2734,6 +2734,24 @@
       "duration_ms": 151838,
       "name": "Anomaly",
       "url": "https://open.spotify.com/track/2qbm8KA7O83nPviXa5aK5I"
+    },
+    {
+      "album": {
+        "name": "Another Version of You",
+        "url": "https://open.spotify.com/album/0Ksc08PxB1ev3DwvUKI8TX"
+      },
+      "artists": [
+        {
+          "name": "Kaymo",
+          "url": "https://open.spotify.com/artist/50xF3MVAwmJ5xHzwPYgHFc"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133980,
+      "name": "Another Version of You",
+      "url": "https://open.spotify.com/track/2wj12tINYjAXHMzTX8yQ28"
     },
     {
       "album": {
@@ -7268,6 +7286,24 @@
       "duration_ms": 256799,
       "name": "Cockpit",
       "url": "https://open.spotify.com/track/2sDNl24Qmjani2isK1xm5R"
+    },
+    {
+      "album": {
+        "name": "Cocoon",
+        "url": "https://open.spotify.com/album/2uwbXDzfDu2CIU4nfCklvH"
+      },
+      "artists": [
+        {
+          "name": "Fight Pausa",
+          "url": "https://open.spotify.com/artist/1BkdvKE1YNIAAWrLNzLWKU"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169560,
+      "name": "Cocoon",
+      "url": "https://open.spotify.com/track/6D4ggqizOhkUMbVVBvoHlB"
     },
     {
       "album": {
@@ -14408,6 +14444,24 @@
       "duration_ms": 190227,
       "name": "Grief",
       "url": "https://open.spotify.com/track/0or9ecG4kf9Mp2kk5KKq0E"
+    },
+    {
+      "album": {
+        "name": "Grief",
+        "url": "https://open.spotify.com/album/1QucVHnWfS3U2IjEMnEd54"
+      },
+      "artists": [
+        {
+          "name": "Mai Mai Mai",
+          "url": "https://open.spotify.com/artist/5qVRuanPGaUlDLpcS4l7b3"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272000,
+      "name": "Grief",
+      "url": "https://open.spotify.com/track/1WvlzTLQuAzhAWgnWQFydt"
     },
     {
       "album": {
@@ -22616,7 +22670,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 130872,
       "name": "Muddy Shores",
       "url": "https://open.spotify.com/track/0XZo0HtwB9W3m3O4Dgc6XN"
@@ -23272,7 +23326,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 152239,
       "name": "Nella regione della notte infinita",
       "url": "https://open.spotify.com/track/6ue9LNm3XGMtpR2Xprqc8y"
@@ -33162,7 +33216,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 166528,
       "name": "The Big E",
       "url": "https://open.spotify.com/track/4CIGIijEyrDgrLeS1TWvXp"
@@ -34130,6 +34184,24 @@
       "duration_ms": 343000,
       "name": "The Sonic Lathe",
       "url": "https://open.spotify.com/track/1Ce9qt27fsqOc9Vlh2CJne"
+    },
+    {
+      "album": {
+        "name": "The Sludge of the Land",
+        "url": "https://open.spotify.com/album/4HZ9GCqvFEraON1Vf3YQQ6"
+      },
+      "artists": [
+        {
+          "name": "Babau",
+          "url": "https://open.spotify.com/artist/2gSV6FsMxBBH01LLNgx6HU"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291792,
+      "name": "The sound of a continent moving\u2026 animals, plants and minerals included",
+      "url": "https://open.spotify.com/track/1QbN0pkKWRDE0eEIvGVOUJ"
     },
     {
       "album": {
@@ -37742,7 +37814,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 132318,
       "name": "Waiting pt 1",
       "url": "https://open.spotify.com/track/06ctaytGDUM1piASlJKz7C"

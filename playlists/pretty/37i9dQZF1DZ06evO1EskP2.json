@@ -1,12 +1,12 @@
 {
   "description": "This is Anuhea. The essential tracks, all in one playlist.",
-  "num_followers": 3012,
+  "num_followers": 3013,
   "original_name": "This Is Anuhea",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRkUAAAAAACgNtsU4is561tHJYYK8mO3",
+  "snapshot_id": "aRplgAAAAAC5Mx1WrHuCX2/nMWdLjQbm",
   "tracks": [
     {
       "added_at": null,
@@ -99,22 +99,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shoulders",
-        "url": "https://open.spotify.com/album/7buSBKgqzmaxh2UM6GqPsG"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 211546,
-      "name": "Sweet Thing",
-      "url": "https://open.spotify.com/track/5PvuGqN2szvSEzGMHdibG4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Butterflies: Live",
         "url": "https://open.spotify.com/album/6tGf0r6xL71YKHg9Xj8mjo"
       },
@@ -131,6 +115,22 @@
       "duration_ms": 273000,
       "name": "Perfect Day",
       "url": "https://open.spotify.com/track/1cUzoEuPjVFowBl96Yttjy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shoulders",
+        "url": "https://open.spotify.com/album/7buSBKgqzmaxh2UM6GqPsG"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 211546,
+      "name": "Sweet Thing",
+      "url": "https://open.spotify.com/track/5PvuGqN2szvSEzGMHdibG4"
     },
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shoulders",
-        "url": "https://open.spotify.com/album/7buSBKgqzmaxh2UM6GqPsG"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 261333,
-      "name": "Island Inside Me",
-      "url": "https://open.spotify.com/track/4Wh8r8STbZbLI0uwTu2553"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lotus",
         "url": "https://open.spotify.com/album/5LAF7qiJaWB4m479AfZo8c"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 199035,
       "name": "Heart Revival",
       "url": "https://open.spotify.com/track/1m2JpJxlT4eoTeTmWliUDC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shoulders",
+        "url": "https://open.spotify.com/album/7buSBKgqzmaxh2UM6GqPsG"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 261333,
+      "name": "Island Inside Me",
+      "url": "https://open.spotify.com/track/4Wh8r8STbZbLI0uwTu2553"
     },
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anuhea",
-        "url": "https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 206240,
-      "name": "Here I Go Again",
-      "url": "https://open.spotify.com/track/1Cy9L9plJX7ZAuQhfL5VR6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Haters (Remix)",
         "url": "https://open.spotify.com/album/5AXqdEnnL69bGBt4DOUxQX"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 238492,
       "name": "Haters - Remix",
       "url": "https://open.spotify.com/track/2GXLbTBGnx0Aye2rwXvpuD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anuhea",
+        "url": "https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 206240,
+      "name": "Here I Go Again",
+      "url": "https://open.spotify.com/track/1Cy9L9plJX7ZAuQhfL5VR6"
     },
     {
       "added_at": null,
@@ -607,38 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A10: Best of Anuhea",
-        "url": "https://open.spotify.com/album/1YDTiycP1SilLdmMYc2nJv"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 215700,
-      "name": "True Colors/Kou \u2018Ano K\u00fc I\u2019o - Live",
-      "url": "https://open.spotify.com/track/5mGsLdpxK4AEIrIltjN5EV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Follow Me (Deluxe Hawai'i Edition)",
-        "url": "https://open.spotify.com/album/4c4vgaWEUemG8kwaTXf2Ro"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 234004,
-      "name": "I Won't Settle",
-      "url": "https://open.spotify.com/track/1QgwtjWPomK2PbRznDlEtL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Easier (Jr Blender RMX)",
         "url": "https://open.spotify.com/album/7eunXbvj3GuwKeqj3p4ng6"
       },
@@ -655,6 +623,22 @@
       "duration_ms": 198779,
       "name": "Easier - Jr Blender RMX",
       "url": "https://open.spotify.com/track/4s0GzPbwf1Sazl7bmRgbpe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Follow Me (Deluxe Hawai'i Edition)",
+        "url": "https://open.spotify.com/album/4c4vgaWEUemG8kwaTXf2Ro"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 234004,
+      "name": "I Won't Settle",
+      "url": "https://open.spotify.com/track/1QgwtjWPomK2PbRznDlEtL"
     },
     {
       "added_at": null,
@@ -679,28 +663,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Moku Soul",
-        "url": "https://open.spotify.com/album/5lub4VYUShQhVn5mbXI9C4"
-      },
-      "artists": [
-        {
-          "name": "Tripp Wilson",
-          "url": "https://open.spotify.com/artist/64XlOh0rLImlemlEJQIZOz"
-        },
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 190463,
-      "name": "Underrated",
-      "url": "https://open.spotify.com/track/09VTT2i6TQDW7odyZ81wlR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Follow Me (Deluxe Hawai'i Edition)",
-        "url": "https://open.spotify.com/album/4c4vgaWEUemG8kwaTXf2Ro"
+        "name": "A10: Best of Anuhea",
+        "url": "https://open.spotify.com/album/1YDTiycP1SilLdmMYc2nJv"
       },
       "artists": [
         {
@@ -708,9 +672,9 @@
           "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
         }
       ],
-      "duration_ms": 187376,
-      "name": "Riddles",
-      "url": "https://open.spotify.com/track/1OBZDE54aqEtA5aEGzlJUV"
+      "duration_ms": 215700,
+      "name": "True Colors/Kou \u2018Ano K\u00fc I\u2019o - Live",
+      "url": "https://open.spotify.com/track/5mGsLdpxK4AEIrIltjN5EV"
     },
     {
       "added_at": null,
@@ -731,8 +695,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anuhea",
-        "url": "https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7"
+        "name": "Follow Me (Deluxe Hawai'i Edition)",
+        "url": "https://open.spotify.com/album/4c4vgaWEUemG8kwaTXf2Ro"
       },
       "artists": [
         {
@@ -740,9 +704,29 @@
           "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
         }
       ],
-      "duration_ms": 284680,
-      "name": "Right Love, Wrong Time",
-      "url": "https://open.spotify.com/track/1KgBgZkEXySiIfzCZ3CGkR"
+      "duration_ms": 187376,
+      "name": "Riddles",
+      "url": "https://open.spotify.com/track/1OBZDE54aqEtA5aEGzlJUV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Moku Soul",
+        "url": "https://open.spotify.com/album/5lub4VYUShQhVn5mbXI9C4"
+      },
+      "artists": [
+        {
+          "name": "Tripp Wilson",
+          "url": "https://open.spotify.com/artist/64XlOh0rLImlemlEJQIZOz"
+        },
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 190463,
+      "name": "Underrated",
+      "url": "https://open.spotify.com/track/09VTT2i6TQDW7odyZ81wlR"
     },
     {
       "added_at": null,
@@ -759,6 +743,22 @@
       "duration_ms": 226185,
       "name": "Walk on Water",
       "url": "https://open.spotify.com/track/3M8Dda5bgZZKHtqPIitRDx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anuhea",
+        "url": "https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 284680,
+      "name": "Right Love, Wrong Time",
+      "url": "https://open.spotify.com/track/1KgBgZkEXySiIfzCZ3CGkR"
     },
     {
       "added_at": null,

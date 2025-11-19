@@ -39,7 +39,7 @@
       "date_added": "2017-11-08",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 162040,
+      "duration_ms": 162046,
       "name": "Baby, It's Cold Outside (feat. Kira Isabella)",
       "url": "https://open.spotify.com/track/06HNNnj7ID04gJoQs6AqUT"
     },
@@ -175,24 +175,6 @@
     },
     {
       "album": {
-        "name": "A Pentatonix Christmas",
-        "url": "https://open.spotify.com/album/3oXvzShPN8iY2P1UYl3WVJ"
-      },
-      "artists": [
-        {
-          "name": "Pentatonix",
-          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
-        }
-      ],
-      "date_added": "2017-11-08",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 148160,
-      "name": "Coldest Winter",
-      "url": "https://open.spotify.com/track/128P4o9nj5P7PMrnKib8QM"
-    },
-    {
-      "album": {
         "name": "A Pentatonix Christmas Deluxe",
         "url": "https://open.spotify.com/album/3sId8sOH47yqOWopzbEtJn"
       },
@@ -208,6 +190,24 @@
       "duration_ms": 148160,
       "name": "Coldest Winter",
       "url": "https://open.spotify.com/track/7GZ4WYixf0D6DWvvi60yTM"
+    },
+    {
+      "album": {
+        "name": "A Pentatonix Christmas",
+        "url": "https://open.spotify.com/album/3oXvzShPN8iY2P1UYl3WVJ"
+      },
+      "artists": [
+        {
+          "name": "Pentatonix",
+          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+        }
+      ],
+      "date_added": "2017-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148204,
+      "name": "Coldest Winter",
+      "url": "https://open.spotify.com/track/128P4o9nj5P7PMrnKib8QM"
     },
     {
       "album": {
@@ -1555,7 +1555,7 @@
       "date_added": "2017-11-08",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 207853,
+      "duration_ms": 207106,
       "name": "Winter Wonderland / Don't Worry Be Happy (feat. Tori Kelly)",
       "url": "https://open.spotify.com/track/2kPpxNSgXRvu5yqkRLKJIu"
     },

@@ -4,7 +4,7 @@
 
 > Workout with Haryanvi Songs.
 
-164 songs - 8 hr 5 min
+165 songs - 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [No Mercy](https://open.spotify.com/track/5vdsRp6ExGxmfuJ2cG5Kqx) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb), [Desi Melbourniye](https://open.spotify.com/artist/3ZDK52wRO5QRwoW3QyyRfH) | [No Mercy](https://open.spotify.com/album/0ig0cN50Yv63nJs0O0LyZo) | 3:05 | 2023-10-03 | 2023-11-10 |
 | [No One Knows](https://open.spotify.com/track/03zEU8s3KD7erkkXN3GWgR) | [Gulzaar Chhaniwala](https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo) | [No One Knows](https://open.spotify.com/album/0wwZVKonQFQMtpHAHHW2Zs) | 3:12 | 2023-07-24 |  |
 | [Not Easy](https://open.spotify.com/track/5dqMj4M6sgJIVa12Qjqjlq) | [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe) | [Not Easy](https://open.spotify.com/album/0LTyNtAmZv7JENRDAFMA8Y) | 2:56 | 2025-03-10 | 2025-09-13 |
-| [Notorious Desi](https://open.spotify.com/track/7yCQyuIqzHtXBsIY0OiNti) | [Ndee Kundu](https://open.spotify.com/artist/61P6g4b3TgZ9m2caJlXS4K) | [Notorious Desi](https://open.spotify.com/album/0DBU7BkdjqHsgAT5WgvkFh) | 2:46 | 2024-03-26 |  |
+| [Notorious Desi](https://open.spotify.com/track/7yCQyuIqzHtXBsIY0OiNti) | [Ndee Kundu](https://open.spotify.com/artist/61P6g4b3TgZ9m2caJlXS4K) | [Notorious Desi](https://open.spotify.com/album/0DBU7BkdjqHsgAT5WgvkFh) | 2:46 | 2024-03-26 | 2025-11-19 |
 | [On The Way](https://open.spotify.com/track/0eXigexcbhLwQXgEtfO8Zv) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck), [KD](https://open.spotify.com/artist/7iLbRJb6dj3iKikgCmapXn) | [On the Way](https://open.spotify.com/album/39KJPgQ0FsWskTQS3h2UCw) | 3:31 | 2023-07-24 | 2024-04-19 |
 | [On The Way](https://open.spotify.com/track/2iPHhqfqRUEDiHhBq5WICc) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck), [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [On The Way](https://open.spotify.com/album/6w2anhBM6gSig6lvPQncTc) | 3:31 | 2024-04-17 | 2025-01-09 |
 | [One Man Army \(feat\. Prithviraj Pilania & Vaishali Chaudhary\)](https://open.spotify.com/track/12RK89LfoWt2i6hgW9Zjjf) | [Masoom Sharma](https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj), [Ashu Twinkle](https://open.spotify.com/artist/5J23fam8Qq5thmzmk91qob), [Prithviraj Pilania](https://open.spotify.com/artist/2Sw4dNokvWTGmDnrKL019k), [Vaishali Chaudhary](https://open.spotify.com/artist/1IAz1o1bWqWHYzx0qKoarq) | [One Man Army \(feat\. Prithviraj Pilania & Vaishali Chaudhary\)](https://open.spotify.com/album/0JHg5HFzkC2FCBqRZRJ9LH) | 2:47 | 2025-10-17 |  |
@@ -145,6 +145,7 @@
 | [Surrey BC](https://open.spotify.com/track/7uMZMs65u1FlVYdmvQKXMs) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Surrey BC](https://open.spotify.com/album/4FZjdxEiFL0HWL4antngWO) | 3:47 | 2025-03-18 |  |
 | [System](https://open.spotify.com/track/2YubJQ3VbHtwSvSed7837i) | [Surender Romio](https://open.spotify.com/artist/2HvRwVX1VLbmdhXy55LDbO), [Manisha Sharma](https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf) | [System](https://open.spotify.com/album/4nMFvVARjlHbvnT3v4hxvG) | 2:31 | 2025-02-27 | 2025-11-17 |
 | [SYSTEM PAAD](https://open.spotify.com/track/5T0zX3YBzgxknRs74X50YM) | [Virat](https://open.spotify.com/artist/3uHCE9eimH5dJx7TLslsmE), [Masoom Sharma](https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj), [Ashu Twinkle](https://open.spotify.com/artist/5J23fam8Qq5thmzmk91qob), [Vaishali Chaudhary](https://open.spotify.com/artist/1IAz1o1bWqWHYzx0qKoarq) | [SYSTEM PAAD](https://open.spotify.com/album/3mqaU3yGoA1XQXV7dj5t4Z) | 2:35 | 2025-10-17 |  |
+| [TAAI AALE](https://open.spotify.com/track/2M4MEYPLhpsD0F2ShNjGEb) | [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [CHILL MODE](https://open.spotify.com/album/2uTPI54D3ApV52k0PsxDQe) | 2:31 | 2025-11-18 |  |
 | [Tagde Karam](https://open.spotify.com/track/4KokOfuYaiKzjpbKbQfiOT) | [Sumit Parta](https://open.spotify.com/artist/3b3PfZsOrb3cPzSCZjawbr) | [Tagde Karam](https://open.spotify.com/album/5rTJ8zrN5kCFWM0uhoCiwa) | 2:45 | 2025-09-19 |  |
 | [Tair Paatge](https://open.spotify.com/track/49fe97w18d7UWkJ5Ig5l0H) | [Gulzaar Chhaniwala](https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo) | [Tair Paatge](https://open.spotify.com/album/55Ac8oT3KR3RaE9tg9QTpG) | 4:05 | 2023-07-24 | 2023-08-01 |
 | [Takkar](https://open.spotify.com/track/4FykPEBDvdSby4OA5CfUqS) | [Hammy Muzic](https://open.spotify.com/artist/7zzosAlsXxJJ5vXPymZZAj), [Music Nasha](https://open.spotify.com/artist/6YvJWewMypP77lmdqRMMkB) | [Nuke](https://open.spotify.com/album/0agmnQzKZ1aKvC4eSFau14) | 2:41 | 2025-02-10 | 2025-03-19 |

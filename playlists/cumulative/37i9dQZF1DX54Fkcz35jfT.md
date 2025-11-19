@@ -2,9 +2,9 @@
 
 ### [Loud Rock Japan](https://open.spotify.com/playlist/37i9dQZF1DX54Fkcz35jfT)
 
-> 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。/ Discover the intensity and emotion resonating through Japan’s hard rock\. Cover: Paledusk
+> Discover the intensity and emotion resonating through Japan’s hard rock\. / 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。Cover: CRYXIS
 
-437 songs - 1 day 1 hr 9 min
+440 songs - 1 day 1 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [DO THE DANCE](https://open.spotify.com/track/0eCjxBaTwjCNksbytKPlqh) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/40a3oAU208h1oFcfi0U25E) | 3:16 | 2024-06-11 | 2025-10-09 |
 | [DO THE DANCE](https://open.spotify.com/track/1dyxnU4Me5DETPSXkNpaDl) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/2KyzFbwIJu1JBkcZsdXbl0) | 3:16 | 2023-09-26 | 2024-04-19 |
 | [DO THE DANCE](https://open.spotify.com/track/6fqHrKRWVAobPJBPvgMEqM) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/7tf9tNN8G9jS6kqCkbDy12) | 3:16 | 2023-07-27 | 2023-07-29 |
-| [Drain Water](https://open.spotify.com/track/0zSJONiunE3g3fGjq7W4kv) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [STEADY](https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w) | 2:11 | 2023-07-20 |  |
+| [Drain Water](https://open.spotify.com/track/0zSJONiunE3g3fGjq7W4kv) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [STEADY](https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w) | 2:11 | 2023-07-20 | 2025-11-19 |
 | [Dreaming](https://open.spotify.com/track/1NC0kno3QW9FgX0vlhZ8pu) | [The Lazy Boys](https://open.spotify.com/artist/0XnOQzDQnQZlyM86Gk0Kt0) | [Dreaming](https://open.spotify.com/album/401eiZdlhvcwISy1FofBpb) | 3:03 | 2024-06-03 | 2024-07-24 |
 | [Drive Far](https://open.spotify.com/track/3eQEUcSoU3CCQBFa8NOq5X) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [Hateful Failures](https://open.spotify.com/album/3wC8Keda4UuvaMsuhhqzdP) | 3:16 | 2023-07-20 | 2025-06-25 |
 | [DUA･RHYTHM](https://open.spotify.com/track/4gTa2HNlJEfGr9q1s2PsFD) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [DUA･RHYTHM](https://open.spotify.com/album/4Cfgh8X6COsvtyirAF5iBF) | 3:33 | 2025-05-20 |  |
@@ -190,6 +190,7 @@
 | [Love at First Sight](https://open.spotify.com/track/6NLHGKCYCnXt7pU6VQSrAf) | [Fear, and Loathing in Las Vegas](https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn) | [Dance & Scream](https://open.spotify.com/album/3FOmxufq21hJt1qWq0MABi) | 4:12 | 2023-08-24 | 2023-12-08 |
 | [Love song](https://open.spotify.com/track/1Xv3BEDnnkYdJbBnoclyA4) | [The BONEZ](https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ) | [Yours](https://open.spotify.com/album/660LlaSFIjdfpzi7pwBjs1) | 2:33 | 2024-04-18 |  |
 | [Love song](https://open.spotify.com/track/4gtuaF2M5Lpl5EYSdAA3Th) | [The BONEZ](https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ) | [Yours](https://open.spotify.com/album/2tHhRVVI82FOCr0nEujtsY) | 2:33 | 2023-07-20 | 2023-07-26 |
+| [LOVEisNIGHTMAREisPAIN](https://open.spotify.com/track/1YhcPVJmLlnzRDZ25TChku) | [CRYXIS](https://open.spotify.com/artist/0TvrBsWkEvGPLDxAksQRpr) | [LOVEisNIGHTMAREisPAIN](https://open.spotify.com/album/4BCbqb2npbkXlHuJ7NgqlF) | 3:02 | 2025-11-18 |  |
 | [MAE](https://open.spotify.com/track/0YgGz6kZcMw4QXq2IM6tAE) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [GOLD IMPRINTS](https://open.spotify.com/album/0u4T0jMskpSiQO0mrw6TNK) | 4:01 | 2023-09-19 | 2024-02-28 |
 | [MAGIC TIME](https://open.spotify.com/track/3qyH4YUfaRDoMvjB4b4TiC) | [Northern19](https://open.spotify.com/artist/4fsXgCjIFWNkCrO2rHd5da) | [MAGIC TIME / CREEPSHOW](https://open.spotify.com/album/1LdYc6r9E8RKlTShRs0myy) | 2:36 | 2023-08-15 | 2023-08-17 |
 | [MAGIC TIME](https://open.spotify.com/track/5bNd9b7Uo65IBAf51un2QJ) | [Northern19](https://open.spotify.com/artist/4fsXgCjIFWNkCrO2rHd5da) | [MAGIC TIME / CREEPSHOW](https://open.spotify.com/album/3G6Zoq3MHR6dlBCyxitVjI) | 2:36 | 2023-08-15 | 2023-08-23 |
@@ -239,7 +240,7 @@
 | [PALEHELL](https://open.spotify.com/track/2UvREDGrD9wA4fcSjcRDpg) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa) | [PALEHELL](https://open.spotify.com/album/4RJm4nESvtZRn9MV3sOs9V) | 3:41 | 2024-02-20 | 2024-04-19 |
 | [PALEHELL](https://open.spotify.com/track/2uiYaLjZv8nRFzL0utxSBd) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa) | [PALEHELL](https://open.spotify.com/album/061Fln1SY6RputuFt6GP5N) | 3:41 | 2024-04-18 |  |
 | [PANDORA](https://open.spotify.com/track/0t5oZjUlb7aWEA5Hq0NAHT) | [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [PANDORA](https://open.spotify.com/album/5TGGYuJI3ajYoww04In6m6) | 3:56 | 2023-07-20 | 2023-11-22 |
-| [PARADISE \(Kill The Silence\)](https://open.spotify.com/track/1YLnHvUtdMN91dmwFE5ueh) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [PARADISE \(Kill The Silence\)](https://open.spotify.com/album/6SdcvS3W4Rhs36uOpb3gb7) | 3:43 | 2023-07-20 |  |
+| [PARADISE \(Kill The Silence\)](https://open.spotify.com/track/1YLnHvUtdMN91dmwFE5ueh) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [PARADISE \(Kill The Silence\)](https://open.spotify.com/album/6SdcvS3W4Rhs36uOpb3gb7) | 3:43 | 2023-07-20 | 2025-11-19 |
 | [Paradox](https://open.spotify.com/track/6A7sTvj68RJAVgTduJEQnA) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [Paradox](https://open.spotify.com/album/5CVLZcnzPNgpSUqJA71HYz) | 4:01 | 2023-07-20 |  |
 | [Paradox](https://open.spotify.com/track/0Xz3vuo3cINtRsZWMsxZUx) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh), [Bonnie Fraser](https://open.spotify.com/artist/4lPsOekQkRVNqFikwNd7jZ) | [Paradox](https://open.spotify.com/album/33O3I5EWGkW54jeNWW1lZZ) | 4:01 | 2023-07-20 | 2023-11-22 |
 | [Parasites](https://open.spotify.com/track/2PvPwvinXuMcF82qkR9DqG) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Parasites](https://open.spotify.com/album/02Tb76LOod9iowVjS8r9sF) | 2:10 | 2024-01-09 | 2024-04-03 |
@@ -284,7 +285,7 @@
 | [Save Yourself](https://open.spotify.com/track/5D5fiDX8MhK3lfHJmZZmpt) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Luxury Disease](https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4) | 3:17 | 2023-07-20 | 2024-04-19 |
 | [Say My Name](https://open.spotify.com/track/1tCiCPvZYVdR5rIxokcqbj) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Rest in Punk](https://open.spotify.com/album/4FhRess5TiGML7doG1wP2e) | 1:48 | 2023-11-02 | 2024-04-19 |
 | [Say My Name](https://open.spotify.com/track/06YNVx8q2zF84s8SfGbxMC) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Say My Name](https://open.spotify.com/album/0Z1B02ZtMcAtgluiIWZTMB) | 1:48 | 2023-10-10 | 2023-11-05 |
-| [Say My Name](https://open.spotify.com/track/0j0GW5mzmOk4upfkXzdNOM) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Say My Name](https://open.spotify.com/album/25nYwRoD4LAWtvCqcgtVm6) | 1:48 | 2023-10-10 |  |
+| [Say My Name](https://open.spotify.com/track/0j0GW5mzmOk4upfkXzdNOM) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Say My Name](https://open.spotify.com/album/25nYwRoD4LAWtvCqcgtVm6) | 1:48 | 2023-10-10 | 2025-11-19 |
 | [Schmerz](https://open.spotify.com/track/5xeD8ZfRdinMDzUfaw1T4B) | [\-真天地開闢集団\-ジグザグ](https://open.spotify.com/artist/6X80cxJKMsSqzFmwHX7QCu) | [Gran ∞ Grace](https://open.spotify.com/album/4T8vKqEfLe7aS914pjg7A3) | 3:01 | 2024-11-05 |  |
 | [scorpion.](https://open.spotify.com/track/3JGeI4YN3Luqsvo0EXjXND) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [scorpion.](https://open.spotify.com/album/572kvsrM2Jb4EmO93m65Om) | 2:43 | 2023-08-08 | 2023-11-22 |
 | [SCUM DOGS FART](https://open.spotify.com/track/5hI3SUAIID43IEcoIICOfN) | [ENTH](https://open.spotify.com/artist/6PmcG3GSDpsgO9yqAyaXBz) | [ENTH](https://open.spotify.com/album/0NvEsQvg5KriD3nXI5fpQQ) | 3:17 | 2024-03-26 | 2025-06-25 |
@@ -328,6 +329,7 @@
 | [TAKING THEM DOWN](https://open.spotify.com/track/3c1lVormOG2JXVtRXCQBOX) | [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [TAKING THEM DOWN](https://open.spotify.com/album/4SRTjaKlxpG3Y1UKnQaVrU) | 2:52 | 2023-07-20 | 2024-12-24 |
 | [Tank\-Top](https://open.spotify.com/track/6XkP8Amfl0gEKQBuQisidH) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE), [HIROKI \(ORANGE RANGE\)](https://open.spotify.com/artist/7fO9WfyjQqVEMaTuyX15Aq) | [FUTURES IN SILHOUETTE](https://open.spotify.com/album/5o5n0WLfc0Xj5tNJXE9k1o) | 3:13 | 2025-07-29 | 2025-08-20 |
 | [That's all enough.](https://open.spotify.com/track/2Th0tCO7TJfcAdh9Tu9TyP) | [AGE OF KID](https://open.spotify.com/artist/46UAkbp4aSvCZFc3HSOV8w) | [That's all enough\. Demo EP](https://open.spotify.com/album/4Y0BxXlfw7DXtKb7PEd1aA) | 2:20 | 2023-10-03 | 2023-10-18 |
+| [the anomaly](https://open.spotify.com/track/4zTBHOkvrp00JYlJX05Aed) | [the bercedes menz](https://open.spotify.com/artist/5zUGStKYOWhhtWd44T1SHd) | [montauk](https://open.spotify.com/album/0doUrp4w7qRSoXILRdE9au) | 3:24 | 2025-11-18 |  |
 | [The Autumn Song](https://open.spotify.com/track/6UzbqphdFT8m90bUJVtJHY) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [Missing](https://open.spotify.com/album/6mGi2j1maFymgzAoiiQVoY) | 3:01 | 2023-07-20 |  |
 | [THE BOMB](https://open.spotify.com/track/0k4nkbjUHBKqaGEyGedPfO) | [AA=](https://open.spotify.com/artist/1QRnF3T3BV3bTOLab9lxiN) | [\#7](https://open.spotify.com/album/0vhO4pPl2Jw4uez4aRbtHY) | 2:16 | 2025-04-22 | 2025-05-28 |
 | [The Landolt C](https://open.spotify.com/track/4UE0ayD44qejZTGDK8S4qF) | [ハルカミライ](https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI) | [The Landolt C](https://open.spotify.com/album/3AEc4G6uZqIGc02Xo9ApZ1) | 3:28 | 2025-01-21 | 2025-03-28 |
@@ -359,6 +361,7 @@
 | [Voice](https://open.spotify.com/track/1EJxVlb4XvtG3669TnPJXw) | [Pay money To my Pain](https://open.spotify.com/artist/07BBdQ03C1t2EPSQ7AeAJw) | [gene](https://open.spotify.com/album/6jP0ywNIkiQr9IWwZ2Q0A4) | 8:05 | 2023-07-20 | 2023-09-06 |
 | [Voice](https://open.spotify.com/track/3aFSKmcKnOAQcyedKk0Hgd) | [Pay money To my Pain](https://open.spotify.com/artist/07BBdQ03C1t2EPSQ7AeAJw) | [gene](https://open.spotify.com/album/6cBrX444w1OquRC1dT1J0W) | 8:05 | 2023-09-10 | 2023-11-22 |
 | [VOX](https://open.spotify.com/track/7tonWzUNa7qiuBfTloPu3N) | [Dragon Ash](https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L) | [VOX](https://open.spotify.com/album/5ISFk8goiR0WgzsT07aZ8f) | 4:10 | 2024-04-18 | 2025-02-19 |
+| [VS EGO:](https://open.spotify.com/track/3YPzndTItgHvbhyWfT3hgZ) | [NEMOPHILA](https://open.spotify.com/artist/1ijXMkMWUj8mJrW2SnIvpp) | [VS EGO:](https://open.spotify.com/album/55jlirk97NuDDZYkLDJ28g) | 2:19 | 2025-11-18 |  |
 | [WALK AWAY](https://open.spotify.com/track/5JGjqh1lkcxrrGbJapVtOq) | [SHADOWS](https://open.spotify.com/artist/0VyVlaKyEJ2NFJnxxYgyt3) | [WALK AWAY](https://open.spotify.com/album/6KZOK0XKVMtVuGPj04tavE) | 3:04 | 2024-09-03 | 2024-09-24 |
 | [watermelon \(demo\)](https://open.spotify.com/track/1Pp3YC3HtXjjFDtJedRNj3) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [watermelon \(demo\)](https://open.spotify.com/album/0aTrDi5x5rI4IU7vGW6D6y) | 1:28 | 2023-12-12 | 2024-01-25 |
 | [We're ready](https://open.spotify.com/track/7zGhee4uS7rMR0or1PEHVB) | [TORNADO](https://open.spotify.com/artist/24rP16pPUc05A51ndWioIE) | [We're ready](https://open.spotify.com/album/2UVSSugkDeJ4lckqOvpM6I) | 1:54 | 2023-08-15 | 2023-09-20 |

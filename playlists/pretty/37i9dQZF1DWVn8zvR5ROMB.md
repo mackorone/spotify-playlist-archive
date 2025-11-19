@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > Country music's latest offerings featuring Ashley Cooke, Kelsea Ballerini, Max McNown and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,641 likes - 87 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,691 likes - 87 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

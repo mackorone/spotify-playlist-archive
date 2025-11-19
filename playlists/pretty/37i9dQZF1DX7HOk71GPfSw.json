@@ -1,12 +1,12 @@
 {
   "description": "we love you Danny Brown \ud83c\udf38",
-  "num_followers": 485095,
+  "num_followers": 485131,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF4fvbVve/96PnPSqGO348DQfeSq",
+  "snapshot_id": "AAAAAERVGgXwirntMuqRLk7VTV5SMQ6p",
   "tracks": [
     {
       "added_at": "2025-11-07 05:21:43",
@@ -101,20 +101,40 @@
       "url": "https://open.spotify.com/track/5BDo6TzD8q0oNtqhhXU3nx"
     },
     {
-      "added_at": "2025-11-14 05:00:39",
+      "added_at": "2025-11-18 21:18:20",
       "album": {
-        "name": "Got It In Tha Mix",
-        "url": "https://open.spotify.com/album/3sWl9eqr9XF0E18eFLeJz8"
+        "name": "Stardust",
+        "url": "https://open.spotify.com/album/0h3LYQns7VLlsMW7392Z1X"
       },
       "artists": [
         {
-          "name": "Ms* Gloom",
-          "url": "https://open.spotify.com/artist/3ZFdkChwfqb4vtzlBfcQPu"
+          "name": "Danny Brown",
+          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
+        },
+        {
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
         }
       ],
-      "duration_ms": 195224,
-      "name": "Got It In Tha Mix",
-      "url": "https://open.spotify.com/track/1ryz4LWb2VKPECrK1tFzJE"
+      "duration_ms": 168800,
+      "name": "Green Light",
+      "url": "https://open.spotify.com/track/7HQqlyTnavA97mX9h8TNRy"
+    },
+    {
+      "added_at": "2025-09-12 04:00:15",
+      "album": {
+        "name": "with u",
+        "url": "https://open.spotify.com/album/1e1d2t4jdgxB9LVqnc0ZWe"
+      },
+      "artists": [
+        {
+          "name": "2006WR",
+          "url": "https://open.spotify.com/artist/5IpbIczge2iZZKQn50SQxE"
+        }
+      ],
+      "duration_ms": 136974,
+      "name": "with u",
+      "url": "https://open.spotify.com/track/5bQDapqPmoCukx6ZgO4T1b"
     },
     {
       "added_at": "2025-09-19 04:00:38",
@@ -133,20 +153,20 @@
       "url": "https://open.spotify.com/track/3rDBU4noiq1rjG50MPKi9t"
     },
     {
-      "added_at": "2025-09-12 04:00:15",
+      "added_at": "2025-11-14 05:00:39",
       "album": {
-        "name": "with u",
-        "url": "https://open.spotify.com/album/1e1d2t4jdgxB9LVqnc0ZWe"
+        "name": "Got It In Tha Mix",
+        "url": "https://open.spotify.com/album/3sWl9eqr9XF0E18eFLeJz8"
       },
       "artists": [
         {
-          "name": "2006WR",
-          "url": "https://open.spotify.com/artist/5IpbIczge2iZZKQn50SQxE"
+          "name": "Ms* Gloom",
+          "url": "https://open.spotify.com/artist/3ZFdkChwfqb4vtzlBfcQPu"
         }
       ],
-      "duration_ms": 136974,
-      "name": "with u",
-      "url": "https://open.spotify.com/track/5bQDapqPmoCukx6ZgO4T1b"
+      "duration_ms": 195224,
+      "name": "Got It In Tha Mix",
+      "url": "https://open.spotify.com/track/1ryz4LWb2VKPECrK1tFzJE"
     },
     {
       "added_at": "2025-11-07 05:21:43",
@@ -199,26 +219,6 @@
       "duration_ms": 169000,
       "name": "I Choose You",
       "url": "https://open.spotify.com/track/5cAsy4oXqZCemP9r7va8Ub"
-    },
-    {
-      "added_at": "2025-10-17 04:00:51",
-      "album": {
-        "name": "Copycats",
-        "url": "https://open.spotify.com/album/0KJ0nrsNiDP2bAbW0OBgmd"
-      },
-      "artists": [
-        {
-          "name": "Danny Brown",
-          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
-        },
-        {
-          "name": "underscores",
-          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
-        }
-      ],
-      "duration_ms": 171426,
-      "name": "Copycats",
-      "url": "https://open.spotify.com/track/0N8aH4DmGUEZWJMo6WVPbY"
     },
     {
       "added_at": "2025-10-24 04:00:29",
@@ -323,6 +323,26 @@
       "duration_ms": 132923,
       "name": "It's Nothing",
       "url": "https://open.spotify.com/track/5SAMrLkb2yfCAE1tQO6jTs"
+    },
+    {
+      "added_at": "2025-10-17 04:00:51",
+      "album": {
+        "name": "Copycats",
+        "url": "https://open.spotify.com/album/0KJ0nrsNiDP2bAbW0OBgmd"
+      },
+      "artists": [
+        {
+          "name": "Danny Brown",
+          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
+        },
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        }
+      ],
+      "duration_ms": 171426,
+      "name": "Copycats",
+      "url": "https://open.spotify.com/track/0N8aH4DmGUEZWJMo6WVPbY"
     },
     {
       "added_at": "2025-09-12 04:00:15",
@@ -3323,26 +3343,6 @@
       "duration_ms": 145275,
       "name": "Tell Me Why!",
       "url": "https://open.spotify.com/track/5in5Ppqoy3vGOCYla6C1l5"
-    },
-    {
-      "added_at": "2025-09-12 04:00:15",
-      "album": {
-        "name": "*ussy",
-        "url": "https://open.spotify.com/album/1ttEZSQEEYBdZJ830f1igJ"
-      },
-      "artists": [
-        {
-          "name": "dj g2g",
-          "url": "https://open.spotify.com/artist/3TnlUNMMrwW2IYrlBDTygL"
-        },
-        {
-          "name": "jahanam",
-          "url": "https://open.spotify.com/artist/0dFS2JcZHhNxg3bxjvHXXa"
-        }
-      ],
-      "duration_ms": 196733,
-      "name": "*ussy",
-      "url": "https://open.spotify.com/track/0INUt6qvNpFxaNF5X6wVrW"
     },
     {
       "added_at": "2025-09-12 04:00:15",

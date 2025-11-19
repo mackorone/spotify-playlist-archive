@@ -2359,6 +2359,32 @@
     },
     {
       "album": {
+        "name": "Ki Sochiye",
+        "url": "https://open.spotify.com/album/3LGAmnMtyDuSsIyo93MMGq"
+      },
+      "artists": [
+        {
+          "name": "Rza Heer",
+          "url": "https://open.spotify.com/artist/6FWtxe356sqiEEGB0J9aqD"
+        },
+        {
+          "name": "Vinder Nathu Majra",
+          "url": "https://open.spotify.com/artist/1B4NLf9v1eIpwm8vZCEOKN"
+        },
+        {
+          "name": "Spidy's Music",
+          "url": "https://open.spotify.com/artist/4JJpNjGZGXcezGJkS0ASqP"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130777,
+      "name": "Ki Sochiye",
+      "url": "https://open.spotify.com/track/1KKadwGWhJFTlUiJF7t1FX"
+    },
+    {
+      "album": {
         "name": "Kinna Pyar Karan",
         "url": "https://open.spotify.com/album/3k1InutqRcvVcBmwOiX58d"
       },
@@ -3490,7 +3516,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 138235,
       "name": "Nazraan Utaar",
       "url": "https://open.spotify.com/track/3YphNdwpVI9dYHBWBPh9Cz"

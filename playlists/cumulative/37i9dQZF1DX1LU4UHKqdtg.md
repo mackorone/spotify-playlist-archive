@@ -2,7 +2,7 @@
 
 ### [Stargirl vibes](https://open.spotify.com/playlist/37i9dQZF1DX1LU4UHKqdtg)
 
-> グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: ITZY
+> グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: JURIN ASAYA
 
 1,613 songs - 3 day 13 hr 31 min
 
@@ -812,7 +812,7 @@
 | [Love you](https://open.spotify.com/track/3pJwqvHJQYADNaIZ7HNh1L) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [Beyond:](https://open.spotify.com/album/0MaE5OlG8EDDkNczCgbnrF) | 3:10 | 2024-10-04 | 2024-10-22 |
 | [love you twice](https://open.spotify.com/track/0GLXQAdrh4tdvz0JLw8DX8) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [love you twice](https://open.spotify.com/album/03NnLJWmvbNiDAk8l8W3b4) | 2:52 | 2023-03-14 | 2023-11-10 |
 | [Love Your Flower](https://open.spotify.com/track/3YCSEjFJTceJXxzC4gdKei) | [PRIMROSE](https://open.spotify.com/artist/1nE2Iu4qK1fzslPJcLGq66) | [Love Your Flower](https://open.spotify.com/album/4DnObuoZoENbimDi6adEZp) | 3:10 | 2025-09-17 | 2025-09-23 |
-| [LOVE, AFRAID](https://open.spotify.com/track/1pLMNDbYPRpYy1C5vtl3ke) | [MADEIN](https://open.spotify.com/artist/5Sso2rRE8bs9Ff6bkfqUKe) | [MADEIN FOREVER](https://open.spotify.com/album/6HGJb9CKxgnIRdTsvY3Mey) | 3:12 | 2025-03-06 |  |
+| [LOVE, AFRAID](https://open.spotify.com/track/1pLMNDbYPRpYy1C5vtl3ke) | [MADEIN](https://open.spotify.com/artist/5Sso2rRE8bs9Ff6bkfqUKe) | [MADEIN FOREVER](https://open.spotify.com/album/6HGJb9CKxgnIRdTsvY3Mey) | 3:12 | 2025-03-06 | 2025-11-19 |
 | [LOVE, MONEY, FAME \(feat\. DJ Khaled\)](https://open.spotify.com/track/145tqlcE6YFsjNfxi9K3AE) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [SEVENTEEN 12th Mini Album 'SPILL THE FEELS'](https://open.spotify.com/album/4xggkS8rdsJL3dgji8zW6W) | 3:06 | 2024-10-14 | 2025-01-30 |
 | [LOVEADE](https://open.spotify.com/track/0q7U1KqAYPGHdwC8HVw67y) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [The 2nd Mini Album 'Summer Vibe'](https://open.spotify.com/album/3C9klin5PNVtOaR91eqEGz) | 3:38 | 2022-07-06 | 2022-08-24 |
 | [Lover, Killer](https://open.spotify.com/track/6hg5oTeqzMplrKGiKty0i5) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Lover, Killer / BEBE \(Japanese Ver.\)](https://open.spotify.com/album/5pC1tWolawhm5Ioig7hGMa) | 2:48 | 2025-06-03 | 2025-07-24 |

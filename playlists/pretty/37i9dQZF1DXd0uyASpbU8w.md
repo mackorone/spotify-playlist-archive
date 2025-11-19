@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Summer Walker, Musa Keys, Zara Larsson, TOSS and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,888 likes - 73 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,929 likes - 73 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 20 | [Dithapelo](https://open.spotify.com/track/4KV4VcZa7EkORRpKvQFrMD) | [Maleh](https://open.spotify.com/artist/0SDzHvhNuUANVi0rEuUD9i), [Mzizi](https://open.spotify.com/artist/68H3nOS0Jt2mK3wB6OzeF9) | [Dithapelo](https://open.spotify.com/album/0tIHP5qsfQrfxI5Z5kunWz) | 5:13 |
 | 21 | [Can't Hold Us \[Feat\. Mwanjé\]](https://open.spotify.com/track/4m7GhyLPmnQvZybjuxeYlP) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Mwanje](https://open.spotify.com/artist/3BM1y5iZJFNwGFZC8ivubP) | [Can't Hold Us \[Feat\. Mwanjé\]](https://open.spotify.com/album/4rX3FZJVX0PSnhnlYs19qu) | 2:46 |
 | 22 | [By Now](https://open.spotify.com/track/55mAE5S1MK79gLUowrnB6h) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Heat The Streets Some Mo'](https://open.spotify.com/album/6hRz8TthZfkHlZ288hcCd4) | 2:47 |
-| 23 | [O Mistress Mine](https://open.spotify.com/track/3KuUK0RlVSmldqiW5qjEqv) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn), [Michael Thurber](https://open.spotify.com/artist/5zdCcd7nJejwygIgvJzjhf), [Twelfth Night Cast](https://open.spotify.com/artist/2bkPJglMWAb9C2f19TpmUs) | [O Mistress Mine](https://open.spotify.com/album/1rRFmNjjwljBoaL6qs8V7k) | 2:07 |
+| 23 | [O Mistress Mine](https://open.spotify.com/track/3KuUK0RlVSmldqiW5qjEqv) | [Michael Thurber](https://open.spotify.com/artist/5zdCcd7nJejwygIgvJzjhf), [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn), [Twelfth Night Cast](https://open.spotify.com/artist/2bkPJglMWAb9C2f19TpmUs) | [O Mistress Mine](https://open.spotify.com/album/1rRFmNjjwljBoaL6qs8V7k) | 2:07 |
 | 24 | [Jabula](https://open.spotify.com/track/4NMgy6MQ39EIWB5bU5qwgw) | [Freshlyground](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) | [Jabula](https://open.spotify.com/album/6uOKEe3M8mEC63GIm9JSFs) | 4:23 |
 | 25 | [Vele Uyena \(Risk It All\) \(feat\. JAZZWRLD, Thukuthela, Elaine & Solaariss\)](https://open.spotify.com/track/1YwkMl9hCzyinkiioqo6kl) | [Skyla Tylaa](https://open.spotify.com/artist/65nasTOHBmMP0qoo6Xa245), [JAZZWRLD](https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz), [Thukuthela](https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n), [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx), [Solaariss](https://open.spotify.com/artist/1GskkPL2vDRKoWKD0BwV9y) | [Vele Uyena \(Risk It All\) \(feat\. JAZZWRLD, Thukuthela, Elaine & Solaariss\)](https://open.spotify.com/album/7weLnc8ITNXPCwG2tVxUXs) | 6:14 |
 | 26 | [Imikhuleko \(feat\. Khalil Harrison\)](https://open.spotify.com/track/5sOArFBS8cD4VE0nRghMc6) | [Lesego M](https://open.spotify.com/artist/2iyasLW1Ei5nroB96ynres), [Pale Moloi](https://open.spotify.com/artist/5AnIWCYRZDFZKBv2n2yXUP), [Ceeka RSA](https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY), [Khalil Harrison](https://open.spotify.com/artist/2zq3Zm57y4TxZRbMZ05CGp) | [Imikhuleko \(feat\. Khalil Harrison\)](https://open.spotify.com/album/0gaWnuDZD1GxrARGX6HG25) | 6:25 |

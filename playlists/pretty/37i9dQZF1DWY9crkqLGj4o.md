@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 
 > Lavando e louvando a Deus com grandes hinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 442,471 likes - 75 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 442,512 likes - 75 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,13 +58,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 | 48 | [O Mapa do Tesouro](https://open.spotify.com/track/4IoRFVUCHDfHnTi4AhsXfx) | [Anderson Freire e Gisele Nascimento](https://open.spotify.com/artist/3yXOAfmEH8M4DJbkmRMhml) | [Anderson Freire Ao Vivo](https://open.spotify.com/album/6xuwIhCtxo8DjCuA3X9aaL) | 5:10 |
 | 49 | [Rendido Estou \(Arms Open Wide\)](https://open.spotify.com/track/0Ari6yg3wuIi6zxpRQC3f2) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Rendido Estou \(Arms Open Wide\)](https://open.spotify.com/album/7mxMcIyAjRNquXNxAPANXG) | 7:42 |
 | 50 | [Com Muito Louvor](https://open.spotify.com/track/57JAYiwPmU93oowUWKwrEF) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Cassiane \- Gospel Collection Ao Vivo](https://open.spotify.com/album/6tVasQXY2XtPQXfHRE6eSE) | 6:22 |
-| 51 | [Águas Purificadoras](https://open.spotify.com/track/3E3tCczShTfm7bbuyAbH1M) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Águas Purificadoras](https://open.spotify.com/album/2LXgzRBHXBx8K1SiUOtczX) | 5:42 |
-| 52 | [Faça Morada](https://open.spotify.com/track/5Mpth7qg5nxiv3JR0dt7cL) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm) | [Coral Kemuel, Vol\. 2](https://open.spotify.com/album/2I5sgWmtf2mjppkwWOWokB) | 4:05 |
+| 51 | [Faça Morada](https://open.spotify.com/track/5Mpth7qg5nxiv3JR0dt7cL) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm) | [Coral Kemuel, Vol\. 2](https://open.spotify.com/album/2I5sgWmtf2mjppkwWOWokB) | 4:05 |
+| 52 | [Águas Purificadoras](https://open.spotify.com/track/3E3tCczShTfm7bbuyAbH1M) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Águas Purificadoras](https://open.spotify.com/album/2LXgzRBHXBx8K1SiUOtczX) | 5:42 |
 | 53 | [Louvemos Ao Senhor](https://open.spotify.com/track/2oecUNxFC5Pyvs63LGkfGa) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Memórias Deluxe](https://open.spotify.com/album/3b9hU8E13bsYweRr3Bsj7Y) | 4:31 |
 | 54 | [Pra te Ferir](https://open.spotify.com/track/4VFFsq9ZmPxmVE1pQhbUpS) | [Samuel Eleoterio](https://open.spotify.com/artist/1S4E2bNyTqNi1Pi303fcLv) | [Pra Te Ferir](https://open.spotify.com/album/4BTrNml4nN0jxrEftiO7Uo) | 4:26 |
 | 55 | [A Promessa](https://open.spotify.com/track/1fRw17yPVFjRS6lPovRbrL) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld), [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Vai Valer a Pena](https://open.spotify.com/album/16y13iFjoAQcnTveRj0eCx) | 4:09 |
-| 56 | [Teu Santo Nome \- Ao Vivo](https://open.spotify.com/track/0CP4vevAzKaN0M5SXEGMXh) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Até Transbordar \(Ao Vivo\)](https://open.spotify.com/album/3HjpM1erx8nlbEgmNKpIj0) | 7:16 |
-| 57 | [Aba \- Ao Vivo](https://open.spotify.com/track/5zfFRWu8IjmH6g84pBOHbO) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm), [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Aba \(Ao Vivo\)](https://open.spotify.com/album/7HVM6QUSNxfbnnxYoS0Xey) | 5:48 |
+| 56 | [Aba \- Ao Vivo](https://open.spotify.com/track/5zfFRWu8IjmH6g84pBOHbO) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm), [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Aba \(Ao Vivo\)](https://open.spotify.com/album/7HVM6QUSNxfbnnxYoS0Xey) | 5:48 |
+| 57 | [Teu Santo Nome \- Ao Vivo](https://open.spotify.com/track/0CP4vevAzKaN0M5SXEGMXh) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Até Transbordar \(Ao Vivo\)](https://open.spotify.com/album/3HjpM1erx8nlbEgmNKpIj0) | 7:16 |
 | 58 | [Fidelidade \(Ao Vivo\)](https://open.spotify.com/track/3BHQNPlsge6KXwC0Fyzkyq) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8), [Danielle Cristina](https://open.spotify.com/artist/0hUadX7xdewBFB84OcLRgG) | [Fidelidade \(Ao Vivo\)](https://open.spotify.com/album/05Lz6yhSIcCYWi0Ycqs59o) | 5:30 |
 | 59 | [Eu Me Rendo](https://open.spotify.com/track/3UrnpCBQyiWGCbZvsJsdck) | [Renascer Praise](https://open.spotify.com/artist/2eYrf1zekGvHGRkl9DZyGR) | [Renascer Praise 13: A Colheita](https://open.spotify.com/album/5F2jRc40cXhteOGtOvsDA1) | 6:12 |
 | 60 | [Sê Valente / Deus Vai Te Guiar / O Cego De Jericó \(Ao Vivo\)](https://open.spotify.com/track/3haojhxI65M4wDLPzNPPn3) | [Michele do Pandeiro](https://open.spotify.com/artist/01CFvZuAQEjTxH4Ab3yzzn) | [Jesus, Eu, Vocês E O Pandeiro \(Ao Vivo\)](https://open.spotify.com/album/4EIy665Pi9Rhn82zvVsWXL) | 5:52 |

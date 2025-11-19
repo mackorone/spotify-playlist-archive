@@ -1,12 +1,12 @@
 {
   "description": "This is Jonas Blue. The essential tracks, all in one playlist.",
-  "num_followers": 87789,
+  "num_followers": 87792,
   "original_name": "This Is Jonas Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRkUAAAAAAAV3hyeL4lFx6G7kKIHXJv8",
+  "snapshot_id": "aRplgAAAAAD7HsEQ7RjTiw5TfmS07NgO",
   "tracks": [
     {
       "added_at": null,
@@ -99,8 +99,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lifeline",
-        "url": "https://open.spotify.com/album/4K96SVUxHrerdL8nWqbUsQ"
+        "name": "Weekends",
+        "url": "https://open.spotify.com/album/68Ph2nuIeP3e0vzRxrUmkh"
       },
       "artists": [
         {
@@ -108,13 +108,13 @@
           "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
         },
         {
-          "name": "Izzy Bizu",
-          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
         }
       ],
-      "duration_ms": 199756,
-      "name": "Lifeline",
-      "url": "https://open.spotify.com/track/5qGZ2P45XqoFC1yVzRYDjm"
+      "duration_ms": 127003,
+      "name": "Weekends",
+      "url": "https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2"
     },
     {
       "added_at": null,
@@ -139,8 +139,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Weekends",
-        "url": "https://open.spotify.com/album/68Ph2nuIeP3e0vzRxrUmkh"
+        "name": "Lifeline",
+        "url": "https://open.spotify.com/album/4K96SVUxHrerdL8nWqbUsQ"
       },
       "artists": [
         {
@@ -148,13 +148,13 @@
           "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
         },
         {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+          "name": "Izzy Bizu",
+          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
         }
       ],
-      "duration_ms": 127003,
-      "name": "Weekends",
-      "url": "https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2"
+      "duration_ms": 199756,
+      "name": "Lifeline",
+      "url": "https://open.spotify.com/track/5qGZ2P45XqoFC1yVzRYDjm"
     },
     {
       "added_at": null,
@@ -843,26 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fast Car (Remixes)",
-        "url": "https://open.spotify.com/album/40ifSsakci9ksnclgVDT8F"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Dakota",
-          "url": "https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms"
-        }
-      ],
-      "duration_ms": 330967,
-      "name": "Fast Car - Club Mix",
-      "url": "https://open.spotify.com/track/38Iwduov8CqeckUz1oKmyC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Don't Give Up (Jonas Blue Remix)",
         "url": "https://open.spotify.com/album/1yqDCZu5DB4XCSWE6eeiZA"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 201600,
       "name": "Don't Give Up - Jonas Blue Remix",
       "url": "https://open.spotify.com/track/4k1fuzOlu1vQEYG5muVP94"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fast Car (Remixes)",
+        "url": "https://open.spotify.com/album/40ifSsakci9ksnclgVDT8F"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Dakota",
+          "url": "https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms"
+        }
+      ],
+      "duration_ms": 330967,
+      "name": "Fast Car - Club Mix",
+      "url": "https://open.spotify.com/track/38Iwduov8CqeckUz1oKmyC"
     },
     {
       "added_at": null,
@@ -971,26 +971,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Call My Name",
-        "url": "https://open.spotify.com/album/5SBLYLF6v5FafexVCvVh8R"
-      },
-      "artists": [
-        {
-          "name": "GOT7",
-          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
-        },
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        }
-      ],
-      "duration_ms": 185453,
-      "name": "Now or Never",
-      "url": "https://open.spotify.com/track/48Ow2RXXaLwWVEp2Y4F6DV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/7koSts2YQyNIzS6unvkTfU"
       },
@@ -1007,6 +987,26 @@
       "duration_ms": 200694,
       "name": "You're The One",
       "url": "https://open.spotify.com/track/4WLQxsTTcTE8eFhdv5Wl83"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Call My Name",
+        "url": "https://open.spotify.com/album/5SBLYLF6v5FafexVCvVh8R"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        }
+      ],
+      "duration_ms": 185453,
+      "name": "Now or Never",
+      "url": "https://open.spotify.com/track/48Ow2RXXaLwWVEp2Y4F6DV"
     },
     {
       "added_at": null,

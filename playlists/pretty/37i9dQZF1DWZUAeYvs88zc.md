@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUAeYvs88zc.md) - [plain]
 
 > I didn’t do my makeup just to cry!<br/>chloe moriondo on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 598,561 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 598,526 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,23 +20,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUAeYvs88zc.md) - [plain]
 | 10 | [Let You Go](https://open.spotify.com/track/7uT7mlYS0R3Ujk5UB5ll0O) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [It’s Not That Deep](https://open.spotify.com/album/0bzP9iV2QbM6174JLfGxcc) | 3:03 |
 | 11 | [bittersweet](https://open.spotify.com/track/3A02hWQ2ebOFDWSbAMNnpw) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [bittersweet](https://open.spotify.com/album/6lR8zt2MKz7xdqBQqxZ5yR) | 3:22 |
 | 12 | [viscus \(feat\. FKA twigs\)](https://open.spotify.com/track/3KjVtWWVEP1gmxosGb9u20) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [viscus \(feat\. FKA twigs\)](https://open.spotify.com/album/0vVRK9TwIZ7seta6nlflcG) | 3:40 |
-| 13 | [Make Me Cry](https://open.spotify.com/track/3TtpqKNIjpfE8Gdwsx4DHg) | [BIZZY](https://open.spotify.com/artist/4cWyHZZF6764fNSMnEkYdk) | [Make Me Cry](https://open.spotify.com/album/6zkx3umapCWzMktYccapQ3) | 2:54 |
-| 14 | [Shapeshifting on a Saturday Night](https://open.spotify.com/track/5ohPveFr3t93leJhCiWAqt) | [Avery Cochrane](https://open.spotify.com/artist/2I0aPV0zqzG1LKhsMaKFDR) | [Shapeshifting on a Saturday Night](https://open.spotify.com/album/6OcMg9GPmcyEZtaipr6x3s) | 3:25 |
-| 15 | [Reunite](https://open.spotify.com/track/6tiW6fIVp2NaniQURK3n1Q) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Reunite](https://open.spotify.com/album/60BRAvQVlseoSpphGSoZEB) | 3:56 |
-| 16 | [Underwater](https://open.spotify.com/track/2WzgNSY8AQBDCwoyMHWl6O) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Underwater](https://open.spotify.com/album/5rAiMWvgPhR5n1qvJbAGV4) | 3:34 |
-| 17 | [needle and thread](https://open.spotify.com/track/1BAS3dk6UejbMT5w4RywJA) | [Sam Short](https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz) | [needle and thread](https://open.spotify.com/album/3nQfJ7wScMr35vxSDdozXG) | 3:54 |
-| 18 | [Plastic Box](https://open.spotify.com/track/7zPfFxH8WxUUffU8rqB4kU) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Plastic Box](https://open.spotify.com/album/1G7QhWDD2FgO8Rcmt7BYSj) | 3:21 |
-| 19 | [Somebody New](https://open.spotify.com/track/6nZ7OxSAEQ9MDRpujyKugb) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Somebody New](https://open.spotify.com/album/1Y0HZbb6ZV7FGKMrFEoWdj) | 3:05 |
-| 20 | [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 |
-| 21 | [HEAVEN IS A DANCE FLOOR](https://open.spotify.com/track/3JLUj88lGBl4j6NRVN7vxW) | [Raissa](https://open.spotify.com/artist/1C9U2fqP6cYCEwb73uv2LS) | [DESIRE PATH](https://open.spotify.com/album/3vC3tHIOUT2TM4dIIXwsKZ) | 3:18 |
-| 22 | [In Another Life](https://open.spotify.com/track/6vXv6uFxhMNNMdla9oVmts) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [In Another Life](https://open.spotify.com/album/7zStGIgfi4iUqbjYj69Ivb) | 3:28 |
-| 23 | [HEARTDISC](https://open.spotify.com/track/6TrZ2TUIerD5UA5r6dysUg) | [Ericka Jane](https://open.spotify.com/artist/1L4HGLMFRrJsAnug5M7slL) | [<3DISC](https://open.spotify.com/album/2e8TXWKQI9xiplPC7q359b) | 2:40 |
-| 24 | [Lovers](https://open.spotify.com/track/6bZuZKR8hoyzZXNh1IW2Bu) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Lovers](https://open.spotify.com/album/5NEfU3Z8PfjeJXABaHf1FF) | 3:35 |
-| 25 | [Broken Glass](https://open.spotify.com/track/6xCKXznjcHv2hZWDA0pRIe) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Virgin](https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ) | 3:14 |
-| 26 | [Miss You To Death](https://open.spotify.com/track/6zWwKrs73j2M9dbpbXDBLz) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [The Buccaneers: S2 \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/3a2JlqYjwpN3Wck0IuA4HS) | 2:52 |
-| 27 | [Crying On The Bathroom Floor](https://open.spotify.com/track/6nVKC0GCQrf9MQSJgYiaEr) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U](https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY) | 4:15 |
-| 28 | [I Can Do It With a Broken Heart](https://open.spotify.com/track/2fPvQfGQEZOKtJ9qXeL4x8) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) | 3:38 |
-| 29 | [24/7](https://open.spotify.com/track/5EsODmIpUVw30t1Bq8dF5b) | [Moyka](https://open.spotify.com/artist/2u7pjisWrThF8JErPVIPlJ) | [24/7](https://open.spotify.com/album/2dWmHY90dhPLu5pKnI5qDh) | 2:37 |
+| 13 | [Right Hand Man](https://open.spotify.com/track/7y55jveNYMyVqBQNRUdZme) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Right Hand Man](https://open.spotify.com/album/7M2wRKrfmi8pyjrqdFR8Ih) | 3:25 |
+| 14 | [Make Me Cry](https://open.spotify.com/track/3TtpqKNIjpfE8Gdwsx4DHg) | [BIZZY](https://open.spotify.com/artist/4cWyHZZF6764fNSMnEkYdk) | [Make Me Cry](https://open.spotify.com/album/6zkx3umapCWzMktYccapQ3) | 2:54 |
+| 15 | [Shapeshifting on a Saturday Night](https://open.spotify.com/track/5ohPveFr3t93leJhCiWAqt) | [Avery Cochrane](https://open.spotify.com/artist/2I0aPV0zqzG1LKhsMaKFDR) | [Shapeshifting on a Saturday Night](https://open.spotify.com/album/6OcMg9GPmcyEZtaipr6x3s) | 3:25 |
+| 16 | [Reunite](https://open.spotify.com/track/6tiW6fIVp2NaniQURK3n1Q) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Reunite](https://open.spotify.com/album/60BRAvQVlseoSpphGSoZEB) | 3:56 |
+| 17 | [Underwater](https://open.spotify.com/track/2WzgNSY8AQBDCwoyMHWl6O) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Underwater](https://open.spotify.com/album/5rAiMWvgPhR5n1qvJbAGV4) | 3:34 |
+| 18 | [needle and thread](https://open.spotify.com/track/1BAS3dk6UejbMT5w4RywJA) | [Sam Short](https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz) | [needle and thread](https://open.spotify.com/album/3nQfJ7wScMr35vxSDdozXG) | 3:54 |
+| 19 | [Plastic Box](https://open.spotify.com/track/7zPfFxH8WxUUffU8rqB4kU) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Plastic Box](https://open.spotify.com/album/1G7QhWDD2FgO8Rcmt7BYSj) | 3:21 |
+| 20 | [Somebody New](https://open.spotify.com/track/6nZ7OxSAEQ9MDRpujyKugb) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Somebody New](https://open.spotify.com/album/1Y0HZbb6ZV7FGKMrFEoWdj) | 3:05 |
+| 21 | [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 |
+| 22 | [HEAVEN IS A DANCE FLOOR](https://open.spotify.com/track/3JLUj88lGBl4j6NRVN7vxW) | [Raissa](https://open.spotify.com/artist/1C9U2fqP6cYCEwb73uv2LS) | [DESIRE PATH](https://open.spotify.com/album/3vC3tHIOUT2TM4dIIXwsKZ) | 3:18 |
+| 23 | [In Another Life](https://open.spotify.com/track/6vXv6uFxhMNNMdla9oVmts) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [In Another Life](https://open.spotify.com/album/7zStGIgfi4iUqbjYj69Ivb) | 3:28 |
+| 24 | [HEARTDISC](https://open.spotify.com/track/6TrZ2TUIerD5UA5r6dysUg) | [Ericka Jane](https://open.spotify.com/artist/1L4HGLMFRrJsAnug5M7slL) | [<3DISC](https://open.spotify.com/album/2e8TXWKQI9xiplPC7q359b) | 2:40 |
+| 25 | [Lovers](https://open.spotify.com/track/6bZuZKR8hoyzZXNh1IW2Bu) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Lovers](https://open.spotify.com/album/5NEfU3Z8PfjeJXABaHf1FF) | 3:35 |
+| 26 | [Broken Glass](https://open.spotify.com/track/6xCKXznjcHv2hZWDA0pRIe) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Virgin](https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ) | 3:14 |
+| 27 | [Miss You To Death](https://open.spotify.com/track/6zWwKrs73j2M9dbpbXDBLz) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [The Buccaneers: S2 \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/3a2JlqYjwpN3Wck0IuA4HS) | 2:52 |
+| 28 | [Crying On The Bathroom Floor](https://open.spotify.com/track/6nVKC0GCQrf9MQSJgYiaEr) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U](https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY) | 4:15 |
+| 29 | [I Can Do It With a Broken Heart](https://open.spotify.com/track/2fPvQfGQEZOKtJ9qXeL4x8) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) | 3:38 |
 | 30 | [Change Your Mind](https://open.spotify.com/track/5SujjrlWuM2EAqMrutFdrK) | [Scout](https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR) | [Winner](https://open.spotify.com/album/6fxXvk5swHKZa554iuVo6B) | 2:59 |
 | 31 | [trying to forget](https://open.spotify.com/track/1GHdmBcOxQSIVDJkqRuZIy) | [Ally Bakst](https://open.spotify.com/artist/2KvrULKGb5VQs6eZysNU11) | [in my head](https://open.spotify.com/album/7xVHnGKfYZNGwng4S59neP) | 3:00 |
 | 32 | [What A Waste](https://open.spotify.com/track/51PlFhgkrZ4JKJzd1iz0aE) | [Elsie Bay](https://open.spotify.com/artist/4YpY98ig3QIOUX50xQ21GE) | [What A Waste](https://open.spotify.com/album/0bXYmiK8ZbpqPmXAbj7lmO) | 2:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUAeYvs88zc.md) - [plain]
 | 99 | [feel something](https://open.spotify.com/track/7JDWhC422Gtk1Bq0mL3OTC) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [feel something](https://open.spotify.com/album/6qLQLAHnS54MLHY8wxXDX5) | 3:00 |
 | 100 | [Supercut](https://open.spotify.com/track/6K8VQ84MqhsoakN5MjrnVR) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 4:37 |
 
-Snapshot ID: `AAAAAItXNVxcI2tMNDOd5qzV0WeeOR+H`
+Snapshot ID: `AAAAADoNRSf4K8jZgnumCv1Zpt4psMoE`

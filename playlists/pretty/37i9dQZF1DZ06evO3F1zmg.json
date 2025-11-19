@@ -1,12 +1,12 @@
 {
   "description": "This is Saweetie. The essential tracks, all in one playlist.",
-  "num_followers": 42300,
+  "num_followers": 42299,
   "original_name": "This Is Saweetie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRkUAAAAAAB/o8PlAQEv9kdVM+Y0NkN0",
+  "snapshot_id": "aRplgAAAAAAhRegXtlvKzUxxoMjirPkd",
   "tracks": [
     {
       "added_at": null,
@@ -623,30 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mardi Gras (Go Crazy) [PBM Version]",
-        "url": "https://open.spotify.com/album/2LiuU8KvEVRTZ86GoFT4nz"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "Kool John",
-          "url": "https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 174709,
-      "name": "Mardi Gras (Go Crazy) - PBM Version",
-      "url": "https://open.spotify.com/track/2abIvCHHsNecIV9HwdldsZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Money Mouf",
         "url": "https://open.spotify.com/album/6dn11fbycq7fhBCfS8GBRG"
       },
@@ -667,6 +643,30 @@
       "duration_ms": 211703,
       "name": "Money Mouf",
       "url": "https://open.spotify.com/track/2ab4xGVMBb14NpPrj4xDq5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mardi Gras (Go Crazy) [PBM Version]",
+        "url": "https://open.spotify.com/album/2LiuU8KvEVRTZ86GoFT4nz"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Kool John",
+          "url": "https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 174709,
+      "name": "Mardi Gras (Go Crazy) - PBM Version",
+      "url": "https://open.spotify.com/track/2abIvCHHsNecIV9HwdldsZ"
     },
     {
       "added_at": null,
@@ -727,6 +727,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "My Best",
+        "url": "https://open.spotify.com/album/6Jntu9qLC1fkwjDFm9hWMK"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 121053,
+      "name": "My Best",
+      "url": "https://open.spotify.com/track/3qAMlVUvNZVpxA85pFPxOT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Locos",
         "url": "https://open.spotify.com/album/1I9aXVeJvp0iX70y5F011R"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 135884,
       "name": "Locos",
       "url": "https://open.spotify.com/track/64d2u8DTZfLhDJYdcyn7WI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Best",
-        "url": "https://open.spotify.com/album/6Jntu9qLC1fkwjDFm9hWMK"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 121053,
-      "name": "My Best",
-      "url": "https://open.spotify.com/track/3qAMlVUvNZVpxA85pFPxOT"
     },
     {
       "added_at": null,
@@ -1007,18 +1007,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "High Maintenance",
-        "url": "https://open.spotify.com/album/4Sz0PugCLKo0CEA7zgPplW"
+        "name": "QUAVO HUNCHO",
+        "url": "https://open.spotify.com/album/2DjfazR5N3TgXBQ7oVALA1"
       },
       "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
         {
           "name": "Saweetie",
           "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
         }
       ],
-      "duration_ms": 49242,
-      "name": "High Maintenance",
-      "url": "https://open.spotify.com/track/3pxHcgYG8aKkclfWXBFSWv"
+      "duration_ms": 182440,
+      "name": "GIVE IT TO EM (feat. Saweetie)",
+      "url": "https://open.spotify.com/track/1kvt3N2KmoSAunaEJNrgNM"
     }
   ],
   "unique_name": "This Is Saweetie",

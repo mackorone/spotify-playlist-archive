@@ -1,12 +1,12 @@
 {
   "description": "This is KISS. The essential tracks, all in one playlist.",
-  "num_followers": 483867,
+  "num_followers": 483902,
   "original_name": "This Is KISS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRkUAAAAAABlsNc8tP9n2teKUQRqmN6w",
+  "snapshot_id": "aRplgAAAAABvBr2II1/Hzk/aSmqiUX0+",
   "tracks": [
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kiss",
-        "url": "https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 207226,
-      "name": "Nothin' To Lose",
-      "url": "https://open.spotify.com/track/4myXz1R4Mlz2vFUG8MfyJ9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love Gun",
         "url": "https://open.spotify.com/album/77opKywcxPnBu5aBMASS2b"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 184960,
       "name": "I Stole Your Love",
       "url": "https://open.spotify.com/track/7qj6lBOB1QTgBmKedXuIbs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kiss",
+        "url": "https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 207226,
+      "name": "Nothin' To Lose",
+      "url": "https://open.spotify.com/track/4myXz1R4Mlz2vFUG8MfyJ9"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dynasty",
-        "url": "https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 267933,
-      "name": "Dirty Livin'",
-      "url": "https://open.spotify.com/track/159RwMV9yxgOBk0aXhs3sq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rock And Roll Over",
         "url": "https://open.spotify.com/album/6722nY178mLes49GPldnjj"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 185333,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/5pcOAhkv8BiTpzWITZShKW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dynasty",
+        "url": "https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 267933,
+      "name": "Dirty Livin'",
+      "url": "https://open.spotify.com/track/159RwMV9yxgOBk0aXhs3sq"
     },
     {
       "added_at": null,

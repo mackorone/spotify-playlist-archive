@@ -4,7 +4,7 @@
 
 > THE David Byrne shares his biking soundtrack of familiar and obscure tunes for pedaling through the city\. Check out <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">past mixtapes here</a>.
 
-1,061 songs - 2 day 21 hr 43 min
+1,062 songs - 2 day 21 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -863,6 +863,7 @@
 | [Sweet Tides](https://open.spotify.com/track/6BlJSNxgtngyE6WAVY87NT) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [Radio Retaliation](https://open.spotify.com/album/6uhfP1BIgi9P4pkdX7gApL) | 4:48 | 2025-03-21 | 2025-04-11 |
 | [Swimming](https://open.spotify.com/track/0sTjyzgd2K5htQpU8ienNe) | [Flawed Mangoes](https://open.spotify.com/artist/4MrQDA45Gd0llLrwFUzimG) | [Swimming](https://open.spotify.com/album/7dGLag4xmWGKjyokzYJP8q) | 3:08 | 2025-05-13 | 2025-06-13 |
 | [Séquences \- Parcels Remix](https://open.spotify.com/track/46Yk35nGRNyvoAhBOIF8n6) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Séquences \(Remixes\)](https://open.spotify.com/album/1ksIJOPQRsfDYYED8NkaCd) | 4:25 | 2023-06-23 | 2023-07-06 |
+| [T Shirt](https://open.spotify.com/track/0u0xPd6CRdaJK62D6Lo72P) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB) | [T Shirt](https://open.spotify.com/album/4HR7bBjUtMJgSExIJe1sXa) | 3:20 | 2025-11-18 |  |
 | [Tail Trails](https://open.spotify.com/track/1oSKRvgfyE0Tz0IIDABqSe) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Squared Roots](https://open.spotify.com/album/0K99K3KPnFsllSBd9D3sw4) | 3:08 | 2025-02-07 | 2025-02-15 |
 | [Take Me to the River](https://open.spotify.com/track/5vmYMS6FR2b7J57OG0Cscl) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Take Me to the River](https://open.spotify.com/album/2uZazZt5CXCpf5KPzSzh2V) | 4:24 | 2024-09-05 | 2024-11-29 |
 | [Take The Money And Run](https://open.spotify.com/track/3k8BbAPMdVIkAHL8PnzSOa) | [David Crosby](https://open.spotify.com/artist/59zdhVoWxSoHMc74n098Re), [Graham Nash](https://open.spotify.com/artist/2E6Roj0oQnJIm2BeXwDica) | [Wind On The Water](https://open.spotify.com/album/21Ib9p6CPmysyoRG55DlgT) | 3:23 | 2025-06-20 | 2025-09-20 |
@@ -870,7 +871,7 @@
 | [Take Yo' Praise](https://open.spotify.com/track/2c4zwlPMc5dHS3Kg6oeUjk) | [Camille Yarbrough](https://open.spotify.com/artist/1bSCGVnnijnSf8R9maUeJ9) | [The Iron Pot Cooker](https://open.spotify.com/album/6l2ADv76CuJhDg0gCsbSbo) | 4:13 | 2024-07-18 | 2024-08-24 |
 | [TALES FROM THE HOOD](https://open.spotify.com/track/0MIqAP7gvxsXqwyH8HC7jU) | [454](https://open.spotify.com/artist/29fUSOyH1ufr9HZbErHpc4) | [FAST TRAX 3](https://open.spotify.com/album/4Wu3A2zAzOPrws6F9QLxqq) | 2:34 | 2024-04-23 | 2024-06-01 |
 | [Tangled Up in You](https://open.spotify.com/track/1GdveV7pPk2nHwFDa5LGWv) | [The Altons](https://open.spotify.com/artist/5AgZ9r9ZdWm7mD9t03KZZu) | [Tangled Up in You](https://open.spotify.com/album/6AI3zYVAy45gpcxqPCw7l7) | 3:39 | 2025-04-24 | 2025-05-14 |
-| [Te Quiero Con Bugalú](https://open.spotify.com/track/0uRr2EBqlCu2CLa8LmQc2c) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [iLevitable](https://open.spotify.com/album/0gHFIMoIvLqYw13PtRd2ky) | 4:09 | 2025-11-17 |  |
+| [Te Quiero Con Bugalú](https://open.spotify.com/track/0uRr2EBqlCu2CLa8LmQc2c) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [iLevitable](https://open.spotify.com/album/0gHFIMoIvLqYw13PtRd2ky) | 4:11 | 2025-11-17 |  |
 | [tears](https://open.spotify.com/track/6DCowyqx9z4926yxFAaQZ3) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [tears](https://open.spotify.com/album/4shzDdJe5GyQvm2EVsE9Qt) | 3:30 | 2024-04-23 | 2024-06-01 |
 | [Teen](https://open.spotify.com/track/2FXRfeCImHHtLuD1b4N4nq) | [ML Buch](https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC) | [Fleshy](https://open.spotify.com/album/1lBmmVZD9EvrweHGdRAvpH) | 4:12 | 2025-05-13 | 2025-06-13 |
 | [Teen Age Riot \(Album Version\)](https://open.spotify.com/track/7uilSLwD6eizA1Hp9SLRgO) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Daydream Nation \(Remastered Original Album\)](https://open.spotify.com/album/3BYlBcND6PeKoW6ZODjZO3) | 6:58 | 2023-10-20 | 2023-12-23 |

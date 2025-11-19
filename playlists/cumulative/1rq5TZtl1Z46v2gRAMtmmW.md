@@ -4,7 +4,7 @@
 
 > 
 
-475 songs - 1 day 7 hr 20 min
+476 songs - 1 day 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -348,6 +348,7 @@
 | [RECALLING](https://open.spotify.com/track/3wJNsqy5NckG3zxHSL77wu) | [Elliott Skinner](https://open.spotify.com/artist/0wccm4Qe9ErYas4CRed0yJ) | [RECALLING](https://open.spotify.com/album/4jnkH8gApLeaATGMVhe1AL) | 3:01 | 2025-09-09 |  |
 | [RESPEK \- CESCO REMIX](https://open.spotify.com/track/18u5yyIXATQr7QPFXlX1ds) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4), [Topaz Jones](https://open.spotify.com/artist/76bAuLD5jMIT1YDJ84KB8l), [Ezri](https://open.spotify.com/artist/4l5nRI74C0dHyddoaTKNwJ), [Cesco](https://open.spotify.com/artist/7Gg3X2b5ljrhVGXDAwcrq3) | [3RMX82](https://open.spotify.com/album/4VbdNC815EE3P5Pa40La12) | 3:08 | 2025-03-04 | 2025-09-18 |
 | [Ressaca](https://open.spotify.com/track/32Gt9yyt4yDKD8sVyGS1ig) | [LYZZA](https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B) | [Ressaca](https://open.spotify.com/album/6XDY3vEmW4Y2FDrIEnaht5) | 3:25 | 2022-08-19 | 2022-09-17 |
+| [Rest Easy](https://open.spotify.com/track/5J5mQKqZVxMDKZ3xPKgABa) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Rest Easy](https://open.spotify.com/album/3AKzDK0hhKvBpIpKEZxT38) | 2:47 | 2025-11-18 |  |
 | [Rice](https://open.spotify.com/track/4zvJOqQjIA1KEfH5smPq6K) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [Rice](https://open.spotify.com/album/2ZoSfYlgiJWrGs1Uacr8hZ) | 2:39 | 2023-01-09 | 2023-07-08 |
 | [Rice](https://open.spotify.com/track/79yGgP2ruLB7SavHhjPFI3) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [Heavy Heavy](https://open.spotify.com/album/6CmlLROLOUJZnZ8QeCCpqD) | 2:39 | 2023-12-19 | 2024-05-10 |
 | [Right Here](https://open.spotify.com/track/27PLkQCMxOlaiouTPejkmZ) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Right Here](https://open.spotify.com/album/3QcjyO7WglcOzKQmfgKwXp) | 3:49 | 2024-05-15 | 2024-08-14 |

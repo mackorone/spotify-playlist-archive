@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/1uyUG83zfWbTbEMllT9w4p?si=BmfCfPx\_TrOzK6dqk5jtwA">Ossi Grace</a>\. Artwork: Isu Kim.
+> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/6PeImNdckdZZXtOo2VrhUO?si=gIavafeZSkSzXVgTLJFy1g">Shad Miziki</a>\. Artwork: Isu Kim.
 
-1,387 songs - 2 day 21 hr 22 min
+1,388 songs - 2 day 21 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1255,6 +1255,7 @@
 | [TLC \(No Love Lost\)](https://open.spotify.com/track/0GHPNxbsnpVtpUc2YSFoiR) | [Aurie](https://open.spotify.com/artist/0mdtCl5QYMb1p4y24HJQi8) | [TLC \(No Love Lost\)](https://open.spotify.com/album/1d8JoyDnHixTiyya5DO0TW) | 3:45 | 2024-07-03 | 2024-08-08 |
 | [TO THE MOON](https://open.spotify.com/track/5PKCKlTE4JoINtXddc1p4k) | [Tonee C](https://open.spotify.com/artist/5Yst8ocYJuFir5d09eNFj8) | [50 SHADES, Pt\. 1](https://open.spotify.com/album/1HwLiJDkK3m0CSWtAaVql7) | 2:27 | 2024-04-03 | 2024-05-02 |
 | [Tonic No Lime](https://open.spotify.com/track/4PaF06tc9L8LnAW3fIHl18) | [T'neeya](https://open.spotify.com/artist/39r1XfRA5kvyYjPYKzqBGL) | [Tonic No Lime](https://open.spotify.com/album/0urB5NaXZ8nuLaYyAL5kil) | 3:03 | 2024-05-01 | 2024-06-05 |
+| [Tonight](https://open.spotify.com/track/6DmgZ4HQhu5LgSX1rDvftF) | [Aneya](https://open.spotify.com/artist/6MkoIoWpcQUgONRY7XNEKv), [Shad Mziki](https://open.spotify.com/artist/6PeImNdckdZZXtOo2VrhUO) | [Tonight](https://open.spotify.com/album/0iGC85DLmw9J21N3Cz6Ycy) | 3:08 | 2025-11-18 |  |
 | [Tonight](https://open.spotify.com/track/0jrrN6kKCysmUKzoZbQQHe) | [Chayuta](https://open.spotify.com/artist/4nXhFLBJ3zVZ9MAyUMbV6r) | [Tonight](https://open.spotify.com/album/4ZWp72PakTO0Dcx9q1o2kM) | 3:43 | 2023-09-27 | 2023-10-26 |
 | [Tonight](https://open.spotify.com/track/3bjsY0nIoCOOrSYv5vqsgD) | [Tulenkey](https://open.spotify.com/artist/2jVltxUvvzAX2lZKN95HBT) | [Tonight](https://open.spotify.com/album/3dSTG0aATuRTB8rbYXiXvQ) | 3:20 | 2023-03-05 | 2023-03-10 |
 | [Too Late](https://open.spotify.com/track/7GNEUqWco6aMGNgIlwUqID) | [Tena Tenpo](https://open.spotify.com/artist/6t5xnCosOLmlmQG9ZqnUJN), [Wckedd](https://open.spotify.com/artist/6efG4C2TiknEf3ybw7Jmx5) | [Last Time](https://open.spotify.com/album/6KKnmBdzuBR4o4Dja6t34z) | 2:17 | 2024-09-04 | 2024-10-05 |

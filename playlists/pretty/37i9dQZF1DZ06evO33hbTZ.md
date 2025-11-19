@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33hbTZ.md) - [plain]
 
 > This is Victor Thompson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,767 likes - 44 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,769 likes - 44 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,12 +45,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33hbTZ.md) - [plain]
 | 35 | [Water](https://open.spotify.com/track/4zKGsQ2ryuPyP4yNIQDRB6) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Blessed](https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk) | 3:10 |
 | 36 | [BLESSINGS](https://open.spotify.com/track/1vo3XKyNdpYtofLD9CihXP) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [BLESSINGS](https://open.spotify.com/album/0GHp6F6kRcQnsabEO0fpTU) | 13:44 |
 | 37 | [TOTORI\(The Name of Jesus\)](https://open.spotify.com/track/7I8dVspaQwx5PU7vavhccm) | [Mike Aremu](https://open.spotify.com/artist/714vqy5IsHxOtHRvGIkIYX), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [TOTORI\(The Name of Jesus\)](https://open.spotify.com/album/4fgCwBz0cI8SPriORcrESn) | 3:24 |
-| 38 | [You are Lifted \(Spontaneous Worship\)](https://open.spotify.com/track/4O9kmanzq6i11XhGOyNXfN) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [You are Lifted \(Spontaneous Worship\)](https://open.spotify.com/album/3GL93N3e9sBtznX6BIHzng) | 41:01 |
+| 38 | [Great is Your Faithfulness](https://open.spotify.com/track/7sjq9jAZBIcjMRsL6pQol7) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Victor Okose](https://open.spotify.com/artist/6WihWvmRbICbjLHixWcsKk), [Dejaks](https://open.spotify.com/artist/1RuU4EyXOXFcXyLAmu4Oux) | [Great is Your Faithfulness](https://open.spotify.com/album/60NUOnCVQ28gul1cqFo1hl) | 19:07 |
 | 39 | [Halle](https://open.spotify.com/track/3b8q3iDLUUTEzkexbVgkxy) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Blessed](https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk) | 2:49 |
-| 40 | [Great is Your Faithfulness](https://open.spotify.com/track/7sjq9jAZBIcjMRsL6pQol7) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Victor Okose](https://open.spotify.com/artist/6WihWvmRbICbjLHixWcsKk), [Dejaks](https://open.spotify.com/artist/1RuU4EyXOXFcXyLAmu4Oux) | [Great is Your Faithfulness](https://open.spotify.com/album/60NUOnCVQ28gul1cqFo1hl) | 19:07 |
+| 40 | [You are Lifted \(Spontaneous Worship\)](https://open.spotify.com/track/4O9kmanzq6i11XhGOyNXfN) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [You are Lifted \(Spontaneous Worship\)](https://open.spotify.com/album/3GL93N3e9sBtznX6BIHzng) | 41:01 |
 | 41 | [My Back](https://open.spotify.com/track/0u2ggZsmOkA7CflvenfJBN) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [My Back](https://open.spotify.com/album/1GgRlW2o7EDLwYYgfdSsgH) | 3:23 |
 | 42 | [Help Me To Remember](https://open.spotify.com/track/5cq2NNiAb2WfVaCOjkATmG) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Help Me To Remember](https://open.spotify.com/album/0CW4S74Fg0iIOCOfnO503P) | 3:29 |
 | 43 | [Na You](https://open.spotify.com/track/1GaztXz2h5pFWjPwgqjWHg) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Blessed](https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk) | 2:44 |
 | 44 | [Nkosi](https://open.spotify.com/track/6q7FFADahpKakWjXGVBxco) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Blessed](https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk) | 3:02 |
 
-Snapshot ID: `aRkUAAAAAAAOEUAK0I3um5hCdd2V0aOl`
+Snapshot ID: `aRplgAAAAAAUnDkasfVyvk4p8hR7K4kp`

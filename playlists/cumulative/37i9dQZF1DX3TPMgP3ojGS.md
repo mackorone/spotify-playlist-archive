@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,826 songs - 3 day 9 hr 49 min
+1,827 songs - 3 day 9 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -437,7 +437,7 @@
 | [Dysphemism](https://open.spotify.com/track/6jRABFqmpuAkcNCfg6D2bG) | [Piano Fruits Music](https://open.spotify.com/artist/5vpWEdK9C28uOX8jjfRi1v), [Ludvig Hall](https://open.spotify.com/artist/3q45GtzDb65xPi6gFO3mMX) | [Dysphemism](https://open.spotify.com/album/6BrvV3sEikRcWU6tP9p52d) | 1:42 | 2021-03-15 | 2022-04-21 |
 | [Début](https://open.spotify.com/track/6YS1MXqso0zlmcL4OV1kXk) | [Mélanie Laurent](https://open.spotify.com/artist/7HS5tD2CPw2AgG4AgWpxpN) | [En t'attendant](https://open.spotify.com/album/4zojkjd8EnxhvBQAx1Nd4W) | 2:40 | 2021-05-09 |  |
 | [Dépaysant](https://open.spotify.com/track/6Gwc6kYhWMqUtwPBFPCTie) | [Charlot Bélair](https://open.spotify.com/artist/33MLQAjjWBxjLKXjsK7Nmd) | [Dépaysant](https://open.spotify.com/album/5Qp7T6GE1LXxIhdmeN3adB) | 1:54 | 2021-03-07 | 2021-05-22 |
-| [Désir](https://open.spotify.com/track/3yeIp7ZvFx2WGhsdPqIj8Z) | [Valerie Renaud](https://open.spotify.com/artist/1GgQvtLPuHNOXTFtsUO7Lq) | [Désir](https://open.spotify.com/album/6ebN9IykUukkxB4bdMxs3t) | 2:43 | 2025-02-28 |  |
+| [Désir](https://open.spotify.com/track/3yeIp7ZvFx2WGhsdPqIj8Z) | [Valerie Renaud](https://open.spotify.com/artist/1GgQvtLPuHNOXTFtsUO7Lq) | [Désir](https://open.spotify.com/album/6ebN9IykUukkxB4bdMxs3t) | 2:43 | 2025-02-28 | 2025-11-19 |
 | [Eagles Escape](https://open.spotify.com/track/523VK92DILobcHaNpbOZtJ) | [Dean Demir](https://open.spotify.com/artist/434a1xYHmz2z0QvE2jYzmX) | [Eagles Escape](https://open.spotify.com/album/6e8HQJP9RD6SOv57OLM0yU) | 3:04 | 2021-03-09 | 2022-04-20 |
 | [Early Flight](https://open.spotify.com/track/5A3iiKw1vacKg0uKBe1mrY) | [The Village Mountain Orchestra](https://open.spotify.com/artist/5GU68b12TotwGIyIFxhhnX) | [Focus Your Brain \- Deep Ambient Soundscapes Vol 1](https://open.spotify.com/album/6EK5AiyrCaxi8Hlp7UfMgr) | 4:05 | 2021-05-23 | 2022-04-16 |
 | [Early Morning](https://open.spotify.com/track/5iB8faGsvwZpLm3RIeQO3B) | [Lorraine J\. Kovach](https://open.spotify.com/artist/3H92L5ns19ZFEIcvVj2KhY) | [Early Morning](https://open.spotify.com/album/7viQj7LLIp5cqQTcVXYj7t) | 2:06 | 2022-05-31 | 2022-06-01 |
@@ -1478,6 +1478,7 @@
 | [Sunset](https://open.spotify.com/track/2DJQoV3oQqlWAwWUK3f5Xk) | [Fraire Jaques](https://open.spotify.com/artist/449CtTB6t83bfPppU0GcfI) | [Sunset](https://open.spotify.com/album/4p9U3xJQgLvujcLd6SXeBo) | 4:11 | 2021-03-10 | 2022-06-20 |
 | [supine](https://open.spotify.com/track/7IMGJM5S0YYcQhvtdeJH14) | [Teodor Wolgers](https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr) | [hopes](https://open.spotify.com/album/2XdFgoXMYe0EXNtvJv3VA8) | 3:28 | 2021-03-08 | 2022-07-28 |
 | [Suvi](https://open.spotify.com/track/180sqT5oq8Vcxob0B39CIu) | [Oscar Sundberg](https://open.spotify.com/artist/6dqgUbsMsMRsWoRnuibxwl) | [Suvi](https://open.spotify.com/album/4bLauhS6WHuvbXKKhpb7X4) | 5:04 | 2021-03-06\* | 2022-04-21 |
+| [Suzume](https://open.spotify.com/track/2PP2JHhu02ATqc54cmtFn9) | [Hayato Sumino](https://open.spotify.com/artist/1jVpYW7JYxh4mWzrFVjipz) | [Suzume](https://open.spotify.com/album/5UJFhq3j1eJXE4KS5lFD3h) | 3:42 | 2025-11-18 |  |
 | [Svanninge Bakker](https://open.spotify.com/track/0rC5Pg1C2ig0OxyaM3Gro3) | [Alida Sørby](https://open.spotify.com/artist/47AYObaLEm9QiTcfz3u7M9) | [Svanninge Bakker](https://open.spotify.com/album/4fuBNKsqvOsvVZRe0rd0XX) | 1:57 | 2021-05-09 | 2022-03-30 |
 | [Svedese](https://open.spotify.com/track/50YBKEvaPUh3AloEQcQdQU) | [Robert Gafforelli](https://open.spotify.com/artist/16yfPw6Pf0UdDBX05HqCa7) | [Notturno](https://open.spotify.com/album/4ugobTFZdHqpUH1wbGiaJG) | 2:27 | 2022-03-29 | 2022-04-21 |
 | [Sveima](https://open.spotify.com/track/54areIxgdJ2kpLsyqQf9hY) | [Flóki](https://open.spotify.com/artist/6IEWnUlDDKygVlZVX8iLHT) | [Sveima](https://open.spotify.com/album/5p3xeunRciv1zerBamzUV3) | 3:23 | 2021-03-06\* | 2022-05-27 |

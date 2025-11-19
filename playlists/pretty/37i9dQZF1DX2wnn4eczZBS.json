@@ -1,6 +1,6 @@
 {
   "description": "indie & indiepop in het Nederlands. Cover: De Zweefclub",
-  "num_followers": 10975,
+  "num_followers": 10978,
   "original_name": "indie.nl",
   "owner": {
     "name": "Spotify",
@@ -487,22 +487,6 @@
     {
       "added_at": "2025-11-08 08:13:51",
       "album": {
-        "name": "Bidden In De Moshpit",
-        "url": "https://open.spotify.com/album/4JtRnHZ4Kk3DEYsUPNXEQx"
-      },
-      "artists": [
-        {
-          "name": "Prins S. en De Geit",
-          "url": "https://open.spotify.com/artist/0jXZD0lM7Icyig6RrBGlUi"
-        }
-      ],
-      "duration_ms": 187704,
-      "name": "Bidden In De Moshpit",
-      "url": "https://open.spotify.com/track/0vV4dhunlGBFmQfkz1QGDB"
-    },
-    {
-      "added_at": "2025-11-08 08:13:51",
-      "album": {
         "name": "Dansen met de dood",
         "url": "https://open.spotify.com/album/3iKTDcSlzjaUlLfYENtrW7"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 204770,
       "name": "Dansen met de dood",
       "url": "https://open.spotify.com/track/4l9mEd8BcksX3maLREZaX5"
+    },
+    {
+      "added_at": "2025-11-08 08:13:51",
+      "album": {
+        "name": "Bidden In De Moshpit",
+        "url": "https://open.spotify.com/album/4JtRnHZ4Kk3DEYsUPNXEQx"
+      },
+      "artists": [
+        {
+          "name": "Prins S. en De Geit",
+          "url": "https://open.spotify.com/artist/0jXZD0lM7Icyig6RrBGlUi"
+        }
+      ],
+      "duration_ms": 187704,
+      "name": "Bidden In De Moshpit",
+      "url": "https://open.spotify.com/track/0vV4dhunlGBFmQfkz1QGDB"
     },
     {
       "added_at": "2025-11-08 08:13:51",
@@ -603,22 +603,6 @@
     {
       "added_at": "2025-11-08 08:13:51",
       "album": {
-        "name": "narcose",
-        "url": "https://open.spotify.com/album/41ptO0ldtOqretw3ZE7RHa"
-      },
-      "artists": [
-        {
-          "name": "Sef",
-          "url": "https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0"
-        }
-      ],
-      "duration_ms": 173816,
-      "name": "narcose",
-      "url": "https://open.spotify.com/track/2im7VTECz19mDtYI5NkVg6"
-    },
-    {
-      "added_at": "2025-11-08 08:13:51",
-      "album": {
         "name": "Leonie",
         "url": "https://open.spotify.com/album/3lkGd1lTZMQXRbmH4FFGhS"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 196675,
       "name": "Leonie",
       "url": "https://open.spotify.com/track/2HNMx0HXsZRbOMzaCGh3dP"
+    },
+    {
+      "added_at": "2025-11-08 08:13:51",
+      "album": {
+        "name": "narcose",
+        "url": "https://open.spotify.com/album/41ptO0ldtOqretw3ZE7RHa"
+      },
+      "artists": [
+        {
+          "name": "Sef",
+          "url": "https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0"
+        }
+      ],
+      "duration_ms": 173816,
+      "name": "narcose",
+      "url": "https://open.spotify.com/track/2im7VTECz19mDtYI5NkVg6"
     },
     {
       "added_at": "2025-11-08 08:13:51",
@@ -651,22 +651,6 @@
     {
       "added_at": "2025-11-08 08:13:51",
       "album": {
-        "name": "v2.025",
-        "url": "https://open.spotify.com/album/1UVFHFPXrnPXiLR7bOTiFZ"
-      },
-      "artists": [
-        {
-          "name": "MEROL",
-          "url": "https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO"
-        }
-      ],
-      "duration_ms": 211264,
-      "name": "VOL v2.025",
-      "url": "https://open.spotify.com/track/61pq3uXW7ybCgWxBi4iAGY"
-    },
-    {
-      "added_at": "2025-11-08 08:13:51",
-      "album": {
         "name": "Drijfzand",
         "url": "https://open.spotify.com/album/33HwgqAUk5su4mUxTsKtoc"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 219130,
       "name": "Drijfzand",
       "url": "https://open.spotify.com/track/7xIUJS8zUUfkXvxXrdOgmo"
+    },
+    {
+      "added_at": "2025-11-08 08:13:51",
+      "album": {
+        "name": "v2.025",
+        "url": "https://open.spotify.com/album/1UVFHFPXrnPXiLR7bOTiFZ"
+      },
+      "artists": [
+        {
+          "name": "MEROL",
+          "url": "https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO"
+        }
+      ],
+      "duration_ms": 211264,
+      "name": "VOL v2.025",
+      "url": "https://open.spotify.com/track/61pq3uXW7ybCgWxBi4iAGY"
     },
     {
       "added_at": "2025-11-08 08:13:51",
@@ -783,22 +783,6 @@
     {
       "added_at": "2025-11-08 08:13:51",
       "album": {
-        "name": "Zweef Hier",
-        "url": "https://open.spotify.com/album/6CeCZiANVnTBmGg8Fh3AfH"
-      },
-      "artists": [
-        {
-          "name": "Bibi van Ansem",
-          "url": "https://open.spotify.com/artist/0MpQgnQ7AAiqpvXLq5cXVF"
-        }
-      ],
-      "duration_ms": 152368,
-      "name": "Zweef Hier",
-      "url": "https://open.spotify.com/track/0WOO50jMuMIYUSpZb9bXTs"
-    },
-    {
-      "added_at": "2025-11-08 08:13:51",
-      "album": {
         "name": "Het Moment Supr\u00eame",
         "url": "https://open.spotify.com/album/5hLf8KGSoR9cvf4ZPyFgRQ"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 180594,
       "name": "Haast",
       "url": "https://open.spotify.com/track/1S89uc20DN0LjVxy8TYzEO"
+    },
+    {
+      "added_at": "2025-11-08 08:13:51",
+      "album": {
+        "name": "Zweef Hier",
+        "url": "https://open.spotify.com/album/6CeCZiANVnTBmGg8Fh3AfH"
+      },
+      "artists": [
+        {
+          "name": "Bibi van Ansem",
+          "url": "https://open.spotify.com/artist/0MpQgnQ7AAiqpvXLq5cXVF"
+        }
+      ],
+      "duration_ms": 152368,
+      "name": "Zweef Hier",
+      "url": "https://open.spotify.com/track/0WOO50jMuMIYUSpZb9bXTs"
     },
     {
       "added_at": "2025-11-08 08:13:51",

@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Back To Black](https://open.spotify.com/track/30FURVTCpbKyykjSEQzGkH) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 4:00 | 2025-02-22 |  |
-| [Better Man](https://open.spotify.com/track/7tOYSMYowhxJ0uK3WMoL5n) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 2:20 | 2025-02-22 |  |
+| [Better Man](https://open.spotify.com/track/7tOYSMYowhxJ0uK3WMoL5n) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 2:21 | 2025-02-22 |  |
 | [Big Jet Plane](https://open.spotify.com/track/0zScLh0yufjmMy0pAm97uE) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Down the Way](https://open.spotify.com/album/1MFBzRJQWxkTc271AStNmF) | 3:59 | 2025-02-22 |  |
 | [Bring Those Good Times Back](https://open.spotify.com/track/3fleWSoThmjQP2Eq5Y0Wnp) | [Bradley Denniston](https://open.spotify.com/artist/53kQBsEHAWWgAJtXLC37fh), [Koncept](https://open.spotify.com/artist/1vInbTSMFJUspkFo3PsSZL) | [Bring Those Good Times Back](https://open.spotify.com/album/6SMFvQFCRntXJuK7uEr4l2) | 2:38 | 2025-02-24 |  |
 | [Bubble Games](https://open.spotify.com/track/1QB80qIIqkWexRjdXZUjkp) | [Magic Bronson](https://open.spotify.com/artist/4YlhxCoA1qEgTHoOBaKu1t) | [Nor'easter](https://open.spotify.com/album/5BIjKRBcJWPoA1n4Jdx5ID) | 4:00 | 2025-02-22 |  |

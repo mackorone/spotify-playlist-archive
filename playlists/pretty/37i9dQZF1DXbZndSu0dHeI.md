@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZndSu0dHeI.md) - [plain]
 
 > Really lovely songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,394 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,391 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,12 +31,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZndSu0dHeI.md) - [plain]
 | 21 | [Be Your Boy](https://open.spotify.com/track/0mvbSAjTbLc6ExAaDh5vlM) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Wild](https://open.spotify.com/album/2tggKTosyVKKepsled2gaO) | 3:27 |
 | 22 | [unposted letters](https://open.spotify.com/track/2IvWwO7uGWthBDqifdv9kc) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [unposted letters](https://open.spotify.com/album/6GHaGnLbjpvGCqXWxQpemG) | 3:25 |
 | 23 | [Crown](https://open.spotify.com/track/7xTplcuSNquTW0mpuikq1E) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Crown](https://open.spotify.com/album/07gjkxd6XpuPOYPjx11iDY) | 2:22 |
-| 24 | [Lloyd, I'm Ready To Be Heartbroken](https://open.spotify.com/track/52PuLmsxTDOI2WAqpzYjoT) | [Camera Obscura](https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt) | [Let's Get Out Of This Country](https://open.spotify.com/album/3NcGNYXKiHeygdXXL7czL1) | 3:51 |
-| 25 | [Honey Water](https://open.spotify.com/track/5JVEWVNVv8OYILCkHZkwvK) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [For Melancholy Brunettes \(& sad women\)](https://open.spotify.com/album/4qqdOkr3Ff3kN8GxoxvRES) | 4:50 |
+| 24 | [Honey Water](https://open.spotify.com/track/5JVEWVNVv8OYILCkHZkwvK) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [For Melancholy Brunettes \(& sad women\)](https://open.spotify.com/album/4qqdOkr3Ff3kN8GxoxvRES) | 4:50 |
+| 25 | [Lloyd, I'm Ready To Be Heartbroken](https://open.spotify.com/track/52PuLmsxTDOI2WAqpzYjoT) | [Camera Obscura](https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt) | [Let's Get Out Of This Country](https://open.spotify.com/album/3NcGNYXKiHeygdXXL7czL1) | 3:51 |
 | 26 | [flame](https://open.spotify.com/track/02jhBMmYb4HHlrDP4kPp6f) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [strongboi](https://open.spotify.com/album/1SMqO3mYNla8IxJIEFkQ7A) | 4:03 |
 | 27 | [Nothing Arrived](https://open.spotify.com/track/4Qegqm597Rw1PfaV43WkLy) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [{Awayland}](https://open.spotify.com/album/4lZBE5uyS5BGnJOJc88s95) | 3:43 |
-| 28 | [Dirty Laundry](https://open.spotify.com/track/2Xtkc0tsVpwdLcFZt5SQ97) | [The Army, The Navy](https://open.spotify.com/artist/4MAnvDgzeM6bAVUVUbUeFI) | [Dirty Laundry](https://open.spotify.com/album/7aSC9q6YLN4hsx0p2ZPH2Q) | 2:36 |
-| 29 | [More Like You](https://open.spotify.com/track/2cKHnVTfjxDaDYnMUyhZwU) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Woman on the Internet](https://open.spotify.com/album/3TEaY5Lqzymo0AVv2HkQep) | 3:40 |
+| 28 | [More Like You](https://open.spotify.com/track/2cKHnVTfjxDaDYnMUyhZwU) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Woman on the Internet](https://open.spotify.com/album/3TEaY5Lqzymo0AVv2HkQep) | 3:40 |
+| 29 | [Dirty Laundry](https://open.spotify.com/track/2Xtkc0tsVpwdLcFZt5SQ97) | [The Army, The Navy](https://open.spotify.com/artist/4MAnvDgzeM6bAVUVUbUeFI) | [Dirty Laundry](https://open.spotify.com/album/7aSC9q6YLN4hsx0p2ZPH2Q) | 2:36 |
 | 30 | [Brian Cox](https://open.spotify.com/track/0LbtMgKgt5gCN74xpaYNo0) | [Sophie May](https://open.spotify.com/artist/20je656lhatFVl4EoaNupn) | [Brian Cox](https://open.spotify.com/album/6pNS3kSG0HdxMpjOJ1aQho) | 2:56 |
 | 31 | [Worst Case Kid](https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Worst Case Kid](https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd) | 2:32 |
 | 32 | [Mine Forever](https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Mine Forever](https://open.spotify.com/album/5vPc0ab8XurwCozeAu1xp6) | 4:48 |
@@ -81,11 +81,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZndSu0dHeI.md) - [plain]
 | 71 | [Pinetrees](https://open.spotify.com/track/6VmKRiq18SDfzCfV2nXOSs) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Pinetrees](https://open.spotify.com/album/2hXdszF3JmErfOInSMV3hQ) | 3:24 |
 | 72 | [Our Time](https://open.spotify.com/track/44cqu9aiiJarV1znSUY1YZ) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Our Time](https://open.spotify.com/album/7AvyzgmBfIOyRRBqY85puH) | 3:24 |
 | 73 | [Mac’s Omelette](https://open.spotify.com/track/4puNPIWV9CQLdWKy5gtkiP) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [Mac's Omelette](https://open.spotify.com/album/3CLqLECm5JopTVkD3tMikU) | 3:58 |
-| 74 | [Manifest](https://open.spotify.com/track/4PNvV0RKHaKgkVgqZCHkiE) | [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Manifest](https://open.spotify.com/album/3pmmi3IjlwZfKBoR3bMPbb) | 2:26 |
-| 75 | [Shelter](https://open.spotify.com/track/0hyTH8NRRQeaFjbfoktfnc) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Shelter](https://open.spotify.com/album/2fnADmeEO13U3Lb4PNsFo3) | 3:17 |
-| 76 | [Everybody](https://open.spotify.com/track/5nRaLv8g2AAtEf92IuQJyG) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM), [H 3 F](https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3) | [Everybody](https://open.spotify.com/album/2QRzc3cbXi3DjaVk30t5Vj) | 6:34 |
+| 74 | [I've Got Feelings](https://open.spotify.com/track/6AufSqeMerHPyCYy7PcvvP) | [Will Bryant](https://open.spotify.com/artist/2uJRUFEELBSNirlF7oFHea) | [I've Got Feelings](https://open.spotify.com/album/2bLRDPpnlBgpuHQg0qVmo1) | 4:01 |
+| 75 | [Manifest](https://open.spotify.com/track/4PNvV0RKHaKgkVgqZCHkiE) | [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Manifest](https://open.spotify.com/album/3pmmi3IjlwZfKBoR3bMPbb) | 2:26 |
+| 76 | [Shelter](https://open.spotify.com/track/0hyTH8NRRQeaFjbfoktfnc) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Shelter](https://open.spotify.com/album/2fnADmeEO13U3Lb4PNsFo3) | 3:17 |
 | 77 | [Everything At Once](https://open.spotify.com/track/1DjdeAcAT1ztBJBxI9VUFo) | [Bleach Lab](https://open.spotify.com/artist/2B70zWgfCAGQ8o2ImS2bH8) | [Lost In A Rush Of Emptiness](https://open.spotify.com/album/3EvUVXwaGNkeqinGICcGQU) | 4:42 |
-| 78 | [I've Got Feelings](https://open.spotify.com/track/6AufSqeMerHPyCYy7PcvvP) | [Will Bryant](https://open.spotify.com/artist/2uJRUFEELBSNirlF7oFHea) | [I've Got Feelings](https://open.spotify.com/album/2bLRDPpnlBgpuHQg0qVmo1) | 4:01 |
+| 78 | [Everybody](https://open.spotify.com/track/5nRaLv8g2AAtEf92IuQJyG) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM), [H 3 F](https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3) | [Everybody](https://open.spotify.com/album/2QRzc3cbXi3DjaVk30t5Vj) | 6:34 |
 | 79 | [2much2soon](https://open.spotify.com/track/6siBdjNAiPG4V4pZMFNvac) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y), [AJSF](https://open.spotify.com/artist/00WIyZKC5hWNyrW92VzAj1) | [2much2soon](https://open.spotify.com/album/6lelFbCH0ZJ80em8wganZo) | 3:01 |
 | 80 | [Stay And Rest For A While](https://open.spotify.com/track/4tHWZg3t5LpOkdRd53gal2) | [Good Dog](https://open.spotify.com/artist/1oJPedap0VtK48hM9Wm6S1) | [Stay And Rest For A While](https://open.spotify.com/album/1bSl8vFRJFYjLppddo8VrL) | 2:53 |
 | 81 | [Garden of Eden](https://open.spotify.com/track/6jF6VwQeIiy18FUH0wuIQN) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Garden of Eden](https://open.spotify.com/album/3pw1gb17EJ7ILSm9b28ZgQ) | 3:19 |
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZndSu0dHeI.md) - [plain]
 | 93 | [Dead Ocean Swimmer](https://open.spotify.com/track/3UpaBM4jiBcs5ERfFMfJSq) | [Solis](https://open.spotify.com/artist/0K3Fj6AQuFF0wggXjejSZS) | [Dead Ocean Swimmer](https://open.spotify.com/album/2c7s79EZUrj34wz6d3tXF3) | 4:22 |
 | 94 | [Failure](https://open.spotify.com/track/3xnFWXU2SfZ7q7Nes4Ncr8) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl) | 4:07 |
 | 95 | [Try](https://open.spotify.com/track/1E2pCJo8kbB2og7YYiJMWx) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Collection](https://open.spotify.com/album/1NcmOmza86zn7wt02k9q74) | 2:59 |
-| 96 | [Villain](https://open.spotify.com/track/1U6zdjZowXrmoq7mutrCra) | [Annahstasia](https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE) | [Villain](https://open.spotify.com/album/5h89X4sxa7SXWZ7EbB5YAD) | 4:30 |
-| 97 | [Honey](https://open.spotify.com/track/0mNoOaGPACxijG3wkudf6R) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [Slack A](https://open.spotify.com/album/6yhwC2yFrX1js48ITVygoH) | 3:44 |
+| 96 | [Honey](https://open.spotify.com/track/0mNoOaGPACxijG3wkudf6R) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [Slack A](https://open.spotify.com/album/6yhwC2yFrX1js48ITVygoH) | 3:44 |
+| 97 | [Villain](https://open.spotify.com/track/1U6zdjZowXrmoq7mutrCra) | [Annahstasia](https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE) | [Villain](https://open.spotify.com/album/5h89X4sxa7SXWZ7EbB5YAD) | 4:30 |
 | 98 | [Turn The World On](https://open.spotify.com/track/5zeMiru9wbjdLBNYhFZa3G) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [Turn The World On](https://open.spotify.com/album/0zL6Nw3i8LCzj4HRI2olI3) | 3:30 |
 | 99 | [If Only](https://open.spotify.com/track/3t1tuXZHj49DsFXb8vQP2k) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [If Only](https://open.spotify.com/album/7nG2z6GRTqbDefzf7ATFPy) | 3:22 |
 | 100 | [Jessie's House](https://open.spotify.com/track/5XqflTC9Cn3YCdDvIXSDFK) | [Findlay](https://open.spotify.com/artist/12XBVoWq6M6etLxxe1TQWn) | [Jessie's House](https://open.spotify.com/album/4CChj4YlzZQ7qCWfZYSuiH) | 3:16 |

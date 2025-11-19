@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3W8KBiALe.md) - [plain]
 
 > Chill to the familiar classical pieces featured in award\-winning films.
 
-[Spotify](https://open.spotify.com/user/spotify) - 427,539 likes - 82 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 427,604 likes - 82 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3W8KBiALe.md) - [plain]
 | 73 | [Firebird Suite \- 1919 Version](https://open.spotify.com/track/0hs1sHdXt60LfeGONDNOVy) | [Igor Stravinsky](https://open.spotify.com/artist/7ie36YytMoKtPiL7tUvmoE), [Chicago Symphony Orchestra](https://open.spotify.com/artist/6TD08jYeuN128P2MZTbc8E) | [Fantasia 2000 \(An Original Walt Disney Records Soundtrack\)](https://open.spotify.com/album/2lNb9KPnZFxjFf3PWunSzl) | 9:13 |
 | 74 | [Symphony \#3: Passacaglia \- Allegro Moderato](https://open.spotify.com/track/1KYmJQOEotLxPUo8oz9UPH) | [Krzysztof Penderecki](https://open.spotify.com/artist/0qEO82Hj3SvjoNyEfKpRku), [Antoni Wit](https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh), [Polish National Radio Symphony Orchestra](https://open.spotify.com/artist/62QURushyB5wug2XPwajwK) | [Shutter Island \[Music From The Motion Picture\]](https://open.spotify.com/album/2I0wGJYHfI70MEvivAEEYm) | 6:46 |
 | 75 | [Fratres](https://open.spotify.com/track/1gRJOkMPSNUddnnfb0g2fF) | [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg), [Gidon Kremer](https://open.spotify.com/artist/24ibCRKLtfIZcfrixiBAsm), [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [Arvo Pärt: Tabula Rasa, Fratres, Cantus in memoriam Benjamin Britten](https://open.spotify.com/album/3D3dLscRKfP5b9zIr0FED9) | 11:28 |
-| 76 | [Nocturne in E\-Flat Major, Op\. 9, No\. 2](https://open.spotify.com/track/6UXdpxKebkZYtS9X8HY2QS) | [Daniela Jakubowicz](https://open.spotify.com/artist/2UOQeSFyp6H5LRodL0DiM2) | [Hands of Stone \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1fysQPIgbfPtGXEo4sUujP) | 2:27 |
+| 76 | [Nocturne in E\-Flat Major, Op\. 9, No\. 2](https://open.spotify.com/track/6UXdpxKebkZYtS9X8HY2QS) | [Daniela Jakubowicz](https://open.spotify.com/artist/2UOQeSFyp6H5LRodL0DiM2) | [Hands of Stone \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1fysQPIgbfPtGXEo4sUujP) | 2:28 |
 | 77 | [Dido and Æneas: "Ouverture"](https://open.spotify.com/track/7r1FbJGYzoUyIAUggSXrX4) | [Henry Purcell](https://open.spotify.com/artist/3tMLo1k3iUo82coMLWXzxq), [The Scholars Baroque Ensemble](https://open.spotify.com/artist/79zqMJ0Tc0wATqK0eszdsJ) | [Before Sunrise, Before Sunset, Before Midnight \(Bandes originales des films de Richard Linklater\)](https://open.spotify.com/album/1C5ACPgVgu75yVWBQgByjT) | 1:56 |
 | 78 | [Musica Ricercata, II \- Mesto, rigido e cerimoniale](https://open.spotify.com/track/2PF2ZCRmMdkLpz1Q7qi3O2) | [Dominic Harlan](https://open.spotify.com/artist/3IQ7smN25mo56K9Xm6YqKj) | [Eyes Wide Shut \(Music From The Motion Picture\)](https://open.spotify.com/album/0gPlSAqkuQUxShbxWNXjkL) | 4:17 |
 | 79 | [Concerto For Lute And Plucked Strings I\. Moderato](https://open.spotify.com/track/1aC7xHBDNOiQOhbVAbBpbB) | [Antonio Vivaldi](https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR), [Siefried Behrend & DZO Chamber Orchestra](https://open.spotify.com/artist/5aWIdTpNaFybJHwpFY7ybR) | [The Grand Budapest Hotel \(Original Soundtrack\)](https://open.spotify.com/album/4JSC6btqLvqKRnW4It66pQ) | 2:52 |

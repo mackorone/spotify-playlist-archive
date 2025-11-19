@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6SJaitNDax.md) - [plain]
 
 > Afro sounds crossing borders\. Cover: Ciara
 
-[Spotify](https://open.spotify.com/user/spotify) - 744,947 likes - 130 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 744,971 likes - 130 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

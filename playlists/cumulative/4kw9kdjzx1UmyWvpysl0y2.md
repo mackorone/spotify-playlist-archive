@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,118 songs - 2 day 14 hr 29 min
+1,119 songs - 2 day 14 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -623,6 +623,7 @@
 | [Mirror Of Erised](https://open.spotify.com/track/3o9Er7gZnrvh6wHRiv7xac) | [Heard Right](https://open.spotify.com/artist/3KdFNDrWsHS0EePg8svgRl), [Meeting Molly](https://open.spotify.com/artist/55p34uHtqEyL4CoYAwqE2G) | [Mirror Of Erised](https://open.spotify.com/album/4Z59SWLNVf31yAhuhzQ7FH) | 3:46 | 2022-08-19 | 2022-11-01 |
 | [Mirrorball](https://open.spotify.com/track/4QvWeams3FkjHOGqI266ZH) | [A.M.R](https://open.spotify.com/artist/1VYDrE9BSCRxSX8VHVJZNc), [Fractures](https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70) | [Mirrorball](https://open.spotify.com/album/1fnDE3UdzHEI35MUSbhM1M) | 3:59 | 2023-09-25 | 2024-01-11 |
 | [Mirrors](https://open.spotify.com/track/59j1aFqihFjuwZzii7lIYP) | [Maazel](https://open.spotify.com/artist/4w5LgUT6bfJnNq6wSFbND7), [Darby](https://open.spotify.com/artist/6rErJmMCoNHUX0Z99uBB8m), [BELELA](https://open.spotify.com/artist/6nPKt2CGXcKHtmbMq8Sq62) | [Mirrors](https://open.spotify.com/album/5NoNQjHMRQ0bmO2BfOoxv1) | 3:21 | 2022-07-26 | 2022-10-07 |
+| [Mistakes](https://open.spotify.com/track/098jJf7Hk5rgvBCVwLMYFg) | [ORACLE](https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF) | [Mistakes](https://open.spotify.com/album/2h5AAgM8O5lXcCKVEEOgEh) | 2:49 | 2025-11-18 |  |
 | [Moment](https://open.spotify.com/track/0NWoUXhNcS7vih0UUkF5IT) | [Athena](https://open.spotify.com/artist/35e9lLLCAkexOFe3m0pK0W), [smle](https://open.spotify.com/artist/1JV42BPeocUJ0EyQh8ug6V) | [Moment](https://open.spotify.com/album/4RZPytmLloX8b4U8MuKZT8) | 2:42 | 2022-07-01 | 2022-09-17 |
 | [Moment \- Worlds Version](https://open.spotify.com/track/7wfquD5DrEBAqqZEXJoJa2) | [Athena](https://open.spotify.com/artist/35e9lLLCAkexOFe3m0pK0W), [smle](https://open.spotify.com/artist/1JV42BPeocUJ0EyQh8ug6V), [Isaac App](https://open.spotify.com/artist/2OSFdgs18suoiLJWRcqiEy) | [Moment \(Worlds Version\)](https://open.spotify.com/album/7jLueD1XaPlGgP6NSogvXx) | 3:07 | 2022-08-01 | 2022-10-19 |
 | [Moments](https://open.spotify.com/track/0BU2hNH4lvkignYKP6kJW8) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Z3LLA](https://open.spotify.com/artist/5GsXRkwr74MAPYBjrgUT02) | [Moments](https://open.spotify.com/album/3wLwVLZ25BdqRKjcnWSTx5) | 3:08 | 2024-06-06 | 2024-08-29 |

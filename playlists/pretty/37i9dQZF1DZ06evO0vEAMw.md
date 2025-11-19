@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vEAMw.md) - [plain]
 
 > This is Davido\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,558 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,593 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,12 +39,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vEAMw.md) - [plain]
 | 29 | [Ride For You](https://open.spotify.com/track/00d0ILlSL8Np5IhVIyAP02) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Deal With It](https://open.spotify.com/album/1jLhAmn3rw2GjKy28gvCtS) | 3:37 |
 | 30 | [Gobe](https://open.spotify.com/track/3d1aboWNpT2UYajHpbRExQ) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Gobe](https://open.spotify.com/album/6KjWnuW1bcexQkKuG8W4HK) | 3:49 |
 | 31 | [Twe Twe](https://open.spotify.com/track/2khv04F26pnJr4989Maowi) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Twe Twe](https://open.spotify.com/album/0Cfw8M7pu4fdsYsKvUyFg7) | 2:23 |
-| 32 | [Risky](https://open.spotify.com/track/5CWaYPulpYMRRl1ToR6yO7) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [A Good Time](https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n) | 4:30 |
-| 33 | [Doe](https://open.spotify.com/track/5BGDsaokGCwQ9OpeVy0MUs) | [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Doe](https://open.spotify.com/album/61T8t21pCXXAwBb1b5UHJP) | 4:02 |
+| 32 | [Doe](https://open.spotify.com/track/5BGDsaokGCwQ9OpeVy0MUs) | [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Doe](https://open.spotify.com/album/61T8t21pCXXAwBb1b5UHJP) | 4:02 |
+| 33 | [Risky](https://open.spotify.com/track/5CWaYPulpYMRRl1ToR6yO7) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [A Good Time](https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n) | 4:30 |
 | 34 | [Apala Drill](https://open.spotify.com/track/46nS1TZZF8HjLTk2Ew7R1L) | [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [SABALI](https://open.spotify.com/album/1jIpg7Fckr3AsMUUSZLAYs) | 2:15 |
 | 35 | [Nwa Baby](https://open.spotify.com/track/5LQ4gy76WKL3yH7eClwM5m) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Nwa Baby](https://open.spotify.com/album/2ginnTdwjq3y0c5aYhUvzn) | 3:42 |
-| 36 | [1 Milli](https://open.spotify.com/track/3AKPoi06BFR4vrK7alGjfi) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [A Good Time](https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n) | 2:43 |
-| 37 | [Electricity](https://open.spotify.com/track/5ZGXOgSHLkDYlDssUkVp7a) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Pheelz Good](https://open.spotify.com/album/5JDvgDchniRt7s72WlHOH6) | 2:12 |
+| 36 | [Electricity](https://open.spotify.com/track/5ZGXOgSHLkDYlDssUkVp7a) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Pheelz Good](https://open.spotify.com/album/5JDvgDchniRt7s72WlHOH6) | 2:12 |
+| 37 | [1 Milli](https://open.spotify.com/track/3AKPoi06BFR4vrK7alGjfi) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [A Good Time](https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n) | 2:43 |
 | 38 | [Like Dat](https://open.spotify.com/track/0t4xEkeg24xVvd5EtIrly7) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Like Dat](https://open.spotify.com/album/4BYoitcv3TKB13Q3afcfDM) | 3:20 |
 | 39 | [La La \(feat\. Ckay\)](https://open.spotify.com/track/53PewZvhksjF9EynzsBnAR) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [A Better Time](https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD) | 3:07 |
 | 40 | [Perfect Situation](https://open.spotify.com/track/5ilfhmLJ7qH081oAjiNovj) | [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd), [Dremo](https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu) | [SABALI](https://open.spotify.com/album/1jIpg7Fckr3AsMUUSZLAYs) | 3:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vEAMw.md) - [plain]
 | 49 | [Holy Ground \(feat\. Nicki Minaj\)](https://open.spotify.com/track/6DWErydPjjZyH06gOkhxRL) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [A Better Time](https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD) | 2:42 |
 | 50 | [Like \(feat\. Kizz Daniel\)](https://open.spotify.com/track/5Zez1biAREA2C8706kdlIb) | [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Like \(feat\. Kizz Daniel\)](https://open.spotify.com/album/45UWuUIciHbsLfZeJhbuIB) | 2:30 |
 
-Snapshot ID: `aRkUAAAAAADchyQKMT6slLUpsNSarYkq`
+Snapshot ID: `aRplgAAAAADz+zkLpdhXZ9YYz7X6j7Oi`

@@ -1,12 +1,12 @@
 {
   "description": "This is Mr Eazi. The essential tracks, all in one playlist.",
-  "num_followers": 21013,
+  "num_followers": 21017,
   "original_name": "This Is Mr Eazi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRkUAAAAAACkk4NOZc7C6IK69KehM9ci",
+  "snapshot_id": "aRplgAAAAABv1HAMwJyyAk5Rpizb7/j1",
   "tracks": [
     {
       "added_at": null,
@@ -243,22 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corny",
-        "url": "https://open.spotify.com/album/1oVNe2AR7EQLYMjzKbXASP"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 174821,
-      "name": "Corny",
-      "url": "https://open.spotify.com/track/4OnkZxUQMN9D7ZjGuxEd7K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dance For Me (Eugy X Mr Eazi)",
         "url": "https://open.spotify.com/album/0SwJftCsa4HhuNWT11cIlJ"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 204173,
       "name": "Dance For Me (Eugy X Mr Eazi)",
       "url": "https://open.spotify.com/track/6prqX1SW2MMH8hAOIzKQ3Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corny",
+        "url": "https://open.spotify.com/album/1oVNe2AR7EQLYMjzKbXASP"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 174821,
+      "name": "Corny",
+      "url": "https://open.spotify.com/track/4OnkZxUQMN9D7ZjGuxEd7K"
     },
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Evil Genius",
-        "url": "https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 168150,
-      "name": "Chop Time, No Friend",
-      "url": "https://open.spotify.com/track/4qbEAsnEwISp19ebujxhg4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "One Day You Will Understand",
         "url": "https://open.spotify.com/album/6Z22tsn1nyT9CmcTZa8ZEC"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 213360,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/6YOFW94Vha0L3ph7GvT10e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Evil Genius",
+        "url": "https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 168150,
+      "name": "Chop Time, No Friend",
+      "url": "https://open.spotify.com/track/4qbEAsnEwISp19ebujxhg4"
     },
     {
       "added_at": null,
@@ -499,6 +499,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Maison Rouge",
+        "url": "https://open.spotify.com/album/3iVYEdFLoTQjndEUi2I67I"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 145325,
+      "name": "Love Me Now",
+      "url": "https://open.spotify.com/track/7z6IhNr7jIoW5WhC3UMdTq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Doyin",
         "url": "https://open.spotify.com/album/3G9nwad9keufs9f45T69Z9"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 153962,
       "name": "Doyin",
       "url": "https://open.spotify.com/track/71iknvVFjHMMs0nit8eh2M"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Maison Rouge",
-        "url": "https://open.spotify.com/album/3iVYEdFLoTQjndEUi2I67I"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 145325,
-      "name": "Love Me Now",
-      "url": "https://open.spotify.com/track/7z6IhNr7jIoW5WhC3UMdTq"
     },
     {
       "added_at": null,

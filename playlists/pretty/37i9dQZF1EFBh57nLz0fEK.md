@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBh57nLz0fEK.md) - [plain]
 | 93 | [When It Ends](https://open.spotify.com/track/78JF5ltZGwtjJkd5gsFZO3) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Ruby](https://open.spotify.com/album/3NaRWUhsOLdHsmqJON0aiv) | 4:32 |
 | 94 | [Pay for the Pain](https://open.spotify.com/track/37tYiGnTLQgu5PnSI7R7m0) | [Gild Walton](https://open.spotify.com/artist/2ienhCqiGU2x3g8jbLwx2s) | [Pay for the Pain](https://open.spotify.com/album/0vskX5pm17kkNLiSYWfcjW) | 2:42 |
 | 95 | [Witness](https://open.spotify.com/track/4CwrUYKXLeUyAFhEYlbJld) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Ruby](https://open.spotify.com/album/3NaRWUhsOLdHsmqJON0aiv) | 4:16 |
-| 96 | [Just Like Jenny](https://open.spotify.com/track/39fXwsp5ZQG76nN9mGBzbb) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Ruby](https://open.spotify.com/album/3NaRWUhsOLdHsmqJON0aiv) | 2:58 |
-| 97 | [Sunday](https://open.spotify.com/track/0gqcPH08FOqIqumcDQrw3C) | [B Jack$](https://open.spotify.com/artist/2bnV4zuMP2tBXzsGbPmkuo) | [No Guest List](https://open.spotify.com/album/2xTeGaKSGR9TG8JWjA4HOx) | 1:53 |
+| 96 | [Sunday](https://open.spotify.com/track/0gqcPH08FOqIqumcDQrw3C) | [B Jack$](https://open.spotify.com/artist/2bnV4zuMP2tBXzsGbPmkuo) | [No Guest List](https://open.spotify.com/album/2xTeGaKSGR9TG8JWjA4HOx) | 1:53 |
+| 97 | [Just Like Jenny](https://open.spotify.com/track/39fXwsp5ZQG76nN9mGBzbb) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Ruby](https://open.spotify.com/album/3NaRWUhsOLdHsmqJON0aiv) | 2:58 |
 | 98 | [Shinanigins](https://open.spotify.com/track/6YTpBXHHEY0PGTxOkJX6wX) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Ruby](https://open.spotify.com/album/3NaRWUhsOLdHsmqJON0aiv) | 2:42 |
 | 99 | [Dance Scream](https://open.spotify.com/track/4Q1Rd72FnS8xWPg7tHaVDf) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Las Ruinas](https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO) | 2:04 |
 | 100 | [Bloodline](https://open.spotify.com/track/2qvrRtYFN7MGRokO77TZKK) | [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [The Birth of a Nation: The Inspired By Album](https://open.spotify.com/album/6miimmKAefrNxnErwCTGmj) | 4:12 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBh57nLz0fEK.md) - [plain]
 | 125 | [This Time](https://open.spotify.com/track/2vhYlpTjJR6WNcLbt6VohD) | [PARADISE LTD](https://open.spotify.com/artist/0ahtFYd681pvCSkj1vh8lv), [Wild Culture](https://open.spotify.com/artist/7hayBHpyq0PvgOt9l96hpp) | [Blood, Sweat & Tears](https://open.spotify.com/album/1agGkgiRsIb0lC6TUApqDS) | 4:07 |
 | 126 | [INTERLUDE](https://open.spotify.com/track/4RyDxpwqXhN5zI39QumvVe) | [T$](https://open.spotify.com/artist/00xAzuaRdsIegeqqDtlzae), [Willie Truitt](https://open.spotify.com/artist/3rrNr8VdtVf9y7PBg5xS9w) | [PURPLE BLOOD](https://open.spotify.com/album/4ECQGzAEn0Vj0RiPWLh1gH) | 0:37 |
 
-Snapshot ID: `AcB3HAAAAACy5/0+giqM3tm9+aicL2NO`
+Snapshot ID: `AcB8qAAAAACH8YS0BbDQIdDlA9Eor41B`

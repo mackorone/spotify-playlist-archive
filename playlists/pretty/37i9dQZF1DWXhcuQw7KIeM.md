@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 
 > From the very deep spirit of the almighty North.
 
-[Spotify](https://open.spotify.com/user/spotify) - 564,486 likes - 75 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 564,617 likes - 75 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,11 +39,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 | 29 | [Äiti Varjo](https://open.spotify.com/track/4bNvxOrJbtB59wZ6KCpbJA) | [Kallomäki](https://open.spotify.com/artist/0KYKgrKx6gPLODjybxJpn9) | [Äiti Varjo](https://open.spotify.com/album/6NhNoFTwVOVve3x9rDn9sy) | 4:09 |
 | 30 | [Meri](https://open.spotify.com/track/73ToXpajvWBjFlGg0ND3pE) | [Ínkar](https://open.spotify.com/artist/3mdSsyIBntdGgvdbCf2Ebh) | [Meri](https://open.spotify.com/album/4Tt4jvL29pPmIeTvYy5d6B) | 3:33 |
 | 31 | [L'appel Du Vide](https://open.spotify.com/track/2VUxvWxmUJXp2neuoOq1zx) | [Sylvaine](https://open.spotify.com/artist/5C9ocrDvsfSz8qcxG70QEe) | [Atoms Aligned, Coming Undone](https://open.spotify.com/album/6UWmG28sc4akOQcOEQGJ1e) | 7:44 |
-| 32 | [Nimue](https://open.spotify.com/track/1aiRXPka4NIzsefkXElOO7) | [Faun](https://open.spotify.com/artist/2wPOgnQ6eW3X73uIJZ4YFE), [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [Nimue](https://open.spotify.com/album/4kwS6yOQxGEWgBFULiTJr4) | 4:38 |
-| 33 | [Norðrljós](https://open.spotify.com/track/0Sjps7HTP1MUPUXqBMXTt0) | [SKÁLD](https://open.spotify.com/artist/3uliAYf4KyTkBpVf3BiWVv) | [Norðrljós](https://open.spotify.com/album/4UC8HNvhmz0b0ZspOcbmCa) | 3:20 |
+| 32 | [Norðrljós](https://open.spotify.com/track/0Sjps7HTP1MUPUXqBMXTt0) | [SKÁLD](https://open.spotify.com/artist/3uliAYf4KyTkBpVf3BiWVv) | [Norðrljós](https://open.spotify.com/album/4UC8HNvhmz0b0ZspOcbmCa) | 3:20 |
+| 33 | [Nimue](https://open.spotify.com/track/1aiRXPka4NIzsefkXElOO7) | [Faun](https://open.spotify.com/artist/2wPOgnQ6eW3X73uIJZ4YFE), [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [Nimue](https://open.spotify.com/album/4kwS6yOQxGEWgBFULiTJr4) | 4:38 |
 | 34 | [Seidfylgjur](https://open.spotify.com/track/0kyH6SWNBMNnBiK8R15dwl) | [Rúnahild](https://open.spotify.com/artist/6B28AjXpmQglsDG2hHAwg3) | [Seidfylgjur](https://open.spotify.com/album/6gFf0gVsTsA1gB3d1Whj8e) | 4:20 |
-| 35 | [Ella](https://open.spotify.com/track/6QXieDRlH4Ofjg864USffV) | [Myrkur](https://open.spotify.com/artist/3544ImlskUwZqWJTmqWUsa) | [Ella](https://open.spotify.com/album/4Bb09POxCDNaLQPXWO4qv9) | 3:54 |
-| 36 | [Stay](https://open.spotify.com/track/3foIGbQ1FPZYJJ7RQ6v4Nj) | [Numenorean](https://open.spotify.com/artist/2qBGuYUZX53HN4Vk7Msjlc) | [Adore](https://open.spotify.com/album/4Yf0HZRHPCZvRteeDMLcul) | 2:21 |
+| 35 | [Stay](https://open.spotify.com/track/3foIGbQ1FPZYJJ7RQ6v4Nj) | [Numenorean](https://open.spotify.com/artist/2qBGuYUZX53HN4Vk7Msjlc) | [Adore](https://open.spotify.com/album/4Yf0HZRHPCZvRteeDMLcul) | 2:21 |
+| 36 | [Ella](https://open.spotify.com/track/6QXieDRlH4Ofjg864USffV) | [Myrkur](https://open.spotify.com/artist/3544ImlskUwZqWJTmqWUsa) | [Ella](https://open.spotify.com/album/4Bb09POxCDNaLQPXWO4qv9) | 3:54 |
 | 37 | [Gnosis](https://open.spotify.com/track/6cn4fBdGfBaBhhEB67V39P) | [Equilibrium](https://open.spotify.com/artist/5KvkOKroKLz202ioXfGWR2) | [Gnosis](https://open.spotify.com/album/1YzQD6gRvgqJrjHPe4spGF) | 4:35 |
 | 38 | [Umai](https://open.spotify.com/track/3C821qtpWKmA0acEYMjXLQ) | [Shireen](https://open.spotify.com/artist/5seY97ZUURo9gKO34z2G06) | [Matriarch](https://open.spotify.com/album/4ENwBjtTvOOWfl0hrbVAyD) | 6:18 |
 | 39 | [The Elm](https://open.spotify.com/track/6kGb58FphWqHUAbDQyw72G) | [Suldusk](https://open.spotify.com/artist/27bhelNsrdlX5Y5H7yigfg) | [Lunar Falls](https://open.spotify.com/album/1HUzttzwHcJeFyIBGeLXL3) | 3:30 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 | 53 | [Akva \- Live](https://open.spotify.com/track/5sCfp94Viu01VFQlNL1Zf2) | [KAUAN](https://open.spotify.com/artist/2QgzO1Z5XYu9zj3nOYsXUa) | [Akva \(Live\)](https://open.spotify.com/album/0vJfKqs1FC63IShbggiyyu) | 6:44 |
 | 54 | [Huginn ok Muninn](https://open.spotify.com/track/2Xxvm29k94TTwGmAX7UhBA) | [Nytt Land](https://open.spotify.com/artist/6NQ701XGEJodDZ5lqVtrBp) | [Huginn ok Muninn](https://open.spotify.com/album/29kFr26QuyvyBsRyzwrFkb) | 5:13 |
 | 55 | [Anaia](https://open.spotify.com/track/3zV5XvBjP9uvQlfW2z7hCC) | [IANAI](https://open.spotify.com/artist/1yGcDrrvQWSoki7RrXWPhh), [Client N](https://open.spotify.com/artist/4ItT2MdjEl4l5HrxkWT9QF) | [Sunir](https://open.spotify.com/album/4LmG2mr04QCWGQ51SiDrWA) | 6:38 |
-| 56 | [Set the Sails](https://open.spotify.com/track/6ZOx4ehXa8K2LESIQzIaqA) | [Storm Seeker](https://open.spotify.com/artist/4zAK8a87dIdPw6xRYvsr4c) | [Set the Sails](https://open.spotify.com/album/32yJV9RCY9rHW8Hc2isL1c) | 3:16 |
-| 57 | [Sun and the Morning Star](https://open.spotify.com/track/5UcGAYuUcxiGt7Wc2SwWBu) | [Romuvos](https://open.spotify.com/artist/0GlwrXB5cmvWo091lMFeud) | [Sun and the Morning Star](https://open.spotify.com/album/5Lg1rhYDzoYgL6XFEnHnKA) | 5:23 |
+| 56 | [Sun and the Morning Star](https://open.spotify.com/track/5UcGAYuUcxiGt7Wc2SwWBu) | [Romuvos](https://open.spotify.com/artist/0GlwrXB5cmvWo091lMFeud) | [Sun and the Morning Star](https://open.spotify.com/album/5Lg1rhYDzoYgL6XFEnHnKA) | 5:23 |
+| 57 | [Set the Sails](https://open.spotify.com/track/6ZOx4ehXa8K2LESIQzIaqA) | [Storm Seeker](https://open.spotify.com/artist/4zAK8a87dIdPw6xRYvsr4c) | [Set the Sails](https://open.spotify.com/album/32yJV9RCY9rHW8Hc2isL1c) | 3:16 |
 | 58 | [Relics of the Natural Realm](https://open.spotify.com/track/5cbnif2ROYIXzqWWJ6ZUMa) | [Sojourner](https://open.spotify.com/artist/0XFkf3NSP76nB7zhzPdM9X) | [Perennial](https://open.spotify.com/album/3zxt9rDcbBMJBPL6fmgTeJ) | 5:20 |
 | 59 | [Ethel](https://open.spotify.com/track/2kDFEgMbmQ0rmt1mAeI7fp) | [Elvenking](https://open.spotify.com/artist/09b5OcuIELTdD7FfzQzcdB) | [Ethel](https://open.spotify.com/album/4IbI4W9JAiPWXUMFmkXjVG) | 3:39 |
 | 60 | [Les](https://open.spotify.com/track/4zrkDm3R7bM53Tvknv5dks) | [Theodor Bastard](https://open.spotify.com/artist/2PQ9UX4kWDE3mf2fYGRzqF) | [Volch'ya Yagoda](https://open.spotify.com/album/0UWdMPkfaHzQclhYQc43fS) | 4:09 |

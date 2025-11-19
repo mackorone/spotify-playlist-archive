@@ -2,18 +2,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 
 ### [التوب](https://open.spotify.com/playlist/37i9dQZF1DXd3AhRYJnfcl)
 
-> أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف: توو ليت
+> أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف: ليجي\-سي
 
-[Spotify](https://open.spotify.com/user/spotify) - 415,261 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 415,541 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [El Hob Gany](https://open.spotify.com/track/67yheG887FPQXlPRNmoXqz) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [El Hob Gany](https://open.spotify.com/album/0ydLudumPehNljy8VgM0Bp) | 4:01 |
-| 2 | [Ekhtalafna .\. Fara'na .\. Eftara'na](https://open.spotify.com/track/4HsAeZ9hbj3YsI10ww3vFn) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [Ekhtalafna .\. Fara'na .\. Eftara'na](https://open.spotify.com/album/1kt8RaftlYDHnL76bpTknX) | 4:29 |
+| 1 | [3alam Kadaba \- From The TV Series Ma Trah Lays Kama Ybdo](https://open.spotify.com/track/2aLNH70Up5k1lnQXwkqzaW) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [3alam Kadaba \(From The TV Series Ma Trah Lays Kama Ybdo\)](https://open.spotify.com/album/6yvANh5NaOqE3H6HsTQJD0) | 3:00 |
+| 2 | [El Hob Gany](https://open.spotify.com/track/67yheG887FPQXlPRNmoXqz) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [El Hob Gany](https://open.spotify.com/album/0ydLudumPehNljy8VgM0Bp) | 4:01 |
 | 3 | [Makrehtosh](https://open.spotify.com/track/6ETTz69AD0SQzjxiCipq7g) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Yaah](https://open.spotify.com/album/2oqZuAGuCqR2aYrfrUBXzR) | 3:32 |
 | 4 | [WALA MEEN](https://open.spotify.com/track/7dlcdKBhZfmK7GrMRIQJid) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [Ismail Nosrat](https://open.spotify.com/artist/1PZvPgfsfNge3ln8NLjl87), [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [WALA MEEN](https://open.spotify.com/album/52Jft3EkjHz3YizhXvuftP) | 3:12 |
-| 5 | [كله قالي اشمعنا هو](https://open.spotify.com/track/1kiMxcAT57ZEzdth98RR5T) | [Amr Gaber](https://open.spotify.com/artist/5BpkUYoUu7tprTj4yiLNoo) | [كله قالي اشمعنا هو](https://open.spotify.com/album/3aOHiwuofbnhWWYw82lv9P) | 2:54 |
-| 6 | [3alam Kadaba \- From The TV Series Ma Trah Lays Kama Ybdo](https://open.spotify.com/track/2aLNH70Up5k1lnQXwkqzaW) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [3alam Kadaba \(From The TV Series Ma Trah Lays Kama Ybdo\)](https://open.spotify.com/album/6yvANh5NaOqE3H6HsTQJD0) | 3:00 |
+| 5 | [Ekhtalafna .\. Fara'na .\. Eftara'na](https://open.spotify.com/track/4HsAeZ9hbj3YsI10ww3vFn) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [Ekhtalafna .\. Fara'na .\. Eftara'na](https://open.spotify.com/album/1kt8RaftlYDHnL76bpTknX) | 4:29 |
+| 6 | [كله قالي اشمعنا هو](https://open.spotify.com/track/1kiMxcAT57ZEzdth98RR5T) | [Amr Gaber](https://open.spotify.com/artist/5BpkUYoUu7tprTj4yiLNoo) | [كله قالي اشمعنا هو](https://open.spotify.com/album/3aOHiwuofbnhWWYw82lv9P) | 2:54 |
 | 7 | [DO YOU LOVE ME? / سنيورة](https://open.spotify.com/track/4gR1Lpk0478t0M6wrft3y5) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT), [Fares Sokar](https://open.spotify.com/artist/748zEAbda3IIsAkIxN62Hw) | [Love Letters / رسائل حب \(Deluxe\)](https://open.spotify.com/album/1L0410frQGcY66rOhygU6Z) | 2:38 |
 | 8 | [Narein](https://open.spotify.com/track/3D33hlROnv1lNCWIXIGsL2) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [Narein](https://open.spotify.com/album/5eU2WB6lRgUVf3SkloTRy9) | 3:04 |
 | 9 | [Sebtely Alby](https://open.spotify.com/track/4737Q6tMY1c8uSxNHMVQO7) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [Sebtely Alby](https://open.spotify.com/album/5siBJGS4A5yxVDNkzo3oIk) | 4:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 | 49 | [Emshy](https://open.spotify.com/track/1VQx8TpKEv8uWQ1awwPX5f) | [Tommyy](https://open.spotify.com/artist/40zCGXzhrnG6Lz4hQ7XK0l), [Rally](https://open.spotify.com/artist/61suwIK2ayrvQ9awCNEKfy) | [El Rwaya](https://open.spotify.com/album/2uoPClqaphvHQd6zqtF8M2) | 3:11 |
 | 50 | [لوحدي في المكان من فيلم ٦ أيام](https://open.spotify.com/track/72QK9YQ9EFco9G9eGTaHlA) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF), [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [لوحدي في المكان من فيلم ٦ أيام](https://open.spotify.com/album/358XYlavUBk8EpZfU65SrP) | 4:04 |
 
-Snapshot ID: `AAAAABLIV2fLhO79Ic7FSPXJsigbOnBB`
+Snapshot ID: `AAAAAOffDQiRlyw/P/msGFA5cGvEYNKk`

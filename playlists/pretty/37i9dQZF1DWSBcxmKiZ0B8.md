@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBcxmKiZ0B8.md) - [plain]
 
 > 周杰倫是華語樂壇千禧以來最重要的名字，被稱為「亞洲流行音樂新天王」。
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,061 likes - 101 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,103 likes - 101 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBcxmKiZ0B8.md) - [plain]
 | 19 | [明明就](https://open.spotify.com/track/04x6DpeFQ72efXsD0DmWPQ) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [十二新作](https://open.spotify.com/album/2mfQMCY9GF34zQ8bqhIrmQ) | 4:20 |
 | 20 | [最長的電影](https://open.spotify.com/track/6C9w3NKP7yKqGLBP09iEL4) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [我很忙](https://open.spotify.com/album/3CFQKBIkZKTRxU3EvZ1oHY) | 3:55 |
 | 21 | [給我一首歌的時間](https://open.spotify.com/track/3PM4u9Z8d3IMVsBlFPID2J) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [魔杰座](https://open.spotify.com/album/2SrwWoOk7egNTcaJcb4tuO) | 4:13 |
-| 22 | [不該 \(with aMEI\)](https://open.spotify.com/track/7LyCtbxher5m97MImn5M3l) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql), [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [周杰倫的床邊故事](https://open.spotify.com/album/5clrYp291Dg0XL6rgvOgoB) | 4:50 |
+| 22 | [不該 \(with 張惠妹\)](https://open.spotify.com/track/7LyCtbxher5m97MImn5M3l) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql), [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [周杰倫的床邊故事](https://open.spotify.com/album/5clrYp291Dg0XL6rgvOgoB) | 4:50 |
 | 23 | [退後](https://open.spotify.com/track/5Dz3XIMSUiChhvmUIK38YS) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [依然范特西](https://open.spotify.com/album/6D7H9eUkaMPJ1M3p6ioljZ) | 4:21 |
 | 24 | [彩虹](https://open.spotify.com/track/4KJx4IOvCU2isprmXio9Xk) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [我很忙](https://open.spotify.com/album/3CFQKBIkZKTRxU3EvZ1oHY) | 4:21 |
 | 25 | [聖誕星 \(feat\. 楊瑞代\)](https://open.spotify.com/track/6IHerlmqWsMK5pfEGMBnAY) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql), [Gary Yang](https://open.spotify.com/artist/4iFznCrxI2nlVer46cgvWG) | [聖誕星 \(feat\. 楊瑞代\)](https://open.spotify.com/album/4rg2QiBWFYBzKtdcJeHnP7) | 3:02 |

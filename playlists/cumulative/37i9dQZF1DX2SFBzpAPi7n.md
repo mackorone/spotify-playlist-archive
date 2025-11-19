@@ -2,9 +2,9 @@
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: 자우림 \(JAURIM\) \(핫한 국내 록 음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: TOUCHED\(터치드\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-1,079 songs - 2 day 17 hr 47 min
+1,080 songs - 2 day 17 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -592,6 +592,7 @@
 | [Monoamory](https://open.spotify.com/track/43DcjLAWHodB5pyzfJfEAA) | [CHANMIN](https://open.spotify.com/artist/1O1BXOtl5jWeZJIkSwNMBi) | [Saya](https://open.spotify.com/album/7MRJH6oHeOvJqEH4WKWDkU) | 3:41 | 2025-02-05 | 2025-03-18 |
 | [Monsoon](https://open.spotify.com/track/3uOyTMOS8K2h8cyUO7jZfH) | [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [Monsoon](https://open.spotify.com/album/0GSUns1MLEoUyxiiD0WFWY) | 3:49 | 2025-07-03 | 2025-07-25 |
 | [Moon Shower](https://open.spotify.com/track/263KmXuzo15UKctN8kwmR7) | [NELL](https://open.spotify.com/artist/5WY88tCMFA6J6vqSN3MmDZ) | [Moon Shower](https://open.spotify.com/album/07TNiIlsk9H6WJ2KPl1Zv4) | 3:23 | 2023-11-03 | 2023-11-10 |
+| [Moondance](https://open.spotify.com/track/2KUEKN10jfO8IQ3uUKdynn) | [TOUCHED](https://open.spotify.com/artist/5jgIm8tZ4hqLeoHTo9wJIV) | [Moondance](https://open.spotify.com/album/1LYt1Jb1ooZzJWqnfIxdx2) | 3:46 | 2025-11-18 |  |
 | [Moonshot](https://open.spotify.com/track/17wECh3CzqeHm48pqm544P) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [Man on the Moon](https://open.spotify.com/album/3sdVDRppHe8ygY7b1NgW7T) | 3:00 | 2022-04-12 | 2025-04-12 |
 | [More](https://open.spotify.com/track/5JUMzqH6U6oO6yKXa0rLZg) | [verycoybunny](https://open.spotify.com/artist/2J9XKuzbhYp7Ibs7sqGoGB) | [More](https://open.spotify.com/album/1zvUzhuA4hLQpnl5SL02Sv) | 4:36 | 2022-05-02 | 2022-07-05 |
 | [Mouse](https://open.spotify.com/track/3bFpFHcK5cbg93FyKUTNWs) | [Lee go do](https://open.spotify.com/artist/18r9qka1AKwgqzUzaLdxhm) | [Mouse](https://open.spotify.com/album/3BLdWzAtpi6No30f2m1okJ) | 3:58 | 2022-04-12 | 2022-07-28 |
@@ -1061,7 +1062,7 @@
 | [zombie pop](https://open.spotify.com/track/5zhMMVw097YOSvT0oDGgDV) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [DPR ARCHIVES](https://open.spotify.com/album/1qpS7W0whJPG7b8PlhSgGw) | 1:54 | 2024-06-05 | 2024-11-07 |
 | [‎Good Night Good Dream](https://open.spotify.com/track/3s761CQaziQ0GEN1yUkIsG) | [Nerd Connection](https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK) | [‎Good Night Good Dream](https://open.spotify.com/album/4VLZnvJ9dnuEnF57Pbashc) | 4:25 | 2025-03-17 | 2025-09-10 |
 | [그녀가 날 깨웠다](https://open.spotify.com/track/0ZiqukZrA8LLP4CTA7VSsS) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [독수리 5형제를 부탁해! \(Original Television Soundtrack\) Pt.1](https://open.spotify.com/album/38HdDPMgvczUFfSddkW9R3) | 3:02 | 2025-02-18 | 2025-03-18 |
-| [나무](https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [나무](https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur) | 3:52 | 2022-04-21 |  |
+| [나무](https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [나무](https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur) | 3:52 | 2022-04-21 | 2025-11-19 |
 | [날 버리지 마요](https://open.spotify.com/track/5NZLKa0BTaxTtIkmeK2Jjs) | [JUROKEY](https://open.spotify.com/artist/59TnLHZJYHwrk51oo4bbVC) | [날 버리지 마요](https://open.spotify.com/album/3l25IElZW7jIlbTD7obUAr) | 4:01 | 2022-04-12 | 2022-04-29 |
 | [낡은 괴담 Cumulus](https://open.spotify.com/track/6SGISb2p5ebnvpRUtIaXlr) | [JUNGWOO](https://open.spotify.com/artist/3tvnuk98r2VOv9ygTK8cjs) | [클라우드 쿠쿠 랜드 Cloud Cuckoo Land](https://open.spotify.com/album/1JsmKt5IsgxgqkIVNsjuuz) | 4:02 | 2023-11-10 | 2023-11-24 |
 | [내 인생은 영화가 아니니깐 Even if it's not a movie](https://open.spotify.com/track/3iNKeoWEHeOiggDyDUoQ1Z) | [SAGA](https://open.spotify.com/artist/2ZRfFuLggOblc7VecpyL7l) | [내 인생은 영화가 아니니깐 Even if it's not a movie](https://open.spotify.com/album/7HVbI46GN8Aka3KJbJwhVj) | 3:45 | 2022-04-12 | 2022-07-01 |

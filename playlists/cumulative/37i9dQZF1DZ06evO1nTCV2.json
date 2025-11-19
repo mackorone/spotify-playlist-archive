@@ -431,7 +431,7 @@
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 235120,
+      "duration_ms": 235115,
       "name": "Bad Blood",
       "url": "https://open.spotify.com/track/0Pq0pa6k5m7D3mUG1nFQwi"
     },
@@ -629,7 +629,7 @@
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 201693,
+      "duration_ms": 201695,
       "name": "Blank Space",
       "url": "https://open.spotify.com/track/1JhAt4FmhLKj0Z5QpsadNa"
     },
@@ -1744,7 +1744,7 @@
       ],
       "date_added": "2024-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 203200,
       "name": "Halloweenhead",
       "url": "https://open.spotify.com/track/04N3X9vfSzIpkgnD15pCzz"
@@ -3005,7 +3005,7 @@
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 367386,
+      "duration_ms": 367382,
       "name": "Out of the Woods",
       "url": "https://open.spotify.com/track/1WALf3LQsgkXda1jjsBsSV"
     },
@@ -3372,6 +3372,24 @@
     {
       "album": {
         "name": "1989",
+        "url": "https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246436,
+      "name": "Shake It Off",
+      "url": "https://open.spotify.com/track/7bH22jtBtUuWLZ7MGxHI69"
+    },
+    {
+      "album": {
+        "name": "1989",
         "url": "https://open.spotify.com/album/0MVK1j7wrUkBZ09ZuMURJA"
       },
       "artists": [
@@ -3386,24 +3404,6 @@
       "duration_ms": 246440,
       "name": "Shake It Off",
       "url": "https://open.spotify.com/track/391ijHd2drZtRfz5v0LqLf"
-    },
-    {
-      "album": {
-        "name": "1989",
-        "url": "https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "date_added": "2022-01-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 246440,
-      "name": "Shake It Off",
-      "url": "https://open.spotify.com/track/7bH22jtBtUuWLZ7MGxHI69"
     },
     {
       "album": {
@@ -4052,7 +4052,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-09",
+      "date_removed": null,
       "duration_ms": 318586,
       "name": "The Shadowlands",
       "url": "https://open.spotify.com/track/2uW4Jr8JOkYtpfQwG5YXcj"

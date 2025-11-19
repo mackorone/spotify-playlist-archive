@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMCBSro7Jtx.md) - [plain]
 
 > Celebrating 10 years of PC Music: The record label that changed pop music forever\. Cover art by <a href="https://www.instagram.com/tmthy.luke">Timothy Luke</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,778 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,791 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMCBSro7Jtx.md) - [plain]
 | 11 | [☆ \(feat\. Oklou\)](https://open.spotify.com/track/2RKVFFH9h2vglxvqpN9Xre) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX), [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Unlimited Ammo](https://open.spotify.com/album/5itcmCB2iv31ZAlmxpv1Gj) | 3:07 |
 | 12 | [No FX](https://open.spotify.com/track/17gbNhkzYFootFzqHfcst1) | [Hannah Diamond](https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU) | [Perfect Picture](https://open.spotify.com/album/1ChwZuPoRvA8Z5uprRsO2P) | 3:35 |
 | 13 | [Pobbles](https://open.spotify.com/track/7wSUj7LGg3REdoCXd0Ib7d) | [POBBLES](https://open.spotify.com/artist/3343LAOpTvhsvoBqrm3S5f) | [Pobbles](https://open.spotify.com/album/4xjFfbusPoyyfB6dlkbrc8) | 1:06 |
-| 14 | [Broken Flowers](https://open.spotify.com/track/7Km0ioOI11nh7xGatqrpDj) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD) | [Broken Flowers \- EP](https://open.spotify.com/album/6jpADwNRHSXDsvPSzARq00) | 3:23 |
+| 14 | [Broken Flowers](https://open.spotify.com/track/7Km0ioOI11nh7xGatqrpDj) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD) | [Broken Flowers \- EP](https://open.spotify.com/album/6jpADwNRHSXDsvPSzARq00) | 3:24 |
 | 15 | [Be Your USA](https://open.spotify.com/track/2v3wrFuzJTGl9e4seco6n4) | [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW), [Iiris](https://open.spotify.com/artist/3Y10Y3MuSy0W1ACvSQwTJv) | [Be Your USA](https://open.spotify.com/album/6iSlPHQkWNc6HSyNXUKoJw) | 2:53 |
 | 16 | [Secret Garden](https://open.spotify.com/track/172wkVKqT2Q5xYvI2ez5MI) | [Ö](https://open.spotify.com/artist/2f1BFOhuLHw7mXfquuG85y), [Nömak](https://open.spotify.com/artist/6rbVD4QiFbfXuqHaZ6DxEY) | [Hypernormality](https://open.spotify.com/album/5s2MU4pZMy6B3guYWxlLX5) | 5:06 |
 | 17 | [popular](https://open.spotify.com/track/7IpmgwR3K4wFzWTS1ESWZj) | [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6) | [search result](https://open.spotify.com/album/1wmIqJmiY5i7frir68g8JP) | 3:33 |

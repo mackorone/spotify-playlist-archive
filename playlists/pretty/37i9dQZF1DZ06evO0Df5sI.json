@@ -1,12 +1,12 @@
 {
   "description": "This is Alkaline Trio. The essential tracks, all in one playlist.",
-  "num_followers": 23323,
+  "num_followers": 23326,
   "original_name": "This Is Alkaline Trio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRkUAAAAAAAV6baleLfCXPiP4E3JFGnc",
+  "snapshot_id": "aRplgAAAAABBbv0ojvcZ95QERO47VT24",
   "tracks": [
     {
       "added_at": null,
@@ -451,8 +451,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "From Here to Infirmary",
-        "url": "https://open.spotify.com/album/7gtS3OJQlbZg16KZ59Qyhh"
+        "name": "Good Mourning",
+        "url": "https://open.spotify.com/album/1iT5nziNpSIeIFWB1Vx8hq"
       },
       "artists": [
         {
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 170133,
-      "name": "Steamer Trunk",
-      "url": "https://open.spotify.com/track/6VlELdo8zKE5vSPxTddfHx"
+      "duration_ms": 240213,
+      "name": "All on Black",
+      "url": "https://open.spotify.com/track/3bW28EUV2h0gBv0hCIdMYH"
     },
     {
       "added_at": null,
@@ -499,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Mourning",
-        "url": "https://open.spotify.com/album/1iT5nziNpSIeIFWB1Vx8hq"
+        "name": "From Here to Infirmary",
+        "url": "https://open.spotify.com/album/7gtS3OJQlbZg16KZ59Qyhh"
       },
       "artists": [
         {
@@ -508,57 +508,9 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 240213,
-      "name": "All on Black",
-      "url": "https://open.spotify.com/track/3bW28EUV2h0gBv0hCIdMYH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Muppets: The Green Album",
-        "url": "https://open.spotify.com/album/77klgRm6FxdgXYArYvXGYj"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 153840,
-      "name": "Movin' Right Along",
-      "url": "https://open.spotify.com/track/0avaVpOJTKyV87oMmjVMXw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blood, Hair, And Eyeballs",
-        "url": "https://open.spotify.com/album/3BQK669H6FrqGVd7YtxNIs"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 203533,
-      "name": "Break",
-      "url": "https://open.spotify.com/track/4447WSwIe8Q9LNKIh7kZDQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Crimson",
-        "url": "https://open.spotify.com/album/3VKf6mjVtOgynbmAxH0H6F"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 124560,
-      "name": "The Poison",
-      "url": "https://open.spotify.com/track/2uO0Rd59JF7D1pWBUwEWKg"
+      "duration_ms": 170133,
+      "name": "Steamer Trunk",
+      "url": "https://open.spotify.com/track/6VlELdo8zKE5vSPxTddfHx"
     },
     {
       "added_at": null,
@@ -579,8 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Remains",
-        "url": "https://open.spotify.com/album/6U1NRLEie1cPXfDt2kf8Nz"
+        "name": "Blood, Hair, And Eyeballs",
+        "url": "https://open.spotify.com/album/3BQK669H6FrqGVd7YtxNIs"
       },
       "artists": [
         {
@@ -588,9 +540,57 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 221520,
-      "name": "Metro",
-      "url": "https://open.spotify.com/track/4js6mEbWT0stDAGLwPzirt"
+      "duration_ms": 203533,
+      "name": "Break",
+      "url": "https://open.spotify.com/track/4447WSwIe8Q9LNKIh7kZDQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Muppets: The Green Album",
+        "url": "https://open.spotify.com/album/77klgRm6FxdgXYArYvXGYj"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 153840,
+      "name": "Movin' Right Along",
+      "url": "https://open.spotify.com/track/0avaVpOJTKyV87oMmjVMXw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Addiction (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4otoRgtApYRPsuxrW3Xaxj"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 154866,
+      "name": "This Addiction",
+      "url": "https://open.spotify.com/track/2LI6D6z57Lq2QTQH6Tgsz0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Crimson",
+        "url": "https://open.spotify.com/album/3VKf6mjVtOgynbmAxH0H6F"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 124560,
+      "name": "The Poison",
+      "url": "https://open.spotify.com/track/2uO0Rd59JF7D1pWBUwEWKg"
     },
     {
       "added_at": null,
@@ -611,8 +611,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Addiction (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4otoRgtApYRPsuxrW3Xaxj"
+        "name": "Remains",
+        "url": "https://open.spotify.com/album/6U1NRLEie1cPXfDt2kf8Nz"
       },
       "artists": [
         {
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 154866,
-      "name": "This Addiction",
-      "url": "https://open.spotify.com/track/2LI6D6z57Lq2QTQH6Tgsz0"
+      "duration_ms": 221520,
+      "name": "Metro",
+      "url": "https://open.spotify.com/track/4js6mEbWT0stDAGLwPzirt"
     },
     {
       "added_at": null,
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Remains",
-        "url": "https://open.spotify.com/album/6U1NRLEie1cPXfDt2kf8Nz"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 154080,
-      "name": "My Standard Break from Life",
-      "url": "https://open.spotify.com/track/67aA3pLpZ02gtMlOLaEBb4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Maybe I'll Catch Fire",
         "url": "https://open.spotify.com/album/2cosroXFwTeqXEwrWEXFJK"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 187480,
       "name": "Maybe I'll Catch Fire",
       "url": "https://open.spotify.com/track/1SAu5cfWXQPqd3CppSkhWA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Remains",
+        "url": "https://open.spotify.com/album/6U1NRLEie1cPXfDt2kf8Nz"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 154080,
+      "name": "My Standard Break from Life",
+      "url": "https://open.spotify.com/track/67aA3pLpZ02gtMlOLaEBb4"
     },
     {
       "added_at": null,

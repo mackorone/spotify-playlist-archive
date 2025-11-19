@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRkUAAAAAADFR4JUN4OGtp37N5RrruPx",
+  "snapshot_id": "aRplgAAAAADsOh22CV5NHGcKKfqDrJQz",
   "tracks": [
     {
       "added_at": null,
@@ -479,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cross My Heart I Hope U Die",
-        "url": "https://open.spotify.com/album/1FediPQ7sTybNA5NfXjOKx"
+        "name": "American in Paris",
+        "url": "https://open.spotify.com/album/194Tx25QcQ8lPKqZTQFL0j"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 165250,
-      "name": "Why Do I Keep Playing It",
-      "url": "https://open.spotify.com/track/7AxloZ14VKQ1ac6QNZQjem"
+      "duration_ms": 182500,
+      "name": "Because of Me",
+      "url": "https://open.spotify.com/track/1ISdkmkTJYXUD5av8eCq2D"
     },
     {
       "added_at": null,
@@ -511,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "American in Paris",
-        "url": "https://open.spotify.com/album/194Tx25QcQ8lPKqZTQFL0j"
+        "name": "Cross My Heart I Hope U Die",
+        "url": "https://open.spotify.com/album/1FediPQ7sTybNA5NfXjOKx"
       },
       "artists": [
         {
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 182500,
-      "name": "Because of Me",
-      "url": "https://open.spotify.com/track/1ISdkmkTJYXUD5av8eCq2D"
+      "duration_ms": 165250,
+      "name": "Why Do I Keep Playing It",
+      "url": "https://open.spotify.com/track/7AxloZ14VKQ1ac6QNZQjem"
     }
   ],
   "unique_name": "This Is Meg Smith",

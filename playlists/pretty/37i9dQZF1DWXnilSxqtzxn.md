@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnilSxqtzxn.md) - [plain]
 
 > A collection of the greatest names to ever grace the Jazz Cafe stage\. <a href="https://thejazzcafe.com/whats\-on/?">More info here.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,957 likes - 68 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,965 likes - 68 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnilSxqtzxn.md) - [plain]
 | 30 | [Chum](https://open.spotify.com/track/6plT7nFGiXKSBP9HFSI4ef) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Doris](https://open.spotify.com/album/5vRfIDOPJHy3W2wHWbzLlE) | 4:03 |
 | 31 | [I Wish You Love, Pt\. 1](https://open.spotify.com/track/33Cjw3758iNxV20YrU2hvO) | [Joe Bataan](https://open.spotify.com/artist/7ME0heqob2B32S9ofWhOyU) | [Saint Latin's Day Massacre](https://open.spotify.com/album/4eJmiTmaBXQT0vROXbn5qQ) | 3:32 |
 | 32 | [Ruby My Dear](https://open.spotify.com/track/46BCpYx2ERUE5Rjk9dB1qh) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Diamond In The Rough](https://open.spotify.com/album/5hrMaqrOtNiHewGCItWPNf) | 6:13 |
-| 33 | [Manha de Carnaval](https://open.spotify.com/track/0kfdvJhyb0QHBG1IM9Vlht) | [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [The New Sound of Brazil](https://open.spotify.com/album/0947CUJYGkjD70oXtYtgbU) | 3:09 |
+| 33 | [Manha de Carnaval](https://open.spotify.com/track/0kfdvJhyb0QHBG1IM9Vlht) | [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [The New Sound of Brazil](https://open.spotify.com/album/0947CUJYGkjD70oXtYtgbU) | 3:11 |
 | 34 | [For All We Know](https://open.spotify.com/track/086RZ0U22i29HR5bj0sWSB) | [Ahmad Jamal](https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O) | [Happy Moods](https://open.spotify.com/album/0wulNVxoVugGBX7bwAAmGj) | 2:47 |
 | 35 | [Ice Cream Love](https://open.spotify.com/track/16DTl4nJDz444OcvTlbxxD) | [Johnny Osbourne](https://open.spotify.com/artist/5TUTGRG0FlRoYTZ4GEdOVO) | [Fally Lover](https://open.spotify.com/album/1KazY0vkz1QEHqnoF6ocUj) | 3:23 |
 | 36 | [I Am the Upsetter](https://open.spotify.com/track/1RU0noHNSNBBgZAarFLYvy) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [Explosive Rock Steady \(Expanded Version\)](https://open.spotify.com/album/4QkhZPpe5isOiV6DIKPLcL) | 3:05 |

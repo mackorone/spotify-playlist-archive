@@ -22763,6 +22763,24 @@
     },
     {
       "album": {
+        "name": "Muck",
+        "url": "https://open.spotify.com/album/5VoHyvkJc7GyFQQM9fSIEN"
+      },
+      "artists": [
+        {
+          "name": "Annie DiRusso",
+          "url": "https://open.spotify.com/artist/58jk0945bnQBG9xfij6hHw"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190689,
+      "name": "Muck",
+      "url": "https://open.spotify.com/track/4ImTjh1dGi8ZloxmfAfp5K"
+    },
+    {
+      "album": {
         "name": "Yard",
         "url": "https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9"
       },

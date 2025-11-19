@@ -4,7 +4,7 @@
 
 > Future K\-Pop hits! \(Cover: CLOSE YOUR EYES\)
 
-1,507 songs - 3 day 9 hr 0 min
+1,508 songs - 3 day 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -511,7 +511,7 @@
 | [Gasoline](https://open.spotify.com/track/59WDxA3UxKvJDIJcK6dVZv) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v) | [Gasoline \- The 2nd Album](https://open.spotify.com/album/1STTad4531T7StJ4EiVwAG) | 3:11 | 2022-09-01 | 2022-11-25 |
 | [GEMINI](https://open.spotify.com/track/7L9gc9u9Ev2OprF08AMhGH) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [GEMINI](https://open.spotify.com/album/2kikdfulAIPagHRLh18uJH) | 3:46 | 2021-05-28 | 2021-07-30 |
 | [Generation](https://open.spotify.com/track/1RHTdr5QfviCYI70QPPDJN) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [Acid Angel from Asia <ACCESS>](https://open.spotify.com/album/0EsUBCjxGF328J7VRAE48Y) | 2:44 | 2022-11-11 | 2023-04-07 |
-| [GENIE](https://open.spotify.com/track/3B1kVUGFALavXUt8s9L65V) | [HAN](https://open.spotify.com/artist/46YvTuKiPBUu5KP9818J2F), [Felix](https://open.spotify.com/artist/4UIOuc84ExWojcUzFGtb8W), [I.N](https://open.spotify.com/artist/1odvXbzhdzNajv6un9x5Mc) | [다 이루어질지니 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/7lR1C36AIonUwAUqehsdOU) | 3:33 | 2025-10-08 |  |
+| [GENIE](https://open.spotify.com/track/3B1kVUGFALavXUt8s9L65V) | [HAN](https://open.spotify.com/artist/46YvTuKiPBUu5KP9818J2F), [Felix](https://open.spotify.com/artist/4UIOuc84ExWojcUzFGtb8W), [I.N](https://open.spotify.com/artist/1odvXbzhdzNajv6un9x5Mc) | [다 이루어질지니 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/7lR1C36AIonUwAUqehsdOU) | 3:33 | 2025-10-08 | 2025-11-19 |
 | [Get A Guitar](https://open.spotify.com/track/3Dah48XTdzVtbIl4dUn6l4) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Get A Guitar](https://open.spotify.com/album/4QzCT76QtPCyLinchwVt8l) | 2:40 | 2023-12-07 | 2024-02-16 |
 | [Get A Guitar](https://open.spotify.com/track/4H65EdACzwqV8sTt3dDyA0) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Get A Guitar](https://open.spotify.com/album/3E5VbhGdSMotB0oQ3LwT9k) | 2:40 | 2023-09-05 | 2023-12-09 |
 | [Get Away](https://open.spotify.com/track/5W37S0nq1XvGEyTlUkmr3f) | [VERIVERY](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) | [SERIES ‘O’ \[ROUND 1 : HALL\]](https://open.spotify.com/album/5wQhc8SEKiiXb5b5Ou7tHE) | 3:20 | 2021-03-02 | 2021-06-03 |
@@ -540,7 +540,7 @@
 | [Goblin \(Favorite Boys\)](https://open.spotify.com/track/0QTx81gggSfDhmmdjpCfrT) | [A.C.E](https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi) | [HJZM : The Butterfly Phantasy](https://open.spotify.com/album/7kSTVSMfL0zGGylNn0vgdo) | 3:35 | 2020-10-13\* | 2021-01-11 |
 | [Golden Hour](https://open.spotify.com/track/14sD1EmQ20kSJY3P0M82MY) | [MARK](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) | [Golden Hour \- SM STATION : NCT LAB](https://open.spotify.com/album/1oPIuYqBhdPDGfoEYt8MrR) | 3:19 | 2023-04-06 | 2023-09-02 |
 | [Gonna Be Alright](https://open.spotify.com/track/6V5b8CHXRUSi0jbJfyOVdO) | [VIXX](https://open.spotify.com/artist/5BkB3rXc0qIdUtuEnhbK0A) | [Gonna Be Alright](https://open.spotify.com/album/6RPpa5Wj8EfSAkOLBE8Nbe) | 2:59 | 2023-01-04 | 2023-03-29 |
-| [Good Goodbye](https://open.spotify.com/track/3cLXrotzCjYCkN73PewALM) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [Good Goodbye](https://open.spotify.com/album/2L8UNlNXyAD3cJBPimHbhu) | 3:43 | 2025-10-17 |  |
+| [Good Goodbye](https://open.spotify.com/track/3cLXrotzCjYCkN73PewALM) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [Good Goodbye](https://open.spotify.com/album/2L8UNlNXyAD3cJBPimHbhu) | 3:43 | 2025-10-17 | 2025-11-19 |
 | [Good Morning](https://open.spotify.com/track/4zXbnTwqwQcRdDILZVKZSQ) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [GOOD MORNING](https://open.spotify.com/album/1kfvY0GjQJhhDNjTpy7xOs) | 3:04 | 2024-01-19 | 2024-02-27 |
 | [Good Night](https://open.spotify.com/track/1IfL8E8yZN2DvtLXiybkQu) | [LEE MINHYUK \(HUTA\)](https://open.spotify.com/artist/4fgfmrBHIWsUuHxeOPhv61) | [Good Night](https://open.spotify.com/album/7dwTOsTBJwg9QdoJiPWHsT) | 3:27 | 2021-11-12 | 2021-12-14 |
 | [Good Night \(Feat\. BE'O\)](https://open.spotify.com/track/7uzmxEjFEAiadiCCXa0bhi) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja), [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [RE:UP](https://open.spotify.com/album/7eLDu8gX4OteyGpDLvM99h) | 3:10 | 2022-02-03 | 2022-04-29 |
@@ -821,6 +821,7 @@
 | [Lovesick Girls](https://open.spotify.com/track/4Vhvlhomv8fTp2e6I4XTpe) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/5jI79QM3CJiSELceqwVe78) | 3:12 | 2020-10-13\* | 2021-03-25 |
 | [Lovey Dovey](https://open.spotify.com/track/0sDbmJillp1rvmiROBeFtW) | [YOON SAN\-HA \(ASTRO\)](https://open.spotify.com/artist/6zLERXpqnnXhEnhva48jKW), [ARIN](https://open.spotify.com/artist/34hCqjzOeeJjqmfsd38zuF) | [My Girlfriend is the Man \(Original Soundtrack\) Part.2](https://open.spotify.com/album/00kngcDnCkg25qjOUNUJ7L) | 3:12 | 2025-07-31 | 2025-09-11 |
 | [LTNS](https://open.spotify.com/track/6yb0WXBl0zuabg0sd4HKga) | [DK](https://open.spotify.com/artist/5kS21D4GeBHLdpvPSaK9RF) | [LTNS](https://open.spotify.com/album/4zOvnmkhhITTtuXTZuMjGm) | 3:42 | 2024-02-07 | 2024-03-26 |
+| [Lucky \(Korean Ver.\)](https://open.spotify.com/track/5PD4iehNUhZQsmM9E5Vznt) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Lucky \(Korean Ver.\)](https://open.spotify.com/album/27Kg4RNGzT2vIQ6OvXUjt5) | 2:28 | 2025-11-18 |  |
 | [Lucky=One](https://open.spotify.com/track/0KUXg1wu5jnK5YzvF6cryR) | [cosmosy](https://open.spotify.com/artist/2tWtaN38sQRfSWij1d43tn) | [Lucky=One](https://open.spotify.com/album/1Evh1hzbbUwjBHFoaVQLBq) | 3:14 | 2025-04-24 | 2025-06-25 |
 | [Lullaby](https://open.spotify.com/track/5btyWod77lGbqKjEGRBvGw) | [HWANG MIN HYUN](https://open.spotify.com/artist/7BwZlhJRHC1oVJr8lTxSLf) | [Lullaby](https://open.spotify.com/album/7LbNOe1dTRHpP9hh48Merc) | 3:49 | 2024-03-14 | 2024-05-02 |
 | [LUNATIC](https://open.spotify.com/track/3hicr5nSY0RrKGEy3nYZwU) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [6equence](https://open.spotify.com/album/0SXzCRUFSNGBG1S1lqvzb1) | 3:25 | 2022-01-24 | 2022-04-09 |
@@ -1467,7 +1468,7 @@
 | [With UNIVERSE](https://open.spotify.com/track/1GCYF6dKEpdC7GFn4Kmrd8) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [With UNIVERSE](https://open.spotify.com/album/2m8cxPDIlH371sLuivEWMI) | 2:59 | 2023-10-12 | 2023-11-07 |
 | [Without You](https://open.spotify.com/track/5Yxizu2LeHTpSHvf3zANWY) | [CIX](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd) | [CIX 5th EP Album ‘OK’ Episode 1 : OK Not](https://open.spotify.com/album/0awixD0tmDTgB6JWfQxwO0) | 3:01 | 2022-08-24 | 2022-12-10 |
 | [Without You](https://open.spotify.com/track/3UxfcEYFo3iU6WullUvM9x) | [KARD](https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ) | [KARD 3rd Digital Single 'Without You'](https://open.spotify.com/album/1m0yu7SisKNI9DJSIduL22) | 3:30 | 2023-04-13 | 2023-07-13 |
-| [wo ai ni](https://open.spotify.com/track/5FJtLMs3dkq0K28v69lbRb) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1), [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [wo ai ni / break it even](https://open.spotify.com/album/1Had0ltWJoM2L8xBPjLMK6) | 3:31 | 2025-10-17 |  |
+| [wo ai ni](https://open.spotify.com/track/5FJtLMs3dkq0K28v69lbRb) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1), [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [wo ai ni / break it even](https://open.spotify.com/album/1Had0ltWJoM2L8xBPjLMK6) | 3:31 | 2025-10-17 | 2025-11-19 |
 | [WOLFGANG](https://open.spotify.com/track/5520a7iiRxB9bjf6mc7TyS) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [KINGDOM <FINAL : WHO IS THE KING?>](https://open.spotify.com/album/3n1NaviPQXfiVQ0TarnAf4) | 3:10 | 2021-06-09 | 2021-09-07 |
 | [WONDER YOU](https://open.spotify.com/track/1zn7W0MAMQSo0bZeY4jyyq) | [CIX](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd) | [CIX 8th EP Album GO Chapter 1 : GO Together](https://open.spotify.com/album/5dhQSeZvL4WtRwi4CaQBb6) | 3:17 | 2025-09-09 | 2025-10-18 |
 | [WooAh HIP](https://open.spotify.com/track/4DKDfm5OLW1dIOEAH76Zmg) | [MAMADOL](https://open.spotify.com/artist/4RYQvLQe6W9FuaLp3x8hob) | [MAMA THE IDOL](https://open.spotify.com/album/5vcF3WhSZFnDO6oL1A4VNR) | 3:10 | 2022-01-31 | 2022-04-09 |

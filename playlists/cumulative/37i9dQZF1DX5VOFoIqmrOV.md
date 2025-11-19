@@ -4,7 +4,7 @@
 
 > The finest set of Telugu music from the past 10 years\. <br/>Cover : Pushpa 2
 
-255 songs - 16 hr 52 min
+256 songs - 16 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [](https://open.spotify.com/track/6rji5mwjuHRuhozNhn8DG8) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/2FJmYZos4BIzkjvhmAy1hU) | 0:00 | 2021-12-16 | 2023-03-22 |
 | [Aa Seetadevi Navvula](https://open.spotify.com/track/51ZgZSvy6VfmT89POoGwLf) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Rowdy Fellow](https://open.spotify.com/album/46f207Gwf1JOc9Ia1WRz7v) | 4:15 | 2023-08-07 |  |
 | [Aanandam Madike](https://open.spotify.com/track/3AqiOvi0fx0LsYlqPswUf8) | [Sid Sriram, Satya Yamini](https://open.spotify.com/artist/5R6Apw6QgECTJDP8RqWm3n) | [Ishq \- Not A Love Story](https://open.spotify.com/album/4S1FWZaXzEt3MXbzChYDkR) | 3:38 | 2021-12-16 | 2022-07-25 |
+| [Adi Enti Okkasari \- Nee La Yevaru](https://open.spotify.com/track/7esPEp6q2JX1VVGJTCPvrM) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Swamy Ra Ra](https://open.spotify.com/album/31XfzRQH2YzeZC8ylpzH9q) | 4:47 | 2023-08-07 |  |
 | [Adiga Adiga](https://open.spotify.com/track/5Mo0zkOAPtR2rW9kL29X37) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Ninnu Kori](https://open.spotify.com/album/1os6SVCCteiOS7ZeO8Lxd8) | 3:29 | 2023-08-07 |  |
 | [Akhanda \- Title Song \(From "Akhanda"\)](https://open.spotify.com/track/1xTxKdIpD2QDTBAMvBNr7J) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Siddharth Mahadevan](https://open.spotify.com/artist/7hwEGO7U6JwQ7M1teoO8GW), [Shivam Mahadevan](https://open.spotify.com/artist/235N4J1kQVI9kfqGF8Ntnl) | [Akhanda \- Title Song \(From "Akhanda"\)](https://open.spotify.com/album/1o06U1v1fjOYGWWCA0sSvn) | 4:44 | 2021-12-16 | 2022-07-25 |
 | [Almost Padipoyindhe Pilla](https://open.spotify.com/track/1ZZzUmkUhcNlb0u7C1jcKd) | [Leon James](https://open.spotify.com/artist/0wv5i0ds2z040yx7oL6UZy), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm) | [Almost Padipoyindhe Pilla \(From "Das Ka Dhamki"\)](https://open.spotify.com/album/1LsLgJM2wTC96S2mWwsmuF) | 3:33 | 2023-02-10 |  |
@@ -61,7 +62,7 @@
 | [Choosi Chudangane](https://open.spotify.com/track/0fYTkcBMtjtP4hzoOxGgSF) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Mahati Swara Sagar](https://open.spotify.com/artist/27dNKsHZrQKGnAlFCLDlzd) | [Chalo](https://open.spotify.com/album/4OM6femr6U4dYJwxByQMKX) | 3:22 | 2022-07-24 |  |
 | [Chupulatho Deepala](https://open.spotify.com/track/2PlHPw8TVj7EqGE64ylc1i) | [Bheems Ceciroleo](https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC), [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39) | [Bengal Tiger](https://open.spotify.com/album/6CaNSmTfjpECxwCDAkvmNu) | 3:56 | 2023-08-07 |  |
 | [Chuttamalle](https://open.spotify.com/track/2R8sh9H3YqdufrgMA9LNcz) | [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Ramajogayya Sastry](https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W) | [Devara Part 1 \[TELUGU\]](https://open.spotify.com/album/7ixEMlvfmqKqb7yJjB7Chk) | 3:42 | 2025-01-20 |  |
-| [Crazy Feeling](https://open.spotify.com/track/4cEhCuw7sLZsLIQA1EBvxZ) | [Prudhvi Chandra](https://open.spotify.com/artist/4xUI2yJe8cZHYGhS8rk1oR) | [Nenu Sailaja](https://open.spotify.com/album/1pE2RYH3lcDdLpMVjBslBp) | 3:29 | 2023-08-07 |  |
+| [Crazy Feeling](https://open.spotify.com/track/4cEhCuw7sLZsLIQA1EBvxZ) | [Prudhvi Chandra](https://open.spotify.com/artist/4xUI2yJe8cZHYGhS8rk1oR) | [Nenu Sailaja](https://open.spotify.com/album/1pE2RYH3lcDdLpMVjBslBp) | 3:29 | 2023-08-07 | 2025-11-19 |
 | [Crazy Feeling](https://open.spotify.com/track/6CtrkXMad3ZtmYiOtKfI0t) | [Prudhvi Chandra](https://open.spotify.com/artist/4xUI2yJe8cZHYGhS8rk1oR) | [Nenu Sailaja \(Original Motion PIcture Soundtrack\)](https://open.spotify.com/album/4tRKeleYPghfsVcEC7qAcW) | 3:29 | 2021-12-16 | 2022-07-25 |
 | [Daakko Daakko Meka](https://open.spotify.com/track/0z2hHT6puSqiw3p86El7Kp) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Sivam](https://open.spotify.com/artist/52yAITEPYVr5ZEQL0KJyQX) | [Pushpa \- The Rise](https://open.spotify.com/album/6lNSnP0rsaoy9RC3ozOYV2) | 4:55 | 2021-12-16 | 2022-07-25 |
 | [Darlingey](https://open.spotify.com/track/5PXmfhFNAxiqK86Xknc1HB) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Geetha Madhuri](https://open.spotify.com/artist/5qhGpFQDS0CHw4cKeCzaai) | [Mirchi](https://open.spotify.com/album/0U9GjYJr2K1CK8tOax7Hrf) | 3:44 | 2023-08-07 | 2023-12-13 |

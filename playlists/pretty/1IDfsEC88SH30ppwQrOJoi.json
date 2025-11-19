@@ -1,12 +1,12 @@
 {
   "description": "High energy, club songs from around the world! <a href=\"https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA\">Jaxomy</a> on the cover. Follow <a href=\"http://open.spotify.com/user/ultramusicofficial\">our profile</a> for more playlists.",
-  "num_followers": 14217,
+  "num_followers": 14216,
   "original_name": "Ultra Club Hits",
   "owner": {
     "name": "Ultra Records",
     "url": "https://open.spotify.com/user/ultramusicofficial"
   },
-  "snapshot_id": "AAAK8hpBUZSxTEWf7el2/ISH1W2K9ggX",
+  "snapshot_id": "AAAK9gOmgRM4i6YE10MTvmlkBiy3KkQu",
   "tracks": [
     {
       "added_at": "2025-06-10 12:37:11",
@@ -1635,6 +1635,74 @@
       "duration_ms": 116250,
       "name": "Baiana",
       "url": "https://open.spotify.com/track/0xEbe8QpLVSBX6E0wxeS5l"
+    },
+    {
+      "added_at": "2025-11-18 19:17:05",
+      "album": {
+        "name": "Up Front",
+        "url": "https://open.spotify.com/album/6eLVBuH7e14JC1pRR09kzP"
+      },
+      "artists": [
+        {
+          "name": "DREYA V",
+          "url": "https://open.spotify.com/artist/4EFAuQI8Ou0bmpf5Vh1P5P"
+        }
+      ],
+      "duration_ms": 207230,
+      "name": "Up Front",
+      "url": "https://open.spotify.com/track/74X66DXVuSLDEOp3sR8GFL"
+    },
+    {
+      "added_at": "2025-11-18 19:17:10",
+      "album": {
+        "name": "Deep Down",
+        "url": "https://open.spotify.com/album/2C5ko6anBsj0XKrjwPkBVH"
+      },
+      "artists": [
+        {
+          "name": "LEFTI",
+          "url": "https://open.spotify.com/artist/7o5gxy3lEGcP62TNIppa7w"
+        }
+      ],
+      "duration_ms": 173963,
+      "name": "Deep Down",
+      "url": "https://open.spotify.com/track/5BukeOBassQvKKFvznDAyP"
+    },
+    {
+      "added_at": "2025-11-18 19:17:14",
+      "album": {
+        "name": "I Know You Want To",
+        "url": "https://open.spotify.com/album/60xGclNsYuzGqMfhUW4nXE"
+      },
+      "artists": [
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        }
+      ],
+      "duration_ms": 193488,
+      "name": "I Know You Want To",
+      "url": "https://open.spotify.com/track/3qhf5WajCHsJibQ7cQ2qYS"
+    },
+    {
+      "added_at": "2025-11-18 19:17:34",
+      "album": {
+        "name": "Cold Fresh Air",
+        "url": "https://open.spotify.com/album/54KtnLwk1M9iXn8wDKVBFJ"
+      },
+      "artists": [
+        {
+          "name": "Solardo",
+          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
+        },
+        {
+          "name": "Alec Monopoly",
+          "url": "https://open.spotify.com/artist/7uOE9p28qcPPuSOfcofRS9"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Cold Fresh Air",
+      "url": "https://open.spotify.com/track/0qBCGXtX9RXypyFyDMZDP6"
     }
   ],
   "unique_name": "Ultra Club Hits",

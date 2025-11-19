@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 
 > Música brasileira e as cores de um pôr do sol para completar o seu dia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,007 likes - 85 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,054 likes - 85 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 | 8 | [deixa fluir](https://open.spotify.com/track/6YjjYEAcnlzZavu53uTpDw) | [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0), [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [deixa fluir](https://open.spotify.com/album/6ZoUtuq1rEXklKLr2DBUez) | 2:51 |
 | 9 | [Beleza Rara](https://open.spotify.com/track/5QELf6GWQ6hMURJhpYUNth) | [Pe Lu](https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD) | [Beleza Rara](https://open.spotify.com/album/73QNNUQgxuX6fH9WNI4wCb) | 3:25 |
 | 10 | [Céu Rosé](https://open.spotify.com/track/2GbG2PFAtSHFT6ncTCWSmS) | [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t), [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [Céu Rosé](https://open.spotify.com/album/4prSTxTaqEuv7EkAtdd5MR) | 2:44 |
-| 11 | [Caos e Sal](https://open.spotify.com/track/2S3zSAStwmnXTbQkYwur7G) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Caos e Sal / Tão Bonito](https://open.spotify.com/album/77Y4xJC9iuWj6RncoNSPHD) | 2:36 |
-| 12 | [Baiana](https://open.spotify.com/track/14SO7JAN6L7Mk1ZUmabJaI) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Sobre Crianças, Quadris, Pesadelos e Lições de Casa...](https://open.spotify.com/album/77ye4kGcWBmzcLWFiSCljE) | 3:53 |
+| 11 | [Baiana](https://open.spotify.com/track/14SO7JAN6L7Mk1ZUmabJaI) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Sobre Crianças, Quadris, Pesadelos e Lições de Casa...](https://open.spotify.com/album/77ye4kGcWBmzcLWFiSCljE) | 3:53 |
+| 12 | [Caos e Sal](https://open.spotify.com/track/2S3zSAStwmnXTbQkYwur7G) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Caos e Sal / Tão Bonito](https://open.spotify.com/album/77Y4xJC9iuWj6RncoNSPHD) | 2:36 |
 | 13 | [Vem conversar](https://open.spotify.com/track/7BWj4bLH3ppKNGH9rncZWT) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [Flora \- EP](https://open.spotify.com/album/0SQlu42O4zvJbbEolJHTC3) | 2:38 |
 | 14 | [Andar Leve](https://open.spotify.com/track/5ZSGfppfIgP8aatrNTe4Lo) | [TNS](https://open.spotify.com/artist/0AjgF3N3x4PUJnZzVYEnXg), [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [Andar Leve](https://open.spotify.com/album/6YyWW3XWH2YaEHdbmAfe2P) | 2:45 |
 | 15 | [Bateu](https://open.spotify.com/track/0p6hzDZGqSC86vjGF5VhEK) | [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t), [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR), [Mulú](https://open.spotify.com/artist/4jsA7x5v8Xg3L4FGwyhGaQ) | [Bateu](https://open.spotify.com/album/4z66LMouo4tlRmuc8xKWKz) | 3:26 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Panter B\u00e9lico. The essential tracks, all in one playlist.",
-  "num_followers": 90459,
+  "num_followers": 90487,
   "original_name": "This Is Panter B\u00e9lico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRkUAAAAAADbhoiJQ/yQywV7VFI8pyiM",
+  "snapshot_id": "aRplgAAAAACmU9nec9ZcvUyBj384+JL6",
   "tracks": [
     {
       "added_at": null,
@@ -267,22 +267,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Dos de los Antrax",
-        "url": "https://open.spotify.com/album/3QREXMTqKJdqBNU0JnNgvS"
+        "name": "El Guerrillero",
+        "url": "https://open.spotify.com/album/4KvRlN28N7d8XdBah4hy7b"
       },
       "artists": [
-        {
-          "name": "Los Alegres Del Barranco",
-          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
-        },
         {
           "name": "Panter B\u00e9lico",
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 199769,
-      "name": "El Dos de los Antrax",
-      "url": "https://open.spotify.com/track/0afnj4MhXXw66wK238iUwe"
+      "duration_ms": 143263,
+      "name": "El Guerrillero",
+      "url": "https://open.spotify.com/track/4AAEYgoLtaYan4S9tk3gw5"
     },
     {
       "added_at": null,
@@ -307,18 +303,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Guerrillero",
-        "url": "https://open.spotify.com/album/4KvRlN28N7d8XdBah4hy7b"
+        "name": "El Dos de los Antrax",
+        "url": "https://open.spotify.com/album/3QREXMTqKJdqBNU0JnNgvS"
       },
       "artists": [
+        {
+          "name": "Los Alegres Del Barranco",
+          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
+        },
         {
           "name": "Panter B\u00e9lico",
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 143263,
-      "name": "El Guerrillero",
-      "url": "https://open.spotify.com/track/4AAEYgoLtaYan4S9tk3gw5"
+      "duration_ms": 199769,
+      "name": "El Dos de los Antrax",
+      "url": "https://open.spotify.com/track/0afnj4MhXXw66wK238iUwe"
     },
     {
       "added_at": null,

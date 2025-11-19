@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-872 songs - 1 day 18 hr 7 min
+874 songs - 1 day 18 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Above The Clouds](https://open.spotify.com/track/6ZQ8gvkLBKuVJoIA5ihyYz) | [Warmth of Muba](https://open.spotify.com/artist/6o0O9OTZ1InAj3eLSchXwf) | [Above The Clouds](https://open.spotify.com/album/3iRsHzs40Dn3JHe5VBVrop) | 2:17 | 2025-09-23 |  |
 | [Above Us](https://open.spotify.com/track/6bZHe7cY3zW5BQsujcbdku) | [Beloved More](https://open.spotify.com/artist/4MK9CnbT54N8i28jWYx4s8) | [Above Us](https://open.spotify.com/album/1KrLvsO5sD7EgAvjE9wxDP) | 2:58 | 2024-12-17 |  |
 | [abundance](https://open.spotify.com/track/2ql3MvEcsA946YC2Ob0sQc) | [Elvio Martín](https://open.spotify.com/artist/1rOPEkX83RQnXXOO55RJM7) | [abundance](https://open.spotify.com/album/4cjm7LC3n8iypOqeDO7yzO) | 2:44 | 2024-07-09 | 2025-01-19 |
-| [Abyss](https://open.spotify.com/track/01ROOZyL7yFfuVZsOmcxVJ) | [Liv Joy](https://open.spotify.com/artist/050mtzVtUlI66423bb1UKm) | [Abyss](https://open.spotify.com/album/5bsjxcIL5IExlkjUUT3LqN) | 2:54 | 2025-03-05 |  |
+| [Abyss](https://open.spotify.com/track/01ROOZyL7yFfuVZsOmcxVJ) | [Liv Joy](https://open.spotify.com/artist/050mtzVtUlI66423bb1UKm) | [Abyss](https://open.spotify.com/album/5bsjxcIL5IExlkjUUT3LqN) | 2:54 | 2025-03-05 | 2025-11-19 |
 | [Acknowledge](https://open.spotify.com/track/3b9FmqamhswFKthJpVEGHk) | [Latehours](https://open.spotify.com/artist/7g9Ji74yqIp0P3vKMzrXwM) | [Acknowledge](https://open.spotify.com/album/7qZbzUnRPRPSWGpgOYt2ud) | 2:59 | 2024-07-09 | 2025-06-15 |
 | [Across](https://open.spotify.com/track/03Se4kO33S5ohOqW2V9mr3) | [Matt Deep](https://open.spotify.com/artist/2MlHEEvx7sK4aeQyDnbgMm) | [Across](https://open.spotify.com/album/1rnbCqbgNfK9GmzyZIvZhl) | 2:55 | 2025-01-22 | 2025-11-07 |
 | [Ad Astra](https://open.spotify.com/track/0v7I8fgIlTNg3MSk4osm1j) | [Volta Celeste](https://open.spotify.com/artist/6dQx2H9bZ0X8UdyjkNAmNI) | [Ad Astra](https://open.spotify.com/album/1LR1BYVE2XyzNqI2YMFjsQ) | 2:38 | 2024-11-05 | 2024-12-13 |
@@ -683,6 +683,7 @@
 | [Signs In The Sky](https://open.spotify.com/track/1ayIzU9MXiMUd1MWAJP2Y7) | [Riseran](https://open.spotify.com/artist/5Nxj0jnslmO6SYW2ikO1Ho) | [Signs In The Sky](https://open.spotify.com/album/2Cq2OiOUqiw9S3epxTKrFf) | 2:39 | 2024-08-02 | 2025-09-24 |
 | [Silent Dreams](https://open.spotify.com/track/6d36syikVGb3zii0aINq15) | [Lo Cendrisse](https://open.spotify.com/artist/4owRJmjZDkUnN35Yxxsgtp) | [Silent Dreams](https://open.spotify.com/album/1by6DnIMMNX75JKbKglBgg) | 2:40 | 2025-07-01 |  |
 | [Silent Mind](https://open.spotify.com/track/7m4uTQoUTU68STmL3Y3bX9) | [Richter Gravitas](https://open.spotify.com/artist/2DLiGfmS8hciTINAkqY2XG) | [Silent Mind](https://open.spotify.com/album/184Iu1UxOAYE4ZR9xdFJ9B) | 2:10 | 2023-03-23 | 2024-05-05 |
+| [Silent Reflection](https://open.spotify.com/track/7Ge0xUbxdOv0IvgqwO30Hj) | [Seth Sands](https://open.spotify.com/artist/1EcwJ494z7gVanrsuDjNs8) | [Silent Reflection](https://open.spotify.com/album/4eV8ERThfChcNsO2ua1MQn) | 2:41 | 2025-11-12 |  |
 | [Silk Dreams](https://open.spotify.com/track/3b7oasEPdgnvPiq3JxCvMA) | [Sleepwear](https://open.spotify.com/artist/2FZAnYg9alDc7hUebvR9Ph) | [Silk Dreams](https://open.spotify.com/album/4FlPvNG5wdOTzs0sxUPloK) | 3:08 | 2025-01-22 |  |
 | [Silken Shades](https://open.spotify.com/track/3gaKlnfQPnP5vyCmYmmeWv) | [Spatia Sonica](https://open.spotify.com/artist/52CWUxOpQe9GHy9aCN0Irk) | [Silken Shades](https://open.spotify.com/album/2T6xVMu4W1Qwy3tDYIhiJX) | 3:00 | 2024-05-20 | 2025-10-03 |
 | [Silver Lining](https://open.spotify.com/track/3Eb5LRtd8qIpq4CP5a3Pt7) | [Sleepy Jay](https://open.spotify.com/artist/4C0u713lpHyNuwztM1NZZY) | [Silver Lining](https://open.spotify.com/album/3Vi7QZP8evfJuHpsQFvQpE) | 3:06 | 2024-02-08 | 2025-02-18 |
@@ -810,6 +811,7 @@
 | [Tomorrow](https://open.spotify.com/track/4gf8ak0NXmpNdywwNHTdOO) | [Gabby Laurent](https://open.spotify.com/artist/7cAeiCQXUfj7orfW6pkemk) | [Tomorrow](https://open.spotify.com/album/5XpHFAttu9ZYiC0SUvdWG2) | 3:07 | 2025-09-23 |  |
 | [Touches](https://open.spotify.com/track/6KzdWw8Hi1bz1lVw2AXDzb) | [Somnum Magnam](https://open.spotify.com/artist/5onmIZ1MD3z0KeVQ1gd5IP) | [Touches](https://open.spotify.com/album/0gr42nFesHmvHP2rihBldP) | 2:24 | 2024-02-08 | 2024-07-16 |
 | [Tout Autour De Nous](https://open.spotify.com/track/0qAFa5xFjEyky6mCW2WTXT) | [Iris Guilbert](https://open.spotify.com/artist/6YR85wKc8XLYVhRaFA2ql8) | [Tout Autour De Nous](https://open.spotify.com/album/0dJGlhXqFX9sftgM17o2Xh) | 3:08 | 2023-03-23 | 2024-03-21 |
+| [Tranquess Aura](https://open.spotify.com/track/3TDLjKbsDIK2LEwkXLanjy) | [Diphthong](https://open.spotify.com/artist/6rFQdN2p2yfZ9rk88nKYTY) | [Tranquess Aura](https://open.spotify.com/album/4gZekvtxzT1qkYhI7NTyrf) | 2:36 | 2025-11-12 |  |
 | [Tranquil Tides](https://open.spotify.com/track/1xPIxuVVQPLsgIsLdnyMVa) | [Kimelén Millán](https://open.spotify.com/artist/2CQGzEtHPtZbUvaMGZupQK) | [Tranquil Tides](https://open.spotify.com/album/0mtTouu7QDJosgzXo9nvFg) | 2:57 | 2024-05-04 | 2025-02-07 |
 | [Tranquility](https://open.spotify.com/track/5ZVmS3L1zuMHJ6SsAsZe2X) | [Úrkoma](https://open.spotify.com/artist/4XWAQN3T2e2rNDlcDO0lhS) | [Tranquility](https://open.spotify.com/album/1EbCXvbGVR1ZhK3viDyNdh) | 3:38 | 2023-03-23 | 2024-02-09 |
 | [Tranquilizar el Ser](https://open.spotify.com/track/3HMptEvLblLn7DbyRVaCLw) | [Slower Lover](https://open.spotify.com/artist/77gg1JUo3GX5h3JKWKZKeF), [Stilly Night](https://open.spotify.com/artist/6QIztxy4eQlPJxZGq0YS0z), [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [Tranquilizar el Ser](https://open.spotify.com/album/6ZhrQdoRXpHnIapIxFfh5O) | 2:07 | 2024-03-06 | 2024-06-21 |
@@ -819,7 +821,7 @@
 | [Translucide](https://open.spotify.com/track/4oiNgs95r4lBrC3la1D6XF) | [Ethereal Nocturne](https://open.spotify.com/artist/25nulPweeZpoA1zyu4wASV) | [Translucide](https://open.spotify.com/album/2qpO9vQKsdwGP8fcdmxzS1) | 2:33 | 2024-12-03 | 2025-01-26 |
 | [Transmute](https://open.spotify.com/track/6aUqIwsjJuIfgkltHN23lJ) | [Nahla Cline](https://open.spotify.com/artist/5Q5kLyyxBItFbzCvwWkla1) | [Transmute](https://open.spotify.com/album/6DlNcY8tGlAycwR6dayZTK) | 2:48 | 2024-01-17 | 2024-08-06 |
 | [Traumlandschaft](https://open.spotify.com/track/0KOenusM2ayoQfGrhBf5Q9) | [Kaiser Hulenstadt](https://open.spotify.com/artist/1oFe0IcP3ZDv5MK0sbq8tS) | [Traumlandschaft](https://open.spotify.com/album/1iT68T2iKzYilM8pEhy0uP) | 3:19 | 2023-03-23 | 2024-02-09 |
-| [Traveler](https://open.spotify.com/track/0dpjQsA1zp4D3iE6aF4ifs) | [Terra Sova](https://open.spotify.com/artist/0aiodGnSY2QsVIrzGsS0QA) | [Traveler](https://open.spotify.com/album/0WxxmfLBO41thurvGXy0wS) | 2:21 | 2025-11-12 |  |
+| [Traveler](https://open.spotify.com/track/0dpjQsA1zp4D3iE6aF4ifs) | [Terra Sova](https://open.spotify.com/artist/0aiodGnSY2QsVIrzGsS0QA) | [Traveler](https://open.spotify.com/album/0WxxmfLBO41thurvGXy0wS) | 2:21 | 2025-11-12 | 2025-11-19 |
 | [Turndown Service](https://open.spotify.com/track/56y8h73SZXnIzR0fGSQlca) | [Adeline Verver](https://open.spotify.com/artist/7i31XXbPM6vD4MDc5RlR7A) | [Turndown Service](https://open.spotify.com/album/1b9QKWx1CGfZ610vf6GHnj) | 1:55 | 2023-03-23 | 2023-07-29 |
 | [Twine](https://open.spotify.com/track/6wjnlFiyEN25XVYCUsR2TU) | [Moontonic](https://open.spotify.com/artist/2aQ11bG4kZ5Tf45FpsvrwO) | [Twine](https://open.spotify.com/album/6P86gHi3Y3lmIOCnaN7xMX) | 3:05 | 2024-05-20 | 2025-02-13 |
 | [Twinkle](https://open.spotify.com/track/2ycdMVR5v21EEkfm08U9Of) | [Månvarv](https://open.spotify.com/artist/3npr0emNGSWh2iyRvzEiRI) | [Twinkle](https://open.spotify.com/album/2RpPkM7oYQ2Zt0TEW7Hs1W) | 2:33 | 2024-01-17 | 2024-06-19 |

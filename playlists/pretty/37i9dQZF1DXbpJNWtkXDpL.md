@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 
 > Descubre el futuro de las escenas en México en compañía de Malcriada
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,269 likes - 75 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,268 likes - 75 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,9 +77,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 67 | [Pepper](https://open.spotify.com/track/6ZSjGWn7C6Xw1dRHlNLsCP) | [Galvancillo](https://open.spotify.com/artist/1CoKmNxIr7haxlqBCzVnMV) | [Pepper](https://open.spotify.com/album/5ZUAHLGYZheB9ope87iNmm) | 3:22 |
 | 68 | [Sticky](https://open.spotify.com/track/7w5URvpnvMCDZo7z3wOPrZ) | [La Favi](https://open.spotify.com/artist/5lnsY88L4HEVxNUMCefego), [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd), [MONVCO](https://open.spotify.com/artist/1rGlHeD5HzcjBJiW7kq7ZJ), [KALIFRN](https://open.spotify.com/artist/5Kj0ySkgBEbDp0Xk3Qwl5n) | [Sticky](https://open.spotify.com/album/2YqknpnTeKNkJUJqK8w098) | 2:38 |
 | 69 | [Cuándo Tú Me Tocas](https://open.spotify.com/track/30TTf4yeMehLBTHNPIIu4m) | [Las Prez](https://open.spotify.com/artist/5059qZwA16CgTTFxWTF4Tl), [Just Roger](https://open.spotify.com/artist/3kCpQU5gVbYXISDOtlkIv0) | [Cuándo Tú Me Tocas](https://open.spotify.com/album/51gf6U4IMv23H5p3TYRM1M) | 2:28 |
-| 70 | [Rinconcito en el Cielo](https://open.spotify.com/track/0W3gf3txFJ6i5pzAzBVHVc) | [Soyiby](https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn) | [Rinconcito en el Cielo](https://open.spotify.com/album/6Lg4611g3RNYjn8oe9zcsL) | 3:42 |
-| 71 | [Hesitated](https://open.spotify.com/track/1fnuYWqNsBCiESuFshooZP) | [Jack Rabbit](https://open.spotify.com/artist/2jL9dVkE0xmhsIn0QsNvIp) | [Hesitated](https://open.spotify.com/album/5ywgK5eO82SBdjksTyMobp) | 2:40 |
-| 72 | [ILÓGICO](https://open.spotify.com/track/2ain46lL2sjUK5n2Ga0tdv) | [Luis Figueroa](https://open.spotify.com/artist/7fDr7tMkSGgH1KZCCybxzf) | [ILÓGICO](https://open.spotify.com/album/5hheRnvNp16dtTEJKgNg7E) | 3:03 |
+| 70 | [Hesitated](https://open.spotify.com/track/1fnuYWqNsBCiESuFshooZP) | [Jack Rabbit](https://open.spotify.com/artist/2jL9dVkE0xmhsIn0QsNvIp) | [Hesitated](https://open.spotify.com/album/5ywgK5eO82SBdjksTyMobp) | 2:40 |
+| 71 | [ILÓGICO](https://open.spotify.com/track/2ain46lL2sjUK5n2Ga0tdv) | [Luis Figueroa](https://open.spotify.com/artist/7fDr7tMkSGgH1KZCCybxzf) | [ILÓGICO](https://open.spotify.com/album/5hheRnvNp16dtTEJKgNg7E) | 3:03 |
+| 72 | [Rinconcito en el Cielo](https://open.spotify.com/track/0W3gf3txFJ6i5pzAzBVHVc) | [Soyiby](https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn) | [Rinconcito en el Cielo](https://open.spotify.com/album/6Lg4611g3RNYjn8oe9zcsL) | 3:42 |
 | 73 | [Al Infinito y Más Allá](https://open.spotify.com/track/3itJh3lyzrgusEw6IWcyvx) | [La Cuadrilla Oficial](https://open.spotify.com/artist/7dGKr4Wpnd2RP4Tas8aGfI) | [Al Infinito y Más Allá](https://open.spotify.com/album/0Ojdj5QNpitRcKJrahEtBZ) | 2:22 |
 | 74 | [Colibrí](https://open.spotify.com/track/0FQrn8ItavKqvvjGodzMHa) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Colibrí](https://open.spotify.com/album/7A05hfSc8V8dCptrSoOiKI) | 3:14 |
 | 75 | [Ya no queda nada nada](https://open.spotify.com/track/40I8URgHCw8FLR7Ruw6dy0) | [Maria Nastenka](https://open.spotify.com/artist/3lBHS637GuNHZBVR3GIv1t) | [Ya no queda nada nada](https://open.spotify.com/album/1TdeqMkRrs3bVX4FHaOZK6) | 3:55 |

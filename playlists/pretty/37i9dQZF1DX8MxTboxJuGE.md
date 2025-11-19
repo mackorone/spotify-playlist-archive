@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MxTboxJuGE.md) - [plain]
 
 > Os monstros e as novas caras do Metal nacional e internacional! Foto: Nightwish
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,562 likes - 75 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,567 likes - 75 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MxTboxJuGE.md) - [plain]
 | 2 | [Tipping Point](https://open.spotify.com/track/6jhxeGvYuGY6KHHmUDj8Sv) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Tipping Point](https://open.spotify.com/album/09fWUtFj5UY5gEJapwj0xa) | 4:28 |
 | 3 | [The Writing on the Wall](https://open.spotify.com/track/4a66HnjRw3kBeQnIGcc8v9) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [The Writing on the Wall](https://open.spotify.com/album/1YnwDXwv54rOtLwzzGVZ9N) | 6:13 |
 | 4 | [The Gallows](https://open.spotify.com/track/6lF3rwnMFBlbZeCWwZTWoS) | [Black Label Society](https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5) | [The Gallows](https://open.spotify.com/album/2OanGtG5sW8esAhY25EMoH) | 3:50 |
-| 5 | [Roots Bloody Roots \(Live\) \(2022 \- Remaster\)](https://open.spotify.com/track/4UGW0qtMaMHUM9YJGvL5IB) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Live in São Paulo \(2022 \- Remaster\)](https://open.spotify.com/album/5CWd1H6Wzku5pBygRnjkV8) | 4:34 |
+| 5 | [Roots Bloody Roots \- Live \- 2022 Remaster](https://open.spotify.com/track/4UGW0qtMaMHUM9YJGvL5IB) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Live in São Paulo \(2022 Remaster\)](https://open.spotify.com/album/5CWd1H6Wzku5pBygRnjkV8) | 4:34 |
 | 6 | [Serpent Messiah](https://open.spotify.com/track/1jFTIXwJJkZCV1h4EYVBsb) | [Krisiun](https://open.spotify.com/artist/3pzAW9xs16rX8fukH8wV6N) | [Serpent Messiah](https://open.spotify.com/album/3dVbvhK6esUysE2aNih19b) | 4:37 |
 | 7 | [If Darkness Had a Son](https://open.spotify.com/track/1DrRFignz0xbQBSlBQrJL9) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [If Darkness Had a Son](https://open.spotify.com/album/4InfBU6v65fzQM6vpSdDJf) | 6:36 |
 | 8 | [O Tempo Não Para](https://open.spotify.com/track/0makTIleiItaT4oD2ffTYd) | [Noturnall](https://open.spotify.com/artist/7xRCuSBEiVCIJWCSIYQ7Ni), [Ney Matogrosso](https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn) | [O Tempo Não Para](https://open.spotify.com/album/0Uztu45QjI0TtZcOJxIrPE) | 4:35 |

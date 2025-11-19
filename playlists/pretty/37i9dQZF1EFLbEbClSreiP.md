@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLbEbClSreiP.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/78m3qQF3Q7KRGIsXzQkREU">Ines Dunn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 737 likes - 30 songs - 1 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 736 likes - 30 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [House On Fire](https://open.spotify.com/track/0Le4FRrPfbFzpyy8SsaCLf) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Amelia](https://open.spotify.com/album/0tqx2yq6GywrCBUMSfev3D) | 2:19 |
-| 2 | [No Bad Vibes](https://open.spotify.com/track/0dgdDB39uUoC8WICmTE2U8) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [KILIMANJARO](https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7) | [No Bad Vibes](https://open.spotify.com/album/0fniUtJNAYz6eSOE9HJe32) | 2:42 |
+| 1 | [No Bad Vibes](https://open.spotify.com/track/0dgdDB39uUoC8WICmTE2U8) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [KILIMANJARO](https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7) | [No Bad Vibes](https://open.spotify.com/album/0fniUtJNAYz6eSOE9HJe32) | 2:42 |
+| 2 | [House On Fire](https://open.spotify.com/track/0Le4FRrPfbFzpyy8SsaCLf) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Amelia](https://open.spotify.com/album/0tqx2yq6GywrCBUMSfev3D) | 2:19 |
 | 3 | [Walk](https://open.spotify.com/track/6tHISnh1biy5luSS9cvaNc) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Foot In Front Of The Other](https://open.spotify.com/album/6CR4ozv4yOdaA3f6PPQepA) | 2:32 |
 | 4 | [Not Another Rockstar](https://open.spotify.com/track/43pulC9QdGwabXUtVHYnjY) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Not Another Rockstar](https://open.spotify.com/album/1kiowmIzvFyO1hXi1Wyqkn) | 2:29 |
 | 5 | [Freezing](https://open.spotify.com/track/7reh67rES37v1n9grDX6HO) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Amelia](https://open.spotify.com/album/0tqx2yq6GywrCBUMSfev3D) | 2:56 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLbEbClSreiP.md) - [plain]
 | 29 | [1+1](https://open.spotify.com/track/3shioGmz53I8xsFJsOeoXg) | [Just Jayne](https://open.spotify.com/artist/1ru5TgKifGAHTGB5mr4OxE) | [1+1](https://open.spotify.com/album/0ceOSqT51dibFsdXpQ492x) | 2:35 |
 | 30 | [ASK HOW I AM \(feat\. Jo’s Boyfriend\)](https://open.spotify.com/track/3DOH4dZTZbluriBGx42OwT) | [Jo Hill](https://open.spotify.com/artist/1AbLfK2cwcwDcmiqyHQVF8), [Jo’s Boyfriend](https://open.spotify.com/artist/2IuJdsDiwAHANMu3St7dFC) | [Down at The Res](https://open.spotify.com/album/2vGN8iGA2kWBSkqve6Cmk7) | 3:01 |
 
-Snapshot ID: `AcB3HAAAAAB9N3kjacS2aRP27v2zzN5L`
+Snapshot ID: `AcB8qAAAAAA/+d4SUAx1TizMj2JfXjM1`

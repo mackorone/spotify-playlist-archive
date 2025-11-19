@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con Rawayana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 748,015 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 747,997 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 6 | [Pinta Bonito](https://open.spotify.com/track/6j98s4dlTDuUl8tMy8BUZ7) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df) | [Pinta Bonito](https://open.spotify.com/album/3tRAsO7rFrSh6uDYFl1uiJ) | 3:36 |
 | 7 | [Nobody New](https://open.spotify.com/track/4pwJ6OujVQL3IpCr8KeXIg) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Back To Me](https://open.spotify.com/album/3y8LtE30zPfQ4sXYRKvt2e) | 3:35 |
 | 8 | [VETIVER Y AMARETTO](https://open.spotify.com/track/19HWG52zjo54p7naO3SQlf) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [VETIVER Y AMARETTO](https://open.spotify.com/album/5UBa39i3hSE6VIgGijeWvs) | 4:02 |
-| 9 | [EL DÍA DEL AMIGO](https://open.spotify.com/track/74eICpWmMuVmBtaOr3YqPN) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf), [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [PAPOTA](https://open.spotify.com/album/1NDJk94691Vydq1IrIeGC0) | 2:50 |
+| 9 | [EL DÍA DEL AMIGO](https://open.spotify.com/track/74eICpWmMuVmBtaOr3YqPN) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX) | [PAPOTA](https://open.spotify.com/album/1NDJk94691Vydq1IrIeGC0) | 2:50 |
 | 10 | [bandOlerO](https://open.spotify.com/track/6fzvTjGv5I65Waaam5UTVv) | [Oliver Berg](https://open.spotify.com/artist/7jJ4OfX2RBNl7dK4MG5JZv) | [bandOlerO](https://open.spotify.com/album/4ci6a270otpgbQ0J1sWGi9) | 3:16 |
 | 11 | [easy](https://open.spotify.com/track/7J2CMvoaigQxVVRE6a1bOF) | [RIZA](https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1) | [easy](https://open.spotify.com/album/2ZWMTsczHijfCRhQeWvANu) | 3:41 |
 | 12 | [neo roneo](https://open.spotify.com/track/7zoVtzzASRtacCvgQKLFaS) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [neo roneo](https://open.spotify.com/album/23ieEAZkDq0jew4MZmb9zT) | 2:46 |
@@ -95,13 +95,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 85 | [PRISIONERO PERFECTO](https://open.spotify.com/track/6zqbssgW1Sz2eHwYN258DE) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [PRISIONERO PERFECTO](https://open.spotify.com/album/1iZUvTbyBqeHSX1L7X2rBf) | 3:24 |
 | 86 | [Lucero](https://open.spotify.com/track/0PZEQTuukLN5d5VhFOXML5) | [Vicente Cifuentes](https://open.spotify.com/artist/3b06h05NjiPizwnTeGybfG) | [Lucero](https://open.spotify.com/album/3S8BSzmo1AQcShRuxJgN6A) | 3:46 |
 | 87 | [DE NOTA EN NOTA](https://open.spotify.com/track/6zrY9YRsHZLtL4C1VSTnFt) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF), [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [DE NOTA EN NOTA](https://open.spotify.com/album/72aeyywHPQEBxaoWhrTnw5) | 3:32 |
-| 88 | [Si Es Verdad](https://open.spotify.com/track/64FLKmzgsDYXIj0S37de7W) | [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r) | [Si Es Verdad](https://open.spotify.com/album/4PmJkc7tLBzrQt2dBfdWHr) | 2:49 |
-| 89 | [Vida Nueva](https://open.spotify.com/track/6VAJbelG3O5XqnCx1t70wK) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Vida Nueva](https://open.spotify.com/album/5HKyL3VlVJtLVrZrbR6Rxp) | 2:49 |
-| 90 | [Baby](https://open.spotify.com/track/44o4tDW0hGnrNOM180kM6K) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [Ring Ring](https://open.spotify.com/album/0LiTyKtFq29DDgZ1zvMI4j) | 3:42 |
+| 88 | [Vida Nueva](https://open.spotify.com/track/6VAJbelG3O5XqnCx1t70wK) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Vida Nueva](https://open.spotify.com/album/5HKyL3VlVJtLVrZrbR6Rxp) | 2:49 |
+| 89 | [Baby](https://open.spotify.com/track/44o4tDW0hGnrNOM180kM6K) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [Ring Ring](https://open.spotify.com/album/0LiTyKtFq29DDgZ1zvMI4j) | 3:42 |
+| 90 | [Si Es Verdad](https://open.spotify.com/track/64FLKmzgsDYXIj0S37de7W) | [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r) | [Si Es Verdad](https://open.spotify.com/album/4PmJkc7tLBzrQt2dBfdWHr) | 2:49 |
 | 91 | [Durmiendo](https://open.spotify.com/track/4owkQ4569f24b5CmVdr3jt) | [Chuwi](https://open.spotify.com/artist/6wF1Cz760dpdbX9RJIDpQW) | [Tierra](https://open.spotify.com/album/32J5NblDzVXpvTMuEFtyUA) | 3:24 |
 | 92 | [Q.I.S \- feat\. maye](https://open.spotify.com/track/5HRtkyn2GNDz5DD4BfEjnt) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC), [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Q.I.S](https://open.spotify.com/album/6bTKewCMHer6xH1SGu1CzH) | 3:43 |
-| 93 | [Y Yo Que Pensaba](https://open.spotify.com/track/17mylzsL9LodcuVLakNWcQ) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [TANTO POR HACER](https://open.spotify.com/album/4KfthNRkwx8Hs3ohaKnrh4) | 3:12 |
-| 94 | [EL OTRO TÚ](https://open.spotify.com/track/29xOGMmFT7vsDpmsmMvcmT) | [Sam Eli](https://open.spotify.com/artist/5aCYTJsL6VosOwnCkxYRaG) | [EL OTRO TÚ](https://open.spotify.com/album/6o2mMA8R9374vi2KVc3DPl) | 2:52 |
+| 93 | [EL OTRO TÚ](https://open.spotify.com/track/29xOGMmFT7vsDpmsmMvcmT) | [Sam Eli](https://open.spotify.com/artist/5aCYTJsL6VosOwnCkxYRaG) | [EL OTRO TÚ](https://open.spotify.com/album/6o2mMA8R9374vi2KVc3DPl) | 2:52 |
+| 94 | [Y Yo Que Pensaba](https://open.spotify.com/track/17mylzsL9LodcuVLakNWcQ) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [TANTO POR HACER](https://open.spotify.com/album/4KfthNRkwx8Hs3ohaKnrh4) | 3:12 |
 | 95 | [La Espiral](https://open.spotify.com/track/7iZDzYOsICnDgAIY4wTlxf) | [Teo Planell](https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4) | [Demian](https://open.spotify.com/album/6FRwKu5JqXnUCQRcbfENI8) | 4:30 |
 | 96 | [CONFUNDIDO](https://open.spotify.com/track/5235QfuvV4YSSuWQLxiXaD) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [nelick](https://open.spotify.com/artist/2W2NUrosOnwAI1hZIVbwit) | [SUKHA](https://open.spotify.com/album/1Xvw59wO0nV2rDMyJKaPUk) | 3:07 |
 | 97 | [Only A Dream](https://open.spotify.com/track/28Z2OxIisSLEPQqpPwOXRU) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Only A Dream](https://open.spotify.com/album/5dcXpnLc2tOZCIgUBsMHMu) | 4:01 |

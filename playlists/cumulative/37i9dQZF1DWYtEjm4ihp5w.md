@@ -4,7 +4,7 @@
 
 > Cover: Stormy
 
-451 songs - 23 hr 43 min
+452 songs - 23 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,7 @@
 | [Fly Emirates](https://open.spotify.com/track/3s6Z9HLFA5qrvIgYLEja91) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Fly Emirates](https://open.spotify.com/album/2Iph0X1zEA3L641k2M9ZXM) | 3:08 | 2023-06-13 | 2023-07-12 |
 | [FORSSA](https://open.spotify.com/track/4ERqimtfCADVUI256ishDr) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [FORSSA](https://open.spotify.com/album/3qTos6o4f2HQNRMaGR8a8x) | 3:17 | 2022-11-14 | 2023-07-21 |
 | [FOUTINI](https://open.spotify.com/track/5w7eAmcnRKFo1SwYAcpdHg) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [FOUTINI](https://open.spotify.com/album/1LxzhmDjWplTu82txhjpo8) | 3:59 | 2024-01-03 | 2024-07-13 |
-| [Foutouna](https://open.spotify.com/track/5nkqQt3ZNijIERz0UiYuiR) | [ViraCocha](https://open.spotify.com/artist/3mBAoEIAN6UdI3VMA1rltv), [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [DOUBLE HELIX](https://open.spotify.com/album/0pv4JA1mFwmxTUs9gELT3u) | 2:43 | 2025-09-29 |  |
+| [Foutouna](https://open.spotify.com/track/5nkqQt3ZNijIERz0UiYuiR) | [ViraCocha](https://open.spotify.com/artist/3mBAoEIAN6UdI3VMA1rltv), [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [DOUBLE HELIX](https://open.spotify.com/album/0pv4JA1mFwmxTUs9gELT3u) | 2:43 | 2025-09-29 | 2025-11-19 |
 | [Free Mami](https://open.spotify.com/track/3Ibieq8gwYw4pOTlP0NkJN) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn), [NAB FAKE](https://open.spotify.com/artist/1N1FqJgyKjGa8vK7zTt24L) | [Free Mami](https://open.spotify.com/album/41ObiBc5qr2G0WGgxSIo2k) | 4:00 | 2023-08-30 | 2024-06-19 |
 | [FTA](https://open.spotify.com/track/30zD5oO4RYcytTUZxjOdW3) | [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk), [Mixtape Madness](https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9) | [FTA](https://open.spotify.com/album/1u5Bd87EVRAabhPh4IkhnO) | 3:16 | 2023-05-27 | 2023-12-16 |
 | [Fundo](https://open.spotify.com/track/3UFAzSF6xdDsX8uMbQXq0E) | [Clemando](https://open.spotify.com/artist/2DosD7ocz68w23IdxfmtL3), [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [Fundo](https://open.spotify.com/album/0y5YNIoy8QZ3igG8A06VCI) | 3:41 | 2025-07-14 |  |
@@ -310,6 +310,7 @@
 | [Passé simple](https://open.spotify.com/track/3QY4sVs362wtj80Q5eyWWQ) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [L'MORPHINE](https://open.spotify.com/album/4uOkyB9V8LUsqQz4FP6pdq) | 3:29 | 2024-10-09 | 2024-10-31 |
 | [Pepete](https://open.spotify.com/track/2vVX6SI8eLIk5ycRk1rCTR) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Lmektoub](https://open.spotify.com/album/3CUlhsVaLVsAnUyuUDl3IB) | 2:45 | 2023-07-11 | 2024-01-14 |
 | [Pharmacie 2](https://open.spotify.com/track/3oeS7Fx2DMathnP2qSztJi) | [21 Tach](https://open.spotify.com/artist/728dZrvljhCFhPJZvsEtDc) | [Pharmacie 2](https://open.spotify.com/album/66C2VxOUAuM5ldmVPPGAvh) | 3:40 | 2023-12-15 | 2024-01-24 |
+| [Pharmacie 3](https://open.spotify.com/track/5l398epBtEEatlLi3DF969) | [21 Tach](https://open.spotify.com/artist/728dZrvljhCFhPJZvsEtDc) | [Pharmacie 3](https://open.spotify.com/album/05sne0xIdcXfyumATRNZZP) | 2:42 | 2025-11-18 |  |
 | [PHENOMENAL](https://open.spotify.com/track/5IZCHvhMEmurDfbQ6NqaKA) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [PHENOMENAL](https://open.spotify.com/album/3r3AokuvjoimEMWYrHRnnO) | 3:16 | 2024-12-05 | 2025-07-07 |
 | [Piola](https://open.spotify.com/track/1GekDYBKy3TqF5vCB327yW) | [ONZY](https://open.spotify.com/artist/5e5ng4yqjWiz08kIGBQqGD) | [Piola](https://open.spotify.com/album/5QXw3kjegiNMALyarSZC8Q) | 2:57 | 2025-01-03 | 2025-01-28 |
 | [PIRATE](https://open.spotify.com/track/7L6iM8mnj0t2WW0Fjre5pG) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [OMEGA](https://open.spotify.com/album/2WOuni1EwCyGVYIeN0LXXt) | 2:59 | 2025-01-09 |  |

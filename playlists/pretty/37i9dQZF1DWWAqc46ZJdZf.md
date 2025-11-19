@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAqc46ZJdZf.md) - [plain]
 
 > New era songs of empowerment and pride.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,113 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,141 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAqc46ZJdZf.md) - [plain]
 | 33 | [Shades Of Blue](https://open.spotify.com/track/1TpeT2PWnAv9NDbqK1qy6J) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [There's Alot Going On](https://open.spotify.com/album/5ebtbHmQ7WZpgKtH8ir14W) | 4:46 |
 | 34 | [Black Girl Magik](https://open.spotify.com/track/0HySqY4mqaAlWhRcMDak80) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Nicole Gumbe](https://open.spotify.com/artist/2copAhE8UwBfOiTskZs3eE) | [Birds And The BEE9](https://open.spotify.com/album/2fKFzdbq2J1OrCrae8Xd2O) | 3:41 |
 | 35 | [Be Free](https://open.spotify.com/track/2EaLdet3BlhjWesZUHU7Cr) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Be Free](https://open.spotify.com/album/3ZnKEtc2g2JJaeXeRCJhy3) | 4:01 |
-| 36 | [Freedom](https://open.spotify.com/track/6RB9YvNyP0RZfCUcMtZELH) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Freedom](https://open.spotify.com/album/3Aw8a13WJi24hkjRRtMp9n) | 2:42 |
+| 36 | [Freedom](https://open.spotify.com/track/6RB9YvNyP0RZfCUcMtZELH) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Freedom](https://open.spotify.com/album/3Aw8a13WJi24hkjRRtMp9n) | 2:43 |
 | 37 | [Say Her Name \(Hell You Talmbout\)](https://open.spotify.com/track/6ojXPuvXFL68e5FFyWbEC1) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Say Her Name \(Hell You Talmbout\)](https://open.spotify.com/album/0UFTfooXMHcGSU2UxKJYio) | 17:42 |
 | 38 | [The Blacker The Berry](https://open.spotify.com/track/5Mtt6tZSZA9cXTHGSGpyh0) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [To Pimp A Butterfly](https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP) | 5:28 |
 | 39 | [Black \(feat\. A$AP Ferg\)](https://open.spotify.com/track/5MYtu5scs1iz02AVLPLKJc) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Harlan & Alondra](https://open.spotify.com/album/5djciKtjqkY9ZQ1OhKICXN) | 3:52 |

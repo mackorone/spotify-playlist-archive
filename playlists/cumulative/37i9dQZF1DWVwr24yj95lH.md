@@ -4,7 +4,7 @@
 
 > The best Grunge heirs' songs\. Cover: Creed
 
-169 songs - 11 hr 35 min
+170 songs - 11 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Higher](https://open.spotify.com/track/1ZozJfi8u9cO2Ob8KwiwNT) | [Creed](https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz) | [Human Clay](https://open.spotify.com/album/3Nyjm9NBEdiaiWr2BEaV46) | 5:16 | 2022-06-28 | 2024-04-19 |
 | [Higher](https://open.spotify.com/track/0x6gCEDWLyelx0c7CZsok8) | [Creed](https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz) | [Rockklassiker](https://open.spotify.com/album/59zwBnqd0o84TIWPqOovrO) | 5:26 | 2022-11-04 | 2022-11-13 |
 | [Higher](https://open.spotify.com/track/1e5grnGb7YIcX9EuJM1mtB) | [Creed](https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz) | [Greatest Hits](https://open.spotify.com/album/4btSrwp3BOMRmxKwUhbS0Z) | 5:26 | 2021-11-25 |  |
+| [Hollow](https://open.spotify.com/track/4fwqAO7Sq7jSCWeliHadVf) | [Submersed](https://open.spotify.com/artist/0539gq2LM2VDs01rp8gnGz) | [In Due Time](https://open.spotify.com/album/2kg7OYu7fN3clQtAzFEh1L) | 4:04 | 2024-07-02 |  |
 | [How You Remind Me](https://open.spotify.com/track/0gmbgwZ8iqyMPmXefof8Yf) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Silver Side Up](https://open.spotify.com/album/5fKL7vMTXvhR9tov8Kqt3u) | 3:43 | 2022-06-28 |  |
 | [I Hate Everything About You](https://open.spotify.com/track/6rUp7v3l8yC4TKxAAR5Bmx) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Three Days Grace \(Expanded Edition\)](https://open.spotify.com/album/38pfSOHvxHqDWwDnjZ25U5) | 3:51 | 2021-11-25 |  |
 | [I Will Buy You A New Life](https://open.spotify.com/track/2fhfoZqqTJ8jo4HvWseNfM) | [Everclear](https://open.spotify.com/artist/694QW15WkebjcrWgQHzRYF) | [So Much For The Afterglow](https://open.spotify.com/album/7xk1Tl6UZ8OALZkFEagPsM) | 3:58 | 2021-11-25 |  |
@@ -162,7 +163,7 @@
 | [Trippin' on a Hole in a Paper Heart](https://open.spotify.com/track/2gdtLnVGGg80Kj9GiqP0vH) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Tiny Music...Songs from the Vatican Gift Shop](https://open.spotify.com/album/2JJEIN6LvQJQTJDfnYdDAe) | 2:55 | 2021-11-25 |  |
 | [Vitamin R \(Leading Us Along\)](https://open.spotify.com/track/04NGX0b5Tgs7VsErfn5OA1) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [This Type Of Thinking \(Could Do Us In\)](https://open.spotify.com/album/3zuIMH8P0GKtV5LR6zwGLB) | 3:43 | 2021-11-25 |  |
 | [Wasteland](https://open.spotify.com/track/3pO37BXsjMC2wApALxGbuB) | [10 Years](https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph) | [The Autumn Effect](https://open.spotify.com/album/1VlMcoG1aI4E4kBIVoH5cp) | 3:49 | 2022-06-28 | 2024-04-19 |
-| [Wasteland](https://open.spotify.com/track/0nTiC2fGkM4q8bGlBKGrGx) | [10 Years](https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph) | [The Autumn Effect](https://open.spotify.com/album/44IoacfwUkvviGnihTUv1X) | 3:49 | 2021-11-25 |  |
+| [Wasteland](https://open.spotify.com/track/0nTiC2fGkM4q8bGlBKGrGx) | [10 Years](https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph) | [The Autumn Effect](https://open.spotify.com/album/44IoacfwUkvviGnihTUv1X) | 3:49 | 2021-11-25 | 2025-11-19 |
 | [Wasting My Time](https://open.spotify.com/track/3nlT74t8h4XlV1D72pErhj) | [Default](https://open.spotify.com/artist/4nCzT3o7lMgCWBcmdwCMsT) | [The Fallout](https://open.spotify.com/album/4PU32EhEtbuqvCmOfR5OMz) | 4:28 | 2021-11-25 | 2022-07-29 |
 | [Wasting My Time](https://open.spotify.com/track/5dpAN1mjFPL38kh9kWsCiw) | [Default](https://open.spotify.com/artist/4nCzT3o7lMgCWBcmdwCMsT) | [The Fallout \(Limited Edition\)](https://open.spotify.com/album/7IUXXDlKqqLRkJLXrrhXCo) | 4:29 | 2022-06-28 | 2024-04-19 |
 | [Watch Over You](https://open.spotify.com/track/7kxfWvj6u9oWQ5C36kMtGb) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [Blackbird](https://open.spotify.com/album/21lOBQT94kjWSiYQbpm3RG) | 4:19 | 2022-06-28 | 2024-04-19 |

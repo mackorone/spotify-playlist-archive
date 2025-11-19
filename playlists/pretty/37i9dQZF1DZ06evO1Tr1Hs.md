@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Tr1Hs.md) - [plain]
 
 > This is Ken Carson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,592 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,620 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [catastrophe](https://open.spotify.com/track/7LLIyWvrVCoOW35WqG9Jx7) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [catastrophe](https://open.spotify.com/album/1JZmYxLAjD3XgMFnhuiPPd) | 2:10 |
-| 2 | [yes](https://open.spotify.com/track/0AsznzqG4tJ0qnrWBZHrJO) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [yes](https://open.spotify.com/album/7IKQ2LS9mqFhGMB1M0IJrt) | 2:54 |
-| 3 | [ss](https://open.spotify.com/track/26QJuQfM8PVAWkIm1JRyqq) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos \(Deluxe\)](https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL) | 3:04 |
+| 2 | [ss](https://open.spotify.com/track/26QJuQfM8PVAWkIm1JRyqq) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos \(Deluxe\)](https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL) | 3:04 |
+| 3 | [yes](https://open.spotify.com/track/0AsznzqG4tJ0qnrWBZHrJO) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [yes](https://open.spotify.com/album/7IKQ2LS9mqFhGMB1M0IJrt) | 2:54 |
 | 4 | [Yale](https://open.spotify.com/track/0HTIrbUwwFn984RzVZm5Fk) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Teen X](https://open.spotify.com/album/33afeafKvnHqT7p2lYgdhd) | 1:46 |
 | 5 | [margiela](https://open.spotify.com/track/0RJaSzzb7t8kaEb5LzPFJC) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [margiela](https://open.spotify.com/album/6lCILy46F44uFdrHCunZss) | 2:18 |
 | 6 | [Fighting My Demons](https://open.spotify.com/track/2c7sRekhMGlj7u1WIIzoQu) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 2:30 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Tr1Hs.md) - [plain]
 | 45 | [open it up \(with Ken Carson\)](https://open.spotify.com/track/0F8K7mgOVEZ7cpOLBPQx38) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [</3³](https://open.spotify.com/album/3wUVDdRTNWxMeYxbfYFPBi) | 4:22 |
 | 46 | [Hella](https://open.spotify.com/track/4EEX7k5Bo5iBdJC6hZJGo1) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Project X](https://open.spotify.com/album/4Vd0qWsKeNJzsouF5Dg1yS) | 2:41 |
 | 47 | [Fashion Habits](https://open.spotify.com/track/2ivRKtdr0RD9nLjeXgRBPV) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [XTENDED](https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK) | 3:21 |
-| 48 | [Stunt](https://open.spotify.com/track/6HK0t75U3xsQQ3HoYHQJMi) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Homixide Lifestyle](https://open.spotify.com/album/6swapyVAOMJiUKc6qhUykp) | 2:58 |
+| 48 | [THRILL \(with Ken Carson\)](https://open.spotify.com/track/3FMKkmAXsCrJM9ZDIbQejN) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [LOVE LASTS FOREVER](https://open.spotify.com/album/6BQgHrnJsXjBiuD1Q8zrmv) | 4:12 |
 | 49 | [Delinquent \(feat\. Homixide Gang\)](https://open.spotify.com/track/1PUwCOtQUOZrjAp8ljxGhE) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX), [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [X](https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF) | 2:45 |
-| 50 | [THRILL \(with Ken Carson\)](https://open.spotify.com/track/3FMKkmAXsCrJM9ZDIbQejN) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [LOVE LASTS FOREVER](https://open.spotify.com/album/6BQgHrnJsXjBiuD1Q8zrmv) | 4:12 |
+| 50 | [Stunt](https://open.spotify.com/track/6HK0t75U3xsQQ3HoYHQJMi) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Homixide Lifestyle](https://open.spotify.com/album/6swapyVAOMJiUKc6qhUykp) | 2:58 |
 
-Snapshot ID: `aRkUAAAAAAC88rpnimgrFBPqcu9lsxye`
+Snapshot ID: `aRplgAAAAAD4kgN6DwmYiv0BTvXZS8c4`

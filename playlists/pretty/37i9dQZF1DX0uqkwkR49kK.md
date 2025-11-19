@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uqkwkR49kK.md) - [plain]
 
 > A collection of insane progressive rock creations, from classic acts to recent gems\. Cover: Rush
 
-[Spotify](https://open.spotify.com/user/spotify) - 375,268 likes - 60 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,325 likes - 60 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uqkwkR49kK.md) - [plain]
 | 23 | [La Villa Strangiato](https://open.spotify.com/track/4CyElmiM9EF9aURGWlPZLi) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Hemispheres](https://open.spotify.com/album/2vrM9ltjKIvNg3nkwXoJuc) | 9:34 |
 | 24 | [The King Will Come](https://open.spotify.com/track/2Lathi1zVEUYJtnyp8BkUW) | [Wishbone Ash](https://open.spotify.com/artist/77zwstbi3x1IxnbDFg6uns) | [Argus \(Expanded Edition\)](https://open.spotify.com/album/7xEluvnbmFtRB5g66CJ2ND) | 7:05 |
 | 25 | [In Exile](https://open.spotify.com/track/0mZIRxmun8Lg6Ec9NpPAmm) | [The Pineapple Thief](https://open.spotify.com/artist/4lrBMUSk8PiNnCEZfsmPAk) | [Your Wilderness](https://open.spotify.com/album/7jjzqewWL5T2lj8hU2Z4bG) | 5:10 |
-| 26 | [Dogs](https://open.spotify.com/track/2jvuMDqBK04WvCYYz5qjvG) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Animals](https://open.spotify.com/album/3b4E89rxzZQ9zkhgKpj8N4) | 17:05 |
+| 26 | [Dogs](https://open.spotify.com/track/2jvuMDqBK04WvCYYz5qjvG) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Animals](https://open.spotify.com/album/3b4E89rxzZQ9zkhgKpj8N4) | 17:04 |
 | 27 | [Dancing with the Moonlit Knight \- 2007 Stereo Mix](https://open.spotify.com/track/1a1xoTlWpndO6azw57dKdJ) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [Selling England by the Pound \(2007 Stereo Mix\)](https://open.spotify.com/album/1rZGSWC3pMmejDwYG0ZXma) | 8:00 |
 | 28 | [One Day All This Could Be Yours \- Remastered](https://open.spotify.com/track/1mbc1BP0zndVcd1Qeb1jjV) | [Oceansize](https://open.spotify.com/artist/0Opj9xi9HHrH0L9uHAKnKm) | [Effloresce](https://open.spotify.com/album/6yY6v4JnwTQGo5w9IZqTRu) | 4:20 |
 | 29 | [MacArthur Park](https://open.spotify.com/track/1RefUer3ZJ0dVkELDdVctr) | [Beggars Opera](https://open.spotify.com/artist/1Q1IgVCRwAqQxgcM8a64zP) | [Pathfinder](https://open.spotify.com/album/4vDouPNKFQs5GGCjLuLt9W) | 8:20 |

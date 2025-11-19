@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124776,
+  "num_followers": 124773,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAU0hE0+JBTtTH+2aqYe+0lQMQmwjtS",
+  "snapshot_id": "AAAU04gbxSLbcfQHMwHGZCIbD7cFSB+j",
   "tracks": [
+    {
+      "added_at": "2025-11-18 18:22:23",
+      "album": {
+        "name": "Mistakes",
+        "url": "https://open.spotify.com/album/2h5AAgM8O5lXcCKVEEOgEh"
+      },
+      "artists": [
+        {
+          "name": "ORACLE",
+          "url": "https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Mistakes",
+      "url": "https://open.spotify.com/track/098jJf7Hk5rgvBCVwLMYFg"
+    },
     {
       "added_at": "2025-11-17 14:34:32",
       "album": {

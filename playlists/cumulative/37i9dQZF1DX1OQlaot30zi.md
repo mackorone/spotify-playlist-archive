@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Papa, Skinny e Yugi, Nitro, Astro, 22Simba, Hash e IvanBi e molti altri.
 
-6,389 songs - 11 day 19 hr 21 min
+6,390 songs - 11 day 19 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,7 @@
 | [3uphon](https://open.spotify.com/track/2mmbawJFVgPuQhdQpsHsRl) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [X2VR](https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29) | 3:15 | 2023-11-17 | 2023-12-08 |
 | [3X3](https://open.spotify.com/track/0vOpZZrfg8gHE44RCz09hn) | [Mangiafuoco](https://open.spotify.com/artist/1vcpArePlTliriC0r4YtQ1), [Iovi](https://open.spotify.com/artist/2KaswtZMzSZd7y0NgUesYZ) | [IL VERO MANGIAFUOCO](https://open.spotify.com/album/7Lzqk2TdpbQLQ6cFJ323XO) | 2:38 | 2025-09-18 | 2025-10-03 |
 | [4 dentro al bagno](https://open.spotify.com/track/45JgkxDTewnwNwTdRerjpt) | [AstroboyDarko](https://open.spotify.com/artist/3mZKcPeoxnStO3qEcf4qLc) | [4 dentro al bagno](https://open.spotify.com/album/0wirQjdASsa4CMM8J2WRdo) | 2:12 | 2024-12-06 | 2024-12-13 |
-| [4 Macchine \(feat\. dedde\)](https://open.spotify.com/track/5Hw9kJltVowEph9wApvONN) | [Suspect CB](https://open.spotify.com/artist/25qHQgRHUtHRnSZBzhixOz), [Dedde](https://open.spotify.com/artist/2FAZEaFF6jIabjvOh2rdtO) | [4 Macchine](https://open.spotify.com/album/2zATUEeHRYPkfQjfzX0sVQ) | 2:58 | 2025-11-14 |  |
+| [4 Macchine \(feat\. dedde\)](https://open.spotify.com/track/5Hw9kJltVowEph9wApvONN) | [Suspect CB](https://open.spotify.com/artist/25qHQgRHUtHRnSZBzhixOz), [dedde](https://open.spotify.com/artist/4RrRLMqOAuHSbPhYIkdtMN) | [4 Macchine](https://open.spotify.com/album/2zATUEeHRYPkfQjfzX0sVQ) | 2:58 | 2025-11-14 |  |
 | [4 Matic](https://open.spotify.com/track/4wVhMDk0grda3pgIY4LU4v) | [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW) | [4 Matic](https://open.spotify.com/album/1WGnP7zv50j8LEGvNT1WHa) | 2:16 | 2024-11-28 | 2024-12-27 |
 | [4 My City](https://open.spotify.com/track/7yiesgWTNRftomEmfjSeg9) | [Sgribaz](https://open.spotify.com/artist/1nz1nHrmEwE28EGz4Z2fKi) | [4 My City](https://open.spotify.com/album/7E3DF9GqySGnfGusveoWcZ) | 2:46 | 2024-01-04 | 2024-01-26 |
 | [4 Zeri \(feat\. Silent Bob\)](https://open.spotify.com/track/1fhy5qglfGbaK3cM0qlYBw) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7), [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI) | [4 Zeri \(feat\. Silent Bob\)](https://open.spotify.com/album/4AYMeDkVcwrC4X42POYOmf) | 2:30 | 2025-08-28 | 2025-09-19 |
@@ -1048,6 +1048,7 @@
 | [CANCUN](https://open.spotify.com/track/5e9Ztp2WgFJfrR7g9lX0Uc) | [LÆRA](https://open.spotify.com/artist/2f8dshecm7JYrsbUshHzW1), [Sillage](https://open.spotify.com/artist/5tQCbzDeBy8NlI90GKQdf6) | [CANCUN](https://open.spotify.com/album/2ABfbcTPZ1Nd6fFf4lcYrV) | 2:07 | 2022-07-21 | 2022-08-26 |
 | [Candeline \(feat\. Ghemon\)](https://open.spotify.com/track/6novc9o6iBbWRCSaU6b1XB) | [Ugo Crepa](https://open.spotify.com/artist/2Dnl3zSlmEnQKW5bsqfROS), [foolviho](https://open.spotify.com/artist/5jey6WrdNNxrVwujdDzDQY), [Alessandro Rase](https://open.spotify.com/artist/5CXKssrGe7iT4wZfge8Vit), [Ghemon](https://open.spotify.com/artist/4xgOj3GP5I1do9ip0MQkLa) | [Candeline \(feat\. Ghemon\)](https://open.spotify.com/album/2Fdum39Jz7ypweYX7WbJ09) | 2:33 | 2024-01-18 | 2024-02-02 |
 | [Cane](https://open.spotify.com/track/6QXssJ6vteCJP07hBAZsBX) | [Ketama126](https://open.spotify.com/artist/0pSx3asj3usz5PRt8COo0E) | [Cane](https://open.spotify.com/album/49kIN7QzVpkKwPNzZkKr5i) | 2:30 | 2023-12-07 | 2024-01-05 |
+| [Cane di Pavlov](https://open.spotify.com/track/3gRCOmjOaHjqG3Vue5EjdI) | [Studio Murena](https://open.spotify.com/artist/1rWbZmR5D63aZU60lMtVZx), [Jack The Smoker](https://open.spotify.com/artist/0vZAzVAFQL1gKLBPfnXMaS) | [Notturno](https://open.spotify.com/album/4m1XOK5GYqtp9ekjo3JYlj) | 2:32 | 2025-11-18 |  |
 | [Canerandagio \(feat\. Izi\)](https://open.spotify.com/track/4TzUnk1bcI9VKLwoRH7k8l) | [Neffa](https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF), [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F) | [Canerandagio \(feat\. Izi\)](https://open.spotify.com/album/0zE8GZQK71rf0jqjkmQqG4) | 3:09 | 2025-04-03 | 2025-04-25 |
 | [CANI SCIOLTI](https://open.spotify.com/track/5m36GsBQD2L8aYmXoU6lZB) | [NBL Baida](https://open.spotify.com/artist/0pfzJzU7cwheE64uZPWrAS) | [CANI SCIOLTI](https://open.spotify.com/album/2NHYNLFidFFefRn0QM6HEx) | 2:56 | 2024-08-22 | 2024-08-30 |
 | [CANNE MOZZE](https://open.spotify.com/track/2jrGQLQFWTXIILuegPZ41z) | [Scaccia](https://open.spotify.com/artist/4bvY1rC6kHzkbt2ome594m), [Jetro](https://open.spotify.com/artist/5w2HwY3ywMbjavUCWhruyP), [Mothz](https://open.spotify.com/artist/5lrXmCL7NuAEVJDfhIJtsu) | [CANNE MOZZE](https://open.spotify.com/album/0W0Nk0Hj6M214neggzNeZW) | 1:55 | 2023-09-28 | 2023-10-20 |

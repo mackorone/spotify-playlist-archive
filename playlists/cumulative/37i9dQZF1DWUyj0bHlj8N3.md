@@ -4,7 +4,7 @@
 
 > Canciones y beats que te llevan al siguiente nivel.
 
-84 songs - 4 hr 57 min
+84 songs - 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Harder, Better, Faster, Stronger](https://open.spotify.com/track/5W3cjX2J3tjhG8zb6u0qHn) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 3:46 | 2021-12-17 |  |
 | [Hear Me Now](https://open.spotify.com/track/6OnYQKTc5fbSGbIpaH4KxL) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Hear Me Now](https://open.spotify.com/album/5ev8miwRafJ3DeXNaAVzBZ) | 3:12 | 2021-12-17 |  |
 | [Hear Me Now](https://open.spotify.com/track/39cmB3ZoTOLwOTq7tMNqKa) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [Hear Me Now \(feat\. Zeeba\)](https://open.spotify.com/album/6fpsA5aYbVNLe6y3P49o2o) | 3:14 | 2021-12-17 | 2024-04-19 |
-| [In the Name of Love](https://open.spotify.com/track/23L5CiUhw2jV1OIMwthR3S) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [In the Name of Love](https://open.spotify.com/album/1FOJ5IXGXe8dl0cXvCU6wK) | 3:15 | 2021-12-17 |  |
+| [In the Name of Love](https://open.spotify.com/track/23L5CiUhw2jV1OIMwthR3S) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [In the Name of Love](https://open.spotify.com/album/1FOJ5IXGXe8dl0cXvCU6wK) | 3:18 | 2021-12-17 |  |
 | [Invisible](https://open.spotify.com/track/2BgagqJWYfrKPhz3f5V0Sw) | [Julius Dreisig](https://open.spotify.com/artist/72fdBvuHxCR7PLvj0osbhR), [Zeus X Crona](https://open.spotify.com/artist/6uzCPyGMlp97ATH1yQYNNq) | [Invisible](https://open.spotify.com/album/1aFmxF4v2F31uUWcySqV0Y) | 3:21 | 2021-12-17 |  |
 | [Invisible](https://open.spotify.com/track/1QQ1Dx8dcLgWvUaY5fk84y) | [Zeus X Crona](https://open.spotify.com/artist/6uzCPyGMlp97ATH1yQYNNq), [Julius Dreisig](https://open.spotify.com/artist/72fdBvuHxCR7PLvj0osbhR) | [Invisible](https://open.spotify.com/album/1QK215qFVGRk5ReFGXdxzT) | 3:21 | 2021-12-17 | 2024-04-19 |
 | [Juicy](https://open.spotify.com/track/7924NRevY7KfgupyhT6Xky) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [Blunts & Blondes](https://open.spotify.com/artist/4XxIRZXk8xgrBmt0SNq7E3) | [Bangers\[6\].Zip](https://open.spotify.com/album/3djSUWm3m92BDIXUxg3Fii) | 3:08 | 2021-12-17 | 2024-06-29 |

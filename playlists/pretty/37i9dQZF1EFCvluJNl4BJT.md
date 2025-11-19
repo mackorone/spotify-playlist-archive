@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCvluJNl4BJT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2Ak2P6rRpuVPTPAvHSuVDQ">Leon Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,082 likes - 120 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,083 likes - 120 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,9 +71,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCvluJNl4BJT.md) - [plain]
 | 61 | [Remember Me](https://open.spotify.com/track/30LaZL46nu7DZlTtbhZCtv) | [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM) | [Lost Planet 2.0](https://open.spotify.com/album/1jX4O08rNR67vVxiR66BS3) | 2:24 |
 | 62 | [ON MY MIND feat\. James Fauntleroy](https://open.spotify.com/track/2KY5Yl10cqMdet5WevlYZy) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT) | [TEMPORARY HIGHS IN THE VIOLET SKIES](https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3) | 3:42 |
 | 63 | [New Flower! \(feat\. Leon Thomas\)](https://open.spotify.com/track/3q8mXT1racKde1h8zHY1ko) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [13 Months of Sunshine](https://open.spotify.com/album/5B4zpYhcIOJXQO7YWBh0LE) | 3:28 |
-| 64 | [DANCING WITH DEMONS](https://open.spotify.com/track/5d5zlLTuykcqoT4EhhyC2Q) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 4:01 |
-| 65 | [Seamless \(with Kehlani\)](https://open.spotify.com/track/6KSlgWFkrNu4r1z0GxZvyB) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Girls Night Out](https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye) | 3:15 |
-| 66 | [My Muse](https://open.spotify.com/track/22c6Yop5YVEAhw8UG6O1W1) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [PHOLKS](https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM) | 2:45 |
+| 64 | [My Muse](https://open.spotify.com/track/22c6Yop5YVEAhw8UG6O1W1) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [PHOLKS](https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM) | 2:45 |
+| 65 | [DANCING WITH DEMONS](https://open.spotify.com/track/5d5zlLTuykcqoT4EhhyC2Q) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 4:01 |
+| 66 | [Seamless \(with Kehlani\)](https://open.spotify.com/track/6KSlgWFkrNu4r1z0GxZvyB) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Girls Night Out](https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye) | 3:15 |
 | 67 | [Just How You Are](https://open.spotify.com/track/7KO0PWYRvoQMNdOZ4KHulW) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Just How You Are](https://open.spotify.com/album/72kXsZAoCVweVue3PPZ7hw) | 3:14 |
 | 68 | [CROWN](https://open.spotify.com/track/4STskVkFJFtNbjuZmDe26C) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [CROWN](https://open.spotify.com/album/0mRiqLvYIjafS4sKy4kAKW) | 2:35 |
 | 69 | [Gone \(with Bryson Tiller\)](https://open.spotify.com/track/3sQWzLuYeu8dOVTrYwkFlf) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Grudges](https://open.spotify.com/album/7LjBbLFOHLzCsOlxYpFqU2) | 3:33 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCvluJNl4BJT.md) - [plain]
 | 77 | [One Time](https://open.spotify.com/track/5E7D6pwvNV7oOYEoVQaL38) | [MK xyz](https://open.spotify.com/artist/3vwC5qKVfZGqWAXzwrqCe0) | [Sweet Spot](https://open.spotify.com/album/23nTkOwxgL10bRmFMjEYRY) | 2:36 |
 | 78 | [Earth Girls](https://open.spotify.com/track/4fFW2R6sfxi83VumhTuKDa) | [Jesse Boykins III](https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29) | [Bartholomew](https://open.spotify.com/album/4DCQ1KDwnkPgh5Yj1eMQGz) | 4:09 |
 | 79 | [I'd Rather Be Broke](https://open.spotify.com/track/4GhRns9gZpQol9evF1dqQ8) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Love, Marriage‎ & Divorce](https://open.spotify.com/album/77JvBkDfZ7r74mcQcTkdqM) | 3:37 |
-| 80 | [Sweep It Up](https://open.spotify.com/track/2zrR38kgXUVkMDaaIYqZ3t) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Sweep It Up](https://open.spotify.com/album/5VgyQ6VrRVu3XmDlVRr7hY) | 3:17 |
-| 81 | [CATCH A STRAY](https://open.spotify.com/track/2bMcpeSIM5FNFCv1MK30sQ) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT Deluxe: HEEL](https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL) | 4:42 |
+| 80 | [CATCH A STRAY](https://open.spotify.com/track/2bMcpeSIM5FNFCv1MK30sQ) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT Deluxe: HEEL](https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL) | 4:42 |
+| 81 | [Sweep It Up](https://open.spotify.com/track/2zrR38kgXUVkMDaaIYqZ3t) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Sweep It Up](https://open.spotify.com/album/5VgyQ6VrRVu3XmDlVRr7hY) | 3:17 |
 | 82 | [Homesick](https://open.spotify.com/track/7jNS3LWy71wVrRNeIxVY6C) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [You Only Live 2wice](https://open.spotify.com/album/4l0MaoNsVg6h02K6umfyU8) | 4:29 |
 | 83 | [Can I Get a Moment?](https://open.spotify.com/track/57lEhHssad99QMK2Lr5Ykz) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673) | [Beautiful \(Platinum Edition\)](https://open.spotify.com/album/3XT3rHDWteNpQNhnARN7Ap) | 3:27 |
 | 84 | [Superstar](https://open.spotify.com/track/4musQfBRjlfN6pfJNpchpC) | [24hrs](https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [12 AM in Atlanta 2](https://open.spotify.com/album/76ke5GIkFCFyJTYbBbMXuq) | 3:39 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCvluJNl4BJT.md) - [plain]
 | 119 | [Hello How Are You \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/2w6NKpDk88j5WhmAOggYNx) | [Leon Thomas](https://open.spotify.com/artist/44PAA4cna071vzwYqN5Pce), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Hello How Are You \(feat\. Wiz Khalifa\)](https://open.spotify.com/album/4kX602tlPIQUCM8K9mtjAK) | 3:38 |
 | 120 | [All Wolves Go To Heaven](https://open.spotify.com/track/0FnKGnChseb8z8rta9nHQk) | [YoDogg](https://open.spotify.com/artist/6uWApIkHAMSpgBmDmrvQnF), [Cardo Got Wings](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p) | [Raised By Wolves](https://open.spotify.com/album/61gYrHZvvs4tHesla7RTNz) | 2:33 |
 
-Snapshot ID: `AcB3HAAAAADGrU344+9M0e2vx8+JsrKn`
+Snapshot ID: `AcB8vAAAAAD5ZdBUO9bUQ4s8m64OzOWw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 
 > High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,217 likes - 84 songs - 4 hr 12 min
+[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,216 likes - 88 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,5 +92,9 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 | 82 | [Sanity \(feat\. Hedara\)](https://open.spotify.com/track/7z8XUrMRiM2pref7YvRTaD) | [Scott Forshaw](https://open.spotify.com/artist/2B3lljR6lMaymKtckOsdoy), [Hedara](https://open.spotify.com/artist/6lUauNyvHBjAp0tBFDiBNm) | [Sanity \(feat\. Hedara\)](https://open.spotify.com/album/68mSdZUksTi1PvVPoTJeau) | 2:36 |
 | 83 | [Got The Funk](https://open.spotify.com/track/62HMqOpPcNgECRoOMUD8B2) | [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob), [Capri](https://open.spotify.com/artist/4eHpewi8qb1L05TZvgKn7Z) | [Got The Funk](https://open.spotify.com/album/7suz7uIzl0sWYEaGjU5g8R) | 3:04 |
 | 84 | [Baiana](https://open.spotify.com/track/0xEbe8QpLVSBX6E0wxeS5l) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [CHRSTPHR](https://open.spotify.com/artist/6yu6ruPHJXpEtX3eQpZTCz), [Barbatuques](https://open.spotify.com/artist/5xnMjuPp1eDXa8du0SKIHD) | [Baiana](https://open.spotify.com/album/2s8PZkaN35LVwWMoUVEExE) | 1:56 |
+| 85 | [Up Front](https://open.spotify.com/track/74X66DXVuSLDEOp3sR8GFL) | [DREYA V](https://open.spotify.com/artist/4EFAuQI8Ou0bmpf5Vh1P5P) | [Up Front](https://open.spotify.com/album/6eLVBuH7e14JC1pRR09kzP) | 3:27 |
+| 86 | [Deep Down](https://open.spotify.com/track/5BukeOBassQvKKFvznDAyP) | [LEFTI](https://open.spotify.com/artist/7o5gxy3lEGcP62TNIppa7w) | [Deep Down](https://open.spotify.com/album/2C5ko6anBsj0XKrjwPkBVH) | 2:53 |
+| 87 | [I Know You Want To](https://open.spotify.com/track/3qhf5WajCHsJibQ7cQ2qYS) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [I Know You Want To](https://open.spotify.com/album/60xGclNsYuzGqMfhUW4nXE) | 3:13 |
+| 88 | [Cold Fresh Air](https://open.spotify.com/track/0qBCGXtX9RXypyFyDMZDP6) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Alec Monopoly](https://open.spotify.com/artist/7uOE9p28qcPPuSOfcofRS9) | [Cold Fresh Air](https://open.spotify.com/album/54KtnLwk1M9iXn8wDKVBFJ) | 2:30 |
 
-Snapshot ID: `AAAK8hpBUZSxTEWf7el2/ISH1W2K9ggX`
+Snapshot ID: `AAAK9gOmgRM4i6YE10MTvmlkBiy3KkQu`

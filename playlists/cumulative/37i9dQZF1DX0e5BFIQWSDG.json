@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u039f\u03b9 \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03b1\u03cd\u03c1\u03b9\u03bf, \u03b5\u03c0\u03b9\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03bf\u03bc\u03ac\u03b4\u03b1 \u03bc\u03b1\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Nikos Oikonomopoulos",
+  "description": "\u039f\u03b9 \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03b1\u03cd\u03c1\u03b9\u03bf, \u03b5\u03c0\u03b9\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03bf\u03bc\u03ac\u03b4\u03b1 \u03bc\u03b1\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Donn",
   "name": "Hot Hits Greece",
   "tracks": [
     {
@@ -2264,7 +2264,7 @@
       ],
       "date_added": "2025-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 176170,
       "name": "ELA ELA",
       "url": "https://open.spotify.com/track/3lQC1Q8BHxKLe8lFXR7idT"
@@ -3415,6 +3415,28 @@
     },
     {
       "album": {
+        "name": "Hennessy",
+        "url": "https://open.spotify.com/album/4OHczGxL1jNFggW3SSEzAf"
+      },
+      "artists": [
+        {
+          "name": "Marzi",
+          "url": "https://open.spotify.com/artist/442q0h0oxi0LlYU1eyqUYq"
+        },
+        {
+          "name": "GMBeaTz",
+          "url": "https://open.spotify.com/artist/7d9PyOhLipsOeI1cov1cnz"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159428,
+      "name": "Hennessy",
+      "url": "https://open.spotify.com/track/6z2o8MUXciVpixpC0r0Jsv"
+    },
+    {
+      "album": {
         "name": "Hezbollah",
         "url": "https://open.spotify.com/album/0bzblmdLm0i3kbOY8ZFudY"
       },
@@ -3834,7 +3856,7 @@
       ],
       "date_added": "2025-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 187133,
       "name": "Kapos Allios",
       "url": "https://open.spotify.com/track/2AQtKCJgmykkIC2bODzcfN"
@@ -5631,6 +5653,28 @@
     },
     {
       "album": {
+        "name": "PANW MOU",
+        "url": "https://open.spotify.com/album/51JcjN99mn92eLhTwcVdcq"
+      },
+      "artists": [
+        {
+          "name": "Donn",
+          "url": "https://open.spotify.com/artist/5ZW3jmupWrQDBKilPyUVkv"
+        },
+        {
+          "name": "BLVD Studio",
+          "url": "https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118548,
+      "name": "PANW MOU",
+      "url": "https://open.spotify.com/track/4Qa689Cg9mB9iaO9PT5cIO"
+    },
+    {
+      "album": {
         "name": "PARADISO",
         "url": "https://open.spotify.com/album/0K9I0a6MdMq7wvJUWfOY5B"
       },
@@ -5676,7 +5720,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 146400,
       "name": "PARANOMO",
       "url": "https://open.spotify.com/track/4M9LkBYxzH1U6YGcWCs6OM"
@@ -5808,10 +5852,52 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 155789,
       "name": "PATEK",
       "url": "https://open.spotify.com/track/4hP3SgO11Vn5ZPW2UfK73q"
+    },
+    {
+      "album": {
+        "name": "PEGASUS",
+        "url": "https://open.spotify.com/album/1d8Eeq7r9nJQZcfRkypHeR"
+      },
+      "artists": [
+        {
+          "name": "Above The Hood",
+          "url": "https://open.spotify.com/artist/2ADDZ2HbeOUSVsbRslcZ3X"
+        },
+        {
+          "name": "Hawk",
+          "url": "https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw"
+        },
+        {
+          "name": "Pepe Frantik",
+          "url": "https://open.spotify.com/artist/4DCovF7ywxtJsviuldcV98"
+        },
+        {
+          "name": "Sapranov",
+          "url": "https://open.spotify.com/artist/0ydmHwy5hFIaJEoZWWcKxC"
+        },
+        {
+          "name": "Smuggler",
+          "url": "https://open.spotify.com/artist/7fyyicH0HcrSE4GC6UmzEr"
+        },
+        {
+          "name": "Long3",
+          "url": "https://open.spotify.com/artist/5EZmxPSk3RuSe9jda5RGxG"
+        },
+        {
+          "name": "Spine",
+          "url": "https://open.spotify.com/artist/5psOWQpFPYKVGbadI35wzB"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309554,
+      "name": "PEGASUS",
+      "url": "https://open.spotify.com/track/7zlSJEQdA4UaztxQcGnXrO"
     },
     {
       "album": {
@@ -6070,7 +6156,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 117556,
       "name": "PISTOLERO",
       "url": "https://open.spotify.com/track/4pZKsvyZmJUXNOzyACE1lV"
@@ -6555,6 +6641,28 @@
     },
     {
       "album": {
+        "name": "SAMURAI",
+        "url": "https://open.spotify.com/album/0YkDWBfB8JduucdcI2X5kz"
+      },
+      "artists": [
+        {
+          "name": "Likeboss",
+          "url": "https://open.spotify.com/artist/5gw7flNXQt0oQ5taY1as73"
+        },
+        {
+          "name": "HermesHermes",
+          "url": "https://open.spotify.com/artist/5PeCMyf2BO8RlAujWP0erY"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116363,
+      "name": "SAMURAI",
+      "url": "https://open.spotify.com/track/4Vtelze8gubX1KfKWc6aOm"
+    },
+    {
+      "album": {
         "name": "Royal",
         "url": "https://open.spotify.com/album/6NigROCnaigsr6FroYtDAu"
       },
@@ -6614,7 +6722,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 128000,
       "name": "SEADOO",
       "url": "https://open.spotify.com/track/2O6rvtuZnW3yCa1ASbTk6g"
@@ -6775,6 +6883,28 @@
     },
     {
       "album": {
+        "name": "Siopi Sti Diapason",
+        "url": "https://open.spotify.com/album/5hq3mhVls5TmQmreXUslx2"
+      },
+      "artists": [
+        {
+          "name": "Ioulia Kallimani",
+          "url": "https://open.spotify.com/artist/6HsM9NbNIunWMEFLOk4d9p"
+        },
+        {
+          "name": "Michael Touratzidis",
+          "url": "https://open.spotify.com/artist/5dwadtCk3MY582FXpBAHwz"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190030,
+      "name": "Siopi Sti Diapason",
+      "url": "https://open.spotify.com/track/1Zw1dBNnFCyHWTRWTRk3wW"
+    },
+    {
+      "album": {
         "name": "SKG DRILL",
         "url": "https://open.spotify.com/album/5UC3x1p0tyC6fPNFEhL4Vk"
       },
@@ -6907,6 +7037,24 @@
     },
     {
       "album": {
+        "name": "Sou Eleipsa H Oxi?",
+        "url": "https://open.spotify.com/album/3Y3vGleylpZtWMQUySRcvI"
+      },
+      "artists": [
+        {
+          "name": "Katerina Lioliou",
+          "url": "https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239482,
+      "name": "Sou Eleipsa H Oxi?",
+      "url": "https://open.spotify.com/track/3DjRWr61uRKkd6pe0DkO3e"
+    },
+    {
+      "album": {
         "name": "SOUKOU",
         "url": "https://open.spotify.com/album/2dvoZNko18fOtSL1X2PEiz"
       },
@@ -6970,7 +7118,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 240930,
       "name": "Spasmeni Fleva",
       "url": "https://open.spotify.com/track/5OBGB0w41ecJacqcdSop5B"
@@ -7307,6 +7455,36 @@
     },
     {
       "album": {
+        "name": "TELEIA EPAFI",
+        "url": "https://open.spotify.com/album/1Rl7Cph3nKDpGQAgwMMW0t"
+      },
+      "artists": [
+        {
+          "name": "Angelina",
+          "url": "https://open.spotify.com/artist/3AuKpTBn0Ce09mVVhjCEEW"
+        },
+        {
+          "name": "YungKapa",
+          "url": "https://open.spotify.com/artist/23iVXbj5uK4e3MtRQLNPdG"
+        },
+        {
+          "name": "Lev",
+          "url": "https://open.spotify.com/artist/4B9bpLEd8yK02fXBZdka2I"
+        },
+        {
+          "name": "Paris Kalpos",
+          "url": "https://open.spotify.com/artist/63z0gOosInxV2a7J8UPDzM"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196701,
+      "name": "TELEIA EPAFI",
+      "url": "https://open.spotify.com/track/2NWiKEdsg3YGIpZ4fjyGVD"
+    },
+    {
+      "album": {
         "name": "Teleia Sxesh",
         "url": "https://open.spotify.com/album/0J2rFWwTiGvyhtMOvnnw6z"
       },
@@ -7326,6 +7504,24 @@
       "duration_ms": 165125,
       "name": "Teleia Sxesh",
       "url": "https://open.spotify.com/track/3ze6LTsfPjdMtEpnaQaU1Z"
+    },
+    {
+      "album": {
+        "name": "Terma S' Agapo / Oti Kai Na Ginei Thimisou (Medley)",
+        "url": "https://open.spotify.com/album/7uQPoxmw3bL1K7c8viJCM0"
+      },
+      "artists": [
+        {
+          "name": "Ria Ellinidou",
+          "url": "https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305263,
+      "name": "Terma S' Agapo / Oti Kai Na Ginei Thimisou - Medley",
+      "url": "https://open.spotify.com/track/5MateRIsXSsdRHYVVOcZpx"
     },
     {
       "album": {
@@ -8142,7 +8338,7 @@
       ],
       "date_added": "2025-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 128741,
       "name": "XAROS",
       "url": "https://open.spotify.com/track/0drZEILXlqWqzpniZMZEbh"

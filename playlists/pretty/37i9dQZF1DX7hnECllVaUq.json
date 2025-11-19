@@ -1,6 +1,6 @@
 {
   "description": "The biggest hits from country artists around the globe. Cover: James Johnston",
-  "num_followers": 314622,
+  "num_followers": 314752,
   "original_name": "Country Worldwide",
   "owner": {
     "name": "Spotify",
@@ -767,6 +767,22 @@
     {
       "added_at": "2025-10-24 04:00:27",
       "album": {
+        "name": "True Believers",
+        "url": "https://open.spotify.com/album/6cowf7fdb5dgKoglTekOK8"
+      },
+      "artists": [
+        {
+          "name": "Darius Rucker",
+          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+        }
+      ],
+      "duration_ms": 298373,
+      "name": "Wagon Wheel",
+      "url": "https://open.spotify.com/track/3xdjjKMcMOFgo1eQrfbogM"
+    },
+    {
+      "added_at": "2025-10-24 04:00:27",
+      "album": {
         "name": "Bloodline",
         "url": "https://open.spotify.com/album/2KoAn4MyptQWG1qBx7mu01"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 182008,
       "name": "Bloodline",
       "url": "https://open.spotify.com/track/0qmhTHMVxnXRmT5N92wTD9"
-    },
-    {
-      "added_at": "2025-10-24 04:00:27",
-      "album": {
-        "name": "True Believers",
-        "url": "https://open.spotify.com/album/6cowf7fdb5dgKoglTekOK8"
-      },
-      "artists": [
-        {
-          "name": "Darius Rucker",
-          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
-        }
-      ],
-      "duration_ms": 298373,
-      "name": "Wagon Wheel",
-      "url": "https://open.spotify.com/track/3xdjjKMcMOFgo1eQrfbogM"
     },
     {
       "added_at": "2025-10-24 04:00:27",
@@ -1299,22 +1299,18 @@
     {
       "added_at": "2025-10-24 04:00:27",
       "album": {
-        "name": "Zach Bryan",
-        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
+        "name": "California Sunrise",
+        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
       },
       "artists": [
         {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        },
-        {
-          "name": "The War And Treaty",
-          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
         }
       ],
-      "duration_ms": 227466,
-      "name": "Hey Driver (feat. The War and Treaty)",
-      "url": "https://open.spotify.com/track/4pCbJC43j3gSqG6Fen6upD"
+      "duration_ms": 172253,
+      "name": "Night Shift",
+      "url": "https://open.spotify.com/track/0bPnT6i9H1p8Vd85GS6Z7I"
     },
     {
       "added_at": "2025-10-24 04:00:27",
@@ -1359,18 +1355,22 @@
     {
       "added_at": "2025-10-24 04:00:27",
       "album": {
-        "name": "California Sunrise",
-        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
+        "name": "Zach Bryan",
+        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
       },
       "artists": [
         {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "The War And Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
         }
       ],
-      "duration_ms": 172253,
-      "name": "Night Shift",
-      "url": "https://open.spotify.com/track/0bPnT6i9H1p8Vd85GS6Z7I"
+      "duration_ms": 227466,
+      "name": "Hey Driver (feat. The War and Treaty)",
+      "url": "https://open.spotify.com/track/4pCbJC43j3gSqG6Fen6upD"
     },
     {
       "added_at": "2025-10-24 04:00:27",

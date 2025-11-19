@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkosMCdlEHA.md) - [plain]
 
 > Versões desplugadas para curtir um reggae com os pés na areia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,704 likes - 75 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,721 likes - 75 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkosMCdlEHA.md) - [plain]
 | 10 | [Reviso Meus Planos \- Ao Vivo Em São Paulo](https://open.spotify.com/track/0qEngYWXqMntXxTTUbdLnZ) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb), [Armandinho](https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH) | [Ao Vivo Em São Paulo](https://open.spotify.com/album/5Wrwotv3hfJp1nDAoQgRzZ) | 4:12 |
 | 11 | [Johny B\. Goode \(Johny B\. Goode\) \[Acústico\]](https://open.spotify.com/track/1BkxFAodaIkcM2vynl4CVM) | [Cidade Negra](https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ) | [Acústico Cidade Negra](https://open.spotify.com/album/2p9ayxfFobzpbtnF8mJyUL) | 4:14 |
 | 12 | [Desde as Estrelas \- Acústico](https://open.spotify.com/track/0xGoeHUa0v9b05Nzogh0xK) | [Planta E Raiz](https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO) | [Segue em Frente](https://open.spotify.com/album/46NJvNtoypiHUSQttmnUX3) | 4:10 |
-| 13 | [Sentimento Bom](https://open.spotify.com/track/0vyKzl0o1lem1sHg5wXgSD) | [Circuito Reggae](https://open.spotify.com/artist/07N5hTxdi3rA5cyaf469Ly), [Filosofia Reggae](https://open.spotify.com/artist/3UuKVWKt06WkHABc5arEXD) | [Circuito Reggae, Vol\. 8](https://open.spotify.com/album/3RuibytHE3NZnO7OgS2iN3) | 4:01 |
-| 14 | [Beach in Hawaii](https://open.spotify.com/track/7K1QvbTr4KqK8Np5SpFC6S) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Love Is My Religion](https://open.spotify.com/album/2gT72CpRI4izR1IUohkU7w) | 3:40 |
+| 13 | [Beach in Hawaii](https://open.spotify.com/track/7K1QvbTr4KqK8Np5SpFC6S) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Love Is My Religion](https://open.spotify.com/album/2gT72CpRI4izR1IUohkU7w) | 3:40 |
+| 14 | [Sentimento Bom](https://open.spotify.com/track/0vyKzl0o1lem1sHg5wXgSD) | [Circuito Reggae](https://open.spotify.com/artist/07N5hTxdi3rA5cyaf469Ly), [Filosofia Reggae](https://open.spotify.com/artist/3UuKVWKt06WkHABc5arEXD) | [Circuito Reggae, Vol\. 8](https://open.spotify.com/album/3RuibytHE3NZnO7OgS2iN3) | 4:01 |
 | 15 | [Seja Para Mim \- Ao Vivo Em São Paulo](https://open.spotify.com/track/5RuScevud12uKYhhJkYTJ7) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Ao Vivo Em São Paulo](https://open.spotify.com/album/5Wrwotv3hfJp1nDAoQgRzZ) | 3:05 |
 | 16 | [Pensamento \(Acústico\)](https://open.spotify.com/track/2NhI1Yc8XNEztaWxAR1SdD) | [Cidade Negra](https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ) | [Acústico Cidade Negra](https://open.spotify.com/album/2p9ayxfFobzpbtnF8mJyUL) | 2:52 |
 | 17 | [Uma onda que passou \(E eu não dropei\) \- Ao vivo](https://open.spotify.com/track/5hmTjMenODKpZuE5c4XzCy) | [Tribo De Jah](https://open.spotify.com/artist/6oAqyhJILwJf9S3Of2zTuv) | [15 Anos \(Ao vivo\)](https://open.spotify.com/album/1XRXhmwnkbjh8voQ5rIn0L) | 3:29 |

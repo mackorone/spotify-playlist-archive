@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo4kzWesMJm.md) - [plain]
 
 > Les meilleurs airs d'autoroute.
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,256 likes - 60 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,268 likes - 60 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo4kzWesMJm.md) - [plain]
 | 30 | [Lady Mélody](https://open.spotify.com/track/4LWVPTpGzQjKtwYmmx7Hbd) | [Tom Frager](https://open.spotify.com/artist/1N9Xy6x2jTaxMU75aFshoq) | [Better Days](https://open.spotify.com/album/4YFkUluvUeyvsj20kYXeR1) | 3:11 |
 | 31 | [Paris Latino \- Original Version 1983](https://open.spotify.com/track/3LCup59DMpM3r6fwQsZMYs) | [Bandolero](https://open.spotify.com/artist/5lh1imF7kkn87IHQsoEjJB) | [Best of Bandolero \(Le meilleur des années 80\)](https://open.spotify.com/album/0B2tZmiPYlz9Jc1jbupQOX) | 4:03 |
 | 32 | [Tu m'oublieras](https://open.spotify.com/track/616O2jmafiModH0RgonGqf) | [Larusso](https://open.spotify.com/artist/07sMHU0vu01xrz1gnNrNry) | [Simplement](https://open.spotify.com/album/5BXw5K0WzAncb6uMnCrnyW) | 3:39 |
-| 33 | [La goffa Lolita](https://open.spotify.com/track/32ujt0CBVLsFyQtAhVk7WN) | [Vincè la petite culotte](https://open.spotify.com/artist/5sDptaTI5qN5FNrbFqQDyd) | [La goffa Lolita](https://open.spotify.com/album/2tQi3k1kQdxNnuzU2mNPgC) | 3:41 |
-| 34 | [Léa](https://open.spotify.com/track/709Vk4ahhCM6ENgRVTTYw6) | [Louise Attaque](https://open.spotify.com/artist/4CAsSAU842glNKJX71ndA9) | [Louise Attaque](https://open.spotify.com/album/2HkPAUQZm9D1wkJQeh9ENz) | 3:17 |
+| 33 | [Léa](https://open.spotify.com/track/709Vk4ahhCM6ENgRVTTYw6) | [Louise Attaque](https://open.spotify.com/artist/4CAsSAU842glNKJX71ndA9) | [Louise Attaque](https://open.spotify.com/album/2HkPAUQZm9D1wkJQeh9ENz) | 3:17 |
+| 34 | [La goffa Lolita](https://open.spotify.com/track/32ujt0CBVLsFyQtAhVk7WN) | [Vincè la petite culotte](https://open.spotify.com/artist/5sDptaTI5qN5FNrbFqQDyd) | [La goffa Lolita](https://open.spotify.com/album/2tQi3k1kQdxNnuzU2mNPgC) | 3:41 |
 | 35 | [Prière païenne](https://open.spotify.com/track/5qrVEJLwzDbASSVcfpMJO4) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [D'Eux](https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p) | 4:09 |
 | 36 | [J'ai cherché](https://open.spotify.com/track/1lzRxwbdl86iJlYMz48KoD) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh) | [Au coeur de moi](https://open.spotify.com/album/7qmzJKB20IS9non9kBkPgF) | 3:32 |
 | 37 | [Amoureuse \- Remasterisé en 2008](https://open.spotify.com/track/5jcS1ZXOYMexs2y88yFnyn) | [Véronique Sanson](https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D) | [Amoureuse \(Edition Deluxe\)](https://open.spotify.com/album/18iyjo6GV6Bzxs4x8Z1NWG) | 3:41 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo4kzWesMJm.md) - [plain]
 | 41 | [Ne partons pas fâchés](https://open.spotify.com/track/73O15OI7KZXrLdsjCbY9aq) | [Raphaël](https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM) | [Caravane](https://open.spotify.com/album/5TbficEf6NnMBJP5rUwuN6) | 3:13 |
 | 42 | [Divine idylle](https://open.spotify.com/track/0gpXeyth12BXqwHFzfNR2S) | [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [Divinidylle](https://open.spotify.com/album/0Sh8ciS5EVvzbBMyA1373p) | 2:39 |
 | 43 | [Le Premier jour \(Du reste de ta vie\)](https://open.spotify.com/track/7ycDyrJEPBwzy2uAvtTZyh) | [Étienne Daho](https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk) | [Le Premier Jour](https://open.spotify.com/album/3MPQylPQwIPtyLJRNBc44w) | 4:10 |
-| 44 | [Je ne suis pas un héros](https://open.spotify.com/track/3bHwuIcUkM1mc7c1u7vgbQ) | [Daniel Balavoine](https://open.spotify.com/artist/28IqYhzq3UU46bbY0mRgn7) | [Un autre monde \(Remastered\)](https://open.spotify.com/album/0guFdTn3J3NhrS0TYYOUX2) | 5:13 |
-| 45 | [Dis\-moi encore que tu m'aimes](https://open.spotify.com/track/7vyAq4J0ca56TYWQMN727O) | [Gaëtan Roussel](https://open.spotify.com/artist/2FDsdMev4pzIXwoJGXi9zf) | [Ginger](https://open.spotify.com/album/7vgcS252HYgC1kVxRJqUTp) | 3:08 |
+| 44 | [Dis\-moi encore que tu m'aimes](https://open.spotify.com/track/7vyAq4J0ca56TYWQMN727O) | [Gaëtan Roussel](https://open.spotify.com/artist/2FDsdMev4pzIXwoJGXi9zf) | [Ginger](https://open.spotify.com/album/7vgcS252HYgC1kVxRJqUTp) | 3:08 |
+| 45 | [Je ne suis pas un héros](https://open.spotify.com/track/3bHwuIcUkM1mc7c1u7vgbQ) | [Daniel Balavoine](https://open.spotify.com/artist/28IqYhzq3UU46bbY0mRgn7) | [Un autre monde \(Remastered\)](https://open.spotify.com/album/0guFdTn3J3NhrS0TYYOUX2) | 5:13 |
 | 46 | [L'horloge tourne](https://open.spotify.com/track/1sphiFFp9zrlSLmpFhywRV) | [Mickael Miro](https://open.spotify.com/artist/0VtUo7KpkeFx3zwTmSwNQl) | [Juste Comme Ça](https://open.spotify.com/album/2fMnPZsQORaYp7SCPNAw03) | 3:25 |
 | 47 | [Chaque seconde \(feat\. M\. Pokora\)](https://open.spotify.com/track/1pnzctM9itTsKupaQWDQwe) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr), [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ) | [Chaque seconde \(feat\. M\. Pokora\)](https://open.spotify.com/album/6tksgNrY872kjEs4q2v3Um) | 2:45 |
 | 48 | [La ballade de Jim](https://open.spotify.com/track/4lI8A7xmuQqGDj28dzelH4) | [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x) | [C'est comme vous voulez](https://open.spotify.com/album/1owL66vLGqOWxVJYYrCDE1) | 4:25 |

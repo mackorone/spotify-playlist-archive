@@ -1,12 +1,12 @@
 {
   "description": "This is MC Cabelinho. The essential tracks, all in one playlist.",
-  "num_followers": 155877,
+  "num_followers": 155867,
   "original_name": "This Is MC Cabelinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRkUAAAAAADZ4n8hV8JHn58WIS91xlKx",
+  "snapshot_id": "aRplgAAAAADn/ZEZe2i2zK+TsI+2FFNK",
   "tracks": [
     {
       "added_at": null,
@@ -971,6 +971,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "LITTLE HAIR",
+        "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "GOTHAM",
+      "url": "https://open.spotify.com/track/415dld79DDW9drRA3luAqf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vinho",
         "url": "https://open.spotify.com/album/2uzAaxLP1X1JVNpN9kJa1h"
       },
@@ -1011,26 +1031,6 @@
       "duration_ms": 238306,
       "name": "FUI",
       "url": "https://open.spotify.com/track/0F0bSpQoHvA2UmbbT2VRGL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LITTLE HAIR",
-        "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "GOTHAM",
-      "url": "https://open.spotify.com/track/415dld79DDW9drRA3luAqf"
     },
     {
       "added_at": null,

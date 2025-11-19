@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 
 > The best hardstyle remixes of songs you know!
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,443 likes - 70 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,561 likes - 70 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,9 +62,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 52 | [Fine Day](https://open.spotify.com/track/7aKme0bvekUFoMI0cHGIRk) | [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Fine Day](https://open.spotify.com/album/2ZIFHjv7tMdEsYfWy9HwFv) | 3:56 |
 | 53 | [Clarity](https://open.spotify.com/track/3y1Y5AFYiQP3ipHGuEqr3t) | [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm), [Toneshifterz](https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV) | [Clarity](https://open.spotify.com/album/4gObEv4tTskEaxHdmwbS13) | 3:09 |
 | 54 | [Alone, Pt\. II \- Da Tweekaz Remix](https://open.spotify.com/track/22iyqD0gyzWHy6oAvPVAWk) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6) | [Alone, Pt\. II \(Remixes\)](https://open.spotify.com/album/2mxUoEbnEU5HQUApB1tm1X) | 3:42 |
-| 55 | [Tequila](https://open.spotify.com/track/6m9MNl1Sgti4I3BWCYLh03) | [Jordiz](https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV), [Danny Ores](https://open.spotify.com/artist/1ngKYk9gnZpMAoaayD6BGY), [Thomas Deil](https://open.spotify.com/artist/5uYKQrTEx51AOXot2Z2Czl) | [Tequila](https://open.spotify.com/album/3k88HYE8mWwdcQM2F2y8aw) | 1:35 |
-| 56 | [Fireflies](https://open.spotify.com/track/7hCKMM8TayzGLx0pWBdE1K) | [Vertile](https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH) | [Fireflies](https://open.spotify.com/album/6nOapUMLsTZEAmqImAeIHv) | 2:33 |
-| 57 | [One of Us](https://open.spotify.com/track/7dknNu0AKdvXCK0hqEaNDm) | [Lost Identity](https://open.spotify.com/artist/5jZCC6U5CO2Ta3JHZIgh8h), [Eveek](https://open.spotify.com/artist/4Eei141tHJhmr3vvM8iHfw), [Leona Shijaku](https://open.spotify.com/artist/2SPGwFrMaYqLLe3sMorkAj) | [One of Us](https://open.spotify.com/album/1pWVZloEB2dDB2edctOZKR) | 2:20 |
+| 55 | [One of Us](https://open.spotify.com/track/7dknNu0AKdvXCK0hqEaNDm) | [Lost Identity](https://open.spotify.com/artist/5jZCC6U5CO2Ta3JHZIgh8h), [Eveek](https://open.spotify.com/artist/4Eei141tHJhmr3vvM8iHfw), [Leona Shijaku](https://open.spotify.com/artist/2SPGwFrMaYqLLe3sMorkAj) | [One of Us](https://open.spotify.com/album/1pWVZloEB2dDB2edctOZKR) | 2:20 |
+| 56 | [Tequila](https://open.spotify.com/track/6m9MNl1Sgti4I3BWCYLh03) | [Jordiz](https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV), [Danny Ores](https://open.spotify.com/artist/1ngKYk9gnZpMAoaayD6BGY), [Thomas Deil](https://open.spotify.com/artist/5uYKQrTEx51AOXot2Z2Czl) | [Tequila](https://open.spotify.com/album/3k88HYE8mWwdcQM2F2y8aw) | 1:35 |
+| 57 | [Fireflies](https://open.spotify.com/track/7hCKMM8TayzGLx0pWBdE1K) | [Vertile](https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH) | [Fireflies](https://open.spotify.com/album/6nOapUMLsTZEAmqImAeIHv) | 2:33 |
 | 58 | [Hangover](https://open.spotify.com/track/6HgeLV4tJi30yZV1pBg5sT) | [Serzo](https://open.spotify.com/artist/3OhUveXjN6gDbNt7ygN8z6) | [Hangover](https://open.spotify.com/album/5eNjBM5cT4BHQfsoXnkwo8) | 2:50 |
 | 59 | [Liberté \- Sefa & Outsiders Remix](https://open.spotify.com/track/3oNDynp3Y6F9NvCMqvoxYI) | [Parla & Pardoux](https://open.spotify.com/artist/3qt7yUEE6loq4FEGM7aw3M), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Sefa](https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI) | [Liberté \(Sefa & Outsiders Remix\)](https://open.spotify.com/album/3p7eNUcZSoiMT4XPYr4doO) | 3:00 |
 | 60 | [Cry For You](https://open.spotify.com/track/1RiqdvtgfR0yI6oj60AgiJ) | [Bloodlust](https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp) | [Cry For You](https://open.spotify.com/album/3ETkl7tsz902xmWHA9yljQ) | 2:48 |

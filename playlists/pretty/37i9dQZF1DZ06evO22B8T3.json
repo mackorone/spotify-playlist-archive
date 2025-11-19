@@ -1,12 +1,12 @@
 {
   "description": "This is Paulo Londra. The essential tracks, all in one playlist.",
-  "num_followers": 1308141,
+  "num_followers": 1308119,
   "original_name": "This Is Paulo Londra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRkUAAAAAADgfTlHkHNC1vhnx3YTouH6",
+  "snapshot_id": "aRplgAAAAAD1XKyhbitpmw5bwQELJsDC",
   "tracks": [
     {
       "added_at": null,
@@ -791,22 +791,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Hicimo'",
-        "url": "https://open.spotify.com/album/4S2JV29tQCqFWWNTxAdNQQ"
+        "name": "No.6 Collaborations Project",
+        "url": "https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx"
       },
       "artists": [
         {
-          "name": "Rusherking",
-          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         },
         {
           "name": "Paulo Londra",
           "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        },
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
         }
       ],
-      "duration_ms": 165000,
-      "name": "Que Hicimo'",
-      "url": "https://open.spotify.com/track/2tklBuZxZEEJMlhrlzc2CB"
+      "duration_ms": 200733,
+      "name": "Nothing On You (feat. Paulo Londra & Dave)",
+      "url": "https://open.spotify.com/track/2qRN7PWiHRLprw4FpDeI9N"
     },
     {
       "added_at": null,
@@ -831,26 +835,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "No.6 Collaborations Project",
-        "url": "https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx"
+        "name": "Que Hicimo'",
+        "url": "https://open.spotify.com/album/4S2JV29tQCqFWWNTxAdNQQ"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
         },
         {
           "name": "Paulo Londra",
           "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        },
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
         }
       ],
-      "duration_ms": 200733,
-      "name": "Nothing On You (feat. Paulo Londra & Dave)",
-      "url": "https://open.spotify.com/track/2qRN7PWiHRLprw4FpDeI9N"
+      "duration_ms": 165000,
+      "name": "Que Hicimo'",
+      "url": "https://open.spotify.com/track/2tklBuZxZEEJMlhrlzc2CB"
     },
     {
       "added_at": null,

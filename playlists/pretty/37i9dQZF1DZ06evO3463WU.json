@@ -1,12 +1,12 @@
 {
   "description": "This is Pancho Barraza. The essential tracks, all in one playlist.",
-  "num_followers": 156974,
+  "num_followers": 156982,
   "original_name": "This Is Pancho Barraza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRkUAAAAAAA2BjO0qb3NOIVyoIWLBlTP",
+  "snapshot_id": "aRplgAAAAADa6yR1S8MsEnq7Wwe5Zmn+",
   "tracks": [
     {
       "added_at": null,
@@ -75,26 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inv\u00e9ntame Un Amor",
-        "url": "https://open.spotify.com/album/5dBVOTpKgEeHf9pAYDJ86J"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        },
-        {
-          "name": "Mariachi Santa Mar\u00eda",
-          "url": "https://open.spotify.com/artist/54oub6uzta6IHPRNCQlttQ"
-        }
-      ],
-      "duration_ms": 227288,
-      "name": "Pero La Recuerdo (Cumbia Santa Mar\u00eda)",
-      "url": "https://open.spotify.com/track/7xbRLQyE9t7zkA3osC8S2d"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis 30 Aniversario (Vol. 2)",
         "url": "https://open.spotify.com/album/3BqOgYXxME54BrztDdurEx"
       },
@@ -111,6 +91,26 @@
       "duration_ms": 232573,
       "name": "M\u00fasica Rom\u00e1ntica",
       "url": "https://open.spotify.com/track/3FcZPkGjG64z5cJYXPlUHC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inv\u00e9ntame Un Amor",
+        "url": "https://open.spotify.com/album/5dBVOTpKgEeHf9pAYDJ86J"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Mariachi Santa Mar\u00eda",
+          "url": "https://open.spotify.com/artist/54oub6uzta6IHPRNCQlttQ"
+        }
+      ],
+      "duration_ms": 227288,
+      "name": "Pero La Recuerdo (Cumbia Santa Mar\u00eda)",
+      "url": "https://open.spotify.com/track/7xbRLQyE9t7zkA3osC8S2d"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Canciones de Amor (Remastered 2025)",
-        "url": "https://open.spotify.com/album/0D3rX7WGeU6Z6b30SuzHm0"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 193177,
-      "name": "Adi\u00f3s, Adi\u00f3s - Remastered 2025",
-      "url": "https://open.spotify.com/track/5M9l7wWUD1PrgJO3ZOs300"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mas Fuerte Que Nunca",
         "url": "https://open.spotify.com/album/0KGj7OkeA9Rm6yZ0pVhZZL"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 157175,
       "name": "Nunca Cambies",
       "url": "https://open.spotify.com/track/2aZkwq6MoLBdSDcm8L09mP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis Canciones de Amor (Remastered 2025)",
+        "url": "https://open.spotify.com/album/0D3rX7WGeU6Z6b30SuzHm0"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 193177,
+      "name": "Adi\u00f3s, Adi\u00f3s - Remastered 2025",
+      "url": "https://open.spotify.com/track/5M9l7wWUD1PrgJO3ZOs300"
     },
     {
       "added_at": null,

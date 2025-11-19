@@ -8633,7 +8633,7 @@
       "date_added": "2019-08-01",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 248413,
+      "duration_ms": 247632,
       "name": "Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]",
       "url": "https://open.spotify.com/track/2Foc5Q5nqNiosCNqttzHof"
     },
@@ -8828,7 +8828,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 217933,
       "name": "Ghost In My Machine",
       "url": "https://open.spotify.com/track/3i2paLDZV1YfvbNo0i39iR"
@@ -9588,7 +9588,7 @@
       ],
       "date_added": "2021-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-30",
+      "date_removed": null,
       "duration_ms": 234652,
       "name": "Green Light",
       "url": "https://open.spotify.com/track/6ie2Bw3xLj2JcGowOlcMhb"
@@ -11968,7 +11968,7 @@
       ],
       "date_added": "2021-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-15",
+      "date_removed": null,
       "duration_ms": 157152,
       "name": "I Love It (feat. Charli XCX)",
       "url": "https://open.spotify.com/track/2U8NXPTXZWG2O0ye2sYRiH"
@@ -25395,6 +25395,24 @@
     },
     {
       "album": {
+        "name": "Telephone Busy",
+        "url": "https://open.spotify.com/album/08VCKSJ3j5Cgvkq5DM0cH2"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195806,
+      "name": "Telephone Busy",
+      "url": "https://open.spotify.com/track/6j0MEtClnzHKW6YLusvlfC"
+    },
+    {
+      "album": {
         "name": "Come On Over",
         "url": "https://open.spotify.com/album/1Xq7GtFHmTt110bmxQrtC4"
       },
@@ -25990,7 +26008,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 188712,
       "name": "The Suburbs",
       "url": "https://open.spotify.com/track/2WIvvJ2xRJ71hxmNRr3RtU"
@@ -28024,7 +28042,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 184444,
       "name": "Walk On",
       "url": "https://open.spotify.com/track/3wiar5pZqPOwzC2aC2frcq"
@@ -29389,7 +29407,7 @@
       "date_added": "2019-08-06",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 214480,
+      "duration_ms": 214477,
       "name": "Work from Home (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/4tCtwWceOPWzenK2HAIJSb"
     },

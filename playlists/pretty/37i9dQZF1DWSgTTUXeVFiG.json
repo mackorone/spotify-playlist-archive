@@ -1,6 +1,6 @@
 {
   "description": "Los \u00e9xitos de siempre en concierto. Foto: Celia Cruz",
-  "num_followers": 31401,
+  "num_followers": 31415,
   "original_name": "Vivo de Salsa",
   "owner": {
     "name": "Spotify",
@@ -611,6 +611,22 @@
     {
       "added_at": "2024-09-24 20:35:55",
       "album": {
+        "name": "45 Aniversario",
+        "url": "https://open.spotify.com/album/5T5SzOvy6RDvdKOQre31BR"
+      },
+      "artists": [
+        {
+          "name": "Sonora Ponce\u00f1a",
+          "url": "https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa"
+        }
+      ],
+      "duration_ms": 812973,
+      "name": "Boranda",
+      "url": "https://open.spotify.com/track/029UVd2kWFQVuCJZ7ekuNX"
+    },
+    {
+      "added_at": "2024-09-24 20:35:55",
+      "album": {
         "name": "40 Anniversary (Live Hits)",
         "url": "https://open.spotify.com/album/43VEjj157u4fGnlw4QN9vL"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 286573,
       "name": "Lobo Domesticado \"En Vivo\"",
       "url": "https://open.spotify.com/track/5i784rg3A3YFVFE8YXLfme"
-    },
-    {
-      "added_at": "2024-09-24 20:35:55",
-      "album": {
-        "name": "45 Aniversario",
-        "url": "https://open.spotify.com/album/5T5SzOvy6RDvdKOQre31BR"
-      },
-      "artists": [
-        {
-          "name": "Sonora Ponce\u00f1a",
-          "url": "https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa"
-        }
-      ],
-      "duration_ms": 812973,
-      "name": "Boranda",
-      "url": "https://open.spotify.com/track/029UVd2kWFQVuCJZ7ekuNX"
     },
     {
       "added_at": "2024-09-24 20:35:55",
@@ -735,6 +735,22 @@
     {
       "added_at": "2024-09-24 20:35:55",
       "album": {
+        "name": "30 A\u00f1os de Power",
+        "url": "https://open.spotify.com/album/6nh67Ew5axaX1hW0WO4JlI"
+      },
+      "artists": [
+        {
+          "name": "Luisito Ayala Y La Puerto Rican Power",
+          "url": "https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7"
+        }
+      ],
+      "duration_ms": 330800,
+      "name": "Qui\u00e9reme Tal Como Soy - Live",
+      "url": "https://open.spotify.com/track/75y9r2v3m3hOdNUJwWDzLZ"
+    },
+    {
+      "added_at": "2024-09-24 20:35:55",
+      "album": {
         "name": "En Vivo Desde Bellas Artes",
         "url": "https://open.spotify.com/album/7GjrbV5AIgz240w67gmVCs"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 278866,
       "name": "Tu Loco, Loco, Y Yo Tranquilo - En Vivo",
       "url": "https://open.spotify.com/track/5ZnS39e15qQqAFS7lgCPE1"
-    },
-    {
-      "added_at": "2024-09-24 20:35:55",
-      "album": {
-        "name": "30 A\u00f1os de Power",
-        "url": "https://open.spotify.com/album/6nh67Ew5axaX1hW0WO4JlI"
-      },
-      "artists": [
-        {
-          "name": "Luisito Ayala Y La Puerto Rican Power",
-          "url": "https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7"
-        }
-      ],
-      "duration_ms": 330800,
-      "name": "Qui\u00e9reme Tal Como Soy - Live",
-      "url": "https://open.spotify.com/track/75y9r2v3m3hOdNUJwWDzLZ"
     },
     {
       "added_at": "2024-09-24 20:35:55",

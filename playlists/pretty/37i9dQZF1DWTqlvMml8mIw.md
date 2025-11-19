@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTqlvMml8mIw.md) - [plain]
 
 > We’re fired up\. Celebrate the new season of FX’s The Bear with music from the series\. All episodes now streaming on Hulu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,820 likes - 200 songs - 14 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,866 likes - 200 songs - 14 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,7 +131,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTqlvMml8mIw.md) - [plain]
 | 121 | [Bastards of Young](https://open.spotify.com/track/3zqMPITQwlKB1bm0owNsJF) | [The Replacements](https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3) | [Tim](https://open.spotify.com/album/1yO2d1lmmu0tkDf3trvOm7) | 3:37 |
 | 122 | [Total Control](https://open.spotify.com/track/6H1Kjxu2NlJCMxg0Pay0Rd) | [The Motels](https://open.spotify.com/artist/6scOultrkXrQsClcbGKM7e) | [The Motels](https://open.spotify.com/album/4DTDui9VdOwPXkNjh5LejY) | 5:54 |
 | 123 | [Anytime \- Live](https://open.spotify.com/track/03wFdTor8H73UM8ftnc4Sv) | [Neil Finn](https://open.spotify.com/artist/183DuT2WcaEO2tclTJW1tU) | [7 Worlds Collide \(Live at the St\. James\)](https://open.spotify.com/album/4DThFe2rH1otgsr59lymSu) | 3:32 |
-| 124 | [Pretty in Pink](https://open.spotify.com/track/1K1TFdBh7NrDyKiwiJEmsy) | [The Psychedelic Furs](https://open.spotify.com/artist/0O0lrN34wrcuBenkqlEDZe) | [Talk Talk Talk](https://open.spotify.com/album/2fwQTAo511xnTWUYJ1Gnrh) | 3:58 |
+| 124 | [Pretty In Pink](https://open.spotify.com/track/1K1TFdBh7NrDyKiwiJEmsy) | [The Psychedelic Furs](https://open.spotify.com/artist/0O0lrN34wrcuBenkqlEDZe) | [Talk Talk Talk](https://open.spotify.com/album/2fwQTAo511xnTWUYJ1Gnrh) | 3:58 |
 | 125 | [Before The Next Teardrop Falls](https://open.spotify.com/track/2SVW5774QbmEjWfbHOEnz3) | [Freddy Fender](https://open.spotify.com/artist/0SNdq9iJyup4XY6JbNHbt6) | [Before The Next Teardrop Falls](https://open.spotify.com/album/3gy2ynEvSm1yV3gydcPWxd) | 2:29 |
 | 126 | [Here Comes the Night \- Live](https://open.spotify.com/track/1B22ss1mQxvNBUich822Of) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [..It's Too Late to Stop Now...Volume I](https://open.spotify.com/album/7ycOIZnRNdpnAEaHXZwah4) | 3:13 |
 | 127 | [Can't Hardly Wait](https://open.spotify.com/track/5Yhtl4uzxrAigO0IbiaEmz) | [The Replacements](https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3) | [Pleased to Meet Me](https://open.spotify.com/album/1dXWzQaQR2CSEoIKGMciCD) | 3:03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5TIUNEibWO.md) - [plain]
 
 > Ghanaian Highlife Classics
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,613 likes - 80 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,622 likes - 80 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5TIUNEibWO.md) - [plain]
 | 44 | [Belembe](https://open.spotify.com/track/0tyLW6jM3qoTsG8srHTi16) | [Bessa Simons](https://open.spotify.com/artist/5W5greBancNhmyAm5XCbBA) | [Best of Bessa Simons](https://open.spotify.com/album/7tafil3DDAxxz4bZcwwwmq) | 6:35 |
 | 45 | [Sherry](https://open.spotify.com/track/0Lal2wxOG7u95l7hz6TYxO) | [Kofi B](https://open.spotify.com/artist/0aaLDXAqIRn6IjdUTDZC3O), [Yoggi Doggi](https://open.spotify.com/artist/40hJgIb4amRIThJR0nAc6s) | [Twa Me Ke Ke](https://open.spotify.com/album/18lUsdGaHx5lUeYsZ99snM) | 5:31 |
 | 46 | [Onyame Ehu Wo](https://open.spotify.com/track/6aE85LSDkZkJ8h0WDDoMhI) | [K\. K\. Kabobo](https://open.spotify.com/artist/3F6YqDrWOs7y5rhLhfh0eq) | [My Sweetheart](https://open.spotify.com/album/7iL0RAeJ5oGgkThuw1I7AJ) | 5:22 |
-| 47 | [All for You](https://open.spotify.com/track/1BV8PaVQg6M49hlDMs5tA4) | [E.T\. Mensah](https://open.spotify.com/artist/4iT5xSPkGz0b9xj528RKvH), [The Tempos](https://open.spotify.com/artist/6vWc4bf4L0lLPEzkXPE2vm) | [All For You, Classic Highlife Recordings From The 1950s](https://open.spotify.com/album/0Yo9mXSl3r5r6EtlEsJVRN) | 2:43 |
-| 48 | [Veranda](https://open.spotify.com/track/661VXHANy2wLEQftFosxuH) | [Samuel Owusu](https://open.spotify.com/artist/722O5pQlnI9WNQEx3iO8am) | [Veranda](https://open.spotify.com/album/5NlpTtYLQea0k9Sk4j6vg5) | 6:00 |
+| 47 | [Veranda](https://open.spotify.com/track/661VXHANy2wLEQftFosxuH) | [Samuel Owusu](https://open.spotify.com/artist/722O5pQlnI9WNQEx3iO8am) | [Veranda](https://open.spotify.com/album/5NlpTtYLQea0k9Sk4j6vg5) | 6:00 |
+| 48 | [All for You](https://open.spotify.com/track/1BV8PaVQg6M49hlDMs5tA4) | [E.T\. Mensah](https://open.spotify.com/artist/4iT5xSPkGz0b9xj528RKvH), [The Tempos](https://open.spotify.com/artist/6vWc4bf4L0lLPEzkXPE2vm) | [All For You, Classic Highlife Recordings From The 1950s](https://open.spotify.com/album/0Yo9mXSl3r5r6EtlEsJVRN) | 2:43 |
 | 49 | [Alomo Ketewa](https://open.spotify.com/track/2oyUbRmfq7fVTxZVa1ZgJu) | [Naa Agyeman](https://open.spotify.com/artist/0ISqwjoEAGZoZHuYFYBqAJ) | [Alomo Ketewa](https://open.spotify.com/album/2WW00lWxkXUj8oi9Tge9Yp) | 5:33 |
 | 50 | [Meridian](https://open.spotify.com/track/71x2VPLAGpTUQ8Md9t8An6) | [Wulomei](https://open.spotify.com/artist/6WzfiML2Juo5YqGItmsRAH) | [Wulomei Returns](https://open.spotify.com/album/6m86XGQrgOFLYKRdriilyx) | 4:35 |
 | 51 | [Abena](https://open.spotify.com/track/1gl5CQSfwBvDOQ6i2oZfmt) | [Jewel Ackah](https://open.spotify.com/artist/4hlbgeuEnNUQobir5m32N4) | [Dig The Hilife Bump](https://open.spotify.com/album/102zAbr1IfMh6R8BKSOmuR) | 7:10 |

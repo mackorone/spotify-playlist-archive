@@ -1211,6 +1211,24 @@
     },
     {
       "album": {
+        "name": "ELA MANA",
+        "url": "https://open.spotify.com/album/5NDghfuOVIJN3n90cNnBfx"
+      },
+      "artists": [
+        {
+          "name": "Y\u00fcksel Baltac\u0131",
+          "url": "https://open.spotify.com/artist/5tlE5dBPT5muL6dpPSExWw"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264600,
+      "name": "ELA MANA",
+      "url": "https://open.spotify.com/track/4uxsrixGArx2vuhjssHDVP"
+    },
+    {
+      "album": {
         "name": "Elini Ver",
         "url": "https://open.spotify.com/album/5r0s3anoC7C85G0NvcC0yN"
       },
@@ -1240,7 +1258,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 269557,
       "name": "Es",
       "url": "https://open.spotify.com/track/6hBmElorXW8xsvKbqzXzD6"
@@ -1384,7 +1402,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 264000,
       "name": "Galata",
       "url": "https://open.spotify.com/track/0w5mKLexkMJqgcMpjLmqq6"
@@ -1442,6 +1460,24 @@
       "duration_ms": 198577,
       "name": "Geri D\u00f6n\u00fc\u015f Olsa",
       "url": "https://open.spotify.com/track/1KtqOkEN42OUqs9ombxk1E"
+    },
+    {
+      "album": {
+        "name": "Geri Ver",
+        "url": "https://open.spotify.com/album/5mFTXf9dPQ6cTxbt7nuHpw"
+      },
+      "artists": [
+        {
+          "name": "Wegh",
+          "url": "https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169411,
+      "name": "Geri Ver",
+      "url": "https://open.spotify.com/track/6fCS2Zg9OKiWh51TbFFWXG"
     },
     {
       "album": {

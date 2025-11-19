@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYKwAtV4NDh.md) - [plain]
 
 > A deep and concise look at the music that made Country Music what is is today\. Covers eras <br/>1930's \- 1990.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,418 likes - 107 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,476 likes - 107 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,15 +71,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYKwAtV4NDh.md) - [plain]
 | 61 | [Man in Black](https://open.spotify.com/track/7wL9EVloIobMw22rT7Ve8x) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Man In Black](https://open.spotify.com/album/3fH6txVtapyIaCdoJkUNTd) | 2:52 |
 | 62 | [Nashville Cats \- 2003 Remaster](https://open.spotify.com/track/4WVDaesMXyHKO8jyr9w6tE) | [The Lovin' Spoonful](https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe) | [Hums Of The Lovin' Spoonful](https://open.spotify.com/album/3enoBBhSA6i2pXEP8rjAWY) | 2:34 |
 | 63 | [Foggy Mountain Breakdown](https://open.spotify.com/track/29qFlNOssruDfoEN8vN2Uu) | [Flatt & Scruggs](https://open.spotify.com/artist/1iNNWK8bYjc5EK0waLk1J1) | [Town and Country](https://open.spotify.com/album/5HVcZRoUGq2WdjAKiIARU5) | 2:20 |
-| 64 | [Jolene](https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene](https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj) | 2:41 |
-| 65 | [I Will Always Love You](https://open.spotify.com/track/6nRvgo4ySezQKD1D7NIqAu) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene](https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj) | 2:56 |
+| 64 | [Jolene](https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene](https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj) | 2:43 |
+| 65 | [I Will Always Love You](https://open.spotify.com/track/6nRvgo4ySezQKD1D7NIqAu) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene](https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj) | 2:57 |
 | 66 | [Golden Ring](https://open.spotify.com/track/5HywRUoXNfWpiR1dAwoZip) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5), [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id) | [George Jones and Tammy Wynette \- 16 Biggest Hits](https://open.spotify.com/album/5h63tAdWuGRqDkCrdvm4Gs) | 3:02 |
 | 67 | [Texas Cookin'](https://open.spotify.com/track/6uhBxmlfzIbxpIBRteQUQL) | [Guy Clark](https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq) | [Texas Cookin](https://open.spotify.com/album/2NPT5jU2CNKwU1f8IdaAMF) | 3:48 |
 | 68 | [If I Needed You](https://open.spotify.com/track/3FMQnxcc6FcPscLeLqtW5S) | [Townes Van Zandt](https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof) | [The Late Great Townes Van Zandt](https://open.spotify.com/album/2GkG26CJD8opQ9PDfkaEB6) | 3:44 |
 | 69 | [I Can't Stop Loving You](https://open.spotify.com/track/4xKmvpMTknbvMj1cE04Dtg) | [Johnny Rodriguez](https://open.spotify.com/artist/5hYruMimtF8axJGLsFpfoU) | [Country Music \- A Film by Ken Burns \(The Soundtrack\) \[Deluxe\]](https://open.spotify.com/album/3ZAFnRYQRAiBplISQFj7nC) | 2:56 |
-| 70 | [I've Been a Long Time Leaving \(But I'll Be a Long Time Gone\)](https://open.spotify.com/track/0r8dEfqyiVgAPSv2Q6grMy) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM) | [Dreaming My Dreams](https://open.spotify.com/album/2iZvfv5wU8DxGm2o2O1dis) | 2:42 |
+| 70 | [I've Been a Long Time Leaving \(But I'll Be a Long Time Gone\)](https://open.spotify.com/track/0r8dEfqyiVgAPSv2Q6grMy) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM) | [Dreaming My Dreams](https://open.spotify.com/album/2iZvfv5wU8DxGm2o2O1dis) | 2:44 |
 | 71 | [Love Hurts \(with The Fallen Angels\) \- Live](https://open.spotify.com/track/33Qw3Gl3PZqs4kqR4VIEqC) | [Gram Parsons](https://open.spotify.com/artist/1KA3WXYMPLxomNuoE22LYd), [The Fallen Angels](https://open.spotify.com/artist/6Sm7fCHCdnZgqcBGl3u9Cu) | [Country Music \- A Film by Ken Burns \(The Soundtrack\) \[Deluxe\]](https://open.spotify.com/album/3ZAFnRYQRAiBplISQFj7nC) | 4:44 |
-| 72 | [Are You Sure Hank Done It This Way](https://open.spotify.com/track/5Z0Khiz8xgC8AYMr4ctS8Y) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM) | [Dreaming My Dreams](https://open.spotify.com/album/2iZvfv5wU8DxGm2o2O1dis) | 2:54 |
+| 72 | [Are You Sure Hank Done It This Way](https://open.spotify.com/track/5Z0Khiz8xgC8AYMr4ctS8Y) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM) | [Dreaming My Dreams](https://open.spotify.com/album/2iZvfv5wU8DxGm2o2O1dis) | 2:58 |
 | 73 | [Boulder to Birmingham \- 2003 Remaster](https://open.spotify.com/track/05XNDab0Lhitzqk7tRpOnY) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Pieces of the Sky \(Expanded & Remastered\)](https://open.spotify.com/album/04TlWfr3EnQE47HyNTBnex) | 3:33 |
 | 74 | [Bluebird Wine \- 2003 Remaster](https://open.spotify.com/track/6GjOc3ZlVOzkHJJUzar2rl) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Pieces of the Sky \(Expanded & Remastered\)](https://open.spotify.com/album/04TlWfr3EnQE47HyNTBnex) | 3:17 |
 | 75 | [Mule Skinner Blues \(Blue Yodel No\. 8\)](https://open.spotify.com/track/1XChvxIUbR911TOb0HhNJi) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [The Essential Dolly Parton](https://open.spotify.com/album/57T5WXyeDI1wJzvoGva1GS) | 3:08 |

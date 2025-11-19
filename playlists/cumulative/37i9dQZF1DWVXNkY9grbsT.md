@@ -4,7 +4,7 @@
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Photo by David Wolff via Getty Images
 
-575 songs - 1 day 23 hr 41 min
+576 songs - 1 day 23 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Adagio I \- Mut](https://open.spotify.com/track/6qgzqQRF5KVmzsd9PsFZmP) | [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C) | [Nothing Lasts Forever](https://open.spotify.com/album/1G4cROLKOADQHqhNeCzGqC) | 4:46 | 2022-02-11 | 2024-08-29 |
 | [Affiliate](https://open.spotify.com/track/3ibSQOkXDoVtr5o5izWwC9) | [Tangent](https://open.spotify.com/artist/1Ad0cOIi5d9YkVsRMLWegv), [Dryft](https://open.spotify.com/artist/15XyOjcwHR1BLzZDpcja9f) | [Acquiesce](https://open.spotify.com/album/7brmSCmB5orSsJgGJULcqx) | 4:08 | 2021-12-26 | 2023-04-30 |
 | [Afrodisia](https://open.spotify.com/track/6xD2aDniPCEYLB3zi5GE3i) | [Samuele CYMA](https://open.spotify.com/artist/1RXsSSM8C7wdG5FSxDTMFM) | [Afrodisia](https://open.spotify.com/album/0Bcq3HvI1e6pCiXj3RRlUT) | 9:00 | 2025-04-18 | 2025-11-15 |
-| [After the Rain](https://open.spotify.com/track/7o20ATLEOEw9xpAN1dx9Rn) | [Cole Pulice](https://open.spotify.com/artist/7JUWlvLs6PzPMLryj6sdCh) | [After the Rain](https://open.spotify.com/album/5wPmRnCE9RttrYzug8zFyp) | 9:00 | 2025-04-11 |  |
+| [After the Rain](https://open.spotify.com/track/7o20ATLEOEw9xpAN1dx9Rn) | [Cole Pulice](https://open.spotify.com/artist/7JUWlvLs6PzPMLryj6sdCh) | [After the Rain](https://open.spotify.com/album/5wPmRnCE9RttrYzug8zFyp) | 9:00 | 2025-04-11 | 2025-11-19 |
 | [Afterglow](https://open.spotify.com/track/1tvrdTMUPrL5QAAUu2mBpL) | [Tim Angrave](https://open.spotify.com/artist/6y9JXfBjqfOAql3YYLaNJm) | [Afterglow](https://open.spotify.com/album/0Bp2qglhyUtYpSwCII3ayZ) | 5:52 | 2022-03-25 | 2024-07-05 |
 | [Agalma V](https://open.spotify.com/track/6pwsr8MsXAGYWHeJirQyRW) | [Drew McDowall](https://open.spotify.com/artist/3jAdN6k0KlW1X48AUizxn4), [Kali Malone](https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9) | [Agalma](https://open.spotify.com/album/2y82aUBnl81FdYBLqpA1C6) | 7:30 | 2022-08-19 | 2023-08-12 |
 | [Agalma V \(ft\. Kali Malone\)](https://open.spotify.com/track/6NwJpEnFkWdCYst3iBYCcn) | [Drew McDowall](https://open.spotify.com/artist/3jAdN6k0KlW1X48AUizxn4), [Kali Malone](https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9) | [Agalma V \(ft\. Kali Malone\)](https://open.spotify.com/album/0mbSK7lbwq2Rgfv352bAQv) | 7:30 | 2021-12-26 | 2022-07-24 |
@@ -337,6 +337,7 @@
 | [My Attitude My Horoscope](https://open.spotify.com/track/40k3WtyFY8mGEsiazBDLCf) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689) | [My Attitude My Horoscope](https://open.spotify.com/album/3mgpZiJq4odqZQ9QCbiSGY) | 4:09 | 2021-12-26 | 2022-07-27 |
 | [My People Have Deep Roots](https://open.spotify.com/track/0Xkmp9DkqHvz5EnA7VZPD0) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ) | [Under the Lilac Sky](https://open.spotify.com/album/6LPHMEFOuoscZzQQG2UJEj) | 4:00 | 2023-07-21 | 2023-08-12 |
 | [My People Have Deep Roots](https://open.spotify.com/track/5taMzHf1NWTcjLxGAn3DhX) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ) | [My People Have Deep Roots](https://open.spotify.com/album/4zkFQ6mn79zECO6tQh3I5d) | 4:00 | 2021-12-26 | 2023-07-30 |
+| [nervoussystems](https://open.spotify.com/track/3jxC89DNynpDxnvcVP9oPz) | [the River Twice](https://open.spotify.com/artist/3NwUtDLBFyWbwomSgZ6b1L) | [nervoussystems](https://open.spotify.com/album/7LnkZBWhcP1tFGiKMEEI7i) | 3:44 | 2025-11-18 |  |
 | [Netsuke From The Garden](https://open.spotify.com/track/7yDZCtUYyBC1dglmHKIsby) | [Graintable](https://open.spotify.com/artist/0NXPdtXsGvsPSQ68kmFqfG) | [Music to Watch Seeds Grow By 003: Graintable \(Blue Flax\)](https://open.spotify.com/album/7Biwp91nueC53JYdwbDk0a) | 4:22 | 2025-06-06 | 2025-09-04 |
 | [new links](https://open.spotify.com/track/2MFXIYR10k8fUumqanMSLI) | [Anysia Kym](https://open.spotify.com/artist/03546gvcoicKs6C10YdXvk), [Loraine James](https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3) | [Clandestine](https://open.spotify.com/album/5rIausjHvphykBRA3h1aMF) | 2:36 | 2025-05-12 |  |
 | [Night Journeys I](https://open.spotify.com/track/3FCmel7RBlvT01EJGA4QEq) | [Courtesy](https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN) | [Night Journeys](https://open.spotify.com/album/3re0yXQcWx7n6FOZbmSgcY) | 3:06 | 2022-03-25 | 2025-05-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 392 songs - 22 hr 35 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 394 songs - 22 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -400,5 +400,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 390 | [バッドエンド・エトセトラ](https://open.spotify.com/track/7jG8STJAaqnVZOETHa8bUV) | [ないきすと！](https://open.spotify.com/artist/6LjAPlaRzCuuoih9wyrS1k) | [バッドエンド・エトセトラ](https://open.spotify.com/album/3kDQISpwrueaYPtrvJGI3b) | 1:53 |
 | 391 | [Otona no Jijo](https://open.spotify.com/track/6BfDkvp3wJq7cA0xDWDHAI) | [Za Ninngenn](https://open.spotify.com/artist/4FwqgQ92TpsuzQ82fIosrX) | [Sanman](https://open.spotify.com/album/0kYhbt34EkgHrtBq54eSog) | 3:18 |
 | 392 | [「THE KINKY」](https://open.spotify.com/track/1qwUmmAIB2jdkX4trCXz9P) | [DADAROMA](https://open.spotify.com/artist/65u1WZsa68wCWFOexGZuz1) | [「This is ”LIVE”」](https://open.spotify.com/album/6ihgmiFs9vVhmeMya8039J) | 3:26 |
+| 393 | [sneer](https://open.spotify.com/track/49iPWsVzlm4lkcVbeq6pqN) | [KOMEDAWARA](https://open.spotify.com/artist/5IHeMc4VSgGZyQBBeZhY3F), [Una Otomachi](https://open.spotify.com/artist/3hv0cVJtEVUppVUb9Gp5xp) | [sneer](https://open.spotify.com/album/1DN9zA67aiNNClynWkbwUJ) | 3:59 |
+| 394 | [アブノーマリティ・ダンシンガール](https://open.spotify.com/track/3sWcYSiFPCL5CNzU0H5Wau) | [ぐちり](https://open.spotify.com/artist/7AhWr9uwljlOcqY6eiX7ww) | [憂象夢象](https://open.spotify.com/album/5HdP7JlJXuOhqnraTBVeUP) | 3:28 |
 
-Snapshot ID: `AAAJf0JZA9wYcgpSWUYV/cHP3QRZ0G43`
+Snapshot ID: `AAAJgSpHM3XQSM3UQFnPrbrYxnnvCjCp`

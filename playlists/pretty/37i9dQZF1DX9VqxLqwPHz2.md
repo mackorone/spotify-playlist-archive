@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9VqxLqwPHz2.md) - [plain]
 
 > Spotify & Nike present Make Moves: inspiring girls to get moving through music\. What song will you move to today?
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,808 likes - 66 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,837 likes - 66 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9VqxLqwPHz2.md) - [plain]
 | 19 | [Illusion](https://open.spotify.com/track/5q0EXnBYyeCdXD72FzJxH0) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:08 |
 | 20 | [Ain't Your Mama](https://open.spotify.com/track/2hgzdQdnfWwtdpZbhZlV72) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Ain't Your Mama](https://open.spotify.com/album/5Bd99eGJKXoRMnqgqWlWmp) | 3:38 |
 | 21 | [Hurricane](https://open.spotify.com/track/7gQ5c5HY6zMsIck6QLY9dJ) | [Bridgit Mendler](https://open.spotify.com/artist/4VhL8KLjVso4vLfOLVViTb) | [Hello My Name Is...](https://open.spotify.com/album/114sumrk5wTeMWHVin86QC) | 4:03 |
-| 22 | [Proud Mary](https://open.spotify.com/track/6gJdDnF2TzfA1WPMXuCa3x) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [What's Love Got to Do with It?](https://open.spotify.com/album/5HmYiJnUkFuciiqRrAAv4o) | 5:27 |
-| 23 | [No Fear](https://open.spotify.com/track/2H881m3JRA8lpuuwaQL6zy) | [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF) | [No Fear](https://open.spotify.com/album/35uDNZkjmhAEnV3sz9A7jI) | 2:49 |
+| 22 | [No Fear](https://open.spotify.com/track/2H881m3JRA8lpuuwaQL6zy) | [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF) | [No Fear](https://open.spotify.com/album/35uDNZkjmhAEnV3sz9A7jI) | 2:49 |
+| 23 | [Proud Mary](https://open.spotify.com/track/6gJdDnF2TzfA1WPMXuCa3x) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [What's Love Got to Do with It?](https://open.spotify.com/album/5HmYiJnUkFuciiqRrAAv4o) | 5:27 |
 | 24 | [Lush Life](https://open.spotify.com/track/2kvgmr5CFhSvleQqTjB3eP) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/3ciEcHv8axaPC5YHTJ72Bg) | 3:20 |
 | 25 | [ZENZELE \(feat\. Royal MusiQ, Uncool MC, Xduppy, & CowBoii\)](https://open.spotify.com/track/5wYyy08pvNomxBKFa3Bfj6) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Royal MusiQ](https://open.spotify.com/artist/0UDlBvCj6BwV8uYLf8zzKS), [Uncool MC](https://open.spotify.com/artist/6t3c6bpXVLzQGiKf00urM1), [Xduppy](https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i), [CowBoii](https://open.spotify.com/artist/5n0o0t9wgg6uzHqfVd2Yr1) | [4 Da Ho's](https://open.spotify.com/album/3t6qF1HL758mQiMjVHi7m6) | 4:33 |
 | 26 | [Get Right](https://open.spotify.com/track/3jVSV60WZE5jPE2a6KGNFy) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Rebirth](https://open.spotify.com/album/4doYRKxTYYoyeXK66zWsN2) | 3:45 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9VqxLqwPHz2.md) - [plain]
 | 51 | [FREAKY \(JUST MY TYPE\)](https://open.spotify.com/track/37Pvim4Q5XnvMFxaUgBwUl) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [WITH A VENGEANCE](https://open.spotify.com/album/2ZZyA2JIJ49RcwIHpu4mjK) | 4:13 |
 | 52 | [Head Start](https://open.spotify.com/track/4N7alCheeoFUxAAKkuTzU5) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [Head Start](https://open.spotify.com/album/02OOD9WmhXOFZEUsZ7CYQb) | 2:14 |
 | 53 | [Ghana Bop](https://open.spotify.com/track/2tB0TY5qVlyn4Zvk7d3b7Z) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [WONDERGIRL](https://open.spotify.com/album/4Dr0okleRrumtnKtuWkD5a) | 2:44 |
-| 54 | [Pick It Up \(feat\. Selena Gomez\)](https://open.spotify.com/track/02l6cXSMKmizzqOhoYV7sQ) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [AM I THE DRAMA? \(ErrTime Edition\)](https://open.spotify.com/album/6YHIqGYTWdIfuDRokPbCjY) | 2:40 |
-| 55 | [FUORI CONTROLLO](https://open.spotify.com/track/2ZlQtpy3kq2oEzerBx4xj2) | [Marte](https://open.spotify.com/artist/3IWdXZamAg5bhIa0KyRBNb) | [FUORI CONTROLLO](https://open.spotify.com/album/7yvU00Gr156QMndM2IpkfG) | 2:15 |
+| 54 | [FUORI CONTROLLO](https://open.spotify.com/track/2ZlQtpy3kq2oEzerBx4xj2) | [Marte](https://open.spotify.com/artist/3IWdXZamAg5bhIa0KyRBNb) | [FUORI CONTROLLO](https://open.spotify.com/album/7yvU00Gr156QMndM2IpkfG) | 2:15 |
+| 55 | [Pick It Up \(feat\. Selena Gomez\)](https://open.spotify.com/track/02l6cXSMKmizzqOhoYV7sQ) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [AM I THE DRAMA? \(ErrTime Edition\)](https://open.spotify.com/album/6YHIqGYTWdIfuDRokPbCjY) | 2:40 |
 | 56 | [Woman \(Green\)](https://open.spotify.com/track/3ZWvKLyIWv4IvdZOusuuQm) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw) | [Colours](https://open.spotify.com/album/4EoFzMW7gtpxK27BjkKoOd) | 2:51 |
 | 57 | [In My Bag \(feat\. GloRilla\)](https://open.spotify.com/track/6unYuPl8iBohf9Rh2YQASG) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Access All Areas](https://open.spotify.com/album/7tMzgvY6LjjCObfrzLWDyc) | 3:08 |
 | 58 | [Good as Hell](https://open.spotify.com/track/6O6GHxwDSCglrJNk2s389L) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Barbershop: The Next Cut \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ObSqDBs7mTrbhF1noG67r) | 2:38 |

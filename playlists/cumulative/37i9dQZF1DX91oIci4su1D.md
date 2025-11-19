@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a> with Amy Wiles
 
-1,216 songs - 3 day 0 hr 51 min
+1,217 songs - 3 day 0 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [Au79](https://open.spotify.com/track/6ZCDcrD8fetYcBmQOrhLfI) | [Koyah](https://open.spotify.com/artist/3ruRvp4imiIkW1LP666jnd), [Leonard A](https://open.spotify.com/artist/5B96LwVo1fnVehzyyxCzYC) | [Au79](https://open.spotify.com/album/55MZcCAnI1bSM9lE4DWV1v) | 3:41 | 2021-12-17 | 2022-07-13 |
 | [Autumn Avenue](https://open.spotify.com/track/45cSMRawie2kyMBPyO7B0F) | [John O'Callaghan](https://open.spotify.com/artist/6H2JQ8igAAa5UBr2u496mb) | [Autumn Avenue](https://open.spotify.com/album/16Jnds3sUuEA6tkhwHap1p) | 3:23 | 2024-10-25 |  |
 | [Avalanche](https://open.spotify.com/track/17GnspHtyyrQRknKvDdT0N) | [Richard Durand](https://open.spotify.com/artist/7wne8sUhTAJdIsnuO4GjnR), [Driftmoon](https://open.spotify.com/artist/4iMFxtzAcgUfbsagyY3Vla) | [Avalanche](https://open.spotify.com/album/6aQVHmfnrKJD5l5hjahHDR) | 3:06 | 2025-09-19 |  |
-| [Away](https://open.spotify.com/track/19ofHnEgE8dIOaCthpoo84) | [David Forbes](https://open.spotify.com/artist/3kwdB3aUfg0uneHczX2vTG) | [Away](https://open.spotify.com/album/3jdODA321IZNmGAOTjA2DH) | 3:31 | 2025-11-07 |  |
+| [Away](https://open.spotify.com/track/19ofHnEgE8dIOaCthpoo84) | [David Forbes](https://open.spotify.com/artist/3kwdB3aUfg0uneHczX2vTG) | [Away](https://open.spotify.com/album/3jdODA321IZNmGAOTjA2DH) | 3:31 | 2025-11-07 | 2025-11-19 |
 | [Away From You](https://open.spotify.com/track/4DRmet0zFQ4dzQzHRqYbZI) | [Ruben de Ronde](https://open.spotify.com/artist/3q7BRw9D1DupXTONJdr94m), [Kay Wilder](https://open.spotify.com/artist/0ySNFsBXHoZE2NqwM0FCtV) | [Away From You](https://open.spotify.com/album/6Aboyci4QbukIyV93AdcKo) | 3:54 | 2023-10-27 | 2024-10-26 |
 | [Axis](https://open.spotify.com/track/38UsJYw8fM4VZdXEuPW4ae) | [Matt Fax](https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV) | [Axis](https://open.spotify.com/album/3DmMaVUQ3HHziGdN6jgTde) | 3:24 | 2024-10-25 | 2025-09-27 |
 | [Ayla](https://open.spotify.com/track/6iEKR3AUoOM91SKKFPS1k0) | [KASIA](https://open.spotify.com/artist/7eHoBIirKPLD1FtgLZnjFV), [Ayla](https://open.spotify.com/artist/190nhOwQKuDEOv7YKOgnzq) | [Ayla](https://open.spotify.com/album/3agKT48Fj6rcbwwkftFagv) | 3:37 | 2025-01-31 |  |
@@ -213,6 +213,7 @@
 | [Cold Apex](https://open.spotify.com/track/3AKi6t9TXns2AhbVsrty1X) | [Farius](https://open.spotify.com/artist/76hZkywgIhbcrNft5bToXZ) | [Cold Apex](https://open.spotify.com/album/2eez19ZvAfTdYqOxqZPFLK) | 3:49 | 2025-09-12 | 2025-10-12 |
 | [Colder](https://open.spotify.com/track/1bD4mJMfB4xNOyt6EaxFpg) | [MaRLo](https://open.spotify.com/artist/2kd1zg9ZyGG6WjZO2dAsFd), [Monika Santucci](https://open.spotify.com/artist/5E1FAGKopxyWqEREQblCDA) | [Colder](https://open.spotify.com/album/1GAb5vrYO6mt6zdwkvOytZ) | 3:43 | 2021-12-17 | 2022-02-26 |
 | [COLLIDE](https://open.spotify.com/track/1M7h0DxRLM9qctzi9KmdNX) | [Emma Hewitt](https://open.spotify.com/artist/1t65YxEAtU3iii6bCzSGF8), [Ben Nicky](https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA) | [COLLIDE](https://open.spotify.com/album/6XvgbHcI3twBpmW6JIVG03) | 3:29 | 2022-09-30 | 2024-02-17 |
+| [Collide](https://open.spotify.com/track/3cV9sNCtVcTGqNabn599Sd) | [Taylor Torrence](https://open.spotify.com/artist/4PhWdminU7odBReTmyyZrH) | [Collide](https://open.spotify.com/album/5vNgoFH4MvtScyYyWMQSos) | 2:51 | 2025-11-14 |  |
 | [Colour Me](https://open.spotify.com/track/2WiW6RcpDaCivdk7cofdBA) | [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv), [Jan Burton](https://open.spotify.com/artist/5ESBqKoYWcMYwlngYyjcOB) | [Horizons \[Part 1\]](https://open.spotify.com/album/2ju1ICgpwj2sMq5VMoMY8i) | 3:57 | 2022-05-20 | 2023-06-10 |
 | [Come Alive](https://open.spotify.com/track/0OO4gJdvGDN5a6WLioUObV) | [4 Strings](https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id), [KAMA](https://open.spotify.com/artist/3dmaTiNzEiJ1D6YWCAyNM5) | [Come Alive](https://open.spotify.com/album/0FQihea0lY10da6hAwhYvj) | 2:09 | 2023-12-15 | 2024-09-14 |
 | [Coming Home Again](https://open.spotify.com/track/4dpyt1bkbRDxY750vbw1sx) | [Solar Vision](https://open.spotify.com/artist/4wd6bczppl4mNXPyhg0HT4) | [Coming Home Again](https://open.spotify.com/album/6CCnaL2CgbW89JVL7CvdKD) | 3:22 | 2023-06-23 | 2024-07-13 |

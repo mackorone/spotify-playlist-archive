@@ -1,12 +1,12 @@
 {
   "description": "#fyp\n",
-  "num_followers": 835005,
+  "num_followers": 835106,
   "original_name": "t'as la ref ?",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALXVYFOdKiqwnbXXYRGrdcSkUR7Z",
+  "snapshot_id": "AAAAANWHCX9ArxHlhvCuXmH8KsWiuCnP",
   "tracks": [
     {
       "added_at": "2025-11-04 00:39:54",
@@ -177,6 +177,22 @@
       "url": "https://open.spotify.com/track/1REP1cQ1YarUEvQ5krpO53"
     },
     {
+      "added_at": "2025-10-22 14:54:39",
+      "album": {
+        "name": "LOVE YOU",
+        "url": "https://open.spotify.com/album/3m0dYhTtuAIIwlaTofJlkq"
+      },
+      "artists": [
+        {
+          "name": "Nono La Grinta",
+          "url": "https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "LOVE YOU",
+      "url": "https://open.spotify.com/track/35eK52MQkpWLxwyIAGKKXT"
+    },
+    {
       "added_at": "2025-08-01 20:50:24",
       "album": {
         "name": "Tour du monde",
@@ -195,6 +211,26 @@
       "duration_ms": 171489,
       "name": "Tour du monde",
       "url": "https://open.spotify.com/track/3JzeDkdvorMWUvaAnU7BCX"
+    },
+    {
+      "added_at": "2025-11-18 10:40:47",
+      "album": {
+        "name": "Nouvelle \u00c9cole | Saison 4 | Partie 2 (S\u00e9rie Netflix)",
+        "url": "https://open.spotify.com/album/30XbWO5hH3mY4JhP6QZMTx"
+      },
+      "artists": [
+        {
+          "name": "TRZ",
+          "url": "https://open.spotify.com/artist/7cLUwy0R7N8q1YSjHYZdrU"
+        },
+        {
+          "name": "Nouvelle \u00c9cole",
+          "url": "https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ"
+        }
+      ],
+      "duration_ms": 113385,
+      "name": "Animal - Nouvelle \u00c9cole",
+      "url": "https://open.spotify.com/track/6xcKQIsZGEevehOdUe4AyH"
     },
     {
       "added_at": "2025-09-26 19:13:31",
@@ -239,22 +275,6 @@
       "duration_ms": 245556,
       "name": "Sucr\u00e9 Sal\u00e9",
       "url": "https://open.spotify.com/track/7Ms9RTHY835cvJUgS0uqMp"
-    },
-    {
-      "added_at": "2025-10-22 14:54:39",
-      "album": {
-        "name": "LOVE YOU",
-        "url": "https://open.spotify.com/album/3m0dYhTtuAIIwlaTofJlkq"
-      },
-      "artists": [
-        {
-          "name": "Nono La Grinta",
-          "url": "https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "LOVE YOU",
-      "url": "https://open.spotify.com/track/35eK52MQkpWLxwyIAGKKXT"
     },
     {
       "added_at": "2025-11-07 15:41:41",
@@ -1291,22 +1311,6 @@
     {
       "added_at": "2025-09-11 22:00:20",
       "album": {
-        "name": "Anarchie",
-        "url": "https://open.spotify.com/album/2PCRePoUl99wC1gJWKuYDJ"
-      },
-      "artists": [
-        {
-          "name": "40000 Gang",
-          "url": "https://open.spotify.com/artist/5fRri7qy8LZBoywvV7KwV1"
-        }
-      ],
-      "duration_ms": 271400,
-      "name": "Sosa",
-      "url": "https://open.spotify.com/track/39s9RAR6L1BKtqmnyrH815"
-    },
-    {
-      "added_at": "2025-09-11 22:00:20",
-      "album": {
         "name": "OCCUP\u00c9",
         "url": "https://open.spotify.com/album/2iJUkmf3dzaj78SJdmkB2m"
       },
@@ -1371,6 +1375,22 @@
       "duration_ms": 172000,
       "name": "Comportement",
       "url": "https://open.spotify.com/track/2nOZaGwMYt07nXtIeYbEiu"
+    },
+    {
+      "added_at": "2025-09-11 22:00:20",
+      "album": {
+        "name": "Anarchie",
+        "url": "https://open.spotify.com/album/2PCRePoUl99wC1gJWKuYDJ"
+      },
+      "artists": [
+        {
+          "name": "40000 Gang",
+          "url": "https://open.spotify.com/artist/5fRri7qy8LZBoywvV7KwV1"
+        }
+      ],
+      "duration_ms": 271400,
+      "name": "Sosa",
+      "url": "https://open.spotify.com/track/39s9RAR6L1BKtqmnyrH815"
     },
     {
       "added_at": "2025-10-24 11:49:32",

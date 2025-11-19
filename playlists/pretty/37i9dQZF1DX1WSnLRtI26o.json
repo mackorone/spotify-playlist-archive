@@ -1,6 +1,6 @@
 {
   "description": "Let your favorite pop guide you through your daily commute! Cover: Dua Lipa",
-  "num_followers": 434225,
+  "num_followers": 434243,
   "original_name": "Happy Drive",
   "owner": {
     "name": "Spotify",
@@ -180,7 +180,7 @@
           "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
         }
       ],
-      "duration_ms": 229360,
+      "duration_ms": 229358,
       "name": "Time of Our Lives",
       "url": "https://open.spotify.com/track/2bJvI42r8EF3wxjOuDav4r"
     },
@@ -500,7 +500,7 @@
           "url": "https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n"
         }
       ],
-      "duration_ms": 227480,
+      "duration_ms": 227475,
       "name": "Locked Away (feat. Adam Levine)",
       "url": "https://open.spotify.com/track/7x5xYW5W42OGPAdHUyyguy"
     },
@@ -553,6 +553,26 @@
       "url": "https://open.spotify.com/track/2iuZJX9X9P0GKaE93xcPjk"
     },
     {
+      "added_at": "2021-09-20 19:34:04",
+      "album": {
+        "name": "Leave Before You Love Me",
+        "url": "https://open.spotify.com/album/66JuK41D3LpkbX3HCTGcQk"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 154983,
+      "name": "Leave Before You Love Me (with Jonas Brothers)",
+      "url": "https://open.spotify.com/track/4qu63nuBpdn0qHUHuObEj1"
+    },
+    {
       "added_at": "2021-08-25 20:28:57",
       "album": {
         "name": "Cold Heart (PNAU Remix)",
@@ -575,26 +595,6 @@
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz"
-    },
-    {
-      "added_at": "2021-09-20 19:34:04",
-      "album": {
-        "name": "Leave Before You Love Me",
-        "url": "https://open.spotify.com/album/66JuK41D3LpkbX3HCTGcQk"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 154983,
-      "name": "Leave Before You Love Me (with Jonas Brothers)",
-      "url": "https://open.spotify.com/track/4qu63nuBpdn0qHUHuObEj1"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -696,7 +696,7 @@
           "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 214480,
+      "duration_ms": 214477,
       "name": "Work from Home (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/4tCtwWceOPWzenK2HAIJSb"
     },
@@ -840,7 +840,7 @@
           "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
         }
       ],
-      "duration_ms": 222160,
+      "duration_ms": 221900,
       "name": "This Is What You Came For",
       "url": "https://open.spotify.com/track/0azC730Exh71aQlOt9Zj3y"
     },
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-04-13 19:43:54",
       "album": {
-        "name": "Red (Big Machine Radio Release Special)",
-        "url": "https://open.spotify.com/album/4jTYApZPMapg56gRycOn0D"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 219720,
-      "name": "I Knew You Were Trouble.",
-      "url": "https://open.spotify.com/track/6FB3v4YcR57y4tXFcdxI1E"
-    },
-    {
-      "added_at": "2022-04-13 19:43:54",
-      "album": {
         "name": "The Midsummer Station",
         "url": "https://open.spotify.com/album/7gTFf2EWBONpjKVjpWbs5p"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 205933,
       "name": "Good Time",
       "url": "https://open.spotify.com/track/1kPpge9JDLpcj15qgrPbYX"
+    },
+    {
+      "added_at": "2022-04-13 19:43:54",
+      "album": {
+        "name": "Red (Big Machine Radio Release Special)",
+        "url": "https://open.spotify.com/album/4jTYApZPMapg56gRycOn0D"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 219720,
+      "name": "I Knew You Were Trouble.",
+      "url": "https://open.spotify.com/track/6FB3v4YcR57y4tXFcdxI1E"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 190360,
-      "name": "The Man",
-      "url": "https://open.spotify.com/track/3RauEVgRgj1IuWdJ9fDs70"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
         "name": "Some Nights",
         "url": "https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 250626,
       "name": "We Are Young (feat. Janelle Mon\u00e1e)",
       "url": "https://open.spotify.com/track/7a86XRg84qjasly9f6bPSD"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 190360,
+      "name": "The Man",
+      "url": "https://open.spotify.com/track/3RauEVgRgj1IuWdJ9fDs70"
     },
     {
       "added_at": "2022-04-13 19:43:54",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "TROLLS (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 237546,
-      "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
-      "url": "https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
         "name": "1989",
         "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 219200,
       "name": "Shake It Off",
       "url": "https://open.spotify.com/track/5xTtaWoae3wi06K5WfVUUH"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "TROLLS (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 237546,
+      "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
+      "url": "https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI"
     },
     {
       "added_at": "2021-11-12 05:01:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "My Type",
-        "url": "https://open.spotify.com/album/3FkPbizteyMJfT2tLyvnkE"
-      },
-      "artists": [
-        {
-          "name": "Saint Motel",
-          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
-        }
-      ],
-      "duration_ms": 206393,
-      "name": "My Type",
-      "url": "https://open.spotify.com/track/2DFi8rwHcVkTTgu7PULhtI"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
         "name": "Beautiful People (feat. Khalid)",
         "url": "https://open.spotify.com/album/3E12WU80fDMyu7GyIAx7wJ"
       },
@@ -1565,6 +1549,22 @@
       "url": "https://open.spotify.com/track/4evmHXcjt3bTUHD1cvny97"
     },
     {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "My Type",
+        "url": "https://open.spotify.com/album/3FkPbizteyMJfT2tLyvnkE"
+      },
+      "artists": [
+        {
+          "name": "Saint Motel",
+          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
+        }
+      ],
+      "duration_ms": 206393,
+      "name": "My Type",
+      "url": "https://open.spotify.com/track/2DFi8rwHcVkTTgu7PULhtI"
+    },
+    {
       "added_at": "2022-04-13 19:43:54",
       "album": {
         "name": "Better When I'm Dancin'",
@@ -1576,7 +1576,7 @@
           "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
         }
       ],
-      "duration_ms": 176266,
+      "duration_ms": 176251,
       "name": "Better When I'm Dancin'",
       "url": "https://open.spotify.com/track/5k5fWendNngd89O8JKoE8L"
     },
@@ -1801,22 +1801,6 @@
       "url": "https://open.spotify.com/track/6gpcs5eMhJwax4mIfKDYQk"
     },
     {
-      "added_at": "2021-10-29 04:01:00",
-      "album": {
-        "name": "=",
-        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 236906,
-      "name": "Overpass Graffiti",
-      "url": "https://open.spotify.com/track/4btFHqumCO31GksfuBLLv3"
-    },
-    {
       "added_at": "2021-08-25 20:28:57",
       "album": {
         "name": "Me 4 U",
@@ -1833,20 +1817,20 @@
       "url": "https://open.spotify.com/track/023OVLNzXhX0j7CxswUt6D"
     },
     {
-      "added_at": "2021-08-25 20:28:57",
+      "added_at": "2021-10-29 04:01:00",
       "album": {
-        "name": "Raised Under Grey Skies (Deluxe)",
-        "url": "https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo"
+        "name": "=",
+        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
       },
       "artists": [
         {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 220290,
-      "name": "September Song",
-      "url": "https://open.spotify.com/track/0zbzrhfVS9S2TszW3wLQZ7"
+      "duration_ms": 236906,
+      "name": "Overpass Graffiti",
+      "url": "https://open.spotify.com/track/4btFHqumCO31GksfuBLLv3"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -1867,6 +1851,22 @@
       "duration_ms": 223480,
       "name": "Supalonely",
       "url": "https://open.spotify.com/track/4nK5YrxbMGZstTLbvj6Gxw"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "Raised Under Grey Skies (Deluxe)",
+        "url": "https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo"
+      },
+      "artists": [
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "duration_ms": 220290,
+      "name": "September Song",
+      "url": "https://open.spotify.com/track/0zbzrhfVS9S2TszW3wLQZ7"
     },
     {
       "added_at": "2022-04-13 19:43:54",
@@ -2365,22 +2365,6 @@
       "url": "https://open.spotify.com/track/5nhW8I46uDE5sc5ouEbzao"
     },
     {
-      "added_at": "2022-04-13 19:43:54",
-      "album": {
-        "name": "Good as Hell",
-        "url": "https://open.spotify.com/album/4CA8GvVF7swZafg0zYh9qq"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 159735,
-      "name": "Good as Hell",
-      "url": "https://open.spotify.com/track/3Yh9lZcWyKrK9GjbhuS0hR"
-    },
-    {
       "added_at": "2021-08-25 20:28:57",
       "album": {
         "name": "1989 (Big Machine Radio Release Special)",
@@ -2395,6 +2379,22 @@
       "duration_ms": 231000,
       "name": "Style",
       "url": "https://open.spotify.com/track/4D7kxLhSz7siCOw7KA5rQn"
+    },
+    {
+      "added_at": "2022-04-13 19:43:54",
+      "album": {
+        "name": "Good as Hell",
+        "url": "https://open.spotify.com/album/4CA8GvVF7swZafg0zYh9qq"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 159735,
+      "name": "Good as Hell",
+      "url": "https://open.spotify.com/track/3Yh9lZcWyKrK9GjbhuS0hR"
     },
     {
       "added_at": "2021-10-08 04:01:00",
@@ -2644,7 +2644,7 @@
           "url": "https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln"
         }
       ],
-      "duration_ms": 180066,
+      "duration_ms": 180073,
       "name": "If You Love Someone",
       "url": "https://open.spotify.com/track/6JvrOdeiEqWyCta29Xc4mR"
     },

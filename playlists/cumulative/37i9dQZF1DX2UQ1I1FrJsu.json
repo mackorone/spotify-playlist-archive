@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "apartment",
+        "url": "https://open.spotify.com/album/6dhxa1azr2g6TAC1NBYk1N"
+      },
+      "artists": [
+        {
+          "name": "Kareen Lomax",
+          "url": "https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177866,
+      "name": "apartment",
+      "url": "https://open.spotify.com/track/1dBUz37qaUHAbl0SuWcJ9p"
+    },
+    {
+      "album": {
         "name": "Two Star & The Dream Police",
         "url": "https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7"
       },
@@ -594,7 +612,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 305776,
       "name": "Cheer Up, My Brother",
       "url": "https://open.spotify.com/track/37D9O4De2WL1hA6gyResgl"
@@ -904,6 +922,24 @@
       "duration_ms": 209160,
       "name": "Didn't I",
       "url": "https://open.spotify.com/track/6Dq2LzijkY9WNPwBGDah4L"
+    },
+    {
+      "album": {
+        "name": "Deep Dive",
+        "url": "https://open.spotify.com/album/7yjMecUAb9ffr1awwK4Q73"
+      },
+      "artists": [
+        {
+          "name": "Demae",
+          "url": "https://open.spotify.com/artist/1HkWfjmOohAg7lS9bv1QcL"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219785,
+      "name": "Don't Play The Fool",
+      "url": "https://open.spotify.com/track/4vEumGHAzM47dHpIsUUTmt"
     },
     {
       "album": {
@@ -2206,7 +2242,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 190999,
       "name": "Maria Tambi\u00e9n",
       "url": "https://open.spotify.com/track/3CT4U4jJEagjIHg5PPph8X"
@@ -2231,6 +2267,28 @@
     },
     {
       "album": {
+        "name": "Secular Music Vol. 1",
+        "url": "https://open.spotify.com/album/2wlYFoF3Ac1JII1SYrUudf"
+      },
+      "artists": [
+        {
+          "name": "Girls of the Internet",
+          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
+        },
+        {
+          "name": "Sio",
+          "url": "https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274838,
+      "name": "Melodies",
+      "url": "https://open.spotify.com/track/0Bnat14c6fH2h1MUTPVaTN"
+    },
+    {
+      "album": {
         "name": "Mala",
         "url": "https://open.spotify.com/album/1Z69PSnbIBojgF9NBJbKca"
       },
@@ -2242,7 +2300,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 204506,
       "name": "Mi Negrita",
       "url": "https://open.spotify.com/track/4r7iDEGdW2Gw9hJlCbi5qL"

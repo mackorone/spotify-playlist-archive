@@ -4,7 +4,7 @@
 
 > smooth, crisp, not too tannic.
 
-174 songs - 10 hr 40 min
+177 songs - 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [All About Me](https://open.spotify.com/track/60mXzhxdo3dtKYz1MNBLFD) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [All About Me](https://open.spotify.com/album/6zprXAlQbVyY4bokzeemmr) | 4:23 | 2025-09-08 |  |
 | [All I Really Want Is You](https://open.spotify.com/track/410rGaFDJPwjsr9m9RPCkz) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [CINEMA](https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v) | 3:11 | 2024-01-08 |  |
 | [Andromeda](https://open.spotify.com/track/3whY26FqEAhCSP7YeEluNL) | [Ethel](https://open.spotify.com/artist/71EdrAYsVrCyHOzDEqNOu0) | [Andromeda](https://open.spotify.com/album/5yJSom3XkblAv45wgFz07L) | 2:03 | 2024-01-08 | 2025-07-07 |
+| [apartment](https://open.spotify.com/track/1dBUz37qaUHAbl0SuWcJ9p) | [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [apartment](https://open.spotify.com/album/6dhxa1azr2g6TAC1NBYk1N) | 2:57 | 2025-11-18 |  |
 | [Are You Looking Up](https://open.spotify.com/track/1sWYVBg7ix2WAq43J9nY7E) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Two Star & The Dream Police](https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7) | 2:46 | 2024-08-23 |  |
 | [Astral Plane](https://open.spotify.com/track/6srWhJKBiuuPXpjUjQeAHc) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Silver](https://open.spotify.com/album/043vgwukOxX7bcL4VuMX10) | 4:41 | 2024-01-08 | 2024-03-03 |
 | [At Last](https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 2:59 | 2024-01-08 |  |
@@ -39,7 +40,7 @@
 | [Chaeri](https://open.spotify.com/track/1ZkfNNoRrgt69wTjcmJZE9) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Mercurial World](https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY) | 4:17 | 2024-08-23 | 2025-02-03 |
 | [Chandelier](https://open.spotify.com/track/1cwqP7Tyxu5z8XDYoPkNte) | [Will Paquin](https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6) | [Chandelier](https://open.spotify.com/album/1VC4P7rm1o3aYlYVYFkpGF) | 2:07 | 2024-01-08 | 2024-04-19 |
 | [Charmed](https://open.spotify.com/track/6F5jUW0lOVlCSvhCH0yl3f) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB) | [Charmed](https://open.spotify.com/album/3jfaxyujChdnrEbjYDaYax) | 2:38 | 2024-01-08 | 2025-03-15 |
-| [Cheer Up, My Brother](https://open.spotify.com/track/37D9O4De2WL1hA6gyResgl) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Sunday](https://open.spotify.com/album/4VTOytGXwnkNkggIND58d8) | 5:05 | 2024-01-08 |  |
+| [Cheer Up, My Brother](https://open.spotify.com/track/37D9O4De2WL1hA6gyResgl) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Sunday](https://open.spotify.com/album/4VTOytGXwnkNkggIND58d8) | 5:05 | 2024-01-08 | 2025-11-19 |
 | [Closer To Me \- edit](https://open.spotify.com/track/4E8hQ27gkecDsvl9sropEM) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Closer To Me](https://open.spotify.com/album/0Ee564wJB77RPEtpur1p1C) | 3:42 | 2025-05-23 |  |
 | [Cola](https://open.spotify.com/track/0i6c86ntKJoZpKk8aCHL3c) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Cola](https://open.spotify.com/album/292dfJsxChA6s32kXGrrd4) | 3:49 | 2024-01-08 | 2025-07-31 |
 | [Come Live With Me](https://open.spotify.com/track/3YT2vdLbvfcjfCiNR4DsKT) | [Dorothy Ashby](https://open.spotify.com/artist/0dAZ2slrElfR0Y5flcoSPt) | [Afro\-Harping](https://open.spotify.com/album/1XEPKavl3nlI2qVt8HuA5n) | 2:37 | 2024-01-08 |  |
@@ -55,6 +56,7 @@
 | [Desafinado](https://open.spotify.com/track/7dm2MG1cI9oo3kZgpjMLFz) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto Apresenta Chega de Saudade](https://open.spotify.com/album/6eEhHeu8VTc5WemfyfgLY8) | 1:58 | 2024-02-16 | 2024-02-22 |
 | [Didn't Cha Know](https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 3:58 | 2024-01-08 |  |
 | [Didn't I](https://open.spotify.com/track/6Dq2LzijkY9WNPwBGDah4L) | [Darondo](https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc) | [Let My People Go](https://open.spotify.com/album/3nD9Oab8M4sCLNmqmwSOdA) | 3:29 | 2024-01-08 |  |
+| [Don't Play The Fool](https://open.spotify.com/track/4vEumGHAzM47dHpIsUUTmt) | [Demae](https://open.spotify.com/artist/1HkWfjmOohAg7lS9bv1QcL) | [Deep Dive](https://open.spotify.com/album/7yjMecUAb9ffr1awwK4Q73) | 3:39 | 2025-11-18 |  |
 | [Don't Speak](https://open.spotify.com/track/6WT8Fwros1G2niyDvgtNnY) | [Loaded Honey](https://open.spotify.com/artist/2vTfPvhJkpW1DTjmMvHjOB), [Lydia Kitto](https://open.spotify.com/artist/7uYscr8hQYNxhyyvJ4m2PA), [J Lloyd](https://open.spotify.com/artist/63wd5NS9hEIj1MchScLJB1) | [Loaded Honey](https://open.spotify.com/album/42QOd2CIcCMzVdI5oq6YxV) | 3:14 | 2025-05-09 |  |
 | [Dragonball Durag](https://open.spotify.com/track/7eWGnKg4B44sbBPpQp4y2c) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [It Is What It Is](https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9) | 3:01 | 2024-01-08 |  |
 | [Dream Suite](https://open.spotify.com/track/1rqGes0oHiWQRoIhsWqcGo) | [Marinero](https://open.spotify.com/artist/3nO1K3saAuSThsVWi1uxGF) | [La La La](https://open.spotify.com/album/5MFJ8Hny410K6fXlZPG9r0) | 3:54 | 2025-10-21 |  |
@@ -123,9 +125,10 @@
 | [Low Sun](https://open.spotify.com/track/4TwFXylgQheM8AUgY00G7C) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Low Sun](https://open.spotify.com/album/7nC5WtMQ8DJcfQzhFy2oqa) | 3:08 | 2024-03-22 |  |
 | [Made to Fall in Love](https://open.spotify.com/track/36h1hoNVjKcsLUH2NzGmPj) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Spotify Singles](https://open.spotify.com/album/1AjFcFS1NcE6zB8uUCeUzK) | 4:53 | 2025-03-25 |  |
 | [MANGO \(feat\. Adi Oasis\)](https://open.spotify.com/track/384TJj6XyHUyNlCbdgm6Sz) | [KAMAUU](https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc), [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [MANGO \(feat\. Adi Oasis\)](https://open.spotify.com/album/0f3ZSmX6rtHdMIzohJI9P0) | 4:05 | 2024-01-08 |  |
-| [Maria También](https://open.spotify.com/track/3CT4U4jJEagjIHg5PPph8X) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Con Todo El Mundo](https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml) | 3:10 | 2024-01-08 |  |
+| [Maria También](https://open.spotify.com/track/3CT4U4jJEagjIHg5PPph8X) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Con Todo El Mundo](https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml) | 3:10 | 2024-01-08 | 2025-11-19 |
 | [Masterpiece](https://open.spotify.com/track/07qj9w93jk1eA2TGAd6kxj) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [5](https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb) | 5:44 | 2024-01-08 |  |
-| [Mi Negrita](https://open.spotify.com/track/4r7iDEGdW2Gw9hJlCbi5qL) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Mala](https://open.spotify.com/album/1Z69PSnbIBojgF9NBJbKca) | 3:24 | 2024-01-08 |  |
+| [Melodies](https://open.spotify.com/track/0Bnat14c6fH2h1MUTPVaTN) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE), [Sio](https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv) | [Secular Music Vol\. 1](https://open.spotify.com/album/2wlYFoF3Ac1JII1SYrUudf) | 4:34 | 2025-11-18 |  |
+| [Mi Negrita](https://open.spotify.com/track/4r7iDEGdW2Gw9hJlCbi5qL) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Mala](https://open.spotify.com/album/1Z69PSnbIBojgF9NBJbKca) | 3:24 | 2024-01-08 | 2025-11-19 |
 | [Muse](https://open.spotify.com/track/2O9gA2GHoh83DbjwAbLkqB) | [Damar Davis](https://open.spotify.com/artist/5CKsV48Twn9YMP6jqIpfqH) | [Muse](https://open.spotify.com/album/37MYEQeiuDvLm9aDPj9wvB) | 1:40 | 2025-07-30 |  |
 | [My Way](https://open.spotify.com/track/2LyLr6TJbfbsrjvQH34uYB) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [My Way / Cyan Blue](https://open.spotify.com/album/0Uq3D7kpSjpSesIRvKbySe) | 3:29 | 2024-05-03 | 2024-06-04 |
 | [Myself \(feat\. Jorja Smith\)](https://open.spotify.com/track/193kHBMzUKdtk8ZZC0YGXj) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Myself \(feat\. Jorja Smith\)](https://open.spotify.com/album/1xitk8JdGXMqinTYk5HdpL) | 2:58 | 2025-09-08 |  |

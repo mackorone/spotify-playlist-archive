@@ -612,7 +612,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-19",
       "duration_ms": 155964,
       "name": "Cheeky",
       "url": "https://open.spotify.com/track/0BD5VUA6o7AH29u2dTzBYu"
@@ -4216,6 +4216,24 @@
       "duration_ms": 209470,
       "name": "Tambourine",
       "url": "https://open.spotify.com/track/3eIhHWOMaTAPvJ6azg0b2L"
+    },
+    {
+      "album": {
+        "name": "tell me",
+        "url": "https://open.spotify.com/album/5RqqJI20uSvOIfJjb7H2eM"
+      },
+      "artists": [
+        {
+          "name": "lustr",
+          "url": "https://open.spotify.com/artist/58hki6fDZRnymwgCSwmwNY"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123809,
+      "name": "tell me",
+      "url": "https://open.spotify.com/track/7oeWxx5w6BPVROHcEPDzRL"
     },
     {
       "album": {

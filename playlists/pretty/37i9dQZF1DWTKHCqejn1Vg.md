@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 
 > 사랑이 더욱 뜨겁게 섞일 때.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,285 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,291 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 | 43 | [Habit](https://open.spotify.com/track/1RQqbSlookHZBgm5Cf3Sg4) | [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd) | [OVERDRIVE](https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1) | 3:04 |
 | 44 | [Your/My](https://open.spotify.com/track/08sKf43ghwPD9SvdUAetTY) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Jay Park Season 1](https://open.spotify.com/album/36K9BD9KNPIT8JA2qcO9u7) | 3:39 |
 | 45 | [Talk](https://open.spotify.com/track/6J0xPIfeSpjiyoDsfEDvcL) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ The 10th Mini Album \[a;eﬀect\]](https://open.spotify.com/album/3NLbROSjvh9Qo0Esb3aTX0) | 2:47 |
-| 46 | [In To You \(feat\. g1nger\) \- Prod\. WOOGIE](https://open.spotify.com/track/01vDYm34I3kVygzQ29T1no) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT), [g1nger](https://open.spotify.com/artist/2Ff22VkmQhrsSaIe0Fksrs) | [SOMO: FUME](https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F) | 3:38 |
-| 47 | [Lost \(Feat\. Chan\)](https://open.spotify.com/track/0CGLEfpRiP9Xx3DOGIpyu6) | [Giwon](https://open.spotify.com/artist/0p3SJn2qPmo3A4Yby7XIxV), [Chan \(찬\)](https://open.spotify.com/artist/6u58RtKuPesaAnsSybhP5u) | [Lost \(Feat\. Chan\)](https://open.spotify.com/album/6wYbrnLW8oLOzLS8cfO2vR) | 2:24 |
+| 46 | [Lost \(Feat\. Chan\)](https://open.spotify.com/track/0CGLEfpRiP9Xx3DOGIpyu6) | [Giwon](https://open.spotify.com/artist/0p3SJn2qPmo3A4Yby7XIxV), [Chan \(찬\)](https://open.spotify.com/artist/6u58RtKuPesaAnsSybhP5u) | [Lost \(Feat\. Chan\)](https://open.spotify.com/album/6wYbrnLW8oLOzLS8cfO2vR) | 2:24 |
+| 47 | [In To You \(feat\. g1nger\) \- Prod\. WOOGIE](https://open.spotify.com/track/01vDYm34I3kVygzQ29T1no) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT), [g1nger](https://open.spotify.com/artist/2Ff22VkmQhrsSaIe0Fksrs) | [SOMO: FUME](https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F) | 3:38 |
 | 48 | [Pick up your phone \(Feat\. MOON\)](https://open.spotify.com/track/5FMPLl79EfOnRZ4xn2Mck0) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [ROOM SERVICE](https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0) | 3:05 |
 | 49 | [F\*cked Up](https://open.spotify.com/track/4RXBQjfrhHkVDiLZBd52yN) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18) | [F\*cked Up](https://open.spotify.com/album/3UEl9CwTk4kDTxblSiNdQ9) | 3:44 |
 | 50 | [POP \(feat\. BIBI\)](https://open.spotify.com/track/5Nj7MttRXIb3zui4jfhhnc) | [THE NEED](https://open.spotify.com/artist/1Fiav0wxfiy9DWTlshBV1Z), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [POP \(feat\. BIBI\)](https://open.spotify.com/album/3GdOrZTkwHELcx3ad5ABRN) | 2:20 |

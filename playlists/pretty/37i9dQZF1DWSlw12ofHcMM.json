@@ -1,6 +1,6 @@
 {
   "description": "bold tracks, serious swagger.",
-  "num_followers": 1369609,
+  "num_followers": 1369646,
   "original_name": "Swagger",
   "owner": {
     "name": "Spotify",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-08-23 15:39:31",
       "album": {
-        "name": "Ruby Red",
-        "url": "https://open.spotify.com/album/7Bsz8Wc2xeIZVr0XC23Vfk"
-      },
-      "artists": [
-        {
-          "name": "Suzanne Santo",
-          "url": "https://open.spotify.com/artist/1TUJBwovBrSV0NgaJ9cm5a"
-        }
-      ],
-      "duration_ms": 222026,
-      "name": "Blood on Your Knees",
-      "url": "https://open.spotify.com/track/3x6QbnhKGxweFWdqDl8289"
-    },
-    {
-      "added_at": "2024-08-23 15:39:31",
-      "album": {
         "name": "Avalanche",
         "url": "https://open.spotify.com/album/0DQe0tsjxE9yfB2dntQmUR"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 204121,
       "name": "Avalanche",
       "url": "https://open.spotify.com/track/2J6FjuQNSU0tvcplhtl5AP"
+    },
+    {
+      "added_at": "2024-08-23 15:39:31",
+      "album": {
+        "name": "Ruby Red",
+        "url": "https://open.spotify.com/album/7Bsz8Wc2xeIZVr0XC23Vfk"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Santo",
+          "url": "https://open.spotify.com/artist/1TUJBwovBrSV0NgaJ9cm5a"
+        }
+      ],
+      "duration_ms": 222026,
+      "name": "Blood on Your Knees",
+      "url": "https://open.spotify.com/track/3x6QbnhKGxweFWdqDl8289"
     },
     {
       "added_at": "2024-08-23 15:39:31",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-08-23 15:39:31",
       "album": {
-        "name": "Love and the Death of Damnation",
-        "url": "https://open.spotify.com/album/6h4xI9ztHRecvIT80mk8gW"
-      },
-      "artists": [
-        {
-          "name": "The White Buffalo",
-          "url": "https://open.spotify.com/artist/3ohcHMuUq1717s8AH17hfT"
-        }
-      ],
-      "duration_ms": 237053,
-      "name": "Rocky",
-      "url": "https://open.spotify.com/track/7gM0JRYTtThuGj7akmaEVE"
-    },
-    {
-      "added_at": "2024-08-23 15:39:31",
-      "album": {
         "name": "Little May",
         "url": "https://open.spotify.com/album/15h8DXuEUUU8FKcElRPf4S"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 197973,
       "name": "Midnight Hour",
       "url": "https://open.spotify.com/track/4qkRbAJLkfwFGlwfRc1Emx"
+    },
+    {
+      "added_at": "2024-08-23 15:39:31",
+      "album": {
+        "name": "Love and the Death of Damnation",
+        "url": "https://open.spotify.com/album/6h4xI9ztHRecvIT80mk8gW"
+      },
+      "artists": [
+        {
+          "name": "The White Buffalo",
+          "url": "https://open.spotify.com/artist/3ohcHMuUq1717s8AH17hfT"
+        }
+      ],
+      "duration_ms": 237053,
+      "name": "Rocky",
+      "url": "https://open.spotify.com/track/7gM0JRYTtThuGj7akmaEVE"
     },
     {
       "added_at": "2024-08-23 15:39:31",

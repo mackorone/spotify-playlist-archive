@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYvLAVPovEAe.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/bigtiggershow/">Big Tigger</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,799 likes - 50 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,821 likes - 50 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYvLAVPovEAe.md) - [plain]
 | 39 | [Ain't No Half\-Steppin'](https://open.spotify.com/track/0dNiLb9FEHrRK7VFDJctiR) | [Big Daddy Kane](https://open.spotify.com/artist/6futYSDVulYR2PktBjTB5W) | [Long Live The Kane](https://open.spotify.com/album/5STvD2F7IQ51f4Cd2y5r3z) | 5:19 |
 | 40 | [I Ain't No Joke](https://open.spotify.com/track/0SwuCcwpFM6x4cu5zOvmi0) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [Paid In Full](https://open.spotify.com/album/3miZDfDnP7SmOXAJXWdFmz) | 3:52 |
 | 41 | [What These Bitches Want](https://open.spotify.com/track/57kdeoYzgGaKzRWj4XM1u8) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG), [Sisqo](https://open.spotify.com/artist/6x9QLdzo6eBZxJ1bHsDkjg) | [...And Then There Was X](https://open.spotify.com/album/62l3f8u6j9eyDhuxsZA2iH) | 4:13 |
-| 42 | [Hate Blood \(feat\. Freeway & Jadakiss\)](https://open.spotify.com/track/0EKPFDBVyeE1vMfI4ghc3L) | [Jermaine Dupri](https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi), [Freeway](https://open.spotify.com/artist/2Jwr7hGoSNK3S3QBxh3T0z) | [Instructions \(Explicit Version\)](https://open.spotify.com/album/3ssplToLM7k3pX7wCyMSht) | 3:54 |
+| 42 | [Hate Blood \(feat\. Freeway & Jadakiss\)](https://open.spotify.com/track/0EKPFDBVyeE1vMfI4ghc3L) | [Jermaine Dupri](https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6), [Freeway](https://open.spotify.com/artist/2Jwr7hGoSNK3S3QBxh3T0z), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi) | [Instructions \(Explicit Version\)](https://open.spotify.com/album/3ssplToLM7k3pX7wCyMSht) | 3:54 |
 | 43 | [Lil Bruh](https://open.spotify.com/track/5Pi9JV3PcfvGPXVZmfpsrZ) | [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi) | [I LOVE YOU \(A Dedication To My Fans\) The Mixtape](https://open.spotify.com/album/7roiS00nYv06FqErK4yXny) | 3:06 |
 | 44 | [This How We Eat](https://open.spotify.com/track/5U0kwEyxYFcdOSgk9k4Igc) | [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v) | [Chase the Cat](https://open.spotify.com/album/0a4n8n8oRZoHe9ofbdDgmG) | 4:45 |
 | 45 | [Snake \(feat\. Big Tigger\)](https://open.spotify.com/track/3XhCHPfPDafMQx014Sblfy) | [R\. Kelly](https://open.spotify.com/artist/2mxe0TnaNL039ysAj51xPQ), [Big Tigger](https://open.spotify.com/artist/7ah0bKZcvxwMpN0Ygl1qTJ) | [Chocolate Factory](https://open.spotify.com/album/35Ea7OWXZPZB1vAPiaEGOM) | 4:51 |

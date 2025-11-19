@@ -1,6 +1,6 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, love.",
-  "num_followers": 209029,
+  "num_followers": 209033,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
@@ -215,22 +215,6 @@
     {
       "added_at": "2025-09-14 09:15:48",
       "album": {
-        "name": "Your Love Won't Give Up",
-        "url": "https://open.spotify.com/album/77MWkhxbUxCa4oWNLFXP1J"
-      },
-      "artists": [
-        {
-          "name": "ZOE Music",
-          "url": "https://open.spotify.com/artist/468p12FvjFTfWvyxLbIL3q"
-        }
-      ],
-      "duration_ms": 175241,
-      "name": "Your Love Won't Give Up",
-      "url": "https://open.spotify.com/track/3B5ISJUnLCAis7MjBu22LR"
-    },
-    {
-      "added_at": "2025-09-14 09:15:48",
-      "album": {
         "name": "Fighting For Me",
         "url": "https://open.spotify.com/album/47d2vWvqayOsNeFeRI43ba"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 229066,
       "name": "Fighting For Me",
       "url": "https://open.spotify.com/track/5StojELSdCvj23qhF9OxDW"
+    },
+    {
+      "added_at": "2025-09-14 09:15:48",
+      "album": {
+        "name": "Your Love Won't Give Up",
+        "url": "https://open.spotify.com/album/77MWkhxbUxCa4oWNLFXP1J"
+      },
+      "artists": [
+        {
+          "name": "ZOE Music",
+          "url": "https://open.spotify.com/artist/468p12FvjFTfWvyxLbIL3q"
+        }
+      ],
+      "duration_ms": 175241,
+      "name": "Your Love Won't Give Up",
+      "url": "https://open.spotify.com/track/3B5ISJUnLCAis7MjBu22LR"
     },
     {
       "added_at": "2025-09-14 09:15:48",
@@ -763,22 +763,6 @@
     {
       "added_at": "2025-09-14 09:15:48",
       "album": {
-        "name": "Cortado",
-        "url": "https://open.spotify.com/album/5cO0gKE8gcyAypB1fH7iaq"
-      },
-      "artists": [
-        {
-          "name": "Dan Bremnes",
-          "url": "https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3"
-        }
-      ],
-      "duration_ms": 160514,
-      "name": "Cortado",
-      "url": "https://open.spotify.com/track/7CN1TLlARavoQZLUBm42xF"
-    },
-    {
-      "added_at": "2025-09-14 09:15:48",
-      "album": {
         "name": "My Tribe",
         "url": "https://open.spotify.com/album/6BiS5wWmp1iWnRsxkq4BzD"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 201526,
       "name": "Look At Love",
       "url": "https://open.spotify.com/track/6LyEFiIuByViEKcbZBAebw"
+    },
+    {
+      "added_at": "2025-09-14 09:15:48",
+      "album": {
+        "name": "Cortado",
+        "url": "https://open.spotify.com/album/5cO0gKE8gcyAypB1fH7iaq"
+      },
+      "artists": [
+        {
+          "name": "Dan Bremnes",
+          "url": "https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3"
+        }
+      ],
+      "duration_ms": 160514,
+      "name": "Cortado",
+      "url": "https://open.spotify.com/track/7CN1TLlARavoQZLUBm42xF"
     },
     {
       "added_at": "2025-09-14 09:15:48",
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2025-09-14 09:15:48",
       "album": {
-        "name": "A Little Crazy",
-        "url": "https://open.spotify.com/album/0LBh1y6QL1c3ChY53Y3mK0"
-      },
-      "artists": [
-        {
-          "name": "Byron Juane",
-          "url": "https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb"
-        },
-        {
-          "name": "Xavier Om\u00e4r",
-          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/5tsPiNGuiztScsTjhqEubO"
-    },
-    {
-      "added_at": "2025-09-14 09:15:48",
-      "album": {
         "name": "All Yours",
         "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
       },
@@ -1147,6 +1127,26 @@
       "duration_ms": 287662,
       "name": "What Matters (feat. Mali Music)",
       "url": "https://open.spotify.com/track/76TyZ3DsTuA6Abls23CoOA"
+    },
+    {
+      "added_at": "2025-09-14 09:15:48",
+      "album": {
+        "name": "A Little Crazy",
+        "url": "https://open.spotify.com/album/0LBh1y6QL1c3ChY53Y3mK0"
+      },
+      "artists": [
+        {
+          "name": "Byron Juane",
+          "url": "https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb"
+        },
+        {
+          "name": "Xavier Om\u00e4r",
+          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/5tsPiNGuiztScsTjhqEubO"
     },
     {
       "added_at": "2025-09-14 09:15:48",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2025-09-14 09:15:48",
       "album": {
-        "name": "I do",
-        "url": "https://open.spotify.com/album/1eQrGC1qAwhxa9YWpbT37E"
-      },
-      "artists": [
-        {
-          "name": "Caitie Beasley",
-          "url": "https://open.spotify.com/artist/6N4bMAZfwfIeL0qUuahHyF"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "I do",
-      "url": "https://open.spotify.com/track/1HbTfQjhpqXxmedDXkPNoa"
-    },
-    {
-      "added_at": "2025-09-14 09:15:48",
-      "album": {
         "name": "Good Love (feat. Kim Burrell)",
         "url": "https://open.spotify.com/album/4kMIVmOYqpCXgstb0z1ks7"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 248066,
       "name": "Good Love (feat. Kim Burrell)",
       "url": "https://open.spotify.com/track/3uYPITWb2G39R0KY3TpYQz"
+    },
+    {
+      "added_at": "2025-09-14 09:15:48",
+      "album": {
+        "name": "I do",
+        "url": "https://open.spotify.com/album/1eQrGC1qAwhxa9YWpbT37E"
+      },
+      "artists": [
+        {
+          "name": "Caitie Beasley",
+          "url": "https://open.spotify.com/artist/6N4bMAZfwfIeL0qUuahHyF"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "I do",
+      "url": "https://open.spotify.com/track/1HbTfQjhpqXxmedDXkPNoa"
     },
     {
       "added_at": "2025-09-14 09:15:48",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2025-09-14 09:15:48",
       "album": {
-        "name": "Scared to Love",
-        "url": "https://open.spotify.com/album/3aHs0OCAi9GGyQYXSth8ff"
-      },
-      "artists": [
-        {
-          "name": "Thunderstorm Artis",
-          "url": "https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "Scared to Love",
-      "url": "https://open.spotify.com/track/3mhdHHNjP6lllNggZwK9v6"
-    },
-    {
-      "added_at": "2025-09-14 09:15:48",
-      "album": {
         "name": "2nd Happy",
         "url": "https://open.spotify.com/album/4qo16UyarKgPkXdSZkNK0s"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 225890,
       "name": "2nd Happy",
       "url": "https://open.spotify.com/track/5q38R7YPq4uHSpVTUYye1k"
+    },
+    {
+      "added_at": "2025-09-14 09:15:48",
+      "album": {
+        "name": "Scared to Love",
+        "url": "https://open.spotify.com/album/3aHs0OCAi9GGyQYXSth8ff"
+      },
+      "artists": [
+        {
+          "name": "Thunderstorm Artis",
+          "url": "https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Scared to Love",
+      "url": "https://open.spotify.com/track/3mhdHHNjP6lllNggZwK9v6"
     },
     {
       "added_at": "2025-09-14 09:15:48",

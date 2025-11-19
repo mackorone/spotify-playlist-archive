@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxd0qWj50iH.md) - [plain]
 
 > A softer space.
 
-[Spotify](https://open.spotify.com/user/spotify) - 528,969 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 528,932 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxd0qWj50iH.md) - [plain]
 | 17 | [Slipping Through My Fingers](https://open.spotify.com/track/5GRarkYarOgejsLCxLprQD) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Slipping Through My Fingers](https://open.spotify.com/album/0koTZdaOlOsITAVODhjAAp) | 4:23 |
 | 18 | [Someone To Stay \(Acoustic\)](https://open.spotify.com/track/0AlPTC3ChJYKnBLQY11uP6) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Someone To Stay \(Acoustic\)](https://open.spotify.com/album/4b9XvODq3fQ6xGTlmUpwQm) | 3:57 |
 | 19 | [Dream police](https://open.spotify.com/track/5jdlKW2oMtQkOaZp5YOS4G) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Two Star & The Dream Police](https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7) | 2:49 |
-| 20 | [every day is a game](https://open.spotify.com/track/64ircYoqL31h8dhGPpiUYO) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [every day is a game](https://open.spotify.com/album/7r1igo5Ea58ReRVLPXfa2e) | 4:09 |
-| 21 | [You \(feat\. Hermanos Gutiérrez\)](https://open.spotify.com/track/3r14cTnRNBAXpYfRorUFa7) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [You](https://open.spotify.com/album/6S6kcUY7R7rzpxzcIMUzMd) | 3:26 |
+| 20 | [You \(feat\. Hermanos Gutiérrez\)](https://open.spotify.com/track/3r14cTnRNBAXpYfRorUFa7) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [You](https://open.spotify.com/album/6S6kcUY7R7rzpxzcIMUzMd) | 3:26 |
+| 21 | [every day is a game](https://open.spotify.com/track/64ircYoqL31h8dhGPpiUYO) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [every day is a game](https://open.spotify.com/album/7r1igo5Ea58ReRVLPXfa2e) | 4:09 |
 | 22 | [dirty dancer](https://open.spotify.com/track/1ciQU7ZQGHq129m3njp9en) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [dirty dancer](https://open.spotify.com/album/6aO0vMIga31GSawF5f0pMZ) | 2:49 |
 | 23 | [Heaven Up There](https://open.spotify.com/track/3Rl26h1HiMCV0HFHHVb2IM) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Life After](https://open.spotify.com/album/2gnr57XaEBXSDlfbkowBP8) | 7:17 |
 | 24 | [Nostalgia](https://open.spotify.com/track/3gV7y7IwafryNLEnhh9gKb) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Nostalgia](https://open.spotify.com/album/6WgmH9NEYyWBbPaHYlpVlD) | 3:57 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxd0qWj50iH.md) - [plain]
 | 36 | [Radio](https://open.spotify.com/track/45kn9BixcxJID8oNIknocn) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Last Night In The Bittersweet](https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x) | 4:22 |
 | 37 | [Sappho](https://open.spotify.com/track/5DIGt883aHs3KqWSziy4gR) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Next Thing](https://open.spotify.com/album/0vhRTvVCv9O5orRMgFjxT1) | 1:52 |
 | 38 | [33 “GOD”](https://open.spotify.com/track/5sWF1EZGm727f3b620vkbC) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [22, A Million](https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl) | 3:33 |
-| 39 | [The Florist](https://open.spotify.com/track/3LbPPqqqmmvEwjHA8YH4Wo) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [The Florist](https://open.spotify.com/album/1CcPFEX5L52OeFXHlqI4pa) | 3:10 |
-| 40 | [I Of The Storm](https://open.spotify.com/track/3xGmbotxgSltJ5qHX7aZfe) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Beneath The Skin](https://open.spotify.com/album/2mD97VgxTRfwB8F5tvkwrL) | 4:36 |
+| 39 | [I Of The Storm](https://open.spotify.com/track/3xGmbotxgSltJ5qHX7aZfe) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Beneath The Skin](https://open.spotify.com/album/2mD97VgxTRfwB8F5tvkwrL) | 4:36 |
+| 40 | [The Florist](https://open.spotify.com/track/3LbPPqqqmmvEwjHA8YH4Wo) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [The Florist](https://open.spotify.com/album/1CcPFEX5L52OeFXHlqI4pa) | 3:10 |
 | 41 | [Piece Of Shit](https://open.spotify.com/track/6PGNpgfoGIpfZVJFHdK7bV) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 2:48 |
 | 42 | [The Car](https://open.spotify.com/track/0C6dSPCqwKqwos6s1CrDrh) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [The Car](https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs) | 3:18 |
 | 43 | [Spanish Sahara](https://open.spotify.com/track/3SJWVMRwk5z4Uaff7kGs0d) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Total Life Forever](https://open.spotify.com/album/670h50t8E3LwP2bGqxGi6E) | 6:49 |
@@ -84,16 +84,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxd0qWj50iH.md) - [plain]
 | 74 | [In My Head](https://open.spotify.com/track/1dOmEeayAc8UV4DdK20pFN) | [Nell Mescal](https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE) | [In My Head](https://open.spotify.com/album/0fqg8Qb6hM93RnLEMMrINj) | 3:32 |
 | 75 | [Son](https://open.spotify.com/track/3qyBGhzXPbHSHjmEIqHo8S) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Ultrasound](https://open.spotify.com/album/1v6HKSKJ0gblCPbmsRQoRT) | 5:28 |
 | 76 | [Eyes On You](https://open.spotify.com/track/5yGD15DsGXfiNDg9d7fXmY) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Eyes On You](https://open.spotify.com/album/3NtZnt7iqak8rIW5o1BYkd) | 2:16 |
-| 77 | [Montana](https://open.spotify.com/track/3hcmDRD8Nz9aX9TqDMUy4b) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Moveys](https://open.spotify.com/album/5C66ZV77hQsUlhSIYJYcar) | 3:20 |
-| 78 | [Wide Eyed](https://open.spotify.com/track/6Nl8gY9HumJMQrC3qwtc3r) | [Billy Lockett](https://open.spotify.com/artist/2lKeiALM1T2TZrOiTYlLNA) | [Wide Eyed](https://open.spotify.com/album/7n6rB3pvqkFzXeyBOeBPEh) | 2:42 |
+| 77 | [Wide Eyed](https://open.spotify.com/track/6Nl8gY9HumJMQrC3qwtc3r) | [Billy Lockett](https://open.spotify.com/artist/2lKeiALM1T2TZrOiTYlLNA) | [Wide Eyed](https://open.spotify.com/album/7n6rB3pvqkFzXeyBOeBPEh) | 2:42 |
+| 78 | [Montana](https://open.spotify.com/track/3hcmDRD8Nz9aX9TqDMUy4b) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Moveys](https://open.spotify.com/album/5C66ZV77hQsUlhSIYJYcar) | 3:20 |
 | 79 | [Confirmation \(SSBD\)](https://open.spotify.com/track/0gcNTflElPYcxajA1LelYd) | [Westerman](https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA) | [Your Hero Is Not Dead](https://open.spotify.com/album/45gjNMd3mAP0zyTQMOQdGk) | 4:18 |
 | 80 | [Love Me In Chapters](https://open.spotify.com/track/4MTRui4ZDCOc0a6D2g0qgw) | [Chrissi](https://open.spotify.com/artist/6dKtberVRbUX3Azn8gt2mt) | [Love Me In Chapters](https://open.spotify.com/album/3jSf7bYXENh5wdn2a01DtF) | 3:36 |
 | 81 | [Maybe I’m Lonely](https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Maybe I’m Lonely](https://open.spotify.com/album/7cGahzr5hx2AfLnrd0aoKM) | 2:32 |
-| 82 | [See For Miles](https://open.spotify.com/track/1iJXvuuRrLqw1HQsUyWQu9) | [Quiet Houses](https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC) | [Since July](https://open.spotify.com/album/4dtGWZoAfaY8tFEQdAg1jw) | 3:17 |
-| 83 | [princes of melancholia](https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [Dark Corners and Alchemy](https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA) | 2:33 |
-| 84 | [Skin Parade](https://open.spotify.com/track/2ULTiHf6StaL4Hbyarfr2h) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [The Death Of Summer & Other Promises](https://open.spotify.com/album/0esL2lh3mMULygf9eA6RlV) | 4:29 |
-| 85 | [Sure](https://open.spotify.com/track/6FfNMWBpPWrUUfrg5Jstym) | [Alice Auer](https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8) | [Sure](https://open.spotify.com/album/7uMJzHFEizcVMUMDJtkoxW) | 4:08 |
-| 86 | [Wisconsin Winter](https://open.spotify.com/track/2d1rzqRJjwlul6vMLVWOXS) | [Laura Alden](https://open.spotify.com/artist/19DUsD728zdjGRvEtRXy6J) | [Wisconsin Winter](https://open.spotify.com/album/7GuMOXneGJMFtrwfYdwqto) | 3:48 |
+| 82 | [Skin Parade](https://open.spotify.com/track/2ULTiHf6StaL4Hbyarfr2h) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [The Death Of Summer & Other Promises](https://open.spotify.com/album/0esL2lh3mMULygf9eA6RlV) | 4:29 |
+| 83 | [See For Miles](https://open.spotify.com/track/1iJXvuuRrLqw1HQsUyWQu9) | [Quiet Houses](https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC) | [Since July](https://open.spotify.com/album/4dtGWZoAfaY8tFEQdAg1jw) | 3:17 |
+| 84 | [princes of melancholia](https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [Dark Corners and Alchemy](https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA) | 2:33 |
+| 85 | [Wisconsin Winter](https://open.spotify.com/track/2d1rzqRJjwlul6vMLVWOXS) | [Laura Alden](https://open.spotify.com/artist/19DUsD728zdjGRvEtRXy6J) | [Wisconsin Winter](https://open.spotify.com/album/7GuMOXneGJMFtrwfYdwqto) | 3:48 |
+| 86 | [Sure](https://open.spotify.com/track/6FfNMWBpPWrUUfrg5Jstym) | [Alice Auer](https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8) | [Sure](https://open.spotify.com/album/7uMJzHFEizcVMUMDJtkoxW) | 4:08 |
 | 87 | [Bags](https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 4:20 |
 | 88 | [Smile in the Face of the Devil](https://open.spotify.com/track/0h6X7BCq7IYKHNoXln3LX3) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Smile in the Face of the Devil](https://open.spotify.com/album/4RpOz3IeMf2KmjLn6eEyCC) | 2:38 |
 | 89 | [Foot Forward](https://open.spotify.com/track/0Q5x5NQ2ub5SRd0YsaZWdL) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Friends That Break Your Heart](https://open.spotify.com/album/1zNtJFMCNIyT0X19jpcI3j) | 2:33 |

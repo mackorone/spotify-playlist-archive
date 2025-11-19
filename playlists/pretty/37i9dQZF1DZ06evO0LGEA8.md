@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0LGEA8.md) - [plain]
 
 > This is La Santa Grifa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,673 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,771 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sabanas Blancas](https://open.spotify.com/track/0IBhXEEKXhv0bdpboaw5M3) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Frenia](https://open.spotify.com/album/6DtziobPePcdasV0uUycOn) | 4:14 |
 | 2 | [Tocame](https://open.spotify.com/track/4dWY6RpM9zmYvwqxrNvwtV) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Fuera de Órbita](https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF) | 3:53 |
 | 3 | [Niña Elegante](https://open.spotify.com/track/2pPjtn3Pd3nTueJXeizwGk) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Niña Elegante](https://open.spotify.com/album/0h0GPh2jkZANpj0Oxj1J8T) | 3:02 |
-| 4 | [Piel Con Piel](https://open.spotify.com/track/3R0PgPUdZUtd6dGq6yRwc7) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Piel Con Piel](https://open.spotify.com/album/7GxFfPCbKkOHhi1GFA1hSW) | 4:03 |
-| 5 | [Dejate Querer](https://open.spotify.com/track/0ZGklobMQKBTtfwcuYEGWE) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Danzando Con Demonios](https://open.spotify.com/album/1lzcVgLEWrgsle0QwmGCRa) | 2:54 |
+| 4 | [Dejate Querer](https://open.spotify.com/track/0ZGklobMQKBTtfwcuYEGWE) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Danzando Con Demonios](https://open.spotify.com/album/1lzcVgLEWrgsle0QwmGCRa) | 2:54 |
+| 5 | [Piel Con Piel](https://open.spotify.com/track/3R0PgPUdZUtd6dGq6yRwc7) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Piel Con Piel](https://open.spotify.com/album/7GxFfPCbKkOHhi1GFA1hSW) | 4:03 |
 | 6 | [Regresen el Tiempo](https://open.spotify.com/track/6Ydl0XXvzCjE25xDLbV7Qf) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Fuera de Órbita](https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF) | 2:56 |
 | 7 | [Amnesia](https://open.spotify.com/track/2CRXFBkRh0V7FZL5kuiqdO) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Amnesia](https://open.spotify.com/album/7x0UG4rToHvR7HkzqGN06a) | 3:08 |
 | 8 | [Monalisa](https://open.spotify.com/track/56ZMnyvW7uO9sJoTVHNBxs) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [ElReghosg](https://open.spotify.com/artist/5fT0BvMTWquu2lNbnRnDP3), [Mickey Ojo Rojo Sg](https://open.spotify.com/artist/0oxYBzQwBy2nmTquzJ447r) | [Monalisa](https://open.spotify.com/album/67gixCAUn6Sd1BXHr3xg3s) | 4:07 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0LGEA8.md) - [plain]
 | 28 | [Mal Ejemplo](https://open.spotify.com/track/0HSBllfhckt9BhJAvNGLCN) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Mal Ejemplo, Vol\. 3](https://open.spotify.com/album/3mIsCeIbeXeicXk0QmSQRM) | 5:02 |
 | 29 | [Como Borrar Tus Besos](https://open.spotify.com/track/08QUmfGtqhkxXdBHcQb5U9) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Seguimos Fumando](https://open.spotify.com/album/7panOfxwnv0Z3YUStTU3OO) | 3:43 |
 | 30 | [Cuchillo en la Yugular](https://open.spotify.com/track/4jkQyc0JSFxdUo4f05v120) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Danzando Con Demonios](https://open.spotify.com/album/1lzcVgLEWrgsle0QwmGCRa) | 3:25 |
-| 31 | [Estamos al Aire](https://open.spotify.com/track/6XagfTLSVgSx9lZFJ7q6Wy) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Hits Visuales, Vol\. 4](https://open.spotify.com/album/2biWpudc2pbS9UGGxjLgBM) | 3:06 |
-| 32 | [Biscochologo](https://open.spotify.com/track/3UzIWeASa8Ngor0aIloJPi) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Las Chidas Pal Cuarto](https://open.spotify.com/album/6eOtwUDg5pVryf6Ry2RH9C) | 5:20 |
+| 31 | [Biscochologo](https://open.spotify.com/track/3UzIWeASa8Ngor0aIloJPi) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Las Chidas Pal Cuarto](https://open.spotify.com/album/6eOtwUDg5pVryf6Ry2RH9C) | 5:20 |
+| 32 | [Estamos al Aire](https://open.spotify.com/track/6XagfTLSVgSx9lZFJ7q6Wy) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Hits Visuales, Vol\. 4](https://open.spotify.com/album/2biWpudc2pbS9UGGxjLgBM) | 3:06 |
 | 33 | [Compatible Contigo](https://open.spotify.com/track/0PLZFSquuNT9mKd2wpOEzF) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Santos Grifos, Vol\. 1](https://open.spotify.com/album/1vJm0PP19mjHS2BQfzZP3H) | 4:35 |
 | 34 | [Mirada Triste](https://open.spotify.com/track/3Jr10ANwlJcLEOqz8IZ27S) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Fuera de Órbita](https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF) | 3:10 |
 | 35 | [Hasta Donde Se Pueda](https://open.spotify.com/track/6dDx3ww7VVr4jqOYrmuAyl) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Hasta Donde Se Pueda, Vol\. 2](https://open.spotify.com/album/7rS4uzrg0UHTlv0iKaSGtF) | 5:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0LGEA8.md) - [plain]
 | 49 | [Como la Espuma](https://open.spotify.com/track/3xRrjypq1Av1Frb6Edw1SD) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Fuera de Órbita](https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF) | 2:19 |
 | 50 | [Vuelvo a Caer](https://open.spotify.com/track/10Y15N4duzT8a4Ah4DYsiD) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9) | [Vuelvo a Caer](https://open.spotify.com/album/6586FQ56cHd0PUa5nMLIiz) | 3:50 |
 
-Snapshot ID: `aRkUAAAAAAB1PXtrispy5SqkbKrvEgRR`
+Snapshot ID: `aRplgAAAAAB+WdXcYdGg4qi1bIFtFS3w`

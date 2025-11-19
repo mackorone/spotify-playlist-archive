@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > They got next and now\. Cover: <a href="spotify:artist:4Uwx6qzRn0kA9sz6cCDpBO">Tkandz</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,590 likes - 80 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,595 likes - 80 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 5 | [Proceed](https://open.spotify.com/track/0ma5mRIb5TWm0XxArzbpEd) | [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap), [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf) | [Proceed](https://open.spotify.com/album/6fD8n0MvgLHCa2w8cMYoyc) | 2:00 |
 | 6 | [OD CRASHIN](https://open.spotify.com/track/3LrsDFXueqCD3J53HfsLL6) | [Baby Kia](https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L) | [HELL CAN'T SAVE YOU](https://open.spotify.com/album/5F10HRZliGco8ZtXZQCqPV) | 2:34 |
 | 7 | [Birds like Popeyes](https://open.spotify.com/track/5ajbOZ9tgMi2lMXeEYI7Bo) | [Belly Gang Kushington](https://open.spotify.com/artist/7oHPIc7BYAIUhYFF6hSggI) | [THE STREETS IS YOURS: THE RE\-UP](https://open.spotify.com/album/7o9dw65UljYGdHmL3MwOWs) | 2:16 |
-| 8 | [In Da Bed](https://open.spotify.com/track/4YWmlD5KXYKPHYfRBRWIE4) | [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [Sweet Lick](https://open.spotify.com/album/18DgexE6Ah9XOeiZG3PQXx) | 2:27 |
-| 9 | [Life After Death](https://open.spotify.com/track/1ebbmrZS4I7SDg2qpJkMgr) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Who Did The Body](https://open.spotify.com/album/4HOuHBKlSAkdpHf50kHMAH) | 2:11 |
+| 8 | [Life After Death](https://open.spotify.com/track/1ebbmrZS4I7SDg2qpJkMgr) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Who Did The Body](https://open.spotify.com/album/4HOuHBKlSAkdpHf50kHMAH) | 2:11 |
+| 9 | [YOU READY?!](https://open.spotify.com/track/72qmdZgY95em4rT5nGZV3F) | [detahjae](https://open.spotify.com/artist/7hx5UNqYxEh0RnyWRExG7g), [La Reezy](https://open.spotify.com/artist/2uVTJrWgoWoJmImS2I0KVE), [Garrett Sparrow](https://open.spotify.com/artist/3DnMgnxJt61Y8bWHv2l9qs) | [FLARE](https://open.spotify.com/album/1VyI3EaxZmfc5k51GXBKnJ) | 3:07 |
 | 10 | [MONEY AND CLOTHES](https://open.spotify.com/track/3ors9h42aOYWpzblOLhwvo) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [MONEY AND CLOTHES](https://open.spotify.com/album/5zP1LFAmi2dYGPFVMMgbKG) | 2:18 |
 | 11 | [Trim](https://open.spotify.com/track/7rdHxPQimXkOcmUmsfGhxY) | [YUNG ALPO](https://open.spotify.com/artist/3bVzJ22xWylhbx0kUtefze) | [Trim](https://open.spotify.com/album/2oLtKEcuXiyWnsuHIUlNTF) | 2:37 |
 | 12 | [YUP AND I DO](https://open.spotify.com/track/6cA7DVYZYEYFKop72MRRRB) | [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf) | [YUP AND I DO](https://open.spotify.com/album/7CgGavuS1DSvYXIbeqrq71) | 2:06 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 79 | [Eh](https://open.spotify.com/track/3pg4tQGG58DvyEI2PlCoYt) | [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv), [Kman 6ixx](https://open.spotify.com/artist/5np2XqLanbxQzpEVFG0big) | [Eh](https://open.spotify.com/album/2Cib8n91qqK0FthCEE1NOX) | 2:47 |
 | 80 | [My Darling](https://open.spotify.com/track/7mdvPu1ZAOIgMzr3sfpAqk) | [Chella](https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI) | [My Darling](https://open.spotify.com/album/5UOf3gDg4dnNBBaLi9qTK9) | 2:26 |
 
-Snapshot ID: `AAAAAONi3DzC9V+4ufEJ6M1zzRThYnNi`
+Snapshot ID: `AAAAAIWj2BCvkxo9kkO2hYEtvtMtd+40`

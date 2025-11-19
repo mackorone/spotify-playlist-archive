@@ -1,12 +1,12 @@
 {
   "description": "we got you. Cover: Post Malone",
-  "num_followers": 129613,
+  "num_followers": 129667,
   "original_name": "sad boy anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO74YynAb6bXdoWaxgg9EfcMfbFC",
+  "snapshot_id": "AAAAABYVtBpWR3AxX/tUaviunzrUxNv0",
   "tracks": [
     {
       "added_at": "2025-11-14 05:00:27",
@@ -193,6 +193,26 @@
       "url": "https://open.spotify.com/track/75ZvA4QfFiZvzhj2xkaWAh"
     },
     {
+      "added_at": "2025-11-18 21:00:06",
+      "album": {
+        "name": "SORRY",
+        "url": "https://open.spotify.com/album/1RnVAiamXujeEQcruNCCWn"
+      },
+      "artists": [
+        {
+          "name": "NF",
+          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
+        },
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 191519,
+      "name": "SORRY",
+      "url": "https://open.spotify.com/track/5M2ztfcb9GBGmZdUFkSzfQ"
+    },
+    {
       "added_at": "2025-11-07 05:00:49",
       "album": {
         "name": "Help",
@@ -227,26 +247,6 @@
       "duration_ms": 107823,
       "name": "losing interest",
       "url": "https://open.spotify.com/track/7fbwZ7VuHycKgn0ksPZNgf"
-    },
-    {
-      "added_at": "2025-11-07 05:00:49",
-      "album": {
-        "name": "again",
-        "url": "https://open.spotify.com/album/5GNuSs1dFqX1x083OV3DrQ"
-      },
-      "artists": [
-        {
-          "name": "zown",
-          "url": "https://open.spotify.com/artist/5cUFNLkI4OFUhmcqBEGsqz"
-        },
-        {
-          "name": "Shiloh Dynasty",
-          "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
-        }
-      ],
-      "duration_ms": 115937,
-      "name": "again",
-      "url": "https://open.spotify.com/track/7k0sm58Wlu2jR4dJB5Y0tS"
     },
     {
       "added_at": "2025-09-11 21:07:40",
