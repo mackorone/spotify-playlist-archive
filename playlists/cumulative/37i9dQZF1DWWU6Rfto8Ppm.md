@@ -4,7 +4,7 @@
 
 > Reggaetón de antes y de siempre en compañía de Plan B.
 
-472 songs - 1 day 4 hr 4 min
+473 songs - 1 day 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,8 @@
 | [El Doctorado](https://open.spotify.com/track/3pjW5482iWgJVqQOpu4AG9) | [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW) | [El Doctorado](https://open.spotify.com/album/27HlhZnJCkMRHt8UreeDma) | 4:23 | 2022-10-12 | 2022-11-14 |
 | [El Doctorado](https://open.spotify.com/track/1GLyxov9LCuqj9jWFXI3cy) | [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW) | [La Melodia de la Calle "Updated"](https://open.spotify.com/album/6RDOn06oitF2wzme2uWDX8) | 4:24 | 2022-07-27 | 2024-04-19 |
 | [El Doctorado](https://open.spotify.com/track/2PUbdd0s68EfVKlBCUW9Vq) | [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW) | [La Melodia De La Calle "Updated"](https://open.spotify.com/album/1XEaczENlnfWoRii0LKZHR) | 4:24 | 2021-12-17 | 2022-07-29 |
-| [El Teléfono](https://open.spotify.com/track/6viC2tfK0mf86pcqxIoUOG) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Roc La Familia & Hector Bambino "EL FATHER" Present Los Rompe Discotekas](https://open.spotify.com/album/12WhZAzPc6ekGSTWPGEUVp) | 3:55 | 2021-12-17 |  |
+| [El Teléfono](https://open.spotify.com/track/5qE8PzKYJhbl0gnLwJSASu) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [The Bad Boy \(The Most Wanted Edition\)](https://open.spotify.com/album/4wucK3TtoeQPDQO0UVY0eS) | 3:55 | 2025-11-19 |  |
+| [El Teléfono](https://open.spotify.com/track/6viC2tfK0mf86pcqxIoUOG) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Roc La Familia & Hector Bambino "EL FATHER" Present Los Rompe Discotekas](https://open.spotify.com/album/12WhZAzPc6ekGSTWPGEUVp) | 3:55 | 2021-12-17 | 2025-11-20 |
 | [El Tiburon](https://open.spotify.com/track/7xzcR7ChznJF5KgDS7exYA) | [Alexis y Fido](https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA), [Baby Ranks](https://open.spotify.com/artist/3huof3P8bH0AJzMvy9kwv2) | [Los Reyes del Perreo](https://open.spotify.com/album/6bPsYMsG4sR9DgITKxATkF) | 2:44 | 2021-12-17 |  |
 | [El Tra](https://open.spotify.com/track/14nnQDyyoTuRYfOgGQBjDD) | [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh) | [It's My Time](https://open.spotify.com/album/1xAIagWtSmzXVaVL6DZDIe) | 2:37 | 2023-12-21 |  |
 | [Elegante de Boutique](https://open.spotify.com/track/4diOVY99jeXWVrRMBxbmcx) | [Tego Calderon](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [El Enemy de Los Guasíbiri](https://open.spotify.com/album/69rKlAM3KXEHw6vPtM6e9L) | 2:44 | 2021-12-17 | 2022-07-28 |

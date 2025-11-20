@@ -1,12 +1,12 @@
 {
   "description": "This is Black Alien. The essential tracks, all in one playlist.",
-  "num_followers": 40779,
+  "num_followers": 40786,
   "original_name": "This Is Black Alien",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRplgAAAAADe7wjxgJAmzTfZ2z1g2nKb",
+  "snapshot_id": "aRu3AAAAAAB+I8t9kPwUYTroSPKlnSZ4",
   "tracks": [
     {
       "added_at": null,
@@ -96,9 +96,9 @@
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
         }
       ],
-      "duration_ms": 262500,
-      "name": "Carta Pra Amy",
-      "url": "https://open.spotify.com/track/2fOzeW265HQxThDOrA66Mc"
+      "duration_ms": 164902,
+      "name": "Anivers\u00e1rio de Sobriedade",
+      "url": "https://open.spotify.com/track/786H6CRL3H5WNPnkqTfnNX"
     },
     {
       "added_at": null,
@@ -180,25 +180,9 @@
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
         }
       ],
-      "duration_ms": 164902,
-      "name": "Anivers\u00e1rio de Sobriedade",
-      "url": "https://open.spotify.com/track/786H6CRL3H5WNPnkqTfnNX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chuck Berry",
-        "url": "https://open.spotify.com/album/08ZkA9tW2y30l2WVJjxHpu"
-      },
-      "artists": [
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 170627,
-      "name": "Chuck Berry",
-      "url": "https://open.spotify.com/track/23fd5EB9vHXNxDQQxikpEF"
+      "duration_ms": 262500,
+      "name": "Carta Pra Amy",
+      "url": "https://open.spotify.com/track/2fOzeW265HQxThDOrA66Mc"
     },
     {
       "added_at": null,
@@ -219,6 +203,22 @@
       "duration_ms": 53488,
       "name": "DEISDAZSEIS - Ao Vivo",
       "url": "https://open.spotify.com/track/3IcmVwyD3LKYE23vsuoTU4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chuck Berry",
+        "url": "https://open.spotify.com/album/08ZkA9tW2y30l2WVJjxHpu"
+      },
+      "artists": [
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 170627,
+      "name": "Chuck Berry",
+      "url": "https://open.spotify.com/track/23fd5EB9vHXNxDQQxikpEF"
     },
     {
       "added_at": null,
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
         }
       ],
-      "duration_ms": 153191,
-      "name": "Take Ten",
-      "url": "https://open.spotify.com/track/33KkhOpxBmBr2Jor1gs11d"
+      "duration_ms": 211363,
+      "name": "Que Nem o Meu Cachorro",
+      "url": "https://open.spotify.com/track/6EHOyqVSyd8JRmQniT721T"
     },
     {
       "added_at": null,
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
         }
       ],
-      "duration_ms": 211363,
-      "name": "Que Nem o Meu Cachorro",
-      "url": "https://open.spotify.com/track/6EHOyqVSyd8JRmQniT721T"
+      "duration_ms": 153191,
+      "name": "Take Ten",
+      "url": "https://open.spotify.com/track/33KkhOpxBmBr2Jor1gs11d"
     },
     {
       "added_at": null,
@@ -419,18 +419,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Princ\u00edpio Era o Verbo - Babylon by Gus, Vol. II",
-        "url": "https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN"
+        "name": "Hip Hop Rare",
+        "url": "https://open.spotify.com/album/6x8GefrlUjATHW7ynbVqHC"
       },
       "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
         {
           "name": "Black Alien",
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
         }
       ],
-      "duration_ms": 244239,
-      "name": "Falando do Meu Bem",
-      "url": "https://open.spotify.com/track/2mAenBc4RyeokOVC19oqqa"
+      "duration_ms": 217444,
+      "name": "Motivos",
+      "url": "https://open.spotify.com/track/4rjn5DygwQQXo1m24GqRM6"
     },
     {
       "added_at": null,
@@ -451,22 +455,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hip Hop Rare",
-        "url": "https://open.spotify.com/album/6x8GefrlUjATHW7ynbVqHC"
+        "name": "No Princ\u00edpio Era o Verbo - Babylon by Gus, Vol. II",
+        "url": "https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN"
       },
       "artists": [
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
         {
           "name": "Black Alien",
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
         }
       ],
-      "duration_ms": 217444,
-      "name": "Motivos",
-      "url": "https://open.spotify.com/track/4rjn5DygwQQXo1m24GqRM6"
+      "duration_ms": 244239,
+      "name": "Falando do Meu Bem",
+      "url": "https://open.spotify.com/track/2mAenBc4RyeokOVC19oqqa"
     },
     {
       "added_at": null,
@@ -611,66 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "JARDINEIROS",
-        "url": "https://open.spotify.com/album/5RhgokruA7dS8c7rG63ejD"
-      },
-      "artists": [
-        {
-          "name": "Planet Hemp",
-          "url": "https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU"
-        },
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 154413,
-      "name": "O RITMO E A RAIVA",
-      "url": "https://open.spotify.com/track/4jYaCHJA2Kuu7ETTdBN3Lf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fast Five (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4m2xhUYfu1TIPoSDpQAOp8"
-      },
-      "artists": [
-        {
-          "name": "Tejo",
-          "url": "https://open.spotify.com/artist/1v43iHOxg4GZtganT7wcjH"
-        },
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        },
-        {
-          "name": "Speed",
-          "url": "https://open.spotify.com/artist/0jO4EktP5hJgHvd4fhN5p7"
-        }
-      ],
-      "duration_ms": 187746,
-      "name": "Follow Me Follow Me (Quem Que Caguetou?) - Fast 5 Hybrid Remix",
-      "url": "https://open.spotify.com/track/186BCL46iM9FeZNNHfBU02"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Princ\u00edpio Era o Verbo - Babylon by Gus, Vol. II",
-        "url": "https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN"
-      },
-      "artists": [
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 191981,
-      "name": "Rolo Compressor",
-      "url": "https://open.spotify.com/track/5wFUgWRIVGPr0RnidObdEc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Crian\u00e7as Selvagens",
         "url": "https://open.spotify.com/album/1AY1gFOjPTPJ3jXhpEgKe1"
       },
@@ -699,6 +639,66 @@
       "duration_ms": 235413,
       "name": "Papaia",
       "url": "https://open.spotify.com/track/4k5u1ja0I1T0d2jzcVN17x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "JARDINEIROS",
+        "url": "https://open.spotify.com/album/5RhgokruA7dS8c7rG63ejD"
+      },
+      "artists": [
+        {
+          "name": "Planet Hemp",
+          "url": "https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU"
+        },
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 154413,
+      "name": "O RITMO E A RAIVA",
+      "url": "https://open.spotify.com/track/4jYaCHJA2Kuu7ETTdBN3Lf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Princ\u00edpio Era o Verbo - Babylon by Gus, Vol. II",
+        "url": "https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN"
+      },
+      "artists": [
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 191981,
+      "name": "Rolo Compressor",
+      "url": "https://open.spotify.com/track/5wFUgWRIVGPr0RnidObdEc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fast Five (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4m2xhUYfu1TIPoSDpQAOp8"
+      },
+      "artists": [
+        {
+          "name": "Tejo",
+          "url": "https://open.spotify.com/artist/1v43iHOxg4GZtganT7wcjH"
+        },
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        },
+        {
+          "name": "Speed",
+          "url": "https://open.spotify.com/artist/0jO4EktP5hJgHvd4fhN5p7"
+        }
+      ],
+      "duration_ms": 187746,
+      "name": "Follow Me Follow Me (Quem Que Caguetou?) - Fast 5 Hybrid Remix",
+      "url": "https://open.spotify.com/track/186BCL46iM9FeZNNHfBU02"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > 例えば、部屋で猫と昼寝をするように、ゆったりとしたエレクトロチルで小休憩しませんか？？
 
-199 songs - 10 hr 24 min
+200 songs - 10 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Blue](https://open.spotify.com/track/1A78vsnQhQCGqeaX14LUhB) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB), [Akacia](https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5) | [Nightfall](https://open.spotify.com/album/1ITqSRuosyfNyvy4QPVOQP) | 2:49 | 2022-10-11 |  |
 | [Blue Moon](https://open.spotify.com/track/4TMDacsp7J4oQfZHNSY22V) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB), [Akacia](https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5) | [Dreamwave](https://open.spotify.com/album/1McCmCfd1TPUq5iWBUqZxb) | 2:25 | 2022-10-11 |  |
 | [Blue Notes](https://open.spotify.com/track/6tzQ5fqJVqEnw36qwdliJs) | [Sol Rising](https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv), [Max Ribner](https://open.spotify.com/artist/3JI64aAbPeMcRPJOYHR1fY) | [Blue Notes](https://open.spotify.com/album/7v1n7XIcKDaYLFOTZwyNVf) | 3:18 | 2022-10-11 |  |
+| [Boardwalk](https://open.spotify.com/track/1zmVh7dWFDF5SLgRhGEzzI) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Jetty \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Ia7tMgfKYEGdYi7yWpHfD) | 1:09 | 2025-11-19 |  |
 | [Breezy](https://open.spotify.com/track/6SIm7CDSu8rzx0TajGOJXx) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF) | [Connection](https://open.spotify.com/album/3iFigjuA451SneLjONrGiK) | 1:42 | 2024-09-25 |  |
 | [C.itosakura f.ascendens \- synfilums rework](https://open.spotify.com/track/7gRHZIYvTLIRqVWRbjinjr) | [synfilums](https://open.spotify.com/artist/5YQHHzgCxtQyfGzmrlfHgi) | [C.itosakura f.ascendens \(synfilums rework\)](https://open.spotify.com/album/1DXkYyB68FntNvBlqZPHDu) | 2:11 | 2025-09-18 |  |
 | [Calm Current](https://open.spotify.com/track/6TndWcfnrvsSoBHKLrDxFE) | [Watasino](https://open.spotify.com/artist/4gblEuW5hn0GK6ZkrcquRw), [Lonely Girl](https://open.spotify.com/artist/0oNkYl0JGIr9hFJHQlakdw) | [Calm Current](https://open.spotify.com/album/3E2EJAj5HQGlk1CebBOyFR) | 2:57 | 2025-04-02 |  |
@@ -104,7 +105,7 @@
 | [Let You Know](https://open.spotify.com/track/1yp0BMfs5P8jrHTzcjcfcu) | [Jesse Blake](https://open.spotify.com/artist/6bWcDlQBThaOYSZsMBIQ3X) | [The Color and the Light](https://open.spotify.com/album/4xiK7Y0QQPFkqTGeGN4XF8) | 4:55 | 2022-10-11 |  |
 | [Lie](https://open.spotify.com/track/2lL1mdmCo6LsO2JAKoFRw4) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Over Skies](https://open.spotify.com/album/1HKnGGSYzVlRN9qt08UdaP) | 4:07 | 2022-10-11 |  |
 | [Lie](https://open.spotify.com/track/7MPSf8sY2Ry1XkMasl7mgb) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Over Skies](https://open.spotify.com/album/6h8dWi1kVq0JA4Cg0GCrGJ) | 4:07 | 2022-11-15 | 2024-04-19 |
-| [Like I Do](https://open.spotify.com/track/2LXH4mOxhtBxC5yOFKr87J) | [Cherry Coke](https://open.spotify.com/artist/7EuKZk7nDtXrYI6QNTmtKi) | [Up](https://open.spotify.com/album/0uKwiWRcJYAQdIUM6PbU6L) | 2:19 | 2024-03-05 |  |
+| [Like I Do](https://open.spotify.com/track/2LXH4mOxhtBxC5yOFKr87J) | [Cherry Coke](https://open.spotify.com/artist/7EuKZk7nDtXrYI6QNTmtKi) | [Up](https://open.spotify.com/album/0uKwiWRcJYAQdIUM6PbU6L) | 2:19 | 2024-03-05 | 2025-11-20 |
 | [Like I Do](https://open.spotify.com/track/6aUqMFKWVu66RPcSFozJRo) | [Cherry Coke](https://open.spotify.com/artist/7EuKZk7nDtXrYI6QNTmtKi) | [Up](https://open.spotify.com/album/6BqJwMta8igGVnteOli3AW) | 2:20 | 2022-10-11 | 2024-04-19 |
 | [Little by little](https://open.spotify.com/track/48HO4B8qWGEIYS8Sn3T6ZX) | [Milkoi](https://open.spotify.com/artist/1k5UEOU4igPC0NoHjEekha) | [Highteen Romance Anime](https://open.spotify.com/album/0mGwHQwFoFrlhK4dymMlmh) | 1:32 | 2022-10-11 |  |
 | [Little by little](https://open.spotify.com/track/4eQdYqgRkt3nDuF5RJhGpT) | [Milkoi](https://open.spotify.com/artist/1k5UEOU4igPC0NoHjEekha) | [Highteen Romance Anime](https://open.spotify.com/album/3HZGfT1HpX2kMupxk8k3Jv) | 1:32 | 2023-11-14 | 2024-04-19 |

@@ -4,7 +4,7 @@
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-1,808 songs - 4 day 10 hr 8 min
+1,811 songs - 4 day 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -967,6 +967,7 @@
 | [Marfala \(original mix\)](https://open.spotify.com/track/0NAZOhMdTxUMIu5Fk08NFS) | [pzic](https://open.spotify.com/artist/6lU6RzJLUiwy6erAvD88C4) | [Marfala \(original mix\)](https://open.spotify.com/album/79lZqgWwfjv0vRgqBHCDmZ) | 3:31 | 2025-05-30 |  |
 | [Marimo in the sky](https://open.spotify.com/track/0q8rlly8iuFmvVwmptIV7Z) | [YOKO.T](https://open.spotify.com/artist/0owpiSKDES7JkZqJScsB9l) | [Marimo in the sky](https://open.spotify.com/album/0s8aDK68GVReYsiFZKIvYJ) | 4:02 | 2024-08-12 |  |
 | [Mary](https://open.spotify.com/track/7Lv0CmtCQt0MNpVuyLKrUf) | [Carnetta Baby](https://open.spotify.com/artist/093zCCXzNkInO7g6O5HAej) | [Mary](https://open.spotify.com/album/0cLz5X0PTUA3IDxf5xOYLb) | 2:13 | 2025-08-27 |  |
+| [Mary's Lamb](https://open.spotify.com/track/4wA5bR2acrQ6tAJuheentG) | [Halley Gentil](https://open.spotify.com/artist/3nL0tRCAJTGnw11PHM4UNg) | [Mary's Lamb](https://open.spotify.com/album/6AIklyNJeqZI3yofH9k9bM) | 3:15 | 2025-11-19 |  |
 | [Materia Prima](https://open.spotify.com/track/16WJ7AesrqNwVGLPCNtWfY) | [Juan Fixión](https://open.spotify.com/artist/6D3f6UyJZZraPFtICoXXrd) | [Materia Prima](https://open.spotify.com/album/0gtgATy8gfXd8M73tEsVD4) | 3:35 | 2025-08-29 |  |
 | [Matthew 11](https://open.spotify.com/track/3qM2XoFxaPJl87t0FvlcEh) | [Cristian Lin](https://open.spotify.com/artist/2rse6TXemx1r7yWiop21L8) | [Matthew 11](https://open.spotify.com/album/2eHRzFs5viVRBtKBsjsw4o) | 4:38 | 2025-10-04 |  |
 | [Maybe](https://open.spotify.com/track/2Brs3vCPWbxtioPxxGraW3) | [Beth Dumonteil](https://open.spotify.com/artist/1yduCyP0NhDCabY4WkQrjZ) | [Maybe](https://open.spotify.com/album/6OjoGF8tXzENIDz5Fzu7J6) | 3:15 | 2024-11-14 |  |
@@ -1196,6 +1197,7 @@
 | [preso](https://open.spotify.com/track/0KeZDmv2OLfBTTnpgORRiK) | [malu](https://open.spotify.com/artist/1MpqkMivHaUq0DWhHzM5Ay) | [preso](https://open.spotify.com/album/58KG7G0379wIuwIweyS3EQ) | 3:23 | 2025-05-20 |  |
 | [Pretty Little Baby](https://open.spotify.com/track/43ZuybC43N9xNMVRgYggGn) | [Jules Rancher](https://open.spotify.com/artist/6rwrpd1a5n40tbvWZc08jS) | [Pretty Little Baby](https://open.spotify.com/album/74s0L7EbuEUTaFNOCDFRPj) | 2:28 | 2025-06-20 |  |
 | [Pretty Moon](https://open.spotify.com/track/3wYxaVwidiZDSGDgbPMHD6) | [Bob Maurice](https://open.spotify.com/artist/7AUNbMJ12hhmhDP3529cn0), [XenX](https://open.spotify.com/artist/60is9NVxpJYoJbDn09mtDO), [TZ3D](https://open.spotify.com/artist/3aclTt7oEYGXzuVf8j19dz) | [Pretty Moon](https://open.spotify.com/album/475x5Mi2udk91o13lAhHKf) | 4:38 | 2024-08-26 |  |
+| [Pretty Palms](https://open.spotify.com/track/4k5odH8VlFUVdHMcX4MpkL) | [Charley Hill](https://open.spotify.com/artist/3Gu0cDU1W9fwdSgYquz2rq) | [Mustang ⋆](https://open.spotify.com/album/5c1fF5TQHvB5ED4Z4sLHac) | 3:17 | 2025-11-19 |  |
 | [Primeira Milonga](https://open.spotify.com/track/3zMTaOkmL9LH1PqWHrmsHr) | [Thiago Barba](https://open.spotify.com/artist/08IHljRCkTZ3v2X65B1U5I) | [Dueto](https://open.spotify.com/album/6od0qOZJPuGeXp1Bi5y3vX) | 3:22 | 2025-03-04 |  |
 | [Prisoner of Reality](https://open.spotify.com/track/4KYzzHKIxGDn0qurycCXvu) | [Bruce Sudano](https://open.spotify.com/artist/603Q8uOwTjPYqTTBfwF8pZ) | [Prisoner of Reality](https://open.spotify.com/album/0QWEQ6dH1kstpvCG8TFFYG) | 4:17 | 2024-12-17 |  |
 | [Privateer](https://open.spotify.com/track/3q1WN85CB8LGBzTi8yfin8) | [Harry Payuta](https://open.spotify.com/artist/732MC5xjFZgtBQhDyX6rUw) | [Black Match](https://open.spotify.com/album/71CFxqmjUxh2nOEfTTBH52) | 3:07 | 2025-02-28 |  |
@@ -1237,6 +1239,7 @@
 | [Reflection](https://open.spotify.com/track/2MfjLVp1vLJQUDgMmnvRTA) | [O'Neal Black](https://open.spotify.com/artist/2w6KNZ4RPgjj2BPS1lKbaA) | [Reflection](https://open.spotify.com/album/4UCyhOdmg46nJFzqkZKooi) | 3:28 | 2025-04-07 |  |
 | [Reflections](https://open.spotify.com/track/0OHruxgF2sVH6girGHW3XQ) | [Atropos Will Fly](https://open.spotify.com/artist/66loxBpT27MYxOZcIIoh2M) | [Reflections](https://open.spotify.com/album/5snKtFuiZiagSS7aXNBuqq) | 5:36 | 2024-07-18 |  |
 | [Regained Insight](https://open.spotify.com/track/4ttBbrgSxi8KTgrFXQtNi1) | [Cracked Wheat](https://open.spotify.com/artist/38JxBn3ugkcnolCZZWAVLj) | [Jar of Reality](https://open.spotify.com/album/4XErNMxFSGP7eaurFXK7hp) | 3:54 | 2025-03-25 |  |
+| [Regrets](https://open.spotify.com/track/1UHIaL6ZF9aiiPJ8opT5sJ) | [Pete Gardiner](https://open.spotify.com/artist/5sjhK0fScmb7HXin42rUaT) | [Songs That Wrote Me](https://open.spotify.com/album/1i06gAGF1H4OYzBcP5pgKN) | 3:19 | 2025-11-19 |  |
 | [Reina de las nubes](https://open.spotify.com/track/7FTwhhLOvU84aS0yBPoekG) | [Rainer](https://open.spotify.com/artist/11SThJcXiDJsyjTdumI9Tz), [Fernando Barrios](https://open.spotify.com/artist/0aJjKDrbK2U0lYAUC3ud1a) | [Reina de las nubes](https://open.spotify.com/album/2iYW2kyudEe6kCBQFVRYez) | 3:00 | 2025-06-30 |  |
 | [Reliant J](https://open.spotify.com/track/1ZnQsItyoaFcGT3HbxLPe0) | [Hucksters](https://open.spotify.com/artist/2YIuxsSEfrQeWq3ispbQ7G) | [Better Late Than Never](https://open.spotify.com/album/6SXCtYDzyKU6Wuv3RhsHWF) | 3:35 | 2024-09-15 |  |
 | [Renascer](https://open.spotify.com/track/6HzlWuy38rqNnEqrB3plsA) | [Thiago Barba](https://open.spotify.com/artist/08IHljRCkTZ3v2X65B1U5I) | [Renascer](https://open.spotify.com/album/2258U5iqOOnC3ATxDHkxGx) | 2:28 | 2025-06-22 |  |

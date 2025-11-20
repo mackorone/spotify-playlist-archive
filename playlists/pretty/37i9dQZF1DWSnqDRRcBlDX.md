@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnqDRRcBlDX.md) - [plain]
 
 > <a href="spotify:artist:5Ho1vKl1Uz8bJlk4vbmvmf">Amelie Lens</a>' favorite tracks\. Updated regularly\. Curated by Amelie Lens\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,682 likes - 58 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,704 likes - 58 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnqDRRcBlDX.md) - [plain]
 | 57 | [Transgender](https://open.spotify.com/track/2pgfgEF6CWsrPFF8HB6Xra) | [POLTERGST](https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM), [Police In Paris](https://open.spotify.com/artist/2NQvfk2OahqD2YybayOHC2), [Staarz](https://open.spotify.com/artist/0bb1EZkY7SlcGKU9e5T9DL) | [Transgender](https://open.spotify.com/album/46muHUrkAVYiExmNO11XhI) | 2:56 |
 | 58 | [Mantra](https://open.spotify.com/track/1h500WiplE5ctR7Hk8ctVa) | [GALLØ](https://open.spotify.com/artist/6RuaGhkEO0m1IOXcsK40rP) | [Mantra](https://open.spotify.com/album/7CSXqMWlK7CXZkG9LJ7oen) | 4:57 |
 
-Snapshot ID: `AAAAAFLzzliRtn4emwy7azqBZkuU8d7l`
+Snapshot ID: `AAAAAP+nvxpCyZyrPbf7JflhB8WVm9Sn`

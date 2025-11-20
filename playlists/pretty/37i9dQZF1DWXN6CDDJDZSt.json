@@ -1,6 +1,6 @@
 {
   "description": "An introduction to Giacomo Puccini, one of the great Italian opera composers.",
-  "num_followers": 80312,
+  "num_followers": 80335,
   "original_name": "This Is Puccini",
   "owner": {
     "name": "Spotify",
@@ -915,7 +915,7 @@
     {
       "added_at": "2025-09-15 14:00:14",
       "album": {
-        "name": "La boh\u00e8me: O soave fanciulla",
+        "name": "La Boh\u00e8me Atto I: \"O soave fanciulla\"",
         "url": "https://open.spotify.com/album/3pjcNRrUr46aXLRKd8WQi2"
       },
       "artists": [
@@ -928,12 +928,16 @@
           "url": "https://open.spotify.com/artist/2OHnFY58Dg8c2SC2PtootB"
         },
         {
+          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
+        },
+        {
           "name": "Antonio Pappano",
           "url": "https://open.spotify.com/artist/0xHw5qPRSEc8sUmSmXf5sw"
         },
         {
-          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
+          "name": "Kristine Opolais",
+          "url": "https://open.spotify.com/artist/2lGH1IncYxKTyBO29fE86k"
         }
       ],
       "duration_ms": 251786,

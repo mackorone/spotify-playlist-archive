@@ -1,12 +1,12 @@
 {
   "description": "Uplifting and happy jazz christmas classics.",
-  "num_followers": 154174,
+  "num_followers": 154551,
   "original_name": "Feel Good Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEudOUaMgcyO6OOEXQwO7n+qzPgj",
+  "snapshot_id": "AAAAAIcusEQx2Q5CQnekj2oyLXhQJbu/",
   "tracks": [
     {
       "added_at": "2025-11-13 09:21:13",
@@ -76,7 +76,7 @@
           "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
         }
       ],
-      "duration_ms": 156866,
+      "duration_ms": 161356,
       "name": "Happy Holiday / The Holiday Season",
       "url": "https://open.spotify.com/track/3sDdyBHQ60Cs1opmIyRvhp"
     },
@@ -92,7 +92,7 @@
           "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 160946,
+      "duration_ms": 163524,
       "name": "A Marshmallow World",
       "url": "https://open.spotify.com/track/3szI9hDVbyOYU0yd77G35n"
     },
@@ -192,7 +192,7 @@
           "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 148480,
+      "duration_ms": 151162,
       "name": "I'll Be Home for Christmas",
       "url": "https://open.spotify.com/track/5PCS7feLWXvEsp5s5fSpXe"
     },
@@ -267,22 +267,6 @@
     {
       "added_at": "2025-11-13 09:21:13",
       "album": {
-        "name": "Greatest Christmas Songs",
-        "url": "https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7"
-      },
-      "artists": [
-        {
-          "name": "Perry Como",
-          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
-        }
-      ],
-      "duration_ms": 145693,
-      "name": "I Saw Mommy Kissing Santa Claus",
-      "url": "https://open.spotify.com/track/01FPQJHDGVAVpcaTwMIoS2"
-    },
-    {
-      "added_at": "2025-11-13 09:21:13",
-      "album": {
         "name": "Warm In December (Edit)",
         "url": "https://open.spotify.com/album/5RYN71suwnCCydI7oVfVYM"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 161210,
       "name": "Warm In December - Edit",
       "url": "https://open.spotify.com/track/4iZUPqpbdr4cI8OOzlKKqR"
+    },
+    {
+      "added_at": "2025-11-13 09:21:13",
+      "album": {
+        "name": "Greatest Christmas Songs",
+        "url": "https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7"
+      },
+      "artists": [
+        {
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+        }
+      ],
+      "duration_ms": 145693,
+      "name": "I Saw Mommy Kissing Santa Claus",
+      "url": "https://open.spotify.com/track/01FPQJHDGVAVpcaTwMIoS2"
     },
     {
       "added_at": "2025-11-13 09:21:13",
@@ -571,22 +571,6 @@
     {
       "added_at": "2025-11-13 09:21:13",
       "album": {
-        "name": "What A Night! A Christmas Album",
-        "url": "https://open.spotify.com/album/4ZD2z6ZVjiaeZolP8MXgvK"
-      },
-      "artists": [
-        {
-          "name": "Harry Connick, Jr.",
-          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
-        }
-      ],
-      "duration_ms": 203573,
-      "name": "What a Night!",
-      "url": "https://open.spotify.com/track/0e8bZUPEAGoWjsys4SapXu"
-    },
-    {
-      "added_at": "2025-11-13 09:21:13",
-      "album": {
         "name": "A Very Swingin\u2019 Basie Christmas!",
         "url": "https://open.spotify.com/album/2YeKSxPeuQYiml0g6pzn7S"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 152973,
       "name": "Dig That Crazy Santa Claus",
       "url": "https://open.spotify.com/track/4O5E6N6uBTIydv9A3eQD4k"
+    },
+    {
+      "added_at": "2025-11-13 09:21:13",
+      "album": {
+        "name": "What A Night! A Christmas Album",
+        "url": "https://open.spotify.com/album/4ZD2z6ZVjiaeZolP8MXgvK"
+      },
+      "artists": [
+        {
+          "name": "Harry Connick, Jr.",
+          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
+        }
+      ],
+      "duration_ms": 203573,
+      "name": "What a Night!",
+      "url": "https://open.spotify.com/track/0e8bZUPEAGoWjsys4SapXu"
     },
     {
       "added_at": "2025-11-13 09:21:13",

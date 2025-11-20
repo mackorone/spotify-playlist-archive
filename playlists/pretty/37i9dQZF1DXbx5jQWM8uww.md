@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbx5jQWM8uww.md) - [plain]
 
 > Step into the ring with the Official Playlist for The Smashing Machine\. Listen to the music from the film, in theaters now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,873 likes - 30 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,892 likes - 30 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbx5jQWM8uww.md) - [plain]
 | 23 | [今夜月の見える丘に](https://open.spotify.com/track/5fnZAPIZZbyM0Az0VBYbB4) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [今夜月の見える丘に](https://open.spotify.com/album/6HUevxLPxXe8QOz5kIF0xw) | 4:08 |
 | 24 | [My Stove's on Fire](https://open.spotify.com/track/3RR8IE3bJwTFiyjbClSKXa) | [Robert Lester Folsom](https://open.spotify.com/artist/5uQyXHg4ph7gNlnZHxt9kX) | [Music and Dreams](https://open.spotify.com/album/15wdgqD7BCkQERSpJAPAfl) | 2:48 |
 | 25 | [That's My Desire](https://open.spotify.com/track/7vJDK6RTqi3JIvCTpp8fhG) | [Hadda Brooks](https://open.spotify.com/artist/1NJubf2lWeNdXONuic4fir) | [I've Got News For You](https://open.spotify.com/album/4LrFiga7TeKlnDhCngvSUl) | 2:44 |
-| 26 | [Jungleland](https://open.spotify.com/track/3R2q3FCnNIw2XhuEbYtYk6) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born To Run](https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu) | 9:35 |
+| 26 | [Jungleland](https://open.spotify.com/track/3R2q3FCnNIw2XhuEbYtYk6) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born To Run](https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu) | 9:33 |
 | 27 | [Grand Prix](https://open.spotify.com/track/0MANz8JX5P50SdvkGWVVY6) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [The Smashing Machine \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3LPmqGCKhFHS5Fw8WyaKY8) | 4:01 |
 | 28 | [Corridor of Dreams](https://open.spotify.com/track/6fsUCTTpTbfREHoAR89Zcl) | [The Cleaners From Venus](https://open.spotify.com/artist/7ppwXAQNWfPDGu22hCk5Yr) | [Midnight Cleaners](https://open.spotify.com/album/0pMgdGYL1d7YfLZ6Y2PYLG) | 5:10 |
 | 29 | [Make The World Go Away](https://open.spotify.com/track/5ZyV6v7aBOMEY39VbREblS) | [Timi Yuro](https://open.spotify.com/artist/2JyxVsEiD9HVRM7CtFaLCK) | [The Best Of Timi Yuro](https://open.spotify.com/album/18UaMS0uVYtzsIoDIS5v3P) | 2:38 |

@@ -4693,6 +4693,40 @@
     },
     {
       "album": {
+        "name": "Bailando 2",
+        "url": "https://open.spotify.com/album/3QSFzU7mADdhIIHUKp5j78"
+      },
+      "artists": [
+        {
+          "name": "BROKIES",
+          "url": "https://open.spotify.com/artist/16e88U4wWhHSnsLZbjEgS8"
+        },
+        {
+          "name": "Bajorson",
+          "url": "https://open.spotify.com/artist/3kLH6xiJVhBa6JOqS3x7RS"
+        },
+        {
+          "name": "Dajczman",
+          "url": "https://open.spotify.com/artist/1NQ1cA17XLd3Rh7PFzadL2"
+        },
+        {
+          "name": "DiscoKarol",
+          "url": "https://open.spotify.com/artist/4Kl4ykwlB2WDqrieMW3XWB"
+        },
+        {
+          "name": "pirlo444",
+          "url": "https://open.spotify.com/artist/6eFI79MK4G6bNJd3F8hnL6"
+        }
+      ],
+      "date_added": "2025-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161142,
+      "name": "Bailando 2",
+      "url": "https://open.spotify.com/track/3gHv7T9VFEvW84sAVqvUvI"
+    },
+    {
+      "album": {
         "name": "Bajka (K. K. Baczy\u0144ski)",
         "url": "https://open.spotify.com/album/6mu03OW0CS5DHNYZRkIdNX"
       },
@@ -15024,7 +15058,7 @@
       ],
       "date_added": "2025-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 253920,
       "name": "Every Breath You Take",
       "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
@@ -27034,7 +27068,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 124462,
       "name": "Love In A Bottle",
       "url": "https://open.spotify.com/track/2aVIbkAfhvyTyvIqUAdFBE"
@@ -29794,7 +29828,7 @@
       ],
       "date_added": "2025-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 251400,
       "name": "Molly",
       "url": "https://open.spotify.com/track/1088WwNMjp0QWvEP3aOgsf"
@@ -33526,6 +33560,24 @@
       "duration_ms": 142978,
       "name": "NIEBO",
       "url": "https://open.spotify.com/track/57tnaMa8gBqarDiZyFIn8Q"
+    },
+    {
+      "album": {
+        "name": "Ministory",
+        "url": "https://open.spotify.com/album/6PU2uJ7Mhd6Y0jwqfzC5Kl"
+      },
+      "artists": [
+        {
+          "name": "Ka\u015bka Sochacka",
+          "url": "https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN"
+        }
+      ],
+      "date_added": "2025-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254383,
+      "name": "Niebo by\u0142o r\u00f3\u017cowe",
+      "url": "https://open.spotify.com/track/4srUcUkIP3NejBuRvQz3Gv"
     },
     {
       "album": {
@@ -39418,7 +39470,7 @@
       ],
       "date_added": "2025-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-16",
+      "date_removed": null,
       "duration_ms": 210213,
       "name": "Polsilver",
       "url": "https://open.spotify.com/track/2BG7eli63SGzeJaWn3wiSw"
@@ -50938,7 +50990,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-19",
+      "date_removed": null,
       "duration_ms": 138000,
       "name": "Uno Momento",
       "url": "https://open.spotify.com/track/2lszjkyKpER3mEFPQQayZR"
@@ -55156,7 +55208,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 152853,
       "name": "Zadzwo\u0144 do mnie",
       "url": "https://open.spotify.com/track/2WFSy9WBAdKH8RnwL5deH2"

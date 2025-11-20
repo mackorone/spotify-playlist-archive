@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 
 > 
 
-[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 4,670 likes - 772 songs - 2 day 3 hr 28 min
+[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 4,669 likes - 772 songs - 2 day 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 | 55 | [Listening Wind \- 2005 Remaster](https://open.spotify.com/track/438kAOxGJQtpEkVMom9WXJ) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Remain in Light \(Deluxe Version\)](https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG) | 4:42 |
 | 56 | [Respectable Street \- 2001 Remaster](https://open.spotify.com/track/7DRVJs5vJtoWiRH5dHHBnk) | [XTC](https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz) | [Black Sea](https://open.spotify.com/album/6sLuXZdrb1cmsAnfrmgbrU) | 3:37 |
 | 57 | [Panama](https://open.spotify.com/track/42Lq6GBO5KUSNeSgJsOoke) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Best of Volume 1](https://open.spotify.com/album/7ndqT6LH9o6YQ5uA7aT0St) | 3:32 |
-| 58 | [Rope](https://open.spotify.com/track/7v0mtl6oInUtHOmTk2b0gC) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Wasting Light](https://open.spotify.com/album/5lnQLEUiVDkLbFJHXHQu9m) | 4:19 |
+| 58 | [Rope](https://open.spotify.com/track/7v0mtl6oInUtHOmTk2b0gC) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Wasting Light](https://open.spotify.com/album/5lnQLEUiVDkLbFJHXHQu9m) | 4:18 |
 | 59 | [Vomit Coffin](https://open.spotify.com/track/1TLdXhTw99Zusm1FFCDnYg) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Murder of the Universe](https://open.spotify.com/album/2y5bwmtV2nSBUrVoWzGXmS) | 2:19 |
 | 60 | [Go It Alone](https://open.spotify.com/track/7zeCIWu37bKFJuem8MTyM1) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Guero](https://open.spotify.com/album/2EugWXUZjr78KJFqZavvZT) | 4:08 |
 | 61 | [Cherub Rock \- 2011 Remaster](https://open.spotify.com/track/3ow0TQVttXQF8rLckmXgRx) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Siamese Dream \(Deluxe Edition\)](https://open.spotify.com/album/0bQglEvsHphrS19FGODEGo) | 4:58 |
@@ -499,7 +499,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 | 489 | [Dear God \- Remastered 2001](https://open.spotify.com/track/6nFdjV1Ko66O111x74K2kn) | [XTC](https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz) | [Skylarking](https://open.spotify.com/album/3FVsJiQMI7dp0RfTBdWtMW) | 3:39 |
 | 490 | [Brean Down](https://open.spotify.com/track/3dtTFzOl8s8j7laFU3SyrC) | [Beak>](https://open.spotify.com/artist/5MGxwE9JG5IA6uqswrgNL6) | [>>>](https://open.spotify.com/album/60yPG02ecqockwxPD5XWSJ) | 3:51 |
 | 491 | [Exactly Where I'm At](https://open.spotify.com/track/42WCGd8b9J771EyHBxpxwP) | [Ween](https://open.spotify.com/artist/3u1ulLq00Y3bfmq9FfjsPu) | [White Pepper](https://open.spotify.com/album/6xHEzpqk0yDUt2uuodhWqF) | 4:31 |
-| 492 | [This Heaven](https://open.spotify.com/track/0QsvUI1yA1sZYc7Pxiqbwg) | [David Gilmour](https://open.spotify.com/artist/2FcC4sDMXme2ziI7tGKMK8) | [On An Island](https://open.spotify.com/album/3hhRkf54AIQsdKLMWTxVLg) | 4:24 |
+| 492 | [This Heaven](https://open.spotify.com/track/0QsvUI1yA1sZYc7Pxiqbwg) | [David Gilmour](https://open.spotify.com/artist/2FcC4sDMXme2ziI7tGKMK8) | [On An Island](https://open.spotify.com/album/3hhRkf54AIQsdKLMWTxVLg) | 4:25 |
 | 493 | [Sixteen Days](https://open.spotify.com/track/6iU4r1gv8YZmWWq4kJknNh) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [Tasmania](https://open.spotify.com/album/4K7jmZcYAmNlKdIxqKUbH6) | 2:53 |
 | 494 | [Apple Blossom](https://open.spotify.com/track/2EWMlxsVQdNpgZ3TryxdR9) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [De Stijl](https://open.spotify.com/album/3m67IYWE82EKX3nX9N7fhX) | 2:13 |
 | 495 | [Sister, Do You Know My Name?](https://open.spotify.com/track/6xUwTW2NLLDUSCbbQEa09c) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [De Stijl](https://open.spotify.com/album/3m67IYWE82EKX3nX9N7fhX) | 2:51 |
@@ -569,7 +569,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 | 559 | [M.E.](https://open.spotify.com/track/3OiBc6E43P6Y5LoqNbbMKf) | [Gary Numan](https://open.spotify.com/artist/5KQMtyPE8DCQNUzoNqlEsE) | [The Pleasure Principle](https://open.spotify.com/album/6wHjdKs7VVPVcqaHRzwqJt) | 5:37 |
 | 560 | [Over and Out](https://open.spotify.com/track/1J8CqSsS6ErrveimQyCvZa) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [Bad Witch](https://open.spotify.com/album/0Q2o6ioxIOlKPvRdG1K5da) | 7:49 |
 | 561 | [Speak To The Wind](https://open.spotify.com/track/4360tJiQv2OWcnkCmLGTWe) | [Spindrift](https://open.spotify.com/artist/7sAgUDgrln2VDNAHXO3TlQ) | [The Legend Of God's Gun](https://open.spotify.com/album/2ZerRLbXGVYgOb3vHsIYC7) | 4:49 |
-| 562 | [Pressure](https://open.spotify.com/track/3LqvmDtXWXjF7fg8mh8iZh) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Nylon Curtain](https://open.spotify.com/album/50bajZpetfL5T0iRCOR74J) | 4:40 |
+| 562 | [Pressure](https://open.spotify.com/track/3LqvmDtXWXjF7fg8mh8iZh) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Nylon Curtain](https://open.spotify.com/album/50bajZpetfL5T0iRCOR74J) | 4:41 |
 | 563 | [Little Wonder](https://open.spotify.com/track/3AvPN4L1ORIKZqjyPomkTS) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Earthling](https://open.spotify.com/album/1LCF3So9B9X0xreRtYbYIr) | 6:02 |
 | 564 | [Some Sunsick Day](https://open.spotify.com/track/54WIS7qug0Gnt65eD9gg8g) | [Morgan Delt](https://open.spotify.com/artist/29ITaP4nYGDlz54m7pLJL1) | [Phase Zero](https://open.spotify.com/album/7wIpbVMqhkkIA4CAEY0fsb) | 5:11 |
 | 565 | [Trouble](https://open.spotify.com/track/5n0CTysih20NYdT2S0Wpe8) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Tell Me I'm Pretty](https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ) | 3:45 |
@@ -645,7 +645,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 | 635 | [No Small Thing](https://open.spotify.com/track/7vuyjyv0cKggQm0Jj8GrOG) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [The Tipping Point](https://open.spotify.com/album/6xKxlHD3mWkKoMtl3ZVyLt) | 4:42 |
 | 636 | [Fear Of The Dawn](https://open.spotify.com/track/3FOcAGYwW2lKkqO6ffuJdX) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Fear Of The Dawn](https://open.spotify.com/album/46qeiLBu3KwqFQpJBT7t6B) | 2:02 |
 | 637 | [Watch Me Bleed](https://open.spotify.com/track/1kChx0uGraDIIyOVtBVawU) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [The Hurting](https://open.spotify.com/album/3sIFpEctox1XOs3FEkqrgr) | 4:15 |
-| 638 | [Blunderbuss](https://open.spotify.com/track/2bItWLPlRV0k38WVcNrLUS) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Blunderbuss](https://open.spotify.com/album/6eSJ0lu0uwtiqXkP7Qrrno) | 3:05 |
+| 638 | [Blunderbuss](https://open.spotify.com/track/2bItWLPlRV0k38WVcNrLUS) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Blunderbuss](https://open.spotify.com/album/6eSJ0lu0uwtiqXkP7Qrrno) | 3:06 |
 | 639 | [Live Without You](https://open.spotify.com/track/0c7mDfQ7tEV6IK5vGORefK) | [3rd Secret](https://open.spotify.com/artist/4atj4MLAMFKMwu4PG1zzb7) | [3rd Secret](https://open.spotify.com/album/6bhdV9FIncMze0E0ElvsTr) | 2:50 |
 | 640 | [I Choose Me](https://open.spotify.com/track/064I7lnHPQP68nbVZpS9K7) | [3rd Secret](https://open.spotify.com/artist/4atj4MLAMFKMwu4PG1zzb7) | [3rd Secret](https://open.spotify.com/album/6bhdV9FIncMze0E0ElvsTr) | 4:30 |
 | 641 | [A Hairdryer](https://open.spotify.com/track/5eGvUvIliCcmFqwC8kQSAw) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [A Light for Attracting Attention](https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi) | 5:17 |

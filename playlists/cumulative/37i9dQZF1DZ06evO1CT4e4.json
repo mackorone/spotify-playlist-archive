@@ -715,6 +715,28 @@
     },
     {
       "album": {
+        "name": "Silentium",
+        "url": "https://open.spotify.com/album/0yy8tXDKjL8JG9AD99MDwQ"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Hungarian State Opera Orchestra",
+          "url": "https://open.spotify.com/artist/6rLUj0kWUXAEbz26rtS9wO"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 534093,
+      "name": "Fratres for Strings and Percussion",
+      "url": "https://open.spotify.com/track/2dk94wD0xcHf6G9rzKUfMM"
+    },
+    {
+      "album": {
         "name": "Arvo P\u00e4rt: Alina",
         "url": "https://open.spotify.com/album/69iw6Zy6fh2dSnEgBTZKJE"
       },

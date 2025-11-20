@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0LqjAibgbS9ep32zZrDcAN.md) - [plain]
 
 > Finally that person that we've missed so much is home\. This deserves  a party!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,883 likes - 70 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,882 likes - 70 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/0LqjAibgbS9ep32zZrDcAN.md) - [plain]
 | 3 | [Homecoming](https://open.spotify.com/track/51ayJ1r626si5LUBuOV5GR) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Chris Martin](https://open.spotify.com/artist/0LQoZQIV0mIs0y0XQb0Sw2) | [Homecoming](https://open.spotify.com/album/7qc7uP4et4ATd9YYUN2Azh) | 3:23 |
 | 4 | [Safe And Sound](https://open.spotify.com/track/0oFvhxNf3mBII26pPI3a5I) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [In A Tidal Wave Of Mystery](https://open.spotify.com/album/1L19oPU0umN0bd2N1QQXJw) | 3:13 |
 | 5 | [Ain't Nobody \(Loves Me Better\)](https://open.spotify.com/track/5afHIkEcVhCF1Z1CTqMUXB) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Ain't Nobody \(Loves Me Better\)](https://open.spotify.com/album/3beitV4REkUMQn4BXZlD8F) | 3:06 |
-| 6 | [Around the World \- Radio Edit \[Radio Edit\]](https://open.spotify.com/track/0TxMRiAvI1s0L821BJJWzx) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Musique, Vol\. 1](https://open.spotify.com/album/4a0p1M12f7VaZWdoNSdEK4) | 4:01 |
+| 6 | [Around the World \- Radio Edit](https://open.spotify.com/track/0TxMRiAvI1s0L821BJJWzx) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Musique, Vol\. 1](https://open.spotify.com/album/4a0p1M12f7VaZWdoNSdEK4) | 4:01 |
 | 7 | [Hold On, We're Going Home](https://open.spotify.com/track/6jdOi5U5LBzQrc4c1VT983) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Nothing Was The Same \(Deluxe\)](https://open.spotify.com/album/2ZUFSbIkmFkGag000RWOpA) | 3:47 |
 | 8 | [Young, Wild & Free \(feat\. Bruno Mars\)](https://open.spotify.com/track/5HQVUIKwCEXpe7JIHyY734) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Young, Wild & Free \(feat\. Bruno Mars\)](https://open.spotify.com/album/11Bkx3E99vf0IlYPND61LJ) | 3:27 |
 | 9 | [Welcome Back](https://open.spotify.com/track/2XQY54Im8VrO4sd2tAmiv4) | [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6) | [Welcome Back](https://open.spotify.com/album/3Mb97a181fWxWHlGQGHTPO) | 4:22 |

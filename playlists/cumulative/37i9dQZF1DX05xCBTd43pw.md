@@ -4,11 +4,12 @@
 
 > Grüezi! This is 100% made in Switzerland\.  Cover: Linda Elys
 
-444 songs - 22 hr 55 min
+445 songs - 22 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(fernweh\)](https://open.spotify.com/track/7veAymqTvLUvcQwixp6aRI) | [Gigi](https://open.spotify.com/artist/4WHIwrxGzplAND7Cgs7aCh) | [Hinterem Mond](https://open.spotify.com/album/5Qe6ceY5yPGV5e40FuKjaR) | 2:55 | 2025-05-08 | 2025-05-16 |
+| [13 Juwele](https://open.spotify.com/track/1qNioJrOIFUj3oTZiI52up) | [Steff la Cheffe](https://open.spotify.com/artist/0Wz7fR8K35NKtz7of2BdIU) | [13 Juwele](https://open.spotify.com/album/2uKIdayCMdHqX0VnmfhKyA) | 2:49 | 2025-11-13 |  |
 | [1x1](https://open.spotify.com/track/5NaUNpm1Qjw90o1k0MUkKN) | [Melodiesinfonie](https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd), [OG Florin](https://open.spotify.com/artist/5OxRSgisvdKcNLUsvCzZc9) | [1x1](https://open.spotify.com/album/7nrMFMyw0vcahCA98Djdi3) | 3:04 | 2025-05-15 | 2025-05-23 |
 | [2024 FREESTYLE](https://open.spotify.com/track/4kCCkzbocx5lvmceKxgIWC) | [Cosmo12](https://open.spotify.com/artist/0U4D0tyUIPeF0ithTTrYKK) | [2024 FREESTYLE](https://open.spotify.com/album/0MVVqc5fZFIrv1RAyE5QyH) | 2:33 | 2025-04-24 | 2025-05-02 |
 | [2560](https://open.spotify.com/track/20hvdVSrSkh8wZZKSVBH6o) | [James Gruntz](https://open.spotify.com/artist/3vyUTiW9vClzOUXCHVNWsy) | [2560](https://open.spotify.com/album/2dr4Cl4sfBrLoqvFzZcwdv) | 3:18 | 2024-07-04 | 2024-11-10 |
@@ -431,7 +432,7 @@
 | [Watergun](https://open.spotify.com/track/4ih4oGbMt9b6PbKhTPbAmw) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Watergun](https://open.spotify.com/album/6aBXNHeyTnhy5PooV2izJT) | 2:52 | 2024-06-27 |  |
 | [We Got Love](https://open.spotify.com/track/6o2HzZfazmewxdXpYufWRx) | [Chiara Castelli](https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33) | [We Got Love](https://open.spotify.com/album/2KBis9Of82TXR9ZDtwGrpL) | 2:20 | 2024-06-27 | 2024-10-20 |
 | [Weekend](https://open.spotify.com/track/3XiLkVWxjafBq4YcvtCqq8) | [Arma Jackson](https://open.spotify.com/artist/22I8wvU1Zw6EMiOt4W98BN) | [Été sans fin](https://open.spotify.com/album/5ya3DUeWCWz2gtftAC3tLH) | 2:24 | 2025-04-24 | 2025-05-02 |
-| [Weird Kid](https://open.spotify.com/track/6ChiiuzwA5FV2Szt22nJ7s) | [To Athena](https://open.spotify.com/artist/3sdOf3sXS7uXLIaPQL33fl) | [Weird Kid](https://open.spotify.com/album/5YBiuHnpqXl0UBC3tthNj6) | 3:45 | 2025-06-26 |  |
+| [Weird Kid](https://open.spotify.com/track/6ChiiuzwA5FV2Szt22nJ7s) | [To Athena](https://open.spotify.com/artist/3sdOf3sXS7uXLIaPQL33fl) | [Weird Kid](https://open.spotify.com/album/5YBiuHnpqXl0UBC3tthNj6) | 3:45 | 2025-06-26 | 2025-11-20 |
 | [Wenn Du Das Lied Ghörsch](https://open.spotify.com/track/4Iu56eMBRx5CN6l5m4M16o) | [Baschi](https://open.spotify.com/artist/6XzAV5lONpTgoSJDsF2Ubz) | [Fürs Volk](https://open.spotify.com/album/5LMk7KjAHAhOqEna4GNqZG) | 3:33 | 2025-05-01 | 2025-05-09 |
 | [Wer hats erfunden](https://open.spotify.com/track/0QDZw9cs0VnQzEol2DfGJh) | [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [Wer hats erfunden](https://open.spotify.com/album/52JBA7u2pkfcovbX91KTpm) | 2:12 | 2025-05-22 | 2025-09-13 |
 | [What If This World](https://open.spotify.com/track/5iij775fYn7KUTYJPX9SSw) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [What If This World](https://open.spotify.com/album/1sIyk17IVWsl7l5OGd8ZRr) | 3:39 | 2025-08-14 | 2025-10-29 |

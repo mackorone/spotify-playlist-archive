@@ -3363,6 +3363,28 @@
     },
     {
       "album": {
+        "name": "Mambo Positivo",
+        "url": "https://open.spotify.com/album/5cVamWqIlxO0nKI6POjxhQ"
+      },
+      "artists": [
+        {
+          "name": "Renzo ED",
+          "url": "https://open.spotify.com/artist/2nZdsl4XZtlLoZm4B4F7eh"
+        },
+        {
+          "name": "Martin Vegas",
+          "url": "https://open.spotify.com/artist/0Hj71XvNxPsd4X5umdCmgp"
+        }
+      ],
+      "date_added": "2025-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163756,
+      "name": "Mambo Positivo",
+      "url": "https://open.spotify.com/track/6WdOMvCQf8Z1oH9yWvfEy4"
+    },
+    {
+      "album": {
         "name": "Manos de Tijera",
         "url": "https://open.spotify.com/album/2JdnWfuorkwlQFpiebOzHj"
       },

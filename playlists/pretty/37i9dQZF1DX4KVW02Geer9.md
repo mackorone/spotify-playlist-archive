@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KVW02Geer9.md) - [plain]
 
 > クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: Ezra Collective
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,416 likes - 85 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,422 likes - 85 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [⁠Beto’s Horns \- Ezra Collective remix](https://open.spotify.com/track/39QDO1CMwXHDPdw8cjJpTi) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX), [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [⁠Beto’s Horns \(Ezra Collective remix\)](https://open.spotify.com/album/7bIhFRBtzVR41QlA9zj9ru) | 5:50 |
+| 1 | [⁠Beto’s Horns \- Ezra Collective remix](https://open.spotify.com/track/39QDO1CMwXHDPdw8cjJpTi) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX), [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [⁠Beto’s Horns \(Ezra Collective remix\)](https://open.spotify.com/album/7bIhFRBtzVR41QlA9zj9ru) | 4:49 |
 | 2 | [Upside Down \(Candy Crush\)](https://open.spotify.com/track/1WCzVWXNgKiadQJiOhYGbL) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Upside Down \(Candy Crush\)](https://open.spotify.com/album/7r5mhyO9C2p6mvRRP8YDHf) | 3:29 |
 | 3 | [Lifetones \- Vocal Version feat\. Asheber](https://open.spotify.com/track/25w5gn0TiUNWxvkBFyBV3P) | [Joe Armon\-Jones](https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5), [Asheber](https://open.spotify.com/artist/6jHU62NQ2ooWor2Oc0nAEw) | [Lifetones \(Vocal Version feat\. Asheber\)](https://open.spotify.com/album/74PcPypFj9k4vXFClPYUuH) | 7:19 |
 | 4 | [Over \(feat\. Yebba\)](https://open.spotify.com/track/2tGruyXi5FsyP9c5yGh9gz) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Keys To The City Volume One](https://open.spotify.com/album/32GpVPWX3xM7wvTDoNugiU) | 5:01 |

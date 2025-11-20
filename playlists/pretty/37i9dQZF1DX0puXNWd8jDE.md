@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0puXNWd8jDE.md) - [plain]
 
 > 偷練不是罪、抖音無所謂、最新曲目讓你全台包廂任意走跳！
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,691 likes - 65 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,705 likes - 65 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,13 +33,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0puXNWd8jDE.md) - [plain]
 | 23 | [愛情的大壞蛋](https://open.spotify.com/track/5HVq8nS0pbM6G7YK8M7DY4) | [Amazing Show](https://open.spotify.com/artist/3n16EAnJtz6SZGx2zJssrI) | [Amazing Show同名專輯](https://open.spotify.com/album/7DEWBNaWhhqgjai4w7Mcau) | 3:07 |
 | 24 | [年少的我們永遠輕狂](https://open.spotify.com/track/0aVuYhu00PLJiLaK3FbxR9) | [Crispy脆樂團](https://open.spotify.com/artist/5AO5nzx14PfLNfVgYVd0rw) | [願你愛自己，像我愛你一樣](https://open.spotify.com/album/4JLYwZPpbZandgmxR4GYYT) | 4:31 |
 | 25 | [不簡單的歌 \(feat\. Faye 詹雯婷\)](https://open.spotify.com/track/77Y69dj99sTYGAWule3nz8) | [Marz23](https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9), [Faye 詹雯婷](https://open.spotify.com/artist/7hmSHY9HVVQKejpGbPbo16) | [不簡單的歌 \(feat\. Faye 詹雯婷\)](https://open.spotify.com/album/7D0UoSpD6qC3PAFP1KStSE) | 4:37 |
-| 26 | [我懷念的](https://open.spotify.com/track/7z2M7DsEjZjwXBkWG3zd21) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [逆光](https://open.spotify.com/album/6mBrt99J1sFWMQ9LzPHLGw) | 4:49 |
+| 26 | [我懷念的](https://open.spotify.com/track/7z2M7DsEjZjwXBkWG3zd21) | [孫燕姿](https://open.spotify.com/artist/0m82WFZwz1rRtE6k69fLY3) | [逆光](https://open.spotify.com/album/6mBrt99J1sFWMQ9LzPHLGw) | 4:49 |
 | 27 | [Pillow](https://open.spotify.com/track/0cTOxS0Yq7TqBGsrMwWWxW) | [JOLIN](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [Pleasure](https://open.spotify.com/album/0LbR39fJOYWdaJ7sHfcYtF) | 3:52 |
 | 28 | [路邊野餐](https://open.spotify.com/track/7BjMNIQgVU6LMNlmC0syLN) | [Ann Bai](https://open.spotify.com/artist/6ytn3LGlsoOgU3YGF9T42s) | [路邊野餐](https://open.spotify.com/album/2orkXIrmeWyfEr1RU5excO) | 3:58 |
 | 29 | [咱們結婚吧](https://open.spotify.com/track/0nlwaIGu5ACtqGp0iDgKbY) | [齊晨](https://open.spotify.com/artist/6FgvbauqkRDLhAB6Jv8HWK) | [咱們結婚吧](https://open.spotify.com/album/0LC9IiZTL5lT8eKfLM10Zb) | 3:48 |
 | 30 | [如果可以 \- 電影"月老"主題曲](https://open.spotify.com/track/72OVnXDzugvrCU25lMi9au) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [如果可以 \(電影"月老"主題曲\)](https://open.spotify.com/album/6CGKNcn63JbPWljHtQi1L0) | 4:34 |
 | 31 | [這世界那麼多人（電影《我要我們在一起》主題曲）](https://open.spotify.com/track/3k1xxwqfIM47bLiqOG1kfs) | [Karen Mok](https://open.spotify.com/artist/6jlz5QSUqbKE4vnzo2qfP1) | [這世界那麼多人（電影《我要我們在一起》主題曲）](https://open.spotify.com/album/0unRhNGDViXGX5H7OwEWqL) | 4:45 |
-| 32 | [倒帶](https://open.spotify.com/track/4XipvtwRgtUrGb2j2l0wNG) | [JOLIN](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [城堡](https://open.spotify.com/album/6OeSMtENnJV8FpGb1eZheV) | 4:26 |
+| 32 | [倒帶](https://open.spotify.com/track/4XipvtwRgtUrGb2j2l0wNG) | [JOLIN](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [城堡](https://open.spotify.com/album/6OeSMtENnJV8FpGb1eZheV) | 4:25 |
 | 33 | [糾結重啟](https://open.spotify.com/track/3tzxVED05RCsRNOQJElq98) | [琟娜 VERNA](https://open.spotify.com/artist/66gwqjmihplb7x3FUfqzWH), [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [糾結重啟](https://open.spotify.com/album/2eY4f34rfEOcK0iO714ybu) | 3:34 |
 | 34 | [瓶中信](https://open.spotify.com/track/3DnBzKHNsVSUH49on6xHBN) | [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7) | [瓶中信](https://open.spotify.com/album/5CdEIaE3PzgSdSrobvasQ9) | 3:25 |
 | 35 | [慢冷](https://open.spotify.com/track/3NNDJfWMGHuNpvHWTImmlW) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [我好嗎? \- 太陽如常升起](https://open.spotify.com/album/13EgeVmtvcqQIdJJix6QzM) | 4:49 |

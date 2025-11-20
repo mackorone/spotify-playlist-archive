@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcXDcpUvTjmE.md) - [plain]
 
 > Canciones de calaveritas, monstruos y fantasmitas amigables.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,043 likes - 68 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,044 likes - 68 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcXDcpUvTjmE.md) - [plain]
 | 55 | [Jack's Obsession](https://open.spotify.com/track/5Yl2MFlben2pLcEUaKrDyJ) | [Cast \- The Nightmare Before Christmas](https://open.spotify.com/artist/1LBMTH4i180mwTLvTW84H3), [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [The Nightmare Before Christmas](https://open.spotify.com/album/4YF2FhoRfaTLv2sMVLUrJm) | 2:46 |
 | 56 | [The Addams Family](https://open.spotify.com/track/3BkFCWaLPDrkf7HWQdSyQe) | [The City of Prague Philharmonic Orchestra](https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu) | [100 Greatest TV Themes](https://open.spotify.com/album/7D31xIneotn8D1JGWB0bKB) | 2:19 |
 | 57 | [Grim Grinning Ghosts \- From "The Haunted Mansion"](https://open.spotify.com/track/22HoAbMq2QiKjfc1ZNqy0D) | [The Melomen](https://open.spotify.com/artist/2Zdiv6y6Bd0GpdlEtvXzVB), [Paul Frees](https://open.spotify.com/artist/4O7CH489gsT4ZDJNL98Eqk), [Betty Taylor](https://open.spotify.com/artist/1lD6fWemp959GGVhH0NuC1), [Bill Lee](https://open.spotify.com/artist/1Vb1cXNxIUyb3Geb9cvSvL), [Thurl Ravenscroft](https://open.spotify.com/artist/5Gejwv3xz2DpLcxVpMD6hL) | [Walt Disney Records The Legacy Collection: Disneyland](https://open.spotify.com/album/6Tl4sqA4gMSbqAAs2T0C41) | 5:32 |
-| 58 | [Banana Boat \(Day\-O\)](https://open.spotify.com/track/4fHDlIntTsRGSyTg5UYZYC) | [Harry Belafonte](https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z) | [Calypso](https://open.spotify.com/album/5cBYisZzEb84qxMwXVfcT3) | 3:03 |
+| 58 | [Banana Boat \(Day\-O\)](https://open.spotify.com/track/4fHDlIntTsRGSyTg5UYZYC) | [Harry Belafonte](https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z) | [Calypso](https://open.spotify.com/album/5cBYisZzEb84qxMwXVfcT3) | 3:09 |
 | 59 | [Para Morirse](https://open.spotify.com/track/5lTAefrvpq8BoY1dOowcxh) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [El Rey León](https://open.spotify.com/album/4UOhexwPupfdEPxQeysY81) | 4:18 |
 | 60 | [Remains of the Day](https://open.spotify.com/track/6dw3oQI0NhwYxMiNfVRIHA) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Tim Burton's Corpse Bride Original Motion Picture Soundtrack \(U.S\. Release\)](https://open.spotify.com/album/7EB12gs5cyRcj9TsdZwYEd) | 3:26 |
 | 61 | [The Worst Pies in London](https://open.spotify.com/track/1Qg27064zgcyaB78AgwZ4i) | [Helena Bonham Carter](https://open.spotify.com/artist/7gX22Ua3mEH2KXTCpIfoOP) | [Sweeney Todd, The Demon Barber of Fleet Street, The Motion Picture Soundtrack](https://open.spotify.com/album/0CgTKS2HmWc3JeI9Fit2vX) | 2:23 |

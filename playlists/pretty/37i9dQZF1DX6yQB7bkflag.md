@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Charli xcx
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,028 likes - 161 songs - 9 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,024 likes - 161 songs - 9 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

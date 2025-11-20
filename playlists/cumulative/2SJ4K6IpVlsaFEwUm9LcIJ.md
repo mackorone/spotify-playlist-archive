@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to nov\-dec 2025
 
-805 songs - 1 day 23 hr 22 min
+807 songs - 1 day 23 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -430,6 +430,7 @@
 | [LOVE ME, HATE ME](https://open.spotify.com/track/0qtODBXCDFVwrMFNes78TU) | [454](https://open.spotify.com/artist/29fUSOyH1ufr9HZbErHpc4), [Pig the Gemini](https://open.spotify.com/artist/5jcH3zjAdfg5RZWu8dXjGd) | [FAST TRAX 3](https://open.spotify.com/album/4Wu3A2zAzOPrws6F9QLxqq) | 3:45 | 2025-06-15 | 2025-07-04 |
 | [Love Song for Someone](https://open.spotify.com/track/6agbRiKOPcWFy7ooUX5L9L) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Labi Siffre \(Deluxe Edition\)](https://open.spotify.com/album/53G6qQDFTKytYhSKNAMINo) | 2:47 | 2025-01-14 | 2025-03-02 |
 | [Love To Know](https://open.spotify.com/track/2eJW10wl70KQ7zLazlSEMW) | [Marine Girls](https://open.spotify.com/artist/06U3HB7kYW3D8AORt54Xp8) | [Lazy Ways/Beach Party](https://open.spotify.com/album/1mcPuNWDmqpSpm86qyHD8l) | 2:51 | 2025-10-23 | 2025-11-15 |
+| [Love You To Death](https://open.spotify.com/track/1n37LpBrr9CU9IJYotLMZO) | [Snowy Band](https://open.spotify.com/artist/0Ky0HZRpab9SW891Jb9gce) | [Audio Commentary](https://open.spotify.com/album/2XY6A8TMHbPaffK00b72BO) | 4:02 | 2025-11-19 |  |
 | [Low](https://open.spotify.com/track/762nQHxV3RCum4UBgARjaW) | [villagerrr](https://open.spotify.com/artist/1vQ5CUq3dcQkRRCGd94UD5) | [Tear Your Heart Out](https://open.spotify.com/album/66aBhNtqG6pZvyiaqECBZi) | 4:19 | 2024-03-29 | 2024-05-16 |
 | [Lucky Stars](https://open.spotify.com/track/7cJdD6acIkIxAMCEGimoO6) | [LUCY \(Cooper B\. Handy\)](https://open.spotify.com/artist/16j0wVUk9UOoYEDknfb9rK) | [The Music Industry Is Poisonous](https://open.spotify.com/album/1Ramc5P9LF57iC0hIFU8Fm) | 2:07 | 2025-09-25 | 2025-11-15 |
 | [Lux Radio Theatre](https://open.spotify.com/track/7L6luimnBJ3SRfyf2Ua436) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Heaven Is a Junkyard](https://open.spotify.com/album/2ORI4KGuGYO14sxdwbmOBY) | 2:44 | 2024-02-13 | 2024-03-10 |
@@ -597,6 +598,7 @@
 | [Sambinha](https://open.spotify.com/track/2EHXd5o9sBnGRhgSxULQYJ) | [Tenorio Jr.](https://open.spotify.com/artist/5RYHqDtvrm4QLsvcoOHmR9) | [Embalo](https://open.spotify.com/album/6nSnQ6vyh0glT2MqpLQmsO) | 2:44 | 2025-06-25 | 2025-07-04 |
 | [SAME THING](https://open.spotify.com/track/5z3s5KcMf7rIItfjGJoWqF) | [LUCY \(Cooper B\. Handy\)](https://open.spotify.com/artist/16j0wVUk9UOoYEDknfb9rK), [SURF GANG](https://open.spotify.com/artist/0rTeZQSxEg1XzZ1dFz6Moz) | [SAME THING](https://open.spotify.com/album/11Fi8BwZJ7bb9U5a37VM6x) | 1:49 | 2024-06-24 | 2024-07-12 |
 | [Sandhills](https://open.spotify.com/track/6dBkJ5LGEm5oaR3CxAR7yg) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Sandhills](https://open.spotify.com/album/1ZTd9cM6FPWW4ZP0qUwhpF) | 3:15 | 2024-04-27 | 2024-05-16 |
+| [Sarra](https://open.spotify.com/track/1jE72J1IkFypVBhAt4EnIv) | [Gary Davenport](https://open.spotify.com/artist/49c7NHtdbavJhYgbbSMqDN) | [Scattered Thoughts](https://open.spotify.com/album/5ESXATt30MXodjyyubLgx2) | 5:04 | 2025-11-20 |  |
 | [Schoolyard](https://open.spotify.com/track/5M6OssO7gXnLr6n3NwJwfa) | [Purr](https://open.spotify.com/artist/25AQuae8HK3syxqOJuODit) | [Whales Lead to the Deep Sea](https://open.spotify.com/album/39UFo0EWgnNRGq6vnITFwr) | 4:52 | 2025-02-14 | 2025-03-02 |
 | [Secant](https://open.spotify.com/track/5xQi0S19LLAy7EXIapTYY0) | [Akusmi](https://open.spotify.com/artist/34uth6SLb5I9CKoCBMqDPS) | [Secant](https://open.spotify.com/album/1j63BB3wTzgbKJPvlup2ov) | 6:49 | 2024-09-30 | 2024-11-14 |
 | [Secret Teardrops](https://open.spotify.com/track/03Mh2iAAdKKREZTe8rWbbT) | [Martin Rev](https://open.spotify.com/artist/4zDG2kkm3SmF383uO3Hgo8) | [See Me Ridin'](https://open.spotify.com/album/6i384rUguMYCULZXA3qsaV) | 2:42 | 2024-05-16 | 2024-07-12 |

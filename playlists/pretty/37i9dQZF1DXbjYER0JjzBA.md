@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjYER0JjzBA.md) - [plain]
 
 > The tracklist to your holiday movie soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,662 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,599 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjYER0JjzBA.md) - [plain]
 | 9 | [It Feels Like Christmas](https://open.spotify.com/track/1abiHuQJw6UZyFkekr7DDY) | [Ghost of Christmas Present](https://open.spotify.com/artist/2RmGe4wEgHudP9BBRfR8Ez) | [The Muppet Christmas Carol \(Special Anniversary Edition\)](https://open.spotify.com/album/63DYbHrvwaBaWVjqQkNvT0) | 2:42 |
 | 10 | [The Chanukah Song](https://open.spotify.com/track/6doSV1UQjyKxiNCnBnDTeG) | [Adam Sandler](https://open.spotify.com/artist/2LB9H0px4qWbCHg9Axzhga) | [What the Hell Happened to Me?](https://open.spotify.com/album/3Yfv7YSzNFCkAFkrg0YaPp) | 3:43 |
 | 11 | [Blue Christmas](https://open.spotify.com/track/6ad93zI93tAFHaYhO9mtZa) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Christmas With The Kranks](https://open.spotify.com/album/1nWXFIHFmuBRUH6NhIXSsQ) | 2:06 |
-| 12 | [Here Comes Santa Claus \(Right Down Santa Claus Lane\) \- 1947 Version](https://open.spotify.com/track/25leEEaz1gIpp7o21Fqyjo) | [Gene Autry](https://open.spotify.com/artist/5ixB75BQR3ADoWQkcHQJTs) | [Rudolph The Red Nosed Reindeer And Other Christmas Classics](https://open.spotify.com/album/3BPDSjoJlho8oiUPUNrShM) | 2:30 |
+| 12 | [Here Comes Santa Claus \(Right Down Santa Claus Lane\) \- 1947 Version](https://open.spotify.com/track/25leEEaz1gIpp7o21Fqyjo) | [Gene Autry](https://open.spotify.com/artist/5ixB75BQR3ADoWQkcHQJTs) | [Rudolph The Red Nosed Reindeer And Other Christmas Classics](https://open.spotify.com/album/3BPDSjoJlho8oiUPUNrShM) | 2:33 |
 | 13 | [Candy Cane Lane](https://open.spotify.com/track/02tDqMrg969BoG5s6TBnbh) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Happiest Season \(Music from and Inspired by the Film\)](https://open.spotify.com/album/4FwF3viwUJiAzgSNohUI02) | 3:32 |
 | 14 | [The Chipmunk Song \(Christmas Don't Be Late\) \- Remastered 1999](https://open.spotify.com/track/02NKMA9cIkq6VuBNu9q9Wf) | [Alvin & The Chipmunks](https://open.spotify.com/artist/1SCWcYnoEh1978ycTDhZoW), [David Seville](https://open.spotify.com/artist/4NI5R1DbX27ODY5JTqnv2l) | [Christmas With The Chipmunks \(2010\)](https://open.spotify.com/album/3X7elwYMwXz3flSYNtSfHQ) | 2:21 |
 | 15 | [Where Are You Christmas \- From "Dr\. Seuss' How The Grinch Stole Christmas" Soundtrack](https://open.spotify.com/track/1msuiw6pnXYfxZ7Edyit9U) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Dr\. Seuss' How The Grinch Stole Christmas](https://open.spotify.com/album/3eWFPHtloHTw9Ilod4Ivi6) | 4:07 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjYER0JjzBA.md) - [plain]
 | 37 | [Grandma Got Run Over By A Reindeer](https://open.spotify.com/track/1ghnWU6qe50djdknWRMAxi) | [Dr\. Elmo](https://open.spotify.com/artist/18v4RC49TBlah2kOk9OIfr) | [Grandma Got Run Over By A Reindeer](https://open.spotify.com/album/2n25GhNkqXYlWC9gWWpvUG) | 3:31 |
 | 38 | [Jingle Bell Rock](https://open.spotify.com/track/0MKnGJzNdEqOscI6xu9R3m) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Merry Christmas From Brenda Lee](https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG) | 2:10 |
 | 39 | [Main Title](https://open.spotify.com/track/05A44JvvE9McpmTDG0HNvJ) | [John Debney](https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ) | [Elf \(Original Motion Picture Score\)](https://open.spotify.com/album/5bxgDFR2u7XiGmmfPRC881) | 1:58 |
-| 40 | [Frosty the Snowman](https://open.spotify.com/track/7n5m8nDAnyXo81tr4B3Bcw) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [A Christmas Gift For You From Phil Spector](https://open.spotify.com/album/2kzkwgOFAtRsDsas5Hi0Qu) | 2:16 |
+| 40 | [Frosty the Snowman](https://open.spotify.com/track/7n5m8nDAnyXo81tr4B3Bcw) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [A Christmas Gift For You From Phil Spector](https://open.spotify.com/album/2kzkwgOFAtRsDsas5Hi0Qu) | 2:20 |
 | 41 | [This Christmas](https://open.spotify.com/track/3W6PmtGTyLwWBWUYplSWHT) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [This Christmas \- Songs From The Motion Picture](https://open.spotify.com/album/75p6D49hWX6bmG8PJFb02h) | 3:17 |
 | 42 | [Main Title "Somewhere in My Memory" \(From "Home Alone" Soundtrack\)](https://open.spotify.com/track/1FlxqJmoZWS2q1uRlyZVur) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Home Alone \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3rDo7fQDUwJ6qmxwP5yQsY) | 4:53 |
 | 43 | [Christmas at Hogwarts](https://open.spotify.com/track/4WPw9shOzxaA4cWws44Xjd) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack](https://open.spotify.com/album/6zeHM5CV0CjcS0K8ouWE4N) | 2:55 |

@@ -490,7 +490,7 @@
       ],
       "date_added": "2025-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-17",
+      "date_removed": null,
       "duration_ms": 241600,
       "name": "Dress You Up",
       "url": "https://open.spotify.com/track/1Fhx9C87IjEAtWI9FF0IzF"
@@ -726,10 +726,28 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 315466,
       "name": "Get Together",
       "url": "https://open.spotify.com/track/1AQQ9DdpEemMVTHNz4eG9a"
+    },
+    {
+      "album": {
+        "name": "Confessions On A Dance Floor (Twenty Years Edition)",
+        "url": "https://open.spotify.com/album/4ANSdhjb0b1KqKpPTyUSV9"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330066,
+      "name": "Get Together",
+      "url": "https://open.spotify.com/track/2D6vJwK5ycScTyyqub8gis"
     },
     {
       "album": {
@@ -1832,7 +1850,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 221266,
       "name": "Super Pop",
       "url": "https://open.spotify.com/track/784mIEPJslfAXPOCxSuKy0"

@@ -1,12 +1,12 @@
 {
   "description": "This is Koe Wetzel. The essential tracks, all in one playlist.",
-  "num_followers": 49888,
+  "num_followers": 49890,
   "original_name": "This Is Koe Wetzel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRplgAAAAAAmNnUEyMEXpdESsoR+qr42",
+  "snapshot_id": "aRu3AAAAAADb9NVh+K7yXe0ZDGJliVPR",
   "tracks": [
     {
       "added_at": null,
@@ -383,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hell Paso",
-        "url": "https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD"
+        "name": "Out on Parole",
+        "url": "https://open.spotify.com/album/3WhPz52gxnsbw2QxtctNmP"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 216160,
-      "name": "Oklahoma Sun",
-      "url": "https://open.spotify.com/track/0j3wDCVzAyUEtNsbjKyJZs"
+      "duration_ms": 244580,
+      "name": "Song I Can Drink Too",
+      "url": "https://open.spotify.com/track/6aqG6VFDGxrVkPJxumd9kG"
     },
     {
       "added_at": null,
@@ -415,8 +415,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Out on Parole",
-        "url": "https://open.spotify.com/album/3WhPz52gxnsbw2QxtctNmP"
+        "name": "Hell Paso",
+        "url": "https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD"
       },
       "artists": [
         {
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 244580,
-      "name": "Song I Can Drink Too",
-      "url": "https://open.spotify.com/track/6aqG6VFDGxrVkPJxumd9kG"
+      "duration_ms": 216160,
+      "name": "Oklahoma Sun",
+      "url": "https://open.spotify.com/track/0j3wDCVzAyUEtNsbjKyJZs"
     },
     {
       "added_at": null,
@@ -463,6 +463,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Out on Parole",
+        "url": "https://open.spotify.com/album/3WhPz52gxnsbw2QxtctNmP"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 256765,
+      "name": "Lonely as It Gets",
+      "url": "https://open.spotify.com/track/0P7Ec1pk2DC67f4BgMIgr5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Diplo Presents Thomas Wesley: Chapter 2 - Swamp Savant",
         "url": "https://open.spotify.com/album/7ELhUQl1bjPyYHtRt7S5vg"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 155495,
       "name": "Wasted (feat. Kodak Black & Koe Wetzel)",
       "url": "https://open.spotify.com/track/231JL1zyH8JlEvYkCymu1K"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Out on Parole",
-        "url": "https://open.spotify.com/album/3WhPz52gxnsbw2QxtctNmP"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 256765,
-      "name": "Lonely as It Gets",
-      "url": "https://open.spotify.com/track/0P7Ec1pk2DC67f4BgMIgr5"
     },
     {
       "added_at": null,
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 239254,
-      "name": "Never Leave",
-      "url": "https://open.spotify.com/track/60BIPuGD04bcqHPV1qSja0"
+      "duration_ms": 240068,
+      "name": "Gravedigger",
+      "url": "https://open.spotify.com/track/0qu4MZi0L4sXBcvvxjqDkW"
     },
     {
       "added_at": null,
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 240068,
-      "name": "Gravedigger",
-      "url": "https://open.spotify.com/track/0qu4MZi0L4sXBcvvxjqDkW"
+      "duration_ms": 239254,
+      "name": "Never Leave",
+      "url": "https://open.spotify.com/track/60BIPuGD04bcqHPV1qSja0"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Net die beste Afrikaanse musiek! Omslag: Brendan Peyper",
-  "num_followers": 137419,
+  "num_followers": 137474,
   "original_name": "Afrikaanse Hits",
   "owner": {
     "name": "Spotify",
@@ -335,18 +335,18 @@
     {
       "added_at": "2025-11-10 08:54:35",
       "album": {
-        "name": "Boomhuis",
-        "url": "https://open.spotify.com/album/00TEG3fQnMHMLQbRaMCgx4"
+        "name": "Roeper",
+        "url": "https://open.spotify.com/album/2QJ44nnWK5IL1BzxKncvZz"
       },
       "artists": [
         {
-          "name": "Elandr\u00e9",
-          "url": "https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo"
+          "name": "Theuns Jordaan",
+          "url": "https://open.spotify.com/artist/4FG57Vo1nipFsF1lRfYtE4"
         }
       ],
-      "duration_ms": 216795,
-      "name": "Vuur Op Die Water",
-      "url": "https://open.spotify.com/track/2bW96CDjgaLh6E3HM1Fv8r"
+      "duration_ms": 228440,
+      "name": "Sal Jy Bly",
+      "url": "https://open.spotify.com/track/13cZuZKQT5X7u7vFeLQGnT"
     },
     {
       "added_at": "2025-10-30 22:00:14",
@@ -367,18 +367,18 @@
     {
       "added_at": "2025-11-10 08:54:35",
       "album": {
-        "name": "Roeper",
-        "url": "https://open.spotify.com/album/2QJ44nnWK5IL1BzxKncvZz"
+        "name": "Boomhuis",
+        "url": "https://open.spotify.com/album/00TEG3fQnMHMLQbRaMCgx4"
       },
       "artists": [
         {
-          "name": "Theuns Jordaan",
-          "url": "https://open.spotify.com/artist/4FG57Vo1nipFsF1lRfYtE4"
+          "name": "Elandr\u00e9",
+          "url": "https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo"
         }
       ],
-      "duration_ms": 228440,
-      "name": "Sal Jy Bly",
-      "url": "https://open.spotify.com/track/13cZuZKQT5X7u7vFeLQGnT"
+      "duration_ms": 216795,
+      "name": "Vuur Op Die Water",
+      "url": "https://open.spotify.com/track/2bW96CDjgaLh6E3HM1Fv8r"
     },
     {
       "added_at": "2025-11-10 08:54:35",
@@ -979,22 +979,6 @@
     {
       "added_at": "2025-10-30 22:00:14",
       "album": {
-        "name": "Carina",
-        "url": "https://open.spotify.com/album/6ptuyFJvXUQAtZV8GTf3qS"
-      },
-      "artists": [
-        {
-          "name": "Danny Smoke",
-          "url": "https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj"
-        }
-      ],
-      "duration_ms": 196208,
-      "name": "Carina",
-      "url": "https://open.spotify.com/track/6g8kgX8WWiExbvUJqGpz1X"
-    },
-    {
-      "added_at": "2025-10-30 22:00:14",
-      "album": {
         "name": "Shut Up & Soen My",
         "url": "https://open.spotify.com/album/2nGlSHYxK3nHVx4nTlGw4d"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 192676,
       "name": "Shut Up & Soen My",
       "url": "https://open.spotify.com/track/1LVudOtqu2VZzuE1UrfjpL"
+    },
+    {
+      "added_at": "2025-10-30 22:00:14",
+      "album": {
+        "name": "Dik Stukke",
+        "url": "https://open.spotify.com/album/1vx1KGUg2AzDmbOh3kQCGy"
+      },
+      "artists": [
+        {
+          "name": "Danny Smoke",
+          "url": "https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj"
+        }
+      ],
+      "duration_ms": 187611,
+      "name": "Dik Stukke",
+      "url": "https://open.spotify.com/track/1vLgP2904rKta6tRuWjfS0"
     },
     {
       "added_at": "2025-10-30 22:00:14",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2025-10-30 22:00:14",
       "album": {
-        "name": "Dik Stukke",
-        "url": "https://open.spotify.com/album/1vx1KGUg2AzDmbOh3kQCGy"
-      },
-      "artists": [
-        {
-          "name": "Danny Smoke",
-          "url": "https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj"
-        }
-      ],
-      "duration_ms": 187611,
-      "name": "Dik Stukke",
-      "url": "https://open.spotify.com/track/1vLgP2904rKta6tRuWjfS0"
-    },
-    {
-      "added_at": "2025-10-30 22:00:14",
-      "album": {
         "name": "Lui Voete",
         "url": "https://open.spotify.com/album/4jDNv5KSltQHTQ09SrDHGM"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 182880,
       "name": "Lui Voete",
       "url": "https://open.spotify.com/track/1WKaVLborIMrqDfcQvnHHP"
+    },
+    {
+      "added_at": "2025-10-30 22:00:14",
+      "album": {
+        "name": "Carina",
+        "url": "https://open.spotify.com/album/6ptuyFJvXUQAtZV8GTf3qS"
+      },
+      "artists": [
+        {
+          "name": "Danny Smoke",
+          "url": "https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj"
+        }
+      ],
+      "duration_ms": 196208,
+      "name": "Carina",
+      "url": "https://open.spotify.com/track/6g8kgX8WWiExbvUJqGpz1X"
     },
     {
       "added_at": "2025-10-30 22:00:14",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2025-10-30 22:00:14",
       "album": {
+        "name": "Bitterblou",
+        "url": "https://open.spotify.com/album/20Qci723MZxlYKBB0vYIeC"
+      },
+      "artists": [
+        {
+          "name": "Fran Prins",
+          "url": "https://open.spotify.com/artist/5zh2qxLSYvBzIPLMhVNfUv"
+        }
+      ],
+      "duration_ms": 212095,
+      "name": "Bitterblou",
+      "url": "https://open.spotify.com/track/7yilN0scrjOS0k2PUBO74T"
+    },
+    {
+      "added_at": "2025-10-30 22:00:14",
+      "album": {
         "name": "Net Dans",
         "url": "https://open.spotify.com/album/43oqNDoTsJiNoYb7mbHouf"
       },
@@ -1235,26 +1251,6 @@
       "duration_ms": 228473,
       "name": "Net Dans",
       "url": "https://open.spotify.com/track/6QK8fzJ3pmgNN0uUXgtLzD"
-    },
-    {
-      "added_at": "2025-10-30 22:00:14",
-      "album": {
-        "name": "Trek Hom Plat",
-        "url": "https://open.spotify.com/album/3PGqATRN5CbIoDlwp2XbLd"
-      },
-      "artists": [
-        {
-          "name": "Ricus Nel",
-          "url": "https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg"
-        },
-        {
-          "name": "Chris Steyn",
-          "url": "https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q"
-        }
-      ],
-      "duration_ms": 172850,
-      "name": "Trek Hom Plat",
-      "url": "https://open.spotify.com/track/0wuhtOH1S7wjjx8HWqN5Md"
     },
     {
       "added_at": "2025-10-30 22:00:14",
@@ -1295,18 +1291,22 @@
     {
       "added_at": "2025-10-30 22:00:14",
       "album": {
-        "name": "Bitterblou",
-        "url": "https://open.spotify.com/album/20Qci723MZxlYKBB0vYIeC"
+        "name": "Trek Hom Plat",
+        "url": "https://open.spotify.com/album/3PGqATRN5CbIoDlwp2XbLd"
       },
       "artists": [
         {
-          "name": "Fran Prins",
-          "url": "https://open.spotify.com/artist/5zh2qxLSYvBzIPLMhVNfUv"
+          "name": "Ricus Nel",
+          "url": "https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg"
+        },
+        {
+          "name": "Chris Steyn",
+          "url": "https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q"
         }
       ],
-      "duration_ms": 212095,
-      "name": "Bitterblou",
-      "url": "https://open.spotify.com/track/7yilN0scrjOS0k2PUBO74T"
+      "duration_ms": 172850,
+      "name": "Trek Hom Plat",
+      "url": "https://open.spotify.com/track/0wuhtOH1S7wjjx8HWqN5Md"
     },
     {
       "added_at": "2025-10-30 22:00:14",

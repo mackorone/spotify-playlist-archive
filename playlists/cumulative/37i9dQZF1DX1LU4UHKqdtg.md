@@ -4,7 +4,7 @@
 
 > グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: JURIN ASAYA
 
-1,613 songs - 3 day 13 hr 31 min
+1,614 songs - 3 day 13 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -641,6 +641,7 @@
 | [I Do I Do \- Japanese Version](https://open.spotify.com/track/7ieTdDiAhrSzD1HjQ3Jg07) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [I Do I Do \- Japanese Version](https://open.spotify.com/album/7EAmwkFwXlhZAc7IWQpSGs) | 3:16 | 2024-07-23 | 2024-09-20 |
 | [I DO ME](https://open.spotify.com/track/5PclMa9Pxs1OFWSAS6Nid9) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [I DO ME](https://open.spotify.com/album/2w0HCMkBX7IRscliTVByqB) | 3:10 | 2025-02-25 | 2025-03-24 |
 | [I do! Do you?](https://open.spotify.com/track/7wFeVMTlgOu910OH9RctRI) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [I do! Do you?](https://open.spotify.com/album/3UZfvVHePm0ROe6EcJEwMl) | 3:34 | 2023-02-21 | 2023-06-30 |
+| [I DONT CARE](https://open.spotify.com/track/7h6DJy4HspkjUtOdYtfqv4) | [Baby DONT Cry](https://open.spotify.com/artist/0dXoF2Q2WnVrhRT26SJNvs) | [I DONT CARE](https://open.spotify.com/album/1gB4PCBKB6QeHH3IBBWX7X) | 3:19 | 2025-11-18 |  |
 | [I GOT YOU](https://open.spotify.com/track/35dhwUoJNlxrPyEIJkfDnx) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [I GOT YOU](https://open.spotify.com/album/6RZHj6L3NqrvcKeiBHQbjL) | 2:53 | 2024-02-01 | 2024-02-09 |
 | [I GOT YOU](https://open.spotify.com/track/5PC5gR6dt9Xp4mij4OJ9rV) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [I GOT YOU](https://open.spotify.com/album/7mVYkS8Bwibque5PEMA9F1) | 2:53 | 2024-04-18 | 2024-04-24 |
 | [I GOT YOU \(feat\. Lauv\)](https://open.spotify.com/track/14FpkTBexkWIoquqluEymo) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I GOT YOU \(Voyage ver.\)](https://open.spotify.com/album/3TACk4OfT9qMdrmqGa23pl) | 3:04 | 2024-04-18 | 2024-05-11 |

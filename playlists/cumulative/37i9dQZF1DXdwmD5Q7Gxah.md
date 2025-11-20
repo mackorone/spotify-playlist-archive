@@ -4,7 +4,7 @@
 
 > <a href="https://loremandfriends.substack.com/p/smerz\-daniel\-caesar\-and\-the\-dawn">November newsletter w/ Daniel Caesar & Smerz is live 📿</a> Cover: Charli xcx & John Cale
 
-3,628 songs - 8 day 6 hr 28 min
+3,629 songs - 8 day 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3551,6 +3551,7 @@
 | [Wounded/Surrounded](https://open.spotify.com/track/5SJ6mSr6m0Qcxtqw3U8inr) | [Kid Bloom](https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P) | [Wounded/Surrounded](https://open.spotify.com/album/542erJVZuoJ5z0G8Oj4zch) | 3:23 | 2020-05-15 | 2020-11-11 |
 | [Wreck \- Remix](https://open.spotify.com/track/1bHf3NNiJLk7EsksXGCftL) | [Samica](https://open.spotify.com/artist/6ueMf7NpSrxj4b0g3YTlnW), [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Wreck \(Remix\)](https://open.spotify.com/album/4kFdzEVteEvIQpqBOp0I9S) | 2:51 | 2020-04-18 | 2020-05-28 |
 | [Wristwatch](https://open.spotify.com/track/6HsIV3KVhmY20DAyt5u0ug) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Wristwatch](https://open.spotify.com/album/5lpIqexNhzFxvwyhzTIeTF) | 3:42 | 2024-09-04 | 2025-01-18 |
+| [Writing's On The Wall](https://open.spotify.com/track/4mDTqEqt0QHQFPNkz8eHjr) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore](https://open.spotify.com/album/4OZ6nCbn8w0cHr1m0qiD2s) | 2:49 | 2025-11-19 |  |
 | [WTFIGO](https://open.spotify.com/track/7jVJppRaym9PQUARLdCsej) | [Bo Burnham](https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo) | [THE INSIDE OUTTAKES](https://open.spotify.com/album/1m44SygOrmURyQXnYYq59H) | 0:54 | 2022-06-02 | 2022-06-16 |
 | [WTSGD \(with Alessia Cara\)](https://open.spotify.com/track/2JerYQPEZWTiTEIFgfUEoV) | [CLAY](https://open.spotify.com/artist/20aPu5vizjmoX2A7f7AOWL), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [WTSGD \(with Alessia Cara\)](https://open.spotify.com/album/4VkgVNf0yIMLkwfls1J83u) | 4:04 | 2022-03-04 | 2022-06-10 |
 | [Wurli](https://open.spotify.com/track/5MSshyHGM9ajWSEoBcR0jv) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [What Could Possibly Go Wrong](https://open.spotify.com/album/1BubKJqf6Uc4fNae5kLJJ7) | 2:30 | 2020-07-31 | 2020-08-20 |

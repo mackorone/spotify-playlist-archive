@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16YNcjV2EU7.md) - [plain]
 
 > These are the songs that have shaped <a href="spotify:artist:6Z4kwq0LOaYQW2CqudoOIk">Amira Elfeky's</a> alternative spirit\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI"> here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,501 likes - 30 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,604 likes - 30 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16YNcjV2EU7.md) - [plain]
 | 15 | [Daylily](https://open.spotify.com/track/6AgtouHw1KrKy1PsoLjY3o) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Feel Something](https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi) | 3:28 |
 | 16 | [Snake Eyes](https://open.spotify.com/track/7C625yaxO0NonRklWLTDWg) | [Sworn In](https://open.spotify.com/artist/6f02jpHpMcw5hWn29WIC52) | [The Death Card](https://open.spotify.com/album/76OIOvwnmY8g7pJuWDvmtK) | 3:31 |
 | 17 | [Going Under](https://open.spotify.com/track/3UygY7qW2cvG9Llkay6i1i) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm) | 3:34 |
-| 18 | [Can You Feel My Heart](https://open.spotify.com/track/0WSa1sucoNRcEeULlZVQXj) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Sempiternal \(Expanded Edition\)](https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz) | 3:48 |
+| 18 | [Can You Feel My Heart](https://open.spotify.com/track/0WSa1sucoNRcEeULlZVQXj) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Sempiternal \(Expanded Edition\)](https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz) | 3:47 |
 | 19 | [Cursed](https://open.spotify.com/track/7oHcyBXv4E1Bf8IMkrKORG) | [Gideon](https://open.spotify.com/artist/3Zj2B8yAi8gHoR8vpsPatZ) | [Cold](https://open.spotify.com/album/7MvOXPaapEpyCUsIXA2MFJ) | 3:02 |
 | 20 | [Faint](https://open.spotify.com/track/2uxL6E8Yq0Psc1V9uBtC4F) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora \(Bonus Edition\)](https://open.spotify.com/album/0y13VbGddQ4azdVWakksAL) | 2:42 |
 | 21 | [The Worst In Me](https://open.spotify.com/track/5IsSDMqDi2YmLjfx5jGDsW) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Bad Omens](https://open.spotify.com/album/2Di81karStvWRrnERvIOQC) | 3:49 |

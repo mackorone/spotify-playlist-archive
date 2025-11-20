@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-01",
-  "description": "\u4eca\u9031\u3082\u8a71\u984c\u306e\u65b0\u66f2\u3092\u6700\u901f\u3067\u3002 Cover: Mega Shinnosuke *\ud83d\udc49 <a href=\"https://spice.eplus.jp/articles/342029\">\u9023\u52d5\u8a18\u4e8b</a>\u3092SPICE\u3067\u30c1\u30a7\u30c3\u30af!",
+  "description": "\u4eca\u9031\u3082\u8a71\u984c\u306e\u65b0\u66f2\u3092\u6700\u901f\u3067\u3002 Cover: Mega Shinnosuke *\ud83d\udc49 <a href=\"https://spice.eplus.jp/articles/342164\">\u9023\u52d5\u8a18\u4e8b</a>\u3092SPICE\u3067\u30c1\u30a7\u30c3\u30af!",
   "name": "New Music Wednesday",
   "tracks": [
     {
@@ -2784,6 +2784,24 @@
       "duration_ms": 1791883,
       "name": "2025/11/12 TOMOO\u304c\u30cb\u30e5\u30fc\u30a2\u30eb\u30d0\u30e0\u3092\u30ea\u30ea\u30fc\u30b9\uff01LEX\u306e\u30b7\u30e7\u30fc\u30c8\u30a4\u30f3\u30bf\u30d3\u30e5\u30fc\u3082\u914d\u4fe1\uff01\u30ed\u30b6\u30ea\u30a2\u3001\u53cb\u6210\u7a7a\u3001\u30e2\u30ce\u30f3\u30af\u30eb\u306e\u65b0\u4f5c\u3082\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01",
       "url": "https://open.spotify.com/episode/1MSh1ABsWYBf45Pc8k5ja6"
+    },
+    {
+      "album": {
+        "name": "New Music Wednesday [Podcast Edition]",
+        "url": "https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E"
+      },
+      "artists": [
+        {
+          "name": "New Music Wednesday [Podcast Edition]",
+          "url": "https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E"
+        }
+      ],
+      "date_added": "2025-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3670564,
+      "name": "2025/11/19 TOMOO\u30a4\u30f3\u30bf\u30d3\u30e5\u30fc\u914d\u4fe1\uff01Mega Shinnosuke\u306e\u30cb\u30e5\u30fc\u30a2\u30eb\u30d0\u30e0\u3001RADWIMPS\u30c8\u30ea\u30d3\u30e5\u30fc\u30c8\u30a2\u30eb\u30d0\u30e0\u3001\u661f\u91ce\u6e90\u3001tofubeats\u306e\u65b0\u66f2\u3082\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01\uff01",
+      "url": "https://open.spotify.com/episode/3d1HzpWStRAqLeZbH6TUQx"
     },
     {
       "album": {
@@ -96697,8 +96715,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "LUMINOUS",
+        "url": "https://open.spotify.com/album/0yxvpupZZfuBVOliEVzFYB"
       },
       "artists": [
         {
@@ -123921,8 +123939,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Tenshisama",
+        "url": "https://open.spotify.com/album/3UbnNXeeN1eJ3DLF4ypmJs"
       },
       "artists": [
         {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨Bavé  ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,490 likes - 289 songs - 16 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,481 likes - 289 songs - 16 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

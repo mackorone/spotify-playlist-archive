@@ -88,7 +88,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 196000,
       "name": "500 hz",
       "url": "https://open.spotify.com/track/2hqX5Ex3zuwo9Rv9LuB1jk"
@@ -3332,6 +3332,24 @@
       "duration_ms": 136000,
       "name": "Endless Brown Noise",
       "url": "https://open.spotify.com/track/5YJBWioj7Qc7pyjlYyqBkJ"
+    },
+    {
+      "album": {
+        "name": "Fabulous Brown Noise",
+        "url": "https://open.spotify.com/album/73pwePP5Wiv0miXr2RMy7x"
+      },
+      "artists": [
+        {
+          "name": "Valdervande",
+          "url": "https://open.spotify.com/artist/5Opw5neCmYFjyVFuUE0lRX"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188103,
+      "name": "Fabulous Brown Noise",
+      "url": "https://open.spotify.com/track/1Ck7G535xOvON2YNhv5K9N"
     },
     {
       "album": {

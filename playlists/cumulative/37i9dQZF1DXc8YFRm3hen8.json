@@ -2497,6 +2497,24 @@
     },
     {
       "album": {
+        "name": "Extraterrestre",
+        "url": "https://open.spotify.com/album/5ai9UWw22PDwImiMWB39x7"
+      },
+      "artists": [
+        {
+          "name": "LUAS\u00d3",
+          "url": "https://open.spotify.com/artist/1KzX3Ca3tJTAcaj7bbWqM7"
+        }
+      ],
+      "date_added": "2025-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219810,
+      "name": "Extraterrestre",
+      "url": "https://open.spotify.com/track/1fS21qlEIAQQNLFLc0I6d2"
+    },
+    {
+      "album": {
         "name": "El Club de la Pelea I",
         "url": "https://open.spotify.com/album/639vWHd2vqM1rBYyxHOvA8"
       },
@@ -4820,7 +4838,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 178800,
       "name": "Nada Es Igual",
       "url": "https://open.spotify.com/track/3YLIsu2NZxqfEPj4ADA7WX"

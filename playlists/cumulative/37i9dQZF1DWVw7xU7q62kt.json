@@ -309,6 +309,28 @@
     },
     {
       "album": {
+        "name": "all i ever wanted",
+        "url": "https://open.spotify.com/album/5ImmrUceRa6fuaU93s7esc"
+      },
+      "artists": [
+        {
+          "name": "Oh, My.",
+          "url": "https://open.spotify.com/artist/1f5I28sZb2efjRLXO1jX0h"
+        },
+        {
+          "name": "L E F",
+          "url": "https://open.spotify.com/artist/6OtbmwnrAgCOlEN9ZTugNV"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "all i ever wanted",
+      "url": "https://open.spotify.com/track/1k8t0FtCfQ8HH9fprP4w6p"
+    },
+    {
+      "album": {
         "name": "Alleyway",
         "url": "https://open.spotify.com/album/7uyVBjIYZlTLLS3tTt2SXS"
       },
@@ -7348,7 +7370,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 110357,
       "name": "mezzanotte",
       "url": "https://open.spotify.com/track/2uYZ9fhtqBZgzBI0Q9IM6D"
@@ -9514,7 +9536,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 106749,
       "name": "Plaza",
       "url": "https://open.spotify.com/track/281Dm5nv7QXe2PXlSmTSbP"
@@ -10538,6 +10560,24 @@
       "duration_ms": 118400,
       "name": "Shadows in Soho",
       "url": "https://open.spotify.com/track/48tdHYlwHUsdz1c8d7P7wB"
+    },
+    {
+      "album": {
+        "name": "SHINE",
+        "url": "https://open.spotify.com/album/4fDIWi4XPCdNygsDnszNtk"
+      },
+      "artists": [
+        {
+          "name": "Korey Wade",
+          "url": "https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "SHINE",
+      "url": "https://open.spotify.com/track/1BUmqrWQD9dF6rLvI7nYJ2"
     },
     {
       "album": {

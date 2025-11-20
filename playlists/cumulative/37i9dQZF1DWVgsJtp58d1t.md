@@ -2,9 +2,9 @@
 
 ### [This Is Frequency](https://open.spotify.com/playlist/37i9dQZF1DWVgsJtp58d1t)
 
-> The best in Black music! Featuring our Frequency Zine cover star <a href="https://www.instagram.com/hangrammm/?hl=en">Hannah Jadagu</a>
+> The best in Black music! Featuring our Frequency Zine cover star <a href="https://www.instagram.com/p/DRK2kfEkhVG/?igsh=NTc4MTIwNjQ2YQ==">BAYLI</a>
 
-5,490 songs - 11 day 14 hr 34 min
+5,492 songs - 11 day 14 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,6 +238,7 @@
 | [All Night](https://open.spotify.com/track/1mHGtXWQSfnzB5CLVnsykO) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [All Night](https://open.spotify.com/album/4GJuAhTBGZUgdAFLU5phPk) | 3:28 | 2023-09-22 | 2023-11-18 |
 | [All Night](https://open.spotify.com/track/25uJVYALP00tDoPMUzquV7) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [All Night](https://open.spotify.com/album/2B6i1KEFu7lM0zkOB8eMX9) | 2:41 | 2024-03-29 | 2024-04-19 |
 | [All Night Prayer](https://open.spotify.com/track/1hZaoh4wKbi2XKkWKYav85) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [Condoseven](https://open.spotify.com/artist/20rqbefynSHHd079In5Ipa), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [All Night Prayer](https://open.spotify.com/album/5KlJitZ9pta6sZNNAHR94C) | 2:30 | 2025-09-19 |  |
+| [all of that](https://open.spotify.com/track/1uX94wwKxWLmMZX3MIgiIg) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [NO RE\-ENTRY](https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G) | 2:09 | 2025-11-19 |  |
 | [All Of You \(For Me\)](https://open.spotify.com/track/7hA1eXeVINb5F93oFVSezk) | [DJ CHEEM](https://open.spotify.com/artist/73srMZV12x8XvV4r8VekHZ) | [All Of You \(For Me\)](https://open.spotify.com/album/56uRr1BASQj8gMwGDQeMkv) | 2:34 | 2024-07-27 | 2024-07-28 |
 | [All or Nothing \(feat\. Ella Mai\)](https://open.spotify.com/track/4SPazIWgMqArA81XKxgDZa) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [After the Butterflies](https://open.spotify.com/album/3KxnjxwC38wxRIYl2tFo80) | 3:10 | 2023-11-17 | 2023-11-30 |
 | [All Ova](https://open.spotify.com/track/2bWbdWDaMidmc5HH1CVK26) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti), [cjthechemist](https://open.spotify.com/artist/6RDY4LRYno0UwPMHsxOKAe) | [All Ova](https://open.spotify.com/album/7xI7n70CruBpMwrekWFHhG) | 2:43 | 2025-07-18 | 2025-07-26 |
@@ -1322,7 +1323,7 @@
 | [DOGTOOTH](https://open.spotify.com/track/0judK8TqYfvwUohBngUxrE) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DOGTOOTH](https://open.spotify.com/album/1pdqT6DBwIA0WElEspOA0v) | 2:41 | 2023-03-31 | 2023-05-06 |
 | [Doing It Too](https://open.spotify.com/track/2MfqtpLWYQqhUwhCgWYbuB) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Doing It Too](https://open.spotify.com/album/7A3hX2xOQ25tJFpojEYIMk) | 3:26 | 2025-08-08 | 2025-08-23 |
 | [Doing Now](https://open.spotify.com/track/208Oy9pWhaTlCIcSEtpRAL) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Doing Now](https://open.spotify.com/album/4GUAIskDayvcKmp5VKAIxH) | 3:11 | 2025-08-29 | 2025-09-20 |
-| [Doing Now](https://open.spotify.com/track/6aIlwBpWSRmUkvdbRs78wU) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Describe](https://open.spotify.com/album/6MZlKkSCbG2A5HhmKpsAOI) | 3:11 | 2025-11-13 |  |
+| [Doing Now](https://open.spotify.com/track/6aIlwBpWSRmUkvdbRs78wU) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Describe](https://open.spotify.com/album/6MZlKkSCbG2A5HhmKpsAOI) | 3:11 | 2025-11-13 | 2025-11-20 |
 | [DOINGZ](https://open.spotify.com/track/6RNP84XyE9eemCgWPVRni8) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [OFA: Deluxe Edition](https://open.spotify.com/album/5aV20I9N3dU2XvgBt6YaVB) | 2:41 | 2025-04-04 | 2025-04-19 |
 | [Doja](https://open.spotify.com/track/3zpGLSQ8QbbUnNjweWPLMD) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Doja](https://open.spotify.com/album/5Gk324K07rxU4Lq7ghWe2o) | 2:51 | 2022-02-04 | 2022-03-12 |
 | [Doja](https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Doja](https://open.spotify.com/album/6oECjagksATHu2UaclXrq1) | 1:37 | 2022-07-22 | 2022-08-13 |
@@ -3375,7 +3376,7 @@
 | [Noid](https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Noid](https://open.spotify.com/album/4OjzAZXWalqQN5STXHPJdl) | 4:44 | 2024-10-21 | 2024-10-29 |
 | [Noises + JT](https://open.spotify.com/track/36e4mRTGXQL283nBFSA9Tv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 2:07 | 2025-10-10 |  |
 | [NOKIA](https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 4:01 | 2025-02-22 | 2025-07-12 |
-| [Normal Today](https://open.spotify.com/track/2VXzlbmIWTVQsKyQFnrJpT) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Describe](https://open.spotify.com/album/6MZlKkSCbG2A5HhmKpsAOI) | 3:13 | 2025-11-14 |  |
+| [Normal Today](https://open.spotify.com/track/2VXzlbmIWTVQsKyQFnrJpT) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Describe](https://open.spotify.com/album/6MZlKkSCbG2A5HhmKpsAOI) | 3:13 | 2025-11-14 | 2025-11-20 |
 | [Normal Today](https://open.spotify.com/track/31Nc6gzU9XQ2N424Ox8RDk) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Normal Today](https://open.spotify.com/album/26q3rNHs0qM9khbGaiWTcd) | 3:13 | 2025-10-24 | 2025-11-15 |
 | [Normally](https://open.spotify.com/track/4cPKw3rzgmaU4zixJe6wge) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Body & Soul](https://open.spotify.com/album/1TGcgugu0CxUp5rhS7SyCW) | 3:24 | 2023-05-19 | 2023-09-02 |
 | [Northern Sky \- from The Fire Inside](https://open.spotify.com/track/6ySbh4Se81hlu3oqITPCAL) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Northern Sky \(from The Fire Inside\)](https://open.spotify.com/album/5SUt4IBkcDOfQPtukbwJkO) | 3:30 | 2025-01-17 | 2025-03-01 |
@@ -3639,6 +3640,7 @@
 | [Party In The Heavens](https://open.spotify.com/track/1EyepB7ICIhTcpClRqfiwE) | [Childlike CiCi](https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1) | [All We Like Sheep](https://open.spotify.com/album/0uai0ffJo9dW1cjw4h9Gw6) | 3:14 | 2025-06-06 | 2025-06-21 |
 | [Party in the Hills](https://open.spotify.com/track/5M7GtHxiFK1DDV0BTIDql6) | [Sage The Gemini](https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z) | [Party in the Hills](https://open.spotify.com/album/6fVi1x5q4cyJvBwPnnDX58) | 3:12 | 2022-08-26 | 2022-09-17 |
 | [Passenger Princess](https://open.spotify.com/track/56pJsm6qjMRCQPwQR9HIix) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [Passenger Princess](https://open.spotify.com/album/1mqysmiozjyWyu9UvkASn7) | 2:15 | 2025-10-17 | 2025-11-15 |
+| [Passenger Princess](https://open.spotify.com/track/6GAI8f3Kb4IfOPj28WXGUS) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [NO RE\-ENTRY](https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G) | 2:15 | 2025-11-19 |  |
 | [Passenger Princess](https://open.spotify.com/track/5FEuHdC42y0L9qwg2ALzNl) | [Maleigh Zan](https://open.spotify.com/artist/5RsL9iCp9pZFA6Kw7qqYAG), [Dina Ayada](https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz) | [Passenger Princess](https://open.spotify.com/album/2Hva0G28r3I5n67XPWmVpe) | 2:56 | 2025-03-31 | 2025-07-12 |
 | [Passenger Princess \(feat\. Smino\)](https://open.spotify.com/track/4XXARhW0U9SKGQJcnYIDAC) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Passenger Princess / Adam](https://open.spotify.com/album/6eszObM49D1h61rbPxS7po) | 2:27 | 2024-10-25 | 2024-12-05 |
 | [Passenger Princess \(Jibbitz\)](https://open.spotify.com/track/71i7BEYEV9tg5vlVv5gVIF) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [Stunna 4 Vegas](https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8) | [Throwing Bows](https://open.spotify.com/album/4eK0tskh6kKkNny0wRrqg3) | 2:53 | 2025-02-22 | 2025-03-22 |

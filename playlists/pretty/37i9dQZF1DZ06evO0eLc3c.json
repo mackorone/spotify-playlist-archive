@@ -1,12 +1,12 @@
 {
   "description": "This is Patti Smith. The essential tracks, all in one playlist.",
-  "num_followers": 53088,
+  "num_followers": 53098,
   "original_name": "This Is Patti Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRplgAAAAABQGG0hiCiajowGn3pFRjmX",
+  "snapshot_id": "aRu3AAAAAABJbAAKKWwFDll6EiWj/xVC",
   "tracks": [
     {
       "added_at": null,
@@ -148,7 +148,7 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 349733,
+      "duration_ms": 349728,
       "name": "Smells Like Teen Spirit - Radio Edit",
       "url": "https://open.spotify.com/track/58cKWhCT3I4yhxtNpBlMli"
     },
@@ -244,7 +244,7 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 242800,
+      "duration_ms": 244640,
       "name": "Break It Up",
       "url": "https://open.spotify.com/track/5zE0J5kDTbcQeMYnxRj0QY"
     },
@@ -308,7 +308,7 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 555773,
+      "duration_ms": 554186,
       "name": "Birdland",
       "url": "https://open.spotify.com/track/0imH2Uj2Vbxjl8QekmZHE2"
     },
@@ -404,7 +404,7 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 227213,
+      "duration_ms": 227219,
       "name": "April Fool",
       "url": "https://open.spotify.com/track/53eJ84ALjlKpU2A2OpohCN"
     },
@@ -468,25 +468,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 251213,
+      "duration_ms": 251120,
       "name": "Summer Cannibals",
       "url": "https://open.spotify.com/track/4DYuuaIJ05vMp1FaISwkyn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wave",
-        "url": "https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 304840,
-      "name": "Revenge",
-      "url": "https://open.spotify.com/track/00QrHgrVlYOsleK3Vb62OJ"
     },
     {
       "added_at": null,
@@ -503,6 +487,22 @@
       "duration_ms": 201800,
       "name": "Pumping",
       "url": "https://open.spotify.com/track/49TDyRgRbpvpDOZJOslDlh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 304840,
+      "name": "Revenge",
+      "url": "https://open.spotify.com/track/00QrHgrVlYOsleK3Vb62OJ"
     },
     {
       "added_at": null,
@@ -539,6 +539,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Radio Ethiopia",
+        "url": "https://open.spotify.com/album/7jmAoRWQ9qUXtRXUOW2agu"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 426466,
+      "name": "Poppies",
+      "url": "https://open.spotify.com/track/6Y2b9a0krc2a0nQEnAWRZE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 72226,
+      "name": "Hymn",
+      "url": "https://open.spotify.com/track/2kUbcJVJCJXQrhlCMdbAZS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dream Of Life",
+        "url": "https://open.spotify.com/album/3TxNFi3uBnjDBFlfnbmIPe"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 327026,
+      "name": "The Jackson Song",
+      "url": "https://open.spotify.com/track/5VQgrcLsb4C712tVEa3rm9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hey Joe / Piss Factory",
         "url": "https://open.spotify.com/album/6fPPFPRXxoXNCc3LaotmQM"
       },
@@ -564,41 +612,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 426466,
-      "name": "Poppies",
-      "url": "https://open.spotify.com/track/6Y2b9a0krc2a0nQEnAWRZE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dream Of Life",
-        "url": "https://open.spotify.com/album/3TxNFi3uBnjDBFlfnbmIPe"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 327026,
-      "name": "The Jackson Song",
-      "url": "https://open.spotify.com/track/5VQgrcLsb4C712tVEa3rm9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wave",
-        "url": "https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 72226,
-      "name": "Hymn",
-      "url": "https://open.spotify.com/track/2kUbcJVJCJXQrhlCMdbAZS"
+      "duration_ms": 259906,
+      "name": "Distant Fingers",
+      "url": "https://open.spotify.com/track/5fI00jX4cWUfCGpYvchDjR"
     },
     {
       "added_at": null,
@@ -612,25 +628,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 274426,
+      "duration_ms": 274560,
       "name": "Beneath the Southern Cross",
       "url": "https://open.spotify.com/track/1KRWRshqiMiYm6cTped4pp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Radio Ethiopia",
-        "url": "https://open.spotify.com/album/7jmAoRWQ9qUXtRXUOW2agu"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 259906,
-      "name": "Distant Fingers",
-      "url": "https://open.spotify.com/track/5fI00jX4cWUfCGpYvchDjR"
     },
     {
       "added_at": null,
@@ -644,7 +644,7 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 253520,
+      "duration_ms": 253330,
       "name": "After the Gold Rush",
       "url": "https://open.spotify.com/track/6aqJhVpN3T3n2SppOM0Vh5"
     },
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gone Again",
-        "url": "https://open.spotify.com/album/70BHwvG9ikXsffsWfHrWzi"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 293253,
-      "name": "Wing",
-      "url": "https://open.spotify.com/track/6jqw8ayDwgGEpM2tjWF2p8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wave",
         "url": "https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 312440,
       "name": "Citizen Ship",
       "url": "https://open.spotify.com/track/3h95pVJF0P5cWBO6dNWqK8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gone Again",
+        "url": "https://open.spotify.com/album/70BHwvG9ikXsffsWfHrWzi"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 293453,
+      "name": "Wing",
+      "url": "https://open.spotify.com/track/6jqw8ayDwgGEpM2tjWF2p8"
     },
     {
       "added_at": null,
@@ -740,25 +740,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 340053,
+      "duration_ms": 340050,
       "name": "Seneca",
       "url": "https://open.spotify.com/track/5ZbsRAI0L22x5wV9sjvT1m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gone Again",
-        "url": "https://open.spotify.com/album/70BHwvG9ikXsffsWfHrWzi"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 196426,
-      "name": "Gone Again",
-      "url": "https://open.spotify.com/track/2lkuP38GN1VvwfGJvANUei"
     },
     {
       "added_at": null,
@@ -775,6 +759,22 @@
       "duration_ms": 377240,
       "name": "Everybody Hurts",
       "url": "https://open.spotify.com/track/33iQ7flnKWXFKyRW9QF7WZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gone Again",
+        "url": "https://open.spotify.com/album/70BHwvG9ikXsffsWfHrWzi"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 196346,
+      "name": "Gone Again",
+      "url": "https://open.spotify.com/track/2lkuP38GN1VvwfGJvANUei"
     },
     {
       "added_at": null,
@@ -804,7 +804,7 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 229400,
+      "duration_ms": 229403,
       "name": "This Is the Girl",
       "url": "https://open.spotify.com/track/3aDLTIgOoi21boHt8KXIKB"
     }

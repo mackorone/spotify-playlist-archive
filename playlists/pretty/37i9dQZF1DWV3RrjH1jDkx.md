@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra bla\. Robyn, Dagny, JOA og mange fler!🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,749 likes - 101 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,746 likes - 101 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 61 | [Vuonagiid juovlasálbma](https://open.spotify.com/track/5VOAp6yhmRAV2t3jOzoqJU) | [Mari Boine](https://open.spotify.com/artist/4t4unGD2iYlkONGDmBbkcE), [Stein Austrud](https://open.spotify.com/artist/17N4KypjcU7AjNE5aSRaKp) | [Vuonagiid juovlasálbma](https://open.spotify.com/album/0jCteDY7CaiTConcFTIqTf) | 5:50 |
 | 62 | [hit me where it hurts x](https://open.spotify.com/track/1kWbPGEMBUHv2XMIqHZayL) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [hit me where it hurts x](https://open.spotify.com/album/1KggQ6cWyi3bTQ2dK5V352) | 3:58 |
 | 63 | [The Prize](https://open.spotify.com/track/0LF038Efool0RfokjMLg6J) | [Prima Queen](https://open.spotify.com/artist/52fhNGn51RhUvjlapHT5T2), [Girl Group](https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4) | [The Prize](https://open.spotify.com/album/1wnC4GbALxFGjCPuDt50HF) | 3:24 |
-| 64 | [OKAY](https://open.spotify.com/track/6yhuwpDzYfpYLghYf0VYLS) | [BLKSTD](https://open.spotify.com/artist/1durHwES7iW4UCtqeGtfFY) | [OKAY](https://open.spotify.com/album/4SKU0t23LMnuIE6D3khCMc) | 2:44 |
+| 64 | [OKAY](https://open.spotify.com/track/6yhuwpDzYfpYLghYf0VYLS) | [BLKSTA](https://open.spotify.com/artist/1durHwES7iW4UCtqeGtfFY) | [OKAY](https://open.spotify.com/album/4SKU0t23LMnuIE6D3khCMc) | 2:44 |
 | 65 | [TOUCHÉ](https://open.spotify.com/track/0F1ITaO9lQGHV99ymWV31W) | [Traphouse](https://open.spotify.com/artist/13HktESfatlvKPEcV7bXet), [Iron Mæn](https://open.spotify.com/artist/0WFxOnA5n2I65k4UjsJMgY) | [TOUCHÉ](https://open.spotify.com/album/1obfOwzw3u5m2kQwl6z6ka) | 2:45 |
 | 66 | [It Never, Ever Is Too Late](https://open.spotify.com/track/4M04S3SMEdG8oEsMmILijf) | [Silke](https://open.spotify.com/artist/1CfY8GMX1i8Wd0OVlXt0MG) | [It Never, Ever Is Too Late](https://open.spotify.com/album/2hFaOshFTuKmGEeUIYYqY0) | 2:31 |
 | 67 | [Persephone](https://open.spotify.com/track/4DAupbSn7g2hNCGSMm3pDN) | [LUJAIN](https://open.spotify.com/artist/6gkdUNajvm1NZbynggJN1G) | [Persephone](https://open.spotify.com/album/2V26TeL0Gxj0n3eh7cOQMD) | 3:25 |

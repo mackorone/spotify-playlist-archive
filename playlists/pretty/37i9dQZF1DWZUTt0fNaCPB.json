@@ -1,6 +1,6 @@
 {
   "description": "No need for a gadget, just play these rock songs to set your pace!",
-  "num_followers": 1090797,
+  "num_followers": 1090834,
   "original_name": "Running to Rock 170-190 BPM",
   "owner": {
     "name": "Spotify",
@@ -639,6 +639,22 @@
     {
       "added_at": "2025-06-26 10:09:38",
       "album": {
+        "name": "Minutes to Midnight",
+        "url": "https://open.spotify.com/album/7pgs38iLfEqUtwgCRgvbND"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 164760,
+      "name": "Bleed It Out",
+      "url": "https://open.spotify.com/track/78gsvivelCP8Kh0tSRTy8D"
+    },
+    {
+      "added_at": "2025-06-26 10:09:38",
+      "album": {
         "name": "The Path of Totality (Special Edition)",
         "url": "https://open.spotify.com/album/3ARqpnmjMB5O8uihXOOxbW"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 190706,
       "name": "Narcissistic Cannibal (feat. Skrillex & Kill the Noise)",
       "url": "https://open.spotify.com/track/65XY6Cx0263J5BPnY8mPyE"
-    },
-    {
-      "added_at": "2025-06-26 10:09:38",
-      "album": {
-        "name": "Minutes to Midnight",
-        "url": "https://open.spotify.com/album/7pgs38iLfEqUtwgCRgvbND"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 164760,
-      "name": "Bleed It Out",
-      "url": "https://open.spotify.com/track/78gsvivelCP8Kh0tSRTy8D"
     },
     {
       "added_at": "2025-06-26 10:09:38",

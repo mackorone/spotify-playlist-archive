@@ -1,6 +1,6 @@
 {
   "description": "Sintoniza los \u00e9xitos rom\u00e1nticos del siglo pasado \ud83e\udd40",
-  "num_followers": 156539,
+  "num_followers": 156605,
   "original_name": "Radio Recuerdo",
   "owner": {
     "name": "Spotify",
@@ -351,6 +351,22 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
+        "name": "El Quinto Trago",
+        "url": "https://open.spotify.com/album/7rhSfLWEv7D9flp4uLF4Du"
+      },
+      "artists": [
+        {
+          "name": "Grupo Bryndis",
+          "url": "https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO"
+        }
+      ],
+      "duration_ms": 258733,
+      "name": "La \u00daltima Canci\u00f3n",
+      "url": "https://open.spotify.com/track/566q4HacJyTGxZefvWVy9t"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
         "name": "Cl\u00e1sicos Latinos",
         "url": "https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 202053,
       "name": "Muri\u00f3 La Flor",
       "url": "https://open.spotify.com/track/6PyXH8zknCSDFUMMpWlqmm"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
-        "name": "Matamoros Querido",
-        "url": "https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR"
-      },
-      "artists": [
-        {
-          "name": "Rigo Tovar",
-          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
-        }
-      ],
-      "duration_ms": 195506,
-      "name": "Lamento De Amor",
-      "url": "https://open.spotify.com/track/6pYz8bkZvf84S49VWLRHah"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -399,18 +399,18 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "El Quinto Trago",
-        "url": "https://open.spotify.com/album/7rhSfLWEv7D9flp4uLF4Du"
+        "name": "Matamoros Querido",
+        "url": "https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR"
       },
       "artists": [
         {
-          "name": "Grupo Bryndis",
-          "url": "https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO"
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
         }
       ],
-      "duration_ms": 258733,
-      "name": "La \u00daltima Canci\u00f3n",
-      "url": "https://open.spotify.com/track/566q4HacJyTGxZefvWVy9t"
+      "duration_ms": 195506,
+      "name": "Lamento De Amor",
+      "url": "https://open.spotify.com/track/6pYz8bkZvf84S49VWLRHah"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -783,22 +783,6 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "Solo Para Ti",
-        "url": "https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk"
-      },
-      "artists": [
-        {
-          "name": "Los Strwck",
-          "url": "https://open.spotify.com/artist/6ZzvGogdwGvqkTeDX1RDKL"
-        }
-      ],
-      "duration_ms": 181586,
-      "name": "Quien",
-      "url": "https://open.spotify.com/track/3gcDZpRcPnRgmP3EguPv6K"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
         "name": "\u00c9xitos Rom\u00e1nticos (De Colecci\u00f3n)",
         "url": "https://open.spotify.com/album/6h11WKrIIACDQSQKfGqKYL"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 184853,
       "name": "Como Te Extra\u00f1o",
       "url": "https://open.spotify.com/track/0W4z5QkqwDWIAFMsZvTN5d"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
+        "name": "Solo Para Ti",
+        "url": "https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk"
+      },
+      "artists": [
+        {
+          "name": "Los Strwck",
+          "url": "https://open.spotify.com/artist/6ZzvGogdwGvqkTeDX1RDKL"
+        }
+      ],
+      "duration_ms": 181586,
+      "name": "Quien",
+      "url": "https://open.spotify.com/track/3gcDZpRcPnRgmP3EguPv6K"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -863,22 +863,6 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "15 Exitos, Vol. I",
-        "url": "https://open.spotify.com/album/7uZRZ7Y3QgnLe0hrfAHgFr"
-      },
-      "artists": [
-        {
-          "name": "Los Caminantes",
-          "url": "https://open.spotify.com/artist/6ziEnj8UydSg8dr68C3aut"
-        }
-      ],
-      "duration_ms": 165960,
-      "name": "\u00c1ngel de la Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/7rcVxm6J2GC1Wg3ucPpFyH"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
         "name": "\u00c9xitos Rom\u00e1nticos (De Colecci\u00f3n)",
         "url": "https://open.spotify.com/album/6h11WKrIIACDQSQKfGqKYL"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 234493,
       "name": "Mi Forma De Sentir",
       "url": "https://open.spotify.com/track/7qLdzoN0DawHgS7idZDItd"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
+        "name": "Nuestras Canciones Romanticas Favoritas \"20 Exitazos\"",
+        "url": "https://open.spotify.com/album/0laRQXcW652scqzEAKqRMM"
+      },
+      "artists": [
+        {
+          "name": "Los Caminantes",
+          "url": "https://open.spotify.com/artist/6ziEnj8UydSg8dr68C3aut"
+        }
+      ],
+      "duration_ms": 212253,
+      "name": "Dos Cartas y una Flor",
+      "url": "https://open.spotify.com/track/08ewluhsdwbAnooftJw0ly"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -943,22 +943,6 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "Nuestras Canciones Romanticas Favoritas \"20 Exitazos\"",
-        "url": "https://open.spotify.com/album/0laRQXcW652scqzEAKqRMM"
-      },
-      "artists": [
-        {
-          "name": "Los Caminantes",
-          "url": "https://open.spotify.com/artist/6ziEnj8UydSg8dr68C3aut"
-        }
-      ],
-      "duration_ms": 212253,
-      "name": "Dos Cartas y una Flor",
-      "url": "https://open.spotify.com/track/08ewluhsdwbAnooftJw0ly"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
         "name": "Una Carta",
         "url": "https://open.spotify.com/album/6QHRR9x2a8NVxVlM2RNl7T"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 204916,
       "name": "Una Carta",
       "url": "https://open.spotify.com/track/05tqXIvjzVRvR7IHl19NxS"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
+        "name": "15 Exitos, Vol. I",
+        "url": "https://open.spotify.com/album/7uZRZ7Y3QgnLe0hrfAHgFr"
+      },
+      "artists": [
+        {
+          "name": "Los Caminantes",
+          "url": "https://open.spotify.com/artist/6ziEnj8UydSg8dr68C3aut"
+        }
+      ],
+      "duration_ms": 165960,
+      "name": "\u00c1ngel de la Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/7rcVxm6J2GC1Wg3ucPpFyH"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "15 Grandes Exitos",
-        "url": "https://open.spotify.com/album/0fXMAlqWJNI1mwkeXYwHsR"
-      },
-      "artists": [
-        {
-          "name": "Grupo Yndio",
-          "url": "https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD"
-        }
-      ],
-      "duration_ms": 195213,
-      "name": "El",
-      "url": "https://open.spotify.com/track/7FbqWTsHBvwEr2mAP7zWvo"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
         "name": "Lo Mejor De Maria Conchita Alonso",
         "url": "https://open.spotify.com/album/3jG74yZBWZx6bfyDCYk81x"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 258573,
       "name": "Acar\u00edciame",
       "url": "https://open.spotify.com/track/36AZfm9TMpqDe0a97eQHZ5"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
+        "name": "15 Grandes Exitos",
+        "url": "https://open.spotify.com/album/0fXMAlqWJNI1mwkeXYwHsR"
+      },
+      "artists": [
+        {
+          "name": "Grupo Yndio",
+          "url": "https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD"
+        }
+      ],
+      "duration_ms": 195213,
+      "name": "El",
+      "url": "https://open.spotify.com/track/7FbqWTsHBvwEr2mAP7zWvo"
     },
     {
       "added_at": "2025-01-28 15:41:46",

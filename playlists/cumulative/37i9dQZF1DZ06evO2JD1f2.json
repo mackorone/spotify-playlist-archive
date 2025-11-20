@@ -2349,6 +2349,28 @@
     },
     {
       "album": {
+        "name": "Self Esteem Pack (Remixes)",
+        "url": "https://open.spotify.com/album/3bQ2Jhz80HCABIcUgByewU"
+      },
+      "artists": [
+        {
+          "name": "Lambo4oe",
+          "url": "https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197739,
+      "name": "Self Esteem (featuring EST Gee)",
+      "url": "https://open.spotify.com/track/3EMZ5YFHpmRqN93ccBniJc"
+    },
+    {
+      "album": {
         "name": "Self Esteem (featuring EST Gee)",
         "url": "https://open.spotify.com/album/7a40mtofAp39yICF1FIOqF"
       },
@@ -2638,7 +2660,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 167812,
       "name": "Spinnin' (feat. EST Gee)",
       "url": "https://open.spotify.com/track/4Kgy1BDA6IM9ahZNrYbCZq"

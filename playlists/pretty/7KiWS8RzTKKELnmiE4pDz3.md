@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 364 songs - 21 hr 7 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 366 songs - 21 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -372,5 +372,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 362 | [Mellow My Man](https://open.spotify.com/track/0bzFaHiymbvjmIDKf6XAbS) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu) | [Do You Want More?!!!??!](https://open.spotify.com/album/3fr53Fq6cElPicmpKz9w1g) | 4:41 |
 | 363 | [Sometimes](https://open.spotify.com/track/5RnLNOSL1nkBzil8mVM10o) | [The Brand New Heavies](https://open.spotify.com/artist/3DEveX6KVzhPDqq2VRuN14) | [Shelter](https://open.spotify.com/album/0c9Ixyl94wsxMiW1k4Obh9) | 4:46 |
 | 364 | [Free Your Mind](https://open.spotify.com/track/6YjqkGsBgRHqdnbCS4pbjs) | [James Taylor Quartet](https://open.spotify.com/artist/4yJ5JaEQvtAynbcucAiN0R) | [In the Hand of the Inevitable](https://open.spotify.com/album/4XTXpbLvjAvzyzInkgK992) | 4:54 |
+| 365 | [Real Niggaz](https://open.spotify.com/track/2MZ2p37xb1bchanskarXlV) | [N.W.A.](https://open.spotify.com/artist/4EnEZVjo3w1cwcQYePccay) | [Efil4zaggin](https://open.spotify.com/album/3OSID3YChn6nOjfUAlSXQZ) | 4:27 |
+| 366 | [Niggaz 4 Life](https://open.spotify.com/track/0y0IhcBx3C1oEMtL4oFkBp) | [N.W.A.](https://open.spotify.com/artist/4EnEZVjo3w1cwcQYePccay) | [Efil4zaggin](https://open.spotify.com/album/3OSID3YChn6nOjfUAlSXQZ) | 4:58 |
 
-Snapshot ID: `AAAfNShJ/+EvYMb0TtRa0229/viNhHXK`
+Snapshot ID: `AAAfNwo2KY3bMMegwKKZh7c/qHq9bIp1`

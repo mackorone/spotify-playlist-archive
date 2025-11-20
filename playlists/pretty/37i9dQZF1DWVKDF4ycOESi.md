@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Charli xcx, Tommaso Paradiso, Lewis Capaldi, Miley Cyrus, Robyn, Cesare Cremonini e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,132 likes - 90 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,147 likes - 90 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

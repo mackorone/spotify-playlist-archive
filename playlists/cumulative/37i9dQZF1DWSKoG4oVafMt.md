@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Gurnam Bhullar & Hitika Bali
 
-1,158 songs - 2 day 14 hr 26 min
+1,159 songs - 2 day 14 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -751,6 +751,7 @@
 | [Paagla](https://open.spotify.com/track/7mW3mM1aovDaOnSyK5e9W8) | [Akhil](https://open.spotify.com/artist/6zZrFenNe3YPttxZsnQQs1) | [Paagla](https://open.spotify.com/album/7ucqStPOMhaUWxrOfJKke9) | 3:43 | 2021-12-02 | 2022-02-01 |
 | [Pagal](https://open.spotify.com/track/7n85x6EpfleVtbIjQGe0TD) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Babbu Maan](https://open.spotify.com/artist/2ENaPFnsKa9MlutVokd6es), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo) | [Pagal](https://open.spotify.com/album/1t6klKMatDBtqcKC9de7eG) | 3:09 | 2024-05-27 | 2025-02-25 |
 | [Pagal Nahi Hona \(feat\. Sonu Sood\)](https://open.spotify.com/track/1BPnrHYkrXc28xp66lB2CZ) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY), [Sonu Sood](https://open.spotify.com/artist/1RViT01v3KsUvaEQk136nY) | [Pagal Nahi Hona \(feat\. Sonu Sood\)](https://open.spotify.com/album/0JTBanRxutQ7j4bRNgjh40) | 3:46 | 2021-12-02 | 2022-02-01 |
+| [Pahaadan](https://open.spotify.com/track/7xgDGBDYXZuGoSXlADVqLT) | [Aparshakti Khurana](https://open.spotify.com/artist/2UWTNi6LLK5lXNGzFWzIqT), [Savi Kahlon](https://open.spotify.com/artist/6jvvFfe34NYXjWZMz7rExP) | [Pahaadan](https://open.spotify.com/album/7sxMOKB3cy1BBXNeOm85wT) | 2:01 | 2025-11-19 |  |
 | [Pain](https://open.spotify.com/track/0nb2IsOz3YO9JYvLENh3oW) | [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3), [Minister Music](https://open.spotify.com/artist/4onBePCRXkocuDcGQXRCH7) | [Pain](https://open.spotify.com/album/2AjzWvwY2v5Mw1iFYNzGsY) | 3:45 | 2022-04-08 | 2022-04-29 |
 | [Pakistan \(feat\. DJ Flow\)](https://open.spotify.com/track/4xYnWF1nt3Tc2IJRaFnehf) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr), [Dj Flow](https://open.spotify.com/artist/46ZZ5CWZwIeuBVBKalbpZ4) | [Pakistan \(feat\. DJ Flow\)](https://open.spotify.com/album/6dlGmopwHaWOnisocpooqa) | 3:16 | 2022-04-15 | 2022-08-18 |
 | [Panchii](https://open.spotify.com/track/2iqiSNXdFH6vOLi0ZypPVX) | [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN), [NDS](https://open.spotify.com/artist/5xh6szshoZ0UfZD1x6QzZG) | [Panchii](https://open.spotify.com/album/1S1ApH3B7ZnKI3UP1YTwCz) | 3:50 | 2025-07-29 | 2025-08-27 |

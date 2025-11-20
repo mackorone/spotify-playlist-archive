@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VvACCrgjrt.md) - [plain]
 
 > Real nasty house 🔥🔥 with Dillon Francis & Marten Hørger
 
-[Spotify](https://open.spotify.com/user/spotify) - 476,444 likes - 125 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 476,518 likes - 125 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,8 +115,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VvACCrgjrt.md) - [plain]
 | 105 | [Lick It](https://open.spotify.com/track/0JoaUkfqUIonNgxBq8wvwD) | [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn) | [Lick It](https://open.spotify.com/album/4mT1c8jk8dlzROX7mSMvWD) | 3:24 |
 | 106 | [The Don](https://open.spotify.com/track/6amFTa4qtw7wHiSKNZsBUw) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Jay Robinson](https://open.spotify.com/artist/1Jputnig8fuCuihen6n28Z), [Gabi'el](https://open.spotify.com/artist/6fhN6RXbIZ26S3gfebpNYN) | [The Don](https://open.spotify.com/album/0qGQYh3hi5EiIXaobMB3yV) | 2:46 |
 | 107 | [No Matter](https://open.spotify.com/track/5aGV1AMq9BsUVZZAJmtGGY) | [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [No Matter](https://open.spotify.com/album/5IDEx7LuqLBMXQ4TyFvxIw) | 3:02 |
-| 108 | [Mind Eraser](https://open.spotify.com/track/4Pqea5CRhmJZjn4VytoUPf) | [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [Datti](https://open.spotify.com/artist/0QJjhIiIMNvHGyltsojy5Q) | [Mind Eraser](https://open.spotify.com/album/5C8EWvdhxJb0ZWVyS7Tnbc) | 3:13 |
-| 109 | [F\*CK THAT](https://open.spotify.com/track/3HxaXZ9pS1r3GFgv4Eh5sI) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [F\*CK THAT](https://open.spotify.com/album/5myUJEhXSJHBKL4SfZPdX9) | 3:11 |
+| 108 | [F\*CK THAT](https://open.spotify.com/track/3HxaXZ9pS1r3GFgv4Eh5sI) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [F\*CK THAT](https://open.spotify.com/album/5myUJEhXSJHBKL4SfZPdX9) | 3:11 |
+| 109 | [Mind Eraser](https://open.spotify.com/track/4Pqea5CRhmJZjn4VytoUPf) | [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [Datti](https://open.spotify.com/artist/0QJjhIiIMNvHGyltsojy5Q) | [Mind Eraser](https://open.spotify.com/album/5C8EWvdhxJb0ZWVyS7Tnbc) | 3:13 |
 | 110 | [SWEAT](https://open.spotify.com/track/72oKwaidmdyrEsehdWFMct) | [JLV](https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L) | [SWEAT](https://open.spotify.com/album/2dUSvHHI2NblaTDGeXlb43) | 2:39 |
 | 111 | [Baggy Black Jeans](https://open.spotify.com/track/5napq9DmxX4W8Z6y9yI3Us) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc) | [Baggy Black Jeans](https://open.spotify.com/album/3VMp1zL4dGWjXz8ezLbTfv) | 3:12 |
 | 112 | [Machine](https://open.spotify.com/track/5XuZZistISlMXMfYC2ME3V) | [Good Times Ahead](https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU) | [Machine](https://open.spotify.com/album/4lYlLN1hkJZbut9ZSPqxFL) | 2:24 |
@@ -125,13 +125,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VvACCrgjrt.md) - [plain]
 | 115 | [Alcoholic](https://open.spotify.com/track/2K1w2Tw0eLnASMPMN6ijzD) | [Matt Faulk](https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x) | [Alcoholic](https://open.spotify.com/album/5T00wwk5KYi81rHvFq3qfX) | 3:20 |
 | 116 | [ZERO200](https://open.spotify.com/track/3Mm90uj8UhWcUzHTE9ohQ1) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [ZERO200](https://open.spotify.com/album/5CWX8Gbb9qAuAYCnUIMhfB) | 3:06 |
 | 117 | [On My Own](https://open.spotify.com/track/74Vj0SPtSEYwBhJIKQiyEG) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz), [ALRT](https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf) | [On My Own](https://open.spotify.com/album/4fb1FjRzLhGhweK3Dg0dae) | 2:30 |
-| 118 | [Reposado](https://open.spotify.com/track/2r3odpOpap9UydV0pmvLi3) | [OKAYVAL](https://open.spotify.com/artist/41TOOGX3nHghrVvmDJDHhQ) | [Reposado](https://open.spotify.com/album/1LzroJg1OlUwdzlmFmNFXS) | 3:02 |
+| 118 | [Earthquake](https://open.spotify.com/track/4XzOmCCiAeu0XaH8XVrU1l) | [SKILAH](https://open.spotify.com/artist/0ILzznvRwQsrGX7BsaDer0) | [Earthquake](https://open.spotify.com/album/0NksrZrnQcFMSxiRnu6den) | 3:02 |
 | 119 | [License To Be Bad](https://open.spotify.com/track/3yBdKw7lvhn5u4vpeWRDTV) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Ciszak](https://open.spotify.com/artist/6lf5XKHZHGXxHFPOKSkodA), [Lovlee](https://open.spotify.com/artist/0cPmf8oWIjuDXYrzsNFjj8) | [License To Be Bad](https://open.spotify.com/album/5htp5ygxDau4GhLczYA46g) | 3:06 |
-| 120 | [The Sound](https://open.spotify.com/track/6VfURLdwW6jBCu4nHdAKBm) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV) | [The Sound](https://open.spotify.com/album/1rwPxia8PKK8uvUSaErJIj) | 2:35 |
-| 121 | [Something To Believe In](https://open.spotify.com/track/5pQtpePzhRzuQ8Ip9F14xF) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV) | [Something To Believe In](https://open.spotify.com/album/2jNht2lxfGErHI0H4lC06A) | 2:26 |
-| 122 | [Earthquake](https://open.spotify.com/track/4XzOmCCiAeu0XaH8XVrU1l) | [SKILAH](https://open.spotify.com/artist/0ILzznvRwQsrGX7BsaDer0) | [Earthquake](https://open.spotify.com/album/0NksrZrnQcFMSxiRnu6den) | 3:02 |
+| 120 | [Reposado](https://open.spotify.com/track/2r3odpOpap9UydV0pmvLi3) | [OKAYVAL](https://open.spotify.com/artist/41TOOGX3nHghrVvmDJDHhQ) | [Reposado](https://open.spotify.com/album/1LzroJg1OlUwdzlmFmNFXS) | 3:02 |
+| 121 | [The Sound](https://open.spotify.com/track/6VfURLdwW6jBCu4nHdAKBm) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV) | [The Sound](https://open.spotify.com/album/1rwPxia8PKK8uvUSaErJIj) | 2:35 |
+| 122 | [Something To Believe In](https://open.spotify.com/track/5pQtpePzhRzuQ8Ip9F14xF) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV) | [Something To Believe In](https://open.spotify.com/album/2jNht2lxfGErHI0H4lC06A) | 2:26 |
 | 123 | [Red Velvet](https://open.spotify.com/track/36EfR7HreYyTLh0fLylOUo) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp) | [Red Velvet](https://open.spotify.com/album/4z9i6Q7C98sselGw7R2XKP) | 2:48 |
 | 124 | [Pump \(AC Slater Remix\)](https://open.spotify.com/track/3Vax2tVN84lRW9Xl0DyPjs) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc) | [Pump \(AC Slater Remix\)](https://open.spotify.com/album/2lHuSOPxXJQ38afCptC9A2) | 4:17 |
-| 125 | [Whole Lotta Drugs](https://open.spotify.com/track/5WYRO89wwasU6XwYVX2uGQ) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [Whole Lotta Drugs / Over The Edge](https://open.spotify.com/album/3Nh0Bjk3BCKi9YIjwbPAkn) | 3:28 |
+| 125 | [Inwards](https://open.spotify.com/track/6RKCssrvURrpUsNw2mkZ8C) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [Inwards](https://open.spotify.com/album/10bvUyJngTY0LXd7HymOFV) | 3:24 |
 
 Snapshot ID: `AAAAAOlRZCX7M3WfGmu+powBSwUd79uH`

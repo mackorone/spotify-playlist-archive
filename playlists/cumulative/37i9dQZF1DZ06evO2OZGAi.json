@@ -6,6 +6,24 @@
     {
       "album": {
         "name": "2020",
+        "url": "https://open.spotify.com/album/1oXZpcZxhAIPejsCHdpq8o"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281757,
+      "name": "2020",
+      "url": "https://open.spotify.com/track/6kY9lyIn4FPuIse0a6Ettb"
+    },
+    {
+      "album": {
+        "name": "2020",
         "url": "https://open.spotify.com/album/25wwomOyVO7rJvF28zwrpA"
       },
       "artists": [
@@ -16,7 +34,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 283374,
       "name": "2020",
       "url": "https://open.spotify.com/track/3SJaiCgPfI6L9WymQkjivV"
@@ -34,7 +52,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 193834,
       "name": "A Nadie Le Importa",
       "url": "https://open.spotify.com/track/3AgEcKmM0cBb2T7NYciSB4"
@@ -293,6 +311,24 @@
     },
     {
       "album": {
+        "name": "2020",
+        "url": "https://open.spotify.com/album/1oXZpcZxhAIPejsCHdpq8o"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195758,
+      "name": "Ella Es",
+      "url": "https://open.spotify.com/track/0eic3m5rwIaOMAUSSryRqu"
+    },
+    {
+      "album": {
         "name": "Ella Es",
         "url": "https://open.spotify.com/album/6P0eRSeMkYkulYGS2zzdFF"
       },
@@ -304,7 +340,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 195758,
       "name": "Ella Es",
       "url": "https://open.spotify.com/track/7bpOAW9LnQAsAbFbyImhwS"
@@ -376,7 +412,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 187539,
       "name": "Feliz",
       "url": "https://open.spotify.com/track/0QTSobzqpGqtkKsAjoAh1X"

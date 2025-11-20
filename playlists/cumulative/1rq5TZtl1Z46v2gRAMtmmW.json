@@ -9449,6 +9449,24 @@
     },
     {
       "album": {
+        "name": "Worth It",
+        "url": "https://open.spotify.com/album/4WqUWYxOvMXphSYewpsajK"
+      },
+      "artists": [
+        {
+          "name": "I. JORDAN",
+          "url": "https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4"
+        }
+      ],
+      "date_added": "2025-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271304,
+      "name": "Worth It",
+      "url": "https://open.spotify.com/track/7FEzKQw1rU8ZA5nsqjJ9H8"
+    },
+    {
+      "album": {
         "name": "You Knew",
         "url": "https://open.spotify.com/album/4n3meu86cgj7FIwe0xvYKc"
       },

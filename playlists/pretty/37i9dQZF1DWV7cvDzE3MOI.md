@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7cvDzE3MOI.md) - [plain]
 
 > Discover the unforgettable melodies of Chopin, including moving ballades, relaxing nocturnes and vibrant concertos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 666,584 likes - 68 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 666,641 likes - 68 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7cvDzE3MOI.md) - [plain]
 | 36 | [Chopin: Piano Sonata No\. 2 in B\-Flat Minor, Op\. 35: III\. Marche funèbre](https://open.spotify.com/track/4tDa5P1so01pdVc5Ywl6Or) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Aimi Kobayashi](https://open.spotify.com/artist/41YFPXmww0HCdIBjJj0uPs) | [Chopin: Piano Sonata No\. 2 \- Liszt: Dante Sonata & 3 Petrarch Sonnets](https://open.spotify.com/album/02jMrMAn68A2jh6zeB4E0E) | 9:57 |
 | 37 | [Nocturne in G Major, Op\. 37, No\. 2](https://open.spotify.com/track/17A3zj6XllYLQJZvRdehFd) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Vladimir Feltsman](https://open.spotify.com/artist/2YU2DA6yZZ0pmcR4utb3TM) | [Chopin: Complete Nocturnes, Barcarolle, Berceuse](https://open.spotify.com/album/5hWRkuxBnUvjSIQex2SLKn) | 5:44 |
 | 38 | [Waltzes, Op\. 69: No\. 2 in B Minor](https://open.spotify.com/track/2VeL9mexNVTippORBuAHY3) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Idil Biret](https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr) | [Chopin: Waltzes Nos\. 1\-19 \- Ecossaises, Op\. 72 \- Tarantelle, Op\. 43](https://open.spotify.com/album/5zNQIyP4WetHlXx9PLh1Id) | 4:04 |
-| 39 | [Ballade No\. 4 in F Minor, Op\. 52](https://open.spotify.com/track/7ACLQLZ1I7PbyKTS4E9whS) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Khatia Buniatishvili](https://open.spotify.com/artist/0bouHpX4JiuPnIfP2jFxRi) | [Chopin: Works for Piano](https://open.spotify.com/album/263G1hP6jKqrziAfQUxjFx) | 10:26 |
+| 39 | [Ballade No\. 4 in F Minor, Op\. 52](https://open.spotify.com/track/7ACLQLZ1I7PbyKTS4E9whS) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Khatia Buniatishvili](https://open.spotify.com/artist/0bouHpX4JiuPnIfP2jFxRi) | [Chopin: Works for Piano](https://open.spotify.com/album/263G1hP6jKqrziAfQUxjFx) | 10:32 |
 | 40 | [Chopin: Waltz No\. 9 in A\-Flat Major, Op\. 69 No\. 1 "The Farewell Waltz "](https://open.spotify.com/track/2zfitTxt9KPU0XroKQT0ND) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [David Fray](https://open.spotify.com/artist/6ngR3n1aQ7GLB5w46hqSWR) | [Chopin: Piano Works](https://open.spotify.com/album/5eThYMo8mVyZqA9ygT333u) | 4:28 |
 | 41 | [Waltz No\. 7 in C\-Sharp Minor, Op\. 64 No\. 2](https://open.spotify.com/track/7HDqxZ13HhwtwCEGAlz3Gz) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Alice Sara Ott](https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q) | [Chopin: Complete Waltzes](https://open.spotify.com/album/30LUjTR1mNP5EVL28IpIp2) | 3:40 |
 | 42 | [Nocturne in C\-Sharp Minor, Op\. 27 No\. 1](https://open.spotify.com/track/3GCSlxhYGeQsoXah5zRpQC) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Ingrid Fliter](https://open.spotify.com/artist/7iUbgcO0RSM8jJHbXNnrdq) | [Chopin: Nocturnes](https://open.spotify.com/album/7k54RTWZdOVQqMR5torR0n) | 4:57 |

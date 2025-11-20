@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 
 > The return of a superstar  💫 Cover: Robyn
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,333 likes - 80 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,307 likes - 80 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 | 61 | [play me like a speaker](https://open.spotify.com/track/2Db4ymX1AivTU8lUJbT8F6) | [Lucky Iris](https://open.spotify.com/artist/7IvhQ1o9oI4ybFDpisgvkC) | [play me like a speaker](https://open.spotify.com/album/4rd6PIDkOzq2Xy1hQSf7ki) | 3:09 |
 | 62 | [DAYLIGHT SAVINGS](https://open.spotify.com/track/1S2lOS0vWfI5nvSrCB6JjP) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [DAYLIGHT SAVINGS](https://open.spotify.com/album/3D3f5F2xI8wI1S8PFOvbom) | 3:36 |
 | 63 | [Drowning](https://open.spotify.com/track/1U01USQ1KoGB36wlCHw6px) | [SONIKKU](https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9) | [Heatwave/Drowning](https://open.spotify.com/album/65sVg5JZEC2W2CsPApyASp) | 3:14 |
-| 64 | [TIT FOR TAT](https://open.spotify.com/track/04a44cx2PJthIbN2aLMXhl) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TIT FOR TAT](https://open.spotify.com/album/1ks1k7zln4TyBjn1CF3vCz) | 2:55 |
+| 64 | [TIT FOR TAT](https://open.spotify.com/track/04a44cx2PJthIbN2aLMXhl) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TIT FOR TAT](https://open.spotify.com/album/1ks1k7zln4TyBjn1CF3vCz) | 2:57 |
 | 65 | [BIRTHDAY CAKE](https://open.spotify.com/track/2c4Y3ZUE7poeSljm40dOen) | [vi0let](https://open.spotify.com/artist/3ZzSaEjPW9zwhYfvId1l0Q) | [ULTRAVI0LET](https://open.spotify.com/album/73YuJ5RfkjIjfuhg7A5mBb) | 2:21 |
 | 66 | [Luminous](https://open.spotify.com/track/7bzgDWn2aXlaG73is3C77u) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Luminous / Trapped](https://open.spotify.com/album/59Sb9iMUVVKeH0o11j12xo) | 3:45 |
 | 67 | [TSUNAMI](https://open.spotify.com/track/7zMdBNMCNkwTlVgZfce3dY) | [Little Sis Nora](https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [TSUNAMI](https://open.spotify.com/album/1J26PJZThn7pSo1ZFcdawr) | 2:06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 549 likes - 2,031 songs - 4 day 23 hr 4 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 549 likes - 2,034 songs - 4 day 23 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2039,5 +2039,8 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2029 | [Longing](https://open.spotify.com/track/6s9qB77OZNGfR2zWIrwwHg) | [Jessa Rose](https://open.spotify.com/artist/2tvXqU5OPPUlcJWIZXpgtE) | [Longing](https://open.spotify.com/album/5VpvvqMBroSFymsdFp8xHw) | 4:24 |
 | 2030 | [ostracized myself](https://open.spotify.com/track/4kedkU5YfOg9aP3Rhaqh8Y) | [Władek Sheen](https://open.spotify.com/artist/5elwcM1iBIib16jSGK1SQe) | [ostracized myself](https://open.spotify.com/album/7zzcYFc64KJdA2Hd1AB7Fm) | 2:50 |
 | 2031 | [E TONNA](https://open.spotify.com/track/2iOohsAhmLAyexEQKNPg1a) | [Beady Boss](https://open.spotify.com/artist/2NSpqDFDGvKqst0UYhl9Wl) | [E TONNA](https://open.spotify.com/album/5rr3F2grA84hh6g45YiG1l) | 3:58 |
+| 2032 | [Pretty Palms](https://open.spotify.com/track/4k5odH8VlFUVdHMcX4MpkL) | [Charley Hill](https://open.spotify.com/artist/3Gu0cDU1W9fwdSgYquz2rq) | [Mustang ⋆](https://open.spotify.com/album/5c1fF5TQHvB5ED4Z4sLHac) | 3:17 |
+| 2033 | [Mary's Lamb](https://open.spotify.com/track/4wA5bR2acrQ6tAJuheentG) | [Halley Gentil](https://open.spotify.com/artist/3nL0tRCAJTGnw11PHM4UNg) | [Mary's Lamb](https://open.spotify.com/album/6AIklyNJeqZI3yofH9k9bM) | 3:15 |
+| 2034 | [Regrets](https://open.spotify.com/track/1UHIaL6ZF9aiiPJ8opT5sJ) | [Pete Gardiner](https://open.spotify.com/artist/5sjhK0fScmb7HXin42rUaT) | [Songs That Wrote Me](https://open.spotify.com/album/1i06gAGF1H4OYzBcP5pgKN) | 3:19 |
 
-Snapshot ID: `AAAIfcZ46HXjWZnkysmj9gPLW3oQoTa/`
+Snapshot ID: `AAAIgPkqBGOIdfuxwjqLTPh09hlP/n6y`

@@ -2,7 +2,7 @@
 
 ### [Herfst Vibes 2025 ](https://open.spotify.com/playlist/5CrMdCjnCYxAwKyTrmi7pN)
 
-> Them: So sad Summer is over..\. Me: Listening to Autumn music all day
+> Get cozy met deze playlist vol herfstvibes! Met muziek van Olivia Dean, Morgan Wallen, Lola Young en meer...
 
 226 songs - 12 hr 14 min
 

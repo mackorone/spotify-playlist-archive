@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 
 > The best of today's funk\. Cover: MonoNeon
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,059 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,096 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 | 21 | [Male Gaze](https://open.spotify.com/track/5v4nhjFbAwUSdKnkhgUgqZ) | [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3) | [Male Gaze](https://open.spotify.com/album/1AEgBHfLeEJ79ugZxqVHZi) | 2:35 |
 | 22 | [New Direction](https://open.spotify.com/track/13pCHTVZCepwmAF3lXR3Jd) | [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn), [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [New Direction](https://open.spotify.com/album/5bf5gnimLUAysx41VMNiV8) | 4:17 |
 | 23 | [Squeeze](https://open.spotify.com/track/31I691UrDuyt54hM6MFMoA) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [Squeeze](https://open.spotify.com/album/705LfArn43DdhivgfDYX8q) | 3:54 |
-| 24 | [Bubble Pop](https://open.spotify.com/track/4ENaj59K6Wjm6AzBTX9bvv) | [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT), [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA), [Fantaazma](https://open.spotify.com/artist/2PSnVa4aT9bntUbGmLAa0V), [Brother Nature](https://open.spotify.com/artist/3tmXdtreR3DBXX5TLv4kda) | [Album of the Year \#1 Funkateer](https://open.spotify.com/album/14LLyABuzaQgTmCKwNy8S8) | 3:48 |
+| 24 | [Bubble Pop](https://open.spotify.com/track/4ENaj59K6Wjm6AzBTX9bvv) | [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT), [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA), [Fantaazma](https://open.spotify.com/artist/2PSnVa4aT9bntUbGmLAa0V), [Brother Nature](https://open.spotify.com/artist/4Z58ErHHzUU4EkeNKK3z6f) | [Album of the Year \#1 Funkateer](https://open.spotify.com/album/14LLyABuzaQgTmCKwNy8S8) | 3:48 |
 | 25 | [Turn To Stone](https://open.spotify.com/track/4mqvIDMj3A8OkafiBwDh9d) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc), [SuperBlue](https://open.spotify.com/artist/7AftUz1fechTzmkw8x7qYe), [Huntertones](https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd) | [Turn To Stone](https://open.spotify.com/album/4tSQltH5H5nBY5il36r0lJ) | 4:58 |
 | 26 | [Starlight](https://open.spotify.com/track/0tWD7KgFJ2GVA1Ta0SYXqG) | [BusCrates](https://open.spotify.com/artist/2xVtLMwf4oZwJT5d1J5289), [Christine Elise](https://open.spotify.com/artist/08yP8oklwveHNpoDhu1BrI), [Kuf Knotz](https://open.spotify.com/artist/6xGgvHAQIxa4Wfg2xdIZTU) | [Altitude](https://open.spotify.com/album/1R2uSWPQdvow8lAkGYwVaD) | 3:05 |
 | 27 | [Own Thing](https://open.spotify.com/track/12Ji6jw8obSZ00XfagBxud) | [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH) | [Own Thing](https://open.spotify.com/album/22hrrkRhDX1Qr9gGCCLa0H) | 2:41 |

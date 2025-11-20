@@ -4,7 +4,7 @@
 
 > 
 
-50 songs - 2 hr 41 min
+50 songs - 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Green River \- Remastered 1985](https://open.spotify.com/track/0mRLlcbMVGMjT5Pca8uMzl) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Chronicle: 20 Greatest Hits](https://open.spotify.com/album/03GKkfyog7hnllilFS3jIV) | 2:33 | 2013-06-27 |  |
 | [Hair \(Rerecorded\)](https://open.spotify.com/track/1LKPYuJXIK8r6CJYThCZEU) | [The Cowsills](https://open.spotify.com/artist/4ZSzroBNV7HzBDO9aohuF1) | [The Cowsills \- Their Very Best \(Rerecorded\)](https://open.spotify.com/album/7FxYRsJscr7fha69a2Zcjl) | 3:27 | 2013-06-27 |  |
 | [Honky Tonk Women \- Mono Version](https://open.spotify.com/track/3RZMzCvYsmJ0u2ioKTOsmJ) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Hot Rocks 1964\-1971](https://open.spotify.com/album/0aqZJlugIkTUWW1sa4BANp) | 2:59 | 2013-06-27 |  |
-| [Hot Fun in the Summertime \- Mono Single Master](https://open.spotify.com/track/4t6NQkpUmvpvLDCkl3XuwA) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Greatest Hits](https://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT) | 2:37 | 2013-06-27 |  |
+| [Hot Fun in the Summertime \- Mono Single Master](https://open.spotify.com/track/4t6NQkpUmvpvLDCkl3XuwA) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Greatest Hits](https://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT) | 2:39 | 2013-06-27 |  |
 | [Hurt So Bad](https://open.spotify.com/track/04CMjrGSRLCkPeAA4aiMsK) | [The Lettermen](https://open.spotify.com/artist/3lzlUccNrekC1oFPCjNIOX) | [Capitol Collectors Series](https://open.spotify.com/album/60BxKKLrJ8lIcg4AKsIIzQ) | 2:19 | 2013-06-27 |  |
 | [I Can't Get Next To You \- Single Version/Mono](https://open.spotify.com/track/5cS39Jh4zJeTTqwjtAcLfc) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [The Definitive Collection](https://open.spotify.com/album/5Tyak5Sjr8gxSDOE2ZDGQx) | 2:51 | 2013-06-27 |  |
 | [I've Gotta Be Me](https://open.spotify.com/track/4chNWMOlNGEWqR9dP6TDMb) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D) | [The Essentials: Sammy Davis Jr.](https://open.spotify.com/album/2GLDjgO2lTU2sMoAEgMPtw) | 2:54 | 2013-06-27 |  |

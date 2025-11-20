@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Bloodflows](https://open.spotify.com/track/75mE9LzZzQoDwjS4OuuzmW) | [SOHN](https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg) | [Bloodflows](https://open.spotify.com/album/3ycnh8BMGrewYSSxQmM9Hc) | 4:21 | 2014-03-12 |  |
-| [Brand New](https://open.spotify.com/track/1P5OPN8MbPgFznEp1b7OiN) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [G I R L](https://open.spotify.com/album/2lkQd5T32QHDOfFkEIPJKz) | 4:31 | 2014-03-12 |  |
+| [Brand New \(with Justin Timberlake\)](https://open.spotify.com/track/1P5OPN8MbPgFznEp1b7OiN) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [G I R L](https://open.spotify.com/album/2lkQd5T32QHDOfFkEIPJKz) | 4:31 | 2014-03-12 |  |
 | [Busy Earnin'](https://open.spotify.com/track/6J8SONJwAIizCJm0QhEi4Y) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Busy Earnin'](https://open.spotify.com/album/3DGCeamj8hWIDqZ2aGrksc) | 2:59 | 2014-03-12 |  |
 | [Counting Stars](https://open.spotify.com/track/1fh2TfUOtOoXEE8qQynYEC) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native \(Deluxe\)](https://open.spotify.com/album/0G0vIGvVlJ3MtXunjqrbMY) | 4:17 | 2014-03-12 |  |
 | [Drive By](https://open.spotify.com/track/1wAXODAAL6hY64ZdhrnjBO) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Drive By](https://open.spotify.com/album/4IjfVRMzE8yNH84Q6UZSV6) | 3:16 | 2014-03-12 |  |

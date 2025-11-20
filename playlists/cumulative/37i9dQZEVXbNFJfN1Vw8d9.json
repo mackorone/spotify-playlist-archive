@@ -302,7 +302,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-17",
+      "date_removed": null,
       "duration_ms": 235613,
       "name": "1204",
       "url": "https://open.spotify.com/track/1CT5RvstERTDnM12h89mMN"
@@ -9008,7 +9008,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 254941,
       "name": "Duro Ma",
       "url": "https://open.spotify.com/track/0Ze1qv8LIgg5Y7Bu4jzXIo"
@@ -9870,7 +9870,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-18",
+      "date_removed": null,
       "duration_ms": 235626,
       "name": "El Tel\u00e9fono",
       "url": "https://open.spotify.com/track/614NVFo5csQqRnryl4jXs2"
@@ -9892,7 +9892,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 239293,
       "name": "El Tel\u00e9fono",
       "url": "https://open.spotify.com/track/1sbiqeh3fCNwebhohDRXAp"
@@ -24138,6 +24138,10 @@
         {
           "name": "ROSAL\u00cdA",
           "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Dougie F",
+          "url": "https://open.spotify.com/artist/4pBG47zWhJbDw7mpsg68PJ"
         }
       ],
       "date_added": "2025-11-08",

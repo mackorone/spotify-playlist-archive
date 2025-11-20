@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdyjMX5o2vCq.md) - [plain]
 
 > Get to know the shape\-shifting, forward thinking, the one and only, Frank Ocean.
 
-[Spotify](https://open.spotify.com/user/spotify) - 820,213 likes - 48 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 820,247 likes - 48 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdyjMX5o2vCq.md) - [plain]
 | 43 | [Monks](https://open.spotify.com/track/3YXVl3FvIrvhgSW9ME3qNf) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE \(Explicit Version\)](https://open.spotify.com/album/623Ef2ZEB3Njklix4PC0Rs) | 3:20 |
 | 44 | [Close To You](https://open.spotify.com/track/1VZLEW5ZfcAbKZ94XQiSZF) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 1:25 |
 | 45 | [Sierra Leone](https://open.spotify.com/track/4XgpXhvf9JBbKPtX84DFN7) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE \(Explicit Version\)](https://open.spotify.com/album/623Ef2ZEB3Njklix4PC0Rs) | 2:28 |
-| 46 | [Wildfire \(feat\. Frank Ocean\)](https://open.spotify.com/track/4wOYt5nULk1Cu8pwJWk26m) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14), [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Paradise Valley](https://open.spotify.com/album/712VoD72K500yLhhgqCyVe) | 1:25 |
+| 46 | [Wildfire \(feat\. Frank Ocean\)](https://open.spotify.com/track/4wOYt5nULk1Cu8pwJWk26m) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14), [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Paradise Valley](https://open.spotify.com/album/712VoD72K500yLhhgqCyVe) | 1:27 |
 | 47 | [Futura Free](https://open.spotify.com/track/5k8LB57xOq8UUNVaKWSqrf) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 9:24 |
 | 48 | [End](https://open.spotify.com/track/3liAea2gyRKm8nWubcwsvl) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE \(Explicit Version\)](https://open.spotify.com/album/623Ef2ZEB3Njklix4PC0Rs) | 2:14 |
 

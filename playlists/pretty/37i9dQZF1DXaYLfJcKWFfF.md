@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: Tessi Nandi
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,480 likes - 80 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,499 likes - 80 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 16 | [Sorry Like You Mean It](https://open.spotify.com/track/6f9QDh2uAINwIXTfmoCO1v) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [Sorry Like You Mean It](https://open.spotify.com/album/34eHflHLhK2wTKYZUlgSA0) | 3:29 |
 | 17 | [Joyce Buyers Method](https://open.spotify.com/track/3IsTEeUvjblUnfHzuH88WO) | [We Are All Fossils](https://open.spotify.com/artist/15vQbVx84dPqYBWX2XK8kw) | [Gravity In Grief](https://open.spotify.com/album/3mSuIse2hJFrGkiJl7bmrE) | 3:56 |
 | 18 | [ODO](https://open.spotify.com/track/5rRKhpWLZzDp8a7KZ4wPYO) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc) | [ODO](https://open.spotify.com/album/767cvHiLzCJBzufXLwZg7i) | 3:18 |
-| 19 | [Ngibongiseni](https://open.spotify.com/track/1uJ9tdJnrJcTf6ormmHvPU) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Ngibongiseni](https://open.spotify.com/album/1ilhz6oSQGPBZjepOGvr72) | 2:36 |
+| 19 | [Mighty](https://open.spotify.com/track/4JWHESzS2UmPYaOIDSFQ6K) | [SaxbyTwins](https://open.spotify.com/artist/4gKoJlqp9vHQYvXF41yrNJ) | [Mighty](https://open.spotify.com/album/0FWvpXlb3VIRqYTnifszZ3) | 3:53 |
 | 20 | [I CHANGED \(I'M UP\)](https://open.spotify.com/track/1mUqDMg4JwzH6geIDEanrx) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [THOSE WHO ARE AGAINST US ALL THE TIME](https://open.spotify.com/album/0x5Y6GpGre82Z0Lx7um7XK) | 3:21 |
-| 21 | [Mighty](https://open.spotify.com/track/4JWHESzS2UmPYaOIDSFQ6K) | [SaxbyTwins](https://open.spotify.com/artist/4gKoJlqp9vHQYvXF41yrNJ) | [Mighty](https://open.spotify.com/album/0FWvpXlb3VIRqYTnifszZ3) | 3:53 |
+| 21 | [Ngibongiseni](https://open.spotify.com/track/1uJ9tdJnrJcTf6ormmHvPU) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Ngibongiseni](https://open.spotify.com/album/1ilhz6oSQGPBZjepOGvr72) | 2:36 |
 | 22 | [Garden](https://open.spotify.com/track/08Xb8OzpczP9gpuxyzGsm3) | [Justin Prins](https://open.spotify.com/artist/7BxTlyY52WY7TaBkNOWP0C) | [Garden](https://open.spotify.com/album/0NSN6eSSvqdHsCpZOAQL5y) | 4:05 |
 | 23 | [Broda Kevwe](https://open.spotify.com/track/1C8JvIKdcn7J4JGFTIFTJ2) | [Ṣẹwà](https://open.spotify.com/artist/0O4ZT28upUvTpqFICunfVK) | [Detox](https://open.spotify.com/album/2pgUrFWkbvvEqZKmpdri3z) | 4:12 |
 | 24 | [Lazy](https://open.spotify.com/track/7laDvGGFnFCO3aKm3M2H3L) | [Nomsa](https://open.spotify.com/artist/5pkBmuj6uxB5L3M5EoSt1p) | [Lazy](https://open.spotify.com/album/6WgP5eKSYY4l8MPSJ2jNT8) | 3:48 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 75 | [Standing in the Light](https://open.spotify.com/track/5jM3yT6eltDp3uR7bbjnx0) | [Nic van Graan](https://open.spotify.com/artist/5szYkf5z4q40eLOyWDFJgt), [Nathaniel Stewart](https://open.spotify.com/artist/3qBX9rcr5zRlfdC5ixrzrt) | [Standing in the Light](https://open.spotify.com/album/1vE7JqcDUHQHkaeAe0mvlf) | 3:07 |
 | 76 | [See You Soon](https://open.spotify.com/track/4LiKVSHo3x0Lmv50UOR0iv) | [Adam Srae](https://open.spotify.com/artist/3QxhXJxbonsOqLObAIuKAE) | [See You Soon](https://open.spotify.com/album/6WTXiaDaUq2i5AYxwiZiTM) | 2:41 |
 | 77 | [eyes\~](https://open.spotify.com/track/4jTlIwyg9WkHxnGYAV5oBZ) | [Corbon Amodio](https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ) | [when the night ends](https://open.spotify.com/album/0OMAhbCagKggdTIRe1ZwK3) | 3:27 |
-| 78 | [Sugar Rush](https://open.spotify.com/track/2biDEbOgHPFrFBFDSU6VZl) | [Porcelain Moon](https://open.spotify.com/artist/6bs5zCX9gJQ5nhxZ1Xu549) | [Sugar Rush](https://open.spotify.com/album/5W4zIRDdgp5y3N0AzxGSmL) | 2:58 |
-| 79 | [Spheres](https://open.spotify.com/track/7bYXCCtVFwaiRyoUP1uD3n) | [Shane Cooper](https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ), [Bokani Dyer](https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy), [Outeniqua](https://open.spotify.com/artist/3wKzi1cig0h6Vmxw0PJsml) | [Spheres](https://open.spotify.com/album/2I8Mjgw47gc9gBWLZQcOly) | 3:50 |
+| 78 | [Spheres](https://open.spotify.com/track/7bYXCCtVFwaiRyoUP1uD3n) | [Shane Cooper](https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ), [Bokani Dyer](https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy), [Outeniqua](https://open.spotify.com/artist/3wKzi1cig0h6Vmxw0PJsml) | [Spheres](https://open.spotify.com/album/2I8Mjgw47gc9gBWLZQcOly) | 3:50 |
+| 79 | [Sugar Rush](https://open.spotify.com/track/2biDEbOgHPFrFBFDSU6VZl) | [Porcelain Moon](https://open.spotify.com/artist/6bs5zCX9gJQ5nhxZ1Xu549) | [Sugar Rush](https://open.spotify.com/album/5W4zIRDdgp5y3N0AzxGSmL) | 2:58 |
 | 80 | [Sometin Small](https://open.spotify.com/track/1OUtnF5LExKbHllln1ljMK) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Worlasi](https://open.spotify.com/artist/55LVJSLOfFssxvLWKb6gt9), [Cina Soul](https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO) | [PALMWINE DIARIES VOL.1](https://open.spotify.com/album/4ehet3qgwyHG62UNZpgD5N) | 3:06 |
 
 Snapshot ID: `AAAAAKQxIXcN+Kxj459zt3VwxRjOiJ0t`

@@ -4,7 +4,7 @@
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-385 songs - 21 hr 31 min
+389 songs - 21 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [BRAINROT](https://open.spotify.com/track/0crSsxSRmxYpJyxiCG1TcE) | [Twmmy](https://open.spotify.com/artist/5THmuI6mHhk4dkJcLEJSBx) | [BRAINROT](https://open.spotify.com/album/3GmZ7TzBiquSsOlnAMaEkZ) | 2:57 | 2025-10-30 |  |
 | [Break In Color](https://open.spotify.com/track/5JSCBEp4St2LW0K9SF5T47) | [Velour](https://open.spotify.com/artist/2gnFFtzPgBpwBepDNSPZO7) | [Break In Color](https://open.spotify.com/album/2ltP4ML5BGlHi6MdKXjal2) | 1:29 | 2025-11-14 |  |
 | [Breathe for Her](https://open.spotify.com/track/3739EUXXKzFslUxNUE7HFz) | [Mercy Kelly](https://open.spotify.com/artist/6Hoew4UnPqu2d0EkqeTTin) | [Breathe for Her](https://open.spotify.com/album/08DLPyr39bDUmVPR4L0CkD) | 3:20 | 2025-10-21 |  |
+| [Brighter than the sun](https://open.spotify.com/track/3spowjHKymv1fFlybDm1dt) | [Bumblebirdai](https://open.spotify.com/artist/3AZN3Wd2uuuzwcJBJyK8wl) | [Brighter than the sun](https://open.spotify.com/album/7HYVZsmdkIMEdzPnGyHSP2) | 3:28 | 2025-11-19 |  |
 | [Brighter, Inside](https://open.spotify.com/track/278dp2hvYlfhLO1UCxfwcG) | [manattic](https://open.spotify.com/artist/3vyDUBEpFhq0Vlbc9FX5Oe) | [Brighter, Inside](https://open.spotify.com/album/3IDTCJtroXLiuDQgBJ9Cjd) | 3:56 | 2025-10-20 |  |
 | [Broken \(Psalm 13\)](https://open.spotify.com/track/6qSJZGM4tZaA6Wib4ci1Wq) | [We Who Wrestle](https://open.spotify.com/artist/1pfYB0WLqhlbIBWBp0lR0m) | [Every Breath](https://open.spotify.com/album/49IyajfL869H1mcKFyO4kd) | 4:23 | 2025-10-27 |  |
 | [Brothers and Sisters \(Stop the Hate\)](https://open.spotify.com/track/4Iyy0mLEmGAYgnHUJ6vdnz) | [Anything's Possible](https://open.spotify.com/artist/3OkhoxcppuzK4bJswS2aZX) | [Brothers and Sisters \(Stop the Hate\)](https://open.spotify.com/album/2wmEwAyjPyMqnx9QNalIQM) | 4:23 | 2025-10-04 |  |
@@ -95,6 +96,7 @@
 | [Dying Alone!](https://open.spotify.com/track/0MVZaq5sejk2eTOa8PcmrC) | [Nathan Sragow](https://open.spotify.com/artist/6rNB4rxtHxXq2jBmpKYvla) | [Dying Alone!](https://open.spotify.com/album/6kHIMfzflJssAB9d4NA4FP) | 2:50 | 2025-11-07 |  |
 | [Echoes](https://open.spotify.com/track/0WfcOWNCykokrxUJqAB7Mn) | [Reitse Machiel](https://open.spotify.com/artist/081QhRZxkgmFjDHdzJDDfp) | [Echoes](https://open.spotify.com/album/17d5RH4KOZg4cfkwtMQSLr) | 2:37 | 2025-10-26 |  |
 | [Egyptians](https://open.spotify.com/track/5G9ABSN8sTgDXZcdxOtanW) | [Bobby Zodiac and The Clairvoyants](https://open.spotify.com/artist/2TqNOOTFidJnZ7FdFm5iW3) | [Egyptians](https://open.spotify.com/album/0xF5MvALmLRrVdaNpOYUiy) | 3:57 | 2025-10-24 |  |
+| [ELECTRICAL](https://open.spotify.com/track/0glqu3pV7l7mxbpLgbZ6cD) | [Nathan Cassidy](https://open.spotify.com/artist/5Ytg1YZyLRrqexb1gMxdtJ) | [ELECTRICAL](https://open.spotify.com/album/4xeNayUn4eRUfcOfstb0ld) | 2:51 | 2025-11-19 |  |
 | [Electronic Symphony](https://open.spotify.com/track/6eXuNjWIj7bjlvS5MeRk0R) | [Elecprote1n](https://open.spotify.com/artist/2xjeyiw2CsGHyVhT7SUapN) | [Electronic Symphony](https://open.spotify.com/album/0NDKsueSseqqWBld9SzjMy) | 5:05 | 2025-11-11 |  |
 | [End of the Day](https://open.spotify.com/track/76sa6hg3PCGktVvIUxSqD5) | [Maltree](https://open.spotify.com/artist/57FCbyd2tXIycjiuU5jNl2) | [End of the Day](https://open.spotify.com/album/4tQrhVF7fJFej3hFqcj3gm) | 2:13 | 2025-10-21 |  |
 | [Endless Time](https://open.spotify.com/track/7iboyR2F62rpNt6hX4Z8Dq) | [Reminiscence](https://open.spotify.com/artist/2Mcl7mXh5xTr0cD3vmI0l0) | [Endless and Free](https://open.spotify.com/album/1pXbNpKvgqUtX924js0vhx) | 2:43 | 2025-11-13 |  |
@@ -160,6 +162,7 @@
 | [I Will Love You from a Distance](https://open.spotify.com/track/0PepuaiCDgj52qytX7cH8T) | [Melissa Corpus](https://open.spotify.com/artist/0gju7dDWpRtQTmqAl8IH5x) | [I Will Love You from a Distance](https://open.spotify.com/album/5M0PDpmBP3Y1qAo1Fs69ue) | 3:46 | 2025-10-26 |  |
 | [I Wish One More Time \- Christmas Edit](https://open.spotify.com/track/2FgwfFwRhkYATPZtAyA7MV) | [Max Fuxiano](https://open.spotify.com/artist/4Gu5jcgyRXfhW1Ity3Ie3m) | [I Wish One More Time \(Christmas Edit\)](https://open.spotify.com/album/71AtoxkCllwCRTGFJp6Gl4) | 2:59 | 2025-11-13 |  |
 | [I'm Falling in Love](https://open.spotify.com/track/09RCn254sZRszIInRMT1e6) | [Jon Lloyd Palmer](https://open.spotify.com/artist/4sGPPv7p5KTz0tEX2PDe0y), [Emma Lloyd Palmer](https://open.spotify.com/artist/6guRHyq2eQmEyeyJszzxiT) | [Jon and Emma Lloyd Palmer](https://open.spotify.com/album/49S2gq3NtCz9qXLRs5tAyE) | 3:21 | 2025-10-30 |  |
+| [If I Can't Have You](https://open.spotify.com/track/5CxxnPvc1oqXmmf9GvBuuR) | [Glen Caleb](https://open.spotify.com/artist/4Hyl6jqlskLvgHqxk3eKbA) | [If I Can't Have You](https://open.spotify.com/album/1UGBW7p7M46l2LRoYu2ifg) | 2:45 | 2025-11-19 |  |
 | [If your Grandma had Tinder](https://open.spotify.com/track/5zDS4hk74pIz2ENNYqQS04) | [AMZ](https://open.spotify.com/artist/0cAtjkAVeCP2QCSMkxVptR) | [If your Grandma had Tinder](https://open.spotify.com/album/4hOynLrBjWuzh7fPHZpzJ3) | 3:24 | 2025-11-19 |  |
 | [In the Time](https://open.spotify.com/track/42DFxsRs0GWrzXwKi3pAdU) | [Petit loïck](https://open.spotify.com/artist/5oPs1WlU16y929u8akzGx6) | [Die Secondhand](https://open.spotify.com/album/2k6N4rr9WENdjhF5iRDqO2) | 2:43 | 2025-11-04 |  |
 | [In This Light](https://open.spotify.com/track/33RX6DlgVuk0T2SlCdNfWZ) | [The meantime green](https://open.spotify.com/artist/03AuzDuKaTGM8tBZDtT90h) | [In This Light](https://open.spotify.com/album/7mIaScZKe2WyyjzvLhgZ9A) | 3:49 | 2025-10-29 |  |
@@ -368,6 +371,7 @@
 | [What Love Really Is](https://open.spotify.com/track/1HraOB1UXKCMb5VtDqQ8R5) | [PhillipNoah](https://open.spotify.com/artist/1132tu4mx4LUVx8emsBX6j) | [What Love Really Is](https://open.spotify.com/album/1PZnlr8gytWzs63YazoFVE) | 3:21 | 2025-10-31 |  |
 | [When I'm With You](https://open.spotify.com/track/4i05UpB8rI2qMbKaNr7bb7) | [GIANTHEM](https://open.spotify.com/artist/0THV42OqbQBdtoaI0Cf85R) | [When I'm With You](https://open.spotify.com/album/3f4Oqxvr7hbEGyRwWPIpex) | 3:42 | 2025-11-07 |  |
 | [When the morning comes](https://open.spotify.com/track/25h7h8uwiZOK7Ozfm3NjZR) | [momoyo](https://open.spotify.com/artist/01hxczOKxBEeXGsdqhfp9o) | [When the morning comes](https://open.spotify.com/album/10ht8hfjiZbube8jVBp02T) | 4:35 | 2025-11-10 |  |
+| [Where Did You Go, My Sweet Muse?](https://open.spotify.com/track/1aJFYIiXkAp4EmkNNI5lvZ) | [Softcore Revelations](https://open.spotify.com/artist/0aIqLzhuPn0qOwMZBa1IiZ) | [Where Did You Go, My Sweet Muse?](https://open.spotify.com/album/405YdRRhoZ9v3ILeQ84DaN) | 2:43 | 2025-11-19 |  |
 | [Where I Call Home](https://open.spotify.com/track/6yMs5isRDX7SZBrv9kRG7d) | [Patch Habits](https://open.spotify.com/artist/1BONbFNsdNqafUlqv9xVkZ) | [Where I Call Home](https://open.spotify.com/album/4BZGYdiJlzNv28h6ZTXK2K) | 3:53 | 2025-11-14 |  |
 | [Where Is the Light](https://open.spotify.com/track/1z1ac2331YJVtx28FN5gV7) | [Reminiscence](https://open.spotify.com/artist/2Mcl7mXh5xTr0cD3vmI0l0) | [When the Stars Refuse to Shine](https://open.spotify.com/album/5faOlmaP41FTmjSp2VcQpq) | 3:39 | 2025-11-10 |  |
 | [Where the Quiet Begins](https://open.spotify.com/track/6HqNaDXU7Xu2Fo2jBl3lf9) | [FantasyDreamVerse](https://open.spotify.com/artist/0cKMCwDZbcwp5MG6G1TdaX) | [Where the Quiet Begins](https://open.spotify.com/album/4c4nM2QlrCfHUMxpUCJRi5) | 3:04 | 2025-11-17 |  |

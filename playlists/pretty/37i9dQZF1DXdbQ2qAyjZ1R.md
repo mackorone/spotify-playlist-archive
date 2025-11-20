@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbQ2qAyjZ1R.md) - [plain]
 
 > La playlist soul et rhythm and blues qui s'écoute au coin du feu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,531 likes - 70 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,528 likes - 70 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbQ2qAyjZ1R.md) - [plain]
 | 21 | [Aht Uh Mi Hed](https://open.spotify.com/track/3bGVC25HcISA1ApJwux1LF) | [Shuggie Otis](https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl) | [Inspiration Information/ Wings Of Love](https://open.spotify.com/album/0JittRuqxUKruy1LlfxY4S) | 4:15 |
 | 22 | [I Feel Like Breaking up Somebody's Home Tonight](https://open.spotify.com/track/0d2ToVf1DsuYCyyiveQ9ai) | [Ann Peebles](https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB) | [Straight from the Heart](https://open.spotify.com/album/2HGzxUUz5q4jldJkodIarf) | 2:30 |
 | 23 | [Come and Get Your Love \- Single Version](https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD) | [Redbone](https://open.spotify.com/artist/0w7HLMvZOHatWVbAKee1zF) | [Come and Get Your Love](https://open.spotify.com/album/5Gf5m9M6RiK2lkjpbP0xRu) | 3:25 |
-| 24 | [Ain't No Sunshine](https://open.spotify.com/track/1k1Bqnv2R0uJXQN4u6LKYt) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Just As I Am](https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo) | 2:05 |
+| 24 | [Ain't No Sunshine](https://open.spotify.com/track/1k1Bqnv2R0uJXQN4u6LKYt) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Just As I Am](https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo) | 2:06 |
 | 25 | [Son Of A Preacher Man](https://open.spotify.com/track/0scrtPmtlIVwwk9s4LXJ8n) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [The Silver Collection](https://open.spotify.com/album/6t4BECovfkgGTrtbqmTlZf) | 2:26 |
 | 26 | [I Loves You Porgy \- 2013 Remastered Version](https://open.spotify.com/track/0kDpFPQgQYeZ7t04Quiwkn) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Little Girl Blue \(2013 Remastered Version\)](https://open.spotify.com/album/58gOQaPc4RCw8eWdTDRes7) | 4:09 |
 | 27 | [It'll All Be Over](https://open.spotify.com/track/1KFtR58Hn1nQ9fR0DRnC9n) | [Supreme Jubilees](https://open.spotify.com/artist/5XduRGfkKVRVqyEJ0D9trw) | [It'll All Be Over](https://open.spotify.com/album/3CLdAhzRYwIIf06iDSvlPA) | 3:05 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbQ2qAyjZ1R.md) - [plain]
 | 66 | [Water](https://open.spotify.com/track/4AuVVi2umfD8i7RtOiNqt7) | [Karate](https://open.spotify.com/artist/6U26vGPwnCQcNDr9Dpj0Y0) | [Pockets](https://open.spotify.com/album/06agCDLgdNdSqiVGuzwJy1) | 5:21 |
 | 67 | [My Thing](https://open.spotify.com/track/4AF9H0B82JmQbxsRP7fEFO) | [Wilfred Luckie](https://open.spotify.com/artist/1DOptLNwDd7yKYCUlnS1tJ) | [My Thing](https://open.spotify.com/album/717yshUKWbrt5TpPmStFTD) | 4:34 |
 | 68 | [Pow](https://open.spotify.com/track/73my16p9t3zMenUKNmoOhS) | [Kendra Morris](https://open.spotify.com/artist/7rtM2wPKQlFpsm0C4qJlDk) | [Banshee](https://open.spotify.com/album/5WzUMnT9QD9hTEQyhevpMW) | 3:46 |
-| 69 | [Lost and Lookin'](https://open.spotify.com/track/34EltYEPxM1kwzfvi7PUU9) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Night Beat](https://open.spotify.com/album/4FsWNGbkeZtMD1BWXhIvRk) | 2:11 |
+| 69 | [Lost and Lookin'](https://open.spotify.com/track/34EltYEPxM1kwzfvi7PUU9) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Night Beat](https://open.spotify.com/album/4FsWNGbkeZtMD1BWXhIvRk) | 2:13 |
 | 70 | [Pretty Bird](https://open.spotify.com/track/4SoNUIg58ISjWdvsk7WY9m) | [Lemuria](https://open.spotify.com/artist/6wzxL5b6rHgsbAaKwhwTDi), [Terea](https://open.spotify.com/artist/6NtHkAB0wnU6v3RNs9n55r) | [Hunk Of Heaven/Pretty Bird](https://open.spotify.com/album/6a2AXXlm4TuB2rFqhmS66Q) | 4:04 |
 
 Snapshot ID: `AAAAAO6WcVOvAsMIveIyejLX7fx5esOp`

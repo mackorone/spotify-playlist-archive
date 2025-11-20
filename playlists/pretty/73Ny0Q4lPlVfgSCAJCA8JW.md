@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/73Ny0Q4lPlVfgSCAJCA8JW.md) - [plain]
 
 > 
 
-[hooknoa000](https://open.spotify.com/user/hooknoa000) - 1 like - 17 songs - 51 min 16 sec
+[hooknoa000](https://open.spotify.com/user/hooknoa000) - 1 like - 17 songs - 51 min 21 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/73Ny0Q4lPlVfgSCAJCA8JW.md) - [plain]
 | 11 | [Vote 'Em Out](https://open.spotify.com/track/1YX1kcNiWLk1GVYEDWsaNg) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Vote 'Em Out](https://open.spotify.com/album/6k7HZ97yPzcIXzrmLwhkMb) | 2:20 |
 | 12 | [Redesigning Women](https://open.spotify.com/track/2XhiUG5cGOkiFsdPLMKV4z) | [The Highwomen](https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [Redesigning Women](https://open.spotify.com/album/6jmzqSFT9ulrf8xSicynDp) | 2:54 |
 | 13 | [Dust Bowl Dance](https://open.spotify.com/track/2QIt8RWdk5ZJneKTt4sZnK) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/6w5W6ZGTvDsppKUOiGMuMo) | 4:43 |
-| 14 | [There Is a War](https://open.spotify.com/track/5bPDYLggBz5xEvJJW5SUy5) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [New Skin For The Old Ceremony](https://open.spotify.com/album/6LXadMatlf17dDrWzJO9eL) | 2:59 |
+| 14 | [There Is a War](https://open.spotify.com/track/5bPDYLggBz5xEvJJW5SUy5) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [New Skin For The Old Ceremony](https://open.spotify.com/album/6LXadMatlf17dDrWzJO9eL) | 3:04 |
 | 15 | [Solidarity Forever](https://open.spotify.com/track/5NShvMH3lRmQPW4qc0hYKY) | [Pete Seeger](https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY) | [If I Had a Hammer: Songs of Hope and Struggle](https://open.spotify.com/album/21k0wecYa9yprQ937HR62H) | 2:54 |
 | 16 | [The Beehive State](https://open.spotify.com/track/11jbwaXDDNk0zRWfQkqv3b) | [Harry Nilsson](https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX) | [Nilsson Sings Newman](https://open.spotify.com/album/3iIaJ5KOzksixKpJwdpQnz) | 2:08 |
 | 17 | [Rich People](https://open.spotify.com/track/5hK5lhsnwzrVrBZpDgD1wM) | [Carsie Blanton](https://open.spotify.com/artist/1NkiZTHV6voDpcA7eEQQMb) | [Rich People](https://open.spotify.com/album/3cBqmSdjrdk4DoFcLt6PMX) | 2:38 |

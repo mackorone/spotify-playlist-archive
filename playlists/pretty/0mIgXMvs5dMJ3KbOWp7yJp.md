@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0mIgXMvs5dMJ3KbOWp7yJp.md) - [plain]
 
 > the best in rock indie folk pop alternative
 
-[Tactical Tunes](https://open.spotify.com/user/31zsinf2gmzxaz2hlu5jmeh5bzxe) - 1,214 likes - 421 songs - 1 day 1 hr 54 min
+[Tactical Tunes](https://open.spotify.com/user/31zsinf2gmzxaz2hlu5jmeh5bzxe) - 1,213 likes - 421 songs - 1 day 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -347,7 +347,7 @@ pretty - [cumulative](/playlists/cumulative/0mIgXMvs5dMJ3KbOWp7yJp.md) - [plain]
 | 337 | [I Write Sins Not Tragedies](https://open.spotify.com/track/1Ja82DruPiT6QFahbzzskz) | [Arsenic Kitchen](https://open.spotify.com/artist/5eQGqzkt479Fgnn4IJMJu1) | [I Write Sins Not Tragedies](https://open.spotify.com/album/42q7FXym1iCyLGJDavnhmO) | 3:45 |
 | 338 | [Wonderful Day](https://open.spotify.com/track/1rLUelKtWlzNXaLgxLjdo4) | [A J Green UK](https://open.spotify.com/artist/0ZXLZz84ItG70ThGRNJpcm) | [Wonderful Day](https://open.spotify.com/album/2rKkxljoc9ZNUtZ14B2F5y) | 3:16 |
 | 339 | [The Pink Burger Bar \(Part 1\)](https://open.spotify.com/track/2tMg2dW8XBzHeJvbaktc5O) | [Douglas & The World](https://open.spotify.com/artist/2tNqnVreooduKUtEidhIFV) | [The Pink Burger Bar \(Part 1\)](https://open.spotify.com/album/02Coqxbof0msfnMICVRe8M) | 3:23 |
-| 340 | [Dancing in the Psychedelic Monkey Museum](https://open.spotify.com/track/6w9isyqTFlZrzToRpTLM5n) | [Trenic](https://open.spotify.com/artist/0iOR2POwyH4jIhIYw4fIMv) | [Dancing in the Psychedelic Monkey Museum](https://open.spotify.com/album/4JATbFhiUh5RavFYQjEtym) | 6:54 |
+| 340 | [Dancing in the Psychedelic Monkey Museum](https://open.spotify.com/track/6w9isyqTFlZrzToRpTLM5n) | [Trenic](https://open.spotify.com/artist/0iOR2POwyH4jIhIYw4fIMv) | [Dancing in the Psychedelic Monkey Museum](https://open.spotify.com/album/4JATbFhiUh5RavFYQjEtym) | 6:56 |
 | 341 | [Los Charcos](https://open.spotify.com/track/5TvW5TIWhX4hhQwGT7iPl3) | [Bixonte Dort](https://open.spotify.com/artist/1YRtQCLWJQZdR3Esq6zlv4) | [Los Charcos](https://open.spotify.com/album/6e0H0BaHWHRsllNC8MFW8e) | 3:17 |
 | 342 | [7 M 7](https://open.spotify.com/track/4vCG7nI3o8GaqG8JgGJADs) | [Cromo](https://open.spotify.com/artist/0Bxu4pu1OwbJQAMUOPe4fZ) | [Atomic Mass 51.996](https://open.spotify.com/album/4d39mxsDZnsMOJSRfyoPBx) | 4:33 |
 | 343 | [Autumn Leaves](https://open.spotify.com/track/1o5VPTSYEa2Rvaz3yENyJX) | [Gilgulim](https://open.spotify.com/artist/3qknrzxuZcqDS2TZksVWLj) | [Catena Aurea](https://open.spotify.com/album/56e8OMpTfiEI8L3MMrrdrS) | 3:36 |

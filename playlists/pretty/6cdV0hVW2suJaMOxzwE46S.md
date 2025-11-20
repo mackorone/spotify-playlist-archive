@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6cdV0hVW2suJaMOxzwE46S.md) - [plain]
 
 > We've all been there\. This playlist can help\. Just don't let your boss catch you listening....
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,950 likes - 38 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,952 likes - 38 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/6cdV0hVW2suJaMOxzwE46S.md) - [plain]
 | 22 | [Summertime Blues](https://open.spotify.com/track/44XGMLszaOWD7k4LsJMcWa) | [Eddie Cochran](https://open.spotify.com/artist/1p0t3JtUTayV2wb1RGN9mO) | [The Best Of Eddie Cochran](https://open.spotify.com/album/1MOHwO7WJIg61Ksp4FfYz5) | 2:01 |
 | 23 | [Bang on the Drum](https://open.spotify.com/track/4LunHkD5G4mCcfmSYe9Fdm) | [Todd Rundgren](https://open.spotify.com/artist/0Lpr5wXzWLtDWm1SjNbpPb), [Tony Levin](https://open.spotify.com/artist/4UjlFZPd9pYcyGhwdcrXvH) | [Bang On The Drum](https://open.spotify.com/album/3Ro0Q1BNJwYxwkQTkhKffd) | 3:34 |
 | 24 | [Maggie's Farm](https://open.spotify.com/track/5rGD8FFgHw74cp3RPhucyg) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Bringing It All Back Home](https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v) | 3:54 |
-| 25 | [Factory](https://open.spotify.com/track/7M8fNsiycGeQWtAu8NxgvW) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Darkness On the Edge of Town](https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc) | 2:18 |
+| 25 | [Factory](https://open.spotify.com/track/7M8fNsiycGeQWtAu8NxgvW) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Darkness On the Edge of Town](https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc) | 2:19 |
 | 26 | [Chain Gang](https://open.spotify.com/track/1sK10Me7qS9em2QTx6dYRe) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Man Who Invented Soul](https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY) | 2:40 |
 | 27 | [Take This Job and Shove It](https://open.spotify.com/track/6yT7kcpsXNW7QS9xunPaox) | [Johnny Paycheck](https://open.spotify.com/artist/0DchahWJGQqrqr8PMM5zQD) | [Johnny Paycheck \- 16 Biggest Hits](https://open.spotify.com/album/7EcDMC33XvuCEWwLTwc8N5) | 2:36 |
 | 28 | [Big Boss Man](https://open.spotify.com/track/4qrrz2Pd8hMpPyIKSscyNs) | [Jimmy Reed](https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV) | [The Very Best of Jimmy Reed](https://open.spotify.com/album/2PMRy0eJABQCG5glccW4pk) | 2:46 |

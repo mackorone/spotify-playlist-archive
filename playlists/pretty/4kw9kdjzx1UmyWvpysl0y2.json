@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124773,
+  "num_followers": 124777,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAU04gbxSLbcfQHMwHGZCIbD7cFSB+j",
+  "snapshot_id": "AAAU1GANV5j94FGia1MPBO0ud09oRBzD",
   "tracks": [
+    {
+      "added_at": "2025-11-19 15:20:35",
+      "album": {
+        "name": "Devotion",
+        "url": "https://open.spotify.com/album/71sH8ZDzymxmy8N0xHbfRL"
+      },
+      "artists": [
+        {
+          "name": "[IVY]",
+          "url": "https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw"
+        },
+        {
+          "name": "Adalaide Adams",
+          "url": "https://open.spotify.com/artist/2DPd9FRFSPPDdESOqZvWoC"
+        }
+      ],
+      "duration_ms": 193793,
+      "name": "Devotion",
+      "url": "https://open.spotify.com/track/3pZiQdpk32YuxLSU3RTzD2"
+    },
     {
       "added_at": "2025-11-18 18:22:23",
       "album": {

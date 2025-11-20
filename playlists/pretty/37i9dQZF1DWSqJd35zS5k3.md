@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqJd35zS5k3.md) - [plain]
 
 > Disfruta de la Navidad con los villancicos de siempre.
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,988 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,022 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [El Burrito Sabanero](https://open.spotify.com/track/0jxgoC4Cph9ftWZfr6RKWC) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Parranda All\-Stars: Navidad](https://open.spotify.com/album/20qL5xJyoIfwnzyZGVY5BI) | 3:46 |
+| 1 | [El Burrito Sabanero](https://open.spotify.com/track/0jxgoC4Cph9ftWZfr6RKWC) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Parranda All\-Stars: Navidad](https://open.spotify.com/album/20qL5xJyoIfwnzyZGVY5BI) | 3:45 |
 | 2 | [Ya Es Navidad Popurrí: Ya Es Navidad / Zúmbale a la Pandereta / Ya Vienen los Reyes Magos / Arre Borriquito / Ya Es Navidad](https://open.spotify.com/track/5Z6PrTzUHsuVfzbz8Fwre8) | [Raya Real](https://open.spotify.com/artist/6B0tiYh9aXjEkmNp6LhGjk) | [2 Horas de Villancicos Flamencos](https://open.spotify.com/album/3inlz2qylbPMh32teyf40h) | 4:20 |
 | 3 | [Feliz Navidad](https://open.spotify.com/track/0UORDNH9ZneYlamDQB7guH) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Christmas Hits](https://open.spotify.com/album/6Mtye5lhYh1JtHenUkIsH6) | 3:02 |
 | 4 | [Navidad, Navidad](https://open.spotify.com/track/683fOEDnFrDuFM9oMpuEhK) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Navidades Luis Miguel](https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i) | 2:34 |

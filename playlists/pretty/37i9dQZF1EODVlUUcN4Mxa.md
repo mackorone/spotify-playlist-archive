@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EODVlUUcN4Mxa.md) - [plain]
 | 15 | [Sine From Above \(with Elton John\)](https://open.spotify.com/track/0zzsyWc45eUcSjw4FNHxeN) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Chromatica](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) | 4:04 |
 | 16 | [Lady Gaga](https://open.spotify.com/episode/7DCT42yibqEgUMTn3ZqHOu) | [Bandwagons](https://open.spotify.com/show/1iRkm9c2ckj7LB5oeoJI9i) | [Bandwagons](https://open.spotify.com/album/1iRkm9c2ckj7LB5oeoJI9i) | 52:50 |
 | 17 | [I Don't Want to Miss a Thing \- From "Armageddon" Soundtrack](https://open.spotify.com/track/6lEuFGrUqR9Yc6hSsHPnYP) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [I Don't Want To Miss A Thing EP](https://open.spotify.com/album/4GYrE0hDKjM0v6EQIjkBV3) | 4:59 |
-| 18 | [Blue Hawaii](https://open.spotify.com/track/06zMm73RxNxnGxtwZWFP6K) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Blue Hawaii](https://open.spotify.com/album/7xe8VI48TxUpU1IIo0RfGi) | 2:36 |
+| 18 | [Blue Hawaii](https://open.spotify.com/track/06zMm73RxNxnGxtwZWFP6K) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Blue Hawaii](https://open.spotify.com/album/7xe8VI48TxUpU1IIo0RfGi) | 2:37 |
 | 19 | [Dead Rock Stars 23: Elvis Presley](https://open.spotify.com/episode/7lC5X98eRVLwvon6X4VBSe) | [Dead Rock Stars](https://open.spotify.com/show/1mY3RxMurcLto0rqscD18V) | [Dead Rock Stars](https://open.spotify.com/album/1mY3RxMurcLto0rqscD18V) | 53:42 |
 
 Snapshot ID: `AZiNhQAAAADo8QV00d8VlQPV8oXO5Rs6`

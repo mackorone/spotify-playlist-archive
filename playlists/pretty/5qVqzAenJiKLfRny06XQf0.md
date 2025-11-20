@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5qVqzAenJiKLfRny06XQf0.md) - [plain]
 
 > Help the band set\-up and get ready for the best live performances from your favorite artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,020 likes - 100 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,019 likes - 100 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/5qVqzAenJiKLfRny06XQf0.md) - [plain]
 | 37 | [Waiting On the World to Change \- Live at the Nokia Theatre, Los Angeles, CA \- December 2007](https://open.spotify.com/track/75LltETkbWa2OKmJ1AEoM3) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Where the Light Is: John Mayer Live In Los Angeles](https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb) | 3:50 |
 | 38 | [Gravity \- Live at the Nokia Theatre, Los Angeles, CA \- December 2007](https://open.spotify.com/track/68KdvPllp9Pug8ZG6AByFY) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Where the Light Is: John Mayer Live In Los Angeles](https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb) | 9:41 |
 | 39 | [Chasing Pavements \- Live At The Hotel Cafe](https://open.spotify.com/track/1V8pHaJd5NdZVvWg6uM55l) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/6Pb3K1oPXdhsqFXtzKe3Z1) | 3:46 |
-| 40 | [You And Tequila \(With Grace Potter\) \(Live At Red Rocks Amphitheatre\) \(feat\. Grace Potter\)](https://open.spotify.com/track/1FnItzXv96rXVILRuDfedz) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O), [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Welcome To The Fishbowl](https://open.spotify.com/album/4u1IZuRRLb6tkP14kvAkGw) | 4:49 |
+| 40 | [You And Tequila \(With Grace Potter\) \(Live At Red Rocks Amphitheatre\) \(feat\. Grace Potter\)](https://open.spotify.com/track/1FnItzXv96rXVILRuDfedz) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O), [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Welcome To The Fishbowl](https://open.spotify.com/album/4u1IZuRRLb6tkP14kvAkGw) | 4:46 |
 | 41 | [The Writer \- Live At The Cherrytree House](https://open.spotify.com/track/0jjNCnyQPy2vRwhIf2jaL8) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [The Cherrytree House Sessions, Volume 1](https://open.spotify.com/album/2WPX7bCJwp3hR8HmJndCaK) | 4:20 |
 | 42 | [Rocketeer \- Live At The Cherrytree House](https://open.spotify.com/track/0yrELokXQCUyqY56bh7LT0) | [Far East Movement](https://open.spotify.com/artist/698hF4vcwHwPy8ltmXermq), [Frankmusik](https://open.spotify.com/artist/1Eqmku5RGosz51zTCZFgDi) | [The Cherrytree House Sessions, Volume 1](https://open.spotify.com/album/2WPX7bCJwp3hR8HmJndCaK) | 3:42 |
 | 43 | [The Snow It Melts The Soonest \- Live At The Cherrytree House](https://open.spotify.com/track/47wZJm0GQBl6F6ivrLLSpd) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [The Cherrytree House Sessions, Volume 1](https://open.spotify.com/album/2WPX7bCJwp3hR8HmJndCaK) | 2:20 |

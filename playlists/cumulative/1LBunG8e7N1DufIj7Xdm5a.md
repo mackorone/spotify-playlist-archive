@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-3,580 songs - 7 day 21 hr 17 min
+3,583 songs - 7 day 21 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -292,6 +292,7 @@
 | [Best Music Ever Edited](https://open.spotify.com/track/4xixLfWDornzt1eKfcIKCi) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Best Music](https://open.spotify.com/album/7MTHw4nXXx8QfsaKXJZSVp) | 2:34 | 2025-09-19 |  |
 | [Best Music Ever Edited \(another\)](https://open.spotify.com/track/2bp0gnwoqEQwUKGu958DjQ) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Best Music](https://open.spotify.com/album/7MTHw4nXXx8QfsaKXJZSVp) | 2:44 | 2025-09-19 |  |
 | [Bet](https://open.spotify.com/track/5o6HbzXzzVgZFGD3CP9jaX) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Le 20 Parole in Slang Più Virali del 2025 \(Se Non Le Usi, Sei Fuori!\)](https://open.spotify.com/album/69RjNyMSGbTMcHDf8psNgs) | 2:04 | 2025-09-17 |  |
+| [Better Man](https://open.spotify.com/track/1VV4L1gBfvLWJKc0aw5s2t) | [Big Honey](https://open.spotify.com/artist/0lOuO0LNPQEvNLfMzfkCd5) | [Better Man](https://open.spotify.com/album/5LRVJjqaojPvub3GNmHZRU) | 3:26 | 2025-11-19 |  |
 | [Bicchiere](https://open.spotify.com/track/1G15A1YSQlvEGbX2zd7JMn) | [Danny Fiorilla](https://open.spotify.com/artist/2tgqhZ1DaammObirYQIrju) | [Danny](https://open.spotify.com/album/2gVEYdhHqbfFHNw0eRvqNt) | 3:15 | 2025-05-27 |  |
 | [Big Wave](https://open.spotify.com/track/0dvHTpLImpPA0GrSDdtgnk) | [Ash](https://open.spotify.com/artist/1oNJRkVDb7UEvRpPp4rNff) | [Big Wave](https://open.spotify.com/album/74xramtc392GWxiey2NQ3A) | 1:48 | 2025-07-19 |  |
 | [BIGGAVEL](https://open.spotify.com/track/4fZBMzTZjq7Z9f5y7bAGTi) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [GEMINI!](https://open.spotify.com/album/1oocvwkq7m9gmJma0SceUi) | 2:49 | 2025-07-28 |  |
@@ -1419,6 +1420,7 @@
 | [Heartsick](https://open.spotify.com/track/76VK3MYmRGRvka2LYLVhHM) | [Deadarchives](https://open.spotify.com/artist/74kszt2wmigyELkurcdEdi) | [Heartsick](https://open.spotify.com/album/0aRmKh5U45fxdSzkRwrjYS) | 1:03 | 2025-10-19 |  |
 | [Heartstrings and Daydreams](https://open.spotify.com/track/6i3kJDElEcaLNVGV5POXIL) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Romantic love songs](https://open.spotify.com/album/5on51MywfGkrEDPOQajABL) | 3:39 | 2025-09-17 |  |
 | [Heartstrings and Daydreams \(another\)](https://open.spotify.com/track/4SFl4mYMh5m5ksoxGTGr58) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Romantic love songs](https://open.spotify.com/album/5on51MywfGkrEDPOQajABL) | 4:02 | 2025-09-17 |  |
+| [Heat](https://open.spotify.com/track/7dYWFTuXUlS1TmVEhi7V8P) | [Charley Hill](https://open.spotify.com/artist/3Gu0cDU1W9fwdSgYquz2rq) | [Heat](https://open.spotify.com/album/4Ep4BXiKy474EpFXRseEZj) | 3:11 | 2025-11-19 |  |
 | [Heatbeat groove](https://open.spotify.com/track/6ioYxOuwOOGdF27XRTziy9) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Pink lights](https://open.spotify.com/album/6Kis8f5yfMdTfT5d8hzjGM) | 3:14 | 2025-09-17 |  |
 | [Heats \(another\)](https://open.spotify.com/track/5XyeJl5QRuTVX41CA1zvsk) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Pink lights](https://open.spotify.com/album/6Kis8f5yfMdTfT5d8hzjGM) | 3:54 | 2025-09-17 |  |
 | [Heaven's Light](https://open.spotify.com/track/7BEbyplNj2o6EGWDLZuiDr) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Soulful Music](https://open.spotify.com/album/74KvoKbHt97ryXl7sunKaH) | 2:46 | 2025-09-19 |  |
@@ -3192,6 +3194,7 @@
 | [Trash City Kids](https://open.spotify.com/track/0HM5TjxYl29q9v00LdYfK8) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Old school punk](https://open.spotify.com/album/7HRvEw1JJpUpB1CmseoZZQ) | 1:42 | 2025-09-19 |  |
 | [Trash Glam Revolution](https://open.spotify.com/track/0RoGPNZpQ4ZHJUi343OS80) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Hard rock trash/heavy metal with pop taste](https://open.spotify.com/album/6LigdV5RX2AosQ7xMbbn11) | 3:26 | 2025-09-19 |  |
 | [Trattore elettrico](https://open.spotify.com/track/3AEtSu6wMNAKdZQqUHSt2a) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [Trattore elettrico](https://open.spotify.com/album/7p4Fj7Njf82gwksg50LVKq) | 3:39 | 2025-05-09 |  |
+| [Travel the World](https://open.spotify.com/track/4PQjxJLtnBCVup1Vx7ShSm) | [Appic Adventure](https://open.spotify.com/artist/5oS87CDwVw0XCcC026eLOH) | [Travel the World](https://open.spotify.com/album/4EVTpLg2zr6VSe3tN6fBpO) | 2:00 | 2025-11-19 |  |
 | [Trend is My Friend](https://open.spotify.com/track/2gCcT5H4i71Q81g8UT6qQY) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Global Pop](https://open.spotify.com/album/41FF16R60bSZndmCsaB0jA) | 2:34 | 2025-09-18 |  |
 | [Trend is My Friend \(another\)](https://open.spotify.com/track/4iQzFgMEw3fKW0vdjNnU4d) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Global Pop](https://open.spotify.com/album/41FF16R60bSZndmCsaB0jA) | 2:24 | 2025-09-18 |  |
 | [Trending fever](https://open.spotify.com/track/7q62YqFc3qIF9tzziXCuIn) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Social network compilation](https://open.spotify.com/album/6PLoJqof88o7kLeL1ycWZg) | 2:38 | 2025-09-17 |  |

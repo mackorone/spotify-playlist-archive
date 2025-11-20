@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [As Long As You Love Me](https://open.spotify.com/track/0pwYLVXVknPSGUQb39cePC) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Believe \(Deluxe Edition\)](https://open.spotify.com/album/70f70xLCpH7wHaVvB2oZT9) | 3:49 | 2013-06-27 |  |
-| [Blow Me \(One Last Kiss\)](https://open.spotify.com/track/6LS6pltO7YBgjwNVhxMwtp) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [The Truth About Love](https://open.spotify.com/album/2rBb9rAEuMC8VH9uk7js3e) | 4:15 | 2013-06-27 |  |
+| [Blow Me](https://open.spotify.com/track/6LS6pltO7YBgjwNVhxMwtp) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [The Truth About Love](https://open.spotify.com/album/2rBb9rAEuMC8VH9uk7js3e) | 4:15 | 2013-06-27 |  |
 | [Boyfriend](https://open.spotify.com/track/0V1bCU82tmXL8Z11JoRvyg) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Boyfriend](https://open.spotify.com/album/213vwR9KSvvZuWqOqmFosJ) | 2:52 | 2013-06-27 |  |
 | [Call Me Maybe](https://open.spotify.com/track/6ol4ZSifr7r3Lb2a9L5ZAB) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Call Me Maybe](https://open.spotify.com/album/3eHEUyFhVdkoXEJzXC0EKT) | 3:13 | 2013-06-27 |  |
 | [Domino](https://open.spotify.com/track/6MAdEUilV2p9RQUqE5bMAK) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Who You Are \(Platinum Edition\)](https://open.spotify.com/album/3ga4adzUpLaS2LDcoqfs2r) | 3:51 | 2013-06-27 |  |

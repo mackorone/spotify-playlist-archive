@@ -1,6 +1,6 @@
 {
   "description": "Meticulously selected by Spotify music experts.\n",
-  "num_followers": 78464,
+  "num_followers": 78502,
   "original_name": "Editors' Picks: Best Songs of the Year So Far",
   "owner": {
     "name": "Spotify",
@@ -771,6 +771,22 @@
     {
       "added_at": "2025-06-30 01:25:23",
       "album": {
+        "name": "Yay! Saturday",
+        "url": "https://open.spotify.com/album/02OCZT8wTCERuqUzkhQfXn"
+      },
+      "artists": [
+        {
+          "name": "Girl Group",
+          "url": "https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4"
+        }
+      ],
+      "duration_ms": 195363,
+      "name": "Yay! Saturday",
+      "url": "https://open.spotify.com/track/3N5FdYa9x0qqLrWaBkCeBE"
+    },
+    {
+      "added_at": "2025-06-30 01:25:23",
+      "album": {
         "name": "pens\u00e9 en ti (feat. Caloncho)",
         "url": "https://open.spotify.com/album/3yRouY1truteu49zGTeAYk"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 236130,
       "name": "pens\u00e9 en ti (feat. Caloncho)",
       "url": "https://open.spotify.com/track/3h4XAYoCsPyjZr3kILJhj1"
-    },
-    {
-      "added_at": "2025-06-30 01:25:23",
-      "album": {
-        "name": "Yay! Saturday",
-        "url": "https://open.spotify.com/album/02OCZT8wTCERuqUzkhQfXn"
-      },
-      "artists": [
-        {
-          "name": "Girl Group",
-          "url": "https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4"
-        }
-      ],
-      "duration_ms": 195363,
-      "name": "Yay! Saturday",
-      "url": "https://open.spotify.com/track/3N5FdYa9x0qqLrWaBkCeBE"
     },
     {
       "added_at": "2025-06-30 01:25:23",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2Hg4Q2t6mD8PITWKAQCMFD.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,811 likes - 25 songs - 1 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,810 likes - 25 songs - 1 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/2Hg4Q2t6mD8PITWKAQCMFD.md) - [plain]
 | 8 | [Hall of Fame \(feat\. will.i.am\)](https://open.spotify.com/track/1X1DWw2pcNZ8zSub3uhlNz) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V), [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA) | [\#3](https://open.spotify.com/album/63eaHsLLsW1e5ISNf7ISZy) | 3:22 |
 | 9 | [I Wanna Get Better](https://open.spotify.com/track/1RwwmiVtLAtPmxAqKVfwgG) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [I Wanna Get Better](https://open.spotify.com/album/4JaTMQFdRy5TfEKs8M9Doq) | 3:24 |
 | 10 | [Nightcall](https://open.spotify.com/track/2GIfOOa8hAywfzZptFz3xK) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV) | [Nightcall](https://open.spotify.com/album/55U1DpuCIiwOJHwYLU1Qe4) | 4:18 |
-| 11 | [Brand New](https://open.spotify.com/track/1P5OPN8MbPgFznEp1b7OiN) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [G I R L](https://open.spotify.com/album/2lkQd5T32QHDOfFkEIPJKz) | 4:31 |
+| 11 | [Brand New \(with Justin Timberlake\)](https://open.spotify.com/track/1P5OPN8MbPgFznEp1b7OiN) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [G I R L](https://open.spotify.com/album/2lkQd5T32QHDOfFkEIPJKz) | 4:31 |
 | 12 | [Sweet Disposition](https://open.spotify.com/track/5nWbbQ0sIEabqPxAdqmh66) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [\(500\) Days of Summer \(Music from the Motion Picture\)](https://open.spotify.com/album/2n5AOB0lGse7qp38HvVROB) | 3:54 |
 | 13 | [Honestly](https://open.spotify.com/track/5YhAAlelWek228jZzxgEfr) | [Hot Chelle Rae](https://open.spotify.com/artist/6jTnHxhb6cDCaCu4rdvsQ0) | [Whatever](https://open.spotify.com/album/0UkgnXc0w7qiRE2X086BdN) | 3:21 |
 | 14 | [Bloodflows](https://open.spotify.com/track/75mE9LzZzQoDwjS4OuuzmW) | [SOHN](https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg) | [Bloodflows](https://open.spotify.com/album/3ycnh8BMGrewYSSxQmM9Hc) | 4:21 |

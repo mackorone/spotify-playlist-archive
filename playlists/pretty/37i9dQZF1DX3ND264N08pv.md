@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,070 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,095 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 41 | [Another Club Banger](https://open.spotify.com/track/1Kw5RisasBWQ2s1E8Yx9GG) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS) | [Another Club Banger EP](https://open.spotify.com/album/7mpD7MeNm8WEHb8KzCYmtd) | 4:21 |
 | 42 | [Rip City](https://open.spotify.com/track/7rggyxZ37OUE7DNwRwnrXU) | [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [Rip City](https://open.spotify.com/album/7lH9jaY4KTBHnQBWEd5UDh) | 2:41 |
 | 43 | [Voice Of The Underground](https://open.spotify.com/track/0qDh203qtw06cri10ahfjj) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv) | [Voice Of The Underground](https://open.spotify.com/album/34vRJtRpAWX0RWw5y9rWL2) | 2:55 |
-| 44 | [Flatline](https://open.spotify.com/track/0Wwn53gqhMwRwhvqvGH5bq) | [Act of Rage](https://open.spotify.com/artist/5eHs2hHfUzGizdnrLjc3CW), [Spitnoise](https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl), [Nolz](https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA) | [Flatline](https://open.spotify.com/album/30iH2oEdaF4GpcESpvF7JB) | 3:16 |
-| 45 | [Ratata](https://open.spotify.com/track/46SkUOFgA5eM4uW3tHrt81) | [WINSON](https://open.spotify.com/artist/2z9op9COiMU6QquVfY8HTN), [Kyle Ramsay](https://open.spotify.com/artist/6Qs0fzALzKhnhfcy1imppW) | [Ratata](https://open.spotify.com/album/3I3GpEWOKHlSdYpSgAZizM) | 5:34 |
+| 44 | [Ratata](https://open.spotify.com/track/46SkUOFgA5eM4uW3tHrt81) | [WINSON](https://open.spotify.com/artist/2z9op9COiMU6QquVfY8HTN), [Kyle Ramsay](https://open.spotify.com/artist/6Qs0fzALzKhnhfcy1imppW) | [Ratata](https://open.spotify.com/album/3I3GpEWOKHlSdYpSgAZizM) | 5:34 |
+| 45 | [Flatline](https://open.spotify.com/track/0Wwn53gqhMwRwhvqvGH5bq) | [Act of Rage](https://open.spotify.com/artist/5eHs2hHfUzGizdnrLjc3CW), [Spitnoise](https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl), [Nolz](https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA) | [Flatline](https://open.spotify.com/album/30iH2oEdaF4GpcESpvF7JB) | 3:16 |
 | 46 | [Lose My Mind](https://open.spotify.com/track/2qRmPYK0ZJRz8FFogvmYto) | [Spiady](https://open.spotify.com/artist/49mf75hTY4Bjka8yxByfMs), [Darkside Retox](https://open.spotify.com/artist/05Z1ooTZW9u6ezHPHeAqhp) | [Lose My Mind](https://open.spotify.com/album/4UF6qSC18AqriGnQ8b7MDj) | 3:14 |
 | 47 | [Run 4 Your Life](https://open.spotify.com/track/3whJILCwMY1kfqs4jTTJeY) | [Remzcore](https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp) | [Run 4 Your Life](https://open.spotify.com/album/4r7nj19kZAO5GaiXXFNtew) | 2:44 |
 | 48 | [Bad To The Bone!!](https://open.spotify.com/track/5pptbJFvpxSlIjMjy9aqsf) | [Partyraiser](https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73), [EZG](https://open.spotify.com/artist/19a4917FBnuYz90ezDrKv4) | [Bad To The Bone!!](https://open.spotify.com/album/0PJo9SFqLIgvwQ8dYMCloy) | 2:41 |
-| 49 | [In Synergy](https://open.spotify.com/track/7oLDdopowUEGNb037AjEAN) | [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx) | [In Synergy](https://open.spotify.com/album/0Wo2VDVsMxrzIxN6oVHN6T) | 2:46 |
-| 50 | [IGNITED](https://open.spotify.com/track/1t0ocUZ9WdvP1145j7h0HM) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv), [Nolz](https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA) | [IGNITED](https://open.spotify.com/album/7e95lVONxm71pHFikMCfRa) | 3:53 |
+| 49 | [IGNITED](https://open.spotify.com/track/1t0ocUZ9WdvP1145j7h0HM) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv), [Nolz](https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA) | [IGNITED](https://open.spotify.com/album/7e95lVONxm71pHFikMCfRa) | 3:53 |
+| 50 | [In Synergy](https://open.spotify.com/track/7oLDdopowUEGNb037AjEAN) | [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx) | [In Synergy](https://open.spotify.com/album/0Wo2VDVsMxrzIxN6oVHN6T) | 2:46 |
 
 Snapshot ID: `AAAAAE1SjS3h801X9fV/gW1MdR0dclLW`

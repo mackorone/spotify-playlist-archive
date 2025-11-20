@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWViKwLyOBsJF.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWViKwLyOBsJF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWViKwLyOBsJF)
 
-### [Instrumental Christmas Hymns](https://open.spotify.com/playlist/37i9dQZF1DWViKwLyOBsJF)
+### [Instrumental Christmas](https://open.spotify.com/playlist/37i9dQZF1DWViKwLyOBsJF)
 
-> Traditional carols and hymns for a classic Christmas feeling.
+> Traditional Christmas songs for a classic festive feeling.
 
-121 songs - 5 hr 20 min
+125 songs - 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/05UtcH83NXiz2K3t5cND2O) | [Light His Way](https://open.spotify.com/artist/2fRpXEF0tpwUBty1zyXDP7) | [God Rest Ye Merry Gentlemen](https://open.spotify.com/album/6GoG3M7Y8IgY99tCVJUSlt) | 3:20 | 2025-11-03 |  |
 | [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/3K2FgVaJdVXREA2Jqtklz4) | [Michael Logozar](https://open.spotify.com/artist/3CdSdPQ1G7MjoUWr3Hm2P2) | [God Rest Ye Merry Gentlemen](https://open.spotify.com/album/5ZewnnB7qrA7r5eK4zQxMB) | 2:51 | 2023-09-27 | 2025-09-17 |
 | [God Rest Ye Merry, Gentlemen](https://open.spotify.com/track/6J2rVX96BYBIjlVIdiLxYU) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [God Rest Ye Merry, Gentlemen](https://open.spotify.com/album/4q2Ky4sEzeLV3wLzYA8vNW) | 2:25 | 2024-10-22 | 2025-11-04 |
+| [Good Christian Men Rejoice](https://open.spotify.com/track/5bF8hMRiuqF4dfnBT9gSbk) | [Light His Way](https://open.spotify.com/artist/2fRpXEF0tpwUBty1zyXDP7) | [Good Christian Men Rejoice](https://open.spotify.com/album/4VtHY3mP1QC9oEc2QMQQac) | 4:14 | 2025-11-19 |  |
 | [Good Christian Men, Rejoice](https://open.spotify.com/track/225AhLsT6I6LWNB3ANefPf) | [Christmas Music Holiday Trio](https://open.spotify.com/artist/4XWZxmAaLdsJlJvUjlowZF) | [Relaxing Christmas Music, Vol\. 1](https://open.spotify.com/album/3TsPUuASpxKagXwi12SSmx) | 1:58 | 2021-11-19 | 2023-09-28 |
 | [Good King Wenceslas](https://open.spotify.com/track/25vdlTYdZPJssQbXU8qUsg) | [Chris Beard](https://open.spotify.com/artist/7hTEeJAMokCNuBxW8GtFKp) | [We Three Kings](https://open.spotify.com/album/5Ppd2aIzY3YD2ug3FMI7sg) | 2:02 | 2021-11-19 | 2025-09-03 |
 | [Hark The Herald Angels Sing](https://open.spotify.com/track/6vD4DVOnhf5N2NKkozKQlR) | [Les Moray](https://open.spotify.com/artist/3oJtOPrahfYye5Ffs05pYR) | [Hark The Herald Angels Sing](https://open.spotify.com/album/4Dnkr99I1KiZluOWg9z5Ai) | 2:35 | 2023-10-11 |  |
@@ -72,11 +73,13 @@
 | [Il Est Ne, Le Divin Enfant \(He Is Born\)](https://open.spotify.com/track/7Abl4nhpTicAlcbHmUGVv3) | [Brad Jacobsen](https://open.spotify.com/artist/2qAOVsSeDczqT4oSWJ2q2s) | [Winter \- Solo Piano Christmas](https://open.spotify.com/album/5rKmeg1OjlUA5IwbtdRiLL) | 4:48 | 2021-11-19 |  |
 | [In the Bleak Midwinter \(Piano Version\)](https://open.spotify.com/track/5OKJh9efE7zbKQeSML51Xk) | [Jonny Southard](https://open.spotify.com/artist/6BeZ093zzZgeGLSV9TG5Ez) | [In the Bleak Midwinter \(Piano Version\)](https://open.spotify.com/album/4zqHiaCQamGSDLkzKS8UxF) | 4:03 | 2021-11-19 |  |
 | [It Came Upon A Midnight Clear \- Piano](https://open.spotify.com/track/7uVk518SvNt275Bhx02z06) | [Adam Zampino](https://open.spotify.com/artist/4eLX2lDIcpLrgNzB2eHyBm) | [Christmas Piano \- Solo Piano and Strings](https://open.spotify.com/album/1bccNTWdBkSJioCH21g0xl) | 2:25 | 2021-11-19 |  |
+| [Jesu, Joy of Man's Desiring](https://open.spotify.com/track/4iSpJOotQU6eWlaB9Qo50F) | [Pauline Poncelet](https://open.spotify.com/artist/73ujyZVgl0cLkBj6CPI8JM) | [Jesu, Joy of Man's Desiring](https://open.spotify.com/album/59KaMF4TGpxaSnWyToTNmb) | 2:29 | 2025-11-19 |  |
 | [Jingle Bells](https://open.spotify.com/track/0zwo1TTLQ1hT1D0FSUVzJb) | [Clouded Transparency](https://open.spotify.com/artist/5vuqXzXIvJedvrLxiekZk7) | [Jingle Bells](https://open.spotify.com/album/6v06rX8IKFfen73wXhIHcD) | 2:32 | 2024-11-06 | 2025-09-03 |
 | [Jingle Bells](https://open.spotify.com/track/3rT0SXP4zzmx2t4EBdgHXP) | [Ludwig Bern](https://open.spotify.com/artist/3CTqF5KWRHPvxA8SMgxHNA) | [Jingle Bells](https://open.spotify.com/album/0OYXUOe9ZsuVsqpx6yQ5G4) | 2:11 | 2024-10-22 | 2025-09-17 |
 | [Jingle Bells](https://open.spotify.com/track/5J0I2BZoTbwDGb0xVHeLxH) | [Matthew L\. Fisher](https://open.spotify.com/artist/2ih4rjK8ZgiEpVu3BJ6sUb) | [Jingle Bells](https://open.spotify.com/album/3hhWNtsieXhLwJNUS9l5nX) | 2:01 | 2024-11-12 |  |
 | [Joy to the world](https://open.spotify.com/track/1Hc4ECj3KKTQVKhI4DeWJC) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Joy to the world](https://open.spotify.com/album/2btLOAxvbdx0LdyX51J3Vq) | 2:49 | 2024-12-16 | 2025-09-17 |
-| [Joy to the World](https://open.spotify.com/track/4K9oXfi4duY1GaQBJ5Rr7g) | [Eyøni](https://open.spotify.com/artist/1WSVb6NfuMCOujQS2yOier) | [Joy to the World](https://open.spotify.com/album/4vGvjUVOgYlQHh5YK0ObWS) | 2:21 | 2024-11-12 |  |
+| [Joy to the World](https://open.spotify.com/track/4K9oXfi4duY1GaQBJ5Rr7g) | [Eyøni](https://open.spotify.com/artist/1WSVb6NfuMCOujQS2yOier) | [Joy to the World](https://open.spotify.com/album/4vGvjUVOgYlQHh5YK0ObWS) | 2:21 | 2024-11-12 | 2025-11-20 |
+| [Joy To The World](https://open.spotify.com/track/1bo2hWSldusQTM7mm1rt2d) | [Santi Bordera](https://open.spotify.com/artist/5yG6YaEEVw1lyClOQ9yOzb) | [Joy To The World](https://open.spotify.com/album/6oR0ftYwivQJgSnRWvHeH0) | 2:25 | 2025-11-19 |  |
 | [Let All Mortal Flesh Keep Silence](https://open.spotify.com/track/7KaqgncCU5AuJyZeA7CGne) | [Alstad](https://open.spotify.com/artist/3WPVCzLStWkPPaGQKJMVkr) | [Let All Mortal Flesh Keep Silence](https://open.spotify.com/album/5NEoedZHX7AuDcrpOZJslv) | 2:44 | 2023-09-27 | 2025-09-03 |
 | [Let All Mortal Flesh Keep Silence](https://open.spotify.com/track/5loBbZKs1cj4HTHaLIaTSn) | [Jill Pitz](https://open.spotify.com/artist/0q4Gc8YuoF6mB9RHIi9FDQ), [Marjorie Hanna](https://open.spotify.com/artist/2QYf4fFPNKLq2miKubXR0n) | [The First Noel](https://open.spotify.com/album/123hrI7QAnWUXiZHVgKHca) | 1:59 | 2021-11-19 | 2023-09-28 |
 | [Little Drummer Boy](https://open.spotify.com/track/5XrtgOxGZoczbEdIjCHNJp) | [Michele McLaughlin](https://open.spotify.com/artist/4FtcVLw0u7qvqrJYLHkHZn) | [Christmas \- Plain & Simple II](https://open.spotify.com/album/5iE7AiFYmKjsdUEAcntqX4) | 4:03 | 2021-11-19 |  |
@@ -115,7 +118,8 @@
 | [The Coventry Carol](https://open.spotify.com/track/1qRLuNPkZL4NcTvhbrn6yI) | [Stian Jarrell](https://open.spotify.com/artist/7xbTF9Vk9lIWrYFwZgeX9v) | [Seven Joys Of Mary](https://open.spotify.com/album/5rkt6ySKd4ozKi1xXOWj3m) | 2:16 | 2021-11-19 | 2025-09-03 |
 | [The First Noel](https://open.spotify.com/track/427BbU2FPM1pfVWET7bCJs) | [Jeroen Granneman](https://open.spotify.com/artist/1R0UpoenE1gqapaTNm9d0f) | [Merry Christmas](https://open.spotify.com/album/7kDNF8TnQSaAtYoNculPbP) | 2:18 | 2024-11-26 | 2025-09-17 |
 | [The First Noel](https://open.spotify.com/track/1hYK7uOlnJ6kvMkdPsFQ5l) | [Rick Gallagher Project](https://open.spotify.com/artist/4muoYBXYYxGuhcZQlO9peY) | [Upright Sketches, Winter Carols](https://open.spotify.com/album/1YHbzjlMq9UIyGWZmaFOc5) | 3:28 | 2021-11-19 | 2023-10-25 |
-| [The First Noel](https://open.spotify.com/track/47bpAl4y8LNNiyZFC26A2M) | [Wolfgang Schulmann](https://open.spotify.com/artist/0AUguA7F9t87WF6krMPXyz) | [The First Noel](https://open.spotify.com/album/0Yo7z3fUoLc6D1q5Xy9QYi) | 2:00 | 2023-10-24 |  |
+| [The First Noel](https://open.spotify.com/track/08tg93375LQTUu883QMXXq) | [Samuel Wright](https://open.spotify.com/artist/10v374WJVYK1n7uMM6FNVm) | [The First Noel](https://open.spotify.com/album/2HHiWzSdQDH58Qn0IQWTDr) | 1:34 | 2025-11-19 |  |
+| [The First Noel](https://open.spotify.com/track/47bpAl4y8LNNiyZFC26A2M) | [Wolfgang Schulmann](https://open.spotify.com/artist/0AUguA7F9t87WF6krMPXyz) | [The First Noel](https://open.spotify.com/album/0Yo7z3fUoLc6D1q5Xy9QYi) | 2:00 | 2023-10-24 | 2025-11-20 |
 | [The Holly & The Ivy](https://open.spotify.com/track/3DfDRcNWGsOmSQ8eRKi46c) | [Jim Brickman](https://open.spotify.com/artist/2NzWRNaaLByHyI3wpuec8P) | [Christmas Dinner](https://open.spotify.com/album/2oEoV2IoVHqm3VT7K5WUQ6) | 4:19 | 2022-11-09 | 2022-11-13 |
 | [The Holly & The Ivy](https://open.spotify.com/track/1xDE4ZqjA6Oi8yxIRn8goX) | [Jim Brickman](https://open.spotify.com/artist/2NzWRNaaLByHyI3wpuec8P) | [Christmas Romance](https://open.spotify.com/album/5iSA8cwqAeL2Ep7RcnT62N) | 4:19 | 2021-11-19 | 2024-04-19 |
 | [The Holly & the Ivy](https://open.spotify.com/track/7EJ27XsIcR0S5V9lQLbP2d) | [Jim Brickman](https://open.spotify.com/artist/2NzWRNaaLByHyI3wpuec8P) | [Christmas Romance \(Deluxe Edition\)](https://open.spotify.com/album/4KCW2gVyGEUjBTOFLRgByk) | 4:19 | 2021-11-19 | 2025-11-04 |

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-1,138 songs - 3 day 10 hr 54 min
+1,139 songs - 3 day 11 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,7 +179,7 @@
 | [Cloudy](https://open.spotify.com/track/47aSZv8FWDnGRtWnFItGzT) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Cloudy](https://open.spotify.com/album/5WvztQo4j7Faf25GIGxSNW) | 6:51 | 2022-07-01 | 2022-11-26 |
 | [Club der Ewigkeiten](https://open.spotify.com/track/2ywFTaCXKedBFlYA0XcHJM) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Knock Knock](https://open.spotify.com/album/0sT4nyNxsvGNQr1O8OR83O) | 4:09 | 2019-06-19\* | 2024-12-21 |
 | [Coda](https://open.spotify.com/track/4N8Iwg073FXfJgSdpe5xU4) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Coda](https://open.spotify.com/album/1A89ympAPtjdBevW6RbCim) | 3:36 | 2023-06-09 | 2023-12-07 |
-| [COLD](https://open.spotify.com/track/5nNgbJyYK0sBjvIW97FWUu) | [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP) | [COLD](https://open.spotify.com/album/4QhlBt0hppsc1JmWptgMKc) | 3:56 | 2024-04-19 |  |
+| [COLD](https://open.spotify.com/track/5nNgbJyYK0sBjvIW97FWUu) | [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP) | [COLD](https://open.spotify.com/album/4QhlBt0hppsc1JmWptgMKc) | 3:56 | 2024-04-19 | 2025-11-20 |
 | [COMBAT](https://open.spotify.com/track/0kE1xahTX5tGkOeSWqpQWi) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [COMBAT](https://open.spotify.com/album/42jsGc1o1OVyaLqg0eIr0o) | 4:16 | 2024-06-07 | 2025-05-24 |
 | [Come Prima](https://open.spotify.com/track/3ufBy6taAXx6iiXxt2VaZO) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Memorie I](https://open.spotify.com/album/4iKBNTWpEJksdtJr4jO8It) | 7:19 | 2025-04-15 |  |
 | [Common Ground](https://open.spotify.com/track/2QsMIusYv7LSVnFVPbe7Bd) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Flow State](https://open.spotify.com/album/0kWP6DpuAwyqICsF0HMOLb) | 2:52 | 2019-07-25 | 2020-10-21 |
@@ -913,6 +913,7 @@
 | [Star Tripper](https://open.spotify.com/track/62GJnNUrj6V1LPBS5zaKrk) | [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL) | [Star Wars Headspace](https://open.spotify.com/album/6oJnwRad77TohXQ683Rlw6) | 4:37 | 2019-05-26\* | 2020-10-22 |
 | [Starbeam](https://open.spotify.com/track/2i7ynLHCA3ZcBaHWHT522D) | [William Orbit](https://open.spotify.com/artist/2AHGrNDMKFi8rHqQ8kJqfl) | [Starbeam](https://open.spotify.com/album/1ribwcOXBbRU2xXDVWLvkf) | 5:50 | 2021-11-26 | 2022-07-29 |
 | [Starlight](https://open.spotify.com/track/5epMdylltsD0tLc8TCkt9M) | [Embee](https://open.spotify.com/artist/7ga1hewK4zSX6yl16251DF) | [Starlight](https://open.spotify.com/album/1Ff2oSlw18ClcWPl5TsVM1) | 2:50 | 2019-06-19\* |  |
+| [Starlight \- Echospace Unreleased Mix](https://open.spotify.com/track/0EgviF3SRYuARt8IwCMWMo) | [Model 500](https://open.spotify.com/artist/2Djz8cbEv5rtrYrJYdzQ20) | [Starlight](https://open.spotify.com/album/6StG61wOmTvfUmfz0szLpz) | 7:09 | 2025-10-24 |  |
 | [Stay Here](https://open.spotify.com/track/1y5R89Y60XQEaB3d4ZziqD) | [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF), [Gold Panda](https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk) | [Stay Here](https://open.spotify.com/album/1CVqowMvToHt4p2wGRUoqg) | 5:51 | 2024-11-11 | 2025-02-26 |
 | [Still Think](https://open.spotify.com/track/3lBmRItELTgJjFMgI76Onm) | [Chrome Sparks](https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM) | [Chrome Sparks](https://open.spotify.com/album/5Y0yPA0zZetcpimqsegK1i) | 5:35 | 2019-06-19\* | 2020-10-21 |
 | [Storm / Mom](https://open.spotify.com/track/0NDlsZ7UP5jNf9RjhLOZPA) | [Will Wiesenfeld](https://open.spotify.com/artist/2yAle6ZkLiTfqIndO18gmm), [Baths](https://open.spotify.com/artist/5zS8r5hRRk1jzD41yYS1NO), [Geotic](https://open.spotify.com/artist/30wki8WYREGLQPm623vzkZ) | [Bee and PuppyCat \(Soundtrack from the Netflix Series\) Vol\. 2](https://open.spotify.com/album/6AsBQU7S9TYkTAc4AIRPQb) | 2:31 | 2023-07-17 |  |

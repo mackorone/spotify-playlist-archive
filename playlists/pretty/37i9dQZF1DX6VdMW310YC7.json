@@ -1,6 +1,6 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3918866,
+  "num_followers": 3919070,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
@@ -451,8 +451,8 @@
     {
       "added_at": "2025-11-14 05:00:28",
       "album": {
-        "name": "Not Giving You Up",
-        "url": "https://open.spotify.com/album/5V3TvHdleNDEhSIC4g7IFM"
+        "name": "Silverlight",
+        "url": "https://open.spotify.com/album/5vpDjbRlku61UAeFzqm09E"
       },
       "artists": [
         {
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
         }
       ],
-      "duration_ms": 172939,
-      "name": "Not Giving You Up",
-      "url": "https://open.spotify.com/track/5s7KszYX1mfvpKA7XCMvfw"
+      "duration_ms": 200606,
+      "name": "Silverlight",
+      "url": "https://open.spotify.com/track/1R8qJRSmyAbEew2mtPQFJo"
     },
     {
       "added_at": "2025-11-14 05:00:28",
@@ -547,8 +547,8 @@
     {
       "added_at": "2025-11-14 05:00:28",
       "album": {
-        "name": "Silverlight",
-        "url": "https://open.spotify.com/album/5vpDjbRlku61UAeFzqm09E"
+        "name": "Not Giving You Up",
+        "url": "https://open.spotify.com/album/5V3TvHdleNDEhSIC4g7IFM"
       },
       "artists": [
         {
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
         }
       ],
-      "duration_ms": 200606,
-      "name": "Silverlight",
-      "url": "https://open.spotify.com/track/1R8qJRSmyAbEew2mtPQFJo"
+      "duration_ms": 172939,
+      "name": "Not Giving You Up",
+      "url": "https://open.spotify.com/track/5s7KszYX1mfvpKA7XCMvfw"
     },
     {
       "added_at": "2025-11-14 05:00:28",
@@ -655,22 +655,6 @@
     {
       "added_at": "2025-11-14 05:00:28",
       "album": {
-        "name": "Into Dust (Still Falling)",
-        "url": "https://open.spotify.com/album/407vGRsnaFAEBtYFRNsid0"
-      },
-      "artists": [
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 333779,
-      "name": "Into Dust (Still Falling)",
-      "url": "https://open.spotify.com/track/4kd3HIkMbwO4sVgkYkrBGo"
-    },
-    {
-      "added_at": "2025-11-14 05:00:28",
-      "album": {
         "name": "Not The Same",
         "url": "https://open.spotify.com/album/6TcWS750Qhg2203YwZuPdX"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 196500,
       "name": "Not The Same",
       "url": "https://open.spotify.com/track/2B4Z3Ynr4GsNE1S6EiMWZF"
+    },
+    {
+      "added_at": "2025-11-14 05:00:28",
+      "album": {
+        "name": "Into Dust (Still Falling)",
+        "url": "https://open.spotify.com/album/407vGRsnaFAEBtYFRNsid0"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 333779,
+      "name": "Into Dust (Still Falling)",
+      "url": "https://open.spotify.com/track/4kd3HIkMbwO4sVgkYkrBGo"
     },
     {
       "added_at": "2025-11-14 05:00:28",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2025-11-14 05:00:28",
       "album": {
-        "name": "DESCEND",
-        "url": "https://open.spotify.com/album/3cfa9GsEVzMU1tFt0TkDQY"
-      },
-      "artists": [
-        {
-          "name": "Dezko",
-          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
-        }
-      ],
-      "duration_ms": 220245,
-      "name": "DESCEND",
-      "url": "https://open.spotify.com/track/1w8a2t4KPUD9e5Pv5uFNRP"
-    },
-    {
-      "added_at": "2025-11-14 05:00:28",
-      "album": {
         "name": "Change of Driver",
         "url": "https://open.spotify.com/album/1eOiRwEPNOmeENq1PEy5ia"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 231024,
       "name": "Change of Driver",
       "url": "https://open.spotify.com/track/61J1SikiocG2bFnyQDWM9x"
+    },
+    {
+      "added_at": "2025-11-14 05:00:28",
+      "album": {
+        "name": "DESCEND",
+        "url": "https://open.spotify.com/album/3cfa9GsEVzMU1tFt0TkDQY"
+      },
+      "artists": [
+        {
+          "name": "Dezko",
+          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
+        }
+      ],
+      "duration_ms": 220245,
+      "name": "DESCEND",
+      "url": "https://open.spotify.com/track/1w8a2t4KPUD9e5Pv5uFNRP"
     },
     {
       "added_at": "2025-11-14 05:00:28",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2025-11-14 05:00:28",
       "album": {
-        "name": "Give Me Life",
-        "url": "https://open.spotify.com/album/2uQ78onkVkQm9JEfVK78tN"
-      },
-      "artists": [
-        {
-          "name": "Nils Hoffmann",
-          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
-        }
-      ],
-      "duration_ms": 213113,
-      "name": "Give Me Life",
-      "url": "https://open.spotify.com/track/1VIFS9J23S0zWLbs5U0f2X"
-    },
-    {
-      "added_at": "2025-11-14 05:00:28",
-      "album": {
         "name": "Before The Storm",
         "url": "https://open.spotify.com/album/3STvJmVOJVqeBMRvuNHfoS"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 369798,
       "name": "Before The Storm",
       "url": "https://open.spotify.com/track/1Rd0kA3ditVAlVAb5Hdb1p"
+    },
+    {
+      "added_at": "2025-11-14 05:00:28",
+      "album": {
+        "name": "Give Me Life",
+        "url": "https://open.spotify.com/album/2uQ78onkVkQm9JEfVK78tN"
+      },
+      "artists": [
+        {
+          "name": "Nils Hoffmann",
+          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+        }
+      ],
+      "duration_ms": 213113,
+      "name": "Give Me Life",
+      "url": "https://open.spotify.com/track/1VIFS9J23S0zWLbs5U0f2X"
     },
     {
       "added_at": "2025-11-14 05:00:28",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2025-11-14 05:00:28",
       "album": {
-        "name": "Kids of the Sun",
-        "url": "https://open.spotify.com/album/5Zc30hxnYShaLQ9FcDQEgA"
-      },
-      "artists": [
-        {
-          "name": "Alex Keeper",
-          "url": "https://open.spotify.com/artist/4hxy6gamr697jKBPSmHcpB"
-        }
-      ],
-      "duration_ms": 159685,
-      "name": "Kids of the Sun",
-      "url": "https://open.spotify.com/track/7j0LmNibEdZWB9KNOVZ9vP"
-    },
-    {
-      "added_at": "2025-11-14 05:00:28",
-      "album": {
         "name": "I Just Needed This",
         "url": "https://open.spotify.com/album/6CVvgJlFjWpGdor9nEc3j5"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 244000,
       "name": "I Just Needed This",
       "url": "https://open.spotify.com/track/13tazuEkVNXdCVXV9S6vFl"
+    },
+    {
+      "added_at": "2025-11-14 05:00:28",
+      "album": {
+        "name": "Kids of the Sun",
+        "url": "https://open.spotify.com/album/5Zc30hxnYShaLQ9FcDQEgA"
+      },
+      "artists": [
+        {
+          "name": "Alex Keeper",
+          "url": "https://open.spotify.com/artist/4hxy6gamr697jKBPSmHcpB"
+        }
+      ],
+      "duration_ms": 159685,
+      "name": "Kids of the Sun",
+      "url": "https://open.spotify.com/track/7j0LmNibEdZWB9KNOVZ9vP"
     },
     {
       "added_at": "2025-11-14 05:00:28",
@@ -1427,18 +1427,22 @@
     {
       "added_at": "2025-11-14 05:00:28",
       "album": {
-        "name": "Maitri",
-        "url": "https://open.spotify.com/album/2q2KMPcrknWvv81MReT6mX"
+        "name": "Something Right",
+        "url": "https://open.spotify.com/album/3NgRCeEQNc1mSlcbQBUnEI"
       },
       "artists": [
         {
-          "name": "Godblesscomputers",
-          "url": "https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT"
+          "name": "Luttrell",
+          "url": "https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2"
+        },
+        {
+          "name": "Molly Moonwater",
+          "url": "https://open.spotify.com/artist/0z8KcRUs0oUnn9fdQ3jn7O"
         }
       ],
-      "duration_ms": 177391,
-      "name": "Maitri",
-      "url": "https://open.spotify.com/track/0xFHnQK9wKmpkDdqKtgOt5"
+      "duration_ms": 175040,
+      "name": "Something Right",
+      "url": "https://open.spotify.com/track/4m7n8fwmFXIopFBzWbmlzj"
     },
     {
       "added_at": "2025-11-14 05:00:28",
@@ -1459,26 +1463,6 @@
       "duration_ms": 296597,
       "name": "Diamonds (Further Than I Ever Was)",
       "url": "https://open.spotify.com/track/25Zv9R5lGEZIQkUtERSFeo"
-    },
-    {
-      "added_at": "2025-11-14 05:00:28",
-      "album": {
-        "name": "Something Right",
-        "url": "https://open.spotify.com/album/3NgRCeEQNc1mSlcbQBUnEI"
-      },
-      "artists": [
-        {
-          "name": "Luttrell",
-          "url": "https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2"
-        },
-        {
-          "name": "Molly Moonwater",
-          "url": "https://open.spotify.com/artist/0z8KcRUs0oUnn9fdQ3jn7O"
-        }
-      ],
-      "duration_ms": 175040,
-      "name": "Something Right",
-      "url": "https://open.spotify.com/track/4m7n8fwmFXIopFBzWbmlzj"
     },
     {
       "added_at": "2025-11-14 05:00:28",
@@ -1507,6 +1491,22 @@
     {
       "added_at": "2025-11-14 05:00:28",
       "album": {
+        "name": "Maitri",
+        "url": "https://open.spotify.com/album/2q2KMPcrknWvv81MReT6mX"
+      },
+      "artists": [
+        {
+          "name": "Godblesscomputers",
+          "url": "https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT"
+        }
+      ],
+      "duration_ms": 177391,
+      "name": "Maitri",
+      "url": "https://open.spotify.com/track/0xFHnQK9wKmpkDdqKtgOt5"
+    },
+    {
+      "added_at": "2025-11-14 05:00:28",
+      "album": {
         "name": "Next To You",
         "url": "https://open.spotify.com/album/6M6bP82QvaUCx7AanqLBub"
       },
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2025-11-14 05:00:28",
       "album": {
-        "name": "Above Ground",
-        "url": "https://open.spotify.com/album/6g2Kkgl27P6CjSFenP7vKl"
-      },
-      "artists": [
-        {
-          "name": "Klaverson",
-          "url": "https://open.spotify.com/artist/3HutVQvkOWjDk8fYsWATEr"
-        }
-      ],
-      "duration_ms": 208524,
-      "name": "Better Man",
-      "url": "https://open.spotify.com/track/7BtBDYrdtBmGEXCuPOSf98"
-    },
-    {
-      "added_at": "2025-11-14 05:00:28",
-      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/7qSI8zRVFIOUKdENPi03E5"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 217617,
       "name": "Blue",
       "url": "https://open.spotify.com/track/72bs66ZAxaeg7GUAVUQzZy"
+    },
+    {
+      "added_at": "2025-11-14 05:00:28",
+      "album": {
+        "name": "Above Ground",
+        "url": "https://open.spotify.com/album/6g2Kkgl27P6CjSFenP7vKl"
+      },
+      "artists": [
+        {
+          "name": "Klaverson",
+          "url": "https://open.spotify.com/artist/3HutVQvkOWjDk8fYsWATEr"
+        }
+      ],
+      "duration_ms": 208524,
+      "name": "Better Man",
+      "url": "https://open.spotify.com/track/7BtBDYrdtBmGEXCuPOSf98"
     },
     {
       "added_at": "2025-11-14 05:00:28",
@@ -1615,30 +1615,6 @@
     {
       "added_at": "2025-11-14 05:00:28",
       "album": {
-        "name": "i don't know what to say",
-        "url": "https://open.spotify.com/album/3OlfLLEPknBT26Imkjzcy5"
-      },
-      "artists": [
-        {
-          "name": "Le Youth",
-          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
-        },
-        {
-          "name": "Lipless",
-          "url": "https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA"
-        },
-        {
-          "name": "Hana Fatur",
-          "url": "https://open.spotify.com/artist/1KrrllH0xZ2LBhgcxNMidX"
-        }
-      ],
-      "duration_ms": 209839,
-      "name": "i don't know what to say",
-      "url": "https://open.spotify.com/track/71XhzO3pCZ96N1VgZeG1IX"
-    },
-    {
-      "added_at": "2025-11-14 05:00:28",
-      "album": {
         "name": "Another Life",
         "url": "https://open.spotify.com/album/5HLuvzfYjnLfeBqrjh356f"
       },
@@ -1675,22 +1651,26 @@
     {
       "added_at": "2025-11-14 05:00:28",
       "album": {
-        "name": "Everlight",
-        "url": "https://open.spotify.com/album/2dM0HU6nyY095dS8Hpva5j"
+        "name": "i don't know what to say",
+        "url": "https://open.spotify.com/album/3OlfLLEPknBT26Imkjzcy5"
       },
       "artists": [
         {
-          "name": "Nils Hoffmann",
-          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+          "name": "Le Youth",
+          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
         },
         {
-          "name": "Bipolar Sunshine",
-          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
+          "name": "Lipless",
+          "url": "https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA"
+        },
+        {
+          "name": "Hana Fatur",
+          "url": "https://open.spotify.com/artist/1KrrllH0xZ2LBhgcxNMidX"
         }
       ],
-      "duration_ms": 249553,
-      "name": "High & Low",
-      "url": "https://open.spotify.com/track/5k7FGynO7jnnhpQhK2pexl"
+      "duration_ms": 209839,
+      "name": "i don't know what to say",
+      "url": "https://open.spotify.com/track/71XhzO3pCZ96N1VgZeG1IX"
     },
     {
       "added_at": "2025-11-14 05:00:28",
@@ -1711,18 +1691,22 @@
     {
       "added_at": "2025-11-14 05:00:28",
       "album": {
-        "name": "I Want You",
-        "url": "https://open.spotify.com/album/1OzjWkmx3VFmdZaRZjHxeL"
+        "name": "Everlight",
+        "url": "https://open.spotify.com/album/2dM0HU6nyY095dS8Hpva5j"
       },
       "artists": [
         {
-          "name": "Vandelux",
-          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+          "name": "Nils Hoffmann",
+          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+        },
+        {
+          "name": "Bipolar Sunshine",
+          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
         }
       ],
-      "duration_ms": 207609,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/3fSWVoPupWl0f1gSCeHANJ"
+      "duration_ms": 249553,
+      "name": "High & Low",
+      "url": "https://open.spotify.com/track/5k7FGynO7jnnhpQhK2pexl"
     },
     {
       "added_at": "2025-11-14 05:00:28",
@@ -1763,18 +1747,18 @@
     {
       "added_at": "2025-11-14 05:00:28",
       "album": {
-        "name": "Lost Home / Solitude",
-        "url": "https://open.spotify.com/album/6hJExzBylXcKb3F7fb0Wju"
+        "name": "I Want You",
+        "url": "https://open.spotify.com/album/1OzjWkmx3VFmdZaRZjHxeL"
       },
       "artists": [
         {
-          "name": "Keanler",
-          "url": "https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK"
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
         }
       ],
-      "duration_ms": 226115,
-      "name": "Lost Home",
-      "url": "https://open.spotify.com/track/3UcquXPl3pmUgKdVjxAIxy"
+      "duration_ms": 207609,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/3fSWVoPupWl0f1gSCeHANJ"
     },
     {
       "added_at": "2025-11-14 05:00:28",
@@ -1795,6 +1779,22 @@
       "duration_ms": 262008,
       "name": "The Thought of You",
       "url": "https://open.spotify.com/track/2KbMdgWDWQSHPd9wRMV8ka"
+    },
+    {
+      "added_at": "2025-11-14 05:00:28",
+      "album": {
+        "name": "Lost Home / Solitude",
+        "url": "https://open.spotify.com/album/6hJExzBylXcKb3F7fb0Wju"
+      },
+      "artists": [
+        {
+          "name": "Keanler",
+          "url": "https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK"
+        }
+      ],
+      "duration_ms": 226115,
+      "name": "Lost Home",
+      "url": "https://open.spotify.com/track/3UcquXPl3pmUgKdVjxAIxy"
     },
     {
       "added_at": "2025-11-14 05:00:28",

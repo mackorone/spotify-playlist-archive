@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: The Lantis
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,417 likes - 128 songs - 8 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,430 likes - 128 songs - 8 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

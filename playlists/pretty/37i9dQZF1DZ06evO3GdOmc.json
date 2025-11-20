@@ -1,12 +1,12 @@
 {
   "description": "This is Casting Crowns. The essential tracks, all in one playlist.",
-  "num_followers": 44702,
+  "num_followers": 44711,
   "original_name": "This Is Casting Crowns",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRplgAAAAABcaPxn62hjMl3a6nkFZQQ6",
+  "snapshot_id": "aRu3AAAAAACgl5zYUdNdgdMQW1pMfAon",
   "tracks": [
     {
       "added_at": null,
@@ -76,7 +76,7 @@
           "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
         }
       ],
-      "duration_ms": 221080,
+      "duration_ms": 221079,
       "name": "Just Be Held",
       "url": "https://open.spotify.com/track/5t35FJYwzRt9MG3ae2O41L"
     },
@@ -172,7 +172,7 @@
           "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
         }
       ],
-      "duration_ms": 305333,
+      "duration_ms": 306200,
       "name": "Thrive",
       "url": "https://open.spotify.com/track/08shoW0qPqgMDnNQppWAQj"
     },
@@ -560,7 +560,7 @@
           "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
         }
       ],
-      "duration_ms": 281426,
+      "duration_ms": 285439,
       "name": "Broken Together",
       "url": "https://open.spotify.com/track/2PuvIyN4e2w2i4GIjWCqsB"
     },
@@ -624,7 +624,7 @@
           "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
         }
       ],
-      "duration_ms": 241746,
+      "duration_ms": 244067,
       "name": "All You've Ever Wanted",
       "url": "https://open.spotify.com/track/5lSVszuv0PGnfvh2HTWq1k"
     },
@@ -695,8 +695,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Altar and The Door",
-        "url": "https://open.spotify.com/album/3YNvCS8uVgcJVMfk2Ad8EL"
+        "name": "Until The Whole World Hears",
+        "url": "https://open.spotify.com/album/6GH2hcSeIDNfnNTQfjTy2i"
       },
       "artists": [
         {
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
         }
       ],
-      "duration_ms": 170520,
-      "name": "Prayer For A Friend",
-      "url": "https://open.spotify.com/track/5Z3bMmjkkSmTE4JxlF0W6i"
+      "duration_ms": 266426,
+      "name": "Joyful, Joyful",
+      "url": "https://open.spotify.com/track/1Pv9XvvQE3KXs66DWKOhmy"
     },
     {
       "added_at": null,
@@ -727,8 +727,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Healer (Deluxe)",
-        "url": "https://open.spotify.com/album/0WMEBJvWLGzgMMToZMitk4"
+        "name": "The Altar and The Door",
+        "url": "https://open.spotify.com/album/3YNvCS8uVgcJVMfk2Ad8EL"
       },
       "artists": [
         {
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
         }
       ],
-      "duration_ms": 229213,
-      "name": "Jesus at a Distance",
-      "url": "https://open.spotify.com/track/1dWpEnUYgYkJHMT7zXKMh4"
+      "duration_ms": 170520,
+      "name": "Prayer For A Friend",
+      "url": "https://open.spotify.com/track/5Z3bMmjkkSmTE4JxlF0W6i"
     },
     {
       "added_at": null,
@@ -759,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Healer (Deluxe)",
+        "url": "https://open.spotify.com/album/0WMEBJvWLGzgMMToZMitk4"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 229213,
+      "name": "Jesus at a Distance",
+      "url": "https://open.spotify.com/track/1dWpEnUYgYkJHMT7zXKMh4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Glorious Day: Hymns of Faith",
         "url": "https://open.spotify.com/album/3hB7IALT7uaNMC6Ol0elbo"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 183906,
       "name": "When We All Get to Heaven",
       "url": "https://open.spotify.com/track/0IL8cGV1ni3VP2SFeNCRuJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Until The Whole World Hears",
-        "url": "https://open.spotify.com/album/6GH2hcSeIDNfnNTQfjTy2i"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 266426,
-      "name": "Joyful, Joyful",
-      "url": "https://open.spotify.com/track/1Pv9XvvQE3KXs66DWKOhmy"
     },
     {
       "added_at": null,

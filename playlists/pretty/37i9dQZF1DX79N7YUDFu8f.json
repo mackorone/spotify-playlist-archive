@@ -1,60 +1,28 @@
 {
   "description": "Lekker rustig aan doen op zaterdag met deze zachte popliedjes.",
-  "num_followers": 113037,
+  "num_followers": 113031,
   "original_name": "Easy On Saturday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH6axNzOCH+Nbw2ZXyE2kN3jrlzM",
+  "snapshot_id": "AAAAABV2PBFbB9IhiZKSpV/jE9+e1dj0",
   "tracks": [
     {
       "added_at": "2025-11-13 23:00:26",
       "album": {
-        "name": "Manifestation",
-        "url": "https://open.spotify.com/album/36mCsWyAK2arL5ikNX6ib0"
+        "name": "Half Full",
+        "url": "https://open.spotify.com/album/78aNecnjtMcMoCy1tAW0ux"
       },
       "artists": [
         {
-          "name": "FENNE",
-          "url": "https://open.spotify.com/artist/1iEwzHojkE2rHcDAJDQOuo"
+          "name": "Levi Boon",
+          "url": "https://open.spotify.com/artist/67Q0IdGtQtelKSYP7ODrvQ"
         }
       ],
-      "duration_ms": 193460,
-      "name": "Manifestation",
-      "url": "https://open.spotify.com/track/72kUwbFY7c0ZbLGgs8IYQw"
-    },
-    {
-      "added_at": "2025-11-13 23:00:26",
-      "album": {
-        "name": "In Our Veins",
-        "url": "https://open.spotify.com/album/5FRHz9MPosdmWqUWdvPGLa"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9zanne",
-          "url": "https://open.spotify.com/artist/0vodNqnsmfqjOqxS7sfOp3"
-        },
-        {
-          "name": "Superfuse",
-          "url": "https://open.spotify.com/artist/4H6l4uxiqZ7uaUwpLkrr3f"
-        },
-        {
-          "name": "Uevo",
-          "url": "https://open.spotify.com/artist/4dQG1cEezr8XaQg8rFKuBi"
-        },
-        {
-          "name": "Thierry Ganz",
-          "url": "https://open.spotify.com/artist/3JPH3i903T7TJIF6cWO5yV"
-        },
-        {
-          "name": "Prime8",
-          "url": "https://open.spotify.com/artist/6QdTv5ondFNAz1tdwVy3gP"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "In Our Veins",
-      "url": "https://open.spotify.com/track/5t3kJCjFtc69B80hDQQwYZ"
+      "duration_ms": 209324,
+      "name": "Half Full",
+      "url": "https://open.spotify.com/track/1VQmes5qHWKQ5p3C4v6NBg"
     },
     {
       "added_at": "2025-11-13 23:00:26",
@@ -203,6 +171,38 @@
     {
       "added_at": "2025-11-13 23:00:26",
       "album": {
+        "name": "In Our Veins",
+        "url": "https://open.spotify.com/album/5FRHz9MPosdmWqUWdvPGLa"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9zanne",
+          "url": "https://open.spotify.com/artist/0vodNqnsmfqjOqxS7sfOp3"
+        },
+        {
+          "name": "Superfuse",
+          "url": "https://open.spotify.com/artist/4H6l4uxiqZ7uaUwpLkrr3f"
+        },
+        {
+          "name": "Uevo",
+          "url": "https://open.spotify.com/artist/4dQG1cEezr8XaQg8rFKuBi"
+        },
+        {
+          "name": "Thierry Ganz",
+          "url": "https://open.spotify.com/artist/3JPH3i903T7TJIF6cWO5yV"
+        },
+        {
+          "name": "Prime8",
+          "url": "https://open.spotify.com/artist/6QdTv5ondFNAz1tdwVy3gP"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "In Our Veins",
+      "url": "https://open.spotify.com/track/5t3kJCjFtc69B80hDQQwYZ"
+    },
+    {
+      "added_at": "2025-11-13 23:00:26",
+      "album": {
         "name": "Swords",
         "url": "https://open.spotify.com/album/5bBvnFuL3lVetizlVozBuW"
       },
@@ -251,18 +251,18 @@
     {
       "added_at": "2025-11-13 23:00:26",
       "album": {
-        "name": "Half Full",
-        "url": "https://open.spotify.com/album/78aNecnjtMcMoCy1tAW0ux"
+        "name": "Manifestation",
+        "url": "https://open.spotify.com/album/36mCsWyAK2arL5ikNX6ib0"
       },
       "artists": [
         {
-          "name": "Levi Boon",
-          "url": "https://open.spotify.com/artist/67Q0IdGtQtelKSYP7ODrvQ"
+          "name": "FENNE",
+          "url": "https://open.spotify.com/artist/1iEwzHojkE2rHcDAJDQOuo"
         }
       ],
-      "duration_ms": 209324,
-      "name": "Half Full",
-      "url": "https://open.spotify.com/track/1VQmes5qHWKQ5p3C4v6NBg"
+      "duration_ms": 193460,
+      "name": "Manifestation",
+      "url": "https://open.spotify.com/track/72kUwbFY7c0ZbLGgs8IYQw"
     },
     {
       "added_at": "2025-11-13 23:00:26",

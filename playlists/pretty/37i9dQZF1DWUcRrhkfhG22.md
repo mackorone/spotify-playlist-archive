@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcRrhkfhG22.md) - [plain]
 
 > Funky vocoders and talk boxes
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,492 likes - 96 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,502 likes - 96 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcRrhkfhG22.md) - [plain]
 | 16 | [The Way She Makes It Bounce](https://open.spotify.com/track/47Ug2AT0NzK6fmxz2hQqQM) | [Winfree](https://open.spotify.com/artist/4Iov3IICSPYPmfcjuHBiJI) | [The Way She Makes It Bounce](https://open.spotify.com/album/45XnHcra3Zkny9V4RoMKVQ) | 3:15 |
 | 17 | [Funkadelic Sound](https://open.spotify.com/track/6EqhL2LqkxKvl238nvt3rK) | [Mr\. Talkbox](https://open.spotify.com/artist/3ZGbMG70LcEEo7SBIE3jMH) | [My Time](https://open.spotify.com/album/2WmBBecj0WTxRe1rAvraxG) | 3:22 |
 | 18 | [Customized](https://open.spotify.com/track/1GlAErHGsY4EVlmx9v12Iq) | [Diamond Ortiz](https://open.spotify.com/artist/4tm2O1beMNSAdbG3pQvDCP) | [Customized](https://open.spotify.com/album/6cTbL1vRVLNLF4RoNxr4rA) | 3:17 |
-| 19 | [Tell Everybody](https://open.spotify.com/track/07Y2w7XP9eNhzwZuXUI72R) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Feets Don't Fail Me Now](https://open.spotify.com/album/3EzImBJBzD8gBwT6YNBbht) | 7:12 |
+| 19 | [Tell Everybody](https://open.spotify.com/track/07Y2w7XP9eNhzwZuXUI72R) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Feets Don't Fail Me Now](https://open.spotify.com/album/3EzImBJBzD8gBwT6YNBbht) | 7:11 |
 | 20 | [Have You Heard?](https://open.spotify.com/track/3ZACQUwSnDnDo9DjCYk3I8) | [TWRP](https://open.spotify.com/artist/6N3egqZ7OtcYYXyU6PBdNr) | [Have You Heard?](https://open.spotify.com/album/78HvtkRKA4lZ3oh9goixXF) | 4:49 |
 | 21 | [Make It Funky \- Disco Mix](https://open.spotify.com/track/5nRXDUpWjtU7bCJURktRmE) | [TheDjLawyer](https://open.spotify.com/artist/7k2fD4YbAzbcHX5DFl0RDD) | [Make It Funky](https://open.spotify.com/album/2qhZSAmJea58xjhasjr96u) | 4:50 |
 | 22 | [Freak\-a\-Zoid](https://open.spotify.com/track/42UpH9fz5utv8tkvOgh5Qb) | [Midnight Star](https://open.spotify.com/artist/0KMLfCXYb3Dhf1hLpu8cVd) | [No Parking on the Dance Floor](https://open.spotify.com/album/67v1yz3SGvFEnQeTO8H6jP) | 8:05 |
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcRrhkfhG22.md) - [plain]
 | 84 | [F With Me \(feat\. Chromeo\)](https://open.spotify.com/track/6jQcZwHa3sZ54MxWvApCKb) | [Destructo](https://open.spotify.com/artist/0BEYTctVmnYa5yStp4Jpab), [Tima Dee](https://open.spotify.com/artist/4pQIDKoWXRw04D9e37QzbP), [Gary Richards](https://open.spotify.com/artist/0bc4DuHftasIlfmGS8laRO), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [F With Me \(feat\. Chromeo\)](https://open.spotify.com/album/0mo8Pdx3ZuorTKa7G7hhuj) | 2:50 |
 | 85 | [Ray Phunk Show](https://open.spotify.com/track/2jO8nQnIz4GfdNpv64cCgX) | [Ivan Makvel](https://open.spotify.com/artist/2NnG0MYrJ9KcBClx1Ja2Q4) | [Ray Phunk Show](https://open.spotify.com/album/43ptuA861r3UXQU1YeiFZ8) | 3:32 |
 | 86 | [Too Late](https://open.spotify.com/track/463ciDPJsnDzuzEqnsU63c) | [Kazzey](https://open.spotify.com/artist/5wQ8DuXAlRz7HtLTjWnUyY) | [Voyage 1](https://open.spotify.com/album/5bRcZmrU98mH2ii0vbSPqV) | 3:09 |
-| 87 | [Doin' It](https://open.spotify.com/track/3qQVUOHJdgIFWJd0jrG9GE) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Secrets](https://open.spotify.com/album/13rwtqLWF1jl1NEDhgbYsw) | 8:02 |
+| 87 | [Doin' It](https://open.spotify.com/track/3qQVUOHJdgIFWJd0jrG9GE) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Secrets](https://open.spotify.com/album/13rwtqLWF1jl1NEDhgbYsw) | 8:03 |
 | 88 | [Livin' It Up](https://open.spotify.com/track/1736zC0ecfHYQf0fSOFx1k) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Mr\. Talkbox](https://open.spotify.com/artist/3ZGbMG70LcEEo7SBIE3jMH) | [The Striped Album](https://open.spotify.com/album/7BWRgbyTOEjtPyVUnTxwj8) | 3:32 |
 | 89 | [BMBM](https://open.spotify.com/track/1Ibl3KfZXlzkvyuV9REdWd) | [Kazzey](https://open.spotify.com/artist/5wQ8DuXAlRz7HtLTjWnUyY) | [Night Cruisin'](https://open.spotify.com/album/6sL3gRxmuhhsSpc196Enif) | 3:06 |
 | 90 | [Get It Off \- 10th Anniversary Version](https://open.spotify.com/track/6Qs5PIaD5j26Ny3viBKLF3) | [Tom Glide](https://open.spotify.com/artist/0Ja5umiXEEPCeouaeU7PJh) | [Get It Off \(10th Anniversary Version\)](https://open.spotify.com/album/21AzNLz9nEm0X0ASAhCkzk) | 2:59 |

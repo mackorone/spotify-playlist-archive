@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSmYGAKTUJn.md) - [plain]
 
 > John Mulaney's 50 most beloved tracks\. Welcome to <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">mixtape</a>, a curator's playground.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,103 likes - 50 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,126 likes - 50 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSmYGAKTUJn.md) - [plain]
 | 5 | [Jams Runs Free](https://open.spotify.com/track/5a4bYjlqimbie2eQRXAFRx) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Rather Ripped](https://open.spotify.com/album/706OL6kpsbf73LRdXD1dCB) | 3:51 |
 | 6 | [Neutron Dance](https://open.spotify.com/track/3Uyxe1fbF4zWSEwy38qgMw) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Break Out \(1983 Version \- Expanded Edition\)](https://open.spotify.com/album/6h1sv7NHAZA7tiErfICYLM) | 4:13 |
 | 7 | [Dreaming](https://open.spotify.com/track/2D1c80s1UfhDgriG89Fhms) | [Cosmic Rays](https://open.spotify.com/artist/14zNFEQ8hpqdhg7fdRNXqO), [Sun Ra Arkestra](https://open.spotify.com/artist/5V5vvh5MgM7vDuPp4lJYkh), [Sun Ra](https://open.spotify.com/artist/0tIODqvzGUoEaK26rK4pvX) | [Singles](https://open.spotify.com/album/46lZr7iicBfmuoPXSCmVzO) | 2:44 |
-| 8 | [Women](https://open.spotify.com/track/55DLgjui2yDYwS5xM34Scw) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [The Blue Mask](https://open.spotify.com/album/1CkMvvVcMdvMAYIz4Zhzax) | 4:58 |
-| 9 | [Sugar Baby](https://open.spotify.com/track/43DqZGc0iavh3b6VEf8kWb) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Love And Theft](https://open.spotify.com/album/4BcfuxQ4EO07Y53yr6YhAJ) | 6:40 |
+| 8 | [Women](https://open.spotify.com/track/55DLgjui2yDYwS5xM34Scw) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [The Blue Mask](https://open.spotify.com/album/1CkMvvVcMdvMAYIz4Zhzax) | 4:57 |
+| 9 | [Sugar Baby](https://open.spotify.com/track/43DqZGc0iavh3b6VEf8kWb) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Love And Theft](https://open.spotify.com/album/4BcfuxQ4EO07Y53yr6YhAJ) | 6:41 |
 | 10 | [A Really Good Time](https://open.spotify.com/track/1WdXUUwurczr8qaKNJ8sfI) | [Roxy Music](https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo) | [Country Life](https://open.spotify.com/album/59RclwjkzMJTJZNxrfGdLC) | 3:45 |
 | 11 | [Catch](https://open.spotify.com/track/2aJ6PwdTLJRhOMX7KIySvv) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Kiss Me, Kiss Me, Kiss Me](https://open.spotify.com/album/37Q22g0n9PzBLX6lNddrIa) | 2:45 |
 | 12 | [Born Under Punches \(The Heat Goes On\) \- 2005 Remaster](https://open.spotify.com/track/4eBCTzBsSjYgrLH5clQf2x) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Remain in Light \(Deluxe Version\)](https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG) | 5:49 |

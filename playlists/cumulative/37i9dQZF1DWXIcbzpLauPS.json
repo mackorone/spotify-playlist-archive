@@ -1843,6 +1843,24 @@
     },
     {
       "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/233juQwCUc0uHzSa2sU4gI"
+      },
+      "artists": [
+        {
+          "name": "The Narrator",
+          "url": "https://open.spotify.com/artist/7d1ZGbsel9lq6hwvWhPFgk"
+        }
+      ],
+      "date_added": "2025-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200356,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/0qrpctqrt2zifx5poFSeXK"
+    },
+    {
+      "album": {
         "name": "Avoider",
         "url": "https://open.spotify.com/album/2y0ayE8q891cQmUUsxOL18"
       },
@@ -11692,7 +11710,7 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-19",
+      "date_removed": null,
       "duration_ms": 254742,
       "name": "If It's All The Same To You",
       "url": "https://open.spotify.com/track/4wyU17zJTM512I1i6OSI0X"
@@ -14922,7 +14940,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 204191,
       "name": "My Effigy",
       "url": "https://open.spotify.com/track/2yeIjXWp9wp2pPfywwiumU"
@@ -17242,7 +17260,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 191751,
       "name": "Pills From The Start",
       "url": "https://open.spotify.com/track/5veJxMbTFDmUStxWBTthlC"
@@ -20999,7 +21017,7 @@
     },
     {
       "album": {
-        "name": "stupid Boy",
+        "name": "stupid boy",
         "url": "https://open.spotify.com/album/0knY2rZkZkGG51QbJ1PDFc"
       },
       "artists": [

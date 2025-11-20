@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6vmXrF8Shld.md) - [plain]
 
 > The best and finest 60s Funk\. Cover: The Meters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,045 likes - 69 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,059 likes - 69 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6vmXrF8Shld.md) - [plain]
 | 18 | [Soul Finger](https://open.spotify.com/track/3FmaFVYVcdvvdSKr2oqKJ0) | [The Bar\-Kays](https://open.spotify.com/artist/0Z4CzYz9ieK8q9XiVMPkW5) | [Hip 60s](https://open.spotify.com/album/2bpsJ83ZN4Vgu8xuHu6g54) | 2:21 |
 | 19 | [Papa's Got a Brand New Bag](https://open.spotify.com/track/4gBDbXvzx8uDEWrA7Qo1KZ) | [Charles Wright & The Watts 103rd Street Rhythm Band](https://open.spotify.com/artist/2t0kaaDtGZtmpczIAMaVTQ) | [Together](https://open.spotify.com/album/5dlq4IV7malpLfG36zMj6T) | 3:19 |
 | 20 | [Everybody Needs Somebody to Love](https://open.spotify.com/track/4NL8D4RQsC6ux6eI3m3Lg5) | [Solomon Burke](https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb) | [The Very Best of Solomon Burke](https://open.spotify.com/album/6qnOfoAUz11fZ98GFilmKE) | 2:46 |
-| 21 | [The Watts Breakaway](https://open.spotify.com/track/2jE7FOj2T1zMy3XSLbeDd2) | [The Johnny Otis Show](https://open.spotify.com/artist/4pdM1TI8b1tZW3Jprzn5II) | [Cuttin Up](https://open.spotify.com/album/3CT70XoGyILn3j2gcNkbA9) | 2:34 |
+| 21 | [The Watts Breakaway](https://open.spotify.com/track/2jE7FOj2T1zMy3XSLbeDd2) | [The Johnny Otis Show](https://open.spotify.com/artist/4pdM1TI8b1tZW3Jprzn5II) | [Cuttin Up](https://open.spotify.com/album/3CT70XoGyILn3j2gcNkbA9) | 2:37 |
 | 22 | [What a Man \- 2012 Remaster](https://open.spotify.com/track/5ZEvnKOFukN1lXXHiOHESi) | [Laura Lee](https://open.spotify.com/artist/0ApoVi8QEh35twomSXh9TX) | [100 Greatest Soul](https://open.spotify.com/album/1h3AgcW3B3Bw0wafOROjO8) | 2:53 |
 | 23 | [Funky Street](https://open.spotify.com/track/6uu9g2xpWSPda9SFPvrAmO) | [Arthur Conley](https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB) | [Soul Directions](https://open.spotify.com/album/3PowoJrtqNFSY8HEJ3a1v4) | 2:23 |
 | 24 | [Shotgun](https://open.spotify.com/track/6VzM9C7CXyn1BQdgTJVqDx) | [Jr\. Walker & The All Stars](https://open.spotify.com/artist/1rHh0AI30JhKrbzKIFjFNd) | [Shotgun](https://open.spotify.com/album/4aDsONCBMpZ6AAjZctYEYS) | 2:56 |

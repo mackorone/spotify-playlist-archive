@@ -210,7 +210,7 @@
           "url": "https://open.spotify.com/artist/4LY4b8LGVs8fHvtRVrWkcq"
         },
         {
-          "name": "JOWOOCHAN",
+          "name": "WOOCHAN",
           "url": "https://open.spotify.com/artist/3aJJ3PgNVHdHGZ1XPgtSEc"
         },
         {
@@ -1458,36 +1458,6 @@
     {
       "album": {
         "name": "Show Me the Money 6 Episode 3",
-        "url": "https://open.spotify.com/album/71c8aoBIzjTttPRfd2jQaF"
-      },
-      "artists": [
-        {
-          "name": "Nucksal",
-          "url": "https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB"
-        },
-        {
-          "name": "JOWOOCHAN",
-          "url": "https://open.spotify.com/artist/3aJJ3PgNVHdHGZ1XPgtSEc"
-        },
-        {
-          "name": "Gaeko",
-          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
-        },
-        {
-          "name": "Don Mills",
-          "url": "https://open.spotify.com/artist/6bIsFWNkjQvSm5P4rqlxKn"
-        }
-      ],
-      "date_added": "2021-12-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 263123,
-      "name": "Brrr Get$",
-      "url": "https://open.spotify.com/track/1IbPafWY21tKBAV2EA1NpI"
-    },
-    {
-      "album": {
-        "name": "Show Me the Money 6 Episode 3",
         "url": "https://open.spotify.com/album/1Z1RxcM9xR2IRWgF8ANmGa"
       },
       "artists": [
@@ -1544,6 +1514,36 @@
       "duration_ms": 263123,
       "name": "Brrr get$",
       "url": "https://open.spotify.com/track/6XXJt8AlY92wLpDLtJP8Oi"
+    },
+    {
+      "album": {
+        "name": "Show Me the Money 6 Episode 3",
+        "url": "https://open.spotify.com/album/71c8aoBIzjTttPRfd2jQaF"
+      },
+      "artists": [
+        {
+          "name": "Nucksal",
+          "url": "https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB"
+        },
+        {
+          "name": "WOOCHAN",
+          "url": "https://open.spotify.com/artist/3aJJ3PgNVHdHGZ1XPgtSEc"
+        },
+        {
+          "name": "Gaeko",
+          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
+        },
+        {
+          "name": "Don Mills",
+          "url": "https://open.spotify.com/artist/6bIsFWNkjQvSm5P4rqlxKn"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263123,
+      "name": "Brrr Get$",
+      "url": "https://open.spotify.com/track/1IbPafWY21tKBAV2EA1NpI"
     },
     {
       "album": {
@@ -7316,32 +7316,6 @@
     {
       "album": {
         "name": "Show Me the Money 6 Episode 4",
-        "url": "https://open.spotify.com/album/0aVhhSM2Fg2AT12J92Ag0S"
-      },
-      "artists": [
-        {
-          "name": "JOWOOCHAN",
-          "url": "https://open.spotify.com/artist/3aJJ3PgNVHdHGZ1XPgtSEc"
-        },
-        {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
-        },
-        {
-          "name": "Gaeko",
-          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
-        }
-      ],
-      "date_added": "2021-12-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 243833,
-      "name": "VVIP",
-      "url": "https://open.spotify.com/track/01gkBrs4Rkccu0RkE0shIx"
-    },
-    {
-      "album": {
-        "name": "Show Me the Money 6 Episode 4",
         "url": "https://open.spotify.com/album/7a6hpckd7RLWTbPZY2Ek8B"
       },
       "artists": [
@@ -7364,6 +7338,32 @@
       "duration_ms": 243833,
       "name": "VVIP",
       "url": "https://open.spotify.com/track/3wkF5I538GdZ677MSGRF5d"
+    },
+    {
+      "album": {
+        "name": "Show Me the Money 6 Episode 4",
+        "url": "https://open.spotify.com/album/0aVhhSM2Fg2AT12J92Ag0S"
+      },
+      "artists": [
+        {
+          "name": "WOOCHAN",
+          "url": "https://open.spotify.com/artist/3aJJ3PgNVHdHGZ1XPgtSEc"
+        },
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "Gaeko",
+          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243833,
+      "name": "VVIP",
+      "url": "https://open.spotify.com/track/01gkBrs4Rkccu0RkE0shIx"
     },
     {
       "album": {

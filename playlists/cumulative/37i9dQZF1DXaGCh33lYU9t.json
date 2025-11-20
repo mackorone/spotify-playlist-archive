@@ -219,7 +219,7 @@
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 166453,
+      "duration_ms": 170143,
       "name": "Christmas (Baby Please Come Home)",
       "url": "https://open.spotify.com/track/46pF1zFimM582ss1PrMy68"
     },
@@ -479,7 +479,7 @@
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 136306,
+      "duration_ms": 140778,
       "name": "Frosty the Snowman",
       "url": "https://open.spotify.com/track/7n5m8nDAnyXo81tr4B3Bcw"
     },
@@ -555,7 +555,7 @@
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 123746,
+      "duration_ms": 127909,
       "name": "Here Comes Santa Claus",
       "url": "https://open.spotify.com/track/0BZADNTotC07pQ6PFGRLGS"
     },
@@ -1333,7 +1333,7 @@
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 181266,
+      "duration_ms": 186241,
       "name": "Sleigh Ride",
       "url": "https://open.spotify.com/track/5ASM6Qjiav2xPe7gRkQMsQ"
     },
@@ -1502,6 +1502,24 @@
     {
       "album": {
         "name": "Wrapped In Red",
+        "url": "https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229638,
+      "name": "Underneath the Tree",
+      "url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5"
+    },
+    {
+      "album": {
+        "name": "Wrapped In Red",
         "url": "https://open.spotify.com/album/7Jahqd1kx9Qau0E9x9iZj6"
       },
       "artists": [
@@ -1516,24 +1534,6 @@
       "duration_ms": 229640,
       "name": "Underneath the Tree",
       "url": "https://open.spotify.com/track/3YZE5qDV7u1ZD1gZc47ZeR"
-    },
-    {
-      "album": {
-        "name": "Wrapped In Red",
-        "url": "https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "date_added": "2023-12-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 229640,
-      "name": "Underneath the Tree",
-      "url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Selection of soul music for the perfect dinner.",
-  "num_followers": 140919,
+  "num_followers": 140916,
   "original_name": "Soul Dinner",
   "owner": {
     "name": "Spotify",
@@ -116,7 +116,7 @@
           "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
         }
       ],
-      "duration_ms": 178560,
+      "duration_ms": 178849,
       "name": "I Feel the Earth Move",
       "url": "https://open.spotify.com/track/1BWsOxeMx83OrKGCV4gxly"
     },
@@ -171,22 +171,6 @@
     {
       "added_at": "2025-08-08 09:33:38",
       "album": {
-        "name": "Breezin'",
-        "url": "https://open.spotify.com/album/1ei5QjnfB7PHINJOH8Gft5"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 341733,
-      "name": "Breezin'",
-      "url": "https://open.spotify.com/track/1m3BAsNsQAaSNMD2M6vlKY"
-    },
-    {
-      "added_at": "2025-08-08 09:33:38",
-      "album": {
         "name": "Off the Wall",
         "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 269333,
       "name": "I Can't Help It",
       "url": "https://open.spotify.com/track/1HibhNhwk2tljwC4BGGLXV"
+    },
+    {
+      "added_at": "2025-08-08 09:33:38",
+      "album": {
+        "name": "Breezin'",
+        "url": "https://open.spotify.com/album/1ei5QjnfB7PHINJOH8Gft5"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 341733,
+      "name": "Breezin'",
+      "url": "https://open.spotify.com/track/1m3BAsNsQAaSNMD2M6vlKY"
     },
     {
       "added_at": "2025-08-08 09:33:38",
@@ -783,22 +783,6 @@
     {
       "added_at": "2025-08-08 09:33:38",
       "album": {
-        "name": "Circle Of One",
-        "url": "https://open.spotify.com/album/0AXqyNdhstfyZyVjjJMszO"
-      },
-      "artists": [
-        {
-          "name": "Oleta Adams",
-          "url": "https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g"
-        }
-      ],
-      "duration_ms": 259666,
-      "name": "Rhythm Of Life",
-      "url": "https://open.spotify.com/track/3jOwA8XZplvTVsV0SdLWhc"
-    },
-    {
-      "added_at": "2025-08-08 09:33:38",
-      "album": {
         "name": "Under My Skin",
         "url": "https://open.spotify.com/album/6LCUPmtf6kJpk5p2RPPKQm"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 251013,
       "name": "The Good Life",
       "url": "https://open.spotify.com/track/59526I0d4raugRW8MHNxXy"
+    },
+    {
+      "added_at": "2025-08-08 09:33:38",
+      "album": {
+        "name": "Circle Of One",
+        "url": "https://open.spotify.com/album/0AXqyNdhstfyZyVjjJMszO"
+      },
+      "artists": [
+        {
+          "name": "Oleta Adams",
+          "url": "https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g"
+        }
+      ],
+      "duration_ms": 259666,
+      "name": "Rhythm Of Life",
+      "url": "https://open.spotify.com/track/3jOwA8XZplvTVsV0SdLWhc"
     },
     {
       "added_at": "2025-08-08 09:33:38",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2025-08-08 09:33:38",
       "album": {
-        "name": "I Want You",
-        "url": "https://open.spotify.com/album/0EM4Q0JUVZ8FNqmT5CI2E7"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 274693,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/4643yHVr2Y0c4uKO24Vigi"
-    },
-    {
-      "added_at": "2025-08-08 09:33:38",
-      "album": {
         "name": "Good Thing",
         "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 185893,
       "name": "Bet Ain't Worth the Hand",
       "url": "https://open.spotify.com/track/0VBBWt0uJxXNVb624WtOnC"
+    },
+    {
+      "added_at": "2025-08-08 09:33:38",
+      "album": {
+        "name": "I Want You",
+        "url": "https://open.spotify.com/album/0EM4Q0JUVZ8FNqmT5CI2E7"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 274693,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/4643yHVr2Y0c4uKO24Vigi"
     },
     {
       "added_at": "2025-08-08 09:33:38",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2025-08-08 09:33:38",
       "album": {
-        "name": "Otis Blue: Otis Redding Sings Soul (Collector's Edition)",
-        "url": "https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 179973,
-      "name": "Down in the Valley - Mono; 2018 Remaster",
-      "url": "https://open.spotify.com/track/5DaqgXFk5SxNCiMOpuPJS2"
-    },
-    {
-      "added_at": "2025-08-08 09:33:38",
-      "album": {
         "name": "Been and Gone",
         "url": "https://open.spotify.com/album/6aTDGqCSxTL7ltobEf5q89"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 280218,
       "name": "Been and Gone",
       "url": "https://open.spotify.com/track/23QzGEg02ffn4D9Dje9Nsc"
+    },
+    {
+      "added_at": "2025-08-08 09:33:38",
+      "album": {
+        "name": "Otis Blue: Otis Redding Sings Soul (Collector's Edition)",
+        "url": "https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 179973,
+      "name": "Down in the Valley - Mono; 2018 Remaster",
+      "url": "https://open.spotify.com/track/5DaqgXFk5SxNCiMOpuPJS2"
     },
     {
       "added_at": "2025-08-08 09:33:38",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2025-08-08 09:33:38",
       "album": {
-        "name": "Fulfillingness' First Finale",
-        "url": "https://open.spotify.com/album/1kda4McF274Jl5x3aOAmPJ"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 208097,
-      "name": "Smile Please",
-      "url": "https://open.spotify.com/track/1ICQvlzjWbQkVcjEsEsHc3"
-    },
-    {
-      "added_at": "2025-08-08 09:33:38",
-      "album": {
         "name": "W.E.L.F.A.R.E",
         "url": "https://open.spotify.com/album/0K7EdB3RJI0gUvy6US0hIB"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 168004,
       "name": "W.E.L.F.A.R.E",
       "url": "https://open.spotify.com/track/4NfabFAMEHaKVbPoG8xmQ2"
+    },
+    {
+      "added_at": "2025-08-08 09:33:38",
+      "album": {
+        "name": "Fulfillingness' First Finale",
+        "url": "https://open.spotify.com/album/1kda4McF274Jl5x3aOAmPJ"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 208097,
+      "name": "Smile Please",
+      "url": "https://open.spotify.com/track/1ICQvlzjWbQkVcjEsEsHc3"
     },
     {
       "added_at": "2025-08-08 09:33:38",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2025-08-08 09:33:38",
       "album": {
-        "name": "The Eugene Record",
-        "url": "https://open.spotify.com/album/0UoC8Ujy2OzF3L3Co30M8B"
-      },
-      "artists": [
-        {
-          "name": "Eugene Record",
-          "url": "https://open.spotify.com/artist/1EzKfWyQHxq5fzKoZpD9kM"
-        }
-      ],
-      "duration_ms": 257360,
-      "name": "Overdose of Joy",
-      "url": "https://open.spotify.com/track/0Ay7pwWStfH00fpQlEaLFM"
-    },
-    {
-      "added_at": "2025-08-08 09:33:38",
-      "album": {
         "name": "Loving on the Flipside",
         "url": "https://open.spotify.com/album/2PtqMUT1wupaBBZqnQmnzQ"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 208533,
       "name": "At the Hotel",
       "url": "https://open.spotify.com/track/4sjycYDj539aqcvb2jjDnj"
+    },
+    {
+      "added_at": "2025-08-08 09:33:38",
+      "album": {
+        "name": "The Eugene Record",
+        "url": "https://open.spotify.com/album/0UoC8Ujy2OzF3L3Co30M8B"
+      },
+      "artists": [
+        {
+          "name": "Eugene Record",
+          "url": "https://open.spotify.com/artist/1EzKfWyQHxq5fzKoZpD9kM"
+        }
+      ],
+      "duration_ms": 257360,
+      "name": "Overdose of Joy",
+      "url": "https://open.spotify.com/track/0Ay7pwWStfH00fpQlEaLFM"
     },
     {
       "added_at": "2025-08-08 09:33:38",
@@ -1512,7 +1512,7 @@
           "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
         }
       ],
-      "duration_ms": 644826,
+      "duration_ms": 645614,
       "name": "City of the Angels",
       "url": "https://open.spotify.com/track/7yokzOJMDlz8WdZz92j33G"
     },
@@ -2135,22 +2135,6 @@
     {
       "added_at": "2025-08-08 09:33:38",
       "album": {
-        "name": "Never My Love: The Anthology",
-        "url": "https://open.spotify.com/album/4kINvyMdIqyuXAtpoCKGIO"
-      },
-      "artists": [
-        {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
-        }
-      ],
-      "duration_ms": 230758,
-      "name": "I Believe to My Soul",
-      "url": "https://open.spotify.com/track/44mCqqpRD4QPn93kM2WGdE"
-    },
-    {
-      "added_at": "2025-08-08 09:33:38",
-      "album": {
         "name": "You're Not Alone b/w I'm Gonna Get Loaded",
         "url": "https://open.spotify.com/album/7vPaGFQmtxOh75R5waO8Xl"
       },
@@ -2163,6 +2147,22 @@
       "duration_ms": 277292,
       "name": "You're Not Alone",
       "url": "https://open.spotify.com/track/4BHS7gFJOU0nrt8XPpv7J8"
+    },
+    {
+      "added_at": "2025-08-08 09:33:38",
+      "album": {
+        "name": "Never My Love: The Anthology",
+        "url": "https://open.spotify.com/album/4kINvyMdIqyuXAtpoCKGIO"
+      },
+      "artists": [
+        {
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+        }
+      ],
+      "duration_ms": 230758,
+      "name": "I Believe to My Soul",
+      "url": "https://open.spotify.com/track/44mCqqpRD4QPn93kM2WGdE"
     },
     {
       "added_at": "2025-08-08 09:33:38",
@@ -2453,7 +2453,7 @@
         }
       ],
       "duration_ms": 226213,
-      "name": "Fantasy - Single Version",
+      "name": "Fantasy",
       "url": "https://open.spotify.com/track/3YcusdF0VAb25wLvmvJDJ6"
     },
     {

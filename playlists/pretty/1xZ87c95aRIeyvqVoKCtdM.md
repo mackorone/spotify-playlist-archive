@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1xZ87c95aRIeyvqVoKCtdM.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 326 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 326 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/1xZ87c95aRIeyvqVoKCtdM.md) - [plain]
 | 4 | [Honky Tonk Women \- Mono Version](https://open.spotify.com/track/3RZMzCvYsmJ0u2ioKTOsmJ) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Hot Rocks 1964\-1971](https://open.spotify.com/album/0aqZJlugIkTUWW1sa4BANp) | 2:59 |
 | 5 | [Everyday People](https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Stand](https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD) | 2:21 |
 | 6 | [Dizzy \(Rerecorded\)](https://open.spotify.com/track/2INKkAJCkQg6Iuu4X2QYfd) | [Tommy Roe](https://open.spotify.com/artist/7t4XHvWfj0XtEB8SNFeALw) | [The Essential Tommy Roe](https://open.spotify.com/album/7cwzJFH4huy5R2fszYeUiz) | 2:54 |
-| 7 | [Hot Fun in the Summertime \- Mono Single Master](https://open.spotify.com/track/4t6NQkpUmvpvLDCkl3XuwA) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Greatest Hits](https://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT) | 2:37 |
+| 7 | [Hot Fun in the Summertime \- Mono Single Master](https://open.spotify.com/track/4t6NQkpUmvpvLDCkl3XuwA) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Greatest Hits](https://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT) | 2:39 |
 | 8 | [\(It Looks Like\) I'll Never Fall In Love Again](https://open.spotify.com/track/5I0LjHnBauh4v2wA65hheV) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5) | [The Best Of Tom Jones 20th Century Masters The Millennium Collection](https://open.spotify.com/album/6TiIQSWfDgwQTg1aycqAsP) | 4:10 |
 | 9 | [Build Me Up Buttercup](https://open.spotify.com/track/3iwujDVtiJQwqbvjVS6LZV) | [The Foundations](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) | [The Very Best Of The Foundations](https://open.spotify.com/album/49uCKJBpnEGdZ7C2JDnkXx) | 3:00 |
 | 10 | [Crimson & Clover \- Single Version; Mono](https://open.spotify.com/track/1qTfHUVPsZTnrmvwQrAQdW) | [Tommy James & The Shondells](https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI) | [Crimson & Clover / Some Kind of Love](https://open.spotify.com/album/7D5t5lcmEzFyZcr8a1avmL) | 3:28 |

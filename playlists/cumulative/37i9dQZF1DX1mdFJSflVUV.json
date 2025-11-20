@@ -849,6 +849,24 @@
     },
     {
       "album": {
+        "name": "Extraterrestre",
+        "url": "https://open.spotify.com/album/5ai9UWw22PDwImiMWB39x7"
+      },
+      "artists": [
+        {
+          "name": "LUAS\u00d3",
+          "url": "https://open.spotify.com/artist/1KzX3Ca3tJTAcaj7bbWqM7"
+        }
+      ],
+      "date_added": "2025-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219810,
+      "name": "Extraterrestre",
+      "url": "https://open.spotify.com/track/1fS21qlEIAQQNLFLc0I6d2"
+    },
+    {
+      "album": {
         "name": "El Club de la Pelea I",
         "url": "https://open.spotify.com/album/639vWHd2vqM1rBYyxHOvA8"
       },
@@ -1183,7 +1201,7 @@
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 242733,
+      "duration_ms": 242721,
       "name": "Just Give Me a Reason (feat. Nate Ruess)",
       "url": "https://open.spotify.com/track/1mKXFLRA179hdOWQBwUk9e"
     },
@@ -1578,7 +1596,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 288066,
       "name": "Mentira",
       "url": "https://open.spotify.com/track/5Em7MA991Gn3yhheaul0CX"
@@ -2141,7 +2159,7 @@
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 224840,
+      "duration_ms": 224849,
       "name": "Rude",
       "url": "https://open.spotify.com/track/6RtPijgfPKROxEzTHNRiDp"
     },

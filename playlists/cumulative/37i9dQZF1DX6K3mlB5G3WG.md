@@ -4,7 +4,7 @@
 
 > Lewis Capaldi in cover + le migliori nuove uscite 🇮🇹 e 🌎!
 
-2,308 songs - 4 day 22 hr 22 min
+2,309 songs - 4 day 22 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1752,6 +1752,7 @@
 | [Senza](https://open.spotify.com/track/19QLsvaAdyzTaeGWL9b6fs) | [Renato Zero](https://open.spotify.com/artist/7i7EQonx0GrqoKiNQL4gFO) | [Senza](https://open.spotify.com/album/0VhqMUFybdntvG0TWZT7Cx) | 3:32 | 2025-09-12 | 2025-10-04 |
 | [Senza di te](https://open.spotify.com/track/5wF3bm0zaDTK3W4vI272xM) | [Ornella Vanoni](https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv) | [Senza di te](https://open.spotify.com/album/7xOEYAJk5RwHmPtLdez3db) | 3:13 | 2025-10-23 | 2025-11-14 |
 | [SENZA REGOLE](https://open.spotify.com/track/48457TAso8iLsuGweSjXLm) | [Carla Hero](https://open.spotify.com/artist/75zVVFZrepdsKuXaKDvJWu) | [SENZA REGOLE](https://open.spotify.com/album/1nXWQA1u94SLP0FJHyIhOj) | 2:10 | 2025-05-22 | 2025-06-20 |
+| [Senza se e senza ma \- BROOKLYN STUDIO, JOVA SESSION 25](https://open.spotify.com/track/7w8gx5kBSpKOolSYHykwau) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi), [Spanish Harlem Orchestra](https://open.spotify.com/artist/0I7U5I66P88nCaVVPkIz6x) | [NIUIORCHERUBINI \(BROOKLYN STUDIO, JOVA SESSION 25\)](https://open.spotify.com/album/71ydkx8VLeUKNxwcwImstY) | 5:16 | 2025-11-19 |  |
 | [Senza Stelle](https://open.spotify.com/track/6WyZIUaJ3gfEs3TCYAEK3n) | [ceneri](https://open.spotify.com/artist/1RpjdVVigmI1T1UW8gxXJz) | [Senza Stelle](https://open.spotify.com/album/2e7RzeKKHgTUHsUNxfQJBC) | 2:52 | 2024-09-19 | 2024-10-04 |
 | [senza te](https://open.spotify.com/track/6A4D5wJNi4NB2w2FTezJfh) | [Valerio Mazzei](https://open.spotify.com/artist/2gjd7UN8wYnqF8ZBKqxffi) | [senza te](https://open.spotify.com/album/54g19qvrqead1XxhNpujsV) | 2:19 | 2024-11-28 | 2025-01-03 |
 | [Senza Una Stupida Storia](https://open.spotify.com/track/0603pYalC545IuB3RgWXPf) | [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv) | [Senza Una Stupida Storia](https://open.spotify.com/album/11kvJ6rZcdyq1RNJXiKWVJ) | 2:59 | 2025-09-12 | 2025-10-10 |

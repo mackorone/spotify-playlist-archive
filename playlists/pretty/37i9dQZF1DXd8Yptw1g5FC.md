@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Dolu Kadehi Ters Tut ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,969 likes - 141 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,948 likes - 141 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 86 | [SERSERİLER](https://open.spotify.com/track/0eWDZvZgXavg5d5LbX07Q1) | [XELL!](https://open.spotify.com/artist/2XVQP06TqoWVUjOAOTYwsN), [seco](https://open.spotify.com/artist/6G4Kuk50ivifaF4TuH0WfQ) | [SERSERİLER](https://open.spotify.com/album/6N6Td1OGuShcezrtpzxg3K) | 2:48 |
 | 87 | [SBY](https://open.spotify.com/track/3qcPXq7TAj2Qnp0fTiha6P) | [Kuzgun](https://open.spotify.com/artist/7FAsXAWppvaVropv23MhoS) | [SBY](https://open.spotify.com/album/3mDgwS30LIWlq6nQJqtgOr) | 1:56 |
 | 88 | [Neler Geçmedi Ki](https://open.spotify.com/track/2dJVLLjcTwilgNxCUFzqR5) | [Safiye](https://open.spotify.com/artist/3J5L8phe7TP0vhoiXdJizP) | [Bi' Kalp Bi' Gitar](https://open.spotify.com/album/51GA2gy34uDYdUDwsdqjTE) | 2:53 |
-| 89 | [ARKADAN SİVİL BAĞRIYOR](https://open.spotify.com/track/57iL4TnrLOLFGXG3W1FsRI) | [Öge471](https://open.spotify.com/artist/0aS9UPqODEOPZaUT0cWYMw) | [ARKADAN SİVİL BAĞRIYOR](https://open.spotify.com/album/6akm2hlEIsx7eSsBWFSy4i) | 2:04 |
+| 89 | [ARKADAN SİVİL BAĞIRIYOR](https://open.spotify.com/track/57iL4TnrLOLFGXG3W1FsRI) | [Öge471](https://open.spotify.com/artist/0aS9UPqODEOPZaUT0cWYMw) | [ARKADAN SİVİL BAĞIRIYOR](https://open.spotify.com/album/6akm2hlEIsx7eSsBWFSy4i) | 2:04 |
 | 90 | [Kör Kuyu](https://open.spotify.com/track/6WyvRjmGNLS7pyBapFbITY) | [Duygu Soylu](https://open.spotify.com/artist/4rGbEwbyxCn54KVvV589AY) | [Kör Kuyu](https://open.spotify.com/album/4Nn7pbVFREVPlXJrU3oHmF) | 3:34 |
 | 91 | [Polaroid Platonik](https://open.spotify.com/track/4NACsoW3CxvtFiPDfy42J8) | [Hav Hav!](https://open.spotify.com/artist/26qC4fGKdFcnQGJpmoR5TQ) | [Polaroid Platonik](https://open.spotify.com/album/5ubUcLLvBLz2ApVHdc215t) | 3:45 |
 | 92 | [KÖPEKKEMİK](https://open.spotify.com/track/2WuJSQZBuMaMeFL0Gp0Djp) | [Tatar](https://open.spotify.com/artist/4sgO0wCfOL83DksdpREnOz) | [KÖPEKKEMİK](https://open.spotify.com/album/2minGdsS86sPQMKPZOvIKC) | 1:35 |

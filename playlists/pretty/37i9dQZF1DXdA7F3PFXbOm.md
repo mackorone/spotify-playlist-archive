@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdA7F3PFXbOm.md) - [plain]
 
 > what colour are you feeling right now?
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,970 likes - 85 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,971 likes - 85 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdA7F3PFXbOm.md) - [plain]
 | 37 | [Session 32](https://open.spotify.com/track/2ktg2oZDyFAX3iY1QNkXl5) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Session 32](https://open.spotify.com/album/1q6DMLVcuKBfYpfJ1KWtKh) | 1:38 |
 | 38 | [See the Patterns](https://open.spotify.com/track/54rKzUySpkE6LOoFniDc4e) | [nikhil](https://open.spotify.com/artist/21Nhs4mlXS9iS4wR1VV6Sp) | [See the Patterns](https://open.spotify.com/album/6OiXMsYRQaD0fCNwVEx6Xa) | 2:38 |
 | 39 | [Good For Me](https://open.spotify.com/track/6RjOj5et6KPeMSf56C2Djb) | [Farrah](https://open.spotify.com/artist/5R34Z27zVQ6Y04CBXvu8R7), [Idris Jones](https://open.spotify.com/artist/46qyLqPPSLO54RLTHMV2QC) | [Good For Me](https://open.spotify.com/album/0RE3saXRxak2QADPNpyFfQ) | 3:11 |
-| 40 | [Just Sayin/I Tried](https://open.spotify.com/track/2F4JaV4P4zajoAiUkHD36b) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Ego Death](https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q) | 6:53 |
+| 40 | [Just Sayin/I Tried](https://open.spotify.com/track/2F4JaV4P4zajoAiUkHD36b) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Ego Death](https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q) | 6:54 |
 | 41 | [Play Pretend](https://open.spotify.com/track/1vnqb52HFcKSrqsL2HRjM2) | [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Fortune Cookie](https://open.spotify.com/album/25hxrIRl5CcBV7nAoJFiW8) | 2:24 |
 | 42 | [Please](https://open.spotify.com/track/5ozpzvONlBPM02tapw1ue6) | [BOYY](https://open.spotify.com/artist/3TKwMNkY3pIOJssmsjhE0M), [Jordan Max](https://open.spotify.com/artist/7mJOpa0R9YYi7vTqMCBeJb) | [Please](https://open.spotify.com/album/2pRZiqyUIv3HdjRcf6jq9Y) | 3:23 |
 | 43 | [See You Again \(feat\. Kali Uchis\)](https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Flower Boy](https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o) | 3:00 |

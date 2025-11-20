@@ -661,6 +661,28 @@
     },
     {
       "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/1NEkjw7DnsLK3i6xtXohyE"
+      },
+      "artists": [
+        {
+          "name": "Pushing Pluto",
+          "url": "https://open.spotify.com/artist/0uTUjIAw0qQDX1thZoEQFQ"
+        },
+        {
+          "name": "Otonomi",
+          "url": "https://open.spotify.com/artist/1m6cQu7gwgCJ9trZ5cgoNV"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217938,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/3i6p5Xd3KUc6wVqE0oeWLp"
+    },
+    {
+      "album": {
         "name": "Mother of Time",
         "url": "https://open.spotify.com/album/5HaWf762zb0lF6udfxXp86"
       },

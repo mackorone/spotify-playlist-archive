@@ -70,7 +70,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 212491,
       "name": "D.I.A.A.",
       "url": "https://open.spotify.com/track/2br6kFxlzynYGelWXkNLt8"
@@ -221,6 +221,24 @@
     },
     {
       "album": {
+        "name": "Describe",
+        "url": "https://open.spotify.com/album/6MZlKkSCbG2A5HhmKpsAOI"
+      },
+      "artists": [
+        {
+          "name": "Hannah Jadagu",
+          "url": "https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193046,
+      "name": "Normal Today",
+      "url": "https://open.spotify.com/track/2VXzlbmIWTVQsKyQFnrJpT"
+    },
+    {
+      "album": {
         "name": "Normal Today",
         "url": "https://open.spotify.com/album/26q3rNHs0qM9khbGaiWTcd"
       },
@@ -232,7 +250,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 193046,
       "name": "Normal Today",
       "url": "https://open.spotify.com/track/31Nc6gzU9XQ2N424Ox8RDk"

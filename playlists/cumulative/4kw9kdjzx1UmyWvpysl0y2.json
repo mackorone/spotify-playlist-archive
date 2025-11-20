@@ -4833,6 +4833,28 @@
     },
     {
       "album": {
+        "name": "Devotion",
+        "url": "https://open.spotify.com/album/71sH8ZDzymxmy8N0xHbfRL"
+      },
+      "artists": [
+        {
+          "name": "[IVY]",
+          "url": "https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw"
+        },
+        {
+          "name": "Adalaide Adams",
+          "url": "https://open.spotify.com/artist/2DPd9FRFSPPDdESOqZvWoC"
+        }
+      ],
+      "date_added": "2025-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193793,
+      "name": "Devotion",
+      "url": "https://open.spotify.com/track/3pZiQdpk32YuxLSU3RTzD2"
+    },
+    {
+      "album": {
         "name": "Different",
         "url": "https://open.spotify.com/album/568K9K7mWXC3FDBcPKQfb5"
       },

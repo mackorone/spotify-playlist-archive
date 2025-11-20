@@ -1129,6 +1129,24 @@
     },
     {
       "album": {
+        "name": "Bluewave",
+        "url": "https://open.spotify.com/album/5lGeZbteqFXE9RZJqp2uMp"
+      },
+      "artists": [
+        {
+          "name": "Jeon",
+          "url": "https://open.spotify.com/artist/3ECsaSd1fom8coUUkkFzqt"
+        }
+      ],
+      "date_added": "2025-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Bluewave",
+      "url": "https://open.spotify.com/track/0g9lJhKQUdIWk987xQ66cn"
+    },
+    {
+      "album": {
         "name": "Boccaccio",
         "url": "https://open.spotify.com/album/5bwru8YsdUBycin4I75img"
       },
@@ -2480,7 +2498,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 192839,
       "name": "Don't Tread On Me",
       "url": "https://open.spotify.com/track/0iqx7tvdMSDpO5Ko187Rk0"
@@ -3645,6 +3663,28 @@
     },
     {
       "album": {
+        "name": "HACEL OBASI",
+        "url": "https://open.spotify.com/album/5sougZ2N287FczVGehi3Xh"
+      },
+      "artists": [
+        {
+          "name": "Sad\u0131k Nergis",
+          "url": "https://open.spotify.com/artist/0HqiqOuKC0hJW4f3kX2bij"
+        },
+        {
+          "name": "MIHRIBAN",
+          "url": "https://open.spotify.com/artist/1nthXFxKtpGTJJDdynjGos"
+        }
+      ],
+      "date_added": "2025-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217083,
+      "name": "HACEL OBASI",
+      "url": "https://open.spotify.com/track/4TPDmfmopnXyECu2mIXyEI"
+    },
+    {
+      "album": {
         "name": "Had Ik Maar",
         "url": "https://open.spotify.com/album/01MTXusD2NHp8Od7qQ46nm"
       },
@@ -3740,7 +3780,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-19",
+      "date_removed": null,
       "duration_ms": 162666,
       "name": "Helaas",
       "url": "https://open.spotify.com/track/0JzULZMvwyf00IMQmGFoS5"
@@ -4234,7 +4274,7 @@
       ],
       "date_added": "2025-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 223593,
       "name": "Hurts",
       "url": "https://open.spotify.com/track/6bKOQSAL8FMeu8qEdlBZNx"
@@ -4350,7 +4390,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 61037,
       "name": "I Run - Zara House",
       "url": "https://open.spotify.com/track/7xjndO8oFhdxINX7mK5pCb"
@@ -5210,7 +5250,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-12",
+      "date_removed": null,
       "duration_ms": 192092,
       "name": "Lekker Ding, Dit Is Je Verjaardag",
       "url": "https://open.spotify.com/track/6gnSMiZPMa0uEyn6nEfOH0"
@@ -5458,7 +5498,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 135638,
       "name": "Lovin Lovin",
       "url": "https://open.spotify.com/track/6jUijp6Ic3AyRBSV2CaWOt"
@@ -5938,7 +5978,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-19",
+      "date_removed": null,
       "duration_ms": 140560,
       "name": "Mimosa 2000",
       "url": "https://open.spotify.com/track/79bWkyd08EFDO0ZZuu7IRT"
@@ -5974,7 +6014,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 178590,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/38KJNdBS6QbT9v339vohwp"
@@ -6736,7 +6776,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 219000,
       "name": "Oeteldonk Met Jou",
       "url": "https://open.spotify.com/track/2Urevob1PzRlHazFLyCmaQ"
@@ -7040,6 +7080,28 @@
       "duration_ms": 109759,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf"
+    },
+    {
+      "album": {
+        "name": "De Leukste Liedjes",
+        "url": "https://open.spotify.com/album/3IO1XB07hDlh8b2TLHqJTL"
+      },
+      "artists": [
+        {
+          "name": "De Club van Sinterklaas",
+          "url": "https://open.spotify.com/artist/4GaAzGCRu6rYPmVDn3iEJ1"
+        },
+        {
+          "name": "Danspiet",
+          "url": "https://open.spotify.com/artist/36lZXGOgNG1Y4j8mZWpUHm"
+        }
+      ],
+      "date_added": "2025-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168690,
+      "name": "Pietengym",
+      "url": "https://open.spotify.com/track/1FV4Ls00sp3LqjBH1kNIzH"
     },
     {
       "album": {

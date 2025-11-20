@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : 45",
-  "num_followers": 65818,
+  "num_followers": 65825,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKcJr8QvxN8jmWAV4HuDItRgaKxL",
+  "snapshot_id": "AAAAAIv5T9msyV3sBRWKiLeK+Y5t3Z3y",
   "tracks": [
     {
       "added_at": "2025-11-03 10:55:48",
@@ -79,6 +79,26 @@
       "duration_ms": 193709,
       "name": "Alohomora - The True Emperor (From \"The Devil\")",
       "url": "https://open.spotify.com/track/4FNVECfp3tA1TwqmE6ImRJ"
+    },
+    {
+      "added_at": "2025-11-19 10:03:05",
+      "album": {
+        "name": "GST Theme Anthem (From \"GST - GhostS In Trouble\")",
+        "url": "https://open.spotify.com/album/24mBoFq2YgIs4Riha42q41"
+      },
+      "artists": [
+        {
+          "name": "Chandan Shetty",
+          "url": "https://open.spotify.com/artist/2b4BOEtTbGchL0K53fvpgk"
+        },
+        {
+          "name": "Vijay Eshwar",
+          "url": "https://open.spotify.com/artist/6c2Mv4SRDP0ftR8VuleaLP"
+        }
+      ],
+      "duration_ms": 175200,
+      "name": "GST Theme Anthem (From \"GST - GhostS In Trouble\")",
+      "url": "https://open.spotify.com/track/6tbunmc20MQVoTfey083sX"
     },
     {
       "added_at": "2025-11-16 14:45:01",
@@ -1851,30 +1871,6 @@
       "duration_ms": 112520,
       "name": "Mark Title Glimpse (From \"Mark\")",
       "url": "https://open.spotify.com/track/16Z2MHw9kXc9EWEevXpDIk"
-    },
-    {
-      "added_at": "2025-08-29 11:01:10",
-      "album": {
-        "name": "Yare Arere Nee Yare (From \"Kamal Sridevi\")",
-        "url": "https://open.spotify.com/album/6ZGUmy0GfrqeeN7ExAbHhS"
-      },
-      "artists": [
-        {
-          "name": "Keerthan",
-          "url": "https://open.spotify.com/artist/5H8D26FfTrf5bsAlVr4aQ5"
-        },
-        {
-          "name": "Vishak Nagalapura",
-          "url": "https://open.spotify.com/artist/6bfkyWyRl7vgkQlV0gy57S"
-        },
-        {
-          "name": "Pramod Maravanthe",
-          "url": "https://open.spotify.com/artist/2Rb3KxyRqgU3Wa8hGQaIIr"
-        }
-      ],
-      "duration_ms": 164508,
-      "name": "Yare Arere Nee Yare (From \"Kamal Sridevi\")",
-      "url": "https://open.spotify.com/track/2pUVUTtjMdTABiAtSWKyKX"
     }
   ],
   "unique_name": "Latest Kannada",

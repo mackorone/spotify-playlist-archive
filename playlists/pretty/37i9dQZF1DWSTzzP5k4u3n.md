@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 
 > Tällä listalla parasta tuoretta suomirockia\. Kannessa Johanna von Hertzen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,617 likes - 80 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,628 likes - 80 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Et oo enää mun rakas](https://open.spotify.com/track/3hGMl5Q6Tjm7GJMW3BBfCB) | [Johanna von Hertzen](https://open.spotify.com/artist/1vXWdiJwy9Lk0I4MKpRISB) | [Sun täytyy kuulla tää](https://open.spotify.com/album/341JsoGaFAbJkRl1Z8piE6) | 2:53 |
 | 2 | [Omenapuu](https://open.spotify.com/track/56fgpxzIDxkPmzseiGD6ZQ) | [Pihalla](https://open.spotify.com/artist/292JyZtx8shEK2YEacPHS5) | [Omenapuu](https://open.spotify.com/album/0ZMjpULlz8eUTsU23RSFGv) | 3:13 |
 | 3 | [Mitä naapuritkin ajattelis?](https://open.spotify.com/track/1ZlrXTRTFGdePWYgxBVQ2t) | [Olli Antonio](https://open.spotify.com/artist/5UzvBU2UU03rt1kSLGGZa9) | [Mitä naapuritkin ajattelis?](https://open.spotify.com/album/0NBuTZ1Nxhh9SWkiKN4TFM) | 2:36 |
-| 4 | [Loppuaikana](https://open.spotify.com/track/5lGpLp2RPTGIAuT835JbrK) | [Ismo Alanko](https://open.spotify.com/artist/6h03SuifBwUlydEkwrXVXF) | [Loppuaikana](https://open.spotify.com/album/4Wbjl6LuNdqroP97Nadsyx) | 3:14 |
-| 5 | [Jumalan hiljaisuus](https://open.spotify.com/track/4ln7rd2xQeLOoUpoTqwrQ8) | [Ursus Factory](https://open.spotify.com/artist/0Od2brltKfcyVsFOLmJqGA) | [Jumalan hiljaisuus](https://open.spotify.com/album/7D9p5fbuKnyakLWLl0V04A) | 3:17 |
-| 6 | [Viimeiseen virtaan](https://open.spotify.com/track/64OWl8gf1QdaaL3vfYA5zL) | [Antti Autio](https://open.spotify.com/artist/3KUc1iwMflU36B2qtCnt6n) | [Viimeiseen virtaan](https://open.spotify.com/album/5gYKu9hStjsaeWOXa39B6l) | 4:52 |
+| 4 | [Viimeiseen virtaan](https://open.spotify.com/track/64OWl8gf1QdaaL3vfYA5zL) | [Antti Autio](https://open.spotify.com/artist/3KUc1iwMflU36B2qtCnt6n) | [Viimeiseen virtaan](https://open.spotify.com/album/5gYKu9hStjsaeWOXa39B6l) | 4:52 |
+| 5 | [Loppuaikana](https://open.spotify.com/track/5lGpLp2RPTGIAuT835JbrK) | [Ismo Alanko](https://open.spotify.com/artist/6h03SuifBwUlydEkwrXVXF) | [Loppuaikana](https://open.spotify.com/album/4Wbjl6LuNdqroP97Nadsyx) | 3:14 |
+| 6 | [Jumalan hiljaisuus](https://open.spotify.com/track/4ln7rd2xQeLOoUpoTqwrQ8) | [Ursus Factory](https://open.spotify.com/artist/0Od2brltKfcyVsFOLmJqGA) | [Jumalan hiljaisuus](https://open.spotify.com/album/7D9p5fbuKnyakLWLl0V04A) | 3:17 |
 | 7 | [Ei vielä](https://open.spotify.com/track/1xyVk2IqrvRmSrnf44NEoQ) | [Pate Mustajärvi](https://open.spotify.com/artist/75Htm8Ro1hTU0sPemNONp1) | [Ei vielä](https://open.spotify.com/album/5vcZIYiuiHY8zoOIL0r8bi) | 3:15 |
 | 8 | [Sama pää kesät talvet](https://open.spotify.com/track/5tNBJDyXOwgUEmkfh5875g) | [Arppa](https://open.spotify.com/artist/7BLe6O1Q3UbUsAUh5x6wuv) | [Sama pää kesät talvet](https://open.spotify.com/album/7iU5j9gO2KaRlPGQMiwUYN) | 4:07 |
 | 9 | [Antaisin kai mitä vaan](https://open.spotify.com/track/0AK1wJhv8vXOBE5N8O91ph) | [Vesterinen Yhtyeineen](https://open.spotify.com/artist/5VqqouYMb1I1IZHzEGqkMh) | [Antaisin kai mitä vaan](https://open.spotify.com/album/4MyCJBMDANQX1qrwvqbTXz) | 3:08 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 | 79 | [Tilttiin](https://open.spotify.com/track/3xC2yYiPgrTdiltspGyzdS) | [Saa Kiljua](https://open.spotify.com/artist/1IEcL95T535T1IVAtXxWbP) | [Ihmisroska](https://open.spotify.com/album/6mvhRAOpWIwOKiaazXaCMJ) | 2:48 |
 | 80 | [Uni](https://open.spotify.com/track/528qaRmD1cLOMA0ZEjul1w) | [Taiminen](https://open.spotify.com/artist/55P4ZXc5mKxkhty6fqYPIx) | [Uni](https://open.spotify.com/album/7c8nunEbnOjtK6p5pRyXRJ) | 3:42 |
 
-Snapshot ID: `AAAAAA0JORCT7gNVQPwqhy1Cnnl0mDr/`
+Snapshot ID: `AAAAAORqxTt++UwtDwuiKWXehmcYA8ND`

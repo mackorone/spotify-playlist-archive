@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Megadeth
 
-[Spotify](https://open.spotify.com/user/spotify) - 777,535 likes - 99 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 777,573 likes - 99 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 63 | [The Rain](https://open.spotify.com/track/3RtSCXCcNzSaDjt0Ef0YZP) | [TX2](https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H) | [The Rain](https://open.spotify.com/album/4pbMYbZUfzhwRQ9feINFQL) | 2:41 |
 | 64 | [You Got This](https://open.spotify.com/track/5i220DkgLvh0TW1FpR0ugv) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [You Got This](https://open.spotify.com/album/4RLOgw937LloMOHDQpE2mW) | 3:37 |
 | 65 | [Got The Time](https://open.spotify.com/track/0cuT5kNhxJT4IQ1bR521zr) | [Korpiklaani](https://open.spotify.com/artist/521Yl3LUvD7G9dMRO4fpCy) | [Got The Time](https://open.spotify.com/album/0ZdAro7zVwHX1rwTN22EDz) | 2:31 |
-| 66 | [stupid boy](https://open.spotify.com/track/66Q9vN1dzAKrYch6t1esdu) | [Stain The Canvas](https://open.spotify.com/artist/567L1a4812VuMSRrbCqdo4), [As December Falls](https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX) | [stupid Boy](https://open.spotify.com/album/0knY2rZkZkGG51QbJ1PDFc) | 2:45 |
+| 66 | [stupid boy](https://open.spotify.com/track/66Q9vN1dzAKrYch6t1esdu) | [Stain The Canvas](https://open.spotify.com/artist/567L1a4812VuMSRrbCqdo4), [As December Falls](https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX) | [stupid boy](https://open.spotify.com/album/0knY2rZkZkGG51QbJ1PDFc) | 2:45 |
 | 67 | [cannibal world](https://open.spotify.com/track/6SVvL3zYnhTlYRQ60RXBQo) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [cannibal world](https://open.spotify.com/album/2y7bR5bg5nWwkK8FRA8fMm) | 4:29 |
 | 68 | [POSTMORTEM ANOMALIES](https://open.spotify.com/track/43uo4tgy8C1rDNGmJmwATm) | [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8), [PeelingFlesh](https://open.spotify.com/artist/40DbKvYvADTiks7hZIUPHG) | [POSTMORTEM ANOMALIES](https://open.spotify.com/album/4ZcALjg9LmEWU7I6d8B6xI) | 2:33 |
 | 69 | [Blow The Doors Off](https://open.spotify.com/track/4vCdCtrEs4G7pdgUPWZKUu) | [Manafest](https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL), [Duncan Sparks](https://open.spotify.com/artist/3g00xUM1brns2SMQ1Zud9L) | [Blow The Doors Off](https://open.spotify.com/album/5iRoIirvZwRZucEbTyXqLB) | 2:24 |

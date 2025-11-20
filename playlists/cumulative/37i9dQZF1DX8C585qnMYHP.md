@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Experimental](https://open.spotify.com/playlist/37i9dQZF1DX8C585qnMYHP)
 
-> The best new music by Experimental independent artists\. <a href="spotify:artist:2gSV6FsMxBBH01LLNgx6HU">Babau</a> on cover\. Artwork by Thami Nabil
+> The best new music by Experimental independent artists\. <a href="spotify:artist:2gSV6FsMxBBH01LLNgx6HU">Babau</a> on cover\. Artwork by Thami Nabil, photo by Stefania Zanetti
 
 2,118 songs - 6 day 20 hr 12 min
 

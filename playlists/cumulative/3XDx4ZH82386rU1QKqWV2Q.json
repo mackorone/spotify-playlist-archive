@@ -4158,7 +4158,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 81924,
       "name": "ESTA NOCHE",
       "url": "https://open.spotify.com/track/1hcTs55Do0dzfuXQvxr7bD"
@@ -7048,7 +7048,7 @@
       ],
       "date_added": "2025-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 138683,
       "name": "in your eyes",
       "url": "https://open.spotify.com/track/3bX08vmwAQrR295yzx60VJ"
@@ -7994,7 +7994,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 129600,
       "name": "Lethal Dose",
       "url": "https://open.spotify.com/track/6OelUtvXB8AFHwL2SRxMh8"
@@ -8390,7 +8390,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 99285,
       "name": "LOS VOLTAJE",
       "url": "https://open.spotify.com/track/4LkkRLP8pldQer1YRrHwkx"
@@ -9214,7 +9214,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 93387,
       "name": "miss you a little.",
       "url": "https://open.spotify.com/track/0mkdduwha3MzU7aqCN9PEE"
@@ -13977,6 +13977,24 @@
     },
     {
       "album": {
+        "name": "THE_BIG_TRIP",
+        "url": "https://open.spotify.com/album/5fJwIK2omIRULAM93wapMk"
+      },
+      "artists": [
+        {
+          "name": "Just A Gent",
+          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
+        }
+      ],
+      "date_added": "2025-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180423,
+      "name": "think2much",
+      "url": "https://open.spotify.com/track/7n2N2wBLB6GgihxbcFiODj"
+    },
+    {
+      "album": {
         "name": "THOMAS",
         "url": "https://open.spotify.com/album/6s28IiIJ7ElbJfTPn03D6Y"
       },
@@ -14207,6 +14225,28 @@
     },
     {
       "album": {
+        "name": "Transcendent",
+        "url": "https://open.spotify.com/album/0qr8bpDKKnZ9cnYYJ2Sm3f"
+      },
+      "artists": [
+        {
+          "name": "KRANEZ",
+          "url": "https://open.spotify.com/artist/66VfE1tRObLweW0u0vDMJo"
+        },
+        {
+          "name": "Kindred",
+          "url": "https://open.spotify.com/artist/401K7BRPwpumMzCLPInxaE"
+        }
+      ],
+      "date_added": "2025-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275200,
+      "name": "Transcendent",
+      "url": "https://open.spotify.com/track/2uFtSeFCgnaMAlSYDJJtDu"
+    },
+    {
+      "album": {
         "name": "(III)",
         "url": "https://open.spotify.com/album/1NIfkZIYVAO6vnfmFOilHc"
       },
@@ -14396,7 +14436,7 @@
       ],
       "date_added": "2025-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 135212,
       "name": "two",
       "url": "https://open.spotify.com/track/6DRZmJa38MaMNthwG3fCBD"
@@ -15012,7 +15052,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 159317,
       "name": "Welcome To The Cyborglipse",
       "url": "https://open.spotify.com/track/50EmaJwkbzivGMFjFVDQUG"

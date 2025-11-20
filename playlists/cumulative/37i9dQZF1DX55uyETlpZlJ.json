@@ -6363,6 +6363,32 @@
     },
     {
       "album": {
+        "name": "Mane Maathu Malenaadu (From \"Paatashaala\")",
+        "url": "https://open.spotify.com/album/1mg0NToCQHm12rwg3Mzj1G"
+      },
+      "artists": [
+        {
+          "name": "Vikas Vasishta",
+          "url": "https://open.spotify.com/artist/6IcmFfiYYoL5jTHo5xplm4"
+        },
+        {
+          "name": "Heddur Manjunath Shetty",
+          "url": "https://open.spotify.com/artist/0uSrGEfHp6EZgF0zkVLHQV"
+        },
+        {
+          "name": "Saanvi Shetty",
+          "url": "https://open.spotify.com/artist/5ZJ7NpYe0RokLEBiPWEDaX"
+        }
+      ],
+      "date_added": "2025-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198402,
+      "name": "Mane Maathu Malenaadu (From \"Paatashaala\")",
+      "url": "https://open.spotify.com/track/1Tnq7Ow5j1k8abTdzPsi6c"
+    },
+    {
+      "album": {
         "name": "MANIFEST",
         "url": "https://open.spotify.com/album/5FTnu7pgquZYRIIhDdf5Gq"
       },
@@ -8994,7 +9020,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 178505,
       "name": "Ninnallu",
       "url": "https://open.spotify.com/track/3Zx9hISruAC8bvHdeRP2Pw"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0Z8dYUrW0ZgdSMSVmlWlxR.md) - [plain]
 
 > The best TikTok Gym playlist\. Your new Release Radar\. Anime Hardstyle, AOT, anime phonk, tatli depression, zyzz, xqc, attack on titan, JCORE
 
-[ig @godmodearc](https://open.spotify.com/user/shihu) - 49,418 likes - 238 songs - 11 hr 40 min
+[ig @godmodearc](https://open.spotify.com/user/shihu) - 49,413 likes - 238 songs - 11 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -238,7 +238,7 @@ pretty - [cumulative](/playlists/cumulative/0Z8dYUrW0ZgdSMSVmlWlxR.md) - [plain]
 | 228 | [NONSTOP](https://open.spotify.com/track/16ZInEeviq9biHjpE8oLD5) | [DRYFTKYNG](https://open.spotify.com/artist/4jY4uOyAxQE8OnoUam1DsB) | [NONSTOP](https://open.spotify.com/album/1F4sQnDNeryAg0UnOUOEFU) | 1:48 |
 | 229 | [FURIOUS](https://open.spotify.com/track/7sgmFyhdVpce8HtpX3WFRD) | [Tokyomane](https://open.spotify.com/artist/2GaIPa6dUUQBlVNYeEF6PH), [VOLT VISION](https://open.spotify.com/artist/0D1RIHFWh132dnfTGIHF6K) | [FURIOUS](https://open.spotify.com/album/6d0lPqqkds65lGet7XzrNL) | 2:19 |
 | 230 | [Мультики](https://open.spotify.com/track/7e7lBaq3EwnluZZhb4ESPq) | [хрися](https://open.spotify.com/artist/6Dof6cDb6RZxXRyWWBxBGC), [СЭДДИ СЭД](https://open.spotify.com/artist/3m0Ik8jYAa9KYtKGtWeEXj) | [RAVE INSIDE](https://open.spotify.com/album/4ugsZCyccaXgrWcfoJ8qKi) | 2:21 |
-| 231 | [Can You Feel My Heart](https://open.spotify.com/track/0WSa1sucoNRcEeULlZVQXj) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Sempiternal \(Expanded Edition\)](https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz) | 3:48 |
+| 231 | [Can You Feel My Heart](https://open.spotify.com/track/0WSa1sucoNRcEeULlZVQXj) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Sempiternal \(Expanded Edition\)](https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz) | 3:47 |
 | 232 | [Shinda](https://open.spotify.com/track/6JiJBPdwmUvnMRLweuoCqr) | [Zetsubou P](https://open.spotify.com/artist/6gs8gPlO2SW3UyMiYQqaKs) | [Shinda](https://open.spotify.com/album/026pga8i2weRtrpgXpjOAI) | 3:13 |
 | 233 | [Man Of Action](https://open.spotify.com/track/6YPBEUoZDSk4ALVNK5wWu1) | [GridKiller](https://open.spotify.com/artist/7njBiH1Uy0qNA8VvPPtEG7) | [Man Of Action](https://open.spotify.com/album/1lBIS9yIWIZBYX328ia9Bu) | 3:21 |
 | 234 | [TAKE IT ALL](https://open.spotify.com/track/56STfx1pltVL8E0RfCQXOX) | [CURSEDEVIL](https://open.spotify.com/artist/6rzNFUmaEVnYb8kzh9tBTt), [NORTMIRAGE](https://open.spotify.com/artist/6UKFiJTIiMnkfIlPJ5XOfp) | [TAKE IT ALL](https://open.spotify.com/album/0IbRc1zUJbd27Vqq0kKxui) | 3:17 |

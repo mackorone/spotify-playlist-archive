@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WgZiuR77Ef.md) - [plain]
 
 > New funky songs with a classic funky sound\. Cover: Lettuce
 
-[Spotify](https://open.spotify.com/user/spotify) - 393,796 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 393,788 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [So Funky](https://open.spotify.com/track/5QT2nznaYjxScKUJb6zMbW) | [Donavon Frankenreiter](https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda) | [So Funky](https://open.spotify.com/album/1JYyeZzas3aHm7NYbVaw3h) | 2:57 |
-| 2 | [Is Anybody Out There?](https://open.spotify.com/track/1rBbyvA46Jxa6MCIQzgKA7) | [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT), [Myra Washington](https://open.spotify.com/artist/4ajqCfjC2IXQds6NlmKQVp), [Brother Nature](https://open.spotify.com/artist/3tmXdtreR3DBXX5TLv4kda) | [Is Anybody Out There?](https://open.spotify.com/album/3HILXvxiUdiBq7VftSQ82D) | 3:55 |
+| 2 | [Is Anybody Out There?](https://open.spotify.com/track/1rBbyvA46Jxa6MCIQzgKA7) | [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT), [Myra Washington](https://open.spotify.com/artist/4ajqCfjC2IXQds6NlmKQVp), [Brother Nature](https://open.spotify.com/artist/4Z58ErHHzUU4EkeNKK3z6f) | [Is Anybody Out There?](https://open.spotify.com/album/3HILXvxiUdiBq7VftSQ82D) | 3:55 |
 | 3 | [African Coast](https://open.spotify.com/track/4AI3JPhTdvyOyiptRTxIqh) | [Balkan Beat Box](https://open.spotify.com/artist/2rmMyZC0sUD1a3jkDxp7iY), [Trinidad James](https://open.spotify.com/artist/6YOLiKjOuABTlyQRiDCMV7) | [African Coast](https://open.spotify.com/album/0YTazTE52ZIaUKT4wCd8na) | 3:02 |
 | 4 | [Make it Fun\-K](https://open.spotify.com/track/7kyUjhRWTEFoGNYmRN4huV) | [George Clinton](https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA), [Randy Skinner](https://open.spotify.com/artist/6PlKzyG3XFbKG0ItNro1n8) | [Make it Fun\-K](https://open.spotify.com/album/5RGEXruQBr4cDnse4NoWhg) | 5:30 |
 | 5 | [Gotta Give The People](https://open.spotify.com/track/6qJKgF89AOJWqKmokRtiZT) | [Tomar and the FCs](https://open.spotify.com/artist/5dgZB4BAkUdo9RpM5C2nja) | [Gotta Give The People](https://open.spotify.com/album/3rsi82oCx8FRxKrtwQ3fB6) | 3:26 |

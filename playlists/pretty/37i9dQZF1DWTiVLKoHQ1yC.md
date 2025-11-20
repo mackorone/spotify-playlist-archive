@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 
 > Come alive with this progressive & melodic house selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,331 likes - 60 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,437 likes - 60 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 44 | [Diamonds \(Further Than I Ever Was\)](https://open.spotify.com/track/25Zv9R5lGEZIQkUtERSFeo) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [The Boxer Rebellion](https://open.spotify.com/artist/7DEseTqRODmSu3C7jxCHl5) | [Diamonds \(Further Than I Ever Was\)](https://open.spotify.com/album/2UpwdJFrDOlYt6Na23mIV6) | 4:56 |
 | 45 | [Feel This Way](https://open.spotify.com/track/6zJt25uKI95nvyjBptz8vv) | [MOTSA](https://open.spotify.com/artist/2fyuHXew1I5FJDAQdbCYXP), [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [James Grant](https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7) | [Feel This Way](https://open.spotify.com/album/7CVPXNero5fCaq9l14Wdwo) | 3:57 |
 | 46 | [Hold On](https://open.spotify.com/track/6PhDLktpvEInsEyJlStBdf) | [Rezident](https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc), [Von Boch](https://open.spotify.com/artist/7cR62TCmcorAdyny40NsP0), [Elissa Mielke](https://open.spotify.com/artist/0pu3ESGhCGupolNCwxDCOw) | [Hold On](https://open.spotify.com/album/4NaRLbBHxXA9nqPSwm7ELk) | 3:50 |
-| 47 | [i don't know what to say](https://open.spotify.com/track/71XhzO3pCZ96N1VgZeG1IX) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA), [Hana Fatur](https://open.spotify.com/artist/1KrrllH0xZ2LBhgcxNMidX) | [i don't know what to say](https://open.spotify.com/album/3OlfLLEPknBT26Imkjzcy5) | 3:29 |
+| 47 | [1973](https://open.spotify.com/track/3fCowMGKkshKs0iwAdxZBd) | [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh), [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau) | [1973](https://open.spotify.com/album/3WROI0h7GqcwLS3KlxAwxV) | 4:45 |
 | 48 | [Ride At Dawn](https://open.spotify.com/track/55Q7oDS8Y4e6dYyqZKax7d) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Zoë Johnston](https://open.spotify.com/artist/3dWyWwLvZWsWtXZHhmAiFL) | [Ride At Dawn](https://open.spotify.com/album/7DiasgKMXc817JWAUi1org) | 2:53 |
-| 49 | [1973](https://open.spotify.com/track/3fCowMGKkshKs0iwAdxZBd) | [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh), [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau) | [1973](https://open.spotify.com/album/3WROI0h7GqcwLS3KlxAwxV) | 4:45 |
+| 49 | [i don't know what to say](https://open.spotify.com/track/71XhzO3pCZ96N1VgZeG1IX) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA), [Hana Fatur](https://open.spotify.com/artist/1KrrllH0xZ2LBhgcxNMidX) | [i don't know what to say](https://open.spotify.com/album/3OlfLLEPknBT26Imkjzcy5) | 3:29 |
 | 50 | [Make Believe](https://open.spotify.com/track/1nEDMIR5oi1bLxzRnZgkGo) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Make Believe](https://open.spotify.com/album/5RxsBzZ4GDZ3khKSeKERdv) | 5:05 |
 | 51 | [If You're Here With Me](https://open.spotify.com/track/1gp4PEvDlABR6els2tgWdc) | [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr) | [If You're Here With Me](https://open.spotify.com/album/5uYuUtiS2gs7X2tVLGkz6M) | 3:28 |
 | 52 | [No Bad Vibes \(with Jayda G\)](https://open.spotify.com/track/4DK8lTWgFCZRcErLgHQXWl) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [KILIMANJARO](https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7), [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [No Bad Vibes \(with Jayda G\)](https://open.spotify.com/album/7m26pLm2a8SYagLBTD1I8W) | 2:42 |

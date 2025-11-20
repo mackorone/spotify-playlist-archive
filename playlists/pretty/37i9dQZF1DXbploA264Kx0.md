@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbploA264Kx0.md) - [plain]
 
 > Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Robot Swing
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,176 likes - 65 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,173 likes - 65 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbploA264Kx0.md) - [plain]
 | 57 | [BANDO](https://open.spotify.com/track/7kWgePJ550aDVw79A69L8a) | [A.F](https://open.spotify.com/artist/7fV3vqbqrK31dLIy3cDla9), [Dizzy Dizzo](https://open.spotify.com/artist/5rEuIFwgGGp7t4b3t8ShJw) | [B3NCH PART¥¥](https://open.spotify.com/album/2lmA4J4WhnAdeELSnFWg5V) | 3:17 |
 | 58 | [Broken World \- Netflix影集《回魂計》片尾曲](https://open.spotify.com/track/14F1jiXQWTgDhlA7l8j5mq) | [Shi Shi](https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi) | [Broken World \(Netflix影集《回魂計》片尾曲\)](https://open.spotify.com/album/6LpR4eq2qWiBP8dPSuWgQh) | 2:32 |
 | 59 | [In the End of the World \(I Love You\) \- A\_LIVE PASS Session](https://open.spotify.com/track/0QG8PkqzGxlcw4Ihrx28ag) | [I Mean Us](https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78) | [In the End of the World \(I Love You\) \[A\_LIVE PASS Session\]](https://open.spotify.com/album/0xGQgPCgXOejgPStzXkNE8) | 3:44 |
-| 60 | [Saturday Afternoon](https://open.spotify.com/track/3BdHVuoguj7lLHVocezemX) | [ASA Wu](https://open.spotify.com/artist/67BCocc3uSkXQlr5vm8cC1), [roe](https://open.spotify.com/artist/6ZgfyJzSGlummUBhUK1hxw) | [Saturday Afternoon](https://open.spotify.com/album/6ltaJPaXpvtB4klzcqGhKc) | 3:46 |
+| 60 | [Saturday Afternoon](https://open.spotify.com/track/3BdHVuoguj7lLHVocezemX) | [ASA Wu](https://open.spotify.com/artist/67BCocc3uSkXQlr5vm8cC1), [roe](https://open.spotify.com/artist/3qG6tSR0XvGQiLHNwRp62f) | [Saturday Afternoon](https://open.spotify.com/album/6ltaJPaXpvtB4klzcqGhKc) | 3:46 |
 | 61 | [幻覺 \(NRP\)](https://open.spotify.com/track/6lFMGi9Yo5h6maKTNaDO2N) | [PiA吳蓓雅](https://open.spotify.com/artist/1icD6XHYvJ381imDgXexLD), [Levii](https://open.spotify.com/artist/7tbJBCI0iwZEvOfjp8q1zZ) | [幻覺 \(NRP\)](https://open.spotify.com/album/0WTKA98lJhIQ5W7AeqfLbT) | 3:50 |
 | 62 | [We Talk To iPhone But Not Our Best Friend](https://open.spotify.com/track/3D4xcSrCguzXYb5BqPWq1Z) | [SoulFa 靈魂沙發](https://open.spotify.com/artist/2eJX9VONHesNkNhdVKuBTY) | [We Talk To iPhone But Not Our Best Friend](https://open.spotify.com/album/62b1b9z2OELU2sH8hwxIrj) | 2:49 |
 | 63 | [AXIS](https://open.spotify.com/track/5HHtUofAVLVozGHHsLdKPn) | [Motif Hive](https://open.spotify.com/artist/0TzZGtByDjlFroO4ZX5WnK) | [Phase](https://open.spotify.com/album/1ATYciCevArKyal1sENEtt) | 2:46 |

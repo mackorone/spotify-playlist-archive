@@ -226,7 +226,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-19",
+      "date_removed": null,
       "duration_ms": 222767,
       "name": "069",
       "url": "https://open.spotify.com/track/1B2s3CpX2PV0YN7DkLSQ4b"
@@ -248,7 +248,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 222767,
       "name": "069",
       "url": "https://open.spotify.com/track/6sJqXK6CX4upHkYUBe1qqA"
@@ -2174,7 +2174,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 154959,
       "name": "Aliento De La Marea",
       "url": "https://open.spotify.com/track/6VsIeu08Yf8N14FgINNU2r"
@@ -4967,6 +4967,24 @@
     },
     {
       "album": {
+        "name": "(un-finished)",
+        "url": "https://open.spotify.com/album/17jBfDZXFawVfn9kuAEeQU"
+      },
+      "artists": [
+        {
+          "name": "RHODES",
+          "url": "https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS"
+        }
+      ],
+      "date_added": "2025-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258653,
+      "name": "Be the Bird",
+      "url": "https://open.spotify.com/track/3GhuRKeD84RTnObrHnebq3"
+    },
+    {
+      "album": {
         "name": "Beanie",
         "url": "https://open.spotify.com/album/6ZEGxtC2UW02PF0TR4CsKh"
       },
@@ -6724,10 +6742,28 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 195528,
       "name": "Boom, Boom, Boom, Boom!! - The Dark Triad - HardTekk - Slowed Deluxe",
       "url": "https://open.spotify.com/track/6tFKnu9L5308vTH8NPlcSm"
+    },
+    {
+      "album": {
+        "name": "Boom, Boom, Boom, Boom!! - The Dark Triad (HardTekk \u2013 Slowed Deluxe)",
+        "url": "https://open.spotify.com/album/3aiYNuyXAKY61MLPHqmpjK"
+      },
+      "artists": [
+        {
+          "name": "TURBOLOVE",
+          "url": "https://open.spotify.com/artist/5AM07O6cUcxMFV4g29tlMq"
+        }
+      ],
+      "date_added": "2025-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195581,
+      "name": "Boom, Boom, Boom, Boom!! - The Dark Triad - HardTekk \u2013 Slowed Deluxe",
+      "url": "https://open.spotify.com/track/17dcRIOdB7U27p0JKuGG0j"
     },
     {
       "album": {
@@ -11908,7 +11944,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 192839,
       "name": "Don't Tread On Me",
       "url": "https://open.spotify.com/track/0iqx7tvdMSDpO5Ko187Rk0"
@@ -12626,7 +12662,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-17",
+      "date_removed": null,
       "duration_ms": 136791,
       "name": "du tust gut",
       "url": "https://open.spotify.com/track/6o3SDKyhafgyblwMkZouHF"
@@ -19156,6 +19192,24 @@
     {
       "album": {
         "name": "Heba Olan D\u00fcnler",
+        "url": "https://open.spotify.com/album/6umoQY72torhBJXtbHrv71"
+      },
+      "artists": [
+        {
+          "name": "666 Psycho Music",
+          "url": "https://open.spotify.com/artist/4530kVy7xmyszFIoWLwz3W"
+        }
+      ],
+      "date_added": "2025-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399408,
+      "name": "Heba Olan D\u00fcnler",
+      "url": "https://open.spotify.com/track/7BKu0WSv3sQiSfii07Ynha"
+    },
+    {
+      "album": {
+        "name": "Heba Olan D\u00fcnler",
         "url": "https://open.spotify.com/album/2ZQbVVz5V79uC8wyIyJgeQ"
       },
       "artists": [
@@ -19166,7 +19220,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 399468,
       "name": "Heba Olan D\u00fcnler",
       "url": "https://open.spotify.com/track/7szJ1bIJoOmLMfIB16rUV2"
@@ -21288,7 +21342,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 61037,
       "name": "I Run - Zara House",
       "url": "https://open.spotify.com/track/7xjndO8oFhdxINX7mK5pCb"
@@ -21476,7 +21530,7 @@
       ],
       "date_added": "2025-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 169959,
       "name": "I'm Not What Happened To Me",
       "url": "https://open.spotify.com/track/4WoXZHKkobhjGboBGItvgU"
@@ -22710,7 +22764,7 @@
       ],
       "date_added": "2025-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-19",
+      "date_removed": null,
       "duration_ms": 151573,
       "name": "IRIS OUT",
       "url": "https://open.spotify.com/track/59hVbgr8rfYkDbHfr8RcGI"
@@ -35744,7 +35798,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 197133,
       "name": "RADW",
       "url": "https://open.spotify.com/track/2LtD83L2gaZxvAqTaNw7EO"
@@ -35784,7 +35838,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-19",
+      "date_removed": null,
       "duration_ms": 219743,
       "name": "Raindance (feat. Tems)",
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
@@ -43430,7 +43484,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-19",
+      "date_removed": null,
       "duration_ms": 226073,
       "name": "The Fate of Ophelia",
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"

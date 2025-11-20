@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IuS2Zk3m9h.md) - [plain]
 
 > Sophisticated palates only\. Curated by: Auntie Nae
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,104 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,129 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IuS2Zk3m9h.md) - [plain]
 | 37 | [Lotus Flower Bomb \(feat\. Miguel\)](https://open.spotify.com/track/3MAgQuClHcAV8E9CbeBS6f) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Ambition](https://open.spotify.com/album/0jCVC8ndYYOooEY2YTO1l6) | 3:33 |
 | 38 | [Get Down On It](https://open.spotify.com/track/4Cv6ongCvJy9JfSkWVnb5D) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Something Special](https://open.spotify.com/album/1kNUVRC3LbnhjrBruBwvUN) | 4:53 |
 | 39 | [\(Not just\) Knee deep Funkadelic](https://open.spotify.com/track/4eNlzks3ZEwhtMnfMbHRhm) | [Tattoos](https://open.spotify.com/artist/6tJ3igDOEr1PfFYPCr1v6Q) | [\(Not just\) Knee deep Funkadelic](https://open.spotify.com/album/4fuJZzd83prslLteB2e6wa) | 5:06 |
-| 40 | [Unbreakable](https://open.spotify.com/track/5L9anTQJGLyRObYDYvLWdh) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Invincible](https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ) | 6:25 |
+| 40 | [Unbreakable](https://open.spotify.com/track/5L9anTQJGLyRObYDYvLWdh) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Invincible](https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ) | 6:26 |
 | 41 | [What's It Gonna Be?! \(feat\. Janet Jackson\)](https://open.spotify.com/track/0FpLfrOyHblbDlHUsrPN1N) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Extinction Level Event: The Final World Front](https://open.spotify.com/album/4zb4gmGzDYtlWMjmc1NZWW) | 5:24 |
 | 42 | [Bad Blood](https://open.spotify.com/track/4Iam3vZMJCMltFkK9mNruw) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [For All We Know](https://open.spotify.com/album/2BmceJHiy9RTyvaB1IU0P6) | 4:00 |
 | 43 | [Little Things](https://open.spotify.com/track/2HA4tNLIXY1dGvDVCLeslk) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [3](https://open.spotify.com/album/19TUU6Y9OEYm8W1zBYakWq) | 2:52 |

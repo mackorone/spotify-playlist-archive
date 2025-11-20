@@ -2,9 +2,9 @@
 
 ### [مصري جديد](https://open.spotify.com/playlist/37i9dQZF1DWXJnW46G73SM)
 
-> أحدث الأغاني المصرية هنا 🤩 الغلاف: روبي
+> أحدث الأغاني المصرية هنا 🤩 الغلاف: ويجز
 
-1,600 songs - 3 day 17 hr 14 min
+1,601 songs - 3 day 17 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -498,6 +498,7 @@
 | [Kaddaba](https://open.spotify.com/track/7u4NBr72w2sdoRcPmkI7FV) | [Hossam Habib](https://open.spotify.com/artist/0OWaQSefazXfg4aaiC0Veg) | [Kaddaba](https://open.spotify.com/album/7IrqCCWetOD7ilPwDbhFdx) | 4:35 | 2024-02-21 | 2024-05-09 |
 | [Kaddabeen](https://open.spotify.com/track/6RoiEYuRGOr7ZdjzaJtMta) | [Abu](https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML) | [Kaddabeen](https://open.spotify.com/album/3K6vwmVKtmeBbnpcBL69zt) | 3:24 | 2024-02-16 | 2024-04-26 |
 | [Kalam El Mama](https://open.spotify.com/track/08jIFdhzUO66JtHof7Y9jy) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Kalam El Mama](https://open.spotify.com/album/4fTWjBw5MeKbcdydCPvH1N) | 3:09 | 2024-02-01 | 2024-02-28 |
+| [Kalam Forsan \(feat\. Mohamed Mounir\)](https://open.spotify.com/track/5Jx6LbHo5VhJSsqRvQUIDH) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [Mohamed Mounir](https://open.spotify.com/artist/6hPNpOLunxxpXVwi696pYl) | [Kalam Forsan \(feat\. Mohamed Mounir\)](https://open.spotify.com/album/1Qp5YULtFOO9eRjBINHVex) | 3:36 | 2025-11-19 |  |
 | [Kalam Kobar](https://open.spotify.com/track/0bBNbNMZiU5WQ8Qe5y2peh) | [Mostafa Gad](https://open.spotify.com/artist/5ASLdjUfY4styIRJ5smXmB) | [Kalam Kobar](https://open.spotify.com/album/2z2gS7oXlrbVcnffgffTFU) | 2:32 | 2022-05-18 | 2022-08-21 |
 | [Kalam Mayenfa3sh A2olo](https://open.spotify.com/track/7kuz5o6qwofLKOGfT00iVB) | [Sine](https://open.spotify.com/artist/1MQryKKB1q19LauQsB4GzI), [SeLTa](https://open.spotify.com/artist/3bguvSKT0vGUlQ07zEyxfP) | [Kalam Mayenfa3sh A2olo](https://open.spotify.com/album/3jB8HZauYEBGXiZ4S5Pxj3) | 4:05 | 2025-04-10 | 2025-06-13 |
 | [Kalemt El Tabeb](https://open.spotify.com/track/0i6oaSNu8bXjokgLmuTPhz) | [Mostafa Rashad](https://open.spotify.com/artist/0Au8fj354nl5Ehc1tlSbcQ) | [Kalemt El Tabeb](https://open.spotify.com/album/2hYQ8KmuHSnVBoOJalPCl4) | 2:38 | 2024-02-01 | 2024-03-01 |
@@ -1162,7 +1163,7 @@
 | [برود ببرود](https://open.spotify.com/track/74slcsn6CwqPaHLEPb6g6R) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [برود ببرود](https://open.spotify.com/album/2NpIPlPZGiQV6t6uf6bSgv) | 3:47 | 2024-07-16 | 2024-08-16 |
 | [بستغرب](https://open.spotify.com/track/5wGoS3qpazTNnRJBW6f2Gm) | [Nesma Mahgoub](https://open.spotify.com/artist/68J05BuI8JQSdEwIyuBBVI) | [فولي بحبك](https://open.spotify.com/album/6fLSxoXaRADW2u60QptVNP) | 3:20 | 2024-07-25 | 2024-09-10 |
 | [بسهر](https://open.spotify.com/track/4HShpItnUKxkPLYvPmgV6n) | [404 Band](https://open.spotify.com/artist/0HpnFPEgkKeLBiQBzlxVOX) | [بسهر](https://open.spotify.com/album/36yZYdgm5el84Ai0fuiSBZ) | 2:29 | 2024-12-06 | 2025-01-03 |
-| [بشكرك](https://open.spotify.com/track/3A3el8szrcS0b8NatGShND) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [بشكرك](https://open.spotify.com/album/0bmvIRb1VLf9JGQuPlaWCo) | 4:08 | 2025-07-03 |  |
+| [بشكرك](https://open.spotify.com/track/3A3el8szrcS0b8NatGShND) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [بشكرك](https://open.spotify.com/album/0bmvIRb1VLf9JGQuPlaWCo) | 4:08 | 2025-07-03 | 2025-11-20 |
 | [بشوفك قصادي](https://open.spotify.com/track/7b564jClFSdlTwPAwcPKjc) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [بشوفك قصادي](https://open.spotify.com/album/13TRxBimbaRUC07aLO9shc) | 3:36 | 2025-04-10 | 2025-06-10 |
 | [بصالح نفسي](https://open.spotify.com/track/3W3udOMgfYRTS2EfmPMfDu) | [Aya Abd Elraoof](https://open.spotify.com/artist/0dBi3duADSBJGOAyrIzvrR) | [بصالح نفسي](https://open.spotify.com/album/6KrzcddHBf57iutFzHJLOB) | 4:11 | 2025-04-24 | 2025-06-20 |
 | [بطل يا بطل](https://open.spotify.com/track/7LjE8S8nbujtiktd9pVur9) | [Mido Gad](https://open.spotify.com/artist/6ZcugQ1o2uf7lkFEage28f) | [بطل يا بطل](https://open.spotify.com/album/4KsZrkBA3ysOgaHULylQjf) | 3:10 | 2025-03-04 | 2025-06-10 |

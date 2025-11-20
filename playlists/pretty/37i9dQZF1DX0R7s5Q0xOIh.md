@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0R7s5Q0xOIh.md) - [plain]
 
 > A playlist oficial do Carona Podpah, Original Spotify com o <a href="spotify:show:1GLSDdk9CDEwziGNIlnb8a">Podpah</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,229 likes - 357 songs - 1 day 16 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,228 likes - 357 songs - 1 day 16 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -156,7 +156,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0R7s5Q0xOIh.md) - [plain]
 | 146 | [gugu, bb](https://open.spotify.com/track/5UDBj8YNqryb0AwQJt9Tci) | [goshaaboy](https://open.spotify.com/artist/4T3fmyT9O6EqmCEN1T6pzc) | [gugu, bb](https://open.spotify.com/album/6SKzMcbmUOMQVcGXeqiTQ3) | 1:50 |
 | 147 | [Homem na Estrada](https://open.spotify.com/track/10CaXTAohMFQeFWZGfnGyC) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Raio X do Brasil](https://open.spotify.com/album/2QMZRtm35gtG3ZJs0yl9EM) | 8:41 |
 | 148 | [Preciso Me Encontrar](https://open.spotify.com/track/5AKrqJ7RiOCfCaaCuxxGk0) | [Cartola](https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN) | [Cartola \(1976\)](https://open.spotify.com/album/7x7UYZtatkx5fnqBOhmx1b) | 2:58 |
-| 149 | [You Are Not Alone](https://open.spotify.com/track/3AoeaZs8dFemFJr3JdzOL0) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [HIStory \- PAST, PRESENT AND FUTURE \- BOOK I](https://open.spotify.com/album/3OBhnTLrvkoEEETjFA3Qfk) | 5:45 |
+| 149 | [You Are Not Alone](https://open.spotify.com/track/3AoeaZs8dFemFJr3JdzOL0) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [HIStory \- PAST, PRESENT AND FUTURE \- BOOK I](https://open.spotify.com/album/3OBhnTLrvkoEEETjFA3Qfk) | 5:44 |
 | 150 | [THAYNARA OG \- Carona Podpah \#16](https://open.spotify.com/episode/1KsUKEVPlLzJiNkDXeSYwo) | [Podpah](https://open.spotify.com/show/1GLSDdk9CDEwziGNIlnb8a) | [Podpah](https://open.spotify.com/album/1GLSDdk9CDEwziGNIlnb8a) | 42:58 |
 | 151 | [Pau Que Nasce Torto / Melo Do Tchan \- Medley](https://open.spotify.com/track/5PkTujqwUcpoiH20ysOjS3) | [É O Tchan](https://open.spotify.com/artist/78oxdhJ0pr4Dkyk0paWUAf) | [10 Anos De É O Tchan](https://open.spotify.com/album/4OtX33TMxROGwJuoxnkXIP) | 3:55 |
 | 152 | [Sabão Cra\-Cra \(The Mad Ku\-Ku\)](https://open.spotify.com/track/7EMn7sbRTu4b4f2Cuc0UKC) | [Mamonas Assassinas](https://open.spotify.com/artist/5Q9RKJrjHdfpWVxzv45XTJ) | [Mamonas Assassinas](https://open.spotify.com/album/5Bt5FYi2uicM6ryvNqKUzI) | 0:42 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AT3JQY6jMQ.md) - [plain]
 
 > Great songs by Australian music legends.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,194 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,208 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AT3JQY6jMQ.md) - [plain]
 | 33 | [Eagle Rock \- 2011 Remaster](https://open.spotify.com/track/2nCXuFS4Dt4BpHkxA9rhPL) | [Daddy Cool](https://open.spotify.com/artist/5ht2HGrvbN9eDWJarHsou6) | [Daddy Who? Daddy Cool \(40th Anniversary Edition\)](https://open.spotify.com/album/4ZejRTERcKwWr0bc8CslGV) | 4:10 |
 | 34 | [Throw Your Arms Around Me](https://open.spotify.com/track/3T0ggmh35mdaTCXT2c0wkb) | [Hunters & Collectors](https://open.spotify.com/artist/7udwYystFcvYziV36ZIwuh) | [Human Frailty](https://open.spotify.com/album/39EJWDJI8959h6aMZkZ5pS) | 3:53 |
 | 35 | [Love Is in the Air](https://open.spotify.com/track/5v5ZRfxlraJIihJZ32qHCi) | [John Paul Young](https://open.spotify.com/artist/2wMcQIxzH2LYHJZNxo9FcN) | [I Hate The Music](https://open.spotify.com/album/7mlUU9HMrYxjEIZc8sN5Pb) | 3:30 |
-| 36 | [It's a Long Way to the Top \(If You Wanna Rock 'N' Roll\)](https://open.spotify.com/track/7nemcVsXVFZF01iqpIIo2Y) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [High Voltage](https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq) | 5:01 |
+| 36 | [It's a Long Way to the Top \(If You Wanna Rock 'N' Roll\)](https://open.spotify.com/track/7nemcVsXVFZF01iqpIIo2Y) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [High Voltage](https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq) | 5:02 |
 | 37 | [Tip Of My Tongue](https://open.spotify.com/track/40HMJnJtC3p2R8GfjeGuJb) | [Diesel](https://open.spotify.com/artist/4rCLXPaqaUjGa1aHDwkviR) | [Rewind: The Best Of](https://open.spotify.com/album/0DpXZUUfBkgiXadzf3l0Jp) | 4:12 |
 | 38 | [Tucker's Daughter](https://open.spotify.com/track/2zaUUlQqyUUP0fehfvLuHz) | [Ian Moss](https://open.spotify.com/artist/4RMdsc21y0aET1OCm32h1u) | [Matchbook](https://open.spotify.com/album/2Pp2u2e1UeWgIeyimPVsxD) | 4:34 |
 | 39 | [Accidently Kelly Street](https://open.spotify.com/track/6Tgjsd4bD8eb74HOTCr6LC) | [Frente!](https://open.spotify.com/artist/2qgHV12WsnwzHZGUB9nd9U) | [Marvin The Album](https://open.spotify.com/album/1ir0cVK6b0TzZgYfgsY6SE) | 3:21 |

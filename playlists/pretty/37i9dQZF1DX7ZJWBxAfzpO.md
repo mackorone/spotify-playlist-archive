@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZJWBxAfzpO.md) - [plain]
 
 > Fresh voices, bold stories — mga podcast na dapat nasa Radar mo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 9 likes - 10 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 9 likes - 10 songs - 8 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ep\. 3: Barbie Almalbis: How a rockstar was deceived by the world and her learnings from the past ](https://open.spotify.com/episode/0WlI3kkXR0nTVycHRtm0Z2) | [Ano Ba Talaga? With Kuya Kim](https://open.spotify.com/show/2ZIHtlygVXBe3ewghhWoeK) | [Ano Ba Talaga? With Kuya Kim](https://open.spotify.com/album/2ZIHtlygVXBe3ewghhWoeK) | 39:54 |
-| 2 | [EP 33: In Aid of Money Talk: Nakakaganda ba ang Pera? ](https://open.spotify.com/episode/4RypV2u1lczA4895UN71zo) | [Your Honor](https://open.spotify.com/show/7bEK6TTHX84bfZuDy6GXSy) | [Your Honor](https://open.spotify.com/album/7bEK6TTHX84bfZuDy6GXSy) | 43:34 |
-| 3 | [DAGOK TIME \- ISTURII EPISODE 20](https://open.spotify.com/episode/26FJcOIDv6E21xwCqZ0Qog) | [DAGOK TIME!](https://open.spotify.com/show/0lAfs5tpnJwfAcX5M0cYXo) | [DAGOK TIME!](https://open.spotify.com/album/0lAfs5tpnJwfAcX5M0cYXo) | 42:18 |
-| 4 | [K's Drama S3E12: I Got It From My Mama: Through The Years with Zsa Zsa Padilla](https://open.spotify.com/episode/0VxzNxWYntQHCUuEpCePZE) | [K's Drama](https://open.spotify.com/show/71lx8xSpslbjlYJGVCoieI) | [K's Drama](https://open.spotify.com/album/71lx8xSpslbjlYJGVCoieI) | 32:25 |
-| 5 | [things i learned from being chronically online](https://open.spotify.com/episode/5UIuVrdNMPiHcNy79wm5JG) | [yani’s room](https://open.spotify.com/show/4X9zEtsaAuEvicwvj2MGFD) | [yani’s room](https://open.spotify.com/album/4X9zEtsaAuEvicwvj2MGFD) | 1:06:02 |
-| 6 | [ Ep\. 9: Runnerist era na! Kasali ka? Kilalanin si Coach Rio de la Cruz](https://open.spotify.com/episode/41n3ekt1nApRLl3YcPaDNJ) | [Ano Ba Talaga? With Kuya Kim](https://open.spotify.com/show/2ZIHtlygVXBe3ewghhWoeK) | [Ano Ba Talaga? With Kuya Kim](https://open.spotify.com/album/2ZIHtlygVXBe3ewghhWoeK) | 51:18 |
-| 7 | [EP 28:In Aid of Moving On: Hugot ng mga Brokenhearted](https://open.spotify.com/episode/1OZLhzMtSfm80PAnQKPw4z) | [Your Honor](https://open.spotify.com/show/7bEK6TTHX84bfZuDy6GXSy) | [Your Honor](https://open.spotify.com/album/7bEK6TTHX84bfZuDy6GXSy) | 49:02 |
-| 8 | [DAGOK TIME \- ISTURII EPISODE 13](https://open.spotify.com/episode/2foQ3sqivZTviWe41Qmpcb) | [DAGOK TIME!](https://open.spotify.com/show/0lAfs5tpnJwfAcX5M0cYXo) | [DAGOK TIME!](https://open.spotify.com/album/0lAfs5tpnJwfAcX5M0cYXo) | 44:01 |
-| 9 | [K's Drama S3E25: Becoming a Better Filipino with Kulas \(And His Netflix Docu!\)](https://open.spotify.com/episode/4te1uD7QT9ihDIzmXYS2sD) | [K's Drama](https://open.spotify.com/show/71lx8xSpslbjlYJGVCoieI) | [K's Drama](https://open.spotify.com/album/71lx8xSpslbjlYJGVCoieI) | 19:32 |
-| 10 | [basic bitch reviews EXPLAINED?](https://open.spotify.com/episode/4DnmnfCDlK23YhlyKuuIzm) | [yani’s room](https://open.spotify.com/show/4X9zEtsaAuEvicwvj2MGFD) | [yani’s room](https://open.spotify.com/album/4X9zEtsaAuEvicwvj2MGFD) | 32:17 |
+| 1 | [Ep\. 24: These Chicks 2 Go are here 2 stay! ](https://open.spotify.com/episode/4sv3FgrGGLJWpivX8XHZDV) | [Ano Ba Talaga? With Kuya Kim](https://open.spotify.com/show/2ZIHtlygVXBe3ewghhWoeK) | [Ano Ba Talaga? With Kuya Kim](https://open.spotify.com/album/2ZIHtlygVXBe3ewghhWoeK) | 1:01:31 |
+| 2 | [K's Drama S3E7: Mano po, Lolos! feat\. The Cast & Director of QUEZON!](https://open.spotify.com/episode/2KDbl9eOQmOHTXl4k3SnhD) | [K's Drama](https://open.spotify.com/show/71lx8xSpslbjlYJGVCoieI) | [K's Drama](https://open.spotify.com/album/71lx8xSpslbjlYJGVCoieI) | 38:33 |
+| 3 | [DAGOK TIME \- ISTURII EPISODE 40](https://open.spotify.com/episode/2CgIPDNjoTUNg2mC7ljmZw) | [DAGOK TIME!](https://open.spotify.com/show/0lAfs5tpnJwfAcX5M0cYXo) | [DAGOK TIME!](https://open.spotify.com/album/0lAfs5tpnJwfAcX5M0cYXo) | 36:49 |
+| 4 | [EP 43: In Aid of Main Character: Mga Kontrabidang Bida\-bida \(with guest Baus Rufo\)](https://open.spotify.com/episode/55vVpvfQEFcaixOTkYC2Dc) | [Your Honor](https://open.spotify.com/show/7bEK6TTHX84bfZuDy6GXSy) | [Your Honor](https://open.spotify.com/album/7bEK6TTHX84bfZuDy6GXSy) | 50:31 |
+| 5 | [average nicole listening experience](https://open.spotify.com/episode/1S0q1zjaYLNP3QQRWei9kn) | [yani’s room](https://open.spotify.com/show/4X9zEtsaAuEvicwvj2MGFD) | [yani’s room](https://open.spotify.com/album/4X9zEtsaAuEvicwvj2MGFD) | 1:37:06 |
+| 6 | [Ep\. 19: Si Abi Marquez AKA Lumpia Queen is the Lea Salonga of Pinoy cooking content\. Paano niya na collab si Gordon Ramsey, Nigel Chen, ATBP?](https://open.spotify.com/episode/2ohVYaO19QU3KjxUAT2yk0) | [Ano Ba Talaga? With Kuya Kim](https://open.spotify.com/show/2ZIHtlygVXBe3ewghhWoeK) | [Ano Ba Talaga? With Kuya Kim](https://open.spotify.com/album/2ZIHtlygVXBe3ewghhWoeK) | 49:29 |
+| 7 | [K's Drama S3E3: The Healing Power of Books with Korean Author Hwang Bo\-reum](https://open.spotify.com/episode/1JBrij9U2Q6Z2OfNqXRfs0) | [K's Drama](https://open.spotify.com/show/71lx8xSpslbjlYJGVCoieI) | [K's Drama](https://open.spotify.com/album/71lx8xSpslbjlYJGVCoieI) | 28:04 |
+| 8 | [DAGOK TIME \- ISTURII EPISODE 37](https://open.spotify.com/episode/0fzFGvTcGKmMxXvJDBuWeO) | [DAGOK TIME!](https://open.spotify.com/show/0lAfs5tpnJwfAcX5M0cYXo) | [DAGOK TIME!](https://open.spotify.com/album/0lAfs5tpnJwfAcX5M0cYXo) | 50:23 |
+| 9 | [EP 42: In Aid of Alien: Ang Dating Doon Reunion \(with guests Caesar Cosme, Isko Salvador, & Chito Francisco\)](https://open.spotify.com/episode/2CWsnRRmVsifOTIU3Gnkno) | [Your Honor](https://open.spotify.com/show/7bEK6TTHX84bfZuDy6GXSy) | [Your Honor](https://open.spotify.com/album/7bEK6TTHX84bfZuDy6GXSy) | 48:17 |
+| 10 | [Gabi Ng What Ifs?](https://open.spotify.com/episode/6UYWoXHyS6G9G1huJWr811) | [yani’s room](https://open.spotify.com/show/4X9zEtsaAuEvicwvj2MGFD) | [yani’s room](https://open.spotify.com/album/4X9zEtsaAuEvicwvj2MGFD) | 55:43 |
 
-Snapshot ID: `AAAAAEgOOVax+bclH4B0NEDabMNkU+2H`
+Snapshot ID: `AAAAAGUztP9mwvpXXeaLzNq2mEm6U4Sg`

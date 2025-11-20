@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Hasta las 15! Monster merengue hits! Cover: Ryan Castro & Manuel Turizo",
-  "num_followers": 399333,
+  "num_followers": 399317,
   "original_name": "Merengue Mania",
   "owner": {
     "name": "Spotify",
@@ -83,6 +83,22 @@
     {
       "added_at": "2025-10-14 14:45:32",
       "album": {
+        "name": "In Da House",
+        "url": "https://open.spotify.com/album/6AbWKVD3idhjdTxk7BQtKe"
+      },
+      "artists": [
+        {
+          "name": "Proyecto Uno",
+          "url": "https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu"
+        }
+      ],
+      "duration_ms": 303106,
+      "name": "Tiburon",
+      "url": "https://open.spotify.com/track/2GcjfckZexh9wRRjg9KtQG"
+    },
+    {
+      "added_at": "2025-10-14 14:45:32",
+      "album": {
         "name": "PB.DB. The Mixtape",
         "url": "https://open.spotify.com/album/6aAnALBukLj6fVuwfnMkvc"
       },
@@ -99,22 +115,6 @@
       "duration_ms": 224786,
       "name": "La Temperatura (feat. Eli Palacios)",
       "url": "https://open.spotify.com/track/03f28Kmu5AlIdKAfEJiI8F"
-    },
-    {
-      "added_at": "2025-10-14 14:45:32",
-      "album": {
-        "name": "In Da House",
-        "url": "https://open.spotify.com/album/6AbWKVD3idhjdTxk7BQtKe"
-      },
-      "artists": [
-        {
-          "name": "Proyecto Uno",
-          "url": "https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu"
-        }
-      ],
-      "duration_ms": 303106,
-      "name": "Tiburon",
-      "url": "https://open.spotify.com/track/2GcjfckZexh9wRRjg9KtQG"
     },
     {
       "added_at": "2025-10-14 14:45:32",
@@ -427,22 +427,6 @@
     {
       "added_at": "2025-10-14 14:45:32",
       "album": {
-        "name": "Enhorabuena",
-        "url": "https://open.spotify.com/album/1p2JgxJxYfju0cSvAnfuPo"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 168459,
-      "name": "Enhorabuena",
-      "url": "https://open.spotify.com/track/6Js2Fy0gdSAkpD780TYJGu"
-    },
-    {
-      "added_at": "2025-10-14 14:45:32",
-      "album": {
         "name": "Rebotando",
         "url": "https://open.spotify.com/album/5aAR4JhNb2bA0r6uPHlhYz"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 263493,
       "name": "El Taqui Taqui - Original Mix",
       "url": "https://open.spotify.com/track/20jvgYvnqySWnNCsHQZnXk"
+    },
+    {
+      "added_at": "2025-10-14 14:45:32",
+      "album": {
+        "name": "Enhorabuena",
+        "url": "https://open.spotify.com/album/1p2JgxJxYfju0cSvAnfuPo"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 168459,
+      "name": "Enhorabuena",
+      "url": "https://open.spotify.com/track/6Js2Fy0gdSAkpD780TYJGu"
     },
     {
       "added_at": "2025-10-14 14:45:32",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2025-10-14 14:45:32",
       "album": {
-        "name": "VEN B\u00c1ILALO",
-        "url": "https://open.spotify.com/album/4QXttgkD5d2BoBY6P1RmPo"
-      },
-      "artists": [
-        {
-          "name": "Grupo Bip",
-          "url": "https://open.spotify.com/artist/3mNrdPWEavOdOa3PEnU6RC"
-        }
-      ],
-      "duration_ms": 216586,
-      "name": "VEN B\u00c1ILALO",
-      "url": "https://open.spotify.com/track/0gdKOAU9XYruhOndmI1ThO"
-    },
-    {
-      "added_at": "2025-10-14 14:45:32",
-      "album": {
         "name": "Juntos",
         "url": "https://open.spotify.com/album/6yq4tvlzSBaHvdsb8dPg2X"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 277946,
       "name": "Ni Tu Ni Yo",
       "url": "https://open.spotify.com/track/77cE5knaNTdMi3xwD4qpBv"
+    },
+    {
+      "added_at": "2025-10-14 14:45:32",
+      "album": {
+        "name": "VEN B\u00c1ILALO",
+        "url": "https://open.spotify.com/album/4QXttgkD5d2BoBY6P1RmPo"
+      },
+      "artists": [
+        {
+          "name": "Grupo Bip",
+          "url": "https://open.spotify.com/artist/3mNrdPWEavOdOa3PEnU6RC"
+        }
+      ],
+      "duration_ms": 216586,
+      "name": "VEN B\u00c1ILALO",
+      "url": "https://open.spotify.com/track/0gdKOAU9XYruhOndmI1ThO"
     },
     {
       "added_at": "2025-10-14 14:45:32",
@@ -1591,6 +1591,38 @@
     {
       "added_at": "2025-10-14 14:45:32",
       "album": {
+        "name": "La Hora De La Verdad",
+        "url": "https://open.spotify.com/album/2SaHN3k5arjkBxbT7KbGnB"
+      },
+      "artists": [
+        {
+          "name": "Grupo Mania",
+          "url": "https://open.spotify.com/artist/2RqhDUsFkCJbhHntsnCVqp"
+        }
+      ],
+      "duration_ms": 234426,
+      "name": "Sandunga",
+      "url": "https://open.spotify.com/track/3bTFEwpUW0KrFFWxzdy9CC"
+    },
+    {
+      "added_at": "2025-10-14 14:45:32",
+      "album": {
+        "name": "Juntos",
+        "url": "https://open.spotify.com/album/6yq4tvlzSBaHvdsb8dPg2X"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vargas",
+          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
+        }
+      ],
+      "duration_ms": 302213,
+      "name": "Dile",
+      "url": "https://open.spotify.com/track/1pGgGsZLPNPwVAMZgi0cpL"
+    },
+    {
+      "added_at": "2025-10-14 14:45:32",
+      "album": {
         "name": "Agua pa las flores",
         "url": "https://open.spotify.com/album/3mcFoaCh162OmUQYXolsmR"
       },
@@ -1623,38 +1655,6 @@
     {
       "added_at": "2025-10-14 14:45:32",
       "album": {
-        "name": "Juntos",
-        "url": "https://open.spotify.com/album/6yq4tvlzSBaHvdsb8dPg2X"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vargas",
-          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
-        }
-      ],
-      "duration_ms": 302213,
-      "name": "Dile",
-      "url": "https://open.spotify.com/track/1pGgGsZLPNPwVAMZgi0cpL"
-    },
-    {
-      "added_at": "2025-10-14 14:45:32",
-      "album": {
-        "name": "La Hora De La Verdad",
-        "url": "https://open.spotify.com/album/2SaHN3k5arjkBxbT7KbGnB"
-      },
-      "artists": [
-        {
-          "name": "Grupo Mania",
-          "url": "https://open.spotify.com/artist/2RqhDUsFkCJbhHntsnCVqp"
-        }
-      ],
-      "duration_ms": 234426,
-      "name": "Sandunga",
-      "url": "https://open.spotify.com/track/3bTFEwpUW0KrFFWxzdy9CC"
-    },
-    {
-      "added_at": "2025-10-14 14:45:32",
-      "album": {
         "name": "Luquillo",
         "url": "https://open.spotify.com/album/0qM3TxO18AQrLuAryc4cYn"
       },
@@ -1671,6 +1671,38 @@
       "duration_ms": 151829,
       "name": "Luquillo",
       "url": "https://open.spotify.com/track/3G06OfTDhREomvTNDCVzOZ"
+    },
+    {
+      "added_at": "2025-10-14 14:45:32",
+      "album": {
+        "name": "Re-Haciendo La Historia-Los Exitos!",
+        "url": "https://open.spotify.com/album/1AH3TAK0XmmgekWQ5eWK5a"
+      },
+      "artists": [
+        {
+          "name": "Grupo Mania",
+          "url": "https://open.spotify.com/artist/2RqhDUsFkCJbhHntsnCVqp"
+        }
+      ],
+      "duration_ms": 297773,
+      "name": "Me Miras Y Te Miro",
+      "url": "https://open.spotify.com/track/0dNiTVbjCqIDPzCcHS5ZbS"
+    },
+    {
+      "added_at": "2025-10-14 14:45:32",
+      "album": {
+        "name": "Lo Mejor de Lo Mejor - Tropical",
+        "url": "https://open.spotify.com/album/7Mvvbvm1ALm9bO9dEn7C3i"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vargas",
+          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
+        }
+      ],
+      "duration_ms": 286026,
+      "name": "La Ventanita",
+      "url": "https://open.spotify.com/track/36QUTKmqStL4Ye8s9xeTlc"
     },
     {
       "added_at": "2025-10-14 14:45:32",
@@ -1703,38 +1735,6 @@
       "duration_ms": 216000,
       "name": "Como Los Rayos Del Sol",
       "url": "https://open.spotify.com/track/3lJX0mmL2kyPER1LMx6jmL"
-    },
-    {
-      "added_at": "2025-10-14 14:45:32",
-      "album": {
-        "name": "Lo Mejor de Lo Mejor - Tropical",
-        "url": "https://open.spotify.com/album/7Mvvbvm1ALm9bO9dEn7C3i"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vargas",
-          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
-        }
-      ],
-      "duration_ms": 286026,
-      "name": "La Ventanita",
-      "url": "https://open.spotify.com/track/36QUTKmqStL4Ye8s9xeTlc"
-    },
-    {
-      "added_at": "2025-10-14 14:45:32",
-      "album": {
-        "name": "Re-Haciendo La Historia-Los Exitos!",
-        "url": "https://open.spotify.com/album/1AH3TAK0XmmgekWQ5eWK5a"
-      },
-      "artists": [
-        {
-          "name": "Grupo Mania",
-          "url": "https://open.spotify.com/artist/2RqhDUsFkCJbhHntsnCVqp"
-        }
-      ],
-      "duration_ms": 297773,
-      "name": "Me Miras Y Te Miro",
-      "url": "https://open.spotify.com/track/0dNiTVbjCqIDPzCcHS5ZbS"
     }
   ],
   "unique_name": "Merengue Mania",

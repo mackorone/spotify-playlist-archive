@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/2uhsnHgI4F2eFyvoMHY0GR.md) - [plain]
 
 > Rock your workday lyric free with classic rock favorites, meditative heavy metal, and art rock wonders.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,905 likes - 42 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,901 likes - 42 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Black Mountain Side \- 1993 Remaster](https://open.spotify.com/track/6rmEV2YtvWkigxPZocINO3) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin](https://open.spotify.com/album/3ycjBixZf7S3WpC5WZhhUK) | 2:05 |
-| 2 | [Side 3, Pt\. 4: Allons\-y \(1\)](https://open.spotify.com/track/5Cs8YMRH3hfaLK4HPUFe9l) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Endless River](https://open.spotify.com/album/0yU7VItpGPmPcvKmwLg0JT) | 1:57 |
+| 2 | [Side 3, Pt\. 4: Allons\-y \(1\)](https://open.spotify.com/track/5Cs8YMRH3hfaLK4HPUFe9l) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Endless River](https://open.spotify.com/album/0yU7VItpGPmPcvKmwLg0JT) | 1:56 |
 | 3 | [Albatross \- 2018 Remaster](https://open.spotify.com/track/3IKyTBHZSgCx2v1ZX8v0TZ) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [The Pious Bird of Good Omen](https://open.spotify.com/album/2vykpF7BFnflpzjTCG52FU) | 3:11 |
 | 4 | [Journey of the Sorcerer \- 2013 Remaster](https://open.spotify.com/track/3OcBH9Vzd1UwJkQd3r1dVG) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [One of These Nights \(2013 Remaster\)](https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja) | 6:37 |
 | 5 | [Peaches And Diesel](https://open.spotify.com/track/1Ahz461HRMTb87MMGT8AUY) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Slowhand 35th Anniversary](https://open.spotify.com/album/2c0bqDdHYpcyd8eQp55tbO) | 4:48 |

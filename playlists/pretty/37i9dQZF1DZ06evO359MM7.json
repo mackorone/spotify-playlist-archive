@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Baby. The essential tracks, all in one playlist.",
-  "num_followers": 441575,
+  "num_followers": 441615,
   "original_name": "This Is Lil Baby",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRplgAAAAACaP583oOoPWGeb/xxB0Ffn",
+  "snapshot_id": "aRu3AAAAAAB2sbUIpNqmBt1byRrCqJCn",
   "tracks": [
     {
       "added_at": null,
@@ -831,6 +831,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Otha Boy",
+        "url": "https://open.spotify.com/album/32BULMBQ77A8q262LK2FGh"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 123075,
+      "name": "Otha Boy",
+      "url": "https://open.spotify.com/track/1kZFUzGd3Umla5wtz4G3u6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sex Hysteria",
         "url": "https://open.spotify.com/album/1slf6g1SethO2KrA4cxgjq"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 200470,
       "name": "In A Minute",
       "url": "https://open.spotify.com/track/31lopd32BkJBTSgYE16c5e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Otha Boy",
-        "url": "https://open.spotify.com/album/32BULMBQ77A8q262LK2FGh"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 123075,
-      "name": "Otha Boy",
-      "url": "https://open.spotify.com/track/1kZFUzGd3Umla5wtz4G3u6"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-385 songs - 21 hr 33 min
+387 songs - 21 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [Doorways](https://open.spotify.com/track/1XY8MZaDrG873CbAlwrQSd) | [lucen](https://open.spotify.com/artist/6UlxeucXP4ODooKUwGZUNj) | [Doorways](https://open.spotify.com/album/2VdwWQREipL22ZfWYhCX7m) | 1:49 | 2025-07-15 |  |
 | [Dormio](https://open.spotify.com/track/5KrtsbUaDBPE0aFpxw4I0T) | [Estado De Calma](https://open.spotify.com/artist/0E1GrT0XtW2bcQvEuu7ajV) | [Dormio](https://open.spotify.com/album/3yYe7uQZsi7NsACNFzItNh) | 2:39 | 2021-10-14 | 2024-09-29 |
 | [Dream Traveler](https://open.spotify.com/track/4qq5zkuRXq17ycXLBiFqC5) | [Eline Moss](https://open.spotify.com/artist/5oLYsGYb1G271Z6wtiYVpA) | [Dream Traveler](https://open.spotify.com/album/1pF8o1asO5oWDoCG0DZZdZ) | 2:20 | 2024-05-10 |  |
-| [Dreamsurf](https://open.spotify.com/track/0zUsN77HWaBujNAcMD4GUW) | [DIYFi](https://open.spotify.com/artist/1X177snoetl4cpyQ34snta) | [Dreamsurf](https://open.spotify.com/album/5moBUjTC86nclsprlXZRf8) | 2:56 | 2025-10-01 |  |
+| [Dreamsurf](https://open.spotify.com/track/0zUsN77HWaBujNAcMD4GUW) | [DIYFi](https://open.spotify.com/artist/1X177snoetl4cpyQ34snta) | [Dreamsurf](https://open.spotify.com/album/5moBUjTC86nclsprlXZRf8) | 2:56 | 2025-10-01 | 2025-11-20 |
 | [Dreamswept EMDR](https://open.spotify.com/track/1pm2NByStw6o5v0nSGxHDz) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Dreamswept EMDR](https://open.spotify.com/album/3Tka75HuqaHbF12ZCkfoF7) | 3:32 | 2025-05-14 |  |
 | [Dreamt](https://open.spotify.com/track/5oseLW3JhRqLLyTmqmyghU) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [Clear Language](https://open.spotify.com/album/5z1mF6xLNvsKp132hNxqZ3) | 3:59 | 2022-07-22 | 2024-04-19 |
 | [Dreamt](https://open.spotify.com/track/7yzWKf2adZoNKsLu3UxXjv) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [Clear Language](https://open.spotify.com/album/6mETnED5m2z3EPeZ5Gxk7T) | 3:59 | 2020-12-08\* | 2022-07-29 |
@@ -164,6 +164,7 @@
 | [Ghost Pong](https://open.spotify.com/track/00gWNp9jpTJbT5TsGdHwla) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Ghost Pong](https://open.spotify.com/album/5VZ6W1glrfShr200XiOAUp) | 4:51 | 2020-12-08\* | 2021-03-18 |
 | [Glaciers](https://open.spotify.com/track/5h2bCmH2gc7Zf6AFLpAaoD) | [Night Sounds](https://open.spotify.com/artist/23t9fvBqS4kZ6aBANPfsb5) | [Glaciers](https://open.spotify.com/album/5DAdHl1zMFWuxnpF72sqP7) | 3:04 | 2020-12-08\* | 2025-05-14 |
 | [Glow](https://open.spotify.com/track/4TzR5P1srEfWyUjGFSqYhC) | [Szymon Kowalczyk](https://open.spotify.com/artist/5mg190A9WO4TqbhL6GDer0) | [Footsteps](https://open.spotify.com/album/3CGtfAcfdbt1UT45FTl7X1) | 2:25 | 2021-02-03 | 2024-12-21 |
+| [Grace](https://open.spotify.com/track/3MzxKAvFXnnhg5G5hDjalU) | [Novah Scotia](https://open.spotify.com/artist/5ia5OA1CXgepgiV8qnsfE0) | [Grace](https://open.spotify.com/album/0ah3BJBZZiHi3i45kk5qn4) | 2:47 | 2025-10-01 |  |
 | [Gratefulness](https://open.spotify.com/track/40qeYynobNzqF9HfPkSFR3) | [Deltachromatique](https://open.spotify.com/artist/2nXUAmp23RozTZQs70fIuP) | [Gratefulness](https://open.spotify.com/album/7nHwZnjFrplsBHfzyJ1BKh) | 2:33 | 2022-09-30 | 2025-05-15 |
 | [Greenland](https://open.spotify.com/track/2SPTGg9SC5MT1FwNX4IYfx) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Safe In the Steep Cliffs](https://open.spotify.com/album/1KHKPYKo4h8btHa8u3wjEB) | 3:11 | 2020-12-08\* | 2021-03-06 |
 | [Grounding](https://open.spotify.com/track/0lR3KWoaXzVNZqSz4tbJ5R) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Grounding](https://open.spotify.com/album/5Do97UOdHnE2zG1IGsesZ6) | 2:48 | 2024-11-14 |  |
@@ -369,11 +370,12 @@
 | [unwinding mind](https://open.spotify.com/track/3cKtbvlmZLIGQlvlXVGWcO) | [vindi meta](https://open.spotify.com/artist/1KpJe8aYmtCJpH7LP8mX9s) | [unwinding mind](https://open.spotify.com/album/5mYhxCiyQnJY8oBdgL6i1M) | 3:00 | 2024-05-10 |  |
 | [Upwards](https://open.spotify.com/track/7AR7xW0wCscHZeYf2zj7Fc) | [Edmund's Oasis](https://open.spotify.com/artist/5zPsjxustR5GJSG26xw2SR) | [Signals Cometh](https://open.spotify.com/album/1wn3AKz6aDS0NHOkFgTi8L) | 2:03 | 2022-10-21 |  |
 | [Utopia](https://open.spotify.com/track/5TCFzGCMYTVONeGJuk8F8G) | [Sudestada X](https://open.spotify.com/artist/6IR56PVqmSSjd0Bv9nuf48) | [Humedal](https://open.spotify.com/album/3WkfEJ2DmvDItp5HdOd8Eu) | 3:04 | 2020-12-08\* | 2021-02-20 |
-| [Vesperam](https://open.spotify.com/track/6xUIYjip7xV5rOGz0V168m) | [Echoes Of Time](https://open.spotify.com/artist/4nlTOopsxNUc0ps46oigBM) | [Vesperam](https://open.spotify.com/album/6XnyWTBrYLkNvpiDoEN3b5) | 2:56 | 2024-04-04 |  |
+| [Vesperam](https://open.spotify.com/track/6xUIYjip7xV5rOGz0V168m) | [Echoes Of Time](https://open.spotify.com/artist/4nlTOopsxNUc0ps46oigBM) | [Vesperam](https://open.spotify.com/album/6XnyWTBrYLkNvpiDoEN3b5) | 2:56 | 2024-04-04 | 2025-11-20 |
 | [Violet](https://open.spotify.com/track/6UexB3inLD8R9lVXCSMnF3) | [Ólafur Apollo](https://open.spotify.com/artist/1uBzypkt8OzAyPkGifMjHI) | [Violet](https://open.spotify.com/album/6I21wxPlRPPTxalFaoVnTd) | 2:17 | 2025-07-15 |  |
 | [W.E.](https://open.spotify.com/track/3SDO8hL0wQ3Dxr6NN1CUbH) | [Asa Bjorg](https://open.spotify.com/artist/1aFaXuKUvi4TpzZn8cKYRQ) | [W.E.](https://open.spotify.com/album/3fqMLlZ31uYIz326zw9bdH) | 4:16 | 2020-12-08\* | 2021-02-20 |
 | [waiting still](https://open.spotify.com/track/32vjhjj5KWfVlHfCMg6yLs) | [NÒWN](https://open.spotify.com/artist/6HSIq0RQ7mhLiRGUu79kCm) | [waiting still](https://open.spotify.com/album/3pPwfIMqCdccz4NB99sSd0) | 2:26 | 2025-07-15 |  |
 | [Walking on Air](https://open.spotify.com/track/2dD53mHfjyGg6o856Di1OK) | [Auðura](https://open.spotify.com/artist/0DE6DqplF6aes6HrDbH29i) | [Walking on Air](https://open.spotify.com/album/7c05mEBhWNCuChYLnBCqjz) | 2:06 | 2025-02-26 |  |
+| [Wanderlust](https://open.spotify.com/track/5WoINANgf6egg3VSfKV35v) | [Dopamine clouds](https://open.spotify.com/artist/3VIQ9gIvMMoHzDsFOQd85j) | [Wanderlust](https://open.spotify.com/album/1MpVuImC4BKn9Fvny7lQP3) | 2:23 | 2025-10-01 |  |
 | [warmth](https://open.spotify.com/track/6NflHj3pdGn2f68gLZB4e8) | [halfsoul](https://open.spotify.com/artist/4lbFdz2lQ1V2gAlmCvVuy0) | [warmth](https://open.spotify.com/album/1z5ecrrqFd9no12g7t6Hz0) | 1:26 | 2025-10-01 |  |
 | [Water Jewel](https://open.spotify.com/track/2GKxE4qFT0kUaYveDnFcVt) | [Crystal Fragments](https://open.spotify.com/artist/3crlQoae3kpZFKLtSCxrnM) | [Two Jewels](https://open.spotify.com/album/6uESTKXHQ490eo7x83I9bi) | 4:07 | 2020-12-08\* | 2025-10-31 |
 | [Waves are coming](https://open.spotify.com/track/4m6jCOTDZfNhKA7qUEpo98) | [Nicole Rosario](https://open.spotify.com/artist/56m6DbefNtX4faz0CTVjUY) | [Waves are coming](https://open.spotify.com/album/4YJTcfkvMihuIDh0oQAnuq) | 3:53 | 2021-06-16 | 2024-09-20 |

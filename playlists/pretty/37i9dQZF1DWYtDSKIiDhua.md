@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > R&B and good vibe tracks for your current mood\. Cover: Summer Walker
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,173 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,198 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 | 18 | [ANGEL](https://open.spotify.com/track/65x7gYcm3Hvv2B9x7F9QDw) | [PRYVT](https://open.spotify.com/artist/2EoyTW14yqnbqmk90NjbLT) | [BACK TO REALITY](https://open.spotify.com/album/61ztlk3IamUgahgX4VPisJ) | 3:58 |
 | 19 | [Mr\. Girlfriend](https://open.spotify.com/track/7GFU2OUg9cgDEpObFzYehU) | [Excellent Gentlemen](https://open.spotify.com/artist/0AIMzdNf3UXVJVA0GAjVnb) | [Connoisseur](https://open.spotify.com/album/2Ln0gmnPWZctOBAmeM4pLR) | 3:30 |
 | 20 | [Fall Into You](https://open.spotify.com/track/6IpniKTQXAEjc2erLByfo2) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD), [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [Fall Into You](https://open.spotify.com/album/4W2eUzZfKOC0PVE5RjCSlS) | 2:48 |
-| 21 | [Wassup](https://open.spotify.com/track/6v2lyOmuIapLkMpEQU1qEN) | [2BYG](https://open.spotify.com/artist/4G6aMODE9CTOZyZ9S39DUE) | [The Yearbook](https://open.spotify.com/album/38dWJqN6jGg7tjRoRjJxbL) | 2:32 |
+| 21 | [Wassup](https://open.spotify.com/track/6v2lyOmuIapLkMpEQU1qEN) | [2BYG](https://open.spotify.com/artist/4G6aMODE9CTOZyZ9S39DUE) | [The Yearbook](https://open.spotify.com/album/38dWJqN6jGg7tjRoRjJxbL) | 2:30 |
 | 22 | [Ain't the Same](https://open.spotify.com/track/15KqGIpBfvccRhvtcPRRSU) | [Sarah Syazlina](https://open.spotify.com/artist/4sdRknKR5R415XWcELm3il) | [Ain't the Same](https://open.spotify.com/album/1zypId3rIQPZ5V3ncqeuLG) | 2:45 |
 | 23 | [Folded \(Remix\) \[feat\. Brandy\]](https://open.spotify.com/track/4Mn0tbmlOsYFSWoo4rJbnI) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Folded Homage Pack](https://open.spotify.com/album/0ERSLETUQi9BIfH0evmmjm) | 4:19 |
 | 24 | [Tudo Igual](https://open.spotify.com/track/4k98YJ8f66Z7FagvL42Qgv) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Fragmentos](https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb) | 4:17 |

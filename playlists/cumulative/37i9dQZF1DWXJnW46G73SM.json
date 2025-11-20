@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u0623\u062d\u062f\u062b \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0647\u0646\u0627 \ud83e\udd29 \u0627\u0644\u063a\u0644\u0627\u0641: \u0631\u0648\u0628\u064a",
+  "description": "\u0623\u062d\u062f\u062b \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0647\u0646\u0627 \ud83e\udd29 \u0627\u0644\u063a\u0644\u0627\u0641: \u0648\u064a\u062c\u0632",
   "name": "\u0645\u0635\u0631\u064a \u062c\u062f\u064a\u062f",
   "tracks": [
     {
@@ -9222,6 +9222,28 @@
       "duration_ms": 189807,
       "name": "Kalam El Mama",
       "url": "https://open.spotify.com/track/08jIFdhzUO66JtHof7Y9jy"
+    },
+    {
+      "album": {
+        "name": "Kalam Forsan (feat. Mohamed Mounir)",
+        "url": "https://open.spotify.com/album/1Qp5YULtFOO9eRjBINHVex"
+      },
+      "artists": [
+        {
+          "name": "Wegz",
+          "url": "https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q"
+        },
+        {
+          "name": "Mohamed Mounir",
+          "url": "https://open.spotify.com/artist/6hPNpOLunxxpXVwi696pYl"
+        }
+      ],
+      "date_added": "2025-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Kalam Forsan (feat. Mohamed Mounir)",
+      "url": "https://open.spotify.com/track/5Jx6LbHo5VhJSsqRvQUIDH"
     },
     {
       "album": {
@@ -21924,7 +21946,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 248259,
       "name": "\u0628\u0634\u0643\u0631\u0643",
       "url": "https://open.spotify.com/track/3A3el8szrcS0b8NatGShND"

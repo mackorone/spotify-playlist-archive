@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Trendy x Chill K-Hip Hop.  (Cover: HAON)(\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
+  "description": "Trendy x Chill K-Hip Hop.  (Cover: HAON, Boycold)(\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
   "name": "TrenChill K-Hip Hop",
   "tracks": [
     {
@@ -2502,7 +2502,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 194754,
       "name": "Chocolate Baby",
       "url": "https://open.spotify.com/track/7jfdsPSaIFH9B9NDrMfwhP"
@@ -3552,7 +3552,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 148000,
       "name": "Dive",
       "url": "https://open.spotify.com/track/4v6NKXnCs5G7MGKBHoUPVe"
@@ -4864,7 +4864,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 164480,
       "name": "Fragile (Prod. Dayrick)",
       "url": "https://open.spotify.com/track/4OsYZcgIDKPWoezA1sBeUF"
@@ -9128,7 +9128,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 181629,
       "name": "MELODY",
       "url": "https://open.spotify.com/track/259wZqRoiqkrRMosDDnnOX"
@@ -10150,7 +10150,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-31",
+      "date_removed": null,
       "duration_ms": 227560,
       "name": "NG (Feat. pH-1, Jay Park)",
       "url": "https://open.spotify.com/track/1Oda9YbX3UIA8De6GhQN8M"
@@ -10804,7 +10804,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-09",
+      "date_removed": null,
       "duration_ms": 195459,
       "name": "One More Night (Feat. lIlBOI)",
       "url": "https://open.spotify.com/track/1kZwWtijucTV6LRUrGn51f"
@@ -11253,6 +11253,24 @@
     },
     {
       "album": {
+        "name": "Secret",
+        "url": "https://open.spotify.com/album/6pypcYnbO2JMmQBWsXpqZB"
+      },
+      "artists": [
+        {
+          "name": "CAMO",
+          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
+        }
+      ],
+      "date_added": "2025-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118606,
+      "name": "Perfect Timing",
+      "url": "https://open.spotify.com/track/52jqq8HeJ5CSc7cXk96EFm"
+    },
+    {
+      "album": {
         "name": "Perfume",
         "url": "https://open.spotify.com/album/4G7QlsagOc449SsYTstBsO"
       },
@@ -11614,7 +11632,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-27",
+      "date_removed": null,
       "duration_ms": 168175,
       "name": "put my hoodie on",
       "url": "https://open.spotify.com/track/5qgRXWcgFajtVeqt0t0ASo"
@@ -15035,6 +15053,28 @@
     },
     {
       "album": {
+        "name": "BOYCOLD 3",
+        "url": "https://open.spotify.com/album/42zOIi0SBowNvOPa7VQi5N"
+      },
+      "artists": [
+        {
+          "name": "HAON",
+          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
+        },
+        {
+          "name": "BOYCOLD",
+          "url": "https://open.spotify.com/artist/3Rxm9TaXZGuQRw2B91Ap22"
+        }
+      ],
+      "date_added": "2025-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145000,
+      "name": "Traveler",
+      "url": "https://open.spotify.com/track/6F8LDvBMvRi8WasuiuSfvb"
+    },
+    {
+      "album": {
         "name": "Treasure",
         "url": "https://open.spotify.com/album/6PLYX18iZE3mVG7xFawuPV"
       },
@@ -15860,7 +15900,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 200000,
       "name": "WET",
       "url": "https://open.spotify.com/track/6XVzxEg3OzlpdnJIzBZBL3"

@@ -759,22 +759,6 @@
     {
       "added_at": "2025-10-15 15:12:28",
       "album": {
-        "name": "Tamasha",
-        "url": "https://open.spotify.com/album/2CUXo26JAWIbQx0EVMnjpA"
-      },
-      "artists": [
-        {
-          "name": "Lucky Ali",
-          "url": "https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB"
-        }
-      ],
-      "duration_ms": 251402,
-      "name": "Safarnama",
-      "url": "https://open.spotify.com/track/6w458kA8WOAIZr1ublxnK9"
-    },
-    {
-      "added_at": "2025-10-15 15:12:28",
-      "album": {
         "name": "Highway",
         "url": "https://open.spotify.com/album/4MRvvPTLIVBHVEMfVC20jI"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 285185,
       "name": "Patakha Guddi",
       "url": "https://open.spotify.com/track/7jpmNt5iCtSdXuT1xEGp8O"
+    },
+    {
+      "added_at": "2025-10-15 15:12:28",
+      "album": {
+        "name": "Tamasha",
+        "url": "https://open.spotify.com/album/2CUXo26JAWIbQx0EVMnjpA"
+      },
+      "artists": [
+        {
+          "name": "Lucky Ali",
+          "url": "https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB"
+        }
+      ],
+      "duration_ms": 251402,
+      "name": "Safarnama",
+      "url": "https://open.spotify.com/track/6w458kA8WOAIZr1ublxnK9"
     },
     {
       "added_at": "2025-10-15 15:12:28",
@@ -859,22 +859,6 @@
     {
       "added_at": "2025-10-15 15:12:28",
       "album": {
-        "name": "Sunoh",
-        "url": "https://open.spotify.com/album/54mRGBCsNzGVGhVPenUnvt"
-      },
-      "artists": [
-        {
-          "name": "Lucky Ali",
-          "url": "https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB"
-        }
-      ],
-      "duration_ms": 223027,
-      "name": "O Sanam",
-      "url": "https://open.spotify.com/track/5oYRr51VatOtkFeEOursuZ"
-    },
-    {
-      "added_at": "2025-10-15 15:12:28",
-      "album": {
         "name": "Kapoor & Sons (Since 1921) (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1teNu8WgSFQyNncvswvbAL"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 206858,
       "name": "Buddhu Sa Mann",
       "url": "https://open.spotify.com/track/1dxbiVeiV7nQ2V9qXnhJiB"
+    },
+    {
+      "added_at": "2025-10-15 15:12:28",
+      "album": {
+        "name": "Sunoh",
+        "url": "https://open.spotify.com/album/54mRGBCsNzGVGhVPenUnvt"
+      },
+      "artists": [
+        {
+          "name": "Lucky Ali",
+          "url": "https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB"
+        }
+      ],
+      "duration_ms": 223027,
+      "name": "O Sanam",
+      "url": "https://open.spotify.com/track/5oYRr51VatOtkFeEOursuZ"
     },
     {
       "added_at": "2025-10-15 15:12:28",
@@ -1131,34 +1131,22 @@
     {
       "added_at": "2025-10-15 15:12:28",
       "album": {
-        "name": "Happy Ending (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2tkBjsDswNuXjfVertqYPV"
+        "name": "Baaraat",
+        "url": "https://open.spotify.com/album/5tJNl2p7wNTuRBvikWFHSn"
       },
       "artists": [
         {
-          "name": "Sachin-Jigar",
-          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+          "name": "Ritviz",
+          "url": "https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb"
         },
         {
-          "name": "Rekha Bhardwaj",
-          "url": "https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT"
-        },
-        {
-          "name": "Jigar Saraiya",
-          "url": "https://open.spotify.com/artist/48RCl7AbbfhC60EN8a80Op"
-        },
-        {
-          "name": "Priya Andrews",
-          "url": "https://open.spotify.com/artist/27RvbKA1WxAFTWwQc712tY"
-        },
-        {
-          "name": "Priya Saraiya",
-          "url": "https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss"
+          "name": "Nucleya",
+          "url": "https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh"
         }
       ],
-      "duration_ms": 266279,
-      "name": "Mileya Mileya",
-      "url": "https://open.spotify.com/track/2IarWd16hKAvXU8vnEunVb"
+      "duration_ms": 222096,
+      "name": "Baaraat",
+      "url": "https://open.spotify.com/track/0YLSjVxSb5FT1Bo8Tnxr8j"
     }
   ],
   "unique_name": "Diwali Drive",

@@ -4,25 +4,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7YUDFu8f.md) - [plain]
 
 > Lekker rustig aan doen op zaterdag met deze zachte popliedjes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,037 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,031 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Manifestation](https://open.spotify.com/track/72kUwbFY7c0ZbLGgs8IYQw) | [FENNE](https://open.spotify.com/artist/1iEwzHojkE2rHcDAJDQOuo) | [Manifestation](https://open.spotify.com/album/36mCsWyAK2arL5ikNX6ib0) | 3:13 |
-| 2 | [In Our Veins](https://open.spotify.com/track/5t3kJCjFtc69B80hDQQwYZ) | [Cézanne](https://open.spotify.com/artist/0vodNqnsmfqjOqxS7sfOp3), [Superfuse](https://open.spotify.com/artist/4H6l4uxiqZ7uaUwpLkrr3f), [Uevo](https://open.spotify.com/artist/4dQG1cEezr8XaQg8rFKuBi), [Thierry Ganz](https://open.spotify.com/artist/3JPH3i903T7TJIF6cWO5yV), [Prime8](https://open.spotify.com/artist/6QdTv5ondFNAz1tdwVy3gP) | [In Our Veins](https://open.spotify.com/album/5FRHz9MPosdmWqUWdvPGLa) | 3:40 |
-| 3 | [The Sailors' Tales](https://open.spotify.com/track/1XJbj3IBytWGi2At0HjcRr) | [Aure](https://open.spotify.com/artist/7KJ2PJCOvE40LTdQ7qEcM6) | [The Sailors' Tales](https://open.spotify.com/album/0v6YscOyjviSJ1hqRTqS4T) | 3:24 |
-| 4 | [Heart Talks](https://open.spotify.com/track/3PGZRVnlybWd3Q2lNIgNcs) | [PIMSKIN](https://open.spotify.com/artist/372psDthzqo2RnGNKwwysX) | [Heart Talks](https://open.spotify.com/album/0h02ch3LLJXbUsdvh05BJs) | 2:01 |
-| 5 | [Forest Hills](https://open.spotify.com/track/7aeexgGieEGhvIg7Bm0Bra) | [Eva Valery](https://open.spotify.com/artist/0K95TlYJ2SvJbL3CZ3ui3p) | [Forest Hills](https://open.spotify.com/album/0w8cg1jEpgA7cANU4qW6ov) | 3:18 |
-| 6 | [In Our Blood \- Acoustic](https://open.spotify.com/track/4a21EACjyMtifGTF1PgheC) | [MADOUX](https://open.spotify.com/artist/1hSsJVN9NYlY67CFZEIILZ) | [In Our Blood \(Acoustic\)](https://open.spotify.com/album/4TkThiRr9e9AAuxHYtSHLx) | 3:27 |
-| 7 | [Summertime's Close](https://open.spotify.com/track/37SFV64sDYz3Vbs6lwAjkB) | [Bertie Newman](https://open.spotify.com/artist/5FgAV3f4fiJ8tuztZ5eyWh) | [Summertime's Close](https://open.spotify.com/album/2mh8X3Q2BcIXIK2N2iomEg) | 3:01 |
-| 8 | [Harder To Love](https://open.spotify.com/track/0oI4tNKqTOURxMAvka5d4r) | [Neil Foreman](https://open.spotify.com/artist/0GRlXaSc9udpxeUuLmP7jo) | [Harder To Love](https://open.spotify.com/album/4s400ZZn2WSPM6CaUfAsHC) | 3:39 |
-| 9 | [80 Days](https://open.spotify.com/track/6GqDKlvGfqWoj3j1m5gp7s) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Adagio](https://open.spotify.com/album/3TAhlJxvOBskHFd0J1YRmq) | 2:36 |
-| 10 | [Neverland](https://open.spotify.com/track/43lGfxxVamKbqlAROUy8TN) | [Moonloops](https://open.spotify.com/artist/2rXIqzzsMByBxUJhiZPXWo) | [Neverland / Chalk](https://open.spotify.com/album/6dOcx3mVozgW3EBMqwvH9T) | 3:53 |
-| 11 | [Mi Corazón](https://open.spotify.com/track/2ZW4J99gPkEHLEyUA86pL9) | [Aure](https://open.spotify.com/artist/7KJ2PJCOvE40LTdQ7qEcM6) | [Mi Corazón](https://open.spotify.com/album/1Y5gS6FbHlySA7wgWytjKb) | 3:15 |
+| 1 | [Half Full](https://open.spotify.com/track/1VQmes5qHWKQ5p3C4v6NBg) | [Levi Boon](https://open.spotify.com/artist/67Q0IdGtQtelKSYP7ODrvQ) | [Half Full](https://open.spotify.com/album/78aNecnjtMcMoCy1tAW0ux) | 3:29 |
+| 2 | [The Sailors' Tales](https://open.spotify.com/track/1XJbj3IBytWGi2At0HjcRr) | [Aure](https://open.spotify.com/artist/7KJ2PJCOvE40LTdQ7qEcM6) | [The Sailors' Tales](https://open.spotify.com/album/0v6YscOyjviSJ1hqRTqS4T) | 3:24 |
+| 3 | [Heart Talks](https://open.spotify.com/track/3PGZRVnlybWd3Q2lNIgNcs) | [PIMSKIN](https://open.spotify.com/artist/372psDthzqo2RnGNKwwysX) | [Heart Talks](https://open.spotify.com/album/0h02ch3LLJXbUsdvh05BJs) | 2:01 |
+| 4 | [Forest Hills](https://open.spotify.com/track/7aeexgGieEGhvIg7Bm0Bra) | [Eva Valery](https://open.spotify.com/artist/0K95TlYJ2SvJbL3CZ3ui3p) | [Forest Hills](https://open.spotify.com/album/0w8cg1jEpgA7cANU4qW6ov) | 3:18 |
+| 5 | [In Our Blood \- Acoustic](https://open.spotify.com/track/4a21EACjyMtifGTF1PgheC) | [MADOUX](https://open.spotify.com/artist/1hSsJVN9NYlY67CFZEIILZ) | [In Our Blood \(Acoustic\)](https://open.spotify.com/album/4TkThiRr9e9AAuxHYtSHLx) | 3:27 |
+| 6 | [Summertime's Close](https://open.spotify.com/track/37SFV64sDYz3Vbs6lwAjkB) | [Bertie Newman](https://open.spotify.com/artist/5FgAV3f4fiJ8tuztZ5eyWh) | [Summertime's Close](https://open.spotify.com/album/2mh8X3Q2BcIXIK2N2iomEg) | 3:01 |
+| 7 | [Harder To Love](https://open.spotify.com/track/0oI4tNKqTOURxMAvka5d4r) | [Neil Foreman](https://open.spotify.com/artist/0GRlXaSc9udpxeUuLmP7jo) | [Harder To Love](https://open.spotify.com/album/4s400ZZn2WSPM6CaUfAsHC) | 3:39 |
+| 8 | [80 Days](https://open.spotify.com/track/6GqDKlvGfqWoj3j1m5gp7s) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Adagio](https://open.spotify.com/album/3TAhlJxvOBskHFd0J1YRmq) | 2:36 |
+| 9 | [Neverland](https://open.spotify.com/track/43lGfxxVamKbqlAROUy8TN) | [Moonloops](https://open.spotify.com/artist/2rXIqzzsMByBxUJhiZPXWo) | [Neverland / Chalk](https://open.spotify.com/album/6dOcx3mVozgW3EBMqwvH9T) | 3:53 |
+| 10 | [Mi Corazón](https://open.spotify.com/track/2ZW4J99gPkEHLEyUA86pL9) | [Aure](https://open.spotify.com/artist/7KJ2PJCOvE40LTdQ7qEcM6) | [Mi Corazón](https://open.spotify.com/album/1Y5gS6FbHlySA7wgWytjKb) | 3:15 |
+| 11 | [In Our Veins](https://open.spotify.com/track/5t3kJCjFtc69B80hDQQwYZ) | [Cézanne](https://open.spotify.com/artist/0vodNqnsmfqjOqxS7sfOp3), [Superfuse](https://open.spotify.com/artist/4H6l4uxiqZ7uaUwpLkrr3f), [Uevo](https://open.spotify.com/artist/4dQG1cEezr8XaQg8rFKuBi), [Thierry Ganz](https://open.spotify.com/artist/3JPH3i903T7TJIF6cWO5yV), [Prime8](https://open.spotify.com/artist/6QdTv5ondFNAz1tdwVy3gP) | [In Our Veins](https://open.spotify.com/album/5FRHz9MPosdmWqUWdvPGLa) | 3:40 |
 | 12 | [Swords](https://open.spotify.com/track/75ASmXxDMQf6Ntzhq1e8vg) | [Jack and the Weatherman](https://open.spotify.com/artist/3ydwrOmRBy5TtHpTDaauOQ) | [Swords](https://open.spotify.com/album/5bBvnFuL3lVetizlVozBuW) | 3:23 |
 | 13 | [Recall](https://open.spotify.com/track/2CO6d46NdjvCS46IuzN1p7) | [Renata Louisa](https://open.spotify.com/artist/0cUWBPuAswbnFpYvzNAGfE) | [Recall](https://open.spotify.com/album/6ggWukcFVdf59Y6Pp6IYn2) | 1:44 |
 | 14 | [It Takes Ten](https://open.spotify.com/track/63x35hCISEPFns7pGSv8qh) | [Levi Boon](https://open.spotify.com/artist/67Q0IdGtQtelKSYP7ODrvQ) | [It Takes Ten](https://open.spotify.com/album/1KdJ9Kn7lWYBv17jDUxdGd) | 3:41 |
-| 15 | [Half Full](https://open.spotify.com/track/1VQmes5qHWKQ5p3C4v6NBg) | [Levi Boon](https://open.spotify.com/artist/67Q0IdGtQtelKSYP7ODrvQ) | [Half Full](https://open.spotify.com/album/78aNecnjtMcMoCy1tAW0ux) | 3:29 |
+| 15 | [Manifestation](https://open.spotify.com/track/72kUwbFY7c0ZbLGgs8IYQw) | [FENNE](https://open.spotify.com/artist/1iEwzHojkE2rHcDAJDQOuo) | [Manifestation](https://open.spotify.com/album/36mCsWyAK2arL5ikNX6ib0) | 3:13 |
 | 16 | [Wings](https://open.spotify.com/track/2GfSI35lY8p6tr9IUqiwKo) | [Samuel Andryk](https://open.spotify.com/artist/3stQBG1xd0n7nnHk5EFkzc) | [Wings](https://open.spotify.com/album/02dDDinLmvyM5fc8z7MQ1n) | 3:16 |
 | 17 | [Beautiful](https://open.spotify.com/track/4ClH9Hzgy2pfpd4UaEbPRd) | [Solar State](https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu) | [Beautiful](https://open.spotify.com/album/6ogjzjAHinSMwAeRrEBvhz) | 3:13 |
 | 18 | [My Angel Has Fallen](https://open.spotify.com/track/4y6rh8hfdYgVuX2yqYAKrM) | [Ralph Moerman](https://open.spotify.com/artist/1KnT4e4f38872CbGkEo3UR) | [Life Of The Party](https://open.spotify.com/album/7mJ8cGhd6I0wZJoacuKw9j) | 3:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7YUDFu8f.md) - [plain]
 | 99 | [Abigail](https://open.spotify.com/track/7agIX3ge0VVzTQAJTvJH5E) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Last Night In The Bittersweet](https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x) | 3:50 |
 | 100 | [Strongest Girl](https://open.spotify.com/track/4kjgZBKYqcawEEPrKVMleZ) | [Few Bits](https://open.spotify.com/artist/6z5v5w5cm1HaNkQbO6V2Pc) | [Strongest Girl](https://open.spotify.com/album/6V6ikokpSTTqRoa0ZySpTu) | 3:27 |
 
-Snapshot ID: `AAAAAH6axNzOCH+Nbw2ZXyE2kN3jrlzM`
+Snapshot ID: `AAAAABV2PBFbB9IhiZKSpV/jE9+e1dj0`

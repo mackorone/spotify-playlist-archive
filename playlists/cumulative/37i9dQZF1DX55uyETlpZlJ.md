@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Swarathma
 
-588 songs - 1 day 9 hr 28 min
+589 songs - 1 day 9 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -309,6 +309,7 @@
 | [Manasu Jaaride](https://open.spotify.com/track/6bUKQYlsou3gViUUj6Xp2O) | [Karthik N B](https://open.spotify.com/artist/3r82HAo6mMhQwgsa2Bj9RC), [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo) | [Manasu Jaaride](https://open.spotify.com/album/6opIhmM4pIEcVqrM3ilhUO) | 2:39 | 2024-04-03 | 2024-08-29 |
 | [Mandahaasa](https://open.spotify.com/track/5e6VuOglQBXXeSSYJJA7uc) | [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v) | [Sunjuice](https://open.spotify.com/album/3PDKQGvu0U5ibKqVGIQmQq) | 3:40 | 2024-11-13 | 2025-04-12 |
 | [Mande Bisi](https://open.spotify.com/track/3rwZ5L9pB3uCVXAPIVNg2L) | [Harshith Shetty](https://open.spotify.com/artist/11JDJZpkeGxs4H5psWgRfN), [RaiSon](https://open.spotify.com/artist/7BeOC4noWoC7o7zTeHkVJc) | [Mande Bisi](https://open.spotify.com/album/7zYHOKb68Hj6oZ6nM4WB5p) | 3:32 | 2024-10-03 | 2025-03-27 |
+| [Mane Maathu Malenaadu \(From "Paatashaala"\)](https://open.spotify.com/track/1Tnq7Ow5j1k8abTdzPsi6c) | [Vikas Vasishta](https://open.spotify.com/artist/6IcmFfiYYoL5jTHo5xplm4), [Heddur Manjunath Shetty](https://open.spotify.com/artist/0uSrGEfHp6EZgF0zkVLHQV), [Saanvi Shetty](https://open.spotify.com/artist/5ZJ7NpYe0RokLEBiPWEDaX) | [Mane Maathu Malenaadu \(From "Paatashaala"\)](https://open.spotify.com/album/1mg0NToCQHm12rwg3Mzj1G) | 3:18 | 2025-11-19 |  |
 | [MANIFEST](https://open.spotify.com/track/2aukHnHoljvfUz0q7KqNet) | [AGORAH](https://open.spotify.com/artist/0MS0PxbrMlTrqjSVLIdCaE) | [MANIFEST](https://open.spotify.com/album/5FTnu7pgquZYRIIhDdf5Gq) | 3:08 | 2023-09-28 | 2024-04-02 |
 | [Mankada Baanu](https://open.spotify.com/track/7pGoqeLDrpmf74YD55gnVb) | [Nishada](https://open.spotify.com/artist/7qK4oglXTmjgWuZQOowdnI) | [Mankada Baanu](https://open.spotify.com/album/7tvNbTw8sbu9icPmUxoc6N) | 2:55 | 2025-05-02 | 2025-10-15 |
 | [Many Me](https://open.spotify.com/track/2zkjOcWVfozoWtgRj9QzvJ) | [NUMB\-URGH](https://open.spotify.com/artist/3zPtAKDN5Ldh5BAVPbzVlD), [Shastra](https://open.spotify.com/artist/6L0zcPmoJp0r8YIsSYmu34), [John On The Beat](https://open.spotify.com/artist/6LlGGD8vKtcraxhCCPkRaS) | [Many Me](https://open.spotify.com/album/6NJRgP6X0G2gOBFLGTtjyp) | 3:10 | 2023-08-31 | 2024-02-17 |
@@ -429,7 +430,7 @@
 | [Ninna Noduta](https://open.spotify.com/track/5baFUoZRasKY4kY9mfvBXj) | [Vishwas V Mathad](https://open.spotify.com/artist/7baUdCAhXJrptpQORiFozW), [Meghana Pramod](https://open.spotify.com/artist/7q8wxbNtA07ytbGBH6KGnF), [Chetan Argungi](https://open.spotify.com/artist/7aLguQeD2WV6jUH3wNoMwY) | [Ninna Noduta](https://open.spotify.com/album/2IaJzPfIu3AOdG3A31UQ9Y) | 3:20 | 2024-06-17 | 2024-12-10 |
 | [Ninna Preethi](https://open.spotify.com/track/23SkLenhmQOqaMm1jkFIo3) | [Prasanna Bhojashettar](https://open.spotify.com/artist/6d913SnOMtIZnOxh9IiURJ) | [Ninna Preethi](https://open.spotify.com/album/0V48aBzTDzvRy2WuEcPhll) | 3:58 | 2023-11-06 | 2024-02-17 |
 | [Ninnale Kaledodenaa](https://open.spotify.com/track/76qkjYTaUP0Y2OmzKmAT1h) | [Kalyan Manjunath](https://open.spotify.com/artist/35Wzhm2uv7DeqM1xRQwcU6), [Kishore Vishwakarma](https://open.spotify.com/artist/4GwpJltWdpVEP4v7oeY8HZ), [Bharat Jain](https://open.spotify.com/artist/2Axgtr4RXPBmnJW3vd6l0d) | [Ninnale Kaledodenaa](https://open.spotify.com/album/5yWTnUa6Ilvj3H6Xmq8BJJ) | 2:34 | 2025-11-06 |  |
-| [Ninnallu](https://open.spotify.com/track/3Zx9hISruAC8bvHdeRP2Pw) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Gagan SD](https://open.spotify.com/artist/56G6hPOGCql9tJB6DnuwuP) | [Ninnallu](https://open.spotify.com/album/5vk1jTeYLm1G8gg4W3LU1c) | 2:58 | 2025-05-30 |  |
+| [Ninnallu](https://open.spotify.com/track/3Zx9hISruAC8bvHdeRP2Pw) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Gagan SD](https://open.spotify.com/artist/56G6hPOGCql9tJB6DnuwuP) | [Ninnallu](https://open.spotify.com/album/5vk1jTeYLm1G8gg4W3LU1c) | 2:58 | 2025-05-30 | 2025-11-20 |
 | [Ninnane Bayaside](https://open.spotify.com/track/2gVeV88YIQzA5zO0rTiyzu) | [Satvik C S](https://open.spotify.com/artist/5nqsLJcHlqXLCvvWjdEIoR) | [Ninnane Bayaside](https://open.spotify.com/album/65X3c2WdqKnrralQy9ccEm) | 2:52 | 2023-03-03 | 2023-12-09 |
 | [Ninnindale](https://open.spotify.com/track/3mL8ySikFxmXJeoh5epDAF) | [Surabhi Bharadwaj](https://open.spotify.com/artist/2QlJhNbj61Ci927HCUQTlr), [Shashank shetty](https://open.spotify.com/artist/022NSbvjt2BPMhkVffP9CA) | [Ninnindale](https://open.spotify.com/album/0d6Tg4unwqjwxFKP4RkXw8) | 3:45 | 2024-11-08 | 2025-02-19 |
 | [Ninnindale Hosajeevana](https://open.spotify.com/track/1PGsxq3RHVXLYh76ao9C0k) | [Uttam Sarang](https://open.spotify.com/artist/2hxuZDpTxvhUKzqMI0smem), [Bharat Jain](https://open.spotify.com/artist/2Axgtr4RXPBmnJW3vd6l0d), [Manisha](https://open.spotify.com/artist/2oo26cmMQVQSaLk9wT8It8) | [Ninnindale Hosajeevana](https://open.spotify.com/album/2kGtmUHrGtGjug93I5CmVJ) | 4:11 | 2024-12-19 | 2025-03-18 |

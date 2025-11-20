@@ -535,22 +535,6 @@
     {
       "added_at": "2025-11-07 05:00:47",
       "album": {
-        "name": "Desperate Man (Live At The Pinnacle, Nashville, TN / May 24, 2025)",
-        "url": "https://open.spotify.com/album/0DCzjqVvLeioGvAcl4vjVW"
-      },
-      "artists": [
-        {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
-        }
-      ],
-      "duration_ms": 292533,
-      "name": "Desperate Man - Live At The Pinnacle, Nashville, TN / May 24, 2025",
-      "url": "https://open.spotify.com/track/1TjDu4qBQa4korUP1PK4eA"
-    },
-    {
-      "added_at": "2025-11-07 05:00:47",
-      "album": {
         "name": "Live",
         "url": "https://open.spotify.com/album/1oqiAakWVX3wj3URQ1CaoO"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 252040,
       "name": "I Am A Man Of Constant Sorrow - Live From The Louisville Palace, Kentucky / 2002",
       "url": "https://open.spotify.com/track/1jgZ20S8NnwZcjrtI2tYnK"
+    },
+    {
+      "added_at": "2025-11-07 05:00:47",
+      "album": {
+        "name": "Desperate Man (Live At The Pinnacle, Nashville, TN / May 24, 2025)",
+        "url": "https://open.spotify.com/album/0DCzjqVvLeioGvAcl4vjVW"
+      },
+      "artists": [
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "duration_ms": 292533,
+      "name": "Desperate Man - Live At The Pinnacle, Nashville, TN / May 24, 2025",
+      "url": "https://open.spotify.com/track/1TjDu4qBQa4korUP1PK4eA"
     },
     {
       "added_at": "2025-11-07 05:00:47",
@@ -671,34 +671,18 @@
     {
       "added_at": "2025-11-07 05:00:47",
       "album": {
-        "name": "Live - American Outlaws",
-        "url": "https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR"
+        "name": "The Best of Rascal Flatts LIVE",
+        "url": "https://open.spotify.com/album/0xNgmo1PeXN0adBq3oE1Sz"
       },
       "artists": [
         {
-          "name": "The Highwaymen",
-          "url": "https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        },
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        },
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+          "name": "Rascal Flatts",
+          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
         }
       ],
-      "duration_ms": 216506,
-      "name": "On the Road Again - Live at Nassau Coliseum, Uniondale, NY - March 1990",
-      "url": "https://open.spotify.com/track/6kiBHtPe8GfNhLygAO2jiv"
+      "duration_ms": 219586,
+      "name": "Bless the Broken Road - Live / 2011",
+      "url": "https://open.spotify.com/track/3k9b7S4DKDvHZx5Krad6p4"
     },
     {
       "added_at": "2025-11-07 05:00:47",
@@ -735,18 +719,34 @@
     {
       "added_at": "2025-11-07 05:00:47",
       "album": {
-        "name": "The Best of Rascal Flatts LIVE",
-        "url": "https://open.spotify.com/album/0xNgmo1PeXN0adBq3oE1Sz"
+        "name": "Live - American Outlaws",
+        "url": "https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR"
       },
       "artists": [
         {
-          "name": "Rascal Flatts",
-          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
+          "name": "The Highwaymen",
+          "url": "https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
         }
       ],
-      "duration_ms": 219586,
-      "name": "Bless the Broken Road - Live / 2011",
-      "url": "https://open.spotify.com/track/3k9b7S4DKDvHZx5Krad6p4"
+      "duration_ms": 216506,
+      "name": "On the Road Again - Live at Nassau Coliseum, Uniondale, NY - March 1990",
+      "url": "https://open.spotify.com/track/6kiBHtPe8GfNhLygAO2jiv"
     },
     {
       "added_at": "2025-11-07 05:00:47",
@@ -815,22 +815,6 @@
     {
       "added_at": "2025-11-07 05:00:47",
       "album": {
-        "name": "Haywire (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3d1QX5vNzJbqbZLTZoxFaZ"
-      },
-      "artists": [
-        {
-          "name": "Josh Turner",
-          "url": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
-        }
-      ],
-      "duration_ms": 225173,
-      "name": "Your Man - Live In Ohio/2009",
-      "url": "https://open.spotify.com/track/0Rf194SGlahVwho1MUtA12"
-    },
-    {
-      "added_at": "2025-11-07 05:00:47",
-      "album": {
         "name": "Live - American Outlaws",
         "url": "https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 262586,
       "name": "A Boy Named Sue - Live at Nassau Coliseum, Uniondale, NY - March 1990",
       "url": "https://open.spotify.com/track/4qhtY6ld2B5lAl9jmAMg1d"
+    },
+    {
+      "added_at": "2025-11-07 05:00:47",
+      "album": {
+        "name": "Haywire (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3d1QX5vNzJbqbZLTZoxFaZ"
+      },
+      "artists": [
+        {
+          "name": "Josh Turner",
+          "url": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
+        }
+      ],
+      "duration_ms": 225173,
+      "name": "Your Man - Live In Ohio/2009",
+      "url": "https://open.spotify.com/track/0Rf194SGlahVwho1MUtA12"
     },
     {
       "added_at": "2025-11-07 05:00:47",
@@ -963,22 +963,6 @@
     {
       "added_at": "2025-11-07 05:00:47",
       "album": {
-        "name": "Willie And Family Live",
-        "url": "https://open.spotify.com/album/4QDHDu7CU9GwCZHCnZ44JB"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 219296,
-      "name": "Whiskey River - Live at Harrah's Casino, Lake Tahoe, NV - April 1978",
-      "url": "https://open.spotify.com/track/2DC2kFrRHR9IVAuRdjAUQa"
-    },
-    {
-      "added_at": "2025-11-07 05:00:47",
-      "album": {
         "name": "Unapologetically (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 197600,
       "name": "Landslide - Live from Nashville",
       "url": "https://open.spotify.com/track/3RxqTdS82J42mKL2L6OnWL"
+    },
+    {
+      "added_at": "2025-11-07 05:00:47",
+      "album": {
+        "name": "Willie And Family Live",
+        "url": "https://open.spotify.com/album/4QDHDu7CU9GwCZHCnZ44JB"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 219296,
+      "name": "Whiskey River - Live at Harrah's Casino, Lake Tahoe, NV - April 1978",
+      "url": "https://open.spotify.com/track/2DC2kFrRHR9IVAuRdjAUQa"
     },
     {
       "added_at": "2025-11-07 05:00:47",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2025-11-07 05:00:47",
       "album": {
-        "name": "Still The One: Live From Vegas",
-        "url": "https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 270186,
-      "name": "Any Man Of Mine - Live",
-      "url": "https://open.spotify.com/track/5V9PVHVvD7He5oWUo69YsQ"
-    },
-    {
-      "added_at": "2025-11-07 05:00:47",
-      "album": {
         "name": "Sounds Like The Radio (Live)",
         "url": "https://open.spotify.com/album/25nHEVlMBs3eRknLJw6laD"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 214561,
       "name": "Sounds Like the Radio - Live",
       "url": "https://open.spotify.com/track/11XAdc6wTAZLetxTkG6FKO"
+    },
+    {
+      "added_at": "2025-11-07 05:00:47",
+      "album": {
+        "name": "Still The One: Live From Vegas",
+        "url": "https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 270186,
+      "name": "Any Man Of Mine - Live",
+      "url": "https://open.spotify.com/track/5V9PVHVvD7He5oWUo69YsQ"
     },
     {
       "added_at": "2025-11-07 05:00:47",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2025-11-07 05:00:47",
       "album": {
+        "name": "Next Thing You Know (Live From The O2 London)",
+        "url": "https://open.spotify.com/album/7eSlozbGidbOROgKxcNkOU"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 181034,
+      "name": "Next Thing You Know - Live From The O2 London",
+      "url": "https://open.spotify.com/track/3iqGOpRkz4V4juMd7ccyIl"
+    },
+    {
+      "added_at": "2025-11-07 05:00:47",
+      "album": {
         "name": "Nobody But You (Duet with Gwen Stefani) [Live]",
         "url": "https://open.spotify.com/album/28JOBmOhSs9ssOBgbxGTrp"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 210880,
       "name": "Nobody But You (Duet with Gwen Stefani) - Live",
       "url": "https://open.spotify.com/track/3twoyaIBmqSyBkIxTQYl5m"
-    },
-    {
-      "added_at": "2025-11-07 05:00:47",
-      "album": {
-        "name": "Next Thing You Know (Live From The O2 London)",
-        "url": "https://open.spotify.com/album/7eSlozbGidbOROgKxcNkOU"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 181034,
-      "name": "Next Thing You Know - Live From The O2 London",
-      "url": "https://open.spotify.com/track/3iqGOpRkz4V4juMd7ccyIl"
     },
     {
       "added_at": "2025-11-07 05:00:47",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2025-11-07 05:00:47",
       "album": {
+        "name": "Knives Of New Orleans (Live At The Pinnacle, Nashville, TN / May 24, 2025)",
+        "url": "https://open.spotify.com/album/2lN838yEt48mCd38i5uPGP"
+      },
+      "artists": [
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "duration_ms": 315346,
+      "name": "Knives Of New Orleans - Live At The Pinnacle, Nashville, TN / May 24, 2025",
+      "url": "https://open.spotify.com/track/4pcdKxD2GPku26pdCYEHKt"
+    },
+    {
+      "added_at": "2025-11-07 05:00:47",
+      "album": {
         "name": "Okie From Muskogee (Live In Muskogee, Oklahoma/1969)",
         "url": "https://open.spotify.com/album/2oQ0VRkbeYmrUXCjy1CPV6"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 288106,
       "name": "Body Like A Back Road - 15 In A 30 Tour Live",
       "url": "https://open.spotify.com/track/2zqSCyJ3aeJRGqPrHuHClk"
-    },
-    {
-      "added_at": "2025-11-07 05:00:47",
-      "album": {
-        "name": "61 Days In Church Volume 1",
-        "url": "https://open.spotify.com/album/2dZjAdGqTcHgYS0tuW4KVR"
-      },
-      "artists": [
-        {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
-        }
-      ],
-      "duration_ms": 259758,
-      "name": "Talladega - Live At Legacy Arena At The BJCC, Birmingham, AL / February 17, 2017",
-      "url": "https://open.spotify.com/track/6q50UDwq3vgqH7Itt2CME7"
     },
     {
       "added_at": "2025-11-07 05:00:47",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2025-11-07 05:00:47",
       "album": {
+        "name": "61 Days In Church Volume 1",
+        "url": "https://open.spotify.com/album/2dZjAdGqTcHgYS0tuW4KVR"
+      },
+      "artists": [
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "duration_ms": 259758,
+      "name": "Talladega - Live At Legacy Arena At The BJCC, Birmingham, AL / February 17, 2017",
+      "url": "https://open.spotify.com/track/6q50UDwq3vgqH7Itt2CME7"
+    },
+    {
+      "added_at": "2025-11-07 05:00:47",
+      "album": {
         "name": "Live From The Palomino",
         "url": "https://open.spotify.com/album/5Ck7OfACj7bJ99vRf2oY3T"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 211706,
       "name": "Write This Down - Live",
       "url": "https://open.spotify.com/track/5AP4NeswU941cNkFxeloME"
-    },
-    {
-      "added_at": "2025-11-07 05:00:47",
-      "album": {
-        "name": "Knives Of New Orleans (Live At The Pinnacle, Nashville, TN / May 24, 2025)",
-        "url": "https://open.spotify.com/album/2lN838yEt48mCd38i5uPGP"
-      },
-      "artists": [
-        {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
-        }
-      ],
-      "duration_ms": 315346,
-      "name": "Knives Of New Orleans - Live At The Pinnacle, Nashville, TN / May 24, 2025",
-      "url": "https://open.spotify.com/track/4pcdKxD2GPku26pdCYEHKt"
     },
     {
       "added_at": "2025-11-07 05:00:47",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2025-11-07 05:00:47",
       "album": {
-        "name": "Me and My Kind (Live)",
-        "url": "https://open.spotify.com/album/4mi8LU8Z2rUQcsQ4vKXswc"
-      },
-      "artists": [
-        {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
-        }
-      ],
-      "duration_ms": 163013,
-      "name": "Me and My Kind - Live",
-      "url": "https://open.spotify.com/track/01pn2Jr3H7j8VOKGTh4Ptf"
-    },
-    {
-      "added_at": "2025-11-07 05:00:47",
-      "album": {
         "name": "The Essential Bobby Bare",
         "url": "https://open.spotify.com/album/3PgY797yBOL2pkPMFm5BJH"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 189080,
       "name": "Marie Laveau",
       "url": "https://open.spotify.com/track/7KfM4dvjWNxKhqEZljtMEQ"
+    },
+    {
+      "added_at": "2025-11-07 05:00:47",
+      "album": {
+        "name": "Me and My Kind (Live)",
+        "url": "https://open.spotify.com/album/4mi8LU8Z2rUQcsQ4vKXswc"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "duration_ms": 163013,
+      "name": "Me and My Kind - Live",
+      "url": "https://open.spotify.com/track/01pn2Jr3H7j8VOKGTh4Ptf"
     }
   ],
   "unique_name": "Country Live",

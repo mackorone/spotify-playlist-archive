@@ -1,6 +1,6 @@
 {
   "description": "Las favoritas de los patrones. Panter B\u00e9lico en portada.",
-  "num_followers": 224758,
+  "num_followers": 224880,
   "original_name": "Corridos Chakalosos",
   "owner": {
     "name": "Spotify",
@@ -647,6 +647,22 @@
     {
       "added_at": "2025-11-07 18:00:12",
       "album": {
+        "name": "Corridos Premium",
+        "url": "https://open.spotify.com/album/1LncFLBzeDfYJ2uxSdbEVI"
+      },
+      "artists": [
+        {
+          "name": "Chicho Castro y Sus Alia2",
+          "url": "https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC"
+        }
+      ],
+      "duration_ms": 172784,
+      "name": "La Yoguriza",
+      "url": "https://open.spotify.com/track/6Eezs4B0SeNyYJT5Y7bDUz"
+    },
+    {
+      "added_at": "2025-11-07 18:00:12",
+      "album": {
         "name": "Si Estuviera el G\u00fcero",
         "url": "https://open.spotify.com/album/1nlJJxuK9NlGUVwOCvLkee"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 245632,
       "name": "Si Estuviera el G\u00fcero",
       "url": "https://open.spotify.com/track/2llTfNMuotrHlU6ZtOaYUb"
-    },
-    {
-      "added_at": "2025-11-07 18:00:12",
-      "album": {
-        "name": "Corridos Premium",
-        "url": "https://open.spotify.com/album/1LncFLBzeDfYJ2uxSdbEVI"
-      },
-      "artists": [
-        {
-          "name": "Chicho Castro y Sus Alia2",
-          "url": "https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC"
-        }
-      ],
-      "duration_ms": 172784,
-      "name": "La Yoguriza",
-      "url": "https://open.spotify.com/track/6Eezs4B0SeNyYJT5Y7bDUz"
     },
     {
       "added_at": "2025-11-07 18:00:12",
@@ -847,8 +847,8 @@
     {
       "added_at": "2025-11-07 18:00:12",
       "album": {
-        "name": "Barbas Y Botas",
-        "url": "https://open.spotify.com/album/4xnyS1V1mrX8F2KejpGU1F"
+        "name": "De LM a GVE",
+        "url": "https://open.spotify.com/album/4mt1JOASnU158hhph30M0l"
       },
       "artists": [
         {
@@ -856,13 +856,13 @@
           "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
         },
         {
-          "name": "El Rabbanito",
-          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
+          "name": "Diferente Nivel",
+          "url": "https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0"
         }
       ],
-      "duration_ms": 209116,
-      "name": "Barbas Y Botas",
-      "url": "https://open.spotify.com/track/1gqus9p1wgFlpAoTcAP7ci"
+      "duration_ms": 151946,
+      "name": "De LM a GVE",
+      "url": "https://open.spotify.com/track/2qHfvwACkkNTFFPOyLPoma"
     },
     {
       "added_at": "2025-11-07 18:00:12",
@@ -915,46 +915,6 @@
     {
       "added_at": "2025-11-07 18:00:12",
       "album": {
-        "name": "100% Mayo",
-        "url": "https://open.spotify.com/album/6uB76hLNZkRHJ7YSkHmRKV"
-      },
-      "artists": [
-        {
-          "name": "Legion RG",
-          "url": "https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V"
-        },
-        {
-          "name": "El Rabbanito",
-          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
-        }
-      ],
-      "duration_ms": 214655,
-      "name": "100% Mayo",
-      "url": "https://open.spotify.com/track/66xebj3Jw2Y6qzuvxnE6QD"
-    },
-    {
-      "added_at": "2025-11-07 18:00:12",
-      "album": {
-        "name": "De LM a GVE",
-        "url": "https://open.spotify.com/album/4mt1JOASnU158hhph30M0l"
-      },
-      "artists": [
-        {
-          "name": "Luis Mexia",
-          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
-        },
-        {
-          "name": "Diferente Nivel",
-          "url": "https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0"
-        }
-      ],
-      "duration_ms": 151946,
-      "name": "De LM a GVE",
-      "url": "https://open.spotify.com/track/2qHfvwACkkNTFFPOyLPoma"
-    },
-    {
-      "added_at": "2025-11-07 18:00:12",
-      "album": {
         "name": "NO QUE NO",
         "url": "https://open.spotify.com/album/26GjwBUtY7YmULJpMuiWoN"
       },
@@ -975,6 +935,46 @@
       "duration_ms": 149655,
       "name": "NO QUE NO",
       "url": "https://open.spotify.com/track/4jcRduigE9cWdQ4i8TLAy4"
+    },
+    {
+      "added_at": "2025-11-07 18:00:12",
+      "album": {
+        "name": "Barbas Y Botas",
+        "url": "https://open.spotify.com/album/4xnyS1V1mrX8F2KejpGU1F"
+      },
+      "artists": [
+        {
+          "name": "Luis Mexia",
+          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
+        },
+        {
+          "name": "El Rabbanito",
+          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
+        }
+      ],
+      "duration_ms": 209116,
+      "name": "Barbas Y Botas",
+      "url": "https://open.spotify.com/track/1gqus9p1wgFlpAoTcAP7ci"
+    },
+    {
+      "added_at": "2025-11-07 18:00:12",
+      "album": {
+        "name": "100% Mayo",
+        "url": "https://open.spotify.com/album/6uB76hLNZkRHJ7YSkHmRKV"
+      },
+      "artists": [
+        {
+          "name": "Legion RG",
+          "url": "https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V"
+        },
+        {
+          "name": "El Rabbanito",
+          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
+        }
+      ],
+      "duration_ms": 214655,
+      "name": "100% Mayo",
+      "url": "https://open.spotify.com/track/66xebj3Jw2Y6qzuvxnE6QD"
     },
     {
       "added_at": "2025-11-07 18:00:12",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2025-11-07 18:00:12",
       "album": {
-        "name": "Punto Y Aparte",
-        "url": "https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 189149,
-      "name": "Seraf\u00edn",
-      "url": "https://open.spotify.com/track/7s9pcSenofBwaNfI0vjisP"
-    },
-    {
-      "added_at": "2025-11-07 18:00:12",
-      "album": {
         "name": "Resguardando El Estado",
         "url": "https://open.spotify.com/album/328Wk4jwQ7klvuVDlogBfr"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 112518,
       "name": "Resguardando El Estado",
       "url": "https://open.spotify.com/track/725bqAGnFr9L8jxUR2IPck"
+    },
+    {
+      "added_at": "2025-11-07 18:00:12",
+      "album": {
+        "name": "Punto Y Aparte",
+        "url": "https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 189149,
+      "name": "Seraf\u00edn",
+      "url": "https://open.spotify.com/track/7s9pcSenofBwaNfI0vjisP"
     },
     {
       "added_at": "2025-11-07 18:00:12",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2025-11-07 18:00:12",
       "album": {
-        "name": "Mejor Que Ayer",
-        "url": "https://open.spotify.com/album/5TL4AEsMF5T6TSCGFiOfT1"
-      },
-      "artists": [
-        {
-          "name": "Los Nuevos Rebeldes",
-          "url": "https://open.spotify.com/artist/3OFZZxPrO2uYjDVglqTwEr"
-        }
-      ],
-      "duration_ms": 167402,
-      "name": "Mejor Que Ayer",
-      "url": "https://open.spotify.com/track/77R8HuQqh7F6CI9p2n1UCF"
-    },
-    {
-      "added_at": "2025-11-07 18:00:12",
-      "album": {
         "name": "La Raza de Michoac\u00e1n",
         "url": "https://open.spotify.com/album/6LV5hKxJFgPPdsxPnua7fN"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 155018,
       "name": "La Raza de Michoac\u00e1n",
       "url": "https://open.spotify.com/track/2V5TwDefnxaxMxByDM2cG1"
+    },
+    {
+      "added_at": "2025-11-07 18:00:12",
+      "album": {
+        "name": "Mejor Que Ayer",
+        "url": "https://open.spotify.com/album/5TL4AEsMF5T6TSCGFiOfT1"
+      },
+      "artists": [
+        {
+          "name": "Los Nuevos Rebeldes",
+          "url": "https://open.spotify.com/artist/3OFZZxPrO2uYjDVglqTwEr"
+        }
+      ],
+      "duration_ms": 167402,
+      "name": "Mejor Que Ayer",
+      "url": "https://open.spotify.com/track/77R8HuQqh7F6CI9p2n1UCF"
     },
     {
       "added_at": "2025-11-07 18:00:12",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2025-11-07 18:00:12",
       "album": {
+        "name": "El 04",
+        "url": "https://open.spotify.com/album/6sAO8JZsJdWIA0x1g53CAq"
+      },
+      "artists": [
+        {
+          "name": "Grupo Recluta",
+          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
+        }
+      ],
+      "duration_ms": 176066,
+      "name": "El 04",
+      "url": "https://open.spotify.com/track/6igq3Wr66N1lbjNs216aHw"
+    },
+    {
+      "added_at": "2025-11-07 18:00:12",
+      "album": {
         "name": "AGL",
         "url": "https://open.spotify.com/album/3x2OQt3w1LLTk7mLs04xe4"
       },
@@ -1219,18 +1235,18 @@
     {
       "added_at": "2025-11-07 18:00:12",
       "album": {
-        "name": "El 04",
-        "url": "https://open.spotify.com/album/6sAO8JZsJdWIA0x1g53CAq"
+        "name": "Over Size",
+        "url": "https://open.spotify.com/album/3sXtgN0yz4fCSswwc955wk"
       },
       "artists": [
         {
-          "name": "Grupo Recluta",
-          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
+          "name": "Equipo HC",
+          "url": "https://open.spotify.com/artist/5GcKJIU0Ooezs9A8vDZQiJ"
         }
       ],
-      "duration_ms": 176066,
-      "name": "El 04",
-      "url": "https://open.spotify.com/track/6igq3Wr66N1lbjNs216aHw"
+      "duration_ms": 150930,
+      "name": "Over Size",
+      "url": "https://open.spotify.com/track/0rpBSAoIVLqFFCbZRW0eH4"
     },
     {
       "added_at": "2025-11-07 18:00:12",
@@ -1247,22 +1263,6 @@
       "duration_ms": 168304,
       "name": "La Segunda Letra",
       "url": "https://open.spotify.com/track/3Thvmerj0JCGMmDocrppbj"
-    },
-    {
-      "added_at": "2025-11-07 18:00:12",
-      "album": {
-        "name": "Over Size",
-        "url": "https://open.spotify.com/album/3sXtgN0yz4fCSswwc955wk"
-      },
-      "artists": [
-        {
-          "name": "Equipo HC",
-          "url": "https://open.spotify.com/artist/5GcKJIU0Ooezs9A8vDZQiJ"
-        }
-      ],
-      "duration_ms": 150930,
-      "name": "Over Size",
-      "url": "https://open.spotify.com/track/0rpBSAoIVLqFFCbZRW0eH4"
     },
     {
       "added_at": "2025-11-07 18:00:12",
@@ -1427,26 +1427,6 @@
     {
       "added_at": "2025-11-07 18:00:12",
       "album": {
-        "name": "Somos Leyenda",
-        "url": "https://open.spotify.com/album/3wCdZP5zvUlanVuNI951Il"
-      },
-      "artists": [
-        {
-          "name": "Grupo Maximo Grado",
-          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
-        },
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        }
-      ],
-      "duration_ms": 219615,
-      "name": "El N1 El Perfil o El Chavalon",
-      "url": "https://open.spotify.com/track/6DijdXsyS0PtjfAnqFsQS2"
-    },
-    {
-      "added_at": "2025-11-07 18:00:12",
-      "album": {
         "name": "Toca Batear",
         "url": "https://open.spotify.com/album/7hNK4GPqNuEYvcX0s1SLnT"
       },
@@ -1483,6 +1463,26 @@
     {
       "added_at": "2025-11-07 18:00:12",
       "album": {
+        "name": "Somos Leyenda",
+        "url": "https://open.spotify.com/album/3wCdZP5zvUlanVuNI951Il"
+      },
+      "artists": [
+        {
+          "name": "Grupo Maximo Grado",
+          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "duration_ms": 219615,
+      "name": "El N1 El Perfil o El Chavalon",
+      "url": "https://open.spotify.com/track/6DijdXsyS0PtjfAnqFsQS2"
+    },
+    {
+      "added_at": "2025-11-07 18:00:12",
+      "album": {
         "name": "DEFIENDO EL TERRE",
         "url": "https://open.spotify.com/album/3dSuYPcIUIgUdUZsKZiDMh"
       },
@@ -1515,26 +1515,6 @@
       "duration_ms": 171785,
       "name": "El Viejo Fino",
       "url": "https://open.spotify.com/track/0fOUYjkxWEtO5lCeqBfqbh"
-    },
-    {
-      "added_at": "2025-11-07 18:00:12",
-      "album": {
-        "name": "Somos Leyenda",
-        "url": "https://open.spotify.com/album/3wCdZP5zvUlanVuNI951Il"
-      },
-      "artists": [
-        {
-          "name": "Grupo Maximo Grado",
-          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 236426,
-      "name": "El Hombre del Equipo",
-      "url": "https://open.spotify.com/track/7kS8h635mshrSVF8qiJfSN"
     },
     {
       "added_at": "2025-11-07 18:00:12",
@@ -1579,6 +1559,26 @@
     {
       "added_at": "2025-11-07 18:00:12",
       "album": {
+        "name": "Somos Leyenda",
+        "url": "https://open.spotify.com/album/3wCdZP5zvUlanVuNI951Il"
+      },
+      "artists": [
+        {
+          "name": "Grupo Maximo Grado",
+          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 236426,
+      "name": "El Hombre del Equipo",
+      "url": "https://open.spotify.com/track/7kS8h635mshrSVF8qiJfSN"
+    },
+    {
+      "added_at": "2025-11-07 18:00:12",
+      "album": {
         "name": "XV Recargado",
         "url": "https://open.spotify.com/album/47pZ8cK6ufjFgX1RNObRLd"
       },
@@ -1607,26 +1607,6 @@
       "duration_ms": 199038,
       "name": "Traficantes Michoacanos",
       "url": "https://open.spotify.com/track/6Wu6lpZXzVTVGlvDCDL2Qk"
-    },
-    {
-      "added_at": "2025-11-07 18:00:12",
-      "album": {
-        "name": "Somos Leyenda",
-        "url": "https://open.spotify.com/album/3wCdZP5zvUlanVuNI951Il"
-      },
-      "artists": [
-        {
-          "name": "Grupo Maximo Grado",
-          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
-        },
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 190796,
-      "name": "El 08",
-      "url": "https://open.spotify.com/track/2aqt0Rj3aBncNXlVwYYMBJ"
     },
     {
       "added_at": "2025-11-07 18:00:12",
@@ -1667,6 +1647,26 @@
       "duration_ms": 274124,
       "name": "El 602",
       "url": "https://open.spotify.com/track/01v0johTl8Ul7Czv3HShgU"
+    },
+    {
+      "added_at": "2025-11-07 18:00:12",
+      "album": {
+        "name": "Somos Leyenda",
+        "url": "https://open.spotify.com/album/3wCdZP5zvUlanVuNI951Il"
+      },
+      "artists": [
+        {
+          "name": "Grupo Maximo Grado",
+          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 190796,
+      "name": "El 08",
+      "url": "https://open.spotify.com/track/2aqt0Rj3aBncNXlVwYYMBJ"
     },
     {
       "added_at": "2025-11-07 18:00:12",

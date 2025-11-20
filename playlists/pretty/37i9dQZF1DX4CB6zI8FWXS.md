@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 
 > R&Bの最新話題曲をまとめてお届けします。cover: Kehlani
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,015 likes - 79 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,011 likes - 79 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 | 33 | [GMFU](https://open.spotify.com/track/20mEy3uJz5iXawPy8RncV0) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [GMFU](https://open.spotify.com/album/5Eb75KVSoTmkow2KZPxADd) | 1:55 |
 | 34 | [Call My Name](https://open.spotify.com/track/7poGIptKUcMCgocjEKFXr5) | [MOMMO](https://open.spotify.com/artist/0DJ2a4raJuSFLSDxKYNwE5) | [Call My Name](https://open.spotify.com/album/7IQqiBEWctiiwWgAf6MJOp) | 2:42 |
 | 35 | [PIMPIN'](https://open.spotify.com/track/6VG33RSohS6y0qfhARz57q) | [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35), [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [PIMPIN'](https://open.spotify.com/album/1cfJseIIMHCbHoHj2IEmiB) | 2:47 |
-| 36 | [Saturday Afternoon](https://open.spotify.com/track/3BdHVuoguj7lLHVocezemX) | [ASA Wu](https://open.spotify.com/artist/67BCocc3uSkXQlr5vm8cC1), [roe](https://open.spotify.com/artist/6ZgfyJzSGlummUBhUK1hxw) | [Saturday Afternoon](https://open.spotify.com/album/6ltaJPaXpvtB4klzcqGhKc) | 3:46 |
+| 36 | [Saturday Afternoon](https://open.spotify.com/track/3BdHVuoguj7lLHVocezemX) | [ASA Wu](https://open.spotify.com/artist/67BCocc3uSkXQlr5vm8cC1), [roe](https://open.spotify.com/artist/3qG6tSR0XvGQiLHNwRp62f) | [Saturday Afternoon](https://open.spotify.com/album/6ltaJPaXpvtB4klzcqGhKc) | 3:46 |
 | 37 | [News](https://open.spotify.com/track/3W5gASBQIeEyhkVLNpuK6n) | [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [News](https://open.spotify.com/album/3pXZd0WkaZDJ4Hq2ILWNnb) | 3:16 |
 | 38 | [Delulu](https://open.spotify.com/track/2BwdUAnoBIJpRPgs8vHg6K) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Delulu](https://open.spotify.com/album/0t336jkNxk7wOJwh3Kq0os) | 4:19 |
 | 39 | [Chapter](https://open.spotify.com/track/70KJSeKzAltdA99kXAwgZX) | [Aveli](https://open.spotify.com/artist/0RZct1EhEet2M2QtwJzIbW) | [Chapter](https://open.spotify.com/album/6cS8PMmQbrHS90LyFw60ri) | 3:33 |

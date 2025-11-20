@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1ZJpJahEFst7u8njXeGFyv.md) - [plain]
 
 > Relax, unwind, study or work to the soundtracks of Einaudi, Bach, Beethoven, Mozart incl\. Yo\-Yo Ma, Alexis Ffrench, Alexandra Streliski and more.
 
-[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 299,060 likes - 254 songs - 14 hr 36 min
+[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 299,036 likes - 254 songs - 14 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -258,7 +258,7 @@ pretty - [cumulative](/playlists/cumulative/1ZJpJahEFst7u8njXeGFyv.md) - [plain]
 | 248 | [The Arts and the Hours \(Arr\. for Guitar by Michael Lewin\)](https://open.spotify.com/track/0sngwonrYrg1CDa0DHH3Yp) | [Jean\-Philippe Rameau](https://open.spotify.com/artist/4JSWO1Pf2zV991fq64uAce), [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4) | [The Arts and the Hours \(Arr\. for Guitar by Michael Lewin\)](https://open.spotify.com/album/2xXlRWZd1WOrdiQtEbaFr1) | 5:15 |
 | 249 | [Rêverie](https://open.spotify.com/track/5glKt0N2CLdzzgLnnLhjUO) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Kathryn Stott](https://open.spotify.com/artist/7JmDqds7Y1LRSWZVM8e0Og) | [Debussy And Ravel Piano Music](https://open.spotify.com/album/36aQDQA7v1iSW9V1YIN2ig) | 5:07 |
 | 250 | [Lumières](https://open.spotify.com/track/22Lvk7dNUOrHesZvr6VaBN) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [Néo\-Romance](https://open.spotify.com/album/0Uv7rvKUVNnEUOBkKyF1Q1) | 3:48 |
-| 251 | [Waltz in C\-sharp minor, Op\. 64 No\. 2](https://open.spotify.com/track/1lOVilzLQuYY2fnFrQ76DK) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Khatia Buniatishvili](https://open.spotify.com/artist/0bouHpX4JiuPnIfP2jFxRi) | [Chopin: Works for Piano](https://open.spotify.com/album/263G1hP6jKqrziAfQUxjFx) | 3:19 |
+| 251 | [Waltz in C\-sharp minor, Op\. 64 No\. 2](https://open.spotify.com/track/1lOVilzLQuYY2fnFrQ76DK) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Khatia Buniatishvili](https://open.spotify.com/artist/0bouHpX4JiuPnIfP2jFxRi) | [Chopin: Works for Piano](https://open.spotify.com/album/263G1hP6jKqrziAfQUxjFx) | 3:23 |
 | 252 | [At Last](https://open.spotify.com/track/0mH9l3C0C3WTV4AhusmsMy) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Evolution](https://open.spotify.com/album/4N4dU9titX6FRpkHnjvAct) | 2:50 |
 | 253 | [Suite Bergamasque, L\. 75: III\. "Clair de lune"](https://open.spotify.com/track/2uaRYOzkMOWjewLlN8aZ3O) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Kathryn Stott](https://open.spotify.com/artist/7JmDqds7Y1LRSWZVM8e0Og) | [Kathryn Stott: The Complete Solo Recordings](https://open.spotify.com/album/6KfVFwkLddOYcSdILrPRnP) | 5:14 |
 | 254 | [Deux Arabesques, L66: No\. 1: Andantino con moto](https://open.spotify.com/track/6nrWWTcOBmoLwcNrLRhY8n) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Kathryn Stott](https://open.spotify.com/artist/7JmDqds7Y1LRSWZVM8e0Og) | [Kathryn Stott: The Complete Solo Recordings](https://open.spotify.com/album/6KfVFwkLddOYcSdILrPRnP) | 4:32 |

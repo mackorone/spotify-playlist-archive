@@ -4,19 +4,19 @@
 
 > 
 
-50 songs - 3 hr 38 min
+50 songs - 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Keep Feeling\) Fascination](https://open.spotify.com/track/1CbavenJa5mkWGOch9gYlO) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Essential](https://open.spotify.com/album/1lPqT8slTmo22gn0jB7G2B) | 3:44 | 2013-06-27 |  |
 | [1999](https://open.spotify.com/track/2H7PHVdQ3mXqEHXcvclTB0) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [1999](https://open.spotify.com/album/3U1ht9EdWEI9nMvaqdQI67) | 6:19 | 2013-06-27 |  |
 | [Africa](https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Toto IV](https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D) | 4:55 | 2013-06-27 |  |
-| [Allentown](https://open.spotify.com/track/2veYJl7RAW2lkveifGHYKT) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Essential Billy Joel](https://open.spotify.com/album/7r36rel1M4gyBavfcJP6Yz) | 3:49 | 2013-06-27 |  |
+| [Allentown](https://open.spotify.com/track/2veYJl7RAW2lkveifGHYKT) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Essential Billy Joel](https://open.spotify.com/album/7r36rel1M4gyBavfcJP6Yz) | 3:52 | 2013-06-27 |  |
 | [Always Something There To Remind Me](https://open.spotify.com/track/29z51PAKjB49P6Mg90apbF) | [Naked Eyes](https://open.spotify.com/artist/3C6chBmZ9wzisBhoh8G2nK) | [Promises, Promises The Very Best Of Naked Eyes](https://open.spotify.com/album/3mCSEgpqM8qiHjcMcvQfyn) | 3:38 | 2013-06-27 |  |
 | [Baby, Come To Me](https://open.spotify.com/track/0vZXYvXqtaCQI3mpz8d8dg) | [Patti Austin](https://open.spotify.com/artist/0JxChc2w5fwTGbXKfc4cRd), [James Ingram](https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo) | [From Q, With Love](https://open.spotify.com/album/5YmsnW8Pk4waaeaEjgE9WT) | 3:37 | 2013-06-27 |  |
 | [Back on the Chain Gang \- 2009 Remaster](https://open.spotify.com/track/190ugv4UiTRy3NPqXIKuS4) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [The Best of the Pretenders](https://open.spotify.com/album/5HCWZgAPmSKejcpKCOfq4P) | 3:53 | 2013-06-27 |  |
 | [Beat It \- Single Version](https://open.spotify.com/track/1Humf1tArArm1bRpmcuD5J) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller 25 Deluxe Edition](https://open.spotify.com/album/6fZzC5F7Ou669z49ybrl2U) | 4:18 | 2013-06-27 |  |
-| [Billie Jean](https://open.spotify.com/track/3SkeDDHXP7IKUEkW4W9zmP) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Number Ones](https://open.spotify.com/album/1jcYwZsN7JEve9xsq9BuUX) | 4:53 | 2013-06-27 |  |
+| [Billie Jean](https://open.spotify.com/track/3SkeDDHXP7IKUEkW4W9zmP) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Number Ones](https://open.spotify.com/album/1jcYwZsN7JEve9xsq9BuUX) | 4:54 | 2013-06-27 |  |
 | [Come On Eileen](https://open.spotify.com/track/0EMmVUYs9ZZRHtlADB88uz) | [Dexys Midnight Runners](https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk) | [Too Rye Ay](https://open.spotify.com/album/0QNluXFRHFyRVDiBHXmstK) | 4:47 | 2013-06-27 |  |
 | [Der Kommissar \(Re\-Recorded / Remastered\)](https://open.spotify.com/track/58UMfG7oJvANzCKB5hI5uI) | [After The Fire](https://open.spotify.com/artist/194g4SFwSSzyPtgkH7v3Cx) | [Der Kommissar \(Re\-Recorded / Remastered\)](https://open.spotify.com/album/2NxCrXVSpZIUGQDuUWhm6U) | 4:04 | 2013-06-27 |  |
 | [Do You Really Want To Hurt Me \- Remastered 2002](https://open.spotify.com/track/3kNIXrf4wOLxBh40tA5NtN) | [Culture Club](https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc) | [Culture Club \(Deluxe Edition\)](https://open.spotify.com/album/1x5yxAvStMBrG5vxdKMdhY) | 4:23 | 2013-06-27 |  |
@@ -45,7 +45,7 @@
 | [Stand Back](https://open.spotify.com/track/6sleEAnBH0sZMe0pOQNidG) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Timespace \- The Best Of Stevie Nicks](https://open.spotify.com/album/2zLZzOfiwQ4hnPCu2gVtKB) | 4:57 | 2013-06-27 |  |
 | [Stray Cat Strut](https://open.spotify.com/track/5yogRsv5ggT6iCnFgvdpho) | [Stray Cats](https://open.spotify.com/artist/2ibPkysx2PXqWLmxFD7jSg) | [Built For Speed](https://open.spotify.com/album/65PptxxbOFNvpAK9oBeVV1) | 3:18 | 2013-06-27 |  |
 | [Sweet Dreams \(Are Made of This\) \- 2005 Remaster](https://open.spotify.com/track/2BUa660u1IgFn9cLbNXVoK) | [Eurythmics](https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB), [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum), [Dave Stewart](https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg) | [Ultimate Collection](https://open.spotify.com/album/1t7fYXGuOKQ61AY4qRtIot) | 3:36 | 2013-06-27 |  |
-| [Tell Her About It](https://open.spotify.com/track/0RfdoNWHJbZxAI3sOWS8Q7) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Essential Billy Joel](https://open.spotify.com/album/7r36rel1M4gyBavfcJP6Yz) | 3:49 | 2013-06-27 |  |
+| [Tell Her About It](https://open.spotify.com/track/0RfdoNWHJbZxAI3sOWS8Q7) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Essential Billy Joel](https://open.spotify.com/album/7r36rel1M4gyBavfcJP6Yz) | 3:55 | 2013-06-27 |  |
 | [The Girl Is Mine \(with Paul McCartney\)](https://open.spotify.com/track/15fvDRnqFdogjUM8PUC0ml) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm), [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [The Essential Michael Jackson](https://open.spotify.com/album/77dNyQA0z8dV33M4so4eRY) | 3:42 | 2013-06-27 |  |
 | [The Safety Dance](https://open.spotify.com/track/5ZpDiWqCG93McsnuHu9uCR) | [Men Without Hats](https://open.spotify.com/artist/34PLzyi7CdXUekiLHYyqXq) | [Rhythm of Youth](https://open.spotify.com/album/3kpkQJB2e5R1Ktr8lTs8yf) | 4:37 | 2013-06-27 |  |
 | [Time \(Clock Of The Heart\) \- Remastered 2003](https://open.spotify.com/track/1tlrAb0CNqn2e8EMb4MWLW) | [Culture Club](https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc) | [Culture Club \(Deluxe Edition\)](https://open.spotify.com/album/1x5yxAvStMBrG5vxdKMdhY) | 3:44 | 2013-06-27 |  |

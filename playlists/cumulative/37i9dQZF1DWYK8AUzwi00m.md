@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYK8AUzwi00m.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYK8AUzwi00m) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYK8AUzwi00m)
 
-### [A Merry Lofi Christmas](https://open.spotify.com/playlist/37i9dQZF1DWYK8AUzwi00m)
+### [christmas lofi](https://open.spotify.com/playlist/37i9dQZF1DWYK8AUzwi00m)
 
 > have yourself a chill and lofi xmas
 

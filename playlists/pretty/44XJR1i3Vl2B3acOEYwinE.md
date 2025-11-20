@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/44XJR1i3Vl2B3acOEYwinE.md) - [plain]
 
 > You know you love them...\. Get ready to sing like no one is listening to scores of timeless pop and rock power ballads.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,056 likes - 79 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,055 likes - 79 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/44XJR1i3Vl2B3acOEYwinE.md) - [plain]
 | 11 | [Free Fallin'](https://open.spotify.com/track/5GicVH0OTGMTR5bwYoXDwo) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Greatest Hits](https://open.spotify.com/album/4jxgzU8zEqO3dk1yjMGNWK) | 4:14 |
 | 12 | [Every Rose Has Its Thorn \- 2003 Remaster](https://open.spotify.com/track/2IJzqbcbQZjcca53yGkX7t) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Poison Love Songs](https://open.spotify.com/album/2Zh4BoER5zWtKT3fwWf1uv) | 4:20 |
 | 13 | [\(I Just\) Died In Your Arms](https://open.spotify.com/track/0YPXkQthLWrhNGoKTbwCJ8) | [Cutting Crew](https://open.spotify.com/artist/3cniTumSiUysiPWXapGx1i) | [The Best Of Cutting Crew](https://open.spotify.com/album/6P6YSjfWz53suf41Bqt9BH) | 4:38 |
-| 14 | [Piano Man](https://open.spotify.com/track/3FCto7hnn1shUyZL42YgfO) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Essential Billy Joel](https://open.spotify.com/album/7r36rel1M4gyBavfcJP6Yz) | 5:36 |
+| 14 | [Piano Man](https://open.spotify.com/track/3FCto7hnn1shUyZL42YgfO) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Essential Billy Joel](https://open.spotify.com/album/7r36rel1M4gyBavfcJP6Yz) | 5:39 |
 | 15 | [Broken Wings](https://open.spotify.com/track/7kt5ALe1E81qBUemLzKuUs) | [Mr\. Mister](https://open.spotify.com/artist/7Bah8E0kCETqEpAHI6CPzQ) | [Pure..\. Rock Ballads](https://open.spotify.com/album/318UWNYIe1XLT6HuDjgJla) | 4:41 |
 | 16 | [It's All Coming Back to Me Now \- Radio Edit 1](https://open.spotify.com/track/3QWErpz9ZoKAn76haCVry5) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [My Love Essential Collection](https://open.spotify.com/album/41IwxoZoITRNmQheABRtwc) | 5:20 |
 | 17 | [What's Love Got to Do with It](https://open.spotify.com/track/0PlxkfQrCeE0XMqcjGlzsi) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Tina!](https://open.spotify.com/album/6FkWiSUX7YAdxOlHPrIzMj) | 3:46 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/44XJR1i3Vl2B3acOEYwinE.md) - [plain]
 | 31 | [Un\-Break My Heart](https://open.spotify.com/track/1wyNvV8uXr35T8ChEypf8n) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [The Essential Toni Braxton](https://open.spotify.com/album/44YkbOX8QxlFuBtYec4hPG) | 4:30 |
 | 32 | [You're Beautiful](https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Back to Bedlam](https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF) | 3:29 |
 | 33 | [Time After Time](https://open.spotify.com/track/6G41H0Zd0kQ1WXWDoEotoJ) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [The Essential Cyndi Lauper](https://open.spotify.com/album/5BXCm3N0Uv0IU2uIUAshr2) | 4:01 |
-| 34 | [Girl On Fire](https://open.spotify.com/track/6qOEjO2IUD7PjtpsXawq0d) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Girl On Fire](https://open.spotify.com/album/7sG2gH4SFp1GszxOkBZdZR) | 3:44 |
+| 34 | [Girl on Fire](https://open.spotify.com/track/6qOEjO2IUD7PjtpsXawq0d) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Girl on Fire](https://open.spotify.com/album/7sG2gH4SFp1GszxOkBZdZR) | 3:44 |
 | 35 | [I Will Always Love You](https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 4:31 |
 | 36 | [Hero](https://open.spotify.com/track/3wlmPMSqa0ErsHefznrj98) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Ballads](https://open.spotify.com/album/7ytzzJHmN6NqrFYCEAful2) | 4:18 |
 | 37 | [Never Forget](https://open.spotify.com/track/4A7VbI2m0mTMX4OHPWLfto) | [Take That](https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ) | [Never Forget \- The Ultimate Collection](https://open.spotify.com/album/6bWWZvCQwCpfyi5NeKYDui) | 6:24 |

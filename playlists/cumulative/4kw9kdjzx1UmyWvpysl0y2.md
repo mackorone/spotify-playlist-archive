@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,119 songs - 2 day 14 hr 32 min
+1,120 songs - 2 day 14 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,6 +242,7 @@
 | [Deeper Purpose](https://open.spotify.com/track/0F85jQDf7wPFBv2evo7sXG) | [rshand](https://open.spotify.com/artist/7gjIrPoGRWrG0ymsV5TZ16) | [Bloom](https://open.spotify.com/album/77pYQnGdJIiYO3h5uf9QUj) | 3:08 | 2024-07-23 | 2024-10-16 |
 | [Deja Reve](https://open.spotify.com/track/1nkpXkr1Qacmp2BPd6mgct) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Deja Reve](https://open.spotify.com/album/1hKAyeVJEnIJWZtKOkhnsu) | 2:48 | 2022-03-21 | 2022-06-03 |
 | [destination heartbreak](https://open.spotify.com/track/52jU1xu6sYArAcWufqlpyK) | [zensei ゼンセー](https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63) | [destination heartbreak pt\. 2](https://open.spotify.com/album/3YHaDF9skvzUA0OvqzTZD8) | 3:47 | 2023-02-10 | 2023-05-03 |
+| [Devotion](https://open.spotify.com/track/3pZiQdpk32YuxLSU3RTzD2) | [\[IVY\]](https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw), [Adalaide Adams](https://open.spotify.com/artist/2DPd9FRFSPPDdESOqZvWoC) | [Devotion](https://open.spotify.com/album/71sH8ZDzymxmy8N0xHbfRL) | 3:13 | 2025-11-19 |  |
 | [Different](https://open.spotify.com/track/3rnFEiW9efHwnzsb9KzUVd) | [Fløa](https://open.spotify.com/artist/3XgQiERzlGzUe286O2jo7I), [OAI](https://open.spotify.com/artist/518xSxGVtLL5ck9r5xzasg) | [Different](https://open.spotify.com/album/568K9K7mWXC3FDBcPKQfb5) | 3:20 | 2022-10-21 | 2023-01-11 |
 | [Digital Friends](https://open.spotify.com/track/0ygnGDRZjKhO9nOXo2WlLI) | [No Mana](https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg), [SOFI](https://open.spotify.com/artist/5JQzXeT8vXc1N4Y6tGenCb) | [Digital Friends](https://open.spotify.com/album/5BssQ7HjIK7tyeiKLBVWPs) | 3:41 | 2024-02-01 | 2024-04-23 |
 | [Dilemma](https://open.spotify.com/track/1B9t3ewu5mPiFHbWcGudRk) | [Stonebank](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377), [Bianca](https://open.spotify.com/artist/43BmOTbp0fKzSvC4YxykMl) | [Dilemma](https://open.spotify.com/album/1LEREp3j92WCGRMt93W3GD) | 3:29 | 2022-10-17 | 2022-12-17 |

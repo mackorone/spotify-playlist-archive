@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3QfEWUJA2k1c2AICnunShP.md) - [plain]
 
 > Klassik &amp; Instrumental Soundtrack Konzentration, Entspannen
 
-[Filtr Germany](https://open.spotify.com/user/playlists.germany) - 30,829 likes - 150 songs - 8 hr 3 min
+[Filtr Germany](https://open.spotify.com/user/playlists.germany) - 30,856 likes - 150 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,7 +154,7 @@ pretty - [cumulative](/playlists/cumulative/3QfEWUJA2k1c2AICnunShP.md) - [plain]
 | 144 | [5 Stücke im Volkston, Op\. 102: II\. Langsam](https://open.spotify.com/track/72M1QxJ62X7eCpt5v6uSZb) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Sol Gabetta](https://open.spotify.com/artist/4XvLzjMwnILZ9YnMHOVMIN), [Bertrand Chamayou](https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp) | [Schumann](https://open.spotify.com/album/2RcexpTBL3UC95AwyTqZAp) | 3:21 |
 | 145 | [Adagio in E\-Flat Major, K\. 15kk](https://open.spotify.com/track/34AdPPizyBq6jTfKmmolvG) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Martin Stadtfeld](https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9) | [Baby Klassik, Vol\. 2: Musik, die beruhigt und Kindern guttut](https://open.spotify.com/album/375CCVxEAv3yUlO4SdQqNr) | 4:13 |
 | 146 | [Armellodie](https://open.spotify.com/track/3GfDVDXAs3sxsnfYJ2MG9z) | [Chilly Gonzales](https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83), [Olga Scheps](https://open.spotify.com/artist/07Nqz7k5QdR10iuTJkd6Mp) | [Melody](https://open.spotify.com/album/0CWT7zFSzfNHq6mkY9dZxq) | 4:40 |
-| 147 | [Song of the Birds](https://open.spotify.com/track/6tjMGof9L2z61y2MtTN8fS) | [Pau Casals](https://open.spotify.com/artist/42ZCvzken6DllCB1xghinZ), [Sol Gabetta](https://open.spotify.com/artist/4XvLzjMwnILZ9YnMHOVMIN), [Amsterdam Sinfonietta](https://open.spotify.com/artist/2qx7K1T3gw9J0JTQnaGnBD) | [Prayer](https://open.spotify.com/album/6BA0uvfekY4KsPqo0nZWjg) | 3:42 |
+| 147 | [Song of the Birds](https://open.spotify.com/track/6tjMGof9L2z61y2MtTN8fS) | [Pau Casals](https://open.spotify.com/artist/42ZCvzken6DllCB1xghinZ), [Sol Gabetta](https://open.spotify.com/artist/4XvLzjMwnILZ9YnMHOVMIN), [Amsterdam Sinfonietta](https://open.spotify.com/artist/2qx7K1T3gw9J0JTQnaGnBD) | [Prayer](https://open.spotify.com/album/6BA0uvfekY4KsPqo0nZWjg) | 3:56 |
 | 148 | [Nessun Dorma](https://open.spotify.com/track/6NsZucPvDbyARfXLgTpY9u) | [Giacomo Puccini](https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR), [HAUSER](https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [Robert Ziegler](https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx) | [Classic](https://open.spotify.com/album/3gZv6Vq2Q2a300JEUV8Dq9) | 2:57 |
 | 149 | [Le clair de lune](https://open.spotify.com/track/4RPNnsMlvnXuh5oSMAvC1m) | [Alban Claudin](https://open.spotify.com/artist/6lhj65affyKVttGzdfUrJp) | [Le clair de lune](https://open.spotify.com/album/71nv1eqwlnGmb5GIaNrfPD) | 4:08 |
 | 150 | [Seuls](https://open.spotify.com/track/6bmSDTpDpOdl9kLA3p6S1n) | [Thomas Horeczko](https://open.spotify.com/artist/45hfjgJ2kOKtAhKIHLpTZX), [Stéphane Horeczko](https://open.spotify.com/artist/1t3wHfR1IXybR0wztmjkyG), [Braths](https://open.spotify.com/artist/1v2CQluRj2ywORRhdk3sQd) | [Seuls](https://open.spotify.com/album/0NOAGelOYr8fjnjZ1nCw1K) | 2:48 |

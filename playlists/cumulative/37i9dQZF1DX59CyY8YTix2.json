@@ -3185,6 +3185,24 @@
     },
     {
       "album": {
+        "name": "DARMA GRAND PRIX",
+        "url": "https://open.spotify.com/album/0lfdhZeXQ140S9DmUss843"
+      },
+      "artists": [
+        {
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259866,
+      "name": "DARMA GRAND PRIX",
+      "url": "https://open.spotify.com/track/3ObSLLg2RNv3vhL2fIB5EK"
+    },
+    {
+      "album": {
         "name": "S.O.O.M",
         "url": "https://open.spotify.com/album/7xceq6o7W4p8MN7xUgDbkY"
       },
@@ -24702,7 +24720,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 238200,
       "name": "\u30db\u30fc\u30e0\u30ab\u30df\u30f3\u30b0",
       "url": "https://open.spotify.com/track/25imQn6HeoDQ9BQ8UcMpg4"
@@ -29316,7 +29334,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 208630,
       "name": "\u604b\u306e8\u79d2\u30eb\u30fc\u30eb",
       "url": "https://open.spotify.com/track/26TnbXOgpNt5tIsAl5Qezv"
@@ -30978,6 +30996,24 @@
       "duration_ms": 247426,
       "name": "\u6708\u4e26\u307f\u306b\u8f1d\u3051",
       "url": "https://open.spotify.com/track/22IFbzcuLrK7ZAoj6Ms9I0"
+    },
+    {
+      "album": {
+        "name": "\u6709\u5fc3\u8ad6",
+        "url": "https://open.spotify.com/album/1ipf6VYiymoeUxWPULNwtV"
+      },
+      "artists": [
+        {
+          "name": "ZUTOMAYO",
+          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248600,
+      "name": "\u6709\u5fc3\u8ad6",
+      "url": "https://open.spotify.com/track/0p07bRejRNjkMkjwEKqYJy"
     },
     {
       "album": {

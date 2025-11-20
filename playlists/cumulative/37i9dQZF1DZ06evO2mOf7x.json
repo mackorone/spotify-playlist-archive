@@ -1753,6 +1753,24 @@
     },
     {
       "album": {
+        "name": "Ana Barbara",
+        "url": "https://open.spotify.com/album/5mc5YQDRvnlquuDzUXcaEa"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183440,
+      "name": "Todo Lo Aprend\u00ed De Ti",
+      "url": "https://open.spotify.com/track/0MmLN1vEnUBPPlVdIbajUL"
+    },
+    {
+      "album": {
         "name": "Necesito Olvidarte",
         "url": "https://open.spotify.com/album/55XhUs9Cx4KtWxIRjLxOPr"
       },
@@ -1764,7 +1782,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 184426,
       "name": "Todo Lo Aprend\u00ed De Ti",
       "url": "https://open.spotify.com/track/7coeVuxvfdL9xM1gy2PfqT"

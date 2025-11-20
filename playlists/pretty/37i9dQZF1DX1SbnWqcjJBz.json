@@ -1,6 +1,6 @@
 {
   "description": "this should have been her espresso\n\nSee also: <a href=\"spotify:playlist:37i9dQZF1DX7YE2tQ4q86h\">OBSESSED</a>",
-  "num_followers": 131610,
+  "num_followers": 131622,
   "original_name": "Deserved",
   "owner": {
     "name": "Spotify",
@@ -359,6 +359,22 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
+        "name": "I'm Not Dead",
+        "url": "https://open.spotify.com/album/5rK6h49Qd6gSxxbQGMrWfq"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 214386,
+      "name": "U + Ur Hand",
+      "url": "https://open.spotify.com/track/1iOJQhxKSJ7dg3Dk03yPnl"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
         "name": "Hot Mess",
         "url": "https://open.spotify.com/album/41TUivD915ztiKgyu99H9T"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 196413,
       "name": "Good Girls Go Bad (feat. Leighton Meester)",
       "url": "https://open.spotify.com/track/7kMfu3KUydmrFVGEAhjtyl"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
-        "name": "I'm Not Dead",
-        "url": "https://open.spotify.com/album/5rK6h49Qd6gSxxbQGMrWfq"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 214386,
-      "name": "U + Ur Hand",
-      "url": "https://open.spotify.com/track/1iOJQhxKSJ7dg3Dk03yPnl"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Love. Angel. Music. Baby.",
-        "url": "https://open.spotify.com/album/34y7m68F7rN9ou6m5GWohR"
-      },
-      "artists": [
-        {
-          "name": "Gwen Stefani",
-          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
-        }
-      ],
-      "duration_ms": 189333,
-      "name": "Cool",
-      "url": "https://open.spotify.com/track/4QvTOAIVxL3NGgrIYU97pj"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "LM5 (Deluxe)",
         "url": "https://open.spotify.com/album/7Ho8gAx4haSxv1eFLQwvTj"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 154786,
       "name": "Wasabi",
       "url": "https://open.spotify.com/track/7IOuCLt770D8v0u3SVaDeI"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Love. Angel. Music. Baby.",
+        "url": "https://open.spotify.com/album/34y7m68F7rN9ou6m5GWohR"
+      },
+      "artists": [
+        {
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "Cool",
+      "url": "https://open.spotify.com/track/4QvTOAIVxL3NGgrIYU97pj"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -836,7 +836,7 @@
           "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
         }
       ],
-      "duration_ms": 239853,
+      "duration_ms": 240164,
       "name": "Your Body",
       "url": "https://open.spotify.com/track/2pmtavvgqZN52EePYxutgk"
     },
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
+        "name": "A Joyful Noise",
+        "url": "https://open.spotify.com/album/6AKGyIfiwcptAUUzLDB0Gd"
+      },
+      "artists": [
+        {
+          "name": "Gossip",
+          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
+        }
+      ],
+      "duration_ms": 211819,
+      "name": "Move in the Right Direction",
+      "url": "https://open.spotify.com/track/4hjfOnzzrrrDAGt286htU6"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
         "name": "About U",
         "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 272806,
       "name": "I Know A Place",
       "url": "https://open.spotify.com/track/0bPSRn4crnh5f1JhELPlyL"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
-        "name": "A Joyful Noise",
-        "url": "https://open.spotify.com/album/6AKGyIfiwcptAUUzLDB0Gd"
-      },
-      "artists": [
-        {
-          "name": "Gossip",
-          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
-        }
-      ],
-      "duration_ms": 211853,
-      "name": "Move in the Right Direction",
-      "url": "https://open.spotify.com/track/4hjfOnzzrrrDAGt286htU6"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1113,6 +1113,22 @@
       "url": "https://open.spotify.com/track/5hlN9YiUVFC7NGRiwyYFKi"
     },
     {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Buzz",
+        "url": "https://open.spotify.com/album/3v05QR8PM7Mc8zba3jR8Na"
+      },
+      "artists": [
+        {
+          "name": "Steps",
+          "url": "https://open.spotify.com/artist/17UkABEasVRlCcIFZ3wHb7"
+        }
+      ],
+      "duration_ms": 197360,
+      "name": "It's the Way You Make Me Feel",
+      "url": "https://open.spotify.com/track/2B1jt2a6zdN4qLiugoEJry"
+    },
+    {
       "added_at": "2025-09-05 02:01:30",
       "album": {
         "name": "Me, You & The Music",
@@ -1135,22 +1151,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Buzz",
-        "url": "https://open.spotify.com/album/3v05QR8PM7Mc8zba3jR8Na"
-      },
-      "artists": [
-        {
-          "name": "Steps",
-          "url": "https://open.spotify.com/artist/17UkABEasVRlCcIFZ3wHb7"
-        }
-      ],
-      "duration_ms": 197360,
-      "name": "It's the Way You Make Me Feel",
-      "url": "https://open.spotify.com/track/2B1jt2a6zdN4qLiugoEJry"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "Breathe In. Breathe Out.",
         "url": "https://open.spotify.com/album/2hyPisCjBWeFQ90FLwhriT"
       },
@@ -1160,7 +1160,7 @@
           "url": "https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h"
         }
       ],
-      "duration_ms": 185920,
+      "duration_ms": 185921,
       "name": "Sparks",
       "url": "https://open.spotify.com/track/2ipJSuGf1GtxSIt2KvOGxl"
     },
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Neon Nights (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5wPGmNlCTfX44dFqvefJUE"
-      },
-      "artists": [
-        {
-          "name": "Dannii Minogue",
-          "url": "https://open.spotify.com/artist/6XCS9JCn56Q252cMOTbeq6"
-        }
-      ],
-      "duration_ms": 219999,
-      "name": "I Begin to Wonder",
-      "url": "https://open.spotify.com/track/5OKjyuulniceXswXHLYZqV"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "Exposed (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7f45cxgKjDpNLsvscwYvjS"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 208133,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/5myYDbAurm1CW038qd4gL2"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Neon Nights (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5wPGmNlCTfX44dFqvefJUE"
+      },
+      "artists": [
+        {
+          "name": "Dannii Minogue",
+          "url": "https://open.spotify.com/artist/6XCS9JCn56Q252cMOTbeq6"
+        }
+      ],
+      "duration_ms": 219999,
+      "name": "I Begin to Wonder",
+      "url": "https://open.spotify.com/track/5OKjyuulniceXswXHLYZqV"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
+        "name": "MDNA (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6xmfXi6p6SAxD4Rd7swccG"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 223066,
+      "name": "Girl Gone Wild",
+      "url": "https://open.spotify.com/track/6SONqPbbSCVP5rgi0CdRxu"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
         "name": "Record Collection",
         "url": "https://open.spotify.com/album/0m8wvW3WNm9D7J0KUlbf3h"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 297933,
       "name": "Somebody to Love Me",
       "url": "https://open.spotify.com/track/2Tky1eOpdLXo8yYawnTMcj"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
-        "name": "MDNA (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6xmfXi6p6SAxD4Rd7swccG"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 223066,
-      "name": "Girl Gone Wild",
-      "url": "https://open.spotify.com/track/6SONqPbbSCVP5rgi0CdRxu"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1623,6 +1623,26 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
+        "name": "TREAT MYSELF",
+        "url": "https://open.spotify.com/album/766Hr0WDvATeOSIo41JvNs"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        },
+        {
+          "name": "Mike Sabath",
+          "url": "https://open.spotify.com/artist/3UTCjjwxYJioyA39EX6ciu"
+        }
+      ],
+      "duration_ms": 176947,
+      "name": "Wave (feat. Mike Sabath)",
+      "url": "https://open.spotify.com/track/0kOUusNPraZGQfqcnA1zoP"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
         "name": "Glorious (Deluxe)",
         "url": "https://open.spotify.com/album/5AQ7uKRSpAv7SNUl4j24ru"
       },
@@ -1651,26 +1671,6 @@
       "duration_ms": 236533,
       "name": "Cry",
       "url": "https://open.spotify.com/track/7wgxq27uOvfydLunYkcmAU"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
-        "name": "TREAT MYSELF",
-        "url": "https://open.spotify.com/album/766Hr0WDvATeOSIo41JvNs"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        },
-        {
-          "name": "Mike Sabath",
-          "url": "https://open.spotify.com/artist/3UTCjjwxYJioyA39EX6ciu"
-        }
-      ],
-      "duration_ms": 176947,
-      "name": "Wave (feat. Mike Sabath)",
-      "url": "https://open.spotify.com/track/0kOUusNPraZGQfqcnA1zoP"
     },
     {
       "added_at": "2024-06-02 21:23:10",

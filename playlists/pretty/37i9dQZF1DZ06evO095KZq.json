@@ -1,12 +1,12 @@
 {
   "description": "This is El Fantasma. The essential tracks, all in one playlist.",
-  "num_followers": 446431,
+  "num_followers": 446444,
   "original_name": "This Is El Fantasma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRplgAAAAADrjPzkJGpp8RsHp/zwKM2d",
+  "snapshot_id": "aRu3AAAAAADLXcW8/GErjD+e6iDdBVGa",
   "tracks": [
     {
       "added_at": null,
@@ -763,26 +763,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Presente",
-        "url": "https://open.spotify.com/album/5mDRq6vrhdQotvLYSUrpc8"
+        "name": "Mi Tiempo",
+        "url": "https://open.spotify.com/album/4ddYhPxSE6ucq6YMcpBTrA"
       },
       "artists": [
         {
           "name": "El Fantasma",
           "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        },
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        },
-        {
-          "name": "GERARDO DIAZ Y SU GERARQUIA",
-          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
         }
       ],
-      "duration_ms": 145101,
-      "name": "Presente",
-      "url": "https://open.spotify.com/track/1jjmhcu7bLoF5kbNpFASod"
+      "duration_ms": 114014,
+      "name": "Mi Tiempo",
+      "url": "https://open.spotify.com/track/2A1eiNAgxHeUAzOqAK3JBt"
     },
     {
       "added_at": null,
@@ -803,18 +795,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Tiempo",
-        "url": "https://open.spotify.com/album/4ddYhPxSE6ucq6YMcpBTrA"
+        "name": "Presente",
+        "url": "https://open.spotify.com/album/5mDRq6vrhdQotvLYSUrpc8"
       },
       "artists": [
         {
           "name": "El Fantasma",
           "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        },
+        {
+          "name": "GERARDO DIAZ Y SU GERARQUIA",
+          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
         }
       ],
-      "duration_ms": 114014,
-      "name": "Mi Tiempo",
-      "url": "https://open.spotify.com/track/2A1eiNAgxHeUAzOqAK3JBt"
+      "duration_ms": 145101,
+      "name": "Presente",
+      "url": "https://open.spotify.com/track/1jjmhcu7bLoF5kbNpFASod"
     },
     {
       "added_at": null,

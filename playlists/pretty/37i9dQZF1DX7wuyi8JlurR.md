@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7wuyi8JlurR.md) - [plain]
 
 > Risk\. Reward\. Repeat\. Listen to the music from Industry, now streaming on Max.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,910 likes - 166 songs - 11 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,908 likes - 166 songs - 11 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7wuyi8JlurR.md) - [plain]
 | 4 | [Natural Habitat \(feat\. Ken Carson\)](https://open.spotify.com/track/3s9PhZ3X5NH3Dgrtd4K8lM) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Natural Habitat](https://open.spotify.com/album/4CkICP9DdEovx6lQdLpDj9) | 3:28 |
 | 5 | [Blurred](https://open.spotify.com/track/3qfo4xvjmQDAFCtz0QiYAq) | [Darkstar](https://open.spotify.com/artist/45ALMSzoLNFkaYxyhS4QZ1) | [Civic Jams](https://open.spotify.com/album/08Me110eu0eX0hbt3fHGUt) | 2:45 |
 | 6 | [Qui aime t'il vraiment \- Remastered](https://open.spotify.com/track/2LCM9mcPG4DKbzuzt0r2Ou) | [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g) | [Le temps de l'amour \(Remastered\)](https://open.spotify.com/album/6pwbO6SJEof9Q8LuTUyGPO) | 2:03 |
-| 7 | [Home Again](https://open.spotify.com/track/1381rfnkAKhUeqP0J12kk3) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 2:29 |
+| 7 | [Home Again](https://open.spotify.com/track/1381rfnkAKhUeqP0J12kk3) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 2:28 |
 | 8 | [Blue Spring](https://open.spotify.com/track/0bAWaZDiLeEkODvb2LedUV) | [Nathan Micay](https://open.spotify.com/artist/6U7MOIhacysUEnfJ41WfhC) | [Industry Season 2 OST](https://open.spotify.com/album/4Q0tm5AyHuqAUVrslwC1hl) | 4:14 |
 | 9 | [Easy To Be Hard](https://open.spotify.com/track/2XZEAYYRMBvkY7c2Z8YGox) | [Three Dog Night](https://open.spotify.com/artist/4FAEZeJcsYYBkNq2D3KGTV) | [The Best Of 3 Dog Night](https://open.spotify.com/album/0hQ9bcocveWRrJ0Z2TbEa7) | 3:10 |
 | 10 | [Modular 4](https://open.spotify.com/track/3ZSI6XjWJkoeXpUsPyMnG0) | [Godford](https://open.spotify.com/artist/4pUwtnbS6FdBniLp410AOu) | [III](https://open.spotify.com/album/39Wnjd7ymEfza5HvTtP3cr) | 2:00 |
@@ -142,9 +142,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7wuyi8JlurR.md) - [plain]
 | 132 | [The Party We Could Have](https://open.spotify.com/track/4ieO3GnOkATpOnUuAx7NCE) | [Nathan Micay](https://open.spotify.com/artist/6U7MOIhacysUEnfJ41WfhC) | [Blue Spring](https://open.spotify.com/album/1T1rJ0m1cnqF4p82AK6YpR) | 7:08 |
 | 133 | [Ooo](https://open.spotify.com/track/5mx7woTHttNr1tbFAIJeb7) | [IAMDDB](https://open.spotify.com/artist/7za6M9P94wuMsOVCHopTsI) | [Hoodrich Vol\. 3](https://open.spotify.com/album/5fABa5up9Eit0AP1juW4Qm) | 3:22 |
 | 134 | [Sticky Leaves](https://open.spotify.com/track/0k0x7PyNIxm8mwagibyumc) | [Linying](https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW) | [Paris 12](https://open.spotify.com/album/5mqNIM3ezLBo9BEYdL1DIA) | 3:52 |
-| 135 | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/track/0EwuAHdON2ma8UBa7Flpee) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [A Christmas Gift For You From Phil Spector](https://open.spotify.com/album/2kzkwgOFAtRsDsas5Hi0Qu) | 2:37 |
+| 135 | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/track/0EwuAHdON2ma8UBa7Flpee) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [A Christmas Gift For You From Phil Spector](https://open.spotify.com/album/2kzkwgOFAtRsDsas5Hi0Qu) | 2:41 |
 | 136 | [Lonely This Christmas](https://open.spotify.com/track/6ka53p5HloApRQ2ptSpuGB) | [Mud](https://open.spotify.com/artist/3cqIsBnzV3BabbPWKz8Txf) | [The Very Best Of Mud](https://open.spotify.com/album/6fkg20RDjOK5JSZ3wqt6i4) | 3:33 |
-| 137 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/46pF1zFimM582ss1PrMy68) | [Darlene Love](https://open.spotify.com/artist/391oLRVmoTkumiN79HkTWu) | [A Christmas Gift For You From Phil Spector](https://open.spotify.com/album/2kzkwgOFAtRsDsas5Hi0Qu) | 2:46 |
+| 137 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/46pF1zFimM582ss1PrMy68) | [Darlene Love](https://open.spotify.com/artist/391oLRVmoTkumiN79HkTWu) | [A Christmas Gift For You From Phil Spector](https://open.spotify.com/album/2kzkwgOFAtRsDsas5Hi0Qu) | 2:50 |
 | 138 | [Tchaikovsky: The Nutcracker, Op\. 71, Act 2: No\. 13, Waltz of the Flowers](https://open.spotify.com/track/2EM3z870MwvKASPO23MeUB) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [David Arnold](https://open.spotify.com/artist/0mCdmt2O8dd8jJWv7m24EE) | [Last Night of the Proms](https://open.spotify.com/album/1nuOBOdelvIB0B7CqzVAXE) | 7:04 |
 | 139 | [I Just Love What You're Doing \- 2011 Remaster](https://open.spotify.com/track/5UQQNUf6IOSxDJZB0zO3Lb) | [Hot Chocolate](https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi) | [Box Selection \(Their 8 RAK Albums 1974\-1983\)](https://open.spotify.com/album/2l9LA8XgdbgbnZ34TQ6eIc) | 6:35 |
 | 140 | [Step Into Christmas \- Remastered 1995](https://open.spotify.com/track/6sBWmE23q6xQHlnEZ8jYPT) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(40th Anniversary Celebration / Super Deluxe\)](https://open.spotify.com/album/5u5AXYtYIxnIs4S7K3xHAN) | 4:32 |

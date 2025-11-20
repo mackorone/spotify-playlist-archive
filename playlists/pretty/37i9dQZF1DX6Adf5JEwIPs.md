@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Enigma Norteño
 
-[Spotify](https://open.spotify.com/user/spotify) - 714,774 likes - 71 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 714,779 likes - 71 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,11 +68,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 58 | [El Viejito](https://open.spotify.com/track/01KudOLmdpm5px1uAP6FBF) | [Victor Eme](https://open.spotify.com/artist/7pqC92doZ7JCuW52HhonW6) | [El Viejito](https://open.spotify.com/album/794r1t5Qlu44PeYXDD5QhU) | 2:31 |
 | 59 | [¿Quién Será?](https://open.spotify.com/track/4kzQKgmgTT6M05dWsFfBrg) | [Los Kassino de Chucho Pinto](https://open.spotify.com/artist/2ZPux4rCSexYNvZoRbgo6J) | [¿Quién Será?](https://open.spotify.com/album/2dws6CpV4YOhsBQZpqGOcW) | 3:42 |
 | 60 | [EL BOSS](https://open.spotify.com/track/1yb2O8C3RJtaqTxOIeitFW) | [Luis Sandoval](https://open.spotify.com/artist/29CZrQcy62hjQLwfp1oZl0), [3 Caleb](https://open.spotify.com/artist/28bkOQcxioYFEsE06mmnkd) | [EL BOSS](https://open.spotify.com/album/5UoHW6NcNi86i8tfevcJkD) | 1:45 |
-| 61 | [Se Me Murió El Amor](https://open.spotify.com/track/0deAHUwu0dSMbOHJbloNkR) | [Chuy Lizarraga](https://open.spotify.com/artist/4FLk07tIHIkAQ4lFmcM6Ji) | [Se Me Murió El Amor](https://open.spotify.com/album/0GUxYv5549gBn6eZnn8C5F) | 2:59 |
+| 61 | [Se Me Murió El Amor](https://open.spotify.com/track/0deAHUwu0dSMbOHJbloNkR) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [Se Me Murió El Amor](https://open.spotify.com/album/0GUxYv5549gBn6eZnn8C5F) | 2:59 |
 | 62 | [Tus Palabras](https://open.spotify.com/track/73UxSb6sM0SdvdhGQPM6wZ) | [Grupo Aficion](https://open.spotify.com/artist/49weauk9NAWsBV2o3icbdM) | [En Vivo FP Vol\. 2](https://open.spotify.com/album/3xvFTJbJlanrnNTNfjctZj) | 3:19 |
 | 63 | [Vida y Libertad](https://open.spotify.com/track/1fMAYvrvgG8cf4ufKgIxem) | [Omar Cardenas](https://open.spotify.com/artist/1qBSUcTlQ7s7pPcnYeRK4c) | [Vida y Libertad](https://open.spotify.com/album/2CBPdjzUoornafcRyuBFRQ) | 3:14 |
 | 64 | [Algo Para Siempre](https://open.spotify.com/track/2n3dABKKWhOCNcLIjTY4Vn) | [Destino](https://open.spotify.com/artist/1OxOSIlaBxSoWcT7UzxFwZ) | [Algo Para Siempre](https://open.spotify.com/album/0XQsWCJWTWconBMYIirUrL) | 2:32 |
-| 65 | [Loqueron](https://open.spotify.com/track/6LCdLe8LN2jBDWcRmydG8J) | [Yahir Poceros](https://open.spotify.com/artist/43pWfoBGxmmSOLVRy07Axj), [Mejía](https://open.spotify.com/artist/4gviqe7zyiPirNOb37Zh9s) | [Loqueron](https://open.spotify.com/album/0sc3Rd9BNM7me0Ii3wqMp5) | 3:27 |
+| 65 | [Loqueron](https://open.spotify.com/track/6LCdLe8LN2jBDWcRmydG8J) | [Yahir Poceros](https://open.spotify.com/artist/43pWfoBGxmmSOLVRy07Axj), [Mejia](https://open.spotify.com/artist/55qEvKH4ajWgbmgl1yB0oO) | [Loqueron](https://open.spotify.com/album/0sc3Rd9BNM7me0Ii3wqMp5) | 3:27 |
 | 66 | [Quiero romper cadenas](https://open.spotify.com/track/4KEm92QoiE3BJM2EhJf3GF) | [Omar Salazar](https://open.spotify.com/artist/51v2SXLp2hd3KqHdgHwRMY), [Los Lobos del Sur](https://open.spotify.com/artist/3FCBnIlgoRwCdoWpUN85ck) | [Quiero romper cadenas](https://open.spotify.com/album/2HnXxW8iuoE83yJyf6X0mJ) | 2:30 |
 | 67 | [Labios Hermosos](https://open.spotify.com/track/1Gvj1YKDBi3zT3aHe4B1QD) | [Los de la Marka](https://open.spotify.com/artist/0p6PG9EBHMF1JmPda9dg9y) | [Labios Hermosos](https://open.spotify.com/album/5F4obhWeHe6O9UnA5kyb9v) | 2:32 |
 | 68 | [Tiene Que Ser Asi](https://open.spotify.com/track/0fk72JN9bOGS1be11ift5a) | [Laura Denisse y Los Brillantes](https://open.spotify.com/artist/2l3rQuhAwI4rxZryE8Zze5) | [Tiene Que Ser Asi](https://open.spotify.com/album/0fAt4fJFcXM5y7nsWkfRnY) | 3:43 |

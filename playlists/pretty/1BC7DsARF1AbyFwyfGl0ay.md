@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1BC7DsARF1AbyFwyfGl0ay.md) - [plain]
 
 > “now i am become death, the destroyer of worlds.”
 
-[carolina <3](https://open.spotify.com/user/ninasantos11) - 98,492 likes - 97 songs - 6 hr 12 min
+[carolina <3](https://open.spotify.com/user/ninasantos11) - 98,638 likes - 101 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,5 +105,9 @@ pretty - [cumulative](/playlists/cumulative/1BC7DsARF1AbyFwyfGl0ay.md) - [plain]
 | 95 | [The Armstrongs](https://open.spotify.com/track/0rPImnH72wOroTMvIedDC3) | [Justin Hurwitz](https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj) | [First Man \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4NFpOHIv0hJa9of0IQsgKw) | 2:25 |
 | 96 | [Dance For Me Wallis](https://open.spotify.com/track/1vWtTis3VRkkUp8qST4jY5) | [Abel Korzeniowski](https://open.spotify.com/artist/5RGAUCWFZyymaMSAZJeice) | [W.E\. \- Music From The Motion Picture](https://open.spotify.com/album/0ILxbrvGwBj3jyhQjhzrP7) | 3:08 |
 | 97 | [Adagio in C Minor](https://open.spotify.com/track/0HRyrj2c5TN8R4I4rehpSg) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [Succession: Season 1 \(HBO Original Series Soundtrack\)](https://open.spotify.com/album/7IONINkxycqA3eIKlVZ7Bj) | 1:30 |
+| 98 | [Organ Variation](https://open.spotify.com/track/6dkJvNZ7DJWzTFXv3KHmoT) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Interstellar \(Original Motion Picture Soundtrack\) \[Expanded Edition\]](https://open.spotify.com/album/3B61kSKTxlY36cYgzvf3cP) | 4:51 |
+| 99 | [Domestic Pressures](https://open.spotify.com/track/2dHnIe0JsqshUnyzcMMOhW) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF) | [The Theory of Everything \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/02VRifrsiTM73hPGjXduRQ) | 2:37 |
+| 100 | [American Prometheus](https://open.spotify.com/track/2nBqwc3h3psFgPF1J0v24T) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Oppenheimer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0rwbMKjNkp4ehQTwf9V2Jk) | 2:37 |
+| 101 | [The Theory of Everything](https://open.spotify.com/track/5fJD7wh9yoSTpl9d5rgl7l) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF) | [The Theory of Everything \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/02VRifrsiTM73hPGjXduRQ) | 1:08 |
 
-Snapshot ID: `AAAAYjhgYfzebMfp5apUak4tsK9KCR7B`
+Snapshot ID: `AAAAZkzMqOLTlPMsLEWFGQbtXsKTNvVi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PhKVl4Zniv.md) - [plain]
 
 > So you think you got pocket? Cover: Nate Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,037 likes - 70 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,044 likes - 70 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PhKVl4Zniv.md) - [plain]
 | 31 | [Duck People](https://open.spotify.com/track/3QZxDFLLr5tiuCtPKEnGaa) | [FORQ](https://open.spotify.com/artist/7vXBNF4wc830rnuWRBXsz1) | [Four](https://open.spotify.com/album/2wQ0Zr1lshzY6cWsKbhTca) | 5:05 |
 | 32 | [Parusha](https://open.spotify.com/track/2w84sKh0yf9v8iQHfIORJJ) | [Huntertones](https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd) | [Passport](https://open.spotify.com/album/3qOYOM60FMN6fO2vgiPnC1) | 4:16 |
 | 33 | [Dark Side Riddim](https://open.spotify.com/track/5pIjTEPxQx4JJc14CkVlgf) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [Dark Side Riddim / Samuel L.Riddim](https://open.spotify.com/album/3xx8mVv8jR6rzFMGcq0VWY) | 5:14 |
-| 34 | [Some Skunk Funk](https://open.spotify.com/track/4cJC5AjLjRUH2qtemrqLbD) | [The Brecker Brothers](https://open.spotify.com/artist/45rpaf8BR69NIPqmeAYb7l) | [The Brecker Bros](https://open.spotify.com/album/3mXY4gBVlEzTk4DVGhFTpZ) | 5:50 |
+| 34 | [Some Skunk Funk](https://open.spotify.com/track/4cJC5AjLjRUH2qtemrqLbD) | [The Brecker Brothers](https://open.spotify.com/artist/45rpaf8BR69NIPqmeAYb7l) | [The Brecker Bros](https://open.spotify.com/album/3mXY4gBVlEzTk4DVGhFTpZ) | 5:53 |
 | 35 | [This Too Shall Pass](https://open.spotify.com/track/5q9E3jb5rjHBcDtDWFxtbM) | [Nine Sparks Riots](https://open.spotify.com/artist/4y6ORtg4fPmsXNftMLw12X), [Avatar Horns](https://open.spotify.com/artist/2kPPtGrPl59H7uFKz4MehA) | [The Lotus and the Swamp](https://open.spotify.com/album/0Ajs51QREa33RFggJkZiXO) | 3:54 |
 | 36 | [BELIEVIN'](https://open.spotify.com/track/0F79QAGawM9bMrK11YGHru) | [NANIWA EXPRESS](https://open.spotify.com/artist/7A5C2jFwT0lxjAYMsHDh3r) | [NO FUSE](https://open.spotify.com/album/1WzpfKD6z4ZYCiCv9dIaEY) | 4:27 |
 | 37 | [Canine](https://open.spotify.com/track/7hTEStQeSnn0TxlaRsJLzv) | [Tribal Tech](https://open.spotify.com/artist/4OmMxTxYbR4ZDSvw4H0RAz) | [Face First](https://open.spotify.com/album/2IEMGFWKMDb7AgPz6pIATf) | 6:23 |

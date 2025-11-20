@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 
 > Amapiano tracks to fuel your beast mode!
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,281 likes - 50 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,328 likes - 50 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 | 39 | [Party Mode](https://open.spotify.com/track/2Y4WDb59HdxKezH8Ulo5OQ) | [Ordio O2](https://open.spotify.com/artist/5VO8WGUErBn2uI7zVcgWok), [Kukzer wadi piano\_012](https://open.spotify.com/artist/3gRYJiGDHEWuZCjKlOZsLh), [Ross](https://open.spotify.com/artist/3qR0ivGnEprE5Y8oxCly4Y) | [Party Mode](https://open.spotify.com/album/0B4jdzLxjRL1HEm9qYxn08) | 6:01 |
 | 40 | [Bass Outra !](https://open.spotify.com/track/6r5GQYg2Z3Jfz4KIxrFjTH) | [Sgija Keys](https://open.spotify.com/artist/3nMUXRbnQ1LAixKdBCt0Ti), [M00tion](https://open.spotify.com/artist/0hHKCtRNUUbczIb3csIz7j) | [Bass Outra !](https://open.spotify.com/album/2f8SzIxSBQW10s8ge33O59) | 5:51 |
 | 41 | [Khetiwe](https://open.spotify.com/track/1w9VIloDbk4DiwwHD7c9Bc) | [Slade](https://open.spotify.com/artist/3rz6XDJwU2d1gBY5bbcdtT), [Piano Essence](https://open.spotify.com/artist/3T4aRbLTWsQdCtGIuXplpp), [Lintonto](https://open.spotify.com/artist/1isPpcHRJEgg4jyuAF3yd4), [FLUXX](https://open.spotify.com/artist/3EBIij4PVtSFD8aoKa4Hwf), [Xman Rsa](https://open.spotify.com/artist/2AyNNC4hdqtQBcZzRtb730) | [Khetiwe](https://open.spotify.com/album/7LSJg8madvQUCxFIecgHmG) | 6:17 |
-| 42 | [Woza La!](https://open.spotify.com/track/5CW55oBb94YDO3GrXSJ19I) | [Njelic](https://open.spotify.com/artist/7MKSufJrPmpqpg2mVWJET1), [Benny Maverick](https://open.spotify.com/artist/6iAKzl1wFANxLqKNUszOX2), [Triple X Da Ghost](https://open.spotify.com/artist/7jjxR3VVNwVvOZo33TnecO) | [Woza La!](https://open.spotify.com/album/53RQjvGYRtCL7RGYNFdYTn) | 8:04 |
-| 43 | [Monate Mogwanti](https://open.spotify.com/track/4JeBRJ2Vj55GujElSafEsN) | [Thama Tee](https://open.spotify.com/artist/2mncgdDLbh8nahtbvLZEcR) | [Monate Mogwanti](https://open.spotify.com/album/2cqXjxeJFfT4xi3ulnRaFF) | 5:27 |
+| 42 | [Monate Mogwanti](https://open.spotify.com/track/4JeBRJ2Vj55GujElSafEsN) | [Thama Tee](https://open.spotify.com/artist/2mncgdDLbh8nahtbvLZEcR) | [Monate Mogwanti](https://open.spotify.com/album/2cqXjxeJFfT4xi3ulnRaFF) | 5:27 |
+| 43 | [Woza La!](https://open.spotify.com/track/5CW55oBb94YDO3GrXSJ19I) | [Njelic](https://open.spotify.com/artist/7MKSufJrPmpqpg2mVWJET1), [Benny Maverick](https://open.spotify.com/artist/6iAKzl1wFANxLqKNUszOX2), [Triple X Da Ghost](https://open.spotify.com/artist/7jjxR3VVNwVvOZo33TnecO) | [Woza La!](https://open.spotify.com/album/53RQjvGYRtCL7RGYNFdYTn) | 8:04 |
 | 44 | [Groove](https://open.spotify.com/track/2vfo9BBe8AZVKoQonYsWxk) | [Ordio O2](https://open.spotify.com/artist/5VO8WGUErBn2uI7zVcgWok), [M00tion](https://open.spotify.com/artist/0hHKCtRNUUbczIb3csIz7j), [Ross](https://open.spotify.com/artist/3qR0ivGnEprE5Y8oxCly4Y), [Kukzer wadi piano\_012](https://open.spotify.com/artist/3gRYJiGDHEWuZCjKlOZsLh) | [Groove](https://open.spotify.com/album/7y5nc1YxXWkEWAoPJAuKlU) | 5:51 |
 | 45 | [Woza La](https://open.spotify.com/track/6XK0BdLYoXJyfb1JfuN4BQ) | [King P](https://open.spotify.com/artist/47afOpYr8n2njpPNQKuQfc), [Tumilemang](https://open.spotify.com/artist/0zdAH79ZRnudDRbmuSJFHl) | [Woza La](https://open.spotify.com/album/0uszDQSCIPfgXo8nEAPnaA) | 6:56 |
 | 46 | [Moratata \(feat\. Leemckrazy & TitoM\)](https://open.spotify.com/track/6S8s9bbemYqPI4VUpwNOBh) | [Daliwonga](https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn), [LeeMcKrazy](https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg), [TitoM](https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k) | [DALI DALI](https://open.spotify.com/album/7nXYx6bxFcyqnJENfgdEkc) | 6:25 |

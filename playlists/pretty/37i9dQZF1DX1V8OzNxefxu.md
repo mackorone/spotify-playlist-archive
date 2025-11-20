@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1V8OzNxefxu.md) - [plain]
 
 > Quelques chansons tranquilles pour des moments tendres et complices
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,129 likes - 68 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,130 likes - 68 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1V8OzNxefxu.md) - [plain]
 | 16 | [L'île au lendemain \(feat\. Clara Luciani\)](https://open.spotify.com/track/7B7yIUJ6xjRxDPDnK8LorH) | [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj), [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [aimée](https://open.spotify.com/album/61gok9zbkQ8bfOHmRPJh6P) | 3:47 |
 | 17 | [Le coeur éléphant](https://open.spotify.com/track/5TTfQvVwzlsatGExuQOFCC) | [Fréro Delavega](https://open.spotify.com/artist/6bebPrkEPr2xEkiHP3QkNT) | [Des ombres et des lumières](https://open.spotify.com/album/0rpr3y7br4UziFb8pY1HjR) | 3:52 |
 | 18 | [Emmène\-moi \(feat\. L.E.J\)](https://open.spotify.com/track/6PmjmuQxr4bkssYwUxMNrQ) | [Boulevard des Airs](https://open.spotify.com/artist/6px2zTzjQAPLkuea5qQ2Gx), [L.E.J](https://open.spotify.com/artist/7kKKMBmEtyQcPb9idicNr7) | [Emmène\-moi \(feat\. L.E.J\)](https://open.spotify.com/album/5eRerGrB84BcQFaGyYZyXB) | 2:50 |
-| 19 | [Je l'aime à mourir \- Remastered](https://open.spotify.com/track/40U2kuipBVRrReD32J2lmO) | [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [Les chemins de traverse \(Remastered\)](https://open.spotify.com/album/59RjTKHBUudPnSU779PQ5x) | 2:43 |
+| 19 | [Je l'aime à mourir \- Remastered](https://open.spotify.com/track/40U2kuipBVRrReD32J2lmO) | [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [Les chemins de traverse \(Remastered\)](https://open.spotify.com/album/59RjTKHBUudPnSU779PQ5x) | 2:45 |
 | 20 | [Je vole](https://open.spotify.com/track/5WhMVZ58MqdvACu3OaP5cZ) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Chambre 12](https://open.spotify.com/album/3Es3rIJujUaxh8HrPZwgmr) | 3:36 |
 | 21 | [Dis quand reviendras\-tu ?](https://open.spotify.com/track/3CF6eEQIylA5NFlDxBtZVP) | [Jean\-Louis Aubert](https://open.spotify.com/artist/1NCrHXp9R3ogv8ezWWHFNs) | [IL Y A Longtemps Que Je T'aime \[B.O\. Du Film De P.Claudel\]](https://open.spotify.com/album/5vRnmtfrIvwlydCxpsdDBr) | 4:29 |
 | 22 | [Tu ne me dois rien](https://open.spotify.com/track/7BVEtUdMRwBD3JTsIkXP2W) | [Stephan Eicher](https://open.spotify.com/artist/29My6ypNwcVp0mjpy3sX2E) | [Hotel S](https://open.spotify.com/album/5izluV9r74JI8ZdsOUJ1xt) | 3:54 |
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1V8OzNxefxu.md) - [plain]
 | 28 | [Tu donnes](https://open.spotify.com/track/7fCYB4aKLTc8Yrrg491Ji6) | [Jérémy Frerot](https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK) | [Matriochka](https://open.spotify.com/album/4lXTDTBv4geOKHRh9O8lPv) | 2:54 |
 | 29 | [Printemps Éternel](https://open.spotify.com/track/5hILiyJbTPMy4F1oXGWqha) | [Flo Delavega](https://open.spotify.com/artist/43bHLwpFPnPHdvID2juGoZ) | [Printemps Éternel](https://open.spotify.com/album/3mabxFKODwvHWRmEjVMUUI) | 3:17 |
 | 30 | [Maman](https://open.spotify.com/track/2oCkXoSDwMd5b2zEUHI6aA) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Chambre 12 \(Deluxe\)](https://open.spotify.com/album/3xYOBFQWa6kJ1pKzbo4Spt) | 2:40 |
-| 31 | [L'encre de tes yeux \- Remastered](https://open.spotify.com/track/2mLFPvKfZ6LI9NaAtFDyUL) | [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [Fragile \(Remastered\)](https://open.spotify.com/album/0UPJEVD6jVBaAEuFyTaCyX) | 3:06 |
+| 31 | [L'encre de tes yeux \- Remastered](https://open.spotify.com/track/2mLFPvKfZ6LI9NaAtFDyUL) | [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [Fragile \(Remastered\)](https://open.spotify.com/album/0UPJEVD6jVBaAEuFyTaCyX) | 3:07 |
 | 32 | [Africa \(with Dick Rivers\) \- Acoustic](https://open.spotify.com/track/7ymUswVurmzlemLf74Ob4K) | [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj), [Dick Rivers](https://open.spotify.com/artist/7EErtRkIXKEnllrCa1a7xR) | [Vous & moi](https://open.spotify.com/album/5pSQDgT8MXpFtgVR9ZFJRJ) | 3:32 |
 | 33 | [Mistral gagnant](https://open.spotify.com/track/4yq6Lt1S8hn8RLFwTvFfb6) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [La Bande A Renaud](https://open.spotify.com/album/5xzBHr7suKnLz6l8JkPXRn) | 3:02 |
 | 34 | [Pas là \(Acoustique\)](https://open.spotify.com/track/5AYKN2rz1SY8edtkp49apU) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6) | [Pas là \(Acoustique\) \- Single](https://open.spotify.com/album/2xR7avTzJDjtVSaQQEj1Ym) | 4:18 |

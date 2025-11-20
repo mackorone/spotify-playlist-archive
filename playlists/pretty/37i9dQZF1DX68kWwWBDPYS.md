@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68kWwWBDPYS.md) - [plain]
 
 > morrxs chidxs haciendo música chida\. Ola Magenta en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,958 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,945 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Magia](https://open.spotify.com/track/6X802Oflvx2dhW2s3yZgu3) | [Ola Magenta](https://open.spotify.com/artist/19m31uyfQ0ewdhrMqpuRxo) | [Magia](https://open.spotify.com/album/3t3fjXIrpopQIg45GOoNMS) | 2:10 |
 | 2 | [Nothing in my pocket.](https://open.spotify.com/track/78nKt9sCrv7p5u4yhencAR) | [DEIIN](https://open.spotify.com/artist/3ChKSHdD8xLvHcPrt9lIS6) | [Never Done This Before](https://open.spotify.com/album/3AAgDdVUJO21MAkZR9UPzd) | 2:24 |
-| 3 | [Qué rico](https://open.spotify.com/track/7ffAMkmub0c3jvHYfwkHYe) | [Iván Ivengo](https://open.spotify.com/artist/4oiI7JbuL1TKEO6skc1B5x), [NOESUNAETAPA](https://open.spotify.com/artist/3WovYsWH9obL3GJCSndSwo) | [Para pasarla rico](https://open.spotify.com/album/6JTmmod8vn6NeWYIG3eND0) | 3:21 |
+| 3 | [QUÉ RICO](https://open.spotify.com/track/7ffAMkmub0c3jvHYfwkHYe) | [Iván Ivengo](https://open.spotify.com/artist/4oiI7JbuL1TKEO6skc1B5x), [NOESUNAETAPA](https://open.spotify.com/artist/3WovYsWH9obL3GJCSndSwo) | [Para pasarla rico](https://open.spotify.com/album/6JTmmod8vn6NeWYIG3eND0) | 3:21 |
 | 4 | [114](https://open.spotify.com/track/6rbCJ7bPZCF5ykLXdq4aIr) | [Plastikboy](https://open.spotify.com/artist/3VN7GXEjDqW4IyEO3HgLYp) | [soñandodedía!](https://open.spotify.com/album/1ifq58erDdV7dScPVogCuP) | 3:12 |
 | 5 | [Mi Sol](https://open.spotify.com/track/2FXcCBpPjud1HGfELDogYA) | [David de la Luz](https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3), [David Marvian](https://open.spotify.com/artist/1t09qutsSOlWzl4QiFhQvR) | [De Todo Un Poco](https://open.spotify.com/album/1IxjhHvHD0PnhiMqR0kT9i) | 4:43 |
 | 6 | [La Marea](https://open.spotify.com/track/4cXPtQrw7aniiHlWFUG7N7) | [Billy Manhattan](https://open.spotify.com/artist/1I9GlumEmT1pb0nGd36INy), [Soyiby](https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn) | [La Marea](https://open.spotify.com/album/1ltpDqCUqdDQXjGML2Tr5x) | 3:07 |

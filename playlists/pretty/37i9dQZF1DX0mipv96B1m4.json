@@ -779,6 +779,22 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
+        "name": "Lock Down",
+        "url": "https://open.spotify.com/album/4a2WRG82z0bI5RWYK9AN1Q"
+      },
+      "artists": [
+        {
+          "name": "Bright Sun UG",
+          "url": "https://open.spotify.com/artist/1xrnUySELZ84OUp4gE6oLr"
+        }
+      ],
+      "duration_ms": 108068,
+      "name": "Lock Down",
+      "url": "https://open.spotify.com/track/3FpDRPuh4aHOOVtvlYhpB3"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
         "name": "Offline",
         "url": "https://open.spotify.com/album/4BtgtXxG8BujT1B8qVZNRL"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 173270,
       "name": "Boy Fire",
       "url": "https://open.spotify.com/track/5LZjRcsQchkrv6PmCn0Uee"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
-        "name": "Lock Down",
-        "url": "https://open.spotify.com/album/4a2WRG82z0bI5RWYK9AN1Q"
-      },
-      "artists": [
-        {
-          "name": "Bright Sun UG",
-          "url": "https://open.spotify.com/artist/1xrnUySELZ84OUp4gE6oLr"
-        }
-      ],
-      "duration_ms": 108068,
-      "name": "Lock Down",
-      "url": "https://open.spotify.com/track/3FpDRPuh4aHOOVtvlYhpB3"
     },
     {
       "added_at": "2024-03-01 12:07:08",

@@ -601,20 +601,24 @@
     },
     {
       "album": {
-        "name": "I Run",
+        "name": "I Run (feat. Kaitlin Aragon)",
         "url": "https://open.spotify.com/album/2ZG4k6ja3q8sM6tHJAOPNs"
       },
       "artists": [
         {
           "name": "HAVEN.",
           "url": "https://open.spotify.com/artist/7ouEqUl1PCVPlNninecdcz"
+        },
+        {
+          "name": "Kaitlin Aragon",
+          "url": "https://open.spotify.com/artist/29G5je6tT7As2ZFY72CdXs"
         }
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 129565,
-      "name": "I Run",
+      "name": "I Run (feat. Kaitlin Aragon)",
       "url": "https://open.spotify.com/track/1C9blfN8TSuM24qMLbd2HO"
     },
     {

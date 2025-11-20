@@ -2913,6 +2913,24 @@
     },
     {
       "album": {
+        "name": "Blissed Out",
+        "url": "https://open.spotify.com/album/3EvZq79rFwBuTDbsMzOlRy"
+      },
+      "artists": [
+        {
+          "name": "Broadside",
+          "url": "https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo"
+        }
+      ],
+      "date_added": "2025-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204160,
+      "name": "Blissed Out",
+      "url": "https://open.spotify.com/track/1CDUgvgeY4CJKCOBBc63Ow"
+    },
+    {
+      "album": {
         "name": "Blistered World",
         "url": "https://open.spotify.com/album/70mjHoRyTAkG4RcXi265ku"
       },
@@ -8290,7 +8308,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-12",
+      "date_removed": null,
       "duration_ms": 150404,
       "name": "Final Nail (with Charlotte Sands)",
       "url": "https://open.spotify.com/track/6kG3qEXGFZCC4OfGCRBW15"
@@ -11940,7 +11958,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 186924,
       "name": "I Think They Know",
       "url": "https://open.spotify.com/track/3o9p59E4kpxpmYdGWYujZS"
@@ -16922,7 +16940,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 182117,
       "name": "One Last Time",
       "url": "https://open.spotify.com/track/19bqVQCJzBLiAb0ljuAVMC"

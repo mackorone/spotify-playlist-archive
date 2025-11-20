@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/5CrMdCjnCYxAwKyTrmi7pN.md) - [plain]
 
 ### [Herfst Vibes 2025 ](https://open.spotify.com/playlist/5CrMdCjnCYxAwKyTrmi7pN)
 
-> Them: So sad Summer is over..\. Me: Listening to Autumn music all day
+> Get cozy met deze playlist vol herfstvibes! Met muziek van Olivia Dean, Morgan Wallen, Lola Young en meer...
 
-[Digster Nederland](https://open.spotify.com/user/digsternl) - 130,088 likes - 100 songs - 5 hr 38 min
+[Digster Nederland](https://open.spotify.com/user/digsternl) - 130,069 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/5CrMdCjnCYxAwKyTrmi7pN.md) - [plain]
 | 99 | [Shot In The Dark](https://open.spotify.com/track/2TyMvV89TGLv8Xc38rohrO) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX) | [Shot In The Dark](https://open.spotify.com/album/0DPhuVtTIJDz3V6OXcbyQ0) | 2:36 |
 | 100 | [The Giver](https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Giver](https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1) | 3:22 |
 
-Snapshot ID: `AAA6s8BxpGofvDhY4QjSFndTgt89LWNk`
+Snapshot ID: `AAA6tF3abnvqK7SLwN3XAeYxjzGYGz+6`

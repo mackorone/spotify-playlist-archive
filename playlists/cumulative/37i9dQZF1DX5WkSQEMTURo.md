@@ -4,7 +4,7 @@
 
 > Everyone deserves a happy ending\. Listen to the music from the Deadpool series, including Deadpool & Wolverine.
 
-79 songs - 4 hr 7 min
+79 songs - 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [I Know](https://open.spotify.com/track/1UNIoNxqJlhcUYZzRys7mu) | [Janine the Machine](https://open.spotify.com/artist/5e7kpnFCxD159HQyi1NyrF) | [I Know](https://open.spotify.com/album/72q556evH5PI7Wg9vI8DMV) | 2:55 | 2024-07-30 |  |
 | [I Love This Part](https://open.spotify.com/track/2gCfqpErDBhsUw21iQPJal) | [Rob Simonsen](https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J) | [Deadpool & Wolverine \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/7tTd4gjNDz51x9jXHdP73D) | 2:12 | 2024-07-26 |  |
 | [I'll Be Seeing You](https://open.spotify.com/track/0mtbzu1k9ZFuR2hBpzshIP) | [Jimmy Durante](https://open.spotify.com/artist/5FNHfTn3yzVpqdUyWwej0v) | [Jimmy' Durante's Way Of Life](https://open.spotify.com/album/0kG2hzYNEZktAgA9v6Al7T) | 3:12 | 2024-07-17 |  |
-| [I'm a Ramblin' Man](https://open.spotify.com/track/24uwABPWPejBuvFL4tMkvD) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM) | [The Ramblin' Man](https://open.spotify.com/album/353z5yWoQlug84akazanpg) | 2:47 | 2024-07-17 |  |
+| [I'm a Ramblin' Man](https://open.spotify.com/track/24uwABPWPejBuvFL4tMkvD) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM) | [The Ramblin' Man](https://open.spotify.com/album/353z5yWoQlug84akazanpg) | 2:50 | 2024-07-17 |  |
 | [I'm with You](https://open.spotify.com/track/1jlG3KJ3gdYmhfuySFfpO1) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) | 3:43 | 2024-07-17 |  |
 | [If I Could Turn Back Time](https://open.spotify.com/track/6mYrhCAGWzTdF8QnKuchXM) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Heart Of Stone](https://open.spotify.com/album/3srdrIrP3V7LTmRujRfLhK) | 3:59 | 2024-05-20 |  |
 | [If This Is It](https://open.spotify.com/track/2pAdtQuiEVGr7nOXGiv7t4) | [Huey Lewis & The News](https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6) | [Sports](https://open.spotify.com/album/5jyfyM8Cinnh05OswtWv41) | 3:53 | 2024-07-30 |  |

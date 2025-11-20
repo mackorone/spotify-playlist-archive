@@ -2,7 +2,7 @@
 
 ### [R&B Favourites](https://open.spotify.com/playlist/37i9dQZF1DX7FY5ma9162x)
 
-> The tracks you can put on repeat all day\. Cover: Odeal
+> The tracks you can put on repeat all day\. Cover: Kehlani
 
 674 songs - 1 day 13 hr 36 min
 
@@ -539,7 +539,7 @@
 | [Smokin Out The Window](https://open.spotify.com/track/3xVZYkcuWalGudeKl861wb) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 3:17 | 2022-07-28 | 2024-04-19 |
 | [Smokin Out The Window](https://open.spotify.com/track/4iN16F8JtVxG2UTzp3avGl) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Smokin Out The Window](https://open.spotify.com/album/3BBsMXl00IfMxO7LCpYFU8) | 3:17 | 2022-03-11 | 2022-07-29 |
 | [Snooze](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:21 | 2023-05-13 |  |
-| [Snooze \(Acoustic\) \(feat\. Justin Bieber\)](https://open.spotify.com/track/5YABYtKx9qa56vBjlXDbmw) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Snooze \(Acoustic\) \(feat\. Justin Bieber\)](https://open.spotify.com/album/0bQ8NyqdTKKQpZHYhZqCUU) | 3:10 | 2024-01-05 | 2025-02-15 |
+| [Snooze \(Acoustic\) \(feat\. Justin Bieber\)](https://open.spotify.com/track/5YABYtKx9qa56vBjlXDbmw) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Snooze \(Acoustic\) \(feat\. Justin Bieber\)](https://open.spotify.com/album/0bQ8NyqdTKKQpZHYhZqCUU) | 3:10 | 2024-01-05 |  |
 | [Snowchild](https://open.spotify.com/track/3WlbeuhfRSqU7ylK2Ui5U7) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 4:07 | 2022-04-01 | 2022-11-16 |
 | [SOMEBODY LOVES ME](https://open.spotify.com/track/2kZoOj1n5vk9BuF0sih58M) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 3:02 | 2025-09-04 |  |
 | [SOMETHING](https://open.spotify.com/track/2XsOdKqJUscFGLk8DgiAjS) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/7E3i95vLu92apiebOiFbAL) | 3:59 | 2022-04-01 | 2022-04-20 |
@@ -652,7 +652,7 @@
 | [WFM](https://open.spotify.com/track/1DNA2z7Txysjk3cNz2nDLm) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [WFM](https://open.spotify.com/album/0bhFNhb3j8MRYLFXvnIXGp) | 2:16 | 2022-07-28 | 2022-10-31 |
 | [WFM](https://open.spotify.com/track/6z6OFc8qYsqUBSOWta3nLV) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Dreams 2 Reality](https://open.spotify.com/album/63csfi2IBLJh9kozmsThfd) | 2:16 | 2022-11-11 | 2023-10-05 |
 | [What About Me \(feat\. Post Malone\)](https://open.spotify.com/track/6lTLgWznUomxzmQpkqGPdF) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [What About Me](https://open.spotify.com/album/7pF6wc46cfpWuBaiURj5OD) | 3:36 | 2022-04-01 | 2022-04-19 |
-| [What Do I Do](https://open.spotify.com/track/6jTQijAuYxOd8DjQ8D6UkL) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 2:47 | 2025-03-26 |  |
+| [What Do I Do](https://open.spotify.com/track/6jTQijAuYxOd8DjQ8D6UkL) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 2:47 | 2025-03-26 | 2025-11-20 |
 | [What I Know Now \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/3wImXdE4bliIVSEl3lVue1) | [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [What I Know Now \(feat\. Wiz Khalifa\)](https://open.spotify.com/album/6KBUruH0wOrtNVgAxLopbt) | 3:00 | 2022-04-01 | 2022-04-18 |
 | [What I Like](https://open.spotify.com/track/7lM9dI6wRfmA2KxQlYQdIE) | [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu) | [What I Like](https://open.spotify.com/album/4YzrdjLTsezWLutVAFOTzO) | 2:39 | 2022-04-01 | 2022-07-12 |
 | [What I Like \(feat\. FRVRFRIDAY\)](https://open.spotify.com/track/6NqJlDpLdpUB1YB9D5q6GP) | [anders](https://open.spotify.com/artist/6G1yTgvoYsuVb2Ja8cVVJ2), [6ixbuzz](https://open.spotify.com/artist/0esldOhgJb5AkjUre9EgLk), [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [What I Like \(feat\. FRVRFRIDAY\)](https://open.spotify.com/album/1Y6LGqsJXy6XwmJkrtyDMk) | 2:36 | 2022-04-01 | 2022-04-21 |

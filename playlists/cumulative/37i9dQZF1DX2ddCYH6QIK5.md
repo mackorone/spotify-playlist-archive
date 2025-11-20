@@ -2,9 +2,9 @@
 
 ### [Fresh Finds GSA](https://open.spotify.com/playlist/37i9dQZF1DX2ddCYH6QIK5)
 
-> The best new music by independent artists and labels from GSA, updated every Wednesday\. Cover: pixxi, Artwork: Isu Kim
+> The best new music by independent artists and labels from GSA, updated every Wednesday\. Cover: Lusterboden, Artwork: Isu Kim
 
-1,535 songs - 3 day 13 hr 59 min
+1,539 songs - 3 day 14 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -756,6 +756,7 @@
 | [Kinderspiel](https://open.spotify.com/track/4rdlp25XHbz3zO6jYtk2hF) | [Schoonebeek](https://open.spotify.com/artist/0s3vpUpz6x99aBoH6FksO2), [Aestie](https://open.spotify.com/artist/5Nxk7QzMmMscqjw6Dz2hb1) | [Kinderspiel](https://open.spotify.com/album/0dtIvSJfDkUoGBrhh6gzn2) | 4:34 | 2022-01-05 | 2022-03-03 |
 | [Kino](https://open.spotify.com/track/0gpvcds6YWLVvfCEwmnw6R) | [LEANDER](https://open.spotify.com/artist/4vfPWGAtczR80hRCKUBaSc) | [Kino](https://open.spotify.com/album/2K8zopTBX72PDtPYWEST3M) | 2:34 | 2024-01-24 | 2024-05-16 |
 | [Kippe](https://open.spotify.com/track/7EEkf0j8wet1TBSclluGGH) | [Carla Ahad](https://open.spotify.com/artist/0ic9BGUoRMQidNxGoet7Ln) | [Kippe](https://open.spotify.com/album/6kbiR8fu64IB1LmGW7S32g) | 2:36 | 2022-11-23 | 2024-01-04 |
+| [Kirschen spucken](https://open.spotify.com/track/1eb8Hu6Ga849CyUn7dFP2v) | [Lusterboden](https://open.spotify.com/artist/4AeK9gn4Po2PubfB7sJDAN) | [Kirschen spucken](https://open.spotify.com/album/0n5j9t3y3WtvxMOxfBXhHv) | 2:49 | 2025-11-19 |  |
 | [kkiosk](https://open.spotify.com/track/7DbIPcKMWbqdc7X7OtCvBx) | [SQF2000](https://open.spotify.com/artist/6KHWeZDPxz0eH7l7Z4ZMNR) | [kkiosk](https://open.spotify.com/album/4jtkT3kaZq1ETLr4gpyLoH) | 2:52 | 2023-10-04 | 2023-11-09 |
 | [Klein Maria](https://open.spotify.com/track/1uuSZilbBbnCIIboGrUU7k) | [Lilli Belle](https://open.spotify.com/artist/5gH1N6dCnL6tqDJzB05iSt) | [Klein Maria](https://open.spotify.com/album/7q8MswmeFi3csKyGGOrMSj) | 5:00 | 2024-10-16 | 2024-11-14 |
 | [Kleine Dinge](https://open.spotify.com/track/3UG6OJYtVAVNi8fNiOCz1c) | [ALIVEMAEX](https://open.spotify.com/artist/0aiBlkcHQ2Nqta7K7JBS3d) | [Kleine Dinge](https://open.spotify.com/album/4eVZKoCeqqqZzgWlvLjESs) | 3:17 | 2024-07-16 | 2024-12-05 |
@@ -862,6 +863,7 @@
 | [Management](https://open.spotify.com/track/7uaKuL5UU8DT1EN0OizNvK) | [PICOBELLO](https://open.spotify.com/artist/5SM8lcCTSeeH63SdxpSoCu) | [Management](https://open.spotify.com/album/1ESKBGtKSVRHLpdiqhMzOz) | 2:39 | 2022-05-18 | 2022-06-01 |
 | [Manager](https://open.spotify.com/track/1ffHmgCFCqM2jdHmxLJuAj) | [ccola](https://open.spotify.com/artist/46jBfLo4GoPUUaG3j3AEAY) | [Manager](https://open.spotify.com/album/30zrdY72gCAKvgD93GhH7e) | 2:15 | 2022-10-26 | 2023-01-12 |
 | [Manisch](https://open.spotify.com/track/4aHiT7maqQ8GVSsmztS1jk) | [AARØN](https://open.spotify.com/artist/1SrnOSdC14grBGSnHY0gFs) | [Manisch](https://open.spotify.com/album/3NrlBlLMx2XB6CLSM42TEq) | 3:30 | 2022-09-14 | 2023-01-19 |
+| [Mann im Mond](https://open.spotify.com/track/23G9Y9YjFY7faYiVt292F5) | [Tuana](https://open.spotify.com/artist/3ZWwXDrjt9O5p1w7vxLyUv) | [Mann im Mond](https://open.spotify.com/album/4ZMXm6mHBBsyJvxIk2yWqH) | 2:40 | 2025-11-19 |  |
 | [Marianne](https://open.spotify.com/track/2OxbbgFAomXZNFMKnL5IpD) | [JOSY](https://open.spotify.com/artist/1FO5OAPbBScuxZlrgM3Sjr) | [Marianne](https://open.spotify.com/album/298YOXEzZ3utVyUGsiP74R) | 2:06 | 2025-03-05 | 2025-04-17 |
 | [Matrose](https://open.spotify.com/track/54O7lGVAOEFIcg7ybb5y7S) | [Bipolar Feminin](https://open.spotify.com/artist/7HOiyvAQxMFt0gvH3IcAsX) | [Matrose](https://open.spotify.com/album/5PyBFpfVcGZYFsgv84W7gy) | 3:07 | 2023-01-04 | 2023-02-23 |
 | [May](https://open.spotify.com/track/3EOjSINT1L4FXt6bT33yl8) | [Jules](https://open.spotify.com/artist/1DLdX3be3V4Bna9F45FtSg) | [May](https://open.spotify.com/album/3ucWTNA4vVFOEAPcwptgJg) | 2:59 | 2022-06-01 | 2022-07-28 |
@@ -1016,6 +1018,7 @@
 | [Paralysiert](https://open.spotify.com/track/6Ryf1GSw4Q0qTMRzy6Tk69) | [Low Life Rich Kids](https://open.spotify.com/artist/07N6DATtpRNMzxRVEXTX0v) | [Paralysiert](https://open.spotify.com/album/0kz1ifVEspJbS3s3QIJIAZ) | 2:26 | 2023-09-27 | 2023-10-26 |
 | [Party](https://open.spotify.com/track/1Nwi6aNxXZ0vLRx1RqEXLI) | [Schroff](https://open.spotify.com/artist/20rvmtxLTmTujYYIouJABo) | [Party](https://open.spotify.com/album/6KPV1coqiNMzWmfjpUI9LY) | 3:57 | 2022-06-08 | 2022-06-30 |
 | [Passos](https://open.spotify.com/track/6HjTOWkQeWdw897OlUBvDW) | [Carlifornia](https://open.spotify.com/artist/35zmWY1Vg28Fb8ltQ1qtnz), [Ish](https://open.spotify.com/artist/7nNyZMVQQgGf5UVDcJ52yI), [Sira](https://open.spotify.com/artist/57IaP5fMkqnu3M3ib1Vgvs) | [Passos](https://open.spotify.com/album/4Jy8Zu3kSbVv1LJMgOqRtH) | 2:20 | 2022-03-23 | 2022-03-31 |
+| [past 11](https://open.spotify.com/track/0e2vTKDClLrMhD2kw91rLY) | [Lind Holmen](https://open.spotify.com/artist/3cy5BZSxzCJTPKLADhmKM9) | [past 11](https://open.spotify.com/album/29na1yALu927pTdCx7p4hm) | 3:28 | 2025-11-19 |  |
 | [Patti’s Words](https://open.spotify.com/track/5B9XDstEMDsVr5ErH1KOks) | [Pina Palau](https://open.spotify.com/artist/6Ktx4W0UWEkRQKxhkIUFvP) | [Patti's Words](https://open.spotify.com/album/09PMUIzZqVNUjCKklfXsmk) | 4:20 | 2022-02-02 | 2022-03-03 |
 | [Peak Rose](https://open.spotify.com/track/0bVu7G1hUHqDjdxdfh2LNO) | [Jules Martinet](https://open.spotify.com/artist/3WgBYXlpW1CwZ1GbpHg5YF) | [Peak Rose](https://open.spotify.com/album/6tnp887v2leQPpzpIeb97c) | 2:56 | 2025-05-21 | 2025-06-19 |
 | [Perfekt](https://open.spotify.com/track/3FTPQcRnwkm5RXzHbqyRDr) | [RIA](https://open.spotify.com/artist/1uEz1ky7M03Huwn2WzeSyK) | [Perfekt](https://open.spotify.com/album/3GF9y1o0sjdCwE79vASjYa) | 2:40 | 2025-02-19 | 2025-02-28 |
@@ -1144,7 +1147,7 @@
 | [Salt Town](https://open.spotify.com/track/5nXZCsaetZwGDCtaUALopG) | [ANTONÍ](https://open.spotify.com/artist/7jP2bIZ5G2DD3JTgpulrWr) | [Salt Town](https://open.spotify.com/album/4T7toZwbShWjxz5YNx8xBG) | 3:17 | 2025-11-05 |  |
 | [Samba](https://open.spotify.com/track/4xxuQJfWreN9cdXQwthnSh) | [San Silvan](https://open.spotify.com/artist/4MY0xfcyD9dLgbj27g59XT) | [Samba](https://open.spotify.com/album/0L3BXG37WlJRAz80lgwGYO) | 3:05 | 2023-06-21 | 2023-08-17 |
 | [Same](https://open.spotify.com/track/53sFjXxqjJKtEnx6zjGYZP) | [Soft Drug](https://open.spotify.com/artist/3T0049arm1wGNbtrzRnwHy) | [Same](https://open.spotify.com/album/5QCjxj0muKSrn493w25hjg) | 3:17 | 2022-02-02 | 2023-01-05 |
-| [Sand and Bones](https://open.spotify.com/track/2qm8ezXFZMBXEx5NJrtqFW) | [PILLBERT](https://open.spotify.com/artist/5dZOP8vaESkt7iQqwhDGox) | [Fish on Land](https://open.spotify.com/album/1KQtUdjGSdxOnF13iyDEAI) | 3:17 | 2025-08-06 |  |
+| [Sand and Bones](https://open.spotify.com/track/2qm8ezXFZMBXEx5NJrtqFW) | [PILLBERT](https://open.spotify.com/artist/5dZOP8vaESkt7iQqwhDGox) | [Fish on Land](https://open.spotify.com/album/1KQtUdjGSdxOnF13iyDEAI) | 3:17 | 2025-08-06 | 2025-11-20 |
 | [Sans oxygène](https://open.spotify.com/track/0mVCcqZcHUoGAwI7towUJ7) | [Binary Sunset](https://open.spotify.com/artist/6N0OrLKxGISopTNME8rf14) | [Sans oxygène](https://open.spotify.com/album/0BKG6YM0xnmm5vlILohlMV) | 3:29 | 2023-01-25 | 2023-03-16 |
 | [Saturday](https://open.spotify.com/track/4pRCVprlg9ZuvBigqnSLOd) | [Noah Rose](https://open.spotify.com/artist/24ymgrLJujgL6rkeogqfb2) | [Saturday](https://open.spotify.com/album/2g6A15xw0Byz9yj7neNm96) | 2:48 | 2022-01-05 | 2022-01-27 |
 | [Save Me](https://open.spotify.com/track/7fVeaVDxRrcnnKB6TLj9uE) | [Skatman](https://open.spotify.com/artist/79K6YRpx6Q5HZJfxxcDq58) | [Save Me EP](https://open.spotify.com/album/4z2kshHJmuO99NZ93leb5t) | 5:42 | 2023-08-16 | 2023-11-16 |
@@ -1243,7 +1246,7 @@
 | [Spieluhr](https://open.spotify.com/track/0kfw1seCclNc59FnqjM98N) | [COSIE](https://open.spotify.com/artist/38avRTtNnh5J7jNRgEsLhF) | [Spieluhr](https://open.spotify.com/album/7IKNDqzJyB4QqD0gu7M5A9) | 3:09 | 2024-07-16 | 2025-01-10 |
 | [Spikerush Mosquitos](https://open.spotify.com/track/7o0IDDKWtaq9zJ6FWkXMoG) | [Chauffeur et Parlak](https://open.spotify.com/artist/6inwiD2r79RPmuUZ5M1boY) | [Spikerush Mosquitos](https://open.spotify.com/album/6yJoon03mvTMQf6Fh3w82r) | 3:14 | 2025-10-15 |  |
 | [Spring](https://open.spotify.com/track/10qeL2Lvi7VKE5u3piNDNx) | [soFiA Lainovic](https://open.spotify.com/artist/3PeqQh1cfNxOT7NSfNtSA6) | [Spring](https://open.spotify.com/album/1dz6AwPf1TYsc2bnShZ3t0) | 3:11 | 2022-06-22 | 2022-11-24 |
-| [Spätsommer](https://open.spotify.com/track/0gzMov42DaCWpLOiySLzPL) | [Leon Wiesmann](https://open.spotify.com/artist/47oTRxFflOZVvB5ze1SjT8) | [Spätsommer](https://open.spotify.com/album/5WuEzee2qFuHUj70Ns7Xb7) | 2:51 | 2025-10-15 |  |
+| [Spätsommer](https://open.spotify.com/track/0gzMov42DaCWpLOiySLzPL) | [Leon Wiesmann](https://open.spotify.com/artist/47oTRxFflOZVvB5ze1SjT8) | [Spätsommer](https://open.spotify.com/album/5WuEzee2qFuHUj70Ns7Xb7) | 2:51 | 2025-10-15 | 2025-11-20 |
 | [Square](https://open.spotify.com/track/2WA89LLpPLzZtCVvEkTRFe) | [Nicolas Fehr](https://open.spotify.com/artist/4ahU93xErBBGJZmfdKNENB) | [Square](https://open.spotify.com/album/6bI7QeJoir0aFosh1qKVTU) | 2:11 | 2025-01-09 | 2025-07-24 |
 | [Sry Nein](https://open.spotify.com/track/4WC4lrn2ydY02tV1vaL4Sf) | [Vergisstmannnicht](https://open.spotify.com/artist/1zQ3X6CZNeti5RZ1iZgHlt) | [Sry Nein](https://open.spotify.com/album/2Lx2lfS56kcutLFur53K56) | 2:13 | 2024-06-26 | 2024-07-25 |
 | [Stains](https://open.spotify.com/track/3rKTuyXcM9s60fkAsJtysL) | [The Late Summers](https://open.spotify.com/artist/0kZAE8lXacpXR2q5UTcPEE) | [Stains](https://open.spotify.com/album/0bIv4PxJcVBWgLsfx2UQL7) | 3:44 | 2022-08-10 | 2022-09-15 |
@@ -1339,7 +1342,7 @@
 | [The Whole Shebang](https://open.spotify.com/track/5lO5ZvtMUbOObborKik1aO) | [Agassi](https://open.spotify.com/artist/4hwyUVEeFkzvnGJXyU0Qti) | [The Whole Shebang](https://open.spotify.com/album/5uF8ngdgJGwXssjHifQ27c) | 2:45 | 2025-09-10 |  |
 | [The Wiper](https://open.spotify.com/track/6S0eZIhC88aWtepgAzo5sI) | [Harvey Rushmore & the Octopus](https://open.spotify.com/artist/7mrAXYivr97fQvPoROjUGm) | [Freedomspacecake](https://open.spotify.com/album/06QP0yI5lEp7BkpNBUiV2E) | 2:57 | 2022-09-14 | 2023-01-12 |
 | [Theme](https://open.spotify.com/track/072WESirySllVZwIpbtNTY) | [Minju](https://open.spotify.com/artist/7LuJRgbeA8VCUqO0i6VlK6) | [Theme](https://open.spotify.com/album/54LHsjAXVvwCps17wOMGf1) | 7:00 | 2023-02-01 | 2023-03-23 |
-| [Things](https://open.spotify.com/track/2XOhiVjCnahqthv0KbYQ1X) | [Chiara Bertarelli](https://open.spotify.com/artist/2OTccfUPi1r1TFAct5ifW5) | [Things](https://open.spotify.com/album/3a8irWe74S6YKdr9ZI8BdM) | 3:20 | 2025-08-27 |  |
+| [Things](https://open.spotify.com/track/2XOhiVjCnahqthv0KbYQ1X) | [Chiara Bertarelli](https://open.spotify.com/artist/2OTccfUPi1r1TFAct5ifW5) | [Things](https://open.spotify.com/album/3a8irWe74S6YKdr9ZI8BdM) | 3:20 | 2025-08-27 | 2025-11-20 |
 | [Through The Night](https://open.spotify.com/track/27mj4TuM0Kypnyo9dTNNKw) | [Sun's Sons](https://open.spotify.com/artist/6CnYqmFmgl42nsSAxJss1H) | [Clean Slate EP](https://open.spotify.com/album/49aGULYvQRBxrSCllbp14q) | 3:33 | 2022-07-20 | 2022-08-18 |
 | [Tidal Waves](https://open.spotify.com/track/1muhuIPxC7BwJwDmTkRxFE) | [Les Yeux Sans Visage](https://open.spotify.com/artist/3haLGMwPuFiW5spBAgTgcb) | [Tidal Waves](https://open.spotify.com/album/6w713anjcib82BcZaP9BqE) | 3:41 | 2023-11-15 | 2024-01-11 |
 | [Tightrope](https://open.spotify.com/track/6bRkI6tZm75s98q6hEKSZu) | [Fiesta Forever](https://open.spotify.com/artist/7vbwPNp2OFycsNWKk3ui3P) | [Tightrope](https://open.spotify.com/album/1YPwlrD9EFnQncVbXDsLEf) | 2:55 | 2023-06-14 | 2023-08-24 |
@@ -1415,6 +1418,7 @@
 | [vergiss die drei](https://open.spotify.com/track/4RFE1DlyM7KjKUUOOFWq1K) | [lenzy](https://open.spotify.com/artist/1zhcGENkWmlGu0UGcC8ESf), [Sören Last](https://open.spotify.com/artist/7tGTL3UqB3eC9C3oP8OR6n) | [vergiss die drei](https://open.spotify.com/album/02jTGbKrt4VHms8gQxb4NC) | 1:57 | 2024-07-24 | 2024-08-22 |
 | [Verliebt](https://open.spotify.com/track/3W7cU8Ncut4H5YiwwpXADz) | [PaLe](https://open.spotify.com/artist/5Wq4nzgvTsSygwNDobgw0t) | [Verliebt](https://open.spotify.com/album/4fYJ4EUk44iikUbQFLrFtn) | 2:39 | 2023-03-08 | 2023-04-20 |
 | [Verlierer](https://open.spotify.com/track/5AB3MVHFVMqEK1OSMdeXxv) | [Ellie Mic](https://open.spotify.com/artist/6Hs32fFWLEseo1FOIOMlwW) | [Verlierer](https://open.spotify.com/album/6dynCf9r1ABitOURv8Abpx) | 2:33 | 2022-10-26 | 2022-11-10 |
+| [Verloren in Berlin](https://open.spotify.com/track/05Eo6hYyw9nwe0Z04avdfS) | [POLA](https://open.spotify.com/artist/0uykiUx30wWeZy2CnhfF4C) | [Verloren in Berlin](https://open.spotify.com/album/7jO9aznJamwUM9yks0xgV1) | 2:33 | 2025-11-19 |  |
 | [vermis](https://open.spotify.com/track/7LlnGj6eWF37IaJKOuZmfH) | [westermann](https://open.spotify.com/artist/3CpxEgAzIvRyjyzRM8pWAc) | [vermis](https://open.spotify.com/album/4bHNkhRUd2Mu5yc0UxeWlE) | 7:25 | 2024-06-05 | 2025-07-24 |
 | [Vermiss mich](https://open.spotify.com/track/6zx9I912i7PLQ4TIAlHkoZ) | [YAGUT](https://open.spotify.com/artist/3CLI0sgdbmUjLZ2GmrbnN6) | [Vermiss mich](https://open.spotify.com/album/4vbOK1LYHKPzWblVWGDWpA) | 2:30 | 2022-08-31 | 2022-09-15 |
 | [Verschwendete Jugend](https://open.spotify.com/track/2fLOGZGzzq6zWzeEuFvzKu) | [Rosenrausch](https://open.spotify.com/artist/6LLYzhQh2x8UvS6V0zoSAz) | [Verschwendete Jugend](https://open.spotify.com/album/6nQYDeIsx4ok45NVqWQ8Wl) | 2:07 | 2024-11-13 | 2025-04-03 |
@@ -1539,7 +1543,7 @@
 | [Zigaretten drehen](https://open.spotify.com/track/5NjJPKVxCJsOz6Nip7njPZ) | [Flinte](https://open.spotify.com/artist/3ZqXNocGLSBgDcpM2QyQMS) | [Zigaretten drehen](https://open.spotify.com/album/3KWzrLB2vW78wwTFPVq64L) | 3:40 | 2022-01-05 | 2022-01-13 |
 | [Zimmer 4](https://open.spotify.com/track/0ClAr95oTIz2yx8a1wIEdk) | [AINIE](https://open.spotify.com/artist/4ws7LzBaXuN1H5b8FbLxqS) | [Zimmer 4](https://open.spotify.com/album/0cYDzYxefBdbrAz90EJSoT) | 3:51 | 2023-01-04 | 2024-01-04 |
 | [zugeparkt](https://open.spotify.com/track/1Ub0UvSzsIq1hGj8TULZTf) | [moé](https://open.spotify.com/artist/2Odi4EJdB2wFUTMWNCxJ7T), [SOMA](https://open.spotify.com/artist/3v8hKjW4vtSYSsvsVV2JMq) | [zugeparkt](https://open.spotify.com/album/2gr0APtvwMC1jWmZIAgVI9) | 3:03 | 2024-05-08 | 2025-01-10 |
-| [Zugwarten](https://open.spotify.com/track/1nGnziO2muaQpPfhxxJgLI) | [Kassettenkrach](https://open.spotify.com/artist/5bEdVy7syvIX0cpiFQi9Ih) | [Zugwarten](https://open.spotify.com/album/56JHoyzM2GvU4KDlnl7YN4) | 2:06 | 2025-09-10 |  |
+| [Zugwarten](https://open.spotify.com/track/1nGnziO2muaQpPfhxxJgLI) | [Kassettenkrach](https://open.spotify.com/artist/5bEdVy7syvIX0cpiFQi9Ih) | [Zugwarten](https://open.spotify.com/album/56JHoyzM2GvU4KDlnl7YN4) | 2:06 | 2025-09-10 | 2025-11-20 |
 | [zumindest red ich mir das ein](https://open.spotify.com/track/75hnzTh0Bz9WF6yGnqSuo9) | [Charlotte Kudella](https://open.spotify.com/artist/237KrHWanV4SzWmqWRdpyg) | [zumindest red ich mir das ein](https://open.spotify.com/album/3dGS17dXzaMliwWw1mDamj) | 4:11 | 2025-11-05 |  |
 | [Zwanzig](https://open.spotify.com/track/1y44G2ZAxPKjmjmIYUfSCq) | [Charlotte Kudella](https://open.spotify.com/artist/237KrHWanV4SzWmqWRdpyg) | [Zwanzig](https://open.spotify.com/album/0cWlAojJoXRDFmup6VM4is) | 3:11 | 2025-07-09 | 2025-09-25 |
 | [übereilt](https://open.spotify.com/track/6HhxyAagLF5rMLP5rTeimm) | [Esby](https://open.spotify.com/artist/2I1ft9bVFSEtjZ7u5bR5js) | [übereilt](https://open.spotify.com/album/1q1UF71oTY7kImZlGdONYs) | 2:05 | 2024-01-24 | 2025-01-10 |

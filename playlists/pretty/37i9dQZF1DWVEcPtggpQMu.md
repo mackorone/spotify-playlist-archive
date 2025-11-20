@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest South African rap\. <br/>Cover: Shane Eagle
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,114 likes - 100 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,142 likes - 100 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 | 15 | [Sewer](https://open.spotify.com/track/4iOeodQ4jq5aardIuyIR3F) | [Flow Jones Jr.](https://open.spotify.com/artist/16lC2NTx9Dj12PsgOzraQa), [Mochen](https://open.spotify.com/artist/7DkwT8IpIAjcquKnCwyFRg), [LaCabra](https://open.spotify.com/artist/1Ccf9QPY9mcDSSwnlvofIT) | [GREEDY](https://open.spotify.com/album/35eDqH2knBUnpfPQkxEMtE) | 3:24 |
 | 16 | [Aura \(oGcabashe\)](https://open.spotify.com/track/65KFpzq9hKo4b55H5lus22) | [Lord Script](https://open.spotify.com/artist/793A2IFcoskCrnPQarTcua), [Sastii](https://open.spotify.com/artist/32Mj58IRbLXY5O8uj2O0Ml) | [Aura \(oGcabashe\)](https://open.spotify.com/album/6keKm0BorjY2hRmaP75c8q) | 2:06 |
 | 17 | [Phethwe Sithi](https://open.spotify.com/track/0rNASNiqkWKIJpsRVbHm6L) | [Flash Ikumkani](https://open.spotify.com/artist/2XK36sugVIN5x79ytKdd6X) | [Phethwe Sithi](https://open.spotify.com/album/69IQT9aAxIj1ZVyWzegTGo) | 2:16 |
-| 18 | [HANDOUT](https://open.spotify.com/track/3xGbofxej3a2fMQkMOTnAs) | [saveHXPE](https://open.spotify.com/artist/1WkniaxGgj7PkhhA45z6fp) | [HANDOUT](https://open.spotify.com/album/2KpHDbDGxD7mBOc7UGCd3H) | 2:33 |
+| 18 | [HANDOUT](https://open.spotify.com/track/3xGbofxej3a2fMQkMOTnAs) | [saveHXPE](https://open.spotify.com/artist/1WkniaxGgj7PkhhA45z6fp) | [HANDOUT](https://open.spotify.com/album/2KpHDbDGxD7mBOc7UGCd3H) | 2:16 |
 | 19 | [Analogue](https://open.spotify.com/track/6Jdx1D3wtYGA3BnyxRZxrT) | [Tyson Sybateli](https://open.spotify.com/artist/058c0IeszwOx7Qsk5g8gSy), [Marcus Harvey](https://open.spotify.com/artist/5MTx8G4UpDgIhvl1eRxJq6) | [Analogue \(Ad\)](https://open.spotify.com/album/29ifpgQ9Agbo16RfQfMnCr) | 3:33 |
 | 20 | [New Lat](https://open.spotify.com/track/3jojiJ4Acs3LldIzqbImqJ) | [Ziggy4x](https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27), [BakerGotTheKeys](https://open.spotify.com/artist/0Rk3Mqrzxt6xld45Uu9TQ3) | [New Lat](https://open.spotify.com/album/1H1i8QbwJUR4vjiTVQvtV9) | 1:52 |
 | 21 | [Gazi](https://open.spotify.com/track/6sjEat90Sm7mh3v9shQATo) | [Dre Autumn](https://open.spotify.com/artist/0PGW5aSldNIk8XsrjFgWQq), [Bravo Le Roux](https://open.spotify.com/artist/7w1eHsswsDyA7oevlUvNbY), [Buzzi Lee](https://open.spotify.com/artist/5uq7zsfkgABEDUgJZzGZNR) | [Gazi](https://open.spotify.com/album/11kaI4ozwObnGAtGG4kyos) | 4:01 |

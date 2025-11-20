@@ -1,12 +1,12 @@
 {
   "description": "This is Paulo Londra. The essential tracks, all in one playlist.",
-  "num_followers": 1308119,
+  "num_followers": 1308107,
   "original_name": "This Is Paulo Londra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRplgAAAAAD1XKyhbitpmw5bwQELJsDC",
+  "snapshot_id": "aRu3AAAAAAATax06swyDsZLCqlgLIkti",
   "tracks": [
     {
       "added_at": null,
@@ -319,6 +319,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Paulo Londra: Bzrp Music Sessions, Vol. 23/66",
+        "url": "https://open.spotify.com/album/2IV0dmb0nEBrhGkdE2Tk14"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 258541,
+      "name": "Paulo Londra: Bzrp Music Sessions, Vol. 23/66",
+      "url": "https://open.spotify.com/track/4F4bzCA8RWoyKQDfeFGolM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Flashbacks | CROSSOVER #9",
         "url": "https://open.spotify.com/album/3RVunVsTpDf0UQ18IVVWBy"
       },
@@ -339,26 +359,6 @@
       "duration_ms": 182871,
       "name": "Flashbacks | CROSSOVER #9",
       "url": "https://open.spotify.com/track/73JFuGO9niMXXqmJ2WAMPU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Paulo Londra: Bzrp Music Sessions, Vol. 23/66",
-        "url": "https://open.spotify.com/album/2IV0dmb0nEBrhGkdE2Tk14"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 258541,
-      "name": "Paulo Londra: Bzrp Music Sessions, Vol. 23/66",
-      "url": "https://open.spotify.com/track/4F4bzCA8RWoyKQDfeFGolM"
     },
     {
       "added_at": null,

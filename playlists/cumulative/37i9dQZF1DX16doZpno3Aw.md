@@ -4,7 +4,7 @@
 
 > all the best instrumentals & sounds from the internet  ∼ 🫀
 
-175 songs - 8 hr 44 min
+176 songs - 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Boundless Worship](https://open.spotify.com/track/1DwpJCFR4CgevQJvJHmUw3) | [Josué Novais Piano Worship](https://open.spotify.com/artist/2eyvnKpqrIgBVqliNYz8Yj) | [Boundless Worship](https://open.spotify.com/album/4usipgX4X9s8LZG85KELnD) | 11:55 | 2025-11-13 |  |
 | [Brokendate](https://open.spotify.com/track/0XcY2bB4lectIINykHYYDa) | [Com Truise](https://open.spotify.com/artist/2wouN3QXejYa5tKetYdcVX) | [Galactic Melt](https://open.spotify.com/album/1PSr89gL5T8Ki87t4V5BGZ) | 5:08 | 2025-04-23 | 2025-09-24 |
 | [Carnival of the Animals: XIII\. The Swan](https://open.spotify.com/track/7wlb5ql7qloOg9OjEN9PXg) | [Camille Saint\-Saëns](https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0), [Barry Wordsworth](https://open.spotify.com/artist/5sjJnaI3YhaO8KylpJk3gN), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Saint\-Saëns: Carnival of the Animals; Bizet: Jeux d'enfants; Ravel: Mother Goose](https://open.spotify.com/album/4Qx7DzoPlvbA4z7e6JUf9R) | 2:58 | 2025-03-07 | 2025-05-16 |
+| [Carol of the Bells \- Piano Version](https://open.spotify.com/track/3volBRJGzsvTuRFM1e9p94) | [Tony Ann](https://open.spotify.com/artist/6Y1uosuiV7bpiOuCUgibsN) | [Carol of the Bells \(Piano Version\)](https://open.spotify.com/album/23EO5UPnJyTpwq0i8vpvNR) | 2:45 | 2025-11-19 |  |
 | [childhood](https://open.spotify.com/track/06dDLXf4gPbE02gvH8E6G9) | [daniel.mp3](https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC), [Zamaro](https://open.spotify.com/artist/4WkV190e0fmD9erTWrDpuX) | [childhood](https://open.spotify.com/album/3n3DgKUDa2UqJlLzMOQMXj) | 2:09 | 2025-02-27 |  |
 | [Chill Vibes](https://open.spotify.com/track/7gYGLJafbrlW0OyRbcEiUg) | [Tollan Kim](https://open.spotify.com/artist/78OVjYbRWhttVbxublN6GC) | [Chill Vibes](https://open.spotify.com/album/0yaDH2WbHhzifK5hK9gkN1) | 3:12 | 2025-02-27 | 2025-05-24 |
 | [Closer](https://open.spotify.com/track/3EzBTrvwhbxsRhBUcvWlKk) | [Nuages](https://open.spotify.com/artist/30tUlKZ8oLo0BnN6n0GZKD) | [Closer](https://open.spotify.com/album/5ShvCFQ2ja6E92KAUsDz8R) | 5:08 | 2025-03-14 | 2025-06-20 |

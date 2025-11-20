@@ -4,7 +4,7 @@
 
 > Experience the best live performances\. Check out live soul albums <a href="spotify:genre:0JQ5IMCbQBLzm5vQYyTJnY">here</a>.
 
-210 songs - 17 hr 28 min
+210 songs - 17 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Blackbird \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3VukmzGvVbB4FyGyBPf0A7) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Spotify Singles](https://open.spotify.com/album/4Od3ObjvGfZybirpKZBrcg) | 4:27 | 2022-02-10 |  |
 | [Boogie Nights / All Night \- Live](https://open.spotify.com/track/60Lw7vJQ3kA2qkXuBHjgXk) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Live](https://open.spotify.com/album/7Cg83CbNY30zxin7u5zwSX) | 6:28 | 2022-02-10 | 2024-04-19 |
 | [Boogie Nights / All Night \- Live Version](https://open.spotify.com/track/5Tcz6jTjeAHKWZqmkp52f2) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Live](https://open.spotify.com/album/07fMvvGwPrV4IuXvopTHTE) | 6:28 | 2022-02-10 | 2022-07-29 |
-| [Bring It on Home to Me \- Live at the Harlem Square Club, Miami, FL \- January 1963](https://open.spotify.com/track/3lYM0ZNXLG2276Wcoj0pyz) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [One Night Stand \- Sam Cooke Live At The Harlem Square Club, 1963](https://open.spotify.com/album/3nTXqOEHr6AfTb1WSaB4Pm) | 5:26 | 2022-02-10 |  |
+| [Bring It on Home to Me \- Live at the Harlem Square Club, Miami, FL \- January 1963](https://open.spotify.com/track/3lYM0ZNXLG2276Wcoj0pyz) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [One Night Stand \- Sam Cooke Live At The Harlem Square Club, 1963](https://open.spotify.com/album/3nTXqOEHr6AfTb1WSaB4Pm) | 4:07 | 2022-02-10 |  |
 | [Brown Sugar \- Live At The Jazz Cafe, London/1995](https://open.spotify.com/track/0OrHlUYXJ0AdHUD24AS7Ya) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Live At The Jazz Cafe, London](https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi) | 10:45 | 2022-02-10 |  |
 | [Butterflies \- Live At The House Of Blues, New Orleans / 2003](https://open.spotify.com/track/1jtYZUkR3Zr3jzWPI4skzV) | [Floetry](https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM) | [Floacism "Live"](https://open.spotify.com/album/09dDtTXan9iHABpbgea1oa) | 4:29 | 2022-02-10 |  |
 | [California Dreamin' \- Live In Hollywood / 1968](https://open.spotify.com/track/1nmwDIOcxdrL81PQXHI9kg) | [Bobby Womack](https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq) | [The Womack “Live”](https://open.spotify.com/album/6V7Xe40jkKb1MtdCwzO21A) | 6:06 | 2022-02-10 | 2024-10-26 |

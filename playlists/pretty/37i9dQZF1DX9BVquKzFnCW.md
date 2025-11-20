@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BVquKzFnCW.md) - [plain]
 
 > Set the perfect brunch mood with instrumental and vocal Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,261 likes - 100 songs - 9 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,277 likes - 100 songs - 9 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BVquKzFnCW.md) - [plain]
 | 36 | [Just Friends](https://open.spotify.com/track/76mRDTbUFAUyG0yRMzpwwj) | [Sonny Stitt Quartet](https://open.spotify.com/artist/03Sna6rwmroeEViv4M4K8H) | [Saxophone Supremacy](https://open.spotify.com/album/2e6azkD3xAzR0bQ8sJHPPb) | 3:50 |
 | 37 | [Bewitched](https://open.spotify.com/track/7a1BrZjQgDV9wlNuj3U1nM) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Modern Art](https://open.spotify.com/album/49HY44cDZDZ3iytyXdajQ6) | 4:26 |
 | 38 | [Moten Swing](https://open.spotify.com/track/1haPzI492gIfPLv27qKUHA) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Night Train \(Expanded Edition\)](https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v) | 2:52 |
-| 39 | [Without a Song \- Remastered](https://open.spotify.com/track/6NeCoPvzhTHcBu3RFzbY3X) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [The Bridge](https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ) | 7:26 |
+| 39 | [Without a Song \- Remastered](https://open.spotify.com/track/6NeCoPvzhTHcBu3RFzbY3X) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [The Bridge](https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ) | 7:28 |
 | 40 | [Better Go](https://open.spotify.com/track/17boI3WdTRx4eCXKsVg5Ol) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk), [Harry "Sweets" Edison](https://open.spotify.com/artist/4rZoL92ShDgN9SLLg4OPPN) | [Ben And "Sweets"](https://open.spotify.com/album/2ZLYIpIfXFCbwBkaqgRhBk) | 8:57 |
 | 41 | [I Guess I'll Have To Change My Plan](https://open.spotify.com/track/5w2gihx0xSbmWIxauR35nK) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm) | [The Jazz Giants](https://open.spotify.com/album/44oGFX0F5QBXitVzuxmFxg) | 9:35 |
 | 42 | [Don't Get Around Much Any More](https://open.spotify.com/track/0U9GZufDpyO2YQRLHmcMa6) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [King Of The Tenors](https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v) | 3:05 |

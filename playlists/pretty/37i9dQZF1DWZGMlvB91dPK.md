@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGMlvB91dPK.md) - [plain]
 
 > Découvrez la programmation du BISE Festival 2024.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,369 likes - 48 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,368 likes - 48 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,15 +26,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGMlvB91dPK.md) - [plain]
 | 16 | [Tout le Monde](https://open.spotify.com/track/1xqEInPRO41pPcnbdmYotd) | [Nathalie Froehlich](https://open.spotify.com/artist/1L6ZYC0cyOyqdut8EpHyDq) | [Système](https://open.spotify.com/album/4FZVauD4WZVtQ3TN5Mhb23) | 4:00 |
 | 17 | [Diego Suarez](https://open.spotify.com/track/01B4uncwhANixLex6qoqq4) | [Joanne Radao](https://open.spotify.com/artist/4zugZIfmlrWGtdvmmO1LNP) | [Diego Suarez](https://open.spotify.com/album/1iy2dIamS6sYkSghQi6EW6) | 3:34 |
 | 18 | [Temps volé](https://open.spotify.com/track/1x26yUbCxLWuUNMj4h3k6w) | [Makoto San](https://open.spotify.com/artist/5q59mwaDz1bIPUdymI1Qvr), [Uzi Freyja](https://open.spotify.com/artist/1RK65n6t13UmpsWLmTQWGz) | [Temps volé](https://open.spotify.com/album/0uYTlqOtTOW5HJ5jh1hpdJ) | 3:14 |
-| 19 | [M'enfer](https://open.spotify.com/track/5agKRH3QG3v68LbPZPNsqz) | [Robert Robert](https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3) | [Bienvenue Au Pays](https://open.spotify.com/album/61H2tnO40ZtlVMvhVXdHRZ) | 3:10 |
+| 19 | [Angoisse](https://open.spotify.com/track/4maRX67tL8ObXWdnfxv4PZ) | [Dinaa](https://open.spotify.com/artist/0shR2PS00avJ6Wp3npUBwS) | [Angoisse](https://open.spotify.com/album/7AvsmObsUkT0MEAP0UQN7K) | 3:42 |
 | 20 | [Shatta Des Menteuses](https://open.spotify.com/track/4uFefjrV1tIY7ejYAuGIZz) | [Scorpio Qveen](https://open.spotify.com/artist/4wi6SmqKntxGQIZz4mXjGF), [Maraboutage](https://open.spotify.com/artist/4cBFtyicoQa53BYgvyOGfK), [Cardozo](https://open.spotify.com/artist/5WLQjcJM3NezY41dwCxRCH) | [Disquette \#1 Roots](https://open.spotify.com/album/7bWg14UeWOpwiNNKucnra5) | 2:38 |
 | 21 | [Bouge de là](https://open.spotify.com/track/3dq9tXhtHNUg4PfkgOoMXa) | [Nathalie Froehlich](https://open.spotify.com/artist/1L6ZYC0cyOyqdut8EpHyDq) | [Désillusion](https://open.spotify.com/album/4SOGhbNxDxIybXJE4xecl3) | 2:41 |
-| 22 | [Angoisse](https://open.spotify.com/track/4maRX67tL8ObXWdnfxv4PZ) | [Dinaa](https://open.spotify.com/artist/0shR2PS00avJ6Wp3npUBwS) | [Angoisse](https://open.spotify.com/album/7AvsmObsUkT0MEAP0UQN7K) | 3:42 |
+| 22 | [M'enfer](https://open.spotify.com/track/5agKRH3QG3v68LbPZPNsqz) | [Robert Robert](https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3) | [Bienvenue Au Pays](https://open.spotify.com/album/61H2tnO40ZtlVMvhVXdHRZ) | 3:10 |
 | 23 | [Don't Waste My Time](https://open.spotify.com/track/4fJ0WgBtMm3pFlt8E0IBql) | [ÉNAÉ](https://open.spotify.com/artist/41qDq9RL1JUO3WfBT1vjLM) | [528Hz](https://open.spotify.com/album/7i6HxReY7m9wHSOdh3au8V) | 2:45 |
-| 24 | [Alex](https://open.spotify.com/track/3dArn7SqBbcAXsS4cExG7K) | [Robert Robert](https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3) | [Bienvenue Au Pays](https://open.spotify.com/album/61H2tnO40ZtlVMvhVXdHRZ) | 3:16 |
-| 25 | [Aire de plastique](https://open.spotify.com/track/1FP93DO41UqI4THy99qo2L) | [Bon Enfant](https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb) | [Aire de plastique](https://open.spotify.com/album/054vgEJE8ErWurbHkyeCEw) | 4:07 |
-| 26 | [Massage Gun](https://open.spotify.com/track/7vI6yGTEqPtZ1qKdF9KVoq) | [Scorpio Qveen](https://open.spotify.com/artist/4wi6SmqKntxGQIZz4mXjGF), [Maraboutage](https://open.spotify.com/artist/4cBFtyicoQa53BYgvyOGfK), [Cardozo](https://open.spotify.com/artist/5WLQjcJM3NezY41dwCxRCH) | [Disquette \#1 Roots](https://open.spotify.com/album/7bWg14UeWOpwiNNKucnra5) | 2:23 |
-| 27 | [NO GOZO](https://open.spotify.com/track/4UPV3NxT5ZAGrd8Bv2Ahuq) | [La Valentina](https://open.spotify.com/artist/6YpiZGhMwYRH8tXhPdBjVq) | [NO GOZO](https://open.spotify.com/album/413tknvi3iTafYnTtrwM5J) | 2:18 |
+| 24 | [Aire de plastique](https://open.spotify.com/track/1FP93DO41UqI4THy99qo2L) | [Bon Enfant](https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb) | [Aire de plastique](https://open.spotify.com/album/054vgEJE8ErWurbHkyeCEw) | 4:07 |
+| 25 | [Massage Gun](https://open.spotify.com/track/7vI6yGTEqPtZ1qKdF9KVoq) | [Scorpio Qveen](https://open.spotify.com/artist/4wi6SmqKntxGQIZz4mXjGF), [Maraboutage](https://open.spotify.com/artist/4cBFtyicoQa53BYgvyOGfK), [Cardozo](https://open.spotify.com/artist/5WLQjcJM3NezY41dwCxRCH) | [Disquette \#1 Roots](https://open.spotify.com/album/7bWg14UeWOpwiNNKucnra5) | 2:23 |
+| 26 | [NO GOZO](https://open.spotify.com/track/4UPV3NxT5ZAGrd8Bv2Ahuq) | [La Valentina](https://open.spotify.com/artist/6YpiZGhMwYRH8tXhPdBjVq) | [NO GOZO](https://open.spotify.com/album/413tknvi3iTafYnTtrwM5J) | 2:18 |
+| 27 | [Alex](https://open.spotify.com/track/3dArn7SqBbcAXsS4cExG7K) | [Robert Robert](https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3) | [Bienvenue Au Pays](https://open.spotify.com/album/61H2tnO40ZtlVMvhVXdHRZ) | 3:16 |
 | 28 | [ACID](https://open.spotify.com/track/552GDaca9nwW4RuN2CsZZt) | [Hyper Jacuzzi](https://open.spotify.com/artist/5RkOL12PMfc3CDRY6JElZ1) | [ACID](https://open.spotify.com/album/5DUBanco1qA9ksFdBVe5LZ) | 4:18 |
 | 29 | [BRAT](https://open.spotify.com/track/4JpDToTM1LqoSreM99SRPb) | [MALVINA](https://open.spotify.com/artist/6LvXqXnw5SEWHhXPz9be4n) | [BRAT](https://open.spotify.com/album/392u2T0ZoleRLFuzBg7FZo) | 3:14 |
 | 30 | [HYPNOSE](https://open.spotify.com/track/0kzApf7h9Z4fpkjYnhtCYC) | [VISCERAL](https://open.spotify.com/artist/5AwoTd09zcU8oUJ12Qt4Om) | [HYPNOSE](https://open.spotify.com/album/2kUJV1HpZPsQDWcbpsnGYB) | 2:54 |

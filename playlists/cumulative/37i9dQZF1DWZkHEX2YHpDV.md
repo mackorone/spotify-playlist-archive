@@ -4,7 +4,7 @@
 
 > pop punk, alt, emo, post\-hardcore & more\. Cover: Yellowcard
 
-1,426 songs - 3 day 3 hr 17 min
+1,427 songs - 3 day 3 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [blame](https://open.spotify.com/track/3UEjjwl3SaUPrXOltnUvmq) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [blame / how to exit a room](https://open.spotify.com/album/5fSKEKXlwoX3XTQWZNJInQ) | 3:10 | 2023-06-09 | 2024-04-13 |
 | [blame me for everything](https://open.spotify.com/track/3gdFfyVjx5g5uqqpPH00vg) | [LiL Lotus](https://open.spotify.com/artist/2RJWS2Lmkw2uExDmFMe1Ry), [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [nosebleeder](https://open.spotify.com/album/6QTMfsAhVVDhxEZ5hA8nO3) | 2:13 | 2024-02-09 | 2025-02-15 |
 | [blindfolded](https://open.spotify.com/track/2yH6eL6f1Ada5MnmNpiPbr) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [blindfolded](https://open.spotify.com/album/3JXhXZLWuq6noobhcwK22i) | 3:19 | 2022-12-02 |  |
+| [Blissed Out](https://open.spotify.com/track/1CDUgvgeY4CJKCOBBc63Ow) | [Broadside](https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo) | [Blissed Out](https://open.spotify.com/album/3EvZq79rFwBuTDbsMzOlRy) | 3:24 | 2025-11-19 |  |
 | [Blistered World](https://open.spotify.com/track/5qGZW9TilPRhXIYDB1amjE) | [Plasma Canvas](https://open.spotify.com/artist/6bhi8CRvRAb6FxLk2zaMGQ) | [Blistered World](https://open.spotify.com/album/70mjHoRyTAkG4RcXi265ku) | 3:05 | 2022-10-25 | 2022-12-08 |
 | [Blood Moon](https://open.spotify.com/track/5cfrLL1TcbJp3bbKemlL6F) | [State Faults](https://open.spotify.com/artist/6D3k7skHIg72j2v9J4zT9b) | [Blood Moon](https://open.spotify.com/album/1Ib31L2Db5OHtZnsPVncwx) | 2:28 | 2024-06-24 | 2024-08-24 |
 | [Bloodhound for Oblivion](https://open.spotify.com/track/5NDKH3pjVtgiXt5PgjeONS) | [Relic Hearts](https://open.spotify.com/artist/1gmrjw85YvHI6jrbFkoN3n) | [Volatile](https://open.spotify.com/album/4j6sM622OZ4QUUm3ybI6zL) | 3:11 | 2022-03-25 | 2022-04-19 |
@@ -445,7 +446,7 @@
 | [Figure 8](https://open.spotify.com/track/2Jb3hVkRFoiiwXYcELiBfC) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:24 | 2023-04-28 | 2024-02-24 |
 | [Figure Eight](https://open.spotify.com/track/4JbNlNqFMVs1vBOFAutXcK) | [Trophy Eyes](https://open.spotify.com/artist/6KPdmtIl0LA5mRFSqseWhI) | [Figure Eight](https://open.spotify.com/album/0eU9qAlZt7kIEZnonBtixO) | 3:21 | 2021-12-10 | 2022-07-29 |
 | [Figure Eight](https://open.spotify.com/track/70nKt5OKAbXwlRrKsrf1oq) | [Trophy Eyes](https://open.spotify.com/artist/6KPdmtIl0LA5mRFSqseWhI) | [Figure Eight](https://open.spotify.com/album/6f6A2AiUD0r3HVygTAFgez) | 3:21 | 2022-07-08 | 2022-08-06 |
-| [Final Nail \(with Charlotte Sands\)](https://open.spotify.com/track/6kG3qEXGFZCC4OfGCRBW15) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Final Nail \(with Charlotte Sands\)](https://open.spotify.com/album/41yGbbLZbhBJqjSBuoOoG4) | 2:30 | 2024-12-06 | 2025-11-12 |
+| [Final Nail \(with Charlotte Sands\)](https://open.spotify.com/track/6kG3qEXGFZCC4OfGCRBW15) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Final Nail \(with Charlotte Sands\)](https://open.spotify.com/album/41yGbbLZbhBJqjSBuoOoG4) | 2:30 | 2024-12-06 |  |
 | [Fireplace](https://open.spotify.com/track/1PEvoJAIcrh3Y3SsxQrl6t) | [Sincere Engineer](https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1) | [Anemia](https://open.spotify.com/album/3EJPukArWrGXomGYPqZFeu) | 3:12 | 2023-09-22 | 2023-11-11 |
 | [Fireplace](https://open.spotify.com/track/6ltKvSyebk65SJtg5zKDXW) | [Sincere Engineer](https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1) | [Fireplace](https://open.spotify.com/album/5U2tNJNxYatUi2OV5SJAQQ) | 3:14 | 2023-07-14 | 2023-07-29 |
 | [Firestorm](https://open.spotify.com/track/4bmsOlx4HU2XYDNMjMMuby) | [The Spill Canvas](https://open.spotify.com/artist/4W8SeWrRZUburGZyp5JwYj) | [Firestorm](https://open.spotify.com/album/6l5cHuFSf5pKtJYuI8qkrA) | 3:05 | 2021-12-10 | 2022-07-28 |
@@ -636,7 +637,7 @@
 | [I Think I'm in Love](https://open.spotify.com/track/1sNqqWaIURY27KYmVZxkW7) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [I Think I'm in Love](https://open.spotify.com/album/2NFt8Yxk6p3U9dV3SXBBus) | 2:59 | 2023-09-15 | 2023-09-23 |
 | [I Think I'm OKAY \(with YUNGBLUD & Travis Barker\)](https://open.spotify.com/track/6bWBLZLBRQEJ5KsLicouNB) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [I Think I'm OKAY \(with YUNGBLUD & Travis Barker\)](https://open.spotify.com/album/6iGIjsBt4RJQFYlBBiNk39) | 2:50 | 2021-12-10 | 2022-07-09 |
 | [I Think It's Time](https://open.spotify.com/track/2CkFgrKRdVym1Y1UZPawqq) | [In Her Own Words](https://open.spotify.com/artist/3NBHNlkwYabSLvnisILPSI) | [I Think It's Time](https://open.spotify.com/album/67tdElpNSPRUFXHX5EFj8d) | 3:03 | 2024-09-20 | 2025-02-15 |
-| [I Think They Know](https://open.spotify.com/track/3o9p59E4kpxpmYdGWYujZS) | [Broadside](https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo) | [I Think They Know](https://open.spotify.com/album/2ErSV0aa5yt4ZiZp2Z0Uk1) | 3:06 | 2025-04-18 |  |
+| [I Think They Know](https://open.spotify.com/track/3o9p59E4kpxpmYdGWYujZS) | [Broadside](https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo) | [I Think They Know](https://open.spotify.com/album/2ErSV0aa5yt4ZiZp2Z0Uk1) | 3:06 | 2025-04-18 | 2025-11-20 |
 | [I Think You Should Leave](https://open.spotify.com/track/6YcrBSmLlD2vRUjAQkcUtL) | [Winona Fighter](https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ) | [I Think You Should Leave](https://open.spotify.com/album/1XsERUmCUSsSnoGCsNpbX3) | 2:43 | 2023-11-10 | 2024-06-25 |
 | [I Wanna Go Out](https://open.spotify.com/track/1lpazBOGKUvnun0DSkWeQk) | [Wavy Trees](https://open.spotify.com/artist/1raxbMiiHxTcbYbScF9rmM) | [I Wanna Go Out](https://open.spotify.com/album/0SwQCNhjSYSvAcJdQy39MG) | 2:35 | 2022-01-14 | 2022-07-07 |
 | [I Want to Kill You](https://open.spotify.com/track/06YhbREh7qQLF8Sl7tZIyn) | [Citizen](https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor) | [I Want to Kill You](https://open.spotify.com/album/3v3CJTdsVWzd3tvfozVNOa) | 3:12 | 2021-12-10 | 2022-07-29 |
@@ -899,7 +900,7 @@
 | [One Foot Wide](https://open.spotify.com/track/7Iq7JKB3J1di7eozPYtWPW) | [Good Hangs](https://open.spotify.com/artist/2a1joNabZ5FF1XpYEvgD9W) | [One Foot Wide](https://open.spotify.com/album/075bTzHAr8wFqesZbX3X1r) | 3:23 | 2023-12-08 | 2023-12-14 |
 | [One For The Rocks And One For The Scary](https://open.spotify.com/track/0hSSJl2mThXCJPHMI5MIrb) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [One For The Rocks And One For The Scary](https://open.spotify.com/album/4KRZ7aHBCjuyK9leF5tMRp) | 4:03 | 2021-12-10 | 2022-07-28 |
 | [One Last Time](https://open.spotify.com/track/58NAlwbMyFUWb8GUEoOpOi) | [Broadside](https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo) | [One Last Time](https://open.spotify.com/album/78ZP7VUY5QO1lqv4FdXr28) | 3:00 | 2022-11-04 | 2023-12-09 |
-| [One Last Time](https://open.spotify.com/track/19bqVQCJzBLiAb0ljuAVMC) | [Broadside](https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo) | [Hotel Bleu](https://open.spotify.com/album/3blidU7QbdagNPs3Wqw9cI) | 3:02 | 2023-12-08 |  |
+| [One Last Time](https://open.spotify.com/track/19bqVQCJzBLiAb0ljuAVMC) | [Broadside](https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo) | [Hotel Bleu](https://open.spotify.com/album/3blidU7QbdagNPs3Wqw9cI) | 3:02 | 2023-12-08 | 2025-11-20 |
 | [One Little Lie](https://open.spotify.com/track/1CtlK5ajs2MVmZyq3vrM3A) | [Simple Creatures](https://open.spotify.com/artist/4svozL97Y6aqWeZNJPqvsL) | [One Little Lie](https://open.spotify.com/album/14VYAGYdnzIPtV5F2JxfwH) | 3:15 | 2021-12-10 | 2022-07-09 |
 | [ONE MORE TIME](https://open.spotify.com/track/5VEnzMXc8ocZko4M4TqnR2) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME / MORE THAN YOU KNOW](https://open.spotify.com/album/12shcf6jYi3XhXxAL7U6N9) | 3:28 | 2023-09-22 | 2024-01-20 |
 | [ONE NATION](https://open.spotify.com/track/7oZn1w8pspTBu7Bps6WRfj) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [ONE NATION](https://open.spotify.com/album/5JJ4MejqGy8oAdPevTNi3Q) | 3:03 | 2024-11-08 | 2025-02-01 |

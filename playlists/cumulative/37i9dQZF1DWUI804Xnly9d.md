@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Arijit Singh
 
-610 songs - 1 day 10 hr 6 min
+611 songs - 1 day 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Acche Hain](https://open.spotify.com/track/6dxq28SkzTofI0p7mAarhl) | [Raghav Sachar](https://open.spotify.com/artist/7nVsNB3N2S3AoAyvIPNXlj), [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Acche Hain](https://open.spotify.com/album/5Q875wNYcM8u0jQJav8mDt) | 2:16 | 2023-07-12 | 2023-09-30 |
 | [Adhoora](https://open.spotify.com/track/5rwva1AuukXKbL3EYbewmb) | [Rudhraa Boi](https://open.spotify.com/artist/2IsbOR37f9yz5cAU1ZF3pd) | [Adhoora](https://open.spotify.com/album/2k6l6yckXzxowISogE9UEB) | 2:58 | 2025-01-05 | 2025-01-24 |
 | [Afwaeen](https://open.spotify.com/track/4Iy7HgDxa19p4MxVaA8W9L) | [Sunny Subramanian](https://open.spotify.com/artist/4Otbfyw3dUGWXAp3C7zbS2) | [Afwaeen](https://open.spotify.com/album/6tIJgl2e9HN8m9lzv5NVLD) | 2:23 | 2023-09-15 | 2023-11-29 |
-| [AGAR](https://open.spotify.com/track/3oJrOmQi8pmLKPbI5NiWPh) | [Maan Panu](https://open.spotify.com/artist/3lRhKw5gfTNnpnPFFE7TfQ), [Nimit Music Project](https://open.spotify.com/artist/4unntZnKf9o5luzeYkrg3o) | [AGAR](https://open.spotify.com/album/1VJFdL736uuogCAcw79TJS) | 3:16 | 2025-05-19 |  |
+| [AGAR](https://open.spotify.com/track/3oJrOmQi8pmLKPbI5NiWPh) | [Maan Panu](https://open.spotify.com/artist/3lRhKw5gfTNnpnPFFE7TfQ), [Nimit Music Project](https://open.spotify.com/artist/4unntZnKf9o5luzeYkrg3o) | [AGAR](https://open.spotify.com/album/1VJFdL736uuogCAcw79TJS) | 3:16 | 2025-05-19 | 2025-11-20 |
 | [Aisa Lagey \- Reprise](https://open.spotify.com/track/6rKrjP0W8yNi24vigkhE0A) | [Ashutosh Phatak](https://open.spotify.com/artist/2oaX6xFkrTYxtMUi37YgRl), [Mandar Deshpande](https://open.spotify.com/artist/7Hx3f4bmmfn6Ra2wu0dG2c), [Niranjan Iyengar](https://open.spotify.com/artist/5YvkJtCfhsoiQ7TjFo1Z3i) | [Mumbai Diaries Season 2 \(Original Series Soundtrack\)](https://open.spotify.com/album/7MpYTwWoGD32rJAmpObLRT) | 4:27 | 2023-10-04 | 2023-11-16 |
 | [Aise Kyun](https://open.spotify.com/track/2sT0eosuhBEkw8dz6qFxUo) | [Anurag Saikia](https://open.spotify.com/artist/6hzngLO20cX5IGqT0hVv1G), [Raghav Chaitanya](https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK), [Raj Shekhar](https://open.spotify.com/artist/2DFCHTDIA0t638a4mm37dK), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Mismatched: Season 1 \(Music from the Netflix Original Series\)](https://open.spotify.com/album/4UBpXkgzFj39NOcdfuQpxt) | 4:24 | 2023-12-14 |  |
 | [Aisha](https://open.spotify.com/track/4ViuaSTxQuuKH88uyuaAs3) | [Abhi Abhi](https://open.spotify.com/artist/636FbaY38o2XgzBNr1Rq8Z) | [Aisha](https://open.spotify.com/album/33bcVrQn7MMgXs3lNHkGdm) | 2:52 | 2025-04-11 | 2025-07-23 |
@@ -361,6 +361,7 @@
 | [Mein Aur Tum](https://open.spotify.com/track/2xb679KGUYTQUXeJK0IqMo) | [Kushal Chokshi](https://open.spotify.com/artist/3O4inKp31pcolbyohgKuYa) | [Mein Aur Tum](https://open.spotify.com/album/7JjirikQXBXGNkoSHMmTFm) | 2:49 | 2023-05-17 | 2023-05-26 |
 | [Mera Chaand](https://open.spotify.com/track/1OpaXuFejD7SZihxltCY0i) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Mera Chaand](https://open.spotify.com/album/5t0eb1ckENCqaz7DPkksRY) | 2:55 | 2024-02-09 | 2024-07-31 |
 | [Mera Pyaar Mujhse Chhuta](https://open.spotify.com/track/6HyYz5H1gHiRk7ikTcuSDj) | [Nikul Sabalpara](https://open.spotify.com/artist/4g9yRDkHYocIsv298xj3Kh) | [Mera Pyaar Mujhse Chhuta](https://open.spotify.com/album/2MqEuClZB4dhf76DdmpWOw) | 2:29 | 2024-12-05 | 2025-02-11 |
+| [Mera Sapna](https://open.spotify.com/track/1EzehSXnc1bii79PT2nigB) | [Azensha](https://open.spotify.com/artist/44wRg1i4HVrNR42fxrvsuD) | [Mera Sapna](https://open.spotify.com/album/3kEt4JX6EF6lWm5iIdnJ5T) | 5:05 | 2025-11-19 |  |
 | [Mere Ho Tum](https://open.spotify.com/track/61oCaW4kdKZtH2V8BU4zc9) | [Raghav Kaushik](https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H), [Sparsh Agrawal](https://open.spotify.com/artist/0HAi6wzZPabkO4T93W2b9U) | [Mere Ho Tum](https://open.spotify.com/album/7riVtJbtVcXkZkHSHi5mIW) | 3:35 | 2024-10-25 | 2024-11-19 |
 | [Mere illahi](https://open.spotify.com/track/50qgHFvuH0zcdwGHdGcjaO) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Uberman](https://open.spotify.com/album/0DLgomZECPwZBKWx69qDE0) | 4:44 | 2024-08-19 | 2024-10-11 |
 | [Meri Duniya Tu \(Mehfil Unplugged\)](https://open.spotify.com/track/5gx74G9kqfjddSddH4LFQ0) | [Purusharth Jain](https://open.spotify.com/artist/5qHTw4EBukwn3GFseugVmc) | [Meri Duniya Tu \(Mehfil Unplugged\)](https://open.spotify.com/album/3W7RQsmVuo94rvZZuNfp8H) | 3:46 | 2024-04-08 | 2024-06-01 |

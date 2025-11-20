@@ -4,7 +4,7 @@
 
 > Only the hottest South African rap\. <br/>Cover: Shane Eagle
 
-1,056 songs - 2 day 7 hr 49 min
+1,056 songs - 2 day 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -376,7 +376,7 @@
 | [HAMBA HA](https://open.spotify.com/track/6CPmGbuYQ6IJKGgDylKhW7) | [Phantom Steeze](https://open.spotify.com/artist/02XiDOg93e5rFwmPoc7O6S), [Roiii](https://open.spotify.com/artist/0DdgjYMzRw7t9TVwFuBI0V), [Buzzi Lee](https://open.spotify.com/artist/5uq7zsfkgABEDUgJZzGZNR) | [HAMBA HA](https://open.spotify.com/album/6bIxmm59vfwazznB9xxoXM) | 3:20 | 2023-06-23 | 2023-10-14 |
 | [Hamptons \(feat\. Trxp & whoisbabyesco\)](https://open.spotify.com/track/50pqvYDPCD27giHgGummB8) | [MVLICKE](https://open.spotify.com/artist/3s1Z51m5pqY6RB0zFYwFlE), [Trxp](https://open.spotify.com/artist/5odEf6eim8OCISiYAAD9Ge), [whoisbabyesco](https://open.spotify.com/artist/7n8nfUesQwoe70CHYbdUbA) | [Hamptons \(feat\. Trxp & whoisbabyesco\)](https://open.spotify.com/album/5QL6gNcnUrDfcahxrvvT7q) | 3:00 | 2025-04-03 | 2025-09-19 |
 | [Handling Business](https://open.spotify.com/track/1jxHnGpNOqWiyYQ2zaUn93) | [Tony Dayimane](https://open.spotify.com/artist/61JGKpmRAgud7VaFpgesxi), [Usimamane](https://open.spotify.com/artist/7CAuIrM6rFLrIgisYOV0Fs) | [Handling Business](https://open.spotify.com/album/2qtCtbe6idi2lZ88Px451Q) | 3:16 | 2023-12-14 | 2024-05-10 |
-| [HANDOUT](https://open.spotify.com/track/3xGbofxej3a2fMQkMOTnAs) | [saveHXPE](https://open.spotify.com/artist/1WkniaxGgj7PkhhA45z6fp) | [HANDOUT](https://open.spotify.com/album/2KpHDbDGxD7mBOc7UGCd3H) | 2:33 | 2025-11-12 |  |
+| [HANDOUT](https://open.spotify.com/track/3xGbofxej3a2fMQkMOTnAs) | [saveHXPE](https://open.spotify.com/artist/1WkniaxGgj7PkhhA45z6fp) | [HANDOUT](https://open.spotify.com/album/2KpHDbDGxD7mBOc7UGCd3H) | 2:16 | 2025-11-12 |  |
 | [Happy Vibe](https://open.spotify.com/track/3fpJgPREo1bJm4k2viVpcA) | [Aewon Wolf](https://open.spotify.com/artist/2HdJNbpBYMaUSzsmUMILLC) | [VIBES](https://open.spotify.com/album/7kZF3NyxpIXgyyKl72h9KR) | 3:50 | 2022-03-24 | 2022-04-15 |
 | [Hard To Believe](https://open.spotify.com/track/09Su6hSkRJIudi16ZYKBO9) | [Yung Tyran](https://open.spotify.com/artist/4soClpNcOWakO9h9nbUBQX) | [Hard To Believe](https://open.spotify.com/album/0yGUhWYZXnFchwj764kDCO) | 2:30 | 2025-08-01 |  |
 | [HARDER](https://open.spotify.com/track/5uS1m3Jn78w6l6eQZq6ZSx) | [Espiquet](https://open.spotify.com/artist/7JnVA6sPhYeTpLoWd5DvTz), [Benlay](https://open.spotify.com/artist/33bcG30WfjE62cl3CJ7Pa4), [HYPE1108](https://open.spotify.com/artist/5immINU629aU0BHwmiRnnV) | [HARDER](https://open.spotify.com/album/6J1NN1s0f1qHMGw8BMcj6H) | 3:16 | 2024-06-06 | 2024-10-12 |

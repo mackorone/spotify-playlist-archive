@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/1S4JPQeJxtsN37X8as5EPk.md) - [plain]
 
 > Classic folk, bluegrass, country blues, and spirituals, along with some recent songs that have a traditional vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,773 likes - 49 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,771 likes - 49 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Born 100,000 Years Ago](https://open.spotify.com/track/6VXUv7wHlVfoJq1Rr8K83d) | [Cisco Houston](https://open.spotify.com/artist/1N5hj4BNumkXa8D3fyfMYE) | [The Folkways Years, 1944\-1961](https://open.spotify.com/album/3xqEhSh6qA2Uj0dM3XFm9j) | 1:10 |
-| 2 | [Jesse James \(Just Ask\)](https://open.spotify.com/track/1AHJ9o9ANGVX80oESbiViR) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [We Shall Overcome: The Seeger Sessions \(American Land Edition\)](https://open.spotify.com/album/2O3avtEIE8xX9F0zcIjIZI) | 3:45 |
+| 2 | [Jesse James \(Just Ask\)](https://open.spotify.com/track/1AHJ9o9ANGVX80oESbiViR) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [We Shall Overcome: The Seeger Sessions \(American Land Edition\)](https://open.spotify.com/album/2O3avtEIE8xX9F0zcIjIZI) | 3:47 |
 | 3 | [Down To The River To Pray \- From “O Brother, Where Art Thou” Soundtrack](https://open.spotify.com/track/2HaYuNASv99g5B3NRi5HNf) | [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [O Brother, Where Art Thou? \(Soundtrack\)](https://open.spotify.com/album/5WaLOxV9bgTYyCQ8v8vdnU) | 2:55 |
 | 4 | [Oh, Susannah](https://open.spotify.com/track/7BiS5iuDWLOeAl9gxQ9gJ3) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Sweet Baby James](https://open.spotify.com/album/2NEQ5Q4sBbUHVVx3Wf8TEZ) | 2:00 |
 | 5 | [Old Dan Tucker's Daughter](https://open.spotify.com/track/3Vs2tKLoggqQkBJjxpwjnp) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [16 Biggest Hits](https://open.spotify.com/album/3YD1UC4LwnmtJoJMxrWWKx) | 2:55 |

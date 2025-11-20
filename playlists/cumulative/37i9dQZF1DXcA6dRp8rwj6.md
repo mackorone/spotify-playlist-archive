@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: PLAYERTWO\)
 
-3,171 songs - 6 day 15 hr 57 min
+3,172 songs - 6 day 15 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1599,6 +1599,7 @@
 | [Lovin On Me](https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Lovin On Me](https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af) | 2:18 | 2023-11-09 | 2024-04-19 |
 | [lowkey](https://open.spotify.com/track/2ABV2OYzFdpWsNTpMDLZaL) | [lucidrari](https://open.spotify.com/artist/2OuQGHGAZFocbf70tibJac), [Heil Nuan](https://open.spotify.com/artist/3BVptctlsxecpETrp0wpW5) | [lowkey](https://open.spotify.com/album/7ztS9ILcFuesq0fDeolS7r) | 3:37 | 2025-03-20 | 2025-05-16 |
 | [LUIGI](https://open.spotify.com/track/3slG0jtlLfJYMBgWHSUghI) | [LAZER DIM 700](https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U) | [LUIGI](https://open.spotify.com/album/3rV7e5IhmMidAon0rsvXks) | 1:37 | 2024-11-28 | 2024-12-20 |
+| [Luke Combs \(feat\. That Mexican OT\)](https://open.spotify.com/track/6ClAfqWE1p49PRLEpODvJS) | [NASAAN](https://open.spotify.com/artist/6qbCuiHIWsiQxNhqXgc7mz), [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [Luke Combs \(feat\. That Mexican OT\)](https://open.spotify.com/album/6gA7lTdErrWhMjF1d4ogI2) | 2:29 | 2025-11-18 |  |
 | [luther \(with sza\)](https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:57 | 2024-12-13 | 2025-02-22 |
 | [LUV? \(feat\. Anne\-Marie\)](https://open.spotify.com/track/4kSXfaTJzXGkEdGBQBl0MB) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [LUV? \(feat\. Anne\-Marie\)](https://open.spotify.com/album/5ypPFVTmsSQ5Os2hqHVxTM) | 2:37 | 2025-04-24 | 2025-06-14 |
 | [LUXURY LIFE \(feat\. Coi Leray\)](https://open.spotify.com/track/1v4trJXb9eBsIewxan0TBP) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [LUXURY LIFE \(feat\. Coi Leray\)](https://open.spotify.com/album/4juZyT9LN9kiBGRlkL5w2a) | 2:18 | 2023-09-07 | 2024-01-05 |

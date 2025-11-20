@@ -901,6 +901,28 @@
     },
     {
       "album": {
+        "name": "Wormhole / Yumi AraI",
+        "url": "https://open.spotify.com/album/2BJD3fJ7bkUkGlkH0H0Yuv"
+      },
+      "artists": [
+        {
+          "name": "Yumi Matsutoya",
+          "url": "https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU"
+        },
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232259,
+      "name": "\u6587\u901a",
+      "url": "https://open.spotify.com/track/7cZswqhGUHmoi7fsjstVQ7"
+    },
+    {
+      "album": {
         "name": "\u6e26",
         "url": "https://open.spotify.com/album/7kYLEXVhvTilbDM67hrBub"
       },

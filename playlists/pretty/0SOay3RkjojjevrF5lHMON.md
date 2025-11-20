@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0SOay3RkjojjevrF5lHMON.md) - [plain]
 
 > All <a href="http://www.rammstein.com">RAMMSTEIN</a>, all the time.
 
-[Rammstein](https://open.spotify.com/user/rammsteinofficial) - 305,538 likes - 254 songs - 19 hr 24 min
+[Rammstein](https://open.spotify.com/user/rammsteinofficial) - 305,524 likes - 254 songs - 19 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

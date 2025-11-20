@@ -1,13 +1,45 @@
 {
   "description": "Global crossovers by/with Arab artists. Cover: Fulana",
-  "num_followers": 166415,
+  "num_followers": 166416,
   "original_name": "Arab X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGvNoCBfzq6lpbfiL6TtaYPuFcUA",
+  "snapshot_id": "AAAAAEO74pu6uo5Erf/n/DfTleDWK0sA",
   "tracks": [
+    {
+      "added_at": "2025-11-19 17:26:39",
+      "album": {
+        "name": "MA3ASSALAMA Side B: Begin Again",
+        "url": "https://open.spotify.com/album/0XEe9rqLNBP8nlQi9DaAi7"
+      },
+      "artists": [
+        {
+          "name": "Tamtam",
+          "url": "https://open.spotify.com/artist/0L8dLj3QGxHctqkzapPfio"
+        }
+      ],
+      "duration_ms": 203570,
+      "name": "Reality Check",
+      "url": "https://open.spotify.com/track/6k7qOESVYyZM8diZIR1BFE"
+    },
+    {
+      "added_at": "2025-11-19 17:26:39",
+      "album": {
+        "name": "I Promise No One's Watching",
+        "url": "https://open.spotify.com/album/5IVW9XdJ8w9MFB6VO66AXZ"
+      },
+      "artists": [
+        {
+          "name": "Nxdia",
+          "url": "https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf"
+        }
+      ],
+      "duration_ms": 129056,
+      "name": "She Likes a Boy",
+      "url": "https://open.spotify.com/track/76frYoCK0lRG96SBXpJPp0"
+    },
     {
       "added_at": "2025-10-06 11:50:22",
       "album": {

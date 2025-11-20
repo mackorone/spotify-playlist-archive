@@ -1373,24 +1373,6 @@
     },
     {
       "album": {
-        "name": "Chapter One (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6FM2zi33hm46NY9mk5jIV8"
-      },
-      "artists": [
-        {
-          "name": "Ella Henderson",
-          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
-        }
-      ],
-      "date_added": "2021-08-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 213213,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/4XPWKmy05Rcff6TLHNoNF8"
-    },
-    {
-      "album": {
         "name": "Chapter One",
         "url": "https://open.spotify.com/album/3ndfnISZRohKZGbKh6kv33"
       },
@@ -1406,6 +1388,24 @@
       "duration_ms": 213213,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/4z7gh3aIZV9arbL9jJSc5J"
+    },
+    {
+      "album": {
+        "name": "Chapter One (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6FM2zi33hm46NY9mk5jIV8"
+      },
+      "artists": [
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        }
+      ],
+      "date_added": "2021-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213218,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/4XPWKmy05Rcff6TLHNoNF8"
     },
     {
       "album": {
@@ -1779,7 +1779,7 @@
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 218573,
+      "duration_ms": 218693,
       "name": "I Choose You",
       "url": "https://open.spotify.com/track/7jJH8F3PHlNvxfqEAAfFDl"
     },
@@ -2533,7 +2533,7 @@
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 277306,
+      "duration_ms": 277185,
       "name": "Mirrors - Radio Edit",
       "url": "https://open.spotify.com/track/6ToFxXRBtl5TJFEyIoYK3f"
     },
@@ -3387,7 +3387,7 @@
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 224840,
+      "duration_ms": 224849,
       "name": "Rude",
       "url": "https://open.spotify.com/track/6RtPijgfPKROxEzTHNRiDp"
     },
@@ -4291,7 +4291,7 @@
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 269146,
+      "duration_ms": 268453,
       "name": "Suit & Tie (feat. JAY Z) (feat. JAY-Z) - [Radio Edit]",
       "url": "https://open.spotify.com/track/4mQVHEjrnuUd7G5IVhSYTk"
     },
@@ -4817,7 +4817,7 @@
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 231240,
+      "duration_ms": 231233,
       "name": "We Can't Stop",
       "url": "https://open.spotify.com/track/2y4lAQpi5VTNLu2ldeTdUH"
     },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Seyi Vibez, teni, Omah Lay, Moliy, Wande Coal,  and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,074 likes - 56 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,175 likes - 56 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

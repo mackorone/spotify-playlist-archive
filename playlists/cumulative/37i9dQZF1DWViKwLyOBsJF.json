@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Traditional carols and hymns for a classic Christmas feeling.",
-  "name": "Instrumental Christmas Hymns",
+  "description": "Traditional Christmas songs for a classic festive feeling.",
+  "name": "Instrumental Christmas",
   "tracks": [
     {
       "album": {
@@ -885,6 +885,24 @@
     },
     {
       "album": {
+        "name": "Good Christian Men Rejoice",
+        "url": "https://open.spotify.com/album/4VtHY3mP1QC9oEc2QMQQac"
+      },
+      "artists": [
+        {
+          "name": "Light His Way",
+          "url": "https://open.spotify.com/artist/2fRpXEF0tpwUBty1zyXDP7"
+        }
+      ],
+      "date_added": "2025-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254000,
+      "name": "Good Christian Men Rejoice",
+      "url": "https://open.spotify.com/track/5bF8hMRiuqF4dfnBT9gSbk"
+    },
+    {
+      "album": {
         "name": "Relaxing Christmas Music, Vol. 1",
         "url": "https://open.spotify.com/album/3TsPUuASpxKagXwi12SSmx"
       },
@@ -1217,6 +1235,24 @@
     },
     {
       "album": {
+        "name": "Jesu, Joy of Man's Desiring",
+        "url": "https://open.spotify.com/album/59KaMF4TGpxaSnWyToTNmb"
+      },
+      "artists": [
+        {
+          "name": "Pauline Poncelet",
+          "url": "https://open.spotify.com/artist/73ujyZVgl0cLkBj6CPI8JM"
+        }
+      ],
+      "date_added": "2025-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149482,
+      "name": "Jesu, Joy of Man's Desiring",
+      "url": "https://open.spotify.com/track/4iSpJOotQU6eWlaB9Qo50F"
+    },
+    {
+      "album": {
         "name": "Jingle Bells",
         "url": "https://open.spotify.com/album/6v06rX8IKFfen73wXhIHcD"
       },
@@ -1300,10 +1336,28 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 141281,
       "name": "Joy to the World",
       "url": "https://open.spotify.com/track/4K9oXfi4duY1GaQBJ5Rr7g"
+    },
+    {
+      "album": {
+        "name": "Joy To The World",
+        "url": "https://open.spotify.com/album/6oR0ftYwivQJgSnRWvHeH0"
+      },
+      "artists": [
+        {
+          "name": "Santi Bordera",
+          "url": "https://open.spotify.com/artist/5yG6YaEEVw1lyClOQ9yOzb"
+        }
+      ],
+      "date_added": "2025-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145125,
+      "name": "Joy To The World",
+      "url": "https://open.spotify.com/track/1bo2hWSldusQTM7mm1rt2d"
     },
     {
       "album": {
@@ -2020,6 +2074,24 @@
     {
       "album": {
         "name": "The First Noel",
+        "url": "https://open.spotify.com/album/2HHiWzSdQDH58Qn0IQWTDr"
+      },
+      "artists": [
+        {
+          "name": "Samuel Wright",
+          "url": "https://open.spotify.com/artist/10v374WJVYK1n7uMM6FNVm"
+        }
+      ],
+      "date_added": "2025-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94619,
+      "name": "The First Noel",
+      "url": "https://open.spotify.com/track/08tg93375LQTUu883QMXXq"
+    },
+    {
+      "album": {
+        "name": "The First Noel",
         "url": "https://open.spotify.com/album/0Yo7z3fUoLc6D1q5Xy9QYi"
       },
       "artists": [
@@ -2030,7 +2102,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 120662,
       "name": "The First Noel",
       "url": "https://open.spotify.com/track/47bpAl4y8LNNiyZFC26A2M"

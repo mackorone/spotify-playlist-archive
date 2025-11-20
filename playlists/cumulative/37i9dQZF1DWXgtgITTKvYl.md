@@ -2,9 +2,9 @@
 
 ### [Prog Rock](https://open.spotify.com/playlist/37i9dQZF1DWXgtgITTKvYl)
 
-> A collection of the best recent Prog Rock tracks\. Cover: Weather Systems
+> A collection of best Prog Rock tracks\. Cover: Dream Theater
 
-464 songs - 1 day 16 hr 56 min
+465 songs - 1 day 17 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,7 @@
 | [Fountainhead](https://open.spotify.com/track/6keB6agTeQshuQUVQYeLgL) | [The Omnific](https://open.spotify.com/artist/5yn8jrJH5Z5PaGFStNUvgR) | [Escapades](https://open.spotify.com/album/3Q5EIihNcRQbuEFA2vGDGo) | 3:41 | 2022-05-20 | 2024-04-19 |
 | [Frankenstein 1984 \- Human Version](https://open.spotify.com/track/7hK8iVmY1BYcDxf4yZRcUY) | [Edgar Winter](https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk), [The Edgar Winter Group](https://open.spotify.com/artist/7j9PMegEgVN1fNp8NZXNCI) | [Frankenstein 1984](https://open.spotify.com/album/6TkH7hjTutAGOp2Gd04kL0) | 4:56 | 2025-10-10 | 2025-11-15 |
 | [Free](https://open.spotify.com/track/1s2nolY8iX6hkKd4TFhb5b) | [Storm Deva](https://open.spotify.com/artist/123FxVi00P6AN2cks8FBfE) | [Free](https://open.spotify.com/album/5OaH8LibquPKILvehfV0gH) | 4:35 | 2024-09-06 | 2024-09-20 |
-| [Frostbite](https://open.spotify.com/track/1xWJy7RRWLdnoEwySFGYYf) | [4 Eyed Bears](https://open.spotify.com/artist/50hjZxcsxO2gMOdp4s8Kb2), [Martin Gonzalez](https://open.spotify.com/artist/5JM8caNvIgCqRWYtLYxxNg), [Lechuga](https://open.spotify.com/artist/2SDcND6iKTDeQtHYV7OmoB) | [Frostbite](https://open.spotify.com/album/5s4MhpGN9Kqul0nG26zshb) | 4:02 | 2025-08-22 |  |
+| [Frostbite](https://open.spotify.com/track/1xWJy7RRWLdnoEwySFGYYf) | [4 Eyed Bears](https://open.spotify.com/artist/50hjZxcsxO2gMOdp4s8Kb2), [Martin Gonzalez](https://open.spotify.com/artist/5JM8caNvIgCqRWYtLYxxNg), [Lechuga](https://open.spotify.com/artist/2SDcND6iKTDeQtHYV7OmoB) | [Frostbite](https://open.spotify.com/album/5s4MhpGN9Kqul0nG26zshb) | 4:02 | 2025-08-22 | 2025-11-20 |
 | [frozen heart \~ burning world](https://open.spotify.com/track/5hpZN0O7t8i3XFp0lC7cw1) | [Earthside](https://open.spotify.com/artist/6mRDRKsNautYuxybddnvgg) | [frozen heart \~ burning world](https://open.spotify.com/album/43207Y9Wb6c1yZsIPSfNce) | 9:00 | 2025-02-14 | 2025-03-08 |
 | [Fugl Fønix](https://open.spotify.com/track/5vSWdH3Fh9vdT9ehTOsGg3) | [Elephant9](https://open.spotify.com/artist/7fX6TkG03KYZv7jAaZKC5v), [Terje Rypdal](https://open.spotify.com/artist/3EFzYPEP2mCQoqcLjoWwK1) | [Catching Fire](https://open.spotify.com/album/0dajrPs2fJEscLd1EC2IV0) | 10:42 | 2024-10-18 | 2025-01-25 |
 | [Funeral March](https://open.spotify.com/track/3IpfRVjJIAZtqrCbE8Y1jx) | [Bumblefoot](https://open.spotify.com/artist/1KGFAcP7ovMYuoQuloDhOj), [Ben Karas](https://open.spotify.com/artist/4tbvm2EIhwRQFYjk9hruhD) | [...Returns!](https://open.spotify.com/album/51D4j5A6bClqy2PsKTE6q2) | 3:46 | 2025-01-24 | 2025-05-10 |
@@ -335,6 +335,7 @@
 | [Shaping Mirrors Like Smoke](https://open.spotify.com/track/59NxjcwDh1fIZdmJx4NGus) | [Himmellegeme](https://open.spotify.com/artist/2zZSkbRgQir9MXLYmV3Aar) | [Variola Vera](https://open.spotify.com/album/1e7obwZMhNKs1uPrC4RTmq) | 5:47 | 2022-05-20 | 2024-10-12 |
 | [She](https://open.spotify.com/track/2L6DHEGFpneaVyyrvJYiH5) | [Bjørn Riis](https://open.spotify.com/artist/0itkMtdd5OVeG2FFDE7J6z) | [She](https://open.spotify.com/album/5zDKfiXOO4YqdSwiramQRF) | 6:33 | 2025-03-07 | 2025-05-03 |
 | [Shine On](https://open.spotify.com/track/3DZ0YXVKAI2bJ6w5vlOQ3h) | [Jon Anderson](https://open.spotify.com/artist/2iptQ8hQmUa7kZocEBHt7u), [The Band Geeks](https://open.spotify.com/artist/5rSLeWi6nL5nfMNFa1vReS) | [True](https://open.spotify.com/album/3ON1es6pWr8pBYYRoMJa9R) | 4:17 | 2024-09-08 | 2024-12-14 |
+| [Shine On You Crazy Diamond \- Pts\. 1\-9, New Stereo Mix](https://open.spotify.com/track/7Dw4ReVy2jfCQ9lzRoJ0yD) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Shine On You Crazy Diamond \(Pts\. 1\-9, New Stereo Mix\)](https://open.spotify.com/album/4B1bOlJb3djUjSzrVYDAkh) | 25:25 | 2025-11-19 |  |
 | [Shiram](https://open.spotify.com/track/0uGaVwnmp6LyyzVqiwIonY) | [The Brandy Alexanders](https://open.spotify.com/artist/3oavfsOsh6xtZwNAg15zp0) | [Shiram](https://open.spotify.com/album/1eAKIlk3VDOEUF59MkQQz1) | 2:45 | 2022-05-20 | 2024-09-20 |
 | [Shlammin’ Salmon](https://open.spotify.com/track/7wDB8ujCDPwFESoCyerFo1) | [The Dear Hunter](https://open.spotify.com/artist/51lE580QM13Anmb3mK2j1e) | [North American EP](https://open.spotify.com/album/2qwGMI6eIwJsxoz3iveDgE) | 4:55 | 2025-06-06 | 2025-06-28 |
 | [Shoulders](https://open.spotify.com/track/18sNKn7b6TePLS8ufyc17y) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Vaxis II: A Window of the Waking Mind](https://open.spotify.com/album/5YRtvIMApwxnUTcWUBcaON) | 3:24 | 2022-05-20 | 2024-04-19 |

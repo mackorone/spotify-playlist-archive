@@ -4,7 +4,7 @@
 
 > Global crossovers by/with Arab artists\. Cover: Fulana
 
-369 songs - 20 hr 12 min
+371 songs - 20 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,6 +269,7 @@
 | [RAS L'KHEIT](https://open.spotify.com/track/15D5UNbf9SEnTElZVImhmo) | [Fulan](https://open.spotify.com/artist/4EUpixEhMIiyIPz8TzVpqk) | [RAS L'KHEIT](https://open.spotify.com/album/2BL8Jg0gyzTxoJU5Qn679Y) | 2:48 | 2023-05-26 | 2025-06-25 |
 | [Rather Try](https://open.spotify.com/track/7D09Q387brpXrH6w1eXYdY) | [Ziad](https://open.spotify.com/artist/0pyVNHbpZ6oiTYTYPLp7aj) | [Rather Try](https://open.spotify.com/album/14CEaWYYQN7bEqnYu21syi) | 2:37 | 2023-08-14 | 2024-10-15 |
 | [Real Lies \(feat\. CKay\)](https://open.spotify.com/track/0rl5IsgPdYePNorHS9OpnS) | [Ghita](https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Real Lies \(feat\. CKay\)](https://open.spotify.com/album/33QYFtxtg8mvCC68p9QPa5) | 3:38 | 2021-12-16 | 2022-11-20 |
+| [Reality Check](https://open.spotify.com/track/6k7qOESVYyZM8diZIR1BFE) | [Tamtam](https://open.spotify.com/artist/0L8dLj3QGxHctqkzapPfio) | [MA3ASSALAMA Side B: Begin Again](https://open.spotify.com/album/0XEe9rqLNBP8nlQi9DaAi7) | 3:23 | 2025-11-19 |  |
 | [Rebirth](https://open.spotify.com/track/7LHcVG6sqmKMFK5WAV2ON5) | [Idrissi](https://open.spotify.com/artist/5KYjLxvBWL3P087kSFs3QF), [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS), [Malket](https://open.spotify.com/artist/4SniWApo3km8jt2PVMnyEK) | [Temporis](https://open.spotify.com/album/0uEoafTA875Dqw6hJDlrJ5) | 3:29 | 2021-12-16 | 2022-05-05 |
 | [Reckless](https://open.spotify.com/track/6DQcmJrSZCH9nCtLtilcXP) | [Moh Flow](https://open.spotify.com/artist/4mZSevA0QZtMWxZTGhLw9p) | [Reckless](https://open.spotify.com/album/4Qs52IAZsGBXM854MEkfXE) | 5:06 | 2023-08-14 | 2024-06-01 |
 | [Red Zone](https://open.spotify.com/track/0OYnkVivn0i88HIa7mJ85E) | [Not.Fay](https://open.spotify.com/artist/5oBXBDfbDztCCPGHXqJKUo) | [Red Zone](https://open.spotify.com/album/3ceAEqR5KpNa9IEQBycYti) | 2:11 | 2021-12-16 | 2022-06-07 |
@@ -291,6 +292,7 @@
 | [Selfish](https://open.spotify.com/track/1hzlrszIYah7vFitAl5cji) | [NOVO](https://open.spotify.com/artist/430UrfL5PTV5Y5elsZtq6a) | [Love or Madness](https://open.spotify.com/album/49ICK38Ot22Q0F0Hw3njDD) | 3:05 | 2021-12-16 | 2022-11-20 |
 | [Seventeenth](https://open.spotify.com/track/4So2mnPsaD3clOoqAWUKKM) | [fulana](https://open.spotify.com/artist/2CSVXPqF7glLJsWNWpCwGe) | [Seventeenth](https://open.spotify.com/album/7rsjWsaJzIAfYDUGNOWZwg) | 3:51 | 2023-06-26 |  |
 | [Shattered](https://open.spotify.com/track/4bpryNIqnYK1yhr7D2PRM5) | [Wissam Hilal](https://open.spotify.com/artist/2yICXFfulgwVygZl6d19AZ), [2wice Shye](https://open.spotify.com/artist/4aTT2lVgwspZZn7JqDv5YR) | [Shattered](https://open.spotify.com/album/5J2Y1UNGQrrd8kB4ulRB1B) | 3:39 | 2021-12-16 | 2022-11-20 |
+| [She Likes a Boy](https://open.spotify.com/track/76frYoCK0lRG96SBXpJPp0) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [I Promise No One's Watching](https://open.spotify.com/album/5IVW9XdJ8w9MFB6VO66AXZ) | 2:09 | 2025-11-19 |  |
 | [Shine](https://open.spotify.com/track/4w1yEDtO2J4otvGALYZNEt) | [Ramzi](https://open.spotify.com/artist/7sOe0BpnYTaGhBB6V6DAmo) | [Shine](https://open.spotify.com/album/2HAgCkfUZq2duvnfabIeYY) | 3:47 | 2021-12-16 | 2022-06-07 |
 | [Shouting At The Wall](https://open.spotify.com/track/2mG7R3NJdDBfxfx1ETqv0Q) | [MC Abdul](https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E) | [Shouting At The Wall](https://open.spotify.com/album/5eSyQjHQfYQTIU02ONTdzC) | 2:47 | 2021-12-16 | 2022-10-09 |
 | [Show Me](https://open.spotify.com/track/52PJYhZeFDUJD70NR3kYT3) | [Moh Flow](https://open.spotify.com/artist/4mZSevA0QZtMWxZTGhLw9p) | [Show Me](https://open.spotify.com/album/400tCk424YR0fhAH3yj29v) | 3:21 | 2023-06-24 |  |

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSon4ExGiVD.md) - [plain]
 
 > Sophisticated palates only\. Curated by: Darkchild
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,835 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,841 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Need Faith](https://open.spotify.com/track/3A5vkgvvNimHf3UdEadHJD) | [Alex Jean](https://open.spotify.com/artist/5qSM9F3Ei58tG08tXrJjSi) | [I Need Faith](https://open.spotify.com/album/4fO3zszTEILpBOV5jxRIlU) | 2:14 |
-| 2 | [You Rock My World](https://open.spotify.com/track/1Lhwn4PqeGpM4LTVUowW76) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Invincible](https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ) | 5:37 |
+| 2 | [You Rock My World](https://open.spotify.com/track/1Lhwn4PqeGpM4LTVUowW76) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Invincible](https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ) | 5:38 |
 | 3 | [Pray For Me \(with Kendrick Lamar\)](https://open.spotify.com/track/77UjLW8j5UAGAGVGhR5oUK) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Black Panther The Album Music From And Inspired By](https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR) | 3:31 |
 | 4 | [GODS HAND](https://open.spotify.com/track/3ziRrlTS93NcvP3eGgJz5r) | [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo), [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD) | [GODS HAND](https://open.spotify.com/album/0c2qV4UymqJK1C8iXFrEQd) | 3:33 |
 | 5 | [I Rather](https://open.spotify.com/track/3K4pN33w6T6twFvJveJZaY) | [Tj Carroll](https://open.spotify.com/artist/1lklT6lHzwo3ZOJpDVoLyH) | [I Rather](https://open.spotify.com/album/3J9aDKOhWSVLTAztQO0cGX) | 1:46 |

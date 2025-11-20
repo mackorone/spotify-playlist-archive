@@ -1,12 +1,12 @@
 {
   "description": "This is CeCe Winans. The essential tracks, all in one playlist.",
-  "num_followers": 53236,
+  "num_followers": 53256,
   "original_name": "This Is CeCe Winans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRplgAAAAAABonk+UuV6vdKvacKxzY6J",
+  "snapshot_id": "aRu3AAAAAADT47sJ1eM074KEjWjHiTrN",
   "tracks": [
     {
       "added_at": null,
@@ -368,9 +368,9 @@
           "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 69200,
-      "name": "Hallelujah To The King - Intro",
-      "url": "https://open.spotify.com/track/76NJYRHzTRjBqkS87nBCQv"
+      "duration_ms": 219333,
+      "name": "A Heart Like Yours",
+      "url": "https://open.spotify.com/track/75Zi4UtjmA481WbpT0nXjA"
     },
     {
       "added_at": null,
@@ -415,38 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Believe For It",
-        "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 250733,
-      "name": "Never Lost",
-      "url": "https://open.spotify.com/track/31I8gxix4Go4Mui0WsWuku"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Throne Room (Gold Edition)",
-        "url": "https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 219333,
-      "name": "A Heart Like Yours",
-      "url": "https://open.spotify.com/track/75Zi4UtjmA481WbpT0nXjA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Celebrating Fisk! (The 150th Anniversary Album)",
         "url": "https://open.spotify.com/album/4t8yqojKdA0scdvd53jXkF"
       },
@@ -463,6 +431,38 @@
       "duration_ms": 220923,
       "name": "Blessed Assurance",
       "url": "https://open.spotify.com/track/0W8YA8ADcKFDyOTaoK85ue"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Throne Room (Gold Edition)",
+        "url": "https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 294493,
+      "name": "Jesus, You're Beautiful",
+      "url": "https://open.spotify.com/track/2hURR2OEp83kltTqHXaB6G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Believe For It",
+        "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 250733,
+      "name": "Never Lost",
+      "url": "https://open.spotify.com/track/31I8gxix4Go4Mui0WsWuku"
     },
     {
       "added_at": null,
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 294493,
-      "name": "Jesus, You're Beautiful",
-      "url": "https://open.spotify.com/track/2hURR2OEp83kltTqHXaB6G"
+      "duration_ms": 69200,
+      "name": "Hallelujah To The King - Intro",
+      "url": "https://open.spotify.com/track/76NJYRHzTRjBqkS87nBCQv"
     },
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alone In His Presence",
-        "url": "https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 246266,
-      "name": "Alone In The Presence",
-      "url": "https://open.spotify.com/track/5z4OzC03DQ1B8mzGVWjE71"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Thy Kingdom Come",
         "url": "https://open.spotify.com/album/4wmO83yKXBEaAKME5PGOaF"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 320110,
       "name": "Waging War",
       "url": "https://open.spotify.com/track/1TKNkFNRWL5YcefJeIkfKz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alone In His Presence",
+        "url": "https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 246266,
+      "name": "Alone In The Presence",
+      "url": "https://open.spotify.com/track/5z4OzC03DQ1B8mzGVWjE71"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thy Kingdom Come",
-        "url": "https://open.spotify.com/album/4wmO83yKXBEaAKME5PGOaF"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 294293,
-      "name": "You're The One",
-      "url": "https://open.spotify.com/track/2tONY3nhewmWTmVcvZ6HnM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gaither Homecoming Classics Vol.1",
         "url": "https://open.spotify.com/album/3xjEEUAUUrcGADtLnfrQwT"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 118533,
       "name": "The Blood Will Never Lose Its Power - Live",
       "url": "https://open.spotify.com/track/698O3Z86WEausqCHlq5rMA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thy Kingdom Come",
+        "url": "https://open.spotify.com/album/4wmO83yKXBEaAKME5PGOaF"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 294293,
+      "name": "You're The One",
+      "url": "https://open.spotify.com/track/2tONY3nhewmWTmVcvZ6HnM"
     },
     {
       "added_at": null,

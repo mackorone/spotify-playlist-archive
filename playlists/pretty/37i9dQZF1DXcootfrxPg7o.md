@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcootfrxPg7o.md) - [plain]
 
 > Music from and inspired by Neflix's Malcolm & Marie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,196 likes - 36 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,234 likes - 36 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcootfrxPg7o.md) - [plain]
 | 2 | [I Forgot To Be Your Lover](https://open.spotify.com/track/3PLKsooF2oGUBdGzblvOlI) | [William Bell](https://open.spotify.com/artist/0mFoqJiNDtYntypvy6roGR) | [The Best Of William Bell](https://open.spotify.com/album/3qOZr2tczUvMFciKLk6lzb) | 2:18 |
 | 3 | [Down And Out In New York City](https://open.spotify.com/track/0jOnm3CL79MflZQSZiimpg) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW), [The J.B.'s](https://open.spotify.com/artist/4lJHGi5dlJmWwFH0JKF6di) | [Black Caesar](https://open.spotify.com/album/3Eiwyp3EB66AuXjBI2MYZI) | 4:43 |
 | 4 | [The Dark End of the Street](https://open.spotify.com/track/7GykWKpUdiwoYLCACCpmjp) | [James Carr](https://open.spotify.com/artist/59fzcTUsoozikLmRY1SwHS) | [You Got My Mind Messed Up](https://open.spotify.com/album/2ZygyYriRRKnSu07F73Yk9) | 2:33 |
-| 5 | [One Step Ahead](https://open.spotify.com/track/0dSRoWYf0GOzX9L44g53sZ) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [A Bit Of Soul](https://open.spotify.com/album/2RmmiMocgFh0MxSeUy6D0S) | 2:33 |
+| 5 | [One Step Ahead](https://open.spotify.com/track/0dSRoWYf0GOzX9L44g53sZ) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [A Bit Of Soul](https://open.spotify.com/album/2RmmiMocgFh0MxSeUy6D0S) | 2:38 |
 | 6 | [The First Time Ever I Saw Your Face](https://open.spotify.com/track/0SxFyA4FqmEQqZVuAlg8lf) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [First Take](https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F) | 4:20 |
 | 7 | [Deliver The Word](https://open.spotify.com/track/747tolfmXSPoCOHcfoOgtz) | [War](https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I) | [Deliver the Word](https://open.spotify.com/album/4mVKP4QgluQEiyVqEekwy3) | 7:51 |
 | 8 | [Wild Is The Wind](https://open.spotify.com/track/0RnQ085KK7an8Qm6n9SWU9) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [The Best Of Nina Simone 20th Century Masters The Millennium Collection](https://open.spotify.com/album/5Vj0u9bxLC6J0xeMONd07O) | 6:57 |
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcootfrxPg7o.md) - [plain]
 | 10 | [Is It Any Wonder?](https://open.spotify.com/track/5dnvWWkwwFJoDDc0QoSbvf) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP) | [Durand Jones & The Indications \(Deluxe Edition\)](https://open.spotify.com/album/0CzFk2RSGJjhXLEGhk6K1E) | 4:36 |
 | 11 | [Hey, That's No Way to Say Goodbye](https://open.spotify.com/track/130dKZhza6XRe8WSBl1nsu) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [First Take](https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F) | 4:08 |
 | 12 | [Motherless Child](https://open.spotify.com/track/4kzoipQkV4ffLMOwZvoYe3) | [O.V\. Wright](https://open.spotify.com/artist/2eRG04xbRiI1AzY8uTCySk) | [The Soul Of O.V\. Wright](https://open.spotify.com/album/5CK0cRjyDGGxdbjflByYYL) | 2:34 |
-| 13 | [Lost and Lookin'](https://open.spotify.com/track/34EltYEPxM1kwzfvi7PUU9) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Night Beat](https://open.spotify.com/album/4FsWNGbkeZtMD1BWXhIvRk) | 2:11 |
+| 13 | [Lost and Lookin'](https://open.spotify.com/track/34EltYEPxM1kwzfvi7PUU9) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Night Beat](https://open.spotify.com/album/4FsWNGbkeZtMD1BWXhIvRk) | 2:13 |
 | 14 | [Mixed Up Moods and Attitudes](https://open.spotify.com/track/7kDE6spnyw98C7KHHnvbRP) | [The Fantastic Four](https://open.spotify.com/artist/17kU4eEW33U7UfY8JIOsBi) | [Got to Have Your Love / B.Y.O.F \(Bring Your Own Funk\)](https://open.spotify.com/album/1R9VomvhFkcQTlCsRNoEmJ) | 5:35 |
 | 15 | [The Odd Couple](https://open.spotify.com/track/09mhTDBTeHQIR7K305ciC6) | [Billy May & His Orchestra](https://open.spotify.com/artist/2BFsBQuaspauXaT95x12Zw) | [Ultra\-Lounge: TV Town](https://open.spotify.com/album/0Eghpe2sSG7lMEHyHwahfZ) | 2:17 |
 | 16 | [Do What You Gotta Do](https://open.spotify.com/track/1WP7Snm91AFyvhWb3s8UB8) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [The Very Best Of Nina Simone 1967\-1972 \- Sugar In My Bowl](https://open.spotify.com/album/5Dh4qVmcMpDv5qhgdaqGtj) | 3:34 |

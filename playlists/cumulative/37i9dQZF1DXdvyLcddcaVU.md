@@ -4,7 +4,7 @@
 
 > \#fyp
 
-938 songs - 2 day 0 hr 40 min
+939 songs - 2 day 0 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -804,11 +804,12 @@
 | [Soirée parisienne \(feat\. Jizo Djohn.P\)](https://open.spotify.com/track/77jfFVugaz41IwpWqoXsUh) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Jizo Djohn.P](https://open.spotify.com/artist/5bmxexFqUzFm4nWg6EUYjE) | [Journal intime](https://open.spotify.com/album/7h7MqzSJ1wEXpjHzkevE6h) | 5:57 | 2024-01-26 | 2024-06-29 |
 | [SOIS PAS TIMIDE](https://open.spotify.com/track/37tGmKyKlr8vyt9BVdoWQo) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [SOIS PAS TIMIDE](https://open.spotify.com/album/7aJmLrwVq0bK3qHuGcaUbs) | 2:45 | 2024-08-01 | 2025-01-18 |
 | [Soleil Bleu](https://open.spotify.com/track/7xWvRVssTTECvWCDNgCzSH) | [Bleu Soleil](https://open.spotify.com/artist/2HSmynRDUgRfom3fditkjf), [LUIZA](https://open.spotify.com/artist/3K5sYlHk7RZimjYhUWej8D) | [Soleil Bleu](https://open.spotify.com/album/2WxTQ8aChxbPZB6RphhXtA) | 4:06 | 2025-06-20 | 2025-09-13 |
+| [Solide](https://open.spotify.com/track/68oBz6xab6ATAobLCbtZXX) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [OMW](https://open.spotify.com/album/1APrydqpXaHpfA3RZcbu07) | 3:32 | 2025-11-19 |  |
 | [Solitaire](https://open.spotify.com/track/3F64F36D17vZ1KgI8vkHQf) | [Bosh](https://open.spotify.com/artist/6Mm2g25BTeJ6BICPFWGkPg) | [Synkinisi](https://open.spotify.com/album/70FpaoDALiemmQYyx3X1z7) | 2:37 | 2024-11-08 | 2025-03-22 |
 | [Somethin' Here \- Original Mix](https://open.spotify.com/track/6dQdvxqOiLemHzrEUXQ4zz) | [Terrence Parker](https://open.spotify.com/artist/4hXZQPceQIf654OSomVXOs) | [Tribute](https://open.spotify.com/album/7CSU7E3rayRXcS2DJExj79) | 5:11 | 2024-03-15 | 2024-06-01 |
 | [SONGI SONGI](https://open.spotify.com/track/2FaguN0RwC7KiTHiUuaO2y) | [SALIMA CHICA](https://open.spotify.com/artist/0K27AaIekeMBOznvvoVstw) | [SONGI SONGI](https://open.spotify.com/album/4ZGMdKfRPnQgQu5sXy6hXQ) | 2:48 | 2025-09-05 | 2025-10-09 |
 | [Sonner](https://open.spotify.com/track/0OoMMMYlXD9kQIAeB8h7Ti) | [Kany](https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF), [Bramsito](https://open.spotify.com/artist/1WDkNp8Duv9QhO246S4dDa) | [Sonner](https://open.spotify.com/album/0MPp8KxL9KpCYuXSFxF1s2) | 2:55 | 2023-06-28 | 2023-09-16 |
-| [Sosa](https://open.spotify.com/track/39s9RAR6L1BKtqmnyrH815) | [40000 Gang](https://open.spotify.com/artist/5fRri7qy8LZBoywvV7KwV1) | [Anarchie](https://open.spotify.com/album/2PCRePoUl99wC1gJWKuYDJ) | 4:31 | 2025-04-10 |  |
+| [Sosa](https://open.spotify.com/track/39s9RAR6L1BKtqmnyrH815) | [40000 Gang](https://open.spotify.com/artist/5fRri7qy8LZBoywvV7KwV1) | [Anarchie](https://open.spotify.com/album/2PCRePoUl99wC1gJWKuYDJ) | 4:31 | 2025-04-10 | 2025-11-20 |
 | [Sourire](https://open.spotify.com/track/3DkF5PzztACcDGdLWVFiyJ) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [M.I.L.S](https://open.spotify.com/album/2KvyDaE0buWzzR8S4gCSsz) | 5:07 | 2024-02-02 | 2025-05-30 |
 | [Sous la lune](https://open.spotify.com/track/6hKkzk8UlVUj9ioPCyeH1O) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Rien 100 Rien](https://open.spotify.com/album/2GLuHlc49dJKY8yzxUZb8p) | 2:51 | 2024-11-04 | 2025-06-07 |
 | [Sousou](https://open.spotify.com/track/3dyoo6UNb2VlMTISBqrDb1) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Sousou](https://open.spotify.com/album/7qnvemXgw7u0S44VFLgXcH) | 3:57 | 2025-08-28 |  |

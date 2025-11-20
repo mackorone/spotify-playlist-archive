@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGVVd09MO7iM.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4wmgHQAAzg3gbnQWSyoMZp">Pharrell Williams</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,463 likes - 638 songs - 1 day 16 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,462 likes - 638 songs - 1 day 16 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -211,7 +211,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGVVd09MO7iM.md) - [plain]
 | 201 | [Chanel \(feat\. Swae Lee & Pharrell\) \- From Jxmtro](https://open.spotify.com/track/2W6JHG3KGGPv82Bi2hAnSz) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Slim Jxmmi](https://open.spotify.com/artist/7EEiVZvj6RCEtVX2F2pyxu), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [SR3MM](https://open.spotify.com/album/4vLYreWxd2ptOAzPwTyBI3) | 4:24 |
 | 202 | [Tamagotchi](https://open.spotify.com/track/7sg9kDT8H2P0wPACXnWRdN) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 2:48 |
 | 203 | [Top Shotta \(feat\. Pusha T, TRAVI & Beam\)](https://open.spotify.com/track/7ClZUuzhHULLKjjrHEz6HF) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [TRAVI](https://open.spotify.com/artist/4np9Zzw0SEYQLcGv28P51q) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 4:19 |
-| 204 | [It Girl](https://open.spotify.com/track/4nLHTIo4DqpCvD2EiLKhtJ) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [G I R L](https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W) | 4:49 |
+| 204 | [It Girl](https://open.spotify.com/track/4nLHTIo4DqpCvD2EiLKhtJ) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [G I R L](https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W) | 4:47 |
 | 205 | [Don't Don't Do It!](https://open.spotify.com/track/2svutFGaCycRmYc1mWbfQh) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [NO ONE EVER REALLY DIES](https://open.spotify.com/album/54OXaFd0PtGtAgauTmARkD) | 4:17 |
 | 206 | [Countin' Up](https://open.spotify.com/track/6UFG7GbMAeeMijEyrp6f1D) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Nasty](https://open.spotify.com/album/4RKiTVGT9pCVRnqIkwKWo1) | 2:30 |
 | 207 | [Trespassing](https://open.spotify.com/track/4rsGb4o15k3iUqfvOnoM9g) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [Trespassing \(Deluxe Version\)](https://open.spotify.com/album/4mKnhWm5EZeZUfoUYUwT1h) | 3:29 |
@@ -326,7 +326,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGVVd09MO7iM.md) - [plain]
 | 316 | [Virginia](https://open.spotify.com/track/7dpFJmdFiahlgzzEmgUwoN) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2) | [Lord Willin'](https://open.spotify.com/album/1Q83nQO2QG81TVa10hW7LX) | 3:57 |
 | 317 | [I Gotcha](https://open.spotify.com/track/3j1UrSXCeWYa5ltei4ZAxt) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Lupe Fiasco's Food & Liquor](https://open.spotify.com/album/0TDJRkEr2SrhWTetdkEzED) | 3:58 |
 | 318 | [Take Me Higher](https://open.spotify.com/track/5hLXpILJlmWc1Gn7vYh7ho) | [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP) | [On Earth, and in Heaven](https://open.spotify.com/album/5xDfo5P0vSP0xIt6toSmGL) | 4:04 |
-| 319 | [Why Should I Be Sad](https://open.spotify.com/track/05ysmI6jXcCYLNPCOu9vnQ) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Blackout](https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj) | 3:10 |
+| 319 | [Why Should I Be Sad](https://open.spotify.com/track/05ysmI6jXcCYLNPCOu9vnQ) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Blackout](https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj) | 3:11 |
 | 320 | [So Many Pros](https://open.spotify.com/track/1cnbQIZmuKlMQLENaGl6Bo) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [BUSH](https://open.spotify.com/album/3UesepjW7Scwi8DV62Qqyn) | 4:06 |
 | 321 | [Rollinem 7's](https://open.spotify.com/track/5hIg7J1i50XLG7bPKQM6O5) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi), [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [NO ONE EVER REALLY DIES](https://open.spotify.com/album/54OXaFd0PtGtAgauTmARkD) | 5:09 |
 | 322 | [Wifey](https://open.spotify.com/track/76ytmgrGvCpzxzKJC3Q0nm) | [Rubi Rose](https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk) | [Wifey](https://open.spotify.com/album/5UML74qxgV30KhhxmGVZUH) | 2:03 |
@@ -647,4 +647,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGVVd09MO7iM.md) - [plain]
 | 637 | [They Don't Know You](https://open.spotify.com/track/2pNR2kkGnKCJ638cVuIN3S) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [They Don't Know You](https://open.spotify.com/album/15YPOSzo9pWnCGjHHl1668) | 4:05 |
 | 638 | [Go Ape](https://open.spotify.com/track/0fudfsZijcNuGXkGdbFART) | [Cousin Fik](https://open.spotify.com/artist/10R4IEMALwGnHJVPEoumW5), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [Sickest N\*gga Healthy \(Deluxe Edition\)](https://open.spotify.com/album/4FHtSVGkNyMoZM57YpqhVE) | 3:03 |
 
-Snapshot ID: `AcB8qAAAAACn1o69U7jkY8Gru9Ul4tVl`
+Snapshot ID: `AcCCNAAAAAD3LldYO6Fwhfg6ypew8rGF`

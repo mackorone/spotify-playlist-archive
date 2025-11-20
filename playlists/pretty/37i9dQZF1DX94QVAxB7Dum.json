@@ -1,6 +1,6 @@
 {
   "description": "Music from the award-winning doc: The Black Power Mixtape 1967\u20131975.",
-  "num_followers": 805623,
+  "num_followers": 805750,
   "original_name": "The Black Power Mixtape 1967\u20131975",
   "owner": {
     "name": "Spotify",
@@ -655,6 +655,22 @@
     {
       "added_at": "2024-07-02 22:47:47",
       "album": {
+        "name": "Summer Breeze - The Best Of",
+        "url": "https://open.spotify.com/album/6Un0lZsdNGDhV9Q4vbqvDe"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 166960,
+      "name": "It's Your Thing",
+      "url": "https://open.spotify.com/track/6M9LLUNwl8tBZCeWS9nH4c"
+    },
+    {
+      "added_at": "2024-07-02 22:47:47",
+      "album": {
         "name": "Stax Number Ones",
         "url": "https://open.spotify.com/album/6fO7nh2THPfMUX9uUZ8a7t"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 171986,
       "name": "I Can't Get Next To You",
       "url": "https://open.spotify.com/track/64KwITu35JsahaKZbNpfMu"
-    },
-    {
-      "added_at": "2024-07-02 22:47:47",
-      "album": {
-        "name": "Summer Breeze - The Best Of",
-        "url": "https://open.spotify.com/album/6Un0lZsdNGDhV9Q4vbqvDe"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 166960,
-      "name": "It's Your Thing",
-      "url": "https://open.spotify.com/track/6M9LLUNwl8tBZCeWS9nH4c"
     },
     {
       "added_at": "2024-07-02 22:47:47",

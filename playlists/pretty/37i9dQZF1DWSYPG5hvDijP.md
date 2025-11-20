@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 
 > Naya Hip\-Hop Hindi! Cover: yungsta
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,292 likes - 75 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,299 likes - 75 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [HAL JORDAN](https://open.spotify.com/track/1CIxPayqcjxEmfVnbgIs4v) | [yungsta](https://open.spotify.com/artist/4HQz6xUrKEKQ8nmMKsfvkB), [Nikhil \- Swapnil](https://open.spotify.com/artist/7nkDVhgJreAJxinOGOWZCJ) | [HAL JORDAN](https://open.spotify.com/album/3U0Wdpw8XycBDQG2ASJpa4) | 1:46 |
 | 2 | [Aflatoon](https://open.spotify.com/track/4RlJ7Wd5loRMh8WezOhEmC) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I), [Naezy](https://open.spotify.com/artist/2oeTqp8DgAmtnP2WGc1OS2) | [FTSTTS](https://open.spotify.com/album/3MKUHpsO0O5dJjwc8ZG9AL) | 3:28 |
 | 3 | [Hood Trap](https://open.spotify.com/track/2RntWAVwIAO4PIcBjWM6NW) | [Vijay Dk](https://open.spotify.com/artist/0FnHTpXidzx2HMEaqMerkt), [Antariksh](https://open.spotify.com/artist/0Iz7sX6HvTM8C0mreUBmRJ) | [Hood Trap](https://open.spotify.com/album/378UAcIF7HgImXZAmAghQ6) | 2:28 |
-| 4 | [CHAL CHAL](https://open.spotify.com/track/7EBjc5bkMWbp4MG1mgjUfR) | [Sanakpaar](https://open.spotify.com/artist/2Z3qUmTivTaWrKCjy4Y4Kb), [Phxntom](https://open.spotify.com/artist/5FgpWVm0P9lsRtfhMUKXYk) | [CHAL CHAL](https://open.spotify.com/album/0CPZMINRZtkQIFXjYa30Gy) | 2:42 |
+| 4 | [CHAL CHAL](https://open.spotify.com/track/7EBjc5bkMWbp4MG1mgjUfR) | [Sanakpaar](https://open.spotify.com/artist/2Z3qUmTivTaWrKCjy4Y4Kb), [prodphxntom](https://open.spotify.com/artist/1mb0rS1RypEMBoQjaXHF2R) | [CHAL CHAL](https://open.spotify.com/album/0CPZMINRZtkQIFXjYa30Gy) | 2:42 |
 | 5 | [Bada Ghar](https://open.spotify.com/track/1FbRY3r97xWsUh9hwEfaOq) | [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR) | [Bada Ghar](https://open.spotify.com/album/3tCmj23YQXSw6OVkHlphQl) | 2:32 |
 | 6 | [BMK](https://open.spotify.com/track/1WTmJeU6LH399tSltUrGFf) | [SOS](https://open.spotify.com/artist/2H9H08XUuwLF51PSncSMvc), [30KEY!](https://open.spotify.com/artist/2OEwo5rQBQRKtbIWxb1Y8Y) | [BMK](https://open.spotify.com/album/4VGSp54pu0TsdMV0R61e0w) | 3:13 |
 | 7 | [Tailor Made \- Red Bull 64 Bars](https://open.spotify.com/track/4RLw69gZirjHgFsOnTAJ81) | [Farhan Khan](https://open.spotify.com/artist/7htUdS6qzUt3hTmDxMrTFy), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [Tailor Made \(Red Bull 64 Bars\)](https://open.spotify.com/album/6WnrnJX42yglmgHcsInShh) | 2:44 |

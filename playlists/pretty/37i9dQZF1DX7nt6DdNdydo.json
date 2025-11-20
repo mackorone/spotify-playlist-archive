@@ -1,6 +1,6 @@
 {
   "description": "Where swing meets blues.",
-  "num_followers": 61484,
+  "num_followers": 61494,
   "original_name": "Jump Blues",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Mardi Gras Blues",
-        "url": "https://open.spotify.com/album/5tLHw9N8vVR5OVySvPB1Ak"
-      },
-      "artists": [
-        {
-          "name": "Roy Montrell",
-          "url": "https://open.spotify.com/artist/0MZfXdUZT01ubCcpRJm9lq"
-        }
-      ],
-      "duration_ms": 147053,
-      "name": "(Every Time I Hear) That Mellow Saxophone",
-      "url": "https://open.spotify.com/track/2RjpkTcVv36r30mmT4XOTy"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "Swingsation: Lionel Hampton",
         "url": "https://open.spotify.com/album/3XX8hxTz2lu7Ux2kKF0R66"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 202933,
       "name": "Hey! Ba-Ba-Re-Bop - Single Version",
       "url": "https://open.spotify.com/track/7gSmmvzQxRYS331hdqyE7W"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Mardi Gras Blues",
+        "url": "https://open.spotify.com/album/5tLHw9N8vVR5OVySvPB1Ak"
+      },
+      "artists": [
+        {
+          "name": "Roy Montrell",
+          "url": "https://open.spotify.com/artist/0MZfXdUZT01ubCcpRJm9lq"
+        }
+      ],
+      "duration_ms": 147053,
+      "name": "(Every Time I Hear) That Mellow Saxophone",
+      "url": "https://open.spotify.com/track/2RjpkTcVv36r30mmT4XOTy"
     },
     {
       "added_at": "2022-03-28 19:44:25",

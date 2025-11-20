@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/2wHQqJDXcWgQ4GLdVCfb8G.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 418 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 418 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Every Breath You Take \- Remastered 2003](https://open.spotify.com/track/0wF2zKJmgzjPTfircPJ2jg) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Every Breath You Take The Classics](https://open.spotify.com/album/3s9o7LSofJfIZafUgkDe9O) | 4:14 |
-| 2 | [Billie Jean](https://open.spotify.com/track/3SkeDDHXP7IKUEkW4W9zmP) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Number Ones](https://open.spotify.com/album/1jcYwZsN7JEve9xsq9BuUX) | 4:53 |
+| 2 | [Billie Jean](https://open.spotify.com/track/3SkeDDHXP7IKUEkW4W9zmP) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Number Ones](https://open.spotify.com/album/1jcYwZsN7JEve9xsq9BuUX) | 4:54 |
 | 3 | [Flashdance...What a Feeling \- Radio Edit](https://open.spotify.com/track/3cbV252akVZInSvJk7jAYX) | [Irene Cara](https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G) | [What a Feelin'](https://open.spotify.com/album/0BK4XIgJ3AublHWN48vNzS) | 3:57 |
 | 4 | [Down Under](https://open.spotify.com/track/5pSvjjfsh34sLrkYSNGCl4) | [Men At Work](https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux) | [Business As Usual](https://open.spotify.com/album/146RggLMNzNZL1ZVr8hbCw) | 3:45 |
 | 5 | [Beat It \- Single Version](https://open.spotify.com/track/1Humf1tArArm1bRpmcuD5J) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller 25 Deluxe Edition](https://open.spotify.com/album/6fZzC5F7Ou669z49ybrl2U) | 4:18 |
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/2wHQqJDXcWgQ4GLdVCfb8G.md) - [plain]
 | 39 | [We've Got Tonight \- Remastered 2006](https://open.spotify.com/track/5Q9MCK4NU3xApjsIkKWegw) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4), [Sheena Easton](https://open.spotify.com/artist/5dcOK4stT4JDkP6Dqhbz5s) | [Love's Greatest Hits](https://open.spotify.com/album/6VrgfU55RZBu5EMsfnGDaF) | 3:48 |
 | 40 | [1999](https://open.spotify.com/track/2H7PHVdQ3mXqEHXcvclTB0) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [1999](https://open.spotify.com/album/3U1ht9EdWEI9nMvaqdQI67) | 6:19 |
 | 41 | [Stray Cat Strut](https://open.spotify.com/track/5yogRsv5ggT6iCnFgvdpho) | [Stray Cats](https://open.spotify.com/artist/2ibPkysx2PXqWLmxFD7jSg) | [Built For Speed](https://open.spotify.com/album/65PptxxbOFNvpAK9oBeVV1) | 3:18 |
-| 42 | [Allentown](https://open.spotify.com/track/2veYJl7RAW2lkveifGHYKT) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Essential Billy Joel](https://open.spotify.com/album/7r36rel1M4gyBavfcJP6Yz) | 3:49 |
+| 42 | [Allentown](https://open.spotify.com/track/2veYJl7RAW2lkveifGHYKT) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Essential Billy Joel](https://open.spotify.com/album/7r36rel1M4gyBavfcJP6Yz) | 3:52 |
 | 43 | [Stand Back](https://open.spotify.com/track/6sleEAnBH0sZMe0pOQNidG) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Timespace \- The Best Of Stevie Nicks](https://open.spotify.com/album/2zLZzOfiwQ4hnPCu2gVtKB) | 4:57 |
-| 44 | [Tell Her About It](https://open.spotify.com/track/0RfdoNWHJbZxAI3sOWS8Q7) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Essential Billy Joel](https://open.spotify.com/album/7r36rel1M4gyBavfcJP6Yz) | 3:49 |
+| 44 | [Tell Her About It](https://open.spotify.com/track/0RfdoNWHJbZxAI3sOWS8Q7) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Essential Billy Joel](https://open.spotify.com/album/7r36rel1M4gyBavfcJP6Yz) | 3:55 |
 | 45 | [Always Something There To Remind Me](https://open.spotify.com/track/29z51PAKjB49P6Mg90apbF) | [Naked Eyes](https://open.spotify.com/artist/3C6chBmZ9wzisBhoh8G2nK) | [Promises, Promises The Very Best Of Naked Eyes](https://open.spotify.com/album/3mCSEgpqM8qiHjcMcvQfyn) | 3:38 |
 | 46 | [Truly](https://open.spotify.com/track/32Y4RfGVLGT25OVu5nBahk) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [The Definitive Collection](https://open.spotify.com/album/1W1b52vaEcE3wfWk4WQH6q) | 3:20 |
 | 47 | [The Girl Is Mine \(with Paul McCartney\)](https://open.spotify.com/track/15fvDRnqFdogjUM8PUC0ml) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm), [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [The Essential Michael Jackson](https://open.spotify.com/album/77dNyQA0z8dV33M4so4eRY) | 3:42 |

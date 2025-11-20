@@ -2,9 +2,9 @@
 
 ### [Indian Indie English](https://open.spotify.com/playlist/37i9dQZF1DX6sDj4CL6UK6)
 
-> English songs from Indian artists<br/>Cover: Shriya
+> English songs from Indian artists<br/>Cover: Mary Ann Alexander
 
-360 songs - 20 hr 40 min
+361 songs - 20 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -310,6 +310,7 @@
 | [Stoned On Your Love \- City Sessions, Vol\. 2 \(Side B\)](https://open.spotify.com/track/5kcPjIvRAHMrWeVhxLxSBU) | [Adi Rao](https://open.spotify.com/artist/67aHUUVIizUykU8Y4NFFp1) | [City Sessions, Vol\. 2](https://open.spotify.com/album/3VrtB4dmLvMvmTsE0cAT4J) | 3:12 | 2025-09-29 |  |
 | [Straight Through](https://open.spotify.com/track/7f6Neegr5RGVQlJlBXfFpX) | [The Revisit Project](https://open.spotify.com/artist/2yBkLqum2uhfESXbRF9eD9) | [Straight Through](https://open.spotify.com/album/32fagwM4LQVX8UmxSfQK3w) | 4:18 | 2022-04-25 | 2023-01-13 |
 | [stuck in san antonio](https://open.spotify.com/track/3Pw3s89FOoJarpM4Zl50VY) | [a kid named rufus](https://open.spotify.com/artist/7K6yjBaUgEaSFnjJMxLO4j) | [stuck in san antonio](https://open.spotify.com/album/5i6JV5RaAEXYbwQx3si9Mo) | 2:33 | 2023-05-19 | 2023-05-24 |
+| [Student of Love](https://open.spotify.com/track/4LEhWsijtlLqwjctr2bsxx) | [Mary Ann Alexander](https://open.spotify.com/artist/5Nd0pl530GmwyCK1lRGQqd) | [Student of Love](https://open.spotify.com/album/6NU9gREQED90QHgrTUZPRx) | 2:37 | 2025-11-19 |  |
 | [Sucks To Be Human](https://open.spotify.com/track/0Rn2cteUVGOabK55rQVN3Z) | [The F16s](https://open.spotify.com/artist/5PVlXEAvlt6SfYpWBYTM4C) | [Sucks To Be Human](https://open.spotify.com/album/69EKPVK5owroH5jbQhlXv7) | 3:25 | 2022-03-25 |  |
 | [Sucks to Be Human](https://open.spotify.com/track/6ab0UYuSvINSlziYakDMy3) | [The F16s](https://open.spotify.com/artist/5PVlXEAvlt6SfYpWBYTM4C) | [Is It Time to Eat the Rich yet?](https://open.spotify.com/album/2xXsOTDm2TVLeZhWb1J2Dr) | 3:25 | 2022-10-20 | 2022-11-13 |
 | [Sucks to Be Human](https://open.spotify.com/track/6z0GP8AOTDIShCXUOw1E3Y) | [The F16s](https://open.spotify.com/artist/5PVlXEAvlt6SfYpWBYTM4C) | [Sucks to Be Human](https://open.spotify.com/album/27Ume3SwDAJJd4h0vQBdgd) | 3:25 | 2022-07-28 | 2024-04-19 |
@@ -342,7 +343,7 @@
 | [Until You See](https://open.spotify.com/track/76ia9MkfsFl8ZEdAph4O36) | [Donn Bhat](https://open.spotify.com/artist/2ckYmy0ueLXjmwWcPs1spQ), [Toymob](https://open.spotify.com/artist/2vT6u1co9tQidx18xISF2k), [Blackstratblues](https://open.spotify.com/artist/688Lauh0j7oRekX6qHHIp1) | [Until You See](https://open.spotify.com/album/4PgsGuOKhE9SPSnkaaDZqX) | 3:39 | 2023-09-29 |  |
 | [Vanilla](https://open.spotify.com/track/0NksLiIx5lbWzFTYTCx4z7) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [VANILLA VILLA](https://open.spotify.com/album/6h4GjE3bNKg8cWOVzxdlW7) | 2:31 | 2023-05-24 | 2024-04-19 |
 | [Vanilla](https://open.spotify.com/track/3xOamKZiMpyZA54aaiDXiz) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [VANILLA VILLA](https://open.spotify.com/album/6umnLc21Qu1sxkAjBJSqkd) | 2:31 | 2023-12-15 | 2024-06-22 |
-| [Vibe Killer](https://open.spotify.com/track/2jf4UKl4hCH13KqOSK3Lsr) | [Sparsh Dangwal](https://open.spotify.com/artist/1SClATlfgXE2qlr4FcEhUS) | [Digitalover](https://open.spotify.com/album/0noKqaCAONqoI6SxBE0xwK) | 2:42 | 2023-08-02 |  |
+| [Vibe Killer](https://open.spotify.com/track/2jf4UKl4hCH13KqOSK3Lsr) | [Sparsh Dangwal](https://open.spotify.com/artist/1SClATlfgXE2qlr4FcEhUS) | [Digitalover](https://open.spotify.com/album/0noKqaCAONqoI6SxBE0xwK) | 2:42 | 2023-08-02 | 2025-11-20 |
 | [Void](https://open.spotify.com/track/2O2O8SvRfKz2ALOIvqBazc) | [Aanchal Bordoloi](https://open.spotify.com/artist/69JXumQlC6KoLNevtXerF1), [Sanketh](https://open.spotify.com/artist/7qNrYaYetKPxHFlAX727BB) | [Void](https://open.spotify.com/album/1DcssSPO2Dio4imihI9FbK) | 6:40 | 2022-12-23 | 2023-01-13 |
 | [Waiting On](https://open.spotify.com/track/2m17uAqJyX5bGorHtA6NF0) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN), [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [Waiting On](https://open.spotify.com/album/3W5FsrJWiH3k2pymn0AK4O) | 2:35 | 2024-11-22 |  |
 | [Walk Away](https://open.spotify.com/track/1gY0QBMjHNX8z8b324VQI9) | [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [Walk Away](https://open.spotify.com/album/0wBxQTwnPhw1HgGkaI4Op0) | 4:32 | 2023-06-21 | 2024-11-23 |

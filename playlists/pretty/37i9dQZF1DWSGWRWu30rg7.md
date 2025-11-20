@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik dari talenta segar dalam negri\. Cover: Abubakar
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,278 likes - 134 songs - 8 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,280 likes - 134 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 25 | [Putus Asa](https://open.spotify.com/track/0mhhlXdHGalDlB0AFMWdbk) | [Tape Argument](https://open.spotify.com/artist/4NhehuCBky1yahHDh1hE3r) | [Putus Asa](https://open.spotify.com/album/6BbzxTdMT4jFDPc9pEmIdK) | 3:41 |
 | 26 | [yang tumbuh \- live](https://open.spotify.com/track/3cuBDsoKryqJpzuHGbWMgb) | [Amira Karin](https://open.spotify.com/artist/3rCwi62vIXjO26qeTbDtKp), [Gardika Gigih](https://open.spotify.com/artist/0o6rbDGIxDEw5vzGKyxdcK) | [yang tumbuh \- live](https://open.spotify.com/album/0BjMX0earROGLT3f0kebDe) | 6:05 |
 | 27 | [I Kiss](https://open.spotify.com/track/4mfzYAsNjRkhEdZlMpT8I6) | [Baby Ell](https://open.spotify.com/artist/2llZN3vA1UK8Ibe91auybT), [Farish](https://open.spotify.com/artist/7xO71xfEmjdT3d0LjS6MsL) | [I Kiss](https://open.spotify.com/album/3CPyM4q20iNyvWuxg2nrEt) | 2:58 |
-| 28 | [Memoir](https://open.spotify.com/track/5HFzfHJ4ZWhIuT48qv89oH) | [Sementara](https://open.spotify.com/artist/4XZfyt8cYOk7P1bzu5j5ql) | [Memoir](https://open.spotify.com/album/61IJKS6yPMcjLC9GQdc87A) | 2:57 |
+| 28 | [Memoir](https://open.spotify.com/track/5HFzfHJ4ZWhIuT48qv89oH) | [SEMENTARA](https://open.spotify.com/artist/4XZfyt8cYOk7P1bzu5j5ql) | [Memoir](https://open.spotify.com/album/61IJKS6yPMcjLC9GQdc87A) | 2:57 |
 | 29 | [Manis Gula\-Gula](https://open.spotify.com/track/25iSF9RRG2R3C34iTrD0NV) | [SIMALODRA](https://open.spotify.com/artist/2lP3leAVjgokeD8quqctzM), [Nanz](https://open.spotify.com/artist/0eiew80Tk0447TsHLo6tPE) | [Manis Gula\-Gula](https://open.spotify.com/album/2fmX1cIB98vyrd9mpVjjG1) | 3:34 |
 | 30 | [Mimpi Kecil](https://open.spotify.com/track/5j2dFLajKaoNiHDplbbOx6) | [V1RST](https://open.spotify.com/artist/2kTWDbs4Ve7BgSKhNsWHGx) | [Mimpi Kecil](https://open.spotify.com/album/1tQwub2k1UiNmF2jeGrJRp) | 3:18 |
 | 31 | [What I Feel](https://open.spotify.com/track/1PGNxyuK7fScstRsOiwkyc) | [The Couch Club](https://open.spotify.com/artist/54Ez4eIclterVTLzaIt4nh) | [What I Feel](https://open.spotify.com/album/5at426bQhyBfRE6SoOf3X8) | 4:26 |

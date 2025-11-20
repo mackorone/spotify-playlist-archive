@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 
 > Neues aus der Welt des Pop\. Cover: Lewis Capaldi
 
-[Spotify](https://open.spotify.com/user/spotify) - 522,323 likes - 91 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 522,278 likes - 91 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

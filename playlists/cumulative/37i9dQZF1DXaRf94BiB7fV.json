@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels in India. Cover - Saad Khan",
+  "description": "The best new music by independent artists and labels in India. Cover - OutStation",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -913,6 +913,24 @@
     },
     {
       "album": {
+        "name": "Aashiyana",
+        "url": "https://open.spotify.com/album/03oWgNUA4p5taO8CftudUi"
+      },
+      "artists": [
+        {
+          "name": "Swapniil",
+          "url": "https://open.spotify.com/artist/4nzUESDemXI1wJKPUqy0io"
+        }
+      ],
+      "date_added": "2025-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227910,
+      "name": "Aashiyana",
+      "url": "https://open.spotify.com/track/0BxkXcROpgPWJhcRFytKhd"
+    },
+    {
+      "album": {
         "name": "Aashna",
         "url": "https://open.spotify.com/album/0rCIzjyAQBsWpLxNnErp48"
       },
@@ -1466,6 +1484,24 @@
       "duration_ms": 185217,
       "name": "Ae Kaash",
       "url": "https://open.spotify.com/track/2rMDIWpLfQS2niiXvOXKas"
+    },
+    {
+      "album": {
+        "name": "Afsana",
+        "url": "https://open.spotify.com/album/5mhY9sJnHXCY16HnlI5nJW"
+      },
+      "artists": [
+        {
+          "name": "Niyam",
+          "url": "https://open.spotify.com/artist/5gSTgaslwP1tp7SO8cHBYL"
+        }
+      ],
+      "date_added": "2025-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185649,
+      "name": "Afsana",
+      "url": "https://open.spotify.com/track/32cYNIZuGaEZTjwIfDx7AW"
     },
     {
       "album": {
@@ -2646,7 +2682,7 @@
       ],
       "date_added": "2025-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 213046,
       "name": "Baarishien",
       "url": "https://open.spotify.com/track/1cZKQoDz9RrshMkTVIUJye"
@@ -2766,6 +2802,24 @@
       "duration_ms": 226500,
       "name": "Back In Time",
       "url": "https://open.spotify.com/track/7oXp6X1nTpzmGOem2nZjci"
+    },
+    {
+      "album": {
+        "name": "Back To You",
+        "url": "https://open.spotify.com/album/0EQ2yQyDiX2ORBjOZd70ca"
+      },
+      "artists": [
+        {
+          "name": "Yanger Toshi",
+          "url": "https://open.spotify.com/artist/1vPz9WhEMCzLYl57yPQEJh"
+        }
+      ],
+      "date_added": "2025-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203418,
+      "name": "Back To You",
+      "url": "https://open.spotify.com/track/5CbkazSsbSoPUb5cmAUrty"
     },
     {
       "album": {
@@ -3874,7 +3928,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 222727,
       "name": "Bheeg Jaane De",
       "url": "https://open.spotify.com/track/6RdDejcCcDr5pl7aDQNGL1"
@@ -8019,6 +8073,24 @@
     },
     {
       "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/3g10SOyubtnVChkm1Rysyy"
+      },
+      "artists": [
+        {
+          "name": "Adarsh Rao",
+          "url": "https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II"
+        }
+      ],
+      "date_added": "2025-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171147,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/1JpNxI6Ixk2TBX9ga2LFSb"
+    },
+    {
+      "album": {
         "name": "Drowning",
         "url": "https://open.spotify.com/album/1JDsQHduwgQhbhR49wnYEO"
       },
@@ -8340,6 +8412,24 @@
       "duration_ms": 197551,
       "name": "Ehi Thaiyaan",
       "url": "https://open.spotify.com/track/3ONTo1111Wy53OT1hD039R"
+    },
+    {
+      "album": {
+        "name": "Ehsaas",
+        "url": "https://open.spotify.com/album/2B0prbB18kgEceSOaceluh"
+      },
+      "artists": [
+        {
+          "name": "Musilozy",
+          "url": "https://open.spotify.com/artist/0tbDeOqQRayqshpcR5TaWT"
+        }
+      ],
+      "date_added": "2025-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184999,
+      "name": "Ehsaas",
+      "url": "https://open.spotify.com/track/6tYkm0OVhzS1QvbcADVyLM"
     },
     {
       "album": {
@@ -12100,7 +12190,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 160011,
       "name": "I Was a Mistake",
       "url": "https://open.spotify.com/track/6vk2qtHHpMya0SKomIDrEh"
@@ -18285,6 +18375,24 @@
     },
     {
       "album": {
+        "name": "Laazmi Nahi",
+        "url": "https://open.spotify.com/album/7bPTyrFWucKyO1qGZMELfb"
+      },
+      "artists": [
+        {
+          "name": "Nikhil Chandel",
+          "url": "https://open.spotify.com/artist/5hNwJiSjMx50Q1x2goFM6r"
+        }
+      ],
+      "date_added": "2025-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184960,
+      "name": "Laazmi Nahi",
+      "url": "https://open.spotify.com/track/2Ldztc3xl2TjHAxjQMCDHy"
+    },
+    {
+      "album": {
         "name": "Lagan Mohe Laagi",
         "url": "https://open.spotify.com/album/5EoyVRGlO0eynaNipgaixc"
       },
@@ -19482,7 +19590,7 @@
       ],
       "date_added": "2025-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 279477,
       "name": "Madno",
       "url": "https://open.spotify.com/track/42wv2YIr3K7C8U4PxnerKi"
@@ -20268,6 +20376,24 @@
       "duration_ms": 330689,
       "name": "Martbaan",
       "url": "https://open.spotify.com/track/3NyVaRd7ei6erCESpTQzDL"
+    },
+    {
+      "album": {
+        "name": "Marz",
+        "url": "https://open.spotify.com/album/3NXP4Jn5gEeTi2WF2ngd02"
+      },
+      "artists": [
+        {
+          "name": "Abir",
+          "url": "https://open.spotify.com/artist/0XHapa0VH6XHwA3wlqextO"
+        }
+      ],
+      "date_added": "2025-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164040,
+      "name": "Marz",
+      "url": "https://open.spotify.com/track/5snmOSMT761hHpVZ4Eovol"
     },
     {
       "album": {
@@ -22670,7 +22796,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 149000,
       "name": "Nazarein Utaarun",
       "url": "https://open.spotify.com/track/2LcWtSGdbQ4QIpMoQGF8Yl"
@@ -23762,7 +23888,7 @@
       ],
       "date_added": "2025-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 225391,
       "name": "Pakeezah",
       "url": "https://open.spotify.com/track/30Vgmw5zzNtDWn1Us5hRs9"
@@ -25198,7 +25324,7 @@
       ],
       "date_added": "2025-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 230240,
       "name": "Raahi",
       "url": "https://open.spotify.com/track/5xPPYWXn9MfnKZN8Wa3X1e"
@@ -29605,6 +29731,24 @@
     },
     {
       "album": {
+        "name": "Subah Ke Jaisa Tu",
+        "url": "https://open.spotify.com/album/7KEzac5WtmsjbAjO085eA1"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Addanki",
+          "url": "https://open.spotify.com/artist/0oJrKTc99Q4G5ypZ6y8aBt"
+        }
+      ],
+      "date_added": "2025-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209834,
+      "name": "Subah Ke Jaisa Tu",
+      "url": "https://open.spotify.com/track/1AAzdDRWqDJlxkcWSHOveN"
+    },
+    {
+      "album": {
         "name": "Subah Subah",
         "url": "https://open.spotify.com/album/0zMhkwVuNQ18vUDxnQeS9K"
       },
@@ -30048,7 +30192,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 171660,
       "name": "Sunwai",
       "url": "https://open.spotify.com/track/46EvL80ajiAI55TBFoZPzP"
@@ -30976,7 +31120,7 @@
       ],
       "date_added": "2025-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 135079,
       "name": "Teri Baaton Mein",
       "url": "https://open.spotify.com/track/40DE2h1XqUnDAozIDikS9h"
@@ -32926,6 +33070,24 @@
       "duration_ms": 184216,
       "name": "Tum Sang",
       "url": "https://open.spotify.com/track/60uYhlD1Q5xJC4X1ThXgXl"
+    },
+    {
+      "album": {
+        "name": "Tum Se",
+        "url": "https://open.spotify.com/album/6Uvvd29SK7zATTBKFRs5mD"
+      },
+      "artists": [
+        {
+          "name": "OutStation",
+          "url": "https://open.spotify.com/artist/1mPbly9dEPJVrAGPkkgAgH"
+        }
+      ],
+      "date_added": "2025-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232875,
+      "name": "Tum Se",
+      "url": "https://open.spotify.com/track/1QNI17b6WjGs8WEfjYMwep"
     },
     {
       "album": {

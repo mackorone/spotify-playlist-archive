@@ -1,6 +1,6 @@
 {
   "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Wiktoria Kida",
-  "num_followers": 24427,
+  "num_followers": 24429,
   "original_name": "up next",
   "owner": {
     "name": "Spotify",
@@ -163,6 +163,22 @@
     {
       "added_at": "2025-11-18 23:00:01",
       "album": {
+        "name": "warszawska fantazja",
+        "url": "https://open.spotify.com/album/638cXSDmgC9JSmxev4heIT"
+      },
+      "artists": [
+        {
+          "name": "Julia Po\u015bnik",
+          "url": "https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX"
+        }
+      ],
+      "duration_ms": 203842,
+      "name": "warszawska fantazja",
+      "url": "https://open.spotify.com/track/3kmiK0nFMkIRBpU9tQdd32"
+    },
+    {
+      "added_at": "2025-11-18 23:00:01",
+      "album": {
         "name": "Wczorajszy tlen",
         "url": "https://open.spotify.com/album/3q0HA6dlmep1lommlVGyql"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 194880,
       "name": "Czu\u0142y punkt",
       "url": "https://open.spotify.com/track/2lszUq5AKP7gsC2ICpCs3S"
-    },
-    {
-      "added_at": "2025-11-18 23:00:01",
-      "album": {
-        "name": "warszawska fantazja",
-        "url": "https://open.spotify.com/album/638cXSDmgC9JSmxev4heIT"
-      },
-      "artists": [
-        {
-          "name": "Julia Po\u015bnik",
-          "url": "https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX"
-        }
-      ],
-      "duration_ms": 203842,
-      "name": "warszawska fantazja",
-      "url": "https://open.spotify.com/track/3kmiK0nFMkIRBpU9tQdd32"
     },
     {
       "added_at": "2025-11-18 23:00:01",
@@ -271,22 +271,6 @@
     {
       "added_at": "2025-11-18 23:00:01",
       "album": {
-        "name": "morze dalej zimne",
-        "url": "https://open.spotify.com/album/6E9cmfQBcmqN7MGTV1TiT9"
-      },
-      "artists": [
-        {
-          "name": "pszona",
-          "url": "https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq"
-        }
-      ],
-      "duration_ms": 176335,
-      "name": "morze dalej zimne",
-      "url": "https://open.spotify.com/track/13dtlYx0QRQn91gcoRn76Q"
-    },
-    {
-      "added_at": "2025-11-18 23:00:01",
-      "album": {
         "name": "Seasons",
         "url": "https://open.spotify.com/album/4pCwB9EfmPkql5jbrWkyT0"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 161129,
       "name": "Nie pozwol\u0119 Ci wyj\u015b\u0107",
       "url": "https://open.spotify.com/track/1wHhHMk0hutBAULKaC3G3U"
+    },
+    {
+      "added_at": "2025-11-18 23:00:01",
+      "album": {
+        "name": "morze dalej zimne",
+        "url": "https://open.spotify.com/album/6E9cmfQBcmqN7MGTV1TiT9"
+      },
+      "artists": [
+        {
+          "name": "pszona",
+          "url": "https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq"
+        }
+      ],
+      "duration_ms": 176335,
+      "name": "morze dalej zimne",
+      "url": "https://open.spotify.com/track/13dtlYx0QRQn91gcoRn76Q"
     },
     {
       "added_at": "2025-11-18 23:00:01",
@@ -391,18 +391,18 @@
     {
       "added_at": "2025-11-18 23:00:01",
       "album": {
-        "name": "zosta\u0144",
-        "url": "https://open.spotify.com/album/1aVf5Yed3eNAGJ0kRgao2J"
+        "name": "My\u015bli",
+        "url": "https://open.spotify.com/album/6lIAyrOV9NPUqdHpZtQ3vS"
       },
       "artists": [
         {
-          "name": "Treehouse",
-          "url": "https://open.spotify.com/artist/0f3IZDduhfx6wAGRgO6JBi"
+          "name": "dezydery",
+          "url": "https://open.spotify.com/artist/0fdWtNx0iazarVEaQ30VEE"
         }
       ],
-      "duration_ms": 138094,
-      "name": "zosta\u0144",
-      "url": "https://open.spotify.com/track/2jQlVcDnyiMjmrQ7XrK70X"
+      "duration_ms": 159047,
+      "name": "7 nieszcz\u0119\u015b\u0107",
+      "url": "https://open.spotify.com/track/4dBS6UpUxCevc83JrzktiM"
     },
     {
       "added_at": "2025-11-18 23:00:01",
@@ -427,18 +427,18 @@
     {
       "added_at": "2025-11-18 23:00:01",
       "album": {
-        "name": "My\u015bli",
-        "url": "https://open.spotify.com/album/6lIAyrOV9NPUqdHpZtQ3vS"
+        "name": "zosta\u0144",
+        "url": "https://open.spotify.com/album/1aVf5Yed3eNAGJ0kRgao2J"
       },
       "artists": [
         {
-          "name": "dezydery",
-          "url": "https://open.spotify.com/artist/0fdWtNx0iazarVEaQ30VEE"
+          "name": "Treehouse",
+          "url": "https://open.spotify.com/artist/0f3IZDduhfx6wAGRgO6JBi"
         }
       ],
-      "duration_ms": 159047,
-      "name": "7 nieszcz\u0119\u015b\u0107",
-      "url": "https://open.spotify.com/track/4dBS6UpUxCevc83JrzktiM"
+      "duration_ms": 138094,
+      "name": "zosta\u0144",
+      "url": "https://open.spotify.com/track/2jQlVcDnyiMjmrQ7XrK70X"
     },
     {
       "added_at": "2025-11-18 23:00:01",
@@ -511,22 +511,6 @@
     {
       "added_at": "2025-11-18 23:00:01",
       "album": {
-        "name": "PASSPORT",
-        "url": "https://open.spotify.com/album/3EFv9uC4C4kSP3osSDiJ1K"
-      },
-      "artists": [
-        {
-          "name": "Sara James",
-          "url": "https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV"
-        }
-      ],
-      "duration_ms": 131152,
-      "name": "PASSPORT",
-      "url": "https://open.spotify.com/track/6PWfx76OvEAGRcomQSdJnt"
-    },
-    {
-      "added_at": "2025-11-18 23:00:01",
-      "album": {
         "name": "NA KONIEC LATA",
         "url": "https://open.spotify.com/album/3hxzY5TxqTx83i2KHQrVOZ"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 180290,
       "name": "Spadaj\u0105ce gwiazdy",
       "url": "https://open.spotify.com/track/4ggf5e1R9ksMB2m58ouAQa"
+    },
+    {
+      "added_at": "2025-11-18 23:00:01",
+      "album": {
+        "name": "PASSPORT",
+        "url": "https://open.spotify.com/album/3EFv9uC4C4kSP3osSDiJ1K"
+      },
+      "artists": [
+        {
+          "name": "Sara James",
+          "url": "https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV"
+        }
+      ],
+      "duration_ms": 131152,
+      "name": "PASSPORT",
+      "url": "https://open.spotify.com/track/6PWfx76OvEAGRcomQSdJnt"
     },
     {
       "added_at": "2025-11-18 23:00:01",
@@ -579,22 +579,6 @@
       "duration_ms": 217290,
       "name": "Bez Ciebie",
       "url": "https://open.spotify.com/track/5rxt70pNzx0BVSxFChifTI"
-    },
-    {
-      "added_at": "2025-11-18 23:00:01",
-      "album": {
-        "name": "Ton\u0119",
-        "url": "https://open.spotify.com/album/6UnjcTHtlJPu9YQRJSDkPk"
-      },
-      "artists": [
-        {
-          "name": "Mateusz Ciaw\u0142owski",
-          "url": "https://open.spotify.com/artist/1q4RfhB42Y6UbK3b5JFHqF"
-        }
-      ],
-      "duration_ms": 207656,
-      "name": "Ton\u0119",
-      "url": "https://open.spotify.com/track/333fFTwtaQPV7TXpTrT9nA"
     },
     {
       "added_at": "2025-11-18 23:00:01",
@@ -663,6 +647,22 @@
     {
       "added_at": "2025-11-18 23:00:01",
       "album": {
+        "name": "Ton\u0119",
+        "url": "https://open.spotify.com/album/6UnjcTHtlJPu9YQRJSDkPk"
+      },
+      "artists": [
+        {
+          "name": "Mateusz Ciaw\u0142owski",
+          "url": "https://open.spotify.com/artist/1q4RfhB42Y6UbK3b5JFHqF"
+        }
+      ],
+      "duration_ms": 207656,
+      "name": "Ton\u0119",
+      "url": "https://open.spotify.com/track/333fFTwtaQPV7TXpTrT9nA"
+    },
+    {
+      "added_at": "2025-11-18 23:00:01",
+      "album": {
         "name": "innym razem",
         "url": "https://open.spotify.com/album/0ZLWFl8nkIPGRiddnxROMU"
       },
@@ -703,22 +703,6 @@
     {
       "added_at": "2025-11-18 23:00:01",
       "album": {
-        "name": "8 piosenek o mi\u0142o\u015bci",
-        "url": "https://open.spotify.com/album/3ahEDNAQfFCsUZqjRYaXcG"
-      },
-      "artists": [
-        {
-          "name": "Marcin Maciejczak",
-          "url": "https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Mi\u0142o\u015bci",
-      "url": "https://open.spotify.com/track/3HlomvmvwMNdo1z7DCuG93"
-    },
-    {
-      "added_at": "2025-11-18 23:00:01",
-      "album": {
         "name": "Chamy",
         "url": "https://open.spotify.com/album/2SHWbu3gF4G9vaUTDOMSDx"
       },
@@ -739,6 +723,38 @@
       "duration_ms": 141284,
       "name": "Chamy",
       "url": "https://open.spotify.com/track/3YyCRTXnD7MkTKeqCkrM0M"
+    },
+    {
+      "added_at": "2025-11-18 23:00:01",
+      "album": {
+        "name": "8 piosenek o mi\u0142o\u015bci",
+        "url": "https://open.spotify.com/album/3ahEDNAQfFCsUZqjRYaXcG"
+      },
+      "artists": [
+        {
+          "name": "Marcin Maciejczak",
+          "url": "https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Mi\u0142o\u015bci",
+      "url": "https://open.spotify.com/track/3HlomvmvwMNdo1z7DCuG93"
+    },
+    {
+      "added_at": "2025-11-18 23:00:01",
+      "album": {
+        "name": "My\u015bli Rozdarte",
+        "url": "https://open.spotify.com/album/1ptjbYGQATuPfahXXpljxc"
+      },
+      "artists": [
+        {
+          "name": "Mateusz Ciaw\u0142owski",
+          "url": "https://open.spotify.com/artist/1q4RfhB42Y6UbK3b5JFHqF"
+        }
+      ],
+      "duration_ms": 156815,
+      "name": "Te\u017c Tak Masz",
+      "url": "https://open.spotify.com/track/0A6enj2y1LHSRTrm30x2XY"
     },
     {
       "added_at": "2025-11-18 23:00:01",
@@ -811,6 +827,22 @@
     {
       "added_at": "2025-11-18 23:00:01",
       "album": {
+        "name": "jesie\u0144",
+        "url": "https://open.spotify.com/album/3SJym37rMN5fMO5H5E06WZ"
+      },
+      "artists": [
+        {
+          "name": "stickxr",
+          "url": "https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT"
+        }
+      ],
+      "duration_ms": 124347,
+      "name": "jesie\u0144",
+      "url": "https://open.spotify.com/track/6pty2jiElxYbooIRAnXnfe"
+    },
+    {
+      "added_at": "2025-11-18 23:00:01",
+      "album": {
         "name": "Sedno",
         "url": "https://open.spotify.com/album/7BdBHF7fDtd5OL5lPiAs75"
       },
@@ -843,50 +875,18 @@
     {
       "added_at": "2025-11-18 23:00:01",
       "album": {
-        "name": "jesie\u0144",
-        "url": "https://open.spotify.com/album/3SJym37rMN5fMO5H5E06WZ"
+        "name": "KEEPITUP",
+        "url": "https://open.spotify.com/album/3a4aYhQKLDzfOTnVALdWeV"
       },
       "artists": [
         {
-          "name": "stickxr",
-          "url": "https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT"
+          "name": "babyhats",
+          "url": "https://open.spotify.com/artist/5cqRWXSEk4JOG5hUhQpgON"
         }
       ],
-      "duration_ms": 124347,
-      "name": "jesie\u0144",
-      "url": "https://open.spotify.com/track/6pty2jiElxYbooIRAnXnfe"
-    },
-    {
-      "added_at": "2025-11-18 23:00:01",
-      "album": {
-        "name": "My\u015bli Rozdarte",
-        "url": "https://open.spotify.com/album/1ptjbYGQATuPfahXXpljxc"
-      },
-      "artists": [
-        {
-          "name": "Mateusz Ciaw\u0142owski",
-          "url": "https://open.spotify.com/artist/1q4RfhB42Y6UbK3b5JFHqF"
-        }
-      ],
-      "duration_ms": 156815,
-      "name": "Te\u017c Tak Masz",
-      "url": "https://open.spotify.com/track/0A6enj2y1LHSRTrm30x2XY"
-    },
-    {
-      "added_at": "2025-11-18 23:00:01",
-      "album": {
-        "name": "Lepsze dni",
-        "url": "https://open.spotify.com/album/4b98rZf8iYZ5lyux2knvGS"
-      },
-      "artists": [
-        {
-          "name": "Maciej Skiba",
-          "url": "https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq"
-        }
-      ],
-      "duration_ms": 215842,
-      "name": "Lepsze dni",
-      "url": "https://open.spotify.com/track/3eS2Q7d7Pd8RG1B2eQ8cwA"
+      "duration_ms": 238978,
+      "name": "KEEPITUP",
+      "url": "https://open.spotify.com/track/0JRvK2JDWcQ6lduFvJgdCv"
     },
     {
       "added_at": "2025-11-18 23:00:01",
@@ -911,6 +911,22 @@
     {
       "added_at": "2025-11-18 23:00:01",
       "album": {
+        "name": "Lepsze dni",
+        "url": "https://open.spotify.com/album/4b98rZf8iYZ5lyux2knvGS"
+      },
+      "artists": [
+        {
+          "name": "Maciej Skiba",
+          "url": "https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq"
+        }
+      ],
+      "duration_ms": 215842,
+      "name": "Lepsze dni",
+      "url": "https://open.spotify.com/track/3eS2Q7d7Pd8RG1B2eQ8cwA"
+    },
+    {
+      "added_at": "2025-11-18 23:00:01",
+      "album": {
         "name": "A\u0142\u0142tobus",
         "url": "https://open.spotify.com/album/6tZiFTisGmTWHWmnuRrJBe"
       },
@@ -927,6 +943,22 @@
       "duration_ms": 184390,
       "name": "A\u0142\u0142tobus",
       "url": "https://open.spotify.com/track/2z7xuv9dKI7ECJwMXREnyC"
+    },
+    {
+      "added_at": "2025-11-18 23:00:01",
+      "album": {
+        "name": "dooko\u0142a mnie",
+        "url": "https://open.spotify.com/album/7AF2nxYKHzJM1C7PpI94og"
+      },
+      "artists": [
+        {
+          "name": "emi",
+          "url": "https://open.spotify.com/artist/1cIGr563sge3dInoMsn0Cu"
+        }
+      ],
+      "duration_ms": 124259,
+      "name": "dooko\u0142a mnie",
+      "url": "https://open.spotify.com/track/34QjFSfFR6oi9nUKb0jLWA"
     },
     {
       "added_at": "2025-11-18 23:00:01",
@@ -963,18 +995,18 @@
     {
       "added_at": "2025-11-18 23:00:01",
       "album": {
-        "name": "dooko\u0142a mnie",
-        "url": "https://open.spotify.com/album/7AF2nxYKHzJM1C7PpI94og"
+        "name": "Rzeka",
+        "url": "https://open.spotify.com/album/3D3J5dpQAHrawx2KujS2ao"
       },
       "artists": [
         {
-          "name": "emi",
-          "url": "https://open.spotify.com/artist/1cIGr563sge3dInoMsn0Cu"
+          "name": "Clayknot",
+          "url": "https://open.spotify.com/artist/3ZxpsVkaNjQbagCHapxVE7"
         }
       ],
-      "duration_ms": 124259,
-      "name": "dooko\u0142a mnie",
-      "url": "https://open.spotify.com/track/34QjFSfFR6oi9nUKb0jLWA"
+      "duration_ms": 232733,
+      "name": "Rzeka",
+      "url": "https://open.spotify.com/track/7EI8yqG3nA8MvfUKGkTIwC"
     },
     {
       "added_at": "2025-11-18 23:00:01",
@@ -995,18 +1027,34 @@
     {
       "added_at": "2025-11-18 23:00:01",
       "album": {
-        "name": "Rzeka",
-        "url": "https://open.spotify.com/album/3D3J5dpQAHrawx2KujS2ao"
+        "name": "wifey material",
+        "url": "https://open.spotify.com/album/60U1gVo9t0FP69JWud0BQ5"
       },
       "artists": [
         {
-          "name": "Clayknot",
-          "url": "https://open.spotify.com/artist/3ZxpsVkaNjQbagCHapxVE7"
+          "name": "Milky.wav",
+          "url": "https://open.spotify.com/artist/0d4V9KFvcZZS9ASemIGuDP"
         }
       ],
-      "duration_ms": 232733,
-      "name": "Rzeka",
-      "url": "https://open.spotify.com/track/7EI8yqG3nA8MvfUKGkTIwC"
+      "duration_ms": 122571,
+      "name": "wifey material",
+      "url": "https://open.spotify.com/track/1g8puN0EuWAuupTQfGBGZN"
+    },
+    {
+      "added_at": "2025-11-18 23:00:01",
+      "album": {
+        "name": "Nikt nie kocha tak jak my",
+        "url": "https://open.spotify.com/album/6lhSc2frDZ90V9cEUx46ii"
+      },
+      "artists": [
+        {
+          "name": "Felivers",
+          "url": "https://open.spotify.com/artist/0jEJGHxA3gkLdjviT1H0wk"
+        }
+      ],
+      "duration_ms": 181401,
+      "name": "Nikt nie kocha tak jak my",
+      "url": "https://open.spotify.com/track/57u3Of5EWepGyW3RoQLYUh"
     },
     {
       "added_at": "2025-11-18 23:00:01",
@@ -1027,34 +1075,18 @@
     {
       "added_at": "2025-11-18 23:00:01",
       "album": {
-        "name": "KEEPITUP",
-        "url": "https://open.spotify.com/album/3a4aYhQKLDzfOTnVALdWeV"
+        "name": "Ma\u0142y Ksi\u0105\u017c\u0119",
+        "url": "https://open.spotify.com/album/1qCfiwWZQttvAljU1SZpLp"
       },
       "artists": [
         {
-          "name": "babyhats",
-          "url": "https://open.spotify.com/artist/5cqRWXSEk4JOG5hUhQpgON"
+          "name": "Fida",
+          "url": "https://open.spotify.com/artist/6bXkQoRLIyuiEdKa1PUyt6"
         }
       ],
-      "duration_ms": 238978,
-      "name": "KEEPITUP",
-      "url": "https://open.spotify.com/track/0JRvK2JDWcQ6lduFvJgdCv"
-    },
-    {
-      "added_at": "2025-11-18 23:00:01",
-      "album": {
-        "name": "wifey material",
-        "url": "https://open.spotify.com/album/60U1gVo9t0FP69JWud0BQ5"
-      },
-      "artists": [
-        {
-          "name": "Milky.wav",
-          "url": "https://open.spotify.com/artist/0d4V9KFvcZZS9ASemIGuDP"
-        }
-      ],
-      "duration_ms": 122571,
-      "name": "wifey material",
-      "url": "https://open.spotify.com/track/1g8puN0EuWAuupTQfGBGZN"
+      "duration_ms": 180955,
+      "name": "Ma\u0142y Ksi\u0105\u017c\u0119",
+      "url": "https://open.spotify.com/track/4Fb8kcZaeklt4TypJgRm1V"
     },
     {
       "added_at": "2025-11-18 23:00:01",
@@ -1091,50 +1123,18 @@
     {
       "added_at": "2025-11-18 23:00:01",
       "album": {
-        "name": "Nikt nie kocha tak jak my",
-        "url": "https://open.spotify.com/album/6lhSc2frDZ90V9cEUx46ii"
+        "name": "Czemu pozwoli\u0142e\u015b kocha\u0107?",
+        "url": "https://open.spotify.com/album/4iz3J2ypdRCNHmF406gHOx"
       },
       "artists": [
         {
-          "name": "Felivers",
-          "url": "https://open.spotify.com/artist/0jEJGHxA3gkLdjviT1H0wk"
+          "name": "Iga Jaworska",
+          "url": "https://open.spotify.com/artist/7vZNNXqodOE1TWpiZnSqYv"
         }
       ],
-      "duration_ms": 181401,
-      "name": "Nikt nie kocha tak jak my",
-      "url": "https://open.spotify.com/track/57u3Of5EWepGyW3RoQLYUh"
-    },
-    {
-      "added_at": "2025-11-18 23:00:01",
-      "album": {
-        "name": "sza\u0142 uniesie\u0144",
-        "url": "https://open.spotify.com/album/1qJ9UbacO954tQdktoddmd"
-      },
-      "artists": [
-        {
-          "name": "ada\u015b.",
-          "url": "https://open.spotify.com/artist/63Zfzws3zct6H4L21p9WBT"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "sza\u0142 uniesie\u0144",
-      "url": "https://open.spotify.com/track/2UbP0gxYrkA4CURZjhUlDo"
-    },
-    {
-      "added_at": "2025-11-18 23:00:01",
-      "album": {
-        "name": "ernest",
-        "url": "https://open.spotify.com/album/4Q9f6v9fVFZz8MyNgIFozL"
-      },
-      "artists": [
-        {
-          "name": "zofia justy\u0144ska",
-          "url": "https://open.spotify.com/artist/54S3G0C8oIzH1Va5WpIHS4"
-        }
-      ],
-      "duration_ms": 263500,
-      "name": "ernest",
-      "url": "https://open.spotify.com/track/4N283rSr7iWXEzdUJE2VRI"
+      "duration_ms": 150000,
+      "name": "Czemu pozwoli\u0142e\u015b kocha\u0107?",
+      "url": "https://open.spotify.com/track/00ITfmQnKbU69YUMimdI1U"
     }
   ],
   "unique_name": "up next",

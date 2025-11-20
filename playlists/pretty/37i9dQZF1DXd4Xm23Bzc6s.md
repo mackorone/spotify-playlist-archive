@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd4Xm23Bzc6s.md) - [plain]
 
 > Cuco's crafted a playlist for..\. the playlistener\. Get it? <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">Check out past mixtapes here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,912 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,926 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd4Xm23Bzc6s.md) - [plain]
 | 32 | [French Waltz](https://open.spotify.com/track/7zoaxmDEONxkI2lMOhxJYN) | [Leon Ware](https://open.spotify.com/artist/3DwcX6M6GF3KGWbVmfNp8G) | [Musical Massage \(Expanded Edition\)](https://open.spotify.com/album/2xAQaX8sYZKlx3Vj8bI5xq) | 1:51 |
 | 33 | [Lihue](https://open.spotify.com/track/4UeSleTsjljEIdEGRdVggm) | [Nohelani Cypriano](https://open.spotify.com/artist/6mWyjeUFOji9I3H9OIxIsu) | [Lihue](https://open.spotify.com/album/27A9Jq2D584lTkIxSuFeVW) | 3:20 |
 | 34 | [Let Me in Your Life](https://open.spotify.com/track/4e2b56saFylu8e4Gq3p3IO) | [Asha Puthli](https://open.spotify.com/artist/6XS2GPyMwHEgAn0VspnhMf) | [Asha Puthli](https://open.spotify.com/album/3ebLcccyU2h1kUaFwyaX8B) | 3:08 |
-| 35 | [Make a Smile for Me](https://open.spotify.com/track/7EiujtpJ3Ty0RcFhMHDHhZ) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | ['Justments](https://open.spotify.com/album/10jKkqtTI0cblOQjJfDUpt) | 3:15 |
+| 35 | [Make a Smile for Me](https://open.spotify.com/track/7EiujtpJ3Ty0RcFhMHDHhZ) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | ['Justments](https://open.spotify.com/album/10jKkqtTI0cblOQjJfDUpt) | 3:16 |
 | 36 | [A Love Of Your Own](https://open.spotify.com/track/19RdunMM5M5iXWNcbS0m96) | [Ned Doheny](https://open.spotify.com/artist/59QKG3eYCCmqC6SqUwXvSw) | [Hard Candy](https://open.spotify.com/album/6FqKEvbSjVJQXX8rFFdPnA) | 3:46 |
 | 37 | [I Wish You Love, Pt\. 1](https://open.spotify.com/track/33Cjw3758iNxV20YrU2hvO) | [Joe Bataan](https://open.spotify.com/artist/7ME0heqob2B32S9ofWhOyU) | [Saint Latin's Day Massacre](https://open.spotify.com/album/4eJmiTmaBXQT0vROXbn5qQ) | 3:32 |
 | 38 | [Price I'll Pay](https://open.spotify.com/track/3qbDVLxZSDfkWodxfuoX4X) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Got a Story to Tell](https://open.spotify.com/album/6yvKcQNyd09wYCCp8O8mNB) | 2:59 |

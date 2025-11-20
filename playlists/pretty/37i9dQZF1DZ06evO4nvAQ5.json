@@ -1,12 +1,12 @@
 {
   "description": "This is J Boog. The essential tracks, all in one playlist.",
-  "num_followers": 15994,
+  "num_followers": 15995,
   "original_name": "This Is J Boog",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRplgAAAAAANWAPJIkKsHE/V60JU4iI0",
+  "snapshot_id": "aRu3AAAAAACJ22uOCSn0h/9a/ljOgc0G",
   "tracks": [
     {
       "added_at": null,
@@ -599,6 +599,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "J Boog - EP",
+        "url": "https://open.spotify.com/album/1mBSbSCwjpqInxijkFk06d"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 207573,
+      "name": "Waiting On The Rain",
+      "url": "https://open.spotify.com/track/7paHl6UuZR7drEyw8M7gI9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wana",
         "url": "https://open.spotify.com/album/6hQAr2qajVKNviUmPA3SJc"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 238666,
       "name": "Wana",
       "url": "https://open.spotify.com/track/1sxnPAx4uYKN2j9tKThu9a"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "J Boog - EP",
-        "url": "https://open.spotify.com/album/1mBSbSCwjpqInxijkFk06d"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 207573,
-      "name": "Waiting On The Rain",
-      "url": "https://open.spotify.com/track/7paHl6UuZR7drEyw8M7gI9"
     },
     {
       "added_at": null,
@@ -707,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ain't No Love Like",
-        "url": "https://open.spotify.com/album/17d9ZUcHb8xLP6se8seQSZ"
+        "name": "J Boog",
+        "url": "https://open.spotify.com/album/2QGWiPQPsl8OXBurzqCJPI"
       },
       "artists": [
         {
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
         }
       ],
-      "duration_ms": 243800,
-      "name": "Ain't No Love Like",
-      "url": "https://open.spotify.com/track/7nuwek79ffqWbe5AtsAuAA"
+      "duration_ms": 205013,
+      "name": "So Far Gone",
+      "url": "https://open.spotify.com/track/1Dnv6D9ylHncMnAWp9G27i"
     },
     {
       "added_at": null,
@@ -743,8 +743,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "J Boog",
-        "url": "https://open.spotify.com/album/2QGWiPQPsl8OXBurzqCJPI"
+        "name": "Ain't No Love Like",
+        "url": "https://open.spotify.com/album/17d9ZUcHb8xLP6se8seQSZ"
       },
       "artists": [
         {
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
         }
       ],
-      "duration_ms": 205013,
-      "name": "So Far Gone",
-      "url": "https://open.spotify.com/track/1Dnv6D9ylHncMnAWp9G27i"
+      "duration_ms": 243800,
+      "name": "Ain't No Love Like",
+      "url": "https://open.spotify.com/track/7nuwek79ffqWbe5AtsAuAA"
     },
     {
       "added_at": null,
@@ -871,26 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Marching Orders",
-        "url": "https://open.spotify.com/album/1mTwtUHI9TLq3b0hk4DrFO"
-      },
-      "artists": [
-        {
-          "name": "The Green",
-          "url": "https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh"
-        },
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 230563,
-      "name": "Mama Roots",
-      "url": "https://open.spotify.com/track/24FUGFUy6nMxwonEI3wtvj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rose Petals",
         "url": "https://open.spotify.com/album/0c5o3uiLOPdmDTjcDOPnnu"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 214767,
       "name": "No Pressure (feat. Snoop Dogg) - Bonus Track",
       "url": "https://open.spotify.com/track/5PAsypzNOpxEOuhgxjqWaI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Marching Orders",
+        "url": "https://open.spotify.com/album/1mTwtUHI9TLq3b0hk4DrFO"
+      },
+      "artists": [
+        {
+          "name": "The Green",
+          "url": "https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh"
+        },
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 230563,
+      "name": "Mama Roots",
+      "url": "https://open.spotify.com/track/24FUGFUy6nMxwonEI3wtvj"
     },
     {
       "added_at": null,

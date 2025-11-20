@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Sam Sauvage, Lewis Capaldi et Miley Cyrus au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 390,682 likes - 103 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 390,645 likes - 103 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 59 | [Still Don't Care](https://open.spotify.com/track/17tuuYUw3K1J9pDe4QrWNo) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Still Don't Care](https://open.spotify.com/album/11XiRiJX157BvMuuc9ixuw) | 2:49 |
 | 60 | [I Win](https://open.spotify.com/track/3YQIq2JBC6qk3NgABjxrMO) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [I Win](https://open.spotify.com/album/1DTSQOWzN1AjizgQ505HrM) | 2:13 |
 | 61 | [100K](https://open.spotify.com/track/4JW0613pvXOiU25MCZYJBc) | [KLM](https://open.spotify.com/artist/51IIEUubMmZPCLqgGCSvgn) | [100K](https://open.spotify.com/album/6WzmI5Nr0qp77gvQZBtxlK) | 2:30 |
-| 62 | [Le Pain](https://open.spotify.com/track/2DV5KEPN747LIcavwZa7y2) | [P.L.L](https://open.spotify.com/artist/13RiaFe3XEZ4jw8t6YRquf), [Richauvet Patrice](https://open.spotify.com/artist/3xjz6HKPt9eEfhwcvu1Nak), [Selly Luidgi](https://open.spotify.com/artist/4V6K9DIuk8eGaymFHvqFbR), [Maree Luidgi](https://open.spotify.com/artist/1YDmsU063yBCg7Y7mbdYHT) | [Le Pain](https://open.spotify.com/album/6E1TYEe5Fei2Ri0ZpU1wnm) | 1:56 |
+| 62 | [Le Pain](https://open.spotify.com/track/2DV5KEPN747LIcavwZa7y2) | [P.L.L](https://open.spotify.com/artist/13RiaFe3XEZ4jw8t6YRquf) | [Le Pain](https://open.spotify.com/album/6E1TYEe5Fei2Ri0ZpU1wnm) | 1:56 |
 | 63 | [Dance](https://open.spotify.com/track/0qaNBD8S4sLeLPoCEQEgm1) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [Dance](https://open.spotify.com/album/6IRNZqDvyhgjdx5kXDECtl) | 2:59 |
 | 64 | [The Ritual](https://open.spotify.com/track/1etlcoWeQ0ONX2W22jyAdk) | [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc) | [The Ritual](https://open.spotify.com/album/2alqb8IorSWaYT7PZnVaoa) | 2:57 |
 | 65 | [Here We Go Again](https://open.spotify.com/track/7bvUKfeVJweptHIJtnC8Kz) | [Pacific Avenue](https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ) | [Here We Go Again](https://open.spotify.com/album/4THNExkJ80NtafCGJADvar) | 4:11 |

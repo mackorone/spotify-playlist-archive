@@ -1,12 +1,12 @@
 {
   "description": "This is Laufey. The essential tracks, all in one playlist.",
-  "num_followers": 337418,
+  "num_followers": 337554,
   "original_name": "This Is Laufey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRplgAAAAACZwpp8W3zI2Z4ZXkX+Yo1a",
+  "snapshot_id": "aRu3AAAAAACC9+7yqCO5CezfS0QtTNZP",
   "tracks": [
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Someone New",
-        "url": "https://open.spotify.com/album/1OdANZQlB2kBHw4dFjIiii"
+        "name": "Bewitched: The Goddess Edition",
+        "url": "https://open.spotify.com/album/1hmlhl74JfLyUqmqtCwvFb"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Someone New",
-      "url": "https://open.spotify.com/track/1trLEhC9nDvvj36MfnlwcJ"
+      "duration_ms": 171760,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/0Ah2wJirVEGUITkcPU6ali"
     },
     {
       "added_at": null,
@@ -523,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bewitched: The Goddess Edition",
-        "url": "https://open.spotify.com/album/1hmlhl74JfLyUqmqtCwvFb"
+        "name": "Someone New",
+        "url": "https://open.spotify.com/album/1OdANZQlB2kBHw4dFjIiii"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
         }
       ],
-      "duration_ms": 171760,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/0Ah2wJirVEGUITkcPU6ali"
+      "duration_ms": 198000,
+      "name": "Someone New",
+      "url": "https://open.spotify.com/track/1trLEhC9nDvvj36MfnlwcJ"
     },
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Typical of Me EP",
-        "url": "https://open.spotify.com/album/7pooeoqY4uJkTaW70qxm3z"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 175970,
-      "name": "James",
-      "url": "https://open.spotify.com/track/2y1NtQ2ZfIq0zBUP3tOlbX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bewitched: The Goddess Edition",
         "url": "https://open.spotify.com/album/1hmlhl74JfLyUqmqtCwvFb"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 127853,
       "name": "It Could Happen To You",
       "url": "https://open.spotify.com/track/1pyfaPU3aw8JorXRJQf6cs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Typical of Me EP",
+        "url": "https://open.spotify.com/album/7pooeoqY4uJkTaW70qxm3z"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 175970,
+      "name": "James",
+      "url": "https://open.spotify.com/track/2y1NtQ2ZfIq0zBUP3tOlbX"
     },
     {
       "added_at": null,

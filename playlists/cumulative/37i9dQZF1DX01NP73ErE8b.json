@@ -208,7 +208,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 140669,
       "name": "A me mi piace",
       "url": "https://open.spotify.com/track/1HOkC1UCYVIWfnu6KD9Hca"
@@ -906,7 +906,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 178883,
       "name": "BELLA DAVVERO",
       "url": "https://open.spotify.com/track/1ih8OCS4EmDtSL3Do0tWIp"
@@ -4592,7 +4592,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 204738,
       "name": "Maschio",
       "url": "https://open.spotify.com/track/1gIahX2xZu1ir2qLmALtUc"
@@ -6872,7 +6872,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 179802,
       "name": "SCELTE STUPIDE",
       "url": "https://open.spotify.com/track/2SvLptBWezeSPSpfhL4XC7"
@@ -6941,6 +6941,28 @@
     },
     {
       "album": {
+        "name": "NIUIORCHERUBINI (BROOKLYN STUDIO, JOVA SESSION 25)",
+        "url": "https://open.spotify.com/album/71ydkx8VLeUKNxwcwImstY"
+      },
+      "artists": [
+        {
+          "name": "Jovanotti",
+          "url": "https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi"
+        },
+        {
+          "name": "Spanish Harlem Orchestra",
+          "url": "https://open.spotify.com/artist/0I7U5I66P88nCaVVPkIz6x"
+        }
+      ],
+      "date_added": "2025-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316251,
+      "name": "Senza se e senza ma - BROOKLYN STUDIO, JOVA SESSION 25",
+      "url": "https://open.spotify.com/track/7w8gx5kBSpKOolSYHykwau"
+    },
+    {
+      "album": {
         "name": "Senza Una Stupida Storia",
         "url": "https://open.spotify.com/album/11kvJ6rZcdyq1RNJXiKWVJ"
       },
@@ -6974,7 +6996,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 188373,
       "name": "SERENATA",
       "url": "https://open.spotify.com/track/18phYWPlfxvF9jmUVwkb4c"
@@ -8058,7 +8080,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 163935,
       "name": "Un giorno triste (feat. Gemitaiz)",
       "url": "https://open.spotify.com/track/1ADf9yY4ATx5Sg64SeGMlW"

@@ -4,7 +4,7 @@
 
 > 
 
-552 songs - 1 day 10 hr 52 min
+558 songs - 1 day 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Bow Down](https://open.spotify.com/track/0tOSLsRduTjAowHLcyAUS4) | [The Housemartins](https://open.spotify.com/artist/77D38RDgCtlYNLpayStftL) | [The People Who Grinned Themselves to Death](https://open.spotify.com/album/0cgB5VDCRyma21stuugALG) | 3:02 | 2024-04-08 |  |
 | [Breathe Deeper](https://open.spotify.com/track/3LbZIhU0smEU5SUnxod4j4) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 6:12 | 2024-02-23 |  |
 | [Brooklyn Bridge To Chorus](https://open.spotify.com/track/2mDYYGaGd9uXKkK2YhDA3i) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [The New Abnormal](https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN) | 3:55 | 2024-06-29 |  |
+| [Bubblegum](https://open.spotify.com/track/53p7or9OC8PGNnGrd9gLBv) | [Mystery Jets](https://open.spotify.com/artist/09K1H1DgyIXHsMx2j7KTFX) | [Curve Of The Earth](https://open.spotify.com/album/5gdWHfwu68jqPbxXxMDyL6) | 4:24 | 2025-11-20 |  |
 | [Buddy Holly](https://open.spotify.com/track/5HJi63X1utQNC0B0S4FePJ) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/3hcrTu8zeynChXDOJt3lX2) | 2:39 | 2024-04-04 |  |
 | [Build](https://open.spotify.com/track/6hkZqkzakw3f21beVQft5o) | [The Housemartins](https://open.spotify.com/artist/77D38RDgCtlYNLpayStftL) | [The People Who Grinned Themselves to Death](https://open.spotify.com/album/0cgB5VDCRyma21stuugALG) | 4:45 | 2024-04-08 |  |
 | [Bupkis](https://open.spotify.com/track/2UloinNAnfNmUvNo9JkB3y) | [Mustard Service](https://open.spotify.com/artist/7kAZYW5e5hQHYGQ0XHYhns) | [Variety Pack](https://open.spotify.com/album/3pmNLRyXB6nnXYditvGTZD) | 4:34 | 2024-12-31 |  |
@@ -159,7 +160,7 @@
 | [Flexorcist](https://open.spotify.com/track/5pvE5kSCPnrUSzDIFXPuLV) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Like All Before You](https://open.spotify.com/album/7h0Y4HcaDsuLnXeYmvY7ai) | 6:41 | 2024-11-07 |  |
 | [Flux](https://open.spotify.com/track/3V4LTMmu764I724y0ToD2d) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [A Weekend in the City](https://open.spotify.com/album/5qGqM14bpZCa1qQ7jt5W7R) | 3:35 | 2025-02-17 |  |
 | [Forever](https://open.spotify.com/track/0QpMPiKC7mSKfw9AtoQtNV) | [Same Eyes](https://open.spotify.com/artist/4FgcfyIpQvBbL61ZuOJtYR) | [Parties to End](https://open.spotify.com/album/6rKIiNABS4Qu1ldVNxZ0Is) | 3:43 | 2024-12-27 |  |
-| [Frank Sinatra](https://open.spotify.com/track/1abNE7hvyT9RtkslEiERhh) | [CAKE](https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV) | [Fashion Nugget](https://open.spotify.com/album/6kPOXxCYCdXBzEbb9dqE90) | 4:01 | 2024-07-03 |  |
+| [Frank Sinatra](https://open.spotify.com/track/1abNE7hvyT9RtkslEiERhh) | [CAKE](https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV) | [Fashion Nugget](https://open.spotify.com/album/6kPOXxCYCdXBzEbb9dqE90) | 4:00 | 2024-07-03 |  |
 | [Freedom](https://open.spotify.com/track/6zu1IHADqX7siKp5QQThuB) | [The Housemartins](https://open.spotify.com/artist/77D38RDgCtlYNLpayStftL) | [London 0 Hull 4](https://open.spotify.com/album/4BNELxLJPRYIEOiYGPAET9) | 3:20 | 2024-04-07 |  |
 | [Frogs and Pansies](https://open.spotify.com/track/4mpkKvac4dOE2T16SympFx) | [Mustard Service](https://open.spotify.com/artist/7kAZYW5e5hQHYGQ0XHYhns) | [Variety Pack](https://open.spotify.com/album/3pmNLRyXB6nnXYditvGTZD) | 2:16 | 2024-12-31 |  |
 | [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 | 2024-01-05 |  |
@@ -174,6 +175,7 @@
 | [Good Morning](https://open.spotify.com/track/6MXXY2eiWkpDCezVCc0cMH) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Graduation](https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3) | 3:15 | 2024-03-27 |  |
 | [Gratisfaction](https://open.spotify.com/track/69YCkfZS0aOjEUPwQ4zCZ9) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Angles](https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ) | 2:59 | 2024-06-29 |  |
 | [Haiku](https://open.spotify.com/track/3xfVTbyfrJwPN9bqlXipmw) | [Tally Hall](https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL) | [Marvin's Marvelous Mechanical Museum](https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5) | 3:02 | 2024-05-22 | 2025-05-30 |
+| [Half in Love with Elizabeth](https://open.spotify.com/track/3HrNkxybHgl7QqAvUDgFJ8) | [Mystery Jets](https://open.spotify.com/artist/09K1H1DgyIXHsMx2j7KTFX) | [Twenty One](https://open.spotify.com/album/2efbbdHh1iSps9yfBZdy7G) | 3:19 | 2025-11-20 |  |
 | [Hand in Glove \- 2011 Remaster](https://open.spotify.com/track/2JZu2ny6Et9wFic99sMF7x) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Smiths](https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN) | 3:22 | 2024-04-09 |  |
 | [Happy Ending](https://open.spotify.com/track/1OXGJ7jRok4c3KBnIYkuwH) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Comedown Machine](https://open.spotify.com/album/4WnkQO4xD9ljQooB3VIxCV) | 2:52 | 2024-05-11 |  |
 | [Happy Hour](https://open.spotify.com/track/051GBUYL8OPi6QZOu1hTDH) | [The Housemartins](https://open.spotify.com/artist/77D38RDgCtlYNLpayStftL) | [The Last King Of Pop](https://open.spotify.com/album/6KAJNoi7chqjEHaIe1Q8cS) | 2:21 | 2024-12-24 |  |
@@ -307,7 +309,7 @@
 | [My Iron Lung](https://open.spotify.com/track/0jyikFM0Umv0KlnrOEKtTG) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The Bends](https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg) | 4:36 | 2024-06-10 |  |
 | [My Oh Me, Pt\. 1](https://open.spotify.com/track/6U71aafWHGAr60Ih775PN8) | [Mustard Service](https://open.spotify.com/artist/7kAZYW5e5hQHYGQ0XHYhns) | [Zest Pop](https://open.spotify.com/album/4CvR0TtxnofCq74AiND8kp) | 1:59 | 2024-12-28 |  |
 | [My Oh Me, Pt\. 2](https://open.spotify.com/track/7vBN6GnJUg3KA4mGiCZBzG) | [Mustard Service](https://open.spotify.com/artist/7kAZYW5e5hQHYGQ0XHYhns) | [Zest Pop](https://open.spotify.com/album/4CvR0TtxnofCq74AiND8kp) | 2:25 | 2024-12-28 |  |
-| [N.Y\. State of Mind](https://open.spotify.com/track/0trHOzAhNpGCsGBEu7dOJo) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Illmatic](https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1) | 4:53 | 2023-11-13 |  |
+| [N.Y\. State of Mind](https://open.spotify.com/track/0trHOzAhNpGCsGBEu7dOJo) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Illmatic](https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1) | 4:54 | 2023-11-13 |  |
 | [Naive](https://open.spotify.com/track/4OJqO2woMz6PpZDHxhuC9U) | [benches](https://open.spotify.com/artist/62U36LEen0wpm8L5q68iVu) | [Naive](https://open.spotify.com/album/0FrpYZ2o8q98XneHGzYihS) | 3:51 | 2024-07-31 |  |
 | [Naomi](https://open.spotify.com/track/5jqPl6oZxya4dtJTcLFjMP) | [Neutral Milk Hotel](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) | [On Avery Island](https://open.spotify.com/album/3QTmNqASavj7H8DPhFss1r) | 4:53 | 2024-04-19 |  |
 | [Need](https://open.spotify.com/track/1CUAF34ktaB7s4DMJhO0qB) | [Mustard Service](https://open.spotify.com/artist/7kAZYW5e5hQHYGQ0XHYhns) | [C'est la Vie](https://open.spotify.com/album/6Dms2f0cxv9GB5qh2q607A) | 3:27 | 2024-12-28 |  |
@@ -397,6 +399,7 @@
 | [Sad Dream](https://open.spotify.com/track/6k8jlEH1WssLwzXHfZGq3j) | [EchoWave](https://open.spotify.com/artist/6cRSP0k82PWTiEmLPqwrTI) | [Sad Dream](https://open.spotify.com/album/2HIWjaGWNOazjOiF7cpUrr) | 3:40 | 2025-07-27 |  |
 | [Saint Pablo](https://open.spotify.com/track/1o0kWPueYo94LIjPYOE5Nf) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Life Of Pablo](https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1) | 6:12 | 2024-06-30 | 2025-11-12 |
 | [SASFM](https://open.spotify.com/track/3mR7a59x0KsRK00GIXobfd) | [benches](https://open.spotify.com/artist/62U36LEen0wpm8L5q68iVu) | [You Gave It Your Best](https://open.spotify.com/album/4y3ZVR9bObdAuD7cVDTet0) | 2:05 | 2024-07-17 |  |
+| [Saturnine](https://open.spotify.com/track/5GGP2S487OmXSQ8Vp2sJHb) | [Mystery Jets](https://open.spotify.com/artist/09K1H1DgyIXHsMx2j7KTFX) | [Curve Of The Earth](https://open.spotify.com/album/5gdWHfwu68jqPbxXxMDyL6) | 6:21 | 2025-11-20 |  |
 | [scars](https://open.spotify.com/track/016z46SJwcRosW9Xb8JKmF) | [Novulent](https://open.spotify.com/artist/2Q0rAyTIfdTUwDt8jpEpv0) | [scars](https://open.spotify.com/album/3nVunTBVbJO5fiCP6YlhuB) | 1:35 | 2024-07-23 | 2025-05-13 |
 | [See You Again \(feat\. Kali Uchis\)](https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Flower Boy](https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o) | 3:00 | 2024-02-16 | 2024-02-18 |
 | [Selfish](https://open.spotify.com/track/3Z3Fs0QhlvrJVRBHwzAFnQ) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Selfish](https://open.spotify.com/album/0trjZp7SXk1jKZKko0nck0) | 3:47 | 2024-04-05 | 2024-11-16 |
@@ -415,6 +418,7 @@
 | [Somebody That I Used To Know](https://open.spotify.com/track/4wCmqSrbyCgxEXROQE6vtV) | [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [Making Mirrors](https://open.spotify.com/album/1HjSyGjmLNjRAKgT9t1cna) | 4:04 | 2023-11-12 | 2024-06-21 |
 | [Someday](https://open.spotify.com/track/7hm4HTk9encxT0LYC0J6oI) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE) | 3:03 | 2024-05-29 |  |
 | [Someone Is Waiting](https://open.spotify.com/track/7kwOZJMxsQcBpC4j3kp24d) | [Neutral Milk Hotel](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) | [On Avery Island](https://open.spotify.com/album/3QTmNqASavj7H8DPhFss1r) | 2:31 | 2024-04-19 |  |
+| [Someone Purer](https://open.spotify.com/track/6O2hBBvn76gsbYhesXSkof) | [Mystery Jets](https://open.spotify.com/artist/09K1H1DgyIXHsMx2j7KTFX) | [Radlands](https://open.spotify.com/album/71dzstjs5HSdkeOrrpFAno) | 5:18 | 2025-11-20 |  |
 | [Somos Ajenos](https://open.spotify.com/track/1Z6NUe88dVXBDpWiWpSpie) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Enjambre Y Los Huéspedes Del Orbe](https://open.spotify.com/album/2wvZoVfLcQeDdErfx6jHiP) | 3:24 | 2024-08-27 |  |
 | [Song Against Sex](https://open.spotify.com/track/0irxRes67DWbAdghQ9F6sC) | [Neutral Milk Hotel](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) | [On Avery Island](https://open.spotify.com/album/3QTmNqASavj7H8DPhFss1r) | 3:40 | 2024-04-19 |  |
 | [Song for Clay \(Disappear Here\)](https://open.spotify.com/track/597GuiGA4cD5qhwvQAJ3xU) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [A Weekend in the City](https://open.spotify.com/album/5qGqM14bpZCa1qQ7jt5W7R) | 4:49 | 2025-02-16 |  |
@@ -501,6 +505,7 @@
 | [Trying Your Luck](https://open.spotify.com/track/5KupfEBaVJwL7D2ZN0n1Q1) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE) | 3:22 | 2024-03-30 |  |
 | [Tuesday Moon](https://open.spotify.com/track/5APAPnpSciLxsOzWnWjq6y) | [Neutral Milk Hotel](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) | [Everything Is](https://open.spotify.com/album/1bJ7SFKnVcexGafRpKmLKO) | 2:08 | 2024-04-20 |  |
 | [Turn the Lights Off](https://open.spotify.com/track/3xpdefOloYCBXd3UR6MVyM) | [Tally Hall](https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL) | [Good & Evil](https://open.spotify.com/album/2Vq0Y8wgiZRYtZ1mQ7zOMG) | 2:56 | 2024-05-26 | 2025-08-16 |
+| [Two Doors Down](https://open.spotify.com/track/5JSF5Nhw9W6j9qt74rYTa7) | [Mystery Jets](https://open.spotify.com/artist/09K1H1DgyIXHsMx2j7KTFX) | [Twenty One](https://open.spotify.com/album/2efbbdHh1iSps9yfBZdy7G) | 3:39 | 2025-11-20 |  |
 | [Two Kinds of Happiness](https://open.spotify.com/track/10rOqbOBlAJybglgmqaMZL) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Angles](https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ) | 3:42 | 2024-05-04 |  |
 | [Two Wuv](https://open.spotify.com/track/1P3S1F6BihfsSVVxButO9N) | [Tally Hall](https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL) | [Marvin's Marvelous Mechanical Museum](https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5) | 3:43 | 2024-05-22 |  |
 | [Two\-Headed Boy](https://open.spotify.com/track/27AG99NmWMFLRoyZMMPNW2) | [Neutral Milk Hotel](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) | [In the Aeroplane Over the Sea](https://open.spotify.com/album/0vVekV45lOaVKs6RZQQNob) | 4:26 | 2024-04-20 |  |
@@ -560,5 +565,6 @@
 | [You've Got Everything Now \- 2011 Remaster](https://open.spotify.com/track/2DYCM1sNmGliRszlzPkMiG) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Smiths](https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN) | 3:59 | 2024-03-27 |  |
 | [You've Passed](https://open.spotify.com/track/5SPWgDFMINoxZZM5p2xqpL) | [Neutral Milk Hotel](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) | [On Avery Island](https://open.spotify.com/album/3QTmNqASavj7H8DPhFss1r) | 2:53 | 2024-04-19 |  |
 | [Young Dumb & Broke](https://open.spotify.com/track/5Z3GHaZ6ec9bsiI5BenrbY) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [American Teen](https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg) | 3:22 | 2023-11-14 | 2025-08-02 |
+| [Young Love \(feat\. Laura Marling\)](https://open.spotify.com/track/5Bp3OmGILMam5w6KnafdKY) | [Mystery Jets](https://open.spotify.com/artist/09K1H1DgyIXHsMx2j7KTFX), [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Twenty One](https://open.spotify.com/album/2efbbdHh1iSps9yfBZdy7G) | 3:22 | 2025-11-20 |  |
 
 \*This playlist was first scraped on 2023-11-18. Prior content cannot be recovered.

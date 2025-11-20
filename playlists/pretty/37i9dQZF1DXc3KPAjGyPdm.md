@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KPAjGyPdm.md) - [plain]
 
 > Music from and inspired by Stranger Things\. Watch Season 4 now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,221,385 likes - 199 songs - 11 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,223,739 likes - 199 songs - 11 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -190,7 +190,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KPAjGyPdm.md) - [plain]
 | 180 | [Eleven Is Gone](https://open.spotify.com/track/0F8CFv2qff7CD0vzOvrUFB) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things, Vol\. 2 \(A Netflix Original Series Soundtrack\)](https://open.spotify.com/album/5d1hWmBYkAkVAE9XG5njrz) | 1:54 |
 | 181 | [Sunglasses At Night](https://open.spotify.com/track/1QbQL5m30YNvukitIqAnFG) | [Corey Hart](https://open.spotify.com/artist/0smy8yDrRoI4CnhpOuthg0) | [The Singles](https://open.spotify.com/album/5BDE3Z6clvwbPoWWwiSyGp) | 5:20 |
 | 182 | [Eulogy](https://open.spotify.com/track/5SjLRpgI7LWFzy9ggSqlkO) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 2 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/2l0rdHb97fQidl9dsOxE6B) | 3:39 |
-| 183 | [The Bargain Store](https://open.spotify.com/track/2GEuNbl2Aan68tQeHn4ADi) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [The Bargain Store](https://open.spotify.com/album/1QODRNFrssyoPjn1hQKVX3) | 2:41 |
+| 183 | [The Bargain Store](https://open.spotify.com/track/2GEuNbl2Aan68tQeHn4ADi) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [The Bargain Store](https://open.spotify.com/album/1QODRNFrssyoPjn1hQKVX3) | 2:44 |
 | 184 | [The Upside Down](https://open.spotify.com/track/5rwltqXrIniDtZIx4J6u50) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things, Vol\. 1 \(A Netflix Original Series Soundtrack\)](https://open.spotify.com/album/1puplOrvmUGoq2VxsB0ENJ) | 5:07 |
 | 185 | [Tie a Yellow Ribbon](https://open.spotify.com/track/3dTLZPQd43VkK4knj6D9FX) | [Brotherhood of Man](https://open.spotify.com/artist/4Cyr5aqgXza16isOrQNOvo) | [Greatest Hits: Brotherhood of Man](https://open.spotify.com/album/6uWZ1fY3ZU29OmJWxovhCR) | 2:56 |
 | 186 | [Full Fathom Five/I Shall Not Care](https://open.spotify.com/track/0Z6CuPLVLe21ljBhkTwplC) | [Pearls Before Swine](https://open.spotify.com/artist/01UrELDCYrQ6wrFArNbidS) | [The Wizard Of Is](https://open.spotify.com/album/5IgRl2HyYt1ZSaBbeRYwHA) | 2:47 |

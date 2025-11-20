@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-162 songs - 9 hr 3 min
+163 songs - 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [THE WORST PART](https://open.spotify.com/track/1eGmUjqVeD4MOHTx9en1S2) | [KYL3.](https://open.spotify.com/artist/25uvdhBsvGflCoeNRehds8) | [COLLEGE TAPES](https://open.spotify.com/album/3xR8IcdYdezBDXZzZ2Fa68) | 2:15 | 2025-11-08 |  |
 | [These Days](https://open.spotify.com/track/6OmhyzNc5npG63GgGaPtJm) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [These Days](https://open.spotify.com/album/5TIcIHvjz2ydUJFBQB7L3M) | 3:33 | 2025-11-10 |  |
 | [these streets is yours](https://open.spotify.com/track/3smkzGO1HafouKHojAF6y9) | [RayNay](https://open.spotify.com/artist/0ggALYAP0ou6MOkFBDWNBg) | [these streets is yours](https://open.spotify.com/album/4qfSaW2VntxNGOS4wiDSGs) | 2:58 | 2025-11-01 |  |
+| [Time's Up](https://open.spotify.com/track/1FzfPimBs8oQwTocCZCqU8) | [Surrounded by Spiders](https://open.spotify.com/artist/2Sr0bSlexNwK35NfqoaVIb) | [Surrounded by Spiders](https://open.spotify.com/album/3qrkAp6ZN5rEMvvCTgDztT) | 2:35 | 2025-11-19 |  |
 | [Tonno & Mais](https://open.spotify.com/track/0hO4qLR5aBkgjurivChdBD) | [ANNAPURNA](https://open.spotify.com/artist/024P13nvZpteU80GYonzzQ) | [Tonno & Mais](https://open.spotify.com/album/6oD2jXFjAcyLMUX2IroM45) | 3:10 | 2025-11-01 |  |
 | [Too Much Pain](https://open.spotify.com/track/6C7cYHPRdv3xzEQgD9YlO2) | [Saint Josh](https://open.spotify.com/artist/0RMN8YWshpWT8UoUTczQK2), [IndepthjayBeats](https://open.spotify.com/artist/3DbS3iUEXBQmOqvh5rHOIE) | [Too Much Pain](https://open.spotify.com/album/1yMfWKrJYbOtPCgKoSJkrQ) | 2:58 | 2025-11-10 |  |
 | [Tradotti a Metà](https://open.spotify.com/track/0y19OhtR5Jl4QMg0Xrsb7x) | [Tommy Rosa](https://open.spotify.com/artist/0qTQNf8RA8QYWCjmEjYQ5R) | [Tradotti a Metà](https://open.spotify.com/album/2cwSCoDPZNjhbicr72vAyy) | 3:07 | 2025-11-18 |  |

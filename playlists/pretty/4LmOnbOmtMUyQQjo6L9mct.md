@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4LmOnbOmtMUyQQjo6L9mct.md) - [plain]
 
 > Enjoy the sweet rhythms of bossa nova \- the perfect marriage of samba and jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,963 likes - 41 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,962 likes - 41 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,6 +48,6 @@ pretty - [cumulative](/playlists/cumulative/4LmOnbOmtMUyQQjo6L9mct.md) - [plain]
 | 38 | [Aconteceu](https://open.spotify.com/track/4SBVtMUW8ufsjVhvJ55MFS) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Infinito Particular](https://open.spotify.com/album/4d9es33iVSzOq7mcE6QgcZ) | 3:06 |
 | 39 | [Bolinha De Papel](https://open.spotify.com/track/7b9t2ckqoB89ne1df00Y00) | [Miltinho](https://open.spotify.com/artist/2aRdU5K1LA2G4BCzSbMcDp) | [Selecao De Ouro](https://open.spotify.com/album/7yS1D93afopwXb0otVFdzC) | 1:24 |
 | 40 | [A Primeira Vez](https://open.spotify.com/track/5tE0p42JGc57Z9akUr3zCw) | [Leila Pinheiro](https://open.spotify.com/artist/4YBLaoTWDgIwBB6Y61Y6Nb) | [Nova Bis \- Leila Pinheiro](https://open.spotify.com/album/5uqlfEe7ODkOzx82CrtDZH) | 3:08 |
-| 41 | [Let's Face the Music and Dance](https://open.spotify.com/track/0upEwTChCn08mKReV9Wisj) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Let's Face The Music And Dance](https://open.spotify.com/album/3FccB4IjLLpXcQvqxD4dR7) | 3:23 |
+| 41 | [Let's Face the Music and Dance](https://open.spotify.com/track/0upEwTChCn08mKReV9Wisj) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Let's Face The Music And Dance](https://open.spotify.com/album/3FccB4IjLLpXcQvqxD4dR7) | 3:22 |
 
 Snapshot ID: `AAAAGzijqv8+n4b1mOC6cKTfm+UkYGUu`

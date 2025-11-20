@@ -339,6 +339,36 @@
     },
     {
       "album": {
+        "name": "Confidence (Remixes)",
+        "url": "https://open.spotify.com/album/6UAuxSY5rkE5IEa7gYFHw5"
+      },
+      "artists": [
+        {
+          "name": "Lowdown",
+          "url": "https://open.spotify.com/artist/1KCG15gBLwpaEK8eymaqOO"
+        },
+        {
+          "name": "Shahay",
+          "url": "https://open.spotify.com/artist/1pjJMzKi91pQ2AWcEcXPZ2"
+        },
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        },
+        {
+          "name": "owie",
+          "url": "https://open.spotify.com/artist/7yLfNXs6ttWSE2csFvRnai"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251631,
+      "name": "Confidence - SUBSHIFT Remix",
+      "url": "https://open.spotify.com/track/37QXitclHmmRDGpgG7quDI"
+    },
+    {
+      "album": {
         "name": "Light It Up",
         "url": "https://open.spotify.com/album/21qXXrBG0EM0mLK6A92rDv"
       },
@@ -678,7 +708,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 184567,
       "name": "In My Bag",
       "url": "https://open.spotify.com/track/2TYOcnd7nZcaoyx5CWFuc9"

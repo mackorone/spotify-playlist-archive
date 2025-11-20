@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-15",
-  "description": "Meet the popular webtoon OSTs now! (Cover: \ub0b4\ud5a5\ub0a8\ub140(Introverted Us)) \uc9c0\uae08 \uc778\uae30 \uc788\ub294 \uc6f9\ud230 OST\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
+  "description": "Meet the popular webtoon OSTs now! (Cover: \uc791\uc804\uba85 \uc21c\uc815(Operation: True Love)) \uc9c0\uae08 \uc778\uae30 \uc788\ub294 \uc6f9\ud230 OST\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
   "name": "K-Webtoon/Anime OST (K-\uc6f9\ud230/\uc560\ub2c8\uba54\uc774\uc158 OSTs)",
   "tracks": [
     {
@@ -88,7 +88,7 @@
       ],
       "date_added": "2023-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-19",
+      "date_removed": null,
       "duration_ms": 250211,
       "name": "A Beautiful Farewell",
       "url": "https://open.spotify.com/track/3dFiJSq3woyVfZtUoJQ9pq"
@@ -2298,7 +2298,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-06",
+      "date_removed": null,
       "duration_ms": 187853,
       "name": "Love me Again",
       "url": "https://open.spotify.com/track/1sGfaUR47JwCMk5pj2gJZN"
@@ -2886,6 +2886,24 @@
       "duration_ms": 217813,
       "name": "Propose Song (WEBTOON 'Discovery of Love' X LEE RAON)",
       "url": "https://open.spotify.com/track/73whlfYeKmtBeOOuNFLeqT"
+    },
+    {
+      "album": {
+        "name": "Psycho (From \"Operation: True Love\")",
+        "url": "https://open.spotify.com/album/2nanNUoMsYRnX9U6jvdUkw"
+      },
+      "artists": [
+        {
+          "name": "izna",
+          "url": "https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4"
+        }
+      ],
+      "date_added": "2025-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131000,
+      "name": "Psycho",
+      "url": "https://open.spotify.com/track/09Kgz5rQuikCMwaB3eqevM"
     },
     {
       "album": {
@@ -4078,7 +4096,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 200454,
       "name": "Vol de nuit",
       "url": "https://open.spotify.com/track/22z3ZXiGgGJThAsDlhPPsc"
@@ -4726,7 +4744,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 232816,
       "name": "\ub108\uc758 \uc774\ubcc4\uc740 \ub0b4 \uac83\uc774 \uc544\ub2c8\ub77c\uc11c",
       "url": "https://open.spotify.com/track/7Arbb4R5abYGgXUBCC0Q3O"
@@ -4870,7 +4888,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 205680,
       "name": "\ubc24\uc0c8\uc6cc \ud55c \uc774\ubcc4",
       "url": "https://open.spotify.com/track/4E7Gi0cKsnTUtSeV8LondL"

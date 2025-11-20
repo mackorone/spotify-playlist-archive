@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/53OigPFP7tBPmzkAH3n1rw.md) - [plain]
 
 > Listen to the Ginny &amp; Georgia Official Playlist\. <a href="https://www.netflix.com/title/81025696">Watch only on Netflix</a>
 
-[Netflix](https://open.spotify.com/user/netflixmusic) - 131,194 likes - 404 songs - 21 hr 17 min
+[Netflix](https://open.spotify.com/user/netflixmusic) - 131,193 likes - 404 songs - 21 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -172,7 +172,7 @@ pretty - [cumulative](/playlists/cumulative/53OigPFP7tBPmzkAH3n1rw.md) - [plain]
 | 162 | [The Market Place](https://open.spotify.com/track/6qUvwwJvJ70npI5J35jCKK) | [Matt Dunne](https://open.spotify.com/artist/4FMXRtPJNuufcW3d7hXbBl) | [Wilton Place](https://open.spotify.com/album/6Ghy0vO2XyZREgXVkYuLjq) | 4:10 |
 | 163 | [Irresistible](https://open.spotify.com/track/3VrSTHmhy5BZLMiRelAb8Q) | [ColinResponse](https://open.spotify.com/artist/5BuJV692BKqeVVluVejcq5) | [ColinResponse](https://open.spotify.com/album/6l7bsCiqD6rhthIauT6i0v) | 2:59 |
 | 164 | [Max and Bracia Backstage](https://open.spotify.com/track/4CFHTwopQLI1aFYxRAO8Y0) | [Lili Haydn](https://open.spotify.com/artist/19wVkkHXBiTMrlEJ3vWKIm), [Ben Bromfield](https://open.spotify.com/artist/3hz2vronPvlcXVnUASpQlT) | [Ginny & Georgia: Season 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/02HsINt1u1cLio90RMpVJe) | 0:23 |
-| 165 | [Georgia](https://open.spotify.com/track/06VFJ6o6ywoSdrSWMZMIoN) | [Tiggs Da Author](https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT) | [Georgia](https://open.spotify.com/album/0uPpowbHhyiPATw1YTfP5j) | 3:15 |
+| 165 | [Georgia](https://open.spotify.com/track/06VFJ6o6ywoSdrSWMZMIoN) | [Tiggs Da Author](https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT) | [Georgia](https://open.spotify.com/album/0uPpowbHhyiPATw1YTfP5j) | 3:11 |
 | 166 | [Weightless](https://open.spotify.com/track/39ctmPVTtAMKeVJhMq5dS5) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 3:04 |
 | 167 | [Sacrificial](https://open.spotify.com/track/5YvYKEQEYJp4orh4z3Dnpk) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [Sacrificial](https://open.spotify.com/album/66jlZyvN4g2VBo9RNDYrOS) | 3:02 |
 | 168 | [Devil I Know](https://open.spotify.com/track/6KF3l0dtaqHanpwJVmz3mB) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Cape God](https://open.spotify.com/album/47wRFo2As9zFmg6E5VVa8H) | 2:52 |

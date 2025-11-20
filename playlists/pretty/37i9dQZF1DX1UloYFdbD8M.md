@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UloYFdbD8M.md) - [plain]
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: K.S.Harisankar
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,167 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,182 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UloYFdbD8M.md) - [plain]
 | 43 | [Ninakkai](https://open.spotify.com/track/4vRNRzuhjVXJgr15n8V3TR) | [DJ Jerin](https://open.spotify.com/artist/73JAdYJPsVO4U8ftoKCqmE), [Gourigayathri](https://open.spotify.com/artist/5VKwlNWRpXhi8DDa1FygQc) | [Ninakkai](https://open.spotify.com/album/5APWQwYkzeehE27zDX6fEw) | 4:23 |
 | 44 | [Gold](https://open.spotify.com/track/0pRYDrfGfJEiixN64WNpvj) | [DJSHA](https://open.spotify.com/artist/0WlKqfUBxANBGRFMh6d8lu), [DeXterDuke](https://open.spotify.com/artist/7pgCk3NAxxOTwBPm2dmZOa) | [Gold](https://open.spotify.com/album/0PK5jkjXKLiMS7U2fmWft0) | 3:02 |
 | 45 | [Local Sevens \- Neravo](https://open.spotify.com/track/6lvTnrUSBKIF9VFkLP3Ss3) | [Sahal Muhammed](https://open.spotify.com/artist/59DRwpY5uhR029d3HMd9JX), [Rohith Thiruvanathil](https://open.spotify.com/artist/38V7grK8DwxC65gnr1bXLA), [Anaswar MK](https://open.spotify.com/artist/4HjOa4fKS2oqEorPN7RrTb) | [Local Sevens \- Neravo](https://open.spotify.com/album/5rMgG4ZD3Zlrasj3puVtGr) | 4:17 |
-| 46 | [Oh Jaanu](https://open.spotify.com/track/0E7pKNTaYtKSQw9mqT1ZnE) | [Agnivesh](https://open.spotify.com/artist/01UX7W5Z9vhVafQVILiHXD), [Nihal Sadiq](https://open.spotify.com/artist/4tn4Tbdms5VG0yWwqryYhh), [Nomadic Voice](https://open.spotify.com/artist/1oze8SLXENyjFZJbdfemfT) | [Oh Jaanu](https://open.spotify.com/album/2XOKHVXSOAckE6p94UpDet) | 3:26 |
+| 46 | [Oh Jaanu \- From "Saina Music Indie"](https://open.spotify.com/track/0E7pKNTaYtKSQw9mqT1ZnE) | [Agnivesh](https://open.spotify.com/artist/01UX7W5Z9vhVafQVILiHXD), [Nihal Sadiq](https://open.spotify.com/artist/4tn4Tbdms5VG0yWwqryYhh), [Nomadic Voice](https://open.spotify.com/artist/1oze8SLXENyjFZJbdfemfT) | [Oh Jaanu \(From "Saina Music Indie"\)](https://open.spotify.com/album/2XOKHVXSOAckE6p94UpDet) | 3:26 |
 | 47 | [Jeevitham Oru Pwoli](https://open.spotify.com/track/0NFQNHxv4kz3pFT88RYDhW) | [Akhilesh Ramachandran](https://open.spotify.com/artist/5w15khBbkCbrbwKaHQ99qw), [SACHYN](https://open.spotify.com/artist/0fqn7UJi5ch6WMfbEIvHTQ) | [Jeevitham Oru Pwoli](https://open.spotify.com/album/6T5U71G1Xs8f45LRqnnTdx) | 3:27 |
 | 48 | [Raavu](https://open.spotify.com/track/26wTJ11QTpGx59BoRCsY6G) | [Shemitha Balan](https://open.spotify.com/artist/0mMfj4RosvfkM2v36QnSeu), [Zanjay](https://open.spotify.com/artist/2GrMbhYEEFMHSqUJw32gb2) | [Raavu](https://open.spotify.com/album/0ECb3vCOu1XZ8pmTaQMS44) | 3:25 |
 | 49 | [THEVU THEVADA](https://open.spotify.com/track/4mUuPcFwVTStX2A9ybj27Y) | [Sreejith Edavana](https://open.spotify.com/artist/1m9rpvDVv7rftegCQDIESg), [Jayadevan Vasudevan Adoor](https://open.spotify.com/artist/1l6XkCmd6hRUzJfiEev2yb) | [THEVU THEVADA](https://open.spotify.com/album/20CuO9fPXfqUyvuxZlCB6f) | 3:21 |

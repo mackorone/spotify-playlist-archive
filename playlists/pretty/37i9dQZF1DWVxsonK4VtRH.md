@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxsonK4VtRH.md) - [plain]
 
 > A dark new chapter begins...Listen to the music from and inspired by Call of Duty, featuring music from Modern Warfare III.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,259 likes - 66 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,328 likes - 66 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxsonK4VtRH.md) - [plain]
 | 58 | [Pretty Handsome Awkward](https://open.spotify.com/track/77BfOPXhlnNaSbg647qkx2) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Lies for the Liars](https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox) | 3:35 |
 | 59 | [Microphone Fiend](https://open.spotify.com/track/0cSJGFChou7M6u2ju9SWN1) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [Follow The Leader \(Expanded Edition\)](https://open.spotify.com/album/42p4dRDB24b9mvBmMb0QR9) | 5:14 |
 | 60 | [Scenario \(feat\. Busta Rhymes, Dinco D & Charlie Brown\) \- LP Mix](https://open.spotify.com/track/0301nLjG0ti26rx5ZmfqtP) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Dinco D](https://open.spotify.com/artist/2cS6wbmG3wMYrzJperKqaa), [Charlie Brown](https://open.spotify.com/artist/23eGWtGneElWXARaabR0Dk) | [The Low End Theory](https://open.spotify.com/album/1p12OAWwudgMqfMzjMvl2a) | 4:10 |
-| 61 | [N.Y\. State of Mind](https://open.spotify.com/track/0trHOzAhNpGCsGBEu7dOJo) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Illmatic](https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1) | 4:53 |
+| 61 | [N.Y\. State of Mind](https://open.spotify.com/track/0trHOzAhNpGCsGBEu7dOJo) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Illmatic](https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1) | 4:54 |
 | 62 | [Nuthin’ But A "G" Thang](https://open.spotify.com/track/2eBjbrAXdb5WETSm6RNZ6X) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [The Very Best of Death Row](https://open.spotify.com/album/1lqD5GnInmcLPiRMfRVS22) | 3:58 |
 | 63 | [2 Of Amerikaz Most Wanted \(ft\. Snoop Doggy Dogg\)](https://open.spotify.com/track/6LwrEZNkvFTOypNwSLjuaJ) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [All Eyez On Me](https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC) | 4:06 |
 | 64 | [Hypnotize \- 2007 Remaster](https://open.spotify.com/track/6Tsu3OsuMz4KEGKbOYd6A0) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Greatest Hits](https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg) | 3:50 |

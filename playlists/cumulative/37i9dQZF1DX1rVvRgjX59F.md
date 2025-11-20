@@ -2,7 +2,7 @@
 
 ### [90s Rock Anthems](https://open.spotify.com/playlist/37i9dQZF1DX1rVvRgjX59F)
 
-> These songs rocked the 90s\. Cover: Radiohead
+> These songs rocked the 90s\. Cover: Oasis
 
 164 songs - 11 hr 19 min
 
@@ -145,7 +145,7 @@
 | [Take a Picture](https://open.spotify.com/track/2c5wml8wsBnPfNSbCZ574T) | [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [Title Of Record](https://open.spotify.com/album/5G6pS4ES22Np0hehqJYIct) | 5:59 | 2021-12-10 |  |
 | [Take A Picture](https://open.spotify.com/track/3LMk2ERkd46UY3SM7wNfiU) | [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [Title Of Record](https://open.spotify.com/album/5z6hB6RdG0y7YOjQAo0Y76) | 6:03 | 2022-09-20 | 2022-11-13 |
 | [Take A Picture](https://open.spotify.com/track/6q4aoWgTQ8td2AvqQXuFqm) | [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [Title Of Record \(Expanded Edition\)](https://open.spotify.com/album/0PtuV98eVpJkCORoCH2uCu) | 6:03 | 2022-03-24 | 2024-04-19 |
-| [The Distance](https://open.spotify.com/track/0fsz7tJ7UKXT9hliLfO7aE) | [CAKE](https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV) | [Fashion Nugget](https://open.spotify.com/album/6kPOXxCYCdXBzEbb9dqE90) | 2:59 | 2021-12-10 |  |
+| [The Distance](https://open.spotify.com/track/0fsz7tJ7UKXT9hliLfO7aE) | [CAKE](https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV) | [Fashion Nugget](https://open.spotify.com/album/6kPOXxCYCdXBzEbb9dqE90) | 3:00 | 2021-12-10 |  |
 | [The Impression That I Get](https://open.spotify.com/track/1ru5R5iSawvuMELqKXxLjS) | [The Mighty Mighty Bosstones](https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK) | [Let's Face It](https://open.spotify.com/album/5yBYSnmpRANjb99msqeCee) | 3:14 | 2022-03-24 | 2023-10-20 |
 | [The Impression That I Get](https://open.spotify.com/track/2F5r18ZlLUBqnt0jjhhETm) | [The Mighty Mighty Bosstones](https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK) | [Let's Face It](https://open.spotify.com/album/2ZQT4irYHOexoqjzIZXipB) | 3:14 | 2021-12-10 |  |
 | [The Impression That I Get](https://open.spotify.com/track/0x4UnxKuaouNZWhscb23z2) | [The Mighty Mighty Bosstones](https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK) | [20 \#1’s: 90s](https://open.spotify.com/album/2GlqR6iC185DlUDUzyxvFe) | 3:14 | 2022-09-20 | 2022-11-14 |

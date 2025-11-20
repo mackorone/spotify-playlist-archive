@@ -4,7 +4,7 @@
 
 > brutal breakdowns and riffs to amp you up.
 
-357 songs - 1 day 0 hr 8 min
+358 songs - 1 day 0 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Chaos And Earthquakes](https://open.spotify.com/track/5XNKkj1zLuCPjInOGSaQtZ) | [Nonpoint](https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z) | [X \(Deluxe Edition\)](https://open.spotify.com/album/6VR91jzeyEvl6UkEqQkswo) | 3:45 | 2021-12-17 | 2022-07-28 |
 | [Chasing Shadows](https://open.spotify.com/track/1o3dGdOfetdnkJ6OUDOioO) | [Bloodred Hourglass](https://open.spotify.com/artist/5LDGgIxaWuRV4KlY6oob6b) | [Chasing Shadows](https://open.spotify.com/album/2MOfDP2OU2EJHcaJVzt5kM) | 3:50 | 2025-08-29 | 2025-11-09 |
 | [Chop Suey!](https://open.spotify.com/track/2DlHlPMa4M17kufBvI2lEN) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Toxicity](https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh) | 3:30 | 2021-12-17 |  |
-| [City of Gold](https://open.spotify.com/track/4dwAchnLT98JadEnhCHyKB) | [Samurai Pizza Cats](https://open.spotify.com/artist/6f0FWL5v2c3a5shWKRuiwq) | [City of Gold](https://open.spotify.com/album/5X13AR12wQwEmZx07lE4Tt) | 2:58 | 2025-11-14 |  |
+| [City of Gold](https://open.spotify.com/track/4dwAchnLT98JadEnhCHyKB) | [Samurai Pizza Cats](https://open.spotify.com/artist/6f0FWL5v2c3a5shWKRuiwq) | [City of Gold](https://open.spotify.com/album/5X13AR12wQwEmZx07lE4Tt) | 2:58 | 2025-11-14 | 2025-11-20 |
 | [Closure](https://open.spotify.com/track/7wOnoMYUQot21uPASWNdqa) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [Closure](https://open.spotify.com/album/6dI8WKFVpJykLgykCKXWLA) | 3:10 | 2025-08-29 |  |
 | [Collapse](https://open.spotify.com/track/6oBjnOBqngXWsRuYY5eTnz) | [After The Burial](https://open.spotify.com/artist/0uNj4RxFjG0iVPlZS753en) | [Dig Deep](https://open.spotify.com/album/7ABqA1tuH6eonHAIBaBqHe) | 4:12 | 2021-12-17 | 2022-06-09 |
 | [Cowboys from Hell](https://open.spotify.com/track/2SgbR6ttzoNlCRGQOKjrop) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Cowboys from Hell](https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe) | 4:03 | 2021-12-17 |  |
@@ -211,7 +211,7 @@
 | [Maximize](https://open.spotify.com/track/43SK9pr4z0KjxCU6Urll9S) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [MAXIMALISM](https://open.spotify.com/album/3JsTgs4JiSmbVwkkfY5vAh) | 3:10 | 2021-12-17 | 2023-04-11 |
 | [Meet Your Maker](https://open.spotify.com/track/5qZMqZspIglsy4SJxtJt0S) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Foregone](https://open.spotify.com/album/1IqQ6UX3hzJLVXtRmui4w3) | 3:57 | 2023-04-10 |  |
 | [Memento Mori](https://open.spotify.com/track/1flcnqrtVKsluQXLEPfGJW) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Lamb of God](https://open.spotify.com/album/7FEBQOq6SXl4CsqR6wTTGy) | 5:48 | 2022-06-21 | 2023-12-14 |
-| [Memento Mori](https://open.spotify.com/track/6V1tb8rFw1nPeOXX4sccTC) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Memento Mori](https://open.spotify.com/album/7jBx6OxyVMHSmAzLHxchIh) | 5:48 | 2022-06-21 |  |
+| [Memento Mori](https://open.spotify.com/track/6V1tb8rFw1nPeOXX4sccTC) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Memento Mori](https://open.spotify.com/album/7jBx6OxyVMHSmAzLHxchIh) | 5:48 | 2022-06-21 | 2025-11-20 |
 | [Miasma \(feat\. Winston McCall\)](https://open.spotify.com/track/03jUMnAF30sYJ2EsPB2JtG) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9) | [Miasma \(feat\. Winston McCall\)](https://open.spotify.com/album/3p1wPGFa4pJji35FDnMkmL) | 4:18 | 2024-01-29 | 2025-09-16 |
 | [Middle Fingers Up](https://open.spotify.com/track/14ZX4MpuG9XW1MaZY5drY0) | [Attila](https://open.spotify.com/artist/4Uv5bceTJ2h3tLlssUNDNP) | [About That Life](https://open.spotify.com/album/3926CVdjmoTObtSVsKG2YY) | 2:37 | 2021-12-17 | 2022-01-07 |
 | [Monochrome](https://open.spotify.com/track/73SsGfqjQv6oUxDaC9w8es) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [THE OTHER ONE](https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t) | 3:57 | 2023-12-13 | 2025-09-23 |
@@ -304,6 +304,7 @@
 | [Take Control](https://open.spotify.com/track/32ycd4AOeqMGXmuLA8FSxc) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [Repentless](https://open.spotify.com/album/5QTGKCuJbyViaQQXjHOvjL) | 3:13 | 2021-12-17 | 2022-01-19 |
 | [Take Shape \(feat\. Billy Corgan\)](https://open.spotify.com/track/4GswFW5miCkwi9iqrDqEw4) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK), [Billy Corgan](https://open.spotify.com/artist/12B5JK11NOP7OQ9Fxjrpx2) | [Take Shape \(feat\. Billy Corgan\)](https://open.spotify.com/album/4cyn9XrZxlYS0joKsdf1JS) | 3:24 | 2023-09-12 | 2025-03-15 |
 | [TANEBI](https://open.spotify.com/track/1qHuqLqX3WMb6EYTk5YIrf) | [Knosis](https://open.spotify.com/artist/5o1BN92ZEG8TucPzj6czCh) | [TANEBI](https://open.spotify.com/album/0SNL3hIHvftXGTlzy6vdJC) | 3:32 | 2025-06-27 | 2025-08-16 |
+| [TANZNEID](https://open.spotify.com/track/5IeePsTYSdFvadsHY0npqF) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [TANZNEID](https://open.spotify.com/album/3Tmtkjz1J1wnhNkUAzXi2F) | 3:05 | 2025-11-19 |  |
 | [Tears Don't Fall](https://open.spotify.com/track/1kdiiFGX1Htx0aVZYaDwEJ) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison](https://open.spotify.com/album/7zU9hmH9CKQ9Yf5SruqOLM) | 5:48 | 2022-01-06 | 2024-04-19 |
 | [Tears Don't Fall](https://open.spotify.com/track/7ln7o4q6y9h8qEc6hGrtr1) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison](https://open.spotify.com/album/42QVkdlfEk9uaG0NboeKpq) | 5:48 | 2021-12-17 |  |
 | [That Day](https://open.spotify.com/track/7nobjDCjkn6Y8UDQFt2mga) | [Nonpoint](https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z) | [Nonpoint](https://open.spotify.com/album/7HYkuJ62NjUnGwMRm7wwUN) | 3:30 | 2021-12-17 |  |
@@ -363,7 +364,7 @@
 | [Welcome To The Circus](https://open.spotify.com/track/1r3PWB1ZzxrPsIj2DNoa10) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Welcome To The Circus](https://open.spotify.com/album/4UlXCia6g1ERBw4XjinURw) | 4:16 | 2022-06-21 |  |
 | [welcome2paradise](https://open.spotify.com/track/6i4p6ySFg8PRJvgwvMgcqZ) | [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc) | [Slow Burn](https://open.spotify.com/album/3tbDu2wslQEmwMalgSgSB9) | 4:46 | 2023-12-13 | 2025-01-18 |
 | [Winner Takes All \(feat\. Alice Cooper\)](https://open.spotify.com/track/0zfjIcTc40MVFSGmGjHI9V) | [Nita Strauss](https://open.spotify.com/artist/73GhYkwfPQzmfJb1cdPqPf), [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Winner Takes All \(feat\. Alice Cooper\)](https://open.spotify.com/album/3h5f0wgybbpyb8wm9xg4oQ) | 3:25 | 2023-04-11 | 2023-05-21 |
-| [WORLD OF MALICE](https://open.spotify.com/track/3jIngIouCnZgQo3VjDRXAx) | [UnityTX](https://open.spotify.com/artist/3uPce3TKw7cjheMNhuhNs9) | [Ferality](https://open.spotify.com/album/5TRazGLWI1r9hL3XsQ1feB) | 3:24 | 2024-02-09 | 2025-11-17 |
+| [WORLD OF MALICE](https://open.spotify.com/track/3jIngIouCnZgQo3VjDRXAx) | [UnityTX](https://open.spotify.com/artist/3uPce3TKw7cjheMNhuhNs9) | [Ferality](https://open.spotify.com/album/5TRazGLWI1r9hL3XsQ1feB) | 3:24 | 2024-02-09 |  |
 | [You Want a Battle? \(Here's a War\)](https://open.spotify.com/track/1KCAEG6JcsTzi8ddZzs0nk) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Venom \(Deluxe Edition\)](https://open.spotify.com/album/1YjxZhd158jSm2906JqzXF) | 4:14 | 2021-12-17 |  |
 
 \*This playlist was first scraped on 2021-12-30. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Det er fredag! Ny musik fra Robyn, Caroline Dubois, Lewis Capaldi og mange flere 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,351 likes - 107 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,347 likes - 107 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

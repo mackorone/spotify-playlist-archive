@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUog0OWGDgtd.md) - [plain]
 
 > Music from "Bungo Stray Dogs"\. ©朝 霧 カフ カ・春 河 35 /ＫＡＤＯＫＡＷＡ /文 豪 ストレイドッ グス 製 作 委 員 会
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,030 likes - 42 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,054 likes - 42 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

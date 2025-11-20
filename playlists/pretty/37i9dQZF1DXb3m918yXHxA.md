@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3m918yXHxA.md) - [plain]
 
 > Cruise to the smooth grooves of these yacht rock tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,722,911 likes - 140 songs - 9 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,723,034 likes - 140 songs - 9 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,7 +109,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3m918yXHxA.md) - [plain]
 | 99 | [Cool Fool](https://open.spotify.com/track/2Xsl0KsPjC6U9i8eiT7UM2) | [Bruce Roberts](https://open.spotify.com/artist/1liZxHhIHGMKRPV0Fdy4a5) | [Cool Fool](https://open.spotify.com/album/5y5UZa5Nl26PfFugFworBq) | 4:25 |
 | 100 | [Nobody's Business](https://open.spotify.com/track/41A98cJexOEPLj6jCHXplA) | [Maxus](https://open.spotify.com/artist/23dBg5HdfYGtBBc96KfyWw) | [Maxus](https://open.spotify.com/album/3NqdoUkICbpsyzX1d5fzJO) | 3:21 |
 | 101 | [You're Good For Me](https://open.spotify.com/track/0OhDxvVO2IupEKNzpFIAlg) | [Exile](https://open.spotify.com/artist/2enKa9Yqr6PZy3xGlxQEu7) | [Keeping It Country](https://open.spotify.com/album/1mOvjJ1eJDNDR6bGVkt0RW) | 3:36 |
-| 102 | [Paradise](https://open.spotify.com/track/36nWEcjwsB7u3yKvLJpYhJ) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Lite Me Up](https://open.spotify.com/album/5LsdfUYg3pWMyjoyAnS3fE) | 4:31 |
+| 102 | [Paradise](https://open.spotify.com/track/36nWEcjwsB7u3yKvLJpYhJ) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Lite Me Up](https://open.spotify.com/album/5LsdfUYg3pWMyjoyAnS3fE) | 4:32 |
 | 103 | [Tranquillo \(Melt My Heart\)](https://open.spotify.com/track/0i8s3YyZjFcJoV41GxZjhg) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [Boys in the Trees](https://open.spotify.com/album/6TUPBFLSBxRwHDXV0y3AHs) | 4:03 |
 | 104 | [Runaway](https://open.spotify.com/track/6lgRAgMXqhxwS77vJBjFY6) | [Bill Champlin](https://open.spotify.com/artist/5pLqzTJecAKKbWw0MrDASt), [Joseph Williams](https://open.spotify.com/artist/5xk0kRuXn1zToTHpHAqpui), [Peter Friestedt](https://open.spotify.com/artist/1asuQw4X18Sg1FxMEXzUz8) | [CWF](https://open.spotify.com/album/1MDUmPVZFAduvDPmV3Ez53) | 3:56 |
 | 105 | [Sonny Think Twice \- 2006 Remaster](https://open.spotify.com/track/0goYQES0cyqSNbxpu7B3uV) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago 16 \(Expanded & Remastered\)](https://open.spotify.com/album/4NmlDrnZOd3ejob9PoiOd9) | 4:00 |

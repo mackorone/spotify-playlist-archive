@@ -1,6 +1,6 @@
 {
   "description": "Songs from \u201cENSEMBLE STARS!!\u201d \u00a9 2014-2019 Happy Elements K.K\n",
-  "num_followers": 61803,
+  "num_followers": 61805,
   "original_name": "ENSEMBLE STARS!!",
   "owner": {
     "name": "Spotify",
@@ -863,6 +863,26 @@
     {
       "added_at": "2025-10-28 15:00:03",
       "album": {
+        "name": "\u6d41\u661f\u968a\u300cWILDLAND SURVIVOR\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season5",
+        "url": "https://open.spotify.com/album/6UIrDDImQK1LXEhAvIkD8s"
+      },
+      "artists": [
+        {
+          "name": "\u6d41\u661f\u968a",
+          "url": "https://open.spotify.com/artist/67XI85b3PsLJyqfAqJe1Yp"
+        },
+        {
+          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
+          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
+        }
+      ],
+      "duration_ms": 211956,
+      "name": "WILDLAND SURVIVOR",
+      "url": "https://open.spotify.com/track/2cGM68GNqjGdUQDGlzuYuD"
+    },
+    {
+      "added_at": "2025-10-28 15:00:03",
+      "album": {
         "name": "\u300c\u30d7\u30ea\u30c6\u30a3\u306e\u30b9\u30b9\u30e1\u2661\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30d0\u30e9\u30a8\u30c6\u30a3\u30bd\u30f3\u30b0\u30b7\u30ea\u30fc\u30ba \u7a76\u6975\u306e9\u66f2",
         "url": "https://open.spotify.com/album/6b9EPx8j0LIjKGOVrfVqPc"
       },
@@ -895,26 +915,6 @@
       "duration_ms": 200000,
       "name": "\u30d7\u30ea\u30c6\u30a3\u306e\u30b9\u30b9\u30e1\u2661",
       "url": "https://open.spotify.com/track/60mvU2t9ThXv5bSlVugniv"
-    },
-    {
-      "added_at": "2025-10-28 15:00:03",
-      "album": {
-        "name": "\u6d41\u661f\u968a\u300cWILDLAND SURVIVOR\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season5",
-        "url": "https://open.spotify.com/album/6UIrDDImQK1LXEhAvIkD8s"
-      },
-      "artists": [
-        {
-          "name": "\u6d41\u661f\u968a",
-          "url": "https://open.spotify.com/artist/67XI85b3PsLJyqfAqJe1Yp"
-        },
-        {
-          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
-          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
-        }
-      ],
-      "duration_ms": 211956,
-      "name": "WILDLAND SURVIVOR",
-      "url": "https://open.spotify.com/track/2cGM68GNqjGdUQDGlzuYuD"
     },
     {
       "added_at": "2025-10-28 15:00:03",

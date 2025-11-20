@@ -1,13 +1,69 @@
 {
-  "description": "The best new dance music by independent artists and labels, featuring Tough Break. Artwork by Rewina Beshue.",
-  "num_followers": 208626,
+  "description": "The best new dance music by independent artists and labels, featuring X & Ivy. Artwork by Rewina Beshue.",
+  "num_followers": 208658,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANAykXvZvIvnKZBDLhDuu9xoUGCd",
+  "snapshot_id": "AAAAAKZ2eJ7fuuShlRCCJ9xPB3Q2Gd1Q",
   "tracks": [
+    {
+      "added_at": "2025-11-14 05:00:38",
+      "album": {
+        "name": "Dee Sharp",
+        "url": "https://open.spotify.com/album/52p4weqncb8tRQoUSKASRD"
+      },
+      "artists": [
+        {
+          "name": "X & Ivy",
+          "url": "https://open.spotify.com/artist/5GrYSX7RkjYmhl0eUWRcpH"
+        }
+      ],
+      "duration_ms": 158409,
+      "name": "Dee Sharp",
+      "url": "https://open.spotify.com/track/37haJpNLVNGvBZWNfHBQwc"
+    },
+    {
+      "added_at": "2025-11-14 05:00:38",
+      "album": {
+        "name": "Love to Love",
+        "url": "https://open.spotify.com/album/6jyJWetHgENZW5U0LpIvBF"
+      },
+      "artists": [
+        {
+          "name": "Justin Rabin",
+          "url": "https://open.spotify.com/artist/6BxPifFRPEvAX1gyMxnCmv"
+        }
+      ],
+      "duration_ms": 176744,
+      "name": "Love to Love",
+      "url": "https://open.spotify.com/track/6RREMDJ6ru3YpvboN4Le3q"
+    },
+    {
+      "added_at": "2025-11-19 05:00:31",
+      "album": {
+        "name": "All 4 U",
+        "url": "https://open.spotify.com/album/1ROpXqqLPmqZC0NmpCaCC5"
+      },
+      "artists": [
+        {
+          "name": "Church & AP",
+          "url": "https://open.spotify.com/artist/0RUqlEJMEe0g9g1tNOro7Z"
+        },
+        {
+          "name": "deadforest",
+          "url": "https://open.spotify.com/artist/01BarUU13qIXPB0YlpVJgb"
+        },
+        {
+          "name": "RNZ\u014c",
+          "url": "https://open.spotify.com/artist/0YLB9rhWBY7cnFdXpEjkgC"
+        }
+      ],
+      "duration_ms": 145250,
+      "name": "All 4 U",
+      "url": "https://open.spotify.com/track/4c3Kn05dr9nyNLOJHPmojA"
+    },
     {
       "added_at": "2025-11-14 05:00:38",
       "album": {
@@ -25,20 +81,36 @@
       "url": "https://open.spotify.com/track/155eEmogdYWiVZkbgmAKFC"
     },
     {
-      "added_at": "2025-11-03 23:47:36",
+      "added_at": "2025-11-19 05:00:31",
       "album": {
-        "name": "What U Need",
-        "url": "https://open.spotify.com/album/4LNeZQCIWeE4FYwr64lbf7"
+        "name": "I Tried",
+        "url": "https://open.spotify.com/album/44LNu3Q50V9BX0KZPPx8fH"
       },
       "artists": [
         {
-          "name": "Tough Break",
-          "url": "https://open.spotify.com/artist/59YvtCKDEG9q6naPqrqykW"
+          "name": "Frenchhh",
+          "url": "https://open.spotify.com/artist/72EkW07jcwXuwO0v4PopTp"
         }
       ],
-      "duration_ms": 178324,
-      "name": "What U Need",
-      "url": "https://open.spotify.com/track/4PxnAR2MWPN1YUWFf67M0o"
+      "duration_ms": 336694,
+      "name": "Militia",
+      "url": "https://open.spotify.com/track/0t25f062zkLA8E1tvQ5T5b"
+    },
+    {
+      "added_at": "2025-10-08 04:00:15",
+      "album": {
+        "name": "Orbita",
+        "url": "https://open.spotify.com/album/5HnYvgThbYkmhWM2rA4tlV"
+      },
+      "artists": [
+        {
+          "name": "Ale Rossi",
+          "url": "https://open.spotify.com/artist/6nmUky4CQGbC4CLsrKhovF"
+        }
+      ],
+      "duration_ms": 150206,
+      "name": "Sonidero",
+      "url": "https://open.spotify.com/track/6isTmPPYrPkNmeqKydQm5k"
     },
     {
       "added_at": "2025-11-12 20:51:22",
@@ -55,6 +127,22 @@
       "duration_ms": 180923,
       "name": "Take Me",
       "url": "https://open.spotify.com/track/5GyfokBHIPH8vs9erTmMQL"
+    },
+    {
+      "added_at": "2025-11-12 20:51:22",
+      "album": {
+        "name": "DECEIVER",
+        "url": "https://open.spotify.com/album/2nDEXGi3FyFJzuEXn2JWMV"
+      },
+      "artists": [
+        {
+          "name": "M3RCH",
+          "url": "https://open.spotify.com/artist/6skWnmhNXBlEywqd1PHGC8"
+        }
+      ],
+      "duration_ms": 295384,
+      "name": "DECEIVER",
+      "url": "https://open.spotify.com/track/6TG0jFBiEnDlJMb4wbkYD5"
     },
     {
       "added_at": "2025-11-14 05:00:38",
@@ -75,22 +163,6 @@
     {
       "added_at": "2025-11-12 20:51:22",
       "album": {
-        "name": "DECEIVER",
-        "url": "https://open.spotify.com/album/2nDEXGi3FyFJzuEXn2JWMV"
-      },
-      "artists": [
-        {
-          "name": "M3RCH",
-          "url": "https://open.spotify.com/artist/6skWnmhNXBlEywqd1PHGC8"
-        }
-      ],
-      "duration_ms": 295384,
-      "name": "DECEIVER",
-      "url": "https://open.spotify.com/track/6TG0jFBiEnDlJMb4wbkYD5"
-    },
-    {
-      "added_at": "2025-11-12 20:51:22",
-      "album": {
         "name": "ok heres the rough cut",
         "url": "https://open.spotify.com/album/3FpgCueA0l8AeOV3Kl4JZr"
       },
@@ -107,34 +179,22 @@
     {
       "added_at": "2025-10-08 04:00:15",
       "album": {
-        "name": "Orbita",
-        "url": "https://open.spotify.com/album/5HnYvgThbYkmhWM2rA4tlV"
+        "name": "Subliminals",
+        "url": "https://open.spotify.com/album/4h0UdEwMBtj7UmGE2RvLdX"
       },
       "artists": [
         {
-          "name": "Ale Rossi",
-          "url": "https://open.spotify.com/artist/6nmUky4CQGbC4CLsrKhovF"
-        }
-      ],
-      "duration_ms": 150206,
-      "name": "Sonidero",
-      "url": "https://open.spotify.com/track/6isTmPPYrPkNmeqKydQm5k"
-    },
-    {
-      "added_at": "2025-11-14 05:00:38",
-      "album": {
-        "name": "tira.miss.u",
-        "url": "https://open.spotify.com/album/5g7ONc50BEP8qWIVx5odIf"
-      },
-      "artists": [
+          "name": "Saint Ludo",
+          "url": "https://open.spotify.com/artist/3UBYL8t0DhD4uhJxF0FtGT"
+        },
         {
-          "name": "PatataOnStereo",
-          "url": "https://open.spotify.com/artist/1Oc9GLjfd9AbkyxEwFUxGR"
+          "name": "Kasst 8",
+          "url": "https://open.spotify.com/artist/1K0CrrXj2Zogdgsyc5GfLs"
         }
       ],
-      "duration_ms": 140444,
-      "name": "uuuUUUuuu",
-      "url": "https://open.spotify.com/track/5Pom7taieE5CiMlPPbvTXQ"
+      "duration_ms": 154100,
+      "name": "Subliminals",
+      "url": "https://open.spotify.com/track/2gyn0L8It5sc7Tw8eQlkFY"
     },
     {
       "added_at": "2025-11-07 05:00:50",
@@ -153,20 +213,68 @@
       "url": "https://open.spotify.com/track/0FDGvjQns8s2x3S3RCPq7g"
     },
     {
-      "added_at": "2025-11-14 05:00:38",
+      "added_at": "2025-11-19 05:00:31",
       "album": {
-        "name": "Dee Sharp",
-        "url": "https://open.spotify.com/album/52p4weqncb8tRQoUSKASRD"
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/62EOpux3zNlPaE3nIdF108"
       },
       "artists": [
         {
-          "name": "X & Ivy",
-          "url": "https://open.spotify.com/artist/5GrYSX7RkjYmhl0eUWRcpH"
+          "name": "666cmg",
+          "url": "https://open.spotify.com/artist/12dGo5vSlfT9dL50bkgkL2"
         }
       ],
-      "duration_ms": 158409,
-      "name": "Dee Sharp",
-      "url": "https://open.spotify.com/track/37haJpNLVNGvBZWNfHBQwc"
+      "duration_ms": 311689,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/3BqN5lmDARrSHPWFeWm1mH"
+    },
+    {
+      "added_at": "2025-11-03 23:47:36",
+      "album": {
+        "name": "What U Need",
+        "url": "https://open.spotify.com/album/4LNeZQCIWeE4FYwr64lbf7"
+      },
+      "artists": [
+        {
+          "name": "Tough Break",
+          "url": "https://open.spotify.com/artist/59YvtCKDEG9q6naPqrqykW"
+        }
+      ],
+      "duration_ms": 178324,
+      "name": "What U Need",
+      "url": "https://open.spotify.com/track/4PxnAR2MWPN1YUWFf67M0o"
+    },
+    {
+      "added_at": "2025-11-19 05:00:31",
+      "album": {
+        "name": "Clubbing Euphoria",
+        "url": "https://open.spotify.com/album/2UY6FJ8qXXslTLeVynbg36"
+      },
+      "artists": [
+        {
+          "name": "Klustone",
+          "url": "https://open.spotify.com/artist/26dZMGHT4GJgulxlrToEQu"
+        }
+      ],
+      "duration_ms": 224117,
+      "name": "Clubbing Euphoria",
+      "url": "https://open.spotify.com/track/2pU0HmjwDF5A613eDDfzaR"
+    },
+    {
+      "added_at": "2025-11-19 05:00:31",
+      "album": {
+        "name": "New Friends",
+        "url": "https://open.spotify.com/album/11QjVN1BPy6pdhXiY0BjvO"
+      },
+      "artists": [
+        {
+          "name": "Klarck",
+          "url": "https://open.spotify.com/artist/5NT7YYkRK2xQy2bk3ATwRs"
+        }
+      ],
+      "duration_ms": 144009,
+      "name": "New Friends",
+      "url": "https://open.spotify.com/track/33sT1So3Gnxb0vjHZc6KzL"
     },
     {
       "added_at": "2025-11-03 23:47:36",
@@ -221,6 +329,22 @@
       "url": "https://open.spotify.com/track/2MPYwuSCgp9gHAuWn6uglw"
     },
     {
+      "added_at": "2025-11-03 23:47:36",
+      "album": {
+        "name": "Temptation",
+        "url": "https://open.spotify.com/album/09UBCddDfLF5FeO7ng6agp"
+      },
+      "artists": [
+        {
+          "name": "Delilah",
+          "url": "https://open.spotify.com/artist/0vUOZYWihxoF2IQ2VOckKh"
+        }
+      ],
+      "duration_ms": 180031,
+      "name": "Temptation",
+      "url": "https://open.spotify.com/track/7dcdr6aC8YgjItktSrIe9M"
+    },
+    {
       "added_at": "2025-11-07 05:00:50",
       "album": {
         "name": "In Motion, Always",
@@ -239,22 +363,6 @@
       "duration_ms": 242169,
       "name": "Traits",
       "url": "https://open.spotify.com/track/5ORHUVLPkm6JC3rHYd3Zgt"
-    },
-    {
-      "added_at": "2025-11-14 05:00:38",
-      "album": {
-        "name": "Love to Love",
-        "url": "https://open.spotify.com/album/6jyJWetHgENZW5U0LpIvBF"
-      },
-      "artists": [
-        {
-          "name": "Justin Rabin",
-          "url": "https://open.spotify.com/artist/6BxPifFRPEvAX1gyMxnCmv"
-        }
-      ],
-      "duration_ms": 176744,
-      "name": "Love to Love",
-      "url": "https://open.spotify.com/track/6RREMDJ6ru3YpvboN4Le3q"
     },
     {
       "added_at": "2025-11-12 20:51:22",
@@ -357,6 +465,22 @@
       "url": "https://open.spotify.com/track/2KAPwFhrjd5buT11C8lQgf"
     },
     {
+      "added_at": "2025-11-14 05:00:38",
+      "album": {
+        "name": "tira.miss.u",
+        "url": "https://open.spotify.com/album/5g7ONc50BEP8qWIVx5odIf"
+      },
+      "artists": [
+        {
+          "name": "PatataOnStereo",
+          "url": "https://open.spotify.com/artist/1Oc9GLjfd9AbkyxEwFUxGR"
+        }
+      ],
+      "duration_ms": 140444,
+      "name": "uuuUUUuuu",
+      "url": "https://open.spotify.com/track/5Pom7taieE5CiMlPPbvTXQ"
+    },
+    {
       "added_at": "2025-11-03 23:47:36",
       "album": {
         "name": "are u a lie?",
@@ -427,22 +551,6 @@
       "duration_ms": 148399,
       "name": "CHEQUE",
       "url": "https://open.spotify.com/track/009flBqZSY4hdNr1np95AF"
-    },
-    {
-      "added_at": "2025-11-03 23:47:36",
-      "album": {
-        "name": "Temptation",
-        "url": "https://open.spotify.com/album/09UBCddDfLF5FeO7ng6agp"
-      },
-      "artists": [
-        {
-          "name": "Delilah",
-          "url": "https://open.spotify.com/artist/0vUOZYWihxoF2IQ2VOckKh"
-        }
-      ],
-      "duration_ms": 180031,
-      "name": "Temptation",
-      "url": "https://open.spotify.com/track/7dcdr6aC8YgjItktSrIe9M"
     },
     {
       "added_at": "2025-11-03 23:47:36",
@@ -953,22 +1061,6 @@
       "url": "https://open.spotify.com/track/0Ii2qImvnAB6eFNBHFIMk3"
     },
     {
-      "added_at": "2025-10-15 15:50:03",
-      "album": {
-        "name": "Rose",
-        "url": "https://open.spotify.com/album/2FWgRcrVaVCd712hOnuKsv"
-      },
-      "artists": [
-        {
-          "name": "Mick Jeets",
-          "url": "https://open.spotify.com/artist/2ZHMwBPDOiyjeVrAuI1U5p"
-        }
-      ],
-      "duration_ms": 291942,
-      "name": "Rose",
-      "url": "https://open.spotify.com/track/5U3evjlTdh5UhB18VLESSh"
-    },
-    {
       "added_at": "2025-10-17 04:01:00",
       "album": {
         "name": "You You You You Me Me Me Again",
@@ -1097,22 +1189,6 @@
       "url": "https://open.spotify.com/track/59RtdKvLJOMpruABUpUPUt"
     },
     {
-      "added_at": "2025-09-26 04:00:22",
-      "album": {
-        "name": "Pressure Point",
-        "url": "https://open.spotify.com/album/6BRVXl68iVLOQWHRhTs5ar"
-      },
-      "artists": [
-        {
-          "name": "SHAKING",
-          "url": "https://open.spotify.com/artist/5ymmrBnnRTW23bKo7Fpbx6"
-        }
-      ],
-      "duration_ms": 215294,
-      "name": "Pressure Point",
-      "url": "https://open.spotify.com/track/5XO4FrXgYsNF3FCLguAB6C"
-    },
-    {
       "added_at": "2025-10-10 04:00:38",
       "album": {
         "name": "Timeless",
@@ -1127,42 +1203,6 @@
       "duration_ms": 137994,
       "name": "Timeless",
       "url": "https://open.spotify.com/track/26oeUzITZWkDBFEwHyLAtx"
-    },
-    {
-      "added_at": "2025-10-15 15:50:03",
-      "album": {
-        "name": "RHYTHM",
-        "url": "https://open.spotify.com/album/6q3gXFo6vz9kNOzA4vLEYt"
-      },
-      "artists": [
-        {
-          "name": "MOON",
-          "url": "https://open.spotify.com/artist/4sKb7lHVHjkc5VbDihyHRp"
-        }
-      ],
-      "duration_ms": 223631,
-      "name": "RHYTHM",
-      "url": "https://open.spotify.com/track/3ADmWwDoKMtoVc382iCOQS"
-    },
-    {
-      "added_at": "2025-10-17 04:01:00",
-      "album": {
-        "name": "TURBO",
-        "url": "https://open.spotify.com/album/7tmBjNJVsWvunUe3ZWgw88"
-      },
-      "artists": [
-        {
-          "name": "That Franco",
-          "url": "https://open.spotify.com/artist/7g1wGpkV1xFxx6APTrp7bv"
-        },
-        {
-          "name": "Tripleset",
-          "url": "https://open.spotify.com/artist/6nKHLNZu1sk9nuRvGe6TMC"
-        }
-      ],
-      "duration_ms": 179555,
-      "name": "TURBO 96",
-      "url": "https://open.spotify.com/track/5BDg2R2J5FRc6nb21cPq0s"
     },
     {
       "added_at": "2025-10-10 04:00:38",
@@ -1219,26 +1259,6 @@
       "duration_ms": 192000,
       "name": "Free Yourself",
       "url": "https://open.spotify.com/track/38tYYlgY6fD6HxgnuzdHbi"
-    },
-    {
-      "added_at": "2025-10-08 04:00:15",
-      "album": {
-        "name": "Subliminals",
-        "url": "https://open.spotify.com/album/4h0UdEwMBtj7UmGE2RvLdX"
-      },
-      "artists": [
-        {
-          "name": "Saint Ludo",
-          "url": "https://open.spotify.com/artist/3UBYL8t0DhD4uhJxF0FtGT"
-        },
-        {
-          "name": "Kasst 8",
-          "url": "https://open.spotify.com/artist/1K0CrrXj2Zogdgsyc5GfLs"
-        }
-      ],
-      "duration_ms": 154100,
-      "name": "Subliminals",
-      "url": "https://open.spotify.com/track/2gyn0L8It5sc7Tw8eQlkFY"
     },
     {
       "added_at": "2025-08-29 04:00:44",
@@ -1679,22 +1699,6 @@
       "duration_ms": 176922,
       "name": "It Feels Like",
       "url": "https://open.spotify.com/track/6F2sn9kcsw8z8mgmJrVOyK"
-    },
-    {
-      "added_at": "2025-08-01 04:00:40",
-      "album": {
-        "name": "Steppin' Up!",
-        "url": "https://open.spotify.com/album/7eLbayD38UMImYyleP0YbF"
-      },
-      "artists": [
-        {
-          "name": "Club Angel",
-          "url": "https://open.spotify.com/artist/1reJK6xw6Lu0r1PMoTUTDj"
-        }
-      ],
-      "duration_ms": 199436,
-      "name": "Steppin' Up!",
-      "url": "https://open.spotify.com/track/5WJr34KLTzdcbFjvA6HF7Q"
     },
     {
       "added_at": "2025-07-30 18:26:30",

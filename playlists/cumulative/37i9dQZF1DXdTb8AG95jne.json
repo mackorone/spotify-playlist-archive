@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: The Poles (\ub354 \ud3f4\uc2a4)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: Samui (\uc0ac\ubb88)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "tracks": [
     {
@@ -5146,7 +5146,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 262266,
       "name": "ETERNAL AIRLINE",
       "url": "https://open.spotify.com/track/4hRYW8V4wjnEdQ6jgGa3mo"
@@ -6804,7 +6804,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 188734,
       "name": "go easy go",
       "url": "https://open.spotify.com/track/0kWqAA7MfCM0BBZAxbMJ6o"
@@ -10481,6 +10481,24 @@
     },
     {
       "album": {
+        "name": "Like the Sea, Like the River",
+        "url": "https://open.spotify.com/album/0nbyji1ac3ZqZ3aDFDirod"
+      },
+      "artists": [
+        {
+          "name": "109",
+          "url": "https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh"
+        }
+      ],
+      "date_added": "2025-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249173,
+      "name": "Like the Sea, Like the River",
+      "url": "https://open.spotify.com/track/4qZvldWN1IT5Y2rZ2QYbJX"
+    },
+    {
+      "album": {
         "name": "MINGLE: 'Like today'",
         "url": "https://open.spotify.com/album/4xoSoQdnLy4DSwYR2vmZoG"
       },
@@ -11001,6 +11019,24 @@
     },
     {
       "album": {
+        "name": "Love, After All",
+        "url": "https://open.spotify.com/album/78rLlylzjtm8JpCbFpUQkz"
+      },
+      "artists": [
+        {
+          "name": "GYE0M",
+          "url": "https://open.spotify.com/artist/2nFAl5FcbuagY1zVglLvPc"
+        }
+      ],
+      "date_added": "2025-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237619,
+      "name": "Love, After All",
+      "url": "https://open.spotify.com/track/220eac16XYiepPKj7igHzB"
+    },
+    {
+      "album": {
         "name": "Beautiful World",
         "url": "https://open.spotify.com/album/1AMe7at0N1uF600T7bV7c0"
       },
@@ -11417,6 +11453,28 @@
     },
     {
       "album": {
+        "name": "Dis/Balance",
+        "url": "https://open.spotify.com/album/4zYBL8XXK7QfOa1JL1YyVK"
+      },
+      "artists": [
+        {
+          "name": "Samui",
+          "url": "https://open.spotify.com/artist/0HPaAAfUL4k7xE45xXi5yb"
+        },
+        {
+          "name": "Car, the garden",
+          "url": "https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ"
+        }
+      ],
+      "date_added": "2025-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212250,
+      "name": "Me, Forever (feat. Car, the garden)",
+      "url": "https://open.spotify.com/track/6nNTYLF4VszdIETzoAenvw"
+    },
+    {
+      "album": {
         "name": "Meaningless",
         "url": "https://open.spotify.com/album/2dPStHpSaa9pKPudsLg4Xe"
       },
@@ -11790,7 +11848,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 188000,
       "name": "MIRROR",
       "url": "https://open.spotify.com/track/322ZFlJ5zhErQhaOXnZ1di"
@@ -11964,6 +12022,24 @@
       "duration_ms": 204012,
       "name": "MOOD FOR LOVE",
       "url": "https://open.spotify.com/track/4U46xmSU9CczDNPEUx20OD"
+    },
+    {
+      "album": {
+        "name": "Moondance",
+        "url": "https://open.spotify.com/album/1LYt1Jb1ooZzJWqnfIxdx2"
+      },
+      "artists": [
+        {
+          "name": "TOUCHED",
+          "url": "https://open.spotify.com/artist/5jgIm8tZ4hqLeoHTo9wJIV"
+        }
+      ],
+      "date_added": "2025-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "Moondance",
+      "url": "https://open.spotify.com/track/2KUEKN10jfO8IQ3uUKdynn"
     },
     {
       "album": {
@@ -18236,7 +18312,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 217500,
       "name": "The errand of Love",
       "url": "https://open.spotify.com/track/6Cu9v1zM42SENG7DghjPyG"
@@ -20513,6 +20589,24 @@
     },
     {
       "album": {
+        "name": "Winter Coming Home",
+        "url": "https://open.spotify.com/album/5GV6WrN078ktnoVkouZzXs"
+      },
+      "artists": [
+        {
+          "name": "ARO",
+          "url": "https://open.spotify.com/artist/6ECu2vO8wvgX5pDjYqHEuC"
+        }
+      ],
+      "date_added": "2025-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207987,
+      "name": "Winter Coming Home",
+      "url": "https://open.spotify.com/track/2Tzec1QsW7c9FWw45LyM7l"
+    },
+    {
+      "album": {
         "name": "Nonadaptation \ube44\uc801\uc751",
         "url": "https://open.spotify.com/album/0LnLkLjqu2sk3i0He64odF"
       },
@@ -20618,7 +20712,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 211525,
       "name": "wo ai ni",
       "url": "https://open.spotify.com/track/5FJtLMs3dkq0K28v69lbRb"

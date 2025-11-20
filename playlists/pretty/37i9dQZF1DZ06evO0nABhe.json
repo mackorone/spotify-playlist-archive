@@ -1,12 +1,12 @@
 {
   "description": "This is Story Of The Year. The essential tracks, all in one playlist.",
-  "num_followers": 11530,
+  "num_followers": 11539,
   "original_name": "This Is Story Of The Year",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRplgAAAAAC/1Tg6us2i8BESewZQICf0",
+  "snapshot_id": "aRu3AAAAAABfoKPudcogeIm0+duklwpx",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gasoline (All Rage Still Only Numb)",
-        "url": "https://open.spotify.com/album/3e6DAPGeNe2rwiwBOmvqVR"
-      },
-      "artists": [
-        {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
-        }
-      ],
-      "duration_ms": 179220,
-      "name": "Gasoline (All Rage Still Only Numb)",
-      "url": "https://open.spotify.com/track/2HOOOhhR7w9gaN5v9kpgHQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tear Me to Pieces",
         "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 174283,
       "name": "War",
       "url": "https://open.spotify.com/track/1ED1SD4TRK5NprtJ837Eaa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gasoline (All Rage Still Only Numb)",
+        "url": "https://open.spotify.com/album/3e6DAPGeNe2rwiwBOmvqVR"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "duration_ms": 179220,
+      "name": "Gasoline (All Rage Still Only Numb)",
+      "url": "https://open.spotify.com/track/2HOOOhhR7w9gaN5v9kpgHQ"
     },
     {
       "added_at": null,
@@ -91,6 +91,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tear Me to Pieces",
+        "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "duration_ms": 164621,
+      "name": "Real Life",
+      "url": "https://open.spotify.com/track/0Aikw6pM5DPLOu4o9Vmf3P"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "GALLOWS",
         "url": "https://open.spotify.com/album/3dnGOG8oUIbQHvTda0s8i4"
       },
@@ -107,22 +123,6 @@
       "duration_ms": 182266,
       "name": "Fell So Hard, Felt So Right - feat. Story Of The Year",
       "url": "https://open.spotify.com/track/5580dJLUADgZBviPFLPGD4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tear Me to Pieces",
-        "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
-      },
-      "artists": [
-        {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
-        }
-      ],
-      "duration_ms": 164621,
-      "name": "Real Life",
-      "url": "https://open.spotify.com/track/0Aikw6pM5DPLOu4o9Vmf3P"
     },
     {
       "added_at": null,
@@ -159,22 +159,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wolves",
-        "url": "https://open.spotify.com/album/17q9CmOhDYE5vu1wGRWfzi"
-      },
-      "artists": [
-        {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
-        }
-      ],
-      "duration_ms": 223808,
-      "name": "Bang Bang",
-      "url": "https://open.spotify.com/track/2T8MP8QR1qP6XhCFJj4wxa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tear Me to Pieces",
         "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 176805,
       "name": "Tear Me to Pieces",
       "url": "https://open.spotify.com/track/4o8iQ9HKmZP0D7eRcTnW0g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wolves",
+        "url": "https://open.spotify.com/album/17q9CmOhDYE5vu1wGRWfzi"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "duration_ms": 223808,
+      "name": "Bang Bang",
+      "url": "https://open.spotify.com/track/2T8MP8QR1qP6XhCFJj4wxa"
     },
     {
       "added_at": null,
@@ -227,22 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wolves",
-        "url": "https://open.spotify.com/album/17q9CmOhDYE5vu1wGRWfzi"
-      },
-      "artists": [
-        {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
-        }
-      ],
-      "duration_ms": 231137,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/0vYWk3uQezVYj9AU0yn8Mn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tear Me to Pieces",
         "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 171729,
       "name": "2005",
       "url": "https://open.spotify.com/track/3NaU2caYQRDURRWaQMQgVf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wolves",
+        "url": "https://open.spotify.com/album/17q9CmOhDYE5vu1wGRWfzi"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "duration_ms": 231137,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/0vYWk3uQezVYj9AU0yn8Mn"
     },
     {
       "added_at": null,
@@ -291,22 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Constant (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5w2zfZyYBVlN3gE7ld5Zkg"
-      },
-      "artists": [
-        {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
-        }
-      ],
-      "duration_ms": 235280,
-      "name": "The Ghost Of You and I",
-      "url": "https://open.spotify.com/track/7zRqTH0txMQBLp2yWRASma"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tear Me to Pieces",
         "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 209897,
       "name": "Sorry About Me",
       "url": "https://open.spotify.com/track/0UdlrnL1aAlhEHGL2xexmW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Constant (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5w2zfZyYBVlN3gE7ld5Zkg"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "duration_ms": 235280,
+      "name": "The Ghost Of You and I",
+      "url": "https://open.spotify.com/track/7zRqTH0txMQBLp2yWRASma"
     },
     {
       "added_at": null,
@@ -355,22 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wolves",
-        "url": "https://open.spotify.com/album/17q9CmOhDYE5vu1wGRWfzi"
-      },
-      "artists": [
-        {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
-        }
-      ],
-      "duration_ms": 260285,
-      "name": "I Swear I'm Okay",
-      "url": "https://open.spotify.com/track/5aytmxtUYILFEJ3XF2YX0B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tear Me to Pieces",
         "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 178318,
       "name": "Take the Ride",
       "url": "https://open.spotify.com/track/2jCiOgOBe4U3OCk3OQXGVC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wolves",
+        "url": "https://open.spotify.com/album/17q9CmOhDYE5vu1wGRWfzi"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "duration_ms": 260285,
+      "name": "I Swear I'm Okay",
+      "url": "https://open.spotify.com/track/5aytmxtUYILFEJ3XF2YX0B"
     },
     {
       "added_at": null,
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wolves",
-        "url": "https://open.spotify.com/album/17q9CmOhDYE5vu1wGRWfzi"
-      },
-      "artists": [
-        {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
-        }
-      ],
-      "duration_ms": 268870,
-      "name": "Can Anybody Hear Me",
-      "url": "https://open.spotify.com/track/6GxKFZkRFlNdN3llZgut2p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In the Wake of Determination",
         "url": "https://open.spotify.com/album/5IOgRGEVVKdFVuqL88I7sy"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 209480,
       "name": "Stereo",
       "url": "https://open.spotify.com/track/7lB6JUMr99cuU1EfSl8yC6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wolves",
+        "url": "https://open.spotify.com/album/17q9CmOhDYE5vu1wGRWfzi"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "duration_ms": 268870,
+      "name": "Can Anybody Hear Me",
+      "url": "https://open.spotify.com/track/6GxKFZkRFlNdN3llZgut2p"
     },
     {
       "added_at": null,
@@ -487,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Black Swan",
-        "url": "https://open.spotify.com/album/0Qk9nVlmC49ZNo9j14khzF"
-      },
-      "artists": [
-        {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
-        }
-      ],
-      "duration_ms": 243320,
-      "name": "We're Not Gonna Make It",
-      "url": "https://open.spotify.com/track/4YhclXQSlBbgbyFV3uZ8sI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In the Wake of Determination",
         "url": "https://open.spotify.com/album/5IOgRGEVVKdFVuqL88I7sy"
       },
@@ -519,38 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wolves",
-        "url": "https://open.spotify.com/album/17q9CmOhDYE5vu1wGRWfzi"
-      },
-      "artists": [
-        {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
-        }
-      ],
-      "duration_ms": 241663,
-      "name": "A Part of Me",
-      "url": "https://open.spotify.com/track/4tXuOhxMwPa2LlxxWf4OvL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Constant (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5w2zfZyYBVlN3gE7ld5Zkg"
-      },
-      "artists": [
-        {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
-        }
-      ],
-      "duration_ms": 232453,
-      "name": "The Dream Is Over",
-      "url": "https://open.spotify.com/track/6wffAUccqKIcvdNiqgJzEA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Black Swan",
         "url": "https://open.spotify.com/album/0Qk9nVlmC49ZNo9j14khzF"
       },
@@ -560,25 +512,9 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 240240,
-      "name": "Terrified",
-      "url": "https://open.spotify.com/track/1phS2i2pPfpTsJEQMw5WNA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In the Wake of Determination",
-        "url": "https://open.spotify.com/album/5IOgRGEVVKdFVuqL88I7sy"
-      },
-      "artists": [
-        {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
-        }
-      ],
-      "duration_ms": 247893,
-      "name": "Our Time Is Now",
-      "url": "https://open.spotify.com/track/24Y8cCGAmSsTwdBaHAvGKH"
+      "duration_ms": 243320,
+      "name": "We're Not Gonna Make It",
+      "url": "https://open.spotify.com/track/4YhclXQSlBbgbyFV3uZ8sI"
     },
     {
       "added_at": null,
@@ -608,9 +544,25 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 233280,
-      "name": "Ten Years Down",
-      "url": "https://open.spotify.com/track/3P43WpBHNxj5wMqSNWCp75"
+      "duration_ms": 232453,
+      "name": "The Dream Is Over",
+      "url": "https://open.spotify.com/track/6wffAUccqKIcvdNiqgJzEA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In the Wake of Determination",
+        "url": "https://open.spotify.com/album/5IOgRGEVVKdFVuqL88I7sy"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "duration_ms": 247893,
+      "name": "Our Time Is Now",
+      "url": "https://open.spotify.com/track/24Y8cCGAmSsTwdBaHAvGKH"
     },
     {
       "added_at": null,
@@ -624,9 +576,41 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 224480,
-      "name": "The Black Swan",
-      "url": "https://open.spotify.com/track/7q1pSEtLgDg7ZErzoNWTHS"
+      "duration_ms": 240240,
+      "name": "Terrified",
+      "url": "https://open.spotify.com/track/1phS2i2pPfpTsJEQMw5WNA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wolves",
+        "url": "https://open.spotify.com/album/17q9CmOhDYE5vu1wGRWfzi"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "duration_ms": 241663,
+      "name": "A Part of Me",
+      "url": "https://open.spotify.com/track/4tXuOhxMwPa2LlxxWf4OvL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Constant (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5w2zfZyYBVlN3gE7ld5Zkg"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "duration_ms": 233280,
+      "name": "Ten Years Down",
+      "url": "https://open.spotify.com/track/3P43WpBHNxj5wMqSNWCp75"
     },
     {
       "added_at": null,
@@ -643,6 +627,22 @@
       "duration_ms": 223668,
       "name": "Taste the Poison",
       "url": "https://open.spotify.com/track/6dVIydL35YwvTjDCT4738d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Black Swan",
+        "url": "https://open.spotify.com/album/0Qk9nVlmC49ZNo9j14khzF"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "duration_ms": 224480,
+      "name": "The Black Swan",
+      "url": "https://open.spotify.com/track/7q1pSEtLgDg7ZErzoNWTHS"
     },
     {
       "added_at": null,

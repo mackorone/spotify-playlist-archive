@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 
 > Popkillery rozdane! Posłuchaj zwycięzców i wszystkich nominowanych utworów w kategorii singiel roku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,697 likes - 61 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,694 likes - 61 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 | 11 | [MAMA POWTARZAŁA](https://open.spotify.com/track/5y0CCj9ENhM4G3gebGlnzb) | [Sobel](https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH), [Deemz](https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt) | [W ZWIĄZKU Z MUZYKĄ](https://open.spotify.com/album/2yVDUnBqTF1sQ0SmUqEezy) | 3:22 |
 | 12 | [PO CO?](https://open.spotify.com/track/28hqNGfxgIuYTcdLi8LJwl) | [Kinny Zimmer](https://open.spotify.com/artist/19zuiWthJYU6FCqnV4mJYC), [Kaptur](https://open.spotify.com/artist/4NJA8jbfxc4daVM2wi9ybd) | [PO CO?](https://open.spotify.com/album/0JSmUGdVhg4AbiB4ukIVbH) | 3:03 |
 | 13 | [Prawie straciłem głos](https://open.spotify.com/track/2CJoMNzcvbpV38fKqAOaQ3) | [Chivas](https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA) | [Prawie straciłem głos](https://open.spotify.com/album/6QwBC5xO7nwwmb3SzDUuAr) | 2:24 |
-| 14 | [NAPALONE FANKI](https://open.spotify.com/track/4OWBn64RFLynn4o4KMwkF1) | [Eryk Moczko](https://open.spotify.com/artist/6BqCCSNavmsoUg5WLnQGhd), [MIÜ](https://open.spotify.com/artist/5NpwJ9XcZH35RxF2PUIqs2), [Bedoes 2115](https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74) | [V24](https://open.spotify.com/album/4joqm6ZEgf3TursOzJNxFW) | 3:07 |
-| 15 | [DAM CI PORADY](https://open.spotify.com/track/4Sjv6Bty0JoFgCP63fyiAM) | [vkie](https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v), [Gmeniu](https://open.spotify.com/artist/2ahqO5ra5nDrvVfvR851Xj) | [DAM CI PORADY](https://open.spotify.com/album/3IPHo1XY2cDWezSHGl1P5W) | 3:29 |
+| 14 | [DAM CI PORADY](https://open.spotify.com/track/4Sjv6Bty0JoFgCP63fyiAM) | [vkie](https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v), [Gmeniu](https://open.spotify.com/artist/2ahqO5ra5nDrvVfvR851Xj) | [DAM CI PORADY](https://open.spotify.com/album/3IPHo1XY2cDWezSHGl1P5W) | 3:29 |
+| 15 | [NAPALONE FANKI](https://open.spotify.com/track/4OWBn64RFLynn4o4KMwkF1) | [Eryk Moczko](https://open.spotify.com/artist/6BqCCSNavmsoUg5WLnQGhd), [MIÜ](https://open.spotify.com/artist/5NpwJ9XcZH35RxF2PUIqs2), [Bedoes 2115](https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74) | [V24](https://open.spotify.com/album/4joqm6ZEgf3TursOzJNxFW) | 3:07 |
 | 16 | [Woda Księżycowa](https://open.spotify.com/track/5QOdYa6XQMdIm6fMYhjHQk) | [Kubi Producent](https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht), [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [Fukaj](https://open.spotify.com/artist/3bS0MLzGAoO6lLUy7gguHY), [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [Woda Księżycowa](https://open.spotify.com/album/3RvFmDnX4xSUsjgvHpB0wb) | 3:11 |
 | 17 | [Multisport](https://open.spotify.com/track/5P1qwR2V4a5EFDrsztWqaZ) | [Kaz Bałagane](https://open.spotify.com/artist/2GzZAv52VCMdVli7QzkteT), [Oskar83](https://open.spotify.com/artist/7BIHYaTeyOxOKV7EyHF0Z4) | [Multisport](https://open.spotify.com/album/0N2RrkBLMYNnPvsrRYOJsa) | 2:59 |
 | 18 | [1 na 100](https://open.spotify.com/track/7q2axmQBSD88VaASEJ9oX4) | [White 2115](https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd), [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id), [Pedro](https://open.spotify.com/artist/2LI7lXaNJU420lffFWJUcT), [Brojustchill](https://open.spotify.com/artist/2HGryFNNmXo0zLT2fG8VKP) | [1 na 100](https://open.spotify.com/album/1eMRkYLNzESSOcItnPYyvW) | 3:07 |

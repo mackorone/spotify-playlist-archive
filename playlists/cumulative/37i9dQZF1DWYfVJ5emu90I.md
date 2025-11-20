@@ -4,7 +4,7 @@
 
 > Heavy beats for midnight drifting in Tokyo.
 
-207 songs - 10 hr 1 min
+208 songs - 10 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,11 +72,12 @@
 | [Get Back \(feat\. JUMADIBA & Watson\)](https://open.spotify.com/track/2L4TksDkTcAfZXGNjpdQqG) | [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj), [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX) | [Get Back \(feat\. JUMADIBA & Watson\)](https://open.spotify.com/album/3tEL6DBYyXvtDSmQBDNog5) | 3:27 | 2024-02-27 |  |
 | [GILA GILA](https://open.spotify.com/track/3LSALxSMhVUQoGN2zwxy1n) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [YZERR](https://open.spotify.com/artist/7z8eFxohsIg2Tu5evbNXXo) | [GILA GILA](https://open.spotify.com/album/5v5FfoofCu2Ouflu1GusIN) | 4:11 | 2022-11-19 |  |
 | [Go](https://open.spotify.com/track/1bdbr1uDAQMVxY9HXts4uW) | [Hideyoshi](https://open.spotify.com/artist/6CYau5txsDk6Flq7NmlUG7), [Benjazzy](https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb) | [Resurrection](https://open.spotify.com/album/3h5PA716UNNgWEl2HW1nSJ) | 3:25 | 2022-11-19 | 2024-04-19 |
-| [Go \(feat\. Benjazzy\)](https://open.spotify.com/track/0IWdo0wOFJ8eZkWVyvO0k2) | [Hideyoshi](https://open.spotify.com/artist/6CYau5txsDk6Flq7NmlUG7), [Benjazzy](https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb) | [Resurrection](https://open.spotify.com/album/4vecEKI94F7T7mldPgdq6q) | 3:25 | 2023-05-23 |  |
+| [Go \(feat\. Benjazzy\)](https://open.spotify.com/track/0IWdo0wOFJ8eZkWVyvO0k2) | [Hideyoshi](https://open.spotify.com/artist/6CYau5txsDk6Flq7NmlUG7), [Benjazzy](https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb) | [Resurrection](https://open.spotify.com/album/4vecEKI94F7T7mldPgdq6q) | 3:25 | 2023-05-23 | 2025-11-20 |
 | [GO DJ \-Hey Daddy\-](https://open.spotify.com/track/21xKPhAaZmBqsPuYnHXH6P) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [GO DJ \-Hey Daddy\-](https://open.spotify.com/album/2ARgvASgYGWkj8DxjwhafO) | 1:44 | 2024-05-28 | 2024-06-30 |
 | [GO DJ \-Hey Daddy\-](https://open.spotify.com/track/4z0KvxFBl2TJA9bBZtXJem) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [GO DJ \-Hey Daddy\-](https://open.spotify.com/album/04Q1klLYpyplEou1uzZdEJ) | 1:44 | 2023-06-21 | 2023-07-05 |
 | [Gotta go](https://open.spotify.com/track/0nnFFROaJSapPjoDzzVHUM) | [RØØ](https://open.spotify.com/artist/1Z11WA68F90uo1fCYA16Yl), [Jinmenusagi](https://open.spotify.com/artist/5QSm6dJVv4soCzV7rv4QqE) | [Gotta go](https://open.spotify.com/album/2oOaikSaRa7PQjPKt35hHv) | 2:37 | 2022-11-19 | 2023-12-14 |
 | [Gotta go \(feat\. Jinmenusagi\)](https://open.spotify.com/track/4dvAGWWCRj44F1vk6ohEQt) | [RØØ](https://open.spotify.com/artist/1Z11WA68F90uo1fCYA16Yl), [Jinmenusagi](https://open.spotify.com/artist/5QSm6dJVv4soCzV7rv4QqE) | [Gotta go \(feat\. Jinmenusagi\)](https://open.spotify.com/album/3kyZM8PgjFDdOADYeT1aGJ) | 2:37 | 2024-02-27 | 2024-10-31 |
+| [HATERS](https://open.spotify.com/track/5fgglJEebJkxZ9K2WXl9n9) | [Benjazzy](https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb) | [UNTIL](https://open.spotify.com/album/4fgxqE5qY4QFwtOiA4TaWJ) | 2:17 | 2025-11-19 |  |
 | [Haunted Woods](https://open.spotify.com/track/67Q3ewenfVGwKW3XRD0owt) | [tanta](https://open.spotify.com/artist/6eKqglYANhgKUkoKI6QxBz), [rirugiliyangugili](https://open.spotify.com/artist/2ojo5MBGfvdfO3Iql07wu9) | [Haunted Woods](https://open.spotify.com/album/66dAWUgWUgGZ5l0u1W2kGu) | 2:14 | 2022-11-19 | 2023-05-24 |
 | [Honey Buns \(feat\. Awich\)](https://open.spotify.com/track/0C6dB6iIQRiZLgcdikCoEM) | [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [Honey Buns \(feat\. Awich\)](https://open.spotify.com/album/56MsWrdkn94VqL4xh8iMMj) | 3:52 | 2024-06-12 | 2025-07-01 |
 | [Hooligan](https://open.spotify.com/track/3Ijtgzo3xvQx6pScNesUQi) | [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK), [ANARCHY](https://open.spotify.com/artist/1zHcoqaTvlZdEd7CUjk2eI) | [THE NEVER SURRENDERS COMPILATION](https://open.spotify.com/album/4TckoJML1WUe5agHaARdri) | 2:37 | 2024-02-27 |  |

@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Wiktoria Kida
 
-653 songs - 1 day 7 hr 56 min
+654 songs - 1 day 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Czas](https://open.spotify.com/track/7qj1lu6yxDl5GTnSItuIdh) | [Filip Max](https://open.spotify.com/artist/2Af5aejlBF2UrIn1xmPWJ5) | [Czas](https://open.spotify.com/album/0W6CLUac2XfDjfURHOzF4V) | 2:06 | 2025-09-30 | 2025-11-02 |
 | [Czas](https://open.spotify.com/track/2TnAYZzFHlBG42HtRItZ04) | [Markus ivi](https://open.spotify.com/artist/2tqi9ifoIBbWNsUxzzscaY) | [Ptaki](https://open.spotify.com/album/5ZCDmvazUKV7RbKBSQX9Di) | 3:55 | 2025-06-19 | 2025-09-05 |
 | [CZAS NA SEN](https://open.spotify.com/track/6LulbqWDMnl1odFxtKWAzi) | [Karolina Prasał](https://open.spotify.com/artist/1hQJVFqdypfYIUK91Pzadr) | [CZAS NA SEN](https://open.spotify.com/album/7xaxcinwclcWFuJN61intz) | 2:44 | 2025-02-13 | 2025-02-23 |
+| [Czemu pozwoliłeś kochać?](https://open.spotify.com/track/00ITfmQnKbU69YUMimdI1U) | [Iga Jaworska](https://open.spotify.com/artist/7vZNNXqodOE1TWpiZnSqYv) | [Czemu pozwoliłeś kochać?](https://open.spotify.com/album/4iz3J2ypdRCNHmF406gHOx) | 2:30 | 2025-11-18 |  |
 | [Czerwiec](https://open.spotify.com/track/5DOmpafBNAJrBoZZHigYfX) | [Dawid Tyszkowski](https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K), [Piotr Odoszewski](https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk) | [Czerwiec](https://open.spotify.com/album/0vbtP4aOHMxfXwbMvPqaUd) | 5:17 | 2025-10-07 |  |
 | [cześć](https://open.spotify.com/track/6AS5rQyTrxZhx78KLODdo8) | [iga casp](https://open.spotify.com/artist/3voDFCGW20SxhuZ8Far400), [Norbert Wronka](https://open.spotify.com/artist/5jPmnL6vRtGz8pNWsv7ujq) | [cześć](https://open.spotify.com/album/3BVpfC5UOknCXhYprn9mfb) | 3:03 | 2024-06-28 | 2024-07-27 |
 | [czuje sie jak w orange county](https://open.spotify.com/track/5NTx74dnDrvRbnGhiBAyoB) | [wiśniosz](https://open.spotify.com/artist/4UcIjZwZDS7epHIoNUtwzu) | [czuje sie jak w orange county](https://open.spotify.com/album/6RbfzOC39Tv7VwAozhJYb0) | 3:08 | 2024-06-28 | 2024-08-31 |
@@ -166,7 +167,7 @@
 | [EDEN](https://open.spotify.com/track/1tm0wcb70ojuKjvFUo1Tsd) | [ORKID](https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG) | [EDEN](https://open.spotify.com/album/0N9FSY1ZPYkkySGVQYcswA) | 3:22 | 2025-03-27 | 2025-07-04 |
 | [Eden](https://open.spotify.com/track/08jFD3rM4Te1f0pNIBDufn) | [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5) | [Eden](https://open.spotify.com/album/3KTzupD13J5RuaHdTwsCDl) | 3:23 | 2025-11-11 |  |
 | [epicentrum](https://open.spotify.com/track/2gCNm0DrdB0kbhFSfGsC0O) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [epicentrum](https://open.spotify.com/album/5Nnjs9uBxHkRpn3t2yn5my) | 2:19 | 2024-07-25 | 2025-01-24 |
-| [ernest](https://open.spotify.com/track/4N283rSr7iWXEzdUJE2VRI) | [zofia justyńska](https://open.spotify.com/artist/54S3G0C8oIzH1Va5WpIHS4) | [ernest](https://open.spotify.com/album/4Q9f6v9fVFZz8MyNgIFozL) | 4:23 | 2025-09-23 |  |
+| [ernest](https://open.spotify.com/track/4N283rSr7iWXEzdUJE2VRI) | [zofia justyńska](https://open.spotify.com/artist/54S3G0C8oIzH1Va5WpIHS4) | [ernest](https://open.spotify.com/album/4Q9f6v9fVFZz8MyNgIFozL) | 4:23 | 2025-09-23 | 2025-11-20 |
 | [ESCAPE](https://open.spotify.com/track/2Dlc3NKzeU8xybT6R8iQm0) | [zuziula](https://open.spotify.com/artist/4QlrRdWN1OxIPPK5tWWang), [Phatrax](https://open.spotify.com/artist/1EWSmJHrwXmAaXOxD4uHg7) | [ESCAPE](https://open.spotify.com/album/2S1RHUOQRRqDPkVmxVSLHA) | 2:33 | 2025-05-29 | 2025-09-24 |
 | [Everything Changes \(But I Won't\)](https://open.spotify.com/track/2WGOTUuDEW2NxuJVFWvmcB) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Louder, Please](https://open.spotify.com/album/79SqMfih2FN1NaLtZUcccG) | 3:51 | 2025-01-23 | 2025-03-21 |
 | [Fake ID](https://open.spotify.com/track/5gcokYc6au92x8EUbgJ3KR) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [Fake ID](https://open.spotify.com/album/5QGGbcVRxSnDuRdQXJsKq2) | 2:32 | 2024-06-28 | 2024-10-05 |
@@ -301,7 +302,7 @@
 | [MAZZY STAR](https://open.spotify.com/track/6opbogQthtVP3KyPlMJXJK) | [Julia Pośnik](https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX) | [MAZZY STAR](https://open.spotify.com/album/0alyr4UdNAcPFa0IPHfQ0k) | 2:34 | 2025-03-27 | 2025-05-02 |
 | [mała, daj sobie na luz](https://open.spotify.com/track/11Kim6INx9R8HnpMXQQFpG) | [Klaudia](https://open.spotify.com/artist/3dWkm8gaXw4aS2fKk36z2o) | [mała, daj sobie na luz](https://open.spotify.com/album/5jiJ70OENZN67N012ADkPM) | 2:31 | 2025-04-24 | 2025-07-04 |
 | [Małe dziś](https://open.spotify.com/track/3sIornJF32cn0T0RDe6wju) | [Oliwia Twardosz](https://open.spotify.com/artist/1UqrpPxGWQc9QXRqElmBCF) | [Małe dziś](https://open.spotify.com/album/6cyVfS7S8tCi05weOltCa8) | 3:35 | 2025-01-09 | 2025-01-24 |
-| [Mały Książę](https://open.spotify.com/track/4Fb8kcZaeklt4TypJgRm1V) | [Fida](https://open.spotify.com/artist/6bXkQoRLIyuiEdKa1PUyt6) | [Mały Książę](https://open.spotify.com/album/1qCfiwWZQttvAljU1SZpLp) | 3:00 | 2025-11-11 | 2025-11-19 |
+| [Mały Książę](https://open.spotify.com/track/4Fb8kcZaeklt4TypJgRm1V) | [Fida](https://open.spotify.com/artist/6bXkQoRLIyuiEdKa1PUyt6) | [Mały Książę](https://open.spotify.com/album/1qCfiwWZQttvAljU1SZpLp) | 3:00 | 2025-11-11 |  |
 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 | 2025-01-23 | 2025-05-16 |
 | [Metro i pałac](https://open.spotify.com/track/1JF7UKCVrFaXZBA7UTMWXG) | [SaMa](https://open.spotify.com/artist/4xEYSiX0oZb4EkmDnu60Tt) | [Metro i pałac](https://open.spotify.com/album/2sgmkk8GKcXxz10fb8cnvI) | 3:12 | 2024-06-28 | 2024-08-02 |
 | [MIAMI VICE](https://open.spotify.com/track/6cvLck4RJ9yABjPuSQrx6w) | [NEL](https://open.spotify.com/artist/3gC2pjwYVTQdMuHUucgODF) | [MIAMI VICE](https://open.spotify.com/album/5XBFcO4GD7rNxenfYE5ZoU) | 2:14 | 2024-06-28 | 2024-11-22 |
@@ -522,7 +523,7 @@
 | [Stranger](https://open.spotify.com/track/6qcNQVplYV2f3Ra6PniM5t) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Stranger](https://open.spotify.com/album/71GP0asXIktlgEL8t3qcyk) | 2:14 | 2025-07-10 | 2025-09-24 |
 | [Syriusz Black](https://open.spotify.com/track/40H7zSUClxjh5Wz3IXiy8J) | [Prometh](https://open.spotify.com/artist/6saU4WOQFf2JMuZZHNVqWX) | [Syriusz Black](https://open.spotify.com/album/6XSYlXmWtXDhuDzNYB0JfF) | 2:58 | 2024-07-11 | 2024-09-28 |
 | [Szach i mat](https://open.spotify.com/track/5QJD59lfNELT6Lgv9S4KvV) | [Natalia Zastępa](https://open.spotify.com/artist/7bXYYWnAtHMVj0lSOHryno) | [Szach i mat](https://open.spotify.com/album/2W1QxAsVDF9EHlJfNsYPRh) | 2:40 | 2024-07-18 | 2024-12-21 |
-| [szał uniesień](https://open.spotify.com/track/2UbP0gxYrkA4CURZjhUlDo) | [adaś.](https://open.spotify.com/artist/63Zfzws3zct6H4L21p9WBT) | [szał uniesień](https://open.spotify.com/album/1qJ9UbacO954tQdktoddmd) | 3:12 | 2025-10-21 |  |
+| [szał uniesień](https://open.spotify.com/track/2UbP0gxYrkA4CURZjhUlDo) | [adaś.](https://open.spotify.com/artist/63Zfzws3zct6H4L21p9WBT) | [szał uniesień](https://open.spotify.com/album/1qJ9UbacO954tQdktoddmd) | 3:12 | 2025-10-21 | 2025-11-20 |
 | [szczeniak](https://open.spotify.com/track/5o2lw4fkXIqa7DAEVOhoZL) | [wiśniosz](https://open.spotify.com/artist/4UcIjZwZDS7epHIoNUtwzu) | [szczeniak](https://open.spotify.com/album/68aDKhVBwIXsX48odWmoe4) | 2:33 | 2024-09-13 | 2024-11-08 |
 | [szczerze, mega mocne](https://open.spotify.com/track/11kYDoSAlArh9NwUqYkH2v) | [Aleksander Kępka](https://open.spotify.com/artist/4G5MUSlOocInMqJAwe2A6x), [Ghosty](https://open.spotify.com/artist/4sqVihUCnOHMXHrhEQczy2) | [szczerze, mega mocne](https://open.spotify.com/album/1R2RIFqYopV7N0L6QlKARu) | 2:33 | 2025-10-21 |  |
 | [szczęście](https://open.spotify.com/track/5GAEmJzxcoKZTJgFU8Yeem) | [shama](https://open.spotify.com/artist/1HhRfvC2bS9XeeiR5I5UmI) | [loki](https://open.spotify.com/album/7JwSGQN2SSTvzr36iZQpK4) | 2:53 | 2025-06-05 | 2025-06-23 |

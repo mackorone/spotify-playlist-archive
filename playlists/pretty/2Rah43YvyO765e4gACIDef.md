@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/2Rah43YvyO765e4gACIDef.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Don't Save Me](https://open.spotify.com/track/6Je5Vjd8VXVpQYcOiav5KU) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Days Are Gone](https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf) | 3:50 |
+| 1 | [Don't Save Me](https://open.spotify.com/track/6Je5Vjd8VXVpQYcOiav5KU) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Days Are Gone](https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf) | 3:51 |
 | 2 | [The Mother We Share](https://open.spotify.com/track/3PvzvltQZLIKk9YgoMP3Yq) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [The Bones Of What You Believe \(Special Edition\)](https://open.spotify.com/album/54IMJ8S0redmP6krSlKZLD) | 3:10 |
 | 3 | [History Eraser](https://open.spotify.com/track/7IhJ6AUhlSpNLVRBTdptsH) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [The Double Ep: A Sea of Split Peas](https://open.spotify.com/album/2Tj0T4o9svdk19AjADY4lx) | 3:28 |
 | 4 | [Celebrity Skin](https://open.spotify.com/track/2V4Bc2I962j7acQj1N0PiQ) | [Hole](https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn) | [Celebrity Skin](https://open.spotify.com/album/2KE8WCHtD8qnAxXeIzNEId) | 2:42 |

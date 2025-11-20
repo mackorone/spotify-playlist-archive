@@ -2,9 +2,9 @@
 
 ### [New Music Wednesday](https://open.spotify.com/playlist/37i9dQZF1DWYBDycFJuxRt)
 
-> 今週も話題の新曲を最速で。 Cover: Mega Shinnosuke \*👉 <a href="https://spice.eplus.jp/articles/342029">連動記事</a>をSPICEでチェック!
+> 今週も話題の新曲を最速で。 Cover: Mega Shinnosuke \*👉 <a href="https://spice.eplus.jp/articles/342164">連動記事</a>をSPICEでチェック!
 
-12,765 songs - 33 day 11 hr 29 min
+12,766 songs - 33 day 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [2025/10/8 RADWIMPSがニューアルバムをリリース！羊文学のニューアルバムも！スピッツ、ポルノグラフィティの新曲も！柴田聡子、Elle Teresa、Le Makeupによるコラボ新曲もピックアップ！](https://open.spotify.com/episode/1IumX2WOBHXfAMG3lNtFN7) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 19:30 | 2025-10-08 | 2025-10-15 |
 | [2025/11/05 Billyrromインタビュー配信！ROTH BART BARONのニューアルバム、7coと王ADENのコラボ曲、婦人倶楽部のニューアルバムもピックアップ！](https://open.spotify.com/episode/4zzXMwVYGxCRhrpewyfhqu) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 1:04:04 | 2025-11-05 | 2025-11-12 |
 | [2025/11/12 TOMOOがニューアルバムをリリース！LEXのショートインタビューも配信！ロザリア、友成空、モノンクルの新作もピックアップ！](https://open.spotify.com/episode/1MSh1ABsWYBf45Pc8k5ja6) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 29:51 | 2025-11-12 | 2025-11-19 |
+| [2025/11/19 TOMOOインタビュー配信！Mega Shinnosukeのニューアルバム、RADWIMPSトリビュートアルバム、星野源、tofubeatsの新曲もピックアップ！！](https://open.spotify.com/episode/3d1HzpWStRAqLeZbH6TUQx) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 1:01:10 | 2025-11-19 |  |
 | [2025/2/12 斉藤和義がカバー！YZERRの1stアルバムや唾奇の新曲も！Early Noiseアーティストブランデー戦記の新曲や、『第59回NFLスーパーボウル』のパフォーマンスに合わせてリリースされたSZAの楽曲もピックアップ！](https://open.spotify.com/episode/1vAoqJPileEKMdDVx4h4hs) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 21:57 | 2025-02-12 | 2025-02-19 |
 | [2025/2/19 AKASAKIが新曲をリリース！緑黄色社会のインタビューも到着！LANA、Medusa、E.V.P、IFEのコラボソング、キタニタツヤの新曲もピックアップ！！](https://open.spotify.com/episode/6cD571DZakH1SM5EVQNEFV) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 52:58 | 2025-02-19 | 2025-02-26 |
 | [2025/2/26 yamaがindigo la Endを迎えた新曲をリリース！！G\-DRAGON\(BIGBANG\)の8年ぶりのニューアルバムやONE OK ROCKのニューアルバムも！ShowyVICTOR初のスタジオアルバム、注目のバンドluvもピックアップ！](https://open.spotify.com/episode/0NUfAAE0YlBNtdaRdnKNkQ) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 20:19 | 2025-02-26 | 2025-03-05 |
@@ -4964,7 +4965,7 @@
 | [Naimononedari](https://open.spotify.com/track/3o8bAr8xAgnlkdq8Dd6IvO) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [11th Album Kioku no Toshokan](https://open.spotify.com/album/6fMoOjoupQC9dszgcKkhj6) | 4:05 | 2023-05-31 | 2023-06-07 |
 | [NAIMONONEDARI](https://open.spotify.com/track/1btRS4ModBer2vwW8wTIFW) | [vividboooy](https://open.spotify.com/artist/2HdFwTHtgBqm7EdJsViK6F) | [NAIMONONEDARI](https://open.spotify.com/album/0LDig5jTGnmcEmoFOcrRiE) | 2:38 | 2025-09-23 | 2025-10-01 |
 | [Naitokeba Yokatta](https://open.spotify.com/track/3peHF4gr5QvwgeAoM3ElXp) | [NEE](https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH) | [Naitokeba Yokatta](https://open.spotify.com/album/3zJcDgm5S3uY5Aj3Ed6LFZ) | 3:01 | 2023-09-27 | 2023-10-04 |
-| [Naive](https://open.spotify.com/track/7qhpHxEbhSZElJdOTwcdai) | [Hannah Warm](https://open.spotify.com/artist/3NpwE88TR2nUKcmg87MeL7) | [](https://open.spotify.com/album/null) | 3:37 | 2025-11-18 |  |
+| [Naive](https://open.spotify.com/track/7qhpHxEbhSZElJdOTwcdai) | [Hannah Warm](https://open.spotify.com/artist/3NpwE88TR2nUKcmg87MeL7) | [LUMINOUS](https://open.spotify.com/album/0yxvpupZZfuBVOliEVzFYB) | 3:37 | 2025-11-18 |  |
 | [Naiya](https://open.spotify.com/track/1wcJpJWF1aK1WHyl7vjTR2) | [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [Naiya](https://open.spotify.com/album/3ifbPgar0fxH4qyznObkn9) | 2:16 | 2023-08-30 | 2023-09-06 |
 | [Naiya](https://open.spotify.com/track/2u5333Tv5pnMkpHdBkDNLy) | [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [Naiya](https://open.spotify.com/album/2KwtO3yfiBvh0BGfviCoF3) | 2:16 | 2023-08-29 | 2023-08-31 |
 | [Nakanaori no Atowa](https://open.spotify.com/track/2YmkScLaLH1A9Pfzu1RAO4) | [門脇更紗](https://open.spotify.com/artist/0smdS7QS5s0qwhfrXkZaSX) | [Nakanaori no Atowa](https://open.spotify.com/album/5kT6Uu2SQMocazEmSwmbn9) | 1:55 | 2024-04-10 | 2024-04-17 |
@@ -6360,7 +6361,7 @@
 | [Sayonara Amor](https://open.spotify.com/track/0WlIVzJI22LpvyOA70FrNm) | [Priscilla Ahn](https://open.spotify.com/artist/5oU0tZlItLctcLOQPS3mCy) | [Sayonara Amor](https://open.spotify.com/album/5LJEWbecsYpU23obnfbSQz) | 5:46 | 2023-04-19 | 2023-04-26 |
 | [Sayonara City of lights](https://open.spotify.com/track/5S0ZMsPbCi9FxVuvSvcOOE) | [Hello Sleepwalkers](https://open.spotify.com/artist/12CmFAwzxYnVtJgnzIysvm) | [Sayonara City of lights](https://open.spotify.com/album/7gOiMPMEhfM1IAQ7Pk3t2f) | 5:08 | 2025-03-19 | 2025-03-26 |
 | [Sayonara Sunset](https://open.spotify.com/track/256kYRsW0pTZ8KdR8BqEw7) | [Shikao Suga](https://open.spotify.com/artist/3sddhwNhGabYSvzYKhB7qj) | [INNOCENT](https://open.spotify.com/album/39JkWHpnRuDFRAW11829PZ) | 3:26 | 2023-02-01 | 2023-02-08 |
-| [Sayonara Tenshisama](https://open.spotify.com/track/5K4XULo6rMtU5sokMlLWGK) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [](https://open.spotify.com/album/null) | 4:41 | 2025-11-18 |  |
+| [Sayonara Tenshisama](https://open.spotify.com/track/5K4XULo6rMtU5sokMlLWGK) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [Tenshisama](https://open.spotify.com/album/3UbnNXeeN1eJ3DLF4ypmJs) | 4:41 | 2025-11-18 |  |
 | [Sayonara, Science Fiction](https://open.spotify.com/track/02fVrxKTqEXTYoHj6ohNyN) | [Mom](https://open.spotify.com/artist/7LuHX3X7qR5K8ft7ilZKUj) | [Sayonara, Science Fiction](https://open.spotify.com/album/3xi7tThfVCD9ly3SYQOFpk) | 3:27 | 2023-05-03 | 2023-05-10 |
 | [SAYSUM \(feat\. KID FRESINO\)](https://open.spotify.com/track/0pMnHmEcgZSRHsvdV6aAnI) | [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL), [KID FRESINO](https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP) | [N.I.T.O.](https://open.spotify.com/album/3FfM39wTQC0EZ4zyNE8Yl1) | 3:26 | 2025-05-14 | 2025-05-21 |
 | [scale out](https://open.spotify.com/track/4cytaCkCIlQaGwSC9e9pGs) | [生活は忘れて](https://open.spotify.com/artist/59qyNIy8mzA79EEZWMUHve) | [scale out](https://open.spotify.com/album/4cIYjydzSdZaNDvznk8Zw7) | 2:43 | 2024-05-07 | 2024-05-15 |

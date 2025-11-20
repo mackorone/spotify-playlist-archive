@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, keep it real\. Cover: Cheema Y
 
-746 songs - 1 day 11 hr 34 min
+747 songs - 1 day 11 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -546,6 +546,7 @@
 | [Pinda Aale](https://open.spotify.com/track/34uGihf7olNByEcHPVGbsV) | [G\. Sidhu](https://open.spotify.com/artist/1cqZQSRjE8Bl0PABOkVU9c), [Byg Byrd](https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT), [NseeB](https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5) | [Pinda Aale](https://open.spotify.com/album/2TzKRe27dDLz2RdeG7Ikme) | 2:33 | 2023-04-18 | 2023-04-21 |
 | [Pindaan Wale Jatt \- Ninja](https://open.spotify.com/track/5cSmrLHBMsEOo6aIkLbjKT) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT) | [Pindaan Wale Jatt \(Ninja\)](https://open.spotify.com/album/3YlOKBrrHYhHpONpygnHV9) | 4:04 | 2025-03-19 | 2025-04-12 |
 | [Pindan Aale](https://open.spotify.com/track/5CyXssn2W8QqeXolleUepo) | [Ekam Chanoli](https://open.spotify.com/artist/2RR7qfIt6G3IOX0yp50aik), [Ruby Chatha](https://open.spotify.com/artist/0FtxhV7S1fH5nB7aQXLNiN), [IRIS Music](https://open.spotify.com/artist/1DB6PUHcKe8s5Ul7jkVR4Q) | [Pindan Aale](https://open.spotify.com/album/7cw7zQh0pg48ooMQicWvrX) | 4:12 | 2024-08-12 | 2024-08-21 |
+| [Pitth Piche](https://open.spotify.com/track/1Kg01qAJIqHtEpCEmKGpSZ) | [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3), [Nachhatar Gill](https://open.spotify.com/artist/1g8ObZDF4oPfho92ISSyNq) | [LEGENDS](https://open.spotify.com/album/2fC4CqKEzXGyaYCTI4A8Ng) | 3:00 | 2025-11-19 |  |
 | [PMCM](https://open.spotify.com/track/120E9faVdT9sp4t8QIGZoo) | [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON), [Mad Mix](https://open.spotify.com/artist/55fozRiVCKuoMqSkxa6nxv) | [PMCM](https://open.spotify.com/album/370ByUPt1uNGn2erT5vYdd) | 2:58 | 2024-07-03 | 2024-07-10 |
 | [PO](https://open.spotify.com/track/1W6r5thD9Tadno47turNR0) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Straight Bank](https://open.spotify.com/artist/6MmvoeQxFPr8VWERxYdE5f) | [PO](https://open.spotify.com/album/3dDTeOeKChpAltxDRciLXD) | 3:35 | 2023-09-06 | 2024-08-22 |
 | [Police](https://open.spotify.com/track/4DrDsY7ExVwT371fdjcjgA) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C) | [Young G.O.A.T](https://open.spotify.com/album/4Qhs9M8b7MafoxTPhfG6Hq) | 2:21 | 2025-02-19 | 2025-10-14 |

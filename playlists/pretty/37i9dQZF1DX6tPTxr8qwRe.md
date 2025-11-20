@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 > sweet\. sharp\. unbothered \- Johnny Huynh & Jessica Baio on the cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 425,724 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 425,712 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 6 | [Predator](https://open.spotify.com/track/4Yw8f14VJifM5loeSSKlW0) | [Ella Red](https://open.spotify.com/artist/1hH4ajSTZKIBhwRymnZi5R) | [Predator](https://open.spotify.com/album/41U6YwMaGP6wdtRTZptEaG) | 1:55 |
 | 7 | [Kiss](https://open.spotify.com/track/4OwxTsR3IPjFCX0sii5vtP) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Kiss](https://open.spotify.com/album/0d0LjZgArvtjtzX6SnDulV) | 2:48 |
 | 8 | [WHEN IT'S ALL HAPPENING](https://open.spotify.com/track/5J5nNJuC002ukgXvjDseA6) | [KANNER](https://open.spotify.com/artist/6QNIXiyRL2CanldN3Qx7qh) | [WHEN IT'S ALL HAPPENING](https://open.spotify.com/album/3mlKuxtJkPzW4ijNL6BTbf) | 2:38 |
-| 9 | [Porcelana](https://open.spotify.com/track/3hETtcSLmNncBjPMLHtVZs) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 4:08 |
+| 9 | [Porcelana](https://open.spotify.com/track/3hETtcSLmNncBjPMLHtVZs) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Dougie F](https://open.spotify.com/artist/4pBG47zWhJbDw7mpsg68PJ) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 4:08 |
 | 10 | [wet dreams](https://open.spotify.com/track/5KwATHeuUTsnpR5GytIZdL) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [you ruined me but it was fun](https://open.spotify.com/album/4ntuB099TOzQe5TOHEYoCP) | 2:21 |
 | 11 | [Medicine](https://open.spotify.com/track/5SxRXZaje5yxa72HCCerHN) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [Medicine](https://open.spotify.com/album/4XfNUSWZR51KBqKr81Rf1e) | 3:49 |
 | 12 | [Blood Guts & Pixie Dust](https://open.spotify.com/track/36MkP16YXxjCjpz7NMdfyW) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Blood Guts & Pixie Dust](https://open.spotify.com/album/6mtR02tgYD4EsPimDQERY1) | 3:26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Alexander Malofeev
 
-[Spotify](https://open.spotify.com/user/spotify) - 748,197 likes - 73 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 748,221 likes - 73 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

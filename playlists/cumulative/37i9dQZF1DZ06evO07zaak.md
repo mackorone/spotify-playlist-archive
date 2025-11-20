@@ -4,7 +4,7 @@
 
 > This is Pink Floyd\. The essential tracks, all in one playlist.
 
-67 songs - 6 hr 16 min
+68 songs - 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [See Emily Play](https://open.spotify.com/track/1YZuigG1YcdgbfD7XJoCU5) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Relics](https://open.spotify.com/album/361QTNnQcBcNJ38gn8ZWQw) | 2:53 | 2022-09-17 | 2022-10-02 |
 | [Set the Controls for the Heart of the Sun \- Live at Pompeii \- MCMLXXII \- 2025 Mix](https://open.spotify.com/track/4Ik6MZgx9KiJpslsXJBn1j) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Pink Floyd at Pompeii \- MCMLXXII \(2025 Mix\)](https://open.spotify.com/album/0ptvgHrZARlAZFmbg0WvDI) | 10:29 | 2025-05-10 | 2025-05-31 |
 | [Sheep](https://open.spotify.com/track/55e99bv2wlgTYtNEYHWtN1) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Animals](https://open.spotify.com/album/3b4E89rxzZQ9zkhgKpj8N4) | 10:18 | 2022-09-17 |  |
-| [Shine On You Crazy Diamond \(Pts\. 1\-5\)](https://open.spotify.com/track/6pnwfWyaWjQiHCKTiZLItr) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Wish You Were Here](https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw) | 13:32 | 2022-09-17 |  |
+| [Shine On You Crazy Diamond \(Pts\. 1\-5\)](https://open.spotify.com/track/6pnwfWyaWjQiHCKTiZLItr) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Wish You Were Here](https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw) | 13:32 | 2022-09-17 | 2025-11-20 |
+| [Shine On You Crazy Diamond \- Pts\. 1\-9, New Stereo Mix](https://open.spotify.com/track/7Dw4ReVy2jfCQ9lzRoJ0yD) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Shine On You Crazy Diamond \(Pts\. 1\-9, New Stereo Mix\)](https://open.spotify.com/album/4B1bOlJb3djUjSzrVYDAkh) | 25:25 | 2025-11-20 |  |
 | [Side 2, Pt\. 3: Unsung](https://open.spotify.com/track/6St7hjIG2njuG5Zck8vK4Q) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Endless River](https://open.spotify.com/album/0fXAlQ9wTG2glNJvZEkBZc) | 1:06 | 2022-10-14 | 2023-02-02 |
 | [Sorrow](https://open.spotify.com/track/0u90NnJ2p3Q2MIP9IaAsg5) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [A Momentary Lapse of Reason](https://open.spotify.com/album/4xODvcpjOOgu4oKWL0sCte) | 8:44 | 2022-09-17 |  |
 | [Southampton Dock](https://open.spotify.com/track/1e6P6S42qX7vFT0u14S5jm) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Final Cut](https://open.spotify.com/album/1yMenUMOx7BpfTDuVQs99y) | 2:13 | 2025-09-12 | 2025-10-20 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels from GSA, updated every Wednesday. Cover: pixxi, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels from GSA, updated every Wednesday. Cover: Lusterboden, Artwork: Isu Kim",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -13801,6 +13801,24 @@
     },
     {
       "album": {
+        "name": "Kirschen spucken",
+        "url": "https://open.spotify.com/album/0n5j9t3y3WtvxMOxfBXhHv"
+      },
+      "artists": [
+        {
+          "name": "Lusterboden",
+          "url": "https://open.spotify.com/artist/4AeK9gn4Po2PubfB7sJDAN"
+        }
+      ],
+      "date_added": "2025-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169651,
+      "name": "Kirschen spucken",
+      "url": "https://open.spotify.com/track/1eb8Hu6Ga849CyUn7dFP2v"
+    },
+    {
+      "album": {
         "name": "kkiosk",
         "url": "https://open.spotify.com/album/4jtkT3kaZq1ETLr4gpyLoH"
       },
@@ -15726,6 +15744,24 @@
       "duration_ms": 210731,
       "name": "Manisch",
       "url": "https://open.spotify.com/track/4aHiT7maqQ8GVSsmztS1jk"
+    },
+    {
+      "album": {
+        "name": "Mann im Mond",
+        "url": "https://open.spotify.com/album/4ZMXm6mHBBsyJvxIk2yWqH"
+      },
+      "artists": [
+        {
+          "name": "Tuana",
+          "url": "https://open.spotify.com/artist/3ZWwXDrjt9O5p1w7vxLyUv"
+        }
+      ],
+      "date_added": "2025-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Mann im Mond",
+      "url": "https://open.spotify.com/track/23G9Y9YjFY7faYiVt292F5"
     },
     {
       "album": {
@@ -18605,6 +18641,24 @@
     },
     {
       "album": {
+        "name": "past 11",
+        "url": "https://open.spotify.com/album/29na1yALu927pTdCx7p4hm"
+      },
+      "artists": [
+        {
+          "name": "Lind Holmen",
+          "url": "https://open.spotify.com/artist/3cy5BZSxzCJTPKLADhmKM9"
+        }
+      ],
+      "date_added": "2025-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208973,
+      "name": "past 11",
+      "url": "https://open.spotify.com/track/0e2vTKDClLrMhD2kw91rLY"
+    },
+    {
+      "album": {
         "name": "Patti's Words",
         "url": "https://open.spotify.com/album/09PMUIzZqVNUjCKklfXsmk"
       },
@@ -20976,7 +21030,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 197738,
       "name": "Sand and Bones",
       "url": "https://open.spotify.com/track/2qm8ezXFZMBXEx5NJrtqFW"
@@ -22782,7 +22836,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 171455,
       "name": "Sp\u00e4tsommer",
       "url": "https://open.spotify.com/track/0gzMov42DaCWpLOiySLzPL"
@@ -24550,7 +24604,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 200748,
       "name": "Things",
       "url": "https://open.spotify.com/track/2XOhiVjCnahqthv0KbYQ1X"
@@ -25960,6 +26014,24 @@
       "duration_ms": 153887,
       "name": "Verlierer",
       "url": "https://open.spotify.com/track/5AB3MVHFVMqEK1OSMdeXxv"
+    },
+    {
+      "album": {
+        "name": "Verloren in Berlin",
+        "url": "https://open.spotify.com/album/7jO9aznJamwUM9yks0xgV1"
+      },
+      "artists": [
+        {
+          "name": "POLA",
+          "url": "https://open.spotify.com/artist/0uykiUx30wWeZy2CnhfF4C"
+        }
+      ],
+      "date_added": "2025-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153160,
+      "name": "Verloren in Berlin",
+      "url": "https://open.spotify.com/track/05Eo6hYyw9nwe0Z04avdfS"
     },
     {
       "album": {
@@ -28254,7 +28326,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 126544,
       "name": "Zugwarten",
       "url": "https://open.spotify.com/track/1nGnziO2muaQpPfhxxJgLI"

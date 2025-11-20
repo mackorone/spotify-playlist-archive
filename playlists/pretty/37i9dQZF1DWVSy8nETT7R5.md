@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSy8nETT7R5.md) - [plain]
 
 > Listen to the soundtracks of Resident Playbook\. \(언젠가는 슬기로울 전공의 생활의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,496 likes - 32 songs - 1 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,503 likes - 32 songs - 1 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSy8nETT7R5.md) - [plain]
 | 26 | [Curated by Shin Sia 3](https://open.spotify.com/track/6t2W0KAI9yOKrl5oGhrtRa) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Resident Playbook Audio Liners](https://open.spotify.com/album/1qHWenH9QQHUAeRU3sgldV) | 0:24 |
 | 27 | [Comedian](https://open.spotify.com/track/1O0IQfihl2Gb9O6bozczsm) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [OO](https://open.spotify.com/album/20WQSlujuTbzd9d5V46mkc) | 1:53 |
 | 28 | [Uno Dos \(feat\. Jaden Smith\)](https://open.spotify.com/track/4izDoelJ5qRHICeE8iHx07) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u), [Jaden Smith](https://open.spotify.com/artist/4vDSXzhxGtPJVnMvnzSZW4) | [Uno Dos \(feat\. Jaden Smith\)](https://open.spotify.com/album/4YlvH07cfWhWO5UB3r2pF1) | 2:50 |
-| 29 | [I Will Survive](https://open.spotify.com/track/4THrHKyBL0yaDDw9yg37Zk) | [CAKE](https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV) | [Fashion Nugget](https://open.spotify.com/album/6kPOXxCYCdXBzEbb9dqE90) | 5:10 |
+| 29 | [I Will Survive](https://open.spotify.com/track/4THrHKyBL0yaDDw9yg37Zk) | [CAKE](https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV) | [Fashion Nugget](https://open.spotify.com/album/6kPOXxCYCdXBzEbb9dqE90) | 5:09 |
 | 30 | [Maybe We're the Same](https://open.spotify.com/track/3TkVC3vU1jTrJJ0DMNBsyT) | [Lee Kang Seung 이강승](https://open.spotify.com/artist/6l3XS49h2cvD2rcU4TaBTz) | [In other words it’s all made by Kyeongsuk](https://open.spotify.com/album/4tzcujfn2vABcEZHyekAxs) | 3:36 |
 | 31 | [After Party](https://open.spotify.com/track/23tKQpnDJLCiVXmxzXEUJ9) | [Cbarrgs](https://open.spotify.com/artist/4qRI7BqjuKH3ulYQrEYnLa), [urbanation](https://open.spotify.com/artist/3zTaD5i9DS26yJ1mdCFOGO) | [Let Me Know \- EP](https://open.spotify.com/album/3wDkPuDlhkfWWe5HLhWOeZ) | 2:52 |
 | 32 | [Last Dance](https://open.spotify.com/track/4b0RAiqz6oEZvvpbiFuIAp) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Woman](https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9) | 3:26 |

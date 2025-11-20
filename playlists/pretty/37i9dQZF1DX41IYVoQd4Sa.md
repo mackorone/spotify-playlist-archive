@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : IDIOT!
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,899 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,902 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 46 | [כמה יופי יש](https://open.spotify.com/track/6vYwxSKsDKE6GZQugBxmDG) | [יושי](https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ) | [כמה יופי יש](https://open.spotify.com/album/0VkPzoyQx30S58HkI7Mi8l) | 3:54 |
 | 47 | [לחוש את האור](https://open.spotify.com/track/4hr4NNBxDsyjo4RwQQ5Rz8) | [Shekel](https://open.spotify.com/artist/4XRymSxqMfKCkA6njs39lM), [The White Screen](https://open.spotify.com/artist/1CpLH8A3xibzzmyKZ1VtH7) | [לחוש את האור](https://open.spotify.com/album/3sQ17Eb8DLEgAuZVu54P3R) | 3:45 |
 | 48 | [In Stereo](https://open.spotify.com/track/6VBbmDuYFGj4xAxLM79JB7) | [Moscoman](https://open.spotify.com/artist/44F8g3iM4NgU5cisocTlTQ), [Tom Sanders](https://open.spotify.com/artist/7JPYQ0pXUIZVWVE1fRT7FU) | [In Stereo](https://open.spotify.com/album/44B9VnE86HRFjcYVEEg0lz) | 4:26 |
-| 49 | [אליפלט 2.0](https://open.spotify.com/track/6gCFROAeubD5aIa8iatVjB) | [Aya Korem](https://open.spotify.com/artist/2elW0LtvW7wtgObGfNlH25) | [אליפלט 2.0](https://open.spotify.com/album/7JcKgKzBwslDAqqtt6Vla6) | 5:18 |
-| 50 | [עוד יום](https://open.spotify.com/track/3goEVjnKUrmHg4FkwYxQ0i) | [Daniel Rubin](https://open.spotify.com/artist/077agqIDRCxkgjNgA0v1pB), [Nir Shlomo](https://open.spotify.com/artist/5PvWeaRtWZxlLc4RpDI2Ef) | [עוד יום](https://open.spotify.com/album/3wpkmk4clzSuvw8BivUZEr) | 3:08 |
+| 49 | [עוד יום](https://open.spotify.com/track/3goEVjnKUrmHg4FkwYxQ0i) | [Daniel Rubin](https://open.spotify.com/artist/077agqIDRCxkgjNgA0v1pB), [Nir Shlomo](https://open.spotify.com/artist/5PvWeaRtWZxlLc4RpDI2Ef) | [עוד יום](https://open.spotify.com/album/3wpkmk4clzSuvw8BivUZEr) | 3:08 |
+| 50 | [אליפלט 2.0](https://open.spotify.com/track/6gCFROAeubD5aIa8iatVjB) | [Aya Korem](https://open.spotify.com/artist/2elW0LtvW7wtgObGfNlH25) | [אליפלט 2.0](https://open.spotify.com/album/7JcKgKzBwslDAqqtt6Vla6) | 5:18 |
 
 Snapshot ID: `AAAAANx6/WcEi3vcFYjvuBiK7GlTGP4V`

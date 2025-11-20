@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0wrsFHSmaP.md) - [plain]
 
 > Indigenous Australian Storytellers\. Curator: Rhianna Patrick\. <br/>Aboriginal and Torres Strait Islander listeners are advised that the following playlist may contain voices and images of people who have passed away\. Cover: KYARNA
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,396 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,399 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0wrsFHSmaP.md) - [plain]
 | 49 | [Turbine Landscape](https://open.spotify.com/track/2hCPX0fX5l9pr8ZdPbcmv1) | [Meteor Infant](https://open.spotify.com/artist/0BWRrcwvs5ZGakOalvB1s6) | [Pilliga Circumstance](https://open.spotify.com/album/6IPGg5b16Kwnsts5XEo8Rn) | 3:43 |
 | 50 | [Good Vibrations](https://open.spotify.com/track/1kipQ8geTuOKLeB4UtBXsI) | [Djawarray](https://open.spotify.com/artist/6hragZPCuDxFMIjtxgIwEN) | [Magayin](https://open.spotify.com/album/73nXojlwr1MeMcNOTZAzNV) | 4:22 |
 
-Snapshot ID: `AAAAABUpk4Cnr3RsxihS8RK3//77WuzM`
+Snapshot ID: `AAAAAP4Zi6TfGKiwV1KrBdHCRovo5dvi`

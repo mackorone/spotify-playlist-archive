@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSebhP7VjDbk.md) - [plain]
 
 > Playlist oficial da série "De Volta aos 15" estrelando Maisa e Camila Queiroz\. Só na Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,759 likes - 68 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,756 likes - 68 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Admirável Chip Novo](https://open.spotify.com/track/7o7MExeF7niW4VFiie5Zxh) | [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT) | [Admirável Chip Novo](https://open.spotify.com/album/6t9HEcqxPe5dsIlHyYwATK) | 3:11 |
 | 2 | [Suddenly I See](https://open.spotify.com/track/5p9XWUdvbUzmPCukOmwoU3) | [KT Tunstall](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) | [Eye To The Telescope](https://open.spotify.com/album/3j70PDKieTWQAwas3bPHRZ) | 3:21 |
-| 3 | [Sentimental](https://open.spotify.com/track/6Zv4HVHfadVo3JQSSbwY7r) | [Los Hermanos](https://open.spotify.com/artist/7Brxri4l1ATShikyHXsEr6) | [Bloco Do Eu Sozinho](https://open.spotify.com/album/002IhaQrqlVoyLhsTlzLd8) | 5:09 |
+| 3 | [Sentimental](https://open.spotify.com/track/6Zv4HVHfadVo3JQSSbwY7r) | [Los Hermanos](https://open.spotify.com/artist/7Brxri4l1ATShikyHXsEr6) | [Bloco Do Eu Sozinho](https://open.spotify.com/album/002IhaQrqlVoyLhsTlzLd8) | 5:10 |
 | 4 | [Desperdiçou](https://open.spotify.com/track/1XNk2F3y4Nlc4NpjSI22HG) | [Sandy e Junior](https://open.spotify.com/artist/05mFGgWzooDQMWGNcNsM05) | [Identidade](https://open.spotify.com/album/0AVmpqYcziFDCe6HV0gQiR) | 3:14 |
 | 5 | [Dias De Luta, Dias De Gloria](https://open.spotify.com/track/006pMMCuRo2TFjh8sNGSov) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Imunidade Musical](https://open.spotify.com/album/1l8K5fgYz4J0ZZyjMVd6Q1) | 2:25 |
 | 6 | [Seguindo Estrelas](https://open.spotify.com/track/00uUuooilyT1iTQvhDiVIU) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Longo Caminho](https://open.spotify.com/album/3gCx2GtIjyueigs8Hh39Rd) | 4:11 |

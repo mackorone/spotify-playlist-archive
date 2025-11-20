@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSoTL04mwiZp.md) - [plain]
 
 > Special songs for mothers of all kinds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,057 likes - 72 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,055 likes - 72 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSoTL04mwiZp.md) - [plain]
 | 36 | [I'll Be There](https://open.spotify.com/track/6eLtze68aoRMmcOnl8uyxC) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Phonte](https://open.spotify.com/artist/5SyCTZ8X8YQCI0J1VRp4iC) | [Best Day Ever \(5th Anniversary Remastered Edition\)](https://open.spotify.com/album/5UYLpgSkZQ35dkHdMCm8mt) | 3:11 |
 | 37 | [Mother](https://open.spotify.com/track/69ZzhvHnSSnzMO8SMYEJWb) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back \(Deluxe\)](https://open.spotify.com/album/6IK5i5sR0uxIcM0rV8HThX) | 2:27 |
 | 38 | [Turn To You \- \(Mother's Day Dedication\)](https://open.spotify.com/track/4xDbvfk975nr05ctWgS8Nq) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Turn To You \(Mother's Day Dedication\)](https://open.spotify.com/album/21z9FNiaJZpICt53krDAby) | 3:39 |
-| 39 | [Coat of Many Colors](https://open.spotify.com/track/1l2Xmg54EUr3TDzNIaCr1z) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Coat Of Many Colors](https://open.spotify.com/album/17CT6ru3CyDXAi6xVaSUzg) | 3:03 |
+| 39 | [Coat of Many Colors](https://open.spotify.com/track/1l2Xmg54EUr3TDzNIaCr1z) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Coat Of Many Colors](https://open.spotify.com/album/17CT6ru3CyDXAi6xVaSUzg) | 3:06 |
 | 40 | [Mama Hold My Hand](https://open.spotify.com/track/591Acw5868YL4VCFMXGEdp) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Good Things](https://open.spotify.com/album/0fLkfeej5toC9uVtrOH8uS) | 5:08 |
 | 41 | [The Perfect Fan](https://open.spotify.com/track/5XgxLtOR4oKxnfA7Fb4968) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Millennium](https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ) | 4:13 |
 | 42 | [Happy Mother's Day](https://open.spotify.com/track/2k8QF9KF5PYAYDQmqVoonx) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Happy Mother's Day](https://open.spotify.com/album/0Uo2XFLfrcXifLsliDyw0h) | 1:53 |

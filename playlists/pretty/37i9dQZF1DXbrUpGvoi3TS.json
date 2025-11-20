@@ -1,6 +1,6 @@
 {
   "description": "Nurse your emotional wounds with these heartbreak tracks.",
-  "num_followers": 3647797,
+  "num_followers": 3647790,
   "original_name": "Broken Heart",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,22 @@
     {
       "added_at": "2022-05-19 22:02:00",
       "album": {
+        "name": "VHS",
+        "url": "https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 193546,
+      "name": "Unsteady",
+      "url": "https://open.spotify.com/track/7lGKEWMXVWWTt3X71Bv44I"
+    },
+    {
+      "added_at": "2022-05-19 22:02:00",
+      "album": {
         "name": "If the World Was Ending (feat. Julia Michaels)",
         "url": "https://open.spotify.com/album/7BrlhEO8dHiNmU8A1Ep9RZ"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 208687,
       "name": "If the World Was Ending (feat. Julia Michaels)",
       "url": "https://open.spotify.com/track/2kJwzbxV2ppxnQoYw4GLBZ"
-    },
-    {
-      "added_at": "2022-05-19 22:02:00",
-      "album": {
-        "name": "VHS",
-        "url": "https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 193546,
-      "name": "Unsteady",
-      "url": "https://open.spotify.com/track/7lGKEWMXVWWTt3X71Bv44I"
     },
     {
       "added_at": "2022-05-19 22:02:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2022-05-19 22:02:00",
       "album": {
-        "name": "Black Bear",
-        "url": "https://open.spotify.com/album/2Objy4bpKyIT4JsUsBr8ka"
-      },
-      "artists": [
-        {
-          "name": "Andrew Belle",
-          "url": "https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY"
-        }
-      ],
-      "duration_ms": 286865,
-      "name": "The Enemy",
-      "url": "https://open.spotify.com/track/6xJOhSm4SvZwzy3uhWz26O"
-    },
-    {
-      "added_at": "2022-05-19 22:02:00",
-      "album": {
         "name": "Pilot EP",
         "url": "https://open.spotify.com/album/6gYzypEY4tTiESfptdoOrB"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 274226,
       "name": "I Found",
       "url": "https://open.spotify.com/track/4lRuRtvftdSSUA7hLP7zAr"
+    },
+    {
+      "added_at": "2022-05-19 22:02:00",
+      "album": {
+        "name": "Black Bear",
+        "url": "https://open.spotify.com/album/2Objy4bpKyIT4JsUsBr8ka"
+      },
+      "artists": [
+        {
+          "name": "Andrew Belle",
+          "url": "https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY"
+        }
+      ],
+      "duration_ms": 286865,
+      "name": "The Enemy",
+      "url": "https://open.spotify.com/track/6xJOhSm4SvZwzy3uhWz26O"
     },
     {
       "added_at": "2022-05-19 22:02:00",
@@ -1452,7 +1452,7 @@
           "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
         }
       ],
-      "duration_ms": 168586,
+      "duration_ms": 168720,
       "name": "Yours",
       "url": "https://open.spotify.com/track/0Mq0reDcNpgmQkjHfzpJrp"
     },
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2022-05-19 22:02:00",
       "album": {
-        "name": "It's Ok If You Forget Me",
-        "url": "https://open.spotify.com/album/2C91kmyDRWZdm0wR8dK1Wn"
-      },
-      "artists": [
-        {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
-        }
-      ],
-      "duration_ms": 204989,
-      "name": "It's Ok If You Forget Me",
-      "url": "https://open.spotify.com/track/312zSwwbPU7C3sTmro4Wx9"
-    },
-    {
-      "added_at": "2022-05-19 22:02:00",
-      "album": {
         "name": "5AM (Expanded Edition)",
         "url": "https://open.spotify.com/album/05WTBdwkHAqk5Mg68ugD7L"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 257906,
       "name": "5AM",
       "url": "https://open.spotify.com/track/4B4kunXhV2ZKnYcvDgAFoE"
+    },
+    {
+      "added_at": "2022-05-19 22:02:00",
+      "album": {
+        "name": "It's Ok If You Forget Me",
+        "url": "https://open.spotify.com/album/2C91kmyDRWZdm0wR8dK1Wn"
+      },
+      "artists": [
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        }
+      ],
+      "duration_ms": 204989,
+      "name": "It's Ok If You Forget Me",
+      "url": "https://open.spotify.com/track/312zSwwbPU7C3sTmro4Wx9"
     },
     {
       "added_at": "2022-05-19 22:02:00",

@@ -1,6 +1,6 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Mick Jenkins",
-  "num_followers": 1577372,
+  "num_followers": 1577323,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
@@ -459,26 +459,6 @@
     {
       "added_at": "2025-11-14 04:00:22",
       "album": {
-        "name": "u aint gotta chance",
-        "url": "https://open.spotify.com/album/5YIUemQJKAUs78xxhtYWdq"
-      },
-      "artists": [
-        {
-          "name": "Big L",
-          "url": "https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM"
-        },
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        }
-      ],
-      "duration_ms": 168416,
-      "name": "u aint gotta chance",
-      "url": "https://open.spotify.com/track/4yLiK5atUkQWd16uG5WRuN"
-    },
-    {
-      "added_at": "2025-11-14 04:00:22",
-      "album": {
         "name": "God Does Like Ugly",
         "url": "https://open.spotify.com/album/2tU04u3hxtziB4sOVJKak3"
       },
@@ -495,6 +475,26 @@
       "duration_ms": 396806,
       "name": "Of Blue (with Mereba)",
       "url": "https://open.spotify.com/track/12Wh0aUUoJUFffOQdY1ouy"
+    },
+    {
+      "added_at": "2025-11-14 04:00:22",
+      "album": {
+        "name": "u aint gotta chance",
+        "url": "https://open.spotify.com/album/5YIUemQJKAUs78xxhtYWdq"
+      },
+      "artists": [
+        {
+          "name": "Big L",
+          "url": "https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM"
+        },
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "duration_ms": 168416,
+      "name": "u aint gotta chance",
+      "url": "https://open.spotify.com/track/4yLiK5atUkQWd16uG5WRuN"
     },
     {
       "added_at": "2025-11-14 04:00:22",
@@ -843,26 +843,6 @@
     {
       "added_at": "2025-11-14 04:00:22",
       "album": {
-        "name": "Landgrab",
-        "url": "https://open.spotify.com/album/6DiccF2KOwPAD1i1oFRNuq"
-      },
-      "artists": [
-        {
-          "name": "MAVI",
-          "url": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
-        },
-        {
-          "name": "Earl Sweatshirt",
-          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
-        }
-      ],
-      "duration_ms": 88330,
-      "name": "Landgrab",
-      "url": "https://open.spotify.com/track/3pLwsRkN3XblUXuUUqPqFR"
-    },
-    {
-      "added_at": "2025-11-14 04:00:22",
-      "album": {
         "name": "Small Talk",
         "url": "https://open.spotify.com/album/4uFrzWn4YGeEgtugDyhcmB"
       },
@@ -883,6 +863,26 @@
     {
       "added_at": "2025-11-14 04:00:22",
       "album": {
+        "name": "Landgrab",
+        "url": "https://open.spotify.com/album/6DiccF2KOwPAD1i1oFRNuq"
+      },
+      "artists": [
+        {
+          "name": "MAVI",
+          "url": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
+        },
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        }
+      ],
+      "duration_ms": 88330,
+      "name": "Landgrab",
+      "url": "https://open.spotify.com/track/3pLwsRkN3XblUXuUUqPqFR"
+    },
+    {
+      "added_at": "2025-11-14 04:00:22",
+      "album": {
         "name": "Business Merger",
         "url": "https://open.spotify.com/album/2GiNskl3pHoXqoy5sSKbbQ"
       },
@@ -899,6 +899,46 @@
       "duration_ms": 217947,
       "name": "Business Merger",
       "url": "https://open.spotify.com/track/5B3I3LGIa6AYixY0JXLlk8"
+    },
+    {
+      "added_at": "2025-11-14 04:00:22",
+      "album": {
+        "name": "STAR LINE",
+        "url": "https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "Rachel Robinson",
+          "url": "https://open.spotify.com/artist/2dFERzp3MC4j4iOT8iqmHw"
+        }
+      ],
+      "duration_ms": 251050,
+      "name": "Letters (feat. Rachel Robinson)",
+      "url": "https://open.spotify.com/track/0xg25m2SiZJkAXEXAcURNb"
+    },
+    {
+      "added_at": "2025-11-14 04:00:22",
+      "album": {
+        "name": "SCARY MERRi",
+        "url": "https://open.spotify.com/album/7GMfoOLopVVFdJ3BQdAnx2"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        },
+        {
+          "name": "Conductor Williams",
+          "url": "https://open.spotify.com/artist/1VuBGdfqq86BQyiDactQAC"
+        }
+      ],
+      "duration_ms": 149191,
+      "name": "SCARY MERRi",
+      "url": "https://open.spotify.com/track/1dcwam7zGPtlDsDUEm2hn5"
     },
     {
       "added_at": "2025-11-14 04:00:22",
@@ -931,26 +971,6 @@
     {
       "added_at": "2025-11-14 04:00:22",
       "album": {
-        "name": "STAR LINE",
-        "url": "https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        },
-        {
-          "name": "Rachel Robinson",
-          "url": "https://open.spotify.com/artist/2dFERzp3MC4j4iOT8iqmHw"
-        }
-      ],
-      "duration_ms": 251050,
-      "name": "Letters (feat. Rachel Robinson)",
-      "url": "https://open.spotify.com/track/0xg25m2SiZJkAXEXAcURNb"
-    },
-    {
-      "added_at": "2025-11-14 04:00:22",
-      "album": {
         "name": "The Emperor's New Clothes",
         "url": "https://open.spotify.com/album/1hI8tHkf2aBl1zgjMblfck"
       },
@@ -971,22 +991,18 @@
     {
       "added_at": "2025-11-14 04:00:22",
       "album": {
-        "name": "SCARY MERRi",
-        "url": "https://open.spotify.com/album/7GMfoOLopVVFdJ3BQdAnx2"
+        "name": "2014 Forest Hills Drive (10 Year Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2fSAC0ZiYnwKfzLEvyaMm8"
       },
       "artists": [
         {
-          "name": "IDK",
-          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
-        },
-        {
-          "name": "Conductor Williams",
-          "url": "https://open.spotify.com/artist/1VuBGdfqq86BQyiDactQAC"
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 149191,
-      "name": "SCARY MERRi",
-      "url": "https://open.spotify.com/track/1dcwam7zGPtlDsDUEm2hn5"
+      "duration_ms": 194489,
+      "name": "Judgement Day",
+      "url": "https://open.spotify.com/track/0EfSMdCzfbDsQpq7gnyYi4"
     },
     {
       "added_at": "2025-11-14 04:00:22",
@@ -1015,54 +1031,18 @@
     {
       "added_at": "2025-11-14 04:00:22",
       "album": {
-        "name": "Calypso Gene (feat. Silka & Cleo Reed)",
-        "url": "https://open.spotify.com/album/3JCf4qFpLr1KoNdFRIIIRx"
+        "name": "W!LD",
+        "url": "https://open.spotify.com/album/1gFQ6dGFvpDsHmnr4bPbTV"
       },
       "artists": [
         {
-          "name": "Armand Hammer",
-          "url": "https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        },
-        {
-          "name": "billy woods",
-          "url": "https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc"
-        },
-        {
-          "name": "E L U C I D",
-          "url": "https://open.spotify.com/artist/6F5n3bvrBgoyicdFT6L8IB"
-        },
-        {
-          "name": "Silka",
-          "url": "https://open.spotify.com/artist/6aPchfng6G3oGVrjig4pDp"
-        },
-        {
-          "name": "Cleo Reed",
-          "url": "https://open.spotify.com/artist/1gLcT6lcN6AHTRdpRSXAyi"
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
         }
       ],
-      "duration_ms": 177122,
-      "name": "Calypso Gene (feat. Silka & Cleo Reed)",
-      "url": "https://open.spotify.com/track/5BcOXyysw5W8bUdXQvxdso"
-    },
-    {
-      "added_at": "2025-11-14 04:00:22",
-      "album": {
-        "name": "2014 Forest Hills Drive (10 Year Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2fSAC0ZiYnwKfzLEvyaMm8"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 194489,
-      "name": "Judgement Day",
-      "url": "https://open.spotify.com/track/0EfSMdCzfbDsQpq7gnyYi4"
+      "duration_ms": 121127,
+      "name": "User Guide",
+      "url": "https://open.spotify.com/track/27JAvIc1hxDugIP0Q0wnaq"
     }
   ],
   "unique_name": "Spilled Ink",

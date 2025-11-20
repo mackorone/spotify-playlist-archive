@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/75poksfmXa3Scg14FpTZw1.md) - [plain]
 
 > Get 7 Days Free Spotify Promotion – Exclusively For TuneCore Artists ➡️ playlist.agency&\#x2F;tunecore
 
-[TPA x TuneCore](https://open.spotify.com/user/31fcewz4codqquchtbv6jfrbnr5e) - 11,562 likes - 100 songs - 5 hr 29 min
+[TPA x TuneCore](https://open.spotify.com/user/31fcewz4codqquchtbv6jfrbnr5e) - 11,374 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

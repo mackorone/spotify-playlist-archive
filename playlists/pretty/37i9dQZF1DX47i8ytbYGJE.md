@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47i8ytbYGJE.md) - [plain]
 
 > Rockabilly pioneers and revivalists\. Cover: Stray Cats
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,147 likes - 75 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,160 likes - 75 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47i8ytbYGJE.md) - [plain]
 | 17 | [Whole Lot of Shakin' Going On](https://open.spotify.com/track/6wO13Xb3EdHUNixFOEJ0KV) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [The Essential Jerry Lee Lewis \[The Sun Sessions\]](https://open.spotify.com/album/6OaajpAGeNsPJFkjyQvqHf) | 2:52 |
 | 18 | [Bang Bang](https://open.spotify.com/track/4ThhGr14tIhTIYda38OHZu) | [Janis Martin](https://open.spotify.com/artist/4pjH9s7TgSke527nRDcgqq) | [Presenting Janis Martin](https://open.spotify.com/album/5abkpFt631EzDivxIIzm7E) | 2:00 |
 | 19 | [Not Fade Away](https://open.spotify.com/track/4O2MqQFRBB6E8darwh6CSn) | [HeadCat](https://open.spotify.com/artist/5WM7w7zSrYevTJZtuKgvvO), [Lemmy](https://open.spotify.com/artist/0bmuibaBeiMxAqN2HwUqhd), [Danny B\. Harvey](https://open.spotify.com/artist/7rnGpkRXprZHH7rwKwEMy2), [Slim Jim Phantom](https://open.spotify.com/artist/3HfEn2cgHnv9NDtw9tS6ps) | [Fool's Paradise](https://open.spotify.com/album/3SGlVZOJK0Xoao28PNVDBb) | 2:16 |
-| 20 | [Hound Dog](https://open.spotify.com/track/64Ny7djQ6rNJspquof2KoX) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Golden Records](https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek) | 2:16 |
+| 20 | [Hound Dog](https://open.spotify.com/track/64Ny7djQ6rNJspquof2KoX) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Golden Records](https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek) | 2:18 |
 | 21 | [Shirley Lee](https://open.spotify.com/track/3UFWCXXdaRF9TltGorFeaw) | [Bobby Lee Trammell](https://open.spotify.com/artist/0TJ6UwA2LLLk3u9WjPFYLW) | [Uh\-Oh](https://open.spotify.com/album/1e5Dh7ygas33shYovwINI1) | 1:47 |
 | 22 | [Yes Tonight Josephine](https://open.spotify.com/track/27swcnouYa2UVqqjtMPHUI) | [Jets](https://open.spotify.com/artist/5lYoBmQmOncqIVZgVxzFzy) | [The Singles](https://open.spotify.com/album/53KAbX9gBq9qmZLmEpxyrF) | 3:14 |
 | 23 | [Johnny Got A Boom Boom](https://open.spotify.com/track/7psi2y1Mm973ZkYynLYuEC) | [Imelda May](https://open.spotify.com/artist/6AnjHMqEAps8VJdHU8RykH) | [Love Tattoo](https://open.spotify.com/album/1QFPnggq5et7r2SUymBOap) | 2:59 |
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47i8ytbYGJE.md) - [plain]
 | 60 | [Tear It Up \- Single Version](https://open.spotify.com/track/2ptErHGzTvv63W4ipt5ZCA) | [Johnny Burnette & The Rock 'N' Roll Trio](https://open.spotify.com/artist/1neKWNZP74NEuvHZmvMS58) | [Tear It Up: The Complete Legedary Coral Recordings](https://open.spotify.com/album/5EEZg4wJpSRVqRi1nxwKL6) | 1:53 |
 | 61 | [Matchbox](https://open.spotify.com/track/3qz0e03PIaalwcCGwaJHMs) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [The Dance Album](https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK) | 2:07 |
 | 62 | [I Knew the Bride](https://open.spotify.com/track/20tupebVMJ8J726PbJmbWr) | [Dave Edmunds](https://open.spotify.com/artist/65Gh3BfK84aTIugiRCgLBA) | [Single Trax 1970\-1981](https://open.spotify.com/album/4Zk0R6PCTujeSb9ppg1vQi) | 2:54 |
-| 63 | [Be\-Bop\-A\-Lula](https://open.spotify.com/track/0HUp7ipIDJvITTqizN6cxJ) | [Gene Vincent](https://open.spotify.com/artist/5VAHm7V5mnsxvQrWw3KHmx), [Gene Vincent & His Blue Caps](https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq) | [Dance To The Bop](https://open.spotify.com/album/3oavZnlCWGZJyXj8fuLVlR) | 2:36 |
+| 63 | [Be\-Bop\-A\-Lula](https://open.spotify.com/track/0HUp7ipIDJvITTqizN6cxJ) | [Gene Vincent & His Blue Caps](https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq), [Gene Vincent](https://open.spotify.com/artist/5VAHm7V5mnsxvQrWw3KHmx) | [Dance To The Bop](https://open.spotify.com/album/3oavZnlCWGZJyXj8fuLVlR) | 2:36 |
 | 64 | [Tutti Frutti](https://open.spotify.com/track/2iXcvnD3d1gfLBum0cE5Eg) | [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [Here's Little Richard \(Deluxe Edition\)](https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8) | 2:24 |
 | 65 | [Ducktail](https://open.spotify.com/track/6Rwh7GfFZQNMcbkYbFgtQB) | [Joe Clay](https://open.spotify.com/artist/3w7hXodvq8XPcisRfQRh7t) | [Ducktail](https://open.spotify.com/album/6KYidozJ61dPn7ZKgkskgm) | 2:28 |
 | 66 | [Skinny Jim](https://open.spotify.com/track/07JOGpEHBICoVjcIjF4ROY) | [Eddie Cochran](https://open.spotify.com/artist/1p0t3JtUTayV2wb1RGN9mO) | [The Best Of Eddie Cochran](https://open.spotify.com/album/1MOHwO7WJIg61Ksp4FfYz5) | 2:11 |

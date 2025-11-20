@@ -1,6 +1,6 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Ximena Sari\u00f1ana en portada ",
-  "num_followers": 810010,
+  "num_followers": 810082,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -647,6 +647,22 @@
     {
       "added_at": "2025-11-14 06:00:13",
       "album": {
+        "name": "Adicto A Ti",
+        "url": "https://open.spotify.com/album/3rRx6lmhafwUpFZGVIvTWJ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 138352,
+      "name": "Adicto A Ti",
+      "url": "https://open.spotify.com/track/3SRlfFW7njWnmzD3KwTCMg"
+    },
+    {
+      "added_at": "2025-11-14 06:00:13",
+      "album": {
         "name": "Lo Aprend\u00ed En La Lleca",
         "url": "https://open.spotify.com/album/3HBxwtKVmVAoaeQBzDumZI"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 184269,
       "name": "La Lleca",
       "url": "https://open.spotify.com/track/737UTu0th7F2LGAisD0cKT"
-    },
-    {
-      "added_at": "2025-11-14 06:00:13",
-      "album": {
-        "name": "Adicto A Ti",
-        "url": "https://open.spotify.com/album/3rRx6lmhafwUpFZGVIvTWJ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 138352,
-      "name": "Adicto A Ti",
-      "url": "https://open.spotify.com/track/3SRlfFW7njWnmzD3KwTCMg"
     },
     {
       "added_at": "2025-11-14 06:00:13",
@@ -931,6 +931,22 @@
     {
       "added_at": "2025-11-14 06:00:13",
       "album": {
+        "name": "ALO",
+        "url": "https://open.spotify.com/album/1sgpXnyR384wM9e8oYOgZW"
+      },
+      "artists": [
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        }
+      ],
+      "duration_ms": 188888,
+      "name": "ALO",
+      "url": "https://open.spotify.com/track/6My3QAgFsK0ZqeNfzdWran"
+    },
+    {
+      "added_at": "2025-11-14 06:00:13",
+      "album": {
         "name": "Apaga la luz",
         "url": "https://open.spotify.com/album/2lG9UbKlWrurlbT6GDZJCf"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 203556,
       "name": "Apaga la luz",
       "url": "https://open.spotify.com/track/45ewyxF625HzqLCKgZU0tp"
-    },
-    {
-      "added_at": "2025-11-14 06:00:13",
-      "album": {
-        "name": "ALO",
-        "url": "https://open.spotify.com/album/1sgpXnyR384wM9e8oYOgZW"
-      },
-      "artists": [
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        }
-      ],
-      "duration_ms": 188888,
-      "name": "ALO",
-      "url": "https://open.spotify.com/track/6My3QAgFsK0ZqeNfzdWran"
     },
     {
       "added_at": "2025-11-14 06:00:13",
@@ -1127,26 +1127,6 @@
     {
       "added_at": "2025-11-14 06:00:13",
       "album": {
-        "name": "Meneo",
-        "url": "https://open.spotify.com/album/1Kf6rAG1vw7aPVdygnZEHp"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 161632,
-      "name": "Relojito Cartier",
-      "url": "https://open.spotify.com/track/3GJgf5VJTnuFwh1YUFJGic"
-    },
-    {
-      "added_at": "2025-11-14 06:00:13",
-      "album": {
         "name": "Velas",
         "url": "https://open.spotify.com/album/26R4zzccMTLiD6PXKkPjti"
       },
@@ -1163,6 +1143,26 @@
       "duration_ms": 183387,
       "name": "Velas",
       "url": "https://open.spotify.com/track/30XtLd1cxbWxzodM8lXrIS"
+    },
+    {
+      "added_at": "2025-11-14 06:00:13",
+      "album": {
+        "name": "Meneo",
+        "url": "https://open.spotify.com/album/1Kf6rAG1vw7aPVdygnZEHp"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 161632,
+      "name": "Relojito Cartier",
+      "url": "https://open.spotify.com/track/3GJgf5VJTnuFwh1YUFJGic"
     },
     {
       "added_at": "2025-11-14 06:00:13",

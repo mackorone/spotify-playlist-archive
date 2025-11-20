@@ -2,7 +2,7 @@
 
 ### [Culture Tubes](https://open.spotify.com/playlist/37i9dQZF1DXd0Y4aXXQXWv)
 
-> Les plus grands tubes de variété française d'hier et d'aujourd'hui\. Photo : Céline Dion
+> Les plus grands tubes de variété française d'hier et d'aujourd'hui\. Photo : Jean\-Jacques Goldman
 
 123 songs - 7 hr 51 min
 
@@ -65,7 +65,7 @@
 | [J'irai où tu iras \(with Jean\-Jacques Goldman\)](https://open.spotify.com/track/2dMLZBAf1mnrtviUHiwd7J) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK), [Jean\-Jacques Goldman](https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2) | [D'eux \- Édition 15ème Anniversaire](https://open.spotify.com/album/2rK67uK3n9hJObOecEJOjk) | 3:27 | 2024-03-05 |  |
 | [J't'emmène au vent](https://open.spotify.com/track/0Wr98MVkENZXddiLB3bPb0) | [Louise Attaque](https://open.spotify.com/artist/4CAsSAU842glNKJX71ndA9) | [Louise Attaque](https://open.spotify.com/album/2HkPAUQZm9D1wkJQeh9ENz) | 3:04 | 2023-04-04 |  |
 | [Je fais de toi mon essentiel \(avec Anne\-Laure Girbal\)](https://open.spotify.com/track/6H4TH5ntp7KzYePysRBcuT) | [Emmanuel Moire](https://open.spotify.com/artist/5YIaZ0ICxZyNEsATQRsxRk), [Anne\-Laure Girbal](https://open.spotify.com/artist/3FM0IXK9lSh0crQZ8oG9CL) | [Je fais de toi mon essentiel](https://open.spotify.com/album/57zABxgnCQxZRCaLY1RAIH) | 3:18 | 2023-04-04 | 2024-04-07 |
-| [Je l'aime à mourir \- Remastered](https://open.spotify.com/track/40U2kuipBVRrReD32J2lmO) | [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [Les chemins de traverse \(Remastered\)](https://open.spotify.com/album/59RjTKHBUudPnSU779PQ5x) | 2:43 | 2023-04-04 |  |
+| [Je l'aime à mourir \- Remastered](https://open.spotify.com/track/40U2kuipBVRrReD32J2lmO) | [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [Les chemins de traverse \(Remastered\)](https://open.spotify.com/album/59RjTKHBUudPnSU779PQ5x) | 2:45 | 2023-04-04 |  |
 | [Je m'en vais](https://open.spotify.com/track/6cZDf3mpynxrZbnx95j0tp) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6) | [Vianney](https://open.spotify.com/album/51uvnRRpgp7FEUO7Y0jj5O) | 3:18 | 2023-04-04 |  |
 | [Je suis un homme](https://open.spotify.com/track/33X8PxVlOvREs4URnDj9Fw) | [Zazie](https://open.spotify.com/artist/3FLS6y4AR3126l4D06V0ZD) | [Totem](https://open.spotify.com/album/2qgCOodXgN7d6Re5fT1Ezz) | 4:09 | 2023-04-04 | 2024-03-06 |
 | [Je t'aimais, je t'aime, je t'aimerai \- Remastered](https://open.spotify.com/track/1sTWIzAlg8HapeWz2fXvfJ) | [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [Samedi soir sur la terre \(Remastered\)](https://open.spotify.com/album/4KXrFpUXZO6e5RdZ70HaK8) | 4:38 | 2023-04-04 |  |

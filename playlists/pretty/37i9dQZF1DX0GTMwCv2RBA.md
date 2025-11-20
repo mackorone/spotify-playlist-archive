@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0GTMwCv2RBA.md) - [plain]
 
 > Listen to the soundtrack and discover music curated by director James Gunn for each character in Superman\. In theaters now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,420 likes - 198 songs - 12 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,380 likes - 198 songs - 12 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0GTMwCv2RBA.md) - [plain]
 | 89 | [Different Drum](https://open.spotify.com/track/3k63RLvRgkgPGx0keOH3P6) | [Stone Poneys](https://open.spotify.com/artist/2X9nnux4eS3CFBDSjcnoBQ), [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc) | [Evergreen, Vol.2](https://open.spotify.com/album/2FrEXjdS2mZO6sx6pA5MbY) | 2:39 |
 | 90 | [Wild is the wind](https://open.spotify.com/track/1Rv4seAZ1ZRw6Lx44iyQ6V) | [The Second Band](https://open.spotify.com/artist/6dDv5qojGMN9JnCdUvQ5Xb) | [Your dark side is on the phone](https://open.spotify.com/album/6A2FcgLclLWZAdYMeE4s4s) | 3:23 |
 | 91 | [He's a Whore](https://open.spotify.com/track/3FTK6lNkjUXM7mRpkrqlp0) | [Cheap Trick](https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU) | [Cheap Trick](https://open.spotify.com/album/3S08tRd0eIuzunVl2nR2xd) | 2:42 |
-| 92 | [Brandy \(You're a Fine Girl\)](https://open.spotify.com/track/2BY7ALEWdloFHgQZG6VMLA) | [Looking Glass](https://open.spotify.com/artist/5jJN1nmKXzRjodMl1THQeI) | [Looking Glass](https://open.spotify.com/album/5ThwnbpYrk9R1xXkAGCLIs) | 3:06 |
+| 92 | [Brandy \(You're a Fine Girl\)](https://open.spotify.com/track/2BY7ALEWdloFHgQZG6VMLA) | [Looking Glass](https://open.spotify.com/artist/5jJN1nmKXzRjodMl1THQeI) | [Looking Glass](https://open.spotify.com/album/5ThwnbpYrk9R1xXkAGCLIs) | 3:09 |
 | 93 | [Stray Cat Strut](https://open.spotify.com/track/5yogRsv5ggT6iCnFgvdpho) | [Stray Cats](https://open.spotify.com/artist/2ibPkysx2PXqWLmxFD7jSg) | [Built For Speed](https://open.spotify.com/album/65PptxxbOFNvpAK9oBeVV1) | 3:18 |
 | 94 | [88 Lines about 44 Women](https://open.spotify.com/track/6YSF0u64K0xreRh1uOJuPw) | [The Nails](https://open.spotify.com/artist/2onSkuDhuGUdwQLOYVcEBD) | [Mood Swing](https://open.spotify.com/album/5OHUOJZXL7usVIQI1BfdoV) | 4:56 |
 | 95 | [Mr\. Terrific: Spotify Official Playlist Introduction](https://open.spotify.com/track/42o03DxSIes34vzXOkslBR) | [James Gunn](https://open.spotify.com/artist/3tQtOquvJ7w7CG9TCIrOVU) | [Mr\. Terrific: Spotify Official Playlist Introduction](https://open.spotify.com/album/5We3k3ociyRXhRoKOQq5dN) | 0:41 |

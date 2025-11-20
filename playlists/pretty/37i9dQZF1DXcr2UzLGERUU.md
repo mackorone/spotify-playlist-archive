@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcr2UzLGERUU.md) - [plain]
 
 > Wind down in moments of stress with these chilled songs for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,922 likes - 93 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,944 likes - 93 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcr2UzLGERUU.md) - [plain]
 | 39 | [You Are My Sunshine \(Version 1\)](https://open.spotify.com/track/1va0w9M5N3w2xhCeXGQAZ0) | [Elizabeth Mitchell](https://open.spotify.com/artist/3gBQ1U5dXpRXS6tlbyNTDM) | [You Are My Sunshine](https://open.spotify.com/album/4y8c6SoPIRsPy1cxXLmR17) | 2:48 |
 | 40 | [Look Up, Slow Down](https://open.spotify.com/track/5G6BsPcp90Hnkl0ed0lPmy) | [Music with Michal](https://open.spotify.com/artist/0yWkbyIrjncjW6FdtfgRSc), [Claudia Robin Gunn](https://open.spotify.com/artist/1Dnn2mwwu3QwyQjXJFqyZN) | [Look Up, Slow Down](https://open.spotify.com/album/2RsQxq9lTwabFtHN3OfVJ3) | 3:14 |
 | 41 | [Right Here](https://open.spotify.com/track/1qE2VaY6WxPzPFraprTIX7) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Right Here](https://open.spotify.com/album/5aPuy7TykLKig3QG4Ca6Tu) | 3:55 |
-| 42 | [Who You Love \(feat\. Katy Perry\)](https://open.spotify.com/track/7IByJvSqRFltGyiiIiL4wn) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Paradise Valley](https://open.spotify.com/album/712VoD72K500yLhhgqCyVe) | 4:09 |
+| 42 | [Who You Love \(feat\. Katy Perry\)](https://open.spotify.com/track/7IByJvSqRFltGyiiIiL4wn) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Paradise Valley](https://open.spotify.com/album/712VoD72K500yLhhgqCyVe) | 4:12 |
 | 43 | [I Can See Clearly Now](https://open.spotify.com/track/3e6JSJ8NtOzxbatXKnV6xh) | [Renee & Jeremy](https://open.spotify.com/artist/7IBisryIBGbvj4wBDuRvy5), [Renee Stahl](https://open.spotify.com/artist/2WfQMdILaDJoPYCcWKKqpJ), [Jeremy Toback](https://open.spotify.com/artist/1aH1XTozXuGinGzdNWzyrt) | [Whole Lotta Love](https://open.spotify.com/album/1VbKUzv2wMxhQq1itmdHyR) | 2:50 |
 | 44 | [Underneath the Marshmallow Tree](https://open.spotify.com/track/3j8nHrfqyAu2yxsBFWKec0) | [Elena Moon Park](https://open.spotify.com/artist/4Okanr8CZ6f2oGudDIyv77) | [Unhurried Journey](https://open.spotify.com/album/7w5fyghQ8REBwoshGruGEl) | 4:25 |
 | 45 | [Father And Son](https://open.spotify.com/track/77vgQcXbwX5C4oapmx6phI) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Gold](https://open.spotify.com/album/1S1NJXGjE6yBGIq2PhVKyE) | 3:40 |
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcr2UzLGERUU.md) - [plain]
 | 65 | [Blackbird](https://open.spotify.com/track/39GbSCrIorvWBEa7nEgEOG) | [The Beat Bugs](https://open.spotify.com/artist/2zaXzyRTG9N2adhmmnV31p), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Beat Bugs: Best Of Seasons 1 & 2 \(Music From The Original Series\)](https://open.spotify.com/album/3uX8io8RokH3S3NEW612EG) | 2:31 |
 | 66 | [Hold My Girl](https://open.spotify.com/track/42bbDWZ8WmXTH7PkYAlGLu) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 3:31 |
 | 67 | [Lost Boy](https://open.spotify.com/track/0zMzyHAeMvwq5CRstru1Fp) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Safe Haven](https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52) | 4:36 |
-| 68 | [Waiting On the World to Change](https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM) | 3:21 |
+| 68 | [Waiting On the World to Change](https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM) | 3:20 |
 | 69 | [In a World of My Own](https://open.spotify.com/track/7dZxdl7WCKrMACQ9ha982f) | [Diana Panton](https://open.spotify.com/artist/7iHXhGerkdpvUAIb67GCSj) | [I Believe in Little Things](https://open.spotify.com/album/1uinrEFIJaxI9mjybo0DFj) | 3:58 |
 | 70 | [Colors](https://open.spotify.com/track/72SPsHheqN6J3sI520jT9E) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Amos Lee](https://open.spotify.com/album/0hPXaSKyujqCej452raazD) | 2:40 |
 | 71 | [XO](https://open.spotify.com/track/0oa6d6Nz5BmP7jquxEoyMm) | [Anna Elizabeth Laube](https://open.spotify.com/artist/6O0rWDT0LuZk9Cpe45kbcx) | [Tree](https://open.spotify.com/album/3pALJvtTxIm5i1aYlaZDnA) | 3:55 |

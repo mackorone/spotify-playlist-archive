@@ -1,6 +1,6 @@
 {
   "description": "Legendary tracks been produced on a TR-909 drum machine. Cover: Jeff Mills",
-  "num_followers": 189645,
+  "num_followers": 189712,
   "original_name": "909 Classics",
   "owner": {
     "name": "Spotify",
@@ -779,6 +779,22 @@
     {
       "added_at": "2024-07-10 08:25:56",
       "album": {
+        "name": "Pool Party Music",
+        "url": "https://open.spotify.com/album/6D0804q8EoEHqWUH3wGGxF"
+      },
+      "artists": [
+        {
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+        }
+      ],
+      "duration_ms": 367619,
+      "name": "Pool Party Music",
+      "url": "https://open.spotify.com/track/0PPpehRoJCBZYmZSUEJcot"
+    },
+    {
+      "added_at": "2024-07-10 08:25:56",
+      "album": {
         "name": "The Very Best Of 1990 - 1997",
         "url": "https://open.spotify.com/album/1uFAUMUiDxxL59YZFlsou0"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 207960,
       "name": "LFO - Leeds Warehouse Mix",
       "url": "https://open.spotify.com/track/1ENkpHz1LU2JlH0g3HnO2W"
-    },
-    {
-      "added_at": "2024-07-10 08:25:56",
-      "album": {
-        "name": "I Have a Question",
-        "url": "https://open.spotify.com/album/4sSqDINTJ5OtTEHM9dVgmI"
-      },
-      "artists": [
-        {
-          "name": "K-Hand",
-          "url": "https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G"
-        }
-      ],
-      "duration_ms": 361402,
-      "name": "Sound 6",
-      "url": "https://open.spotify.com/track/5eKjIuddXknAUujhrtQsz4"
     }
   ],
   "unique_name": "909 Classics",

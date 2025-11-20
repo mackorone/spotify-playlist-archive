@@ -545,6 +545,24 @@
     },
     {
       "album": {
+        "name": "A Fleeting Place",
+        "url": "https://open.spotify.com/album/5aw6cIKxoGQsg8V3WX6z8M"
+      },
+      "artists": [
+        {
+          "name": "Koji Ishikura",
+          "url": "https://open.spotify.com/artist/53sLrXzxyCQ8ODetySQpzV"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150866,
+      "name": "A Fleeting Place",
+      "url": "https://open.spotify.com/track/4lq1X8B9hKV2l2LvhXZ70A"
+    },
+    {
+      "album": {
         "name": "12 & 1 SONG (Remastered 2022)",
         "url": "https://open.spotify.com/album/2DJ7kqNTU47JKFoflue4H7"
       },
@@ -14882,7 +14900,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 123953,
       "name": "Yip, Yip, Yip",
       "url": "https://open.spotify.com/track/3VJmF2hR2VRA9EPEywJAoB"

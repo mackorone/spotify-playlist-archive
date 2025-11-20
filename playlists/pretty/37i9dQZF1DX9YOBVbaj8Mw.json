@@ -1,6 +1,6 @@
 {
   "description": "Pos\u0142uchaj zwyci\u0119zc\u00f3w i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 19282,
+  "num_followers": 19283,
   "original_name": "Fryderyk 2025",
   "owner": {
     "name": "Spotify",
@@ -503,26 +503,6 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "Kasia i B\u0142a\u017cej",
-        "url": "https://open.spotify.com/album/6UH0UcgRruP71UGChmwNCi"
-      },
-      "artists": [
-        {
-          "name": "Nosowska",
-          "url": "https://open.spotify.com/artist/0GykMtlKoc68Hj2jwZLXul"
-        },
-        {
-          "name": "B\u0142a\u017cej Kr\u00f3l",
-          "url": "https://open.spotify.com/artist/0gH4VBwt5MwWomiOXloDC4"
-        }
-      ],
-      "duration_ms": 240280,
-      "name": "Mo\u017cna",
-      "url": "https://open.spotify.com/track/77hzpC7B8W8GqLmY6XI2fi"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
         "name": "BIA\u0141E SZALE\u0143STWO",
         "url": "https://open.spotify.com/album/1lWO1MS6sDfQ8OcITjSCX9"
       },
@@ -543,6 +523,26 @@
       "duration_ms": 154886,
       "name": "TYLE MAM",
       "url": "https://open.spotify.com/track/4vpLSrS5KA9okRlGfgukIv"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
+        "name": "Kasia i B\u0142a\u017cej",
+        "url": "https://open.spotify.com/album/6UH0UcgRruP71UGChmwNCi"
+      },
+      "artists": [
+        {
+          "name": "Nosowska",
+          "url": "https://open.spotify.com/artist/0GykMtlKoc68Hj2jwZLXul"
+        },
+        {
+          "name": "B\u0142a\u017cej Kr\u00f3l",
+          "url": "https://open.spotify.com/artist/0gH4VBwt5MwWomiOXloDC4"
+        }
+      ],
+      "duration_ms": 240280,
+      "name": "Mo\u017cna",
+      "url": "https://open.spotify.com/track/77hzpC7B8W8GqLmY6XI2fi"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -1171,30 +1171,6 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "Come back...",
-        "url": "https://open.spotify.com/album/6admD4ZvV7VDYrJZ6jNE7v"
-      },
-      "artists": [
-        {
-          "name": "Henryk Miskiewicz",
-          "url": "https://open.spotify.com/artist/76vMiiQed2ErHD9VMnl6Ie"
-        },
-        {
-          "name": "Chopin University Big Band",
-          "url": "https://open.spotify.com/artist/1MYHzClHBMXiGszv6dVQeY"
-        },
-        {
-          "name": "Piotr Kostrzewa",
-          "url": "https://open.spotify.com/artist/4Y6wgs2MdhYn22SQnsO4pB"
-        }
-      ],
-      "duration_ms": 416128,
-      "name": "Kakaruka",
-      "url": "https://open.spotify.com/track/2fb3RHwPrq85YYh9pl4wdN"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
         "name": "I Love Music",
         "url": "https://open.spotify.com/album/3ax69VaksMlVgF40ODHaGj"
       },
@@ -1219,6 +1195,30 @@
       "duration_ms": 443446,
       "name": "Tatras",
       "url": "https://open.spotify.com/track/4wqezzclMc5BojbtQp0b8r"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
+        "name": "Come back...",
+        "url": "https://open.spotify.com/album/6admD4ZvV7VDYrJZ6jNE7v"
+      },
+      "artists": [
+        {
+          "name": "Henryk Miskiewicz",
+          "url": "https://open.spotify.com/artist/76vMiiQed2ErHD9VMnl6Ie"
+        },
+        {
+          "name": "Chopin University Big Band",
+          "url": "https://open.spotify.com/artist/1MYHzClHBMXiGszv6dVQeY"
+        },
+        {
+          "name": "Piotr Kostrzewa",
+          "url": "https://open.spotify.com/artist/4Y6wgs2MdhYn22SQnsO4pB"
+        }
+      ],
+      "duration_ms": 416128,
+      "name": "Kakaruka",
+      "url": "https://open.spotify.com/track/2fb3RHwPrq85YYh9pl4wdN"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -1387,6 +1387,34 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
+        "name": "I Love Music",
+        "url": "https://open.spotify.com/album/3ax69VaksMlVgF40ODHaGj"
+      },
+      "artists": [
+        {
+          "name": "Piotr Wyle\u017co\u0142",
+          "url": "https://open.spotify.com/artist/6kFGf7LjZ4VWQoLDpV01Wx"
+        },
+        {
+          "name": "Andy Middleton",
+          "url": "https://open.spotify.com/artist/3l4FSoJ0ryzsijXpfzRK0N"
+        },
+        {
+          "name": "Ferenc Nemeth",
+          "url": "https://open.spotify.com/artist/4O5HLtQDOEZSd3bekZBIBB"
+        },
+        {
+          "name": "Micha\u0142 Bara\u0144ski",
+          "url": "https://open.spotify.com/artist/6oH0zM5dxLJn7DSHsKuM0A"
+        }
+      ],
+      "duration_ms": 577993,
+      "name": "Blue Hour",
+      "url": "https://open.spotify.com/track/3cXAWUKMUREsKv9Gno7s06"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
         "name": "W\u0119druj\u0105cy Ptak",
         "url": "https://open.spotify.com/album/6rIbLAAY1oh8fniB0cStlA"
       },
@@ -1423,34 +1451,6 @@
       "duration_ms": 312842,
       "name": "Tear",
       "url": "https://open.spotify.com/track/6zjdgDTLPzSCZdLwYQVIiF"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
-        "name": "I Love Music",
-        "url": "https://open.spotify.com/album/3ax69VaksMlVgF40ODHaGj"
-      },
-      "artists": [
-        {
-          "name": "Piotr Wyle\u017co\u0142",
-          "url": "https://open.spotify.com/artist/6kFGf7LjZ4VWQoLDpV01Wx"
-        },
-        {
-          "name": "Andy Middleton",
-          "url": "https://open.spotify.com/artist/3l4FSoJ0ryzsijXpfzRK0N"
-        },
-        {
-          "name": "Ferenc Nemeth",
-          "url": "https://open.spotify.com/artist/4O5HLtQDOEZSd3bekZBIBB"
-        },
-        {
-          "name": "Micha\u0142 Bara\u0144ski",
-          "url": "https://open.spotify.com/artist/6oH0zM5dxLJn7DSHsKuM0A"
-        }
-      ],
-      "duration_ms": 577993,
-      "name": "Blue Hour",
-      "url": "https://open.spotify.com/track/3cXAWUKMUREsKv9Gno7s06"
     },
     {
       "added_at": "2025-04-06 08:27:45",

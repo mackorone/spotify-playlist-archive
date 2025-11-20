@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tz6EDao8it.md) - [plain]
 
 > Timeless, unforgettable melodies from the movies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,315,406 likes - 131 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,315,648 likes - 131 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tz6EDao8it.md) - [plain]
 | 10 | [Raiders March](https://open.spotify.com/track/1YYKKW40noxJ8BNBODnriF) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Indiana Jones and the Kingdom of the Crystal Skull \(International Jewel\)](https://open.spotify.com/album/6NKHFx1dBKrBU68RDFo76f) | 5:05 |
 | 11 | [Flying Theme \(From "E.T\. the Extra\-Terrestrial"\)](https://open.spotify.com/track/4J9mulgiRlkkgdAONNVGQv) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [John Williams \- Greatest Hits 1969\-1999](https://open.spotify.com/album/3xeo92ykCYWfe32si3I6zF) | 3:42 |
 | 12 | [I'm Not a Hero](https://open.spotify.com/track/56pKYnSA0CyayMJWcEU5kH) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Dark Knight \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/63uFfOZpC7jrV7wfuBY2lX) | 6:34 |
-| 13 | [Episode I \- Duel of The Fates](https://open.spotify.com/track/4oZwvVtLqXMdZLJnlQDlt1) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [London Voices](https://open.spotify.com/artist/7y3ULlnKKpeZ4JOKMAJQzK) | [Star Wars Episode 1: The Phantom Menace: Original Motion Picture Soundtrack](https://open.spotify.com/album/69YzvRcwhpusDLxorifBl1) | 4:14 |
+| 13 | [Duel of the Fates](https://open.spotify.com/track/4oZwvVtLqXMdZLJnlQDlt1) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [London Voices](https://open.spotify.com/artist/7y3ULlnKKpeZ4JOKMAJQzK) | [Star Wars Episode I: The Phantom Menace \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/69YzvRcwhpusDLxorifBl1) | 4:14 |
 | 14 | [Pure spirits of the forest](https://open.spotify.com/track/1IFME3mAnOYVDv4I2gMUyd) | [James Horner](https://open.spotify.com/artist/3PhL2Vdao2v8SS8AptuhAr) | [AVATAR Music From The Motion Picture Music Composed and Conducted by James Horner \(Deluxe\)](https://open.spotify.com/album/2n9XTeWA3qyZVxWiH8TKlV) | 8:49 |
 | 15 | [I'm Forrest..\. Forrest Gump](https://open.spotify.com/track/1ijrMIqQvZNsnoqGukPzFD) | [Alan Silvestri](https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA) | [Forrest Gump \- Original Motion Picture Score](https://open.spotify.com/album/1Fw951OcmbeCmVnnNcRYrp) | 2:39 |
 | 16 | [The Good, The Bad And The Ugly \- 2004 Remaster](https://open.spotify.com/track/1JSIWsJfxOji0FrxFcxdCK) | [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C) | [The Good, The Bad And The Ugly \[Original Motion Picture Soundtrack / \(Remastered & Expanded\)\]](https://open.spotify.com/album/1oLT2HO5MVNS8U4kEuBvdJ) | 2:42 |

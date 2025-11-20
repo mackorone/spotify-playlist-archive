@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: 松任谷由実 Yumi Matsutoya
 
-3,469 songs - 9 day 5 hr 15 min
+3,470 songs - 9 day 5 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2114,7 +2114,7 @@
 | [きょうの空にまるい月](https://open.spotify.com/track/2EMqN4cIOOaL4fhIRUzTrn) | [江﨑文武](https://open.spotify.com/artist/3AAwWUnp6ZdLgfin1hQYd2), [Aoi Teshima](https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD) | [はじまりの夜](https://open.spotify.com/album/2a4fbJxLjZzfTlSloBMJxL) | 5:46 | 2023-05-30 | 2023-06-21 |
 | [きれいなおじさん](https://open.spotify.com/track/7LvVO2U8Sot0EFyV1bcDsx) | [井上園子](https://open.spotify.com/artist/1CrUJuV3FPAvDK7do7QQRm) | [ほころび](https://open.spotify.com/album/4hI1UKKAgliU95KADRBtiZ) | 7:12 | 2024-09-03 | 2024-09-25 |
 | [きれいなわたし](https://open.spotify.com/track/0f0O7RMVcvyqS4qXHYsSnq) | [Manatsu Nagahara](https://open.spotify.com/artist/7eiPZxPx3fflpweXb8NbnJ) | [imagination](https://open.spotify.com/album/3c4wcYK91AIYwZQhy8iI14) | 3:08 | 2022-11-01 | 2022-11-09 |
-| [くすぐったい。](https://open.spotify.com/track/38AcP3Bam3btVBm7UatiTJ) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [くすぐったい。](https://open.spotify.com/album/5UTPQGDcH5xJUEF4wOVjUp) | 3:49 | 2025-11-11 |  |
+| [くすぐったい。](https://open.spotify.com/track/38AcP3Bam3btVBm7UatiTJ) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [くすぐったい。](https://open.spotify.com/album/5UTPQGDcH5xJUEF4wOVjUp) | 3:49 | 2025-11-11 | 2025-11-20 |
 | [ぐらぐら](https://open.spotify.com/track/3bkVrZhc45T120CCPQBmJ1) | [JUJU](https://open.spotify.com/artist/5VLVogbPeBgFHXQPZQzBej) | [The Water](https://open.spotify.com/album/1PDOiHUsOrzAyHUXlcubC0) | 4:11 | 2025-03-04 | 2025-03-12 |
 | [けむしbe蝶々](https://open.spotify.com/track/1ShJROKaQ178tgA3LxHGwf) | [Manatsu Nagahara](https://open.spotify.com/artist/7eiPZxPx3fflpweXb8NbnJ) | [うさぎなるままに](https://open.spotify.com/album/1ITvQUglCZvQBNdqCpogkb) | 3:35 | 2025-11-04 | 2025-11-12 |
 | [こうかいのさき](https://open.spotify.com/track/4YWIixtQ7jbEatj1Zyrsqx) | [とた](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [こうかいのさき](https://open.spotify.com/album/4jlHRafgtENl3jfSdNBufG) | 3:17 | 2022-12-15 | 2022-12-17 |
@@ -2750,6 +2750,7 @@
 | [六等星](https://open.spotify.com/track/60d17t7XsJ2zPfwiPno21s) | [ざらめ](https://open.spotify.com/artist/79S25nNlhtMOOMLV30SvHM) | [六等星](https://open.spotify.com/album/5Yi9AAcp5IUSpHJV2fCzAv) | 4:14 | 2024-07-25 | 2025-07-09 |
 | [再愛](https://open.spotify.com/track/61YMwu4Xg1nH1d5f0YrTBC) | [Rythem](https://open.spotify.com/artist/28Be7eeRSqjriWnRuxhpOA) | [再愛](https://open.spotify.com/album/3BDdXgwJPJTCQTQ4krGpZZ) | 5:00 | 2023-01-26 | 2023-02-01 |
 | [冒険の書](https://open.spotify.com/track/3OUp0rUvnvPlXHzPE1pe2R) | [\*Luna](https://open.spotify.com/artist/4vwJe968gHHZzL0or0gSZA), [Yuaru](https://open.spotify.com/artist/0MJZFhZQwhlhY7I0fRUKRj) | [冒険の書](https://open.spotify.com/album/23OCUse0jdDipp1xxsZnuX) | 3:44 | 2023-05-09 | 2023-05-17 |
+| [冬の魔法](https://open.spotify.com/track/7Ez0TwE0PKAkJG9x7mhBEU) | [Aogumo](https://open.spotify.com/artist/605C4AcUUwB66JjpKjX1aO) | [冬の魔法](https://open.spotify.com/album/5S7Lefial9F6o8iX5OxSpe) | 3:07 | 2025-11-18 |  |
 | [凍える指先の温め方を知ってる](https://open.spotify.com/track/2A9t75q0ojqZnRiLrcCNdM) | [林青空](https://open.spotify.com/artist/1kfzM6uJoM7Mw4RtW0FFtO) | [凍える指先の温め方を知ってる](https://open.spotify.com/album/7xqDzVx1ZmV5rk8AgekUpM) | 3:40 | 2022-06-30 | 2022-07-19 |
 | [凸凹 \(tofubeats remix\)](https://open.spotify.com/track/4bbiiQyG3sx7tlhm29sdmh) | [Kiyoe Yoshioka](https://open.spotify.com/artist/7sG4FexEprpVch00GAM0w7), [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT) | [凸凹](https://open.spotify.com/album/1Gs6P24ZBA7GQaO8lcPsaS) | 5:27 | 2022-06-30 | 2022-07-05 |
 | [出ていけ！カレシ！](https://open.spotify.com/track/25zrDXmnAZulWCfljroSc9) | [ボタニカルな暮らし。](https://open.spotify.com/artist/14K2FbpG5vkdJZiMx5JPh5) | [出ていけ！カレシ！](https://open.spotify.com/album/6FucYwKJxu8VRNCzvrMWIx) | 4:21 | 2024-01-02 | 2024-01-10 |

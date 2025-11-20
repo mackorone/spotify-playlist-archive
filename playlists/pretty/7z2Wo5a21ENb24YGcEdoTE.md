@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7z2Wo5a21ENb24YGcEdoTE.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,598 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,596 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/7z2Wo5a21ENb24YGcEdoTE.md) - [plain]
 | 34 | [As Long As You Love Me](https://open.spotify.com/track/0pwYLVXVknPSGUQb39cePC) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Believe \(Deluxe Edition\)](https://open.spotify.com/album/70f70xLCpH7wHaVvB2oZT9) | 3:49 |
 | 35 | [Turn Me On \(feat\. Nicki Minaj\)](https://open.spotify.com/track/0zlD8JjDsFUUmofqPE83Cj) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Nothing but the Beat](https://open.spotify.com/album/08DAekBeqPRCsn3XHDwj6b) | 3:19 |
 | 36 | [Moves Like Jagger \- Studio Recording From "The Voice" Performance](https://open.spotify.com/track/7LcfRTgAVTs5pQGEQgUEzN) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Hands All Over](https://open.spotify.com/album/7strNUlU6xZqlVWBNUdOYv) | 3:21 |
-| 37 | [Blow Me \(One Last Kiss\)](https://open.spotify.com/track/6LS6pltO7YBgjwNVhxMwtp) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [The Truth About Love](https://open.spotify.com/album/2rBb9rAEuMC8VH9uk7js3e) | 4:15 |
+| 37 | [Blow Me](https://open.spotify.com/track/6LS6pltO7YBgjwNVhxMwtp) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [The Truth About Love](https://open.spotify.com/album/2rBb9rAEuMC8VH9uk7js3e) | 4:15 |
 | 38 | [Good Time](https://open.spotify.com/track/02GjIfCpwttPAikjm5Hwcb) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6), [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Good Time](https://open.spotify.com/album/6eTUdRcRan6CLK6s3g5YlH) | 3:26 |
 | 39 | [Give Your Heart a Break](https://open.spotify.com/track/3sP3c86WFjOzHHnbhhZcLA) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Unbroken](https://open.spotify.com/album/1ypH0eU9RcE6wngSGSqmeY) | 3:25 |
 | 40 | [Ni\*\*as In Paris](https://open.spotify.com/track/2Zb7wnGUnNPCas2E0wWSQ5) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Watch The Throne \(Deluxe\)](https://open.spotify.com/album/1YwzJz7CrV9fd9Qeb6oo1d) | 3:39 |

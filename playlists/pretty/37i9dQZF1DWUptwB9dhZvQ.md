@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 
 > Its time to relish the best themes of Kollywood!<br/>Cover : Coolie
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,507 likes - 75 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,536 likes - 75 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 | 6 | [JD Intro \- Background Score](https://open.spotify.com/track/7KqmDr9lTjwXnX5krMIKiC) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Master \(Original Background Score\)](https://open.spotify.com/album/4iFurFyAPhOlzwQTc5aXN2) | 1:20 |
 | 7 | [Benz In The Universe Theme \- From "Benz"](https://open.spotify.com/track/0fHJMPTfOZX4ief6dp8UgO) | [Sai Abhyankkar](https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc) | [Benz In The Universe Theme \(From "Benz"\)](https://open.spotify.com/album/4QYeVQr1Uvy5Pm2G5iPclD) | 2:00 |
 | 8 | [Lokiverse \- Background Score](https://open.spotify.com/track/209pScL6fUhISxcLWkB6rf) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 2:36 |
-| 9 | [Mankatha Theme Music](https://open.spotify.com/track/1A1YlVucS5hugYaeWXfCA8) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Mankatha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5SV5Wjj3CH23kMOg4VrO33) | 3:04 |
+| 9 | [Mankatha Theme Music](https://open.spotify.com/track/1A1YlVucS5hugYaeWXfCA8) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Mankatha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5SV5Wjj3CH23kMOg4VrO33) | 3:09 |
 | 10 | [Gumthalakadi Gala Gala](https://open.spotify.com/track/3CaQ7uPo5xOIFLXpL1HZLg) | [Leon James](https://open.spotify.com/artist/0wv5i0ds2z040yx7oL6UZy) | [Dragon \(Original Score\)](https://open.spotify.com/album/4J53sSdhRl5wA2qfw5AWy2) | 1:59 |
 | 11 | [Dub Theri Step](https://open.spotify.com/track/3ZUAuDavYW0KrYf1Q3fBDP) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Arunraja Kamaraj](https://open.spotify.com/artist/3jw6WnDlhrKkNjgcp8JGQe) | [Theri \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/57PZ81n80Hwh4fNLdsx7vp) | 1:59 |
 | 12 | [Twin Fish Walter \- From "Benz"](https://open.spotify.com/track/1uLRlKNoXLVeoc1cB25mva) | [Sai Abhyankkar](https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc) | [Twin Fish Walter \(From "Benz"\)](https://open.spotify.com/album/1ScLNCoLnooOF78ozrByRp) | 2:47 |

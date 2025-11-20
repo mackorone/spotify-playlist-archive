@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU9jBen8IUSn.md) - [plain]
 
 > THE David Byrne shares his biking soundtrack of familiar and obscure tunes for pedaling through the city\. Check out <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">past mixtapes here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,898 likes - 51 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,009 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,12 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU9jBen8IUSn.md) - [plain]
 | 42 | [I'll Pretend](https://open.spotify.com/track/3FwDtlpn9IDw3td9TBOg3n) | [Swamp Dogg](https://open.spotify.com/artist/6ZEUa75BqZkvpjhuVzCsdX), [Guitar Shorty](https://open.spotify.com/artist/3A01qH4VCBkDXcDc2luyNc), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Love, Loss, and Auto\-Tune](https://open.spotify.com/album/5G3PzVM8L463CWJdONUz00) | 4:24 |
 | 43 | [Can't Get Enough of Myself \(feat\. BC Unidos\)](https://open.spotify.com/track/5RuKwWwNwA2URfO4btAKwZ) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p), [BC Unidos](https://open.spotify.com/artist/2gn19OAsopaOKSrDw9ma08) | [99 Cents](https://open.spotify.com/album/0DOzmXcSztIomiurOwMivk) | 3:57 |
 | 44 | [We the Common \(For Valerie Bolden\)](https://open.spotify.com/track/0wjR7nKj3yQz8LlnXkLAya) | [Thao](https://open.spotify.com/artist/4PfWwzCyXuXAjuaisibSKG), [Thao & The Get Down Stay Down](https://open.spotify.com/artist/2dn0CGCWvtrwZ66bOeLNb2) | [We the Common](https://open.spotify.com/album/1SA28GGVgg2QepP6laWC74) | 3:37 |
-| 45 | [What If](https://open.spotify.com/track/1aBNGaagfaeFjbVcccudxt) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Free Love](https://open.spotify.com/album/2KAPJ40On8JY1Yt64JJgTk) | 1:25 |
-| 46 | [Stand Up \(From Harriet\)](https://open.spotify.com/track/3wNNbf63xkxw9rIVWtFy7a) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Stand Up \(From Harriet\)](https://open.spotify.com/album/2csFa6zpizG4hDUqQgj95C) | 5:03 |
-| 47 | [Pray for Newtown](https://open.spotify.com/track/1CCM6UoGmzuiD4LHEaWj6r) | [Sun Kil Moon](https://open.spotify.com/artist/4G0XDEk7RbA4BBCTs917U9) | [Benji](https://open.spotify.com/album/2y2QZ4uDpzoZHgH2il5Ktu) | 4:08 |
-| 48 | [The Wilhelm Scream](https://open.spotify.com/track/1Rs7JYXvc1zAzxJcQHihYR) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [James Blake](https://open.spotify.com/album/7MSKLgs6zBCV2Uhp3MZmVV) | 4:37 |
-| 49 | [Bloodline](https://open.spotify.com/track/0uEkDFrfTS24kzANpkfPLk) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Bloodline](https://open.spotify.com/album/6w9KqIfC7zIoKmdJgs9yBA) | 3:49 |
-| 50 | [Hold On](https://open.spotify.com/track/3fUqWnDqW95Mz2V73Pwd8K) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls \(Deluxe Edition\)](https://open.spotify.com/album/55ye5wDWdOgEQ1FuA09I3T) | 3:46 |
-| 51 | [Hammer](https://open.spotify.com/track/5XpZFOSIvQlHLZV39uHNkW) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Hammer](https://open.spotify.com/album/6yPr0ELbEgCD9cmS5CLBGU) | 3:13 |
+| 45 | [Stand Up \(From Harriet\)](https://open.spotify.com/track/3wNNbf63xkxw9rIVWtFy7a) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Stand Up \(From Harriet\)](https://open.spotify.com/album/2csFa6zpizG4hDUqQgj95C) | 5:03 |
+| 46 | [Pray for Newtown](https://open.spotify.com/track/1CCM6UoGmzuiD4LHEaWj6r) | [Sun Kil Moon](https://open.spotify.com/artist/4G0XDEk7RbA4BBCTs917U9) | [Benji](https://open.spotify.com/album/2y2QZ4uDpzoZHgH2il5Ktu) | 4:08 |
+| 47 | [The Wilhelm Scream](https://open.spotify.com/track/1Rs7JYXvc1zAzxJcQHihYR) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [James Blake](https://open.spotify.com/album/7MSKLgs6zBCV2Uhp3MZmVV) | 4:37 |
+| 48 | [Bloodline](https://open.spotify.com/track/0uEkDFrfTS24kzANpkfPLk) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Bloodline](https://open.spotify.com/album/6w9KqIfC7zIoKmdJgs9yBA) | 3:49 |
+| 49 | [Hold On](https://open.spotify.com/track/3fUqWnDqW95Mz2V73Pwd8K) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls \(Deluxe Edition\)](https://open.spotify.com/album/55ye5wDWdOgEQ1FuA09I3T) | 3:46 |
+| 50 | [Hammer](https://open.spotify.com/track/5XpZFOSIvQlHLZV39uHNkW) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Hammer](https://open.spotify.com/album/6yPr0ELbEgCD9cmS5CLBGU) | 3:13 |
 
-Snapshot ID: `AAAAAN2XbcIy0CqS0A4o0kRhk/QnPyFv`
+Snapshot ID: `AAAAAFAKU21pJFqKYJU4bIoRkYpx2AUP`

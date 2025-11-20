@@ -4,7 +4,7 @@
 
 > A deep and concise look at the music that made Country Music what is is today\. Covers eras <br/>1930's \- 1990.
 
-129 songs - 6 hr 31 min
+129 songs - 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Back In The Saddle Again](https://open.spotify.com/track/4eePcTiLO6o5W4ejSQ7uSn) | [Gene Autry](https://open.spotify.com/artist/5ixB75BQR3ADoWQkcHQJTs) | [The Essential Gene Autry](https://open.spotify.com/album/3P6M5MLTnlE2sngM0iMvV8) | 2:35 | 2020-10-14 |  |
 | [Barbara Allen](https://open.spotify.com/track/4Ip5zk0Ggg9c7t9K9MjVQC) | [Bradley Kincaid](https://open.spotify.com/artist/1vwJ8b0MaJHt3g6RIsZUkZ) | [Mountain Ballads and Old\-Time Songs](https://open.spotify.com/album/7iMSYXcwED1lOMEoNnLzi1) | 3:25 | 2020-10-14 |  |
 | [Barbara Allen](https://open.spotify.com/track/7IKviaNxgzeaTe5L4xABaS) | [Bradley Kincaid](https://open.spotify.com/artist/1vwJ8b0MaJHt3g6RIsZUkZ) | [Mountain Ballads and Old\-Time Songs](https://open.spotify.com/album/2B5KwIYnFejB10SYYikVFI) | 3:25 | 2022-05-06 | 2024-04-19 |
-| [Blue Eyes Crying In the Rain](https://open.spotify.com/track/2uRVPeQbsEpRQD0DKr1WTo) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Red Headed Stranger](https://open.spotify.com/album/5aEtg4dxdBk4pj6SJ3hNsM) | 2:18 | 2020-10-14 |  |
+| [Blue Eyes Crying In the Rain](https://open.spotify.com/track/2uRVPeQbsEpRQD0DKr1WTo) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Red Headed Stranger](https://open.spotify.com/album/5aEtg4dxdBk4pj6SJ3hNsM) | 2:21 | 2020-10-14 |  |
 | [Blue Yodel \(T for Texas\)](https://open.spotify.com/track/2pzpApfqE2LaXW5StD1FUA) | [Jimmie Rodgers](https://open.spotify.com/artist/0Y0ZlznP6vzTS1qAm5dvTN) | [RCA Country Legends](https://open.spotify.com/album/6TXhBKNTITmOTWCbHaQKIG) | 3:23 | 2022-05-06 | 2024-04-19 |
 | [Blue Yodel \(T for Texas\)](https://open.spotify.com/track/7xTEHj4Qn4Z4qeOKTphV4R) | [Jimmie Rodgers](https://open.spotify.com/artist/0Y0ZlznP6vzTS1qAm5dvTN) | [Essential Jimmie Rodgers](https://open.spotify.com/album/2b63DXyYt94LH9iKBvlMCO) | 3:24 | 2020-10-14 |  |
 | [Blue Yodel \(T For Texas\)](https://open.spotify.com/track/5lfSe4rCb3p6d4Yl2v8Wy1) | [Jimmie Rodgers](https://open.spotify.com/artist/0Y0ZlznP6vzTS1qAm5dvTN) | [Blue Yodel](https://open.spotify.com/album/7eTvW6NveYIh0YLJoHX56k) | 3:26 | 2022-05-06 | 2022-11-13 |
@@ -89,7 +89,7 @@
 | [Love Hurts \(with The Fallen Angels\) \- Live](https://open.spotify.com/track/33Qw3Gl3PZqs4kqR4VIEqC) | [Gram Parsons](https://open.spotify.com/artist/1KA3WXYMPLxomNuoE22LYd), [The Fallen Angels](https://open.spotify.com/artist/6Sm7fCHCdnZgqcBGl3u9Cu) | [Country Music \- A Film by Ken Burns \(The Soundtrack\) \[Deluxe\]](https://open.spotify.com/album/3ZAFnRYQRAiBplISQFj7nC) | 4:44 | 2020-10-14 |  |
 | [Lovesick Blues \- Single Version](https://open.spotify.com/track/4RZFpgo4VzBjH5g7XCHo2l) | [Hank Williams](https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW) | [40 Greatest Hits](https://open.spotify.com/album/6zIYEv6soMoaZiypsHB5dd) | 2:45 | 2020-10-14 |  |
 | [Mama Tried \- Remastered 2001](https://open.spotify.com/track/1FTlLpP6V05yJWmcIg0rlK) | [Merle Haggard & The Strangers](https://open.spotify.com/artist/3mSAqBoXQgdlpwzWsIgBzL) | [Mama Tried](https://open.spotify.com/album/0f6Gx3lFLqdcY8XSXMKgCm) | 2:12 | 2020-10-14 |  |
-| [Man in Black](https://open.spotify.com/track/7wL9EVloIobMw22rT7Ve8x) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Man In Black](https://open.spotify.com/album/3fH6txVtapyIaCdoJkUNTd) | 2:52 | 2020-10-14 |  |
+| [Man in Black](https://open.spotify.com/track/7wL9EVloIobMw22rT7Ve8x) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Man In Black](https://open.spotify.com/album/3fH6txVtapyIaCdoJkUNTd) | 2:54 | 2020-10-14 |  |
 | [Me and Bobby McGee](https://open.spotify.com/track/0VNZYdfyOM8FGmYSwEGUa1) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [16 Biggest Hits](https://open.spotify.com/album/4V0B2o4rSXh7CwzqbDX6xo) | 4:20 | 2020-10-14 |  |
 | [Miles And Miles Of Texas \- Remastered](https://open.spotify.com/track/39LLs4SpRhYBiNnjZUBVmv) | [Asleep At The Wheel](https://open.spotify.com/artist/54tWKkrjv4bQgKrQrNlecm) | [20 Greatest Hits \(Remastered\)](https://open.spotify.com/album/67mCnY7ERrNjkjodzuk6m8) | 3:07 | 2020-10-14 |  |
 | [Molly And Tenbrook](https://open.spotify.com/track/6lwzzzzHB3hPIm2ucv7BcU) | [Stanley Brothers](https://open.spotify.com/artist/7sYX11zkibP85rPz5ms1MI) | [Earliest Recordings \- The Complete Rich\-r\-tone 78's](https://open.spotify.com/album/24EaakQd1ynRaa9bxGwi0h) | 2:23 | 2023-01-13 | 2024-04-19 |
@@ -104,7 +104,7 @@
 | [Ode To Billie Joe](https://open.spotify.com/track/4FdDorlbJTVHcH3djLbIfn) | [Bobbie Gentry](https://open.spotify.com/artist/4E9w0bms6HcEppFlWjeW2d) | [Ode To Billie Joe](https://open.spotify.com/album/05I1EsreLq47JU8pypj7TR) | 4:15 | 2020-10-14 |  |
 | [Okie From Muskogee](https://open.spotify.com/track/7e4jSwxQw6w4qHc9WmAh7c) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Down Every Road 1962\-1994](https://open.spotify.com/album/40Wi0Ej08sw9B4URIOabOI) | 2:44 | 2020-10-14 |  |
 | [On the Road Again \- Live](https://open.spotify.com/track/1OmKo4t4Bh95xQI6WGiUR3) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Greatest Hits \(& Some That Will Be\)](https://open.spotify.com/album/7oRkZF4ysrOnGThgSiUtUC) | 2:33 | 2020-10-14 |  |
-| [Pancho and Lefty](https://open.spotify.com/track/44rPwblKiOsoanD13RhfoO) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Pancho & Lefty](https://open.spotify.com/album/60INFhMYFibk9JgfF3GatL) | 4:48 | 2020-10-14 |  |
+| [Pancho and Lefty](https://open.spotify.com/track/44rPwblKiOsoanD13RhfoO) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Pancho & Lefty](https://open.spotify.com/album/60INFhMYFibk9JgfF3GatL) | 4:47 | 2020-10-14 |  |
 | [Ring of Fire](https://open.spotify.com/track/6YffUZJ2R06kyxyK6onezL) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Ring Of Fire: The Best Of Johnny Cash](https://open.spotify.com/album/0ucV57dbnqmrGv9d60r6X2) | 2:38 | 2020-10-14 |  |
 | [San Antonio Rose](https://open.spotify.com/track/0cZGEJpAvUkPaCRTd4g4Ew) | [Bob Wills & His Texas Playboys](https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN) | [San Antonio Rose](https://open.spotify.com/album/07mLD26DBfZKSHxr3deO2g) | 3:25 | 2020-10-14 |  |
 | [Seven Year Ache](https://open.spotify.com/track/3pnRd3epmXjorMfOaG4qGd) | [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE) | [Seven Year Ache](https://open.spotify.com/album/4FgXzkDie2opVddw91pH8K) | 3:15 | 2020-10-14 |  |

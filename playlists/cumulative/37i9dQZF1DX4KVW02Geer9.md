@@ -4,7 +4,7 @@
 
 > クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: Ezra Collective
 
-454 songs - 1 day 8 hr 41 min
+454 songs - 1 day 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -447,7 +447,7 @@
 | [Zatto](https://open.spotify.com/track/3mnc8STf3GPV8E9JlA6j4X) | [Nariaki](https://open.spotify.com/artist/6VhZSXucPwAlDJD1j2Zayk) | [Zatto](https://open.spotify.com/album/3zpeZbl6NBa9KJbXpQMrig) | 6:07 | 2025-01-16 | 2025-06-06 |
 | [Zen](https://open.spotify.com/track/0pMIhFwuHZzOukiQv9t1N4) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9) | [The Little Cycle](https://open.spotify.com/album/2ysNJMEwr7AYMXH6EynqVZ) | 1:25 | 2025-10-02 |  |
 | [Ìdílé \(Kindred Debar\) \(feat\. lou bleu\)](https://open.spotify.com/track/0ZAL9M7qwks78gOrHdcntq) | [Jasik](https://open.spotify.com/artist/0X6cVrgL6nhXOq9EKubKpo), [lou bleu](https://open.spotify.com/artist/0DxbN8Ndd5Ze2yJ88atUll) | [Ìdílé \(Kindred Debar\) \(feat\. lou bleu\)](https://open.spotify.com/album/3eqYYyMpMCLzmUFrv2yqq8) | 4:37 | 2024-08-08 | 2024-09-13 |
-| [⁠Beto’s Horns \- Ezra Collective remix](https://open.spotify.com/track/39QDO1CMwXHDPdw8cjJpTi) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX), [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [⁠Beto’s Horns \(Ezra Collective remix\)](https://open.spotify.com/album/7bIhFRBtzVR41QlA9zj9ru) | 5:50 | 2025-11-13 |  |
+| [⁠Beto’s Horns \- Ezra Collective remix](https://open.spotify.com/track/39QDO1CMwXHDPdw8cjJpTi) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX), [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [⁠Beto’s Horns \(Ezra Collective remix\)](https://open.spotify.com/album/7bIhFRBtzVR41QlA9zj9ru) | 4:49 | 2025-11-13 |  |
 | [お鶴](https://open.spotify.com/track/7pXOQzssyTtQgg0JEPlJHZ) | [賽](https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b) | [An Airship](https://open.spotify.com/album/6ZsY9gSuwihcsl9zGSn307) | 4:39 | 2024-12-17 | 2025-06-06 |
 | [つつみ込むように...](https://open.spotify.com/track/0CD7ka9q4HOvyWFfdfBqF8) | [Wa Yo Set](https://open.spotify.com/artist/1H0RbzDqHyLsIWxIsh86Fs) | [つつみ込むように...](https://open.spotify.com/album/3sMECIhaVTHdzb3SgITF9f) | 5:00 | 2024-08-29 | 2024-11-22 |
 | [つつみ込むように・・・feat.木村イオリ](https://open.spotify.com/track/7IP0GZG0CNmqunn2fNduey) | [Udagawa Bekkan Band](https://open.spotify.com/artist/16zommf1ayPqidEsjaJfsh), [Iori Kimura](https://open.spotify.com/artist/3uaby7kqnBFvf4mXlPjrvO) | [つつみ込むように・・・feat.木村イオリ](https://open.spotify.com/album/246NTHn3VjUlum8XUYKdj2) | 5:10 | 2024-06-27 | 2024-08-09 |

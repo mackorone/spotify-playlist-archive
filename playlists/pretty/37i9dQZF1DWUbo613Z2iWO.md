@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover:  Gabriel Jacoby
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,511 likes - 198 songs - 9 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,524 likes - 198 songs - 9 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 19 | [EmptyBaggage](https://open.spotify.com/track/6OGhk6MEWCVhmxYcM9Vuo2) | [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ), [Kent Jamz](https://open.spotify.com/artist/4JgGhWEWcKIyT84mknHP2w) | [InsydeOut](https://open.spotify.com/album/3Ng6kk6QFnn6N8Jq1sV7Hk) | 3:06 |
 | 20 | [reggie \- Sometimes](https://open.spotify.com/track/1MROOOUs89a4Sm7ek2MoLV) | [reggie](https://open.spotify.com/artist/2kAP2prnGAq7s3DwRT6s16) | [reggie \- Sometimes](https://open.spotify.com/album/4X2MtiyVME25aIeeZl3zJK) | 3:02 |
 | 21 | [hands up](https://open.spotify.com/track/55IBWPU4KqTYPVkXWv9A9z) | [Isaiah Kaleo](https://open.spotify.com/artist/13b0dupEOyYPm8dZqbqtb5) | [2 Songs](https://open.spotify.com/album/6KfDDFzuEdLSjP3wmGGJSx) | 1:35 |
-| 22 | [Wassup](https://open.spotify.com/track/6v2lyOmuIapLkMpEQU1qEN) | [2BYG](https://open.spotify.com/artist/4G6aMODE9CTOZyZ9S39DUE) | [The Yearbook](https://open.spotify.com/album/38dWJqN6jGg7tjRoRjJxbL) | 2:32 |
+| 22 | [Wassup](https://open.spotify.com/track/6v2lyOmuIapLkMpEQU1qEN) | [2BYG](https://open.spotify.com/artist/4G6aMODE9CTOZyZ9S39DUE) | [The Yearbook](https://open.spotify.com/album/38dWJqN6jGg7tjRoRjJxbL) | 2:30 |
 | 23 | [CRASH OUT \(feat\. FLO\)](https://open.spotify.com/track/2zdtD5GCrveirY80k2C9gm) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz), [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [HYDRAULIC](https://open.spotify.com/album/752bBMIsnk3VdV6ANDZTWd) | 2:50 |
 | 24 | [Freakie](https://open.spotify.com/track/03SbION4JAIxFMGmOcDB6v) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [TOTAL SELLOUT](https://open.spotify.com/album/1DQiLs9MgKkzCW7d6WPcTV) | 2:46 |
 | 25 | [Alright](https://open.spotify.com/track/2IBeAHumOwj6gN0Ws3QyN6) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [Alright](https://open.spotify.com/album/42sV9yX0hOAGickkrH77WS) | 2:24 |

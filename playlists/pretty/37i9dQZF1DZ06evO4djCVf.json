@@ -1,12 +1,12 @@
 {
   "description": "This is Suzan & Freek. The essential tracks, all in one playlist.",
-  "num_followers": 96130,
+  "num_followers": 96150,
   "original_name": "This Is Suzan & Freek",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRplgAAAAADquPoXmMAsW/E4BwtkKFWZ",
+  "snapshot_id": "aRu3AAAAAADOnPmkIIYkH95VIZwWvbYL",
   "tracks": [
     {
       "added_at": null,
@@ -195,22 +195,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Verleden Tijd",
-        "url": "https://open.spotify.com/album/1jhy8byW2VtIarRBzAyoOC"
-      },
-      "artists": [
-        {
-          "name": "Suzan & Freek",
-          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
-        }
-      ],
-      "duration_ms": 176166,
-      "name": "Verleden Tijd",
-      "url": "https://open.spotify.com/track/7FR89ZwB3ilNeUMsz1P80O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beste Zangers Seizoen 2020 (Suzan & Freek)",
         "url": "https://open.spotify.com/album/1WN1OQhwJ4yOjZlVWgUxFo"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 197845,
       "name": "Papa",
       "url": "https://open.spotify.com/track/2m9KUW33lkjUji0oDCPIHl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Verleden Tijd",
+        "url": "https://open.spotify.com/album/1jhy8byW2VtIarRBzAyoOC"
+      },
+      "artists": [
+        {
+          "name": "Suzan & Freek",
+          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
+        }
+      ],
+      "duration_ms": 176166,
+      "name": "Verleden Tijd",
+      "url": "https://open.spotify.com/track/7FR89ZwB3ilNeUMsz1P80O"
     },
     {
       "added_at": null,

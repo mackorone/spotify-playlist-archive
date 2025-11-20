@@ -201,7 +201,7 @@
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 184453,
+      "duration_ms": 187210,
       "name": "Blue Moon",
       "url": "https://open.spotify.com/track/1ccv4yQDq8ouWV3fhwlVIX"
     },
@@ -291,7 +291,7 @@
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 172626,
+      "duration_ms": 175281,
       "name": "C'est si bon",
       "url": "https://open.spotify.com/track/0ksZYoJXNN1QmgUQdvbK0z"
     },
@@ -453,7 +453,7 @@
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 164546,
+      "duration_ms": 167203,
       "name": "Everybody Loves Somebody",
       "url": "https://open.spotify.com/track/5I9sHwLDX28tLtzVgKLtpr"
     },
@@ -471,7 +471,7 @@
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 182653,
+      "duration_ms": 185396,
       "name": "Fools Rush In",
       "url": "https://open.spotify.com/track/0j3ideT0tRuIyRhOOUQjYa"
     },
@@ -955,7 +955,7 @@
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 194893,
+      "duration_ms": 197552,
       "name": "I'm Confessin' (That I Love You)",
       "url": "https://open.spotify.com/track/6EN0fTxduMrFWuFK46pi7Z"
     },
@@ -2305,7 +2305,7 @@
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 133186,
+      "duration_ms": 135946,
       "name": "The One I Love (Belongs to Somebody Else)",
       "url": "https://open.spotify.com/track/5bhFjjOxKttzjw4wISVQZ8"
     },
@@ -2459,6 +2459,24 @@
     },
     {
       "album": {
+        "name": "Dino: The Essential Dean Martin",
+        "url": "https://open.spotify.com/album/6D5uTxoH304RXHiLISapHj"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166066,
+      "name": "Under The Bridges Of Paris",
+      "url": "https://open.spotify.com/track/7czkfORlDNyM7Ioo7BBSdF"
+    },
+    {
+      "album": {
         "name": "The Singles",
         "url": "https://open.spotify.com/album/5LoOStQoPOCIyOReBVcbtR"
       },
@@ -2470,7 +2488,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 168933,
       "name": "Under The Bridges Of Paris",
       "url": "https://open.spotify.com/track/2Ui8SvDYTtQWbJq5uOWWAU"

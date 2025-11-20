@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del 2025\. Hit shuffle for a mixed listening experience\. Cover: Blessd
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,168 likes - 394 songs - 20 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,169 likes - 394 songs - 20 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -89,7 +89,7 @@
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 190733,
+      "duration_ms": 190337,
       "name": "Already Gone",
       "url": "https://open.spotify.com/track/7e6K0ZWjHjFJxk2k7aeu2v"
     },
@@ -255,7 +255,7 @@
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 212626,
+      "duration_ms": 213524,
       "name": "Borrow My Heart",
       "url": "https://open.spotify.com/track/0bNKoOshkbM0HmS3KXeM89"
     },
@@ -273,7 +273,7 @@
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 197626,
+      "duration_ms": 197604,
       "name": "Brighter Days",
       "url": "https://open.spotify.com/track/2DfB76u7ww77XsBLD2IFFa"
     },
@@ -291,7 +291,7 @@
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 234453,
+      "duration_ms": 234353,
       "name": "Burnt Letters",
       "url": "https://open.spotify.com/track/43LKbeJBFLXlShCcfvwhOz"
     },
@@ -1219,7 +1219,7 @@
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 170091,
+      "duration_ms": 170099,
       "name": "Lanterns",
       "url": "https://open.spotify.com/track/43Zwrtbau8McAXvvxw9Qv2"
     },
@@ -1759,7 +1759,7 @@
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 194373,
+      "duration_ms": 194378,
       "name": "Palace",
       "url": "https://open.spotify.com/track/6e3MJw1cAjb1mN2yAVmKZ3"
     },
@@ -1813,7 +1813,7 @@
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 180466,
+      "duration_ms": 179609,
       "name": "Piece by Piece",
       "url": "https://open.spotify.com/track/2qRkZwDiXkZ3pn9J986wGB"
     },
@@ -2270,24 +2270,6 @@
     {
       "album": {
         "name": "Madness",
-        "url": "https://open.spotify.com/album/2ploE2Xfb4u43TnK7OAos3"
-      },
-      "artists": [
-        {
-          "name": "Guy Sebastian",
-          "url": "https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci"
-        }
-      ],
-      "date_added": "2022-09-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 237680,
-      "name": "The Pause",
-      "url": "https://open.spotify.com/track/18YzQn4Tgib169dXJ6gZlC"
-    },
-    {
-      "album": {
-        "name": "Madness",
         "url": "https://open.spotify.com/album/69iAL8tBOgqwmmp88GHsFU"
       },
       "artists": [
@@ -2302,6 +2284,24 @@
       "duration_ms": 237680,
       "name": "The Pause",
       "url": "https://open.spotify.com/track/7GUTNwt2My352i6Ely8qYa"
+    },
+    {
+      "album": {
+        "name": "Madness",
+        "url": "https://open.spotify.com/album/2ploE2Xfb4u43TnK7OAos3"
+      },
+      "artists": [
+        {
+          "name": "Guy Sebastian",
+          "url": "https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci"
+        }
+      ],
+      "date_added": "2022-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237682,
+      "name": "The Pause",
+      "url": "https://open.spotify.com/track/18YzQn4Tgib169dXJ6gZlC"
     },
     {
       "album": {
@@ -2519,7 +2519,7 @@
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 208026,
+      "duration_ms": 207397,
       "name": "When You Were Mine",
       "url": "https://open.spotify.com/track/1n4hjOvZNngnD48CASmEvJ"
     },
@@ -2595,7 +2595,7 @@
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 232880,
+      "duration_ms": 232890,
       "name": "Your Eyes",
       "url": "https://open.spotify.com/track/38E4VJoyNGh2sBQFXLGl7X"
     },

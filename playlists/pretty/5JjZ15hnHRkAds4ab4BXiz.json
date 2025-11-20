@@ -6,7 +6,7 @@
     "name": "realARreal",
     "url": "https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e"
   },
-  "snapshot_id": "AAATbap1GNxQ8cjisApYiCkI2HTUTe/S",
+  "snapshot_id": "AAATdDRJlq6C2g2UyYraUpo0/+koy7+G",
   "tracks": [
     {
       "added_at": "2024-07-10 18:41:47",
@@ -6196,7 +6196,7 @@
           "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
         }
       ],
-      "duration_ms": 293973,
+      "duration_ms": 294081,
       "name": "N.Y. State of Mind",
       "url": "https://open.spotify.com/track/0trHOzAhNpGCsGBEu7dOJo"
     },
@@ -6832,7 +6832,7 @@
           "url": "https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV"
         }
       ],
-      "duration_ms": 241026,
+      "duration_ms": 240029,
       "name": "Frank Sinatra",
       "url": "https://open.spotify.com/track/1abNE7hvyT9RtkslEiERhh"
     },
@@ -7591,6 +7591,106 @@
       "duration_ms": 181373,
       "name": "All The Time",
       "url": "https://open.spotify.com/track/7uFZNMEZzAGOwQ6EZID1K4"
+    },
+    {
+      "added_at": "2025-11-20 00:55:58",
+      "album": {
+        "name": "Twenty One",
+        "url": "https://open.spotify.com/album/2efbbdHh1iSps9yfBZdy7G"
+      },
+      "artists": [
+        {
+          "name": "Mystery Jets",
+          "url": "https://open.spotify.com/artist/09K1H1DgyIXHsMx2j7KTFX"
+        },
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "duration_ms": 202293,
+      "name": "Young Love (feat. Laura Marling)",
+      "url": "https://open.spotify.com/track/5Bp3OmGILMam5w6KnafdKY"
+    },
+    {
+      "added_at": "2025-11-20 01:00:50",
+      "album": {
+        "name": "Curve Of The Earth",
+        "url": "https://open.spotify.com/album/5gdWHfwu68jqPbxXxMDyL6"
+      },
+      "artists": [
+        {
+          "name": "Mystery Jets",
+          "url": "https://open.spotify.com/artist/09K1H1DgyIXHsMx2j7KTFX"
+        }
+      ],
+      "duration_ms": 264946,
+      "name": "Bubblegum",
+      "url": "https://open.spotify.com/track/53p7or9OC8PGNnGrd9gLBv"
+    },
+    {
+      "added_at": "2025-11-20 01:04:24",
+      "album": {
+        "name": "Twenty One",
+        "url": "https://open.spotify.com/album/2efbbdHh1iSps9yfBZdy7G"
+      },
+      "artists": [
+        {
+          "name": "Mystery Jets",
+          "url": "https://open.spotify.com/artist/09K1H1DgyIXHsMx2j7KTFX"
+        }
+      ],
+      "duration_ms": 219013,
+      "name": "Two Doors Down",
+      "url": "https://open.spotify.com/track/5JSF5Nhw9W6j9qt74rYTa7"
+    },
+    {
+      "added_at": "2025-11-20 01:13:27",
+      "album": {
+        "name": "Curve Of The Earth",
+        "url": "https://open.spotify.com/album/5gdWHfwu68jqPbxXxMDyL6"
+      },
+      "artists": [
+        {
+          "name": "Mystery Jets",
+          "url": "https://open.spotify.com/artist/09K1H1DgyIXHsMx2j7KTFX"
+        }
+      ],
+      "duration_ms": 381106,
+      "name": "Saturnine",
+      "url": "https://open.spotify.com/track/5GGP2S487OmXSQ8Vp2sJHb"
+    },
+    {
+      "added_at": "2025-11-20 01:17:19",
+      "album": {
+        "name": "Radlands",
+        "url": "https://open.spotify.com/album/71dzstjs5HSdkeOrrpFAno"
+      },
+      "artists": [
+        {
+          "name": "Mystery Jets",
+          "url": "https://open.spotify.com/artist/09K1H1DgyIXHsMx2j7KTFX"
+        }
+      ],
+      "duration_ms": 318053,
+      "name": "Someone Purer",
+      "url": "https://open.spotify.com/track/6O2hBBvn76gsbYhesXSkof"
+    },
+    {
+      "added_at": "2025-11-20 01:17:26",
+      "album": {
+        "name": "Twenty One",
+        "url": "https://open.spotify.com/album/2efbbdHh1iSps9yfBZdy7G"
+      },
+      "artists": [
+        {
+          "name": "Mystery Jets",
+          "url": "https://open.spotify.com/artist/09K1H1DgyIXHsMx2j7KTFX"
+        }
+      ],
+      "duration_ms": 199013,
+      "name": "Half in Love with Elizabeth",
+      "url": "https://open.spotify.com/track/3HrNkxybHgl7QqAvUDgFJ8"
     }
   ],
   "unique_name": "Ballads",

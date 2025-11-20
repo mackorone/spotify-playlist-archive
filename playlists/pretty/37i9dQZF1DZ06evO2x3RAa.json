@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRplgAAAAAChMTBtmwOgJZQ43JkKGldK",
+  "snapshot_id": "aRu3AAAAAAAwEjdOcYtavm9WX2gw3m5t",
   "tracks": [
     {
       "added_at": null,
@@ -207,8 +207,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Gospel Of Ozziddi",
-        "url": "https://open.spotify.com/album/3cchvmfihgV7H5wEETAwmv"
+        "name": "The Crown",
+        "url": "https://open.spotify.com/album/4dh2T0Dc3HAsryLmmN4Wbv"
       },
       "artists": [
         {
@@ -216,9 +216,9 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 463333,
-      "name": "We're In Love",
-      "url": "https://open.spotify.com/track/1hZouejgq7j3WfonImzf1S"
+      "duration_ms": 500306,
+      "name": "Doctor Jesus / Draw Me Nearer",
+      "url": "https://open.spotify.com/track/1MC25qWvvfBRpqoHVRLokI"
     },
     {
       "added_at": null,
@@ -239,8 +239,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Crown",
-        "url": "https://open.spotify.com/album/4dh2T0Dc3HAsryLmmN4Wbv"
+        "name": "The Gospel Of Ozziddi",
+        "url": "https://open.spotify.com/album/3cchvmfihgV7H5wEETAwmv"
       },
       "artists": [
         {
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 500306,
-      "name": "Doctor Jesus / Draw Me Nearer",
-      "url": "https://open.spotify.com/track/1MC25qWvvfBRpqoHVRLokI"
+      "duration_ms": 463333,
+      "name": "We're In Love",
+      "url": "https://open.spotify.com/track/1hZouejgq7j3WfonImzf1S"
     },
     {
       "added_at": null,
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 365040,
-      "name": "Know Jesus Know Life",
-      "url": "https://open.spotify.com/track/1jonArtlrKB0gBzBSYwVsv"
+      "duration_ms": 172226,
+      "name": "Mt. Zion",
+      "url": "https://open.spotify.com/track/2atwTASX2uaKcnGUmTO0B9"
     },
     {
       "added_at": null,
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 172226,
-      "name": "Mt. Zion",
-      "url": "https://open.spotify.com/track/2atwTASX2uaKcnGUmTO0B9"
+      "duration_ms": 365040,
+      "name": "Know Jesus Know Life",
+      "url": "https://open.spotify.com/track/1jonArtlrKB0gBzBSYwVsv"
     },
     {
       "added_at": null,
@@ -511,6 +511,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wind Of Change",
+        "url": "https://open.spotify.com/album/2mGBmoVvEmVS2fV1zZMisz"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "duration_ms": 289573,
+      "name": "Jesus King Of Kings",
+      "url": "https://open.spotify.com/track/5Xla03XVxaDwQNkFR1Hgb6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Soul Jazz Records presents Nigeria Soul Power 70 - Afro-Funk, Afro-Rock, Afro-Disco",
         "url": "https://open.spotify.com/album/3nQJY0Ypqafw4YWoY8lxcV"
       },
@@ -559,38 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mother & Child",
-        "url": "https://open.spotify.com/album/6rfYSK1V4XimuCOKWy1JdQ"
-      },
-      "artists": [
-        {
-          "name": "Sonny Okosun",
-          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
-        }
-      ],
-      "duration_ms": 337666,
-      "name": "My Cherie Koko",
-      "url": "https://open.spotify.com/track/1Kpx7BlMbrAnHxpMEPNZwx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Holy Wars",
-        "url": "https://open.spotify.com/album/5aJleqa0jPmMRMXoJHwMhI"
-      },
-      "artists": [
-        {
-          "name": "Sonny Okosun",
-          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
-        }
-      ],
-      "duration_ms": 377093,
-      "name": "Holy Mass",
-      "url": "https://open.spotify.com/track/7uf07GH8XwMAvccfXGhN68"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wind Of Change",
         "url": "https://open.spotify.com/album/2mGBmoVvEmVS2fV1zZMisz"
       },
@@ -603,22 +587,6 @@
       "duration_ms": 417493,
       "name": "Mohammed",
       "url": "https://open.spotify.com/track/67I3LlIvgexE0QGIl26Oeb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Sound of Love International",
-        "url": "https://open.spotify.com/album/5vBP6gUQ5xAVpITOHlpcFU"
-      },
-      "artists": [
-        {
-          "name": "Sonny Okosun",
-          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
-        }
-      ],
-      "duration_ms": 345734,
-      "name": "Highlife - Goren Anderssen Dub Version",
-      "url": "https://open.spotify.com/track/4keKZ1aq6pYF5mXuq7cRPY"
     },
     {
       "added_at": null,
@@ -639,6 +607,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Holy Wars",
+        "url": "https://open.spotify.com/album/5aJleqa0jPmMRMXoJHwMhI"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "duration_ms": 377093,
+      "name": "Holy Mass",
+      "url": "https://open.spotify.com/track/7uf07GH8XwMAvccfXGhN68"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Sound of Love International",
+        "url": "https://open.spotify.com/album/5vBP6gUQ5xAVpITOHlpcFU"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "duration_ms": 345734,
+      "name": "Highlife - Goren Anderssen Dub Version",
+      "url": "https://open.spotify.com/track/4keKZ1aq6pYF5mXuq7cRPY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Soul Jazz Records presents Nigeria Soul Power 70 - Afro-Funk, Afro-Rock, Afro-Disco",
         "url": "https://open.spotify.com/album/3nQJY0Ypqafw4YWoY8lxcV"
       },
@@ -655,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wind Of Change",
-        "url": "https://open.spotify.com/album/2mGBmoVvEmVS2fV1zZMisz"
+        "name": "Mother & Child",
+        "url": "https://open.spotify.com/album/6rfYSK1V4XimuCOKWy1JdQ"
       },
       "artists": [
         {
@@ -664,25 +664,9 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 289573,
-      "name": "Jesus King Of Kings",
-      "url": "https://open.spotify.com/track/5Xla03XVxaDwQNkFR1Hgb6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Holy Wars",
-        "url": "https://open.spotify.com/album/5aJleqa0jPmMRMXoJHwMhI"
-      },
-      "artists": [
-        {
-          "name": "Sonny Okosun",
-          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
-        }
-      ],
-      "duration_ms": 418093,
-      "name": "War of Nations",
-      "url": "https://open.spotify.com/track/75BtBiVuQQUx6hxpwUrliI"
+      "duration_ms": 337666,
+      "name": "My Cherie Koko",
+      "url": "https://open.spotify.com/track/1Kpx7BlMbrAnHxpMEPNZwx"
     }
   ],
   "unique_name": "This Is Sonny Okosun",

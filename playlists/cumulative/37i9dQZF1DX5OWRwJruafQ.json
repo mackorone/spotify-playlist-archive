@@ -11849,6 +11849,28 @@
     },
     {
       "album": {
+        "name": "LEGENDS",
+        "url": "https://open.spotify.com/album/2fC4CqKEzXGyaYCTI4A8Ng"
+      },
+      "artists": [
+        {
+          "name": "Deep Jandu",
+          "url": "https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3"
+        },
+        {
+          "name": "Nachhatar Gill",
+          "url": "https://open.spotify.com/artist/1g8ObZDF4oPfho92ISSyNq"
+        }
+      ],
+      "date_added": "2025-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180576,
+      "name": "Pitth Piche",
+      "url": "https://open.spotify.com/track/1Kg01qAJIqHtEpCEmKGpSZ"
+    },
+    {
+      "album": {
         "name": "PMCM",
         "url": "https://open.spotify.com/album/370ByUPt1uNGn2erT5vYdd"
       },

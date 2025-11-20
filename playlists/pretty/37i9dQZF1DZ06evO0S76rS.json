@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Niche. The essential tracks, all in one playlist.",
-  "num_followers": 159945,
+  "num_followers": 159982,
   "original_name": "This Is Grupo Niche",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRplgAAAAADZxKUhiDBxMNN0NA4+yz7m",
+  "snapshot_id": "aRu3AAAAAADvV1Dmls9+Sah6LPcNMb32",
   "tracks": [
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sutil y Contundente",
-        "url": "https://open.spotify.com/album/3j3BnIkciRBXtoAvYll1Za"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 342000,
-      "name": "Entrega",
-      "url": "https://open.spotify.com/track/0O2j5GTz60A3K7dMZn4WQC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Control Absoluto",
         "url": "https://open.spotify.com/album/02P7Yan85kfSzMZZR6CFx9"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 252626,
       "name": "Enamorada",
       "url": "https://open.spotify.com/track/7pFSymHAQO021YmaKCVDoC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sutil y Contundente",
+        "url": "https://open.spotify.com/album/3j3BnIkciRBXtoAvYll1Za"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 342000,
+      "name": "Entrega",
+      "url": "https://open.spotify.com/track/0O2j5GTz60A3K7dMZn4WQC"
     },
     {
       "added_at": null,
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cielo De Tambores",
-        "url": "https://open.spotify.com/album/3Ze1GGNL2Tw7v7BgnPlzNQ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 264733,
-      "name": "Debiera Olvidarla",
-      "url": "https://open.spotify.com/track/3usWzVoV5d2mmWlmhSxfaQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Tierra del Olvido (Versi\u00f3n Salsa)",
         "url": "https://open.spotify.com/album/7i5VBSsrtK8bD7QAkMmFMx"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 262641,
       "name": "La Tierra del Olvido - Versi\u00f3n Salsa",
       "url": "https://open.spotify.com/track/1GyiVfgqFkIlGkN0FDnJJQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cielo De Tambores",
+        "url": "https://open.spotify.com/album/3Ze1GGNL2Tw7v7BgnPlzNQ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 264733,
+      "name": "Debiera Olvidarla",
+      "url": "https://open.spotify.com/track/3usWzVoV5d2mmWlmhSxfaQ"
     },
     {
       "added_at": null,
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Niche Con Cuerdas",
-        "url": "https://open.spotify.com/album/67vT4qNa8WjuzO085IA8v6"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 317180,
-      "name": "Un Caso Social",
-      "url": "https://open.spotify.com/track/5irSOlA7zXrwkJHVPgyVZQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sutil y Contundente",
         "url": "https://open.spotify.com/album/3j3BnIkciRBXtoAvYll1Za"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 335986,
       "name": "Mi Hijo y Yo",
       "url": "https://open.spotify.com/track/0rOkqMmPpkInktks5tdAmn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Niche Con Cuerdas",
+        "url": "https://open.spotify.com/album/67vT4qNa8WjuzO085IA8v6"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 317180,
+      "name": "Un Caso Social",
+      "url": "https://open.spotify.com/track/5irSOlA7zXrwkJHVPgyVZQ"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Llegando Al 100%",
-        "url": "https://open.spotify.com/album/3StG3Gf4htUHrDnUiC3eqT"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 323026,
-      "name": "No Tuve A Quien Decirle Amor",
-      "url": "https://open.spotify.com/track/0e1G4VKnhcVMsRM0bLtHAa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Golpe de Folklore",
         "url": "https://open.spotify.com/album/1GHV54c3dMwxLe3p2QgnWi"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 282536,
       "name": "Han Cogido la Cosa",
       "url": "https://open.spotify.com/track/1Y1OX9CuslwUPpq0dtjJxI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Llegando Al 100%",
+        "url": "https://open.spotify.com/album/3StG3Gf4htUHrDnUiC3eqT"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 323026,
+      "name": "No Tuve A Quien Decirle Amor",
+      "url": "https://open.spotify.com/track/0e1G4VKnhcVMsRM0bLtHAa"
     },
     {
       "added_at": null,

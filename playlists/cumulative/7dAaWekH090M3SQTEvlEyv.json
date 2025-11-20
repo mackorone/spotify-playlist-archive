@@ -67,6 +67,28 @@
     },
     {
       "album": {
+        "name": "\u3053\u308d\u3057\u3061\u3083\u3063\u305f!",
+        "url": "https://open.spotify.com/album/5PNDRomD3yZGskUq8huaxq"
+      },
+      "artists": [
+        {
+          "name": "\u590f\u5c71\u3088\u3064\u304e",
+          "url": "https://open.spotify.com/artist/30DNiO9bddagJDpXa4LMYQ"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2025-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195454,
+      "name": "\u3053\u308d\u3057\u3061\u3083\u3063\u305f! (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/4d1CObMrwGif0yDhphYeO1"
+    },
+    {
+      "album": {
         "name": "\u3069\u308a\u30fc\u3080\u3082\u30fc\u3069",
         "url": "https://open.spotify.com/album/7d8L9iI25zwgdxfXrEFpRx"
       },
@@ -78,7 +100,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 140597,
       "name": "\u3069\u308a\u30fc\u3080\u3082\u30fc\u3069",
       "url": "https://open.spotify.com/track/0FmRL2BZ1Iv5VYlbi2zMZO"
@@ -118,6 +140,24 @@
       "duration_ms": 151752,
       "name": "\u30ab\u30a4\u30b3",
       "url": "https://open.spotify.com/track/6Srgvq9ryPxhr2coAYl7RZ"
+    },
+    {
+      "album": {
+        "name": "\u30c1\u30a7\u30ea\u30fc\u30dd\u30c3\u30d7",
+        "url": "https://open.spotify.com/album/7zdVJKpYBZ7sytGi2EGUPh"
+      },
+      "artists": [
+        {
+          "name": "DECO*27",
+          "url": "https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP"
+        }
+      ],
+      "date_added": "2025-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138973,
+      "name": "\u30c1\u30a7\u30ea\u30fc\u30dd\u30c3\u30d7",
+      "url": "https://open.spotify.com/track/6yID3RbYKiwn2p2LPz0OkK"
     },
     {
       "album": {
@@ -190,7 +230,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 232106,
       "name": "\u30d7\u30ed\u30dd\u30fc\u30ba",
       "url": "https://open.spotify.com/track/7ca9dS1cC74PKQ7JnYOr4V"
@@ -277,6 +317,42 @@
     },
     {
       "album": {
+        "name": "\u30ed\u30a6\u30ef\u30fc",
+        "url": "https://open.spotify.com/album/47wjnpsptGxku8RY0i8Gup"
+      },
+      "artists": [
+        {
+          "name": "\u306c\u3086\u308a",
+          "url": "https://open.spotify.com/artist/3ZIOAB6YRggYj0LIG6JLXx"
+        }
+      ],
+      "date_added": "2025-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "\u30ed\u30a6\u30ef\u30fc",
+      "url": "https://open.spotify.com/track/3eIGW5DUVP5zkGFXZSZQ6o"
+    },
+    {
+      "album": {
+        "name": "\u5343\u672c\u685c",
+        "url": "https://open.spotify.com/album/6Wop7Hk2r89DysfUe0USkh"
+      },
+      "artists": [
+        {
+          "name": "KuroUsa(WhiteFlame)",
+          "url": "https://open.spotify.com/artist/1fyLCDf7gQRXZ1hRNtL2UF"
+        }
+      ],
+      "date_added": "2025-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252467,
+      "name": "\u5343\u672c\u685c",
+      "url": "https://open.spotify.com/track/38mUTswfszVFQ952r89AP8"
+    },
+    {
+      "album": {
         "name": "\u611b\u5c5e\u6027",
         "url": "https://open.spotify.com/album/1EvsuF6rHsiX3T5V5a5O90"
       },
@@ -317,6 +393,32 @@
     },
     {
       "album": {
+        "name": "\u76ee\u6483\uff01\u30c6\u30c831\u4e16 (feat. \u91cd\u97f3\u30c6\u30c8 & \u96e8\u8863)",
+        "url": "https://open.spotify.com/album/1ucimndIy6wDPsS3r2IZKY"
+      },
+      "artists": [
+        {
+          "name": "\u306f\u308d\u3051\u308b",
+          "url": "https://open.spotify.com/artist/0ylNiGoYUvxyWdDXthEDhF"
+        },
+        {
+          "name": "Teto Kasane",
+          "url": "https://open.spotify.com/artist/1whAPNHAalmyNIsfapcIcR"
+        },
+        {
+          "name": "\u96e8\u8863",
+          "url": "https://open.spotify.com/artist/1pXvfbuuuSHDAQTHPqIaUK"
+        }
+      ],
+      "date_added": "2025-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141871,
+      "name": "\u76ee\u6483\uff01\u30c6\u30c831\u4e16 (feat. \u91cd\u97f3\u30c6\u30c8 & \u96e8\u8863)",
+      "url": "https://open.spotify.com/track/7996vwXg0kRNxpIfa4zNEm"
+    },
+    {
+      "album": {
         "name": "\u795e\u3063\u307d\u3044\u306a",
         "url": "https://open.spotify.com/album/5NQnpToG5tTdZ6aGVfx35J"
       },
@@ -328,7 +430,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 203760,
       "name": "\u795e\u3063\u307d\u3044\u306a",
       "url": "https://open.spotify.com/track/5ALRT96oaGuX7VHySBLbQu"

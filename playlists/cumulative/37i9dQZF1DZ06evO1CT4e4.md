@@ -4,7 +4,7 @@
 
 > This is Arvo Pärt\. The essential tracks, all in one playlist.
 
-82 songs - 6 hr 46 min
+83 songs - 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Estonian Lullaby \(Version for Female Choir & Strings\)](https://open.spotify.com/track/6biheP4A6BoSbXV6J3sFtB) | [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg), [Tallinn Chamber Orchestra](https://open.spotify.com/artist/5FQKNAnsx5gogBNKeTek5u), [Tõnu Kaljuste](https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT), [Estonian Philharmonic Chamber Choir](https://open.spotify.com/artist/4xz6NoBwhQYH0TLJU8bn5a) | [Arvo Pärt: Adam's Lament](https://open.spotify.com/album/1n2ZaaFJU2b1cbmDYWHb8v) | 2:08 | 2025-09-02 | 2025-10-30 |
 | [Fratres \(Transc\. Osokins for Piano\)](https://open.spotify.com/track/5K3Is3Xgg3jToIvbqBZiTL) | [Georgijs Osokins](https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO), [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg) | [For Arvo](https://open.spotify.com/album/3HSD0Eu5R636MJLr45g8A6) | 11:46 | 2025-09-16 |  |
 | [Fratres \(Version for Strings & Percussion\)](https://open.spotify.com/track/0iCBry8uGq4XL48x76b2EQ) | [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg), [I Fiamminghi \(The Orchestra of Flanders\)](https://open.spotify.com/artist/4vjFTop2IzNPaDE4ShfPuD), [Rudolf Werthen](https://open.spotify.com/artist/6mGXy7lIC2AAoPCjBZTxNl) | [Arvo Pärt: Fratres](https://open.spotify.com/album/7IIbRzKOYUk5saQx3w0Jb7) | 10:14 | 2025-09-02 |  |
+| [Fratres for Strings and Percussion](https://open.spotify.com/track/2dk94wD0xcHf6G9rzKUfMM) | [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg), [Hungarian State Opera Orchestra](https://open.spotify.com/artist/6rLUj0kWUXAEbz26rtS9wO) | [Silentium](https://open.spotify.com/album/0yy8tXDKjL8JG9AD99MDwQ) | 8:54 | 2025-11-20 |  |
 | [Für Alina \- Extended Version](https://open.spotify.com/track/2Lio4KTzsA8BPLhXmyo4CQ) | [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg), [Alexander Malter](https://open.spotify.com/artist/7ku4vnPiSrXkUarPFjlzwH) | [Arvo Pärt: Alina](https://open.spotify.com/album/69iw6Zy6fh2dSnEgBTZKJE) | 10:47 | 2025-09-02 |  |
 | [Für Alina \- Version 1](https://open.spotify.com/track/5bvPCG6m69SnwPpbef4kHs) | [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg), [Georgijs Osokins](https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO) | [Pärt: Für Alina \(Version 1\)](https://open.spotify.com/album/4FCrfEaGJaKw4sJMmEnM9C) | 2:29 | 2025-09-02 | 2025-09-17 |
 | [Für Anna Maria](https://open.spotify.com/track/4T2SFS1klvR8X4eNrEopBu) | [Georgijs Osokins](https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO), [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg) | [For Arvo](https://open.spotify.com/album/3HSD0Eu5R636MJLr45g8A6) | 1:27 | 2025-09-18 |  |

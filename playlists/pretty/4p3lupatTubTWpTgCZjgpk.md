@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4p3lupatTubTWpTgCZjgpk.md) - [plain]
 
 > Countrify your power walk
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,756 likes - 20 songs - 1 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,755 likes - 20 songs - 1 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/4p3lupatTubTWpTgCZjgpk.md) - [plain]
 | 7 | [It’s America](https://open.spotify.com/track/6QbcLktLNe7eYqh8TjZeCd) | [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2) | [It's America](https://open.spotify.com/album/1bWrDfZLiqzpac2iNiFAJH) | 3:33 |
 | 8 | [It's Good To Be Us](https://open.spotify.com/track/4KSMTveT6aZoNx4QmHfGH2) | [Bucky Covington](https://open.spotify.com/artist/5sVu3ObJTpiln7yRQkMuje) | [Bucky Covington](https://open.spotify.com/album/2UQ6GiSsunAyt11Ostxuxp) | 3:04 |
 | 9 | [Small Town Southern Man](https://open.spotify.com/track/5ExWY6ojo1Qm3rC7iaEqx2) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Good Time](https://open.spotify.com/album/3HfbZ0TmLbCesnG7tjf6Lh) | 4:40 |
-| 10 | [Get out of This Town](https://open.spotify.com/track/6VqoUerJPCeYKHVdi8fKhm) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Carnival Ride](https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX) | 3:01 |
+| 10 | [Get out of This Town](https://open.spotify.com/track/6VqoUerJPCeYKHVdi8fKhm) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Carnival Ride](https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX) | 3:03 |
 | 11 | [Felt Good On My Lips](https://open.spotify.com/track/3p2t2vHkFMzEiukDhrVYge) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Emotional Traffic](https://open.spotify.com/album/3ZKmafKEPZ9cgFAbQ8MewV) | 4:37 |
 | 12 | [Feels Just Like A Love Song](https://open.spotify.com/track/5lFaMIQrSRuvQzkyLrJKGb) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Feels Just Like A Love Song](https://open.spotify.com/album/7iiDEkFgDNmHTdSlvrk8Bv) | 3:44 |
 | 13 | [Even If I Wanted To](https://open.spotify.com/track/0aXjA0qWPOfqXf25j4xWUj) | [Gloriana](https://open.spotify.com/artist/5RjqSn7vYk8Qb9GeLWRRhB) | [Gloriana](https://open.spotify.com/album/7w3J2n6LKPYlWd60yUxq7j) | 3:53 |

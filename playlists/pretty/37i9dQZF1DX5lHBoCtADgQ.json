@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the folk from Punjab. Cover: Surinder Kaur",
-  "num_followers": 44894,
+  "num_followers": 44917,
   "original_name": "Folk Punjabi",
   "owner": {
     "name": "Spotify",
@@ -467,22 +467,6 @@
     {
       "added_at": "2025-08-14 12:50:24",
       "album": {
-        "name": "Wedding Songs",
-        "url": "https://open.spotify.com/album/4YltGLl6l1gU75ReNwWAeF"
-      },
-      "artists": [
-        {
-          "name": "Musarrat Nazir",
-          "url": "https://open.spotify.com/artist/3LdcXgGWcqMBqbAWKlxg0t"
-        }
-      ],
-      "duration_ms": 166295,
-      "name": "Chitta Kukkad",
-      "url": "https://open.spotify.com/track/54G9mqDZwyFqDxjvWz0fuG"
-    },
-    {
-      "added_at": "2025-08-14 12:50:24",
-      "album": {
         "name": "Wanga Satrangiyan",
         "url": "https://open.spotify.com/album/4Q9YmHhaGHPhyaSuNipCzI"
       },
@@ -535,22 +519,6 @@
     {
       "added_at": "2025-08-14 12:50:24",
       "album": {
-        "name": "Challa Mera Jee Dhola",
-        "url": "https://open.spotify.com/album/684ZR78vU7xTzpX8Rpad8j"
-      },
-      "artists": [
-        {
-          "name": "Annie Ahluwalia",
-          "url": "https://open.spotify.com/artist/05K8h7cidaFrQ33vhu6IZ0"
-        }
-      ],
-      "duration_ms": 218333,
-      "name": "Challa Mera Jee Dhola",
-      "url": "https://open.spotify.com/track/5eFYClAF0m6zOjH9JeCByt"
-    },
-    {
-      "added_at": "2025-08-14 12:50:24",
-      "album": {
         "name": "Lok Boliyan",
         "url": "https://open.spotify.com/album/1Msqy9vME2sjOzJVvkfWAR"
       },
@@ -567,6 +535,38 @@
       "duration_ms": 566160,
       "name": "Lok Boliyan",
       "url": "https://open.spotify.com/track/3GPib79uCC9JiaBRGSiaU4"
+    },
+    {
+      "added_at": "2025-08-14 12:50:24",
+      "album": {
+        "name": "Wedding Songs",
+        "url": "https://open.spotify.com/album/4YltGLl6l1gU75ReNwWAeF"
+      },
+      "artists": [
+        {
+          "name": "Musarrat Nazir",
+          "url": "https://open.spotify.com/artist/3LdcXgGWcqMBqbAWKlxg0t"
+        }
+      ],
+      "duration_ms": 166295,
+      "name": "Chitta Kukkad",
+      "url": "https://open.spotify.com/track/54G9mqDZwyFqDxjvWz0fuG"
+    },
+    {
+      "added_at": "2025-08-14 12:50:24",
+      "album": {
+        "name": "Challa Mera Jee Dhola",
+        "url": "https://open.spotify.com/album/684ZR78vU7xTzpX8Rpad8j"
+      },
+      "artists": [
+        {
+          "name": "Annie Ahluwalia",
+          "url": "https://open.spotify.com/artist/05K8h7cidaFrQ33vhu6IZ0"
+        }
+      ],
+      "duration_ms": 218333,
+      "name": "Challa Mera Jee Dhola",
+      "url": "https://open.spotify.com/track/5eFYClAF0m6zOjH9JeCByt"
     },
     {
       "added_at": "2025-08-14 12:50:24",
@@ -783,26 +783,6 @@
     {
       "added_at": "2025-08-14 12:50:24",
       "album": {
-        "name": "Chidiya Da Chamba",
-        "url": "https://open.spotify.com/album/5mfXgnrBzf5e0kUlC6CoPl"
-      },
-      "artists": [
-        {
-          "name": "Salim\u2013Sulaiman",
-          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
-        },
-        {
-          "name": "Sukhwinder Singh",
-          "url": "https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT"
-        }
-      ],
-      "duration_ms": 293076,
-      "name": "Chidiya Da Chamba",
-      "url": "https://open.spotify.com/track/7AKaVhDuiQjcAYsUmqA7Gg"
-    },
-    {
-      "added_at": "2025-08-14 12:50:24",
-      "album": {
         "name": "Sohni Mahiwal",
         "url": "https://open.spotify.com/album/2HpGttLBxp1R7Hvy0mmGZz"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 285714,
       "name": "Sohni Mahiwal",
       "url": "https://open.spotify.com/track/6sqD6HhnJacKXQQfziyTWB"
+    },
+    {
+      "added_at": "2025-08-14 12:50:24",
+      "album": {
+        "name": "Chidiya Da Chamba",
+        "url": "https://open.spotify.com/album/5mfXgnrBzf5e0kUlC6CoPl"
+      },
+      "artists": [
+        {
+          "name": "Salim\u2013Sulaiman",
+          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
+        },
+        {
+          "name": "Sukhwinder Singh",
+          "url": "https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT"
+        }
+      ],
+      "duration_ms": 293076,
+      "name": "Chidiya Da Chamba",
+      "url": "https://open.spotify.com/track/7AKaVhDuiQjcAYsUmqA7Gg"
     },
     {
       "added_at": "2025-08-14 12:50:24",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 
 > Nieuw: Vensly, D.SEL, ILLIE, Sepa en meer en meer
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,059 likes - 72 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,048 likes - 72 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 | 10 | [Forest](https://open.spotify.com/track/4L9EEJc18gaZmNTe4XLsQo) | [Leafs](https://open.spotify.com/artist/6Ul16nbSefjbgfpDz2k9il), [XANNY](https://open.spotify.com/artist/2Nq5hnrJkJgOMMBSdrOnWk) | [Forest](https://open.spotify.com/album/7ea6wOX83LQnzs3sYwmJ2r) | 2:42 |
 | 11 | [Trap & Dance 12 \(Alors Bonne Chance\)](https://open.spotify.com/track/4nPtJJKJSvQFbA1gWA7k5l) | [PJ Scoolio](https://open.spotify.com/artist/2EozjqoLUKLQSnVAO90pyg), [AG BLAXX](https://open.spotify.com/artist/0BdZi6qH5GIysWupr5kTdo) | [Trap & Dance 12 \(Alors Bonne Chance\)](https://open.spotify.com/album/03m6YRml5ChR7AFkgsVDmA) | 2:50 |
 | 12 | [Sandals](https://open.spotify.com/track/0bcxJ7lBtPLC7sDjYUlcRi) | [Nelly Bandz](https://open.spotify.com/artist/5NGYIhrskZDn6UBtIz3O8c) | [Sandals](https://open.spotify.com/album/1CHWyULcYr1uhPsLtaBHDp) | 2:03 |
-| 13 | [Millionaire](https://open.spotify.com/track/19q5YMgBKrM8DuWuJoFEey) | [Lilo](https://open.spotify.com/artist/4bpz1DmU9tB2FDq2tPgAFC), [Highguest](https://open.spotify.com/artist/5Wmp0SPkZCGuTNHHa3jJdj) | [Millionaire](https://open.spotify.com/album/3GtXinuaQVhgEnrFVnGfmW) | 2:36 |
+| 13 | [Millionaire](https://open.spotify.com/track/19q5YMgBKrM8DuWuJoFEey) | [LILO](https://open.spotify.com/artist/4bpz1DmU9tB2FDq2tPgAFC), [Highguest](https://open.spotify.com/artist/5Wmp0SPkZCGuTNHHa3jJdj) | [Millionaire](https://open.spotify.com/album/3GtXinuaQVhgEnrFVnGfmW) | 2:36 |
 | 14 | [F1](https://open.spotify.com/track/1UDDPcG1brXQnfORhqF6FJ) | [WAWA](https://open.spotify.com/artist/71IGD79X5laXW6cmqehskJ) | [F1](https://open.spotify.com/album/0SKhUMKR1oInVYGKzU04yO) | 2:41 |
 | 15 | [Niks Is Gratis](https://open.spotify.com/track/6Uyr8GqXBVaYvNElC6oQlA) | [Quu.](https://open.spotify.com/artist/7crJO4BrnEaPLTfEHOWg9h), [Mardo4k](https://open.spotify.com/artist/6MnRvAN6qNUF4mnlfCh2ZS), [Kaijoeyy](https://open.spotify.com/artist/5Ibp4CHqfwCHUgpdKVHbZN) | [Niks Is Gratis](https://open.spotify.com/album/4GuY4uRD1MT0tZngz2ivWJ) | 2:42 |
 | 16 | [Wegdek](https://open.spotify.com/track/6hnPXKpyqxBsOVvYSSWukT) | [B4RKIE](https://open.spotify.com/artist/2MQ6TLWN9FQ5OqnsB9HNXs) | [Wegdek](https://open.spotify.com/album/4vTVCDdvWZHwmD4dBZDa5A) | 2:45 |

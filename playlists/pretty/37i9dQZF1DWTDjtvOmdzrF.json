@@ -1,6 +1,6 @@
 {
   "description": "Racikan akustik dalam secangkir kopi. ",
-  "num_followers": 562126,
+  "num_followers": 562146,
   "original_name": "Kopikustik",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,22 @@
     {
       "added_at": "2025-05-05 23:09:10",
       "album": {
+        "name": "Selamat Ulang Tahun",
+        "url": "https://open.spotify.com/album/75KyCmWatZRvlMcMRed9BG"
+      },
+      "artists": [
+        {
+          "name": "Nadin Amizah",
+          "url": "https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn"
+        }
+      ],
+      "duration_ms": 315960,
+      "name": "Bertaut",
+      "url": "https://open.spotify.com/track/630DpnzdfjdVqv2yLfPbAX"
+    },
+    {
+      "added_at": "2025-05-05 23:09:10",
+      "album": {
         "name": "Selamat (Selamat Tinggal)",
         "url": "https://open.spotify.com/album/6osB48b3PzrABxdspbyYkd"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 313670,
       "name": "Selamat (Selamat Tinggal)",
       "url": "https://open.spotify.com/track/1mruWrUwAVe2XkksUQiaHK"
-    },
-    {
-      "added_at": "2025-05-05 23:09:10",
-      "album": {
-        "name": "Selamat Ulang Tahun",
-        "url": "https://open.spotify.com/album/75KyCmWatZRvlMcMRed9BG"
-      },
-      "artists": [
-        {
-          "name": "Nadin Amizah",
-          "url": "https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn"
-        }
-      ],
-      "duration_ms": 315960,
-      "name": "Bertaut",
-      "url": "https://open.spotify.com/track/630DpnzdfjdVqv2yLfPbAX"
     },
     {
       "added_at": "2025-05-05 23:09:10",
@@ -411,22 +411,6 @@
     {
       "added_at": "2025-05-05 23:09:10",
       "album": {
-        "name": "Surat Cinta Untuk Starla",
-        "url": "https://open.spotify.com/album/6a2Btrft7cIsCHTmSjTiU3"
-      },
-      "artists": [
-        {
-          "name": "Virgoun",
-          "url": "https://open.spotify.com/artist/4bAgr9zaF0bpzVGHdHuf0f"
-        }
-      ],
-      "duration_ms": 308036,
-      "name": "Surat Cinta Untuk Starla",
-      "url": "https://open.spotify.com/track/5o6StwqqVfG3vRLx8UP310"
-    },
-    {
-      "added_at": "2025-05-05 23:09:10",
-      "album": {
         "name": "Sorai",
         "url": "https://open.spotify.com/album/60YDoJUMHjkYtZnPztRvZ1"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 278333,
       "name": "Sorai",
       "url": "https://open.spotify.com/track/3ymuBMTviroWLuf1jMsMVf"
+    },
+    {
+      "added_at": "2025-05-05 23:09:10",
+      "album": {
+        "name": "Surat Cinta Untuk Starla",
+        "url": "https://open.spotify.com/album/6a2Btrft7cIsCHTmSjTiU3"
+      },
+      "artists": [
+        {
+          "name": "Virgoun",
+          "url": "https://open.spotify.com/artist/4bAgr9zaF0bpzVGHdHuf0f"
+        }
+      ],
+      "duration_ms": 308036,
+      "name": "Surat Cinta Untuk Starla",
+      "url": "https://open.spotify.com/track/5o6StwqqVfG3vRLx8UP310"
     },
     {
       "added_at": "2025-05-05 23:09:10",
@@ -759,22 +759,6 @@
     {
       "added_at": "2025-05-05 23:09:10",
       "album": {
-        "name": "Tolong",
-        "url": "https://open.spotify.com/album/0Qfjl4xAivyvuIEhJ1Mo47"
-      },
-      "artists": [
-        {
-          "name": "Budi Doremi",
-          "url": "https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas"
-        }
-      ],
-      "duration_ms": 250322,
-      "name": "Tolong",
-      "url": "https://open.spotify.com/track/5X5Vj8FcxyoLzq9qxAa45U"
-    },
-    {
-      "added_at": "2025-05-05 23:09:10",
-      "album": {
         "name": "Ada Apa Dengan Cinta? (Original Soundtrack)",
         "url": "https://open.spotify.com/album/0CXcKhEEmqlMXPS5iPErte"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 218293,
       "name": "Bimbang",
       "url": "https://open.spotify.com/track/4aG1OTkWookWM4UdkaV4Iy"
+    },
+    {
+      "added_at": "2025-05-05 23:09:10",
+      "album": {
+        "name": "Tolong",
+        "url": "https://open.spotify.com/album/0Qfjl4xAivyvuIEhJ1Mo47"
+      },
+      "artists": [
+        {
+          "name": "Budi Doremi",
+          "url": "https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas"
+        }
+      ],
+      "duration_ms": 250322,
+      "name": "Tolong",
+      "url": "https://open.spotify.com/track/5X5Vj8FcxyoLzq9qxAa45U"
     },
     {
       "added_at": "2025-05-05 23:09:10",
@@ -923,22 +923,6 @@
     {
       "added_at": "2025-05-05 23:09:10",
       "album": {
-        "name": "Monokrom",
-        "url": "https://open.spotify.com/album/4szhn3xPmOJklFAcqNvTnQ"
-      },
-      "artists": [
-        {
-          "name": "Tulus",
-          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
-        }
-      ],
-      "duration_ms": 195914,
-      "name": "Cahaya",
-      "url": "https://open.spotify.com/track/2rGGLCSkv9ISfH64KSYFBj"
-    },
-    {
-      "added_at": "2025-05-05 23:09:10",
-      "album": {
         "name": "Pelukku Untuk Pelikmu (OST Imperfect: Karier, Cinta, & Timbangan)",
         "url": "https://open.spotify.com/album/3srKBIcoP2Q9VA1cDHARUh"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 249503,
       "name": "Pelukku Untuk Pelikmu - OST Imperfect: Karier, Cinta, & Timbangan",
       "url": "https://open.spotify.com/track/5sgRYOTpFZRROlndD460KI"
+    },
+    {
+      "added_at": "2025-05-05 23:09:10",
+      "album": {
+        "name": "Monokrom",
+        "url": "https://open.spotify.com/album/4szhn3xPmOJklFAcqNvTnQ"
+      },
+      "artists": [
+        {
+          "name": "Tulus",
+          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
+        }
+      ],
+      "duration_ms": 195914,
+      "name": "Cahaya",
+      "url": "https://open.spotify.com/track/2rGGLCSkv9ISfH64KSYFBj"
     },
     {
       "added_at": "2025-05-05 23:09:10",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2025-05-05 23:09:10",
       "album": {
-        "name": "Tentang Kamu",
-        "url": "https://open.spotify.com/album/2bdQCQ7M7e81laFCbWVng8"
-      },
-      "artists": [
-        {
-          "name": "Bunga Citra Lestari",
-          "url": "https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9"
-        }
-      ],
-      "duration_ms": 203640,
-      "name": "Pernah Muda",
-      "url": "https://open.spotify.com/track/53jVt2BD1Wgh1aUoqAodQT"
-    },
-    {
-      "added_at": "2025-05-05 23:09:10",
-      "album": {
         "name": "Terus Bersinar",
         "url": "https://open.spotify.com/album/6MYbZW735XmueTaOEUE0hG"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 284946,
       "name": "Kau Cantik Hari Ini",
       "url": "https://open.spotify.com/track/1dDXZDCgyvioujRUDfKxCr"
+    },
+    {
+      "added_at": "2025-05-05 23:09:10",
+      "album": {
+        "name": "Tentang Kamu",
+        "url": "https://open.spotify.com/album/2bdQCQ7M7e81laFCbWVng8"
+      },
+      "artists": [
+        {
+          "name": "Bunga Citra Lestari",
+          "url": "https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9"
+        }
+      ],
+      "duration_ms": 203640,
+      "name": "Pernah Muda",
+      "url": "https://open.spotify.com/track/53jVt2BD1Wgh1aUoqAodQT"
     },
     {
       "added_at": "2025-05-05 23:09:10",

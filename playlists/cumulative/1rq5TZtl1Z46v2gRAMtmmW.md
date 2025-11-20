@@ -4,7 +4,7 @@
 
 > 
 
-476 songs - 1 day 7 hr 23 min
+477 songs - 1 day 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -478,6 +478,7 @@
 | [Without You](https://open.spotify.com/track/7Ksw8nf3U4g8rcJOoFkxaT) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4), [ASHWARYA](https://open.spotify.com/artist/4meOm0fRIyy8gmJ9QVpGpk) | [Without You](https://open.spotify.com/album/5PlzsOCOn76AF8NnmjScU8) | 3:55 | 2025-09-03 |  |
 | [Woman](https://open.spotify.com/track/53Mar0XxfUNHeHlGymw52n) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Woman](https://open.spotify.com/album/32cgWHAadfJEeQVFWhTipy) | 3:52 | 2023-05-31 | 2024-03-23 |
 | [Wonderful Christmastime](https://open.spotify.com/track/1ibzH4vGk0lOD9DcLi87j7) | [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi) | [Wonderful Christmastime](https://open.spotify.com/album/4txnTlq9HyJ9lfeBuJbXYI) | 2:57 | 2024-11-29 | 2025-01-15 |
+| [Worth It](https://open.spotify.com/track/7FEzKQw1rU8ZA5nsqjJ9H8) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Worth It](https://open.spotify.com/album/4WqUWYxOvMXphSYewpsajK) | 4:31 | 2025-11-19 |  |
 | [You Knew](https://open.spotify.com/track/3tYTLCvnS63hpobSK3tRsR) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [You Knew](https://open.spotify.com/album/4n3meu86cgj7FIwe0xvYKc) | 7:16 | 2023-07-18 | 2024-02-16 |
 | [You Need Me](https://open.spotify.com/track/1qJhgjy1XcepOKrM3w7xuB) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo), [Frazer Ray](https://open.spotify.com/artist/7Ic9xxxoKy4EZFqLEXI2hK) | [You Need Me](https://open.spotify.com/album/4oCf7fcuXDJr649Y7rcuzH) | 6:04 | 2022-08-16 | 2022-10-22 |
 | [You Thought!](https://open.spotify.com/track/3CoNCkH0WixzONEFBoVApf) | [Brian Nasty](https://open.spotify.com/artist/5RpQGZtxRWXdEZpV7gNdvM), [Lord Apex](https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz) | [You Thought!](https://open.spotify.com/album/52Qw5zCKPoWJCIv3W6S24i) | 3:46 | 2025-11-17 |  |

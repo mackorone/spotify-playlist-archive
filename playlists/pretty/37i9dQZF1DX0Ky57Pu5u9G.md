@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Ky57Pu5u9G.md) - [plain]
 
 > Where will your dreams take you? Listen to the music from Sing and Sing 2!
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,794 likes - 67 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,838 likes - 67 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Ky57Pu5u9G.md) - [plain]
 | 36 | [Carry That Weight \- Remastered 2009](https://open.spotify.com/track/5eZrW59C3UgBhkqNlowEID) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 1:36 |
 | 37 | [Soy Yo \- Sing 2 Mix](https://open.spotify.com/track/2PKhtb0xCcYnFz1h8ii1wF) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Sing 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3WCLzYOlSmLD2cy1RXdwUd) | 2:57 |
 | 38 | [Don't You Worry 'Bout A Thing \- Acoustic Version / From "Sing" Original Motion Picture Soundtrack](https://open.spotify.com/track/01rzqgRE3bImDHZFwSBakq) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Sing \(Original Motion Picture Soundtrack / Deluxe\)](https://open.spotify.com/album/5Sdmly0VRVw0wIow5eMHAW) | 3:17 |
-| 39 | [Hallelujah](https://open.spotify.com/track/7yzbimr8WVyAtBX3Eg6UL9) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [Various Positions](https://open.spotify.com/album/6I58qJMqZHhb8jtNT3CuJB) | 4:37 |
+| 39 | [Hallelujah](https://open.spotify.com/track/7yzbimr8WVyAtBX3Eg6UL9) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [Various Positions](https://open.spotify.com/album/6I58qJMqZHhb8jtNT3CuJB) | 4:39 |
 | 40 | [Gimme Some Lovin' \- Single Mix](https://open.spotify.com/track/5cZcdbTpm0kwXbW1VMyAu4) | [The Spencer Davis Group](https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS) | [Sing \(Original Motion Picture Soundtrack / Deluxe\)](https://open.spotify.com/album/5Sdmly0VRVw0wIow5eMHAW) | 2:54 |
 | 41 | [Hallelujah \- Duet Version / From "Sing" Original Motion Picture Soundtrack](https://open.spotify.com/track/3ULIOaWZxZshMYcDwQBZ8J) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Sing \(Original Motion Picture Soundtrack / Deluxe\)](https://open.spotify.com/album/5Sdmly0VRVw0wIow5eMHAW) | 3:28 |
 | 42 | [Tippy Toes \(with Fancy Feelings & DSCOSTU\) \- BONUS TRACK](https://open.spotify.com/track/02kiSpaHtIrkNCPjGndAI1) | [Adam Buxton](https://open.spotify.com/artist/1tELKM5wjfv7SlSNgVOdAq), [DSCOSTU](https://open.spotify.com/artist/4vg4AC4wgDKwGNV1xemLr1) | [Sing 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3WCLzYOlSmLD2cy1RXdwUd) | 2:08 |

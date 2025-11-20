@@ -27185,6 +27185,24 @@
     },
     {
       "album": {
+        "name": "Jump Out",
+        "url": "https://open.spotify.com/album/5Vb4K4Xf4KPFupmhHi5COM"
+      },
+      "artists": [
+        {
+          "name": "OsamaSon",
+          "url": "https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1"
+        }
+      ],
+      "date_added": "2025-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127152,
+      "name": "Made Sum Plans",
+      "url": "https://open.spotify.com/track/5sE9XpE2ukIwC2sYhIvUrs"
+    },
+    {
+      "album": {
         "name": "MADONNA & RIHANNA",
         "url": "https://open.spotify.com/album/0r81t0FQLIyyAytNSLUbqy"
       },
@@ -29124,7 +29142,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 126852,
       "name": "Move To The Left",
       "url": "https://open.spotify.com/track/0B0DUjlI0kUSlAl9JV1myP"
@@ -42038,7 +42056,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 151133,
       "name": "Smoke n Drank",
       "url": "https://open.spotify.com/track/1ZdJs4bRHZ3SxQZbsN7GK1"
@@ -47256,6 +47274,32 @@
       "duration_ms": 173750,
       "name": "Turn Me Up",
       "url": "https://open.spotify.com/track/41LgGSrxbmi0TKPNJPwNas"
+    },
+    {
+      "album": {
+        "name": "TURN UP",
+        "url": "https://open.spotify.com/album/2Tfya2lpVhvpHDd3MTTyFP"
+      },
+      "artists": [
+        {
+          "name": "PlaqueBoyMax",
+          "url": "https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS"
+        },
+        {
+          "name": "Rakai",
+          "url": "https://open.spotify.com/artist/4SQN7zH1QNPFm2AFAz5qks"
+        },
+        {
+          "name": "BunnaB",
+          "url": "https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB"
+        }
+      ],
+      "date_added": "2025-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153655,
+      "name": "TURN UP",
+      "url": "https://open.spotify.com/track/5ogwhGSfeA3c82k4P6zriQ"
     },
     {
       "album": {

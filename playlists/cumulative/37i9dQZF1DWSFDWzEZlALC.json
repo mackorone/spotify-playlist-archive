@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Mika No\u00e9",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: JEREMIAS",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -340,7 +340,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 210454,
       "name": "1996",
       "url": "https://open.spotify.com/track/1FQ20CihLeBuPUlpJiQXgQ"
@@ -2998,7 +2998,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 156495,
       "name": "Benz",
       "url": "https://open.spotify.com/track/2myW2Gi0RmNBQ1nEUmgzDL"
@@ -5724,7 +5724,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 147404,
       "name": "dior sauvage",
       "url": "https://open.spotify.com/track/3a2r3BiCyrIJrjQ48GYXvH"
@@ -13242,7 +13242,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 202666,
       "name": "kein kokain",
       "url": "https://open.spotify.com/track/44ypz7sEGlI54NfI0TOiFh"
@@ -13494,7 +13494,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 169764,
       "name": "keinen namen",
       "url": "https://open.spotify.com/track/0G0ds36RlowQ1uV5f2um9X"
@@ -13552,7 +13552,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 154155,
       "name": "kids",
       "url": "https://open.spotify.com/track/6gVfOhYnYivlVGPEH1I03l"
@@ -16490,7 +16490,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 167715,
       "name": "Method Acting",
       "url": "https://open.spotify.com/track/0waRqqT3XMM1UzZkSZGnd3"
@@ -17594,7 +17594,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 173058,
       "name": "Nie Wieder",
       "url": "https://open.spotify.com/track/3SGjzy8TqMiNzuEij7CNMQ"
@@ -17688,7 +17688,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 172006,
       "name": "niemehrzur\u00fcck",
       "url": "https://open.spotify.com/track/53pxXjDML6sQ5r78FigWYv"
@@ -19392,7 +19392,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 168400,
       "name": "Regenbogenrand",
       "url": "https://open.spotify.com/track/0bXNeHgg5dwbnC9uthXMpO"
@@ -20554,6 +20554,24 @@
       "duration_ms": 225500,
       "name": "Schnabeltier",
       "url": "https://open.spotify.com/track/1ZFf460nskwX8QHUIxnsd4"
+    },
+    {
+      "album": {
+        "name": "Such nach mir",
+        "url": "https://open.spotify.com/album/6Sp7DtcVBg4hlPOLwJUy73"
+      },
+      "artists": [
+        {
+          "name": "LYAS",
+          "url": "https://open.spotify.com/artist/2mPebAIY8nz5NmweVNGuoT"
+        }
+      ],
+      "date_added": "2025-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178174,
+      "name": "Schnee",
+      "url": "https://open.spotify.com/track/6FmzCdg1hI5XTx3xbYBNZq"
     },
     {
       "album": {
@@ -24986,7 +25004,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 200314,
       "name": "viel f\u00fchlen",
       "url": "https://open.spotify.com/track/3D7al5Uo2IznWA9yvGBcYq"
@@ -25698,7 +25716,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-20",
       "duration_ms": 137960,
       "name": "was ich mein",
       "url": "https://open.spotify.com/track/6rxlL4CHHekAwsJjse4etO"

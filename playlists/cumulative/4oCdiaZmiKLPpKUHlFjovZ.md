@@ -4,7 +4,7 @@
 
 > Turn this playlist all the way up! Featuring, HoodRich Pablo Juan, Money Man, Peezy &amp; Blxst.
 
-195 songs - 8 hr 43 min
+196 songs - 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Major \(feat\. Key Glock\)](https://open.spotify.com/track/3Yt2ph8Ko0JBANpdawzSF2) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Role Model](https://open.spotify.com/album/27YzHBsMfq6RvPQxWiK9sC) | 3:15 | 2024-01-19 |  |
 | [Make & Model](https://open.spotify.com/track/2dkZzVGgJh6AWAlzinjwzL) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7) | [Insomnia](https://open.spotify.com/album/4VDFKsron5xLCkREXXmFjD) | 2:25 | 2025-03-21 |  |
 | [Mardi Gras \(Go Crazy\) \- PBM Version](https://open.spotify.com/track/2abIvCHHsNecIV9HwdldsZ) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Kool John](https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Mardi Gras \(Go Crazy\) \[PBM Version\]](https://open.spotify.com/album/2LiuU8KvEVRTZ86GoFT4nz) | 2:54 | 2025-09-29 |  |
+| [Mardi Gras \(Go Crazy\) \- Seoul 2 Okinawa Version](https://open.spotify.com/track/4eFWMltWSQd1l61TCqypM5) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Kool John](https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [Mardi Gras \(Go Crazy\) \[Seoul 2 Okinawa Version\]](https://open.spotify.com/album/56eevAZjrjGQKlctPZBtJg) | 3:06 | 2025-11-19 |  |
 | [Me And Mike](https://open.spotify.com/track/4wwACmcnLZWd5MAdNPE6mP) | [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx), [Rmc Mike](https://open.spotify.com/artist/1j9595o6FMO4iLwci19nvo) | [Me And Mike](https://open.spotify.com/album/69oFLAcQKRkhTOowDPMCJW) | 2:19 | 2024-03-30 | 2025-02-01 |
 | [Midnight in Hawaii 2](https://open.spotify.com/track/1oB6gO3603t901nqbZGQxN) | [Big Sad 1900](https://open.spotify.com/artist/6CPTMFjo7Sq3ACuzHsXVkt), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Midnight in Hawaii 2](https://open.spotify.com/album/7zXEgBFYTBHZx4tSgOb12m) | 3:18 | 2025-10-06 |  |
 | [Money](https://open.spotify.com/track/44AJ0XazpwYbC3NsFmio43) | [22nd Jim](https://open.spotify.com/artist/0ROLbpYHvwZWVbPBibRwPU), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Money](https://open.spotify.com/album/3xhqZBrWW0aScPnvwEOLdq) | 2:11 | 2023-09-08 | 2025-02-01 |

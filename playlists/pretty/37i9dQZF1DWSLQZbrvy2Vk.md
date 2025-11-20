@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLQZbrvy2Vk.md) - [plain]
 
 > All vengeance, no brakes\. Listen to music from the series Duster, now streaming on Max.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,015 likes - 90 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,032 likes - 90 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLQZbrvy2Vk.md) - [plain]
 | 4 | [Won't Nobody Listen](https://open.spotify.com/track/32hF9kyUnQa42pLawXZoOW) | [Black Haze Express](https://open.spotify.com/artist/5EcqchmRRBZNjTBStr4TEQ) | [Won't Nobody Listen](https://open.spotify.com/album/2vF8vPq8273HVhk5NgxEGs) | 4:15 |
 | 5 | [Apopse Tin Kithara Mou](https://open.spotify.com/track/2WuxJtsORqwP7c575Incvy) | [Mimis Plessas](https://open.spotify.com/artist/7emTBOtoCY4wkakcYrJ21I) | [Ellinikos Kinimatografos](https://open.spotify.com/album/4KLBNfZWxNZz2saXOFSWqK) | 2:37 |
 | 6 | [Smiling Faces Sometimes](https://open.spotify.com/track/5Vdg4tP25ffeGEC5GGmCwm) | [The Undisputed Truth](https://open.spotify.com/artist/2tkwWmcZOQPNbbIdknfBsw) | [The Undisputed Truth](https://open.spotify.com/album/0HHW9b70iZmfWNcFfjOFEz) | 3:18 |
-| 7 | [Crying](https://open.spotify.com/track/6eLL7QTdMWdhhG4i3jHDR9) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [Crying](https://open.spotify.com/album/21REQ6X34DCAcoxtj654TI) | 2:46 |
+| 7 | [Crying](https://open.spotify.com/track/6eLL7QTdMWdhhG4i3jHDR9) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [Crying](https://open.spotify.com/album/21REQ6X34DCAcoxtj654TI) | 2:48 |
 | 8 | [I Don’t Know What It Is, But It Sure Is Funky](https://open.spotify.com/track/0M8Bgyd1DSROXVP0y2Z9Yw) | [Ripple](https://open.spotify.com/artist/3oLqEQCc3rk0vKKwrCaJZA) | [But It Sure Is Funky](https://open.spotify.com/album/3tNDUC7Rfwx6wFNt9ZXNXq) | 3:27 |
 | 9 | [Isn't It a Pity \(2014 Remaster\)](https://open.spotify.com/track/0vTvkf24wkCG3DTKgoNnih) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(2014 Remaster\)](https://open.spotify.com/album/7j7lsExGJtBHLgDYzjclwk) | 7:10 |
 | 10 | [Our Lives Are Shaped By What We Love](https://open.spotify.com/track/5P4qN0020P8dGyl7pdUO91) | [Odyssey](https://open.spotify.com/artist/09ZLqyCta4eVplqQrSJKBx) | [Odyssey](https://open.spotify.com/album/00D1tA6dXNTNk8WZIWSL8V) | 3:37 |
@@ -83,9 +83,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLQZbrvy2Vk.md) - [plain]
 | 73 | [Can I Get A Witness \- Single Version](https://open.spotify.com/track/7kFs87cJlyvSJFt5UeRG6w) | [Barbara Randolph](https://open.spotify.com/artist/1JloDwcRC1jrV3NWiZjMXM) | [The Complete Motown Singles \- Vol\. 8: 1968](https://open.spotify.com/album/0XAoUrM42zDYCc0wGsjRFv) | 2:21 |
 | 74 | [Gatur Bait](https://open.spotify.com/track/4TDmZ9JdCN9nvDfnDqknr7) | [The Gaturs](https://open.spotify.com/artist/2EHyjVJsfQWhloS0nJErz9) | [Get It!](https://open.spotify.com/album/35PWLMZQztgxSTC0zCuJco) | 2:44 |
 | 75 | [The Rapper](https://open.spotify.com/track/0s1PceKn7sF0Pc8bsnDN1t) | [The Jaggerz](https://open.spotify.com/artist/05aFikcWbrmnDKsCHaH0Ce) | [We Went to Different Schools Together](https://open.spotify.com/album/5PTatjvMg80W9nhSWrhU7d) | 2:42 |
-| 76 | [I Got a Feelin' in My Body](https://open.spotify.com/track/4FGhgiMRH83tYgDBSAMVPY) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Good Times](https://open.spotify.com/album/0bVlE6dhJEsCzCX2CWrOCw) | 3:33 |
+| 76 | [I Got a Feelin' in My Body](https://open.spotify.com/track/4FGhgiMRH83tYgDBSAMVPY) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Good Times](https://open.spotify.com/album/0bVlE6dhJEsCzCX2CWrOCw) | 3:36 |
 | 77 | [Angels In The Sky](https://open.spotify.com/track/305kV9b0VxNsizbewtO4B8) | [Gene McDaniels](https://open.spotify.com/artist/6I7tqjEzznFPrardDfvsvq) | [100 Lbs Of Clay!](https://open.spotify.com/album/3vaS5dLwGK40fAcq4VRLps) | 2:33 |
-| 78 | [\(Let Me Be Your\) Teddy Bear](https://open.spotify.com/track/57j9wUmiHxii7VpbAdSkPQ) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Loving You](https://open.spotify.com/album/7KZSeiE569txmIxoNBQLS2) | 1:47 |
+| 78 | [\(Let Me Be Your\) Teddy Bear](https://open.spotify.com/track/57j9wUmiHxii7VpbAdSkPQ) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Loving You](https://open.spotify.com/album/7KZSeiE569txmIxoNBQLS2) | 1:49 |
 | 79 | [Come On And Get It](https://open.spotify.com/track/62pZRZkFOmWYYjiSd1oySa) | [3rd Avenue Blues Band](https://open.spotify.com/artist/0QS9o6UoHBfeMczLn21ehz) | [Fantastic](https://open.spotify.com/album/6s7k1khGLXZ6oNthJbzjak) | 3:20 |
 | 80 | [El Toro Bravo](https://open.spotify.com/track/523twexZR1ictebLkMZlWv) | [Xocoyotzin Herrera](https://open.spotify.com/artist/6i8ZpRRXUiKCP3p2Sk7Kz9) | [Fiesta Mariachi](https://open.spotify.com/album/51CPxKjZ9YExGqrrSoP5pW) | 3:11 |
 | 81 | [Money](https://open.spotify.com/track/6qBYciZgi7JqSoNf8g7NpY) | [The Sonics](https://open.spotify.com/artist/2g3PKH7Z1Ofn5oGR6oDjLy) | [Here Are the Sonics](https://open.spotify.com/album/4vqaqoTEbNyeeSHJA6KpdM) | 2:00 |

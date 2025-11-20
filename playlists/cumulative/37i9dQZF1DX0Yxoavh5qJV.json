@@ -259,7 +259,7 @@
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 129173,
+      "duration_ms": 130234,
       "name": "Blue Christmas",
       "url": "https://open.spotify.com/track/3QiAAp20rPC3dcAtKtMaqQ"
     },
@@ -1253,7 +1253,7 @@
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 115826,
+      "duration_ms": 117592,
       "name": "Here Comes Santa Claus (Right Down Santa Claus Lane)",
       "url": "https://open.spotify.com/track/7n7VsX3sv66znBwA8b5uhp"
     },
@@ -1271,7 +1271,7 @@
       "date_added": "2022-12-17",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 150266,
+      "duration_ms": 153797,
       "name": "Here Comes Santa Claus (Right Down Santa Claus Lane) - 1947 Version",
       "url": "https://open.spotify.com/track/25leEEaz1gIpp7o21Fqyjo"
     },
@@ -1607,7 +1607,7 @@
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 151933,
+      "duration_ms": 152570,
       "name": "It's the Most Wonderful Time of the Year",
       "url": "https://open.spotify.com/track/5hslUAKq9I9CG2bAulFkHN"
     },
@@ -3525,7 +3525,7 @@
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 181266,
+      "duration_ms": 186241,
       "name": "Sleigh Ride",
       "url": "https://open.spotify.com/track/5ASM6Qjiav2xPe7gRkQMsQ"
     },
@@ -4032,6 +4032,24 @@
     {
       "album": {
         "name": "Wrapped In Red",
+        "url": "https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229638,
+      "name": "Underneath the Tree",
+      "url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5"
+    },
+    {
+      "album": {
+        "name": "Wrapped In Red",
         "url": "https://open.spotify.com/album/7Jahqd1kx9Qau0E9x9iZj6"
       },
       "artists": [
@@ -4046,24 +4064,6 @@
       "duration_ms": 229640,
       "name": "Underneath the Tree",
       "url": "https://open.spotify.com/track/3YZE5qDV7u1ZD1gZc47ZeR"
-    },
-    {
-      "album": {
-        "name": "Wrapped In Red",
-        "url": "https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "date_added": "2021-12-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 229640,
-      "name": "Underneath the Tree",
-      "url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5"
     },
     {
       "album": {

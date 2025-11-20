@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIjec9dt7k0O.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5DmrGSDwvNUezS5mYUQI9E">Andrew Watt</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,015 likes - 223 songs - 13 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,016 likes - 223 songs - 13 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -232,4 +232,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIjec9dt7k0O.md) - [plain]
 | 222 | [Beam On](https://open.spotify.com/track/467qndiTw6EHdEVgS5GlZ7) | [Khari Mateen](https://open.spotify.com/artist/62KfmfXCMVP2kOsZi4j39u) | [Wait for Sunrise](https://open.spotify.com/album/1bROyL2oDz8tVUcWNbeZSX) | 4:16 |
 | 223 | [Gabriela](https://open.spotify.com/track/37TC45aXWnf5hLttYUmKnn) | [CoverZounds](https://open.spotify.com/artist/7IDWvv3p14ky0S5wxwtiDi), [EDITKINGS](https://open.spotify.com/artist/1xyF70wWUIIdwczzNKkxjI) | [Gabriela](https://open.spotify.com/album/0jhdc7QMNmtHHmQX7ZoZki) | 3:13 |
 
-Snapshot ID: `AcB8qAAAAAAl+cV65ogzC/wuDN+O+LHr`
+Snapshot ID: `AcCCSAAAAADFU+eIMj+rnrFgvrt6mXmb`

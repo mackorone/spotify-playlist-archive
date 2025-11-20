@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall, shatta & bouyon du moment\. Photo : P.L.L
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,604 likes - 50 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,612 likes - 50 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Le Pain](https://open.spotify.com/track/2DV5KEPN747LIcavwZa7y2) | [P.L.L](https://open.spotify.com/artist/13RiaFe3XEZ4jw8t6YRquf), [Richauvet Patrice](https://open.spotify.com/artist/3xjz6HKPt9eEfhwcvu1Nak), [Selly Luidgi](https://open.spotify.com/artist/4V6K9DIuk8eGaymFHvqFbR), [Maree Luidgi](https://open.spotify.com/artist/1YDmsU063yBCg7Y7mbdYHT) | [Le Pain](https://open.spotify.com/album/6E1TYEe5Fei2Ri0ZpU1wnm) | 1:56 |
+| 1 | [Le Pain](https://open.spotify.com/track/2DV5KEPN747LIcavwZa7y2) | [P.L.L](https://open.spotify.com/artist/13RiaFe3XEZ4jw8t6YRquf) | [Le Pain](https://open.spotify.com/album/6E1TYEe5Fei2Ri0ZpU1wnm) | 1:56 |
 | 2 | [Paddle](https://open.spotify.com/track/3tIib0N5bPFPlt9DmUwLvh) | [TKS 2G](https://open.spotify.com/artist/26ZKmgHKJWQdnSKUZCVEKa), [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD) | [Paddle](https://open.spotify.com/album/3N0kExPq7hOiPnp3oRfecd) | 2:18 |
 | 3 | [Follasse](https://open.spotify.com/track/4LKABvF9h5iMnQlxCsuMPH) | [KENZY DONA](https://open.spotify.com/artist/3tVOuuZqPW4toF0vFTERMl) | [Follasse](https://open.spotify.com/album/3QFReuHQy2eXvOW78Ghr91) | 2:07 |
 | 4 | [Xrated](https://open.spotify.com/track/59FW0LSKUX8XTFXUxGFPoP) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8) | [Xrated](https://open.spotify.com/album/3DEmi0yTo9j6iYhMPmIT60) | 2:45 |

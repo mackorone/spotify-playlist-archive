@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 
 > 感受女聲力量。Cover: 秋彤 Claudia Ng
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,259 likes - 161 songs - 9 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,261 likes - 161 songs - 9 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
