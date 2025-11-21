@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9n1dvGkpvfI.md) - [plain]
 
 > Challenging norms, breaking boundaries with Tobias Forge of <a href="https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D?si=c6cdd622f63042d2">Ghost</a>, who shares the songs that shape his alternative spirit\. This is <a href=spotify:genre:0JQ5IMCbQBLnnDn497UHrz>COUNTER//CULTURE</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,618 likes - 36 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,629 likes - 36 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9n1dvGkpvfI.md) - [plain]
 | 13 | [Elected](https://open.spotify.com/track/6avV0X27a8FKFbX8JOdHbc) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Billion Dollar Babies \(Deluxe Reissue\)](https://open.spotify.com/album/4SlY4oyiPg6At7vyouZ7ep) | 4:08 |
 | 14 | [Mary On A Cross](https://open.spotify.com/track/2wBnZdVWa5jVpvYRfGU7rP) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Seven Inches of Satanic Panic](https://open.spotify.com/album/0dfSsZm64lSVeIcbcS2cYi) | 4:04 |
 | 15 | [Wings of Tomorrow](https://open.spotify.com/track/3140mPbLQsrCPVcPQtdsS7) | [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [Wings Of Tomorrow](https://open.spotify.com/album/0xvqPhWUfdiLly1cdR4WVx) | 3:56 |
-| 16 | [Let Me Put My Love Into You](https://open.spotify.com/track/5XeMsYb1rWxQL1bUUaZajn) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 4:15 |
+| 16 | [Let Me Put My Love Into You](https://open.spotify.com/track/5XeMsYb1rWxQL1bUUaZajn) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 4:16 |
 | 17 | [Angel of Death](https://open.spotify.com/track/4Mh56a2NB9vENJP3AUTD5F) | [Angel Witch](https://open.spotify.com/artist/6L48AOtGmQL1ELLoKML7cS) | [Angel Witch \(30th Anniversary Edition\)](https://open.spotify.com/album/4uL3yn9nCDNOr0Dj4ycdqn) | 4:52 |
 | 18 | [Back to Black](https://open.spotify.com/track/5u5KfoGMlgppeZFiHATa5c) | [Sarcofagus](https://open.spotify.com/artist/159GWwlNP7D88e3Joai6vP) | [Anthology 1979\-1982](https://open.spotify.com/album/7AGq2eoGMGH1KMVgAOBmRH) | 5:12 |
 | 19 | [Charred Remains](https://open.spotify.com/track/51bldDSed9m6Raj2BtRePR) | [Autopsy](https://open.spotify.com/artist/6hR8mUd2yyHFazoCuweiIJ) | [Shitfun](https://open.spotify.com/album/0XQgv0BaqYOVNEzf2Y6TPv) | 3:40 |

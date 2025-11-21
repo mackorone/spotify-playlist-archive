@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise avec Linh",
+  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise avec Claudio Cap\u00e9o",
   "name": "Fresh Vari\u00e9t\u00e9",
   "tracks": [
     {
@@ -521,6 +521,24 @@
     },
     {
       "album": {
+        "name": "H\u00e9l\u00e9",
+        "url": "https://open.spotify.com/album/78tVFMGbPWdm1S86JyC017"
+      },
+      "artists": [
+        {
+          "name": "Helena",
+          "url": "https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180783,
+      "name": "Boule au ventre",
+      "url": "https://open.spotify.com/track/4P3CwJ2gqym33wJKeeOl4j"
+    },
+    {
+      "album": {
         "name": "Butterfly",
         "url": "https://open.spotify.com/album/3rOI7YmGY7hVB8m7YZ8HPY"
       },
@@ -666,7 +684,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 202887,
       "name": "Capuche",
       "url": "https://open.spotify.com/track/3o7fTezEjBiIScPt4SJvX6"
@@ -2442,7 +2460,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 209160,
       "name": "Je pardonne",
       "url": "https://open.spotify.com/track/0DMEVqPd2MF7cEAZEzOOCm"
@@ -3151,6 +3169,24 @@
     },
     {
       "album": {
+        "name": "La vie qu'on m\u00e8ne",
+        "url": "https://open.spotify.com/album/3uP80wyt5ZuWBnoBaaolIa"
+      },
+      "artists": [
+        {
+          "name": "Mentissa",
+          "url": "https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162364,
+      "name": "La vie qu'on m\u00e8ne",
+      "url": "https://open.spotify.com/track/67KNgIyHFDX68mOepundEw"
+    },
+    {
+      "album": {
         "name": "Lady Melody",
         "url": "https://open.spotify.com/album/2swXFP1plSouufy9vuYqRg"
       },
@@ -3484,7 +3520,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 183000,
       "name": "Lendemain de f\u00eate",
       "url": "https://open.spotify.com/track/5i3e6gjbom2iWqspwmCGbA"
@@ -3734,6 +3770,28 @@
       "duration_ms": 163363,
       "name": "Les \u00e9toiles",
       "url": "https://open.spotify.com/track/0qhFivak96RXIyePqIWIWx"
+    },
+    {
+      "album": {
+        "name": "Let Me Go",
+        "url": "https://open.spotify.com/album/1PuCjuF1fBuuh6SwLclfns"
+      },
+      "artists": [
+        {
+          "name": "Diva Faune",
+          "url": "https://open.spotify.com/artist/39l75cUNbVMpHgykQLyOUT"
+        },
+        {
+          "name": "St\u00e9phane",
+          "url": "https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170936,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/4M8a60X9qBfIjJ0rDfNQUc"
     },
     {
       "album": {
@@ -4182,7 +4240,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 159765,
       "name": "Millions de c\u0153urs",
       "url": "https://open.spotify.com/track/4hQEDPRaNyFXoYfbPgasUx"
@@ -5292,6 +5350,24 @@
       "duration_ms": 155747,
       "name": "Puzzle",
       "url": "https://open.spotify.com/track/64CmepzkypgxrWLhbkB27E"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Claudio Cap\u00e9o",
+          "url": "https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142323,
+      "name": "Qu'est-ce qu'il me restera ?",
+      "url": "https://open.spotify.com/track/2dDb0ZppFpTDdcqPLIgJ01"
     },
     {
       "album": {

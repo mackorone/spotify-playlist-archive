@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 
 > 様々な感情を自在に表現し、登場人物に命を吹き込む声優たち。声のプロフェッショナルである彼らが紡ぐ歌の世界。A collection of music from voice actors/ actresses in Japan\. Cover: 帝乃三姉妹と優  \(アニメ『帝乃三姉妹は案外、チョロい。』\) Cover:©ひらかわあや／小学館／アニプレックス
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,748 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,749 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 | 3 | [とおりゃんせ](https://open.spotify.com/track/1wAyLHIWTPbx6k9SPsxec1) | [Nao Toyama](https://open.spotify.com/artist/5FQ4vbNwpE1wFGoOPecJB9) | [TVアニメ「かくりよの宿飯 弐」とおりゃんせ/涙のレシピ](https://open.spotify.com/album/4swqz5dvRj0xT3AxNcla6g) | 3:19 |
 | 4 | [any if](https://open.spotify.com/track/0SiJLBIj4wVkD78MqBmCZW) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Journey](https://open.spotify.com/album/0VN22nXaT5LlwS1cjOX8CC) | 4:34 |
 | 5 | [そこに有る灯り](https://open.spotify.com/track/3PVQ7SJlrLOkwdelLzgFBs) | [古川 慎](https://open.spotify.com/artist/7cqs65sOpEfqF5T0XFnAWc) | [そこに有る灯り](https://open.spotify.com/album/2xaomLtOYGwnUkFmBFQIae) | 4:16 |
-| 6 | [Mirror](https://open.spotify.com/track/2V6aSVVarckm4utqYNFVEk) | [Mamoru Miyano](https://open.spotify.com/artist/1iR65pQAV4ssTTf9JRNr9X) | [Mirror](https://open.spotify.com/album/3JFmDgeLE2atP9al6QzisW) | 2:53 |
+| 6 | [Mirror](https://open.spotify.com/track/2V6aSVVarckm4utqYNFVEk) | [Mamoru Miyano](https://open.spotify.com/artist/1iR65pQAV4ssTTf9JRNr9X) | [Mirror](https://open.spotify.com/album/3JFmDgeLE2atP9al6QzisW) | 2:56 |
 | 7 | [治癒治癒ちゅっ♡](https://open.spotify.com/track/6jupKuSxNYrxYRo7R6NSYU) | [Yui Ogura](https://open.spotify.com/artist/4BVBO54UlQrzDW66hSEefy) | [治癒治癒ちゅっ♡](https://open.spotify.com/album/6ZDhpEAQcW7Llxtgkp1WVT) | 3:14 |
 | 8 | [じょいふるしあんてっ!](https://open.spotify.com/track/6ZMQHoZDvoXJ6G65m2MAXO) | [DIALOGUE+](https://open.spotify.com/artist/2edEpSuGIPWwl7QJF3hXM0) | [PENTA+LOGUE](https://open.spotify.com/album/3JXFy918H0bJ3Akn3n8uEV) | 3:59 |
 | 9 | [アップルミント \- Emo phrase Re:mix by よる。＆俊龍](https://open.spotify.com/track/24suyICn63UNroq1GsfhZY) | [内田彩](https://open.spotify.com/artist/0M6zW75xJfkFNrxxawEdLz), [よる。](https://open.spotify.com/artist/4QF17yY6uuq2p8c7SrGs45), [俊龍](https://open.spotify.com/artist/0GlER7n8NtZ5b38uLnKIj6) | [アップルミント \(Emo phrase Re:mix by よる。＆俊龍\)](https://open.spotify.com/album/44nCA6dMSf1FM7OYwaZYPk) | 4:37 |

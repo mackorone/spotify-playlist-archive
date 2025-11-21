@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : Georgio",
+  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : Frs taga",
   "name": "Lyricistes",
   "tracks": [
     {
@@ -675,6 +675,24 @@
     },
     {
       "album": {
+        "name": "MALVADO",
+        "url": "https://open.spotify.com/album/4db2UTsDArbTqYlrv7B8cS"
+      },
+      "artists": [
+        {
+          "name": "Lesram",
+          "url": "https://open.spotify.com/artist/0UeKDbiaApyP7qKfcmGN03"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156108,
+      "name": "ASHITAKA",
+      "url": "https://open.spotify.com/track/6MFRx6dj7FPz2GoGkhocgj"
+    },
+    {
+      "album": {
         "name": "AUSTIN POWERS (feat. Limsa d'Aulnay)",
         "url": "https://open.spotify.com/album/4tMXvuSP7b9PIGLz2J7vtU"
       },
@@ -708,7 +726,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 297750,
       "name": "Aux gens qui",
       "url": "https://open.spotify.com/track/3v2C9Slde69iXI2mBKM1pj"
@@ -1366,7 +1384,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 152693,
       "name": "Cit\u00e9s de France",
       "url": "https://open.spotify.com/track/27JUw94xwdU969i6hkf21s"
@@ -1442,7 +1460,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 254659,
       "name": "convaincu - Bonus",
       "url": "https://open.spotify.com/track/4ECR8NI9OhpWeeG4Rh2rqF"
@@ -1868,6 +1886,24 @@
       "duration_ms": 220186,
       "name": "D\u00e9viant",
       "url": "https://open.spotify.com/track/4aKQpdKEOlr37ycl8ZpTF8"
+    },
+    {
+      "album": {
+        "name": "D\u00e9\u00e7u",
+        "url": "https://open.spotify.com/album/2oWFWBeMDaHrdL0YlkOZxU"
+      },
+      "artists": [
+        {
+          "name": "Boris Dastarac",
+          "url": "https://open.spotify.com/artist/7nADNFt2kT9g5b6wdRPcGd"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131294,
+      "name": "D\u00e9\u00e7u",
+      "url": "https://open.spotify.com/track/4wPHh0EOa52M7SyIQjza1y"
     },
     {
       "album": {
@@ -2642,7 +2678,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 206485,
       "name": "INTRO",
       "url": "https://open.spotify.com/track/56HiaZ4c4Vf97QuW1IKVMB"
@@ -2660,7 +2696,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 211399,
       "name": "J'attends",
       "url": "https://open.spotify.com/track/2bniQFXQRtmHcEx35GJTsN"
@@ -2958,7 +2994,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 157506,
       "name": "L'EAU (Part. II)",
       "url": "https://open.spotify.com/track/4eenyjhMucaRF1yJ2PuGEK"
@@ -3635,6 +3671,24 @@
     },
     {
       "album": {
+        "name": "Legoman",
+        "url": "https://open.spotify.com/album/3iBdFcZs0OBoJZKheVFzIJ"
+      },
+      "artists": [
+        {
+          "name": "LUPI'O",
+          "url": "https://open.spotify.com/artist/43ACorf2gFD4DGnmCPmzG2"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169791,
+      "name": "Legoman",
+      "url": "https://open.spotify.com/track/2yHGZiK6GhGUTJH8iTtetY"
+    },
+    {
+      "album": {
         "name": "Les anges pleurent plus qu'avant",
         "url": "https://open.spotify.com/album/5eppPHGfeUsdDrjgiPqu79"
       },
@@ -3836,7 +3890,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 233117,
       "name": "Logo Dor\u00e9",
       "url": "https://open.spotify.com/track/5DBRavHrwKbLD1r7MXyYAI"
@@ -4254,6 +4308,28 @@
       "duration_ms": 185142,
       "name": "Mick Jagger",
       "url": "https://open.spotify.com/track/54Q1i6GCkHuboimwxPFV7R"
+    },
+    {
+      "album": {
+        "name": "MODE CRYPT\u00c9",
+        "url": "https://open.spotify.com/album/0NMoRqiuQw7ink1OfSsxHa"
+      },
+      "artists": [
+        {
+          "name": "Mouss",
+          "url": "https://open.spotify.com/artist/7D4rgoFxldk2wari7UObNY"
+        },
+        {
+          "name": "Double Zulu",
+          "url": "https://open.spotify.com/artist/3p5keqAzDnuOoAVya8laK6"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "MODE CRYPT\u00c9",
+      "url": "https://open.spotify.com/track/0OOFzZxPzKeFIHvlJlmKPW"
     },
     {
       "album": {
@@ -4704,7 +4780,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 208941,
       "name": "Pas encore dead",
       "url": "https://open.spotify.com/track/6GpwFSXYkBQCZHU1QftgC0"
@@ -4958,7 +5034,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 259882,
       "name": "Pourquoi tu m'aimes ? (feat. Potter Payper)",
       "url": "https://open.spotify.com/track/5beW2myVvNNIWgChfplO5G"
@@ -5173,6 +5249,24 @@
     },
     {
       "album": {
+        "name": "Rei",
+        "url": "https://open.spotify.com/album/3YTu0lARLRddlCb5YPPBIl"
+      },
+      "artists": [
+        {
+          "name": "Louvar",
+          "url": "https://open.spotify.com/artist/3gMXFPjg7pQViQAzc7Xslc"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Rei",
+      "url": "https://open.spotify.com/track/0vANR3Lh8V574Y2DFj2drD"
+    },
+    {
+      "album": {
         "name": "Requiem",
         "url": "https://open.spotify.com/album/2RKkS3jHqfbZd6prSNPqJn"
       },
@@ -5351,6 +5445,24 @@
     },
     {
       "album": {
+        "name": "Comme Toi (Part.1)",
+        "url": "https://open.spotify.com/album/4csmIefIWjzd041uVCdeSZ"
+      },
+      "artists": [
+        {
+          "name": "Ivory",
+          "url": "https://open.spotify.com/artist/3RruZ5EIChHVqnHm7VsOCJ"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Sablier",
+      "url": "https://open.spotify.com/track/1CQaWPdXZp651pCjvcZaf6"
+    },
+    {
+      "album": {
         "name": "SANS MENTIR",
         "url": "https://open.spotify.com/album/6Q052mhJvX0qiDNso4FCYt"
       },
@@ -5384,6 +5496,24 @@
       "duration_ms": 115553,
       "name": "SCHENGEN",
       "url": "https://open.spotify.com/track/42HTIUgL6KnGsuXRFr4CG0"
+    },
+    {
+      "album": {
+        "name": "Scotch Coquelicot",
+        "url": "https://open.spotify.com/album/3hFBLu4BrOrlc0RLuluatb"
+      },
+      "artists": [
+        {
+          "name": "Cielbleu",
+          "url": "https://open.spotify.com/artist/6kQS6z1b7oIsR1RLxc9jNc"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187756,
+      "name": "Scotch Coquelicot",
+      "url": "https://open.spotify.com/track/0GIoGrf3be4CZqQ2QRxbTW"
     },
     {
       "album": {
@@ -5507,6 +5637,24 @@
     },
     {
       "album": {
+        "name": "SOLDAT",
+        "url": "https://open.spotify.com/album/6Gj0mMnBLqqiJSU6n3r7Ba"
+      },
+      "artists": [
+        {
+          "name": "Guerta",
+          "url": "https://open.spotify.com/artist/0dGdyg6LBJhhr9KstG2KTL"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115613,
+      "name": "SOLDAT",
+      "url": "https://open.spotify.com/track/7aE1A09IXb9jqyx9lsJ00e"
+    },
+    {
+      "album": {
         "name": "NIRVANA",
         "url": "https://open.spotify.com/album/5p583Gi2HJlcjJDQ7R2Tox"
       },
@@ -5602,6 +5750,24 @@
       "duration_ms": 293746,
       "name": "Stigmates",
       "url": "https://open.spotify.com/track/54s2e5RFZQ7cSWBCssnlfA"
+    },
+    {
+      "album": {
+        "name": "Sto\u00efque",
+        "url": "https://open.spotify.com/album/5iDmkDfIXJZApvSU5v5e6B"
+      },
+      "artists": [
+        {
+          "name": "Myk",
+          "url": "https://open.spotify.com/artist/3ph67cARUn5du0gtAtQG5n"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Sto\u00efque",
+      "url": "https://open.spotify.com/track/30SqmUk4XgCa9lLW8Kr6m7"
     },
     {
       "album": {
@@ -5769,6 +5935,24 @@
     },
     {
       "album": {
+        "name": "Prol\u00e9taire",
+        "url": "https://open.spotify.com/album/2e3J4pEJnEvgMGBsJO6CJV"
+      },
+      "artists": [
+        {
+          "name": "Frs taga",
+          "url": "https://open.spotify.com/artist/1SsTQHvVJV2ph5YsqrSLuy"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156040,
+      "name": "Tous fous",
+      "url": "https://open.spotify.com/track/0LsQcMNRdLM5qVeUDDbYUH"
+    },
+    {
+      "album": {
         "name": "Train Mistral",
         "url": "https://open.spotify.com/album/06d1rMj8tdGai6uuHVb7Hs"
       },
@@ -5918,7 +6102,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 175973,
       "name": "Une clope apr\u00e8s l'amour",
       "url": "https://open.spotify.com/track/7pzXgJYFvrh6l7mbp0dlrb"

@@ -2,7 +2,7 @@
 
 ### [Tendenze Rap 2025](https://open.spotify.com/playlist/37i9dQZF1DWXRPjCBAuFj3)
 
-> Brani virali e trend, rap e urban 📈 Morad in cover
+> Brani virali e trend, rap e urban 📈 IvanBi in cover
 
 923 songs - 1 day 23 hr 55 min
 

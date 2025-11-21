@@ -1,12 +1,12 @@
 {
   "description": "Random AF.... Huge playlist to brighten long days, from all genres. Shuffle it! New music added DAILY :) www.avondalerecords.com",
-  "num_followers": 1051,
+  "num_followers": 1052,
   "original_name": "Shuffle Roulette",
   "owner": {
     "name": "Avondale Records",
     "url": "https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq"
   },
-  "snapshot_id": "AAAHpf8J6DLAaIEa4MoZSZZtcffkxFjN",
+  "snapshot_id": "AAAHqujZdDWijMuzNeYS1/F+753RkJsg",
   "tracks": [
     {
       "added_at": "2025-08-03 07:05:37",
@@ -39,6 +39,22 @@
       "duration_ms": 134616,
       "name": "Hello You",
       "url": "https://open.spotify.com/track/58Mps9U6HpzFBzIm6FvVYu"
+    },
+    {
+      "added_at": "2025-11-20 11:02:56",
+      "album": {
+        "name": "temptress",
+        "url": "https://open.spotify.com/album/65cYeQSbhT1ZY3JQEx39b9"
+      },
+      "artists": [
+        {
+          "name": "dredge",
+          "url": "https://open.spotify.com/artist/2a5NdT9HMrYzElE44JJ59W"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "temptress",
+      "url": "https://open.spotify.com/track/1PDUiwGUzBCNwKbbqKM03J"
     },
     {
       "added_at": "2025-09-16 08:32:18",
@@ -1003,6 +1019,22 @@
       "duration_ms": 120000,
       "name": "goblins (nosebleed edit)",
       "url": "https://open.spotify.com/track/2uQFUzUxYVXveO2FF9cpRX"
+    },
+    {
+      "added_at": "2025-11-20 11:03:03",
+      "album": {
+        "name": "temptress",
+        "url": "https://open.spotify.com/album/65cYeQSbhT1ZY3JQEx39b9"
+      },
+      "artists": [
+        {
+          "name": "dredge",
+          "url": "https://open.spotify.com/artist/2a5NdT9HMrYzElE44JJ59W"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "temptress (amnesia edit)",
+      "url": "https://open.spotify.com/track/4DgcfrBabvXy8qsiU8recG"
     },
     {
       "added_at": "2025-08-03 07:09:33",
@@ -3347,6 +3379,22 @@
       "duration_ms": 225329,
       "name": "Stable",
       "url": "https://open.spotify.com/track/0CRTqZix3nBo3vSra6O3os"
+    },
+    {
+      "added_at": "2025-11-20 11:06:59",
+      "album": {
+        "name": "Presente Imperfecto",
+        "url": "https://open.spotify.com/album/2UCecjJfkHXvzZDbt4vfbk"
+      },
+      "artists": [
+        {
+          "name": "SONORAMiCOS",
+          "url": "https://open.spotify.com/artist/5I0mPJBSGW6E9sbrwOfKCE"
+        }
+      ],
+      "duration_ms": 179513,
+      "name": "Presente Imperfecto",
+      "url": "https://open.spotify.com/track/0OHvFYxP5jCifoq7iDoixb"
     }
   ],
   "unique_name": "Shuffle Roulette",

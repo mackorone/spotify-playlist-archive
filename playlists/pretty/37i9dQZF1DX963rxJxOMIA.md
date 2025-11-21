@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX963rxJxOMIA.md) - [plain]
 
 > Fino y elegante, como Crudo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,047 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,069 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX963rxJxOMIA.md) - [plain]
 | 9 | [X\-TRA \- Spotify Sessions](https://open.spotify.com/track/0aQWDp9ppbVjZgRd8pFVFh) | [Crudo Means Raw](https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53) | [Crudo Means Raw \- Spotify Sessions](https://open.spotify.com/album/6aL43UMiBePvZrK2aTN6PC) | 1:59 |
 | 10 | [DIOMEDEZ](https://open.spotify.com/track/6qDTm2QbRSLlSmaUSJE6bF) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a) | [DIOMEDEZ](https://open.spotify.com/album/09RQNQs0rydAfGFXZo53qH) | 3:18 |
 | 11 | [Tury Turner](https://open.spotify.com/track/45VSHza8yIqWY8WMdtPoL9) | [TURY](https://open.spotify.com/artist/0Tyf4eMcgHNc7xTDFe9Yqs), [Prodmonja](https://open.spotify.com/artist/1jO63kMnVlY5VxryDFQsTO) | [Tury Turner](https://open.spotify.com/album/13w9mDkHBZNjrNZ1OgGtZj) | 2:14 |
-| 12 | [BOBADITA](https://open.spotify.com/track/52IeC2QBiJqk9jAR5gbe14) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a) | [BOBADITA](https://open.spotify.com/album/5P3zmTUYu5O7NaFXCrRDHX) | 4:04 |
+| 12 | [BOBADITA](https://open.spotify.com/track/52IeC2QBiJqk9jAR5gbe14) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a), [Prodmonja](https://open.spotify.com/artist/1jO63kMnVlY5VxryDFQsTO) | [BOBADITA](https://open.spotify.com/album/5P3zmTUYu5O7NaFXCrRDHX) | 4:04 |
 | 13 | [Verano Rosa](https://open.spotify.com/track/0nafF9MxcXJBQWv3BTKtdF) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 3:30 |
 | 14 | [SANKA](https://open.spotify.com/track/46ufabZP6oK3ixmN6Gd753) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Dongo](https://open.spotify.com/artist/4H7wgwp6mSTcg5Op2R8XW2) | [SENDÉ](https://open.spotify.com/album/31y7z1FuIhCugObdlkkN0c) | 2:35 |
 | 15 | [AMISTA](https://open.spotify.com/track/72veJ1UABNtqddwZKCIGMo) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [TRINIDAD BENDITA](https://open.spotify.com/album/7GsCgJ2MFW9lGxfiHjqKEP) | 2:57 |

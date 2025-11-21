@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX63fzxvjWR0V.md) - [plain]
 
 > ¡VGLY y todo el crew están de regreso!  Disponible en HBO Max
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,176 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,189 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX63fzxvjWR0V.md) - [plain]
 | 21 | [El Barrio más frrrrrrrrrrio](https://open.spotify.com/track/3PAH5rdSznsB7HPww8NNxO) | [VGLY](https://open.spotify.com/artist/07hvj5YPoKfFLJY6DxUhch), [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [VGLY Temporada 2 \(Original Soundtrack\)](https://open.spotify.com/album/5NiuKAA7AISFbL9PY2NLJ8) | 0:48 |
 | 22 | [Soltera](https://open.spotify.com/track/3OJDtCdYs8QJnui708tEU3) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Soltera](https://open.spotify.com/album/0VRb8B2ls0GDEfmKiL8FWJ) | 3:34 |
 | 23 | [100pre No](https://open.spotify.com/track/2FUf86ZoXJVWABHNsykoTI) | [VGLY](https://open.spotify.com/artist/07hvj5YPoKfFLJY6DxUhch), [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [VGLY Temporada 2 \(Original Soundtrack\)](https://open.spotify.com/album/5NiuKAA7AISFbL9PY2NLJ8) | 3:35 |
-| 24 | [Fin de Semana](https://open.spotify.com/track/6TBzRwnX2oYd8aOrOuyK1p) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Fin de Semana](https://open.spotify.com/album/366AAoKCXunrJSqKqZuafy) | 3:44 |
+| 24 | [PERO NO TE ENAMORES](https://open.spotify.com/track/3w1h7uNU1Dfk2tOaHiIGat) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [PERO NO TE ENAMORES](https://open.spotify.com/album/3iRQdNKyI5Pf78jWYI1tFv) | 3:03 |
 | 25 | [CoKeta](https://open.spotify.com/track/75KdQl6AiOMTAqOEJSjU2F) | [VGLY](https://open.spotify.com/artist/07hvj5YPoKfFLJY6DxUhch), [Alta Elegancia](https://open.spotify.com/artist/7EOpIcFOVG2PedJgVbCHJ2) | [VGLY Temporada 2 \(Original Soundtrack\)](https://open.spotify.com/album/5NiuKAA7AISFbL9PY2NLJ8) | 3:35 |
-| 26 | [PERO NO TE ENAMORES](https://open.spotify.com/track/3w1h7uNU1Dfk2tOaHiIGat) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [PERO NO TE ENAMORES](https://open.spotify.com/album/3iRQdNKyI5Pf78jWYI1tFv) | 3:03 |
+| 26 | [Fin de Semana](https://open.spotify.com/track/6TBzRwnX2oYd8aOrOuyK1p) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Fin de Semana](https://open.spotify.com/album/366AAoKCXunrJSqKqZuafy) | 3:44 |
 | 27 | [Rolex Presidente](https://open.spotify.com/track/75YqLw3PBGy3rNzhMOOqiA) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [VGLY](https://open.spotify.com/artist/07hvj5YPoKfFLJY6DxUhch) | [VGLY Temporada 2 \(Original Soundtrack\)](https://open.spotify.com/album/5NiuKAA7AISFbL9PY2NLJ8) | 2:29 |
 | 28 | [Madonna](https://open.spotify.com/track/5LhI8m7n8xlQmNe3b7Rwis) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Madonna](https://open.spotify.com/album/0QZVRL2HC24voXfxWmpHvd) | 3:07 |
 | 29 | [VGLY.exe](https://open.spotify.com/track/4lqseSUV4HIRLSN4rhp2HZ) | [VGLY](https://open.spotify.com/artist/07hvj5YPoKfFLJY6DxUhch) | [VGLY Temporada 2 \(Original Soundtrack\)](https://open.spotify.com/album/5NiuKAA7AISFbL9PY2NLJ8) | 2:27 |

@@ -4,7 +4,7 @@
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover:  Vadesta
 
-551 songs - 1 day 22 hr 9 min
+554 songs - 1 day 22 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [Jejantunging Kalbu](https://open.spotify.com/track/378sjjoEHRfAjFBlBCNdoI) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc), [Wahyu F Giri](https://open.spotify.com/artist/6jKHCA8ghB0C8y9Yb2mz53) | [Jejantunging Kalbu](https://open.spotify.com/album/424Gy6dFu4JBKBxGqEt12i) | 5:18 | 2024-10-18 | 2025-09-20 |
 | [Jejantunging Kalbu](https://open.spotify.com/track/3ZnKGBeVyJrs4gFVtsEJmD) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Jejantunging Kalbu](https://open.spotify.com/album/2ynImb4jWZArEaeN5MbM1Y) | 4:29 | 2024-08-09 | 2024-12-27 |
 | [Jiwarungsit](https://open.spotify.com/track/0CTcOv4NP9mU046khNKfVc) | [Wahyu F Giri](https://open.spotify.com/artist/6jKHCA8ghB0C8y9Yb2mz53) | [Jiwarungsit](https://open.spotify.com/album/3n9fqu8PrnMhcS19wvMGGz) | 5:00 | 2025-08-28 | 2025-11-07 |
+| [Judeg](https://open.spotify.com/track/3fhPsPOGxESkQPej3HEzga) | [Arry Harmoko](https://open.spotify.com/artist/3EdYNfDh7k5d0sl4R7OXCf) | [Judeg](https://open.spotify.com/album/46oNJPTv6zV1Sd1k67NCaW) | 4:13 | 2025-11-21 |  |
 | [Juragan Empang](https://open.spotify.com/track/4oukOCxXwfaRx4Rqait0OE) | [Lala Widy](https://open.spotify.com/artist/39oBUORQAdXhOUCSABsmQK) | [Juragan Empang](https://open.spotify.com/album/0EYQcmzHvpQt38ztwlhjQr) | 3:50 | 2024-01-25 | 2024-05-17 |
 | [Kabagyan](https://open.spotify.com/track/7p4g03E3yh1ovkMlvj9mwO) | [Sadewok](https://open.spotify.com/artist/5EkOo7TpmDN9Uz5wvxDyGe) | [Kabagyan](https://open.spotify.com/album/6ZX8XgoC6eGPAJHDzlQZ27) | 4:18 | 2025-05-30 |  |
 | [KABAGYAN \- Acoustic](https://open.spotify.com/track/1LCIeF83tnkviTmnyJ3mgY) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [KABAGYAN \(Acoustic\)](https://open.spotify.com/album/3yAreNxTUGoSglnGNHZC4q) | 4:44 | 2025-08-14 | 2025-11-14 |
@@ -226,6 +227,7 @@
 | [Kukuh](https://open.spotify.com/track/6xys78WshU3lJfgxcUjhPf) | [Fahri Khusnara](https://open.spotify.com/artist/4gjln35Zi7gzL8ppaSC3CQ) | [Kukuh](https://open.spotify.com/album/0k8K1HwnMzksAzKq86LSNO) | 3:25 | 2024-02-09 | 2024-05-24 |
 | [Kurangku Opo](https://open.spotify.com/track/5v2gEm7WZNJChdoNqgGSxA) | [Ronda Genk](https://open.spotify.com/artist/67H1jUlHffu3RzhSAWRl7z) | [Kurangku Opo](https://open.spotify.com/album/5rCg6XiVS9xmBiUEoYn0Dq) | 6:28 | 2023-08-11 | 2023-12-09 |
 | [KUSUMA WIJAYA](https://open.spotify.com/track/7h0nQqI84EJY26MHLcxmJo) | [Safira Inema](https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY) | [KUSUMA WIJAYA](https://open.spotify.com/album/7DVQMP1SL0rPn2t8xyRFqa) | 4:28 | 2025-07-10 |  |
+| [Kusuma Wijaya](https://open.spotify.com/track/7MxbEurwntwBuKkrB6NWhP) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8), [Rendra Kemana](https://open.spotify.com/artist/4eFgg8WNsB2mmjYmWEPFok) | [Kusuma Wijaya](https://open.spotify.com/album/6IVXAj9J4rbHmD5QQL6wqc) | 4:31 | 2025-11-21 |  |
 | [Lagu Galau](https://open.spotify.com/track/3czrfH9M8dT34boJCL6iwV) | [OMWAWES](https://open.spotify.com/artist/4SsvQOTuKik8GmK6GtB21A), [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Lagu Galau](https://open.spotify.com/album/2ssc0LBXdKKmPoQSKivKIy) | 4:15 | 2023-02-16 | 2023-08-11 |
 | [Lalekno \- New Version](https://open.spotify.com/track/5zPtFLKtxS9fhIIjnKX95F) | [Imogiri Boys](https://open.spotify.com/artist/53RErsdDMlGlugJZyYvae3), [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD), [GMLT](https://open.spotify.com/artist/1ZzwhODUHoaPl3Xt3d9xx6) | [Lalekno \(New Version\)](https://open.spotify.com/album/3cqSmz3sVPPgKWT9d6WVxR) | 4:00 | 2025-09-12 |  |
 | [Lali Rasane Tresno](https://open.spotify.com/track/0xIPbN7eQjyZzBwAiheDJ9) | [Safira Inema](https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY) | [Lali Rasane Tresno](https://open.spotify.com/album/62M6nuhMQ6M3unu0T2ct85) | 6:10 | 2024-03-08 | 2024-08-30 |
@@ -349,6 +351,7 @@
 | [Ojo Nangis](https://open.spotify.com/track/55ZdI8As6tgaM1X6P8XQ4U) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Ojo Nangis](https://open.spotify.com/album/6xnklJBg3JlMENDJBdFqiR) | 5:30 | 2022-05-26 | 2023-08-11 |
 | [Ojo Nangis \- Keroncong Version](https://open.spotify.com/track/5eZ8DNqoPcJd1cTwkKzoEk) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Ojo Nangis \(Keroncong Version\)](https://open.spotify.com/album/2vrslGgUCj5smWJEbJSib4) | 5:46 | 2022-05-26 | 2022-08-26 |
 | [Ojo Nangis / Sawangen Medley](https://open.spotify.com/track/1MEzSPIjrWOaaeRjm46L9n) | [Wandra Restusiyan](https://open.spotify.com/artist/0Kfx3xYTsVxoa0RqiaXrJP), [Abah Lala](https://open.spotify.com/artist/6BkCOBTVHP3E2FoLnEKauW) | [Ojo Nangis / Sawangen Medley](https://open.spotify.com/album/1tcMvMQNt7fTJMqq8lNF2R) | 8:08 | 2023-08-31 | 2024-02-09 |
+| [Ojo Njaluk Pegat](https://open.spotify.com/track/1cylp0hgJSunHAQyXjoHAZ) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc), [ARYA GALIH](https://open.spotify.com/artist/3LEzVC11Jtzc1fZWzXtOGY) | [Ojo Njaluk Pegat](https://open.spotify.com/album/2RHde7rJz0IWSRjg6AjjtC) | 6:58 | 2025-11-21 |  |
 | [Opo Anane](https://open.spotify.com/track/5q7aPA3OMkMh7pvfGsvFrg) | [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa), [Syalala Orkes Milenial](https://open.spotify.com/artist/2A72DEZlYtl0y6bLdecRRl) | [Opo Anane](https://open.spotify.com/album/3Ue7O6TXQ3wXoUIDFXdCUr) | 3:51 | 2022-05-26 | 2023-01-06 |
 | [Ora Iso Lali](https://open.spotify.com/track/6BE4XlljzVfCeWO5s3Vflv) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL) | [Ora Iso Lali](https://open.spotify.com/album/7yoSfvIXdHpz6K20rqgXrL) | 5:45 | 2022-05-26 | 2022-09-16 |
 | [ORA KOLU SAUR](https://open.spotify.com/track/0uJMDKcS8MqgZOxP0Qp07A) | [Masdddho](https://open.spotify.com/artist/4GgexJxJZfH4pxYRIF4nBh), [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa) | [ORA KOLU SAUR](https://open.spotify.com/album/2jQGFhbnkamwzH3naFjMZL) | 4:22 | 2025-03-20 | 2025-06-06 |

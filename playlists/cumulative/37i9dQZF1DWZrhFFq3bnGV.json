@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-09",
-  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Deredia",
+  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Jo Soegono",
   "name": "Jazz Anak Negeri",
   "tracks": [
     {
@@ -1520,6 +1520,24 @@
       "duration_ms": 390786,
       "name": "Dream Lulubye",
       "url": "https://open.spotify.com/track/14BlgC34sdKKTEvcuhMPOv"
+    },
+    {
+      "album": {
+        "name": "Prof Jo",
+        "url": "https://open.spotify.com/album/7z095HYTK1SgEbsg5RyqSE"
+      },
+      "artists": [
+        {
+          "name": "Jo Soegono",
+          "url": "https://open.spotify.com/artist/4g10GFwD6GAtYbugb9Ur7p"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223846,
+      "name": "Dunia",
+      "url": "https://open.spotify.com/track/7te1TuQxKFWrftuBuDjRu7"
     },
     {
       "album": {

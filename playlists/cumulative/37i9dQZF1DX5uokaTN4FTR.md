@@ -2,7 +2,7 @@
 
 ### [Massive Dance Hits](https://open.spotify.com/playlist/37i9dQZF1DX5uokaTN4FTR)
 
-> The UK's biggest dance playlist! Cover: Prospa
+> The UK's biggest dance playlist! Cover: Sub Focus
 
 713 songs - 1 day 13 hr 6 min
 

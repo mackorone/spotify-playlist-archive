@@ -5543,6 +5543,24 @@
     },
     {
       "album": {
+        "name": "Shargeeya!",
+        "url": "https://open.spotify.com/album/3ZwKkJtBjpTaexWlF5QPiV"
+      },
+      "artists": [
+        {
+          "name": "Shargeeya",
+          "url": "https://open.spotify.com/artist/3d3ra9wZ8mOWqIV04cNSVK"
+        }
+      ],
+      "date_added": "2025-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131179,
+      "name": "Shargeeya!",
+      "url": "https://open.spotify.com/track/2SRGSFyInuOAIdJmzGOlWp"
+    },
+    {
+      "album": {
         "name": "Shattered",
         "url": "https://open.spotify.com/album/5J2Y1UNGQrrd8kB4ulRB1B"
       },

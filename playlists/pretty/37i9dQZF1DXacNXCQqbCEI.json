@@ -619,6 +619,34 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
+        "name": "Sierra Madre (Remix)",
+        "url": "https://open.spotify.com/album/6ZiLWGGHlbwU6Z2llnJRns"
+      },
+      "artists": [
+        {
+          "name": "Bial Hclap",
+          "url": "https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1"
+        },
+        {
+          "name": "H\u00e9ctor Guerra",
+          "url": "https://open.spotify.com/artist/4lfPNH1M6M7uNbHlhQdvZz"
+        },
+        {
+          "name": "Danger AK",
+          "url": "https://open.spotify.com/artist/23TYM4mYLQjyJLr4x89MjH"
+        },
+        {
+          "name": "Noe Gonzalez Molina",
+          "url": "https://open.spotify.com/artist/7Fwc3AwZokLaMKG6PBldYg"
+        }
+      ],
+      "duration_ms": 305866,
+      "name": "Sierra Madre (Remix)",
+      "url": "https://open.spotify.com/track/3b37ePy3JV5VsnoGoAfqS6"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
         "name": "Solpor",
         "url": "https://open.spotify.com/album/2q1DwJpZOWhNW0NFYwS8rs"
       },
@@ -651,54 +679,6 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Sierra Madre (Remix)",
-        "url": "https://open.spotify.com/album/6ZiLWGGHlbwU6Z2llnJRns"
-      },
-      "artists": [
-        {
-          "name": "Bial Hclap",
-          "url": "https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1"
-        },
-        {
-          "name": "H\u00e9ctor Guerra",
-          "url": "https://open.spotify.com/artist/4lfPNH1M6M7uNbHlhQdvZz"
-        },
-        {
-          "name": "Danger AK",
-          "url": "https://open.spotify.com/artist/23TYM4mYLQjyJLr4x89MjH"
-        },
-        {
-          "name": "Noe Gonzalez Molina",
-          "url": "https://open.spotify.com/artist/7Fwc3AwZokLaMKG6PBldYg"
-        }
-      ],
-      "duration_ms": 305866,
-      "name": "Sierra Madre (Remix)",
-      "url": "https://open.spotify.com/track/3b37ePy3JV5VsnoGoAfqS6"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
-        "name": "ATO 3: Am\u00e9rica do Sol",
-        "url": "https://open.spotify.com/album/2h8ukNP8AiKigfNB2PuhPC"
-      },
-      "artists": [
-        {
-          "name": "BaianaSystem",
-          "url": "https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5"
-        },
-        {
-          "name": "Claudia Manzo",
-          "url": "https://open.spotify.com/artist/3CMX8YNfpVGTCUudvZPDpg"
-        }
-      ],
-      "duration_ms": 157746,
-      "name": "Pachamama",
-      "url": "https://open.spotify.com/track/5wETbMw6PuupavwJ5ERA7B"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
         "name": "La Que Es",
         "url": "https://open.spotify.com/album/1m14JbxGEi0s1vktDhdlwt"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 194531,
       "name": "La Que Es",
       "url": "https://open.spotify.com/track/3MO2Ym7qBnmNEAtjPwOxXE"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
+        "name": "ATO 3: Am\u00e9rica do Sol",
+        "url": "https://open.spotify.com/album/2h8ukNP8AiKigfNB2PuhPC"
+      },
+      "artists": [
+        {
+          "name": "BaianaSystem",
+          "url": "https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5"
+        },
+        {
+          "name": "Claudia Manzo",
+          "url": "https://open.spotify.com/artist/3CMX8YNfpVGTCUudvZPDpg"
+        }
+      ],
+      "duration_ms": 157746,
+      "name": "Pachamama",
+      "url": "https://open.spotify.com/track/5wETbMw6PuupavwJ5ERA7B"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -983,26 +983,6 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Chinito Rulo (Remix)",
-        "url": "https://open.spotify.com/album/5Ryl5A6cqqNwTUFpwBCoOS"
-      },
-      "artists": [
-        {
-          "name": "Shushupe",
-          "url": "https://open.spotify.com/artist/3S0VTthgRWMUNhLEmmbEa4"
-        },
-        {
-          "name": "Los Mirlos",
-          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
-        }
-      ],
-      "duration_ms": 187198,
-      "name": "Chinito Rulo - Remix",
-      "url": "https://open.spotify.com/track/7k59WdJ7jadrBwzguDgvR8"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
         "name": "Siesta",
         "url": "https://open.spotify.com/album/7u4bA8axdYb3VtJGY34Hxf"
       },
@@ -1031,6 +1011,26 @@
       "duration_ms": 406974,
       "name": "Purna Mantra",
       "url": "https://open.spotify.com/track/6ZyH5rtwg2PvQxSGyo1xGF"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
+        "name": "Chinito Rulo (Remix)",
+        "url": "https://open.spotify.com/album/5Ryl5A6cqqNwTUFpwBCoOS"
+      },
+      "artists": [
+        {
+          "name": "Shushupe",
+          "url": "https://open.spotify.com/artist/3S0VTthgRWMUNhLEmmbEa4"
+        },
+        {
+          "name": "Los Mirlos",
+          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
+        }
+      ],
+      "duration_ms": 187198,
+      "name": "Chinito Rulo - Remix",
+      "url": "https://open.spotify.com/track/7k59WdJ7jadrBwzguDgvR8"
     },
     {
       "added_at": "2024-07-12 22:50:04",

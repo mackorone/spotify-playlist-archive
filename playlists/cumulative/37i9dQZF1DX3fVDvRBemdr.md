@@ -2,9 +2,9 @@
 
 ### [Liever Hollands](https://open.spotify.com/playlist/37i9dQZF1DX3fVDvRBemdr)
 
-> Wekelijkse update met Hollands en Volkspop\. Cover: Joël Borelli & Xander de Buisonjé
+> Wekelijkse update met Hollands en Volkspop\. Cover: Henk Damen
 
-477 songs - 23 hr 5 min
+482 songs - 23 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Alles komt goed](https://open.spotify.com/track/0IMvO1xxbalY1O50LQbUp9) | [Thomas Berge](https://open.spotify.com/artist/4y2LFjBx0OvRMGlM70V4CI) | [Alles komt goed](https://open.spotify.com/album/7KfVOzv3gB8dJtDRu4GoXC) | 2:46 | 2025-08-28 | 2025-10-17 |
 | [Alles Met Jou](https://open.spotify.com/track/4jXjI1kipE0EJvnNTMfnMn) | [Henk Dissel](https://open.spotify.com/artist/1xD7SAwt2tLdg9wGPbCkO2) | [Alles Met Jou](https://open.spotify.com/album/78XaAfFng3Ad9GErnBWnRe) | 2:40 | 2024-06-13 | 2024-08-30 |
 | [Alles Wat Ik Nodig Heb](https://open.spotify.com/track/4ayTpt382VT36TN2yxgI3B) | [Senna](https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ) | [Alles Wat Ik Nodig Heb](https://open.spotify.com/album/53rNQnM2S0HETUAkYSkD9W) | 2:22 | 2025-09-11 |  |
+| [Alles Wat Je Hebt](https://open.spotify.com/track/4WYo31iUrSgX3e7xx9aPjM) | [Milan Verwoert](https://open.spotify.com/artist/5SXqnKvLQhK6Phs2oDPX2d) | [Alles Wat Je Hebt](https://open.spotify.com/album/4cQGe945WhmibMR0OyroLU) | 2:39 | 2025-11-20 |  |
 | [Als De Bob Maar Rijdt](https://open.spotify.com/track/3JZfXDlkfFM2Kj3zWnUhZM) | [Peter Beense](https://open.spotify.com/artist/3upVW49Vj8DqUrkrCYmi86) | [Als De Bob Maar Rijdt](https://open.spotify.com/album/5rlaZzfH3tpiAC52YyhNwZ) | 2:44 | 2025-04-03 | 2025-08-05 |
 | [Als De Bouzouki's Klinken](https://open.spotify.com/track/2KGl4AQdeOkZy6eXnZMHIP) | [Bob Offenberg](https://open.spotify.com/artist/3IGnL1mAn5yUoRsk3k3ZvO) | [Als De Bouzouki's Klinken](https://open.spotify.com/album/0MBGqIqKRlC1XULE0w4bpI) | 2:55 | 2024-08-01 | 2025-01-11 |
 | [Als De Spijt Te Laat Komt](https://open.spotify.com/track/66cVue5ft7MpDqab7p7ZAT) | [Tony van den Dungen](https://open.spotify.com/artist/57us5TP9s9ibmRBt3Mo9gB) | [Als De Spijt Te Laat Komt](https://open.spotify.com/album/5E0k5Ee14bQkoXuviNnX6s) | 2:15 | 2025-10-02 | 2025-11-14 |
@@ -52,6 +53,7 @@
 | [Bedrogen](https://open.spotify.com/track/6mc3vuQVZ2nOp5vysMmHwy) | [Frank Smeekens](https://open.spotify.com/artist/1OEl9ZF2mW1zOqWtZVXEBb) | [Bedrogen](https://open.spotify.com/album/0aV71TqJlCyBEa1ryYKitJ) | 3:32 | 2024-11-07 | 2025-03-08 |
 | [Beest Van De Nacht](https://open.spotify.com/track/5YO1IkuNsOvyJsrtAQyWJK) | [Jeffrey Kuipers](https://open.spotify.com/artist/3VW8sZ0BxGjRtexeVDGQXH) | [Beest Van De Nacht](https://open.spotify.com/album/5WsOBIwlgP3nfxa3LtW7Me) | 2:47 | 2024-08-01 | 2024-10-04 |
 | [Beest Van De Stad](https://open.spotify.com/track/7wb8rCZUJjrSTRY3eJytyq) | [Danny Froger](https://open.spotify.com/artist/1T6iHaohBe7N71F1jk0XSy) | [Beest Van De Stad](https://open.spotify.com/album/0Fq9rLbfLO2wTXXk5ZtW01) | 2:38 | 2024-10-03 | 2024-12-13 |
+| [Bel Me](https://open.spotify.com/track/7fhJ54GpnkbBdoI4qzCqQC) | [Wolter Kroes](https://open.spotify.com/artist/3aERYLqcdKbyI7pjmOgIpU) | [Bel Me](https://open.spotify.com/album/7sUBVcJv1DcBX6OkMeHUIr) | 3:05 | 2025-11-20 |  |
 | [Bel Me Dan](https://open.spotify.com/track/0H6Ik5pvcMhPicOjy0AFxN) | [Frank Masmeijer](https://open.spotify.com/artist/4Q2GuDwv4d8UEyn4PHdg5R) | [Bel Me Dan](https://open.spotify.com/album/7z96ITQhxylMEcJPOeA4LS) | 3:24 | 2025-02-20 | 2025-04-04 |
 | [Belastingdienst](https://open.spotify.com/track/1UEbFfE5yDVsdu71GsjXFZ) | [Ammar](https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb) | [Belastingdienst](https://open.spotify.com/album/4asaZtSte5QC25HF3atLZW) | 3:04 | 2024-06-13 | 2024-08-30 |
 | [Bella Ciao, Mi Amor](https://open.spotify.com/track/2dbmRqI1LocIYRLiTk4SiD) | [Frank Galan](https://open.spotify.com/artist/4W9Qd21A3mUPFufnSvdFWK) | [Bella Ciao, Mi Amor](https://open.spotify.com/album/7smy84ros8JBKcGz7T8JQf) | 3:06 | 2024-06-27 | 2024-07-12 |
@@ -147,6 +149,7 @@
 | [Geld Maakt Niet Gelukkig](https://open.spotify.com/track/5goNWoaojSwBrmXHZuXlv2) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k) | [Geld Maakt Niet Gelukkig](https://open.spotify.com/album/50Aag4UQT0FrhXDk4H1fps) | 2:37 | 2024-08-29 | 2025-02-08 |
 | [Gelukkig](https://open.spotify.com/track/54IC3MsaaeBkxY4GXKUixY) | [Marlous](https://open.spotify.com/artist/5Eld7TocuB1kAsvOnssFUf) | [Gelukkig](https://open.spotify.com/album/1tgndivifoeWt6Ierx1meq) | 3:24 | 2025-11-13 |  |
 | [Gelukkig Heb Ik Jou Nog](https://open.spotify.com/track/3AHSS3a8DEMiAPDM0C2aOE) | [GIO VAN VEEN](https://open.spotify.com/artist/4vssXvv1qrZJ8ti9PbTm8j) | [Gelukkig Heb Ik Jou Nog](https://open.spotify.com/album/6cfRQ6FFOBdEgIFSsvYt4O) | 2:54 | 2025-02-03 | 2025-04-04 |
+| [Geniet Zo Van Het Leven](https://open.spotify.com/track/3uVbuP7Bk3U4J9g6LLs0RY) | [Toon Schut](https://open.spotify.com/artist/4vZnZBqVPhnTFy8xBQNpC2) | [Geniet Zo Van Het Leven](https://open.spotify.com/album/61GZrvfpeJfFjCjNA1qXPm) | 2:21 | 2025-11-20 |  |
 | [Geouwehoer](https://open.spotify.com/track/482UpSEiMaKq7iOUxSvydd) | [Stef Ekkel](https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm) | [Geouwehoer](https://open.spotify.com/album/73ZqNRlby912HDhC6XyIm0) | 3:29 | 2025-10-23 |  |
 | [Gevangenis](https://open.spotify.com/track/0bFpdupc6OTPxSjrRvN8IL) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k) | [Gevangenis](https://open.spotify.com/album/7lCZYmgMOeMlgV4h5rpvDM) | 2:44 | 2025-10-23 |  |
 | [Gewoon Omdat Het Kan](https://open.spotify.com/track/5UkKbrz487JtcpIqwkvfuF) | [Davey van der Sluis](https://open.spotify.com/artist/3ewaEvAw1iJsUt6mcCWUMs) | [Gewoon Omdat Het Kan](https://open.spotify.com/album/4Igks3lKCilN0C2CONNSPi) | 2:06 | 2025-11-13 |  |
@@ -235,6 +238,7 @@
 | [Jij bent voor mij die ene](https://open.spotify.com/track/4SAJHWcspotBnGBakSbwJy) | [Jaman](https://open.spotify.com/artist/6VIHmm4hJ3OG1yy9fGbECD) | [Jij bent voor mij die ene](https://open.spotify.com/album/1rU0GTweRlbje8CWPOPfF8) | 3:19 | 2024-06-13 | 2024-08-30 |
 | [Jij en Ik](https://open.spotify.com/track/2m1ToXJCTuy72tjWshhiv7) | [Belle Perez](https://open.spotify.com/artist/58llsXEROa2xdy24HI6D3r), [Jeroen Van Der Boom](https://open.spotify.com/artist/5zEUGwAdlfTQqKplCJJuua) | [Jij en Ik](https://open.spotify.com/album/2fZn6VOg5V3AuudSaM2cfp) | 3:09 | 2024-06-13 | 2024-10-04 |
 | [Jij en Ik met Z'n Twee](https://open.spotify.com/track/6XvkdaXGluguBki0kBkXAK) | [Kobus Engels](https://open.spotify.com/artist/31ceTfWruX9GVw1VjR30ke) | [Jij en Ik met Z'n Twee](https://open.spotify.com/album/5jLjAsfGPHT6XeVPNSAD2E) | 2:56 | 2024-07-18 | 2024-10-04 |
+| [Jij Hoort bij Mij](https://open.spotify.com/track/4y7OOwS7pnbzyzyu8EbUJu) | [Roy van Nuland](https://open.spotify.com/artist/0rnA333PgkP9joLU7KM3qy) | [Jij Hoort bij Mij](https://open.spotify.com/album/7DhAhhzMsunrQyqm8tH5pw) | 2:24 | 2025-11-20 |  |
 | [Jij Laat Mijn Hart Steeds Sneller Slaan](https://open.spotify.com/track/0nSfM1h9qfZcDLXom4doM0) | [Charelle & Franky Falcon](https://open.spotify.com/artist/6S4lUR01BmDbcY7Fafl5XQ), [Franky Falcon](https://open.spotify.com/artist/5h6wepJ6CxnvxOnvm1dFXe), [Charelle](https://open.spotify.com/artist/4Jipfp3lXzbLWtJrzVPJqG) | [Jij Laat Mijn Hart Steeds Sneller Slaan](https://open.spotify.com/album/5Jwqd5X23MVGiHkYjKbVnP) | 3:08 | 2024-06-13 | 2024-09-20 |
 | [Jongen Van De Straat](https://open.spotify.com/track/5w0CdVXAYKS4n5ZvnR0okE) | [Nick Koot](https://open.spotify.com/artist/37vpvndonxiNL37ndjI362) | [Jongen Van De Straat](https://open.spotify.com/album/2glUKNxODHxUaYjSyMoGup) | 3:11 | 2024-06-13 | 2024-08-30 |
 | [Juanita](https://open.spotify.com/track/4gLQhuSCTiIMeR9nIKXEg0) | [Django Wagner](https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2) | [Juanita](https://open.spotify.com/album/2yZ51UjDjH3jc3g6yOF5rY) | 3:36 | 2024-09-19 | 2025-02-21 |
@@ -359,6 +363,7 @@
 | [Samen Niet Alleen](https://open.spotify.com/track/3Vj4WiGxHyArjjxQRLqBZd) | [Gerrit Schneider](https://open.spotify.com/artist/1fXCIvVgz0o3gymfRpSz6u) | [Samen Niet Alleen](https://open.spotify.com/album/4svPd43310UGY3gRLfNJ7n) | 2:50 | 2024-11-19 | 2025-03-14 |
 | [Samsam](https://open.spotify.com/track/0YeCJMAb2OkXPgikJnfDsL) | [Sam Vanvelthoven](https://open.spotify.com/artist/2Mze1uCoA2mhf5yGoCBO64) | [Samsam](https://open.spotify.com/album/6KjjLhiWzrL9EyWU5U5iNc) | 2:58 | 2025-10-16 |  |
 | [Sangria](https://open.spotify.com/track/4rgI60evIu8nXazk3E4lDI) | [Arjon Oostrom](https://open.spotify.com/artist/2sdP2pb74y3kf44RxZwaCb) | [Sangria](https://open.spotify.com/album/7JHsHb3SG7oXD8r9GJPu2H) | 2:36 | 2024-08-01 | 2025-02-08 |
+| [Sangria](https://open.spotify.com/track/1cxJiqIFG5LXN4Ec4ZRDMe) | [Raffie de Driver](https://open.spotify.com/artist/1SJnoeN8EaCqWJBbeXi1tn) | [Sangria](https://open.spotify.com/album/1TOwBLfCaPk1yIQF649x8S) | 3:10 | 2025-11-20 |  |
 | [Schaam Je Voor Je Tranen Niet](https://open.spotify.com/track/09cswrDjJqKzNxomjftD5S) | [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ) | [Schaam Je Voor Je Tranen Niet](https://open.spotify.com/album/2GGEHhgUhPQVupVNjfD1FH) | 2:57 | 2024-06-13 | 2024-08-30 |
 | [Schoonheidskoningin](https://open.spotify.com/track/6gRLB6roSTO5tEqhlfEuWU) | [Danny Froger](https://open.spotify.com/artist/1T6iHaohBe7N71F1jk0XSy), [Brace](https://open.spotify.com/artist/2eHZ1Vns5972fZNdhnjopG) | [Schoonheidskoningin](https://open.spotify.com/album/6ecFGjLx4c3MtzrlfuZVk5) | 3:03 | 2025-07-10 | 2025-09-19 |
 | [Schrijf me nooit geen mooie brieven meer](https://open.spotify.com/track/474JpNSf3P7fdqD1jGAOJ1) | [Wesley Boes](https://open.spotify.com/artist/4PfOrm0osG8Wy6jDCM9jMe) | [Schrijf me nooit geen mooie brieven meer](https://open.spotify.com/album/40Gx37215lnWIcXg5PWqwd) | 3:05 | 2024-06-13 | 2024-08-30 |

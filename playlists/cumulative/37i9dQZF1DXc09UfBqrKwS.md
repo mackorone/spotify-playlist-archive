@@ -4,7 +4,7 @@
 
 > hora d hacer la meme
 
-803 songs - 1 day 14 hr 29 min
+805 songs - 1 day 14 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,7 +206,7 @@
 | [Doze](https://open.spotify.com/track/47SXoCdTY5ywuh7Fbf9Cjf) | [Sleep Advisor](https://open.spotify.com/artist/0Il8fx16KHOeF6EdGdCgE6) | [Doze](https://open.spotify.com/album/1WMLr1i1P5093q0mECbk1O) | 2:45 | 2025-01-22 |  |
 | [Dream Creator](https://open.spotify.com/track/59RuuDJJIilK0EBvt4e5Cq) | [Dreamscaper](https://open.spotify.com/artist/1TGL84E8oiiO2ygE0a2Ml6) | [Dream Creator](https://open.spotify.com/album/3BWpdkTtTFpAlu9zKNONS6) | 2:59 | 2024-01-13 | 2025-01-09 |
 | [Dream Fountain](https://open.spotify.com/track/4en66Y5GGUZeUK5Q89RGvJ) | [Eirwyn North](https://open.spotify.com/artist/29zgjcMG5XRMfqrwBenRta) | [Dream Fountain](https://open.spotify.com/album/3TjtXdldQx6It13RoLVtRA) | 2:57 | 2025-10-08 |  |
-| [Dream Path](https://open.spotify.com/track/2KSykAv743DfpWv5Eyu0VV) | [Kaiser Hulenstadt](https://open.spotify.com/artist/1oFe0IcP3ZDv5MK0sbq8tS) | [Dream Path](https://open.spotify.com/album/3DUF8FElAy18CXwWhvk73K) | 2:34 | 2025-05-07 |  |
+| [Dream Path](https://open.spotify.com/track/2KSykAv743DfpWv5Eyu0VV) | [Kaiser Hulenstadt](https://open.spotify.com/artist/1oFe0IcP3ZDv5MK0sbq8tS) | [Dream Path](https://open.spotify.com/album/3DUF8FElAy18CXwWhvk73K) | 2:34 | 2025-05-07 | 2025-11-21 |
 | [Dream Prelude](https://open.spotify.com/track/16APbZysrMuvYvrfcvCZye) | [Calma Interiore](https://open.spotify.com/artist/1OmJlIsNDkAVfdkmHbvQFM) | [Dream Prelude](https://open.spotify.com/album/6jgMM1JGpHVxA7RAxIJF8Z) | 3:00 | 2024-12-17 | 2025-10-09 |
 | [Dreaming Away](https://open.spotify.com/track/3g6uL1itMFGwt7I4ZL93BB) | [Leo Mano](https://open.spotify.com/artist/1x9ObNWFFnva8uRVSFdvTM) | [Dreaming Away](https://open.spotify.com/album/39HKL1RGVwCU4mOjl3Ncjb) | 3:07 | 2024-07-09 | 2024-07-16 |
 | [Dreaming Of Dust](https://open.spotify.com/track/33cvC00s0tc6bFeM92xksE) | [Hibisc](https://open.spotify.com/artist/0YTD5FFHn4tt6ikL8fNqyi) | [Dreaming Of Dust](https://open.spotify.com/album/0oJreCCMV1gBvlV3ibowI7) | 2:50 | 2023-03-31 | 2024-02-09 |
@@ -347,6 +347,7 @@
 | [Heroic](https://open.spotify.com/track/2EMxENn8g5DBQmTy3t4Zvc) | [Thoas Galla](https://open.spotify.com/artist/3nLy5nvClRzsJbCuRQfvZF) | [Heroic](https://open.spotify.com/album/5tXmpY8WTol7lCcf5VvaNx) | 2:43 | 2025-01-08 |  |
 | [Hibernation](https://open.spotify.com/track/3td70QAqqhGc6NLnXIbG4o) | [Nova Issue](https://open.spotify.com/artist/2JG4r9snKhqze9RGKeGEvh) | [Hibernation](https://open.spotify.com/album/130XxDY9DAdC2uhyB9AGaT) | 3:29 | 2023-03-31 | 2023-12-09 |
 | [Hikari](https://open.spotify.com/track/7DUZul1sAZe77qPJKxMDhI) | [Ava Mills](https://open.spotify.com/artist/0hddNnCOE55jYZXTVyvEDj) | [Hikari](https://open.spotify.com/album/722j5U3DLZstV3QX4pqozB) | 2:52 | 2025-09-23 |  |
+| [Hope Revived](https://open.spotify.com/track/2LwI8aXNTImWLGQL7oXwF8) | [Eztebe Matia](https://open.spotify.com/artist/3n2j9RLqJFPzyI8WGn94bm) | [Hope Revived](https://open.spotify.com/album/5NUCTUE7K0bNsG17LSKIih) | 2:43 | 2025-11-12 |  |
 | [Houd me vast](https://open.spotify.com/track/6c7RxrwbJkLaWZHj7nX1tm) | [Niel Hupkes](https://open.spotify.com/artist/6PcwDVyKXjNm4SIFamEg30) | [Houd me vast](https://open.spotify.com/album/0PzBc1gaKGp5EtdTp0Bvmh) | 3:38 | 2023-03-31 | 2024-02-09 |
 | [Huayna Potosi](https://open.spotify.com/track/2PWHrFAlSGROVbJEE4ZEEV) | [Connie Li](https://open.spotify.com/artist/2pQHm9K7nA97zJGOYhfXau) | [Huayna Potosi](https://open.spotify.com/album/047WHL1HMDdjZOnSp3JOxP) | 3:41 | 2023-03-31 | 2024-03-21 |
 | [Hue](https://open.spotify.com/track/0mndpCHKhI3DOiLl46BQai) | [Soothing Dreamscapes](https://open.spotify.com/artist/2E7ynirvqKf8ZF7ATxFkTG) | [Hue](https://open.spotify.com/album/3HDk7a49Sb28um15lvBhN0) | 3:09 | 2024-02-08 | 2024-08-31 |
@@ -455,6 +456,7 @@
 | [Moment of Awareness](https://open.spotify.com/track/6zaiKqdrDS2xZuMY48k76k) | [Map Of My Mind](https://open.spotify.com/artist/4bHqIHNtic2x8l7hAv8mJT) | [Moment of Awareness](https://open.spotify.com/album/2IbgyoRJX0YMKAoSn8Yfso) | 3:13 | 2025-09-23 |  |
 | [Moment Of Peace](https://open.spotify.com/track/1eENdH1bdiDgMIWy4FKle1) | [Dreams And Memories](https://open.spotify.com/artist/48XZ2sN06Hn9eJOczKtzqN) | [Moment Of Peace](https://open.spotify.com/album/3GBgOD6EbeFFlMoQfmurHB) | 2:55 | 2023-03-31 | 2024-02-09 |
 | [Moment To Moment](https://open.spotify.com/track/4vOHJJO8fJudz8JVVG9av6) | [Modal Colours](https://open.spotify.com/artist/6J7iKiucfuY6yg4dp0b67i) | [Moment To Moment](https://open.spotify.com/album/17QORfdYpsGqQ3D74hUPCx) | 2:35 | 2023-03-31 | 2023-09-01 |
+| [Moments](https://open.spotify.com/track/3bpTDWQZfVP0aR966sdktb) | [Kaiser Hulenstadt](https://open.spotify.com/artist/1oFe0IcP3ZDv5MK0sbq8tS) | [Moments](https://open.spotify.com/album/4AexG0a3gfyojeCr9q0nte) | 2:26 | 2025-11-12 |  |
 | [Moments](https://open.spotify.com/track/09gam7W4R7EnINv1m1j3Pi) | [Oliver Ólafsson](https://open.spotify.com/artist/0xgumNwunVskpeLSl8FyjU) | [Moments](https://open.spotify.com/album/3v2iN5hsEJ2UlS2ECAtJbN) | 2:25 | 2025-03-19 |  |
 | [Momentum](https://open.spotify.com/track/5dyewd2qoO14myEIrjR9xr) | [Dominum Nominum](https://open.spotify.com/artist/7okwKwX9ydmNTjwXXdgBO4) | [Momentum](https://open.spotify.com/album/46ydE0IFCcL8SAS0pPiR1q) | 2:38 | 2025-10-08 |  |
 | [Moon Shimmer](https://open.spotify.com/track/7xhxmR9qab96Gou7NsKkPh) | [Majestic Sleep](https://open.spotify.com/artist/0sQArsC8yyQYhH6mk7Myt0) | [Majestic Dream](https://open.spotify.com/album/6BrhzPox0p0uumdK466Vc9) | 2:32 | 2023-03-31 | 2023-06-10 |
@@ -781,7 +783,7 @@
 | [warm waters](https://open.spotify.com/track/1zlWipeU5RJL4zBmFtpycD) | [Sounds of Love](https://open.spotify.com/artist/02yy9jEW0aHrT2MIb2IN0h) | [warm waters](https://open.spotify.com/album/62BmqH6il5lGqPPMTx9Ysh) | 3:06 | 2024-01-13 | 2024-07-16 |
 | [Warszawa](https://open.spotify.com/track/7hwGHD71FJFBXu1iUDYTYf) | [Szymon Kowalczyk](https://open.spotify.com/artist/5mg190A9WO4TqbhL6GDer0) | [Warszawa](https://open.spotify.com/album/6PPYEFKKva6PMGl5XJWFIB) | 2:50 | 2023-03-31 | 2024-02-09 |
 | [Waves of Eternity](https://open.spotify.com/track/4rin1uFnoE4y6NhM2YQylb) | [Tranquil Nova](https://open.spotify.com/artist/1arRPBqUsxPJ0YxL7eZ1QY) | [Waves of Eternity](https://open.spotify.com/album/2msrHKpBqJ4BGr1Vs4yEH9) | 2:40 | 2025-01-08 | 2025-11-13 |
-| [Weightless Dreams](https://open.spotify.com/track/3ruyqcT2OOhu1RjNRxdvt5) | [Moon Lit](https://open.spotify.com/artist/75jx9HI2w6eOB1ZcWLky5D) | [Weightless Dreams](https://open.spotify.com/album/3d2qBapHwvc0BVRDzyicWL) | 3:13 | 2025-07-01 |  |
+| [Weightless Dreams](https://open.spotify.com/track/3ruyqcT2OOhu1RjNRxdvt5) | [Moon Lit](https://open.spotify.com/artist/75jx9HI2w6eOB1ZcWLky5D) | [Weightless Dreams](https://open.spotify.com/album/3d2qBapHwvc0BVRDzyicWL) | 3:13 | 2025-07-01 | 2025-11-21 |
 | [Weightless Hours](https://open.spotify.com/track/0co6X6NlJx2knESquaPjnS) | [Dreamhaven](https://open.spotify.com/artist/2LzHq1MhzyPCKQnzfk1R5Z) | [Weightless Hours](https://open.spotify.com/album/0CW9ihaepJWNxQci3niiHr) | 2:35 | 2025-07-17 |  |
 | [Where Dreams Begin](https://open.spotify.com/track/7MrFoeJ4SR6rzHLOb2YbfZ) | [Sounds of Aurora](https://open.spotify.com/artist/2bwdWkg9DhLB8yw7IfIciW) | [Where Dreams Begin](https://open.spotify.com/album/6GoZUt9Yrj0TrHtqzy3VJE) | 2:13 | 2025-09-23 |  |
 | [Wherever The Light Takes Me](https://open.spotify.com/track/0kQs60Eec9PnDAwvyS3iN1) | [Gual Levine](https://open.spotify.com/artist/1mhDm5AwhS5vAUIO91hHVU) | [Wherever The Light Takes Me](https://open.spotify.com/album/0EhwcIS4mOfZCech509hwA) | 2:51 | 2023-03-31 | 2024-05-21 |

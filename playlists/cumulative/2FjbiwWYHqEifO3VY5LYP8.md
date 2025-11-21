@@ -48,6 +48,6 @@
 | [Winter Wonderland / Don't Worry Be Happy \(feat\. Tori Kelly\)](https://open.spotify.com/track/5o9JHeY8e47bXCjSZOnD7b) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [That's Christmas To Me](https://open.spotify.com/album/1cu3soKy8UGJdBS70f33Fq) | 3:27 | 2014-12-24 |  |
 | [Work](https://open.spotify.com/track/3yx6eryOZgO54bt3B671cn) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) | [The New Classic](https://open.spotify.com/album/3r51pg8BwnjazLJlW6dJIh) | 3:43 | 2014-12-24 |  |
 | [You Don't Know Her Like I Do](https://open.spotify.com/track/4WnY4W5KrqglCdIus8X9Bo) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa) | [Halfway To Heaven \(Deluxe Edition\)](https://open.spotify.com/album/3yWeEEaC5xs7FgzwRgjm1p) | 4:46 | 2014-12-24 |  |
-| [Yours](https://open.spotify.com/track/3tIn65d1tiqGLPWatVgG22) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Yours](https://open.spotify.com/album/4znlcYQXxUuXeC2khQf88h) | 2:52 | 2014-12-24 |  |
+| [Yours](https://open.spotify.com/track/3tIn65d1tiqGLPWatVgG22) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Yours](https://open.spotify.com/album/4znlcYQXxUuXeC2khQf88h) | 2:50 | 2014-12-24 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

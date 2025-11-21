@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Ni\u00f1os Bravos.",
+  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Repion.",
   "name": "Rock 2025",
   "tracks": [
     {
@@ -1343,6 +1343,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Repion",
+          "url": "https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211720,
+      "name": "Cerrar los ojos",
+      "url": "https://open.spotify.com/track/6we4xaVKPTV2NgRuyf839y"
+    },
+    {
+      "album": {
         "name": "Charcos!",
         "url": "https://open.spotify.com/album/5G2TAPBjjSWPb7cqLtSCmr"
       },
@@ -1841,6 +1859,24 @@
     },
     {
       "album": {
+        "name": "de amarillo a gris",
+        "url": "https://open.spotify.com/album/4AqPhSrJ5xdgsTmtgNe167"
+      },
+      "artists": [
+        {
+          "name": "HORROCRUX",
+          "url": "https://open.spotify.com/artist/1voKh33KLw9EzZHBms3NzW"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194454,
+      "name": "de amarillo a gris",
+      "url": "https://open.spotify.com/track/6vZmxpiZ8U7NaDH5sN0aSL"
+    },
+    {
+      "album": {
         "name": "De aqu\u00ed a un mes",
         "url": "https://open.spotify.com/album/12kOvGvaUrqMDE3Gnygj3w"
       },
@@ -2072,7 +2108,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 139384,
       "name": "DESUBICAO",
       "url": "https://open.spotify.com/track/4dc6Bdv25xg0zztKbYjOcM"
@@ -2174,7 +2210,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 186960,
       "name": "Domingo Qu\u00edmico",
       "url": "https://open.spotify.com/track/4J2Jg5GbkorubO7AqoIyfr"
@@ -2589,6 +2625,24 @@
     },
     {
       "album": {
+        "name": "El Perro del Quinto",
+        "url": "https://open.spotify.com/album/1EgMYcDyHMIyzUg345U6sI"
+      },
+      "artists": [
+        {
+          "name": "Wet Iguanas",
+          "url": "https://open.spotify.com/artist/5Nh9UxAQ4Pf2e68ZPZHQHC"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203849,
+      "name": "El Perro Del Quinto",
+      "url": "https://open.spotify.com/track/3jE17Dj4S9qBu04STo7Qj3"
+    },
+    {
+      "album": {
         "name": "EL PILLA PILLA",
         "url": "https://open.spotify.com/album/1WlLfujpP2dowFVMtGCjGL"
       },
@@ -2676,7 +2730,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 142042,
       "name": "Elegante",
       "url": "https://open.spotify.com/track/6YeaXPb86tGmdlgpizacvb"
@@ -2752,6 +2806,28 @@
       "duration_ms": 163405,
       "name": "En tu portal",
       "url": "https://open.spotify.com/track/4zx728yaOZ4zIy6VsXAEkg"
+    },
+    {
+      "album": {
+        "name": "Enemigos del Esp\u00edritu",
+        "url": "https://open.spotify.com/album/6OxAhbXzEZaDQxL626Y7Ot"
+      },
+      "artists": [
+        {
+          "name": "Tri\u00e1ngulo de Amor Bizarro",
+          "url": "https://open.spotify.com/artist/6A6B4fkbxVlQtNASPk5e2e"
+        },
+        {
+          "name": "Victorias",
+          "url": "https://open.spotify.com/artist/35lpWLoew70fDB1QQ7pW4I"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153727,
+      "name": "Enemigos del Esp\u00edritu",
+      "url": "https://open.spotify.com/track/25qwlXlKzYADrwNMmJbz4X"
     },
     {
       "album": {
@@ -3345,6 +3421,24 @@
     },
     {
       "album": {
+        "name": "Gigantes",
+        "url": "https://open.spotify.com/album/3E5s8EJXprphGKEGnTcr8n"
+      },
+      "artists": [
+        {
+          "name": "Neverland Bari",
+          "url": "https://open.spotify.com/artist/68hEzkqJzDWakEF63HUHeA"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246144,
+      "name": "Gigantes",
+      "url": "https://open.spotify.com/track/59O4rfsHvXTG5c0lB1xNbo"
+    },
+    {
+      "album": {
         "name": "Girl, so confusing (Cover)",
         "url": "https://open.spotify.com/album/0dU5WQsbGV9z8A5YEWrCDv"
       },
@@ -3660,7 +3754,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 259707,
       "name": "Historias de mi madre",
       "url": "https://open.spotify.com/track/0KYPXalufEdTN32XRy7hHf"
@@ -4712,6 +4806,24 @@
       "duration_ms": 213805,
       "name": "Luces de emergencia",
       "url": "https://open.spotify.com/track/4nFxOFKUmmdvHfCZbkDMhk"
+    },
+    {
+      "album": {
+        "name": "Luci",
+        "url": "https://open.spotify.com/album/6PHqnegdvjMOzBCG5BYQEs"
+      },
+      "artists": [
+        {
+          "name": "DELPALO",
+          "url": "https://open.spotify.com/artist/0ZHaWen1kQADn3PcoO0tz3"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159157,
+      "name": "Luci",
+      "url": "https://open.spotify.com/track/6OFE3t5tDOsy1W1nf9pZ73"
     },
     {
       "album": {
@@ -7215,6 +7327,24 @@
     },
     {
       "album": {
+        "name": "Rizo de gitana",
+        "url": "https://open.spotify.com/album/2ZQACLflzN6J7AcLaXmOhP"
+      },
+      "artists": [
+        {
+          "name": "Parquesvr",
+          "url": "https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219219,
+      "name": "Rizo de gitana",
+      "url": "https://open.spotify.com/track/5evTw8CEqIP3Ovu9LaPtsE"
+    },
+    {
+      "album": {
         "name": "Rob Gordon",
         "url": "https://open.spotify.com/album/18I9Tqw9GfujPFUP3zZ2CR"
       },
@@ -7410,7 +7540,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 149826,
       "name": "San Petersburgo",
       "url": "https://open.spotify.com/track/26AcPb0hGHW5lhuOUToe2r"
@@ -8134,7 +8264,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 216566,
       "name": "Telara\u00f1a",
       "url": "https://open.spotify.com/track/5SDSiEmGU5AX88QaW958Uf"
@@ -9386,7 +9516,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 181975,
       "name": "Ya Estoy Mayor",
       "url": "https://open.spotify.com/track/6bwh3lirkVVXAeGDSmAY6q"

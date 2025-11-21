@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [40 Hour Week \(For A Livin'\)](https://open.spotify.com/track/4OpB5ExXiVjj1f3gMfTw4u) | [Alabama](https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC) | [Greatest Hits](https://open.spotify.com/album/4LeC10bEjuCDcpWsTsILk6) | 3:21 | 2021-11-12 |  |
+| [40 Hour Week \(For A Livin'\)](https://open.spotify.com/track/4OpB5ExXiVjj1f3gMfTw4u) | [Alabama](https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC) | [Greatest Hits](https://open.spotify.com/album/4LeC10bEjuCDcpWsTsILk6) | 3:20 | 2021-11-12 |  |
 | [4th Of July / He Stopped Loving Her Today \- Medley](https://open.spotify.com/track/0W5Pa3GW06IQ7BS5CbTTOM) | [Shooter Jennings](https://open.spotify.com/artist/0F6yRPhUj9fUzWn0z3ysyr), [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [Put The O Back In Country](https://open.spotify.com/album/1SmA1sX0uSRJjjPnkulj9C) | 4:25 | 2021-12-09 | 2022-04-04 |
 | [Ain't Gotta Fight No More \(John's Song\)](https://open.spotify.com/track/5FdH2DXx4G2rXprY6pIXhF) | [Sam Grow](https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs) | [Avalon Avenue](https://open.spotify.com/album/56czbiLh4JJNn4U4q6Iwku) | 3:17 | 2024-01-19 | 2025-07-03 |
 | [All American](https://open.spotify.com/track/3z610KBfuClGcA7ywI19w8) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [All American](https://open.spotify.com/album/6lhrfOe8aN6TVyl1cynFmV) | 3:02 | 2021-11-12 |  |

@@ -4,7 +4,7 @@
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: Zimmer90, Eileen Alister, LUKAS OSCAR, Yu
 
-465 songs - 23 hr 45 min
+466 songs - 23 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -364,7 +364,7 @@
 | [Slowly](https://open.spotify.com/track/4xnSrvZ9MVhPXYhqDGQyCU) | [Vanita](https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur) | [Dystopia](https://open.spotify.com/album/3Wzi6aTBNAU3lLnaKAfa6B) | 6:54 | 2021-12-16 | 2022-11-16 |
 | [Slowly](https://open.spotify.com/track/6LuRwvdXDHoXfUyJICpR3z) | [Vanita](https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur) | [Dystopia](https://open.spotify.com/album/65rnuhXDFFky9hBX3ZhkFX) | 6:54 | 2022-10-27 | 2023-01-20 |
 | [Smile](https://open.spotify.com/track/2pxQTg8ecN1k3CXnEmpa8t) | [Leoniden](https://open.spotify.com/artist/1zwtew8BGPk66RKGQqtPCX) | [Smile](https://open.spotify.com/album/3O04qupq1XsQZI6rmC4OTr) | 3:42 | 2022-05-19 | 2024-06-07 |
-| [So weit weg \(Molekül\)](https://open.spotify.com/track/159fuPmAvLhTE2YyDruzbP) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [So weit weg \(Molekül\)](https://open.spotify.com/album/1mhWLC9dyvkSkIJZPaEfsN) | 2:31 | 2025-11-06 |  |
+| [So weit weg \(Molekül\)](https://open.spotify.com/track/159fuPmAvLhTE2YyDruzbP) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [So weit weg \(Molekül\)](https://open.spotify.com/album/1mhWLC9dyvkSkIJZPaEfsN) | 2:31 | 2025-11-06 | 2025-11-21 |
 | [Song on the Radio](https://open.spotify.com/track/2h8hP0rGjtq31emYwQx8D7) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [Song on the Radio](https://open.spotify.com/album/78gyO9wf9RWsq3pbSTI5s8) | 2:48 | 2025-10-16 |  |
 | [Sorry Mama Papa](https://open.spotify.com/track/0fF0IJSe5HVQnC6PFRPzEz) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Details](https://open.spotify.com/album/2hfaV0g2aEvB5hOduWzqPB) | 2:33 | 2023-11-30 | 2024-04-19 |
 | [SOUL TO KEEP](https://open.spotify.com/track/0CawnvXqgIy6BzbmGULcvE) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [SOUL TO KEEP](https://open.spotify.com/album/0d0e8xAGFEtYp7ZndffJJC) | 7:00 | 2023-02-09 | 2023-07-07 |
@@ -395,7 +395,7 @@
 | [The World's Thing](https://open.spotify.com/track/7p9qrq8qPw8KA6nyLN6Ocq) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [The World's Thing](https://open.spotify.com/album/0orNVT4C6SfaFiplCVEvFX) | 2:43 | 2022-01-27 | 2022-04-08 |
 | [Theater★](https://open.spotify.com/track/0SGtCOR4G9fx9PQq9shKkw) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [$OHO BANI](https://open.spotify.com/artist/3KQylwDxYE7Vxli0BSuwaf) | [Theater★](https://open.spotify.com/album/2VqZQpC4erfX9dNVkE5AZS) | 2:35 | 2023-08-17 | 2023-09-29 |
 | [Therapiebericht](https://open.spotify.com/track/0WXHTZFTxVnXJvw2EsurNB) | [Mika Noé](https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9) | [Therapiebericht](https://open.spotify.com/album/6UoOOrRPsJopQO8PKf7KbW) | 2:21 | 2025-02-27 |  |
-| [Therapieplatz](https://open.spotify.com/track/2NrOjJZTuOQpoEasaHUO6W) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Therapieplatz](https://open.spotify.com/album/5HY8oGkHL7HpAbGWeYAdXE) | 5:15 | 2025-10-09 |  |
+| [Therapieplatz](https://open.spotify.com/track/2NrOjJZTuOQpoEasaHUO6W) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Therapieplatz](https://open.spotify.com/album/5HY8oGkHL7HpAbGWeYAdXE) | 5:15 | 2025-10-09 | 2025-11-21 |
 | [Third Wheel](https://open.spotify.com/track/1RF6WXFDCKPnk5HrtzF7Cn) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Third Wheel](https://open.spotify.com/album/2G1VWNuQSHST4RhIduQDZA) | 2:46 | 2022-07-07 | 2022-11-18 |
 | [This Ain't Your Home](https://open.spotify.com/track/4veWqGtf0LDYEXhVw4jsvK) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [This Ain't Your Home](https://open.spotify.com/album/7oWOinSfW5wRgFSIdNFRUp) | 3:29 | 2021-12-16 | 2022-01-28 |
 | [Til The Morning Comes](https://open.spotify.com/track/3n6fEY5ci3vFMvD3IrW9gV) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Interior](https://open.spotify.com/album/1knlwGtSu2giVTRen3Fk8d) | 3:01 | 2025-09-18 |  |
@@ -436,6 +436,7 @@
 | [was hab ich falsch gemacht](https://open.spotify.com/track/5pjVNYkJx7wWTpKv9JVYNk) | [GRETA](https://open.spotify.com/artist/7APFrbSD8Z4A9BWKF4NZ8c) | [was hab ich falsch gemacht](https://open.spotify.com/album/7jYeAh27MEP3IJHXOQVPA7) | 3:19 | 2025-02-27 | 2025-06-06 |
 | [We Will Forgive Ourselves](https://open.spotify.com/track/7MbPQvkLAQEsmln2BRn2u0) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [We Will Forgive Ourselves](https://open.spotify.com/album/11IyXqq9Br1aLPdmTQJ4TD) | 6:31 | 2022-04-28 | 2022-07-01 |
 | [Weihnachtslied 2021](https://open.spotify.com/track/6eT8nslwFQTMCn3TqhLB7i) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9) | [Weihnachtslied 2021](https://open.spotify.com/album/0aFZ5cV5DkDMD5iR6jD0Vm) | 2:40 | 2021-12-16 | 2022-01-07 |
+| [Weinst du](https://open.spotify.com/track/2jkunFyVP3mJvfKMs2X5oQ) | [Stickle](https://open.spotify.com/artist/5K8xEsO2oPspkkkdpTBQWo), [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [Weinst du](https://open.spotify.com/album/66zd2Y2c612fRO39Nywah1) | 2:16 | 2025-11-20 |  |
 | [Weniger Allein](https://open.spotify.com/track/3HuQvPFNb8e8pYITgwFPQ7) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Weniger Allein](https://open.spotify.com/album/6xFBY6ZHtbU5wNbsaanHwc) | 3:20 | 2024-05-09 | 2024-08-09 |
 | [Wenn du gehst](https://open.spotify.com/track/7mDjp1foA6p4us9QZj8s8f) | [Aylo](https://open.spotify.com/artist/5ggr9FUq9cjogKBxQmI2ZO) | [Wenn du gehst](https://open.spotify.com/album/3M9Bvk0dfZv1HOUCScxpIK) | 2:30 | 2024-06-27 | 2024-07-19 |
 | [Wer](https://open.spotify.com/track/5lNFWihJT9yUCg4awzZj2z) | [2LADE](https://open.spotify.com/artist/2N5EUidcVv9pnicQFDeK5W) | [Wer](https://open.spotify.com/album/5aNhKzcHLEEGvn1eroz7vy) | 2:25 | 2021-12-16 | 2022-02-25 |

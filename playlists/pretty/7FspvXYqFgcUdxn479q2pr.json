@@ -1,13 +1,33 @@
 {
   "description": "New dance music from Deep House to Future Rave. Refreshed Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  ",
-  "num_followers": 31842,
+  "num_followers": 31839,
   "original_name": "New Dance Music Friday",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAt3GLk+cOtaiLBT8iTyCpjxWEUNRBk",
+  "snapshot_id": "AAAt4QmEy6z+62+/WytCpK5K/Qt+pbOJ",
   "tracks": [
+    {
+      "added_at": "2025-11-20 23:20:12",
+      "album": {
+        "name": "Bring Me To Life",
+        "url": "https://open.spotify.com/album/0hLl6XW9qAjuuPijk9SKTe"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "FORS",
+          "url": "https://open.spotify.com/artist/3IG2AmQqnXTje1NHlIQViX"
+        }
+      ],
+      "duration_ms": 258461,
+      "name": "Bring Me To Life",
+      "url": "https://open.spotify.com/track/6pkSEqfTFyoqaPXQ1d4nLp"
+    },
     {
       "added_at": "2025-11-14 09:17:16",
       "album": {
@@ -27,6 +47,26 @@
       "duration_ms": 231701,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/3YRFFwV0OtH5pWJYvNS8yV"
+    },
+    {
+      "added_at": "2025-11-20 23:20:01",
+      "album": {
+        "name": "Dile",
+        "url": "https://open.spotify.com/album/6RnJgL9vTgTkKe9d8EQhfI"
+      },
+      "artists": [
+        {
+          "name": "The Good Son",
+          "url": "https://open.spotify.com/artist/76OZ1HAHb3VXmv9z2vaL57"
+        },
+        {
+          "name": "TORREX",
+          "url": "https://open.spotify.com/artist/4Z0PAQRchTFaaz8KKQ4Ypk"
+        }
+      ],
+      "duration_ms": 178125,
+      "name": "Dile",
+      "url": "https://open.spotify.com/track/0c9hvmmhhfXHUMPlTtjE16"
     },
     {
       "added_at": "2025-11-06 23:20:08",
@@ -51,6 +91,22 @@
       "duration_ms": 195000,
       "name": "Meet Me",
       "url": "https://open.spotify.com/track/5NIh6RvA8hOV31OnQGdk4d"
+    },
+    {
+      "added_at": "2025-11-20 23:20:11",
+      "album": {
+        "name": "House Is Gettin' Raw",
+        "url": "https://open.spotify.com/album/4szlsAbwcDD7DT11PzysWR"
+      },
+      "artists": [
+        {
+          "name": "PAULY!",
+          "url": "https://open.spotify.com/artist/48fT8l5w6DNra9lwmMgCdk"
+        }
+      ],
+      "duration_ms": 178153,
+      "name": "House Is Gettin' Raw",
+      "url": "https://open.spotify.com/track/1sGGXzDr5bjEHBpGjwvNdq"
     },
     {
       "added_at": "2025-11-14 09:17:09",
@@ -129,6 +185,22 @@
       "url": "https://open.spotify.com/track/7zsA0KRxgxBca8EYRlxOAA"
     },
     {
+      "added_at": "2025-11-20 23:20:04",
+      "album": {
+        "name": "Generation",
+        "url": "https://open.spotify.com/album/0tIxZTp5fUIJq8QOGv4YGJ"
+      },
+      "artists": [
+        {
+          "name": "TOYZZ",
+          "url": "https://open.spotify.com/artist/79WxyVmZBcttTrPqhaAOwV"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Generation",
+      "url": "https://open.spotify.com/track/5J3SwmrFJ0HxrFYZeO9Lyc"
+    },
+    {
       "added_at": "2025-11-14 09:17:08",
       "album": {
         "name": "Rudeboy Riddim",
@@ -183,6 +255,30 @@
       "duration_ms": 171871,
       "name": "Carnaval Do Brasil",
       "url": "https://open.spotify.com/track/0sH9GexrcK3yhMCREq2OOX"
+    },
+    {
+      "added_at": "2025-11-20 23:20:09",
+      "album": {
+        "name": "Papi",
+        "url": "https://open.spotify.com/album/58yNJpoRbZJlYPIVldaK2Q"
+      },
+      "artists": [
+        {
+          "name": "Reggio",
+          "url": "https://open.spotify.com/artist/1Q6CDBTFFKnanZ20DS2QnQ"
+        },
+        {
+          "name": "KNTRLVRLST",
+          "url": "https://open.spotify.com/artist/5C9HSvVi06YZftH6UVnd6V"
+        },
+        {
+          "name": "Moji",
+          "url": "https://open.spotify.com/artist/6xVsW7h4SzGxh6iIgaJQm7"
+        }
+      ],
+      "duration_ms": 184874,
+      "name": "Papi",
+      "url": "https://open.spotify.com/track/1kC53U9faEDH7KN9hKqjQA"
     },
     {
       "added_at": "2025-10-30 23:20:07",

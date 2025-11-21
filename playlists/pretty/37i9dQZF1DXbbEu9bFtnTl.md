@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbEu9bFtnTl.md) - [plain]
 
 > muZikiiTa RaRa 100pre sÄd t oDiiO bye 👾 Stiffy, Zell, Agusfortnite2008 y turrobaby en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,168 likes - 100 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,195 likes - 100 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbEu9bFtnTl.md) - [plain]
 | 93 | [10percs](https://open.spotify.com/track/2V90V4Q8v9C19fKOakLUA8) | [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [10percs](https://open.spotify.com/album/5ffWOu69p9fUosQcolZbmE) | 2:06 |
 | 94 | [Sola](https://open.spotify.com/track/6vKq8Q4UCs4q6LqlijQGKE) | [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir) | [Sola](https://open.spotify.com/album/2G8vQf90vV1VaZil0ukv6g) | 3:33 |
 | 95 | [Hello Kitty](https://open.spotify.com/track/3scyjsUj96AWnvoQvvbATl) | [ANGEL22](https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44) | [Hello Kitty](https://open.spotify.com/album/4t9dnru2wlMggWqq6OPV6m) | 2:04 |
-| 96 | [aún sigo aquí.](https://open.spotify.com/track/0XYXPUrvR2XBZVYp64yeIj) | [Aren Martin](https://open.spotify.com/artist/4RK7b5enfCZ7DmrZCChxoi) | [aún sigo aquí.](https://open.spotify.com/album/5dWCn1PimrufFWr5RM3n6s) | 1:43 |
+| 96 | [aún sigo aquí.](https://open.spotify.com/track/0XYXPUrvR2XBZVYp64yeIj) | [Aren Martin](https://open.spotify.com/artist/4RK7b5enfCZ7DmrZCChxoi), [¿¿¿](https://open.spotify.com/artist/4NGbyLLnXiqhCUBaB2zP2t) | [aún sigo aquí.](https://open.spotify.com/album/5dWCn1PimrufFWr5RM3n6s) | 1:43 |
 | 97 | [DOSMILVEINTITRÉS](https://open.spotify.com/track/44xarQZB0N7Hvl2sWSG4O1) | [Nevo Angel](https://open.spotify.com/artist/32QXlAgEc8RDhZvZGipVyw) | [DOSMILVEINTITRÉS](https://open.spotify.com/album/6IKC0lA0KmFNjNPZVnn67J) | 3:24 |
 | 98 | [A La Verga Jajajajj](https://open.spotify.com/track/2FmwONf4l0wngRrEirgYCb) | [Tenshi](https://open.spotify.com/artist/2uQeXX2ga2kvnHeP81aI2Y) | [A La Verga Jajajajj](https://open.spotify.com/album/1AKX5E6tnjw1GZ7LFGlm7K) | 1:48 |
 | 99 | [Muero de Fiesta Este Finde](https://open.spotify.com/track/7vUZ4l9XWZLlYdkaRw5kXh) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf) | [Desde el Fin del Mundo](https://open.spotify.com/album/3MKQjYpaES80tFP7Qo2zH0) | 3:13 |

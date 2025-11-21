@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 
 > Découvrez les nouveautés des artistes RADAR France\. Photo : Sam Sauvage
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,535 likes - 66 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,533 likes - 66 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Hotpot & HOTPOP 我們都愛！新鮮滾熱辣 Mando\-HOTpop track ! Cover: Gareth.T x 攬佬SKAI ISYOURGOD
 
-255 songs - 16 hr 29 min
+261 songs - 16 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [คั่นกู \- เพลงประกอบซีรีส์ เพราะเราคู่กัน](https://open.spotify.com/track/2ZGgIXaoierTsnkrDzuBzY) | [BRIGHT](https://open.spotify.com/artist/6foXh1rnSNszTx2gIVOGTt) | [เพลงประกอบซีรีส์ เพราะเราคู่กัน](https://open.spotify.com/album/2KhI6iPy0XxzzRvXQnmwsb) | 4:03 | 2022-03-10 | 2023-02-03 |
 | [一口一](https://open.spotify.com/track/1h6tZ0VO1KvyldahaKgYUD) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [一口一](https://open.spotify.com/album/3iv495ecbGF4eSA8CAjNPU) | 3:13 | 2025-07-24 |  |
 | [一夜一夜一夜](https://open.spotify.com/track/3djgonrherZ9t3Wwih6n0Q) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [一夜一夜一夜](https://open.spotify.com/album/509hTNcF5mythficxIwadm) | 4:01 | 2025-08-21 |  |
+| [一点点（为什么晚上总是有星星）](https://open.spotify.com/track/6mhOFESwSNssGppl5WbfV5) | [董唧唧](https://open.spotify.com/artist/0QwmLQKOeZobacsipWWvrT), [芊芊龍](https://open.spotify.com/artist/0nx6F0kN4McqlL648nTF4V) | [一点点（为什么晚上总是有星星）](https://open.spotify.com/album/6iHX6DiVHcRSsHHxTUKVA5) | 2:57 | 2025-11-20 |  |
 | [一路順風 \(blessed in the wind\)](https://open.spotify.com/track/0gqwYp4fqGVhj2t0GHaD88) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [一路順風 \(blessed in the wind\)](https://open.spotify.com/album/3sf1Ve1jgc61kFDFDPG0Ki) | 2:52 | 2025-08-14 |  |
 | [下一世遇見](https://open.spotify.com/track/0BvSDFthkPOVWfNdIs2BGM) | [Calvert Tay](https://open.spotify.com/artist/3ZYC5DuefIg4HuAAU5YBU4) | [下一世遇見](https://open.spotify.com/album/2JDuShaImrZIYITFQJ2Lba) | 4:25 | 2025-05-01 |  |
 | [两难](https://open.spotify.com/track/7oQku6a7j4laDq3zTI6CRf) | [加木](https://open.spotify.com/artist/45aOa6C5ieGIXh7yExsvVl) | [两难](https://open.spotify.com/album/6HQyq2KNTILRZzwrzKVKsK) | 2:50 | 2025-06-12 |  |
@@ -104,6 +105,7 @@
 | [友情歲月](https://open.spotify.com/track/1EzjQgHyJL3RoDdQBwIG06) | [Anthony Wong](https://open.spotify.com/artist/16J0pDSrYEctKiVYogq2aI) | [歷久嚐新II Reborn \(環球精選\)](https://open.spotify.com/album/76OhLZYkmy48oEy0bVHwxL) | 5:08 | 2024-04-04 | 2025-04-04 |
 | [取消資格](https://open.spotify.com/track/5fTvinvM2O7Qfedvp4u3ck) | [Cass Phang](https://open.spotify.com/artist/0RkQt8LMVrxCjQb9BxpBfF) | [給我愛過的男孩們\. 10週年24K金碟限量版](https://open.spotify.com/album/5yR2ixyCiWRtSfB5Jeb9CF) | 4:01 | 2023-02-02 | 2025-04-04 |
 | [吹吹風](https://open.spotify.com/track/7qpNCIAEv55q1jkzsO1jxd) | [Lu Han](https://open.spotify.com/artist/3fS78kAWd9dVFyaPQ363YO) | [吹吹風](https://open.spotify.com/album/5vape6V9FymJGeFKZfugS4) | 2:55 | 2025-05-09 |  |
+| [善后](https://open.spotify.com/track/6gYS6CQc7UMnj0Ubq3C0QT) | [马师傅](https://open.spotify.com/artist/0M668HC4fq39Ls98rUdsyS) | [善后](https://open.spotify.com/album/0v0ZrjSyK6uMaxdEzJOaPT) | 4:14 | 2025-11-20 |  |
 | [喜歡戀愛](https://open.spotify.com/track/4FzNaixy0Ura2eDmS3217L) | [Sammi Cheng](https://open.spotify.com/artist/3XCnp5UV5wnNw49Xuka9qH) | [Sammi VS Sammi](https://open.spotify.com/album/1ZMrZVljBvcfVt2Eez0e9a) | 4:30 | 2023-02-02 | 2025-04-04 |
 | [嗵嗵](https://open.spotify.com/track/2XP3hbbZKRhrlSBf8POjuA) | [DOUDOU](https://open.spotify.com/artist/0ctojL7wBYi3YJ4mNWeXcC) | [嗵嗵](https://open.spotify.com/album/4N0gVumgPBUJ135KBrmQyM) | 4:23 | 2025-04-03 | 2025-08-15 |
 | [囍帖街](https://open.spotify.com/track/4Bftk2JcO5Ul017BCmcBL4) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [Eason Chan Duo Concert 2010](https://open.spotify.com/album/07fbAm4G10mTHjzWk8pz62) | 4:27 | 2024-04-04 | 2025-04-04 |
@@ -153,9 +155,11 @@
 | [我天生 \- 有病版 \(電影《有病才會喜歡你》主題曲\)](https://open.spotify.com/track/7f1kAQ7fdKhUiziMDj24Um) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8), [詹懷雲](https://open.spotify.com/artist/7yixHfr6sPhfhTqZspU2UZ), [江齊](https://open.spotify.com/artist/2Ge99rYjgszVNVfvC3dPv0) | [我天生 \- 有病版](https://open.spotify.com/album/35mtqL9m3dw0A6ZBytN22q) | 4:40 | 2025-04-03 |  |
 | [我想把你手銬走](https://open.spotify.com/track/2c9Bk21JpXu5vBHbotLV5T) | [W.M.L](https://open.spotify.com/artist/5PeVQEj4Yr0TB9CuG83dPB) | [我想把你手銬走](https://open.spotify.com/album/6BMgJKLt0rzc4ykKfuEJXY) | 2:21 | 2025-04-03 | 2025-07-04 |
 | [我想要擁有你 \- Netflix影集《影后》插曲](https://open.spotify.com/track/3Xkh1A1o9ecexZDpspT9Va) | [小男孩樂團](https://open.spotify.com/artist/4N9mUjAWoNCkLN0kCxzaL5) | [我想要擁有你 \(Netflix影集《影后》插曲\)](https://open.spotify.com/album/5GIQZuQ2trxmbwPk0I1I1O) | 3:42 | 2025-04-03 | 2025-07-04 |
+| [我是真的愛你 \- 滾石撞樂隊2 \(原唱:李宗盛\)](https://open.spotify.com/track/07ddfCmFh0ahh10rq9CKzb) | [溫室雜草](https://open.spotify.com/artist/6DZ6tvZTWTDO1vEBvUYfbP) | [滾石撞樂隊2 \- 我是真的愛你](https://open.spotify.com/album/2cqzxCdEs1iX6aC5q7nXas) | 4:11 | 2025-11-20 |  |
 | [我是真的相信過愛情](https://open.spotify.com/track/1jzf9hHC4ADMmQMWvKdhbg) | [艾薇 Ivy](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [我是真的相信過愛情](https://open.spotify.com/album/7cpBnzeIAjRomRz6QFpUbK) | 4:41 | 2025-04-03 |  |
 | [我爱你但是我要回家](https://open.spotify.com/track/1zLpybgzhdG6KzgG9sRAwE) | [ET](https://open.spotify.com/artist/6L8uYIuAWEDljh6LxP5jMm), [Happer](https://open.spotify.com/artist/6Ljp6ps4Nt9w0WJA8jSTdc), [无面小生](https://open.spotify.com/artist/2Yftm8We3xQFKhndUtuXUr), [口古口古](https://open.spotify.com/artist/6XRGKV1jyYJ5wTJ5S7hxeh) | [我爱你但是我要回家](https://open.spotify.com/album/6MqJXDfjN3dpfS2hH5FeKF) | 3:14 | 2025-04-03 | 2025-08-15 |
 | [我看好的](https://open.spotify.com/track/5NPlmy6TQMNCwg4nPCDslh) | [LBI利比](https://open.spotify.com/artist/1xMn0bhYRWHDV01mU8gP1J) | [我看好的](https://open.spotify.com/album/2FoEyVTB7TVO144Ig6cKAN) | 3:13 | 2025-05-29 |  |
+| [我看見今晚的月色很美，你呢？](https://open.spotify.com/track/5m5UYRlUNW7ypgh7TsmGIa) | [晚安莉莉](https://open.spotify.com/artist/5QGALLXDjpaWbNlw4NL8gj) | [Goodnight, Lillie.](https://open.spotify.com/album/0xwrHhzvHaJkHt95wVPB2Y) | 4:04 | 2025-11-20 |  |
 | [房間裡的大象](https://open.spotify.com/track/21Q7rYAfVkzW5ryhL6uQSz) | [Rainie Yang](https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk) | [有且](https://open.spotify.com/album/5KvOMc2has9jVkEl1n8QEf) | 4:26 | 2025-10-23 |  |
 | [手望\(守望版\) \- Chill Club Version](https://open.spotify.com/track/72xWqUAWRuYhP0BZhroJjF) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1), [Mike 曾比特](https://open.spotify.com/artist/33oY0RTyXAMYBM6QSImuo7) | [手望\(守望版\) \[Chill Club Version\]](https://open.spotify.com/album/55YNpYQPgwvhxCXte6OtN7) | 3:58 | 2023-02-02 | 2025-04-04 |
 | [打空氣的拳擊手](https://open.spotify.com/track/20DgB0tAU39wAfHNhyI0lZ) | [Yoga Lin](https://open.spotify.com/artist/1GPoTgvXd5OqZMF1akOsV2) | [打空氣的拳擊手](https://open.spotify.com/album/3ZtFJbTJc9ENZ1sg3xGxSU) | 3:48 | 2025-04-17 |  |
@@ -172,6 +176,7 @@
 | [時間的初衷 \(電影《一秒拳王》主題曲\)](https://open.spotify.com/track/1ubjsQj2DEqPMqC5CCwMEw) | [Endy Chow](https://open.spotify.com/artist/5r0xeBSRKRJ5Dm63XzTZhE), [ToNick](https://open.spotify.com/artist/3oONGjPFxkb1rqTtFx8fl2) | [時間的初衷 \(電影《一秒拳王》主題曲\)](https://open.spotify.com/album/0ModZiFlJ4homzkNeuRATU) | 5:27 | 2022-03-10 | 2023-02-03 |
 | [暗湧](https://open.spotify.com/track/23pf1KLKsOqwFufDrliFmQ) | [Anthony Wong](https://open.spotify.com/artist/16J0pDSrYEctKiVYogq2aI) | [歷久嚐新REBORN \(環球精選\)](https://open.spotify.com/album/2OIg1BweYzUeevdKt6VTX3) | 3:51 | 2024-04-04 | 2025-04-04 |
 | [暗湧 \- 電影"愈快樂愈墮落"歌曲](https://open.spotify.com/track/51qJSDTQiyP2BNsAKRcRo2) | [Anthony Wong](https://open.spotify.com/artist/16J0pDSrYEctKiVYogq2aI) | [廿一世紀精選](https://open.spotify.com/album/1YOynn6PjM1NnCnBRLuv2S) | 3:49 | 2023-02-02 | 2024-04-19 |
+| [最好的我](https://open.spotify.com/track/1PpoiIMsCs0c5zaF4nGlrX) | [房祖名](https://open.spotify.com/artist/37mrDcAcvsot21iwACpsbQ), [Serene Koong](https://open.spotify.com/artist/3B9noenUAgnsXz5UIaFBj3) | [亂](https://open.spotify.com/album/4Www0lWOMVPyCBWVHz1HIZ) | 5:13 | 2025-11-20 |  |
 | [最好的朋友](https://open.spotify.com/track/3uD9D4Gw9hxhvVQWBx3Ehd) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX), [DONGHAE](https://open.spotify.com/artist/4TSRZ3mVg0Lu0qmtJPiPEY) | [最好的朋友](https://open.spotify.com/album/0gUEh0gO3nDqiWwWHh7bMS) | 3:52 | 2025-04-24 |  |
 | [最後的信仰 \- Snug In My Arms Live](https://open.spotify.com/track/3XGVrj8xSClxddeiKbbA3C) | [Pong Nan](https://open.spotify.com/artist/6G7bdG4rBz6OQgKudNjoGL) | [Snug In My Arms Live](https://open.spotify.com/album/0lefvBKopUG6Ip0jvqeVCx) | 4:48 | 2024-04-04 | 2025-04-04 |
 | [最後的歌](https://open.spotify.com/track/2cSNM2l9koIzxoKoOkPE9m) | [陳輝陽 x 女聲合唱](https://open.spotify.com/artist/6t1LRAgmnIc4a1hnjhSDHU) | [最後的歌](https://open.spotify.com/album/6obk6R6XuJmp0VFjCGaypj) | 3:30 | 2024-04-04 | 2025-04-04 |
@@ -187,6 +192,7 @@
 | [沒有人會為了我改變 \(電影《夜校女生》主題曲\)](https://open.spotify.com/track/4MF3LAE3RNK19S9w5Y8M6a) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [沒有人會為了我改變](https://open.spotify.com/album/0pMtn6FSzOhvPaIrFFhWL4) | 5:11 | 2025-04-03 | 2025-07-04 |
 | [沒有如果](https://open.spotify.com/track/2fugXPHScj3rflFJoIVi0T) | [ECHORA](https://open.spotify.com/artist/4YttcexiK8XuXXxQVrA1dC), [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt) | [沒有如果](https://open.spotify.com/album/2eh90cMF3Vr2yMhJ9X9MEU) | 2:32 | 2025-08-21 |  |
 | [沒有我的以後](https://open.spotify.com/track/4qeJCSBH6FA2tAUcPEDoEl) | [Sharon Kwan](https://open.spotify.com/artist/1D4GTYNzBKdUrK1wyzTmyt) | [沒有我的以後](https://open.spotify.com/album/2O28M6R3nbe65ej3BzIx0q) | 3:31 | 2025-04-03 | 2025-08-15 |
+| [沒空想你](https://open.spotify.com/track/0IDjJ9R8fuw1xJkczkH1eN) | [Sabrina 胡恂舞](https://open.spotify.com/artist/378nUaqWlvNG3xRIszxzLs) | [花皮](https://open.spotify.com/album/1RaNchaQbeBeNivwiZ6s1g) | 4:06 | 2025-11-20 |  |
 | [没出息](https://open.spotify.com/track/2Vj3vhn6PWduJct8p9vX9x) | [王世坚](https://open.spotify.com/artist/2gHmvF6d7DCRjfGTBc1L0h) | [没出息](https://open.spotify.com/album/45g3gq0fQTo2ZbBzAQ4vGt) | 1:07 | 2025-11-06 |  |
 | [活得比你好](https://open.spotify.com/track/3H0sbSeSHB7lbvknxiHhL4) | [Hins Cheung](https://open.spotify.com/artist/2MVfNjocvNrE03cQuxpsWK) | [Dahlia II](https://open.spotify.com/album/4oyUjiSeeBwEfKvsASvMwy) | 4:23 | 2024-04-04 | 2025-04-04 |
 | [活著](https://open.spotify.com/track/711bVTOFjmjte4eNXzcbc7) | [Charlene Choi](https://open.spotify.com/artist/6wBoKKHhGDrxVtp6XMFpIP) | [Blooming](https://open.spotify.com/album/3Qxf3z5G8hMBacGhEzeMjL) | 3:32 | 2023-02-02 | 2025-04-04 |

@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,120 songs - 2 day 14 hr 35 min
+1,122 songs - 2 day 14 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Bad For You](https://open.spotify.com/track/0vWynZjfMnx8wtQx4CpwgS) | [IVORY](https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo), [Hammerhead](https://open.spotify.com/artist/6sckmaSXwZnsOR3kB4Hk75), [Dani King](https://open.spotify.com/artist/3IoL23eRnUfAwnOTsbTLVp) | [Bad For You](https://open.spotify.com/album/6hNHNhff93z7BmdBHfnBFS) | 4:03 | 2022-07-11 | 2022-09-23 |
 | [Bad Habits](https://open.spotify.com/track/700H13fA0yvHTxLlaTFw0X) | [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3), [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs), [Mike Robert](https://open.spotify.com/artist/32CfvJx4uPDyBZ8PFzEQe8) | [Bad Habits](https://open.spotify.com/album/5gglMONUNcpPxnr7S5jpUa) | 2:58 | 2022-11-24 | 2023-02-18 |
 | [Bad Luck](https://open.spotify.com/track/2lcapVdJDedPx2GYGtKxwz) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Kiz Keyz](https://open.spotify.com/artist/7GAnVRGrOJIUhOQKEehgFS) | [Bad Luck](https://open.spotify.com/album/3VjDetfhWUDHNNSawdk81Q) | 2:51 | 2022-08-18 | 2022-11-01 |
+| [Badman](https://open.spotify.com/track/0EgZN1lzPldXsSxmpRQMxN) | [Malaa \(Alter Ego\)](https://open.spotify.com/artist/23OllNLLdftM8a6HhEhAi9), [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [Badman](https://open.spotify.com/album/6Yo7t2gb7REk2erv5sBpWh) | 3:26 | 2025-11-20 |  |
 | [Ballistic](https://open.spotify.com/track/4K35vDV1gIguKsU9E5Fj5x) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [Ballistic](https://open.spotify.com/album/1W0kBLIEmlXcqkTXcFBgBW) | 3:15 | 2024-05-31 | 2024-08-22 |
 | [Balloon](https://open.spotify.com/track/5csIQAH93KyFTJpltszzXo) | [Modd](https://open.spotify.com/artist/57aX19q7mKEOq5Y6FrHoh2), [Lisandro \(AR\)](https://open.spotify.com/artist/4g3giOQcTBZbuUvyMh7Ksm) | [Balloon](https://open.spotify.com/album/54v8pU06m0p6mAEyspipUB) | 2:40 | 2025-07-02 | 2025-09-24 |
 | [BANG YOUR HEAD](https://open.spotify.com/track/2vk63a0DpsEDiCG4k0mjCF) | [DIESEL](https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u), [Hairitage](https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [BANG YOUR HEAD](https://open.spotify.com/album/3FkWFc1jekxt65VaXhsIRk) | 3:24 | 2023-06-07 | 2023-09-26 |
@@ -117,6 +118,7 @@
 | [Beacon](https://open.spotify.com/track/0QSgN6pgdJdCBSNCAxHyok) | [CloudNone](https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY) | [Beacon](https://open.spotify.com/album/17xeRw9ytYLac0hjH8PAmB) | 3:20 | 2025-01-09 | 2025-04-02 |
 | [BEAMS](https://open.spotify.com/track/081pPUtsdE1iBqvyjw4kCS) | [INFEKT](https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl) | [BEAMS](https://open.spotify.com/album/5AYrW1k2Y0f3gpN3BlWmQS) | 2:58 | 2024-03-20 | 2024-06-07 |
 | [Beautiful Nightmare](https://open.spotify.com/track/5bUGTPa2WYYS9P49MzAljd) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Neon Nights](https://open.spotify.com/album/2PMUDyTcZRL0kMKibFgHKT) | 2:47 | 2024-08-07 | 2024-11-01 |
+| [Before I Go](https://open.spotify.com/track/7cRN38N0djEeO6YDFAtHrc) | [Trivecta](https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye), [vanru](https://open.spotify.com/artist/0BLfDCxhXd4mFmVv1KjJjV) | [Before I Go](https://open.spotify.com/album/1GSUJcKaEBCio5XhM6mWE3) | 2:36 | 2025-11-20 |  |
 | [begin again](https://open.spotify.com/track/2HzjHQ9QEZnYl3sDbWmhQo) | [zensei ゼンセー](https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63), [Mr\. Hilroy](https://open.spotify.com/artist/1SDhLZ6y3x0OEGEHZ96K2T) | [wonder years pt\. 1](https://open.spotify.com/album/4TAy3EjqjNvl5LtVWAH4gM) | 3:53 | 2022-03-23 | 2022-06-04 |
 | [Behind Your Eyes](https://open.spotify.com/track/1hV1ZlD4WGJzBZ4ScGJKdy) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL), [Juneau](https://open.spotify.com/artist/4GqIsFywX1zYRiXreoyU34) | [Behind Your Eyes](https://open.spotify.com/album/21vde0XQf3KcIL3rbyb4mf) | 2:26 | 2021-11-19 | 2022-02-08 |
 | [BELIEVE](https://open.spotify.com/track/2HGWEdmzqykDOKbAxRd1JE) | [ALLEYCVT](https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1), [LEVEL UP](https://open.spotify.com/artist/1ZpDxqXS6HAvoZyCzQfKRb) | [BELIEVE](https://open.spotify.com/album/5J8oRtgQiIbku3Xmi7WIUJ) | 2:41 | 2025-11-12 |  |

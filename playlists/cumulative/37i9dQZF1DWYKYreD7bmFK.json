@@ -157,6 +157,24 @@
     },
     {
       "album": {
+        "name": "CUPIDO",
+        "url": "https://open.spotify.com/album/0ZUutlus9VH8W3w0qszlxM"
+      },
+      "artists": [
+        {
+          "name": "CARO WOW",
+          "url": "https://open.spotify.com/artist/6kyGmHxzIq5UcqAYS6BWUs"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "CUPIDO",
+      "url": "https://open.spotify.com/track/6Q6FcQxKhsSUNwAPjaaycD"
+    },
+    {
+      "album": {
         "name": "Ddoje Criature",
         "url": "https://open.spotify.com/album/74WfrfLXs2O4TIFRUrNd4Y"
       },

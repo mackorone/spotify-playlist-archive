@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-1,024 songs - 2 day 4 hr 30 min
+1,025 songs - 2 day 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [Devil's Music](https://open.spotify.com/track/4MWVKlkh04WFrHPywkDLxl) | [Will Taylor \(UK\)](https://open.spotify.com/artist/53PVBEKRk4Fvq8w8cLydLX) | [Devil's Music](https://open.spotify.com/album/4S0x97NZrRAZ8PyATGIITT) | 2:23 | 2024-03-08 | 2024-04-13 |
 | [Dig It Up](https://open.spotify.com/track/4zGAYCNnjVQSrnAHPTJxUT) | [TOYZZ](https://open.spotify.com/artist/79WxyVmZBcttTrPqhaAOwV) | [Dig It Up](https://open.spotify.com/album/08LHrJvwQOr8OPISQ3tm02) | 2:39 | 2024-05-13 | 2024-09-26 |
 | [Digital Native](https://open.spotify.com/track/19asn2S0vCgT6OeG8i6apr) | [TUFACE](https://open.spotify.com/artist/0wyFPvIsAtqhFMFSEbEYj2) | [Digital Native](https://open.spotify.com/album/5BJ3UgLlyEyHpkSjfRSsKs) | 3:33 | 2023-09-08 | 2023-12-14 |
+| [Dile](https://open.spotify.com/track/0c9hvmmhhfXHUMPlTtjE16) | [The Good Son](https://open.spotify.com/artist/76OZ1HAHb3VXmv9z2vaL57), [TORREX](https://open.spotify.com/artist/4Z0PAQRchTFaaz8KKQ4Ypk) | [Dile](https://open.spotify.com/album/6RnJgL9vTgTkKe9d8EQhfI) | 2:58 | 2025-11-20 |  |
 | [Dimensions](https://open.spotify.com/track/3HeFUCxHhZwvT2XHuNSTAf) | [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC) | [Dimensions](https://open.spotify.com/album/6L3TpSeQPjnwPAj64ZShEA) | 2:45 | 2023-05-25 | 2023-12-14 |
 | [Dirty Blonde](https://open.spotify.com/track/4xTFiSi0CmH8hrkMeMGca4) | [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu) | [Dirty Blonde](https://open.spotify.com/album/72p8LFXjfXEHqfmHoHoUDb) | 3:27 | 2023-11-17 | 2024-09-26 |
 | [Disco Baby](https://open.spotify.com/track/3fIAiG44DasK0wYAznuMlk) | [Tigerlily](https://open.spotify.com/artist/48xCatjXaoohtyOHrHTijG) | [Disco Baby](https://open.spotify.com/album/3D9SwDHB4MjhFMMZnCIikm) | 3:19 | 2023-08-31 | 2023-12-14 |

@@ -4,7 +4,7 @@
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-202 songs - 11 hr 18 min
+205 songs - 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Playing God](https://open.spotify.com/track/58MmPniM5FnH9c1WfeTzdO) | [Early Exit](https://open.spotify.com/artist/2Ja88B9uPMQsjv6VtQiQt3) | [Playing God](https://open.spotify.com/album/2ZxXf7pkmshkpbMgHSfQnv) | 3:40 | 2025-11-07 |  |
 | [Please and Thank You](https://open.spotify.com/track/1EgdIuz9XmN9Twd5L5z7oV) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [LOUD NOISES](https://open.spotify.com/album/3td0OGM48SevIvq1jkUxAM) | 3:31 | 2025-08-03 |  |
 | [Popgymnastik](https://open.spotify.com/track/6A9ZCLBd1m9Lh5njCWX2io) | [32 Ohm](https://open.spotify.com/artist/1vgzRUPEZ8l3fszpEET43S) | [Popgymnastik](https://open.spotify.com/album/48LZICr5zOTrQb8aomay9j) | 3:16 | 2025-11-10 |  |
+| [Presente Imperfecto](https://open.spotify.com/track/0OHvFYxP5jCifoq7iDoixb) | [SONORAMiCOS](https://open.spotify.com/artist/5I0mPJBSGW6E9sbrwOfKCE) | [Presente Imperfecto](https://open.spotify.com/album/2UCecjJfkHXvzZDbt4vfbk) | 2:59 | 2025-11-20 |  |
 | [Progression](https://open.spotify.com/track/7n10SATemReHLWUwmZS5VC) | [Pickap.art](https://open.spotify.com/artist/4TMb7hw4kEDZdxMK9IYLUc) | [Machine Yearning EP](https://open.spotify.com/album/7HBzPwXdizTOmjuEGCF9Bx) | 2:46 | 2025-08-03 |  |
 | [Put Me Down](https://open.spotify.com/track/55ahNa2Ns81p0tqTWq9iM6) | [Door Marked Summer](https://open.spotify.com/artist/3ryXL59wPHXYFRrwujR6hh) | [Put Me Down](https://open.spotify.com/album/1BmFs8hzgpwCUbuNsqhiXA) | 7:16 | 2025-08-03 |  |
 | [Pánta Rheî](https://open.spotify.com/track/6aTAAksUXVX0NuTEXu8lgm) | [Bobby Wallisch Jr.](https://open.spotify.com/artist/3ZrBfXIxxaZcLYFs7XGWfQ), [Acid.Prof](https://open.spotify.com/artist/1fgWlAeVGsyJYk05RQK72H) | [Pánta Rheî](https://open.spotify.com/album/2MmdpSqXZ6KxVCcn8eXLcP) | 3:28 | 2025-11-10 |  |
@@ -172,6 +173,8 @@
 | [Sword And Shield](https://open.spotify.com/track/2R71lylNwv67mmPBwjTCYS) | [Yürümeyen Merdiven](https://open.spotify.com/artist/5qxtKwjihWyBWuy7Tjs3ue) | [Sword And Shield](https://open.spotify.com/album/7GIM4hfDcnStwIdShQnNym) | 3:26 | 2025-11-19 |  |
 | [Symbol of Absence](https://open.spotify.com/track/3aGQqnQXTlEASZuDh4d6C3) | [Déjà Young](https://open.spotify.com/artist/6FXPElF9E7z8LEe21uMzr7) | [Symbol of Absence](https://open.spotify.com/album/3GeTP3sWi4i4acX36zKfDo) | 4:06 | 2025-11-14 |  |
 | [T\-shirt](https://open.spotify.com/track/1ObOI5SS3jk5m0kmhFVlD4) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [LOUD NOISES](https://open.spotify.com/album/3td0OGM48SevIvq1jkUxAM) | 3:59 | 2025-08-03 |  |
+| [temptress](https://open.spotify.com/track/1PDUiwGUzBCNwKbbqKM03J) | [dredge](https://open.spotify.com/artist/2a5NdT9HMrYzElE44JJ59W) | [temptress](https://open.spotify.com/album/65cYeQSbhT1ZY3JQEx39b9) | 3:17 | 2025-11-20 |  |
+| [temptress \(amnesia edit\)](https://open.spotify.com/track/4DgcfrBabvXy8qsiU8recG) | [dredge](https://open.spotify.com/artist/2a5NdT9HMrYzElE44JJ59W) | [temptress](https://open.spotify.com/album/65cYeQSbhT1ZY3JQEx39b9) | 3:40 | 2025-11-20 |  |
 | [The Distance](https://open.spotify.com/track/7H9COK6fJ6RLga1Gizf71C) | [Monte Cristo](https://open.spotify.com/artist/5PBBLMciIri0fAzQgteVgQ) | [FROM THE LOWEST VALLEY TO THE HIGHEST MOUNTAIN](https://open.spotify.com/album/6hLWJmUuUq4s7enf203pXu) | 4:14 | 2025-10-23 |  |
 | [The Outskirts](https://open.spotify.com/track/7gwzIiDiit2aSWZfPWuCPn) | [elefa](https://open.spotify.com/artist/6gthsilX3yi8gmE55ho116), [Anna Karenina](https://open.spotify.com/artist/3r5F06EznZ4fKrpzS99A8P) | [Hur? Jag fattar inte.](https://open.spotify.com/album/7obrHEpg9NS99V36fEFwC6) | 6:05 | 2025-11-13 |  |
 | [The Way You Make Me Feel](https://open.spotify.com/track/1Jiwxvfdgyr7Mro11A2kEI) | [CHIDGEY](https://open.spotify.com/artist/1FUtCOxY07NEPmJljLQdRN) | [L.A.R.P](https://open.spotify.com/album/4zIoyQloxWYRnhMrSfnKU3) | 3:39 | 2025-11-14 |  |

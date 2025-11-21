@@ -4,7 +4,7 @@
 
 > Lagu\-lagu terpopuler dari dekade 2010an\. Cover: Fatin
 
-208 songs - 14 hr 15 min
+208 songs - 14 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [April](https://open.spotify.com/track/5vzRjB22yfvxZua0mknCo6) | [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Tempat Aku Pulang](https://open.spotify.com/album/2Vu9vlqebIXTxVSZiuxpyj) | 4:21 | 2024-04-04 |  |
 | [Asal Kau Bahagia](https://open.spotify.com/track/41dswHw9sCLChDgXyVS4kC) | [Armada](https://open.spotify.com/artist/6H857CtcaYMSxOB4jvSIZf) | [Asal Kau Bahagia](https://open.spotify.com/album/0y0Sx40qA3BJkCV7IsIY9n) | 4:05 | 2024-04-19 |  |
 | [Asal Kau Bahagia](https://open.spotify.com/track/79AlxPlv70kuRlsi2eZsnV) | [Armada](https://open.spotify.com/artist/6H857CtcaYMSxOB4jvSIZf) | [Maju Terus Pantang Mundur \(Deluxe Version\)](https://open.spotify.com/album/1wCop93d6T0oG496Qman6b) | 4:05 | 2024-01-05 | 2024-04-19 |
-| [Bahagia](https://open.spotify.com/track/31swUEisRXt0oEz3iM6MOy) | [GAC \(Gamaliél Audrey Cantika\)](https://open.spotify.com/artist/3YYdJZO7kX8nwDzN3YJzdW) | [Bahagia](https://open.spotify.com/album/6DDxznSldww5bW8Zbi9EGg) | 3:42 | 2024-01-05 |  |
+| [Bahagia](https://open.spotify.com/track/31swUEisRXt0oEz3iM6MOy) | [GAC \(Gamaliél Audrey Cantika\)](https://open.spotify.com/artist/3YYdJZO7kX8nwDzN3YJzdW) | [Bahagia](https://open.spotify.com/album/6DDxznSldww5bW8Zbi9EGg) | 3:44 | 2024-01-05 |  |
 | [Bawalah Cintaku](https://open.spotify.com/track/3xpMytpniCnjXCgy7TcFDw) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [The One](https://open.spotify.com/album/7GfylFxRPXIGHwKZTPlURg) | 3:53 | 2024-01-05 |  |
 | [Bawalah Cintaku](https://open.spotify.com/track/0QZEPCT8uhyADw74umgwMT) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du), [Sheila Majid](https://open.spotify.com/artist/6ccyDNcfDQR2yDbF3JV0xl) | [DEKADE](https://open.spotify.com/album/7tXSAdhvFo8k9HNE5dK9Ym) | 5:16 | 2024-01-05 |  |
 | [Berawal Dari Tatap](https://open.spotify.com/track/4K0YdYv8a6UC9fWi9hV5MH) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [YURA](https://open.spotify.com/album/6xzJINIJok2KZur8OzQQT8) | 4:21 | 2024-01-05 |  |

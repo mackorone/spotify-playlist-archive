@@ -71,7 +71,7 @@
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 258399,
+      "duration_ms": 258296,
       "name": "Beat It",
       "url": "https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw"
     },
@@ -107,7 +107,7 @@
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 294226,
+      "duration_ms": 293802,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj"
     },
@@ -233,7 +233,7 @@
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 365466,
+      "duration_ms": 364441,
       "name": "Don't Stop 'Til You Get Enough",
       "url": "https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ"
     },
@@ -291,7 +291,7 @@
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 277640,
+      "duration_ms": 277994,
       "name": "Get on the Floor",
       "url": "https://open.spotify.com/track/78XG7U0UueeC86XpzF9O7f"
     },
@@ -403,7 +403,7 @@
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 246040,
+      "duration_ms": 245837,
       "name": "Human Nature",
       "url": "https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t"
     },
@@ -421,7 +421,7 @@
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 269333,
+      "duration_ms": 269041,
       "name": "I Can't Help It",
       "url": "https://open.spotify.com/track/1HibhNhwk2tljwC4BGGLXV"
     },
@@ -503,6 +503,24 @@
     },
     {
       "album": {
+        "name": "Bad (Remastered)",
+        "url": "https://open.spotify.com/album/3Us57CjssWnHjTUIXBuIeH"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232801,
+      "name": "Liberian Girl - 2012 Remastered Version",
+      "url": "https://open.spotify.com/track/2WzQbiXKpmRNLWXbqo8Z7b"
+    },
+    {
+      "album": {
         "name": "Bad 25th Anniversary",
         "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
       },
@@ -514,7 +532,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 232801,
       "name": "Liberian Girl - 2012 Remastered Version",
       "url": "https://open.spotify.com/track/5OoRmdDfAiDztSwrhe7wuE"
@@ -591,7 +609,7 @@
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 246000,
+      "duration_ms": 245778,
       "name": "Off the Wall",
       "url": "https://open.spotify.com/track/3zYpRGnnoegSpt3SguSo3W"
     },
@@ -627,7 +645,7 @@
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 239026,
+      "duration_ms": 238333,
       "name": "P.Y.T. (Pretty Young Thing)",
       "url": "https://open.spotify.com/track/1CgmY8fVN7kstVDZmsdM5k"
     },
@@ -663,7 +681,7 @@
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 220626,
+      "duration_ms": 219926,
       "name": "Rock with You - Single Version",
       "url": "https://open.spotify.com/track/7oOOI85fVQvVnK5ynNMdW7"
     },
@@ -801,7 +819,7 @@
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 222333,
+      "duration_ms": 222152,
       "name": "The Girl Is Mine (with Paul McCartney)",
       "url": "https://open.spotify.com/track/4IT6vDuKprKl6jyVndlY8V"
     },
@@ -945,7 +963,7 @@
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 313693,
+      "duration_ms": 312532,
       "name": "Workin' Day and Night",
       "url": "https://open.spotify.com/track/6BdiFsPMPkSEEO4fFXFVWX"
     },

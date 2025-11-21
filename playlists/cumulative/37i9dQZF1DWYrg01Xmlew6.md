@@ -4,7 +4,7 @@
 
 > Rap napoletano e il meglio della scena campana\. Le\-one in cover.
 
-538 songs - 1 day 0 hr 31 min
+539 songs - 1 day 0 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,6 +246,7 @@
 | [Love Song](https://open.spotify.com/track/0tHNfx3jrnG65IiGj9PP4L) | [Ntò](https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96) | [999](https://open.spotify.com/album/22oy1c4fMawK7VbulvH89W) | 3:24 | 2022-06-09 | 2024-04-26 |
 | [Love Song](https://open.spotify.com/track/7pVs5d0hPKE2RUruztOEx3) | [Ntò](https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96) | [999](https://open.spotify.com/album/5VmmhTJMQvJIXdb4pEgynz) | 3:24 | 2022-07-28 | 2024-04-19 |
 | [LUCE](https://open.spotify.com/track/5XrYC2Z3xsIgx5jvBBuyWH) | [Hosawa](https://open.spotify.com/artist/0CA0vPSeG4YNObQrpfUq8H) | [LUCE](https://open.spotify.com/album/0VdHdzakwR6BsQ1V6KY4mC) | 2:30 | 2023-03-23 | 2023-04-14 |
+| [LUMINOR](https://open.spotify.com/track/4L54Nd3uiIFYMNzBL3j8CT) | [Christian Liguori](https://open.spotify.com/artist/0ozb4x3nqp8fRb2WRgNKEn) | [LUMINOR](https://open.spotify.com/album/7vtQ66PsP8pFPkkRguuSz1) | 2:20 | 2025-11-20 |  |
 | [Lupare \(feat\. IvanBi\)](https://open.spotify.com/track/2sLyF6Upnl1DR8mNBRk0yK) | [Cecchy](https://open.spotify.com/artist/2yLVjmzpKCw0B7SKpWeZjN), [VGL](https://open.spotify.com/artist/2UBRm5C4xz5j21IEf5UonV), [IvanBi](https://open.spotify.com/artist/0bmPz6WAJMsuDLY5QtSYtg) | [PNTWINS](https://open.spotify.com/album/43jNfQrxWhj6m0Yms8PJDn) | 3:14 | 2025-07-24 | 2025-09-05 |
 | [M Serv Na 9 \(feat\. Dipinto\)](https://open.spotify.com/track/2mHWTJ9MRggZObUWsis90w) | [DDM 80146](https://open.spotify.com/artist/0G8zq8IrKIR5at4Lsq2XmV), [Dipinto](https://open.spotify.com/artist/26toJml6wSdf58ZgNG0ci9) | [M Serv Na 9 \(feat\. Dipinto\)](https://open.spotify.com/album/0J5VZrPpgLGawsjP7Yev9K) | 2:10 | 2025-11-13 |  |
 | [Ma che piens' tu?](https://open.spotify.com/track/740hWZmeUsZ4Yw3MYlYL9W) | [Peppe Soks](https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT), [Garelli](https://open.spotify.com/artist/5appupCr1pI8I1k3AWstc6), [Nebbia](https://open.spotify.com/artist/5ySwuZsGB1USoDuIVW2zyr) | [Ma che piens' tu?](https://open.spotify.com/album/5yu6jYHXMmqugqbuw9kaYd) | 2:14 | 2024-02-15 | 2024-04-12 |

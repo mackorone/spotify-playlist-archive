@@ -1,13 +1,53 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124777,
+  "num_followers": 124772,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAU1GANV5j94FGia1MPBO0ud09oRBzD",
+  "snapshot_id": "AAAU1pguhaxGhHIn0nojHerHOeDWV0St",
   "tracks": [
+    {
+      "added_at": "2025-11-20 14:42:45",
+      "album": {
+        "name": "Before I Go",
+        "url": "https://open.spotify.com/album/1GSUJcKaEBCio5XhM6mWE3"
+      },
+      "artists": [
+        {
+          "name": "Trivecta",
+          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
+        },
+        {
+          "name": "vanru",
+          "url": "https://open.spotify.com/artist/0BLfDCxhXd4mFmVv1KjJjV"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Before I Go",
+      "url": "https://open.spotify.com/track/7cRN38N0djEeO6YDFAtHrc"
+    },
+    {
+      "added_at": "2025-11-20 14:43:00",
+      "album": {
+        "name": "Badman",
+        "url": "https://open.spotify.com/album/6Yo7t2gb7REk2erv5sBpWh"
+      },
+      "artists": [
+        {
+          "name": "Malaa (Alter Ego)",
+          "url": "https://open.spotify.com/artist/23OllNLLdftM8a6HhEhAi9"
+        },
+        {
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+        }
+      ],
+      "duration_ms": 206292,
+      "name": "Badman",
+      "url": "https://open.spotify.com/track/0EgZN1lzPldXsSxmpRQMxN"
+    },
     {
       "added_at": "2025-11-19 15:20:35",
       "album": {

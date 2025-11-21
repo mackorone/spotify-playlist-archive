@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-467 songs - 1 day 3 hr 21 min
+468 songs - 1 day 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,13 +195,14 @@
 | [I Will See You](https://open.spotify.com/track/6qmXfmVuBXJw9iZML0k6cr) | [Doug Seegers](https://open.spotify.com/artist/2WO6GcXH1rWwzge9wOnuxm), [Eva Eastwood](https://open.spotify.com/artist/0Oab0T0VwxapaYLWgHFWhH) | [I Will See You](https://open.spotify.com/album/1OnU4nZKqwyvRQzvewu7sc) | 4:32 | 2024-08-08 | 2024-09-16 |
 | [I Wrote Your Name \(Upon My Heart\)](https://open.spotify.com/track/6x52Hw5bZEpGbp3Ir6k7FJ) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [I Wrote Your Name \(Upon My Heart\)](https://open.spotify.com/album/6eZoMvARr3RHr8Xmteqcnu) | 3:20 | 2024-09-06 | 2025-04-11 |
 | [I'm Coming Home](https://open.spotify.com/track/16gL4P1H5psxy9Zvg5kkDT) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [I'm Coming Home](https://open.spotify.com/album/6r9fKa9NKfZtwbXTVdf3Es) | 3:57 | 2024-06-27 | 2024-08-30 |
-| [ICONIC](https://open.spotify.com/track/35OYbuQ13AT4lSgk5C3Txv) | [Maja Ivarsson](https://open.spotify.com/artist/7mZEi87Lf4Bxy4XQwIyOEK) | [ICONIC](https://open.spotify.com/album/5s1DZmhfJzyl3jaWKtVaS7) | 2:41 | 2025-06-12 |  |
+| [ICONIC](https://open.spotify.com/track/35OYbuQ13AT4lSgk5C3Txv) | [Maja Ivarsson](https://open.spotify.com/artist/7mZEi87Lf4Bxy4XQwIyOEK) | [ICONIC](https://open.spotify.com/album/5s1DZmhfJzyl3jaWKtVaS7) | 2:41 | 2025-06-12 | 2025-11-21 |
 | [If You Ever Change Your Mind](https://open.spotify.com/track/3V8FBJTwNcEX62NifPPJKI) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Discomforts](https://open.spotify.com/album/5qGpZMR4RN6UO2499HTpjs) | 2:48 | 2024-09-26 | 2025-04-25 |
 | [If You Lose Her, You're A Loser](https://open.spotify.com/track/1saALmRZoydumb6RaXpZnh) | [Jill Johnson](https://open.spotify.com/artist/2aaGbpl5Y2ykZsNFZM6ofw) | [I'm Not Dead Yet](https://open.spotify.com/album/0w1LDFIYZGBrvgAGHXiwbM) | 3:19 | 2024-08-22 | 2024-10-11 |
 | [Ingen annan](https://open.spotify.com/track/6T0osqi96g9nymFKsVXEYq) | [Jens Hult](https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu) | [Sånger om dig](https://open.spotify.com/album/39Omlw9UP2xAI1Tbf8NQKz) | 2:54 | 2024-09-12 | 2025-04-25 |
 | [Ingen så nära inpå](https://open.spotify.com/track/70TN7mZ1pZRYjPQ5RwM5k9) | [The Tarantula Waltz](https://open.spotify.com/artist/7KqyMhqYoujfdaQZni6iUR), [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [Ingen så nära inpå](https://open.spotify.com/album/2rNpEKVQCXNsbIFqMqNzcP) | 3:57 | 2024-08-08 | 2024-10-06 |
 | [Ingen vet](https://open.spotify.com/track/2bj5vOx7gLu5zO8MrNNw50) | [Lancelot](https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap) | [Ingen vet](https://open.spotify.com/album/6tYv9DYTSiUR2xY15qru1r) | 2:40 | 2025-08-21 |  |
 | [Inget halleluja](https://open.spotify.com/track/4k5DrIPXSfB1nDxjQcAkyV) | [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe) | [Inget halleluja](https://open.spotify.com/album/4wJROHXVthUZyZofON9tj8) | 3:56 | 2024-06-27 | 2024-08-23 |
+| [Inner City Ghosts](https://open.spotify.com/track/1wQ00RmlR3rtTdQXui3xrh) | [Johnossi](https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT) | [](https://open.spotify.com/album/null) | 3:49 | 2025-11-20 |  |
 | [Inte som alla andra, precis som alla andra \(feat\. Joakim Berg\)](https://open.spotify.com/track/0BJotiVMsdxDSC7HfyitNP) | [Peder Stenberg](https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2), [Joakim Berg](https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC) | [Inte som alla andra, precis som alla andra \(feat\. Joakim Berg\)](https://open.spotify.com/album/6kMOJcNPk2df3WnSeKpuQD) | 4:30 | 2025-05-15 |  |
 | [Isn’t That Enough](https://open.spotify.com/track/4fbxssdJB51UuMQiYQFxiI) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn](https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE) | 2:44 | 2024-08-08 | 2025-04-04 |
 | [It's a love cult!](https://open.spotify.com/track/0Dd8kzlLm9vYXCsWb0esp6) | [Friska Viljor](https://open.spotify.com/artist/3gToxmSxuAo27Aa0wD8Yul) | [It's a love cult!](https://open.spotify.com/album/0mAz5bcUPnLs7gL9liXUyi) | 2:54 | 2025-04-24 | 2025-07-14 |

@@ -4,7 +4,7 @@
 
 > These are some independent alternative rock bands you need to hear.
 
-71 songs - 4 hr 13 min
+74 songs - 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Cold](https://open.spotify.com/track/6mZP2DP0b0iI2HYrPduDaE) | [Courtney Nord](https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX) | [Cold](https://open.spotify.com/album/0kK3HC6RY9nFjnWeQtiy2k) | 2:53 | 2025-09-21 |  |
 | [Coping](https://open.spotify.com/track/0OzYP6QaMX7DIQaBkaIHv6) | [Cam Get'm](https://open.spotify.com/artist/5fma43UccUMYLftsgZWoWh), [Yung Father](https://open.spotify.com/artist/1u060weQXyTEVdGPZEfIM7) | [Coping](https://open.spotify.com/album/5oWwyfSLZVbtxJ6lGquURw) | 3:50 | 2025-11-07 |  |
 | [Dagger](https://open.spotify.com/track/2z085z3HP9wxC1NbZg0l75) | [Rhaina Yasmin](https://open.spotify.com/artist/0HRstpwKkdAHomEsGun6Id) | [Dagger](https://open.spotify.com/album/3uBwu021Fop6TxolWGkf65) | 4:18 | 2025-11-16 |  |
+| [Dawn](https://open.spotify.com/track/1e8P6fOEsD7BiL90I44SvV) | [Esto](https://open.spotify.com/artist/5cmFrTgCBXRON8kjkHUZE3) | [Dawn](https://open.spotify.com/album/3TtpnGvEcJIZXR0Gzyivgw) | 4:05 | 2025-11-20 |  |
 | [Dayglo](https://open.spotify.com/track/3QQFWRQrpvM4O1EioIQomK) | [Silver Shores](https://open.spotify.com/artist/7laeihpH4jaoYZhJtZ25Kd) | [Dayglo](https://open.spotify.com/album/6FAdnYTdRTjBlFlLljiKb7) | 3:43 | 2025-11-17 |  |
 | [Desert is blind](https://open.spotify.com/track/5H8nFIaeVEmLLGZriXwC8T) | [Khoora](https://open.spotify.com/artist/2SEpC1uryEwjK4RxLtxZlY) | [Desert is blind](https://open.spotify.com/album/2mzEWMMSS4pH88svJWzbwD) | 4:01 | 2025-09-17 |  |
 | [Disaster](https://open.spotify.com/track/3aAMBTuhmlMEsKgLEyo4v1) | [Hearts Fail](https://open.spotify.com/artist/0g30Kbxw2uxutv0sMGk80s) | [You Are Never Alone](https://open.spotify.com/album/1J5WUaoUFhuSjE0Z3mpwMs) | 5:34 | 2025-09-06 |  |
@@ -46,6 +47,7 @@
 | [Lifespan](https://open.spotify.com/track/061iJoemR1JeGwFZa0339j) | [Cormac O Caoimh](https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt) | [Lifespan](https://open.spotify.com/album/3wOlsRSBN05i4lfp9zYhBy) | 2:22 | 2025-10-10 |  |
 | [Lost](https://open.spotify.com/track/3i6p5Xd3KUc6wVqE0oeWLp) | [Pushing Pluto](https://open.spotify.com/artist/0uTUjIAw0qQDX1thZoEQFQ), [Otonomi](https://open.spotify.com/artist/1m6cQu7gwgCJ9trZ5cgoNV) | [Lost](https://open.spotify.com/album/1NEkjw7DnsLK3i6xtXohyE) | 3:37 | 2025-11-20 |  |
 | [Mother of Time](https://open.spotify.com/track/2q0rnBYEAkjWnkKRXv2M7a) | [FourJN](https://open.spotify.com/artist/5JGuRETSauFw2ur3SlobHY) | [Mother of Time](https://open.spotify.com/album/5HaWf762zb0lF6udfxXp86) | 5:02 | 2025-09-25 |  |
+| [Mountainside](https://open.spotify.com/track/67pdwschvXYd3FnxYtvc5s) | [Shepherd Bridge](https://open.spotify.com/artist/7IWPSLFSNkPvI3upDX39f1) | [Lucy and the Voyager](https://open.spotify.com/album/7jHjn4K2XURXATynQZkrEv) | 3:43 | 2025-11-20 |  |
 | [Movimento Barraco](https://open.spotify.com/track/6qAtUlwjZFrpUs8ITyTycQ) | [Peyote](https://open.spotify.com/artist/2jlDdJ58pw1y20cCSrmbPF), [Carbono](https://open.spotify.com/artist/7pjey9YZRudRWPkwyM0L7B), [Helena](https://open.spotify.com/artist/68ykJPo7z4VMBaaLo3ENaE) | [Movimento Barraco](https://open.spotify.com/album/7r9tmeiUiNZ9kNVnegNrwk) | 3:17 | 2025-10-01 |  |
 | [My Wings](https://open.spotify.com/track/4uvvxklqvcOxTrNdvnZTco) | [Bliss On The Stars](https://open.spotify.com/artist/6mVn8YjdSG1C5PxcksAeiU) | [My Wings](https://open.spotify.com/album/5YBEL7PVdJsWTwPOBxlpCQ) | 4:24 | 2025-11-17 |  |
 | [Old Sweat](https://open.spotify.com/track/17RHFuUZb9CrGjB4y8h4KJ) | [Manitou](https://open.spotify.com/artist/36i9KKE23xsb5zr83GjfXS) | [Old Sweat](https://open.spotify.com/album/4lsnFTfPKk4YwTGGiBdRKe) | 3:05 | 2025-11-08 |  |
@@ -53,6 +55,7 @@
 | [Our Path](https://open.spotify.com/track/0wLvmx2XhFfSipYnbsnSYL) | [Rich Packman](https://open.spotify.com/artist/0QCcrb1f3NFZleDodMIMU7) | [3AM Thoughts](https://open.spotify.com/album/3QlI5crNjxyuTbNMXSEEPm) | 3:56 | 2025-09-02 |  |
 | [Pain](https://open.spotify.com/track/1zwMKnJT3310A8q3Diwsam) | [Moontalks](https://open.spotify.com/artist/6yOLpceZAYKJKtxJaNeM5n) | [Pain](https://open.spotify.com/album/48n7z6FWoZaReBfUtx9UU6) | 2:54 | 2025-11-01 |  |
 | [Perfect life](https://open.spotify.com/track/7MqtvOVB7fIqwaOFE8Upjk) | [Jivarp](https://open.spotify.com/artist/0BGkkx9kCUionEhgkwekU8) | [Perfect life](https://open.spotify.com/album/1rg4ZejsarO8YjR7fyu26X) | 2:44 | 2025-11-04 |  |
+| [POV \(YOU\)](https://open.spotify.com/track/59Iiv7YFhhpKKF4IWTDXp2) | [FEDZ](https://open.spotify.com/artist/3ZoN7RJDhdtnxOzijkmJKO) | [POV \(YOU\)](https://open.spotify.com/album/09tl9b1a9v1tYKPlXBWHt9) | 3:51 | 2025-11-20 |  |
 | [Predictable](https://open.spotify.com/track/58uPzPjEmM93usVWgvdezo) | [Jake Rouson](https://open.spotify.com/artist/2y9f6Ij6xnhBBjpyEl5hjH) | [Predictable](https://open.spotify.com/album/0yzYOpUWL4n1kF8sGJ7eM6) | 3:41 | 2025-11-02 |  |
 | [Pressure](https://open.spotify.com/track/3UvIypxD8ObioUD8gtNkEW) | [Courtney Nord](https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX) | [wild](https://open.spotify.com/album/1q9YI2XfYT3q2cwmYBgf32) | 3:15 | 2025-10-10 |  |
 | [Promise](https://open.spotify.com/track/4yf68yKUyaTUXcDJBZLxcq) | [AliveTeen](https://open.spotify.com/artist/3U04ccY2KO6Va35na7FX7R) | [Promise](https://open.spotify.com/album/3JLjeDF9JXTuUnrZyMMx2v) | 3:55 | 2025-11-01 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Hatchie
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,101 likes - 149 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,091 likes - 149 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

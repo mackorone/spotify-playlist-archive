@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Latest music from Dhvani Bhanushali, Salim-Sulaiman with Papon & Shreya Ghoshal and more.",
+  "description": "Latest music from King, Aditya Dev, Chaar Diwaari and more.",
   "name": "New Music Friday I-Pop ",
   "tracks": [
     {
@@ -3603,6 +3603,28 @@
     },
     {
       "album": {
+        "name": "Banda Kaam Ka",
+        "url": "https://open.spotify.com/album/2QvGrnZintTpOvYzviVS4t"
+      },
+      "artists": [
+        {
+          "name": "Chaar Diwaari",
+          "url": "https://open.spotify.com/artist/2n4q8jLM4WLwlva1sZ2WRx"
+        },
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248947,
+      "name": "Banda Kaam Ka",
+      "url": "https://open.spotify.com/track/6vH6xKa1vh9ihWrLYZAmU8"
+    },
+    {
+      "album": {
         "name": "Banda Tera Aashiq Ho Gaya",
         "url": "https://open.spotify.com/album/1guBhG9vWrKeUALtliqCVB"
       },
@@ -4030,7 +4052,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 236304,
       "name": "Bas Tera",
       "url": "https://open.spotify.com/track/4Z7A6HSaZQIuZzJTtmuLpg"
@@ -4674,6 +4696,36 @@
       "duration_ms": 180840,
       "name": "BETWEEN FLOWERS",
       "url": "https://open.spotify.com/track/1XjapKb8GMXCoO2WuWlX8x"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Denny",
+          "url": "https://open.spotify.com/artist/6KozIqto3bkoQp4lksicOA"
+        },
+        {
+          "name": "Rishi Rich",
+          "url": "https://open.spotify.com/artist/2DpITTpb4v5SQtB3iA4A44"
+        },
+        {
+          "name": "Junaid Ahmed",
+          "url": "https://open.spotify.com/artist/59bhZii0sIi41aSgxXEK4E"
+        },
+        {
+          "name": "Mandy Gill",
+          "url": "https://open.spotify.com/artist/7otohmxIFI9XGwdj1XWw5k"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178329,
+      "name": "Bewafa",
+      "url": "https://open.spotify.com/track/7w98XXwu7fVzWhRCRbOAjt"
     },
     {
       "album": {
@@ -5348,7 +5400,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 176888,
       "name": "Bulaye Naina",
       "url": "https://open.spotify.com/track/3l3IcXZuuiyDHWb5AgmrlV"
@@ -13459,6 +13511,32 @@
     },
     {
       "album": {
+        "name": "Ishare",
+        "url": "https://open.spotify.com/album/01zEZ7uSgxKn2zj1KwJcba"
+      },
+      "artists": [
+        {
+          "name": "Pragati Nagpal",
+          "url": "https://open.spotify.com/artist/5LUjJOXtKNWa7AmUOJbWgH"
+        },
+        {
+          "name": "Shaan",
+          "url": "https://open.spotify.com/artist/4UYxD7mip9XA727Lz9z88e"
+        },
+        {
+          "name": "Hiten",
+          "url": "https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130588,
+      "name": "Ishare",
+      "url": "https://open.spotify.com/track/52PV2158YRyiXkrJWpcvYx"
+    },
+    {
+      "album": {
         "name": "Ishq",
         "url": "https://open.spotify.com/album/19cz43J1njmG9BoA5AgfiM"
       },
@@ -16823,6 +16901,28 @@
     },
     {
       "album": {
+        "name": "Kamaal Hai",
+        "url": "https://open.spotify.com/album/7vG3uRojLPMdBznnbpO2TR"
+      },
+      "artists": [
+        {
+          "name": "King",
+          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
+        },
+        {
+          "name": "Aditya Dev",
+          "url": "https://open.spotify.com/artist/2IX6xq1cVcBoD4obUsT5xs"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228461,
+      "name": "Kamaal Hai",
+      "url": "https://open.spotify.com/track/5ymJ795K518y3ACGAytG4l"
+    },
+    {
+      "album": {
         "name": "Kamli",
         "url": "https://open.spotify.com/album/0lZl7uZfcSPkN3qRD7Q7TC"
       },
@@ -19527,6 +19627,32 @@
     },
     {
       "album": {
+        "name": "Le Jayenge Tere Sajna",
+        "url": "https://open.spotify.com/album/6sx8VbznUx2bQp50zTqF8O"
+      },
+      "artists": [
+        {
+          "name": "Pawan Singh",
+          "url": "https://open.spotify.com/artist/1T7MiVJ2MJlR5GKi11w4VT"
+        },
+        {
+          "name": "Palak Muchhal",
+          "url": "https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr"
+        },
+        {
+          "name": "Shabbir Ahmed",
+          "url": "https://open.spotify.com/artist/6KZ6c43Dnjm6STHZ6avQU1"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254165,
+      "name": "Le Jayenge Tere Sajna",
+      "url": "https://open.spotify.com/track/2QqJuevuNFAK8pkAECODLW"
+    },
+    {
+      "album": {
         "name": "Learn To Love",
         "url": "https://open.spotify.com/album/0KcRvG80OuG5emQMmV45kT"
       },
@@ -21328,7 +21454,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 262424,
       "name": "Meetha Khaara | Coke Studio Bharat",
       "url": "https://open.spotify.com/track/3K5KK5oFQ3IENpO9TMb5U6"
@@ -25650,7 +25776,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 120923,
       "name": "Pols",
       "url": "https://open.spotify.com/track/4EpKRtkdwOQGmX1YCDsq1d"
@@ -27314,7 +27440,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 207290,
       "name": "Ruk Ja",
       "url": "https://open.spotify.com/track/2XuqqA62np8iBUAxIzDUCB"
@@ -27367,7 +27493,7 @@
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 168960,
+      "duration_ms": 168120,
       "name": "Rum Rum Rum",
       "url": "https://open.spotify.com/track/40WiRVYLt461xQM31KIbMc"
     },
@@ -27938,6 +28064,28 @@
       "duration_ms": 184615,
       "name": "Sab Rab",
       "url": "https://open.spotify.com/track/04fUBhT63GeEuOhoIONitJ"
+    },
+    {
+      "album": {
+        "name": "Sabar",
+        "url": "https://open.spotify.com/album/15R4IQGIUHcpYe9FCERB5W"
+      },
+      "artists": [
+        {
+          "name": "Vikram Montrose",
+          "url": "https://open.spotify.com/artist/0aXLGxJ65wok0y1bVG6flg"
+        },
+        {
+          "name": "Farhad Bhiwandiwala",
+          "url": "https://open.spotify.com/artist/4MXbaLKhqWdVXp5RzYQPa0"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173437,
+      "name": "Sabar",
+      "url": "https://open.spotify.com/track/4pnO8x9mxBYeEUn15QM6JS"
     },
     {
       "album": {
@@ -29100,7 +29248,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 211455,
       "name": "Sawaal",
       "url": "https://open.spotify.com/track/7FfCxoiaShMahjnHEGLGNu"
@@ -29198,7 +29346,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 201054,
       "name": "Seen",
       "url": "https://open.spotify.com/track/0n4khzo44PC6HfMFZ1Y1MW"
@@ -30180,7 +30328,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 323707,
       "name": "Sukoon (From \"Bhoomi 2025\")",
       "url": "https://open.spotify.com/track/2biyIvVEqdMCDmVAxMfI5H"
@@ -35889,6 +36037,32 @@
     },
     {
       "album": {
+        "name": "Yaad Tumari Aayi (From \"Bhoomi 2025\")",
+        "url": "https://open.spotify.com/album/35PnJQ4gDiAoE1NrH4abgp"
+      },
+      "artists": [
+        {
+          "name": "Pawandeep Rajan",
+          "url": "https://open.spotify.com/artist/3cy473zaKsJ7eo6l3t8SKd"
+        },
+        {
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+        },
+        {
+          "name": "Suresh Rajan",
+          "url": "https://open.spotify.com/artist/5g70zjT9kNXPgJJQuLgiZs"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261750,
+      "name": "Yaad Tumari Aayi (From \"Bhoomi 2025\")",
+      "url": "https://open.spotify.com/track/4Hcr5UDuZsVDo3UYhnukVG"
+    },
+    {
+      "album": {
         "name": "Yaadein Roz Aati Hain",
         "url": "https://open.spotify.com/album/3lzJCKe2xQXnQKNTzlmJTE"
       },
@@ -36238,6 +36412,24 @@
       "duration_ms": 176888,
       "name": "Yeh Zindagi Hai",
       "url": "https://open.spotify.com/track/4HesGCORky6hKWswrwodiD"
+    },
+    {
+      "album": {
+        "name": "You & I",
+        "url": "https://open.spotify.com/album/68ld620Tx7IlPXWRnVn2al"
+      },
+      "artists": [
+        {
+          "name": "DIVINE",
+          "url": "https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211784,
+      "name": "You & I",
+      "url": "https://open.spotify.com/track/1UhwJHL94SwSZk9jUsleHF"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "A new world of alternative noise. Cover: Mini Skirt",
+  "description": "A new world of alternative noise. Cover: Public Figures",
   "name": "Wire",
   "tracks": [
     {
@@ -99,6 +99,24 @@
     },
     {
       "album": {
+        "name": "Black & Blue",
+        "url": "https://open.spotify.com/album/5TFe3QVQa0BEaHBKK21Pa9"
+      },
+      "artists": [
+        {
+          "name": "The Lonesomes",
+          "url": "https://open.spotify.com/artist/2WuHTgLaodw4synbCPjn3c"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199013,
+      "name": "Black & Blue",
+      "url": "https://open.spotify.com/track/69L556M1aoKnPLoI3LcmaD"
+    },
+    {
+      "album": {
         "name": "If Not Winter",
         "url": "https://open.spotify.com/album/6R21I5E805CLZmDn8vESQM"
       },
@@ -114,6 +132,28 @@
       "duration_ms": 265293,
       "name": "Black swan",
       "url": "https://open.spotify.com/track/4Xu6PC9zAzBECTYAEY9glE"
+    },
+    {
+      "album": {
+        "name": "Blisters (feat. Noah Learmonth)",
+        "url": "https://open.spotify.com/album/0slU8BRWpMKzOep39Rd59b"
+      },
+      "artists": [
+        {
+          "name": "Sex Mask",
+          "url": "https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ"
+        },
+        {
+          "name": "Noah Learmonth",
+          "url": "https://open.spotify.com/artist/6Q9ndqe5oLP6PbgENxW1Pp"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210946,
+      "name": "Blisters (feat. Noah Learmonth)",
+      "url": "https://open.spotify.com/track/4LSg5nCsJ35jHA1vRqBRhR"
     },
     {
       "album": {
@@ -525,6 +565,24 @@
     },
     {
       "album": {
+        "name": "Big Modern",
+        "url": "https://open.spotify.com/album/07Grit2srI4QYHsXbE0zIX"
+      },
+      "artists": [
+        {
+          "name": "Big Modern",
+          "url": "https://open.spotify.com/artist/6YqLPGpAOXTBVndsTaQXxp"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66360,
+      "name": "Gatekeep",
+      "url": "https://open.spotify.com/track/78WLXqaqyu9PeUbMjvF5iQ"
+    },
+    {
+      "album": {
         "name": "Golden Boy",
         "url": "https://open.spotify.com/album/7ukf25x1Denwo0UbDfaEXx"
       },
@@ -764,7 +822,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 212157,
       "name": "Long Line",
       "url": "https://open.spotify.com/track/2hj5Qm88WoLdKPut2KGoRD"
@@ -836,7 +894,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 241499,
       "name": "Nausea",
       "url": "https://open.spotify.com/track/4NyZSDjtIfz27tSVGnd3uu"
@@ -969,6 +1027,24 @@
     },
     {
       "album": {
+        "name": "BIRDBRAIN / PIG",
+        "url": "https://open.spotify.com/album/7hWvLBn1TarX302yU3QmUq"
+      },
+      "artists": [
+        {
+          "name": "These New South Whales",
+          "url": "https://open.spotify.com/artist/0srVTNI2U8J7vytCTprEk4"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118280,
+      "name": "PIG",
+      "url": "https://open.spotify.com/track/33qLbrztG3T7A4YLqO88BM"
+    },
+    {
+      "album": {
         "name": "PIRATE RADIO",
         "url": "https://open.spotify.com/album/1bxj95VYRQYbEzaEHD3fp3"
       },
@@ -1074,7 +1150,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 226266,
       "name": "Rabbit Run - From the \"Caught Stealing\" Original Motion Picture Soundtrack",
       "url": "https://open.spotify.com/track/1uA4NmAjuQIaM2hcOzftFx"
@@ -1348,7 +1424,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 197385,
       "name": "Swamped",
       "url": "https://open.spotify.com/track/18m8UwkEJvXk7EQEv4q4sD"
@@ -1514,10 +1590,28 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 135831,
       "name": "Uno II",
       "url": "https://open.spotify.com/track/2CHdkhVS2Nh0fIEdzpokC7"
+    },
+    {
+      "album": {
+        "name": "Unravel",
+        "url": "https://open.spotify.com/album/0tibtVhSBn7hILu0brCz8e"
+      },
+      "artists": [
+        {
+          "name": "Radium Dolls",
+          "url": "https://open.spotify.com/artist/5XdOr2J2sgTI4mEE6j9KYr"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226574,
+      "name": "Unravel",
+      "url": "https://open.spotify.com/track/3ez0xKG3l1OrHFZ6wy64OB"
     },
     {
       "album": {

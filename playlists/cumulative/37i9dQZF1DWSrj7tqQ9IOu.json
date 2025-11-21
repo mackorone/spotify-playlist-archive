@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Le meilleur de l'indie fran\u00e7ais. Cover : BLOWSOM",
+  "description": "Le meilleur de l'indie fran\u00e7ais. Cover : Heroe",
   "name": "Made in France",
   "tracks": [
     {
@@ -1728,7 +1728,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 207186,
       "name": "Caillou",
       "url": "https://open.spotify.com/track/0wWL9MSiC4eGhdsVNVKfSq"
@@ -2126,7 +2126,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 120988,
       "name": "Cigarette \u00e0 la bouche",
       "url": "https://open.spotify.com/track/1XUDuhvC5y8B2PkB71C6ci"
@@ -2484,6 +2484,24 @@
       "duration_ms": 155345,
       "name": "Countdown",
       "url": "https://open.spotify.com/track/1HhYxHF78fiSUlNAqQNozH"
+    },
+    {
+      "album": {
+        "name": "coup de vent",
+        "url": "https://open.spotify.com/album/6beHhebz4qt4kmCmbFEvAh"
+      },
+      "artists": [
+        {
+          "name": "DO not DO",
+          "url": "https://open.spotify.com/artist/7ipFE8S09qHrx6zoLKVGqi"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220167,
+      "name": "coup de vent",
+      "url": "https://open.spotify.com/track/7bgL5HIj6yUwrew8SyVK20"
     },
     {
       "album": {
@@ -5271,6 +5289,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9lanie Pain",
+          "url": "https://open.spotify.com/artist/2Sk0H4rS0QuQESESHELFy0"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261146,
+      "name": "How and Why",
+      "url": "https://open.spotify.com/track/1ZZzsWH20AiwCQnsTHxbnW"
+    },
+    {
+      "album": {
         "name": "HOW STRANGE?",
         "url": "https://open.spotify.com/album/29KjlAdATsp7XF6Pp08fXa"
       },
@@ -7450,7 +7486,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 180936,
       "name": "Lose My Baby",
       "url": "https://open.spotify.com/track/5eCOa3hoQCgAEUDnaNJELZ"
@@ -10396,6 +10432,24 @@
     {
       "album": {
         "name": "Rendez-Vous",
+        "url": "https://open.spotify.com/album/2FXOuq50r73n97WB4SrdiN"
+      },
+      "artists": [
+        {
+          "name": "Amou\u00eb",
+          "url": "https://open.spotify.com/artist/5hxkInZtrkxDnUjsRqs5Ww"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148968,
+      "name": "Rendez-Vous",
+      "url": "https://open.spotify.com/track/3lNR14zilwrsfzhR2xdjz8"
+    },
+    {
+      "album": {
+        "name": "Rendez-Vous",
         "url": "https://open.spotify.com/album/3dsqMctn4QRKBgnkOKjQy9"
       },
       "artists": [
@@ -11787,6 +11841,28 @@
     },
     {
       "album": {
+        "name": "on s'en rappellera pas",
+        "url": "https://open.spotify.com/album/2TLKicTW4h5Xpky6AinYq5"
+      },
+      "artists": [
+        {
+          "name": "disiz",
+          "url": "https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g"
+        },
+        {
+          "name": "Laurent Voulzy",
+          "url": "https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168546,
+      "name": "surfeur",
+      "url": "https://open.spotify.com/track/3tnZeBwja2XTIcNqryAVFK"
+    },
+    {
+      "album": {
         "name": "su\u00e7on",
         "url": "https://open.spotify.com/album/6psqQ6lsCbrprz14fltulY"
       },
@@ -12038,6 +12114,24 @@
       "duration_ms": 145093,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/7jSlSSgWxKkFctkSpYUHTv"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Astels",
+          "url": "https://open.spotify.com/artist/4azViUTvRLgNwb3GmtZvii"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173172,
+      "name": "That Girl",
+      "url": "https://open.spotify.com/track/367jZlkmOpSqMGwjlRvQrp"
     },
     {
       "album": {
@@ -12665,6 +12759,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Princesse",
+          "url": "https://open.spotify.com/artist/6btazhSPWJjAUX7Qvk8CEw"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 3",
+      "url": "https://open.spotify.com/track/3ikP559a41B8wyZAgtzEhf"
+    },
+    {
+      "album": {
         "name": "Hydranism",
         "url": "https://open.spotify.com/album/5Mp0oL6cdMJ1ODlpGpdUte"
       },
@@ -12952,7 +13064,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 190714,
       "name": "Un Premier Amour",
       "url": "https://open.spotify.com/track/3ACLBmxaG5SknHYGrsl7d3"
@@ -13252,7 +13364,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 202331,
       "name": "Villa d'\u00e9t\u00e9",
       "url": "https://open.spotify.com/track/5b9ynJg3oLzBSs087ubJzN"
@@ -13742,7 +13854,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 149546,
       "name": "Wonderful World",
       "url": "https://open.spotify.com/track/6nu3IwpAso6DJT3bXDwEiW"

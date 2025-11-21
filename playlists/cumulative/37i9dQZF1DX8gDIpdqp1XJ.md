@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock, neo\-psychedelic, and psychedelic indie.
 
-998 songs - 2 day 17 hr 3 min
+999 songs - 2 day 17 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Better Apart](https://open.spotify.com/track/3MRHPazKdgLvqjWmxVyaBo) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66), [Pink Skies](https://open.spotify.com/artist/52hSI2C4N5tiTqSRIvWfyV) | [Better Apart](https://open.spotify.com/album/0A5gXZPfmA4G0jpGjQv42o) | 2:47 | 2021-09-17 | 2022-04-20 |
 | [Better For Me](https://open.spotify.com/track/1fPgAlasrmolLvq1vDtkq3) | [Fake Laugh](https://open.spotify.com/artist/0T9yyggayix1EKjiq3hW2m) | [Better For Me](https://open.spotify.com/album/4zbPfW4Riu2mVCRAXFOwaD) | 4:15 | 2021-04-02 | 2022-04-21 |
 | [Big Wheel](https://open.spotify.com/track/0xN8Joju6WSnQqjyp1UoCU) | [Shannon & The Clams](https://open.spotify.com/artist/6A5Ns1SpGWTt8SzXPwiqVE) | [Big Wheel](https://open.spotify.com/album/7KUHkkV62w9hns96kcEEC1) | 3:02 | 2024-05-10 |  |
+| [Bin Bin ii](https://open.spotify.com/track/0JHgtUOQeGioOQZ3X5gaZ8) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [The Universe Smiles Upon You ii](https://open.spotify.com/album/45ZWDMMVK0N0Hd2p7fLTCB) | 1:45 | 2025-11-20 |  |
 | [Black Iris](https://open.spotify.com/track/03O3mBPounvOKETKr1aS3s) | [Sven Wunder](https://open.spotify.com/artist/2fQf2M7SkTwCv2MOEIP2Ly) | [Eastern Flowers \(Doğu Çiçekleri\)](https://open.spotify.com/album/1Z821RvawUQZ5ExkogGKCU) | 2:52 | 2022-04-20 | 2022-07-25 |
 | [Blacklight Shine](https://open.spotify.com/track/4Z9qsdjabSd7kd92FvQij0) | [The Mars Volta](https://open.spotify.com/artist/75U40yZLLPglFgXbDVnmVs) | [Blacklight Shine](https://open.spotify.com/album/7zxr1hloCsLjKt8UPsfU1T) | 2:55 | 2022-07-11 | 2023-03-07 |
 | [BLOOD](https://open.spotify.com/track/2Eorr3n0J3KFbhlhkToqPb) | [Matty](https://open.spotify.com/artist/7K1kHQsB2m87TMVcDbZAfW) | [BLOOD](https://open.spotify.com/album/7Bb3Lsa7er4R6dd2Sc3Faq) | 3:26 | 2022-12-16 | 2023-05-06 |
@@ -574,7 +575,7 @@
 | [Murphy's Law](https://open.spotify.com/track/1nPercWuuhmchDfb4fsoFK) | [Marlon Funaki](https://open.spotify.com/artist/3BcSXip92N0HwJRA9sVmP6) | [Murphy's Law](https://open.spotify.com/album/1o8zBVgJK6gM8Tfpkydb3e) | 3:12 | 2024-01-02 |  |
 | [Mushroom Cloud](https://open.spotify.com/track/4CBdk3m49AsxYeRwPwQAFI) | [Tempesst](https://open.spotify.com/artist/6yYoIxAvtAgGPSSring5SB) | [Must Be a Dream](https://open.spotify.com/album/5zGfpfO04UiTB9g73oFi5F) | 4:18 | 2022-04-20 | 2022-10-26 |
 | [My Best Friend](https://open.spotify.com/track/2vYAKGRyybrFQL1rdHXxM2) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [My Best Friend](https://open.spotify.com/album/5eZNZwivm3Ux6EHvLfK3ba) | 3:16 | 2024-01-12 |  |
-| [My Fun](https://open.spotify.com/track/306xT15GTuDs3NyopIANrh) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [My Fun](https://open.spotify.com/album/2obv9kAuyDBzo5jTwAOHob) | 2:42 | 2024-04-12 |  |
+| [My Fun](https://open.spotify.com/track/306xT15GTuDs3NyopIANrh) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [My Fun](https://open.spotify.com/album/2obv9kAuyDBzo5jTwAOHob) | 2:42 | 2024-04-12 | 2025-11-21 |
 | [My Funny Serpentine](https://open.spotify.com/track/1kdi05AbQ5etXv9PtfMpV3) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [9 \(Deluxe Edition\)](https://open.spotify.com/album/1OPNyMf1xQGDLE1PEwdkgs) | 3:34 | 2022-05-20 | 2022-07-03 |
 | [My Girls](https://open.spotify.com/track/2gE0khQ948RYQOeTgCUL2a) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Merriweather Post Pavilion](https://open.spotify.com/album/5O9OXl9zAWMJTzawofxuan) | 5:40 | 2022-07-11 | 2022-10-29 |
 | [My Grandma Says We Have No Future](https://open.spotify.com/track/5GnSbcq1asisRkpCTLsQC6) | [Cari Cari](https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV) | [My Grandma Says We Have No Future](https://open.spotify.com/album/2sjVhEXzXRUhNwSYjufF2o) | 2:54 | 2023-07-07 | 2024-05-11 |

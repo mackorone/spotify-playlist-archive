@@ -4,13 +4,14 @@
 
 > Praise and Worship your way with the best South African Gospel music\.  Cover: Nontokozo Mkhize
 
-202 songs - 21 hr 44 min
+204 songs - 21 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Akakho Praise \(Live at Goshen City Church 2023\)](https://open.spotify.com/track/11IKsmZ7P7NIaOtm0a5qz3) | [SbuNoah](https://open.spotify.com/artist/6Hmj1Zk3LCAFn8xvujto6O) | [Heavenly Psalms \- Level 2 \(Live at Goshen City Church 2023\)](https://open.spotify.com/album/1zBVSPT6EAT7t8Wi10uM1a) | 5:54 | 2024-11-15 | 2025-03-07 |
 | [Akekho Ofana Nawe](https://open.spotify.com/track/3NmAVMUD3d07TqpJCHtpGX) | [Brilliant Baloyi](https://open.spotify.com/artist/4WrGUdLd8aQOczzzPZdnuA), [Musa Yende](https://open.spotify.com/artist/04lvbGgTkiM8PjDktWQehd) | [Akekho Ofana Nawe](https://open.spotify.com/album/6nBlwOc42Zm5FH78YoSwWz) | 8:46 | 2025-01-31 |  |
 | [Akhonamandla](https://open.spotify.com/track/3WWcor629CeucJRhcEv0eT) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [Akhonamandla](https://open.spotify.com/album/2fwuj75mQD6TX173EXylPt) | 3:03 | 2024-11-29 | 2025-03-07 |
+| [Alwaze Medley \- Live](https://open.spotify.com/track/7eM0OA1BeAynU1FjeaEt9A) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [Alwaze Medley \(Live\)](https://open.spotify.com/album/5pdQ80OEokSSKDrxpPKSyJ) | 7:48 | 2025-11-21 |  |
 | [Amandla \- Live](https://open.spotify.com/track/1aouk0cuImwh43TboSr12l) | [Brilliant Baloyi](https://open.spotify.com/artist/4WrGUdLd8aQOczzzPZdnuA), [Sesi Rhoda](https://open.spotify.com/artist/5QGDLCb92eloRXUmd9UIGq) | [Amandla \(Live\)](https://open.spotify.com/album/3OoMombUZCPzfif0JtaRPD) | 8:54 | 2025-10-17 |  |
 | [Amen](https://open.spotify.com/track/7bIDSVHXsazyMqK2Peb8FK) | [Cici](https://open.spotify.com/artist/3i9UjIGeZT2cRyltQrr8nj), [Naledi Aphiwe](https://open.spotify.com/artist/6zInR2bva7iaRKxeB5AjqN) | [Amen](https://open.spotify.com/album/0Ozxo0wGqTXSUTgUITRWBE) | 3:18 | 2025-05-23 |  |
 | [Amen / Moya ongcwele](https://open.spotify.com/track/2MFOFPmxaHNhIuYiVKYX5H) | [Ayanda Shange](https://open.spotify.com/artist/5hWWGQ8MLMy4yG0PeitZyJ) | [Amen / Moya ongcwele](https://open.spotify.com/album/1ghmZE9jAHU4b2Srof3eOU) | 5:48 | 2024-10-25 | 2025-03-21 |
@@ -157,6 +158,7 @@
 | [Thath'Indawo \(Live\)](https://open.spotify.com/track/7wcjeveluiW5djtxLCxNSx) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Mpumi Mtsweni](https://open.spotify.com/artist/2dvEcjYqeOiyOEq3VprQLJ) | [Spirit of Praise, Vol\. 8 \(Live\)](https://open.spotify.com/album/4Z6tN4BRewPxqkuZqJzopt) | 7:55 | 2024-10-04 |  |
 | [Thato Ya Hao \- Live](https://open.spotify.com/track/5GCgGHvpspY0QmFuMeaIvW) | [Lebo Sekgobela](https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx) | [Restored \(Live\)](https://open.spotify.com/album/4CVpV7NAYwOeWuZ9FSbFZ5) | 3:54 | 2024-10-04 |  |
 | [Thulungakhali](https://open.spotify.com/track/0bPE6VOWoQ69OpmCtPek8M) | [Ikhona](https://open.spotify.com/artist/56tDpXsWbtHowCzQxqurvW), [Betusile](https://open.spotify.com/artist/6xJ0Ui6xanSrQyadnCOpFU) | [Thulungakhali](https://open.spotify.com/album/4ttNmn9gKQm0m7jjadtyLE) | 5:46 | 2024-10-11 |  |
+| [Track 11](https://open.spotify.com/track/0wZpgOsDhAdKKFd7cvVCAt) | [Thinah Zungu](https://open.spotify.com/artist/0gqiNXIGbyBCBsbQ4TWJlg) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-21 |  |
 | [Tshepo Ya Lefatshe](https://open.spotify.com/track/0r9SsIPTibFOQ6r6tPfcte) | [Lebo Elle Tisane](https://open.spotify.com/artist/5OjmAYpmIb99cv5HC7Rwkt) | [In Season](https://open.spotify.com/album/1yax3wDYJRlKUgOZhDGJZZ) | 5:07 | 2025-10-10 | 2025-11-07 |
 | [Ujesu Ulidwala](https://open.spotify.com/track/77zsgriq7B4e9pYQn0rGC5) | [David TheKing](https://open.spotify.com/artist/2U5BkItwy4iRjlDjemdAgi) | [HYMNS OF FAITH IN ZION](https://open.spotify.com/album/35XmpyoZg5UcVkKRBc1xTl) | 6:39 | 2025-04-11 | 2025-08-08 |
 | [UJesu ULidwala \- Live](https://open.spotify.com/track/7LamEiavI6OfgyAmyI15CH) | [David TheKing](https://open.spotify.com/artist/2U5BkItwy4iRjlDjemdAgi) | [UJesu ULidwala \(Live\)](https://open.spotify.com/album/6Rfh86XAPnqbZnd7Mr2ptJ) | 6:39 | 2025-01-03 | 2025-03-28 |

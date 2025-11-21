@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f. Photo : LYNN",
+  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f. Photo : J\u00e4de",
   "name": "le miel",
   "tracks": [
     {
@@ -872,10 +872,28 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 224760,
       "name": "Bora Bora",
       "url": "https://open.spotify.com/track/1UoAVUm5PahShviEuM8tlP"
+    },
+    {
+      "album": {
+        "name": "M\u00e9decine",
+        "url": "https://open.spotify.com/album/4o5V3Q9xJqwYtUIILCfsFf"
+      },
+      "artists": [
+        {
+          "name": "Ha\u00efl\u00e9 D\u00e4sta",
+          "url": "https://open.spotify.com/artist/38WuES2LwGfbLssRdC8TPG"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229849,
+      "name": "Bora Bora - Live",
+      "url": "https://open.spotify.com/track/0PCHGATqzgupul3FMMQR6u"
     },
     {
       "album": {
@@ -1259,6 +1277,24 @@
     },
     {
       "album": {
+        "name": "COLORIAGE",
+        "url": "https://open.spotify.com/album/0xLBI3DtixjZmCbDH1iJaJ"
+      },
+      "artists": [
+        {
+          "name": "Maline",
+          "url": "https://open.spotify.com/artist/2V2vK0RLM5kCodOHaZxMgl"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188328,
+      "name": "COLORIAGE",
+      "url": "https://open.spotify.com/track/3SPu17FcwHgmhKNJYmkX2t"
+    },
+    {
+      "album": {
         "name": "Colors",
         "url": "https://open.spotify.com/album/2lecuAW041jFGznJIATbhz"
       },
@@ -1476,7 +1512,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 276625,
       "name": "CORPS A CORPS PIANO - Acoustique",
       "url": "https://open.spotify.com/track/0ZmW26H9HdfEx16iMDMIB6"
@@ -2432,7 +2468,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 169997,
       "name": "EX",
       "url": "https://open.spotify.com/track/30tXoMCoV6lC01qsdwH7Ei"
@@ -2530,6 +2566,24 @@
       "duration_ms": 158000,
       "name": "Fallait pas",
       "url": "https://open.spotify.com/track/6qZSdA8GC5aojquKNFERI5"
+    },
+    {
+      "album": {
+        "name": "Sexe & the city",
+        "url": "https://open.spotify.com/album/3XZvTKx5MxfalZwcJ3nECT"
+      },
+      "artists": [
+        {
+          "name": "J\u00e4de",
+          "url": "https://open.spotify.com/artist/52CEzAtIDEJInO8yL0blFB"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190981,
+      "name": "Fan2moi",
+      "url": "https://open.spotify.com/track/5LYfPoYcUWiZMUv1LXdsHx"
     },
     {
       "album": {
@@ -3938,7 +3992,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 146760,
       "name": "L'enfer",
       "url": "https://open.spotify.com/track/3JrYWFTWWoL3l4H6APcOQr"
@@ -4224,7 +4278,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 138842,
       "name": "LE MAL EST FAIT...",
       "url": "https://open.spotify.com/track/6edUyzq4ff49OkijuHIupg"
@@ -4830,7 +4884,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 158469,
       "name": "mal & bien",
       "url": "https://open.spotify.com/track/3U9JbCvK11uXZwL1l8iXks"
@@ -5646,7 +5700,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 128373,
       "name": "On le fait",
       "url": "https://open.spotify.com/track/2nEbFAyhu18ZbQyJMVI7Me"
@@ -6214,6 +6268,24 @@
       "duration_ms": 132000,
       "name": "Pour Nous.",
       "url": "https://open.spotify.com/track/4vibVoo7jaZob9yzWXoS5U"
+    },
+    {
+      "album": {
+        "name": "Pourvu que je brille",
+        "url": "https://open.spotify.com/album/41GOX3ofJxDs8pwnSlb4M0"
+      },
+      "artists": [
+        {
+          "name": "Macy Lu",
+          "url": "https://open.spotify.com/artist/1wEZ7fUt7Mh3ZB38xrYoVB"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198736,
+      "name": "Pourvu que je brille",
+      "url": "https://open.spotify.com/track/2nF7PzQ49cv3zgU2cF1C8q"
     },
     {
       "album": {
@@ -7183,6 +7255,24 @@
     },
     {
       "album": {
+        "name": "Sexe & the city",
+        "url": "https://open.spotify.com/album/3XZvTKx5MxfalZwcJ3nECT"
+      },
+      "artists": [
+        {
+          "name": "J\u00e4de",
+          "url": "https://open.spotify.com/artist/52CEzAtIDEJInO8yL0blFB"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149623,
+      "name": "Sexe & the city",
+      "url": "https://open.spotify.com/track/7w3Oy2C0Sp4ymfEiv1dLbK"
+    },
+    {
+      "album": {
         "name": "Ginger Season",
         "url": "https://open.spotify.com/album/4kaZiL99Daa2VLA0VQl62o"
       },
@@ -8080,6 +8170,24 @@
       "duration_ms": 116799,
       "name": "Tranquille",
       "url": "https://open.spotify.com/track/5hUn3qV8PbmxIsMjiCjRpF"
+    },
+    {
+      "album": {
+        "name": "Trigger",
+        "url": "https://open.spotify.com/album/0N3RhNmBlxnBF5YxWy26Hu"
+      },
+      "artists": [
+        {
+          "name": "Djeneva",
+          "url": "https://open.spotify.com/artist/74Bk9HuRAbkzv775XaTS2E"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136235,
+      "name": "Trigger",
+      "url": "https://open.spotify.com/track/4PSQLIAhgfsPMOFOM9VoiT"
     },
     {
       "album": {

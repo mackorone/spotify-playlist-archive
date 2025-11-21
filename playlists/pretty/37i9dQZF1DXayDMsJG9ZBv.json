@@ -1,15 +1,47 @@
 {
-  "description": "\u4e16\u754c\u4e2d\u306e\u30c8\u30ec\u30f3\u30c9\u3068\u65e5\u672c\u306e\u6700\u65b0\u30d2\u30c3\u30c8\u66f2\u3092\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: ROSAL\u00cdA",
-  "num_followers": 370434,
+  "description": "\u4e16\u754c\u4e2d\u306e\u30c8\u30ec\u30f3\u30c9\u3068\u65e5\u672c\u306e\u6700\u65b0\u30d2\u30c3\u30c8\u66f2\u3092\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: ITZY",
+  "num_followers": 370453,
   "original_name": "Hot Hits Japan: \u6d0b\u697d&\u90a6\u697d\u30d2\u30c3\u30c4",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADdrxa7A5icPesAU3Go15qNm62+N",
+  "snapshot_id": "AAAAAKUL66tKu8ddcsCCVZsAQxFwQMrQ",
   "tracks": [
     {
-      "added_at": "2025-11-13 15:00:14",
+      "added_at": "2025-11-20 15:00:28",
+      "album": {
+        "name": "TUNNEL VISION",
+        "url": "https://open.spotify.com/album/1NFtkNZ4KqDZ2kd8HqJjhA"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "TUNNEL VISION",
+      "url": "https://open.spotify.com/track/1XkuFmRm3H4G4nTxsC9inD"
+    },
+    {
+      "added_at": "2025-11-20 15:00:28",
+      "album": {
+        "name": "1991",
+        "url": "https://open.spotify.com/album/67OQ5OiQG8TpuxUWvsvytA"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "duration_ms": 227391,
+      "name": "1991",
+      "url": "https://open.spotify.com/track/3voShTcaRtbYVSPGuCLAzw"
+    },
+    {
+      "added_at": "2025-11-20 15:00:28",
       "album": {
         "name": "LUX",
         "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
@@ -29,7 +61,23 @@
       "url": "https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv"
     },
     {
-      "added_at": "2025-11-13 15:00:14",
+      "added_at": "2025-11-20 15:00:28",
+      "album": {
+        "name": "Dead End",
+        "url": "https://open.spotify.com/album/3uNW0d4Jw5gXbS0hbG5NbD"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "duration_ms": 167466,
+      "name": "Dead End",
+      "url": "https://open.spotify.com/track/2lWwupKSHPNLmCfuZ3ZHav"
+    },
+    {
+      "added_at": "2025-11-20 15:00:28",
       "album": {
         "name": "CHANEL",
         "url": "https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59"
@@ -45,39 +93,7 @@
       "url": "https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7"
     },
     {
-      "added_at": "2025-11-13 15:00:14",
-      "album": {
-        "name": "1991",
-        "url": "https://open.spotify.com/album/67OQ5OiQG8TpuxUWvsvytA"
-      },
-      "artists": [
-        {
-          "name": "Kenshi Yonezu",
-          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
-        }
-      ],
-      "duration_ms": 227391,
-      "name": "1991",
-      "url": "https://open.spotify.com/track/3voShTcaRtbYVSPGuCLAzw"
-    },
-    {
-      "added_at": "2025-11-13 15:00:14",
-      "album": {
-        "name": "MAGIC",
-        "url": "https://open.spotify.com/album/2wzfAqKAR8tXWovPNbjqLM"
-      },
-      "artists": [
-        {
-          "name": "Ado",
-          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
-        }
-      ],
-      "duration_ms": 172291,
-      "name": "MAGIC",
-      "url": "https://open.spotify.com/track/6hsBxoVdj9mg9m4tHlYE5K"
-    },
-    {
-      "added_at": "2025-11-13 15:00:14",
+      "added_at": "2025-11-20 15:00:28",
       "album": {
         "name": "The Life of a Showgirl",
         "url": "https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9"
@@ -93,23 +109,7 @@
       "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"
     },
     {
-      "added_at": "2025-11-13 15:00:14",
-      "album": {
-        "name": "Changes",
-        "url": "https://open.spotify.com/album/3ciPO09YDjuEuCs3SyQV4O"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 184133,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/4kUI0vuDd0Zub4IvxxNreM"
-    },
-    {
-      "added_at": "2025-11-13 15:00:14",
+      "added_at": "2025-11-20 15:00:28",
       "album": {
         "name": "IRIS OUT",
         "url": "https://open.spotify.com/album/06re45NBDCPah74jnVOISQ"
@@ -125,7 +125,39 @@
       "url": "https://open.spotify.com/track/59hVbgr8rfYkDbHfr8RcGI"
     },
     {
-      "added_at": "2025-11-13 15:00:14",
+      "added_at": "2025-11-20 15:00:28",
+      "album": {
+        "name": "MAGIC",
+        "url": "https://open.spotify.com/album/2wzfAqKAR8tXWovPNbjqLM"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "duration_ms": 172291,
+      "name": "MAGIC",
+      "url": "https://open.spotify.com/track/6hsBxoVdj9mg9m4tHlYE5K"
+    },
+    {
+      "added_at": "2025-11-20 15:00:28",
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/3ciPO09YDjuEuCs3SyQV4O"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 184133,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/4kUI0vuDd0Zub4IvxxNreM"
+    },
+    {
+      "added_at": "2025-11-20 15:00:28",
       "album": {
         "name": "SPAGHETTI",
         "url": "https://open.spotify.com/album/2yUrwTLHDWBrW74Ewuw6RX"
@@ -145,27 +177,7 @@
       "url": "https://open.spotify.com/track/2N9miXnewVmUrgl6JSK1FI"
     },
     {
-      "added_at": "2025-11-13 15:00:14",
-      "album": {
-        "name": "LUX",
-        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        },
-        {
-          "name": "Dougie F",
-          "url": "https://open.spotify.com/artist/4pBG47zWhJbDw7mpsg68PJ"
-        }
-      ],
-      "duration_ms": 248093,
-      "name": "Porcelana",
-      "url": "https://open.spotify.com/track/3hETtcSLmNncBjPMLHtVZs"
-    },
-    {
-      "added_at": "2025-11-13 15:00:14",
+      "added_at": "2025-11-20 15:00:28",
       "album": {
         "name": "WHERE IS MY HUSBAND!",
         "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
@@ -181,7 +193,7 @@
       "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
     },
     {
-      "added_at": "2025-11-13 15:00:14",
+      "added_at": "2025-11-20 15:00:28",
       "album": {
         "name": "Play (Extended Edition)",
         "url": "https://open.spotify.com/album/64QhljQEwTfoEt9z6jsyxl"
@@ -197,7 +209,7 @@
       "url": "https://open.spotify.com/track/4rWeuQF9HD3UP6XEqLDVew"
     },
     {
-      "added_at": "2025-11-13 15:00:14",
+      "added_at": "2025-11-20 15:00:28",
       "album": {
         "name": "\u5049\u751f\u4eba",
         "url": "https://open.spotify.com/album/63x5RuS6pMjBokIF7E7qBw"
@@ -213,7 +225,7 @@
       "url": "https://open.spotify.com/track/3g1Ca8PPhR4FBN6a66wkyq"
     },
     {
-      "added_at": "2025-11-13 15:00:14",
+      "added_at": "2025-11-20 15:00:28",
       "album": {
         "name": "JANE DOE",
         "url": "https://open.spotify.com/album/381FouVeKunSg1WZTnmryL"
@@ -233,7 +245,7 @@
       "url": "https://open.spotify.com/track/4oE7MyJhqSD3BaHRpNs8Nl"
     },
     {
-      "added_at": "2025-11-13 15:00:14",
+      "added_at": "2025-11-20 15:00:28",
       "album": {
         "name": "My Body",
         "url": "https://open.spotify.com/album/3DBFF0VG1N0eqyTMkbmI6I"
@@ -249,7 +261,7 @@
       "url": "https://open.spotify.com/track/4tQPrEh1GZYlSLDx5gLtxs"
     },
     {
-      "added_at": "2025-11-13 15:00:14",
+      "added_at": "2025-11-20 15:00:28",
       "album": {
         "name": "GALA",
         "url": "https://open.spotify.com/album/3NRRlw17pH8AinthjFc2MT"
@@ -265,7 +277,7 @@
       "url": "https://open.spotify.com/track/6laUIsJKwTQMXAAEKnCwES"
     },
     {
-      "added_at": "2025-11-13 15:00:14",
+      "added_at": "2025-11-20 15:00:28",
       "album": {
         "name": "EYES CLOSED (with ZAYN)",
         "url": "https://open.spotify.com/album/3LOalJiwqPsviLuoNboNfc"
@@ -285,7 +297,7 @@
       "url": "https://open.spotify.com/track/4WFfPxJv1KRekG6mxn837K"
     },
     {
-      "added_at": "2025-11-13 15:00:14",
+      "added_at": "2025-11-20 15:00:28",
       "album": {
         "name": "The Life of a Showgirl",
         "url": "https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9"
@@ -301,7 +313,7 @@
       "url": "https://open.spotify.com/track/3euZKF0hmGxQ6h2JHHY4iu"
     },
     {
-      "added_at": "2025-11-13 15:00:14",
+      "added_at": "2025-11-20 15:00:28",
       "album": {
         "name": "Prema",
         "url": "https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9"
@@ -317,7 +329,7 @@
       "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
     },
     {
-      "added_at": "2025-11-13 15:00:14",
+      "added_at": "2025-11-20 15:00:28",
       "album": {
         "name": "\u9769\u547d\u9053\u4e2d - On The Way",
         "url": "https://open.spotify.com/album/6uBwz7fKYpTHQqEvbpRMQu"
@@ -333,7 +345,7 @@
       "url": "https://open.spotify.com/track/1oFqKeepmT5S8BCGqJl7Ar"
     },
     {
-      "added_at": "2025-11-13 15:00:14",
+      "added_at": "2025-11-20 15:00:28",
       "album": {
         "name": "Past Won't Leave My Bed",
         "url": "https://open.spotify.com/album/5JJpyK4SILx6UXJBiT1twN"
@@ -349,7 +361,7 @@
       "url": "https://open.spotify.com/track/0DTSnA1bcVI5niJzoyBPyZ"
     },
     {
-      "added_at": "2025-11-13 15:00:14",
+      "added_at": "2025-11-20 15:00:28",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -381,7 +393,7 @@
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
     },
     {
-      "added_at": "2025-11-13 15:00:14",
+      "added_at": "2025-11-20 15:00:28",
       "album": {
         "name": "The Dead Dance",
         "url": "https://open.spotify.com/album/1KdrtZn2AmuQPHKIr3h4e6"
@@ -397,23 +409,7 @@
       "url": "https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh"
     },
     {
-      "added_at": "2025-11-13 15:00:14",
-      "album": {
-        "name": "Jealous Type",
-        "url": "https://open.spotify.com/album/5faw0b6BBJiTHGNl9aaoc5"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 163647,
-      "name": "Jealous Type",
-      "url": "https://open.spotify.com/track/1IfGOnXoMBkiKC9xljlSfa"
-    },
-    {
-      "added_at": "2025-11-13 15:00:14",
+      "added_at": "2025-11-20 15:00:28",
       "album": {
         "name": "1000\u65e5\u9593",
         "url": "https://open.spotify.com/album/760cJy3lGdx6BZqtFPkow1"
@@ -429,7 +425,7 @@
       "url": "https://open.spotify.com/track/3HGHvxci8vnRg7RZ5E6lzi"
     },
     {
-      "added_at": "2025-11-13 15:00:14",
+      "added_at": "2025-11-20 15:00:28",
       "album": {
         "name": "i love you",
         "url": "https://open.spotify.com/album/3hdlZbQm127kMJuMYdLJE2"
@@ -445,7 +441,7 @@
       "url": "https://open.spotify.com/track/583H4PwxDEj4bOcIN2ZQOG"
     },
     {
-      "added_at": "2025-11-13 15:00:14",
+      "added_at": "2025-11-20 15:00:28",
       "album": {
         "name": "\u5287\u4e0a",
         "url": "https://open.spotify.com/album/2u1jyTGzYhnMNy495lVx8G"
@@ -461,7 +457,7 @@
       "url": "https://open.spotify.com/track/3BFx3IfjwIaUr0W5Bl1LED"
     },
     {
-      "added_at": "2025-11-13 15:00:14",
+      "added_at": "2025-11-20 15:00:28",
       "album": {
         "name": "I",
         "url": "https://open.spotify.com/album/2hTHXj7Y8adzK3Z49kKqbr"
@@ -477,7 +473,7 @@
       "url": "https://open.spotify.com/track/4fZg2tFkmln0lraBWvpCzV"
     },
     {
-      "added_at": "2025-11-13 15:00:14",
+      "added_at": "2025-11-20 15:00:28",
       "album": {
         "name": "Man\u2019s Best Friend",
         "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
@@ -493,23 +489,7 @@
       "url": "https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4"
     },
     {
-      "added_at": "2025-11-13 15:00:14",
-      "album": {
-        "name": "WANTCHU",
-        "url": "https://open.spotify.com/album/3X3j61g2QBXl8qcq4DsSbI"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "duration_ms": 199896,
-      "name": "WANTCHU",
-      "url": "https://open.spotify.com/track/0XWf8CRB6IptewumZDi5b6"
-    },
-    {
-      "added_at": "2025-11-13 15:00:14",
+      "added_at": "2025-11-20 15:00:28",
       "album": {
         "name": "Rashisa",
         "url": "https://open.spotify.com/album/4XOkiHZhn0dnTGgFgAnNzV"
@@ -525,23 +505,7 @@
       "url": "https://open.spotify.com/track/69A1xOqqOvm387J32Ps32R"
     },
     {
-      "added_at": "2025-11-13 15:00:14",
-      "album": {
-        "name": "SO BAD",
-        "url": "https://open.spotify.com/album/4Qln8io3Qbczk1OSHVTTtG"
-      },
-      "artists": [
-        {
-          "name": "King Gnu",
-          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
-        }
-      ],
-      "duration_ms": 239520,
-      "name": "SO BAD",
-      "url": "https://open.spotify.com/track/3Qa1rG4kSuGnmVHChIJUtU"
-    },
-    {
-      "added_at": "2025-11-13 15:00:14",
+      "added_at": "2025-11-20 15:00:28",
       "album": {
         "name": "GOOD DAY",
         "url": "https://open.spotify.com/album/4TfNFjBYQEGxAdnWaXpbDv"
@@ -557,7 +521,7 @@
       "url": "https://open.spotify.com/track/61UOoqGI1B9qdeD5Dzupyb"
     },
     {
-      "added_at": "2025-11-13 15:00:14",
+      "added_at": "2025-11-20 15:00:28",
       "album": {
         "name": "\u3042\u306b\u3085\u30fc",
         "url": "https://open.spotify.com/album/6FPxMWiR2LQvKDuVU0ifEH"
@@ -573,23 +537,7 @@
       "url": "https://open.spotify.com/track/22pvB1aTKGV0YWSPnOEW1C"
     },
     {
-      "added_at": "2025-11-13 15:00:14",
-      "album": {
-        "name": "TIT FOR TAT",
-        "url": "https://open.spotify.com/album/1ks1k7zln4TyBjn1CF3vCz"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 177208,
-      "name": "TIT FOR TAT",
-      "url": "https://open.spotify.com/track/04a44cx2PJthIbN2aLMXhl"
-    },
-    {
-      "added_at": "2025-11-13 15:00:14",
+      "added_at": "2025-11-20 15:00:28",
       "album": {
         "name": "\u706f\u3092\u8b77\u308b",
         "url": "https://open.spotify.com/album/5kh25KxBQdiqOPOr05rxM3"
@@ -605,23 +553,23 @@
       "url": "https://open.spotify.com/track/0tu73VStd4PNxbF37Y6YSD"
     },
     {
-      "added_at": "2025-11-13 15:00:14",
+      "added_at": "2025-11-20 15:00:28",
       "album": {
-        "name": "Rich Man - The 6th Mini Album",
-        "url": "https://open.spotify.com/album/7FxdJyW8SaXRMR9d7pdDv2"
+        "name": "TIT FOR TAT",
+        "url": "https://open.spotify.com/album/1ks1k7zln4TyBjn1CF3vCz"
       },
       "artists": [
         {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 197578,
-      "name": "Rich Man",
-      "url": "https://open.spotify.com/track/1sUjTLLCJzcxC15GUBrOlg"
+      "duration_ms": 177208,
+      "name": "TIT FOR TAT",
+      "url": "https://open.spotify.com/track/04a44cx2PJthIbN2aLMXhl"
     },
     {
-      "added_at": "2025-11-13 15:00:14",
+      "added_at": "2025-11-20 15:00:28",
       "album": {
         "name": "SWAG",
         "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
@@ -637,23 +585,23 @@
       "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
     },
     {
-      "added_at": "2025-11-13 15:00:14",
+      "added_at": "2025-11-20 15:00:28",
       "album": {
-        "name": "Lover Girl",
-        "url": "https://open.spotify.com/album/6T8zX0grqcmevcN7SWo1Zg"
+        "name": "Still Don't Care",
+        "url": "https://open.spotify.com/album/11XiRiJX157BvMuuc9ixuw"
       },
       "artists": [
         {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
         }
       ],
-      "duration_ms": 164400,
-      "name": "Lover Girl",
-      "url": "https://open.spotify.com/track/5Rd93c1Rbg9qhSVHTC7xJN"
+      "duration_ms": 169081,
+      "name": "Still Don't Care",
+      "url": "https://open.spotify.com/track/17tuuYUw3K1J9pDe4QrWNo"
     },
     {
-      "added_at": "2025-11-13 15:00:14",
+      "added_at": "2025-11-20 15:00:28",
       "album": {
         "name": "BE:ST",
         "url": "https://open.spotify.com/album/5gCWMD9Ib9ZtNDhJlKRVPF"
@@ -669,7 +617,7 @@
       "url": "https://open.spotify.com/track/3R6oFy7EQiWhqJagxIblHM"
     },
     {
-      "added_at": "2025-11-13 15:00:14",
+      "added_at": "2025-11-20 15:00:28",
       "album": {
         "name": "\u7e54\u59eb\u3068BABY",
         "url": "https://open.spotify.com/album/3kDCegnvxc2zbSHrghMhQD"
@@ -689,7 +637,23 @@
       "url": "https://open.spotify.com/track/2RMBCQdXkfFArpX3NIuuNm"
     },
     {
-      "added_at": "2025-11-13 15:00:14",
+      "added_at": "2025-11-20 15:00:28",
+      "album": {
+        "name": "\u6700\u4f4e\u306a\u541b\u306b\u8d08\u308b\u6b4c",
+        "url": "https://open.spotify.com/album/6tSyFozZFoCFkdHbM1oq5z"
+      },
+      "artists": [
+        {
+          "name": "Yuuri",
+          "url": "https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W"
+        }
+      ],
+      "duration_ms": 252040,
+      "name": "\u6700\u4f4e\u306a\u541b\u306b\u8d08\u308b\u6b4c",
+      "url": "https://open.spotify.com/track/1i11aYHrGaX16sh7Mi1cQm"
+    },
+    {
+      "added_at": "2025-11-20 15:00:28",
       "album": {
         "name": "\u7b11\u3063\u305f\u308a\u8ee2\u3093\u3060\u308a",
         "url": "https://open.spotify.com/album/2rsFO81AwLT53Z1ZqlVr2V"
@@ -705,23 +669,7 @@
       "url": "https://open.spotify.com/track/0zmzVQMhAdO5qKiQIRdImn"
     },
     {
-      "added_at": "2025-11-13 15:00:14",
-      "album": {
-        "name": "Belt of Venus",
-        "url": "https://open.spotify.com/album/5gChpeCx9i8VmjfdrNF8J0"
-      },
-      "artists": [
-        {
-          "name": "Aimyon",
-          "url": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6"
-        }
-      ],
-      "duration_ms": 329604,
-      "name": "Belt of Venus",
-      "url": "https://open.spotify.com/track/2iG9jd5SVWYnObU6PzeOS1"
-    },
-    {
-      "added_at": "2025-11-13 15:00:14",
+      "added_at": "2025-11-20 15:00:28",
       "album": {
         "name": "BEAUTIFUL CHAOS",
         "url": "https://open.spotify.com/album/4llrXTk6u4QYI1j7KHIsCx"
@@ -737,23 +685,7 @@
       "url": "https://open.spotify.com/track/55hTqqpz8k2TNRLhHKbbDx"
     },
     {
-      "added_at": "2025-11-13 15:00:14",
-      "album": {
-        "name": "NOT OK",
-        "url": "https://open.spotify.com/album/07I0d31GGiQ1uWRCEQdZrm"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        }
-      ],
-      "duration_ms": 206040,
-      "name": "NOT OK",
-      "url": "https://open.spotify.com/track/0WvP4Q6ZaNT1tvs8LGrf4f"
-    },
-    {
-      "added_at": "2025-11-13 15:00:14",
+      "added_at": "2025-11-20 15:00:28",
       "album": {
         "name": "Love Me Not / Love Is Blind",
         "url": "https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g"
@@ -769,7 +701,39 @@
       "url": "https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52"
     },
     {
-      "added_at": "2025-11-13 15:00:14",
+      "added_at": "2025-11-20 15:00:28",
+      "album": {
+        "name": "Chains of Love",
+        "url": "https://open.spotify.com/album/6pSGolbfux1G7aSSJP0OQU"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 170106,
+      "name": "Chains of Love",
+      "url": "https://open.spotify.com/track/3obedb2fnHaTE8bPlr9TNK"
+    },
+    {
+      "added_at": "2025-11-20 15:00:28",
+      "album": {
+        "name": "EUSEXUA Afterglow",
+        "url": "https://open.spotify.com/album/0v1sQbOCM2xDdIYA0XYapM"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        }
+      ],
+      "duration_ms": 214125,
+      "name": "HARD",
+      "url": "https://open.spotify.com/track/5AzO8bswSqsYtJIfVA2BqX"
+    },
+    {
+      "added_at": "2025-11-20 15:00:28",
       "album": {
         "name": "Man I Need",
         "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
@@ -785,7 +749,23 @@
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
     },
     {
-      "added_at": "2025-11-13 15:00:14",
+      "added_at": "2025-11-20 15:00:28",
+      "album": {
+        "name": "EVERYONE'S A STAR!",
+        "url": "https://open.spotify.com/album/0bXFiluFJjk70GKu0Q7HUa"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 195229,
+      "name": "Everyone\u2019s A Star!",
+      "url": "https://open.spotify.com/track/0pcU4T0Gz8XUobyjdoWb6f"
+    },
+    {
+      "added_at": "2025-11-20 15:00:28",
       "album": {
         "name": "FMP",
         "url": "https://open.spotify.com/album/1bv2CWNeKW8iN3mzwUn7nK"
@@ -801,7 +781,23 @@
       "url": "https://open.spotify.com/track/3KuYASit1hREoEMM5qeRwZ"
     },
     {
-      "added_at": "2025-11-13 15:00:14",
+      "added_at": "2025-11-20 15:00:28",
+      "album": {
+        "name": "Belt of Venus",
+        "url": "https://open.spotify.com/album/5gChpeCx9i8VmjfdrNF8J0"
+      },
+      "artists": [
+        {
+          "name": "Aimyon",
+          "url": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6"
+        }
+      ],
+      "duration_ms": 329604,
+      "name": "Belt of Venus",
+      "url": "https://open.spotify.com/track/2iG9jd5SVWYnObU6PzeOS1"
+    },
+    {
+      "added_at": "2025-11-20 15:00:28",
       "album": {
         "name": "D o n\u2019 t \u200c \u200c \u200cL a u g h \u200c \u200c \u200cI t \u200c \u200c \u200cO f f",
         "url": "https://open.spotify.com/album/1CxJmFEE2xsYSTxpJaOG6P"
@@ -817,7 +813,7 @@
       "url": "https://open.spotify.com/track/0QeD68D7Up78qybkCsGFBI"
     },
     {
-      "added_at": "2025-11-13 15:00:14",
+      "added_at": "2025-11-20 15:00:28",
       "album": {
         "name": "Dracula",
         "url": "https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4"
@@ -833,7 +829,7 @@
       "url": "https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM"
     },
     {
-      "added_at": "2025-11-13 15:00:14",
+      "added_at": "2025-11-20 15:00:28",
       "album": {
         "name": "Son Of Spergy",
         "url": "https://open.spotify.com/album/115s3YJqm6iLblABdjtgzQ"

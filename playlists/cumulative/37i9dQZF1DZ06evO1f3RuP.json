@@ -619,6 +619,24 @@
     },
     {
       "album": {
+        "name": "NO RE-ENTRY",
+        "url": "https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121423,
+      "name": "SUGARCOAT",
+      "url": "https://open.spotify.com/track/0OUDA18X0UoB1VJRXZiI9Z"
+    },
+    {
+      "album": {
         "name": "SUGARCOAT",
         "url": "https://open.spotify.com/album/5mma4lveprSBo6HCMMdEou"
       },
@@ -630,7 +648,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 121423,
       "name": "SUGARCOAT",
       "url": "https://open.spotify.com/track/5HSnERtFDoggbkiPBOqWfM"

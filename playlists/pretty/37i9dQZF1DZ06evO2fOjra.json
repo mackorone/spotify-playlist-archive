@@ -1,12 +1,12 @@
 {
   "description": "This is Korn. The essential tracks, all in one playlist.",
-  "num_followers": 553175,
+  "num_followers": 553272,
   "original_name": "This Is Korn",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRu3AAAAAACkX5+uqIzoTBAyxeSobknU",
+  "snapshot_id": "aR0IgAAAAABX7hLP6saoyn04MU2yiotU",
   "tracks": [
     {
       "added_at": null,
@@ -219,22 +219,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Serenity of Suffering",
-        "url": "https://open.spotify.com/album/0UGqqYIWXAD1FgrDI1zOjh"
+        "name": "Follow The Leader",
+        "url": "https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4"
       },
       "artists": [
         {
           "name": "Korn",
           "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        },
-        {
-          "name": "Corey Taylor",
-          "url": "https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q"
         }
       ],
-      "duration_ms": 200960,
-      "name": "A Different World (feat. Corey Taylor)",
-      "url": "https://open.spotify.com/track/3ns1Hn52RB28zGVHiFvz7W"
+      "duration_ms": 269577,
+      "name": "It's On!",
+      "url": "https://open.spotify.com/track/0e06Zwd1027jFtmrRbXAjl"
     },
     {
       "added_at": null,
@@ -255,18 +251,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Follow The Leader",
-        "url": "https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4"
+        "name": "The Serenity of Suffering",
+        "url": "https://open.spotify.com/album/0UGqqYIWXAD1FgrDI1zOjh"
       },
       "artists": [
         {
           "name": "Korn",
           "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        },
+        {
+          "name": "Corey Taylor",
+          "url": "https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q"
         }
       ],
-      "duration_ms": 269577,
-      "name": "It's On!",
-      "url": "https://open.spotify.com/track/0e06Zwd1027jFtmrRbXAjl"
+      "duration_ms": 200960,
+      "name": "A Different World (feat. Corey Taylor)",
+      "url": "https://open.spotify.com/track/3ns1Hn52RB28zGVHiFvz7W"
     },
     {
       "added_at": null,
@@ -283,6 +283,26 @@
       "duration_ms": 272920,
       "name": "Thoughtless",
       "url": "https://open.spotify.com/track/6HlFxHQ5nn6HYGxOOYIrLm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Follow The Leader",
+        "url": "https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        },
+        {
+          "name": "Fred Durst",
+          "url": "https://open.spotify.com/artist/6xs3t4VrfszbO3YJg2wLPa"
+        }
+      ],
+      "duration_ms": 288978,
+      "name": "All In the Family (feat. Fred Durst)",
+      "url": "https://open.spotify.com/track/7yYvvOB7CuzdVldb6zOk1m"
     },
     {
       "added_at": null,
@@ -315,26 +335,6 @@
       "duration_ms": 244493,
       "name": "Did My Time",
       "url": "https://open.spotify.com/track/1F0S2kbZhHAw19f9ihA3FH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Follow The Leader",
-        "url": "https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        },
-        {
-          "name": "Fred Durst",
-          "url": "https://open.spotify.com/artist/6xs3t4VrfszbO3YJg2wLPa"
-        }
-      ],
-      "duration_ms": 288978,
-      "name": "All In the Family (feat. Fred Durst)",
-      "url": "https://open.spotify.com/track/7yYvvOB7CuzdVldb6zOk1m"
     },
     {
       "added_at": null,

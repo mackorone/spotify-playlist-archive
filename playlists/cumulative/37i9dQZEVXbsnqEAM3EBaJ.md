@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-2,887 songs - 8 day 2 hr 55 min
+2,888 songs - 8 day 2 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -466,6 +466,7 @@
 | [Cielo](https://open.spotify.com/track/1mXLf0jnxS9Uevkds7rEvy) | [Bocho](https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el), [Joe Vasconcellos](https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce) | [Cielo](https://open.spotify.com/album/0KyvNuaS3Sy2N5dLXAgVlM) | 3:23 | 2023-03-10 | 2023-03-25 |
 | [Cielo de Amor](https://open.spotify.com/track/4QPmDnHLVNWRTGJSAX79DP) | [Astronautiko](https://open.spotify.com/artist/4jtlM7KkUGZi5N3DWFZLbw), [Gran Rah](https://open.spotify.com/artist/6JjrF0EnCW3Ylj9gj3FXWZ) | [Cielo de Amor](https://open.spotify.com/album/1CoUowBSIyWqtutcndZCnY) | 2:58 | 2024-09-06 | 2024-11-09 |
 | [Cigarettes & Alcohol \- Sawmills Outtake](https://open.spotify.com/track/4DKcLZMapJwbOtLLz3Obcw) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \- 30th Anniversary](https://open.spotify.com/album/4J0amttxitKO3C2qCab3YA) | 5:06 | 2024-08-30 | 2024-11-09 |
+| [Cinder](https://open.spotify.com/track/6svbqOOBChIfYbXimDx1dE) | [City of the Fallen](https://open.spotify.com/artist/2Y6yi5MrD1GR14YM8qNCjw), [Eluveitie](https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT) | [Oracle of Zephyr](https://open.spotify.com/album/1rZAShMvYTd0dZA9Z2tb4s) | 1:10 | 2025-11-14 |  |
 | [Cinderella Rockafella \- Live](https://open.spotify.com/track/1zz08GQbQ95N2qUXiVakQq) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [Younger Than Today \(Live\)](https://open.spotify.com/album/6TDBrwfmzqmUBI538kc7zj) | 2:06 | 2024-06-28 | 2024-07-04 |
 | [Circles](https://open.spotify.com/track/18GFHVWGCED0TCARMkHUr8) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Circles](https://open.spotify.com/album/03mQfTKwoRxaDLg2Vkf9vm) | 4:58 | 2024-03-08 | 2024-04-06 |
 | [Circles of Time](https://open.spotify.com/track/7ss9jndV1RjZKgD5r1pczG) | [Yes](https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil) | [Mirror To The Sky](https://open.spotify.com/album/260tAYjC3uOU9Xdrslckje) | 4:55 | 2023-05-19 | 2023-06-18 |
@@ -634,7 +635,7 @@
 | [Dogs Of War](https://open.spotify.com/track/1AuwWGznBvI76jOF8cZ4E4) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dogs Of War](https://open.spotify.com/album/5vjqRLo7DxbwVwfiO0DpCz) | 4:04 | 2024-05-24 | 2024-05-26 |
 | [Dominate](https://open.spotify.com/track/5R0uszDwzrAEtxMgTwoIbt) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Dominate](https://open.spotify.com/album/17qRjBxoYcA3joNL4d6EzZ) | 3:14 | 2025-06-20 | 2025-07-20 |
 | [Dominica](https://open.spotify.com/track/2Ga2A8jX1DYCkPCc8mzNgX) | [El Nadie](https://open.spotify.com/artist/3KZMJEwyGYPcvgNJRKItC8), [Maldito Fen](https://open.spotify.com/artist/3H5mQs13EvHXEWCsy910Hu), [Matiah Chinaski](https://open.spotify.com/artist/5vuvIhz2SwFX9sA976g49F), [Bufalo Dit](https://open.spotify.com/artist/7eC2HRtBhiXNWTAVdflUtK) | [Castillo Faber](https://open.spotify.com/album/5xAmHdd8hJowqLIyZvsu9r) | 3:38 | 2024-11-08 | 2024-11-23 |
-| [Dominion](https://open.spotify.com/track/5pQXEfjBClfIU1kim8yMCU) | [City of the Fallen](https://open.spotify.com/artist/2Y6yi5MrD1GR14YM8qNCjw), [Eluveitie](https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT) | [Oracle of Zephyr](https://open.spotify.com/album/1rZAShMvYTd0dZA9Z2tb4s) | 1:02 | 2025-11-07 |  |
+| [Dominion](https://open.spotify.com/track/5pQXEfjBClfIU1kim8yMCU) | [City of the Fallen](https://open.spotify.com/artist/2Y6yi5MrD1GR14YM8qNCjw), [Eluveitie](https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT) | [Oracle of Zephyr](https://open.spotify.com/album/1rZAShMvYTd0dZA9Z2tb4s) | 1:02 | 2025-11-07 | 2025-11-21 |
 | [Don't Be Cruel / Hound Dog \- Jam](https://open.spotify.com/track/7vEZHei0JEVypdR5LB48rL) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H), [Yoko Ono](https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ), [The Plastic Ono Band](https://open.spotify.com/artist/4m2kfAHEnK7Z7qLGxeWtro), [Elephants Memory](https://open.spotify.com/artist/7vlen6lzkmCst6naOmK3Et) | [Power To The People \(New York City \- Studio Jam\)](https://open.spotify.com/album/0WTriptmGhmnxEBMTAmSG1) | 4:30 | 2025-10-31 | 2025-11-13 |
 | [Don't Blame It On Me](https://open.spotify.com/track/0Vm9YhrT39p1sBOVH81aAZ) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Don't Blame It On Me](https://open.spotify.com/album/35g7Yy0XREz3hHUFVMlPu9) | 2:48 | 2024-08-09 | 2024-09-01 |
 | [Don't Come Running To Me](https://open.spotify.com/track/7zwftc0ehHfwjRMoK5QGKZ) | [Blue Öyster Cult](https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2) | [Don't Come Running To Me](https://open.spotify.com/album/74r2BQ0A1lOsUXMoi0R2rh) | 3:27 | 2024-03-15 | 2024-04-07 |

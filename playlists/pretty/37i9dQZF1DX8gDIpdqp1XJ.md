@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 
 > The best of modern psychedelic rock, neo\-psychedelic, and psychedelic indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 896,413 likes - 110 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 896,411 likes - 110 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,15 +14,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 | 4 | [Are You Tired? \(Keep on Singing\)](https://open.spotify.com/track/7qONmzQvjWnzQAbBrRqKrB) | [DARKSIDE](https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB) | [Are You Tired? \(Keep on Singing\)](https://open.spotify.com/album/6bfQx9nxndQu5zU3G4qBW7) | 6:44 |
 | 5 | [Buildings](https://open.spotify.com/track/76OFo5N9D8SHaHzGnISea5) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Possession](https://open.spotify.com/album/3ZxMlJq7ztw1jd5mDEaNkl) | 4:11 |
 | 6 | [Image](https://open.spotify.com/track/5LIUI808j8M8bXQd0kRxnp) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Image](https://open.spotify.com/album/7JnlRfxpLRDdeYOPuNcklD) | 3:32 |
-| 7 | [My Fun](https://open.spotify.com/track/306xT15GTuDs3NyopIANrh) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [My Fun](https://open.spotify.com/album/2obv9kAuyDBzo5jTwAOHob) | 2:42 |
-| 8 | [Meant to Be](https://open.spotify.com/track/0pXt0UdacoAg0eYHvPukXF) | [Jack J](https://open.spotify.com/artist/5AIM76YeoaHOzyUHbg4UKl), [© Linda Fox](https://open.spotify.com/artist/2DOGDrGDmfURr17vp3FYkJ) | [Meant to Be](https://open.spotify.com/album/7owhzox0MmtVOr95H3jYRR) | 4:33 |
-| 9 | [What is ashwagandha](https://open.spotify.com/track/59abjui3aifvPewKh2siLY) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [Slipper imp and shakaerator](https://open.spotify.com/album/2SArL4pMzLcKjHP4S7QWHV) | 4:31 |
-| 10 | [One More Trip Around The Sun](https://open.spotify.com/track/61VJXbD4Ea3KTumwwLgnTQ) | [Cari Cari](https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV) | [One More Trip Around The Sun](https://open.spotify.com/album/3YHaBBysxFf17TymibDhhh) | 4:32 |
-| 11 | [Tanana](https://open.spotify.com/track/0lYkjoTbmh9sVPv9yvGae3) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Tanana / Mush](https://open.spotify.com/album/0x1oIowTSUKCbeCEiUCifA) | 3:19 |
-| 12 | [Year of the Snake](https://open.spotify.com/track/2Rmfz4WlSPbzy98kcwDifU) | [BALTHVS](https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG) | [Year of the Snake](https://open.spotify.com/album/1jIjimyK38j4huVvIIicf3) | 3:06 |
-| 13 | [Ordinary Games](https://open.spotify.com/track/5sZihfPufHxsamleuyUvWz) | [Vaughn](https://open.spotify.com/artist/6V2CwJ2e1JOQLKlrFXJ259) | [Ordinary Games](https://open.spotify.com/album/4ogWcadWV2rjQPADcQbgvc) | 5:04 |
-| 14 | [Zero Sun](https://open.spotify.com/track/0g2RvPCmGHX8PeET2bEr0N) | [Little Barrie](https://open.spotify.com/artist/5ozUXaDjc4mfVyDIWCJH4E), [Malcolm Catto](https://open.spotify.com/artist/3dClk1vDnyMOSLxtDWqMxo) | [Zero Sun](https://open.spotify.com/album/457fHRbTBJDRv1hzSPY1we) | 3:27 |
-| 15 | [Dream With You](https://open.spotify.com/track/2gEkF9RXPzw3LSfnEXNBZn) | [Thandii](https://open.spotify.com/artist/68YD0oUAF8k1NqEFAIx60M) | [Dream With You](https://open.spotify.com/album/0hOv3G09E7fOjFe1Q8Iedu) | 4:34 |
+| 7 | [Meant to Be](https://open.spotify.com/track/0pXt0UdacoAg0eYHvPukXF) | [Jack J](https://open.spotify.com/artist/5AIM76YeoaHOzyUHbg4UKl), [© Linda Fox](https://open.spotify.com/artist/2DOGDrGDmfURr17vp3FYkJ) | [Meant to Be](https://open.spotify.com/album/7owhzox0MmtVOr95H3jYRR) | 4:33 |
+| 8 | [What is ashwagandha](https://open.spotify.com/track/59abjui3aifvPewKh2siLY) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [Slipper imp and shakaerator](https://open.spotify.com/album/2SArL4pMzLcKjHP4S7QWHV) | 4:31 |
+| 9 | [One More Trip Around The Sun](https://open.spotify.com/track/61VJXbD4Ea3KTumwwLgnTQ) | [Cari Cari](https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV) | [One More Trip Around The Sun](https://open.spotify.com/album/3YHaBBysxFf17TymibDhhh) | 4:32 |
+| 10 | [Tanana](https://open.spotify.com/track/0lYkjoTbmh9sVPv9yvGae3) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Tanana / Mush](https://open.spotify.com/album/0x1oIowTSUKCbeCEiUCifA) | 3:19 |
+| 11 | [Year of the Snake](https://open.spotify.com/track/2Rmfz4WlSPbzy98kcwDifU) | [BALTHVS](https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG) | [Year of the Snake](https://open.spotify.com/album/1jIjimyK38j4huVvIIicf3) | 3:06 |
+| 12 | [Ordinary Games](https://open.spotify.com/track/5sZihfPufHxsamleuyUvWz) | [Vaughn](https://open.spotify.com/artist/6V2CwJ2e1JOQLKlrFXJ259) | [Ordinary Games](https://open.spotify.com/album/4ogWcadWV2rjQPADcQbgvc) | 5:04 |
+| 13 | [Zero Sun](https://open.spotify.com/track/0g2RvPCmGHX8PeET2bEr0N) | [Little Barrie](https://open.spotify.com/artist/5ozUXaDjc4mfVyDIWCJH4E), [Malcolm Catto](https://open.spotify.com/artist/3dClk1vDnyMOSLxtDWqMxo) | [Zero Sun](https://open.spotify.com/album/457fHRbTBJDRv1hzSPY1we) | 3:27 |
+| 14 | [Dream With You](https://open.spotify.com/track/2gEkF9RXPzw3LSfnEXNBZn) | [Thandii](https://open.spotify.com/artist/68YD0oUAF8k1NqEFAIx60M) | [Dream With You](https://open.spotify.com/album/0hOv3G09E7fOjFe1Q8Iedu) | 4:34 |
+| 15 | [Bin Bin ii](https://open.spotify.com/track/0JHgtUOQeGioOQZ3X5gaZ8) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [The Universe Smiles Upon You ii](https://open.spotify.com/album/45ZWDMMVK0N0Hd2p7fLTCB) | 1:45 |
 | 16 | [Search and Destroy](https://open.spotify.com/track/0xIvgrDJMzYjwom7MwdfKT) | [Ima Robot](https://open.spotify.com/artist/0JzkAORtxJjXk3XDKvIUcb) | [Search and Destroy](https://open.spotify.com/album/5hgxmqIJcumltwZhrKS3wN) | 2:19 |
 | 17 | [Back It Up](https://open.spotify.com/track/3SnOQ9JWdakJ4ta7Zte3mG) | [Neal Francis](https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3) | [Back It Up](https://open.spotify.com/album/4KcksOCN8EwLzASgf2T7gB) | 4:39 |
 | 18 | [kazekage](https://open.spotify.com/track/6tx0CNndKStm6UqbMpqFA7) | [Mesita](https://open.spotify.com/artist/0Y4MvL6mOliZEB5uTLlX9z) | [kazekage](https://open.spotify.com/album/7GIiYgFMk4169GKIEg1yUT) | 3:28 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 | 109 | [Possibilities](https://open.spotify.com/track/02sCcp0dfMOZ644LDcDUZF) | [The Great Escape](https://open.spotify.com/artist/1kPPXyGPHwbZGsnuxFtjYg) | [Possibilities](https://open.spotify.com/album/3AvsHikvd4mLWgLkchQv8n) | 4:12 |
 | 110 | [Nothing in the Dark](https://open.spotify.com/track/7ohaAMlkJCeTLTnOhxdeR1) | [Holy Wave](https://open.spotify.com/artist/0Cx9SrMKbfrkHvnqJLHq6b) | [Nothing in the Dark](https://open.spotify.com/album/5yVOGagZfxr6W9Q3VFyuR8) | 4:58 |
 
-Snapshot ID: `AAAAAOO6Q1gDo6AyUx7qWbMllynu6Ur3`
+Snapshot ID: `AAAAAAQWmWn/ku4hw+e+YP1/NDG8oVMx`

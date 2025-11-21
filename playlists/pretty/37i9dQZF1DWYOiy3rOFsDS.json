@@ -1,6 +1,6 @@
 {
   "description": "Romance a la antig\u00fcita con Eddy y Ed Maverick en portada.",
-  "num_followers": 547367,
+  "num_followers": 547361,
   "original_name": "Boleros Pop",
   "owner": {
     "name": "Spotify",
@@ -543,22 +543,6 @@
     {
       "added_at": "2025-11-14 06:00:14",
       "album": {
-        "name": "Contigo En La Distancia",
-        "url": "https://open.spotify.com/album/7bouBjt8bjfdAHivSZ6hui"
-      },
-      "artists": [
-        {
-          "name": "Pedro Guerra",
-          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
-        }
-      ],
-      "duration_ms": 115200,
-      "name": "Toda una Vida",
-      "url": "https://open.spotify.com/track/5wQsHNpF6ivosuimPeo7Lo"
-    },
-    {
-      "added_at": "2025-11-14 06:00:14",
-      "album": {
         "name": "Mujer Divina - Homenaje a Agust\u00edn Lara",
         "url": "https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 236000,
       "name": "Piensa en M\u00ed (with Vicentico)",
       "url": "https://open.spotify.com/track/18FDZomlMoJ1pcY1v44Tjn"
+    },
+    {
+      "added_at": "2025-11-14 06:00:14",
+      "album": {
+        "name": "Contigo En La Distancia",
+        "url": "https://open.spotify.com/album/7bouBjt8bjfdAHivSZ6hui"
+      },
+      "artists": [
+        {
+          "name": "Pedro Guerra",
+          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
+        }
+      ],
+      "duration_ms": 115200,
+      "name": "Toda una Vida",
+      "url": "https://open.spotify.com/track/5wQsHNpF6ivosuimPeo7Lo"
     },
     {
       "added_at": "2025-11-14 06:00:14",
@@ -763,6 +763,38 @@
     {
       "added_at": "2025-11-14 06:00:14",
       "album": {
+        "name": "Casi algo",
+        "url": "https://open.spotify.com/album/3FIiOO2a4yHnbCe5zDImkY"
+      },
+      "artists": [
+        {
+          "name": "Me Dicen Jos",
+          "url": "https://open.spotify.com/artist/36HdCwthOIRbl977xy0ymV"
+        }
+      ],
+      "duration_ms": 165229,
+      "name": "Casi algo",
+      "url": "https://open.spotify.com/track/2lRIrlut8slUKShhAxJuK7"
+    },
+    {
+      "added_at": "2025-11-14 06:00:14",
+      "album": {
+        "name": "Matina",
+        "url": "https://open.spotify.com/album/22Tb1zKcJiUELDEnSRA34A"
+      },
+      "artists": [
+        {
+          "name": "Zuaraz",
+          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+        }
+      ],
+      "duration_ms": 128500,
+      "name": "Matina",
+      "url": "https://open.spotify.com/track/50DhWeIArP5tldIMUPtaVe"
+    },
+    {
+      "added_at": "2025-11-14 06:00:14",
+      "album": {
         "name": "Bolero",
         "url": "https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy"
       },
@@ -803,38 +835,6 @@
     {
       "added_at": "2025-11-14 06:00:14",
       "album": {
-        "name": "Casi algo",
-        "url": "https://open.spotify.com/album/3FIiOO2a4yHnbCe5zDImkY"
-      },
-      "artists": [
-        {
-          "name": "Me Dicen Jos",
-          "url": "https://open.spotify.com/artist/36HdCwthOIRbl977xy0ymV"
-        }
-      ],
-      "duration_ms": 165229,
-      "name": "Casi algo",
-      "url": "https://open.spotify.com/track/2lRIrlut8slUKShhAxJuK7"
-    },
-    {
-      "added_at": "2025-11-14 06:00:14",
-      "album": {
-        "name": "Matina",
-        "url": "https://open.spotify.com/album/22Tb1zKcJiUELDEnSRA34A"
-      },
-      "artists": [
-        {
-          "name": "Zuaraz",
-          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
-        }
-      ],
-      "duration_ms": 128500,
-      "name": "Matina",
-      "url": "https://open.spotify.com/track/50DhWeIArP5tldIMUPtaVe"
-    },
-    {
-      "added_at": "2025-11-14 06:00:14",
-      "album": {
         "name": "Somos Algo",
         "url": "https://open.spotify.com/album/2AsN8qBSqdGAlvUT3NBS4k"
       },
@@ -847,22 +847,6 @@
       "duration_ms": 234128,
       "name": "Somos Algo",
       "url": "https://open.spotify.com/track/5iSpfk6cDOSYePagAoG639"
-    },
-    {
-      "added_at": "2025-11-14 06:00:14",
-      "album": {
-        "name": "Armando Manzanero Duetos 2",
-        "url": "https://open.spotify.com/album/7CVN6xKqwDafXQ4vTsNUwl"
-      },
-      "artists": [
-        {
-          "name": "Armando Manzanero Duetos 2",
-          "url": "https://open.spotify.com/artist/3ynESLbVr0i6wxyRMMF08A"
-        }
-      ],
-      "duration_ms": 188600,
-      "name": "Nada personal (A dueto con Ana Torroja)",
-      "url": "https://open.spotify.com/track/56pm6QlEYiAQyCCidxsTSN"
     },
     {
       "added_at": "2025-11-14 06:00:14",
@@ -883,18 +867,18 @@
     {
       "added_at": "2025-11-14 06:00:14",
       "album": {
-        "name": "Bolero",
-        "url": "https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy"
+        "name": "Armando Manzanero Duetos 2",
+        "url": "https://open.spotify.com/album/7CVN6xKqwDafXQ4vTsNUwl"
       },
       "artists": [
         {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+          "name": "Armando Manzanero Duetos 2",
+          "url": "https://open.spotify.com/artist/3ynESLbVr0i6wxyRMMF08A"
         }
       ],
-      "duration_ms": 226973,
-      "name": "Piensa en M\u00ed",
-      "url": "https://open.spotify.com/track/63j4La0tnnyHXWwTZcluNC"
+      "duration_ms": 188600,
+      "name": "Nada personal (A dueto con Ana Torroja)",
+      "url": "https://open.spotify.com/track/56pm6QlEYiAQyCCidxsTSN"
     },
     {
       "added_at": "2025-11-14 06:00:14",
@@ -915,6 +899,22 @@
       "duration_ms": 162209,
       "name": "Cada Vez Te Extra\u00f1o Menos",
       "url": "https://open.spotify.com/track/4X1h5E9JSl1hlyuRJNLnOe"
+    },
+    {
+      "added_at": "2025-11-14 06:00:14",
+      "album": {
+        "name": "Bolero",
+        "url": "https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 226973,
+      "name": "Piensa en M\u00ed",
+      "url": "https://open.spotify.com/track/63j4La0tnnyHXWwTZcluNC"
     },
     {
       "added_at": "2025-11-14 06:00:14",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2025-11-14 06:00:14",
       "album": {
-        "name": "Solo Boleros",
-        "url": "https://open.spotify.com/album/4Pfgh3WJiJH1FUtwiI3oxD"
-      },
-      "artists": [
-        {
-          "name": "Kika Edgar",
-          "url": "https://open.spotify.com/artist/2QTmeZpVjHmIoYSRwsoucA"
-        }
-      ],
-      "duration_ms": 178925,
-      "name": "Cuando Vuelva a Tu Lado",
-      "url": "https://open.spotify.com/track/1TtvU2uSTwTaqloJwGItk7"
-    },
-    {
-      "added_at": "2025-11-14 06:00:14",
-      "album": {
         "name": "Me Vuelves Loca",
         "url": "https://open.spotify.com/album/2AuC5wOjsNXG7rWyFheYZi"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 259146,
       "name": "Contigo aprend\u00ed",
       "url": "https://open.spotify.com/track/0pO5eDgP67Inq0SrSRbxuB"
+    },
+    {
+      "added_at": "2025-11-14 06:00:14",
+      "album": {
+        "name": "Solo Boleros",
+        "url": "https://open.spotify.com/album/4Pfgh3WJiJH1FUtwiI3oxD"
+      },
+      "artists": [
+        {
+          "name": "Kika Edgar",
+          "url": "https://open.spotify.com/artist/2QTmeZpVjHmIoYSRwsoucA"
+        }
+      ],
+      "duration_ms": 178925,
+      "name": "Cuando Vuelva a Tu Lado",
+      "url": "https://open.spotify.com/track/1TtvU2uSTwTaqloJwGItk7"
     },
     {
       "added_at": "2025-11-14 06:00:14",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2025-11-14 06:00:14",
       "album": {
+        "name": "Jaque Mate",
+        "url": "https://open.spotify.com/album/6ISwwA1Y7kKGEjH2EoxsjZ"
+      },
+      "artists": [
+        {
+          "name": "Fer Sober\u00f3n",
+          "url": "https://open.spotify.com/artist/7N3Td3Wa6ADFhGYc9wp88U"
+        }
+      ],
+      "duration_ms": 186491,
+      "name": "Jaque Mate",
+      "url": "https://open.spotify.com/track/1e1qYSKEhN4UkIAoKRQgZ1"
+    },
+    {
+      "added_at": "2025-11-14 06:00:14",
+      "album": {
         "name": "Nada",
         "url": "https://open.spotify.com/album/3XNUDzTKKO4rimxDUG5vNj"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 172687,
       "name": "BOLERo LIBRA",
       "url": "https://open.spotify.com/track/6KGbKJBVB8tu5u6vrQCjbu"
-    },
-    {
-      "added_at": "2025-11-14 06:00:14",
-      "album": {
-        "name": "Jaque Mate",
-        "url": "https://open.spotify.com/album/6ISwwA1Y7kKGEjH2EoxsjZ"
-      },
-      "artists": [
-        {
-          "name": "Fer Sober\u00f3n",
-          "url": "https://open.spotify.com/artist/7N3Td3Wa6ADFhGYc9wp88U"
-        }
-      ],
-      "duration_ms": 186491,
-      "name": "Jaque Mate",
-      "url": "https://open.spotify.com/track/1e1qYSKEhN4UkIAoKRQgZ1"
     },
     {
       "added_at": "2025-11-14 06:00:14",
@@ -1547,26 +1547,6 @@
     {
       "added_at": "2025-11-14 06:00:14",
       "album": {
-        "name": "Noche Sensacional",
-        "url": "https://open.spotify.com/album/7zWTzor9FhwJC513rjjMda"
-      },
-      "artists": [
-        {
-          "name": "Chabuco",
-          "url": "https://open.spotify.com/artist/7iVnPo1i10De0UGQz5eDsl"
-        },
-        {
-          "name": "Dayhan D\u00edaz",
-          "url": "https://open.spotify.com/artist/3L2JdDvaqkXdtw0DTnxLSa"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Noche Sensacional",
-      "url": "https://open.spotify.com/track/6L2rOHvZAwPCp2FqYmyvZ5"
-    },
-    {
-      "added_at": "2025-11-14 06:00:14",
-      "album": {
         "name": "Apasionadamente",
         "url": "https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks"
       },
@@ -1603,6 +1583,26 @@
     {
       "added_at": "2025-11-14 06:00:14",
       "album": {
+        "name": "Noche Sensacional",
+        "url": "https://open.spotify.com/album/7zWTzor9FhwJC513rjjMda"
+      },
+      "artists": [
+        {
+          "name": "Chabuco",
+          "url": "https://open.spotify.com/artist/7iVnPo1i10De0UGQz5eDsl"
+        },
+        {
+          "name": "Dayhan D\u00edaz",
+          "url": "https://open.spotify.com/artist/3L2JdDvaqkXdtw0DTnxLSa"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Noche Sensacional",
+      "url": "https://open.spotify.com/track/6L2rOHvZAwPCp2FqYmyvZ5"
+    },
+    {
+      "added_at": "2025-11-14 06:00:14",
+      "album": {
         "name": "La Copa Rota",
         "url": "https://open.spotify.com/album/3drxZZ3WbobQSPlWE41EKM"
       },
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2025-11-14 06:00:14",
       "album": {
-        "name": "Se Pasan Los D\u00edas",
-        "url": "https://open.spotify.com/album/7mCEhGO323aWIm2bFoP5aZ"
-      },
-      "artists": [
-        {
-          "name": "Chesdana",
-          "url": "https://open.spotify.com/artist/1PobiDleeGFCqJgRVvX9DY"
-        }
-      ],
-      "duration_ms": 159413,
-      "name": "Se Pasan Los D\u00edas",
-      "url": "https://open.spotify.com/track/0vlY0i6Au1kWjMO4oL9pG4"
-    },
-    {
-      "added_at": "2025-11-14 06:00:14",
-      "album": {
         "name": "Lo Mejor",
         "url": "https://open.spotify.com/album/32dsC61ldEAoFxbl04NkAI"
       },
@@ -1667,6 +1651,22 @@
     {
       "added_at": "2025-11-14 06:00:14",
       "album": {
+        "name": "Se Pasan Los D\u00edas",
+        "url": "https://open.spotify.com/album/7mCEhGO323aWIm2bFoP5aZ"
+      },
+      "artists": [
+        {
+          "name": "Chesdana",
+          "url": "https://open.spotify.com/artist/1PobiDleeGFCqJgRVvX9DY"
+        }
+      ],
+      "duration_ms": 159413,
+      "name": "Se Pasan Los D\u00edas",
+      "url": "https://open.spotify.com/track/0vlY0i6Au1kWjMO4oL9pG4"
+    },
+    {
+      "added_at": "2025-11-14 06:00:14",
+      "album": {
         "name": "Incomprensible",
         "url": "https://open.spotify.com/album/4zwpvu8E4Ev8iM6V76nnI3"
       },
@@ -1679,6 +1679,22 @@
       "duration_ms": 211155,
       "name": "Incomprensible",
       "url": "https://open.spotify.com/track/39eazIEoQhjlwg6u29zMnl"
+    },
+    {
+      "added_at": "2025-11-14 06:00:14",
+      "album": {
+        "name": "Una Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/7cShrPBSg4JiIqPMmodnUX"
+      },
+      "artists": [
+        {
+          "name": "Denise Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/4svp08yFN6IGlkBJlEhT4Z"
+        }
+      ],
+      "duration_ms": 171272,
+      "name": "Una Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/59iMSvqe3XmRqhB9AS2bsM"
     },
     {
       "added_at": "2025-11-14 06:00:14",
@@ -1703,22 +1719,6 @@
     {
       "added_at": "2025-11-14 06:00:14",
       "album": {
-        "name": "Una Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/7cShrPBSg4JiIqPMmodnUX"
-      },
-      "artists": [
-        {
-          "name": "Denise Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/4svp08yFN6IGlkBJlEhT4Z"
-        }
-      ],
-      "duration_ms": 171272,
-      "name": "Una Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/59iMSvqe3XmRqhB9AS2bsM"
-    },
-    {
-      "added_at": "2025-11-14 06:00:14",
-      "album": {
         "name": "Enclave de Bolero",
         "url": "https://open.spotify.com/album/3C7x9eBK8VpQY4l6UgIQPy"
       },
@@ -1731,26 +1731,6 @@
       "duration_ms": 207997,
       "name": "Gracias",
       "url": "https://open.spotify.com/track/618mROSwHp4JeTR0E17KPC"
-    },
-    {
-      "added_at": "2025-11-14 06:00:14",
-      "album": {
-        "name": "Amor de Mis Amores",
-        "url": "https://open.spotify.com/album/2bLBFjTXVgi4x1z7xhoEhI"
-      },
-      "artists": [
-        {
-          "name": "Flac\u00f8",
-          "url": "https://open.spotify.com/artist/2MP4Sye1CkjSzki8eqG1ub"
-        },
-        {
-          "name": "KNYA",
-          "url": "https://open.spotify.com/artist/5OOwdQqnYQSdypLCSQ3Kvz"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Amor de Mis Amores",
-      "url": "https://open.spotify.com/track/3Ug99wzUpdJGtJSvc5tVls"
     },
     {
       "added_at": "2025-11-14 06:00:14",
@@ -1771,6 +1751,26 @@
       "duration_ms": 232221,
       "name": "Idas y Vueltas",
       "url": "https://open.spotify.com/track/5Ajw26Yo7IDiwTjDva2VIr"
+    },
+    {
+      "added_at": "2025-11-14 06:00:14",
+      "album": {
+        "name": "Amor de Mis Amores",
+        "url": "https://open.spotify.com/album/2bLBFjTXVgi4x1z7xhoEhI"
+      },
+      "artists": [
+        {
+          "name": "Flac\u00f8",
+          "url": "https://open.spotify.com/artist/2MP4Sye1CkjSzki8eqG1ub"
+        },
+        {
+          "name": "KNYA",
+          "url": "https://open.spotify.com/artist/5OOwdQqnYQSdypLCSQ3Kvz"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Amor de Mis Amores",
+      "url": "https://open.spotify.com/track/3Ug99wzUpdJGtJSvc5tVls"
     },
     {
       "added_at": "2025-11-14 06:00:14",

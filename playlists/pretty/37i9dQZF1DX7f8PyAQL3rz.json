@@ -1,6 +1,6 @@
 {
   "description": "em guerra de ego sobra quem?",
-  "num_followers": 1419019,
+  "num_followers": 1419024,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -447,26 +447,6 @@
     {
       "added_at": "2025-11-07 03:01:19",
       "album": {
-        "name": "Eu Venci o Mundo",
-        "url": "https://open.spotify.com/album/21FP96bn6KdYTSe5zCbhZT"
-      },
-      "artists": [
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        }
-      ],
-      "duration_ms": 107906,
-      "name": "Belieber",
-      "url": "https://open.spotify.com/track/0bek7IePM9EuMiDI6cGQJB"
-    },
-    {
-      "added_at": "2025-11-07 03:01:19",
-      "album": {
         "name": "Discreto",
         "url": "https://open.spotify.com/album/1ACVXYNOm1AwwCPxzgZfe1"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 120937,
       "name": "Discreto",
       "url": "https://open.spotify.com/track/2tojoGnvHLNuMuGncpnjAC"
+    },
+    {
+      "added_at": "2025-11-07 03:01:19",
+      "album": {
+        "name": "Eu Venci o Mundo",
+        "url": "https://open.spotify.com/album/21FP96bn6KdYTSe5zCbhZT"
+      },
+      "artists": [
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "duration_ms": 107906,
+      "name": "Belieber",
+      "url": "https://open.spotify.com/track/0bek7IePM9EuMiDI6cGQJB"
     },
     {
       "added_at": "2025-11-07 03:01:19",

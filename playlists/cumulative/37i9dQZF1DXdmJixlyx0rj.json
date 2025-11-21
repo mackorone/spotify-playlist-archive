@@ -2875,6 +2875,24 @@
     },
     {
       "album": {
+        "name": "KPOP B!TCH",
+        "url": "https://open.spotify.com/album/7EOFfxjYvlOmhJT0U3Uwxk"
+      },
+      "artists": [
+        {
+          "name": "The Deep",
+          "url": "https://open.spotify.com/artist/0hYtrPQ05Qu1N5r0QcpoDp"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172554,
+      "name": "KPOP B!TCH",
+      "url": "https://open.spotify.com/track/2v8n9luYuBJcvrhylo1G1f"
+    },
+    {
+      "album": {
         "name": "GRB02",
         "url": "https://open.spotify.com/album/7jbVRExKqUqRUtAXFAJeHG"
       },
@@ -4314,7 +4332,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 216386,
       "name": "Red Flavor - Mar Vista Remix",
       "url": "https://open.spotify.com/track/5yQEgFSwf12O3n5flJjcgX"

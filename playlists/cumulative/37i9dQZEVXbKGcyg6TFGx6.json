@@ -4022,7 +4022,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
@@ -11094,7 +11094,7 @@
       ],
       "date_added": "2025-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 155189,
       "name": "Charger",
       "url": "https://open.spotify.com/track/1mvzvLW9nFujgS2VNKnToJ"
@@ -18046,7 +18046,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 189553,
       "name": "Eternity",
       "url": "https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8"
@@ -18210,7 +18210,7 @@
       ],
       "date_added": "2024-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 253920,
       "name": "Every Breath You Take",
       "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
@@ -26842,7 +26842,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 216880,
       "name": "In the End",
       "url": "https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq"
@@ -27142,7 +27142,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 289533,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
@@ -27358,7 +27358,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-19",
+      "date_removed": null,
       "duration_ms": 207199,
       "name": "It's Beginning to Look a Lot like Christmas",
       "url": "https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3"
@@ -29064,7 +29064,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-20",
+      "date_removed": null,
       "duration_ms": 137840,
       "name": "KYKY2BONDY",
       "url": "https://open.spotify.com/track/3e2dR2180mZlz7dIrXZVi6"
@@ -30262,7 +30262,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-19",
+      "date_removed": null,
       "duration_ms": 117146,
       "name": "Let It Snow! Let It Snow! Let It Snow!",
       "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
@@ -32464,6 +32464,24 @@
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/6BPcUXYERAahpunmb0AovH"
+    },
+    {
+      "album": {
+        "name": "Ma Queen",
+        "url": "https://open.spotify.com/album/2AbPyYYL1B3deKIdKYZ9zB"
+      },
+      "artists": [
+        {
+          "name": "RZ",
+          "url": "https://open.spotify.com/artist/77cVQzbhjZZZSkeQtFYDPw"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146823,
+      "name": "Ma Queen",
+      "url": "https://open.spotify.com/track/2thFmeu4svPsmIT4PerSdi"
     },
     {
       "album": {
@@ -39560,7 +39578,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 235355,
       "name": "Opalite",
       "url": "https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa"
@@ -40690,7 +40708,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-15",
+      "date_removed": null,
       "duration_ms": 156927,
       "name": "Parfum",
       "url": "https://open.spotify.com/track/5bdPefR3nuMMAvCAAMdWDY"
@@ -42072,7 +42090,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-04",
+      "date_removed": null,
       "duration_ms": 230000,
       "name": "Poney",
       "url": "https://open.spotify.com/track/66ku4Gq4k5xUqdVL4Oam2r"
@@ -47230,6 +47248,36 @@
     {
       "album": {
         "name": "SEXTA",
+        "url": "https://open.spotify.com/album/0he9aXjU7JdxNyoUBorOOP"
+      },
+      "artists": [
+        {
+          "name": "Briz the Batchlor",
+          "url": "https://open.spotify.com/artist/2Bs56rqa2KZQv8wpuaSNpL"
+        },
+        {
+          "name": "Sunce",
+          "url": "https://open.spotify.com/artist/1OE3aeBD9Q7igKyUO4UCF9"
+        },
+        {
+          "name": "TripleOG809",
+          "url": "https://open.spotify.com/artist/4LfOcBhqlw9SHgaFPr0mno"
+        },
+        {
+          "name": "Lupus.674",
+          "url": "https://open.spotify.com/artist/2vOjlpGBSLGwizm63u1mkX"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144812,
+      "name": "SEXTA",
+      "url": "https://open.spotify.com/track/04UwGYXiYV6J1nZOdbtJ3x"
+    },
+    {
+      "album": {
+        "name": "SEXTA",
         "url": "https://open.spotify.com/album/43H7RlVVjrGrVQ2nz3v2bz"
       },
       "artists": [
@@ -47252,7 +47300,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 144812,
       "name": "SEXTA",
       "url": "https://open.spotify.com/track/5o15CMXiMtagO5ugDvZnaE"
@@ -48782,7 +48830,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-19",
+      "date_removed": null,
       "duration_ms": 165900,
       "name": "Snowman",
       "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"

@@ -1,12 +1,12 @@
 {
   "description": "This is Alejandro Fern\u00e1ndez. The essential tracks, all in one playlist.",
-  "num_followers": 844571,
+  "num_followers": 844658,
   "original_name": "This Is Alejandro Fern\u00e1ndez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRu3AAAAAADaAxnYHm8B7mfhVYsS3Bt5",
+  "snapshot_id": "aR0IgAAAAADb6bVhhGh7mL3m08QU/KWV",
   "tracks": [
     {
       "added_at": null,
@@ -391,6 +391,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mi Verdad",
+        "url": "https://open.spotify.com/album/1HYorOzh8yVdEsprLTnlyE"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 196266,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/1tQYNmqyChbjXyZqOkto7s"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Noches De Cantina",
         "url": "https://open.spotify.com/album/7s4iqJ8ygSoGZJuKm21v1g"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 243307,
       "name": "Mariposa Traicionera",
       "url": "https://open.spotify.com/track/0ZVkYk4VS3y2EBfpVHcdHv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mi Verdad",
-        "url": "https://open.spotify.com/album/1HYorOzh8yVdEsprLTnlyE"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 196266,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/1tQYNmqyChbjXyZqOkto7s"
     },
     {
       "added_at": null,
@@ -599,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piel De Ni\u00f1a",
-        "url": "https://open.spotify.com/album/0V7reyIZlLGrhgC4Jdv7wp"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 125200,
-      "name": "Cascos Ligeros",
-      "url": "https://open.spotify.com/track/5hMA0vhvm20GDIn5OyfJz7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Or\u00edgenes",
         "url": "https://open.spotify.com/album/7BV29ZA45jWvqMY9CuRNvl"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 208266,
       "name": "Tantita Pena",
       "url": "https://open.spotify.com/track/35EkiksXJbSPuOdMdjZvb0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Piel De Ni\u00f1a",
+        "url": "https://open.spotify.com/album/0V7reyIZlLGrhgC4Jdv7wp"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 125200,
+      "name": "Cascos Ligeros",
+      "url": "https://open.spotify.com/track/5hMA0vhvm20GDIn5OyfJz7"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Muy Dentro De Mi Corazon",
-        "url": "https://open.spotify.com/album/1MjXsi8NTPsYXwjhcbdolj"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 178160,
-      "name": "Es la Mujer",
-      "url": "https://open.spotify.com/track/3XZzWPnm0h00FAxiIbTvnd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Noche De Cuatro Lunas",
         "url": "https://open.spotify.com/album/4E1xep41OlMAv6wD4FgzyX"
       },
@@ -735,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rompiendo Fronteras",
-        "url": "https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp"
+        "name": "Muy Dentro De Mi Corazon",
+        "url": "https://open.spotify.com/album/1MjXsi8NTPsYXwjhcbdolj"
       },
       "artists": [
         {
@@ -744,9 +728,9 @@
           "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
         }
       ],
-      "duration_ms": 157200,
-      "name": "Quiero Que Vuelvas",
-      "url": "https://open.spotify.com/track/6DO6RhWMkNezxS5PD44SJT"
+      "duration_ms": 178160,
+      "name": "Es la Mujer",
+      "url": "https://open.spotify.com/track/3XZzWPnm0h00FAxiIbTvnd"
     },
     {
       "added_at": null,
@@ -763,6 +747,22 @@
       "duration_ms": 257773,
       "name": "Vamos A Darnos Tiempo - Live At El Lunario En La Ciudad De M\u00e9xico/2010",
       "url": "https://open.spotify.com/track/6DnpQbM6kELQYZ3jXCayo3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rompiendo Fronteras",
+        "url": "https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 157200,
+      "name": "Quiero Que Vuelvas",
+      "url": "https://open.spotify.com/track/6DO6RhWMkNezxS5PD44SJT"
     },
     {
       "added_at": null,
@@ -883,6 +883,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eso Y M\u00e1s",
+        "url": "https://open.spotify.com/album/3ej22uBC7EecBlN1GOg06U"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 166600,
+      "name": "Eso Y M\u00e1s",
+      "url": "https://open.spotify.com/track/4uV2q5BTVqsNU1oF5tT6q1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Cumbia Triste",
         "url": "https://open.spotify.com/album/7DSLHSjqV7CCjNa1NxKi2P"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 210955,
       "name": "La Cumbia Triste",
       "url": "https://open.spotify.com/track/2sAFBZ8a7uTT7tsAsjoUzo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eso Y M\u00e1s",
-        "url": "https://open.spotify.com/album/3ej22uBC7EecBlN1GOg06U"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 166600,
-      "name": "Eso Y M\u00e1s",
-      "url": "https://open.spotify.com/track/4uV2q5BTVqsNU1oF5tT6q1"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Kanye West. The essential tracks, all in one playlist.",
-  "num_followers": 1426656,
+  "num_followers": 1426832,
   "original_name": "This Is Kanye West",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRu3AAAAAADOHrEazle/Kii5FtOTdsiJ",
+  "snapshot_id": "aR0IgAAAAAD2vzUj9nP2iX6tW2PcNzIF",
   "tracks": [
     {
       "added_at": null,
@@ -979,22 +979,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Recession",
-        "url": "https://open.spotify.com/album/06k3QI4XXhSrvAqTh8mAdE"
+        "name": "Late Registration",
+        "url": "https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g"
       },
       "artists": [
-        {
-          "name": "Jeezy",
-          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
-        },
         {
           "name": "Kanye West",
           "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         }
       ],
-      "duration_ms": 321293,
-      "name": "Put On",
-      "url": "https://open.spotify.com/track/3OePAyHePd68TTKmy2hjq0"
+      "duration_ms": 245866,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/2DHNCWZYmVr1Lv08q5b0kB"
     }
   ],
   "unique_name": "This Is Kanye West",

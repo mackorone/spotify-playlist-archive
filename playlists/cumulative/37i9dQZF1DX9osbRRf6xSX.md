@@ -4,13 +4,13 @@
 
 > Dos de los más grandes, frente a frente.
 
-139 songs - 9 hr 0 min
+139 songs - 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A mi manera \- 2000 Remastered Version](https://open.spotify.com/track/5uyDA5kB1J3CDJgk0Rwfap) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Yo soy aquél \(Sus éxitos remasterizados\)](https://open.spotify.com/album/09QWbjZOQQw15lnxjvguK8) | 4:21 | 2021-09-29 |  |
 | [A veces llegan las cartas](https://open.spotify.com/track/350qjWDruJThcLWb8cBkkK) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Una vida de canciones](https://open.spotify.com/album/1PFJDPnHZuEwSlIbDy4G2c) | 2:54 | 2021-09-29 |  |
-| [Abrazame](https://open.spotify.com/track/4nqRbvEeGuV9jLCzC5OrMf) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [El Amor](https://open.spotify.com/album/5vejevOSlt0V2LUyliPM0w) | 3:31 | 2021-09-29 |  |
+| [Abrazame](https://open.spotify.com/track/4nqRbvEeGuV9jLCzC5OrMf) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [El Amor](https://open.spotify.com/album/5vejevOSlt0V2LUyliPM0w) | 3:29 | 2021-09-29 |  |
 | [Acuarela del río \- 2000 Remastered Version](https://open.spotify.com/track/7FURh8GJ67r3WqCyRtZNZC) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [iCollection](https://open.spotify.com/album/6U2VT49QhSTD4AiZWMMfxQ) | 2:52 | 2021-09-29 |  |
 | [Agua Dulce, Agua Salá](https://open.spotify.com/track/1CPJP4PnCTgeRaFZjNE9HB) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [La Carretera](https://open.spotify.com/album/4Qu6joqv4Ne2tMBmXXBN9A) | 4:24 | 2021-09-29 | 2024-04-19 |
 | [Agua Dulce, Agua Salá](https://open.spotify.com/track/6aqlfFPkU39NpzCa1vLdle) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [La Carretera](https://open.spotify.com/album/0vFSO7fbNCzvQiT47MSqh4) | 4:24 | 2021-09-29 |  |
@@ -35,7 +35,7 @@
 | [Corazón Partío](https://open.spotify.com/track/6PWaW18BZcY7P1LGd82Dky) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Noche De Cuatro Lunas](https://open.spotify.com/album/76WRudpYnfmWHdAi4evqMy) | 4:48 | 2021-09-29 | 2024-04-19 |
 | [Corazón Partío](https://open.spotify.com/track/4UzMs3RQnrUtAFWdQzEZdX) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Julio Iglesias, Volumen 1](https://open.spotify.com/album/2MK0JA0IjFYbqKctsptdsc) | 4:49 | 2021-09-29 |  |
 | [Crazy](https://open.spotify.com/track/5UPomCrgyIMqN8Itzf2N5L) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [My Life: The Greatest Hits](https://open.spotify.com/album/21GSy4UKShEpEfrojAEK9U) | 3:14 | 2021-09-29 |  |
-| [Cu Cu Rru Cu Cu Paloma](https://open.spotify.com/track/4peXvhLT61oP9leXdPQ36B) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Mexico](https://open.spotify.com/album/3TLv9ogX8qpZcEFFr2V1BC) | 3:28 | 2021-09-29 |  |
+| [Cu Cu Rru Cu Cu Paloma](https://open.spotify.com/track/4peXvhLT61oP9leXdPQ36B) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Mexico](https://open.spotify.com/album/3TLv9ogX8qpZcEFFr2V1BC) | 3:26 | 2021-09-29 |  |
 | [Cuando tú no estás](https://open.spotify.com/track/0duR2G7phML0me43RTS39Z) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Canta...Raphael](https://open.spotify.com/album/0cm8e4rwLQq30D5Yvzdy0g) | 3:38 | 2021-09-29 |  |
 | [De Niña a Mujer](https://open.spotify.com/track/2YhVvYKpwAFM01pCAn0rTW) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [De Nina A Mujer](https://open.spotify.com/album/79oKAi17dXJifpfz78vC7B) | 3:18 | 2021-09-29 |  |
 | [Desde aquel día](https://open.spotify.com/track/4IfvJ5JBylmK6Rn8nk9uws) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Canta...Raphael](https://open.spotify.com/album/0cm8e4rwLQq30D5Yvzdy0g) | 2:56 | 2021-09-29 |  |
@@ -96,7 +96,7 @@
 | [Nathalie](https://open.spotify.com/track/3oHYNCf23r5OJkHfJ5nIvo) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Mi Vida: Grandes Exitos](https://open.spotify.com/album/6dwBG2PX7oBd1syj2A5UUb) | 3:54 | 2021-09-29 |  |
 | [Nathalie \(Nathalie\)](https://open.spotify.com/track/65Mk62oJcVS6zZuboFJaUo) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Moments](https://open.spotify.com/album/6zic2LJXY3DaP2DWYVtCdT) | 3:54 | 2021-09-29 | 2024-04-19 |
 | [No puedo arrancarte de mí](https://open.spotify.com/track/0OnXbq2KOiu7cKzIjdbQli) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Enamorado de la Vida](https://open.spotify.com/album/6bIjSuMLfjDElhp1vuxgCe) | 3:58 | 2021-09-29 |  |
-| [Por El Amor De Una Mujer](https://open.spotify.com/track/7010oiDHpfwrZoYNxqgfoI) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [A Flor De Piel](https://open.spotify.com/album/3YAtD5obf0a1E2NHjZ8A8K) | 3:49 | 2021-09-29 |  |
+| [Por El Amor De Una Mujer](https://open.spotify.com/track/7010oiDHpfwrZoYNxqgfoI) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [A Flor De Piel](https://open.spotify.com/album/3YAtD5obf0a1E2NHjZ8A8K) | 3:48 | 2021-09-29 |  |
 | [Por Un Poco De Tu Amor](https://open.spotify.com/track/0sIKvPIqmSs0Kx64RWtkLo) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [A Mis 33 Anos](https://open.spotify.com/album/0k3VlqkW89fc1C86MLMGSQ) | 2:56 | 2021-09-29 | 2022-11-13 |
 | [Por Un Poco De Tu Amor](https://open.spotify.com/track/5V6Km3jmiBieOaqzxvnjRl) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [The 24 Greatest Songs](https://open.spotify.com/album/4eDknqB3s1EYXcMB1OpE7G) | 2:57 | 2021-09-29 |  |
 | [Por Un Poco De Tu Amor](https://open.spotify.com/track/18g5bPaSbn4xcqRsRjDaHG) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Begin the Beguine](https://open.spotify.com/album/5siSTOhozc4kGQxQgbFhvS) | 2:58 | 2021-09-29 | 2024-04-19 |

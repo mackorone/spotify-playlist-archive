@@ -2,15 +2,16 @@
 
 ### [Women of Country](https://open.spotify.com/playlist/37i9dQZF1DX49poIUZYXp7)
 
-> The extraordinary women making great country music today\. Cover: Karley Scott Collins
+> The extraordinary women making great country music today\. Cover: Megan Moroney
 
-404 songs - 21 hr 58 min
+405 songs - 22 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [100 Years](https://open.spotify.com/track/5wLFq2Gu7YomnXRw8wwX6g) | [Amanda Rheaume](https://open.spotify.com/artist/3AolL1C2j6PAqp3BuWzsRZ) | [100 Years](https://open.spotify.com/album/3bpXxgMyuQNlM1EdM7VI7Y) | 3:42 | 2022-03-25 | 2022-04-20 |
 | [20Something](https://open.spotify.com/track/75CBAcsuwlFdLDt7lLzgVc) | [Haley Mae Campbell](https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3), [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [20Something](https://open.spotify.com/album/0tIU8Lg0dDr9VhWcDJM12C) | 3:09 | 2023-03-17 | 2023-06-03 |
 | [2AM in London](https://open.spotify.com/track/2MG0gRnnPFFMLKPF4ZH8uP) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [2AM in London](https://open.spotify.com/album/07pnM1TEU8McjEe4gw1SGQ) | 3:03 | 2024-04-01 | 2024-07-02 |
+| [6 Months Later](https://open.spotify.com/track/4Km9FSF9iaQiTLnFPdbPom) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [6 Months Later](https://open.spotify.com/album/0JGIg3ny1crTowB0Qi1Zx1) | 3:02 | 2025-11-20 |  |
 | [A Hundred](https://open.spotify.com/track/2C83kplH0uabvBCs8atvZN) | [Reyna Roberts](https://open.spotify.com/artist/4jpqm8g4We93Uk6M9M4FDh) | [Bad Girl Bible, Vol 2: The Lost Files](https://open.spotify.com/album/7dx3egWe4XydAlpBw3XznM) | 3:13 | 2024-09-20 |  |
 | [A Little Bit Stronger](https://open.spotify.com/track/5FIp4LrsffxiHLhmmpCbCx) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Stronger](https://open.spotify.com/album/03WjhytqhNAvfJI5DeNZUO) | 5:01 | 2021-12-01 | 2024-07-02 |
 | [Act Like You Don't](https://open.spotify.com/track/0q6FfCDdYn9VNucILsROWk) | [Brooke Eden](https://open.spotify.com/artist/6TFhESBLRTi95wmI1dRFVt) | [Welcome to the Weekend](https://open.spotify.com/album/1lGTiWiRf5AiLmaFGCZcAZ) | 3:52 | 2022-03-25 | 2022-04-21 |

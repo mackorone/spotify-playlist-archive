@@ -3055,6 +3055,24 @@
     },
     {
       "album": {
+        "name": "Supermarket",
+        "url": "https://open.spotify.com/album/2DdMFIN9ixfj0egXGlcfPy"
+      },
+      "artists": [
+        {
+          "name": "Say Now",
+          "url": "https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184155,
+      "name": "Supermarket",
+      "url": "https://open.spotify.com/track/5TQq3QfG2tXGZum3GvBmkm"
+    },
+    {
+      "album": {
         "name": "Suzanne",
         "url": "https://open.spotify.com/album/3abFlHRlGCejxVmW9sndHG"
       },

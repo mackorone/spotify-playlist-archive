@@ -2,9 +2,9 @@
 
 ### [Wire](https://open.spotify.com/playlist/37i9dQZF1DX3SHrJsyCVuc)
 
-> A new world of alternative noise\. Cover: Mini Skirt
+> A new world of alternative noise\. Cover: Public Figures
 
-84 songs - 4 hr 30 min
+89 songs - 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,9 @@
 | [Anti\-Lonely](https://open.spotify.com/track/24MrGCTAZR9QfGwoXIZtRW) | [Retail Drugs](https://open.spotify.com/artist/20E1xPsDShhr1qcVPStW3v) | [Anti\-Lonely](https://open.spotify.com/album/43535djalxNGf70jDm6NNY) | 2:07 | 2025-10-23 |  |
 | [Automate Me](https://open.spotify.com/track/42VOxxXnw23ir7nNRDPL8J) | [Speed Week](https://open.spotify.com/artist/1YqOI80mYoot4jWj39VlMn) | [Automate Me](https://open.spotify.com/album/0TCRkaqYIeodw6bJ7B8OqR) | 3:43 | 2025-10-23 |  |
 | [Beat To Beat](https://open.spotify.com/track/4UFcCjyoEA6mGXDsur7UOD) | [Gut Health](https://open.spotify.com/artist/0WKHQ3a24pKDB991wqLjMU) | [Beat To Beat](https://open.spotify.com/album/2xzitXIQ7x8HqVfNvnzfLi) | 4:16 | 2025-10-23 |  |
+| [Black & Blue](https://open.spotify.com/track/69L556M1aoKnPLoI3LcmaD) | [The Lonesomes](https://open.spotify.com/artist/2WuHTgLaodw4synbCPjn3c) | [Black & Blue](https://open.spotify.com/album/5TFe3QVQa0BEaHBKK21Pa9) | 3:19 | 2025-11-20 |  |
 | [Black swan](https://open.spotify.com/track/4Xu6PC9zAzBECTYAEY9glE) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [If Not Winter](https://open.spotify.com/album/6R21I5E805CLZmDn8vESQM) | 4:25 | 2025-10-23 |  |
+| [Blisters \(feat\. Noah Learmonth\)](https://open.spotify.com/track/4LSg5nCsJ35jHA1vRqBRhR) | [Sex Mask](https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ), [Noah Learmonth](https://open.spotify.com/artist/6Q9ndqe5oLP6PbgENxW1Pp) | [Blisters \(feat\. Noah Learmonth\)](https://open.spotify.com/album/0slU8BRWpMKzOep39Rd59b) | 3:30 | 2025-11-20 |  |
 | [Bug](https://open.spotify.com/track/0MXmiqd7zoXxv6Gqn9ahhQ) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Romance](https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5) | 3:02 | 2025-10-23 |  |
 | [bus stop](https://open.spotify.com/track/4JjJoKsFOtR9rvaYMzVXW8) | [The Empty Threats](https://open.spotify.com/artist/3yFZgbeIbg9UmgkOojGuGt) | [bus stop](https://open.spotify.com/album/30fvYRLzPWREqBkIhdKLit) | 3:23 | 2025-10-23 | 2025-11-07 |
 | [Call U Back](https://open.spotify.com/track/47HdXfgydiy53cEiD6lhU5) | [TTSSFU](https://open.spotify.com/artist/4u0g598Mtg9ch4HgEP2DFG) | [Call U Back](https://open.spotify.com/album/3Pbiv3ZCM6WWehbB0nj2It) | 3:04 | 2025-10-23 |  |
@@ -36,6 +38,7 @@
 | [Forgotten Token](https://open.spotify.com/track/0SaFJ21gDyyTrEsHGgJr5d) | [Upchuck](https://open.spotify.com/artist/7mhCgHESQzEKKyWshkMTwW) | [Forgotten Token / Un Momento](https://open.spotify.com/album/3Fy6a5Wj5FfY6s9JIU2JtM) | 3:28 | 2025-10-23 | 2025-11-07 |
 | [Friendship Bracelet](https://open.spotify.com/track/60FBfGHqju9muD7rNs6tz3) | [Behind You](https://open.spotify.com/artist/1T6MrJ05LTMSvGL8zMNjku), [SUPEREGO](https://open.spotify.com/artist/6F91LpAhKWgrnHf4uAc1ER) | [Friendship Bracelet](https://open.spotify.com/album/0IhqfuNHOmWgjgj5oIuBSQ) | 3:04 | 2025-10-23 | 2025-11-07 |
 | [Fundraiser](https://open.spotify.com/track/31n4AvZ46fNJl6QHgVCKL9) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [Fundraiser](https://open.spotify.com/album/41zdUDQTzzWa0lxjCvDxID) | 3:39 | 2025-10-23 | 2025-11-14 |
+| [Gatekeep](https://open.spotify.com/track/78WLXqaqyu9PeUbMjvF5iQ) | [Big Modern](https://open.spotify.com/artist/6YqLPGpAOXTBVndsTaQXxp) | [Big Modern](https://open.spotify.com/album/07Grit2srI4QYHsXbE0zIX) | 1:06 | 2025-11-20 |  |
 | [Golden Boy](https://open.spotify.com/track/3A1ODOlyUOBNHHSkob57Ym) | [Radium Dolls](https://open.spotify.com/artist/5XdOr2J2sgTI4mEE6j9KYr) | [Golden Boy](https://open.spotify.com/album/7ukf25x1Denwo0UbDfaEXx) | 3:41 | 2025-10-23 |  |
 | [good luck](https://open.spotify.com/track/3oAziHFXoYjjdNqkldMO9w) | [Faerybabyy](https://open.spotify.com/artist/2jp9e4qVPGoS2X2fyNy9id), [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [good luck](https://open.spotify.com/album/0QqHV2pIGSb6DMjyV98lrb) | 1:46 | 2025-10-23 |  |
 | [Head In A Toaster](https://open.spotify.com/track/3imsIC8F4wV3AX7oIoIkCE) | [Big Modern](https://open.spotify.com/artist/6YqLPGpAOXTBVndsTaQXxp) | [Head In A Toaster](https://open.spotify.com/album/3fvhuLxy0ynDpYUlL5MxYM) | 1:55 | 2025-10-23 |  |
@@ -48,11 +51,11 @@
 | [Jetplane](https://open.spotify.com/track/1LSGFeUg7nnzTwM0fShNyA) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Jetplane](https://open.spotify.com/album/2dqqdgT9eAranPuGWV38Zc) | 2:36 | 2025-10-23 |  |
 | [Landed In A Trap](https://open.spotify.com/track/2McVnlCfJVaRFNeSwIAUgU) | [Public Figures](https://open.spotify.com/artist/3A93doBF2yINkhxYRxaw5b) | [Landed In A Trap](https://open.spotify.com/album/2w1VfJ8bKHbPwfXM09yiNE) | 1:24 | 2025-10-23 |  |
 | [Landslide](https://open.spotify.com/track/3YGUjZ9giUQTnseoUqf0By) | [Death Bells](https://open.spotify.com/artist/14aKkOrkqm6amS81rUMZPg), [Sans Merit](https://open.spotify.com/artist/6ArU4k8PS1STHehmWH770a) | [Landslide](https://open.spotify.com/album/0xlFiNYXN3cF666OLUxRlz) | 3:21 | 2025-10-23 |  |
-| [Long Line](https://open.spotify.com/track/2hj5Qm88WoLdKPut2KGoRD) | [Soft Bait](https://open.spotify.com/artist/2GdDNUCO7QLHKxHvWOkl2J) | [Long Line](https://open.spotify.com/album/2rG5spc0tbdMY3pwVB7vkd) | 3:32 | 2025-10-23 |  |
+| [Long Line](https://open.spotify.com/track/2hj5Qm88WoLdKPut2KGoRD) | [Soft Bait](https://open.spotify.com/artist/2GdDNUCO7QLHKxHvWOkl2J) | [Long Line](https://open.spotify.com/album/2rG5spc0tbdMY3pwVB7vkd) | 3:32 | 2025-10-23 | 2025-11-21 |
 | [Mad Rooter](https://open.spotify.com/track/6cuXSWojM83UcPkrfbd75t) | [Party Dozen](https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm) | [Mad Rooter](https://open.spotify.com/album/4n5Lg3hYCaJIv434OImVaO) | 3:05 | 2025-10-23 |  |
 | [Megaton](https://open.spotify.com/track/6tsugFcFFJvz89znj7bNJK) | [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh) | [Megaton](https://open.spotify.com/album/25Ujl2GZlvbQkf23YeUyCN) | 2:52 | 2025-10-23 |  |
 | [mlb](https://open.spotify.com/track/6uXSZazWjvwsPVEDngFfQs) | [\(e\)motion engine](https://open.spotify.com/artist/6mJhsXOVqhFN2exIZD91rK) | [mlb](https://open.spotify.com/album/5kONlQGQnbfCPybdJQhbry) | 3:52 | 2025-10-23 |  |
-| [Nausea](https://open.spotify.com/track/4NyZSDjtIfz27tSVGnd3uu) | [Special Guest](https://open.spotify.com/artist/4WPcB3czUtzQ2QT1MAikKu) | [Nausea](https://open.spotify.com/album/0MJVMWhQjrVp9aE7M5b9mi) | 4:01 | 2025-10-23 |  |
+| [Nausea](https://open.spotify.com/track/4NyZSDjtIfz27tSVGnd3uu) | [Special Guest](https://open.spotify.com/artist/4WPcB3czUtzQ2QT1MAikKu) | [Nausea](https://open.spotify.com/album/0MJVMWhQjrVp9aE7M5b9mi) | 4:01 | 2025-10-23 | 2025-11-21 |
 | [NEW AGE](https://open.spotify.com/track/1iBoLtHJkiR4JHcZSoDtF9) | [sleepazoid](https://open.spotify.com/artist/6IYHXeYElVd2F2ovDrYFel) | [NEW AGE](https://open.spotify.com/album/4gkvq2hK8b3GPeKY6W2E03) | 3:32 | 2025-10-23 |  |
 | [New Case](https://open.spotify.com/track/5LF2zTvtSPdm6Ffa2IuXUf) | [Upchuck](https://open.spotify.com/artist/7mhCgHESQzEKKyWshkMTwW) | [New Case](https://open.spotify.com/album/5szt6cyBnFYsksLYpu4jw1) | 2:46 | 2025-10-23 |  |
 | [No Love](https://open.spotify.com/track/54pSlokgcxJakkfBm10N3c) | [Sex Mask](https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ) | [No Love](https://open.spotify.com/album/2gZS32bPZcfyBu0Cg8Colc) | 1:58 | 2025-10-23 |  |
@@ -60,12 +63,13 @@
 | [omni shambles](https://open.spotify.com/track/741HkhBFMxxkmq1uU0VJSz) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [omni shambles](https://open.spotify.com/album/45dbSWXwlSOxhPLcWs1n9X) | 2:16 | 2025-10-23 |  |
 | [One Train](https://open.spotify.com/track/5CiLlBxMClDoCe7fAJfn8p) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB) | [One Train](https://open.spotify.com/album/4Vx7dItHDgFCRgZzM7ngxN) | 2:32 | 2025-10-23 |  |
 | [Parasite](https://open.spotify.com/track/6JIh5QYBFfoaRQkYvpnkvH) | [Big Modern](https://open.spotify.com/artist/6YqLPGpAOXTBVndsTaQXxp) | [Parasite](https://open.spotify.com/album/50MUt4o2af60ChoEniSgfB) | 2:27 | 2025-10-23 |  |
+| [PIG](https://open.spotify.com/track/33qLbrztG3T7A4YLqO88BM) | [These New South Whales](https://open.spotify.com/artist/0srVTNI2U8J7vytCTprEk4) | [BIRDBRAIN / PIG](https://open.spotify.com/album/7hWvLBn1TarX302yU3QmUq) | 1:58 | 2025-11-20 |  |
 | [PIRATE RADIO](https://open.spotify.com/track/6HQFxxX9d7HailblPX0Nxy) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [PIRATE RADIO](https://open.spotify.com/album/1bxj95VYRQYbEzaEHD3fp3) | 2:54 | 2025-10-23 |  |
 | [PLAINTIVE NATIVE](https://open.spotify.com/track/752jJf80yhDnt7K7dTfTnO) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [PLAINTIVE NATIVE](https://open.spotify.com/album/3o7SM2cImToqXzVwWrfloL) | 3:18 | 2025-10-23 |  |
 | [Pom Pom](https://open.spotify.com/track/50XEaacXqkRUm4a2fQpoCS) | [Snõõper](https://open.spotify.com/artist/197lTCdMFPariBJ2Xd1xNb) | [Pom Pom](https://open.spotify.com/album/4IzgMbugCWmPVnIp9T8aQX) | 2:08 | 2025-10-23 | 2025-11-07 |
 | [Pray To That](https://open.spotify.com/track/00FPHiKX0CAJ767v58xmhO) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Pray To That](https://open.spotify.com/album/3qczr2RYA7bpl3ABKpUgXo) | 3:06 | 2025-10-23 |  |
 | [Punching Up](https://open.spotify.com/track/32Xt9yW9HLdMTtUpMooCr0) | [Garage Sale](https://open.spotify.com/artist/5mKieFMfRUdzfTKG1FtOXu) | [Punching Up](https://open.spotify.com/album/46URcwbxXPLxI6ATPCHnBt) | 3:23 | 2025-10-23 |  |
-| [Rabbit Run \- From the "Caught Stealing" Original Motion Picture Soundtrack](https://open.spotify.com/track/1uA4NmAjuQIaM2hcOzftFx) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C), [Caught Stealing Movie](https://open.spotify.com/artist/7tA53pONjaW3je6N1ugaPo) | [Rabbit Run \(From the "Caught Stealing" Original Motion Picture Soundtrack\)](https://open.spotify.com/album/39PWEXZY2QbMCp1f31mPmL) | 3:46 | 2025-10-23 |  |
+| [Rabbit Run \- From the "Caught Stealing" Original Motion Picture Soundtrack](https://open.spotify.com/track/1uA4NmAjuQIaM2hcOzftFx) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C), [Caught Stealing Movie](https://open.spotify.com/artist/7tA53pONjaW3je6N1ugaPo) | [Rabbit Run \(From the "Caught Stealing" Original Motion Picture Soundtrack\)](https://open.spotify.com/album/39PWEXZY2QbMCp1f31mPmL) | 3:46 | 2025-10-23 | 2025-11-21 |
 | [Restless](https://open.spotify.com/track/4JfUcA4mR4qk7bYRuMkPQc) | [dust](https://open.spotify.com/artist/1QcbaOVrpo91k6rHnzhMeA) | [Restless](https://open.spotify.com/album/2Mkm2RoXbtIMAmhNAVbDwi) | 4:53 | 2025-10-23 |  |
 | [Robbery](https://open.spotify.com/track/6kOkD5tpj0dM6dfi3ZzKtF) | [Billions](https://open.spotify.com/artist/0d4Vp1bZp6pienWr5UZk4o) | [Robbery](https://open.spotify.com/album/44jWNm50qfPHCVTJhZwWHN) | 2:01 | 2025-10-23 |  |
 | [rooster](https://open.spotify.com/track/5gTYOYsiGMYVa6WVf98q1n) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [rooster](https://open.spotify.com/album/2wDHpVaU5WuuRgkn52Lp2e) | 5:35 | 2025-10-23 |  |
@@ -80,7 +84,7 @@
 | [Squeeze Down](https://open.spotify.com/track/2PduPaP3h1NEvZoI0LcIHP) | [Mini Skirt](https://open.spotify.com/artist/5wKtvUJOtdIcDgIc68WpOv) | [Squeeze Down](https://open.spotify.com/album/31tSVDf3il4MdNbNT3hDws) | 3:03 | 2025-10-23 |  |
 | [Star 6 9](https://open.spotify.com/track/0e2aRqnNEkLc1NDgVpfSuP) | [Snõõper](https://open.spotify.com/artist/197lTCdMFPariBJ2Xd1xNb) | [Worldwide](https://open.spotify.com/album/1Lej9DPOh2ljmeiyKTFHrz) | 3:11 | 2025-10-23 |  |
 | [Sucking on a Surly Pout](https://open.spotify.com/track/6Hs8BuojSpPQkF2wmU6RUh) | [Ringlets](https://open.spotify.com/artist/5CgTsJzu2AaHviFIlpoLwa) | [The Lord Is My German Shepherd \(Time for Walkies\)](https://open.spotify.com/album/4y9KRNv8lpiQHJjUMh8923) | 3:31 | 2025-10-23 |  |
-| [Swamped](https://open.spotify.com/track/18m8UwkEJvXk7EQEv4q4sD) | [dust](https://open.spotify.com/artist/1QcbaOVrpo91k6rHnzhMeA) | [Sky Is Falling](https://open.spotify.com/album/28uUvZtG0MaZILpUToigcn) | 3:17 | 2025-10-23 |  |
+| [Swamped](https://open.spotify.com/track/18m8UwkEJvXk7EQEv4q4sD) | [dust](https://open.spotify.com/artist/1QcbaOVrpo91k6rHnzhMeA) | [Sky Is Falling](https://open.spotify.com/album/28uUvZtG0MaZILpUToigcn) | 3:17 | 2025-10-23 | 2025-11-21 |
 | [Take Me Apart](https://open.spotify.com/track/60X2aBTjALI2TZvRe3dHTJ) | [LORY](https://open.spotify.com/artist/1MnhXelXuGXhjgCyWrc4DF) | [Three\-Three\-Three](https://open.spotify.com/album/48JSARqYTYJa1DmZl1NOLJ) | 2:19 | 2025-11-06 |  |
 | [The Cigs, The Light, The Coffee And Crying](https://open.spotify.com/track/0cAxXnkhieGaVWJvMByqXM) | [Dharmacide](https://open.spotify.com/artist/6Opwdl6TcMEonIbtztjl0k) | [The Cigs, The Light, The Coffee And Crying](https://open.spotify.com/album/3MFaIxaSLmMgY1OfsByCN5) | 3:03 | 2025-10-23 |  |
 | [THE RECAP](https://open.spotify.com/track/2MqtHEaoMmfVMe3gjg7rQz) | [KNEECAP](https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU), [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0) | [THE RECAP](https://open.spotify.com/album/5mJPfSEKnCAjpfuknVQwol) | 2:29 | 2025-10-23 | 2025-11-14 |
@@ -89,7 +93,8 @@
 | [Tired](https://open.spotify.com/track/75Hb6zfkNVghWhkxaye8O2) | [Upchuck](https://open.spotify.com/artist/7mhCgHESQzEKKyWshkMTwW) | [Tired](https://open.spotify.com/album/4h8WaLQ7LtzgiWsS40HGTz) | 2:11 | 2025-10-23 |  |
 | [Today Might Be The Hit](https://open.spotify.com/track/0vlHDBj2OpXqPCllTJNOLt) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Today Might Be The Hit](https://open.spotify.com/album/7pjYZia3RiUqYGtZ2FRaXT) | 2:11 | 2025-10-23 |  |
 | [Toyota Camry](https://open.spotify.com/track/7xAgpLgXL0Hi1q2pW48zNa) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj) | [Toyota Camry](https://open.spotify.com/album/1iabNMrVo9EZjQdWvJkwHB) | 3:10 | 2025-10-23 | 2025-11-14 |
-| [Uno II](https://open.spotify.com/track/2CHdkhVS2Nh0fIEdzpokC7) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Uno II](https://open.spotify.com/album/7fvZOXZ2ttLiJNBjjLEBbg) | 2:15 | 2025-10-23 |  |
+| [Uno II](https://open.spotify.com/track/2CHdkhVS2Nh0fIEdzpokC7) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Uno II](https://open.spotify.com/album/7fvZOXZ2ttLiJNBjjLEBbg) | 2:15 | 2025-10-23 | 2025-11-21 |
+| [Unravel](https://open.spotify.com/track/3ez0xKG3l1OrHFZ6wy64OB) | [Radium Dolls](https://open.spotify.com/artist/5XdOr2J2sgTI4mEE6j9KYr) | [Unravel](https://open.spotify.com/album/0tibtVhSBn7hILu0brCz8e) | 3:46 | 2025-11-20 |  |
 | [want someone](https://open.spotify.com/track/6z3OIvA4hWhL9tAqh4pG5N) | [The Empty Threats](https://open.spotify.com/artist/3yFZgbeIbg9UmgkOojGuGt) | [want someone](https://open.spotify.com/album/6sHptB5hwfGcHfTk2x9I4d) | 2:40 | 2025-10-23 |  |
 | [Waterboy](https://open.spotify.com/track/2Nyztwz6fs4sXGCqIhAwIO) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [viagr aboys](https://open.spotify.com/album/0ibbISvq4loJXVtZquKrQB) | 2:58 | 2025-10-23 |  |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Rl8uES4jYu.md) - [plain]
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,965 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,946 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Rl8uES4jYu.md) - [plain]
 | 85 | [Cherry Pie](https://open.spotify.com/track/49NJppBKrOhxs5DSBSucSL) | [Deza](https://open.spotify.com/artist/2HoaVzOMwwXNauX5cjdXwg) | [Cherry Pie](https://open.spotify.com/album/0LKgEWhOvPszUBabtNTVGQ) | 2:04 |
 | 86 | [I Know \(feat\. Tenille Townes & Bryce Vine\)](https://open.spotify.com/track/5DU3wahsCBJ6kkyDBYpIRN) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A), [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z), [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [I Know \(feat\. Tenille Townes & Bryce Vine\)](https://open.spotify.com/album/67YRdAiqz6kybb31VrYo58) | 3:03 |
 | 87 | [Better Without You](https://open.spotify.com/track/3WURRexuZzg92BEcAGtfdr) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Nazzereene](https://open.spotify.com/artist/3juwo4sTF5okJNvCfQpArZ) | [Stimulate](https://open.spotify.com/album/2G52gPPh0xnOCjbcHRJv4e) | 2:56 |
-| 88 | [Sad Songs \(feat\. Allen Stone, Clyde Lawrence, Huntertones\)](https://open.spotify.com/track/5Dn5BjKtgOdV38s9KWJqX6) | [Eric Hutchinson](https://open.spotify.com/artist/39x8gyJjTHiBQklFgVJSV4), [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa), [Clyde Lawrence](https://open.spotify.com/artist/1y2IF2R2mHA7SIAZKbNWx3), [Huntertones](https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd) | [Sad Songs](https://open.spotify.com/album/6Bq9U6Ka2k2un3KLqiLbOY) | 3:58 |
+| 88 | [Sad Songs \(feat\. Allen Stone, Clyde Lawrence, Huntertones\)](https://open.spotify.com/track/5Dn5BjKtgOdV38s9KWJqX6) | [Eric Hutchinson](https://open.spotify.com/artist/39x8gyJjTHiBQklFgVJSV4), [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa), [Clyde Lawrence](https://open.spotify.com/artist/6MvAhgguWcse6KN2pwv4MP), [Huntertones](https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd) | [Sad Songs](https://open.spotify.com/album/6Bq9U6Ka2k2un3KLqiLbOY) | 3:58 |
 | 89 | [Be Who You Are \(Real Magic\) \(feat\. JID, NewJeans & Camilo\)](https://open.spotify.com/track/7fcZk7OXeFWD7DWybltVVf) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Be Who You Are \(Real Magic\)](https://open.spotify.com/album/1Pk1W5xbmAqG6wBNL4sjq5) | 3:09 |
 | 90 | [Home Improvement](https://open.spotify.com/track/17O5F0I7FZJ009c9aKtWRo) | [Brasstracks](https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr), [Rothstein](https://open.spotify.com/artist/0Qta34kIeeonfyC692s5b8) | [Indigo](https://open.spotify.com/album/7hwvmVx9NHOAmRHFgWZpe4) | 1:57 |
 | 91 | [Ciao](https://open.spotify.com/track/5m7iT2XPqtkRDPoDNF5TRG) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP), [Spencer Ludwig](https://open.spotify.com/artist/6miuYP0AovZaaKpRFaDQMQ) | [Ciao](https://open.spotify.com/album/54N3zI6n5WzpAe7PXUyGuF) | 2:58 |

@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/0N2psSxKwz0licgMefLKx2.md) - cumulative - [plain](/playlists/plain/0N2psSxKwz0licgMefLKx2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0N2psSxKwz0licgMefLKx2)
 
-### [COUNTRY LIFE](https://open.spotify.com/playlist/0N2psSxKwz0licgMefLKx2)
+### [2025 COUNTRY BANGERS 🤠🔥](https://open.spotify.com/playlist/0N2psSxKwz0licgMefLKx2)
 
-> From Toronto to Nashville \- country is more than a genre, it's a lifestyle! Subscribe <a href="https://forms.umusic\-online.com/forms/\-MzVRuWCJewxwySP2ZdQ">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Shawn Desman, Dallas Smith
+> The biggest Country hits of the year! Subscribe <a href="https://forms.umusic\-online.com/forms/\-MzVRuWCJewxwySP2ZdQ">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Owen Riegling
 
 384 songs - 20 hr 56 min
 

@@ -2,9 +2,9 @@
 
 ### [100 Suomi](https://open.spotify.com/playlist/37i9dQZF1DWTw1ORfckhDu)
 
-> 💯 Suomi\.  Kannessa Jore & Zpoppa.
+> 💯 Suomi\.  Kannessa Alina Burnet.
 
-1,052 songs - 2 day 1 hr 58 min
+1,053 songs - 2 day 2 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -810,7 +810,7 @@
 | [Selvii päivii](https://open.spotify.com/track/4aDQIhFNwywQ7Ch0kJCXF0) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7) | [Selvii päivii](https://open.spotify.com/album/3acDUN7PzZpC8N21Pm2Ty5) | 3:00 | 2024-07-04 | 2024-10-18 |
 | [Selvin Päin](https://open.spotify.com/track/6o2AMYqqQIzBLUmbrFPhHn) | [Jokrates](https://open.spotify.com/artist/388BgNWjRWFHgJnsmBdJzE) | [Selvin Päin](https://open.spotify.com/album/5qtJaTkQjLtgGPwEgA0GO7) | 3:16 | 2024-10-24 | 2024-11-29 |
 | [SELVIYTYJÄ](https://open.spotify.com/track/3atnoHWVZSbgeBUMoKXCJG) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf) | [SELVIYTYJÄ](https://open.spotify.com/album/2xlnq9qgRnJtP1wFh2GfyJ) | 2:23 | 2024-09-05 | 2025-01-31 |
-| [Senya x OFF THE BOOTH \(Itserakas\)](https://open.spotify.com/track/1R6Pd2lsSDBboDAafLaEjT) | [Senya](https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO), [OFF THE BOOTH](https://open.spotify.com/artist/6lneXpoKhbBtujfCjkMD6g) | [Senya x OFF THE BOOTH \(Itserakas\)](https://open.spotify.com/album/6cyqQjNXbtusjlXvKApmA3) | 2:14 | 2025-09-25 |  |
+| [Senya x OFF THE BOOTH \(Itserakas\)](https://open.spotify.com/track/1R6Pd2lsSDBboDAafLaEjT) | [Senya](https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO), [OFF THE BOOTH](https://open.spotify.com/artist/6lneXpoKhbBtujfCjkMD6g) | [Senya x OFF THE BOOTH \(Itserakas\)](https://open.spotify.com/album/6cyqQjNXbtusjlXvKApmA3) | 2:14 | 2025-09-25 | 2025-11-21 |
 | [Sexmane x OFF THE BOOTH \(Respect on my name\)](https://open.spotify.com/track/1kBB8qSrHeJD2lewCGhS2C) | [OFF THE BOOTH](https://open.spotify.com/artist/6lneXpoKhbBtujfCjkMD6g), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Sexmane x OFF THE BOOTH \(Respect on my name\)](https://open.spotify.com/album/3GH3dqxxpqXo0763qfZR29) | 2:52 | 2025-05-22 | 2025-08-15 |
 | [Showtime \(feat\. Turisti\)](https://open.spotify.com/track/3cjYY03q876FzLDCDi8IKf) | [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Showtime \(feat\. Turisti\)](https://open.spotify.com/album/4ZITEFlZ7rQvdAA3jYLMkQ) | 2:29 | 2024-06-06 | 2024-09-13 |
 | [Shutdown](https://open.spotify.com/track/31k2GXJC7k1DZeT6BB2WxB) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7), [DAVI](https://open.spotify.com/artist/6SZyjpoIRcvW29wO1u0ouV), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Shutdown](https://open.spotify.com/album/1HuzkJxyRtBsKuBxeywSMg) | 3:51 | 2025-07-10 | 2025-11-14 |
@@ -941,6 +941,7 @@
 | [Turhaa](https://open.spotify.com/track/0DBKezbjOspWBoDdZFfTdu) | [Lyttä](https://open.spotify.com/artist/1u4Mhf4gOHmuUl6jfhRrDn), [Tohtori Getto](https://open.spotify.com/artist/2B97faqsVrAF7KGnS21TlY), [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g) | [Kaks nimee](https://open.spotify.com/album/3qLb3UVN9hMTCSJ9H9Rq3Z) | 2:36 | 2024-02-29 | 2024-04-12 |
 | [TURVAT KII](https://open.spotify.com/track/4SgZSrBAplEFnqIW9btpVM) | [KähinäPate](https://open.spotify.com/artist/6rA8aAvLetQJNi8Dp8L01c) | [TURVAT KII](https://open.spotify.com/album/069qbLMU4TU7tUPwo2gXh0) | 2:55 | 2024-03-07 | 2024-03-22 |
 | [Tuu hakee sun mies \(feat\. Senya\)](https://open.spotify.com/track/7Hmw2A09c7o9g9SbtRT5ca) | [Ege Zulu](https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O), [Senya](https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO) | [Tuu hakee sun mies \(feat\. Senya\)](https://open.spotify.com/album/6DzW026bWi2rrGLDryPsIP) | 2:29 | 2025-04-17 | 2025-06-06 |
+| [Tuulta purjeisiin](https://open.spotify.com/track/6TlpSqesu3cFLa4tJcgRkC) | [Senya](https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO) | [Tuulta purjeisiin](https://open.spotify.com/album/0RT64kLPZWjRD2XFPw3gpI) | 3:18 | 2025-11-20 |  |
 | [Tyhjä](https://open.spotify.com/track/0cDiCLdv3DR0KObUE4L3Zm) | [Jokrates](https://open.spotify.com/artist/388BgNWjRWFHgJnsmBdJzE) | [Tyhjä](https://open.spotify.com/album/3q3y3cfi1JhuksxXlEPyPv) | 3:21 | 2025-03-06 | 2025-04-04 |
 | [Tyhmää](https://open.spotify.com/track/2zGCt8Nf4c9KvlM883rYJb) | [Davy](https://open.spotify.com/artist/2RttK43esYFkU4hD5BU0AT) | [Tyhmää](https://open.spotify.com/album/2LXaYEFEKgtCwOh8tZ3uuR) | 2:21 | 2025-11-13 |  |
 | [Tyttö maan pääl](https://open.spotify.com/track/3YN9slNzWqj1r7yHV8ldji) | [Alina Burnet](https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J) | [Tyttö maan pääl](https://open.spotify.com/album/1brYwLALGoOLWjwdCoM1WT) | 2:41 | 2025-08-26 | 2025-11-14 |

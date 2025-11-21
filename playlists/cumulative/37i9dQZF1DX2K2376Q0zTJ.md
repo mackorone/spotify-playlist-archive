@@ -4,7 +4,7 @@
 
 > 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。cover: Awich
 
-1,404 songs - 3 day 10 hr 28 min
+1,405 songs - 3 day 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,6 +248,7 @@
 | [FAIRYTALE feat\. Zheani](https://open.spotify.com/track/6AXlKLV7F3xUixu4ujVbF7) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND), [Zheani](https://open.spotify.com/artist/75xNYf2GU5wtQqBrd74SlY), [Masayoshi Iimori](https://open.spotify.com/artist/0pdvKDKFxwUerd6uaYHqkU) | [Castle in Madness](https://open.spotify.com/album/5biHOE14veegSJTxtzNisb) | 3:04 | 2024-06-20 | 2024-12-05 |
 | [FAKE](https://open.spotify.com/track/3PUfI9Tprsqla2pk5moQqL) | [AI](https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q), [Namie Amuro](https://open.spotify.com/artist/4BmWSGKG6HiYvLuJvZ9afa) | [FAKE feat\. 安室奈美恵](https://open.spotify.com/album/7sy3It4biBMzVzmZdlgK9U) | 4:15 | 2023-09-05 | 2023-10-04 |
 | [Fantasy](https://open.spotify.com/track/5fp3w5FppTRvfjINskeLBF) | [大和那南](https://open.spotify.com/artist/5MjfN3Alk04OeXBoIM2zk6) | [Before Sunrise](https://open.spotify.com/album/4arNpfbEf7Vnot6vTprRQl) | 3:13 | 2023-11-07 | 2023-11-30 |
+| [Fear Us \(feat\. Joey Bada$$\)](https://open.spotify.com/track/1ulZbj0LGkMufpCk9bqLSo) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [RZA](https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Okinawan Wuman](https://open.spotify.com/album/2uISnRUJM9lnew7KyI3z9z) | 3:44 | 2025-11-20 |  |
 | [Feedback](https://open.spotify.com/track/5nsYRXu6zo2cWrbexW9Nyj) | [MIRRROR](https://open.spotify.com/artist/3NJ6G8RDMg7SsTBFvGrALn) | [Feedback](https://open.spotify.com/album/2Mt2eD1mh7GSj62GFNIAcJ) | 2:10 | 2022-05-31 | 2022-07-06 |
 | [feel](https://open.spotify.com/track/3TNHO3x2NXwYK5F7UB0trl) | [MINAKEKKE](https://open.spotify.com/artist/4PJ4EXyGkUrYuZt9AwW3eT) | [feel](https://open.spotify.com/album/24BcfUw1QsaZeYFwbChWDP) | 3:15 | 2022-01-04 | 2022-12-07 |
 | [Few City Lights](https://open.spotify.com/track/7pCsRlImdvAznDMq5NUNOb) | [MoNa a.k.a Sad Girl](https://open.spotify.com/artist/4teywaGcZQWtx2wSbzffKF) | [YELLOW 'N PROUD](https://open.spotify.com/album/1fMdHaYog2iGhIsrK6B3Zm) | 4:02 | 2022-10-04 | 2022-11-09 |
@@ -955,7 +956,7 @@
 | [Watashi Sekaito Jitsuzukidesu](https://open.spotify.com/track/1KsxCV6nSs0RccCqeTQ4xO) | [SAKA\-SAMA](https://open.spotify.com/artist/5IBMqgH70qNRInaMn9zYo8) | [Maiwai](https://open.spotify.com/album/6mLrB1PURKERQbm5n7I5OL) | 3:31 | 2022-09-06 | 2024-03-06 |
 | [Watch Your Mouth](https://open.spotify.com/track/27WWYl7AcRRT6iwpvO36Si) | [COMA\-CHI](https://open.spotify.com/artist/1EGbVC1fE68gQaPrYEyr99), [MeccaGodZilla](https://open.spotify.com/artist/6Z5g7GOfQMhPHc4u6TjV1B) | [Spiritual Bitch](https://open.spotify.com/album/4w0B6DIBPJydlg1W35ricE) | 3:58 | 2023-05-02 | 2023-06-07 |
 | [Water](https://open.spotify.com/track/2shaXJ5grK6OZK4qxfDB3u) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [side\_effects+.](https://open.spotify.com/album/4Jx3azXrVdoovOjAzU4eVJ) | 2:29 | 2022-08-02 | 2022-09-07 |
-| [Wax On Wax Off](https://open.spotify.com/track/5ELYNQEpLzJIDzCDc6CXZC) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf), [RZA](https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn) | [Wax On Wax Off](https://open.spotify.com/album/6qMfwFtTxHIH6hSQZ5kWpt) | 2:51 | 2025-11-04 |  |
+| [Wax On Wax Off](https://open.spotify.com/track/5ELYNQEpLzJIDzCDc6CXZC) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf), [RZA](https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn) | [Wax On Wax Off](https://open.spotify.com/album/6qMfwFtTxHIH6hSQZ5kWpt) | 2:51 | 2025-11-04 | 2025-11-21 |
 | [Wayside](https://open.spotify.com/track/41BRWHGuqEcSZszacBBCld) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw), [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [We Are Always Under The Same Sky](https://open.spotify.com/album/0SpZZ8NyMsk2xlKrp9rBkJ) | 4:09 | 2025-01-17 |  |
 | [We Are](https://open.spotify.com/track/1qLc9IbANqjD79IHj47wU9) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [We Are](https://open.spotify.com/album/3DJS8K78UQGkumu2QMa2uB) | 3:32 | 2023-07-04 | 2024-01-10 |
 | [We Are](https://open.spotify.com/track/0BlScWuZF7uu4bJdt1xEZT) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [We Are](https://open.spotify.com/album/2xtTnFp57oSOS3VWu4w6ob) | 3:33 | 2022-10-04 | 2023-01-04 |

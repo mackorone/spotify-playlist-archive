@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,134 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,204 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [DENTRO DA LAND ROVER \- Ao Vivo](https://open.spotify.com/track/5BI4zdNsBNEBSPzYkO2EXZ) | [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [DEBAIXO DO MEU CHAPÉU, Vol\. 2](https://open.spotify.com/album/4k1l6rmHL1FL5rURdvJ5Kg) | 2:39 |
 | 50 | [VAI NO CHÃO BANDIDA](https://open.spotify.com/track/5bPVaf87iW31GGfmk2yqsd) | [Dj Guuh](https://open.spotify.com/artist/58SW6CcsQsZthOpEf0KASk), [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC), [Mc Talibã](https://open.spotify.com/artist/2DMQ1LeygTDGeyErwBwaeG) | [VAI NO CHÃO BANDIDA](https://open.spotify.com/album/7Cm2qf3lcohOwS1DZS5HiZ) | 2:20 |
 
-Snapshot ID: `MLE0+AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MLKGeAAAAAAAAAAAAAAAAAAAAAAAAGVu`

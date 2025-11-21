@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-29",
-  "description": "are we okay? \ud83d\udc99",
+  "description": "I sit in parks, it breaks my heart \ud83d\udc94",
   "name": "sad girl country",
   "tracks": [
     {
@@ -1077,6 +1077,24 @@
     },
     {
       "album": {
+        "name": "I Sit In Parks",
+        "url": "https://open.spotify.com/album/4gzc2g5CpI5WaXFvRHM6uj"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130093,
+      "name": "I Sit In Parks",
+      "url": "https://open.spotify.com/track/35OvmPX96d7f1ElQMl8Pq2"
+    },
+    {
+      "album": {
         "name": "HERO (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK"
       },
@@ -1232,7 +1250,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 198053,
       "name": "Just Married",
       "url": "https://open.spotify.com/track/3jwLmTcTwuE0xLR3sm6SqI"

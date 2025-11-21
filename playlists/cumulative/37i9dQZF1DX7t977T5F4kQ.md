@@ -2,9 +2,9 @@
 
 ### [Ghana Party](https://open.spotify.com/playlist/37i9dQZF1DX7t977T5F4kQ)
 
-> The hottest and recent Ghana party starters\. Cover: Efya
+> The hottest and recent Ghana party starters\. Cover: Mellissa
 
-576 songs - 1 day 5 hr 45 min
+578 songs - 1 day 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Baby](https://open.spotify.com/track/457g4ZlmoUmZWeA8ysRZ8p) | [Ayesem](https://open.spotify.com/artist/57qCTSQMNSJSI2bQjaM2q9), [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK) | [Baby](https://open.spotify.com/album/3LjAal9dJ9uYSwZWFxyaah) | 3:33 | 2023-11-17 | 2023-11-24 |
 | [Back To Sender \(Taamiawu\)](https://open.spotify.com/track/2Ttg2Q7FuEJwT024yjz8ca) | [Prince Bright](https://open.spotify.com/artist/4kybQvaEJGDlOo7ZsSjwPv), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Back To Sender \(Taamiawu\)](https://open.spotify.com/album/1m1j17DRfl9ESfDXELGjmi) | 3:43 | 2024-05-03 | 2024-05-17 |
 | [Bad Boy](https://open.spotify.com/track/2Yi3XIg9MQAwAlTDCoSumI) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Bad Boy](https://open.spotify.com/album/1292tIVpPTJimKAqIOQZlP) | 3:12 | 2023-07-14 | 2025-02-21 |
+| [Bad Habits](https://open.spotify.com/track/4UUh6WPTCy0l3BY6pvMOcL) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Bad Habits](https://open.spotify.com/album/6qsQ0MJsBfRYuG8lTz7ncT) | 2:51 | 2025-11-21 |  |
 | [Bad People Do Good](https://open.spotify.com/track/3iVoZUSWgCPHvCKT3u3vck) | [Kweku Darlington](https://open.spotify.com/artist/3ZR23AVEcvrtRqPXpIcjSW), [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew) | [Bad People Do Good](https://open.spotify.com/album/0kSIpqgG1STLxXLI8ylOYs) | 3:03 | 2024-04-12 | 2024-06-07 |
 | [Balance It](https://open.spotify.com/track/5Wx88Xpkw3jipuWmfpa1JA) | [D Jay](https://open.spotify.com/artist/1DETxFJht1YtCqi6EpmDxs) | [Balance It](https://open.spotify.com/album/19H3D6ShaQ0aYDu3UAsijY) | 3:07 | 2022-11-04 | 2023-06-27 |
 | [Balance It \(Remix\)](https://open.spotify.com/track/3ImDVrkj2jO7QjR2Xw86w3) | [D Jay](https://open.spotify.com/artist/1DETxFJht1YtCqi6EpmDxs), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Balance It \(Remix\)](https://open.spotify.com/album/1QUOtrtXpyLwLEqshG8b6m) | 2:53 | 2022-11-04 | 2023-09-09 |
@@ -221,6 +222,7 @@
 | [Goldigga](https://open.spotify.com/track/3pPxul1nGW600lvqFdBcLg) | [Samsney](https://open.spotify.com/artist/1RaVe8wzZ1DnL6fcAf1x2g), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Goldigga](https://open.spotify.com/album/4MUkSTaa9xxyeXdAB6geiO) | 3:02 | 2022-11-04 | 2024-03-08 |
 | [Gone](https://open.spotify.com/track/0zCBuNnMKpn8G2YpTQf31e) | [Adina Thembi](https://open.spotify.com/artist/7ujlMMbxQ1lbbBNpYyAU6d), [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT) | [Gone](https://open.spotify.com/album/4k0fSGTnUkUEXlaXdkPE8v) | 2:46 | 2025-04-11 | 2025-05-30 |
 | [Good Girl \(Evandy Girl\)](https://open.spotify.com/track/0S7PJaI9wUdua6uafHV9Xh) | [DJ Vyrusky](https://open.spotify.com/artist/20uZPZ6EXItffkdLevoEdV), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Shaker](https://open.spotify.com/artist/5I1G1MSxXh3zrZsVZCPzZj) | [Good Girl \(Evandy Girl\)](https://open.spotify.com/album/0qP1Ep1na1g15udNUiIXOo) | 2:09 | 2025-03-14 | 2025-08-09 |
+| [Goodboy \(Kweku\)](https://open.spotify.com/track/3g3nt6cCAUIgJ3pRl0pRb5) | [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW), [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Chopstix](https://open.spotify.com/artist/167yXtyZFzoIEl4650nGkt) | [Goodboy \(Kweku\)](https://open.spotify.com/album/7xU0cELrg6Fd24DAviWORg) | 3:34 | 2025-11-21 |  |
 | [Goodbye](https://open.spotify.com/track/7pU9YogbXoHZirg26M132Z) | [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Goodbye](https://open.spotify.com/album/2LWg8PF3z76jzhcPgFb8x1) | 4:24 | 2023-02-09 | 2023-02-24 |
 | [GoodSin](https://open.spotify.com/track/4lkI6BidQ1dC19KaCb0SUn) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Avana](https://open.spotify.com/album/1ZinBC6aI5Ck8CEa64GShC) | 2:20 | 2023-09-08 | 2024-03-04 |
 | [GoodSin](https://open.spotify.com/track/5tlvXfI4aqoSh0oRghr7UT) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Avana](https://open.spotify.com/album/3axpLgzTEbftwwMXdYX3TK) | 2:20 | 2023-06-26 | 2025-03-08 |
@@ -345,7 +347,7 @@
 | [NEED ME](https://open.spotify.com/track/29tVTwzlKudGYkLOzbjAD3) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [NEED ME](https://open.spotify.com/album/0TTExlXyOA6Du5EF6T4T2e) | 3:12 | 2022-11-04 | 2024-02-16 |
 | [Never](https://open.spotify.com/track/5PS1CtATOsyG0JFEXHwhhK) | [Akwaboah](https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y) | [Never](https://open.spotify.com/album/77DPwnQlCREZ4Q38w2WAYL) | 3:45 | 2025-02-28 | 2025-04-01 |
 | [NEXT DOOR \(with Sarkodie\)](https://open.spotify.com/track/0NnsR4mHwY8hAJUGldCUEe) | [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [NEXT DOOR \(with Sarkodie\)](https://open.spotify.com/album/4WnjNWkD250iwrlUkyYutz) | 2:36 | 2025-02-28 |  |
-| [Nice n' Sweet](https://open.spotify.com/track/7eilm0LI79IVtAKgqPCn28) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [CiCi \(Deluxe\)](https://open.spotify.com/album/4kICF6A8HTzQ2EEH7GGsoY) | 2:39 | 2025-11-14 |  |
+| [Nice n' Sweet \(feat\. MOLIY\)](https://open.spotify.com/track/7eilm0LI79IVtAKgqPCn28) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [CiCi \(Deluxe\)](https://open.spotify.com/album/4kICF6A8HTzQ2EEH7GGsoY) | 2:39 | 2025-11-14 |  |
 | [Nicely](https://open.spotify.com/track/4ePxXsCU2HjgKmKxzHYQrM) | [DJ FiiFii](https://open.spotify.com/artist/3OnR9rQurffV6EPVk46fwU), [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf), [Tripcy](https://open.spotify.com/artist/5O7sGyn3CPojVAPQAtVApn) | [Nicely](https://open.spotify.com/album/7txg8RD9bbUDFUrq8lVnPV) | 2:42 | 2024-10-25 | 2024-11-22 |
 | [Nika](https://open.spotify.com/track/61XOkNNVUQGqNjtrtIIxZ8) | [Dr Cryme](https://open.spotify.com/artist/26HlCKbXpF27gFP3AEsVhk) | [Unexpected 2](https://open.spotify.com/album/2gFQctL1EfPUzeVtYaXFVe) | 3:06 | 2023-11-24 | 2023-12-02 |
 | [NLF \(Breakfast\)](https://open.spotify.com/track/2mIp18bu4PbAFjS58EpEWc) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [NLF \(Breakfast\)](https://open.spotify.com/album/4rOoeivLtdfWWUoXXVTrl6) | 3:13 | 2024-06-14 |  |

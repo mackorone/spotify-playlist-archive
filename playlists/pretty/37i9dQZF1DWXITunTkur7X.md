@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXITunTkur7X.md) - [plain]
 
 > Beste Nederlandstaligs songs uit de 10's! Cover: BLØF
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,039 likes - 65 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,047 likes - 65 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXITunTkur7X.md) - [plain]
 | 22 | [Hey Meisje](https://open.spotify.com/track/1c7Kh2uMMxG7k4QqNjjg95) | [Esko](https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj), [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx), [Hansie](https://open.spotify.com/artist/3Xvu1Rur46ZO8HiE9hBuxl) | [Beats By Esko](https://open.spotify.com/album/3E7PWkWtbaTtwvgw89Qm8a) | 3:17 |
 | 23 | [Moment](https://open.spotify.com/track/0J6sITdD8JMUBKaadJLV1U) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q), [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [Moment](https://open.spotify.com/album/0yEIvi51Okj9K1mmssyfDf) | 3:01 |
 | 24 | [Reünie](https://open.spotify.com/track/0C9JPibPAdaBvt60rbwEsJ) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Reünie](https://open.spotify.com/album/7kY8OqgHbBOQwkF7vpFjTS) | 2:52 |
-| 25 | [Los Van De Grond](https://open.spotify.com/track/27kHxYIpKSNwFJMPoEYBjW) | [Jeroen Van Der Boom](https://open.spotify.com/artist/5zEUGwAdlfTQqKplCJJuua), [Leonie Meijer](https://open.spotify.com/artist/2yAKMlQWwUyDSDly68F3ve) | [Grote Liefde \(Incl\. Niemand Anders\)](https://open.spotify.com/album/1bhTybvSsTJcHFiadWZr81) | 3:51 |
-| 26 | [Zing Voor Me](https://open.spotify.com/track/0po63MOolcaeLX1wyhvTH9) | [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE), [Thé Lau](https://open.spotify.com/artist/6oeg2g6otjJxc19BUphrKo) | [Levenslied](https://open.spotify.com/album/1ubh3JX7ILvdWh1rlbJvv6) | 3:35 |
+| 25 | [Zing Voor Me](https://open.spotify.com/track/0po63MOolcaeLX1wyhvTH9) | [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE), [Thé Lau](https://open.spotify.com/artist/6oeg2g6otjJxc19BUphrKo) | [Levenslied](https://open.spotify.com/album/1ubh3JX7ILvdWh1rlbJvv6) | 3:35 |
+| 26 | [Los Van De Grond](https://open.spotify.com/track/27kHxYIpKSNwFJMPoEYBjW) | [Jeroen Van Der Boom](https://open.spotify.com/artist/5zEUGwAdlfTQqKplCJJuua), [Leonie Meijer](https://open.spotify.com/artist/2yAKMlQWwUyDSDly68F3ve) | [Grote Liefde \(Incl\. Niemand Anders\)](https://open.spotify.com/album/1bhTybvSsTJcHFiadWZr81) | 3:51 |
 | 27 | [Ik Ga Hard](https://open.spotify.com/track/0VrxOB23fTNCyG6WZCshd9) | [The Partysquad](https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY), [Gers Pardoel](https://open.spotify.com/artist/5AvkVClT6JuPL4LFy7liYN), [Adje](https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m), [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF) | [Ik Ga Hard](https://open.spotify.com/album/5h6BEWVTml6KaB7pL4V2ir) | 3:08 |
 | 28 | [Afscheid](https://open.spotify.com/track/0XzxGUfBEkMP0NdUCRhTR9) | [Glennis Grace](https://open.spotify.com/artist/3J85lWF7GZWWWLyBPMMX7h) | [Het Beste Van Glennis Grace](https://open.spotify.com/album/6gvv5CK5WVdSu6K9TQQSOq) | 4:38 |
 | 29 | [Zou Zo Graag](https://open.spotify.com/track/1xnbXJyeHLYvpn5UVJ6h9T) | [Jurk!](https://open.spotify.com/artist/3aTMQXvGDGHPcQFtH2PM28) | [Avondjurk](https://open.spotify.com/album/3gMtg5BXcOuYpR1HKbWXoO) | 3:32 |

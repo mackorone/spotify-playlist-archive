@@ -1,6 +1,6 @@
 {
   "description": "Rock on repeat during the summers of the 1990s.",
-  "num_followers": 114403,
+  "num_followers": 114421,
   "original_name": "90s Summer Rock",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-07-12 14:58:14",
       "album": {
-        "name": "Sublime",
-        "url": "https://open.spotify.com/album/14eK347GdWO4mBBx78tsut"
-      },
-      "artists": [
-        {
-          "name": "Sublime",
-          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
-        }
-      ],
-      "duration_ms": 182746,
-      "name": "Santeria",
-      "url": "https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f"
-    },
-    {
-      "added_at": "2024-07-12 14:58:14",
-      "album": {
         "name": "Nevermind (Remastered)",
         "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 218920,
       "name": "Come As You Are",
       "url": "https://open.spotify.com/track/4P5KoWXOxwuobLmHXLMobV"
+    },
+    {
+      "added_at": "2024-07-12 14:58:14",
+      "album": {
+        "name": "Sublime",
+        "url": "https://open.spotify.com/album/14eK347GdWO4mBBx78tsut"
+      },
+      "artists": [
+        {
+          "name": "Sublime",
+          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
+        }
+      ],
+      "duration_ms": 182746,
+      "name": "Santeria",
+      "url": "https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f"
     },
     {
       "added_at": "2024-07-12 14:58:14",
@@ -356,7 +356,7 @@
           "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
         }
       ],
-      "duration_ms": 340907,
+      "duration_ms": 340974,
       "name": "Alive",
       "url": "https://open.spotify.com/track/1L94M3KIu7QluZe63g64rv"
     },
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-07-12 14:58:14",
       "album": {
-        "name": "Adrenalize (Deluxe)",
-        "url": "https://open.spotify.com/album/0X1muonPHLSGzU6g3dZx7M"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 295957,
-      "name": "Let's Get Rocked",
-      "url": "https://open.spotify.com/track/0LoH6lFQLNscy3RyljAewK"
-    },
-    {
-      "added_at": "2024-07-12 14:58:14",
-      "album": {
         "name": "The Southern Harmony And Musical Companion",
         "url": "https://open.spotify.com/album/4hVgzAM4i3dPdhZQki9cKk"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 322640,
       "name": "Remedy",
       "url": "https://open.spotify.com/track/217a9W3cZ3ur40RFQW2pTo"
+    },
+    {
+      "added_at": "2024-07-12 14:58:14",
+      "album": {
+        "name": "Adrenalize (Deluxe)",
+        "url": "https://open.spotify.com/album/0X1muonPHLSGzU6g3dZx7M"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 295957,
+      "name": "Let's Get Rocked",
+      "url": "https://open.spotify.com/track/0LoH6lFQLNscy3RyljAewK"
     },
     {
       "added_at": "2024-07-12 14:58:14",
@@ -1016,7 +1016,7 @@
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 388800,
+      "duration_ms": 391552,
       "name": "Human Touch",
       "url": "https://open.spotify.com/track/1o53HbxmOy5TzThJdBaDZb"
     },
@@ -1295,8 +1295,8 @@
     {
       "added_at": "2024-07-12 14:58:14",
       "album": {
-        "name": "Nine Lives",
-        "url": "https://open.spotify.com/album/0xUqFH2GDi0oZ7fwIBAkLQ"
+        "name": "Get A Grip",
+        "url": "https://open.spotify.com/album/1tuM8yBePaekEruGsH2J79"
       },
       "artists": [
         {
@@ -1304,9 +1304,9 @@
           "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
         }
       ],
-      "duration_ms": 235360,
-      "name": "Pink",
-      "url": "https://open.spotify.com/track/74uGhWp4BYpjFj1V2DzgoO"
+      "duration_ms": 380893,
+      "name": "Livin' On The Edge",
+      "url": "https://open.spotify.com/track/4avSaixVwu8uqfSs7zgoj3"
     },
     {
       "added_at": "2024-07-12 14:58:14",
@@ -1375,8 +1375,8 @@
     {
       "added_at": "2024-07-12 14:58:14",
       "album": {
-        "name": "Get A Grip",
-        "url": "https://open.spotify.com/album/1tuM8yBePaekEruGsH2J79"
+        "name": "Nine Lives",
+        "url": "https://open.spotify.com/album/0xUqFH2GDi0oZ7fwIBAkLQ"
       },
       "artists": [
         {
@@ -1384,9 +1384,9 @@
           "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
         }
       ],
-      "duration_ms": 380893,
-      "name": "Livin' On The Edge",
-      "url": "https://open.spotify.com/track/4avSaixVwu8uqfSs7zgoj3"
+      "duration_ms": 235360,
+      "name": "Pink",
+      "url": "https://open.spotify.com/track/74uGhWp4BYpjFj1V2DzgoO"
     },
     {
       "added_at": "2024-07-12 14:58:14",

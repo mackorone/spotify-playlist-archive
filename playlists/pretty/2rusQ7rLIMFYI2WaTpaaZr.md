@@ -9,7 +9,7 @@ pretty - [cumulative](/playlists/cumulative/2rusQ7rLIMFYI2WaTpaaZr.md) - [plain]
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Which Side are You On?](https://open.spotify.com/track/0TZsy6XheL9cSxuX7yYqCO) | [Pete Seeger](https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY) | [If I Had a Hammer: Songs of Hope and Struggle](https://open.spotify.com/album/21k0wecYa9yprQ937HR62H) | 2:09 |
-| 2 | [Only a Pawn in Their Game](https://open.spotify.com/track/6lib77q4koq52srysevRfT) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Times They Are A\-Changin'](https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS) | 3:29 |
+| 2 | [Only a Pawn in Their Game](https://open.spotify.com/track/6lib77q4koq52srysevRfT) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Times They Are A\-Changin'](https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS) | 3:32 |
 | 3 | [Solidarity Forever](https://open.spotify.com/track/5NShvMH3lRmQPW4qc0hYKY) | [Pete Seeger](https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY) | [If I Had a Hammer: Songs of Hope and Struggle](https://open.spotify.com/album/21k0wecYa9yprQ937HR62H) | 2:54 |
 | 4 | [Draft Dodger Rag](https://open.spotify.com/track/2kB7QeAFj1SLAIKSCMYSSs) | [Phil Ochs](https://open.spotify.com/artist/3JhQGw54MOytJP3GZ8KNPo) | [I Ain't Marching Anymore](https://open.spotify.com/album/28XoBuuNDXciDAdfEgDMg6) | 2:11 |
 | 5 | [I Ain't Marching Anymore](https://open.spotify.com/track/18bzuq8A21sRcI4w4gqGD2) | [Phil Ochs](https://open.spotify.com/artist/3JhQGw54MOytJP3GZ8KNPo) | [I Ain't Marching Anymore](https://open.spotify.com/album/28XoBuuNDXciDAdfEgDMg6) | 2:34 |

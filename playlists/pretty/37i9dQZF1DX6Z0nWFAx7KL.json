@@ -1,6 +1,6 @@
 {
   "description": "easy breezy music \u2600\ufe0f\u263a\ufe0f",
-  "num_followers": 168930,
+  "num_followers": 168926,
   "original_name": "Chill Dance",
   "owner": {
     "name": "Spotify",
@@ -219,6 +219,30 @@
     {
       "added_at": "2025-11-06 23:00:04",
       "album": {
+        "name": "Home (feat. Colton Avery)",
+        "url": "https://open.spotify.com/album/0pDDhfiuoKcLPEDfJdjIYO"
+      },
+      "artists": [
+        {
+          "name": "LAWRENT",
+          "url": "https://open.spotify.com/artist/0O9m6ZuAAvUOhT6OgbtAmI"
+        },
+        {
+          "name": "Thierry Von Der Warth",
+          "url": "https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1"
+        },
+        {
+          "name": "Colton Avery",
+          "url": "https://open.spotify.com/artist/4ofP6JslAsDOIaQSOfR8mV"
+        }
+      ],
+      "duration_ms": 147396,
+      "name": "Home (feat. Colton Avery)",
+      "url": "https://open.spotify.com/track/0dCfYzXOi9msy1x9kY7Kw6"
+    },
+    {
+      "added_at": "2025-11-06 23:00:04",
+      "album": {
         "name": "Drown In Your Love",
         "url": "https://open.spotify.com/album/5pSr0pullqIfBjoIyws2Rl"
       },
@@ -255,30 +279,6 @@
       "duration_ms": 151153,
       "name": "Real Love",
       "url": "https://open.spotify.com/track/3uXUraey5i1oKa3yYnOTia"
-    },
-    {
-      "added_at": "2025-11-06 23:00:04",
-      "album": {
-        "name": "Home (feat. Colton Avery)",
-        "url": "https://open.spotify.com/album/0pDDhfiuoKcLPEDfJdjIYO"
-      },
-      "artists": [
-        {
-          "name": "LAWRENT",
-          "url": "https://open.spotify.com/artist/0O9m6ZuAAvUOhT6OgbtAmI"
-        },
-        {
-          "name": "Thierry Von Der Warth",
-          "url": "https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1"
-        },
-        {
-          "name": "Colton Avery",
-          "url": "https://open.spotify.com/artist/4ofP6JslAsDOIaQSOfR8mV"
-        }
-      ],
-      "duration_ms": 147396,
-      "name": "Home (feat. Colton Avery)",
-      "url": "https://open.spotify.com/track/0dCfYzXOi9msy1x9kY7Kw6"
     },
     {
       "added_at": "2025-11-06 23:00:04",
@@ -471,26 +471,6 @@
     {
       "added_at": "2025-11-06 23:00:04",
       "album": {
-        "name": "Wait No More",
-        "url": "https://open.spotify.com/album/2pN0NBFLGJdHGKcRl2ccTg"
-      },
-      "artists": [
-        {
-          "name": "Twan Ray",
-          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
-        },
-        {
-          "name": "Lost Ways",
-          "url": "https://open.spotify.com/artist/4tI5grRhokUSIptaT5shnu"
-        }
-      ],
-      "duration_ms": 142956,
-      "name": "Wait No More",
-      "url": "https://open.spotify.com/track/0BNQCaSPM57wT2UsaoiyCC"
-    },
-    {
-      "added_at": "2025-11-06 23:00:04",
-      "album": {
         "name": "Alone With You",
         "url": "https://open.spotify.com/album/7Jq86ZKuOyQSRTEI0UzAhe"
       },
@@ -511,6 +491,26 @@
       "duration_ms": 208500,
       "name": "Alone With You",
       "url": "https://open.spotify.com/track/61C23J1jduYNQVe69XBupp"
+    },
+    {
+      "added_at": "2025-11-06 23:00:04",
+      "album": {
+        "name": "Wait No More",
+        "url": "https://open.spotify.com/album/2pN0NBFLGJdHGKcRl2ccTg"
+      },
+      "artists": [
+        {
+          "name": "Twan Ray",
+          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
+        },
+        {
+          "name": "Lost Ways",
+          "url": "https://open.spotify.com/artist/4tI5grRhokUSIptaT5shnu"
+        }
+      ],
+      "duration_ms": 142956,
+      "name": "Wait No More",
+      "url": "https://open.spotify.com/track/0BNQCaSPM57wT2UsaoiyCC"
     },
     {
       "added_at": "2025-11-06 23:00:04",
@@ -787,6 +787,26 @@
     {
       "added_at": "2025-11-06 23:00:04",
       "album": {
+        "name": "Magnetic",
+        "url": "https://open.spotify.com/album/2GmPo1t1eRB47964nvvJAl"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Davidson",
+          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
+        },
+        {
+          "name": "Belle Doron",
+          "url": "https://open.spotify.com/artist/0vG28tQeh1adA0xHmdUTVQ"
+        }
+      ],
+      "duration_ms": 182862,
+      "name": "Magnetic",
+      "url": "https://open.spotify.com/track/4HEggPhcyKQGzHLsgfs9my"
+    },
+    {
+      "added_at": "2025-11-06 23:00:04",
+      "album": {
         "name": "All We Need Is Us",
         "url": "https://open.spotify.com/album/7n2WsTkhWSfxWuMTJxyHcv"
       },
@@ -807,26 +827,6 @@
       "duration_ms": 148200,
       "name": "All We Need Is Us",
       "url": "https://open.spotify.com/track/1cgv6rn6OIaHtKdU0Umrdn"
-    },
-    {
-      "added_at": "2025-11-06 23:00:04",
-      "album": {
-        "name": "Magnetic",
-        "url": "https://open.spotify.com/album/2GmPo1t1eRB47964nvvJAl"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Davidson",
-          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
-        },
-        {
-          "name": "Belle Doron",
-          "url": "https://open.spotify.com/artist/0vG28tQeh1adA0xHmdUTVQ"
-        }
-      ],
-      "duration_ms": 182862,
-      "name": "Magnetic",
-      "url": "https://open.spotify.com/track/4HEggPhcyKQGzHLsgfs9my"
     },
     {
       "added_at": "2025-11-06 23:00:04",
@@ -955,6 +955,22 @@
     {
       "added_at": "2025-11-06 23:00:04",
       "album": {
+        "name": "Momentum",
+        "url": "https://open.spotify.com/album/2h0Dp9MCVUU0Vp8wyHAMt8"
+      },
+      "artists": [
+        {
+          "name": "ARTO",
+          "url": "https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn"
+        }
+      ],
+      "duration_ms": 142909,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/50FC8Y5QFcRA8VtI2qiGDV"
+    },
+    {
+      "added_at": "2025-11-06 23:00:04",
+      "album": {
         "name": "Blood & Bones",
         "url": "https://open.spotify.com/album/0dHrUxujzudylcwsq6OZYW"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 177212,
       "name": "Without You",
       "url": "https://open.spotify.com/track/1UW7alRUtSBdx3isSCPuni"
-    },
-    {
-      "added_at": "2025-11-06 23:00:04",
-      "album": {
-        "name": "Momentum",
-        "url": "https://open.spotify.com/album/2h0Dp9MCVUU0Vp8wyHAMt8"
-      },
-      "artists": [
-        {
-          "name": "ARTO",
-          "url": "https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn"
-        }
-      ],
-      "duration_ms": 142909,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/50FC8Y5QFcRA8VtI2qiGDV"
     },
     {
       "added_at": "2025-11-06 23:00:04",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2025-11-06 23:00:04",
       "album": {
-        "name": "Sona",
-        "url": "https://open.spotify.com/album/4Anf0gFqtpKBzBpdtSXEnd"
-      },
-      "artists": [
-        {
-          "name": "Deepend",
-          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
-        },
-        {
-          "name": "CassMae",
-          "url": "https://open.spotify.com/artist/4n87X0j7v2W2G3HXmFgTjS"
-        }
-      ],
-      "duration_ms": 140400,
-      "name": "Sona",
-      "url": "https://open.spotify.com/track/5RiBDqZLOcqsvrmlhfGUzv"
-    },
-    {
-      "added_at": "2025-11-06 23:00:04",
-      "album": {
         "name": "Not Your House",
         "url": "https://open.spotify.com/album/4hKeNnaXXJ901davvlWHuZ"
       },
@@ -1171,22 +1151,22 @@
     {
       "added_at": "2025-11-06 23:00:04",
       "album": {
-        "name": "Sandcastles",
-        "url": "https://open.spotify.com/album/6F0zU7azVF6bzG0rVznJKk"
+        "name": "Sona",
+        "url": "https://open.spotify.com/album/4Anf0gFqtpKBzBpdtSXEnd"
       },
       "artists": [
         {
-          "name": "Nate VanDeusen",
-          "url": "https://open.spotify.com/artist/125PCXGTE6sFhvG8w0EnvU"
+          "name": "Deepend",
+          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
         },
         {
-          "name": "Felix Samuel",
-          "url": "https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK"
+          "name": "CassMae",
+          "url": "https://open.spotify.com/artist/4n87X0j7v2W2G3HXmFgTjS"
         }
       ],
-      "duration_ms": 138000,
-      "name": "Sandcastles",
-      "url": "https://open.spotify.com/track/6NmYcN4cJaFC43i3po2O1r"
+      "duration_ms": 140400,
+      "name": "Sona",
+      "url": "https://open.spotify.com/track/5RiBDqZLOcqsvrmlhfGUzv"
     },
     {
       "added_at": "2025-11-06 23:00:04",
@@ -1215,18 +1195,42 @@
     {
       "added_at": "2025-11-06 23:00:04",
       "album": {
-        "name": "My Girl",
-        "url": "https://open.spotify.com/album/6GNd7VlA7cEi2wrrweJSbu"
+        "name": "Sandcastles",
+        "url": "https://open.spotify.com/album/6F0zU7azVF6bzG0rVznJKk"
       },
       "artists": [
         {
-          "name": "Janieck",
-          "url": "https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0"
+          "name": "Nate VanDeusen",
+          "url": "https://open.spotify.com/artist/125PCXGTE6sFhvG8w0EnvU"
+        },
+        {
+          "name": "Felix Samuel",
+          "url": "https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK"
         }
       ],
-      "duration_ms": 124000,
-      "name": "My Girl",
-      "url": "https://open.spotify.com/track/4vnCOTT3hRLXWogSFfFd1j"
+      "duration_ms": 138000,
+      "name": "Sandcastles",
+      "url": "https://open.spotify.com/track/6NmYcN4cJaFC43i3po2O1r"
+    },
+    {
+      "added_at": "2025-11-06 23:00:04",
+      "album": {
+        "name": "Far Beyond",
+        "url": "https://open.spotify.com/album/13M6DYmjgXDJUUdvsTSYW5"
+      },
+      "artists": [
+        {
+          "name": "Munch",
+          "url": "https://open.spotify.com/artist/4FX0r1sSgM9LzQdx5rgWft"
+        },
+        {
+          "name": "Piece Wise",
+          "url": "https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk"
+        }
+      ],
+      "duration_ms": 137993,
+      "name": "Far Beyond",
+      "url": "https://open.spotify.com/track/048ZVt7BfDpFoTORcDKRJA"
     }
   ],
   "unique_name": "Chill Dance",

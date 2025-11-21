@@ -233,6 +233,24 @@
     },
     {
       "album": {
+        "name": "Mount Pleasant",
+        "url": "https://open.spotify.com/album/1yaXyTC6w78QNjlYURpqEa"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187706,
+      "name": "Check On Your Friends",
+      "url": "https://open.spotify.com/track/3tWewwZyFvVOfgeIJtPSKO"
+    },
+    {
+      "album": {
         "name": "Come Here Cowboy",
         "url": "https://open.spotify.com/album/4xeFm14IBvxCjYdOZutcAA"
       },

@@ -1,6 +1,6 @@
 {
   "description": "smooth, crisp, not too tannic. ",
-  "num_followers": 136648,
+  "num_followers": 136720,
   "original_name": "Wine Bar",
   "owner": {
     "name": "Spotify",
@@ -1188,7 +1188,7 @@
           "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
         }
       ],
-      "duration_ms": 306800,
+      "duration_ms": 306422,
       "name": "Footsteps in the Dark, Pts. 1 & 2",
       "url": "https://open.spotify.com/track/1tL5a9jowsWMtn3wkFYsG9"
     },
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2025-11-18 17:15:39",
       "album": {
+        "name": "Mordechai",
+        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 167972,
+      "name": "Pelota",
+      "url": "https://open.spotify.com/track/6FNdzxV9g4NaINrejBTPUi"
+    },
+    {
+      "added_at": "2025-11-18 17:15:39",
+      "album": {
         "name": "Back on 74 (Full Crate Remix)",
         "url": "https://open.spotify.com/album/4kGBuWZI5kpjt60cqWewXD"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 174233,
       "name": "Back On 74 - Full Crate Remix",
       "url": "https://open.spotify.com/track/0eBAg5wJBu2Acv6o72iY4c"
-    },
-    {
-      "added_at": "2025-11-18 17:15:39",
-      "album": {
-        "name": "Mordechai",
-        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 167972,
-      "name": "Pelota",
-      "url": "https://open.spotify.com/track/6FNdzxV9g4NaINrejBTPUi"
     },
     {
       "added_at": "2025-11-18 17:15:39",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2025-11-18 17:15:39",
       "album": {
-        "name": "Superclean, Vol. II",
-        "url": "https://open.spotify.com/album/1Iu5sceGmML4CeQ2f5Q6aO"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 73235,
-      "name": "Loverboy",
-      "url": "https://open.spotify.com/track/3XCpEFU4uXsBq5WmVQQKC9"
-    },
-    {
-      "added_at": "2025-11-18 17:15:39",
-      "album": {
         "name": "Saudade",
         "url": "https://open.spotify.com/album/0XSDdumsjbikADECzlPMXq"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 128613,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/6nVT7yKO7jV4Qw6PZ9B0PK"
+    },
+    {
+      "added_at": "2025-11-18 17:15:39",
+      "album": {
+        "name": "Superclean, Vol. II",
+        "url": "https://open.spotify.com/album/1Iu5sceGmML4CeQ2f5Q6aO"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 73235,
+      "name": "Loverboy",
+      "url": "https://open.spotify.com/track/3XCpEFU4uXsBq5WmVQQKC9"
     },
     {
       "added_at": "2025-11-18 17:15:39",

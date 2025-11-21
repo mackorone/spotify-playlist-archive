@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RlK48.md) - [plain]
 | 32 | [Empathy \- MUNA Remix](https://open.spotify.com/track/2biwJRdhdBM2Zq4mHBje3z) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Empathy \(MUNA Remix\)](https://open.spotify.com/album/6PMsHKfKhE6hXSS7LDJVYG) | 3:08 |
 | 33 | [Aftertaste \- MUNA Remix](https://open.spotify.com/track/2MkrZcor4Y8Ux8V3qRp5VO) | [Katie Gavin](https://open.spotify.com/artist/0DpJl9MRib7qywJOoYqEZg), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Aftertaste \(MUNA Remix\)](https://open.spotify.com/album/6rk50SCI6pzLMkwQ1CSjXI) | 3:52 |
 
-Snapshot ID: `aRu3AAAAAADWKcE4yAg19YY6Wt6kKtWy`
+Snapshot ID: `aR0IgAAAAACRTz98GFtDuRhV6dbTfET9`

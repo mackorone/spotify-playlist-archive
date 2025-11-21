@@ -4,7 +4,7 @@
 
 > A frequently updated playlist with brand\-new songs from new &amp;amp; established artists\. 🤖🚫&\#x2F;&\#x2F; Cover: $NOT \| pitch.playlistd@gmail.com
 
-434 songs - 20 hr 57 min
+435 songs - 21 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Hellcat](https://open.spotify.com/track/40v8YelGp00FvvseRuPTbv) | [808 Corari](https://open.spotify.com/artist/5INzhTZDn49qwwLnavz9Hi), [Masii](https://open.spotify.com/artist/2JQWNS4804HqjqIunzQmKF) | [Hellcat](https://open.spotify.com/album/5mhgq3XTnzLXTmPj1EJnd3) | 1:51 | 2024-05-29 |  |
 | [Hello Kittyy](https://open.spotify.com/track/6gpeB6mcS2i0eoDwGjUP5x) | [Sage the Fox](https://open.spotify.com/artist/4wRFgacpf7f63S8faBqbTi) | [Hello Kittyy](https://open.spotify.com/album/6lcJaZlZQX1RJTo7wQt6ch) | 2:53 | 2024-06-03 |  |
 | [her](https://open.spotify.com/track/2KFVxdgdoTFIGNzhK0ebe7) | [ghø$t](https://open.spotify.com/artist/54kqwFR4Bmw72WoSJvzeEh) | [her](https://open.spotify.com/album/0A7Ovby4zmJ7BLfBmVXAXa) | 2:47 | 2024-11-17 |  |
+| [HEY](https://open.spotify.com/track/0z5mPZLAet4h0U2ChLhZZE) | [Isa\-Aura](https://open.spotify.com/artist/4ba4F0jnalxz5si2A6cfdD), [MOOMAK](https://open.spotify.com/artist/6cVjiY6xN6r3ZdbNfT7Cpn) | [HEY](https://open.spotify.com/album/13PhR9OzgvdqziZpZg57FF) | 3:32 | 2025-11-20 |  |
 | [Highlight Reel](https://open.spotify.com/track/2Ws0Wb3zbNCjacrn4nHGL7) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [Highlight Reel](https://open.spotify.com/album/3qPqqUNcSBocvzi6MXhrtW) | 3:10 | 2023-07-26 |  |
 | [Hip Hop Never Die](https://open.spotify.com/track/4oo4DTgdEKstG6bwUGxrYO) | [Dj Snap](https://open.spotify.com/artist/5xPzpLubb45QUU4zmqCDFK) | [Unlocked](https://open.spotify.com/album/5P4FaWqSrsVqHaj9o0ICBM) | 2:27 | 2024-06-08 |  |
 | [HISSS](https://open.spotify.com/track/4j4CgayXJnRJnLXRQH8W8s) | [BE4N](https://open.spotify.com/artist/05Gd3YKIx417Tlc5bpWPfC) | [HISSS](https://open.spotify.com/album/1oRmxuia54B539JlrcQK2v) | 2:34 | 2025-10-23 |  |

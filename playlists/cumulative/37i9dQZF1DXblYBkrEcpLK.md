@@ -4,7 +4,7 @@
 
 > Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: Ado
 
-802 songs - 2 day 5 hr 0 min
+803 songs - 2 day 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -496,6 +496,7 @@
 | [イツカノキオク](https://open.spotify.com/track/6H89asd35YNQJ3Ga0B41Je) | [和氣あず未](https://open.spotify.com/artist/3xmpisx9RrqCxxnkzD3dYK) | [イツカノキオク / 透明のペダル](https://open.spotify.com/album/4DF9D7Tg8ciZg63yAdKvtu) | 3:55 | 2022-06-09 | 2022-07-20 |
 | [イマココ](https://open.spotify.com/track/26apmjQrRKz3Q8h5MzJgxo) | [Nao Toyama](https://open.spotify.com/artist/5FQ4vbNwpE1wFGoOPecJB9) | [Rainbow](https://open.spotify.com/album/73Ap5dXU3ZP9FNcY4F8R9K) | 3:42 | 2022-06-12 | 2022-07-14 |
 | [イロドリ](https://open.spotify.com/track/4OqUFJkoUZA7RNtEyvilS1) | [KanoeRana](https://open.spotify.com/artist/41xWPhTGTkBVZwftEX2Xft) | [イロドリ](https://open.spotify.com/album/2DJBLrJSA045LLJGhtFqgP) | 3:15 | 2024-05-21 | 2024-07-08 |
+| [インフェリア](https://open.spotify.com/track/1TPZq8RupVFSB2sSt5dxav) | [シユイ](https://open.spotify.com/artist/3EKiz61ZCQs4LK3O96mt5O) | [インフェリア](https://open.spotify.com/album/5VECDMfN7ZA9T5LaBmhy7z) | 3:38 | 2025-11-19 |  |
 | [インプリンティング](https://open.spotify.com/track/4BHOkYVsWAagGvrJh1hBzD) | [▽▲TRiNITY▲▽](https://open.spotify.com/artist/1smxE5VWPZB5RfSsK3bVyM) | [インプリンティング](https://open.spotify.com/album/3Wk9NOmKusxEFP1AVFeOty) | 3:48 | 2022-06-09 | 2022-07-28 |
 | [ウォーアイニー](https://open.spotify.com/track/4JuGfoVTxBosFrjnE1MFh2) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [可愛女子](https://open.spotify.com/album/5GyItnBLvUZ59iEQRbuuaM) | 3:53 | 2025-11-19 |  |
 | [エウレカベイビー](https://open.spotify.com/track/4EVEy1BgQtBtE24LpuJiyy) | [麻生夏子](https://open.spotify.com/artist/1DDZtVeKCSNTVs2EupUsQ1) | [Precious tone](https://open.spotify.com/album/7gvXKfOmp31NTXqaZqwdf6) | 3:50 | 2022-06-24 | 2022-07-05 |
@@ -678,7 +679,7 @@
 | [恋ノ行方](https://open.spotify.com/track/1ognDP1UWqfcPaOvlzTCXx) | [あかせあかり](https://open.spotify.com/artist/50k6hfXdVJ3uD8fUt7PQvL) | [恋ノ行方](https://open.spotify.com/album/5PobZ27bNVPebdG5sRvnQF) | 3:37 | 2022-07-07 | 2022-12-06 |
 | [恋愛サーキュレーション](https://open.spotify.com/track/5P8lyudWE7HQxb4ludLbEm) | [物語シリーズ](https://open.spotify.com/artist/0NT8fqhPoKJrd038u1Qumz) | [Utamonogatari Special Edition \(Original Soundtrack\)](https://open.spotify.com/album/0Wibr4Xn7la0V69fnnujJw) | 4:15 | 2022-07-28 |  |
 | [息を吸う ここで吸う 生きてく](https://open.spotify.com/track/4IuiAmZd248MLAntebZFKo) | [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [息を吸う ここで吸う 生きてく](https://open.spotify.com/album/0a2TRcs3q6ovWkJjEVOwjL) | 3:11 | 2022-06-09 | 2022-07-29 |
-| [悪魔の子](https://open.spotify.com/track/2TVFbLCdzrX0RdhWNWJmdp) | [Ai Higuchi](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [悪魔の子](https://open.spotify.com/album/2WGPb8eZJ2Jl4X52hBG6xg) | 3:47 | 2022-06-09 |  |
+| [悪魔の子](https://open.spotify.com/track/2TVFbLCdzrX0RdhWNWJmdp) | [Ai Higuchi](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [悪魔の子](https://open.spotify.com/album/2WGPb8eZJ2Jl4X52hBG6xg) | 3:47 | 2022-06-09 | 2025-11-21 |
 | [想い出がいっぱい](https://open.spotify.com/track/5IlEKA3reRm4JKpg4gMn9R) | [アーリャ（CV：上坂すみれ）](https://open.spotify.com/artist/6T2BNiyW0J5qbP0t2MS2Bk) | [想い出がいっぱい（TVアニメ「時々ボソッとロシア語でデレる隣のアーリャさん」エンディングテーマ）](https://open.spotify.com/album/4TMgyjKTFfqFaCLFVencx2) | 3:44 | 2024-07-23 | 2024-07-31 |
 | [想風（TVアニメ『薬屋のひとりごと』挿入歌）](https://open.spotify.com/track/3h05x3Bh7SOzINsxBMgFDS) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy), [桶狭間ありさ](https://open.spotify.com/artist/4hvJ6gJeIAfiPDEoqqbZnQ) | [想風（TVアニメ『薬屋のひとりごと』挿入歌）](https://open.spotify.com/album/3wh5pzFmCbKM93X2pgcdTj) | 2:28 | 2023-10-24 | 2023-11-12 |
 | [愛♡スクリ～ム！](https://open.spotify.com/track/2BBIUV8wIBbqc7HXObzdgH) | [AiScReam](https://open.spotify.com/artist/5cW1SVDUXXzsj3eFT7Gmta) | [愛♡スクリ～ム！](https://open.spotify.com/album/1l4SKYcXWUhCQ1jiasP9XZ) | 4:22 | 2025-03-24 |  |

@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-161 songs - 10 hr 4 min
+162 songs - 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Technicolor Wine](https://open.spotify.com/track/37zitPVqGB50b27TrvHjbg) | [Dizzy Daffodils](https://open.spotify.com/artist/1d6SQiQelLAdAjeiKX9CTm) | [Technicolor Wine](https://open.spotify.com/album/2LuUFZMvR9PSNdv4QDlhNk) | 3:46 | 2025-10-21 |  |
 | [Temptaitions](https://open.spotify.com/track/3KNHuU49oFzpJYu4KcQRTB) | [Backstrom](https://open.spotify.com/artist/31DB1gJNtSbXs06VuQgx8h), [Bart Topher](https://open.spotify.com/artist/3mvp7QP1kba2iFsaSZOA6a) | [Temptaitions](https://open.spotify.com/album/6O55lTKdy0kkOxnUiSfkoV) | 3:57 | 2025-09-24 |  |
 | [The Bond](https://open.spotify.com/track/5WYkSDKAz2B8NA182Di5Go) | [Evon Rose](https://open.spotify.com/artist/3DyWzJwbk4fijpMYOrc7R5) | [The Bond](https://open.spotify.com/album/7Kp7wrTCNan7B0ZW6DjZSR) | 3:29 | 2025-10-04 |  |
+| [The Endless Line](https://open.spotify.com/track/4vH4XT4cbZbzPsagst504L) | [The Rabbit Council](https://open.spotify.com/artist/1nSm3sva0zgXWbnUjsu5nf) | [The Endless Line](https://open.spotify.com/album/0dPp4UDPvoi9FmbpN7jKup) | 2:28 | 2025-11-20 |  |
 | [The Ghost Of You \- Epic Rock Version](https://open.spotify.com/track/1A6zCKYRn7QlIkMh0izWjW) | [Jordi Martijnse](https://open.spotify.com/artist/5Z0G3YfqBlb7LaqJDhKv5p) | [Ascend](https://open.spotify.com/album/7HBJCsmEoPOBmV043hkXCr) | 2:41 | 2025-11-05 |  |
 | [The Path of Life](https://open.spotify.com/track/11U2REWAJDmch5GwYOb1T7) | [Shadows Of Earth](https://open.spotify.com/artist/1lkixm50bb6mtDPZspK90Z), [Khaino](https://open.spotify.com/artist/3Cu7fUV3xvZHRJrDlYBmdA) | [The Path of Life](https://open.spotify.com/album/2mLhmToLFY0AHU68IRErSK) | 3:37 | 2025-09-28 |  |
 | [The Silent Streaks](https://open.spotify.com/track/6Oo9FMtmoOeoNsfGkHreDM) | [Alexander Campos](https://open.spotify.com/artist/3VrExr8mX2V9MgL01hbmvs) | [Whispers of a Violent Moon](https://open.spotify.com/album/3k9XEH9nw5nau63BXPKMpW) | 3:27 | 2025-10-07 |  |

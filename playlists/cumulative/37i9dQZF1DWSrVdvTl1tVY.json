@@ -483,6 +483,24 @@
     },
     {
       "album": {
+        "name": "AL'S HOT SOUP",
+        "url": "https://open.spotify.com/album/6VZaiqbYfSfWCgpCUlJwIJ"
+      },
+      "artists": [
+        {
+          "name": "Azzecca",
+          "url": "https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236390,
+      "name": "AL'S HOT SOUP",
+      "url": "https://open.spotify.com/track/7bm6oh6cq7vCZpsf4wQkWL"
+    },
+    {
+      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/2AP6dy9DNEXjERfyveb35H"
       },
@@ -3424,7 +3442,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 190623,
       "name": "Can You?",
       "url": "https://open.spotify.com/track/6ms0V0nfoOWOPz7qHHKiQQ"
@@ -3694,6 +3712,36 @@
       "duration_ms": 202857,
       "name": "Can't You See?",
       "url": "https://open.spotify.com/track/7AZ0MjV5ZDW5M57ZkyNpp9"
+    },
+    {
+      "album": {
+        "name": "Can\u2019t Stop (KiNK Remix)",
+        "url": "https://open.spotify.com/album/4nQKyGv9FxhpB6zsIKEOEC"
+      },
+      "artists": [
+        {
+          "name": "Duck Sauce",
+          "url": "https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt"
+        },
+        {
+          "name": "A-Trak",
+          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+        },
+        {
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+        },
+        {
+          "name": "Kink",
+          "url": "https://open.spotify.com/artist/6yCdWsTDt4Dmb5GMZd5QLb"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292223,
+      "name": "Can\u2019t Stop - KiNK Remix",
+      "url": "https://open.spotify.com/track/55V8yyVFw9oMSy3nOQPTom"
     },
     {
       "album": {
@@ -4084,6 +4132,28 @@
       "duration_ms": 218152,
       "name": "Closer",
       "url": "https://open.spotify.com/track/37CRlrQQUbL5sKWDAuYE7E"
+    },
+    {
+      "album": {
+        "name": "Clothes Off",
+        "url": "https://open.spotify.com/album/6Hv8o4UTjAhETnpWwWcmIS"
+      },
+      "artists": [
+        {
+          "name": "Tigerblind",
+          "url": "https://open.spotify.com/artist/3Uy3rel4Zw9anDMtPIU9IA"
+        },
+        {
+          "name": "TEE UP",
+          "url": "https://open.spotify.com/artist/42PTVPt4p4tKDZyk4SRkvi"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153333,
+      "name": "Clothes Off",
+      "url": "https://open.spotify.com/track/6eUPBaazgIHOkyP9nkDSFq"
     },
     {
       "album": {
@@ -6324,7 +6394,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 134905,
       "name": "Edge of Desire",
       "url": "https://open.spotify.com/track/4A56h4B9xUuMMXoKuj18HT"
@@ -8000,10 +8070,28 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 179771,
       "name": "Front 2 Back",
       "url": "https://open.spotify.com/track/5O3BBu1w4gfT0vsLPN3bfW"
+    },
+    {
+      "album": {
+        "name": "Frozen",
+        "url": "https://open.spotify.com/album/5bARuKz9sERIH9uVbsFaJG"
+      },
+      "artists": [
+        {
+          "name": "Omar+",
+          "url": "https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206448,
+      "name": "Frozen",
+      "url": "https://open.spotify.com/track/77Rrh3GmnQtudQWWJkomiG"
     },
     {
       "album": {
@@ -8650,6 +8738,28 @@
       "duration_ms": 175000,
       "name": "Good Thing",
       "url": "https://open.spotify.com/track/03wfaLfQxphXhjlOqVul9T"
+    },
+    {
+      "album": {
+        "name": "Good To Go",
+        "url": "https://open.spotify.com/album/1Vej6ZvPbYQxZckYTLYO9B"
+      },
+      "artists": [
+        {
+          "name": "Crusy",
+          "url": "https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft"
+        },
+        {
+          "name": "Jem Cooke",
+          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188653,
+      "name": "Good To Go",
+      "url": "https://open.spotify.com/track/3XndZgN7LIjUPjgjvF89dc"
     },
     {
       "album": {
@@ -12000,7 +12110,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 205637,
       "name": "Let The Bass Kick",
       "url": "https://open.spotify.com/track/2SJU4GS38jO7Nfgyviv8je"
@@ -16662,7 +16772,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 144732,
       "name": "Please Me",
       "url": "https://open.spotify.com/track/4shdF3Ln9GoPBNZu7rajFG"
@@ -16728,6 +16838,24 @@
       "duration_ms": 191013,
       "name": "Pose",
       "url": "https://open.spotify.com/track/5LBemsCrsGqsXSGYA8i2z6"
+    },
+    {
+      "album": {
+        "name": "Positive",
+        "url": "https://open.spotify.com/album/4ZIJvPTy2VrVEUkc0FpdaI"
+      },
+      "artists": [
+        {
+          "name": "Jamback",
+          "url": "https://open.spotify.com/artist/7n5VjDNd00Hy0ZDEGn0erB"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169846,
+      "name": "Positive",
+      "url": "https://open.spotify.com/track/0cZN3g7rtfNE6vsmX0k8OF"
     },
     {
       "album": {
@@ -20298,7 +20426,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 155913,
       "name": "Sweat Couture",
       "url": "https://open.spotify.com/track/4PilxRwgRgEliuW5fk8OIq"
@@ -20364,6 +20492,28 @@
       "duration_ms": 207895,
       "name": "Sweet Devotion - Edit",
       "url": "https://open.spotify.com/track/7FSgGyCg0kBU3iUKSMbxNd"
+    },
+    {
+      "album": {
+        "name": "Sweet Sensation",
+        "url": "https://open.spotify.com/album/31kl1fGRq8LBQLaBwixM5w"
+      },
+      "artists": [
+        {
+          "name": "Danny Howard",
+          "url": "https://open.spotify.com/artist/14MtanGZe4G1fzC8raLFUK"
+        },
+        {
+          "name": "Edd",
+          "url": "https://open.spotify.com/artist/2yATHzEnQZ0nO5NCokVTmX"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214133,
+      "name": "Sweet Sensation",
+      "url": "https://open.spotify.com/track/3En8PDbpdIgN7lIPG1vrVq"
     },
     {
       "album": {
@@ -21540,7 +21690,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 167677,
       "name": "The Shiver",
       "url": "https://open.spotify.com/track/0ouWOf4W8331O6dt2GCW7A"
@@ -23974,7 +24124,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 201496,
       "name": "Whisper",
       "url": "https://open.spotify.com/track/0TwPs9I8w7YvxvGAsdhON5"

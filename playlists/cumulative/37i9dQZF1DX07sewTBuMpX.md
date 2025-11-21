@@ -4,7 +4,7 @@
 
 > De beste tunes op repeat\. Cover: Jonna Fraser & Lil Kleine
 
-102 songs - 4 hr 49 min
+103 songs - 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Gata Only \(Remix\)](https://open.spotify.com/track/0JGTfiC4Z41GEEpMYLbWwO) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Gata Only \(Remix\)](https://open.spotify.com/album/3j6Hr2FWIsjgTKWbfRx0tu) | 3:50 | 2025-07-17 |  |
 | [GIRLS WANNA HAVE FUN](https://open.spotify.com/track/2Zu4Eg1f9xPjPYusZceHvo) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [GIRLS WANNA HAVE FUN](https://open.spotify.com/album/7I10Tjo8NKUvesJtUrpBof) | 3:28 | 2025-07-17 |  |
 | [Herinnering](https://open.spotify.com/track/17iAh2zKuYtwOSTFvQIYY0) | [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1), [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2) | [Herinnering](https://open.spotify.com/album/38WasMmT3lcq0EhDJqh9JV) | 2:34 | 2025-07-17 |  |
+| [Hit me up \(feat\. Chavanté & Kleine John\)](https://open.spotify.com/track/4IunKjJY3tOuERmzYufNcL) | [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo), [Chavanté](https://open.spotify.com/artist/46hfNL2Bni5Ux8hCDMAjIN), [Kleine John](https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M) | [Hit me up \(feat\. Chavanté & Kleine John\)](https://open.spotify.com/album/7FSH6pSfUO5wCZpFnszXV1) | 2:32 | 2025-11-20 |  |
 | [Holy Ghost](https://open.spotify.com/track/5vqLQ8nrejrMf591htfM5u) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Holy Ghost](https://open.spotify.com/album/2mjQFCTzCQ3Up4RWHHpKMm) | 3:06 | 2025-07-17 |  |
 | [Hypé \(feat\. Ayra Starr\)](https://open.spotify.com/track/6oi6AAmRd2IbanRMQZC39J) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Hypé \(feat\. Ayra Starr\)](https://open.spotify.com/album/5RuD9wVp96jSA1Lx1pZNYD) | 2:37 | 2025-07-17 |  |
 | [I Need Your Love](https://open.spotify.com/track/2fnhMzGEEPKvFtExQ3FMMo) | [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg), [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [I Need Your Love](https://open.spotify.com/album/2OKk9baUzD5hvaQ9JxlEZ0) | 2:43 | 2025-07-17 |  |
@@ -57,7 +58,7 @@
 | [Lost & Found](https://open.spotify.com/track/7kleqbfZAvPzMMiX1uxCin) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [Lost & Found](https://open.spotify.com/album/2UMTQXRwobqaIDJaYDsHN8) | 3:15 | 2025-07-17 |  |
 | [Love = Scary](https://open.spotify.com/track/39gFgXRPPZjv8HebmbT6rW) | [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [Love = Scary](https://open.spotify.com/album/34mLUrlEQ8vjRYyDAXT4A8) | 2:27 | 2025-07-17 |  |
 | [Luv Again](https://open.spotify.com/track/0BlBcMUDVI68fwwNGulSGM) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Luv Again](https://open.spotify.com/album/1BmGUnyQvlpEQaaUe47NJv) | 3:40 | 2025-07-17 |  |
-| [MARADONA](https://open.spotify.com/track/6DQP9PApwO1ytBaOOec8ap) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [MARADONA](https://open.spotify.com/album/5tKM7AJK4KbZfvjULZWqBL) | 2:25 | 2025-07-17 |  |
+| [MARADONA](https://open.spotify.com/track/6DQP9PApwO1ytBaOOec8ap) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [MARADONA](https://open.spotify.com/album/5tKM7AJK4KbZfvjULZWqBL) | 2:25 | 2025-07-17 | 2025-11-21 |
 | [Matcha Coco](https://open.spotify.com/track/2LddWQtqjD4ORObbXr9pKX) | [Noano](https://open.spotify.com/artist/5eDdy8QxB47JsLASK2FI1m), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [Matcha Coco](https://open.spotify.com/album/70jZhmkexGwpMunmQj3TLs) | 2:57 | 2025-07-17 |  |
 | [Meteoriet](https://open.spotify.com/track/1ruXNzERqtHdoXULOAcCsJ) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr) | [Klop Klop](https://open.spotify.com/album/0W6z6Tvad2uvZ0mQb8651o) | 2:47 | 2025-07-17 |  |
 | [Milli \(feat\. Victony\)](https://open.spotify.com/track/2GzuO6Yu4viM9XNWZKZmSa) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [SO7ACE](https://open.spotify.com/artist/4ibCJiC5KbRm8hhmaXRkIU), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Tayo](https://open.spotify.com/album/7bYbluaYSIJ8VhkpoDgS85) | 2:42 | 2025-07-17 |  |

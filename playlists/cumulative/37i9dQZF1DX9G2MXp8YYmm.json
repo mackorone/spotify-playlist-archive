@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Pop'un sevilen isimleri. Kapak: Ceylin Arslan",
+  "description": "Pop'un sevilen isimleri. Kapak: Ahmet Hatipo\u011flu",
   "name": "Pop Radyo",
   "tracks": [
     {
@@ -4375,6 +4375,24 @@
     },
     {
       "album": {
+        "name": "G\u00fcz G\u00fcne\u015fi",
+        "url": "https://open.spotify.com/album/1whxkCTNuqAH14AzaNMreE"
+      },
+      "artists": [
+        {
+          "name": "Ahmet Hatipo\u011flu",
+          "url": "https://open.spotify.com/artist/2sOq4hJZRAybcz8AvKjDK4"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Kolay De\u011fil",
+      "url": "https://open.spotify.com/track/1atcx5GqHDmKdZwYx2IDcn"
+    },
+    {
+      "album": {
         "name": "Konsun Bir Ku\u015f Gibi",
         "url": "https://open.spotify.com/album/2hZZK3GW7k61P4cZkElt75"
       },
@@ -6458,7 +6476,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 139280,
       "name": "Tam Da \u015eu Anda",
       "url": "https://open.spotify.com/track/3FmRJPzylI6fuDIso7jejM"

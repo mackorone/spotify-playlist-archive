@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 
 > The best of Latin Trap\. Cover: De La Rose, Yan Block, Hades66 & Ñengo Flow
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,494,751 likes - 106 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,494,732 likes - 106 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [444 \- Remix](https://open.spotify.com/track/5AK6QqM8aUXXTk6oY00ZRh) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [444 \(Remix\)](https://open.spotify.com/album/3mVZl9O0ungJP8CG7iPKTD) | 4:59 |
-| 2 | [Un Dia En Mi Barrio \- Remix](https://open.spotify.com/track/1KiI7qXgmqlX0KzK4f985q) | [Tony Monta](https://open.spotify.com/artist/1WF0qzllFgT2xJlk0Nrwqo), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11), [Topboy TGR](https://open.spotify.com/artist/1HYdJRbyNCkiko7TAw9rei), [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Fharid On the Beat](https://open.spotify.com/artist/5OK9NPDzd0KKaqTxH1XJdZ) | [Un Dia En Mi Barrio \(Remix\)](https://open.spotify.com/album/2wA2nVsgjQYMKWSlraEQLi) | 7:15 |
+| 2 | [Un Dia En Mi Barrio \- Remix](https://open.spotify.com/track/1KiI7qXgmqlX0KzK4f985q) | [Tony Monta](https://open.spotify.com/artist/1WF0qzllFgT2xJlk0Nrwqo), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11), [Topboy TGR](https://open.spotify.com/artist/1HYdJRbyNCkiko7TAw9rei), [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Un Dia En Mi Barrio \(Remix\)](https://open.spotify.com/album/2wA2nVsgjQYMKWSlraEQLi) | 7:15 |
 | 3 | [Me Persiguen](https://open.spotify.com/track/2iPQFmsVPEG137aVs2jBMB) | [Hanzel La H](https://open.spotify.com/artist/5VKY4vo0U20tbsQi6OdH9o), [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Me Persiguen](https://open.spotify.com/album/4SxwvTz4wlSF8dvsnamYQt) | 3:37 |
 | 4 | [Paris Hilton](https://open.spotify.com/track/7ed8tIVWqNumP9WtpT2c44) | [$HUPE](https://open.spotify.com/artist/4fxkIFo9v2qqrrPCkXjNG3), [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce) | [Paris Hilton](https://open.spotify.com/album/1xkYfIxGzzvh4AMrDwlXSU) | 2:42 |
 | 5 | [MÁS DE AHÍ](https://open.spotify.com/track/6m2G1v4Of1ioerAPTqoKsH) | [Topboy TGR](https://open.spotify.com/artist/1HYdJRbyNCkiko7TAw9rei), [Kzadores](https://open.spotify.com/artist/4y6AiRdD8ZaV9DbpmsQdei) | [MÁS DE AHÍ](https://open.spotify.com/album/5N3CPTfhHvxjPBAHSTeN2D) | 2:44 |

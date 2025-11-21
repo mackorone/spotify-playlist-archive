@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qNE4zrflL7.md) - [plain]
 
 > The songs that influenced everything that has happened since\. Cover: The Rolling Stones
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,280 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,307 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qNE4zrflL7.md) - [plain]
 | 63 | [Complication](https://open.spotify.com/track/4Sb3TdqgOi35RoL78Y1LtC) | [The Monks](https://open.spotify.com/artist/3VTNuQRp2wjrWzZX6CXxiy) | [Black Monk Time](https://open.spotify.com/album/0YEmNXaNDq03tfgFmG4MOj) | 2:22 |
 | 64 | [Lies \(are breaking my heart\)](https://open.spotify.com/track/6ybSSVTO6vMVJUk2bM68Y7) | [The Knickerbockers](https://open.spotify.com/artist/3L13VZ9rCpmR1p7p6A2WGu) | [Greatest Hits](https://open.spotify.com/album/2YMcmP3pReBLBYEjtDpU9w) | 2:45 |
 | 65 | [Magic Carpet Ride](https://open.spotify.com/track/05B7Kc8fvBlX0OWbE6piPZ) | [Steppenwolf](https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m) | [The Second](https://open.spotify.com/album/13N5hEeZ9VtMnN6m0eeo6I) | 4:31 |
-| 66 | [Maggie's Farm](https://open.spotify.com/track/5rGD8FFgHw74cp3RPhucyg) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Bringing It All Back Home](https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v) | 3:54 |
+| 66 | [Maggie's Farm](https://open.spotify.com/track/5rGD8FFgHw74cp3RPhucyg) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Bringing It All Back Home](https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v) | 3:59 |
 | 67 | [Kick Out The Jams \(Original Uncensored Version\)](https://open.spotify.com/track/5mSZLysuAtdNA21mbOm0sx) | [MC5](https://open.spotify.com/artist/4WquJweZPIK9qcfVFhTKvf) | [The Anthology 1965\-1971](https://open.spotify.com/album/6dQ1UaaiYqkubZz0QscTfG) | 3:03 |
 | 68 | [Egyptian Shumba](https://open.spotify.com/track/3URfn21oTyGF6rIuhHsBJw) | [The Tammys](https://open.spotify.com/artist/3Os2NHPOwJ3559grrBt2j3) | [Egyptian Shumba](https://open.spotify.com/album/2hL87MLxmoDRl7jEI4IeoE) | 2:17 |
 | 69 | [Light Flight](https://open.spotify.com/track/7LIKiKUV9WifyLyLhO2XaY) | [Pentangle](https://open.spotify.com/artist/55wOEGTc3QKwBJ9gntcOxT) | [Basket of Light](https://open.spotify.com/album/4rOoH26Xjc4vfGgwZ0qxEE) | 3:14 |

@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-4,355 songs - 9 day 21 hr 57 min
+4,356 songs - 9 day 22 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2618,6 +2618,7 @@
 | [Never Forget You \- Amél Remix](https://open.spotify.com/track/0PQMS8Vvpc1UOHeaeXEERB) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Amél](https://open.spotify.com/artist/6OHd6Z5k9ZmBJ91oqeSpDG) | [Never Forget You \- Amél Remix](https://open.spotify.com/album/2fNbZ421Ylg5lSSmdGtLFr) | 4:20 | 2025-06-27 | 2025-07-05 |
 | [Never Going Home Tonight \(feat\. Madison Love\)](https://open.spotify.com/track/7K1BLb6MpvKuGEPpHw35mO) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Madison Love](https://open.spotify.com/artist/3BkE65DVH2NZSDQa6ZszcJ) | [Never Going Home Tonight \(feat\. Madison Love\)](https://open.spotify.com/album/0tn39dXCidefjSr5PqXbcX) | 2:44 | 2024-09-05 | 2024-09-13 |
 | [Never Gonna Come Back Down \- Single Edit](https://open.spotify.com/track/0VjhxuHVFMl8hrGUUvNLH1) | [BT](https://open.spotify.com/artist/64MoFdq8ORI3V98AR5SPWL) | [Never Gonna Come Back Down](https://open.spotify.com/album/3zonVzm2tK3v3sRS4GIqFV) | 3:44 | 2025-05-09 | 2025-05-17 |
+| [Never Hurt Me](https://open.spotify.com/track/4gLIj39hL8uiaoxeFE6qWo) | [Nikita Marasey](https://open.spotify.com/artist/6LODgGQ6Q8E6szNBq4ao1r) | [Never Hurt Me](https://open.spotify.com/album/5XxQcVXuVzlgwiGZ8MkG9u) | 3:12 | 2025-11-20 |  |
 | [Never Leave Your Side](https://open.spotify.com/track/6dxgU2HI5m1n1EDkDNtb8d) | [John O'Callaghan](https://open.spotify.com/artist/6H2JQ8igAAa5UBr2u496mb), [Lyd14](https://open.spotify.com/artist/4ExXsMNYJjGYRV02EQnvKU) | [Never Leave Your Side](https://open.spotify.com/album/4tqQHmgtaEicFNYfd2oHuC) | 4:20 | 2025-07-25 | 2025-08-02 |
 | [Never Letting Go](https://open.spotify.com/track/50aavjIFmj5VB6Cxkcx2X7) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Never Letting Go \(feat\. Julia Church\)](https://open.spotify.com/album/3D4noTUY4HJPPf3Swo3XM9) | 2:02 | 2024-10-11 | 2024-10-22 |
 | [Never Lose Hope](https://open.spotify.com/track/4DQ2QLAGgsKfFPonwcclmW) | [welow](https://open.spotify.com/artist/6VLlJoIts2vruvFxAN7Fja) | [Never Lose Hope](https://open.spotify.com/album/4t1ShHo3FDnLzWx43SPbAh) | 3:28 | 2025-03-28 | 2025-04-11 |

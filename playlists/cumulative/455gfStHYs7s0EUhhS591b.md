@@ -4,7 +4,7 @@
 
 > Feel\-good summer throwbacks and chilled lounge mixes to bring the summer vibe all year round.
 
-233 songs - 13 hr 43 min
+234 songs - 13 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [I Never Knew How \- Original Mix](https://open.spotify.com/track/1JRqdhtPjnfgizg6DB9ISo) | [Manu Zain](https://open.spotify.com/artist/6MIXwGBFXAuLoaZ6s0fCT7), [Patrick Baker](https://open.spotify.com/artist/73PTYegu3D1i5vRERzcBhT) | [I Never Knew How](https://open.spotify.com/album/1YRe3DxgMk2eyJghhuRtiE) | 3:32 | 2025-06-19 |  |
 | [I Was Made For Loving You](https://open.spotify.com/track/1Oq12ylF5RLY9PXU0yImJe) | [SRNDE](https://open.spotify.com/artist/09GI3XFxh5aCMcTDm5sqFB), [Summer Is Calling](https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u) | [I Was Made For Loving You](https://open.spotify.com/album/2eSAnDMPGUEW166itn4AZd) | 2:28 | 2025-09-19 |  |
 | [I Would Like To Know](https://open.spotify.com/track/42JXQGrJTzN67naZ7QySyR) | [Collective Sound Members](https://open.spotify.com/artist/2nbNDji9Kj4dcqH0g8B5UQ) | [Music From The Soul Vol\. 1](https://open.spotify.com/album/1tleH47sxteEjY8Cts1Ztw) | 3:37 | 2025-06-19 |  |
+| [I'm Watching You \(So Many Times\)](https://open.spotify.com/track/6zfK3U2Qpwj1OL0FiDcFYa) | [Summer Is Calling](https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u), [Gadjo](https://open.spotify.com/artist/28ZtvtD63uuc4Lf81lYWmr) | [I'm Watching You \(So Many Times\)](https://open.spotify.com/album/3o5bqr6XEp8Dntbnj7Rn7O) | 2:48 | 2025-11-21 |  |
 | [If We Could Fly](https://open.spotify.com/track/7lrrMXyShyiRnruh9nLBNb) | [Summer Is Calling](https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u), [Soul Dhamma](https://open.spotify.com/artist/0VnLQZ37oYVlV9MeztxSmu) | [If We Could Fly](https://open.spotify.com/album/1h4zfoe4LvCVo767mxD0jj) | 2:35 | 2025-06-19 |  |
 | [In The Air Tonight](https://open.spotify.com/track/2kTrGtoJ3nhEBjPRfewgKM) | [ReUnited](https://open.spotify.com/artist/3ba8XnU6tuDE8ZSpJNw6v1), [Mashti](https://open.spotify.com/artist/0c2kLTUTikqUpkRjJOerzf), [Deep Dive Corp.](https://open.spotify.com/artist/2Xn8Gef5Hv2QOWYlXs2gTb) | [Chill Executive Officer \(CEO\), Vol\. 17 \[Selected by Maykel Piron\]](https://open.spotify.com/album/4Mp7Y5fgZZJpCehY6mqn8S) | 3:58 | 2025-07-18 |  |
 | [In The Waiting Room](https://open.spotify.com/track/1icTsg2NC4PojiK15LrXgq) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Trampolines](https://open.spotify.com/album/6P3wd3aFVwuwF3tYbzCskk) | 3:39 | 2025-07-18 |  |

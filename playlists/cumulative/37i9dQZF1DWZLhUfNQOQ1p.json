@@ -6011,6 +6011,24 @@
     },
     {
       "album": {
+        "name": "Pullin'",
+        "url": "https://open.spotify.com/album/6qMnsmBLNjDqti2c1yq0em"
+      },
+      "artists": [
+        {
+          "name": "Collect 200",
+          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220150,
+      "name": "Pullin'",
+      "url": "https://open.spotify.com/track/20WQJASER0SwoV5SmHQzIa"
+    },
+    {
+      "album": {
         "name": "TILT",
         "url": "https://open.spotify.com/album/0X9CpcnwoPgzznLDDGx8PI"
       },
@@ -8268,7 +8286,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 186173,
       "name": "WestBorn",
       "url": "https://open.spotify.com/track/6PQmbLYv07IprWdrNeJFjT"

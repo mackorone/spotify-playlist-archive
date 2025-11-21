@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Max McNown
 
-[Spotify](https://open.spotify.com/user/spotify) - 857,453 likes - 175 songs - 10 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 857,517 likes - 175 songs - 10 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 37 | [off day](https://open.spotify.com/track/1oRVV0MGr5jza6NAGEQ2Nd) | [Keni Titus](https://open.spotify.com/artist/3TCkIp7RQLM4MzP5q9iyzj) | [off day](https://open.spotify.com/album/1nIu38uixi5e1RFBpv25TE) | 3:12 |
 | 38 | [Leave \(Bonus Track\)](https://open.spotify.com/track/1J9rjkTGB48gkXEYr1bZFu) | [Jake Minch](https://open.spotify.com/artist/7Lfq2a2cpwQBdDzo7SW1HC) | [George](https://open.spotify.com/album/2WCrgpZ3OFFyNj8M0wRgz6) | 3:40 |
 | 39 | [Every Scar](https://open.spotify.com/track/43SRkE6MyiNXHXGeHO7Tg9) | [Them & I](https://open.spotify.com/artist/7FGAlyRveFmDqEaAwqEzIT) | [Every Scar](https://open.spotify.com/album/0GKOGR382B4pDrLJVBH4Xc) | 2:57 |
-| 40 | [Time \(feat\. Jade Bird\)](https://open.spotify.com/track/3yR8gF5hxJFTXSaZcJCRr3) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0), [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Time \(feat\. Jade Bird\)](https://open.spotify.com/album/4baR3GcohEvZbNkyHqEFC6) | 2:58 |
+| 40 | [Time \(feat\. Jade Bird\)](https://open.spotify.com/track/3yR8gF5hxJFTXSaZcJCRr3) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0), [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Time \(feat\. Jade Bird\)](https://open.spotify.com/album/4baR3GcohEvZbNkyHqEFC6) | 2:59 |
 | 41 | [Peru](https://open.spotify.com/track/5EU1VTFCSe7PPE1P3MFxGN) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Through This Fire Across from Peter Balkan](https://open.spotify.com/album/23wXSnurzNp56xCyGBPQ65) | 3:54 |
 | 42 | [Hadrian's Wall](https://open.spotify.com/track/68e2D3yp96VN8nm4TW13hm) | [Steve Gunn](https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO) | [Daylight Daylight](https://open.spotify.com/album/1J0qV3wcKMtct7t1YSIALl) | 4:54 |
 | 43 | [Build a House](https://open.spotify.com/track/3fYFSYL49mkevGDQkjkoFw) | [Hannah Hill](https://open.spotify.com/artist/2YXwzQWYyLiFYx6VA0e0WR) | [Underbelly](https://open.spotify.com/album/3NyVPWtGDoTM70RDKqjIjF) | 4:45 |

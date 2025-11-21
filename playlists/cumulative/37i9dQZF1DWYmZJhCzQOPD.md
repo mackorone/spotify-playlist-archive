@@ -4,7 +4,7 @@
 
 > Funky and lush\. This is Philly Soul which laid the groundwork for disco.
 
-51 songs - 4 hr 1 min
+51 songs - 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Don't Leave Me This Way \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/4vYauy3ABO65vTXggGYaZg) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Wake Up Everybody \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0) | 6:03 | 2021-07-01 |  |
 | [Don't Let It Go to Your Head \- 12" Version](https://open.spotify.com/track/4nRiCBgh4dvI1fqv3f7rpw) | [Jean Carn](https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1) | [Happy To Be With You](https://open.spotify.com/album/36gLFOM5E6PELPukiJ4I0d) | 4:51 | 2021-07-01 |  |
 | [Don't Let Love Get You Down](https://open.spotify.com/track/2GOnaGFMVPMYqRNRteDw3h) | [Archie Bell & The Drells](https://open.spotify.com/artist/1kupwLFpHALpmhp5qol8xH) | [Where Will You Go When The Party's Over](https://open.spotify.com/album/59RUNgFXzj7NmK5QagHViQ) | 4:19 | 2021-07-01 |  |
-| [Enjoy Yourself](https://open.spotify.com/track/4OdhWe5GZTkwAuNXLQZImM) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [The Jacksons](https://open.spotify.com/album/4s3Piwh8AOoAl1VvskfwJF) | 3:24 | 2021-07-01 |  |
+| [Enjoy Yourself](https://open.spotify.com/track/4OdhWe5GZTkwAuNXLQZImM) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [The Jacksons](https://open.spotify.com/album/4s3Piwh8AOoAl1VvskfwJF) | 3:26 | 2021-07-01 |  |
 | [For the Love of Money](https://open.spotify.com/track/3p1JoOEhVkEnTaa4JzTMSk) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Ship Ahoy \(Expanded Edition\)](https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8) | 7:19 | 2021-07-01 |  |
 | [Ghetto Child](https://open.spotify.com/track/3qmyaJxqKaGkAioK3lEnFS) | [The Spinners](https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5) | [Spinners](https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg) | 3:50 | 2021-07-01 |  |
 | [Girl Don't Make Me Wait](https://open.spotify.com/track/7olM7DziKkkVEcMAT6fA7P) | [Bunny Sigler](https://open.spotify.com/artist/4wyNEslyuNURfltXmivNeg) | [The Best Of Philly Soul \- Vol\. 2](https://open.spotify.com/album/3MwX3t13zHDtWhNLWiLOcd) | 2:30 | 2021-07-01 |  |
@@ -44,7 +44,7 @@
 | [Nights Over Egypt](https://open.spotify.com/track/68VCCqeujyd3SqmYAWB0lZ) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Get as Much Love as You Can](https://open.spotify.com/album/3tpCzBzJytqzc7eHcJQChi) | 4:39 | 2021-07-01 |  |
 | [One of a Kind \(Love Affair\)](https://open.spotify.com/track/3LV2CK8sJiYjg1bV1aHQop) | [The Spinners](https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5) | [Spinners](https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg) | 3:34 | 2021-07-01 |  |
 | [See You When I Git There](https://open.spotify.com/track/3vQcIveDIfPe0HFdlpIUSK) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [The Essential Lou Rawls](https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG) | 4:25 | 2021-07-01 |  |
-| [Show You the Way to Go](https://open.spotify.com/track/3gGy2V4n2vELDCyuioZLYh) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [The Jacksons](https://open.spotify.com/album/4s3Piwh8AOoAl1VvskfwJF) | 5:27 | 2021-07-01 |  |
+| [Show You the Way to Go](https://open.spotify.com/track/3gGy2V4n2vELDCyuioZLYh) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [The Jacksons](https://open.spotify.com/album/4s3Piwh8AOoAl1VvskfwJF) | 5:29 | 2021-07-01 |  |
 | [Sideshow](https://open.spotify.com/track/0fopVbPW7N5BK0sOybQCq2) | [Blue Magic](https://open.spotify.com/artist/7tLLSEaHMMJPbsYAz8MkEw) | [Blue Magic](https://open.spotify.com/album/3DU0VQcgElO1cBHWk669BE) | 4:11 | 2021-07-01 |  |
 | [Slow Motion \(Part 1\)](https://open.spotify.com/track/6EdVvkxAYAgT3DXW8Op4ZH) | [Johnny Williams](https://open.spotify.com/artist/2u6sTEhZMp9PgpEPYn4Sry) | [From Philly With Love](https://open.spotify.com/album/37iNGYqlN7m1FNLNmapKAy) | 2:57 | 2021-07-01 |  |
 | [Stop and Think](https://open.spotify.com/track/11CSYQ5bUfyWuYY3DoPClu) | [The Trammps](https://open.spotify.com/artist/1zgNpeHQe8GulzfVkYP2VK) | [Trammps](https://open.spotify.com/album/1SmPclq9Xud4FEJ6uZvlAK) | 3:08 | 2021-07-01 |  |

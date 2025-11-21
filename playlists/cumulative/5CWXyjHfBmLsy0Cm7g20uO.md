@@ -4,7 +4,7 @@
 
 > Dive into the heart of indie and alternative rock with our handpicked playlist\. Discover raw energy, powerful riffs, and the soulful essence of independent rock music\. Rock on!
 
-122 songs - 7 hr 38 min
+125 songs - 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Burnt Photos](https://open.spotify.com/track/4t2vNEa0Ajgz3Q2AQGPKiO) | [XIV Ash](https://open.spotify.com/artist/0Uza79K0BV2haG8oZ6VIyG) | [Burnt Photos](https://open.spotify.com/album/2T0qMzb8UrM6N7TuMki6mL) | 2:23 | 2025-09-22 |  |
 | [by the look in my eyes \(rock your body\)](https://open.spotify.com/track/1P07WlENk05jGivgkHqa2p) | [SOLO THIEF](https://open.spotify.com/artist/67hrGusXpfFjHwmAtNbRy2) | [how to rob the supermarket and sell your soul to the devil at the same time](https://open.spotify.com/album/0jX9TJiGOnGn6pHfxwFKJZ) | 3:53 | 2025-11-18 |  |
 | [Camarillo Brillo/Muffin Man \- Live](https://open.spotify.com/track/5CLJiZXbnN9Ag6Gidd7oqa) | [Proteus](https://open.spotify.com/artist/2npdyO8ezTNfRw9vSi8f4K), [Nick Wallisch](https://open.spotify.com/artist/3CUJTfHnXqWKlepkfGjHZk) | [Live in Austin 1/15/2009](https://open.spotify.com/album/0cbC8n9nsrutYUg63gu4Fb) | 7:10 | 2025-10-31 |  |
+| [Cigarette](https://open.spotify.com/track/56tdisH0RpjtEIxdTkCmny) | [sullivan grace band](https://open.spotify.com/artist/3ksrh2WkrKJmEeerKl2bpd) | [Cigarette](https://open.spotify.com/album/1V3mMM3bSlH3RYOvpQ4apt) | 2:23 | 2025-11-20 |  |
 | [Cold Feet](https://open.spotify.com/track/3uoGJ6NtFFNXcGKso4vkAo) | [Solvivor](https://open.spotify.com/artist/0ynVXHx76VfKJvHogyv0w7) | [Cold Feet](https://open.spotify.com/album/6V34YcBZmbfxIwfibKKTGU) | 3:48 | 2025-10-21 |  |
 | [Come Back, Jenny](https://open.spotify.com/track/2FsG8tcLk4wmmSCpPV9Qwe) | [Jordan Seven](https://open.spotify.com/artist/0oiNORHcTwZXKEXTSRw37m) | [7](https://open.spotify.com/album/0Ay3hdIvVeAYeJIhrP1ceD) | 5:32 | 2025-11-04 |  |
 | [Confuse Me](https://open.spotify.com/track/4T4Tz5J8I4UM8rtHBXjpsB) | [Againstide](https://open.spotify.com/artist/7qEOhbkxfx5d24fF5vEjpI) | [Confuse Me](https://open.spotify.com/album/3QIKXJxu1yebspdrgdYdPv) | 5:15 | 2025-06-26 |  |
@@ -37,6 +38,7 @@
 | [Delirio](https://open.spotify.com/track/0PaTKb73vDPXpFlYYIJiZm) | [Manuel m clouds art](https://open.spotify.com/artist/6XqHezSWhMSFtWLrzu40C0) | [Sueños que mueren escondidos](https://open.spotify.com/album/2nhHcXG7FRWJ4X1gcpKSoe) | 4:47 | 2025-10-30 |  |
 | [Doc](https://open.spotify.com/track/0XqRUwiwEwuset4qeNCkGZ) | [Automatic Kafka](https://open.spotify.com/artist/2MxUQ6VUpXfDov3Fyz7Wnm) | [Immortal](https://open.spotify.com/album/1Bww8qOOKesIVb0V0njtwe) | 4:13 | 2025-10-06 |  |
 | [Don't Care](https://open.spotify.com/track/6rCmUJ8b0ZFJnUYt7re4sY) | [Th Macrini](https://open.spotify.com/artist/4kNlOEwSyR8MGyxOiN4UGq) | [Don't Care](https://open.spotify.com/album/6g6CiSM0sKYuvbG1fVpE6G) | 2:35 | 2025-11-14 |  |
+| [Doveland](https://open.spotify.com/track/3OEjExzjiewsOFWRsmYB3B) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [Doveland](https://open.spotify.com/album/3xgHYrciva3U6p6I1rPovM) | 3:11 | 2025-11-20 |  |
 | [DRAINED](https://open.spotify.com/track/0dIXQmDxBTBftcQOaTZsYv) | [Rolo](https://open.spotify.com/artist/7KGGo3dYH0hGs2JWllqI1I) | [DRAINED](https://open.spotify.com/album/34mHgS3pKf0ddzEzBcjxFl) | 2:04 | 2025-09-11 |  |
 | [El Final](https://open.spotify.com/track/1eFo6IDJXf0H0Pnl19wJhs) | [Fzuay](https://open.spotify.com/artist/4UpgZJzWHD9Y2TO9nrET7J) | [Cuando Se Acabe Todo](https://open.spotify.com/album/6zfLluqdgsv3sVUevykRiI) | 6:25 | 2025-11-12 |  |
 | [EXODUS](https://open.spotify.com/track/0fhElyqSxUy5IncqVwxt8L) | [Sierra Levesque](https://open.spotify.com/artist/5ovcQlmQG16m2jnnsbc3T6) | [NEW GENERATION](https://open.spotify.com/album/6KI45fnfdVkX7nNL2gnaDZ) | 3:04 | 2025-10-14 |  |
@@ -102,6 +104,7 @@
 | [Soulmate](https://open.spotify.com/track/2q96dUvvTH7uawMcSHS4KY) | [Sanctions Music](https://open.spotify.com/artist/275R6p8Z6We8SDmruMiHrm) | [Soulmate](https://open.spotify.com/album/4GKh8ImFSia6Txz5aJcO1H) | 3:47 | 2024-11-18 |  |
 | [Stars Align](https://open.spotify.com/track/4FhPpakes0g6M04Vi4O8Kc) | [ToloV](https://open.spotify.com/artist/4t3awapuIDzb4fGOMWR35Q) | [Stars Align](https://open.spotify.com/album/25js2Ko44rO4pOvU5nfr0S) | 3:36 | 2025-11-03 |  |
 | [Stereowide: a Phenomenological Esquisse \(2025 Remaster\)](https://open.spotify.com/track/6kL7WAxYbbIq6dZKGSBDyW) | [Denis Sanlevsky](https://open.spotify.com/artist/3hVy3jR2sY6BMurVikXkvf) | [Stereowide: a Phenomenological Esquisse \(2025 Remaster\)](https://open.spotify.com/album/1SVtCSJ1dVxLeud8g7nsDi) | 6:28 | 2025-11-11 |  |
+| [Strange Addiction](https://open.spotify.com/track/1J1SHqJbS4ejLSvjdJph5W) | [Taylor D](https://open.spotify.com/artist/6EYjKhsmEVEBEvyvtta5sg) | [Strange Addiction](https://open.spotify.com/album/0dWEaFnP8w5QS60vyeBm2R) | 4:15 | 2025-11-20 |  |
 | [Suerte](https://open.spotify.com/track/3Ep75XNkKEz3meQlzCjJ3M) | [Los de Marte](https://open.spotify.com/artist/3IswqnIMsJKqBzGplTP91r) | [Suerte](https://open.spotify.com/album/0BX5xTASG4jk84rbv4Y1Pr) | 2:47 | 2025-10-06 |  |
 | [Sun Clock](https://open.spotify.com/track/0md1eE3fJwGkXU3RYodEIX) | [The Allusionist](https://open.spotify.com/artist/2xSTKvNUJ7aVBvgX15l1pb), [ann moonton](https://open.spotify.com/artist/08lAwCZa3Ytl8zMx3gJNrM) | [Sun Clock](https://open.spotify.com/album/5x7F7RwSXjaWrNPaiMNcMo) | 3:48 | 2025-09-19 |  |
 | [Symptoms](https://open.spotify.com/track/5hc8GGmxu3BgKXSniNkrSP) | [Ms\. Black](https://open.spotify.com/artist/1mBBTF4wjXjlIDbXN77rxi) | [Symptoms](https://open.spotify.com/album/3irfLhqD8GeOS4rExK08EI) | 2:51 | 2025-10-03 |  |

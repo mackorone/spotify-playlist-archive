@@ -1,12 +1,12 @@
 {
   "description": "This is G Herbo. The essential tracks, all in one playlist.",
-  "num_followers": 35174,
+  "num_followers": 35182,
   "original_name": "This Is G Herbo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRu3AAAAAACDkODJM1E3hwuxAzU7GzWh",
+  "snapshot_id": "aR0IgAAAAAACkpbhbODhvzwxnB9Bl7kt",
   "tracks": [
     {
       "added_at": null,
@@ -448,9 +448,9 @@
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         }
       ],
-      "duration_ms": 181607,
-      "name": "Where Would I Be?",
-      "url": "https://open.spotify.com/track/3ephUINsyZn9Q0oeAyy7Hn"
+      "duration_ms": 213812,
+      "name": "1 Chance",
+      "url": "https://open.spotify.com/track/1qP1VkM7SizqG5psiSeBkz"
     },
     {
       "added_at": null,
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         }
       ],
-      "duration_ms": 213812,
-      "name": "1 Chance",
-      "url": "https://open.spotify.com/track/1qP1VkM7SizqG5psiSeBkz"
+      "duration_ms": 181607,
+      "name": "Where Would I Be?",
+      "url": "https://open.spotify.com/track/3ephUINsyZn9Q0oeAyy7Hn"
     },
     {
       "added_at": null,
@@ -655,6 +655,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lil Herb (Extended)",
+        "url": "https://open.spotify.com/album/0aqpG80oRkiQRMjaS4saAi"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 160038,
+      "name": "No Bap (Bonus)",
+      "url": "https://open.spotify.com/track/1bEFWdOp1xDnMPZDO8mtAe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Untreated Trauma",
         "url": "https://open.spotify.com/album/4b3YhxbbwYFmhqdzmty0rQ"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 168000,
       "name": "White Lies (feat. G Herbo)",
       "url": "https://open.spotify.com/track/0tFBUAD6EUgXmmj1ooNzVT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lil Herb (Extended)",
-        "url": "https://open.spotify.com/album/0aqpG80oRkiQRMjaS4saAi"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 160038,
-      "name": "No Bap (Bonus)",
-      "url": "https://open.spotify.com/track/1bEFWdOp1xDnMPZDO8mtAe"
     },
     {
       "added_at": null,
@@ -731,6 +731,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lil Herb (Extended)",
+        "url": "https://open.spotify.com/album/0aqpG80oRkiQRMjaS4saAi"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 198485,
+      "name": "This N That (Bonus)",
+      "url": "https://open.spotify.com/track/6K5RMhhSucN3vqwCvBngKG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stress Relief (with G Herbo)",
         "url": "https://open.spotify.com/album/0Ghj6XiK4n9JPvZO61NHaq"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 160145,
       "name": "Stress Relief (with G Herbo)",
       "url": "https://open.spotify.com/track/7GsiWWr0TlgnehdkgAg3Yq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lil Herb (Extended)",
-        "url": "https://open.spotify.com/album/0aqpG80oRkiQRMjaS4saAi"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 198485,
-      "name": "This N That (Bonus)",
-      "url": "https://open.spotify.com/track/6K5RMhhSucN3vqwCvBngKG"
     },
     {
       "added_at": null,
@@ -807,6 +807,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lil Herb (Extended)",
+        "url": "https://open.spotify.com/album/0aqpG80oRkiQRMjaS4saAi"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 165292,
+      "name": "Hold My Hand (Bonus)",
+      "url": "https://open.spotify.com/track/52gy4DU9VxOh487XDNM4q6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gun Class II (feat. Nardo Wick & G Herbo)",
         "url": "https://open.spotify.com/album/3PqUw83PcGYn3g8pTJod9y"
       },
@@ -847,22 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lil Herb (Extended)",
-        "url": "https://open.spotify.com/album/0aqpG80oRkiQRMjaS4saAi"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 165292,
-      "name": "Hold My Hand (Bonus)",
-      "url": "https://open.spotify.com/track/52gy4DU9VxOh487XDNM4q6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "UNDERWORLD",
         "url": "https://open.spotify.com/album/1G4tRpGjmTkmE3jSAtKkvV"
       },
@@ -879,6 +879,26 @@
       "duration_ms": 181080,
       "name": "Swerve (feat. G Herbo)",
       "url": "https://open.spotify.com/track/27MFaiM3gYDvknS6FYEUVC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PTSD (Deluxe)",
+        "url": "https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 162217,
+      "name": "Real One",
+      "url": "https://open.spotify.com/track/2rBQUcuBP89PonXz4A9QJh"
     },
     {
       "added_at": null,
@@ -919,26 +939,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PTSD (Deluxe)",
-        "url": "https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 162217,
-      "name": "Real One",
-      "url": "https://open.spotify.com/track/2rBQUcuBP89PonXz4A9QJh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lost Pages",
         "url": "https://open.spotify.com/album/2dtaX61cm2HUJlOn5MSsMs"
       },
@@ -959,26 +959,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pink Money (feat. G Herbo)",
-        "url": "https://open.spotify.com/album/24mo9s4QMG2lWNVbANYdaC"
+        "name": "PTSD (Deluxe)",
+        "url": "https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY"
       },
       "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        },
-        {
-          "name": "Bktherula",
-          "url": "https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK"
-        },
         {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         }
       ],
-      "duration_ms": 164586,
-      "name": "Pink Money (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/6B1EaN6xYGvAVaWZXVxQoW"
+      "duration_ms": 196659,
+      "name": "Cap Guns",
+      "url": "https://open.spotify.com/track/7I2XiD0oUxwwcTemm2ftFG"
     }
   ],
   "unique_name": "This Is G Herbo",

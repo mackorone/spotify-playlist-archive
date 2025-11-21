@@ -4,7 +4,7 @@
 
 > This is Danny Felix\. The essential tracks, all in one playlist.
 
-151 songs - 8 hr 23 min
+152 songs - 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [NO SOMOS DE ACERO \- En Vivo](https://open.spotify.com/track/0LTbcJRYKe0t9Hiqj81L3E) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Los Desconocidos Del Valle](https://open.spotify.com/artist/0tByJxiEmQmHJgD0Q49q9m) | [EN VIVO DESDE EL VALLE](https://open.spotify.com/album/3aAkifKjqkWLM7Tw4Ndq4b) | 3:55 | 2025-03-04 | 2025-10-30 |
 | [NO TE VAYAS](https://open.spotify.com/track/0K7Zwhax5MtOrNTWHq7l0r) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [NO TE VAYAS](https://open.spotify.com/album/5pdbBSD9DXBPzquZ0g5RxL) | 3:18 | 2024-03-23 | 2024-09-15 |
 | [NO TE VAYAS](https://open.spotify.com/track/4mlKCvR8Rowgm9MKEFa8H4) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Y.T.L.S.V.](https://open.spotify.com/album/3fsZw4FkYbALKGWSsHqOcq) | 3:19 | 2024-10-25 | 2025-05-07 |
+| [NOCHE ARREGLADA](https://open.spotify.com/track/4ZWy7q1vy2KAOESS3HOjHX) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [LUCES ROJAS](https://open.spotify.com/album/3CI0ljFulRHYlDHBv4vV7O) | 2:43 | 2025-11-21 |  |
 | [Pa Que Sepan De Una Vez](https://open.spotify.com/track/2xS2oBq0mCa7O4RbdxBtxL) | [Carlos Y Los Del Monte Sinai](https://open.spotify.com/artist/3bNAwmmGrAz6YTioxIBmXc), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Pa Que Sepan De Una Vez](https://open.spotify.com/album/5lFgevGf7iLk3WOe7Uhz3G) | 2:57 | 2024-01-29 |  |
 | [PLAKA](https://open.spotify.com/track/2guRQXwtWXSs2fdjqApG5N) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [LUCES ROJAS](https://open.spotify.com/album/3CI0ljFulRHYlDHBv4vV7O) | 2:54 | 2025-11-03 |  |
 | [Popurri de Cumbias](https://open.spotify.com/track/5ew0ma07k1CCzudmFsD9xJ) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Los De Finix](https://open.spotify.com/artist/5PQoAsNyQgPfDgncYxm8jz) | [Sigo Firme de Pie](https://open.spotify.com/album/1vWG9z0gnPJ0YzVmciYKpT) | 4:50 | 2024-01-29 | 2024-09-25 |
@@ -128,7 +129,7 @@
 | [QUIERO SABER DE TI \- En Vivo](https://open.spotify.com/track/5vWV0zWKlv1ugGn93MOTnH) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Evelyn Ozuna](https://open.spotify.com/artist/3WOxDYEXZgUkddUFOeztYr) | [EN VIVO DESDE EL VALLE](https://open.spotify.com/album/3aAkifKjqkWLM7Tw4Ndq4b) | 4:18 | 2025-11-05 |  |
 | [QUIÉREME](https://open.spotify.com/track/3ioeNPVBME6ApIPWqnGJcj) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Y.T.L.S.V.](https://open.spotify.com/album/3fsZw4FkYbALKGWSsHqOcq) | 3:43 | 2024-09-04 | 2025-10-05 |
 | [QUIÉREME](https://open.spotify.com/track/7DXa9fFf0GZmpCfd5X0Rn2) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [QUIÉREME](https://open.spotify.com/album/28FeS8GCbUhRWEuoe5L1Om) | 3:43 | 2024-04-14 | 2024-08-19 |
-| [QUÉ QUIERE](https://open.spotify.com/track/5h9ElPBeVmPoWYWL9nC9tS) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Chris Hermosillo](https://open.spotify.com/artist/49s6IQppCi57xqZqwLIT7B) | [LUCES ROJAS](https://open.spotify.com/album/3CI0ljFulRHYlDHBv4vV7O) | 2:18 | 2025-11-03 |  |
+| [QUÉ QUIERE](https://open.spotify.com/track/5h9ElPBeVmPoWYWL9nC9tS) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Chris Hermosillo](https://open.spotify.com/artist/49s6IQppCi57xqZqwLIT7B) | [LUCES ROJAS](https://open.spotify.com/album/3CI0ljFulRHYlDHBv4vV7O) | 2:18 | 2025-11-03 | 2025-11-21 |
 | [Quítate La Ropa](https://open.spotify.com/track/4ERKgBz9yny32wfRoG1kli) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Crónicas De Un Corazón Roto](https://open.spotify.com/album/5rTJ6pTQUCyIxxWKlWhvaz) | 3:20 | 2024-01-29 |  |
 | [RECUERDOS](https://open.spotify.com/track/4Co8dkGwDKXPyG2aZZDn5s) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Antonin Padilla](https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk) | [LUCES ROJAS](https://open.spotify.com/album/3CI0ljFulRHYlDHBv4vV7O) | 2:48 | 2025-11-02 |  |
 | [Rosones \- En Vivo](https://open.spotify.com/track/6TVycsgDIVIEaQZORMnA4G) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [CON LA COCHI \[VOL II \(EN VIVO\)\]](https://open.spotify.com/album/3WmaC3AjtOKrypdTmgOYqx) | 2:56 | 2025-01-12 |  |

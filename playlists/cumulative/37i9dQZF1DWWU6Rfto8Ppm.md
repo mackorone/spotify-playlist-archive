@@ -4,7 +4,7 @@
 
 > Reggaetón de antes y de siempre en compañía de Plan B.
 
-473 songs - 1 day 4 hr 8 min
+474 songs - 1 day 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Bailando Quiero Verlas](https://open.spotify.com/track/7L70JFP6AVHi4DJKP1gH1p) | [Tempo](https://open.spotify.com/artist/76whng5pl9msPkkjFUtWYn) | [Playero 41: Past Present & Future Part 1](https://open.spotify.com/album/3flZYLVafxIZDaEiAdZ6y8) | 2:53 | 2022-05-24 | 2022-06-03 |
 | [Bailando Sola](https://open.spotify.com/track/6kAfAYGGj0xcsA2sHuY9jE) | [Kartier](https://open.spotify.com/artist/460De0zEBZIHd67TZBJkNa) | [Sangre Nueva](https://open.spotify.com/album/37FWTNHuhgyX2cduoJgOPs) | 3:33 | 2022-05-13 |  |
 | [Bandida](https://open.spotify.com/track/1810h6qkazO0NWahk1TyTy) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Motivando a la Yal](https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF) | 3:12 | 2021-12-17 |  |
-| [Bandoleros](https://open.spotify.com/track/4BxzNZpcm1j3JczZzGNe2k) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [The Fast And The Furious: Tokyo Drift \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4SJhZBuuLYlwUJGxWf8Pj0) | 5:05 | 2021-12-17 |  |
+| [Bandoleros](https://open.spotify.com/track/4BxzNZpcm1j3JczZzGNe2k) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [The Fast And The Furious: Tokyo Drift \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4SJhZBuuLYlwUJGxWf8Pj0) | 5:05 | 2021-12-17 | 2025-11-21 |
 | [Bata Bata 2](https://open.spotify.com/track/1N1KlnNm1NE4INLOrKN3fi) | [Latin Fresh](https://open.spotify.com/artist/1NRrKr08wLdYUdSOnNDs7M) | [Plan Calle](https://open.spotify.com/album/7ku5AqOktQG9t6GsSE0BL8) | 3:28 | 2023-07-14 |  |
 | [Besos Mojados](https://open.spotify.com/track/0cpzO8YjhyR8JfLzfm5cOr) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [La Revolución \- Evolution \(International Version\)](https://open.spotify.com/album/7CCfcuCn7J3dvHYziLI4T1) | 4:24 | 2021-12-17 | 2022-07-29 |
 | [Bien Loco](https://open.spotify.com/track/4ObjArCiona7v0xbZ83rUZ) | [Nova y Jory](https://open.spotify.com/artist/6ZK8loFAzWKSFe3b7Lrq4V) | [Bien Loco](https://open.spotify.com/album/6IgRN2hP7uOTeZmL7np7Kd) | 3:38 | 2021-12-17 |  |
@@ -456,6 +456,7 @@
 | [Ven Bailalo \- Reggaeton Mix](https://open.spotify.com/track/5nZYc9ZDMhlXv6iWahZTU8) | [Angel Y Khriz](https://open.spotify.com/artist/7npqy7rgdX2D3yfVyWExKo) | [Ven Bailalo \(Reggaeton Mix\)](https://open.spotify.com/album/0jgWVVvhT0tbpzFIr73p3f) | 4:12 | 2022-07-27 | 2023-03-01 |
 | [Villana](https://open.spotify.com/track/3dvmH4H92kg3IR1FeimUFw) | [Hector & Tito](https://open.spotify.com/artist/5aB4SpKYteOJ8pAleoKkg7) | [Blin Blin, Vol\. 1](https://open.spotify.com/album/3WevV5bSmPBELWxYeCBIqc) | 2:24 | 2022-07-27 | 2024-04-17 |
 | [Villana](https://open.spotify.com/track/53chAlZL168uo8eVAs2bdS) | [Hector & Tito](https://open.spotify.com/artist/5aB4SpKYteOJ8pAleoKkg7) | [Blin Blin, Vol\. 1](https://open.spotify.com/album/63Brxfj0nY3twg5MQg5tRz) | 2:24 | 2021-12-17 | 2022-05-15 |
+| [Virtual Diva](https://open.spotify.com/track/6doLqlEfsI2zjsYQCNn5z8) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [iDon](https://open.spotify.com/album/0GfdLiEs9KzWGSkkmLvO1I) | 3:59 | 2025-11-20 |  |
 | [Virtual Diva](https://open.spotify.com/track/0vnzk4L0JyMODSqLp3pHwo) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Virtual Diva](https://open.spotify.com/album/5tOWTmiFfFhNUuYntiopu8) | 4:02 | 2021-12-17 | 2022-07-29 |
 | [Volverás a Mí](https://open.spotify.com/track/6VZNYWQcBxWL3EPFNv4Rh2) | [Yelsid](https://open.spotify.com/artist/0BkX3f2WgeqNgvulzPLc7R) | [La Voz](https://open.spotify.com/album/6agMJk2h9mZIbOheTL9YQi) | 3:16 | 2021-12-17 |  |
 | [Voz Sensual](https://open.spotify.com/track/4eBRM5oc92XWVomWI3OsUf) | [Big Boy](https://open.spotify.com/artist/5bVQN1TENxjVjWXNHHpflG) | [Mis Ojos Lloran Por Ti](https://open.spotify.com/album/5o36XrjVl3YdBYqt0p57Gc) | 2:51 | 2023-12-21 |  |

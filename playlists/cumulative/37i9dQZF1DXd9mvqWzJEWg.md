@@ -2,9 +2,9 @@
 
 ### [GQOM Power House](https://open.spotify.com/playlist/37i9dQZF1DXd9mvqWzJEWg)
 
-> From Durban and Cape Town to the globe, yasuka leyonto! Cover: Omagoqa
+> From Durban and Cape Town to the globe, yasuka leyonto! Cover: DJ Tira, Goldmax
 
-519 songs - 1 day 21 hr 59 min
+520 songs - 1 day 22 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,7 @@
 | [Gogo Maweni](https://open.spotify.com/track/2nYnZBsH8NIsm3eCTbXyGl) | [Hume Da Muzika](https://open.spotify.com/artist/5sMk0h3nPvjOmjqG4BunmY), [Hume Forex](https://open.spotify.com/artist/042lgHI9JqRf8yEMwRIaHT), [Ma Andi](https://open.spotify.com/artist/14jeVl1p0FjlOJQQCzmJ8r) | [Gogo Maweni](https://open.spotify.com/album/4szTZclA6eGk5Yihk2B8YD) | 5:43 | 2025-02-24 | 2025-04-23 |
 | [Going higher](https://open.spotify.com/track/7I4tRtZmY1iSkGcyoeywcM) | [djelectronic](https://open.spotify.com/artist/1XcF6eGzFx5jNBRymo6mNh) | [Lokishi to the World](https://open.spotify.com/album/6BquZLkp9H5cghCgq6wzn3) | 4:36 | 2025-07-24 | 2025-08-22 |
 | [Golden Camp](https://open.spotify.com/track/6NVdV7TSwtE0u6Oy1EHBm3) | [Campmasters](https://open.spotify.com/artist/6b2HMbnP4SmYcpOL19fFmr), [Goldmax](https://open.spotify.com/artist/3yWkz47Z8kE6z1xW6rjkAl) | [Music B4 Fame](https://open.spotify.com/album/1ZL67Js3J5qVn8DX1ZmyOo) | 5:12 | 2025-07-17 |  |
-| [Gqobho Zwii Zwii](https://open.spotify.com/track/1Ct0qzuwu6QfH9i2FABJhg) | [Deejay Zebra SA](https://open.spotify.com/artist/0DN2ALL09rLmHQtX26BntG) | [Gqobho Zwii Zwii](https://open.spotify.com/album/44yg0EU21EQikyfbzWC9Q9) | 5:39 | 2025-02-20 |  |
+| [Gqobho Zwii Zwii](https://open.spotify.com/track/1Ct0qzuwu6QfH9i2FABJhg) | [Deejay Zebra SA](https://open.spotify.com/artist/0DN2ALL09rLmHQtX26BntG) | [Gqobho Zwii Zwii](https://open.spotify.com/album/44yg0EU21EQikyfbzWC9Q9) | 5:39 | 2025-02-20 | 2025-11-21 |
 | [Gqobo](https://open.spotify.com/track/1nmsJ8As5p14FI20KDmhTi) | [djelectronic](https://open.spotify.com/artist/1XcF6eGzFx5jNBRymo6mNh), [Jobelish](https://open.spotify.com/artist/1cmn146jHIkm62MxjR9fMA) | [Gqobo](https://open.spotify.com/album/0APlN72jIhB34xFvZ0XFm9) | 4:54 | 2024-07-18 | 2025-02-07 |
 | [Gqom ' Xtreme](https://open.spotify.com/track/1TI3reDiHzJYv5SOLTxVs7) | [Assiye Bongzin](https://open.spotify.com/artist/4LGkmVg5ZuWf8aH9L9C3rC), [General C'mamane](https://open.spotify.com/artist/2Ox9fpFAMtnOHXcieMxmQe) | [Kings Of Gqom'](https://open.spotify.com/album/4nqfY6qg6OGtKDDBjXASEt) | 5:05 | 2023-08-24 | 2024-02-16 |
 | [Gqom 09](https://open.spotify.com/track/0LdXA5wCkvUCTvNftgSdN2) | [DJ Fanele](https://open.spotify.com/artist/6M8jIo6oHncJ1oIvHFtbY3), [Dlala Lazz](https://open.spotify.com/artist/56conUHVIKn4Tr02Gis3pN) | [Gqom 09](https://open.spotify.com/album/1VHZCuKKMIZTtPSbwWkULD) | 5:09 | 2021-10-14 | 2022-11-08 |
@@ -469,6 +469,7 @@
 | [Umuntu Ngumuntu](https://open.spotify.com/track/1WEPtoyDkzWDgB4iduxErM) | [Dlala Chass](https://open.spotify.com/artist/2BuFIwEOV547lKQhOapZU3), [Mirror SA](https://open.spotify.com/artist/0TM906NgUduoWyKsQvfQ90), [Hoover SA](https://open.spotify.com/artist/0ykg2l2pm5NzxwCLI1QQwy) | [Umuntu Ngumuntu](https://open.spotify.com/album/12ob8PXtfJfLJeqCPDVZa9) | 5:51 | 2023-05-25 | 2023-08-25 |
 | [uMuthi \(Mampinsta Tribute\)](https://open.spotify.com/track/3r0oFzSWnpUYeSDasgYc3F) | [Goldmax](https://open.spotify.com/artist/3yWkz47Z8kE6z1xW6rjkAl), [Blacks Jnr](https://open.spotify.com/artist/791GWlP1qgrNMEU9BUAUcZ) | [Play At Your Own Risk](https://open.spotify.com/album/3ivpcSJn7XZVZpTv7W9liF) | 6:03 | 2025-02-20 |  |
 | [Umvandedwaa](https://open.spotify.com/track/0iamMezZkeHUbvztzwSTPb) | [DjTroyEL](https://open.spotify.com/artist/2C3FdmLePq3xAlnfy4k9bC), [Danger Shayumthetho & K\-zin Isgebengu](https://open.spotify.com/artist/1tgT2bAkPKKZQ6GPzdrVae) | [Umvandedwaa](https://open.spotify.com/album/1uAuUiZ6r6vInS6Gy8rh6q) | 6:13 | 2025-07-10 | 2025-07-18 |
+| [Umxhosa \(feat\. QUE DJ, We Dem Boyz & Blaq Kidd\)](https://open.spotify.com/track/1fSBEYrKiAqoqtmA9qhU9F) | [Goldmax](https://open.spotify.com/artist/3yWkz47Z8kE6z1xW6rjkAl), [DJ Tira](https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn), [QUE DJ](https://open.spotify.com/artist/6ZKszbUwWSNSc0VydBBAka), [We Dem Boyz](https://open.spotify.com/artist/0UiPZvfKIwLbsxGZcQCWhq), [Blaq Kidd](https://open.spotify.com/artist/5fY1YRsWfFZV1jRE8L18mw) | [Umxhosa \(feat\. QUE DJ, We Dem Boyz & Blaq Kidd\)](https://open.spotify.com/album/4vZA2wqxuFZetICwqsuxPr) | 4:38 | 2025-11-21 |  |
 | [Underworld](https://open.spotify.com/track/3nMfPEFkrNxZSYbKVe99hf) | [Woza Spice](https://open.spotify.com/artist/5jXhHXqQusFuDslFf7VJYQ) | [Underworld](https://open.spotify.com/album/6MExFZ1jDwPkEpP6IQ61M9) | 5:31 | 2023-04-27 | 2023-08-18 |
 | [Unomeva](https://open.spotify.com/track/60o7HF5nu0VYPt9grzY93O) | [Bobstar no Mzeekay](https://open.spotify.com/artist/22gbQLXGFu00Ed7jvaBeqI) | [Inyembezi Zam EP](https://open.spotify.com/album/6BvpfOXFkN5r2VYG2T1grf) | 6:17 | 2022-06-30 | 2023-05-26 |
 | [Unstoppable](https://open.spotify.com/track/5SoHrPWeNuGGw7gzV60DxW) | [Robin Pieters](https://open.spotify.com/artist/2tw3IXCNK2a88IiwpOby1X), [NV Funk](https://open.spotify.com/artist/2Y4YLJHlF2q5jg5pTE5CSz) | [Unstoppable](https://open.spotify.com/album/2P3OHl9eVdJNLI0fM6A7Bp) | 3:35 | 2024-02-01 | 2025-01-24 |

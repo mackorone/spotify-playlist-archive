@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 663 likes - 87 songs - 5 hr 0 min
+[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 676 likes - 88 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,5 +95,6 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 | 85 | [Fuoco amico](https://open.spotify.com/track/4231iF5l6zLvmQ1eEydIbv) | [Pra de la fam](https://open.spotify.com/artist/6k2bdPqQ5t0CqUhssS2uKR) | [i limoni](https://open.spotify.com/album/39OzdBUVtyOrrXINCFQE8W) | 3:34 |
 | 86 | [Correr](https://open.spotify.com/track/39jAEMhAqeRWdw2rDI8EBK) | [Danilo Pira](https://open.spotify.com/artist/7A4czDJpi2rhwdubWHp4X2) | [Correr](https://open.spotify.com/album/7w3lPNSFILQgJR8SQirOrj) | 3:14 |
 | 87 | [A.B\. Normal](https://open.spotify.com/track/1oBh6kwA621nFKmZNS3bl3) | [Little Less Pain](https://open.spotify.com/artist/1JLKWDQ8LN2uRAdFhUhWXJ) | [A.B\. Normal](https://open.spotify.com/album/1HWSSVtCRanpO7PyMZFOXP) | 3:30 |
+| 88 | [Рыжая девочка\-осень \(acoustic version\)](https://open.spotify.com/track/2ekAbtabAM8qao1YjQyeoz) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Рыжая девочка\-осень \(acoustic version\)](https://open.spotify.com/album/0AKOCae4zWQSLUcVdWsI2T) | 2:50 |
 
-Snapshot ID: `AAACT2G7EdSl5pymwpVgh0KoJVXcHZwp`
+Snapshot ID: `AAACUJVWbdkpLOzIFi9PBGG8ZEXoKr/x`

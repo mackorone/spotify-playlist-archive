@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2baJMpwgH2W.md) - [plain]
 
 > Ballads from the best shows, from the West End and beyond.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,442 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,463 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2baJMpwgH2W.md) - [plain]
 | 32 | [Fernando](https://open.spotify.com/track/1V9zWcD0PpWlFa42vCErzm) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt), [Andy Garcia](https://open.spotify.com/artist/5XaRUXHFbgs8LDoYzoPJ1R) | [Mamma Mia! Here We Go Again \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/14hC5eBiPUxdPa90eCzwrR) | 3:59 |
 | 33 | [Naughty](https://open.spotify.com/track/64DXFDl2A6ObNy7iXFlZzZ) | [Matilda the Musical Original Cast](https://open.spotify.com/artist/7paFidVdtsmKlLtHiLZu41) | [Matilda the Musical \(Original London Cast Recording\)](https://open.spotify.com/album/4TMFJM8OsgA2RwwYySNhmU) | 4:02 |
 | 34 | [Legally Blonde](https://open.spotify.com/track/1bXV5MjCKNmD8viWpawP9A) | [Christian Borle](https://open.spotify.com/artist/3mXvO1rdMCgdOYNiWeduWG), [Laura Bell Bundy](https://open.spotify.com/artist/32bisvV1h0yF3PeKmWI6sj) | [Legally Blonde The Musical \(Original Broadway Cast Recording\)](https://open.spotify.com/album/7os43c6BUhMJkDUaEtDufk) | 3:30 |
-| 35 | [The Place Where Lost Things Go](https://open.spotify.com/track/6BK8BcFxMFr3JVUaAOZsYC) | [Emily Blunt](https://open.spotify.com/artist/1Q67mZjXzxBuLSgvgFdtuG) | [Mary Poppins Returns \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4A5q8ZjS2S7kXoixcEU81B) | 3:43 |
-| 36 | [God Help the Outcasts](https://open.spotify.com/track/67KymXb4OUQtUlO31EFOjS) | [Heidi Mollenhauer](https://open.spotify.com/artist/2FmXrymxv6kNBnA66HpoPt), [Chorus \- The Hunchback Of Notre Dame](https://open.spotify.com/artist/5oHSxqr1uDloCbJJPNBd6T) | [The Hunchback Of Notre Dame \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7btQeUDTIIfnh2iCQ8Pfhq) | 3:45 |
+| 35 | [God Help the Outcasts](https://open.spotify.com/track/67KymXb4OUQtUlO31EFOjS) | [Heidi Mollenhauer](https://open.spotify.com/artist/2FmXrymxv6kNBnA66HpoPt), [Chorus \- The Hunchback Of Notre Dame](https://open.spotify.com/artist/5oHSxqr1uDloCbJJPNBd6T) | [The Hunchback Of Notre Dame \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7btQeUDTIIfnh2iCQ8Pfhq) | 3:45 |
+| 36 | [The Place Where Lost Things Go](https://open.spotify.com/track/6BK8BcFxMFr3JVUaAOZsYC) | [Emily Blunt](https://open.spotify.com/artist/1Q67mZjXzxBuLSgvgFdtuG) | [Mary Poppins Returns \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4A5q8ZjS2S7kXoixcEU81B) | 3:43 |
 | 37 | [Mister Cellophane](https://open.spotify.com/track/6TtN9cU9bK6TJX0DBSu6pd) | [John C\. Reilly](https://open.spotify.com/artist/5SL8972vfCQ4PFqlmf9B5G) | [Chicago \- Music From The Miramax Motion Picture](https://open.spotify.com/album/3RH2do6C88Owoka8V51LsP) | 3:57 |
 | 38 | [Sal Tlay Ka Siti](https://open.spotify.com/track/6n7FyFONGtwL0XdGALhXMJ) | [Nikki M\. James](https://open.spotify.com/artist/5HHdJNyLkf5ZmTcxId47jT) | [The Book Of Mormon \(Original Broadway Cast Recording\)](https://open.spotify.com/album/5yauUuXppqUj2ulor38hvI) | 3:41 |
 | 39 | [All I Ask Of You](https://open.spotify.com/track/52KiYg6Kn2NB9riY2IwUgi) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG), [Phantom Of The Opera Original London Cast](https://open.spotify.com/artist/3LfD2yRlfHAtTryX8rFp25), [Steve Barton](https://open.spotify.com/artist/1gEOIEK9jgpYvvG57BP0US), [Sarah Brightman](https://open.spotify.com/artist/7Ead768rc4ShGxnqtqccU5) | [The Phantom Of The Opera](https://open.spotify.com/album/36bEg6FTBaZGLg9ngJZIU6) | 4:14 |

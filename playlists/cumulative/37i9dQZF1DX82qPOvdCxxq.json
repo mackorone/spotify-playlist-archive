@@ -12933,6 +12933,24 @@
     },
     {
       "album": {
+        "name": "Rescue",
+        "url": "https://open.spotify.com/album/6YIZ91Vdj3boGPBLo0DtUI"
+      },
+      "artists": [
+        {
+          "name": "Nevada",
+          "url": "https://open.spotify.com/artist/15NtJjjHRFybdNSMyM9smT"
+        }
+      ],
+      "date_added": "2025-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187708,
+      "name": "Rescue",
+      "url": "https://open.spotify.com/track/6qj23ytqYEl3U8N7vnvHQS"
+    },
+    {
+      "album": {
         "name": "resolve~",
         "url": "https://open.spotify.com/album/49aeURRkNoDukqUGy68vLo"
       },

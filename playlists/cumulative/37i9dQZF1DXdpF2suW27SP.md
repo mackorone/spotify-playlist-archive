@@ -2,9 +2,9 @@
 
 ### [Na Zona](https://open.spotify.com/playlist/37i9dQZF1DXdpF2suW27SP)
 
-> Deezy entra na zona.
+> Papillon entra na zona.
 
-892 songs - 1 day 23 hr 17 min
+894 songs - 1 day 23 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,7 @@
 | [Cantinho Pra Nós](https://open.spotify.com/track/129FWnr5JyDxiC4BnVEgmk) | [Carla Prata](https://open.spotify.com/artist/7vWp4MLdsECG1Dmu5NDLRS), [SleepyThePrince](https://open.spotify.com/artist/3GWI6Dqtdwmy1KwK4hr7QE) | [Cantinho Pra Nós](https://open.spotify.com/album/5heAB6yR0875GifkzqrCE4) | 3:04 | 2024-08-08 | 2025-04-25 |
 | [Cantona](https://open.spotify.com/track/6mobne6wnkwLGDxF9T7D55) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [O Próprio](https://open.spotify.com/album/52B67tLSbAC5pS3GZc2Gnd) | 2:23 | 2024-02-19 | 2025-03-21 |
 | [Caos](https://open.spotify.com/track/638acps16sfVIyynQk3eQC) | [Phoenix Rdc](https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna), [Nayr Faquirá](https://open.spotify.com/artist/04UMTpKorelINdwYKsM9Tb) | [Caos](https://open.spotify.com/album/7nS0UAdFZU0ogBLYHLgG5O) | 3:06 | 2024-07-04 | 2024-07-19 |
-| [Cara a cara](https://open.spotify.com/track/5qA0JrW3jOR8OOBAkmEQyQ) | [SlimeLifeBaby](https://open.spotify.com/artist/5an3YOg8y5hF13ePDpGdqz), [Mariela](https://open.spotify.com/artist/1UpLatwiEUHQne567fXpPY) | [Cara a Cara](https://open.spotify.com/album/1WUCsWhdMTgKkfdDZkkkjw) | 3:10 | 2025-08-07 |  |
+| [Cara a cara](https://open.spotify.com/track/5qA0JrW3jOR8OOBAkmEQyQ) | [SlimeLifeBaby](https://open.spotify.com/artist/5an3YOg8y5hF13ePDpGdqz), [Mariela](https://open.spotify.com/artist/1UpLatwiEUHQne567fXpPY) | [Cara a Cara](https://open.spotify.com/album/1WUCsWhdMTgKkfdDZkkkjw) | 3:10 | 2025-08-07 | 2025-11-21 |
 | [Cara ou Coroa](https://open.spotify.com/track/4lc3equbqmCYTfy6J7vDJj) | [Deau](https://open.spotify.com/artist/4NxLGL5SkVNFAkj3cwMKHh) | [Cara ou Coroa](https://open.spotify.com/album/2A1g97w1cg16MxJUR8yomi) | 2:26 | 2025-09-18 | 2025-10-10 |
 | [Cara Podre Freestyle 2](https://open.spotify.com/track/6hOIHn5MPBnwhkxF3izAkS) | [SamySam Beats](https://open.spotify.com/artist/2tIwY9RiPuPVjYnrGz0aXZ) | [Cara Podre Freestyle 2](https://open.spotify.com/album/67XbS78MRt5GnFvpu6RZ2L) | 1:45 | 2022-07-21 | 2022-08-12 |
 | [Cara Que Engana](https://open.spotify.com/track/1DHSj9pjlwGsVTQ2A2Z8gk) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Cara Que Engana](https://open.spotify.com/album/0xtL6QER4C37WbjNRkhhC5) | 2:59 | 2022-07-16 | 2023-02-10 |
@@ -280,6 +280,7 @@
 | [EASPORTSFC 24](https://open.spotify.com/track/4SCS2z4mG5Jl6LRzD4H1Pk) | [Wine TKK](https://open.spotify.com/artist/4z82basJVVCSjAoZVkb7Rx) | [EASPORTSFC 24](https://open.spotify.com/album/4Kpjwyi1aIoW3t10FI75Ul) | 2:40 | 2023-09-28 | 2023-11-11 |
 | [El Chapo](https://open.spotify.com/track/21eK6Nj3MWcVGholM4AqZH) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [El Chapo](https://open.spotify.com/album/2LhRoA068ps6Ro76JXKaBw) | 4:01 | 2024-09-19 |  |
 | [ELA QUERIA MAIS](https://open.spotify.com/track/4tAMEP8kPju61BoZtj0whg) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx) | [MINA D'OURO](https://open.spotify.com/album/7uTknfX0WjeP7j1ucunTrF) | 2:15 | 2023-04-06 | 2023-07-07 |
+| [ELA É ESSA](https://open.spotify.com/track/3myDC0hr8oRTamQzjmGPzX) | [bapcat](https://open.spotify.com/artist/02Qg3L9GCPXeVQFxZ1b4ou), [ICARO](https://open.spotify.com/artist/6ih0GTEQYgmqCjrXSZUlbZ) | [ELA É ESSA](https://open.spotify.com/album/7yLh0f66gyeDEs5V9xeF99) | 2:36 | 2025-11-21 |  |
 | [ELE FALA MUITO](https://open.spotify.com/track/2eNJ67QZz58Q5kdB5olbSs) | [Simba.](https://open.spotify.com/artist/0mYtvNRxZxXxPTkl0A1W4v) | [ELE FALA MUITO](https://open.spotify.com/album/0xU7xXOxZVUlvJT6vugCpg) | 2:17 | 2025-10-23 |  |
 | [EM CIMA](https://open.spotify.com/track/4Gz9huMp0XpPQdgd5phJFZ) | [PiMP WiLLIAM](https://open.spotify.com/artist/5oZcIrge17ygyt5U7ZxhA9) | [EM CIMA](https://open.spotify.com/album/4LphmO8FAfM8ZC2nWatxPc) | 2:24 | 2024-09-26 | 2024-10-25 |
 | [Energy](https://open.spotify.com/track/0OuWQsF76w2jXQxOpvWfxn) | [Chyna](https://open.spotify.com/artist/3xytrTXgH7SQTEjMZewnWF) | [Energy](https://open.spotify.com/album/5h9LXGGTR6RiAGRbeY8PI7) | 3:58 | 2023-04-20 | 2023-06-02 |
@@ -526,7 +527,7 @@
 | [MOXXXPIRII](https://open.spotify.com/track/3W1L721fuS3pRLrt973Ewc) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [MOXXXPIRII](https://open.spotify.com/album/0yapDd3A9YI9yV6Yvjbsk0) | 3:03 | 2025-04-17 |  |
 | [Moçambique](https://open.spotify.com/track/6hwu64dRXsTdzXrS8Z2Pl8) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB) | [ORDEM & PROGRESSO](https://open.spotify.com/album/3zKhMzs8Hw9XQJVYovzcW1) | 3:20 | 2023-12-08 | 2024-09-13 |
 | [Mulato ou Moreno](https://open.spotify.com/track/2fWdLDGNKVSqxCo3HUjRXi) | [MENDEZ](https://open.spotify.com/artist/7LDFDwC3WaP3aD9KSIblvb) | [Mulato ou Moreno](https://open.spotify.com/album/3w8DGQyspxb8gtqs8zOPSQ) | 2:01 | 2024-01-12 | 2024-02-09 |
-| [MULEMBA](https://open.spotify.com/track/01CGvyHhMFWieYOqMHNA7Z) | [Jimmy P](https://open.spotify.com/artist/0Odg6UKDVyJQruefzF19FU) | [MULEMBA](https://open.spotify.com/album/52t8VcN2VgyUk3CvaWQY7Q) | 2:01 | 2025-06-12 |  |
+| [MULEMBA](https://open.spotify.com/track/01CGvyHhMFWieYOqMHNA7Z) | [Jimmy P](https://open.spotify.com/artist/0Odg6UKDVyJQruefzF19FU) | [MULEMBA](https://open.spotify.com/album/52t8VcN2VgyUk3CvaWQY7Q) | 2:01 | 2025-06-12 | 2025-11-21 |
 | [Mundo Novo](https://open.spotify.com/track/3joplLOWFulJAfogMDOlD9) | [Estraca](https://open.spotify.com/artist/1pA4isjpfB72WlZgDJhDjq), [Karyna Gomes](https://open.spotify.com/artist/67hvQPQ8FN8EGyItUlaxwa) | [Mundo Novo](https://open.spotify.com/album/6zqvzgC06Dek13qRXrQmxM) | 3:11 | 2024-04-18 | 2024-05-03 |
 | [Mundo Virtual](https://open.spotify.com/track/1EsBySeYsxFajxLMgkO6cc) | [Vado Más Ki Ás](https://open.spotify.com/artist/6HmLPYedWhpFhiF8BonrMG) | [Berço de Lata](https://open.spotify.com/album/6aTnN9irGm43qZ6SkHl1Bq) | 3:15 | 2025-04-10 | 2025-08-15 |
 | [My Boo](https://open.spotify.com/track/7oykBwi0pFz0MdeuAVod3W) | [Atim](https://open.spotify.com/artist/6iFLWK7YxKQc9r5WPdoyJr) | [My Boo](https://open.spotify.com/album/5tqOg08UvlOlGKuCGXe3Q7) | 2:34 | 2022-07-16 | 2022-08-05 |
@@ -819,6 +820,7 @@
 | [Toque](https://open.spotify.com/track/7M5PkzdYJwhxoDd4HXxKOx) | [MUN](https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr), [Cunha Beats](https://open.spotify.com/artist/7D094QVmbEkI7e2df0VUq7) | [Toque](https://open.spotify.com/album/6vnfqWycFld3plYH4YeRHC) | 3:16 | 2022-10-13 | 2023-06-09 |
 | [Tou a Ver Mal](https://open.spotify.com/track/1ojC0FuZuXDvV3FZd8nL4d) | [Dbraz](https://open.spotify.com/artist/4GtbhrPCLhHRVvpMrxClZl), [Simba.](https://open.spotify.com/artist/0mYtvNRxZxXxPTkl0A1W4v) | [Tou a Ver Mal](https://open.spotify.com/album/2XelCnw5bxJC2ivMbYzuaQ) | 2:34 | 2024-08-22 | 2025-10-24 |
 | [Tou Off](https://open.spotify.com/track/0FB7uPeeVlMJllljKRXAbP) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm) | [Tou Off](https://open.spotify.com/album/1UQdAkoiFLFlNPKpk7WREn) | 2:44 | 2025-06-12 | 2025-09-26 |
+| [Track 4](https://open.spotify.com/track/6gJF4kTu4cQDklJMnd0ZkQ) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-21 |  |
 | [Tradução](https://open.spotify.com/track/0rPbTXcpkUXbP1jqz0oEqG) | [Nayr Faquirá](https://open.spotify.com/artist/04UMTpKorelINdwYKsM9Tb), [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN) | [Entrelinhas](https://open.spotify.com/album/4qzAJABWAoSIy6LoAebV1u) | 2:58 | 2025-05-22 | 2025-06-13 |
 | [TRAJE](https://open.spotify.com/track/1qG4PQKxaInnCww9yu7Tf7) | [Achero](https://open.spotify.com/artist/7L8DLzR5RuMizLVu9Ww0cs), [Zoo](https://open.spotify.com/artist/4pm6alxkPoKq0c334OGbkH) | [Trilogia: O Legado](https://open.spotify.com/album/2pkSKT2bYhqojZdfJxMWD9) | 3:05 | 2023-02-10 | 2023-04-07 |
 | [Trapstar](https://open.spotify.com/track/4cg7kViRwT1TrrQZqGlTpT) | [Dubzy](https://open.spotify.com/artist/66aZNbD282NMzsBneYujhz), [Progvid](https://open.spotify.com/artist/53yPvcTuQToqXFtROPF11W), [Timor YSF](https://open.spotify.com/artist/5iyA3j1yVqGBgaKCeiUIzO) | [Trapstar](https://open.spotify.com/album/0xw87VQKsLJatyGV176jIE) | 3:28 | 2022-07-16 | 2022-08-02 |

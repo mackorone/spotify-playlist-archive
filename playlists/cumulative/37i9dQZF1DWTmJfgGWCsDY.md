@@ -4,7 +4,7 @@
 
 > This is Singeli\. High energy dance music echoing throughout the streets of Tanzania\. Cover: Mavokali
 
-170 songs - 11 hr 16 min
+171 songs - 11 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Hassan \- Remix](https://open.spotify.com/track/03pKKLlGh9Yr5M8HMBPvDO) | [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku), [Chidi Beenz](https://open.spotify.com/artist/4GFb7Q4qF3Jg3lchid0aYJ), [MABANTU](https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8), [Mushizo](https://open.spotify.com/artist/68MieBHZqK94WaEFndijnv) | [Hassan \(Remix\)](https://open.spotify.com/album/7p8n98oF0211qkAvcmrk9F) | 3:51 | 2024-09-12 | 2024-10-04 |
 | [HASSANI](https://open.spotify.com/track/6CQlALBnuYZ91sv1qgefak) | [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku) | [HASSANI](https://open.spotify.com/album/0gJNgqvpEbrfybrkpQyBhW) | 2:33 | 2023-12-15 | 2025-11-14 |
 | [Hatujui](https://open.spotify.com/track/5TRX2T7BNBFINuTOCpb8ZN) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3), [Dulla Makabila](https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u) | [Maturity EP](https://open.spotify.com/album/55GR8hOcCxxiWApDdURREq) | 4:30 | 2022-08-05 |  |
-| [Honey Wangu](https://open.spotify.com/track/3K0L27WGjjeQzJOm4tyhSh) | [Seneta Kilaka](https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8) | [Honey Wangu](https://open.spotify.com/album/3oA5qxRsp7AVPPeYNBczNt) | 3:59 | 2022-08-05 |  |
+| [Honey Wangu](https://open.spotify.com/track/3K0L27WGjjeQzJOm4tyhSh) | [Seneta Kilaka](https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8) | [Honey Wangu](https://open.spotify.com/album/3oA5qxRsp7AVPPeYNBczNt) | 3:59 | 2022-08-05 | 2025-11-21 |
 | [Hujafika](https://open.spotify.com/track/0Cs5QmEaFHNdTn93GUZbz1) | [Swallah Boy](https://open.spotify.com/artist/28zsrbRGqavxYLzkVF03cX) | [Hujafika](https://open.spotify.com/album/7drsSeRr9mpAnM8WH7463n) | 3:35 | 2023-04-07 | 2023-06-02 |
 | [Hujanikomoa](https://open.spotify.com/track/32fa47Dvcz1YyqnCDCsB3Z) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Hujanikomoa](https://open.spotify.com/album/3wG7OVKa5pP6rl103ji9qM) | 5:59 | 2022-08-05 |  |
 | [Hujanizidi \(feat\. D Voice\)](https://open.spotify.com/track/56nm7WvdxbOEToDrfDSS8B) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M), [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm) | [Peace And Money](https://open.spotify.com/album/47pNTi044pGat6ihhj9Vo2) | 4:18 | 2024-12-19 |  |
@@ -140,6 +140,7 @@
 | [Sina](https://open.spotify.com/track/18BfciF0Zk46ZDuCVGj5gv) | [Malkia Karen](https://open.spotify.com/artist/7b06gok59Tl7xADRHWKpnr), [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku) | [Sina](https://open.spotify.com/album/79dZuymOBdhdcLjwkiHa18) | 4:57 | 2022-08-05 | 2024-06-25 |
 | [Sina](https://open.spotify.com/track/3nuVeMmA0MqApgbpDDz58n) | [Malkia Karen](https://open.spotify.com/artist/7b06gok59Tl7xADRHWKpnr), [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku) | [Sina](https://open.spotify.com/album/4Mbf8XSzcpQCck4Qzu2Awu) | 4:58 | 2023-04-07 |  |
 | [Sina Stress](https://open.spotify.com/track/0jpdYcuUxhEi0psxc8db3W) | [Tamimu](https://open.spotify.com/artist/1tjcmVIRIiOUmnE9Yu4L1k) | [Sina Stress](https://open.spotify.com/album/1DyB7VAnucHcgmI7NW0m1L) | 3:49 | 2023-08-24 |  |
+| [Singeli Funk](https://open.spotify.com/track/2haTkqqkP8dtKRXsRQ8Rk4) | [DJ Travella](https://open.spotify.com/artist/0PD7wCo7ybcKXouWDCWgfW) | [Singeli Funk](https://open.spotify.com/album/5stFPTtiCk2KmMHQxtbGYD) | 2:27 | 2025-11-20 |  |
 | [Singeli Jungles](https://open.spotify.com/track/6H3EHuYWvGB0zYNt5HshDy) | [MC Palakata](https://open.spotify.com/artist/6vcyi3nPfWG7KVc5zBFxq7), [Tom Blip](https://open.spotify.com/artist/1xazZO4qWRZ29dlJfeaR6x) | [Singeli Jungles](https://open.spotify.com/album/3FLTSy9L7qepabWJlluH1n) | 4:40 | 2023-01-20 | 2025-08-23 |
 | [Singeli Poli](https://open.spotify.com/track/22MhRI74ng3SmfaEFYT9fG) | [Kadilida](https://open.spotify.com/artist/3IQ6Cq1KB09iPoMzMdWihN) | [Singeli Poli](https://open.spotify.com/album/2mjjwhLh4ttpZRz2yKntwW) | 1:58 | 2022-12-09 | 2024-10-21 |
 | [Singeli Twista](https://open.spotify.com/track/1vnuVFj87g3klSEBWkciXV) | [Sholo Mwamba](https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T), [Ay Masta](https://open.spotify.com/artist/51x9Wi7MSS1v9u89sc63dg) | [Singeli Twista](https://open.spotify.com/album/75V2a1qC8s55PEjXUp8XPb) | 3:24 | 2022-09-08 | 2025-05-15 |

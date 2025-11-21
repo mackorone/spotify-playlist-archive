@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "RRARI DAL TACCO in cover della playlist con il top dello street rap italiano \u26d3\ufe0f",
+  "description": "Skinny, Papa e Nerissima in cover della playlist street italiana \u2744\ufe0f",
   "name": "Street Culto",
   "tracks": [
     {
@@ -3152,7 +3152,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-05",
+      "date_removed": null,
       "duration_ms": 181240,
       "name": "Blocco",
       "url": "https://open.spotify.com/track/53XOl5fbG1dxv8JNB8VkdS"
@@ -3948,7 +3948,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 180500,
       "name": "Caramel",
       "url": "https://open.spotify.com/track/1qd3VDzfheygZf4m7lygoV"
@@ -6703,6 +6703,28 @@
     },
     {
       "album": {
+        "name": "Felicit\u00e0 2",
+        "url": "https://open.spotify.com/album/3AH2rrreD1bv10NB7pSbx9"
+      },
+      "artists": [
+        {
+          "name": "N\u00e9za",
+          "url": "https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO"
+        },
+        {
+          "name": "Nabi",
+          "url": "https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172235,
+      "name": "Felicit\u00e0 2",
+      "url": "https://open.spotify.com/track/0RIUPuefusjS3MWDLvhP8c"
+    },
+    {
+      "album": {
         "name": "Botox",
         "url": "https://open.spotify.com/album/4nhZUFV7XuVY3hfsXB7EMt"
       },
@@ -6928,6 +6950,24 @@
       "duration_ms": 171678,
       "name": "First Day Out",
       "url": "https://open.spotify.com/track/3JXgSnBQCLWjnyx6XAF0R9"
+    },
+    {
+      "album": {
+        "name": "FLOW PAPA",
+        "url": "https://open.spotify.com/album/07ldN1bAhf4u357xasL8wE"
+      },
+      "artists": [
+        {
+          "name": "Flaco G",
+          "url": "https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157090,
+      "name": "FLOW PAPA",
+      "url": "https://open.spotify.com/track/24Oks4dkZ3mftdZhgREIHG"
     },
     {
       "album": {
@@ -9590,7 +9630,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 185684,
       "name": "KILLA KILLA (feat. Gu\u00e8, Faneto & Melons)",
       "url": "https://open.spotify.com/track/38BP0SrMvhIHggZxOCxw9S"
@@ -14426,7 +14466,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 134144,
       "name": "PIANO DI FUGA",
       "url": "https://open.spotify.com/track/0Noij5zsAy0u3gUJGlHmpL"
@@ -14482,7 +14522,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 195312,
       "name": "PICASSO (feat. 3robi)",
       "url": "https://open.spotify.com/track/0Yw612BIZ8o9HEgSZaKkjb"
@@ -16946,7 +16986,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 198750,
       "name": "SIAMO TUTTI CIECHI (feat. Lubi, Promessa)",
       "url": "https://open.spotify.com/track/0nhJiXBKSCgYarkJAiEfL4"
@@ -17130,7 +17170,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 192096,
       "name": "SNTMNG",
       "url": "https://open.spotify.com/track/5t425GlIbSzzgZ6rMM4phJ"
@@ -17549,6 +17589,32 @@
     },
     {
       "album": {
+        "name": "SQUALO 2 (feat. Gu\u00e8 & Nerissima Serpe)",
+        "url": "https://open.spotify.com/album/52ENaEiNMKpXEpR3V8jFkv"
+      },
+      "artists": [
+        {
+          "name": "TY1",
+          "url": "https://open.spotify.com/artist/2DWRgncNMnTfwDiKSI0VoP"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "Nerissima Serpe",
+          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151384,
+      "name": "SQUALO 2 (feat. Gu\u00e8 & Nerissima Serpe)",
+      "url": "https://open.spotify.com/track/5f1QY8JXcVD1zCz0zVXPZO"
+    },
+    {
+      "album": {
         "name": "SSG",
         "url": "https://open.spotify.com/album/4PkQupaDw4uOLZudKE56Wc"
       },
@@ -17946,6 +18012,28 @@
       "duration_ms": 139928,
       "name": "SUITE HOTEL",
       "url": "https://open.spotify.com/track/1NRnu8LjiJM3cHcPYy6rs9"
+    },
+    {
+      "album": {
+        "name": "Supercar",
+        "url": "https://open.spotify.com/album/0NP8M8kOGShVj1YQrvN2sf"
+      },
+      "artists": [
+        {
+          "name": "N\u00e9za",
+          "url": "https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO"
+        },
+        {
+          "name": "FT Kings",
+          "url": "https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124800,
+      "name": "Supercar",
+      "url": "https://open.spotify.com/track/45Z5FthR22V4kAe49KLke1"
     },
     {
       "album": {
@@ -19482,6 +19570,28 @@
       "duration_ms": 174000,
       "name": "UNO, DUE E TRE (feat. Neima Ezza)",
       "url": "https://open.spotify.com/track/15wHsZvGEuT8W2KsEydgFu"
+    },
+    {
+      "album": {
+        "name": "PROGETTO X",
+        "url": "https://open.spotify.com/album/7wnvQLGtbRN9Y4zpCVYxdX"
+      },
+      "artists": [
+        {
+          "name": "LILCR",
+          "url": "https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S"
+        },
+        {
+          "name": "Nabi",
+          "url": "https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196991,
+      "name": "UOMO CATTIVO (feat. Nabi)",
+      "url": "https://open.spotify.com/track/3nv625SWTqVVctz7AtecoY"
     },
     {
       "album": {

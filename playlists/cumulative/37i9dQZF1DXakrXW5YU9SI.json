@@ -962,7 +962,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 164122,
       "name": "Beznami\u0119tnie",
       "url": "https://open.spotify.com/track/5QJfW0S7fUJQUcKOZGtrth"
@@ -1126,7 +1126,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-22",
+      "date_removed": null,
       "duration_ms": 221510,
       "name": "Black Friday",
       "url": "https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN"
@@ -1496,7 +1496,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 190655,
       "name": "B\u0119d\u0119 twoj\u0105 Sylvi\u0105 Plath",
       "url": "https://open.spotify.com/track/0Bfe03aAJYC2avYUkyljxs"
@@ -5234,7 +5234,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 238978,
       "name": "KEEPITUP",
       "url": "https://open.spotify.com/track/0JRvK2JDWcQ6lduFvJgdCv"
@@ -6417,6 +6417,24 @@
     },
     {
       "album": {
+        "name": "Miasto",
+        "url": "https://open.spotify.com/album/6MD6VMlJ1Rd70BdCkbHr5m"
+      },
+      "artists": [
+        {
+          "name": "Daniel Godson",
+          "url": "https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156960,
+      "name": "Miasto",
+      "url": "https://open.spotify.com/track/2knk9eGNdMPy4kgJC3olvv"
+    },
+    {
+      "album": {
         "name": "Mia\u0142 1,9m",
         "url": "https://open.spotify.com/album/56W9qSCH8NiKDw6bBii66p"
       },
@@ -7200,7 +7218,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 152142,
       "name": "NADAL KOCHAM",
       "url": "https://open.spotify.com/track/3wBWvBR502XCbIkfMtACX9"
@@ -7940,7 +7958,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 214026,
       "name": "No One Knows You Better",
       "url": "https://open.spotify.com/track/3fjAa5k59rQdJrncLwipmn"
@@ -8226,7 +8244,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-16",
+      "date_removed": null,
       "duration_ms": 194980,
       "name": "Odpowiedni moment",
       "url": "https://open.spotify.com/track/4WnJ8tdQhBWGDEHKm6y40h"
@@ -8750,7 +8768,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 213256,
       "name": "Perfect Days",
       "url": "https://open.spotify.com/track/0Fm6DxV1BA5rtj13xX0Wtn"
@@ -10090,7 +10108,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 245106,
       "name": "Sexy doll",
       "url": "https://open.spotify.com/track/50jUZjVyBoAZFBGgb5UvdV"
@@ -12282,7 +12300,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-20",
+      "date_removed": null,
       "duration_ms": 137471,
       "name": "Unsteady",
       "url": "https://open.spotify.com/track/4dcB4irrogZQSbvGur1Wuf"
@@ -12522,6 +12540,24 @@
       "duration_ms": 186268,
       "name": "W kwietniu si\u0119 nie umiera",
       "url": "https://open.spotify.com/track/7uOYx1FNQQao9iwYTRxuOn"
+    },
+    {
+      "album": {
+        "name": "W to mi graj",
+        "url": "https://open.spotify.com/album/24fRidH4T3GIwjfFiS6VEc"
+      },
+      "artists": [
+        {
+          "name": "Ania Karwan",
+          "url": "https://open.spotify.com/artist/6EtPFq0WhAq7kzcryE23b4"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189520,
+      "name": "W to mi graj",
+      "url": "https://open.spotify.com/track/3s2tBiOaWfZnd97WEoL7ID"
     },
     {
       "album": {
@@ -13297,6 +13333,24 @@
     },
     {
       "album": {
+        "name": "You got time and I got money",
+        "url": "https://open.spotify.com/album/1GpEABGAAl6jY2Io86FQvn"
+      },
+      "artists": [
+        {
+          "name": "Smerz",
+          "url": "https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271583,
+      "name": "You got time and I got money",
+      "url": "https://open.spotify.com/track/4YDl2Oxc1mVRnZsZAbNzI0"
+    },
+    {
+      "album": {
         "name": "You'll Get There in The End",
         "url": "https://open.spotify.com/album/0YQFRtaYSgwfEb6pSAoY1n"
       },
@@ -13326,7 +13380,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-16",
+      "date_removed": null,
       "duration_ms": 211573,
       "name": "Younger Days",
       "url": "https://open.spotify.com/track/17EVNTLaA1unyp48sahMDz"

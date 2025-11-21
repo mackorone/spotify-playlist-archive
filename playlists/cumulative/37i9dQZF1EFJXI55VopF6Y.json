@@ -467,6 +467,24 @@
     },
     {
       "album": {
+        "name": "Float",
+        "url": "https://open.spotify.com/album/77tBOZdYCkiAF699JS8mk7"
+      },
+      "artists": [
+        {
+          "name": "Lily Moore",
+          "url": "https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118571,
+      "name": "Float",
+      "url": "https://open.spotify.com/track/5GsqueLF0J7tOZgD9uvF0O"
+    },
+    {
+      "album": {
         "name": "Many Moons, Many Suns",
         "url": "https://open.spotify.com/album/6y9GtAWTtSJPGBsa9LDSa7"
       },

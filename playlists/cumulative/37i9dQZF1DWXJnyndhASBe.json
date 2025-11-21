@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Kizo",
+  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: schafter",
   "name": "RAP GENERACJA",
   "tracks": [
     {
@@ -64,7 +64,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 181714,
       "name": "100 W SERII",
       "url": "https://open.spotify.com/track/4Tjp3ya8DVVCTU4gg1Prbm"
@@ -816,7 +816,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 199024,
       "name": "A mo\u017ce nie?",
       "url": "https://open.spotify.com/track/4sR2vU1dnhA8nAtdLWev6E"
@@ -1551,6 +1551,28 @@
     },
     {
       "album": {
+        "name": "BANDO",
+        "url": "https://open.spotify.com/album/7cP6cEmRypLihrf127tHwM"
+      },
+      "artists": [
+        {
+          "name": "Sentino",
+          "url": "https://open.spotify.com/artist/6DAQjwwMGZ9QgqHhIkU7H0"
+        },
+        {
+          "name": "Beathoven",
+          "url": "https://open.spotify.com/artist/0U8Id4RTrZggMdn3v6sz3k"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151578,
+      "name": "BANDO",
+      "url": "https://open.spotify.com/track/0pX96KpL3B6rWpe13AuWza"
+    },
+    {
+      "album": {
         "name": "Bandycka Jazda",
         "url": "https://open.spotify.com/album/1EA1yy7n2yx63b42YBw7ry"
       },
@@ -1922,7 +1944,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 92342,
       "name": "Bieg",
       "url": "https://open.spotify.com/track/3vfJqM3HgkJp1LObfg9jww"
@@ -2618,7 +2640,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 161860,
       "name": "Cancel",
       "url": "https://open.spotify.com/track/0bu8OgIeVkQoRaj6N4PfAC"
@@ -2924,7 +2946,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 141386,
       "name": "CERTYFIKAT",
       "url": "https://open.spotify.com/track/4wqzjszg4AWKQoeY7swyci"
@@ -4506,7 +4528,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 115200,
       "name": "Dolce Gabbana",
       "url": "https://open.spotify.com/track/5eaSr5u6RWoNEQngEtKo1W"
@@ -7126,7 +7148,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 161363,
       "name": "Illegal",
       "url": "https://open.spotify.com/track/2izhy3JtVkUphwjqtOZ57g"
@@ -10110,7 +10132,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 149955,
       "name": "Miasta portowe",
       "url": "https://open.spotify.com/track/7MoQ3DHmiGGmn59YK9U8FY"
@@ -10634,7 +10656,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 206500,
       "name": "moment",
       "url": "https://open.spotify.com/track/49u38L99ThT3VZz7Gg2D8f"
@@ -11045,6 +11067,28 @@
     },
     {
       "album": {
+        "name": "NA BLOK",
+        "url": "https://open.spotify.com/album/79HyMHo2tXJlaoJITzV5Ca"
+      },
+      "artists": [
+        {
+          "name": "Bungee",
+          "url": "https://open.spotify.com/artist/5zGqNbkY4vQhWk57uUDbEZ"
+        },
+        {
+          "name": "Kizo",
+          "url": "https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172444,
+      "name": "NA BLOK",
+      "url": "https://open.spotify.com/track/0dIrL5Jo7940G64ZwXFuP7"
+    },
+    {
+      "album": {
         "name": "na bomb\u0119",
         "url": "https://open.spotify.com/album/2IgQ47b8DZ9gNemDk1ON7o"
       },
@@ -11364,6 +11408,24 @@
       "duration_ms": 183346,
       "name": "Nametag",
       "url": "https://open.spotify.com/track/1Z7cVYHnRJKHxQJFE9MP4y"
+    },
+    {
+      "album": {
+        "name": "palimpsest",
+        "url": "https://open.spotify.com/album/3KebkBr0ikQ7JaNVnGGvr7"
+      },
+      "artists": [
+        {
+          "name": "schafter",
+          "url": "https://open.spotify.com/artist/2aDaFARm4U9hf5DI9Fhbnh"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123387,
+      "name": "naoko\u0142o",
+      "url": "https://open.spotify.com/track/1NY2WH4RQPZBti770Xv1tq"
     },
     {
       "album": {
@@ -12076,6 +12138,24 @@
       "duration_ms": 166989,
       "name": "Nie ma mnie",
       "url": "https://open.spotify.com/track/3Jj06vvPhibFWD6n0AotCJ"
+    },
+    {
+      "album": {
+        "name": "Nie marud\u017a",
+        "url": "https://open.spotify.com/album/6UXO2gM8ZfTXnEfPzXNmsO"
+      },
+      "artists": [
+        {
+          "name": "r\u00f3w babicze",
+          "url": "https://open.spotify.com/artist/7G7Cn1swPVhPV4V3PNNXP1"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160695,
+      "name": "Nie marud\u017a",
+      "url": "https://open.spotify.com/track/4NeRcdd2oOSveUK9UubvHT"
     },
     {
       "album": {
@@ -16365,6 +16445,24 @@
     },
     {
       "album": {
+        "name": "sorry, taki jestem ;(",
+        "url": "https://open.spotify.com/album/6H91ZyIUAQkmixMEH1whIk"
+      },
+      "artists": [
+        {
+          "name": "Mata",
+          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193333,
+      "name": "sorry, taki jestem ;(",
+      "url": "https://open.spotify.com/track/0iniXJEaWBqq1iA6OTlTvx"
+    },
+    {
+      "album": {
         "name": "SOSA",
         "url": "https://open.spotify.com/album/2Ja8P6lNVI1XgGMH8diUg8"
       },
@@ -17445,6 +17543,32 @@
     },
     {
       "album": {
+        "name": "TRUCIZNA",
+        "url": "https://open.spotify.com/album/1Vm8hgdwRMqfvNhaVZUqYb"
+      },
+      "artists": [
+        {
+          "name": "Kosior",
+          "url": "https://open.spotify.com/artist/4kIRYVMcgUBEBaqdA0nLWX"
+        },
+        {
+          "name": "vkie",
+          "url": "https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v"
+        },
+        {
+          "name": "White Widow",
+          "url": "https://open.spotify.com/artist/1KyVviwmYP83FyOApt86K0"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219773,
+      "name": "TRUCIZNA",
+      "url": "https://open.spotify.com/track/05ygDlR4ojoF0YKJDKIhBR"
+    },
+    {
+      "album": {
         "name": "TRUSKULOWY 2",
         "url": "https://open.spotify.com/album/2Frc9s02fdUWl6c7tHJIXq"
       },
@@ -18307,6 +18431,40 @@
     },
     {
       "album": {
+        "name": "WASTELAND",
+        "url": "https://open.spotify.com/album/11s6yR4YUyMPhYlLGQKyhR"
+      },
+      "artists": [
+        {
+          "name": "Waima",
+          "url": "https://open.spotify.com/artist/1gfxO9EsNea8tyDzrHexdp"
+        },
+        {
+          "name": "MITRO",
+          "url": "https://open.spotify.com/artist/27SKZ61mbYuGhc55fFEEAr"
+        },
+        {
+          "name": "matiorzel",
+          "url": "https://open.spotify.com/artist/7k77M3ebwl8FbsAWbquOMN"
+        },
+        {
+          "name": "Aris & Edi",
+          "url": "https://open.spotify.com/artist/0FdLRLoI0r4yqlUPzKufFo"
+        },
+        {
+          "name": "Def Jam World Tour",
+          "url": "https://open.spotify.com/artist/1PFMCqDezh9wVkmmWZlv16"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210987,
+      "name": "WASTELAND",
+      "url": "https://open.spotify.com/track/5DKtQW7KuRucmv2eN5DY7B"
+    },
+    {
+      "album": {
         "name": "Wbrew sobie",
         "url": "https://open.spotify.com/album/1uDDyNt7oZ2VeALCSBWyz1"
       },
@@ -18434,6 +18592,28 @@
       "duration_ms": 148124,
       "name": "Widok",
       "url": "https://open.spotify.com/track/0ZlcedOAmS5KS6mGdPpFxK"
+    },
+    {
+      "album": {
+        "name": "WIDZIA\u0141AM JU\u017b WSZYSTKO",
+        "url": "https://open.spotify.com/album/3QoWaIRGAKUa5L3eIzAQP7"
+      },
+      "artists": [
+        {
+          "name": "bambi",
+          "url": "https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk"
+        },
+        {
+          "name": "francis",
+          "url": "https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170958,
+      "name": "WIDZIA\u0141AM JU\u017b WSZYSTKO",
+      "url": "https://open.spotify.com/track/1UBZRfCnZZfggUooQCJ0Wn"
     },
     {
       "album": {
@@ -19832,6 +20012,32 @@
       "duration_ms": 168000,
       "name": "\u017byj\u0119 jak chc\u0119",
       "url": "https://open.spotify.com/track/1NZJSGozxKLaR0QZQjMXlX"
+    },
+    {
+      "album": {
+        "name": "\u017bYRAFA",
+        "url": "https://open.spotify.com/album/2MfDJ8O2N7gvvS5i1Ing4b"
+      },
+      "artists": [
+        {
+          "name": "vkie",
+          "url": "https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v"
+        },
+        {
+          "name": "Bruno",
+          "url": "https://open.spotify.com/artist/6gqxmw3SfTsjaEMVHbwwUo"
+        },
+        {
+          "name": "a1rocky",
+          "url": "https://open.spotify.com/artist/0kIJFyQ1ZjGvhx8kOrfk61"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "\u017bYRAFA",
+      "url": "https://open.spotify.com/track/1VrsQYv5V3C6YQJtLilO1k"
     },
     {
       "album": {

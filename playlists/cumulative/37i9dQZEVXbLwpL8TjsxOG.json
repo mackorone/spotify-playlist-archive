@@ -18042,7 +18042,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-20",
+      "date_removed": null,
       "duration_ms": 263133,
       "name": "\u4e16\u4e00",
       "url": "https://open.spotify.com/track/3IxGmKdOkv7tgMCzyKF2Xm"
@@ -19262,7 +19262,7 @@
       ],
       "date_added": "2021-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 228819,
       "name": "\u53cd\u5c0d\u7121\u6548",
       "url": "https://open.spotify.com/track/2P5Eeh29qJrYa1T27cdL3B"
@@ -19644,7 +19644,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 193747,
       "name": "\u570b\u969b\u5b64\u7368\u7b49\u7d1a",
       "url": "https://open.spotify.com/track/5KpWHEh32vzxkttIK3KHKI"
@@ -21564,6 +21564,24 @@
       "duration_ms": 254008,
       "name": "\u6642\u5149\u5012\u6d41\u4e00\u53e5\u8a71",
       "url": "https://open.spotify.com/track/1V7V9ekndGc7vqE3hVUKmA"
+    },
+    {
+      "album": {
+        "name": "The First Album Of Siu Fay",
+        "url": "https://open.spotify.com/album/7cAwLcZDpXEdZX5iknYZsw"
+      },
+      "artists": [
+        {
+          "name": "Terence Siufay",
+          "url": "https://open.spotify.com/artist/3AemIC066y8n3TetXWkVoE"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208004,
+      "name": "\u6642\u5149\u6a5f",
+      "url": "https://open.spotify.com/track/53lFtfrl5Of2Hkr5eiNscQ"
     },
     {
       "album": {

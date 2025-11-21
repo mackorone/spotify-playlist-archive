@@ -2929,6 +2929,24 @@
     },
     {
       "album": {
+        "name": "Kaybettim \u0130stanbul'u",
+        "url": "https://open.spotify.com/album/7yisGYCmJcbUoUvK7bOTuY"
+      },
+      "artists": [
+        {
+          "name": "Do\u011fa",
+          "url": "https://open.spotify.com/artist/3GsGRGDFFTzDbigXSVbqne"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172307,
+      "name": "Kaybettim \u0130stanbul'u",
+      "url": "https://open.spotify.com/track/2PeIc4LyziFYyD0MMNd2dt"
+    },
+    {
+      "album": {
         "name": "Kaza S\u00fcs\u00fc",
         "url": "https://open.spotify.com/album/0mzMHqOcJ0jKwZxt6Cr284"
       },
@@ -5368,7 +5386,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 183900,
       "name": "yine bana kal",
       "url": "https://open.spotify.com/track/5XXXU9Nx21Klm3vZwyC9V2"

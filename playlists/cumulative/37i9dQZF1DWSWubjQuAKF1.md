@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Wiktoria Kida
 
-654 songs - 1 day 7 hr 59 min
+655 songs - 1 day 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [Ciarki](https://open.spotify.com/track/1wxdw5LIrYTJiURdxfwlfk) | [dezydery](https://open.spotify.com/artist/0fdWtNx0iazarVEaQ30VEE) | [Ciarki](https://open.spotify.com/album/4a3miPuMVYQHWvjev8qMHy) | 3:52 | 2025-07-03 | 2025-11-05 |
 | [ciut za bardzo](https://open.spotify.com/track/1cfhGqNhInqt31NyvuF4vB) | [Kacper Garncarz](https://open.spotify.com/artist/0mU3KNJmSgtwHH6D6UHs2V) | [ciut za bardzo](https://open.spotify.com/album/3GGGhT2VKHSNSwYJhpK1bG) | 2:27 | 2025-04-24 | 2025-06-06 |
 | [Clean girl era](https://open.spotify.com/track/2IXBRcjntKv4h9TNYwun2B) | [Klaudia](https://open.spotify.com/artist/3dWkm8gaXw4aS2fKk36z2o) | [Clean girl era](https://open.spotify.com/album/1Yn1UeZ9gBYllO6S1mzfdE) | 2:37 | 2024-07-18 | 2024-10-19 |
-| [co to? Miłość](https://open.spotify.com/track/6ujrbBFwVsI8op1IncntBV) | [Amelia And](https://open.spotify.com/artist/58wKaNZ5iuXaeelRtHzEsk) | [polecie](https://open.spotify.com/album/7b7qFH044TgbZhOhpcQc8f) | 2:49 | 2025-10-07 |  |
+| [co to? Miłość](https://open.spotify.com/track/6ujrbBFwVsI8op1IncntBV) | [Amelia And](https://open.spotify.com/artist/58wKaNZ5iuXaeelRtHzEsk) | [polecie](https://open.spotify.com/album/7b7qFH044TgbZhOhpcQc8f) | 2:49 | 2025-10-07 | 2025-11-21 |
 | [co ty na to?](https://open.spotify.com/track/2IC10VSx7soc9pPdEpmZ6A) | [wiśniosz](https://open.spotify.com/artist/4UcIjZwZDS7epHIoNUtwzu), [Felivers](https://open.spotify.com/artist/0jEJGHxA3gkLdjviT1H0wk) | [co ty na to?](https://open.spotify.com/album/646vsWAg8YLIZXHZJOZgvC) | 2:31 | 2025-05-01 | 2025-08-27 |
 | [Co za stan](https://open.spotify.com/track/4Rw7LmqHPFjqTpWe0tYcbC) | [Zuta](https://open.spotify.com/artist/4WsiLOvvpCEdV40Wg1kzui), [BRASSERS](https://open.spotify.com/artist/41T7tKisVyiDzTTCxGEkBh) | [Co za stan](https://open.spotify.com/album/3ayFRKD6twKbbap9qUmGkm) | 2:39 | 2025-07-31 | 2025-09-24 |
 | [Co, jeśli?](https://open.spotify.com/track/0plgXTtOu4RJDf4nwzVPqr) | [Carla Fernandes](https://open.spotify.com/artist/2PowY1osU1K9Qa8d1fn0PF) | [Co, jeśli?](https://open.spotify.com/album/6eIoeAsyTUWzb7QGsN0yEU) | 2:33 | 2025-03-20 | 2025-06-06 |
@@ -488,6 +488,7 @@
 | [sama ze sobą!](https://open.spotify.com/track/2ZFBhH8U98Y9T0YJoH81TQ) | [Dominika Płonka](https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8) | [sama ze sobą!](https://open.spotify.com/album/4hXKWDP9q7APH8diHyfGiR) | 1:57 | 2025-10-07 |  |
 | [Sangria](https://open.spotify.com/track/2eOZVNpzl3BxAlUduZfUPu) | [MILI JACK](https://open.spotify.com/artist/545f9s9IidY421Nw3QtyhO) | [Sangria](https://open.spotify.com/album/6Ad8k07iiHmD9wbuNfAM03) | 2:40 | 2024-06-28 | 2024-10-05 |
 | [Sansewierie](https://open.spotify.com/track/5CWSpK1cmWWEgYod64Wlrf) | [Oliwia Twardosz](https://open.spotify.com/artist/1UqrpPxGWQc9QXRqElmBCF) | [Sansewierie](https://open.spotify.com/album/3lA9ppkbEyLkGhMYjdGSQF) | 3:24 | 2024-08-30 | 2025-01-24 |
+| [Satelita](https://open.spotify.com/track/2hM6x0FnAA0lLONNf4JmQA) | [nago](https://open.spotify.com/artist/1SffW2FKbStzVnMBdBwSy6) | [To nie było ciepłe lato :\(](https://open.spotify.com/album/6gOXOvZJlD7AzXne8Rbb7y) | 3:01 | 2025-11-18 |  |
 | [Sauvage](https://open.spotify.com/track/7BW8g0m4b1KN7iecTNBuJX) | [Marcin Maciejczak](https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2) | [Sauvage](https://open.spotify.com/album/1PAAUFg41yRgsmgfqrJS2B) | 2:26 | 2025-11-04 | 2025-11-12 |
 | [Seans](https://open.spotify.com/track/3jKOZJ66h9OtMMK9peLtbT) | [maks.tachasiuk](https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz) | [Seans](https://open.spotify.com/album/2Fe1SexwAJoAjF5hVDcHir) | 3:39 | 2025-07-31 | 2025-09-24 |
 | [Seasons](https://open.spotify.com/track/3Q1mdCdHFW90vVlYW9a4v0) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Seasons](https://open.spotify.com/album/4pCwB9EfmPkql5jbrWkyT0) | 2:45 | 2025-09-30 |  |

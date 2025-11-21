@@ -4,7 +4,7 @@
 
 > El ritmo cumbiero que te mueve el corazón\. <br/>Foto: Leo Mattioli.
 
-237 songs - 14 hr 3 min
+238 songs - 14 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Corazon Mentiroso](https://open.spotify.com/track/2ZkWTFZ9rQCl6ccNAOO79L) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Sin Vergüenza](https://open.spotify.com/album/2WuEroV8xhS8VXN8xjArIT) | 2:59 | 2022-07-15 | 2023-08-31 |
 | [Cosas del amor](https://open.spotify.com/track/4Gd1XTVJtxzGdrr87WY2h8) | [Mario Luis con los Angeles Colombianos](https://open.spotify.com/artist/7tB6buXGRGgBaZftFGMCMy) | [20 años de cumbia \- Los mejores exitos de 1990 \- 2010](https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU) | 3:40 | 2022-04-15 |  |
 | [Culpable](https://open.spotify.com/track/2jOBay9vG5Za3c4fgTd70V) | [La San Francisco](https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr) | [Ustedes Lo Hicieron Posible, Gracias!](https://open.spotify.com/album/4N1yJatkYhl9ErFagjQZp9) | 4:09 | 2022-06-03 | 2022-07-18 |
+| [Culpable o No](https://open.spotify.com/track/0Rhk4sjBOHXpkQuxMOFwic) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Culpable o No](https://open.spotify.com/album/7zd7EMzDmnT1vwxCzIjAKj) | 3:05 | 2025-11-21 |  |
 | [CUMBIA, CUMBIA, CUMBIA](https://open.spotify.com/track/3suelWfLweuFrb1Fbgsg94) | [Los Lirios De Santa Fe](https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7) | [CUMBIA, CUMBIA, CUMBIA](https://open.spotify.com/album/6xfbKv5OeSyeGxh12mGkHb) | 2:51 | 2023-01-13 | 2024-11-15 |
 | [Cómo Pude Amarla](https://open.spotify.com/track/0Le0iRaJHumW9uSHpbDJrW) | [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Solo \(Amistad..\. o Nada!!!\)](https://open.spotify.com/album/5tkOEPqwtHCsxfm6VnD7gv) | 3:25 | 2022-07-15 | 2024-04-19 |
 | [Cómo Pude Amarla](https://open.spotify.com/track/5Sc4aKJpElEE4s8573uBgz) | [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Solo](https://open.spotify.com/album/3KHwSLop7v3T5egeuXjL9n) | 3:25 | 2022-04-15 | 2022-07-29 |
@@ -122,8 +123,8 @@
 | [Leña Seca](https://open.spotify.com/track/5BeRAL4Ie2RqXVMtmeefAT) | [Los Del Palmar](https://open.spotify.com/artist/19M8Gfe7Ydw6b8293gtlt7) | [Leña Seca](https://open.spotify.com/album/7AKnanLpI3XjpYxsoJ4eql) | 3:10 | 2022-06-10 | 2022-07-26 |
 | [Llorarás Más De Diez Veces](https://open.spotify.com/track/2IuLxgL5dd02AeF5FSygjQ) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Aún Sigue La Lección](https://open.spotify.com/album/7yGG6SN679bWm8Op7Baf1D) | 3:31 | 2022-04-15 | 2023-03-13 |
 | [Llorarás Más de Diez Veces](https://open.spotify.com/track/46kxzCwAMxrneUFJJT1njt) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA), [Carolina Antiman](https://open.spotify.com/artist/290gGqoqPQYcOCD3mvL76T) | [Aún Sigue La Lección](https://open.spotify.com/album/1DJVooNQQTQFyPMJIMQxtG) | 3:31 | 2023-03-03 | 2024-04-19 |
-| [Lo Que Son las Cosas](https://open.spotify.com/track/3vvsr13YGLxwTE4wEDSWfq) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ), [La San Francisco](https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr) | [Lo Que Son las Cosas](https://open.spotify.com/album/4QR6fnZkBbstmtTr8q7erK) | 3:55 | 2022-04-15 |  |
-| [Lo Sabía](https://open.spotify.com/track/7fNgtXTzCpUOcxwTVes1Z4) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Lo Sabía](https://open.spotify.com/album/6pacvUiT5v0mVgMkIfBQgA) | 3:52 | 2024-11-01 |  |
+| [Lo Que Son las Cosas](https://open.spotify.com/track/3vvsr13YGLxwTE4wEDSWfq) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ), [La San Francisco](https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr) | [Lo Que Son las Cosas](https://open.spotify.com/album/4QR6fnZkBbstmtTr8q7erK) | 3:55 | 2022-04-15 | 2025-11-21 |
+| [Lo Sabía](https://open.spotify.com/track/7fNgtXTzCpUOcxwTVes1Z4) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Lo Sabía](https://open.spotify.com/album/6pacvUiT5v0mVgMkIfBQgA) | 3:52 | 2024-11-01 | 2025-11-21 |
 | [Loco](https://open.spotify.com/track/10hOkCrRZSRgNfLx8Sq6mq) | [La Contra](https://open.spotify.com/artist/2N4oh0cKq5FwoO94p4DTVK), [Ezequiel El Brujo](https://open.spotify.com/artist/325zdFw59lq0YHEmd5rWtk) | [Loco](https://open.spotify.com/album/6CpKfMx1MbS02zfKdyXe5P) | 3:42 | 2022-04-15 | 2022-07-29 |
 | [Loco](https://open.spotify.com/track/1PsM5kAMF5E7EgLfeY3xdA) | [La Contra](https://open.spotify.com/artist/2N4oh0cKq5FwoO94p4DTVK), [Ezequiel El Brujo](https://open.spotify.com/artist/325zdFw59lq0YHEmd5rWtk) | [Loco](https://open.spotify.com/album/5k4mZBSWVZ1984ZwDULZ2L) | 3:42 | 2022-07-15 | 2024-04-19 |
 | [Los Amigos Que Yo Tengo](https://open.spotify.com/track/09bn42Fj5RN9J9Z63f1S7A) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Los Amigos Que Yo Tengo](https://open.spotify.com/album/63q9qE8lgsdMWdjucU23SO) | 2:57 | 2022-04-15 | 2022-07-29 |
@@ -160,7 +161,7 @@
 | [Olvida Tus Penas](https://open.spotify.com/track/7KkXWc0zcmCy92YoeVW0dp) | [Grupo Alegria de Santa Fe](https://open.spotify.com/artist/0uITrMC16Eg9bbPu0PNfzk) | [Olvida Tus Penas](https://open.spotify.com/album/323fnUvQnG6FT26KcRTfMS) | 2:38 | 2022-10-22 | 2022-12-25 |
 | [Olvídala](https://open.spotify.com/track/0cXGtTRfQKSHojilCoBAOd) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Voló La Paloma/Un Toque Diferente](https://open.spotify.com/album/04lLSTAYIBNjlJ0L6JJnDK) | 4:50 | 2022-04-15 | 2023-03-12 |
 | [Olvídala](https://open.spotify.com/track/19oggfRyJpBt68pSKbFofW) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG), [Onda Sabanera](https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P) | [Voló la Paloma](https://open.spotify.com/album/3CVPHYjfA1obSJsehR7C03) | 4:50 | 2023-03-03 | 2024-04-19 |
-| [Otra Como Tu](https://open.spotify.com/track/1LlYzxmXryWRhsysqp47gs) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Otra Como Tu](https://open.spotify.com/album/34ueWBDKQLBpK13ocfEZVX) | 3:40 | 2022-04-15 | 2025-11-11 |
+| [Otra Como Tu](https://open.spotify.com/track/1LlYzxmXryWRhsysqp47gs) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Otra Como Tu](https://open.spotify.com/album/34ueWBDKQLBpK13ocfEZVX) | 3:40 | 2022-04-15 |  |
 | [Otra Noche](https://open.spotify.com/track/5eZWyVkvdMAJjzu6YrPvYw) | [Diana Rios](https://open.spotify.com/artist/6V7Cx9UlMce4CLLoZ5Sndi), [Los Lirios De Santa Fe](https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7) | [Otra Noche](https://open.spotify.com/album/3VAs3vXhocwoGQqZ5doGrI) | 3:09 | 2022-06-17 | 2022-07-10 |
 | [Otro Día Más Sin Verte](https://open.spotify.com/track/4gZ7QF4fqPd5yau5jAqaod) | [La Contra](https://open.spotify.com/artist/2N4oh0cKq5FwoO94p4DTVK) | [Otro Día Más Sin Verte](https://open.spotify.com/album/3kZcFcNcTXvlTIvV4GPmxG) | 4:05 | 2022-04-15 | 2022-07-29 |
 | [Otro Día Más Sin Verte](https://open.spotify.com/track/74RN9vr5Wx3R6d3vkSZ3vH) | [La Contra](https://open.spotify.com/artist/2N4oh0cKq5FwoO94p4DTVK) | [Hay Contra para Rato](https://open.spotify.com/album/23XhXhLqM7fyEbPZWUaEzf) | 4:05 | 2022-07-15 | 2024-04-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BVquKzFnCW.md) - [plain]
 
 > Set the perfect brunch mood with instrumental and vocal Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,277 likes - 100 songs - 9 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,301 likes - 100 songs - 9 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BVquKzFnCW.md) - [plain]
 | 90 | [Wanderlust](https://open.spotify.com/track/55se4FQGLvhYMOeNxdElaS) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [Duke Ellington Meets Coleman Hawkins](https://open.spotify.com/album/0Kggi4r3OcApji9xJI3olG) | 5:00 |
 | 91 | [Mack The Knife](https://open.spotify.com/track/4tJb85eDxIIm2frcwb8PAG) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A), [Clark Terry](https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU) | [Oscar Peterson Trio Plus One](https://open.spotify.com/album/7DOxP9bCymrwtsE3sXZ2rp) | 5:15 |
 | 92 | [Freedom Jazz Dance](https://open.spotify.com/track/2Y3LodqaNIgE1MwTaX7C6o) | [Juraj Stanik Trio](https://open.spotify.com/artist/6Jp6aGQeBuerxiL0Mq7wra) | [The Deep](https://open.spotify.com/album/4QzD6FhbxRYxBLrIgixMN7) | 3:37 |
-| 93 | [Pick up Sticks](https://open.spotify.com/track/0XugQpP1aeQwpdGKHpjcci) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Time Out](https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA) | 4:16 |
+| 93 | [Pick up Sticks](https://open.spotify.com/track/0XugQpP1aeQwpdGKHpjcci) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Time Out](https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA) | 4:19 |
 | 94 | [Exactly Like You](https://open.spotify.com/track/4gogxeItIt50DZFZrzCqqt) | [Ray Brown Trio](https://open.spotify.com/artist/3kcjzDWaSVR3VqgEIBZIdo), [Gene Harris](https://open.spotify.com/artist/7HZokAjDop6Gjgtghfr8lp), [Phil Edwards](https://open.spotify.com/artist/1L6YiOqUa0q8GJmgF8xqUd) | [Soular Energy](https://open.spotify.com/album/35X3ykw0Ysj1Epv9Vx8uo8) | 5:45 |
 | 95 | [The Man I Love](https://open.spotify.com/track/0fCWTFBws40z2z61wz38H1) | [Fred Hersch Trio](https://open.spotify.com/artist/6iBvBotxtLvyFZoUPytqgP) | [Heartsongs](https://open.spotify.com/album/1eJhAsuavF6CLIN9tgCzhx) | 8:34 |
 | 96 | [Swingin' Up in Harlem](https://open.spotify.com/track/5ZPCpDTF6halDSGGqgRjwz) | [Lafayette Harris, Jr.](https://open.spotify.com/artist/53clI7NaUHryu3JxQ593PT) | [Swingin' Up in Harlem](https://open.spotify.com/album/52vWY315ZeBbHibmF0Y0Rl) | 3:52 |

@@ -2,9 +2,9 @@
 
 ### [RADAR SG & MY](https://open.spotify.com/playlist/37i9dQZF1DX8tjzQw0If3c)
 
-> Listen to the future\. Cover: lovlaine
+> Listen to the future\. Cover: Fahimi
 
-245 songs - 13 hr 25 min
+249 songs - 13 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [JULIO](https://open.spotify.com/track/0KZlRMVy9lMWxEyHjthiXr) | [NAKI](https://open.spotify.com/artist/70aQ7JTOrmv7jj6rhlzTrb) | [JULIO](https://open.spotify.com/album/1bfEWDEUOdS0hAuGHGm7MZ) | 1:52 | 2025-04-15 |  |
 | [Kaleidoscope](https://open.spotify.com/track/43umglJJM00CgFIOWBdxwU) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [Kaleidoscope](https://open.spotify.com/album/0XcxAm4mYasJbBHzNO19Mj) | 3:27 | 2024-06-27 | 2025-04-16 |
 | [Kembali Beraksi](https://open.spotify.com/track/6xQTKwONIIxVeVkeI9RmUg) | [Firdaus Rahmat](https://open.spotify.com/artist/1DuEl1a7U6Um8hYvNW1OiY) | [Kembali Beraksi](https://open.spotify.com/album/3R5CJTjkIdD5vXVLq8behk) | 3:24 | 2025-04-15 | 2025-09-09 |
+| [Kenangan Lama](https://open.spotify.com/track/00XJNXUSrnbf3RGekd5D7G) | [Fahimi](https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd) | [Cari Cinta](https://open.spotify.com/album/6m1lPXy9LW1MF9K9RGVKWY) | 2:29 | 2025-11-20 |  |
 | [KOPI](https://open.spotify.com/track/2EWtkQdW9o8PtIbw0OqNMw) | [NAZU](https://open.spotify.com/artist/37MgONBWvDKXtHSnIo59dk), [Fahimi](https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd) | [KOPI](https://open.spotify.com/album/5bqruzmuQMjI8YZXIv589g) | 2:54 | 2025-10-24 |  |
 | [Ku Ingin Tahu](https://open.spotify.com/track/5X2AqXUHVJJDMJDAfwHzJc) | [Adrianna Cinta](https://open.spotify.com/artist/7aGKWIJ44Gs7eQ7cCKVskG) | [Ku Ingin Tahu](https://open.spotify.com/album/6CUysXbpDxvoMhvByozznK) | 3:16 | 2024-06-27 | 2024-12-05 |
 | [Langit Yang Sama](https://open.spotify.com/track/2wBw1ynBnUoozBCmsnects) | [Dalia Farhana](https://open.spotify.com/artist/5yfr8xJi6ZAFs50aNSddtg) | [Fasa](https://open.spotify.com/album/0UI4CCBeKA3Wrj4iymyYUc) | 4:05 | 2025-09-08 | 2025-10-17 |
@@ -213,6 +214,7 @@
 | [sudah sudahlah](https://open.spotify.com/track/19h9j4tn2D4ohewnG2Bxls) | [empty page.](https://open.spotify.com/artist/1vqCRS8w7NNLDAlSk2rrxh) | [sudah sudahlah](https://open.spotify.com/album/3EIk3BdfKl6BCZPpXhsc6n) | 4:21 | 2025-04-15 |  |
 | [SUN MOON](https://open.spotify.com/track/5sOmxPPHICzHN9cd6CbuyV) | [Axel Brizzy](https://open.spotify.com/artist/25WvXcmQl42yfbnOlfM3JB) | [SUN MOON](https://open.spotify.com/album/6P1F1i3kKY039lRdzQBPa4) | 2:27 | 2024-06-27 | 2024-12-05 |
 | [SWITCH](https://open.spotify.com/track/4ZlSLmFui5nI80OMvDOGxr) | [DISTORTED](https://open.spotify.com/artist/0Wv3gsDJdsG8860MkMtZby) | [SWITCH](https://open.spotify.com/album/3LpXennZJYBZlJiWJEhmoC) | 2:11 | 2024-06-27 | 2025-04-16 |
+| [Tak Cukup](https://open.spotify.com/track/4smgiReZGd4ipGRz0F1d7D) | [Fahimi](https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd), [Mal Hamka](https://open.spotify.com/artist/0o50QOOPoOXy3ifSSVQWjc) | [Cari Cinta](https://open.spotify.com/album/6m1lPXy9LW1MF9K9RGVKWY) | 2:54 | 2025-11-20 |  |
 | [Takkan Mengalah \- From "Legenda Puteri Qaseh" Original Soundtrack](https://open.spotify.com/track/3tAYElgGNEf4LoxNdsW6G5) | [Nuha Bahrin](https://open.spotify.com/artist/23t2TA28fx4549a1P0Nl65), [Naufal Azrin](https://open.spotify.com/artist/2VN6ToUICX0UvbJtUVa5Ij) | [Takkan Mengalah \(From "Legenda Puteri Qaseh" Original Soundtrack\)](https://open.spotify.com/album/1fNughGowl1BH0mOKrYfni) | 3:26 | 2024-06-27 | 2024-12-05 |
 | [Tango](https://open.spotify.com/track/2SH2Xx17dRLZWwASFb9bKx) | [Amir Hasan](https://open.spotify.com/artist/2OAmsrxhQIJQRat9EY8PxL), [Rebel Asia](https://open.spotify.com/artist/01APErOuxifTzQrdN8kOYn) | [Tango](https://open.spotify.com/album/5ld61UwRepRdsPfmxeLydx) | 2:45 | 2024-06-27 | 2025-04-16 |
 | [Tap Out!](https://open.spotify.com/track/39ZRrvH3OcU9XBMSC4IgSc) | [J.M3](https://open.spotify.com/artist/1iuvFwzMREPmNlzoX1h8gx) | [Tap Out! \(From "Joy Ride" Official Motion Picture Soundtrack\)](https://open.spotify.com/album/4UkYhNpw9CB2mdrBrYRBLm) | 2:41 | 2024-06-27 | 2024-12-05 |
@@ -240,6 +242,7 @@
 | [WHAT WOULD I DO?](https://open.spotify.com/track/1sFXoIocM3iQQs21Kw6mb7) | [TENGY](https://open.spotify.com/artist/40NI9ZKB9SZhfBD81Yv7pK) | [WHAT WOULD I DO?](https://open.spotify.com/album/7tm9KvtZYiQCi1S7LJtd3y) | 3:23 | 2024-06-27 | 2024-12-05 |
 | [what would it take?](https://open.spotify.com/track/3T9l0r98QH8BPVsqDvCH1f) | [lovlaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx) | [lovlaine](https://open.spotify.com/album/76rmi2rvV6BTLeuRj9HMQY) | 4:10 | 2025-04-15 | 2025-09-09 |
 | [With You \(feat\. Aswad Anuar\)](https://open.spotify.com/track/6ceBB340aX6EUqLZpelyk2) | [Sarah Suhairi](https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh), [Aswad Anuar](https://open.spotify.com/artist/1B1M93wNXmybMqjQCcjgIR) | [With You \(feat\. Aswad Anuar\)](https://open.spotify.com/album/50WMtF6oBYcbja0JawYF2T) | 3:32 | 2024-07-25 | 2025-04-16 |
+| [WTVR U LIKE](https://open.spotify.com/track/5OigaClxxYXyfrvYJyzdIg) | [Fahimi](https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd), [Alfie Zumi](https://open.spotify.com/artist/4SkJ6iSvBXWjEzLEY4BmVV) | [Cari Cinta](https://open.spotify.com/album/6m1lPXy9LW1MF9K9RGVKWY) | 2:48 | 2025-11-20 |  |
 | [XTCY](https://open.spotify.com/track/0pnzM7eCtqfMBDhXV89T35) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [XTCY](https://open.spotify.com/album/1JtxJBcW6bAU3HI8NwfsjE) | 3:23 | 2025-04-24 |  |
 | [Ya Hayati](https://open.spotify.com/track/6JyHqySGJlaDv5RdLMZ9nA) | [Amir Hasan](https://open.spotify.com/artist/2OAmsrxhQIJQRat9EY8PxL) | [Ya Hayati](https://open.spotify.com/album/0ZfkgUy4g9y5E4pekNGyNE) | 3:29 | 2024-06-27 | 2024-12-05 |
 | [YOU](https://open.spotify.com/track/1Y3yYZKCbk9G6CiBxJ3BLT) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z), [TENGY](https://open.spotify.com/artist/40NI9ZKB9SZhfBD81Yv7pK) | [YOU](https://open.spotify.com/album/7rixXHKYaXdEkeS9EIGzAu) | 2:20 | 2024-06-27 | 2024-12-05 |
@@ -250,6 +253,7 @@
 | [YOURS \(TONIGHT\)](https://open.spotify.com/track/15tHdxOUY51MdJkxbA73jX) | [Dominic Chin](https://open.spotify.com/artist/1fQk4DNRfj70qf362wV8GQ) | [YOURS \(TONIGHT\)](https://open.spotify.com/album/7xTtkJm1dgJOOn7jInhU2n) | 3:07 | 2025-07-24 |  |
 | [“唱歌學中文”之千言萬語 \- 國風版](https://open.spotify.com/track/6c8rpXgFVHHjByA6dKsXUz) | [Yokez](https://open.spotify.com/artist/5wtspqsX3OxPu1JTRQTqus) | [“唱歌學中文”之千言萬語 \- 國風版 \(2025年【繞口歌韻挑戰季】挑戰曲\)](https://open.spotify.com/album/29jbKwJcZZSVsBDdigFaGn) | 3:24 | 2025-07-31 |  |
 | [一刹那花火](https://open.spotify.com/track/4wlVJSRfM8aJXbgLEJPPiW) | [Yokez](https://open.spotify.com/artist/5wtspqsX3OxPu1JTRQTqus) | [一刹那花火](https://open.spotify.com/album/7hslljYtbnZlTheevJpUgf) | 3:02 | 2025-04-15 |  |
+| [梦的篮筐 \(新传媒戏剧《力挽狂篮》主题曲\)](https://open.spotify.com/track/7GuInOhpVfe3cQGAJM1nKt) | [Yokez](https://open.spotify.com/artist/5wtspqsX3OxPu1JTRQTqus) | [新传媒戏剧《力挽狂篮》](https://open.spotify.com/album/4tSNukIK4cDOVLdlRqIbcY) | 2:40 | 2025-11-20 |  |
 | [渣男太累](https://open.spotify.com/track/2qHgnAqNXpduoXj1VolQrv) | [Laurence Larson](https://open.spotify.com/artist/4tR0tAbQcn21pbA1DmVndw), [Yokez](https://open.spotify.com/artist/5wtspqsX3OxPu1JTRQTqus) | [渣男太累](https://open.spotify.com/album/1qR6574TLpI236TY0pEEFM) | 3:33 | 2025-04-15 |  |
 | [近距離戀愛](https://open.spotify.com/track/4FgKG4iuhGntHDCFgSncUp) | [Yokez](https://open.spotify.com/artist/5wtspqsX3OxPu1JTRQTqus), [CED](https://open.spotify.com/artist/3M1YtHr7K9yHjawwbJ2DgC) | [近距離戀愛](https://open.spotify.com/album/6jZk2p03akG7v8BFcBgGKM) | 2:47 | 2025-04-15 |  |
 | [魔法](https://open.spotify.com/track/1C5DoIcsnOZ9SLxIWREedM) | [Yokez](https://open.spotify.com/artist/5wtspqsX3OxPu1JTRQTqus) | [魔法](https://open.spotify.com/album/4hKnbjet7BKrgKIinnwx4z) | 3:16 | 2025-04-15 |  |

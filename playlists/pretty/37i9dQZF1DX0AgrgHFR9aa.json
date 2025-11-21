@@ -1,15 +1,111 @@
 {
-  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : Georgio",
-  "num_followers": 172066,
+  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : Frs taga",
+  "num_followers": 172080,
   "original_name": "Lyricistes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABohNTiOibbRatBeg/3w6+QJrq+6",
+  "snapshot_id": "AAAAABiEAMgYvS/4pAmkSXp1lSPjZcYL",
   "tracks": [
     {
-      "added_at": "2025-11-13 23:00:08",
+      "added_at": "2025-11-20 23:00:31",
+      "album": {
+        "name": "L'usine",
+        "url": "https://open.spotify.com/album/3wXVPlj7mpDK2wf8GobWMD"
+      },
+      "artists": [
+        {
+          "name": "Frs taga",
+          "url": "https://open.spotify.com/artist/1SsTQHvVJV2ph5YsqrSLuy"
+        }
+      ],
+      "duration_ms": 212109,
+      "name": "L'usine",
+      "url": "https://open.spotify.com/track/6SxhEpfC7K1A7d48QdXxNj"
+    },
+    {
+      "added_at": "2025-11-20 23:00:31",
+      "album": {
+        "name": "DOM PERIGNON CRYING",
+        "url": "https://open.spotify.com/album/6OnLV2MfyGb0H9SEEa8Slc"
+      },
+      "artists": [
+        {
+          "name": "Josman",
+          "url": "https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR"
+        }
+      ],
+      "duration_ms": 290746,
+      "name": "TENDU",
+      "url": "https://open.spotify.com/track/13KxBLQ8PDF9SFmrdMJSj3"
+    },
+    {
+      "added_at": "2025-11-20 23:00:31",
+      "album": {
+        "name": "Dieu Donne, J\u2019utilise part.1",
+        "url": "https://open.spotify.com/album/2d7lwWCSsSZU62EuuJulKg"
+      },
+      "artists": [
+        {
+          "name": "Dosseh",
+          "url": "https://open.spotify.com/artist/3b5bg1k6N9u31OtzSfK2dP"
+        }
+      ],
+      "duration_ms": 176946,
+      "name": "Ce qui restera",
+      "url": "https://open.spotify.com/track/453CZ5QOvjjiP2C9mMGfEh"
+    },
+    {
+      "added_at": "2025-11-20 23:00:31",
+      "album": {
+        "name": "MALVADO",
+        "url": "https://open.spotify.com/album/4db2UTsDArbTqYlrv7B8cS"
+      },
+      "artists": [
+        {
+          "name": "Lesram",
+          "url": "https://open.spotify.com/artist/0UeKDbiaApyP7qKfcmGN03"
+        }
+      ],
+      "duration_ms": 156108,
+      "name": "ASHITAKA",
+      "url": "https://open.spotify.com/track/6MFRx6dj7FPz2GoGkhocgj"
+    },
+    {
+      "added_at": "2025-11-20 23:00:31",
+      "album": {
+        "name": "Train Mistral",
+        "url": "https://open.spotify.com/album/06d1rMj8tdGai6uuHVb7Hs"
+      },
+      "artists": [
+        {
+          "name": "SCH",
+          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
+        }
+      ],
+      "duration_ms": 197423,
+      "name": "Train Mistral",
+      "url": "https://open.spotify.com/track/0HU5RMcc4JXix5c3BzBSXv"
+    },
+    {
+      "added_at": "2025-11-20 23:00:31",
+      "album": {
+        "name": "Scotch Coquelicot",
+        "url": "https://open.spotify.com/album/3hFBLu4BrOrlc0RLuluatb"
+      },
+      "artists": [
+        {
+          "name": "Cielbleu",
+          "url": "https://open.spotify.com/artist/6kQS6z1b7oIsR1RLxc9jNc"
+        }
+      ],
+      "duration_ms": 187756,
+      "name": "Scotch Coquelicot",
+      "url": "https://open.spotify.com/track/0GIoGrf3be4CZqQ2QRxbTW"
+    },
+    {
+      "added_at": "2025-11-20 23:00:31",
       "album": {
         "name": "Sinc\u00e8rement",
         "url": "https://open.spotify.com/album/54lNAga6eMMmMQgeWhj2Cl"
@@ -29,39 +125,55 @@
       "url": "https://open.spotify.com/track/1OvN5V9Qe7vht8obXZ5CpX"
     },
     {
-      "added_at": "2025-11-13 23:00:08",
+      "added_at": "2025-11-20 23:00:31",
       "album": {
-        "name": "DOM PERIGNON CRYING",
-        "url": "https://open.spotify.com/album/6OnLV2MfyGb0H9SEEa8Slc"
+        "name": "SOLDAT",
+        "url": "https://open.spotify.com/album/6Gj0mMnBLqqiJSU6n3r7Ba"
       },
       "artists": [
         {
-          "name": "Josman",
-          "url": "https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR"
+          "name": "Guerta",
+          "url": "https://open.spotify.com/artist/0dGdyg6LBJhhr9KstG2KTL"
         }
       ],
-      "duration_ms": 290746,
-      "name": "TENDU",
-      "url": "https://open.spotify.com/track/13KxBLQ8PDF9SFmrdMJSj3"
+      "duration_ms": 115613,
+      "name": "SOLDAT",
+      "url": "https://open.spotify.com/track/7aE1A09IXb9jqyx9lsJ00e"
     },
     {
-      "added_at": "2025-11-13 23:00:08",
+      "added_at": "2025-11-20 23:00:31",
       "album": {
-        "name": "Dieu Donne, J\u2019utilise part.1",
-        "url": "https://open.spotify.com/album/2d7lwWCSsSZU62EuuJulKg"
+        "name": "Merci De rien",
+        "url": "https://open.spotify.com/album/08rEIvmalq0SeYbQQbz1og"
       },
       "artists": [
         {
-          "name": "Dosseh",
-          "url": "https://open.spotify.com/artist/3b5bg1k6N9u31OtzSfK2dP"
+          "name": "Antes & Madzes",
+          "url": "https://open.spotify.com/artist/7Admld0N9GuvBOpoDpje6s"
         }
       ],
-      "duration_ms": 176946,
-      "name": "Ce qui restera",
-      "url": "https://open.spotify.com/track/453CZ5QOvjjiP2C9mMGfEh"
+      "duration_ms": 254679,
+      "name": "C'\u00e9tait mieux avant",
+      "url": "https://open.spotify.com/track/7cimkUWFo4kPhN95oxyT2u"
     },
     {
-      "added_at": "2025-11-13 23:00:08",
+      "added_at": "2025-11-20 23:00:31",
+      "album": {
+        "name": "Comme Toi (Part.1)",
+        "url": "https://open.spotify.com/album/4csmIefIWjzd041uVCdeSZ"
+      },
+      "artists": [
+        {
+          "name": "Ivory",
+          "url": "https://open.spotify.com/artist/3RruZ5EIChHVqnHm7VsOCJ"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "Sablier",
+      "url": "https://open.spotify.com/track/1CQaWPdXZp651pCjvcZaf6"
+    },
+    {
+      "added_at": "2025-11-20 23:00:31",
       "album": {
         "name": "RUN Evolution",
         "url": "https://open.spotify.com/album/74FebIYWI8nzxEG0EPAsG4"
@@ -81,7 +193,23 @@
       "url": "https://open.spotify.com/track/0wTi7XDIPqOi0cBv7JGb70"
     },
     {
-      "added_at": "2025-11-13 23:00:08",
+      "added_at": "2025-11-20 23:00:31",
+      "album": {
+        "name": "Legoman",
+        "url": "https://open.spotify.com/album/3iBdFcZs0OBoJZKheVFzIJ"
+      },
+      "artists": [
+        {
+          "name": "LUPI'O",
+          "url": "https://open.spotify.com/artist/43ACorf2gFD4DGnmCPmzG2"
+        }
+      ],
+      "duration_ms": 169791,
+      "name": "Legoman",
+      "url": "https://open.spotify.com/track/2yHGZiK6GhGUTJH8iTtetY"
+    },
+    {
+      "added_at": "2025-11-20 23:00:31",
       "album": {
         "name": "H22",
         "url": "https://open.spotify.com/album/4lhZAdvSHziOksFAacslXx"
@@ -97,135 +225,27 @@
       "url": "https://open.spotify.com/track/2ARNUVQzaTpKQkktRFcX7g"
     },
     {
-      "added_at": "2025-11-13 23:00:08",
+      "added_at": "2025-11-20 23:00:31",
       "album": {
-        "name": "ANTICAPITALISTE",
-        "url": "https://open.spotify.com/album/3jl6WuRzQs7tnO31NZqltd"
+        "name": "MODE CRYPT\u00c9",
+        "url": "https://open.spotify.com/album/0NMoRqiuQw7ink1OfSsxHa"
       },
       "artists": [
         {
-          "name": "Huntrill",
-          "url": "https://open.spotify.com/artist/1Nm9adUt6D5iuhRgirlgF2"
-        }
-      ],
-      "duration_ms": 139259,
-      "name": "ANTICAPITALISTE",
-      "url": "https://open.spotify.com/track/7CJm0e1zk839eIU64HnSil"
-    },
-    {
-      "added_at": "2025-11-13 23:00:08",
-      "album": {
-        "name": "L'usine",
-        "url": "https://open.spotify.com/album/3wXVPlj7mpDK2wf8GobWMD"
-      },
-      "artists": [
+          "name": "Mouss",
+          "url": "https://open.spotify.com/artist/7D4rgoFxldk2wari7UObNY"
+        },
         {
-          "name": "Frs taga",
-          "url": "https://open.spotify.com/artist/1SsTQHvVJV2ph5YsqrSLuy"
+          "name": "Double Zulu",
+          "url": "https://open.spotify.com/artist/3p5keqAzDnuOoAVya8laK6"
         }
       ],
-      "duration_ms": 212109,
-      "name": "L'usine",
-      "url": "https://open.spotify.com/track/6SxhEpfC7K1A7d48QdXxNj"
+      "duration_ms": 144000,
+      "name": "MODE CRYPT\u00c9",
+      "url": "https://open.spotify.com/track/0OOFzZxPzKeFIHvlJlmKPW"
     },
     {
-      "added_at": "2025-11-13 23:00:08",
-      "album": {
-        "name": "0,24bis",
-        "url": "https://open.spotify.com/album/4s3OCaVSyFryaDcWe99EGp"
-      },
-      "artists": [
-        {
-          "name": "Hash 24",
-          "url": "https://open.spotify.com/artist/64pm5dznNZ2353HKqzGQQd"
-        }
-      ],
-      "duration_ms": 92074,
-      "name": "CORRUPTED FILE",
-      "url": "https://open.spotify.com/track/2i3WlwPlawWO0I22YfqAXM"
-    },
-    {
-      "added_at": "2025-11-13 23:00:08",
-      "album": {
-        "name": "Train Mistral",
-        "url": "https://open.spotify.com/album/06d1rMj8tdGai6uuHVb7Hs"
-      },
-      "artists": [
-        {
-          "name": "SCH",
-          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
-        }
-      ],
-      "duration_ms": 197423,
-      "name": "Train Mistral",
-      "url": "https://open.spotify.com/track/0HU5RMcc4JXix5c3BzBSXv"
-    },
-    {
-      "added_at": "2025-11-13 23:00:08",
-      "album": {
-        "name": "Mes mains",
-        "url": "https://open.spotify.com/album/11m8LU7qgOQCHOcrNjw5yn"
-      },
-      "artists": [
-        {
-          "name": "Austin.",
-          "url": "https://open.spotify.com/artist/68ZelUIcF3n3yNyakobhAG"
-        }
-      ],
-      "duration_ms": 167537,
-      "name": "Mes mains",
-      "url": "https://open.spotify.com/track/1TGicKJMmxtuv4vYzucx0t"
-    },
-    {
-      "added_at": "2025-11-13 23:00:08",
-      "album": {
-        "name": "Fardeaux Du Renard",
-        "url": "https://open.spotify.com/album/0ZpN4Vwhh0S3uL81Ki5Pgt"
-      },
-      "artists": [
-        {
-          "name": "Guizmo",
-          "url": "https://open.spotify.com/artist/6sYR8JTRUUUzSD9IydLhfG"
-        }
-      ],
-      "duration_ms": 172239,
-      "name": "Fardeaux Du Renard",
-      "url": "https://open.spotify.com/track/0W89bQOaDRz9wuF2hanHsh"
-    },
-    {
-      "added_at": "2025-11-13 23:00:08",
-      "album": {
-        "name": "Amour",
-        "url": "https://open.spotify.com/album/5JEOwHw3aQ7yqpA8PcBxzl"
-      },
-      "artists": [
-        {
-          "name": "Souli",
-          "url": "https://open.spotify.com/artist/6j2mAzLfu9ZMjd4rwCRjjn"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Amour",
-      "url": "https://open.spotify.com/track/1kExu1v0aoeXZaq7tgzt2i"
-    },
-    {
-      "added_at": "2025-11-13 23:00:08",
-      "album": {
-        "name": "Merci De rien",
-        "url": "https://open.spotify.com/album/08rEIvmalq0SeYbQQbz1og"
-      },
-      "artists": [
-        {
-          "name": "Antes & Madzes",
-          "url": "https://open.spotify.com/artist/7Admld0N9GuvBOpoDpje6s"
-        }
-      ],
-      "duration_ms": 254679,
-      "name": "C'\u00e9tait mieux avant",
-      "url": "https://open.spotify.com/track/7cimkUWFo4kPhN95oxyT2u"
-    },
-    {
-      "added_at": "2025-11-13 23:00:08",
+      "added_at": "2025-11-20 23:00:31",
       "album": {
         "name": "Destin",
         "url": "https://open.spotify.com/album/3193cVuhcGg9Z30Zctknd1"
@@ -241,23 +261,23 @@
       "url": "https://open.spotify.com/track/2H5iQv2VLbGH5LaetvfEfv"
     },
     {
-      "added_at": "2025-11-13 23:00:08",
+      "added_at": "2025-11-20 23:00:31",
       "album": {
-        "name": "6H30",
-        "url": "https://open.spotify.com/album/3g3KaAk8E7flD5rT8RGm6t"
+        "name": "Prol\u00e9taire",
+        "url": "https://open.spotify.com/album/2e3J4pEJnEvgMGBsJO6CJV"
       },
       "artists": [
         {
-          "name": "KLS",
-          "url": "https://open.spotify.com/artist/7vnEuM5aFDKZ0kiWIjMpD4"
+          "name": "Frs taga",
+          "url": "https://open.spotify.com/artist/1SsTQHvVJV2ph5YsqrSLuy"
         }
       ],
-      "duration_ms": 147840,
-      "name": "6H30",
-      "url": "https://open.spotify.com/track/6DV6xqJjK4I0dHPU6XJX5k"
+      "duration_ms": 156040,
+      "name": "Tous fous",
+      "url": "https://open.spotify.com/track/0LsQcMNRdLM5qVeUDDbYUH"
     },
     {
-      "added_at": "2025-11-13 23:00:08",
+      "added_at": "2025-11-20 23:00:31",
       "album": {
         "name": "Fin de ce monde",
         "url": "https://open.spotify.com/album/5nQdkGXFBOrlnP4RJbxi4g"
@@ -277,23 +297,55 @@
       "url": "https://open.spotify.com/track/2UWO657TjAWYy1E75r0sZf"
     },
     {
-      "added_at": "2025-11-13 23:00:08",
+      "added_at": "2025-11-20 23:00:31",
       "album": {
-        "name": "Judas",
-        "url": "https://open.spotify.com/album/6F5PlEyRh7mUcukuxytvdZ"
+        "name": "Rei",
+        "url": "https://open.spotify.com/album/3YTu0lARLRddlCb5YPPBIl"
       },
       "artists": [
         {
-          "name": "ANTILOPSA",
-          "url": "https://open.spotify.com/artist/1k8G6xwu47jzfNoQVAW99g"
+          "name": "Louvar",
+          "url": "https://open.spotify.com/artist/3gMXFPjg7pQViQAzc7Xslc"
         }
       ],
-      "duration_ms": 178374,
-      "name": "Judas",
-      "url": "https://open.spotify.com/track/5nW2Y6rJsamZpqjmq1UQxI"
+      "duration_ms": 160000,
+      "name": "Rei",
+      "url": "https://open.spotify.com/track/0vANR3Lh8V574Y2DFj2drD"
     },
     {
-      "added_at": "2025-11-13 23:00:08",
+      "added_at": "2025-11-20 23:00:31",
+      "album": {
+        "name": "Fardeaux Du Renard",
+        "url": "https://open.spotify.com/album/0ZpN4Vwhh0S3uL81Ki5Pgt"
+      },
+      "artists": [
+        {
+          "name": "Guizmo",
+          "url": "https://open.spotify.com/artist/6sYR8JTRUUUzSD9IydLhfG"
+        }
+      ],
+      "duration_ms": 172239,
+      "name": "Fardeaux Du Renard",
+      "url": "https://open.spotify.com/track/0W89bQOaDRz9wuF2hanHsh"
+    },
+    {
+      "added_at": "2025-11-20 23:00:31",
+      "album": {
+        "name": "Sto\u00efque",
+        "url": "https://open.spotify.com/album/5iDmkDfIXJZApvSU5v5e6B"
+      },
+      "artists": [
+        {
+          "name": "Myk",
+          "url": "https://open.spotify.com/artist/3ph67cARUn5du0gtAtQG5n"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Sto\u00efque",
+      "url": "https://open.spotify.com/track/30SqmUk4XgCa9lLW8Kr6m7"
+    },
+    {
+      "added_at": "2025-11-20 23:00:31",
       "album": {
         "name": "Gloria",
         "url": "https://open.spotify.com/album/3rQR3nAnwwWpUTG3f4KULw"
@@ -309,7 +361,39 @@
       "url": "https://open.spotify.com/track/3yn2iWbOwDp9eahAoppErl"
     },
     {
-      "added_at": "2025-11-13 23:00:08",
+      "added_at": "2025-11-20 23:00:31",
+      "album": {
+        "name": "D\u00e9\u00e7u",
+        "url": "https://open.spotify.com/album/2oWFWBeMDaHrdL0YlkOZxU"
+      },
+      "artists": [
+        {
+          "name": "Boris Dastarac",
+          "url": "https://open.spotify.com/artist/7nADNFt2kT9g5b6wdRPcGd"
+        }
+      ],
+      "duration_ms": 131294,
+      "name": "D\u00e9\u00e7u",
+      "url": "https://open.spotify.com/track/4wPHh0EOa52M7SyIQjza1y"
+    },
+    {
+      "added_at": "2025-11-20 23:00:31",
+      "album": {
+        "name": "La fuite en avant",
+        "url": "https://open.spotify.com/album/130L3uMANE28R0eH0GtmZS"
+      },
+      "artists": [
+        {
+          "name": "Orelsan",
+          "url": "https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN"
+        }
+      ],
+      "duration_ms": 268221,
+      "name": "Le pacte",
+      "url": "https://open.spotify.com/track/5M1VROZh6YaMMwkYVujHja"
+    },
+    {
+      "added_at": "2025-11-20 23:00:31",
       "album": {
         "name": "Sephiroth",
         "url": "https://open.spotify.com/album/69U52qRjWVuZOtjGUBYLWm"
@@ -325,7 +409,39 @@
       "url": "https://open.spotify.com/track/1PWX2SF6ACnDNtpnCH8N3W"
     },
     {
-      "added_at": "2025-11-13 23:00:08",
+      "added_at": "2025-11-20 23:00:31",
+      "album": {
+        "name": "Mes mains",
+        "url": "https://open.spotify.com/album/11m8LU7qgOQCHOcrNjw5yn"
+      },
+      "artists": [
+        {
+          "name": "Austin.",
+          "url": "https://open.spotify.com/artist/68ZelUIcF3n3yNyakobhAG"
+        }
+      ],
+      "duration_ms": 167537,
+      "name": "Mes mains",
+      "url": "https://open.spotify.com/track/1TGicKJMmxtuv4vYzucx0t"
+    },
+    {
+      "added_at": "2025-11-20 23:00:31",
+      "album": {
+        "name": "ANTICAPITALISTE",
+        "url": "https://open.spotify.com/album/3jl6WuRzQs7tnO31NZqltd"
+      },
+      "artists": [
+        {
+          "name": "Huntrill",
+          "url": "https://open.spotify.com/artist/1Nm9adUt6D5iuhRgirlgF2"
+        }
+      ],
+      "duration_ms": 139259,
+      "name": "ANTICAPITALISTE",
+      "url": "https://open.spotify.com/track/7CJm0e1zk839eIU64HnSil"
+    },
+    {
+      "added_at": "2025-11-20 23:00:31",
       "album": {
         "name": "Mick Jagger",
         "url": "https://open.spotify.com/album/3KCgQdOQIvFf2tt0CogOH4"
@@ -345,111 +461,7 @@
       "url": "https://open.spotify.com/track/54Q1i6GCkHuboimwxPFV7R"
     },
     {
-      "added_at": "2025-11-13 23:00:08",
-      "album": {
-        "name": "INTRO",
-        "url": "https://open.spotify.com/album/6Vq2XXly8aXgp9tFh2Tuez"
-      },
-      "artists": [
-        {
-          "name": "Frs taga",
-          "url": "https://open.spotify.com/artist/1SsTQHvVJV2ph5YsqrSLuy"
-        }
-      ],
-      "duration_ms": 206485,
-      "name": "INTRO",
-      "url": "https://open.spotify.com/track/56HiaZ4c4Vf97QuW1IKVMB"
-    },
-    {
-      "added_at": "2025-11-13 23:00:08",
-      "album": {
-        "name": "J'attends",
-        "url": "https://open.spotify.com/album/15YnmEYwfWffBHeRjMqDTR"
-      },
-      "artists": [
-        {
-          "name": "Antes & Madzes",
-          "url": "https://open.spotify.com/artist/7Admld0N9GuvBOpoDpje6s"
-        }
-      ],
-      "duration_ms": 211399,
-      "name": "J'attends",
-      "url": "https://open.spotify.com/track/2bniQFXQRtmHcEx35GJTsN"
-    },
-    {
-      "added_at": "2025-11-13 23:00:08",
-      "album": {
-        "name": "La fuite en avant",
-        "url": "https://open.spotify.com/album/130L3uMANE28R0eH0GtmZS"
-      },
-      "artists": [
-        {
-          "name": "Orelsan",
-          "url": "https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN"
-        }
-      ],
-      "duration_ms": 268221,
-      "name": "Le pacte",
-      "url": "https://open.spotify.com/track/5M1VROZh6YaMMwkYVujHja"
-    },
-    {
-      "added_at": "2025-11-13 23:00:08",
-      "album": {
-        "name": "Pourquoi tu m'aimes ? (feat. Potter Payper)",
-        "url": "https://open.spotify.com/album/3Jf6HUUK2cOMNg1oCNHQKm"
-      },
-      "artists": [
-        {
-          "name": "Niro",
-          "url": "https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q"
-        },
-        {
-          "name": "Potter Payper",
-          "url": "https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z"
-        }
-      ],
-      "duration_ms": 259882,
-      "name": "Pourquoi tu m'aimes ? (feat. Potter Payper)",
-      "url": "https://open.spotify.com/track/5beW2myVvNNIWgChfplO5G"
-    },
-    {
-      "added_at": "2025-11-13 23:00:08",
-      "album": {
-        "name": "Chkeum",
-        "url": "https://open.spotify.com/album/3eJMddIDYSRpWuvksiu1VK"
-      },
-      "artists": [
-        {
-          "name": "Gotti Maras",
-          "url": "https://open.spotify.com/artist/0IhPOW5cO2phSUCYqWuTTb"
-        }
-      ],
-      "duration_ms": 199024,
-      "name": "Chkeum",
-      "url": "https://open.spotify.com/track/2P88Qu4rH3T4yksD6fPDLf"
-    },
-    {
-      "added_at": "2025-11-13 23:00:08",
-      "album": {
-        "name": "Des joies des peines",
-        "url": "https://open.spotify.com/album/4mpkZeuKE4DgelpalLSHKM"
-      },
-      "artists": [
-        {
-          "name": "Davodka",
-          "url": "https://open.spotify.com/artist/3viUmbbKSqgMFOVHfrZQpn"
-        },
-        {
-          "name": "Hash 24",
-          "url": "https://open.spotify.com/artist/64pm5dznNZ2353HKqzGQQd"
-        }
-      ],
-      "duration_ms": 155106,
-      "name": "Des joies des peines",
-      "url": "https://open.spotify.com/track/3BN5s3GGVyvAlzLhK0jeRf"
-    },
-    {
-      "added_at": "2025-11-13 23:00:08",
+      "added_at": "2025-11-20 23:00:31",
       "album": {
         "name": "LA HAUTEUR DE LA LUNE",
         "url": "https://open.spotify.com/album/6rv2HuS4hmqDktFV04TeBU"
@@ -469,95 +481,59 @@
       "url": "https://open.spotify.com/track/08L1ePVF6FfAuw3C8b07iy"
     },
     {
-      "added_at": "2025-11-13 23:00:08",
+      "added_at": "2025-11-20 23:00:31",
       "album": {
-        "name": "Volez-moi",
-        "url": "https://open.spotify.com/album/7Egvv3698pmgv4FsrAFvdx"
+        "name": "Des joies des peines",
+        "url": "https://open.spotify.com/album/4mpkZeuKE4DgelpalLSHKM"
       },
       "artists": [
         {
-          "name": "Sopico",
-          "url": "https://open.spotify.com/artist/01fkQiYuBZt16vQ8iRIc7g"
+          "name": "Davodka",
+          "url": "https://open.spotify.com/artist/3viUmbbKSqgMFOVHfrZQpn"
         },
         {
-          "name": "Sofiane Pamart",
-          "url": "https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg"
+          "name": "Hash 24",
+          "url": "https://open.spotify.com/artist/64pm5dznNZ2353HKqzGQQd"
         }
       ],
-      "duration_ms": 175973,
-      "name": "Une clope apr\u00e8s l'amour",
-      "url": "https://open.spotify.com/track/7pzXgJYFvrh6l7mbp0dlrb"
+      "duration_ms": 155106,
+      "name": "Des joies des peines",
+      "url": "https://open.spotify.com/track/3BN5s3GGVyvAlzLhK0jeRf"
     },
     {
-      "added_at": "2025-11-13 23:00:08",
+      "added_at": "2025-11-20 23:00:31",
       "album": {
-        "name": "RUN Evolution",
-        "url": "https://open.spotify.com/album/74FebIYWI8nzxEG0EPAsG4"
+        "name": "D\u00e9favoris\u00e9",
+        "url": "https://open.spotify.com/album/6CeV2zQ84Dn7NCzomCPS4b"
       },
       "artists": [
         {
-          "name": "Rim'K",
-          "url": "https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D"
+          "name": "Graya",
+          "url": "https://open.spotify.com/artist/6AmKZ6kQdFR64iIiUsRMHT"
         }
       ],
-      "duration_ms": 152693,
-      "name": "Cit\u00e9s de France",
-      "url": "https://open.spotify.com/track/27JUw94xwdU969i6hkf21s"
+      "duration_ms": 203613,
+      "name": "D\u00e9favoris\u00e9",
+      "url": "https://open.spotify.com/track/1IGuHmozyVPPo3Jt5oGNwT"
     },
     {
-      "added_at": "2025-11-13 23:00:08",
+      "added_at": "2025-11-20 23:00:31",
       "album": {
-        "name": "L'EAU (Part. II)",
-        "url": "https://open.spotify.com/album/0Z0oljDTQSXTgvvLHPUnem"
+        "name": "T'Challa",
+        "url": "https://open.spotify.com/album/4Vk8qLzYGjyUEO7es56kX8"
       },
       "artists": [
         {
-          "name": "Josman",
-          "url": "https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR"
+          "name": "Guizmo",
+          "url": "https://open.spotify.com/artist/6sYR8JTRUUUzSD9IydLhfG"
         }
       ],
-      "duration_ms": 157506,
-      "name": "L'EAU (Part. II)",
-      "url": "https://open.spotify.com/track/4eenyjhMucaRF1yJ2PuGEK"
+      "duration_ms": 191250,
+      "name": "T'Challa",
+      "url": "https://open.spotify.com/track/51GW3HYwct3zX4WfvpCGke"
     },
     {
-      "added_at": "2025-11-13 23:00:08",
-      "album": {
-        "name": "Logo Dor\u00e9",
-        "url": "https://open.spotify.com/album/5NQCAGEMvvE1Ko4VYGvRZa"
-      },
-      "artists": [
-        {
-          "name": "Kerou\u00e9",
-          "url": "https://open.spotify.com/artist/5BmYHHk3xzJxkmrHVkq4y8"
-        },
-        {
-          "name": "Jungle Jack",
-          "url": "https://open.spotify.com/artist/36HOtWiV4nn0luNGSn2xAT"
-        }
-      ],
-      "duration_ms": 233117,
-      "name": "Logo Dor\u00e9",
-      "url": "https://open.spotify.com/track/5DBRavHrwKbLD1r7MXyYAI"
-    },
-    {
-      "added_at": "2025-11-13 23:00:08",
-      "album": {
-        "name": "Ces gens qui aiment",
-        "url": "https://open.spotify.com/album/7Iw2DTeeeMFfQgZIX3B2I6"
-      },
-      "artists": [
-        {
-          "name": "Checler",
-          "url": "https://open.spotify.com/artist/4EouoR9tt0atpWnMyI7hhB"
-        }
-      ],
-      "duration_ms": 297750,
-      "name": "Aux gens qui",
-      "url": "https://open.spotify.com/track/3v2C9Slde69iXI2mBKM1pj"
-    },
-    {
-      "added_at": "2025-11-13 23:00:08",
+      "added_at": "2025-11-20 23:00:31",
       "album": {
         "name": "L\u00e9ger",
         "url": "https://open.spotify.com/album/0U5AcAILh5oLAjGdqUzNZE"
@@ -573,7 +549,119 @@
       "url": "https://open.spotify.com/track/1AmB2dUp4PGZShnjM1P5PB"
     },
     {
-      "added_at": "2025-11-13 23:00:08",
+      "added_at": "2025-11-20 23:00:31",
+      "album": {
+        "name": "Apprendre \u00e0 perdre\u2026",
+        "url": "https://open.spotify.com/album/7wrQb6h0m6U6HTtlYvEXWd"
+      },
+      "artists": [
+        {
+          "name": "LauCarr\u00e9",
+          "url": "https://open.spotify.com/artist/0NuAhoKXhbTZEQwKzvVYRm"
+        }
+      ],
+      "duration_ms": 179990,
+      "name": "Apprendre \u00e0 perdre\u2026",
+      "url": "https://open.spotify.com/track/3lDUEFI5KIeQJanWCBRos4"
+    },
+    {
+      "added_at": "2025-11-20 23:00:31",
+      "album": {
+        "name": "0,24bis",
+        "url": "https://open.spotify.com/album/4s3OCaVSyFryaDcWe99EGp"
+      },
+      "artists": [
+        {
+          "name": "Hash 24",
+          "url": "https://open.spotify.com/artist/64pm5dznNZ2353HKqzGQQd"
+        }
+      ],
+      "duration_ms": 92074,
+      "name": "CORRUPTED FILE",
+      "url": "https://open.spotify.com/track/2i3WlwPlawWO0I22YfqAXM"
+    },
+    {
+      "added_at": "2025-11-20 23:00:31",
+      "album": {
+        "name": "Chkeum",
+        "url": "https://open.spotify.com/album/3eJMddIDYSRpWuvksiu1VK"
+      },
+      "artists": [
+        {
+          "name": "Gotti Maras",
+          "url": "https://open.spotify.com/artist/0IhPOW5cO2phSUCYqWuTTb"
+        }
+      ],
+      "duration_ms": 199024,
+      "name": "Chkeum",
+      "url": "https://open.spotify.com/track/2P88Qu4rH3T4yksD6fPDLf"
+    },
+    {
+      "added_at": "2025-11-20 23:00:31",
+      "album": {
+        "name": "Judas",
+        "url": "https://open.spotify.com/album/6F5PlEyRh7mUcukuxytvdZ"
+      },
+      "artists": [
+        {
+          "name": "ANTILOPSA",
+          "url": "https://open.spotify.com/artist/1k8G6xwu47jzfNoQVAW99g"
+        }
+      ],
+      "duration_ms": 178374,
+      "name": "Judas",
+      "url": "https://open.spotify.com/track/5nW2Y6rJsamZpqjmq1UQxI"
+    },
+    {
+      "added_at": "2025-11-20 23:00:31",
+      "album": {
+        "name": "Amour",
+        "url": "https://open.spotify.com/album/5JEOwHw3aQ7yqpA8PcBxzl"
+      },
+      "artists": [
+        {
+          "name": "Souli",
+          "url": "https://open.spotify.com/artist/6j2mAzLfu9ZMjd4rwCRjjn"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Amour",
+      "url": "https://open.spotify.com/track/1kExu1v0aoeXZaq7tgzt2i"
+    },
+    {
+      "added_at": "2025-11-20 23:00:31",
+      "album": {
+        "name": "LA PIOCHE",
+        "url": "https://open.spotify.com/album/4OsTLL2e68xIO5S3aUD421"
+      },
+      "artists": [
+        {
+          "name": "N3MS",
+          "url": "https://open.spotify.com/artist/0bKdSFonchjcyDrS1HNy6J"
+        }
+      ],
+      "duration_ms": 192844,
+      "name": "LA PIOCHE",
+      "url": "https://open.spotify.com/track/630Ahr10Eg65W8ZJPFhpX4"
+    },
+    {
+      "added_at": "2025-11-20 23:00:31",
+      "album": {
+        "name": "6H30",
+        "url": "https://open.spotify.com/album/3g3KaAk8E7flD5rT8RGm6t"
+      },
+      "artists": [
+        {
+          "name": "KLS",
+          "url": "https://open.spotify.com/artist/7vnEuM5aFDKZ0kiWIjMpD4"
+        }
+      ],
+      "duration_ms": 147840,
+      "name": "6H30",
+      "url": "https://open.spotify.com/track/6DV6xqJjK4I0dHPU6XJX5k"
+    },
+    {
+      "added_at": "2025-11-20 23:00:31",
       "album": {
         "name": "Secteur",
         "url": "https://open.spotify.com/album/7mjVNkeXWB0S1rTg9YLebr"
@@ -591,102 +679,6 @@
       "duration_ms": 149333,
       "name": "Secteur",
       "url": "https://open.spotify.com/track/0eCNqaJVwEZStzSRIHZJna"
-    },
-    {
-      "added_at": "2025-11-13 23:00:08",
-      "album": {
-        "name": "D\u00e9favoris\u00e9",
-        "url": "https://open.spotify.com/album/6CeV2zQ84Dn7NCzomCPS4b"
-      },
-      "artists": [
-        {
-          "name": "Graya",
-          "url": "https://open.spotify.com/artist/6AmKZ6kQdFR64iIiUsRMHT"
-        }
-      ],
-      "duration_ms": 203613,
-      "name": "D\u00e9favoris\u00e9",
-      "url": "https://open.spotify.com/track/1IGuHmozyVPPo3Jt5oGNwT"
-    },
-    {
-      "added_at": "2025-11-13 23:00:08",
-      "album": {
-        "name": "T'Challa",
-        "url": "https://open.spotify.com/album/4Vk8qLzYGjyUEO7es56kX8"
-      },
-      "artists": [
-        {
-          "name": "Guizmo",
-          "url": "https://open.spotify.com/artist/6sYR8JTRUUUzSD9IydLhfG"
-        }
-      ],
-      "duration_ms": 191250,
-      "name": "T'Challa",
-      "url": "https://open.spotify.com/track/51GW3HYwct3zX4WfvpCGke"
-    },
-    {
-      "added_at": "2025-11-13 23:00:08",
-      "album": {
-        "name": "STENTOR, act I (Bonus)",
-        "url": "https://open.spotify.com/album/5pkmkJIF3lUTiShvi923Wr"
-      },
-      "artists": [
-        {
-          "name": "M\u00e9dine",
-          "url": "https://open.spotify.com/artist/1afjj7vSBkpIjkiJdSV6bV"
-        }
-      ],
-      "duration_ms": 254659,
-      "name": "convaincu - Bonus",
-      "url": "https://open.spotify.com/track/4ECR8NI9OhpWeeG4Rh2rqF"
-    },
-    {
-      "added_at": "2025-11-13 23:00:08",
-      "album": {
-        "name": "LA PIOCHE",
-        "url": "https://open.spotify.com/album/4OsTLL2e68xIO5S3aUD421"
-      },
-      "artists": [
-        {
-          "name": "N3MS",
-          "url": "https://open.spotify.com/artist/0bKdSFonchjcyDrS1HNy6J"
-        }
-      ],
-      "duration_ms": 192844,
-      "name": "LA PIOCHE",
-      "url": "https://open.spotify.com/track/630Ahr10Eg65W8ZJPFhpX4"
-    },
-    {
-      "added_at": "2025-11-13 23:00:08",
-      "album": {
-        "name": "Apprendre \u00e0 perdre\u2026",
-        "url": "https://open.spotify.com/album/7wrQb6h0m6U6HTtlYvEXWd"
-      },
-      "artists": [
-        {
-          "name": "LauCarr\u00e9",
-          "url": "https://open.spotify.com/artist/0NuAhoKXhbTZEQwKzvVYRm"
-        }
-      ],
-      "duration_ms": 179990,
-      "name": "Apprendre \u00e0 perdre\u2026",
-      "url": "https://open.spotify.com/track/3lDUEFI5KIeQJanWCBRos4"
-    },
-    {
-      "added_at": "2025-11-13 23:00:08",
-      "album": {
-        "name": "Pas encore dead",
-        "url": "https://open.spotify.com/album/51ZJ9Asf28av4PVAXF8hAN"
-      },
-      "artists": [
-        {
-          "name": "Mohand Baha",
-          "url": "https://open.spotify.com/artist/5Lz6hyIn2iDwHEesU4idwl"
-        }
-      ],
-      "duration_ms": 208941,
-      "name": "Pas encore dead",
-      "url": "https://open.spotify.com/track/6GpwFSXYkBQCZHU1QftgC0"
     }
   ],
   "unique_name": "Lyricistes",

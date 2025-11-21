@@ -2229,6 +2229,36 @@
     },
     {
       "album": {
+        "name": "Dance",
+        "url": "https://open.spotify.com/album/6bc39xL6AfYQx6lFdljymg"
+      },
+      "artists": [
+        {
+          "name": "Dj Penny",
+          "url": "https://open.spotify.com/artist/0m8Pugts84dRwQV3sYSJuY"
+        },
+        {
+          "name": "Greala Wake",
+          "url": "https://open.spotify.com/artist/5y5CKKzsdUzWNRmvOrP9Zr"
+        },
+        {
+          "name": "Feezeh",
+          "url": "https://open.spotify.com/artist/1mON6A1qqbSP8RUgJWHzRA"
+        },
+        {
+          "name": "SS Promotionz",
+          "url": "https://open.spotify.com/artist/4NJ6LwtpfAa4tx6P0I7z5a"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159676,
+      "name": "DANCE",
+      "url": "https://open.spotify.com/track/6Fg8BAc4vYhAGfMVkuSYdz"
+    },
+    {
+      "album": {
         "name": "Dance With Me",
         "url": "https://open.spotify.com/album/7ucweGf9t76HnqxMAuzLJE"
       },
@@ -2738,7 +2768,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 127714,
       "name": "Ebenezer",
       "url": "https://open.spotify.com/track/0igpnDi8h7lcvZLcOYmxQ7"
@@ -3510,7 +3540,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 179226,
       "name": "Forever",
       "url": "https://open.spotify.com/track/5NkYmbIrzIsk9EtCekrch9"
@@ -4278,7 +4308,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 179999,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/74AJMTZhNeWdCTdx0eEau2"
@@ -4568,6 +4598,24 @@
       "duration_ms": 207080,
       "name": "Hold My Hand",
       "url": "https://open.spotify.com/track/2FBtwybtYP2GrBVNaeV7HS"
+    },
+    {
+      "album": {
+        "name": "HOLY",
+        "url": "https://open.spotify.com/album/7L2fmrTXkZJPfFE3E0loa5"
+      },
+      "artists": [
+        {
+          "name": "CHINEMEREM",
+          "url": "https://open.spotify.com/artist/1kW6NzBKO0fVW3VEfgF00v"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369875,
+      "name": "HOLY",
+      "url": "https://open.spotify.com/track/7l33UbLQbU2r8fKLgQtdxd"
     },
     {
       "album": {
@@ -6794,7 +6842,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 127105,
       "name": "More Than Anything",
       "url": "https://open.spotify.com/track/0ylLF0TJgAQun5TCG10CeT"
@@ -7390,7 +7438,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 211914,
       "name": "New Face",
       "url": "https://open.spotify.com/track/642VvtTlmNlyhq37E45xhv"
@@ -8348,6 +8396,24 @@
       "duration_ms": 150500,
       "name": "Onyeoma",
       "url": "https://open.spotify.com/track/5NyAEi2WfqOc1MikRm3YSF"
+    },
+    {
+      "album": {
+        "name": "Opelope Jesu",
+        "url": "https://open.spotify.com/album/3fXdmOtYuMO1ryB6hGK3Ei"
+      },
+      "artists": [
+        {
+          "name": "Kayode Fadase",
+          "url": "https://open.spotify.com/artist/5FRJXfl6Djm3F5YarEHIiz"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234666,
+      "name": "Opelope Jesu",
+      "url": "https://open.spotify.com/track/4UDxCoU21fhAAmOnMeQ6Jp"
     },
     {
       "album": {
@@ -9570,6 +9636,28 @@
       "duration_ms": 175315,
       "name": "Second Wind",
       "url": "https://open.spotify.com/track/1K05Ph2s7acSkdOwa62Zrv"
+    },
+    {
+      "album": {
+        "name": "Seen",
+        "url": "https://open.spotify.com/album/4B0oh0jk5PD3TfkyDls8pV"
+      },
+      "artists": [
+        {
+          "name": "Lola Ade",
+          "url": "https://open.spotify.com/artist/1Dn5XPErF6q1w1sxxk8m6Y"
+        },
+        {
+          "name": "Greatman Takit",
+          "url": "https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226285,
+      "name": "Seen",
+      "url": "https://open.spotify.com/track/0choVjlbcW5egLUqkPwOAe"
     },
     {
       "album": {
@@ -11216,6 +11304,24 @@
       "duration_ms": 162228,
       "name": "Victory",
       "url": "https://open.spotify.com/track/4RMMuBMHgKxAm1Xs3GlPgq"
+    },
+    {
+      "album": {
+        "name": "Lifted",
+        "url": "https://open.spotify.com/album/30GQ07p6FfsqIwYIkb6GZr"
+      },
+      "artists": [
+        {
+          "name": "Steve Elite",
+          "url": "https://open.spotify.com/artist/47VkiDb1iXeoDfDrebngyk"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140279,
+      "name": "Victory song",
+      "url": "https://open.spotify.com/track/6DhT4LdkIqL30Djc9CYWp5"
     },
     {
       "album": {

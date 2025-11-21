@@ -4,7 +4,7 @@
 
 > 
 
-1,215 songs - 2 day 14 hr 38 min
+1,216 songs - 2 day 14 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -794,7 +794,7 @@
 | [Overtime](https://open.spotify.com/track/2CVWc2gNM8YCTMdFXJI8Wg) | [KNOWER](https://open.spotify.com/artist/7fVp0A6oCMfiQJihMnY0SZ) | [Life](https://open.spotify.com/album/4SVxz8yqIymDrdiX2YBeQe) | 4:28 | 2025-11-01 |  |
 | [Oye Mi Canción](https://open.spotify.com/track/1Eyll8ZpAU2U6rD3Yfos9q) | [Los Santos](https://open.spotify.com/artist/2yecGImQIcTzSN0nh6BHcI) | [Los Santos](https://open.spotify.com/album/2oFAIyqSu5623ZUIFnbiiR) | 2:35 | 2024-02-14 | 2024-11-06 |
 | [P's & Q's](https://open.spotify.com/track/1z3sZrbZfgIpICkFDeSurB) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Wave\[s\]](https://open.spotify.com/album/5yXvXFTwuqoAHFuPeliqvZ) | 2:33 | 2025-07-25 |  |
-| [P.Y.T\. \(Pretty Young Thing\)](https://open.spotify.com/track/1CgmY8fVN7kstVDZmsdM5k) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 3:59 | 2025-06-03 |  |
+| [P.Y.T\. \(Pretty Young Thing\)](https://open.spotify.com/track/1CgmY8fVN7kstVDZmsdM5k) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 3:58 | 2025-06-03 |  |
 | [Pack The Pipe](https://open.spotify.com/track/3jE1ffzfKtnALJVGlXgl7D) | [The Pharcyde](https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w) | [Bizarre Ride II The Pharcyde](https://open.spotify.com/album/48kU5gP41TqZEw32Cwhsna) | 5:03 | 2025-09-23 |  |
 | [Paid In Full \(Outro\)](https://open.spotify.com/track/2CqHAcs1lgrxEmLdRK64Zu) | [Lil Gotit](https://open.spotify.com/artist/4ke9HXbejpYVMhbOjSa4le) | [Crazy But It's True](https://open.spotify.com/album/5Am6t47OynK0Ft1qF6UjbX) | 4:07 | 2023-11-27 | 2024-04-24 |
 | [Palisades, CA](https://open.spotify.com/track/70wd1fE44Rb9mnZMaApmkc) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [The Great Escape](https://open.spotify.com/album/1AJrpzYu5KAbDSvmyiIUhr) | 3:14 | 2023-04-04 | 2024-03-05 |
@@ -898,7 +898,7 @@
 | [Rocc Climbing \(feat\. Lil Yachty\)](https://open.spotify.com/track/5bBzkJE9BqYTL27webAUCw) | [Remble](https://open.spotify.com/artist/65s98MYZ4xFpgKlUYS5XKw), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Rocc Climbing \(feat\. Lil Yachty\)](https://open.spotify.com/album/6MJPvYn6Xw3PIwUMyNXpS7) | 2:55 | 2022-10-18 | 2023-05-09 |
 | [Rock and Roll](https://open.spotify.com/track/1ghSpHC4nGlqWzbPJiVeDU) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Master the Day of Judgement](https://open.spotify.com/album/3rNf2SErEqCBoyHVYEDNU9) | 2:15 | 2022-06-10 | 2023-12-14 |
 | [Rock N Roll](https://open.spotify.com/track/1V0jEAE4UreyX8KYxGLnLP) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Project X](https://open.spotify.com/album/0VotmXUwQt1UHyFH4VVrvt) | 2:28 | 2022-06-09 | 2023-05-09 |
-| [Rock with You \- Single Version](https://open.spotify.com/track/7oOOI85fVQvVnK5ynNMdW7) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 3:40 | 2025-06-03 |  |
+| [Rock with You \- Single Version](https://open.spotify.com/track/7oOOI85fVQvVnK5ynNMdW7) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 3:39 | 2025-06-03 |  |
 | [Rock Your Body](https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Justified](https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW) | 4:27 | 2025-04-26 |  |
 | [Rocket Love](https://open.spotify.com/track/1jieqFxetPlw4Hri77DQJ6) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [The Complete Stevie Wonder](https://open.spotify.com/album/3wV75jagiyMRezq1LOCh1I) | 4:39 | 2025-07-13 |  |
 | [Rockstar Lifestyle](https://open.spotify.com/track/5I8LS9jiW5xju1lzakh1s3) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 3:12 | 2023-10-27 | 2024-03-05 |
@@ -1038,6 +1038,7 @@
 | [Take It \(Look Nice\)](https://open.spotify.com/track/4KCMYCy2e1rXqrtHT3xrSF) | [Larry League](https://open.spotify.com/artist/1s2VYzJ4Z4vFnp2yLYaLQe) | [Larry Leaks](https://open.spotify.com/album/6DXdOvjqHKwzF8nRUTbQvj) | 2:41 | 2024-04-01 | 2024-11-06 |
 | [Take It Off \(Dim The Lights\)](https://open.spotify.com/track/3xyknHSrdlYkvJNpQx2Vsr) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [In My Mind](https://open.spotify.com/album/2AYyw0FbE1GXlNHnx2Gj4a) | 4:07 | 2025-08-14 |  |
 | [Take It To Trial](https://open.spotify.com/track/5oIc9JH730QeKxjtjkXv2y) | [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [Rr](https://open.spotify.com/album/4WxOXS9ss9F4pTxXsEM3nH) | 2:04 | 2022-07-10 | 2023-12-14 |
+| [Take You There](https://open.spotify.com/track/40AbVw7NEu78pgafTWKZxJ) | [Pete Rock & C.L\. Smooth](https://open.spotify.com/artist/3fJ60AcIgLzQkVitEvA7uq) | [The Main Ingredient](https://open.spotify.com/album/5Gz9I4C6s443w18SrFc8xE) | 4:44 | 2025-11-20 |  |
 | [Take Your Mask Off \(feat\. Daniel Caesar & LaToiya Williams\)](https://open.spotify.com/track/4BSR9I4ExlCJdXJo2GpBD5) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [LaToiya Williams](https://open.spotify.com/artist/6w71vXwHI2Oz6I5OO41tRM) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:13 | 2024-11-05 | 2025-05-21 |
 | [Talk 2 God](https://open.spotify.com/track/5dA0iENzuQGYKZpCKU4nnN) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [4L](https://open.spotify.com/album/26LsyqIbRQJzO1TPE5icl2) | 2:49 | 2024-03-28 | 2024-04-24 |
 | [Talk Shit Like a Preacher](https://open.spotify.com/track/2aR4gdgyCgacqHGqUZ91YS) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Future Hndrxx Presents: The WIZRD](https://open.spotify.com/album/3LpIwZdzFwc10psLingT8x) | 2:12 | 2024-12-11 | 2025-05-21 |

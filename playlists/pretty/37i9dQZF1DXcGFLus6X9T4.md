@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcGFLus6X9T4.md) - [plain]
 
 > The official playlist for The Adam Project\. Watch on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,757 likes - 34 songs - 1 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,761 likes - 34 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcGFLus6X9T4.md) - [plain]
 | 2 | [The Adam Project](https://open.spotify.com/track/7dF6sfiSwXrcdkvTB2jvXh) | [Rob Simonsen](https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J) | [The Adam Project \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/549SOdyJdLUojqoXBynu9O) | 4:55 |
 | 3 | [Hallway](https://open.spotify.com/track/5N57dbX1aHEnomrGxpC5a5) | [Rob Simonsen](https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J) | [The Adam Project \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/549SOdyJdLUojqoXBynu9O) | 0:38 |
 | 4 | [Gimme Some Lovin'](https://open.spotify.com/track/3yobZXbEQQJq7wBazWGDVg) | [The Spencer Davis Group](https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS) | [The Best Of Spencer Davis Group](https://open.spotify.com/album/6hWcuAd9vwJ0Dqbobj3ksb) | 2:56 |
-| 5 | [Time After Time](https://open.spotify.com/track/7o9uu2GDtVDr9nsR7ZRN73) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [She's So Unusual](https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0) | 4:01 |
+| 5 | [Time After Time](https://open.spotify.com/track/7o9uu2GDtVDr9nsR7ZRN73) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [She's So Unusual](https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0) | 4:05 |
 | 6 | [Hawking, Zip It](https://open.spotify.com/track/4hK02r4BcAeM458zVd6kwE) | [Rob Simonsen](https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J) | [The Adam Project \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/549SOdyJdLUojqoXBynu9O) | 4:42 |
 | 7 | [Let My Love Open The Door](https://open.spotify.com/track/0otlwsD3mSogk7VJCTp6Kg) | [Pete Townshend](https://open.spotify.com/artist/24Wa5wIZIo1sPkzVGP0B5p) | [Empty Glass](https://open.spotify.com/album/0X8rEKkL2TupftQRrOzX4h) | 2:44 |
 | 8 | [Forest](https://open.spotify.com/track/5kzAgdVFV3l7FqCXn2WjFE) | [Rob Simonsen](https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J) | [The Adam Project \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/549SOdyJdLUojqoXBynu9O) | 2:25 |

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSmYGAKTUJn.md) - [plain]
 
 > John Mulaney's 50 most beloved tracks\. Welcome to <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">mixtape</a>, a curator's playground.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,126 likes - 50 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,135 likes - 50 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tiny Apocalypse](https://open.spotify.com/track/36LadbHvLQkpxlkW4TrRxd) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB) | [Grown Backwards](https://open.spotify.com/album/5nO9veX2scY0HX8RXHkImV) | 4:03 |
-| 2 | [Coney Island Baby](https://open.spotify.com/track/0ivHDucXMbjTjiU4lMIkBO) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Coney Island Baby](https://open.spotify.com/album/3Kawndiz86cIHkPsKtFiKx) | 6:35 |
+| 2 | [Coney Island Baby](https://open.spotify.com/track/0ivHDucXMbjTjiU4lMIkBO) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Coney Island Baby](https://open.spotify.com/album/3Kawndiz86cIHkPsKtFiKx) | 6:34 |
 | 3 | [Kaputt](https://open.spotify.com/track/6DrvUh7WxKy1lQxsHcxtN2) | [Destroyer](https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In) | [Kaputt](https://open.spotify.com/album/4sVWj2lb9F8nRg57VFTaf1) | 6:17 |
 | 4 | [Days \- 2003 Remaster](https://open.spotify.com/track/6qK7CuehGu2DVwL8UgaEhV) | [Television](https://open.spotify.com/artist/0S7Zur2g8YhqlzqtlYStli) | [Adventure](https://open.spotify.com/album/5ha55jb1DQKy33CpmREvFq) | 3:14 |
 | 5 | [Jams Runs Free](https://open.spotify.com/track/5a4bYjlqimbie2eQRXAFRx) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Rather Ripped](https://open.spotify.com/album/706OL6kpsbf73LRdXD1dCB) | 3:51 |

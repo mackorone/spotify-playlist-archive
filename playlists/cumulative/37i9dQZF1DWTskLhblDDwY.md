@@ -4,7 +4,7 @@
 
 > スローバックTHURSDAY一覧は<a href="spotify:genre:0JQ5DAqbMKFCEGYtBLwgyM">こちら</a>から。Cover: 松原みき◾️松田聖子、デビュー◾️山口百恵、引退　◾️ジョン・レノン死去 ◾️日本の自動車生産数がアメリカを抜いて1位に。◾️「ぶりっこ」「竹の子族」「テクノ」
 
-133 songs - 9 hr 35 min
+133 songs - 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Rappers Delight](https://open.spotify.com/track/2Os1cxy5ZkYV84NBujHW0i) | [The Sugarhill Gang](https://open.spotify.com/artist/7zliF6Q946WznVk3ZMYhZX) | [Work Out Buddy Vol 5](https://open.spotify.com/album/0jUFf3OYOXLfDYo7QfVYfK) | 5:04 | 2023-06-28 |  |
 | [Ride Like the Wind](https://open.spotify.com/track/62leJoS03BiNzdoQmb9ByN) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Rhino Hi\-Five: Christopher Cross](https://open.spotify.com/album/1zCZlZkquBeSNOeThSrKpE) | 4:35 | 2023-06-28 |  |
 | [Ride Like the Wind](https://open.spotify.com/track/6Rd36fAvK6klQPYgx3534I) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Christopher Cross](https://open.spotify.com/album/43L4t2oVmuJsudEls5C6Gh) | 4:35 | 2023-06-28 | 2024-04-19 |
-| [Rock with You \- Single Version](https://open.spotify.com/track/7oOOI85fVQvVnK5ynNMdW7) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 3:40 | 2023-06-28 |  |
+| [Rock with You \- Single Version](https://open.spotify.com/track/7oOOI85fVQvVnK5ynNMdW7) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 3:39 | 2023-06-28 |  |
 | [SACHIKO](https://open.spotify.com/track/20FKTrZ7nIQSaIqUNeLi3x) | [Hirofumi Banba](https://open.spotify.com/artist/1RePn7Ysir2yzY6YNB9fta) | [ひとり海へ還る](https://open.spotify.com/album/6GvBAf1cMCR2zMTbOphnLu) | 4:29 | 2023-06-28 |  |
 | [SACHIKO](https://open.spotify.com/track/4elr3iqhwwXHytiGBGOmeO) | [Hirofumi Banba](https://open.spotify.com/artist/1RePn7Ysir2yzY6YNB9fta) | [ひとり海へ還る](https://open.spotify.com/album/6KyfuNdiN8DEoWZMNDOyFX) | 4:29 | 2023-06-28 | 2024-04-19 |
 | [TECHNOPOLIS](https://open.spotify.com/track/025rboHEX5F2T0jRBMjuxI) | [YELLOW MAGIC ORCHESTRA](https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE), [Norio Yoshizawa](https://open.spotify.com/artist/4uoBti7IAbbjSVYLQuEFoT) | [Solid State Survivor](https://open.spotify.com/album/5TmpFE7Xus70ko1QYGxFIe) | 4:14 | 2023-06-28 | 2024-04-19 |
@@ -71,7 +71,7 @@
 | [Working My Way Back to You / Forgive Me, Girl](https://open.spotify.com/track/1wouF9mtyiwZDYiq5YElaq) | [The Spinners](https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5) | [Smooth And Sweet](https://open.spotify.com/album/2KurzyFucko12doXylecYi) | 4:05 | 2023-06-28 |  |
 | [Yes I'm Ready](https://open.spotify.com/track/71k4FgJ4GuBq35Zre9BCdc) | [Teri DeSario](https://open.spotify.com/artist/0234x9nNrcIxRQ51AFqgJx), [KC & The Sunshine Band](https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo) | [Casablanca Records Greatest Hits](https://open.spotify.com/album/2a9NqNKkXva9vZanCUmOjc) | 3:18 | 2023-06-28 |  |
 | [Yes\-No \- アルバムヴァージョン](https://open.spotify.com/track/6C7H84b6soUzdgXj52peoe) | [Off Course](https://open.spotify.com/artist/5YQX51PLEtKQAKnMFt5jnG) | [We are](https://open.spotify.com/album/4xfeMb2mB0God3yG9KcjmS) | 4:35 | 2023-06-28 |  |
-| [You May Be Right](https://open.spotify.com/track/7gMOe0gXYcELUoVugfMmHP) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Glass Houses](https://open.spotify.com/album/5sztejERqpktXEdemlUvU5) | 4:13 | 2023-06-28 |  |
+| [You May Be Right](https://open.spotify.com/track/7gMOe0gXYcELUoVugfMmHP) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Glass Houses](https://open.spotify.com/album/5sztejERqpktXEdemlUvU5) | 4:16 | 2023-06-28 |  |
 | [YOU MAY DREAM](https://open.spotify.com/track/2rltn274yM6SBaYw7bUuMf) | [SHEENA & THE ROKKETS](https://open.spotify.com/artist/1BOEassJHHuNK7SBfgiKKu) | [真空パック](https://open.spotify.com/album/4LvHMDNdrLbrAnA3hr5HLO) | 3:50 | 2023-06-28 |  |
 | [You Oughta Know by Now](https://open.spotify.com/track/4gslR2ojAUj5arQw2OgGY3) | [Ray Kennedy](https://open.spotify.com/artist/6CPNVbAOtmZGh4N2PHZRQe) | [Ray Kennedy \(Expanded Edition\)](https://open.spotify.com/album/0dUoymeK7u83IEJ428jeKy) | 4:31 | 2023-06-28 |  |
 | [いなせなロコモーション](https://open.spotify.com/track/4aKXovP9f4JPsDSOXofZvt) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [いなせなロコモーション](https://open.spotify.com/album/6uhHVDAvcRYEMfQ0DDHz7F) | 4:51 | 2023-06-28 |  |

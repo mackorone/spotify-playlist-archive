@@ -4,7 +4,7 @@
 
 > rock alternativo argentino\. <br/>📷 reybruja
 
-278 songs - 15 hr 42 min
+280 songs - 15 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Amarnos](https://open.spotify.com/track/6JMeRwLmGHjdelPQYF55mN) | [Norma](https://open.spotify.com/artist/5mPr596XU0RArRWkiY1eFl), [Rotman](https://open.spotify.com/artist/7AdeMWeqQNVbth5VTo9gOf) | [Amarnos](https://open.spotify.com/album/5j7KJx5cEJAelHynrW7L0z) | 3:25 | 2023-03-31 | 2023-04-07 |
 | [Anita](https://open.spotify.com/track/3ppvrwFRLLD4PTxmZDZVfO) | [Pacifica](https://open.spotify.com/artist/4YcQuAswXPWdO2WAxTRXse) | [Anita](https://open.spotify.com/album/0zKPQqcqkPWWdNwcE6ZCVy) | 2:51 | 2023-05-19 | 2025-10-25 |
 | [Aniversario Luctuoso](https://open.spotify.com/track/02FEgeTr1KvpMtgk2G40bi) | [Clara\_mente](https://open.spotify.com/artist/2fT7IpuxCPeR81zCxf9olk) | [Comportamiento Errático](https://open.spotify.com/album/1a8yT9fS1ws8oxo0NrZKqc) | 3:38 | 2024-11-15 |  |
-| [Antes de que Olvide](https://open.spotify.com/track/0o2l3E5VuQuHXV4t5B3PoK) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Lo Más Cercano a Caer](https://open.spotify.com/album/5TsOqXNqzC1ZiHtVpeqvQK) | 2:53 | 2023-05-26 |  |
+| [Antes de que Olvide](https://open.spotify.com/track/0o2l3E5VuQuHXV4t5B3PoK) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Lo Más Cercano a Caer](https://open.spotify.com/album/5TsOqXNqzC1ZiHtVpeqvQK) | 2:53 | 2023-05-26 | 2025-11-21 |
 | [armadura](https://open.spotify.com/track/5RYuYRuYqBPizDXiUzN9sH) | [El Club Audiovisual](https://open.spotify.com/artist/1YZnktJjGKEbhQBcpQQjQ7) | [relicario](https://open.spotify.com/album/6oBsuyf7oZZxQBmSeizStD) | 2:42 | 2025-10-10 |  |
 | [Atenta](https://open.spotify.com/track/3GZuixcRRQ7PidTtKxXOPn) | [Anabella Cartolano](https://open.spotify.com/artist/08DbRq8mfXjAQPIyhR070C) | [Sur](https://open.spotify.com/album/5PHhl2tm9iQVxkjGGOcsAe) | 2:53 | 2024-06-28 | 2024-08-24 |
 | [AVE MARÍA](https://open.spotify.com/track/5d7RuDDWI7TcCNWJMsaUqN) | [MUGRE](https://open.spotify.com/artist/2mJNVPV7WxtrVrPSddTW6V) | [LA SANTÍSIMA TRINIDAD](https://open.spotify.com/album/42YySIet0Gr5dtERZBsFt0) | 1:58 | 2023-08-04 | 2024-07-06 |
@@ -207,6 +207,7 @@
 | [Para Renacer \(Lado V\)](https://open.spotify.com/track/4jZDcaRTAESl4TMgXu35sL) | [Alejo y Valentin](https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum) | [Superstar / Para Renacer](https://open.spotify.com/album/0xUtJQzRNWrQurHiYzXLF7) | 3:35 | 2022-03-25 | 2022-07-29 |
 | [Para Renacer \- Lado V](https://open.spotify.com/track/4W1ejw0Xun7o8eIjFm5dWg) | [Alejo y Valentin](https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum) | [Superstar / Para Renacer](https://open.spotify.com/album/0H0L15hX6vsMEJSKWfP0JU) | 3:35 | 2022-03-25 | 2023-03-25 |
 | [paredes](https://open.spotify.com/track/7x3jLfAF7sN5C8dDLD4V6b) | [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX), [Paco Leiva](https://open.spotify.com/artist/2UQJDHNI1VGBhkHfbjeco3) | [paredes](https://open.spotify.com/album/0PBkxpGOXvB24zc9fXE6HU) | 3:17 | 2022-03-25 | 2023-03-25 |
+| [parásito \- live session](https://open.spotify.com/track/4KFVDyGi9aQjzSU6xlWNh8) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [dvlp \(live session\)](https://open.spotify.com/album/5fUgJoEeP2CZdGVrW5fuhM) | 4:17 | 2025-11-21 |  |
 | [Película](https://open.spotify.com/track/4R8JF3mYzm28iU8AbibPJO) | [Perras on the beach](https://open.spotify.com/artist/0mSn9qsGHUMllx267A3qX3) | [Película](https://open.spotify.com/album/1d4vNIf3aUIH4W6xjk7pfr) | 1:59 | 2022-03-25 | 2023-03-25 |
 | [Penso a te](https://open.spotify.com/track/0aKzj1pp5jtEUPf7uV0cvB) | [Las Cosas Que Pasan](https://open.spotify.com/artist/1ZqvJubgvceHoBn0ccE5oO), [Calcutta ](https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r) | [Penso a te](https://open.spotify.com/album/5v0doOxorR4wQe3QU2ax6j) | 3:35 | 2022-03-25 | 2023-03-25 |
 | [Perro](https://open.spotify.com/track/3klpuNXDpi8PyuOZ95hn8P) | [Blanco Teta](https://open.spotify.com/artist/2jHbb2xaFQ1CjUnE8RJeWT) | [Rompe Paga](https://open.spotify.com/album/6DYe8eqt3a00JVrDiXAAdB) | 3:02 | 2023-06-02 | 2024-06-07 |
@@ -228,12 +229,13 @@
 | [Pussy Pancake](https://open.spotify.com/track/0EGe09LoBpYKRXQaoOltXM) | [Kill Flora](https://open.spotify.com/artist/618OuvXwIUhB0xE7XnCiwe) | [Pussy Pancake](https://open.spotify.com/album/22gi3ijlL33ge8zqEBV6F0) | 2:36 | 2023-08-18 | 2024-08-24 |
 | [Pájaros](https://open.spotify.com/track/40r8exebu3RCPZsM8CGUly) | [Suarez](https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n), [Julieta Salas](https://open.spotify.com/artist/3hD02itkArv5tzcKIZYpgt) | [Por última vez](https://open.spotify.com/album/6551YKhH5mVEgrJhLIWTar) | 2:57 | 2022-03-25 | 2023-03-25 |
 | [que se la banquen](https://open.spotify.com/track/1SDALVQe638r5X8r0NfAaJ) | [reybruja](https://open.spotify.com/artist/1w9Zl7p0JQAYAf9lmDGMYz) | [que se la banquen](https://open.spotify.com/album/2RggQwKLfVqYbNM06FDQam) | 2:26 | 2025-03-14 |  |
+| [Querido chico](https://open.spotify.com/track/3jyCGPvVavcRnvOMvlJOOO) | [Nina Suárez](https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV) | [Querido chico](https://open.spotify.com/album/3Qh9uYKdwMnhZLXdI0BZsu) | 2:50 | 2025-11-21 |  |
 | [Qué me importa](https://open.spotify.com/track/24h868TwxJicgv2geeijAv) | [Pelopincho](https://open.spotify.com/artist/14V8tDnnDCXIVaJctOamBG) | [Loop Adolescente](https://open.spotify.com/album/1OGDMGGnVTOkj8NxpvMMMb) | 2:33 | 2022-03-25 | 2023-03-25 |
 | [Qué Más Puedo Hacer?](https://open.spotify.com/track/3msrD4D95JLz00h5Q9rNHI) | [El Club Audiovisual](https://open.spotify.com/artist/1YZnktJjGKEbhQBcpQQjQ7) | [El Club Audiovisual](https://open.spotify.com/album/6lQhvKS0pAvBzG54hATdiQ) | 2:52 | 2023-08-11 | 2024-03-23 |
 | [RA](https://open.spotify.com/track/6s5Q819P0zK4VJi6nvkDJv) | [Dum Chica](https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX) | [SÚPER PREMIUM ULTRA](https://open.spotify.com/album/3iotVnhWSsVoihTEsXFobV) | 3:24 | 2024-09-13 |  |
 | [Regalos](https://open.spotify.com/track/4VepBt1iPtAl252OTVWqzM) | [Cometas](https://open.spotify.com/artist/32239AWhqRXbc7gxJNounF) | [Regalos](https://open.spotify.com/album/6oAFSyabc4tjftTMDIwkyO) | 3:30 | 2023-06-30 |  |
 | [Revolución](https://open.spotify.com/track/5CNE2KaVa7x3H5lGJOM132) | [La Memoria de Funes](https://open.spotify.com/artist/196UkdPtwBYw7eJeZ7W8GF) | [Revolución](https://open.spotify.com/album/3YrjpZoeTshiFMkXlwG4Yr) | 2:17 | 2024-07-12 | 2025-02-07 |
-| [Sal chivo](https://open.spotify.com/track/4pBjPkFU6AVk4WBdljdMm7) | [Blanco Teta](https://open.spotify.com/artist/2jHbb2xaFQ1CjUnE8RJeWT) | [Sal chivo](https://open.spotify.com/album/6n85JjMfghPhCttGoo9U6p) | 3:21 | 2024-06-06 |  |
+| [Sal chivo](https://open.spotify.com/track/4pBjPkFU6AVk4WBdljdMm7) | [Blanco Teta](https://open.spotify.com/artist/2jHbb2xaFQ1CjUnE8RJeWT) | [Sal chivo](https://open.spotify.com/album/6n85JjMfghPhCttGoo9U6p) | 3:21 | 2024-06-06 | 2025-11-21 |
 | [Salir del Confort](https://open.spotify.com/track/4ObAtoz13OZ8uN2g5ADVyX) | [Fonso](https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4), [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Salir del Confort](https://open.spotify.com/album/2uk2MSf9s40VYEMD3C3CM5) | 3:16 | 2023-08-25 |  |
 | [SALTEMOS MOLINETES](https://open.spotify.com/track/5zwfDBnoWSMDUeIaefJvQH) | [MUGRE](https://open.spotify.com/artist/2mJNVPV7WxtrVrPSddTW6V) | [SALTEMOS MOLINETES](https://open.spotify.com/album/3BlTPafpEOmDaCLdQAoyat) | 2:46 | 2024-03-08 | 2024-07-06 |
 | [San Juan](https://open.spotify.com/track/6DEYeMOEYnd0G5cKMrubRd) | [Tigre Ulli](https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v) | [San Juan](https://open.spotify.com/album/0yTWbDuC3kIwhLwd4SlKnl) | 3:45 | 2023-05-12 |  |

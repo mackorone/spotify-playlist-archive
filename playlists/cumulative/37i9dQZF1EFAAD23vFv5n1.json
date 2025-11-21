@@ -2067,6 +2067,24 @@
     },
     {
       "album": {
+        "name": "oknottobeok",
+        "url": "https://open.spotify.com/album/6VxW8HoG07L55CSUj5Zl0P"
+      },
+      "artists": [
+        {
+          "name": "okgiorgio",
+          "url": "https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204788,
+      "name": "oknottobeok",
+      "url": "https://open.spotify.com/track/7owtcHApLWsEOzMHnqtmDp"
+    },
+    {
+      "album": {
         "name": "ok",
         "url": "https://open.spotify.com/album/1w7C8fTWGQu5QhHdS5B7pi"
       },

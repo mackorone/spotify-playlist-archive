@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Gr\u00fcezi! This is 100% made in Switzerland.  Cover: Linda Elys",
+  "description": "Gr\u00fcezi! This is 100% made in Switzerland.  Cover: Zo\u00eb M\u00eb",
   "name": "Swiss Made",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 169035,
       "name": "13 Juwele",
       "url": "https://open.spotify.com/track/1qNioJrOIFUj3oTZiI52up"
@@ -1198,7 +1198,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 171696,
       "name": "Can't Be Loved",
       "url": "https://open.spotify.com/track/69H5EfyNRLIKd0WAPNQr0T"
@@ -2130,7 +2130,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 223624,
       "name": "Emily",
       "url": "https://open.spotify.com/track/4cpbe6NFv4D6ZhhseFxzbn"
@@ -2970,6 +2970,24 @@
       "duration_ms": 129862,
       "name": "half alive",
       "url": "https://open.spotify.com/track/4D97vUbwdhzXDMQi5fu62d"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb M\u00eb",
+          "url": "https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186064,
+      "name": "Hamsterrad Tristesse",
+      "url": "https://open.spotify.com/track/36NZxmvPCbT7RAyyKiC4TA"
     },
     {
       "album": {
@@ -6621,6 +6639,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Amaya Gloor",
+          "url": "https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181293,
+      "name": "Somebody Loves You",
+      "url": "https://open.spotify.com/track/6R6WMZllL7ZxfRjrK8v1sn"
+    },
+    {
+      "album": {
         "name": "What if It All Works Out",
         "url": "https://open.spotify.com/album/7hko53MusmAbvlXYlFtIxA"
       },
@@ -7192,6 +7228,24 @@
       "duration_ms": 181043,
       "name": "The Years of the in Between",
       "url": "https://open.spotify.com/track/1pHCmwclPk8KYrOgTZURp3"
+    },
+    {
+      "album": {
+        "name": "There For You",
+        "url": "https://open.spotify.com/album/1jPj2x2a2UJCRuTR95u3Vv"
+      },
+      "artists": [
+        {
+          "name": "Linda Elys",
+          "url": "https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205755,
+      "name": "There For You",
+      "url": "https://open.spotify.com/track/1gKgTg56snx9gfwyuJFogz"
     },
     {
       "album": {

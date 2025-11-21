@@ -4,7 +4,7 @@
 
 > New music by De La Rose, Beéle,  and more! Updates every Friday.
 
-10,941 songs - 23 day 18 hr 34 min
+10,942 songs - 23 day 18 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -9825,6 +9825,7 @@
 | [Tormenta \(feat\. Bad Bunny\)](https://open.spotify.com/track/38UYeBLfvpnDSG9GznZdnL) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Cracker Island](https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan) | 3:13 | 2023-02-24 | 2023-03-04 |
 | [TORO](https://open.spotify.com/track/1fnQGR72fCePrSjdD4XZpt) | [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [Toro](https://open.spotify.com/album/3r2ezgmQBn4LdV2HNyo7y2) | 4:14 | 2022-10-07 | 2022-10-15 |
 | [Toronto](https://open.spotify.com/track/2HoDXiTgzmcNiY1Pich8cP) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA), [Persy](https://open.spotify.com/artist/16UPUknt50G7mlDv6ciCna) | [Toronto](https://open.spotify.com/album/1QOr09jMkuAzns6EAxUkr0) | 3:52 | 2023-01-27 | 2023-02-04 |
+| [Toronto](https://open.spotify.com/track/0nvg8vlz0qO47rkgOdVMwc) | [Nandé](https://open.spotify.com/artist/6Un4KvR9qpqYK1cS7jdiz2), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Guaco](https://open.spotify.com/artist/5v3TYN6Mmi5vxV2uSOfXot) | [Toronto](https://open.spotify.com/album/5JUO2EXajZrdNfB9MrJu9W) | 3:18 | 2025-11-14 |  |
 | [Torre Infiel](https://open.spotify.com/track/7qtE7Ib7SIRDDZnRVEqjts) | [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ) | [Torre Infiel](https://open.spotify.com/album/6lUn3cb3PApIx1LX0PeLnO) | 3:09 | 2024-10-11 | 2024-10-19 |
 | [Tortura](https://open.spotify.com/track/5sgXFYthNSatpAyZ64QVs2) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Tortura](https://open.spotify.com/album/6etfz9ZOgLi6EMY7O5LxDg) | 2:12 | 2024-03-15 | 2024-03-23 |
 | [Tos](https://open.spotify.com/track/5oE3AGKAGWNfTqOsYn4bHJ) | [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj), [Haraca Kiko](https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh) | [Tos](https://open.spotify.com/album/2JEquzUq4DFw2agD2Gj5zE) | 2:38 | 2022-03-04 | 2022-03-12 |

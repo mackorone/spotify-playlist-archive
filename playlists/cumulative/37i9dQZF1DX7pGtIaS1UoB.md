@@ -4,7 +4,7 @@
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-439 songs - 1 day 1 hr 42 min
+440 songs - 1 day 1 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,7 +179,7 @@
 | [壞的可愛 \(feat\. 言奕\)](https://open.spotify.com/track/3nWXCMtQOqQFR82CKgGMqZ) | [洗菜](https://open.spotify.com/artist/0pk1JDsCVVVXe5qtloVoCW), [言奕](https://open.spotify.com/artist/5XSlxl84NQKJWopXCFJv0f) | [壞的可愛 \(feat\. 言奕\)](https://open.spotify.com/album/12nZEMXBArLXhrwBSPCLHb) | 3:11 | 2023-03-20 | 2023-03-28 |
 | [夏色17号\-比尔的歌](https://open.spotify.com/track/5Dr6LweBUX9A0w4Fm0oaB0) | [Bomb比尔](https://open.spotify.com/artist/3Sb1u6CGLCWHHphMqX326E), [不是花火呀](https://open.spotify.com/artist/5CxdR3VSEWjiAa5DabdLVd) | [夏色17号\-比尔的歌](https://open.spotify.com/album/0ZO8r4sN5eymZG4YMozKT1) | 3:13 | 2022-08-29 | 2022-10-17 |
 | [多想多想](https://open.spotify.com/track/1hHKchWlXB2opV42Ob2fNn) | [Evelyn Jiang](https://open.spotify.com/artist/6zb3HsIgT0wFAq1Puw89yI) | [多想多想](https://open.spotify.com/album/6euI87H9LIyHgttHS47G9g) | 3:45 | 2025-05-22 | 2025-07-16 |
-| [多想要給你我的愛](https://open.spotify.com/track/4nF5bO53yo6JWN0K9rrFZq) | [Lil RAD](https://open.spotify.com/artist/02eMETTb4dkr9wE0utyggc), [斑恩Ben](https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ) | [多想要給你我的愛](https://open.spotify.com/album/7sptJfmA71o8mztzZEz419) | 2:47 | 2024-11-14 |  |
+| [多想要給你我的愛](https://open.spotify.com/track/4nF5bO53yo6JWN0K9rrFZq) | [Lil RAD](https://open.spotify.com/artist/02eMETTb4dkr9wE0utyggc), [斑恩Ben](https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ) | [多想要給你我的愛](https://open.spotify.com/album/7sptJfmA71o8mztzZEz419) | 2:47 | 2024-11-14 | 2025-11-21 |
 | [天亮請睜眼 \- 《終極狼人殺》遊戲主題曲](https://open.spotify.com/track/6XTDYHfU1eRG1VrK7VHQnZ) | [Nine Chen](https://open.spotify.com/artist/4MMQmzYiUiuD8VwjrJu3v6), [Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy) | [天亮請睜眼](https://open.spotify.com/album/2hQjMlItrDWJCmWj8zyJFu) | 3:12 | 2024-04-15 | 2024-07-23 |
 | [天使見證的愛情](https://open.spotify.com/track/46k8JnUuYVu8yWtC3VN8wo) | [蕭秉治](https://open.spotify.com/artist/0Ej4GfzIcW3dWP0rC5d4x1), [ERIKA](https://open.spotify.com/artist/3cuZA22vz0nToT0LAcecup) | [凡人](https://open.spotify.com/album/1MZZXzwEPXBvwG29dpGCDZ) | 3:23 | 2022-06-27 | 2022-07-28 |
 | [天气预报](https://open.spotify.com/track/29PXFwJJJhbv3qSvW1GD0H) | [Cindy大蟠桃子](https://open.spotify.com/artist/3bdkqX2OKcnxvqnG5DmBSH) | [天气预报](https://open.spotify.com/album/5GJpp6vX5tAvJhzV0HWptC) | 2:51 | 2022-10-04 | 2023-02-02 |
@@ -335,6 +335,7 @@
 | [沒問題](https://open.spotify.com/track/6gcHyODO5PtwxkIB26OSMe) | [Ken Deng 肯鄧](https://open.spotify.com/artist/67WEyeIvKyJEX30EzqrXoC), [Queen Wei](https://open.spotify.com/artist/31o2LJ3ZpFgb4WMZzC1gOR) | [偷心總動員](https://open.spotify.com/album/1LMAlj23koO7SFSnaUfgko) | 4:05 | 2023-08-28 | 2023-09-19 |
 | [沒有防備](https://open.spotify.com/track/4o1VLDG427usXtT9rk2EO5) | [斑恩Ben](https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ) | [沒有防備](https://open.spotify.com/album/1ZabWvUeTv49eJCdwHGCqH) | 3:15 | 2025-08-28 |  |
 | [浪漫主义](https://open.spotify.com/track/6v2j7JBjWmERbzCujd9Rci) | [Angelloweee](https://open.spotify.com/artist/3VKXShqcZPqG6OPlvIAQ7t), [Layla Sania](https://open.spotify.com/artist/7cgAsD4dJVqN4ckWT9jbEK) | [浪漫主义](https://open.spotify.com/album/3aHrTxbzVWe1puIJfGF64m) | 3:41 | 2023-02-27 | 2023-03-16 |
+| [浪漫主意](https://open.spotify.com/track/43OtONkkpQsJkOqZd6hdF0) | [Ozone](https://open.spotify.com/artist/1Lu3G3NqWACIUAcq9r30t1) | [浪漫主意](https://open.spotify.com/album/1obAdjTU5cy11BMIOpBHAo) | 3:31 | 2025-11-20 |  |
 | [海绵宝宝](https://open.spotify.com/track/3yZFL4pKWue0I8ru6mmxqX) | [Silence Wang](https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60) | [海绵宝宝](https://open.spotify.com/album/0Uz8fFtCbhG27CwfUqzKv1) | 3:18 | 2022-08-08 | 2023-05-08 |
 | [海绵宝宝](https://open.spotify.com/track/71dfmgOUiooQLv7ty0utOO) | [Silence Wang](https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60) | [海绵宝宝](https://open.spotify.com/album/5W7iavXoJXfMRL9rhTQWCi) | 3:18 | 2023-06-05 | 2024-04-19 |
 | [海绵宝宝](https://open.spotify.com/track/7kKXZL7nkWcm7wx8zNqwNc) | [Silence Wang](https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60) | [海绵宝宝](https://open.spotify.com/album/7GKyJqtbiA17PS4COyAwfd) | 3:18 | 2022-06-06 | 2022-07-28 |

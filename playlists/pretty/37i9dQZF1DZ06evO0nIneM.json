@@ -1,12 +1,12 @@
 {
   "description": "This is BL\u00d8F. The essential tracks, all in one playlist.",
-  "num_followers": 92596,
+  "num_followers": 92621,
   "original_name": "This Is BL\u00d8F",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRu3AAAAAADINEsDpr33p6hCRGg3ar5x",
+  "snapshot_id": "aR0IgAAAAAB2rrq3RpdVaeaUIamzuOVJ",
   "tracks": [
     {
       "added_at": null,
@@ -147,22 +147,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aan",
-        "url": "https://open.spotify.com/album/0tTV2cKaA2TXTUOE642C59"
+        "name": "Ik Besta Voor Altijd Zolang Jij Aan Mij Denkt",
+        "url": "https://open.spotify.com/album/0g6FAxEKgMT5mZMQuEVAQ3"
       },
       "artists": [
         {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+          "name": "S10",
+          "url": "https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK"
         },
         {
-          "name": "Geike",
-          "url": "https://open.spotify.com/artist/5mkzx9Hq5mYTx1LZ0CUGiP"
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
         }
       ],
-      "duration_ms": 223266,
-      "name": "Zoutelande (feat. Geike)",
-      "url": "https://open.spotify.com/track/7MOX3ibncypw3xGb4HZVFA"
+      "duration_ms": 238083,
+      "name": "Laat Me Los",
+      "url": "https://open.spotify.com/track/1G7e24hHShCgVSDrtu9k9k"
     },
     {
       "added_at": null,
@@ -187,22 +187,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ik Besta Voor Altijd Zolang Jij Aan Mij Denkt",
-        "url": "https://open.spotify.com/album/0g6FAxEKgMT5mZMQuEVAQ3"
+        "name": "Aan",
+        "url": "https://open.spotify.com/album/0tTV2cKaA2TXTUOE642C59"
       },
       "artists": [
         {
-          "name": "S10",
-          "url": "https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK"
-        },
-        {
           "name": "BL\u00d8F",
           "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        },
+        {
+          "name": "Geike",
+          "url": "https://open.spotify.com/artist/5mkzx9Hq5mYTx1LZ0CUGiP"
         }
       ],
-      "duration_ms": 238083,
-      "name": "Laat Me Los",
-      "url": "https://open.spotify.com/track/1G7e24hHShCgVSDrtu9k9k"
+      "duration_ms": 223266,
+      "name": "Zoutelande (feat. Geike)",
+      "url": "https://open.spotify.com/track/7MOX3ibncypw3xGb4HZVFA"
     },
     {
       "added_at": null,
@@ -555,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Omarm",
+        "url": "https://open.spotify.com/album/6oVjwkupd3MfWrNgH1pCKv"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 244960,
+      "name": "Misschien Niet De Eeuwigheid",
+      "url": "https://open.spotify.com/track/2yKrrSrt9PTVqDcBCedsoD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Omarm Me",
         "url": "https://open.spotify.com/album/1J2wWTUg6W725iYZPO8H0h"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 232425,
       "name": "Omarm Me",
       "url": "https://open.spotify.com/track/1lWBPQBghFHdpLbE6UnNc6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Omarm",
-        "url": "https://open.spotify.com/album/6oVjwkupd3MfWrNgH1pCKv"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 244960,
-      "name": "Misschien Niet De Eeuwigheid",
-      "url": "https://open.spotify.com/track/2yKrrSrt9PTVqDcBCedsoD"
     },
     {
       "added_at": null,
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Umoja",
-        "url": "https://open.spotify.com/album/09epXZm5KJ3IdblOCILVyt"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 236493,
-      "name": "Mens",
-      "url": "https://open.spotify.com/track/1cEQ3t7L77oUXsdSIBN0V0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "We doen wat we kunnen (feat. Geike)",
         "url": "https://open.spotify.com/album/6OFRhULTO9UJf1yk7v9XfZ"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 240562,
       "name": "We doen wat we kunnen (feat. Geike) - Single Edit",
       "url": "https://open.spotify.com/track/5Bzuagyvt3iOyI7CgNTj9x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Umoja",
+        "url": "https://open.spotify.com/album/09epXZm5KJ3IdblOCILVyt"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 236493,
+      "name": "Mens",
+      "url": "https://open.spotify.com/track/1cEQ3t7L77oUXsdSIBN0V0"
     },
     {
       "added_at": null,

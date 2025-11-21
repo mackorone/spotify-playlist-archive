@@ -4,7 +4,7 @@
 
 > Wat kan het Nederlands toch mooi zijn\. Cover: Herman van Veen & Gerson Main
 
-234 songs - 14 hr 14 min
+236 songs - 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,7 @@
 | [Liefde Van Later](https://open.spotify.com/track/06IedMIA8r8jSgWzGcW6o5) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh) | [20 Jaar Herman Van Veen \- In Vogelvlucht](https://open.spotify.com/album/5YVe7mgjlq0FThqEIgo1ze) | 4:12 | 2024-03-22 | 2025-11-04 |
 | [Liefde Van Later](https://open.spotify.com/track/2x7ltK4hyYsRUALOqlKFk7) | [Paskal Jakobsen](https://open.spotify.com/artist/22shUi37uDfZmZQ8H6YuWr) | [Liefde Van Later](https://open.spotify.com/album/1vA8Pw95YH4zNCxOPaM1Zm) | 4:43 | 2024-03-14 |  |
 | [Lijn](https://open.spotify.com/track/0HOrDesxpndcI38kujDxei) | [Eric Corton](https://open.spotify.com/artist/0MBeoJ5pWZwyXWuEBmq9Qv), [Maaike Ouboter](https://open.spotify.com/artist/51jBhM2gW17sCGLI1eBkDn) | [Lijn](https://open.spotify.com/album/23nU1k5lNa9KG0Ifgzvnzf) | 2:38 | 2025-02-20 |  |
-| [Lindeboom](https://open.spotify.com/track/3XEMH6bcN5yI3ALWRwyfcq) | [Brent Beukelaer](https://open.spotify.com/artist/1Ngq1CTE4lYGXg2OBWfhVg) | [Ramen Als Ogen](https://open.spotify.com/album/3aMPLrQQ4vk5VaQie7Pjmj) | 4:09 | 2024-05-31 |  |
+| [Lindeboom](https://open.spotify.com/track/3XEMH6bcN5yI3ALWRwyfcq) | [Brent Beukelaer](https://open.spotify.com/artist/1Ngq1CTE4lYGXg2OBWfhVg) | [Ramen Als Ogen](https://open.spotify.com/album/3aMPLrQQ4vk5VaQie7Pjmj) | 4:09 | 2024-05-31 | 2025-11-21 |
 | [Los](https://open.spotify.com/track/35LMuMdS0uonMULXeGfQcV) | [Meis](https://open.spotify.com/artist/5F2t3lvOUglnG8ZqUUWDKW), [Klangstof](https://open.spotify.com/artist/25lIYhqIj0R1AnnmqsTrtO) | [Los](https://open.spotify.com/album/7tzQmiWfCA5vCFaaYMpBog) | 4:02 | 2023-07-20 | 2024-03-05 |
 | [Luie Liefde](https://open.spotify.com/track/4afcjiDL53xe9M7eU4r74E) | [Vreemde Kostgangers](https://open.spotify.com/artist/5uLY3PL1Mrj4kusy2LOXMd) | [Luie Liefde](https://open.spotify.com/album/2zMMiH7rxlW1WbSqT2gsvn) | 3:02 | 2023-02-10 | 2023-04-26 |
 | [Mag Ik Alsjeblieft \(In Het Wiel II\)](https://open.spotify.com/track/7De0CL6kj5lJ2xFtwIBoin) | [Leo Alkemade](https://open.spotify.com/artist/0dhYbvBvHUyhMTeoqwvus1) | [Mag Ik Alsjeblieft \(In Het Wiel II\)](https://open.spotify.com/album/6I5Q1NF4WrhiQf9F2rFpiX) | 3:26 | 2024-07-05 | 2025-03-14 |
@@ -187,6 +187,7 @@
 | [Schaduw](https://open.spotify.com/track/51K5jkPVyjP4jcqPcfBTYl) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G), [Abel](https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ) | [Schaduw](https://open.spotify.com/album/66mkzk0QFKvP4BalRxe8ZR) | 3:36 | 2025-06-05 |  |
 | [Spring erin!](https://open.spotify.com/track/1euooYf6ATjv6fVplDQw0A) | [Fanny](https://open.spotify.com/artist/7zr2Ni9ndVqr0UwBT4K6pe) | [Spring erin!](https://open.spotify.com/album/0e4O3V0RxMq8TbuBq6303i) | 3:34 | 2025-02-07 | 2025-10-22 |
 | [Stap Voor Stap](https://open.spotify.com/track/6x8y52msTAuUrGpXjkrYKG) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Stap Voor Stap](https://open.spotify.com/album/0gDWnkxZ44kcBdizwd12qT) | 3:53 | 2023-02-10 | 2023-10-13 |
+| [Stilte](https://open.spotify.com/track/4NT1xPFPqQfjVgPgNifPBY) | [Merle](https://open.spotify.com/artist/6y2VqVMyiZAAQpA4lSCBu0) | [Stilte](https://open.spotify.com/album/0UupZY6rtG3oVXVwUksxCL) | 2:30 | 2025-11-20 |  |
 | [Stilte Na De Storm](https://open.spotify.com/track/6wkKgQuU44VWkWD7A4Y2mv) | [The Kik](https://open.spotify.com/artist/5vEW6oifezRitpxbykJSw8) | [Stilte Na De Storm](https://open.spotify.com/album/1edANTaXlVj17VXFPOG04b) | 3:33 | 2023-02-10 | 2023-04-26 |
 | [Straks](https://open.spotify.com/track/7AFTRQtshBcHlTTzuvk2Ig) | [Stephanie Struijk](https://open.spotify.com/artist/2D2KkoPYCe9SDUQwp6G8ff) | [Dezelfde Zon](https://open.spotify.com/album/0W4OKFFc9K9IqXpvxUpemx) | 2:16 | 2024-01-11 | 2024-07-24 |
 | [Suzanne](https://open.spotify.com/track/1BNp77RjuxC9koWD67CNiL) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh) | [20 Jaar Herman Van Veen \- In Vogelvlucht](https://open.spotify.com/album/5YVe7mgjlq0FThqEIgo1ze) | 3:59 | 2023-02-10 | 2024-03-23 |
@@ -219,11 +220,12 @@
 | [Vrouw Van De Dominee \- Live @ Radio Veronica](https://open.spotify.com/track/5Lotjy3vbmJtH0DCIRxSDo) | [Thijs Boontjes](https://open.spotify.com/artist/7Hx2t9BIWDlr3Bpd6eWmei) | [Vrouw van de Dominee \(Live @ Radio Veronica\)](https://open.spotify.com/album/5AC8CHQPpGp4lNjq6NoWZT) | 2:56 | 2023-06-30 | 2023-12-14 |
 | [Waaier Van Kleur](https://open.spotify.com/track/0QIVqyFwSXMwBXUm0Cl09R) | [Krystl](https://open.spotify.com/artist/7eacKV5WqetV2IZTDrwKhi) | [Waaier Van Kleur](https://open.spotify.com/album/4U6cvJODgTKW316XHSdMpW) | 3:31 | 2025-04-25 |  |
 | [Wandel Naar Mezelf](https://open.spotify.com/track/2Sy2rs0LePigyLngKdYugM) | [Krystl](https://open.spotify.com/artist/7eacKV5WqetV2IZTDrwKhi) | [Wandel Naar Mezelf](https://open.spotify.com/album/63Z0OfQDfPLmBlqSHLvqp5) | 3:48 | 2023-12-05 | 2024-05-10 |
-| [Wanneer](https://open.spotify.com/track/1cJ5aNJYaGZ9YHfoNacbYi) | [Yentl en de Boer](https://open.spotify.com/artist/5wMKGwFrXxoqKjTfrKOglE) | [Wanneer](https://open.spotify.com/album/2afs03ALxfQetAhXkZeiDu) | 4:01 | 2024-07-05 |  |
+| [Wanneer](https://open.spotify.com/track/1cJ5aNJYaGZ9YHfoNacbYi) | [Yentl en de Boer](https://open.spotify.com/artist/5wMKGwFrXxoqKjTfrKOglE) | [Wanneer](https://open.spotify.com/album/2afs03ALxfQetAhXkZeiDu) | 4:01 | 2024-07-05 | 2025-11-21 |
 | [Wat als](https://open.spotify.com/track/1jyiIEznDTr5rVwI5uXlGR) | [Claudia De Breij](https://open.spotify.com/artist/30bxeFCSr3KfbhE4KO5H2o) | [Wat als](https://open.spotify.com/album/2IakNQk8chNHCx15tEEAPN) | 2:56 | 2025-05-08 |  |
 | [Wat Als Later Nu Is](https://open.spotify.com/track/0jYNaO3cN6Fpkxe9VzYCUK) | [Rob De Nijs](https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K) | [‘t Is Mooi Geweest](https://open.spotify.com/album/25TYuXkyQpV3ykpbggkGIj) | 3:38 | 2023-02-10 | 2023-12-14 |
 | [Wat Een Dag](https://open.spotify.com/track/1w5D5Ib5VBJu94v6fyzw6w) | [Nol Havens](https://open.spotify.com/artist/7wPy6YZoLBYA5dBDpXEkqG) | [Wat Een Dag](https://open.spotify.com/album/74retVUCzvEwPP20Z2Jhle) | 2:45 | 2023-02-10 | 2023-03-09 |
 | [Wat rest van je tijd](https://open.spotify.com/track/690HQ2MncCTel24PljUIC9) | [Trijntje Oosterhuis](https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb), [Hans Vroomans](https://open.spotify.com/artist/2KvJJ4ntMldtYNia7SvlBb) | [De seizoenen van Legrand](https://open.spotify.com/album/3m5MsIbhHgMi5z2sAdxsvW) | 5:52 | 2023-02-10 | 2023-07-21 |
+| [We Doen Alsof](https://open.spotify.com/track/0LJ1hlleIO9JARlO2eyo2g) | [Maaike Ouboter](https://open.spotify.com/artist/51jBhM2gW17sCGLI1eBkDn) | [We Doen Alsof](https://open.spotify.com/album/3gOXgH4AVBI1dpnKHoxT8x) | 4:06 | 2025-11-20 |  |
 | [We Zijn Zo Jong](https://open.spotify.com/track/2WLeRA7JmcfiNTEmwVPvaR) | [Aafke Romeijn](https://open.spotify.com/artist/7JXt7NDSPYN39EDLs58huE) | [We Zijn Zo Jong](https://open.spotify.com/album/3UXzxYxaNa79mgiMXMjLvH) | 3:47 | 2024-07-18 | 2024-09-27 |
 | [Weg uit Nederland](https://open.spotify.com/track/28UygHbdYKz1IJwzt1MfEc) | [Leonie Meijer](https://open.spotify.com/artist/2yAKMlQWwUyDSDly68F3ve) | [Weg uit Nederland](https://open.spotify.com/album/4OjNZnxk3IANfpvbjMQiz1) | 3:52 | 2025-05-22 | 2025-07-18 |
 | [Wie ben ik \(feat\. Red Limo Quartet\)](https://open.spotify.com/track/0Xo7vPmbVFIEgcyMHNH5sa) | [3JS](https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV), [Red Limo Quartet](https://open.spotify.com/artist/2rdJcBg2tEvmo0lVpYDizQ) | [Wie ben ik \(feat\. Red Limo Quartet\)](https://open.spotify.com/album/0ZS7oHN6GyQfWcu6WHj6xm) | 3:45 | 2024-01-25 | 2024-03-08 |

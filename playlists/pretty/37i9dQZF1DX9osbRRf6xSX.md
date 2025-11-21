@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9osbRRf6xSX.md) - [plain]
 
 > Dos de los más grandes, frente a frente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,476 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,516 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9osbRRf6xSX.md) - [plain]
 | 12 | [Escándalo](https://open.spotify.com/track/3xbymP6jIcdN0O2PB420bz) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Ave Fénix](https://open.spotify.com/album/4aStIaNBxADfhovPLw7LUO) | 5:04 |
 | 13 | [La Carretera](https://open.spotify.com/track/7pjtYZml30McGVL6Lk5bMh) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [La Carretera](https://open.spotify.com/album/0vFSO7fbNCzvQiT47MSqh4) | 4:41 |
 | 14 | [Estar enamorado](https://open.spotify.com/track/2vh3jeYAeR50YuigR7mGwo) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [En carne viva](https://open.spotify.com/album/18duCh9suTyPY4xB85bFao) | 4:54 |
-| 15 | [Por El Amor De Una Mujer](https://open.spotify.com/track/7010oiDHpfwrZoYNxqgfoI) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [A Flor De Piel](https://open.spotify.com/album/3YAtD5obf0a1E2NHjZ8A8K) | 3:49 |
+| 15 | [Por El Amor De Una Mujer](https://open.spotify.com/track/7010oiDHpfwrZoYNxqgfoI) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [A Flor De Piel](https://open.spotify.com/album/3YAtD5obf0a1E2NHjZ8A8K) | 3:48 |
 | 16 | [Qué sabe nadie](https://open.spotify.com/track/6k9IY8ZUD0wihrL4Ch7Upn) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [En carne viva](https://open.spotify.com/album/18duCh9suTyPY4xB85bFao) | 5:14 |
 | 17 | [Baila Morena](https://open.spotify.com/track/02U7Zu0vuIMMx4uioqjFiZ) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Mi Vida: Grandes Exitos](https://open.spotify.com/album/6dwBG2PX7oBd1syj2A5UUb) | 3:49 |
 | 18 | [Cuando tú no estás](https://open.spotify.com/track/0duR2G7phML0me43RTS39Z) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Canta...Raphael](https://open.spotify.com/album/0cm8e4rwLQq30D5Yvzdy0g) | 3:38 |
@@ -46,13 +46,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9osbRRf6xSX.md) - [plain]
 | 36 | [¿Y cómo es él?](https://open.spotify.com/track/7vZ7wRWLOMMZqKYK1jN6Nw) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Una vida de canciones](https://open.spotify.com/album/1PFJDPnHZuEwSlIbDy4G2c) | 4:10 |
 | 37 | [Quiereme Mucho \- Yours](https://open.spotify.com/track/1oBYY1qxWRkeYr94yl5rMS) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [The 24 Greatest Songs](https://open.spotify.com/album/4eDknqB3s1EYXcMB1OpE7G) | 4:06 |
 | 38 | [Toco madera](https://open.spotify.com/track/5nzKbabG1TH9MVizqQ2wTV) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Maravilloso Raphael](https://open.spotify.com/album/2oPRXNiOqeqRCig5ecRCmi) | 3:39 |
-| 39 | [Cu Cu Rru Cu Cu Paloma](https://open.spotify.com/track/4peXvhLT61oP9leXdPQ36B) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Mexico](https://open.spotify.com/album/3TLv9ogX8qpZcEFFr2V1BC) | 3:28 |
+| 39 | [Cu Cu Rru Cu Cu Paloma](https://open.spotify.com/track/4peXvhLT61oP9leXdPQ36B) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Mexico](https://open.spotify.com/album/3TLv9ogX8qpZcEFFr2V1BC) | 3:26 |
 | 40 | [En carne viva](https://open.spotify.com/track/6iEdu0AHILtJFqn6pxfwm2) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [En carne viva](https://open.spotify.com/album/18duCh9suTyPY4xB85bFao) | 4:08 |
 | 41 | [Vuela Alto](https://open.spotify.com/track/7mkZUPHg4BDQaBHaHtzgIb) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Mi Vida: Grandes Exitos](https://open.spotify.com/album/6dwBG2PX7oBd1syj2A5UUb) | 3:09 |
 | 42 | [La Fuerza Del Corazón \- Dueto / Remastered](https://open.spotify.com/track/5lYasRQnrWoOjPLLVD07TZ) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [50 Años Después \(Remastered\)](https://open.spotify.com/album/48Yvne1x8AANcjxZvuPirC) | 5:11 |
 | 43 | [La Cumparsita](https://open.spotify.com/track/2TscTCoQgLCYPkQ8PxGJo8) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [My Life: The Greatest Hits](https://open.spotify.com/album/21GSy4UKShEpEfrojAEK9U) | 2:33 |
 | 44 | [Ave María](https://open.spotify.com/track/6KQfVYIoXxjXNhqN4mehFy) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Una vida de canciones](https://open.spotify.com/album/1PFJDPnHZuEwSlIbDy4G2c) | 3:54 |
-| 45 | [Abrazame](https://open.spotify.com/track/4nqRbvEeGuV9jLCzC5OrMf) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [El Amor](https://open.spotify.com/album/5vejevOSlt0V2LUyliPM0w) | 3:31 |
+| 45 | [Abrazame](https://open.spotify.com/track/4nqRbvEeGuV9jLCzC5OrMf) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [El Amor](https://open.spotify.com/album/5vejevOSlt0V2LUyliPM0w) | 3:29 |
 | 46 | [Como Han Pasado Los Años \- Remastered](https://open.spotify.com/track/2DA49TuANlHIuGSnciLC8C) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8), [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [50 Años Después \(Remastered\)](https://open.spotify.com/album/48Yvne1x8AANcjxZvuPirC) | 3:46 |
 | 47 | [Un Canto a Galicia](https://open.spotify.com/track/6HmmqouTVceeKoUrZQhTH3) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Por Una Mujer](https://open.spotify.com/album/4z3KH9yRrR28QJf72eTEJ4) | 4:14 |
 | 48 | [Procuro olvidarte](https://open.spotify.com/track/4dK2f3HRUvEVvqdHLn9m9M) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Cerca de tí](https://open.spotify.com/album/0jUlTAhcK9RuM5DrGgRtK1) | 4:16 |

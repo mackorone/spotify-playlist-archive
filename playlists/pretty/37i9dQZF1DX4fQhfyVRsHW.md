@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fQhfyVRsHW.md) - [plain]
 
 > Lie back to calm music enhanced with the sounds of nature.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,717 likes - 183 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,760 likes - 183 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -192,4 +192,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fQhfyVRsHW.md) - [plain]
 | 182 | [Stillness](https://open.spotify.com/track/1x4OI6ufrImrBlO3DlEXWF) | [Pouring Voices](https://open.spotify.com/artist/30L9uyNQWZupRq65bHZfSF) | [Stillness](https://open.spotify.com/album/5mkclihPsbGFJBCEHWdU3K) | 3:08 |
 | 183 | [Green Dreams](https://open.spotify.com/track/5y7jjnINUxT2sz6t8xMJf7) | [Somnum Magnam](https://open.spotify.com/artist/5onmIZ1MD3z0KeVQ1gd5IP) | [Green Dreams](https://open.spotify.com/album/2EWJJsQKhPBmfUbsWBg5vh) | 2:53 |
 
-Snapshot ID: `AAAAAHgbs/RIFlqkfJJ6LTSRfDSc4wdQ`
+Snapshot ID: `AAAAACR83aBkCIWkHFTPCiZyyPKIr+UC`

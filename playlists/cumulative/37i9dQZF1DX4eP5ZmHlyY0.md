@@ -4,7 +4,7 @@
 
 > グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: BOYNEXTDOOR
 
-804 songs - 1 day 20 hr 2 min
+805 songs - 1 day 20 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [CBZ \(Prime time\)](https://open.spotify.com/track/0ofqcEBPdlyczRjUhjCiIS) | [BSS](https://open.spotify.com/artist/1uAT5bTSp6dWbNmixIUP5t) | [BSS 2nd Single Album ‘TELEPARTY’](https://open.spotify.com/album/4aVPbSv7GmCaa1qRxjpLSq) | 2:33 | 2025-03-06 | 2025-04-09 |
 | [CEREMONY](https://open.spotify.com/track/1GfRjLG3DivFZEr85b6k7G) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [KARMA](https://open.spotify.com/album/5ULZLn7Vv8TCeIpe0Uh2hO) | 2:44 | 2025-08-22 |  |
 | [Chameleon](https://open.spotify.com/track/33DkA0THiSLDZTRMlk3ByB) | [TRENDZ](https://open.spotify.com/artist/6Bmr9e9x44iib7equMj5Qj) | [Chameleon](https://open.spotify.com/album/14wBrRu7gwBuN5haV2HKmA) | 2:44 | 2025-05-02 | 2025-05-05 |
-| [CHAN\-RAN](https://open.spotify.com/track/0UoxcThas4J2ijiJ6Yivb6) | [IDID](https://open.spotify.com/artist/67PXCkgEZryiYFJw691hPn) | [I did it.](https://open.spotify.com/album/2wuV69PYaXXXG1NVC4wlcs) | 3:01 | 2025-09-15 |  |
+| [CHAN\-RAN](https://open.spotify.com/track/0UoxcThas4J2ijiJ6Yivb6) | [IDID](https://open.spotify.com/artist/67PXCkgEZryiYFJw691hPn) | [I did it.](https://open.spotify.com/album/2wuV69PYaXXXG1NVC4wlcs) | 3:01 | 2025-09-15 | 2025-11-21 |
 | [Change Over](https://open.spotify.com/track/2JRfZUbcIRazDW1ks6rXjD) | [DXTEEN](https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR) | [Change Over](https://open.spotify.com/album/01aW3aW9eebtggCgjObSvK) | 3:59 | 2025-07-15 | 2025-08-01 |
 | [Changer \- feat\. PKCZ\(R\)](https://open.spotify.com/track/7muBQV3cIVoqcFscncy9JY) | [MA55IVE THE RAMPAGE](https://open.spotify.com/artist/4WrhFhuiPWwEkbsRzAjMBk), [PKCZ\(R\)](https://open.spotify.com/artist/1Pzt7WyaiqfngZpWFA5Lts) | [Changer \[feat\. PKCZ\(R\)\]](https://open.spotify.com/album/3wQzZu4efdAd0fiWNZkgKE) | 3:03 | 2025-06-28 | 2025-07-08 |
 | [CHEAT](https://open.spotify.com/track/2Ih1mUbJmdMXf0lxMxZ2TO) | [Kis\-My\-Ft2](https://open.spotify.com/artist/4kxoWjOpCVYKgPv9nea95k) | [MAGFACT](https://open.spotify.com/album/2V7gt6rsTNyQedRSK1HPk2) | 3:29 | 2025-06-13 | 2025-06-18 |
@@ -507,6 +507,7 @@
 | [Pump It Up! feat\. TAKUMA THE GREAT](https://open.spotify.com/track/36tQVvEnWA4CfgJAQRNDDP) | [DA PUMP](https://open.spotify.com/artist/3NRXKeatDxKe4apH6XawKX), [Takuma the Great](https://open.spotify.com/artist/2VwCj19Ruz3bW7tF0KRJws) | [Pump It Up! feat\. TAKUMA THE GREAT](https://open.spotify.com/album/1M2kGI112t0hnGpUpqzw2y) | 3:29 | 2024-06-12 | 2024-07-10 |
 | [Purple Dawn](https://open.spotify.com/track/0okC5ms3JHc4Gywlc1LGop) | [KID PHENOMENON from EXILE TRIBE](https://open.spotify.com/artist/0fDuN5RNp3ysq68Zdz17MV) | [存在証明](https://open.spotify.com/album/5qNH1s1LqjukHAapYmvlMF) | 3:04 | 2023-11-28 | 2024-04-10 |
 | [Purple Pill feat\. SKY\-HI](https://open.spotify.com/track/1PbnZDxhi5DqUxtT3PXMfD) | [ØMI](https://open.spotify.com/artist/6hgAxdLyAScworv2mZucqK), [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2) | [Purple Pill feat\. SKY\-HI](https://open.spotify.com/album/1MSsDwGXCiErZzUn85TUOG) | 3:08 | 2024-06-25 | 2024-07-17 |
+| [PUSH BACK](https://open.spotify.com/track/2oXZU3GXBaz0NAeswRNZE2) | [IDID](https://open.spotify.com/artist/67PXCkgEZryiYFJw691hPn) | [PUSH BACK](https://open.spotify.com/album/4nXvS8bgDGnmpJ5144Tfk9) | 2:42 | 2025-11-20 |  |
 | [Push Down](https://open.spotify.com/track/58b0LN1yVrCmtoaoIy9jx1) | [TRENDZ](https://open.spotify.com/artist/6Bmr9e9x44iib7equMj5Qj) | [CANVAS](https://open.spotify.com/album/4GiBoD70ZczHOSTG8POWkW) | 2:30 | 2025-04-08 | 2025-09-09 |
 | [Put Your Hearts Up \- feat\. PKCZ\(R\)](https://open.spotify.com/track/3RIRAC776wec7SjwOVbylT) | [HONEST BOYZ\(R\)](https://open.spotify.com/artist/6CaiCjxA5ZVcsfF0ApJsG8), [PKCZ\(R\)](https://open.spotify.com/artist/1Pzt7WyaiqfngZpWFA5Lts) | [HBZ](https://open.spotify.com/album/31jRGQGhvoWErr4unFo1jL) | 2:29 | 2024-03-19 | 2024-04-03 |
 | [Put Your Hearts Up, Everybody Jump Up](https://open.spotify.com/track/5e3JBCj1pGvJ9RumYIAbx9) | [PKCZ\(R\)](https://open.spotify.com/artist/1Pzt7WyaiqfngZpWFA5Lts) | [Put Your Hearts Up, Everybody Jump Up](https://open.spotify.com/album/5Ip66t8ULaYtxfEPWZAteE) | 2:42 | 2024-05-28 | 2024-06-05 |

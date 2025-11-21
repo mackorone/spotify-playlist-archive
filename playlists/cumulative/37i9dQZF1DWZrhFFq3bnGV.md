@@ -2,9 +2,9 @@
 
 ### [Jazz Anak Negeri](https://open.spotify.com/playlist/37i9dQZF1DWZrhFFq3bnGV)
 
-> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Deredia
+> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Jo Soegono
 
-278 songs - 19 hr 17 min
+279 songs - 19 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Donny](https://open.spotify.com/track/0fIy9P9Sts9F4aAMDGjgty) | [NonaRia](https://open.spotify.com/artist/4nDYMMICeh9slbUCBTnmM2) | [Dengarkanlah Radio](https://open.spotify.com/album/23lPxeNP80h9f8ZC0jZ3o4) | 2:19 | 2024-07-11 |  |
 | [Donuts](https://open.spotify.com/track/1nZm5r1XiZlIng4uMVgQvu) | [Jordy Waelauruw](https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H), [Yance Manusama](https://open.spotify.com/artist/0bRoeRfOv39qIM4UbGj7Kw), [Marthin Siahaan](https://open.spotify.com/artist/4GznIPoYJetB7xvdCHRCDD), [Niel Larumunde](https://open.spotify.com/artist/2amko2icNCRZtpNVx67D2O), [Nael Larumunde](https://open.spotify.com/artist/4A5EugnDijRnEMmNYqpntT), [Grady Boanerges](https://open.spotify.com/artist/0bnPVgEHt7i6WBI3n5H1S7) | [Donuts](https://open.spotify.com/album/26ds8Q5NFxGkwQP163fJSb) | 5:44 | 2023-09-29 | 2025-02-07 |
 | [Dream Lulubye](https://open.spotify.com/track/14BlgC34sdKKTEvcuhMPOv) | [Adi Darmawan](https://open.spotify.com/artist/4tf4XhhTlovrEj01je6ozX), [Agam Hamzah](https://open.spotify.com/artist/0Q93JEJbQhqMkTZOvC764M) | [Dream Lulubye](https://open.spotify.com/album/1i43dJTiD4TFpcQ5p35J6g) | 6:30 | 2023-03-24 | 2024-08-02 |
+| [Dunia](https://open.spotify.com/track/7te1TuQxKFWrftuBuDjRu7) | [Jo Soegono](https://open.spotify.com/artist/4g10GFwD6GAtYbugb9Ur7p) | [Prof Jo](https://open.spotify.com/album/7z095HYTK1SgEbsg5RyqSE) | 3:43 | 2025-11-20 |  |
 | [Elevator Music](https://open.spotify.com/track/3JPlpg1N3G4wv5QrTOSjvR) | [Tripov](https://open.spotify.com/artist/7EAQd1uHunanyGbZenLe6h) | [Elevator Music](https://open.spotify.com/album/5AjKa0nb3p4CSPOpICdWNu) | 2:52 | 2025-09-11 |  |
 | [Embraceable You](https://open.spotify.com/track/3J0xvBAilIc8RbeNRcTIOj) | [Vanessa Shavonne](https://open.spotify.com/artist/4ITvgKI1DUW1wDPkWEycP9) | [Embraceable You](https://open.spotify.com/album/1GrxQBJFYVkFuvlmFW8cBX) | 5:25 | 2025-06-26 |  |
 | [Entah](https://open.spotify.com/track/5c8tb3bS3KtR0H56OnDKwj) | [Sisasa](https://open.spotify.com/artist/3xC683HyOA5mFKwuCyJDc1) | [Sisi Lain](https://open.spotify.com/album/49VL4XUeqZHjzOiWOxzi8R) | 4:36 | 2023-03-09 | 2025-09-12 |

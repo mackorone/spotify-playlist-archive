@@ -133,7 +133,7 @@
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 295893,
+      "duration_ms": 295282,
       "name": "Africa",
       "url": "https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX"
     },
@@ -277,7 +277,7 @@
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 255493,
+      "duration_ms": 256000,
       "name": "Back In Black",
       "url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj"
     },
@@ -839,7 +839,7 @@
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 241306,
+      "duration_ms": 245296,
       "name": "Dancing In the Dark",
       "url": "https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE"
     },
@@ -1567,7 +1567,7 @@
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 238266,
+      "duration_ms": 238120,
       "name": "Girls Just Want to Have Fun",
       "url": "https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe"
     },
@@ -1585,7 +1585,7 @@
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 254733,
+      "duration_ms": 258317,
       "name": "Glory Days",
       "url": "https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx"
     },
@@ -1657,7 +1657,7 @@
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 312293,
+      "duration_ms": 312815,
       "name": "Hells Bells",
       "url": "https://open.spotify.com/track/69QHm3pustz01CJRwdo20z"
     },
@@ -1791,7 +1791,7 @@
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 199453,
+      "duration_ms": 199452,
       "name": "Hungry Heart",
       "url": "https://open.spotify.com/track/1KsI8NEeAna8ZIdojI3FiT"
     },
@@ -2139,24 +2139,6 @@
     },
     {
       "album": {
-        "name": "Glass Houses",
-        "url": "https://open.spotify.com/album/5sztejERqpktXEdemlUvU5"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "date_added": "2023-01-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 176440,
-      "name": "It's Still Rock and Roll to Me",
-      "url": "https://open.spotify.com/track/64UioB4Nmwgn2f4cbIpAkl"
-    },
-    {
-      "album": {
         "name": "The Essential Billy Joel",
         "url": "https://open.spotify.com/album/7r36rel1M4gyBavfcJP6Yz"
       },
@@ -2172,6 +2154,24 @@
       "duration_ms": 177266,
       "name": "It's Still Rock and Roll to Me",
       "url": "https://open.spotify.com/track/7LbOQt7isddrw3Bs3Czl7E"
+    },
+    {
+      "album": {
+        "name": "Glass Houses",
+        "url": "https://open.spotify.com/album/5sztejERqpktXEdemlUvU5"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177597,
+      "name": "It's Still Rock and Roll to Me",
+      "url": "https://open.spotify.com/track/64UioB4Nmwgn2f4cbIpAkl"
     },
     {
       "album": {
@@ -3055,7 +3055,7 @@
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 270080,
+      "duration_ms": 269712,
       "name": "Poison",
       "url": "https://open.spotify.com/track/5XcZRgJv3zMhTqCyESjQrF"
     },
@@ -3221,7 +3221,7 @@
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 220626,
+      "duration_ms": 219926,
       "name": "Rock with You - Single Version",
       "url": "https://open.spotify.com/track/7oOOI85fVQvVnK5ynNMdW7"
     },
@@ -3257,7 +3257,7 @@
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 331200,
+      "duration_ms": 330943,
       "name": "Rosanna",
       "url": "https://open.spotify.com/track/37BTh5g05cxBIRYMbw8g2T"
     },
@@ -3845,7 +3845,7 @@
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 297853,
+      "duration_ms": 297847,
       "name": "The Way It Is",
       "url": "https://open.spotify.com/track/6V50MyHPGhEmwYu0Wdyf0t"
     },
@@ -3953,7 +3953,7 @@
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 292880,
+      "duration_ms": 292333,
       "name": "Thunderstruck",
       "url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj"
     },
@@ -3989,7 +3989,7 @@
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 241333,
+      "duration_ms": 245529,
       "name": "Time After Time",
       "url": "https://open.spotify.com/track/7o9uu2GDtVDr9nsR7ZRN73"
     },
@@ -4083,7 +4083,7 @@
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 227600,
+      "duration_ms": 227590,
       "name": "True Colors",
       "url": "https://open.spotify.com/track/2A6yzRGMgSQCUapR2ptm6A"
     },
@@ -4177,7 +4177,7 @@
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 197706,
+      "duration_ms": 198294,
       "name": "Uptown Girl",
       "url": "https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh"
     },
@@ -4379,7 +4379,7 @@
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 287733,
+      "duration_ms": 291100,
       "name": "We Didn't Start the Fire",
       "url": "https://open.spotify.com/track/3Cx4yrFaX8CeHwBMReOWXI"
     },
@@ -4675,7 +4675,7 @@
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 210173,
+      "duration_ms": 210328,
       "name": "You Shook Me All Night Long",
       "url": "https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo"
     },

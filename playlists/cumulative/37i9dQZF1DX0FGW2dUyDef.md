@@ -2,7 +2,7 @@
 
 ### [Hot Hits Türkiye](https://open.spotify.com/playlist/37i9dQZF1DX0FGW2dUyDef)
 
-> Dinlemekten vazgeçemediklerin ve en yeni hitler\.  Kapak: UZI x Motive
+> Dinlemekten vazgeçemediklerin ve en yeni hitler\.  Kapak: Wegh
 
 221 songs - 10 hr 56 min
 

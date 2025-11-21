@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5leDEvPjr7Y.md) - [plain]
 
 > A playlist by <a href="spotify:artist:4e9vQfyvvDlcQAkjSdFE4x">Maya Hawke</a> inspired by "Big Idea" from her new album <a href="spotify:album:5AyYM1rZBAiLO0EcgLEaJ2">Chaos Angel</a> \. Welcome to <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">mixtape</a>, a curator's playground.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,061 likes - 30 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,066 likes - 30 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5leDEvPjr7Y.md) - [plain]
 | 17 | [I'm in a Hurry \(And Don't Know Why\)](https://open.spotify.com/track/0Q6lnlHh3LtXjsU4m6ypbq) | [Alabama](https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC) | [Ultimate Alabama 20 \# 1 Hits](https://open.spotify.com/album/4oFLKch6Zh0YanY9Uj2s8z) | 2:50 |
 | 18 | [Breezeblocks](https://open.spotify.com/track/3n69hLUdIsSa1WlRmjMZlW) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) | 3:47 |
 | 19 | [Dear Prudence \- Vocal, Guitar & Drums](https://open.spotify.com/track/7yxYHB1l6XzR66hemnxtCR) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles](https://open.spotify.com/album/1WMVvswNzB9i2UMh9svso5) | 3:59 |
-| 20 | [Sleeping With the Television On](https://open.spotify.com/track/1zQiK0HaNo8mPMo89W8hlK) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Glass Houses](https://open.spotify.com/album/5sztejERqpktXEdemlUvU5) | 3:00 |
+| 20 | [Sleeping With the Television On](https://open.spotify.com/track/1zQiK0HaNo8mPMo89W8hlK) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Glass Houses](https://open.spotify.com/album/5sztejERqpktXEdemlUvU5) | 3:03 |
 | 21 | [Love, The Time Is Now](https://open.spotify.com/track/2aZ1KBahteornorvYJ5IPs) | [Bobby Womack](https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq) | [Fly Me To The Moon](https://open.spotify.com/album/1Kw0H84LL5YuP37Kh8lbzY) | 3:18 |
 | 22 | [Woods](https://open.spotify.com/track/2cx019HWgBsIrv3zLCdSHS) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Blood Bank](https://open.spotify.com/album/6G2VFrsyr7jAiUYklrdKob) | 4:45 |
 | 23 | [Love And Mercy](https://open.spotify.com/track/0S3izfZXcQAO6uoVN9mQvn) | [Brian Wilson](https://open.spotify.com/artist/4Q82S0VzF8qlCb4PnSDurj) | [I Just Wasn't Made For These Times](https://open.spotify.com/album/5VpqIOyay65dcMStQ2rcxD) | 3:13 |

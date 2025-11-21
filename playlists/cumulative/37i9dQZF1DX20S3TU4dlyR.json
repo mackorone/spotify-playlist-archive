@@ -1352,7 +1352,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 245000,
       "name": "El Cuento",
       "url": "https://open.spotify.com/track/1Qdl60UYYCVLkZbsNwSyQZ"
@@ -5484,6 +5484,28 @@
       "duration_ms": 227906,
       "name": "Vamos Fugir",
       "url": "https://open.spotify.com/track/2Y7nKdgpv2qgn54SOceCaw"
+    },
+    {
+      "album": {
+        "name": "Cachacoleto",
+        "url": "https://open.spotify.com/album/0OloiZOXxNtn1m8Psr5cum"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        },
+        {
+          "name": "Guillermo Bonetto",
+          "url": "https://open.spotify.com/artist/1rijasyRtILod4s1wmI78L"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189485,
+      "name": "Vamos Tu y Yo",
+      "url": "https://open.spotify.com/track/18hBIeESqJqIQ3M9FGOHBT"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOqWoDP009i.md) - [plain]
 
 > The best and finest 70s Funk\. Cover: Sly Stone
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,866 likes - 100 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,871 likes - 100 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOqWoDP009i.md) - [plain]
 | 56 | [Open Sesame \(Groove With The Genie\) \- Pt.1](https://open.spotify.com/track/2wsVvmGSp46TlbTeGt7EGo) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Open Sesame \(Expanded Edition\)](https://open.spotify.com/album/1W97hgeJQ5c9DyX1PvNXXn) | 3:46 |
 | 57 | [Mighty Mighty](https://open.spotify.com/track/3wBQZHjzqHBW5pamM09tyX) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Open Our Eyes](https://open.spotify.com/album/5cXtmT9ap3avo2lz9kEYbg) | 3:02 |
 | 58 | [Freedom Road](https://open.spotify.com/track/3e216tlft4wkIvYphoE2vm) | [The Pharaohs](https://open.spotify.com/artist/6rfmM7dZAV1O2loXczWgo1) | [Awakening](https://open.spotify.com/album/1B4yhjadIa3RH5d1TuLOWp) | 5:56 |
-| 59 | [Blame It on the Boogie](https://open.spotify.com/track/3qI94hINNNeb4S7xQi18lS) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [Destiny](https://open.spotify.com/album/46yTC334aJI4QTv4lkzj3a) | 3:34 |
+| 59 | [Blame It on the Boogie](https://open.spotify.com/track/3qI94hINNNeb4S7xQi18lS) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [Destiny](https://open.spotify.com/album/46yTC334aJI4QTv4lkzj3a) | 3:35 |
 | 60 | [A Chance for Peace](https://open.spotify.com/track/4qmkrL9qsYDHJc0xu0D2ze) | [Lonnie Liston Smith and the Cosmic Echoes](https://open.spotify.com/artist/6EMR9xUcwYHrvpiSZKtN2c) | [Visions of a New World](https://open.spotify.com/album/1trO1OdiItbg9BYjpvXwuQ) | 5:22 |
 | 61 | [2000 Black](https://open.spotify.com/track/5PAAJS7P5BKb5IFm7wCo7Y) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [A Tear To A Smile](https://open.spotify.com/album/1xirAy5colVIVI7f2m4bEB) | 5:24 |
 | 62 | [The Old One, Two](https://open.spotify.com/track/4cNxF2MBn9pYLBzcBDXQXl) | [RAMP](https://open.spotify.com/artist/3KAulMlhjlTfIZD8yhMJPb) | [Ramp: The Old One, Two](https://open.spotify.com/album/74bV8EHp51Lr9e3LkD9QsT) | 3:17 |

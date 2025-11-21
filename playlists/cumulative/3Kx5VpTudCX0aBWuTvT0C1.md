@@ -4,7 +4,7 @@
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-85 songs - 4 hr 53 min
+86 songs - 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Zero Hour Lunar Phase](https://open.spotify.com/track/6Pwm9LxIHTazwlVz26WMgf) | [Shayan Regan](https://open.spotify.com/artist/4MqBmgnfLeYmizJVpJz65k) | [Zero Hour Lunar Phase](https://open.spotify.com/album/4DFIgHny809BiD7wZFy76g) | 3:32 | 2025-10-28 |  |
 | [¿QUIÉN ES EL MALO AHORA?](https://open.spotify.com/track/6cZsVGpH1YkfGvZui0mn9H) | [ATLAS\-31](https://open.spotify.com/artist/55rn2WmgmOMzZHsSJZ6zgt) | [¿QUIÉN ES EL MALO AHORA?](https://open.spotify.com/album/31VLgqE0dx5tdkzjA9hyYF) | 3:54 | 2025-10-29 |  |
 | [Вдыхая](https://open.spotify.com/track/5wCJdxThWor3Zt8JP7jEOf) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Вдыхая](https://open.spotify.com/album/135EW2AzzOC1uUHc7AXasA) | 3:03 | 2025-10-30 |  |
+| [Рыжая девочка\-осень \(acoustic version\)](https://open.spotify.com/track/2ekAbtabAM8qao1YjQyeoz) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Рыжая девочка\-осень \(acoustic version\)](https://open.spotify.com/album/0AKOCae4zWQSLUcVdWsI2T) | 2:50 | 2025-11-20 |  |
 | [原來發現](https://open.spotify.com/track/7MNkxlV4Oj4OgEOS0RfQRs) | [Relic](https://open.spotify.com/artist/3didQr0Ljzt9uzRsSSynXO) | [原來發現](https://open.spotify.com/album/0w8ZelBC2rT1qa58kwWu2S) | 3:50 | 2025-11-13 |  |
 
 \*This playlist was first scraped on 2025-11-19. Prior content cannot be recovered.

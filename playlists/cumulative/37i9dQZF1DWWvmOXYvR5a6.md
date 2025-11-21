@@ -4,7 +4,7 @@
 
 > Trendy x Chill K\-Hip Hop\.  \(Cover: HAON, Boycold\)\(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-798 songs - 1 day 18 hr 37 min
+799 songs - 1 day 18 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,6 +235,7 @@
 | [Flight +82](https://open.spotify.com/track/5HLl0OKRVpIHtgHwDJzagR) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc), [Rovv](https://open.spotify.com/artist/2ExJZeWFE28d7G0uq1olVy), [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [The Good Days Boys Vol.2\-2](https://open.spotify.com/album/0gNaQL7iXpZHnzrvz12v1Y) | 2:48 | 2022-05-28 | 2022-08-08 |
 | [foff \(Feat\. CHOILB\)](https://open.spotify.com/track/7iPnMNI8xnI3pOq3w8f3Ao) | [UNE](https://open.spotify.com/artist/1gPI21PhFmfBqPP118h5rS), [Daul](https://open.spotify.com/artist/3ai1NgxNCUgcRr0BPbBOAc), [CHOILB](https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq) | [OZ Land](https://open.spotify.com/album/3LNjqzURAuyxC1dfMO9FnL) | 2:33 | 2022-05-28 | 2022-07-15 |
 | [Fool To Love](https://open.spotify.com/track/1xF51lGbgdTmJ2QZGbUfwA) | [YELLA D](https://open.spotify.com/artist/4D139q2zdOGkNdWHeFmIog) | [Fool To Love](https://open.spotify.com/album/7dJniFYQQHL7cybhKvOEl4) | 3:04 | 2022-04-01 | 2022-04-21 |
+| [FOR GRANTED](https://open.spotify.com/track/68kxRiEjmwrPkBGVuZDORg) | [Bryan Chase](https://open.spotify.com/artist/0qOcjTObT75YJLbDBfSgXw), [TARZZAN](https://open.spotify.com/artist/1A6LzcBnzxNf5phjx1ZSPr) | [GRANTED](https://open.spotify.com/album/6iKATce880GoSVyQdDwZh9) | 3:21 | 2025-11-20 |  |
 | [FOREVER](https://open.spotify.com/track/24mkagnUG0RDALoucyZ9iw) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [FOREVER](https://open.spotify.com/album/6KnVNEQHf8QY3FsNPol2fk) | 2:44 | 2025-08-19 | 2025-11-11 |
 | [Fragile \(Prod\. Dayrick\)](https://open.spotify.com/track/4OsYZcgIDKPWoezA1sBeUF) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [Fragile](https://open.spotify.com/album/0sb0tegIC42FpaodGVDVNe) | 2:44 | 2022-04-01 | 2025-11-20 |
 | [FREAK LIKE ME](https://open.spotify.com/track/4ZC7AurS3z0mdROZBUcAex) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [FREAK LIKE ME](https://open.spotify.com/album/3MLhDn5jwjMjv7S3qIRXnG) | 2:47 | 2022-04-01 |  |
@@ -577,7 +578,7 @@
 | [Ride or Die](https://open.spotify.com/track/27teIfUeZ1SMXd49ovFvk0) | [BANG YONGGUK](https://open.spotify.com/artist/6g6zaR4B3WDZXphDRmsVGF) | [THE COLORS OF LOVE](https://open.spotify.com/album/5yZUWeLQvxiUqgiPOvQXzw) | 3:20 | 2023-05-05 | 2023-06-30 |
 | [RIDE OR DIE](https://open.spotify.com/track/5KqAJUGnfeUgBOdEGoYL7J) | [KOALA](https://open.spotify.com/artist/57FiLkWeGzNVMLggMZLYiZ), [Eric Minz](https://open.spotify.com/artist/6981nmtM6lqzMOVvtwk2Wo), [JMIN](https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo) | [RIDE OR DIE](https://open.spotify.com/album/63bRGOQ1sHPNltuaF51LDW) | 3:15 | 2024-06-07 | 2024-08-23 |
 | [ride or die \(feat\. Chancellor\)](https://open.spotify.com/track/3GnutzFK2ijPUogERjEgBZ) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr), [Chancellor](https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx) | [natural high](https://open.spotify.com/album/64SeFnoePRFXfM32L2TJdu) | 3:01 | 2022-04-01 | 2022-04-21 |
-| [Ride with You](https://open.spotify.com/track/1uTbOubaQmooX3KN99TLLl) | [MIRANI](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no) | [CLUTCH](https://open.spotify.com/album/4tw47Y64E5YY4ZbgL2KESM) | 2:21 | 2025-11-03 |  |
+| [Ride with You](https://open.spotify.com/track/1uTbOubaQmooX3KN99TLLl) | [MIRANI](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no) | [CLUTCH](https://open.spotify.com/album/4tw47Y64E5YY4ZbgL2KESM) | 2:21 | 2025-11-03 | 2025-11-21 |
 | [Right Here Right Now](https://open.spotify.com/track/47UUNYT0lsDnX9EYHIBf3L) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [Coming To You Live](https://open.spotify.com/album/23fwKUYyu1kvRnDR2imBnq) | 3:33 | 2022-04-21 | 2022-06-26 |
 | [Right Now \(Feat\. Crush\)](https://open.spotify.com/track/4IiSP6seUj7QwhgDgXdS11) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Right Now](https://open.spotify.com/album/0ZTuW8a9YPwlE8SytUyrnN) | 3:02 | 2023-09-15 |  |
 | [Ring Ring](https://open.spotify.com/track/0lJvkAuv7HLOz13qdmbpNx) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [Ring Ring](https://open.spotify.com/album/16dV4I2SPOOR4X1oiSIkXS) | 2:51 | 2024-09-04 | 2025-09-27 |

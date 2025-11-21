@@ -8815,6 +8815,28 @@
     },
     {
       "album": {
+        "name": "Music Power",
+        "url": "https://open.spotify.com/album/1E5oz3PbIi48mK8HFrZ2QN"
+      },
+      "artists": [
+        {
+          "name": "Fedde Le Grand",
+          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
+        },
+        {
+          "name": "Porno",
+          "url": "https://open.spotify.com/artist/5dzCQofQeaFhxQBIWMWjzb"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161280,
+      "name": "Music Power",
+      "url": "https://open.spotify.com/track/0mg795DZrMvAlAausSdd7Q"
+    },
+    {
+      "album": {
         "name": "Mvinline",
         "url": "https://open.spotify.com/album/5FeNmn9ROaljE00OMnusjS"
       },
@@ -13562,7 +13584,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 203521,
       "name": "Turntable Truth",
       "url": "https://open.spotify.com/track/362ZxQJ3XC8K7lo19ysDow"

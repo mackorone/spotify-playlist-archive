@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYylC2W4d9VY.md) - [plain]
 
 > These are the songs that have shaped acclaimed director, Osgood Perkins', alternative spirit\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI?si=8688dba1fca74b00">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,496 likes - 35 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,501 likes - 35 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Do Lafzon Ki Hai Dil Ki Kahani](https://open.spotify.com/track/12fFw1YmJ40OgJw6XM8aEG) | [Amitabh Bachchan](https://open.spotify.com/artist/4tgxFlmtGx08MtTKWeqEuR), [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U), [Sharad Kumar](https://open.spotify.com/artist/2U1hVHUuvPv4PalshKMvnN) | [The Great Gambler \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3nRKcn9r2eBPlBEmxfxYw2) | 6:22 |
 | 2 | [Let the Goodtimes Roll](https://open.spotify.com/track/46TCmuf1fqY3GoqBLqyAK6) | [Shirley & Lee](https://open.spotify.com/artist/7kowgNVIlvDxx9Uhvcft5Y) | [Let the Goodtimes Roll / Earth Angel](https://open.spotify.com/album/4H4zewVF3y1WI6ZsZA0ltS) | 2:25 |
 | 3 | [Beat on the Brat \- 2016 Remaster](https://open.spotify.com/track/55mKuESqpfgqe0kooIkTH2) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Ramones \(40th Anniversary Deluxe Edition; 2016 Remaster\)](https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64) | 2:31 |
-| 4 | [Vicious](https://open.spotify.com/track/4A48NL57P16zSRaq3yoYry) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Transformer](https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St) | 2:56 |
+| 4 | [Vicious](https://open.spotify.com/track/4A48NL57P16zSRaq3yoYry) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Transformer](https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St) | 2:59 |
 | 5 | [All You Have to do is Dream \- Take 1](https://open.spotify.com/track/3farSYVBCl91tppTYREa2n) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX), [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [The Basement Tapes Complete: The Bootleg Series, Vol\. 11 \(Deluxe Edition\)](https://open.spotify.com/album/5a8SaZSkhxar6eYgd5u3o9) | 3:55 |
 | 6 | [Ready or Not Here I Come \(Can't Hide from Love\)](https://open.spotify.com/track/5RnlUyTKgmd7V6tXdQcKVK) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Sound Of Sexy Soul](https://open.spotify.com/album/6KBNPaBdwwrSQPyz1RxRSF) | 1:59 |
 | 7 | [5D \(Fifth Dimension\)](https://open.spotify.com/track/7jvptnW3PMozIQq4C6uJB9) | [The Byrds](https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc) | [Fifth Dimension](https://open.spotify.com/album/3dfPMayEO2G87wzXPMEvmb) | 2:33 |

@@ -1925,6 +1925,24 @@
     },
     {
       "album": {
+        "name": "Lady (Hear Me Tonight)",
+        "url": "https://open.spotify.com/album/57SwKjLUnRzLs7jXcDsQCY"
+      },
+      "artists": [
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153692,
+      "name": "Lady (Hear Me Tonight)",
+      "url": "https://open.spotify.com/track/5GIG7Ktm9gZnV5yNqb0XZl"
+    },
+    {
+      "album": {
         "name": "Lay All Your Love On Me",
         "url": "https://open.spotify.com/album/236tMDj26TX9YnAaPDF8zw"
       },
@@ -3072,6 +3090,36 @@
       "duration_ms": 178266,
       "name": "Shut Up and Dance",
       "url": "https://open.spotify.com/track/59ufeUgn5Vn9DCr1Ul2n0V"
+    },
+    {
+      "album": {
+        "name": "Silence (Dimension Remix)",
+        "url": "https://open.spotify.com/album/7amYzRwBHYed8cgbE3fyKn"
+      },
+      "artists": [
+        {
+          "name": "Delerium",
+          "url": "https://open.spotify.com/artist/0IUq1plF3ON4Fboj1bE6kN"
+        },
+        {
+          "name": "Sarah McLachlan",
+          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
+        },
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Dimension",
+          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247586,
+      "name": "Silence - Dimension Remix",
+      "url": "https://open.spotify.com/track/2AUVVfU9CmmbWcudIAJ5vD"
     },
     {
       "album": {

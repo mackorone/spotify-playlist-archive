@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0GTMwCv2RBA.md) - [plain]
 
 > Listen to the soundtrack and discover music curated by director James Gunn for each character in Superman\. In theaters now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,380 likes - 198 songs - 12 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,357 likes - 198 songs - 12 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -142,7 +142,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0GTMwCv2RBA.md) - [plain]
 | 132 | [Close Your Eyes \(And Count to Fuck\) \(feat\. Zack De La Rocha\)](https://open.spotify.com/track/69boulENxqb2MYuIDxlbFA) | [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C), [Zack De La Rocha](https://open.spotify.com/artist/1jKpNUjiz4KXgaAZD5FI9S) | [Run The Jewels 2](https://open.spotify.com/album/07h5cYnfQm4mCDmEBiRtei) | 3:54 |
 | 133 | [Mama Tried](https://open.spotify.com/track/6h3YJ05BovN1Pgk145J3r9) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Mama Tried/ Pride In What I Am](https://open.spotify.com/album/7LmhShcQUdQf0vbfa6VUPn) | 2:14 |
 | 134 | [Morning After Pill](https://open.spotify.com/track/00UUWLHbHWmkGnwjTOc1M6) | [Louis Logic](https://open.spotify.com/artist/5iwtnFL2DK4xdWeHfeOOhU) | [Misery Loves Comedy \(Deluxe Edition\)](https://open.spotify.com/album/78jQCzLGLFWQdQWAIwDcT8) | 4:12 |
-| 135 | [Dirty Deeds Done Dirt Cheap](https://open.spotify.com/track/2d4e45fmUnguxh6yqC7gNT) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Dirty Deeds Done Dirt Cheap](https://open.spotify.com/album/76mvVgXOde87B9aOzLXCOI) | 3:51 |
+| 135 | [Dirty Deeds Done Dirt Cheap](https://open.spotify.com/track/2d4e45fmUnguxh6yqC7gNT) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Dirty Deeds Done Dirt Cheap](https://open.spotify.com/album/76mvVgXOde87B9aOzLXCOI) | 3:52 |
 | 136 | [Jump Around](https://open.spotify.com/track/6JymsaWDHk2Yj4e0yNBIFH) | [House Of Pain](https://open.spotify.com/artist/0AuW7OCyKfFrsMbtHrYgIV) | [House of Pain \(Fine Malt Lyrics\)](https://open.spotify.com/album/0hWY4eSi2bZ8tWplgjO0ph) | 3:34 |
 | 137 | [If Only You Were Lonely \- Twin Tone Single Version](https://open.spotify.com/track/59r4xGhKwI5SpuxUylvTKP) | [The Replacements](https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3) | [Sorry Ma, Forgot to Take out the Trash \(Expanded\)](https://open.spotify.com/album/4zOmK82ivj2Eu7j4oP9Y3l) | 2:37 |
 | 138 | [Wichita Lineman \- Remastered 2001](https://open.spotify.com/track/6V9VCm1zOY2lGR80RehJ9i) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [Wichita Lineman \(Remastered\)](https://open.spotify.com/album/056tSaBR2WyN1nnmfIzkEE) | 3:06 |

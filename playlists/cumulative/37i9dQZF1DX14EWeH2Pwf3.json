@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Sayf, Artie e Gu\u00e8 in cover della playlist urban pi\u00f9 grande d'Italia \ud83d\udd25",
+  "description": "Capo Plaza in cover della playlist urban pi\u00f9 grande d'Italia \ud83d\udd25",
   "name": "Plus Ultra",
   "tracks": [
     {
@@ -4836,7 +4836,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 184026,
       "name": "Con te (feat. Bresh)",
       "url": "https://open.spotify.com/track/04QzbHxLvm6enmrtUtjLir"
@@ -5794,6 +5794,24 @@
       "duration_ms": 133548,
       "name": "DRIP (feat. Simba La Rue)",
       "url": "https://open.spotify.com/track/2PITEsf2iAwNBAH4FBVNCr"
+    },
+    {
+      "album": {
+        "name": "Drip a noleggio",
+        "url": "https://open.spotify.com/album/25PR0ni9rcqpWnq887O701"
+      },
+      "artists": [
+        {
+          "name": "Joejoe",
+          "url": "https://open.spotify.com/artist/2SGdTSyPqPFhyv74y6WEiD"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118256,
+      "name": "Drip a noleggio",
+      "url": "https://open.spotify.com/track/2Q9JFrlIR5izV7d3y0PsI9"
     },
     {
       "album": {
@@ -10804,7 +10822,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 182649,
       "name": "Malade Mental",
       "url": "https://open.spotify.com/track/7g9cp3XJzSJvmRsAOzp0p5"
@@ -17968,6 +17986,32 @@
       "duration_ms": 141459,
       "name": "SPOILER 2 (feat. 22simba)",
       "url": "https://open.spotify.com/track/6SSA409P7m2TMND2saQETo"
+    },
+    {
+      "album": {
+        "name": "SQUALO 2 (feat. Gu\u00e8 & Nerissima Serpe)",
+        "url": "https://open.spotify.com/album/52ENaEiNMKpXEpR3V8jFkv"
+      },
+      "artists": [
+        {
+          "name": "TY1",
+          "url": "https://open.spotify.com/artist/2DWRgncNMnTfwDiKSI0VoP"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "Nerissima Serpe",
+          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151384,
+      "name": "SQUALO 2 (feat. Gu\u00e8 & Nerissima Serpe)",
+      "url": "https://open.spotify.com/track/5f1QY8JXcVD1zCz0zVXPZO"
     },
     {
       "album": {

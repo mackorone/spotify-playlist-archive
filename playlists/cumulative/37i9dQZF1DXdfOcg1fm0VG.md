@@ -4,7 +4,7 @@
 
 > Double\-jump into these legendary video game soundtracks, featuring old favorites and new classics.
 
-199 songs - 11 hr 22 min
+200 songs - 11 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [The Orb Of Dreamers](https://open.spotify.com/track/17A0HiJjuQwZuTAzLekMeP) | [The Daniel Pemberton TV Orchestra](https://open.spotify.com/artist/545GoPyuY6bF37QY9BXDZc) | [Little BIG Music: Musical Oddities From And Inspired By Little Big Planet](https://open.spotify.com/album/63XHHwjqDPhXrDlbRMvGjc) | 2:31 | 2021-12-15 | 2022-03-15 |
 | [The Rebel Path](https://open.spotify.com/track/3m8UfZwPMMbiWfGR8Lg2cR) | [P.T\. Adamczyk](https://open.spotify.com/artist/27VhXJzIph9c75cBh1e8XM) | [Cyberpunk 2077 \- Original Score](https://open.spotify.com/album/1B2QrHbMox8vPXUY7rXAFp) | 4:10 | 2021-12-15 |  |
 | [The Streets of Whiterun](https://open.spotify.com/track/18CctEeOpjEDIAvWM5S7RE) | [Jeremy Soule](https://open.spotify.com/artist/77yY2QmM6bYvjJ3y5L2R0v) | [The Elder Scrolls V: Skyrim: Original Game Soundtrack](https://open.spotify.com/album/25r7pEf31viAbsoVHC6bQ4) | 4:04 | 2022-08-19 |  |
+| [The Tower of Eternity : Into the New World](https://open.spotify.com/track/26gZk8hoaAXXwfbJ0LvkOW) | [Simon Franglen](https://open.spotify.com/artist/12WCXE6DlRcCn2rEShNepL), [양방언](https://open.spotify.com/artist/3nGQkVl2Z5kemw17W0J7Ob), [Eleanor Grant](https://open.spotify.com/artist/4Jugsx1WbX4uLXRzVqC87e) | [The Echoes of Eternity \(AION2 Original Soundtrack\)](https://open.spotify.com/album/4hrCSpPqhJXVMOaXxp0Eh6) | 4:37 | 2025-11-20 |  |
 | [The Way of the Ghost](https://open.spotify.com/track/0AnsIh2o4sa9p8pHJOi9oI) | [Ilan Eshkeri](https://open.spotify.com/artist/147dKKwnUn9qesNx8uAs3Z) | [Ghost of Tsushima \(Music from the Video Game\)](https://open.spotify.com/album/6N9upMTvxPR79tutqclKtq) | 4:14 | 2021-12-15 |  |
 | [Timber Hearth](https://open.spotify.com/track/3BIf974vl0lIEo3EY1XvD1) | [Andrew Prahlow](https://open.spotify.com/artist/0z4uBJEzO1dJy57Qk5UYt8) | [Outer Wilds \(Original Soundtrack\)](https://open.spotify.com/album/1U0A6RPNJB05PtuBcaTM7o) | 3:24 | 2021-12-15 |  |
 | [Title Theme](https://open.spotify.com/track/7xiqFMenX3KY3kINA88d8Q) | [Russell Shaw](https://open.spotify.com/artist/5wuYDMU4DPsiqWaB8QBZU5) | [Fable Legends:The Rosewood](https://open.spotify.com/album/1FdHeXxHiE06U5anAfv4H2) | 4:15 | 2021-12-15 |  |

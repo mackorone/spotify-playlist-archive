@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 
 > When the funk is too funky for words to keep up\. Cover: Cory Wong
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,480 likes - 150 songs - 10 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,498 likes - 150 songs - 10 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 | 11 | [Feel Good Inc.](https://open.spotify.com/track/3uxkqDTkdJA11KYWdWOgQJ) | [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj) | [Baked, Broiled & Fried](https://open.spotify.com/album/2eOtn7tcVtGHgk7JsTnGAy) | 4:35 |
 | 12 | [Fat Nap](https://open.spotify.com/track/4INxpyygHSWT4EF5YHfacG) | [Sam Fribush](https://open.spotify.com/artist/0L7BpYTrKRXYKyNppykAEx), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc), [Calvin Napper](https://open.spotify.com/artist/2PPOE2P2KXO3TdVOFluIzz) | [Fat Nap](https://open.spotify.com/album/2mJPMPqe29y3BtXOGTPkbe) | 3:46 |
 | 13 | [Tha Boogee](https://open.spotify.com/track/2moo0ESu4dQjHAcUbnEEfm) | [Janko Nilovic](https://open.spotify.com/artist/44w54ag6mZjclpEET3ROf9), [The Soul Surfers](https://open.spotify.com/artist/1UST9Gt4W7PFIPrBuxTMP8) | [Maze of Sounds](https://open.spotify.com/album/6WWbQkQAv3YczhH34I3fv6) | 7:08 |
-| 14 | [Chameleon](https://open.spotify.com/track/4Ce66JznW8QbeyTdSzdGwR) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Head Hunters](https://open.spotify.com/album/5fmIolILp5NAtNYiRPjhzA) | 15:41 |
+| 14 | [Chameleon](https://open.spotify.com/track/4Ce66JznW8QbeyTdSzdGwR) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Head Hunters](https://open.spotify.com/album/5fmIolILp5NAtNYiRPjhzA) | 15:44 |
 | 15 | [Rambam](https://open.spotify.com/track/2ghseSfWtRLRUwiJKCJJcc) | [New Amsterdam Rhythm Band](https://open.spotify.com/artist/6V9DxwZ6L3HyhVT37TZQ2G) | [New Amsterdam Rhythm Band](https://open.spotify.com/album/3zAVri6vQQ4E6H8yyXvNsc) | 3:15 |
 | 16 | [Jimmy's Groove](https://open.spotify.com/track/79eytkCk1dMaHhGr8fcY3P) | [Delvon Lamarr Organ Trio](https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8) | [Jimmy's Groove](https://open.spotify.com/album/4ke86aiMO3AVhBTM3vmdcE) | 6:17 |
 | 17 | [A Trip to the Dentist](https://open.spotify.com/track/1J7C9vpaYQCXaYvbntXK16) | [Jinkie Bays](https://open.spotify.com/artist/3BwGQ1dHTUdDejGtNRCDMf), [The Brothers Nylon](https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50) | [A Trip to the Dentist](https://open.spotify.com/album/7qd2alTTttaMaa9tjgR9Uu) | 3:28 |

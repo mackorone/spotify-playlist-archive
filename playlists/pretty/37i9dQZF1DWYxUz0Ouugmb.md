@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain]
 
 > Deretan musisi dalam negeri yang patut diantisipasi\.  Cover: The Lantis
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,993 likes - 45 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,000 likes - 45 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain]
 | 44 | [Denah Rumahmu](https://open.spotify.com/track/2pAIsy87PtMr6d7hoLSS8A) | [Difki Khalif](https://open.spotify.com/artist/3HEVwMM5Qabf9L0D2E2cTV) | [Denah Rumahmu](https://open.spotify.com/album/5JAL8mW3bGLe5yu40In446) | 3:55 |
 | 45 | [Tanpa Batas Waktu](https://open.spotify.com/track/1UY33OSDxSwBHmPfYmCUfh) | [Elsa Japasal](https://open.spotify.com/artist/0tb30aVXPH9L9CRckFuBaB) | [Tanpa Batas Waktu](https://open.spotify.com/album/4fxoL7dYH5vNu15gH0UJkb) | 4:27 |
 
-Snapshot ID: `AAAAALGAx83pRsfh/AlZmoqk3/1yhOS2`
+Snapshot ID: `AAAAAE0WsrSZUy14dBJiMpXswRrRaSVe`

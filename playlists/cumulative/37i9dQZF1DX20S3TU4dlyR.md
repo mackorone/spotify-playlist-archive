@@ -4,7 +4,7 @@
 
 > Este es el Reggae, al sur del continente americano\. Foto: Dread Mar I.
 
-296 songs - 19 hr 27 min
+297 songs - 19 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Donde Vive un Sentimiento](https://open.spotify.com/track/4dshlztOA9h20deNbzMvvY) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [En el Sendero](https://open.spotify.com/album/4NzGzDvqUWJPkgzEqCGpnb) | 3:22 | 2022-05-06 | 2022-07-29 |
 | [Déjalo Fluir](https://open.spotify.com/track/32occ8ejTn4YM90KhPBAQA) | [Mamita Peyote](https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8) | [Runfla Calavera](https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc) | 3:25 | 2022-05-06 |  |
 | [El Brillo de los Dos](https://open.spotify.com/track/0KveNvbIovj7O7bgzrr0ED) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [Caminarás Caminos](https://open.spotify.com/album/337mNEG0GhmCVFOflwtMlS) | 4:13 | 2022-05-06 | 2023-02-03 |
-| [El Cuento](https://open.spotify.com/track/1Qdl60UYYCVLkZbsNwSyQZ) | [12 Tribus](https://open.spotify.com/artist/7whGu0xfNiwItHQv41NXH4), [Joe Vasconcellos](https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce) | [Súbete](https://open.spotify.com/album/7g5vosPUeBXE53YHV923pU) | 4:05 | 2022-05-06 |  |
+| [El Cuento](https://open.spotify.com/track/1Qdl60UYYCVLkZbsNwSyQZ) | [12 Tribus](https://open.spotify.com/artist/7whGu0xfNiwItHQv41NXH4), [Joe Vasconcellos](https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce) | [Súbete](https://open.spotify.com/album/7g5vosPUeBXE53YHV923pU) | 4:05 | 2022-05-06 | 2025-11-21 |
 | [El Cuento](https://open.spotify.com/track/6Z64rcX4toR740wFD9PCvT) | [Kameleba](https://open.spotify.com/artist/2oSUm3Sv4yNsTLaYuROuST) | [El Cuento](https://open.spotify.com/album/2qselQbY8QZncTIS9Aenn2) | 3:10 | 2022-05-06 | 2023-06-22 |
 | [El Fueguito](https://open.spotify.com/track/1PBvIWqTuQ5d7JY6x8DIRd) | [El Natty Combo](https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9) | [El Poder](https://open.spotify.com/album/5PKSiSTU30fvmR40S2bFdc) | 3:45 | 2022-05-06 | 2022-07-17 |
 | [El Pescador](https://open.spotify.com/track/5UU7hhIQFIZKjryRuUXmed) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN) | [Rey Mago de las Nubes](https://open.spotify.com/album/0IHgCVEFlbvu0QxWzqKA78) | 3:05 | 2022-05-06 |  |
@@ -283,6 +283,7 @@
 | [Va Salir](https://open.spotify.com/track/7FF4TyQSAvpukqX66mTGu0) | [BRAZA](https://open.spotify.com/artist/5F0iFhw7bZE7a8INjualJn), [Cuatro Pesos de Propina](https://open.spotify.com/artist/0ChnnP8vWVXGxmfUfFYeND) | [Va Salir](https://open.spotify.com/album/4YxwFWxeTj9cqJej7q40Vy) | 4:13 | 2022-05-06 | 2023-10-06 |
 | [Vale la Pena](https://open.spotify.com/track/1AWBu5AXFzNry1wZJan5so) | [Leonchalon](https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0), [Roman El Original](https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ), [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [Vale la Pena](https://open.spotify.com/album/3WRqiBrtFLAiAEkp2p3l5F) | 2:50 | 2025-04-04 |  |
 | [Vamos Fugir](https://open.spotify.com/track/2Y7nKdgpv2qgn54SOceCaw) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN) | [Vamos Fugir](https://open.spotify.com/album/3sPkAX1L9eprN5JP2EZvbS) | 3:47 | 2024-11-11 | 2025-04-19 |
+| [Vamos Tu y Yo](https://open.spotify.com/track/18hBIeESqJqIQ3M9FGOHBT) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Guillermo Bonetto](https://open.spotify.com/artist/1rijasyRtILod4s1wmI78L) | [Cachacoleto](https://open.spotify.com/album/0OloiZOXxNtn1m8Psr5cum) | 3:09 | 2025-11-21 |  |
 | [Vendedores da Fé](https://open.spotify.com/track/0WtKKoo9qwV1Q2z8THLGRd) | [Bloco do Caos](https://open.spotify.com/artist/44nuOAoL0OIc2QmKfO0nnl), [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Vendedores da Fé](https://open.spotify.com/album/03MWGQ1wufbxPEyguWJk3x) | 4:18 | 2022-05-06 | 2022-07-28 |
 | [Vibra Positiva](https://open.spotify.com/track/061cp08tzW2q8qaqNkad28) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Con Rastafari Todo Concuerda](https://open.spotify.com/album/5N9utFggf0N0DlhnBTt5xM) | 4:19 | 2022-05-06 | 2022-07-29 |
 | [Vibra Positiva](https://open.spotify.com/track/6srdU7rKLC5DOuVBWDpmyD) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Con Rastafari Todo Concuerda](https://open.spotify.com/album/6cdQ6F0AWi4lrolEwbCDYN) | 4:19 | 2022-07-01 | 2023-03-03 |

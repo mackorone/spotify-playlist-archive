@@ -2,9 +2,9 @@
 
 ### [Cena Indie](https://open.spotify.com/playlist/37i9dQZF1DX6HJZtcjGrCn)
 
-> Música independente\. A tua alternativa ao mainstream\. Foto: Inês Marques Lucas
+> Música independente\. A tua alternativa ao mainstream\. Foto: Aurora Pinto
 
-384 songs - 22 hr 49 min
+387 songs - 23 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [BAZAR PARA CASA](https://open.spotify.com/track/0jxVhnDDxEVujTVPKxNphe) | [Hause Plants](https://open.spotify.com/artist/7ciUlbAc461mRvHx3YmIYk) | [BAZAR PARA CASA](https://open.spotify.com/album/2XsHr8UEGbAu9uzWdVOESS) | 2:48 | 2024-09-05 | 2024-10-04 |
 | [Beaches](https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beaches](https://open.spotify.com/album/6ivfrPVGf3VU5uQ5SAHY66) | 3:50 | 2024-08-08 | 2024-12-01 |
 | [Before You I Just Forget](https://open.spotify.com/track/1oVAmJ2oaHv5NWFH99jCWE) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Romance \(Deluxe Edition\)](https://open.spotify.com/album/1eKVHMQJt9UVkuOb4gE3wy) | 3:56 | 2025-04-17 |  |
+| [Bem\-Vindo](https://open.spotify.com/track/4TlczOCrWemdAfWjf5oEU2) | [Cara de Espelho](https://open.spotify.com/artist/7LsBb6YXqYf3UJvsjpRHxF) | [Bem\-Vindo](https://open.spotify.com/album/3xVaQT98Iwe427R4qshngG) | 3:13 | 2025-11-21 |  |
 | [Best Friends](https://open.spotify.com/track/1HdkhxFrzifewm5amVrP9D) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Best Friends](https://open.spotify.com/album/1CvQ6ffxe39iuZeaNHbxx7) | 4:01 | 2024-11-22 | 2025-01-17 |
 | [Bestie, Move On](https://open.spotify.com/track/0YVWlJfAtGWsJgA7fa37xU) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Bestie, Move On](https://open.spotify.com/album/7JfiqynEeDKQQVJaAQRgLR) | 3:31 | 2024-07-25 | 2025-01-17 |
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-06-20 |  |
@@ -78,7 +79,7 @@
 | [CHIQUITINHA](https://open.spotify.com/track/7CCbwO2bTJYavz61WU8OsK) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn), [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4) | [CHIQUITINHA](https://open.spotify.com/album/1SW0QWVu5gr2D5wq4gBBpY) | 2:40 | 2024-08-08 | 2024-10-25 |
 | [CHOOSE YOUR PLAYA](https://open.spotify.com/track/4FcuUAbRwQPnwp2bCnrehM) | [Raquel Martins](https://open.spotify.com/artist/1i7N5kJtmSMiXJ8Y0SsOEn) | [LONDON, WHEN ARE U GONNA FEEL LIKE HOME?](https://open.spotify.com/album/22jYWWOuUDaJEoz1BH3Shy) | 3:14 | 2025-09-11 | 2025-10-03 |
 | [Cinderella](https://open.spotify.com/track/6NgvAmrhjUENGdtVQnBHx8) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Cinderella](https://open.spotify.com/album/3Xp0cLYXLzd47kskTdPVGg) | 4:03 | 2024-06-20 | 2024-09-07 |
-| [Cinnamon](https://open.spotify.com/track/3snrmj8vx2A3u70Lr5V4R3) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Cinnamon](https://open.spotify.com/album/7epoeWPFWTeHfuG8eR7HD3) | 2:42 | 2025-08-28 |  |
+| [Cinnamon](https://open.spotify.com/track/3snrmj8vx2A3u70Lr5V4R3) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Cinnamon](https://open.spotify.com/album/7epoeWPFWTeHfuG8eR7HD3) | 2:42 | 2025-08-28 | 2025-11-21 |
 | [Cinza](https://open.spotify.com/track/0lpRtMzXMfPNc1kf2Mri1T) | [Ão](https://open.spotify.com/artist/2FnhKB01CBc0KBjcTDDOod) | [Cinza](https://open.spotify.com/album/4tAmRm5zP6Hwenp85jGsQe) | 3:32 | 2025-11-14 |  |
 | [Circle of Trust](https://open.spotify.com/track/76x9lsvahKXzPQVIJQLhDp) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Pink Elephant](https://open.spotify.com/album/5qLTlCTZvN24Fm1nqd7XCV) | 6:05 | 2025-05-08 | 2025-07-09 |
 | [Claw Foot](https://open.spotify.com/track/25Ydf3tBonBtvs3NhwYop7) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN](https://open.spotify.com/album/2cNAVNktNuv4fzSLJCuoDE) | 2:46 | 2024-06-20 | 2024-10-25 |
@@ -158,7 +159,7 @@
 | [Henry, come on](https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Henry, come on](https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e) | 5:11 | 2025-04-10 |  |
 | [Holy](https://open.spotify.com/track/41eSKZ89Rtm31kfr5pNkj0) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Holy](https://open.spotify.com/album/757st5tduRuMaVvJmx2cp1) | 2:24 | 2025-07-25 | 2025-08-23 |
 | [Home Is Where the Hurt Is](https://open.spotify.com/track/0ytRXziKO9jo0FuMfXbgfp) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [Satellites](https://open.spotify.com/album/1ie2aXQFGvAsxusB7c4Yb5) | 2:40 | 2024-08-22 | 2024-09-28 |
-| [Homesick \(with Sam Fender\)](https://open.spotify.com/track/2l7UudWZ44l1WbHx6ANod9) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Homesick \(with Sam Fender\)](https://open.spotify.com/album/5Oi7V39SxgitXTKezxyw4I) | 3:14 | 2024-06-20 |  |
+| [Homesick \(with Sam Fender\)](https://open.spotify.com/track/2l7UudWZ44l1WbHx6ANod9) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Homesick \(with Sam Fender\)](https://open.spotify.com/album/5Oi7V39SxgitXTKezxyw4I) | 3:14 | 2024-06-20 | 2025-11-21 |
 | [Hooked](https://open.spotify.com/track/1Jkx5qCagN2zEnrxkzyHiA) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Hooked](https://open.spotify.com/album/5npYv1LOFlFeqHOUCnDthQ) | 2:41 | 2025-01-10 | 2025-01-31 |
 | [Hope](https://open.spotify.com/track/2hPZRSLyKFyJCYTotrmM1q) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Changes All The Time](https://open.spotify.com/album/0RJ06tZn2gom7mAmCIip2z) | 4:39 | 2024-10-03 | 2025-01-17 |
 | [Hula Girl](https://open.spotify.com/track/2Q12wBicdnoLI6F343qcHk) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [\(\(\(\(\(ultraSOUND\)\)\)\)\)](https://open.spotify.com/album/1xsGQbqvVDIq3sCJDUzQZv) | 4:04 | 2025-11-14 |  |
@@ -269,7 +270,7 @@
 | [Panther City](https://open.spotify.com/track/0ySkMC5CSdVFuBkiEDCQfF) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Leon](https://open.spotify.com/album/6mHNMtHrXIdUWWuZD9njsG) | 4:07 | 2024-10-03 | 2025-03-07 |
 | [Para Quê](https://open.spotify.com/track/0BDiIS9KM0sMu6L3E5P0iq) | [Pedro da Linha](https://open.spotify.com/artist/4vRdcYRuZQC84SzNnxSNLh), [Lucy Val](https://open.spotify.com/artist/5qRt6hfvseSt0Xn0V300vx) | [Para Quê](https://open.spotify.com/album/09R926bPszpeL9wxP9L6fn) | 2:26 | 2025-10-02 | 2025-10-24 |
 | [Parece Pouco](https://open.spotify.com/track/5KA1V80qHwba5lZUXthwaa) | [Luca Argel](https://open.spotify.com/artist/2ZDNfNtWDgHegtoD5yvHjt), [Pri Azevedo](https://open.spotify.com/artist/72PykpqsbT3XmUwPSpDg1u) | [Visita](https://open.spotify.com/album/63Xv1eNicvBdtlhGKuOFDU) | 2:53 | 2024-10-17 | 2024-11-22 |
-| [Parece, Parece](https://open.spotify.com/track/6WCE4KO1yZ2ao8YonWbUSx) | [Filipe Karlsson](https://open.spotify.com/artist/0Yh7cLzoB86bDiq6fAXfB6) | [Parece, Parece](https://open.spotify.com/album/2ORLIhpYjTnFOZ7LCner4e) | 3:44 | 2025-11-07 |  |
+| [Parece, Parece](https://open.spotify.com/track/6WCE4KO1yZ2ao8YonWbUSx) | [Filipe Karlsson](https://open.spotify.com/artist/0Yh7cLzoB86bDiq6fAXfB6) | [Parece, Parece](https://open.spotify.com/album/2ORLIhpYjTnFOZ7LCner4e) | 3:44 | 2025-11-07 | 2025-11-21 |
 | [Pedra e cal](https://open.spotify.com/track/5uSGKQbMG7oc2b6V4BPqqj) | [Samuel Úria](https://open.spotify.com/artist/5RRpftRxDNxlmo5lSn5UCg), [Os 12 ao todo](https://open.spotify.com/artist/4LYSMHtyqOvZuZ8bshgOlh) | [Pedra e cal](https://open.spotify.com/album/7lQD7UBygpZfAqLi4bs8D8) | 2:51 | 2025-10-02 | 2025-10-17 |
 | [People Watching](https://open.spotify.com/track/3ZZyUf7WkhfN1JkQZZ00fI) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching](https://open.spotify.com/album/2Qg1mJJObwIAJiFHTQvl9E) | 5:11 | 2024-11-15 |  |
 | [Perfectly](https://open.spotify.com/track/2kTnXxFUsLjpdkCf4PEPKg) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [Perfectly](https://open.spotify.com/album/46WZk8LNyCZvf04uSdwDyD) | 3:50 | 2025-07-17 | 2025-11-07 |
@@ -299,6 +300,7 @@
 | [S P E Y S I D E](https://open.spotify.com/track/6khKJVbTxzfhbGfHMtyOM8) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [S P E Y S I D E](https://open.spotify.com/album/5VFsihsTprFnqRHyrNxMPs) | 3:29 | 2024-09-20 | 2025-01-24 |
 | [Same Old Song](https://open.spotify.com/track/7fgBaZMKj1KIftugsmBrkB) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Automatic \(Preview\)](https://open.spotify.com/album/7jnh9Dv3ocxLzYmf8kAL4p) | 2:54 | 2025-01-10 | 2025-02-21 |
 | [Savage](https://open.spotify.com/track/1mq8wH5sWqjzwvRIHxdlHN) | [LEROCQUE](https://open.spotify.com/artist/4BI5i3MlNaNIi5BPby3r3O) | [Savage](https://open.spotify.com/album/7Ch9Q8EBf6v2eKP3OItSEV) | 3:32 | 2024-07-25 | 2024-08-09 |
+| [SAVE MY SOUL](https://open.spotify.com/track/0gF5UuEPNvpdDAY0BItOzv) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [SAVE MY SOUL](https://open.spotify.com/album/1tSRIsR2Y8dQ63QNFQnCSU) | 3:57 | 2025-11-21 |  |
 | [Say Yes To Heaven](https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Say Yes To Heaven](https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok) | 3:29 | 2024-06-20 |  |
 | [Scared To Start](https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Scared To Start](https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39) | 2:39 | 2024-06-20 |  |
 | [Se Eu Pudesse](https://open.spotify.com/track/0HEHGiXQTGycAW6k6s6mAJ) | [SfiL](https://open.spotify.com/artist/4SdefXsHLZnpwJGU5dgDcv) | [Se Eu Pudesse](https://open.spotify.com/album/4iPvqZVPL3hOURbUVFW8Cm) | 3:24 | 2025-05-29 | 2025-06-21 |
@@ -388,6 +390,7 @@
 | [Wild Dreams](https://open.spotify.com/track/3ryQlOYypwEgxO3Ro6diSr) | [Cristóvam](https://open.spotify.com/artist/7p23ERQPaBJU2W0gguMNTi) | [Wild Dreams](https://open.spotify.com/album/525TrAVdQ5eqjkNKUTacAI) | 3:23 | 2024-12-13 | 2025-01-10 |
 | [Wild Long Lie](https://open.spotify.com/track/1SCWdCsPcC5UWJ0jGpWjFm) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Wild Long Lie](https://open.spotify.com/album/2TYwCemvaxgFK7dOwv9Zoo) | 6:04 | 2024-12-13 | 2025-03-28 |
 | [XTC](https://open.spotify.com/track/1nprNtGeg6usxwk5TZHJNi) | [urika's bedroom](https://open.spotify.com/artist/6LhbOssuAbrXa5Wzcskhhw) | [XTC](https://open.spotify.com/album/7vdX9R9wDp0lQcisTd1G2o) | 4:05 | 2024-07-04 | 2024-07-27 |
+| [You got time and I got money \- VVTZJ EDIT](https://open.spotify.com/track/5mLchLWTDgVPJPOjmDoeAx) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag), [VVTZJ](https://open.spotify.com/artist/2gJxIQspPPFPuNt5RFCtsw) | [Big city life EDITS](https://open.spotify.com/album/3ggimNXIMUP70F50ZGgPMy) | 5:22 | 2025-11-21 |  |
 | [Yougotmefeeling](https://open.spotify.com/track/5tUgNChqKSz7ezdwtP9juP) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Yougotmefeeling](https://open.spotify.com/album/1cEohOuRI90FBrWx9DRkJ4) | 3:03 | 2025-05-08 |  |
 | [Your New Favorite Song](https://open.spotify.com/track/6mxvsThgEclVwrA0ZPWbkQ) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Your New Favorite Song](https://open.spotify.com/album/0xIQsahcD55CfVddCz0Cue) | 3:07 | 2025-01-10 | 2025-05-23 |
 | [É da Cabeça](https://open.spotify.com/track/5o5vDEl7aCOQcwB9ZqBn0s) | [Zarco](https://open.spotify.com/artist/4HRBWg3xfeRpTQoA8QzUcZ) | [É da Cabeça](https://open.spotify.com/album/3guaxLXnYqUupZCgdDlvSS) | 3:18 | 2024-08-29 | 2024-10-04 |

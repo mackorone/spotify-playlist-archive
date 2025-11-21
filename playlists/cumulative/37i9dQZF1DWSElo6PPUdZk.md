@@ -4,7 +4,7 @@
 
 > Catch the queens of Punjabi Pop\. Cover: Sunanda Sharma
 
-238 songs - 12 hr 3 min
+239 songs - 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Bomb Girls](https://open.spotify.com/track/6lzT9XZmdDnGhHQO35NsxO) | [Karam Brar](https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79), [Jashan Heer](https://open.spotify.com/artist/1be4zPbQAEj3xPKMwzqYK3), [Ritu Jass](https://open.spotify.com/artist/2FxBavpSzU5ZeSdeirCw7D) | [Bomb Girls](https://open.spotify.com/album/0WRy57nLzCeCoy1u8CzQRT) | 2:43 | 2024-11-18 | 2025-07-12 |
 | [Bombshell](https://open.spotify.com/track/1lwIEn4LvceKySirb4olKh) | [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C) | [Bombshell](https://open.spotify.com/album/78RIGKdHOd2J4qAhxNdxlU) | 2:34 | 2025-10-14 |  |
 | [Broken Glass](https://open.spotify.com/track/2c8Zm8l8xL2MIscCLrgHNA) | [Bambi Bains](https://open.spotify.com/artist/2HspNtajToyPB9hjki4CVV), [SHAYE](https://open.spotify.com/artist/5bPXhWvQooHOtG2BpoK6Da) | [Broken Glass](https://open.spotify.com/album/1BtsJ1KnKpCjoTYud3z7EU) | 2:20 | 2023-03-18 | 2023-10-10 |
+| [Bullah Ki Jaana](https://open.spotify.com/track/0jEb7O3dQY9r2Z4uRST7Xb) | [Deveshi Sahgal](https://open.spotify.com/artist/1PKC3nPoqvdGFs3hvwIjkP) | [Bullah Ki Jaana](https://open.spotify.com/album/19mGDlOD42nxVWr2rxSjch) | 5:34 | 2025-11-20 |  |
 | [Chaa](https://open.spotify.com/track/2DCXCHRfNg15v6xKNXkWms) | [Karam Brar](https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79), [KV Singh](https://open.spotify.com/artist/5mmEV4u8FRcTvPnXf7TWRF) | [Chaa](https://open.spotify.com/album/0uubOv6pDL9ucUZVuZEtNM) | 3:11 | 2024-10-24 | 2025-01-16 |
 | [Chakk Dan Gey](https://open.spotify.com/track/04OwlVqkEpJXiBKyPmTCOR) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Chakk Dan Gey](https://open.spotify.com/album/2L7tRROA8UKC09b0VlAYR3) | 2:24 | 2025-01-20 | 2025-09-13 |
 | [Challa](https://open.spotify.com/track/1JDGbbo7p8vTn9telazxNG) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo) | [Challa](https://open.spotify.com/album/4vrY5oQa2qYcA21IBPKNlz) | 4:46 | 2024-12-03 |  |
@@ -70,7 +71,7 @@
 | [Geda](https://open.spotify.com/track/7oxjZxQdyDhKpINT4Qs14h) | [Deepak Dhillon](https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY), [Music Empire](https://open.spotify.com/artist/4LqmswmlN0mAZs930MjGOt), [Love Jeet Singh Bhullar](https://open.spotify.com/artist/0pEvJdl0b4YNdMRYiQPBvg) | [Geda](https://open.spotify.com/album/1h6E275XbvGigjw4Kwdo9w) | 2:19 | 2024-09-28 | 2025-01-11 |
 | [Gerhe](https://open.spotify.com/track/32vevf8YHQp6YXsX3gcXTd) | [Harmanpreet Kaur](https://open.spotify.com/artist/514AvNhszo9vWHoG732hEG) | [Gerhe](https://open.spotify.com/album/0yN3IYKGYq5kJPlvh7UTla) | 3:14 | 2024-10-08 | 2024-12-04 |
 | [Ghori](https://open.spotify.com/track/2NNBsoC80svL6FU8mIhn82) | [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C) | [Mahi Da Viyah](https://open.spotify.com/album/799pGvv7ev2JMIMMy8GJCR) | 4:31 | 2023-03-18 | 2023-04-20 |
-| [Gidha Kiwe Payida 2.0](https://open.spotify.com/track/4K4kGoqdM1XToFMtoOL1Gf) | [Ammie Papra](https://open.spotify.com/artist/3yi9bsstNojIMIDvCeBZMs) | [Gidha Kiwe Payida 2.0](https://open.spotify.com/album/6iQxUOMj3H7hyr5yVwnkYL) | 3:32 | 2024-09-28 |  |
+| [Gidha Kiwe Payida 2.0](https://open.spotify.com/track/4K4kGoqdM1XToFMtoOL1Gf) | [Ammie Papra](https://open.spotify.com/artist/3yi9bsstNojIMIDvCeBZMs) | [Gidha Kiwe Payida 2.0](https://open.spotify.com/album/6iQxUOMj3H7hyr5yVwnkYL) | 3:32 | 2024-09-28 | 2025-11-21 |
 | [Girl Anthem](https://open.spotify.com/track/5Achtd7j1uSUvJlIPHIL8q) | [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3) | [Girl Anthem](https://open.spotify.com/album/69Jud0DQ8GwV4C3zokKtYY) | 3:25 | 2025-03-03 | 2025-04-21 |
 | [Good Luck](https://open.spotify.com/track/7o3py15E6jl10blnwEj4cP) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Pari Pandher](https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA) | [Good Luck](https://open.spotify.com/album/3zaGOSPJY6ADqytyWIM81N) | 3:31 | 2023-04-19 | 2024-04-19 |
 | [Good Luck](https://open.spotify.com/track/73TvYoUkicK6IPA21WDXdW) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Pari Pandher](https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA), [Chet Singh](https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv) | [Good Luck](https://open.spotify.com/album/5VzvS0APXNfXoYwUPZetPg) | 3:31 | 2024-01-30 | 2024-04-24 |

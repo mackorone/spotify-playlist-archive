@@ -1,12 +1,12 @@
 {
   "description": "This is BNXN. The essential tracks, all in one playlist.",
-  "num_followers": 42763,
+  "num_followers": 42785,
   "original_name": "This Is BNXN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRu3AAAAAAD1Plbca+08kJrxYVuw8dx4",
+  "snapshot_id": "aR0IgAAAAACCSHtbnDlVAtYBfu6EkwfN",
   "tracks": [
     {
       "added_at": null,
@@ -639,26 +639,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Close To Me (feat. Bnxn)",
-        "url": "https://open.spotify.com/album/51qTEJpyq7ACSsH01ghLrq"
+        "name": "RnB",
+        "url": "https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu"
       },
       "artists": [
         {
-          "name": "Niphkeys",
-          "url": "https://open.spotify.com/artist/6vAWSq2hKcuItyByR5krQV"
-        },
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
         },
         {
           "name": "BNXN",
           "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 156831,
-      "name": "Close To Me (feat. Bnxn)",
-      "url": "https://open.spotify.com/track/2zoZOVdfrwY359yrP8dhkD"
+      "duration_ms": 175777,
+      "name": "Party Monster",
+      "url": "https://open.spotify.com/track/6XQ3ver8HQA5voTiXDk0xG"
     },
     {
       "added_at": null,
@@ -699,22 +695,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "RnB",
-        "url": "https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu"
+        "name": "Close To Me (feat. Bnxn)",
+        "url": "https://open.spotify.com/album/51qTEJpyq7ACSsH01ghLrq"
       },
       "artists": [
         {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+          "name": "Niphkeys",
+          "url": "https://open.spotify.com/artist/6vAWSq2hKcuItyByR5krQV"
+        },
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
         },
         {
           "name": "BNXN",
           "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 175777,
-      "name": "Party Monster",
-      "url": "https://open.spotify.com/track/6XQ3ver8HQA5voTiXDk0xG"
+      "duration_ms": 156831,
+      "name": "Close To Me (feat. Bnxn)",
+      "url": "https://open.spotify.com/track/2zoZOVdfrwY359yrP8dhkD"
     },
     {
       "added_at": null,

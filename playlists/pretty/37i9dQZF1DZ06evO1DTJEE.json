@@ -1,12 +1,12 @@
 {
   "description": "This is Riley Green. The essential tracks, all in one playlist.",
-  "num_followers": 62259,
+  "num_followers": 62413,
   "original_name": "This Is Riley Green",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRu3AAAAAAB8Vi3vQ9HN7oTToYv2nX0O",
+  "snapshot_id": "aR0IgAAAAAC01lEzYwVJvHnrzWToexrV",
   "tracks": [
     {
       "added_at": null,
@@ -487,8 +487,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bury Me In Dixie",
-        "url": "https://open.spotify.com/album/2DdfSnAa1HAU0BpUh2amI8"
+        "name": "Different 'Round Here",
+        "url": "https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv"
       },
       "artists": [
         {
@@ -496,9 +496,9 @@
           "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
         }
       ],
-      "duration_ms": 188250,
-      "name": "Bury Me In Dixie",
-      "url": "https://open.spotify.com/track/7KFbFqfBxqRtSSwkA874iv"
+      "duration_ms": 203426,
+      "name": "Break Up More Often",
+      "url": "https://open.spotify.com/track/6FpSqJRS0786oDMKIDqISd"
     },
     {
       "added_at": null,
@@ -551,6 +551,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bury Me In Dixie",
+        "url": "https://open.spotify.com/album/2DdfSnAa1HAU0BpUh2amI8"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 188250,
+      "name": "Bury Me In Dixie",
+      "url": "https://open.spotify.com/track/7KFbFqfBxqRtSSwkA874iv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Different 'Round Here",
         "url": "https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv"
       },
@@ -560,25 +576,9 @@
           "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
         }
       ],
-      "duration_ms": 203426,
-      "name": "Break Up More Often",
-      "url": "https://open.spotify.com/track/6FpSqJRS0786oDMKIDqISd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rather Be",
-        "url": "https://open.spotify.com/album/0lxxno3J2bozJPkMYLD2X4"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 171142,
-      "name": "Rather Be",
-      "url": "https://open.spotify.com/track/0gLFZFnaOy3Fa2uBApznuW"
+      "duration_ms": 188426,
+      "name": "Same Old Song",
+      "url": "https://open.spotify.com/track/7lBkuyDfK0y6x6N6Zd1Z0U"
     },
     {
       "added_at": null,
@@ -599,6 +599,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rather Be",
+        "url": "https://open.spotify.com/album/0lxxno3J2bozJPkMYLD2X4"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 171142,
+      "name": "Rather Be",
+      "url": "https://open.spotify.com/track/0gLFZFnaOy3Fa2uBApznuW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Midtown Sessions",
         "url": "https://open.spotify.com/album/7Bk3NQvOA9AgH1JVjnEJdT"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 194064,
       "name": "Cowboy In Me - Acoustic",
       "url": "https://open.spotify.com/track/6Rfr1N8uFJrORp4AH3XZEg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Different 'Round Here",
-        "url": "https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 188426,
-      "name": "Same Old Song",
-      "url": "https://open.spotify.com/track/7lBkuyDfK0y6x6N6Zd1Z0U"
     },
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Mind If I Do (Deluxe)",
-        "url": "https://open.spotify.com/album/1zYMNgeczOfopUj0mDK8Nx"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 182933,
-      "name": "Turnin' Dirt",
-      "url": "https://open.spotify.com/track/1waeaqJdejQLKhuHHaL0o1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "If It Wasn't For Trucks (Big Machine Radio Release Special)",
         "url": "https://open.spotify.com/album/25BFs1sFMT7yn0MUTTdphp"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 183560,
       "name": "Jesus And Wranglers",
       "url": "https://open.spotify.com/track/5anbo4JjAPHa8UbEmRls05"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don't Mind If I Do (Deluxe)",
+        "url": "https://open.spotify.com/album/1zYMNgeczOfopUj0mDK8Nx"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 182933,
+      "name": "Turnin' Dirt",
+      "url": "https://open.spotify.com/track/1waeaqJdejQLKhuHHaL0o1"
     },
     {
       "added_at": null,

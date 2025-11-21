@@ -4,7 +4,7 @@
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-1,811 songs - 4 day 10 hr 17 min
+1,815 songs - 4 day 10 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -294,6 +294,7 @@
 | [Corazón Del Mar](https://open.spotify.com/track/6RVbwZxmzCXTfYVbKkKDFj) | [Canções da Floresta](https://open.spotify.com/artist/4IJV7Jhja2ZKyyyLOoFYbp), [Michelle C\. Buss](https://open.spotify.com/artist/08K1zPjnw6xAEAyEZb94vy), [Pablo Vares](https://open.spotify.com/artist/1Yfkq6m8bS7LFzoZ3ehh6d) | [Corazón Del Mar](https://open.spotify.com/album/39R2jlpoZmUGu2LdaD5RYQ) | 3:26 | 2025-09-30 |  |
 | [Cornpone the King of Jive](https://open.spotify.com/track/5i9dSzc9Z8dVfz9nGkzoa8) | [Edgar Breau](https://open.spotify.com/artist/1OmNxo8m1mMZHKAqQvXuCO) | [Cornpone the King of Jive](https://open.spotify.com/album/6KhhqA9sP4Wj0dUzCImFfC) | 3:48 | 2025-02-05 |  |
 | [Corolla](https://open.spotify.com/track/1mSKMxaKg0JW9gAOou8JBE) | [Josue Barahona](https://open.spotify.com/artist/0jzz3TOAF1TY4obhsjFc7M) | [Corolla](https://open.spotify.com/album/1k1wV1hFvVH2APJqzqx5Q5) | 3:02 | 2024-07-03 |  |
+| [Corrado](https://open.spotify.com/track/1QXGkSB2T1pNR8hDT2mFoO) | [Le Pietre di Mara](https://open.spotify.com/artist/7hv4rQbq0zehg96NzK4i5M) | [Corrado](https://open.spotify.com/album/3YvkiNefWVg45wCKtcsG1c) | 0:48 | 2025-11-20 |  |
 | [Cosmos](https://open.spotify.com/track/4HD0Z82jcBGW2Fh5ehRKbE) | [Allan Fontes](https://open.spotify.com/artist/1SoCnTztxzCxvqVuPwEamz) | [Cosmos](https://open.spotify.com/album/7AbqxOPrP7GA3xvIQmz1e4) | 2:18 | 2025-08-05 |  |
 | [Costumes](https://open.spotify.com/track/1XNGIMH27UcpxfPwEBgZIj) | [Nick Noon](https://open.spotify.com/artist/7Euxf3XKxREL98vEaCoeEa) | [Costumes](https://open.spotify.com/album/3jtuV9evuUyDotEtxhgpcC) | 5:02 | 2024-08-22 |  |
 | [COULD BE](https://open.spotify.com/track/749ChHRGsVDuYcTVmqTZjV) | [Vinicio Simonetti](https://open.spotify.com/artist/457CGCR3k3hCBcMPkrYm8D) | [COULD BE](https://open.spotify.com/album/1RJVo0KqgfJY4GjGHheICt) | 3:39 | 2025-10-27 |  |
@@ -1303,6 +1304,7 @@
 | [Scream](https://open.spotify.com/track/2ZHgLWu8IzIeHWqAjWFLSx) | [Anna Searight](https://open.spotify.com/artist/7gLO6oVqDUJ93e1FqpJkII) | [Scream](https://open.spotify.com/album/3CiRJexs98yo6Wp8Xx7Ncb) | 3:29 | 2025-08-12 |  |
 | [Screens](https://open.spotify.com/track/6ZXBp6plZ2WvUg0ACmfQVJ) | [ARK IDENTITY](https://open.spotify.com/artist/569UPpViTfeKYYJRjggAz8) | [Screens](https://open.spotify.com/album/3Ja2pRgTTF0YvhR1YPzdcd) | 3:26 | 2024-08-22 |  |
 | [Se parliamo d'amore](https://open.spotify.com/track/6FpfNYy5NIBwilNvRmzR6B) | [Manuel Marino](https://open.spotify.com/artist/0gbimxmrRQbbiwHeWinxWQ) | [Se parliamo d'amore](https://open.spotify.com/album/6gU5wpU6ZSpKKnPXus8uHO) | 4:20 | 2025-10-30 |  |
+| [Sea Day](https://open.spotify.com/track/50XjtTSz3jKUVgZru25dMa) | [GhostWriterCollaborative](https://open.spotify.com/artist/04UY8tjGEROEvEdK4iBhov) | [Sixth Album](https://open.spotify.com/album/4oQxGtwLnhiogBInr9a79s) | 3:04 | 2025-11-20 |  |
 | [Second Chance](https://open.spotify.com/track/4kPxaMMsHa95tYKRXtO27z) | [J.V\. Ferreira](https://open.spotify.com/artist/71IyZPuWgamI0vGHr0YKj7) | [Second Chance](https://open.spotify.com/album/7FnG077RVZGoLWqieZRDO3) | 3:22 | 2025-07-02 |  |
 | [Second Chance](https://open.spotify.com/track/7mwfO87ZHJ8pMcOTKI3PLk) | [J.V\. Ferreira](https://open.spotify.com/artist/71IyZPuWgamI0vGHr0YKj7) | [Second Chance](https://open.spotify.com/album/1EGpI3O7FK6iZ3vDJ3xCAH) | 3:22 | 2025-06-03 |  |
 | [See Through](https://open.spotify.com/track/1AP3U4LTYNGtp8iPcA6HTX) | [Purr Mewsik](https://open.spotify.com/artist/3J4qIfPcJpIifGVLyJLtmK) | [See Through](https://open.spotify.com/album/3oRiBE4ECbFUfmiDr6V3Yi) | 3:18 | 2024-08-20 |  |
@@ -1771,6 +1773,7 @@
 | [You're Loved](https://open.spotify.com/track/7gUkPv5TUvwUP9pcPiFetc) | [xxALEXAxx](https://open.spotify.com/artist/3uqD7jBvgbNw4RNIbvNBSJ) | [You're Loved](https://open.spotify.com/album/3SPwAcbKodOWx08mFjED3p) | 2:29 | 2025-08-14 |  |
 | [You're Not Here](https://open.spotify.com/track/4lXT6EY6C4hiMFTamjX7wX) | [Jayyy Blue](https://open.spotify.com/artist/6qZhpj9HaQunNf10uwoZhP) | [You're Not Here](https://open.spotify.com/album/72p6hNwG6zzrBzrwMCNVJa) | 1:55 | 2025-05-29 |  |
 | [You're Supposed to Know](https://open.spotify.com/track/6Ei1u1Yn6JP151zDWUUt9O) | [Forest Veil](https://open.spotify.com/artist/2s9Zy6OuzaRKa6SsmyQe5r) | [You're Supposed to Know](https://open.spotify.com/album/5HNqVseTcqi0FqAOt0yezB) | 3:04 | 2024-08-05 |  |
+| [You've Got This!](https://open.spotify.com/track/0jP1cP68nrgzCUJgtYQWQY) | [Annette Davies](https://open.spotify.com/artist/1IKGoSyqjfq4xQLijteRpj) | [You've Got This!](https://open.spotify.com/album/2g5rQuX0J8CIhzboin3yau) | 3:58 | 2025-11-20 |  |
 | [You, Babe](https://open.spotify.com/track/2kwncHpBMva0AgIUoiMrZ0) | [Justin H.K.](https://open.spotify.com/artist/0g6KAUfXRADHRGajR1Lw2D) | [Dad Jazz](https://open.spotify.com/album/55Whm9rQ9Vuqo5vZGlo1Cf) | 1:58 | 2024-05-28 |  |
 | [Young Man](https://open.spotify.com/track/3eKn7PQhijBQiQ8BRDIYtX) | [Highrise](https://open.spotify.com/artist/0K37X9yuGZbV6PVwjuDxtj) | [Young Man](https://open.spotify.com/album/2N3nmmxWQCQRZVZsjkL9XY) | 2:55 | 2025-11-06 |  |
 | [your fire](https://open.spotify.com/track/6klzgVBx8Xl2X4QwDrzBHQ) | [Sweetshirt](https://open.spotify.com/artist/7uNgpGi95W3yBlDs2kB6cI) | [your fire](https://open.spotify.com/album/5KiH6DcXPPEPNY3A9vGHXk) | 3:04 | 2025-03-04 |  |
@@ -1805,6 +1808,7 @@
 | [Космос ждёт!](https://open.spotify.com/track/0JPFXFDmQcoixLEcniPbsx) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Космос](https://open.spotify.com/album/2jcE7I4Mqs4iGeY9PL3yRZ) | 4:44 | 2025-07-01 |  |
 | [Не спеши уходить!](https://open.spotify.com/track/4wPij2wRcsjhET7TroU53q) | [Алмазные рудники](https://open.spotify.com/artist/1Pzg3icbv2hR9yJ2b4WU0p) | [Там, где ты...](https://open.spotify.com/album/2Qw8e3RYWPEl6IhkH2cadJ) | 2:35 | 2024-11-20 |  |
 | [Потанцуй со мной](https://open.spotify.com/track/16VPoNNjPfXhmH4J2M3MDA) | [Алмазные рудники](https://open.spotify.com/artist/1Pzg3icbv2hR9yJ2b4WU0p) | [Там, где ты...](https://open.spotify.com/album/2Qw8e3RYWPEl6IhkH2cadJ) | 2:36 | 2025-04-02 |  |
+| [Славно](https://open.spotify.com/track/01gLdhCCNYtDeTO2vZ10uu) | [Dieori22](https://open.spotify.com/artist/1pT9dipei03s1GwAseDiC1) | [Славно](https://open.spotify.com/album/2DWIUxzOAYZvOhgjMLqb1k) | 4:10 | 2025-11-20 |  |
 | [Стихи усыпаны золой](https://open.spotify.com/track/5lKLESXe57MOnrruGp509e) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Стихи усыпаны золой](https://open.spotify.com/album/5R6LA8nzq4jZsMsWAK53TG) | 2:37 | 2025-04-07 |  |
 | [Убийцы](https://open.spotify.com/track/3lnQzTbJSFD9thh1MLNLZU) | [Камбэк](https://open.spotify.com/artist/3VN76YECunIkzUExILxssC) | [Убийцы](https://open.spotify.com/album/2bV9cxmk7lGpQBHN8n4EdE) | 3:20 | 2024-09-01 |  |
 | [чёрный ворон](https://open.spotify.com/track/5cLJrWPW2qWQxIasNDbZEC) | [Katrina Paula Diringa](https://open.spotify.com/artist/2jNIzZ7kWDEP1sVA1SK4lq) | [чёрный ворон](https://open.spotify.com/album/0DOQYakmr9eboI0Zp6SLzY) | 3:59 | 2025-07-11 |  |

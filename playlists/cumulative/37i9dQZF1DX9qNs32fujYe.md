@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks\. Cover: King Diamond
 
-1,161 songs - 3 day 12 hr 32 min
+1,162 songs - 3 day 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -644,7 +644,7 @@
 | [Nemo](https://open.spotify.com/track/1RNwniZkJqdw9LMkkyynjx) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Once](https://open.spotify.com/album/2wM6svkNOCsYP8sr9gP2zc) | 4:36 | 2023-05-05 | 2024-07-13 |
 | [Nemo](https://open.spotify.com/track/5OF7nhjVV0dmngqYjDrZGw) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Once](https://open.spotify.com/album/0aDCpYtFdQ0S8C3oAtOonk) | 4:36 | 2022-08-19 | 2023-02-11 |
 | [Nerve](https://open.spotify.com/track/7axsqaUbWaD2MMnIiJUv36) | [Orbit Culture](https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY) | [Nerve](https://open.spotify.com/album/4BbTiIHFLWEkqabIVpDDDE) | 5:52 | 2025-09-05 |  |
-| [Never Again \(Parasite\)](https://open.spotify.com/track/5gXIDQDs0ur8CjPg6BFLoG) | [Tetrarch](https://open.spotify.com/artist/5e43m4iYsZF54tHcJNAVU2) | [Never Again \(Parasite\)](https://open.spotify.com/album/6JiZnSdiYzpqUBdmHZVnWv) | 3:24 | 2025-02-14 | 2025-11-18 |
+| [Never Again \(Parasite\)](https://open.spotify.com/track/5gXIDQDs0ur8CjPg6BFLoG) | [Tetrarch](https://open.spotify.com/artist/5e43m4iYsZF54tHcJNAVU2) | [Never Again \(Parasite\)](https://open.spotify.com/album/6JiZnSdiYzpqUBdmHZVnWv) | 3:24 | 2025-02-14 |  |
 | [Never Dawn](https://open.spotify.com/track/53h0CfeES5dh1ECvoNjlMu) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Never Dawn](https://open.spotify.com/album/3n9sbXBR3ZhRwuNb4KBisF) | 4:49 | 2024-03-08 | 2025-02-15 |
 | [Never the Heroes](https://open.spotify.com/track/5LHebeJkgALO0q8YpullpY) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Reflections \- 50 Heavy Metal Years of Music](https://open.spotify.com/album/2alySadx70cVPH0YC9QHFM) | 4:24 | 2021-12-17 | 2025-02-01 |
 | [Nevermore](https://open.spotify.com/track/3UxbX3S3t6IKzGW4gGgYtr) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Nevermore](https://open.spotify.com/album/5cIXfBbWxO4vcWqcur8LEc) | 4:35 | 2022-06-10 | 2022-06-17 |
@@ -727,6 +727,7 @@
 | [Paranoid \- 2012 \- Remaster](https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid \(Remaster\)](https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7) | 2:48 | 2022-08-19 | 2024-04-19 |
 | [Paranormalium](https://open.spotify.com/track/1qnJF3sdfkV2HLHwZRMPEP) | [Voivod](https://open.spotify.com/artist/0lFiKrJUofJpnrAJnMsnQ3) | [Synchro Anarchy](https://open.spotify.com/album/2JZN65DjGzT65ondXiQDHI) | 5:34 | 2022-03-22 | 2022-04-02 |
 | [Parasite Eve](https://open.spotify.com/track/36xBFaVGjqm7le8CTHytUj) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: SURVIVAL HORROR](https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4) | 4:51 | 2022-07-13 | 2025-10-05 |
+| [Parasocial Christ](https://open.spotify.com/track/5v2qSbA4BeIKhhBSHbfH6i) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Parasocial Christ](https://open.spotify.com/album/66PcSynAzKA0YtIU7Drb9x) | 3:20 | 2025-11-14 |  |
 | [Party in My Head](https://open.spotify.com/track/0iqJIE15UsLphh2BdZ3aoh) | [PAIN](https://open.spotify.com/artist/0hGpZy6ws8FofByMkt0CV1) | [Party in My Head](https://open.spotify.com/album/7yiMd6l7NvEbDwgjfImxUp) | 3:08 | 2021-12-17 | 2024-10-12 |
 | [Patient Number 9 \(feat\. Jeff Beck\)](https://open.spotify.com/track/6kAOsnRUgp21bPiUoVZeuJ) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Patient Number 9 \(feat\. Jeff Beck\)](https://open.spotify.com/album/6ofIoMgNMIM7cvlxjWNcpN) | 7:21 | 2022-06-24 | 2022-12-03 |
 | [Pendulum](https://open.spotify.com/track/0KlYaNfi8G70HSLYWW7aci) | [Fleshgod Apocalypse](https://open.spotify.com/artist/5ctFffJBdJe8PZL7W7NeML) | [Pendulum](https://open.spotify.com/album/3F7k4WguL6XUBe1CUW0dWm) | 3:58 | 2024-03-08 | 2024-07-13 |
@@ -1006,7 +1007,7 @@
 | [The Royal Guard](https://open.spotify.com/track/4b5wv7SrTtIO7z8uwYAiP5) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [The Royal Guard](https://open.spotify.com/album/66MqUrsicmrueRI5ESINJe) | 4:37 | 2021-12-17 | 2022-04-22 |
 | [The Scythe's Remorseless Swing](https://open.spotify.com/track/1lDusYqix25i6mR2eY6ltG) | [Carcass](https://open.spotify.com/artist/5lhaM01nwvsMZpmPY2HVER) | [Torn Arteries](https://open.spotify.com/album/7gLYRl6OVQjgsceV95XuUR) | 5:20 | 2021-12-17 | 2022-07-18 |
 | [The Shellback](https://open.spotify.com/track/5bh6QfHWuR1YdnKOdj8kYA) | [Running Wild](https://open.spotify.com/artist/7954VFaZClkL503srfV5PE) | [The Shellback](https://open.spotify.com/album/4zo5sOsmEpY1hVvoG9oX5Z) | 6:12 | 2021-12-17 | 2022-07-26 |
-| [The Shit Ov God](https://open.spotify.com/track/3HgNP8qTCHld77Sp6s6WJd) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [The Shit Ov God](https://open.spotify.com/album/3ccudifPGHRHUE8AMuCUQC) | 5:36 | 2025-01-31 |  |
+| [The Shit Ov God](https://open.spotify.com/track/3HgNP8qTCHld77Sp6s6WJd) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [The Shit Ov God](https://open.spotify.com/album/3ccudifPGHRHUE8AMuCUQC) | 5:36 | 2025-01-31 | 2025-11-21 |
 | [The Sirens Sound](https://open.spotify.com/track/13ke0vDc5JPVf9Hzcik9V8) | [Greenleaf](https://open.spotify.com/artist/2Mjr7nb7vY7AQwxGskDlM7) | [The Head & The Habit](https://open.spotify.com/album/1gsJpMVqM372TjZwQ19dYq) | 4:32 | 2024-06-21 | 2024-08-23 |
 | [The Skeleton Key](https://open.spotify.com/track/6IVKiq8Xxhvg03MUtu5smv) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp) | [Omega](https://open.spotify.com/album/4Hb5cbP4Z9H9G1HavAra4q) | 5:06 | 2021-12-17 |  |
 | [The Stargate \[Tablet I\]](https://open.spotify.com/track/6FCnWu5zcWDoeScwYayLv6) | [Blood Incantation](https://open.spotify.com/artist/6FGv87WQ3mJWn3cmLUww6x) | [The Stargate](https://open.spotify.com/album/74QYxU9qmoLzkuHp4RdCGP) | 8:20 | 2024-10-11 | 2025-01-22 |

@@ -2,9 +2,9 @@
 
 ### [Swahili Love ](https://open.spotify.com/playlist/37i9dQZF1DX1YGbV4eeC1J)
 
-> What is your love language? Say it in Swahili\.  Cover: Lony Bway
+> What is your love language? Say it in Swahili\.  Cover: Itaré
 
-322 songs - 18 hr 5 min
+323 songs - 18 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [I Wish](https://open.spotify.com/track/4GIfPrNdScX8VS7uL931G4) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [I Wish](https://open.spotify.com/album/3PHJ72Y8qHslPZ6gPIkj8V) | 3:43 | 2022-06-23 | 2023-07-21 |
 | [In Case You Don't Know](https://open.spotify.com/track/6gGmfPBMuAYZsm78uaW9Cg) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6) | [The Love Album](https://open.spotify.com/album/6oGApINTocokzfDCkgVfkT) | 3:30 | 2022-05-26 | 2024-03-08 |
 | [Inama \(feat\. Diamond Platnumz\)](https://open.spotify.com/track/7radUp1KfnvR1vucxys2ge) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Inama \(feat\. Diamond Platnumz\)](https://open.spotify.com/album/2xWUqQKKTSePnXoMuarKqE) | 2:48 | 2025-09-12 |  |
-| [Inamana](https://open.spotify.com/track/6Ok2y1aYRb3CMwxVXKI6K3) | [Lava Lava](https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd) | [Inamana](https://open.spotify.com/album/1aDCSJhVHkQmbWbSQzRYiq) | 3:16 | 2025-02-06 |  |
+| [Inamana](https://open.spotify.com/track/6Ok2y1aYRb3CMwxVXKI6K3) | [Lava Lava](https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd) | [Inamana](https://open.spotify.com/album/1aDCSJhVHkQmbWbSQzRYiq) | 3:16 | 2025-02-06 | 2025-11-21 |
 | [Inauma](https://open.spotify.com/track/5o9Lrsb1ONwnFUoXs6yOav) | [Aslay](https://open.spotify.com/artist/2dAy5LichEXHjCkpzgcKJr) | [Inauma](https://open.spotify.com/album/6q5kvkKogPAOrzjYy3Y8mD) | 3:23 | 2023-01-26 | 2024-11-08 |
 | [Inauma](https://open.spotify.com/track/3HlLqEWLhoKV9GVVOFerQb) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Inauma](https://open.spotify.com/album/2XucwpZyoKaEjM8lJyZCX5) | 3:30 | 2022-08-04 | 2024-11-08 |
 | [Itakuwaje](https://open.spotify.com/track/6KaOabG3gQtpXkcjIrZpFO) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [Itakuwaje](https://open.spotify.com/album/2iRNMnHtUMbySqQWCpGbov) | 3:43 | 2024-10-24 | 2025-04-18 |
@@ -243,6 +243,7 @@
 | [Pole](https://open.spotify.com/track/5QcJEd09y1NUi2QxNw7MIz) | [Yammi](https://open.spotify.com/artist/6yV5HfoLnS2Yn7qKtS2fIK) | [After All](https://open.spotify.com/album/6skxQDk7Zs9qVRkQKPDNdf) | 3:16 | 2025-08-21 |  |
 | [Pooh Nanny \(Nyumbani\)](https://open.spotify.com/track/0Q1yv11VRcHxXQ2ZcEQkWS) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [The Party & The After Party](https://open.spotify.com/album/56Kq8ZQ6hr8weMZ39FfkZq) | 3:05 | 2024-07-25 | 2024-09-13 |
 | [Popo](https://open.spotify.com/track/68vAcSVvyxY1j5peKjNYzS) | [Willy Paul](https://open.spotify.com/artist/3CCHaNvCKYNWWrAYo5C8TL), [Miss P](https://open.spotify.com/artist/47oczcod6F5RvQVXD7hDV0) | [Popo](https://open.spotify.com/album/2WeLLoRbfIgWDBvXwnIzFx) | 3:15 | 2023-04-27 | 2023-10-20 |
+| [Pretty Girl](https://open.spotify.com/track/2rhVZ0qqAPyjWLLx6FK9ND) | [Itaré](https://open.spotify.com/artist/3yI6gNRof3sCjlPnUPX1Ps) | [Itaré](https://open.spotify.com/album/3Y2ywwd5dL7QmAMtdY78kJ) | 2:35 | 2025-11-20 |  |
 | [Pull Up](https://open.spotify.com/track/4eXsImZyEfPFOp5SC2uW8A) | [Ay Masta](https://open.spotify.com/artist/51x9Wi7MSS1v9u89sc63dg), [Taz](https://open.spotify.com/artist/6bzZpgvlwwhSRV6nbsKrXa), [Joh Makini](https://open.spotify.com/artist/7w3tP6LjdsurriXhgJ3Pt0), [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Pull Up](https://open.spotify.com/album/4X2KerKCdtjZbhVHNYIGty) | 3:07 | 2024-08-22 | 2024-10-18 |
 | [Rafiki](https://open.spotify.com/track/1zO5X1JsGxihdhwdp3mG6X) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [Rafiki](https://open.spotify.com/album/19iYWFjjmHxMlhJZJlGhdj) | 2:59 | 2024-07-25 | 2025-01-10 |
 | [Raha \(feat\. Zuchu\)](https://open.spotify.com/track/3wlOTfVV8UCB3rwf8shhJL) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Raha \(feat\. Zuchu\)](https://open.spotify.com/album/2gUTuqKYELrZnGbmKVuf4J) | 3:37 | 2024-05-09 | 2024-09-27 |

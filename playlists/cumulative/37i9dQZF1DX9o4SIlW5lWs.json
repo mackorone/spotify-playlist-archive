@@ -796,7 +796,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-05",
+      "date_removed": null,
       "duration_ms": 171502,
       "name": "Angelito",
       "url": "https://open.spotify.com/track/71ObvTyyeJyN10r4JVc3ur"
@@ -1208,7 +1208,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 230945,
       "name": "Chica del Este",
       "url": "https://open.spotify.com/track/3cyZFqR4BxcrDgBCcPHq7s"
@@ -1814,7 +1814,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-03",
+      "date_removed": null,
       "duration_ms": 153653,
       "name": "Coraz\u00f3n De Madera",
       "url": "https://open.spotify.com/track/4zL0APZ6sXFZoJwgyRLRIC"
@@ -2090,6 +2090,24 @@
       "duration_ms": 249822,
       "name": "Culpable",
       "url": "https://open.spotify.com/track/2jOBay9vG5Za3c4fgTd70V"
+    },
+    {
+      "album": {
+        "name": "Culpable o No",
+        "url": "https://open.spotify.com/album/7zd7EMzDmnT1vwxCzIjAKj"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185875,
+      "name": "Culpable o No",
+      "url": "https://open.spotify.com/track/0Rhk4sjBOHXpkQuxMOFwic"
     },
     {
       "album": {
@@ -2384,7 +2402,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 146240,
       "name": "Deja De Llorar",
       "url": "https://open.spotify.com/track/3tddzXTgneWrkV2cYNUBZe"
@@ -2442,7 +2460,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 204669,
       "name": "Dej\u00e9moslo As\u00ed",
       "url": "https://open.spotify.com/track/5tjst7DmSA9UXWncROr3oc"
@@ -2660,7 +2678,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 153665,
       "name": "DJ ALEX, LA JOAQUI - TU AMOR | E7",
       "url": "https://open.spotify.com/track/3N6rAKpPraBOZqn9RhSrz0"
@@ -3258,7 +3276,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 182466,
       "name": "Ella",
       "url": "https://open.spotify.com/track/6ZHydaYmmzJKeceEV5nmuS"
@@ -5022,7 +5040,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 209066,
       "name": "Lloraras mas de diez veces",
       "url": "https://open.spotify.com/track/3Rw4RpKirEtupNJfQSPOjI"
@@ -5136,7 +5154,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-12",
+      "date_removed": null,
       "duration_ms": 235035,
       "name": "Lo Que Son las Cosas",
       "url": "https://open.spotify.com/track/3vvsr13YGLxwTE4wEDSWfq"
@@ -5372,7 +5390,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 242400,
       "name": "Maravillosa Esta Noche",
       "url": "https://open.spotify.com/track/1gonyTKH24V4eDFEbnvewJ"
@@ -6044,7 +6062,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 236840,
       "name": "Muero por T\u00ed",
       "url": "https://open.spotify.com/track/2d9l94V66SgMgvOu0DKdwl"
@@ -6588,6 +6606,32 @@
       "duration_ms": 190449,
       "name": "No Me Ense\u00f1aste",
       "url": "https://open.spotify.com/track/58Bus8hzPubXFBYelGrVMZ"
+    },
+    {
+      "album": {
+        "name": "No Me Lastimes",
+        "url": "https://open.spotify.com/album/4RT87aECG9RK3iYcctcNcR"
+      },
+      "artists": [
+        {
+          "name": "Marcela Morelo",
+          "url": "https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9"
+        },
+        {
+          "name": "La Delio Valdez",
+          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
+        },
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191026,
+      "name": "No Me Lastimes",
+      "url": "https://open.spotify.com/track/23VI7jLGvqDp650fXdoYeY"
     },
     {
       "album": {
@@ -8464,6 +8508,24 @@
     {
       "album": {
         "name": "Si Esta Casa Hablara",
+        "url": "https://open.spotify.com/album/3v6sD95yxf3ZATNFAX9OSF"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191110,
+      "name": "Si Esta Casa Hablara",
+      "url": "https://open.spotify.com/track/2fnyCVLCLgiixqn3M0sqLe"
+    },
+    {
+      "album": {
+        "name": "Si Esta Casa Hablara",
         "url": "https://open.spotify.com/album/7JTFZ8I4RPHodlhmX2faiP"
       },
       "artists": [
@@ -8886,7 +8948,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 171493,
       "name": "Son de Amores",
       "url": "https://open.spotify.com/track/7hY45Nsy6op1yjmnEDVIRu"
@@ -8922,7 +8984,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 224352,
       "name": "Su Florcita",
       "url": "https://open.spotify.com/track/558S2P5A4Ku4bnXheLaXeG"
@@ -9230,7 +9292,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-07",
+      "date_removed": null,
       "duration_ms": 323334,
       "name": "Te Hubieras Ido Antes",
       "url": "https://open.spotify.com/track/2UxquTQq2PH2zHACCtgJ2d"
@@ -9462,7 +9524,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-05",
+      "date_removed": null,
       "duration_ms": 167359,
       "name": "Terco Coraz\u00f3n",
       "url": "https://open.spotify.com/track/5ATLHoLB01iMuBBVIzMa53"
@@ -10124,7 +10186,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-22",
+      "date_removed": null,
       "duration_ms": 176786,
       "name": "Un Velero Llamado Libertad",
       "url": "https://open.spotify.com/track/6KHBf0ZrN0y5T6mlxuTbRW"
@@ -10164,7 +10226,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-29",
+      "date_removed": null,
       "duration_ms": 178588,
       "name": "Una Cartita",
       "url": "https://open.spotify.com/track/6vG53GzGUFjla9oiMq4TK3"
@@ -10928,7 +10990,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-15",
+      "date_removed": null,
       "duration_ms": 209133,
       "name": "Yo Que Te Am\u00e9",
       "url": "https://open.spotify.com/track/2DHJHxgnQZwkcmwvANdiui"
@@ -10986,7 +11048,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 164022,
       "name": "Yo Te Esperare",
       "url": "https://open.spotify.com/track/6WUr8ftmKH0HPAzwsehGXQ"

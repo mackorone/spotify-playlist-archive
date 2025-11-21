@@ -1,6 +1,6 @@
 {
   "description": "We're born naked and the rest is drag. Cover: The Vivienne ",
-  "num_followers": 97795,
+  "num_followers": 97794,
   "original_name": "FIERCE",
   "owner": {
     "name": "Spotify",
@@ -415,22 +415,6 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Hot Couture",
-        "url": "https://open.spotify.com/album/6Ds1mmSABZUymGcIUOvecA"
-      },
-      "artists": [
-        {
-          "name": "Manila Luzon",
-          "url": "https://open.spotify.com/artist/1cJCVvFLO8SLM8W9EITe1g"
-        }
-      ],
-      "duration_ms": 200160,
-      "name": "Hot Couture",
-      "url": "https://open.spotify.com/track/1V6RsQuuDi9Z1yZGV0qVYe"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
         "name": "Blurred Bynes (feat. Detox & Vicky Vox)",
         "url": "https://open.spotify.com/album/6AydMrSrRmwfbd2Xj4lJkO"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 248973,
       "name": "Blurred Bynes (feat. Detox & Vicky Vox)",
       "url": "https://open.spotify.com/track/4AjE5hWnTyLVoZkTO0nVCS"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "Hot Couture",
+        "url": "https://open.spotify.com/album/6Ds1mmSABZUymGcIUOvecA"
+      },
+      "artists": [
+        {
+          "name": "Manila Luzon",
+          "url": "https://open.spotify.com/artist/1cJCVvFLO8SLM8W9EITe1g"
+        }
+      ],
+      "duration_ms": 200160,
+      "name": "Hot Couture",
+      "url": "https://open.spotify.com/track/1V6RsQuuDi9Z1yZGV0qVYe"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -691,42 +691,6 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Everyone Is A Little Bit Gay",
-        "url": "https://open.spotify.com/album/0ecCfZt9jcLvm3rRv9n9Q5"
-      },
-      "artists": [
-        {
-          "name": "Ash Gordon",
-          "url": "https://open.spotify.com/artist/0VovWkTz0WMOVbVTYcU6MF"
-        },
-        {
-          "name": "Alaska Thunderfuck",
-          "url": "https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy"
-        }
-      ],
-      "duration_ms": 190603,
-      "name": "Everyone Is A Little Bit Gay",
-      "url": "https://open.spotify.com/track/04M8IuMRVeBjNpFmTzfyzW"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
-        "name": "Gimme What I Want",
-        "url": "https://open.spotify.com/album/5pmbZHU0Jm4r6VeVqez2P4"
-      },
-      "artists": [
-        {
-          "name": "Ros\u00e9",
-          "url": "https://open.spotify.com/artist/1xghNLbXhJmc9CG6jv5aDD"
-        }
-      ],
-      "duration_ms": 150500,
-      "name": "Gimme What I Want",
-      "url": "https://open.spotify.com/track/2s1HaxivaRNYacIAYZLRym"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
         "name": "AAA",
         "url": "https://open.spotify.com/album/7Hg59DHj3jPVUWxegY6Inm"
       },
@@ -755,18 +719,38 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "I Love Being A Whore!",
-        "url": "https://open.spotify.com/album/44Jm9Qa4nMZTsVTYlHbXdU"
+        "name": "Gimme What I Want",
+        "url": "https://open.spotify.com/album/5pmbZHU0Jm4r6VeVqez2P4"
       },
       "artists": [
         {
-          "name": "Sherry Vine",
-          "url": "https://open.spotify.com/artist/2YGVrA2cafxh2rsw632N6s"
+          "name": "Ros\u00e9",
+          "url": "https://open.spotify.com/artist/1xghNLbXhJmc9CG6jv5aDD"
         }
       ],
-      "duration_ms": 156000,
-      "name": "I Love Being A Whore!",
-      "url": "https://open.spotify.com/track/5z7QaUpalTZil1kMVTw0aJ"
+      "duration_ms": 150500,
+      "name": "Gimme What I Want",
+      "url": "https://open.spotify.com/track/2s1HaxivaRNYacIAYZLRym"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "Everyone Is A Little Bit Gay",
+        "url": "https://open.spotify.com/album/0ecCfZt9jcLvm3rRv9n9Q5"
+      },
+      "artists": [
+        {
+          "name": "Ash Gordon",
+          "url": "https://open.spotify.com/artist/0VovWkTz0WMOVbVTYcU6MF"
+        },
+        {
+          "name": "Alaska Thunderfuck",
+          "url": "https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy"
+        }
+      ],
+      "duration_ms": 190603,
+      "name": "Everyone Is A Little Bit Gay",
+      "url": "https://open.spotify.com/track/04M8IuMRVeBjNpFmTzfyzW"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -783,6 +767,22 @@
       "duration_ms": 268459,
       "name": "Know-It-All",
       "url": "https://open.spotify.com/track/1gidM0B8bAcMC5BS09YL0h"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "I Love Being A Whore!",
+        "url": "https://open.spotify.com/album/44Jm9Qa4nMZTsVTYlHbXdU"
+      },
+      "artists": [
+        {
+          "name": "Sherry Vine",
+          "url": "https://open.spotify.com/artist/2YGVrA2cafxh2rsw632N6s"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "I Love Being A Whore!",
+      "url": "https://open.spotify.com/track/5z7QaUpalTZil1kMVTw0aJ"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Empty",
-        "url": "https://open.spotify.com/album/5lp2ITlU2HpUV7kKmgQtRd"
-      },
-      "artists": [
-        {
-          "name": "Blair St. Clair",
-          "url": "https://open.spotify.com/artist/5l1BwcEGGLpX6Y9668D8sd"
-        }
-      ],
-      "duration_ms": 204245,
-      "name": "Empty",
-      "url": "https://open.spotify.com/track/3F5AWtlYtCmyU1isDrvceJ"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
         "name": "Bitch On Heels (Kelvin Wood Remix)",
         "url": "https://open.spotify.com/album/58lIoVrWA0UovP6TYCDfZA"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 178064,
       "name": "Bitch On Heels - Kelvin Wood Radio Mix",
       "url": "https://open.spotify.com/track/7ElOeuVWhiPAFHJxBfdzmN"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "Empty",
+        "url": "https://open.spotify.com/album/5lp2ITlU2HpUV7kKmgQtRd"
+      },
+      "artists": [
+        {
+          "name": "Blair St. Clair",
+          "url": "https://open.spotify.com/artist/5l1BwcEGGLpX6Y9668D8sd"
+        }
+      ],
+      "duration_ms": 204245,
+      "name": "Empty",
+      "url": "https://open.spotify.com/track/3F5AWtlYtCmyU1isDrvceJ"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
+        "name": "Till Death Do Us Party",
+        "url": "https://open.spotify.com/album/1fjGYWLyDPItMHLbu2QMeQ"
+      },
+      "artists": [
+        {
+          "name": "Adore Delano",
+          "url": "https://open.spotify.com/artist/3tdsh4B7GuigHI4vPtUs87"
+        }
+      ],
+      "duration_ms": 222833,
+      "name": "I Adore U",
+      "url": "https://open.spotify.com/track/3OJ34PxLlQZX8l6Ku0tyTF"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
         "name": "Straight Outta Oz",
         "url": "https://open.spotify.com/album/1abVmBsdc82pIj9CQu7cN0"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 158222,
       "name": "Wrong Bitch",
       "url": "https://open.spotify.com/track/3eOYEYe2VUsiOSCW53OiZv"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
-        "name": "Till Death Do Us Party",
-        "url": "https://open.spotify.com/album/1fjGYWLyDPItMHLbu2QMeQ"
-      },
-      "artists": [
-        {
-          "name": "Adore Delano",
-          "url": "https://open.spotify.com/artist/3tdsh4B7GuigHI4vPtUs87"
-        }
-      ],
-      "duration_ms": 222833,
-      "name": "I Adore U",
-      "url": "https://open.spotify.com/track/3OJ34PxLlQZX8l6Ku0tyTF"
     }
   ],
   "unique_name": "FIERCE",

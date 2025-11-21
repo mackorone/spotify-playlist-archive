@@ -1,12 +1,12 @@
 {
   "description": "This is Jai Wolf. The essential tracks, all in one playlist.",
-  "num_followers": 11322,
+  "num_followers": 11324,
   "original_name": "This Is Jai Wolf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRu3AAAAAABkn9i5/ZfSOWliY3Z804UU",
+  "snapshot_id": "aR0IgAAAAAD42QmBRmnB0lIPp7VRxnMX",
   "tracks": [
     {
       "added_at": null,
@@ -47,26 +47,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deep Down",
-        "url": "https://open.spotify.com/album/6EamBf1vIof4uCfBkRKadw"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        },
-        {
-          "name": "Oaks",
-          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
-        }
-      ],
-      "duration_ms": 185142,
-      "name": "Deep Down",
-      "url": "https://open.spotify.com/track/7iWa3V2lqxh7AtMVFju1W8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Moon Rider Remixes",
         "url": "https://open.spotify.com/album/6lxw2m2ovu82KLPMfyqaDn"
       },
@@ -87,6 +67,26 @@
       "duration_ms": 221478,
       "name": "Moon Rider (feat. Wrabel) - OTR Remix",
       "url": "https://open.spotify.com/track/2dJruelM5pKxBJbiDYGiG0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deep Down",
+        "url": "https://open.spotify.com/album/6EamBf1vIof4uCfBkRKadw"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+        }
+      ],
+      "duration_ms": 185142,
+      "name": "Deep Down",
+      "url": "https://open.spotify.com/track/7iWa3V2lqxh7AtMVFju1W8"
     },
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/2CCvxOJHe0ccia0UZXefSC"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "Alive (Radio Edit)",
-      "url": "https://open.spotify.com/track/4hmdQLwAxgYNSTOJzJBItl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Red Eye Home",
         "url": "https://open.spotify.com/album/0PZv0Qp8QQWJzzxJNshTI6"
       },
@@ -515,42 +499,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "(I Dread The Day He Takes You To) Paris [feat. MYRNE] [Demo]",
-        "url": "https://open.spotify.com/album/5DAft4bZcUYr4hxHwgCoST"
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/2CCvxOJHe0ccia0UZXefSC"
       },
       "artists": [
         {
           "name": "Jai Wolf",
           "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        },
-        {
-          "name": "MYRNE",
-          "url": "https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg"
         }
       ],
-      "duration_ms": 218581,
-      "name": "(I Dread The Day He Takes You To) Paris [feat. MYRNE] - Demo",
-      "url": "https://open.spotify.com/track/2FEF1UNTCXQjgFYhh0zAm6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Cure To Loneliness",
-        "url": "https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        },
-        {
-          "name": "Day Wave",
-          "url": "https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK"
-        }
-      ],
-      "duration_ms": 266160,
-      "name": "Your Way (feat. Day Wave)",
-      "url": "https://open.spotify.com/track/2AaNTnYTf24qzu5SsT5K8s"
+      "duration_ms": 166400,
+      "name": "Alive (Radio Edit)",
+      "url": "https://open.spotify.com/track/4hmdQLwAxgYNSTOJzJBItl"
     },
     {
       "added_at": null,
@@ -575,6 +535,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Cure To Loneliness",
+        "url": "https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "Day Wave",
+          "url": "https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK"
+        }
+      ],
+      "duration_ms": 266160,
+      "name": "Your Way (feat. Day Wave)",
+      "url": "https://open.spotify.com/track/2AaNTnYTf24qzu5SsT5K8s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "(I Dread The Day He Takes You To) Paris [feat. MYRNE] [Demo]",
+        "url": "https://open.spotify.com/album/5DAft4bZcUYr4hxHwgCoST"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "MYRNE",
+          "url": "https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg"
+        }
+      ],
+      "duration_ms": 218581,
+      "name": "(I Dread The Day He Takes You To) Paris [feat. MYRNE] - Demo",
+      "url": "https://open.spotify.com/track/2FEF1UNTCXQjgFYhh0zAm6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "We Rise (Jai Wolf Remix)",
         "url": "https://open.spotify.com/album/7IsUiiiwpbZ94J1CMAFNXW"
       },
@@ -595,26 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Red Eye Home",
-        "url": "https://open.spotify.com/album/0PZv0Qp8QQWJzzxJNshTI6"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        },
-        {
-          "name": "rei brown",
-          "url": "https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6"
-        }
-      ],
-      "duration_ms": 283764,
-      "name": "Red Eye (feat. rei brown)",
-      "url": "https://open.spotify.com/track/5qfGgZ5GTMoauSp0JKTxu4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Water Sign (feat. Aluna)",
         "url": "https://open.spotify.com/album/7jQdHXK0JnydEDPF0yUn2P"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 209142,
       "name": "Water Sign (feat. Aluna)",
       "url": "https://open.spotify.com/track/5bIneqUqPsUuYi2gwuaXzU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Red Eye Home",
+        "url": "https://open.spotify.com/album/0PZv0Qp8QQWJzzxJNshTI6"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "rei brown",
+          "url": "https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6"
+        }
+      ],
+      "duration_ms": 283764,
+      "name": "Red Eye (feat. rei brown)",
+      "url": "https://open.spotify.com/track/5qfGgZ5GTMoauSp0JKTxu4"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Red Eye Home",
-        "url": "https://open.spotify.com/album/0PZv0Qp8QQWJzzxJNshTI6"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 100625,
-      "name": "3 Tattoos (Rishi\u2019s Interlude)",
-      "url": "https://open.spotify.com/track/2Vri51GfnSn9pzRcIy91u3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Cure To Loneliness (5 Year Anniversary Deluxe)",
         "url": "https://open.spotify.com/album/6N5PJKWEaaLLsSBAe6aIOG"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 294034,
       "name": "Half Hearted - Demo",
       "url": "https://open.spotify.com/track/741xMmf2lUWlGxJypbb7d5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Red Eye Home",
+        "url": "https://open.spotify.com/album/0PZv0Qp8QQWJzzxJNshTI6"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 100625,
+      "name": "3 Tattoos (Rishi\u2019s Interlude)",
+      "url": "https://open.spotify.com/track/2Vri51GfnSn9pzRcIy91u3"
     },
     {
       "added_at": null,

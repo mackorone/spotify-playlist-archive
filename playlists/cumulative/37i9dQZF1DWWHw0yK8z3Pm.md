@@ -4,7 +4,7 @@
 
 > Fearless sounds at the crossroads of country and folk\. Cover: Colter Wall
 
-640 songs - 1 day 14 hr 46 min
+641 songs - 1 day 14 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [American Dreaming \- Single Edit](https://open.spotify.com/track/3XSAuizXkxeam6N8eJwGVh) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [American Dreaming](https://open.spotify.com/album/6uAs0LUlrnnJZ21YKqqKaT) | 3:57 | 2024-03-29 | 2025-11-07 |
 | [American Me](https://open.spotify.com/track/3fpiUjp4x55znD0i8Nfxv8) | [Joey Stylez](https://open.spotify.com/artist/5SEUHl3YJL3a5aQGuMDETE) | [American Me](https://open.spotify.com/album/575myLnpElthZpP8fsRTCF) | 3:14 | 2022-05-13 | 2023-04-22 |
 | [Another Day Down](https://open.spotify.com/track/3Iuo5WhKzkaTTkOzVhg1Ei) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Another Day Down](https://open.spotify.com/album/253qdf33LlE8VpEnmg0KO8) | 3:37 | 2022-05-13 | 2022-10-01 |
-| [Anvil](https://open.spotify.com/track/7i2bJ4K6Dl0IZUt45B1Obl) | [Mariel Buckley](https://open.spotify.com/artist/7lghcHbrdt7sqHWeya15aV) | [Strange Trip Ahead](https://open.spotify.com/album/3IILNy0XPiGB4g8jtm9Agp) | 4:10 | 2025-10-17 |  |
+| [Anvil](https://open.spotify.com/track/7i2bJ4K6Dl0IZUt45B1Obl) | [Mariel Buckley](https://open.spotify.com/artist/7lghcHbrdt7sqHWeya15aV) | [Strange Trip Ahead](https://open.spotify.com/album/3IILNy0XPiGB4g8jtm9Agp) | 4:10 | 2025-10-17 | 2025-11-21 |
 | [Are We Feeling Okay?](https://open.spotify.com/track/1JD7DkwwolY7oUgE67mLew) | [Evan Redsky](https://open.spotify.com/artist/1qZng7TJN7pOHMSUItFB8s) | [Are We Feeling Okay?](https://open.spotify.com/album/26aCuNIGoKs8vy0fPpUZLJ) | 3:29 | 2025-08-08 | 2025-08-29 |
 | [Arkansas Diamond](https://open.spotify.com/track/75SAnNqcLsh5rg17isiPM8) | [Waylon Wyatt](https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol) | [Arkansas Diamond](https://open.spotify.com/album/4YEBJybTO3VzCAG2nUbzZa) | 3:03 | 2024-02-09 | 2025-04-17 |
 | [Arlo](https://open.spotify.com/track/6g8TfaY4o7uzIDHOqXFsxg) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [Arlo](https://open.spotify.com/album/4QdNH73Llt7pENDkJfXl0V) | 4:10 | 2022-11-11 | 2023-01-21 |
@@ -453,6 +453,7 @@
 | [Pitch Black](https://open.spotify.com/track/24v9Z8Q7Ohbee93YyPns0m) | [Jadea Kelly](https://open.spotify.com/artist/3ro4f3VnPO6PiAah0POgwD) | [Roses](https://open.spotify.com/album/0t2iOdlsZEn4DmXMkRKBIe) | 3:58 | 2022-05-13 | 2022-11-12 |
 | [Pitchin' fits](https://open.spotify.com/track/2m4Rz3Pn5tN7MFth0kHgSL) | [Drayton Farley](https://open.spotify.com/artist/05o2ENqv0CV8aD6BWKEaBD) | [A Hard up Life](https://open.spotify.com/album/4hxny6RxCa9kJjdXkpXlPi) | 3:47 | 2023-04-21 | 2025-10-18 |
 | [Please Don't Go](https://open.spotify.com/track/6DHPLbudo5JXNdUlG7zDcC) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Please Don't Go](https://open.spotify.com/album/4K2htiCgz7DrhLOWepp3ru) | 3:01 | 2023-04-21 | 2025-01-24 |
+| [Portland, Maine \(feat\. Jordan Davis\)](https://open.spotify.com/track/6M8VA1HQWAP4wggoPZ5ota) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti), [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Portland, Maine \(10th Anniversary Edition\)](https://open.spotify.com/album/0Npi170tBzhAhyGnVpTWov) | 3:30 | 2025-11-20 |  |
 | [Post Breakup Bender](https://open.spotify.com/track/2Iwy8pzOjT67hB7nxS3v8G) | [Sean Watson Graham](https://open.spotify.com/artist/6S7fQrvmDgkoTQHHQiExI6) | [Post Breakup Bender](https://open.spotify.com/album/5mZw0HlcrXRGcWyFK6rks6) | 3:44 | 2022-05-13 | 2023-03-25 |
 | [Prairie](https://open.spotify.com/track/0LGUqza1L9nPakX9UXi5B4) | [Meredith Lazowski](https://open.spotify.com/artist/2ArYHxQyNMtWFI7YpkQWPP) | [Prairie](https://open.spotify.com/album/41NAidTgQgMILE22jFjsu7) | 4:59 | 2022-05-13 | 2022-06-04 |
 | [Pretending](https://open.spotify.com/track/1SuLiXG4p5OLGJWVAYWRjF) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Psycho](https://open.spotify.com/album/2LS8scIEjFEGDJ1OeyXb4P) | 5:39 | 2023-07-28 | 2023-09-22 |

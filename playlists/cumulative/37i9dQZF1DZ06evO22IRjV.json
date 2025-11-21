@@ -773,6 +773,28 @@
     },
     {
       "album": {
+        "name": "FLOW THE BEST \u301c\u30a2\u30cb\u30e1\u7e1b\u308a\u301c",
+        "url": "https://open.spotify.com/album/1RfSdRNZ32MVoDVs0ZRchO"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        },
+        {
+          "name": "GRANRODEO",
+          "url": "https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259838,
+      "name": "Howling",
+      "url": "https://open.spotify.com/track/2LdW2wz7EBI7dM54KWyri9"
+    },
+    {
+      "album": {
         "name": "Howling",
         "url": "https://open.spotify.com/album/67rn1nDTMSZY5mBI1QZQsf"
       },
@@ -788,7 +810,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 261546,
       "name": "Howling",
       "url": "https://open.spotify.com/track/1Iexk6Gy5GJLxeXD5fqf85"

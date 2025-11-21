@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Your shortcut to the best new Hip Hop. Cover: Hooligan Heffs",
+  "description": "Your shortcut to the best new Hip Hop. Cover: Lithe",
   "name": "A1",
   "tracks": [
     {
@@ -5520,7 +5520,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 137733,
       "name": "Gyatt",
       "url": "https://open.spotify.com/track/6cpRVsxxwB04HEnOGddGCc"
@@ -8503,6 +8503,24 @@
     },
     {
       "album": {
+        "name": "From Me 2 U",
+        "url": "https://open.spotify.com/album/4SWWl5H8G1ZVx56WQV3yhY"
+      },
+      "artists": [
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104605,
+      "name": "MR DND",
+      "url": "https://open.spotify.com/track/7KVkMVxVs3GqO7Vzy9hzjk"
+    },
+    {
+      "album": {
         "name": "MULTIMILLIONAIRE (w/ Trippie Redd & Odetari)",
         "url": "https://open.spotify.com/album/5FmiDGF563dGPCfCLaiUKU"
       },
@@ -11282,7 +11300,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 178775,
       "name": "Shake It To The Max (FLY) - Remix",
       "url": "https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza"
@@ -11560,6 +11578,32 @@
       "duration_ms": 147692,
       "name": "Sleepless Nights",
       "url": "https://open.spotify.com/track/2mAxV39CZxPL2lsBdfXgvh"
+    },
+    {
+      "album": {
+        "name": "SLIME is BESTIE [Sega Bodega + JT]",
+        "url": "https://open.spotify.com/album/5Y9NhiHQOzv1JSBpReoWOy"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        },
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+        },
+        {
+          "name": "Sega Bodega",
+          "url": "https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160812,
+      "name": "SLIME is BESTIE [Sega Bodega + JT]",
+      "url": "https://open.spotify.com/track/4Y65QXs6X2dhVQc9B6a6Ro"
     },
     {
       "album": {
@@ -13020,7 +13064,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 197837,
       "name": "Time Is Money",
       "url": "https://open.spotify.com/track/1LpK9StcJfXtw27mVPVesi"

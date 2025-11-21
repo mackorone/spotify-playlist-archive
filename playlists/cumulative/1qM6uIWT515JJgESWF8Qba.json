@@ -387,6 +387,24 @@
     },
     {
       "album": {
+        "name": "MMXXII",
+        "url": "https://open.spotify.com/album/6vRRH7PlhC05goJHMlpwGN"
+      },
+      "artists": [
+        {
+          "name": "Roses!Hands!",
+          "url": "https://open.spotify.com/artist/2IIPLXX4gc8oKR37sOsa9o"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182773,
+      "name": "Graduation",
+      "url": "https://open.spotify.com/track/0DVsB3C8e43uoFwjXJQCda"
+    },
+    {
+      "album": {
         "name": "Hope",
         "url": "https://open.spotify.com/album/6mRKfh7DZuRFCOnIvSojiy"
       },
@@ -578,7 +596,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 162000,
       "name": "LOVE ME, KISS ME, KILL ME",
       "url": "https://open.spotify.com/track/2WrOFJ7oNXuhGMfMoTz13y"
@@ -910,7 +928,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 226818,
       "name": "Technicolor Wine",
       "url": "https://open.spotify.com/track/37zitPVqGB50b27TrvHjbg"
@@ -1054,7 +1072,7 @@
       ],
       "date_added": "2025-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 176000,
       "name": "Your Way",
       "url": "https://open.spotify.com/track/4QSLf4BxEwJw9T2OyKzAZc"

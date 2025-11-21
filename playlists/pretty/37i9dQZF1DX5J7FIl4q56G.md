@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Megadeth
 
-[Spotify](https://open.spotify.com/user/spotify) - 777,573 likes - 99 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 777,611 likes - 99 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 98 | [Maailman Ainut Ihminen](https://open.spotify.com/track/4ZylOUOOf2pcdRxhPWYY1G) | [Kaunis Kuolematon](https://open.spotify.com/artist/325i7BW7vMnVBl9YWdT6zN) | [Maailman Ainut Ihminen](https://open.spotify.com/album/7uNlsjFJgfj8yk8gyRorXC) | 5:35 |
 | 99 | [Empire](https://open.spotify.com/track/1fTj67WLQz9feciwMT5UTD) | [Irrational Cause](https://open.spotify.com/artist/5dzbYfq4tZ4vm0HBOmh0pp) | [Empire](https://open.spotify.com/album/7xuPvmF5b4mV0xJOCpHJx3) | 3:08 |
 
-Snapshot ID: `AAAAAOx+O+wN1xGTAkF/aQ1ZzL21AOM7`
+Snapshot ID: `AAAAAFqC63IkWXRs36cTbS8xdPrNulj1`

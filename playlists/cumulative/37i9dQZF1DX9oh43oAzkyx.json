@@ -2885,6 +2885,24 @@
     },
     {
       "album": {
+        "name": "Indie Pack (Vol. 01)",
+        "url": "https://open.spotify.com/album/0Cfz2BFRW0ga8SsdKY6Vgg"
+      },
+      "artists": [
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123870,
+      "name": "FREE SMOKE",
+      "url": "https://open.spotify.com/track/4qxDPaOn9zo1abe3e3FK9V"
+    },
+    {
+      "album": {
         "name": "Too Hard",
         "url": "https://open.spotify.com/album/750APP0eKVlcgOxaZnBnVt"
       },
@@ -8942,7 +8960,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 175718,
       "name": "WE NOT DONE",
       "url": "https://open.spotify.com/track/5ggfaK0dKWFrEr6PDO1knB"

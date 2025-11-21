@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fhMYWIyuww.md) - [plain]
 
 > Soft rock for that free and easy feeling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,027 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,048 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fhMYWIyuww.md) - [plain]
 | 74 | [Who's Right, Who's Wrong](https://open.spotify.com/track/5IXfPffHYMM9a7nrHWjh8l) | [Pages](https://open.spotify.com/artist/4xoTZnaFX7xWz76sVSgg7u) | [Future Street](https://open.spotify.com/album/7KBgZw2zPPQes5Oo1vNQha) | 4:19 |
 | 75 | [Let It Out](https://open.spotify.com/track/3q4aF4bp248tWr7lAyoFHe) | [Gary Wright](https://open.spotify.com/artist/3z6Uf5IZkN4TogRpRpgD84) | [The Dream Weaver](https://open.spotify.com/album/0tFPDkiH2TpnjoVcrWtZHp) | 3:22 |
 | 76 | [How Can This Be Love](https://open.spotify.com/track/0I2h9T7HeYjP9yALFN8dJt) | [Andrew Gold](https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d) | [Lonely Boy: The Greatest Hits](https://open.spotify.com/album/3ZpJBQ3ffRxqFtYOOKTbov) | 3:59 |
-| 77 | [Honey Don't Leave L.A.](https://open.spotify.com/track/4JYMyddoksmabha0ZCltwA) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [JT](https://open.spotify.com/album/0Pbc9Jq12a47mQ1z9yIuhn) | 3:05 |
+| 77 | [Honey Don't Leave L.A.](https://open.spotify.com/track/4JYMyddoksmabha0ZCltwA) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [JT](https://open.spotify.com/album/0Pbc9Jq12a47mQ1z9yIuhn) | 3:06 |
 | 78 | [Nice, Nice, Very Nice](https://open.spotify.com/track/10Vp6LUbSc5LUM3ksCZB1M) | [Ambrosia](https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw), [Alan Parsons](https://open.spotify.com/artist/6HpZkC8GUktP9utE6OPWZG) | [Ambrosia](https://open.spotify.com/album/4WLSlSsZR6RZSaZm2ZB1WI) | 5:49 |
 | 79 | [Take Me to Your Heaven](https://open.spotify.com/track/2QQDZl9xzGOM3z0JevtVgZ) | [Wilson Brothers](https://open.spotify.com/artist/2o9nlTHLJ2SExgv0OHARnW) | [Another Night](https://open.spotify.com/album/72je1WuK4ghlcioqrigQXl) | 3:40 |
 | 80 | [Boys of Autumn](https://open.spotify.com/track/0pDCVNozy0RLEfQpJ6bPYJ) | [David Roberts](https://open.spotify.com/artist/6opjDqwktGxPYPdOAs6T83) | [All Dressed Up](https://open.spotify.com/album/6CoCuashl0StGSgw5XKEJz) | 4:14 |

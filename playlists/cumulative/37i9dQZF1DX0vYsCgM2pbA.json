@@ -165,6 +165,24 @@
     },
     {
       "album": {
+        "name": "Ain't No Party",
+        "url": "https://open.spotify.com/album/3WEW6RrQrhxOB0wdlU6mGb"
+      },
+      "artists": [
+        {
+          "name": "Lance Savali",
+          "url": "https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185769,
+      "name": "Ain't No Party",
+      "url": "https://open.spotify.com/track/4OjT5tTYsmQl29oQT6OHab"
+    },
+    {
+      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/7pF1j9CKPRpcecJZrzzhmc"
       },
@@ -393,6 +411,28 @@
     },
     {
       "album": {
+        "name": "Anemoia",
+        "url": "https://open.spotify.com/album/3kse3e9XxmIedJb9bfjErH"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        },
+        {
+          "name": "Oliver Sim",
+          "url": "https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242239,
+      "name": "Baby Blue (feat. Oliver Sim)",
+      "url": "https://open.spotify.com/track/03vfFtmD5SMZ7rpQm6KXTv"
+    },
+    {
+      "album": {
         "name": "Bad For Me",
         "url": "https://open.spotify.com/album/6Y4P6gHvQIxLvOkpeEV9Vz"
       },
@@ -470,6 +510,28 @@
       "duration_ms": 215172,
       "name": "Beggin' You",
       "url": "https://open.spotify.com/track/110XNKlluGKyNDKlBle2XD"
+    },
+    {
+      "album": {
+        "name": "Belong To You",
+        "url": "https://open.spotify.com/album/71QSLMzVXtWu3lt3Z5N2vO"
+      },
+      "artists": [
+        {
+          "name": "Cut Copy",
+          "url": "https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS"
+        },
+        {
+          "name": "Kate Bollinger",
+          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270549,
+      "name": "Belong To You",
+      "url": "https://open.spotify.com/track/5Pcc7dUxSWJBMkdbR3mu2O"
     },
     {
       "album": {
@@ -1942,7 +2004,7 @@
       ],
       "date_added": "2025-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 295198,
       "name": "Flush with Love",
       "url": "https://open.spotify.com/track/5pbpePKq40EPcbfQSlFHD3"
@@ -2460,7 +2522,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 198693,
       "name": "Heartbeats - Logic1000 Remix",
       "url": "https://open.spotify.com/track/3Dc5AOVwCpI5KBJArPgsqx"
@@ -2802,7 +2864,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 284002,
       "name": "I'll Wait",
       "url": "https://open.spotify.com/track/2Vp0VlimY9OTjOvS97xOOn"
@@ -3204,7 +3266,7 @@
       ],
       "date_added": "2025-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 150927,
       "name": "Like That",
       "url": "https://open.spotify.com/track/5qqVN5D69aOkN0lf8OIQ2b"
@@ -3429,6 +3491,24 @@
     },
     {
       "album": {
+        "name": "Mars",
+        "url": "https://open.spotify.com/album/3SKK32Dt2q8B4L7CAtViML"
+      },
+      "artists": [
+        {
+          "name": "RONA.",
+          "url": "https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301027,
+      "name": "Mars",
+      "url": "https://open.spotify.com/track/6nnrcbU87Zb6z11B5oWWBr"
+    },
+    {
+      "album": {
         "name": "may i have this dance",
         "url": "https://open.spotify.com/album/0hItfKP7cGQqLyQgoopNNw"
       },
@@ -3600,7 +3680,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 253300,
       "name": "More of You",
       "url": "https://open.spotify.com/track/6wd4uWCNdQ7t9jEazGq4E1"
@@ -4507,6 +4587,28 @@
     },
     {
       "album": {
+        "name": "Royalty",
+        "url": "https://open.spotify.com/album/1ytdCmycRnhnGCEecUoISo"
+      },
+      "artists": [
+        {
+          "name": "Hermitude",
+          "url": "https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u"
+        },
+        {
+          "name": "Adrian Dzvuke",
+          "url": "https://open.spotify.com/artist/3fgolNSZnidBlbm5dFi4go"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234831,
+      "name": "Royalty",
+      "url": "https://open.spotify.com/track/4j5jyPieqmrFSaKmPKIwoo"
+    },
+    {
+      "album": {
         "name": "Regrowth",
         "url": "https://open.spotify.com/album/6Y2VniWR6cKbJ7IQwp0hdS"
       },
@@ -4956,7 +5058,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 202858,
       "name": "Spend It (feat. Circa Waves)",
       "url": "https://open.spotify.com/track/0Fa39rh1TcvQlt3pLlxn7e"
@@ -5398,6 +5500,24 @@
       "duration_ms": 224908,
       "name": "The Last Goodbye - Hayden James Remix",
       "url": "https://open.spotify.com/track/78M9wiuBmRktLeDvgvsk3s"
+    },
+    {
+      "album": {
+        "name": "The Way I'm Feeling",
+        "url": "https://open.spotify.com/album/5PHXj0gL9HuEaBPMCIBpFT"
+      },
+      "artists": [
+        {
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257766,
+      "name": "The Way I'm Feeling",
+      "url": "https://open.spotify.com/track/5UpvkE3KKwbjOR5cAyzeY4"
     },
     {
       "album": {

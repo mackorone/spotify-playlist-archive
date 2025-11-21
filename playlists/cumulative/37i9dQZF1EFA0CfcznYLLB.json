@@ -3389,6 +3389,24 @@
     },
     {
       "album": {
+        "name": "Episodes",
+        "url": "https://open.spotify.com/album/1ilQqLfaXbyZB7sldz26Ox"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185152,
+      "name": "Heard",
+      "url": "https://open.spotify.com/track/0lONjaf6LdcxXsOya7USLm"
+    },
+    {
+      "album": {
         "name": "Slime & B",
         "url": "https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG"
       },
@@ -4912,6 +4930,24 @@
       "duration_ms": 242591,
       "name": "Modern Day",
       "url": "https://open.spotify.com/track/5ZFntsgX3EN5d4YjBF7IHy"
+    },
+    {
+      "album": {
+        "name": "Episodes",
+        "url": "https://open.spotify.com/album/1ilQqLfaXbyZB7sldz26Ox"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/7ziuH9wraFdqL16ftH23uW"
     },
     {
       "album": {

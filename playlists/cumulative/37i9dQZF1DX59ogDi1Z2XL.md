@@ -4,7 +4,7 @@
 
 > The coldest sounds in hip\-hop, coming out of Canada\. Cover: Savv4x
 
-2,034 songs - 3 day 22 hr 1 min
+2,035 songs - 3 day 22 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1417,6 +1417,7 @@
 | [POWER THROUGH](https://open.spotify.com/track/7MWIxQhwuz7PLgJnvIJjUo) | [Devontée](https://open.spotify.com/artist/4rkobn5JkPJDD1yN9DVU2d) | [POWER THROUGH](https://open.spotify.com/album/2canhvaAWuCmFKMHXP7yzp) | 3:11 | 2024-03-22 | 2024-04-13 |
 | [Prada](https://open.spotify.com/track/0fsXtdf7N7hLOKgqanZ2Pt) | [KHEM](https://open.spotify.com/artist/5oR5JjCXsdwdho4arNfO4C), [Gustavo Guaapo](https://open.spotify.com/artist/2S9z4eFhx79PnOTaHN2l5D) | [Prada](https://open.spotify.com/album/1oNxkmyLzxRmmtlld6REDB) | 2:41 | 2023-09-08 | 2023-10-07 |
 | [PRAY 4 U](https://open.spotify.com/track/4Z04Y9NwmwV62SogHNF6HS) | [Devontée](https://open.spotify.com/artist/4rkobn5JkPJDD1yN9DVU2d) | [PRAY 4 U](https://open.spotify.com/album/6guxvQrey0aZuB89bWgdah) | 2:47 | 2022-09-09 | 2022-10-15 |
+| [Prayed 4 This](https://open.spotify.com/track/77e5sOdowwKScwZoDenoCb) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy), [Quintana Mills](https://open.spotify.com/artist/0QfS6MisIhAy4LgjlAbWMz) | [Prayed 4 This](https://open.spotify.com/album/7MAXGNCazUxzr3AiEkg2C7) | 2:20 | 2025-11-14 |  |
 | [Prayers II](https://open.spotify.com/track/0bgJdz4jkW43hrjm5WK5VY) | [Realcityfame](https://open.spotify.com/artist/5aGiv8WaosuW2FA3CQyul3) | [Prayers II](https://open.spotify.com/album/6Pg7fw0l1ZnwOR5M1okL1H) | 2:37 | 2022-12-30 | 2023-03-04 |
 | [Premium Leather](https://open.spotify.com/track/4Q3jWNJwkqOx7PhbQdakz4) | [Sheldon Sabastian](https://open.spotify.com/artist/3TVN22ppuxvrMtVOIGFYYn) | [The Empty Seven 2](https://open.spotify.com/album/77KlcxdbWhCSD0sn9lFFJm) | 1:53 | 2022-10-21 | 2023-01-21 |
 | [Presshaw](https://open.spotify.com/track/5jUb2gxd7DymGzQo4OmFNP) | [Paris Richards](https://open.spotify.com/artist/2QKgfzDlgGJCv1hkfOovKH), [Dub J](https://open.spotify.com/artist/0bKlQYTyLjDzgm33F15jNE) | [Presshaw](https://open.spotify.com/album/7c1Sy2iVRBbIQNiMr6nxZV) | 2:36 | 2024-07-12 | 2024-08-10 |

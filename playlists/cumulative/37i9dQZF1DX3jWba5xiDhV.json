@@ -179,6 +179,32 @@
     },
     {
       "album": {
+        "name": "Babylon, baby",
+        "url": "https://open.spotify.com/album/7e791Xxbe2X0igt1okm20T"
+      },
+      "artists": [
+        {
+          "name": "Protopapa",
+          "url": "https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54"
+        },
+        {
+          "name": "Hey Cabrera!",
+          "url": "https://open.spotify.com/artist/5jDaczIoNB0UAsvNWyYFrf"
+        },
+        {
+          "name": "Gr\u00e9goire Tine",
+          "url": "https://open.spotify.com/artist/1B9hG7Ts0USXnTr2n9UuWO"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207738,
+      "name": "Babylon, baby",
+      "url": "https://open.spotify.com/track/6AcOGAvI3FX4Icq7BWINrO"
+    },
+    {
+      "album": {
         "name": "Baciami",
         "url": "https://open.spotify.com/album/1Yfw5ZfDELSGZHbTvjWofP"
       },
@@ -2108,7 +2134,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 193762,
       "name": "Luca (Protopapa Remix)",
       "url": "https://open.spotify.com/track/4ZA06tbP3P7GvsNYm9n8g2"

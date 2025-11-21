@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbyvJ0pcthaD.md) - [plain]
 
 > Woe, what a playlist! Listen to music from and inspired by Wednesday, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 508,558 likes - 65 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 508,554 likes - 65 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbyvJ0pcthaD.md) - [plain]
 | 24 | [No Time to Cry](https://open.spotify.com/track/6t4CUeOPf6Ys5Adxnq1LaR) | [Sisters of Mercy](https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR) | [First and Last and Always](https://open.spotify.com/album/2wOuYERNvxVipFb2JlwvwA) | 3:59 |
 | 25 | [Nevermore Alma Mater \- from "Wednesday: Season 2"](https://open.spotify.com/track/4I8u89gSwA1MQGdgoaI7V6) | [Wednesday Addams](https://open.spotify.com/artist/0h0S5V5afI4lTHFvRn6P03), [Nevermore Academy Orchestra](https://open.spotify.com/artist/1em4ruyJ7B0SOpI9b9MbpU), [Catherine Zeta\-Jones](https://open.spotify.com/artist/5i4JbHYkeCa702YXS68RGf), [Esin Aydingoz](https://open.spotify.com/artist/0ekDpHXgQKW9W4k3ZboKhT) | [Wednesday: Season 2, Vol\. 1 \(Original Soundtrack from the Netflix Series\)](https://open.spotify.com/album/78ToM82qjizHnfqLWHozBJ) | 0:48 |
 | 26 | [Tale of the Skull Tree \- from "Wednesday: Season 2"](https://open.spotify.com/track/7ue9yrTvWLlJnT1G5S9fYU) | [Chris Bacon](https://open.spotify.com/artist/5WWp4g4TgYMfz8XcO3RTHO), [Wednesday Addams](https://open.spotify.com/artist/0h0S5V5afI4lTHFvRn6P03), [Nevermore Academy Orchestra](https://open.spotify.com/artist/1em4ruyJ7B0SOpI9b9MbpU) | [Wednesday: Season 2 \(Original Score from the Netflix Series\), Vol\. 1](https://open.spotify.com/album/77cjR6MiFQnX9NCl3O955f) | 2:50 |
-| 27 | [Dancing In the Dark](https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:01 |
+| 27 | [Dancing In the Dark](https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:05 |
 | 28 | [Banquet of Discontent \- from "Wednesday: Season 2"](https://open.spotify.com/track/2fpd6JFXFdP2b4cxpG9z43) | [Chris Bacon](https://open.spotify.com/artist/5WWp4g4TgYMfz8XcO3RTHO), [Wednesday Addams](https://open.spotify.com/artist/0h0S5V5afI4lTHFvRn6P03), [Nevermore Academy Orchestra](https://open.spotify.com/artist/1em4ruyJ7B0SOpI9b9MbpU) | [Wednesday: Season 2 \(Original Score from the Netflix Series\), Vol\. 1](https://open.spotify.com/album/77cjR6MiFQnX9NCl3O955f) | 1:58 |
 | 29 | [Agnes \- from "Wednesday: Season 2"](https://open.spotify.com/track/2w1iPITQJQfdzK1mr4ZO2W) | [Chris Bacon](https://open.spotify.com/artist/5WWp4g4TgYMfz8XcO3RTHO), [Wednesday Addams](https://open.spotify.com/artist/0h0S5V5afI4lTHFvRn6P03), [Nevermore Academy Orchestra](https://open.spotify.com/artist/1em4ruyJ7B0SOpI9b9MbpU) | [Wednesday: Season 2 \(Original Score from the Netflix Series\), Vol\. 1](https://open.spotify.com/album/77cjR6MiFQnX9NCl3O955f) | 2:14 |
 | 30 | [You Really Got Me](https://open.spotify.com/track/6tZdL3Zp8JgrfDbsSeSV1S) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Kinks \(Deluxe Edition\)](https://open.spotify.com/album/6HrqKlhAQiv4GjFjwmuxDQ) | 2:13 |

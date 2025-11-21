@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 
 > New stunning releases in modern soul\. Cover: Latanya Alberto
 
-[Spotify](https://open.spotify.com/user/spotify) - 494,000 likes - 89 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 493,983 likes - 89 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 2 | [Hold Your Hand](https://open.spotify.com/track/1xE4VBKGZjPlktET0jEiYX) | [Latanya Alberto](https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357) | [Hold Your Hand](https://open.spotify.com/album/0vlpAinZBQz0HwEkI1T1qp) | 2:44 |
 | 3 | [Pay Day](https://open.spotify.com/track/58TQZqfL0jKekC40I6pVPu) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Pay Day](https://open.spotify.com/album/4I4Xsf6B2EzM2kfwJeUPSB) | 3:25 |
 | 4 | [My Baby](https://open.spotify.com/track/2nwrnSPwGVMuU2pAbw9m58) | [GeeJay](https://open.spotify.com/artist/43l4GGl1QwpqP7R2k43M9W) | [My Baby](https://open.spotify.com/album/4t3xe8J6wX6tQZO6AC1I6N) | 3:19 |
-| 5 | [I Got Your Back II](https://open.spotify.com/track/48PVSDZwDOyvexxZIqXfKK) | [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY), [K1D](https://open.spotify.com/artist/6vkNDrbuaVIuKwAylGos5o) | [I Got Your Back II](https://open.spotify.com/album/5dcGaD5XslCu9XCxqGeSQS) | 3:04 |
+| 5 | [I Got Your Back II](https://open.spotify.com/track/48PVSDZwDOyvexxZIqXfKK) | [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY), [K1D](https://open.spotify.com/artist/6vkNDrbuaVIuKwAylGos5o) | [I Got Your Back II](https://open.spotify.com/album/5dcGaD5XslCu9XCxqGeSQS) | 3:03 |
 | 6 | [i believe](https://open.spotify.com/track/32TjNUWcY06j1QtLLCZXYR) | [Noha Saré](https://open.spotify.com/artist/2r3TXsrjx7eICwgL0Bk2l7), [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [i believe](https://open.spotify.com/album/2K0DUYJpUvufJ9ixM67PVE) | 2:51 |
 | 7 | [DANCING IN THE SUN](https://open.spotify.com/track/43GWrCMgxLOH7lE1KrBGul) | [Sedric Perry](https://open.spotify.com/artist/4Z6yPeF2Ytgp3tZATwf6Jw), [Raven Iman](https://open.spotify.com/artist/05dN9yoDxFnmmy8KRUhRKX) | [ODYSSÉ](https://open.spotify.com/album/2HJUWjdQsyRWF6ybmqwQVk) | 4:09 |
 | 8 | [Glow](https://open.spotify.com/track/0X9ViQWrgaSzDE7mACBH4R) | [Thierry Ganz](https://open.spotify.com/artist/3JPH3i903T7TJIF6cWO5yV), [Cézanne](https://open.spotify.com/artist/0vodNqnsmfqjOqxS7sfOp3), [Uevo](https://open.spotify.com/artist/4dQG1cEezr8XaQg8rFKuBi), [Superfuse](https://open.spotify.com/artist/4H6l4uxiqZ7uaUwpLkrr3f), [Prime8](https://open.spotify.com/artist/6QdTv5ondFNAz1tdwVy3gP) | [Glow](https://open.spotify.com/album/4bK2DGVw3hFSPhHvI8ShZg) | 2:36 |

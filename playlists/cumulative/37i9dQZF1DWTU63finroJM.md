@@ -2,7 +2,7 @@
 
 ### [RADAR Global ](https://open.spotify.com/playlist/37i9dQZF1DWTU63finroJM)
 
-> Meet the future of music around the world\. Cover: BOYNEXTDOOR
+> Meet the future of music around the world\. Cover: LUKAS OSCAR
 
 2,215 songs - 4 day 23 hr 36 min
 

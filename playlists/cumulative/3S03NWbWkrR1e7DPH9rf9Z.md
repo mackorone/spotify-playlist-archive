@@ -4,7 +4,7 @@
 
 > BIG ROOM NEVER DIES \- big room \- bigroom \- bigroom songs \- big room music \- festival music \- future rave songs \- big room dance \- party music \- mainstage songs \- mainstage music \- rave songs \- new edm \- edm songs
 
-218 songs - 10 hr 41 min
+219 songs - 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Heartbeat \- BLK RSE Remix](https://open.spotify.com/track/1f3XYvmKK8Qc9APKlJ15zC) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [Rory Hope](https://open.spotify.com/artist/147kOGOemXIO7HPzrwoYSC), [BLK RSE](https://open.spotify.com/artist/2caQqGZcs7vbmAEE0uAWBz) | [Heartbeat \(BLK RSE Remix\)](https://open.spotify.com/album/5K78j7QvCOzOyTu6hqWQTw) | 3:01 | 2025-07-04 |  |
 | [Heaven](https://open.spotify.com/track/4Un1dBih9aFD4pTZwRk9ZM) | [Rave Republic](https://open.spotify.com/artist/751qvO4d3fNm3WkLvOS5Wa), [AKI\-HIRO](https://open.spotify.com/artist/532rNbzwQMk20W1yTmmj3L) | [Heaven](https://open.spotify.com/album/2fBY8khpyyFfGVe0xfvATz) | 3:23 | 2025-07-04 |  |
 | [Heaven Is A Place On Earth](https://open.spotify.com/track/6FAmtZoa7jq6bH9GBjCRkM) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [AXMO](https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc) | [Heaven Is A Place On Earth](https://open.spotify.com/album/12aiQyL5DQ1lPNwOqfiiFM) | 2:45 | 2025-07-04 |  |
+| [Heavy On My Heart](https://open.spotify.com/track/7lMEsgC7KiaLQ3FtBQEK1d) | [Kill The Buzz](https://open.spotify.com/artist/0QZSzSj4BDYFARD2hZ7oNI), [Orbis](https://open.spotify.com/artist/4HYWjPOqDtpJNoCJpusu2o), [Nino Lucarelli](https://open.spotify.com/artist/2Z6k8JBzhJPPRIAyKaUEJZ) | [Heavy On My Heart](https://open.spotify.com/album/5UYWLEDqfWQBrcKncS6cs5) | 2:41 | 2025-11-20 |  |
 | [Hey Boy Hey Girl \- ARTBAT Remix](https://open.spotify.com/track/6eCGHBR1irzeSUdOLuqV6J) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo), [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [Hey Boy Hey Girl \(ARTBAT Remix\)](https://open.spotify.com/album/5bitCrIgU2AoIY6Lp53s3k) | 3:12 | 2025-07-04 |  |
 | [Hundred](https://open.spotify.com/track/3RasBrU0G82p2ijgt8ni0c) | [Ken Bauer](https://open.spotify.com/artist/19bSyzqhV2NIVhHtqdFX7t), [Mark Roma](https://open.spotify.com/artist/060FnJg6S5kH1FzOqLJePq), [Gelida](https://open.spotify.com/artist/3zlRoYmaLR1ogMVyJxfjag) | [Hundred](https://open.spotify.com/album/1mCNOl9G907hE7ysri3FEq) | 2:45 | 2025-07-04 |  |
 | [I](https://open.spotify.com/track/6kBxq7uYuttkNPUnXlXYzb) | [R3SPAWN](https://open.spotify.com/artist/2Pfp9mATiuKRzCMLhfs3tB) | [I](https://open.spotify.com/album/43SGAgwZFgSA9j47MVIM7g) | 2:49 | 2025-07-04 |  |

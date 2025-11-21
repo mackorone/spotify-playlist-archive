@@ -1,6 +1,6 @@
 {
   "description": "My name is pink ",
-  "num_followers": 787215,
+  "num_followers": 787351,
   "original_name": "Hot Pink",
   "owner": {
     "name": "Spotify",
@@ -344,7 +344,7 @@
           "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
         }
       ],
-      "duration_ms": 238266,
+      "duration_ms": 238120,
       "name": "Girls Just Want to Have Fun",
       "url": "https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe"
     },
@@ -676,7 +676,7 @@
           "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
         }
       ],
-      "duration_ms": 216520,
+      "duration_ms": 216519,
       "name": "If U Seek Amy",
       "url": "https://open.spotify.com/track/2hdy9Wt9qp7M7d0U3ossu2"
     },
@@ -1109,6 +1109,22 @@
       "url": "https://open.spotify.com/track/1IWNylpZ477gIVUDpJL66u"
     },
     {
+      "added_at": "2025-01-10 05:00:11",
+      "album": {
+        "name": "SUPERSCAR",
+        "url": "https://open.spotify.com/album/2pElP8JopnqWCAEujfbhBL"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "duration_ms": 194040,
+      "name": "SUPERSCAR",
+      "url": "https://open.spotify.com/track/5GGA54O0NQK6Bo7nI0cz5k"
+    },
+    {
       "added_at": "2024-08-03 15:31:45",
       "album": {
         "name": "Pink Friday 2",
@@ -1127,22 +1143,6 @@
       "duration_ms": 180869,
       "name": "Everybody (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/5ZJGv7aGdIr9IGpxzSG18T"
-    },
-    {
-      "added_at": "2025-01-10 05:00:11",
-      "album": {
-        "name": "SUPERSCAR",
-        "url": "https://open.spotify.com/album/2pElP8JopnqWCAEujfbhBL"
-      },
-      "artists": [
-        {
-          "name": "AD\u00c9LA",
-          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
-        }
-      ],
-      "duration_ms": 194040,
-      "name": "SUPERSCAR",
-      "url": "https://open.spotify.com/track/5GGA54O0NQK6Bo7nI0cz5k"
     },
     {
       "added_at": "2024-08-03 15:31:45",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-18",
-  "description": "The best in South African and international R&B. Cover: Summer Walker",
+  "description": "The best in South African and international R&B. Cover: Odeal",
   "name": "R&Beats",
   "tracks": [
     {
@@ -2952,7 +2952,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 179611,
       "name": "Engubeni",
       "url": "https://open.spotify.com/track/428vAV9tyNBgHt1B7r8yyU"
@@ -3112,7 +3112,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 216004,
       "name": "Falling",
       "url": "https://open.spotify.com/track/2M4YefuMvNtH1Ju20KAVs9"
@@ -3130,7 +3130,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 195133,
       "name": "Falling",
       "url": "https://open.spotify.com/track/5rjPr8c86QfcvyJhfFQyAa"
@@ -6716,7 +6716,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-25",
+      "date_removed": null,
       "duration_ms": 199401,
       "name": "me u & pride",
       "url": "https://open.spotify.com/track/0H0Zs9VdBSKqRIJGBpLbY4"
@@ -8730,7 +8730,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 167272,
       "name": "Risk (feat. Moliy)",
       "url": "https://open.spotify.com/track/2dMAggfV7EGVwdaP74xlhB"
@@ -10368,7 +10368,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-14",
+      "date_removed": null,
       "duration_ms": 215032,
       "name": "Sycamore Tree",
       "url": "https://open.spotify.com/track/1qHDg5ObxDpRZjoqPQGIyK"
@@ -11002,6 +11002,24 @@
       "duration_ms": 212238,
       "name": "Toxic Trends",
       "url": "https://open.spotify.com/track/1pPquaWmcvzLtO0nffSsLV"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 9",
+      "url": "https://open.spotify.com/track/3XmHd0NqN5O4e7Vnv8fb8q"
     },
     {
       "album": {
@@ -11844,7 +11862,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-22",
+      "date_removed": null,
       "duration_ms": 197027,
       "name": "When You're Around",
       "url": "https://open.spotify.com/track/32RZgcuKaGBZeSZFCjqekc"

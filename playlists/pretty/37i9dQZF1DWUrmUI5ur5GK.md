@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrmUI5ur5GK.md) - [plain]
 
 > Classic drinking singalongs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,831 likes - 55 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,837 likes - 55 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrmUI5ur5GK.md) - [plain]
 | 42 | [The Jug Of Punch](https://open.spotify.com/track/4dgeifRIZFCJDn4Dd6gkkp) | [The Clancy Brothers & Tommy Makem](https://open.spotify.com/artist/1qbwKI8FXh805XrxaOex4P) | [Irish Folk Collection \- 40 Tracks for St Patrick's Day](https://open.spotify.com/album/6zIKCZ5kl5yJs3vB7zgkR8) | 2:59 |
 | 43 | [Catch Me If You Can](https://open.spotify.com/track/0sEey3G9R2GA3NV7mMjDS7) | [Chris Ball](https://open.spotify.com/artist/0s1u2LpPHrUYWQuPwu6NsV) | [25 Most Requested Irish Ballads](https://open.spotify.com/album/0PwaVxCprNZzTf1CYmefsp) | 2:28 |
 | 44 | [The Liar](https://open.spotify.com/track/3rPa6TTClkapOPHbRgyLj4) | [Seamus Kennedy](https://open.spotify.com/artist/0mOdLsbUeEcEy7ADN3Hhuf) | [In Concert](https://open.spotify.com/album/34A2WmhLw962dn3IysrNe3) | 3:45 |
-| 45 | [Isn't It Grand, Boys \(with Tommy Makem\)](https://open.spotify.com/track/3JVpkxPJNIwRi4wTHAalHi) | [The Clancy Brothers](https://open.spotify.com/artist/4qWTqOdDnH56Qak9UjmpKz), [Tommy Makem](https://open.spotify.com/artist/3oehGAh6rLM6LFdzM7E7zM) | [Isn't It Grand Boys](https://open.spotify.com/album/5lakEd1iRGCoGWrbvi3057) | 2:58 |
+| 45 | [Isn't It Grand, Boys \(with Tommy Makem\)](https://open.spotify.com/track/3JVpkxPJNIwRi4wTHAalHi) | [The Clancy Brothers](https://open.spotify.com/artist/4qWTqOdDnH56Qak9UjmpKz), [Tommy Makem](https://open.spotify.com/artist/3oehGAh6rLM6LFdzM7E7zM) | [Isn't It Grand Boys](https://open.spotify.com/album/5lakEd1iRGCoGWrbvi3057) | 3:01 |
 | 46 | [The Sick Note](https://open.spotify.com/track/3NhPGycrrCPH9HqZjpdrlA) | [Con O'Brien](https://open.spotify.com/artist/0GUFH5LfWWYiWtEn0CflP9) | [Our Songs 6](https://open.spotify.com/album/5GYFKVrwJqiTysbo6XgMbR) | 2:59 |
 | 47 | [Water Is Alright In Tay](https://open.spotify.com/track/1Of1mLn6DhF77g8zSAkypB) | [The Clancy Brothers](https://open.spotify.com/artist/4qWTqOdDnH56Qak9UjmpKz) | [Flowers In the Valley](https://open.spotify.com/album/7qjs8c7X5g1EU0vVvcE8ot) | 1:55 |
 | 48 | [The Juice of the Barley](https://open.spotify.com/track/1EZn4pTrt4lpUDA13KC5eF) | [Carlyle Fraser](https://open.spotify.com/artist/62ejG7Vlm6nVGATCU4lTta) | [Pint of Ale](https://open.spotify.com/album/3s5NJhXY65FVmv1P4QNAPa) | 3:06 |

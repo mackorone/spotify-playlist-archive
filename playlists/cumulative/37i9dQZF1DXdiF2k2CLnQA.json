@@ -609,7 +609,7 @@
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 255493,
+      "duration_ms": 256000,
       "name": "Back In Black",
       "url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj"
     },
@@ -1580,7 +1580,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 265307,
       "name": "Dance With The Devil",
       "url": "https://open.spotify.com/track/3nYX9MSz50E45Vgiwgd5Dt"
@@ -1760,7 +1760,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 182571,
       "name": "Dionysus",
       "url": "https://open.spotify.com/track/16oBX63zAQRkNeNa2SDYo1"
@@ -3097,6 +3097,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Sister",
+          "url": "https://open.spotify.com/artist/61wT4HUIxJWYmv7r6lNXiQ"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237886,
+      "name": "Howling Hell",
+      "url": "https://open.spotify.com/track/10W5QKPyRlwyxFP2UlhQ3w"
+    },
+    {
+      "album": {
         "name": "Hung Up",
         "url": "https://open.spotify.com/album/2Wr2NYshHbYFGGEuhnlqKN"
       },
@@ -3202,6 +3220,24 @@
       "duration_ms": 189915,
       "name": "I Don't Care",
       "url": "https://open.spotify.com/track/75lwu2RtEifLzaSLkbFcNe"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Danko Jones",
+          "url": "https://open.spotify.com/artist/7CGoviGsNXYmGOBkXk8dtW"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215279,
+      "name": "I Love It Louder",
+      "url": "https://open.spotify.com/track/4ajuLvDss1hpw1ba0UdcFA"
     },
     {
       "album": {
@@ -4288,7 +4324,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 255818,
       "name": "My Only Angel",
       "url": "https://open.spotify.com/track/1n8GIWPeFqj36RO1bPfNdd"
@@ -5263,6 +5299,24 @@
     },
     {
       "album": {
+        "name": "We Are Shadows",
+        "url": "https://open.spotify.com/album/5szZPN7qrKaey9QqZCzdH3"
+      },
+      "artists": [
+        {
+          "name": "The Halo Effect",
+          "url": "https://open.spotify.com/artist/2qvK5iLLoDV5mJeAvh5uka"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217047,
+      "name": "Shoreline",
+      "url": "https://open.spotify.com/track/6HSmNUrdAiQNforGJMNqmq"
+    },
+    {
+      "album": {
         "name": "The Ultimate Sin",
         "url": "https://open.spotify.com/album/2IPIumpbhrtBvjyzIgGE9j"
       },
@@ -5884,7 +5938,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 186393,
       "name": "Tanz Der Toten",
       "url": "https://open.spotify.com/track/4uoxEdN95MwhF6QfvBabJP"
@@ -6392,7 +6446,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 195434,
       "name": "The Laugh Track",
       "url": "https://open.spotify.com/track/2B2r9ZYdlvntDcwmYydnsx"
@@ -6576,6 +6630,24 @@
       "duration_ms": 285293,
       "name": "Time Will Heal",
       "url": "https://open.spotify.com/track/3C8X7PC4W4m53X5d1JIy0F"
+    },
+    {
+      "album": {
+        "name": "Time's Up",
+        "url": "https://open.spotify.com/album/5o0OYZFbFLPHzaKIIEMs6V"
+      },
+      "artists": [
+        {
+          "name": "Self Deception",
+          "url": "https://open.spotify.com/artist/0FHW0Lp33r3fvIG0HL4mW0"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211228,
+      "name": "Time's Up",
+      "url": "https://open.spotify.com/track/6BD1LIdXYKL5KNASooeCz7"
     },
     {
       "album": {
@@ -7196,6 +7268,28 @@
       "duration_ms": 244733,
       "name": "Wicked game",
       "url": "https://open.spotify.com/track/6UOOXCqQV3WKIIGYEuOow6"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        },
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215200,
+      "name": "Wild Woman",
+      "url": "https://open.spotify.com/track/1XcZZwyoLwwF3dISFQe0h6"
     },
     {
       "album": {

@@ -4,14 +4,14 @@
 
 > It's not summer without you\. Listen to the music from and inspired by The Summer I Turned Pretty, new season now streaming on Prime Video.
 
-296 songs - 16 hr 47 min
+296 songs - 16 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1 step forward, 3 steps back](https://open.spotify.com/track/4wcBRRpIfesgcyUtis7PEg) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:43 | 2023-07-14 |  |
 | [10,000 Emerald Pools](https://open.spotify.com/track/2pA4ip3VIEVcIa3qE02oAX) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Dopamine](https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw) | 2:54 | 2025-07-23 |  |
 | [7 heures du matin](https://open.spotify.com/track/4CeHrAL1fGUi94RIk3Z2H2) | [Jacqueline Taieb](https://open.spotify.com/artist/2gaXk926O69Od01e5CSFdH) | [Jacqueline Taïeb](https://open.spotify.com/album/61emYO8kHDuDFWjKS2aELG) | 2:16 | 2025-09-03 |  |
-| [A Matter of Trust](https://open.spotify.com/track/6J212smZzpeOCYQ9DITMSC) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Bridge](https://open.spotify.com/album/2fRxSC6FtiAkhEDVZr2seH) | 4:08 | 2025-08-13 |  |
+| [A Matter of Trust](https://open.spotify.com/track/6J212smZzpeOCYQ9DITMSC) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Bridge](https://open.spotify.com/album/2fRxSC6FtiAkhEDVZr2seH) | 4:12 | 2025-08-13 |  |
 | [After Midnight](https://open.spotify.com/track/4rlQza35DE4Prh5yonxnCs) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:24 | 2025-08-20 |  |
 | [All The Small Things](https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Enema Of The State](https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2) | 2:47 | 2023-08-04 |  |
 | [Archie, Marry Me](https://open.spotify.com/track/0KVWVuutF9Dn8li4HdyAeU) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Alvvays](https://open.spotify.com/album/1K6TvnkvmnLKPhifmPb6N7) | 3:16 | 2025-08-13 |  |

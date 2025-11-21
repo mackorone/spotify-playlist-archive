@@ -4,7 +4,7 @@
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Minister GUC
 
-276 songs - 1 day 13 hr 14 min
+277 songs - 1 day 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [ORUN SI \(OPEN HEAVENS\)](https://open.spotify.com/track/20H0O1lG1btliyXHzvHXcW) | [Joshua Adedeji](https://open.spotify.com/artist/31BZDZpornRbe3joXJ35vh), [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [ORUN SI \(OPEN HEAVENS\)](https://open.spotify.com/album/6Ln9d1zapgFKYd2tVa1jWb) | 12:12 | 2025-08-22 | 2025-10-03 |
 | [Osivwi \(My Redeemer\)](https://open.spotify.com/track/1W9mDCe9Gum4XlBtKMux0r) | [Onome Ovwori](https://open.spotify.com/artist/3BVYzOXEHmFZGLy9jHiXIy), [Tomi Favored](https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ) | [Osivwi \(My Redeemer\)](https://open.spotify.com/album/0S6zkrcx4YFxAWAGYrTqqW) | 9:39 | 2024-11-22 | 2025-01-17 |
 | [Otshepehile \(Live\)](https://open.spotify.com/track/0KDDwVykcd6tqsIKBT7w9j) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Omega Khunou](https://open.spotify.com/artist/5kiRFLzxYedX55EwwIDuj3) | [Spirit Of Praise 10 \(Live\)](https://open.spotify.com/album/2SgwP9PIXjtzEaGftxQQdv) | 8:03 | 2024-09-06 | 2025-01-17 |
+| [OYA SHOUT HALLELUJAH \(Live\)](https://open.spotify.com/track/0SQ4LYcb2EzWwGdICS8I3u) | [Gbenga Akinfenwa](https://open.spotify.com/artist/7qDKEhuN11MijgScgAXx1W) | [OYA SHOUT HALLELUJAH \(Live\)](https://open.spotify.com/album/0hVeFzgA5ZNZBni3jlFIe4) | 6:01 | 2025-11-21 |  |
 | [Power Of The Holy Ghost \- Live](https://open.spotify.com/track/2kMOT8XAEpYiMMdE4M7Nnx) | [Naomi Classik](https://open.spotify.com/artist/6UvgdnOto2BWiiK8ycagqW), [Manus Akpanke](https://open.spotify.com/artist/3z8JjgzStBjRJWeX0MzYCL) | [Power Of The Holy Ghost \(Live\)](https://open.spotify.com/album/1FptV4HOE64TEEBQd5LgUg) | 8:26 | 2025-02-28 | 2025-04-11 |
 | [Praise Medley \(He Saved Me\) \[Live\]](https://open.spotify.com/track/4bszyWt6cCzflRHKsgBEir) | [Evans Ogboi](https://open.spotify.com/artist/2atv3xZ8TKAZoDUWES3ho0) | [Praise Medley \(He Saved Me\) \[Live\]](https://open.spotify.com/album/3CkcM31serWHyxPxFkUFz7) | 7:00 | 2024-10-11 | 2025-03-07 |
 | [Praise Medley \- Live](https://open.spotify.com/track/3YvkrCWErGF7GxO5N0li38) | [Uche Agu](https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj), [Revival Today Worship](https://open.spotify.com/artist/3VoLng4VXiHIKe4MnsnDf1), [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [Praise Medley \(Live\)](https://open.spotify.com/album/6YDEvsjgkutYte6aGDqKHJ) | 8:44 | 2024-06-28 | 2024-11-01 |
@@ -224,7 +225,7 @@
 | [Spirit Chant](https://open.spotify.com/track/6SmLWZs2HkAX17zcvFGcln) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Spirit Chant](https://open.spotify.com/album/7FzNCkKKqToJjJGXFhWkrf) | 10:10 | 2024-02-23 |  |
 | [Spirit Of The Lord \- Live](https://open.spotify.com/track/7ABCKCy6L6dA3gA6qi5cHG) | [Bredjo](https://open.spotify.com/artist/216jcBv5bdbpFqfJF7iNuz) | [Spirit Of The Lord \(Live\)](https://open.spotify.com/album/5abwqwUnWu5Efn9SWAF7Lg) | 7:04 | 2025-09-12 | 2025-10-10 |
 | [Spontaneous Ibibio Medley \- Live](https://open.spotify.com/track/70zIV5kOfOcUg2gZ0QqURT) | [Ity'Praise](https://open.spotify.com/artist/0ve30UDdU52RBVpghohzZE) | [Spontaneous Ibibio Medley \(Live\)](https://open.spotify.com/album/5T8V17iUVFHuVbvIylG8OS) | 10:15 | 2025-02-21 | 2025-03-28 |
-| [Ta lo to O \- Live](https://open.spotify.com/track/1nSJfN7XRupIuEquqZxQ0O) | [Ethan Otedola](https://open.spotify.com/artist/68wbSl6oNKgoiTZm7vN0UK) | [Ta lo to O \(Live\)](https://open.spotify.com/album/0unoyUdk0z61yqagf0Rs3a) | 9:52 | 2025-10-24 |  |
+| [Ta lo to O \- Live](https://open.spotify.com/track/1nSJfN7XRupIuEquqZxQ0O) | [Ethan Otedola](https://open.spotify.com/artist/68wbSl6oNKgoiTZm7vN0UK) | [Ta lo to O \(Live\)](https://open.spotify.com/album/0unoyUdk0z61yqagf0Rs3a) | 9:52 | 2025-10-24 | 2025-11-21 |
 | [Testimony](https://open.spotify.com/track/5zNZsfw19X9A4dXeqBXyHl) | [Otejiri Imah](https://open.spotify.com/artist/0RL7PPiJZSMN2RhaWVIp1N), [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8) | [Testimony](https://open.spotify.com/album/563k12oxVh9CsYNOgjG6X2) | 3:44 | 2024-11-08 | 2025-08-22 |
 | [THAT GENERATION \- Live From The Song Of Sons Project](https://open.spotify.com/track/410PJqCS2fOaTu058aFNPr) | [David Nkennor](https://open.spotify.com/artist/4IunI41jLkKQaKyb3dYESN) | [THAT GENERATION \(Live From The Song Of Sons Project\)](https://open.spotify.com/album/1iWxYvs1BENg4iGSahahEz) | 4:19 | 2025-04-04 | 2025-05-30 |
 | [That's Why We Worship \- Live](https://open.spotify.com/track/2DawLOye9o0ts6hO3q84Mp) | [Uche Agu](https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj), [Revival Today Worship](https://open.spotify.com/artist/3VoLng4VXiHIKe4MnsnDf1) | [That's Why We Worship \(Live\)](https://open.spotify.com/album/5vka6wUs4jz3IbxL03uvw8) | 9:20 | 2024-09-27 | 2024-11-22 |

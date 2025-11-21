@@ -2,9 +2,9 @@
 
 ### [Naija Bars ](https://open.spotify.com/playlist/37i9dQZF1DWUHcUDX0za7N)
 
-> Hip hop and rap music from Nigeria\. Cover: Showdemcamp
+> Hip hop and rap music from Nigeria\. Cover: Moshood
 
-671 songs - 1 day 7 hr 31 min
+672 songs - 1 day 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -396,6 +396,7 @@
 | [Monica](https://open.spotify.com/track/1vVpnZRghHBbAWSKxDaBNZ) | [TMXO](https://open.spotify.com/artist/4SwLuQAfzvjEuIx6SVwWZP) | [Monica](https://open.spotify.com/album/1O3EkG2OtqBnxElNZVmazo) | 2:08 | 2022-12-08 | 2023-03-18 |
 | [More More](https://open.spotify.com/track/1nHxwydpZWlsJ1DXPV99pD) | [Zilla Oaks](https://open.spotify.com/artist/6jPUH69mRQVWQH6jdCfLDU) | [More More](https://open.spotify.com/album/7qs6tf9OVxzdW8XQuTfD2z) | 2:24 | 2023-04-20 | 2023-06-03 |
 | [Mortal Kombat](https://open.spotify.com/track/5G5R93fhTnLMXVcoIO6QNa) | [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS) | [Mortal Kombat](https://open.spotify.com/album/7n34NZSzWSksFu0Tg7TNbr) | 2:01 | 2025-07-04 |  |
+| [MOSHOOD](https://open.spotify.com/track/4VaqSkUfyzGpGAFOs8n1sB) | [PDSTRN](https://open.spotify.com/artist/7oAl5VKsXmNAcXuyKA5sSv) | [MOSHOOD](https://open.spotify.com/album/72i0a8a88fMnbEwYpuhFYw) | 7:44 | 2025-11-21 |  |
 | [Move](https://open.spotify.com/track/2yrZPZp445bFHivx2WZYEq) | [Obmrumi](https://open.spotify.com/artist/2tT51ZEbpFZ9ah71Ma9XEW) | [Move](https://open.spotify.com/album/3TMjXAxHbM7NTuo1mSNVDa) | 2:45 | 2023-02-10 | 2023-03-18 |
 | [Moving Mad](https://open.spotify.com/track/3NEm37oSILi153aS3mJGsd) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50) | [Moving Mad](https://open.spotify.com/album/1wqrmVrcBTus8veGMT2Nnq) | 2:22 | 2022-06-30 | 2023-10-21 |
 | [Mr Heartbreaker](https://open.spotify.com/track/5cBjxlthH8KxsfrXlal3Vv) | [Rose May Alaba](https://open.spotify.com/artist/2ZMK00G23KPZRXv5uETA5s), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Mr Heartbreaker](https://open.spotify.com/album/1tsQ2imLCuZQ3ik9d7MU2f) | 2:55 | 2024-10-25 | 2025-08-01 |
@@ -606,7 +607,7 @@
 | [The UCHE’s Story \- Ep1](https://open.spotify.com/track/3R5oOpk6Jnjl23sum2l7rL) | [Oladips](https://open.spotify.com/artist/5ToaR1at4yUIuHcAxn7won) | [The UCHE’s Story](https://open.spotify.com/album/545ba0hFSxR2ccjKYz3IJf) | 2:15 | 2025-10-10 | 2025-10-17 |
 | [THERAPY SESSION](https://open.spotify.com/track/6V25a6msBFeOLjIynVhWgx) | [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [G.O.A.T](https://open.spotify.com/album/6vNtI8WqFszCyAQhGlShtF) | 2:43 | 2025-03-28 |  |
 | [This is Nigeria](https://open.spotify.com/track/1HmPO8ao2uu6opMJDW24DA) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [This Is Nigeria](https://open.spotify.com/album/6ewbR4ceFzG5PFAK1ckPSu) | 3:28 | 2024-09-13 | 2024-09-20 |
-| [This Moment](https://open.spotify.com/track/4S6xAYsypFj1DYvxxP1gmN) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM) | [This Moment](https://open.spotify.com/album/4Zzi6dj2yNaPE9w5UG2HA4) | 2:43 | 2025-09-05 |  |
+| [This Moment](https://open.spotify.com/track/4S6xAYsypFj1DYvxxP1gmN) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM) | [This Moment](https://open.spotify.com/album/4Zzi6dj2yNaPE9w5UG2HA4) | 2:43 | 2025-09-05 | 2025-11-21 |
 | [Time Of My life](https://open.spotify.com/track/0GVWa6o5Kfai286WCKB1d0) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk) | [Time Of My Life](https://open.spotify.com/album/68LmZVzRuCex2vfwAYar5J) | 2:35 | 2024-09-27 | 2025-06-14 |
 | [To the Max](https://open.spotify.com/track/36Sml2B1lkLGDbiU5tZ63o) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Odunsi The Engine](https://open.spotify.com/artist/6JIIBiPRVuu8JUv0BWqCS1) | [To the Max](https://open.spotify.com/album/34kBsbz1eruAwZcuETkmUF) | 3:24 | 2022-10-14 | 2022-10-29 |
 | [Toe Touch](https://open.spotify.com/track/7BIKaYBqQw4JeR1oixpPSc) | [SixSaidIt](https://open.spotify.com/artist/4SBh3nHzdDKtubyOjpkhlb) | [Outside II](https://open.spotify.com/album/1yE4tyZV5U53xd8eSRMbA1) | 2:57 | 2022-10-07 | 2022-11-29 |

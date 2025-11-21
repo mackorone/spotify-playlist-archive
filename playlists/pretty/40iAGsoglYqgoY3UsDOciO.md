@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/40iAGsoglYqgoY3UsDOciO.md) - [plain]
 
 > A frequently updated playlist with brand\-new songs from new &amp;amp; established artists\. 🤖🚫&\#x2F;&\#x2F; Cover: $NOT \| pitch.playlistd@gmail.com
 
-[Finnster the curator](https://open.spotify.com/user/31fq6dcligacgxd7qfidijrq2uoi) - 495 likes - 434 songs - 20 hr 57 min
+[Finnster the curator](https://open.spotify.com/user/31fq6dcligacgxd7qfidijrq2uoi) - 498 likes - 435 songs - 21 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -442,5 +442,6 @@ pretty - [cumulative](/playlists/cumulative/40iAGsoglYqgoY3UsDOciO.md) - [plain]
 | 432 | [LONER](https://open.spotify.com/track/6sUoTDQP5XCWhVh3wZj9x4) | [Tony WRN](https://open.spotify.com/artist/3AbBBdwLhNl9XayH37zMnF) | [LONER](https://open.spotify.com/album/1sKfuOlwFCl6Hyjicf6QCF) | 2:09 |
 | 433 | [\#WELOVEYOUSWAY](https://open.spotify.com/track/7ED2P184Q6OJOejULzGCKb) | [swaveoh](https://open.spotify.com/artist/4tq4w6QBUcBu7jPXlREGDz) | [\#WELOVEYOUSWAY](https://open.spotify.com/album/1bxJMpCG8uni0JlZLuxzFm) | 1:37 |
 | 434 | [Over The Hill](https://open.spotify.com/track/5V2xNM2mfjQmY7hu2oMsks) | [Lucciago](https://open.spotify.com/artist/6RDDG29KAd3bKVMreXYnwY) | [Over The Hill](https://open.spotify.com/album/3d1D2K1JJK3nHWDPExuqcX) | 2:32 |
+| 435 | [HEY](https://open.spotify.com/track/0z5mPZLAet4h0U2ChLhZZE) | [Isa\-Aura](https://open.spotify.com/artist/4ba4F0jnalxz5si2A6cfdD), [MOOMAK](https://open.spotify.com/artist/6cVjiY6xN6r3ZdbNfT7Cpn) | [HEY](https://open.spotify.com/album/13PhR9OzgvdqziZpZg57FF) | 3:32 |
 
-Snapshot ID: `AAABUlEp2JXK7cF9BW/7b6futmXeVGyl`
+Snapshot ID: `AAABU0nlz0TaZxSIz77HdPDkR7R+wOOu`

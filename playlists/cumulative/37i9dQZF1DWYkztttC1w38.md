@@ -4,7 +4,7 @@
 
 > Soothing classical music to help you relax while you read.
 
-126 songs - 8 hr 33 min
+127 songs - 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [In the Waiting](https://open.spotify.com/track/0WzetzBykY3fl41dEJjoYa) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [You Finally Knew](https://open.spotify.com/album/7asD3WvGakevPFYg89jh9K) | 2:39 | 2022-02-04 |  |
 | [Ithaca Suite: IV\. Penelopeia](https://open.spotify.com/track/6Qw6T3l4tyQReC1CkvAhql) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Ithaca Suite/IV\. Penelopeia](https://open.spotify.com/album/0F5yKT6K8NbuXm1KPnPfnC) | 3:48 | 2025-09-19 |  |
 | [L'Arlésienne Suite No\. 2 \(Arr\. Guiraud\): III\. Menuet](https://open.spotify.com/track/0Tx61KMDoqr3uNMhNcXXhB) | [Georges Bizet](https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd), [Orchestre Symphonique de Montréal](https://open.spotify.com/artist/4AcXapei4U7xnWecv9AEBd), [Charles Dutoit](https://open.spotify.com/artist/0Ku5VBNL7cfGXRhp2BxXEQ) | [Bizet: Carmen Suites 1 & 2; L'Arlésienne Suites 1 & 2](https://open.spotify.com/album/3MHXMoe8tGfheDCfH6lUFn) | 4:27 | 2022-02-04 |  |
+| [La nuit et l'amour Variation \(After Ludus pro patria: II\. La nuit et l'amour\) \[Arr\. for Cello, Violin & Piano by Jan\-Peter Klöpfel\]](https://open.spotify.com/track/458ACeYUe8pUcJQVp7kK4Y) | [Augusta Holmès](https://open.spotify.com/artist/0439MtJfgNSZdCZDaFH4sO), [Jan\-Peter Klöpfel](https://open.spotify.com/artist/7fpQh1lgdWnKPcAVJHsl4h), [Raphaela Gromes](https://open.spotify.com/artist/1MBdqvpYGau9IvRqwsSS50), [Eldbjørg Hemsing](https://open.spotify.com/artist/4M2W6hcJWi6Nrd3XelpO3F), [Sophie Pacini](https://open.spotify.com/artist/3ta2MB7zIScVq8qN8K4441) | [La nuit et l'amour](https://open.spotify.com/album/7elKCwG18bpiMT2R1AleiP) | 3:16 | 2025-11-20 |  |
 | [Lacrimosa \(Arr\. Piano\)](https://open.spotify.com/track/3PSmDsIOywcxHpJTcXqSfm) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp), [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS) | [Lacrimosa \(Arr\. Piano\)](https://open.spotify.com/album/5pXRAGlv6hnd5vJvcQ8Z3A) | 3:53 | 2024-03-29 |  |
 | [Limu, limu, lima \(Arr\. Schindler for Piano\)](https://open.spotify.com/track/1ZpnptUG5sISwRx6fJQrXN) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Piano Book \(Deluxe Edition\)](https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90) | 5:35 | 2022-02-04 |  |
 | [Lo, the full, final sacrifice, Op\. 26: Amen \- Instrumental](https://open.spotify.com/track/5776PanLfe9zLJMhDbMBgW) | [Gerald Finzi](https://open.spotify.com/artist/4CDMSd6tmH66svpunz3aWP), [Amy Dickson](https://open.spotify.com/artist/3jCy6dMGBsf8Bt8fKD11Ty), [Aurora Orchestra](https://open.spotify.com/artist/0nrZ1B05azLrMkhTOFaoGJ), [Nicholas Collon](https://open.spotify.com/artist/23qJKSvfqtc9c3VFwdEV4a) | [Introit: The Music of Gerald Finzi](https://open.spotify.com/album/7D1xCSxqiXQxbmP39RknDJ) | 2:40 | 2022-02-04 |  |

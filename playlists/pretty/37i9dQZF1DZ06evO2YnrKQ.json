@@ -1,12 +1,12 @@
 {
   "description": "This is Alexisonfire. The essential tracks, all in one playlist.",
-  "num_followers": 24637,
+  "num_followers": 24641,
   "original_name": "This Is Alexisonfire",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRu3AAAAAAAGOlAviOwLp5BEfg1MG/aP",
+  "snapshot_id": "aR0IgAAAAABAzuJeYLYGK7hjuJj+dw8Q",
   "tracks": [
     {
       "added_at": null,
@@ -75,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fully Completely",
-        "url": "https://open.spotify.com/album/5iSeNirSdjXzdv4eBx72X1"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 228835,
-      "name": "Fully Completely",
-      "url": "https://open.spotify.com/track/7Gj5Gd0IlD4GTxL9bmVZg1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Otherness",
         "url": "https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 304986,
       "name": "Sans Soleil",
       "url": "https://open.spotify.com/track/2HxHylSuO7W9hLL2t1Dk3s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fully Completely",
+        "url": "https://open.spotify.com/album/5iSeNirSdjXzdv4eBx72X1"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 228835,
+      "name": "Fully Completely",
+      "url": "https://open.spotify.com/track/7Gj5Gd0IlD4GTxL9bmVZg1"
     },
     {
       "added_at": null,

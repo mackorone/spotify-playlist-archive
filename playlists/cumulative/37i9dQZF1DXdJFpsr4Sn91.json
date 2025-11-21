@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Nousussa olevat hitit. \ud83c\udf2a\ufe0f Kannessa Alina Burnet.",
+  "description": "Nousussa olevat hitit. \ud83c\udf2a\ufe0f Kannessa Turisti.",
   "name": "Nousussa",
   "tracks": [
     {
@@ -440,7 +440,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 292680,
       "name": "Ahdistuksen aika",
       "url": "https://open.spotify.com/track/1nPpePTiMAxYBTWjQIKmul"
@@ -3191,6 +3191,24 @@
     },
     {
       "album": {
+        "name": "Disko Balls",
+        "url": "https://open.spotify.com/album/0EC4Qy7cuxUo9I3GBYWddT"
+      },
+      "artists": [
+        {
+          "name": "K\u00e4\u00e4rij\u00e4",
+          "url": "https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178296,
+      "name": "Disko Balls",
+      "url": "https://open.spotify.com/track/5pEqejl90W8bWqhVA83yJi"
+    },
+    {
+      "album": {
         "name": "Diva",
         "url": "https://open.spotify.com/album/1Nk1t1ZS15Kg7Jt3M5wtyM"
       },
@@ -3624,7 +3642,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 225210,
       "name": "Ei kulu p\u00e4iv\u00e4\u00e4k\u00e4\u00e4n",
       "url": "https://open.spotify.com/track/0Q3f5sp2j2NESNeyH8YeC2"
@@ -3772,6 +3790,24 @@
       "duration_ms": 141461,
       "name": "Elokuu",
       "url": "https://open.spotify.com/track/7AsOdfsfWyYoOJPix4lVIt"
+    },
+    {
+      "album": {
+        "name": "Elvyt\u00e4 mut",
+        "url": "https://open.spotify.com/album/6KCgNmxuySo94NltGcsbug"
+      },
+      "artists": [
+        {
+          "name": "emma",
+          "url": "https://open.spotify.com/artist/7GQQEma0Ay9omE9JJr87KQ"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177500,
+      "name": "Elvyt\u00e4 mut",
+      "url": "https://open.spotify.com/track/5MuQp9rBwc1imnhrDyCRsy"
     },
     {
       "album": {
@@ -4276,7 +4312,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 198500,
       "name": "Et ollut se",
       "url": "https://open.spotify.com/track/5Ed7CNCkwXVFyoH7K5pRx9"
@@ -5656,7 +5692,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 176832,
       "name": "Here All Night",
       "url": "https://open.spotify.com/track/1MnYnayoEmTfZTM7GoPJGM"
@@ -7408,6 +7444,24 @@
       "duration_ms": 150353,
       "name": "Jos viel t\u00e4n\u00e4\u00e4n (feat. AHTI)",
       "url": "https://open.spotify.com/track/14WphbjwdiMZNkT0YhcnkW"
+    },
+    {
+      "album": {
+        "name": "Jossain s\u00e4 oot",
+        "url": "https://open.spotify.com/album/6LN6ZANO9lhVSZNFf1i8ou"
+      },
+      "artists": [
+        {
+          "name": "Jannika B",
+          "url": "https://open.spotify.com/artist/5ffRhIFF1wJD3JJLDXt4hY"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217720,
+      "name": "Jossain s\u00e4 oot",
+      "url": "https://open.spotify.com/track/2ZvQ60llWT1r7KbTAsozYW"
     },
     {
       "album": {
@@ -10007,6 +10061,28 @@
     },
     {
       "album": {
+        "name": "Make up your mind",
+        "url": "https://open.spotify.com/album/6h6BGEGN2NDYt8Sk8UEsEj"
+      },
+      "artists": [
+        {
+          "name": "Mirella",
+          "url": "https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ"
+        },
+        {
+          "name": "Averagekidluke",
+          "url": "https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Make up your mind",
+      "url": "https://open.spotify.com/track/0wcfyMYSuukf3dZAbehTmc"
+    },
+    {
+      "album": {
         "name": "Make You Mine",
         "url": "https://open.spotify.com/album/2DaVjOJ6DFUwGnma1WsGyB"
       },
@@ -10290,6 +10366,24 @@
       "duration_ms": 188631,
       "name": "Meid\u00e4n t\u00e4ss\u00e4 kuuluisi rakastuu",
       "url": "https://open.spotify.com/track/6yy7IWGVnuqG6pXjDPzRxc"
+    },
+    {
+      "album": {
+        "name": "Meist\u00e4 Kertova Satu",
+        "url": "https://open.spotify.com/album/7k5Q1ZXl6PaknjiyU3Zb1v"
+      },
+      "artists": [
+        {
+          "name": "Ira",
+          "url": "https://open.spotify.com/artist/2UkgjMChHf3vFEwOzLE5o9"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Meist\u00e4 Kertova Satu",
+      "url": "https://open.spotify.com/track/6x1eIve6hWWsy91plInMcb"
     },
     {
       "album": {
@@ -10769,6 +10863,24 @@
     },
     {
       "album": {
+        "name": "Mit\u00e4 jos",
+        "url": "https://open.spotify.com/album/4znb4jxLLnhWTyeH5nngMj"
+      },
+      "artists": [
+        {
+          "name": "Lilja Lund\u00e9n",
+          "url": "https://open.spotify.com/artist/0wNcJZGfhunx6ws14pNya1"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190093,
+      "name": "Mit\u00e4 jos",
+      "url": "https://open.spotify.com/track/6CHIwiS5DLPJWNsAYUObaG"
+    },
+    {
+      "album": {
         "name": "Mit\u00e4 meist j\u00e4\u00e4",
         "url": "https://open.spotify.com/album/0kNKcAFFALuDImbKDSksJ9"
       },
@@ -10904,7 +11016,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 147807,
       "name": "Mit\u00e4 vaan",
       "url": "https://open.spotify.com/track/2ygbM2P7Fjtdy50ErK9Vw9"
@@ -11932,6 +12044,24 @@
       "duration_ms": 152239,
       "name": "Nobody Knows",
       "url": "https://open.spotify.com/track/2d4Zg9Iupw6kJXVrQPERvh"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168134,
+      "name": "NOBODY'S GIRL",
+      "url": "https://open.spotify.com/track/2oPCpj9ezVq5D6IJNAGkL2"
     },
     {
       "album": {
@@ -13350,7 +13480,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 206160,
       "name": "Pime\u00e4\u00e4n",
       "url": "https://open.spotify.com/track/5muiXER1adsb94Qb2o3Z0f"
@@ -13824,6 +13954,24 @@
       "duration_ms": 190358,
       "name": "Pysyv\u00e4\u00e4",
       "url": "https://open.spotify.com/track/18H1buVbJxLAYGcUL3sHhe"
+    },
+    {
+      "album": {
+        "name": "P\u00e4in helvettii",
+        "url": "https://open.spotify.com/album/3s6LHPIWnuQPFPwnoDqtqL"
+      },
+      "artists": [
+        {
+          "name": "SINI YASEMIN",
+          "url": "https://open.spotify.com/artist/4DpQueNEIhOottP5j70XqR"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203920,
+      "name": "P\u00e4in helvettii",
+      "url": "https://open.spotify.com/track/3yHIxHuTIYF0pLFJ9DEKGy"
     },
     {
       "album": {
@@ -16479,6 +16627,24 @@
     },
     {
       "album": {
+        "name": "Syd\u00e4n on rikki",
+        "url": "https://open.spotify.com/album/5jcfKaqf0aEMasIpDoxpp2"
+      },
+      "artists": [
+        {
+          "name": "Aliisa Syrj\u00e4",
+          "url": "https://open.spotify.com/artist/22MRXgWTSxSeQG9NLCMezd"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181360,
+      "name": "Syd\u00e4n on rikki",
+      "url": "https://open.spotify.com/track/4ekyr5DV8ZUBQjA25ux0co"
+    },
+    {
+      "album": {
         "name": "syd\u00e4n t\u00e4ynn\u00e4 kipuu",
         "url": "https://open.spotify.com/album/0Olnej5OS9zqouctJWOeA0"
       },
@@ -17412,7 +17578,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 152466,
       "name": "Thick Skin",
       "url": "https://open.spotify.com/track/4wPS8JGKj8iNV8zNrmwtam"
@@ -17542,7 +17708,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 177208,
       "name": "TIT FOR TAT",
       "url": "https://open.spotify.com/track/04a44cx2PJthIbN2aLMXhl"
@@ -18088,6 +18254,24 @@
       "duration_ms": 210546,
       "name": "Tuulien teit\u00e4",
       "url": "https://open.spotify.com/track/383ykL7v9KTQJt6N4jrp03"
+    },
+    {
+      "album": {
+        "name": "Tuulta purjeisiin",
+        "url": "https://open.spotify.com/album/0RT64kLPZWjRD2XFPw3gpI"
+      },
+      "artists": [
+        {
+          "name": "Senya",
+          "url": "https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198597,
+      "name": "Tuulta purjeisiin",
+      "url": "https://open.spotify.com/track/6TlpSqesu3cFLa4tJcgRkC"
     },
     {
       "album": {
@@ -18760,7 +18944,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 177542,
       "name": "Vantaalainen (Vain el\u00e4m\u00e4\u00e4 kausi 16)",
       "url": "https://open.spotify.com/track/1rn1Ln1GWJnmxn7oYyKQes"
@@ -19304,7 +19488,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 187704,
       "name": "V\u00e4h\u00e4n enemm\u00e4n",
       "url": "https://open.spotify.com/track/7oZUbH4QyiNtW8L9ibZFHH"

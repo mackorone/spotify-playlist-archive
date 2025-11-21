@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1253lWxXfmfZeT2vRLhBUq">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-682 songs - 1 day 23 hr 18 min
+683 songs - 1 day 23 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [Carmen](https://open.spotify.com/track/2Len4tBitFcIf0sAp2zBOT) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Carmen](https://open.spotify.com/album/2X9F4vOl0e6K7qGyLqZoz2) | 3:02 | 2025-07-17 | 2025-09-22 |
 | [Cartier](https://open.spotify.com/track/4fUVX9jVZmx0VJp8eoUsdf) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [To Be Continued...](https://open.spotify.com/album/7iKDBfOFUtg8E8RbuDhiux) | 0:53 | 2023-07-02 |  |
 | [Cartier](https://open.spotify.com/track/3zxOf1iy9N3qU23wNIY2Xc) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 0:58 | 2022-09-08 | 2023-07-03 |
-| [Chameleon](https://open.spotify.com/track/4Ce66JznW8QbeyTdSzdGwR) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Head Hunters](https://open.spotify.com/album/5fmIolILp5NAtNYiRPjhzA) | 15:41 | 2022-09-08 |  |
+| [Chameleon](https://open.spotify.com/track/4Ce66JznW8QbeyTdSzdGwR) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Head Hunters](https://open.spotify.com/album/5fmIolILp5NAtNYiRPjhzA) | 15:44 | 2022-09-08 |  |
 | [Chasing The Crown](https://open.spotify.com/track/2rm6U6Q9tb48T8puxaRMBp) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [21 At 33](https://open.spotify.com/album/6uIizyHYBxUUp3I76LQ8cV) | 5:34 | 2022-09-08 |  |
 | [Chiquita \- Nikita](https://open.spotify.com/track/5rRtYctTs18b1SihtgTqgC) | [Mini Stars](https://open.spotify.com/artist/3JXoS1k9VrSYVvm1b5LtRw) | [Mini Stars, Vol\. 1](https://open.spotify.com/album/4mv5SJHslHLukdY4uY9Cfi) | 3:05 | 2023-05-26 |  |
 | [Choc Ice Goes Mental](https://open.spotify.com/track/63IsUqT2Wy0GqJ6gidHDL6) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 2:04 | 2023-05-26 |  |
@@ -398,7 +398,7 @@
 | [Never Too Old \(To Hold Somebody\)](https://open.spotify.com/track/14KH4059KdXdzTRVpjb5OU) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Leon Russell](https://open.spotify.com/artist/6r1Xmz7YUD4z0VRUoGm8XN) | [The Union](https://open.spotify.com/album/5O3tJmTjdvIWSRyut7mTbZ) | 4:57 | 2022-09-08 |  |
 | [New World Order](https://open.spotify.com/track/3MIaMzfn268zyJxUboLAYc) | [Sam Sneed](https://open.spotify.com/artist/7fhSN2Pok7u6J2IER2MFeQ), [Ramaj](https://open.spotify.com/artist/3K2mfMVB6bAqyOzvljwUjz), [Shadow](https://open.spotify.com/artist/2lf0FYOB52skJWouVr7orA), [Atilio Jarquin](https://open.spotify.com/artist/5P0K08hWBiz3dkyditBr18), [Feab](https://open.spotify.com/artist/6JkkqbGQOIbpT4YN4ASBbJ) | [Street Scholars](https://open.spotify.com/album/0Dc2YMSF2zNj5ka8RQXKHg) | 4:05 | 2023-05-26 |  |
 | [Nice And Slow](https://open.spotify.com/track/0ThIeJpqmnxAb9XvWlSIjO) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Complete Thom Bell Sessions](https://open.spotify.com/album/0EXubpxzIR0IoPJCCvJNDZ) | 4:40 | 2022-09-08 |  |
-| [Nikita](https://open.spotify.com/track/3G0ENKW9vzV0SuYKaWFflI) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Ice On Fire](https://open.spotify.com/album/0xuxPr53iRlhWCu7QqHH24) | 5:43 | 2022-09-08 |  |
+| [Nikita](https://open.spotify.com/track/3G0ENKW9vzV0SuYKaWFflI) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Ice On Fire](https://open.spotify.com/album/0xuxPr53iRlhWCu7QqHH24) | 5:43 | 2022-09-08 | 2025-11-21 |
 | [Nikita](https://open.spotify.com/track/0Nch1D9uPB4krd8eEmDWc0) | [Mel Jersey](https://open.spotify.com/artist/5hPk4VKUsJPYP8CEZ6y84t) | [25 Jahre Mel Jersey](https://open.spotify.com/album/36Yk30GImpsHXei1oEJGej) | 4:48 | 2023-05-26 |  |
 | [Nina \- Band Version](https://open.spotify.com/track/1rv2bzca6ilxwMynldXTyF) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 3:42 | 2023-05-26 | 2023-06-16 |
 | [Nina \- Stereo Mix](https://open.spotify.com/track/3xjhO7i96jCZUgscFmrSTF) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Regimental Sgt\. Zippo](https://open.spotify.com/album/3bfgBQwwP00KPKz6QmsNYz) | 3:52 | 2023-06-15 |  |
@@ -619,7 +619,7 @@
 | [This Train Don't Stop There Anymore](https://open.spotify.com/track/6mFnYxzUmEzEiqkB94k3g7) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Songs From The West Coast \(Expanded Edition\)](https://open.spotify.com/album/1hBowxbDuRdbm5NouddGgq) | 4:38 | 2022-09-08 |  |
 | [Ticking \- Remastered 1995](https://open.spotify.com/track/6jfMhVrLQ08guqU9LRVsR8) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Caribou \(Remastered 1995\)](https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC) | 7:34 | 2022-09-08 |  |
 | [Tinderbox](https://open.spotify.com/track/3mNIFeQhmtyZHCxjGNc2IL) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Captain and The Kid](https://open.spotify.com/album/1lqdOJ9M0EnXx9cf5moz1B) | 4:25 | 2022-09-08 |  |
-| [Tiny Dancer](https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Madman Across The Water](https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr) | 6:17 | 2022-09-08 |  |
+| [Tiny Dancer](https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Madman Across The Water](https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr) | 6:17 | 2022-09-08 | 2025-11-21 |
 | [To The Guesthouse](https://open.spotify.com/track/07nzChLQ0zWJF7z0VMLXfV) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Muse \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2) | 0:49 | 2023-05-26 |  |
 | [Tonight](https://open.spotify.com/track/2X9tm8VBLbN7UUnX8xCaV4) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Blue Moves](https://open.spotify.com/album/0XsM7TdicJh19osmKPUoR2) | 7:52 | 2022-09-08 |  |
 | [Too Low For Zero](https://open.spotify.com/track/45pcawfb1hdBjq69krZpMZ) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Too Low For Zero](https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7) | 5:46 | 2022-09-08 |  |
@@ -687,7 +687,8 @@
 | [Young Man's Blues](https://open.spotify.com/track/3YB0DVr8wWLyZmGvnvkUdA) | [Mose Allison](https://open.spotify.com/artist/0sN4enVJwylJKEXZlSbgsm) | [Mose Allison Sings](https://open.spotify.com/album/5a5XbcCrFeD24y2ZdUOhFL) | 1:23 | 2022-09-08 |  |
 | [Your Sister Can't Twist \(But She Can Rock'n' Roll\) \- Remastered 2014](https://open.spotify.com/track/2fYxpSFhg95sBwaGp5JlFU) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(Remastered\)](https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun) | 2:41 | 2022-09-08 |  |
 | [Your Song](https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Elton John](https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0) | 4:01 | 2022-09-08 |  |
-| [Your Song](https://open.spotify.com/track/4olgfOwijIxciV0RKawvFo) | [Isla Bell](https://open.spotify.com/artist/0W4zTvt8vI2WqTHuDluYth) | [Keyside](https://open.spotify.com/album/6c4QsoNkS3hGpNsLDwefZQ) | 4:25 | 2022-09-08 |  |
+| [Your Song](https://open.spotify.com/track/4olgfOwijIxciV0RKawvFo) | [Isla Bell](https://open.spotify.com/artist/0W4zTvt8vI2WqTHuDluYth) | [Keyside](https://open.spotify.com/album/6c4QsoNkS3hGpNsLDwefZQ) | 4:25 | 2022-09-08 | 2025-11-21 |
+| [Your Song](https://open.spotify.com/track/59iLJ96lpFkECWmIQQiLVU) | [Isla Bell](https://open.spotify.com/artist/0W4zTvt8vI2WqTHuDluYth) | [Keyside](https://open.spotify.com/album/49IFyAZfe4AgHNpxcZjBsF) | 4:25 | 2025-11-20 |  |
 | [Your Twenties](https://open.spotify.com/track/1MM8w3WR9RMtMqY1p93Uvp) | [The Devil Wears Prada Original West End Cast](https://open.spotify.com/artist/3b9mqCrbSkiDrvLZujmVd9), [Maddy Ambus](https://open.spotify.com/artist/1nbkSeKZ6KM6Sn6pogtSJd) | [The Devil Wears Prada: A New Musical](https://open.spotify.com/album/4wVOH8PfZ1PCYsGqyVjOYM) | 2:56 | 2025-09-21 |  |
 | [Část Knížky](https://open.spotify.com/track/30G8BhKXy9lsm3EVM9bdU9) | [Jitka Zelenková](https://open.spotify.com/artist/7JiWNPWFog0sTz1f63HToI) | [Máme Si Co Říct](https://open.spotify.com/album/60A8iAi3QswNe3I2UsmJB4) | 3:49 | 2023-07-25 |  |
 

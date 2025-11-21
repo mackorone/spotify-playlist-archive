@@ -1,12 +1,12 @@
 {
   "description": "This is BAYLI. The essential tracks, all in one playlist.",
-  "num_followers": 164,
+  "num_followers": 165,
   "original_name": "This Is BAYLI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRu3AAAAAAAtkO6VF3yxaW1Ix225cdS/",
+  "snapshot_id": "aR0IgAAAAABiZw2/fMUAs0ry3VP83uye",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,22 @@
       "duration_ms": 126486,
       "name": "TSUNAMI",
       "url": "https://open.spotify.com/track/7zMdBNMCNkwTlVgZfce3dY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NO RE-ENTRY",
+        "url": "https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 146378,
+      "name": "Lucky Number One",
+      "url": "https://open.spotify.com/track/3WuzwlDCQ4cQfkY9BlbRvL"
     },
     {
       "added_at": null,
@@ -63,22 +79,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NO RE-ENTRY",
-        "url": "https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 146378,
-      "name": "Lucky Number One",
-      "url": "https://open.spotify.com/track/3WuzwlDCQ4cQfkY9BlbRvL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "sushi for breakfast",
         "url": "https://open.spotify.com/album/4Vk4WD5RYrocyVqwTNBoBy"
       },
@@ -95,22 +95,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "all of that",
-        "url": "https://open.spotify.com/album/2aKrKxXK1bOVyyrmx0vTfp"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 129264,
-      "name": "all of that",
-      "url": "https://open.spotify.com/track/2zh3kDlNQWTAUs9VAphQyc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "16",
         "url": "https://open.spotify.com/album/1VfhzQkyETgPLRYprRheAq"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 144637,
       "name": "16",
       "url": "https://open.spotify.com/track/4UHGno4pRrDxcsFkGU1m9k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "all of that",
+        "url": "https://open.spotify.com/album/2aKrKxXK1bOVyyrmx0vTfp"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 129264,
+      "name": "all of that",
+      "url": "https://open.spotify.com/track/2zh3kDlNQWTAUs9VAphQyc"
     },
     {
       "added_at": null,
@@ -167,22 +167,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SUGARCOAT",
-        "url": "https://open.spotify.com/album/5mma4lveprSBo6HCMMdEou"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 121423,
-      "name": "SUGARCOAT",
-      "url": "https://open.spotify.com/track/5HSnERtFDoggbkiPBOqWfM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "not safe",
         "url": "https://open.spotify.com/album/1Qby2SmIsbpxjFnPxqoZ9L"
       },
@@ -195,26 +179,6 @@
       "duration_ms": 136686,
       "name": "not safe",
       "url": "https://open.spotify.com/track/4tVvxsh4u0ySI62DQEup37"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NO RE-ENTRY",
-        "url": "https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        },
-        {
-          "name": "Cortisa Star",
-          "url": "https://open.spotify.com/artist/7oM0bObDNv5Uv1TNyDoqEG"
-        }
-      ],
-      "duration_ms": 153498,
-      "name": "Posh",
-      "url": "https://open.spotify.com/track/5Tsks8nXhqyZLz0xvo9raf"
     },
     {
       "added_at": null,
@@ -235,6 +199,22 @@
       "duration_ms": 154213,
       "name": "BOTH",
       "url": "https://open.spotify.com/track/0og8Iehtsov2WSZBoQbmAJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NO RE-ENTRY",
+        "url": "https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 121423,
+      "name": "SUGARCOAT",
+      "url": "https://open.spotify.com/track/0OUDA18X0UoB1VJRXZiI9Z"
     },
     {
       "added_at": null,
@@ -271,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NO RE-ENTRY",
-        "url": "https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 111345,
-      "name": "fem-onomics",
-      "url": "https://open.spotify.com/track/5iiCpjVTgaht1PDVHEMYiB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "stories from new york",
         "url": "https://open.spotify.com/album/7nkcfBIzLWqE9FaWf50AFt"
       },
@@ -299,6 +263,26 @@
       "duration_ms": 137104,
       "name": "say it back",
       "url": "https://open.spotify.com/track/4QEeNtaEmDgP9BtiKArNo5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NO RE-ENTRY",
+        "url": "https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        },
+        {
+          "name": "Cortisa Star",
+          "url": "https://open.spotify.com/artist/7oM0bObDNv5Uv1TNyDoqEG"
+        }
+      ],
+      "duration_ms": 153498,
+      "name": "Posh",
+      "url": "https://open.spotify.com/track/5Tsks8nXhqyZLz0xvo9raf"
     },
     {
       "added_at": null,
@@ -335,26 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NO RE-ENTRY",
-        "url": "https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        },
-        {
-          "name": "Kevin Aviance",
-          "url": "https://open.spotify.com/artist/1tPCPj6UWSQ3VSQ8xwZ4ZJ"
-        }
-      ],
-      "duration_ms": 134968,
-      "name": "Gospel",
-      "url": "https://open.spotify.com/track/7JWK1ujyuUTJnPauiLYpzK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SuperGood",
         "url": "https://open.spotify.com/album/07ElwjWGMXVNlQG4TsVn9H"
       },
@@ -379,6 +343,22 @@
       "duration_ms": 231118,
       "name": "Find A Way",
       "url": "https://open.spotify.com/track/79VbNdFIOMuQQMWKhTg0Zr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NO RE-ENTRY",
+        "url": "https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 111345,
+      "name": "fem-onomics",
+      "url": "https://open.spotify.com/track/5iiCpjVTgaht1PDVHEMYiB"
     },
     {
       "added_at": null,
@@ -443,22 +423,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Push N Pull",
-        "url": "https://open.spotify.com/album/6NJUaLB7QJap4J0rTWwYrV"
+        "name": "NO RE-ENTRY",
+        "url": "https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G"
       },
       "artists": [
         {
-          "name": "Runyu Qian",
-          "url": "https://open.spotify.com/artist/4ImAOESUJEOZ44ubwuoj1X"
-        },
-        {
           "name": "BAYLI",
           "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        },
+        {
+          "name": "Kevin Aviance",
+          "url": "https://open.spotify.com/artist/1tPCPj6UWSQ3VSQ8xwZ4ZJ"
         }
       ],
-      "duration_ms": 162580,
-      "name": "Push N Pull",
-      "url": "https://open.spotify.com/track/1Ze2YUR6IEAUhfhJgsP6f8"
+      "duration_ms": 134968,
+      "name": "Gospel",
+      "url": "https://open.spotify.com/track/7JWK1ujyuUTJnPauiLYpzK"
     },
     {
       "added_at": null,
@@ -483,22 +463,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "demon time",
-        "url": "https://open.spotify.com/album/2B8rBYLpIJNkP4OsN16yRm"
+        "name": "Push N Pull",
+        "url": "https://open.spotify.com/album/6NJUaLB7QJap4J0rTWwYrV"
       },
       "artists": [
         {
-          "name": "Mura Masa",
-          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+          "name": "Runyu Qian",
+          "url": "https://open.spotify.com/artist/4ImAOESUJEOZ44ubwuoj1X"
         },
         {
           "name": "BAYLI",
           "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
         }
       ],
-      "duration_ms": 130057,
-      "name": "demon time (with BAYLI)",
-      "url": "https://open.spotify.com/track/4bLUlN1VbZvCksmFpjABwf"
+      "duration_ms": 162580,
+      "name": "Push N Pull",
+      "url": "https://open.spotify.com/track/1Ze2YUR6IEAUhfhJgsP6f8"
     },
     {
       "added_at": null,
@@ -515,6 +495,26 @@
       "duration_ms": 142142,
       "name": "into me",
       "url": "https://open.spotify.com/track/6kDJnfS1A7ZZTugc8JMkQt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "demon time",
+        "url": "https://open.spotify.com/album/2B8rBYLpIJNkP4OsN16yRm"
+      },
+      "artists": [
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        },
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 130057,
+      "name": "demon time (with BAYLI)",
+      "url": "https://open.spotify.com/track/4bLUlN1VbZvCksmFpjABwf"
     },
     {
       "added_at": null,

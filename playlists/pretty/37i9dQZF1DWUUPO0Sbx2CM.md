@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUPO0Sbx2CM.md) - [plain]
 
 > Discover a mix of faith and fun with these EDM, Pop, Hip Hop, Worship, and remixed songs!
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,471 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,495 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUPO0Sbx2CM.md) - [plain]
 | 69 | [Without Your Love](https://open.spotify.com/track/3iAbaEO9MYGn2tcRxNEG8l) | [Colorvault](https://open.spotify.com/artist/15r1ip4y85i0oDNt03C4Er), [A.Bishai](https://open.spotify.com/artist/3OLnkIUoCzl7AiVY9WAEuM) | [Without Your Love](https://open.spotify.com/album/6BuV4qg8WtUZ5Zqr8rx2wC) | 2:59 |
 | 70 | [Hold Me Down](https://open.spotify.com/track/2KZmhyKheOl8klQlHNuGEa) | [Roy Tosh](https://open.spotify.com/artist/7JjM4ZFJffM5vti5m241ye) | [Hold Me Down](https://open.spotify.com/album/7FyWFjrhwLE07TfheKpZmm) | 2:55 |
 | 71 | [Only You Can Do It](https://open.spotify.com/track/0wUKaAELGGKa0M1SMhJI88) | [Chris August](https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8) | [Only You Can Do It](https://open.spotify.com/album/5rhWXmx3zQh0z2F2bcaOV1) | 2:20 |
-| 72 | [Stuck To You](https://open.spotify.com/track/4YcgoX1w8bc67qM7or2Wdh) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [Naffymar](https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr), [Hills Music](https://open.spotify.com/artist/7zG8lYti0IvGed5TIPXATE) | [Stuck To You](https://open.spotify.com/album/4Tcvfm9rywGwVu3EVBpM22) | 2:55 |
-| 73 | [more like you](https://open.spotify.com/track/039ZACDj8Cb8AA0jdKyQgT) | [Reed Deming](https://open.spotify.com/artist/1fKEt9S1A4iszlgL9rFjPR) | [more like you](https://open.spotify.com/album/7LXQLC9LcezYqo9wTWzj2J) | 3:17 |
+| 72 | [more like you](https://open.spotify.com/track/039ZACDj8Cb8AA0jdKyQgT) | [Reed Deming](https://open.spotify.com/artist/1fKEt9S1A4iszlgL9rFjPR) | [more like you](https://open.spotify.com/album/7LXQLC9LcezYqo9wTWzj2J) | 3:17 |
+| 73 | [Stuck To You](https://open.spotify.com/track/4YcgoX1w8bc67qM7or2Wdh) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [Naffymar](https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr), [Hills Music](https://open.spotify.com/artist/7zG8lYti0IvGed5TIPXATE) | [Stuck To You](https://open.spotify.com/album/4Tcvfm9rywGwVu3EVBpM22) | 2:55 |
 | 74 | [Come What May](https://open.spotify.com/track/2xbZqKInGwWtfQ1v3MB21i) | [Awaken Music](https://open.spotify.com/artist/1QcT7Zc5PsF36V3cEe7ws9) | [Come What May](https://open.spotify.com/album/0kBsmG4T0XwOPIrq7LKJpc) | 5:19 |
 | 75 | [Worth](https://open.spotify.com/track/6ysHdrLOqZODoLntonGcRK) | [MŌRIAH](https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv) | [Curtain Call](https://open.spotify.com/album/0RBgOR4pSFBZwc7EFwONDt) | 3:52 |
 | 76 | [Hold Me](https://open.spotify.com/track/6PxIGrqOlGUc5aQjqIsdG5) | [Vanessa Campagna](https://open.spotify.com/artist/4a4KcYuu2DZrL8sTGyu5sM) | [Hold Me](https://open.spotify.com/album/6OKYLvwDv9IW8wvkvEKKoB) | 3:20 |

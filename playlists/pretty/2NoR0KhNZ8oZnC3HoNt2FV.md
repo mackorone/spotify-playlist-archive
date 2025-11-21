@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2NoR0KhNZ8oZnC3HoNt2FV.md) - [plain]
 
 > 
 
-[PlayStation®️](https://open.spotify.com/user/playstation_music) - 226,282 likes - 499 songs - 1 day 1 hr 50 min
+[PlayStation®️](https://open.spotify.com/user/playstation_music) - 226,277 likes - 499 songs - 1 day 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -188,7 +188,7 @@ pretty - [cumulative](/playlists/cumulative/2NoR0KhNZ8oZnC3HoNt2FV.md) - [plain]
 | 178 | [On My Conscious](https://open.spotify.com/track/6BmRkEqAI3pfRdeJyoi0iG) | [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [MadMan](https://open.spotify.com/album/49J8Mmm7YFMsTRVBr0hUEt) | 2:34 |
 | 179 | [Blick4blick](https://open.spotify.com/track/30LyKpq7F8AkwjHcNZfKyK) | [Lunchbox](https://open.spotify.com/artist/4yBk76oymBKTd7fs3XpbId) | [New Jazz](https://open.spotify.com/album/4KIdIkyXLJ73H0ddKVJSl2) | 1:48 |
 | 180 | [Head in the Ceiling Fan](https://open.spotify.com/track/449LuMpoIOhxnW2B246Aau) | [Title Fight](https://open.spotify.com/artist/2CnhqfjUG0qzsru0SMuhrk) | [Floral Green](https://open.spotify.com/album/4VDX4YuDzvaRPfHaZ4FrFV) | 3:59 |
-| 181 | [P.Y.T\. \(Pretty Young Thing\)](https://open.spotify.com/track/1CgmY8fVN7kstVDZmsdM5k) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 3:59 |
+| 181 | [P.Y.T\. \(Pretty Young Thing\)](https://open.spotify.com/track/1CgmY8fVN7kstVDZmsdM5k) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 3:58 |
 | 182 | [Dap You Up](https://open.spotify.com/track/2qTBAODxjsKCQClRjMthEj) | [Speaker Knockerz](https://open.spotify.com/artist/3KuLo66B73btyQpdXlkqFx) | [Married to the Money II \#Mttm2](https://open.spotify.com/album/2q0B1JTgZRAh7xVEZfJRg8) | 2:58 |
 | 183 | [SWISH/USE 2](https://open.spotify.com/track/316psfgQyeOKRKVltAV3kz) | [FLEE](https://open.spotify.com/artist/0kvDb0sP1IM6XSQ8ZBi20p), [StoopidXool](https://open.spotify.com/artist/6ufMjaOmZOf0WCMgE7nR8i), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [XOOL SUMMER](https://open.spotify.com/album/5iSn8A8AsrNFvEYlw6hI3W) | 3:44 |
 | 184 | [Lay Up](https://open.spotify.com/track/4iOq2DLxbRuBdrILZwOKoW) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Beast Mode](https://open.spotify.com/album/02Mp4Q83TVhpe8VeCpMZjZ) | 2:47 |

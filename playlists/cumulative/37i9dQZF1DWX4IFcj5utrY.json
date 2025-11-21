@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best dance hits in South Africa. Cover: Charles Webster",
+  "description": "The best dance hits in South Africa. Cover: Floyd Lavine",
   "name": "mint South Africa",
   "tracks": [
     {
@@ -17869,6 +17869,28 @@
     },
     {
       "album": {
+        "name": "HEKIMA",
+        "url": "https://open.spotify.com/album/5n0LltozgBNetnbRDoPxdn"
+      },
+      "artists": [
+        {
+          "name": "Floyd Lavine",
+          "url": "https://open.spotify.com/artist/5VjxZ6Ik0cmnVlXZ3in6nw"
+        },
+        {
+          "name": "The Illustrious Blacks",
+          "url": "https://open.spotify.com/artist/1ZZthpcsHPWbkTUw7HNTu1"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210460,
+      "name": "Mind Expansion - Radio Edit",
+      "url": "https://open.spotify.com/track/3Ms9GelNWS4xAmlCcy0Lx5"
+    },
+    {
+      "album": {
         "name": "Mind, Body",
         "url": "https://open.spotify.com/album/1ZihYDrPmCQYy0kuaxizKU"
       },
@@ -19572,7 +19594,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 317220,
       "name": "Ngishutheni",
       "url": "https://open.spotify.com/track/3JW9hNUjUN51X9jZyn2HVV"
@@ -30185,7 +30207,7 @@
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 364000,
+      "duration_ms": 325999,
       "name": "Wamuhle",
       "url": "https://open.spotify.com/track/6qxOK7IctHVnuTlXQH8lPz"
     },

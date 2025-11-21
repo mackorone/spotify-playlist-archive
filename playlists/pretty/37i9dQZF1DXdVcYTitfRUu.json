@@ -1,6 +1,6 @@
 {
   "description": "\uac10\uc131 \uac00\ub4dd\ud55c \ub178\ub798\uc640 \ud568\uaed8 \ubd80\ub4dc\ub7fd\uac8c \ud578\ub4e4\uc744 \ub3cc\ub824\ubcf4\uc138\uc694.",
-  "num_followers": 14730,
+  "num_followers": 14736,
   "original_name": "\ub4dc\ub77c\uc774\ube59 \uac10\uc131+ (K-Pop Emotional Driving)",
   "owner": {
     "name": "Spotify",
@@ -463,22 +463,6 @@
     {
       "added_at": "2025-11-10 08:05:41",
       "album": {
-        "name": "A Letter",
-        "url": "https://open.spotify.com/album/5XOHCaEeZyiKWDMZ3h2zbZ"
-      },
-      "artists": [
-        {
-          "name": "BUMJIN",
-          "url": "https://open.spotify.com/artist/3vljSA6N2aSE8U3OhNFkPy"
-        }
-      ],
-      "duration_ms": 215760,
-      "name": "A Letter",
-      "url": "https://open.spotify.com/track/0VdwOoAKPe9aGahkpllfkH"
-    },
-    {
-      "added_at": "2025-11-10 08:05:41",
-      "album": {
         "name": "ETERNALT",
         "url": "https://open.spotify.com/album/5N8nzYvaqnls4UduaKAQjh"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 215760,
       "name": "All My Poetry",
       "url": "https://open.spotify.com/track/1qGihPwp76LainqxoRQ4Y0"
+    },
+    {
+      "added_at": "2025-11-10 08:05:41",
+      "album": {
+        "name": "A Letter",
+        "url": "https://open.spotify.com/album/5XOHCaEeZyiKWDMZ3h2zbZ"
+      },
+      "artists": [
+        {
+          "name": "BUMJIN",
+          "url": "https://open.spotify.com/artist/3vljSA6N2aSE8U3OhNFkPy"
+        }
+      ],
+      "duration_ms": 215760,
+      "name": "A Letter",
+      "url": "https://open.spotify.com/track/0VdwOoAKPe9aGahkpllfkH"
     },
     {
       "added_at": "2025-11-10 08:05:41",
@@ -543,22 +543,6 @@
     {
       "added_at": "2025-11-10 08:05:41",
       "album": {
-        "name": "Arcadia",
-        "url": "https://open.spotify.com/album/2FHD4nJJF6KBh5fVPRvYEO"
-      },
-      "artists": [
-        {
-          "name": "CHEN",
-          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Arcadia",
-      "url": "https://open.spotify.com/track/3idsUT3KIpNhLwL3AJkhEn"
-    },
-    {
-      "added_at": "2025-11-10 08:05:41",
-      "album": {
         "name": "TIME CAPSULE",
         "url": "https://open.spotify.com/album/4rBya5shYbNkTLfc1IhRq2"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 252000,
       "name": "TIME CAPSULE",
       "url": "https://open.spotify.com/track/3CQw6HqsBu12wUj89vUQ5M"
+    },
+    {
+      "added_at": "2025-11-10 08:05:41",
+      "album": {
+        "name": "Arcadia",
+        "url": "https://open.spotify.com/album/2FHD4nJJF6KBh5fVPRvYEO"
+      },
+      "artists": [
+        {
+          "name": "CHEN",
+          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Arcadia",
+      "url": "https://open.spotify.com/track/3idsUT3KIpNhLwL3AJkhEn"
     },
     {
       "added_at": "2025-11-10 08:05:41",
@@ -623,22 +623,6 @@
     {
       "added_at": "2025-11-10 08:05:41",
       "album": {
-        "name": "GOGAE",
-        "url": "https://open.spotify.com/album/0JcYest2TlXqNMDVOgFs8u"
-      },
-      "artists": [
-        {
-          "name": "WONWOO",
-          "url": "https://open.spotify.com/artist/3rHcBT06Vb1XGVUWhDALZt"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "GOGAE",
-      "url": "https://open.spotify.com/track/27HQm8e5nnVq5y7rHR3ROl"
-    },
-    {
-      "added_at": "2025-11-10 08:05:41",
-      "album": {
         "name": "Welcome to Samdal-ri (Original Television Soundtrack), Pt.3",
         "url": "https://open.spotify.com/album/6zQirDfbwXQbtdPJta5Xx3"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 238693,
       "name": "Dream",
       "url": "https://open.spotify.com/track/5DIooJbJaNbxidKBMbk2ts"
+    },
+    {
+      "added_at": "2025-11-10 08:05:41",
+      "album": {
+        "name": "GOGAE",
+        "url": "https://open.spotify.com/album/0JcYest2TlXqNMDVOgFs8u"
+      },
+      "artists": [
+        {
+          "name": "WONWOO",
+          "url": "https://open.spotify.com/artist/3rHcBT06Vb1XGVUWhDALZt"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "GOGAE",
+      "url": "https://open.spotify.com/track/27HQm8e5nnVq5y7rHR3ROl"
     },
     {
       "added_at": "2025-11-10 08:05:41",
@@ -671,26 +671,6 @@
     {
       "added_at": "2025-11-10 08:05:41",
       "album": {
-        "name": "Bye Bye",
-        "url": "https://open.spotify.com/album/70b2w1pmeZudQF8CNbWtCn"
-      },
-      "artists": [
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        },
-        {
-          "name": "LEE MU JIN",
-          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "Bye Bye (Feat. LEE MU JIN)",
-      "url": "https://open.spotify.com/track/76vu2smcuQgil4Xqa5yAYv"
-    },
-    {
-      "added_at": "2025-11-10 08:05:41",
-      "album": {
         "name": "YOUNHA 6th Album Repackage 'END THEORY : Final Edition'",
         "url": "https://open.spotify.com/album/63mur6I6yCG9cOxOst3i7c"
       },
@@ -703,22 +683,6 @@
       "duration_ms": 300786,
       "name": "Event Horizon",
       "url": "https://open.spotify.com/track/6RBziRcDeiho3iTPdtEeg9"
-    },
-    {
-      "added_at": "2025-11-10 08:05:41",
-      "album": {
-        "name": "If You Ask Me What Love Is",
-        "url": "https://open.spotify.com/album/79ZPROThlkTsw8QqWGYkPe"
-      },
-      "artists": [
-        {
-          "name": "Roy Kim",
-          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
-        }
-      ],
-      "duration_ms": 223040,
-      "name": "If You Ask Me What Love Is",
-      "url": "https://open.spotify.com/track/5zsMOF3yWT4U1Vw5eaMQFH"
     },
     {
       "added_at": "2025-11-10 08:05:41",
@@ -739,6 +703,42 @@
       "duration_ms": 161766,
       "name": "NASA",
       "url": "https://open.spotify.com/track/2y3opu08ybnMRziQFdvcZv"
+    },
+    {
+      "added_at": "2025-11-10 08:05:41",
+      "album": {
+        "name": "If You Ask Me What Love Is",
+        "url": "https://open.spotify.com/album/79ZPROThlkTsw8QqWGYkPe"
+      },
+      "artists": [
+        {
+          "name": "Roy Kim",
+          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
+        }
+      ],
+      "duration_ms": 223040,
+      "name": "If You Ask Me What Love Is",
+      "url": "https://open.spotify.com/track/5zsMOF3yWT4U1Vw5eaMQFH"
+    },
+    {
+      "added_at": "2025-11-10 08:05:41",
+      "album": {
+        "name": "Bye Bye",
+        "url": "https://open.spotify.com/album/70b2w1pmeZudQF8CNbWtCn"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        },
+        {
+          "name": "LEE MU JIN",
+          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "Bye Bye (Feat. LEE MU JIN)",
+      "url": "https://open.spotify.com/track/76vu2smcuQgil4Xqa5yAYv"
     },
     {
       "added_at": "2025-11-10 08:05:41",
@@ -955,18 +955,18 @@
     {
       "added_at": "2025-11-10 08:05:41",
       "album": {
-        "name": "I`m Firefly",
-        "url": "https://open.spotify.com/album/1GJArSrDSNTyWeTvGeenAT"
+        "name": "Don`t you know",
+        "url": "https://open.spotify.com/album/2z9U8RSPOJnFZcHbQbh9Gw"
       },
       "artists": [
         {
-          "name": "Hwang Karam",
-          "url": "https://open.spotify.com/artist/61jr8e2uLQusD1PLqTKqQc"
+          "name": "ZO ZAZZ",
+          "url": "https://open.spotify.com/artist/7oefVAcL2YuRdata5VCUzf"
         }
       ],
-      "duration_ms": 215433,
-      "name": "I`m Firefly",
-      "url": "https://open.spotify.com/track/27QLNrvWbFcwOYr8RpOpxg"
+      "duration_ms": 301653,
+      "name": "Don`t you know(PROD.ROCOBERRY)",
+      "url": "https://open.spotify.com/track/5jviSlh6YAznFM8JtMBEqV"
     },
     {
       "added_at": "2025-11-10 08:05:41",
@@ -987,18 +987,18 @@
     {
       "added_at": "2025-11-10 08:05:41",
       "album": {
-        "name": "Don`t you know",
-        "url": "https://open.spotify.com/album/2z9U8RSPOJnFZcHbQbh9Gw"
+        "name": "I`m Firefly",
+        "url": "https://open.spotify.com/album/1GJArSrDSNTyWeTvGeenAT"
       },
       "artists": [
         {
-          "name": "ZO ZAZZ",
-          "url": "https://open.spotify.com/artist/7oefVAcL2YuRdata5VCUzf"
+          "name": "Hwang Karam",
+          "url": "https://open.spotify.com/artist/61jr8e2uLQusD1PLqTKqQc"
         }
       ],
-      "duration_ms": 301653,
-      "name": "Don`t you know(PROD.ROCOBERRY)",
-      "url": "https://open.spotify.com/track/5jviSlh6YAznFM8JtMBEqV"
+      "duration_ms": 215433,
+      "name": "I`m Firefly",
+      "url": "https://open.spotify.com/track/27QLNrvWbFcwOYr8RpOpxg"
     },
     {
       "added_at": "2025-11-10 08:05:41",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2025-11-10 08:05:41",
       "album": {
-        "name": "Flower in the Desert",
-        "url": "https://open.spotify.com/album/5MJEKw6CnDkmjDBl4LwVnM"
-      },
-      "artists": [
-        {
-          "name": "Woody",
-          "url": "https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw"
-        }
-      ],
-      "duration_ms": 259133,
-      "name": "Flower in the Desert - Kor Version",
-      "url": "https://open.spotify.com/track/7M3POeMOBCs6pwtDkVhBTi"
-    },
-    {
-      "added_at": "2025-11-10 08:05:41",
-      "album": {
         "name": "WINTER of aespa X MY DEMON",
         "url": "https://open.spotify.com/album/7EXrNMKKkkE3hRBpeZcT6y"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 254960,
       "name": "With You",
       "url": "https://open.spotify.com/track/4yZAAPTLlEb60Ny7bhepqx"
+    },
+    {
+      "added_at": "2025-11-10 08:05:41",
+      "album": {
+        "name": "Flower in the Desert",
+        "url": "https://open.spotify.com/album/5MJEKw6CnDkmjDBl4LwVnM"
+      },
+      "artists": [
+        {
+          "name": "Woody",
+          "url": "https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw"
+        }
+      ],
+      "duration_ms": 259133,
+      "name": "Flower in the Desert - Kor Version",
+      "url": "https://open.spotify.com/track/7M3POeMOBCs6pwtDkVhBTi"
     },
     {
       "added_at": "2025-11-10 08:05:41",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2025-11-10 08:05:41",
       "album": {
-        "name": "The King's Affection OST Part.3",
-        "url": "https://open.spotify.com/album/0BIXwx4XAJR9xe9k3DZK2J"
-      },
-      "artists": [
-        {
-          "name": "Baek Z Young",
-          "url": "https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5"
-        }
-      ],
-      "duration_ms": 221080,
-      "name": "IF I",
-      "url": "https://open.spotify.com/track/3QGz3EzsWbW9LoNVk5MPHT"
-    },
-    {
-      "added_at": "2025-11-10 08:05:41",
-      "album": {
         "name": "Resident Playbook, Pt. 3 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/0wJhsu9q7b7hot5Zlu2mU6"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 219991,
       "name": "On Such a Day",
       "url": "https://open.spotify.com/track/59RLYQQ8v9PItVwFf1qNhx"
+    },
+    {
+      "added_at": "2025-11-10 08:05:41",
+      "album": {
+        "name": "The King's Affection OST Part.3",
+        "url": "https://open.spotify.com/album/0BIXwx4XAJR9xe9k3DZK2J"
+      },
+      "artists": [
+        {
+          "name": "Baek Z Young",
+          "url": "https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5"
+        }
+      ],
+      "duration_ms": 221080,
+      "name": "IF I",
+      "url": "https://open.spotify.com/track/3QGz3EzsWbW9LoNVk5MPHT"
     },
     {
       "added_at": "2025-11-10 08:05:41",

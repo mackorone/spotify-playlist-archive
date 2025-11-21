@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjcafaN2Bom.md) - [plain]
 
 > Finish together\. Listen to the official playlist for Sex Education, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,962 likes - 331 songs - 20 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,972 likes - 331 songs - 20 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjcafaN2Bom.md) - [plain]
 | 10 | [Forever In Sunset](https://open.spotify.com/track/7ofb8SMiE4pDit5ewXNArn) | [Ezra Furman](https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY) | [All Of Us Flames](https://open.spotify.com/album/5vO3cJcNAgBv91ADrMnc8l) | 4:22 |
 | 11 | [What so Never the Dance](https://open.spotify.com/track/6prMFcHStSSOeDaXjwe48O) | [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [Back In The Day: The Best Of Bootsy](https://open.spotify.com/album/5drHXExICEAsiNehDQvYwV) | 3:57 |
 | 12 | [China In Your Hand](https://open.spotify.com/track/0ow5yxh0ouMJ0om8EyEt8P) | [T'Pau](https://open.spotify.com/artist/47qTcvYlqJGAEsCI7BcENC) | [Bridge Of Spies](https://open.spotify.com/album/4SPn8H4z20nwhB2Srcal6T) | 5:06 |
-| 13 | [Work That Body](https://open.spotify.com/track/4K75wHUlIPvaV8lyQB3i2K) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Why Do Fools Fall in Love \(Expanded Edition\)](https://open.spotify.com/album/1YoO4z2HF3sxc7JUAvXozm) | 4:59 |
+| 13 | [Work That Body](https://open.spotify.com/track/4K75wHUlIPvaV8lyQB3i2K) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Why Do Fools Fall in Love \(Expanded Edition\)](https://open.spotify.com/album/1YoO4z2HF3sxc7JUAvXozm) | 5:01 |
 | 14 | [I'm Coming Home \(Part 1\)](https://open.spotify.com/track/0CjEeYahmWPWp5rnDnbWS5) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [Uncloudy Day & Will The Circle Be Unbroken?](https://open.spotify.com/album/0kpQ73M79TUVD6yY1SCnlf) | 6:44 |
-| 15 | [Do the Evolution](https://open.spotify.com/track/0dIipTYASaFwX1QxVrVFV7) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Yield](https://open.spotify.com/album/5zsDtoSrXK4usJ4MB1tCh2) | 3:51 |
+| 15 | [Do the Evolution](https://open.spotify.com/track/0dIipTYASaFwX1QxVrVFV7) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Yield](https://open.spotify.com/album/5zsDtoSrXK4usJ4MB1tCh2) | 3:53 |
 | 16 | [Hold On, I'm Comin'](https://open.spotify.com/track/6PgVDY8GTkxF3GmhVGPzoB) | [Sam & Dave](https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2) | [Hold On, I'm Comin'](https://open.spotify.com/album/2PBsbww0MYw9F1JzyYWIEO) | 2:35 |
 | 17 | [I Believe In Miracles](https://open.spotify.com/track/3KBMeEwL4FCVCWLzDRY9aF) | [Jackson Sisters](https://open.spotify.com/artist/4Nud0bPKFFBGWHxedLdHOZ) | [Funked! : Volume 2 1973\-1977](https://open.spotify.com/album/5uorwHhjLzAiFsw1eL0lMn) | 4:50 |
 | 18 | [I Wanna Be Your Dog](https://open.spotify.com/track/672N8DGGTOLCOgWe0koX5g) | [The Stooges](https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3) | [The Stooges](https://open.spotify.com/album/3MANoCcmaHWeXSuWiO3iVo) | 3:08 |
@@ -185,7 +185,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjcafaN2Bom.md) - [plain]
 | 175 | [Betrayal Takes Two \- 2017 Remaster](https://open.spotify.com/track/6TA0aZeNAruFXrJOFXIehc) | [Richard Hell](https://open.spotify.com/artist/121Q6oslYCMBYZHhOFL1RB) | [Blank Generation \(40th Anniversary Deluxe Edition\)](https://open.spotify.com/album/69b7nBXWwREudaeDgIhZXA) | 3:36 |
 | 176 | [Destination Unknown](https://open.spotify.com/track/0QyMDyosGai50pjaFbC1NO) | [Missing Persons](https://open.spotify.com/artist/5CT7RBitS0e0u78T8tRBWQ) | [Spring Session M.](https://open.spotify.com/album/08GAuXkchZVoRsnKdcihxs) | 3:36 |
 | 177 | [I Want More](https://open.spotify.com/track/5wPmZFvLp9z1lw0tQlXWtt) | [CAN](https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r) | [Flow Motion \(Remastered\)](https://open.spotify.com/album/1RuUc1iKJoczQJY0S0CJjE) | 3:34 |
-| 178 | [Jump Into The Fire](https://open.spotify.com/track/3hgHrfMdtnLtH54HYTdNHF) | [Harry Nilsson](https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX) | [Nilsson Schmilsson](https://open.spotify.com/album/3EfpOFKjotrMQTFTnxrXaB) | 7:02 |
+| 178 | [Jump Into The Fire](https://open.spotify.com/track/3hgHrfMdtnLtH54HYTdNHF) | [Harry Nilsson](https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX) | [Nilsson Schmilsson](https://open.spotify.com/album/3EfpOFKjotrMQTFTnxrXaB) | 7:00 |
 | 179 | [Freed From Desire](https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q) | [Gala](https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ), [Molella](https://open.spotify.com/artist/6PozOimyS8a9OxMddMSBCf), [Phil Jay](https://open.spotify.com/artist/2yUcByiqLsQiJgGKIn1xeb) | [Come Into My Life \(The Album\)](https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe) | 3:33 |
 | 180 | [Don't Go](https://open.spotify.com/track/3KuAa8Y79xlfJgYtBKbynY) | [Yazoo](https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs) | [Upstairs At Eric's](https://open.spotify.com/album/47FOg0GaQDPGTbBTHDXg9V) | 3:11 |
 | 181 | [Good Love 6\-9\-9\-6\-9](https://open.spotify.com/track/0XoWFQSIvFZ0lhzYE7HWLx) | [Isaac Hayes](https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E) | [Black Moses](https://open.spotify.com/album/0zYfUaLDEeWVYkohFTVLmd) | 5:17 |
@@ -228,7 +228,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjcafaN2Bom.md) - [plain]
 | 218 | [Rock Me Gently](https://open.spotify.com/track/2qh2VGAOYFXLsMbdATRf6w) | [Andy Kim](https://open.spotify.com/artist/5MYBNUKoFf9LAg30ByaBli) | [Greatest Hits](https://open.spotify.com/album/1yBUWYxGG5j1fjzSkrMY0C) | 3:28 |
 | 219 | [Space Romance](https://open.spotify.com/track/4a6YB7erzbxMfdQP7da421) | [Waveshaper](https://open.spotify.com/artist/4N55TE3vFODMR4BX5B9fnM) | [Lost Shapes](https://open.spotify.com/album/6vtypIu7gpGtzwzEHxjlKI) | 3:56 |
 | 220 | [Tender](https://open.spotify.com/track/42cxPm9jgbaxIVN77XA1m6) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [13](https://open.spotify.com/album/5YuZ4DjvtZBywtIbHIqtGJ) | 7:41 |
-| 221 | [The Man in Me](https://open.spotify.com/track/7xRemq7GLu0Tbqe9OckG87) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [New Morning](https://open.spotify.com/album/48efaobqOTbvnlxbETstey) | 3:06 |
+| 221 | [The Man in Me](https://open.spotify.com/track/7xRemq7GLu0Tbqe9OckG87) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [New Morning](https://open.spotify.com/album/48efaobqOTbvnlxbETstey) | 3:11 |
 | 222 | [Your Party](https://open.spotify.com/track/4QbOwQWrBSFBf8jYngNcxk) | [Ween](https://open.spotify.com/artist/3u1ulLq00Y3bfmq9FfjsPu) | [La Cucaracha](https://open.spotify.com/album/21MnjcDP7ERbyVfAXCLOqW) | 4:08 |
 | 223 | [Tu Nunca Sabes \(Mescla Ragga Mambo\)](https://open.spotify.com/track/3nYcmgKCsSuBtO4PUxagRb) | [Angel & The Mambokats](https://open.spotify.com/artist/1iJ5zw8n01OsjXuG2uv8QC) | [Mambo Horizontal \(Español\)](https://open.spotify.com/album/1d3skroUiBY8CYJKIANTkI) | 3:48 |
 | 224 | [Don't Sweat The Technique](https://open.spotify.com/track/48ZUwXrEOhaXLCxvmRYhZv) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [Don't Sweat The Technique](https://open.spotify.com/album/5iaxBk4qVHAMp9vtYSoEBM) | 4:22 |

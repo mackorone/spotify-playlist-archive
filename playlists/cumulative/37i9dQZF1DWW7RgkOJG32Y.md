@@ -2,7 +2,7 @@
 
 ### [Breakout Country](https://open.spotify.com/playlist/37i9dQZF1DWW7RgkOJG32Y)
 
-> Trending for a reason \- the home of country's future monster hits\. Cover: Joshua Slone
+> Trending for a reason \- the home of country's future monster hits\. Cover: Brandon Coleman of The Red Clay Strays
 
 605 songs - 1 day 8 hr 40 min
 

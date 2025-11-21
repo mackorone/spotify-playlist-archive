@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Ronisia",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Low Jay",
   "name": "R&Bae",
   "tracks": [
     {
@@ -46,7 +46,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 227380,
       "name": "1h55",
       "url": "https://open.spotify.com/track/36kPlvgOwqbdMqMyeioRJN"
@@ -612,6 +612,28 @@
       "duration_ms": 170013,
       "name": "Baby Boo",
       "url": "https://open.spotify.com/track/3uuSSAMq7Otspek5jPLVU3"
+    },
+    {
+      "album": {
+        "name": "Destin\u00e9e",
+        "url": "https://open.spotify.com/album/33V05j22TgtWOJ5OvREj1p"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187080,
+      "name": "Baby Boy",
+      "url": "https://open.spotify.com/track/0ecf1L8NLJBmhupwxnAXcP"
     },
     {
       "album": {
@@ -2636,7 +2658,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 152783,
       "name": "Dis-moi que tu m'aimes",
       "url": "https://open.spotify.com/track/1w4skI13FluHsfYl3PRwe0"
@@ -2988,7 +3010,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 158181,
       "name": "D\u00e9lice",
       "url": "https://open.spotify.com/track/7cHYUPz5z6BVDrcAhk5NL1"
@@ -4303,6 +4325,24 @@
     },
     {
       "album": {
+        "name": "intemporel",
+        "url": "https://open.spotify.com/album/4CeKMcDfznEywMmez1EJOc"
+      },
+      "artists": [
+        {
+          "name": "FRVRFRIDAY",
+          "url": "https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150019,
+      "name": "intemporel",
+      "url": "https://open.spotify.com/track/4e5KAgdRth25lpdaScjP66"
+    },
+    {
+      "album": {
         "name": "Elles m'aiment, elle me d\u00e9teste",
         "url": "https://open.spotify.com/album/43IucnUasnrIBYM1F4XXEt"
       },
@@ -4648,6 +4688,24 @@
       "duration_ms": 165078,
       "name": "Japonais",
       "url": "https://open.spotify.com/track/4L6GFaHKWwJBeaD6FEKaXh"
+    },
+    {
+      "album": {
+        "name": "JE L'AIME",
+        "url": "https://open.spotify.com/album/2xrCM6Gxbs7RhAM03gqOrW"
+      },
+      "artists": [
+        {
+          "name": "Angie",
+          "url": "https://open.spotify.com/artist/1reCrDItJcpmACHds2If1w"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149068,
+      "name": "JE L'AIME",
+      "url": "https://open.spotify.com/track/2QAW1KxQ7VjZbUWSZjJyxN"
     },
     {
       "album": {
@@ -6393,6 +6451,24 @@
     },
     {
       "album": {
+        "name": "MJ Style",
+        "url": "https://open.spotify.com/album/3onnxrMPAwLQuqO82H5z27"
+      },
+      "artists": [
+        {
+          "name": "Arma Jackson",
+          "url": "https://open.spotify.com/artist/22I8wvU1Zw6EMiOt4W98BN"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162471,
+      "name": "MJ Style",
+      "url": "https://open.spotify.com/track/1wz3kQevRiisr0T3r1sOqS"
+    },
+    {
+      "album": {
         "name": "MOI OU EUX",
         "url": "https://open.spotify.com/album/2On3wpSPXfIvnqIL0gjThL"
       },
@@ -6649,6 +6725,24 @@
     },
     {
       "album": {
+        "name": "M\u00c9LANIE",
+        "url": "https://open.spotify.com/album/4MP67w6tmJ0QH7LtII43cP"
+      },
+      "artists": [
+        {
+          "name": "Low Jay",
+          "url": "https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123000,
+      "name": "M\u00c9LANIE",
+      "url": "https://open.spotify.com/track/1RtYTh42ms9a0xFSyX4c64"
+    },
+    {
+      "album": {
         "name": "M\u00e9t\u00e9o",
         "url": "https://open.spotify.com/album/7ziEaNko5qSnlsZsXRK44J"
       },
@@ -6841,6 +6935,32 @@
     },
     {
       "album": {
+        "name": "Nonchalant",
+        "url": "https://open.spotify.com/album/6nsPcxdYcfq65YF6LKqLFe"
+      },
+      "artists": [
+        {
+          "name": "Celyane",
+          "url": "https://open.spotify.com/artist/4YLotLzWdKNAgAsqNmq2WP"
+        },
+        {
+          "name": "BINO*",
+          "url": "https://open.spotify.com/artist/5tbe22xZ7VzSgXAFQhoWiC"
+        },
+        {
+          "name": "Gol.d",
+          "url": "https://open.spotify.com/artist/1iq9ebpFaCHQ4FbAQWnTtV"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214895,
+      "name": "Nonchalant",
+      "url": "https://open.spotify.com/track/3vYKnqj1DEt7WEBk2mPzPH"
+    },
+    {
+      "album": {
         "name": "Normal",
         "url": "https://open.spotify.com/album/25gjCxb2kjOHnGMniNpsyt"
       },
@@ -6928,7 +7048,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 125420,
       "name": "Nouvelle B*tch",
       "url": "https://open.spotify.com/track/2cdl0gciaNFSaVS3DiwWdT"
@@ -8123,6 +8243,24 @@
     },
     {
       "album": {
+        "name": "STAR",
+        "url": "https://open.spotify.com/album/3bp5Asakxkml0rvZjbcnH4"
+      },
+      "artists": [
+        {
+          "name": "Ayvee",
+          "url": "https://open.spotify.com/artist/0abpwgWh43SsFPq3uVRAae"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172941,
+      "name": "Priv\u00e9",
+      "url": "https://open.spotify.com/track/3UnFyMSzH3wFKgMX3jskiE"
+    },
+    {
+      "album": {
         "name": "Vnus",
         "url": "https://open.spotify.com/album/0beyPn4CEcx2oWOCDYnrMm"
       },
@@ -8670,7 +8808,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 203215,
       "name": "Ronaldinho",
       "url": "https://open.spotify.com/track/3DYV381YUwmTpwJEYPboPS"
@@ -9368,7 +9506,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 163076,
       "name": "SLOWMO",
       "url": "https://open.spotify.com/track/48K5sRJ49LUrK4oZCEy0Mx"
@@ -9956,7 +10094,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 189513,
       "name": "Take it slow",
       "url": "https://open.spotify.com/track/5MwApVsEBWDJ7qkCBsTK6z"
@@ -10235,6 +10373,24 @@
     },
     {
       "album": {
+        "name": "Tlc",
+        "url": "https://open.spotify.com/album/3whVCbHWnDqjyGwx5NSafh"
+      },
+      "artists": [
+        {
+          "name": "HARON",
+          "url": "https://open.spotify.com/artist/7z43TluM9EYBKS5io7OYVr"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Tlc",
+      "url": "https://open.spotify.com/track/3PKRmwLD2ZKAybOfDYse2J"
+    },
+    {
+      "album": {
         "name": "Story Time (Prelude)",
         "url": "https://open.spotify.com/album/3XCZt6uNpVtTJKlqvcBU0A"
       },
@@ -10246,7 +10402,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 140000,
       "name": "To The Moon",
       "url": "https://open.spotify.com/track/0TDkJWfz5t1smyD9cGeoV8"
@@ -10514,6 +10670,24 @@
       "duration_ms": 162453,
       "name": "TPMP",
       "url": "https://open.spotify.com/track/5c99frMDxk1WXXhyd9jdHb"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Josey",
+          "url": "https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 12",
+      "url": "https://open.spotify.com/track/1YWlYc2DJhavTmor6jFQgg"
     },
     {
       "album": {

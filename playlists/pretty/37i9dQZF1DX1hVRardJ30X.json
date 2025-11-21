@@ -1,6 +1,6 @@
 {
   "description": "New music by De La Rose, Be\u00e9le,  and more! Updates every Friday.",
-  "num_followers": 624350,
+  "num_followers": 624380,
   "original_name": "All New Latin",
   "owner": {
     "name": "Spotify",
@@ -511,6 +511,30 @@
       "duration_ms": 168816,
       "name": "MAKING ME FEEL ALIVE",
       "url": "https://open.spotify.com/track/4FUp0wQARTlhIyj1QNCsxh"
+    },
+    {
+      "added_at": "2025-11-14 05:00:21",
+      "album": {
+        "name": "Toronto",
+        "url": "https://open.spotify.com/album/5JUO2EXajZrdNfB9MrJu9W"
+      },
+      "artists": [
+        {
+          "name": "Nand\u00e9",
+          "url": "https://open.spotify.com/artist/6Un4KvR9qpqYK1cS7jdiz2"
+        },
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Guaco",
+          "url": "https://open.spotify.com/artist/5v3TYN6Mmi5vxV2uSOfXot"
+        }
+      ],
+      "duration_ms": 198888,
+      "name": "Toronto",
+      "url": "https://open.spotify.com/track/0nvg8vlz0qO47rkgOdVMwc"
     },
     {
       "added_at": "2025-11-14 05:00:21",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 
 > 
 
-[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,614 likes - 752 songs - 1 day 23 hr 6 min
+[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,614 likes - 759 songs - 1 day 23 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -760,5 +760,12 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 | 750 | [Positive Nihilism](https://open.spotify.com/track/1IOT3K3CcOBstcPwfqa8Dd) | [Steegmoord](https://open.spotify.com/artist/7sxcNFKA2AvhOErpP570AL) | [Positive Nihilism](https://open.spotify.com/album/3LTEzv6euMAoob8XD2DJT1) | 5:41 |
 | 751 | [Tren del Duende](https://open.spotify.com/track/0JakhfPYZOJ5JrRJ8YUifj) | [Juan Pablo Vitali](https://open.spotify.com/artist/0U0rAvWfvb3NUwiROiUgis) | [29904325 \(RADIO EDIT\)](https://open.spotify.com/album/39kH1oxVsgp6Sn9ofCErv4) | 4:01 |
 | 752 | [Deadly Rendezvous](https://open.spotify.com/track/4bSLovPvrRKVubckzvUkH0) | [Bloody Moon](https://open.spotify.com/artist/1JcF9RmNgglX6pxru1bCz3) | [Deadly Rendezvous](https://open.spotify.com/album/31Ud0RWrZ7Ho4KfNfLJTlK) | 3:52 |
+| 753 | [Washed Away](https://open.spotify.com/track/7G7SbHvXC4wmqAwgc5YjoX) | [David Collins](https://open.spotify.com/artist/61YQF8YHJz9zynwC5I4Gz2) | [Washed Away](https://open.spotify.com/album/0DOdMTSkT20wuBK8VbMGNw) | 3:26 |
+| 754 | [My NEW Ice Cream](https://open.spotify.com/track/3TgIpriwVMjgST3Bhg8Fok) | [The Rite Band](https://open.spotify.com/artist/0m4ILdMQu2bAfjnUnw9XIr) | [My NEW Ice Cream](https://open.spotify.com/album/6HrjS3p5jl8PGziEpPpXq7) | 3:10 |
+| 755 | [Can You Hear It?](https://open.spotify.com/track/44RkWmQ2u6H4x4b9f9iABQ) | [The American Hotel System](https://open.spotify.com/artist/6brMI3t9gWQkmJVGhxCQnJ) | [Can You Hear It? \(The Deluxe Edition\)](https://open.spotify.com/album/6P1L2PKg7pE5GJa5Yy1x89) | 3:21 |
+| 756 | [Bride of Shadows](https://open.spotify.com/track/2KTU7qmY50iH8GiH3fEH3G) | [Gothic Aesthetic](https://open.spotify.com/artist/2R4ypb4WmPocRVG0PPg5fa) | [Tales of the Dark Forest](https://open.spotify.com/album/7vKSCkmAdHweuUWGnZVTI7) | 4:54 |
+| 757 | [The Club](https://open.spotify.com/track/2IXMBNDc6Zd4sNIy1yeASH) | [The Multides](https://open.spotify.com/artist/0EBOhu8N5TYGpwRIWe1oQG) | [Dark Skies](https://open.spotify.com/album/6msdDrMHEmyWefzameIaQC) | 3:43 |
+| 758 | [Here We Go](https://open.spotify.com/track/1AhqASK4Hs7kQ6naWHaVNW) | [TeethOut](https://open.spotify.com/artist/1zbyrACN47gprz5q97evPl) | [Here We Go](https://open.spotify.com/album/4EVGPprwwNEdaUa2ebv1Tx) | 2:48 |
+| 759 | [Intiaani](https://open.spotify.com/track/51GulSjFyZjQXf9G0ojCQ3) | [I.F.A](https://open.spotify.com/artist/1tEP2l9fgWgdj1TZloddVQ) | [Tiimalasi](https://open.spotify.com/album/2qBjXbvrgdu2naJ9WPmSZZ) | 3:29 |
 
-Snapshot ID: `AAADCOg/Da+h8KWVuszJOEGG20omhhDv`
+Snapshot ID: `AAADEP9d28miS6/6sdRwhm5M1LCzXUIp`

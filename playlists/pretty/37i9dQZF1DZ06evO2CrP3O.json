@@ -1,29 +1,13 @@
 {
   "description": "This is Blondie. The essential tracks, all in one playlist.",
-  "num_followers": 139676,
+  "num_followers": 139683,
   "original_name": "This Is Blondie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRu3AAAAAADaUTdnzIemo0oAG/Q7t2/8",
+  "snapshot_id": "aR0IgAAAAAAY2GhSjfwIuJj7c+ySxLw3",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Exit (Urban Version Main Mix)",
-        "url": "https://open.spotify.com/album/7rVhSKWsUW94aUouGrFlzP"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 222562,
-      "name": "No Exit - Urban Version Main Mix",
-      "url": "https://open.spotify.com/track/5iAXhlUYW1SYnZNyCdiIQf"
-    },
     {
       "added_at": null,
       "album": {
@@ -815,6 +799,22 @@
       "duration_ms": 246586,
       "name": "Already Naked",
       "url": "https://open.spotify.com/track/1ssGNcB3gVAXxFOaTcj0nE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Exit (Urban Version Main Mix)",
+        "url": "https://open.spotify.com/album/7rVhSKWsUW94aUouGrFlzP"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 222562,
+      "name": "No Exit - Urban Version Main Mix",
+      "url": "https://open.spotify.com/track/5iAXhlUYW1SYnZNyCdiIQf"
     }
   ],
   "unique_name": "This Is Blondie",

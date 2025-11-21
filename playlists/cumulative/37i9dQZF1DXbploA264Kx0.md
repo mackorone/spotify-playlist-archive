@@ -2,9 +2,9 @@
 
 ### [The Sound of Formosa](https://open.spotify.com/playlist/37i9dQZF1DXbploA264Kx0)
 
-> Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Robot Swing
+> Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: 桃子A1J
 
-570 songs - 1 day 10 hr 51 min
+571 songs - 1 day 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [bowling \-《此時此刻》第三集片尾曲](https://open.spotify.com/track/7dwBbELnlh0D1Qf0tc418g) | [陳嫺靜](https://open.spotify.com/artist/4wbipbaGeTXkuF5paNuJqB) | [bowling \-《此時此刻》第三集片尾曲](https://open.spotify.com/album/33Jgdxqgf0PUf1VvWXo28O) | 2:56 | 2025-02-27 | 2025-03-07 |
 | [Broken Moon \(feat\. Rima Zeidan\)](https://open.spotify.com/track/3tQRwhKP2oYVMVD09VcpOX) | [Dizparity](https://open.spotify.com/artist/0DYcDpgiVTcXJszxcswVce), [瑞瑪席丹Rima Zeidan](https://open.spotify.com/artist/2MgVvPbOvVEPWIjbgXl4fS) | [Broken Moon](https://open.spotify.com/album/3BVH42PRBfLCgUL6bh9Tdg) | 4:33 | 2025-01-23 | 2025-02-14 |
 | [Broken World \- Netflix影集《回魂計》片尾曲](https://open.spotify.com/track/14F1jiXQWTgDhlA7l8j5mq) | [Shi Shi](https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi) | [Broken World \(Netflix影集《回魂計》片尾曲\)](https://open.spotify.com/album/6LpR4eq2qWiBP8dPSuWgQh) | 2:32 | 2025-10-16 |  |
+| [BURN DOWN THE SHADOW \(AIC 2025 Theme Song\)](https://open.spotify.com/track/6Zo7WMHnAa0HZNersJarMG) | [Liên Quân Mobile](https://open.spotify.com/artist/7KHN9D81AGKzY7bUSL78FA), [桃子A1J](https://open.spotify.com/artist/2imhfeJHce0YEYv9msgqMC) | [BURN DOWN THE SHADOW \(AIC 2025 Theme Song\)](https://open.spotify.com/album/7EqAh9ZI4dTjD5H7TozsaI) | 3:08 | 2025-11-20 |  |
 | [CACTUS](https://open.spotify.com/track/5XEanyXMTmJwi6C3ECSc2j) | [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [CACTUS](https://open.spotify.com/album/4vC52K14grNuFtp8NIbLMm) | 4:06 | 2024-02-29 | 2024-03-15 |
 | [CACTUS](https://open.spotify.com/track/2LD5PEKbjFvNcCZ0pZkFts) | [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [LÜCY](https://open.spotify.com/album/1Eq1IRbDhCLWfjbp0pNQ1p) | 4:07 | 2024-06-13 | 2024-07-01 |
 | [CakeCake \(feat.Plini\)](https://open.spotify.com/track/6IHnshJXIOwUofPhKr7Icl) | [麥琪麥琪 MakeMake](https://open.spotify.com/artist/5DlnA3fCaF6p4KZuhBHgLN), [Plini](https://open.spotify.com/artist/3Gs10XJ4S4OEFrMRqZJcic) | [CakeCake \(feat.Plini\)](https://open.spotify.com/album/23J6dKiPcOqZqyHRXJTtRL) | 3:56 | 2025-03-28 | 2025-04-11 |
@@ -230,7 +231,7 @@
 | [Merry Go Round](https://open.spotify.com/track/41312k36is0WtJUS5S3RTb) | [Mandark](https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks), [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [Crystal Tea](https://open.spotify.com/artist/3tLTzUmenYSz1FS9ijEUuX) | [Merry Go Round](https://open.spotify.com/album/2V5Y9lXrOrB7xcyljiB1GG) | 3:05 | 2024-01-25 | 2024-08-09 |
 | [Meteor Shower](https://open.spotify.com/track/4U04CJyjD2HzMjHMBnVn0h) | [恐龍的皮](https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J), [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [I Dig You](https://open.spotify.com/album/118ouAtcHqDD7t7YV2hD1O) | 3:03 | 2024-10-24 | 2024-11-15 |
 | [Mikerid 引路](https://open.spotify.com/track/6cwmgl1cUUbLUEsOwwviU5) | [Suming](https://open.spotify.com/artist/3jV6Ro12GySf82kJiksE7D) | [Mikerid 引路](https://open.spotify.com/album/7EXEhgjXJPbCd9KjKbgfjD) | 3:35 | 2025-01-23 | 2025-02-21 |
-| [Milk & Cereal](https://open.spotify.com/track/0CH4z8q6xYMlD3M7WDvbwv) | [Limi](https://open.spotify.com/artist/72sxxI0pU2GRC8CNmpqZB2), [屠衡](https://open.spotify.com/artist/3DZAbxmgnLqli2yuUdgFqw) | [Milk & Cereal](https://open.spotify.com/album/3UG4umqBQPCWVxw6g67V9u) | 2:36 | 2025-10-16 |  |
+| [Milk & Cereal](https://open.spotify.com/track/0CH4z8q6xYMlD3M7WDvbwv) | [Limi](https://open.spotify.com/artist/72sxxI0pU2GRC8CNmpqZB2), [屠衡](https://open.spotify.com/artist/3DZAbxmgnLqli2yuUdgFqw) | [Milk & Cereal](https://open.spotify.com/album/3UG4umqBQPCWVxw6g67V9u) | 2:36 | 2025-10-16 | 2025-11-21 |
 | [Millions of Years Apart](https://open.spotify.com/track/7mvgC2RSdiHDILsyFEAmjG) | [恐龍的皮](https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J), [Mandark](https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks) | [Millions of Years Apart](https://open.spotify.com/album/1nHTRBCa7UYrlYxDxJRbOJ) | 3:36 | 2024-02-29 | 2024-11-29 |
 | [Monday Afternoon](https://open.spotify.com/track/0lKWF4xm3K7z0f0E4McFr8) | [DJ Didilong](https://open.spotify.com/artist/4VP44ZwK51R0y7ZbjJLHJR), [XinU](https://open.spotify.com/artist/6oSrOOypJcKXWe5OnGO2yw) | [Monday Afternoon](https://open.spotify.com/album/1Za6HXnemIpRA7qFb23YZo) | 4:55 | 2025-08-28 |  |
 | [Moon](https://open.spotify.com/track/30g5POchpw47WCcIeeqeIO) | [Layton Wu](https://open.spotify.com/artist/0sbcEwgYwffJrmDZK22f9a) | [Moon](https://open.spotify.com/album/436lTIgKHUJdevC1IwFcZa) | 5:35 | 2024-05-30 | 2024-07-05 |

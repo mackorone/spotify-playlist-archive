@@ -4,7 +4,7 @@
 
 > Heartwarming carols and classical Christmas favourites, guaranteed to make any festive occasion merry and bright.
 
-262 songs - 14 hr 23 min
+263 songs - 14 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [O nata lux](https://open.spotify.com/track/7qGcFjZlQjIuOFZt1aSqB4) | [Rhiannon Randle](https://open.spotify.com/artist/2LL479y3UuItn0mXXD7UTX), [Zurich Chamber Singers](https://open.spotify.com/artist/324fznaauvqsSnSiCWirmo), [Christian Erny](https://open.spotify.com/artist/5SRGvFGhOgRWVLMnJxaL4D) | [O Nata Lux](https://open.spotify.com/album/3t9TxICNaX68KICHM4HCIt) | 5:38 | 2021-11-29 |  |
 | [O nuit brillante](https://open.spotify.com/track/294MkV57X4Xz6U6JtbfszX) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Zurich Chamber Singers](https://open.spotify.com/artist/324fznaauvqsSnSiCWirmo), [Christian Erny](https://open.spotify.com/artist/5SRGvFGhOgRWVLMnJxaL4D) | [O Nata Lux](https://open.spotify.com/album/2ySGX6OxEquKP59T3MKO31) | 4:15 | 2021-11-29 |  |
 | [O Tannenbaum](https://open.spotify.com/track/7GaUNnAdIMXrvYG7673QIK) | [Vienna Boys' Choir](https://open.spotify.com/artist/5D5J2cMoaGHFaipckBl5xZ), [Uwe Christian Harrer](https://open.spotify.com/artist/5tIZhFFY9R1Vqx7YKQsM4x) | [The Classic Christmas Album](https://open.spotify.com/album/36MOAJNkC1445WLmLyJeJd) | 1:38 | 2021-11-29 | 2025-11-14 |
+| [O TannenBRASS!](https://open.spotify.com/track/3mC3QvXcjohYvdY8JBDdXA) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Berlin Philharmonic Brass](https://open.spotify.com/artist/4Z6XYPiXuliZ3UdaBSEtMC) | [O TannenBRASS!](https://open.spotify.com/album/4hpbgmvxpTDr1AbSezlfJZ) | 3:18 | 2025-11-20 |  |
 | [On Christmas Night](https://open.spotify.com/track/772mev0nztqTP6JWXuxUxV) | [Philip Ledger](https://open.spotify.com/artist/66xtCjvWWjyvuD96T7uMXc), [Tenebrae](https://open.spotify.com/artist/0vUnn6Eje2O5yxEj35touD), [James Sherlock](https://open.spotify.com/artist/7qFElPWviFeK3JO1sIwvTw), [Nigel Short](https://open.spotify.com/artist/4gs13ipYIJhCcqDMOEx9eN) | [A Very English Christmas](https://open.spotify.com/album/50UivveZg6MTqlFmhPh9Wx) | 2:15 | 2021-11-29 | 2023-10-14 |
 | [On Christmas Night \- Arr\. for Choir by Philip Ledger](https://open.spotify.com/track/4bHq5EL5TqIGXKBqwRPsId) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Armonico Consort](https://open.spotify.com/artist/6pkQmg2GtB75nUYUVidpt3), [Christopher Monks](https://open.spotify.com/artist/75tSsNh0EYP90xx0U4xcwu), [Edward Picton\-Turbervill](https://open.spotify.com/artist/3OnbUorAEBo4bZqOxs4XXn) | [Noël](https://open.spotify.com/album/5kgnTaRXyBaHBgKrXBUhUK) | 1:47 | 2023-10-13 |  |
 | [Once As I Remember](https://open.spotify.com/track/6T9Ly7NsWWesrMA0xYlrMm) | [Anonymous](https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y), [The Monteverdi Choir](https://open.spotify.com/artist/0Cqfz92flAzrp94pgN1jEW), [John Eliot Gardiner](https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi) | [Once, as I remember...](https://open.spotify.com/album/4B4pfO2MIpez0ypBbhWACH) | 1:48 | 2021-11-29 |  |

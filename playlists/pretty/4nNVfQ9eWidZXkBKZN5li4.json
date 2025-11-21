@@ -1,13 +1,37 @@
 {
   "description": "Groove to Desi chart-toppers and Bollywood\u2019s top TikTok hits &amp; Reels Anthems \u2014featuring Arijit Singh, Badshah, AP Dhillon, Shreya Ghoshal, Neha Kakkar, Sunidhi Chauhan, A.R. Rahman, Pritam, and Tanishk Bagchi!",
-  "num_followers": 227427,
+  "num_followers": 227477,
   "original_name": "Bollywood Top 50",
   "owner": {
     "name": "Filtr India",
     "url": "https://open.spotify.com/user/filtrindia"
   },
-  "snapshot_id": "AAAX5qjGJjVadOmO87dPQY7IYPUoJ/b2",
+  "snapshot_id": "AAAX8+/sworN+yAZirLCje1q0OT6q1YM",
   "tracks": [
+    {
+      "added_at": "2022-07-18 10:03:31",
+      "album": {
+        "name": "Kesariya (From \"Brahmastra\")",
+        "url": "https://open.spotify.com/album/1HeX4SmCFW4EPHQDvHgrVS"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "duration_ms": 268164,
+      "name": "Kesariya (From \"Brahmastra\")",
+      "url": "https://open.spotify.com/track/6VBhH7CyP56BXjp8VsDFPZ"
+    },
     {
       "added_at": "2025-07-29 06:36:28",
       "album": {
@@ -65,54 +89,6 @@
       "url": "https://open.spotify.com/track/4FeczSomVWVyU4FW7xDeAI"
     },
     {
-      "added_at": "2022-07-18 10:03:31",
-      "album": {
-        "name": "Kesariya (From \"Brahmastra\")",
-        "url": "https://open.spotify.com/album/1HeX4SmCFW4EPHQDvHgrVS"
-      },
-      "artists": [
-        {
-          "name": "Pritam",
-          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
-        },
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "name": "Amitabh Bhattacharya",
-          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
-        }
-      ],
-      "duration_ms": 268164,
-      "name": "Kesariya (From \"Brahmastra\")",
-      "url": "https://open.spotify.com/track/6VBhH7CyP56BXjp8VsDFPZ"
-    },
-    {
-      "added_at": "2025-10-06 05:14:47",
-      "album": {
-        "name": "Sunny Sanskari Ki Tulsi Kumari (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6JZcE32Yu2DNw7ZhJ76rtx"
-      },
-      "artists": [
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "name": "Tanishk Bagchi",
-          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
-        },
-        {
-          "name": "Manoj Muntashir",
-          "url": "https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP"
-        }
-      ],
-      "duration_ms": 268445,
-      "name": "Tumse Behtar (From \"Sunny Sanskari Ki Tulsi Kumari\")",
-      "url": "https://open.spotify.com/track/7FLVm1D9aP231Da7F2p6zs"
-    },
-    {
       "added_at": "2021-08-10 09:32:02",
       "album": {
         "name": "Ae Dil Hai Mushkil (Original Motion Picture Soundtrack) [Deluxe Edition]",
@@ -151,6 +127,30 @@
       "duration_ms": 228969,
       "name": "Jeena Jeena",
       "url": "https://open.spotify.com/track/5lKE040hUfDAKOR8HLG92p"
+    },
+    {
+      "added_at": "2025-10-06 05:14:47",
+      "album": {
+        "name": "Sunny Sanskari Ki Tulsi Kumari (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6JZcE32Yu2DNw7ZhJ76rtx"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Manoj Muntashir",
+          "url": "https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP"
+        }
+      ],
+      "duration_ms": 268445,
+      "name": "Tumse Behtar (From \"Sunny Sanskari Ki Tulsi Kumari\")",
+      "url": "https://open.spotify.com/track/7FLVm1D9aP231Da7F2p6zs"
     },
     {
       "added_at": "2025-04-17 05:57:20",
@@ -227,26 +227,6 @@
       "duration_ms": 257826,
       "name": "Deewaniyat (From \"Ek Deewane Ki Deewaniyat\") (Original Motion Picture Soundtrack)",
       "url": "https://open.spotify.com/track/3EKHZNd0qflQK8UImpUu3k"
-    },
-    {
-      "added_at": "2025-10-29 06:12:31",
-      "album": {
-        "name": "Happy Bhag Jayegi (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6yVuoFa0FxLNbTFBdHsGrY"
-      },
-      "artists": [
-        {
-          "name": "Sohail Sen",
-          "url": "https://open.spotify.com/artist/1bTROl5p3rGTpvKeWnGgrw"
-        },
-        {
-          "name": "Altamash Faridi",
-          "url": "https://open.spotify.com/artist/38IHJBGBuaYXHEkIQd4DtF"
-        }
-      ],
-      "duration_ms": 294751,
-      "name": "Aashiq Tera",
-      "url": "https://open.spotify.com/track/7FwYs4qSJCJi2Hd6ZV8Q3M"
     },
     {
       "added_at": "2025-11-07 10:39:17",
@@ -341,34 +321,6 @@
       "url": "https://open.spotify.com/track/3QspmlfK7myCWJWWl2bywt"
     },
     {
-      "added_at": "2025-10-10 07:17:33",
-      "album": {
-        "name": "Goliyon Ki Raasleela Ram-Leela (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/76ok2HKEfqZ8FaAy6JpCNp"
-      },
-      "artists": [
-        {
-          "name": "Sanjay Leela Bhansali",
-          "url": "https://open.spotify.com/artist/5eWpthiGD66CLD4bQjvIBp"
-        },
-        {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-        },
-        {
-          "name": "Osman Mir",
-          "url": "https://open.spotify.com/artist/20w1cujlzVI3LA0dItmMg1"
-        },
-        {
-          "name": "Siddharth - Garima",
-          "url": "https://open.spotify.com/artist/6k6TIai4KyKG1DeIMftSmJ"
-        }
-      ],
-      "duration_ms": 273256,
-      "name": "Nagada Sang Dhol",
-      "url": "https://open.spotify.com/track/5s9Kd33ExIhpe1JJSj5zLZ"
-    },
-    {
       "added_at": "2025-07-29 06:36:46",
       "album": {
         "name": "Tum Ho Toh (From \"Saiyaara\")",
@@ -393,34 +345,6 @@
       "url": "https://open.spotify.com/track/6G8vN5EUtcDxOXOXadF6kp"
     },
     {
-      "added_at": "2025-10-06 05:14:57",
-      "album": {
-        "name": "Sunny Sanskari Ki Tulsi Kumari (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6JZcE32Yu2DNw7ZhJ76rtx"
-      },
-      "artists": [
-        {
-          "name": "Sachet-Parampara",
-          "url": "https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25"
-        },
-        {
-          "name": "Sachet Tandon",
-          "url": "https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG"
-        },
-        {
-          "name": "Parampara Tandon",
-          "url": "https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE"
-        },
-        {
-          "name": "Kausar Munir",
-          "url": "https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA"
-        }
-      ],
-      "duration_ms": 240535,
-      "name": "Tu Hai Meri (From \"Sunny Sanskari Ki Tulsi Kumari\")",
-      "url": "https://open.spotify.com/track/03EEOoNzMFtTSyxVDZk1ai"
-    },
-    {
       "added_at": "2025-09-19 06:03:46",
       "album": {
         "name": "PERFECT (From \"Sunny Sanskari Ki Tulsi Kumari\")",
@@ -430,18 +354,6 @@
         {
           "name": "Guru Randhawa",
           "url": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
-        },
-        {
-          "name": "Gill Machhrai",
-          "url": "https://open.spotify.com/artist/4r4r2gGaA74pul0n6FiRsE"
-        },
-        {
-          "name": "Rony Ajnali",
-          "url": "https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw"
-        },
-        {
-          "name": "Dilmaan",
-          "url": "https://open.spotify.com/artist/5iRP5VM9JGkM6aMQbbfkBK"
         }
       ],
       "duration_ms": 146038,
@@ -483,6 +395,82 @@
       "duration_ms": 240960,
       "name": "Panwadi (From \"Sunny Sanskari Ki Tulsi Kumari\")",
       "url": "https://open.spotify.com/track/6aMoxZbGxqRkyNKAlkzIpP"
+    },
+    {
+      "added_at": "2025-10-06 05:14:57",
+      "album": {
+        "name": "Sunny Sanskari Ki Tulsi Kumari (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6JZcE32Yu2DNw7ZhJ76rtx"
+      },
+      "artists": [
+        {
+          "name": "Sachet-Parampara",
+          "url": "https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25"
+        },
+        {
+          "name": "Sachet Tandon",
+          "url": "https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG"
+        },
+        {
+          "name": "Parampara Tandon",
+          "url": "https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE"
+        },
+        {
+          "name": "Kausar Munir",
+          "url": "https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA"
+        }
+      ],
+      "duration_ms": 240535,
+      "name": "Tu Hai Meri (From \"Sunny Sanskari Ki Tulsi Kumari\")",
+      "url": "https://open.spotify.com/track/03EEOoNzMFtTSyxVDZk1ai"
+    },
+    {
+      "added_at": "2025-10-10 07:17:33",
+      "album": {
+        "name": "Goliyon Ki Raasleela Ram-Leela (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/76ok2HKEfqZ8FaAy6JpCNp"
+      },
+      "artists": [
+        {
+          "name": "Sanjay Leela Bhansali",
+          "url": "https://open.spotify.com/artist/5eWpthiGD66CLD4bQjvIBp"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Osman Mir",
+          "url": "https://open.spotify.com/artist/20w1cujlzVI3LA0dItmMg1"
+        },
+        {
+          "name": "Siddharth - Garima",
+          "url": "https://open.spotify.com/artist/6k6TIai4KyKG1DeIMftSmJ"
+        }
+      ],
+      "duration_ms": 273256,
+      "name": "Nagada Sang Dhol",
+      "url": "https://open.spotify.com/track/5s9Kd33ExIhpe1JJSj5zLZ"
+    },
+    {
+      "added_at": "2025-10-29 06:12:31",
+      "album": {
+        "name": "Happy Bhag Jayegi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6yVuoFa0FxLNbTFBdHsGrY"
+      },
+      "artists": [
+        {
+          "name": "Sohail Sen",
+          "url": "https://open.spotify.com/artist/1bTROl5p3rGTpvKeWnGgrw"
+        },
+        {
+          "name": "Altamash Faridi",
+          "url": "https://open.spotify.com/artist/38IHJBGBuaYXHEkIQd4DtF"
+        }
+      ],
+      "duration_ms": 294751,
+      "name": "Aashiq Tera",
+      "url": "https://open.spotify.com/track/7FwYs4qSJCJi2Hd6ZV8Q3M"
     },
     {
       "added_at": "2025-04-24 09:39:52",
@@ -1957,30 +1945,6 @@
       "url": "https://open.spotify.com/track/7MBqVOzb8C3f0FXr2LBLiq"
     },
     {
-      "added_at": "2023-01-09 09:56:53",
-      "album": {
-        "name": "Ghodey Pe Sawaar (From \"Qala\")",
-        "url": "https://open.spotify.com/album/2wNtwIrKPDj6uOV6VlM8pJ"
-      },
-      "artists": [
-        {
-          "name": "Amit Trivedi",
-          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
-        },
-        {
-          "name": "Amitabh Bhattacharya",
-          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
-        },
-        {
-          "name": "Sireesha Bhagavatula",
-          "url": "https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS"
-        }
-      ],
-      "duration_ms": 193832,
-      "name": "Ghodey Pe Sawaar (From \"Qala\")",
-      "url": "https://open.spotify.com/track/1a8w8nlIyIhE2W1HIayKnl"
-    },
-    {
       "added_at": "2022-12-06 10:46:29",
       "album": {
         "name": "Kyaa Baat Haii 2.0 (From \"Govinda Naam Mera\")",
@@ -2023,62 +1987,6 @@
       "duration_ms": 159447,
       "name": "Young Shahrukh",
       "url": "https://open.spotify.com/track/42C9YmmOF7PkiHWpulxzcq"
-    },
-    {
-      "added_at": "2022-10-07 06:40:38",
-      "album": {
-        "name": "Desi Bop",
-        "url": "https://open.spotify.com/album/3NHo9d6ouStZfWRDQnJUe6"
-      },
-      "artists": [
-        {
-          "name": "AJWAVY",
-          "url": "https://open.spotify.com/artist/6UR3ut2Rwbfc2caZxtVa0T"
-        },
-        {
-          "name": "Badshah",
-          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
-        },
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "Aastha Gill",
-          "url": "https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ"
-        },
-        {
-          "name": "Dhanush",
-          "url": "https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz"
-        }
-      ],
-      "duration_ms": 151200,
-      "name": "Desi Bop",
-      "url": "https://open.spotify.com/track/3CoxH43C1CQr7yXItaoYlE"
-    },
-    {
-      "added_at": "2023-07-28 08:42:43",
-      "album": {
-        "name": "Young Shahrukh (Sped Up)",
-        "url": "https://open.spotify.com/album/12wJOVpoE0dleBcqEHgAWq"
-      },
-      "artists": [
-        {
-          "name": "Tesher",
-          "url": "https://open.spotify.com/artist/49YbNTLaaAbZHLtDI2aPGL"
-        },
-        {
-          "name": "IAMPRATHEEK",
-          "url": "https://open.spotify.com/artist/3XZ12XrEzmileZJFImRHxN"
-        }
-      ],
-      "duration_ms": 131935,
-      "name": "Young Shahrukh - Sped Up",
-      "url": "https://open.spotify.com/track/6jmEGhparSjXzLHEe9AVGS"
     },
     {
       "added_at": "2023-09-06 06:43:11",
@@ -2183,30 +2091,6 @@
       "duration_ms": 252631,
       "name": "The Breakup Song",
       "url": "https://open.spotify.com/track/5FihcmME7NlwW8KbYOaHVH"
-    },
-    {
-      "added_at": "2022-11-25 11:00:04",
-      "album": {
-        "name": "Bijli (From \"Govinda Naam Mera\")",
-        "url": "https://open.spotify.com/album/3cXSO3oTliGRZG0hGugaXk"
-      },
-      "artists": [
-        {
-          "name": "Sachin-Jigar",
-          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
-        },
-        {
-          "name": "Mika Singh",
-          "url": "https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13"
-        },
-        {
-          "name": "Neha Kakkar",
-          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Bijli (From \"Govinda Naam Mera\")",
-      "url": "https://open.spotify.com/track/3hts3cIWNG8A2063si9GLP"
     },
     {
       "added_at": "2022-06-24 17:07:28",

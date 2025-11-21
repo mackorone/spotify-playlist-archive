@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "El don de cantar y componer, una playlist llena de talento. Foto: Joaqu\u00edn Sabina.",
+  "description": "El don de cantar y componer, una playlist llena de talento. Foto: V\u00edctor Manuel.",
   "name": "Cantautores",
   "tracks": [
     {
@@ -1749,6 +1749,28 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuel",
+          "url": "https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8"
+        },
+        {
+          "name": "Rozal\u00e9n",
+          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238473,
+      "name": "Dime Adi\u00f3s con Tu Mano",
+      "url": "https://open.spotify.com/track/2cWjIUjyuWQ7143oQkfSbw"
+    },
+    {
+      "album": {
         "name": "D\u00eda De Luz (80 Aniversario)",
         "url": "https://open.spotify.com/album/0JsYMVZiJ63aAw3MiyW8WK"
       },
@@ -2540,7 +2562,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 163965,
       "name": "Frexulfe",
       "url": "https://open.spotify.com/track/6NUQXfv9N2GBag12aFL5Lf"
@@ -2918,7 +2940,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 237749,
       "name": "Justo y necesario",
       "url": "https://open.spotify.com/track/6EibaMuXVVZylC7hAprnZL"
@@ -3150,7 +3172,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 362425,
       "name": "La Jungla",
       "url": "https://open.spotify.com/track/0FBpGVH8zaDTg79AFvdSwP"
@@ -3248,7 +3270,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 271273,
       "name": "La Muerte y el Amor No Tienen Cura",
       "url": "https://open.spotify.com/track/37glbnuiPyyT7VgNI0gtF8"
@@ -3769,7 +3791,7 @@
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 192840,
+      "duration_ms": 192670,
       "name": "Lucia (with Silvio Rodr\u00edguez)",
       "url": "https://open.spotify.com/track/44RRIuioxHdtujpJ3PDkxA"
     },
@@ -3876,7 +3898,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-16",
+      "date_removed": null,
       "duration_ms": 232080,
       "name": "Mar\u00eda la portuguesa",
       "url": "https://open.spotify.com/track/38qdh1Nb0DVjEDLrL3pHyT"
@@ -4851,6 +4873,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Zenet",
+          "url": "https://open.spotify.com/artist/2s7td67DdtSXTx2TGzs01i"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285583,
+      "name": "Palabras",
+      "url": "https://open.spotify.com/track/1sPYPGTBFf88n9l6L1uvMq"
+    },
+    {
+      "album": {
         "name": "Paloma Negra",
         "url": "https://open.spotify.com/album/3egDtwPTtMNqDletQkLbXA"
       },
@@ -5223,7 +5263,7 @@
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 244733,
+      "duration_ms": 242906,
       "name": "Princesa (feat. Viceversa)",
       "url": "https://open.spotify.com/track/0C1OcBOsuFmFFGkh3FWIGG"
     },
@@ -5507,7 +5547,7 @@
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 297000,
+      "duration_ms": 297120,
       "name": "Qui\u00e9n Me Ha Robado el Mes de Abril",
       "url": "https://open.spotify.com/track/1HX9kKDz6dG4fmLBuKVzOF"
     },
@@ -5744,7 +5784,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-07",
+      "date_removed": null,
       "duration_ms": 280053,
       "name": "Salitre",
       "url": "https://open.spotify.com/track/1MmGTsPVHDjhM5BJLvkFRL"
@@ -7125,7 +7165,7 @@
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 302933,
+      "duration_ms": 303973,
       "name": "Y Nos Dieron las Diez",
       "url": "https://open.spotify.com/track/1eCie6lwjb4crxeAvkRaSi"
     },

@@ -2,9 +2,9 @@
 
 ### [Bongo Flava](https://open.spotify.com/playlist/37i9dQZF1DX3EbcelyrZPd)
 
-> Get your fill of vibes straight out of Tanzania\. Cover: Harmonize
+> Get your fill of vibes straight out of Tanzania\. Cover: Mbosso
 
-609 songs - 1 day 10 hr 44 min
+610 songs - 1 day 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [Don't You Know](https://open.spotify.com/track/1XPpKdRjnNNsXZcYg7Krwg) | [Tommy Flavour](https://open.spotify.com/artist/71Jz2mbUErvv3YnRSLJTAu) | [Don't You Know](https://open.spotify.com/album/3iMtRORC74LGs0pm4AewFB) | 3:19 | 2022-04-14 | 2022-12-10 |
 | [Down](https://open.spotify.com/track/0M9O5WAGgXg6S7f2WjU3dD) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [ZiiBeats](https://open.spotify.com/artist/1u5KBiGGlipkOJL7DQPLM4) | [Down](https://open.spotify.com/album/2nRCzZ8OwYBgSmjcF8wYbY) | 2:42 | 2023-12-08 | 2024-05-10 |
 | [Down \(feat\. Lintonto & Xman Rsa\)](https://open.spotify.com/track/6xzsLAbPl2ObayPlTuEkLK) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Masterpiece YVK](https://open.spotify.com/artist/5wVRDS1b9ZMXN6VKEl8f9b), [Lintonto](https://open.spotify.com/artist/1isPpcHRJEgg4jyuAF3yd4), [Xman Rsa](https://open.spotify.com/artist/2AyNNC4hdqtQBcZzRtb730) | [Down \(feat\. Lintonto & Xman Rsa\)](https://open.spotify.com/album/5c4SEQNQEQG4bdyyjMiG3L) | 5:23 | 2025-06-27 | 2025-10-17 |
-| [Down For You \(feat\. Bien\)](https://open.spotify.com/track/71cVgHpn6iahD2oylViK6w) | [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Take Away The Pain](https://open.spotify.com/album/0CE8TePq8l9R9VppXR9KVo) | 2:58 | 2025-02-06 |  |
+| [Down For You \(feat\. Bien\)](https://open.spotify.com/track/71cVgHpn6iahD2oylViK6w) | [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Take Away The Pain](https://open.spotify.com/album/0CE8TePq8l9R9VppXR9KVo) | 2:58 | 2025-02-06 | 2025-11-21 |
 | [DUNIA](https://open.spotify.com/track/3Psi2mv83ZwmHSegwbEgI3) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [DUNIA](https://open.spotify.com/album/2sEJT9Po8jjle2NdR7OC8k) | 2:29 | 2025-08-21 |  |
 | [Dunia Yetu](https://open.spotify.com/track/4YMLPzAp2p4z3iq7bTeCwC) | [Beka Flavour](https://open.spotify.com/artist/6jETz99dtLj1EgPF1C3xvU) | [Dunia Yetu](https://open.spotify.com/album/1fKIseL5wYAZaPkcnJSJGo) | 3:16 | 2025-06-27 | 2025-09-26 |
 | [Enjoy](https://open.spotify.com/track/1qiHxdihSes6DA9hkAKFyg) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Enjoy](https://open.spotify.com/album/2r2GgPbTjjPB8OclFfiFGY) | 3:36 | 2024-03-14 | 2024-04-19 |
@@ -422,6 +422,7 @@
 | [Party](https://open.spotify.com/track/7a2B83pFQkhzybYiCvrRRp) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3), [Billnass](https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Party](https://open.spotify.com/album/54xivw4zmylA1uKdmCDAMf) | 3:10 | 2021-11-25 | 2022-09-02 |
 | [Patner](https://open.spotify.com/track/6ixAPbmYQlLFCoAPmP2B7V) | [Beka Flavour](https://open.spotify.com/artist/6jETz99dtLj1EgPF1C3xvU) | [Patner](https://open.spotify.com/album/4UAtnHrk1pGKChx5NDsSGe) | 3:25 | 2024-06-20 | 2024-08-16 |
 | [Pawa](https://open.spotify.com/track/51TVoZ4d09tedi9Z8iSX5r) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Room Number 3](https://open.spotify.com/album/17L4x88dKSyBVnvYpgMzVY) | 3:46 | 2025-06-12 |  |
+| [Pawa IV \(feat\. Darassa, Billnass & G Nako\)](https://open.spotify.com/track/5QhP7WufPqgKuCOhuo7Lut) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa), [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a), [Billnass](https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4), [G Nako](https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC) | [Pawa IV \(feat\. Darassa, Billnass & G Nako\)](https://open.spotify.com/album/3tJGrT2VuTKpTvkznhZTYP) | 5:05 | 2025-11-20 |  |
 | [Pele Pele](https://open.spotify.com/track/3jlFv5sxExswhKsgOKVay0) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Luana Vjollca](https://open.spotify.com/artist/2pF2CPS9lzI3U0ABZk6ZBy) | [Pele Pele](https://open.spotify.com/album/0spgH5Pa0eR3hBH9zotjek) | 2:27 | 2022-07-22 | 2023-02-10 |
 | [Pepetua](https://open.spotify.com/track/3Z95wyyd0RAwqWpHKG5dS3) | [Nedy Music](https://open.spotify.com/artist/0EFCi7pCSlHLW8dVn020hD) | [Pepetua](https://open.spotify.com/album/4e6v5aqrFS5f3XYRzBK87i) | 2:49 | 2022-03-10 | 2022-09-30 |
 | [Peponi](https://open.spotify.com/track/20nvhAl8VMKIXueZTdoPZP) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Dj Davizo](https://open.spotify.com/artist/7DVRKx78pFflFtD9fwozOU) | [Peponi](https://open.spotify.com/album/0It1W5H9bF9BLRvikjmGfq) | 3:20 | 2024-10-03 | 2025-01-24 |

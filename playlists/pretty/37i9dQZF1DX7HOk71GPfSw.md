@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > we love you Danny Brown 🌸
 
-[Spotify](https://open.spotify.com/user/spotify) - 485,195 likes - 200 songs - 9 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 485,272 likes - 200 songs - 9 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 31 | [Old White Man](https://open.spotify.com/track/5wWytyzSFYQKe6ar4FoAtc) | [FLOSS](https://open.spotify.com/artist/6J9jA7iSuf9a6Apk8sKqhJ), [3arthquaker](https://open.spotify.com/artist/1hetzmORNUorQZwY7Fw349) | [ANGRY B!TCH RAVE](https://open.spotify.com/album/2qclvgnbsY7VZRCj8vrUyU) | 2:28 |
 | 32 | [Pür Love](https://open.spotify.com/track/2iRe0Fl9YPUDygrkfWzPUr) | [MGNA Crrrta](https://open.spotify.com/artist/1pNs3qwMBJ0q4lyASth9Ye) | [Pür Love](https://open.spotify.com/album/7jUcNfj6q9mNUCDmyTywvv) | 3:29 |
 | 33 | [Forever salty](https://open.spotify.com/track/2BNWCIN4nxYbNhcSIol2BG) | [Bassvictim](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM) | [Basspunk 2](https://open.spotify.com/album/5rkvqB9hpyAd8ZpSg9UL4r) | 2:25 |
-| 34 | [FIRST TIME](https://open.spotify.com/track/7LoNnjzyxpRwtsuzttePpN) | [22december](https://open.spotify.com/artist/5qOORCmdl34SsKnB8o4aaF), [xodecember](https://open.spotify.com/artist/08Q1n0B8G7GfBBcureB3ag), [XiiO](https://open.spotify.com/artist/5vuw3G00DPZXk9POwtwYVb) | [FIRST TIME](https://open.spotify.com/album/6YZOXaB831ndt8fqJHLgJh) | 2:36 |
+| 34 | [FIRST TIME](https://open.spotify.com/track/7LoNnjzyxpRwtsuzttePpN) | [xodecember](https://open.spotify.com/artist/08Q1n0B8G7GfBBcureB3ag), [22december](https://open.spotify.com/artist/5qOORCmdl34SsKnB8o4aaF), [XiiO](https://open.spotify.com/artist/5vuw3G00DPZXk9POwtwYVb) | [FIRST TIME](https://open.spotify.com/album/6YZOXaB831ndt8fqJHLgJh) | 2:36 |
 | 35 | [Magic 8 Ball](https://open.spotify.com/track/05E3D2Cr17KOb62OnsZwZ9) | [RYL0](https://open.spotify.com/artist/4LwTWGYy9UJ1WYVkniVnSh) | [Magic 8 Ball: The Prelude](https://open.spotify.com/album/0eR9AXtvQveyIxhwYkcyuv) | 3:46 |
 | 36 | [4ME](https://open.spotify.com/track/3eAO9ikD1UCnLA8nakwMji) | [ChiChi](https://open.spotify.com/artist/7HTE9gwBIt58NNKbLhnql9), [Cecilia Gault](https://open.spotify.com/artist/1A1ZXMqcpElewwm16R0cmk) | [Wrong Until Right](https://open.spotify.com/album/4j0RHtVrx8INqXLZrr1CCs) | 2:21 |
 | 37 | [taste](https://open.spotify.com/track/4QXjQ3KdLWX7DnaZUilfRG) | [aldrch](https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em) | [taste](https://open.spotify.com/album/1VdQrhxECUzBUsEoYPJEId) | 2:22 |

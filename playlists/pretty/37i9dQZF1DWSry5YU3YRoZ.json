@@ -239,22 +239,6 @@
     {
       "added_at": "2025-11-19 02:36:18",
       "album": {
-        "name": "When I stop thinking",
-        "url": "https://open.spotify.com/album/5fYmB8cdgKh3GBzhXoDaLw"
-      },
-      "artists": [
-        {
-          "name": "Choi Yu Ree",
-          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
-        }
-      ],
-      "duration_ms": 282453,
-      "name": "Dear love",
-      "url": "https://open.spotify.com/track/6l6zrxtopyeJ0UDdQFkLmF"
-    },
-    {
-      "added_at": "2025-11-19 02:36:18",
-      "album": {
         "name": "One Confess (Original Soundtrack from Hear Me: Our Summer)",
         "url": "https://open.spotify.com/album/4lspmWfRe38Gyt12UoBQ0Q"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 168226,
       "name": "One Confess",
       "url": "https://open.spotify.com/track/5vzGjOGXJQcefc3JqopL2X"
+    },
+    {
+      "added_at": "2025-11-19 02:36:18",
+      "album": {
+        "name": "When I stop thinking",
+        "url": "https://open.spotify.com/album/5fYmB8cdgKh3GBzhXoDaLw"
+      },
+      "artists": [
+        {
+          "name": "Choi Yu Ree",
+          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
+        }
+      ],
+      "duration_ms": 282453,
+      "name": "Dear love",
+      "url": "https://open.spotify.com/track/6l6zrxtopyeJ0UDdQFkLmF"
     },
     {
       "added_at": "2025-11-19 02:36:18",
@@ -515,22 +515,6 @@
     {
       "added_at": "2025-11-19 02:36:18",
       "album": {
-        "name": "&10",
-        "url": "https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF"
-      },
-      "artists": [
-        {
-          "name": "DAVICHI",
-          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
-        }
-      ],
-      "duration_ms": 254693,
-      "name": "Just the two of us",
-      "url": "https://open.spotify.com/track/7sZUzmcbOwDq3ABOts0K37"
-    },
-    {
-      "added_at": "2025-11-19 02:36:18",
-      "album": {
         "name": "If",
         "url": "https://open.spotify.com/album/5M7zOeOjBLJDQaSkDotiH5"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 251560,
       "name": "If",
       "url": "https://open.spotify.com/track/3go56fUuNPhwvZifMuTnpJ"
+    },
+    {
+      "added_at": "2025-11-19 02:36:18",
+      "album": {
+        "name": "&10",
+        "url": "https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF"
+      },
+      "artists": [
+        {
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+        }
+      ],
+      "duration_ms": 254693,
+      "name": "Just the two of us",
+      "url": "https://open.spotify.com/track/7sZUzmcbOwDq3ABOts0K37"
     },
     {
       "added_at": "2025-11-19 02:36:18",

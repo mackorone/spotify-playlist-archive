@@ -4,7 +4,7 @@
 
 > De grootste hits uit de kroeg in één playlist.
 
-131 songs - 6 hr 22 min
+132 songs - 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Maak Me Nou Niet Gek](https://open.spotify.com/track/6gOgwLQfEfRh0SfXUZZk7Z) | [Quido van de Graaf](https://open.spotify.com/artist/0EeBSdffc4ckG8Yh9HOPuj) | [Maak Me Nou Niet Gek](https://open.spotify.com/album/24xjFLhiUSgGS8NWgJB3wa) | 2:16 | 2025-07-14 |  |
 | [Maximaal](https://open.spotify.com/track/1rzQBh4zaNFZTQmJcTMLKb) | [RAYMON HERMANS](https://open.spotify.com/artist/74nbJZq9ryws0hx2U2CE8G) | [Maximaal](https://open.spotify.com/album/6Fzj70RX7JTJhXQxHFdWCS) | 2:37 | 2025-07-14 | 2025-09-26 |
 | [Meisjes Van De Nacht](https://open.spotify.com/track/0SzWx2en7UgSBilg2nVbU7) | [Rob Ronalds](https://open.spotify.com/artist/6WCTSRKFUh21XfltrSzLBE) | [Het Beste Van](https://open.spotify.com/album/1qv5dP3569hbwwEFsPCa0D) | 3:02 | 2025-07-14 |  |
+| [Met Je Moeder Niks Te Maken](https://open.spotify.com/track/3qi2R0sJMjEftAaSjpFTot) | [Sander Kwarten](https://open.spotify.com/artist/3mF7KKbv6XN4QYjDOFFipn) | [Met Je Moeder Niks Te Maken](https://open.spotify.com/album/6ZkNv9kkbPfcIiyQjtWmgI) | 2:39 | 2025-11-20 |  |
 | [Met Of Zonder Jou](https://open.spotify.com/track/6EkLMgBYvDlRnj2UOtG622) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Met Of Zonder Jou](https://open.spotify.com/album/4CkPHyIcpSHZEDpGySN8WT) | 3:02 | 2025-07-14 |  |
 | [Mij Niet Bellen](https://open.spotify.com/track/3fo32mcaj3m4dTui2li6dw) | [RAYMON HERMANS](https://open.spotify.com/artist/74nbJZq9ryws0hx2U2CE8G) | [Mij Niet Bellen](https://open.spotify.com/album/31ZdyOkYPnn8ySorGmEv4q) | 2:41 | 2025-07-14 |  |
 | [Mona Lisa](https://open.spotify.com/track/05mRvdy1w3YtLhz2sHYzrB) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k) | [Niet Voor Lief](https://open.spotify.com/album/2f1fUNjpmJqPLSF4PcDbFi) | 2:27 | 2025-07-14 |  |
@@ -113,7 +114,7 @@
 | [Toen De Euro Nog Een Gulden Was](https://open.spotify.com/track/1DhO6d9nwWQRMM2wvH1NaG) | [Frank Van Etten](https://open.spotify.com/artist/6idunrSGiChqlZG6MJVhHM) | [Toen De Euro Nog Een Gulden Was](https://open.spotify.com/album/0ByXYGsuwWtuXQpPW1Idy5) | 3:29 | 2025-07-14 | 2025-10-17 |
 | [Tranquilo](https://open.spotify.com/track/2MdohxuwIfNPtEdknrsv7z) | [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq) | [Tranquilo](https://open.spotify.com/album/30N0u0pWGa9VuPuWvMUjhA) | 3:20 | 2025-07-14 |  |
 | [Trompetisto](https://open.spotify.com/track/7LZQAYj5NmW7Db2y8k7dXm) | [Sjaak](https://open.spotify.com/artist/2YjydjpJfm9VAtiV0XRmkm) | [Trompetisto](https://open.spotify.com/album/6gsOgcotCeVJsqqQVZ0Qdb) | 2:20 | 2025-07-14 | 2025-09-21 |
-| [Turk Uit De Kroeg](https://open.spotify.com/track/37oajE6ezfuQ1tjyWlF0UW) | [Ammar](https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb) | [Turk Uit De Kroeg](https://open.spotify.com/album/08M8jwAA0PILLWMOll53r9) | 3:12 | 2025-07-14 |  |
+| [Turk Uit De Kroeg](https://open.spotify.com/track/37oajE6ezfuQ1tjyWlF0UW) | [Ammar](https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb) | [Turk Uit De Kroeg](https://open.spotify.com/album/08M8jwAA0PILLWMOll53r9) | 3:12 | 2025-07-14 | 2025-11-21 |
 | [Una Paloma Blanca](https://open.spotify.com/track/4qe3xxriIuMM2KupFZVRgR) | [Jeffrey Parmentier](https://open.spotify.com/artist/0nGVFnSCZQDPf0hflywur0), [George Baker](https://open.spotify.com/artist/1nWVAz0ZMSKzLVB5oF23Vk) | [Una Paloma Blanca](https://open.spotify.com/album/2NZReDEwUE9WjfOPxxPUim) | 2:40 | 2025-07-14 |  |
 | [Van Brabant naar Bordeaux](https://open.spotify.com/track/6jSvbOJNCvgeTBQS0LVlRk) | [Frans Bauer](https://open.spotify.com/artist/0v4CvkMzWBQ1wZIMl2BqQW), [Kafke](https://open.spotify.com/artist/0nC1zkioNJaPntz8XAeLx9) | [Van Brabant naar Bordeaux](https://open.spotify.com/album/3tAR71Sp3TMaRyksREFpl6) | 3:02 | 2025-07-14 |  |
 | [Van Goes Tot Purmerend](https://open.spotify.com/track/6dgkHkbtXg4mGwRPJiE1LV) | [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq), [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ) | [Van Goes Tot Purmerend](https://open.spotify.com/album/4Kc9vHk2XB9tGNcyikgNpm) | 3:21 | 2025-07-14 |  |

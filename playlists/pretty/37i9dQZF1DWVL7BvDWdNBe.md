@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVL7BvDWdNBe.md) - [plain]
 
 > Dance & jive to the biggest hits of Elvis Presley.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,169 likes - 35 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,176 likes - 35 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVL7BvDWdNBe.md) - [plain]
 | 26 | [Night Rider](https://open.spotify.com/track/0hlHjhUWHktdSA42gf4NUX) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Pot Luck](https://open.spotify.com/album/2g4kvBYEZoUaO5rMmR4CJI) | 2:12 |
 | 27 | [Dirty, Dirty Feeling](https://open.spotify.com/track/1R9uNg9F6WINW53YMwG3GP) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis Is Back](https://open.spotify.com/album/2SBAAtgdyjgfTO1UMHnza1) | 1:36 |
 | 28 | [Rock\-A\-Hula Baby](https://open.spotify.com/track/65ndJdPZmiV8egz8h3kPuf) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Blue Hawaii](https://open.spotify.com/album/7xe8VI48TxUpU1IIo0RfGi) | 2:03 |
-| 29 | [Way Down](https://open.spotify.com/track/0JnEaldTC6IFyUGOqppFdG) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Moody Blue](https://open.spotify.com/album/08bROKoMarHS0jRzZOEv08) | 2:38 |
+| 29 | [Way Down](https://open.spotify.com/track/0JnEaldTC6IFyUGOqppFdG) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Moody Blue](https://open.spotify.com/album/08bROKoMarHS0jRzZOEv08) | 2:40 |
 | 30 | [Do the Clam](https://open.spotify.com/track/2DdtOIqWNDcrPEDAJv0VFe) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Girl Happy](https://open.spotify.com/album/4z27tEwwMNEILdVX1Sy40L) | 3:19 |
 | 31 | [Good Rockin' Tonight](https://open.spotify.com/track/7cJNO7Q8CiF1H65WVnSIfg) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Bossa Nova Baby: The Ultimate Elvis Presley Party Album](https://open.spotify.com/album/5m21mnF0TmFzG9EevImho6) | 2:12 |
 | 32 | [Too Much Monkey Business](https://open.spotify.com/track/4g3pTaJtVbkXU0FuxpDbrb) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Bossa Nova Baby: The Ultimate Elvis Presley Party Album](https://open.spotify.com/album/5m21mnF0TmFzG9EevImho6) | 2:29 |

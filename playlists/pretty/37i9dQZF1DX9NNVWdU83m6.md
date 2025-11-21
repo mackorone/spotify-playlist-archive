@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 
 > A progressive fusion of jazz, rock and avant\-garde.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,133 likes - 131 songs - 11 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,149 likes - 131 songs - 11 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 | 83 | [Rain Dog](https://open.spotify.com/track/6TQGEC5VTnyphFPDPcf5D4) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [Bookshelf](https://open.spotify.com/album/3vWw8xYPwpYzlvK253yLdQ) | 4:20 |
 | 84 | [Lymaks](https://open.spotify.com/track/4PDkuoOoxFGfYtzpMYIIdz) | [FORQ](https://open.spotify.com/artist/7vXBNF4wc830rnuWRBXsz1) | [Batch](https://open.spotify.com/album/5k3J9tx9DYoOi1r6fOEOJo) | 6:14 |
 | 85 | [Just Call Me Nige](https://open.spotify.com/track/1acyO8D2JMAxZtxUohyFZy) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Mehliana: Taming the Dragon](https://open.spotify.com/album/7veyvtvK49ca1UMEEmZ00q) | 5:41 |
-| 86 | [The Noonward Race \(with John McLaughlin\)](https://open.spotify.com/track/4BWrLhJXXYAlVIHOLSPsmN) | [Mahavishnu Orchestra](https://open.spotify.com/artist/3Ao7NH7lRyQAeKQg2mlTcO), [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY) | [The Inner Mounting Flame \(with John McLaughlin\)](https://open.spotify.com/album/6XHQCPGwvSaqv9MZ2tauqr) | 6:27 |
+| 86 | [The Noonward Race \(with John McLaughlin\)](https://open.spotify.com/track/4BWrLhJXXYAlVIHOLSPsmN) | [Mahavishnu Orchestra](https://open.spotify.com/artist/3Ao7NH7lRyQAeKQg2mlTcO), [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY) | [The Inner Mounting Flame \(with John McLaughlin\)](https://open.spotify.com/album/6XHQCPGwvSaqv9MZ2tauqr) | 6:28 |
 | 87 | [Planetary Prince](https://open.spotify.com/track/0RDPruYI8wmOrFTi3RMx6K) | [Cameron Graves](https://open.spotify.com/artist/6ivVgdQ8qi5Tu2pc1zeVKP) | [Planetary Prince](https://open.spotify.com/album/6lJJ95URcncW4mCDW0SEI0) | 8:06 |
 | 88 | [Triggers](https://open.spotify.com/track/3XyNup2HdXLDskqrjRNPrf) | [Immortal Onion](https://open.spotify.com/artist/4CwsKWauDN6Dt84QVNnfGz) | [XD \[Experience Design\]](https://open.spotify.com/album/4DqPgAuGDkiPdUFzItY0vW) | 5:47 |
 | 89 | [New Life](https://open.spotify.com/track/2FnvK6PpO25DmzCT7WsV2D) | [Flying Machines](https://open.spotify.com/artist/6I8hYLeHelhB4I4WGdxzjf), [Alex Munk](https://open.spotify.com/artist/5E2Y3Yb0uwuTK1400k0LId), [Matt Robinson](https://open.spotify.com/artist/7lGYGsStLXkooPtqVhjuQb), [Conor Chaplin](https://open.spotify.com/artist/4OL6krKLt3oWc2PA0MTSui), [Dave Hamblett](https://open.spotify.com/artist/7FeAapUDNO0OrtDOFuWPcg) | [New Life](https://open.spotify.com/album/1UvvMUsA0XNyyaWKYw5g8X) | 7:14 |

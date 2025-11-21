@@ -1,12 +1,12 @@
 {
   "description": "This is Odeal. The essential tracks, all in one playlist.",
-  "num_followers": 8880,
+  "num_followers": 8904,
   "original_name": "This Is Odeal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRu3AAAAAACxh0pooO10/NZ6cwp1AqiI",
+  "snapshot_id": "aR0IgAAAAACh6qAOVElJTnpVoNjZRYIq",
   "tracks": [
     {
       "added_at": null,
@@ -259,6 +259,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "ONOME",
+        "url": "https://open.spotify.com/album/5gqbbNfl0GtuK2Tl0tNwFy"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 198545,
+      "name": "ONOME",
+      "url": "https://open.spotify.com/track/2AsdsBTAtp5EckmvsbUKtH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "WONDERLOVE +",
         "url": "https://open.spotify.com/album/2T9YYatIZcgwuXx8BYpISd"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 206222,
       "name": "i'm ready (feat. Odeal)",
       "url": "https://open.spotify.com/track/6E8TyGYNEu1Y5vns35uyHa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ONOME",
-        "url": "https://open.spotify.com/album/5gqbbNfl0GtuK2Tl0tNwFy"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 198545,
-      "name": "ONOME",
-      "url": "https://open.spotify.com/track/2AsdsBTAtp5EckmvsbUKtH"
     },
     {
       "added_at": null,

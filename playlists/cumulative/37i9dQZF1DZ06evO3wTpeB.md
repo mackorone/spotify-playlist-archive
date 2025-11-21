@@ -4,7 +4,7 @@
 
 > This is Ali Aka Mind\. The essential tracks, all in one playlist.
 
-87 songs - 4 hr 54 min
+88 songs - 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Dolor](https://open.spotify.com/track/4fCg5TdCsAaf2sizMKYFjm) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Laberinto ELC](https://open.spotify.com/artist/1Cd5Kq0yfp0WqfiryLu4bu) | [Dolor](https://open.spotify.com/album/1QXRglXocvvIB7lroBNUc8) | 4:25 | 2023-12-30 |  |
 | [Dolor](https://open.spotify.com/track/66Iqy7EyPHmi656BXUnKmD) | [Laberinto ELC](https://open.spotify.com/artist/1Cd5Kq0yfp0WqfiryLu4bu), [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [De Antaño Lado B](https://open.spotify.com/album/3MNhuxpkvA4dlCGfY5Moe4) | 4:37 | 2025-04-27 | 2025-06-05 |
 | [El Mundo \(Poesía\)](https://open.spotify.com/track/0P4v23LKCg4czkXjSMxhxi) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Honesty](https://open.spotify.com/album/4B9Nw5W4QywU2pgt9PXps8) | 1:43 | 2025-07-10 | 2025-08-15 |
+| [El Pulmón del Mundo \(feat\. Ali AKA Mind\)](https://open.spotify.com/track/5zzvSMiO8oRL0n1ksLPxeJ) | [Mañas Ru\-Fino](https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe), [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408), [DeeJohend](https://open.spotify.com/artist/6XUEYOORHZPpLe6hoCegF1), [Cheche Cole](https://open.spotify.com/artist/1vTh9OJHlNi1sYgUTsqYVI), [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Rap de la Montaña 2](https://open.spotify.com/album/1oAbbxPXdnJObWqTYTpjE3) | 2:44 | 2025-11-21 |  |
 | [Emancipación](https://open.spotify.com/track/2zfhbG3kCZdsQpwmVCnDhb) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Emancipación](https://open.spotify.com/album/3IggidKSJedptBQMM88Tz5) | 3:54 | 2023-12-30 | 2025-04-27 |
 | [Emily](https://open.spotify.com/track/6ka4z78PDgF3mepKkY2W4o) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Sobrevivente](https://open.spotify.com/album/6m0g5Ap0yUoXH6SoHPAlkW) | 3:20 | 2024-09-12 |  |
 | [En los Brazos de Morfeo](https://open.spotify.com/track/4OJ7fRdpcFMKW3sxaCZ22h) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c), [Dj J.L.P](https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [En los Brazos de Morfeo](https://open.spotify.com/album/2RuUUiMsKy0lHkRTrW3fHd) | 3:26 | 2024-09-01 |  |
@@ -52,7 +53,7 @@
 | [Mi Melancolía](https://open.spotify.com/track/4Nby9uhYYrPRJf0WDaca7t) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Rap Conciencia](https://open.spotify.com/album/6CVQjIWT0jNTyFVcsJfksR) | 2:52 | 2025-02-22 | 2025-02-28 |
 | [Mi Raíz](https://open.spotify.com/track/6ertoHwFOU1AYQv4Kkq0aD) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [ALI Prod.](https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu) | [Palabras del Alma](https://open.spotify.com/album/4JTGFe7NhpEVSInPEasMhV) | 3:42 | 2023-12-30 |  |
 | [Mi Vida Es Una Fiesta](https://open.spotify.com/track/65jCjbIlEsbqGGYmmOFQbE) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Mi Vida Es Una Fiesta](https://open.spotify.com/album/39nAnPVhQweMSKiqraPSpl) | 3:37 | 2023-12-30 | 2024-12-16 |
-| [Mientras](https://open.spotify.com/track/3gkOpQFQlmjwc7mCLau2qg) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Gonzalo Genek](https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I) | [Mientras](https://open.spotify.com/album/1IrZA69cG0rXC4F4bKB5su) | 3:10 | 2024-01-01 |  |
+| [Mientras](https://open.spotify.com/track/3gkOpQFQlmjwc7mCLau2qg) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Gonzalo Genek](https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I) | [Mientras](https://open.spotify.com/album/1IrZA69cG0rXC4F4bKB5su) | 3:10 | 2024-01-01 | 2025-11-21 |
 | [Más & Menos](https://open.spotify.com/track/3JccwWX1NKkIGQYppnjtCA) | [Akil Ammar](https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr), [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Más & Menos](https://open.spotify.com/album/6PF5Nfua8PnfihIwSxdwus) | 4:29 | 2023-12-30 |  |
 | [Nada Más](https://open.spotify.com/track/2LVkd8rDYBYjZjzrhogYUQ) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Sobrevivente](https://open.spotify.com/album/6m0g5Ap0yUoXH6SoHPAlkW) | 3:39 | 2023-12-30 |  |
 | [Nada Nos Para](https://open.spotify.com/track/5odmSa7DCFFDofSpYgzCik) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Rakaa de Dilated Peoples](https://open.spotify.com/artist/7Bp2zDaEOWhyWRJOEEUUo0) | [Mestizo](https://open.spotify.com/album/3q3CUqz2XqQwDOFjmWphbw) | 3:54 | 2024-07-05 |  |

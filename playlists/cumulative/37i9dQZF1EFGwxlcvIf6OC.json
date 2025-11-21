@@ -401,6 +401,24 @@
     },
     {
       "album": {
+        "name": "All Things Light",
+        "url": "https://open.spotify.com/album/1180SVDM99jmx4fv4MZ6Kp"
+      },
+      "artists": [
+        {
+          "name": "Cam",
+          "url": "https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102000,
+      "name": "Meet You By The River",
+      "url": "https://open.spotify.com/track/2g18ELBhnxmRwPCVR2bi3m"
+    },
+    {
+      "album": {
         "name": "Untamed",
         "url": "https://open.spotify.com/album/5KlzsMAsw5NujrJVQtjQAB"
       },

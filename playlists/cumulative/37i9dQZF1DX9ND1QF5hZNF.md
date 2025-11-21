@@ -4,7 +4,7 @@
 
 > Evadez\-vous tout en douceur...
 
-327 songs - 16 hr 51 min
+328 songs - 16 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Mad World](https://open.spotify.com/track/2HdsjF5PGHPllVTSpjg4zJ) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Mad World](https://open.spotify.com/album/2BrS7f0enkfT2DhwiYwjpV) | 2:22 | 2025-02-20 | 2025-10-17 |
 | [Magic \- Edit](https://open.spotify.com/track/2u5BsxcvX36t9ecVM70Ati) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Cyclorama](https://open.spotify.com/album/2XLO00VSPGAGxpUjezhHoC) | 2:49 | 2022-12-20 | 2023-11-21 |
 | [Maisha \(feat\. Makadem\)](https://open.spotify.com/track/4qEnI06GT3Y7BVMnGKegIl) | [Kronan](https://open.spotify.com/artist/6AC7fqQQgNwXXpBa5bqyBr), [Makadem](https://open.spotify.com/artist/0mbhGA9S4pADQEqouZqqgL) | [Moves](https://open.spotify.com/album/6A3pqKVomKhcySqeOtaPSd) | 2:36 | 2025-06-19 | 2025-07-19 |
+| [Make Me Feel](https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8) | [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ) | [Make Me Feel](https://open.spotify.com/album/1c6Y4gCvI7Ey2M07Ahvwva) | 3:06 | 2025-11-20 |  |
 | [MAMA](https://open.spotify.com/track/6W1oL539Y2CwZi9AHQiGAC) | [Khaney](https://open.spotify.com/artist/0PxPREVwFHTaFJaKWbmxgY), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [MAMA](https://open.spotify.com/album/3MK4rUxWXOug8KCmNP7DSR) | 6:19 | 2025-07-18 | 2025-08-08 |
 | [MARGARITA](https://open.spotify.com/track/3a83gjRLze4P3CZXoI3qAP) | [SWORRA](https://open.spotify.com/artist/3CwBdFm87pJQZU7NgZae00) | [MARGARITA](https://open.spotify.com/album/0WmKyAG8q21joH2H3LIw21) | 3:35 | 2024-01-11 | 2025-06-20 |
 | [Marseille](https://open.spotify.com/track/1CZ0Q8EpbCBz3CvMPtrW7v) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Marseille](https://open.spotify.com/album/4lNXxO3pxla3Di3JEMVtu6) | 2:25 | 2025-05-08 | 2025-06-20 |
@@ -196,7 +197,7 @@
 | [Nights Like This](https://open.spotify.com/track/731PM3LdGvReQiB1GBQBO9) | [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [Felipe Allenn](https://open.spotify.com/artist/3ApsbRT5vKW3VaNcUlDy6D) | [Nights Like This](https://open.spotify.com/album/3nW8uCpMqQuJwrCUyAzF99) | 2:57 | 2025-11-06 | 2025-11-15 |
 | [No Gravity \(feat\. Bava\)](https://open.spotify.com/track/6r4ual3l2rTXnxp6T8WM1g) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Bava](https://open.spotify.com/artist/7lOLWr9bmaivFDeoLYzD1U) | [Telos](https://open.spotify.com/album/5V7WoYwRXtheRjhOjgUeR5) | 3:31 | 2025-01-16 | 2025-04-11 |
 | [No Limits](https://open.spotify.com/track/5aUlOnQ7Elb98Nfp7gUohd) | [LU2VYK](https://open.spotify.com/artist/6XfxrlXxNCk5pI7eaXQO2L), [we love sunset](https://open.spotify.com/artist/0ROeDOXEZIq0ETZL5MVHqa) | [No Limits](https://open.spotify.com/album/0QMppMAvRrFuHzCaYNBIvg) | 2:22 | 2025-01-03 | 2025-01-31 |
-| [nobody \(make me feel\)](https://open.spotify.com/track/72qknjLxZXE6iE6h27sIHY) | [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [nobody \(make me feel\)](https://open.spotify.com/album/3eeriHqB4mrrlzqFwdpjHQ) | 2:45 | 2025-09-18 |  |
+| [nobody \(make me feel\)](https://open.spotify.com/track/72qknjLxZXE6iE6h27sIHY) | [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [nobody \(make me feel\)](https://open.spotify.com/album/3eeriHqB4mrrlzqFwdpjHQ) | 2:45 | 2025-09-18 | 2025-11-21 |
 | [Nobody Cares](https://open.spotify.com/track/4aJ4HeuydJYarlKlLq6xVp) | [Lonely in the Rain](https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS), [MR TOUT LE MONDE](https://open.spotify.com/artist/4MgxKih2gf4BgMkPVOfvrn) | [Nobody Cares](https://open.spotify.com/album/2NFWjI68rczXTXjzXjbdl9) | 3:09 | 2023-11-20 | 2025-05-09 |
 | [Nopalitos](https://open.spotify.com/track/7mTu2ZcNb2Ip79YEzZZnrf) | [Kid Francescoli](https://open.spotify.com/artist/2G7QgTep5IsJHGHm1hXygD) | [Nopalitos](https://open.spotify.com/album/0qPeoLei81BIwwi8NKf27W) | 3:50 | 2022-12-20 | 2023-10-06 |
 | [Not Sorry](https://open.spotify.com/track/3p6de2nWixeFvk98ZAtl5d) | [Lvne](https://open.spotify.com/artist/4pw9tq7xIe5cZLPS7xivyL), [Myya](https://open.spotify.com/artist/0EugsgAtTwcQ1ndtIruICI), [Kiki Rowe](https://open.spotify.com/artist/3FHeKI9kIuqPffmhyrcHuP) | [Not Sorry](https://open.spotify.com/album/4IMzpXZYFpJ5ECLjrcOLJn) | 2:52 | 2024-02-09 | 2024-02-24 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-30",
-  "description": "Canciones directas y banderas al viento. Foto: lisandro skar",
+  "description": "Canciones directas y banderas al viento. Foto: reybruja",
   "name": "Rock Barrial",
   "tracks": [
     {
@@ -88,7 +88,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 243146,
       "name": "Ah\u00ed",
       "url": "https://open.spotify.com/track/4lH1UpMeCgcwnzh6dDX7kI"
@@ -384,7 +384,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 217557,
       "name": "Calavera",
       "url": "https://open.spotify.com/track/051m0yMunQHD5Zxc1P1FvZ"
@@ -2437,6 +2437,24 @@
     },
     {
       "album": {
+        "name": "GUSTAR Y OFENDER",
+        "url": "https://open.spotify.com/album/1ZhJsTyimzQOzBz6X2XJbd"
+      },
+      "artists": [
+        {
+          "name": "reybruja",
+          "url": "https://open.spotify.com/artist/1w9Zl7p0JQAYAf9lmDGMYz"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141762,
+      "name": "piso 20",
+      "url": "https://open.spotify.com/track/3Km8AtaJxGsCiT6u8Uhz1m"
+    },
+    {
+      "album": {
         "name": "Tocando Ma\u00f1ana",
         "url": "https://open.spotify.com/album/6XCws2Vp6vVq8GosvDqWvz"
       },
@@ -2632,7 +2650,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 259039,
       "name": "Reflejo",
       "url": "https://open.spotify.com/track/1RaYc8dytOsWlmL2bEuG2I"
@@ -2672,6 +2690,24 @@
       "duration_ms": 250173,
       "name": "Reyes de la Noche",
       "url": "https://open.spotify.com/track/3nnDwYz3dEd4p2ESdpS1G0"
+    },
+    {
+      "album": {
+        "name": "GUSTAR Y OFENDER",
+        "url": "https://open.spotify.com/album/1ZhJsTyimzQOzBz6X2XJbd"
+      },
+      "artists": [
+        {
+          "name": "reybruja",
+          "url": "https://open.spotify.com/artist/1w9Zl7p0JQAYAf9lmDGMYz"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144346,
+      "name": "RNA",
+      "url": "https://open.spotify.com/track/0tXTtaJi3FBvm3AvP64jRB"
     },
     {
       "album": {
@@ -3826,6 +3862,24 @@
       "duration_ms": 278386,
       "name": "Vine Hasta Aqu\u00ed",
       "url": "https://open.spotify.com/track/7LOkbiMpnZYbybdWuv7S4U"
+    },
+    {
+      "album": {
+        "name": "GUSTAR Y OFENDER",
+        "url": "https://open.spotify.com/album/1ZhJsTyimzQOzBz6X2XJbd"
+      },
+      "artists": [
+        {
+          "name": "reybruja",
+          "url": "https://open.spotify.com/artist/1w9Zl7p0JQAYAf9lmDGMYz"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162730,
+      "name": "virgencitas y malvones",
+      "url": "https://open.spotify.com/track/67QxWkIRQONF34MpiD7CcD"
     },
     {
       "album": {

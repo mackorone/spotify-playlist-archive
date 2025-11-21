@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 
 > Electronic + Dance making waves, every month\. Cover: Shimza & Kasango
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,114 likes - 72 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,110 likes - 72 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

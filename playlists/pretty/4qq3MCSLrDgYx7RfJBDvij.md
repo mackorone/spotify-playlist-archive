@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4qq3MCSLrDgYx7RfJBDvij.md) - [plain]
 
 > From then to now, these songs will forever be classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46 likes - 28 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 46 likes - 28 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/4qq3MCSLrDgYx7RfJBDvij.md) - [plain]
 | 2 | [Jolene](https://open.spotify.com/track/5fdhThPDe6jQQDqCyWrdAn) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene \(Expanded Edition\)](https://open.spotify.com/album/2v2iR6vtrLVTyiNIEsv5Sg) | 2:41 |
 | 3 | [Layla \- Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 1999 Remaster](https://open.spotify.com/track/6YEOmCsXSk9ZPE0FkcCiuQ) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Clapton Chronicles: The Best of Eric Clapton](https://open.spotify.com/album/6FCakQJ6z6TF0y0qkHYKgy) | 4:20 |
 | 4 | [Landslide](https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 3:19 |
-| 5 | [The Times They Are A\-Changin'](https://open.spotify.com/track/52vA3CYKZqZVdQnzRrdZt6) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Times They Are A\-Changin'](https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS) | 3:12 |
+| 5 | [The Times They Are A\-Changin'](https://open.spotify.com/track/52vA3CYKZqZVdQnzRrdZt6) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Times They Are A\-Changin'](https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS) | 3:17 |
 | 6 | [The Long Way Around \- Live From Spotify NYC](https://open.spotify.com/track/2CSnF2PusRvto5TKPsGACZ) | [Jackson Browne](https://open.spotify.com/artist/4SJcsn7wfNixmcK761J95u) | [Spotify Sessions](https://open.spotify.com/album/4uT1EEYffapC0OFhc8Bmwr) | 8:28 |
 | 7 | [Wild Horses \- Acoustic Version](https://open.spotify.com/track/5kEg9ZuAHEe7UeOYJk8ldF) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Wild Horses \(Acoustic Version\)](https://open.spotify.com/album/3J7MdrfzVZuf9KyO1WAbGN) | 5:47 |
 | 8 | [The Traveling Kind](https://open.spotify.com/track/6lGmKc3sNITRFVmtp2xvEx) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP), [Rodney Crowell](https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY) | [The Traveling Kind](https://open.spotify.com/album/1G0R4FDSV8aCIGcO6vSdL3) | 3:40 |
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/4qq3MCSLrDgYx7RfJBDvij.md) - [plain]
 | 12 | [Someday Never Comes](https://open.spotify.com/track/7wvAc2KXcgSTmCybonfyoR) | [John Fogerty](https://open.spotify.com/artist/5ujCegv1BRbEPTCwQqFk6t), [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Wrote A Song For Everyone](https://open.spotify.com/album/26L3KUSZR9orlnsAlph42n) | 5:16 |
 | 13 | [Fire and Rain](https://open.spotify.com/track/3LcYYV9ozePfgYYmXv0P3r) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Sweet Baby James](https://open.spotify.com/album/2NEQ5Q4sBbUHVVx3Wf8TEZ) | 3:20 |
 | 14 | [It's Too Late](https://open.spotify.com/track/66KgSwQE4UmJttgfYiaR5I) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry \(Legacy Edition\)](https://open.spotify.com/album/7kLLC7CN8oxt0HgP2a051K) | 3:53 |
-| 15 | [Like a Rolling Stone](https://open.spotify.com/track/3AhXZa8sUQht0UEdBJgpGc) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Highway 61 Revisited](https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD) | 6:09 |
+| 15 | [Like a Rolling Stone](https://open.spotify.com/track/3AhXZa8sUQht0UEdBJgpGc) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Highway 61 Revisited](https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD) | 6:11 |
 | 16 | [Can't You Hear Me Knocking \- Alternate Version](https://open.spotify.com/track/682gCKYRQyeRbXpb3ztDH7) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Can't You Hear Me Knocking \(Alternate Version\)](https://open.spotify.com/album/3fSAnMkxpG3jyDFubmvhKB) | 3:24 |
 | 17 | [Tears in Heaven \- Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster](https://open.spotify.com/track/612VcBshQcy4mpB2utGc3H) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Unplugged \(Deluxe Edition\)](https://open.spotify.com/album/3ebyEGol0Abc7VAxYf7vEg) | 4:40 |
 | 18 | [And I Love Her \- Live On MTV Unplugged](https://open.spotify.com/track/2TJhq8CrTlz6oRSljprEKg) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Unplugged \- The Official Bootleg](https://open.spotify.com/album/7KvVAe42ZV1LcfaW96mBNk) | 4:16 |

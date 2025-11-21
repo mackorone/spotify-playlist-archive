@@ -1,12 +1,12 @@
 {
   "description": "This is Outsiders. The essential tracks, all in one playlist.",
-  "num_followers": 23334,
+  "num_followers": 23351,
   "original_name": "This Is Outsiders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRu3AAAAAADIxXbeTGonJQYgPe6LKsjW",
+  "snapshot_id": "aR0IgAAAAADGsO2U4fdaGhnhCsCugAYY",
   "tracks": [
     {
       "added_at": null,
@@ -555,30 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vaderland",
-        "url": "https://open.spotify.com/album/4Yu2FndCZi7jLRsDlZroxg"
-      },
-      "artists": [
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        },
-        {
-          "name": "Jebroer",
-          "url": "https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk"
-        },
-        {
-          "name": "The Darkraver",
-          "url": "https://open.spotify.com/artist/3Lu9zTGOtzT2MZpfxdaHJv"
-        }
-      ],
-      "duration_ms": 208286,
-      "name": "Vaderland",
-      "url": "https://open.spotify.com/track/4EncVGXlw9yTuaPXMRLTw1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Het Zwarte Schaap",
         "url": "https://open.spotify.com/album/43ua8DSEx8NSWnAcOa19Rt"
       },
@@ -603,6 +579,30 @@
       "duration_ms": 184971,
       "name": "Het Zwarte Schaap",
       "url": "https://open.spotify.com/track/2oJanqscZDqDY7Xf6ds4FV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vaderland",
+        "url": "https://open.spotify.com/album/4Yu2FndCZi7jLRsDlZroxg"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "Jebroer",
+          "url": "https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk"
+        },
+        {
+          "name": "The Darkraver",
+          "url": "https://open.spotify.com/artist/3Lu9zTGOtzT2MZpfxdaHJv"
+        }
+      ],
+      "duration_ms": 208286,
+      "name": "Vaderland",
+      "url": "https://open.spotify.com/track/4EncVGXlw9yTuaPXMRLTw1"
     },
     {
       "added_at": null,
@@ -947,26 +947,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hatsikidee",
-        "url": "https://open.spotify.com/album/3va5yZwEUN4fckFXtxVp1G"
-      },
-      "artists": [
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        },
-        {
-          "name": "Jebroer",
-          "url": "https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk"
-        }
-      ],
-      "duration_ms": 175371,
-      "name": "Hatsikidee",
-      "url": "https://open.spotify.com/track/3OpwMh5yYfVaqHfPjfpacG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Never Die",
         "url": "https://open.spotify.com/album/0nMvTctnNySXjBarPW4zeu"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 200620,
       "name": "Never Die",
       "url": "https://open.spotify.com/track/3HlfIAAzfqRsAfaRwt85PF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hatsikidee",
+        "url": "https://open.spotify.com/album/3va5yZwEUN4fckFXtxVp1G"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "Jebroer",
+          "url": "https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk"
+        }
+      ],
+      "duration_ms": 175371,
+      "name": "Hatsikidee",
+      "url": "https://open.spotify.com/track/3OpwMh5yYfVaqHfPjfpacG"
     },
     {
       "added_at": null,

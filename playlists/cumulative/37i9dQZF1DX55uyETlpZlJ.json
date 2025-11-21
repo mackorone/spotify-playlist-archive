@@ -681,6 +681,28 @@
     },
     {
       "album": {
+        "name": "Amuku Dumuku",
+        "url": "https://open.spotify.com/album/4yfsH0o8Z27nhIsQ14ynmq"
+      },
+      "artists": [
+        {
+          "name": "Harshith Shetty",
+          "url": "https://open.spotify.com/artist/11JDJZpkeGxs4H5psWgRfN"
+        },
+        {
+          "name": "Jack Michael",
+          "url": "https://open.spotify.com/artist/7eRsFT88i7QL8HAW10raWF"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147556,
+      "name": "Amuku Dumuku",
+      "url": "https://open.spotify.com/track/6QtloMR4ELVROfgoEG2usu"
+    },
+    {
+      "album": {
         "name": "Anarkali",
         "url": "https://open.spotify.com/album/3KfwfuKsi0lDo6ZrLBITKS"
       },
@@ -826,7 +848,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 184000,
       "name": "Anu Anuvaagi",
       "url": "https://open.spotify.com/track/1m9TOMR1oF6bF46p0Z8XgD"
@@ -3762,6 +3784,24 @@
       "duration_ms": 197462,
       "name": "Hara Hara Ne",
       "url": "https://open.spotify.com/track/2GFFss8LtxhdQn6hatYbxw"
+    },
+    {
+      "album": {
+        "name": "HEY",
+        "url": "https://open.spotify.com/album/2q66NPP0EiJ5pOTN7MUOyI"
+      },
+      "artists": [
+        {
+          "name": "Darshan Shet",
+          "url": "https://open.spotify.com/artist/7LAxciuTqn342KPL96WM8q"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179998,
+      "name": "HEY",
+      "url": "https://open.spotify.com/track/019LcgwlEBzMcuBpBAMNth"
     },
     {
       "album": {
@@ -8796,7 +8836,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 185444,
       "name": "Ninade Nenapu",
       "url": "https://open.spotify.com/track/2WZy5hRa0nET4W1Wj7bcsc"

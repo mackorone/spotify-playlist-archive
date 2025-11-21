@@ -2,9 +2,9 @@
 
 ### [afro&b ](https://open.spotify.com/playlist/37i9dQZF1DWU4DdJqbjPl5)
 
-> Intersection of R&B and afrobeats\. Cover: Dave & Tems
+> Intersection of R&B and afrobeats\. Cover: Tems
 
-502 songs - 1 day 2 hr 23 min
+503 songs - 1 day 2 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,6 +219,7 @@
 | [I Lay](https://open.spotify.com/track/7mENpuXFCcZ68NNqaZHxPW) | [Kaien Cruz](https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE) | [I Lay](https://open.spotify.com/album/6tpBTjH8adtHgfx0hdPlFL) | 2:22 | 2023-06-08 | 2024-06-28 |
 | [I Lay \(feat\. Xenia Manasseh\)](https://open.spotify.com/track/3OfnodXWoUyR7bgKckTe5p) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86), [Kaien Cruz](https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE) | [I Lay \(feat\. Xenia Manasseh\)](https://open.spotify.com/album/5ANLOAQ4aeLFY3XOsdJ48i) | 2:28 | 2023-09-21 | 2023-11-16 |
 | [I Lied](https://open.spotify.com/track/1qZUGjuBSXh5sJfjYqOXWo) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [I Lied](https://open.spotify.com/album/1Fkg0HRPJ5NsY570H1KpsL) | 2:37 | 2023-04-27 | 2024-04-26 |
+| [I Like It](https://open.spotify.com/track/4HkWmhTPcL1SUex6Phpg5N) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H), [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd) | [The Sweetest Time](https://open.spotify.com/album/0kHP5lmMGgaPNS4tI8mwxX) | 3:20 | 2025-11-20 |  |
 | [I Wish \(feat\. Libianca\)](https://open.spotify.com/track/6Y22KIQd0RSREshosQvN2B) | [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [I Wish \(feat\. Libianca\)](https://open.spotify.com/album/1UMJ7lsAe3c4PhvaB3BA2o) | 2:43 | 2023-06-02 | 2024-06-21 |
 | [IDG](https://open.spotify.com/track/3k9Y1OBtIdPQNqbKILvJcD) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [V](https://open.spotify.com/album/5rvJ4cyNUU0jI9DF3r596d) | 3:07 | 2022-02-24 | 2022-07-29 |
 | [Il s'appelait Tayc](https://open.spotify.com/track/2BXseQq9ypAA6Bp1urAbM4) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Il s'appelait Tayc](https://open.spotify.com/album/5J0faaooCsZuiFkF7s18we) | 3:40 | 2025-11-07 |  |
@@ -433,7 +434,7 @@
 | [SUNRISE](https://open.spotify.com/track/4HqX6MBbPjnhxqy4Dk2B8f) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV), [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [SUNRISE](https://open.spotify.com/album/6YTlR2MyM23tvEnMBnDsj1) | 2:48 | 2024-06-21 | 2024-10-04 |
 | [SUPAHAWT](https://open.spotify.com/track/4ir8C4oqZRrLHlC6VQ3mTF) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [From Uganda With Love](https://open.spotify.com/album/11kGKF5IyOqwrg9Dpp7NzL) | 1:50 | 2023-02-16 | 2024-03-22 |
 | [sweeeet](https://open.spotify.com/track/7wr2RA6XCWzjOCHsjoi3ll) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [sweeeet](https://open.spotify.com/album/4KCcVKgRtQtU2QpfZ0fv3L) | 1:51 | 2024-06-28 | 2025-07-18 |
-| [Sweetest Time](https://open.spotify.com/track/2p0Gy479pqaL7GToLiLDhW) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H), [Ywaya Tajiri](https://open.spotify.com/artist/6wf9RfrBquBd6Galoe5oQE) | [Sweetest Time](https://open.spotify.com/album/1hsqYq7l4qAkEUEbzl1qtW) | 2:34 | 2025-03-28 |  |
+| [Sweetest Time](https://open.spotify.com/track/2p0Gy479pqaL7GToLiLDhW) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H), [Ywaya Tajiri](https://open.spotify.com/artist/6wf9RfrBquBd6Galoe5oQE) | [Sweetest Time](https://open.spotify.com/album/1hsqYq7l4qAkEUEbzl1qtW) | 2:34 | 2025-03-28 | 2025-11-21 |
 | [T'es à moi](https://open.spotify.com/track/05lsiP7uOT7VHocgg7k7Do) | [Says'z](https://open.spotify.com/artist/2vCOfKQ7WFyWmuHbTz7OgG) | [T'es à moi](https://open.spotify.com/album/7GWi9UIzOxgBsdi36coVv4) | 2:48 | 2025-02-14 |  |
 | [TAKE IT SLOW](https://open.spotify.com/track/1gUD4AvOAdEXbMfhTniGh2) | [Kashcpt](https://open.spotify.com/artist/2QRB0fbCA9ZCwe67h96PNs), [Aida Lae](https://open.spotify.com/artist/6O3zNHRRBNy1fVMuFsuJwc) | [LOVE LETTERS](https://open.spotify.com/album/73NLTYVU0jEFiWLzwiGxY3) | 2:58 | 2023-06-30 | 2023-08-19 |
 | [Take Me](https://open.spotify.com/track/2zE9ddVGmDmsClKyeTsEsx) | [Winny](https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz), [Thutmose](https://open.spotify.com/artist/1igl9M102nuD96lo3ZoW5d) | [Take Me](https://open.spotify.com/album/59JZYS1uK0A5znLlD8XQfQ) | 2:26 | 2024-08-02 | 2025-09-05 |
@@ -470,7 +471,7 @@
 | [up](https://open.spotify.com/track/6VuhHbxyPmFu1AHxjCGR5Q) | [MOONGA K.](https://open.spotify.com/artist/0bGetjEIDayY9BFzeCZL0d) | [up](https://open.spotify.com/album/63CZFvH19X9b5y5vXQwDqv) | 2:53 | 2022-05-19 | 2022-06-17 |
 | [US III](https://open.spotify.com/track/1HHNy0QJKUL8uO6G750zp5) | [Swayvee](https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [US III](https://open.spotify.com/album/2Dh75FbXSEiP3zs58Gf1KO) | 2:36 | 2025-08-25 |  |
 | [Uyazkhohlwa](https://open.spotify.com/track/2Z5dUCDAmotABDmBl9rNk2) | [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan), [Boohle](https://open.spotify.com/artist/6fHE8xZBCxzwer9DIbOmv4) | [Twenty Four](https://open.spotify.com/album/7r7hgemJYXUDU2ztBVVGMY) | 4:17 | 2024-08-02 |  |
-| [Valentin](https://open.spotify.com/track/4wezaReKIcpmua86MwTDjJ) | [Daniel Mundos](https://open.spotify.com/artist/3aLEhh4HY2Sdl0v0lWhZwc), [Isaac M](https://open.spotify.com/artist/3vyQ5qr9ke8gRA2VqQtg26) | [Valentin](https://open.spotify.com/album/1xnoh9EdDfUxtAXY21d80g) | 3:04 | 2025-10-17 |  |
+| [Valentin](https://open.spotify.com/track/4wezaReKIcpmua86MwTDjJ) | [Daniel Mundos](https://open.spotify.com/artist/3aLEhh4HY2Sdl0v0lWhZwc), [Isaac M](https://open.spotify.com/artist/3vyQ5qr9ke8gRA2VqQtg26) | [Valentin](https://open.spotify.com/album/1xnoh9EdDfUxtAXY21d80g) | 3:04 | 2025-10-17 | 2025-11-21 |
 | [Validation](https://open.spotify.com/track/7pG09NBFDlnWqJbzZhkrok) | [Amanda Mak](https://open.spotify.com/artist/3hijRjXXxU04yYuPRxKojg) | [Boxed Out](https://open.spotify.com/album/2dvxSFbGXXcXmvc26ixLh9) | 3:13 | 2022-02-17 | 2022-04-08 |
 | [Vibrate](https://open.spotify.com/track/0k4fBGbF0iRbfZWH3jHgfd) | [Matieu White](https://open.spotify.com/artist/5sMW0JQcC3IVmpZ7nr0Wh9), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [NUEVE](https://open.spotify.com/album/3gXJagiJdWcDak4otqcavq) | 2:23 | 2025-06-27 | 2025-09-19 |
 | [Video Games](https://open.spotify.com/track/1ImmEy1b7WFuFvQmDNnpbr) | [Ricky Tyler](https://open.spotify.com/artist/6eDg95U7HWOonWTaVdhATA), [Karun](https://open.spotify.com/artist/5RDH4iOoVeMAh0ylr16Obe) | [Video Games](https://open.spotify.com/album/6UNRdmz5jH99djUUpdocEe) | 3:36 | 2022-10-28 | 2023-06-03 |

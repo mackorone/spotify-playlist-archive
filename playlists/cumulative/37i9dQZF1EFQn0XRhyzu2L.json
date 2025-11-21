@@ -595,6 +595,24 @@
     },
     {
       "album": {
+        "name": "bandaids",
+        "url": "https://open.spotify.com/album/5JvfHXiAioipSTjXAHMXrX"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188802,
+      "name": "bandaids",
+      "url": "https://open.spotify.com/track/7vlkotgJCvYzVrmRqDYNYh"
+    },
+    {
+      "album": {
         "name": "Bass Bumps",
         "url": "https://open.spotify.com/album/1lcaaSjyiCsPf0ZPzWXCY9"
       },
@@ -8083,7 +8101,7 @@
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 217173,
+      "duration_ms": 217168,
       "name": "Nostalgic",
       "url": "https://open.spotify.com/track/7y7z8y4Txm3bVA1nCxFCjk"
     },
@@ -11715,7 +11733,7 @@
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 224360,
+      "duration_ms": 224358,
       "name": "War Paint",
       "url": "https://open.spotify.com/track/7FzMcPwWshq9KvSJCgycHv"
     },

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3QX3YzE51B2iuT5ol1U6BC">Murda Beatz</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-409 songs - 21 hr 34 min
+411 songs - 21 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Have Mercy](https://open.spotify.com/track/5SixeLvPsYpk7qq9lo5xYg) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Have Mercy](https://open.spotify.com/album/4N8qhDeqx8AHoEhMnYEC2Y) | 2:28 | 2023-12-14 |  |
 | [Have Mercy](https://open.spotify.com/track/17xePGxxXfP3iyvYBfk6Z0) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Have Mercy \(Official Video\)](https://open.spotify.com/album/0t88wJMagDTc3rRSjrVnTD) | 3:33 | 2023-12-13 | 2024-02-02 |
 | [Head Tap \(feat\. Tee Grizzley\)](https://open.spotify.com/track/15oUNnj8unqJJlbYbH1dAs) | [Don Q](https://open.spotify.com/artist/5TM9R6dNoJSMq23yZQD6Ee), [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Don Talk](https://open.spotify.com/album/3DZBQwtLEZSiuWXYAjLdbZ) | 3:09 | 2023-12-13 |  |
+| [Heard](https://open.spotify.com/track/0lONjaf6LdcxXsOya7USLm) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Episodes](https://open.spotify.com/album/1ilQqLfaXbyZB7sldz26Ox) | 3:05 | 2025-11-20 |  |
 | [Help Me Breathe \(feat\. Future\)](https://open.spotify.com/track/0K02VM2o0gbtgh6PHtgmUH) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Slime & B](https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG) | 3:50 | 2023-12-13 | 2025-06-28 |
 | [Here We Go Again](https://open.spotify.com/track/0UjreU6H687kMaZd6Vl3jo) | [Melii](https://open.spotify.com/artist/4udfTw7V8jI4AHi7PEfJfj) | [MOTIONS](https://open.spotify.com/album/7aWTt4WJJdlObKHDWjH8x8) | 2:37 | 2023-12-13 |  |
 | [HOLLYWOOD](https://open.spotify.com/track/1gVrmubxd0344yczu7EXjQ) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [HOLLYWOOD](https://open.spotify.com/album/5NOk5HClnVQvho2fB1p3eN) | 3:33 | 2025-06-27 |  |
@@ -237,6 +238,7 @@
 | [Mixy \(feat\. Summer Walker\)](https://open.spotify.com/track/1qMnyfVxKKlAxYrFPYTuph) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Only Built For Infinity Links](https://open.spotify.com/album/59hIIDzaPSH5O3QSz4zX0t) | 4:30 | 2025-01-09 | 2025-04-12 |
 | [Modern Day](https://open.spotify.com/track/2Igem6Q4sfvXGJ3JkG7Baw) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture III](https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3) | 4:01 | 2023-12-13 |  |
 | [Modern Day](https://open.spotify.com/track/5ZFntsgX3EN5d4YjBF7IHy) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Modern Day](https://open.spotify.com/album/7iiBCp7NGvH9ZQht6YLFlq) | 4:02 | 2023-12-16 | 2024-02-02 |
+| [Money](https://open.spotify.com/track/7ziuH9wraFdqL16ftH23uW) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Episodes](https://open.spotify.com/album/1ilQqLfaXbyZB7sldz26Ox) | 3:20 | 2025-11-20 |  |
 | [Moral to the Story](https://open.spotify.com/track/6KiU1qkQ2hU2rJzIy33G8Q) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane](https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp) | 2:33 | 2023-12-13 |  |
 | [More Than That](https://open.spotify.com/track/180WImKPbvdUrboKUov5f4) | [Lauren Jauregui](https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU) | [More Than That](https://open.spotify.com/album/5f1rhSMLYVduMx8B62dtPv) | 2:38 | 2023-12-13 |  |
 | [Most Beautiful Design \(feat\. London On Da Track & Future\)](https://open.spotify.com/track/2BkLXVUY6jMWcNg5snKSE9) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd), [London On Da Track](https://open.spotify.com/artist/5Nf5yishRW9Ye174sJISkg), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Why Not More?](https://open.spotify.com/album/3Q1P1nILtihXq0QbwmzQyl) | 3:39 | 2025-05-31 |  |

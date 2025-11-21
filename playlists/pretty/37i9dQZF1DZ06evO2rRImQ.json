@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Los Recoditos. The essential tracks, all in one playlist.",
-  "num_followers": 202895,
+  "num_followers": 202908,
   "original_name": "This Is Banda Los Recoditos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRu3AAAAAAAWmhi4rSJ9CIwNdvHGo4wg",
+  "snapshot_id": "aR0IgAAAAABKvzoZfr56QfF2rY7n1xQz",
   "tracks": [
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
         }
       ],
-      "duration_ms": 125746,
-      "name": "La Escuelita",
-      "url": "https://open.spotify.com/track/1TiPjfuaAbA3KgxzzweqIn"
+      "duration_ms": 208293,
+      "name": "No Te Quiero Perder",
+      "url": "https://open.spotify.com/track/7hncTibNAY3HQCQOr3N5Ou"
     },
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
         }
       ],
-      "duration_ms": 208293,
-      "name": "No Te Quiero Perder",
-      "url": "https://open.spotify.com/track/7hncTibNAY3HQCQOr3N5Ou"
+      "duration_ms": 125746,
+      "name": "La Escuelita",
+      "url": "https://open.spotify.com/track/1TiPjfuaAbA3KgxzzweqIn"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Esta Me Levanto",
-        "url": "https://open.spotify.com/album/3iqO0fCP37DdULocCXjxFA"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 158096,
-      "name": "De Esta Me Levanto",
-      "url": "https://open.spotify.com/track/75JwYbM8rNyGTzYtYIfRRd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/7B0TYXtXBC9tXV6wFnE5It"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 234093,
       "name": "Mi Enemigo El Amor - En Vivo",
       "url": "https://open.spotify.com/track/1mubehT6tuQaByo7qGR2Ie"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Esta Me Levanto",
+        "url": "https://open.spotify.com/album/3iqO0fCP37DdULocCXjxFA"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 158096,
+      "name": "De Esta Me Levanto",
+      "url": "https://open.spotify.com/track/75JwYbM8rNyGTzYtYIfRRd"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Gustos Que Me Doy",
-        "url": "https://open.spotify.com/album/37KAZDlCcCpLZuVltkaQfQ"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 187466,
-      "name": "Ya No Tiene Caso",
-      "url": "https://open.spotify.com/track/4NSisaKfhQhg14T4T088oW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Baraja",
         "url": "https://open.spotify.com/album/0WeABPJfCiAM9DSAetL8CR"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 175560,
       "name": "La Baraja",
       "url": "https://open.spotify.com/track/1iq9EbjK0nWVdGmbCvXFV3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Gustos Que Me Doy",
+        "url": "https://open.spotify.com/album/37KAZDlCcCpLZuVltkaQfQ"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 187466,
+      "name": "Ya No Tiene Caso",
+      "url": "https://open.spotify.com/track/4NSisaKfhQhg14T4T088oW"
     },
     {
       "added_at": null,

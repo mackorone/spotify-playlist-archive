@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8II2NIViuT.md) - [plain]
 
 > Stevie Wonder's rich catalog, interpreted by artists from a wide variety of musical genres.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,488 likes - 38 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,488 likes - 38 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8II2NIViuT.md) - [plain]
 | 10 | [Overjoyed](https://open.spotify.com/track/04VR6iuHxm0gTz9XP4ev2G) | [Victor Wooten](https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj) | [A Show Of Hands](https://open.spotify.com/album/1SxzJTh9zlwjgzMTOz8FNa) | 2:57 |
 | 11 | [If It's Magic](https://open.spotify.com/track/0F6HC5P6b4D3GASp8SFKw1) | [Deniece Williams](https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd) | [Gemini](https://open.spotify.com/album/70YZ1zflBKeWZs9tgP5hif) | 3:50 |
 | 12 | [I Don't Know Why I Love You](https://open.spotify.com/track/1M75vzJHYc1TDyP0UIA4YI) | [Andrew Roachford](https://open.spotify.com/artist/2s6dK0xYiInRqFdtqfBRkV) | [Encore](https://open.spotify.com/album/6OIDxAKEuoBVpK9ROJsu3B) | 3:24 |
-| 13 | [All in Love Is Fair](https://open.spotify.com/track/5M9TH1OD92fWsWqp5we4mY) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6) | [The Way We Were](https://open.spotify.com/album/0vTu2dD57pVlPvd3pfxUSS) | 3:49 |
+| 13 | [All in Love Is Fair](https://open.spotify.com/track/5M9TH1OD92fWsWqp5we4mY) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6) | [The Way We Were](https://open.spotify.com/album/0vTu2dD57pVlPvd3pfxUSS) | 3:51 |
 | 14 | [Come Back as a Flower](https://open.spotify.com/track/7gqKaBHIu2sPNJ7pyFIW1Z) | [Mayita Dinos](https://open.spotify.com/artist/3937mRMPHXGyCHU9AhMO2m) | [The Garden Is My Stage](https://open.spotify.com/album/0GSPDH3d6HPLVNTs9YI22p) | 5:10 |
 | 15 | [I Don't Know Why \(I Love You\)](https://open.spotify.com/track/3tTzPU0vZUHedKYaqjLnFy) | [The Brand New Heavies](https://open.spotify.com/artist/3DEveX6KVzhPDqq2VRuN14) | [Get Used to It](https://open.spotify.com/album/7oH7QMqwvX5v0vQdkGTCXB) | 3:32 |
 | 16 | [I Believe \(When I Fall In Love It Will Be Forever\)](https://open.spotify.com/track/1fdQg2yrTYCMOviVCw1Xdh) | [Art Garfunkel](https://open.spotify.com/artist/6kEsKkXuE4olX7m3mNLZkS) | [Breakaway](https://open.spotify.com/album/1XrVWVKKfRlD0waskKj5uy) | 3:51 |

@@ -4,7 +4,7 @@
 
 > Ten hours long continuous white noise to help you relax and let go.
 
-469 songs - 22 hr 12 min
+472 songs - 22 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Calming White Noise on my Mind](https://open.spotify.com/track/6ak7dK1uhAyJe8WKxcdsxR) | [Likko Sol](https://open.spotify.com/artist/2Or8PQp1nSscZ2gnIkx17E) | [Soothing White Noise Hum](https://open.spotify.com/album/4Nk39sup3qRN5EUKaL8eFk) | 4:04 | 2022-10-27 |  |
 | [Calmly Sleeping White Noise](https://open.spotify.com/track/5KIUGyCXbJ9LFGSsbvocHM) | [Atmosphere of Calm](https://open.spotify.com/artist/42KcSR239KEB90nE0wzA09) | [Calmly Sleeping White Noise](https://open.spotify.com/album/7mQRwVsSg8BD73glmIbHdp) | 3:12 | 2021-12-01 |  |
 | [Catching White Noise](https://open.spotify.com/track/1MCYnC24tTK0gtJnfc2ESg) | [XY Clouds](https://open.spotify.com/artist/7egIbqY4RQf9O8JDHHSzI6) | [Catching White Noise](https://open.spotify.com/album/3KD3HzUqQBxIGVKLPe1ktC) | 2:15 | 2021-12-01 |  |
+| [Celestial White Drift](https://open.spotify.com/track/6uZ07X3RBcNwPX8JjvCfU5) | [Enhanced Audio](https://open.spotify.com/artist/25y0vgD4fPJCkjynE2K02m) | [Celestial White Drift](https://open.spotify.com/album/6ewgtzxQT5eJ2BI9KtIcjJ) | 2:39 | 2025-11-20 |  |
 | [Chalky White Noise](https://open.spotify.com/track/0KHdC6VZxZKoGBZIOBXQCN) | [Noise Chillantro](https://open.spotify.com/artist/5on19ok7di3nj6e4OEh5PU) | [Chalky White Noise](https://open.spotify.com/album/3iaLuK4hAilg3K7fV1g2YQ) | 3:53 | 2025-03-04 |  |
 | [Chilly White Noise](https://open.spotify.com/track/5stlKROdHj0kCaeQfJt2Nq) | [The Tone\-Gens](https://open.spotify.com/artist/3lda2alb3vN921wjgmWhsq) | [Chilly White Noise](https://open.spotify.com/album/6vxv84g7du8ne7RHopEDEt) | 5:31 | 2024-07-31 |  |
 | [City Frequencies \- Part 3](https://open.spotify.com/track/6yHmrY6oY5KaI3zTSgQq8u) | [Asana Ventus](https://open.spotify.com/artist/3D8uKbNS9NX6q57gX9b08V) | [City Frequencies](https://open.spotify.com/album/1NLTEV3PLLtf9oAyTUq7LK) | 2:11 | 2021-12-01 | 2022-06-10 |
@@ -88,6 +89,7 @@
 | [Dreams & Calmness](https://open.spotify.com/track/295uck3ky42Qj4rxbISGG5) | [X.L.T](https://open.spotify.com/artist/5XmANDHn1nUVL3rVyohz9t) | [Dreams & Calmness](https://open.spotify.com/album/2HOETaIk01hB0glxrTVk39) | 2:39 | 2021-12-01 | 2025-11-14 |
 | [Dreamy Noise](https://open.spotify.com/track/5u7BfGhAyEdDOuE7SwKmPn) | [Peaceful Me](https://open.spotify.com/artist/0kqpe0tVo45rneU3mFLheu) | [White Dream Noise](https://open.spotify.com/album/7mrF4ggROKkyntvBLEl590) | 2:22 | 2022-03-15 |  |
 | [Dreamy White Water](https://open.spotify.com/track/6RW7Mx0mQeEDXCxPu8Fpnu) | [The SubOceaners](https://open.spotify.com/artist/5JGfWE8Ws1aBP8283nSy8R) | [Dreaming under Water](https://open.spotify.com/album/7GEjOabKlEyD4nXEpDuuop) | 4:06 | 2021-12-01 | 2022-06-10 |
+| [Drizzling White Noise](https://open.spotify.com/track/0qSIzXmJv5L9nk0YIJpTst) | [Molec](https://open.spotify.com/artist/4ekMp1ljXRUJpINhotauKT) | [Drizzling White Noise](https://open.spotify.com/album/4KcsZBPWy3LNaS3ODuTe4g) | 3:51 | 2025-11-20 |  |
 | [Dull White Noise](https://open.spotify.com/track/2NbKo7vh9ysSALZTCb2wiw) | [Valdervande](https://open.spotify.com/artist/5Opw5neCmYFjyVFuUE0lRX) | [Out Cold with White Noise](https://open.spotify.com/album/7izx6fRu7oJnc608X5wG70) | 4:04 | 2022-10-27 |  |
 | [Echoes From Nowhere](https://open.spotify.com/track/5mGPuajka7C75r5sFwbN10) | [Aguamenti](https://open.spotify.com/artist/51zDhvo49NXlaQpANXgOtb) | [Stillness Speaks \(White Noise\)](https://open.spotify.com/album/0vyJCTLqiUDsyaJiwG5EtF) | 3:05 | 2024-02-02 | 2025-11-14 |
 | [Eggshell White Noise](https://open.spotify.com/track/2KQqc8N4myvQciVgjwhWGH) | [The Clear Mind](https://open.spotify.com/artist/17poofi2R6BSgWBubaEbGs) | [Eggshell White Noise](https://open.spotify.com/album/7vUivGX1FkXnOeBeAyX4cd) | 4:49 | 2024-07-31 |  |
@@ -235,6 +237,7 @@
 | [Platinum White Noise](https://open.spotify.com/track/61CPJZf1FqRiILxKsltqRB) | [Noise Design](https://open.spotify.com/artist/4L5Dto2z6lWOgm19IXWNDr) | [Platinum White Noise](https://open.spotify.com/album/32QO4HBhet75IezXGbYFdc) | 2:56 | 2021-12-01 | 2022-10-28 |
 | [Pleasing Noise](https://open.spotify.com/track/3TdbElTKUMHjpHspFjiB9q) | [Spectral Noise](https://open.spotify.com/artist/1p8WCbswSlqh1i4IZYOdzk) | [White Sleep](https://open.spotify.com/album/6PjIk5Ix7tgB4jOM3jJ7gK) | 2:34 | 2021-12-01 | 2022-06-10 |
 | [Porcelain Beauty Sleep](https://open.spotify.com/track/1L3KAfZdvqDREejuysnji9) | [A Dreaming Machine](https://open.spotify.com/artist/7rybj6DFBE9HYjDsD4ILuA) | [Porcelain Beauty Sleep](https://open.spotify.com/album/5q6fAsgKU7iRY0wbFDFNK8) | 5:37 | 2024-07-31 |  |
+| [Positive White Noise](https://open.spotify.com/track/7I8HRHrAzWJqw2RiSTug8S) | [Lavia 6](https://open.spotify.com/artist/1TaKbrkFRAq5YJoMieIMPR) | [Positive White Noise](https://open.spotify.com/album/0IyivTIcztRM6KxKpyOKn4) | 4:23 | 2025-11-20 |  |
 | [Priceless White Noise](https://open.spotify.com/track/198ccToP7ZpJUUUjOURLS1) | [ZNoize](https://open.spotify.com/artist/2WHtWqbEUv3kRTBhTdeLIG) | [Priceless White Noise](https://open.spotify.com/album/2UNqPOWgKSLRvSxeBiotwb) | 3:48 | 2025-11-13 |  |
 | [Qualitätsschlaf](https://open.spotify.com/track/43rGLS6OxlCNC9QvaHUXv8) | [Sleep FX\-Aufnahmen](https://open.spotify.com/artist/7ndOQQEeVQRksJMR6Ywmly) | [Qualitätsschlaf](https://open.spotify.com/album/6BpuM3bXaQrGQHrbnzNXkV) | 1:52 | 2021-12-01 | 2023-06-29 |
 | [Quantum White](https://open.spotify.com/track/5DqjEVkM7PA3bMaEhkrUdb) | [Aileron](https://open.spotify.com/artist/2KETNse3N25ZwsHhq2iQnt) | [Sonorous Dream](https://open.spotify.com/album/6jqLYgzvyadHTBzY38anPM) | 2:59 | 2022-02-25 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Dive into the heart of indie and alternative rock with our handpicked playlist. Discover raw energy, powerful riffs, and the soulful essence of independent rock music. Rock on!",
-  "num_followers": 759,
+  "num_followers": 758,
   "original_name": "Rock Indie Vibes",
   "owner": {
     "name": "Indie Music",
     "url": "https://open.spotify.com/user/eqiomkuuw0lc4nplre0xyx9dg"
   },
-  "snapshot_id": "AAAFyZZ8nZYqjoBucClBZaYLsjjgQeLp",
+  "snapshot_id": "AAAFzM4EFYf59CgjRNAXpN9Xhw015YRt",
   "tracks": [
     {
       "added_at": "2024-01-29 18:13:09",
@@ -2035,6 +2035,54 @@
       "duration_ms": 267333,
       "name": "Oh Low Joe",
       "url": "https://open.spotify.com/track/2xVsy38lQn5dVrFhN1kr5I"
+    },
+    {
+      "added_at": "2025-11-20 08:53:59",
+      "album": {
+        "name": "Doveland",
+        "url": "https://open.spotify.com/album/3xgHYrciva3U6p6I1rPovM"
+      },
+      "artists": [
+        {
+          "name": "Astro-Lloyd",
+          "url": "https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2"
+        }
+      ],
+      "duration_ms": 191657,
+      "name": "Doveland",
+      "url": "https://open.spotify.com/track/3OEjExzjiewsOFWRsmYB3B"
+    },
+    {
+      "added_at": "2025-11-20 09:31:32",
+      "album": {
+        "name": "Strange Addiction",
+        "url": "https://open.spotify.com/album/0dWEaFnP8w5QS60vyeBm2R"
+      },
+      "artists": [
+        {
+          "name": "Taylor D",
+          "url": "https://open.spotify.com/artist/6EYjKhsmEVEBEvyvtta5sg"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Strange Addiction",
+      "url": "https://open.spotify.com/track/1J1SHqJbS4ejLSvjdJph5W"
+    },
+    {
+      "added_at": "2025-11-20 11:16:47",
+      "album": {
+        "name": "Cigarette",
+        "url": "https://open.spotify.com/album/1V3mMM3bSlH3RYOvpQ4apt"
+      },
+      "artists": [
+        {
+          "name": "sullivan grace band",
+          "url": "https://open.spotify.com/artist/3ksrh2WkrKJmEeerKl2bpd"
+        }
+      ],
+      "duration_ms": 143289,
+      "name": "Cigarette",
+      "url": "https://open.spotify.com/track/56tdisH0RpjtEIxdTkCmny"
     }
   ],
   "unique_name": "Rock Indie Vibes",

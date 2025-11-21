@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Poppy is on top of today's best Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,628,293 likes - 79 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,628,778 likes - 79 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 78 | [Spit XXV](https://open.spotify.com/track/0PCH56B4BPJuD7qikh6Y7e) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Spit XXV](https://open.spotify.com/album/0WYZiJ2D46evxGdyAJOchS) | 2:45 |
 | 79 | [Coda](https://open.spotify.com/track/7HgXurNHAac0UPMpTKWCq4) | [NOVELISTS](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [CODA](https://open.spotify.com/album/1y3G3ozQ3CTRkBMi2N8QAn) | 4:09 |
 
-Snapshot ID: `AAAAAIZ6Ci/5/4UPvIvKYlDifiPuGQr3`
+Snapshot ID: `AAAAAF7P2IlFwiX1s28kSUI8abI1XEDm`

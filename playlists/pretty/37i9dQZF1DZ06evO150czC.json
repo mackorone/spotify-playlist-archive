@@ -6,28 +6,8 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRu3AAAAAAC4gDJ0RPomIvbvIyoSEHcU",
+  "snapshot_id": "aR0IgAAAAACaLud5zZYpwCOAgKU/kYd9",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sou Teu Deus (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6PBvC1CNmGSnCuX0XMAGUF"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        },
-        {
-          "name": "Samuel Lima",
-          "url": "https://open.spotify.com/artist/1mtubd9Vq32fQtpEQZ6H97"
-        }
-      ],
-      "duration_ms": 293561,
-      "name": "Sou Teu Deus (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0PVw1ZzghEVouil3OUuHQC"
-    },
     {
       "added_at": null,
       "album": {
@@ -379,6 +359,26 @@
       "duration_ms": 248035,
       "name": "Tira-me do Vale",
       "url": "https://open.spotify.com/track/3TtolRnx8AHhlb42ZDKPBX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sou Teu Deus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6PBvC1CNmGSnCuX0XMAGUF"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        },
+        {
+          "name": "Samuel Lima",
+          "url": "https://open.spotify.com/artist/1mtubd9Vq32fQtpEQZ6H97"
+        }
+      ],
+      "duration_ms": 293561,
+      "name": "Sou Teu Deus (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0PVw1ZzghEVouil3OUuHQC"
     },
     {
       "added_at": null,

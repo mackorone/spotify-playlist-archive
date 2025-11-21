@@ -4,7 +4,7 @@
 
 > 2025 RADAR登場！持續發掘香港未來新聲！Cover: Arvin 曾傲棐
 
-282 songs - 16 hr 24 min
+283 songs - 16 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [WHO A U ?](https://open.spotify.com/track/1niM8dlyurDRTsrQCMKMiB) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR), [MAEL](https://open.spotify.com/artist/6EnMjgUyHGAVJDp1IvQWOp) | [WHO A U ?](https://open.spotify.com/album/0Lc6Tipv0n7tiBbI880STO) | 3:22 | 2023-03-23 | 2023-04-14 |
 | [WHO A U ?](https://open.spotify.com/track/6i4vhwE4EeqpEbUUJuvHKJ) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR), [MAEL](https://open.spotify.com/artist/6EnMjgUyHGAVJDp1IvQWOp) | [Human Heart](https://open.spotify.com/album/46UcZkRj4FkwY9vNb89gij) | 3:23 | 2025-09-08 | 2025-10-07 |
 | [WHO A U ?](https://open.spotify.com/track/2DQu0YogNHLS2ibdSvxMVf) | [MAEL](https://open.spotify.com/artist/6EnMjgUyHGAVJDp1IvQWOp), [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [WHO A U ?](https://open.spotify.com/album/4Sbu7zsMLYtlVUeYdsQgzD) | 3:22 | 2022-05-26 | 2023-03-30 |
+| [Will you answer me?](https://open.spotify.com/track/5KtfSChXZpCJs2DGAQsR0x) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Will you answer me?](https://open.spotify.com/album/2tnI7S4FpHhZrS47mndVwx) | 3:33 | 2025-11-20 |  |
 | [working holiday](https://open.spotify.com/track/2vgpjJNqLYTf7nDYdvoXY6) | [kiyu](https://open.spotify.com/artist/2QliS3HKbo1IrXUmC9hg5C), [Nicknames](https://open.spotify.com/artist/1y2mXaGQXFVnHm5QuEz5xO) | [working holiday](https://open.spotify.com/album/6RQ77NGRncu7yIIQGXuNwA) | 3:08 | 2023-04-06 | 2023-05-26 |
 | [You took my breath away](https://open.spotify.com/track/3IYJXbKHHbTzJzIfZllkOz) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [You took my breath away](https://open.spotify.com/album/0dui9mfkjI8PQShouA7VNz) | 3:04 | 2023-06-29 | 2024-03-29 |
 | [You, Me, Dance](https://open.spotify.com/track/5WpJG1jatsWZZHildSbGSW) | [Almond Milk](https://open.spotify.com/artist/6VlsbGW0ge24jpMuRka5eN) | [Almond Milk](https://open.spotify.com/album/2wOqA3RVKIFxeZc8WpMlef) | 3:05 | 2024-03-28 | 2025-03-28 |

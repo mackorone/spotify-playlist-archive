@@ -1,6 +1,6 @@
 {
   "description": "Beautiful electronic music for melancholy moments.",
-  "num_followers": 264240,
+  "num_followers": 264321,
   "original_name": "Melantronic",
   "owner": {
     "name": "Spotify",
@@ -451,22 +451,6 @@
     {
       "added_at": "2025-10-03 08:23:35",
       "album": {
-        "name": "Yesterday",
-        "url": "https://open.spotify.com/album/1Ay7BiWxgugN1YXqomG7w1"
-      },
-      "artists": [
-        {
-          "name": "breathe.",
-          "url": "https://open.spotify.com/artist/6XrEYPg6rrQMV4GKabTxbE"
-        }
-      ],
-      "duration_ms": 204100,
-      "name": "Yesterday",
-      "url": "https://open.spotify.com/track/2dMVIVXxaO9v2ImiSrWO0C"
-    },
-    {
-      "added_at": "2025-10-03 08:23:35",
-      "album": {
         "name": "Something Right",
         "url": "https://open.spotify.com/album/3NgRCeEQNc1mSlcbQBUnEI"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 175040,
       "name": "Something Right",
       "url": "https://open.spotify.com/track/4m7n8fwmFXIopFBzWbmlzj"
+    },
+    {
+      "added_at": "2025-10-03 08:23:35",
+      "album": {
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/1Ay7BiWxgugN1YXqomG7w1"
+      },
+      "artists": [
+        {
+          "name": "breathe.",
+          "url": "https://open.spotify.com/artist/6XrEYPg6rrQMV4GKabTxbE"
+        }
+      ],
+      "duration_ms": 204100,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/2dMVIVXxaO9v2ImiSrWO0C"
     },
     {
       "added_at": "2025-10-03 08:23:35",
@@ -559,22 +559,6 @@
     {
       "added_at": "2025-10-03 08:23:35",
       "album": {
-        "name": "storm",
-        "url": "https://open.spotify.com/album/1nI4gPdghiiOav4iubD6d3"
-      },
-      "artists": [
-        {
-          "name": "Night Tapes",
-          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
-        }
-      ],
-      "duration_ms": 248264,
-      "name": "storm",
-      "url": "https://open.spotify.com/track/7txKOajpjZ1ae6vDSnhliR"
-    },
-    {
-      "added_at": "2025-10-03 08:23:35",
-      "album": {
         "name": "Tides",
         "url": "https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY"
       },
@@ -595,6 +579,22 @@
     {
       "added_at": "2025-10-03 08:23:35",
       "album": {
+        "name": "storm",
+        "url": "https://open.spotify.com/album/1nI4gPdghiiOav4iubD6d3"
+      },
+      "artists": [
+        {
+          "name": "Night Tapes",
+          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
+        }
+      ],
+      "duration_ms": 248264,
+      "name": "storm",
+      "url": "https://open.spotify.com/track/7txKOajpjZ1ae6vDSnhliR"
+    },
+    {
+      "added_at": "2025-10-03 08:23:35",
+      "album": {
         "name": "If You're Here With Me",
         "url": "https://open.spotify.com/album/5uYuUtiS2gs7X2tVLGkz6M"
       },
@@ -607,6 +607,26 @@
       "duration_ms": 208000,
       "name": "If You're Here With Me",
       "url": "https://open.spotify.com/track/1gp4PEvDlABR6els2tgWdc"
+    },
+    {
+      "added_at": "2025-10-03 08:23:35",
+      "album": {
+        "name": "No Pressure",
+        "url": "https://open.spotify.com/album/1FpC5TXsEmF9NTRs1f6yOi"
+      },
+      "artists": [
+        {
+          "name": "Dejector",
+          "url": "https://open.spotify.com/artist/0WwAYiS9iUf3VNUqRniJsi"
+        },
+        {
+          "name": "FARLEY",
+          "url": "https://open.spotify.com/artist/7uYA1SvZLemlrGJxyqdf4O"
+        }
+      ],
+      "duration_ms": 195208,
+      "name": "No Pressure",
+      "url": "https://open.spotify.com/track/3g0QMSf4ywaDXXs4n2Ryc6"
     },
     {
       "added_at": "2025-10-03 08:23:35",
@@ -631,26 +651,6 @@
       "duration_ms": 193032,
       "name": "Salve",
       "url": "https://open.spotify.com/track/68N8LWiI28QpOe80WQ96b1"
-    },
-    {
-      "added_at": "2025-10-03 08:23:35",
-      "album": {
-        "name": "No Pressure",
-        "url": "https://open.spotify.com/album/1FpC5TXsEmF9NTRs1f6yOi"
-      },
-      "artists": [
-        {
-          "name": "Dejector",
-          "url": "https://open.spotify.com/artist/0WwAYiS9iUf3VNUqRniJsi"
-        },
-        {
-          "name": "FARLEY",
-          "url": "https://open.spotify.com/artist/7uYA1SvZLemlrGJxyqdf4O"
-        }
-      ],
-      "duration_ms": 195208,
-      "name": "No Pressure",
-      "url": "https://open.spotify.com/track/3g0QMSf4ywaDXXs4n2Ryc6"
     },
     {
       "added_at": "2025-10-03 08:23:35",
@@ -703,6 +703,22 @@
     {
       "added_at": "2025-10-03 08:23:35",
       "album": {
+        "name": "Ghosts",
+        "url": "https://open.spotify.com/album/7qsfQ7phMfTmrS57H3ssZl"
+      },
+      "artists": [
+        {
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+        }
+      ],
+      "duration_ms": 254117,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/7GT3Wx3bZFE9gDwRqat0Tx"
+    },
+    {
+      "added_at": "2025-10-03 08:23:35",
+      "album": {
         "name": "Turtle Jazz",
         "url": "https://open.spotify.com/album/73C1QVOlWsW6qhhknFI6Ws"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 193613,
       "name": "Turtle Jazz",
       "url": "https://open.spotify.com/track/6Vx2Z3efuMINFSDOX1PoAu"
-    },
-    {
-      "added_at": "2025-10-03 08:23:35",
-      "album": {
-        "name": "Ghosts",
-        "url": "https://open.spotify.com/album/7qsfQ7phMfTmrS57H3ssZl"
-      },
-      "artists": [
-        {
-          "name": "Catching Flies",
-          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
-        }
-      ],
-      "duration_ms": 254117,
-      "name": "Ghosts",
-      "url": "https://open.spotify.com/track/7GT3Wx3bZFE9gDwRqat0Tx"
     },
     {
       "added_at": "2025-10-03 08:23:35",
@@ -791,26 +791,6 @@
     {
       "added_at": "2025-10-03 08:23:35",
       "album": {
-        "name": "Love Language",
-        "url": "https://open.spotify.com/album/70Vz3MZVPq8Lw89xK2QsS6"
-      },
-      "artists": [
-        {
-          "name": "Chaos In The CBD",
-          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
-        },
-        {
-          "name": "Nathan Haines",
-          "url": "https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy"
-        }
-      ],
-      "duration_ms": 278379,
-      "name": "Love Language",
-      "url": "https://open.spotify.com/track/4WzXJHxNBHuMuGg89mZFh1"
-    },
-    {
-      "added_at": "2025-10-03 08:23:35",
-      "album": {
         "name": "Loom",
         "url": "https://open.spotify.com/album/2kfPunUS5HqupNVAueFmgM"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 226866,
       "name": "Loom (feat. Bonobo)",
       "url": "https://open.spotify.com/track/3Yagxg6rtkwN01AYzA862i"
+    },
+    {
+      "added_at": "2025-10-03 08:23:35",
+      "album": {
+        "name": "Love Language",
+        "url": "https://open.spotify.com/album/70Vz3MZVPq8Lw89xK2QsS6"
+      },
+      "artists": [
+        {
+          "name": "Chaos In The CBD",
+          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
+        },
+        {
+          "name": "Nathan Haines",
+          "url": "https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy"
+        }
+      ],
+      "duration_ms": 278379,
+      "name": "Love Language",
+      "url": "https://open.spotify.com/track/4WzXJHxNBHuMuGg89mZFh1"
     },
     {
       "added_at": "2025-10-03 08:23:35",
@@ -867,22 +867,6 @@
     {
       "added_at": "2025-10-03 08:23:35",
       "album": {
-        "name": "October",
-        "url": "https://open.spotify.com/album/5PdBG1Q3tLZlSLoxB1LtK8"
-      },
-      "artists": [
-        {
-          "name": "Icarus",
-          "url": "https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3"
-        }
-      ],
-      "duration_ms": 354102,
-      "name": "October",
-      "url": "https://open.spotify.com/track/6FIQ8o2hqlDmHQFoBKmKgW"
-    },
-    {
-      "added_at": "2025-10-03 08:23:35",
-      "album": {
         "name": "Daybreak",
         "url": "https://open.spotify.com/album/23Ly2dZl37JelCLEZ3c3NX"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 141818,
       "name": "Daybreak",
       "url": "https://open.spotify.com/track/6PsEx3SkcwMW7lG50kdxQY"
+    },
+    {
+      "added_at": "2025-10-03 08:23:35",
+      "album": {
+        "name": "October",
+        "url": "https://open.spotify.com/album/5PdBG1Q3tLZlSLoxB1LtK8"
+      },
+      "artists": [
+        {
+          "name": "Icarus",
+          "url": "https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3"
+        }
+      ],
+      "duration_ms": 354102,
+      "name": "October",
+      "url": "https://open.spotify.com/track/6FIQ8o2hqlDmHQFoBKmKgW"
     },
     {
       "added_at": "2025-10-03 08:23:35",

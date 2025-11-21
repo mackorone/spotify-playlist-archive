@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover:  Gabriel Jacoby
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,524 likes - 198 songs - 9 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,533 likes - 198 songs - 9 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

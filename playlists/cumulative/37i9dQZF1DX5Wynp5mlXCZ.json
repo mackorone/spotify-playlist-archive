@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0422\u043e\u043f\u043e\u0432\u0456 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0457 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u043e\u0457 \u043f\u043e\u043f-\u043c\u0443\u0437\u0438\u043a\u0438. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: Klavdia Petrivna",
+  "description": "\u0422\u043e\u043f\u043e\u0432\u0456 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0457 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u043e\u0457 \u043f\u043e\u043f-\u043c\u0443\u0437\u0438\u043a\u0438. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: MAYOROVA",
   "name": "\u0422\u041e\u041f \u041f\u041e\u041f 2025",
   "tracks": [
     {
@@ -240,7 +240,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 184000,
       "name": "Amore porfavor",
       "url": "https://open.spotify.com/track/6xfnBcyfkXpuuZzSjU8dPg"
@@ -425,6 +425,24 @@
     },
     {
       "album": {
+        "name": "BLA BLA",
+        "url": "https://open.spotify.com/album/361dWFtyVFIrsK1orLh7Zz"
+      },
+      "artists": [
+        {
+          "name": "MAYOROVA",
+          "url": "https://open.spotify.com/artist/3C25DyRTXI62MvfFYBMP7Y"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116250,
+      "name": "BLA BLA",
+      "url": "https://open.spotify.com/track/1NnelvgtSmQWSOWypc6OHn"
+    },
+    {
+      "album": {
         "name": "Black Friday (pretty like the sun)",
         "url": "https://open.spotify.com/album/4CAe3r1nsTTAjGcWqGZbAr"
       },
@@ -520,7 +538,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 231174,
       "name": "Born Again (feat. Doja Cat & RAYE)",
       "url": "https://open.spotify.com/track/4CPuDVC8jhhK6lA2DIt8Cf"
@@ -658,7 +676,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 180532,
       "name": "Chasing Paradise",
       "url": "https://open.spotify.com/track/0xSjAuPhm9tJXX2nRt2Avv"
@@ -1204,7 +1222,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-14",
+      "date_removed": null,
       "duration_ms": 177138,
       "name": "FENOMENAL'",
       "url": "https://open.spotify.com/track/1b977NIX97rPhUrvt57udY"
@@ -1358,7 +1376,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 239720,
       "name": "Garden Of Eden",
       "url": "https://open.spotify.com/track/4mUR5Tv0CvJtpmnUtzeIgd"
@@ -1568,10 +1586,28 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 184698,
       "name": "Handlebars (feat. Dua Lipa)",
       "url": "https://open.spotify.com/track/3gJAFFELdZyIM8tiwLAikg"
+    },
+    {
+      "album": {
+        "name": "HATER",
+        "url": "https://open.spotify.com/album/1uPuo61SqbXvbmq6wl98SC"
+      },
+      "artists": [
+        {
+          "name": "badactress",
+          "url": "https://open.spotify.com/artist/6tWEWLQxHcea8qSHfbyWUV"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195842,
+      "name": "HATER",
+      "url": "https://open.spotify.com/track/7CpDEbTXpxRbfp6SZ5wBmR"
     },
     {
       "album": {
@@ -1768,6 +1804,28 @@
       "duration_ms": 165600,
       "name": "HONOR",
       "url": "https://open.spotify.com/track/0vDwPeU7DtJYmBr38o7Cn6"
+    },
+    {
+      "album": {
+        "name": "HORA",
+        "url": "https://open.spotify.com/album/1zvYTSGjOKxgoEque7gpHu"
+      },
+      "artists": [
+        {
+          "name": "Irina Rimes",
+          "url": "https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj"
+        },
+        {
+          "name": "Jerry Heil",
+          "url": "https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145322,
+      "name": "HORA",
+      "url": "https://open.spotify.com/track/5PBohl4TCGfmUkDxsYgAuk"
     },
     {
       "album": {
@@ -1986,7 +2044,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-17",
+      "date_removed": null,
       "duration_ms": 217322,
       "name": "If you know what I mean",
       "url": "https://open.spotify.com/track/6LOGjbEFqTrjfNsGgtd1eC"
@@ -2204,7 +2262,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 123517,
       "name": "like JENNIE",
       "url": "https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1"
@@ -2540,7 +2598,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 275780,
       "name": "More to Lose",
       "url": "https://open.spotify.com/track/2xAHKs8W4lcOLweTCAPUbF"
@@ -3009,6 +3067,24 @@
     },
     {
       "album": {
+        "name": "Persha Rika",
+        "url": "https://open.spotify.com/album/3yxNfBzZnbSxCFanJsssxF"
+      },
+      "artists": [
+        {
+          "name": "LATEXFAUNA",
+          "url": "https://open.spotify.com/artist/23z16jDNwdZLV9fvE7KliP"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284680,
+      "name": "Persha Rika",
+      "url": "https://open.spotify.com/track/5fWKuZGNM9mKGEDf0YigZK"
+    },
+    {
+      "album": {
         "name": "PIXELATED KISSES",
         "url": "https://open.spotify.com/album/3FLlai6YTV9IwCU0KolG1w"
       },
@@ -3096,7 +3172,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 163352,
       "name": "Priceless (feat. LISA)",
       "url": "https://open.spotify.com/track/5MI9rnOsAayuxi7pKVydNg"
@@ -3404,7 +3480,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 183747,
       "name": "Siren sounds (bonus)",
       "url": "https://open.spotify.com/track/181yGUB8xEh4LfK8KhC4Wa"
@@ -3476,7 +3552,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 156582,
       "name": "Sorry I'm Here For Someone Else",
       "url": "https://open.spotify.com/track/3x3K1RP3Zfi2qeMR8kyrNO"
@@ -4380,7 +4456,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-29",
+      "date_removed": null,
       "duration_ms": 217582,
       "name": "Walk of Fame (feat. Brittany Howard) - Edit",
       "url": "https://open.spotify.com/track/22tmzHt5QJ2sMKJefaqkjn"
@@ -4798,7 +4874,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-31",
+      "date_removed": null,
       "duration_ms": 132626,
       "name": "\u0410\u0443 \u0430\u0443",
       "url": "https://open.spotify.com/track/6LNfmj0I41Q9b1ePvZldeX"
@@ -4834,7 +4910,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 177600,
       "name": "\u0411\u0430\u043b\u043a\u043e\u043d\u0438",
       "url": "https://open.spotify.com/track/2lzFiA4s2GfjRFDomh8oYD"
@@ -5902,7 +5978,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 138297,
       "name": "\u041a\u043e\u0444\u0435\u0457\u043d",
       "url": "https://open.spotify.com/track/5EHbS0giCz2gq6G6MU9gxa"
@@ -6307,6 +6383,24 @@
     },
     {
       "album": {
+        "name": "\u041c\u0438 \u0445\u043e\u0432\u0430\u0454\u043c\u0441\u044f",
+        "url": "https://open.spotify.com/album/6PhSWNJyMjpUBRGDFBXlf3"
+      },
+      "artists": [
+        {
+          "name": "Jamala",
+          "url": "https://open.spotify.com/artist/4EXfia20rgVLyubQiYtOIC"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171786,
+      "name": "\u041c\u0438 \u0445\u043e\u0432\u0430\u0454\u043c\u0441\u044f",
+      "url": "https://open.spotify.com/track/5EA2Y7d3YSl29kjcvmU274"
+    },
+    {
+      "album": {
         "name": "\u041c\u0438\u043b\u0430 \u043c\u043e\u044f",
         "url": "https://open.spotify.com/album/0n4s3uO21LE59oTzMCoQ3x"
       },
@@ -6568,6 +6662,24 @@
       "duration_ms": 213625,
       "name": "\u041d\u0430 \u0432\u0456\u043d\u0456\u043b\u0456",
       "url": "https://open.spotify.com/track/24vXFJ3D1WSEU2eYMBCSsh"
+    },
+    {
+      "album": {
+        "name": "\u0422\u0443\u0442 \u0456 \u0437\u0430\u0440\u0430\u0437",
+        "url": "https://open.spotify.com/album/2FzdfpP13nCD7iZa792ccD"
+      },
+      "artists": [
+        {
+          "name": "ZLATA OGNEVICH",
+          "url": "https://open.spotify.com/artist/187fS4swOKe4m6p5G0ciwF"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158108,
+      "name": "\u041d\u0430 \u043d\u0430\u0448\u043e\u043c\u0443 \u043f\u043e\u0432\u0435\u0440\u0441\u0456",
+      "url": "https://open.spotify.com/track/4xUS7xMl8fQH76W8LBMpKU"
     },
     {
       "album": {
@@ -6908,7 +7020,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-14",
+      "date_removed": null,
       "duration_ms": 187000,
       "name": "\u041d\u0435\u0431\u0435\u0441\u0430\u043c\u0438",
       "url": "https://open.spotify.com/track/1sEXmH4Ch0o6p2EETkgErS"
@@ -7912,7 +8024,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-14",
+      "date_removed": null,
       "duration_ms": 193608,
       "name": "\u0422\u0432\u0456\u0439 \u0430\u0440\u043e\u043c\u0430\u0442",
       "url": "https://open.spotify.com/track/2XuMhr7BgehygNPq1ffQqF"
@@ -7948,7 +8060,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 179502,
       "name": "\u0422\u0435\u0431\u0435-\u0441\u0435\u0431\u0435",
       "url": "https://open.spotify.com/track/23vnEYRBxsgniSbqJZw3pp"
@@ -8378,7 +8490,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 164543,
       "name": "\u0427\u041e\u041c\u0423",
       "url": "https://open.spotify.com/track/4mj7zAZwUpCDuPVdZEQlH3"

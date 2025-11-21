@@ -2,9 +2,9 @@
 
 ### [New Pop UK](https://open.spotify.com/playlist/37i9dQZF1DWXWBMhgr0bkX)
 
-> Unmissable emerging pop feat\. Ruby Roberts 🧚
+> Unmissable emerging pop feat\. Absolutely
 
-894 songs - 1 day 21 hr 48 min
+898 songs - 1 day 22 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Aftertaste](https://open.spotify.com/track/0KPA2aCi4kfDGqynXmgPVc) | [Finn Askew](https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X) | [Aftertaste](https://open.spotify.com/album/4MOQ2Fhg9OjhbhMifdRh3d) | 2:33 | 2024-06-04 | 2024-10-05 |
 | [Againandagain](https://open.spotify.com/track/66r78CH8yH5CTxOCwnE3sL) | [Alfie Jukes](https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9) | [All Dressed Up For Nothing](https://open.spotify.com/album/1Q7uDb1cYSsmBSAYWel83m) | 2:52 | 2025-03-21 | 2025-04-04 |
 | [Ain't Waiting For The World To Turn](https://open.spotify.com/track/193fZueEjp0NMkHSvMtZB4) | [Tamzene](https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL) | [Ain't Waiting For The World To Turn](https://open.spotify.com/album/5kdDzOYJV6OTsCNSAQiO66) | 2:50 | 2024-06-04 | 2024-08-17 |
+| [Alcohol](https://open.spotify.com/track/7knB6NUQFwmKEBroRiLsQ1) | [Kerr Mercer](https://open.spotify.com/artist/5sCWBXe11vVgkSogU1jq5x) | [Alcohol](https://open.spotify.com/album/0hYcs0BNcfioP8zWglC9zt) | 3:19 | 2025-11-21 |  |
 | [alice \(living looks good on you\)](https://open.spotify.com/track/39KGPGKu91J0oDIoMBXRkC) | [Áine Deane](https://open.spotify.com/artist/3iXWRV73XvTRhpfoT6SPLU) | [alice \(living looks good on you\)](https://open.spotify.com/album/7vCKTuqu50tWsjgSlEW0Eo) | 3:19 | 2025-08-28 | 2025-09-26 |
 | [All for Love](https://open.spotify.com/track/1dOXAjO03S83qsIpC7pr2A) | [TS Graye](https://open.spotify.com/artist/5qB8VZFvQcnDIrsj4jBMU9) | [All for Love](https://open.spotify.com/album/5VcOUaFOvirALpzrMwN2UM) | 3:28 | 2025-02-14 | 2025-03-14 |
 | [All I Ever Really Wanted](https://open.spotify.com/track/1zGONdLGdhquiPP5dOYDoO) | [Jessica Winter](https://open.spotify.com/artist/0gCYUYF1zfqZk5pG0e2ojy) | [All I Ever Really Wanted](https://open.spotify.com/album/3MJYuUKnMFvbgDk66jIn30) | 3:08 | 2025-04-10 | 2025-05-02 |
@@ -130,6 +131,7 @@
 | [Breathe](https://open.spotify.com/track/44YBEqGAUcj8uklmQkdwBu) | [Jack Panther](https://open.spotify.com/artist/2uSgBrZHrd1cZDZKZX0PDN) | [when i'm feeling better we could dream together](https://open.spotify.com/album/15tJ07DWIKVYOG0uVeubx8) | 3:33 | 2025-03-14 | 2025-04-04 |
 | [Breathe Deep](https://open.spotify.com/track/5btaMofKOTnk47EEvotbVI) | [AMANZI](https://open.spotify.com/artist/2JntGPQDmz3Lm0m3C7OEm4) | [Breathe Deep](https://open.spotify.com/album/6oRgYfOjA2kDIVHZKeFNgd) | 3:44 | 2025-09-18 | 2025-10-17 |
 | [Brick By Brick](https://open.spotify.com/track/3LN7i6dp0VlW9rD5H5uDOJ) | [Say Now](https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn) | [Brick By Brick](https://open.spotify.com/album/4GAfWtz9zZoJhu4jAzNPx5) | 2:39 | 2025-06-05 | 2025-07-11 |
+| [Brother](https://open.spotify.com/track/597EdJCBnLDgObC5LfyOYF) | [Lewis Fitzgerald](https://open.spotify.com/artist/6ovKHvbGzE1fZaLY0S4cOf) | [](https://open.spotify.com/album/null) | 3:48 | 2025-11-21 |  |
 | [Bruised One](https://open.spotify.com/track/7bVuadBTbyQG4udyRFpwUl) | [Mackenzy Mackay](https://open.spotify.com/artist/28WNtilgFPn1mdz3h0FjHl) | [Bruised One](https://open.spotify.com/album/7D3177ySIsW3EfuaLqJRJQ) | 3:00 | 2024-06-04 | 2024-08-17 |
 | [BT45](https://open.spotify.com/track/0r30NQF5cjXjTrxIw1f4Iw) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [BT45](https://open.spotify.com/album/0dGIB22t8fU4RGRewEQcyi) | 4:12 | 2024-08-16 | 2024-10-25 |
 | [burna](https://open.spotify.com/track/0kTySUGoZCotqHZEMMzgdP) | [Jessy Blakemore](https://open.spotify.com/artist/6Z2SXdkJgWDEMm6NANPVDu) | [burna](https://open.spotify.com/album/0v3K7kgN0glEIer3v2PQom) | 2:56 | 2025-06-12 | 2025-07-25 |
@@ -581,6 +583,7 @@
 | [Nice To Each Other](https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Nice To Each Other](https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV) | 3:29 | 2025-05-29 | 2025-06-27 |
 | [nice to know u](https://open.spotify.com/track/5YHNttdKeFd8yNMdRQFPyd) | [lleo](https://open.spotify.com/artist/0zXY7bBZFvl0mNxPxzo1e4) | [nice to know u](https://open.spotify.com/album/3r3EdXCvxNo1BPxPbp3Toa) | 3:24 | 2025-03-21 | 2025-04-11 |
 | [Nice To Meet You](https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute...](https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY) | 2:56 | 2024-11-08 | 2025-01-31 |
+| [No Audience](https://open.spotify.com/track/5YIhyQTdOcuwn0VMeVwvAp) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [No Audience](https://open.spotify.com/album/0Jv292eM7KSnohNy5Yvt7t) | 2:53 | 2025-11-21 |  |
 | [no contact](https://open.spotify.com/track/3RBsK8PzQH8Bo09vi9mAeI) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [no contact](https://open.spotify.com/album/68Wm1wse38WrDG9B50mwUh) | 3:11 | 2025-05-15 | 2025-06-06 |
 | [No Place Like You](https://open.spotify.com/track/5ymenEwTMYQ0Qjj3hu0bWs) | [Plested](https://open.spotify.com/artist/2nJYGgfTf2846LtVB3AES8) | [No Place Like You](https://open.spotify.com/album/6405c6m9bzga6WHRpFRBdz) | 3:36 | 2025-01-17 | 2025-02-21 |
 | [Nonchalant](https://open.spotify.com/track/218O6HKzXEOLFxbeqXGpjl) | [Seth Gauton](https://open.spotify.com/artist/6lSVOhtwPDcXqEIG6uyu4N) | [Nonchalant](https://open.spotify.com/album/3ZDv943r9WBfl3uDUOjFnC) | 3:05 | 2025-09-18 | 2025-10-17 |
@@ -703,6 +706,7 @@
 | [Scared](https://open.spotify.com/track/3CT0G578DbsSd3jBhL5Vup) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Scared](https://open.spotify.com/album/6Yh42b3yIFoN3F2x3GKLju) | 3:27 | 2025-01-10 | 2025-02-14 |
 | [Scary Movie](https://open.spotify.com/track/2UoRPtgf3YTbv9DJ1h2ikI) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Chloe Qisha](https://open.spotify.com/album/5VOSQ0i2JMwIILQOSl5RMM) | 2:44 | 2024-11-15 | 2025-01-24 |
 | [SDFYS \(sweetest f u song\)](https://open.spotify.com/track/2UspQqd2vnxfd9GzUJ4tkH) | [George Lyons](https://open.spotify.com/artist/42dK0eCb48P1tILqEV28mW) | [SDFYS \(sweetest f u song\)](https://open.spotify.com/album/5g0k1JgMpRcG4rWIKMtS6J) | 2:39 | 2025-09-18 | 2025-10-17 |
+| [Secret Boyfriend](https://open.spotify.com/track/3RIK13Q1blYLFI7ThnUYvx) | [Tsatsamis](https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0) | [Secret Boyfriend](https://open.spotify.com/album/1NXdKR2eI5YqRRpkIl29Y2) | 3:39 | 2025-11-21 |  |
 | [See The Stars](https://open.spotify.com/track/7JAPlyO7GpNJkfUsbUDJ3F) | [Aniwa](https://open.spotify.com/artist/7wdePkwUlvbzv8zdt0RmJX) | [See The Stars](https://open.spotify.com/album/1zUsfC76rn3zwswqr6KBuq) | 3:53 | 2025-06-05 | 2025-07-11 |
 | [See You Tomorrow](https://open.spotify.com/track/5uaIWGIunJ1XrWWnUcqyGh) | [Jess Martins](https://open.spotify.com/artist/4AqSqzn0lwECIcgbXSKyyJ) | [In A While, Crocodile](https://open.spotify.com/album/3wHXC0Ul10Q491PdhIPIP6) | 3:46 | 2025-08-14 | 2025-09-19 |
 | [Seeing Angels](https://open.spotify.com/track/0K4Yy5aPLsojIWJnryTb3Z) | [Alex Amor](https://open.spotify.com/artist/5Zyv8W3WkYfo1PTbVBBHs0) | [Seeing Angels](https://open.spotify.com/album/5R6oNb4SKjejMOpzkJyfYw) | 3:33 | 2025-05-01 | 2025-05-30 |

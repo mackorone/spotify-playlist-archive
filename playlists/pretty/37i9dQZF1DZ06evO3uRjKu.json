@@ -1,12 +1,12 @@
 {
   "description": "This is Vilma Palma e Vampiros. The essential tracks, all in one playlist.",
-  "num_followers": 74422,
+  "num_followers": 74423,
   "original_name": "This Is Vilma Palma e Vampiros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRu3AAAAAACwp8cmyAdhagMv061TCVPu",
+  "snapshot_id": "aR0IgAAAAAAX4717EJkX1Gk3E4Fo/OBf",
   "tracks": [
     {
       "added_at": null,
@@ -531,18 +531,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Mejor de Vilma Palma",
-        "url": "https://open.spotify.com/album/04ezQVYrGNcXyrBUl42NZi"
+        "name": "Hasta All\u00e1 En El Cielo / Bye Bye",
+        "url": "https://open.spotify.com/album/02NQhvzvCmfTuzhIJRRl5Y"
       },
       "artists": [
+        {
+          "name": "Uriel Lozano",
+          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
+        },
         {
           "name": "Vilma Palma e Vampiros",
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 246333,
-      "name": "Son tus ojos",
-      "url": "https://open.spotify.com/track/4I8H3JhKwTFTG8I3vzVkUy"
+      "duration_ms": 334378,
+      "name": "Hasta All\u00e1 En El Cielo / Bye Bye",
+      "url": "https://open.spotify.com/track/4SyICyHO6ZEP89IRbtMhNO"
     },
     {
       "added_at": null,
@@ -563,22 +567,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hasta All\u00e1 En El Cielo / Bye Bye",
-        "url": "https://open.spotify.com/album/02NQhvzvCmfTuzhIJRRl5Y"
+        "name": "Lo Mejor de Vilma Palma",
+        "url": "https://open.spotify.com/album/04ezQVYrGNcXyrBUl42NZi"
       },
       "artists": [
-        {
-          "name": "Uriel Lozano",
-          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
-        },
         {
           "name": "Vilma Palma e Vampiros",
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 334378,
-      "name": "Hasta All\u00e1 En El Cielo / Bye Bye",
-      "url": "https://open.spotify.com/track/4SyICyHO6ZEP89IRbtMhNO"
+      "duration_ms": 246333,
+      "name": "Son tus ojos",
+      "url": "https://open.spotify.com/track/4I8H3JhKwTFTG8I3vzVkUy"
     },
     {
       "added_at": null,

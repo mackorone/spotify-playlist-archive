@@ -2,9 +2,9 @@
 
 ### [soulful](https://open.spotify.com/playlist/37i9dQZF1DX2AHwa6tQ2Yy)
 
-> Try a little tenderness\. Cover: WILSN
+> Try a little tenderness\. Cover: Thee Marloes
 
-348 songs - 21 hr 33 min
+350 songs - 21 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Cure \(Acoustic\)](https://open.spotify.com/track/5TX18to7ocePDq2vztymUC) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [Cure \(Acoustic\)](https://open.spotify.com/album/25JiPiAO6AghQ1V5GHt9hQ) | 4:21 | 2024-03-14 | 2025-04-06 |
 | [Da Du Dah](https://open.spotify.com/track/0VcvKN17fqyvbznfwypjDB) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Tuff Times Never Last](https://open.spotify.com/album/7LsYc5gkR6w8VMOME78YmM) | 3:48 | 2025-07-11 | 2025-10-03 |
 | [Damaged](https://open.spotify.com/track/1Q15fOVSvuMbvgUddeMNVj) | [Miiesha](https://open.spotify.com/artist/1ehGGQnc7E28DNwhvnFuyL) | [Damaged](https://open.spotify.com/album/3sxDMHKPPqjQRpCOUNDw2z) | 3:16 | 2022-06-02 | 2022-12-21 |
-| [david](https://open.spotify.com/track/0HcKyjCAvv2I3MDGqHYSh5) | [Allysha Joy](https://open.spotify.com/artist/3CzYPWEnpaODw56A53qxh3) | [david](https://open.spotify.com/album/6MNMvxkiPfHkCxUYVM1dcj) | 5:09 | 2025-07-11 |  |
+| [david](https://open.spotify.com/track/0HcKyjCAvv2I3MDGqHYSh5) | [Allysha Joy](https://open.spotify.com/artist/3CzYPWEnpaODw56A53qxh3) | [david](https://open.spotify.com/album/6MNMvxkiPfHkCxUYVM1dcj) | 5:09 | 2025-07-11 | 2025-11-21 |
 | [Day To Night](https://open.spotify.com/track/7rkkFimrRc14aJLN6HMNqp) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Give Me All Your Love](https://open.spotify.com/album/55LA79YNZWAfxpDGla4jcN) | 4:24 | 2025-11-14 |  |
 | [deeper](https://open.spotify.com/track/6sh4ZklLayp1PRAGPq1G2H) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [deeper / stoned love](https://open.spotify.com/album/4AHLaggnEuQA4rbv5xG3hG) | 4:39 | 2022-06-30 | 2022-09-19 |
 | [deeper](https://open.spotify.com/track/7kqiHD9lXoksOXA9qEt6Rs) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Like Neptune](https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB) | 4:39 | 2022-09-08 | 2022-12-16 |
@@ -176,6 +176,7 @@
 | [Like a Ship](https://open.spotify.com/track/2g6aIBdprkYt5mNFjY6HAz) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Keite Young](https://open.spotify.com/artist/2euNKUC2iR9HRDVjLbhNdn) | [Like a Ship](https://open.spotify.com/album/3FEpG0GuwgCz8wNBkmQY7I) | 5:53 | 2022-06-02 | 2025-07-11 |
 | [Lil' Obsession](https://open.spotify.com/track/0GCXmACrAH2yDE8g3Fvuqn) | [BOY SODA](https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW) | [Lil' Obsession](https://open.spotify.com/album/4w5kf2SU2JQ6NV0CZcTpTt) | 3:01 | 2025-07-11 | 2025-07-14 |
 | [Little Fun \(feat\. Sammy Johnson\)](https://open.spotify.com/track/2jbbvH4frU7xVXf8Ow5cyU) | [Hamo Dell](https://open.spotify.com/artist/1AIFPaBYtvqWylIbQXjZv2), [Sammy Johnson](https://open.spotify.com/artist/0vMGGYcvLOnwg7t4kl33BA) | [Little Fun \(feat\. Sammy Johnson\)](https://open.spotify.com/album/4aX9Ss1NK4hI1U2YXJbhC9) | 2:50 | 2022-10-13 | 2025-07-11 |
+| [Losalamitoslatinfunklovesong](https://open.spotify.com/track/3RPs3DThWDaKHEEhHWUDnc) | [Lance Ferguson](https://open.spotify.com/artist/6dbQYrMbGorwsvnVCDb9ua) | [Rare Groove Spectrum, Vol\. 3](https://open.spotify.com/album/3feSktjrJ1GsGVNUPd5evR) | 5:20 | 2025-11-20 |  |
 | [Lose Control](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) | 3:30 | 2023-08-24 | 2025-07-11 |
 | [Love](https://open.spotify.com/track/07KSmwPq4eu1boA3cZYYY4) | [Buttered](https://open.spotify.com/artist/2qyspw08f8cTqsn8tInrB4) | [Love](https://open.spotify.com/album/1Oae3gR24xLKyiBJqAu2Ft) | 4:51 | 2022-06-02 | 2022-09-09 |
 | [Love Bind](https://open.spotify.com/track/2Gv07vSQS9i4VvxWrE7SHI) | [LOU'ANA](https://open.spotify.com/artist/6bmZe9cAGCwdOgriWbhhy7) | [Moonlight Madness](https://open.spotify.com/album/6Qx42PLpE3V7Ojc3E2JLaz) | 3:21 | 2022-06-02 | 2022-07-22 |
@@ -220,7 +221,7 @@
 | [Oh Honey](https://open.spotify.com/track/3TiCuJiisBOB9HzKAM6FDG) | [Delegation](https://open.spotify.com/artist/1zKp43H1kLHOTkJAeyTIkf) | [Oh Honey](https://open.spotify.com/album/2Hu144ydKhUydmnhfEEqfi) | 5:56 | 2025-07-11 |  |
 | [Oil & Water](https://open.spotify.com/track/62lq6SYb2Q0BP1nYpFXlby) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [Something To Feel](https://open.spotify.com/album/39MCSCwQlqT6xm28UpGz39) | 3:12 | 2022-06-02 | 2025-07-11 |
 | [On Read](https://open.spotify.com/track/5Dz8KovSvRxL6AfkbQXAig) | [Deva Mahal](https://open.spotify.com/artist/74kTlA5KHbgVuvqOEeKON0) | [Future Classic, Vol\. 1: Classic](https://open.spotify.com/album/346aNEGf6GqQlUK4NPAn2o) | 4:11 | 2023-03-23 | 2023-07-07 |
-| [One Inch Punch](https://open.spotify.com/track/6BdpQ5lDOUNbaER31ajumE) | [Yin Yin](https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2) | [The Rabbit That Hunts Tigers](https://open.spotify.com/album/4jH5VMBiLa3LqYASv9QQWK) | 5:08 | 2025-07-11 |  |
+| [One Inch Punch](https://open.spotify.com/track/6BdpQ5lDOUNbaER31ajumE) | [Yin Yin](https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2) | [The Rabbit That Hunts Tigers](https://open.spotify.com/album/4jH5VMBiLa3LqYASv9QQWK) | 5:08 | 2025-07-11 | 2025-11-21 |
 | [One Wish](https://open.spotify.com/track/4v2cHBzCtmkvWVWbZ4Rilu) | [Thea](https://open.spotify.com/artist/3MofB6MnXczVVUw6i94oFN) | [Land of Nod](https://open.spotify.com/album/7rzRftiKwTlCxFhZLmdyic) | 3:54 | 2022-06-02 | 2022-09-09 |
 | [Only Wanna Be With You](https://open.spotify.com/track/7ivEZyVKpHlqCKFFUqOYX1) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Only Wanna Be With You](https://open.spotify.com/album/5MEXy3BoHRig5xBgxdzegm) | 3:00 | 2022-06-02 | 2025-07-11 |
 | [Open Up](https://open.spotify.com/track/4UDVrGYUdqaJ8o3yL1snpV) | [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT) | [Dawn](https://open.spotify.com/album/0UoHPF3kjLWKwSHkfmvlIq) | 3:51 | 2022-06-02 | 2022-11-18 |
@@ -244,6 +245,7 @@
 | [RATHER BE](https://open.spotify.com/track/2QcDEWNu8pvcfxmo3KHYRv) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [RATHER BE](https://open.spotify.com/album/2OsE2fTGgTPYGzaARFLs8M) | 2:51 | 2025-07-11 |  |
 | [Raye](https://open.spotify.com/track/1HCscV7IBGyxnaPh2jShMP) | [John Splithoff](https://open.spotify.com/artist/7A2x4Urpc4VKF1pb7qnNqD) | [Make It Happen \(Deluxe Edition\)](https://open.spotify.com/album/5RbJ1jOe7KFVfbB5GOLhUT) | 4:29 | 2022-06-02 | 2025-07-11 |
 | [Red Room](https://open.spotify.com/track/0aefDhwto2nL2kTHIiil0J) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Red Room](https://open.spotify.com/album/6nMLINUfKd2p6mZ3El99Yj) | 3:52 | 2022-06-02 | 2022-07-22 |
+| [Red Sunset](https://open.spotify.com/track/3r75cePFVQSSg6Lvejm8Zr) | [Bic Runga](https://open.spotify.com/artist/3R8AurcQVHkialifehVKXV) | [Red Sunset](https://open.spotify.com/album/7xp4WMkjX9w1cWg4qJaScM) | 3:17 | 2025-11-20 |  |
 | [Reelin'](https://open.spotify.com/track/0TGjVuX7qOk9rAjPnKi1p3) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Reelin'](https://open.spotify.com/album/1m0MWlkHpgpoZ7FuILeQWw) | 3:28 | 2024-03-14 | 2025-07-11 |
 | [Reelin'](https://open.spotify.com/track/0pZrbb5wNwxRA3mqsl1SWN) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Everything's Fine](https://open.spotify.com/album/2OOTl13Kx9KxMF1ESG2u58) | 3:28 | 2023-03-23 | 2024-04-19 |
 | [Reelin'](https://open.spotify.com/track/6PbIRZxg5wqwqngBSXsP0y) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Reelin'](https://open.spotify.com/album/03Mo7DOvoSR7GUcLE0w52C) | 3:28 | 2023-01-12 | 2023-03-27 |

@@ -4,7 +4,7 @@
 
 > Café caliente, sillón blandito y la mejor lectura o compañía.
 
-316 songs - 18 hr 9 min
+317 songs - 18 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Beautiful People](https://open.spotify.com/track/2G0MFuEXoxdDgBjfFXP65I) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Beautiful People](https://open.spotify.com/album/2ETALrfBaNSSZbFITODMkM) | 3:32 | 2021-07-16 | 2025-09-18 |
 | [better on my own \- na podstawie serii "Friends" Aleksandry Negrońskiej](https://open.spotify.com/track/48FWPEjsIDprp1iS743vQn) | [Dominika Płonka](https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8), [Dawid Płonka](https://open.spotify.com/artist/6P8H6nSX040u58IuahsdvF) | [better on my own \(na podstawie serii "Friends" Aleksandry Negrońskiej\)](https://open.spotify.com/album/66X3yLH2L4fkv8k6xo4J6i) | 3:48 | 2024-01-05 | 2024-06-01 |
 | [Big Yellow Taxi \- Live from Spotify Studios NYC](https://open.spotify.com/track/0e3ujCTfBtvX8HdQrEUBd9) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Spotify Singles](https://open.spotify.com/album/4aNDmtlwH25CBLUjKUXPLu) | 2:29 | 2021-07-16 |  |
+| [Bleachers](https://open.spotify.com/track/3Xsua9PZj5e0WeCar562Wr) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Baby Teeth](https://open.spotify.com/album/2I3KNalSqYLftHnjHHVVKF) | 4:22 | 2025-06-20 |  |
 | [Bleachers](https://open.spotify.com/track/4SnJ2BuVa31w10qPXKqZrW) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Baby Teeth](https://open.spotify.com/album/4VwxhbPs1JBTsjZH9dcTht) | 4:22 | 2021-07-16 | 2023-05-24 |
 | [Blinding Lights](https://open.spotify.com/track/763nb3EOeLEeJsELNuel1b) | [Leonardo Reyes](https://open.spotify.com/artist/5dK2EQpJRKs9eQbZ0PLnJG) | [Hits](https://open.spotify.com/album/5g8gRKOKu7eKtnBCQYS9Pf) | 3:14 | 2021-07-16 |  |
 | [Brindo](https://open.spotify.com/track/7xP92UQbHzTiAju7H2dynD) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Brindo](https://open.spotify.com/album/5cUw4tjXsOcrS5Jd2zEzDn) | 3:18 | 2023-01-03 |  |
@@ -34,7 +35,7 @@
 | [Burn](https://open.spotify.com/track/3zYvxKKjKpF8swPtMC2EwL) | [Dan Berk](https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ) | [Burn](https://open.spotify.com/album/3zptlZqWpgTow8kcilYOqy) | 3:26 | 2021-07-16 |  |
 | [Call Out My Name](https://open.spotify.com/track/4XIaUpLlWb1y3YVByVSFla) | [Mother's Daughter](https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k), [Beck Pete](https://open.spotify.com/artist/5hhVBlzS6hGuC1BNWANyyj) | [Call Out My Name](https://open.spotify.com/album/0yTcV1IFb2qMCK0LvO2LvS) | 3:33 | 2021-07-16 |  |
 | [Caramelo](https://open.spotify.com/track/2cElznINAHvKeHzv97ZuAV) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H) | [”Zamba Puta”](https://open.spotify.com/album/1FsZ3DfeXndrOrpWNBWk6J) | 3:23 | 2021-07-16 |  |
-| [Carta Aberta](https://open.spotify.com/track/16V20qvMFMPof1Ed6O6RvO) | [Antía Muíño](https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1) | [Carta Aberta](https://open.spotify.com/album/3gtQCFe0IYu3e3uWcj2Oj3) | 5:22 | 2021-07-16 |  |
+| [Carta Aberta](https://open.spotify.com/track/16V20qvMFMPof1Ed6O6RvO) | [Antía Muíño](https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1) | [Carta Aberta](https://open.spotify.com/album/3gtQCFe0IYu3e3uWcj2Oj3) | 5:22 | 2021-07-16 | 2025-11-21 |
 | [Chantaje](https://open.spotify.com/track/3P6oKxLPu8AMIB6y1wF86y) | [Aberola](https://open.spotify.com/artist/261dXSTP2fxbtRTGmg4VTr) | [Chantaje](https://open.spotify.com/album/2QO086Ci3QxG7LVEdeYqhl) | 3:27 | 2021-07-16 |  |
 | [Chemtrails Over The Country Club](https://open.spotify.com/track/1PZDyestTVydtHpaIcfUJg) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Chemtrails Over The Country Club](https://open.spotify.com/album/5p5cFBRERDfiNJlfABACP0) | 4:31 | 2021-07-16 | 2022-07-27 |
 | [Chemtrails Over The Country Club](https://open.spotify.com/track/7bPWdJgx8vek7S5i5yAtvG) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Chemtrails Over The Country Club](https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8) | 4:31 | 2021-07-16 | 2024-04-19 |

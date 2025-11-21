@@ -436,7 +436,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 102857,
       "name": "Atra De Eso",
       "url": "https://open.spotify.com/track/7Ejd7CEfNoNLgwL73yqwtP"
@@ -768,7 +768,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 109109,
       "name": "BIZCOCHITO",
       "url": "https://open.spotify.com/track/4kXxEhuatrvwrTQycA7s9B"
@@ -2144,7 +2144,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 102892,
       "name": "Dime Cuero",
       "url": "https://open.spotify.com/track/7uCTKGaWHqP4437MaAxIJn"
@@ -2929,6 +2929,28 @@
     },
     {
       "album": {
+        "name": "Santo Domingo",
+        "url": "https://open.spotify.com/album/3reJXxrPWQJ1riq8df76g0"
+      },
+      "artists": [
+        {
+          "name": "mhtresuno",
+          "url": "https://open.spotify.com/artist/1S1AhqtlhBuOTsEaM1kAOQ"
+        },
+        {
+          "name": "Angel Dior",
+          "url": "https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134813,
+      "name": "Gatillero",
+      "url": "https://open.spotify.com/track/6vlgqKBRTamlIKx0cauIwX"
+    },
+    {
+      "album": {
         "name": "Gemelo",
         "url": "https://open.spotify.com/album/5sjmpKKRv9K5YW6KUNs8oX"
       },
@@ -3036,6 +3058,32 @@
       "duration_ms": 194272,
       "name": "Gugle",
       "url": "https://open.spotify.com/track/2Nf1D46vyEZYNbuCx0Y4iD"
+    },
+    {
+      "album": {
+        "name": "Hagan De To Meno Da\u00f1o",
+        "url": "https://open.spotify.com/album/5gBMwGbeab8zellCdzWi8r"
+      },
+      "artists": [
+        {
+          "name": "Ezzy R",
+          "url": "https://open.spotify.com/artist/0DiYoKuXAI3xAA5JiU5UFX"
+        },
+        {
+          "name": "KiK1 STW",
+          "url": "https://open.spotify.com/artist/2NkusP1gjrUcyOQsfHhx5k"
+        },
+        {
+          "name": "Ronny GTA",
+          "url": "https://open.spotify.com/artist/4cnOWlaCqpRNGiLvsxgKgu"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114407,
+      "name": "Hagan De To Meno Da\u00f1o",
+      "url": "https://open.spotify.com/track/708q7FVfLLHwipRUYeKTbD"
     },
     {
       "album": {
@@ -4580,6 +4628,24 @@
       "duration_ms": 168855,
       "name": "Malabu",
       "url": "https://open.spotify.com/track/6cIDPdoQ9RaKT9raNW6TsJ"
+    },
+    {
+      "album": {
+        "name": "Santo Domingo",
+        "url": "https://open.spotify.com/album/3reJXxrPWQJ1riq8df76g0"
+      },
+      "artists": [
+        {
+          "name": "mhtresuno",
+          "url": "https://open.spotify.com/artist/1S1AhqtlhBuOTsEaM1kAOQ"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110831,
+      "name": "Maldici\u00f3n",
+      "url": "https://open.spotify.com/track/6GkjBM5a2BPGYukETXcetc"
     },
     {
       "album": {

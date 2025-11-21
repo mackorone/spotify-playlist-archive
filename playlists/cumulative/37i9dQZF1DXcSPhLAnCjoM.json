@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\"Tant pis pour elle\" de Charlotte Cardin est le Grand Hit de la semaine",
+  "description": "\"Restes d'averses\" de Marine est le Grand Hit de la semaine",
   "name": "Grand Hit",
   "tracks": [
     {
@@ -56,6 +56,24 @@
       "duration_ms": 188333,
       "name": "Adieu, nous deux",
       "url": "https://open.spotify.com/track/6y8LXTxgfWkU6kGhLnK2XH"
+    },
+    {
+      "album": {
+        "name": "La fuite en avant",
+        "url": "https://open.spotify.com/album/130L3uMANE28R0eH0GtmZS"
+      },
+      "artists": [
+        {
+          "name": "Orelsan",
+          "url": "https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192128,
+      "name": "Ailleurs",
+      "url": "https://open.spotify.com/track/2lwLLpCLIQ6lc5EvvdjG5C"
     },
     {
       "album": {
@@ -1682,7 +1700,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 148363,
       "name": "Falbala",
       "url": "https://open.spotify.com/track/3zDHDOpx6NhjLamk3F4kPP"

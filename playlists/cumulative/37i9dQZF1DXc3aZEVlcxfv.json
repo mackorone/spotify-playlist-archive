@@ -135,6 +135,28 @@
     },
     {
       "album": {
+        "name": "Alive & Grateful (Acoustic)",
+        "url": "https://open.spotify.com/album/7Frueb6SNxMKvNNX5nyaxn"
+      },
+      "artists": [
+        {
+          "name": "Lyrical HI",
+          "url": "https://open.spotify.com/artist/3OznZXIgCjaZwePdGC5FNU"
+        },
+        {
+          "name": "TEHGAH",
+          "url": "https://open.spotify.com/artist/4scHETu7kmTovJLCQq8Rla"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 555692,
+      "name": "Alive & Grateful - Acoustic",
+      "url": "https://open.spotify.com/track/1v8pPbs31czJDdA4B5P4bT"
+    },
+    {
+      "album": {
         "name": "All Around",
         "url": "https://open.spotify.com/album/5H0eZ8emSE3bW2QSkhuFZp"
       },
@@ -1934,6 +1956,36 @@
     {
       "album": {
         "name": "Dance",
+        "url": "https://open.spotify.com/album/6bc39xL6AfYQx6lFdljymg"
+      },
+      "artists": [
+        {
+          "name": "Dj Penny",
+          "url": "https://open.spotify.com/artist/0m8Pugts84dRwQV3sYSJuY"
+        },
+        {
+          "name": "Greala Wake",
+          "url": "https://open.spotify.com/artist/5y5CKKzsdUzWNRmvOrP9Zr"
+        },
+        {
+          "name": "Feezeh",
+          "url": "https://open.spotify.com/artist/1mON6A1qqbSP8RUgJWHzRA"
+        },
+        {
+          "name": "SS Promotionz",
+          "url": "https://open.spotify.com/artist/4NJ6LwtpfAa4tx6P0I7z5a"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159676,
+      "name": "DANCE",
+      "url": "https://open.spotify.com/track/6Fg8BAc4vYhAGfMVkuSYdz"
+    },
+    {
+      "album": {
+        "name": "Dance",
         "url": "https://open.spotify.com/album/7cp4osuXS9YqdC99zSi0we"
       },
       "artists": [
@@ -2476,6 +2528,28 @@
       "duration_ms": 198459,
       "name": "ETERNAL",
       "url": "https://open.spotify.com/track/0TICKAS0yzIpfKuscuz3wq"
+    },
+    {
+      "album": {
+        "name": "ETERNITY",
+        "url": "https://open.spotify.com/album/3PeFgOj9G2C3RVrlpx58C5"
+      },
+      "artists": [
+        {
+          "name": "Monaze",
+          "url": "https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG"
+        },
+        {
+          "name": "Aigbeh D'gong",
+          "url": "https://open.spotify.com/artist/18WJX25TgcCtvjNJxgkBTX"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182334,
+      "name": "ETERNITY",
+      "url": "https://open.spotify.com/track/4LMh11K1jZZ01vQ8Qcn9Bl"
     },
     {
       "album": {
@@ -3999,6 +4073,24 @@
     },
     {
       "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/1KKYyAZaITpEknUADTzAAt"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Rue",
+          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/2Sv5TBcFr50zDLDfcwGntc"
+    },
+    {
+      "album": {
         "name": "Holy Spirit",
         "url": "https://open.spotify.com/album/0dcPOadAg4gyXkKiSoa6N0"
       },
@@ -4351,6 +4443,24 @@
     },
     {
       "album": {
+        "name": "I Surrender",
+        "url": "https://open.spotify.com/album/2eCZ2zLOptlOg9EBUo8I3V"
+      },
+      "artists": [
+        {
+          "name": "Godfrey Gad",
+          "url": "https://open.spotify.com/artist/4Q1PLV0sUS4xUzFwpFUvFh"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "I Surrender",
+      "url": "https://open.spotify.com/track/4LuaKxOzwnUJ1P88fXjR0T"
+    },
+    {
+      "album": {
         "name": "Future Now",
         "url": "https://open.spotify.com/album/4vcO7GRBDd8zYwZEkzSLIJ"
       },
@@ -4532,7 +4642,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 206504,
       "name": "Ih\u1ecbn\u00e8merem",
       "url": "https://open.spotify.com/track/2rguu2bjwngxLIFf4olXm5"
@@ -4896,6 +5006,24 @@
       "duration_ms": 276650,
       "name": "JESUS - Acoustic Version",
       "url": "https://open.spotify.com/track/697RxMNB5lPeOqASJ8a9Um"
+    },
+    {
+      "album": {
+        "name": "Jesus Loves Me (Oh Kwabena)",
+        "url": "https://open.spotify.com/album/6rqAYrPXgVDBMpgFSP9Iin"
+      },
+      "artists": [
+        {
+          "name": "Emandiong",
+          "url": "https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131111,
+      "name": "Jesus Loves Me (Oh Kwabena)",
+      "url": "https://open.spotify.com/track/2XP4PLQp37qU0wHunJHuSl"
     },
     {
       "album": {
@@ -5302,6 +5430,32 @@
       "duration_ms": 151111,
       "name": "Living Water",
       "url": "https://open.spotify.com/track/5xVtLhfxJKrlwXPhNYfhcD"
+    },
+    {
+      "album": {
+        "name": "Loke Loke ll (Remix)",
+        "url": "https://open.spotify.com/album/4VSZR2kWytkOmefKILXPvS"
+      },
+      "artists": [
+        {
+          "name": "Fido Cleff",
+          "url": "https://open.spotify.com/artist/0FOiZm6cMypJMnOEScNFZr"
+        },
+        {
+          "name": "Winter Amadin",
+          "url": "https://open.spotify.com/artist/0Lg4taC1hwg9FMfyPiwuBH"
+        },
+        {
+          "name": "Emmanuel Olorunwa Komolafe",
+          "url": "https://open.spotify.com/artist/3R4BH0c2c5rJWzDGTjXSx1"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151836,
+      "name": "Loke Loke ll - Remix",
+      "url": "https://open.spotify.com/track/7wFq1DimymmbI4xOwB4RA3"
     },
     {
       "album": {
@@ -7617,6 +7771,28 @@
     },
     {
       "album": {
+        "name": "Seen",
+        "url": "https://open.spotify.com/album/4B0oh0jk5PD3TfkyDls8pV"
+      },
+      "artists": [
+        {
+          "name": "Lola Ade",
+          "url": "https://open.spotify.com/artist/1Dn5XPErF6q1w1sxxk8m6Y"
+        },
+        {
+          "name": "Greatman Takit",
+          "url": "https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226285,
+      "name": "Seen",
+      "url": "https://open.spotify.com/track/0choVjlbcW5egLUqkPwOAe"
+    },
+    {
+      "album": {
         "name": "Shekinah",
         "url": "https://open.spotify.com/album/3aNh72cvCcIn7Zt0mFJLPj"
       },
@@ -7866,6 +8042,24 @@
       "duration_ms": 121600,
       "name": "Supa II",
       "url": "https://open.spotify.com/track/1uZo8bWMrVGFxk0N09512a"
+    },
+    {
+      "album": {
+        "name": "Artisan",
+        "url": "https://open.spotify.com/album/1wAfgl8G6lRRQttdwnbF8v"
+      },
+      "artists": [
+        {
+          "name": "Tissann",
+          "url": "https://open.spotify.com/artist/0oXiDrLAR9O9986SCXZj8X"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114938,
+      "name": "Surely",
+      "url": "https://open.spotify.com/track/4h3nTUfOMq29veNoWzG9OC"
     },
     {
       "album": {
@@ -8340,6 +8534,32 @@
       "duration_ms": 291559,
       "name": "This GOD",
       "url": "https://open.spotify.com/track/6lcz1wk65CRBAnLaZATGe4"
+    },
+    {
+      "album": {
+        "name": "This is the day",
+        "url": "https://open.spotify.com/album/292v6JlFtWgntRY87Ojj5M"
+      },
+      "artists": [
+        {
+          "name": "Scott Evans",
+          "url": "https://open.spotify.com/artist/7cNvuCgJHQfzdOZlhQ3W5r"
+        },
+        {
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+        },
+        {
+          "name": "KobbySalm",
+          "url": "https://open.spotify.com/artist/0O4MEIc9HB5MiTfQX5eKNB"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164745,
+      "name": "This is the day",
+      "url": "https://open.spotify.com/track/2TRKKi6T9EqjFGwRddxz5d"
     },
     {
       "album": {

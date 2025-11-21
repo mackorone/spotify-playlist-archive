@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e1f\u0e31\u0e07\u0e44\u0e14\u0e49\u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22! \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: JayQ",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e1f\u0e31\u0e07\u0e44\u0e14\u0e49\u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22! \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: \u0e01\u0e49\u0e32\u0e19\u0e15\u0e2d\u0e07 \u0e17\u0e38\u0e48\u0e07\u0e40\u0e07\u0e34\u0e19",
   "name": "\u0e09\u0e31\u0e19\u0e1f\u0e31\u0e07\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22",
   "tracks": [
     {
@@ -976,7 +976,7 @@
       ],
       "date_added": "2025-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 252777,
       "name": "WHAT IF",
       "url": "https://open.spotify.com/track/2bnhi8PyiGiAMuaETsM3Ye"
@@ -1172,6 +1172,24 @@
       "duration_ms": 212343,
       "name": "\u0e01\u0e49\u0e32\u0e27\u0e01\u0e48\u0e32\u0e22",
       "url": "https://open.spotify.com/track/62HLOpfjoG6E0JTtUEfplQ"
+    },
+    {
+      "album": {
+        "name": "\u0e02\u0e2d\u0e07\u0e02\u0e27\u0e31\u0e0d\u0e1b\u0e35\u0e43\u0e2b\u0e21\u0e48 (Golden Night)",
+        "url": "https://open.spotify.com/album/4PmVt4yjh8yTVM031pigzp"
+      },
+      "artists": [
+        {
+          "name": "Jeff Satur",
+          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239007,
+      "name": "\u0e02\u0e2d\u0e07\u0e02\u0e27\u0e31\u0e0d\u0e1b\u0e35\u0e43\u0e2b\u0e21\u0e48 (Golden Night)",
+      "url": "https://open.spotify.com/track/43JyEMmiEB4LJDwMDnIqvz"
     },
     {
       "album": {
@@ -2329,6 +2347,28 @@
     },
     {
       "album": {
+        "name": "\u0e1d\u0e32\u0e01\u0e44\u0e27\u0e49\u0e43\u0e2b\u0e49 Kiss (feat. BLVCKHEART)",
+        "url": "https://open.spotify.com/album/47Ym1CxnLXUN40au3otFsv"
+      },
+      "artists": [
+        {
+          "name": "JayQ",
+          "url": "https://open.spotify.com/artist/5SLXYrzObBv7IrLzo4I4S6"
+        },
+        {
+          "name": "BLVCKHEART",
+          "url": "https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "\u0e1d\u0e32\u0e01\u0e44\u0e27\u0e49\u0e43\u0e2b\u0e49 Kiss (feat. BLVCKHEART)",
+      "url": "https://open.spotify.com/track/4psph4gNDqUnGvBSq6UwwE"
+    },
+    {
+      "album": {
         "name": "\u0e1e\u0e1a\u0e23\u0e31\u0e01",
         "url": "https://open.spotify.com/album/3C1L1CgjEjjHoyAPZwePgs"
       },
@@ -2552,7 +2592,7 @@
       ],
       "date_added": "2025-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 265468,
       "name": "\u0e22\u0e31\u0e07\u0e23\u0e31\u0e01\u0e2d\u0e22\u0e39\u0e48\u0e44\u0e2b\u0e21 (Stars.)",
       "url": "https://open.spotify.com/track/19yPX0xMXRbRVgtGc2MO1l"

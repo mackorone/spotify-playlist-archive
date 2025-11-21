@@ -1,6 +1,6 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 144832,
+  "num_followers": 144810,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2025-11-03 08:50:06",
       "album": {
-        "name": "dc snuff film / waste yrself",
-        "url": "https://open.spotify.com/album/1QMZJabCAFTaiuq4toibdt"
-      },
-      "artists": [
-        {
-          "name": "Teen Suicide",
-          "url": "https://open.spotify.com/artist/2cAvReLDmjFQtCJFDJbHBU"
-        }
-      ],
-      "duration_ms": 165671,
-      "name": "haunt me (x 3)",
-      "url": "https://open.spotify.com/track/1QUMpZT7HG6sO3RiBu1LAJ"
-    },
-    {
-      "added_at": "2025-11-03 08:50:06",
-      "album": {
         "name": "Stranger in the Alps",
         "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 189213,
       "name": "Killer",
       "url": "https://open.spotify.com/track/0ThaVtdQ5zuAYLjvoT342v"
+    },
+    {
+      "added_at": "2025-11-03 08:50:06",
+      "album": {
+        "name": "dc snuff film / waste yrself",
+        "url": "https://open.spotify.com/album/1QMZJabCAFTaiuq4toibdt"
+      },
+      "artists": [
+        {
+          "name": "Teen Suicide",
+          "url": "https://open.spotify.com/artist/2cAvReLDmjFQtCJFDJbHBU"
+        }
+      ],
+      "duration_ms": 165671,
+      "name": "haunt me (x 3)",
+      "url": "https://open.spotify.com/track/1QUMpZT7HG6sO3RiBu1LAJ"
     },
     {
       "added_at": "2025-11-03 08:50:06",

@@ -4283,6 +4283,24 @@
     },
     {
       "album": {
+        "name": "PAC-MANISM",
+        "url": "https://open.spotify.com/album/4Rl64ebxCFoq7NuECnR9Nu"
+      },
+      "artists": [
+        {
+          "name": "Yabai T-Shirts Yasan",
+          "url": "https://open.spotify.com/artist/3GP0RQRnBvpYVgdVYfcaGS"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127492,
+      "name": "PAC-MANISM",
+      "url": "https://open.spotify.com/track/06OI5rkTs4hHrlUGjD1UUw"
+    },
+    {
+      "album": {
         "name": "PALEHELL",
         "url": "https://open.spotify.com/album/4RJm4nESvtZRn9MV3sOs9V"
       },
@@ -6420,7 +6438,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 190500,
       "name": "Useless",
       "url": "https://open.spotify.com/track/4w1n6SNwu8H0SlwzhsyaiV"

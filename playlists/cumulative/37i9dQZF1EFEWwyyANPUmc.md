@@ -4,12 +4,13 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2jEhW8ABFUBCiDxJs9q322">Emy Perez</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-68 songs - 3 hr 32 min
+69 songs - 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Acid Trippin](https://open.spotify.com/track/5P1QwpkXz0V2Gs1JHzIuRM) | [Dave Winnel](https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm) | [Acid Trippin](https://open.spotify.com/album/4Y1DWTYR9EqZsVuSuPZ7O4) | 2:42 | 2022-06-04 |  |
-| [Ain't Seen Before](https://open.spotify.com/track/4AzRdtKnhVq57y6GrWPTSV) | [Thomas Gold](https://open.spotify.com/artist/1XLjkBxFokuDTlHt0mQkRe), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Club Files \#1](https://open.spotify.com/album/65ZVStUk2ISiu5LO0jtu6d) | 4:19 | 2023-02-26 |  |
+| [Ain't Seen Before](https://open.spotify.com/track/0VPfF1wyqqmzn40G8ELhY8) | [Thomas Gold](https://open.spotify.com/artist/1XLjkBxFokuDTlHt0mQkRe) | [Club Files \#1](https://open.spotify.com/album/48ZrjlS2cfLDzNaXYU6u9f) | 4:19 | 2025-11-20 |  |
+| [Ain't Seen Before](https://open.spotify.com/track/4AzRdtKnhVq57y6GrWPTSV) | [Thomas Gold](https://open.spotify.com/artist/1XLjkBxFokuDTlHt0mQkRe), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Club Files \#1](https://open.spotify.com/album/65ZVStUk2ISiu5LO0jtu6d) | 4:19 | 2023-02-26 | 2025-11-21 |
 | [Ain't Seen Before](https://open.spotify.com/track/5aSFb2NDHDp4NU7rbegVJq) | [Thomas Gold](https://open.spotify.com/artist/1XLjkBxFokuDTlHt0mQkRe), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Ain't Seen Before](https://open.spotify.com/album/1ByzzquvwSP9ZfpcgelBCg) | 4:19 | 2022-06-04 | 2023-02-27 |
 | [Anybody Out There](https://open.spotify.com/track/668C5FSQPOIeMsiWD9ChGz) | [Manuel Riva](https://open.spotify.com/artist/2hkGkEnyudpE42IU4DBt99), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Anybody Out There](https://open.spotify.com/album/2WU0WngVSULKuckza6tI1J) | 3:16 | 2022-06-04 |  |
 | [Bang Bang](https://open.spotify.com/track/2WnDMt0gHvxNDGZg1C5ubs) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM), [Menasa](https://open.spotify.com/artist/5jVEmgqUWoV06fNlLj6i5e), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Purple Alien](https://open.spotify.com/album/0o0MOOWupdi4WELWGvjVrn) | 2:49 | 2022-06-04 |  |

@@ -4,7 +4,7 @@
 
 > Fresh country music by independent artists every Wednesday\. Cover: Hannah Jane Lewis, Artwork: Fanélie Muselier
 
-3,474 songs - 7 day 20 hr 6 min
+3,480 songs - 7 day 20 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -522,6 +522,7 @@
 | [Carolina Burns](https://open.spotify.com/track/4EJte0LIJJ9MEO6YuNNVRW) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Carolina Burns](https://open.spotify.com/album/3bUHbiGs3vDaJl57VtEieD) | 2:59 | 2023-09-06 | 2023-11-30 |
 | [Carry Me Home](https://open.spotify.com/track/2uGhFYgEsIowLnRqf3Z78T) | [Graham St\. Clair Band](https://open.spotify.com/artist/7voi3VeXYv9dzIEFGBgbkv) | [Carry Me Home](https://open.spotify.com/album/4wR24Dlp1ULiwjTqR32qVx) | 3:32 | 2025-10-15 |  |
 | [Carry On](https://open.spotify.com/track/6yBufQNrulK7N2KiLqYWS8) | [Grace Kelly](https://open.spotify.com/artist/6xaNho2ohZEzmrljowQlY3) | [Carry On](https://open.spotify.com/album/5iDCstnNJQlWRcsQ7nCrud) | 2:52 | 2023-06-07 | 2023-08-10 |
+| [Castle in the Sky](https://open.spotify.com/track/5ZdozgEF8rB7wy7o7qXokq) | [The Kentucky Gentlemen](https://open.spotify.com/artist/5Jyxuj6Ho7xmNPrDub1U86) | [Castle in the Sky](https://open.spotify.com/album/6aPNTqiUUeinMSXWnPHrpb) | 3:28 | 2025-11-20 |  |
 | [Casual](https://open.spotify.com/track/782ZzWLrCziHo3uVpgJ8qk) | [Erin Grand](https://open.spotify.com/artist/44fvtK228KC7YlIWVAsXS2) | [Anything But Casual](https://open.spotify.com/album/1OKK45Ysi9Iu5r3WhsEI8s) | 3:27 | 2022-01-26 | 2022-03-10 |
 | [Catch a Red](https://open.spotify.com/track/7BhS6iscwWqMOOEqcPnvNO) | [Mike Whiteside](https://open.spotify.com/artist/3gx8Jy5EhQET99sstT90bk) | [Catch a Red](https://open.spotify.com/album/3hCqZvL8t5RkLljHBFq4h9) | 3:03 | 2023-03-15 | 2023-04-27 |
 | [Catchin' On](https://open.spotify.com/track/3r6FH37I20Ot4l0HT0daFE) | [Cole Goodwin](https://open.spotify.com/artist/1BJuLsavR5ekNDC4FhjTmF) | [Catchin' On](https://open.spotify.com/album/4snLwhCerfWc2IP2Z61L6T) | 3:43 | 2025-01-15 | 2025-03-06 |
@@ -590,6 +591,7 @@
 | [Colorado High](https://open.spotify.com/track/7qTK6kB5DxIqbWRZ1CbRq6) | [Lance Roark](https://open.spotify.com/artist/6i0HzrUPAeWOfZiXxOU903) | [Colorado High](https://open.spotify.com/album/3XgPparQdE59ARodVL8MtU) | 3:36 | 2025-06-04 | 2025-07-17 |
 | [Colourblind](https://open.spotify.com/track/0EQoxJQ1fcE6w4pYG3Ah6y) | [Abby Christo](https://open.spotify.com/artist/0aE69mf1NjsaqZzXsoo4qH) | [Colourblind](https://open.spotify.com/album/5VTCdckkOLkqbkZGrI9rwO) | 3:16 | 2024-10-23 | 2024-12-05 |
 | [Come a Long Way](https://open.spotify.com/track/4ZVB3sYAsN7F94o27iBzkZ) | [Whelan Stone](https://open.spotify.com/artist/2BpNHVNRV8JeNrfJGt1fFW) | [Come a Long Way](https://open.spotify.com/album/20Jmyhiyx7CuhCOa0FxzDp) | 3:07 | 2023-04-26 | 2023-06-08 |
+| [Come Home](https://open.spotify.com/track/3HD6IbwlVfOVvBxZr7eCr4) | [Brooke Lee](https://open.spotify.com/artist/7mDMlZnQ1SQRtujvd3azxS) | [Come Home](https://open.spotify.com/album/2AizGfiA11sAD1sRLuUJGX) | 3:07 | 2025-11-20 |  |
 | [Come Home to Me](https://open.spotify.com/track/7sHsHmY4ZpVP9DCPe2cz8c) | [Scott Stevens](https://open.spotify.com/artist/18gxQcIuISU8gKxgElH7OU) | [Come Home to Me](https://open.spotify.com/album/62pRsoHQRvpdtO6OuSuAMt) | 3:41 | 2021-12-01 | 2022-01-13 |
 | [Come on Down](https://open.spotify.com/track/4zSQwQywkMv6CkzJwX4DLL) | [Josiah Siska](https://open.spotify.com/artist/0xRlqiatkqSzYyaAofNHlx) | [Come on Down](https://open.spotify.com/album/2OAqaJyj6MsDisC59K5US0) | 3:13 | 2022-06-29 | 2022-07-28 |
 | [Come On In](https://open.spotify.com/track/3S7TZwS7DS19TkXj4OvXHY) | [Will Jones](https://open.spotify.com/artist/3O3IXkuwqV4wkD6WuvN5ER) | [Come On In](https://open.spotify.com/album/2tFLVcOYDXpY6QD0MM7zzq) | 3:25 | 2025-09-03 |  |
@@ -601,6 +603,7 @@
 | [Concrete Cowboy](https://open.spotify.com/track/1lHcqILwMcqby0k7aUUPQO) | [Lanie Gardner](https://open.spotify.com/artist/5lhCycgJCjQIMpWNk4DycY) | [Concrete Cowboy](https://open.spotify.com/album/38gfC5aYAdL6L9iLh8cZB7) | 2:27 | 2025-05-28 | 2025-06-12 |
 | [Confetti](https://open.spotify.com/track/5avVT8FvGTcVfjO0B9pvVl) | [Jessica Sevier](https://open.spotify.com/artist/7bEcIrpwBawp9YKL2MxLL2) | [Confetti](https://open.spotify.com/album/7GH8JO6KGEzYtPDsn5a6ce) | 3:22 | 2022-03-23 | 2022-05-05 |
 | [Confident Soul](https://open.spotify.com/track/0VOuoqK22y7LvSVdcD4Ois) | [MAYCE](https://open.spotify.com/artist/5MLjCi6tlmcBXNyklgRzaZ) | [Confident Soul](https://open.spotify.com/album/0PZpqVnnAXcMkp93zIt7MK) | 2:35 | 2025-04-02 | 2025-07-03 |
+| [couch surfing](https://open.spotify.com/track/5vFeqNZ6scjLGrnl8kXfoy) | [Ashley Anne](https://open.spotify.com/artist/4oAZAzn6NKRzLM8LTtrVsw) | [couch surfing](https://open.spotify.com/album/1slTTZSYZLotmG0mcgEILr) | 3:31 | 2025-11-20 |  |
 | [Could Be](https://open.spotify.com/track/1edUbfLKsZtb3TyHEiMqGd) | [Mandi Sagal](https://open.spotify.com/artist/20rpj95oeUfbBkmtX70Ulb) | [Could Be](https://open.spotify.com/album/1E2JVExprzOyW242IFkyWQ) | 2:49 | 2022-11-02 | 2023-01-20 |
 | [Could've Been Me](https://open.spotify.com/track/3vTJPyjA7EODUmkEcTwG3z) | [Alex Mather](https://open.spotify.com/artist/5MtAaF6q3qHVfXfoUdBokw) | [Could've Been Me](https://open.spotify.com/album/6ILotfqAYInf1NISEdo5cK) | 3:11 | 2024-07-31 | 2024-08-22 |
 | [Coulda Been Love](https://open.spotify.com/track/5Dm9FimCYenYhwH8Gn5PXK) | [Braden Hull](https://open.spotify.com/artist/6HhLzHoMHji3wtrHBFqXbz) | [Coulda Been Love](https://open.spotify.com/album/5MCfUgeC74HOHTGgyZD9lY) | 3:37 | 2025-05-21 | 2025-09-04 |
@@ -1835,6 +1838,7 @@
 | [Lone Cowboy](https://open.spotify.com/track/7aegyCPdCNFRdBHnyIt8qk) | [Danielle Ryan](https://open.spotify.com/artist/7lyU0zKn0p7RDoXFoL7opK) | [Lone Cowboy](https://open.spotify.com/album/0wwd5szL0XphC6OuixtbD2) | 3:25 | 2025-03-12 | 2025-06-19 |
 | [Lone Wolf](https://open.spotify.com/track/1yfFMgw1AtGZhGYrKGnqoB) | [Brett Bone](https://open.spotify.com/artist/0QDA974ne2luk5Xd839c1t) | [Lone Wolf](https://open.spotify.com/album/2OsjFCetHQAbvAp3ezxXVA) | 4:01 | 2022-06-09 | 2022-07-21 |
 | [Lonely](https://open.spotify.com/track/5Co4xbqzQ4KxxdrDvpinUY) | [Sheyna Gee](https://open.spotify.com/artist/05BcZCAQvpZCJSRqWFzSnF) | [Lonely](https://open.spotify.com/album/26Vma06OhMQftg1pYz0iq2) | 3:36 | 2025-01-15 | 2025-02-20 |
+| [Lonely Does](https://open.spotify.com/track/45fZt0zP56FwZxL1E4Fv7U) | [Connor McCutcheon](https://open.spotify.com/artist/3yluFQwZBhp5jJYLlRG034) | [Lonely Does](https://open.spotify.com/album/2yTTb6RXwzzvL4ws6Qwi7D) | 3:12 | 2025-11-20 |  |
 | [Lonely Half](https://open.spotify.com/track/2BQnFxkXGlhK6DEKys1vcB) | [Nolan Gray](https://open.spotify.com/artist/1OYSaj41rLrzYgckKdMTBN) | [Lonely Half](https://open.spotify.com/album/69A6wpjebCtcaZMANUcJoZ) | 2:50 | 2024-01-24 | 2024-03-21 |
 | [Lonely Long](https://open.spotify.com/track/1As01AmmQnBtYTlZNjSrVH) | [Twinnie](https://open.spotify.com/artist/73zbrZKfIqOfVWaSM4k71b) | [Blue Hour \(After Dark\)](https://open.spotify.com/album/0z1AEjeqAClT0Ock758zoc) | 3:32 | 2023-10-25 | 2023-11-30 |
 | [Lonely Look Like](https://open.spotify.com/track/6IHdxPB9IwXTDNTW6KsSIo) | [Carson Wallace](https://open.spotify.com/artist/7a8gQGuEPK8XmHhK8tWkFF) | [Lonely Look Like](https://open.spotify.com/album/0LVucQtYyQ51s1kVbZKhmA) | 3:44 | 2023-04-24 | 2023-06-01 |
@@ -2384,6 +2388,7 @@
 | [Reckless](https://open.spotify.com/track/614ON0DuAKhgMn5qw55JPc) | [Callista Clark](https://open.spotify.com/artist/5aizOVB0aFinBgezLPkhnm) | [Reckless](https://open.spotify.com/album/6Wowb2a0dWRgHDXty6h0Gx) | 3:07 | 2024-04-17 | 2024-06-20 |
 | [RECKLESS](https://open.spotify.com/track/08a51R97SLj4lbrKtG6NCS) | [Clayton Shay](https://open.spotify.com/artist/70paYnUiMhlriyqsG4D0CR) | [RECKLESS](https://open.spotify.com/album/6rDkSeIBYwg0q7k048f7vM) | 2:58 | 2022-01-12 | 2022-02-10 |
 | [Reckless](https://open.spotify.com/track/4YkGibAhJwX7ZV7owEEOLj) | [Johnny Gates](https://open.spotify.com/artist/2qwlFTAV2LVhQ01ljAyWJz) | [East Music Row](https://open.spotify.com/album/5wsDMCiymR1Q1KIQ6JV5Ep) | 2:58 | 2021-12-01 | 2022-01-13 |
+| [Reckoned With](https://open.spotify.com/track/7J9tiMgvxu8ar1vkBoS0g7) | [Aidan Canfield](https://open.spotify.com/artist/2ioXm53iT5CaTN1ymEv3Yw) | [Reckoned With](https://open.spotify.com/album/5FdiCz8Vob6hViK5kVkwtG) | 3:45 | 2025-11-20 |  |
 | [RED BLANKET](https://open.spotify.com/track/6FVrwzf1lrR4binZxIeOwZ) | [Angel White](https://open.spotify.com/artist/3mZYlwYjFmhMOxUIcbncHF) | [RED BLANKET](https://open.spotify.com/album/0hjt15K2eTid6dKwycxuXj) | 4:06 | 2023-10-11 | 2024-01-11 |
 | [Red Clay Summer](https://open.spotify.com/track/1QYgo36dQUizU17mPXDClO) | [Noah Hicks](https://open.spotify.com/artist/32KwPw06eWXhBWBYFE2BvO) | [Red Clay Summer](https://open.spotify.com/album/5HULBY6pSjQqjMdzp2DuRN) | 3:01 | 2023-09-06 | 2023-11-30 |
 | [Red Dirt Cursed](https://open.spotify.com/track/71UT0ooGTviqmCfpdClNoY) | [Rodell Duff](https://open.spotify.com/artist/4JMY9dX6C0SYxm1YEGAEky) | [Red Dirt Cursed](https://open.spotify.com/album/64evxUin5gboW74Ko8TFef) | 3:56 | 2022-06-01 | 2022-07-07 |
@@ -2805,6 +2810,7 @@
 | [Strawberry, California](https://open.spotify.com/track/0MSRg7rbB8d6k8SWWHKXam) | [Abbie Callahan](https://open.spotify.com/artist/6XwNHIhBOIQCoD7zAR2Xhm) | [Grossly Aware](https://open.spotify.com/album/1i8zIVZoRTC5GEM2ZG1UWE) | 3:36 | 2025-07-30 | 2025-11-14 |
 | [Striking Out](https://open.spotify.com/track/77ND9dHgydRSYBnhsNvsGW) | [Josh Meloy](https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq) | [Where You Came From](https://open.spotify.com/album/60pNWF18ciZWwngoZewP5K) | 2:48 | 2024-06-12 | 2025-01-16 |
 | [Strong](https://open.spotify.com/track/3lNLh68uisVF55e8UtNBzo) | [Ian Flanigan](https://open.spotify.com/artist/5rPnSGtasjvQgEwK0Wmb1y) | [Strong](https://open.spotify.com/album/5U9DW1nMIlxYzKAei3vxyQ) | 3:17 | 2022-09-07 | 2022-10-13 |
+| [Stuck](https://open.spotify.com/track/6IXVBpJeStomRC4r3OHYu8) | [Zac Hart](https://open.spotify.com/artist/5IMlHwNBRTSplBWaMMPuYb) | [Stuck](https://open.spotify.com/album/487S2v4UYuievqfPsMkQke) | 2:51 | 2025-11-20 |  |
 | [Stuck In My Ways](https://open.spotify.com/track/52rfjtOfpGPQm0xuq0slE5) | [Lauren Watkins](https://open.spotify.com/artist/4gF2OluaMxcC4qrGbPaB7S) | [Introducing: The Heartbreak](https://open.spotify.com/album/4mhjnMYRVvFA1YwSWOMdMA) | 2:55 | 2023-11-08 | 2023-11-30 |
 | [Stuck In Seattle](https://open.spotify.com/track/6rqHmOymktju0onA6vjjmK) | [Dylan Wolfe](https://open.spotify.com/artist/6NM2BhEMkVbLgCB6RlM6SX) | [Stuck In Seattle](https://open.spotify.com/album/1XINKCmYtQuZOeEeEaxc1F) | 3:02 | 2025-03-26 | 2025-04-24 |
 | [Stuck in the Middle](https://open.spotify.com/track/4S9qiJED7dp5O2PHNBfsYt) | [Lil Man J](https://open.spotify.com/artist/5zfsO7xEsAQylcNrIdKm9H) | [Stuck in the Middle](https://open.spotify.com/album/4tOYDUoYvpechI9VzxJs1M) | 2:35 | 2025-07-16 |  |

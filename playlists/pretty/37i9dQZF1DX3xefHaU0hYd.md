@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xefHaU0hYd.md) - [plain]
 
 > Listen to the soundtracks of Lovely Runner\. \(선재 업고 튀어의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the ost singers\. \(Ost 가창자들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,539 likes - 104 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,554 likes - 104 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xefHaU0hYd.md) - [plain]
 | 51 | [Happiness Is Doubled When Shared](https://open.spotify.com/track/2KX42BdTFSYhJmFaFbaK85) | [Yooan Kim](https://open.spotify.com/artist/1HcoUEnl4hqoZXazYKGZAo) | [Happiness Is Doubled When Shared](https://open.spotify.com/album/06NBmirsTJFlIggRerPsqP) | 4:05 |
 | 52 | [Curated by Deundeun Man](https://open.spotify.com/track/1q5mBSSYNA23hFOyaB8Il1) | [Lovely Runner](https://open.spotify.com/artist/6oGMJ0SXxbUHhxfwHKsccd) | [Lovely Runner Audio liners](https://open.spotify.com/album/34VqYgGxDnaDjNHyoZE3Ut) | 0:42 |
 | 53 | [Perhaps Love](https://open.spotify.com/track/73lwJ5P3ehRiqimOgWiwOE) | [HowL](https://open.spotify.com/artist/56bJgGFV3JTVW5hAGEU1ad), [J.ae](https://open.spotify.com/artist/3jzvjysVAbooBjfvIqtqTY) | [Princess Hours \(Original Television Soundtrack\)](https://open.spotify.com/album/0VyUBfpNgMgI3DBQgp4Ogu) | 4:35 |
-| 54 | [Rock with You \- Single Version](https://open.spotify.com/track/7oOOI85fVQvVnK5ynNMdW7) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 3:40 |
+| 54 | [Rock with You \- Single Version](https://open.spotify.com/track/7oOOI85fVQvVnK5ynNMdW7) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 3:39 |
 | 55 | [In My Pocket](https://open.spotify.com/track/5WR0yq7DFaszooQla269N5) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [West End Coast](https://open.spotify.com/album/153LXaN8yMrflOv1gVd33c) | 4:58 |
 | 56 | [In Return](https://open.spotify.com/track/00oju5ddIM8KQDeZECbLBM) | [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL) | [Still Waters](https://open.spotify.com/album/3FW3Jl5Y9Hd7tzMm2iEZDr) | 3:20 |
 | 57 | [free love](https://open.spotify.com/track/0GPJSHYaXh8rZSSJoUMgyl) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [no song without you](https://open.spotify.com/album/3DG5MS8iKYcJROCnb1DYDf) | 3:29 |

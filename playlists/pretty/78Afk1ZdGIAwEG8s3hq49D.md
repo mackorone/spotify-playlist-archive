@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/78Afk1ZdGIAwEG8s3hq49D.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Gotta Serve Somebody](https://open.spotify.com/track/760420tYNmNjFgi8bWvbop) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Slow Train Coming](https://open.spotify.com/album/5k4z33VjpVmkOB18IgOD8E) | 5:24 |
+| 1 | [Gotta Serve Somebody](https://open.spotify.com/track/760420tYNmNjFgi8bWvbop) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Slow Train Coming](https://open.spotify.com/album/5k4z33VjpVmkOB18IgOD8E) | 5:25 |
 | 2 | [House of the Rising Sun](https://open.spotify.com/track/3XC7Jd6SfrQYKZJ6inyRHK) | [The Animals](https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP) | [Most of the Animals](https://open.spotify.com/album/0Vhk3dVT59LnhwSHFXLIXA) | 4:29 |
 | 3 | [Sleepwalker's Serenade \- 1994 \- Remaster](https://open.spotify.com/track/0IbNaXjHkr0Hnf4ckYkPqX) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [100 Best Of Blue Note](https://open.spotify.com/album/0lcdc9pUe5p7FQZsOpE3gG) | 3:37 |
 | 4 | [Little Boxes](https://open.spotify.com/track/0dRvjBVCStIlBxOqbhAQ3q) | [Malvina Reynolds](https://open.spotify.com/artist/5fhMeS3lpUqUpTNuAxU2rN) | [Ear to the Ground](https://open.spotify.com/album/3Sse6vFrnjwRIriJaxV38q) | 2:11 |
@@ -35,6 +35,6 @@ pretty - [cumulative](/playlists/cumulative/78Afk1ZdGIAwEG8s3hq49D.md) - [plain]
 | 25 | [Hogfoot](https://open.spotify.com/track/5HJ9Szv9Nw5FTdhpEbDkL0) | [John Hartford](https://open.spotify.com/artist/0NAr5zThPfMx26ISgooQK6) | [O Brother, Where Art Thou? \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/7JYYPKD4ZegnnYX00jLWBY) | 3:47 |
 | 26 | [The White Dove](https://open.spotify.com/track/53EUvDqpwOOkuFskFMEAKU) | [Lester Flatt & Earl Scruggs And The Stanley Brothers](https://open.spotify.com/artist/77zHknuvy5itcPjmsSbIfa) | [Lester Flatt & Earl Scruggs And The Stanley Brothers Selected Sides 1947 \- 1953](https://open.spotify.com/album/3B41IOO3Qb4bpArs2EFSnO) | 3:18 |
 | 27 | [Wagon Wheel](https://open.spotify.com/track/5GAXoR1hpNquQFcY1qzNFU) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [O.C.M.S.](https://open.spotify.com/album/17tsichbTrbV8Wb3WYEXgb) | 3:52 |
-| 28 | [Shelter from the Storm](https://open.spotify.com/track/3y4Uza6K58JXQ7RYya8ZI5) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Blood On The Tracks](https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF) | 5:01 |
+| 28 | [Shelter from the Storm](https://open.spotify.com/track/3y4Uza6K58JXQ7RYya8ZI5) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Blood On The Tracks](https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF) | 5:00 |
 
 Snapshot ID: `AAAAQVuVkxW+X0XY2MoGbJfNwwTIJtxC`

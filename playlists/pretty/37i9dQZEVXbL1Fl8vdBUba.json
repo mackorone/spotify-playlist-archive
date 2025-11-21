@@ -1,12 +1,12 @@
 {
   "description": "Your weekly update of the most played tracks right now - Colombia.",
-  "num_followers": 38259,
+  "num_followers": 38270,
   "original_name": "Top Songs - Colombia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MLE0+AAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MLKGeAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
       "added_at": "2025-11-14 14:07:46",
@@ -398,6 +398,10 @@
         {
           "name": "GeezyDee",
           "url": "https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a"
+        },
+        {
+          "name": "Prodmonja",
+          "url": "https://open.spotify.com/artist/1jO63kMnVlY5VxryDFQsTO"
         }
       ],
       "duration_ms": 244333,

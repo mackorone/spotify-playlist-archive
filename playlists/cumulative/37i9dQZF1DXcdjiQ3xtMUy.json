@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Evangelia ",
+  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Sakis Rouvas",
   "name": "Greek Pop",
   "tracks": [
     {
@@ -884,7 +884,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 156862,
       "name": "BLOUZAKI",
       "url": "https://open.spotify.com/track/7eVEcqGwyn59jK1hBaFhgP"
@@ -1501,6 +1501,32 @@
     },
     {
       "album": {
+        "name": "Erotas Skoteinos",
+        "url": "https://open.spotify.com/album/43QQy2poaVJfWrpi6XUzEe"
+      },
+      "artists": [
+        {
+          "name": "Sakis Rouvas",
+          "url": "https://open.spotify.com/artist/0VuyN0xzSqykiDB2MxihTe"
+        },
+        {
+          "name": "ARCADE",
+          "url": "https://open.spotify.com/artist/565UjtVObRIa1hdNFUJajr"
+        },
+        {
+          "name": "Beyond",
+          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181333,
+      "name": "Erotas Skoteinos",
+      "url": "https://open.spotify.com/track/5z6ZEbRBSaOdrDV8qdh4rv"
+    },
+    {
+      "album": {
         "name": "Etsi Eimai Ego",
         "url": "https://open.spotify.com/album/1LX8tlGm8TGYQn5sa8MQW4"
       },
@@ -2095,6 +2121,24 @@
     },
     {
       "album": {
+        "name": "Ithopoios",
+        "url": "https://open.spotify.com/album/6SvQa7qWMFLI4bl4iKVJwt"
+      },
+      "artists": [
+        {
+          "name": "Ellize",
+          "url": "https://open.spotify.com/artist/16NpduEB1MO70qblBBj3GH"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137896,
+      "name": "Ithopoios",
+      "url": "https://open.spotify.com/track/7reX1GQGNZbFBM9JzVWR8S"
+    },
+    {
+      "album": {
         "name": "Kalinixta",
         "url": "https://open.spotify.com/album/2KmVPAlqvFAUyBdXv1NlqO"
       },
@@ -2186,7 +2230,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 189374,
       "name": "Kathreftis",
       "url": "https://open.spotify.com/track/4azlWSauf9tzq8otYeEM5U"
@@ -2457,6 +2501,24 @@
     },
     {
       "album": {
+        "name": "Leei Leei Leei",
+        "url": "https://open.spotify.com/album/6WjBh4pW5jI97ugVbT8SO1"
+      },
+      "artists": [
+        {
+          "name": "Ivi Adamou",
+          "url": "https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189152,
+      "name": "Leei Leei Leei",
+      "url": "https://open.spotify.com/track/5ILUPEjMQHEOi3QTChOIa1"
+    },
+    {
+      "album": {
         "name": "LOCO",
         "url": "https://open.spotify.com/album/28URYDcEbC2mTOfVJm4zt5"
       },
@@ -2504,7 +2566,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 156923,
       "name": "LOLA",
       "url": "https://open.spotify.com/track/08ZOiOkRA8HPwrz9hsum1n"

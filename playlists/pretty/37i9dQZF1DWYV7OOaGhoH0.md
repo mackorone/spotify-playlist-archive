@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 
 > The best in folk & acoustic today featuring music from Florence + The Machine
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,728,639 likes - 111 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,728,494 likes - 111 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

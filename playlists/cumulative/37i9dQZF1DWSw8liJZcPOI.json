@@ -49,6 +49,28 @@
     },
     {
       "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/1b9j5iCjAHD8pW3ymNIQtR"
+      },
+      "artists": [
+        {
+          "name": "Rusanda Panfili",
+          "url": "https://open.spotify.com/artist/7i3Xc8Q0FEGHlsERoPgejc"
+        },
+        {
+          "name": "Johannes Winkler",
+          "url": "https://open.spotify.com/artist/26H2bmjstmhJsKxacvLKLk"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249947,
+      "name": "11 Dimensions",
+      "url": "https://open.spotify.com/track/7cTVvjLlJrEgIg7z2N8fbf"
+    },
+    {
+      "album": {
         "name": "Outtakes II",
         "url": "https://open.spotify.com/album/1s3F1qoQeifoO6WgQtYm7f"
       },
@@ -1054,7 +1076,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 212721,
       "name": "aura",
       "url": "https://open.spotify.com/track/5GPmHwAHEhsHNYJonzl9lp"
@@ -2260,7 +2282,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 182836,
       "name": "Chasing the Present",
       "url": "https://open.spotify.com/track/0XJq2OGUGCNXq3FfAFL4dw"
@@ -5193,6 +5215,24 @@
     },
     {
       "album": {
+        "name": "Hoover",
+        "url": "https://open.spotify.com/album/2ROBgbg8qM9LX0HqwE6RGZ"
+      },
+      "artists": [
+        {
+          "name": "Isobel Waller-Bridge",
+          "url": "https://open.spotify.com/artist/1Iy8JKDTXo8e9HmyTCaTOZ"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340218,
+      "name": "Hoover",
+      "url": "https://open.spotify.com/track/06nFOtNdgdWVbYZvVzJnmw"
+    },
+    {
+      "album": {
         "name": "Horizons",
         "url": "https://open.spotify.com/album/1No9s0CqX1i0Ic9W1dpo9W"
       },
@@ -6928,6 +6968,36 @@
       "duration_ms": 258000,
       "name": "Moonmoons",
       "url": "https://open.spotify.com/track/4TspfEJNuFpudxZvaIbyKs"
+    },
+    {
+      "album": {
+        "name": "Moulin",
+        "url": "https://open.spotify.com/album/2w8tCHkXejPK2UXxuYz3bi"
+      },
+      "artists": [
+        {
+          "name": "Margaret Hermant",
+          "url": "https://open.spotify.com/artist/3EuUrHJPp2kp1mUfDBzlin"
+        },
+        {
+          "name": "Neil Leiter",
+          "url": "https://open.spotify.com/artist/6JadM3Xj5echVd3jCNZQJS"
+        },
+        {
+          "name": "Gary De Cart",
+          "url": "https://open.spotify.com/artist/0t8CbUh4kQGOENgg1k2Bi1"
+        },
+        {
+          "name": "Echo Collective",
+          "url": "https://open.spotify.com/artist/0vA5v6tBmGdzhupEeUDK9S"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192736,
+      "name": "Moulin",
+      "url": "https://open.spotify.com/track/3Uu6jtYvNxoltgQz3CbB0R"
     },
     {
       "album": {
@@ -9307,6 +9377,24 @@
     },
     {
       "album": {
+        "name": "Shimmerfall",
+        "url": "https://open.spotify.com/album/2xdIc7jSQcnMlRZ3y6i3E1"
+      },
+      "artists": [
+        {
+          "name": "Mattia Vlad Morleo",
+          "url": "https://open.spotify.com/artist/2VBeBMU2ZBdmqnsBZ45CXE"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234685,
+      "name": "Shimmerfall",
+      "url": "https://open.spotify.com/track/4J1WTuWrYmv6z7FbKFUh7V"
+    },
+    {
+      "album": {
         "name": "Sinfonia (After Bach, BWV 248)",
         "url": "https://open.spotify.com/album/2dTHnNQKu9f7x7FN7G0rzk"
       },
@@ -9454,6 +9542,24 @@
       "duration_ms": 332607,
       "name": "Solanales",
       "url": "https://open.spotify.com/track/6U0l3hk3oTtNtPwk2Ekjxl"
+    },
+    {
+      "album": {
+        "name": "Solina",
+        "url": "https://open.spotify.com/album/2amQLghFA6rOkysx8B187Z"
+      },
+      "artists": [
+        {
+          "name": "Peter Gregson",
+          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290551,
+      "name": "Solina",
+      "url": "https://open.spotify.com/track/2OoaNGKh2Z3vuINAJfMRzM"
     },
     {
       "album": {
@@ -10604,7 +10710,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 276000,
       "name": "The Darkest Descent - Edit",
       "url": "https://open.spotify.com/track/1bYqDhtK08QT3f0CjHqgwi"
@@ -11806,6 +11912,24 @@
       "duration_ms": 435666,
       "name": "Valentine My Funny",
       "url": "https://open.spotify.com/track/0g14q3zrGDf8GiVH8WnDl8"
+    },
+    {
+      "album": {
+        "name": "Veden syli (Water\u2019s Embrace)",
+        "url": "https://open.spotify.com/album/231E7UarKtu20uvADcqfbu"
+      },
+      "artists": [
+        {
+          "name": "Lauri Porra",
+          "url": "https://open.spotify.com/artist/6PcS0mIfMV5JOY3NX2bkTn"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204124,
+      "name": "Veden syli",
+      "url": "https://open.spotify.com/track/3J0SvfDLPrfz0lXaHkwkpJ"
     },
     {
       "album": {

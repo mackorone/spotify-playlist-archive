@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-18",
-  "description": "canciones para chillear con Conociendo Rusia & Jorge Drexler.",
+  "description": "canciones para chillear con Rigoberta Bandini & Zoe Gotusso",
   "name": "pop tranqui",
   "tracks": [
     {
@@ -222,7 +222,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-17",
+      "date_removed": null,
       "duration_ms": 226840,
       "name": "Amor Loco",
       "url": "https://open.spotify.com/track/1QpOjZOumwGNIo5uvbSHIt"
@@ -270,7 +270,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 136931,
       "name": "Anoche",
       "url": "https://open.spotify.com/track/09rQ0jh0ZeUjDX8sePNViv"
@@ -292,6 +292,28 @@
       "duration_ms": 163333,
       "name": "Ansiedark",
       "url": "https://open.spotify.com/track/32Im5bJVsaj0m1n43xk0yA"
+    },
+    {
+      "album": {
+        "name": "El Verdadero",
+        "url": "https://open.spotify.com/album/2FH18Hc5xC6LhgLA5ylBHt"
+      },
+      "artists": [
+        {
+          "name": "Juan Ingaramo",
+          "url": "https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2"
+        },
+        {
+          "name": "Julian Kartun",
+          "url": "https://open.spotify.com/artist/04f2OyzgBLH7Wh4m57OPv8"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163682,
+      "name": "Antiguo y moderno",
+      "url": "https://open.spotify.com/track/61yrUJAIQBb6xAL1PAn3uf"
     },
     {
       "album": {
@@ -778,7 +800,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 213367,
       "name": "Deseo",
       "url": "https://open.spotify.com/track/3NeG4L63NUnmhdoUQygd2W"
@@ -858,7 +880,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 238508,
       "name": "Duele",
       "url": "https://open.spotify.com/track/1jdRfL23ge6oJHnEtcvr8n"
@@ -942,7 +964,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 173003,
       "name": "En la Moto",
       "url": "https://open.spotify.com/track/3oOnGcGqJEH17jLSxsMFFA"
@@ -1054,7 +1076,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 147500,
       "name": "Estrella",
       "url": "https://open.spotify.com/track/5arlUnESk69UOTh80g3rMZ"
@@ -1108,7 +1130,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 118750,
       "name": "FEELIN' SOMETHING",
       "url": "https://open.spotify.com/track/7gzL26SA463jfovMCDgJRT"
@@ -1220,7 +1242,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 216000,
       "name": "GENTILEZA",
       "url": "https://open.spotify.com/track/4OcYvKOHpiBxWFKeAJ0XVK"
@@ -1358,7 +1380,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-11",
+      "date_removed": null,
       "duration_ms": 233617,
       "name": "I Knew You Were Trouble - Spotify Singles",
       "url": "https://open.spotify.com/track/30QYxvXOJZhGBF6DvpNb8w"
@@ -1846,7 +1868,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-02",
+      "date_removed": null,
       "duration_ms": 164195,
       "name": "Maybe October",
       "url": "https://open.spotify.com/track/2ou8EQgoiqk73toLQrEIsc"
@@ -2016,7 +2038,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-08",
+      "date_removed": null,
       "duration_ms": 147597,
       "name": "My Mind & Me",
       "url": "https://open.spotify.com/track/0XER3HPMx223xWaAgNKp4Y"
@@ -2132,10 +2154,32 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 162794,
       "name": "No Pidas Perd\u00f3n",
       "url": "https://open.spotify.com/track/5IY0AjOuUuGUSOa1L5rzIf"
+    },
+    {
+      "album": {
+        "name": "No te apartes de m\u00ed",
+        "url": "https://open.spotify.com/album/7mxDP92GMMgat8DyUSHND4"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        },
+        {
+          "name": "Rigoberta Bandini",
+          "url": "https://open.spotify.com/artist/7DOERbtkx9aTLvWzZSB0qx"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198243,
+      "name": "No te apartes de m\u00ed",
+      "url": "https://open.spotify.com/track/3m1Inb0nuLgTW0Hv4LxLQ8"
     },
     {
       "album": {
@@ -2470,7 +2514,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-11",
+      "date_removed": null,
       "duration_ms": 198850,
       "name": "Plegarias",
       "url": "https://open.spotify.com/track/4DfhsWuqZonO5URxvwkBSK"
@@ -2506,7 +2550,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 264533,
       "name": "Por s\u00ed o por no",
       "url": "https://open.spotify.com/track/2a5IFM7qiPy7FTqx8hidRQ"
@@ -2590,7 +2634,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 155370,
       "name": "Rayo de sol",
       "url": "https://open.spotify.com/track/11aKpufd8rGqYlnvdV1tsy"
@@ -2826,7 +2870,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-11",
+      "date_removed": null,
       "duration_ms": 232380,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/4266h07udCdZ83jswW10IG"
@@ -2952,7 +2996,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-22",
+      "date_removed": null,
       "duration_ms": 173866,
       "name": "The Craving - single version",
       "url": "https://open.spotify.com/track/0S7lkKStHgfgjgwSFOvRNA"
@@ -2974,7 +3018,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-26",
+      "date_removed": null,
       "duration_ms": 185422,
       "name": "The Joker And The Queen (feat. Taylor Swift)",
       "url": "https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP"
@@ -3166,7 +3210,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-02",
+      "date_removed": null,
       "duration_ms": 193154,
       "name": "Una Noche Contigo",
       "url": "https://open.spotify.com/track/5RfW6BJyGPnwUJgqcGh5KB"
@@ -3318,7 +3362,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 217000,
       "name": "Vuelo a vos",
       "url": "https://open.spotify.com/track/1A6VU60fUtBTXOihqlhffl"

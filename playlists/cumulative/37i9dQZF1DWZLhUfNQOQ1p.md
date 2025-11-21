@@ -4,7 +4,7 @@
 
 > Musica da ascoltare con un drink in mano 🍹
 
-441 songs - 1 day 5 hr 43 min
+442 songs - 1 day 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -315,6 +315,7 @@
 | [Pressure Makes Diamonds](https://open.spotify.com/track/7xUXITq5VTGwmt4Klywd2L) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Pressure Makes Diamonds](https://open.spotify.com/album/4ovkiGQFIBK9TcxzoNvzlh) | 5:44 | 2024-07-01 | 2025-11-01 |
 | [Prisencolinensinainciusol](https://open.spotify.com/track/0HQf0bd3oSZei450iKuUFR) | [Adriano Celentano](https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV) | [Celentano Hit Parade / Le Volte Che Adriano E' Stato Primo](https://open.spotify.com/album/5dP9R1pAhtCoZJXU3iqW4y) | 3:49 | 2024-05-19 | 2024-06-03 |
 | [Psicomagia](https://open.spotify.com/track/1BDfGMy4SK2OaZhX522zB6) | [Popa](https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB) | [Psicomagia](https://open.spotify.com/album/0htTcwRP2A5J33zOqtkgNV) | 3:10 | 2023-05-14 | 2023-05-30 |
+| [Pullin'](https://open.spotify.com/track/20WQJASER0SwoV5SmHQzIa) | [Collect 200](https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE) | [Pullin'](https://open.spotify.com/album/6qMnsmBLNjDqti2c1yq0em) | 3:40 | 2025-11-13 |  |
 | [Push It Up](https://open.spotify.com/track/5h5PYUY5NCeCPLvPixTgVl) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [TILT](https://open.spotify.com/album/0X9CpcnwoPgzznLDDGx8PI) | 3:24 | 2023-05-14 | 2023-05-30 |
 | [Pussy Power \- DESIREE Remix](https://open.spotify.com/track/3p4obn8kIkhvsGSji3CuXM) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Nomi Ruiz](https://open.spotify.com/artist/5VNCplADfySxatpXe5jjDM), [DESIREE](https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa) | [Pussy Power \(Desiree Remix\)](https://open.spotify.com/album/1Rhg4uHx4AITp2cOnykPur) | 5:57 | 2024-02-28 | 2024-06-23 |
 | [Rah That's A Mad Question](https://open.spotify.com/track/7oklbyYBpXg9Uvl4tMW2iU) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Rah That's A Mad Question](https://open.spotify.com/album/1tCAbCRfFmq6SJjklzryDI) | 3:47 | 2023-06-22 |  |
@@ -428,7 +429,7 @@
 | [Walking On A Dream](https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(10th Anniversary Edition\)](https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh) | 3:18 | 2023-06-22 | 2023-10-27 |
 | [Wap\-Bam\-Boogie](https://open.spotify.com/track/5qQgHAGv8IVlawD9dypc1b) | [Matt Bianco](https://open.spotify.com/artist/1WQky50vkzSvSCUl0ejWqb) | [Indigo \(Expanded\)](https://open.spotify.com/album/5WSFIeMmLU0okGEKsuxPQ4) | 7:32 | 2024-05-19 | 2024-06-03 |
 | [Wespennest \- Edit](https://open.spotify.com/track/4O2pqaEaHXhSXFmcy7bNLV) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg), [Sophia Kennedy](https://open.spotify.com/artist/1bQat2UgYwJAsNOrZxcfa5) | [Wespennest](https://open.spotify.com/album/0XkiX0O9zILe3t5Zm815lz) | 3:30 | 2023-07-21 | 2023-11-18 |
-| [WestBorn](https://open.spotify.com/track/6PQmbLYv07IprWdrNeJFjT) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Soundboy](https://open.spotify.com/album/7qrfhfLXhqviE9z6KnfLBy) | 3:06 | 2023-05-30 |  |
+| [WestBorn](https://open.spotify.com/track/6PQmbLYv07IprWdrNeJFjT) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Soundboy](https://open.spotify.com/album/7qrfhfLXhqviE9z6KnfLBy) | 3:06 | 2023-05-30 | 2025-11-21 |
 | [What I Am](https://open.spotify.com/track/6hHUiDe461VUoTHnsplRYs) | [Edie Brickell & New Bohemians](https://open.spotify.com/artist/4awU3JRQXIYoxabdwO92AU) | [Shooting Rubberbands At The Stars](https://open.spotify.com/album/2oZzKVi2mqkQnZOad6DXMw) | 4:56 | 2024-05-19 | 2024-06-03 |
 | [What You Won't Do for Love](https://open.spotify.com/track/1Qe42XGSUtjDgJJgCsYwkh) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp) | [What You Won't Do for Love](https://open.spotify.com/album/3r90h4IKPw9pXl4NPtrhus) | 4:42 | 2021-08-05 | 2022-07-29 |
 | [When I'm Gone](https://open.spotify.com/track/5KnvOIDN3m5e7A09oa578x) | [Julia Bergwall](https://open.spotify.com/artist/5gdO1cvqTN17AuyLUvC2hD) | [When I'm Gone](https://open.spotify.com/album/1AabiQu9nl7ts9NPNalWSI) | 3:12 | 2021-08-05 | 2023-03-19 |

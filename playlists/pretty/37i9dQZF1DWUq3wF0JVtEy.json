@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out.",
-  "num_followers": 920525,
+  "num_followers": 920460,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
@@ -211,46 +211,6 @@
     {
       "added_at": "2025-11-07 05:00:42",
       "album": {
-        "name": "Insomnia",
-        "url": "https://open.spotify.com/album/4kfORdPZiXbOTGFBceUrf9"
-      },
-      "artists": [
-        {
-          "name": "Marc Kiss",
-          "url": "https://open.spotify.com/artist/4o5VpOIpQtpayG0gbDaNzO"
-        },
-        {
-          "name": "ThomTree",
-          "url": "https://open.spotify.com/artist/5AzHtrPXDhfNECgcGOjQse"
-        },
-        {
-          "name": "Crystal Rock",
-          "url": "https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e"
-        }
-      ],
-      "duration_ms": 156093,
-      "name": "Insomnia",
-      "url": "https://open.spotify.com/track/5czwOsSExLRO25zcnaJuRr"
-    },
-    {
-      "added_at": "2025-11-07 05:00:42",
-      "album": {
-        "name": "feel U luv Me",
-        "url": "https://open.spotify.com/album/0JdYTPeARfVEIDfRgWMZgY"
-      },
-      "artists": [
-        {
-          "name": "Knock2",
-          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
-        }
-      ],
-      "duration_ms": 234158,
-      "name": "feel U luv Me",
-      "url": "https://open.spotify.com/track/0xDSZ754ZOdthmF784uuE5"
-    },
-    {
-      "added_at": "2025-11-07 05:00:42",
-      "album": {
         "name": "BANG BANG POW!",
         "url": "https://open.spotify.com/album/73sdRnqkCqKqH5XtiianPO"
       },
@@ -271,6 +231,46 @@
       "duration_ms": 133406,
       "name": "BANG BANG POW!",
       "url": "https://open.spotify.com/track/6SI5la9CBnw4UbcdnarkfF"
+    },
+    {
+      "added_at": "2025-11-07 05:00:42",
+      "album": {
+        "name": "feel U luv Me",
+        "url": "https://open.spotify.com/album/0JdYTPeARfVEIDfRgWMZgY"
+      },
+      "artists": [
+        {
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+        }
+      ],
+      "duration_ms": 234158,
+      "name": "feel U luv Me",
+      "url": "https://open.spotify.com/track/0xDSZ754ZOdthmF784uuE5"
+    },
+    {
+      "added_at": "2025-11-07 05:00:42",
+      "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/4kfORdPZiXbOTGFBceUrf9"
+      },
+      "artists": [
+        {
+          "name": "Marc Kiss",
+          "url": "https://open.spotify.com/artist/4o5VpOIpQtpayG0gbDaNzO"
+        },
+        {
+          "name": "ThomTree",
+          "url": "https://open.spotify.com/artist/5AzHtrPXDhfNECgcGOjQse"
+        },
+        {
+          "name": "Crystal Rock",
+          "url": "https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e"
+        }
+      ],
+      "duration_ms": 156093,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/5czwOsSExLRO25zcnaJuRr"
     },
     {
       "added_at": "2025-11-07 05:00:42",
@@ -307,6 +307,22 @@
     {
       "added_at": "2025-11-07 05:00:42",
       "album": {
+        "name": "GASOLINA & COCAINA",
+        "url": "https://open.spotify.com/album/3mdYxKYicOvBpjQkDWM1az"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        }
+      ],
+      "duration_ms": 192390,
+      "name": "GASOLINA & COCAINA",
+      "url": "https://open.spotify.com/track/0e5hNZrUwqeKua0GJHPQFp"
+    },
+    {
+      "added_at": "2025-11-07 05:00:42",
+      "album": {
         "name": "Instant Moments",
         "url": "https://open.spotify.com/album/5Fg45x7G4Pq2DNZAek17vu"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 146195,
       "name": "No Sleep (6AM) (feat. MERYLL)",
       "url": "https://open.spotify.com/track/2hpoG18R8aBXB3O5QmheJt"
-    },
-    {
-      "added_at": "2025-11-07 05:00:42",
-      "album": {
-        "name": "GASOLINA & COCAINA",
-        "url": "https://open.spotify.com/album/3mdYxKYicOvBpjQkDWM1az"
-      },
-      "artists": [
-        {
-          "name": "HEDEGAARD",
-          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
-        }
-      ],
-      "duration_ms": 192390,
-      "name": "GASOLINA & COCAINA",
-      "url": "https://open.spotify.com/track/0e5hNZrUwqeKua0GJHPQFp"
     },
     {
       "added_at": "2025-11-07 05:00:42",
@@ -415,8 +415,8 @@
     {
       "added_at": "2025-11-07 05:00:42",
       "album": {
-        "name": "Seismic",
-        "url": "https://open.spotify.com/album/0YzIqCBSxVyubwfHwJX4IQ"
+        "name": "Bass Face",
+        "url": "https://open.spotify.com/album/1XlhAL5qwEwLWYmgzbY2Hw"
       },
       "artists": [
         {
@@ -424,17 +424,13 @@
           "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
         },
         {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
-        },
-        {
-          "name": "Fly With Us",
-          "url": "https://open.spotify.com/artist/5bCPEdvvv1s0CBBiuYc5eL"
+          "name": "Young Lyxx",
+          "url": "https://open.spotify.com/artist/1KaPSJ1xlpywMSGiK1Qftk"
         }
       ],
-      "duration_ms": 208125,
-      "name": "Seismic",
-      "url": "https://open.spotify.com/track/7pZJ7jGR6skYEkIYpjIE8b"
+      "duration_ms": 183014,
+      "name": "Bass Face",
+      "url": "https://open.spotify.com/track/4ati0obORrjjYFtYWqKTQY"
     },
     {
       "added_at": "2025-11-07 05:00:42",
@@ -515,8 +511,8 @@
     {
       "added_at": "2025-11-07 05:00:42",
       "album": {
-        "name": "Bass Face",
-        "url": "https://open.spotify.com/album/1XlhAL5qwEwLWYmgzbY2Hw"
+        "name": "Seismic",
+        "url": "https://open.spotify.com/album/0YzIqCBSxVyubwfHwJX4IQ"
       },
       "artists": [
         {
@@ -524,13 +520,17 @@
           "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
         },
         {
-          "name": "Young Lyxx",
-          "url": "https://open.spotify.com/artist/1KaPSJ1xlpywMSGiK1Qftk"
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        },
+        {
+          "name": "Fly With Us",
+          "url": "https://open.spotify.com/artist/5bCPEdvvv1s0CBBiuYc5eL"
         }
       ],
-      "duration_ms": 183014,
-      "name": "Bass Face",
-      "url": "https://open.spotify.com/track/4ati0obORrjjYFtYWqKTQY"
+      "duration_ms": 208125,
+      "name": "Seismic",
+      "url": "https://open.spotify.com/track/7pZJ7jGR6skYEkIYpjIE8b"
     },
     {
       "added_at": "2025-11-07 05:00:42",
@@ -995,6 +995,22 @@
     {
       "added_at": "2025-11-07 05:00:42",
       "album": {
+        "name": "Pump Up The Bass",
+        "url": "https://open.spotify.com/album/3pvkvEhntrf8LSkFYqRzVk"
+      },
+      "artists": [
+        {
+          "name": "D'Angello & Francis",
+          "url": "https://open.spotify.com/artist/63YpQAD9YjknZPfMVYqyIK"
+        }
+      ],
+      "duration_ms": 214625,
+      "name": "Pump Up The Bass",
+      "url": "https://open.spotify.com/track/3iQAh7rg2thgBt1hm6rUca"
+    },
+    {
+      "added_at": "2025-11-07 05:00:42",
+      "album": {
         "name": "IDGAF",
         "url": "https://open.spotify.com/album/1zNDh14KDji9oaZ9VYMIJG"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 180480,
       "name": "IDGAF",
       "url": "https://open.spotify.com/track/5x2hXRoEDfEF67WvWqoCqY"
-    },
-    {
-      "added_at": "2025-11-07 05:00:42",
-      "album": {
-        "name": "Pump Up The Bass",
-        "url": "https://open.spotify.com/album/3pvkvEhntrf8LSkFYqRzVk"
-      },
-      "artists": [
-        {
-          "name": "D'Angello & Francis",
-          "url": "https://open.spotify.com/artist/63YpQAD9YjknZPfMVYqyIK"
-        }
-      ],
-      "duration_ms": 214625,
-      "name": "Pump Up The Bass",
-      "url": "https://open.spotify.com/track/3iQAh7rg2thgBt1hm6rUca"
     },
     {
       "added_at": "2025-11-07 05:00:42",
@@ -1171,26 +1171,22 @@
     {
       "added_at": "2025-11-07 05:00:42",
       "album": {
-        "name": "Go Mode",
-        "url": "https://open.spotify.com/album/1gYtMfHRgHAUICRGG2FIZG"
+        "name": "Senses (Now We Go)",
+        "url": "https://open.spotify.com/album/7mRcRoOlROslZtjpnke7BO"
       },
       "artists": [
         {
-          "name": "INZO",
-          "url": "https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ"
+          "name": "Vluarr",
+          "url": "https://open.spotify.com/artist/0ClkclGbzsEY0aBtqq8MrB"
         },
         {
-          "name": "Blookah",
-          "url": "https://open.spotify.com/artist/3ekno9ZGX4ccxPQbAbMfeR"
-        },
-        {
-          "name": "DijahSB",
-          "url": "https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt"
+          "name": "ONEDUO",
+          "url": "https://open.spotify.com/artist/6snkU8m506AxtvyBGXPGrc"
         }
       ],
-      "duration_ms": 232031,
-      "name": "Go Mode",
-      "url": "https://open.spotify.com/track/1JFteRyORpC1dXMIKenftc"
+      "duration_ms": 153750,
+      "name": "Senses (Now We Go)",
+      "url": "https://open.spotify.com/track/0kE6DMsgVSb6oHJzQlGEFC"
     },
     {
       "added_at": "2025-11-07 05:00:42",
@@ -1215,22 +1211,26 @@
     {
       "added_at": "2025-11-07 05:00:42",
       "album": {
-        "name": "Senses (Now We Go)",
-        "url": "https://open.spotify.com/album/7mRcRoOlROslZtjpnke7BO"
+        "name": "Go Mode",
+        "url": "https://open.spotify.com/album/1gYtMfHRgHAUICRGG2FIZG"
       },
       "artists": [
         {
-          "name": "Vluarr",
-          "url": "https://open.spotify.com/artist/0ClkclGbzsEY0aBtqq8MrB"
+          "name": "INZO",
+          "url": "https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ"
         },
         {
-          "name": "ONEDUO",
-          "url": "https://open.spotify.com/artist/6snkU8m506AxtvyBGXPGrc"
+          "name": "Blookah",
+          "url": "https://open.spotify.com/artist/3ekno9ZGX4ccxPQbAbMfeR"
+        },
+        {
+          "name": "DijahSB",
+          "url": "https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt"
         }
       ],
-      "duration_ms": 153750,
-      "name": "Senses (Now We Go)",
-      "url": "https://open.spotify.com/track/0kE6DMsgVSb6oHJzQlGEFC"
+      "duration_ms": 232031,
+      "name": "Go Mode",
+      "url": "https://open.spotify.com/track/1JFteRyORpC1dXMIKenftc"
     },
     {
       "added_at": "2025-11-07 05:00:42",
@@ -1447,26 +1447,6 @@
     {
       "added_at": "2025-11-07 05:00:42",
       "album": {
-        "name": "For The People",
-        "url": "https://open.spotify.com/album/5QcP3EZoMWUi0ETWkh0NAj"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Third Party",
-          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
-        }
-      ],
-      "duration_ms": 219345,
-      "name": "For The People",
-      "url": "https://open.spotify.com/track/4MvA2osUdPQpDKNwuDjlM8"
-    },
-    {
-      "added_at": "2025-11-07 05:00:42",
-      "album": {
         "name": "Quick Highs",
         "url": "https://open.spotify.com/album/7JyrchSeYCqkjbzrajEXOf"
       },
@@ -1483,6 +1463,26 @@
       "duration_ms": 194243,
       "name": "Quick Highs",
       "url": "https://open.spotify.com/track/46Gsf4884pmAWdul0n5Px0"
+    },
+    {
+      "added_at": "2025-11-07 05:00:42",
+      "album": {
+        "name": "For The People",
+        "url": "https://open.spotify.com/album/5QcP3EZoMWUi0ETWkh0NAj"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Third Party",
+          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
+        }
+      ],
+      "duration_ms": 219345,
+      "name": "For The People",
+      "url": "https://open.spotify.com/track/4MvA2osUdPQpDKNwuDjlM8"
     },
     {
       "added_at": "2025-11-07 05:00:42",
@@ -1555,26 +1555,6 @@
     {
       "added_at": "2025-11-07 05:00:42",
       "album": {
-        "name": "You Ate That",
-        "url": "https://open.spotify.com/album/56zqI47aElXbKYSaJ6Ebzq"
-      },
-      "artists": [
-        {
-          "name": "SQWAD",
-          "url": "https://open.spotify.com/artist/46z8E62fwg6cqxCLNB1FrI"
-        },
-        {
-          "name": "The Melody Men",
-          "url": "https://open.spotify.com/artist/6PSmjKj0zyXGZ4TXoq4dSG"
-        }
-      ],
-      "duration_ms": 196875,
-      "name": "You Ate That",
-      "url": "https://open.spotify.com/track/7yzQDORKaih65753uwmR89"
-    },
-    {
-      "added_at": "2025-11-07 05:00:42",
-      "album": {
         "name": "Night Shift",
         "url": "https://open.spotify.com/album/5bjUYlYhUdopRQw4Lq4cKT"
       },
@@ -1591,6 +1571,26 @@
       "duration_ms": 230625,
       "name": "Night Shift",
       "url": "https://open.spotify.com/track/1wxgWPF7uUr9aHDC9QuMEO"
+    },
+    {
+      "added_at": "2025-11-07 05:00:42",
+      "album": {
+        "name": "You Ate That",
+        "url": "https://open.spotify.com/album/56zqI47aElXbKYSaJ6Ebzq"
+      },
+      "artists": [
+        {
+          "name": "SQWAD",
+          "url": "https://open.spotify.com/artist/46z8E62fwg6cqxCLNB1FrI"
+        },
+        {
+          "name": "The Melody Men",
+          "url": "https://open.spotify.com/artist/6PSmjKj0zyXGZ4TXoq4dSG"
+        }
+      ],
+      "duration_ms": 196875,
+      "name": "You Ate That",
+      "url": "https://open.spotify.com/track/7yzQDORKaih65753uwmR89"
     },
     {
       "added_at": "2025-11-07 05:00:42",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2025-11-07 05:00:42",
       "album": {
-        "name": "Keep On Dancin\u2019",
-        "url": "https://open.spotify.com/album/2Uailrdpotagi31qGYaKOj"
-      },
-      "artists": [
-        {
-          "name": "Wenzday",
-          "url": "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
-        }
-      ],
-      "duration_ms": 207096,
-      "name": "Keep On Dancin\u2019",
-      "url": "https://open.spotify.com/track/2tZ6RENHFCbw6vyv0LRcZP"
-    },
-    {
-      "added_at": "2025-11-07 05:00:42",
-      "album": {
         "name": "Move It (with Luciana)",
         "url": "https://open.spotify.com/album/7FpUw6piWqVDumd2HjnVT8"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 135238,
       "name": "Move It (with Luciana)",
       "url": "https://open.spotify.com/track/6tLoYXdgMy80QaS49kg9z9"
+    },
+    {
+      "added_at": "2025-11-07 05:00:42",
+      "album": {
+        "name": "Keep On Dancin\u2019",
+        "url": "https://open.spotify.com/album/2Uailrdpotagi31qGYaKOj"
+      },
+      "artists": [
+        {
+          "name": "Wenzday",
+          "url": "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
+        }
+      ],
+      "duration_ms": 207096,
+      "name": "Keep On Dancin\u2019",
+      "url": "https://open.spotify.com/track/2tZ6RENHFCbw6vyv0LRcZP"
     },
     {
       "added_at": "2025-11-07 05:00:42",
@@ -1903,6 +1903,22 @@
     {
       "added_at": "2025-11-07 05:00:42",
       "album": {
+        "name": "No Ecstasy Love",
+        "url": "https://open.spotify.com/album/23LgdnFZdrukb4zopFgz8e"
+      },
+      "artists": [
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        }
+      ],
+      "duration_ms": 205846,
+      "name": "No Ecstasy Love",
+      "url": "https://open.spotify.com/track/7zPRxFNAatx8y4LYTAvJrD"
+    },
+    {
+      "added_at": "2025-11-07 05:00:42",
+      "album": {
         "name": "Mind Awake, Body Asleep",
         "url": "https://open.spotify.com/album/4sM2DMHiDDU25XRx7AEJ0x"
       },
@@ -1923,22 +1939,6 @@
       "duration_ms": 150447,
       "name": "Mind Awake, Body Asleep",
       "url": "https://open.spotify.com/track/6iGDeaY8vCTqxfGz6B8gTk"
-    },
-    {
-      "added_at": "2025-11-07 05:00:42",
-      "album": {
-        "name": "No Ecstasy Love",
-        "url": "https://open.spotify.com/album/23LgdnFZdrukb4zopFgz8e"
-      },
-      "artists": [
-        {
-          "name": "Marten H\u00f8rger",
-          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
-        }
-      ],
-      "duration_ms": 205846,
-      "name": "No Ecstasy Love",
-      "url": "https://open.spotify.com/track/7zPRxFNAatx8y4LYTAvJrD"
     }
   ],
   "unique_name": "Shuffle Syndrome",

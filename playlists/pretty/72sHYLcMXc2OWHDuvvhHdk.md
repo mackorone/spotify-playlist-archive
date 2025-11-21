@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 549 likes - 2,034 songs - 4 day 23 hr 14 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 549 likes - 2,040 songs - 4 day 23 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2042,5 +2042,11 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2032 | [Pretty Palms](https://open.spotify.com/track/4k5odH8VlFUVdHMcX4MpkL) | [Charley Hill](https://open.spotify.com/artist/3Gu0cDU1W9fwdSgYquz2rq) | [Mustang ⋆](https://open.spotify.com/album/5c1fF5TQHvB5ED4Z4sLHac) | 3:17 |
 | 2033 | [Mary's Lamb](https://open.spotify.com/track/4wA5bR2acrQ6tAJuheentG) | [Halley Gentil](https://open.spotify.com/artist/3nL0tRCAJTGnw11PHM4UNg) | [Mary's Lamb](https://open.spotify.com/album/6AIklyNJeqZI3yofH9k9bM) | 3:15 |
 | 2034 | [Regrets](https://open.spotify.com/track/1UHIaL6ZF9aiiPJ8opT5sJ) | [Pete Gardiner](https://open.spotify.com/artist/5sjhK0fScmb7HXin42rUaT) | [Songs That Wrote Me](https://open.spotify.com/album/1i06gAGF1H4OYzBcP5pgKN) | 3:19 |
+| 2035 | [Corrado](https://open.spotify.com/track/1QXGkSB2T1pNR8hDT2mFoO) | [Le Pietre di Mara](https://open.spotify.com/artist/7hv4rQbq0zehg96NzK4i5M) | [Corrado](https://open.spotify.com/album/3YvkiNefWVg45wCKtcsG1c) | 0:48 |
+| 2036 | [Sea Day](https://open.spotify.com/track/50XjtTSz3jKUVgZru25dMa) | [GhostWriterCollaborative](https://open.spotify.com/artist/04UY8tjGEROEvEdK4iBhov) | [Sixth Album](https://open.spotify.com/album/4oQxGtwLnhiogBInr9a79s) | 3:04 |
+| 2037 | [Славно](https://open.spotify.com/track/01gLdhCCNYtDeTO2vZ10uu) | [Dieori22](https://open.spotify.com/artist/1pT9dipei03s1GwAseDiC1) | [Славно](https://open.spotify.com/album/2DWIUxzOAYZvOhgjMLqb1k) | 4:10 |
+| 2038 | [The weight of freedom](https://open.spotify.com/track/4gVKItkWjVQZNbTLQb9Tb8) | [Samadhi Radio](https://open.spotify.com/artist/1Xo5Iukw1wJ05KCIy9STI8) | [When time runs dry](https://open.spotify.com/album/151onIPEKJjuyooQEEVfKE) | 4:15 |
+| 2039 | [Siamo perduti](https://open.spotify.com/track/2KFK8mkYe4OwT2XxDcZlcm) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [Siamo perduti](https://open.spotify.com/album/4j9UylK8c7HBB9dTqsZ3Ub) | 3:31 |
+| 2040 | [You've Got This!](https://open.spotify.com/track/0jP1cP68nrgzCUJgtYQWQY) | [Annette Davies](https://open.spotify.com/artist/1IKGoSyqjfq4xQLijteRpj) | [You've Got This!](https://open.spotify.com/album/2g5rQuX0J8CIhzboin3yau) | 3:58 |
 
-Snapshot ID: `AAAIgPkqBGOIdfuxwjqLTPh09hlP/n6y`
+Snapshot ID: `AAAIhkXJYvHqFbag2mzVZEi02m/V08aj`

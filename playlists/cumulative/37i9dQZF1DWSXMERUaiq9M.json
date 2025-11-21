@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-14",
-  "description": "The sound of a new generation. Cover: KI/KI",
+  "description": "The sound of a new generation. Cover: Somewhen",
   "name": "rave",
   "tracks": [
     {
@@ -1388,7 +1388,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-13",
+      "date_removed": null,
       "duration_ms": 227234,
       "name": "Bricks",
       "url": "https://open.spotify.com/track/0xKrRID1IyyLkq4wsaGl9q"
@@ -1442,7 +1442,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 145082,
       "name": "Bust It",
       "url": "https://open.spotify.com/track/1IebedQDpNt8gWbxwbGnu8"
@@ -3236,7 +3236,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 182200,
       "name": "Everything with You",
       "url": "https://open.spotify.com/track/5FaIueA2tt7vPezWhavA7B"
@@ -3624,6 +3624,24 @@
       "duration_ms": 370615,
       "name": "Flow My Tears",
       "url": "https://open.spotify.com/track/40Wai7PhvLeegNZe9iDJud"
+    },
+    {
+      "album": {
+        "name": "FLUTE",
+        "url": "https://open.spotify.com/album/7zH4BlcL2WrRCJiorFwUzO"
+      },
+      "artists": [
+        {
+          "name": "Serafina",
+          "url": "https://open.spotify.com/artist/5LVJ8sYOyxYjnNEkL540x2"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218734,
+      "name": "FLUTE",
+      "url": "https://open.spotify.com/track/38VT79VQgRc0sVJScdxNQA"
     },
     {
       "album": {
@@ -4838,7 +4856,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 178838,
       "name": "I Wanna",
       "url": "https://open.spotify.com/track/6R2TSs7XaceEyovdPOr5Rt"
@@ -5718,7 +5736,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 213677,
       "name": "Komm (feat. Juju)",
       "url": "https://open.spotify.com/track/2geohaM3pSDEObhv55R00r"
@@ -6148,7 +6166,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 138375,
       "name": "Lime, Salt & Tequila",
       "url": "https://open.spotify.com/track/6X9nRnBOtzzhRgBTPMnJ0s"
@@ -6308,6 +6326,28 @@
       "duration_ms": 173810,
       "name": "LOVE 4 LIFE",
       "url": "https://open.spotify.com/track/4fmMlfYmxRNdTEWXBJyaZa"
+    },
+    {
+      "album": {
+        "name": "Love Bullet (Pt.2)",
+        "url": "https://open.spotify.com/album/50TPruMIdLLVMvhGWnn0Cu"
+      },
+      "artists": [
+        {
+          "name": "Odymel",
+          "url": "https://open.spotify.com/artist/7c4fOBUstnjfbvSwtOJSiA"
+        },
+        {
+          "name": "Durdenhauer",
+          "url": "https://open.spotify.com/artist/2CaWJMR1eyvq8n5h96ggJC"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241621,
+      "name": "Love Bullet - Pt.2",
+      "url": "https://open.spotify.com/track/1XuiuFYRDGsqY1udaB7RdE"
     },
     {
       "album": {
@@ -6844,7 +6884,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 180862,
       "name": "Milenio",
       "url": "https://open.spotify.com/track/725nm2i4KkzTXZB3oPYpJU"
@@ -6924,6 +6964,24 @@
       "duration_ms": 204000,
       "name": "Moment",
       "url": "https://open.spotify.com/track/4rGKCr6pj3tKNWJvICbOaZ"
+    },
+    {
+      "album": {
+        "name": "Monsters",
+        "url": "https://open.spotify.com/album/4RTIEyK3R3HFkm4WY7HxC7"
+      },
+      "artists": [
+        {
+          "name": "AEREA",
+          "url": "https://open.spotify.com/artist/34ut5kAp6DfnW79Dp3P4CA"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172400,
+      "name": "Monsters",
+      "url": "https://open.spotify.com/track/09YIQFg8QleQknfduk71HE"
     },
     {
       "album": {
@@ -7412,7 +7470,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 152582,
       "name": "Never Give Up",
       "url": "https://open.spotify.com/track/6BNOZ3L1LNRKSlO2ohr5KH"
@@ -8193,6 +8251,24 @@
     },
     {
       "album": {
+        "name": "Play With Me",
+        "url": "https://open.spotify.com/album/3drDrRF9zabJYjYs04DI98"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Julian",
+          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133846,
+      "name": "Play With Me",
+      "url": "https://open.spotify.com/track/25KQKt7whpeqcj5LsttRP7"
+    },
+    {
+      "album": {
         "name": "Spiritual Driveby",
         "url": "https://open.spotify.com/album/2aQjGvSZNLgf4tuMADUeqr"
       },
@@ -8415,6 +8491,24 @@
     },
     {
       "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/7BUxsv49YApxUBSwfYgG0e"
+      },
+      "artists": [
+        {
+          "name": "Somewhen",
+          "url": "https://open.spotify.com/artist/0k47nZgznsmnNkSIJvjbVy"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244755,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/02iid7jLIDPuI4JyHTtyBz"
+    },
+    {
+      "album": {
         "name": "Promises",
         "url": "https://open.spotify.com/album/6ynt21bDpHrHaSlqyq2gWx"
       },
@@ -8524,7 +8618,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 151232,
       "name": "Put Your Bassline",
       "url": "https://open.spotify.com/track/3IwC6rhjOfEdswlSV6RvzX"
@@ -8546,6 +8640,28 @@
       "duration_ms": 288000,
       "name": "R'n'D",
       "url": "https://open.spotify.com/track/18qG9FNsOdosWBYXQ2w9ty"
+    },
+    {
+      "album": {
+        "name": "Radiance",
+        "url": "https://open.spotify.com/album/5lD78ZOma74FTLLSKx2yzR"
+      },
+      "artists": [
+        {
+          "name": "Kobosil",
+          "url": "https://open.spotify.com/artist/2ZvIFwl0BuQgHqWvDE80hC"
+        },
+        {
+          "name": "Ueberrest",
+          "url": "https://open.spotify.com/artist/7JipAMuZSlPJtbRVbi5vnS"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273697,
+      "name": "Radiance",
+      "url": "https://open.spotify.com/track/0XoxOVnoNGVEwZFf5n98vn"
     },
     {
       "album": {
@@ -10321,6 +10437,28 @@
     },
     {
       "album": {
+        "name": "That Beat",
+        "url": "https://open.spotify.com/album/3lY95TxcGtqi7SMbOhg8lE"
+      },
+      "artists": [
+        {
+          "name": "DJ GUESTLIST",
+          "url": "https://open.spotify.com/artist/2n7VLaVMlGpxqmt05OiMCB"
+        },
+        {
+          "name": "Hurts",
+          "url": "https://open.spotify.com/artist/583JGhtBdBHZLULX92QPGu"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222918,
+      "name": "That Beat",
+      "url": "https://open.spotify.com/track/2wQihx4Wo38upVnEtKLt3B"
+    },
+    {
+      "album": {
         "name": "The Beat",
         "url": "https://open.spotify.com/album/3sgObgnVBBMppg1qMoVP7i"
       },
@@ -10872,7 +11010,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 214800,
       "name": "Traum",
       "url": "https://open.spotify.com/track/0zsE0og8kz0nddQFeNrgPG"
@@ -11194,7 +11332,7 @@
           "url": "https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT"
         },
         {
-          "name": "Holy Priest",
+          "name": "HOLY PRIEST",
           "url": "https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06"
         },
         {
@@ -11204,7 +11342,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-24",
+      "date_removed": null,
       "duration_ms": 169818,
       "name": "Vielleicht Vielleicht - Holy Priest & elMefti Remix",
       "url": "https://open.spotify.com/track/4pRAG3h4ZTfyEhRMytddzd"
@@ -11332,7 +11470,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 140800,
       "name": "Wake The F Up",
       "url": "https://open.spotify.com/track/36eWeCqpNGHTiZfTSbScIY"
@@ -11814,6 +11952,28 @@
       "duration_ms": 171000,
       "name": "Wildhorse",
       "url": "https://open.spotify.com/track/3Avc5PGq3RYXP93Dsphk1K"
+    },
+    {
+      "album": {
+        "name": "Winds (Feel for You)",
+        "url": "https://open.spotify.com/album/46yYLnroQBdnPQmB38DV1m"
+      },
+      "artists": [
+        {
+          "name": "Part Time Killer",
+          "url": "https://open.spotify.com/artist/0LAMskg8u2rGlNDYvlRZdq"
+        },
+        {
+          "name": "L.zwo",
+          "url": "https://open.spotify.com/artist/2DDqcRRVt2xLxMYHD7FQk1"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167854,
+      "name": "Winds (Feel for You)",
+      "url": "https://open.spotify.com/track/6l1bXnfd7OnPr7AW927QEI"
     },
     {
       "album": {

@@ -3511,6 +3511,24 @@
     },
     {
       "album": {
+        "name": "Bass Collide",
+        "url": "https://open.spotify.com/album/7tP4fF24rvajjtJM6h0I9a"
+      },
+      "artists": [
+        {
+          "name": "M-Project",
+          "url": "https://open.spotify.com/artist/5XQLMFJlYMppzVqRUpFP5x"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Bass Collide",
+      "url": "https://open.spotify.com/track/375mDH6TN2SFM80aAeAM3N"
+    },
+    {
+      "album": {
         "name": "Bass Down Low",
         "url": "https://open.spotify.com/album/1hoTrVzG2I3DCwjv81qrJx"
       },

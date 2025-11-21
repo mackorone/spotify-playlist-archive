@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ZdaKEG7LCXZGLiHuZuJgZ">Missy Elliott</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-423 songs - 1 day 3 hr 20 min
+425 songs - 1 day 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Can't Stop](https://open.spotify.com/track/32UJmZRXTufLI1X9r28pix) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [The Cookbook](https://open.spotify.com/album/6vV5UrXcfyQD1wu4Qo2I9K) | 3:49 | 2023-12-30 |  |
 | [Candy](https://open.spotify.com/track/120dVGfsGLktIbLhTkepLl) | [Tha Truth](https://open.spotify.com/artist/5joIIsd003Rsj4sLLxXG4A) | [Makin' Moves Everyday](https://open.spotify.com/album/4lwxGGIjVVy0PJxUSUfmwk) | 4:24 | 2023-12-30 |  |
 | [Catch Me Outside](https://open.spotify.com/track/4rgwri7LajWVZvdj2N81SS) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [You Will Regret \(Reloaded\)](https://open.spotify.com/album/2pTyjuQ1d1d79Chhknoa2h) | 2:25 | 2023-12-30 |  |
+| [Catch Me Outside 2](https://open.spotify.com/track/000zYgBirXxgFkpAXOt0EB) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [Catch Me Outside 2](https://open.spotify.com/album/3NBaHOQq0oj586RZBMkxQG) | 2:06 | 2025-11-20 |  |
 | [Check](https://open.spotify.com/track/3zyenoOzT8GjV20qlzkbPX) | [Qveen Herby](https://open.spotify.com/artist/4o4tLTIJ3eWMFerz73atcT) | [Check](https://open.spotify.com/album/5mEk0H7NKHbiZYKSvuK7vQ) | 2:10 | 2024-07-12 |  |
 | [Check](https://open.spotify.com/track/6Zeu4P8DUnwOB9s8ODls1Q) | [Qveen Herby](https://open.spotify.com/artist/4o4tLTIJ3eWMFerz73atcT) | [Check](https://open.spotify.com/album/1O3iy6cKn9Z79pw855Jsmr) | 2:10 | 2023-12-30 | 2024-07-13 |
 | [Checkin' for You](https://open.spotify.com/track/0fOjSgDSM1GYOwBnKHZ5J8) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [Da Real World](https://open.spotify.com/album/47QQsqlgvkxme4jrh5QQ4i) | 2:08 | 2023-12-30 |  |
@@ -291,6 +292,7 @@
 | [Only Call on Jesus](https://open.spotify.com/track/734Ljx7jjZPmq8wcpXUtPy) | [Karen Clark Sheard](https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1) | [2nd Chance](https://open.spotify.com/album/7fTdDkpUlWb4fqoOd9iFQZ) | 4:09 | 2023-12-30 |  |
 | [Ooh, Ooh Baby](https://open.spotify.com/track/6d6THWlfYF2IRknW0HpIGZ) | [Taral](https://open.spotify.com/artist/71DzowSVDkMx6fRz2UDYGr) | [This Time](https://open.spotify.com/album/7kiYtqnPGKPxPA2dJv9NqL) | 3:53 | 2023-12-30 |  |
 | [Oops \(Oh My\) \[feat\. Missy Elliott\]](https://open.spotify.com/track/5Y0E3dOeynKuLDAXu0t0Bg) | [Tweet](https://open.spotify.com/artist/6zDBeei6hHRiZdAJ6zoTCo), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Southern Hummingbird](https://open.spotify.com/album/7uAkY4ERL5Y0BopRxmd3AX) | 3:57 | 2023-12-30 |  |
+| [Open Invite \(feat\. KAYTRANADA\)](https://open.spotify.com/track/1DbNmSluOpaqCvv9ADIP9k) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Escape Room](https://open.spotify.com/album/7Aya7D6bm5P2iRrlnNsFQf) | 1:56 | 2025-11-20 |  |
 | [Org](https://open.spotify.com/track/1uPQX50lKaH4UYNuM69Hwx) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [4eva Us Neva Them](https://open.spotify.com/album/2OzHv0qu65juqIUaCWlq6j) | 2:45 | 2024-09-04 |  |
 | [Outro \(feat\. Mary J\. Blige\)](https://open.spotify.com/track/5x1x883fAnMTv2TSaBF0zF) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [This Is Not a Test!](https://open.spotify.com/album/4ffXByMAjLpd25ZyzEJNMK) | 1:19 | 2023-12-30 |  |
 | [Party To Damascus \(feat\. Missy Elliott\)](https://open.spotify.com/track/39oQqEAZkn0ZerKmZnZo5c) | [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [The Preacher's Son](https://open.spotify.com/album/2XOgEyhfun0GD9Ovryo37J) | 4:03 | 2023-12-30 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: RØZ
 
-[Spotify](https://open.spotify.com/user/spotify) - 862,800 likes - 63 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 862,701 likes - 63 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 27 | [algún día](https://open.spotify.com/track/66v7Rcc25aSprVOwBzqmdZ) | [Ramma](https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg) | [algún día](https://open.spotify.com/album/000oBFIq4QNMY8ZV5o0z4c) | 3:11 |
 | 28 | [Morfina](https://open.spotify.com/track/7lYKq59aOgRnRlrjuTIvJv) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Morfina](https://open.spotify.com/album/3XA0Zax9bAGsnvMcElA16n) | 5:50 |
 | 29 | [CASI TÚ](https://open.spotify.com/track/7MklqPSMrs22DGXSDIgxeO) | [Eddy](https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG), [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [CASI TÚ](https://open.spotify.com/album/25u60Pgm4jnY8NU8Hy3ghn) | 2:37 |
-| 30 | [Pasajero](https://open.spotify.com/track/5wPTk2TCDDuQRfqkZukWnk) | [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Lyon la f](https://open.spotify.com/artist/55gv2ZtVnRE0Hd8LwvXTye), [Katteyes](https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9) | [Pasajero](https://open.spotify.com/album/3P5a4yDyIT6q8ZsX7z2Qid) | 3:30 |
+| 30 | [Pasajero](https://open.spotify.com/track/5wPTk2TCDDuQRfqkZukWnk) | [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Lyon la f](https://open.spotify.com/artist/55gv2ZtVnRE0Hd8LwvXTye), [Katteyes](https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9), [Lewis Somes](https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3) | [Pasajero](https://open.spotify.com/album/3P5a4yDyIT6q8ZsX7z2Qid) | 3:30 |
 | 31 | [Con La Mini \- Remix](https://open.spotify.com/track/4NXvS5k38k8ePfze3ubIvH) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11), [Siggy](https://open.spotify.com/artist/1rSQmPC2RW6U5CnxVpE8yg), [Mattei](https://open.spotify.com/artist/29fkrV8IuMETQBv8PgC6Lw), [Jowell](https://open.spotify.com/artist/6TASDj2ogOKQptnxgEvrcP), [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [Con La Mini \(Remix\)](https://open.spotify.com/album/16ZIWHX2Qlvrmo3PgViLVH) | 5:15 |
 | 32 | [Pupimontañera](https://open.spotify.com/track/4UxbjEHyEqGUYche5c0NS4) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe) | [Pupimontañera](https://open.spotify.com/album/4uZ9d7rWitLiMVgrdQ9sso) | 2:58 |
 | 33 | [angel](https://open.spotify.com/track/4Q7raucSnL3OeYoqr3xN4a) | [Cobuz & Bustta](https://open.spotify.com/artist/3m7M07iLR1ragTqZ1Wm1NX), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [angel](https://open.spotify.com/album/7dEuA1Pn0SlnKJ3HljW1ng) | 3:05 |

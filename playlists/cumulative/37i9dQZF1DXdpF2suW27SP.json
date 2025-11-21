@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Deezy entra na zona. ",
+  "description": "Papillon entra na zona. ",
   "name": "Na Zona",
   "tracks": [
     {
@@ -3122,7 +3122,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 190967,
       "name": "Cara a cara",
       "url": "https://open.spotify.com/track/5qA0JrW3jOR8OOBAkmEQyQ"
@@ -5630,6 +5630,28 @@
       "duration_ms": 135724,
       "name": "ELA QUERIA MAIS",
       "url": "https://open.spotify.com/track/4tAMEP8kPju61BoZtj0whg"
+    },
+    {
+      "album": {
+        "name": "ELA \u00c9 ESSA",
+        "url": "https://open.spotify.com/album/7yLh0f66gyeDEs5V9xeF99"
+      },
+      "artists": [
+        {
+          "name": "bapcat",
+          "url": "https://open.spotify.com/artist/02Qg3L9GCPXeVQFxZ1b4ou"
+        },
+        {
+          "name": "ICARO",
+          "url": "https://open.spotify.com/artist/6ih0GTEQYgmqCjrXSZUlbZ"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156932,
+      "name": "ELA \u00c9 ESSA",
+      "url": "https://open.spotify.com/track/3myDC0hr8oRTamQzjmGPzX"
     },
     {
       "album": {
@@ -10800,7 +10822,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 121041,
       "name": "MULEMBA",
       "url": "https://open.spotify.com/track/01CGvyHhMFWieYOqMHNA7Z"
@@ -16940,6 +16962,24 @@
       "duration_ms": 164307,
       "name": "Tou Off",
       "url": "https://open.spotify.com/track/0FB7uPeeVlMJllljKRXAbP"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Papillon",
+          "url": "https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 4",
+      "url": "https://open.spotify.com/track/6gJF4kTu4cQDklJMnd0ZkQ"
     },
     {
       "album": {

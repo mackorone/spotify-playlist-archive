@@ -3493,7 +3493,7 @@
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 238653,
+      "duration_ms": 238662,
       "name": "Let Me Know (feat. Future)",
       "url": "https://open.spotify.com/track/7wA4XiTQOWByeF6DGWoxkt"
     },
@@ -3967,7 +3967,7 @@
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
       "date_removed": null,
-      "duration_ms": 264946,
+      "duration_ms": 264938,
       "name": "Loyal (feat. Lil Wayne & Tyga)",
       "url": "https://open.spotify.com/track/5BrTUo0xP1wKXLJWUaGFtk"
     },
@@ -4329,7 +4329,7 @@
       "date_added": "2020-12-09",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 226600,
+      "duration_ms": 226597,
       "name": "Night Changes",
       "url": "https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ"
     },
@@ -6005,7 +6005,7 @@
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 228133,
+      "duration_ms": 228138,
       "name": "Steal My Girl",
       "url": "https://open.spotify.com/track/2Bs4jQEGMycglOfWPBqrVG"
     },
@@ -6235,6 +6235,24 @@
     },
     {
       "album": {
+        "name": "Hozier (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241688,
+      "name": "Take Me to Church",
+      "url": "https://open.spotify.com/track/1CS7Sd1u5tWkstBhpssyjP"
+    },
+    {
+      "album": {
         "name": "Hozier",
         "url": "https://open.spotify.com/album/0Uv83rRhY5QvHKkQoULRKk"
       },
@@ -6250,24 +6268,6 @@
       "duration_ms": 241688,
       "name": "Take Me To Church",
       "url": "https://open.spotify.com/track/3dYD57lRAUcMHufyqn9GcI"
-    },
-    {
-      "album": {
-        "name": "Hozier (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "date_added": "2024-01-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 241693,
-      "name": "Take Me to Church",
-      "url": "https://open.spotify.com/track/1CS7Sd1u5tWkstBhpssyjP"
     },
     {
       "album": {

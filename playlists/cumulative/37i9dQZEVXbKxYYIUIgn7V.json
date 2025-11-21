@@ -1862,7 +1862,7 @@
       ],
       "date_added": "2025-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-12",
+      "date_removed": null,
       "duration_ms": 153698,
       "name": "Aff im Kopf",
       "url": "https://open.spotify.com/track/21nuXb9yhcyA91gRVVBpfI"
@@ -3264,7 +3264,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 125853,
       "name": "Aramsamsam",
       "url": "https://open.spotify.com/track/5fSO7HYYcaoU8CRzwNYg1u"
@@ -6760,7 +6760,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 195581,
       "name": "Boom, Boom, Boom, Boom!! - The Dark Triad - HardTekk \u2013 Slowed Deluxe",
       "url": "https://open.spotify.com/track/17dcRIOdB7U27p0JKuGG0j"
@@ -15575,6 +15575,24 @@
     },
     {
       "album": {
+        "name": "Fool's Gold",
+        "url": "https://open.spotify.com/album/5v8FMiboqfjBxM7UgkIgtG"
+      },
+      "artists": [
+        {
+          "name": "Buffalo Traffic Jam",
+          "url": "https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197539,
+      "name": "Fool's Gold",
+      "url": "https://open.spotify.com/track/54uoj9Bb6k97wSQ9MezOYU"
+    },
+    {
+      "album": {
         "name": "For I Am Death",
         "url": "https://open.spotify.com/album/7LnfxsUCMGkJfwQm969CKM"
       },
@@ -17026,7 +17044,7 @@
       ],
       "date_added": "2025-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-18",
+      "date_removed": null,
       "duration_ms": 262933,
       "name": "Ghetto Story Chapter 3 (feat. Akon)",
       "url": "https://open.spotify.com/track/10MKqZA8S3kvSrYsqbM4r6"
@@ -17048,7 +17066,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 262933,
       "name": "Ghetto Story Chapter 3 (feat. Akon)",
       "url": "https://open.spotify.com/track/4Poh2BEojGwq37eFXuUiIf"
@@ -31841,6 +31859,24 @@
     },
     {
       "album": {
+        "name": "Nighthawk (Reprise)",
+        "url": "https://open.spotify.com/album/6CRDx0qW96wAyZYoylUg8v"
+      },
+      "artists": [
+        {
+          "name": "Re:um",
+          "url": "https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "Nighthawk - Reprise",
+      "url": "https://open.spotify.com/track/1HadQI0LBZKqF2J6iTRn0t"
+    },
+    {
+      "album": {
         "name": "THE FIRST TIME",
         "url": "https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS"
       },
@@ -43484,7 +43520,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 226073,
       "name": "The Fate of Ophelia",
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
@@ -47190,7 +47226,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 207423,
       "name": "Wave's Of Freedom",
       "url": "https://open.spotify.com/track/5rOnSjfs2GS2ttEoQDEMvV"
@@ -49694,6 +49730,28 @@
       "duration_ms": 188677,
       "name": "You Didn\u2019t Know",
       "url": "https://open.spotify.com/track/0nD9zX0pnjOGhwZbCtMSGR"
+    },
+    {
+      "album": {
+        "name": "you haunt me",
+        "url": "https://open.spotify.com/album/3xModkFLmbsjjJdo4VUcHM"
+      },
+      "artists": [
+        {
+          "name": "Marzi",
+          "url": "https://open.spotify.com/artist/4ou6cmjDFP0qzoXwr0cJTM"
+        },
+        {
+          "name": "Yana",
+          "url": "https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196153,
+      "name": "you haunt me",
+      "url": "https://open.spotify.com/track/6uu9VaSDuWBXsJx8VTmsOJ"
     },
     {
       "album": {

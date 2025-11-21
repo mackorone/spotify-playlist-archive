@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-752 songs - 2 day 23 hr 3 min
+753 songs - 2 day 23 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,6 +288,7 @@
 | [Hiding](https://open.spotify.com/track/6rAbSwrfReG9rpcmwIsgPH) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC), [Artche](https://open.spotify.com/artist/75urDDpUkt0jMdQgVx3XFV) | [Hiding](https://open.spotify.com/album/2XAdRKNStUZKUDrZ1flBkH) | 7:11 | 2020-12-12 | 2022-07-06 |
 | [High](https://open.spotify.com/track/0z4gZd4JAgJMIcgL8lNOtZ) | [DJ Clipps](https://open.spotify.com/artist/2Le4H0DnhGgI8EGhx1kEUQ), [Bthelick](https://open.spotify.com/artist/2UYyL9j9Rrdy0qF9U8jOdI), [9Ts](https://open.spotify.com/artist/3sBq2rREGEiDBAjqJ0lUgl), [Skarl](https://open.spotify.com/artist/541ltjMOvk5K6NDTqw0lAN) | [I Am High](https://open.spotify.com/album/1FBv8CVnAqMcelZTRKyL7c) | 4:17 | 2020-01-16 | 2020-06-20 |
 | [Higher Low](https://open.spotify.com/track/2snyQasUUTKbIfqoeVV8t6) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na) | [Higher Low](https://open.spotify.com/album/76iXV0zKTMLyackV1yysoP) | 3:41 | 2025-09-05 | 2025-11-15 |
+| [Hold It Down \(DARE\)](https://open.spotify.com/track/20Roe0czA0RVSwYhtRIFcz) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Hold It Down \(DARE\)](https://open.spotify.com/album/4GkbVNXOcQFtpClXpBaqSm) | 3:46 | 2025-11-14 |  |
 | [Hold You \(Edit\)](https://open.spotify.com/track/54De3Tjp79SY322CKGbosc) | [Peer Kusiv](https://open.spotify.com/artist/0yTV2etph4xN8PXPLPeEG5), [Felix Raphael](https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z) | [Hold You](https://open.spotify.com/album/0FYlBNjQQNNkd2d27n7RPY) | 3:46 | 2022-07-01 | 2022-07-22 |
 | [Hollow \- Edit](https://open.spotify.com/track/5833ck9XB9euhAaRVc3xpq) | [Mark Tarmonea](https://open.spotify.com/artist/0G0DRVtduDqqikbVbZXaNn), [Yannek Maunz](https://open.spotify.com/artist/2Kpl9Z7stnwWTE8tZK7srj), [Brascon](https://open.spotify.com/artist/5ec60qNwkpxDGbKMuvCZqX), [Johanson](https://open.spotify.com/artist/5oNwxILfJ5rJhMaFdwB9tN) | [Hollow](https://open.spotify.com/album/3CdEpyPxeXaQzYWwZs8Jmj) | 5:51 | 2020-05-30 | 2021-06-19 |
 | [Holocene, Pt\. II](https://open.spotify.com/track/1H2Dq1kyLUWl0QW8CLzDZb) | [Klangphonics](https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA) | [Holocene, Pt\. II](https://open.spotify.com/album/0tR8cyT01xwg5DDuMdQCys) | 6:54 | 2023-06-30 | 2025-06-07 |
@@ -396,7 +397,7 @@
 | [Matthew Keeps Me Pirrie](https://open.spotify.com/track/2ZYGLQ89EATPCZcLsHEowa) | [Denis Sulta](https://open.spotify.com/artist/7cDu9zG1gVQrMdSGBAhzvn) | [Matthew Keeps Me Pirrie](https://open.spotify.com/album/2ilvzpDDnNQWbvgoSQZ4xF) | 6:42 | 2019-10-10 | 2019-11-09 |
 | [Mayhem](https://open.spotify.com/track/6OJKnaeNbqSgamGZ6IIGz1) | [Jos & Eli](https://open.spotify.com/artist/3nOp9kU7OluZlOGCdqWqS3) | [Mayhem EP](https://open.spotify.com/album/0adw9asM0RMlE4bIqc3LBB) | 7:44 | 2021-10-10 | 2021-10-11 |
 | [Meet Me](https://open.spotify.com/track/5NIh6RvA8hOV31OnQGdk4d) | [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS), [JONOS](https://open.spotify.com/artist/1pbStEEJ96l2EaeZyTqzjh), [Son of Son](https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM) | [Meet Me](https://open.spotify.com/album/1GthDfKWmqsKkxlXII6rG5) | 3:15 | 2025-11-14 |  |
-| [Memories](https://open.spotify.com/track/6BiBQjBIl8ozwqRihm4hTV) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Memories](https://open.spotify.com/album/6FI3iFdhMbw1fwAsPH0Mz0) | 3:35 | 2025-04-11 |  |
+| [Memories](https://open.spotify.com/track/6BiBQjBIl8ozwqRihm4hTV) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Memories](https://open.spotify.com/album/6FI3iFdhMbw1fwAsPH0Mz0) | 3:35 | 2025-04-11 | 2025-11-21 |
 | [Menora](https://open.spotify.com/track/6JbEVzpVtACMzP7lniEpoP) | [AfterU](https://open.spotify.com/artist/2fNO3q7sugPNKqSD1ra9TE), [Leibo & Zarhi](https://open.spotify.com/artist/1HYgV0V9YzC2iYTA6vuHkI) | [MenorAnna](https://open.spotify.com/album/7i8fYPZGhLDynDKqqLljgE) | 7:20 | 2019-09-19 | 2020-01-13 |
 | [Mesopotamia](https://open.spotify.com/track/24wkID8UHARIJLeKAkcjq6) | [Rauschhaus](https://open.spotify.com/artist/5Mxbf9xF3V5bIL5l0xHdzM), [Peer Kusiv](https://open.spotify.com/artist/0yTV2etph4xN8PXPLPeEG5) | [Mesopotamia](https://open.spotify.com/album/1bJJ1flQQjW6hWPGSjG4b6) | 3:20 | 2021-02-03 | 2021-03-23 |
 | [Metamorphoses](https://open.spotify.com/track/26DlNiM65CQpLZ7iW2QBNE) | [Estiva](https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE) | [Metamorphoses](https://open.spotify.com/album/670k1I7dtojjK2eO1UVU59) | 3:17 | 2019-10-25 | 2020-03-15 |

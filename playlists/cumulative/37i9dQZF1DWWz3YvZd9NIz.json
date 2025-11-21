@@ -1079,6 +1079,28 @@
     },
     {
       "album": {
+        "name": "Coco Jamboo",
+        "url": "https://open.spotify.com/album/1NdZ3G4G0d2eR8g3M0TWyr"
+      },
+      "artists": [
+        {
+          "name": "Sound Rush",
+          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+        },
+        {
+          "name": "HBz",
+          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124012,
+      "name": "Coco Jamboo",
+      "url": "https://open.spotify.com/track/5N4alh9Kc98YbEyX1yYOFb"
+    },
+    {
+      "album": {
         "name": "Come With Me",
         "url": "https://open.spotify.com/album/1j0xzvGGOhTM4sxZ22IzDT"
       },
@@ -2198,7 +2220,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 227612,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/3IE5UTMNyhe6CPYnrqIOnR"

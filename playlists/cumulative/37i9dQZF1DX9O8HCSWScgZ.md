@@ -4,7 +4,7 @@
 
 > warm and cozy beats to watch the leaves fall, focus, study or chill to.
 
-113 songs - 4 hr 19 min
+114 songs - 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,11 +12,12 @@
 | [Airy Dream](https://open.spotify.com/track/0EO2YsUyTRDvXgET97TEsF) | [poems](https://open.spotify.com/artist/3MqAMBWx8jXvOhjQWiGN6w) | [Airy Dream](https://open.spotify.com/album/1WlSFbBa2pcFYD6fuMe8l3) | 2:09 | 2024-10-18 |  |
 | [Amnesia](https://open.spotify.com/track/45jbQ3dPOPRXrUfUnRwnCN) | [softclouds](https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d) | [Amnesia](https://open.spotify.com/album/0Veqr59WbWNYQYBrASjr67) | 2:25 | 2024-10-18 |  |
 | [Anti Wave](https://open.spotify.com/track/28bRH9L22ZKrm6vo8QE9uI) | [cakofonik](https://open.spotify.com/artist/5QoNyFJzZLKJyQYrEP5cor) | [Anti Wave](https://open.spotify.com/album/59VRp76KnBFAvAMC1G59Kz) | 2:30 | 2024-10-18 | 2024-11-09 |
-| [Autumn Briefs](https://open.spotify.com/track/1kcXids1llWtkF7wTQ8HfL) | [Dasunny](https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza) | [Autumn Briefs](https://open.spotify.com/album/7HCchLIXZ4SiCw9xriIAdW) | 2:25 | 2024-10-18 |  |
+| [Autumn Briefs](https://open.spotify.com/track/1kcXids1llWtkF7wTQ8HfL) | [Dasunny](https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza) | [Autumn Briefs](https://open.spotify.com/album/7HCchLIXZ4SiCw9xriIAdW) | 2:25 | 2024-10-18 | 2025-11-21 |
 | [Autumn In New York](https://open.spotify.com/track/0zDJijiN6g2nIKp5IqTKmC) | [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S), [Sineg](https://open.spotify.com/artist/2dFzMUO0SoMadcJNogEmg9) | [Autumn In New York](https://open.spotify.com/album/7cz2pYe6rJnJxpc6xR8q9u) | 1:45 | 2024-10-18 | 2025-09-06 |
 | [Autumn Leaves](https://open.spotify.com/track/0TVNasZT7dOG7EJAxilDx1) | [Otaam](https://open.spotify.com/artist/0yABOXFZ5fJ1KyoXXgj5B0), [Worldtraveller](https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb) | [Autumn Leaves](https://open.spotify.com/album/1paX5WTymOVXSlyUD1Rq0b) | 2:03 | 2024-10-18 | 2024-10-25 |
 | [Autumn Letters](https://open.spotify.com/track/7e1VORsL4GCNqACM8G3evL) | [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9) | [Autumn Letters](https://open.spotify.com/album/2HyYRDTyuVecdO1dNSQcHo) | 2:51 | 2025-09-12 |  |
 | [autumn morning](https://open.spotify.com/track/4sO4UnfiATMXi4xZHdEFJO) | [Lenny Loops](https://open.spotify.com/artist/6MvnyPinXRQbUCMsPoymhR), [re:fill](https://open.spotify.com/artist/2YAjZCYyobcy0FTHSeiqOe) | [autumn morning](https://open.spotify.com/album/3hkpAm6vcGbjn9smI79zyi) | 2:02 | 2024-10-18 |  |
+| [Awake But It's Late](https://open.spotify.com/track/74OZRZyVHdAFVPGqZWMXkf) | [Rainbows & Clouds](https://open.spotify.com/artist/4MItiv8qg42Ph7bWuCsOTg) | [Awake But It's Late](https://open.spotify.com/album/1yIZRCaIF9jT61yPiDjJ23) | 2:18 | 2025-11-20 |  |
 | [Beam Me Up](https://open.spotify.com/track/4iuQ5DwUqpOXfazF3S4pHG) | [Adam Space](https://open.spotify.com/artist/3q9oOLVN8jaGI6Ui3qB2LU) | [Beam Me Up](https://open.spotify.com/album/2eAXEuljSiuSlxT9i3tYj4) | 2:03 | 2024-10-18 |  |
 | [better now](https://open.spotify.com/track/2ByqEThv5LxOa8RFQvbYaO) | [someday](https://open.spotify.com/artist/5qXb2k1THc04mE2x1QGxlv), [luvlke](https://open.spotify.com/artist/0WJ5QJgC73ewvwBJxWaOL5) | [better now](https://open.spotify.com/album/3KD6OsBHPM4rdgOoC8Mvqf) | 2:03 | 2025-11-14 |  |
 | [Big Fish](https://open.spotify.com/track/2zoSvGZXm4NSLHd5oBNtUc) | [Hi Hat Henry](https://open.spotify.com/artist/7tsp47BEDJSjYQB0YaDV52) | [Big Fish](https://open.spotify.com/album/2Ldz0ZfQh8GKRl43TlLjiT) | 2:35 | 2024-10-18 | 2025-09-06 |

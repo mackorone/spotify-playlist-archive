@@ -1,6 +1,6 @@
 {
   "description": "All the Tejano classics for you to enjoy! Cover: Selena",
-  "num_followers": 239783,
+  "num_followers": 239843,
   "original_name": "Tejano Classics",
   "owner": {
     "name": "Spotify",
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
         }
       ],
-      "duration_ms": 169493,
-      "name": "Fuertemente",
-      "url": "https://open.spotify.com/track/5TEzNtE6KmRccDqNosDByw"
+      "duration_ms": 245160,
+      "name": "Aire",
+      "url": "https://open.spotify.com/track/3xvl7xQiICvrTJolyPKvMF"
     },
     {
       "added_at": "2024-05-02 04:14:20",
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
         }
       ],
-      "duration_ms": 245160,
-      "name": "Aire",
-      "url": "https://open.spotify.com/track/3xvl7xQiICvrTJolyPKvMF"
+      "duration_ms": 169493,
+      "name": "Fuertemente",
+      "url": "https://open.spotify.com/track/5TEzNtE6KmRccDqNosDByw"
     },
     {
       "added_at": "2024-05-02 04:14:20",
@@ -459,6 +459,22 @@
     {
       "added_at": "2024-05-02 04:14:20",
       "album": {
+        "name": "The Voice",
+        "url": "https://open.spotify.com/album/7JXsGG9pXfbrDpzNiKyS5b"
+      },
+      "artists": [
+        {
+          "name": "Jay P\u00e9rez",
+          "url": "https://open.spotify.com/artist/4YqSt6mlUQUKuPLsMTDWTC"
+        }
+      ],
+      "duration_ms": 209826,
+      "name": "Lo Que Yo Tengo",
+      "url": "https://open.spotify.com/track/77YM8eY4U7AKeJSQUc2OqF"
+    },
+    {
+      "added_at": "2024-05-02 04:14:20",
+      "album": {
         "name": "Tejano Mix",
         "url": "https://open.spotify.com/album/0puxxMHv59vd5G047pqTrg"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 488253,
       "name": "Tejano Megamix - Long Version",
       "url": "https://open.spotify.com/track/1V8rBKeQAbNwykLUrL4qDh"
-    },
-    {
-      "added_at": "2024-05-02 04:14:20",
-      "album": {
-        "name": "The Voice",
-        "url": "https://open.spotify.com/album/7JXsGG9pXfbrDpzNiKyS5b"
-      },
-      "artists": [
-        {
-          "name": "Jay P\u00e9rez",
-          "url": "https://open.spotify.com/artist/4YqSt6mlUQUKuPLsMTDWTC"
-        }
-      ],
-      "duration_ms": 209826,
-      "name": "Lo Que Yo Tengo",
-      "url": "https://open.spotify.com/track/77YM8eY4U7AKeJSQUc2OqF"
     },
     {
       "added_at": "2024-05-02 04:14:20",
@@ -1060,9 +1060,9 @@
           "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
         }
       ],
-      "duration_ms": 203253,
-      "name": "Nuestra Canci\u00f3n",
-      "url": "https://open.spotify.com/track/5o4hMBr9ovkytff8TBHreg"
+      "duration_ms": 207666,
+      "name": "Me Duele Estar Solo",
+      "url": "https://open.spotify.com/track/1zEGq2ScBI7ecxAKh7K0Qt"
     },
     {
       "added_at": "2024-05-02 04:14:20",
@@ -1140,9 +1140,9 @@
           "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
         }
       ],
-      "duration_ms": 207666,
-      "name": "Me Duele Estar Solo",
-      "url": "https://open.spotify.com/track/1zEGq2ScBI7ecxAKh7K0Qt"
+      "duration_ms": 203253,
+      "name": "Nuestra Canci\u00f3n",
+      "url": "https://open.spotify.com/track/5o4hMBr9ovkytff8TBHreg"
     },
     {
       "added_at": "2024-05-02 04:14:20",

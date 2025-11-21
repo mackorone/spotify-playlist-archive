@@ -1,6 +1,6 @@
 {
   "description": "Ride the bassline. Cover: TyriqueOrDie",
-  "num_followers": 267835,
+  "num_followers": 267850,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
@@ -619,58 +619,6 @@
     {
       "added_at": "2025-11-14 05:00:35",
       "album": {
-        "name": "Toxic",
-        "url": "https://open.spotify.com/album/1dHYU7DWo9jAW6gphowkRn"
-      },
-      "artists": [
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        },
-        {
-          "name": "Ragie Ban",
-          "url": "https://open.spotify.com/artist/7lz52Oe1rAo5DwfSRwFsQL"
-        }
-      ],
-      "duration_ms": 164244,
-      "name": "Toxic",
-      "url": "https://open.spotify.com/track/6bavRPbVF9voNZ4r6hTgVO"
-    },
-    {
-      "added_at": "2025-11-14 05:00:35",
-      "album": {
-        "name": "World Of The Rave",
-        "url": "https://open.spotify.com/album/7fedP2I2IBBNdvEFITz5HC"
-      },
-      "artists": [
-        {
-          "name": "MARTA",
-          "url": "https://open.spotify.com/artist/1Qa6ZBZZK7Z1Zx7MiDTJQS"
-        }
-      ],
-      "duration_ms": 185215,
-      "name": "World Of The Rave",
-      "url": "https://open.spotify.com/track/5kS92GBwDEloA9uKbFNulW"
-    },
-    {
-      "added_at": "2025-11-14 05:00:35",
-      "album": {
-        "name": "Wildfire",
-        "url": "https://open.spotify.com/album/5G64NG1cJVftgUuEk7ox0n"
-      },
-      "artists": [
-        {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
-        }
-      ],
-      "duration_ms": 215172,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/0bqnisRuU2P52pXp3vXWol"
-    },
-    {
-      "added_at": "2025-11-14 05:00:35",
-      "album": {
         "name": "Till I Die (feat. Claudia Valentina)",
         "url": "https://open.spotify.com/album/5PbhaD1xmVRzslSBrI43cK"
       },
@@ -691,6 +639,58 @@
       "duration_ms": 203076,
       "name": "Till I Die (feat. Claudia Valentina)",
       "url": "https://open.spotify.com/track/4pawR52ONFQTCYUzI6C2xZ"
+    },
+    {
+      "added_at": "2025-11-14 05:00:35",
+      "album": {
+        "name": "World Of The Rave",
+        "url": "https://open.spotify.com/album/7fedP2I2IBBNdvEFITz5HC"
+      },
+      "artists": [
+        {
+          "name": "MARTA",
+          "url": "https://open.spotify.com/artist/1Qa6ZBZZK7Z1Zx7MiDTJQS"
+        }
+      ],
+      "duration_ms": 185215,
+      "name": "World Of The Rave",
+      "url": "https://open.spotify.com/track/5kS92GBwDEloA9uKbFNulW"
+    },
+    {
+      "added_at": "2025-11-14 05:00:35",
+      "album": {
+        "name": "Toxic",
+        "url": "https://open.spotify.com/album/1dHYU7DWo9jAW6gphowkRn"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Ragie Ban",
+          "url": "https://open.spotify.com/artist/7lz52Oe1rAo5DwfSRwFsQL"
+        }
+      ],
+      "duration_ms": 164244,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/6bavRPbVF9voNZ4r6hTgVO"
+    },
+    {
+      "added_at": "2025-11-14 05:00:35",
+      "album": {
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/5G64NG1cJVftgUuEk7ox0n"
+      },
+      "artists": [
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        }
+      ],
+      "duration_ms": 215172,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/0bqnisRuU2P52pXp3vXWol"
     },
     {
       "added_at": "2025-11-14 05:00:35",
@@ -1295,6 +1295,26 @@
     {
       "added_at": "2025-11-14 05:00:35",
       "album": {
+        "name": "Fall In Love Again",
+        "url": "https://open.spotify.com/album/24UtZxwqRZKMLb3uUdqMBt"
+      },
+      "artists": [
+        {
+          "name": "Phantogram",
+          "url": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
+        },
+        {
+          "name": "HNTR",
+          "url": "https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU"
+        }
+      ],
+      "duration_ms": 183692,
+      "name": "Fall In Love Again",
+      "url": "https://open.spotify.com/track/351uaz0UJ7h0RYRD0e2w5V"
+    },
+    {
+      "added_at": "2025-11-14 05:00:35",
+      "album": {
         "name": "Angel",
         "url": "https://open.spotify.com/album/1l8lYGYLSYgh5vdfxJjvBc"
       },
@@ -1339,18 +1359,22 @@
     {
       "added_at": "2025-11-14 05:00:35",
       "album": {
-        "name": "Sunshine (My Girl)",
-        "url": "https://open.spotify.com/album/7AE0HaidGUaRBSmIZmJ8As"
+        "name": "You Gonna Want Me (I Know)",
+        "url": "https://open.spotify.com/album/0NWejE4qcU16cqia7YSWaN"
       },
       "artists": [
         {
-          "name": "Wuki",
-          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+          "name": "Tiga",
+          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
+        },
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
         }
       ],
-      "duration_ms": 131250,
-      "name": "Sunshine (My Girl)",
-      "url": "https://open.spotify.com/track/2bI6KAUqXeIXGAEEvup8ri"
+      "duration_ms": 192187,
+      "name": "You Gonna Want Me (I Know)",
+      "url": "https://open.spotify.com/track/0jXDwNszuI3K2xs5ShoE18"
     },
     {
       "added_at": "2025-11-14 05:00:35",
@@ -1371,22 +1395,18 @@
     {
       "added_at": "2025-11-14 05:00:35",
       "album": {
-        "name": "Fall In Love Again",
-        "url": "https://open.spotify.com/album/24UtZxwqRZKMLb3uUdqMBt"
+        "name": "Sunshine (My Girl)",
+        "url": "https://open.spotify.com/album/7AE0HaidGUaRBSmIZmJ8As"
       },
       "artists": [
         {
-          "name": "Phantogram",
-          "url": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
-        },
-        {
-          "name": "HNTR",
-          "url": "https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU"
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
         }
       ],
-      "duration_ms": 183692,
-      "name": "Fall In Love Again",
-      "url": "https://open.spotify.com/track/351uaz0UJ7h0RYRD0e2w5V"
+      "duration_ms": 131250,
+      "name": "Sunshine (My Girl)",
+      "url": "https://open.spotify.com/track/2bI6KAUqXeIXGAEEvup8ri"
     },
     {
       "added_at": "2025-11-14 05:00:35",
@@ -1411,26 +1431,6 @@
       "duration_ms": 160021,
       "name": "Air (feat. Julia Michaels)",
       "url": "https://open.spotify.com/track/7jc0ABEKe6svpZxSnBhQgx"
-    },
-    {
-      "added_at": "2025-11-14 05:00:35",
-      "album": {
-        "name": "You Gonna Want Me (I Know)",
-        "url": "https://open.spotify.com/album/0NWejE4qcU16cqia7YSWaN"
-      },
-      "artists": [
-        {
-          "name": "Tiga",
-          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
-        },
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        }
-      ],
-      "duration_ms": 192187,
-      "name": "You Gonna Want Me (I Know)",
-      "url": "https://open.spotify.com/track/0jXDwNszuI3K2xs5ShoE18"
     },
     {
       "added_at": "2025-11-14 05:00:35",
@@ -1527,34 +1527,6 @@
     {
       "added_at": "2025-11-14 05:00:35",
       "album": {
-        "name": "Gas Pedal Remix",
-        "url": "https://open.spotify.com/album/5nshc7uzMruLtzRAErOway"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
-        },
-        {
-          "name": "Tape B",
-          "url": "https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi"
-        },
-        {
-          "name": "Sage The Gemini",
-          "url": "https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z"
-        }
-      ],
-      "duration_ms": 130070,
-      "name": "Gas Pedal Remix",
-      "url": "https://open.spotify.com/track/18SVzej2aT7rf04XvCs7CB"
-    },
-    {
-      "added_at": "2025-11-14 05:00:35",
-      "album": {
         "name": "Drum Death",
         "url": "https://open.spotify.com/album/4vqrNHTMoTgrN4DBH5b81t"
       },
@@ -1603,6 +1575,34 @@
       "duration_ms": 211200,
       "name": "BLIND (RAVE MIX)",
       "url": "https://open.spotify.com/track/6zDkk2KqakCMWhLPZBDVPQ"
+    },
+    {
+      "added_at": "2025-11-14 05:00:35",
+      "album": {
+        "name": "Gas Pedal Remix",
+        "url": "https://open.spotify.com/album/5nshc7uzMruLtzRAErOway"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "Tape B",
+          "url": "https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi"
+        },
+        {
+          "name": "Sage The Gemini",
+          "url": "https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z"
+        }
+      ],
+      "duration_ms": 130070,
+      "name": "Gas Pedal Remix",
+      "url": "https://open.spotify.com/track/18SVzej2aT7rf04XvCs7CB"
     },
     {
       "added_at": "2025-11-14 05:00:35",
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2025-11-14 05:00:35",
       "album": {
+        "name": "Return to the Spectrum of Intergalactic Happiness",
+        "url": "https://open.spotify.com/album/7nD3FgLtAjNqWb953Hjigu"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        }
+      ],
+      "duration_ms": 253260,
+      "name": "Fall Away",
+      "url": "https://open.spotify.com/track/55BUd2feeBMNek0NwXEYT7"
+    },
+    {
+      "added_at": "2025-11-14 05:00:35",
+      "album": {
         "name": "Control Myself",
         "url": "https://open.spotify.com/album/62UY4BFIpHaJuikn68pd9U"
       },
@@ -1755,22 +1771,6 @@
       "duration_ms": 249545,
       "name": "Control Myself",
       "url": "https://open.spotify.com/track/0bvLAKIxesW6datVfezQ1Z"
-    },
-    {
-      "added_at": "2025-11-14 05:00:35",
-      "album": {
-        "name": "Return to the Spectrum of Intergalactic Happiness",
-        "url": "https://open.spotify.com/album/7nD3FgLtAjNqWb953Hjigu"
-      },
-      "artists": [
-        {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
-        }
-      ],
-      "duration_ms": 253260,
-      "name": "Fall Away",
-      "url": "https://open.spotify.com/track/55BUd2feeBMNek0NwXEYT7"
     },
     {
       "added_at": "2025-11-14 05:00:35",
@@ -1815,42 +1815,6 @@
     {
       "added_at": "2025-11-14 05:00:35",
       "album": {
-        "name": "dollaz n dollaz",
-        "url": "https://open.spotify.com/album/2Bl0W2ypDwTGp04bWlDKEq"
-      },
-      "artists": [
-        {
-          "name": "jigitz",
-          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
-        },
-        {
-          "name": "Lay Bankz",
-          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
-        }
-      ],
-      "duration_ms": 144826,
-      "name": "dollaz n dollaz",
-      "url": "https://open.spotify.com/track/6loojrz5G1FPzQyEdTm7Gs"
-    },
-    {
-      "added_at": "2025-11-14 05:00:35",
-      "album": {
-        "name": "California Dreamin'",
-        "url": "https://open.spotify.com/album/3pzkEzkgov9KStfPxPiA1C"
-      },
-      "artists": [
-        {
-          "name": "Arcando",
-          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
-        }
-      ],
-      "duration_ms": 170057,
-      "name": "California Dreamin'",
-      "url": "https://open.spotify.com/track/1kq7feGMFG3NPRwm5XR5fs"
-    },
-    {
-      "added_at": "2025-11-14 05:00:35",
-      "album": {
         "name": "gImmE gImmE",
         "url": "https://open.spotify.com/album/0qfEvqdN7B9aBWleNWuf82"
       },
@@ -1875,6 +1839,22 @@
     {
       "added_at": "2025-11-14 05:00:35",
       "album": {
+        "name": "California Dreamin'",
+        "url": "https://open.spotify.com/album/3pzkEzkgov9KStfPxPiA1C"
+      },
+      "artists": [
+        {
+          "name": "Arcando",
+          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
+        }
+      ],
+      "duration_ms": 170057,
+      "name": "California Dreamin'",
+      "url": "https://open.spotify.com/track/1kq7feGMFG3NPRwm5XR5fs"
+    },
+    {
+      "added_at": "2025-11-14 05:00:35",
+      "album": {
         "name": "nolimit",
         "url": "https://open.spotify.com/album/0m7RPdwNo1gte0nUSwh2yv"
       },
@@ -1887,6 +1867,26 @@
       "duration_ms": 164139,
       "name": "select@",
       "url": "https://open.spotify.com/track/55uf1FtsrO1C1pQU457O5h"
+    },
+    {
+      "added_at": "2025-11-14 05:00:35",
+      "album": {
+        "name": "dollaz n dollaz",
+        "url": "https://open.spotify.com/album/2Bl0W2ypDwTGp04bWlDKEq"
+      },
+      "artists": [
+        {
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
+        },
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "duration_ms": 144826,
+      "name": "dollaz n dollaz",
+      "url": "https://open.spotify.com/track/6loojrz5G1FPzQyEdTm7Gs"
     },
     {
       "added_at": "2025-11-14 05:00:35",
@@ -1995,6 +1995,26 @@
     {
       "added_at": "2025-11-14 05:00:35",
       "album": {
+        "name": "Make It Work",
+        "url": "https://open.spotify.com/album/7iFai9pwfc6Wwj5HYVzPNd"
+      },
+      "artists": [
+        {
+          "name": "bradeazy",
+          "url": "https://open.spotify.com/artist/1dESZUZevzhd5dzq9ZsMLI"
+        },
+        {
+          "name": "TyriqueOrDie",
+          "url": "https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE"
+        }
+      ],
+      "duration_ms": 171380,
+      "name": "Make It Work",
+      "url": "https://open.spotify.com/track/0KPlbfJ7e8Beufds7pILpH"
+    },
+    {
+      "added_at": "2025-11-14 05:00:35",
+      "album": {
         "name": "Spend Money",
         "url": "https://open.spotify.com/album/0Yc4FlwbliYKyTbtQY3Ea9"
       },
@@ -2099,26 +2119,6 @@
     {
       "added_at": "2025-11-14 05:00:35",
       "album": {
-        "name": "Make It Work",
-        "url": "https://open.spotify.com/album/7iFai9pwfc6Wwj5HYVzPNd"
-      },
-      "artists": [
-        {
-          "name": "bradeazy",
-          "url": "https://open.spotify.com/artist/1dESZUZevzhd5dzq9ZsMLI"
-        },
-        {
-          "name": "TyriqueOrDie",
-          "url": "https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE"
-        }
-      ],
-      "duration_ms": 171380,
-      "name": "Make It Work",
-      "url": "https://open.spotify.com/track/0KPlbfJ7e8Beufds7pILpH"
-    },
-    {
-      "added_at": "2025-11-14 05:00:35",
-      "album": {
         "name": "Take It All",
         "url": "https://open.spotify.com/album/6Z4FhlsTWm5HaEUNcWHC6l"
       },
@@ -2179,22 +2179,6 @@
     {
       "added_at": "2025-11-14 05:00:35",
       "album": {
-        "name": "Prophecy",
-        "url": "https://open.spotify.com/album/1lYOAexnj4ZwKHofhvWBAn"
-      },
-      "artists": [
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        }
-      ],
-      "duration_ms": 315276,
-      "name": "Prophecy",
-      "url": "https://open.spotify.com/track/69nFLl74Rqr8LmqUCUZJL6"
-    },
-    {
-      "added_at": "2025-11-14 05:00:35",
-      "album": {
         "name": "The Sound",
         "url": "https://open.spotify.com/album/1rwPxia8PKK8uvUSaErJIj"
       },
@@ -2211,6 +2195,22 @@
       "duration_ms": 155147,
       "name": "The Sound",
       "url": "https://open.spotify.com/track/6VfURLdwW6jBCu4nHdAKBm"
+    },
+    {
+      "added_at": "2025-11-14 05:00:35",
+      "album": {
+        "name": "Prophecy",
+        "url": "https://open.spotify.com/album/1lYOAexnj4ZwKHofhvWBAn"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        }
+      ],
+      "duration_ms": 315276,
+      "name": "Prophecy",
+      "url": "https://open.spotify.com/track/69nFLl74Rqr8LmqUCUZJL6"
     },
     {
       "added_at": "2025-11-14 05:00:35",
@@ -2239,6 +2239,22 @@
     {
       "added_at": "2025-11-14 05:00:35",
       "album": {
+        "name": "Red Velvet",
+        "url": "https://open.spotify.com/album/4z9i6Q7C98sselGw7R2XKP"
+      },
+      "artists": [
+        {
+          "name": "One True God",
+          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
+        }
+      ],
+      "duration_ms": 168440,
+      "name": "Red Velvet",
+      "url": "https://open.spotify.com/track/36EfR7HreYyTLh0fLylOUo"
+    },
+    {
+      "added_at": "2025-11-14 05:00:35",
+      "album": {
         "name": "A Million Faces",
         "url": "https://open.spotify.com/album/4AIGSBw2tBI47wUTLoWBgM"
       },
@@ -2259,22 +2275,6 @@
     {
       "added_at": "2025-11-14 05:00:35",
       "album": {
-        "name": "Red Velvet",
-        "url": "https://open.spotify.com/album/4z9i6Q7C98sselGw7R2XKP"
-      },
-      "artists": [
-        {
-          "name": "One True God",
-          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
-        }
-      ],
-      "duration_ms": 168440,
-      "name": "Red Velvet",
-      "url": "https://open.spotify.com/track/36EfR7HreYyTLh0fLylOUo"
-    },
-    {
-      "added_at": "2025-11-14 05:00:35",
-      "album": {
         "name": "Erased",
         "url": "https://open.spotify.com/album/0Pd0xUoBSx6MsRMNJmmKPs"
       },
@@ -2291,6 +2291,22 @@
       "duration_ms": 182222,
       "name": "Erased",
       "url": "https://open.spotify.com/track/3ug5IXh3CC4keJp0zNEWrq"
+    },
+    {
+      "added_at": "2025-11-14 05:00:35",
+      "album": {
+        "name": "Off The Hook",
+        "url": "https://open.spotify.com/album/38MnYhXdB2kS4gQlCmhPNq"
+      },
+      "artists": [
+        {
+          "name": "JOA",
+          "url": "https://open.spotify.com/artist/3rOSOkPQ5PHYOiR7mvLTMA"
+        }
+      ],
+      "duration_ms": 154384,
+      "name": "Off The Hook",
+      "url": "https://open.spotify.com/track/5W806lkZxjDQSmNZGJcLj1"
     },
     {
       "added_at": "2025-11-14 05:00:35",
@@ -2379,22 +2395,6 @@
       "duration_ms": 199300,
       "name": "Distant Dreams",
       "url": "https://open.spotify.com/track/3FqKWnQVMGykKboxswiRsg"
-    },
-    {
-      "added_at": "2025-11-14 05:00:35",
-      "album": {
-        "name": "Off The Hook",
-        "url": "https://open.spotify.com/album/38MnYhXdB2kS4gQlCmhPNq"
-      },
-      "artists": [
-        {
-          "name": "JOA",
-          "url": "https://open.spotify.com/artist/3rOSOkPQ5PHYOiR7mvLTMA"
-        }
-      ],
-      "duration_ms": 154384,
-      "name": "Off The Hook",
-      "url": "https://open.spotify.com/track/5W806lkZxjDQSmNZGJcLj1"
     },
     {
       "added_at": "2025-11-14 05:00:35",

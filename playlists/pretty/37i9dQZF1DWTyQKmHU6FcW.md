@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyQKmHU6FcW.md) - [plain]
 
 > Elvis Presley's most romantic songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,211 likes - 35 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,225 likes - 35 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyQKmHU6FcW.md) - [plain]
 | 29 | [She Wears My Ring](https://open.spotify.com/track/74qkAezgb0SxD5IWUC7vF5) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis At Stax](https://open.spotify.com/album/3EHxFLhmgSGEBmJ7tFXwRz) | 3:22 |
 | 30 | [Hurt](https://open.spotify.com/track/4ugBXQVxTzKLmdCRL7yRRa) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [From Elvis Presley Boulevard, Memphis, Tennessee](https://open.spotify.com/album/6Kc8A5gqFZjDUeq77xSAK6) | 2:10 |
 | 31 | [Memories \- Stereo Mix](https://open.spotify.com/track/6jGzInaZ1QyKLNw61an9y5) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | ['68 Comeback Special \(50th Anniversary Edition\) \[Live\]](https://open.spotify.com/album/62CwfDeiM9t81FaFHebuUm) | 3:09 |
-| 32 | [It's Midnight](https://open.spotify.com/track/4pKfihh0OKoOfxirI6gmXR) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Promised Land](https://open.spotify.com/album/47pECKZZzoUQ2aug4zJLGv) | 3:21 |
+| 32 | [It's Midnight](https://open.spotify.com/track/4pKfihh0OKoOfxirI6gmXR) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Promised Land](https://open.spotify.com/album/47pECKZZzoUQ2aug4zJLGv) | 3:24 |
 | 33 | [Loving You](https://open.spotify.com/track/036VdTP0ggdePwbvbFuT8w) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Loving You](https://open.spotify.com/album/7KZSeiE569txmIxoNBQLS2) | 2:16 |
 | 34 | [You Don't Know Me](https://open.spotify.com/track/1EOsMbGG8ej3tTDQ735Ch7) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Clambake](https://open.spotify.com/album/6rgQTKAl5UXrWhPUKuIGFN) | 2:31 |
 | 35 | [For Ol' Times Sake](https://open.spotify.com/track/7DSUykao1FtU4vfFReDsfd) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Raised On Rock](https://open.spotify.com/album/2ZRE01JESBDtXwXckqGZY6) | 3:38 |

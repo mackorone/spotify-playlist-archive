@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With real silent bloom, Die Mannequin, Fefe Dobson and more",
+  "description": "With real silent bloom, Die Mannequin, Emilee & Jerico and more",
   "name": "Renee Cassar Radio",
   "tracks": [
     {
@@ -124,7 +124,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 201142,
       "name": "Better Off Dancing",
       "url": "https://open.spotify.com/track/1DpFP5szxmfhKtmmQseenG"
@@ -142,7 +142,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 215462,
       "name": "Better On My Own",
       "url": "https://open.spotify.com/track/5Qe3fB78MJkOKXWjOgRwVm"
@@ -160,7 +160,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 199752,
       "name": "Break The Cycle",
       "url": "https://open.spotify.com/track/3AmTz2qHWrvAZknfZsGHQW"
@@ -196,7 +196,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 127278,
       "name": "Bus Crush",
       "url": "https://open.spotify.com/track/7nttmGKTkbrXH1nvGqCO9d"
@@ -232,7 +232,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-20",
+      "date_removed": null,
       "duration_ms": 172639,
       "name": "Dark waves",
       "url": "https://open.spotify.com/track/0uVU62hPkak4JLXJ6O0ER6"
@@ -250,7 +250,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 191240,
       "name": "Dead Honey",
       "url": "https://open.spotify.com/track/1UClxw7v1bRhB6GpoVmO3O"
@@ -340,7 +340,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-20",
+      "date_removed": null,
       "duration_ms": 202840,
       "name": "Fall Behind Me",
       "url": "https://open.spotify.com/track/3SCwQM78OCR54xEL3JAmKk"
@@ -380,6 +380,24 @@
       "duration_ms": 197440,
       "name": "Finding Home",
       "url": "https://open.spotify.com/track/75RCnOzYqnnGJca93TJ0D5"
+    },
+    {
+      "album": {
+        "name": "Hearts on Fire",
+        "url": "https://open.spotify.com/album/2wvRCVZKXCWpopmeQGh5qq"
+      },
+      "artists": [
+        {
+          "name": "Yoya Beats",
+          "url": "https://open.spotify.com/artist/46wUUyGQyNqb3o40egL9Dy"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220080,
+      "name": "Firebeat",
+      "url": "https://open.spotify.com/track/7njibZDbMF6qHgzBfXkG52"
     },
     {
       "album": {
@@ -430,7 +448,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 205794,
       "name": "Friday Night (Three Stacks on the Radio)",
       "url": "https://open.spotify.com/track/4Ag3DgSTpvNFD4rMzFlJQ5"
@@ -448,7 +466,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 173084,
       "name": "Get Ready",
       "url": "https://open.spotify.com/track/1qoFd6Z4dat4ccN8nIdCm0"
@@ -520,7 +538,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 173856,
       "name": "I Bet You Like That",
       "url": "https://open.spotify.com/track/1aFPttcEHd04oZpEXv6cvu"
@@ -563,6 +581,24 @@
     },
     {
       "album": {
+        "name": "The Dollyrots",
+        "url": "https://open.spotify.com/album/2BBGdCOmI2y2VhDvAjVxSZ"
+      },
+      "artists": [
+        {
+          "name": "The Dollyrots",
+          "url": "https://open.spotify.com/artist/1TrzTUgWQlVRkoVGR0L7jy"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191795,
+      "name": "I Wanna Go",
+      "url": "https://open.spotify.com/track/6Nx2PX1w3l5QNaQG0YGzFB"
+    },
+    {
+      "album": {
         "name": "Joy",
         "url": "https://open.spotify.com/album/15qHh5U7v1DrA3Bk9M1jAu"
       },
@@ -599,6 +635,24 @@
     },
     {
       "album": {
+        "name": "In New",
+        "url": "https://open.spotify.com/album/56YbU1FZP0W5lZhjm5BNUg"
+      },
+      "artists": [
+        {
+          "name": "Laurine Metz",
+          "url": "https://open.spotify.com/artist/0dl4hUvqCdjcWvJAq5PyOg"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134260,
+      "name": "In New",
+      "url": "https://open.spotify.com/track/7c8yo0HL6k2XYiqFRrxBzK"
+    },
+    {
+      "album": {
         "name": "It's Not You",
         "url": "https://open.spotify.com/album/4P0JdSMtYHe9iUTYTxcNuD"
       },
@@ -610,10 +664,28 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 213640,
       "name": "It's Not You",
       "url": "https://open.spotify.com/track/6RjSUGBSoURetoxEdJ5JPE"
+    },
+    {
+      "album": {
+        "name": "It's Not You (SC Radio Mix)",
+        "url": "https://open.spotify.com/album/1JDlPO6TgnZGI1dXPOqbut"
+      },
+      "artists": [
+        {
+          "name": "Renee Cassar",
+          "url": "https://open.spotify.com/artist/5HZGH1vb26Yn4T6ec1Rcft"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213480,
+      "name": "It's Not You - SC Radio Mix",
+      "url": "https://open.spotify.com/track/1gswIHZ2LUd4YYTo2Rw5CV"
     },
     {
       "album": {
@@ -628,7 +700,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-20",
+      "date_removed": null,
       "duration_ms": 214679,
       "name": "I\u2019ll Survive Without You",
       "url": "https://open.spotify.com/track/5jeeIpNfJ6ByargBQQjWe6"
@@ -754,7 +826,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-20",
+      "date_removed": null,
       "duration_ms": 152915,
       "name": "Lonely Electric",
       "url": "https://open.spotify.com/track/4iozviCJvhZy9JROeKgKwE"
@@ -1028,6 +1100,24 @@
       "duration_ms": 202160,
       "name": "Think Like A Man",
       "url": "https://open.spotify.com/track/6AaBX9BWwQTjDtuqjoHELM"
+    },
+    {
+      "album": {
+        "name": "Touch the Sky",
+        "url": "https://open.spotify.com/album/6aCFqLcgHP7pkp22oR03Ps"
+      },
+      "artists": [
+        {
+          "name": "real silent bloom",
+          "url": "https://open.spotify.com/artist/4J1y5ZnqxWz2QuJkrEjkHQ"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106110,
+      "name": "Touch the Sky",
+      "url": "https://open.spotify.com/track/7IiwWCfZ4tzymtKnfG4RL3"
     },
     {
       "album": {

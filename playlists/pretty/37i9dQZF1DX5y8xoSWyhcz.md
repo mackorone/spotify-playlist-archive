@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,215 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,209 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 29 | [Knik](https://open.spotify.com/track/1JQN3gqqNUV83MeN8OLZax) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [SHISH](https://open.spotify.com/album/7pbhvtNUvp160w3qgtwCCg) | 5:38 |
 | 30 | [Endors toi](https://open.spotify.com/track/6WrJ29z9yQF99ojbiEK527) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Ouin Ouin Ouin \(Deluxe Edition\)](https://open.spotify.com/album/5xGO8AfxpGvV3R2fQKIQ0C) | 2:53 |
 | 31 | [Emergency Contact](https://open.spotify.com/track/3bkkxPAmRA48LRpJMMqHfa) | [Grace Inspace](https://open.spotify.com/artist/50QEqqsedL6N3W0ICmLhYT) | [Emergency Contact](https://open.spotify.com/album/0odX53lfgl0seo8bKpyfDS) | 2:53 |
-| 32 | [Time \(feat\. Jade Bird\)](https://open.spotify.com/track/3yR8gF5hxJFTXSaZcJCRr3) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0), [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Time \(feat\. Jade Bird\)](https://open.spotify.com/album/4baR3GcohEvZbNkyHqEFC6) | 2:58 |
+| 32 | [Time \(feat\. Jade Bird\)](https://open.spotify.com/track/3yR8gF5hxJFTXSaZcJCRr3) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0), [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Time \(feat\. Jade Bird\)](https://open.spotify.com/album/4baR3GcohEvZbNkyHqEFC6) | 2:59 |
 | 33 | [Sympathy Is A Knife](https://open.spotify.com/track/3DwoBh7cAfEOrSVWRUtgOE) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn), [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [Sympathy Is A Knife](https://open.spotify.com/album/74FsBdVP7714hvE7BOu9So) | 3:29 |
 | 34 | [tight sweater](https://open.spotify.com/track/4MaTA4mmya5RlN9jVqhjWW) | [nicole amoroso](https://open.spotify.com/artist/1YJQ6X2HtbL1xNTfPm0Ft7) | [Everyone Is Still Asleep](https://open.spotify.com/album/1LDVTHUSWWAfRx8AJhfmBe) | 2:10 |
 | 35 | [Already Gone](https://open.spotify.com/track/5BFY1PDKOZuu75tx5iPpee) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [Already Gone](https://open.spotify.com/album/6UHRAPgRbUMxCnzskPlSus) | 3:13 |

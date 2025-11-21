@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Israel.
 
-1,314 songs - 3 day 2 hr 4 min
+1,315 songs - 3 day 2 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -801,7 +801,7 @@
 | [הטעות הכי יפה](https://open.spotify.com/track/3A9gSVar0MgHpO86WXeSW9) | [Itay Levi](https://open.spotify.com/artist/6VdxGMRiiFQhI8F0FkuQZg) | [הטעות הכי יפה](https://open.spotify.com/album/2YJL5Mkl7CjjVCgG7dIuKh) | 2:41 | 2021-06-01 | 2022-04-27 |
 | [היא ברזילאית](https://open.spotify.com/track/557CJdchRFIqWE0V5iUR8A) | [אדם זרו](https://open.spotify.com/artist/03px8W16Pep5DfqapWVVlq), [Yair Lugasy](https://open.spotify.com/artist/4yK2zJLW5slLAL5oLSKzi5) | [היא ברזילאית](https://open.spotify.com/album/2NCVx1WUF1Ua7rpX9dHuO3) | 2:31 | 2025-06-29 | 2025-08-19 |
 | [היא לא יודעת למה](https://open.spotify.com/track/6Ma5wr8hndGkkjsk9rgVKS) | [פאר טסי](https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs) | [רדיו שטח 3](https://open.spotify.com/album/16r1AhCbAHBrumtC2LOKW2) | 3:57 | 2025-06-30 |  |
-| [היה טוב](https://open.spotify.com/track/5omHkj4qY0A8f6mE4T3fAH) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [תסמינים של פרידה](https://open.spotify.com/album/5zW2JPL3VdVwRwntUZ0F43) | 3:33 | 2025-06-11 |  |
+| [היה טוב](https://open.spotify.com/track/5omHkj4qY0A8f6mE4T3fAH) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [תסמינים של פרידה](https://open.spotify.com/album/5zW2JPL3VdVwRwntUZ0F43) | 3:33 | 2025-06-11 | 2025-11-21 |
 | [היה מדבר](https://open.spotify.com/track/7Jh8Ar4buQNTT3s3iHJjkj) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL) | [רובים ותלתלים](https://open.spotify.com/album/2IUqqrHhooIUMDoSHvSknW) | 4:24 | 2025-05-31 | 2025-07-06 |
 | [היום קמתי שמח](https://open.spotify.com/track/28hmfseWQTUSMuTNuXg4eI) | [Hanan Ben Ari](https://open.spotify.com/artist/343YYaA5MSjiZZ5cGyTr4u) | [היום קמתי שמח](https://open.spotify.com/album/4wQGldP9I0DP3G93syKX8v) | 3:49 | 2025-01-25 | 2025-01-27 |
 | [היי בייב](https://open.spotify.com/track/1D8HR389yohrWVZ1yHI2bc) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL) | [מזרח פרוע](https://open.spotify.com/album/5VBiqJQPgR2j6ZpiAzwI4y) | 3:07 | 2021-12-18 | 2025-11-04 |
@@ -1001,6 +1001,7 @@
 | [מגבת באוויר](https://open.spotify.com/track/7qCwgzeZQbNp6VHt9wz8i7) | [NOROZ](https://open.spotify.com/artist/0rj0bYZWazgyJ3hZTDKQHD), [Ido B & Zooki](https://open.spotify.com/artist/5tTTzKBRrO8fTWrBjD1rd2) | [מגבת באוויר](https://open.spotify.com/album/5vuSfhLOx4QU4kPMeLBK2U) | 2:51 | 2021-10-17 | 2021-12-15 |
 | [מגדלים](https://open.spotify.com/track/5nYFRLTLrqiETyy6LUPfhQ) | [סטילה](https://open.spotify.com/artist/7lwdlhwSxbB36wqnOwo5Kd), [Ness](https://open.spotify.com/artist/2ygecp3YQJwBHL7LNzDgwe) | [מגדלים](https://open.spotify.com/album/4I1R7WUWt5wAIbaw9NXKvk) | 2:34 | 2024-07-16 | 2025-06-16 |
 | [מגנט](https://open.spotify.com/track/4BnqGasQmJZsFDsrTymuth) | [ששון איפרם שאולוב](https://open.spotify.com/artist/1Wq2STGiL7ZaIHAm5jMakc) | [מגנט](https://open.spotify.com/album/1xIx3xa7So8zW7BnRGCHhQ) | 3:00 | 2025-04-11 | 2025-05-29 |
+| [מדאם](https://open.spotify.com/track/02mgxr6NgCwAVtuLtttDUB) | [Noam Bettan](https://open.spotify.com/artist/0RzO7EUuiJ1urqHiJecPdn) | [מדאם](https://open.spotify.com/album/5XAJsNI2bquG7mLwCRZXku) | 2:52 | 2025-11-20 |  |
 | [מדברים בשקט \(מתוך חזרות למופע NEXT\)](https://open.spotify.com/track/6tldCcfbfXkLApFllqab7S) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL), [Idan Raichel](https://open.spotify.com/artist/5EBnQEKoaiAk37Q7cfGrE1) | [מדברים בשקט \(מתוך חזרות למופע NEXT\)](https://open.spotify.com/album/7M011HPciFztEdlXkJNzZ3) | 4:20 | 2022-12-10 | 2023-02-23 |
 | [מדליקה לי הכל](https://open.spotify.com/track/0FQ7tcdBk5d9s7juYV2QQj) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [מדליקה לי הכל](https://open.spotify.com/album/0Q13028sIQEmreai21rM4N) | 3:24 | 2021-10-30 | 2021-12-07 |
 | [מדליקה לי הכל](https://open.spotify.com/track/7rNA5Jwu23g7PaXcMwfLdq) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [אלבום 2](https://open.spotify.com/album/4Y0qA5fFbat53aqfeN9IcE) | 3:24 | 2021-12-07 | 2023-05-11 |
@@ -1250,7 +1251,7 @@
 | [שובו של מרדכי](https://open.spotify.com/track/1s8Mk9MmCPIhhhq2F9aGnz) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL), [Oshik Levy](https://open.spotify.com/artist/3tjoGZmGJVn69uCacptnWh), [Teddy Neguse](https://open.spotify.com/artist/1SOCXWLgBvXDqNobiSnGM7) | [מזרח פרוע](https://open.spotify.com/album/5VBiqJQPgR2j6ZpiAzwI4y) | 4:30 | 2021-12-18 | 2021-12-25 |
 | [שווארמה ודמעה](https://open.spotify.com/track/51XDPGyuq8EgHSXwKCn8CQ) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [לחנים שבורים](https://open.spotify.com/album/6qBbLMrB32FOw0uitKl2RR) | 2:36 | 2024-11-11 | 2025-03-06 |
 | [שום דבר לא יפגע בי](https://open.spotify.com/track/3FAOYZtUlvrvs3EgZ3Nyy1) | [Knesiyat Hasechel](https://open.spotify.com/artist/16MkPn5NwSOt7xc4OqjOHp) | [שום דבר לא יפגע בי](https://open.spotify.com/album/2raX9lg2PnnTYO1lUBJoxZ) | 3:41 | 2022-05-05 | 2024-05-16 |
-| [שושו](https://open.spotify.com/track/7pojjbZAyaEs28gCbV55xT) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL), [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [תסמינים של פרידה](https://open.spotify.com/album/5zW2JPL3VdVwRwntUZ0F43) | 2:56 | 2025-06-11 |  |
+| [שושו](https://open.spotify.com/track/7pojjbZAyaEs28gCbV55xT) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL), [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [תסמינים של פרידה](https://open.spotify.com/album/5zW2JPL3VdVwRwntUZ0F43) | 2:56 | 2025-06-11 | 2025-11-21 |
 | [שושנים עצובות](https://open.spotify.com/track/10GsfggkORXTRVaIHvA7y3) | [Idan Raichel](https://open.spotify.com/artist/5EBnQEKoaiAk37Q7cfGrE1) | [הפרויקט של עידן רייכל](https://open.spotify.com/album/2rHCT6QwNlr1NgMT8MmHK3) | 2:35 | 2023-04-26 | 2023-04-28 |
 | [שושנים עצובות \(ישראל בידור\)](https://open.spotify.com/track/1rmxF8VNLZ2gXwwzqGJ9tJ) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4), [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr), [ישראל בידור](https://open.spotify.com/artist/3v9RYe2J8eJLUlggkXxmZL) | [שושנים עצובות \(ישראל בידור\)](https://open.spotify.com/album/6y4VKtxBdPN8jVmeyCp0Qv) | 3:29 | 2021-04-14 | 2025-05-03 |
 | [שותפה שלי](https://open.spotify.com/track/5FQCwtsC3YanKJzpfkvnDt) | [Moshiko Mor](https://open.spotify.com/artist/6KskOtymSG2RrswMdNC2zC) | [שותפה שלי](https://open.spotify.com/album/1nK8LOQ8nZYsFwOHF7PyUu) | 2:54 | 2024-09-06 | 2024-11-11 |
@@ -1321,6 +1322,6 @@
 | [‏פתמטר](https://open.spotify.com/track/1pwMJiF3aqE3zjeWIpYV1U) | [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx), [Kashi](https://open.spotify.com/artist/0fH0m0VTc45qnCNF1tCYiK) | [תוך כדי תנועה](https://open.spotify.com/album/1Q6zthp8EbA68Low9tgD1G) | 3:17 | 2021-09-26 | 2021-10-03 |
 | [‏קורבן](https://open.spotify.com/track/2mGGqzRrPOYhgv4MSG6Fhq) | [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx), [Sima Noon](https://open.spotify.com/artist/2DMdTMjbXXHnlhsnJ9UJyz) | [תוך כדי תנועה](https://open.spotify.com/album/1Q6zthp8EbA68Low9tgD1G) | 3:24 | 2021-09-26 | 2022-02-26 |
 | [‏קנדריק](https://open.spotify.com/track/5MVbhdDzP1WiDquAHxNDbl) | [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx) | [תוך כדי תנועה](https://open.spotify.com/album/1Q6zthp8EbA68Low9tgD1G) | 3:14 | 2021-09-26 | 2021-10-08 |
-| [‏שלווה בארמונותייך](https://open.spotify.com/track/0PfvEnfj3hHl7zlc0WcfGY) | [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx) | [תוך כדי תנועה](https://open.spotify.com/album/1Q6zthp8EbA68Low9tgD1G) | 4:35 | 2021-09-26 | 2025-11-19 |
+| [‏שלווה בארמונותייך](https://open.spotify.com/track/0PfvEnfj3hHl7zlc0WcfGY) | [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx) | [תוך כדי תנועה](https://open.spotify.com/album/1Q6zthp8EbA68Low9tgD1G) | 4:35 | 2021-09-26 |  |
 
 \*This playlist was first scraped on 2021-03-27. Prior content cannot be recovered.

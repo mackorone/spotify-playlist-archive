@@ -3329,6 +3329,24 @@
     },
     {
       "album": {
+        "name": "Escuch\u00e9 tu voz",
+        "url": "https://open.spotify.com/album/3yighcYugRkRKuMni8gjPR"
+      },
+      "artists": [
+        {
+          "name": "Mora Robirosa",
+          "url": "https://open.spotify.com/artist/28WzV7jlOuklyRRzH1Keys"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184864,
+      "name": "Escuch\u00e9 tu voz",
+      "url": "https://open.spotify.com/track/4x3du9CZ6ronjcRUV8WVGp"
+    },
+    {
+      "album": {
         "name": "Esencia",
         "url": "https://open.spotify.com/album/68FCV1qUfcjqFkbzDXtUmO"
       },

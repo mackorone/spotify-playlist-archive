@@ -805,6 +805,24 @@
     },
     {
       "album": {
+        "name": "8:30 is too early",
+        "url": "https://open.spotify.com/album/7l89dP0Z0Q3GykEbcLwCXW"
+      },
+      "artists": [
+        {
+          "name": "bunii",
+          "url": "https://open.spotify.com/artist/6mx3Y8XNLPaS2pjJbQFq3W"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73064,
+      "name": "cupid",
+      "url": "https://open.spotify.com/track/4RrEGof2unXEhwVYLaVxUi"
+    },
+    {
+      "album": {
         "name": "joseph's deli & lottery",
         "url": "https://open.spotify.com/album/4tbpoplEQJggCqxLF9GfsM"
       },

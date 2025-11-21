@@ -4,7 +4,7 @@
 
 > 🔥🎉
 
-115 songs - 5 hr 4 min
+116 songs - 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Da's Brunzynbaby](https://open.spotify.com/track/0aSjTvFL1ucNBPToefdceg) | [Brunzyn](https://open.spotify.com/artist/34zjBncq7MEAoNwsM1DMU9), [Dentalhon](https://open.spotify.com/artist/7aIdHQ8AGazYhQrF8dOe84) | [Da's Brunzynbaby](https://open.spotify.com/album/4IBxYCz5rMWl99Y4mvq55l) | 2:03 | 2025-08-25 | 2025-10-07 |
 | [Dame Un Grrr](https://open.spotify.com/track/7ih7pYSRZgWCTXuOmrnXjX) | [Fantomel](https://open.spotify.com/artist/5KSiZki8gCESiSq0z35Ald), [Kate Linn](https://open.spotify.com/artist/2b01rwtcqW5LyfVBMzIFQ4) | [Dame Un Grrr](https://open.spotify.com/album/1QJWpxXcEr1AH3BLeI0s65) | 2:13 | 2025-07-17 | 2025-09-05 |
 | [Dame Un Grrr \- Provi Remix Radio Edit](https://open.spotify.com/track/20fzebeACMzZovFyFW3G0L) | [Fantomel](https://open.spotify.com/artist/5KSiZki8gCESiSq0z35Ald), [Kate Linn](https://open.spotify.com/artist/2b01rwtcqW5LyfVBMzIFQ4), [Provi](https://open.spotify.com/artist/09WKhhJl9OZwZEKXRoSnOo) | [Dame Un Grrr \(Provi Remix\)](https://open.spotify.com/album/2GDIY30MqJ2sfnFp7px5Mq) | 2:00 | 2025-09-04 |  |
+| [Dans Alleen](https://open.spotify.com/track/5bNnztkwLZSZL9mKBOTDxl) | [The Partysquad](https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY), [Nachtdienst](https://open.spotify.com/artist/3064mDVay7KaKF8TyuD8kw) | [Dans Alleen](https://open.spotify.com/album/4VuBnepihfl7KDSdFgOmDp) | 2:37 | 2025-11-20 |  |
 | [De Liefde](https://open.spotify.com/track/3MrCOZ0qldvkNiQTWG9GIt) | [Flaire](https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH) | [De Liefde](https://open.spotify.com/album/61mnvmeJ8RTpN5bXDq6AXy) | 2:04 | 2025-10-01 |  |
 | [Delft](https://open.spotify.com/track/06vj9ZjYauBpT1hQHMjidL) | [Young Dylan](https://open.spotify.com/artist/6qqRfVXPotai8VXd2Umpyc) | [Delft](https://open.spotify.com/album/1STHINScS6iZUrTthqhsVW) | 2:02 | 2025-07-17 |  |
 | [Devotion](https://open.spotify.com/track/3BM5hoJ168Kh4hYEhiNxwK) | [Lance Savali](https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd) | [Devotion](https://open.spotify.com/album/47IOO7TrIL82e6P2d809N9) | 2:16 | 2025-07-17 |  |

@@ -4,7 +4,7 @@
 
 > Les meilleurs titres du moment et plus encore en version acoustique.
 
-149 songs - 7 hr 55 min
+150 songs - 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [By Your Side \(feat\. Tom Grennan\) \- Acoustic](https://open.spotify.com/track/1QMSIsTV6lcLCQ9MBHTLhT) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [By Your Side \(Acoustic\) \(feat\. Tom Grennan\)](https://open.spotify.com/album/7lYiqSYSUOeWFahBbVZYCF) | 3:11 | 2022-12-21 | 2023-05-15 |
 | [Can't Tame Her \- Acoustic](https://open.spotify.com/track/1fuD35YHKBFQTIy61hbwo4) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Can't Tame Her \(Acoustic\)](https://open.spotify.com/album/7kSvTMG6BOS7O7yHyKeGpg) | 3:30 | 2023-03-09 | 2024-06-01 |
 | [Carry Me \- Acoustic Version](https://open.spotify.com/track/0KXhbwmPLhECjqhGkhYpic) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [ROOM 96](https://open.spotify.com/album/6MFyUXJ1YrcHvraPVirOZ1) | 3:24 | 2023-02-21 | 2025-11-15 |
-| [Ce qui me va \- Version acoustique](https://open.spotify.com/track/1yWdlzvYpt5SY1et6TWNDq) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Ce qui me va](https://open.spotify.com/album/6GZ2K7dAyHHMbY65archCw) | 3:03 | 2025-05-29 |  |
+| [Ce qui me va \- Version acoustique](https://open.spotify.com/track/1yWdlzvYpt5SY1et6TWNDq) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Ce qui me va](https://open.spotify.com/album/6GZ2K7dAyHHMbY65archCw) | 3:03 | 2025-05-29 | 2025-11-21 |
 | [Ceux qu'on était \- Version acoustique](https://open.spotify.com/track/03Nu6igh7gtptMbgJrcdrk) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Ceux qu'on était](https://open.spotify.com/album/4JdvSrnVF0r39NGMm1Xree) | 3:20 | 2024-02-22 |  |
 | [Cold Heart \- Acoustic](https://open.spotify.com/track/0k6LV1ohcK2hlNPwu1nVw9) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Cold Heart \(Acoustic\)](https://open.spotify.com/album/78pahaG6oQu93YqFLVYGEv) | 3:15 | 2022-12-21 |  |
 | [Control \- Acoustic Guitar Version](https://open.spotify.com/track/7LsJd6JUzWy3SUvy33g6yQ) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Control \(Acoustic Versions\)](https://open.spotify.com/album/0GfYuFknkNUEPIbmV9rCef) | 3:51 | 2022-12-21 | 2024-06-15 |
@@ -157,5 +157,6 @@
 | [Wish You The Best \- Guitar Version](https://open.spotify.com/track/3rOGAAipcIGs9p75v9wDPq) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Wish You The Best EP](https://open.spotify.com/album/46ksJlfXcOQTlSUo7EWIYE) | 3:29 | 2023-12-01 |  |
 | [You \(with Marshmello & Vance Joy\) \- Acoustic](https://open.spotify.com/track/2wcseriGAqeodDazDXgmaq) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [You \(with Marshmello & Vance Joy\) \[Main + Acoustic\]](https://open.spotify.com/album/0XqS6EE0TuqdLrhJVo06jL) | 2:31 | 2022-12-21 | 2023-01-06 |
 | [you broke me first \- Spotify Singles](https://open.spotify.com/track/4SBahN5KfX1RLG9XLNIlJA) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Spotify Singles](https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt) | 2:56 | 2022-12-21 | 2024-01-12 |
+| [À qui le tour \- Acoustique](https://open.spotify.com/track/4mIiUZGswoknnPkQOWsApA) | [Jeck](https://open.spotify.com/artist/1kvygchIwU4XHXY8xD6ugf), [Carla](https://open.spotify.com/artist/7dgCfYEmAX7OxaYWgCGxAr) | [Oxygène \(Versions acoustiques\)](https://open.spotify.com/album/5cIJRdQK9cZKt3TBbdAWlN) | 2:42 | 2025-11-20 |  |
 
 \*This playlist was first scraped on 2022-12-28. Prior content cannot be recovered.

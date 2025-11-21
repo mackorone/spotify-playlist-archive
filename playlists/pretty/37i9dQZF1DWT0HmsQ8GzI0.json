@@ -1,6 +1,6 @@
 {
   "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: Csaknekedkisl\u00e1ny",
-  "num_followers": 15690,
+  "num_followers": 15695,
   "original_name": "Nemazapop",
   "owner": {
     "name": "Spotify",
@@ -479,6 +479,34 @@
     {
       "added_at": "2025-11-13 23:00:40",
       "album": {
+        "name": "A b\u00e1lban",
+        "url": "https://open.spotify.com/album/0x89eDYKFXBDebJqzTyt5b"
+      },
+      "artists": [
+        {
+          "name": "Mehringer",
+          "url": "https://open.spotify.com/artist/2onsfuh37zW0OHB3lFa3t1"
+        },
+        {
+          "name": "Atka",
+          "url": "https://open.spotify.com/artist/4WgDaRJ6Bf8rjN7kav2gBV"
+        },
+        {
+          "name": "bennz",
+          "url": "https://open.spotify.com/artist/3weSQ24expJ50Qc4onI3ZZ"
+        },
+        {
+          "name": "Ocean",
+          "url": "https://open.spotify.com/artist/6qH1F1MhHVSVNWK82mwo6M"
+        }
+      ],
+      "duration_ms": 216093,
+      "name": "csin\u00e1lj \u00fagy",
+      "url": "https://open.spotify.com/track/2FbBTlpQe6BqXO3A3v9TyQ"
+    },
+    {
+      "added_at": "2025-11-13 23:00:40",
+      "album": {
         "name": "Magam sem tudom",
         "url": "https://open.spotify.com/album/6k6hfT293PG9NduWzLC55r"
       },
@@ -511,34 +539,6 @@
       "duration_ms": 128578,
       "name": "Sose halok meg",
       "url": "https://open.spotify.com/track/5IXSSKNUW3v7ewkQWXgcNx"
-    },
-    {
-      "added_at": "2025-11-13 23:00:40",
-      "album": {
-        "name": "A b\u00e1lban",
-        "url": "https://open.spotify.com/album/0x89eDYKFXBDebJqzTyt5b"
-      },
-      "artists": [
-        {
-          "name": "Mehringer",
-          "url": "https://open.spotify.com/artist/2onsfuh37zW0OHB3lFa3t1"
-        },
-        {
-          "name": "Atka",
-          "url": "https://open.spotify.com/artist/4WgDaRJ6Bf8rjN7kav2gBV"
-        },
-        {
-          "name": "bennz",
-          "url": "https://open.spotify.com/artist/3weSQ24expJ50Qc4onI3ZZ"
-        },
-        {
-          "name": "Ocean",
-          "url": "https://open.spotify.com/artist/6qH1F1MhHVSVNWK82mwo6M"
-        }
-      ],
-      "duration_ms": 216093,
-      "name": "csin\u00e1lj \u00fagy",
-      "url": "https://open.spotify.com/track/2FbBTlpQe6BqXO3A3v9TyQ"
     },
     {
       "added_at": "2025-11-13 23:00:40",
@@ -591,26 +591,6 @@
     {
       "added_at": "2025-11-13 23:00:40",
       "album": {
-        "name": "Beszorult mondat",
-        "url": "https://open.spotify.com/album/6rDnj8NhQrIvAjqOYlQYnZ"
-      },
-      "artists": [
-        {
-          "name": "Kisp\u00e1l \u00e9s a Borz",
-          "url": "https://open.spotify.com/artist/71buZyotrHSZMVkSTcDY8c"
-        },
-        {
-          "name": "Kr\u00fabi",
-          "url": "https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E"
-        }
-      ],
-      "duration_ms": 232375,
-      "name": "Beszorult mondat",
-      "url": "https://open.spotify.com/track/6XQFocpLut9tovM7XkNQpw"
-    },
-    {
-      "added_at": "2025-11-13 23:00:40",
-      "album": {
         "name": "Jerik\u00f3",
         "url": "https://open.spotify.com/album/455HvLY620gM3Ia8tO7JR7"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 162000,
       "name": "Jerik\u00f3",
       "url": "https://open.spotify.com/track/2buK5D1SetmgAPAl10tCq3"
+    },
+    {
+      "added_at": "2025-11-13 23:00:40",
+      "album": {
+        "name": "Beszorult mondat",
+        "url": "https://open.spotify.com/album/6rDnj8NhQrIvAjqOYlQYnZ"
+      },
+      "artists": [
+        {
+          "name": "Kisp\u00e1l \u00e9s a Borz",
+          "url": "https://open.spotify.com/artist/71buZyotrHSZMVkSTcDY8c"
+        },
+        {
+          "name": "Kr\u00fabi",
+          "url": "https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E"
+        }
+      ],
+      "duration_ms": 232375,
+      "name": "Beszorult mondat",
+      "url": "https://open.spotify.com/track/6XQFocpLut9tovM7XkNQpw"
     },
     {
       "added_at": "2025-11-13 23:00:40",
@@ -687,22 +687,6 @@
     {
       "added_at": "2025-11-13 23:00:40",
       "album": {
-        "name": "Szeptember V\u00e9g\u00e9n",
-        "url": "https://open.spotify.com/album/3FTqXcCmloEXBywwx1YLC8"
-      },
-      "artists": [
-        {
-          "name": "Beretka \u00c1d\u00e1m",
-          "url": "https://open.spotify.com/artist/2pUosmQBulUMSAsOZ19jI6"
-        }
-      ],
-      "duration_ms": 153882,
-      "name": "Szeptember V\u00e9g\u00e9n",
-      "url": "https://open.spotify.com/track/6o1xgKQw1RMIJ64MdQ3yDC"
-    },
-    {
-      "added_at": "2025-11-13 23:00:40",
-      "album": {
         "name": "Tegnapr\u00f3l",
         "url": "https://open.spotify.com/album/3VzA5HgPg0K40vanfTIOCQ"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 179580,
       "name": "\u00dct\u00f6tt kopott",
       "url": "https://open.spotify.com/track/2iF0jIPxbWCe0KstpEYgt5"
+    },
+    {
+      "added_at": "2025-11-13 23:00:40",
+      "album": {
+        "name": "Szeptember V\u00e9g\u00e9n",
+        "url": "https://open.spotify.com/album/3FTqXcCmloEXBywwx1YLC8"
+      },
+      "artists": [
+        {
+          "name": "Beretka \u00c1d\u00e1m",
+          "url": "https://open.spotify.com/artist/2pUosmQBulUMSAsOZ19jI6"
+        }
+      ],
+      "duration_ms": 153882,
+      "name": "Szeptember V\u00e9g\u00e9n",
+      "url": "https://open.spotify.com/track/6o1xgKQw1RMIJ64MdQ3yDC"
     },
     {
       "added_at": "2025-11-13 23:00:40",
@@ -983,6 +983,22 @@
     {
       "added_at": "2025-11-13 23:00:40",
       "album": {
+        "name": "IM\u00c1G\u00d3",
+        "url": "https://open.spotify.com/album/6a7Dw3UNp2o57zyLn2vFeQ"
+      },
+      "artists": [
+        {
+          "name": "H\u0171v\u00f6s",
+          "url": "https://open.spotify.com/artist/3xUvGJC2dqdwZ63D801tmA"
+        }
+      ],
+      "duration_ms": 185142,
+      "name": "\u00dcDV A KLUBBAN",
+      "url": "https://open.spotify.com/track/6lqGo3OzCYhPGIX4IRZYDT"
+    },
+    {
+      "added_at": "2025-11-13 23:00:40",
+      "album": {
         "name": "A sz\u00edv vezet",
         "url": "https://open.spotify.com/album/5kVYf3Gm7wgk1F7Jjcm3Lm"
       },
@@ -1035,18 +1051,18 @@
     {
       "added_at": "2025-11-13 23:00:40",
       "album": {
-        "name": "IM\u00c1G\u00d3",
-        "url": "https://open.spotify.com/album/6a7Dw3UNp2o57zyLn2vFeQ"
+        "name": "Legszebb Hib\u00e1nk",
+        "url": "https://open.spotify.com/album/3m9VNJ9qZMXhBHwmJ2ldi9"
       },
       "artists": [
         {
-          "name": "H\u0171v\u00f6s",
-          "url": "https://open.spotify.com/artist/3xUvGJC2dqdwZ63D801tmA"
+          "name": "Beretka \u00c1d\u00e1m",
+          "url": "https://open.spotify.com/artist/2pUosmQBulUMSAsOZ19jI6"
         }
       ],
-      "duration_ms": 185142,
-      "name": "\u00dcDV A KLUBBAN",
-      "url": "https://open.spotify.com/track/6lqGo3OzCYhPGIX4IRZYDT"
+      "duration_ms": 164705,
+      "name": "Legszebb Hib\u00e1nk",
+      "url": "https://open.spotify.com/track/1aDekm12qg6Eu7cOwlAOBw"
     },
     {
       "added_at": "2025-11-13 23:00:40",
@@ -1063,22 +1079,6 @@
       "duration_ms": 179636,
       "name": "k\u00f6z\u00f6ny",
       "url": "https://open.spotify.com/track/4eMZw6XRSLEXrVWLmXCgyq"
-    },
-    {
-      "added_at": "2025-11-13 23:00:40",
-      "album": {
-        "name": "Legszebb Hib\u00e1nk",
-        "url": "https://open.spotify.com/album/3m9VNJ9qZMXhBHwmJ2ldi9"
-      },
-      "artists": [
-        {
-          "name": "Beretka \u00c1d\u00e1m",
-          "url": "https://open.spotify.com/artist/2pUosmQBulUMSAsOZ19jI6"
-        }
-      ],
-      "duration_ms": 164705,
-      "name": "Legszebb Hib\u00e1nk",
-      "url": "https://open.spotify.com/track/1aDekm12qg6Eu7cOwlAOBw"
     },
     {
       "added_at": "2025-11-13 23:00:40",
@@ -1127,18 +1127,22 @@
     {
       "added_at": "2025-11-13 23:00:40",
       "album": {
-        "name": "Ugyanitt v\u00e1rlak",
-        "url": "https://open.spotify.com/album/3K0RrtPlf7DttkxvCrrVKj"
+        "name": "Quatre Grapes",
+        "url": "https://open.spotify.com/album/166W34UydwJ0pZlsNbrRKN"
       },
       "artists": [
         {
-          "name": "Margaret Island",
-          "url": "https://open.spotify.com/artist/02jCP5QSPYrmuZVMwSJweB"
+          "name": "Bohemian Betyars",
+          "url": "https://open.spotify.com/artist/2ezYPSKWBfnFTobN9puCow"
+        },
+        {
+          "name": "La Pegatina",
+          "url": "https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK"
         }
       ],
-      "duration_ms": 197500,
-      "name": "Ugyanitt v\u00e1rlak",
-      "url": "https://open.spotify.com/track/1b6DV0wJ8YWBzFINSUNRFO"
+      "duration_ms": 210400,
+      "name": "Quatre Grapes",
+      "url": "https://open.spotify.com/track/4a8KAMlAAhdTuBxGnjS6Zc"
     },
     {
       "added_at": "2025-11-13 23:00:40",
@@ -1163,26 +1167,6 @@
     {
       "added_at": "2025-11-13 23:00:40",
       "album": {
-        "name": "Quatre Grapes",
-        "url": "https://open.spotify.com/album/166W34UydwJ0pZlsNbrRKN"
-      },
-      "artists": [
-        {
-          "name": "Bohemian Betyars",
-          "url": "https://open.spotify.com/artist/2ezYPSKWBfnFTobN9puCow"
-        },
-        {
-          "name": "La Pegatina",
-          "url": "https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK"
-        }
-      ],
-      "duration_ms": 210400,
-      "name": "Quatre Grapes",
-      "url": "https://open.spotify.com/track/4a8KAMlAAhdTuBxGnjS6Zc"
-    },
-    {
-      "added_at": "2025-11-13 23:00:40",
-      "album": {
         "name": "B\u00e1ty\u00e1m, Dod\u00f3 - A Film",
         "url": "https://open.spotify.com/album/4FBHvAtwqpEwojA6dDlvg5"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 174957,
       "name": "T\u00e1rsas\u00e1gban",
       "url": "https://open.spotify.com/track/3vyz0Lh32tXc98nbzZgWat"
+    },
+    {
+      "added_at": "2025-11-13 23:00:40",
+      "album": {
+        "name": "Ugyanitt v\u00e1rlak",
+        "url": "https://open.spotify.com/album/3K0RrtPlf7DttkxvCrrVKj"
+      },
+      "artists": [
+        {
+          "name": "Margaret Island",
+          "url": "https://open.spotify.com/artist/02jCP5QSPYrmuZVMwSJweB"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "Ugyanitt v\u00e1rlak",
+      "url": "https://open.spotify.com/track/1b6DV0wJ8YWBzFINSUNRFO"
     },
     {
       "added_at": "2025-11-13 23:00:40",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2025-11-13 23:00:40",
       "album": {
-        "name": "kurvanagy ???",
-        "url": "https://open.spotify.com/album/5rtV49XeYdexhaF7uk0N5W"
-      },
-      "artists": [
-        {
-          "name": "girlhood",
-          "url": "https://open.spotify.com/artist/3fNcMexoD7MGbJ2rzqpk6U"
-        }
-      ],
-      "duration_ms": 151500,
-      "name": "kurvanagy ???",
-      "url": "https://open.spotify.com/track/5BwHgUkJOPriDnrH5RNEwc"
-    },
-    {
-      "added_at": "2025-11-13 23:00:40",
-      "album": {
         "name": "Szob\u00e1k felett",
         "url": "https://open.spotify.com/album/5LiXOFGCIm4rXVEclWrsmB"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 232293,
       "name": "Alb\u00e9rlet",
       "url": "https://open.spotify.com/track/0LxmBrcAbrGY9Z1kNZChic"
+    },
+    {
+      "added_at": "2025-11-13 23:00:40",
+      "album": {
+        "name": "kurvanagy ???",
+        "url": "https://open.spotify.com/album/5rtV49XeYdexhaF7uk0N5W"
+      },
+      "artists": [
+        {
+          "name": "girlhood",
+          "url": "https://open.spotify.com/artist/3fNcMexoD7MGbJ2rzqpk6U"
+        }
+      ],
+      "duration_ms": 151500,
+      "name": "kurvanagy ???",
+      "url": "https://open.spotify.com/track/5BwHgUkJOPriDnrH5RNEwc"
     },
     {
       "added_at": "2025-11-13 23:00:40",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2025-11-13 23:00:40",
       "album": {
-        "name": "Elment\u00e9l",
-        "url": "https://open.spotify.com/album/2WAes5Sxq4lx2GpnBBONKI"
-      },
-      "artists": [
-        {
-          "name": "Z\u00d3RA",
-          "url": "https://open.spotify.com/artist/5XRDlWq75VpsIeumX64ZDW"
-        }
-      ],
-      "duration_ms": 284368,
-      "name": "Elment\u00e9l",
-      "url": "https://open.spotify.com/track/1o4NsoVgFIl7CjHLDT9mBM"
-    },
-    {
-      "added_at": "2025-11-13 23:00:40",
-      "album": {
         "name": "Szeressetek",
         "url": "https://open.spotify.com/album/7ncsXh9pjUQibmO2L7tnto"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 182000,
       "name": "Szeressetek",
       "url": "https://open.spotify.com/track/1BYWwi0ELFixwltwVVizoQ"
+    },
+    {
+      "added_at": "2025-11-13 23:00:40",
+      "album": {
+        "name": "Elment\u00e9l",
+        "url": "https://open.spotify.com/album/2WAes5Sxq4lx2GpnBBONKI"
+      },
+      "artists": [
+        {
+          "name": "Z\u00d3RA",
+          "url": "https://open.spotify.com/artist/5XRDlWq75VpsIeumX64ZDW"
+        }
+      ],
+      "duration_ms": 284368,
+      "name": "Elment\u00e9l",
+      "url": "https://open.spotify.com/track/1o4NsoVgFIl7CjHLDT9mBM"
     },
     {
       "added_at": "2025-11-13 23:00:40",
@@ -1423,18 +1423,18 @@
     {
       "added_at": "2025-11-13 23:00:40",
       "album": {
-        "name": "Plan For You",
-        "url": "https://open.spotify.com/album/2k0M4sNRvc2P2446HQarjH"
+        "name": "B\u00e1natszalonna",
+        "url": "https://open.spotify.com/album/25JxKgwNHEoyBApMyKEeWq"
       },
       "artists": [
         {
-          "name": "Z\u00d3RA",
-          "url": "https://open.spotify.com/artist/5XRDlWq75VpsIeumX64ZDW"
+          "name": "Bohemian Betyars",
+          "url": "https://open.spotify.com/artist/2ezYPSKWBfnFTobN9puCow"
         }
       ],
-      "duration_ms": 173240,
-      "name": "Plan For You",
-      "url": "https://open.spotify.com/track/11a7fFxDeyFS0IF5Z6b5S6"
+      "duration_ms": 182827,
+      "name": "B\u00e1natszalonna",
+      "url": "https://open.spotify.com/track/0w0Ym7FLmk00KLPj9E6gFD"
     }
   ],
   "unique_name": "Nemazapop",

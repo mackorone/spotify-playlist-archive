@@ -10,7 +10,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 |---|---|---|---|---|
 | 1 | [KHELLINI](https://open.spotify.com/track/55EhjWKpOWKbzZaaj3OmUL) | [Mao](https://open.spotify.com/artist/4cb8yNt7de02GQkL9ibmaV) | [SOLARR ECLIPSE](https://open.spotify.com/album/0lFizxfo164ay2N9rTPO4V) | 2:47 |
 | 2 | [برقص عل احزان](https://open.spotify.com/track/701o32JXLUpsioqlsBGC9G) | [Qetoo](https://open.spotify.com/artist/6XnHQclydV6kIVoBClncdF) | [برقص عل احزان](https://open.spotify.com/album/0fYArJcRhUrpU4YYZ1ihqw) | 1:52 |
-| 3 | [Badary](https://open.spotify.com/track/13kzDpFJSn5IQdCs4q4ICp) | [Hila](https://open.spotify.com/artist/3A3pot8KOSN2Yozwl0NLuU) | [GG](https://open.spotify.com/album/7I8SCGztzMGf245VRw3w5e) | 1:12 |
+| 3 | [Badary](https://open.spotify.com/track/13kzDpFJSn5IQdCs4q4ICp) | [Hila](https://open.spotify.com/artist/3A3pot8KOSN2Yozwl0NLuU), [Vest](https://open.spotify.com/artist/41Fm0yl402cQqxPpmVFT3y) | [GG](https://open.spotify.com/album/7I8SCGztzMGf245VRw3w5e) | 1:12 |
 | 4 | [law f zaman tany](https://open.spotify.com/track/3LRXM9DLmDYTc4P9QP9rjx) | [Noha](https://open.spotify.com/artist/7tBhTihCulpL1l61zcMxcA) | [law f zaman tany](https://open.spotify.com/album/0xBHnUAm32g1SC8AZNVVGQ) | 2:23 |
 | 5 | [Eclipse](https://open.spotify.com/track/6PLlafCH5IqQkJHX3pBllr) | [Ryukk](https://open.spotify.com/artist/6W3wT7AX1kxceaifuk54iP) | [Eclipse](https://open.spotify.com/album/26do3rDYRpKSptiGGBEKPy) | 3:45 |
 | 6 | [Nirvana](https://open.spotify.com/track/30bp5UpQK5wuHSMTLMfbUt) | [Scander X](https://open.spotify.com/artist/5Q5w75TqeQPev9vx2bkvpT) | [Nirvana](https://open.spotify.com/album/3WnvwajqZLvFfi3bdy7OfE) | 2:34 |

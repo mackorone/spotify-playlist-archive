@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "De beste dance hits. Cover: Mathame",
+  "description": "De beste dance hits. Cover: Amber Broos & Portex",
   "name": "360 Dance",
   "tracks": [
     {
@@ -441,6 +441,28 @@
     },
     {
       "album": {
+        "name": "Destination Unknown (Calabria)",
+        "url": "https://open.spotify.com/album/2tgpE75wpRrNeqadjZf9Mm"
+      },
+      "artists": [
+        {
+          "name": "NERVO",
+          "url": "https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK"
+        },
+        {
+          "name": "22Bullets",
+          "url": "https://open.spotify.com/artist/18006kpQI473m1ICcpimQ9"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142806,
+      "name": "Destination Unknown (Calabria)",
+      "url": "https://open.spotify.com/track/1ku9Yr6cmIHh0CKE5RX5yu"
+    },
+    {
+      "album": {
         "name": "Destiny",
         "url": "https://open.spotify.com/album/6elqX6r1NOL3ZzyaC6pi1p"
       },
@@ -820,7 +842,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 172757,
       "name": "Hole In The Head",
       "url": "https://open.spotify.com/track/2qnC2IG9IltDkasNgiU3VT"
@@ -1166,6 +1188,32 @@
       "duration_ms": 186000,
       "name": "Kalabancoro",
       "url": "https://open.spotify.com/track/3DidOh90QTm6XAnD40gyJv"
+    },
+    {
+      "album": {
+        "name": "Let Me Love You",
+        "url": "https://open.spotify.com/album/1BrMfezHBHv5aa5GchQblk"
+      },
+      "artists": [
+        {
+          "name": "Pascal Letoublon",
+          "url": "https://open.spotify.com/artist/0oXTS2yHUnuji1R7kc9J9a"
+        },
+        {
+          "name": "Ian Storm",
+          "url": "https://open.spotify.com/artist/6fllSzvyC7OruOFZisOELq"
+        },
+        {
+          "name": "GREATOREX",
+          "url": "https://open.spotify.com/artist/6JxRVVFIVnyl9BRIZHGqIU"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186428,
+      "name": "Let Me Love You",
+      "url": "https://open.spotify.com/track/2Kq88ecbX0ZnuVbt8aqe4M"
     },
     {
       "album": {
@@ -1532,7 +1580,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 195200,
       "name": "Never Alone",
       "url": "https://open.spotify.com/track/3d59YKK0xcsrzTW58SjRZw"
@@ -1708,10 +1756,28 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 216778,
       "name": "Papi",
       "url": "https://open.spotify.com/track/58uQz5X3NinstpE6HSY3lk"
+    },
+    {
+      "album": {
+        "name": "Party People",
+        "url": "https://open.spotify.com/album/5iJ02YLpPhR6xQodkoGDMi"
+      },
+      "artists": [
+        {
+          "name": "Bassjackers",
+          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183673,
+      "name": "Party People",
+      "url": "https://open.spotify.com/track/2qOL9YCX61pJ9AAeblJdfF"
     },
     {
       "album": {
@@ -1903,6 +1969,32 @@
     },
     {
       "album": {
+        "name": "Scandalous (feat. DOOLIE)",
+        "url": "https://open.spotify.com/album/4wPB2tWqcy6AVeD4ilzu1p"
+      },
+      "artists": [
+        {
+          "name": "Amber Broos",
+          "url": "https://open.spotify.com/artist/6WYC0ES42uaiJPtdBKDkIz"
+        },
+        {
+          "name": "Portex",
+          "url": "https://open.spotify.com/artist/0pkAxB7rgoFyPyQbyxJN8N"
+        },
+        {
+          "name": "DOOLIE",
+          "url": "https://open.spotify.com/artist/52IMdPUhmYfGU7daNnmHVA"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221917,
+      "name": "Scandalous (feat. DOOLIE)",
+      "url": "https://open.spotify.com/track/4gXgtfDJQ59VI3d2lz0ZKO"
+    },
+    {
+      "album": {
         "name": "Set Me Free",
         "url": "https://open.spotify.com/album/2oRqHz1SKj1CcccfeyASOF"
       },
@@ -2088,7 +2180,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 212209,
       "name": "Sweet Disposition (a moment, a love)",
       "url": "https://open.spotify.com/track/0D57lQnn110jGaup4NguSI"

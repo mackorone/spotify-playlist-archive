@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4xHQp97fN6.md) - [plain]
 
 > Mood: Turnt Cover: Don Toliver
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,602,112 likes - 98 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,601,755 likes - 98 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

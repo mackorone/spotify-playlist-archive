@@ -1,12 +1,12 @@
 {
   "description": "This is Julia Vit\u00f3ria. The essential tracks, all in one playlist.",
-  "num_followers": 21647,
+  "num_followers": 21650,
   "original_name": "This Is Julia Vit\u00f3ria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRu3AAAAAAByl7LVgoZdckUvGEtpEaAw",
+  "snapshot_id": "aR0IgAAAAACEEuYmta/R2USrF+LYZxWE",
   "tracks": [
     {
       "added_at": null,
@@ -603,6 +603,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Catedral (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4mu6koOx6yaXbi9327NrzZ"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 278186,
+      "name": "Alvo Mais Que a Neve - Ao Vivo",
+      "url": "https://open.spotify.com/track/603qBVuPvdk7aSZNQbC8ts"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Redimido (Ao Vivo)",
         "url": "https://open.spotify.com/album/2LxF3P6SnsYgfyNdtWnIAt"
       },
@@ -635,26 +655,6 @@
       "duration_ms": 320186,
       "name": "Tua Presen\u00e7a - Ao Vivo",
       "url": "https://open.spotify.com/track/4xT7AI0TuUJXCBmFWknLqf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Catedral (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4mu6koOx6yaXbi9327NrzZ"
-      },
-      "artists": [
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        },
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 278186,
-      "name": "Alvo Mais Que a Neve - Ao Vivo",
-      "url": "https://open.spotify.com/track/603qBVuPvdk7aSZNQbC8ts"
     },
     {
       "added_at": null,
@@ -867,26 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu \u00c9s Rei",
-        "url": "https://open.spotify.com/album/0cZcSReFhsKGSKx2XT19W7"
-      },
-      "artists": [
-        {
-          "name": "Arthur Callazans",
-          "url": "https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS"
-        },
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 421395,
-      "name": "Tu \u00c9s Rei",
-      "url": "https://open.spotify.com/track/1ZRqhv2xiJWVrSOaD5VLpm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bruna Karla - Louvorz\u00e3o 2022 (Ao Vivo)",
         "url": "https://open.spotify.com/album/165BlFcLxau1hJTHHxHc1S"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 330940,
       "name": "Sou Humano (Ao Vivo)",
       "url": "https://open.spotify.com/track/3Nncb8DnbdvGvfHoT6FejH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tu \u00c9s Rei",
+        "url": "https://open.spotify.com/album/0cZcSReFhsKGSKx2XT19W7"
+      },
+      "artists": [
+        {
+          "name": "Arthur Callazans",
+          "url": "https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 421395,
+      "name": "Tu \u00c9s Rei",
+      "url": "https://open.spotify.com/track/1ZRqhv2xiJWVrSOaD5VLpm"
     },
     {
       "added_at": null,

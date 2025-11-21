@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die beste Afrikaanse musiek! Omslag: Brendan Peyper",
+  "description": "Net die beste Afrikaanse musiek! Omslag: Franja du Plessis",
   "name": "Afrikaanse Hits",
   "tracks": [
     {
@@ -1326,7 +1326,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 165149,
       "name": "Diepseeduiker 17",
       "url": "https://open.spotify.com/track/2gQutDwmbRbdTi23qqBlsu"
@@ -2052,7 +2052,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 204335,
       "name": "Haar Naam Is Afrikaans",
       "url": "https://open.spotify.com/track/55Y2k3TvlgniJdoZtcul0b"
@@ -2092,6 +2092,24 @@
       "duration_ms": 185538,
       "name": "Hakahana",
       "url": "https://open.spotify.com/track/4CpYNgOR68YBngjZ1z1DFH"
+    },
+    {
+      "album": {
+        "name": "Hallo My Maatjie",
+        "url": "https://open.spotify.com/album/7gdqvTxXpNWVstcYyEnBn7"
+      },
+      "artists": [
+        {
+          "name": "Kurt Darren",
+          "url": "https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220645,
+      "name": "Hallo My Maatjie",
+      "url": "https://open.spotify.com/track/3r3zDbUJUzOl4Ob78Pgrfx"
     },
     {
       "album": {
@@ -3510,7 +3528,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 183967,
       "name": "Lag",
       "url": "https://open.spotify.com/track/3R8GgzGMtJ27pDr6OcazYV"
@@ -4181,6 +4199,28 @@
     },
     {
       "album": {
+        "name": "Namibsroos (SENSASIE Remix)",
+        "url": "https://open.spotify.com/album/1a7rBCC6Ie1rvErOoQC5W5"
+      },
+      "artists": [
+        {
+          "name": "Theuns Jordaan",
+          "url": "https://open.spotify.com/artist/4FG57Vo1nipFsF1lRfYtE4"
+        },
+        {
+          "name": "SENSASIE",
+          "url": "https://open.spotify.com/artist/10HlHRiu2de76RWUBTbg14"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263440,
+      "name": "Namibsroos - SENSASIE Remix",
+      "url": "https://open.spotify.com/track/05VB5cgHGPrL722U1HLxET"
+    },
+    {
+      "album": {
         "name": "Naweek My Nou (feat. Loufi)",
         "url": "https://open.spotify.com/album/4D6oXces9lMf86k9ytJahz"
       },
@@ -4536,6 +4576,24 @@
       "duration_ms": 197479,
       "name": "OASE",
       "url": "https://open.spotify.com/track/2DiZzEROBjh6HejBmWav51"
+    },
+    {
+      "album": {
+        "name": "OE LA LA!",
+        "url": "https://open.spotify.com/album/3WTbOwaP7hba6znwEyO5mv"
+      },
+      "artists": [
+        {
+          "name": "Franja Du Plessis",
+          "url": "https://open.spotify.com/artist/3GsEM7KApCMtRdlUrj1V41"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176250,
+      "name": "OE LA LA!",
+      "url": "https://open.spotify.com/track/18zPDP4ryJxBUaWg6MEQCD"
     },
     {
       "album": {

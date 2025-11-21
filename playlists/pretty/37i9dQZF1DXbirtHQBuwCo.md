@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 
 > Trendy & Chill Korean R&B music\. \(Cover: <br/>KISS OF LIFE\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,095,394 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,095,481 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Lucky \(Korean Ver.\)](https://open.spotify.com/track/5PD4iehNUhZQsmM9E5Vznt) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Lucky \(Korean Ver.\)](https://open.spotify.com/album/27Kg4RNGzT2vIQ6OvXUjt5) | 2:28 |
 | 2 | [ON THE TABLE \(feat\. Sik\-K\)](https://open.spotify.com/track/2ONgnWMIA0KRkyLX6sxkDj) | [DIMO REX](https://open.spotify.com/artist/0GAYGBzZBTtYKkHIZs9ADH), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [ACCEPTANCE](https://open.spotify.com/album/6rA0eGCGQOfo2ci2reUZcV) | 3:15 |
-| 3 | [NAKED](https://open.spotify.com/track/2a6vMQiclAa0ZcBy6zFn4H) | [Y:SY](https://open.spotify.com/artist/6poSAr6d3ycm04lRtcMzxA) | [NAKED](https://open.spotify.com/album/2BXbtEqrsNv1LNV3y4Dtki) | 3:05 |
-| 4 | [On The Rocks](https://open.spotify.com/track/4HOxNNxaJEP7xfX0f0Nm7O) | [RYUL](https://open.spotify.com/artist/6NA2UPZOjtjgrd4aCEiscq), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [Paradox](https://open.spotify.com/album/39OHQDVXPOR1RqPj4n3XTw) | 2:27 |
+| 3 | [Last Long](https://open.spotify.com/track/0ZYToKEN7zHYF9OmG8TA57) | [Tabber](https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU) | [Last Long](https://open.spotify.com/album/1e3SPO5TG2tAzmmsmZKrNm) | 3:43 |
+| 4 | [NAKED](https://open.spotify.com/track/2a6vMQiclAa0ZcBy6zFn4H) | [Y:SY](https://open.spotify.com/artist/6poSAr6d3ycm04lRtcMzxA) | [NAKED](https://open.spotify.com/album/2BXbtEqrsNv1LNV3y4Dtki) | 3:05 |
 | 5 | [I Can′t Let You Go \(Feat\. zin, PENOMECO\)](https://open.spotify.com/track/632zGKeiF91cwghhKkUPWE) | [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7), [zin](https://open.spotify.com/artist/7KPRlWVq4NZrXWmHTseuTW), [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [MAGIC STATION 1](https://open.spotify.com/album/2dxvaQ3N7QBu51mnaLrV0Y) | 3:27 |
-| 6 | [Free](https://open.spotify.com/track/5DxDLsW6PsLz5gkwC7Mk5S) | [Rumi](https://open.spotify.com/artist/2DSE0PhxKUmTPLfZm13sup), [Jinu](https://open.spotify.com/artist/0rIiNDJUesrgFPkYesJmKl), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY), [Andrew Choi](https://open.spotify.com/artist/7JBaynR7JFeniONqbnn1U4), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 3:07 |
-| 7 | [Scott and Zelda](https://open.spotify.com/track/1MJyiTlVdSLAjI9aclZ3hL) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [EVE: ROMANCE](https://open.spotify.com/album/4OrisjS1FiGCNucXdwtd3Y) | 3:13 |
-| 8 | [SLIDIN’](https://open.spotify.com/track/0k9YOhsIcZGaXzwEVAL0EM) | [YUNGIN](https://open.spotify.com/artist/6mhw1MMBwP4wlOmYM3x9bp), [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [SLIDIN’](https://open.spotify.com/album/1M9noTaRDmFsm9juq86FDA) | 3:51 |
+| 6 | [On The Rocks](https://open.spotify.com/track/4HOxNNxaJEP7xfX0f0Nm7O) | [RYUL](https://open.spotify.com/artist/6NA2UPZOjtjgrd4aCEiscq), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [Paradox](https://open.spotify.com/album/39OHQDVXPOR1RqPj4n3XTw) | 2:27 |
+| 7 | [Free](https://open.spotify.com/track/5DxDLsW6PsLz5gkwC7Mk5S) | [Rumi](https://open.spotify.com/artist/2DSE0PhxKUmTPLfZm13sup), [Jinu](https://open.spotify.com/artist/0rIiNDJUesrgFPkYesJmKl), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY), [Andrew Choi](https://open.spotify.com/artist/7JBaynR7JFeniONqbnn1U4), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 3:07 |
+| 8 | [Scott and Zelda](https://open.spotify.com/track/1MJyiTlVdSLAjI9aclZ3hL) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [EVE: ROMANCE](https://open.spotify.com/album/4OrisjS1FiGCNucXdwtd3Y) | 3:13 |
 | 9 | [New Jeans](https://open.spotify.com/track/6rdkCkjk6D12xRpdMXy0I2) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 1:48 |
 | 10 | [Seven \(feat\. Latto\)](https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Seven \(feat\. Latto\)](https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX) | 3:04 |
 | 11 | [FRI\(END\)S](https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [FRI\(END\)S](https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs) | 2:28 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 | 74 | [Magic \(Feat\. JULIE of KISS OF LIFE\)](https://open.spotify.com/track/6pLYWcPnBdFJShuUARDIwj) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [JULIE](https://open.spotify.com/artist/3ZMTicGYs90UxyTEIScT5h) | [NA](https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7) | 3:26 |
 | 75 | [Mars](https://open.spotify.com/track/2FZKBbotZtXLQyedIV965w) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [BLOSSOM \- THE 3RD MINI ALBUM](https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk) | 3:07 |
 
-Snapshot ID: `AAAAALiQZ2lzN7nNA6qMl0amuLCym6Mc`
+Snapshot ID: `AAAAAEi1WZ8bhsuGPkDE9JYUd3vF4j0X`

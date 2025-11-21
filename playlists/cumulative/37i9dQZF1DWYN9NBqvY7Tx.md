@@ -4,7 +4,7 @@
 
 > Dance, bass, EDM, trap, phonk: the perfect gaming mix.
 
-711 songs - 1 day 12 hr 28 min
+712 songs - 1 day 12 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Beggin'](https://open.spotify.com/track/74nEGIzIefJhJ5qX7NeIAz) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Beggin'](https://open.spotify.com/album/4PCf8xkYY6ZlrQh48AQP1V) | 3:03 | 2023-08-18 | 2023-08-26 |
 | [Believer \- Kaskade Remix](https://open.spotify.com/track/6aiHF2IbJr6lG4Vu9em8KF) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Believer \(Kaskade Remix\)](https://open.spotify.com/album/2wVV49qXJai8kmCb1Czp0p) | 3:10 | 2022-07-14 | 2023-07-19 |
 | [Better Now](https://open.spotify.com/track/1iSuktdIdWrdfq0slQ4auO) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [Better Now](https://open.spotify.com/album/2Yf834YZ8vDNN7mcjJ0FEo) | 3:14 | 2023-09-22 | 2024-08-17 |
-| [Better Off \(Alone, Pt\. III\)](https://open.spotify.com/track/1P7hMSbpJOQy58eC78qx7s) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri), [Vikkstar](https://open.spotify.com/artist/3wE6Lb4RCyPMoXsnXV0ZPC) | [Better Off \(Alone, Pt\. III\)](https://open.spotify.com/album/1eQk5l0bTQPg2w8knqu6NS) | 2:31 | 2023-09-29 |  |
+| [Better Off \(Alone, Pt\. III\)](https://open.spotify.com/track/1P7hMSbpJOQy58eC78qx7s) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri), [Vikkstar](https://open.spotify.com/artist/3wE6Lb4RCyPMoXsnXV0ZPC) | [Better Off \(Alone, Pt\. III\)](https://open.spotify.com/album/1eQk5l0bTQPg2w8knqu6NS) | 2:31 | 2023-09-29 | 2025-11-21 |
 | [Better Off Alone](https://open.spotify.com/track/3LoyPU4kSmEw1T9pwCT9BV) | [Grant](https://open.spotify.com/artist/2Hchwjfl1DioXcIwbOJkus) | [Better Off Alone](https://open.spotify.com/album/0Jayd4lB5OIbttveLGCxeU) | 4:09 | 2022-05-06 | 2022-07-29 |
 | [bing bong](https://open.spotify.com/track/0nwygFtUBQiDA9iFIrZGR9) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [VNLLA](https://open.spotify.com/artist/5IvjzD21lPQIO842GrDejr) | [bbno$](https://open.spotify.com/album/6NnOcPG7uLUSpJTS83Ra1T) | 2:10 | 2025-10-17 |  |
 | [BIRKINS](https://open.spotify.com/track/3zOKfrS1iF6ds9SscyvX6b) | [aisu](https://open.spotify.com/artist/6WCTGeTYQ71cApZr34u4er) | [BIRKINS](https://open.spotify.com/album/78qkfnC8ghIaBDkc8M5XlZ) | 2:40 | 2024-07-03 | 2025-05-15 |
@@ -528,6 +528,7 @@
 | [Running To The Edge](https://open.spotify.com/track/0jmeBmNDOJ0XMWxvmvxzrD) | [Arize](https://open.spotify.com/artist/6eq90a47vMudnFCHfKCHV9), [Veso](https://open.spotify.com/artist/1fb9DwFSiBuHksqdCrRUHO), [Doré](https://open.spotify.com/artist/6gnurcY2w2zI5PEv5aYq7k) | [Running To The Edge](https://open.spotify.com/album/4QofGddgttTAAgy2GHx9IQ) | 3:43 | 2022-05-06 | 2022-07-28 |
 | [S.O.S](https://open.spotify.com/track/46ZbeFHcvPbZT3z19WIKHZ) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Nicole Millar](https://open.spotify.com/artist/0lYzZ91QzokaPrRK1vq6tW) | [S.O.S](https://open.spotify.com/album/5sudLLMrf4J9ymgG8f07Ba) | 2:54 | 2023-01-23 | 2024-08-04 |
 | [Sacrifice \(with PARISI\)](https://open.spotify.com/track/5BYW81VirpjGniM4EixRp8) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT) | [Genesys II](https://open.spotify.com/album/4jkiarZE3b7c3a5D3L2LZy) | 3:46 | 2024-04-05 | 2024-06-25 |
+| [Sailing](https://open.spotify.com/track/4ciTIvukYZ7CAbD0PnLAxP) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Sailing](https://open.spotify.com/album/4PpcH2HeuKoffM2eGjiBZk) | 3:48 | 2025-11-13 |  |
 | [sans\. \- Tokyo Machine Remix](https://open.spotify.com/track/5aEAfolOxYJjqvNlbqIOqT) | [Toby Fox](https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau), [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [sans\. \(Tokyo Machine Remix\)](https://open.spotify.com/album/3n1Jnvr5XC6BENwC7cFdrl) | 2:40 | 2025-09-26 |  |
 | [Satellite](https://open.spotify.com/track/3tHCG0ISOA0pXscIdNrJml) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S), [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Satellite](https://open.spotify.com/album/07VhUtgyRdGGmMeo5lN5CW) | 3:25 | 2024-08-16 | 2025-01-26 |
 | [satisfaction.mp3](https://open.spotify.com/track/052JdnFnhSZYCqXcDwbfL0) | [Fyex](https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM), [DJ Xero](https://open.spotify.com/artist/4t09LarCpRs7X8mSIPa4s2) | [satisfaction.mp3](https://open.spotify.com/album/562Prf2sfb71fF0ixz8gh5) | 2:03 | 2024-04-19 | 2024-10-25 |

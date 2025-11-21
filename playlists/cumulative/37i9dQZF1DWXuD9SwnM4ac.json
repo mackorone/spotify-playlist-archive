@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "All the new indie tracks worth knowing about. Cover: Magdalena Bay",
+  "description": "All the new indie tracks worth knowing about. Cover: Esha Tewari",
   "name": "Indie Arrivals",
   "tracks": [
     {
@@ -2512,7 +2512,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 189761,
       "name": "Blu",
       "url": "https://open.spotify.com/track/7p4XQTjHv9uSXUxQnPmPSV"
@@ -2566,7 +2566,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 138129,
       "name": "Blue Eyes",
       "url": "https://open.spotify.com/track/3a5roaSfggDql7oHpBMKb9"
@@ -3300,6 +3300,24 @@
       "duration_ms": 221562,
       "name": "Can't Be Like This Forever",
       "url": "https://open.spotify.com/track/0I7b20a8AINmUdJiBkA0Bg"
+    },
+    {
+      "album": {
+        "name": "Can\u2019t See",
+        "url": "https://open.spotify.com/album/2VEr2TJU9aVYo177TLrpbI"
+      },
+      "artists": [
+        {
+          "name": "Westside Cowboy",
+          "url": "https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146127,
+      "name": "Can't See",
+      "url": "https://open.spotify.com/track/694JhCHMO54W2X99Zc3tVU"
     },
     {
       "album": {
@@ -5694,7 +5712,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 251880,
       "name": "Drenched",
       "url": "https://open.spotify.com/track/2H8JnA9YH0uM6siDbzPQbX"
@@ -7685,6 +7703,42 @@
     },
     {
       "album": {
+        "name": "GHOST WRITER",
+        "url": "https://open.spotify.com/album/06qBpBYZliYZ6qci1GPDJ2"
+      },
+      "artists": [
+        {
+          "name": "Max Quinn",
+          "url": "https://open.spotify.com/artist/7t1I0hby8fjS35AQkWPY5V"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196945,
+      "name": "GHOST WRITER",
+      "url": "https://open.spotify.com/track/2Wa5AcXYOtSxelzuR8huoi"
+    },
+    {
+      "album": {
+        "name": "Gimme",
+        "url": "https://open.spotify.com/album/3q2b9ID1Gl5QTpXQ1Blk5M"
+      },
+      "artists": [
+        {
+          "name": "Hazel English",
+          "url": "https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188178,
+      "name": "Gimme",
+      "url": "https://open.spotify.com/track/1c9mC9MZtsbqKTNQWQ8jdh"
+    },
+    {
+      "album": {
         "name": "Gimme Luv",
         "url": "https://open.spotify.com/album/5klOXLtHLrgf8v6CUGwDqr"
       },
@@ -8602,6 +8656,24 @@
       "duration_ms": 248639,
       "name": "Heat",
       "url": "https://open.spotify.com/track/6XeWf1EcepFru1mMnbRqd2"
+    },
+    {
+      "album": {
+        "name": "Everything You Gave Me",
+        "url": "https://open.spotify.com/album/2lyOXcBQzfQ7KyqgJP0Y2J"
+      },
+      "artists": [
+        {
+          "name": "Sunscreen",
+          "url": "https://open.spotify.com/artist/2NLF91sIHrRaNdoGQFmh2F"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187903,
+      "name": "Heating Up",
+      "url": "https://open.spotify.com/track/3q0Lsq7In9pv7Yds2JcH81"
     },
     {
       "album": {
@@ -9711,6 +9783,24 @@
     },
     {
       "album": {
+        "name": "I'm Always On Stage",
+        "url": "https://open.spotify.com/album/7cp6JGilOv7SbJxOSzc1UB"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243546,
+      "name": "I'm Always On Stage",
+      "url": "https://open.spotify.com/track/2GR3y9iXb5Lae2KLQJUy2J"
+    },
+    {
+      "album": {
         "name": "My Star (Deluxe)",
         "url": "https://open.spotify.com/album/3jXRErosrQELn4XWbP4Ucw"
       },
@@ -10173,6 +10263,24 @@
     },
     {
       "album": {
+        "name": "In Twos",
+        "url": "https://open.spotify.com/album/69T3NDWI9uysXn3tsMfPLW"
+      },
+      "artists": [
+        {
+          "name": "Esha Tewari",
+          "url": "https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166897,
+      "name": "In Twos",
+      "url": "https://open.spotify.com/track/4RlKJvvNZGrzZtupp8C2ap"
+    },
+    {
+      "album": {
         "name": "Incomprehensible",
         "url": "https://open.spotify.com/album/7IcMyoc3AX2VU0WG6vpMB7"
       },
@@ -10386,7 +10494,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 178730,
       "name": "It's You!",
       "url": "https://open.spotify.com/track/5LJgndlOyPLZkhmcOHjRYq"
@@ -11499,6 +11607,24 @@
     },
     {
       "album": {
+        "name": "Paradise Now & Forever",
+        "url": "https://open.spotify.com/album/2Ez0tq5fIpDfI2L3jZQdU0"
+      },
+      "artists": [
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215531,
+      "name": "Lipdance",
+      "url": "https://open.spotify.com/track/5b2nQ3pCgh8hfM6DH2rt8S"
+    },
+    {
+      "album": {
         "name": "My Memento",
         "url": "https://open.spotify.com/album/18NYW4gIADrSeUiHiIKLaO"
       },
@@ -11568,6 +11694,28 @@
       "duration_ms": 219155,
       "name": "LIVE RIGHT",
       "url": "https://open.spotify.com/track/6zt0h7qdpcVr2OOTRUJTqg"
+    },
+    {
+      "album": {
+        "name": "Live To Dance",
+        "url": "https://open.spotify.com/album/2YxHfqm5wUlGWVXBEziD1C"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Bree",
+          "url": "https://open.spotify.com/artist/2IlTe9Gm5w5qrt2kKdOvAh"
+        },
+        {
+          "name": "Princess Chelsea",
+          "url": "https://open.spotify.com/artist/6SrA4711bML5NvPO13Tr6t"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250803,
+      "name": "Live To Dance",
+      "url": "https://open.spotify.com/track/3tAqRXrSTyX1MYDK1V6QuL"
     },
     {
       "album": {
@@ -11980,6 +12128,24 @@
       "duration_ms": 233002,
       "name": "Love You Still",
       "url": "https://open.spotify.com/track/0TgIQaoJL7rxGSPjW1AKgq"
+    },
+    {
+      "album": {
+        "name": "lover girl!",
+        "url": "https://open.spotify.com/album/0iwmlrk48ZNx0vMuLukJ9c"
+      },
+      "artists": [
+        {
+          "name": "hanbee",
+          "url": "https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194875,
+      "name": "lover girl!",
+      "url": "https://open.spotify.com/track/0DhsGKUzigP9xrYCpVqm0N"
     },
     {
       "album": {
@@ -13486,7 +13652,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 210203,
       "name": "Never Love",
       "url": "https://open.spotify.com/track/1bxQtlnSdrDxV4vOc3IksQ"
@@ -14800,7 +14966,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 173493,
       "name": "Petals",
       "url": "https://open.spotify.com/track/03wsGqokGoNDJNEkkwoaQ3"
@@ -16958,7 +17124,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 206516,
       "name": "Someone You'd Like",
       "url": "https://open.spotify.com/track/7gMrYFz84YybH4DSR9V0F4"
@@ -17196,7 +17362,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 267520,
       "name": "SPIDERS",
       "url": "https://open.spotify.com/track/0ARuTkOpeNxlsSpLVlpaIJ"
@@ -17753,6 +17919,24 @@
     },
     {
       "album": {
+        "name": "Lilly's Gallery",
+        "url": "https://open.spotify.com/album/1g23H4H3XxXIISXzmUdLGs"
+      },
+      "artists": [
+        {
+          "name": "Coco Elise",
+          "url": "https://open.spotify.com/artist/5aiWig8aYprqc7PLn6AlIC"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Suddenly Your Mind's A Fortress",
+      "url": "https://open.spotify.com/track/66KXdox69IZMRlY17yrAEF"
+    },
+    {
+      "album": {
         "name": "Sugarcat",
         "url": "https://open.spotify.com/album/1Z8ssIYHiBTNsCTwUCpOHP"
       },
@@ -18136,7 +18320,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 225000,
       "name": "Take A Drive",
       "url": "https://open.spotify.com/track/6786wQ6hLGYDqIcl0x2Nmk"
@@ -18652,6 +18836,24 @@
       "duration_ms": 328052,
       "name": "The Catastrophe (Good Luck With That, Man)",
       "url": "https://open.spotify.com/track/0yXlQbT5xqQDP2wij6XQpy"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Mariae Cassandra",
+          "url": "https://open.spotify.com/artist/1IYXeH99vFlUjAXWUhFXhJ"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217959,
+      "name": "The City",
+      "url": "https://open.spotify.com/track/4bPToiSnmjEg3aoXc5zr0e"
     },
     {
       "album": {
@@ -20018,7 +20220,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 224910,
       "name": "Ultraviolet",
       "url": "https://open.spotify.com/track/3SaHegl95t75lPpfA9vLUX"
@@ -20228,7 +20430,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 220534,
       "name": "viscus (feat. FKA twigs)",
       "url": "https://open.spotify.com/track/3KjVtWWVEP1gmxosGb9u20"
@@ -20264,7 +20466,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 262335,
       "name": "Vivid Light",
       "url": "https://open.spotify.com/track/5AvrkGFKSu7Hj66y7BPiBE"

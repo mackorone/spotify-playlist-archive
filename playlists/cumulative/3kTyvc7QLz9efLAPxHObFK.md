@@ -4,7 +4,7 @@
 
 > 
 
-2,674 songs - 5 day 19 hr 23 min
+2,675 songs - 5 day 19 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [BASS CANNON](https://open.spotify.com/track/7fB5h3FffLhYp3HrH9JkWp) | [Slaughterhouse](https://open.spotify.com/artist/5xIrxXqP6GhNa8AX6wYSV9), [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [BASS CANNON](https://open.spotify.com/album/4IJqXcnHeWcENkMBKwcvBD) | 2:09 | 2025-08-02 |  |
 | [Bass Cannon](https://open.spotify.com/track/7N1O0kit5e2NDgm8kSHCSs) | [UNSYN](https://open.spotify.com/artist/5jptqH3gT47JWOY3NFTXfw) | [Bass Cannon](https://open.spotify.com/album/5IEAzYoH4lFU4WTKe4XH0I) | 2:27 | 2025-04-04 |  |
 | [Bass cannon](https://open.spotify.com/track/4fsP1AG3jDms48EqK85mG6) | [YUKIYANAGI](https://open.spotify.com/artist/5CxWZpW3bKbMiOC6jJ5r7i) | [Astral Orbit](https://open.spotify.com/album/1JU2LDC06jwWcqgUTda1lp) | 3:36 | 2022-04-05 |  |
+| [Bass Collide](https://open.spotify.com/track/375mDH6TN2SFM80aAeAM3N) | [M\-Project](https://open.spotify.com/artist/5XQLMFJlYMppzVqRUpFP5x) | [Bass Collide](https://open.spotify.com/album/7tP4fF24rvajjtJM6h0I9a) | 3:12 | 2025-11-20 |  |
 | [Bass Down Low](https://open.spotify.com/track/4cfdqtIu3JMIvkBRanf9oh) | [Required](https://open.spotify.com/artist/1g05P4Ua1FzC0cQxSlgmyu), [Synapze](https://open.spotify.com/artist/1jW6LuIyqoqeVThJeuG8QK) | [Bass Down Low](https://open.spotify.com/album/1hoTrVzG2I3DCwjv81qrJx) | 2:09 | 2023-12-30 |  |
 | [Bass Drop](https://open.spotify.com/track/64HXLr9Hs2R9puLICPza5w) | [Galactixx](https://open.spotify.com/artist/450u38hSRh0Q2UyghEbjpS), [Villain](https://open.spotify.com/artist/7iajTuviby3038TmfrpvZ3) | [Bass Drop](https://open.spotify.com/album/2Fs1bIKbO91EemirA1y9lk) | 2:48 | 2024-08-29 |  |
 | [Bass Drop](https://open.spotify.com/track/74tplo9G0LjxG0kUCmMQTP) | [High Resistance](https://open.spotify.com/artist/2oqQBJb0AXOKJHOzOlEuWO) | [Bass Drop](https://open.spotify.com/album/1Ldla8vrhf4ONS13RSyjI9) | 3:11 | 2025-02-01 |  |

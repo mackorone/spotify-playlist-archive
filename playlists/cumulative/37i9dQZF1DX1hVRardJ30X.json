@@ -203755,6 +203755,32 @@
     },
     {
       "album": {
+        "name": "Toronto",
+        "url": "https://open.spotify.com/album/5JUO2EXajZrdNfB9MrJu9W"
+      },
+      "artists": [
+        {
+          "name": "Nand\u00e9",
+          "url": "https://open.spotify.com/artist/6Un4KvR9qpqYK1cS7jdiz2"
+        },
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Guaco",
+          "url": "https://open.spotify.com/artist/5v3TYN6Mmi5vxV2uSOfXot"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198888,
+      "name": "Toronto",
+      "url": "https://open.spotify.com/track/0nvg8vlz0qO47rkgOdVMwc"
+    },
+    {
+      "album": {
         "name": "Torre Infiel",
         "url": "https://open.spotify.com/album/6lUn3cb3PApIx1LX0PeLnO"
       },

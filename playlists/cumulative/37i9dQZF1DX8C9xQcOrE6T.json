@@ -58,7 +58,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-11",
+      "date_removed": null,
       "duration_ms": 274480,
       "name": "A Dream Is a Wish Your Heart Makes",
       "url": "https://open.spotify.com/track/6PiTsEEiNYU9a9xXowi9i5"
@@ -76,7 +76,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 120546,
       "name": "A Dream Is a Wish Your Heart Makes",
       "url": "https://open.spotify.com/track/3s6nfqfT6kyLBT10vs0M4l"
@@ -188,7 +188,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 124200,
       "name": "A Star Is Born",
       "url": "https://open.spotify.com/track/64Eug7tFE4KWJNQUE73BGe"
@@ -325,6 +325,24 @@
     },
     {
       "album": {
+        "name": "The Princess and the Frog (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0CcL28OkH89kjgKpNZC8sW"
+      },
+      "artists": [
+        {
+          "name": "Anika Noni Rose",
+          "url": "https://open.spotify.com/artist/4fqk0Vw0VrIY8O2eWtmQO2"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144426,
+      "name": "Almost There",
+      "url": "https://open.spotify.com/track/2GLyruWagsv8o7aGNXboH1"
+    },
+    {
+      "album": {
         "name": "The Princess and the Frog",
         "url": "https://open.spotify.com/album/6zgvBxOmfWxrQi4Jxxki0P"
       },
@@ -354,7 +372,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 144826,
       "name": "Almost There - From \"The Princess and the Frog\" / Soundtrack Version",
       "url": "https://open.spotify.com/track/3aJgAgTI9srxcTuyzVDtkm"
@@ -402,40 +420,10 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 198920,
       "name": "At All Costs",
       "url": "https://open.spotify.com/track/1233MOKLpbc9qjNN31vpl4"
-    },
-    {
-      "album": {
-        "name": "Beauty And The Beast (Special Edition)",
-        "url": "https://open.spotify.com/album/5CXS5K2wldOxL8bweRXBrq"
-      },
-      "artists": [
-        {
-          "name": "Angela Lansbury",
-          "url": "https://open.spotify.com/artist/0LtVJXnPR8msCJiE2DjHxy"
-        },
-        {
-          "name": "Jerry Orbach",
-          "url": "https://open.spotify.com/artist/5i2OpmeVKsmViqoETxuOvO"
-        },
-        {
-          "name": "Chorus - Beauty And the Beast",
-          "url": "https://open.spotify.com/artist/3kWWBtNzJFtKA222gZz39d"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "date_added": "2022-07-22",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 224920,
-      "name": "Be Our Guest",
-      "url": "https://open.spotify.com/track/2F8LPJgSVTJxukoParTyBD"
     },
     {
       "album": {
@@ -462,10 +450,40 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-12",
+      "date_removed": null,
       "duration_ms": 224733,
-      "name": "Be Our Guest - From \"Beauty And The Beast\" Soundtrack",
+      "name": "Be Our Guest",
       "url": "https://open.spotify.com/track/6btdYzQ8eZFBrOlUKVHuz0"
+    },
+    {
+      "album": {
+        "name": "Beauty And The Beast (Special Edition)",
+        "url": "https://open.spotify.com/album/5CXS5K2wldOxL8bweRXBrq"
+      },
+      "artists": [
+        {
+          "name": "Angela Lansbury",
+          "url": "https://open.spotify.com/artist/0LtVJXnPR8msCJiE2DjHxy"
+        },
+        {
+          "name": "Jerry Orbach",
+          "url": "https://open.spotify.com/artist/5i2OpmeVKsmViqoETxuOvO"
+        },
+        {
+          "name": "Chorus - Beauty And the Beast",
+          "url": "https://open.spotify.com/artist/3kWWBtNzJFtKA222gZz39d"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": "2025-11-21",
+      "duration_ms": 224920,
+      "name": "Be Our Guest",
+      "url": "https://open.spotify.com/track/2F8LPJgSVTJxukoParTyBD"
     },
     {
       "album": {
@@ -510,10 +528,32 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 165186,
       "name": "Beauty and the Beast",
       "url": "https://open.spotify.com/track/4dhPM05Kr49JbsvPwGROnJ"
+    },
+    {
+      "album": {
+        "name": "Beauty and the Beast",
+        "url": "https://open.spotify.com/album/3O5p9VNddbwvqWTdYKEqV5"
+      },
+      "artists": [
+        {
+          "name": "Angela Lansbury",
+          "url": "https://open.spotify.com/artist/0LtVJXnPR8msCJiE2DjHxy"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166306,
+      "name": "Beauty and the Beast",
+      "url": "https://open.spotify.com/track/2rJFFUEl1LURkV0b0OARXx"
     },
     {
       "album": {
@@ -756,7 +796,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 241973,
       "name": "Can You Feel the Love Tonight - End Title/ From \"The Lion King\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/6TL9gJE5JibG8QR6n26eCS"
@@ -782,6 +822,40 @@
       "duration_ms": 173350,
       "name": "Can You Feel the Love Tonight - From \"A Whole New Sound\"",
       "url": "https://open.spotify.com/track/372ltCYz1uLID85yHqe7S9"
+    },
+    {
+      "album": {
+        "name": "The Lion King: Special Edition",
+        "url": "https://open.spotify.com/album/6BqcXoEgLpiGHQit2hXBIl"
+      },
+      "artists": [
+        {
+          "name": "Joseph Williams",
+          "url": "https://open.spotify.com/artist/5xk0kRuXn1zToTHpHAqpui"
+        },
+        {
+          "name": "Sally Dworsky",
+          "url": "https://open.spotify.com/artist/7vK6xoR5zT4DypEu0blUku"
+        },
+        {
+          "name": "Nathan Lane",
+          "url": "https://open.spotify.com/artist/0P0do9GwiSgweSF6Ui3mrv"
+        },
+        {
+          "name": "Ernie Sabella",
+          "url": "https://open.spotify.com/artist/0RH6EMxqfzCEB7QCSKQ4xr"
+        },
+        {
+          "name": "Kristle Edwards",
+          "url": "https://open.spotify.com/artist/4y5d67UxD0QON2vRZOjXZ6"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177866,
+      "name": "Can You Feel the Love Tonight - From \"The Lion King\" / Soundtrack Version",
+      "url": "https://open.spotify.com/track/6OmanmVngBzWr5pLW8eNuZ"
     },
     {
       "album": {
@@ -912,7 +986,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 166240,
       "name": "Chim Chim Cher-ee - From \"Mary Poppins\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/2Bl4ZuWiMoffCXzj11s0oR"
@@ -1266,7 +1340,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 214613,
       "name": "Dos Oruguitas",
       "url": "https://open.spotify.com/track/5rohUzwEoRsUvAA1Bf3DLo"
@@ -1530,7 +1604,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 129613,
       "name": "Happy Working Song - From \"Enchanted\" / Soundtrack Version",
       "url": "https://open.spotify.com/track/7G061Oqw7NXFr1NDTpXoI4"
@@ -2076,7 +2150,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 174786,
       "name": "I'm A Star",
       "url": "https://open.spotify.com/track/0F1TCjZ7rnMnK4Y4O5byP7"
@@ -2294,7 +2368,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 195026,
       "name": "Immortals",
       "url": "https://open.spotify.com/track/3c1ItvzDDDpmDgLH9SIUp4"
@@ -2330,7 +2404,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 110986,
       "name": "In Summer - From \"Frozen\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/7bG6SQBGZthPDG5QJL5Gf7"
@@ -2424,7 +2498,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 170186,
       "name": "It's All Right",
       "url": "https://open.spotify.com/track/4gzwK4RdSK9M43vPY68J2Y"
@@ -2546,7 +2620,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 160880,
       "name": "Kiss the Girl - Remastered 2014",
       "url": "https://open.spotify.com/track/75VAFZAhvPSw1euEHg1fQU"
@@ -2954,7 +3028,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 190440,
       "name": "Mother Knows Best - From \"Tangled\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/1lOSxJNCLvWm2bYaTcTSmK"
@@ -3068,7 +3142,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 142440,
       "name": "One Jump Ahead",
       "url": "https://open.spotify.com/track/4wN8Ov3kPZdkJ8XcYxYUGz"
@@ -3288,10 +3362,28 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-11",
+      "date_removed": null,
       "duration_ms": 291693,
       "name": "Poor Unfortunate Souls",
       "url": "https://open.spotify.com/track/7zsw78LtXUD7JfEwH64HK2"
+    },
+    {
+      "album": {
+        "name": "Coco (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5"
+      },
+      "artists": [
+        {
+          "name": "Anthony Gonzalez",
+          "url": "https://open.spotify.com/artist/2q10Wskc3lPYmEuV7rzMCv"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123703,
+      "name": "Proud Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/4J7SCXbz18duODAQYjtzI2"
     },
     {
       "album": {
@@ -3361,6 +3453,28 @@
     },
     {
       "album": {
+        "name": "Mulan (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3Ohs7Jo6GM6mydUOL0m5aC"
+      },
+      "artists": [
+        {
+          "name": "Lea Salonga",
+          "url": "https://open.spotify.com/artist/1GlMjIezcLwV3OFlX0uXOv"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146760,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/2AILbz83cBnrAMAG06rZts"
+    },
+    {
+      "album": {
         "name": "Mulan (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1hOU3shHZwl08nsq1LDAJP"
       },
@@ -3394,7 +3508,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 146840,
       "name": "Reflection - From \"Mulan\" / Soundtrack Version",
       "url": "https://open.spotify.com/track/4ASPjY65S7crmZBHML0L8d"
@@ -3560,7 +3674,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 162066,
       "name": "Rotten to the Core",
       "url": "https://open.spotify.com/track/2bNxCVI4Fub8BAwr0CQDyd"
@@ -3700,7 +3814,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 163280,
       "name": "Something That I Want",
       "url": "https://open.spotify.com/track/3eR3lWuvQqOzhTn91nbRCa"
@@ -3734,7 +3848,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 138413,
       "name": "Something There - Remastered 2018",
       "url": "https://open.spotify.com/track/54nheCglJ7KKy12Fr3QlKK"
@@ -3835,6 +3949,24 @@
     },
     {
       "album": {
+        "name": "Tarzan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1zszC1x9HYKxUCKVa62p7C"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180520,
+      "name": "Strangers Like Me",
+      "url": "https://open.spotify.com/track/3T74kgnbHw8JqkYGJKD4Tl"
+    },
+    {
+      "album": {
         "name": "Tarzan Original Soundtrack",
         "url": "https://open.spotify.com/album/6fBzYwBKjuO4hmhcGuklJM"
       },
@@ -3864,7 +3996,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 179586,
       "name": "Strangers Like Me - From \"Tarzan\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/5Zb6JxSEcjsUNrINcAyAYJ"
@@ -3890,10 +4022,36 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 122026,
       "name": "Supercalifragilisticexpialidocious - From \"Mary Poppins\" Soundtrack",
       "url": "https://open.spotify.com/track/5cvzqk8wsmLA9P7LrZCRb2"
+    },
+    {
+      "album": {
+        "name": "Mary Poppins",
+        "url": "https://open.spotify.com/album/4I53uIfFAiQPKjXFNN2k4d"
+      },
+      "artists": [
+        {
+          "name": "Julie Andrews",
+          "url": "https://open.spotify.com/artist/5RdqZVi36tpDPYNPw8jJbO"
+        },
+        {
+          "name": "Dick Van Dyke",
+          "url": "https://open.spotify.com/artist/6XIT5sGHOtxVgqtSnMCYZ6"
+        },
+        {
+          "name": "The Pearlie Chorus",
+          "url": "https://open.spotify.com/artist/0sT01j0t90pOjUgS61doJw"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123026,
+      "name": "Supercalifragilisticexpialidocious - From \"Mary Poppins\" Soundtrack",
+      "url": "https://open.spotify.com/track/05miM6U3bpqzG5BRr0C8FF"
     },
     {
       "album": {
@@ -3978,7 +4136,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 186386,
       "name": "Take Me Away - From \"Freakier Friday\"",
       "url": "https://open.spotify.com/track/5PfDGxZXOnJLJvghTAtQJP"
@@ -4290,7 +4448,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 145640,
       "name": "The Gospel Truth I / Main Titles - Hercules",
       "url": "https://open.spotify.com/track/6uW03WHG3qv2FzxPIW6SUP"
@@ -4534,7 +4692,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 50765,
       "name": "The World Es Mi Familia",
       "url": "https://open.spotify.com/track/7FOS31xq9jv4cXWtp6Jnzw"
@@ -4776,7 +4934,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 135466,
       "name": "Trashin' The Camp",
       "url": "https://open.spotify.com/track/4qn3XK6IW2cKjWjSk37t6p"
@@ -4964,7 +5122,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 161840,
       "name": "Waiting On A Miracle",
       "url": "https://open.spotify.com/track/3oRW9ZGPRbLRMneQ5lwflt"
@@ -5438,7 +5596,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 111452,
       "name": "When I Am Older",
       "url": "https://open.spotify.com/track/1Tt7zr1yDbKbT8L4jzSZ74"
@@ -5800,7 +5958,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 224186,
       "name": "You'll Always Find Your Way Back Home",
       "url": "https://open.spotify.com/track/12wSL3tGk3MtbDEhfG7xy3"

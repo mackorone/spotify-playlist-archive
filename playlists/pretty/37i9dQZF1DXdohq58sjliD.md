@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdohq58sjliD.md) - [plain]
 
 > Twenty years\. Two people\. Listen to the music from and inspired by One Day, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,745 likes - 82 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,746 likes - 82 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdohq58sjliD.md) - [plain]
 | 69 | [Magic in the Air](https://open.spotify.com/track/3CAuBe4iBim8OVLVGqBq14) | [Badly Drawn Boy](https://open.spotify.com/artist/244fcyNSuyhbRlMGfMbYrO) | [The Hour of Bewilderbeast](https://open.spotify.com/album/7y0QwysyQgSf9fyBFr6Q3x) | 3:43 |
 | 70 | [Weather With You](https://open.spotify.com/track/6tXnRSvuNgOq4QcxpIN54r) | [Crowded House](https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB) | [Woodface](https://open.spotify.com/album/1QSoW668F9DVj8Rk9azF7h) | 3:44 |
 | 71 | [Asleep In The Back](https://open.spotify.com/track/2fXyhBKWxMX9cB4E9CGtRp) | [Elbow](https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk) | [Asleep In The Back](https://open.spotify.com/album/3T49xNB5QF2hZOCCGQ3Mra) | 3:47 |
-| 72 | [Satellite of Love](https://open.spotify.com/track/5WyuRWUcOOhAic0tj9Pl28) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Transformer](https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St) | 3:41 |
+| 72 | [Satellite of Love](https://open.spotify.com/track/5WyuRWUcOOhAic0tj9Pl28) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Transformer](https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St) | 3:42 |
 | 73 | [Show](https://open.spotify.com/track/0GEMAW2jerbxDFl5R8h12M) | [Beth Gibbons](https://open.spotify.com/artist/6Lt6KFXX3P0v6vfrynQAMo), [Rustin Man](https://open.spotify.com/artist/62NNHMoDbLSbR3THDaFNO7) | [Out Of Season](https://open.spotify.com/album/6nTOCPzj8JiohYlZxW5Zl1) | 4:26 |
 | 74 | [Where Were You?](https://open.spotify.com/track/7cNnigDIpWAwCnPXxUWLlu) | [Mekons](https://open.spotify.com/artist/1Ag6UM6dow2OH9V06mxzV5) | [Where Were You? Independent Music From Leeds 1978\-1989](https://open.spotify.com/album/7sKWaUXp1NtTZPwU2gCJzc) | 2:44 |
 | 75 | [Where Is My Love](https://open.spotify.com/track/6pCT7vFs7rtNdbloPnRPyK) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [The Greatest](https://open.spotify.com/album/1l1gFL41bdfI32LBdYlUqS) | 2:53 |

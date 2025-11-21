@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXal36n8FZoQm.md) - [plain]
 
 > It's time to return to the dojo\. Listen to all the music from Cobra Kai, new season coming soon to Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,032 likes - 66 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,061 likes - 66 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXal36n8FZoQm.md) - [plain]
 | 41 | [Iron Dragons \(feat\. Charlie Robbins\)](https://open.spotify.com/track/4rbTrjNkce5KAI75h1HQ10) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp), [Charlie Robbins](https://open.spotify.com/artist/5OtkPEce6CPUiMFKEgCbxl) | [Cobra Kai: Season 6, Part 2 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/4WbFmwPAKDm0G9agWe6EdQ) | 2:07 |
 | 42 | [You've Got Another Thing Coming](https://open.spotify.com/track/55cd3NlqktNjhAZcPvaUvk) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Screaming For Vengeance](https://open.spotify.com/album/0V7mTTzioHiYIjfM8ATZBI) | 5:10 |
 | 43 | [Love Is A Deserter](https://open.spotify.com/track/5tT1aeBgz7kbAugGXNQZ7n) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [No Wow](https://open.spotify.com/album/1wPUWq21gP0rYhaSBqBaEp) | 3:48 |
-| 44 | [Dirty Deeds Done Dirt Cheap](https://open.spotify.com/track/2d4e45fmUnguxh6yqC7gNT) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Dirty Deeds Done Dirt Cheap](https://open.spotify.com/album/76mvVgXOde87B9aOzLXCOI) | 3:51 |
+| 44 | [Dirty Deeds Done Dirt Cheap](https://open.spotify.com/track/2d4e45fmUnguxh6yqC7gNT) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Dirty Deeds Done Dirt Cheap](https://open.spotify.com/album/76mvVgXOde87B9aOzLXCOI) | 3:52 |
 | 45 | [Not Here to Fight](https://open.spotify.com/track/5svpREkVOHwf8fPcwVlePs) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 4, Vol\. 2 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/0g3Il2Pkxk4M941pOoGTQn) | 0:56 |
 | 46 | [Queen Cobra](https://open.spotify.com/track/6M4gicYnR0VwEOYZvyr4aa) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 4, Vol\. 1 "All Valley Tournament 51" \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/2ORE6f4jS4dLKvk9VA6oDl) | 2:17 |
 | 47 | [Burning Heart \- From "Rocky IV" Soundtrack](https://open.spotify.com/track/2VN7uPrbryJ7nE2MXX3f9a) | [Survivor](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) | [Survivor Greatest Hits](https://open.spotify.com/album/2wBiw6c2bGb4c9pnRdHw6X) | 3:50 |
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXal36n8FZoQm.md) - [plain]
 | 55 | [Sailing](https://open.spotify.com/track/6Hu6dzwlvoyg3zBUC8k4BK) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Christopher Cross](https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah) | 4:16 |
 | 56 | [In Your Eyes \(feat\. Kenny G\) \- Remix](https://open.spotify.com/track/1SySkCqhEG6Z68o2n07Bsr) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [In Your Eyes \(Remix\)](https://open.spotify.com/album/2MouaLzzY4HnsUYJYSgu2o) | 4:16 |
 | 57 | [Two Heads Are Better Than One](https://open.spotify.com/track/0qdvGRp9CezqI9vFrlhKRW) | [Power Tool](https://open.spotify.com/artist/14s8MMNRv0l1KtpdH0JzAt) | [Bill & Ted’s Excellent Adventure](https://open.spotify.com/album/7xNbBuDMwq9bLjvzCTZbWO) | 4:25 |
-| 58 | [Back In Black](https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 4:15 |
+| 58 | [Back In Black](https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 4:16 |
 | 59 | [Shirts Off](https://open.spotify.com/track/1sjrA6EXjzZApgTRUZgndu) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 4, Vol\. 1 "All Valley Tournament 51" \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/2ORE6f4jS4dLKvk9VA6oDl) | 1:59 |
 | 60 | [Girls, Girls, Girls](https://open.spotify.com/track/5xLyTbCFONUGUuG0LtUxjn) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Girls, Girls, Girls](https://open.spotify.com/album/0Tnve4bDxyiBCRaj03qO8z) | 4:30 |
 | 61 | [Última Sangre](https://open.spotify.com/track/4STWCo8SNpBYVJAxHf0lru) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 6, Part 2 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/4WbFmwPAKDm0G9agWe6EdQ) | 6:34 |

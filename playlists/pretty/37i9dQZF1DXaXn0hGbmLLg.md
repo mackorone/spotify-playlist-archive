@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 
 > Listen to women at full volume! November ambassador: <a href="spotify:artist:6ihYEkLlAWkafYVAvEkMd0">Danique</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,492 likes - 105 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,490 likes - 105 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 | 3 | [I'm So Pretty](https://open.spotify.com/track/5DnNt5sIgBNQpvk0gun1JL) | [mermaidonmars](https://open.spotify.com/artist/3E3Bhr9cOUCWhjJhNZeTAX) | [I'm So Pretty](https://open.spotify.com/album/2PybMedC0ginMdfPl1EhMs) | 2:27 |
 | 4 | [Saving All My Love](https://open.spotify.com/track/2aeBRy4Rb55mZEngtFeEIz) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI) | [Saving All My Love](https://open.spotify.com/album/7qPS8oM3jIPWvY1ea7BEL0) | 2:18 |
 | 5 | [Achterop](https://open.spotify.com/track/2QclPqGmAzEPeIluzYqRd4) | [Amélie Esmée](https://open.spotify.com/artist/4F6j4Zt7hozI7BtYPCUMgI) | [Achterop](https://open.spotify.com/album/1KtxQu6qakX48xbNsXfRQH) | 3:57 |
-| 6 | [I Got Your Back II](https://open.spotify.com/track/48PVSDZwDOyvexxZIqXfKK) | [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY), [K1D](https://open.spotify.com/artist/6vkNDrbuaVIuKwAylGos5o) | [I Got Your Back II](https://open.spotify.com/album/5dcGaD5XslCu9XCxqGeSQS) | 3:04 |
+| 6 | [I Got Your Back II](https://open.spotify.com/track/48PVSDZwDOyvexxZIqXfKK) | [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY), [K1D](https://open.spotify.com/artist/6vkNDrbuaVIuKwAylGos5o) | [I Got Your Back II](https://open.spotify.com/album/5dcGaD5XslCu9XCxqGeSQS) | 3:03 |
 | 7 | [i believe](https://open.spotify.com/track/32TjNUWcY06j1QtLLCZXYR) | [Noha Saré](https://open.spotify.com/artist/2r3TXsrjx7eICwgL0Bk2l7), [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [i believe](https://open.spotify.com/album/2K0DUYJpUvufJ9ixM67PVE) | 2:51 |
 | 8 | [Sold Myself For Love](https://open.spotify.com/track/1NFTCC13S7o7n2Yy6ctEdZ) | [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Sold Myself For Love](https://open.spotify.com/album/06O9egxd0mX7XEtuqmuX0D) | 3:26 |
 | 9 | [Blauwe Vlinder](https://open.spotify.com/track/7eRBj566M7ypmzaHurJCfG) | [Puck](https://open.spotify.com/artist/25Z7oVgSb38ts7pl4c8O4V) | [Blauwe Vlinder](https://open.spotify.com/album/13EG9VKbRB7m3AuI7jPHUg) | 3:28 |

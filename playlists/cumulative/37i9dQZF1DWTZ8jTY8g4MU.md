@@ -4,7 +4,7 @@
 
 > شيلات تشيل الليلة\. الغلاف: بدر العزي
 
-277 songs - 18 hr 23 min
+278 songs - 18 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [أحتريك](https://open.spotify.com/track/5FjKhYscQDj7YFFM4uvppR) | [Abdullah Al Mukhles](https://open.spotify.com/artist/6SdRVw4NGUDFrTbWHXaUbH) | [أحتريك](https://open.spotify.com/album/1JxCQVjV6gFjKa29pTX4uR) | 3:57 | 2022-08-31 | 2023-02-23 |
 | [أدعج عيون](https://open.spotify.com/track/2gfpyKUlTSUwmtiWj0vDW4) | [Majed Alrslani](https://open.spotify.com/artist/4TLEIkw2ZiwL796C8zJtST) | [أدعج عيون](https://open.spotify.com/album/4uEyRHNa7Zbms17CZYWulO) | 3:34 | 2022-03-30 | 2022-11-02 |
 | [أدعج عيون](https://open.spotify.com/track/3L0rLqS7wCn0qi7D5kgEQ0) | [ماجد الرسلاني](https://open.spotify.com/artist/1TrcFvtMbJqhog5XVABHlm) | [أدعج عيون](https://open.spotify.com/album/5cOcNb7qAXUcskBBe2tk6i) | 3:34 | 2022-08-31 | 2024-02-02 |
+| [أعظم سلطنة](https://open.spotify.com/track/2fr4MjfTyxU9bWJFIPBJ6e) | [المفارق](https://open.spotify.com/artist/2sZ4s4VpANjMIQlmrKH1X6), [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [أعظم سلطنة](https://open.spotify.com/album/0I2F9Yr7iDoNTHmSnW7nM7) | 4:42 | 2025-11-20 |  |
 | [أقفيت عني](https://open.spotify.com/track/3NqFypg1KvwHt1yh2jjquf) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [أقفيت عني](https://open.spotify.com/album/23sa1SHSAO6y29snCLu9El) | 3:20 | 2022-08-31 | 2023-02-23 |
 | [أقفيت عني](https://open.spotify.com/track/3P8qR9m8eKjCQlGlwXLhpw) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [أقفيت عني](https://open.spotify.com/album/5YUPTs3mlHy1mFDNqudmex) | 3:20 | 2022-03-30 | 2022-11-02 |
 | [أكبر توهيقه](https://open.spotify.com/track/0pAkD4nxOCAD0RYurYMVlc) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [أكبر توهيقه](https://open.spotify.com/album/11uEePUdxgosMvb7inUpiQ) | 3:35 | 2024-12-19 | 2025-10-03 |
@@ -86,7 +87,7 @@
 | [النوم طيرته عتيبه](https://open.spotify.com/track/3xufOBSM1hZMsPro29IUAI) | [مهنا العتيبي](https://open.spotify.com/artist/4RZtWzM5Vl8Azd2p4jSTEt) | [النوم طيرته عتيبه](https://open.spotify.com/album/1fBabOhLoifhAgHgzQUeqn) | 6:46 | 2024-06-26 |  |
 | [الوصل مقطوع](https://open.spotify.com/track/2fPCXvO40Yl12NPsE6xsVC) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [الوصل مقطوع](https://open.spotify.com/album/1ymFv5EHkfSK52jso4HnxB) | 4:39 | 2022-08-31 | 2023-02-23 |
 | [الوصل مقطوع](https://open.spotify.com/track/3uw7nWTOV3QvBH176qsGWI) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [الوصل مقطوع](https://open.spotify.com/album/0ZV54R8Vib8NUqVMfchB2j) | 4:39 | 2022-03-30 | 2022-11-03 |
-| [الوفاء ماتغير \- سالم المسعودي جلسة حصرية](https://open.spotify.com/track/5Crm6RSC6yDBtw9Nh6nBAL) | [King of Yemeni art](https://open.spotify.com/artist/4gNcnuUGj2JZ2k1uBunuex) | [الوفاء ماتغير \- سالم المسعودي جلسة حصرية](https://open.spotify.com/album/2jTRLzhssOQOVm4pCKvVSR) | 7:20 | 2025-10-02 |  |
+| [الوفاء ماتغير \- سالم المسعودي جلسة حصرية](https://open.spotify.com/track/5Crm6RSC6yDBtw9Nh6nBAL) | [King of Yemeni art](https://open.spotify.com/artist/4gNcnuUGj2JZ2k1uBunuex) | [الوفاء ماتغير \- سالم المسعودي جلسة حصرية](https://open.spotify.com/album/2jTRLzhssOQOVm4pCKvVSR) | 7:20 | 2025-10-02 | 2025-11-21 |
 | [امر تدلل](https://open.spotify.com/track/6PaTGersLXEns3SZCWw4fU) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [امر تدلل](https://open.spotify.com/album/2SkzGMdkdB7xT7vwDXOc4N) | 3:44 | 2023-07-11 | 2024-09-21 |
 | [انا المخطي](https://open.spotify.com/track/2swUzeYPuT4sM5fOF3fWhF) | [بندر بن عوير](https://open.spotify.com/artist/3AEPOScEpyXGfeHa3scvkm) | [انا المخطي](https://open.spotify.com/album/3BSglbJHaNmKZLmkAJRU11) | 3:32 | 2022-03-30 | 2022-11-02 |
 | [انا المخطي](https://open.spotify.com/track/3JzpfzTYzuu8ht2l62fhr1) | [بندر بن عوير](https://open.spotify.com/artist/3AEPOScEpyXGfeHa3scvkm) | [انا المخطي](https://open.spotify.com/album/0iy88of5hWokaz8lg6UfBW) | 3:32 | 2022-08-31 | 2023-04-23 |

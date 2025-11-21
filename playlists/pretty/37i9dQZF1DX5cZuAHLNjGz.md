@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 
 > Ultimate 101 Punjabi Hits with Prem Dhillon
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,411,443 likes - 101 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,411,532 likes - 101 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 | 40 | [STFU](https://open.spotify.com/track/1JioaCninhpfY1filFEIZi) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh) | [OKAY STFU](https://open.spotify.com/album/3ga4cpxM6htVEMHBnzxqpF) | 2:54 |
 | 41 | [You & Me](https://open.spotify.com/track/5DKaO8NUYB0nIThR0dw7xy) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U), [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF) | [AURA](https://open.spotify.com/album/1qP2ICZGtjDGBayZ7JuQcT) | 2:59 |
 | 42 | [MF Gabhru!](https://open.spotify.com/track/1jjmRJyc4A8bzH9PlLQdG3) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [MF Gabhru!](https://open.spotify.com/album/2BB6xtsyXLRuWiOaTD8Y1i) | 3:20 |
-| 43 | [PERFECT \(From "Sunny Sanskari Ki Tulsi Kumari"\)](https://open.spotify.com/track/4Cp29GrZ9Jxxoke0OeQGuz) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Gill Machhrai](https://open.spotify.com/artist/4r4r2gGaA74pul0n6FiRsE), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw), [Dilmaan](https://open.spotify.com/artist/5iRP5VM9JGkM6aMQbbfkBK) | [PERFECT \(From "Sunny Sanskari Ki Tulsi Kumari"\)](https://open.spotify.com/album/2uFqKj9qt6TkwKdNpFjQ4R) | 2:26 |
+| 43 | [PERFECT \(From "Sunny Sanskari Ki Tulsi Kumari"\)](https://open.spotify.com/track/4Cp29GrZ9Jxxoke0OeQGuz) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL) | [PERFECT \(From "Sunny Sanskari Ki Tulsi Kumari"\)](https://open.spotify.com/album/2uFqKj9qt6TkwKdNpFjQ4R) | 2:26 |
 | 44 | [10\-12](https://open.spotify.com/track/773XVnrWeNNq5s8UqasIrZ) | [Watan Sahi](https://open.spotify.com/artist/60AHsnenfij85IExxs2456), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm) | [10\-12](https://open.spotify.com/album/3BjJY2evGQ6BgTqPybPkiQ) | 2:31 |
 | 45 | [Fomo](https://open.spotify.com/track/4ci7QUQfEfE7EOJRsBv9P7) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [Fomo](https://open.spotify.com/album/1imllZPJqjVilNrvY5umvj) | 2:36 |
 | 46 | [Desi Hood](https://open.spotify.com/track/501r9pxOB0z1ksbhC4hNxs) | [Saabi Bhinder](https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr), [CHEETAH](https://open.spotify.com/artist/48jxktLmsxYggMW9XpdI15) | [Walk in Victory](https://open.spotify.com/album/0v9SQICVKLVgLkAS6n6yDS) | 2:26 |

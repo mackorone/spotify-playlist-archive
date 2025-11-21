@@ -2,7 +2,7 @@
 
 ### [Montréal Chill](https://open.spotify.com/playlist/37i9dQZF1DX1F430ihQKsD)
 
-> Montréal’s music scene, front and centre\. Cover: Marco Ema
+> Une sélection 100 % chill, 100 % Montréal\. Photo: Marco Ema
 
 705 songs - 1 day 15 hr 57 min
 

@@ -4,7 +4,7 @@
 
 > Global crossovers by/with Arab artists\. Cover: Fulana
 
-371 songs - 20 hr 17 min
+372 songs - 20 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -291,6 +291,7 @@
 | [Season One](https://open.spotify.com/track/5RExNfLho0l9WtHNXpAiof) | [Jana Diab](https://open.spotify.com/artist/04U5nHCnl5ykOPWVrfHHZq) | [Season One](https://open.spotify.com/album/09DOEdhTpnzRcSpqLM3AI2) | 2:05 | 2024-09-20 |  |
 | [Selfish](https://open.spotify.com/track/1hzlrszIYah7vFitAl5cji) | [NOVO](https://open.spotify.com/artist/430UrfL5PTV5Y5elsZtq6a) | [Love or Madness](https://open.spotify.com/album/49ICK38Ot22Q0F0Hw3njDD) | 3:05 | 2021-12-16 | 2022-11-20 |
 | [Seventeenth](https://open.spotify.com/track/4So2mnPsaD3clOoqAWUKKM) | [fulana](https://open.spotify.com/artist/2CSVXPqF7glLJsWNWpCwGe) | [Seventeenth](https://open.spotify.com/album/7rsjWsaJzIAfYDUGNOWZwg) | 3:51 | 2023-06-26 |  |
+| [Shargeeya!](https://open.spotify.com/track/2SRGSFyInuOAIdJmzGOlWp) | [Shargeeya](https://open.spotify.com/artist/3d3ra9wZ8mOWqIV04cNSVK) | [Shargeeya!](https://open.spotify.com/album/3ZwKkJtBjpTaexWlF5QPiV) | 2:11 | 2025-11-19 |  |
 | [Shattered](https://open.spotify.com/track/4bpryNIqnYK1yhr7D2PRM5) | [Wissam Hilal](https://open.spotify.com/artist/2yICXFfulgwVygZl6d19AZ), [2wice Shye](https://open.spotify.com/artist/4aTT2lVgwspZZn7JqDv5YR) | [Shattered](https://open.spotify.com/album/5J2Y1UNGQrrd8kB4ulRB1B) | 3:39 | 2021-12-16 | 2022-11-20 |
 | [She Likes a Boy](https://open.spotify.com/track/76frYoCK0lRG96SBXpJPp0) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [I Promise No One's Watching](https://open.spotify.com/album/5IVW9XdJ8w9MFB6VO66AXZ) | 2:09 | 2025-11-19 |  |
 | [Shine](https://open.spotify.com/track/4w1yEDtO2J4otvGALYZNEt) | [Ramzi](https://open.spotify.com/artist/7sOe0BpnYTaGhBB6V6DAmo) | [Shine](https://open.spotify.com/album/2HAgCkfUZq2duvnfabIeYY) | 3:47 | 2021-12-16 | 2022-06-07 |

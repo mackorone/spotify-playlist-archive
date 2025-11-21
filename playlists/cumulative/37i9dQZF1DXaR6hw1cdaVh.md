@@ -4,7 +4,7 @@
 
 > I brani eseguiti durante la serata dei duetti e le interpretazioni uscite su Spotify 🎤
 
-36 songs - 2 hr 15 min
+36 songs - 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Rossetto e caffè \(con The Kolors\)](https://open.spotify.com/track/0S5T2u9kPFvq9TyqJbXmcl) | [Sal Da Vinci](https://open.spotify.com/artist/7cdIY4mDfM1dbjgl7s2fGR), [The Kolors](https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR) | [Rossetto e caffè \(con The Kolors\)](https://open.spotify.com/album/6ai2ol4B5RhqzTBaM2Dgws) | 3:09 | 2025-02-25 |  |
 | [Say Something](https://open.spotify.com/track/6Vc5wAMmXdKIAM7WUoEb7N) | [A Great Big World](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Is There Anybody Out There?](https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl) | 3:49 | 2025-02-25 |  |
 | [Skyfall](https://open.spotify.com/track/6VObnIkLVruX4UVyxWhlqm) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Skyfall](https://open.spotify.com/album/6TwN6Lq9glwnG8kNp6chHY) | 4:46 | 2025-02-25 |  |
-| [The Sound of Silence \- Electric Version](https://open.spotify.com/track/2YplrdHMBoRdnHgMeHEwHm) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Sounds Of Silence](https://open.spotify.com/album/07RAGILF28QweYQSZasr5k) | 3:05 | 2025-02-25 |  |
+| [The Sound of Silence \- Electric Version](https://open.spotify.com/track/2YplrdHMBoRdnHgMeHEwHm) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Sounds Of Silence](https://open.spotify.com/album/07RAGILF28QweYQSZasr5k) | 3:10 | 2025-02-25 |  |
 | [Tutto il resto e' noia](https://open.spotify.com/track/0RbhVoxOZE8BniSgmDbaXV) | [Franco Califano](https://open.spotify.com/artist/1Bkzb6WJ348VTlTrnJuqIz) | [Tutto Il Resto E' Noia](https://open.spotify.com/album/1tIlFQtwEMi0icuiu4uf8x) | 4:34 | 2025-02-25 |  |
 | [Tutto il resto è noia \(feat\. Tony Effe\)](https://open.spotify.com/track/2PmuzC0gr5Za1ubhKV5r0d) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [Nostalgia](https://open.spotify.com/album/6awhjqs3acQA1WAYrsAPs6) | 2:21 | 2025-03-03 |  |
 | [Un Tempo piccolo](https://open.spotify.com/track/7cd6rqy01GXaUBJkzJvGzO) | [Franco Califano](https://open.spotify.com/artist/1Bkzb6WJ348VTlTrnJuqIz) | [Non Escludo Il Ritorno](https://open.spotify.com/album/2y7bASqXNGSuou0uYGHUMk) | 4:11 | 2025-02-25 |  |

@@ -4,7 +4,7 @@
 
 > 12 Hours of brown noise to sleep longer.
 
-286 songs - 14 hr 16 min
+288 songs - 14 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Baby Sleep Brown Noise 5](https://open.spotify.com/track/3qSoEWzU9tAjlxHFxnk6Qe) | [Exodar](https://open.spotify.com/artist/2UcCR6cHxb3YL473Q7KKZJ) | [Baby Sleep Brown Noise](https://open.spotify.com/album/1T3WPPZ67s9fVzdfpjruR9) | 2:38 | 2023-05-25 | 2023-11-11 |
 | [Baby Sleep Brown Noise 7](https://open.spotify.com/track/6OB7ui86XKzFm5TqvZkBR9) | [Exodar](https://open.spotify.com/artist/2UcCR6cHxb3YL473Q7KKZJ) | [Baby Sleep Brown Noise](https://open.spotify.com/album/1T3WPPZ67s9fVzdfpjruR9) | 2:22 | 2023-05-25 |  |
 | [Baby Sleep Brown Noise 9](https://open.spotify.com/track/2qQ4zVVuo3jtxrWnxKNapF) | [Exodar](https://open.spotify.com/artist/2UcCR6cHxb3YL473Q7KKZJ) | [Baby Sleep Brown Noise](https://open.spotify.com/album/1T3WPPZ67s9fVzdfpjruR9) | 2:17 | 2023-05-25 | 2023-11-11 |
+| [Balanced Brown Noise](https://open.spotify.com/track/2ceSajOYA5toO1rQDdHhV6) | [Noise Retreat](https://open.spotify.com/artist/2xhxnZx1l0Zvu7eEpt1OYM) | [Balanced Brown Noise](https://open.spotify.com/album/5Gfp70VP9qqHL8sjhoxCvt) | 3:03 | 2025-11-13 |  |
 | [Beauty Sleep Brown Noise \- Seamless](https://open.spotify.com/track/2uUSMaeodusMJNZ9fAPdsR) | [Colorix](https://open.spotify.com/artist/0WFH9vqXxzL2VxCzHmWkdI) | [Brown Mellow Noise](https://open.spotify.com/album/2fXEf1Cp6hgnf9KnPYbp3k) | 2:53 | 2023-05-25 |  |
 | [Beneficial Brown Noise](https://open.spotify.com/track/1eNp6j8p8yl5S1jOzSSZWA) | [Zeroing In](https://open.spotify.com/artist/5f4Xuv1IEco2VTBh1W7e9W) | [Beneficial Brown Noise](https://open.spotify.com/album/12q777xXDWvkvABK3I4JXT) | 2:40 | 2023-05-25 | 2025-02-28 |
 | [Big Waterfall Brown Noise](https://open.spotify.com/track/7eDoyHAqFhm4QRME1GYQFV) | [Fortuna](https://open.spotify.com/artist/2gbFrZ06uCjIZsE1LS46uV) | [Brown Noise Relaxation](https://open.spotify.com/album/6Ebja7i0qo75APOZKqSxbu) | 2:23 | 2023-05-25 |  |
@@ -52,7 +53,7 @@
 | [Brown Noise B](https://open.spotify.com/track/4EPPzFbJ9FCZAudY6VGvYY) | [Blazerod](https://open.spotify.com/artist/50z9YbdAXVbmTQjMOZOHDS) | [Blazing Brown Noise](https://open.spotify.com/album/62qm479270gddWe73nvaLT) | 2:49 | 2023-05-25 |  |
 | [Brown Noise Baby](https://open.spotify.com/track/32jLpAriwqWXQu7uRFQPDF) | [Science Noise](https://open.spotify.com/artist/21rKXFXyX0IWKpYmoOaP8Q) | [Ambient Brown Noise](https://open.spotify.com/album/6QYNjdZuKZYigTitGT38bG) | 2:21 | 2023-05-25 |  |
 | [Brown Noise Baby Crib](https://open.spotify.com/track/0U6KGlGtsX76wAUrLAklvO) | [The Frequency Shifters](https://open.spotify.com/artist/7MbxdnkfBJ2STy1K8VzbzJ) | [Brown Noise in the Moonlight](https://open.spotify.com/album/2LQ5f41UEezACirWRwVDxQ) | 3:41 | 2023-05-25 |  |
-| [Brown Noise Bliss](https://open.spotify.com/track/5kIF95v6YpJ9E0zw8RjFkD) | [Marronicity](https://open.spotify.com/artist/0YvU1cVEZlg5XkGV2Vb0GI) | [Shades Of Brown](https://open.spotify.com/album/5uRuMEZqivuCsfCY7GOZMM) | 2:52 | 2023-05-25 |  |
+| [Brown Noise Bliss](https://open.spotify.com/track/5kIF95v6YpJ9E0zw8RjFkD) | [Marronicity](https://open.spotify.com/artist/0YvU1cVEZlg5XkGV2Vb0GI) | [Shades Of Brown](https://open.spotify.com/album/5uRuMEZqivuCsfCY7GOZMM) | 2:52 | 2023-05-25 | 2025-11-21 |
 | [Brown Noise Calm](https://open.spotify.com/track/2qs40c5Ja7KKp6KTXeSvXo) | [ULXI](https://open.spotify.com/artist/4BEynIaDkgnXy4tS0v0DQU) | [Brown Noise Calm](https://open.spotify.com/album/5Oab92us7Xu7CeVxkwGKPt) | 3:40 | 2023-05-25 |  |
 | [Brown Noise Calm 220Hz](https://open.spotify.com/track/5Sz8Tr9JuNcMF4fddILlfG) | [Holuka](https://open.spotify.com/artist/2vhp6YYXzpAZKMTJ7Gor9u) | [Ocean of Brown Noise](https://open.spotify.com/album/5wPC98DNiarjguDqozjxAs) | 3:42 | 2023-05-25 | 2023-11-11 |
 | [Brown Noise Calm Body](https://open.spotify.com/track/5Oc4kS5WF1SBSBenn3gcOu) | [Picturesque Sound](https://open.spotify.com/artist/4kmwcaEZw9Xs2GMUGKaR3D) | [Brown Noise Sleep Escape](https://open.spotify.com/album/3viNE5LfYfm1fgehifXmyE) | 3:12 | 2023-05-25 |  |
@@ -127,8 +128,9 @@
 | [Brown Noise Stream](https://open.spotify.com/track/1inr8IQFXA1am26upyEnSB) | [Hum Humming](https://open.spotify.com/artist/4Pv75nATrtWwA5uYCDvxYF) | [Brown Noise Stream](https://open.spotify.com/album/1MVMJYj22Jd7qwQC1blZ2q) | 3:36 | 2023-05-25 |  |
 | [Brown Noise Stream](https://open.spotify.com/track/0SMKOwGiMI3gLY6Oe8KB0L) | [Ziem](https://open.spotify.com/artist/6nIgqoE3AfrXQ9QxnoNWwb) | [Brown Noise Stream](https://open.spotify.com/album/3jMDqVidjRUk0CiCYCwsWq) | 1:52 | 2023-05-25 | 2023-06-29 |
 | [Brown Noise Thunderstorm](https://open.spotify.com/track/6vANG8Nd4jWuceVBW0qbIP) | [Breez Bing](https://open.spotify.com/artist/6etNuBwGVHTfpyZmaoZHFH) | [Brown Noise Oasis](https://open.spotify.com/album/4xagPuzcbr1yU6lqSJYgqa) | 2:48 | 2023-05-25 |  |
-| [Brown Noise Tranquil Mind](https://open.spotify.com/track/4w3MPe2mBxO6cVSINTBW5B) | [Picturesque Sound](https://open.spotify.com/artist/4kmwcaEZw9Xs2GMUGKaR3D) | [Brown Noise Sleep Escape](https://open.spotify.com/album/3viNE5LfYfm1fgehifXmyE) | 3:02 | 2023-05-25 |  |
+| [Brown Noise Tranquil Mind](https://open.spotify.com/track/4w3MPe2mBxO6cVSINTBW5B) | [Picturesque Sound](https://open.spotify.com/artist/4kmwcaEZw9Xs2GMUGKaR3D) | [Brown Noise Sleep Escape](https://open.spotify.com/album/3viNE5LfYfm1fgehifXmyE) | 3:02 | 2023-05-25 | 2025-11-21 |
 | [Brown Noise Valley 220Hz](https://open.spotify.com/track/62BKIXTJOA8Vplgu6wOlUh) | [Klangspiel](https://open.spotify.com/artist/2IM5tvnq8r2d8yYY2FTXNX) | [Soft Brown Noise](https://open.spotify.com/album/4nTgcRgGKB2r5mTsqTNqPY) | 3:38 | 2023-05-25 | 2023-11-11 |
+| [Brown Noise Waterfall](https://open.spotify.com/track/5xjfZvufuWt14hkGBvzarn) | [Feedback Loops 1994](https://open.spotify.com/artist/7l00V143Y1CgzTtVOnKcbt) | [Brown Noise Waterfall](https://open.spotify.com/album/3dd0GDXK94WENdrFv5J9rO) | 3:14 | 2025-11-13 |  |
 | [Brown Oceanic Noise 340 Hz \- Seamless](https://open.spotify.com/track/21d1Gbp9u8SiupUfAImyBL) | [Noise Design](https://open.spotify.com/artist/4L5Dto2z6lWOgm19IXWNDr) | [Platinum Brown Noise](https://open.spotify.com/album/69iNf6AZ6JpFJUktVcoTdv) | 3:04 | 2023-05-25 |  |
 | [Brown Serene Noise](https://open.spotify.com/track/2dInowJMBWTf85Et1NRyvZ) | [Luke Andersson](https://open.spotify.com/artist/5aFhL9biVJqgXPKDvQyTFc) | [Brown Serene Noise](https://open.spotify.com/album/1JUDFLZrPlt4H3k70nuFTR) | 3:09 | 2023-05-25 |  |
 | [Brown Sleep Noise](https://open.spotify.com/track/1pUi52OQkr7xkYOdCnt14u) | [Harper Rems](https://open.spotify.com/artist/3veRAXXPy3m69dx4ZtZJCP) | [Brown Noise for Sleep](https://open.spotify.com/album/40D8l4TRvcZlJfgQPYca2G) | 3:12 | 2023-05-25 | 2025-02-28 |

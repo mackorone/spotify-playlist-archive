@@ -1,6 +1,6 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 71428,
+  "num_followers": 71441,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
@@ -204,7 +204,7 @@
           "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         }
       ],
-      "duration_ms": 313693,
+      "duration_ms": 312532,
       "name": "Workin' Day and Night",
       "url": "https://open.spotify.com/track/6BdiFsPMPkSEEO4fFXFVWX"
     },
@@ -300,7 +300,7 @@
           "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         }
       ],
-      "duration_ms": 221026,
+      "duration_ms": 221112,
       "name": "Burn This Disco Out",
       "url": "https://open.spotify.com/track/6aCs8gCrp4yrwvw7ylhau2"
     },
@@ -1211,6 +1211,26 @@
     {
       "added_at": "2024-09-07 16:02:33",
       "album": {
+        "name": "Dimitri From Paris Presents Le CHIC Remix",
+        "url": "https://open.spotify.com/album/0SbNsZY1MvowLeC5YgEMrg"
+      },
+      "artists": [
+        {
+          "name": "Sister Sledge",
+          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
+        },
+        {
+          "name": "Dimitri From Paris",
+          "url": "https://open.spotify.com/artist/5Il27M5JXuQLgwDgVrQMgo"
+        }
+      ],
+      "duration_ms": 389332,
+      "name": "Thinking of You - Dimitri from Paris Remix; 2018 Remaster",
+      "url": "https://open.spotify.com/track/6J0pQrsvXUc1Xy4DvScrIK"
+    },
+    {
+      "added_at": "2024-09-07 16:02:33",
+      "album": {
         "name": "'Lectric Lady",
         "url": "https://open.spotify.com/album/7eY0iC16v1UNmrHqG1eiuB"
       },
@@ -1227,22 +1247,6 @@
       "duration_ms": 473240,
       "name": "Love Is You - A Tom Moulton Mix",
       "url": "https://open.spotify.com/track/4YjD6Gd0IjMIchfTOOPEgS"
-    },
-    {
-      "added_at": "2024-09-07 16:02:33",
-      "album": {
-        "name": "Don't You Want My Love",
-        "url": "https://open.spotify.com/album/3wbkiu4RK9zumoN2ibzd5h"
-      },
-      "artists": [
-        {
-          "name": "Debbie Jacobs",
-          "url": "https://open.spotify.com/artist/3CR8jIKs7xwpWHZ1s8CgBL"
-        }
-      ],
-      "duration_ms": 468831,
-      "name": "Don't You Want My Love - Remastered",
-      "url": "https://open.spotify.com/track/4ti2wje1ckDWltwP45ea9U"
     }
   ],
   "unique_name": "Disco Decadence",

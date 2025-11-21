@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3o9eExibzaT.md) - [plain]
 
 > It's a wonderful lie\. Listen to the music from and inspired by Big Little Lies, all episode streaming on Max.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,516 likes - 84 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,522 likes - 84 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3o9eExibzaT.md) - [plain]
 | 58 | [Nothing Arrived \- Live](https://open.spotify.com/track/7na7OQHZZyrJnqcDC4e4D8) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [Big Little Lies \(Music From The HBO Limited Series\)](https://open.spotify.com/album/4YU2XJH8yVtQh5oPylvoDw) | 3:41 |
 | 59 | [Silver Trembling Hands](https://open.spotify.com/track/4yYKWN3FtoRxdlJBqIn8Rh) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [Embryonic](https://open.spotify.com/album/4Gucn0d30QiZSrXrcNVjhk) | 3:58 |
 | 60 | [This Feeling](https://open.spotify.com/track/0KKpTT8LkdarAs1kRmAvbW) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Big Little Lies \(Music From The HBO Limited Series\)](https://open.spotify.com/album/4YU2XJH8yVtQh5oPylvoDw) | 4:31 |
-| 61 | [Ball and Chain](https://open.spotify.com/track/6jXzkgISP6UfMEEaKkxWJw) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Cheap Thrills](https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX) | 9:27 |
+| 61 | [Ball and Chain](https://open.spotify.com/track/6jXzkgISP6UfMEEaKkxWJw) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Cheap Thrills](https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX) | 9:29 |
 | 62 | [One Night](https://open.spotify.com/track/3nwxwYSwdFvyLngepyPxOZ) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [50,000,000 Elvis Fans Can't Be Wrong: Elvis' Gold Records, Vol\. 2](https://open.spotify.com/album/0s357yjkkRrf0KCXtnISGe) | 2:34 |
 | 63 | [Pocketful of Rainbows](https://open.spotify.com/track/6lSGhstIFdvPT0mYbTM6Y2) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [G.I\. Blues](https://open.spotify.com/album/1TqAYM0PTj6TDdzTcY8VGT) | 2:35 |
 | 64 | [Changes](https://open.spotify.com/track/267FIAdcIXoVRlyIpdx48F) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf) | [Big Little Lies \(Music From The HBO Limited Series\)](https://open.spotify.com/album/4YU2XJH8yVtQh5oPylvoDw) | 5:46 |

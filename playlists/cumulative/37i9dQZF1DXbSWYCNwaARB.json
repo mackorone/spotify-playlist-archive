@@ -4619,6 +4619,24 @@
     },
     {
       "album": {
+        "name": "I DONT CARE",
+        "url": "https://open.spotify.com/album/1gB4PCBKB6QeHH3IBBWX7X"
+      },
+      "artists": [
+        {
+          "name": "Baby DONT Cry",
+          "url": "https://open.spotify.com/artist/0dXoF2Q2WnVrhRT26SJNvs"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199867,
+      "name": "I DONT CARE",
+      "url": "https://open.spotify.com/track/7h6DJy4HspkjUtOdYtfqv4"
+    },
+    {
+      "album": {
         "name": "I Love My Body",
         "url": "https://open.spotify.com/album/7Lbc8drIJGlYLT4hdcBvre"
       },
@@ -6044,7 +6062,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 159524,
       "name": "Mamma Mia",
       "url": "https://open.spotify.com/track/1WNc4sGUuEArGDUIaTTRXe"

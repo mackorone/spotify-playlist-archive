@@ -1,12 +1,12 @@
 {
   "description": "This is J Boog. The essential tracks, all in one playlist.",
-  "num_followers": 15995,
+  "num_followers": 15994,
   "original_name": "This Is J Boog",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRu3AAAAAACJ22uOCSn0h/9a/ljOgc0G",
+  "snapshot_id": "aR0IgAAAAACP2itXfYg+mDHqB50LmjjZ",
   "tracks": [
     {
       "added_at": null,
@@ -167,22 +167,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "J Boog",
-        "url": "https://open.spotify.com/album/2QGWiPQPsl8OXBurzqCJPI"
+        "name": "Indigenous Life",
+        "url": "https://open.spotify.com/album/3UDKThTuWf6wbVCITpd8K2"
       },
       "artists": [
         {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        },
-        {
           "name": "Fiji",
           "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
+        },
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
         }
       ],
-      "duration_ms": 218146,
-      "name": "Every Little Thing (feat. Fiji)",
-      "url": "https://open.spotify.com/track/0ipn6Skphpuas3OXN8zpzk"
+      "duration_ms": 227555,
+      "name": "Let's Get It On",
+      "url": "https://open.spotify.com/track/1u3mBuYFjvWOu0VQ9x9kF2"
     },
     {
       "added_at": null,
@@ -219,22 +219,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Indigenous Life",
-        "url": "https://open.spotify.com/album/3UDKThTuWf6wbVCITpd8K2"
+        "name": "J Boog",
+        "url": "https://open.spotify.com/album/2QGWiPQPsl8OXBurzqCJPI"
       },
       "artists": [
         {
-          "name": "Fiji",
-          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
-        },
-        {
           "name": "J Boog",
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        },
+        {
+          "name": "Fiji",
+          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
         }
       ],
-      "duration_ms": 227555,
-      "name": "Let's Get It On",
-      "url": "https://open.spotify.com/track/1u3mBuYFjvWOu0VQ9x9kF2"
+      "duration_ms": 218146,
+      "name": "Every Little Thing (feat. Fiji)",
+      "url": "https://open.spotify.com/track/0ipn6Skphpuas3OXN8zpzk"
     },
     {
       "added_at": null,
@@ -659,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "J Boog",
+        "url": "https://open.spotify.com/album/2QGWiPQPsl8OXBurzqCJPI"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 205013,
+      "name": "So Far Gone",
+      "url": "https://open.spotify.com/track/1Dnv6D9ylHncMnAWp9G27i"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Long Way Home (with J Boog & Iyaz) [Island Kartel Version]",
         "url": "https://open.spotify.com/album/1Ar612oi661zHzRbwL8jB4"
       },
@@ -707,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "J Boog",
-        "url": "https://open.spotify.com/album/2QGWiPQPsl8OXBurzqCJPI"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 205013,
-      "name": "So Far Gone",
-      "url": "https://open.spotify.com/track/1Dnv6D9ylHncMnAWp9G27i"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heartbeat",
         "url": "https://open.spotify.com/album/1uGwZldzs5sxIrSHFH7SpD"
       },
@@ -759,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wash House Ting",
+        "url": "https://open.spotify.com/album/1vvWNmE4sucY3u3xd25SbK"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 276586,
+      "name": "Brighter Days",
+      "url": "https://open.spotify.com/track/1Wol1mtEGmrb178XVxJdpu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hustlin' Riddim",
         "url": "https://open.spotify.com/album/7C7iUJ39NnBpoMqPXx35ap"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 193093,
       "name": "Coldest Zone",
       "url": "https://open.spotify.com/track/1l8Tn0W9Rby3alJ78AMGi8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wash House Ting",
-        "url": "https://open.spotify.com/album/1vvWNmE4sucY3u3xd25SbK"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 276586,
-      "name": "Brighter Days",
-      "url": "https://open.spotify.com/track/1Wol1mtEGmrb178XVxJdpu"
     },
     {
       "added_at": null,
@@ -911,8 +911,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heartbeat",
-        "url": "https://open.spotify.com/album/1uGwZldzs5sxIrSHFH7SpD"
+        "name": "My Audio",
+        "url": "https://open.spotify.com/album/3L9tTUH2OUjHrP8zAEwp24"
       },
       "artists": [
         {
@@ -920,9 +920,9 @@
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
         }
       ],
-      "duration_ms": 223393,
-      "name": "Love's Close Around",
-      "url": "https://open.spotify.com/track/0ZrAAJ6u6IlukqFbHK3RIA"
+      "duration_ms": 235684,
+      "name": "My Audio",
+      "url": "https://open.spotify.com/track/4A3b23XdMVDPX6cdzHQOjb"
     },
     {
       "added_at": null,
@@ -947,8 +947,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Audio",
-        "url": "https://open.spotify.com/album/3L9tTUH2OUjHrP8zAEwp24"
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/1uGwZldzs5sxIrSHFH7SpD"
       },
       "artists": [
         {
@@ -956,9 +956,9 @@
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
         }
       ],
-      "duration_ms": 235684,
-      "name": "My Audio",
-      "url": "https://open.spotify.com/track/4A3b23XdMVDPX6cdzHQOjb"
+      "duration_ms": 223393,
+      "name": "Love's Close Around",
+      "url": "https://open.spotify.com/track/0ZrAAJ6u6IlukqFbHK3RIA"
     },
     {
       "added_at": null,

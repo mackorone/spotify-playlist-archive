@@ -2,9 +2,9 @@
 
 ### [RADAR UK & Ireland](https://open.spotify.com/playlist/37i9dQZF1DX9be6QR3XeJp)
 
-> Discover your new favourite artists from UK&IE\. Cover: Pozzy
+> Discover your new favourite artists from UK&IE\. Cover: Mysie
 
-337 songs - 18 hr 5 min
+338 songs - 18 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,6 +210,7 @@
 | [nightmares](https://open.spotify.com/track/5mnnsan9rtnYHjJoLVdD79) | [Rio Rainz](https://open.spotify.com/artist/1r6P4oTQ7kUvMXTkNjrb4C) | [withdrawal symptoms](https://open.spotify.com/album/5Uj9bUqM83TDE0PJ2Dz7kT) | 2:41 | 2022-08-11 |  |
 | [No Drama](https://open.spotify.com/track/2K4YJw1w339PDnVRVNXBpu) | [Lavida Loca](https://open.spotify.com/artist/415327ME0IFxW10IRFonr8) | [2 Sides](https://open.spotify.com/album/5F9kzrOxaGaB2sRMapfJUQ) | 3:10 | 2023-01-09 | 2024-04-19 |
 | [No Drama](https://open.spotify.com/track/6HyYOsbICeWtN9brSOhr9R) | [Lavida Loca](https://open.spotify.com/artist/415327ME0IFxW10IRFonr8) | [2 Sides](https://open.spotify.com/album/5o8IgzG9di21TFESYuU5jD) | 3:10 | 2022-02-18 |  |
+| [NO MORE](https://open.spotify.com/track/3hGpy57T8V9sq08GpuA0cc) | [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf) | [SALTY](https://open.spotify.com/album/4w04FX3x2th7nOS77tYdlw) | 2:21 | 2025-11-21 |  |
 | [No Romeo](https://open.spotify.com/track/2GNH6YhM2rBaJoxYKy0iF8) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [No Romeo EP](https://open.spotify.com/album/09ItArIl88LxU5InoksUTo) | 3:11 | 2022-07-28 | 2022-10-13 |
 | [No Romeo](https://open.spotify.com/track/2n4U8Qf9vkpl6rFQnXtLK5) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [No Romeo EP](https://open.spotify.com/album/6dpPmjQADL8JE813YWKfQ3) | 3:11 | 2022-10-06 | 2024-04-19 |
 | [No Romeo](https://open.spotify.com/track/4qnZCHbYsdUzjeyRXPDjlB) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [No Romeo](https://open.spotify.com/album/3uCOV1a01TIpU0BOr2B0CX) | 3:11 | 2022-02-18 |  |

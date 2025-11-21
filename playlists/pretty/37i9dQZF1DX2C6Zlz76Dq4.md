@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2C6Zlz76Dq4.md) - [plain]
 
 > Country's legendary artists singing your favorite Christmas Classics\. Cover: Dolly Parton
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,465 likes - 102 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,630 likes - 102 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2C6Zlz76Dq4.md) - [plain]
 | 6 | [How Do I Wrap My Heart Up for Christmas](https://open.spotify.com/track/187LhMdASknOuezEteee8e) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [An Old Time Christmas](https://open.spotify.com/album/1Qzf0DMEMbVw1ATW7uYdZ9) | 2:47 |
 | 7 | [Let It Snow, Let It Snow, Let It Snow](https://open.spotify.com/track/5zeSQBFKkqhL40bZN4EEhh) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Merry Christmas Wherever You Are](https://open.spotify.com/album/7bVZzd18CRxQQQRqNU0zJh) | 2:20 |
 | 8 | [The Christmas Song \(Chestnuts Roasting On an Open Fire\)](https://open.spotify.com/track/4REX36BtCeg6mmPlgkRuqk) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [White Christmas](https://open.spotify.com/album/6zMbvZeDQRie5F6a4wOu8e) | 3:42 |
-| 9 | [Rudolph the Red\-Nosed Reindeer](https://open.spotify.com/track/3GedYsq15ihZtl9muh5b5A) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Pretty Paper](https://open.spotify.com/album/5Vdf8rMX6hBLQ0AQPunYQx) | 2:10 |
+| 9 | [Rudolph the Red\-Nosed Reindeer](https://open.spotify.com/track/3GedYsq15ihZtl9muh5b5A) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Pretty Paper](https://open.spotify.com/album/5Vdf8rMX6hBLQ0AQPunYQx) | 2:12 |
 | 10 | [Santa Claus Is Comin' to Town \- 1962 Version](https://open.spotify.com/track/2Z7kYAVgTdFF8KG7MITZxo) | [Eddy Arnold](https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22) | [RCA Christmas Recordings \(1949\-1967\)](https://open.spotify.com/album/4iAmDdM7FPNS3g6IYbtaDs) | 1:53 |
 | 11 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/2yxTGxTDbgcbMN0Ae102bn) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Rockin' Around The Christmas Tree/The Decca Christmas Recordings](https://open.spotify.com/album/1gAceSZFd4irbzRRHLof8U) | 2:06 |
 | 12 | [If We Make It Through December](https://open.spotify.com/track/44RXimHSA8TP58WXOMdKMy) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Honky Tonk Christmas](https://open.spotify.com/album/5kIfAEfAWBYRKHnhLS6ise) | 2:44 |
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2C6Zlz76Dq4.md) - [plain]
 | 62 | [Christmas Cookies](https://open.spotify.com/track/2l9OCqqyFghMIMOqoDDvfr) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Christmas Cookies](https://open.spotify.com/album/2cdL5oykpGZ3fCjy53fNbE) | 3:18 |
 | 63 | [Merry, Merry Christmas Baby](https://open.spotify.com/track/2cWj8ipRBN2azJbER817cy) | [Ronnie Milsap](https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ) | [Merry, Merry Christmas Baby](https://open.spotify.com/album/7ckrgR0Wf1onjrVFFV4iE0) | 3:40 |
 | 64 | [Most Wonderful Time of The Year](https://open.spotify.com/track/3wsfebFScXrZMhMiKW7OOU) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [It's The Holiday Season](https://open.spotify.com/album/7jRR92rBDxjnrjs3rRkC7F) | 3:31 |
-| 65 | [Frosty the Snowman](https://open.spotify.com/track/4HMptEInOi2qAZHRh8MCMj) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Pretty Paper](https://open.spotify.com/album/5Vdf8rMX6hBLQ0AQPunYQx) | 2:25 |
+| 65 | [Frosty the Snowman](https://open.spotify.com/track/4HMptEInOi2qAZHRh8MCMj) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Pretty Paper](https://open.spotify.com/album/5Vdf8rMX6hBLQ0AQPunYQx) | 2:27 |
 | 66 | [Little Drummer Boy](https://open.spotify.com/track/3E3QIlYJikHymLrScKCynD) | [Terri Clark](https://open.spotify.com/artist/0HLOP0AdsaWe5Pt5TNueGC) | [Little Drummer Boy](https://open.spotify.com/album/1PnogosIABFgWFOVRwv6Aj) | 2:50 |
 | 67 | [Santa Looked a Lot Like Daddy](https://open.spotify.com/track/6CsUIrQdXxoEJ2rMvFa1kl) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Brad Paisley Christmas \(Deluxe Version\)](https://open.spotify.com/album/7gr2ZK7eUTzyed9WOFHrsX) | 4:14 |
 | 68 | [Let There Be Peace On Earth](https://open.spotify.com/track/4hQk3WFd0jDDGPPig99cl8) | [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo), [Jenny Gill](https://open.spotify.com/artist/6DcfyDxSXarwnXR9X78DGB) | [Christmas](https://open.spotify.com/album/2w9sNZmlN6hcEsRo0xS8RX) | 4:32 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2C6Zlz76Dq4.md) - [plain]
 | 76 | [Holly Jolly Christmas](https://open.spotify.com/track/4XWxLiqYW3Q78OuK5nvJRo) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Joy to the World!](https://open.spotify.com/album/1ufWN12kJj7YQR1PAfE4YB) | 2:18 |
 | 77 | [If We Make It Through December](https://open.spotify.com/track/4sTlOOWxFx5dR7SZmi7S79) | [Merle Haggard & The Strangers](https://open.spotify.com/artist/3mSAqBoXQgdlpwzWsIgBzL) | [Hag's Christmas](https://open.spotify.com/album/1zV3LT0oE6DW2BWnrNOXf8) | 2:43 |
 | 78 | [Winter Wonderland](https://open.spotify.com/track/2VjzNrJ8pyo5tMVVfPzZxs) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [It's The Holiday Season](https://open.spotify.com/album/7jRR92rBDxjnrjs3rRkC7F) | 2:56 |
-| 79 | [Pretty Paper](https://open.spotify.com/track/6vw0fFogTD5yIE5TWjZ0gM) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Pretty Paper](https://open.spotify.com/album/5Vdf8rMX6hBLQ0AQPunYQx) | 2:24 |
+| 79 | [Pretty Paper](https://open.spotify.com/track/6vw0fFogTD5yIE5TWjZ0gM) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Pretty Paper](https://open.spotify.com/album/5Vdf8rMX6hBLQ0AQPunYQx) | 2:27 |
 | 80 | [O Holy Night](https://open.spotify.com/track/1Sx2LlAejMVQhdRyeK9PvY) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [The Ultimate Christmas Collection](https://open.spotify.com/album/6S4DIqGyZGra6iZyZNI9jQ) | 3:53 |
 | 81 | [There's No Place Like Home](https://open.spotify.com/track/04ZBG6160XeIuM8DHi2U2P) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [Christmas](https://open.spotify.com/album/7FTOK16cl28fhMAY0oLbqf) | 3:15 |
 | 82 | [Silver Bells](https://open.spotify.com/track/68I9uXiZHL4zIWVZhzjK0P) | [Anne Murray](https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E) | [Christmas](https://open.spotify.com/album/6bx85MDh5ikEz9JmjD5uqa) | 2:43 |

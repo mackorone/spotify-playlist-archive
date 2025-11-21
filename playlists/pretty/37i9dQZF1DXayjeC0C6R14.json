@@ -1,6 +1,6 @@
 {
   "description": "Canciones de rock dignas de festival para dedicarle a tu media naranja.",
-  "num_followers": 144588,
+  "num_followers": 144596,
   "original_name": "Amor Festivalero",
   "owner": {
     "name": "Spotify",
@@ -711,26 +711,6 @@
     {
       "added_at": "2025-09-05 06:00:12",
       "album": {
-        "name": "Mago",
-        "url": "https://open.spotify.com/album/2w3gUevNyMDX6fNuC273nN"
-      },
-      "artists": [
-        {
-          "name": "Los Caligaris",
-          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
-        },
-        {
-          "name": "Miranda!",
-          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
-        }
-      ],
-      "duration_ms": 214853,
-      "name": "Mago",
-      "url": "https://open.spotify.com/track/1MJFpwxCbB5IvkwNnr0m2V"
-    },
-    {
-      "added_at": "2025-09-05 06:00:12",
-      "album": {
         "name": "Caney",
         "url": "https://open.spotify.com/album/1x8IWBHGkrxSuHZibxOvgc"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 230186,
       "name": "Caney",
       "url": "https://open.spotify.com/track/1iy127mskdnMF5mC5kicFF"
+    },
+    {
+      "added_at": "2025-09-05 06:00:12",
+      "album": {
+        "name": "Mago",
+        "url": "https://open.spotify.com/album/2w3gUevNyMDX6fNuC273nN"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        },
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        }
+      ],
+      "duration_ms": 214853,
+      "name": "Mago",
+      "url": "https://open.spotify.com/track/1MJFpwxCbB5IvkwNnr0m2V"
     },
     {
       "added_at": "2025-09-05 06:00:12",

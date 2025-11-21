@@ -2,9 +2,9 @@
 
 ### [Fresh Country](https://open.spotify.com/playlist/37i9dQZF1DWXepGEFFmQXJ)
 
-> The cream of today's country crop\. Cover: Waylon Wyatt
+> The cream of today's country crop\. Cover: Ella Langley
 
-1,075 songs - 2 day 10 hr 58 min
+1,077 songs - 2 day 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -313,6 +313,7 @@
 | [Fill It Up](https://open.spotify.com/track/6DeeYasethff4ETRNaHaZh) | [Amber Lawrence](https://open.spotify.com/artist/3RyYW4bMFeTeQ2jjLZu4xg) | [Fill It Up](https://open.spotify.com/album/5hWTohQn87entUhY9XVYfC) | 2:55 | 2022-03-31 | 2022-04-22 |
 | [Filthy Rich](https://open.spotify.com/track/6InkM0NaTWi7PJ3utfUzlM) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Filthy Rich](https://open.spotify.com/album/4EZKTohECt4rz0GL4LShK2) | 2:52 | 2024-10-03 | 2025-01-24 |
 | [Finer Things \(Feat\. Hank Williams Jr.\)](https://open.spotify.com/track/30hbE8nm0VBt1W5F0U1Dr1) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [F\-1 Trillion](https://open.spotify.com/album/3gHZ4w03gbuZtGTEwztrtw) | 3:05 | 2024-08-15 | 2025-01-10 |
+| [Fire On The Hillside](https://open.spotify.com/track/0uAPJlac7akHjkU4tJmacm) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Fire On The Hillside](https://open.spotify.com/album/3SQ6pt50V0QVZeeLZ4xpdv) | 3:24 | 2025-11-20 |  |
 | [Fire Up The Night \(feat\. HARDY\)](https://open.spotify.com/track/5dHF4UXvJ70xefCqD2Wj9N) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Body Language \(Deluxe\)](https://open.spotify.com/album/6ObNVnYp53VJNtIcdo03WJ) | 3:12 | 2021-12-30 | 2022-09-16 |
 | [Firecracker](https://open.spotify.com/track/2XwMUGqZqbMJnNGpFeTN9m) | [Taylor Moss](https://open.spotify.com/artist/6kk3eFuZoE4Lq7dD03Ehkj) | [Firecracker](https://open.spotify.com/album/0NqZfZjRUO5PxhVQ0nraqW) | 3:40 | 2024-09-26 | 2024-12-06 |
 | [Fix What You Didn't Break](https://open.spotify.com/track/0GJ8peTqHq9pu5Yf2vHjjX) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Fix What You Didn't Break](https://open.spotify.com/album/7d0hS6Qa9gXEjwlbsJbaEr) | 3:21 | 2024-08-22 | 2025-01-17 |
@@ -546,7 +547,7 @@
 | [Leona](https://open.spotify.com/track/574vxh9gV44VXNjNZfF3cS) | [Duncan Toombs](https://open.spotify.com/artist/5Jv0F98tukWFHhdP7ZNJq9) | [Steel On Steel](https://open.spotify.com/album/6cZJzkkc6oFzQWmI10Cof8) | 3:58 | 2023-01-12 | 2023-03-18 |
 | [Let It Go](https://open.spotify.com/track/4KM1P14d6Svovepg4UEitL) | [HUTCH](https://open.spotify.com/artist/55qwxSOjW4bmtSEI8INDpQ) | [Let It Go](https://open.spotify.com/album/1DSIDbiZQGXHTrftbKArNv) | 3:26 | 2022-03-31 | 2022-07-08 |
 | [Let It Go \- Live](https://open.spotify.com/track/1nbLKD60IUsOKDipPWhdNe) | [HUTCH](https://open.spotify.com/artist/55qwxSOjW4bmtSEI8INDpQ) | [Let It Go \(Live\)](https://open.spotify.com/album/6P5FFO1n4wUSa6nFcwa1rB) | 3:16 | 2022-06-30 | 2022-10-14 |
-| [Let The Lonely](https://open.spotify.com/track/6WgBtsykRW7F0C7Qf7rhj4) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Let The Lonely](https://open.spotify.com/album/4u9BR3AFUBH4Pn7UltwH0L) | 3:18 | 2025-09-18 |  |
+| [Let The Lonely](https://open.spotify.com/track/6WgBtsykRW7F0C7Qf7rhj4) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Let The Lonely](https://open.spotify.com/album/4u9BR3AFUBH4Pn7UltwH0L) | 3:18 | 2025-09-18 | 2025-11-21 |
 | [Let the Song Take You Home](https://open.spotify.com/track/4zH9yoqI7g5s2M2MSYglcI) | [Adam Harvey](https://open.spotify.com/artist/3uKiMJO25JbcnE72DrmUMf) | [Let the Song Take You Home](https://open.spotify.com/album/0Qfi4NKsoy6D8ZxJSnaKco) | 3:24 | 2024-10-31 | 2024-12-13 |
 | [Let's Get Lost](https://open.spotify.com/track/0JT5EMlK5LsbqzgLo8zSfM) | [Lane Pittman](https://open.spotify.com/artist/4amB7X5ESMq5PB1ve3HmYZ) | [Lane Pittman](https://open.spotify.com/album/2v7F41pwlVNYT1FI4u5q7z) | 2:29 | 2024-03-07 | 2024-10-18 |
 | [Let's Ride](https://open.spotify.com/track/0Z55gEv8DwlJ8BmPAEpD0k) | [Troy Cassar\-Daley](https://open.spotify.com/artist/3RIsSUoG3tw0S19WabHxiM) | [Let's Ride](https://open.spotify.com/album/71M1zZ7yTRSrcuyM6SkW2k) | 4:16 | 2024-02-01 | 2024-04-05 |
@@ -718,10 +719,11 @@
 | [Overthinking](https://open.spotify.com/track/1wbppgIYETM96m7IgFbrLO) | [Amy Sheppard](https://open.spotify.com/artist/3nF6cVGjzDA9S5rDyZLffl) | [Overthinking](https://open.spotify.com/album/15rK99g25Bclj0d5hxo40X) | 2:46 | 2023-09-07 | 2023-12-20 |
 | [Paid for Drinking Beer](https://open.spotify.com/track/11oJonCsKfg0OCguWx66kf) | [McAlister Kemp](https://open.spotify.com/artist/3kYvlV6E961RxSCtavDXe6) | [Paid for Drinking Beer](https://open.spotify.com/album/4nAkZQ5lkuCU82ad47TF5P) | 3:12 | 2022-06-16 | 2022-08-27 |
 | [Parking Lot Prayers](https://open.spotify.com/track/0TMwDEVotcHkOwQb2lgZcl) | [Thelma & James](https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE) | [Starting Over](https://open.spotify.com/album/5jS1UDnigkwwbwB9T6l470) | 3:45 | 2025-09-18 | 2025-11-14 |
-| [Peace, Love, and Cowboys](https://open.spotify.com/track/0vQVAtvDlmUHzZAegghKfH) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind \(Deluxe\)](https://open.spotify.com/album/4jzl02ZBUX359L5VlqLNCQ) | 3:30 | 2025-08-21 |  |
+| [Peace, Love, and Cowboys](https://open.spotify.com/track/0vQVAtvDlmUHzZAegghKfH) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind \(Deluxe\)](https://open.spotify.com/album/4jzl02ZBUX359L5VlqLNCQ) | 3:30 | 2025-08-21 | 2025-11-21 |
 | [Penthouse](https://open.spotify.com/track/5rCt377EMkCJ0D0sldd5t8) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat](https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH) | 3:03 | 2023-03-09 | 2023-10-20 |
 | [People Drinkin' Beer](https://open.spotify.com/track/1Ac4GuCaD0RDsSUCoZTGrp) | [The Viper Creek Band](https://open.spotify.com/artist/0V0iGpPvQ1BdTHvGBaxn9Y) | [People Drinkin' Beer](https://open.spotify.com/album/0atuo4lRqiZyjIj8L1dzSh) | 2:47 | 2021-12-30 | 2022-01-28 |
 | [People Hatin'](https://open.spotify.com/track/5Q5CeW3FeTzrqYiYZxir8l) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [People Hatin'](https://open.spotify.com/album/0agjjIocSqdBq3pabKYrlJ) | 4:08 | 2025-10-02 |  |
+| [Perfect Man](https://open.spotify.com/track/6POoZ9wzzS9IxcAJoPj9lm) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y) | [Perfect Man](https://open.spotify.com/album/2nYD7X59Rn14XHcIM3ZdPd) | 2:49 | 2025-11-20 |  |
 | [Pick Me Up](https://open.spotify.com/track/7xNYZeFtrB05pi9tc6lEeb) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Pick Me Up](https://open.spotify.com/album/0AFaIppKjr2lO1pCjx1wK5) | 2:49 | 2022-01-27 | 2022-07-15 |
 | [Pink Champagne](https://open.spotify.com/track/0LI59fuqv8OTAnY9cqCife) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 3:23 | 2022-06-09 | 2022-09-30 |
 | [Pink Skies](https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Pink Skies](https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT) | 3:14 | 2024-05-24 | 2024-07-05 |

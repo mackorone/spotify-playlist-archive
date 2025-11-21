@@ -4,7 +4,7 @@
 
 > Noise distortion amongst the hazy clouds ☁️  Cover: Sunlotus \(Indonesia\)
 
-313 songs - 21 hr 29 min
+315 songs - 21 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Cul\-de\-sac](https://open.spotify.com/track/73EBtIHPOEjpOGjjyU5jCw) | [Seaside](https://open.spotify.com/artist/7fcJauZr1ZHqpIO2W57kYw), [Henry Foundation](https://open.spotify.com/artist/4aYOEr2GSLK6mQOJnsVaIy) | [Cul\-de\-sac](https://open.spotify.com/album/2mxeaxiEB6S3bd7S3yW6pJ) | 3:09 | 2024-08-15 | 2024-12-05 |
 | [cure](https://open.spotify.com/track/5cboBqJD6dc2o4EFPe7pNB) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [D o n’ t ‌ ‌ ‌L a u g h ‌ ‌ ‌I t ‌ ‌ ‌O f f](https://open.spotify.com/album/1CxJmFEE2xsYSTxpJaOG6P) | 5:25 | 2025-10-09 | 2025-10-24 |
 | [Daisies](https://open.spotify.com/track/6HXZZMhKZfEPBwvT5COP6g) | [Milledenials](https://open.spotify.com/artist/0Mh5wMruCzJIMbeospsjyB) | [Daisies](https://open.spotify.com/album/6Ez5TxGJT6ylmhM7Q2iHUb) | 4:07 | 2025-01-23 |  |
+| [Dancing Shrimp](https://open.spotify.com/track/622c7gFUpd8saVIC7K6TVc) | [srwks.](https://open.spotify.com/artist/79eB9q0lo6UaYUNgYNAbqp) | [Pizza Party Tequila & Xanax](https://open.spotify.com/album/1KxqDhdXGPPFtxEFX4WbOf) | 4:48 | 2025-11-20 |  |
 | [Dari Pinggiran](https://open.spotify.com/track/3UNttJlYxUCXS1IzBzn77x) | [Bayangan](https://open.spotify.com/artist/6Vf2sAgnMGioPLNUqqBgAI) | [Dari Pinggiran](https://open.spotify.com/album/2XnOsx99FtOrDBxyFfNqdh) | 6:43 | 2024-06-27 | 2025-10-10 |
 | [Days](https://open.spotify.com/track/3FMkmJK9W28feYUMaPdeQi) | [ん・フェニ](https://open.spotify.com/artist/0EQ1hpoirQ1oH1wFvQb8x0) | [Days](https://open.spotify.com/album/37cdNZmgJ7o5U5CmUvA9qC) | 4:40 | 2025-05-01 | 2025-08-01 |
 | [Dead End](https://open.spotify.com/track/5LN5ZQOFnWCSD7iz1dfzcG) | [Fleuro](https://open.spotify.com/artist/6PJkJJFyjpPRGxwLOLvbXZ) | [Dead End](https://open.spotify.com/album/1J3zpNBNUPyMdmQexmQJq2) | 4:53 | 2024-06-27 | 2024-08-09 |
@@ -242,6 +243,7 @@
 | [Somebody Else](https://open.spotify.com/track/6vo7lsIDO64i9a4wgh5TbC) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Somebody Else](https://open.spotify.com/album/2f0EYXEOVj2PYJcWK6XmsS) | 4:36 | 2024-06-27 | 2025-02-08 |
 | [Someday](https://open.spotify.com/track/3jchCGbzTNDXYa6qjkESBz) | [reika](https://open.spotify.com/artist/6LIKgENy8yhUCxPntuKCYV) | [Someday](https://open.spotify.com/album/5tfUvcfoAHbQsRGMPi8eZT) | 2:59 | 2025-06-06 |  |
 | [someday we'll live in the sky](https://open.spotify.com/track/3mOFyiRlgcaxMyEdJfQLNO) | [daystar](https://open.spotify.com/artist/3ILIaSsV4kXXvqqFcvyeCC) | [someday we'll live in the sky](https://open.spotify.com/album/5la6f9KZoB8XRn8BYO49FN) | 2:17 | 2025-02-20 | 2025-10-10 |
+| [Something Blue](https://open.spotify.com/track/0eC5DI6DHdKNl6gCZR1HEO) | [Lucid Express](https://open.spotify.com/artist/0WwjT0WO2JQSXIq7EeDxXf) | [Instant Comfort](https://open.spotify.com/album/6KBQf0GFYaF9TvulppGidz) | 5:44 | 2025-11-20 |  |
 | [Sometimes](https://open.spotify.com/track/5cTPib9wffQwW6KEgldFBI) | [Social Order](https://open.spotify.com/artist/7J3iqTNIMXafmNKtwfRQ48) | [Sometimes](https://open.spotify.com/album/6z1B90KXtwR4iG1JgjQ3KS) | 3:11 | 2024-06-27 | 2025-08-01 |
 | [stay away go!](https://open.spotify.com/track/0v7lzkEqZsFPoaIngSnHw7) | [Lesssugär](https://open.spotify.com/artist/6DhnCZ4po8PyhoooXojDBB) | [Internet Teenage Lover](https://open.spotify.com/album/1wF9osW6gyGBiUzdWQIIUK) | 4:34 | 2024-06-27 | 2024-08-31 |
 | [stay away go!](https://open.spotify.com/track/40Ud4qavLWVlzy0oFgvo71) | [Lesssugär](https://open.spotify.com/artist/6DhnCZ4po8PyhoooXojDBB) | [internet teenage lover](https://open.spotify.com/album/0NT5ZBUomUJezXJAZtKXOK) | 4:34 | 2024-12-04 |  |

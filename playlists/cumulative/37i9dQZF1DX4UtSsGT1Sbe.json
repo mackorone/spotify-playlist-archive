@@ -411,7 +411,7 @@
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
       "date_removed": null,
-      "duration_ms": 295893,
+      "duration_ms": 295282,
       "name": "Africa",
       "url": "https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX"
     },
@@ -873,7 +873,7 @@
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 255493,
+      "duration_ms": 256000,
       "name": "Back In Black",
       "url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj"
     },
@@ -1216,24 +1216,6 @@
     {
       "album": {
         "name": "Born In The U.S.A.",
-        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "date_added": "2020-12-22",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 278680,
-      "name": "Born in the U.S.A.",
-      "url": "https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9"
-    },
-    {
-      "album": {
-        "name": "Born In The U.S.A.",
         "url": "https://open.spotify.com/album/14IYDXybb1XKu51QHDryak"
       },
       "artists": [
@@ -1248,6 +1230,24 @@
       "duration_ms": 278826,
       "name": "Born In The U.S.A.",
       "url": "https://open.spotify.com/track/310epXrlbXmfGcD1qSdgVV"
+    },
+    {
+      "album": {
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2020-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279786,
+      "name": "Born in the U.S.A.",
+      "url": "https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9"
     },
     {
       "album": {
@@ -2059,7 +2059,7 @@
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
       "date_removed": null,
-      "duration_ms": 241306,
+      "duration_ms": 245296,
       "name": "Dancing In the Dark",
       "url": "https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE"
     },
@@ -2441,7 +2441,7 @@
       "date_added": "2021-02-26",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 365466,
+      "duration_ms": 364441,
       "name": "Don't Stop 'Til You Get Enough",
       "url": "https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ"
     },
@@ -4759,7 +4759,7 @@
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
       "date_removed": null,
-      "duration_ms": 199453,
+      "duration_ms": 199452,
       "name": "Hungry Heart",
       "url": "https://open.spotify.com/track/1KsI8NEeAna8ZIdojI3FiT"
     },
@@ -5473,7 +5473,7 @@
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 155880,
+      "duration_ms": 159313,
       "name": "I'm On Fire",
       "url": "https://open.spotify.com/track/3PzsbWSQdLCKDLxn7YZfkM"
     },
@@ -8175,7 +8175,7 @@
       "date_added": "2025-03-02",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 239026,
+      "duration_ms": 238333,
       "name": "P.Y.T. (Pretty Young Thing)",
       "url": "https://open.spotify.com/track/1CgmY8fVN7kstVDZmsdM5k"
     },
@@ -8355,7 +8355,7 @@
       "date_added": "2020-06-12",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 270080,
+      "duration_ms": 269712,
       "name": "Poison",
       "url": "https://open.spotify.com/track/5XcZRgJv3zMhTqCyESjQrF"
     },
@@ -8769,7 +8769,7 @@
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 220626,
+      "duration_ms": 219926,
       "name": "Rock with You - Single Version",
       "url": "https://open.spotify.com/track/7oOOI85fVQvVnK5ynNMdW7"
     },
@@ -8847,6 +8847,24 @@
     },
     {
       "album": {
+        "name": "Toto IV",
+        "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
+      },
+      "artists": [
+        {
+          "name": "TOTO",
+          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330943,
+      "name": "Rosanna",
+      "url": "https://open.spotify.com/track/37BTh5g05cxBIRYMbw8g2T"
+    },
+    {
+      "album": {
         "name": "Greatest Hits: 40 Trips Around The Sun",
         "url": "https://open.spotify.com/album/5ChYBNgy8o2ps5716s1GH2"
       },
@@ -8862,24 +8880,6 @@
       "duration_ms": 330986,
       "name": "Rosanna",
       "url": "https://open.spotify.com/track/65vEK65KeqeH11s3Ym8BWO"
-    },
-    {
-      "album": {
-        "name": "Toto IV",
-        "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
-      },
-      "artists": [
-        {
-          "name": "TOTO",
-          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
-        }
-      ],
-      "date_added": "2020-05-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 331200,
-      "name": "Rosanna",
-      "url": "https://open.spotify.com/track/37BTh5g05cxBIRYMbw8g2T"
     },
     {
       "album": {
@@ -10675,7 +10675,7 @@
       "date_added": "2020-04-25",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 297853,
+      "duration_ms": 297847,
       "name": "The Way It Is",
       "url": "https://open.spotify.com/track/6V50MyHPGhEmwYu0Wdyf0t"
     },
@@ -10925,7 +10925,7 @@
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 357800,
+      "duration_ms": 358807,
       "name": "Thriller",
       "url": "https://open.spotify.com/track/2LlQb7Uoj1kKyGhlkBf9aC"
     },
@@ -11813,7 +11813,7 @@
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 287733,
+      "duration_ms": 291100,
       "name": "We Didn't Start the Fire",
       "url": "https://open.spotify.com/track/3Cx4yrFaX8CeHwBMReOWXI"
     },

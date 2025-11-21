@@ -4,7 +4,7 @@
 
 > From then to now, these songs will forever be classics.
 
-28 songs - 2 hr 6 min
+28 songs - 2 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Jolene](https://open.spotify.com/track/5fdhThPDe6jQQDqCyWrdAn) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene \(Expanded Edition\)](https://open.spotify.com/album/2v2iR6vtrLVTyiNIEsv5Sg) | 2:41 | 2015-07-23 |  |
 | [Landslide](https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 3:19 | 2015-07-23 |  |
 | [Layla \- Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 1999 Remaster](https://open.spotify.com/track/6YEOmCsXSk9ZPE0FkcCiuQ) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Clapton Chronicles: The Best of Eric Clapton](https://open.spotify.com/album/6FCakQJ6z6TF0y0qkHYKgy) | 4:20 | 2015-07-23 |  |
-| [Like a Rolling Stone](https://open.spotify.com/track/3AhXZa8sUQht0UEdBJgpGc) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Highway 61 Revisited](https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD) | 6:09 | 2015-07-23 |  |
+| [Like a Rolling Stone](https://open.spotify.com/track/3AhXZa8sUQht0UEdBJgpGc) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Highway 61 Revisited](https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD) | 6:11 | 2015-07-23 |  |
 | [Maggie May \- Remastered Version](https://open.spotify.com/track/1r3kj1yMff7ilIsR7hpvUo) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Definitive Rod Stewart](https://open.spotify.com/album/16B8kK28QgKIYTb7XyLMuj) | 5:45 | 2015-07-23 |  |
 | [Midnight Rider](https://open.spotify.com/track/7egyR1d4Xmr1TsmpJct9bL) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [The Best Of The Allman Brothers 20th Century Masters The Millennium Collection](https://open.spotify.com/album/7a1xwcbhy0AYoLM8f2ikqc) | 2:58 | 2015-07-23 |  |
 | [Our House](https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv) | [Crosby, Stills, Nash & Young](https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ) | [Deja Vu](https://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb) | 2:59 | 2015-07-23 |  |
@@ -31,7 +31,7 @@
 | [The Birds Of St\. Marks](https://open.spotify.com/track/1ehvlikzBocGgyyQqZZ8hI) | [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [Standing In The Breach](https://open.spotify.com/album/030uLS1xIKmntvGwjggTcv) | 4:22 | 2015-07-23 |  |
 | [The Long Way Around](https://open.spotify.com/track/4BQXwbdfsY9dBnJiFSPXQu) | [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [Standing In The Breach](https://open.spotify.com/album/030uLS1xIKmntvGwjggTcv) | 6:24 | 2015-07-23 |  |
 | [The Long Way Around \- Live From Spotify NYC](https://open.spotify.com/track/2CSnF2PusRvto5TKPsGACZ) | [Jackson Browne](https://open.spotify.com/artist/4SJcsn7wfNixmcK761J95u) | [Spotify Sessions](https://open.spotify.com/album/4uT1EEYffapC0OFhc8Bmwr) | 8:28 | 2015-07-23 |  |
-| [The Times They Are A\-Changin'](https://open.spotify.com/track/52vA3CYKZqZVdQnzRrdZt6) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Times They Are A\-Changin'](https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS) | 3:12 | 2015-07-23 |  |
+| [The Times They Are A\-Changin'](https://open.spotify.com/track/52vA3CYKZqZVdQnzRrdZt6) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Times They Are A\-Changin'](https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS) | 3:17 | 2015-07-23 |  |
 | [The Traveling Kind](https://open.spotify.com/track/6lGmKc3sNITRFVmtp2xvEx) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP), [Rodney Crowell](https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY) | [The Traveling Kind](https://open.spotify.com/album/1G0R4FDSV8aCIGcO6vSdL3) | 3:40 | 2015-07-23 |  |
 | [Today Today Today](https://open.spotify.com/track/353SNIIxSolCN1Uhae1EJJ) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Today Today Today](https://open.spotify.com/album/4hIwvgRdkOWKcktaqciSt5) | 3:09 | 2015-07-23 |  |
 | [Wild Horses \- Acoustic Version](https://open.spotify.com/track/5kEg9ZuAHEe7UeOYJk8ldF) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Wild Horses \(Acoustic Version\)](https://open.spotify.com/album/3J7MdrfzVZuf9KyO1WAbGN) | 5:47 | 2015-07-23 |  |

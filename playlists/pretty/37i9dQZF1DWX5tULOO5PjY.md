@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX5tULOO5PjY.md) - [plain]
 
 > 80s electronic boogie and post\-disco
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,527 likes - 60 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,533 likes - 60 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX5tULOO5PjY.md) - [plain]
 | 37 | [First True Love Affair \- Original](https://open.spotify.com/track/2GzUvuzlQXrNfrFVFSmbPz) | [Jimmy Ross](https://open.spotify.com/artist/0FR28XfyaJnxGnoDFHcktX) | [First True Love Affair \(LP\)](https://open.spotify.com/album/5op53IdBGt1sfjgAi9y3jh) | 6:16 |
 | 38 | [Prime Time](https://open.spotify.com/track/26687Np3CZqECjKXC4t9oM) | [Sylvia St\. James](https://open.spotify.com/artist/3nwXr85ukVO5QWzi8C93ie) | [Echoes And Images](https://open.spotify.com/album/3vtWgVv00F4JaKznKwtDm5) | 4:24 |
 | 39 | [I'm Ready](https://open.spotify.com/track/4ipXFsSBklGJ804zdXemVA) | [Kano](https://open.spotify.com/artist/24DinDXSaOyHPz3JhdL9Qb) | [Kano](https://open.spotify.com/album/7IM0bm2zjWEY0vAxte6UXz) | 7:12 |
-| 40 | [Every Girl \(Wants My Guy\)](https://open.spotify.com/track/2xA9V7lbVClpuGhsU7SqIz) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Get It Right](https://open.spotify.com/album/0Pe124sDVootFFmCMhqeHO) | 6:32 |
+| 40 | [Every Girl \(Wants My Guy\)](https://open.spotify.com/track/2xA9V7lbVClpuGhsU7SqIz) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Get It Right](https://open.spotify.com/album/0Pe124sDVootFFmCMhqeHO) | 6:29 |
 | 41 | [Let's Celebrate](https://open.spotify.com/track/3nf3xKlene4BpKqaCrdtwQ) | [Skyy](https://open.spotify.com/artist/5uFqO7FceiE84xjEjFtQLX) | [Skyy Line](https://open.spotify.com/album/3BxUhOcYaVNF3w4kL1YamJ) | 5:33 |
 | 42 | [Snap Shot](https://open.spotify.com/track/6GXvfVC49IW9VOHdsAUUb1) | [Slave](https://open.spotify.com/artist/5mtKpqeeaFavW15yIX4h5e) | [Show Time](https://open.spotify.com/album/4StsRPkqvRnZLIqE9vWXLC) | 4:42 |
 | 43 | [I'm Not Gonna Let You \- 12" Extended Version](https://open.spotify.com/track/15fNSFY3AwdwyqfpEgjPVZ) | [Colonel Abrams](https://open.spotify.com/artist/20B6eaXUEN0NOvJqdebu7L), [Timmy Regisford](https://open.spotify.com/artist/4L8Ca9KjtTXUr9iD0s6asH) | [Colonel Abrams \(Expanded Edition\)](https://open.spotify.com/album/5iCKsFEYmyNpCgLsk8xQhd) | 6:47 |

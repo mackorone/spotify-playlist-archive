@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Metrik",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: A Little Sound",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -4429,6 +4429,28 @@
     },
     {
       "album": {
+        "name": "Corner",
+        "url": "https://open.spotify.com/album/7LIdJo9owJofjVeNaF8ig4"
+      },
+      "artists": [
+        {
+          "name": "Riko Dan",
+          "url": "https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y"
+        },
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136551,
+      "name": "Corner",
+      "url": "https://open.spotify.com/track/6MQnpSXLfCmMcA9xfU3O2o"
+    },
+    {
+      "album": {
         "name": "The Resonance I",
         "url": "https://open.spotify.com/album/4sHhgA2VkNByHjNX1ssCzC"
       },
@@ -5164,6 +5186,28 @@
       "duration_ms": 264288,
       "name": "Desanka",
       "url": "https://open.spotify.com/track/0OFrRjcEobUV3U0ifwGS6I"
+    },
+    {
+      "album": {
+        "name": "Devotion",
+        "url": "https://open.spotify.com/album/71sH8ZDzymxmy8N0xHbfRL"
+      },
+      "artists": [
+        {
+          "name": "[IVY]",
+          "url": "https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw"
+        },
+        {
+          "name": "Adalaide Adams",
+          "url": "https://open.spotify.com/artist/2DPd9FRFSPPDdESOqZvWoC"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193793,
+      "name": "Devotion",
+      "url": "https://open.spotify.com/track/3pZiQdpk32YuxLSU3RTzD2"
     },
     {
       "album": {
@@ -6082,6 +6126,24 @@
       "duration_ms": 197241,
       "name": "Elemental",
       "url": "https://open.spotify.com/track/2yx33cf8wV4gCCVip2vKMo"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193103,
+      "name": "Elevate",
+      "url": "https://open.spotify.com/track/7jIIaLkLcxyn9z2GvQi1Se"
     },
     {
       "album": {
@@ -10299,6 +10361,24 @@
     },
     {
       "album": {
+        "name": "In The Wild",
+        "url": "https://open.spotify.com/album/3RWogqgYqXE2o8KNUQvBuc"
+      },
+      "artists": [
+        {
+          "name": "goddard.",
+          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149065,
+      "name": "In The Wild",
+      "url": "https://open.spotify.com/track/6qdawS2KDh5yAeojdhjYMi"
+    },
+    {
+      "album": {
         "name": "Indestructible",
         "url": "https://open.spotify.com/album/11azJx0sq9HvxhC47bJRQ7"
       },
@@ -10946,7 +11026,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 237241,
       "name": "Klaxon",
       "url": "https://open.spotify.com/track/2yrEhvz214GnCzJP9Mofoc"
@@ -11902,7 +11982,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 147024,
       "name": "Lonestar",
       "url": "https://open.spotify.com/track/2ndV029Znu1kWenhjb4aNu"
@@ -12138,6 +12218,24 @@
       "duration_ms": 277750,
       "name": "Lost - Break Remix",
       "url": "https://open.spotify.com/track/4BS94iBVxEcnD4wS08kHTs"
+    },
+    {
+      "album": {
+        "name": "Lost Connection",
+        "url": "https://open.spotify.com/album/1tl1psQ4jb1OuLZqgQpK0I"
+      },
+      "artists": [
+        {
+          "name": "Alix Perez",
+          "url": "https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273092,
+      "name": "Lost Connection",
+      "url": "https://open.spotify.com/track/2ImlThxyALDI95nbF83lVA"
     },
     {
       "album": {
@@ -14087,6 +14185,28 @@
     },
     {
       "album": {
+        "name": "No Comment",
+        "url": "https://open.spotify.com/album/5jMW8JRRvthPDR7qQLNMqb"
+      },
+      "artists": [
+        {
+          "name": "KNEECAP",
+          "url": "https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU"
+        },
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124137,
+      "name": "No Comment",
+      "url": "https://open.spotify.com/track/3VkA16jPKWOs7BIU5AWjyb"
+    },
+    {
+      "album": {
         "name": "No Excuses",
         "url": "https://open.spotify.com/album/1r6fzHMhZcd35ZkpKPRRWE"
       },
@@ -15266,7 +15386,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 154403,
       "name": "Oxide & Neutrino",
       "url": "https://open.spotify.com/track/0Yr728sBhXc6nxKNesJYV4"
@@ -17206,7 +17326,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 143610,
       "name": "Rowdy (BLAOW!)",
       "url": "https://open.spotify.com/track/6Gkum3tDLFXTAUktaV6yh6"
@@ -18319,6 +18439,36 @@
     },
     {
       "album": {
+        "name": "Silence (Dimension Remix)",
+        "url": "https://open.spotify.com/album/7amYzRwBHYed8cgbE3fyKn"
+      },
+      "artists": [
+        {
+          "name": "Delerium",
+          "url": "https://open.spotify.com/artist/0IUq1plF3ON4Fboj1bE6kN"
+        },
+        {
+          "name": "Sarah McLachlan",
+          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
+        },
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Dimension",
+          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247586,
+      "name": "Silence - Dimension Remix",
+      "url": "https://open.spotify.com/track/2AUVVfU9CmmbWcudIAJ5vD"
+    },
+    {
+      "album": {
         "name": "Silence Is Loud",
         "url": "https://open.spotify.com/album/1QdwmjHJVOXZe9gs6NCkTe"
       },
@@ -18744,7 +18894,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 227586,
       "name": "So Many Colours",
       "url": "https://open.spotify.com/track/0HIpQEomgZmd5Kt1XHa4qu"
@@ -20764,7 +20914,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 231586,
       "name": "The Samurai",
       "url": "https://open.spotify.com/track/1CfQ6NhnjR4JO9wnHKzleb"
@@ -21022,7 +21172,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 246857,
       "name": "This Time Around",
       "url": "https://open.spotify.com/track/3czjLefLunLMZR2BceyvlQ"
@@ -22871,6 +23021,32 @@
     },
     {
       "album": {
+        "name": "Where We Are",
+        "url": "https://open.spotify.com/album/6VJHpbzPIQvNKLuNnoRF1J"
+      },
+      "artists": [
+        {
+          "name": "Gabriella Bongo",
+          "url": "https://open.spotify.com/artist/5RZaAT4U5JzUOAIi7X5h68"
+        },
+        {
+          "name": "Dogger",
+          "url": "https://open.spotify.com/artist/79gz89B3EUt31SNQVQW1tU"
+        },
+        {
+          "name": "Sam McAlister",
+          "url": "https://open.spotify.com/artist/3MW8lJClVMdw2WaAQq8umr"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238670,
+      "name": "Where We Are",
+      "url": "https://open.spotify.com/track/2bEbT1tdIprmcLPHyyXSsn"
+    },
+    {
+      "album": {
         "name": "Where\u2019s Your Head At (1991 Remix)",
         "url": "https://open.spotify.com/album/2AxKJIxwSnaTVgAghY524X"
       },
@@ -23396,7 +23572,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 182403,
       "name": "Wrong",
       "url": "https://open.spotify.com/track/7mTjiqwdq0Q0j3YKOXxcFU"

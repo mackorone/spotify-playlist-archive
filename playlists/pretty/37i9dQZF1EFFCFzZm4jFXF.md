@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/74wXW513Ovy4ux507Wo67A">Brad Mair</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95 likes - 117 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 96 likes - 117 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 85 | [Turn Off The Rain](https://open.spotify.com/track/7tI7ojD4HsrgsMGoloIm80) | [Xenia Ghali](https://open.spotify.com/artist/4iw0Pf0ZeTekpc6yqlGKYE) | [Turn Off The Rain](https://open.spotify.com/album/1EYQFHfkKdrgdltWOlRnzp) | 3:39 |
 | 86 | [Something You Don't Know](https://open.spotify.com/track/4O3x2EvBVMP6PG4AviV3mQ) | [BETSIE GØLD](https://open.spotify.com/artist/5nE8CAd519jLpwMX2YgFMK) | [Songs from DLS](https://open.spotify.com/album/3Tj9DbqbE3OjeuYCrqWoO6) | 2:35 |
 | 87 | [Cold Winter](https://open.spotify.com/track/2roIpXQCwjCcPC9kwh8V7x) | [Keels](https://open.spotify.com/artist/1Y2eFp5L0YHdho5WsGWSzU) | [Cold Winter](https://open.spotify.com/album/1LVIZa0uPw9qAsjdQVd05m) | 3:20 |
-| 88 | [Matters To Me](https://open.spotify.com/track/1xH7om5np5FyqNF5cnXYzz) | [Connie Talbot](https://open.spotify.com/artist/6v6kEdFKqKZ2T7XjjBD9um) | [Matters To Me](https://open.spotify.com/album/4srls6038abMh9Mw2jS3Yg) | 3:49 |
-| 89 | [Easier To Die](https://open.spotify.com/track/2Bo0CcIbDjQBnltFtxmUT9) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Easier To Die](https://open.spotify.com/album/15pqle05tggYZBUOBHz4PK) | 2:19 |
+| 88 | [Easier To Die](https://open.spotify.com/track/2Bo0CcIbDjQBnltFtxmUT9) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Easier To Die](https://open.spotify.com/album/15pqle05tggYZBUOBHz4PK) | 2:19 |
+| 89 | [Matters To Me](https://open.spotify.com/track/1xH7om5np5FyqNF5cnXYzz) | [Connie Talbot](https://open.spotify.com/artist/6v6kEdFKqKZ2T7XjjBD9um) | [Matters To Me](https://open.spotify.com/album/4srls6038abMh9Mw2jS3Yg) | 3:49 |
 | 90 | [Rum & Red Bull](https://open.spotify.com/track/5mdtecC5n9oiC1WIPJDGa6) | [The Tailormade](https://open.spotify.com/artist/7dD3Cn2hLHo6WxrMOqk7c3) | [Rum & Red Bull](https://open.spotify.com/album/3BMpaaMfhpfLTl8cTJ8mDK) | 3:26 |
 | 91 | [Like I Do](https://open.spotify.com/track/2NHpE5U4QNOVCdVmY7FtSL) | [Alex Skrindo](https://open.spotify.com/artist/5LnNAR8Bhv2vJCJzBnCw9P), [SMBDY](https://open.spotify.com/artist/3EVIvUOdQq6byU8fIljO2e) | [Like I Do](https://open.spotify.com/album/6mr0iJfREskCb9S87Rfdgp) | 2:30 |
 | 92 | [Tears from the Ice River](https://open.spotify.com/track/3riAEVASppsbo1wZBTvxmd) | [Terry Zhong](https://open.spotify.com/artist/6gmZPYIcqdjmkauB2krvSg), [Zkaaai](https://open.spotify.com/artist/6RB2RIXIqFLubGeBD7u4gK) | [Tears from the Ice River](https://open.spotify.com/album/7uPdSeYHlYPhJmRPyGgC8P) | 2:41 |
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 116 | [Pon Me](https://open.spotify.com/track/6gNgcVrZceb97UQFZbKPCk) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 4:15 |
 | 117 | [Find You](https://open.spotify.com/track/0wtNmuETEesYuB73ni1tZU) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 3:48 |
 
-Snapshot ID: `AcCCSAAAAABV8yFTdEHbA7mb58Pk7e/u`
+Snapshot ID: `AcCH6AAAAACvF9wykXNTzC1RhuWwsSIA`

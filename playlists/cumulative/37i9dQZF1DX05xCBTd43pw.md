@@ -2,14 +2,14 @@
 
 ### [Swiss Made](https://open.spotify.com/playlist/37i9dQZF1DX05xCBTd43pw)
 
-> Grüezi! This is 100% made in Switzerland\.  Cover: Linda Elys
+> Grüezi! This is 100% made in Switzerland\.  Cover: Zoë Më
 
-445 songs - 22 hr 58 min
+448 songs - 23 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(fernweh\)](https://open.spotify.com/track/7veAymqTvLUvcQwixp6aRI) | [Gigi](https://open.spotify.com/artist/4WHIwrxGzplAND7Cgs7aCh) | [Hinterem Mond](https://open.spotify.com/album/5Qe6ceY5yPGV5e40FuKjaR) | 2:55 | 2025-05-08 | 2025-05-16 |
-| [13 Juwele](https://open.spotify.com/track/1qNioJrOIFUj3oTZiI52up) | [Steff la Cheffe](https://open.spotify.com/artist/0Wz7fR8K35NKtz7of2BdIU) | [13 Juwele](https://open.spotify.com/album/2uKIdayCMdHqX0VnmfhKyA) | 2:49 | 2025-11-13 |  |
+| [13 Juwele](https://open.spotify.com/track/1qNioJrOIFUj3oTZiI52up) | [Steff la Cheffe](https://open.spotify.com/artist/0Wz7fR8K35NKtz7of2BdIU) | [13 Juwele](https://open.spotify.com/album/2uKIdayCMdHqX0VnmfhKyA) | 2:49 | 2025-11-13 | 2025-11-21 |
 | [1x1](https://open.spotify.com/track/5NaUNpm1Qjw90o1k0MUkKN) | [Melodiesinfonie](https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd), [OG Florin](https://open.spotify.com/artist/5OxRSgisvdKcNLUsvCzZc9) | [1x1](https://open.spotify.com/album/7nrMFMyw0vcahCA98Djdi3) | 3:04 | 2025-05-15 | 2025-05-23 |
 | [2024 FREESTYLE](https://open.spotify.com/track/4kCCkzbocx5lvmceKxgIWC) | [Cosmo12](https://open.spotify.com/artist/0U4D0tyUIPeF0ithTTrYKK) | [2024 FREESTYLE](https://open.spotify.com/album/0MVVqc5fZFIrv1RAyE5QyH) | 2:33 | 2025-04-24 | 2025-05-02 |
 | [2560](https://open.spotify.com/track/20hvdVSrSkh8wZZKSVBH6o) | [James Gruntz](https://open.spotify.com/artist/3vyUTiW9vClzOUXCHVNWsy) | [2560](https://open.spotify.com/album/2dr4Cl4sfBrLoqvFzZcwdv) | 3:18 | 2024-07-04 | 2024-11-10 |
@@ -71,7 +71,7 @@
 | [Called In Advance](https://open.spotify.com/track/2GNRbMrtDoplUQ8jExQrwa) | [To Athena](https://open.spotify.com/artist/3sdOf3sXS7uXLIaPQL33fl) | [The Movie](https://open.spotify.com/album/2Hl58qQYSxGfAYb9dNIvLi) | 5:10 | 2025-05-01 | 2025-05-09 |
 | [Campari Soda](https://open.spotify.com/track/28Iqj8A8wvAU0daTlxYZsf) | [Taxi](https://open.spotify.com/artist/2A5SG2ci4aR0u6jLQ4yNbf) | [Campari Soda](https://open.spotify.com/album/4Lt2lCW8f7k42aNbSOhBJE) | 3:12 | 2025-04-17 | 2025-04-25 |
 | [Can](https://open.spotify.com/track/5WgC4W0XtrOaUK63WqsDAy) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [Can](https://open.spotify.com/album/0aWzHhNvUVfII5KkLsvLy9) | 3:21 | 2025-02-27 |  |
-| [Can't Be Loved](https://open.spotify.com/track/69H5EfyNRLIKd0WAPNQr0T) | [Bastian Baker](https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC) | [Can't Be Loved](https://open.spotify.com/album/5YmdC1mjV30uWAUfqT8uQo) | 2:51 | 2024-06-27 |  |
+| [Can't Be Loved](https://open.spotify.com/track/69H5EfyNRLIKd0WAPNQr0T) | [Bastian Baker](https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC) | [Can't Be Loved](https://open.spotify.com/album/5YmdC1mjV30uWAUfqT8uQo) | 2:51 | 2024-06-27 | 2025-11-21 |
 | [Caroline](https://open.spotify.com/track/0Y3OX3KZVsyG23qyV1JgYp) | [Nickless](https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea) | [Caroline](https://open.spotify.com/album/2t6x3lyAeeHDtPG8gfguE8) | 3:22 | 2025-05-22 |  |
 | [Casanova](https://open.spotify.com/track/4EhyAiwViE9iDnp2mVcOfV) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [Unexplainable](https://open.spotify.com/album/7j4sidrwHWHhP1bmdS3kaG) | 3:02 | 2025-05-16 | 2025-05-23 |
 | [Casanova](https://open.spotify.com/track/7DKqquL8njykv59YgLtJU9) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [Casanova](https://open.spotify.com/album/6iELgLhTy8AzINTUH2PQ1c) | 3:02 | 2025-05-22 |  |
@@ -121,7 +121,7 @@
 | [Ehrlich](https://open.spotify.com/track/2CpYkZOMP8Xmac4akYnAxF) | [Baschi](https://open.spotify.com/artist/6XzAV5lONpTgoSJDsF2Ubz) | [Ehrlich](https://open.spotify.com/album/3SxtFi80kNDFfnjSHBoZe3) | 3:50 | 2024-06-27 | 2025-09-13 |
 | [Ein bisschen Frieden](https://open.spotify.com/track/1NTjTztpbbrpbrkVLppj6c) | [San Silvan](https://open.spotify.com/artist/4MY0xfcyD9dLgbj27g59XT), [Steiner & Madlaina](https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg) | [Ein bisschen Frieden](https://open.spotify.com/album/7n5pZ8QBFhwjjft94495tQ) | 3:52 | 2024-12-20 | 2025-03-08 |
 | [Eisbär](https://open.spotify.com/track/6dO3t1e3pb7sxyDQbDyVNX) | [Grauzone](https://open.spotify.com/artist/2oNZUW4sR0AGXRyPExtFnW) | [Eisbär](https://open.spotify.com/album/6T7XaTroien9MaoWJZiUdE) | 4:48 | 2025-05-15 | 2025-05-23 |
-| [Emily](https://open.spotify.com/track/4cpbe6NFv4D6ZhhseFxzbn) | [Lost in Lona](https://open.spotify.com/artist/6GpX7OGPoZNG1GMbtbiOPD) | [The Killer](https://open.spotify.com/album/42fS5G4YXzoi4iz2pztDLP) | 3:43 | 2025-11-13 |  |
+| [Emily](https://open.spotify.com/track/4cpbe6NFv4D6ZhhseFxzbn) | [Lost in Lona](https://open.spotify.com/artist/6GpX7OGPoZNG1GMbtbiOPD) | [The Killer](https://open.spotify.com/album/42fS5G4YXzoi4iz2pztDLP) | 3:43 | 2025-11-13 | 2025-11-21 |
 | [En Lea](https://open.spotify.com/track/2js5S4h0pIFeHX0WLDOxwW) | [Muddy Monk](https://open.spotify.com/artist/5rv6OYiDFLm0gQ8wbihOib) | [Longue Ride](https://open.spotify.com/album/0e64skKjTvndxBV6BOea3d) | 3:51 | 2025-05-15 |  |
 | [ENEMY](https://open.spotify.com/track/2ml2U1MZUnXfnHPghzQZ7q) | [L Loko](https://open.spotify.com/artist/6iI54kPtuDGxFe6T3eIR53), [Drini](https://open.spotify.com/artist/5tRlhg6J2lBxI7Qb4IfL00) | [ENEMY](https://open.spotify.com/album/4PhWAyBtcNjqKvuATjgYMc) | 2:32 | 2025-03-07 | 2025-06-03 |
 | [Enough](https://open.spotify.com/track/0vgXEftdFm12zERrMkLqzH) | [Jared Lembo](https://open.spotify.com/artist/7m40p3LDka0BxsiX0tZT9g) | [Enough](https://open.spotify.com/album/40PbD4AUnhOJQD1y1qKlOh) | 2:40 | 2024-10-11 | 2024-12-08 |
@@ -166,6 +166,7 @@
 | [Ha ke Ahnig](https://open.spotify.com/track/0wLBYqQieV6Xr5oqA99LDb) | [Steff la Cheffe](https://open.spotify.com/artist/0Wz7fR8K35NKtz7of2BdIU) | [Vögu zum Geburtstag](https://open.spotify.com/album/1SI16c719Ua8voBc1u5xWc) | 3:22 | 2025-05-08 | 2025-05-16 |
 | [haeb sorg](https://open.spotify.com/track/2T0C6Wb3A1hLYUMBWzsgnh) | [Hotel Samar](https://open.spotify.com/artist/5hTdjvFe6LAe3J1bni2EmD) | [24 LOST](https://open.spotify.com/album/5Ztkfu449nYasWG1z4esui) | 2:05 | 2025-04-24 | 2025-05-02 |
 | [half alive](https://open.spotify.com/track/4D97vUbwdhzXDMQi5fu62d) | [Julia Alexa](https://open.spotify.com/artist/0Tw99NzcM3Y2t7Q2q88Xss) | [bandaids](https://open.spotify.com/album/2rs0D9ZGI8H7Z3PqkqSjWU) | 2:09 | 2024-08-05 | 2024-08-24 |
+| [Hamsterrad Tristesse](https://open.spotify.com/track/36NZxmvPCbT7RAyyKiC4TA) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN) | [](https://open.spotify.com/album/null) | 3:06 | 2025-11-20 |  |
 | [Happy Here](https://open.spotify.com/track/2HmUgFWhCMs44ONcQAFhkm) | [Remady](https://open.spotify.com/artist/3JxNeLgMuJI0DEmDt9dLzc), [MaWayy](https://open.spotify.com/artist/6p6hgLendP25D8QRQINsPp) | [Happy Here](https://open.spotify.com/album/5SoVqbsyAO0Qplj4hxT7Z9) | 2:54 | 2025-03-21 |  |
 | [Heal Me](https://open.spotify.com/track/2eZ6q2HQGaE3jB4VTDHCBV) | [Argyle](https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg) | [Heal Me](https://open.spotify.com/album/4o59BEGqiVMNsCOXaLFhfC) | 3:35 | 2024-10-18 |  |
 | [Hear Me](https://open.spotify.com/track/5HqTsHkvjPtRSzv1i0CJ51) | [Noemi Beza](https://open.spotify.com/artist/6VxYXAGO7LTKvpNv2n93TD) | [Hear Me](https://open.spotify.com/album/4H4yvoBW8CEkKUZUXtmXZL) | 3:26 | 2025-10-16 |  |
@@ -362,6 +363,7 @@
 | [Softly Speaking](https://open.spotify.com/track/7deNy580xvtMQzvzXhlBwF) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [Softly Speaking](https://open.spotify.com/album/65rLsfsMNCgtlFE7D2790y) | 3:46 | 2024-06-27 |  |
 | [Sombrero](https://open.spotify.com/track/6doSTHTFkrSa9o3gMDKFWN) | [DJ BoBo](https://open.spotify.com/artist/14dmbYen0AciYxu5n4Fkpd) | [Sombrero](https://open.spotify.com/album/6fxag6Jsr29s01KXH2jcRi) | 3:01 | 2025-10-16 |  |
 | [Somebody I Don't Know](https://open.spotify.com/track/6K3SFxoNLfiD7TzSPOvAhe) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Smalltown Boy](https://open.spotify.com/album/5S5LYaDfn0aYIJw2W8vWgm) | 3:05 | 2025-02-27 | 2025-04-18 |
+| [Somebody Loves You](https://open.spotify.com/track/6R6WMZllL7ZxfRjrK8v1sn) | [Amaya Gloor](https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x) | [](https://open.spotify.com/album/null) | 3:01 | 2025-11-20 |  |
 | [Someone](https://open.spotify.com/track/0qUS7YhYhGM9Zrv0wdssC0) | [Linda Wolf](https://open.spotify.com/artist/5k0bwTI10kfhSyDkg0fvEo) | [What if It All Works Out](https://open.spotify.com/album/7hko53MusmAbvlXYlFtIxA) | 3:33 | 2025-02-07 | 2025-09-13 |
 | [Something Casual](https://open.spotify.com/track/3w3dmuLrKGTMg7ce3O4FYc) | [Pina Palau](https://open.spotify.com/artist/6Ktx4W0UWEkRQKxhkIUFvP) | [Something Casual](https://open.spotify.com/album/1l63h2CYnKWPNu7Z2OiWBH) | 3:29 | 2025-11-06 |  |
 | [Something to Feel](https://open.spotify.com/track/1ASSFuZqeOVaUxaZYRslF1) | [Noah Parks](https://open.spotify.com/artist/1W47ZQbSjqKQiyBDOtlr0p) | [Something to Feel](https://open.spotify.com/album/6Cc2Sey7WrzrpyhR4h0DSP) | 3:19 | 2025-03-21 | 2025-06-14 |
@@ -393,6 +395,7 @@
 | [The World \(AR\)](https://open.spotify.com/track/7yNz3NhMVoWP4g7zqdEvns) | [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp) | [The World \(AR\)](https://open.spotify.com/album/0Z3Y8pPAKhiJpVZTd1p8t6) | 3:47 | 2025-11-06 |  |
 | [The Wrong Cards](https://open.spotify.com/track/3rdSYchPn7ppUx9wQvsdxx) | [Lost in Lona](https://open.spotify.com/artist/6GpX7OGPoZNG1GMbtbiOPD) | [The Wrong Cards](https://open.spotify.com/album/16geXJeWAs3qlF4dgPRNkA) | 2:54 | 2025-06-05 |  |
 | [The Years of the in Between](https://open.spotify.com/track/1pHCmwclPk8KYrOgTZURp3) | [Nick Mellow](https://open.spotify.com/artist/2Ltz77e0WzkbszFytIy6SY) | [The Years of the in Between](https://open.spotify.com/album/3QrpI4Li79r7iWo0xGKxuR) | 3:01 | 2025-09-19 | 2025-09-26 |
+| [There For You](https://open.spotify.com/track/1gKgTg56snx9gfwyuJFogz) | [Linda Elys](https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf) | [There For You](https://open.spotify.com/album/1jPj2x2a2UJCRuTR95u3Vv) | 3:25 | 2025-11-20 |  |
 | [theremin](https://open.spotify.com/track/0qqtydxO4KMSnhww9PlrqQ) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [theremin](https://open.spotify.com/album/7pYNdcVuPsnHE6KzsG33a1) | 2:41 | 2024-11-01 | 2025-01-12 |
 | [TikTak](https://open.spotify.com/track/0XAowYuRYwsuEZUtNhBsA2) | [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [TikTak](https://open.spotify.com/album/4r7bzEFYlW0JelO4TOVCOk) | 2:43 | 2024-06-27 | 2024-09-28 |
 | [Time Lost](https://open.spotify.com/track/2Rw5ktfYbZvrqT2O0uMPA7) | [Junes](https://open.spotify.com/artist/5PiZjZsPnzVtfoF3m3L0uv) | [Of Love and Loss](https://open.spotify.com/album/7eJIpv68HMlBpqViTvCgxv) | 4:19 | 2025-06-05 | 2025-08-14 |

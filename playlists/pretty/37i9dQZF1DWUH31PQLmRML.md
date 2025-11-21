@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUH31PQLmRML.md) - [plain]
 
 > pieces of u, curated by Kizzy Edgell\. Angst and romance all disjointed\. Heartstopper S3 now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,542 likes - 43 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,551 likes - 43 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUH31PQLmRML.md) - [plain]
 | 22 | [Satin](https://open.spotify.com/track/6ONlNlC1ctTH7pVogMx8kF) | [Piston Dreams](https://open.spotify.com/artist/2qZDrkeR9vIvp7BWO7vV9z) | [Satin](https://open.spotify.com/album/2mlyZQURGpAGIIW5y9MEOS) | 2:02 |
 | 23 | [pigs fly](https://open.spotify.com/track/1wxT2v1VTtGKrbJ2f3zpPp) | [billie\-angela](https://open.spotify.com/artist/1USzYJ98DrLK7yVTyS9Zpm) | [pigs fly](https://open.spotify.com/album/4SivwVita0ik0ZDsUumcXx) | 2:25 |
 | 24 | [Before the World Was Big](https://open.spotify.com/track/2HhwA6IepYwA8n87dcUpgH) | [Girlpool](https://open.spotify.com/artist/3BYXi96LqI8TwNljFKE0DZ) | [Before the World Was Big](https://open.spotify.com/album/64c8mHzZp8W5ihNeEwcISf) | 2:21 |
-| 25 | [Perfect Day](https://open.spotify.com/track/4TOMI010Sd4ZAX4aZ5TS85) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Transformer](https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St) | 3:45 |
+| 25 | [Perfect Day](https://open.spotify.com/track/4TOMI010Sd4ZAX4aZ5TS85) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Transformer](https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St) | 3:46 |
 | 26 | [Pale Blue Eyes](https://open.spotify.com/track/11VwZwNF29HrqwalYUMitb) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC) | [The Velvet Underground \(45th Anniversary\)](https://open.spotify.com/album/2HOf3Nb44Us8U9oEtKLSrX) | 5:39 |
 | 27 | [Goodnight Dad I Love You](https://open.spotify.com/track/013L1ZodWo9Ax2g9LejC9O) | [Wishing](https://open.spotify.com/artist/4SPlQqq2yxd4ynKRnkWqy7) | [None of This Was Your Fault](https://open.spotify.com/album/4daTdHnYUgzEWuMrOkLvvM) | 2:43 |
 | 28 | [Suicide Hotline](https://open.spotify.com/track/5z1Wz62P1fiKbsdbrL3H0R) | [The Prettiots](https://open.spotify.com/artist/3HZKrAwhyF92WxiZsUCaSs) | [Funs Cool](https://open.spotify.com/album/2ByVPn2qtdXBuwi7nFnnxS) | 3:50 |

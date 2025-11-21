@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 
 ### [The Rock List](https://open.spotify.com/playlist/37i9dQZF1DX4DZAVUAwHMT)
 
-> The UK's biggest rock playlist\. Cover: Trash Boat
+> The UK's biggest rock playlist\. Cover: Bad Omens
 
-[Spotify](https://open.spotify.com/user/spotify) - 768,499 likes - 80 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 768,447 likes - 80 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,34 +26,34 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 | 16 | [Cherry](https://open.spotify.com/track/6arjfkXcKsLhvEtb9gKLc1) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Cherry](https://open.spotify.com/album/0Lav96JqaZmqMCbryXUPgE) | 2:08 |
 | 17 | [Haze](https://open.spotify.com/track/7pmOVNGWu1lRBWVpYTcKH1) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Ellie](https://open.spotify.com/artist/6HUjt5rB3ZotTFN4BA2a9S) | [Tremor](https://open.spotify.com/album/2Mf3c9BbAcMOybdL2FTkkJ) | 3:56 |
 | 18 | [Pull Like a Dog](https://open.spotify.com/track/70zu9D0jl2JivONuazwrcM) | [The Scratch](https://open.spotify.com/artist/6BCpGC485tSshwjemmeAmd) | [Pull Like a Dog](https://open.spotify.com/album/5dkb8Ecc4DNu2t7grbU6di) | 3:09 |
-| 19 | [Making Love to Morgan Wallen](https://open.spotify.com/track/7Ki2fTfTdDhqY2AY8muY5z) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Making Love to Morgan Wallen](https://open.spotify.com/album/5gnSTqbBS89Ekjl6urNeyM) | 4:09 |
+| 19 | [Left For Good](https://open.spotify.com/track/4pjSe7n2609YnMWnrJ3OVJ) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Left For Good](https://open.spotify.com/album/3i3GvVgRCQzAYbMeWUSzMq) | 3:53 |
 | 20 | [Second Best](https://open.spotify.com/track/3maVS3WFsYND7s97LJQnzF) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Second Best](https://open.spotify.com/album/6wuwiiAyhdR1B8fuW7Entm) | 3:31 |
 | 21 | [Stay In Your Lane](https://open.spotify.com/track/57PrllRlE4s9GIKnEzUcYv) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Stay In Your Lane](https://open.spotify.com/album/5BtTOMAFKV3byS0EidtQnc) | 3:14 |
-| 22 | [My Only Angel](https://open.spotify.com/track/1n8GIWPeFqj36RO1bPfNdd) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [My Only Angel](https://open.spotify.com/album/246sRdKNqiYUkcpHfQRP4f) | 4:15 |
+| 22 | [Wild Woman](https://open.spotify.com/track/1XcZZwyoLwwF3dISFQe0h6) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [](https://open.spotify.com/album/null) | 3:35 |
 | 23 | [PLAINTIVE NATIVE](https://open.spotify.com/track/752jJf80yhDnt7K7dTfTnO) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [PLAINTIVE NATIVE](https://open.spotify.com/album/3o7SM2cImToqXzVwWrfloL) | 3:18 |
 | 24 | [Juice](https://open.spotify.com/track/6VxBEwjCqZuQUxqhSedNFa) | [White Lies](https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910) | [Night Light](https://open.spotify.com/album/28XX98fScUpE4dZN0hIvAR) | 4:29 |
 | 25 | [omni shambles](https://open.spotify.com/track/741HkhBFMxxkmq1uU0VJSz) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [omni shambles](https://open.spotify.com/album/45dbSWXwlSOxhPLcWs1n9X) | 2:16 |
-| 26 | [no cell phones in rehab](https://open.spotify.com/track/5pxTM2hj4HFV8q8YduAAR9) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [no cell phones in rehab](https://open.spotify.com/album/1beGhAPo6Me2t9BweRd49e) | 2:35 |
-| 27 | [NOT OK](https://open.spotify.com/track/0WvP4Q6ZaNT1tvs8LGrf4f) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [NOT OK](https://open.spotify.com/album/07I0d31GGiQ1uWRCEQdZrm) | 3:26 |
-| 28 | [Dionysus](https://open.spotify.com/track/16oBX63zAQRkNeNa2SDYo1) | [PRESIDENT](https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU) | [King Of Terrors](https://open.spotify.com/album/5ea5VKYvbGuPNKEJjDm25t) | 3:02 |
-| 29 | [Sugar \(feat JoJo\)](https://open.spotify.com/track/3lErXBoKmIXTmqVw4CoUmI) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [Everyone's Talking!](https://open.spotify.com/album/02l2P4R1Q2FJX0zAaWr1bl) | 3:00 |
-| 30 | [You Got This](https://open.spotify.com/track/5i220DkgLvh0TW1FpR0ugv) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [You Got This](https://open.spotify.com/album/4RLOgw937LloMOHDQpE2mW) | 3:37 |
-| 31 | [baeside k](https://open.spotify.com/track/4a3kSpXYRn96Vv8JAEswG1) | [They Are Gutting a Body of Water](https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj) | [LOTTO](https://open.spotify.com/album/0RUhLv4D06s1co2Vv6UbdT) | 2:50 |
-| 32 | [The Burning of Cork](https://open.spotify.com/track/4JqBklO9OgzYpzuipVVWzI) | [Cardinals](https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4) | [The Burning of Cork](https://open.spotify.com/album/0hFMKRRwhszGmnjwSRLJdD) | 1:59 |
-| 33 | [WE DONT COUNT](https://open.spotify.com/track/62j2njaZrT6D7hJQPw9HGW) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS), [NINA](https://open.spotify.com/artist/53O83dY0rBGmnM4gV7Sqyr) | [WE DONT COUNT](https://open.spotify.com/album/1deGUuQqxvhUVoNJ2vdYzI) | 2:50 |
-| 34 | [Shoe Size](https://open.spotify.com/track/2UMuclVmetOgBZ4IJRVNYO) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [Shoe Size](https://open.spotify.com/album/4nbTciDdgUFPZWnlGyrLpV) | 2:55 |
-| 35 | [The Scythe](https://open.spotify.com/track/1EQZbseQ6EVX8JdhqyXHhw) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [The Scythe](https://open.spotify.com/album/2MwuyCkxawMNjBf1LwATQW) | 4:45 |
-| 36 | [GUTS](https://open.spotify.com/track/4RjDr8lV9QTdsYTeBKc9Pq) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [GUTS](https://open.spotify.com/album/3EnqXvVQeRaxsBEQf15U7z) | 3:21 |
+| 26 | [Euphoria](https://open.spotify.com/track/4cImz6ALStITqRds60YUmF) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [Euphoria](https://open.spotify.com/album/5Vkg8LIEAj31OeoV66YEN5) | 3:25 |
+| 27 | [no cell phones in rehab](https://open.spotify.com/track/5pxTM2hj4HFV8q8YduAAR9) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [no cell phones in rehab](https://open.spotify.com/album/1beGhAPo6Me2t9BweRd49e) | 2:35 |
+| 28 | [NOT OK](https://open.spotify.com/track/0WvP4Q6ZaNT1tvs8LGrf4f) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [NOT OK](https://open.spotify.com/album/07I0d31GGiQ1uWRCEQdZrm) | 3:26 |
+| 29 | [Dionysus](https://open.spotify.com/track/16oBX63zAQRkNeNa2SDYo1) | [PRESIDENT](https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU) | [King Of Terrors](https://open.spotify.com/album/5ea5VKYvbGuPNKEJjDm25t) | 3:02 |
+| 30 | [Sugar \(feat JoJo\)](https://open.spotify.com/track/3lErXBoKmIXTmqVw4CoUmI) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [Everyone's Talking!](https://open.spotify.com/album/02l2P4R1Q2FJX0zAaWr1bl) | 3:00 |
+| 31 | [You Got This](https://open.spotify.com/track/5i220DkgLvh0TW1FpR0ugv) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [You Got This](https://open.spotify.com/album/4RLOgw937LloMOHDQpE2mW) | 3:37 |
+| 32 | [baeside k](https://open.spotify.com/track/4a3kSpXYRn96Vv8JAEswG1) | [They Are Gutting a Body of Water](https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj) | [LOTTO](https://open.spotify.com/album/0RUhLv4D06s1co2Vv6UbdT) | 2:50 |
+| 33 | [DEAD GIRL WALKING](https://open.spotify.com/track/7MzYunk9yPyDsJjSPTppuH) | [RØRY](https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI) | [DEAD GIRL WALKING](https://open.spotify.com/album/6R64PFVwmrQhursPSFi2u2) | 3:29 |
+| 34 | [The Burning of Cork](https://open.spotify.com/track/4JqBklO9OgzYpzuipVVWzI) | [Cardinals](https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4) | [The Burning of Cork](https://open.spotify.com/album/0hFMKRRwhszGmnjwSRLJdD) | 1:59 |
+| 35 | [Shoe Size](https://open.spotify.com/track/2UMuclVmetOgBZ4IJRVNYO) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [Shoe Size](https://open.spotify.com/album/4nbTciDdgUFPZWnlGyrLpV) | 2:55 |
+| 36 | [Marsh](https://open.spotify.com/track/3reEx8EkW36Ni2h1A1MUfE) | [Cliffords](https://open.spotify.com/artist/2JIXE3g9E0kfeFWhpKPIja) | [Marsh](https://open.spotify.com/album/4tWtBP9sZ6k3ddp36nlLEo) | 2:54 |
 | 37 | [MONKEY SEE MONKEY DO](https://open.spotify.com/track/3L4JKn0quzxs56myjLjmZG) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [MONKEY SEE MONKEY DO](https://open.spotify.com/album/3rS0r5DrE8YClu1jM0a9pw) | 1:49 |
 | 38 | [$4 Fantasy](https://open.spotify.com/track/1lhpgOcKbzy6kms5A3WCg5) | [Picture Parlour](https://open.spotify.com/artist/0lGEUAqbgX8yeEGIWjY9eV) | [The Parlour](https://open.spotify.com/album/2XObMLdXaVSIKCL6fLjtVs) | 3:08 |
-| 39 | [Everyone Bleeds](https://open.spotify.com/track/1FWxIyJmRINVnqkwPk3qCP) | [Love Is Noise](https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki) | [Everyone Bleeds](https://open.spotify.com/album/6ieV8h3HCzpb4RamHUDlge) | 4:14 |
+| 39 | [Easy Peeler](https://open.spotify.com/track/1HTpc61ViNtrmEsjzRYbOt) | [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [Easy Peeler](https://open.spotify.com/album/7A0PyN0K1CPMb5FbeuSGvX) | 3:41 |
 | 40 | [silence](https://open.spotify.com/track/3idm1kijXVuNPP4eqTyQCH) | [BEX](https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38) | [silence](https://open.spotify.com/album/6riIijhDZyrvmmxKYeVoAE) | 2:32 |
 | 41 | [Violence \(feat\. As December Falls\)](https://open.spotify.com/track/7MlSS4EB0u4szJiaF2AV13) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ), [As December Falls](https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX) | [Violence \(feat\. As December Falls\)](https://open.spotify.com/album/35NJW2tUWom47p99Zzq6q1) | 2:32 |
 | 42 | [Burnout](https://open.spotify.com/track/0GcX7hGiXATzis6ViSderK) | [Girl Tones](https://open.spotify.com/artist/1Tq0nryXkwLARcHDMIZbY6) | [Burnout](https://open.spotify.com/album/1NCPSVQDyMouZDyGyKqzTd) | 2:28 |
 | 43 | [On and On](https://open.spotify.com/track/34PAOBsQ9IZKGSPIkHanpY) | [Mouth Culture](https://open.spotify.com/artist/4Fc4GqcYwYnTePiW3nggrd) | [On and On](https://open.spotify.com/album/0neNPjNpMwz6EW1RULoeg1) | 3:13 |
 | 44 | [To the Brim](https://open.spotify.com/track/6YjU68fNU3Qnj7f9yhwzIE) | [DEADLETTER](https://open.spotify.com/artist/4MfUQ99z2kgMnl9hAwffBx) | [To The Brim](https://open.spotify.com/album/5fgk0OxdLy5xfdCM3etFln) | 3:19 |
-| 45 | [Swamped](https://open.spotify.com/track/58TNAizQRjprUNUE0QWB87) | [dust](https://open.spotify.com/artist/1QcbaOVrpo91k6rHnzhMeA) | [Sky is Falling](https://open.spotify.com/album/2Ji3HEhRwkQiSNgDki2mY2) | 3:17 |
-| 46 | [Kiss](https://open.spotify.com/track/0mo8ihg80BpO2XQ8YsOQzL) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Swallow the Knife](https://open.spotify.com/album/6U5DzgCUo2V2M43cMW6i6K) | 3:16 |
+| 45 | [PIG](https://open.spotify.com/track/33qLbrztG3T7A4YLqO88BM) | [These New South Whales](https://open.spotify.com/artist/0srVTNI2U8J7vytCTprEk4) | [BIRDBRAIN / PIG](https://open.spotify.com/album/7hWvLBn1TarX302yU3QmUq) | 1:58 |
+| 46 | [Swamped](https://open.spotify.com/track/58TNAizQRjprUNUE0QWB87) | [dust](https://open.spotify.com/artist/1QcbaOVrpo91k6rHnzhMeA) | [Sky is Falling](https://open.spotify.com/album/2Ji3HEhRwkQiSNgDki2mY2) | 3:17 |
 | 47 | [Anything In Between](https://open.spotify.com/track/0rKAcJLdomDit9vwTabH7Z) | [Petey USA](https://open.spotify.com/artist/53OVzzhCgqPTeQuqTc54tr) | [Anything In Between](https://open.spotify.com/album/5CMSJUBz10hax5WTB42Fkw) | 3:06 |
 | 48 | [Tracing Lines](https://open.spotify.com/track/3HD4vh1AGcy0ub2OMfzPJL) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [Tracing Lines](https://open.spotify.com/album/7EdSp9CD44UYEzHTbWiWBD) | 4:06 |
 | 49 | [Pink Himalayan](https://open.spotify.com/track/5KQPNnL4B8HBLSekl6KIce) | [God Alone](https://open.spotify.com/artist/0n21GeRyqvoD6q21UVtBHg) | [Pink Himalayan](https://open.spotify.com/album/50cpHKwb9OFLalctLQ9QIH) | 3:22 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 | 79 | [Exist](https://open.spotify.com/track/4aWW6ZqgmD84EMUuBZihI4) | [LASTELLE](https://open.spotify.com/artist/2BB6OyMcGIRSwJQfsmpjKJ) | [Exist vol\. ii](https://open.spotify.com/album/6cREGrj1rogeWSywpATiwb) | 3:16 |
 | 80 | [Dove](https://open.spotify.com/track/7IJF32v3Zf5lgEU0wnVwCg) | [Dharmacide](https://open.spotify.com/artist/6Opwdl6TcMEonIbtztjl0k) | [Dove](https://open.spotify.com/album/3kvl3LBeNaOTquSrmM8Ny4) | 4:29 |
 
-Snapshot ID: `AAAAAFKvIc4H6jlo5QM/HksVXZIS2xTZ`
+Snapshot ID: `AAAAAJPZLlrSGD2EtqhVC5wFmPTxpdKo`

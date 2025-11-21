@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0R7s5Q0xOIh.md) - [plain]
 
 > A playlist oficial do Carona Podpah, Original Spotify com o <a href="spotify:show:1GLSDdk9CDEwziGNIlnb8a">Podpah</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,228 likes - 357 songs - 1 day 16 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,227 likes - 357 songs - 1 day 16 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0R7s5Q0xOIh.md) - [plain]
 | 67 | [LUCCAS CARLOS \- Carona Podpah \#20](https://open.spotify.com/episode/30R9OrnkAa37AquAA8NTrB) | [Podpah](https://open.spotify.com/show/1GLSDdk9CDEwziGNIlnb8a) | [Podpah](https://open.spotify.com/album/1GLSDdk9CDEwziGNIlnb8a) | 44:21 |
 | 68 | [NEBLINA pt\. 2](https://open.spotify.com/track/4VWwJYGKZjC8IIZwVizuTv) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [iceton](https://open.spotify.com/artist/4YdNIaHjaCJJLynr1SP6Bj) | [Dois](https://open.spotify.com/album/5NRBahRXTDabcbEVvCGtAm) | 2:46 |
 | 69 | [I'll Be Missing You \(feat\. Faith Evans & 112\)](https://open.spotify.com/track/5fii2C2yImI0KvaAZZDKrC) | [Puff Daddy](https://open.spotify.com/artist/18WzSVxhKR3EcfIAB3Vp7c), [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn), [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [No Way Out](https://open.spotify.com/album/4OGaOZUHLhSeiicZB909aL) | 5:44 |
-| 70 | [Thriller](https://open.spotify.com/track/2LlQb7Uoj1kKyGhlkBf9aC) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 5:57 |
+| 70 | [Thriller](https://open.spotify.com/track/2LlQb7Uoj1kKyGhlkBf9aC) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 5:58 |
 | 71 | [Vida Cara](https://open.spotify.com/track/0XHJ2LfnrETLopLCt6xBY6) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [DomLaike](https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ), [Kizzy](https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic) | [Vida Cara](https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy) | 5:07 |
 | 72 | [calma](https://open.spotify.com/track/5HDIwU7a2S5sfP7QMEgS9N) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J), [Douglas Moda](https://open.spotify.com/artist/18q7YToGWoBgzYaveHz6HK) | [Dois](https://open.spotify.com/album/5NRBahRXTDabcbEVvCGtAm) | 4:03 |
 | 73 | [ne\-yo](https://open.spotify.com/track/5h2lBg0mULQ6s60TqebwT5) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Dois](https://open.spotify.com/album/5NRBahRXTDabcbEVvCGtAm) | 2:22 |

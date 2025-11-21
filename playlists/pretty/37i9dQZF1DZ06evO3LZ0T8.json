@@ -1,12 +1,12 @@
 {
   "description": "This is SUBSHIFT. The essential tracks, all in one playlist.",
-  "num_followers": 7646,
+  "num_followers": 7656,
   "original_name": "This Is SUBSHIFT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRu3AAAAAAB9droSw45fUsRxj421Vtxi",
+  "snapshot_id": "aR0IgAAAAAB9DSBpXEYf0tjCLPtPm1Gy",
   "tracks": [
     {
       "added_at": null,
@@ -487,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad Decisions",
-        "url": "https://open.spotify.com/album/3fTqyh23ImqLSKdBbUkhuM"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        }
-      ],
-      "duration_ms": 184280,
-      "name": "Bad Decisions",
-      "url": "https://open.spotify.com/track/2DsCTWTL6j3KpCkBow7B3O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Is It Me",
         "url": "https://open.spotify.com/album/6HhGVvJDOagok3JtTcuS4X"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 152351,
       "name": "Is It Me",
       "url": "https://open.spotify.com/track/78X3wVabb53TjzNQkskUFy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bad Decisions",
+        "url": "https://open.spotify.com/album/3fTqyh23ImqLSKdBbUkhuM"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "duration_ms": 184280,
+      "name": "Bad Decisions",
+      "url": "https://open.spotify.com/track/2DsCTWTL6j3KpCkBow7B3O"
     },
     {
       "added_at": null,
@@ -543,6 +543,22 @@
       "duration_ms": 212944,
       "name": "Back To You - SUBSHIFT Remix",
       "url": "https://open.spotify.com/track/4RmkE2SMOY9R5HFLj4JuRz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/3ZLBV0Pq2nEEN1XvCr6BGB"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "duration_ms": 192975,
+      "name": "After Hours",
+      "url": "https://open.spotify.com/track/6QZBEp2SpZA8Ws7BoDmK1Y"
     },
     {
       "added_at": null,
@@ -583,18 +599,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "After Hours",
-        "url": "https://open.spotify.com/album/3ZLBV0Pq2nEEN1XvCr6BGB"
+        "name": "Shaka",
+        "url": "https://open.spotify.com/album/4OUDrkk6FqwQTBuwwwutbk"
       },
       "artists": [
         {
           "name": "SUBSHIFT",
           "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        },
+        {
+          "name": "Confession",
+          "url": "https://open.spotify.com/artist/415eldbC7phpeLkk7p5SG1"
         }
       ],
-      "duration_ms": 192975,
-      "name": "After Hours",
-      "url": "https://open.spotify.com/track/6QZBEp2SpZA8Ws7BoDmK1Y"
+      "duration_ms": 153000,
+      "name": "Shaka",
+      "url": "https://open.spotify.com/track/63pv4p9YcLpVP3QXlgasfP"
     },
     {
       "added_at": null,
@@ -647,26 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shaka",
-        "url": "https://open.spotify.com/album/4OUDrkk6FqwQTBuwwwutbk"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        },
-        {
-          "name": "Confession",
-          "url": "https://open.spotify.com/artist/415eldbC7phpeLkk7p5SG1"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "Shaka",
-      "url": "https://open.spotify.com/track/63pv4p9YcLpVP3QXlgasfP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Money Zone",
         "url": "https://open.spotify.com/album/2QMsIeLfwPPKpAMsTuKTwP"
       },
@@ -679,6 +679,22 @@
       "duration_ms": 171502,
       "name": "Money Zone",
       "url": "https://open.spotify.com/track/74Bc5e2EtbMTyBiJiFNN3P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Streets",
+        "url": "https://open.spotify.com/album/6GeDEhukBDiDhVAcsAY36I"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "duration_ms": 181383,
+      "name": "Amped",
+      "url": "https://open.spotify.com/track/2TXlFaOrA286GiRSJPEvmg"
     },
     {
       "added_at": null,
@@ -731,42 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Furious!",
-        "url": "https://open.spotify.com/album/7aQPZJolEV6D1oikzZyW49"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        },
-        {
-          "name": "Hooders",
-          "url": "https://open.spotify.com/artist/0dSLFM6XsMwI9U64CyxFVS"
-        }
-      ],
-      "duration_ms": 198100,
-      "name": "Furious!",
-      "url": "https://open.spotify.com/track/1h7ZTFVfo67wpcoWchqvZv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Rhythm",
-        "url": "https://open.spotify.com/album/5l92sWpRLi1fkgxPKg3JL6"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        }
-      ],
-      "duration_ms": 189697,
-      "name": "The Rhythm",
-      "url": "https://open.spotify.com/track/6Cx33NW52i3IjTilbqaIR5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Don't Sweat It",
         "url": "https://open.spotify.com/album/64YRQCg7VLOrpwn9ydDPuO"
       },
@@ -803,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Streets",
-        "url": "https://open.spotify.com/album/6GeDEhukBDiDhVAcsAY36I"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        }
-      ],
-      "duration_ms": 181383,
-      "name": "Amped",
-      "url": "https://open.spotify.com/track/2TXlFaOrA286GiRSJPEvmg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shake the Bass 4",
         "url": "https://open.spotify.com/album/1dc8hYIvtlLN7V8RRfBERd"
       },
@@ -831,6 +795,46 @@
       "duration_ms": 183848,
       "name": "Honey Dip",
       "url": "https://open.spotify.com/track/0606StM2HkTudakYuVy2rd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Furious!",
+        "url": "https://open.spotify.com/album/7aQPZJolEV6D1oikzZyW49"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        },
+        {
+          "name": "Hooders",
+          "url": "https://open.spotify.com/artist/0dSLFM6XsMwI9U64CyxFVS"
+        }
+      ],
+      "duration_ms": 198100,
+      "name": "Furious!",
+      "url": "https://open.spotify.com/track/1h7ZTFVfo67wpcoWchqvZv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bad Decisions",
+        "url": "https://open.spotify.com/album/3fTqyh23ImqLSKdBbUkhuM"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        },
+        {
+          "name": "Fantom Freq",
+          "url": "https://open.spotify.com/artist/4kwPEoKIm8IwQKOvYjg5OM"
+        }
+      ],
+      "duration_ms": 219344,
+      "name": "U Know It",
+      "url": "https://open.spotify.com/track/2exKEOiqq6sEEuJHUpBl4F"
     },
     {
       "added_at": null,
@@ -859,28 +863,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad Decisions",
-        "url": "https://open.spotify.com/album/3fTqyh23ImqLSKdBbUkhuM"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        },
-        {
-          "name": "Fantom Freq",
-          "url": "https://open.spotify.com/artist/4kwPEoKIm8IwQKOvYjg5OM"
-        }
-      ],
-      "duration_ms": 219344,
-      "name": "U Know It",
-      "url": "https://open.spotify.com/track/2exKEOiqq6sEEuJHUpBl4F"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ride Or Die",
-        "url": "https://open.spotify.com/album/18mpXDiJYd7tsbLPpVghKo"
+        "name": "The Rhythm",
+        "url": "https://open.spotify.com/album/5l92sWpRLi1fkgxPKg3JL6"
       },
       "artists": [
         {
@@ -888,9 +872,9 @@
           "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
         }
       ],
-      "duration_ms": 188857,
-      "name": "Ride Or Die",
-      "url": "https://open.spotify.com/track/6KMPX9wfNJZnoPJ7KFpA9g"
+      "duration_ms": 189697,
+      "name": "The Rhythm",
+      "url": "https://open.spotify.com/track/6Cx33NW52i3IjTilbqaIR5"
     },
     {
       "added_at": null,
@@ -911,8 +895,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Resonate",
-        "url": "https://open.spotify.com/album/1jPkspAoB7SIEPvoH8hS6b"
+        "name": "Ride Or Die",
+        "url": "https://open.spotify.com/album/18mpXDiJYd7tsbLPpVghKo"
       },
       "artists": [
         {
@@ -920,9 +904,25 @@
           "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
         }
       ],
-      "duration_ms": 187263,
-      "name": "Resonate",
-      "url": "https://open.spotify.com/track/7w9NUVZgPliQv7BKjaGFoU"
+      "duration_ms": 188857,
+      "name": "Ride Or Die",
+      "url": "https://open.spotify.com/track/6KMPX9wfNJZnoPJ7KFpA9g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Streets",
+        "url": "https://open.spotify.com/album/6GeDEhukBDiDhVAcsAY36I"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "duration_ms": 158427,
+      "name": "The Streets",
+      "url": "https://open.spotify.com/track/6YQJlkvGbbxejDvtHL6W0y"
     }
   ],
   "unique_name": "This Is SUBSHIFT",

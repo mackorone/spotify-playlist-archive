@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Above The Hood",
+  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: YungKapa",
   "name": "Hot Greek Rap",
   "tracks": [
     {
@@ -2192,7 +2192,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 158769,
       "name": "CHALGA",
       "url": "https://open.spotify.com/track/1d65j1b6uR8SXJo6R9mM9p"
@@ -2516,7 +2516,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 130798,
       "name": "Dance",
       "url": "https://open.spotify.com/track/2C4Qgol8F4Zp8yrVXnqpzl"
@@ -3679,6 +3679,32 @@
     },
     {
       "album": {
+        "name": "FANELES",
+        "url": "https://open.spotify.com/album/2ZxN2xVbDy6rkDgZAAHz6U"
+      },
+      "artists": [
+        {
+          "name": "Trouf",
+          "url": "https://open.spotify.com/artist/6tL1w9Zf5V0l3VBiYjxtZl"
+        },
+        {
+          "name": "Dani Gambino",
+          "url": "https://open.spotify.com/artist/0JDrljGBQpzIKFIcZ4R1H4"
+        },
+        {
+          "name": "Kaist",
+          "url": "https://open.spotify.com/artist/4imUIlkV0mdCbhSPRMyclz"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "FANELES",
+      "url": "https://open.spotify.com/track/1H1vNeUfFADNnI1se4Gij3"
+    },
+    {
+      "album": {
         "name": "FANTA",
         "url": "https://open.spotify.com/album/28Z5ChSUUkD9xuUjy9xuBq"
       },
@@ -4300,7 +4326,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 172633,
       "name": "Gangsta Love",
       "url": "https://open.spotify.com/track/15UlvxNj2iM8kpshJY8zwX"
@@ -6053,6 +6079,28 @@
     },
     {
       "album": {
+        "name": "KOUBOURI",
+        "url": "https://open.spotify.com/album/6APyvWTj2rA2dEtz5aAQJi"
+      },
+      "artists": [
+        {
+          "name": "BAKV",
+          "url": "https://open.spotify.com/artist/7q4dxsrYuPcd0PgxBc1eQ4"
+        },
+        {
+          "name": "ASOK",
+          "url": "https://open.spotify.com/artist/6Zx32XYdrM9A2rIt6jKVmm"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133714,
+      "name": "KOUBOURI",
+      "url": "https://open.spotify.com/track/7bde2lxrXagf0CUF08bPB1"
+    },
+    {
+      "album": {
         "name": "KRIMI 2",
         "url": "https://open.spotify.com/album/3xx7MD39dCOlWHghCG262D"
       },
@@ -7231,6 +7279,36 @@
     },
     {
       "album": {
+        "name": "HOME ALONE",
+        "url": "https://open.spotify.com/album/6d59OazyuQRkHOzjWNukCa"
+      },
+      "artists": [
+        {
+          "name": "Ivan Greko",
+          "url": "https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV"
+        },
+        {
+          "name": "Arab",
+          "url": "https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a"
+        },
+        {
+          "name": "BLVD Studio",
+          "url": "https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR"
+        },
+        {
+          "name": "ASOK",
+          "url": "https://open.spotify.com/artist/6Zx32XYdrM9A2rIt6jKVmm"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114782,
+      "name": "MONCLER",
+      "url": "https://open.spotify.com/track/11dvIukD3Xmk1WbDuisL82"
+    },
+    {
+      "album": {
         "name": "Money Dance",
         "url": "https://open.spotify.com/album/4fxc9z6GCwSs6CJC51212J"
       },
@@ -8190,7 +8268,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 176571,
       "name": "OMG",
       "url": "https://open.spotify.com/track/2InisuUeQxBarfQ33xn8Md"
@@ -10422,7 +10500,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 177130,
       "name": "SICK SIXAMILIA",
       "url": "https://open.spotify.com/track/3TPERBFjI6WJXqpAWBVm4U"
@@ -11048,6 +11126,32 @@
       "duration_ms": 188000,
       "name": "Tactics",
       "url": "https://open.spotify.com/track/1Ea5haE1xMTg9mwCq7dfzn"
+    },
+    {
+      "album": {
+        "name": "COMERCIO",
+        "url": "https://open.spotify.com/album/4GnNeMtDe5LLSs0kYwZyXI"
+      },
+      "artists": [
+        {
+          "name": "SKEZ",
+          "url": "https://open.spotify.com/artist/5ILWyExKu5I8poAuLyEvNH"
+        },
+        {
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+        },
+        {
+          "name": "Stanley",
+          "url": "https://open.spotify.com/artist/4bIKDIUQmRdbScZXFtAk75"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140906,
+      "name": "TAKEOVER",
+      "url": "https://open.spotify.com/track/5yaBUyYf6ZRn3SngG0qyBu"
     },
     {
       "album": {
@@ -12310,6 +12414,24 @@
       "duration_ms": 127226,
       "name": "VRWMA",
       "url": "https://open.spotify.com/track/2iMfpIm7MricVhSOpFudxP"
+    },
+    {
+      "album": {
+        "name": "WANNABES",
+        "url": "https://open.spotify.com/album/6HPSE01FwoMZL2qdfgaIP8"
+      },
+      "artists": [
+        {
+          "name": "YungKapa",
+          "url": "https://open.spotify.com/artist/23iVXbj5uK4e3MtRQLNPdG"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158857,
+      "name": "WANNABES",
+      "url": "https://open.spotify.com/track/1D8IVZP06Clm5B3KJ0u9oC"
     },
     {
       "album": {

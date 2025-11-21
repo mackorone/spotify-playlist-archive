@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
-  "num_followers": 523824,
+  "num_followers": 523842,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
@@ -639,22 +639,6 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
-        "name": "Me Lo Gan\u00e9",
-        "url": "https://open.spotify.com/album/2jCnW88GKL1Bs5yhklRemb"
-      },
-      "artists": [
-        {
-          "name": "Calle Real",
-          "url": "https://open.spotify.com/artist/2e6cE2efCe83qgcAd8mlWU"
-        }
-      ],
-      "duration_ms": 394653,
-      "name": "Abreme la puerta",
-      "url": "https://open.spotify.com/track/4ZgjTLfyE1APbEH0njzRpo"
-    },
-    {
-      "added_at": "2025-03-07 06:00:25",
-      "album": {
         "name": "La Salsa Tiene mi Son",
         "url": "https://open.spotify.com/album/1cyF9OgODjh488BmdN1xmH"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 285733,
       "name": "1999 (feat. Alexander Delgado (Gente D' Zona) & Serguei Yera Madera)",
       "url": "https://open.spotify.com/track/0UFbt4HV3VdgLS4tbh7CqM"
+    },
+    {
+      "added_at": "2025-03-07 06:00:25",
+      "album": {
+        "name": "Me Lo Gan\u00e9",
+        "url": "https://open.spotify.com/album/2jCnW88GKL1Bs5yhklRemb"
+      },
+      "artists": [
+        {
+          "name": "Calle Real",
+          "url": "https://open.spotify.com/artist/2e6cE2efCe83qgcAd8mlWU"
+        }
+      ],
+      "duration_ms": 394653,
+      "name": "Abreme la puerta",
+      "url": "https://open.spotify.com/track/4ZgjTLfyE1APbEH0njzRpo"
     },
     {
       "added_at": "2025-03-07 06:00:25",
@@ -727,22 +727,6 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
-        "name": "Sin Escala",
-        "url": "https://open.spotify.com/album/0e12UMKQIn5tbSD08D3ma9"
-      },
-      "artists": [
-        {
-          "name": "El Noro y Primera Clase",
-          "url": "https://open.spotify.com/artist/5wfvAqF5O8wjiLdwIpfwyf"
-        }
-      ],
-      "duration_ms": 358520,
-      "name": "La Preferencia",
-      "url": "https://open.spotify.com/track/2qzE1R69r7RatHTEj5zRR9"
-    },
-    {
-      "added_at": "2025-03-07 06:00:25",
-      "album": {
         "name": "La Aplanadora de Cuba",
         "url": "https://open.spotify.com/album/4CnjucLyV7ybkjREEAXpvG"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 303880,
       "name": "Esa Soy Yo",
       "url": "https://open.spotify.com/track/0M447oJEDm0pE8QDqbQlfi"
+    },
+    {
+      "added_at": "2025-03-07 06:00:25",
+      "album": {
+        "name": "Sin Escala",
+        "url": "https://open.spotify.com/album/0e12UMKQIn5tbSD08D3ma9"
+      },
+      "artists": [
+        {
+          "name": "El Noro y Primera Clase",
+          "url": "https://open.spotify.com/artist/5wfvAqF5O8wjiLdwIpfwyf"
+        }
+      ],
+      "duration_ms": 358520,
+      "name": "La Preferencia",
+      "url": "https://open.spotify.com/track/2qzE1R69r7RatHTEj5zRR9"
     },
     {
       "added_at": "2025-03-07 06:00:25",
@@ -811,18 +811,50 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
-        "name": "Sin Escala",
-        "url": "https://open.spotify.com/album/0e12UMKQIn5tbSD08D3ma9"
+        "name": "Cuba Isla Bella",
+        "url": "https://open.spotify.com/album/0ki5BFqVtshpdc2Vx3jGdc"
       },
       "artists": [
         {
-          "name": "El Noro y Primera Clase",
-          "url": "https://open.spotify.com/artist/5wfvAqF5O8wjiLdwIpfwyf"
+          "name": "Orishas",
+          "url": "https://open.spotify.com/artist/2gKYxTUOqw9aPt7ljMwSHT"
+        },
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        },
+        {
+          "name": "Leoni Torres",
+          "url": "https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS"
+        },
+        {
+          "name": "Issac Delgado",
+          "url": "https://open.spotify.com/artist/2NssDL7cTwvfQm01xvepBQ"
+        },
+        {
+          "name": "Buena Fe",
+          "url": "https://open.spotify.com/artist/0vq2EzqxetHZj0NtymUtXm"
+        },
+        {
+          "name": "Descemer Bueno",
+          "url": "https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl"
+        },
+        {
+          "name": "LARITZA BACALLAO",
+          "url": "https://open.spotify.com/artist/61EgOa3zlnkzFNj2Xegxsu"
+        },
+        {
+          "name": "Waldo Mendoza",
+          "url": "https://open.spotify.com/artist/0A3VPA9AS3HA5viKCKqRPu"
+        },
+        {
+          "name": "Pedrito Martinez",
+          "url": "https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh"
         }
       ],
-      "duration_ms": 295200,
-      "name": "La Bomba (Yo Lo S\u00e9)",
-      "url": "https://open.spotify.com/track/6Mq0PPDjAI9yaXZNZlwrOM"
+      "duration_ms": 284266,
+      "name": "Cuba Isla Bella",
+      "url": "https://open.spotify.com/track/6T9Cyj2tFiV1epQbQm0Gb2"
     }
   ],
   "unique_name": "Salsa Cubana",

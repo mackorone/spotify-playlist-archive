@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRu3AAAAAADPJqUsVEvoX0Ay1OpSCpJw",
+  "snapshot_id": "aR0IgAAAAABMiEkNwScihgi5/wLXIGTP",
   "tracks": [
     {
       "added_at": null,
@@ -163,22 +163,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
-        "url": "https://open.spotify.com/album/5sHVrMHdMBPBTkQtq3ka4V"
-      },
-      "artists": [
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        }
-      ],
-      "duration_ms": 272036,
-      "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
-      "url": "https://open.spotify.com/track/2ALfxGK9zPIkTvJbCjkSeI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dried Flower",
         "url": "https://open.spotify.com/album/11P1D8fWEK5MRmnHEFY34g"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 185286,
       "name": "Dried Flower",
       "url": "https://open.spotify.com/track/1YQ6EL4sCdTrlUiBbCSwne"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
+        "url": "https://open.spotify.com/album/5sHVrMHdMBPBTkQtq3ka4V"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "duration_ms": 272036,
+      "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
+      "url": "https://open.spotify.com/track/2ALfxGK9zPIkTvJbCjkSeI"
     },
     {
       "added_at": null,
@@ -435,6 +435,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u30d2\u30ed\u30a4\u30f3",
+        "url": "https://open.spotify.com/album/4ZUaCxpjZyZjesAOJYPyv5"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "duration_ms": 202333,
+      "name": "\u30d2\u30ed\u30a4\u30f3",
+      "url": "https://open.spotify.com/track/6ED3HJaMveomLnJDwDSQ37"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Soyokaze",
         "url": "https://open.spotify.com/album/153YmjTil9pifgOigfs315"
       },
@@ -451,18 +467,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30d2\u30ed\u30a4\u30f3",
-        "url": "https://open.spotify.com/album/4ZUaCxpjZyZjesAOJYPyv5"
+        "name": "\u30b3\u30b3\u30ed\u30a6\u30c1\u30e5\u30a6",
+        "url": "https://open.spotify.com/album/1NWysueydKyRT3RoEgEjBb"
       },
       "artists": [
         {
+          "name": "\u30cb\u30e3\u30f3\u3061\u3085\u3046\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/4rHAi3k9q5g3pmlmM0JDEf"
+        },
+        {
           "name": "imase",
           "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        },
+        {
+          "name": "\u300e\u30e6\u30a4\u30ab\u300f",
+          "url": "https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj"
         }
       ],
-      "duration_ms": 202333,
-      "name": "\u30d2\u30ed\u30a4\u30f3",
-      "url": "https://open.spotify.com/track/6ED3HJaMveomLnJDwDSQ37"
+      "duration_ms": 196000,
+      "name": "\u30b3\u30b3\u30ed\u30a6\u30c1\u30e5\u30a6",
+      "url": "https://open.spotify.com/track/0NEAt1CzccdplwulH7IvTu"
     },
     {
       "added_at": null,
@@ -511,30 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30b3\u30b3\u30ed\u30a6\u30c1\u30e5\u30a6",
-        "url": "https://open.spotify.com/album/1NWysueydKyRT3RoEgEjBb"
-      },
-      "artists": [
-        {
-          "name": "\u30cb\u30e3\u30f3\u3061\u3085\u3046\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
-          "url": "https://open.spotify.com/artist/4rHAi3k9q5g3pmlmM0JDEf"
-        },
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        },
-        {
-          "name": "\u300e\u30e6\u30a4\u30ab\u300f",
-          "url": "https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "\u30b3\u30b3\u30ed\u30a6\u30c1\u30e5\u30a6",
-      "url": "https://open.spotify.com/track/0NEAt1CzccdplwulH7IvTu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u3046\u305f\u3046",
         "url": "https://open.spotify.com/album/7Lj0NrOpaDin2lrIhHRRiu"
       },
@@ -547,22 +547,6 @@
       "duration_ms": 187222,
       "name": "\u3046\u305f\u3046",
       "url": "https://open.spotify.com/track/2Rvjw1HcE8rbxZmQludTCf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FRIENDS!!!",
-        "url": "https://open.spotify.com/album/2y6GPV0mKA4ARESWO4vTBc"
-      },
-      "artists": [
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        }
-      ],
-      "duration_ms": 232649,
-      "name": "FRIENDS!!!",
-      "url": "https://open.spotify.com/track/74w6Blyx8EeUHzCjJaynFx"
     },
     {
       "added_at": null,
@@ -607,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "FRIENDS!!!",
+        "url": "https://open.spotify.com/album/2y6GPV0mKA4ARESWO4vTBc"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "duration_ms": 232649,
+      "name": "FRIENDS!!!",
+      "url": "https://open.spotify.com/track/74w6Blyx8EeUHzCjJaynFx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "POP CUBE",
         "url": "https://open.spotify.com/album/3mlVZ7OTZgKJJAr275tHZX"
       },
@@ -635,6 +635,26 @@
       "duration_ms": 170146,
       "name": "LIT",
       "url": "https://open.spotify.com/track/3c4qpbU1K8l4ZJbpo15TNH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wormhole / Yumi AraI",
+        "url": "https://open.spotify.com/album/2BJD3fJ7bkUkGlkH0H0Yuv"
+      },
+      "artists": [
+        {
+          "name": "Yumi Matsutoya",
+          "url": "https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU"
+        },
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "duration_ms": 232259,
+      "name": "\u6587\u901a",
+      "url": "https://open.spotify.com/track/7cZswqhGUHmoi7fsjstVQ7"
     },
     {
       "added_at": null,
@@ -739,26 +759,6 @@
       "duration_ms": 160000,
       "name": "\u30c4\u30ca\u30ac\u30eb\u30a6\u30c1\u30e5\u30a6\uff01",
       "url": "https://open.spotify.com/track/2ZM2H6KsI5pFJaa9O6PT9P"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wormhole / Yumi AraI",
-        "url": "https://open.spotify.com/album/2BJD3fJ7bkUkGlkH0H0Yuv"
-      },
-      "artists": [
-        {
-          "name": "Yumi Matsutoya",
-          "url": "https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU"
-        },
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        }
-      ],
-      "duration_ms": 232259,
-      "name": "\u6587\u901a",
-      "url": "https://open.spotify.com/track/7cZswqhGUHmoi7fsjstVQ7"
     },
     {
       "added_at": null,

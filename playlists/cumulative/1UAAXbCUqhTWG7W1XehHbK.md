@@ -4,7 +4,7 @@
 
 > &quot;Indie Essentials&quot; is the ultimate playlist for indie music fans\. It features tracks from influential and iconic indie artists, showcasing the diversity and creativity of the genre\. Discover new and old classics in the indie spirit.
 
-124 songs - 7 hr 12 min
+127 songs - 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Earth Music](https://open.spotify.com/track/32R25ieUaEujfOUMyotW4d) | [TMF Rock](https://open.spotify.com/artist/7MzY70dHn1srNGDfNmCLb9), [akaFayaven](https://open.spotify.com/artist/18pLFv41vMDF3xdE7ZKnjr) | [What Happens On Earth...](https://open.spotify.com/album/6BcrIJf4D3A53w6gjgaC28) | 3:11 | 2025-10-01 |  |
 | [El Roi](https://open.spotify.com/track/6Xbm6m9V6j9WUSv4FpJ0R5) | [Philippa](https://open.spotify.com/artist/6uDsHBWnieot7YLed6WKxH) | [El Roi](https://open.spotify.com/album/6Y4jD74w37QHqwuf0zFD9y) | 5:52 | 2025-08-07 |  |
 | [Empírico \- Raw](https://open.spotify.com/track/2OuIW1NQwfLm3Z8imOi6w7) | [Charl´s Tone](https://open.spotify.com/artist/0pmheYtMCd7dDJsAfDEAcn) | [Empírico \(Raw\)](https://open.spotify.com/album/4iXlegXlBkb5vBMK4EnY8x) | 2:44 | 2025-11-11 |  |
+| [Eu Confesso](https://open.spotify.com/track/2JN9RaAhfUwuoRcEBedbUo) | [AlonUshi](https://open.spotify.com/artist/5ff5myNBPYGziyBDXwsEAp) | [Eu Confesso](https://open.spotify.com/album/3r8W5VCdCfjAAHPqVkagqv) | 3:10 | 2025-11-20 |  |
 | [Everything Changes](https://open.spotify.com/track/0YpNMMUadqpDh3aU9B8saW) | [Odin Johnson](https://open.spotify.com/artist/2087tuEavxDEuenZBYbPNF) | [Everything Changes](https://open.spotify.com/album/64iZS9Rc8mVQKycjeQ8qdN) | 2:42 | 2025-07-21 |  |
 | [Fake](https://open.spotify.com/track/1RguizISVDsjxqQVlK94jZ) | [Un Rodo Cora](https://open.spotify.com/artist/0RKA0a9z4xnW67jEsVSnxX) | [Fake](https://open.spotify.com/album/3JzupOGfwR2v5CFuaucFps) | 2:32 | 2025-09-22 |  |
 | [Falling](https://open.spotify.com/track/1H0n5t1lzXbYKCfzDKFtMc) | [The Wivez](https://open.spotify.com/artist/5PKCIQclEJgf3rqyu4kwsr) | [Falling](https://open.spotify.com/album/77bQTTnO4CUxfzdM8ZmaaP) | 3:27 | 2025-09-08 |  |
@@ -43,7 +44,9 @@
 | [Gone is Gone](https://open.spotify.com/track/1SIwD4xWPZ7LQR2JjRKkMo) | [ITZ](https://open.spotify.com/artist/4iiraoDwoUYNr0fSUPGobd) | [Gone is Gone](https://open.spotify.com/album/7FswSFw2CgfRkANSEn6Kju) | 2:40 | 2025-09-08 |  |
 | [Good Daze](https://open.spotify.com/track/6QWjGNjBhAeDEuMmutumcW) | [Lunar Reverb](https://open.spotify.com/artist/1A8Te6U8iongiGwNxYhvhc) | [Good Daze](https://open.spotify.com/album/3fnlb4kJLADgzEepHto25S) | 5:53 | 2025-11-14 |  |
 | [goodbye \- 2025 remastered](https://open.spotify.com/track/10arqRDmhZcdhWZvpC3Ko0) | [Władek Sheen](https://open.spotify.com/artist/5elwcM1iBIib16jSGK1SQe) | [hypnotize](https://open.spotify.com/album/1H2wW7fI1Y6GUijZxPo2gJ) | 2:55 | 2025-09-12 |  |
+| [Greedy for small gains](https://open.spotify.com/track/0cNiKGurgv7nWN3ZnmzynE) | [RYN SKY](https://open.spotify.com/artist/0LWSuwMqKEWQfFEFOariZg) | [Greedy for small gains](https://open.spotify.com/album/2uqbUzjq5TGGnR7Nh5cj8e) | 6:52 | 2025-11-20 |  |
 | [Green Light](https://open.spotify.com/track/34usNzrCgt3CAtpd4uCnLo) | [SETTINGS](https://open.spotify.com/artist/1kfMHJCbmgZzcQDJoslasA) | [Green Light](https://open.spotify.com/album/5YHZsCQH6Poj37014rt7oY) | 3:30 | 2025-10-24 |  |
+| [Hands](https://open.spotify.com/track/6LflirCCKMmIPoJeb9Kkb8) | [Hosannas](https://open.spotify.com/artist/3MOXu8DfF3VUfC7WmNBb8D) | [Picture Him Protecting You](https://open.spotify.com/album/3Je9xNxfxhvKKp4VqVAI7E) | 4:41 | 2025-11-20 |  |
 | [Hautakivi IV](https://open.spotify.com/track/6CW4aBlClxeepM9KNcrcdv) | [Kaskeus](https://open.spotify.com/artist/7li8snm7gcIV26db7PnaaA) | [Juureton Puu & Hautakivi IV](https://open.spotify.com/album/0nGmaoY9Q0tBh04HoSDTrQ) | 3:32 | 2025-08-26 |  |
 | [Her Song](https://open.spotify.com/track/1XB4KEWJ9cxIznLuVY2f78) | [David Matias](https://open.spotify.com/artist/22k62BDUBiRAlftDNpxfis) | [Still Life EP](https://open.spotify.com/album/42aUCZB195PUHIW6iRsR98) | 2:46 | 2025-10-16 |  |
 | [Hernando County, F.L.A](https://open.spotify.com/track/2MKzJS0FNWIhxRdPgCf9HT) | [Crooked Cat Adams](https://open.spotify.com/artist/3bJ6ZrdsE17kTt9hqQV42i) | [Hernando County, F.L.A](https://open.spotify.com/album/0bTEZg0TQmkwnBwG73LRiW) | 5:30 | 2025-09-26 |  |

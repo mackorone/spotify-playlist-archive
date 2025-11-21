@@ -2,9 +2,9 @@
 
 ### [最愛女聲](https://open.spotify.com/playlist/37i9dQZF1DX9Sg2GTUELDO)
 
-> 感受女聲力量。Cover: 秋彤 Claudia Ng
+> 感受女聲力量。Cover: Nancy Kwai
 
-604 songs - 1 day 11 hr 53 min
+607 songs - 1 day 12 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Beyond \- From "Moana 2"/Cantonese Soundtrack Version](https://open.spotify.com/track/2lwWYSBJ0PKZ7dAygqmGQc) | [Sinnie Ng](https://open.spotify.com/artist/7zqVmX2goYKaLa1sIGlo27), [Yuk Yee Lin](https://open.spotify.com/artist/2SvIuUJ9DNfixAuJH4XrZD) | [Beyond \(From "Moana 2"/Cantonese Soundtrack Version\)](https://open.spotify.com/album/7n4EcNj64Q7CBzXM20RyP6) | 3:50 | 2024-11-28 | 2025-09-12 |
 | [BIG BANG](https://open.spotify.com/track/5K6uqu5pqE8pccHiXhPujr) | [EOS](https://open.spotify.com/artist/7BqG6ndz4kmVla7YcrYwra) | [BIG BANG](https://open.spotify.com/album/7vfJa7Ud2Uaf2LCVaFY6hs) | 3:12 | 2024-06-27 | 2025-09-12 |
 | [Blue roses \(feat\. Olivia Marsh\)](https://open.spotify.com/track/17OMwG9hllbbiCTf8GOzgY) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy), [Olivia Marsh](https://open.spotify.com/artist/18F9xpCQ8GFkKP12gonZnq) | [Blossoming](https://open.spotify.com/album/2epuXhZbcs7j4O9P9M7F0X) | 2:32 | 2025-04-17 |  |
+| [Broken?](https://open.spotify.com/track/4p3yxm5pepvqYPKmwPL2hx) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Broken?](https://open.spotify.com/album/5O0oQRED2CxWkFhRKlAWzG) | 4:03 | 2025-11-20 |  |
 | [Burn and Shine](https://open.spotify.com/track/2ntAwOgGPVA1dJ3o82PR0x) | [Scarlett鍾熙彤](https://open.spotify.com/artist/4SLDZBVUKsfd3sLhPtG0zj) | [Burn and Shine](https://open.spotify.com/album/7afSby7pkqN1TmRBCaZBtl) | 3:26 | 2025-01-23 | 2025-09-12 |
 | [California Baby](https://open.spotify.com/track/12HrBbbFqwESyRd7sejSTv) | [Leah Dou](https://open.spotify.com/artist/7mShFo2eYgVBQFZBCilhtl) | [California Baby](https://open.spotify.com/album/0TXWRO41sPLwdOFSgFDhJY) | 3:28 | 2024-08-29 | 2025-09-12 |
 | [CALL BACK IN 20](https://open.spotify.com/track/08H8Orz2BCwGi9u8yhHy5D) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [CALL BACK IN 20](https://open.spotify.com/album/5vUrCnv88RAr2k3eBhJifU) | 3:05 | 2024-10-31 | 2025-09-12 |
@@ -180,6 +181,7 @@
 | [The Bright Side](https://open.spotify.com/track/2S0xQFTOafzeErzgTaQavg) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [The Bright Side](https://open.spotify.com/album/6O3wNNGmDracvPAKqI7UwJ) | 4:10 | 2024-06-27 | 2025-09-12 |
 | [The Day When We Fall In Love](https://open.spotify.com/track/7C6wqYtVofGYkzyLG9eCbz) | [Sing Sing Rabbit](https://open.spotify.com/artist/4SHdX6y9hMSewXVDSD4kJL), [Kelly Chen](https://open.spotify.com/artist/7KyaSSJ8uTv7Unev4z2Qc7) | [The Day When We Fall In Love](https://open.spotify.com/album/4sM13Rk9bJL6nflJXh9E2c) | 4:20 | 2024-06-27 | 2025-09-12 |
 | [The Good Old Days](https://open.spotify.com/track/2P23euWxpV5RE7OzfEpFge) | [WHIZZ](https://open.spotify.com/artist/07ZnzLy7JvS7ogmwvjHbUe) | [Trial and Error](https://open.spotify.com/album/0PJ6guMrfzcbROoDiEbmEq) | 4:11 | 2025-07-03 |  |
+| [The Kissing Girl](https://open.spotify.com/track/6p5bY7up9zttLPCSCvzA5g) | [ARI LEE](https://open.spotify.com/artist/2CR4RXDXZVMvjEV3rrEVA7) | [The Kissing Girl](https://open.spotify.com/album/1xOOLQj5UdrEt9B1PQcZ53) | 2:39 | 2025-11-20 |  |
 | [The Lost Sunglasses](https://open.spotify.com/track/25xshyerJAz3Yled2jWgMl) | [Kelly Chen](https://open.spotify.com/artist/7KyaSSJ8uTv7Unev4z2Qc7), [AGA](https://open.spotify.com/artist/1opXC6lrFxsiDks53X5d3Q) | [The Lost Sunglasses](https://open.spotify.com/album/3zU4SsMrLMecHovTdD5Gfm) | 3:51 | 2025-07-24 |  |
 | [The Rainbow at the Seljalandsfoss](https://open.spotify.com/track/5MkFtwRJxy5e2DjVb6zvh3) | [Lora Chow](https://open.spotify.com/artist/6MJOgQHX7hHj9lox0jDWgI) | [The Rainbow at the Seljalandsfoss](https://open.spotify.com/album/4w57iyO73SgnbsRkebBcaW) | 3:48 | 2025-09-11 |  |
 | [Think I'm In Love](https://open.spotify.com/track/4Ip4uvrIqnxGM8RB9rsCrt) | [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [Think I'm In Love](https://open.spotify.com/album/5lfI2lfNkgMpCpfSxsNdje) | 2:21 | 2024-06-27 | 2025-09-12 |
@@ -447,6 +449,7 @@
 | [最動人一次](https://open.spotify.com/track/3EyP7T8w9tpTeNOL4i45Iy) | [Gigi炎明熹](https://open.spotify.com/artist/7McwvS0kWbED0fxl6orCjA) | [最動人一次](https://open.spotify.com/album/09GDfUNAQtK3EPqLST4Swj) | 3:39 | 2024-12-12 |  |
 | [最難行的路](https://open.spotify.com/track/15Df9sWQ3zFhc5bsEM293n) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [最難行的路](https://open.spotify.com/album/5jJTEx6QbocPAFgiMx1MEJ) | 3:38 | 2024-06-27 | 2025-09-12 |
 | [月色魔美](https://open.spotify.com/track/1g6UgjshVHThcHAZcs52tO) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [月色魔美](https://open.spotify.com/album/2ysOdvQRPLIJVdNf9klq8e) | 4:01 | 2024-06-27 | 2025-09-12 |
+| [有些話要用英文說](https://open.spotify.com/track/1vMmEdUZb846hG4LPCMVl2) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [a kiridiculous distance](https://open.spotify.com/album/1ymz2jNDGgtvGQghYkFAV1) | 3:10 | 2025-11-20 |  |
 | [有些話要用英文說](https://open.spotify.com/track/2fSJhxoCQj6oMYpkM8Iun4) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [有些話要用英文說](https://open.spotify.com/album/6yNOO8WVRxbhJgsmEJAVpo) | 3:10 | 2024-06-27 | 2025-09-12 |
 | [有你萬事屋](https://open.spotify.com/track/4hX2vMHvJ9gxLoUS5W8qur) | [雷同二友](https://open.spotify.com/artist/3oOIMiWNGFGHjWEqo2okiU) | [有你萬事屋](https://open.spotify.com/album/55ZsM5ZiUu7viOyuhhNGhh) | 3:51 | 2025-06-12 |  |
 | [有奶辯士梁](https://open.spotify.com/track/1A3ODSZhO52uC79UmXrkoz) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [有奶辯士梁](https://open.spotify.com/album/4xft8kzvgbptDeBNNWUIf6) | 2:45 | 2025-03-06 |  |

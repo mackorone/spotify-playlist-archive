@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [All Fired Up](https://open.spotify.com/track/6XpczhG192lULA9i4JLqKJ) | [Pat Benatar](https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV) | [Wide Awake In Dreamland](https://open.spotify.com/album/1cglcD9iGtfheI7hmVdoUb) | 4:32 | 2023-01-20 |  |
-| [Back In Black](https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 4:15 | 2023-01-20 |  |
+| [Back In Black](https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 4:16 | 2023-01-20 |  |
 | [Break The Ice](https://open.spotify.com/track/4yypDIIxEtBeyo7ULGRvPn) | [John Farnham](https://open.spotify.com/artist/1QxaPWG1POM8Ul6WwsHq4y) | [Rad \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4Xs7sSHC66tRyOs3YC6ZOf) | 3:15 | 2023-01-20 |  |
 | [Dare](https://open.spotify.com/track/7DZcrMqgQiO4kotOGucIM7) | [Stan Bush](https://open.spotify.com/artist/7qT1EPkli4RDJ2KNynkQyQ) | [Transformers](https://open.spotify.com/album/6MB5ahz8dvKcoO3DVHrmgU) | 4:01 | 2023-01-20 |  |
 | [Don't Stop Runnin'](https://open.spotify.com/track/6ZZ2ddUz2ZuQpkFeJm3FlK) | [Y&T](https://open.spotify.com/artist/49Cw140t9jupn4S3udehoP) | [In Rock We Trust \(Expanded Edition\)](https://open.spotify.com/album/6hHdV5X9hTkpsny9xaDD1p) | 4:21 | 2023-01-20 |  |

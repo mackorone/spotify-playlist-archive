@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 
 > pq no to' e' dembow en rd loko\. Portada: Huan62
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,811 likes - 110 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,894 likes - 110 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

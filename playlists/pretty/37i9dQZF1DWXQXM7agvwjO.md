@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds from Asia\. Cover: IV OF SPADES \(Philippines\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,573 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,592 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 99 | [Why](https://open.spotify.com/track/5J88h5NpnPVrbKx9fmeHBu) | [KREY](https://open.spotify.com/artist/2qsKmvV47a1XIRQizWZUzy) | [Why](https://open.spotify.com/album/37x3Cft3218yxZDeE7KLiW) | 3:07 |
 | 100 | [NamgungFEFERE \(feat\. Japanese Breakfast\)](https://open.spotify.com/track/29sI2nRMCyKqmmpWZ6WJsi) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn), [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [NamgungFEFERE](https://open.spotify.com/album/1ymy46awOlT3qoFofw8r94) | 3:48 |
 
-Snapshot ID: `AAAAANNW699oLSI/b04rR3ZwHx0OU+td`
+Snapshot ID: `AAAAAFcXJbYVnnpGQjGbjhBjS6uCgCmg`

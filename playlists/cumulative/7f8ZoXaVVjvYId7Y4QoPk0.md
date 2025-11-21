@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Lack Of Color](https://open.spotify.com/track/4mCF3EBgGPSqmEm205KBAV) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Transatlanticism](https://open.spotify.com/album/5FJTVcpDFYqlo7vjjHEA9V) | 3:35 | 2018-12-14 |  |
-| [Ballad of a Thin Man](https://open.spotify.com/track/0f5N14nB8xi0p3o4BlVvbx) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Highway 61 Revisited](https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD) | 5:56 | 2018-12-02 |  |
+| [Ballad of a Thin Man](https://open.spotify.com/track/0f5N14nB8xi0p3o4BlVvbx) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Highway 61 Revisited](https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD) | 5:57 | 2018-12-02 |  |
 | [Bird On A Wire](https://open.spotify.com/track/7gPOHdd9ATgveYMpxcSdZQ) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American Recordings](https://open.spotify.com/album/3yrnapvgTqeYGZKPxozcUl) | 4:01 | 2018-12-02 |  |
 | [Blood on My Name](https://open.spotify.com/track/0oDZeHlximkFyBB8BmZ3ga) | [The Brothers Bright](https://open.spotify.com/artist/25DGdD7ho17icHB3zt5lnm) | [A Song Treasury](https://open.spotify.com/album/1XZeMNUBEyK2UgrxHBvcOr) | 4:20 | 2019-07-02 |  |
 | [Chelsea Hotel \#2](https://open.spotify.com/track/4krhCfJg0znykZoyjeMXRe) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [New Skin For The Old Ceremony](https://open.spotify.com/album/6LXadMatlf17dDrWzJO9eL) | 3:08 | 2019-07-02 |  |

@@ -2931,6 +2931,24 @@
     },
     {
       "album": {
+        "name": "Will you answer me?",
+        "url": "https://open.spotify.com/album/2tnI7S4FpHhZrS47mndVwx"
+      },
+      "artists": [
+        {
+          "name": "Nancy Kwai",
+          "url": "https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213071,
+      "name": "Will you answer me?",
+      "url": "https://open.spotify.com/track/5KtfSChXZpCJs2DGAQsR0x"
+    },
+    {
+      "album": {
         "name": "working holiday",
         "url": "https://open.spotify.com/album/6RQ77NGRncu7yIIQGXuNwA"
       },

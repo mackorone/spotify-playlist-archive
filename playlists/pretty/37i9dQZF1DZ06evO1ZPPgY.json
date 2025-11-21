@@ -1,12 +1,12 @@
 {
   "description": "This is Barry White. The essential tracks, all in one playlist.",
-  "num_followers": 231269,
+  "num_followers": 231299,
   "original_name": "This Is Barry White",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRu3AAAAAAC7rMHy9hQ93+61fZ4K6Ga5",
+  "snapshot_id": "aR0IgAAAAACn/5AsgbY45qZMrFD7frqt",
   "tracks": [
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Songs",
-        "url": "https://open.spotify.com/album/2YjxVI9GEc7StNjU4PVhOE"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 239306,
-      "name": "Practice What You Preach",
-      "url": "https://open.spotify.com/track/5PaTu8aN7ozpFbEb0DwEbt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Icon Is Love",
         "url": "https://open.spotify.com/album/6DLabZuKLRrCt6erq8SAGJ"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 349506,
       "name": "Come On",
       "url": "https://open.spotify.com/track/6aX6HU06LTnZIGjFznUchm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/2YjxVI9GEc7StNjU4PVhOE"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 239306,
+      "name": "Practice What You Preach",
+      "url": "https://open.spotify.com/track/5PaTu8aN7ozpFbEb0DwEbt"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Complete 20th Century Records Singles (1973-1979)",
-        "url": "https://open.spotify.com/album/4jpsKvXyMWyAnr778cJ4Um"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 344600,
-      "name": "Anything You Want Me To",
-      "url": "https://open.spotify.com/track/7wBvzcLC4iXR5UxKVvPPPm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Put Me In Your Mix",
         "url": "https://open.spotify.com/album/6ZB7sec84vKJ6mBXocdfwL"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 345333,
       "name": "Volare",
       "url": "https://open.spotify.com/track/1LqKlCrgljbKSrjwIfF6cy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Complete 20th Century Records Singles (1973-1979)",
+        "url": "https://open.spotify.com/album/4jpsKvXyMWyAnr778cJ4Um"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 344600,
+      "name": "Anything You Want Me To",
+      "url": "https://open.spotify.com/track/7wBvzcLC4iXR5UxKVvPPPm"
     },
     {
       "added_at": null,

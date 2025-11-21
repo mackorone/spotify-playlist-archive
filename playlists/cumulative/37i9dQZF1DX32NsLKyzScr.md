@@ -4,7 +4,7 @@
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-1,334 songs - 3 day 0 hr 28 min
+1,335 songs - 3 day 0 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -492,6 +492,7 @@
 | [Higher Power](https://open.spotify.com/track/7mQAjg2u5udWhnQ07jIHI7) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w) | [Higher Power](https://open.spotify.com/album/5t81OipNDNgEJ8MR5RVwFU) | 3:28 | 2023-11-13 | 2024-07-15 |
 | [Highway Freedom](https://open.spotify.com/track/3OyKSA6gU1Il2uOvCXU5IK) | [Late Replies](https://open.spotify.com/artist/7vPxzjHbAgoHhiNXORDgf7) | [Highway Freedom EP](https://open.spotify.com/album/4xT3vXGr92An3Ua3WdwfWh) | 3:15 | 2021-04-10 | 2021-07-17 |
 | [Hit List](https://open.spotify.com/track/1dQtt3K8GyPmH7ZD1LJ2ox) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [Drinks On Me](https://open.spotify.com/artist/1cIz2h3ERs72r60yw78Deu) | [Hit List](https://open.spotify.com/album/2HFagfqzSWiinz9jqcj4Q2) | 2:46 | 2021-01-05 | 2021-07-24 |
+| [Hold It Down \(DARE\)](https://open.spotify.com/track/20Roe0czA0RVSwYhtRIFcz) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Hold It Down \(DARE\)](https://open.spotify.com/album/4GkbVNXOcQFtpClXpBaqSm) | 3:46 | 2025-11-14 |  |
 | [Hold Me Closer \- Joel Corry Remix](https://open.spotify.com/track/5KbhvaeqKIB2bZcJMyfezl) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Hold Me Closer \(Joel Corry Remix\)](https://open.spotify.com/album/6cZP7F8HkDeMAsCcfCyRWa) | 4:08 | 2022-12-02 | 2024-04-20 |
 | [Hold On](https://open.spotify.com/track/0zKGqyfegTfDT2ZwKCiSW9) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [Hold On](https://open.spotify.com/album/1M5wUrormWAz4REo5hAwDs) | 4:09 | 2025-08-01 |  |
 | [Hold On Me](https://open.spotify.com/track/4aPX3IT9cskOWmeZvOYc5s) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [Hold On Me](https://open.spotify.com/album/4gnk9fBYQyrqdoTEqvlhzO) | 2:51 | 2024-11-15 | 2025-11-04 |
@@ -741,7 +742,7 @@
 | [My Feelings For You \- Mark Knight Remix](https://open.spotify.com/track/2hLczPN5CH5qhc6J4WBJHs) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Sebastien Drums](https://open.spotify.com/artist/0lHsjYcb3lGjkJQQqC6HVt), [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL) | [My Feelings For You \(Mark Knight Remix\)](https://open.spotify.com/album/3P4T0xEYwLZiB9xhzM0tzF) | 3:44 | 2022-08-12 | 2023-04-01 |
 | [My Heart Goes \(feat\. Oaks\)](https://open.spotify.com/track/5w3RgZoLVUp2jKONPZ2JVe) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [My Heart Goes \(feat\. Oaks\)](https://open.spotify.com/album/4ldeQvtnsa2PrA1ergNyMS) | 2:13 | 2025-02-21 | 2025-05-25 |
 | [My Heart Goes \(La Di Da\) \(feat\. Topic\)](https://open.spotify.com/track/4xMbBESczlHPUO8QeYi56p) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [My Heart Goes \(La Di Da\) \(feat\. Topic\)](https://open.spotify.com/album/3xDukGLEHBX2uylxb6S9jc) | 2:28 | 2021-09-04 | 2022-03-12 |
-| [My Mind](https://open.spotify.com/track/0r5liOaryIuC0Mq13XBPUs) | [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx), [JOA](https://open.spotify.com/artist/3rOSOkPQ5PHYOiR7mvLTMA) | [My Mind](https://open.spotify.com/album/3X2sMZJRhYsnqOQ4hsPlQt) | 2:58 | 2025-11-03 |  |
+| [My Mind](https://open.spotify.com/track/0r5liOaryIuC0Mq13XBPUs) | [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx), [JOA](https://open.spotify.com/artist/3rOSOkPQ5PHYOiR7mvLTMA) | [My Mind](https://open.spotify.com/album/3X2sMZJRhYsnqOQ4hsPlQt) | 2:58 | 2025-11-03 | 2025-11-21 |
 | [My Pet Coelacanth](https://open.spotify.com/track/1Jui7NG48FwG8mGQjSLbEw) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [while\(1<2\)](https://open.spotify.com/album/4NQRw9HthpcLg4vYQ6yJFu) | 8:15 | 2020-09-21\* | 2020-10-10 |
 | [My Universe \- Galantis Remix](https://open.spotify.com/track/1DlczmjByrS4qxRVfGjpqN) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [My Universe \(Galantis Remix\)](https://open.spotify.com/album/7eMHMiz2uvtDDMbvKRJxlP) | 3:44 | 2022-03-11 | 2023-01-06 |
 | [Na Hora](https://open.spotify.com/track/4RdPmZsIq0Hk0NpQYGGTYB) | [DJ A.M.G](https://open.spotify.com/artist/12I7n66YJCR0roCoCAdv5s) | [Na Hora](https://open.spotify.com/album/7M58rqkZ85PSNtMBj5qNmz) | 2:35 | 2020-10-10 | 2021-03-26 |

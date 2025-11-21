@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MKKSJUVEYF.md) - [plain]
 
 > Sanremo queens unite 🤝
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,710 likes - 65 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,709 likes - 65 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

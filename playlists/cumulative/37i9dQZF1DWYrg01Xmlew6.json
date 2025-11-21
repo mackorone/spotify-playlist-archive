@@ -5097,6 +5097,24 @@
     },
     {
       "album": {
+        "name": "LUMINOR",
+        "url": "https://open.spotify.com/album/7vtQ66PsP8pFPkkRguuSz1"
+      },
+      "artists": [
+        {
+          "name": "Christian Liguori",
+          "url": "https://open.spotify.com/artist/0ozb4x3nqp8fRb2WRgNKEn"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140655,
+      "name": "LUMINOR",
+      "url": "https://open.spotify.com/track/4L54Nd3uiIFYMNzBL3j8CT"
+    },
+    {
+      "album": {
         "name": "PNTWINS",
         "url": "https://open.spotify.com/album/43jNfQrxWhj6m0Yms8PJDn"
       },

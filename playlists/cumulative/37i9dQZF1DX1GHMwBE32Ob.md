@@ -2,9 +2,9 @@
 
 ### [Street Energy ](https://open.spotify.com/playlist/37i9dQZF1DX1GHMwBE32Ob)
 
-> From the trenches\. Through the streets.<br/>Cover: Seyi Vibez
+> From the trenches\. Through the streets.<br/>Cover: Balloranking
 
-421 songs - 19 hr 20 min
+422 songs - 19 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,6 +217,7 @@
 | [JUJU \(feat\. Shallipopi\)](https://open.spotify.com/track/6XBIOtdSL47qn201KKNCA0) | [Smur Lee](https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [JUJU \(feat\. Shallipopi\)](https://open.spotify.com/album/6xtWvj11zaodhnfa7izxCL) | 2:37 | 2024-08-29 |  |
 | [Juju Pro](https://open.spotify.com/track/0N7DEvhWW02wnppAzxNhF5) | [PRA](https://open.spotify.com/artist/6iQXgvrjqZRVmKjDljaePY), [Smur Lee](https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A) | [Juju Pro](https://open.spotify.com/album/1j7jtuErCBXVBpY0WyHDBx) | 2:53 | 2025-08-15 | 2025-09-05 |
 | [JUNGLE](https://open.spotify.com/track/6hp8DmDElPmM53iOP5ZMq9) | [Ayox](https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx) | [JUNGLE](https://open.spotify.com/album/6mGPEzv6LoeyV9u2hiyty4) | 2:40 | 2024-11-07 | 2025-08-01 |
+| [Jungle](https://open.spotify.com/track/4sDJ96gu68rfMzlDNLh5M5) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP) | [Jungle](https://open.spotify.com/album/5aVMinMjVyCFBRAAIlfXNS) | 2:23 | 2025-11-21 |  |
 | [Kaizen's Intro](https://open.spotify.com/track/05wzOC5B76dXhpT2z9xgKO) | [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Kaizen](https://open.spotify.com/album/7oxgkgER8SwORZr7Yejlmu) | 2:54 | 2025-11-07 | 2025-11-14 |
 | [Kan Ye \(with Minz\)](https://open.spotify.com/track/1Sy0TOykPMdoVFivlhpsb3) | [10Ten](https://open.spotify.com/artist/7urO0i2T8Ta9E9xAuOD1d6), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Kan Ye \(with Minz\)](https://open.spotify.com/album/3BobEjjYPHa1ct0bCGC30N) | 2:08 | 2025-10-10 | 2025-11-07 |
 | [KELEBU](https://open.spotify.com/track/6aoKNOL481xVNuqeayQjPj) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [KELEBU](https://open.spotify.com/album/0dTlxJzKKFaUdPoW7aIQIa) | 2:52 | 2025-08-01 |  |
@@ -233,7 +234,7 @@
 | [KPK \(Ko Por Ke\)](https://open.spotify.com/track/17q1F7gvBjI5aizepORyYG) | [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [A True Champion](https://open.spotify.com/album/6cqaFME7zznZclEDFE6bUk) | 3:11 | 2022-06-29 | 2024-02-09 |
 | [Kuku Do Ritual](https://open.spotify.com/track/5KPMtK8yiVbIcIIMr2Qvr7) | [Portable](https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe) | [Kuku Do Ritual](https://open.spotify.com/album/76cw3ZxOznH8pt7RDZeL4v) | 3:56 | 2023-01-20 | 2023-02-11 |
 | [La Pio Pio](https://open.spotify.com/track/6nK5Zt2RI6xqEaU8CgMojZ) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Blessed](https://open.spotify.com/album/0X0hFVPZ4GfWlY9Gr6tSst) | 2:25 | 2023-06-30 | 2024-11-16 |
-| [Labubu](https://open.spotify.com/track/4Ha7LDkAmwWbXygfooOAT9) | [CDQ](https://open.spotify.com/artist/1VsvlBp2dqKk2g9EVFvxXg), [Islambo](https://open.spotify.com/artist/4e4RJ4iHnchQtUlUxyznqR) | [Labubu](https://open.spotify.com/album/49uKWSj6blfu0dE9YJRNM1) | 2:21 | 2025-10-17 |  |
+| [Labubu](https://open.spotify.com/track/4Ha7LDkAmwWbXygfooOAT9) | [CDQ](https://open.spotify.com/artist/1VsvlBp2dqKk2g9EVFvxXg), [Islambo](https://open.spotify.com/artist/4e4RJ4iHnchQtUlUxyznqR) | [Labubu](https://open.spotify.com/album/49uKWSj6blfu0dE9YJRNM1) | 2:21 | 2025-10-17 | 2025-11-21 |
 | [Laho](https://open.spotify.com/track/37nExiid2iQtQzCJfUzohy) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Laho](https://open.spotify.com/album/5HelT4HN12za8jJhvi6azJ) | 2:24 | 2025-02-24 | 2025-06-17 |
 | [Lazy Baby](https://open.spotify.com/track/5DaYJuywGnucxxv8HRlkUl) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Lazy Baby](https://open.spotify.com/album/4EAhkQ3E7yUXGMVYkgXTTh) | 2:06 | 2025-05-02 | 2025-07-11 |
 | [Legbegbe](https://open.spotify.com/track/7nSCIoTBW6Y7lHny5hSgqV) | [Mr Real](https://open.spotify.com/artist/4sTEU2JiINQTDhMCanVyCO), [Obadice](https://open.spotify.com/artist/1ehQuWiGUch5doyxXLkdRz), [Idowest](https://open.spotify.com/artist/0ArqRD7tW8ZRr4AHKRGcb0) | [Legbegbe](https://open.spotify.com/album/67LJ3Ddvh3wB0NwghIz7El) | 4:22 | 2022-06-29 | 2023-01-13 |

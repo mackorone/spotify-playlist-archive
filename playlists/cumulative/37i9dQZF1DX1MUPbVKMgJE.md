@@ -4,7 +4,7 @@
 
 > All your Disco favorites\. Cover: Earth, Wind & Fire
 
-157 songs - 13 hr 32 min
+157 songs - 13 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Bad Girls](https://open.spotify.com/track/1ibRqifchaAfeNdQGpbRVW) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Bad Girls](https://open.spotify.com/album/58GjBhQvLHwfQFJtdP9Oxg) | 4:55 | 2021-09-21 |  |
 | [Best of My Love](https://open.spotify.com/track/2M2WJ7gBlcKNxdhyfPp9zY) | [The Emotions](https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr) | [Rejoice](https://open.spotify.com/album/7iJCy3T66FJmXT7LGVd3QA) | 3:40 | 2021-09-21 |  |
 | [Billie Jean](https://open.spotify.com/track/0JW9adkIsVTKexxkj653yx) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Michael Jackson: The Ultimate Collection](https://open.spotify.com/album/2cDcNwNCq8Xq8SplfcxUIg) | 4:52 | 2019-05-26\* | 2021-09-22 |
-| [Blame It on the Boogie](https://open.spotify.com/track/3qI94hINNNeb4S7xQi18lS) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [Destiny](https://open.spotify.com/album/46yTC334aJI4QTv4lkzj3a) | 3:34 | 2021-09-21 |  |
+| [Blame It on the Boogie](https://open.spotify.com/track/3qI94hINNNeb4S7xQi18lS) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [Destiny](https://open.spotify.com/album/46yTC334aJI4QTv4lkzj3a) | 3:35 | 2021-09-21 |  |
 | [Boogie Nights](https://open.spotify.com/track/4NTSDu34al733aIuUWVJHo) | [Heatwave](https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY) | [Too Hot to Handle \(Expanded Edition\)](https://open.spotify.com/album/1QeIO9ArYBB9vLiODTtWy8) | 5:03 | 2023-10-20 |  |
 | [Boogie Oogie Oogie](https://open.spotify.com/track/1Rl9GHgsflyIVqBRyO45Zo) | [A Taste Of Honey](https://open.spotify.com/artist/1ii6e2pv8VIRwnTER71rMl) | [A Taste Of Honey](https://open.spotify.com/album/4QJA3YXQdpLhuIztkSgrpo) | 4:05 | 2021-09-21 |  |
 | [Boogie Oogie Oogie \- Re\-Recorded](https://open.spotify.com/track/3roA54tWFHAeiZKThfOmgL) | [A Taste Of Honey](https://open.spotify.com/artist/1ii6e2pv8VIRwnTER71rMl) | [100 Disco Hits of the '70s & '80s \(Re\-Recorded Versions\)](https://open.spotify.com/album/1lgcwmrLLaoiW5Q125ZFG7) | 5:24 | 2019-05-26\* | 2021-09-22 |
@@ -40,7 +40,7 @@
 | [Don't Leave Me This Way](https://open.spotify.com/track/0fYbhMj96zG9fpUK10e8kB) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [The Best Of Harold Melvin & The Blue Notes: If You Don't Know Me By Now \(Featuring Teddy Pendergrass\) \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/4FyAsercGqajQeEdk2Isj6) | 6:06 | 2019-05-26\* | 2021-09-22 |
 | [Don't Leave Me This Way](https://open.spotify.com/track/2rBBhFXtuMoGuwYTSDpAdF) | [Thelma Houston](https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO) | [The Best Of](https://open.spotify.com/album/3npGGvmS0VJrBukG2PcgP4) | 3:37 | 2021-09-21 |  |
 | [Don't Leave Me This Way \- Single Version](https://open.spotify.com/track/76DaYoN2BXdu1dZFdw61qj) | [Thelma Houston](https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO) | [Motown 1970s Vol\. 1](https://open.spotify.com/album/0iJiZjL6cmn1wxTc7OG0et) | 3:38 | 2019-05-26\* | 2021-09-22 |
-| [Don't Stop 'Til You Get Enough](https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 6:05 | 2021-09-21 |  |
+| [Don't Stop 'Til You Get Enough](https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 6:04 | 2021-09-21 |  |
 | [Don't Stop 'Til You Get Enough \- Single Version](https://open.spotify.com/track/2ThA2HEEfcn47HPh210woX) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off The Wall](https://open.spotify.com/album/4c4zsGZwtoTXOPGlDXTmw8) | 6:04 | 2019-05-26\* | 2021-09-22 |
 | [Double Journey](https://open.spotify.com/track/6GRf4VLxW85cbjLxQhWGLJ) | [Powerline](https://open.spotify.com/artist/0bxOY7bANY5VgN0vALUAq9) | [Spaced Out + Mixed In Outer Space](https://open.spotify.com/album/0hHrwIBPJTNQx5IoB9fUUS) | 6:56 | 2019-05-26\* | 2021-09-22 |
 | [Everybody Dance \- 12" Mix](https://open.spotify.com/track/0LqPXq2pKXnydc96PvTK3v) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [Dance, Dance, Dance: The Best of Chic](https://open.spotify.com/album/0XRRSLnVrtXMI6cyVCacjd) | 8:27 | 2019-05-26\* | 2021-09-22 |

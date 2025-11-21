@@ -1,6 +1,6 @@
 {
   "description": "Cutting-edge dance music emerging from Japan.",
-  "num_followers": 18512,
+  "num_followers": 18571,
   "original_name": "Tokyo Club Beat",
   "owner": {
     "name": "Spotify",
@@ -771,6 +771,22 @@
     {
       "added_at": "2025-11-07 08:48:49",
       "album": {
+        "name": "RESONATE",
+        "url": "https://open.spotify.com/album/2n6Qa6luOJMhzPIE30XmDR"
+      },
+      "artists": [
+        {
+          "name": "Surya Hearts",
+          "url": "https://open.spotify.com/artist/5aCk9NvlEoOf1t18LKItin"
+        }
+      ],
+      "duration_ms": 175200,
+      "name": "RESONATE",
+      "url": "https://open.spotify.com/track/1mdRxbIa2bhGhx62PWxHK5"
+    },
+    {
+      "added_at": "2025-11-07 08:48:49",
+      "album": {
         "name": "Republica Cafe Gold (Compiled by Marco Fullone)",
         "url": "https://open.spotify.com/album/1RZEMH8G4czKTZBauBLDHy"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 326999,
       "name": "Beautiful Moment - Original Floor Mix",
       "url": "https://open.spotify.com/track/0DpqLVjEXKrH0eo9kzlkCe"
-    },
-    {
-      "added_at": "2025-11-07 08:48:49",
-      "album": {
-        "name": "RESONATE",
-        "url": "https://open.spotify.com/album/2n6Qa6luOJMhzPIE30XmDR"
-      },
-      "artists": [
-        {
-          "name": "Surya Hearts",
-          "url": "https://open.spotify.com/artist/5aCk9NvlEoOf1t18LKItin"
-        }
-      ],
-      "duration_ms": 175200,
-      "name": "RESONATE",
-      "url": "https://open.spotify.com/track/1mdRxbIa2bhGhx62PWxHK5"
     },
     {
       "added_at": "2025-11-07 08:48:49",

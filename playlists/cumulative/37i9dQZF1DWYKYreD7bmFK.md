@@ -4,7 +4,7 @@
 
 > Tutti i brani in gara a Sanremo Giovani 2025, man mano che escono 🎧
 
-48 songs - 2 hr 19 min
+49 songs - 2 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Buona Vita](https://open.spotify.com/track/23xdTDG6UCik1RWC5ye9wL) | [soap](https://open.spotify.com/artist/1HHQ5Lz44duNiQmpzKU0jd) | [Buona Vita](https://open.spotify.com/album/2M68rKgcpb3lcg69qXwgdc) | 2:45 | 2025-11-10 |  |
 | [Cielo Aperto](https://open.spotify.com/track/13ApPxDYcUcGUdBfQ8d3Pb) | [REA](https://open.spotify.com/artist/2WIeVc2TB9As3HeTcPpXev) | [Cielo Aperto](https://open.spotify.com/album/24N5XAT7KkNHWHTc2hARZe) | 3:21 | 2025-02-11 | 2025-11-11 |
 | [Come mare](https://open.spotify.com/track/3IyoDEdAtGY1hVXII9U5pQ) | [NICOL](https://open.spotify.com/artist/5SHDHLDBneSJWuVN8DAShg) | [Come mare](https://open.spotify.com/album/2jyOpZYw0wuhzSd13KPzI5) | 2:53 | 2025-02-11 | 2025-11-11 |
+| [CUPIDO](https://open.spotify.com/track/6Q6FcQxKhsSUNwAPjaaycD) | [CARO WOW](https://open.spotify.com/artist/6kyGmHxzIq5UcqAYS6BWUs) | [CUPIDO](https://open.spotify.com/album/0ZUutlus9VH8W3w0qszlxM) | 2:28 | 2025-11-20 |  |
 | [Ddoje Criature](https://open.spotify.com/track/5RXYv9glfNLq830PTslMO6) | [Deddè](https://open.spotify.com/artist/2OmKywuhryo2wruvLjcocI) | [Ddoje Criature](https://open.spotify.com/album/74WfrfLXs2O4TIFRUrNd4Y) | 2:57 | 2025-11-13 |  |
 | [Diamanti nel fango](https://open.spotify.com/track/3pa0WX5y6IoW3tIxyV005W) | [OrioN](https://open.spotify.com/artist/7IF4qyFcCGkrYb5dbMecQG) | [Diamanti nel fango](https://open.spotify.com/album/2T2dLo2wiHBLqst8gBHAhN) | 3:10 | 2025-02-11 | 2025-11-11 |
 | [Dimmi tu quando sei pronto per fare l'amore](https://open.spotify.com/track/4BCStGSMq3v68Eh5PrAslv) | [Vale LP](https://open.spotify.com/artist/4nTnJuhLXyyNms4wowqmkQ), [Lil Jolie](https://open.spotify.com/artist/2IhanhNfIn38Qjybdt2ie9) | [Dimmi tu quando sei pronto per fare l'amore](https://open.spotify.com/album/5n23zgaM0noCZw9sYHMHIL) | 2:57 | 2025-02-11 | 2025-11-11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdziGPHNE40t.md) - [plain]
 
 > start your day right ☕️ wake up with some calm and slow Jazz
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,028 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,055 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdziGPHNE40t.md) - [plain]
 | 99 | [Thursday Afternoon](https://open.spotify.com/track/0OxIW2YPKXFNkskaZfNFk5) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Thursday Afternoon](https://open.spotify.com/album/7mLrCwcnBKZgY7YcedbkW1) | 3:18 |
 | 100 | [Lemon Tart](https://open.spotify.com/track/1cPvmbaYDC33sTkNlfTuIB) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [Lemon Tart](https://open.spotify.com/album/6zS3RKFsnWW7oIpYMGL1XW) | 3:31 |
 
-Snapshot ID: `AAAAAI1nqGxs4Rc+McLa2JEU3gbC0c9c`
+Snapshot ID: `AAAAACvnNNSHon5Rv1PTaYClkUgLdndD`

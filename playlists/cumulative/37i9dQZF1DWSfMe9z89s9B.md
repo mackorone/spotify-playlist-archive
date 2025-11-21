@@ -4,7 +4,7 @@
 
 > The new school \- Alternative R&B\. Cover: BLK ODYSSY
 
-1,528 songs - 3 day 8 hr 36 min
+1,529 songs - 3 day 8 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,7 +179,7 @@
 | [birds, bees](https://open.spotify.com/track/7fIHFXaxaFZ9TLxdZeYIRD) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Pointy Heights](https://open.spotify.com/album/7KonH0i4kmFvTrYbeIQts2) | 2:55 | 2024-09-13 | 2025-05-03 |
 | [Bitch Don't Be Mad](https://open.spotify.com/track/24WhLBcWByvFMrt8NNQ0ax) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [Habits](https://open.spotify.com/album/710KCDvLyaTZS6NHNw9URq) | 3:05 | 2021-04-30 | 2022-08-06 |
 | [Bitches Be \(with Jst Ray\)](https://open.spotify.com/track/24CY4TWscXoyZRrmsQdiq1) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Jst Ray](https://open.spotify.com/artist/4A2ptrgQSJtQrbfltEpoCR) | [she / her / black bitch](https://open.spotify.com/album/0MndM4dEwGOjtuKE1aP2Tb) | 3:24 | 2022-08-05 | 2022-10-30 |
-| [BitterSweet](https://open.spotify.com/track/5lyAdBKS78EVzZnr2FM0tk) | [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ), [Malaya](https://open.spotify.com/artist/0qeCnlpThKmwCQezKhnVQb) | [BitterSweet](https://open.spotify.com/album/7nXq64NXpD0jKJKdPjGXcy) | 3:30 | 2025-09-07 |  |
+| [BitterSweet](https://open.spotify.com/track/5lyAdBKS78EVzZnr2FM0tk) | [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ), [Malaya](https://open.spotify.com/artist/0qeCnlpThKmwCQezKhnVQb) | [BitterSweet](https://open.spotify.com/album/7nXq64NXpD0jKJKdPjGXcy) | 3:30 | 2025-09-07 | 2025-11-21 |
 | [Black Goose](https://open.spotify.com/track/42twCm34xVG0EQexL1BuPm) | [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F) | [Black Goose](https://open.spotify.com/album/4QaBlPW42jSyeOv5dLg6pv) | 2:33 | 2023-10-06 | 2023-11-05 |
 | [Blame](https://open.spotify.com/track/27dM3Oji0ytPXDYGVwDoJj) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Bloodline](https://open.spotify.com/album/6w9KqIfC7zIoKmdJgs9yBA) | 2:50 | 2022-06-10 | 2023-02-04 |
 | [Blame](https://open.spotify.com/track/5j5bTgdWPU5h3MDhhaMbDX) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Blame](https://open.spotify.com/album/7gwnkG7m1cna7GPo2kUEud) | 2:50 | 2022-04-01 | 2022-04-16 |
@@ -1420,6 +1420,7 @@
 | [VALENTINE](https://open.spotify.com/track/0L7SOBsLC4jZ9X4bTs6XnL) | [80purppp](https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF) | [VALENTINE](https://open.spotify.com/album/7eFtQJ9kKAA1z27Tc0DYzg) | 2:13 | 2025-02-21 | 2025-04-12 |
 | [vanishing \. \(remix\) \[feat\. Jamilah Barry\]](https://open.spotify.com/track/09U1r7rHrGdyC2oYctnQuD) | [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl), [Jamilah Barry](https://open.spotify.com/artist/2XSaBoykurbHLXS5WwDewv) | [vanishing \. \(remix\) \[feat\. Jamilah Barry\]](https://open.spotify.com/album/6QEbw3wDihvOKbBwGFDLwD) | 3:18 | 2023-07-21 | 2023-10-20 |
 | [Veranda \(feat\. CARI\)](https://open.spotify.com/track/27tCU1eQ9zMKCKy3HTMUIt) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [CARI](https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35) | [MALIK](https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf) | 3:43 | 2025-09-07 |  |
+| [Verse 7](https://open.spotify.com/track/4D0GBIrVbExS3Cl9jqX7oK) | [Zeke Bleu](https://open.spotify.com/artist/41A9WSBy51jtVHKO6VCeN0) | [Two](https://open.spotify.com/album/1FoGxBc4pRRhzgdcqV31aY) | 2:00 | 2025-11-07 |  |
 | [Vertigo](https://open.spotify.com/track/2MItMt0xx5iUkPh37Ulv5t) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Vertigo](https://open.spotify.com/album/5PnUWe2y4JnVjwyRoMLHVm) | 3:38 | 2022-09-16 | 2022-10-25 |
 | [Vertigo](https://open.spotify.com/track/77sgvaDh1C0vp5BxjUFZ8e) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [COMETA](https://open.spotify.com/album/0RD14xtAc5iZMN8QHKw2Vn) | 3:38 | 2022-09-16 | 2023-08-12 |
 | [Vest & Boxers](https://open.spotify.com/track/6f2877TmbjnqZEqeQEGi3o) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Vest & Boxers](https://open.spotify.com/album/1Grk1vw2BVPcwvci9xcHy1) | 2:57 | 2022-04-01 | 2022-04-16 |

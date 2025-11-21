@@ -4,7 +4,7 @@
 
 > New music from Lil Baby, BigXthaPlug and Meek Mill.
 
-2,563 songs - 5 day 12 hr 55 min
+2,564 songs - 5 day 13 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1817,6 +1817,7 @@
 | [Rick & Morty](https://open.spotify.com/track/1iAWDVZem3Vx3Pb8fTUTEL) | [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS) | [Rick & Morty](https://open.spotify.com/album/5qHCL6S0C1jgH2XkxeAuQt) | 2:32 | 2021-09-11 | 2021-09-18 |
 | [Rick Jameski](https://open.spotify.com/track/0C6g9ixjZ8g3dIdd3jp0wb) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Rick Jameski](https://open.spotify.com/album/2YWiofwgIvoHwd0EESnG3B) | 2:38 | 2025-04-11 | 2025-04-26 |
 | [Ride Or Die \- From "Queen & Slim: The Soundtrack"](https://open.spotify.com/track/1CaBFUQkektA5qAl7QwO1N) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [VickeeLo](https://open.spotify.com/artist/4mPrHfhtQUBoHgTxkBieLY) | [Queen & Slim: The Soundtrack](https://open.spotify.com/album/6MI7UpFxq0mOdOeDnfa2eg) | 2:03 | 2019-11-15 | 2019-11-22 |
+| [Ridin'](https://open.spotify.com/track/3kZoay4ANo86ehb6s4RwS9) | [Chamillionaire](https://open.spotify.com/artist/6vdMPayKk8YJxxeNP5oMCb), [Krayzie Bone](https://open.spotify.com/artist/53B8dEQzmtefvkdCAkO0YR) | [The Sound of Revenge](https://open.spotify.com/album/31dzB4ULKZfOH71tuaBiR8) | 5:03 | 2025-11-20 |  |
 | [Right Now](https://open.spotify.com/track/1rujAl2i7jyiS3gGmZN7L5) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [Right Now](https://open.spotify.com/album/3NnceSjaPrxdNfXAE3TX8f) | 2:47 | 2024-11-08 | 2024-11-16 |
 | [Right On](https://open.spotify.com/track/6ws54n2IzyrIxxyzlG2bVJ) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Right On](https://open.spotify.com/album/1dzpQiq9uhCaaeTGFmtn2p) | 3:33 | 2022-04-08 | 2022-08-13 |
 | [Right Or Wrong \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/6lRL7n9vDpwL7PrYfm0TzS) | [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Young Jefe 3](https://open.spotify.com/album/2rnt0fBBFJ9ByEPnewCPr5) | 3:02 | 2020-09-18 | 2020-09-25 |

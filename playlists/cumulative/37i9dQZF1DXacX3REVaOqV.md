@@ -4,7 +4,7 @@
 
 > The best in house music
 
-702 songs - 1 day 21 hr 54 min
+703 songs - 1 day 21 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -425,6 +425,7 @@
 | [Move With Me \- Todd Terry Remix](https://open.spotify.com/track/1ml3JWTEvWUJNj5tovHz75) | [Mia More](https://open.spotify.com/artist/5LokU7BD5Ue4oLzjtUWYGU), [Able Faces](https://open.spotify.com/artist/7nL523vzwv24ad0oFf2VZ2), [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [Move With Me \(Todd Terry Extended Remix\)](https://open.spotify.com/album/3hpoG2nJnwKPMfPlY207pp) | 3:06 | 2023-07-20 | 2024-09-13 |
 | [Move Your Body](https://open.spotify.com/track/0ZrCsbgPF7j50Uw6ODNbFY) | [Quarterhead](https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY) | [Move Your Body](https://open.spotify.com/album/4ZbiB5YgRoLjgeavjUPIs3) | 2:28 | 2024-11-12 | 2025-11-08 |
 | [Move Your Body \- Kim Kaey Remix](https://open.spotify.com/track/0jGGnUiMHn36ZWsxZbpIs4) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [Kim Kaey](https://open.spotify.com/artist/29c2vtSHCC1QvGh29zEfpy) | [Move Your Body \(Kim Kaey Remix\)](https://open.spotify.com/album/3NJV9amP7uzF5CE40A6bEo) | 2:36 | 2022-06-22 | 2024-07-21 |
+| [Music Power](https://open.spotify.com/track/0mg795DZrMvAlAausSdd7Q) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE), [Porno](https://open.spotify.com/artist/5dzCQofQeaFhxQBIWMWjzb) | [Music Power](https://open.spotify.com/album/1E5oz3PbIi48mK8HFrZ2QN) | 2:41 | 2025-11-20 |  |
 | [Mvinline](https://open.spotify.com/track/6bbx7nYlixYuElKMbYCzMm) | [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Mvinline](https://open.spotify.com/album/5FeNmn9ROaljE00OMnusjS) | 3:19 | 2022-04-14 | 2024-03-01 |
 | [My Heartbeat](https://open.spotify.com/track/1fGrmb93vmYFq4141u0HJJ) | [Gregor Salto](https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew), [Chappell](https://open.spotify.com/artist/03c6rlE26TKE52RVHBroj5) | [Selebra Bida](https://open.spotify.com/album/1kZ5GbcKUfwkJxbOR6BOeu) | 3:31 | 2025-07-03 | 2025-08-16 |
 | [My Mind](https://open.spotify.com/track/1o0tOUwRDX6isTfSPxzXkD) | [Belters Only](https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA) | [My Mind](https://open.spotify.com/album/5Dk6CuF9SdE23YdfJUZLDd) | 2:47 | 2023-03-02 | 2024-09-13 |
@@ -649,7 +650,7 @@
 | [Tunnel](https://open.spotify.com/track/4Q9NKKycjy7cEDETJfE2EJ) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Cyclorama](https://open.spotify.com/album/46vqvAYDetWqC04lXDzTmc) | 5:10 | 2022-04-14 | 2022-07-29 |
 | [Tunnel](https://open.spotify.com/track/4at0npP4QkdIUulFZIsYft) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Cyclorama](https://open.spotify.com/album/2XLO00VSPGAGxpUjezhHoC) | 5:10 | 2022-07-28 | 2023-04-13 |
 | [Turn Me Up](https://open.spotify.com/track/5cd8YFFqYye4F1BEnaDE9g) | [Gissa](https://open.spotify.com/artist/2ei6WOXxaCUYqLJbD0Y2mo) | [Turn Me Up](https://open.spotify.com/album/6YklXYwHcYqwxw32jv3lK7) | 3:07 | 2025-11-07 |  |
-| [Turntable Truth](https://open.spotify.com/track/362ZxQJ3XC8K7lo19ysDow) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE), [Funkerman](https://open.spotify.com/artist/7ljL11SRgjkdqO8NqjJBVU), [Smokin' Jack Hill](https://open.spotify.com/artist/4yBNXUpedJYDi734gNJWSm) | [Turntable Truth](https://open.spotify.com/album/6GrtcsJyvo6zxwE6T20snD) | 3:23 | 2025-04-17 |  |
+| [Turntable Truth](https://open.spotify.com/track/362ZxQJ3XC8K7lo19ysDow) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE), [Funkerman](https://open.spotify.com/artist/7ljL11SRgjkdqO8NqjJBVU), [Smokin' Jack Hill](https://open.spotify.com/artist/4yBNXUpedJYDi734gNJWSm) | [Turntable Truth](https://open.spotify.com/album/6GrtcsJyvo6zxwE6T20snD) | 3:23 | 2025-04-17 | 2025-11-21 |
 | [Two Hearts \- Original Mix](https://open.spotify.com/track/7wtjDhC7rShqYPdFIrxcor) | [Daniel Steinberg](https://open.spotify.com/artist/6mU76NVrD4mcmA5WIoiUMV) | [Two Hearts EP](https://open.spotify.com/album/5EmhtGastrE8dksOnUGZLF) | 3:39 | 2024-04-11 | 2025-03-21 |
 | [Ultimatum \- Edit](https://open.spotify.com/track/0slkzFvyBWcwnjEEDtYE5E) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Ultimatum](https://open.spotify.com/album/3mKvAiTrhpJUTAFsJXmjTE) | 3:33 | 2022-07-28 | 2022-09-16 |
 | [Underground Is My Home \- Crazibiza Extended Remix](https://open.spotify.com/track/7sHc06j8kOJyTrL93zqBHn) | [Dennis Ferrer](https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi), [Tyrone Ellis](https://open.spotify.com/artist/5FHBSx3jc1kM55Un6eUfSl), [Crazibiza](https://open.spotify.com/artist/7gLis8CQkAQ7fJJNTWQNU1) | [Underground Is My Home \(Remixes\)](https://open.spotify.com/album/2DpgFLoVgAu9McgyeZQeY5) | 6:00 | 2024-03-14 | 2024-04-10 |

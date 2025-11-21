@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/78tPw9siuiq0XkhByNnYdR.md) - [plain]
 
 > The ultimate throwback party playlist featuring some of the greatest RnB jams.
 
-[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 165,196 likes - 71 songs - 4 hr 57 min
+[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 165,190 likes - 71 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/78tPw9siuiq0XkhByNnYdR.md) - [plain]
 | 54 | [It Wasn't Me](https://open.spotify.com/track/3ZiCDLNyq73LLlbn0oIvTR) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Rik Rok](https://open.spotify.com/artist/67wCYxOq4A1ohAs7jWYaOJ) | [Hot Shot \(UK EDITION WITH 2 BONUS TRACKS & 2 VIDS\)](https://open.spotify.com/album/3seesPYdQ7jYaMJ9aqZsRD) | 3:47 |
 | 55 | [Bills, Bills, Bills](https://open.spotify.com/track/1Oi2zpmL81Q0yScF1zxaC0) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [The Writing's On The Wall](https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG) | 4:16 |
 | 56 | [How Many Drinks?](https://open.spotify.com/track/4LiQ8uAynrXFWY0vimnAa1) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Kaleidoscope Dream \(Deluxe Version\)](https://open.spotify.com/album/4Rvzx3X6hcDb7nty1IzVP4) | 4:33 |
-| 57 | [So Amazing](https://open.spotify.com/track/2BABTeUx608FA8b47bDuLK) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Give Me The Reason](https://open.spotify.com/album/3uWgCaZ1ixRuMvBZniwxJj) | 3:42 |
+| 57 | [So Amazing](https://open.spotify.com/track/2BABTeUx608FA8b47bDuLK) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Give Me The Reason](https://open.spotify.com/album/3uWgCaZ1ixRuMvBZniwxJj) | 3:44 |
 | 58 | [Milkshake](https://open.spotify.com/track/2cMTIlktg3M9mXYqCPqw1J) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [Tasty](https://open.spotify.com/album/7zesXMFikT4DdgkklIk3Jz) | 3:02 |
 | 59 | [Thong Song](https://open.spotify.com/track/5Mmk2ii6laakqfeCT7OnVD) | [Sisqo](https://open.spotify.com/artist/6x9QLdzo6eBZxJ1bHsDkjg) | [Unleash The Dragon](https://open.spotify.com/album/0nyora4kbjBGE4d1B9gxnm) | 4:13 |
 | 60 | [Gold Digger](https://open.spotify.com/track/3QHPHLAkYV5cQBUYs6rowx) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w) | [Late Registration](https://open.spotify.com/album/0Ds6i3h0F9RcYIKAD5Olum) | 3:27 |

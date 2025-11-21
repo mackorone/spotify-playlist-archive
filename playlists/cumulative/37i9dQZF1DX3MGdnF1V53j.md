@@ -4,7 +4,7 @@
 
 > DYSTINCT and Mustafa Al Abdullah on the cover of Habibi Gang Gang
 
-187 songs - 8 hr 50 min
+188 songs - 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,12 +28,13 @@
 | [AYOUBA](https://open.spotify.com/track/50KNZJd19hcVwrRRn3gaxd) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [AYOUBA](https://open.spotify.com/album/53yrh4E94dCvbmc6BjReHF) | 2:57 | 2025-09-04 | 2025-10-31 |
 | [AYÉ AYO \(feat\. Skalpovich\)](https://open.spotify.com/track/4XXJnTdwm0MaKLP2OXajCU) | [L'Algérino](https://open.spotify.com/artist/7kyIBL1EYouLqC8vw7IOui), [Skalpovich](https://open.spotify.com/artist/0Flx9EfBqXHltFcp3guYVt) | [AYÉ AYO \(feat\. Skalpovich\)](https://open.spotify.com/album/2LFb14evc1ArfZ8SkQUbcl) | 3:03 | 2024-02-29 |  |
 | [BABA \(feat\. Ghali\)](https://open.spotify.com/track/5eqpqdHsOKMqeI1UXUjAUg) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [BABA \(feat\. Ghali\)](https://open.spotify.com/album/7tfYeVFoIFOk2dun7OXBd5) | 2:49 | 2024-02-29 |  |
-| [Babour \(Part.2\)](https://open.spotify.com/track/1mFqyRG768wvXEpIMwOW2j) | [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [Babour \(Part.2\)](https://open.spotify.com/album/3CxihbW83woTJc35r7Zu2Q) | 2:19 | 2025-04-17 |  |
+| [Babour \(Part.2\)](https://open.spotify.com/track/1mFqyRG768wvXEpIMwOW2j) | [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [Babour \(Part.2\)](https://open.spotify.com/album/3CxihbW83woTJc35r7Zu2Q) | 2:19 | 2025-04-17 | 2025-11-21 |
 | [Baila](https://open.spotify.com/track/3t52Hs4LPHYt1OeUSliFpP) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Sans visa](https://open.spotify.com/album/5rncxkieoEvPDzA7VdNGQx) | 2:25 | 2024-02-29 | 2025-02-28 |
 | [Bali maak](https://open.spotify.com/track/1T1K8RD3cHOJF95MjJdW6E) | [Amine Farsi](https://open.spotify.com/artist/1jsITtntorE3UE5JMAZ2j6), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Bali maak](https://open.spotify.com/album/6WtZt1QKkW712bnLox831o) | 2:39 | 2025-11-10 |  |
 | [Biba Lik](https://open.spotify.com/track/0xCCEI4yTTaaTI49eQjlc7) | [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [Biba Lik](https://open.spotify.com/album/6rYWKDsT3UEg5dSRt2TeD4) | 2:06 | 2024-09-09 | 2025-11-11 |
 | [Bisous](https://open.spotify.com/track/3meNzVv5AkT39krbyF8McH) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Africa Jungle Part.1](https://open.spotify.com/album/4OsnnplK0ncl5jJk64wB17) | 3:14 | 2025-02-27 | 2025-09-15 |
 | [Bomba Internationale](https://open.spotify.com/track/61R8xjGtLJSDLqdXchuv7Z) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Bomba Internationale](https://open.spotify.com/album/6thmHz667FJDAlkmStkXFW) | 2:45 | 2024-05-10 |  |
+| [Bouger](https://open.spotify.com/track/6I5kbDdzYqJtJ1siNDEy57) | [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y), [Youka](https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6) | [Ahlam](https://open.spotify.com/album/3PLlA3xWAQhLGS3aNwlhOz) | 2:03 | 2025-11-20 |  |
 | [Bouhali](https://open.spotify.com/track/7xO6CfFdUb5meXwUFkGAYV) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [Bouhali](https://open.spotify.com/album/6kkrS3firsO8bP9rklJAHQ) | 3:11 | 2025-01-10 |  |
 | [Buonasera \(feat\. Soolking\)](https://open.spotify.com/track/59j4pfjQ4liajRkL5QuChD) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [PIZZA KEBAB Vol\. 1](https://open.spotify.com/album/36pfG4aLiawluO8PgGZkeh) | 2:52 | 2024-02-29 | 2025-05-09 |
 | [Business \(feat\. Naza\)](https://open.spotify.com/track/7ckhEsg0yYCINgl1HqjCUk) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [Unleaded](https://open.spotify.com/artist/3zWMcT8MOIAnQMbGFmMFun) | [Business \(feat\. Naza\)](https://open.spotify.com/album/7xfhDDNz65EkMyzDOKfVOF) | 2:50 | 2024-02-29 | 2024-11-22 |

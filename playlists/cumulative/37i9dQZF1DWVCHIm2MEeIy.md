@@ -4,7 +4,7 @@
 
 > This is our playground 🪩  Cover: Keinemusik
 
-581 songs - 1 day 23 hr 49 min
+582 songs - 1 day 23 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -436,6 +436,7 @@
 | [RITMO](https://open.spotify.com/track/3ifvaAvaSYo1WDWXxAiv2A) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omiki](https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f), [Son of Son](https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM) | [RITMO](https://open.spotify.com/album/0OD7izYJwTmirMdqjOS43Q) | 3:13 | 2024-11-11 |  |
 | [Rituals](https://open.spotify.com/track/4AgbFfaJGqz7vBCpmapJQO) | [Steand](https://open.spotify.com/artist/2lX40grYVkSFaWX6vWOquI), [Andy Kulter](https://open.spotify.com/artist/2wHIfsNcNgN0dKxYa2XOF6) | [Rituals](https://open.spotify.com/album/6aPY8GoHHfEUv1aVMMf58J) | 5:57 | 2023-01-13 | 2023-02-04 |
 | [Roll the Dice \- Konstantin Sibold Remix](https://open.spotify.com/track/6Sut2jMsmtx3ZFeJQP6jV4) | [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT), [Konstantin Sibold](https://open.spotify.com/artist/5Ls75umF4lBOQVp3pJAlbW) | [Roll the Dice \(Konstantin Sibold Remix\)](https://open.spotify.com/album/3WOPS1tdtkUaZ9fU9Rm1J0) | 4:45 | 2025-02-24 | 2025-07-25 |
+| [Rollin'](https://open.spotify.com/track/64hm5dK5l4NMdj4iCofo83) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR), [Glowal](https://open.spotify.com/artist/4XCU9tk7hogxz1SRTvVXLJ) | [Rollin'](https://open.spotify.com/album/3CEENecoQXHFjOxgWpZVgE) | 2:52 | 2025-11-20 |  |
 | [Romantika](https://open.spotify.com/track/4nOOoo9OJbgnTBNHe5b6nD) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [Eros Massacre](https://open.spotify.com/album/0ZVpEzmv3wYLL1waCPPf7V) | 4:10 | 2024-02-13 | 2024-03-20 |
 | [Run Run Run \- Adam Port Remix](https://open.spotify.com/track/6ILgZZZnxyXRSvzSlpuNIz) | [Yeah But No](https://open.spotify.com/artist/0ItjeUHfPa2W8ZMP7wi12J), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk) | [White Noise Romantica](https://open.spotify.com/album/2srIYLeeLr0DpqhpfYJ5Bl) | 5:41 | 2024-04-18 | 2024-04-26 |
 | [Running](https://open.spotify.com/track/66wSsVqIEuxTryOwZHddFI) | [Myno!](https://open.spotify.com/artist/1P7eFOQtdbvjzHBEMT3Bq9) | [Running](https://open.spotify.com/album/3mPdroSAho9HE6PwGJgM3g) | 6:25 | 2024-01-22 | 2024-02-01 |
@@ -587,7 +588,7 @@
 | [Yours](https://open.spotify.com/track/5kNv1Du0DqYgKkFgXiBRu3) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [Yours](https://open.spotify.com/album/4nx4lWkeRVuqVTIr0RBFH7) | 4:17 | 2022-04-15 | 2022-09-03 |
 | [Yumi](https://open.spotify.com/track/0qLp8n67H96dA3L0ySGb0l) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [Yumi EP](https://open.spotify.com/album/4EyihxwhzNMOtYjGFpJalw) | 6:21 | 2022-11-25 | 2023-02-19 |
 | [Yumi](https://open.spotify.com/track/3AYRPb2JAD4GZ6L6LeHoj5) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [Yumi EP](https://open.spotify.com/album/5LVl6B5iv7BNR4h01jWlJj) | 6:21 | 2023-02-17 | 2024-04-19 |
-| [Zodiac](https://open.spotify.com/track/1yZBuUYcA0Ug7Y7ImNdhwt) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Zodiac](https://open.spotify.com/album/6dylMlHC16SU924l7a6UGV) | 5:42 | 2024-01-22 |  |
+| [Zodiac](https://open.spotify.com/track/1yZBuUYcA0Ug7Y7ImNdhwt) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Zodiac](https://open.spotify.com/album/6dylMlHC16SU924l7a6UGV) | 5:42 | 2024-01-22 | 2025-11-21 |
 | [Zorro](https://open.spotify.com/track/0hKa1iXJRQMcpMELUojgTI) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf), [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Zorro](https://open.spotify.com/album/7uoEGgQYCAyJ9mWzItcJch) | 3:36 | 2022-09-22 | 2022-10-01 |
 
 \*This playlist was first scraped on 2022-04-20. Prior content cannot be recovered.

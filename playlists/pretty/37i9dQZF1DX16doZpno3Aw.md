@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16doZpno3Aw.md) - [plain]
 
 > all the best instrumentals & sounds from the internet  ∼ 🫀
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,933 likes - 109 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,080 likes - 109 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16doZpno3Aw.md) - [plain]
 | 25 | [Carol of the Bells \- Piano Version](https://open.spotify.com/track/3volBRJGzsvTuRFM1e9p94) | [Tony Ann](https://open.spotify.com/artist/6Y1uosuiV7bpiOuCUgibsN) | [Carol of the Bells \(Piano Version\)](https://open.spotify.com/album/23EO5UPnJyTpwq0i8vpvNR) | 2:45 |
 | 26 | [To Build a Home \- Instrumental Version](https://open.spotify.com/track/7dZ90SiAB4KFm2UUmRNmnQ) | [Nick Squires](https://open.spotify.com/artist/3oT8qO8OOP7DgaxBVBzeBb), [London Music Works](https://open.spotify.com/artist/0VeT7hHTJFJZcENGekjCsB) | [To Build a Home \(Instrumental Version\)](https://open.spotify.com/album/2dzPOv3kkFIxurNrae2GAr) | 4:01 |
 | 27 | [Dawn \- From "Pride & Prejudice" Soundtrack](https://open.spotify.com/track/2k2MprlqkmDMKKOOWGREzW) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6) | [Pride and Prejudice \- OST](https://open.spotify.com/album/5pV86WRRdbyIdK3YkS7rOI) | 2:38 |
-| 28 | [Take Five](https://open.spotify.com/track/1YQWosTIljIvxAgHWTp7KP) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Time Out](https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA) | 5:24 |
+| 28 | [Take Five](https://open.spotify.com/track/1YQWosTIljIvxAgHWTp7KP) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Time Out](https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA) | 5:28 |
 | 29 | [Her](https://open.spotify.com/track/2vlkTkPqdATznKHu9gD2c1) | [The American Dawn](https://open.spotify.com/artist/3EXC0gkpntFvtLS1R0yf11) | [Her](https://open.spotify.com/album/3YsLlWQ9dzG0dFQQZO1jEv) | 3:34 |
 | 30 | [Boundless Worship](https://open.spotify.com/track/1DwpJCFR4CgevQJvJHmUw3) | [Josué Novais Piano Worship](https://open.spotify.com/artist/2eyvnKpqrIgBVqliNYz8Yj) | [Boundless Worship](https://open.spotify.com/album/4usipgX4X9s8LZG85KELnD) | 11:55 |
 | 31 | [golden hour \- Orchestral Version\) \(Instrumental](https://open.spotify.com/track/4gLtQPqNB58yqdVCRyPpZ4) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [golden hour \(Orchestral Version\)](https://open.spotify.com/album/2AYh5fLMxNGcmSB1rANFfJ) | 3:31 |

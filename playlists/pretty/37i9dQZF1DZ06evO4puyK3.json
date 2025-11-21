@@ -1,12 +1,12 @@
 {
   "description": "This is Gloria Groove. The essential tracks, all in one playlist.",
-  "num_followers": 166183,
+  "num_followers": 166186,
   "original_name": "This Is Gloria Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRu3AAAAAABnzRgwQBmvU6rayAjWYl5K",
+  "snapshot_id": "aR0IgAAAAAC99oO74JySkt7w2A4mKYHh",
   "tracks": [
     {
       "added_at": null,
@@ -667,26 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "YoYo",
-        "url": "https://open.spotify.com/album/0D816QjniOM4ZXAHzIT5jJ"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        },
-        {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/6uW3jO0Wi5gBP0d5mrD40p"
-        }
-      ],
-      "duration_ms": 156521,
-      "name": "YoYo",
-      "url": "https://open.spotify.com/track/2ZPOMV3L3rhoT54wZjB6GO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Noitada",
         "url": "https://open.spotify.com/album/6FwzHdmi1hoOUSnirEqGRO"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 166013,
       "name": "AMEIANOITE",
       "url": "https://open.spotify.com/track/27bgMTAq4qTACnE48M3aTH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "YoYo",
+        "url": "https://open.spotify.com/album/0D816QjniOM4ZXAHzIT5jJ"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        },
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/6uW3jO0Wi5gBP0d5mrD40p"
+        }
+      ],
+      "duration_ms": 156521,
+      "name": "YoYo",
+      "url": "https://open.spotify.com/track/2ZPOMV3L3rhoT54wZjB6GO"
     },
     {
       "added_at": null,

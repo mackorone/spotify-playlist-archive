@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new hip\-hop tracks from independent artists & labels\.  Cover: <a href="spotify:artist:2U3bFzN7xGOhqdATusepqC">diamond\*</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,026 likes - 100 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,054 likes - 100 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 99 | [Inna While](https://open.spotify.com/track/4CYZ1z2t8d4OTfpoWGzZe4) | [LAWSON](https://open.spotify.com/artist/4pMJdsAzstHSaoZnTgvSsV) | [Inna While](https://open.spotify.com/album/13fLqrc0j0IyNlYgC1mxs7) | 2:54 |
 | 100 | [Broken Barbies](https://open.spotify.com/track/6U0BBjRQG2uyoFjDmXSS2n) | [iAMLYRIC](https://open.spotify.com/artist/57tjtvBR1dB7aZQPKmV1Y5) | [Broken Barbies](https://open.spotify.com/album/404SZ5N0p2kS6E6JT90dUx) | 2:49 |
 
-Snapshot ID: `AAAAADrHSroorrH1f522FIhdYC42uj5i`
+Snapshot ID: `AAAAABeVIBeqzWYbUz/yaH0XsStPE7Df`

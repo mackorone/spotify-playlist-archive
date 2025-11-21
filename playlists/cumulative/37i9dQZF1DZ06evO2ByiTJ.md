@@ -4,7 +4,7 @@
 
 > This is Elaine Martins\. The essential tracks, all in one playlist.
 
-78 songs - 5 hr 54 min
+79 songs - 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Filho Volta \(Ao Vivo\)](https://open.spotify.com/track/52JyooPBg5X4bnxZYyWdQg) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8), [Jairo Bonfim](https://open.spotify.com/artist/1DcX51Pc5bYQX0o2fvdGK4) | [Filho Volta \(Ao Vivo\)](https://open.spotify.com/album/44g66oxnqjBxpky6dfEsYN) | 4:20 | 2024-09-07 |  |
 | [Firme nas Promessas](https://open.spotify.com/track/3RT2CFpszKl14Pw3dzRZ6I) | [Carlinhos Falsetti](https://open.spotify.com/artist/67KYGMV1oYKB0GelhcDgP7), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8), [Débora Cristina](https://open.spotify.com/artist/3QNmNkJaqLdJqENaFKEa7j) | [Firme nas Promessas \(Acústico\)](https://open.spotify.com/album/3khWXT7zps8cnnZeOWdqpB) | 2:45 | 2023-08-27 | 2024-09-21 |
 | [Força Santa](https://open.spotify.com/track/1SnT8D0raTV7xo7Cq5yU2y) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Força Santa](https://open.spotify.com/album/4BBOKsTi7lKpkkqzAnowIc) | 5:44 | 2023-07-09 | 2023-08-28 |
-| [Fui Eu](https://open.spotify.com/track/4pWdjzCpYz8xUO9pIBf9vh) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Fui Eu](https://open.spotify.com/album/2VdsOYoru4CWxdAvNxomXs) | 4:02 | 2025-06-12 |  |
+| [Fui Eu](https://open.spotify.com/track/4pWdjzCpYz8xUO9pIBf9vh) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Fui Eu](https://open.spotify.com/album/2VdsOYoru4CWxdAvNxomXs) | 4:02 | 2025-06-12 | 2025-11-21 |
 | [História Linda de Viver \(Ao Vivo\)](https://open.spotify.com/track/2mjqg4jZHavTfQtzVydvc9) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [História Linda de Viver \(Ao Vivo\)](https://open.spotify.com/album/3VboLnoznp1VpoVaHV2HZt) | 4:42 | 2023-07-09 |  |
 | [Humilde Rei](https://open.spotify.com/track/3ZhGcpxMziwd6ZLY7o3Xp9) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Humilde Rei](https://open.spotify.com/album/2eieGUaivlYodxrstfbLI6) | 5:31 | 2023-07-09 | 2025-06-13 |
 | [Há um Deus no Céu \(Ao Vivo\)](https://open.spotify.com/track/2nHSRcZHW6L75pAWfPNOHn) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8), [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Há um Deus no Céu \(Ao Vivo\)](https://open.spotify.com/album/0RXhj4IrrkcMs9Puae55n8) | 3:55 | 2024-03-27 |  |
@@ -76,6 +76,7 @@
 | [Santificação \(Ao Vivo\)](https://open.spotify.com/track/3Bg1HJtKZAH0sH07vY9dn9) | [Thalita Roberta](https://open.spotify.com/artist/1yZUa312JkTmgQCEzp8QTc), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Santificação \(Ao Vivo\)](https://open.spotify.com/album/0w3FVZ8PUX84dgKIhOBjns) | 4:14 | 2023-07-09 | 2025-02-21 |
 | [Sei É Bem Assim](https://open.spotify.com/track/4EIQMsDFraihHLheHCZMHt) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Elaine Martins Live Session](https://open.spotify.com/album/4TQPjpUrKPa7ZsZuiXecGP) | 4:50 | 2023-07-09 |  |
 | [Sobrevivi \(Ao Vivo\)](https://open.spotify.com/track/0MRdJOx3IRuclfyzlDfscT) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Elaine Martins \(Ao Vivo\)](https://open.spotify.com/album/5S7CFFCOS5RKNB6gpDmD3U) | 4:29 | 2023-07-09 |  |
+| [Sonhos Não Têm Fim + Volte a Sonhar \(Ao Vivo\)](https://open.spotify.com/track/3Z4d093Y32jjGjEY6Q3KgH) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Sonhos Não Têm Fim + Volte a Sonhar \(Ao Vivo\)](https://open.spotify.com/album/5Uc7YEZkpObjE8kc1gr3kG) | 6:09 | 2025-11-21 |  |
 | [Tempo de Deus](https://open.spotify.com/track/3mB35vJRJwwiwGawPACdHW) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Rompendo](https://open.spotify.com/album/0L9ZMTBc8ZuSL8ExboD92L) | 5:23 | 2023-07-09 |  |
 | [Teu Querer](https://open.spotify.com/track/7H74zMAlC3fZiIogelHllE) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Teu Querer](https://open.spotify.com/album/1CwbTPGS230GvaawqIMnuy) | 4:58 | 2023-07-09 |  |
 | [Todavia me Alegrarei \(Ao Vivo\)](https://open.spotify.com/track/77QWHvsIPyV6dkkrJyuxRG) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B), [Paulo Neto](https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Drive In \(Ao Vivo\)](https://open.spotify.com/album/5gSFHSa7M5B1GQjVTNxdqW) | 5:52 | 2023-07-09 |  |

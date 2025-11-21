@@ -2,9 +2,9 @@
 
 ### [Dance Generation](https://open.spotify.com/playlist/37i9dQZF1DX1lp03JVa0o6)
 
-> Today's biggest dance hits! Cover: Sonny Fodera, Poppy Baskcomb, D.O.D
+> Today's biggest dance hits! Cover: Ninajirachi
 
-896 songs - 1 day 22 hr 38 min
+897 songs - 1 day 22 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -312,6 +312,7 @@
 | [Friends](https://open.spotify.com/track/3YCr7Q8EbWoGLByCTPmxoe) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Friends](https://open.spotify.com/album/5LSnkj5aoJBih89lJ21D5w) | 2:27 | 2023-03-30 | 2023-07-07 |
 | [Friends](https://open.spotify.com/track/4kwbbhuemSkRWvtN5dkWmb) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Friends](https://open.spotify.com/album/7ebm9IP2zYl77waFn1r5Xl) | 2:37 | 2023-05-11 | 2023-08-25 |
 | [Fuck My Computer](https://open.spotify.com/track/2Gt39sy5hTo4huF2Og9XEj) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Fuck My Computer](https://open.spotify.com/album/1oX8Dje3jHWVmKNfTbzrcy) | 3:10 | 2025-06-26 | 2025-08-01 |
+| [Fuck My Computer](https://open.spotify.com/track/5ZbztTcvj6QWWbeYsL4GTa) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [I Love My Computer](https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ) | 3:10 | 2025-11-20 |  |
 | [Fuck The Pain Away](https://open.spotify.com/track/4xCmCF6pHz0v6vcANehny0) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [Triple F](https://open.spotify.com/album/2MJZVIvc14YSuFze66w5Vw) | 2:43 | 2024-03-07 | 2024-04-19 |
 | [Galvanize \- Chris Lake Remix](https://open.spotify.com/track/7Ki6lQlcAW565EsHfP8U7S) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE) | [Galvanize \(Chris Lake Remix\)](https://open.spotify.com/album/4rxSgHTfUkvO4PCuIQUcMB) | 3:43 | 2025-09-11 |  |
 | [Gave You Everything](https://open.spotify.com/track/0XvN2WXrhdhsWOubEOmRkW) | [Modern Living](https://open.spotify.com/artist/3rtmhk7q9YhsFeQXF639G9), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Gave You Everything](https://open.spotify.com/album/485CegQ9SBQRjRpyHaKZMU) | 3:22 | 2024-11-07 | 2025-04-11 |
@@ -782,7 +783,7 @@
 | [Tension \(Chromeo Remix\)](https://open.spotify.com/track/1FvLE1PSYgWy9t98gHyoz8) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Tension \(The Remixes\)](https://open.spotify.com/album/6OCoaXc7qY2Y39b8FMTEb9) | 4:06 | 2023-10-19 | 2023-12-15 |
 | [TENTEN](https://open.spotify.com/track/6njivaRY1zUaaEZGf22unI) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [D38](https://open.spotify.com/artist/0x1B0bD5jSY4Py6VWB66Fe) | [TENTEN](https://open.spotify.com/album/5X7s4cPiT5e5QjvsEUp76Q) | 3:29 | 2025-04-17 | 2025-09-19 |
 | [Tequila](https://open.spotify.com/track/6ZYpriZlRRLOYlfbn4zKuN) | [ALYSSA](https://open.spotify.com/artist/75ZLyp0dI6PGiynBQS4rJp) | [Tequila](https://open.spotify.com/album/4CcYSk8pA0BWv6n0rI6oUK) | 2:39 | 2024-01-18 | 2024-02-16 |
-| [TESLA](https://open.spotify.com/track/6qJhrI2BMuA8qHcmycD3fL) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [TESLA](https://open.spotify.com/album/2dOvYQS8loEBLISp9MNRNn) | 3:06 | 2025-08-14 |  |
+| [TESLA](https://open.spotify.com/track/6qJhrI2BMuA8qHcmycD3fL) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [TESLA](https://open.spotify.com/album/2dOvYQS8loEBLISp9MNRNn) | 3:06 | 2025-08-14 | 2025-11-21 |
 | [Thandaza](https://open.spotify.com/track/48cPrTt0TLRsXQCLxQWwc7) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Alan Dixon](https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Arabic Piano](https://open.spotify.com/artist/0Na64T53YX2qe1XG97JyCO) | [Thandaza](https://open.spotify.com/album/2RwaFaBi6nvVUiT9RGbXRD) | 6:01 | 2024-03-14 | 2024-04-19 |
 | [The Club Is Jumpin'](https://open.spotify.com/track/15OcbcAnu8RH7viF0vZw71) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [The Club Is Jumpin'](https://open.spotify.com/album/3OQLs0bSQczbwbNqm89T9T) | 2:15 | 2022-12-08 | 2023-01-13 |
 | [The Cure](https://open.spotify.com/track/6cHmI8DzAJthaPWHLxv9OM) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Breathe](https://open.spotify.com/album/4x5UzbvkvyvBPBfF3h6t9h) | 3:38 | 2025-10-23 |  |

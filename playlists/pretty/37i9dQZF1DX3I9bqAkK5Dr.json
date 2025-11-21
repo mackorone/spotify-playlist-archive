@@ -1,12 +1,12 @@
 {
   "description": "Check out the emerging independent tracks from these Telugu Artists!\nCover : Eknaath Kiran Goparaaju",
-  "num_followers": 41841,
+  "num_followers": 41853,
   "original_name": "Telugu Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKHyHpGrEqQhnuPkNf+grg9B+bez",
+  "snapshot_id": "AAAAAItcRsfWM1a/EWVpFpTE4Zwucaj3",
   "tracks": [
     {
       "added_at": "2025-09-29 06:42:49",
@@ -43,6 +43,22 @@
       "duration_ms": 220941,
       "name": "Angana",
       "url": "https://open.spotify.com/track/3nfTyBrp0YaGdsLRCcXYZc"
+    },
+    {
+      "added_at": "2025-11-20 07:17:33",
+      "album": {
+        "name": "Cheliya",
+        "url": "https://open.spotify.com/album/3hqJlxtPFccOcBIVlqHKTk"
+      },
+      "artists": [
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        }
+      ],
+      "duration_ms": 183573,
+      "name": "Cheliya",
+      "url": "https://open.spotify.com/track/5lhfZHPPPvgHsvlEoQIEZC"
     },
     {
       "added_at": "2025-07-01 14:19:08",
@@ -93,6 +109,26 @@
       "url": "https://open.spotify.com/track/5QwBnFrOOUA1Ko0RliK81x"
     },
     {
+      "added_at": "2025-11-20 07:17:33",
+      "album": {
+        "name": "Shiva Tatvam - The Essence of Shiva",
+        "url": "https://open.spotify.com/album/24pAZUXMHmM3C1Z8h0RzZT"
+      },
+      "artists": [
+        {
+          "name": "Krishna Tejasvi",
+          "url": "https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q"
+        },
+        {
+          "name": "Usha Prasanna",
+          "url": "https://open.spotify.com/artist/62VzI58YaYqPziIME2pjTS"
+        }
+      ],
+      "duration_ms": 148941,
+      "name": "Shiva Tatvam - The Essence of Shiva",
+      "url": "https://open.spotify.com/track/66qGo3BOnP7OjhIKkOHBmr"
+    },
+    {
       "added_at": "2025-09-22 14:01:11",
       "album": {
         "name": "Chusa Chusa",
@@ -131,6 +167,22 @@
       "duration_ms": 218124,
       "name": "Jabilamma",
       "url": "https://open.spotify.com/track/0kFJWqJ07QeiKr9trZ4fri"
+    },
+    {
+      "added_at": "2025-11-20 07:17:33",
+      "album": {
+        "name": "Merise Merupa",
+        "url": "https://open.spotify.com/album/0nN9l0aPtowhV4H8GKCha5"
+      },
+      "artists": [
+        {
+          "name": "Palan Pauly",
+          "url": "https://open.spotify.com/artist/4eyt1rtYlWB5wKSwlJPZxW"
+        }
+      ],
+      "duration_ms": 229111,
+      "name": "Merise Merupa",
+      "url": "https://open.spotify.com/track/1QGpnQE7C3Wt3SYiVY8obx"
     },
     {
       "added_at": "2025-11-18 07:38:48",
@@ -229,30 +281,6 @@
       "url": "https://open.spotify.com/track/2Sv2MM96cs28H23K0S51Le"
     },
     {
-      "added_at": "2025-10-10 04:39:32",
-      "album": {
-        "name": "Kattuko Nannu Kattuko",
-        "url": "https://open.spotify.com/album/5g5wNsBKPqKKq6QfGthcCr"
-      },
-      "artists": [
-        {
-          "name": "Praveen Kumar Banavathu",
-          "url": "https://open.spotify.com/artist/3gVvcQXv1lmZr5iWhNXW7E"
-        },
-        {
-          "name": "Hymath Mohammed",
-          "url": "https://open.spotify.com/artist/3J1GpjoKtKt2jMkQJAeiRV"
-        },
-        {
-          "name": "Jayasri Pallem",
-          "url": "https://open.spotify.com/artist/7nPYZrwjgkmgPCqEGxSdsY"
-        }
-      ],
-      "duration_ms": 335999,
-      "name": "Kattuko Nannu Kattuko",
-      "url": "https://open.spotify.com/track/2nbmLhdpUCqGB4MIaRgGwG"
-    },
-    {
       "added_at": "2025-10-14 06:34:31",
       "album": {
         "name": "Chinna Maata",
@@ -339,6 +367,26 @@
       "duration_ms": 212895,
       "name": "Chinni Chinni Chandamama",
       "url": "https://open.spotify.com/track/1nddFFScQAwpu7cW9ThUiB"
+    },
+    {
+      "added_at": "2025-11-20 10:22:12",
+      "album": {
+        "name": "Thenela Vanala",
+        "url": "https://open.spotify.com/album/4C7gHf2uvW2pdbSfCrgLUS"
+      },
+      "artists": [
+        {
+          "name": "Veeha",
+          "url": "https://open.spotify.com/artist/6w4uvzVKaujaFJx6HokFBL"
+        },
+        {
+          "name": "Charan Arjun",
+          "url": "https://open.spotify.com/artist/75yCfkTG0b56BdrEhoNreg"
+        }
+      ],
+      "duration_ms": 180125,
+      "name": "Thenela Vanala",
+      "url": "https://open.spotify.com/track/0Tug4GRIUPSAPD3D5renfm"
     },
     {
       "added_at": "2025-08-11 00:39:31",
@@ -465,22 +513,6 @@
       "url": "https://open.spotify.com/track/0KjqwXu7zvoaaPJpG7pEXP"
     },
     {
-      "added_at": "2025-10-22 09:43:40",
-      "album": {
-        "name": "Naa Peru Nagrj",
-        "url": "https://open.spotify.com/album/3249NMeFZaBRBa7GmiHGpb"
-      },
-      "artists": [
-        {
-          "name": "Nagrj",
-          "url": "https://open.spotify.com/artist/1MoSSCdPlQSolyNClfVpxx"
-        }
-      ],
-      "duration_ms": 111820,
-      "name": "Naa Peru Nagrj",
-      "url": "https://open.spotify.com/track/2y0jg3j3d9Ao931RaSw6IC"
-    },
-    {
       "added_at": "2025-10-28 03:29:12",
       "album": {
         "name": "Maguva",
@@ -559,22 +591,6 @@
       "duration_ms": 256400,
       "name": "Gujjari Gujjari",
       "url": "https://open.spotify.com/track/6nvfEh5z8vx6Rp2SPVmGSE"
-    },
-    {
-      "added_at": "2025-09-15 11:19:53",
-      "album": {
-        "name": "Peru Gurthu Pettukondi",
-        "url": "https://open.spotify.com/album/0japaiVAo5BkeQDWaca83V"
-      },
-      "artists": [
-        {
-          "name": "Lady Skavya",
-          "url": "https://open.spotify.com/artist/5QeNGb11QgU6msarwbkI2I"
-        }
-      ],
-      "duration_ms": 179426,
-      "name": "Peru Gurthu Pettukondi",
-      "url": "https://open.spotify.com/track/65dMszxbD9jqP2mITfoe58"
     },
     {
       "added_at": "2025-09-19 11:06:01",
@@ -819,22 +835,6 @@
       "duration_ms": 221427,
       "name": "Cheruvai Nuvve Cherukoleva (Rewind)",
       "url": "https://open.spotify.com/track/2rXEHGGb48Nn8m7PAxe6FW"
-    },
-    {
-      "added_at": "2025-08-18 14:21:11",
-      "album": {
-        "name": "Bride In Blue",
-        "url": "https://open.spotify.com/album/4466fchPYZQokILY1UuYxu"
-      },
-      "artists": [
-        {
-          "name": "Kalpika Ganesh",
-          "url": "https://open.spotify.com/artist/7LpwFhs42aGI1lHbZnEhu6"
-        }
-      ],
-      "duration_ms": 183997,
-      "name": "Bride In Blue",
-      "url": "https://open.spotify.com/track/6h68Bi0RmqQ0l8Q4KAcVVU"
     },
     {
       "added_at": "2025-07-31 13:21:43",

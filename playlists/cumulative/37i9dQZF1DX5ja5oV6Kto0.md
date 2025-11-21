@@ -2,9 +2,9 @@
 
 ### [Alté Cruise](https://open.spotify.com/playlist/37i9dQZF1DX5ja5oV6Kto0)
 
-> The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Taves
+> The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Odeal
 
-985 songs - 1 day 23 hr 49 min
+986 songs - 1 day 23 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -507,7 +507,7 @@
 | [Lie to Me \(feat\. Loyce\)](https://open.spotify.com/track/18u3kmdgJPVWGuVF4C5xXR) | [Summit Boahen](https://open.spotify.com/artist/5C7WgwClUDG17aFZnAw3kU), [Loyce](https://open.spotify.com/artist/4N65Lgra8mZF22JBr9YP7i) | [Lie to Me \(feat\. Loyce\)](https://open.spotify.com/album/0h9gmISOKBEDFdBq4bX5Qx) | 3:22 | 2022-04-28 | 2022-05-06 |
 | [Lie/Idle](https://open.spotify.com/track/3RkdAeulXA3SWvX4yXwMrg) | [capespring.](https://open.spotify.com/artist/2VF53usTu5Chbp1fmxjUeS) | [Lie/Idle](https://open.spotify.com/album/691wG47mH7bj6zFtNe9qjS) | 2:00 | 2023-01-19 | 2023-02-17 |
 | [Life of the Party](https://open.spotify.com/track/6IXtDuGeMBFnIhGmpG6rgG) | [Sinachi](https://open.spotify.com/artist/3Oo9PudiVUZjuCdJBBn4si) | [Life of the Party](https://open.spotify.com/album/787uiWY99Ok0uopmJLFLX6) | 2:10 | 2024-06-21 | 2024-11-29 |
-| [Life Was Never Like This](https://open.spotify.com/track/3tAkD5F61C0ChhUVS6mCG6) | [Deewave](https://open.spotify.com/artist/3gOMLQ5G6tzooqOiT1qaBJ) | [Tired Music 2.0](https://open.spotify.com/album/7MoaQf1LoJp4386pIuS5jp) | 2:13 | 2025-05-09 |  |
+| [Life Was Never Like This](https://open.spotify.com/track/3tAkD5F61C0ChhUVS6mCG6) | [Deewave](https://open.spotify.com/artist/3gOMLQ5G6tzooqOiT1qaBJ) | [Tired Music 2.0](https://open.spotify.com/album/7MoaQf1LoJp4386pIuS5jp) | 2:13 | 2025-05-09 | 2025-11-21 |
 | [Lifeline](https://open.spotify.com/track/7cE3h9KJvSM1GUBAdms8Hy) | [Raytheboffin](https://open.spotify.com/artist/0Z7d6NoIt6baFGelxJyy1r), [3kene](https://open.spotify.com/artist/17OB2zVYkeBD5fX4PG1eZv), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [Lifeline](https://open.spotify.com/album/4fMsahuiYmcQrooQMouiY3) | 2:53 | 2023-06-30 | 2023-11-10 |
 | [Lifestyle](https://open.spotify.com/track/0KOKyqR6sW9CporoouYTJV) | [88 Shades](https://open.spotify.com/artist/1OFgO1xhsc0JBIKXmcn6KZ), [Zilla Oaks](https://open.spotify.com/artist/6jPUH69mRQVWQH6jdCfLDU) | [Lifestyle](https://open.spotify.com/album/4Zg6fQKeY8NZfPa27af2hq) | 3:08 | 2024-09-20 | 2025-07-18 |
 | [Lights go dim](https://open.spotify.com/track/5CT7AVKD7ZucJYt8sGLbgu) | [Paapa Versa](https://open.spotify.com/artist/6XaCmBX8v8w1okWhKzzQ41), [KooKusi](https://open.spotify.com/artist/1qRBRlrxzn5JgCwLGKWz8p) | [Lights go dim](https://open.spotify.com/album/3JaAWfoVqtMrC8AvYVSzNH) | 3:39 | 2023-01-27 | 2023-02-04 |
@@ -906,6 +906,7 @@
 | [Touché](https://open.spotify.com/track/6AmCAKY1V1msPUiqogglVW) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd) | [Moneybag](https://open.spotify.com/album/26MQEJC5dvEQL1rfShAXao) | 2:14 | 2023-10-20 | 2024-04-05 |
 | [Toxic Love Story](https://open.spotify.com/track/2y4FCaPrKtYXF7akDEXYRQ) | [Jontae](https://open.spotify.com/artist/3oa7E2NEUzTPobUVRuitV8) | [Toxic Love Story](https://open.spotify.com/album/0dvQXAB64oTEAXWjQRBwaY) | 2:20 | 2024-01-08 | 2024-05-03 |
 | [Toyin Tomato](https://open.spotify.com/track/4M4FJYE3mTKtpvUld3cXJn) | [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y) | [Love is War](https://open.spotify.com/album/4T7WOGmFKYhXwGYMTylhfq) | 2:48 | 2021-10-15 | 2022-02-11 |
+| [Track 9](https://open.spotify.com/track/3XmHd0NqN5O4e7Vnv8fb8q) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-21 |  |
 | [Trappin'](https://open.spotify.com/track/5plaVEdji1xkIuEEKvuVEt) | [Re.decay](https://open.spotify.com/artist/0PDj0ZH3LHrGifJSeDZKWF), [Tinuke](https://open.spotify.com/artist/5AzAEBREBwVj9AOmHNG5X1), [Eze Jackson](https://open.spotify.com/artist/5tPCFmRzyUGp5ZNqSC54QM) | [Trappin'](https://open.spotify.com/album/5hryGF4CvfTG6IIeK5SLVq) | 3:00 | 2022-05-12 | 2022-05-27 |
 | [Tropicana](https://open.spotify.com/track/3owm3LW9jSaF0UjULZvGJw) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Flash](https://open.spotify.com/artist/4YpdJj3xKNzKiLjowqoi0p) | [Palmwine Music 2](https://open.spotify.com/album/40nNC1WqyKr4IHIJH0cxS5) | 4:15 | 2024-03-21 | 2024-03-25 |
 | [Trouble](https://open.spotify.com/track/3Dw2KQ25px8I1pFVyKDVVO) | [Keziah Mallam](https://open.spotify.com/artist/4mzTknGC25KKZ5zq8vSxAs), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [Trouble](https://open.spotify.com/album/3c6unOML6k41c3dkN9pxDe) | 3:28 | 2025-04-04 | 2025-10-17 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Jessie Murph. The essential tracks, all in one playlist.",
-  "num_followers": 51239,
+  "num_followers": 51314,
   "original_name": "This Is Jessie Murph",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRu3AAAAAACBVk1QsVpz9/X4JVRHtm5o",
+  "snapshot_id": "aR0IgAAAAADxPd6lW6IOqt/IQ7ovaCKH",
   "tracks": [
     {
       "added_at": null,
@@ -343,18 +343,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cowboys And Angels",
-        "url": "https://open.spotify.com/album/1grujqAxFAN0zMCdu9Nr6H"
+        "name": "Sex Hysteria (Deluxe)",
+        "url": "https://open.spotify.com/album/6TpEUt1l3llFkDLbIgpinr"
       },
       "artists": [
         {
           "name": "Jessie Murph",
           "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
         }
       ],
-      "duration_ms": 133973,
-      "name": "Cowboys And Angels",
-      "url": "https://open.spotify.com/track/6HhZDGrpQuj2iLiN1JCpyl"
+      "duration_ms": 192416,
+      "name": "Forever (feat. 6LACK)",
+      "url": "https://open.spotify.com/track/5YgLr3Hn1JwngvChsXdJGH"
     },
     {
       "added_at": null,
@@ -407,22 +411,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sex Hysteria (Deluxe)",
-        "url": "https://open.spotify.com/album/6TpEUt1l3llFkDLbIgpinr"
+        "name": "Cowboys And Angels",
+        "url": "https://open.spotify.com/album/1grujqAxFAN0zMCdu9Nr6H"
       },
       "artists": [
         {
           "name": "Jessie Murph",
           "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        },
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
         }
       ],
-      "duration_ms": 192416,
-      "name": "Forever (feat. 6LACK)",
-      "url": "https://open.spotify.com/track/5YgLr3Hn1JwngvChsXdJGH"
+      "duration_ms": 133973,
+      "name": "Cowboys And Angels",
+      "url": "https://open.spotify.com/track/6HhZDGrpQuj2iLiN1JCpyl"
     },
     {
       "added_at": null,
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
         }
       ],
-      "duration_ms": 271625,
-      "name": "Wildflowers and Wine",
-      "url": "https://open.spotify.com/track/3DjBBD4u8mxzAQRsS9ua1u"
+      "duration_ms": 178588,
+      "name": "Certain Kind of Love",
+      "url": "https://open.spotify.com/track/49ulaJeCHwGaSgAiiisHa7"
     },
     {
       "added_at": null,
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
         }
       ],
-      "duration_ms": 178588,
-      "name": "Certain Kind of Love",
-      "url": "https://open.spotify.com/track/49ulaJeCHwGaSgAiiisHa7"
+      "duration_ms": 271625,
+      "name": "Wildflowers and Wine",
+      "url": "https://open.spotify.com/track/3DjBBD4u8mxzAQRsS9ua1u"
     },
     {
       "added_at": null,
@@ -623,6 +623,22 @@
       "duration_ms": 245459,
       "name": "Outside",
       "url": "https://open.spotify.com/track/37jbXze04RPOK8ZtPiIbHq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sex Hysteria (Deluxe)",
+        "url": "https://open.spotify.com/album/6TpEUt1l3llFkDLbIgpinr"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 183734,
+      "name": "Easy Sunday Living",
+      "url": "https://open.spotify.com/track/6JUXtFaAUMFX0q1rP7Kg4b"
     }
   ],
   "unique_name": "This Is Jessie Murph",

@@ -4190,7 +4190,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-16",
+      "date_removed": null,
       "duration_ms": 162461,
       "name": "Bandido problem\u00e1tico",
       "url": "https://open.spotify.com/track/4bioqBfAE9nhxwecok2cYB"
@@ -7788,7 +7788,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 159480,
       "name": "C\u00f3pia Proibida",
       "url": "https://open.spotify.com/track/280QfKhmWGn3LbyB39aA7u"
@@ -12840,7 +12840,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-14",
+      "date_removed": null,
       "duration_ms": 149333,
       "name": "Faz assim",
       "url": "https://open.spotify.com/track/0hB6UKgc3iKTphmGuWpNOg"
@@ -19408,7 +19408,7 @@
       ],
       "date_added": "2024-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 173206,
       "name": "Mentira Estampada",
       "url": "https://open.spotify.com/track/4dGx53NJZJyuuLP5ownH1p"
@@ -21226,7 +21226,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 230400,
       "name": "M\u00e1quina do Tempo",
       "url": "https://open.spotify.com/track/5oI9blwsXC8AkTWw6wASY8"
@@ -21768,7 +21768,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 154956,
       "name": "Ningu\u00e9m Pode Saber",
       "url": "https://open.spotify.com/track/5foViOTHRbErvRNf3VQ3rs"
@@ -27094,7 +27094,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-09",
+      "date_removed": null,
       "duration_ms": 468953,
       "name": "Quem \u00c9 Esse? - Ao Vivo",
       "url": "https://open.spotify.com/track/035Q417M83JnP3wvSlyFEK"
@@ -29451,6 +29451,40 @@
     },
     {
       "album": {
+        "name": "SEQU\u00caNCIAS #1",
+        "url": "https://open.spotify.com/album/55dQeTyxDtzrixKmRhhG02"
+      },
+      "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        },
+        {
+          "name": "Mc Jhey",
+          "url": "https://open.spotify.com/artist/34giN3qeTOdgDSJIdtIMdm"
+        },
+        {
+          "name": "Mc Rodrigo do CN",
+          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
+        },
+        {
+          "name": "MC Nito",
+          "url": "https://open.spotify.com/artist/0EOOwVUWdPElrXOJyKOiBw"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129692,
+      "name": "SEQU\u00caNCIA FEITICEIRA",
+      "url": "https://open.spotify.com/track/1JUmsSEfVwhdJCVBG83XGU"
+    },
+    {
+      "album": {
         "name": "SEQU\u00caNCIA FEITICEIRA",
         "url": "https://open.spotify.com/album/1PUmgnEGrn78cJ6g0O6jry"
       },
@@ -29478,7 +29512,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-21",
       "duration_ms": 129692,
       "name": "SEQU\u00caNCIA FEITICEIRA",
       "url": "https://open.spotify.com/track/4Lwm0XFseZ09OBdmUJlcYp"
@@ -34194,7 +34228,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-19",
+      "date_removed": null,
       "duration_ms": 207136,
       "name": "Vagabundo",
       "url": "https://open.spotify.com/track/1mnMkTvrPi4iTblXaRvOoi"

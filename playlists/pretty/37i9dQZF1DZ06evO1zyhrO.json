@@ -1,12 +1,12 @@
 {
   "description": "This is Craig David. The essential tracks, all in one playlist.",
-  "num_followers": 103707,
+  "num_followers": 103708,
   "original_name": "This Is Craig David",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRu3AAAAAABTNCq0igHjPLkrU1VEYZ5K",
+  "snapshot_id": "aR0IgAAAAACsW5SPIg7qts81P6MG4oHY",
   "tracks": [
     {
       "added_at": null,
@@ -387,6 +387,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Slicker than Your Average",
+        "url": "https://open.spotify.com/album/6USRXUZXe4keGs2yUj3Fis"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 215960,
+      "name": "What's Your Flava? - Radio Edit",
+      "url": "https://open.spotify.com/track/7rVBmwJsClMU6vOlggk5Ad"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "falling or flying (Deluxe)",
         "url": "https://open.spotify.com/album/6wRMM8MLrOYDmyUnSiNzQa"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 126009,
       "name": "Lately Remix (feat. Craig David)",
       "url": "https://open.spotify.com/track/5WpBfclrPYNsoqAVeJE5vC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Slicker than Your Average",
-        "url": "https://open.spotify.com/album/6USRXUZXe4keGs2yUj3Fis"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 215960,
-      "name": "What's Your Flava? - Radio Edit",
-      "url": "https://open.spotify.com/track/7rVBmwJsClMU6vOlggk5Ad"
     },
     {
       "added_at": null,
@@ -459,6 +459,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Slicker than Your Average",
+        "url": "https://open.spotify.com/album/6USRXUZXe4keGs2yUj3Fis"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 233640,
+      "name": "Hidden Agenda",
+      "url": "https://open.spotify.com/track/5MRruRrB235AeY0DISngdw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Following My Intuition (Expanded Edition)",
         "url": "https://open.spotify.com/album/0Vop2iSyeir0QntOrgamFN"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 185200,
       "name": "When the Bassline Drops",
       "url": "https://open.spotify.com/track/1fGjIL2Ike4ypLQEQvQUc9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Slicker than Your Average",
-        "url": "https://open.spotify.com/album/6USRXUZXe4keGs2yUj3Fis"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 233640,
-      "name": "Hidden Agenda",
-      "url": "https://open.spotify.com/track/5MRruRrB235AeY0DISngdw"
     },
     {
       "added_at": null,
@@ -595,6 +595,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Commitment Pt. 2",
+        "url": "https://open.spotify.com/album/2C5iXNp4MhtCRaWEDmETML"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        },
+        {
+          "name": "Merveille",
+          "url": "https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8"
+        }
+      ],
+      "duration_ms": 200403,
+      "name": "Commitment Pt. 2",
+      "url": "https://open.spotify.com/track/0bNdQX1YTnyXaZE03ndUJ1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wake Up",
         "url": "https://open.spotify.com/album/5jw97P9AddXp0lYCs5wRJO"
       },
@@ -635,46 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Commitment Pt. 2",
-        "url": "https://open.spotify.com/album/2C5iXNp4MhtCRaWEDmETML"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        },
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        },
-        {
-          "name": "Merveille",
-          "url": "https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8"
-        }
-      ],
-      "duration_ms": 200403,
-      "name": "Commitment Pt. 2",
-      "url": "https://open.spotify.com/track/0bNdQX1YTnyXaZE03ndUJ1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Time Is Now (Expanded Edition)",
-        "url": "https://open.spotify.com/album/51vRvV83RdWGP9FpzGe4SQ"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 192893,
-      "name": "Heartline",
-      "url": "https://open.spotify.com/track/60RZ7d1D4DeEdtzkjXrp77"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Abracadabra (feat. Craig David)",
         "url": "https://open.spotify.com/album/25HU17CmFd3aQkRHEU4Ek5"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 155076,
       "name": "Abracadabra (Feat. Craig David)",
       "url": "https://open.spotify.com/track/19quyzgfIQzGM8K71UgMhp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Time Is Now (Expanded Edition)",
+        "url": "https://open.spotify.com/album/51vRvV83RdWGP9FpzGe4SQ"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 192893,
+      "name": "Heartline",
+      "url": "https://open.spotify.com/track/60RZ7d1D4DeEdtzkjXrp77"
     },
     {
       "added_at": null,
@@ -727,6 +727,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "22 (Deluxe)",
+        "url": "https://open.spotify.com/album/4VUkXDCZR2aBe28zoIHHnJ"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        },
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 219106,
+      "name": "Obvious - feat. Muni Long",
+      "url": "https://open.spotify.com/track/5hIYTHpbKZp5Rq1amDLL9i"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pete Tong Ibiza Classics",
         "url": "https://open.spotify.com/album/1Iifumy0bI5fdwItptSoGT"
       },
@@ -751,26 +771,6 @@
       "duration_ms": 247600,
       "name": "You Don't Know Me",
       "url": "https://open.spotify.com/track/0qUcPMLvDwAUZjprYEwGta"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "22 (Deluxe)",
-        "url": "https://open.spotify.com/album/4VUkXDCZR2aBe28zoIHHnJ"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        },
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 219106,
-      "name": "Obvious - feat. Muni Long",
-      "url": "https://open.spotify.com/track/5hIYTHpbKZp5Rq1amDLL9i"
     },
     {
       "added_at": null,

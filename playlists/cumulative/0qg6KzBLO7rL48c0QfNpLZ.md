@@ -4,7 +4,7 @@
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-1,303 songs - 2 day 9 hr 32 min
+1,304 songs - 2 day 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Back To Love](https://open.spotify.com/track/7EVPFtiYgSHpmh2ElNrFQ4) | [moslo](https://open.spotify.com/artist/4RbmzMRz1KL6Tj9Tvno7FR), [JANU](https://open.spotify.com/artist/39089lNQ7op5bbQ28tyfxT) | [Back To Love](https://open.spotify.com/album/3IXdIafX929ShhcHaizX8n) | 3:35 | 2025-08-15 | 2025-09-22 |
 | [Back To My Bed](https://open.spotify.com/track/0NHBjddjKTkJQvEb5oTilt) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Back To My Bed](https://open.spotify.com/album/6xT0yZwxV34C84SOdIoEUh) | 3:22 | 2023-11-24 | 2024-09-15 |
 | [Back To The Sun](https://open.spotify.com/track/1cd3tQ5tB7V81PQhDOWUfY) | [Mellowdy](https://open.spotify.com/artist/2qcHi6YzCJYvbHIs0jvHGc) | [Back To The Sun](https://open.spotify.com/album/7yQluEMVJbUbve5i1TT0RM) | 2:15 | 2024-07-05 | 2024-08-10 |
+| [Back To You](https://open.spotify.com/track/2uyxNUSxJq0fHFon3otFGZ) | [Dallien](https://open.spotify.com/artist/3iAbOn3r0bXmmxyQYBxVHJ), [KZann](https://open.spotify.com/artist/2ulDpFv47BQrc5kGoaSy7A), [Spagbo](https://open.spotify.com/artist/2EZUOnMtEkQv06k5fkbKTJ) | [Back To You](https://open.spotify.com/album/0GHiAapK5vUx7pw52gTZPu) | 2:59 | 2025-11-20 |  |
 | [Back To You](https://open.spotify.com/track/4ocZpek8o7xETEekvv3X2T) | [Lane Boy](https://open.spotify.com/artist/0ABF5V88EylbLU08lCp9N3) | [Back To You](https://open.spotify.com/album/5cSpVyRCl8cPLBptLLPLqQ) | 1:58 | 2024-03-08 | 2024-05-03 |
 | [Back To You](https://open.spotify.com/track/77ui6nDkmhhACU7DTLNG4v) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [All Stand Together](https://open.spotify.com/album/5eIZT2VKUxB8REoU0V1Qs2) | 2:36 | 2024-02-16 | 2024-08-10 |
 | [Back To You](https://open.spotify.com/track/3K00Ib1shkOEiAXU5pec6e) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Back To You](https://open.spotify.com/album/1wntuGFGZSdkDL3pOTcdpr) | 2:37 | 2022-12-18 | 2024-02-17 |

@@ -4,7 +4,7 @@
 
 > best festival music \- summer festival \- best festivals \- festival summer \- mainstage music \- tomorrowland festival \- awakenings festival \- zomer festivals \- festival vibes
 
-445 songs - 22 hr 21 min
+446 songs - 22 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [Heartstrings](https://open.spotify.com/track/3YiAx5kB9KBJhDLgD620U3) | [Severman](https://open.spotify.com/artist/4kiGFkkVQVz9a8XIw8lX7u), [Arvenius](https://open.spotify.com/artist/0SuO4XuTPgJigDrvnsaOQq), [Bernard Yagee](https://open.spotify.com/artist/0Bjov8cf7WRRVnjDHhn6VE) | [For The Love Of Progressive EP 2.0](https://open.spotify.com/album/4XaWowqTcNMXCUn98Txb3T) | 3:21 | 2024-09-12 |  |
 | [Heaven](https://open.spotify.com/track/10NwNlbw9tcRNHwqWwFMLA) | [R3SPAWN](https://open.spotify.com/artist/2Pfp9mATiuKRzCMLhfs3tB), [Monk Mafia](https://open.spotify.com/artist/4oLiwEMNDQrI7niwHY9XYr), [Nia Mousai](https://open.spotify.com/artist/3GDG9ILV7AcsN9IuyIbU9W) | [Heaven](https://open.spotify.com/album/4rWwM5Oi7A8jBT7pOAZX3L) | 2:08 | 2025-07-25 | 2025-10-09 |
 | [Heaven Is Right Here](https://open.spotify.com/track/1wVLauapU9IaAwtYhLdQOk) | [Dannic](https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc) | [Heaven Is Right Here](https://open.spotify.com/album/6LIjyJdJbcW3lplplwjb1G) | 3:32 | 2024-10-24 |  |
+| [Heavy On My Heart](https://open.spotify.com/track/7lMEsgC7KiaLQ3FtBQEK1d) | [Kill The Buzz](https://open.spotify.com/artist/0QZSzSj4BDYFARD2hZ7oNI), [Orbis](https://open.spotify.com/artist/4HYWjPOqDtpJNoCJpusu2o), [Nino Lucarelli](https://open.spotify.com/artist/2Z6k8JBzhJPPRIAyKaUEJZ) | [Heavy On My Heart](https://open.spotify.com/album/5UYWLEDqfWQBrcKncS6cs5) | 2:41 | 2025-11-20 |  |
 | [Hello](https://open.spotify.com/track/4Sl7FLTwgrbbBaGYEEJ9ee) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro), [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [Hello](https://open.spotify.com/album/4qdeHa7hXVujxBUftCIgDh) | 2:21 | 2023-07-06 | 2025-07-31 |
 | [Here And Now](https://open.spotify.com/track/6bCaAFSdevhK1Hw2ya6Cdz) | [Patrick Moreno](https://open.spotify.com/artist/1cgYwI8wy6MB26Mgtr4Ubx), [Joffrey Lorquet](https://open.spotify.com/artist/2Qb0DQVMfYEGI2kUO9EvKR), [MiteX](https://open.spotify.com/artist/6HOEVqW2JrpV56Slza9BXq), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [Here And Now EP](https://open.spotify.com/album/00gWoK8sxHKCRqTwiKEogM) | 3:11 | 2023-07-11 | 2024-06-22 |
 | [Here With Me](https://open.spotify.com/track/0CP11Igyj4idVKkE01yQ6u) | [Manse](https://open.spotify.com/artist/2jGvmFH6YE352p9LKmuB0y), [Angemi](https://open.spotify.com/artist/3q5DAsSH8efMqNxjxbdpGx) | [Here With Me](https://open.spotify.com/album/1dHzLk1IZBJYpinTgCrzN8) | 2:58 | 2025-06-20 |  |

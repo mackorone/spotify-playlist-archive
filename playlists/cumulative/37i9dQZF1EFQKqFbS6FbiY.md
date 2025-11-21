@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-720 songs - 1 day 11 hr 5 min
+722 songs - 1 day 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,7 +299,8 @@
 | [Eu Queria Ser Você \- Ao Vivo Em Goiânia / 2019](https://open.spotify.com/track/2KXANgy6gWLRvN8nYybHjC) | [George Henrique & Rodrigo](https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z) | [Bagunça Minha Vida \(Ao Vivo Em Goiânia / 2019\)](https://open.spotify.com/album/6Px1WC9c2hYtmrfu6wPNZ4) | 2:23 | 2023-12-30 | 2025-06-28 |
 | [Eu Quero É Não Prestar \- Ao Vivo](https://open.spotify.com/track/73RnRYA8FTRtkeSfIo2bSO) | [Felipe e Falcão](https://open.spotify.com/artist/1Jln3OBAJtmL9kmyGvSZJJ) | [30 Anos de História \(Ao Vivo\)](https://open.spotify.com/album/6xvlunzDjpb1MS7CsX25sU) | 2:35 | 2023-12-30 | 2025-06-28 |
 | [Eu Te Ganho \- Ao Vivo](https://open.spotify.com/track/2DO5YrqmfCl2rfGtxyWmlg) | [Kevi Jonny](https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg), [Jefferson Moraes](https://open.spotify.com/artist/40t5KmKTi2ajyJmerMYY4C) | [Com Amor Kevi Jonny \(Ao Vivo, Em Goiânia\)](https://open.spotify.com/album/2u9oqZGnMJh9wJhIEug4WV) | 3:39 | 2023-12-30 |  |
-| [Eu Tô Indo Aí](https://open.spotify.com/track/0tb4ehZH7EweP7vfAqNJkQ) | [Rosiel](https://open.spotify.com/artist/57Rs2AoJeoe0AuG1b2g0BM) | [Rosiel](https://open.spotify.com/album/7idMNb8G4NPlkSdRGrnZlN) | 3:02 | 2025-05-31 |  |
+| [Eu Tô Indo Aí](https://open.spotify.com/track/2XbSrgh3xbMQFreCSow54I) | [Gabriel Fidelis](https://open.spotify.com/artist/5Ghd1wbOk1u1V20RLcfwja) | [Pra Beber E Sofrer](https://open.spotify.com/album/0wrKQZi0G1mHBCk3YgqG1z) | 2:28 | 2025-11-20 |  |
+| [Eu Tô Indo Aí](https://open.spotify.com/track/0tb4ehZH7EweP7vfAqNJkQ) | [Rosiel](https://open.spotify.com/artist/57Rs2AoJeoe0AuG1b2g0BM) | [Rosiel](https://open.spotify.com/album/7idMNb8G4NPlkSdRGrnZlN) | 3:02 | 2025-05-31 | 2025-11-21 |
 | [Eu Vou Morar Aqui](https://open.spotify.com/track/36YyPgyYp8UpZ8ufBpzPXO) | [Juliano Cezar](https://open.spotify.com/artist/4mGnpjhqgx4RUdsIJiURdo) | [Eu Vou Morar Aqui](https://open.spotify.com/album/0qOOAs5lC9ZRcQTPffrTo8) | 3:13 | 2025-06-27 |  |
 | [Ex do Atual](https://open.spotify.com/track/1cggpuByVzRuAmZIDHGbva) | [Baile da Sofrência](https://open.spotify.com/artist/77JIVmVElb2R95S2rPwxwk) | [Atualizou Vei 2](https://open.spotify.com/album/13RGuRxJweYjHRYaMVYmB6) | 3:18 | 2025-06-27 |  |
 | [Ex do Seu Atual](https://open.spotify.com/track/6fT7GjYRi8DH7BLct6thu1) | [Banda 007](https://open.spotify.com/artist/4aI6jDLkxjcSR1PpuJ7Vk9) | [Volume 05 \- Flores](https://open.spotify.com/album/7ib4IFlEdTo4z9vDiU1VhX) | 3:32 | 2023-12-30 | 2024-07-19 |
@@ -708,6 +709,7 @@
 | [Você Mitou](https://open.spotify.com/track/3FP7xYFteJDEZfgpMtzxH1) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Natural](https://open.spotify.com/album/6Kz30EyV9GDxUnOnANY3p4) | 2:49 | 2023-12-30 |  |
 | [Você Significa Muito pra Mim \- Ao Vivo em Uberlândia](https://open.spotify.com/track/19Oyuht5yV6sqNTmNepnhF) | [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq) | [Ao Vivo em Uberlândia, Vol\. 2](https://open.spotify.com/album/54qHOtoErxSiW0DTEzqBj8) | 3:45 | 2023-12-30 | 2025-06-28 |
 | [Você Zuou \- Ao Vivo em Uberlândia](https://open.spotify.com/track/6vdMOCJesiuyKREisJIQNs) | [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq) | [Ao Vivo em Uberlândia, Vol\. 1](https://open.spotify.com/album/7Jd5xw3FKdS6ITVGuAHtPJ) | 2:39 | 2023-12-30 |  |
+| [Volta Amor Pra Mim](https://open.spotify.com/track/2hWcWUpqKxXiGILzpnb6G2) | [Lucas Rocha](https://open.spotify.com/artist/3AVAHN33h8JppZF2w6RUng) | [Volta Amor Pra Mim](https://open.spotify.com/album/3p1HBR1IxVd0upTZ7r0DIf) | 2:49 | 2025-11-20 |  |
 | [Volta Não Volta \- Ao Vivo](https://open.spotify.com/track/4ENe9fmg8Z6Oxd7aesonEE) | [Rayane & Rafaela](https://open.spotify.com/artist/7hiUUv81g2TwR7AyoRduYJ) | [Happy Hour 10 Pras 6 \(EP 2\) \[Ao Vivo\]](https://open.spotify.com/album/3ETiaCU1pYbF4GWI70jiFH) | 2:33 | 2023-12-30 |  |
 | [Volta por Dó](https://open.spotify.com/track/3uCeV7pMJ8wDu5JNKHbtER) | [Matheus Moraes](https://open.spotify.com/artist/2NwH41qkOrtEwPQOJF3FP7) | [Volta por Dó](https://open.spotify.com/album/3tbuDqvHlfVJaWx27pcEX5) | 3:13 | 2025-06-27 |  |
 | [Volta por Dó](https://open.spotify.com/track/0zGTsN9Zwb0a9S9hYuXSld) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [Naiara Sunrise, Ep3](https://open.spotify.com/album/473826n2BTdzaVKChaFvwM) | 2:46 | 2023-12-30 | 2025-06-28 |

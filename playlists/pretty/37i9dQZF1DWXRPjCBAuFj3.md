@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRPjCBAuFj3.md) - [plain]
 
 ### [Tendenze Rap 2025](https://open.spotify.com/playlist/37i9dQZF1DWXRPjCBAuFj3)
 
-> Brani virali e trend, rap e urban 📈 Morad in cover
+> Brani virali e trend, rap e urban 📈 IvanBi in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,411 likes - 102 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,435 likes - 102 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [NOW OR NEVER](https://open.spotify.com/track/6JPysVgPfEab03Gbm7hjXM) | [Tkandz](https://open.spotify.com/artist/4Uwx6qzRn0kA9sz6cCDpBO), [CXSPER](https://open.spotify.com/artist/1MVnyuEGQxpIwxOtlThiaL) | [NOW OR NEVER](https://open.spotify.com/album/0IHeHlvgJcWx6h4hscOBpM) | 2:03 |
-| 2 | [Lamine](https://open.spotify.com/track/0kHyQJgRXOfB5EhBFTSpRJ) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Reinsertado 2.0](https://open.spotify.com/album/1dpi5vuuSZ0NILVDKhi8Ii) | 3:29 |
-| 3 | [Tocco Pitocco](https://open.spotify.com/track/0gYffd4envdyCft10iF45g) | [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd) | [Tocco Pitocco](https://open.spotify.com/album/3agEJPn84PlXKiicWw8iVU) | 2:43 |
-| 4 | [G&V](https://open.spotify.com/track/6poK4dgWF5wQmmB7i92mhh) | [IvanBi](https://open.spotify.com/artist/0bmPz6WAJMsuDLY5QtSYtg) | [G&V](https://open.spotify.com/album/1hSHdf8O0jsoaqFi7cpLAR) | 1:52 |
+| 1 | [G&V](https://open.spotify.com/track/6poK4dgWF5wQmmB7i92mhh) | [IvanBi](https://open.spotify.com/artist/0bmPz6WAJMsuDLY5QtSYtg) | [G&V](https://open.spotify.com/album/1hSHdf8O0jsoaqFi7cpLAR) | 1:52 |
+| 2 | [NOW OR NEVER](https://open.spotify.com/track/6JPysVgPfEab03Gbm7hjXM) | [Tkandz](https://open.spotify.com/artist/4Uwx6qzRn0kA9sz6cCDpBO), [CXSPER](https://open.spotify.com/artist/1MVnyuEGQxpIwxOtlThiaL) | [NOW OR NEVER](https://open.spotify.com/album/0IHeHlvgJcWx6h4hscOBpM) | 2:03 |
+| 3 | [Lamine](https://open.spotify.com/track/0kHyQJgRXOfB5EhBFTSpRJ) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Reinsertado 2.0](https://open.spotify.com/album/1dpi5vuuSZ0NILVDKhi8Ii) | 3:29 |
+| 4 | [Tocco Pitocco](https://open.spotify.com/track/0gYffd4envdyCft10iF45g) | [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd) | [Tocco Pitocco](https://open.spotify.com/album/3agEJPn84PlXKiicWw8iVU) | 2:43 |
 | 5 | [Mossa Strepitosa \(feat\. Kid Yugi\)](https://open.spotify.com/track/4IthW8rks6srjJB5YxXV7n) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Latte in Polvere](https://open.spotify.com/album/1RjEbi0mbq9x7oUDMWq159) | 2:21 |
 | 6 | [Contento](https://open.spotify.com/track/4xuxWQbprzIOE3BGRULn75) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Contento](https://open.spotify.com/album/4iyoO6tOGnEaR2CYrUmukL) | 3:30 |
 | 7 | [Noord Africano](https://open.spotify.com/track/0l1sQbnwbLIWzGcSVAgmPO) | [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [YassineBeats](https://open.spotify.com/artist/1sBuaNJSSSQgG1cseKY7Hk) | [Noord Africano](https://open.spotify.com/album/0QlNKFqSnmpdzcuqBYY4x0) | 2:47 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRPjCBAuFj3.md) - [plain]
 | 101 | [Quelli che benpensano \(feat\. Riccardo Sinigallia\)](https://open.spotify.com/track/0ekMehNXQgeMJXfCPrlTTf) | [Frankie hi\-nrg mc](https://open.spotify.com/artist/15tvxTXbemwnKQq1aRoPpI), [Riccardo Sinigallia](https://open.spotify.com/artist/43wEeBstQu4lBC5V6oRdNG) | [La Morte Dei Miracoli & Diff\. Coupling](https://open.spotify.com/album/1iMtC9ZMR2zqC74aNP510k) | 4:09 |
 | 102 | [Ric Flair Drip \(with Metro Boomin\)](https://open.spotify.com/track/7sO5G9EABYOXQKNPNiE9NR) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Without Warning](https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0) | 2:52 |
 
-Snapshot ID: `AAAAAB5EqnR4Mc2MDkoVxQeygDQVIKmw`
+Snapshot ID: `AAAAAEZc9kee6ElBmjnc5oLOHt5VdU4M`

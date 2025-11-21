@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 
 ### [Hip\-hop Việt](https://open.spotify.com/playlist/37i9dQZF1DWYLMi9ZNZUaz)
 
-> Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: YC
+> Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: Low G
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,013 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,043 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 23 | [Bạn Đời](https://open.spotify.com/track/0kHgteR4TV4LO80wrasDSR) | [Karik](https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F), [GDucky](https://open.spotify.com/artist/3T3DOlgOEkr243zdzFCrXW) | [Bạn Đời](https://open.spotify.com/album/2D1Enc9iq16z9Ikh6azGc2) | 5:00 |
 | 24 | [ĐOÁ HOA](https://open.spotify.com/track/354swDEk1Zdo9y57fEqmRg) | [TeuYungBoy](https://open.spotify.com/artist/3oD2yI1g6aT3KawHD8ZYaU), [BIG WIND](https://open.spotify.com/artist/0uJCxg582DDyZL3iq6CkYh), [DONAL](https://open.spotify.com/artist/3rSAej8VUifF02zpsGjsRZ) | [ĐOÁ HOA](https://open.spotify.com/album/64fyckGOqCyGMOqOSjGhOF) | 2:38 |
 | 25 | [Em iu \- Radio Edit](https://open.spotify.com/track/5cml547MByVlaVrKU2lJTg) | [Andree Right Hand](https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh), [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw), [Donald Gold](https://open.spotify.com/artist/3oB1lv9FWDKbNOUvdTw75Q), [2Pillz](https://open.spotify.com/artist/1VdPXTk7MBqZ3sm57D1b1A) | [Em iu \(Radio Edit\)](https://open.spotify.com/album/72I8w6JUIlEKRuoUIwxWmE) | 2:40 |
-| 26 | [3 Bích](https://open.spotify.com/track/3yrQAZrdlrMVtI4DN9FTIc) | [Pháp Kiều](https://open.spotify.com/artist/13c4ijEkXNvEFoxGxwp5Su), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [3 Bích](https://open.spotify.com/album/3NpKkjWz8KUCBJIjCnSOKg) | 3:48 |
+| 26 | [Chấm Hết](https://open.spotify.com/track/75weJdjMaaF016Df8BNl0f) | [Dangrangto](https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI), [ZEXZEX](https://open.spotify.com/artist/4hNP1VYe1hO5ppmWDlGhsx), [DONAL](https://open.spotify.com/artist/3rSAej8VUifF02zpsGjsRZ) | [Chấm Hết](https://open.spotify.com/album/6wqFfap6TzhtFy9krk8OQj) | 3:06 |
 | 27 | [Mời Em](https://open.spotify.com/track/27AEQr4wqfHyVpwgFgnGs6) | [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw), [Mcee Blue](https://open.spotify.com/artist/7iPTxzfZ1OG4gNiWU64nmk) | [THE WXRDIES](https://open.spotify.com/album/1wmnEWgcDdCcOujQpLwYxc) | 3:23 |
-| 28 | [Chấm Hết](https://open.spotify.com/track/75weJdjMaaF016Df8BNl0f) | [Dangrangto](https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI), [ZEXZEX](https://open.spotify.com/artist/4hNP1VYe1hO5ppmWDlGhsx), [DONAL](https://open.spotify.com/artist/3rSAej8VUifF02zpsGjsRZ) | [Chấm Hết](https://open.spotify.com/album/6wqFfap6TzhtFy9krk8OQj) | 3:06 |
+| 28 | [3 Bích](https://open.spotify.com/track/3yrQAZrdlrMVtI4DN9FTIc) | [Pháp Kiều](https://open.spotify.com/artist/13c4ijEkXNvEFoxGxwp5Su), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [3 Bích](https://open.spotify.com/album/3NpKkjWz8KUCBJIjCnSOKg) | 3:48 |
 | 29 | [Hai đứa nhóc](https://open.spotify.com/track/3AjXaNF3TPcdi5vTiQZxva) | [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e) | [Hai đứa nhóc](https://open.spotify.com/album/7212ydis4IU0SKTDPPXc70) | 3:35 |
 | 30 | [Ex's Hate Me](https://open.spotify.com/track/170CNv2CAZn8wg6GxvHXYC) | [B Ray](https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9), [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve) | [Ex's Hate Me](https://open.spotify.com/album/7LbymDU8cc2RSzimBgWsKm) | 4:18 |
 | 31 | [Chỉ Một Đêm Nữa Thôi](https://open.spotify.com/track/28bxbqNcAuNxYDZYet6eZ7) | [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [99%](https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu) | 2:21 |

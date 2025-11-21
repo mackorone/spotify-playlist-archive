@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5CWXyjHfBmLsy0Cm7g20uO.md) - [plain]
 
 > Dive into the heart of indie and alternative rock with our handpicked playlist\. Discover raw energy, powerful riffs, and the soulful essence of independent rock music\. Rock on!
 
-[Indie Music](https://open.spotify.com/user/eqiomkuuw0lc4nplre0xyx9dg) - 759 likes - 124 songs - 7 hr 43 min
+[Indie Music](https://open.spotify.com/user/eqiomkuuw0lc4nplre0xyx9dg) - 758 likes - 127 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,5 +132,8 @@ pretty - [cumulative](/playlists/cumulative/5CWXyjHfBmLsy0Cm7g20uO.md) - [plain]
 | 122 | [Lonely](https://open.spotify.com/track/77uqDcXTKdbMTvfjlTLitm) | [The Lovves](https://open.spotify.com/artist/0D1Pm8FvVpv0CUoawzKyO2) | [Lonely](https://open.spotify.com/album/2ERZGLv0GK7jxtVKlBIr5P) | 3:33 |
 | 123 | [Flora Majour](https://open.spotify.com/track/54q9YNbjKBXqcCSGZfMMus) | [Draemus](https://open.spotify.com/artist/5hzdJjgZH1FfQYnDVbKaV1) | [Flora Majour](https://open.spotify.com/album/3Qu2lRJcetxUT2f6aqXbkP) | 2:30 |
 | 124 | [Oh Low Joe](https://open.spotify.com/track/2xVsy38lQn5dVrFhN1kr5I) | [Going Big](https://open.spotify.com/artist/17zEnHkf1boWQ8Ll9yhysp), [Mange Andersson](https://open.spotify.com/artist/2hnHvVcQkVsF7dvbzQeaHD) | [Oh Low Joe](https://open.spotify.com/album/3EalSBcZK58AlBg6eyi1B3) | 4:27 |
+| 125 | [Doveland](https://open.spotify.com/track/3OEjExzjiewsOFWRsmYB3B) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [Doveland](https://open.spotify.com/album/3xgHYrciva3U6p6I1rPovM) | 3:11 |
+| 126 | [Strange Addiction](https://open.spotify.com/track/1J1SHqJbS4ejLSvjdJph5W) | [Taylor D](https://open.spotify.com/artist/6EYjKhsmEVEBEvyvtta5sg) | [Strange Addiction](https://open.spotify.com/album/0dWEaFnP8w5QS60vyeBm2R) | 4:15 |
+| 127 | [Cigarette](https://open.spotify.com/track/56tdisH0RpjtEIxdTkCmny) | [sullivan grace band](https://open.spotify.com/artist/3ksrh2WkrKJmEeerKl2bpd) | [Cigarette](https://open.spotify.com/album/1V3mMM3bSlH3RYOvpQ4apt) | 2:23 |
 
-Snapshot ID: `AAAFyZZ8nZYqjoBucClBZaYLsjjgQeLp`
+Snapshot ID: `AAAFzM4EFYf59CgjRNAXpN9Xhw015YRt`

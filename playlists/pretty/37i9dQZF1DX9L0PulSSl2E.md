@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9L0PulSSl2E.md) - [plain]
 
 > Sit back, thand rakho te Chill Karlo with Armaan & Arnaaz Gill
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,657 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,680 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9L0PulSSl2E.md) - [plain]
 | 5 | [Sun Jattiye](https://open.spotify.com/track/46rVOty2daqfk47eU5kwtw) | [Amantej Hundal](https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq), [Gill Saab Music](https://open.spotify.com/artist/0EEmpZWPcOa1i1XYG2zkdQ) | [PB 2 SIX](https://open.spotify.com/album/2FghTjH8wG4oBep4DWGU0F) | 3:04 |
 | 6 | [That Girl](https://open.spotify.com/track/2lHslGtLZJe0IGhiGwswBy) | [Amrinder Gill](https://open.spotify.com/artist/1x02ug1CLkx7mrQP9FRswh), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm), [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF) | [Judaa 3 Chapter 2](https://open.spotify.com/album/6d5G9vxugneVH3l4id4XCO) | 2:37 |
 | 7 | [Eye Sign](https://open.spotify.com/track/2ylgtwDJ4iKeiRzb2gfLDG) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC), [Preet Hundal](https://open.spotify.com/artist/3jbXizgjZpi8FZ9g28wb1c), [Kahlon](https://open.spotify.com/artist/6rHyVOJFRsLEOo1aOd2zQG), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Under Dawg](https://open.spotify.com/album/5IVYRIMsiHT01B4ktzLG1D) | 2:43 |
-| 8 | [PERFECT \(From "Sunny Sanskari Ki Tulsi Kumari"\)](https://open.spotify.com/track/4Cp29GrZ9Jxxoke0OeQGuz) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Gill Machhrai](https://open.spotify.com/artist/4r4r2gGaA74pul0n6FiRsE), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw), [Dilmaan](https://open.spotify.com/artist/5iRP5VM9JGkM6aMQbbfkBK) | [PERFECT \(From "Sunny Sanskari Ki Tulsi Kumari"\)](https://open.spotify.com/album/2uFqKj9qt6TkwKdNpFjQ4R) | 2:26 |
+| 8 | [PERFECT \(From "Sunny Sanskari Ki Tulsi Kumari"\)](https://open.spotify.com/track/4Cp29GrZ9Jxxoke0OeQGuz) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL) | [PERFECT \(From "Sunny Sanskari Ki Tulsi Kumari"\)](https://open.spotify.com/album/2uFqKj9qt6TkwKdNpFjQ4R) | 2:26 |
 | 9 | [Aphrodite](https://open.spotify.com/track/01Av7xIF6D57aJ5X0RuALT) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [A for Arjan 2](https://open.spotify.com/album/43k9K0ZWNOrL7e6praZwiW) | 2:28 |
 | 10 | [Sleepless](https://open.spotify.com/track/1RHd5TlU3JZRnmU7vCIu2l) | [Mani Longia](https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura), [prodssd](https://open.spotify.com/artist/6ht8GFA7fw7HsrExgzBqFS) | [From The Vault](https://open.spotify.com/album/5vQqYDEX8meQm9UJoFAC2b) | 2:24 |
 | 11 | [You & Me](https://open.spotify.com/track/5DKaO8NUYB0nIThR0dw7xy) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U), [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF) | [AURA](https://open.spotify.com/album/1qP2ICZGtjDGBayZ7JuQcT) | 2:59 |

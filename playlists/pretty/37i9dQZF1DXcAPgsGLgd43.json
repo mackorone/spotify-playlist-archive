@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb with Gordo",
-  "num_followers": 103038,
+  "num_followers": 103095,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -1827,6 +1827,22 @@
     {
       "added_at": "2025-11-14 05:00:32",
       "album": {
+        "name": "Marrakesh",
+        "url": "https://open.spotify.com/album/4JFwSZw2uFMTjI7eCtUJ4y"
+      },
+      "artists": [
+        {
+          "name": "JOHN ELLE",
+          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
+        }
+      ],
+      "duration_ms": 142258,
+      "name": "Marrakesh",
+      "url": "https://open.spotify.com/track/6RsuW9DXFOVgdoPycLIKqS"
+    },
+    {
+      "added_at": "2025-11-14 05:00:32",
+      "album": {
         "name": "Traficante",
         "url": "https://open.spotify.com/album/5NdUV7pMK0A5LWnWtm6Xkb"
       },
@@ -1843,22 +1859,6 @@
       "duration_ms": 184218,
       "name": "Traficante",
       "url": "https://open.spotify.com/track/3tbsP4i5P6RGo40rpFChK0"
-    },
-    {
-      "added_at": "2025-11-14 05:00:32",
-      "album": {
-        "name": "Marrakesh",
-        "url": "https://open.spotify.com/album/4JFwSZw2uFMTjI7eCtUJ4y"
-      },
-      "artists": [
-        {
-          "name": "JOHN ELLE",
-          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
-        }
-      ],
-      "duration_ms": 142258,
-      "name": "Marrakesh",
-      "url": "https://open.spotify.com/track/6RsuW9DXFOVgdoPycLIKqS"
     },
     {
       "added_at": "2025-11-14 05:00:32",
@@ -1959,6 +1959,34 @@
     {
       "added_at": "2025-11-14 05:00:32",
       "album": {
+        "name": "La Buena Vida (feat. Tayson Kryss)",
+        "url": "https://open.spotify.com/album/2HIc2AaPKvkU6APeLBwN0T"
+      },
+      "artists": [
+        {
+          "name": "JOHN ELLE",
+          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
+        },
+        {
+          "name": "LiL CaKe",
+          "url": "https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z"
+        },
+        {
+          "name": "Albert Breaker",
+          "url": "https://open.spotify.com/artist/7ARLlH0R0zY7aeLrzeUYIf"
+        },
+        {
+          "name": "Tayson Kryss",
+          "url": "https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7"
+        }
+      ],
+      "duration_ms": 137963,
+      "name": "La Buena Vida (feat. Tayson Kryss)",
+      "url": "https://open.spotify.com/track/0VpQieuQ6vS00yknO16eGy"
+    },
+    {
+      "added_at": "2025-11-14 05:00:32",
+      "album": {
         "name": "Dame De Eso",
         "url": "https://open.spotify.com/album/4WvuIoyZFw4jLWCUNcQXEy"
       },
@@ -1995,34 +2023,6 @@
       "duration_ms": 157500,
       "name": "Noventa (with J Balvin) - Tony Romera Remix",
       "url": "https://open.spotify.com/track/3RLVNDwFp3dVcdMnmhM8Kh"
-    },
-    {
-      "added_at": "2025-11-14 05:00:32",
-      "album": {
-        "name": "La Buena Vida (feat. Tayson Kryss)",
-        "url": "https://open.spotify.com/album/2HIc2AaPKvkU6APeLBwN0T"
-      },
-      "artists": [
-        {
-          "name": "JOHN ELLE",
-          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
-        },
-        {
-          "name": "LiL CaKe",
-          "url": "https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z"
-        },
-        {
-          "name": "Albert Breaker",
-          "url": "https://open.spotify.com/artist/7ARLlH0R0zY7aeLrzeUYIf"
-        },
-        {
-          "name": "Tayson Kryss",
-          "url": "https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7"
-        }
-      ],
-      "duration_ms": 137963,
-      "name": "La Buena Vida (feat. Tayson Kryss)",
-      "url": "https://open.spotify.com/track/0VpQieuQ6vS00yknO16eGy"
     }
   ],
   "unique_name": "Latin House",

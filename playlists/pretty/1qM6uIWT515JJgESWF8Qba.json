@@ -1,12 +1,12 @@
 {
   "description": "It&#x27;s 5 o&#x27;clock somewhere and best believe there&#x27;s a local band there ready to rock when the sun goes down.",
-  "num_followers": 226,
+  "num_followers": 227,
   "original_name": "Local Rock Bands",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAAulPDe2LdCPxdYIhRVoUoki+UYW2z",
+  "snapshot_id": "AAAAvn2RrogZC6Jl/MPpyS5wzQxOc5/K",
   "tracks": [
     {
       "added_at": "2025-09-16 13:19:37",
@@ -385,22 +385,6 @@
       "url": "https://open.spotify.com/track/4zRfPFZQJ3FgXY6fYPVyee"
     },
     {
-      "added_at": "2025-10-30 03:08:08",
-      "album": {
-        "name": "Technicolor Wine",
-        "url": "https://open.spotify.com/album/2LuUFZMvR9PSNdv4QDlhNk"
-      },
-      "artists": [
-        {
-          "name": "Dizzy Daffodils",
-          "url": "https://open.spotify.com/artist/1d6SQiQelLAdAjeiKX9CTm"
-        }
-      ],
-      "duration_ms": 226818,
-      "name": "Technicolor Wine",
-      "url": "https://open.spotify.com/track/37zitPVqGB50b27TrvHjbg"
-    },
-    {
       "added_at": "2025-10-30 14:28:00",
       "album": {
         "name": "Un'estate all'inferno",
@@ -415,22 +399,6 @@
       "duration_ms": 161840,
       "name": "Perch\u00e9 amo il mio lavoro",
       "url": "https://open.spotify.com/track/336aLiYmKlh1WfDVY1QJLF"
-    },
-    {
-      "added_at": "2025-10-31 00:14:42",
-      "album": {
-        "name": "Get Ready!",
-        "url": "https://open.spotify.com/album/1lDzx28rHjWtLB6oI3RpCI"
-      },
-      "artists": [
-        {
-          "name": "Tygers of Wrath",
-          "url": "https://open.spotify.com/artist/6vGbDm4f3JsCq7ftXq5Xba"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "LOVE ME, KISS ME, KILL ME",
-      "url": "https://open.spotify.com/track/2WrOFJ7oNXuhGMfMoTz13y"
     },
     {
       "added_at": "2025-10-31 14:14:31",
@@ -495,22 +463,6 @@
       "duration_ms": 214090,
       "name": "The Price of Not Being Me",
       "url": "https://open.spotify.com/track/5QEcw5tlMYZlbmTq1qxjdV"
-    },
-    {
-      "added_at": "2025-11-02 19:16:52",
-      "album": {
-        "name": "Your Way",
-        "url": "https://open.spotify.com/album/6M71haNo2UkinTsC27uRAn"
-      },
-      "artists": [
-        {
-          "name": "1POINT5",
-          "url": "https://open.spotify.com/artist/4PPHoRT5RMRHTbMGeQXiA3"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Your Way",
-      "url": "https://open.spotify.com/track/4QSLf4BxEwJw9T2OyKzAZc"
     },
     {
       "added_at": "2025-11-03 01:35:43",
@@ -947,6 +899,22 @@
       "duration_ms": 132115,
       "name": "Loving in C",
       "url": "https://open.spotify.com/track/4wOagNQce8X7pi713AqWrx"
+    },
+    {
+      "added_at": "2025-11-20 15:20:42",
+      "album": {
+        "name": "MMXXII",
+        "url": "https://open.spotify.com/album/6vRRH7PlhC05goJHMlpwGN"
+      },
+      "artists": [
+        {
+          "name": "Roses!Hands!",
+          "url": "https://open.spotify.com/artist/2IIPLXX4gc8oKR37sOsa9o"
+        }
+      ],
+      "duration_ms": 182773,
+      "name": "Graduation",
+      "url": "https://open.spotify.com/track/0DVsB3C8e43uoFwjXJQCda"
     }
   ],
   "unique_name": "Local Rock Bands",

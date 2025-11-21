@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 
 > New music by the heaviest independent artists and labels every Wednesday\. Cover: Showing Teeth
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,720 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,758 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 | 90 | [Bitter Pill](https://open.spotify.com/track/46yRbF3gZ4ngJ4xXjTcLmn) | [Hostile Array](https://open.spotify.com/artist/3RXY53OclvzLsmP89oaL8G) | [Bitter Pill](https://open.spotify.com/album/2Yq3QvnCpWHJ7EPdC5GfJd) | 3:23 |
 | 91 | [Void Alone](https://open.spotify.com/track/2l65hRPdbffpHAGg4YYhQr) | [What Lies Below](https://open.spotify.com/artist/65KiNVGu9JSwerZgaDZcdj) | [Void Alone](https://open.spotify.com/album/50aNBLMQu3OsCGeKe0CkEX) | 3:29 |
 | 92 | [Perfect Death](https://open.spotify.com/track/1g3xJT9dXXjNqz7iNM72Dc) | [Catsclaw](https://open.spotify.com/artist/7wOW98O5VLYYbJxntYe799) | [Perfect Death](https://open.spotify.com/album/5EYTidZKeuUSMo62Pmz8IQ) | 3:26 |
-| 93 | [Salt And Sulfur](https://open.spotify.com/track/7ueYiupji0ihYgf8T3tTUl) | [Atlas](https://open.spotify.com/artist/33BnCqtsMZSw7LlPBwzmmH) | [Salt And Sulfur](https://open.spotify.com/album/15flqeani1CkUMGu7pPp1N) | 3:56 |
+| 93 | [Salt and Sulfur](https://open.spotify.com/track/7ueYiupji0ihYgf8T3tTUl) | [Atlas](https://open.spotify.com/artist/33BnCqtsMZSw7LlPBwzmmH) | [Salt and Sulfur](https://open.spotify.com/album/15flqeani1CkUMGu7pPp1N) | 3:59 |
 | 94 | [Beg For Me](https://open.spotify.com/track/5YPUIZjaOOjPrPRmTlg3Na) | [Braeker](https://open.spotify.com/artist/7fGRdpiX855x7RBK8DjT1F) | [Beg For Me](https://open.spotify.com/album/3HdqpIotQTqw30EXegSxjF) | 2:47 |
 | 95 | [Silent Violence](https://open.spotify.com/track/1YDWVu57Wo58EbKfSCE51Z) | [Midwinter](https://open.spotify.com/artist/4lCssyVFY0bUbplxqwwu8J) | [Silent Violence](https://open.spotify.com/album/5DqwBAiZAswosv50ooKbKj) | 3:45 |
 | 96 | [Blood in the Water](https://open.spotify.com/track/2qTgaL5XQqJsxVvWr3APtW) | [Lyric Noel](https://open.spotify.com/artist/77cvyQlM3ovknD2b0Kk6bI) | [Blood in the Water](https://open.spotify.com/album/13PnsoTpy7vghfCE7l92DO) | 3:07 |

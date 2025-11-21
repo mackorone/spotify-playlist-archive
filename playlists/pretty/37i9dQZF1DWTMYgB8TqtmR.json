@@ -1,15 +1,63 @@
 {
   "description": "Hot Hits \u2013 st\u00f6rsta och b\u00e4sta hitsen just nu!",
-  "num_followers": 859128,
+  "num_followers": 859069,
   "original_name": "Hot Hits Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAfLWLkTZf+RctJUJ9Q51JSW34KL",
+  "snapshot_id": "AAAAAF2wT6ZZTXBnKfUmunhjG+Q0DMsb",
   "tracks": [
     {
-      "added_at": "2025-11-14 06:28:05",
+      "added_at": "2025-11-20 23:00:57",
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/3k63fb9eki4aVFPzU3Ptvw"
+      },
+      "artists": [
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/168GHxsiJyT9tlJN74ZO11"
+    },
+    {
+      "added_at": "2025-11-20 23:00:57",
+      "album": {
+        "name": "Man I Need",
+        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Man I Need",
+      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
+    },
+    {
+      "added_at": "2025-11-20 23:00:57",
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 226073,
+      "name": "The Fate of Ophelia",
+      "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"
+    },
+    {
+      "added_at": "2025-11-20 23:00:57",
       "album": {
         "name": "Midnight Sun",
         "url": "https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki"
@@ -25,7 +73,55 @@
       "url": "https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY"
     },
     {
-      "added_at": "2025-11-14 06:28:05",
+      "added_at": "2025-11-20 23:00:57",
+      "album": {
+        "name": "Bl\u00e5\u00f6gd",
+        "url": "https://open.spotify.com/album/1nxYAabZgRXCzGo14eBYWv"
+      },
+      "artists": [
+        {
+          "name": "Molly Sand\u00e9n",
+          "url": "https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY"
+        }
+      ],
+      "duration_ms": 215834,
+      "name": "Bl\u00e5\u00f6gd",
+      "url": "https://open.spotify.com/track/4JAjSsZO4DX0tWYjMjppdM"
+    },
+    {
+      "added_at": "2025-11-20 23:00:57",
+      "album": {
+        "name": "12 to 12",
+        "url": "https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 242903,
+      "name": "12 to 12",
+      "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
+    },
+    {
+      "added_at": "2025-11-20 23:00:57",
+      "album": {
+        "name": "WHERE IS MY HUSBAND!",
+        "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 196795,
+      "name": "WHERE IS MY HUSBAND!",
+      "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
+    },
+    {
+      "added_at": "2025-11-20 23:00:57",
       "album": {
         "name": "YEMAYA II",
         "url": "https://open.spotify.com/album/6xqiRAirHxigWJD1nHiXUj"
@@ -45,155 +141,7 @@
       "url": "https://open.spotify.com/track/7DYvcwCrtckSM5bidztQhj"
     },
     {
-      "added_at": "2025-11-14 06:28:05",
-      "album": {
-        "name": "Man I Need",
-        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Man I Need",
-      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
-    },
-    {
-      "added_at": "2025-11-14 06:28:05",
-      "album": {
-        "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 226073,
-      "name": "The Fate of Ophelia",
-      "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"
-    },
-    {
-      "added_at": "2025-11-14 06:28:05",
-      "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/3k63fb9eki4aVFPzU3Ptvw"
-      },
-      "artists": [
-        {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/168GHxsiJyT9tlJN74ZO11"
-    },
-    {
-      "added_at": "2025-11-14 06:28:05",
-      "album": {
-        "name": "Bl\u00e5\u00f6gd",
-        "url": "https://open.spotify.com/album/1nxYAabZgRXCzGo14eBYWv"
-      },
-      "artists": [
-        {
-          "name": "Molly Sand\u00e9n",
-          "url": "https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY"
-        }
-      ],
-      "duration_ms": 215834,
-      "name": "Bl\u00e5\u00f6gd",
-      "url": "https://open.spotify.com/track/4JAjSsZO4DX0tWYjMjppdM"
-    },
-    {
-      "added_at": "2025-11-14 06:28:05",
-      "album": {
-        "name": "12 to 12",
-        "url": "https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 242903,
-      "name": "12 to 12",
-      "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
-    },
-    {
-      "added_at": "2025-11-14 06:28:05",
-      "album": {
-        "name": "WHERE IS MY HUSBAND!",
-        "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 196795,
-      "name": "WHERE IS MY HUSBAND!",
-      "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
-    },
-    {
-      "added_at": "2025-11-14 06:28:05",
-      "album": {
-        "name": "Black Widow",
-        "url": "https://open.spotify.com/album/5xbuyaUrvPgpPjOitEKHQU"
-      },
-      "artists": [
-        {
-          "name": "FELICIA",
-          "url": "https://open.spotify.com/artist/5KR7k79pkoPeGdMcv4DLOa"
-        }
-      ],
-      "duration_ms": 160326,
-      "name": "Black Widow",
-      "url": "https://open.spotify.com/track/39AmM0jZSFAo7MBxIYoMN8"
-    },
-    {
-      "added_at": "2025-11-14 06:28:05",
-      "album": {
-        "name": "No Broke Boys",
-        "url": "https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N"
-      },
-      "artists": [
-        {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
-        },
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 163994,
-      "name": "No Broke Boys",
-      "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
-    },
-    {
-      "added_at": "2025-11-14 06:28:05",
-      "album": {
-        "name": "F\u00f6rr nu & forever",
-        "url": "https://open.spotify.com/album/0VgMibLJeMzYTBq4jVXUqC"
-      },
-      "artists": [
-        {
-          "name": "Hov1",
-          "url": "https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt"
-        }
-      ],
-      "duration_ms": 225511,
-      "name": "F\u00f6rr nu & forever",
-      "url": "https://open.spotify.com/track/2TOQs76tr9Ua2g4c8SyBEw"
-    },
-    {
-      "added_at": "2025-11-14 06:28:05",
+      "added_at": "2025-11-20 23:00:57",
       "album": {
         "name": "Tusen sp\u00e4nn",
         "url": "https://open.spotify.com/album/65IQow1xXrvDc5j1H0DJiL"
@@ -213,7 +161,59 @@
       "url": "https://open.spotify.com/track/01RdEXps15f3VmQMV6OuTM"
     },
     {
-      "added_at": "2025-11-14 06:28:05",
+      "added_at": "2025-11-20 23:00:57",
+      "album": {
+        "name": "No Broke Boys",
+        "url": "https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N"
+      },
+      "artists": [
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        },
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 163994,
+      "name": "No Broke Boys",
+      "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
+    },
+    {
+      "added_at": "2025-11-20 23:00:57",
+      "album": {
+        "name": "Black Widow",
+        "url": "https://open.spotify.com/album/5xbuyaUrvPgpPjOitEKHQU"
+      },
+      "artists": [
+        {
+          "name": "FELICIA",
+          "url": "https://open.spotify.com/artist/5KR7k79pkoPeGdMcv4DLOa"
+        }
+      ],
+      "duration_ms": 160326,
+      "name": "Black Widow",
+      "url": "https://open.spotify.com/track/39AmM0jZSFAo7MBxIYoMN8"
+    },
+    {
+      "added_at": "2025-11-20 23:00:57",
+      "album": {
+        "name": "F\u00f6rr nu & forever",
+        "url": "https://open.spotify.com/album/0VgMibLJeMzYTBq4jVXUqC"
+      },
+      "artists": [
+        {
+          "name": "Hov1",
+          "url": "https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt"
+        }
+      ],
+      "duration_ms": 225511,
+      "name": "F\u00f6rr nu & forever",
+      "url": "https://open.spotify.com/track/2TOQs76tr9Ua2g4c8SyBEw"
+    },
+    {
+      "added_at": "2025-11-20 23:00:57",
       "album": {
         "name": "SWAG",
         "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
@@ -229,7 +229,7 @@
       "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
     },
     {
-      "added_at": "2025-11-14 06:28:05",
+      "added_at": "2025-11-20 23:00:57",
       "album": {
         "name": "The Life of a Showgirl",
         "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
@@ -245,7 +245,7 @@
       "url": "https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa"
     },
     {
-      "added_at": "2025-11-14 06:28:05",
+      "added_at": "2025-11-20 23:00:57",
       "album": {
         "name": "Bl\u00e5\u00f6gd",
         "url": "https://open.spotify.com/album/1vfkutPs1Wd9ouKGAt0h3S"
@@ -261,7 +261,7 @@
       "url": "https://open.spotify.com/track/5gvf3tnmRlEacNJ5XmaKJV"
     },
     {
-      "added_at": "2025-11-14 06:28:05",
+      "added_at": "2025-11-20 23:00:57",
       "album": {
         "name": "Deadbeat",
         "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
@@ -277,103 +277,7 @@
       "url": "https://open.spotify.com/track/1NXbNEAcPvY5G1xvfN57aA"
     },
     {
-      "added_at": "2025-11-14 06:28:05",
-      "album": {
-        "name": "Sommarland",
-        "url": "https://open.spotify.com/album/3Fs1NyFLebhVWHyYTW4cSz"
-      },
-      "artists": [
-        {
-          "name": "Darin",
-          "url": "https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr"
-        }
-      ],
-      "duration_ms": 172596,
-      "name": "Allt jag har",
-      "url": "https://open.spotify.com/track/0grHyIry2NnHHfH7oPQi7G"
-    },
-    {
-      "added_at": "2025-11-14 06:28:05",
-      "album": {
-        "name": "Svagare \u00e4n jag",
-        "url": "https://open.spotify.com/album/1G4oPYw6MmSYJH04bBIdtr"
-      },
-      "artists": [
-        {
-          "name": "Ida-Lova",
-          "url": "https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO"
-        }
-      ],
-      "duration_ms": 187076,
-      "name": "Svagare \u00e4n jag",
-      "url": "https://open.spotify.com/track/5xsHQu1SXYS6DYOJwIWhSC"
-    },
-    {
-      "added_at": "2025-11-14 06:28:05",
-      "album": {
-        "name": "\u00c4lvsj\u00f6 Macken",
-        "url": "https://open.spotify.com/album/6tO48qyabUnpR3FFJEz3sR"
-      },
-      "artists": [
-        {
-          "name": "Dizzy",
-          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
-        }
-      ],
-      "duration_ms": 125581,
-      "name": "\u00c4lvsj\u00f6 Macken",
-      "url": "https://open.spotify.com/track/2XqUjJ0wYTDENHanyngt5T"
-    },
-    {
-      "added_at": "2025-11-14 06:28:05",
-      "album": {
-        "name": "F\u00c5 MEN SAMLAD",
-        "url": "https://open.spotify.com/album/2GWJavE5Sx53Z1EG6ZWJFL"
-      },
-      "artists": [
-        {
-          "name": "Hooja",
-          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
-        }
-      ],
-      "duration_ms": 178064,
-      "name": "F\u00c5 MEN SAMLAD",
-      "url": "https://open.spotify.com/track/39HQ4ziCupqVEgxo7w6uDh"
-    },
-    {
-      "added_at": "2025-11-14 06:28:05",
-      "album": {
-        "name": "The Dead Dance",
-        "url": "https://open.spotify.com/album/1KdrtZn2AmuQPHKIr3h4e6"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 228518,
-      "name": "The Dead Dance",
-      "url": "https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh"
-    },
-    {
-      "added_at": "2025-11-14 06:28:05",
-      "album": {
-        "name": "TIT FOR TAT",
-        "url": "https://open.spotify.com/album/1ks1k7zln4TyBjn1CF3vCz"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 177208,
-      "name": "TIT FOR TAT",
-      "url": "https://open.spotify.com/track/04a44cx2PJthIbN2aLMXhl"
-    },
-    {
-      "added_at": "2025-11-14 06:28:05",
+      "added_at": "2025-11-20 23:00:57",
       "album": {
         "name": "Bakom molnen",
         "url": "https://open.spotify.com/album/45YWIRQbOKBHi8FwMBTT6o"
@@ -393,23 +297,39 @@
       "url": "https://open.spotify.com/track/55m2vizhdnC34lToqqzgcw"
     },
     {
-      "added_at": "2025-11-14 06:28:05",
+      "added_at": "2025-11-20 23:00:57",
       "album": {
-        "name": "The Art of Loving",
-        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
+        "name": "Svagare \u00e4n jag",
+        "url": "https://open.spotify.com/album/1G4oPYw6MmSYJH04bBIdtr"
       },
       "artists": [
         {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+          "name": "Ida-Lova",
+          "url": "https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO"
         }
       ],
-      "duration_ms": 169000,
-      "name": "So Easy (To Fall In Love)",
-      "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
+      "duration_ms": 187076,
+      "name": "Svagare \u00e4n jag",
+      "url": "https://open.spotify.com/track/5xsHQu1SXYS6DYOJwIWhSC"
     },
     {
-      "added_at": "2025-11-14 06:28:05",
+      "added_at": "2025-11-20 23:00:57",
+      "album": {
+        "name": "\u00c4lvsj\u00f6 Macken",
+        "url": "https://open.spotify.com/album/6tO48qyabUnpR3FFJEz3sR"
+      },
+      "artists": [
+        {
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
+        }
+      ],
+      "duration_ms": 125581,
+      "name": "\u00c4lvsj\u00f6 Macken",
+      "url": "https://open.spotify.com/track/2XqUjJ0wYTDENHanyngt5T"
+    },
+    {
+      "added_at": "2025-11-20 23:00:57",
       "album": {
         "name": "Die On This Hill",
         "url": "https://open.spotify.com/album/7GS4aKISJ2KgAm4aBhkzng"
@@ -425,43 +345,55 @@
       "url": "https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ"
     },
     {
-      "added_at": "2025-11-14 06:28:05",
+      "added_at": "2025-11-20 23:00:57",
       "album": {
-        "name": "A New Day (feat. Celine Dion)",
-        "url": "https://open.spotify.com/album/0hWZe6IdHgUji11F12nVY0"
+        "name": "The Dead Dance",
+        "url": "https://open.spotify.com/album/1KdrtZn2AmuQPHKIr3h4e6"
       },
       "artists": [
         {
-          "name": "Sebastian Ingrosso",
-          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
-        },
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         }
       ],
-      "duration_ms": 207223,
-      "name": "A New Day (feat. Celine Dion)",
-      "url": "https://open.spotify.com/track/0NRIWkmQiSoIaEs3wvoSS7"
+      "duration_ms": 228518,
+      "name": "The Dead Dance",
+      "url": "https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh"
     },
     {
-      "added_at": "2025-11-14 06:28:05",
+      "added_at": "2025-11-20 23:00:57",
       "album": {
-        "name": "Midnight Sun",
-        "url": "https://open.spotify.com/album/0nte5x6fXd37Nt7jALSmx0"
+        "name": "Sommarland",
+        "url": "https://open.spotify.com/album/3Fs1NyFLebhVWHyYTW4cSz"
       },
       "artists": [
         {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+          "name": "Darin",
+          "url": "https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr"
         }
       ],
-      "duration_ms": 189351,
-      "name": "Hot & Sexy",
-      "url": "https://open.spotify.com/track/6XcyAXAYKQD7FqCG2F2xOu"
+      "duration_ms": 172596,
+      "name": "Allt jag har",
+      "url": "https://open.spotify.com/track/0grHyIry2NnHHfH7oPQi7G"
     },
     {
-      "added_at": "2025-11-14 06:28:05",
+      "added_at": "2025-11-20 23:00:57",
+      "album": {
+        "name": "The Art of Loving",
+        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "So Easy (To Fall In Love)",
+      "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
+    },
+    {
+      "added_at": "2025-11-20 23:00:57",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -493,7 +425,59 @@
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
     },
     {
-      "added_at": "2025-11-14 06:28:05",
+      "added_at": "2025-11-20 23:00:57",
+      "album": {
+        "name": "A New Day (feat. Celine Dion)",
+        "url": "https://open.spotify.com/album/0hWZe6IdHgUji11F12nVY0"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Ingrosso",
+          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
+        },
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 207223,
+      "name": "A New Day (feat. Celine Dion)",
+      "url": "https://open.spotify.com/track/0NRIWkmQiSoIaEs3wvoSS7"
+    },
+    {
+      "added_at": "2025-11-20 23:00:57",
+      "album": {
+        "name": "F\u00c5 MEN SAMLAD",
+        "url": "https://open.spotify.com/album/2GWJavE5Sx53Z1EG6ZWJFL"
+      },
+      "artists": [
+        {
+          "name": "Hooja",
+          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
+        }
+      ],
+      "duration_ms": 178064,
+      "name": "F\u00c5 MEN SAMLAD",
+      "url": "https://open.spotify.com/track/39HQ4ziCupqVEgxo7w6uDh"
+    },
+    {
+      "added_at": "2025-11-20 23:00:57",
+      "album": {
+        "name": "Midnight Sun",
+        "url": "https://open.spotify.com/album/0nte5x6fXd37Nt7jALSmx0"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 182055,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/20R5YwjmKubeva79prlvJq"
+    },
+    {
+      "added_at": "2025-11-20 23:00:57",
       "album": {
         "name": "CASANOVA",
         "url": "https://open.spotify.com/album/0K3uzlRETlEk0B3Q8Bql7p"
@@ -509,7 +493,7 @@
       "url": "https://open.spotify.com/track/00N0RDX7n9W2LcgYQuECL3"
     },
     {
-      "added_at": "2025-11-14 06:28:05",
+      "added_at": "2025-11-20 23:00:57",
       "album": {
         "name": "Hos dig \u00e4r jag stark",
         "url": "https://open.spotify.com/album/71CzIZ2fzyriXJf5kVI9Tj"
@@ -533,7 +517,7 @@
       "url": "https://open.spotify.com/track/0L7nPD6GbbEGI5KdN2scId"
     },
     {
-      "added_at": "2025-11-14 06:28:05",
+      "added_at": "2025-11-20 23:00:57",
       "album": {
         "name": "RUSHEN TAR ALDRIG SLUT",
         "url": "https://open.spotify.com/album/3ZtvMVD8asywOMHIbix1nS"
@@ -549,7 +533,23 @@
       "url": "https://open.spotify.com/track/5ukPTFMAIoEq6AOmRHZFRk"
     },
     {
-      "added_at": "2025-11-14 06:28:05",
+      "added_at": "2025-11-20 23:00:57",
+      "album": {
+        "name": "TIT FOR TAT",
+        "url": "https://open.spotify.com/album/1ks1k7zln4TyBjn1CF3vCz"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 177208,
+      "name": "TIT FOR TAT",
+      "url": "https://open.spotify.com/track/04a44cx2PJthIbN2aLMXhl"
+    },
+    {
+      "added_at": "2025-11-20 23:00:57",
       "album": {
         "name": "St\u00f6rd",
         "url": "https://open.spotify.com/album/4A7EjZFyWeH1fobQTj1UmV"
@@ -565,7 +565,7 @@
       "url": "https://open.spotify.com/track/2IgrHNArmP0qRKbQ5UVeVB"
     },
     {
-      "added_at": "2025-11-14 06:28:05",
+      "added_at": "2025-11-20 23:00:57",
       "album": {
         "name": "Man\u2019s Best Friend",
         "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
@@ -581,7 +581,23 @@
       "url": "https://open.spotify.com/track/0je57Uq5eTk1wrPzn9sWbl"
     },
     {
-      "added_at": "2025-11-14 06:28:05",
+      "added_at": "2025-11-20 23:00:57",
+      "album": {
+        "name": "Sommarkatt",
+        "url": "https://open.spotify.com/album/17jcApM4Eibe8do5pJTNCD"
+      },
+      "artists": [
+        {
+          "name": "Lovet",
+          "url": "https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK"
+        }
+      ],
+      "duration_ms": 208201,
+      "name": "Sommarkatt",
+      "url": "https://open.spotify.com/track/57AHVmaxTYWoBBB5CFr9Ts"
+    },
+    {
+      "added_at": "2025-11-20 23:00:57",
       "album": {
         "name": "The Boy Who Played the Harp",
         "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
@@ -601,23 +617,7 @@
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
     },
     {
-      "added_at": "2025-11-14 06:28:05",
-      "album": {
-        "name": "Sommarkatt",
-        "url": "https://open.spotify.com/album/17jcApM4Eibe8do5pJTNCD"
-      },
-      "artists": [
-        {
-          "name": "Lovet",
-          "url": "https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK"
-        }
-      ],
-      "duration_ms": 208201,
-      "name": "Sommarkatt",
-      "url": "https://open.spotify.com/track/57AHVmaxTYWoBBB5CFr9Ts"
-    },
-    {
-      "added_at": "2025-11-14 06:28:05",
+      "added_at": "2025-11-20 23:00:57",
       "album": {
         "name": "Mimosa",
         "url": "https://open.spotify.com/album/3RdhNTewFtkvWj5z2gxZpp"
@@ -633,7 +633,7 @@
       "url": "https://open.spotify.com/track/00oneQN4fZEl3tbhiNMExE"
     },
     {
-      "added_at": "2025-11-14 06:28:05",
+      "added_at": "2025-11-20 23:00:57",
       "album": {
         "name": "You'll Be Alright, Kid",
         "url": "https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK"
@@ -649,7 +649,7 @@
       "url": "https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8"
     },
     {
-      "added_at": "2025-11-14 06:28:05",
+      "added_at": "2025-11-20 23:00:57",
       "album": {
         "name": "WHEN A GIRL CRIES",
         "url": "https://open.spotify.com/album/74mjAz7XKkyRB8CAdLQngJ"
@@ -665,7 +665,7 @@
       "url": "https://open.spotify.com/track/5Kq49f1Yae96EXQgWKUbMM"
     },
     {
-      "added_at": "2025-11-14 06:28:05",
+      "added_at": "2025-11-20 23:00:57",
       "album": {
         "name": "Just Keep Watching (From F1\u00ae The Movie)",
         "url": "https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY"
@@ -685,7 +685,7 @@
       "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
     },
     {
-      "added_at": "2025-11-14 06:28:05",
+      "added_at": "2025-11-20 23:00:57",
       "album": {
         "name": "Stateside + Zara Larsson",
         "url": "https://open.spotify.com/album/553gwPPa6VUWikljMiQyGM"
@@ -705,7 +705,7 @@
       "url": "https://open.spotify.com/track/7tM3yPeSBxnIIQlkz22vId"
     },
     {
-      "added_at": "2025-11-14 06:28:05",
+      "added_at": "2025-11-20 23:00:57",
       "album": {
         "name": "Berghain",
         "url": "https://open.spotify.com/album/0avVU24xBfXW7ItE0xtzN2"
@@ -729,7 +729,7 @@
       "url": "https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj"
     },
     {
-      "added_at": "2025-11-14 06:28:05",
+      "added_at": "2025-11-20 23:00:57",
       "album": {
         "name": "Azizam",
         "url": "https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI"
@@ -745,7 +745,7 @@
       "url": "https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc"
     },
     {
-      "added_at": "2025-11-14 06:28:05",
+      "added_at": "2025-11-20 23:00:57",
       "album": {
         "name": "H\u00e5ller Mig Sj\u00e4lv",
         "url": "https://open.spotify.com/album/5ZhHuLXnFFM7jOTZ73lvez"
@@ -769,7 +769,7 @@
       "url": "https://open.spotify.com/track/48zbg3rmtLckXVdKracwzq"
     },
     {
-      "added_at": "2025-11-14 06:28:05",
+      "added_at": "2025-11-20 23:00:57",
       "album": {
         "name": "Lys p\u00e5 mig",
         "url": "https://open.spotify.com/album/3WzL7EQg84unvvF8q3Cq5M"
@@ -785,7 +785,7 @@
       "url": "https://open.spotify.com/track/3kbNesyQPnUreP6bD7aADS"
     },
     {
-      "added_at": "2025-11-14 06:28:05",
+      "added_at": "2025-11-20 23:00:57",
       "album": {
         "name": "R\u00e4ddare i n\u00f6den",
         "url": "https://open.spotify.com/album/4yY4PIqnPv3UYRvIaJU0X7"
@@ -801,7 +801,7 @@
       "url": "https://open.spotify.com/track/3QR9CKSgMGMq27gnSl5pft"
     },
     {
-      "added_at": "2025-11-14 06:28:05",
+      "added_at": "2025-11-20 23:00:57",
       "album": {
         "name": "Manchild",
         "url": "https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic"
@@ -817,7 +817,7 @@
       "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
     },
     {
-      "added_at": "2025-11-14 06:28:05",
+      "added_at": "2025-11-20 23:00:57",
       "album": {
         "name": "back to friends",
         "url": "https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E"
@@ -833,7 +833,7 @@
       "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
     },
     {
-      "added_at": "2025-11-14 06:28:05",
+      "added_at": "2025-11-20 23:00:57",
       "album": {
         "name": "Ordinary",
         "url": "https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S"
@@ -849,7 +849,7 @@
       "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
     },
     {
-      "added_at": "2025-11-14 06:28:05",
+      "added_at": "2025-11-20 23:00:57",
       "album": {
         "name": "BASSIANI",
         "url": "https://open.spotify.com/album/6pAxDrhGFM30xRSPtweNHB"
@@ -865,7 +865,7 @@
       "url": "https://open.spotify.com/track/22j80vyQCwoILJQuWTkQoo"
     },
     {
-      "added_at": "2025-11-14 06:28:05",
+      "added_at": "2025-11-20 23:00:57",
       "album": {
         "name": "Mystical Magical",
         "url": "https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK"

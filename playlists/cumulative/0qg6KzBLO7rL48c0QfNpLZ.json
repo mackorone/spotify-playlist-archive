@@ -1746,6 +1746,32 @@
     {
       "album": {
         "name": "Back To You",
+        "url": "https://open.spotify.com/album/0GHiAapK5vUx7pw52gTZPu"
+      },
+      "artists": [
+        {
+          "name": "Dallien",
+          "url": "https://open.spotify.com/artist/3iAbOn3r0bXmmxyQYBxVHJ"
+        },
+        {
+          "name": "KZann",
+          "url": "https://open.spotify.com/artist/2ulDpFv47BQrc5kGoaSy7A"
+        },
+        {
+          "name": "Spagbo",
+          "url": "https://open.spotify.com/artist/2EZUOnMtEkQv06k5fkbKTJ"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179016,
+      "name": "Back To You",
+      "url": "https://open.spotify.com/track/2uyxNUSxJq0fHFon3otFGZ"
+    },
+    {
+      "album": {
+        "name": "Back To You",
         "url": "https://open.spotify.com/album/5cSpVyRCl8cPLBptLLPLqQ"
       },
       "artists": [

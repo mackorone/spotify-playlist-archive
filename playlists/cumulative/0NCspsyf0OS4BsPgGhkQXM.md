@@ -4,11 +4,11 @@
 
 > The Official Trap Nation Playlist
 
-1,130 songs - 2 day 10 hr 7 min
+1,131 songs - 2 day 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [](https://open.spotify.com/track/60zIis3BtyfNQFEucmDvE7) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0Mx4ZDmXhfWQ1E3xp3TiSP) | 0:00 | 2025-11-06 |  |
+| [](https://open.spotify.com/track/60zIis3BtyfNQFEucmDvE7) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0Mx4ZDmXhfWQ1E3xp3TiSP) | 0:00 | 2025-11-06 | 2025-11-21 |
 | ['iiblis](https://open.spotify.com/track/0IUGa7sG1RNgA1DHFwHqMh) | [Stereotype](https://open.spotify.com/artist/0binTLIlGbXSMuzhRykbRq), [jacob.](https://open.spotify.com/artist/4TZfht59B1e5LZE8JsE1OE) | [NOWHERE](https://open.spotify.com/album/2Umgb5V6u7umS1BMXq4UXQ) | 3:20 | 2022-01-14 | 2022-04-08 |
 | [\(Give It To Me Like I\) Want It](https://open.spotify.com/track/5z5sA9z9PqN0pciTUnmkki) | [Kumarion](https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27) | [\(Give It To Me Like I\) Want It](https://open.spotify.com/album/6MHlPJOdgHXcWBmvtqKYo3) | 3:36 | 2022-01-14 | 2022-09-15 |
 | [1\-800](https://open.spotify.com/track/6NBZu27n3cxEk4y4c2Kxi8) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Ironmouse](https://open.spotify.com/artist/3rkwWB8rbBCNTrSvVUBa6C) | [1\-800](https://open.spotify.com/album/1EsY408Bg5cxj5SCa6ABaI) | 3:29 | 2025-09-13 |  |
@@ -841,6 +841,7 @@
 | [SAKURA BURST \(Naeleck Remix\) \- Sakura Chill Beats Singles](https://open.spotify.com/track/3Zj9WSEjueL8UecCOC67tT) | [Cö Shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5), [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF) | [SAKURA BURST \(Naeleck Remix\) \- Sakura Chill Beats Singles](https://open.spotify.com/album/06XBg45fb1ASwRGAwFyeD7) | 4:07 | 2022-02-11 | 2022-04-08 |
 | [Salt](https://open.spotify.com/track/5rFRdSHV7GQyu2kNjyXRgE) | [sumthin sumthin](https://open.spotify.com/artist/2a8ez0A2owcYhFki9860sm), [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr) | [Light Garden](https://open.spotify.com/album/6vTBnxMMSX9OUHyJjJfZfe) | 3:43 | 2022-05-11 | 2022-07-29 |
 | [Salute](https://open.spotify.com/track/37XddbdpKKXfp2vbRDtGXG) | [Tyraz](https://open.spotify.com/artist/6nRbicEmpaqL0wjlbJBPAf) | [Salute](https://open.spotify.com/album/34mWwgsPRUqXNjE0Ubn1Sl) | 2:46 | 2022-10-07 | 2022-11-05 |
+| [Salvation](https://open.spotify.com/track/1FEyNS8yzc3bGBDf1M0cdx) | [DASH](https://open.spotify.com/artist/0Lytvh6QGkV6v8UAeht06c) | [Salvation](https://open.spotify.com/album/0TFiy3BFlP7SgsIpGxvkxZ) | 3:26 | 2025-11-20 |  |
 | [Samurai \- The FifthGuys Remix](https://open.spotify.com/track/6YUOdQK3fXRAZIiP34GAJC) | [TH3 DARP](https://open.spotify.com/artist/10W6SIbkGGVlY8yYrUxwmw), [Godmode](https://open.spotify.com/artist/3R4VCoPt7V1poOWpdU43X8), [The FifthGuys](https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR) | [Samurai \(The FifthGuys Remix\)](https://open.spotify.com/album/1SUlHPKx6r7F77IJdOMJx2) | 2:41 | 2022-02-18 | 2022-04-30 |
 | [Sandman](https://open.spotify.com/track/2FlK5T7ULbQ55sbbXfy2Ac) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M) | [IDK, Vol\. 2](https://open.spotify.com/album/2l7fX4vQC0CIHZVJ63aPYt) | 3:43 | 2022-01-14 | 2022-02-17 |
 | [SATANS SMILE](https://open.spotify.com/track/5HSNpr6gaEof5aeuF39yYg) | [ICHIRO](https://open.spotify.com/artist/5MUljcWL3VylwkBxs9xw0p) | [SATANS SMILE](https://open.spotify.com/album/5gecBZfK5LRcRYnyyI5xO8) | 1:30 | 2024-03-23 | 2024-08-14 |

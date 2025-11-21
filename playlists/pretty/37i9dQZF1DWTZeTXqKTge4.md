@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Découvrez le rap québécois, servi tout frais\. Photo: kinji00, Hubert Lenoir, lb66
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,930 likes - 95 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,942 likes - 95 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

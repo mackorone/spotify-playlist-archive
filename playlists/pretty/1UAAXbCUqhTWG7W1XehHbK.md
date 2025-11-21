@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1UAAXbCUqhTWG7W1XehHbK.md) - [plain]
 
 > &quot;Indie Essentials&quot; is the ultimate playlist for indie music fans\. It features tracks from influential and iconic indie artists, showcasing the diversity and creativity of the genre\. Discover new and old classics in the indie spirit.
 
-[Indie Music](https://open.spotify.com/user/eqiomkuuw0lc4nplre0xyx9dg) - 588 likes - 126 songs - 7 hr 20 min
+[Indie Music](https://open.spotify.com/user/eqiomkuuw0lc4nplre0xyx9dg) - 588 likes - 129 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,5 +134,8 @@ pretty - [cumulative](/playlists/cumulative/1UAAXbCUqhTWG7W1XehHbK.md) - [plain]
 | 124 | [No Compromise](https://open.spotify.com/track/1EHtBFS5j9ILFIpiNH8YLH) | [Mark Rosal](https://open.spotify.com/artist/4rCAMDYZqXv0TYKBFaU4YW) | [No Compromise](https://open.spotify.com/album/5JGiQTirqxqSaoZZLwNabw) | 3:43 |
 | 125 | [Kiss Me Before I Die](https://open.spotify.com/track/24PYfS3e4mGu9J1qRYQJNb) | [DJ Connery](https://open.spotify.com/artist/4hqpFbarG3QRQHWu5PE1au) | [Kiss Me Before I Die](https://open.spotify.com/album/6WK2lmzQryOU4r2YyI82Hg) | 4:13 |
 | 126 | [Success](https://open.spotify.com/track/75sePLN6c7Qzs8OgFvZJkX) | [Rogue](https://open.spotify.com/artist/64161WbeOZvWb8N5RmxgFQ), [Avaraj](https://open.spotify.com/artist/6LTM1sXyyToaTPdm4B4WDC), [Covo](https://open.spotify.com/artist/09qCDVsKSmqST6eEXyKPF8) | [Success](https://open.spotify.com/album/6HXv3wCAfiXUve0Ja7sjwk) | 3:43 |
+| 127 | [Greedy for small gains](https://open.spotify.com/track/0cNiKGurgv7nWN3ZnmzynE) | [RYN SKY](https://open.spotify.com/artist/0LWSuwMqKEWQfFEFOariZg) | [Greedy for small gains](https://open.spotify.com/album/2uqbUzjq5TGGnR7Nh5cj8e) | 6:52 |
+| 128 | [Hands](https://open.spotify.com/track/6LflirCCKMmIPoJeb9Kkb8) | [Hosannas](https://open.spotify.com/artist/3MOXu8DfF3VUfC7WmNBb8D) | [Picture Him Protecting You](https://open.spotify.com/album/3Je9xNxfxhvKKp4VqVAI7E) | 4:41 |
+| 129 | [Eu Confesso](https://open.spotify.com/track/2JN9RaAhfUwuoRcEBedbUo) | [AlonUshi](https://open.spotify.com/artist/5ff5myNBPYGziyBDXwsEAp) | [Eu Confesso](https://open.spotify.com/album/3r8W5VCdCfjAAHPqVkagqv) | 3:10 |
 
-Snapshot ID: `AAADXBhV1PkbFMUlh8JJO/gR+5kwvVzW`
+Snapshot ID: `AAADXy1cZle9kUEShS6tuZaoU4Vk5ITG`

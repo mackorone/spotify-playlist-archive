@@ -1,6 +1,6 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Rosa de Saron",
-  "num_followers": 147859,
+  "num_followers": 147884,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
@@ -811,6 +811,22 @@
     {
       "added_at": "2025-10-24 18:38:07",
       "album": {
+        "name": "Boom!",
+        "url": "https://open.spotify.com/album/7xho4sAoA3YS6DJxZpL7lC"
+      },
+      "artists": [
+        {
+          "name": "Lenha Music",
+          "url": "https://open.spotify.com/artist/2xxdCRAjSrO9HF3lziz4hO"
+        }
+      ],
+      "duration_ms": 182976,
+      "name": "Boom!",
+      "url": "https://open.spotify.com/track/3kTzGASJtWjghgB6CmMJDl"
+    },
+    {
+      "added_at": "2025-10-24 18:38:07",
+      "album": {
         "name": "Kleber Lucas ao vivo no Teatro Rival (AO VIVO)",
         "url": "https://open.spotify.com/album/76A83uRzxB9ySA6BLEKInf"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 284693,
       "name": "Na Corte do Egito - Ao Vivo",
       "url": "https://open.spotify.com/track/1kPt4OCB6h0lFRR7QAYY7e"
-    },
-    {
-      "added_at": "2025-10-24 18:38:07",
-      "album": {
-        "name": "Boom!",
-        "url": "https://open.spotify.com/album/7xho4sAoA3YS6DJxZpL7lC"
-      },
-      "artists": [
-        {
-          "name": "Lenha Music",
-          "url": "https://open.spotify.com/artist/2xxdCRAjSrO9HF3lziz4hO"
-        }
-      ],
-      "duration_ms": 182976,
-      "name": "Boom!",
-      "url": "https://open.spotify.com/track/3kTzGASJtWjghgB6CmMJDl"
     },
     {
       "added_at": "2025-10-24 18:38:07",

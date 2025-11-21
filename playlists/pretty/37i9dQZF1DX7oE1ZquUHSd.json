@@ -1,6 +1,6 @@
 {
   "description": "El poder real del Hip Hop latinoamericano y espa\u00f1ol. La Banda Bast\u00f6n en portada. ",
-  "num_followers": 214382,
+  "num_followers": 214468,
   "original_name": "Cl\u00e1sicos del Hip Hop Latino",
   "owner": {
     "name": "Spotify",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Vivir para Contarlo",
-        "url": "https://open.spotify.com/album/6LeLj7gigY7PBgPVZ6P25f"
-      },
-      "artists": [
-        {
-          "name": "Violadores Del Verso",
-          "url": "https://open.spotify.com/artist/1DH9RJ0xBVje6gQmK3LWUY"
-        }
-      ],
-      "duration_ms": 332853,
-      "name": "Cantando",
-      "url": "https://open.spotify.com/track/5AIwfXYjGkWCs4KeeTk2Rq"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "A Praga",
         "url": "https://open.spotify.com/album/02Lwolo9461GRQH8mLaHHi"
       },
@@ -843,22 +827,6 @@
       "duration_ms": 192816,
       "name": "A Praga",
       "url": "https://open.spotify.com/track/6jlT1zT7tKV8YUqJe08rfD"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
-        "name": "Chaco (Serie Rock Nacional 2004)",
-        "url": "https://open.spotify.com/album/0GkGiViGgeUGQ1rweG2rsH"
-      },
-      "artists": [
-        {
-          "name": "Illya Kuryaki & The Valderramas",
-          "url": "https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg"
-        }
-      ],
-      "duration_ms": 258440,
-      "name": "Abarajame",
-      "url": "https://open.spotify.com/track/3uLlpzZGQCMfhM0kmuI4qn"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -883,30 +851,18 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "El C\u00edrculo (Versi\u00f3n Exclusiva de Spotify)",
-        "url": "https://open.spotify.com/album/5HTtQMQxpNk64Uj1zXjufs"
+        "name": "Chaco (Serie Rock Nacional 2004)",
+        "url": "https://open.spotify.com/album/0GkGiViGgeUGQ1rweG2rsH"
       },
       "artists": [
         {
-          "name": "Kase.O",
-          "url": "https://open.spotify.com/artist/7GmXwGXJSsmWTkCyk5Twux"
-        },
-        {
-          "name": "Hermano L",
-          "url": "https://open.spotify.com/artist/3K6sWdZkd44I5AanjEvYc1"
-        },
-        {
-          "name": "Shabu One Shant",
-          "url": "https://open.spotify.com/artist/0ntfzFCIx4KqKi3znNENz6"
-        },
-        {
-          "name": "McKlopedia",
-          "url": "https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG"
+          "name": "Illya Kuryaki & The Valderramas",
+          "url": "https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg"
         }
       ],
-      "duration_ms": 271733,
-      "name": "Pavos Reales (con Hermano L, Shabu One Shant y Mcklopedia)",
-      "url": "https://open.spotify.com/track/4HVYBeELSvhfGmWwFoZr4p"
+      "duration_ms": 258440,
+      "name": "Abarajame",
+      "url": "https://open.spotify.com/track/3uLlpzZGQCMfhM0kmuI4qn"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -920,9 +876,9 @@
           "url": "https://open.spotify.com/artist/1DH9RJ0xBVje6gQmK3LWUY"
         }
       ],
-      "duration_ms": 374853,
-      "name": "Pura Droga Sin Cortar",
-      "url": "https://open.spotify.com/track/7zUhVz7yMmO1mmbfFI8R5i"
+      "duration_ms": 332853,
+      "name": "Cantando",
+      "url": "https://open.spotify.com/track/5AIwfXYjGkWCs4KeeTk2Rq"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -959,6 +915,34 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
+        "name": "El C\u00edrculo (Versi\u00f3n Exclusiva de Spotify)",
+        "url": "https://open.spotify.com/album/5HTtQMQxpNk64Uj1zXjufs"
+      },
+      "artists": [
+        {
+          "name": "Kase.O",
+          "url": "https://open.spotify.com/artist/7GmXwGXJSsmWTkCyk5Twux"
+        },
+        {
+          "name": "Hermano L",
+          "url": "https://open.spotify.com/artist/3K6sWdZkd44I5AanjEvYc1"
+        },
+        {
+          "name": "Shabu One Shant",
+          "url": "https://open.spotify.com/artist/0ntfzFCIx4KqKi3znNENz6"
+        },
+        {
+          "name": "McKlopedia",
+          "url": "https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG"
+        }
+      ],
+      "duration_ms": 271733,
+      "name": "Pavos Reales (con Hermano L, Shabu One Shant y Mcklopedia)",
+      "url": "https://open.spotify.com/track/4HVYBeELSvhfGmWwFoZr4p"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
         "name": "Tequila Sunrise",
         "url": "https://open.spotify.com/album/03tKydztnZhkF2ZFVv4VYV"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 237333,
       "name": "Tequila Sunrise - Spanish Version",
       "url": "https://open.spotify.com/track/71irkRXv8MoAoJo6oZjjAe"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "Vivir para Contarlo",
+        "url": "https://open.spotify.com/album/6LeLj7gigY7PBgPVZ6P25f"
+      },
+      "artists": [
+        {
+          "name": "Violadores Del Verso",
+          "url": "https://open.spotify.com/artist/1DH9RJ0xBVje6gQmK3LWUY"
+        }
+      ],
+      "duration_ms": 374853,
+      "name": "Pura Droga Sin Cortar",
+      "url": "https://open.spotify.com/track/7zUhVz7yMmO1mmbfFI8R5i"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
+        "name": "Nunca Vemos Nada",
+        "url": "https://open.spotify.com/album/4xXjsyeUxgEUJtRU9Ftpbv"
+      },
+      "artists": [
+        {
+          "name": "Proof",
+          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+        }
+      ],
+      "duration_ms": 221538,
+      "name": "Sexo de Despedida",
+      "url": "https://open.spotify.com/track/5v5kX73l0sZwZ7XYuL3vGq"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
         "name": "Poes\u00eda Difusa",
         "url": "https://open.spotify.com/album/1zrVeZHRsPsRWdnQSuUIYG"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 309606,
       "name": "Amor Libre",
       "url": "https://open.spotify.com/track/1PT0H11VO2JSWjsCPR0CBd"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
-        "name": "Nunca Vemos Nada",
-        "url": "https://open.spotify.com/album/4xXjsyeUxgEUJtRU9Ftpbv"
-      },
-      "artists": [
-        {
-          "name": "Proof",
-          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
-        }
-      ],
-      "duration_ms": 221538,
-      "name": "Sexo de Despedida",
-      "url": "https://open.spotify.com/track/5v5kX73l0sZwZ7XYuL3vGq"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1099,22 +1099,6 @@
       "duration_ms": 178533,
       "name": "Dr. Dedoverde (Dr. Greenthumb) - Spanish Version",
       "url": "https://open.spotify.com/track/27ccZxdrx3VbCTUXI433OO"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
-        "name": "Vicios y Virtudes",
-        "url": "https://open.spotify.com/album/6SaShuiobMOc9mIiSmP2kY"
-      },
-      "artists": [
-        {
-          "name": "Violadores Del Verso",
-          "url": "https://open.spotify.com/artist/1DH9RJ0xBVje6gQmK3LWUY"
-        }
-      ],
-      "duration_ms": 269160,
-      "name": "Ninguna Chavala Tiene Due\u00f1o - Porque Ella Me Lo Dijo",
-      "url": "https://open.spotify.com/track/5fIJBM9OxVNiu4fQLX9vqo"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1175,6 +1159,22 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
+        "name": "Vicios y Virtudes",
+        "url": "https://open.spotify.com/album/6SaShuiobMOc9mIiSmP2kY"
+      },
+      "artists": [
+        {
+          "name": "Violadores Del Verso",
+          "url": "https://open.spotify.com/artist/1DH9RJ0xBVje6gQmK3LWUY"
+        }
+      ],
+      "duration_ms": 269160,
+      "name": "Ninguna Chavala Tiene Due\u00f1o - Porque Ella Me Lo Dijo",
+      "url": "https://open.spotify.com/track/5fIJBM9OxVNiu4fQLX9vqo"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
         "name": "ANIMAL",
         "url": "https://open.spotify.com/album/4eBTljS2CAgzO8rfcwRTGp"
       },
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Vivir para Contarlo / Haciendo Lo Nuestro",
-        "url": "https://open.spotify.com/album/3MMyvg2MoM23KIuGCjo28u"
-      },
-      "artists": [
-        {
-          "name": "Violadores Del Verso",
-          "url": "https://open.spotify.com/artist/1DH9RJ0xBVje6gQmK3LWUY"
-        }
-      ],
-      "duration_ms": 346913,
-      "name": "Vivir para Contarlo",
-      "url": "https://open.spotify.com/track/6RWB3HBIIggX3eo5BrDZeC"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "Desde",
         "url": "https://open.spotify.com/album/74UJbBZO5IuCRtwyWqoLzL"
       },
@@ -1243,26 +1227,6 @@
       "duration_ms": 277439,
       "name": "Desde",
       "url": "https://open.spotify.com/track/5kwkIYnH4ObKsTeNQvZ0pT"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
-        "name": "995",
-        "url": "https://open.spotify.com/album/2Uxj0MZLjKgQQBrRzNtPM5"
-      },
-      "artists": [
-        {
-          "name": "995",
-          "url": "https://open.spotify.com/artist/6Yd1PvtV3SDFofgpb4EWqt"
-        },
-        {
-          "name": "El Chojin",
-          "url": "https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc"
-        }
-      ],
-      "duration_ms": 319920,
-      "name": "Contra Todos",
-      "url": "https://open.spotify.com/track/13FbVnmgiKZdKMHPly1ekQ"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1291,6 +1255,22 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
+        "name": "Vivir para Contarlo / Haciendo Lo Nuestro",
+        "url": "https://open.spotify.com/album/3MMyvg2MoM23KIuGCjo28u"
+      },
+      "artists": [
+        {
+          "name": "Violadores Del Verso",
+          "url": "https://open.spotify.com/artist/1DH9RJ0xBVje6gQmK3LWUY"
+        }
+      ],
+      "duration_ms": 346913,
+      "name": "Vivir para Contarlo",
+      "url": "https://open.spotify.com/track/6RWB3HBIIggX3eo5BrDZeC"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
         "name": "Donde Duele Inspira (Versi\u00f3n Jazz)",
         "url": "https://open.spotify.com/album/3QExWqCE0QmknS05vj59QL"
       },
@@ -1311,18 +1291,22 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Vicios y Virtudes",
-        "url": "https://open.spotify.com/album/6SaShuiobMOc9mIiSmP2kY"
+        "name": "995",
+        "url": "https://open.spotify.com/album/2Uxj0MZLjKgQQBrRzNtPM5"
       },
       "artists": [
         {
-          "name": "Violadores Del Verso",
-          "url": "https://open.spotify.com/artist/1DH9RJ0xBVje6gQmK3LWUY"
+          "name": "995",
+          "url": "https://open.spotify.com/artist/6Yd1PvtV3SDFofgpb4EWqt"
+        },
+        {
+          "name": "El Chojin",
+          "url": "https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc"
         }
       ],
-      "duration_ms": 334040,
-      "name": "Vicios y Virtudes",
-      "url": "https://open.spotify.com/track/4fjMMRylitPre5mh7AzbP0"
+      "duration_ms": 319920,
+      "name": "Contra Todos",
+      "url": "https://open.spotify.com/track/13FbVnmgiKZdKMHPly1ekQ"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1355,6 +1339,22 @@
       "duration_ms": 245120,
       "name": "Basado en hechos reales",
       "url": "https://open.spotify.com/track/5YcF2yE63JW70yfB9rIprG"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "Vicios y Virtudes",
+        "url": "https://open.spotify.com/album/6SaShuiobMOc9mIiSmP2kY"
+      },
+      "artists": [
+        {
+          "name": "Violadores Del Verso",
+          "url": "https://open.spotify.com/artist/1DH9RJ0xBVje6gQmK3LWUY"
+        }
+      ],
+      "duration_ms": 334040,
+      "name": "Vicios y Virtudes",
+      "url": "https://open.spotify.com/track/4fjMMRylitPre5mh7AzbP0"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Los Grandes \u00c9xitos En Espa\u00f1ol (Spanish Greatest Hits)",
-        "url": "https://open.spotify.com/album/7u6yoSRjIBM2EI52DJLMkZ"
-      },
-      "artists": [
-        {
-          "name": "Cypress Hill",
-          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
-        }
-      ],
-      "duration_ms": 249693,
-      "name": "No Entiendes La Onda (How I Could Just Kill A Man) - Spanish Version",
-      "url": "https://open.spotify.com/track/3JlHPSGJykKR0EAESs8Ope"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "Faruz Vs. Proof",
         "url": "https://open.spotify.com/album/4f0iuEJ66gNenOENDbjva8"
       },
@@ -1443,46 +1427,18 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Lista de Invitados",
-        "url": "https://open.spotify.com/album/2hVyIvwrZs10yqHYfGXtFd"
+        "name": "Los Grandes \u00c9xitos En Espa\u00f1ol (Spanish Greatest Hits)",
+        "url": "https://open.spotify.com/album/7u6yoSRjIBM2EI52DJLMkZ"
       },
       "artists": [
         {
-          "name": "SFDK",
-          "url": "https://open.spotify.com/artist/56n1NeXsTOOxjX3Z4lVMTJ"
-        },
-        {
-          "name": "Fyahbwoy",
-          "url": "https://open.spotify.com/artist/6uFTGm4t8Z6tXyCm22sLQM"
-        },
-        {
-          "name": "Accion Sanchez",
-          "url": "https://open.spotify.com/artist/3R8z9YIb6DBi9Z8gPbhyXs"
-        },
-        {
-          "name": "Gordo Master",
-          "url": "https://open.spotify.com/artist/5y1Ia0TH2oNXKLkKNOdjZQ"
+          "name": "Cypress Hill",
+          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
         }
       ],
-      "duration_ms": 292093,
-      "name": "Blondapetit",
-      "url": "https://open.spotify.com/track/6VnTJEOE3PlAG8plyOmldd"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
-        "name": "Verdugo",
-        "url": "https://open.spotify.com/album/3kXUPuwSmjQiyCgPIDeZW1"
-      },
-      "artists": [
-        {
-          "name": "Proof",
-          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
-        }
-      ],
-      "duration_ms": 224651,
-      "name": "Tratos Con el Diablo",
-      "url": "https://open.spotify.com/track/3dtbEL58G2yATa9GlVD2Th"
+      "duration_ms": 249693,
+      "name": "No Entiendes La Onda (How I Could Just Kill A Man) - Spanish Version",
+      "url": "https://open.spotify.com/track/3JlHPSGJykKR0EAESs8Ope"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1519,22 +1475,46 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Hombre de Oro",
-        "url": "https://open.spotify.com/album/0eSm5UmzLKix0xXPVKkQLA"
+        "name": "Verdugo",
+        "url": "https://open.spotify.com/album/3kXUPuwSmjQiyCgPIDeZW1"
       },
       "artists": [
         {
-          "name": "ZPU",
-          "url": "https://open.spotify.com/artist/7F9Bd5X4sxdwWRJVpbfMtb"
-        },
-        {
-          "name": "Nach",
-          "url": "https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto"
+          "name": "Proof",
+          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
         }
       ],
-      "duration_ms": 262520,
-      "name": "Noches en BCN",
-      "url": "https://open.spotify.com/track/5if3JzeUPoXRd9eV2ajfkX"
+      "duration_ms": 224651,
+      "name": "Tratos Con el Diablo",
+      "url": "https://open.spotify.com/track/3dtbEL58G2yATa9GlVD2Th"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "Lista de Invitados",
+        "url": "https://open.spotify.com/album/2hVyIvwrZs10yqHYfGXtFd"
+      },
+      "artists": [
+        {
+          "name": "SFDK",
+          "url": "https://open.spotify.com/artist/56n1NeXsTOOxjX3Z4lVMTJ"
+        },
+        {
+          "name": "Fyahbwoy",
+          "url": "https://open.spotify.com/artist/6uFTGm4t8Z6tXyCm22sLQM"
+        },
+        {
+          "name": "Accion Sanchez",
+          "url": "https://open.spotify.com/artist/3R8z9YIb6DBi9Z8gPbhyXs"
+        },
+        {
+          "name": "Gordo Master",
+          "url": "https://open.spotify.com/artist/5y1Ia0TH2oNXKLkKNOdjZQ"
+        }
+      ],
+      "duration_ms": 292093,
+      "name": "Blondapetit",
+      "url": "https://open.spotify.com/track/6VnTJEOE3PlAG8plyOmldd"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1555,18 +1535,22 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Nunca Vemos Nada",
-        "url": "https://open.spotify.com/album/4xXjsyeUxgEUJtRU9Ftpbv"
+        "name": "Hombre de Oro",
+        "url": "https://open.spotify.com/album/0eSm5UmzLKix0xXPVKkQLA"
       },
       "artists": [
         {
-          "name": "Proof",
-          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+          "name": "ZPU",
+          "url": "https://open.spotify.com/artist/7F9Bd5X4sxdwWRJVpbfMtb"
+        },
+        {
+          "name": "Nach",
+          "url": "https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto"
         }
       ],
-      "duration_ms": 195000,
-      "name": "El Mito de la Caverna",
-      "url": "https://open.spotify.com/track/0NiWrLr9wR2VkGXKKzhgQL"
+      "duration_ms": 262520,
+      "name": "Noches en BCN",
+      "url": "https://open.spotify.com/track/5if3JzeUPoXRd9eV2ajfkX"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1583,6 +1567,22 @@
       "duration_ms": 293066,
       "name": "Digo Lo Que Pienso",
       "url": "https://open.spotify.com/track/2ZR2Cox8oGFMdvPLiNKrJO"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "Nunca Vemos Nada",
+        "url": "https://open.spotify.com/album/4xXjsyeUxgEUJtRU9Ftpbv"
+      },
+      "artists": [
+        {
+          "name": "Proof",
+          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "El Mito de la Caverna",
+      "url": "https://open.spotify.com/track/0NiWrLr9wR2VkGXKKzhgQL"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "2005",
-        "url": "https://open.spotify.com/album/1Nux8B69WySS5XMMprdgL3"
-      },
-      "artists": [
-        {
-          "name": "SFDK",
-          "url": "https://open.spotify.com/artist/56n1NeXsTOOxjX3Z4lVMTJ"
-        }
-      ],
-      "duration_ms": 289200,
-      "name": "El Ni\u00f1o G\u00fcei",
-      "url": "https://open.spotify.com/track/4HSUcBiPq6e9fsYv5q1yvg"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "Verdugo",
         "url": "https://open.spotify.com/album/3kXUPuwSmjQiyCgPIDeZW1"
       },
@@ -1683,30 +1667,6 @@
       "duration_ms": 176842,
       "name": "Verdugo",
       "url": "https://open.spotify.com/track/1zmPtZKrIxWRsdfk2yhH0k"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
-        "name": "R de Rumba",
-        "url": "https://open.spotify.com/album/0fNRU2Bri98HFdkLPdjY3d"
-      },
-      "artists": [
-        {
-          "name": "R De Rumba",
-          "url": "https://open.spotify.com/artist/6zJkLYY6jdwLbRCo3Acc3C"
-        },
-        {
-          "name": "Kase.O",
-          "url": "https://open.spotify.com/artist/7GmXwGXJSsmWTkCyk5Twux"
-        },
-        {
-          "name": "Kamel",
-          "url": "https://open.spotify.com/artist/3QVQAtD0D10SEpt3JRP2K1"
-        }
-      ],
-      "duration_ms": 514493,
-      "name": "Javat y Kamel",
-      "url": "https://open.spotify.com/track/3SgvnQco35HHgE75uMZ5C2"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1743,6 +1703,22 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
+        "name": "De Longe. (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/5NvT1OChf8aYyglBqfsptk"
+      },
+      "artists": [
+        {
+          "name": "Haikaiss",
+          "url": "https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb"
+        }
+      ],
+      "duration_ms": 206549,
+      "name": "De Longe. - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/1RSdTzKm5vE3ELZPwbTbuQ"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
         "name": "Producto Infinito Version 0.4",
         "url": "https://open.spotify.com/album/0MoNYk7bMv3Vwt8VFyssME"
       },
@@ -1755,6 +1731,22 @@
       "duration_ms": 298893,
       "name": "Suelo so\u00f1ar",
       "url": "https://open.spotify.com/track/3bUZA8syssxjVdvJDExkRi"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "Un D\u00eda En Suburbia",
+        "url": "https://open.spotify.com/album/0aJ4ulwOTjZIMgcx5zVBd7"
+      },
+      "artists": [
+        {
+          "name": "Nach",
+          "url": "https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto"
+        }
+      ],
+      "duration_ms": 790440,
+      "name": "Anochece / Manifiesto",
+      "url": "https://open.spotify.com/track/1EnpICfLSoEqih0r6wkUEx"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1779,34 +1771,42 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Un D\u00eda En Suburbia",
-        "url": "https://open.spotify.com/album/0aJ4ulwOTjZIMgcx5zVBd7"
+        "name": "2005",
+        "url": "https://open.spotify.com/album/1Nux8B69WySS5XMMprdgL3"
       },
       "artists": [
         {
-          "name": "Nach",
-          "url": "https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto"
+          "name": "SFDK",
+          "url": "https://open.spotify.com/artist/56n1NeXsTOOxjX3Z4lVMTJ"
         }
       ],
-      "duration_ms": 790440,
-      "name": "Anochece / Manifiesto",
-      "url": "https://open.spotify.com/track/1EnpICfLSoEqih0r6wkUEx"
+      "duration_ms": 289200,
+      "name": "El Ni\u00f1o G\u00fcei",
+      "url": "https://open.spotify.com/track/4HSUcBiPq6e9fsYv5q1yvg"
     },
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "De Longe. (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/5NvT1OChf8aYyglBqfsptk"
+        "name": "R de Rumba",
+        "url": "https://open.spotify.com/album/0fNRU2Bri98HFdkLPdjY3d"
       },
       "artists": [
         {
-          "name": "Haikaiss",
-          "url": "https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb"
+          "name": "R De Rumba",
+          "url": "https://open.spotify.com/artist/6zJkLYY6jdwLbRCo3Acc3C"
+        },
+        {
+          "name": "Kase.O",
+          "url": "https://open.spotify.com/artist/7GmXwGXJSsmWTkCyk5Twux"
+        },
+        {
+          "name": "Kamel",
+          "url": "https://open.spotify.com/artist/3QVQAtD0D10SEpt3JRP2K1"
         }
       ],
-      "duration_ms": 206549,
-      "name": "De Longe. - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/1RSdTzKm5vE3ELZPwbTbuQ"
+      "duration_ms": 514493,
+      "name": "Javat y Kamel",
+      "url": "https://open.spotify.com/track/3SgvnQco35HHgE75uMZ5C2"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "El C\u00edrculo (Versi\u00f3n Exclusiva de Spotify)",
-        "url": "https://open.spotify.com/album/5HTtQMQxpNk64Uj1zXjufs"
-      },
-      "artists": [
-        {
-          "name": "Kase.O",
-          "url": "https://open.spotify.com/artist/7GmXwGXJSsmWTkCyk5Twux"
-        }
-      ],
-      "duration_ms": 371786,
-      "name": "Basureta (Tiempos Raros)",
-      "url": "https://open.spotify.com/track/3o4whF6e25WeOnLBdsLFsX"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "Residente o Visitante",
         "url": "https://open.spotify.com/album/1Tng1uGqDjFgs6n4Ud25fH"
       },
@@ -1859,6 +1843,26 @@
       "duration_ms": 270493,
       "name": "Mala Suerta con el 13 (feat. La Mala Rodr\u00edguez)",
       "url": "https://open.spotify.com/track/6TB7BAFTmpkFNPpmhvqIxC"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "Dale Gas",
+        "url": "https://open.spotify.com/album/3IzttvD3sVv5xZOQWuxpl7"
+      },
+      "artists": [
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+        },
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "duration_ms": 212495,
+      "name": "Dale Gas",
+      "url": "https://open.spotify.com/track/2f71lbjmfueEmrxPTHk11Z"
     }
   ],
   "unique_name": "Cl\u00e1sicos del Hip Hop Latino",

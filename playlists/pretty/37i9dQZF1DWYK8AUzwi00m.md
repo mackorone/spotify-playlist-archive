@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYK8AUzwi00m.md) - [plain]
 
 > have yourself a chill and lofi xmas
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,108 likes - 103 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,263 likes - 103 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYK8AUzwi00m.md) - [plain]
 | 102 | [Jinbells](https://open.spotify.com/track/3V4TzkY3u1KVi6OgvUShrP) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m) | [A Lofi Xmas](https://open.spotify.com/album/2EGWnZJEuGx9pC7nUGRPjy) | 1:49 |
 | 103 | [El Tamborillero](https://open.spotify.com/track/5FhKEzzYnquRmc6yoMfZLq) | [Floating Bits](https://open.spotify.com/artist/4CmfscPBgrYJQuZP1nTQbs) | [El Tamborillero](https://open.spotify.com/album/3BFtMfVWEq5rdN2GUIPGEu) | 2:46 |
 
-Snapshot ID: `AAAAAN2vGenxLAUnePR/yj4yNPLeCrLr`
+Snapshot ID: `AAAAAIniMKh5v/vymV4RSsjLJoxPplBA`

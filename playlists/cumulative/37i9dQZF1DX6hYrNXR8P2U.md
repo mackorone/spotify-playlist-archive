@@ -4,7 +4,7 @@
 
 > MUY PIOLA<br/>📷 Usted Señalemelo
 
-561 songs - 1 day 5 hr 21 min
+562 songs - 1 day 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [Eresi](https://open.spotify.com/track/0gFbaCf4YTPSHNzQK243Uf) | [elmalamía](https://open.spotify.com/artist/1SoXdL4dbR3tJudByWGLkM) | [Pavlo, cada vez menos...](https://open.spotify.com/album/1nuNOlU2mOuVKldwj0oIuZ) | 3:15 | 2025-10-24 |  |
 | [Es Así](https://open.spotify.com/track/6UcSnz6quThUb3XsjQbmgY) | [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E), [Sam Vazquez](https://open.spotify.com/artist/3k684W4rJtfWKNkUZIhuAq) | [Es Así](https://open.spotify.com/album/0BF82aBeWmhKrMf81RpUeb) | 3:27 | 2025-05-30 | 2025-07-25 |
 | [Es lo que hay](https://open.spotify.com/track/3suGQeun95baBp2Bb4OAyS) | [Barbie Williams](https://open.spotify.com/artist/56v6nmscLs2EGMSvg3JrQI), [Juan Pedro Dolce](https://open.spotify.com/artist/4G9yBOjF9Av2OOctueG87T) | [Es lo que hay](https://open.spotify.com/album/1D9tMbIqp3UJSJBBRKFoc4) | 2:39 | 2025-10-24 |  |
+| [Escuché tu voz](https://open.spotify.com/track/4x3du9CZ6ronjcRUV8WVGp) | [Mora Robirosa](https://open.spotify.com/artist/28WzV7jlOuklyRRzH1Keys) | [Escuché tu voz](https://open.spotify.com/album/3yighcYugRkRKuMni8gjPR) | 3:04 | 2025-11-21 |  |
 | [Esencia](https://open.spotify.com/track/5D9xp03T4qzveLrF1NYvnK) | [Smitten](https://open.spotify.com/artist/6b12ezIOzhz60P3CASuEtL) | [Esencia](https://open.spotify.com/album/68FCV1qUfcjqFkbzDXtUmO) | 3:26 | 2025-07-25 | 2025-08-01 |
 | [Eso Que Tú Llamas Amor](https://open.spotify.com/track/66qnFSBNzTAeOgVsadRkKi) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ), [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Eso Que Tú Llamas Amor](https://open.spotify.com/album/3o0rSyy7XEtDcFSiGvX8jI) | 2:55 | 2025-02-07 | 2025-07-05 |
 | [ESQUIVA](https://open.spotify.com/track/6Wxm4ETl1UHPRf4GJhfNOe) | [Seamoon](https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O) | [ESQUIVA](https://open.spotify.com/album/7J9z4mnz4I5zwZgZrFVwo4) | 3:28 | 2025-04-25 | 2025-11-20 |

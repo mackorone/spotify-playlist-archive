@@ -1,6 +1,6 @@
 {
   "description": "indie & indiepop in het Nederlands. Cover: De Zweefclub",
-  "num_followers": 10982,
+  "num_followers": 10985,
   "original_name": "indie.nl",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2025-11-08 08:13:51",
       "album": {
-        "name": "Niemand",
-        "url": "https://open.spotify.com/album/0aJyQTMQlS5WnPojUxBjcE"
-      },
-      "artists": [
-        {
-          "name": "IDA",
-          "url": "https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN"
-        }
-      ],
-      "duration_ms": 144782,
-      "name": "Niemand",
-      "url": "https://open.spotify.com/track/5jfxlasIpoa3S2ESVGBMf9"
-    },
-    {
-      "added_at": "2025-11-08 08:13:51",
-      "album": {
         "name": "Drijfzand",
         "url": "https://open.spotify.com/album/33HwgqAUk5su4mUxTsKtoc"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 219130,
       "name": "Drijfzand",
       "url": "https://open.spotify.com/track/7xIUJS8zUUfkXvxXrdOgmo"
+    },
+    {
+      "added_at": "2025-11-08 08:13:51",
+      "album": {
+        "name": "Niemand",
+        "url": "https://open.spotify.com/album/0aJyQTMQlS5WnPojUxBjcE"
+      },
+      "artists": [
+        {
+          "name": "IDA",
+          "url": "https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN"
+        }
+      ],
+      "duration_ms": 144782,
+      "name": "Niemand",
+      "url": "https://open.spotify.com/track/5jfxlasIpoa3S2ESVGBMf9"
     },
     {
       "added_at": "2025-11-08 08:13:51",
@@ -731,26 +731,6 @@
     {
       "added_at": "2025-11-08 08:13:51",
       "album": {
-        "name": "Vager!",
-        "url": "https://open.spotify.com/album/5zRCPSHsRjT9thKatrwc1J"
-      },
-      "artists": [
-        {
-          "name": "IDA",
-          "url": "https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN"
-        },
-        {
-          "name": "MAZOO",
-          "url": "https://open.spotify.com/artist/0xbGR2sM0IN3C3pwlmA4Hj"
-        }
-      ],
-      "duration_ms": 132727,
-      "name": "Vager!",
-      "url": "https://open.spotify.com/track/5llK2C03HqHJ7NM8ixKwYD"
-    },
-    {
-      "added_at": "2025-11-08 08:13:51",
-      "album": {
         "name": "De Helft Van Het Verhaal",
         "url": "https://open.spotify.com/album/5uNnNkVHmIGDsBUbP2CyC4"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 190059,
       "name": "Doe Het Voor Het Geld",
       "url": "https://open.spotify.com/track/7FchMtnIrs3dlWK33Gr16P"
+    },
+    {
+      "added_at": "2025-11-08 08:13:51",
+      "album": {
+        "name": "Het Moment Supr\u00eame",
+        "url": "https://open.spotify.com/album/5hLf8KGSoR9cvf4ZPyFgRQ"
+      },
+      "artists": [
+        {
+          "name": "LE MOTAT",
+          "url": "https://open.spotify.com/artist/5ETmxctyLILUwpIf9H30iO"
+        },
+        {
+          "name": "F\u00e9",
+          "url": "https://open.spotify.com/artist/0m73YFCtlwhxvn3LiOHDNY"
+        }
+      ],
+      "duration_ms": 144374,
+      "name": "Evenwicht",
+      "url": "https://open.spotify.com/track/4YCIKgw9G0YNaN5vOzmxhI"
     },
     {
       "added_at": "2025-11-08 08:13:51",
@@ -815,22 +815,22 @@
     {
       "added_at": "2025-11-08 08:13:51",
       "album": {
-        "name": "Het Moment Supr\u00eame",
-        "url": "https://open.spotify.com/album/5hLf8KGSoR9cvf4ZPyFgRQ"
+        "name": "Vager!",
+        "url": "https://open.spotify.com/album/5zRCPSHsRjT9thKatrwc1J"
       },
       "artists": [
         {
-          "name": "LE MOTAT",
-          "url": "https://open.spotify.com/artist/5ETmxctyLILUwpIf9H30iO"
+          "name": "IDA",
+          "url": "https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN"
         },
         {
-          "name": "F\u00e9",
-          "url": "https://open.spotify.com/artist/0m73YFCtlwhxvn3LiOHDNY"
+          "name": "MAZOO",
+          "url": "https://open.spotify.com/artist/0xbGR2sM0IN3C3pwlmA4Hj"
         }
       ],
-      "duration_ms": 144374,
-      "name": "Evenwicht",
-      "url": "https://open.spotify.com/track/4YCIKgw9G0YNaN5vOzmxhI"
+      "duration_ms": 132727,
+      "name": "Vager!",
+      "url": "https://open.spotify.com/track/5llK2C03HqHJ7NM8ixKwYD"
     },
     {
       "added_at": "2025-11-08 08:13:51",

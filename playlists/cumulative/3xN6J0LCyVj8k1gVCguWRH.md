@@ -4,7 +4,7 @@
 
 > The best tracks of 2025\. A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-5,449 songs - 12 day 16 hr 29 min
+5,450 songs - 12 day 16 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1417,6 +1417,7 @@
 | [Emotions Have Color](https://open.spotify.com/track/7CAWKlaQNtVG0UEuvqpkiS) | [T Street Zoo](https://open.spotify.com/artist/1SjOYm8QAWInkKgzhyLRc4), [Zoe Zehren](https://open.spotify.com/artist/2mei6T2naE6gzw84SGdauC), [Joseph Quinn](https://open.spotify.com/artist/4Dq44dBQow9U8vPPkDNlxP) | [Emotions Have Color](https://open.spotify.com/album/2RfcQlrlD5vWSjfHQXh0fB) | 4:31 | 2024-07-11 | 2024-07-23 |
 | [Empty](https://open.spotify.com/track/6pHKGkzk38XzLFwBVpp38s) | [Andre Ruffin](https://open.spotify.com/artist/4Ldu96b8sAmZN1RQJqvOFv) | [Empty](https://open.spotify.com/album/1DqWdSp8j00lXHr2rnXM0F) | 4:53 | 2025-03-04 | 2025-03-16 |
 | [Empty Picture Frame](https://open.spotify.com/track/02Y5bIU0kjusMnjPJdAC3s) | [Alan Kavalier](https://open.spotify.com/artist/6NuiXrBKhYJ7ndWVDGsmer) | [Empty Picture Frame](https://open.spotify.com/album/1JxvTMbMzSt8FxvjO1iniA) | 4:20 | 2021-12-31 | 2022-01-15 |
+| [Empty With The...](https://open.spotify.com/track/6DW6VxpbXfdOweIW7ntivu) | [Kaviitá](https://open.spotify.com/artist/0zlOE7nwzYpOgXnmo9zP9O) | [Empty With The...](https://open.spotify.com/album/6CBgvW39bWNOr0DOzMp9Kf) | 4:22 | 2025-11-20 |  |
 | [En Canto](https://open.spotify.com/track/4u23INsuBOfxP4MIOwhWhQ) | [Adriana Rosso](https://open.spotify.com/artist/4XqGfKbpuFHhOo6HgSIziD) | [En Canto](https://open.spotify.com/album/6iauQrcWDHBHtpbSgpG2Yy) | 3:03 | 2023-01-06 | 2023-01-28 |
 | [End of Me](https://open.spotify.com/track/68ByRwEnwrBYyrLUJhncge) | [Chris Aguilar](https://open.spotify.com/artist/4wzQ9vuuFaWUEUqu2cAnDO) | [End of Me](https://open.spotify.com/album/6Tg1T2H6sLeV0X1KE2OsLU) | 3:57 | 2024-05-17 | 2024-05-29 |
 | [End Of Summer](https://open.spotify.com/track/1Iw5iLfAwDvS6frI82gMoV) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [End Of Summer](https://open.spotify.com/album/3kgOKo0TlU22INB7U0Rqdj) | 7:12 | 2025-07-25 |  |
@@ -1467,7 +1468,7 @@
 | [Everything & Anything](https://open.spotify.com/track/7j2b4WzBi7PHvk8VBABHz5) | [Agent Sasco \(Assassin\)](https://open.spotify.com/artist/0CiLVKp7LJTm0c8jdUmQNy), [Daseca](https://open.spotify.com/artist/4bTPICxfdk6NnzLH7HGgiX), [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Everything & Anything](https://open.spotify.com/album/4Bw26X5mdODOQYPKM8ssWw) | 3:55 | 2025-02-12 | 2025-02-25 |
 | [Everything \(..\. Is Never Quite Enough\)](https://open.spotify.com/track/7tpTeZgPPcpGHmKLwQClXt) | [Wasis Diop](https://open.spotify.com/artist/5WgEnjgCrT1aeQELTV3tdB) | [Toxu](https://open.spotify.com/album/4orLzkXAHLvYzQncVdLYFX) | 4:32 | 2021-07-11 | 2024-04-21 |
 | [Everything and Anything](https://open.spotify.com/track/6NF37GshCNOl3xorfCrp79) | [Alejandra O'Leary](https://open.spotify.com/artist/3y4khrJjdxXrnhBvfqAVn6) | [Sunlight](https://open.spotify.com/album/00qVy2r1bSpxaQyCBQuHbf) | 3:40 | 2024-09-29 | 2024-10-11 |
-| [Everything Is Broken](https://open.spotify.com/track/65Ywa7EspM0tSZreKwOmnL) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Oh Mercy](https://open.spotify.com/album/18ue4s9PsV3WBw7kkzD689) | 3:13 | 2023-07-20 |  |
+| [Everything Is Broken](https://open.spotify.com/track/65Ywa7EspM0tSZreKwOmnL) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Oh Mercy](https://open.spotify.com/album/18ue4s9PsV3WBw7kkzD689) | 3:15 | 2023-07-20 |  |
 | [Everything Moves](https://open.spotify.com/track/1jee7Mh2U6wyml1Fw3ZgoT) | [Monotronic](https://open.spotify.com/artist/6yRrkpttMRDY8KiZG193SU) | [Everything Moves](https://open.spotify.com/album/4JI3FfdoUcV0kIuvtRxT3B) | 3:45 | 2025-02-15 | 2025-04-16 |
 | [Everything We Know](https://open.spotify.com/track/5gMXhRsYttCSc04PQTUlmS) | [Eliyanah](https://open.spotify.com/artist/4Fy9ktzHsOjSuaaOECXtaC) | [Everything We Know](https://open.spotify.com/album/6TXB9Ix1LXaTfxznJ6eZIh) | 3:24 | 2023-03-15 | 2023-04-03 |
 | [EVERYTIME](https://open.spotify.com/track/2XLsgAOjPepRaWPGPPvwJZ) | [1NFFERNO](https://open.spotify.com/artist/6DaaaXa0AGLGjRVn5wfH3C) | [INT'L NFFERNO II](https://open.spotify.com/album/6AZd8509Sv3jdTtGPddubG) | 3:31 | 2023-12-31 | 2024-01-08 |

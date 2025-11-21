@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover: 도영 \(DOYOUNG\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover: KYUHYUN\(규현\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,615 songs - 4 day 8 hr 53 min
+1,616 songs - 4 day 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -754,6 +754,7 @@
 | [Like a Star](https://open.spotify.com/track/0uoXefj4KKRp6K30YGpMgP) | [MOON SUA\(Billlie\)](https://open.spotify.com/artist/1EC3MS97YT9lOI8YHSmOYp) | [Reborn Rich \(Original Soundtrack\), Pt\. 4](https://open.spotify.com/album/2dRVuhkmaPDdRFGiqIarIV) | 3:35 | 2022-12-16 | 2023-01-21 |
 | [Like Crazy](https://open.spotify.com/track/3UP93ZfvCcreTrNutrqcCC) | [V.O.S](https://open.spotify.com/artist/2x8nGCQ6zMQYA8oAX6Ggk2) | [talks about pain](https://open.spotify.com/album/56HfP8AGEFwJTcUCbtCiUl) | 3:59 | 2022-07-07 | 2022-08-13 |
 | [Like nothing happened](https://open.spotify.com/track/5zpTQE7cQO6YbLuDIwyFpW) | [BIG MAMA](https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ) | [Born \(本\)](https://open.spotify.com/album/4vqaCThesmLShHPsTJ38tO) | 3:59 | 2022-02-10 | 2022-02-26 |
+| [Like Our First Snow](https://open.spotify.com/track/03SbWYerRj1IcNlJbpFxNM) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [The Classic](https://open.spotify.com/album/3mpbMQ43egeunRgwxeup5C) | 3:49 | 2025-11-20 |  |
 | [like rain, like music](https://open.spotify.com/track/3nnrVKWgdCvBcSzA5zDCKe) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [the late Kim Hyun\-sik's 30th Anniversary Memorial Album "Making Memories" Part 1](https://open.spotify.com/album/47vRM7GI9143lBSB1UEn4T) | 4:48 | 2022-01-03 | 2022-06-12 |
 | [Like that day it rained \(Feat\. Yoon Myoung\)](https://open.spotify.com/track/2Ee2Aj1QwFrn1axyc50E08) | [DINDIN](https://open.spotify.com/artist/63cvWayCvPbWYNDi537w0z), [윤명](https://open.spotify.com/artist/2XX1oNkfRZ3R5MtEsGmtwJ) | [Like that day it rained \(Feat\. Yoon Myoung\)](https://open.spotify.com/album/2PdCE7xAUZV6cqe51MvRGd) | 3:30 | 2022-08-18 | 2022-12-27 |
 | [Like That Smiling Face Letting Me Go](https://open.spotify.com/track/0iOQgqh8aUo8g86yNy7Mwb) | [Song Jiwoo](https://open.spotify.com/artist/5BTi8S9pgtDKVRSuosZ6Dt) | [The Ballad of Us Story 1](https://open.spotify.com/album/1gLIfRtWh7Uf8yT5m2Npur) | 3:14 | 2025-11-06 |  |

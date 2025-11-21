@@ -1,13 +1,29 @@
 {
-  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Deredia",
-  "num_followers": 113362,
+  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Jo Soegono",
+  "num_followers": 113373,
   "original_name": "Jazz Anak Negeri",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH0RJ8eS8n8/fVxCx2HMPbFNZUjo",
+  "snapshot_id": "AAAAAOnO3iGPyK3w1QU6TZZxcqtvoNe2",
   "tracks": [
+    {
+      "added_at": "2025-11-20 17:00:10",
+      "album": {
+        "name": "Prof Jo",
+        "url": "https://open.spotify.com/album/7z095HYTK1SgEbsg5RyqSE"
+      },
+      "artists": [
+        {
+          "name": "Jo Soegono",
+          "url": "https://open.spotify.com/artist/4g10GFwD6GAtYbugb9Ur7p"
+        }
+      ],
+      "duration_ms": 223846,
+      "name": "Dunia",
+      "url": "https://open.spotify.com/track/7te1TuQxKFWrftuBuDjRu7"
+    },
     {
       "added_at": "2025-11-06 17:30:34",
       "album": {

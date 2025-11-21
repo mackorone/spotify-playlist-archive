@@ -563,6 +563,28 @@
     },
     {
       "album": {
+        "name": "Dans Alleen",
+        "url": "https://open.spotify.com/album/4VuBnepihfl7KDSdFgOmDp"
+      },
+      "artists": [
+        {
+          "name": "The Partysquad",
+          "url": "https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY"
+        },
+        {
+          "name": "Nachtdienst",
+          "url": "https://open.spotify.com/artist/3064mDVay7KaKF8TyuD8kw"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157611,
+      "name": "Dans Alleen",
+      "url": "https://open.spotify.com/track/5bNnztkwLZSZL9mKBOTDxl"
+    },
+    {
+      "album": {
         "name": "De Liefde",
         "url": "https://open.spotify.com/album/61mnvmeJ8RTpN5bXDq6AXy"
       },

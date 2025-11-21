@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 
 > Keep the villa vibes vibing with music from and inspired by the new season of Love Island USA, streaming only on <a href="https://www.peacocktv.com/stream\-tv/love\-island?cid=2406spotifypkerndwbjny446&utm\_campaign=2406spotify&utm\_source=sptfy\_na&utm\_medium=ernd\_wbjny\_acq\_deslnk&utm\_term=spotifyusers&utm\_content=nooffer&voucher\[\]=XXXXXXXXXXXXXX">Peacock</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,841 likes - 219 songs - 11 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,802 likes - 219 songs - 11 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -184,7 +184,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 | 174 | [Multiply](https://open.spotify.com/track/0d8qNWRwQafcOXAyw6FxiB) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Multiply](https://open.spotify.com/album/0aniMlLzu8HCWo6wXDgh75) | 2:28 |
 | 175 | [Worth It.](https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:06 |
 | 176 | [One Of Your Girls](https://open.spotify.com/track/1Fav4xZn60uGM3XmiHJmvT) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5PsQkSZdGgr9jnuSKzSi5s) | 3:01 |
-| 177 | [Shot to the Heart](https://open.spotify.com/track/1fazAunw8xHAFoBrakeM8D) | [Decla](https://open.spotify.com/artist/6jA6tytXRjUrcWbw4ZMvx9), [Gracie Jacob](https://open.spotify.com/artist/3x7U6Y1Kb6b3jVgc8Vxbad) | [Shot to the Heart](https://open.spotify.com/album/1bsbYebS4GMwfJTfTj0a66) | 3:13 |
+| 177 | [Shot to the Heart](https://open.spotify.com/track/1fazAunw8xHAFoBrakeM8D) | [Decla Gracie Jacob](https://open.spotify.com/artist/56txl1Lk2WuvqZ0gJoBV71) | [Shot to the Heart](https://open.spotify.com/album/1bsbYebS4GMwfJTfTj0a66) | 3:13 |
 | 178 | [Never the 1](https://open.spotify.com/track/6xyOZrXp6UGOFa30jewqIV) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Never the 1](https://open.spotify.com/album/5bOtmciyogNRJH1P1XXmGA) | 2:51 |
 | 179 | [It's a Sin \- Epic Trailer Version](https://open.spotify.com/track/3Fs0H802nQ28i3DixpIx8M) | [Hidden Citizens](https://open.spotify.com/artist/707cnVfI3ISM4j5uzfTc7J) | [It's a Sin \(Epic Trailer Version\)](https://open.spotify.com/album/4iiPn0xHhGqK5uww3V66HT) | 3:30 |
 | 180 | [Burn This City](https://open.spotify.com/track/7v5bJUZPItwpK2VPln9uWn) | [OMENS](https://open.spotify.com/artist/3eSnI3czh6aPOO49PvNsZ5) | [Saviours](https://open.spotify.com/album/6Ympmv3nJhvZGgaG9MsnPl) | 3:27 |

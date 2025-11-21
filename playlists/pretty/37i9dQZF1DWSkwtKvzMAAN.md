@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkwtKvzMAAN.md) - [plain]
 
 > Funky blips and blops
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,776 likes - 50 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,777 likes - 50 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkwtKvzMAAN.md) - [plain]
 | 37 | [Buffalo Gals](https://open.spotify.com/track/4gCo2r1gCEw70OAq9cF1uW) | [Malcolm McLaren](https://open.spotify.com/artist/4ihCM8I0fpWodgjo0mTlhZ) | [Duck Rock](https://open.spotify.com/album/6S4f7yDtJlS0iQMEuCtIF0) | 4:19 |
 | 38 | [When I Hear Music](https://open.spotify.com/track/6bFGodepI4y7w4AJBcCB1E) | [Debbie Deb](https://open.spotify.com/artist/2fpDcOSlkE5VVZdL6BEczL) | [She’s Back](https://open.spotify.com/album/76Qt48poTVoLKFQXt0LzNI) | 7:05 |
 | 39 | [Cutie Pie](https://open.spotify.com/track/3kim6v8wY7HLPaNmw99SxD) | [One Way](https://open.spotify.com/artist/001aJOc7CSQVo3XzoLG4DK) | [Cutie Pie](https://open.spotify.com/album/0mxxWnON99ABmmeQdqX8Ds) | 5:28 |
-| 40 | [Rockit](https://open.spotify.com/track/2nWHzbBWBOePUvAImQv2So) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Future Shock](https://open.spotify.com/album/108uNBYGawRo3aQiaA7lQY) | 5:25 |
+| 40 | [Rockit](https://open.spotify.com/track/2nWHzbBWBOePUvAImQv2So) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Future Shock](https://open.spotify.com/album/108uNBYGawRo3aQiaA7lQY) | 5:28 |
 | 41 | [Let The Music Play](https://open.spotify.com/track/4d8Bqtm7ODdQLFXxPSuK64) | [Shannon](https://open.spotify.com/artist/2O8QAJmRrwkFXq2aWZnHYB) | [The Best Is Yet To Come](https://open.spotify.com/album/4cj641XM0e3LcGSTWr2oEV) | 3:36 |
 | 42 | [Electricity](https://open.spotify.com/track/1pSI4VjT9OD0lk6wcrBUjI) | [Midnight Star](https://open.spotify.com/artist/0KMLfCXYb3Dhf1hLpu8cVd) | [Greatest Hits](https://open.spotify.com/album/4s7ceLc5ZtNLxPOiWOFXay) | 6:59 |
 | 43 | [Body Work](https://open.spotify.com/track/5gcLUfLPnfi8GMkRSrM2gO) | [Hot Streak](https://open.spotify.com/artist/4xzzrt8hBV9crpgXcLKXyd) | [Breakin' \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/26t5mXFJxvVphBv2iRZwcX) | 4:25 |

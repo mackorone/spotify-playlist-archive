@@ -2,7 +2,7 @@
 
 ### [Top of the Rock](https://open.spotify.com/playlist/37i9dQZF1DWWSuZL7uNdVA)
 
-> Aerosmith & YUNGBLUD au top des meilleurs morceaux rock du moment.
+> Twenty One Pilots au top des meilleurs morceaux rock du moment.
 
 439 songs - 1 day 1 hr 6 min
 

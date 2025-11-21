@@ -4,7 +4,7 @@
 
 > The best new music from independent faith\-based artists every Wednesday! Cover: honeybee
 
-946 songs - 2 day 4 hr 59 min
+947 songs - 2 day 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -678,6 +678,7 @@
 | [Relicario](https://open.spotify.com/track/42na5GNNjAf5h4YfqMhrkB) | [Dariana](https://open.spotify.com/artist/1YFjpz13AtgmLfEo3CX8wv) | [Relicario](https://open.spotify.com/album/6yiJI1RR01R6siTHfB8Zkf) | 3:04 | 2025-02-12 | 2025-04-10 |
 | [Renaissance](https://open.spotify.com/track/00nzVLa3NSfzJjkJVFFZCV) | [Van Buren](https://open.spotify.com/artist/3Yu0KVIiHkzduNTv4V8QNl) | [Renaissance](https://open.spotify.com/album/7gBBkJ8f63FCYzPMLJDeOU) | 2:48 | 2025-06-25 | 2025-07-10 |
 | [Renew My Life \(He\)](https://open.spotify.com/track/3fKGMCqOdIBh0Tpj47nitd) | [Stillcreek](https://open.spotify.com/artist/11gEoW9B8Wb6GjflubNjOW), [Aaron Williams](https://open.spotify.com/artist/4HRAisqWU6muzcJTkGMquz) | [Renew My Life \(He\)](https://open.spotify.com/album/7nH5hYuaI3D0qTadXR68kR) | 3:39 | 2024-09-26 | 2025-01-16 |
+| [Rescue](https://open.spotify.com/track/6qj23ytqYEl3U8N7vnvHQS) | [Nevada](https://open.spotify.com/artist/15NtJjjHRFybdNSMyM9smT) | [Rescue](https://open.spotify.com/album/6YIZ91Vdj3boGPBLo0DtUI) | 3:07 | 2025-11-19 |  |
 | [resolve\~](https://open.spotify.com/track/7BMymBTTpyv5eUdEo8ZB4r) | [Armand Mukenge](https://open.spotify.com/artist/03FQiZQOAx6vSqB5HflG9i) | [resolve\~](https://open.spotify.com/album/49aeURRkNoDukqUGy68vLo) | 2:39 | 2025-04-30 | 2025-06-05 |
 | [Rest](https://open.spotify.com/track/3VSfHpmFC7AiikDRkOpZd2) | [Jackie Legere](https://open.spotify.com/artist/10SWKFfcdzGtbmABepnobA) | [Rest](https://open.spotify.com/album/6WiNVHCXLRRRC9EPlmIWkd) | 3:03 | 2025-04-18 | 2025-05-15 |
 | [Rest](https://open.spotify.com/track/2oiw93XU49iczloCpeQ1Y0) | [Stevie Rizo](https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL) | [Rest](https://open.spotify.com/album/1AELlyw5UdBc8loA1KzMxh) | 1:35 | 2025-05-14 | 2025-09-18 |
