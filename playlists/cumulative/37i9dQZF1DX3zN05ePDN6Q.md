@@ -2,9 +2,9 @@
 
 ### [Boom Rap](https://open.spotify.com/playlist/37i9dQZF1DX3zN05ePDN6Q)
 
-> boom bap renasce todo dia\. Foto: Matheus Coringa
+> boom bap renasce todo dia\. Foto: Felp 22
 
-730 songs - 1 day 13 hr 57 min
+731 songs - 1 day 14 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [12 6 10](https://open.spotify.com/track/2iQMtShAfzwFouW1rJtSqK) | [Parteum](https://open.spotify.com/artist/047rJvBYv0egT5SolmU7m4) | [12 6 10](https://open.spotify.com/album/5YY7VbZNjSinKfLq75yicy) | 3:36 | 2024-01-01 | 2024-08-17 |
 | [121](https://open.spotify.com/track/3cNgdCPJXPeFHmdsdM1PGe) | [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS), [Ribb](https://open.spotify.com/artist/0QDtEwBuAbylERTOT4PntE) | [121](https://open.spotify.com/album/7jVhJ7QWMikLJUdRVqYf2A) | 1:42 | 2024-03-15 | 2025-02-22 |
 | [1991](https://open.spotify.com/track/2eSghUl6cJPDf4HjzDRsar) | [Diego Chorão](https://open.spotify.com/artist/53BXHON3LcNZ2Bow35hz8L), [WaraBeats](https://open.spotify.com/artist/2MYzGKXSphHn7Z2G6dRbBd), [DOGG](https://open.spotify.com/artist/760X827WdjnQsvRZVwxW1Z), [Doloko](https://open.spotify.com/artist/31vsPT42lADuiWAjtDuO4j) | [1991](https://open.spotify.com/album/48hRv6kV9kmYzQNG1ocFH8) | 2:34 | 2022-08-05 | 2022-08-27 |
+| [20 Milhão](https://open.spotify.com/track/2B7tgPrueKpf4QQOfJrVB2) | [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [Castelobeats](https://open.spotify.com/artist/3no8LdgnzjumzHIyoZGWEC) | [20 Milhão](https://open.spotify.com/album/1beIqslziW8udQtZ79O1oa) | 2:53 | 2025-11-21 |  |
 | [2019](https://open.spotify.com/track/5zvjKt5dB21xlJ5W3DNeNy) | [Maique Maia](https://open.spotify.com/artist/0iMMghGD3ll45eVAedXQi9) | [2019](https://open.spotify.com/album/65N2D5qcCWureHcJvrskRE) | 2:33 | 2022-04-22 | 2022-06-25 |
 | [20K](https://open.spotify.com/track/1FssfGTUp2sNcIBwy6DeHH) | [Jotapê](https://open.spotify.com/artist/6SZQlj3zcSmJk5uBaMiwGM), [Teo Guedx](https://open.spotify.com/artist/5kKjWmIo4xMLjoMUcogE7M), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [20K](https://open.spotify.com/album/5wdL7uKMRxG9OAheHyfIhA) | 3:15 | 2022-06-10 | 2022-08-06 |
 | [20km](https://open.spotify.com/track/3FTJG0l80KnRSeLaOLZOZY) | [Kamikaze do Gueto](https://open.spotify.com/artist/6LrrNReBCYQyeo3LMq1JBo), [Makarraum](https://open.spotify.com/artist/1J8A6wzCWSmdYBZo71tIkj), [Pêpa Beatmaker](https://open.spotify.com/artist/0dfJo6kHqLEd8YYukoD5MD) | [20km](https://open.spotify.com/album/2d8BqYe9s7EEY25s0X4mCN) | 3:36 | 2022-09-09 | 2022-09-24 |

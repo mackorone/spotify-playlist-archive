@@ -4,7 +4,7 @@
 
 > African Praise music taking you all the way up!
 
-752 songs - 2 day 1 hr 30 min
+753 songs - 2 day 1 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [Ese Oluwa / Papa](https://open.spotify.com/track/2Y8y0Za20GYoclNgWwzsPg) | [Sonnie Badu](https://open.spotify.com/artist/52tpqX8Cxa7eiWUgHHSWBo) | [Colours of Africa: Live in London](https://open.spotify.com/album/4UIwyWDtiJ6l9Cgvcdp3Jd) | 6:48 | 2023-04-06 | 2025-10-03 |
 | [Eternal](https://open.spotify.com/track/1pFFPEQN4EzdcbeMpF8P45) | [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Eternal](https://open.spotify.com/album/64yotkQgRqiboT1Sc9uRUQ) | 3:45 | 2025-05-23 | 2025-06-27 |
 | [Everlasting King](https://open.spotify.com/track/1bASwAjcGQEm7IEEJZXTlW) | [Kemelord](https://open.spotify.com/artist/18VyX3SmGTTAxfk5CeluSP) | [Everlasting King](https://open.spotify.com/album/6C7VHTRmoznhJbOWkxUhIZ) | 9:19 | 2025-08-22 |  |
+| [Every Tongue](https://open.spotify.com/track/63wTKmeUpjQjgyngt06D1l) | [Dr\. Prinz](https://open.spotify.com/artist/2vfO5rYj2XlUvUchSO1GOq) | [Every Tongue](https://open.spotify.com/album/2JlAnHf2ioMDL3dKSv6tsO) | 2:50 | 2025-11-21 |  |
 | [Everyday](https://open.spotify.com/track/2IyLPEJDhUiZA4rq9JS4MT) | [Dr Roy](https://open.spotify.com/artist/3qbsAfTm5D4X18LtG11RdL), [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T) | [Everyday](https://open.spotify.com/album/79hHuR77jAO4mBAfm51KaE) | 3:31 | 2025-07-18 | 2025-08-22 |
 | [Everyday](https://open.spotify.com/track/1t3XeFBLr8zbx3rArQobfi) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Everyday](https://open.spotify.com/album/3IxSBGvSLluNNMDyf2UOP3) | 3:20 | 2025-06-27 | 2025-09-05 |
 | [Everywhere I Go](https://open.spotify.com/track/1ly69ZUc0uXC6DAtadqePO) | [Angeloh](https://open.spotify.com/artist/16b0fWgIHXMM87ZaHe4ERg), [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta), [Oneskript](https://open.spotify.com/artist/5KDGw9OX1CI7VirkAANWlE) | [Everywhere I Go](https://open.spotify.com/album/4dpoTKvQm7MCbTvfYkN26z) | 2:29 | 2025-10-03 | 2025-10-17 |

@@ -2,7 +2,7 @@
 
 ### [Freakier Friday Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX4URHBvyj3VW)
 
-> The switch is back! Listen to your favorite music from the original Freaky Friday and the brand\-new Freakier Friday, in theaters now!
+> The switch is back! Listen to your favorite music from the original Freaky Friday and the brand\-new Freakier Friday, now streaming on Disney+!
 
 40 songs - 2 hr 8 min
 

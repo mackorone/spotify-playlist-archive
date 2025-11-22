@@ -84,7 +84,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 351192,
       "name": "Adonai - En Vivo",
       "url": "https://open.spotify.com/track/0Dd7gc3pVumkdrC6oUA7WP"
@@ -692,7 +692,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-23",
+      "date_removed": null,
       "duration_ms": 242053,
       "name": "Dios De Avivamiento",
       "url": "https://open.spotify.com/track/2oK5Vp8bA0vaRJhQmhdC7B"
@@ -832,10 +832,28 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 475893,
       "name": "Encontr\u00e9",
       "url": "https://open.spotify.com/track/7sJso6WxzD0AUgyzm9SdGW"
+    },
+    {
+      "album": {
+        "name": "Tu Reino Est\u00e1 Aqu\u00ed (En Vivo)",
+        "url": "https://open.spotify.com/album/4HCRXhbFIH2jaY45Yf9Lfk"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "date_added": "2025-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 475872,
+      "name": "Encontr\u00e9 - En Vivo",
+      "url": "https://open.spotify.com/track/0ljoTJgoWAdgOIXtKoJcny"
     },
     {
       "album": {
@@ -2074,10 +2092,40 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 472813,
       "name": "Somos Tu Iglesia",
       "url": "https://open.spotify.com/track/3SEOCoySutuNM3ErXmPTnP"
+    },
+    {
+      "album": {
+        "name": "Sana Nuestra Naci\u00f3n",
+        "url": "https://open.spotify.com/album/21FcQ9b3whbOUi5m7opU4p"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Daniel Jr.",
+          "url": "https://open.spotify.com/artist/6RgPTfxsFtycQgzm9rLOU5"
+        },
+        {
+          "name": "Lorena Gamba Castellanos",
+          "url": "https://open.spotify.com/artist/2BbfuuUGnzw9r4BFTN7iT6"
+        },
+        {
+          "name": "Julian Gamba",
+          "url": "https://open.spotify.com/artist/10a3kp2IK6PTgCAYH6BuSh"
+        }
+      ],
+      "date_added": "2025-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 472800,
+      "name": "Somos Tu Iglesia - En Vivo",
+      "url": "https://open.spotify.com/track/4Zt6DdmiRE5JNIxrx4cQq5"
     },
     {
       "album": {
@@ -2368,6 +2416,24 @@
       "duration_ms": 366878,
       "name": "Una Nueva Historia",
       "url": "https://open.spotify.com/track/6sxc2kDoRsWDRUeyGKmoTg"
+    },
+    {
+      "album": {
+        "name": "Tu Nos Salvar\u00e1s (En Vivo)",
+        "url": "https://open.spotify.com/album/3ozR24cLOUrH4snwEt2mbN"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "date_added": "2025-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363206,
+      "name": "Una Nueva Historia - En Vivo",
+      "url": "https://open.spotify.com/track/50XcGSPZ78F7XSxT76WOMH"
     },
     {
       "album": {

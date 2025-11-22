@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora de tu orgullo. Foto:  Ru\u00efnosa y las Strippers de Rahola.",
-  "num_followers": 21161,
+  "num_followers": 21158,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -315,8 +315,8 @@
     {
       "added_at": "2025-11-04 23:01:17",
       "album": {
-        "name": "\u00e9chame la culpa <3",
-        "url": "https://open.spotify.com/album/39gNoRM5WwxKHN0ARWHL0h"
+        "name": "se sube la falda",
+        "url": "https://open.spotify.com/album/39yWpCeMmpeaU59KetH1BN"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y"
         }
       ],
-      "duration_ms": 179138,
-      "name": "\u00e9chame la culpa <3",
-      "url": "https://open.spotify.com/track/1gP1B96HTPu2tl6DOORxHw"
+      "duration_ms": 154136,
+      "name": "se sube la falda",
+      "url": "https://open.spotify.com/track/4e9CBjJ4QlXdi37JmSdBC7"
     },
     {
       "added_at": "2025-11-04 23:01:17",
@@ -395,8 +395,8 @@
     {
       "added_at": "2025-11-04 23:01:17",
       "album": {
-        "name": "se sube la falda",
-        "url": "https://open.spotify.com/album/39yWpCeMmpeaU59KetH1BN"
+        "name": "\u00e9chame la culpa <3",
+        "url": "https://open.spotify.com/album/39gNoRM5WwxKHN0ARWHL0h"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y"
         }
       ],
-      "duration_ms": 154136,
-      "name": "se sube la falda",
-      "url": "https://open.spotify.com/track/4e9CBjJ4QlXdi37JmSdBC7"
+      "duration_ms": 179138,
+      "name": "\u00e9chame la culpa <3",
+      "url": "https://open.spotify.com/track/1gP1B96HTPu2tl6DOORxHw"
     },
     {
       "added_at": "2025-11-04 23:01:17",
@@ -663,26 +663,6 @@
     {
       "added_at": "2025-11-04 23:01:17",
       "album": {
-        "name": "P\u00e9gate",
-        "url": "https://open.spotify.com/album/0i9xKltQWUdgwphffTgEqC"
-      },
-      "artists": [
-        {
-          "name": "JEDET",
-          "url": "https://open.spotify.com/artist/47sfJLBodmgIFXtpY3fork"
-        },
-        {
-          "name": "Xema Fuentes",
-          "url": "https://open.spotify.com/artist/4inFKjNfPOKToQ9T5pjYf9"
-        }
-      ],
-      "duration_ms": 146189,
-      "name": "P\u00e9gate",
-      "url": "https://open.spotify.com/track/3y1vPgwHA2R20efomVmD9F"
-    },
-    {
-      "added_at": "2025-11-04 23:01:17",
-      "album": {
         "name": "Manual de Romer\u00eda",
         "url": "https://open.spotify.com/album/74g36yb3N2FdsGIoUf4CH0"
       },
@@ -699,18 +679,22 @@
     {
       "added_at": "2025-11-04 23:01:17",
       "album": {
-        "name": "Dame 10:36 Minutos",
-        "url": "https://open.spotify.com/album/66LtYztZIgTOn5XQ9h54HO"
+        "name": "P\u00e9gate",
+        "url": "https://open.spotify.com/album/0i9xKltQWUdgwphffTgEqC"
       },
       "artists": [
         {
-          "name": "Ginebras",
-          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
+          "name": "JEDET",
+          "url": "https://open.spotify.com/artist/47sfJLBodmgIFXtpY3fork"
+        },
+        {
+          "name": "Xema Fuentes",
+          "url": "https://open.spotify.com/artist/4inFKjNfPOKToQ9T5pjYf9"
         }
       ],
-      "duration_ms": 131376,
-      "name": "Con Altura",
-      "url": "https://open.spotify.com/track/4Hz4ZddemX2Ij985XRxC2q"
+      "duration_ms": 146189,
+      "name": "P\u00e9gate",
+      "url": "https://open.spotify.com/track/3y1vPgwHA2R20efomVmD9F"
     },
     {
       "added_at": "2025-11-04 23:01:17",
@@ -747,6 +731,22 @@
       "duration_ms": 202781,
       "name": "Asereg\u00e9",
       "url": "https://open.spotify.com/track/04f2tTJjVwknNobTRPm4iT"
+    },
+    {
+      "added_at": "2025-11-04 23:01:17",
+      "album": {
+        "name": "Dame 10:36 Minutos",
+        "url": "https://open.spotify.com/album/66LtYztZIgTOn5XQ9h54HO"
+      },
+      "artists": [
+        {
+          "name": "Ginebras",
+          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
+        }
+      ],
+      "duration_ms": 131376,
+      "name": "Con Altura",
+      "url": "https://open.spotify.com/track/4Hz4ZddemX2Ij985XRxC2q"
     },
     {
       "added_at": "2025-11-04 23:01:17",
@@ -799,22 +799,6 @@
     {
       "added_at": "2025-11-04 23:01:17",
       "album": {
-        "name": "Se te est\u00e1 olvidando",
-        "url": "https://open.spotify.com/album/5J0wgA4qqbWqdS3Id84GPD"
-      },
-      "artists": [
-        {
-          "name": "SAZZA",
-          "url": "https://open.spotify.com/artist/3vkv2mfJalVqonHHe5yLEe"
-        }
-      ],
-      "duration_ms": 167856,
-      "name": "Se te est\u00e1 olvidando",
-      "url": "https://open.spotify.com/track/4NEBRtcCzUGsLaCCPH3zf3"
-    },
-    {
-      "added_at": "2025-11-04 23:01:17",
-      "album": {
         "name": "Cuando acabe el verano",
         "url": "https://open.spotify.com/album/2Y5z8prM08SNZYm8rqhHSW"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 167928,
       "name": "Cuando acabe el verano",
       "url": "https://open.spotify.com/track/6y4MFrp5vwd4uJAI9e3UQ7"
+    },
+    {
+      "added_at": "2025-11-04 23:01:17",
+      "album": {
+        "name": "Se te est\u00e1 olvidando",
+        "url": "https://open.spotify.com/album/5J0wgA4qqbWqdS3Id84GPD"
+      },
+      "artists": [
+        {
+          "name": "SAZZA",
+          "url": "https://open.spotify.com/artist/3vkv2mfJalVqonHHe5yLEe"
+        }
+      ],
+      "duration_ms": 167856,
+      "name": "Se te est\u00e1 olvidando",
+      "url": "https://open.spotify.com/track/4NEBRtcCzUGsLaCCPH3zf3"
     },
     {
       "added_at": "2025-11-04 23:01:17",

@@ -4,7 +4,7 @@
 
 > Soft and warm Christmas songs from recent years\. Cover: Laufey
 
-242 songs - 13 hr 9 min
+244 songs - 13 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [By Christmas Eve](https://open.spotify.com/track/5e0vyaiZ6Dng4MXkOEUDwC) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [A Legendary Christmas](https://open.spotify.com/album/4rvtCloap7CfNl2Ogl8B87) | 3:52 | 2021-12-12 | 2024-04-19 |
 | [Catching A Snowflake](https://open.spotify.com/track/24BJ8F1Cd7JWIrbR7yYP89) | [Rosie Darling](https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI) | [Catching A Snowflake](https://open.spotify.com/album/4tJCOvQp5PCBEwydY5Ri9y) | 3:16 | 2025-11-07 |  |
 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/0u8JsIsptzcuseeAfvIV84) | [Ria Mae](https://open.spotify.com/artist/3QvuHlyW42Ei3AyGOO4AMT) | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/album/222k5mkVlexJMExS783ddl) | 2:38 | 2021-12-12 | 2023-11-16 |
+| [Christmas Ain't Christmas](https://open.spotify.com/track/5Gjvb3iVQhkMBKjMEWYszI) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [Christmas Ain't Christmas](https://open.spotify.com/album/2LvZYFeikO05rQ8xBHHl9k) | 3:08 | 2025-11-21 |  |
 | [Christmas Blues](https://open.spotify.com/track/6PZaNvcth74ko7Ld0vB8Gm) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Christmas Blues](https://open.spotify.com/album/1wYxighrXciRyM6KjF5Gv2) | 3:25 | 2021-12-12 | 2022-11-11 |
 | [Christmas Calling \(Jolly Jones\)](https://open.spotify.com/track/43hPyoE1vsz3VnvBDupq5B) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [I Dream Of Christmas \(Deluxe\)](https://open.spotify.com/album/1QGL60gbmLX8f4mWFP0xBw) | 3:20 | 2022-11-10 |  |
 | [christmas day](https://open.spotify.com/track/3bwzW1wwkCr9EEefaKHEVL) | [Lexie Carroll](https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0) | [christmas day](https://open.spotify.com/album/4PrwbE53q78EQlVEiYoo9K) | 2:41 | 2022-12-02 |  |
@@ -137,7 +138,7 @@
 | [It's Christmas Time](https://open.spotify.com/track/64cfCAmXSuusxwmHknLzYp) | [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349) | [It's Christmas Time](https://open.spotify.com/album/0VLiXivVPVfEcjP82FJvrx) | 3:26 | 2021-12-12 |  |
 | [It's Christmas Time](https://open.spotify.com/track/75Vdr7hLo14DAapfLIdN77) | [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349) | [It's Christmas Time](https://open.spotify.com/album/1mHAKhl7uG6rOYC5v1nNXV) | 3:26 | 2021-12-12 | 2024-04-19 |
 | [It's Christmas Time \(with Michael Bolton\)](https://open.spotify.com/track/0NLV6yzZjNYIGkWcEH7qhN) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [It's Christmas Time \(with Michael Bolton\)](https://open.spotify.com/album/6TyBrpxi8Bq36ahEpytZ7C) | 3:23 | 2021-12-12 | 2022-11-11 |
-| [It's Not Christmas](https://open.spotify.com/track/1WsG32qO3bVxXjcM3hu0iT) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [It's Not Christmas](https://open.spotify.com/album/0LBp8zWibJzzRXJfwQobTV) | 3:19 | 2023-11-06 |  |
+| [It's Not Christmas](https://open.spotify.com/track/1WsG32qO3bVxXjcM3hu0iT) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [It's Not Christmas](https://open.spotify.com/album/0LBp8zWibJzzRXJfwQobTV) | 3:19 | 2023-11-06 | 2025-11-22 |
 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/1C85AHCMc9BjX5SWeUEsHo) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [A Classic Christmas](https://open.spotify.com/album/5zPiyi6NAqHkuETPjhBHW1) | 2:33 | 2023-11-15 |  |
 | [I’ll Be Home For Christmas](https://open.spotify.com/track/3gkDQzMSAsVcxGTCvTcl4B) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [I’ll Be Home For Christmas](https://open.spotify.com/album/5q9IE9PlEsjq3jMxDLOfYp) | 2:45 | 2021-12-12 |  |
 | [Just For Christmas](https://open.spotify.com/track/7IUlxfabTQQpp0VsRIU8sa) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Just For Christmas](https://open.spotify.com/album/2YdhWedROvAPrpXCtcu9hR) | 3:11 | 2024-11-04 |  |
@@ -231,6 +232,7 @@
 | [two christmases](https://open.spotify.com/track/4VwgQEJtPLh91KOSudzCtS) | [nobody likes you pat](https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I) | [two christmases](https://open.spotify.com/album/364lYUcGHWq5Mk2h5NMHSM) | 2:22 | 2022-11-10 | 2024-11-26 |
 | [two queens in a king sized bed](https://open.spotify.com/track/1pUyZuge2qoSG1nzDxftQJ) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [two queens in a king sized bed](https://open.spotify.com/album/38v3Ga4U869AXC0BKIzuXG) | 3:10 | 2021-12-12 |  |
 | [two queens in a king sized bed](https://open.spotify.com/track/2dP8R44P2Lo3hdyevbYFfy) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [two queens in a king sized bed](https://open.spotify.com/album/6CHnC6lp4ZR9F8iKECQOII) | 3:10 | 2021-12-12 | 2024-04-19 |
+| [Under the Christmas Moonlight](https://open.spotify.com/track/6l7U0g3QVVmLYI27mnhfjB) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Christmas In Tahoe \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/15miSp8pamtTpk4MYACBXP) | 3:46 | 2025-11-21 |  |
 | [Under The Mistletoe](https://open.spotify.com/track/2xnnh8PDwQ6aBGIb0cjA0M) | [Valerie Broussard](https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c) | [Under The Mistletoe](https://open.spotify.com/album/0QxscyV7aQehN5JEJKc5US) | 3:26 | 2025-11-17 |  |
 | [Under the Mistletoe \(with Kendra Jae\)](https://open.spotify.com/track/6sMaVcsbSyWZWK0wFBzRRH) | [AUGUST 08](https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi), [Kendra Jae](https://open.spotify.com/artist/1KcnqRVBBJ2FUZMQUn3k5P) | [Def The Halls](https://open.spotify.com/album/0wV5Edyo92gZMKvEPpxUAc) | 2:51 | 2022-11-29 |  |
 | [Under the Tree \(from “That Christmas”\)](https://open.spotify.com/track/3emyfamOMxgrus8oZQh6Mx) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Under the Tree \(from “That Christmas”\)](https://open.spotify.com/album/3HcgqKuPvj9ZpqLCny0GWg) | 4:02 | 2024-12-06 |  |
@@ -244,7 +246,7 @@
 | [Winter Song](https://open.spotify.com/track/0DE6CIExD51bL5qroihU1W) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Winter Songs](https://open.spotify.com/album/1RaBcI5wubfKYg4CFqtOyp) | 4:21 | 2021-12-12 | 2024-04-19 |
 | [Winter Song](https://open.spotify.com/track/4w25Oe4FGmHoT8PtPMACow) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Winter Songs](https://open.spotify.com/album/71FSyboE4QVkjrILNCus2m) | 4:21 | 2021-12-12 |  |
 | [Winter Things](https://open.spotify.com/track/1jhljxXlHw8K9rezXKrnow) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas & Chill](https://open.spotify.com/album/6yi7FjzeCHGVJJAdWRYAmk) | 2:38 | 2021-12-12 |  |
-| [Winter Wonderland](https://open.spotify.com/track/0bfM3OhwHsqIJqF6m04En3) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [A Very Trainor Christmas](https://open.spotify.com/album/2Mb2HvX9H2J98qOvZGdsFf) | 2:18 | 2021-12-12 |  |
+| [Winter Wonderland](https://open.spotify.com/track/0bfM3OhwHsqIJqF6m04En3) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [A Very Trainor Christmas](https://open.spotify.com/album/2Mb2HvX9H2J98qOvZGdsFf) | 2:18 | 2021-12-12 | 2025-11-22 |
 | [Winter Wonderland \- Spotify Singles Holiday](https://open.spotify.com/track/1LmkdWSxjCV7wKTPsCvYWN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Spotify Singles Holiday](https://open.spotify.com/album/1Ph9nV8cNv7Gq7yHOlmbgh) | 2:12 | 2023-11-15 |  |
 | [Wishes Come True](https://open.spotify.com/track/3VpY2SUf41sVpVYwLO4uyg) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Wishes Come True](https://open.spotify.com/album/0HXTNQ39atgxPSPSPmB8nP) | 2:44 | 2021-12-12 |  |
 | [wishlist](https://open.spotify.com/track/48YdNMIfxIjEWj5P3zoYM1) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [wishlist](https://open.spotify.com/album/4v30MajYD1fpYT0klAt4px) | 3:23 | 2021-12-12 | 2022-10-14 |

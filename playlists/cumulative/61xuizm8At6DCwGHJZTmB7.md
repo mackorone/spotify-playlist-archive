@@ -4,7 +4,7 @@
 
 > Top Christian Worship 2025 \| Happy Easter 2025! Praise and Worship with today's top Worship tracks\. From Bible study to Sunday Morning Worship\. Featuring artist's like Chris Tomlin, Kari Jobe, Cody Carnes and Benjamin William Hastings! Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>
 
-666 songs - 2 day 16 hr 26 min
+667 songs - 2 day 16 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [All I Want / Fill Me Up \- Live](https://open.spotify.com/track/2uBdNb6lMK2TSgK8TwGuYD) | [Legacy Nashville](https://open.spotify.com/artist/0z4zqQUZicpUdBmnLRvFje), [Michael Bethany](https://open.spotify.com/artist/6leYBoSGoXZllPhCTjKtQe), [Brian Nhira](https://open.spotify.com/artist/7D9JzM95gIe11f6L3h1w1L) | [All I Want \(Live\)](https://open.spotify.com/album/5n8HFVlcjKkB1BkYbhHnJ2) | 11:00 | 2024-07-12 | 2025-03-21 |
 | [All My Hope](https://open.spotify.com/track/6FPLwwpWitg3Tvuy8FGHKT) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu), [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [All My Hope](https://open.spotify.com/album/2Sa4xXwFFbQM02rxdK9vQe) | 3:52 | 2022-04-05 | 2023-12-14 |
 | [All My Life \- Live](https://open.spotify.com/track/0tcmwOE7PVCazVolFTDHcj) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [All My Life \(Supreme Edition\)](https://open.spotify.com/album/6fcIbyws49izIdyYFCDRPx) | 5:23 | 2025-02-21 | 2025-03-21 |
+| [All Sufficient Merit](https://open.spotify.com/track/7ymNiYT5jVlWLVZdiAwfm5) | [Bryan Fowler](https://open.spotify.com/artist/73tMHfGoCsakZYN5lMUWSc), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [All Sufficient Merit](https://open.spotify.com/album/1c1fIOyptf5UcKp15fHbAV) | 6:00 | 2025-11-21 |  |
 | [All That Remains](https://open.spotify.com/track/4qMalQqJpfFQOd9aEYYAea) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [All That Remains](https://open.spotify.com/album/7gPki4Zq97kfLngBBGuzzO) | 5:08 | 2022-02-17 | 2022-06-10 |
 | [All Things New](https://open.spotify.com/track/3RDsOd9SKVy3TiwQ8Y0xzI) | [Community Music](https://open.spotify.com/artist/3JCosyk2TCRwvbOpSLzR5R) | [All Things New](https://open.spotify.com/album/2x5OoUZs9OaT6aKxQMAFNQ) | 4:00 | 2024-10-04 | 2025-03-21 |
 | [All Yours \- Live At The Grove](https://open.spotify.com/track/29X2uDbELTCtDNHVPORiDq) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Melody Noel](https://open.spotify.com/artist/6NA5WdQi9RbQe2woDzs5yi), [Matt Gilman](https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P), [Larry James Walker II](https://open.spotify.com/artist/40mCMtbBpXpBwDQvigLKwN), [Whitney Medina](https://open.spotify.com/artist/2aEALllrzX6yHYGQkQ3jgZ) | [Long Live The King \(Live At The Grove\)](https://open.spotify.com/album/0gAnoymSmz8fqLnNqjKzFW) | 4:27 | 2023-07-14 | 2025-03-21 |

@@ -317,6 +317,28 @@
     },
     {
       "album": {
+        "name": "A Firma Segue Lucrando",
+        "url": "https://open.spotify.com/album/3pjPowvYPuiLn08hNRWwpw"
+      },
+      "artists": [
+        {
+          "name": "MC Meno K",
+          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
+        },
+        {
+          "name": "Fepache",
+          "url": "https://open.spotify.com/artist/5dLqjc2m428QbostsKrUYW"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "A Firma Segue Lucrando",
+      "url": "https://open.spotify.com/track/2KINhc9Jf5Z6IxdJ3xM07Z"
+    },
+    {
+      "album": {
         "name": "A Internet \u00c9 Toxica",
         "url": "https://open.spotify.com/album/3PZQ1JYIh7M5QuyoK6rLYM"
       },
@@ -2588,7 +2610,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 112907,
       "name": "Deixa Eu Mandar Meu Passinho",
       "url": "https://open.spotify.com/track/1uYHfa5rjM1oUpKgst7U8F"
@@ -3018,6 +3040,44 @@
       "duration_ms": 703157,
       "name": "Diz A\u00ed Qual \u00e9 o Plano?",
       "url": "https://open.spotify.com/track/5tsKgj1Xbk5bL7t3QiPWOR"
+    },
+    {
+      "album": {
+        "name": "Di\u00e1rio de um Cafajeste",
+        "url": "https://open.spotify.com/album/3KcnMYtFSEkkHfNsy6KwuA"
+      },
+      "artists": [
+        {
+          "name": "DJ Oreia",
+          "url": "https://open.spotify.com/artist/1b8S7EPzdckRyIh0uSbOMI"
+        },
+        {
+          "name": "Mc Lele JP",
+          "url": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY"
+        },
+        {
+          "name": "MC Meno K",
+          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "MC Tuto",
+          "url": "https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z"
+        },
+        {
+          "name": "Mc Neg\u00e3o Original",
+          "url": "https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357120,
+      "name": "Di\u00e1rio de um Cafajeste",
+      "url": "https://open.spotify.com/track/6kaWah1Acn1dtNjAy6sm1p"
     },
     {
       "album": {
@@ -4601,6 +4661,32 @@
     },
     {
       "album": {
+        "name": "Hoje Eu Contei 100K No 7",
+        "url": "https://open.spotify.com/album/6OyBbAZ3U2ts9eyfguk8xc"
+      },
+      "artists": [
+        {
+          "name": "DJ Japa NK",
+          "url": "https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6"
+        },
+        {
+          "name": "Zago",
+          "url": "https://open.spotify.com/artist/6MX5QgkKRcQqFTuaC3m8RJ"
+        },
+        {
+          "name": "Mc Lele JP",
+          "url": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142177,
+      "name": "Hoje Eu Contei 100K No 7",
+      "url": "https://open.spotify.com/track/4wS0KiOv6bmz1f6BkTVOOA"
+    },
+    {
+      "album": {
         "name": "Hoje o Dia T\u00e1 Bonito",
         "url": "https://open.spotify.com/album/4yhFvEgprV0ERYI7KYBDL8"
       },
@@ -6068,10 +6154,66 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 103727,
       "name": "MONTAGEM BAIL\u00c3O",
       "url": "https://open.spotify.com/track/1RnPdd7EKKhKN3E4o4DRsh"
+    },
+    {
+      "album": {
+        "name": "MONTAGEM CAMERA LENTA",
+        "url": "https://open.spotify.com/album/2pdoRydehXDDEYzC6e1uSK"
+      },
+      "artists": [
+        {
+          "name": "DJ DUARTE",
+          "url": "https://open.spotify.com/artist/76JV5kzmRyAtP4cmMgjMZi"
+        },
+        {
+          "name": "DJ ORBITAL",
+          "url": "https://open.spotify.com/artist/01XS19DjUcPe5dfYEkXjsg"
+        },
+        {
+          "name": "Dj Rs",
+          "url": "https://open.spotify.com/artist/3t0ufVf4b2wFeCG1SVNNWY"
+        },
+        {
+          "name": "Error Records",
+          "url": "https://open.spotify.com/artist/6rZ3QDiOS7SIF82jMrkzq9"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169850,
+      "name": "MONTAGEM CAMERA LENTA",
+      "url": "https://open.spotify.com/track/6YAK1Sle1Wl7jOurqwWCfh"
+    },
+    {
+      "album": {
+        "name": "Montagem Sarra Sarra",
+        "url": "https://open.spotify.com/album/0aAOqzBmzZxLQm7Kc8nhui"
+      },
+      "artists": [
+        {
+          "name": "Mc RN Original",
+          "url": "https://open.spotify.com/artist/2uTF1m8tP37muytAgD4YAh"
+        },
+        {
+          "name": "MC BN",
+          "url": "https://open.spotify.com/artist/1JYiyu6QtmtwjdFz3TEFTe"
+        },
+        {
+          "name": "DJ YUZAK",
+          "url": "https://open.spotify.com/artist/651jNHJzsX4ckQvURNNAIS"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107855,
+      "name": "Montagem Sarra Sarra",
+      "url": "https://open.spotify.com/track/5YG4rxeltvw2KmOy0dW4z9"
     },
     {
       "album": {
@@ -7326,7 +7468,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 125538,
       "name": "Pega Essa Chapada",
       "url": "https://open.spotify.com/track/2mjdqwAM1FtqEjjJbSh1qJ"
@@ -8304,7 +8446,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 107076,
       "name": "Rabet\u00e3o De Terremoto",
       "url": "https://open.spotify.com/track/4swtnATsndB7VJVq0n4EQE"
@@ -8686,7 +8828,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 125538,
       "name": "Se Tu Obedece",
       "url": "https://open.spotify.com/track/0HeGIMeKcT4qldgVvJaVU9"
@@ -10390,7 +10532,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 459692,
       "name": "Ta Rico Os Menino Do Gueto \ud83c\udf40",
       "url": "https://open.spotify.com/track/0WFA9Klvxj0rFc9YFe7Zgv"
@@ -10692,6 +10834,28 @@
       "duration_ms": 201230,
       "name": "Tipo Nino Vs Kabrinha",
       "url": "https://open.spotify.com/track/1jxQFCC0ukN7AaUwXWK0N8"
+    },
+    {
+      "album": {
+        "name": "Toma Gostosona",
+        "url": "https://open.spotify.com/album/28zfaQrASPCHeLDkPIYQg8"
+      },
+      "artists": [
+        {
+          "name": "Mc Lele JP",
+          "url": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY"
+        },
+        {
+          "name": "DJ Guh Mix",
+          "url": "https://open.spotify.com/artist/3zG4hHVlA4xIX5jwvOa2KD"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156923,
+      "name": "Toma Gostosona",
+      "url": "https://open.spotify.com/track/7G8V8LiyyqwzSlsQLiaitN"
     },
     {
       "album": {

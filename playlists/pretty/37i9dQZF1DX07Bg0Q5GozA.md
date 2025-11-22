@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: KYTES
 
-[Spotify](https://open.spotify.com/user/spotify) - 441,596 likes - 75 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 441,598 likes - 75 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 3 | [GERM GERM GERM \- Remix](https://open.spotify.com/track/4yJQ8SmQeE3I04qc99MXHh) | [Kate Nash](https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg), [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [GERM GERM GERM \(Remix\)](https://open.spotify.com/album/4PCrfHl9hLvptCvkCupD7V) | 3:23 |
 | 4 | [Dopamine](https://open.spotify.com/track/168GHxsiJyT9tlJN74ZO11) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Dopamine](https://open.spotify.com/album/3k63fb9eki4aVFPzU3Ptvw) | 3:35 |
 | 5 | [Come Tonight](https://open.spotify.com/track/7fmYxPPZ48G2dBX1oOE9Js) | [TEED](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Come Tonight](https://open.spotify.com/album/24gbyw0FstHMxPGOLUCWEs) | 4:55 |
-| 6 | [Track 2](https://open.spotify.com/track/4SzPqEp7vBRRacbcrfCbCj) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [](https://open.spotify.com/album/null) | 0:00 |
+| 6 | [Love Will Make You Do Strange Things](https://open.spotify.com/track/4SzPqEp7vBRRacbcrfCbCj) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Chewing The Fat \(Deluxe\)](https://open.spotify.com/album/3trlSAdPTDzZl6nAzzgo5A) | 3:03 |
 | 7 | [Burn It!](https://open.spotify.com/track/0ADXYdnGtoEcUodPirMYXZ) | [Mind Enterprises](https://open.spotify.com/artist/5pN1DJhPFDKso4OtC0QhnB) | [Burn It!](https://open.spotify.com/album/5TR3C0glWSRf10jWPnrsg5) | 3:19 |
 | 8 | [Love Who You Love](https://open.spotify.com/track/2uvcftCCrCr2pprXUJ6Vjr) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Love Who You Love](https://open.spotify.com/album/6RdhCbS2KuedWjsjuecMuY) | 3:59 |
 | 9 | [Waiting So Long](https://open.spotify.com/track/7AVLgpaYZMSwyOLXATjET8) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9), [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Waiting So Long](https://open.spotify.com/album/4EQteLPHt5FDzqbStNWw2h) | 3:54 |

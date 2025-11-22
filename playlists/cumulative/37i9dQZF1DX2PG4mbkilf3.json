@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "Your guide to R&B in Canada, featuring Nonso Amadi from Toronto, ON.",
+  "description": "Your guide to R&B in Canada, featuring Myles Lloyd from Montr\u00e9al, QC.",
   "name": "Mood Ring ",
   "tracks": [
     {
@@ -3016,7 +3016,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 207692,
       "name": "Bleeding Me Dry",
       "url": "https://open.spotify.com/track/6ldJ3AUfPvRX2gCB4IMpBG"
@@ -5878,7 +5878,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 182565,
       "name": "DIVE IN",
       "url": "https://open.spotify.com/track/4zwGCsh0qWBJYpKCJk2wBl"
@@ -7604,7 +7604,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 169946,
       "name": "Expensive (feat. Planet Giza)",
       "url": "https://open.spotify.com/track/2A0puPvjP7To5dQuI84QJK"
@@ -7944,7 +7944,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 152746,
       "name": "fantasmagor\u00eda",
       "url": "https://open.spotify.com/track/79TuXPzuamn6YOTyz8UJRv"
@@ -8458,6 +8458,24 @@
       "duration_ms": 183488,
       "name": "Focus",
       "url": "https://open.spotify.com/track/6Ux75sV7IrXlaBYsBHtQLy"
+    },
+    {
+      "album": {
+        "name": "Focused on Me",
+        "url": "https://open.spotify.com/album/0jrn1RTraqrVamEr3oFFzi"
+      },
+      "artists": [
+        {
+          "name": "Zenesoul",
+          "url": "https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204032,
+      "name": "Focused on Me",
+      "url": "https://open.spotify.com/track/6zqxBOid2nVjFHjlocKQsG"
     },
     {
       "album": {
@@ -9323,6 +9341,24 @@
     },
     {
       "album": {
+        "name": "Going Home",
+        "url": "https://open.spotify.com/album/3WawvUoyqt2PD2rz6MnMTZ"
+      },
+      "artists": [
+        {
+          "name": "Dominique Fils-Aim\u00e9",
+          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242924,
+      "name": "Going Home",
+      "url": "https://open.spotify.com/track/4h78oPMoSU1khs6uhDGUyZ"
+    },
+    {
+      "album": {
         "name": "Going Up",
         "url": "https://open.spotify.com/album/1ZBOf2qbjdjz6LkpCqXDYA"
       },
@@ -9504,7 +9540,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 113250,
       "name": "Grapevine",
       "url": "https://open.spotify.com/track/2dNtWTtPsLWfF62cqMES4V"
@@ -10018,7 +10054,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 234425,
       "name": "HEARTLESS",
       "url": "https://open.spotify.com/track/0Qg6C8x7cXrO7KiV8wl6M6"
@@ -10188,7 +10224,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 194407,
       "name": "Here I Go Again",
       "url": "https://open.spotify.com/track/29sswWx2Hrpq2csZ96PNTl"
@@ -11369,6 +11405,24 @@
     },
     {
       "album": {
+        "name": "I'm Still Thinking",
+        "url": "https://open.spotify.com/album/0eKxu5NJRkKWRw04qxxjL3"
+      },
+      "artists": [
+        {
+          "name": "Myles Lloyd",
+          "url": "https://open.spotify.com/artist/3OgXv5i2hFt93vxZ8iVLcc"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "I'm Still Thinking",
+      "url": "https://open.spotify.com/track/4hJl3W0nDJj7cr4dLzDja4"
+    },
+    {
+      "album": {
         "name": "I'M THE 1",
         "url": "https://open.spotify.com/album/6NBXE3oYrQX0o3eTVR9iv1"
       },
@@ -12069,6 +12123,24 @@
     },
     {
       "album": {
+        "name": "intemporel",
+        "url": "https://open.spotify.com/album/4CeKMcDfznEywMmez1EJOc"
+      },
+      "artists": [
+        {
+          "name": "FRVRFRIDAY",
+          "url": "https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150019,
+      "name": "intemporel",
+      "url": "https://open.spotify.com/track/4e5KAgdRth25lpdaScjP66"
+    },
+    {
+      "album": {
         "name": "WOIIYOIE VOL. 2 - INTENSE CITY",
         "url": "https://open.spotify.com/album/4B4j3UpvXRF26Vj579bDfJ"
       },
@@ -12646,7 +12718,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 169212,
       "name": "Just Like Me",
       "url": "https://open.spotify.com/track/5Nm0tkdhfLDVBuIGttN6sh"
@@ -15048,10 +15120,28 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 179342,
       "name": "maple brown",
       "url": "https://open.spotify.com/track/7qJRRPkLoOfjD3vYRrF4T4"
+    },
+    {
+      "album": {
+        "name": "Marigold",
+        "url": "https://open.spotify.com/album/3iDlNOK6xYVxK6OTLatjCi"
+      },
+      "artists": [
+        {
+          "name": "Ariel",
+          "url": "https://open.spotify.com/artist/1vMyuVkbyTMmCukJ6fXOlZ"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208780,
+      "name": "Marigold",
+      "url": "https://open.spotify.com/track/3hg9d5gQ6jD21vKHXJ1ZRZ"
     },
     {
       "album": {
@@ -15858,7 +15948,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 208682,
       "name": "More Than Any Thing",
       "url": "https://open.spotify.com/track/78gyP9y53GpfTEN8ES0OmV"
@@ -16974,6 +17064,24 @@
       "duration_ms": 176213,
       "name": "No Matter",
       "url": "https://open.spotify.com/track/694TBPnzN8G5lgXxb6LEXX"
+    },
+    {
+      "album": {
+        "name": "No More Scorpios",
+        "url": "https://open.spotify.com/album/1rW2Vq6tUelSZNMXcZszsE"
+      },
+      "artists": [
+        {
+          "name": "Jhyve",
+          "url": "https://open.spotify.com/artist/0HmsavbsOIIyKWdQOyFh2f"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "No More Scorpios",
+      "url": "https://open.spotify.com/track/3HQRSzjFWzKCuKE3kCPTYI"
     },
     {
       "album": {
@@ -18665,6 +18773,24 @@
     },
     {
       "album": {
+        "name": "Overwhelmed",
+        "url": "https://open.spotify.com/album/0Ua8pmFJYWdEU0yUcli2qK"
+      },
+      "artists": [
+        {
+          "name": "Alicia Creti",
+          "url": "https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231240,
+      "name": "Overwhelmed",
+      "url": "https://open.spotify.com/track/1PF77rPYFoBNbWseo9utyS"
+    },
+    {
+      "album": {
         "name": "oxygen",
         "url": "https://open.spotify.com/album/7sghYP0IoVJP7FSvjxNIHf"
       },
@@ -18950,6 +19076,24 @@
       "duration_ms": 196832,
       "name": "PATT",
       "url": "https://open.spotify.com/track/0AcNh6pvhqGCm9EKpCAKEG"
+    },
+    {
+      "album": {
+        "name": "patterns",
+        "url": "https://open.spotify.com/album/3boo2gXbgnFRoBxmmNZBDV"
+      },
+      "artists": [
+        {
+          "name": "AHSIA",
+          "url": "https://open.spotify.com/artist/0Io9HPbsIs5MqlnCIY1gdH"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190115,
+      "name": "patterns",
+      "url": "https://open.spotify.com/track/5nwMLwvK536bKbViYPPbXq"
     },
     {
       "album": {
@@ -22916,7 +23060,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 181276,
       "name": "SOMEBODY LOVES ME PT. 2",
       "url": "https://open.spotify.com/track/2aTf0R0TQCJJKcb0ipszD2"
@@ -24309,6 +24453,24 @@
     },
     {
       "album": {
+        "name": "Flower City Heartbreak",
+        "url": "https://open.spotify.com/album/4r3eoK1hWHYrsiBJUkCCeB"
+      },
+      "artists": [
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "Supposed To Be My Lover",
+      "url": "https://open.spotify.com/track/7iwpe1CwPKju1KYZhfvBnG"
+    },
+    {
+      "album": {
         "name": "Suppress (Original)",
         "url": "https://open.spotify.com/album/1MhBXyaIo7WfOy1nctpIkb"
       },
@@ -24574,7 +24736,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 170721,
       "name": "Take It Off",
       "url": "https://open.spotify.com/track/5VcfcfmR9e3Rzw4cERCA5V"
@@ -24904,7 +25066,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 255679,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/59FQytHvZeGRBnBQO6eloP"
@@ -26190,6 +26352,24 @@
       "duration_ms": 179013,
       "name": "Too Hot (feat. Adekunle Gold)",
       "url": "https://open.spotify.com/track/51XLYXUO7WaEsXf9sUHt6a"
+    },
+    {
+      "album": {
+        "name": "TOO LATE",
+        "url": "https://open.spotify.com/album/5EHTLTwi2p7WSfezZYRcwM"
+      },
+      "artists": [
+        {
+          "name": "ABBI WOODS",
+          "url": "https://open.spotify.com/artist/44GFA4EspGPaCQo4VqLzTR"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163291,
+      "name": "TOO LATE",
+      "url": "https://open.spotify.com/track/1lfQeVezs2zGqPUWrVhQ8c"
     },
     {
       "album": {
@@ -27796,7 +27976,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 192279,
       "name": "What I Used To Get Into",
       "url": "https://open.spotify.com/track/4GEAQAtCQ50j0lZP9k4SMT"

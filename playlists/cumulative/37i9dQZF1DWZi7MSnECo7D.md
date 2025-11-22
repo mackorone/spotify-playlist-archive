@@ -4,7 +4,7 @@
 
 > Música brasileira fora da curva\. Foto: clara bicho
 
-809 songs - 1 day 21 hr 59 min
+811 songs - 1 day 22 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Barcelona](https://open.spotify.com/track/2pihPAjIPg5EnitYFKqbYc) | [Tagua Tagua](https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt) | [Tanto](https://open.spotify.com/album/6KVigOS9Me4Hu3o9hEh9M0) | 3:37 | 2023-03-03 | 2023-05-01 |
 | [Barcelona](https://open.spotify.com/track/78iFCNxDIc1oASCP7pZTSZ) | [Tagua Tagua](https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt) | [Tanto](https://open.spotify.com/album/20EcuWdIk2tTveltWZm1Pc) | 3:37 | 2023-04-28 | 2023-08-19 |
 | [Barco a Vela](https://open.spotify.com/track/6ew3HycnoXbqHjFiVAn2Y6) | [Quarto Vazio](https://open.spotify.com/artist/6ZxobXkVVR3tVt084Jo9AT) | [Barco a Vela](https://open.spotify.com/album/75e9rU419yHJEcvC0XBaEa) | 2:10 | 2024-08-09 | 2024-09-07 |
+| [Barco Amnésia](https://open.spotify.com/track/7DPXgopzi3ilUPuMqJvVkt) | [Cidade Dormitório](https://open.spotify.com/artist/3hnNIsiWatVyHen6mz79sf) | [Barco Amnésia](https://open.spotify.com/album/6YpmOtjPnyN21IcjmqULDl) | 3:52 | 2025-11-21 |  |
 | [Bateria Social](https://open.spotify.com/track/1sz0sqdm8bUMLXrTfR5gEE) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Bateria Social](https://open.spotify.com/album/698LkunOLkOj80zdayoiHa) | 2:59 | 2022-05-06 | 2022-07-29 |
 | [Bateria Social](https://open.spotify.com/track/1wicDKdH62DL55tNHK9PhA) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Bateria Social](https://open.spotify.com/album/4jKJMo24vOWI38n5jJrR8S) | 2:59 | 2022-07-22 | 2023-08-05 |
 | [BB \(Garupa de Moto Amarela\)](https://open.spotify.com/track/4urIUktF6jtKJhvjFU5hwy) | [Tim Bernardes](https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4) | [BB \(Garupa de Moto Amarela\)](https://open.spotify.com/album/7ExE0OsPgAEOywkveeWoeL) | 2:46 | 2022-05-20 | 2023-01-28 |
@@ -496,6 +497,7 @@
 | [Névoas](https://open.spotify.com/track/3UkGVb1conf74SG0dXXwVz) | [Jair Naves](https://open.spotify.com/artist/5qMWCxaDz4lycNKMpVR5ai) | [Névoas](https://open.spotify.com/album/6cuoqU97RNqlJXZ27EL08H) | 4:54 | 2024-05-10 | 2024-08-24 |
 | [Nós Dois](https://open.spotify.com/track/1VQtdb1sHsB2wglv7wKTQB) | [Thiago Corrêa](https://open.spotify.com/artist/4jGemzKOyB5XcLM9AVQjkG), [Bruno Berle](https://open.spotify.com/artist/6wUEejDd6aQJtchKP5c7Q0) | [Nós Dois](https://open.spotify.com/album/6NZtFcCJfsPAloYzETIgHl) | 3:11 | 2025-11-14 |  |
 | [O Amor Se Acabou](https://open.spotify.com/track/30kvSA3nmIdNcEn7Qbz62V) | [Bárbara Eugênia](https://open.spotify.com/artist/0FJA2ViptVdnv30E7cg51l) | [Crashes n' Crushes](https://open.spotify.com/album/5EVeip4LayRSxsJoIKXmKr) | 2:55 | 2022-01-14 | 2022-01-22 |
+| [O Ar nos Meus Pulmões](https://open.spotify.com/track/7bIf4vCBuI3bjgy3alkvEV) | [Antropoceno](https://open.spotify.com/artist/6GCGVM8PNMDCsWAWiMbmlZ), [sonhos tomam conta](https://open.spotify.com/artist/7rVsNgf4xbMJcVPNilWTnV) | [O Ar nos Meus Pulmões / Beautiful World](https://open.spotify.com/album/5MkjFFnDOKuLLmIj8mRTVT) | 4:53 | 2025-11-21 |  |
 | [O Artista](https://open.spotify.com/track/0tnLTxhF7jM6UJ8FKCfQUk) | [Vitor Brauer](https://open.spotify.com/artist/0LgGTp6dIjvLJ8Lx750VY8), [Alcyr Vergetti](https://open.spotify.com/artist/3c2BnZ8iH3qYEShLYBfoON), [Caíque, o Jorg](https://open.spotify.com/artist/3bnV5LfVCdQWTG68yZ2Xac) | [Tréinquinumpára 01: Maceió](https://open.spotify.com/album/5j3vcYA6gGgwqYLShM81DU) | 3:32 | 2023-07-21 | 2023-09-02 |
 | [o barco](https://open.spotify.com/track/62f4fwsxf54IGvy4ri3z3a) | [Duda In The Sky](https://open.spotify.com/artist/7JMMxGGAQVHUU3KAGHVUFu) | [o barco](https://open.spotify.com/album/6RmddTpIczOcAEAwuzlcCr) | 4:26 | 2022-08-12 | 2022-09-24 |
 | [O Bruno Me Pediu uma Música pro Lenine Cantar](https://open.spotify.com/track/4jhBgolvT9tJ7gm8VVbJLP) | [Vitor Brauer](https://open.spotify.com/artist/0LgGTp6dIjvLJ8Lx750VY8), [Felipe Pacheco Ventura](https://open.spotify.com/artist/4wzBTy6pV1lVE7LJMuh36I), [Guilherme Guedes](https://open.spotify.com/artist/5OapPk2jaUWFtMJDHCdOe9) | [O Bruno Me Pediu uma Música pro Lenine Cantar](https://open.spotify.com/album/7g2CozBQRBJCF0CYbmFzpI) | 7:46 | 2024-10-11 | 2025-02-15 |

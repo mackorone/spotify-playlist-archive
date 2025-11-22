@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1UAAXbCUqhTWG7W1XehHbK.md) - [plain]
 
 > &quot;Indie Essentials&quot; is the ultimate playlist for indie music fans\. It features tracks from influential and iconic indie artists, showcasing the diversity and creativity of the genre\. Discover new and old classics in the indie spirit.
 
-[Indie Music](https://open.spotify.com/user/eqiomkuuw0lc4nplre0xyx9dg) - 588 likes - 129 songs - 7 hr 35 min
+[Indie Music](https://open.spotify.com/user/eqiomkuuw0lc4nplre0xyx9dg) - 588 likes - 130 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -137,5 +137,6 @@ pretty - [cumulative](/playlists/cumulative/1UAAXbCUqhTWG7W1XehHbK.md) - [plain]
 | 127 | [Greedy for small gains](https://open.spotify.com/track/0cNiKGurgv7nWN3ZnmzynE) | [RYN SKY](https://open.spotify.com/artist/0LWSuwMqKEWQfFEFOariZg) | [Greedy for small gains](https://open.spotify.com/album/2uqbUzjq5TGGnR7Nh5cj8e) | 6:52 |
 | 128 | [Hands](https://open.spotify.com/track/6LflirCCKMmIPoJeb9Kkb8) | [Hosannas](https://open.spotify.com/artist/3MOXu8DfF3VUfC7WmNBb8D) | [Picture Him Protecting You](https://open.spotify.com/album/3Je9xNxfxhvKKp4VqVAI7E) | 4:41 |
 | 129 | [Eu Confesso](https://open.spotify.com/track/2JN9RaAhfUwuoRcEBedbUo) | [AlonUshi](https://open.spotify.com/artist/5ff5myNBPYGziyBDXwsEAp) | [Eu Confesso](https://open.spotify.com/album/3r8W5VCdCfjAAHPqVkagqv) | 3:10 |
+| 130 | [Out Of Mind](https://open.spotify.com/track/1OFweranXJz823BH5fZYVI) | [1POINT5](https://open.spotify.com/artist/4PPHoRT5RMRHTbMGeQXiA3) | [Out Of Mind](https://open.spotify.com/album/2Rklcp8oIxKCK8duJuWHG4) | 2:32 |
 
-Snapshot ID: `AAADXy1cZle9kUEShS6tuZaoU4Vk5ITG`
+Snapshot ID: `AAADYOxYI2N//XYdl37xgOkNf7I0o+IU`

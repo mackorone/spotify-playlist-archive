@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-1,584 songs - 4 day 0 hr 37 min
+1,587 songs - 4 day 0 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [And a Panda](https://open.spotify.com/track/2SKDjklzOfsqdfc3LibelK) | [Paper Bagg Band](https://open.spotify.com/artist/1hHk52TIe6t4KW443P0iuq) | [And a Panda](https://open.spotify.com/album/5QUYWm9bKLxQD4lJj2L3Ns) | 2:25 | 2025-09-28 |  |
 | [Andes Dub](https://open.spotify.com/track/73vEwfJDEaMMawEKlFiUJS) | [Munay Ki Dub](https://open.spotify.com/artist/2AhLMWSB5ljBDOSpz1RvzE), [Rebel\-I](https://open.spotify.com/artist/5sk0yYZNTRXG1Ph14bpSVu) | [Andes Dub](https://open.spotify.com/album/4h7Uf9MiGw0EvZAbpnRUac) | 3:46 | 2024-03-10 |  |
 | [Angel](https://open.spotify.com/track/3xArylDcACBtA8cgBZrijo) | [CrisVola](https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo) | [Angel](https://open.spotify.com/album/2MOj4rJYRgcWbWS7yFShb6) | 3:12 | 2023-05-19 |  |
+| [Angel](https://open.spotify.com/track/2C0DJg7JtzhaSXgiuGOVAm) | [Optacure](https://open.spotify.com/artist/7wlWWs08zvaXAvAxqAlTQ3), [Ean Aguila](https://open.spotify.com/artist/2zMP0KNQXgr3YviWYeRb8D) | [Angel](https://open.spotify.com/album/36BOTVbt4r7G5I3nNuY0vi) | 4:59 | 2025-11-21 |  |
 | [Animales](https://open.spotify.com/track/5zq2OYborUmkcTn42sIujd) | [Krofon](https://open.spotify.com/artist/4Esx64oaFV1013SafhyEpR) | [Animales](https://open.spotify.com/album/4JWRq36qUNbb6JQS5ZfV05) | 3:29 | 2025-06-20 |  |
 | [Another Dub In The Guetto](https://open.spotify.com/track/0FPmYCMDJ20Cr89m9V6Iyp) | [Negritage](https://open.spotify.com/artist/3JcS5pm4XJZnSXwejIiqSn) | [Guetto Roots Of Dub](https://open.spotify.com/album/03lGqOUTOHHID1tGCWRiVO) | 3:01 | 2024-05-01 |  |
 | [Antes de Se Despedir](https://open.spotify.com/track/2IMYQOcpg0VbffoXca6a4Z) | [Céu de Outono](https://open.spotify.com/artist/0WCvLMfouwGbgeHs4slpjI) | [Antes de Se Despedir](https://open.spotify.com/album/79yww9QXO48twMnRBz0V31) | 3:19 | 2025-06-02 |  |
@@ -447,6 +448,7 @@
 | [Fight For Your Rights](https://open.spotify.com/track/5siGfDa7QVNg7kFYQ0U9VD) | [Moune](https://open.spotify.com/artist/1tgyjeMiFgkVj1GemMhR3G) | [The Legacy Of the Sun](https://open.spotify.com/album/5pIVHjl7bwGOEzDI82JN0s) | 4:18 | 2024-03-10 |  |
 | [Fine Dub](https://open.spotify.com/track/3OC1ZBl2IyA6A2Vn4CD7VU) | [Dillon Wyte](https://open.spotify.com/artist/7sfsdBvfHEQ8ovwqSjIl5g) | [Power to Slay Giants](https://open.spotify.com/album/7fJsmsjHuF4ePdbVGiExx1) | 3:19 | 2024-03-25 |  |
 | [Fire](https://open.spotify.com/track/5jRJlGB5EP7HFKwYBKvlSA) | [Diskopunk](https://open.spotify.com/artist/5Ck4KWOZsbrSQpiLimooDp) | [Fire](https://open.spotify.com/album/4b7DQdQztY3wvk8DJB8bgz) | 3:17 | 2024-03-04 |  |
+| [Fireside](https://open.spotify.com/track/0ZDHsXc2Oe3PXKaNH38tR2) | [Helkemar](https://open.spotify.com/artist/1a6v8eZD7UBHDpYjYd0eQl) | [Fireside](https://open.spotify.com/album/3hKn1c0BwHI1PzWQELe6tM) | 2:29 | 2025-11-21 |  |
 | [FIRST](https://open.spotify.com/track/0fefDKmSDmws0zzhIJzdG8) | [The Mark & Freddy Band](https://open.spotify.com/artist/0rIAA5cJZz5kRQP1poSzno) | [FIRST](https://open.spotify.com/album/4G5ugJrdVIQM3l3MaTsFpi) | 3:49 | 2025-10-24 |  |
 | [First day of the month](https://open.spotify.com/track/4jd1pxuPftkrDIPAxn1if5) | [Deadarchives](https://open.spotify.com/artist/74kszt2wmigyELkurcdEdi) | [Paranoia](https://open.spotify.com/album/4DvnfJcQj24VSJ2PCMsFHR) | 2:45 | 2025-10-21 |  |
 | [Fleeting Moments](https://open.spotify.com/track/054ywE1bujWhjkPfECvg6U) | [Javier](https://open.spotify.com/artist/3fEkFHLCGHSQ2YNM3dyz0P) | [Echoes of Tomorrow](https://open.spotify.com/album/00NEKdR6p91zs5Q5VHUTT9) | 4:14 | 2025-05-26 |  |
@@ -977,6 +979,7 @@
 | [No Peace](https://open.spotify.com/track/6j1FRcO0AlBxkoFFqwhnCb) | [Calibration Alert](https://open.spotify.com/artist/4x3fQslGm6fgisi6Fv57Iu), [Pasnbesa](https://open.spotify.com/artist/5Y2bckLQhabsfHtaQ5rHZq) | [No Peace](https://open.spotify.com/album/4he5tNS0pe4NllI3n3sLVB) | 3:57 | 2024-09-21 |  |
 | [No WW3](https://open.spotify.com/track/25YGdL2WclZGjmq6YA027U) | [The Manor](https://open.spotify.com/artist/6gdW8jo9cNfl6up39hTKOp) | [Walk with Jah](https://open.spotify.com/album/3t5pK2FwJxeUeIuR3u0pFc) | 4:01 | 2024-03-23 |  |
 | [None Else](https://open.spotify.com/track/48Havqmv88gVscsSbTYtN8) | [Dillon Wyte](https://open.spotify.com/artist/7sfsdBvfHEQ8ovwqSjIl5g) | [Power to Slay Giants](https://open.spotify.com/album/7fJsmsjHuF4ePdbVGiExx1) | 2:42 | 2024-03-25 |  |
+| [Northern Star](https://open.spotify.com/track/33VX9hgtQXJWmH6W1hkwA4) | [Helen Keeling\-Marston](https://open.spotify.com/artist/54Nc4fNhCbrKoouLdouBNP) | [Northern Star](https://open.spotify.com/album/48ahazq0gDgALwMBxRrLu6) | 2:06 | 2025-11-21 |  |
 | [NOSTALGIA](https://open.spotify.com/track/3ep2vgJQeCVf2tHVW4QOLV) | [Kerco](https://open.spotify.com/artist/2My3jbzL64ADZUTa3nxhSA) | [AMELIORATION](https://open.spotify.com/album/1HC5qbtCbPFrwxbERDSxvv) | 2:33 | 2025-10-26 |  |
 | [nothing but you](https://open.spotify.com/track/37apT4GHmMnLjkEw65vl8d) | [LadyBoy](https://open.spotify.com/artist/3EyEQIrSwLWmL5WikGao8Q) | [nothing but you](https://open.spotify.com/album/3nqzTCIV881THXKTFrBhYv) | 3:54 | 2025-07-25 |  |
 | [Nothing Left](https://open.spotify.com/track/2zxgXCcB0KgdB0qsoGu2L0) | [Lucrezia Arcifa](https://open.spotify.com/artist/1x5hFkZWr1fO5bNVXilaNy) | [Nothing Left](https://open.spotify.com/album/4WZ73yGZWkMaevXbCilKyT) | 3:27 | 2024-06-19 |  |

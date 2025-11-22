@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Rudh
 
-664 songs - 1 day 13 hr 53 min
+666 songs - 1 day 13 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -413,6 +413,7 @@
 | [Olti Vudu](https://open.spotify.com/track/65tEW5ZsbDwkNLCzf6JUFh) | [Vetti Payan Venkat](https://open.spotify.com/artist/6ZeZplJoeBHwk1MwpIj18e), [Urban Thozha](https://open.spotify.com/artist/3Dp5dANamboswrpWcetBRX) | [Olti Vudu](https://open.spotify.com/album/7bdLk0h0PNqkBv9KVUPTdo) | 2:40 | 2024-11-20 | 2025-02-20 |
 | [On Air](https://open.spotify.com/track/3LI5iF14x57wIfyhTpC3S4) | [Sharan Musician](https://open.spotify.com/artist/16XIcGxUwd0RaCkZE2mRPR) | [On Air](https://open.spotify.com/album/1ADfH89pRILlnPJ8ZgqXu5) | 1:42 | 2024-05-13 | 2024-12-06 |
 | [Ondraga Selvoma](https://open.spotify.com/track/6CXT1nFECaAO2eH4l7Nuel) | [Abu](https://open.spotify.com/artist/4FtcEHxEhiObUuhFYmkrA5), [Pokkishiya Sandra](https://open.spotify.com/artist/5rIDcip6HVD2OYSswkTYtz) | [Ondraga Selvoma](https://open.spotify.com/album/2IP8Ynr4w9PzOP7ZKayy5Y) | 6:00 | 2024-07-31 | 2024-08-24 |
+| [Onnume Puriyala](https://open.spotify.com/track/4xU1mru3ZAz5X4XF78F54I) | [Viyan Pugazhendhi](https://open.spotify.com/artist/1DlDru2UCX2WBPqHwluwtt) | [Onnume Puriyala](https://open.spotify.com/album/6HfC54y7L1bY3S2pdIX4hZ) | 3:04 | 2025-11-21 |  |
 | [Ooo Penne](https://open.spotify.com/track/0WtiNMikAFmM0qt6pKhP30) | [Aman Sawan](https://open.spotify.com/artist/1tGsnZOMlsDfvesfYj2ecW) | [Ooo Penne](https://open.spotify.com/album/2C4R3FKVwtuVhlvCPI2EmZ) | 3:16 | 2025-10-25 |  |
 | [OORO](https://open.spotify.com/track/0gJyRJTtghZEfOz9dJIcv2) | [JAXK](https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq) | [OORO](https://open.spotify.com/album/1ZDtWTvDxsL2c6bPKSM6df) | 2:18 | 2024-04-15 | 2024-10-25 |
 | [Ooru Sanam](https://open.spotify.com/track/00gwJJMsxFJ4Dm5MfJcr2Z) | [A T Ram](https://open.spotify.com/artist/4ORr051zUJKNxE2cS57UpO), [Muthu Sirpi](https://open.spotify.com/artist/26rblDtQQ9U26NMYSraPYm), [FANOHA](https://open.spotify.com/artist/5WFn5wt1M57jYMfmKoUSUx) | [Ooru Sanam](https://open.spotify.com/album/3QnlQ9p9YcUM3drcQxH0iM) | 4:11 | 2023-07-31 | 2023-12-12 |
@@ -514,6 +515,7 @@
 | [Somalalaya](https://open.spotify.com/track/2HmsZdVYbxF6gjd9nzdENy) | [Darsan Ravichandran](https://open.spotify.com/artist/3aKvK9RuKSm12BZAbSNlvr), [SJK](https://open.spotify.com/artist/7x5YUmm1SGsB5vYQlZp8Vr), [John Beno](https://open.spotify.com/artist/72zt2927ksGWmZZyTd3hHl) | [Somalalaya](https://open.spotify.com/album/2yoszgg3WTmrmDcpfCKL91) | 3:02 | 2025-05-16 | 2025-07-19 |
 | [SOODA](https://open.spotify.com/track/3pooF21TkvwlapuPwhfhmT) | [Tha Mystro](https://open.spotify.com/artist/1CDq8tF7Lqvq3TqLCmNOMQ), [Amos Paul](https://open.spotify.com/artist/4mCA5AJnvdiCiKB6Rk8ne9), [Ahashe](https://open.spotify.com/artist/2taTlDnfwjHmQWPf780NP9), [Selojan](https://open.spotify.com/artist/3LarUwOHm8HD027JGUMJwU) | [SOODA](https://open.spotify.com/album/1rwU2JKbH8FpC1sv6m9oKQ) | 3:44 | 2025-04-04 | 2025-06-04 |
 | [Sooravali](https://open.spotify.com/track/3vJjFE5dxFhyurohHo6clw) | [M.S.Jones Rupert](https://open.spotify.com/artist/3kzeW36gRksyI7yXgEECID), [Deepthi Suresh](https://open.spotify.com/artist/4PY2xnTu90K0hvkgcljRJl) | [Sooravali](https://open.spotify.com/album/0eIhUF5BVnbZbuP17RxUQ8) | 4:07 | 2023-03-21 | 2023-07-18 |
+| [Soorpanagai](https://open.spotify.com/track/3YrotPydUy2kflbzZxtBIw) | [Veena AE](https://open.spotify.com/artist/7F5HmVLlQsLMdPq7Iz0CsK), [SHIV PAUL](https://open.spotify.com/artist/5AA9gS6Kw5CwPGZ8CEoA8f), [Niru Musical](https://open.spotify.com/artist/0gmdF5FhV5xu0IfojeZhDf) | [Soorpanagai](https://open.spotify.com/album/6BguCRhRJRXBa6TtQ4k5Of) | 3:08 | 2025-11-21 |  |
 | [Soul](https://open.spotify.com/track/5IalEiACOaWwafT5K0CENa) | [Ku Karthik](https://open.spotify.com/artist/7L5BLP9ezpFtEOas3AR0Ny), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm), [Punitha Ramakrishnan](https://open.spotify.com/artist/1eSxNM0BFeaFCV3OQ7sipM) | [Soul](https://open.spotify.com/album/5jRl6diqbmVdmNzmvBxBN3) | 3:35 | 2025-03-22 | 2025-06-04 |
 | [Story Rewrite](https://open.spotify.com/track/0bshpuYtyPBYkVUiJxzbtq) | [Hidden frequencies](https://open.spotify.com/artist/5rAZDoXWpwb5v3pqstP4WB) | [Story Rewrite](https://open.spotify.com/album/4SJTkS0FQtEsam4O81LXnx) | 2:59 | 2023-09-14 | 2024-02-16 |
 | [Story Rewrite](https://open.spotify.com/track/7jQHimJTn5joGqtUXFnTvA) | [Hidden frequencies](https://open.spotify.com/artist/5rAZDoXWpwb5v3pqstP4WB) | [Story Rewrite](https://open.spotify.com/album/48IgWLickNf0lBCE5zLOoZ) | 2:59 | 2023-09-14 | 2024-01-07 |

@@ -8645,6 +8645,24 @@
     },
     {
       "album": {
+        "name": "SHSL",
+        "url": "https://open.spotify.com/album/3m4gtXLBykRW7xlxw3o6zs"
+      },
+      "artists": [
+        {
+          "name": "Worries And Other Plants",
+          "url": "https://open.spotify.com/artist/4OSvbuo6zLLwKdf0Rp9nRc"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207075,
+      "name": "SHSL",
+      "url": "https://open.spotify.com/track/74xqQIJlbaCtm5ZgMybwwk"
+    },
+    {
+      "album": {
         "name": "Care 2 Share",
         "url": "https://open.spotify.com/album/2NmeIWHpmlrfETl2PkZZJa"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > Latest music from King, Aditya Dev, Chaar Diwaari and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,037 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,207 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 2 | [Banda Kaam Ka](https://open.spotify.com/track/6vH6xKa1vh9ihWrLYZAmU8) | [Chaar Diwaari](https://open.spotify.com/artist/2n4q8jLM4WLwlva1sZ2WRx), [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v) | [Banda Kaam Ka](https://open.spotify.com/album/2QvGrnZintTpOvYzviVS4t) | 4:08 |
 | 3 | [You & I](https://open.spotify.com/track/1UhwJHL94SwSZk9jUsleHF) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [You & I](https://open.spotify.com/album/68ld620Tx7IlPXWRnVn2al) | 3:31 |
 | 4 | [Ishare](https://open.spotify.com/track/52PV2158YRyiXkrJWpcvYx) | [Pragati Nagpal](https://open.spotify.com/artist/5LUjJOXtKNWa7AmUOJbWgH), [Shaan](https://open.spotify.com/artist/4UYxD7mip9XA727Lz9z88e), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Ishare](https://open.spotify.com/album/01zEZ7uSgxKn2zj1KwJcba) | 2:10 |
-| 5 | [Bewafa](https://open.spotify.com/track/7w98XXwu7fVzWhRCRbOAjt) | [Denny](https://open.spotify.com/artist/6KozIqto3bkoQp4lksicOA), [Rishi Rich](https://open.spotify.com/artist/2DpITTpb4v5SQtB3iA4A44), [Junaid Ahmed](https://open.spotify.com/artist/59bhZii0sIi41aSgxXEK4E), [Mandy Gill](https://open.spotify.com/artist/7otohmxIFI9XGwdj1XWw5k) | [](https://open.spotify.com/album/null) | 2:58 |
+| 5 | [Bewafa](https://open.spotify.com/track/7w98XXwu7fVzWhRCRbOAjt) | [Denny](https://open.spotify.com/artist/6KozIqto3bkoQp4lksicOA), [Rishi Rich](https://open.spotify.com/artist/2DpITTpb4v5SQtB3iA4A44), [Junaid Ahmed](https://open.spotify.com/artist/59bhZii0sIi41aSgxXEK4E), [Mandy Gill](https://open.spotify.com/artist/7otohmxIFI9XGwdj1XWw5k) | [Full Circle](https://open.spotify.com/album/6omx5bOxqjgS3JraemLej2) | 2:58 |
 | 6 | [Pehla Ishq](https://open.spotify.com/track/4w1V0Tw923MIGcwxYvsccf) | [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk), [Sachin Gupta](https://open.spotify.com/artist/34R6DQd8ErBy1xyOyMHFrq) | [Pehla Ishq](https://open.spotify.com/album/4FXI6yJutTa8fDODneckUf) | 3:00 |
 | 7 | [Pehle Kyun Na Mile \(From "Bhoomi 2025"\)](https://open.spotify.com/track/0NGkK2xo8VoeS6kGWJUTFf) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT), [Shraddha Pandit](https://open.spotify.com/artist/4rhk6lDh2srdV1a1qmIqGa) | [Pehle Kyun Na Mile \(From "Bhoomi 2025"\)](https://open.spotify.com/album/54r0cCyH1OhaKqiV23RoSk) | 4:29 |
 | 8 | [Yaad Tumari Aayi \(From "Bhoomi 2025"\)](https://open.spotify.com/track/4Hcr5UDuZsVDo3UYhnukVG) | [Pawandeep Rajan](https://open.spotify.com/artist/3cy473zaKsJ7eo6l3t8SKd), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Suresh Rajan](https://open.spotify.com/artist/5g70zjT9kNXPgJJQuLgiZs) | [Yaad Tumari Aayi \(From "Bhoomi 2025"\)](https://open.spotify.com/album/35PnJQ4gDiAoE1NrH4abgp) | 4:21 |

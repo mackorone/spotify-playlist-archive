@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-792 songs - 1 day 15 hr 35 min
+793 songs - 1 day 15 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -387,6 +387,7 @@
 | [La Manera De Vivir](https://open.spotify.com/track/7C2OMLPtQsbQgcOiyFytzA) | [NOYSE](https://open.spotify.com/artist/3e1EBvnyj3mke3HnMa5Uq2), [ÆSTRØ](https://open.spotify.com/artist/4JXD4saaiFlOBWXhDPtj4F) | [La Manera De Vivir](https://open.spotify.com/album/2cfbzv0R430XWmjtKPSQ7Q) | 2:06 | 2023-02-02 | 2023-08-10 |
 | [la playa](https://open.spotify.com/track/0hfsatZUTyfIRnHObyf3WR) | [SK3TCH01](https://open.spotify.com/artist/0NakXcxWSSLTMHvJsDWPVC), [X972](https://open.spotify.com/artist/0ShRIzN5hJDUBGPmn1rt50) | [la playa](https://open.spotify.com/album/4EmlPBi5UFiXhbiyVuz34k) | 1:12 | 2025-10-21 |  |
 | [LA VIBE](https://open.spotify.com/track/4pgmtdYruqcV7gcT1uky56) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U) | [LA VIBE](https://open.spotify.com/album/4Rggq3KsZImoLSicpoYaz7) | 2:12 | 2023-02-03 | 2023-08-10 |
+| [LA VIDA!](https://open.spotify.com/track/3Ittcr9JPeJl27tQgd5HYO) | [CryJaxx](https://open.spotify.com/artist/4FidvjA9dxE6bhpHGC6ns9), [MVRPHiN](https://open.spotify.com/artist/4eUFpo56q5J9sN6tUfdPSg), [Lucy Malfroy](https://open.spotify.com/artist/06fuqnVk4qjdjbLW0VbJQE) | [LA VIDA!](https://open.spotify.com/album/66o86Y3LaFbPBesQBnAJWE) | 1:13 | 2025-11-21 |  |
 | [Lachrymose](https://open.spotify.com/track/6NIoYuKRXmbklQdh6uPryZ) | [Maze](https://open.spotify.com/artist/6lAnJw7YqGPgG1ShMCjcbQ), [Trinist](https://open.spotify.com/artist/6XTrviAQeBuCkWgDenoiId) | [Lost Words EP](https://open.spotify.com/album/3bS5ZqH24CFVNO43q2I0uI) | 3:29 | 2023-06-23 | 2023-08-10 |
 | [Late At Night](https://open.spotify.com/track/0JB5SP9rDrbk2dsZD2781h) | [CiDE](https://open.spotify.com/artist/5LaVL7OUazcgstNz0MmnUb), [Vide](https://open.spotify.com/artist/6NvLDPalJ0Xdf58b6JABvn), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [Late At Night](https://open.spotify.com/album/1lLaZy31zYDLJ7B7GrJdE8) | 2:34 | 2024-01-31 | 2024-08-28 |
 | [Lay Low](https://open.spotify.com/track/38mVIN91Aj49QHLU7uTWNQ) | [Biometrix](https://open.spotify.com/artist/2qZwOcOK5pr8WaNJWvuZd2), [Zeli](https://open.spotify.com/artist/76XUcSGE6JZ8pbCxnBd1iz) | [Lay Low](https://open.spotify.com/album/40YfdgbzqhYALCcepymqTB) | 3:07 | 2025-02-05 |  |

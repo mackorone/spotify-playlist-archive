@@ -4,7 +4,7 @@
 
 > Cele mai noi hituri pop românești\. Cover: IRAIDA
 
-366 songs - 17 hr 17 min
+366 songs - 17 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -335,7 +335,6 @@
 | [Toate pozele](https://open.spotify.com/track/7d7RjxJNY4ELK37cQLWIhT) | [Vlad Musta](https://open.spotify.com/artist/3YyoX9RoUB8PxkXC8H0wTR) | [Toate pozele](https://open.spotify.com/album/405OtLdSR5FwBvgybe1qpq) | 2:56 | 2024-08-29 | 2024-09-20 |
 | [Tot ce avem e azi](https://open.spotify.com/track/7rZXVP5U1BcOywWCRdjW85) | [Andrei Ursu](https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW) | [Tot ce avem e azi](https://open.spotify.com/album/27BVcJO95WD5VYpr45XrCE) | 3:03 | 2025-07-10 | 2025-08-22 |
 | [Totul meu](https://open.spotify.com/track/7rKpQsXelc2Q9EOvllyKWp) | [ADI](https://open.spotify.com/artist/5oB7CsrcdCnwwcHcMHlTjo), [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK) | [Totul meu](https://open.spotify.com/album/5GyH4MjNEXW8WpTvBJGws7) | 2:24 | 2024-06-27 | 2024-07-19 |
-| [Track 13](https://open.spotify.com/track/1buiIaSSMetSAW3guTSRFO) | [IRAIDA](https://open.spotify.com/artist/4vlWcKDxlW0shCIXLuBuov) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-20 |  |
 | [Trandafiri](https://open.spotify.com/track/36I8NX3Isr82GZ2C01UTDI) | [Daria Lupi](https://open.spotify.com/artist/3aKBCihX2b5tkHe2vzeJvw), [Cabron](https://open.spotify.com/artist/0cw3wLz2S9ryZXmL0vWWQF) | [Trandafiri](https://open.spotify.com/album/4eRTS8WqCqG7gBwlywa4J5) | 2:22 | 2025-05-15 | 2025-08-22 |
 | [Trecător](https://open.spotify.com/track/6CwoQ1l8yrUBNlK6PPZNd3) | [ADI](https://open.spotify.com/artist/5oB7CsrcdCnwwcHcMHlTjo), [Emilian](https://open.spotify.com/artist/3jPbwZEofynIfjPNLrXTwd) | [Trecător](https://open.spotify.com/album/1I591aeaK1BoL8MEbxoVmy) | 2:57 | 2025-09-18 |  |
 | [Tricoul](https://open.spotify.com/track/5PGEjoxC9efpeBPFzTztNY) | [Alina Eremia](https://open.spotify.com/artist/6cpj6MeLF0pLx34Un9Bpj3) | [Antifragil](https://open.spotify.com/album/7c5Nufai061QtoKDEsv8VC) | 2:33 | 2024-11-28 | 2025-04-25 |
@@ -346,6 +345,7 @@
 | [Ultima](https://open.spotify.com/track/55YHieBnYTYuibyvYv0aRr) | [Mario ](https://open.spotify.com/artist/2vMjgLGSb1lKiHySf3l9lF) | [Ultima](https://open.spotify.com/album/6b9q2TXJSXn9Pjr3BHMB7S) | 2:46 | 2025-03-27 | 2025-04-18 |
 | [Ultima Baladă](https://open.spotify.com/track/3Y58pJSJZOCfKENlSSJfL9) | [Alessandra](https://open.spotify.com/artist/70vx3HiFmZozTbVXsBoOiV) | [Ultima Baladă](https://open.spotify.com/album/3X7P65KaLa4IgYe4eTTNT5) | 3:02 | 2024-10-03 | 2024-10-25 |
 | [Ultima dată](https://open.spotify.com/track/7B4J2a2igdWJvS2fTIhOZX) | [Francis On My Mind](https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc) | [Ultima dată](https://open.spotify.com/album/6ButmZLaKMNNnqadJgzq4q) | 3:19 | 2024-12-19 | 2025-03-14 |
+| [Ultimul Act De Iubire](https://open.spotify.com/track/1buiIaSSMetSAW3guTSRFO) | [IRAIDA](https://open.spotify.com/artist/4vlWcKDxlW0shCIXLuBuov) | [6 Simțuri](https://open.spotify.com/album/4DQqn3Pl8tKNiuDv8kbfB6) | 3:13 | 2025-11-20 |  |
 | [Ultimul Dans](https://open.spotify.com/track/0a4vqGItAbh4XTd7lz97jR) | [Theo Rose](https://open.spotify.com/artist/264Be2Waq137vybMlFYCnu), [Smiley](https://open.spotify.com/artist/3gvNMbcnvmnjGaG6hvJfSH) | [Ultimul Dans](https://open.spotify.com/album/285nFxuTHJpnHtTppI5vTS) | 3:23 | 2024-11-21 | 2025-03-28 |
 | [Ultimul revers](https://open.spotify.com/track/3JzXQZ8vOr9pQhoWYJpbX7) | [Andia](https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn) | [Ultimul revers](https://open.spotify.com/album/3hJrv3Ogk1Y9f8f6O47eBy) | 3:40 | 2025-10-02 |  |
 | [Ultimul sărut](https://open.spotify.com/track/4uBWKMNcZWaFGKFB617Xn2) | [DJ Project](https://open.spotify.com/artist/1oqThNqOfhev071PvmOwWQ), [JO](https://open.spotify.com/artist/3ArPP8R2oGr81W8i4XBPpP) | [Ultimul sărut](https://open.spotify.com/album/2koLXtK6zIBjnPQI7ui7QZ) | 2:52 | 2024-11-21 | 2025-05-09 |

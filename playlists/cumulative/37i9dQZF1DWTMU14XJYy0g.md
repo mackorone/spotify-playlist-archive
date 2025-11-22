@@ -4,7 +4,7 @@
 
 > Más vivo que nunca, más nuestro que siempre 📸 Divididos
 
-430 songs - 1 day 2 hr 41 min
+431 songs - 1 day 2 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Corazón de Neón](https://open.spotify.com/track/5u8h1l8Qz9MX7tvjVV2FRz) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [El Último Que Apague la Luz](https://open.spotify.com/album/22iLqw9H1hoozfw6CmLrTX) | 4:32 | 2022-06-24 | 2022-12-10 |
 | [Corazón Delator](https://open.spotify.com/track/2UFU9i1cz7F5i1NI5T2Lr3) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Corazón Delator](https://open.spotify.com/album/19jOSTuQpLGlSQ3CphTtU6) | 4:21 | 2022-11-18 |  |
 | [Cordura](https://open.spotify.com/track/68nH6WRy3SRUwXiEZqgeE3) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Cordura](https://open.spotify.com/album/54dwAd1G7qsREZu9r7WQmu) | 3:49 | 2023-06-02 | 2023-09-02 |
-| [Corpiños](https://open.spotify.com/track/0he2pDZz4tYGsSTNDZUWex) | [Las Tussi](https://open.spotify.com/artist/5Zc1hvy8HoaA0vymJgcx6Q) | [Corpiños](https://open.spotify.com/album/1X3h0cRHuVDj42UFh0OyBR) | 4:05 | 2025-06-20 |  |
+| [Corpiños](https://open.spotify.com/track/0he2pDZz4tYGsSTNDZUWex) | [Las Tussi](https://open.spotify.com/artist/5Zc1hvy8HoaA0vymJgcx6Q) | [Corpiños](https://open.spotify.com/album/1X3h0cRHuVDj42UFh0OyBR) | 4:05 | 2025-06-20 | 2025-11-22 |
 | [Cosa Mía](https://open.spotify.com/track/1h2Au6U97bvTS1O9ruDLeD) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Cosa Mía](https://open.spotify.com/album/31hRNOYxr20j8Ov01jujgw) | 2:49 | 2022-06-24 | 2023-09-27 |
 | [Costumbres Argentinas](https://open.spotify.com/track/4ux5icXP18e2stlh7nlEqQ) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Costumbres Argentinas](https://open.spotify.com/album/3HCeEi8EpRkgDRRw6wm62w) | 3:05 | 2023-04-21 | 2025-11-01 |
 | [Cotillón](https://open.spotify.com/track/34raiVdzCIF5JvhHidN6mN) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Artificio](https://open.spotify.com/album/2cJcd1GVfPcSkbTONqwqPP) | 3:39 | 2025-05-16 |  |
@@ -424,6 +424,7 @@
 | [VOLARTE](https://open.spotify.com/track/3QA1SyAH2S9L4mHCfnSJra) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [VOLARTE](https://open.spotify.com/album/3w8lu7ivYH9MrfYRADNuoR) | 4:45 | 2025-04-25 | 2025-05-31 |
 | [Volver a casa](https://open.spotify.com/track/05195FLjI1KmJDB8MxHU1U) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir), [Cuatro Pesos de Propina](https://open.spotify.com/artist/0ChnnP8vWVXGxmfUfFYeND) | [Volver a casa](https://open.spotify.com/album/55SkNTTfJRbCtnFTKvDMMd) | 3:51 | 2025-02-07 | 2025-09-13 |
 | [Volver a Nacer](https://open.spotify.com/track/2IzKyyYTVmh5h6shdsawT1) | [Corvex](https://open.spotify.com/artist/2E94EJ7lzS7wlcvpYMelWy) | [Volver a Nacer](https://open.spotify.com/album/3b4LialsppSQBwax8zMLVz) | 4:24 | 2022-06-24 | 2022-07-02 |
+| [VOS VOS VOS \(BONUS TRACK\)](https://open.spotify.com/track/4WeotSB57EiUmNIH0irQaX) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [A TRES DIAS DE LA TIERRA](https://open.spotify.com/album/19UGWcPOw4wOpvMGaSgj4p) | 2:36 | 2025-11-21 |  |
 | [Vuelos](https://open.spotify.com/track/4UCKDmolB8SrPVGNAdeSTk) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO), [Shinova](https://open.spotify.com/artist/6rRTrEHzGSDqhmFJQrNFMO) | [Vuelos](https://open.spotify.com/album/6Iq6olWskzadve5s35Sdiq) | 5:46 | 2023-03-31 | 2023-06-03 |
 | [Víctimas](https://open.spotify.com/track/4FeOc23B21fz3Z1pLnnKo6) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Víctimas](https://open.spotify.com/album/4J21DOgMP48X3i1Bct05ON) | 3:58 | 2023-10-05 | 2023-10-27 |
 | [X siempre](https://open.spotify.com/track/1rC15GTy1lsjfoJcXmGqvB) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Xtrapolar](https://open.spotify.com/album/4u1jbZPF6zGnOAJaaLOW1h) | 3:03 | 2024-05-31 | 2024-08-03 |

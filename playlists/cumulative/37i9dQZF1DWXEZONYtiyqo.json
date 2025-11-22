@@ -6459,24 +6459,6 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "IRAIDA",
-          "url": "https://open.spotify.com/artist/4vlWcKDxlW0shCIXLuBuov"
-        }
-      ],
-      "date_added": "2025-11-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 13",
-      "url": "https://open.spotify.com/track/1buiIaSSMetSAW3guTSRFO"
-    },
-    {
-      "album": {
         "name": "Trandafiri",
         "url": "https://open.spotify.com/album/4eRTS8WqCqG7gBwlywa4J5"
       },
@@ -6670,6 +6652,24 @@
       "duration_ms": 199393,
       "name": "Ultima dat\u0103",
       "url": "https://open.spotify.com/track/7B4J2a2igdWJvS2fTIhOZX"
+    },
+    {
+      "album": {
+        "name": "6 Sim\u021buri",
+        "url": "https://open.spotify.com/album/4DQqn3Pl8tKNiuDv8kbfB6"
+      },
+      "artists": [
+        {
+          "name": "IRAIDA",
+          "url": "https://open.spotify.com/artist/4vlWcKDxlW0shCIXLuBuov"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193089,
+      "name": "Ultimul Act De Iubire",
+      "url": "https://open.spotify.com/track/1buiIaSSMetSAW3guTSRFO"
     },
     {
       "album": {

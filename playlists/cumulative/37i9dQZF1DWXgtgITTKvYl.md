@@ -2,9 +2,9 @@
 
 ### [Prog Rock](https://open.spotify.com/playlist/37i9dQZF1DWXgtgITTKvYl)
 
-> A collection of best Prog Rock tracks\. Cover: Dream Theater
+> A collection of the best recent Prog Rock tracks\. Cover: Weather Systems
 
-465 songs - 1 day 17 hr 21 min
+467 songs - 1 day 17 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [Have a Cigar \- Live From Prague May 2023](https://open.spotify.com/track/1fJvOYN7pWDl9rYYm6p3Oy) | [Roger Waters](https://open.spotify.com/artist/40DqL6Tv84cKT2pH2NMs9r) | [Have a Cigar \(Live From Prague May 2023\)](https://open.spotify.com/album/05vEKdjSlt1pE4sZNw0W3L) | 5:14 | 2025-07-18 |  |
 | [Hazard](https://open.spotify.com/track/10KlXJAkq44AjU3Tj8LKwl) | [Long Distance Calling](https://open.spotify.com/artist/3SiCxhceGZgzusCLHd4Zz6) | [Hazard](https://open.spotify.com/album/4iCjBIOD626agMphqSZo0q) | 6:08 | 2022-05-20 | 2024-09-13 |
 | [Hazard](https://open.spotify.com/track/3kBTxzdPJzP399hYP9BoaW) | [Long Distance Calling](https://open.spotify.com/artist/3SiCxhceGZgzusCLHd4Zz6) | [How Do We Want to Live?](https://open.spotify.com/album/248Nx17GVrcWKjDH8JKqGm) | 6:08 | 2022-05-20 | 2024-04-19 |
+| [Hazard \- Live at Lichtburg](https://open.spotify.com/track/1dEqLZDWOqMHTw5wEaiVc8) | [Long Distance Calling](https://open.spotify.com/artist/3SiCxhceGZgzusCLHd4Zz6) | [Hazard \(Live\)](https://open.spotify.com/album/4V3f6CCyTgHC9G1rIe1OD5) | 6:21 | 2025-11-21 |  |
 | [Heartbeat \- Live in Fréjus](https://open.spotify.com/track/31gH3jGEwA9R8uzznh7zln) | [King Crimson](https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi) | [SHELTERING SKIES \(Live in Fréjus, August 27th 1982\)](https://open.spotify.com/album/50PE5AvcgV0Ro1OkHWUotV) | 4:09 | 2024-09-19 | 2024-10-05 |
 | [Heathen](https://open.spotify.com/track/3zc7Jwhc1nkgtGmk2qTDjq) | [Odd Palace](https://open.spotify.com/artist/37uxqGJqY0W4XMMkrMFWwV), [Chaosbay](https://open.spotify.com/artist/7GNTvmIi6DDF2XDJKYKoUk) | [Heathen](https://open.spotify.com/album/3FoSgaXrhCv2qNQX9iuOJh) | 5:10 | 2025-02-14 | 2025-04-19 |
 | [Heavy Pencil](https://open.spotify.com/track/65442wX7TIwgEeCkfLzKwT) | [Rosalie Cunningham](https://open.spotify.com/artist/2DvBNcZ05NC2AOuQa7oyqH) | [Heavy Pencil](https://open.spotify.com/album/3D65iVReaZlywzm7NzvFav) | 6:29 | 2024-10-18 | 2024-11-30 |
@@ -209,6 +210,7 @@
 | [KING GHOST](https://open.spotify.com/track/1sNEW5TWdN1Et70SwaTi7o) | [Steven Wilson](https://open.spotify.com/artist/4X42BfuhWCAZ2swiVze9O0) | [THE FUTURE BITES](https://open.spotify.com/album/76hVw7WdMkDylaMlW0X8Ol) | 4:06 | 2022-05-20 | 2024-04-19 |
 | [KING GHOST](https://open.spotify.com/track/42c46DbtEW7AKJijbfhZmd) | [Steven Wilson](https://open.spotify.com/artist/4X42BfuhWCAZ2swiVze9O0) | [THE FUTURE BITES \(Deluxe Edition\)](https://open.spotify.com/album/0tHQTsZepeMpMqgtBdaFRx) | 4:06 | 2022-05-20 | 2022-11-13 |
 | [Knuckledragger](https://open.spotify.com/track/3ut1Ywcb4pyHF1X5gqr6cX) | [Devin Townsend](https://open.spotify.com/artist/6uejjWIOshliv2Ho0OJAQN) | [PowerNerd \(Commentary Version\)](https://open.spotify.com/album/0YfOoDfixgytscAEf7NP0K) | 4:30 | 2024-10-25 | 2024-12-14 |
+| [Kunoichi](https://open.spotify.com/track/0EhM01UL4meyD3VxETA089) | [Mariko Muranaka](https://open.spotify.com/artist/6fq7JvH0T63V1KPNxrBraE) | [Kunoichi](https://open.spotify.com/album/0WBV6DmDjFU0Bkofuz52lM) | 4:17 | 2025-11-21 |  |
 | [La tentazione \- Live](https://open.spotify.com/track/0IGLtKd0YHN30FtDl6HHLt) | [Premiata Forneria Marconi](https://open.spotify.com/artist/1MD5pgVzlusqGyuSTcTxvu), [Flavio Premoli](https://open.spotify.com/artist/0OH2VdtwkLYjFA5vDsR1fV), [Michele Ascolese](https://open.spotify.com/artist/6lytT2YTJDdkJak5xRf8X4), [Luca Zabbini](https://open.spotify.com/artist/7rIb443J3zLJx9DYSkfiBZ) | [PFM CANTA DE ANDRE’ ANNIVERSARY \(Live\)](https://open.spotify.com/album/0vct6cVxRpmdf3Zt81G8CZ) | 1:27 | 2025-02-28 | 2025-04-19 |
 | [Late Last Night](https://open.spotify.com/track/6UTGHpoGCDgmuv5pmXKNyl) | [Split Enz](https://open.spotify.com/artist/0Upmz8QvuLAkKAfRlJYWTL) | [Second Thoughts](https://open.spotify.com/album/0MukNPVx40QGmyERRH7GsC) | 4:02 | 2025-11-14 |  |
 | [Let Live](https://open.spotify.com/track/0VAhTIvmImCQIFZQ6c84EF) | [Arc Of Life](https://open.spotify.com/artist/16AG8WDe6yBOQGX5kQ2P7C) | [Let Live](https://open.spotify.com/album/6KOWUUSnfWznHtIuIP9eLC) | 6:25 | 2024-09-13 | 2024-10-12 |
@@ -229,7 +231,7 @@
 | [Lost Continent \(feat\. Thomas Giles\)](https://open.spotify.com/track/5M9PMGUOk7BR0wiYTJYgYW) | [Tiktaalika](https://open.spotify.com/artist/0oVgaKls3BQj3XoJbjnDJV), [Charlie Griffiths](https://open.spotify.com/artist/6jTFgiXjEiywkGfe44VwBZ), [Thomas Giles](https://open.spotify.com/artist/2Zw1EFe4lg5AnxlJ3pOvvN) | [Lost Continent \(feat\. Thomas Giles\)](https://open.spotify.com/album/7hujLm3UmK3tcAhsuTYC0o) | 9:09 | 2025-02-14 | 2025-06-07 |
 | [Lost In Space](https://open.spotify.com/track/0UHadqfTu8zVReXjLZDo7s) | [Hawklords](https://open.spotify.com/artist/0N8rhjytnqVsz7IWQ9pJ3Q) | [Space](https://open.spotify.com/album/35qTVuxGMe5WGxQOiKVWdn) | 7:10 | 2024-09-08 | 2024-10-19 |
 | [Love Is the Light](https://open.spotify.com/track/46lxaVFH4hZpiemf6Rx1qd) | [Big Big Train](https://open.spotify.com/artist/68VJJPVAVNAmwsDDf1i70g) | [Love Is the Light](https://open.spotify.com/album/2sYp33SSbXgdEGmyboXVWO) | 6:11 | 2024-09-06 | 2024-10-12 |
-| [Love Weapon](https://open.spotify.com/track/0YWKzSTSpRTjdQp1Wmym4M) | [Astronoid](https://open.spotify.com/artist/2S13OV7nLeciVigE0Wxo7E) | [Love Weapon](https://open.spotify.com/album/4XbIcl1VoAf9T8OTWkYdfv) | 4:40 | 2025-10-24 |  |
+| [Love Weapon](https://open.spotify.com/track/0YWKzSTSpRTjdQp1Wmym4M) | [Astronoid](https://open.spotify.com/artist/2S13OV7nLeciVigE0Wxo7E) | [Love Weapon](https://open.spotify.com/album/4XbIcl1VoAf9T8OTWkYdfv) | 4:40 | 2025-10-24 | 2025-11-22 |
 | [Lovers' Leap](https://open.spotify.com/track/79MLUDVaih5Rck23zNOUJg) | [Elbow](https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk) | [AUDIO VERTIGO](https://open.spotify.com/album/7EpaPuPMFIwVLkEWz3gvSK) | 4:34 | 2024-10-18 | 2025-04-05 |
 | [Luck and Strange \- Live from the Luck and Strange Concerts](https://open.spotify.com/track/0HI5R2TXzruCnEZ53Mzstv) | [David Gilmour](https://open.spotify.com/artist/2FcC4sDMXme2ziI7tGKMK8) | [Luck and Strange \(Live from the Luck and Strange Concerts\)](https://open.spotify.com/album/227rKW6kgGlCYTUExnEn7n) | 5:55 | 2025-08-22 |  |
 | [Lullaby \- alt version](https://open.spotify.com/track/50iWhlN7eP9HjqGmXVRkh5) | [Peacock Affect](https://open.spotify.com/artist/6qV8wDBsPgPx9WUcNImn69) | [Lullaby \(alt version\)](https://open.spotify.com/album/0sf7rEQjHTjvlYz2ANtFyw) | 4:59 | 2025-02-21 | 2025-03-15 |
@@ -303,7 +305,7 @@
 | [Return Of The Ellington](https://open.spotify.com/track/5lkokZ1j4iAdjI2a244LCj) | [Rosalie Cunningham](https://open.spotify.com/artist/2DvBNcZ05NC2AOuQa7oyqH) | [Return Of The Ellington](https://open.spotify.com/album/0Bm3jXwKOJZkawHIwsm34N) | 4:29 | 2024-09-08 |  |
 | [Revel in Time](https://open.spotify.com/track/2CmQeA8YUtZDMp2tUsuqj1) | [Arjen Anthony Lucassen's Star One](https://open.spotify.com/artist/1W5pfX7IGyw9wCmfARg1pi) | [Revel in Time](https://open.spotify.com/album/4F4zzCVXkFuDiH9pnf88Jk) | 4:37 | 2022-05-20 | 2024-09-28 |
 | [Revelation: The Infinite Beauty Of Oneness](https://open.spotify.com/track/71U2oAgK3YRWsSG1Lz9NGa) | [Eidola](https://open.spotify.com/artist/3z8aGzEIL6yA1mFXNFf9E3) | [Mend](https://open.spotify.com/album/3HcKNLwUqCrMcX0fqqkp7W) | 3:56 | 2025-01-17 | 2025-02-01 |
-| [Ricochet](https://open.spotify.com/track/0OkM9jbbx0eNsl9HuYOe5W) | [Tom Anello](https://open.spotify.com/artist/4vk7AwwGqVSHkpMeZOyxmM) | [Ricochet](https://open.spotify.com/album/624DVzlyuym7yCeLqv582q) | 4:59 | 2025-10-24 |  |
+| [Ricochet](https://open.spotify.com/track/0OkM9jbbx0eNsl9HuYOe5W) | [Tom Anello](https://open.spotify.com/artist/4vk7AwwGqVSHkpMeZOyxmM) | [Ricochet](https://open.spotify.com/album/624DVzlyuym7yCeLqv582q) | 4:59 | 2025-10-24 | 2025-11-22 |
 | [Right Way Back](https://open.spotify.com/track/0GWtq4OpB8fylZWRnrYuwS) | [Crown Lands](https://open.spotify.com/artist/0MnazDWzh4tAnT5y4vWZFr) | [Context: Fearless Pt\. I \(Live Expanded\)](https://open.spotify.com/album/6m92p6SwyPE78eIw45rtpO) | 3:51 | 2022-05-20 | 2023-04-03 |
 | [Right Way Back](https://open.spotify.com/track/3ErQbRuLdafRrhIf8Ceefa) | [Crown Lands](https://open.spotify.com/artist/0MnazDWzh4tAnT5y4vWZFr) | [Discover Crown Lands](https://open.spotify.com/album/2H8QnNAriPg1S0X5R45Itq) | 3:51 | 2022-05-20 | 2023-02-23 |
 | [Right Way Back](https://open.spotify.com/track/46qQdaM52TFsJRqNG5Rbh7) | [Crown Lands](https://open.spotify.com/artist/0MnazDWzh4tAnT5y4vWZFr) | [Context: Fearless Pt\. I](https://open.spotify.com/album/5Hv75h9ATVdHeQgKvrXFTI) | 3:51 | 2022-05-20 | 2024-09-13 |

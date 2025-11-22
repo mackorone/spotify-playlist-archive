@@ -4,7 +4,7 @@
 
 > The best new pop music from new, independent artists\.  Cover: ili\. Artwork by Paola Saliby
 
-4,323 songs - 9 day 4 hr 16 min
+4,325 songs - 9 day 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Air](https://open.spotify.com/track/4n73tZIQt1h4Fp4YU68eDP) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [Air](https://open.spotify.com/album/2VRyPaFCaZiIaIDC3ZS6fO) | 3:15 | 2020-10-29 | 2020-11-18 |
 | [Air](https://open.spotify.com/track/3hoRBtUhPCjE2v5hgVlrHT) | [Stereo Match](https://open.spotify.com/artist/1WOS3YDSaBtgPGGybAkDOy) | [Air](https://open.spotify.com/album/6efoAUBS3JbxQReghYWnPM) | 2:48 | 2020-11-12 | 2020-12-08 |
 | [Aladdin](https://open.spotify.com/track/3lR9hr5me9wNQlS0n7DBkP) | [Dounia](https://open.spotify.com/artist/4fJsnm9CeDAPrwO4MAEToj) | [Aladdin](https://open.spotify.com/album/28kK6ooHyAOAHTE7o9wBYk) | 2:38 | 2023-06-28 | 2023-08-31 |
+| [Alcohol](https://open.spotify.com/track/7knB6NUQFwmKEBroRiLsQ1) | [Kerr Mercer](https://open.spotify.com/artist/5sCWBXe11vVgkSogU1jq5x) | [Alcohol](https://open.spotify.com/album/0hYcs0BNcfioP8zWglC9zt) | 3:19 | 2025-11-21 |  |
 | [Alibi](https://open.spotify.com/track/7A9aASmJF3GtnBBri3Km23) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [Come Around EP](https://open.spotify.com/album/4VQebFp9TEuKOaCu5lUUrC) | 3:48 | 2021-01-28 | 2021-02-25 |
 | [Alice](https://open.spotify.com/track/7go4whTIsUM6GirLCZ9bTe) | [Connie Campsie](https://open.spotify.com/artist/27ypqOvpNc3CXggjLJNfFs) | [Alice](https://open.spotify.com/album/4V2iBuhAVo7h7jMuwkwFTo) | 4:24 | 2024-11-27 | 2024-12-05 |
 | [Alien](https://open.spotify.com/track/2BnikiNsfMLff11ZBSiB0X) | [Abby Bella May](https://open.spotify.com/artist/7wMih0kHtN3mLG2I93WXH8) | [I Am Sensitive](https://open.spotify.com/album/0wmate5GtFGBiqSesOxHUs) | 2:47 | 2021-05-06 | 2021-05-27 |
@@ -2421,7 +2422,7 @@
 | [Making Moves](https://open.spotify.com/track/5Btegk7YVy1hDXOMnppzdE) | [Dani Doucette](https://open.spotify.com/artist/2alhJ7s3IXafk9N2mGHYF2) | [Run With Me](https://open.spotify.com/album/6gQqpPllmsD3tplkVu7R4n) | 2:57 | 2022-01-19 | 2022-02-24 |
 | [Malibu](https://open.spotify.com/track/0eX9k2Geqgwo3wwmyauc9l) | [Emma Bradley](https://open.spotify.com/artist/5xYIRSJkHjlWgZidBISyzk) | [Malibu](https://open.spotify.com/album/5OCChixFi8WK1Jr3YwLe28) | 3:16 | 2021-07-29 | 2021-08-20 |
 | [Man Can't Hang](https://open.spotify.com/track/6PKJtln8cRT0aleqwc2yND) | [Berry Galazka](https://open.spotify.com/artist/7mFqFwW9MO8lR3c28qLUFI) | [Man Can't Hang](https://open.spotify.com/album/3AHv5noXmxcjPZTXfS7jiq) | 3:18 | 2020-12-03 | 2020-12-08 |
-| [Man's World](https://open.spotify.com/track/4AymkUWB8IZVqciduELA1Y) | [kitty bella](https://open.spotify.com/artist/3dDsAxEGXIESY6puCA7YKz) | [Man's World](https://open.spotify.com/album/2VXnH7290GOXo2APenSgoj) | 2:41 | 2025-08-27 |  |
+| [Man's World](https://open.spotify.com/track/4AymkUWB8IZVqciduELA1Y) | [kitty bella](https://open.spotify.com/artist/3dDsAxEGXIESY6puCA7YKz) | [Man's World](https://open.spotify.com/album/2VXnH7290GOXo2APenSgoj) | 2:41 | 2025-08-27 | 2025-11-22 |
 | [Mango](https://open.spotify.com/track/4JwEh2qc8xD6dkjkSJEMOM) | [Jean.](https://open.spotify.com/artist/2zJvqNRTYmSVh9ZMTWtIWs) | [Mango](https://open.spotify.com/album/6TZpNAXduR10dhnuul4g0Q) | 2:54 | 2020-10-13\* | 2020-11-18 |
 | [Manhattan](https://open.spotify.com/track/6jTY0p9FZYHcAa4duxmH4i) | [Grace Conheady](https://open.spotify.com/artist/33wGk4b3Nvz3NyYNkEEZdt) | [Things You Misheard](https://open.spotify.com/album/3rQZC13UlZvf7T9y1PvooF) | 3:57 | 2021-03-11 | 2021-04-08 |
 | [MANIA \(Where Them Girls At\)](https://open.spotify.com/track/40LVJ90t5mx8QahB4NZ5Aj) | [Emily Mei](https://open.spotify.com/artist/3PPvyQnDRHIwwzCWwONgRk) | [MANIA \(Where Them Girls At\)](https://open.spotify.com/album/3kZmSotBzwMnxCloeG7qfZ) | 2:16 | 2023-08-02 | 2023-10-12 |
@@ -3226,7 +3227,7 @@
 | [Safe & Sound](https://open.spotify.com/track/1DRYQw4p4ZFWAqeR0zUfqA) | [RLY](https://open.spotify.com/artist/0RVUtBjAbz5T90n26psVHJ) | [Safe & Sound](https://open.spotify.com/album/2G3XbmCG2vnASKfxfRbvps) | 2:54 | 2024-02-14 | 2024-05-02 |
 | [Safe For Another Day](https://open.spotify.com/track/6hMIlCVxfh93G65HTthxwQ) | [Surely Shirley](https://open.spotify.com/artist/1X6Wtc4LhhMVsG78I869pB) | [Safe For Another Day](https://open.spotify.com/album/5lFIiWu2PSgEIETJ77dBJ7) | 3:06 | 2025-06-18 | 2025-08-21 |
 | [Safe Mode](https://open.spotify.com/track/2M9hxjASSb3sK15wGGQ6m0) | [phonewifey](https://open.spotify.com/artist/3UrSRgbnWzDJsDNVFMaDP8), [heartcoregirl](https://open.spotify.com/artist/7960LxQdTI7IV0kSh08Mxh) | [Phoneveryone](https://open.spotify.com/album/7dv1fgeNI3If9mcGmoNsJE) | 1:32 | 2020-10-13\* | 2020-10-22 |
-| [Safe Place](https://open.spotify.com/track/0N7ewrP0Ic48F6JXf3KD75) | [Dani Marchio](https://open.spotify.com/artist/2lbntvM1QPq5hj4x3HO1dT) | [Safe Place](https://open.spotify.com/album/43YF5gRKgG7JtA5IzXOFmr) | 3:13 | 2025-09-03 |  |
+| [Safe Place](https://open.spotify.com/track/0N7ewrP0Ic48F6JXf3KD75) | [Dani Marchio](https://open.spotify.com/artist/2lbntvM1QPq5hj4x3HO1dT) | [Safe Place](https://open.spotify.com/album/43YF5gRKgG7JtA5IzXOFmr) | 3:13 | 2025-09-03 | 2025-11-22 |
 | [Safe Places](https://open.spotify.com/track/0877TMacBX9bM5cHZg6c3Q) | [Cassidy King](https://open.spotify.com/artist/04igiyo2E7vg7FxMxoTsIR) | [Safe Places](https://open.spotify.com/album/1bNGqBNK8ZqjmfRm843y1E) | 3:07 | 2020-10-13\* | 2020-11-12 |
 | [Safeword](https://open.spotify.com/track/5YD8ZKRVx9au36tfplEi9S) | [Siena Liggins](https://open.spotify.com/artist/5DLTBcpdWQsAPeN1t8PZv9) | [Safeword](https://open.spotify.com/album/0BNaRmrTBP4AvNDidu4QI9) | 2:41 | 2021-01-15 | 2021-02-10 |
 | [Sage](https://open.spotify.com/track/538NTj2XofLaddz3jCm6Vh) | [Jessica Andrea](https://open.spotify.com/artist/3cxjLPoupULWAW15bgjkgl) | [Sage](https://open.spotify.com/album/7v8Cj9MAnn70r7lU2x6bVj) | 2:52 | 2023-07-19 | 2023-09-21 |
@@ -3819,6 +3820,7 @@
 | [thin](https://open.spotify.com/track/0gTl3KCfmI8tk4h4ZeHac5) | [Jewel Owusu](https://open.spotify.com/artist/6juZJy9PxiYX2EhuxW4AzW), [Aria Wood](https://open.spotify.com/artist/14ttCeIGTAIP1aU9ftwtlK) | [Jool Wave](https://open.spotify.com/album/0lG11UlUDFGQIOyVaOW3ns) | 2:49 | 2024-05-08 | 2024-07-25 |
 | [Thing For You](https://open.spotify.com/track/5suy4kzP9HFYs468dPVdRo) | [Zoe A'dore](https://open.spotify.com/artist/3LGngRo9kg4ETVaiRQ0ZgY) | [Thing For You](https://open.spotify.com/album/4ABTbFxYXfuFCXmtjSLgsl) | 3:14 | 2022-10-19 | 2022-12-01 |
 | [Things Changed](https://open.spotify.com/track/2Yte4JdWO3y8diS3EIlDgX) | [The Sunshine State](https://open.spotify.com/artist/7fvI8ORZUF64qlb2GDcDQ7) | [Things Changed](https://open.spotify.com/album/1U7YDj8Ir8NT5JoSFMpY0Y) | 3:05 | 2021-01-21 | 2021-02-25 |
+| [Think About U Lots](https://open.spotify.com/track/0obpw5cKWbMCTvDhIuP3OU) | [Elise Elvira](https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU) | [Think About U Lots](https://open.spotify.com/album/6iAhu9llD9clQtdAbc4v6m) | 3:34 | 2025-11-21 |  |
 | [Think About You](https://open.spotify.com/track/5sMNeg0MEPWlpbjwCg2gRH) | [Julyan](https://open.spotify.com/artist/10ifu6MiIcrhdrUEWJsACG) | [Think About You](https://open.spotify.com/album/4L8dQDEmy0CCN0ZonRAthg) | 3:21 | 2024-01-24 | 2024-03-14 |
 | [Think of Me](https://open.spotify.com/track/62olnWXB7ONzHNxl1a7rfl) | [Olivia Lunny](https://open.spotify.com/artist/7542b5kIvrKX0Zvp5iNpl9) | [Think of Me](https://open.spotify.com/album/68JzTAX39j4VepkHWSiMkf) | 2:46 | 2020-10-13\* | 2020-12-08 |
 | [Think of Me](https://open.spotify.com/track/6EivH7qIBOuTdTLzBt850q) | [Olivia Lunny](https://open.spotify.com/artist/7542b5kIvrKX0Zvp5iNpl9) | [Think of Me](https://open.spotify.com/album/04HY5BLJPd0tXVl9XLpvXL) | 2:46 | 2020-12-08 | 2021-01-15 |

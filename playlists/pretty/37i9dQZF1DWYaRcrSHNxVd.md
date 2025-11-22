@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaRcrSHNxVd.md) - [plain]
 
 > Songs to skate to, curated by Joey Valence & Brae.
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,464 likes - 53 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,506 likes - 53 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaRcrSHNxVd.md) - [plain]
 | 20 | [Born 2 Run](https://open.spotify.com/track/4eDqmfDS7Mvxt24OflBahk) | [Angel Du$t](https://open.spotify.com/artist/2ynylCO9SRPTKjgNEH0Y2a), [Mary Jane Dunphe](https://open.spotify.com/artist/3nHn9XdKWpfNmG7JWm1ous) | [BRAND NEW SOUL](https://open.spotify.com/album/1shl6JL6IJcBat7yMjydU5) | 2:57 |
 | 21 | [Brand New 911](https://open.spotify.com/track/1SJnJJmrqRyE8YSdhEtbPv) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [2000](https://open.spotify.com/album/261LWEVYViMXijB95mAty3) | 2:58 |
 | 22 | [LIKE A PUNK](https://open.spotify.com/track/3fUE4NqBEGEK1mkOjiFZY1) | [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [NO HANDS](https://open.spotify.com/album/1Fjelo0jZ4i1iQZBsK0pOA) | 2:24 |
-| 23 | [Imported Goods](https://open.spotify.com/track/697zIbTO0LMhupzGblYREm) | [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ) | [Imported Goods](https://open.spotify.com/album/0TWaxeD5IGNBOsUHOj9u0K) | 4:09 |
+| 23 | [](https://open.spotify.com/track/697zIbTO0LMhupzGblYREm) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0TWaxeD5IGNBOsUHOj9u0K) | 0:00 |
 | 24 | [Disco Crimson](https://open.spotify.com/track/00TazEoB0bLPQMkGOslGlp) | [CQ](https://open.spotify.com/artist/7HNhnD4Yu2sJWyvWbRyc2e) | [Communication, Cultural, Curiosity Quotient](https://open.spotify.com/album/2SjH6VMdKVKYDKl6MD4Yio) | 4:29 |
 | 25 | [911 / Mr\. Lonely \(feat\. Frank Ocean & Steve Lacy\)](https://open.spotify.com/track/4bEcoz1OcfMgUbp2ft8ieQ) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Flower Boy](https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o) | 4:15 |
 | 26 | [Big Bite](https://open.spotify.com/track/1spcxCuG44zHTjsnT7Kz6p) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [Gang Called Speed](https://open.spotify.com/album/5ljbyvB849hG4T629j6mzB) | 1:58 |

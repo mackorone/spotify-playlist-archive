@@ -1,13 +1,29 @@
 {
   "description": "we got you. Cover: Post Malone",
-  "num_followers": 129776,
+  "num_followers": 129821,
   "original_name": "sad boy anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABYVtBpWR3AxX/tUaviunzrUxNv0",
+  "snapshot_id": "AAAAAKHTpes8FEGde6TAuxy/C9168R/A",
   "tracks": [
+    {
+      "added_at": "2025-11-21 05:00:27",
+      "album": {
+        "name": "A PERFECT WORLD",
+        "url": "https://open.spotify.com/album/1wdk3yKTc0PajYK7vLS8t4"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 187826,
+      "name": "A PERFECT WORLD",
+      "url": "https://open.spotify.com/track/248bSDOWnpNQtANZbpMH0Y"
+    },
     {
       "added_at": "2025-11-14 05:00:27",
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Motion & good vibes! Cover: KM & Idaly ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,820 likes - 75 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,808 likes - 75 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 | 6 | [Doorgaan](https://open.spotify.com/track/6i1dClWdhk2YOzMub46GIg) | [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl), [Youka](https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6) | [Doorgaan](https://open.spotify.com/album/78q10w3Nr8ZvjWurYd7JnK) | 2:38 |
 | 7 | [COMMAS](https://open.spotify.com/track/1RVBT05e3P6vtziIXxTfZB) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [COMMAS](https://open.spotify.com/album/1CakmnCXgQWuCsIQhDVQB1) | 2:52 |
 | 8 | [La Nostra Gigi](https://open.spotify.com/track/4INwyQpPaIBW5UeZcaOlpQ) | [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q), [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC), [Dylisa](https://open.spotify.com/artist/1EZhPZUiU6c52gOAZLIcR2) | [La Nostra Gigi](https://open.spotify.com/album/1X50uSbMgyZ53jPgFgxFET) | 2:05 |
-| 9 | [Dis\-moi](https://open.spotify.com/track/2Xv8PNeeu80fyj4kBVGPvp) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Destinée](https://open.spotify.com/album/33V05j22TgtWOJ5OvREj1p) | 2:27 |
+| 9 | [Dis\-moi \(feat\. Shenseea\)](https://open.spotify.com/track/2Xv8PNeeu80fyj4kBVGPvp) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Destinée](https://open.spotify.com/album/33V05j22TgtWOJ5OvREj1p) | 2:26 |
 | 10 | [BEBI](https://open.spotify.com/track/70klciBek95qMq7KiDX7zE) | [Kish](https://open.spotify.com/artist/2gVFsWpxGngHu7qbYbj8Ci), [JEY BROWNIE](https://open.spotify.com/artist/7kaoO6sl3TKJ6p31PxqubZ) | [BEBI](https://open.spotify.com/album/6xYI6GSAY1MbBqPy9Xi7oZ) | 2:15 |
 | 11 | [Bad Habits](https://open.spotify.com/track/4UUh6WPTCy0l3BY6pvMOcL) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Bad Habits](https://open.spotify.com/album/6qsQ0MJsBfRYuG8lTz7ncT) | 2:51 |
 | 12 | [Bad Gyal](https://open.spotify.com/track/3cBQoYnSaPeMrE7LCgajOY) | [Shaz](https://open.spotify.com/artist/4SINBSA4jou9ptE88AYQE9), [Kalibwoy](https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x) | [Bad Gyal](https://open.spotify.com/album/0AwHLm7iIWUNPsyErLjrR3) | 2:44 |

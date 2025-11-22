@@ -4,7 +4,7 @@
 
 > For parents and kids of all ages, add some Disney Magic to bedtime routines with soothing and relaxing renditions of timeless Disney music from Frozen, Winnie the Pooh and more.
 
-244 songs - 12 hr 31 min
+245 songs - 12 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Mickey Mouse Clubhouse Theme](https://open.spotify.com/track/6PsshaEg0aa2OgB4xiD01b) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I) | [Disney Junior Music: Lullabies Vol\. 1](https://open.spotify.com/album/6CPPr8LjolXUFAiEMiLQgb) | 1:25 | 2022-04-15 |  |
 | [Movin' Right Along](https://open.spotify.com/track/3B9y94mviI5jHtjiSv6UyP) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN) | [Disney Peaceful Piano: Focus](https://open.spotify.com/album/2M12PscQNEqhVaKd2wu1d9) | 3:06 | 2023-08-11 |  |
 | [Muppet Babies Theme 2018](https://open.spotify.com/track/2nvNhtBQmzW1SfclVIsvqG) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I) | [Disney Junior Music: Lullabies Vol\. 1](https://open.spotify.com/album/6CPPr8LjolXUFAiEMiLQgb) | 1:26 | 2022-04-15 |  |
+| [My Precious](https://open.spotify.com/track/4JAJ77rtgu11SLh62tuSHL) | [Takumi Ozawa](https://open.spotify.com/artist/1NQkgqMxvToZfnBnZw745K) | [Disney Twisted\-Wonderland: The Animation \- Episode of Heartslabyul \(Original Soundtrack/Vol\. 1\)](https://open.spotify.com/album/7xmuKA1ep4B4MQTnhDkWor) | 1:58 | 2025-11-22 |  |
 | [Nothing Else Matters \- Jungle Cruise Version Part 1](https://open.spotify.com/track/4PGBgDZAcUpAapDtfdX5Np) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2), [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Jungle Cruise \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0QVHqbXNWF56DkR6gv1jgq) | 1:26 | 2022-04-15 |  |
 | [Nowhere to Go But Up](https://open.spotify.com/track/6UIUumGM96FmXKtMuDibZS) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Joy](https://open.spotify.com/album/2zMoXnyQRqwvMRdIyNmTSb) | 3:52 | 2022-04-15 |  |
 | [Once Upon a Dream](https://open.spotify.com/track/1jHNQodYIGvk187xrISw1i) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Lullaby](https://open.spotify.com/album/3TRzs2Bn8dm6oHqt2LpR6z) | 1:49 | 2022-04-15 |  |
@@ -190,7 +191,7 @@
 | [Surface Pressure](https://open.spotify.com/track/5TNMmzNJ6YicGTn0CO49ND) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Spirit](https://open.spotify.com/album/2UsDLgxVOmCtsiUsUBcCnJ) | 3:26 | 2022-04-15 |  |
 | [T.O.T.S\. Main Title](https://open.spotify.com/track/510i6uuZJ4ctIAFoqEd3EU) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I) | [Disney Junior Music: Lullabies Vol\. 1](https://open.spotify.com/album/6CPPr8LjolXUFAiEMiLQgb) | 1:23 | 2022-04-15 |  |
 | [The Bare Necessities \- Instrumental](https://open.spotify.com/track/747WbLmzVVbiNDMx2LL9Ic) | [Fred Mollin](https://open.spotify.com/artist/0qPfO5FCAsfqK3pgqBSAJR) | [Disney Sleepytime Lullabies](https://open.spotify.com/album/4pHb2LkBfPjbMlkGWISDF6) | 1:31 | 2022-04-15 |  |
-| [The Book of Boba Fett](https://open.spotify.com/track/6Ji8t0bxnkUOwGqsDJQNOL) | [Lucky West](https://open.spotify.com/artist/7EW4xaFyScvYnw467VuHQp), [Star Wars Lofi](https://open.spotify.com/artist/1NLRuDIBQZ0DIM31Kb0b6N) | [Star Wars Lofi: Vol\. 6](https://open.spotify.com/album/2XYVQ8P3elSkxF7Gxl9poe) | 2:55 | 2025-11-14 |  |
+| [The Book of Boba Fett](https://open.spotify.com/track/6Ji8t0bxnkUOwGqsDJQNOL) | [Lucky West](https://open.spotify.com/artist/7EW4xaFyScvYnw467VuHQp), [Star Wars Lofi](https://open.spotify.com/artist/1NLRuDIBQZ0DIM31Kb0b6N) | [Star Wars Lofi: Vol\. 6](https://open.spotify.com/album/2XYVQ8P3elSkxF7Gxl9poe) | 2:55 | 2025-11-14 | 2025-11-22 |
 | [The Climb](https://open.spotify.com/track/4fZbCZw88MklDHdKnN6sVw) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Blissful](https://open.spotify.com/album/7kFYl7LzfMz29lwsDyh2bf) | 2:54 | 2022-04-15 |  |
 | [The Climb](https://open.spotify.com/track/2DiEazonuoT1dILJshK30F) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN) | [Disney Peaceful Piano: Mellow](https://open.spotify.com/album/4ovr3kfZ5mYWOgC7AJzdOC) | 4:31 | 2023-09-15 |  |
 | [The Family Madrigal](https://open.spotify.com/track/1gstHbv6e2ECve1q1DoX3a) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Magical](https://open.spotify.com/album/4xnI8sxQwIRvsfAHXIvEIH) | 3:12 | 2022-04-15 | 2022-12-09 |

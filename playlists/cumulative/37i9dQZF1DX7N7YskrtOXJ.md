@@ -4,7 +4,7 @@
 
 > La fiesta se enciende con cumbia.
 
-248 songs - 14 hr 59 min
+249 songs - 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Baila Mi Cumbia](https://open.spotify.com/track/3CnrAQkvSrWxFcKiXW46Lp) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o), [Kitra](https://open.spotify.com/artist/5FXik3bAr5hw3toDNlr0Qk) | [En El Ojo Del Huracán](https://open.spotify.com/album/6BvsB3GWe7LlRBZyK5nBAQ) | 3:48 | 2023-08-25 | 2024-02-28 |
 | [Bailando](https://open.spotify.com/track/2COA1HMAeHeVrJy1wiWCIb) | [El Bloque 8](https://open.spotify.com/artist/6nX2IctRER6z2UkUmJvpE9) | [Bailando](https://open.spotify.com/album/5GrutseWcq6gyu9n7Z5km2) | 2:07 | 2023-08-25 | 2024-02-28 |
 | [Bailando Como Mono](https://open.spotify.com/track/7GOBsKucPG5Bh8qzStmrQ6) | [La Floripondio](https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL) | [Dime Qué Pasa](https://open.spotify.com/album/4DifRQy4Dyey9NSS7ywnEx) | 3:06 | 2024-03-29 | 2025-08-09 |
+| [Bailantero y Parrandero](https://open.spotify.com/track/4UlqjeL20B01ATFJH2c9vK) | [Grupo Sixx](https://open.spotify.com/artist/5tjVTwiojga74Vm263lGwF) | [Bailantero y Parrandero](https://open.spotify.com/album/6odLqxtmdID7FQtwlajjdc) | 3:19 | 2025-11-20 |  |
 | [Bebe Dame / Pobre Corazón](https://open.spotify.com/track/3tggXkSVsQG4yEIfP3obT0) | [Ojos de Luna](https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp) | [Bebe Dame / Pobre Corazón](https://open.spotify.com/album/1SMWZi4LNX3jILzjA9jvmQ) | 4:28 | 2023-08-25 | 2025-04-02 |
 | [Bombón Asesino](https://open.spotify.com/track/1L1OiIKida2TyKsb310EAg) | [Combo Ginebra](https://open.spotify.com/artist/2L5b3yHGpn7RQi4wd3vcU2) | [Cumbias de Sangre y Oro](https://open.spotify.com/album/1pxG4hB9LuTke7H7GnrBtm) | 4:06 | 2023-08-25 | 2025-01-27 |
 | [Bonita](https://open.spotify.com/track/2ndfn8f7o94Y33HPcWjyay) | [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Hecho con Amor](https://open.spotify.com/album/7M8zzURI76D1gAX5M0o0bl) | 3:22 | 2024-12-31 |  |
@@ -129,7 +130,7 @@
 | [María](https://open.spotify.com/track/7h8mEgtCXobf4KgPuFvC1x) | [Luis Lambis](https://open.spotify.com/artist/6ouwZ3vbVnP5WIwEMurzJ5) | [Vuelve y Juega](https://open.spotify.com/album/3VREkyPb4HzE8NoQK3zmtS) | 5:57 | 2023-09-15 | 2024-02-28 |
 | [María](https://open.spotify.com/track/05Q4Vtbq6j2U3Hh7e9jqZ5) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o), [Los Mirlos](https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh) | [María](https://open.spotify.com/album/04sPLDpEqjlbU3jZ5IGmzf) | 4:37 | 2023-08-25 | 2024-02-28 |
 | [María Cristina](https://open.spotify.com/track/0SXp6vr9Z2yq80i3rO2nMq) | [Chumbekes](https://open.spotify.com/artist/7hufuXlbL937yf5aWmDL8z) | [Chumbekes](https://open.spotify.com/album/71P6eNcdkbX8UrlYGbcabD) | 3:06 | 2023-08-25 | 2024-02-28 |
-| [Matorrales](https://open.spotify.com/track/4Ps9r2oTq5c60edB1Pj0sn) | [La Guacha](https://open.spotify.com/artist/1XjMUgVvJTqba3Cvsbw1zi) | [Fácil](https://open.spotify.com/album/4NYS5h8qs6oZOwylo3OVBT) | 2:52 | 2025-11-20 |  |
+| [Matorrales](https://open.spotify.com/track/4Ps9r2oTq5c60edB1Pj0sn) | [La Guacha](https://open.spotify.com/artist/1XjMUgVvJTqba3Cvsbw1zi) | [Fácil](https://open.spotify.com/album/4NYS5h8qs6oZOwylo3OVBT) | 2:52 | 2025-11-20 | 2025-11-22 |
 | [Me Acordé de Ti](https://open.spotify.com/track/4uw085GYeRq0JjiVHfEoU4) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [Me Acordé de Ti](https://open.spotify.com/album/7KsHvRwBtuZlGSmAAPNGdi) | 2:54 | 2024-03-29 | 2024-11-08 |
 | [Me Apuñalé](https://open.spotify.com/track/78DakQmH1J5YR1xfOdJsD4) | [Sonora Barón](https://open.spotify.com/artist/3IrgBju6MoDqMqxSUB3zCk) | [Santiago Caliente](https://open.spotify.com/album/5OR9wpC5rXNgRRii8UVIqZ) | 4:15 | 2023-08-25 | 2024-02-28 |
 | [Me Emborrachare](https://open.spotify.com/track/6UmL7VOgbpvvRCGeqJnKrK) | [Jordan](https://open.spotify.com/artist/4wO1Ld1CKjm4vFMNUn7E7k) | [Me Emborracharé](https://open.spotify.com/album/5YfG3oN7ijMQljJo7Z3gBI) | 4:02 | 2023-08-25 |  |

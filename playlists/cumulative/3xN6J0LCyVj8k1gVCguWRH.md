@@ -4,7 +4,7 @@
 
 > The best tracks of 2025\. A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-5,450 songs - 12 day 16 hr 34 min
+5,453 songs - 12 day 16 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -341,6 +341,7 @@
 | [As I Am](https://open.spotify.com/track/6hRrzZJ90DNQdEF1Wu2Mrf) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [I Used To Know Her](https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg) | 4:00 | 2020-08-20 | 2023-08-28 |
 | [as i walk thru the path](https://open.spotify.com/track/1D7jqFLEVZGqpm4yPgxLnp) | [tana](https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV) | [GAULTIER](https://open.spotify.com/album/3gAJr7IDHRv8qZvCDhQiaH) | 1:56 | 2023-03-31 | 2023-04-23 |
 | [As It Was](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:47 | 2022-07-05 | 2023-12-30 |
+| [As Long As You'll Stay](https://open.spotify.com/track/3RcwUz91DYJUFlTsuIeVGQ) | [Braison Cyrus](https://open.spotify.com/artist/6VBgMdUuX6QKDkK7pRLJx0), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [As Long As You'll Stay](https://open.spotify.com/album/3fsPGrtlrEATa73CcQvqsu) | 2:51 | 2025-11-21 |  |
 | [Asc\. Scorpio](https://open.spotify.com/track/13zkVsNIyXsagdlbg7ulWO) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Asc\. Scorpio](https://open.spotify.com/album/2Nsk6k3DXUFJ5sZifoM2fk) | 2:46 | 2021-04-03 | 2021-04-18 |
 | [ASCO.](https://open.spotify.com/track/10kuPao3IycpymSxle1PSP) | [Kairos 8ight](https://open.spotify.com/artist/2rLx6YpFPf9wezm1vN7nQq) | [ASCO.](https://open.spotify.com/album/0ADANL8ewDoFK2YAN6T604) | 3:45 | 2024-09-29 | 2024-10-11 |
 | [Ashes](https://open.spotify.com/track/0KnoUvqj6W5SsE6vqqyzqO) | [Olivoix](https://open.spotify.com/artist/5dkV7cKtTnT8ZWWKC0SOKR) | [GODDESS the EP](https://open.spotify.com/album/6r3U5CbZ0n6IdVQ5WTNm8g) | 4:15 | 2022-04-08 | 2022-04-24 |
@@ -4961,6 +4962,7 @@
 | [Unanswered](https://open.spotify.com/track/0tfqaujsjUExihc2saPJfJ) | [Maggie Reitan](https://open.spotify.com/artist/53DXlWD6ae0k30EAV6t5rk) | [Unanswered](https://open.spotify.com/album/0FEOKPXmxgofum02BTxGWy) | 3:39 | 2024-10-26 | 2024-12-05 |
 | [UNAVAILABLE \(feat\. Musa Keys\)](https://open.spotify.com/track/2kaH2Z8ezDUKf6fNw250rZ) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:49 | 2023-12-29 | 2024-03-08 |
 | [Unbothered](https://open.spotify.com/track/6B846zrpb96Tu0LdjKmT2C) | [Baby Pink](https://open.spotify.com/artist/0P9UnmOrKQ2Vt7OuzBRcGD) | [Unbothered](https://open.spotify.com/album/5pJ21EzLOqEOJDRTayWIJ5) | 2:45 | 2022-11-02 | 2022-11-21 |
+| [Unbroken](https://open.spotify.com/track/6vqvra2XMLIRSQ7E8uMFYl) | [Honeybear, the Band](https://open.spotify.com/artist/1t3BkCQTMTGykNPpmj7drk) | [Unbroken](https://open.spotify.com/album/3j2jb7Oz7Fgn6hl3WUEPTo) | 3:46 | 2025-11-21 |  |
 | [Unchained Melody](https://open.spotify.com/track/2qhASBzpbFhPRtrnZ5lLnz) | [The Righteous Brothers](https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX) | [Just Once In My Life](https://open.spotify.com/album/0oeMysdC6eeivvWbvQ9JNm) | 3:38 | 2023-07-20 |  |
 | [Uncomfortable](https://open.spotify.com/track/2Gf3bS4YXZQMiYi6aA0M2D) | [Peech.](https://open.spotify.com/artist/0WQh63ofwTzWOy1ubiHMdk) | [Out of Order](https://open.spotify.com/album/7l7JBfJpyaGBTbTzil6Exq) | 3:49 | 2021-12-28 | 2022-01-19 |
 | [Unconditional](https://open.spotify.com/track/6XLNIPQFr3pvzO3t4RkKeK) | [Rawle](https://open.spotify.com/artist/09cqv6HqtPlyEdriusHUPe) | [Unconditional](https://open.spotify.com/album/3PykfRDukqakSdqcV1mCHF) | 2:27 | 2025-05-20 | 2025-06-01 |
@@ -5097,6 +5099,7 @@
 | [Wanderman](https://open.spotify.com/track/26QO9YeIU63KxMeeQLiIN7) | [Pacemaker](https://open.spotify.com/artist/1urn2Bdf9W0xMGSUTaail0) | [Wanderman](https://open.spotify.com/album/5QRbHPdF7NESuEaxByRR57) | 3:51 | 2021-11-03 | 2021-11-19 |
 | [Wanna Be \(with Megan Thee Stallion\)](https://open.spotify.com/track/0Izt8MdEU7zDy2hDsm5YkH) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Wanna Be \(with Megan Thee Stallion\)](https://open.spotify.com/album/06VGCe5MitPzT9VuqH4u1C) | 2:36 | 2024-08-12 |  |
 | [Wanna Be Used](https://open.spotify.com/track/4Bht07jlhGHSHZT2ulLHbR) | [Kasey Jo](https://open.spotify.com/artist/31PRbjmfylMCN9VSewdUvG) | [Wanna Be Used](https://open.spotify.com/album/0qASuIOHU62a5lXfacQjKM) | 2:48 | 2024-08-09 | 2024-08-21 |
+| [wanna come over?](https://open.spotify.com/track/26KK6xrA2FJYstKuFBk1fs) | [Kotreena](https://open.spotify.com/artist/4O7IJaPoBRJ95QKiNqbFtp), [Tim Schoene](https://open.spotify.com/artist/6plivVKZcyJSo2YK9dZg2q) | [wanna come over?](https://open.spotify.com/album/3eGZlDznsTNAJ3ukvNrK3Y) | 2:41 | 2025-11-21 |  |
 | [wanna do](https://open.spotify.com/track/4Nxtdw9HdK5lRbTVnqMg3c) | [Zimri](https://open.spotify.com/artist/2E75OsKarvMnuMwNScEkpW) | [wanna do](https://open.spotify.com/album/6nNUzznrlzPLnxovlqbCLJ) | 3:05 | 2022-03-31 | 2022-04-19 |
 | [Wanna See You](https://open.spotify.com/track/6q5dbremJ7EFbztaZ3TRX5) | [R.J.](https://open.spotify.com/artist/30TSAGQzM4LeNrF0o9nqqU) | [Wanna See You](https://open.spotify.com/album/1F4lamEKvDWe198drDhgaw) | 4:43 | 2020-04-18 | 2020-05-06 |
 | [Wannabe](https://open.spotify.com/track/0y2kRlM9kXcWEVY8BGmfUf) | [Shaina](https://open.spotify.com/artist/4f6Ld2fEYNHv5t0LyBochy) | [Wannabe](https://open.spotify.com/album/5NLmYzYDQK8KUjUooUDhnb) | 3:30 | 2022-04-01 | 2022-04-17 |

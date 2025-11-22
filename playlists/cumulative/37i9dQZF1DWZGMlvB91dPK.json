@@ -1741,6 +1741,24 @@
     },
     {
       "album": {
+        "name": "Twisted Mind",
+        "url": "https://open.spotify.com/album/4ko8JEKBxITNZcDg8Wg3s9"
+      },
+      "artists": [
+        {
+          "name": "MEDICIS",
+          "url": "https://open.spotify.com/artist/37KN1w7uLnKETrPMXeFep4"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Twisted Mind",
+      "url": "https://open.spotify.com/track/1sWVocPjaolPmAa4fsOrWz"
+    },
+    {
+      "album": {
         "name": "Un chant d'amour",
         "url": "https://open.spotify.com/album/2THpebE4PUXFbOIPt1tE4T"
       },

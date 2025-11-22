@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 
 > Listen to women in Canada, at full volume\. Cover: Klô Pelgag
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,476 likes - 40 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,472 likes - 40 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Un rêve](https://open.spotify.com/track/0y8j2uk4HhhbcQKHy6feeE) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Un rêve](https://open.spotify.com/album/5ZJuJVEBM397cCYUpRfcb8) | 3:11 |
+| 1 | [Libre](https://open.spotify.com/track/7nVJa3bpQZc4onq25jo4pJ) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Abracadabra](https://open.spotify.com/album/1Qx4Ifq9PMRQhjF7pChakY) | 3:09 |
 | 2 | [Artificial Angels](https://open.spotify.com/track/0cAFtuZPD4sKl0X1R3dFin) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Artificial Angels](https://open.spotify.com/album/0a8hPV58tZZa45q26OUb8C) | 2:49 |
 | 3 | [ego of a man](https://open.spotify.com/track/4QmonUBs8sq51Sgbw26Yg4) | [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [HOT POT!](https://open.spotify.com/album/7J69akDNK0b1k42YZK7Yg7) | 2:37 |
 | 4 | [Nighttime Thing \(with Julia Michaels\)](https://open.spotify.com/track/7fbI3MprRgCBEO92ZT5akR) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Nighttime Thing](https://open.spotify.com/album/6YUp5vj8ISFc0mcWYVxXBj) | 2:24 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 | 39 | ['Til Later](https://open.spotify.com/track/0r85lST3XcWqBZMvUIiGtS) | [Carsen Gray](https://open.spotify.com/artist/2Rghdsv4GA0dvKqLAnAWZs) | [Sweet Deliverance](https://open.spotify.com/album/2xRvArNEzP3rSscsTfGSMQ) | 3:33 |
 | 40 | [Making Love Music](https://open.spotify.com/track/0RAlqkWbMiSyj4YBxXodT0) | [Lindsay Misiner](https://open.spotify.com/artist/38brY2MpJI741tGjiYrpKZ) | [FOR A MOMENT, I](https://open.spotify.com/album/5vNTho8tXyt0XHRs9NwN3W) | 4:02 |
 
-Snapshot ID: `AAAAALRem+71aoTwkeR1N+bWJaEeRbrh`
+Snapshot ID: `AAAAALKWGjq1mI8Bf5xW5YEhRXQUBibB`

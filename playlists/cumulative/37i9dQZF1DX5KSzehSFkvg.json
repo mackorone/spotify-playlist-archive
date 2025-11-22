@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-11",
-  "description": "\u0623\u062d\u0633\u0646 \u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0628\u0648\u0628 \u0627\u0644\u0645\u063a\u0631\u0628\u064a \u0645\u062c\u0645\u0648\u0639\u064a\u0646 \u0641\u064a \u0628\u0648\u0628\u0633\u062a\u0627\u0631\u0632",
+  "description": "\ud83c\uddf2\ud83c\udde6 \u0623\u062d\u0633\u0646 \u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0628\u0648\u0628 \u0627\u0644\u0645\u063a\u0631\u0628\u064a",
   "name": "POPSTARS*",
   "tracks": [
     {
@@ -1326,7 +1326,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 177600,
       "name": "Ghanili",
       "url": "https://open.spotify.com/track/0sobdrww1wYUfqhrCAzwz0"
@@ -2308,7 +2308,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 192000,
       "name": "Magdar",
       "url": "https://open.spotify.com/track/4vT286Zu3aHYW96N76joB7"
@@ -3501,6 +3501,24 @@
     },
     {
       "album": {
+        "name": "Ya Lmossiba",
+        "url": "https://open.spotify.com/album/5dMy0rn1uqWQrMu4SlqdEd"
+      },
+      "artists": [
+        {
+          "name": "Lazaro",
+          "url": "https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Ya Lmossiba",
+      "url": "https://open.spotify.com/track/403uDwdlwGqUXjSfBVVL0H"
+    },
+    {
+      "album": {
         "name": "Ya Mektoubi",
         "url": "https://open.spotify.com/album/4Me68q3TV8r9mPi4nqHI2L"
       },
@@ -3628,6 +3646,24 @@
       "duration_ms": 187636,
       "name": "Zina Zina",
       "url": "https://open.spotify.com/track/0vm4E4FMXOn72D0RYNTAaM"
+    },
+    {
+      "album": {
+        "name": "AURA",
+        "url": "https://open.spotify.com/album/0BA2ApY3nX3QIpzcCE2aYb"
+      },
+      "artists": [
+        {
+          "name": "Aminux",
+          "url": "https://open.spotify.com/artist/4BgFW9XAMsJMkMZQJ6lGD9"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207386,
+      "name": "Ziyech",
+      "url": "https://open.spotify.com/track/5DXSYFR5cMESPBM9W2c18r"
     },
     {
       "album": {

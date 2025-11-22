@@ -4,10 +4,11 @@
 
 > revisit one of hip\-hop's most of exciting eras
 
-79 songs - 5 hr 3 min
+79 songs - 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/697zIbTO0LMhupzGblYREm) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0TWaxeD5IGNBOsUHOj9u0K) | 0:00 | 2024-08-23 |  |
 | [212](https://open.spotify.com/track/4D3eJvbNKjMF8DRQFVIHsG) | [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I), [Lazy Jay](https://open.spotify.com/artist/4vUAD0POkGvO6J9c9hv6qR) | [1991 \- EP](https://open.spotify.com/album/5fkZoSOBJyj0PaDo1LUabM) | 3:23 | 2024-08-23 |  |
 | [90210](https://open.spotify.com/track/5DT26VHeeY5lDUP3vPZr77) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Attention Deficit](https://open.spotify.com/album/05hgYBx67XFjqWL8on4ugu) | 3:21 | 2024-08-23 |  |
 | [A.D.H.D](https://open.spotify.com/track/2Fw5S2gaOSZzdN5dFoC2dj) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Section.80](https://open.spotify.com/album/1bkN9nIkkCnXeG4yitVS1J) | 3:35 | 2024-08-23 |  |
@@ -37,7 +38,6 @@
 | [I'll Be in the Sky](https://open.spotify.com/track/2unp0ExpWWhc4R2eL5L5HZ) | [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT) | [I'll Be in the Sky](https://open.spotify.com/album/5K4iJ35C4P56wNe0onNlnA) | 4:05 | 2024-08-23 |  |
 | [I'm a Real 1](https://open.spotify.com/track/3u6uUpi5kvtGqYZjQFgDH8) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Just Re'd up 2](https://open.spotify.com/album/6LYs6vCaIZd3kemw1JDGti) | 2:48 | 2024-08-23 |  |
 | [I'm God](https://open.spotify.com/track/613KmeuXIuqBM0plNinzUh) | [Lil B](https://open.spotify.com/artist/4bbjivSh1oG4NOc7uYHfw5) | [6 Kiss](https://open.spotify.com/album/3eckskczN8yxSmOa5Y89n4) | 4:36 | 2024-08-23 |  |
-| [Imported Goods](https://open.spotify.com/track/697zIbTO0LMhupzGblYREm) | [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ) | [Imported Goods](https://open.spotify.com/album/0TWaxeD5IGNBOsUHOj9u0K) | 4:09 | 2024-08-23 |  |
 | [In The Morning](https://open.spotify.com/track/4OkiWfrZKmmVoILXk8JEtl) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Cole World: The Sideline Story](https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i) | 3:54 | 2024-08-23 | 2024-12-01 |
 | [Itty Bitty Piggy](https://open.spotify.com/track/1uYxHHZBRliM9cNzCxq93g) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Beam Me Up Scotty](https://open.spotify.com/album/2upw5IrzeqKApIQZyx5o6r) | 4:06 | 2024-08-23 |  |
 | [IV\. Sweatpants](https://open.spotify.com/track/3x4I4nRuZp5NdtGvCPw6Ms) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [JasonMartin](https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn) | [Because the Internet](https://open.spotify.com/album/62yjWIhnATHxPqGbgC9Lqr) | 3:00 | 2024-08-23 |  |

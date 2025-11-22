@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Frisse Nederlandse pop\. Cover: LUNA
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,475 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,520 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 6 | [Woensdag](https://open.spotify.com/track/2uPSbhD8EF8VcE8SY82OGf) | [LUNA](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf) | [Woensdag](https://open.spotify.com/album/5UNGlTJNPHvD2YhTvJgKRc) | 2:21 |
 | 7 | [Omdat Ik Zo Van Je Hou](https://open.spotify.com/track/71ASAZJIhXdaJF0OCIXc4S) | [Lisa Rose](https://open.spotify.com/artist/6Yd501ivYxC2FYhPiiWr6F) | [Omdat Ik Zo Van Je Hou](https://open.spotify.com/album/7g8XEtDOkB631Cx7eWFbS8) | 3:33 |
 | 8 | [Jij Verdient Het](https://open.spotify.com/track/1uXrlxv9eSdCnYtUD5hafk) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4) | [Jij Verdient Het](https://open.spotify.com/album/1sQLV0R27jVUCxY134ntKB) | 3:26 |
-| 9 | [Houden Van Is Voor Altijd](https://open.spotify.com/track/5D9WdVs3ge60agllfVHZVo) | [ANNE](https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS) | [](https://open.spotify.com/album/null) | 3:14 |
+| 9 | [Houden Van Is Voor Altijd](https://open.spotify.com/track/5D9WdVs3ge60agllfVHZVo) | [ANNE](https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS) | [Houden van is voor altijd](https://open.spotify.com/album/3ROIn9vmPzyQ1dXpONbOqu) | 3:14 |
 | 10 | [Loser](https://open.spotify.com/track/6SxPeeIm0exX9vXLZMZn2J) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [GO BESTFRIEND](https://open.spotify.com/album/2cCRxb2mWYNWAL7KNMoL95) | 2:43 |
 | 11 | [Pam Pam](https://open.spotify.com/track/6vBNn5sPtXk2WcFp6dbvY6) | [Adriaan Persons](https://open.spotify.com/artist/1TPrAXJAcBA8sUPNN39eZg) | [Pam Pam](https://open.spotify.com/album/2Oa5DwwuEWysiyebWHR4L3) | 2:42 |
 | 12 | [Zij is met me](https://open.spotify.com/track/6qAT5esH7IDBJa10al9REG) | [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR) | [Zij is met me](https://open.spotify.com/album/30ieAMDw3MoOtdsS0OYIlF) | 2:35 |

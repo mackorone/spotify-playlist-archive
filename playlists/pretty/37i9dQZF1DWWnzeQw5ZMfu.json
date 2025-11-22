@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABWj+KLDGNPYTR+3om2+cKndT3yU",
+  "snapshot_id": "AAAAAF3c7qtWe+HiFXZt1CZg561i0DLT",
   "tracks": [
     {
       "added_at": "2025-04-04 04:00:14",
@@ -71,6 +71,22 @@
       "duration_ms": 160081,
       "name": "bloodsucker - Live",
       "url": "https://open.spotify.com/track/1LPNFkQm8U0LJyk5CxMH4v"
+    },
+    {
+      "added_at": "2025-11-21 05:00:16",
+      "album": {
+        "name": "Die On This Hill (At KOKO)",
+        "url": "https://open.spotify.com/album/5KldQvtRfCs7SQdJj7vOne"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "duration_ms": 233708,
+      "name": "Die On This Hill - At KOKO",
+      "url": "https://open.spotify.com/track/0vYVxe1X7QOpzyIJzyVG3O"
     },
     {
       "added_at": "2025-08-08 04:00:32",
@@ -659,22 +675,6 @@
     {
       "added_at": "2025-01-17 22:05:18",
       "album": {
-        "name": "Live \u00e0 Paris",
-        "url": "https://open.spotify.com/album/0mXmpNs70razpUGj8NEu4u"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 285466,
-      "name": "The Power Of Love - Live at Le Z\u00e9nith, Paris, France - October 1995",
-      "url": "https://open.spotify.com/track/2nJKHm0UEvnXIxUWSOq26L"
-    },
-    {
-      "added_at": "2025-01-17 22:05:18",
-      "album": {
         "name": "MTV Unplugged EP",
         "url": "https://open.spotify.com/album/0jpGebANqbNNKbWHq2XhEM"
       },
@@ -719,22 +719,6 @@
       "duration_ms": 246500,
       "name": "Take Me To Church - Live From Spotify, London",
       "url": "https://open.spotify.com/track/61IautUH8F8UWJ0kxF9pJc"
-    },
-    {
-      "added_at": "2025-01-17 22:05:18",
-      "album": {
-        "name": "Cassy O' (EP)",
-        "url": "https://open.spotify.com/album/7maZrVJGD2VVevE5YJX68x"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 209306,
-      "name": "Budapest - Live from Spotify Stockholm",
-      "url": "https://open.spotify.com/track/4HqU80xAozomP0XtgxAu6w"
     },
     {
       "added_at": "2025-01-17 22:05:18",

@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-2,033 songs - 1 day 17 hr 1 min
+2,034 songs - 1 day 17 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1227,6 +1227,7 @@
 | [Novel](https://open.spotify.com/track/0S9K8PIpnafXDfJrT5sJMO) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Novel](https://open.spotify.com/album/75bfgadiTpwhC3xBrtoVNw) | 1:00 | 2025-08-28 |  |
 | [November Arr\. For Cello](https://open.spotify.com/track/6xSzfVLucapWBYz6MwQwOF) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [November](https://open.spotify.com/album/2BqWlWVTsXtdbv992fVhHQ) | 1:01 | 2023-04-19 | 2024-02-13 |
 | [November Love](https://open.spotify.com/track/0xNKEWs0xY0aqDQHRZMKno) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [November Love](https://open.spotify.com/album/4Mrgr1eP46hSzjo47gpjTU) | 1:00 | 2024-11-06 |  |
+| [November Morning](https://open.spotify.com/track/5F7MPnPSc92PskPXEFxY9n) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [November Morning](https://open.spotify.com/album/0zpX6IFUQy6sdbgl4MGtrX) | 1:00 | 2025-11-21 |  |
 | [November Nights Arr\. For Cello](https://open.spotify.com/track/26k7OzdahlD9GdbjJvPma4) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [November Nights](https://open.spotify.com/album/05bcrrcFV0dvcNWASKNpaZ) | 1:00 | 2024-02-09 | 2024-02-13 |
 | [November Nights Arr\. For Strings](https://open.spotify.com/track/1t8o8B15KpNeH3mszUUbql) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [November Nights](https://open.spotify.com/album/05bcrrcFV0dvcNWASKNpaZ) | 1:01 | 2024-02-09 | 2024-02-13 |
 | [November Nights Arr\. For Two Cellos](https://open.spotify.com/track/2Psw5EXqbi9Svc75fBhCxa) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [November Nights Arr\. For Two Cellos](https://open.spotify.com/album/4nM5jS6lj2f0wrnGx9bI6x) | 1:00 | 2024-02-09 | 2024-02-13 |

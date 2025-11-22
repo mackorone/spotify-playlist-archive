@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "La nueva ola de trovadores del siglo XXI. En portada: Silvana Estrada.",
+  "description": "La nueva ola de trovadores del siglo XXI. En portada: Karmento y Le Parody.",
   "name": "Cancionistas",
   "tracks": [
     {
@@ -4750,7 +4750,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 220084,
       "name": "Dime",
       "url": "https://open.spotify.com/track/4R6FsEosZEko5S92ne5QyV"
@@ -6978,7 +6978,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 207922,
       "name": "Hambre pa\u2019 ma\u00f1ana",
       "url": "https://open.spotify.com/track/4tQonpIXaqmukiUcuAUTpl"
@@ -8934,7 +8934,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 181027,
       "name": "las ramas",
       "url": "https://open.spotify.com/track/1VADn46hFBYDxs7eegvOAd"
@@ -9512,7 +9512,7 @@
       ],
       "date_added": "2025-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 337775,
       "name": "Los pensamientos",
       "url": "https://open.spotify.com/track/7MlNDNtvhRwTQj9cTZp39h"
@@ -9860,6 +9860,28 @@
       "duration_ms": 254829,
       "name": "Malagradecida",
       "url": "https://open.spotify.com/track/6ttA706vqyxFWRbq0zoL8x"
+    },
+    {
+      "album": {
+        "name": "Mandamientos para la buena vida",
+        "url": "https://open.spotify.com/album/014HxMtwpoyOmxSzAXv2gS"
+      },
+      "artists": [
+        {
+          "name": "Le Parody",
+          "url": "https://open.spotify.com/artist/7ls2WeFdaXVNgCq5zWKDjF"
+        },
+        {
+          "name": "Karmento",
+          "url": "https://open.spotify.com/artist/5QcmgtNbUfqgAOgj7XRRZF"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214467,
+      "name": "Mandamientos para la buena vida",
+      "url": "https://open.spotify.com/track/7u9kuBtKkT0HW4hvTpiQBg"
     },
     {
       "album": {
@@ -11023,6 +11045,28 @@
     },
     {
       "album": {
+        "name": "mai adeu",
+        "url": "https://open.spotify.com/album/584S9p8PaecDYYRpbP6uZY"
+      },
+      "artists": [
+        {
+          "name": "Kris Tena",
+          "url": "https://open.spotify.com/artist/3qt8O8Di6tMLmWcTSwGuad"
+        },
+        {
+          "name": "Rita Pay\u00e9s",
+          "url": "https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103461,
+      "name": "nada nada",
+      "url": "https://open.spotify.com/track/3x2En8Qx8fcOT9eVEyBnqr"
+    },
+    {
+      "album": {
         "name": "Nadando na Incerteza",
         "url": "https://open.spotify.com/album/7iNtUjWz3w48WuRltdZufz"
       },
@@ -11034,7 +11078,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 230923,
       "name": "Nadando Na Incerteza",
       "url": "https://open.spotify.com/track/3LCnZB0IWAzTPiM0EgZW4X"
@@ -11527,6 +11571,28 @@
     },
     {
       "album": {
+        "name": "No Estar\u00eda Mal",
+        "url": "https://open.spotify.com/album/73ImemYEEQ7jYJ7GkwgM4f"
+      },
+      "artists": [
+        {
+          "name": "Inbal Comedi",
+          "url": "https://open.spotify.com/artist/3TXSj7UeT47TDTYwnr9RnV"
+        },
+        {
+          "name": "Alan Sutton y las criaturitas de la ansiedad",
+          "url": "https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217210,
+      "name": "No Estar\u00eda Mal",
+      "url": "https://open.spotify.com/track/1Wt62ksspwmciPqJUqRieh"
+    },
+    {
+      "album": {
         "name": "No Fer Tant",
         "url": "https://open.spotify.com/album/1VHlNUJepNTcoygNb5NC2K"
       },
@@ -11564,6 +11630,24 @@
       "duration_ms": 168026,
       "name": "no hace falta saber",
       "url": "https://open.spotify.com/track/6lXq1bTonpEYQYSQ9IXI1Y"
+    },
+    {
+      "album": {
+        "name": "No Lo Pienses Dos Veces, Est\u00e1 Todo Bien",
+        "url": "https://open.spotify.com/album/6k5a6GEr0ppsdG3XXNYple"
+      },
+      "artists": [
+        {
+          "name": "Franny Glass",
+          "url": "https://open.spotify.com/artist/6mI3D7vgMoxV2KIYsJkN9w"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198750,
+      "name": "No Lo Pienses Dos Veces, Est\u00e1 Todo Bien",
+      "url": "https://open.spotify.com/track/4DESpkuAs9cBvnLhFmptLx"
     },
     {
       "album": {
@@ -14136,6 +14220,28 @@
       "duration_ms": 195072,
       "name": "Qu\u00edtate de Piropitos",
       "url": "https://open.spotify.com/track/682qX497ctBA4VJcJ8cKLB"
+    },
+    {
+      "album": {
+        "name": "Luditas",
+        "url": "https://open.spotify.com/album/0jnQ8pCG283hYiL9R78dHk"
+      },
+      "artists": [
+        {
+          "name": "Ernesto Amstein",
+          "url": "https://open.spotify.com/artist/3RtoD2Lg2AMClwewzI109w"
+        },
+        {
+          "name": "Loli Molina",
+          "url": "https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355850,
+      "name": "Rabo de nube",
+      "url": "https://open.spotify.com/track/2VU9Rb4lGTdYaDfys3OOBE"
     },
     {
       "album": {
@@ -16909,6 +17015,24 @@
     },
     {
       "album": {
+        "name": "La grieta",
+        "url": "https://open.spotify.com/album/2xEl5ps66i960fkYgRYG02"
+      },
+      "artists": [
+        {
+          "name": "Musg\u00f6",
+          "url": "https://open.spotify.com/artist/0RvtJwcCisaSRZHLhuBAbT"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166562,
+      "name": "Toma de tierra",
+      "url": "https://open.spotify.com/track/5d7LLgfpS2YzmNXORofpAK"
+    },
+    {
+      "album": {
         "name": "Un Viajecito",
         "url": "https://open.spotify.com/album/0HidWs8IY9rKFwtuMNm5kr"
       },
@@ -17068,7 +17192,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 282000,
       "name": "TRENZA",
       "url": "https://open.spotify.com/track/4Zk5QWFacjLAAbzsbHJZfJ"
@@ -18504,6 +18628,32 @@
       "duration_ms": 196762,
       "name": "Y Arder\u00e1n",
       "url": "https://open.spotify.com/track/1OlodnuRTxve00lxntQVqC"
+    },
+    {
+      "album": {
+        "name": "Y Nunca Volver\u00e1",
+        "url": "https://open.spotify.com/album/5TYYit4UtzwyLZV4bfP6Lv"
+      },
+      "artists": [
+        {
+          "name": "Bocho",
+          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
+        },
+        {
+          "name": "RIOLA",
+          "url": "https://open.spotify.com/artist/3Ri2BjKwyDM96dsOzYL5r9"
+        },
+        {
+          "name": "Sebas Collarte",
+          "url": "https://open.spotify.com/artist/00LXIEIH3G9E4NaduFkuyQ"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156847,
+      "name": "Y Nunca Volver\u00e1",
+      "url": "https://open.spotify.com/track/6rRoFIoqhUtvAAwtVyAral"
     },
     {
       "album": {

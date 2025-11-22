@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 
 > Uma playlist de pura alma pop! Foto: ZARKO
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,424 likes - 70 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,433 likes - 70 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [SERENATA](https://open.spotify.com/track/0Z7kEnuStWYC1MOOfAnM4u) | [ZARKO](https://open.spotify.com/artist/39THfEzb8ivv7RVBzn39Zf), [Aurora Pinto](https://open.spotify.com/artist/67IzblEppf2J60LZAviG9B) | [](https://open.spotify.com/album/null) | 2:56 |
+| 1 | [SERENATA](https://open.spotify.com/track/0Z7kEnuStWYC1MOOfAnM4u) | [ZARKO](https://open.spotify.com/artist/39THfEzb8ivv7RVBzn39Zf), [Aurora Pinto](https://open.spotify.com/artist/67IzblEppf2J60LZAviG9B) | [SIMBIOSE](https://open.spotify.com/album/3qslggfh46RL2JGy8p1kHg) | 2:56 |
 | 2 | [Amor de Novo](https://open.spotify.com/track/3XFumfdcMhErSPnDxuo1AN) | [NAPA](https://open.spotify.com/artist/3BR3Qfra04DICDUB2BL3eu), [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Amor de Novo](https://open.spotify.com/album/56J65g9s0WdfikpU6cXDun) | 3:18 |
 | 3 | [Casar É pra Esquecer](https://open.spotify.com/track/5zA1oOmQh2v32sij1Whsms) | [Vizinhos](https://open.spotify.com/artist/3phiMOerdzoGRyTJ240Sxj) | [Casar É pra Esquecer](https://open.spotify.com/album/0zHXkr6XD0iQEHYM8b35or) | 2:57 |
 | 4 | [Avisem Que Eu Cheguei](https://open.spotify.com/track/12Cw7loqrdJdLCWCaGDSkn) | [Sara Correia](https://open.spotify.com/artist/6CDeCfO2MlVXHhHgpK6HvA) | [Avisem Que Eu Cheguei](https://open.spotify.com/album/1J4QrDcxhhfETVIzljTOhU) | 3:00 |

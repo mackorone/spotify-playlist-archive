@@ -2,9 +2,9 @@
 
 ### [Electro Corridos](https://open.spotify.com/playlist/37i9dQZF1DX0J2sZQ1dV6f)
 
-> Bien alucin con el electro, la nueva ola de la fiesta\. Cover: Esau Otriz
+> Bien alucin con el electro, la nueva ola de la fiesta\. Cover: Oswaldo\_NR, Jorge Duran, Marcos Villalobos
 
-534 songs - 1 day 3 hr 17 min
+536 songs - 1 day 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Castigada](https://open.spotify.com/track/3j6Ad8n9AYj2YjMXvDkZOk) | [Catalyna](https://open.spotify.com/artist/7bwjYGg7DOoLpV3AFK2Jmz), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Cory](https://open.spotify.com/artist/7o7FisMfKqVaysG1CSIWrr) | [Castigada](https://open.spotify.com/album/2xVbGAL132T4yXoJDS8TuL) | 3:16 | 2022-07-08 | 2023-05-26 |
 | [Cavernicola \- Chuwe Remix](https://open.spotify.com/track/38oHCgLQMY4Iu0s6Wcz34v) | [King Doudou](https://open.spotify.com/artist/3aVceD1iZNjO7INFdXQaeZ), [Zairah](https://open.spotify.com/artist/6zM7zqk0dutYW0BbtnaD8b), [Chuwe](https://open.spotify.com/artist/7rJzxhgAkMeLK3jKJ8qKhn) | [Cavernicola Remixes](https://open.spotify.com/album/4SCcUwLQ1eTbHZxs7SAiZL) | 2:55 | 2022-03-21 | 2022-07-09 |
 | [Celoso y Posesivo](https://open.spotify.com/track/6Ys42ABYu69jWzL46QHAKx) | [El Belicoso](https://open.spotify.com/artist/3E63mgo0ttd5t81GVt2e8h), [4x4TRO](https://open.spotify.com/artist/11JKRp2mLOF7Y4rpiBbYTX), [Alan Tapia](https://open.spotify.com/artist/0cxCPREY2PemRshthTTnSr) | [Celoso y Posesivo](https://open.spotify.com/album/4OXDI1N02O9sOmVj77Bgqb) | 2:17 | 2025-08-01 |  |
+| [CENICIENTA](https://open.spotify.com/track/7xuyjnOPrQI84mcB6G8wAZ) | [Oswaldo\_NR](https://open.spotify.com/artist/1n3pTG4kkZiuepmOINVStx), [Jorge Duran](https://open.spotify.com/artist/2XXSbBwBqQDSAY9aBtomPx), [Marcos Villalobos](https://open.spotify.com/artist/79BK7vrzlQtgNnCHvZ7aYi) | [CENICIENTA](https://open.spotify.com/album/5YftnH3ek4Q7ZbmdKdJONQ) | 3:01 | 2025-11-21 |  |
 | [Chinatown](https://open.spotify.com/track/5qya0nU9vmMklKKjvltNPT) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D) | [Chinatown](https://open.spotify.com/album/1cQliCnbdYb2c2va7FU4qq) | 3:36 | 2022-03-21 | 2022-04-20 |
 | [Chingar \(Remix\)](https://open.spotify.com/track/3yPV7Z22Hf1Zsw8wkpExCc) | [Philip Ariaz](https://open.spotify.com/artist/0OJB7a56o2eMyB6hOmv6vC), [El Clooy](https://open.spotify.com/artist/2iBSDwlk9bvp1aKT4ubGoC) | [Chingar \(Remix\)](https://open.spotify.com/album/1JVd3rY42r8rDAZb4X6Pq5) | 3:07 | 2023-02-24 | 2023-12-07 |
 | [Chula](https://open.spotify.com/track/3SjghIcmfzYFxjp3ABcFUw) | [Armenta](https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX), [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw) | [Chula](https://open.spotify.com/album/04caDyWFwNPlMMIkDVsEQ8) | 2:42 | 2024-05-03 |  |
@@ -157,6 +158,7 @@
 | [El Plan](https://open.spotify.com/track/5VyGWlyB2I425jSDUPoV2W) | [Wolfine](https://open.spotify.com/artist/2OnKRchqP7tT0FzTvWIFI7) | [El Plan](https://open.spotify.com/album/54zeY04UIuW0eqi0wzUXlS) | 2:46 | 2022-07-08 | 2023-01-28 |
 | [El Rey De La Popola](https://open.spotify.com/track/40NEzaZf0YyrxCbD7PPeop) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [El Rey De La Popola](https://open.spotify.com/album/796XcxDmmhUw1aMaXNaReA) | 3:07 | 2022-03-21 | 2022-04-20 |
 | [El Telefono](https://open.spotify.com/track/614NVFo5csQqRnryl4jXs2) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [The Bad Boy](https://open.spotify.com/album/5eklEkHSU1l3yewxdePzRL) | 3:55 | 2022-04-25 | 2023-05-26 |
+| [El Tomate](https://open.spotify.com/track/3ZpMX9D7h8racm8EJiE5dw) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [El Tomate](https://open.spotify.com/album/31ADV8Q4Xn6eqxaB6l4I1f) | 4:19 | 2025-11-21 |  |
 | [ELECTRO BELICO](https://open.spotify.com/track/2fWnYF2iZOxNeDVmYoCSh2) | [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk), [Uve Erre](https://open.spotify.com/artist/0BYTo38PH5RVJo0yygpp9Y) | [ELECTRO BELICO](https://open.spotify.com/album/3OsN2D4wfMpawLPVJItBp9) | 2:40 | 2024-02-21 | 2024-04-20 |
 | [Electromorbo](https://open.spotify.com/track/66skQzABVVs28ptsEoRqxF) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH), [Los Esquivel](https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC) | [Electromorbo](https://open.spotify.com/album/4xgirQoTPMCnKMB3L9qZzW) | 2:55 | 2024-08-07 |  |
 | [Elixir](https://open.spotify.com/track/5FC3QxywFfQq39TI4U9Pru) | [Mequi](https://open.spotify.com/artist/37sm4BRjUMEVI6iUC1Zg6k), [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg) | [Elixir](https://open.spotify.com/album/2YYzqek3w2LadxlC27BUd1) | 3:32 | 2023-05-25 | 2023-07-12 |

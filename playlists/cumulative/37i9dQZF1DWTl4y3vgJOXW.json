@@ -2957,6 +2957,24 @@
     },
     {
       "album": {
+        "name": "CALCULATE",
+        "url": "https://open.spotify.com/album/1SdTLhDms64iH36OrSXW1e"
+      },
+      "artists": [
+        {
+          "name": "Yakiyn",
+          "url": "https://open.spotify.com/artist/41lqavlwvb2IVsBpmCkh4E"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124654,
+      "name": "CALCULATE",
+      "url": "https://open.spotify.com/track/5nR92vgcuXgLW0IFa9THUL"
+    },
+    {
+      "album": {
         "name": "Can You Please",
         "url": "https://open.spotify.com/album/0AuybXvfoqzt1NPpCKiiuI"
       },
@@ -4816,7 +4834,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 146553,
       "name": "ErrTime",
       "url": "https://open.spotify.com/track/2cBtsB7Pi89q9yWk59a2sX"
@@ -7927,6 +7945,24 @@
     },
     {
       "album": {
+        "name": "Ight",
+        "url": "https://open.spotify.com/album/3FWZAunLnqqSdJ982uYCcS"
+      },
+      "artists": [
+        {
+          "name": "BashfortheWorld",
+          "url": "https://open.spotify.com/artist/2304Hcgi7OV6YL5Omhx6A4"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157241,
+      "name": "Ight",
+      "url": "https://open.spotify.com/track/55KwbKQL8xjTgpQQWADktJ"
+    },
+    {
+      "album": {
         "name": "HEAVY",
         "url": "https://open.spotify.com/album/26678sDHO3Xg8g6q3Fo1WX"
       },
@@ -10471,6 +10507,24 @@
     },
     {
       "album": {
+        "name": "From Me 2 U",
+        "url": "https://open.spotify.com/album/4SWWl5H8G1ZVx56WQV3yhY"
+      },
+      "artists": [
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104605,
+      "name": "MR DND",
+      "url": "https://open.spotify.com/track/7KVkMVxVs3GqO7Vzy9hzjk"
+    },
+    {
+      "album": {
         "name": "Mr. President",
         "url": "https://open.spotify.com/album/4h4xBYSdDUOLwlUKa72zba"
       },
@@ -11482,7 +11536,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 111264,
       "name": "ON REPEAT (feat. Rich The Kid & Destroy Lonely)",
       "url": "https://open.spotify.com/track/3fRWLPnFfldOtZMm6YBUDu"
@@ -17128,7 +17182,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 160533,
       "name": "Walk Down (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/57q6befTFpZwWrZvfek3Fj"
@@ -18084,7 +18138,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 248813,
       "name": "Yuck (feat. Ken Carson)",
       "url": "https://open.spotify.com/track/5o4h46Jh8tkReTPnGm3jpb"

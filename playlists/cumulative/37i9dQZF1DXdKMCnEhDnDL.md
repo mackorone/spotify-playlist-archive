@@ -2,7 +2,7 @@
 
 ### [Beste van NL](https://open.spotify.com/playlist/37i9dQZF1DXdKMCnEhDnDL)
 
-> De beste Nederlandse liedjes\. Cover: BLØF & Racoon
+> De beste Nederlandse liedjes\. Cover: Tino Martin & Re\-Play
 
 434 songs - 22 hr 11 min
 

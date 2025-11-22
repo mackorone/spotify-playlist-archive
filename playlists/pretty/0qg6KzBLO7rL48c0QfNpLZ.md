@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 109,128 likes - 112 songs - 4 hr 47 min
+[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 109,116 likes - 118 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,5 +120,11 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 | 110 | [Memories](https://open.spotify.com/track/4HMQcmdviIm28WNMDsbyXT) | [ROBINS](https://open.spotify.com/artist/3jB0kLyOjPj9pZHMect1BM), [RODA](https://open.spotify.com/artist/39PpUkKS1ul0OKtz72q0qE) | [Memories](https://open.spotify.com/album/5rQFaeiWrJpTjfjJZeVjqj) | 2:34 |
 | 111 | [Follow](https://open.spotify.com/track/5vl7lho5HYGYCquZL7NUc1) | [Neonica](https://open.spotify.com/artist/48dGofwEMmTKNTO7bZj8WF), [Syntheticsax](https://open.spotify.com/artist/05hm1QdbuSVF4WdgzA0tFJ), [Catching Sunrises](https://open.spotify.com/artist/1ZRHglRvKYNVcLjp1YAsSz), [Deep Mage](https://open.spotify.com/artist/0MR7IMVJ0cdWJBivbwRr4A) | [Follow](https://open.spotify.com/album/1fdfRTfputh6cOwgTc7O3B) | 2:50 |
 | 112 | [Back To You](https://open.spotify.com/track/2uyxNUSxJq0fHFon3otFGZ) | [Dallien](https://open.spotify.com/artist/3iAbOn3r0bXmmxyQYBxVHJ), [KZann](https://open.spotify.com/artist/2ulDpFv47BQrc5kGoaSy7A), [Spagbo](https://open.spotify.com/artist/2EZUOnMtEkQv06k5fkbKTJ) | [Back To You](https://open.spotify.com/album/0GHiAapK5vUx7pw52gTZPu) | 2:59 |
+| 113 | [Moments](https://open.spotify.com/track/0Ge1nmERkZ1FxWIHBk5vNL) | [Mellowdy](https://open.spotify.com/artist/2qcHi6YzCJYvbHIs0jvHGc) | [Moments](https://open.spotify.com/album/6051THRr7h0ga0UQquQIfX) | 2:39 |
+| 114 | [Dancing In The Moonlight](https://open.spotify.com/track/0xks4A0Esj1XVNIUwklTNQ) | [Loumé](https://open.spotify.com/artist/6o8bvjajrVq9BnXoR7bXnH), [Elias Tebroke](https://open.spotify.com/artist/28U9i62cNNv9CDxhWEhcJK) | [Dancing In The Moonlight](https://open.spotify.com/album/0rq7OS1tKkuuq8c24FVMMX) | 2:03 |
+| 115 | [I Follow Rivers](https://open.spotify.com/track/1e3wGUZHWT36JFh0qyVcto) | [MrRevillz](https://open.spotify.com/artist/5KhIhOD5xJP1dIzm8dpKvy) | [I Follow Rivers](https://open.spotify.com/album/5JFPLx5jLEJ8SzcOmVBC7a) | 3:17 |
+| 116 | [Fire In You](https://open.spotify.com/track/6GpncNJ5M1OgSEKjbo02gY) | [Fargro](https://open.spotify.com/artist/0hMNjPwxOmRNtIl2kh16sj) | [Fire In You](https://open.spotify.com/album/1QNMYAysxYGAa1QqGPBJMm) | 2:15 |
+| 117 | [Save Me Now](https://open.spotify.com/track/7B3PU2dr2c3trv92tgyG6U) | [DRFT](https://open.spotify.com/artist/3osKYBCocDf8JhQFDK1l1G) | [Save Me Now](https://open.spotify.com/album/6Lt5ma7jgWxqjOpk3vkhzZ) | 3:15 |
+| 118 | [Drifting](https://open.spotify.com/track/2mKo0TPBUYQW3oHemmxtxJ) | [Damian Birdsey](https://open.spotify.com/artist/068spQpxM8nHnaPy3tiRWd) | [Drifting](https://open.spotify.com/album/4oZqO2LpnJyqcEhKCciJed) | 2:24 |
 
-Snapshot ID: `AAAiC4m1WV3CDEnc+Y6/0m5m9htzhwfs`
+Snapshot ID: `AAAiEIwpqQ/zwdlzUBVHTldZLdAJBHq+`

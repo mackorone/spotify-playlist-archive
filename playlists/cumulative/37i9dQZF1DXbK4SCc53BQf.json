@@ -289,6 +289,28 @@
     },
     {
       "album": {
+        "name": "Alfarero",
+        "url": "https://open.spotify.com/album/2GxTHBxsy5sYDSIiWKAYH3"
+      },
+      "artists": [
+        {
+          "name": "Yore",
+          "url": "https://open.spotify.com/artist/6vBxQQKQFsW9PtLxFUOGPa"
+        },
+        {
+          "name": "Ver\u00f3nica Solares",
+          "url": "https://open.spotify.com/artist/066fEYGdOegnz2e3wjbKxr"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202859,
+      "name": "Alfarero",
+      "url": "https://open.spotify.com/track/4s1V1jpkVthD7Om3I4ZaVx"
+    },
+    {
+      "album": {
         "name": "Unplugged Evento Historico",
         "url": "https://open.spotify.com/album/65TpBgr5Ikt5wCyhMDqoSl"
       },
@@ -612,6 +634,24 @@
       "duration_ms": 204013,
       "name": "Camino Al Cielo (Versi\u00f3n Merengue)",
       "url": "https://open.spotify.com/track/4JAg4oa9Q99uIGzkj6S829"
+    },
+    {
+      "album": {
+        "name": "Cantar\u00e9",
+        "url": "https://open.spotify.com/album/4MnjTYf9BgX5bR0EsZZaff"
+      },
+      "artists": [
+        {
+          "name": "Omar Salas",
+          "url": "https://open.spotify.com/artist/3E2IitJNIbpATIAvtJPUzd"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243608,
+      "name": "Cantar\u00e9",
+      "url": "https://open.spotify.com/track/2X9UqOkHdY7tiRTnG98SO8"
     },
     {
       "album": {
@@ -2680,7 +2720,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 251013,
       "name": "Si Estoy Contigo",
       "url": "https://open.spotify.com/track/2mIoPDYldAD7tctsGmmA45"
@@ -3106,7 +3146,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 282984,
       "name": "Tengo un Nuevo Amor - Salsa",
       "url": "https://open.spotify.com/track/6jtT0TU60r0ECBtRtNe335"

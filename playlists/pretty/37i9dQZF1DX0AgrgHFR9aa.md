@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AgrgHFR9aa.md) - [plain]
 
 > Les plus belles plumes rap français du moment\. Photo : Frs taga
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,080 likes - 40 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,095 likes - 40 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AgrgHFR9aa.md) - [plain]
 | 21 | [Le temps n'emporte rien](https://open.spotify.com/track/3yn2iWbOwDp9eahAoppErl) | [Georgio](https://open.spotify.com/artist/6Xc0KDqzw5u6EQLgdfeoKO) | [Gloria](https://open.spotify.com/album/3rQR3nAnwwWpUTG3f4KULw) | 3:23 |
 | 22 | [Déçu](https://open.spotify.com/track/4wPHh0EOa52M7SyIQjza1y) | [Boris Dastarac](https://open.spotify.com/artist/7nADNFt2kT9g5b6wdRPcGd) | [Déçu](https://open.spotify.com/album/2oWFWBeMDaHrdL0YlkOZxU) | 2:11 |
 | 23 | [Le pacte](https://open.spotify.com/track/5M1VROZh6YaMMwkYVujHja) | [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN) | [La fuite en avant](https://open.spotify.com/album/130L3uMANE28R0eH0GtmZS) | 4:28 |
-| 24 | [Sephiroth](https://open.spotify.com/track/1PWX2SF6ACnDNtpnCH8N3W) | [Bonobo](https://open.spotify.com/artist/3CA7lyKUkVtDuaZjqYb6nH) | [Sephiroth](https://open.spotify.com/album/69U52qRjWVuZOtjGUBYLWm) | 3:01 |
+| 24 | [Sephiroth](https://open.spotify.com/track/1PWX2SF6ACnDNtpnCH8N3W) | [Bonobo](https://open.spotify.com/artist/3CA7lyKUkVtDuaZjqYb6nH), [Kera Beatz](https://open.spotify.com/artist/24ljPZOKLIFeXB30WnW4HV) | [Sephiroth](https://open.spotify.com/album/69U52qRjWVuZOtjGUBYLWm) | 3:01 |
 | 25 | [Mes mains](https://open.spotify.com/track/1TGicKJMmxtuv4vYzucx0t) | [Austin.](https://open.spotify.com/artist/68ZelUIcF3n3yNyakobhAG) | [Mes mains](https://open.spotify.com/album/11m8LU7qgOQCHOcrNjw5yn) | 2:47 |
 | 26 | [ANTICAPITALISTE](https://open.spotify.com/track/7CJm0e1zk839eIU64HnSil) | [Huntrill](https://open.spotify.com/artist/1Nm9adUt6D5iuhRgirlgF2) | [ANTICAPITALISTE](https://open.spotify.com/album/3jl6WuRzQs7tnO31NZqltd) | 2:19 |
 | 27 | [Mick Jagger](https://open.spotify.com/track/54Q1i6GCkHuboimwxPFV7R) | [Crown](https://open.spotify.com/artist/3n3WhGxNxXpKbjhKuVTSEc), [Cholo](https://open.spotify.com/artist/0OrSwuIG1yqmbxaCvAxjG9) | [Mick Jagger](https://open.spotify.com/album/3KCgQdOQIvFf2tt0CogOH4) | 3:05 |

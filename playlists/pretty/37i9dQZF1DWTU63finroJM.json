@@ -1,6 +1,6 @@
 {
   "description": "Meet the future of music around the world. Cover: LUKAS OSCAR",
-  "num_followers": 77733,
+  "num_followers": 77723,
   "original_name": "RADAR Global ",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2025-11-17 15:42:43",
       "album": {
-        "name": "FACES",
-        "url": "https://open.spotify.com/album/738E0JdQ5M2HNEVljWZmLE"
-      },
-      "artists": [
-        {
-          "name": "Andr",
-          "url": "https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt"
-        }
-      ],
-      "duration_ms": 245449,
-      "name": "FACES",
-      "url": "https://open.spotify.com/track/5fmNsEdbraFS9leqbsBvbQ"
-    },
-    {
-      "added_at": "2025-11-17 15:42:43",
-      "album": {
         "name": "B\u0119d\u0119 twoj\u0105 Sylvi\u0105 Plath",
         "url": "https://open.spotify.com/album/3mPq4OEZQGcqtDe6lYHX3y"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 190655,
       "name": "B\u0119d\u0119 twoj\u0105 Sylvi\u0105 Plath",
       "url": "https://open.spotify.com/track/0Bfe03aAJYC2avYUkyljxs"
+    },
+    {
+      "added_at": "2025-11-17 15:42:43",
+      "album": {
+        "name": "FACES",
+        "url": "https://open.spotify.com/album/738E0JdQ5M2HNEVljWZmLE"
+      },
+      "artists": [
+        {
+          "name": "Andr",
+          "url": "https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt"
+        }
+      ],
+      "duration_ms": 245449,
+      "name": "FACES",
+      "url": "https://open.spotify.com/track/5fmNsEdbraFS9leqbsBvbQ"
     },
     {
       "added_at": "2025-11-17 15:42:43",
@@ -271,22 +271,6 @@
     {
       "added_at": "2025-11-17 15:42:43",
       "album": {
-        "name": "Dendam",
-        "url": "https://open.spotify.com/album/5mFzLpmF4Bvsng3wyx40Bn"
-      },
-      "artists": [
-        {
-          "name": "Firdaus Rahmat",
-          "url": "https://open.spotify.com/artist/1DuEl1a7U6Um8hYvNW1OiY"
-        }
-      ],
-      "duration_ms": 219465,
-      "name": "Dendam",
-      "url": "https://open.spotify.com/track/24Ooyj1Dci9rluOg1DZ37K"
-    },
-    {
-      "added_at": "2025-11-17 15:42:43",
-      "album": {
         "name": "AMBANI MONEY",
         "url": "https://open.spotify.com/album/700iQlRgavSFq8H3JMqxIj"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 167298,
       "name": "AMBANI MONEY",
       "url": "https://open.spotify.com/track/0FbFG2Oe58DgtBmVGVZJoR"
+    },
+    {
+      "added_at": "2025-11-17 15:42:43",
+      "album": {
+        "name": "Dendam",
+        "url": "https://open.spotify.com/album/5mFzLpmF4Bvsng3wyx40Bn"
+      },
+      "artists": [
+        {
+          "name": "Firdaus Rahmat",
+          "url": "https://open.spotify.com/artist/1DuEl1a7U6Um8hYvNW1OiY"
+        }
+      ],
+      "duration_ms": 219465,
+      "name": "Dendam",
+      "url": "https://open.spotify.com/track/24Ooyj1Dci9rluOg1DZ37K"
     },
     {
       "added_at": "2025-11-17 15:42:43",

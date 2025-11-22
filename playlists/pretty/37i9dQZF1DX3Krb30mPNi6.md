@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Krb30mPNi6.md) - [plain]
 
 > Podcasts que debes de tener en tu RADAR\. Foto: Dos Cabras Locas
 
-[Spotify](https://open.spotify.com/user/spotify) - 241 likes - 15 songs - 16 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 241 likes - 15 songs - 16 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [194\. Psicóloga responde: La verdad detrás de tus problemas ft\. Valentina Montoya ](https://open.spotify.com/episode/7j4U6PBSV6zKK6rKOgJUGu) | [Dos Cabras Locas](https://open.spotify.com/show/3urn8XzLDrnfQ2gxixlTD3) | [Dos Cabras Locas](https://open.spotify.com/album/3urn8XzLDrnfQ2gxixlTD3) | 47:39 |
+| 1 | [194\. Psicóloga responde: La verdad detrás de tus problemas ft\. Valentina Montoya ](https://open.spotify.com/episode/7j4U6PBSV6zKK6rKOgJUGu) | [Dos Cabras Locas](https://open.spotify.com/show/3urn8XzLDrnfQ2gxixlTD3) | [Dos Cabras Locas](https://open.spotify.com/album/3urn8XzLDrnfQ2gxixlTD3) | 46:18 |
 | 2 | [EXPANSIÓN: 10 Lecciones para construir una empresa global desde cero \| Juan José Mesa](https://open.spotify.com/episode/53mHkVXReQQXyqc88wco5j) | [Dinstinto](https://open.spotify.com/show/6yVO99WI3G9uJLhW7E6EO2) | [Dinstinto](https://open.spotify.com/album/6yVO99WI3G9uJLhW7E6EO2) | 1:10:15 |
 | 3 | [Yo era su amante y no lo sabía: Así Sobreviví a la persona que decía amarme](https://open.spotify.com/episode/6DAYDC7JgodCH4WsmWWjSA) | [Conducta Delictiva](https://open.spotify.com/show/70eZc1jDll5wI1WRP794Tx) | [Conducta Delictiva](https://open.spotify.com/album/70eZc1jDll5wI1WRP794Tx) | 57:04 |
 | 4 | [195\. Mi novio es ChatGPT \- ¿Qué putas está pasando con la I.A? ](https://open.spotify.com/episode/1laQOKAK4YP8ow82LhSAoV) | [Dos Cabras Locas](https://open.spotify.com/show/3urn8XzLDrnfQ2gxixlTD3) | [Dos Cabras Locas](https://open.spotify.com/album/3urn8XzLDrnfQ2gxixlTD3) | 42:05 |
 | 5 | [CRECIMIENTO: La fórmula de 4 pasos que entendieron TikTok e Instagram \| Dylan Rosemberg](https://open.spotify.com/episode/0RJKrSb5x47BaxC6empE1p) | [Dinstinto](https://open.spotify.com/show/6yVO99WI3G9uJLhW7E6EO2) | [Dinstinto](https://open.spotify.com/album/6yVO99WI3G9uJLhW7E6EO2) | 2:03:26 |
 | 6 | [HORROR en colegio de Bogotá: Niña de 8 años fue 4BU$4D4 mientras sus compañeros GRAB4BAN TODO](https://open.spotify.com/episode/4txbPQjCUcBrlyKh0XoinB) | [Conducta Delictiva](https://open.spotify.com/show/70eZc1jDll5wI1WRP794Tx) | [Conducta Delictiva](https://open.spotify.com/album/70eZc1jDll5wI1WRP794Tx) | 1:07:47 |
-| 7 | [196\. La fórmula para triunfar en la carrera y el amor ft\. Arevalo](https://open.spotify.com/episode/1JcA2DiCKJh2fLZNrPXJPz) | [Dos Cabras Locas](https://open.spotify.com/show/3urn8XzLDrnfQ2gxixlTD3) | [Dos Cabras Locas](https://open.spotify.com/album/3urn8XzLDrnfQ2gxixlTD3) | 48:47 |
+| 7 | [196\. La fórmula para triunfar en la carrera y el amor ft\. Arevalo](https://open.spotify.com/episode/1JcA2DiCKJh2fLZNrPXJPz) | [Dos Cabras Locas](https://open.spotify.com/show/3urn8XzLDrnfQ2gxixlTD3) | [Dos Cabras Locas](https://open.spotify.com/album/3urn8XzLDrnfQ2gxixlTD3) | 47:50 |
 | 8 | [ANA VICTORIA GARCÍA: 7 lecciones crudas de la primera Shark de México](https://open.spotify.com/episode/1N1J5F36SyVUr9FPb5ja8e) | [Dinstinto](https://open.spotify.com/show/6yVO99WI3G9uJLhW7E6EO2) | [Dinstinto](https://open.spotify.com/album/6yVO99WI3G9uJLhW7E6EO2) | 58:24 |
 | 9 | [“Choqué sin querer su carro: Me SIGUIÓ hasta la casa con un M4CH3T3… saqué mi pistola y lo M4T3”](https://open.spotify.com/episode/2nqaCfKRrobhviQMhgalqj) | [Conducta Delictiva](https://open.spotify.com/show/70eZc1jDll5wI1WRP794Tx) | [Conducta Delictiva](https://open.spotify.com/album/70eZc1jDll5wI1WRP794Tx) | 48:57 |
 | 10 | [gracias por nada TikTok \| Ep 14 \| Si Soy](https://open.spotify.com/episode/7EoBjI7GCGdhF2rNzmcSq8) | [Si Soy el Podcast](https://open.spotify.com/show/3W618K8rM67ftO4Kdl4QCy) | [Si Soy el Podcast](https://open.spotify.com/album/3W618K8rM67ftO4Kdl4QCy) | 42:29 |

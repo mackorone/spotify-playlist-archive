@@ -1226,6 +1226,24 @@
     {
       "album": {
         "name": "Feij\u00e3o Com Arroz",
+        "url": "https://open.spotify.com/album/6CPeyKMDVZRdSRDHFcmnRS"
+      },
+      "artists": [
+        {
+          "name": "Daniela Mercury",
+          "url": "https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219160,
+      "name": "Rapunzel",
+      "url": "https://open.spotify.com/track/2WtbM5MmLJI9toBOfcvWu2"
+    },
+    {
+      "album": {
+        "name": "Feij\u00e3o Com Arroz",
         "url": "https://open.spotify.com/album/5ro9tttD1jyhJjfZzxsd1C"
       },
       "artists": [
@@ -1240,24 +1258,6 @@
       "duration_ms": 219200,
       "name": "Rapunzel",
       "url": "https://open.spotify.com/track/5IocKfGOEyFiBolTgguc5c"
-    },
-    {
-      "album": {
-        "name": "Feij\u00e3o Com Arroz",
-        "url": "https://open.spotify.com/album/6CPeyKMDVZRdSRDHFcmnRS"
-      },
-      "artists": [
-        {
-          "name": "Daniela Mercury",
-          "url": "https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg"
-        }
-      ],
-      "date_added": "2023-03-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 219160,
-      "name": "Rapunzel - Ao Vivo",
-      "url": "https://open.spotify.com/track/2WtbM5MmLJI9toBOfcvWu2"
     },
     {
       "album": {

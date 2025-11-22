@@ -1517,6 +1517,24 @@
     },
     {
       "album": {
+        "name": "Santa Claus is Coming to Town",
+        "url": "https://open.spotify.com/album/1GFfiuYtbgGRtegkxuhoqZ"
+      },
+      "artists": [
+        {
+          "name": "The Kody Norris Show",
+          "url": "https://open.spotify.com/artist/0l64ISwwNK0l6H3R1bwRha"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141280,
+      "name": "Santa Claus is Coming to Town",
+      "url": "https://open.spotify.com/track/22oecvfdnyThtIYtFlnByr"
+    },
+    {
+      "album": {
         "name": "Silent Night",
         "url": "https://open.spotify.com/album/0iRT99MQkoiRsfI8jHL4qN"
       },
@@ -1760,6 +1778,28 @@
       "duration_ms": 152053,
       "name": "The Christmas Medley",
       "url": "https://open.spotify.com/track/0hNwLoudMLnR3It8zehcP8"
+    },
+    {
+      "album": {
+        "name": "A Christmas Duo",
+        "url": "https://open.spotify.com/album/1tI35OZ9XNPiL0Pec46adV"
+      },
+      "artists": [
+        {
+          "name": "Mark O'Connor",
+          "url": "https://open.spotify.com/artist/5zfaMrd5q4szVTxVYWuoDV"
+        },
+        {
+          "name": "Maggie O'Connor",
+          "url": "https://open.spotify.com/artist/4Q8UgP0qdFTSIKJLfwmqCH"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260680,
+      "name": "The First Noel",
+      "url": "https://open.spotify.com/track/24QCJuqjDR0DmVSZPGOXsh"
     },
     {
       "album": {

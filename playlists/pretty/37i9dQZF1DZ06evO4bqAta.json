@@ -1,12 +1,12 @@
 {
   "description": "This is Bob Dylan. The essential tracks, all in one playlist.",
-  "num_followers": 585199,
+  "num_followers": 585258,
   "original_name": "This Is Bob Dylan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aR0IgAAAAAAsi3q0MTrUvbw/lLr2W6Le",
+  "snapshot_id": "aR5aAAAAAAAirh4M/3qz9/zCbdCccFNG",
   "tracks": [
     {
       "added_at": null,
@@ -303,8 +303,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boots of Spanish Leather (The Times They Are A-Changin' Alternate Take, NYC, 1963)",
-        "url": "https://open.spotify.com/album/0axVTinrU5728DsrbN8qhH"
+        "name": "Bob Dylan's Greatest Hits",
+        "url": "https://open.spotify.com/album/3V3d0884r25OnvSpM8hD0T"
       },
       "artists": [
         {
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
         }
       ],
-      "duration_ms": 309364,
-      "name": "Boots of Spanish Leather - The Times They Are A-Changin' Alternate Take, NYC, 1963",
-      "url": "https://open.spotify.com/track/71aYPdsgHtu0tgZrJMPqsF"
+      "duration_ms": 233533,
+      "name": "Positively 4th Street",
+      "url": "https://open.spotify.com/track/6q9rNSvE59IVT3ZlEorvYb"
     },
     {
       "added_at": null,
@@ -335,8 +335,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bob Dylan's Greatest Hits",
-        "url": "https://open.spotify.com/album/3V3d0884r25OnvSpM8hD0T"
+        "name": "Boots of Spanish Leather (The Times They Are A-Changin' Alternate Take, NYC, 1963)",
+        "url": "https://open.spotify.com/album/0axVTinrU5728DsrbN8qhH"
       },
       "artists": [
         {
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
         }
       ],
-      "duration_ms": 233533,
-      "name": "Positively 4th Street",
-      "url": "https://open.spotify.com/track/6q9rNSvE59IVT3ZlEorvYb"
+      "duration_ms": 309364,
+      "name": "Boots of Spanish Leather - The Times They Are A-Changin' Alternate Take, NYC, 1963",
+      "url": "https://open.spotify.com/track/71aYPdsgHtu0tgZrJMPqsF"
     },
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blonde On Blonde",
-        "url": "https://open.spotify.com/album/4NP1rhnsPdYpnyJP0p0k0L"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 293828,
-      "name": "Just Like a Woman",
-      "url": "https://open.spotify.com/track/37Dl7jQMmt0gUnzTKqnjkN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blood On The Tracks",
         "url": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 202805,
       "name": "Buckets of Rain",
       "url": "https://open.spotify.com/track/5eVjE8FDSDXQLSbTZSA5Qv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blonde On Blonde",
+        "url": "https://open.spotify.com/album/4NP1rhnsPdYpnyJP0p0k0L"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 293828,
+      "name": "Just Like a Woman",
+      "url": "https://open.spotify.com/track/37Dl7jQMmt0gUnzTKqnjkN"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rocks And Gravel (Solid Road)",
-        "url": "https://open.spotify.com/album/4epjyxCSD9OV7SONWXecL6"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 177647,
-      "name": "Rocks And Gravel (Solid Road)",
-      "url": "https://open.spotify.com/track/49fv1KJHAdY7Ml7fT6vyUE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Street-Legal",
         "url": "https://open.spotify.com/album/0bd6oCsp5JoJ5erpMzHu1U"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 397093,
       "name": "Changing of the Guards",
       "url": "https://open.spotify.com/track/2vVpjZxlSiqR5wr2YeZPB2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rocks And Gravel (Solid Road)",
+        "url": "https://open.spotify.com/album/4epjyxCSD9OV7SONWXecL6"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 177647,
+      "name": "Rocks And Gravel (Solid Road)",
+      "url": "https://open.spotify.com/track/49fv1KJHAdY7Ml7fT6vyUE"
     },
     {
       "added_at": null,

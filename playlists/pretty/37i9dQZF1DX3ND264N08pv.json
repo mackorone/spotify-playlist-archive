@@ -1,6 +1,6 @@
 {
   "description": "Hardcore, Frenchcore and uptempo to get you pumped",
-  "num_followers": 90127,
+  "num_followers": 90157,
   "original_name": "Hardcore Rage 2025",
   "owner": {
     "name": "Spotify",
@@ -427,26 +427,6 @@
     {
       "added_at": "2025-11-17 16:41:07",
       "album": {
-        "name": "Trip to Italia",
-        "url": "https://open.spotify.com/album/7gK850y20cW0cjdU2ERi8V"
-      },
-      "artists": [
-        {
-          "name": "Dr. Peacock",
-          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
-        },
-        {
-          "name": "Rooler",
-          "url": "https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi"
-        }
-      ],
-      "duration_ms": 214200,
-      "name": "Trip to Italia",
-      "url": "https://open.spotify.com/track/37YjbaFWtcE0Iw3ngEffg9"
-    },
-    {
-      "added_at": "2025-11-17 16:41:07",
-      "album": {
         "name": "Pennywise (Deadly Guns Remix)",
         "url": "https://open.spotify.com/album/3pYxt3quOJYXUecq92TgFb"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 152000,
       "name": "Pennywise - Deadly Guns Remix",
       "url": "https://open.spotify.com/track/6m8neHWouA9kxypGPNwDA4"
+    },
+    {
+      "added_at": "2025-11-17 16:41:07",
+      "album": {
+        "name": "Trip to Italia",
+        "url": "https://open.spotify.com/album/7gK850y20cW0cjdU2ERi8V"
+      },
+      "artists": [
+        {
+          "name": "Dr. Peacock",
+          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
+        },
+        {
+          "name": "Rooler",
+          "url": "https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi"
+        }
+      ],
+      "duration_ms": 214200,
+      "name": "Trip to Italia",
+      "url": "https://open.spotify.com/track/37YjbaFWtcE0Iw3ngEffg9"
     },
     {
       "added_at": "2025-11-17 16:41:07",
@@ -559,6 +559,22 @@
     {
       "added_at": "2025-11-17 16:41:07",
       "album": {
+        "name": "Club Banger",
+        "url": "https://open.spotify.com/album/1dRTAgu3lF9zpe1WaDZ2wf"
+      },
+      "artists": [
+        {
+          "name": "Angerfist",
+          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
+        }
+      ],
+      "duration_ms": 118363,
+      "name": "Club Banger",
+      "url": "https://open.spotify.com/track/2wkQjbEHsp0VbFdbc3FFWS"
+    },
+    {
+      "added_at": "2025-11-17 16:41:07",
+      "album": {
         "name": "Hate Destroyer",
         "url": "https://open.spotify.com/album/7xAeX8mHtj2AadeIX856Mb"
       },
@@ -591,26 +607,6 @@
     {
       "added_at": "2025-11-17 16:41:07",
       "album": {
-        "name": "Paint It Black",
-        "url": "https://open.spotify.com/album/1cV57IymcPP6bXxvpRbdBp"
-      },
-      "artists": [
-        {
-          "name": "Dr. Peacock",
-          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
-        },
-        {
-          "name": "The Sickest Squad",
-          "url": "https://open.spotify.com/artist/1NGSmZz3W7RduM185NLWdk"
-        }
-      ],
-      "duration_ms": 198315,
-      "name": "Paint It Black",
-      "url": "https://open.spotify.com/track/4IquRZr4tENZfBNKyVaxOP"
-    },
-    {
-      "added_at": "2025-11-17 16:41:07",
-      "album": {
         "name": "Internet Hooligan",
         "url": "https://open.spotify.com/album/1u3zmIGG1j0kwtBRSq6OIQ"
       },
@@ -635,18 +631,22 @@
     {
       "added_at": "2025-11-17 16:41:07",
       "album": {
-        "name": "Club Banger",
-        "url": "https://open.spotify.com/album/1dRTAgu3lF9zpe1WaDZ2wf"
+        "name": "Paint It Black",
+        "url": "https://open.spotify.com/album/1cV57IymcPP6bXxvpRbdBp"
       },
       "artists": [
         {
-          "name": "Angerfist",
-          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
+          "name": "Dr. Peacock",
+          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
+        },
+        {
+          "name": "The Sickest Squad",
+          "url": "https://open.spotify.com/artist/1NGSmZz3W7RduM185NLWdk"
         }
       ],
-      "duration_ms": 118363,
-      "name": "Club Banger",
-      "url": "https://open.spotify.com/track/2wkQjbEHsp0VbFdbc3FFWS"
+      "duration_ms": 198315,
+      "name": "Paint It Black",
+      "url": "https://open.spotify.com/track/4IquRZr4tENZfBNKyVaxOP"
     },
     {
       "added_at": "2025-11-17 16:41:07",
@@ -675,22 +675,18 @@
     {
       "added_at": "2025-11-17 16:41:07",
       "album": {
-        "name": "Blast Your Stereo",
-        "url": "https://open.spotify.com/album/6hLniqxTHOc1OOIesBdfZE"
+        "name": "Another Club Banger EP",
+        "url": "https://open.spotify.com/album/7mpD7MeNm8WEHb8KzCYmtd"
       },
       "artists": [
         {
-          "name": "D-Fence",
-          "url": "https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv"
-        },
-        {
-          "name": "Lil Texas",
-          "url": "https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5"
+          "name": "Angerfist",
+          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
         }
       ],
-      "duration_ms": 131473,
-      "name": "Blast Your Stereo",
-      "url": "https://open.spotify.com/track/30C1mHFD8gnf2Q4i177DcQ"
+      "duration_ms": 261091,
+      "name": "Another Club Banger",
+      "url": "https://open.spotify.com/track/1Kw5RisasBWQ2s1E8Yx9GG"
     },
     {
       "added_at": "2025-11-17 16:41:07",
@@ -715,6 +711,26 @@
       "duration_ms": 208800,
       "name": "The FOMO",
       "url": "https://open.spotify.com/track/5wfRtFvcoeRQh03fuXOd6q"
+    },
+    {
+      "added_at": "2025-11-17 16:41:07",
+      "album": {
+        "name": "Blast Your Stereo",
+        "url": "https://open.spotify.com/album/6hLniqxTHOc1OOIesBdfZE"
+      },
+      "artists": [
+        {
+          "name": "D-Fence",
+          "url": "https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv"
+        },
+        {
+          "name": "Lil Texas",
+          "url": "https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5"
+        }
+      ],
+      "duration_ms": 131473,
+      "name": "Blast Your Stereo",
+      "url": "https://open.spotify.com/track/30C1mHFD8gnf2Q4i177DcQ"
     },
     {
       "added_at": "2025-11-17 16:41:07",
@@ -763,26 +779,6 @@
     {
       "added_at": "2025-11-17 16:41:07",
       "album": {
-        "name": "Path Of The Wisemen",
-        "url": "https://open.spotify.com/album/3v5vGc50acckobzhRTFsWd"
-      },
-      "artists": [
-        {
-          "name": "Dr. Peacock",
-          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
-        },
-        {
-          "name": "Billx",
-          "url": "https://open.spotify.com/artist/0Ldjd0Z66CJ0rChWXx0jzB"
-        }
-      ],
-      "duration_ms": 180694,
-      "name": "Path Of The Wisemen",
-      "url": "https://open.spotify.com/track/68Ln2A2umloSrPWrVMOI9h"
-    },
-    {
-      "added_at": "2025-11-17 16:41:07",
-      "album": {
         "name": "Can You Feel My Heart",
         "url": "https://open.spotify.com/album/2BtzKUQZoPGKq8xRv4JPhF"
       },
@@ -819,34 +815,46 @@
     {
       "added_at": "2025-11-17 16:41:07",
       "album": {
-        "name": "Another Club Banger EP",
-        "url": "https://open.spotify.com/album/7mpD7MeNm8WEHb8KzCYmtd"
+        "name": "Path Of The Wisemen",
+        "url": "https://open.spotify.com/album/3v5vGc50acckobzhRTFsWd"
+      },
+      "artists": [
+        {
+          "name": "Dr. Peacock",
+          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
+        },
+        {
+          "name": "Billx",
+          "url": "https://open.spotify.com/artist/0Ldjd0Z66CJ0rChWXx0jzB"
+        }
+      ],
+      "duration_ms": 180694,
+      "name": "Path Of The Wisemen",
+      "url": "https://open.spotify.com/track/68Ln2A2umloSrPWrVMOI9h"
+    },
+    {
+      "added_at": "2025-11-17 16:41:07",
+      "album": {
+        "name": "Temple Of Resonance (Official Masters Of Hardcore 2025 Anthem)",
+        "url": "https://open.spotify.com/album/6IVbGHJN8o7BNTuXlaoRfG"
       },
       "artists": [
         {
           "name": "Angerfist",
           "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
-        }
-      ],
-      "duration_ms": 261091,
-      "name": "Another Club Banger",
-      "url": "https://open.spotify.com/track/1Kw5RisasBWQ2s1E8Yx9GG"
-    },
-    {
-      "added_at": "2025-11-17 16:41:07",
-      "album": {
-        "name": "Rip City",
-        "url": "https://open.spotify.com/album/7lH9jaY4KTBHnQBWEd5UDh"
-      },
-      "artists": [
+        },
         {
-          "name": "Lil Texas",
-          "url": "https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5"
+          "name": "Nolz",
+          "url": "https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA"
+        },
+        {
+          "name": "Tha Watcher",
+          "url": "https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD"
         }
       ],
-      "duration_ms": 161327,
-      "name": "Rip City",
-      "url": "https://open.spotify.com/track/7rggyxZ37OUE7DNwRwnrXU"
+      "duration_ms": 273333,
+      "name": "Temple Of Resonance (Official Masters Of Hardcore 2025 Anthem)",
+      "url": "https://open.spotify.com/track/7gZEZc68gYpSPK2GvPPChc"
     },
     {
       "added_at": "2025-11-17 16:41:07",
@@ -883,6 +891,22 @@
       "duration_ms": 334545,
       "name": "Ratata",
       "url": "https://open.spotify.com/track/46SkUOFgA5eM4uW3tHrt81"
+    },
+    {
+      "added_at": "2025-11-17 16:41:07",
+      "album": {
+        "name": "Rip City",
+        "url": "https://open.spotify.com/album/7lH9jaY4KTBHnQBWEd5UDh"
+      },
+      "artists": [
+        {
+          "name": "Lil Texas",
+          "url": "https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5"
+        }
+      ],
+      "duration_ms": 161327,
+      "name": "Rip City",
+      "url": "https://open.spotify.com/track/7rggyxZ37OUE7DNwRwnrXU"
     },
     {
       "added_at": "2025-11-17 16:41:07",
@@ -963,26 +987,6 @@
       "duration_ms": 161684,
       "name": "Bad To The Bone!!",
       "url": "https://open.spotify.com/track/5pptbJFvpxSlIjMjy9aqsf"
-    },
-    {
-      "added_at": "2025-11-17 16:41:07",
-      "album": {
-        "name": "IGNITED",
-        "url": "https://open.spotify.com/album/7e95lVONxm71pHFikMCfRa"
-      },
-      "artists": [
-        {
-          "name": "D-Fence",
-          "url": "https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv"
-        },
-        {
-          "name": "Nolz",
-          "url": "https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA"
-        }
-      ],
-      "duration_ms": 233270,
-      "name": "IGNITED",
-      "url": "https://open.spotify.com/track/1t0ocUZ9WdvP1145j7h0HM"
     },
     {
       "added_at": "2025-11-17 16:41:07",

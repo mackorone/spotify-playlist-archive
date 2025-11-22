@@ -1,13 +1,49 @@
 {
   "description": "A laid-back trip in the folk scene. Cover: Hudson Freeman",
-  "num_followers": 167369,
+  "num_followers": 167366,
   "original_name": "Folk & Friends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAPwqRbLHo1NDvD9vjeQkb05L9SD",
+  "snapshot_id": "AAAAACGxMoFVJA80OdgKDmr1ZgGhD0DK",
   "tracks": [
+    {
+      "added_at": "2025-11-21 05:01:19",
+      "album": {
+        "name": "takeaways",
+        "url": "https://open.spotify.com/album/7auX3hZqaH4Xlvfz8G5thm"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "duration_ms": 183815,
+      "name": "Balance",
+      "url": "https://open.spotify.com/track/6LGbYF62eHtdQlK0UCkq2m"
+    },
+    {
+      "added_at": "2025-11-21 05:01:19",
+      "album": {
+        "name": "Portland, Maine (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/0Npi170tBzhAhyGnVpTWov"
+      },
+      "artists": [
+        {
+          "name": "Donovan Woods",
+          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
+        },
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 210915,
+      "name": "Portland, Maine (feat. Jordan Davis)",
+      "url": "https://open.spotify.com/track/6M8VA1HQWAP4wggoPZ5ota"
+    },
     {
       "added_at": "2025-11-14 00:01:38",
       "album": {
@@ -25,6 +61,22 @@
       "url": "https://open.spotify.com/track/1QnFKAPgZ7GI9sYITPuYyL"
     },
     {
+      "added_at": "2025-11-21 05:01:19",
+      "album": {
+        "name": "When I Change My Mind I Don't Mean It (Deluxe)",
+        "url": "https://open.spotify.com/album/1FJWUHBGshLfJV4NkSvvkm"
+      },
+      "artists": [
+        {
+          "name": "Chance Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
+        }
+      ],
+      "duration_ms": 188373,
+      "name": "All I Am",
+      "url": "https://open.spotify.com/track/6EC8WKlArPIeWznmf79OMk"
+    },
+    {
       "added_at": "2025-11-14 00:01:38",
       "album": {
         "name": "Photograph of a Cyclone",
@@ -39,6 +91,22 @@
       "duration_ms": 208720,
       "name": "Photograph of a Cyclone",
       "url": "https://open.spotify.com/track/23FYMYQwvk7tYATcPe3EfE"
+    },
+    {
+      "added_at": "2025-11-21 05:01:19",
+      "album": {
+        "name": "I Think I Preferred The Question",
+        "url": "https://open.spotify.com/album/1ytjCPL1vCDlvmSbpcMKPE"
+      },
+      "artists": [
+        {
+          "name": "Foy Vance",
+          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
+        }
+      ],
+      "duration_ms": 271318,
+      "name": "I Think I Preferred The Question",
+      "url": "https://open.spotify.com/track/3x5y20gf4hrQ1gHS3KrWns"
     },
     {
       "added_at": "2025-11-14 00:01:38",
@@ -73,6 +141,22 @@
       "url": "https://open.spotify.com/track/6n95B2mJPJBS3lBSn86JfL"
     },
     {
+      "added_at": "2025-11-21 05:01:19",
+      "album": {
+        "name": "The News",
+        "url": "https://open.spotify.com/album/7oRiVvp56YY3YrWn1gWFOp"
+      },
+      "artists": [
+        {
+          "name": "Drugdealer",
+          "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
+        }
+      ],
+      "duration_ms": 225615,
+      "name": "The News",
+      "url": "https://open.spotify.com/track/7DBf7vpgcSNBw6dL3IIuHD"
+    },
+    {
       "added_at": "2025-11-14 00:01:38",
       "album": {
         "name": "winding down",
@@ -103,6 +187,22 @@
       "duration_ms": 209773,
       "name": "Fourteen Hours",
       "url": "https://open.spotify.com/track/0IAG7vs6rImln2cP8Hnlyk"
+    },
+    {
+      "added_at": "2025-11-21 05:01:19",
+      "album": {
+        "name": "coldwater canyon",
+        "url": "https://open.spotify.com/album/0KI3RBU6RVvcoNtXv47WQo"
+      },
+      "artists": [
+        {
+          "name": "Sarah Thompson",
+          "url": "https://open.spotify.com/artist/7fMszWkv9oChFal6nM505j"
+        }
+      ],
+      "duration_ms": 177565,
+      "name": "coldwater canyon",
+      "url": "https://open.spotify.com/track/4TF5BEtzmoDaubmY6W4E38"
     },
     {
       "added_at": "2025-11-14 00:01:38",
@@ -1455,70 +1555,6 @@
     {
       "added_at": "2025-09-19 00:01:10",
       "album": {
-        "name": "Elk-Lake Serenade (20th Anniversary)",
-        "url": "https://open.spotify.com/album/6HmjqsGj4LprnVBNkD4Qc0"
-      },
-      "artists": [
-        {
-          "name": "Hayden",
-          "url": "https://open.spotify.com/artist/2EJpeCmBlwSNpb1GcTj1xp"
-        }
-      ],
-      "duration_ms": 145522,
-      "name": "In A Minute",
-      "url": "https://open.spotify.com/track/7JoIXpwP4uOZbaoeIfjXum"
-    },
-    {
-      "added_at": "2025-09-19 00:01:10",
-      "album": {
-        "name": "Call on Me",
-        "url": "https://open.spotify.com/album/64UJBGBzbvhy1SmTCOhtl3"
-      },
-      "artists": [
-        {
-          "name": "AHI",
-          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
-        }
-      ],
-      "duration_ms": 180051,
-      "name": "Call on Me",
-      "url": "https://open.spotify.com/track/1f0tS8qA5DsPUzhlRnWyj9"
-    },
-    {
-      "added_at": "2025-09-19 00:01:10",
-      "album": {
-        "name": "Crazy Blue",
-        "url": "https://open.spotify.com/album/5MYskDUTKIXmnTPfCCBkgj"
-      },
-      "artists": [
-        {
-          "name": "Altameda",
-          "url": "https://open.spotify.com/artist/01KXhlX2PCz5Uiw7d5eryb"
-        }
-      ],
-      "duration_ms": 219880,
-      "name": "Stuck In Your Ways",
-      "url": "https://open.spotify.com/track/2qa1ANs0kZd2suAjGv0h82"
-    },
-    {
-      "added_at": "2025-09-19 00:01:10",
-      "album": {
-        "name": "Starting Over",
-        "url": "https://open.spotify.com/album/5jS1UDnigkwwbwB9T6l470"
-      },
-      "artists": [
-        {
-          "name": "Thelma & James",
-          "url": "https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE"
-        }
-      ],
-      "duration_ms": 225261,
-      "name": "Parking Lot Prayers",
-      "url": "https://open.spotify.com/track/0TMwDEVotcHkOwQb2lgZcl"
-    },
-    {
-      "added_at": "2025-09-19 00:01:10",
-      "album": {
         "name": "The Ceiling",
         "url": "https://open.spotify.com/album/5qikq68HaaoP6uKRwzIbHG"
       },
@@ -1551,38 +1587,6 @@
       "duration_ms": 230535,
       "name": "Cat's Cradle - Spanish Version",
       "url": "https://open.spotify.com/track/7FprIbwrHFDESevTUjb5uL"
-    },
-    {
-      "added_at": "2025-09-19 00:01:10",
-      "album": {
-        "name": "Pull The Rug",
-        "url": "https://open.spotify.com/album/0TRRiqaZGIr8xGfARrFtoa"
-      },
-      "artists": [
-        {
-          "name": "HAFFWAY",
-          "url": "https://open.spotify.com/artist/3GL9CphwkHjP0Niz2fTWJH"
-        }
-      ],
-      "duration_ms": 216200,
-      "name": "Pull The Rug",
-      "url": "https://open.spotify.com/track/0MULYUjm5SwIdg86qlb3cH"
-    },
-    {
-      "added_at": "2025-09-19 00:01:10",
-      "album": {
-        "name": "Afterglades",
-        "url": "https://open.spotify.com/album/6IFfjF5qs4h20y3h0g9YHx"
-      },
-      "artists": [
-        {
-          "name": "Mappe Of",
-          "url": "https://open.spotify.com/artist/02Zxif3WoHx6ujXBSfBKOr"
-        }
-      ],
-      "duration_ms": 215840,
-      "name": "Obsoloscenic",
-      "url": "https://open.spotify.com/track/7eCW5Z1UPdeEsxHxXJ557M"
     },
     {
       "added_at": "2025-09-12 00:01:24",

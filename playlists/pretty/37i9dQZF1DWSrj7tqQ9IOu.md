@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > Le meilleur de l'indie français\. Cover : Heroe
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,403 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,392 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,11 +15,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 5 | [L'intranquillité](https://open.spotify.com/track/5wlP1eAUgaETs3u2VlrU1z) | [Kazy Lambist](https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH), [Lulu Gainsbourg](https://open.spotify.com/artist/5W38lYXVLIEfyTFBQKTfmX), [Jowee Omicil](https://open.spotify.com/artist/0uLoiIx5FHquutLKMM93bY) | [L'intranquillité](https://open.spotify.com/album/5HHMb6ROHLzBF3MnrzoVxQ) | 4:20 |
 | 6 | [Je\-m'en\-foutisme](https://open.spotify.com/track/2HVbMBvaLBk8r9N2JkoSdr) | [Bolivard](https://open.spotify.com/artist/4I9Jjqu3WodJ5v8VOoeWyE) | [Je\-m'en\-foutisme](https://open.spotify.com/album/3MtHZHhYxhiMheSNTObC1R) | 2:27 |
 | 7 | [des excuses](https://open.spotify.com/track/3oheKF0nqti5irt9c83pIp) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [des excuses](https://open.spotify.com/album/7la1qjGOy4Pz8rGhfkA8bd) | 3:27 |
-| 8 | [That Girl](https://open.spotify.com/track/367jZlkmOpSqMGwjlRvQrp) | [Astels](https://open.spotify.com/artist/4azViUTvRLgNwb3GmtZvii) | [](https://open.spotify.com/album/null) | 2:53 |
+| 8 | [That Girl](https://open.spotify.com/track/367jZlkmOpSqMGwjlRvQrp) | [Astels](https://open.spotify.com/artist/4azViUTvRLgNwb3GmtZvii) | [The Meeting \(Deluxe\)](https://open.spotify.com/album/6hJvlNYhmPZeJH19TTAKde) | 2:53 |
 | 9 | [Coeur de verre](https://open.spotify.com/track/0M3f8bLNATelCrDaw5FLlb) | [Napkey](https://open.spotify.com/artist/4MismZLKqMb2Qb2HjK4sdE) | [Coeur de verre](https://open.spotify.com/album/5ysp6QHgZ20slMixdYosBj) | 2:33 |
 | 10 | [Smile Game](https://open.spotify.com/track/6PiL3Tdk4LTiOWhTz5anh6) | [Saint Stacy](https://open.spotify.com/artist/5jvug60dRrKFRuQp8zKn9G) | [Smile Game](https://open.spotify.com/album/5Kf1dsBBZKnOaqARQrmfH2) | 2:25 |
 | 11 | [VHS](https://open.spotify.com/track/0sdCzUNGQZHL6pE0puBOfN) | [Mattyeux](https://open.spotify.com/artist/3bFokK6zCab3bPwSjktEVF), [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [VHS](https://open.spotify.com/album/2EurhJLQsbr7BP8VTeMg6c) | 3:15 |
-| 12 | [How and Why](https://open.spotify.com/track/1ZZzsWH20AiwCQnsTHxbnW) | [Mélanie Pain](https://open.spotify.com/artist/2Sk0H4rS0QuQESESHELFy0) | [](https://open.spotify.com/album/null) | 4:21 |
+| 12 | [How and Why](https://open.spotify.com/track/1ZZzsWH20AiwCQnsTHxbnW) | [Mélanie Pain](https://open.spotify.com/artist/2Sk0H4rS0QuQESESHELFy0) | [How and Why](https://open.spotify.com/album/2E1V1P1SBtdBjmA8j5Kpou) | 4:21 |
 | 13 | [dans tes yeux](https://open.spotify.com/track/3flkd70LFK3kEqip0lo5Eo) | [Heroe](https://open.spotify.com/artist/4MkrS9W3HKGDoFcg6vhbF1) | [dans tes yeux](https://open.spotify.com/album/30JMjTjVI7rJrJw0YItrdf) | 3:16 |
 | 14 | [Nuit sauvage](https://open.spotify.com/track/7zbOsTSAkfLuf7865DYbai) | [ELISA ERKA](https://open.spotify.com/artist/1EkqwqtzsjxMYJZH73RFVM), [SOLEIL ROUGE](https://open.spotify.com/artist/2Trhtz39560UW6C8EXSrrI) | [Nuit sauvage](https://open.spotify.com/album/3GYhCAFqT7Rkh7WMthR7Rw) | 2:31 |
 | 15 | [coup de vent](https://open.spotify.com/track/7bgL5HIj6yUwrew8SyVK20) | [DO not DO](https://open.spotify.com/artist/7ipFE8S09qHrx6zoLKVGqi) | [coup de vent](https://open.spotify.com/album/6beHhebz4qt4kmCmbFEvAh) | 3:40 |
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 17 | [MICHAEL](https://open.spotify.com/track/37Yqh5GKMVPaGjfOSNhqJ0) | [Deluxe](https://open.spotify.com/artist/4EePV5BljRSXJnYww4d5Qa) | [MICHAEL](https://open.spotify.com/album/668jOGhZKeBUlvAWoDXWee) | 3:38 |
 | 18 | [Rendez\-Vous](https://open.spotify.com/track/3lNR14zilwrsfzhR2xdjz8) | [Amouë](https://open.spotify.com/artist/5hxkInZtrkxDnUjsRqs5Ww) | [Rendez\-Vous](https://open.spotify.com/album/2FXOuq50r73n97WB4SrdiN) | 2:28 |
 | 19 | [Real Things](https://open.spotify.com/track/4WxrR0mZvJKpNzBzvECSbe) | [Astels](https://open.spotify.com/artist/4azViUTvRLgNwb3GmtZvii) | [Real Things](https://open.spotify.com/album/0UKpVTyplpmfnubeifSgnl) | 2:43 |
-| 20 | [Track 3](https://open.spotify.com/track/3ikP559a41B8wyZAgtzEhf) | [Princesse](https://open.spotify.com/artist/6btazhSPWJjAUX7Qvk8CEw) | [](https://open.spotify.com/album/null) | 0:00 |
+| 20 | [J'aime cette fille](https://open.spotify.com/track/3ikP559a41B8wyZAgtzEhf) | [Princesse](https://open.spotify.com/artist/6btazhSPWJjAUX7Qvk8CEw) | [Nouvelle Romance](https://open.spotify.com/album/1KgkUFoyDbePr8K72vTffF) | 2:48 |
 | 21 | [My Hero](https://open.spotify.com/track/2oyBvQDVgsiiZ9i0cusjbR) | [Kids Return](https://open.spotify.com/artist/5U4QUWaCwxvtUz2hTu0Bkq) | [1997](https://open.spotify.com/album/6OUJxofNyMo3qiiCOV5y9S) | 2:40 |
 | 22 | [à deux](https://open.spotify.com/track/4o9qAFSKQCZHM6tYoKrxGq) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [à deux](https://open.spotify.com/album/0lBTXzbaZT2BSXQZHjWFM1) | 3:25 |
 | 23 | [viens on part](https://open.spotify.com/track/0Jur8kJXfTdBwhJoNMEGgb) | [lili](https://open.spotify.com/artist/3CKIyHaaQL4vE7BQxvck9e) | [viens on part](https://open.spotify.com/album/7xSHTYnwyFVUONUoKILwgp) | 2:45 |

@@ -6389,6 +6389,32 @@
     },
     {
       "album": {
+        "name": "Otherside",
+        "url": "https://open.spotify.com/album/2Ksvhe4WBN9qUAbCqzQXXD"
+      },
+      "artists": [
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        },
+        {
+          "name": "Thunder Jackson",
+          "url": "https://open.spotify.com/artist/3o0xJMKswwtXz2PhrRCHhJ"
+        },
+        {
+          "name": "MiiRACLES",
+          "url": "https://open.spotify.com/artist/6zsHYQWjSH9RbUYoc07Kp5"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183866,
+      "name": "Otherside",
+      "url": "https://open.spotify.com/track/1xXwHbCF1Vm9DHxxQkef4i"
+    },
+    {
+      "album": {
         "name": "Otherside (Jasper Tygner Remix)",
         "url": "https://open.spotify.com/album/79B8ebZHtuxsZ4lioIF6UZ"
       },

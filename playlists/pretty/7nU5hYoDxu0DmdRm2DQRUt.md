@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7nU5hYoDxu0DmdRm2DQRUt.md) - [plain]
 
 > New Arrivals keeps you posted on the latest records arriving in our record store and online shop &\#x2F; kompakt.fm
 
-[Kompakt Records](https://open.spotify.com/user/kompaktrecords) - 7,799 likes - 260 songs - 1 day 2 hr 2 min
+[Kompakt Records](https://open.spotify.com/user/kompaktrecords) - 7,800 likes - 266 songs - 1 day 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -268,5 +268,11 @@ pretty - [cumulative](/playlists/cumulative/7nU5hYoDxu0DmdRm2DQRUt.md) - [plain]
 | 258 | [Strobe Light Network](https://open.spotify.com/track/0IpYV1uK57V0x5ETupMXOm) | [Cold](https://open.spotify.com/artist/3bxfOfSCLwqgMM5ThWJ5vu) | [Strobe Light Network Remixes](https://open.spotify.com/album/2j6hRDRp767sliYqaofE3l) | 15:11 |
 | 259 | [A Thousand Nights](https://open.spotify.com/track/5PFx3hjH2REjYpbDqzEXaA) | [Gregor Tresher](https://open.spotify.com/artist/3vy8oQAubj1IykJLLqvVFC) | [A Thousand Nights](https://open.spotify.com/album/7f5fn47PX8cJ5yimWe9Z2G) | 7:36 |
 | 260 | [Vagus](https://open.spotify.com/track/5zWG7WQqS4pRVKY5BXyhWH) | [Michael Mayer](https://open.spotify.com/artist/5R9d1YP5jtBw2IrQItGzQI) | [The Floor is Lava](https://open.spotify.com/album/7BDabCLxCQOD8aRLwbd7VU) | 5:29 |
+| 261 | [Entropy](https://open.spotify.com/track/5tYJU0mqW8WUW9bHkKj04Y) | [Nick León](https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2), [Xander Amahd](https://open.spotify.com/artist/3uWOXQrsmq8Dm6I4Osx55k) | [A Tropical Entropy](https://open.spotify.com/album/2nzRzw1h5j5Kr6QTjlR3es) | 2:50 |
+| 262 | [They Came For My Head](https://open.spotify.com/track/1yZSrHYMITz0eaxNqwjga3) | [The Black Dog](https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq) | [Loud Ambient](https://open.spotify.com/album/5a1UTBrZDRr3rOFxoDCh08) | 4:43 |
+| 263 | [Danz Danz](https://open.spotify.com/track/1bldPYOMo2PQ7MvFTWIvcU) | [Reboot](https://open.spotify.com/artist/3MUGWsOTNoR1OmZjgdQS3H) | [Lind EP](https://open.spotify.com/album/4mxc9Ume6q6L3ur9358FDK) | 2:56 |
+| 264 | [Not on a Map](https://open.spotify.com/track/5iRQdyNBnvPv2ypxwHyELf) | [Extrawelt](https://open.spotify.com/artist/3VRvi42U8SsiT4YKP5LNCB), [Dominik Eulberg](https://open.spotify.com/artist/44zcDDVZOY0ck7KECNUPK1) | [A Little Further](https://open.spotify.com/album/0eUiW9fK7gQZupKYz0iMw7) | 8:39 |
+| 265 | [Drift\_\_](https://open.spotify.com/track/1znnxhsqOF31Zg2L5pCwia) | [XENIA REAPER](https://open.spotify.com/artist/50bJUH7vZt4KzJM0rAHh1I) | [Nept Polarisation](https://open.spotify.com/album/6YEsbq57z8arIdnW4NZEPh) | 4:16 |
+| 266 | [Hiss Spite](https://open.spotify.com/track/2LOmCcJdF7XlWUcJA1JevI) | [Cosimo Damiano](https://open.spotify.com/artist/64xT4w2YNKVxDahZxTOlxX) | [Breaks The Shell](https://open.spotify.com/album/5WDrU5TNJtapS2133gyvqq) | 5:47 |
 
-Snapshot ID: `AAAOdjY+djBfzZ+N1bK34x22A84LLjL5`
+Snapshot ID: `AAAOfBrANLuWkQKNGa6J38eImqrP6LDF`

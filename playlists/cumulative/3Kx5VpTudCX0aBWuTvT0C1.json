@@ -1289,6 +1289,24 @@
     },
     {
       "album": {
+        "name": "The Hope and Desperation of the Sea",
+        "url": "https://open.spotify.com/album/74S6lWVbgQSkyDmqUznX1b"
+      },
+      "artists": [
+        {
+          "name": "Pink Cliffs",
+          "url": "https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222213,
+      "name": "The Hope and Desperation of the Sea",
+      "url": "https://open.spotify.com/track/6lxU2is3bvGg1qzCpZXMOo"
+    },
+    {
+      "album": {
         "name": "The Price of Not Being Me",
         "url": "https://open.spotify.com/album/7dUP5R8LClZXSqEuSOVdUA"
       },

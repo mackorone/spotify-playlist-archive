@@ -1,12 +1,12 @@
 {
   "description": "\ud83c\udf43\ud83c\udf43\ud83c\udf43 Runo Plum on the cover",
-  "num_followers": 143585,
+  "num_followers": 143589,
   "original_name": "juniper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHzbFboFAXI4UlTUKiY6qLFMo091",
+  "snapshot_id": "AAAAAN+JuziwS3QUOSZMSka+T7J1kFn2",
   "tracks": [
     {
       "added_at": "2025-11-14 05:00:33",
@@ -39,6 +39,70 @@
       "duration_ms": 190476,
       "name": "The Hand",
       "url": "https://open.spotify.com/track/5W9YtUsoXA547TTPJUXvns"
+    },
+    {
+      "added_at": "2025-11-21 05:00:33",
+      "album": {
+        "name": "In Twos",
+        "url": "https://open.spotify.com/album/69T3NDWI9uysXn3tsMfPLW"
+      },
+      "artists": [
+        {
+          "name": "Esha Tewari",
+          "url": "https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt"
+        }
+      ],
+      "duration_ms": 166897,
+      "name": "In Twos",
+      "url": "https://open.spotify.com/track/4RlKJvvNZGrzZtupp8C2ap"
+    },
+    {
+      "added_at": "2025-11-21 05:00:33",
+      "album": {
+        "name": "I Can See The Future",
+        "url": "https://open.spotify.com/album/2r03tuODAS7RHQdN6VrmVy"
+      },
+      "artists": [
+        {
+          "name": "Leith Ross",
+          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
+        }
+      ],
+      "duration_ms": 315680,
+      "name": "Terrified",
+      "url": "https://open.spotify.com/track/7BdOjMjIU66j98WAQzlyqL"
+    },
+    {
+      "added_at": "2025-11-21 05:00:33",
+      "album": {
+        "name": "takeaways",
+        "url": "https://open.spotify.com/album/7auX3hZqaH4Xlvfz8G5thm"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "J&L",
+      "url": "https://open.spotify.com/track/3JNZZrulRYbWLZaAkK56tr"
+    },
+    {
+      "added_at": "2025-11-21 05:00:33",
+      "album": {
+        "name": "Pushing It Down and Praying (Live from AFAS, Amsterdam)",
+        "url": "https://open.spotify.com/album/5nvAnZulqUnBeC8wO3xjfM"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 239323,
+      "name": "Pushing It Down and Praying - Live from AFAS, Amsterdam",
+      "url": "https://open.spotify.com/track/17uCITlzfTYFubzabQunsn"
     },
     {
       "added_at": "2025-11-14 05:00:33",
@@ -121,20 +185,24 @@
       "url": "https://open.spotify.com/track/1QnFKAPgZ7GI9sYITPuYyL"
     },
     {
-      "added_at": "2025-11-07 05:00:48",
+      "added_at": "2025-11-21 05:00:33",
       "album": {
-        "name": "to earth will you tell me when we land",
-        "url": "https://open.spotify.com/album/2LGC8eOQWTkqpSDvyH4GeN"
+        "name": "My Life in Art",
+        "url": "https://open.spotify.com/album/3v68k1YXxKESVaoeymU8AR"
       },
       "artists": [
         {
-          "name": "Pem",
-          "url": "https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs"
+          "name": "Squirrel Flower",
+          "url": "https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni"
+        },
+        {
+          "name": "Babehoven",
+          "url": "https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70"
         }
       ],
-      "duration_ms": 240482,
-      "name": "to earth will you tell me when we land",
-      "url": "https://open.spotify.com/track/1tTycAzC9CoC3ODkT6kE81"
+      "duration_ms": 308760,
+      "name": "My Life in Art",
+      "url": "https://open.spotify.com/track/3x122zrezspip9MUfAz2se"
     },
     {
       "added_at": "2025-11-07 05:00:48",
@@ -271,6 +339,22 @@
     {
       "added_at": "2025-11-07 05:00:48",
       "album": {
+        "name": "to earth will you tell me when we land",
+        "url": "https://open.spotify.com/album/2LGC8eOQWTkqpSDvyH4GeN"
+      },
+      "artists": [
+        {
+          "name": "Pem",
+          "url": "https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs"
+        }
+      ],
+      "duration_ms": 240482,
+      "name": "to earth will you tell me when we land",
+      "url": "https://open.spotify.com/track/1tTycAzC9CoC3ODkT6kE81"
+    },
+    {
+      "added_at": "2025-11-07 05:00:48",
+      "album": {
         "name": "Lake Run Drive",
         "url": "https://open.spotify.com/album/0swneIkCfAAXIl164byvJy"
       },
@@ -283,6 +367,22 @@
       "duration_ms": 226785,
       "name": "Lake Run Drive",
       "url": "https://open.spotify.com/track/3CdtsOH0jiVvJVDDPAZXam"
+    },
+    {
+      "added_at": "2025-11-21 05:00:33",
+      "album": {
+        "name": "is a Folk Artist",
+        "url": "https://open.spotify.com/album/373bkruQ61S0eMgL8dFAOG"
+      },
+      "artists": [
+        {
+          "name": "Hudson Freeman",
+          "url": "https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8"
+        }
+      ],
+      "duration_ms": 242007,
+      "name": "Good Faith",
+      "url": "https://open.spotify.com/track/0UZzkBF9GdsHx71iy1HzcC"
     },
     {
       "added_at": "2025-11-07 05:00:48",
@@ -571,22 +671,6 @@
       "duration_ms": 162946,
       "name": "One Is Always Heading Somewhere",
       "url": "https://open.spotify.com/track/1nTCvb1GHKtGmj1up3z6Tx"
-    },
-    {
-      "added_at": "2025-11-07 05:00:48",
-      "album": {
-        "name": "I Can See The Future",
-        "url": "https://open.spotify.com/album/2r03tuODAS7RHQdN6VrmVy"
-      },
-      "artists": [
-        {
-          "name": "Leith Ross",
-          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
-        }
-      ],
-      "duration_ms": 289653,
-      "name": "Point of View",
-      "url": "https://open.spotify.com/track/4lHCfrmfJxOCcrPz4s5eLD"
     },
     {
       "added_at": "2025-11-07 05:00:48",
@@ -2431,22 +2515,6 @@
     {
       "added_at": "2025-11-07 05:00:48",
       "album": {
-        "name": "wraith",
-        "url": "https://open.spotify.com/album/1wG3pKqRfaOxRl70min6lC"
-      },
-      "artists": [
-        {
-          "name": "Esha Tewari",
-          "url": "https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt"
-        }
-      ],
-      "duration_ms": 245892,
-      "name": "summer in december",
-      "url": "https://open.spotify.com/track/3uQzLQIn6SVdMQSRNCybtz"
-    },
-    {
-      "added_at": "2025-11-07 05:00:48",
-      "album": {
         "name": "Bluebird",
         "url": "https://open.spotify.com/album/2pOID04Y4JnuqDtCmB8JIw"
       },
@@ -2507,22 +2575,6 @@
       "duration_ms": 347506,
       "name": "Good morning (red)",
       "url": "https://open.spotify.com/track/5Hr3cBLE1Qe7zAw6n1iGHW"
-    },
-    {
-      "added_at": "2025-11-07 05:00:48",
-      "album": {
-        "name": "Mosh Pit",
-        "url": "https://open.spotify.com/album/7ncAtOiKpdlbUv43iMAF8l"
-      },
-      "artists": [
-        {
-          "name": "Katie Gregson-MacLeod",
-          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
-        }
-      ],
-      "duration_ms": 323857,
-      "name": "Mosh Pit",
-      "url": "https://open.spotify.com/track/2YAQbdNjjUbpI0pBxLFV5r"
     },
     {
       "added_at": "2025-11-07 05:00:48",

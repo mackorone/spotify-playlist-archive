@@ -4,7 +4,7 @@
 
 > Dance Hits \- EDM, Summer and dance floor favourites from Calvin Harris, Lost Frequencies, Kygo, Tiesto, David Guetta! Cover: Mr\. Belt &amp; Wezol
 
-167 songs - 8 hr 14 min
+168 songs - 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [DREAMING ON](https://open.spotify.com/track/2ky1fHLtQlF2Roi4DItneg) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R), [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [DREAMING ON](https://open.spotify.com/album/5sY3WmDg2KxBm7fpYbN2HN) | 3:50 | 2025-09-26 |  |
 | [Drop Low](https://open.spotify.com/track/3BivR4yDAuurjSnCggKtRK) | [Diaz & Bruno](https://open.spotify.com/artist/6FGZPlL2dhssxgQlpb7I7W) | [Drop Low](https://open.spotify.com/album/3UhRqv7zxE46AzU15pnryU) | 2:50 | 2025-07-18 | 2025-09-13 |
 | [End Of Summer](https://open.spotify.com/track/1Iw5iLfAwDvS6frI82gMoV) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [End Of Summer](https://open.spotify.com/album/3kgOKo0TlU22INB7U0Rqdj) | 7:12 | 2025-07-25 |  |
-| [Enough To Drink \- Frank Walker Remix](https://open.spotify.com/track/7oFFgyhqW2u9x97RU4Acl8) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq) | [Enough To Drink \(Remix Pack\)](https://open.spotify.com/album/4Wu0Z9YORUdekIMDMYhIl4) | 2:41 | 2025-07-18 |  |
+| [Enough To Drink \- Frank Walker Remix](https://open.spotify.com/track/7oFFgyhqW2u9x97RU4Acl8) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq) | [Enough To Drink \(Remix Pack\)](https://open.spotify.com/album/4Wu0Z9YORUdekIMDMYhIl4) | 2:41 | 2025-07-18 | 2025-11-22 |
 | [Exotica](https://open.spotify.com/track/08VceLSSJJ83Yz3NTCyxZC) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Greg Taro](https://open.spotify.com/artist/1Tt4xvs31iOOnA5A37891U) | [Exotica](https://open.spotify.com/album/3Xa6Auj3cpJ6vAnch7vsCD) | 2:01 | 2025-07-18 |  |
 | [Explode](https://open.spotify.com/track/4rnwQPqGNoHCQppYVdTZdu) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ) | [Explode](https://open.spotify.com/album/6PlqsS0firvxsrefOvbUOc) | 2:39 | 2025-07-18 | 2025-08-09 |
 | [F.U.](https://open.spotify.com/track/1ki7QR4GRRxmR2rQt7aAAY) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [In Waves \(Deluxe\)](https://open.spotify.com/album/2XgZQ0IFRwZcqsk6RWReKS) | 3:37 | 2025-07-18 |  |
@@ -89,6 +89,7 @@
 | [Love Has Gone](https://open.spotify.com/track/2KUAdU39pNYHy0zHnr8xHd) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [ALTA](https://open.spotify.com/artist/0PkXdpzJOcWmCvp4aqRsA5), [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Love Has Gone](https://open.spotify.com/album/5ym4LpHEltp18DJE3CcOgv) | 2:33 | 2025-08-08 |  |
 | [Love Is The Only Thing](https://open.spotify.com/track/4r6c2ClnuYLwNv4lEM7XlW) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Love Is The Only Thing](https://open.spotify.com/album/15jDxA16MFYS22jkKrzT59) | 2:51 | 2025-07-18 |  |
 | [Love Is The Only Thing \- Deluxe Mix](https://open.spotify.com/track/6i4fuDm0NO7Dq8L3OoOEoG) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Love Is The Only Thing \(Deluxe Edit\)](https://open.spotify.com/album/5pZOfLCspR6Qj2phX61Onn) | 4:33 | 2025-07-18 | 2025-07-26 |
+| [Love Like That](https://open.spotify.com/track/7fIMjKYjgPJtfFjMN6AW5y) | [Solar State](https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu), [The Beach](https://open.spotify.com/artist/6xqpdCiMM646Q6nAD5n3vO) | [Love Like That](https://open.spotify.com/album/04fDKhnxvWOCt9EIzBn8nK) | 2:23 | 2025-11-21 |  |
 | [Lovers In A Past Life \(with Rag'n'Bone Man\)](https://open.spotify.com/track/6v4ABPB255HDSWyIj3S9Wn) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Lovers In A Past Life \(with Rag'n'Bone Man\)](https://open.spotify.com/album/3VI38DDpgfFMVPrUi69V5B) | 2:40 | 2025-07-18 |  |
 | [Meet Me In The Middle \- Monty Kiddo Remix](https://open.spotify.com/track/5ImFaxA67BYvrroI0RWo8L) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO), [Monty Kiddo](https://open.spotify.com/artist/2hUodM79etRBN9x06kpmQy) | [Meet Me In The Middle \(Monty Kiddo Remix\)](https://open.spotify.com/album/7GKRJobHqMzGYWOnSQ2iDK) | 3:11 | 2025-07-18 |  |
 | [Memories](https://open.spotify.com/track/4r9kj0CqH7RCp6Oxx56SvN) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Sofiloud](https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm) | [Memories](https://open.spotify.com/album/5h8OA47knr8723Mc73vVMD) | 2:35 | 2025-07-18 |  |

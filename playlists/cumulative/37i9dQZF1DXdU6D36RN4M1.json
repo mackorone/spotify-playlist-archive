@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-11-06",
-  "description": "y no llore, nom\u00e1s acu\u00e9rdese \ud83c\udf7a\u2728",
-  "name": "Botes y Boleros",
+  "description": "Se va acercando la navidad, el a\u00f1o nuevo me traer\u00e1 nuevas tristezas y por tu ausencia llorar\u00e9 mi soledad.",
+  "name": "Triste Navidad",
   "tracks": [
     {
       "album": {
@@ -56,6 +56,24 @@
       "duration_ms": 236453,
       "name": "Algo De M\u00ed",
       "url": "https://open.spotify.com/track/06WecehO0wgP8jJIoCURKl"
+    },
+    {
+      "album": {
+        "name": "La Gran Se\u00f1ora",
+        "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186933,
+      "name": "Amarga Navidad",
+      "url": "https://open.spotify.com/track/1kOWMdlpetd7L5O6AtxtO9"
     },
     {
       "album": {
@@ -131,6 +149,42 @@
     },
     {
       "album": {
+        "name": "Navidad Norte\u00f1a",
+        "url": "https://open.spotify.com/album/1HIEIaBnOXneNONE7qsd1s"
+      },
+      "artists": [
+        {
+          "name": "Priscila y Sus Balas De Plata",
+          "url": "https://open.spotify.com/artist/3MEjijy8H9yxGhXhJGhbVO"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Blanca Navidad",
+      "url": "https://open.spotify.com/track/4MX9WmAKnDore5rSA8uYrH"
+    },
+    {
+      "album": {
+        "name": "Navidad Con DEL",
+        "url": "https://open.spotify.com/album/4QeCY4pjvtMEUpi0YmTrdd"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161005,
+      "name": "Cada Diciembre",
+      "url": "https://open.spotify.com/track/2jUDLQVevkcvu8H4BpRcmZ"
+    },
+    {
+      "album": {
         "name": "20 S\u00faper \u00c9xitos",
         "url": "https://open.spotify.com/album/2oi7Q0C7IgX9vOOWFOSUlk"
       },
@@ -178,7 +232,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 175800,
       "name": "Con Un Beso",
       "url": "https://open.spotify.com/track/7ikpCS4DKHBtPytW3hqTKz"
@@ -236,6 +290,24 @@
       "duration_ms": 186893,
       "name": "Coraz\u00f3n De Oro",
       "url": "https://open.spotify.com/track/0QLxVp77k6Ioz6qSBjUPUL"
+    },
+    {
+      "album": {
+        "name": "15 Boleros de Oro",
+        "url": "https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172746,
+      "name": "Cosas del Ayer",
+      "url": "https://open.spotify.com/track/19mX627iFZeXidj0akB9aT"
     },
     {
       "album": {
@@ -482,12 +554,66 @@
           "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184400,
+      "name": "El Preso De Nuevo Le\u00f3n",
+      "url": "https://open.spotify.com/track/1dH2NWCUnhZC7HpUkDTGxb"
+    },
+    {
+      "album": {
+        "name": "El Preso De Nuevo Leon",
+        "url": "https://open.spotify.com/album/2jstsfAeOALnqa1A1feFEN"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 177466,
       "name": "En Eso No Quedamos",
       "url": "https://open.spotify.com/track/36FKDNin24quvuo5Un7GFB"
+    },
+    {
+      "album": {
+        "name": "En Esta Navidad",
+        "url": "https://open.spotify.com/album/6wQ55kPo3cstdf6YErh9LT"
+      },
+      "artists": [
+        {
+          "name": "Damaris Bojor",
+          "url": "https://open.spotify.com/artist/611RCawF857UVjTN5ttzup"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205384,
+      "name": "En Esta Navidad",
+      "url": "https://open.spotify.com/track/1E31hpB8ulMj7UEXMMbmt4"
+    },
+    {
+      "album": {
+        "name": "Vencedor",
+        "url": "https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238920,
+      "name": "En Esta Navidad",
+      "url": "https://open.spotify.com/track/4mlDfE68Ko9SCPRHNpYzGA"
     },
     {
       "album": {
@@ -581,6 +707,24 @@
     },
     {
       "album": {
+        "name": "Trascendental",
+        "url": "https://open.spotify.com/album/37348zTjM2xauDv6Kw2uNR"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152820,
+      "name": "Esta Noche Buena",
+      "url": "https://open.spotify.com/track/2VJPtsWxlYHaZ3kVipVK3I"
+    },
+    {
+      "album": {
         "name": "Entrega Total",
         "url": "https://open.spotify.com/album/1ynIsTxuLWB8gcIIOEV4pN"
       },
@@ -610,7 +754,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 229040,
       "name": "Golpes En El Coraz\u00f3n",
       "url": "https://open.spotify.com/track/5PayR9Omvn5uaXQfwLlRKR"
@@ -697,6 +841,24 @@
     },
     {
       "album": {
+        "name": "Los A\u00f1os Viejos",
+        "url": "https://open.spotify.com/album/3YBhOoGbY7QXM3hLQMKat7"
+      },
+      "artists": [
+        {
+          "name": "Los Baron De Apodaca",
+          "url": "https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249026,
+      "name": "Los A\u00f1os Viejos",
+      "url": "https://open.spotify.com/track/6qMkl2h7yNZ3TsSuZcKBpR"
+    },
+    {
+      "album": {
         "name": "15 Boleros de Oro",
         "url": "https://open.spotify.com/album/29FrFXXV0GKVahpRQmzYUG"
       },
@@ -762,7 +924,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 190213,
       "name": "Me Pones A Temblar",
       "url": "https://open.spotify.com/track/5lOEI6CBTnLQrVVoIswN8Q"
@@ -780,7 +942,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 196306,
       "name": "Me Refiero A T\u00ed",
       "url": "https://open.spotify.com/track/5bbF1SdFGSqK7hKNAunuyc"
@@ -931,6 +1093,24 @@
     },
     {
       "album": {
+        "name": "Me Volvi A Acordar De Ti",
+        "url": "https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy"
+      },
+      "artists": [
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254933,
+      "name": "Navidad Sin Ti",
+      "url": "https://open.spotify.com/track/0BgKO3jvcTWhJ8Y8egyAn1"
+    },
+    {
+      "album": {
         "name": "Las N\u00famero 1...",
         "url": "https://open.spotify.com/album/4L2iloO5OzK3bY8gqpnsrl"
       },
@@ -1039,6 +1219,42 @@
     },
     {
       "album": {
+        "name": "Territorio Prohibido",
+        "url": "https://open.spotify.com/album/50JoC611NpgapCzN11G4Xo"
+      },
+      "artists": [
+        {
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174985,
+      "name": "Otra Navidad Sin Ti",
+      "url": "https://open.spotify.com/track/0IybqzMZJkEpZIPMWm0t9e"
+    },
+    {
+      "album": {
+        "name": "En Esta Navidad",
+        "url": "https://open.spotify.com/album/0JzwwjGgwGuCeqfa8YvmIv"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253000,
+      "name": "Oye Santa Claus",
+      "url": "https://open.spotify.com/track/5WoDuB0AMXIH16UJYOpVD4"
+    },
+    {
+      "album": {
         "name": "Dejando Huella... El Final",
         "url": "https://open.spotify.com/album/6aVJmHZtdMWZxj88L7oWJI"
       },
@@ -1104,7 +1320,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 188173,
       "name": "Prisi\u00f3n De Amor",
       "url": "https://open.spotify.com/track/34yOBJGd8fDcLI7SEWmF6k"
@@ -1205,6 +1421,42 @@
     },
     {
       "album": {
+        "name": "Navidad Con Amigos",
+        "url": "https://open.spotify.com/album/4iN0Hs3baQGYXa8aiEjZqY"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211186,
+      "name": "Regalo De Navidad",
+      "url": "https://open.spotify.com/track/1OOURH8MgGyOBWtyK6Zdy9"
+    },
+    {
+      "album": {
+        "name": "15 Boleros de Oro",
+        "url": "https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162120,
+      "name": "Regalo de Reyes",
+      "url": "https://open.spotify.com/track/0ENJiHJvWTM5ZXgxyYRkIO"
+    },
+    {
+      "album": {
         "name": "15 Boleros de Oro",
         "url": "https://open.spotify.com/album/29FrFXXV0GKVahpRQmzYUG"
       },
@@ -1220,6 +1472,24 @@
       "duration_ms": 187586,
       "name": "Sabor de Engano",
       "url": "https://open.spotify.com/track/5zFn4Im6rm3DeAyOxqii98"
+    },
+    {
+      "album": {
+        "name": "Pa Pistear en Navidad",
+        "url": "https://open.spotify.com/album/6KJfeXXjT4MLXbPmqdUsFO"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168323,
+      "name": "Salud",
+      "url": "https://open.spotify.com/track/3A0C1FzNvgxu0Ikdk8DfVq"
     },
     {
       "album": {
@@ -1270,7 +1540,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 131853,
       "name": "Sentimiento de Dolor",
       "url": "https://open.spotify.com/track/2tLcEO81CKYa87Jf9NR6fx"
@@ -1292,6 +1562,24 @@
       "duration_ms": 201573,
       "name": "Se\u00f1or Dios",
       "url": "https://open.spotify.com/track/7oFrzDDNmPCGbPDnvYdZXv"
+    },
+    {
+      "album": {
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/5xA3Oq6EdroHpAW6gBZBsJ"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201653,
+      "name": "Se\u00f1or Dios",
+      "url": "https://open.spotify.com/track/4UHusMkOSxGYFMjrMaHfLq"
     },
     {
       "album": {
@@ -1378,7 +1666,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 177200,
       "name": "So\u00f1ador Eterno",
       "url": "https://open.spotify.com/track/3NrfU7FvNF0w6mGcFVnlUj"
@@ -1493,6 +1781,60 @@
     },
     {
       "album": {
+        "name": "Vanidosa",
+        "url": "https://open.spotify.com/album/0Vqmm3BrCwMeo79WVZz5Gs"
+      },
+      "artists": [
+        {
+          "name": "Los Fugitivos",
+          "url": "https://open.spotify.com/artist/4S7UxwDIG6o3FJkcGPdaBq"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201533,
+      "name": "Triste Navidad",
+      "url": "https://open.spotify.com/track/37zLIZTOOA6a30zcvrtEUO"
+    },
+    {
+      "album": {
+        "name": "Te Quiero... Dijiste",
+        "url": "https://open.spotify.com/album/16Uhq5p7q2tMUg4bUHSMSe"
+      },
+      "artists": [
+        {
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154080,
+      "name": "Triste Navidad",
+      "url": "https://open.spotify.com/track/2aCThdaIwbTzNcNxdHnRb6"
+    },
+    {
+      "album": {
+        "name": "Tristes Navidades",
+        "url": "https://open.spotify.com/album/20NYes8NcMzekr9z9AZFZp"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226475,
+      "name": "Tristes Navidades",
+      "url": "https://open.spotify.com/track/4Dk2BuZpuzIbUQCBKuw884"
+    },
+    {
+      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0"
       },
@@ -1540,10 +1882,28 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 159773,
       "name": "Una Vez M\u00e1s",
       "url": "https://open.spotify.com/track/626PlV22AI5wy01vG0JjZO"
+    },
+    {
+      "album": {
+        "name": "Navidad Desde El Meritito Norte",
+        "url": "https://open.spotify.com/album/1qNZCd4PLDIEEMxWzFF7ia"
+      },
+      "artists": [
+        {
+          "name": "Duelo",
+          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203720,
+      "name": "Ven a Mi Casa Esta Navidad",
+      "url": "https://open.spotify.com/track/7zrd2YC8vcMEhCHtotD3nB"
     },
     {
       "album": {
@@ -1565,6 +1925,24 @@
     },
     {
       "album": {
+        "name": "La Suegra",
+        "url": "https://open.spotify.com/album/0tIsBHGWrYG0jw699RvDFa"
+      },
+      "artists": [
+        {
+          "name": "Lisandro Meza",
+          "url": "https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244375,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/3Esfvvg5LxI9av1sUgYlDO"
+    },
+    {
+      "album": {
         "name": "Pesado: Clasicas para la Bohemia",
         "url": "https://open.spotify.com/album/3KszSxOjja4JfSv32Xhqwa"
       },
@@ -1580,6 +1958,42 @@
       "duration_ms": 193253,
       "name": "Y",
       "url": "https://open.spotify.com/track/7xBNHVbYVfi3CqNHDOYWbm"
+    },
+    {
+      "album": {
+        "name": "Tatuajes, Pura Seleccion Musical de Calidad",
+        "url": "https://open.spotify.com/album/6FbK1Xk3qtus9LM3GHSLPj"
+      },
+      "artists": [
+        {
+          "name": "Los Viejones De Linares",
+          "url": "https://open.spotify.com/artist/48f1Wox7CUiX1nDfzgonjW"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209861,
+      "name": "Ya Se Acerca Diciembre",
+      "url": "https://open.spotify.com/track/3ApXJ1aLKdzpkdYA0muHF2"
+    },
+    {
+      "album": {
+        "name": "Ya Viene Nochebuena",
+        "url": "https://open.spotify.com/album/7mQ9Rtxz3EdY7sghH66OR3"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196527,
+      "name": "Ya Viene Nochebuena",
+      "url": "https://open.spotify.com/track/6VxuFIWWqa9Z2TGgFFgMB7"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXdU6D36RN4M1"

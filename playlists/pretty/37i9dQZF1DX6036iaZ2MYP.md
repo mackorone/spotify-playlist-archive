@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Odeal
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,954 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,370 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 9](https://open.spotify.com/track/3XmHd0NqN5O4e7Vnv8fb8q) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [](https://open.spotify.com/album/null) | 0:00 |
+| 1 | [Nights In The Sun \(feat\. Wizkid\)](https://open.spotify.com/track/3XmHd0NqN5O4e7Vnv8fb8q) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [The Fall That Saved Us](https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl) | 2:50 |
 | 2 | [Violence](https://open.spotify.com/track/1xKTpn0PlVvu0dZoxrbgwr) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Violence](https://open.spotify.com/album/25k7hGeNZ7yvgR3D51cRQB) | 2:36 |
 | 3 | [Écho](https://open.spotify.com/track/2N3AWTASz0UkGK5oDQfH6N) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR), [Goulam](https://open.spotify.com/artist/3n13dmLc3HY0wL5zwfuOsC) | [Écho](https://open.spotify.com/album/0t4opInzUIstHzncqBV1xm) | 3:04 |
 | 4 | [AMAZING](https://open.spotify.com/track/43sMEb69SW7r1M0fg21XV9) | [MASIDI](https://open.spotify.com/artist/2ZfpJTfi4q60zRUFWhll73), [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [AMAZING](https://open.spotify.com/album/64bHh0XpYf8MrPNH4uA2Nc) | 2:50 |
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 12 | [Ta femme t'a pas dit](https://open.spotify.com/track/3qgqAmhXR6ETPmsIQ3cmSh) | [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [Ta femme t'a pas dit](https://open.spotify.com/album/1u50hBEowKYUZRkSa4BiDE) | 2:44 |
 | 13 | [BALANCE \(with Lasmid\)](https://open.spotify.com/track/4yVprPvNUGc840gsCWcvOq) | [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [BALANCE \(with Lasmid\)](https://open.spotify.com/album/7pSHlYExOSYZf0g67YUmED) | 2:46 |
 | 14 | [After Hours](https://open.spotify.com/track/3is6Q8mrAvLC1gF2TFnYDq) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Shana / After Hours](https://open.spotify.com/album/0cQk9my70QfKEYMJuAr9UQ) | 2:32 |
-| 15 | [Track 1](https://open.spotify.com/track/4Ky0hujL6IRkOkuwJw5Z6O) | [Kurtys](https://open.spotify.com/artist/732YXWHf1cGFf2CufOIHsU) | [](https://open.spotify.com/album/null) | 0:00 |
+| 15 | [J'AVOUE](https://open.spotify.com/track/4Ky0hujL6IRkOkuwJw5Z6O) | [Kurtys](https://open.spotify.com/artist/732YXWHf1cGFf2CufOIHsU) | [SUMMER RED](https://open.spotify.com/album/5oXhs4idj0YzG1T82HbGOE) | 2:35 |
 | 16 | [Lalala](https://open.spotify.com/track/3xhJ7Caxt02YEGRkTZlNU0) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [](https://open.spotify.com/album/null) | 2:58 |
 | 17 | [BEBI](https://open.spotify.com/track/70klciBek95qMq7KiDX7zE) | [Kish](https://open.spotify.com/artist/2gVFsWpxGngHu7qbYbj8Ci), [JEY BROWNIE](https://open.spotify.com/artist/7kaoO6sl3TKJ6p31PxqubZ) | [BEBI](https://open.spotify.com/album/6xYI6GSAY1MbBqPy9Xi7oZ) | 2:15 |
 | 18 | [COMMAS](https://open.spotify.com/track/1RVBT05e3P6vtziIXxTfZB) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [COMMAS](https://open.spotify.com/album/1CakmnCXgQWuCsIQhDVQB1) | 2:52 |

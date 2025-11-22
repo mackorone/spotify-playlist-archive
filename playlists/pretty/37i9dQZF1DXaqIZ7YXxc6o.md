@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: Memphis LK
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,364 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,372 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [That Boy's Not Nice](https://open.spotify.com/track/6wshH1jwUSaFQQWtaTDPkd) | [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [That Boy's Not Nice](https://open.spotify.com/album/37DkXNloWZnZsp0j25sg1F) | 3:18 |
 | 2 | [Coming Up \(It’s Dare\)](https://open.spotify.com/track/7JHkJ5mDS868b5j5h67cwL) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [HYPERBEAM](https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n) | [Coming Up \(It’s Dare\)](https://open.spotify.com/album/2aXtY87dtUYnV93D8xTdmq) | 3:00 |
 | 3 | [Fuck My Computer \- Frost Children Remix](https://open.spotify.com/track/4msZzTP3dJlqmHRhUb4v3f) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [Fuck My Computer \(Frost Children Remix\)](https://open.spotify.com/album/3mkVo55KYmJAxy21rPssZ4) | 3:17 |
-| 4 | [Elevate](https://open.spotify.com/track/7jIIaLkLcxyn9z2GvQi1Se) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO) | [](https://open.spotify.com/album/null) | 3:13 |
+| 4 | [Elevate](https://open.spotify.com/track/7jIIaLkLcxyn9z2GvQi1Se) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO) | [Contact](https://open.spotify.com/album/06z3wshQtpYwZnDoVle3pw) | 3:13 |
 | 5 | [Damaged Goods](https://open.spotify.com/track/4k1d1w9S7qxxMcPwvz4THV) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Damaged Goods](https://open.spotify.com/album/2c8qaZHyi7bMwh0iQpHRo0) | 4:38 |
 | 6 | [Hot Off The Press](https://open.spotify.com/track/5QvU5Fm4JqHuHBTQa0POuP) | [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn) | [Hot Off The Press](https://open.spotify.com/album/4mg8xyECbr5wE9owcdZcid) | 3:42 |
 | 7 | [LICK THE BEAT](https://open.spotify.com/track/6xmDjcqyMhttlhnipqaqW3) | [Parris Goebel](https://open.spotify.com/artist/14xvX9sPfTyGqxTXuEOHib) | [A GIRL IS A DRUG](https://open.spotify.com/album/1RGfe07wazAbln9mx2XjtI) | 2:01 |
 | 8 | [Ain't No Party](https://open.spotify.com/track/4OjT5tTYsmQl29oQT6OHab) | [Lance Savali](https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd) | [Ain't No Party](https://open.spotify.com/album/3WEW6RrQrhxOB0wdlU6mGb) | 3:05 |
 | 9 | [Bring Me To Life](https://open.spotify.com/track/6pkSEqfTFyoqaPXQ1d4nLp) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [FORS](https://open.spotify.com/artist/3IG2AmQqnXTje1NHlIQViX) | [Bring Me To Life](https://open.spotify.com/album/0hLl6XW9qAjuuPijk9SKTe) | 4:18 |
-| 10 | [Memories \(Feat\. Ova Looven\)](https://open.spotify.com/track/7wjyAbP4at1DDE6Af4Y1uE) | [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V), [Ova Looven](https://open.spotify.com/artist/2TimZvD1IDNMwwzQDNHMKX) | [](https://open.spotify.com/album/null) | 5:12 |
-| 11 | [Touch](https://open.spotify.com/track/36TtItSt1Y2V5TGLi7gYD0) | [Kasablanca](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI) | [](https://open.spotify.com/album/null) | 3:25 |
+| 10 | [Memories \(Feat\. Ova Looven\)](https://open.spotify.com/track/7wjyAbP4at1DDE6Af4Y1uE) | [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V), [Ova Looven](https://open.spotify.com/artist/2TimZvD1IDNMwwzQDNHMKX) | [Dear Friend](https://open.spotify.com/album/2ZQZ9xjA8hoDxpDhmsSbDr) | 5:12 |
+| 11 | [Touch](https://open.spotify.com/track/36TtItSt1Y2V5TGLi7gYD0) | [Kasablanca](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI) | [Higher Resolution \(Side B\)](https://open.spotify.com/album/563knKl2SpuK7z9TCbIhdG) | 3:25 |
 | 12 | [Floating Away](https://open.spotify.com/track/53z99m5pY1bQT8eno6kpMs) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Floating Away](https://open.spotify.com/album/12hEDqjVQEu4ntmdRXGAz2) | 4:20 |
 | 13 | [660 \(feat\. Dizzee Rascal & S Dog\)](https://open.spotify.com/track/1jWIaH7FXzAzJp6SShCrzB) | [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV), [Dizzee Rascal](https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv), [S Dog](https://open.spotify.com/artist/3TTfMQ8A4tpY8rrN1ZID38) | [660 \(feat\. Dizzee Rascal & S Dog\)](https://open.spotify.com/album/1pPRnL2buP1UVrrk6P9CsJ) | 3:22 |
 | 14 | [Hold Close \- Club Edit](https://open.spotify.com/track/4PTpy8kIKwNKZ1kVsvw3Tc) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A), [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [Hold Close](https://open.spotify.com/album/17PiKpRdhrIqQoUQhfVTVe) | 3:48 |

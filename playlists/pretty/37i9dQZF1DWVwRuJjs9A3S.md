@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > Det senaste och bästa från världen av indie, med Sarah Klang
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,245 likes - 219 songs - 13 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,264 likes - 219 songs - 13 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 | 14 | [Enemy](https://open.spotify.com/track/3nvQr4XpiZFHuG0QLzh3V8) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L) | [Enemy](https://open.spotify.com/album/3p3lmExl5r6M8ZV6kBLUl9) | 3:11 |
 | 15 | [Lucy](https://open.spotify.com/track/19Hvfn28sTtrOVsFOwljiH) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Hope We Have Fun](https://open.spotify.com/album/3r5ik8QohUa56zacmEyAdb) | 3:38 |
 | 16 | [Grönaste ögon](https://open.spotify.com/track/2f5Liz4ZJdVLBIJCso9FMD) | [Leo leone](https://open.spotify.com/artist/5DQqSop6n2h748SowJ5dqo) | [Upp till ytan](https://open.spotify.com/album/7b7zGJVxrc1cnXxxa5m0Pt) | 4:54 |
-| 17 | [As Long As You'll Stay](https://open.spotify.com/track/3RcwUz91DYJUFlTsuIeVGQ) | [Braison Cyrus](https://open.spotify.com/artist/6VBgMdUuX6QKDkK7pRLJx0), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [](https://open.spotify.com/album/null) | 2:51 |
+| 17 | [As Long As You'll Stay](https://open.spotify.com/track/3RcwUz91DYJUFlTsuIeVGQ) | [Braison Cyrus](https://open.spotify.com/artist/6VBgMdUuX6QKDkK7pRLJx0), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [As Long As You'll Stay](https://open.spotify.com/album/3fsPGrtlrEATa73CcQvqsu) | 2:51 |
 | 18 | [Aging Young Women](https://open.spotify.com/track/3U2Vb6F85QTZOtHniK6Km2) | [Anna von Hausswolff](https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6), [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Aging Young Women](https://open.spotify.com/album/6b53y5yECVDSx2t5XtpH8V) | 4:01 |
 | 19 | [Hot Like Fire \- Bonus](https://open.spotify.com/track/2hgLE7m6TzT1PyE41r1xbf) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx \(Deluxe\)](https://open.spotify.com/album/10p4597ekqFOqMbttkxggC) | 3:31 |
 | 20 | [C\-dur](https://open.spotify.com/track/0cZ2ad4mATKwobLdVYWgAS) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK), [Arvid Nero](https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew) | [C\-dur / Julbudskap](https://open.spotify.com/album/2SuXOmDbZpkbg2mPjl63jO) | 3:00 |

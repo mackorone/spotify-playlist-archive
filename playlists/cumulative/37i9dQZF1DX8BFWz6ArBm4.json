@@ -1743,6 +1743,24 @@
     },
     {
       "album": {
+        "name": "Krata",
+        "url": "https://open.spotify.com/album/4TndkB6ZzsDqPfxJa0lOU2"
+      },
+      "artists": [
+        {
+          "name": "Stan",
+          "url": "https://open.spotify.com/artist/07u8NOOlwGmNmQjU9whua2"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175890,
+      "name": "Krata",
+      "url": "https://open.spotify.com/track/3U38PoaEgmk9gO4maQ3RO7"
+    },
+    {
+      "album": {
         "name": "Krifos Paradisos",
         "url": "https://open.spotify.com/album/0z33CdgdN4fJQnD31uxoFu"
       },

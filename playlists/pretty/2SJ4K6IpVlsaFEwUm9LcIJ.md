@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to nov\-dec 2025
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,566 likes - 18 songs - 1 hr 8 min
+[margeaux](https://open.spotify.com/user/1220511975) - 23,561 likes - 19 songs - 1 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,5 +26,6 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 16 | [Circlesz](https://open.spotify.com/track/31djYAZR2kl3HotgjFScEi) | [GENA](https://open.spotify.com/artist/1ptSYluUqpp93ZRQEYJ4bE), [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ) | [Circlesz](https://open.spotify.com/album/6gnIbhhnF3e7bT4VSvaTf4) | 2:21 |
 | 17 | [Love You To Death](https://open.spotify.com/track/1n37LpBrr9CU9IJYotLMZO) | [Snowy Band](https://open.spotify.com/artist/0Ky0HZRpab9SW891Jb9gce) | [Audio Commentary](https://open.spotify.com/album/2XY6A8TMHbPaffK00b72BO) | 4:02 |
 | 18 | [Sarra](https://open.spotify.com/track/1jE72J1IkFypVBhAt4EnIv) | [Gary Davenport](https://open.spotify.com/artist/49c7NHtdbavJhYgbbSMqDN) | [Scattered Thoughts](https://open.spotify.com/album/5ESXATt30MXodjyyubLgx2) | 5:04 |
+| 19 | [I Remember](https://open.spotify.com/track/0MwHIsIwUC2ts29Ss9292d) | [Scott Seskind](https://open.spotify.com/artist/1BROnwSE0J8usGGxcTGUi3) | [Sky Girl](https://open.spotify.com/album/26KwR2FDMoA6OgYPtPy0U9) | 2:56 |
 
-Snapshot ID: `AAANbav0buNgPh5401SJDdGZDML+Qcat`
+Snapshot ID: `AAANbjhbwOR3Cz0m78F0U8dEL+CTogqh`

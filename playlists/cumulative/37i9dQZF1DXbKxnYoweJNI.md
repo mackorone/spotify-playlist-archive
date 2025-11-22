@@ -4,7 +4,7 @@
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: 胖虎 \(punkhoo\)
 
-3,554 songs - 8 day 15 hr 35 min
+3,558 songs - 8 day 15 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -758,6 +758,7 @@
 | [Remedy](https://open.spotify.com/track/3MXh5EyoXcmcJ2NC73qMpZ) | [Andre Ang](https://open.spotify.com/artist/4OvRMrLoSSnK1HfbFlpq2G), [Lil Adams](https://open.spotify.com/artist/7GhCl9pgYWMctwGN5ruIbv) | [Remedy](https://open.spotify.com/album/59qJlVtD5DyY6eDtyXnM7o) | 3:00 | 2024-12-05 | 2024-12-13 |
 | [Renegade](https://open.spotify.com/track/02FNEPzq6bTUOXoYc8nmso) | [Diverseddie](https://open.spotify.com/artist/3aia8Qn8pZXJldrYzQqOOq), [Yoanko Futura](https://open.spotify.com/artist/6kTCSmBx0sWMVGhVsNvCat) | [Renegade](https://open.spotify.com/album/26poS8KRHcz750XJNahV6P) | 3:10 | 2024-11-21 | 2024-12-20 |
 | [repeating](https://open.spotify.com/track/2HjDPVyT7mC5ZiajZUL55Y) | [FUMON](https://open.spotify.com/artist/3zGGhKGLorCRgcXc22gYDX), [王謙Goatak](https://open.spotify.com/artist/1CH4dO170qpIfqWdndWoUx) | [repeating](https://open.spotify.com/album/1Tr4Exuyq9xIvmq6mPGLve) | 3:09 | 2024-07-25 | 2024-08-16 |
+| [Rest in Love \- "一路順風 Bye Bye Party" 2025 Live at Kishibe Cafe](https://open.spotify.com/track/60d6uaBCiJg5361Uo4pS39) | [fuvva](https://open.spotify.com/artist/6wpBdJXOYHd7L8fHYKL46r) | ["一路順風 bye bye party" \(Live at Kishibe Cafe, 2025.09.07\)](https://open.spotify.com/album/66M4QrYA0oNUgbD0rQPogO) | 5:10 | 2025-11-20 |  |
 | [Rest of My Days](https://open.spotify.com/track/6DTMECrrZayTmXOzxYQRz4) | [lilKrake](https://open.spotify.com/artist/6JTiYWG0gfKOqz0iLi3bNk), [Irie Givens](https://open.spotify.com/artist/2D7203kVMqPv0YrNRT7qEm), [剎那Setsuna](https://open.spotify.com/artist/1WGCtvRaiVZ7WcmkjCbTf7) | [Rest of My Days](https://open.spotify.com/album/67cc2SnTFVmVMbka4JyOgd) | 3:38 | 2025-03-27 | 2025-04-11 |
 | [Retro Petrol](https://open.spotify.com/track/59oQuPQ71B9TcwbO6kJOUv) | [恐龍的皮](https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J) | [Retro Petrol](https://open.spotify.com/album/55xrlm8rZBYBJ3KoSYOCzT) | 3:20 | 2024-10-03 | 2024-11-01 |
 | [RICH](https://open.spotify.com/track/0APma3TkPygErSuwg8y9nn) | [Yokez](https://open.spotify.com/artist/5wtspqsX3OxPu1JTRQTqus), [GARETH FERNANDEZ](https://open.spotify.com/artist/5OCCRySomkXZXoE1JQ5Hkb) | [RICH](https://open.spotify.com/album/5As5b3LJnMumsTkQM00x7h) | 2:50 | 2025-09-18 | 2025-10-24 |
@@ -1414,6 +1415,7 @@
 | [光](https://open.spotify.com/track/7HdUCvFomo2Ez8J3Mu7SV0) | [ZIP發射樂團](https://open.spotify.com/artist/1qwOjxOMoj895xTDBNxcAe) | [光](https://open.spotify.com/album/7KuFT9wiJvTv9T8oOhexVa) | 4:04 | 2024-11-14 | 2024-12-06 |
 | [光](https://open.spotify.com/track/16Jwl6WRsN8xvjVz9Tnw7L) | [捲捲澡堂 Soul Bath](https://open.spotify.com/artist/22MLKWCiyDJoKDzOq9gYOJ) | [光](https://open.spotify.com/album/36ILWiZpRS5KSaXNkpl3fj) | 4:40 | 2024-11-07 | 2024-11-15 |
 | [光影](https://open.spotify.com/track/4q1XzhbnICQTDSQQJ5C8cg) | [宋德鶴](https://open.spotify.com/artist/6jRVqBhXHlT61Nr3j3H9eI) | [霞](https://open.spotify.com/album/5d3n6qsnhgm1GV53yLk0Zd) | 4:58 | 2025-11-13 |  |
+| [光渡](https://open.spotify.com/track/5amLlcilQgBPlB9OgfNX8Q) | [阿蘭](https://open.spotify.com/artist/6mKe9KBbcbx01sxxTOM7A1) | [光渡](https://open.spotify.com/album/2799mEad5QAINXfNQUdJm9) | 4:48 | 2025-11-21 |  |
 | [免洗餐具](https://open.spotify.com/track/04FeL0SAYV1kEfhHC9wPII) | [Soya 許素瑄](https://open.spotify.com/artist/4jpBObbAiOf1Zi55MIKgJr) | [免洗餐具](https://open.spotify.com/album/4PMRoiSwEEt8aX2AYYrF71) | 3:04 | 2024-07-18 | 2024-08-16 |
 | [內心有一把聲音](https://open.spotify.com/track/1Fd95Ud11xyxXI1C2ER2on) | [Ah5ive the Band](https://open.spotify.com/artist/7xeAey43hE64qU2CaN759N) | [內心有一把聲音](https://open.spotify.com/album/5ltdirAiuhR8nSLFq19aCR) | 5:09 | 2025-08-14 | 2025-09-05 |
 | [內湖路二段](https://open.spotify.com/track/77No3CskslFey4rPTRhy6a) | [PG LIU](https://open.spotify.com/artist/7pWhfTv5RxJOwBk61w1HoK) | [內湖路二段](https://open.spotify.com/album/1OgYHJU882h63C9UkYcKjA) | 2:21 | 2024-11-14 | 2025-01-03 |
@@ -2193,6 +2195,7 @@
 | [我喜歡你牽著我的手](https://open.spotify.com/track/1irxvGVoroZPPUCO8ZgzcM) | [Sana Yu](https://open.spotify.com/artist/2YfxlWDLYLUCbLYpnnGoof) | [我喜歡你牽著我的手](https://open.spotify.com/album/24ZJlAIxXftRJegvWUK0mM) | 3:46 | 2025-11-13 | 2025-11-21 |
 | [我喜歡我](https://open.spotify.com/track/6xSTphVc86dhex73ZryENf) | [Zen 俊倩](https://open.spotify.com/artist/07nkXNC5TYJ4N2J6JvKgMH) | [我喜歡我](https://open.spotify.com/album/6LznfHadflUwKQhyVPdOYy) | 3:04 | 2025-08-28 | 2025-09-05 |
 | [我在北上的高速公路](https://open.spotify.com/track/1kZuLTv4NyQPOX0HSemJRe) | [吳霏](https://open.spotify.com/artist/2q5HrJWKwU4iHaTTSKGZC4) | [我在北上的高速公路](https://open.spotify.com/album/7Km5m5lx6RubAcd3VwqNwv) | 2:44 | 2024-09-19 | 2024-10-11 |
+| [我在未來等你](https://open.spotify.com/track/32982Bqs36teqL321ve2eg) | [Hongboy 李柏弘](https://open.spotify.com/artist/18CPbHaU3eoPsVz4Y3Zc5p) | [我在未來等你](https://open.spotify.com/album/78jWjVVWFbNO5pcAH4Ul2i) | 2:58 | 2025-11-20 |  |
 | [我在那片曠野等你](https://open.spotify.com/track/28e79JUJzuos2CAElaMXGg) | [Eiva 林麗謙](https://open.spotify.com/artist/568BSqN29OrH6UNmGDnvKj), [Cady 高可芯](https://open.spotify.com/artist/694wGlgkc93zq77Uw8VdKo) | [我在那片曠野等你](https://open.spotify.com/album/5wJxUnkGQkGagY8oo4HH3l) | 5:04 | 2024-10-24 | 2024-11-01 |
 | [我天生 \- 有夢版](https://open.spotify.com/track/2YtxuYoG085nAa0F23c8Ln) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [我天生 \- 有夢版](https://open.spotify.com/album/28W9uyxA4MIu5npe8Rt1sI) | 4:39 | 2025-04-03 | 2025-05-02 |
 | [我天生 \- 有病版 \(電影《有病才會喜歡你》主題曲\)](https://open.spotify.com/track/7f1kAQ7fdKhUiziMDj24Um) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8), [詹懷雲](https://open.spotify.com/artist/7yixHfr6sPhfhTqZspU2UZ), [江齊](https://open.spotify.com/artist/2Ge99rYjgszVNVfvC3dPv0) | [我天生 \- 有病版](https://open.spotify.com/album/35mtqL9m3dw0A6ZBytN22q) | 4:40 | 2025-03-27 | 2025-04-18 |
@@ -2313,7 +2316,7 @@
 | [拖延症](https://open.spotify.com/track/6nvdqln82gG4Pv1EXcSZxH) | [余育憲哥](https://open.spotify.com/artist/6xB7uDQ0Bi1rfUvz9LMoxw) | [拖延症](https://open.spotify.com/album/6Nw79pJkSuUZ3Xjp9HkZxx) | 3:51 | 2025-08-14 | 2025-08-22 |
 | [拖延症\*](https://open.spotify.com/track/0EqqcZfTYGR2EZwFHfjMvj) | [庸俗救星Vulgar Savior](https://open.spotify.com/artist/0yxKjRdHdfEZvsypUkROaq) | [Little Battle](https://open.spotify.com/album/1NCB6fYczTAYv1hgbAL3ia) | 3:00 | 2025-04-17 | 2025-05-09 |
 | [拜六禮拜（2025 公視台語台 華視 戲劇《拜六禮拜》同名主題曲）](https://open.spotify.com/track/0bpJrdHj9kqSupIxTX6jiR) | [孫淑媚](https://open.spotify.com/artist/6yURsPRbhzMKvHc0pcNDUf) | [拜六禮拜（2025 公視台語台 華視 戲劇《拜六禮拜》同名主題曲）](https://open.spotify.com/album/7vutXGI1irR7aHN3VkhP0l) | 3:10 | 2025-06-12 | 2025-07-18 |
-| [拿起一顆蘋果，咬了一口](https://open.spotify.com/track/6UF4I0Pw9XkNVpxy1mDKCY) | [小狗的骨頭](https://open.spotify.com/artist/25ORllqvkHqWl4yGwRnHP7), [沈以诚](https://open.spotify.com/artist/3YGiiv6KAB2HX5Fffpu0kQ) | [拿起一顆蘋果，咬了一口](https://open.spotify.com/album/7zLjPeqolPYUetZJievEeL) | 4:21 | 2025-11-20 |  |
+| [拿起一颗苹果，咬了一口](https://open.spotify.com/track/6UF4I0Pw9XkNVpxy1mDKCY) | [小狗的骨头](https://open.spotify.com/artist/3pskeF4J6ACNDAWayecaYb), [沈以誠](https://open.spotify.com/artist/1WrIe6XUiiU9KovVimwqpE) | [拿起一颗苹果，咬了一口](https://open.spotify.com/album/7zLjPeqolPYUetZJievEeL) | 4:21 | 2025-11-20 |  |
 | [指尖滑過就能被忘記的美](https://open.spotify.com/track/6YbvsRQiwNfmdIPos5IwNx) | [吾橋有水 FloodingBridge](https://open.spotify.com/artist/0mYdyPW4ExvkilLuv5KU0k) | [指尖滑過就能被忘記的美](https://open.spotify.com/album/2AESsxBRZVUNH9Yba0y7Ie) | 4:13 | 2024-08-22 | 2024-09-13 |
 | [捕捉心跳 \- 影集《化外之醫》插曲](https://open.spotify.com/track/1zrzp9pCYHDuuKrmOP5O8K) | [柏霖PoLin](https://open.spotify.com/artist/42UhEbkOaTEwJKWmf7xlfZ) | [捕捉心跳 \(影集《化外之醫》插曲\)](https://open.spotify.com/album/1T4p1BTl5cPRK45FSQQB55) | 3:54 | 2025-02-27 | 2025-03-14 |
 | [换季关系](https://open.spotify.com/track/499vCGlTufXOIyXaB5xYBR) | [Moon Chew](https://open.spotify.com/artist/6aNXXIGCTxVP98Mp1lafGq), [GHAZT](https://open.spotify.com/artist/6VfJVZy1tdcsxFyXIZPuxM) | [换季关系](https://open.spotify.com/album/5QCFZOgSSFLTLserfe6FoQ) | 4:38 | 2024-11-21 | 2024-12-06 |
@@ -2536,6 +2539,7 @@
 | [梅雨季](https://open.spotify.com/track/73MgEB0jHzTU0RE7wWcBf6) | [Zhang Zhen Yue](https://open.spotify.com/artist/6PNEi9i2MxUgRufqYr76Xt) | [跟著感覺走](https://open.spotify.com/album/2evA9z2timYQLrCtfmsTe1) | 4:11 | 2025-07-24 | 2025-08-15 |
 | [棉床頂兮向望](https://open.spotify.com/track/4i8EX2iTWSGUxIA0Mp9gkR) | [昭霖](https://open.spotify.com/artist/6QG7iU3HlpXfClUyquYIj3) | [棉床頂兮向望](https://open.spotify.com/album/5T3W8LYRpFRynx07CKgZvG) | 4:02 | 2024-08-01 | 2024-08-09 |
 | [森と星の約束 \(森林與星星的約定\)](https://open.spotify.com/track/1gydnqDRfR9E0fiXUre5DT) | [林忠諭 Cosmos J](https://open.spotify.com/artist/6z96kF9JzUTvkwSHFbobmm) | [森と星の約束 \(森林與星星的約定\)](https://open.spotify.com/album/0xrk2Gd2ASJvXP9eKA3cv3) | 5:21 | 2025-01-02 | 2025-01-24 |
+| [森林](https://open.spotify.com/track/6zOI5qqddfTClO7I7YdxLW) | [Elvin Chang](https://open.spotify.com/artist/6v7It0exKaYq9YEw95REHM) | [森林](https://open.spotify.com/album/4StIG5rC961YgFI5P1raP7) | 4:12 | 2025-11-20 |  |
 | [森林](https://open.spotify.com/track/3i1e3oxlVy7mS4qJEiE70z) | [鄭興](https://open.spotify.com/artist/5zawO99pOdAzrwyJSSu5qE) | [森林](https://open.spotify.com/album/4Sk07QtJtcHrCKt90zvNd2) | 4:49 | 2025-05-15 | 2025-06-06 |
 | [椅仔姑](https://open.spotify.com/track/4ShVlCSLe3qQ7hK0fmFWDS) | [白華](https://open.spotify.com/artist/0WOWJX3GrZyJxjU2j8nsRE) | [椅仔姑](https://open.spotify.com/album/2zZSRamnS1jiFFqeSnQkUE) | 5:03 | 2024-08-22 | 2024-08-30 |
 | [極樂世界](https://open.spotify.com/track/5FshdcJMvxXnxT1Ja3lgXJ) | [玖壹壹](https://open.spotify.com/artist/3w8fdvgPp2aKgy125EBgVg) | [極樂世界](https://open.spotify.com/album/6YCK78QCAxMqK0lotLD5zq) | 3:22 | 2024-08-01 | 2024-08-23 |

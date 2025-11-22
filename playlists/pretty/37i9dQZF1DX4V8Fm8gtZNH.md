@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V8Fm8gtZNH.md) - [plain]
 
 > Our streets, our way\. Listen to music from The Chi, now streaming on Paramount+ with Showtime.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,079 likes - 350 songs - 20 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,087 likes - 350 songs - 20 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -147,7 +147,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V8Fm8gtZNH.md) - [plain]
 | 137 | [Happy Holiday](https://open.spotify.com/track/1GLdHIGsGad61FElQYEyWZ) | [Peter Caines](https://open.spotify.com/artist/2A9NxU4u2fRnwCNAfl0kSk) | [A Christmas to Remember](https://open.spotify.com/album/6ELeLZNIIa0atcFhRnX5uz) | 3:50 |
 | 138 | [Under the Mistletoe](https://open.spotify.com/track/6aUZxbexOW0xBKDWmSm9li) | [Diamond V](https://open.spotify.com/artist/4GjlPSG4y3IJ1C2LypBfRs), [Corey B](https://open.spotify.com/artist/6wl3DWmv0MJgGO8Kk6FTWg) | [A Christmas to Remember](https://open.spotify.com/album/6ELeLZNIIa0atcFhRnX5uz) | 4:02 |
 | 139 | [Tonite](https://open.spotify.com/track/6IYDfIahEXo1R4JvGE8qvk) | [J'Von](https://open.spotify.com/artist/4eHBJhhwKArGTnV9TBDPAs), [Tim Dugga](https://open.spotify.com/artist/0QxVkfvWKj1snsWt3Qh5B4) | [A Christmas to Remember](https://open.spotify.com/album/6ELeLZNIIa0atcFhRnX5uz) | 3:30 |
-| 140 | [Everyday Christmas](https://open.spotify.com/track/3Go0G6c39xLOLANIUT7EBf) | [Trinity](https://open.spotify.com/artist/40s0JQqVmgaEOdLcQpaD27) | [Everyday Christmas](https://open.spotify.com/album/3gZIkWhcQlEqFbfHRtFFlj) | 3:49 |
+| 140 | [Everyday Christmas](https://open.spotify.com/track/3Go0G6c39xLOLANIUT7EBf) | [Trinity](https://open.spotify.com/artist/7FNtWNGzLSqYSdVZ8sJrCJ) | [Everyday Christmas](https://open.spotify.com/album/3gZIkWhcQlEqFbfHRtFFlj) | 3:49 |
 | 141 | [Boolin' \(I'm Ready\)](https://open.spotify.com/track/3uT3biF7xd3neJRBkG3Yw7) | [Blair Perkins](https://open.spotify.com/artist/609Q2Uooik1vA0iMZ4uOka) | [Blair Perkins](https://open.spotify.com/album/4a0Y2hGtsqG3Ya9nR228IY) | 3:04 |
 | 142 | [Love Is in the Air](https://open.spotify.com/track/4CKU1PVMR6Yx3zAPhfuO2V) | [Lena DeVor](https://open.spotify.com/artist/6J0lNduwmhpKBScZtFp6AW) | [A Christmas to Remember](https://open.spotify.com/album/6ELeLZNIIa0atcFhRnX5uz) | 3:36 |
 | 143 | [This Christmas](https://open.spotify.com/track/7MSYSOobsombc1mbDWFxtD) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Donny Hathaway](https://open.spotify.com/album/4yzozr59813IAXnxhWUl7i) | 3:51 |

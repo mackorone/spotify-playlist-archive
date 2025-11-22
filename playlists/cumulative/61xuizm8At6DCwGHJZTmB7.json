@@ -567,6 +567,28 @@
     },
     {
       "album": {
+        "name": "All Sufficient Merit",
+        "url": "https://open.spotify.com/album/1c1fIOyptf5UcKp15fHbAV"
+      },
+      "artists": [
+        {
+          "name": "Bryan Fowler",
+          "url": "https://open.spotify.com/artist/73tMHfGoCsakZYN5lMUWSc"
+        },
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360299,
+      "name": "All Sufficient Merit",
+      "url": "https://open.spotify.com/track/7ymNiYT5jVlWLVZdiAwfm5"
+    },
+    {
+      "album": {
         "name": "All That Remains",
         "url": "https://open.spotify.com/album/7gPki4Zq97kfLngBBGuzzO"
       },

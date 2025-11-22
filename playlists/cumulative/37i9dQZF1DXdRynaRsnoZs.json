@@ -168,7 +168,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 167812,
       "name": "Amazing Grace",
       "url": "https://open.spotify.com/track/1vvJlfnj5pfqpI5S8Yrq3e"
@@ -1289,6 +1289,24 @@
     },
     {
       "album": {
+        "name": "Night Before Christmas Eve",
+        "url": "https://open.spotify.com/album/59NjcNDCZcmZltsffkrQHc"
+      },
+      "artists": [
+        {
+          "name": "Lue Miles",
+          "url": "https://open.spotify.com/artist/2cxel74Dv32TWXq5q9sqAU"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167981,
+      "name": "Night Before Christmas Eve",
+      "url": "https://open.spotify.com/track/0jXhGYUKa1mfIJdPe8P8NQ"
+    },
+    {
+      "album": {
         "name": "Vaggvisor Vid Jul",
         "url": "https://open.spotify.com/album/4gzft6hAT4tnZqZGjxFgh7"
       },
@@ -1667,6 +1685,24 @@
     },
     {
       "album": {
+        "name": "Sleepy Snowflake",
+        "url": "https://open.spotify.com/album/2kdZk7JXudUlYkNVU0eyh6"
+      },
+      "artists": [
+        {
+          "name": "Noel Keys",
+          "url": "https://open.spotify.com/artist/6wjGDoGXnUiwtucOSTqac1"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83916,
+      "name": "Sleepy Snowflake",
+      "url": "https://open.spotify.com/track/6tdFVlnQkJmMMTk7DjT6Rs"
+    },
+    {
+      "album": {
         "name": "Seven Joys Of Mary",
         "url": "https://open.spotify.com/album/5rkt6ySKd4ozKi1xXOWj3m"
       },
@@ -1930,7 +1966,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 203606,
       "name": "We Three Kings - Instrumental",
       "url": "https://open.spotify.com/track/4K9nBWXE1KaAuORjR6fafU"

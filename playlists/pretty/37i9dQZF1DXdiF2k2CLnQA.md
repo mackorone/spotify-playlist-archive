@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiF2k2CLnQA.md) - [plain]
 
 > Den bästa och största rocklistan i Sverige!
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,735 likes - 75 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,780 likes - 75 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,15 +28,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiF2k2CLnQA.md) - [plain]
 | 18 | [Venus](https://open.spotify.com/track/5Q3Ak6PPL11xyWURXLwYUb) | [Royal Republic](https://open.spotify.com/artist/0DbbnkFMhhDvinDYIiHhGS) | [Venus](https://open.spotify.com/album/1YdRhdv1ZIbl021MJqH87j) | 3:08 |
 | 19 | [Blood Covenant](https://open.spotify.com/track/5Fu92pIctIhDh4tngZjt3e) | [Adept](https://open.spotify.com/artist/1TsgX8DlUvpk9mrUqxmOZu) | [Blood Covenant](https://open.spotify.com/album/07I7OdOJ8FvUch5y06hd2G) | 4:48 |
 | 20 | [GUTSY](https://open.spotify.com/track/2oK6zOlRBu3zYqS62LLc0i) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [GUTSY](https://open.spotify.com/album/1cSEktYGDM94FlEfAKNOiZ) | 4:41 |
-| 21 | [Howling Hell](https://open.spotify.com/track/10W5QKPyRlwyxFP2UlhQ3w) | [Sister](https://open.spotify.com/artist/61wT4HUIxJWYmv7r6lNXiQ) | [](https://open.spotify.com/album/null) | 3:57 |
+| 21 | [Howling Hell](https://open.spotify.com/track/10W5QKPyRlwyxFP2UlhQ3w) | [Sister](https://open.spotify.com/artist/61wT4HUIxJWYmv7r6lNXiQ) | [The Way We Fall](https://open.spotify.com/album/4zQi7CpUO2mqp2uB2PcvnK) | 3:57 |
 | 22 | [War Pigs \- Charity Version](https://open.spotify.com/track/14M0JWFCnsKNGSvzDn0j6q) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I), [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [War Pigs \(Charity Version\)](https://open.spotify.com/album/4YeoFXF8LyFRSHm6LhUHGf) | 8:04 |
 | 23 | [Time's Up](https://open.spotify.com/track/6BD1LIdXYKL5KNASooeCz7) | [Self Deception](https://open.spotify.com/artist/0FHW0Lp33r3fvIG0HL4mW0) | [Time's Up](https://open.spotify.com/album/5o0OYZFbFLPHzaKIIEMs6V) | 3:31 |
 | 24 | [Angels Calling](https://open.spotify.com/track/0y2JgdmUmRWrTMXZhSinDe) | [Solence](https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg) | [Angels Calling](https://open.spotify.com/album/1Qi4VBSO2f5zs26HMCiAtd) | 2:55 |
 | 25 | [Even In Arcadia](https://open.spotify.com/track/4IixOTCzviJgIigKleiVbo) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Even In Arcadia](https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj) | 4:28 |
-| 26 | [Wild Woman](https://open.spotify.com/track/1XcZZwyoLwwF3dISFQe0h6) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [](https://open.spotify.com/album/null) | 3:35 |
+| 26 | [Wild Woman](https://open.spotify.com/track/1XcZZwyoLwwF3dISFQe0h6) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [One More Time](https://open.spotify.com/album/2R33Pd9eM5qDQTHO66LGJS) | 3:35 |
 | 27 | [Bruised Sky](https://open.spotify.com/track/3Xf7Njd3lTqZbNkeLPGoFH) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Bruised Sky](https://open.spotify.com/album/7qSK2ETB3f6sPy39dNbUr4) | 3:40 |
 | 28 | [Box With Spirits](https://open.spotify.com/track/7ivGhbcvChk4TSSjIAvqcx) | [Cyhra](https://open.spotify.com/artist/6tkhw6PSVw7b2M7h5fLBLE) | [Box With Spirits](https://open.spotify.com/album/23zSQg0YS7mpq7RjtFVSYB) | 3:18 |
-| 29 | [I Love It Louder](https://open.spotify.com/track/4ajuLvDss1hpw1ba0UdcFA) | [Danko Jones](https://open.spotify.com/artist/7CGoviGsNXYmGOBkXk8dtW) | [](https://open.spotify.com/album/null) | 3:35 |
+| 29 | [I Love It Louder](https://open.spotify.com/track/4ajuLvDss1hpw1ba0UdcFA) | [Danko Jones](https://open.spotify.com/artist/7CGoviGsNXYmGOBkXk8dtW) | [Leo Rising](https://open.spotify.com/album/4lbss43NOjr21GnVNsxUYW) | 3:35 |
 | 30 | [Kickstart My Heart](https://open.spotify.com/track/4Yqy0GpeDEXLibWJCZyQew) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dr\. Feelgood](https://open.spotify.com/album/4MDYr65P5RQb6VHt80T3o8) | 4:42 |
 | 31 | [Shoreline](https://open.spotify.com/track/6HSmNUrdAiQNforGJMNqmq) | [The Halo Effect](https://open.spotify.com/artist/2qvK5iLLoDV5mJeAvh5uka) | [We Are Shadows](https://open.spotify.com/album/5szZPN7qrKaey9QqZCzdH3) | 3:37 |
 | 32 | [Moths](https://open.spotify.com/track/71Rgf3kRwb7ReVASnkNAkz) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Blood Dynasty \(Expanded Deluxe Edition\)](https://open.spotify.com/album/1fRRVExZOrOXIdu0RgUGtY) | 4:01 |

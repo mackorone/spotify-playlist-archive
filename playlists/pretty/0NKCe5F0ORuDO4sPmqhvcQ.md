@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,467 likes - 79 songs - 4 hr 34 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,467 likes - 84 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,5 +87,10 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 77 | [It's Strange \(feat\. K.Flay\) \- jigitz Remix](https://open.spotify.com/track/1AONUJWKH8RufJKrN1p6Mr) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr), [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [It's Strange \(feat\. K.Flay\) \[10th Anniversary Edition\]](https://open.spotify.com/album/5SipI7btNPTGmV2ZPUBOcS) | 2:53 |
 | 78 | [lucky 777](https://open.spotify.com/track/2PItx8ylP9oGrcoQMhPA3r) | [wes mills](https://open.spotify.com/artist/0EuHfcxMPDNkOjGVF4e1KT) | [lucky 777](https://open.spotify.com/album/4yQO2awKYEX7cMd4AbGcXY) | 2:16 |
 | 79 | [Off My Head](https://open.spotify.com/track/1XKnWwwjUfiZwoqGyc0UaU) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [ElmyX](https://open.spotify.com/artist/3HE2rmc5yd27lV668hRPEV), [Simona Shao](https://open.spotify.com/artist/4iF8VQ9Avxe5RM3A4ddlvF) | [Off My Head](https://open.spotify.com/album/2H1tZkDlhFnYzBL4rHmDxs) | 3:55 |
+| 80 | [B2B](https://open.spotify.com/track/63mrZQncdwizzlWE3x1iz1) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [B2B](https://open.spotify.com/album/3q3FHzw5AYT2wUdxhsRmnL) | 2:48 |
+| 81 | [Scorpio \(Talk To The Stars\) \(feat\. MYRNE\)](https://open.spotify.com/track/0rxJZCqXhm8DRjoP07um9W) | [STARSIGNS](https://open.spotify.com/artist/4i6h8ZEK64FovE2EQCjMMZ), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb), [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [Scorpio \(Talk To The Stars\) \(feat\. MYRNE\)](https://open.spotify.com/album/3FL5qJ7QA4zUgNzy57EZy4) | 3:03 |
+| 82 | [HURT YA KNEES](https://open.spotify.com/track/7wS0EDF6wPN8Nv0h7jo4Y5) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Rome Fortune](https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np) | [KEEP CLIMBING / HURT YA KNEES](https://open.spotify.com/album/3K8IegnkN5EoTntFiDZnJI) | 2:41 |
+| 83 | [Your Eyes](https://open.spotify.com/track/1oOb9XNTpR416C4tv4KIRD) | [Night Tales](https://open.spotify.com/artist/7lCWd42OYd5Rn7UbozbA6R), [Sistek](https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Your Eyes](https://open.spotify.com/album/3wrwLMoSN3D2eGiZYR35bB) | 3:38 |
+| 84 | [RUN](https://open.spotify.com/track/49bPzRToh1kiYGWUJLYhd2) | [ÆON:MODE](https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV) | [RUN](https://open.spotify.com/album/4JBGhW2NrfdnQvdA2wqXXN) | 3:00 |
 
-Snapshot ID: `AAArD15R6H1ucBLg/JS9Eqm60sLtjYMJ`
+Snapshot ID: `AAArFJCZckUK8pnesZANoTbTmzqm3q43`

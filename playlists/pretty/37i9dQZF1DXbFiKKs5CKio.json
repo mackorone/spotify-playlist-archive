@@ -1,6 +1,6 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 70635,
+  "num_followers": 70640,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
@@ -115,6 +115,22 @@
     {
       "added_at": "2025-10-24 18:39:08",
       "album": {
+        "name": "Perfeito Par",
+        "url": "https://open.spotify.com/album/78BfcZmdUjGiMzNCeMYaYB"
+      },
+      "artists": [
+        {
+          "name": "Belo",
+          "url": "https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki"
+        }
+      ],
+      "duration_ms": 170880,
+      "name": "Perfeito Par",
+      "url": "https://open.spotify.com/track/0PwMCxdShRFHI1EngnHoot"
+    },
+    {
+      "added_at": "2025-10-24 18:39:08",
+      "album": {
         "name": "Teto: We4Sessions",
         "url": "https://open.spotify.com/album/4iTosNbBmkOfZjxdwlzBS6"
       },
@@ -131,22 +147,6 @@
       "duration_ms": 196057,
       "name": "Gr\u00e9cia",
       "url": "https://open.spotify.com/track/3Q9OzjTdLoQpz7qjJWMjCM"
-    },
-    {
-      "added_at": "2025-10-24 18:39:08",
-      "album": {
-        "name": "Perfeito Par",
-        "url": "https://open.spotify.com/album/78BfcZmdUjGiMzNCeMYaYB"
-      },
-      "artists": [
-        {
-          "name": "Belo",
-          "url": "https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki"
-        }
-      ],
-      "duration_ms": 170880,
-      "name": "Perfeito Par",
-      "url": "https://open.spotify.com/track/0PwMCxdShRFHI1EngnHoot"
     },
     {
       "added_at": "2025-10-24 18:39:08",
@@ -761,7 +761,7 @@
         },
         {
           "name": "Murilo Orum",
-          "url": "https://open.spotify.com/artist/0iQdEOlg2RgOLPpZtVqd9J"
+          "url": "https://open.spotify.com/artist/6NwIrTXWOBJQRNrsIkY1yP"
         }
       ],
       "duration_ms": 168275,

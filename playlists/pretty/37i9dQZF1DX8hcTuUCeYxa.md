@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: FIL BO RIVA
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,669 likes - 90 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,730 likes - 90 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Waltz of Solitude](https://open.spotify.com/track/4MjgJUcr05f9HdcxaecJkY) | [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [](https://open.spotify.com/album/null) | 3:59 |
+| 1 | [Waltz of Solitude](https://open.spotify.com/track/4MjgJUcr05f9HdcxaecJkY) | [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [Songs of Solitude](https://open.spotify.com/album/6rX742v3KwNWN4oTII61qf) | 3:59 |
 | 2 | [BUBBLING](https://open.spotify.com/track/6s5eOLOj3Zlb9x6eOfN1lM) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [BUBBLING](https://open.spotify.com/album/5Olp3mWtW2kYfGxGKNXzID) | 2:45 |
 | 3 | [Sweet Emotion](https://open.spotify.com/track/5fb0VfB1Nej93xHP81z73E) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Sweet Emotion](https://open.spotify.com/album/5mILhipavFpMWDb54C4dPh) | 2:37 |
 | 4 | [Sugar Clouds](https://open.spotify.com/track/4khcWhsdxVNvSQeNsIYDLM) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Sugar Clouds](https://open.spotify.com/album/6kLXkXhbZy8Jg1rv29kr2a) | 4:28 |
-| 5 | [School Again](https://open.spotify.com/track/2yLE5Uyjy9if5Lqqjm5YyG) | [Hearts Hearts](https://open.spotify.com/artist/5kRhbeMGVzAciRwnQzyesH) | [](https://open.spotify.com/album/null) | 3:05 |
+| 5 | [School Again](https://open.spotify.com/track/2yLE5Uyjy9if5Lqqjm5YyG) | [Hearts Hearts](https://open.spotify.com/artist/5kRhbeMGVzAciRwnQzyesH) | [Stupid Stars](https://open.spotify.com/album/5E3FezL8ibrtoyCtO21dNI) | 3:05 |
 | 6 | [Hot Like Fire \- Bonus](https://open.spotify.com/track/2hgLE7m6TzT1PyE41r1xbf) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx \(Deluxe\)](https://open.spotify.com/album/10p4597ekqFOqMbttkxggC) | 3:31 |
 | 7 | [Leftist Posers](https://open.spotify.com/track/24GkpKr1e8LHwMTQgCFFbe) | [Louis Ottley](https://open.spotify.com/artist/6lq9zv8FElQShSuFYolkp5) | [THREAT](https://open.spotify.com/album/25NCbgOlMVZNJhgWH3fVxZ) | 2:20 |
 | 8 | [I'm Always On Stage](https://open.spotify.com/track/2GR3y9iXb5Lae2KLQJUy2J) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [I'm Always On Stage](https://open.spotify.com/album/7cp6JGilOv7SbJxOSzc1UB) | 4:03 |
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 12 | [The Other](https://open.spotify.com/track/5TzYHoerPmKCHgYj8k2lb6) | [Markus Nikolaus](https://open.spotify.com/artist/4ZjrEAWRBDsm5PRwCzKCds) | [The Other](https://open.spotify.com/album/7uPReUvMLrnRPxtGnvANSu) | 3:42 |
 | 13 | [Lipdance](https://open.spotify.com/track/5b2nQ3pCgh8hfM6DH2rt8S) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Paradise Now & Forever](https://open.spotify.com/album/2Ez0tq5fIpDfI2L3jZQdU0) | 3:35 |
 | 14 | [Deep End](https://open.spotify.com/track/7kK5f5HytyXEFhjXs6Tavr) | [Twin Shadow](https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb) | [Cadet](https://open.spotify.com/album/00vVypCIlBRymIjJv1IUqS) | 3:43 |
-| 15 | [Inner City Ghosts](https://open.spotify.com/track/1wQ00RmlR3rtTdQXui3xrh) | [Johnossi](https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT) | [](https://open.spotify.com/album/null) | 3:49 |
-| 16 | [feel it coming](https://open.spotify.com/track/2n90hVOcRAu3YOVpIQXChk) | [Filiah](https://open.spotify.com/artist/7eDeCweG3x20jhQvvbUkjl), [sanna frankie](https://open.spotify.com/artist/31BTzG2olQWOHbn1nh1E94) | [feel it coming](https://open.spotify.com/album/3DJLHfiRulr2EB4sOroSbq) | 2:50 |
+| 15 | [Inner City Ghosts](https://open.spotify.com/track/1wQ00RmlR3rtTdQXui3xrh) | [Johnossi](https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT) | [Forevers](https://open.spotify.com/album/1Cwlh31SKFozdbGskNJWbJ) | 3:49 |
+| 16 | [feel it coming](https://open.spotify.com/track/2n90hVOcRAu3YOVpIQXChk) | [sanna frankie](https://open.spotify.com/artist/31BTzG2olQWOHbn1nh1E94), [Filiah](https://open.spotify.com/artist/7eDeCweG3x20jhQvvbUkjl) | [feel it coming](https://open.spotify.com/album/3DJLHfiRulr2EB4sOroSbq) | 2:50 |
 | 17 | [Walk on Walls](https://open.spotify.com/track/1UXYnWHvmZAjfv9GGahsTx) | [Hundreds](https://open.spotify.com/artist/7mTyxMGqsoIl6ofVdtjfux) | [Walk on Walls](https://open.spotify.com/album/7owAt3Yh8fft9dFK4eaYCZ) | 4:02 |
 | 18 | [1959](https://open.spotify.com/track/7dfopGH3KjAXou1dkgiBQ2) | [claire my flair](https://open.spotify.com/artist/0YJlDaNrY5A0if0WeHF1uJ) | [Through the Worst Years and the Opposite](https://open.spotify.com/album/64Y4doyNXtfdHB0PZpjWNz) | 3:46 |
 | 19 | [2017 \(feat\. The Antlers\)](https://open.spotify.com/track/07S2JIX2bymIBqqhsp9We4) | [Nick & June](https://open.spotify.com/artist/1mx1QlS8xWbe1KfXrvHrYl), [The Antlers](https://open.spotify.com/artist/5o8Wylae9k23IEJMIiwd8s) | [2017](https://open.spotify.com/album/5H1MxvrdhSNr7ET9Iy6r4d) | 4:52 |

@@ -4,7 +4,7 @@
 
 > Descubre los temas emergentes del mundo indie\. Foto: La Plazuela.
 
-629 songs - 1 day 8 hr 40 min
+629 songs - 1 day 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [Ens hem guanyat l'estiu](https://open.spotify.com/track/0U0S0quAHLkelr6bPsi7Z9) | [Pau Vallvé](https://open.spotify.com/artist/2e9wKql4wZPFzTfNgpBa9s) | [Ens hem guanyat l'estiu](https://open.spotify.com/album/4pyaZxtfP0YHcDfLvzW8ZR) | 3:39 | 2024-07-12 | 2024-12-20 |
 | [Es una pena](https://open.spotify.com/track/7ASXACpWPBo6yGQVV3HK3i) | [San Tosielo](https://open.spotify.com/artist/1Vp0zKCF6r1aut8Emx7CHH), [Toldos Verdes](https://open.spotify.com/artist/0E2ZnsJ8v4h5x9y7aB8RLw) | [Es una pena](https://open.spotify.com/album/1qYGyKL6Q443FpjczaERxL) | 3:33 | 2024-06-27 | 2025-02-21 |
 | [Esa nube se parece tanto a ti](https://open.spotify.com/track/3NKqGNqqR0hMpwlClo9jX1) | [Ronroneo](https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK), [ASH.RYNN](https://open.spotify.com/artist/14pUScokA9iCquc4lQ8ey3) | [Esa nube se parece tanto a ti](https://open.spotify.com/album/2piReI2Qojus0iS3OGsY2I) | 3:20 | 2025-05-01 | 2025-05-09 |
+| [Esa piel tuya](https://open.spotify.com/track/6hK8FKiHLLVZngoesfjnjK) | [Ede](https://open.spotify.com/artist/1O3NvmKUV1bKyER3apqx3Q) | [FIERALINDA](https://open.spotify.com/album/4b1yPGXvUtjVrcSDc5A0yh) | 2:31 | 2025-11-20 |  |
 | [escocia](https://open.spotify.com/track/1qxZNxDrYHpewkRHZDGuhr) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g) | [escocia](https://open.spotify.com/album/2P97OH0fMjKhV5uUJ48A9j) | 2:57 | 2024-11-22 |  |
 | [Escolta la tempesta \- Daniela Forever \- End Titles](https://open.spotify.com/track/1H4BsrydFVdqGZ3FDYGhk0) | [Hidrogenesse](https://open.spotify.com/artist/2vJ1aFdCPa1wYLqrlTvKuY), [Beatrice Grannò](https://open.spotify.com/artist/5VHuOdFhE2oK2v1IG7PZRI) | [Daniela Forever \(Original Soundtrack\)](https://open.spotify.com/album/1Ksl4u33pffetVZyCUc6aZ) | 5:27 | 2025-07-24 | 2025-08-22 |
 | [Escudo](https://open.spotify.com/track/13z5gkVyAKUUWb0Enb0tDQ) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO), [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7) | [Escudo](https://open.spotify.com/album/3rCucNvlPnzPoUThvAbY8j) | 2:51 | 2024-10-10 | 2024-12-06 |
@@ -567,7 +568,6 @@
 | [Todos menos tú](https://open.spotify.com/track/4vhtRQdd9QTKTufs8GDzBW) | [Parquesvr](https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy), [I\-Ace](https://open.spotify.com/artist/4mPVIQNhAAWQ00jvzMv9E0) | [Todos menos tú](https://open.spotify.com/album/1glqnjzKUryH8YfGhMYE8S) | 2:50 | 2024-06-27 | 2024-09-20 |
 | [tormenta](https://open.spotify.com/track/2ROg8dXdst6G4ITXCEYdhc) | [Alice Wonder](https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi) | [tormenta](https://open.spotify.com/album/48TkaLaWvD63cROQHdOIzc) | 4:16 | 2025-01-30 | 2025-03-28 |
 | [TRABAJAR EN VERANO](https://open.spotify.com/track/6lTJGk4VIeMViR74OiCzsT) | [HORROCRUX](https://open.spotify.com/artist/1voKh33KLw9EzZHBms3NzW) | [AMARILLO VERANO](https://open.spotify.com/album/2HLAjP0WXLbYbWCFF03TZP) | 2:40 | 2025-08-07 | 2025-10-31 |
-| [Track 2](https://open.spotify.com/track/6hK8FKiHLLVZngoesfjnjK) | [Ede](https://open.spotify.com/artist/1O3NvmKUV1bKyER3apqx3Q) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-20 |  |
 | [Tres Otoños \(feat\. alberto.vela\)](https://open.spotify.com/track/0cHAaDELCxNqaGfz9GMwWf) | [Colectivo Panamera](https://open.spotify.com/artist/7aFW3s8aXxis0oiGyOM3Yw), [alberto.vela](https://open.spotify.com/artist/56BJ9TARPYDpPBpxwDdNok) | [Tres Otoños \(feat\. alberto.vela\)](https://open.spotify.com/album/1SqBggflYIVC1nFyj9dXYB) | 3:51 | 2024-06-27 | 2025-03-28 |
 | [Trámite](https://open.spotify.com/track/4AnbZ70nxY05G30ZRqdXLZ) | [Alba Morena](https://open.spotify.com/artist/6wTv4tZgFHEWy8MyTaP9E5) | [Trámite](https://open.spotify.com/album/6as7JjgjSDm2R44zkMYsOR) | 3:08 | 2025-04-10 | 2025-04-18 |
 | [Tu Buen Chaval](https://open.spotify.com/track/3co2WqpeIhiQI21jz2l2qm) | [Besmaya](https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97) | [Nuevos Lemas](https://open.spotify.com/album/0f4weFEnA91MfjYF61UfOU) | 2:25 | 2024-06-27 | 2024-11-15 |

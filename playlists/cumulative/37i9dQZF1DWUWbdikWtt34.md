@@ -4,7 +4,7 @@
 
 > Dendang dangdut ngetop Tanah Air\. Cover: Selfi Yamma
 
-278 songs - 22 hr 13 min
+279 songs - 22 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Bojo Setyo](https://open.spotify.com/track/63TwHyUBMkvBbeeHr07sOG) | [Rita Tila](https://open.spotify.com/artist/1PqPEonRY2xQMSYXSzxWeh) | [Bojo Setyo](https://open.spotify.com/album/2lD4cA2RppQkk2JR9dO0W2) | 4:48 | 2023-09-07 | 2024-07-19 |
 | [Buih Jadi Permadani \(Versi Keroncong\)](https://open.spotify.com/track/37SfZOslPgeHutnlEA3NYG) | [Hetty Koes Endang](https://open.spotify.com/artist/5EITOMadvjqpslJ4Y5j5z6) | [Buih Jadi Permadani \(Versi Keroncong\)](https://open.spotify.com/album/0EUqNrL3d60KeopNKysRIz) | 4:41 | 2023-10-05 |  |
 | [Bukan Cinta Biasa](https://open.spotify.com/track/0SGLXPkGAHAzmNMUZICurK) | [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Bukan Cinta Biasa](https://open.spotify.com/album/0Zhnf3VQis3LBvnyeP2OxH) | 5:17 | 2023-09-28 |  |
-| [Bukan Karena Tak Cinta \(Dangdut Version\)](https://open.spotify.com/track/1uul36yQtUgldeT7dD29Q5) | [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB), [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd) | [Bukan Karena Tak Cinta \(Dangdut Version\)](https://open.spotify.com/album/4IBpg15jIv31FFqOYhEZqZ) | 4:39 | 2024-07-25 |  |
+| [Bukan Karena Tak Cinta \(Dangdut Version\)](https://open.spotify.com/track/1uul36yQtUgldeT7dD29Q5) | [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB), [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd) | [Bukan Karena Tak Cinta \(Dangdut Version\)](https://open.spotify.com/album/4IBpg15jIv31FFqOYhEZqZ) | 4:39 | 2024-07-25 | 2025-11-22 |
 | [Bukan Ku Tak Sudi \- \(Live Ska Reggae\)](https://open.spotify.com/track/2RZJ97Bl5WfrbnBYNG9e9r) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Bukan Ku Tak Sudi \(Live Ska Reggae\)](https://open.spotify.com/album/6pnHrH876sQ5cAQsHSm4I3) | 4:17 | 2024-05-02 | 2024-07-19 |
 | [Calon Jenazah](https://open.spotify.com/track/76ZWu54R9aAMQsWEW5IqPh) | [Abi Rafdi](https://open.spotify.com/artist/5lg2Srqzrj9XN9Yx3o0vzi) | [Calon Jenazah](https://open.spotify.com/album/6UrKQ4AgAhGkI8x2m5KU59) | 4:19 | 2025-02-07 | 2025-06-14 |
 | [Cincin Kepalsuan](https://open.spotify.com/track/7h16Oq3zKrQmY0NurK5DlT) | [Riri Chantika](https://open.spotify.com/artist/45QLgbqjuDQzHSagWxx7VX) | [Cincin Kepalsuan](https://open.spotify.com/album/15FkTQrMpQpIsNtWsOlZH7) | 6:56 | 2023-07-21 |  |
@@ -175,7 +175,7 @@
 | [Nostalgia](https://open.spotify.com/track/31JvGZJBhZWUijQvLBqwCG) | [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa) | [Nostalgia](https://open.spotify.com/album/5I3UANRadKoF3ZuXXwjFD0) | 4:19 | 2023-01-26 | 2023-09-15 |
 | [Obati Rinduku \- Acoustic](https://open.spotify.com/track/67cxYPcbVFaHZlrPrIGPE0) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Obati Rinduku \(Acoustic\)](https://open.spotify.com/album/5cXRZIwFeZwDvcfTxM4zt9) | 4:18 | 2025-10-24 |  |
 | [Ojo Dibandingke](https://open.spotify.com/track/2BIQGFkSLWl0SPRxaPR48Z) | [Abah Lala](https://open.spotify.com/artist/6BkCOBTVHP3E2FoLnEKauW) | [Ojo Dibandingke](https://open.spotify.com/album/1R0NoljKSKaY6Pc025aRam) | 5:18 | 2022-10-13 | 2024-09-07 |
-| [Ojo Dumeh](https://open.spotify.com/track/5ZXe46rT8IRuuVsKlTPrtt) | [Ligea](https://open.spotify.com/artist/7hLgy5SoxWG2nYanRBiouX) | [Ojo Dumeh](https://open.spotify.com/album/0rEJIDYgNL6j5u7Or3omIC) | 3:31 | 2024-02-02 |  |
+| [Ojo Dumeh](https://open.spotify.com/track/5ZXe46rT8IRuuVsKlTPrtt) | [Ligea](https://open.spotify.com/artist/7hLgy5SoxWG2nYanRBiouX) | [Ojo Dumeh](https://open.spotify.com/album/0rEJIDYgNL6j5u7Or3omIC) | 3:31 | 2024-02-02 | 2025-11-22 |
 | [Ora Masalah](https://open.spotify.com/track/6QltkHtHO3XSl4w78rD5yV) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Ora Masalah](https://open.spotify.com/album/3CIYsMMFhjmGiNNLm587F0) | 4:21 | 2021-08-23 | 2023-09-15 |
 | [Orang Ketiga \- Live](https://open.spotify.com/track/7HHzjPjeUwslBNr2Ga4fVx) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La), [Ochi Alvira](https://open.spotify.com/artist/0IDoFKt8JOLluarIdWJ5aZ) | [Orang Ketiga \(Live\)](https://open.spotify.com/album/44GfoYKSmyCt1I1zFeeneU) | 4:39 | 2023-05-04 | 2023-11-04 |
 | [Orang Yang Salah](https://open.spotify.com/track/1CFljHV9T8Igz39KmoHF8I) | [Baby Shima](https://open.spotify.com/artist/2zAfKhQim4rgBtphxttaLX), [Luvia band](https://open.spotify.com/artist/68LnYWYS7UQ67awNV3RO6a) | [Orang Yang Salah](https://open.spotify.com/album/0zi9EK30OsfcYzJXtwSg24) | 3:27 | 2024-09-06 |  |
@@ -272,8 +272,9 @@
 | [Termiskin Di Dunia](https://open.spotify.com/track/00SZUabJ4X5ZcjR0vSwyNi) | [Keanu Angelo](https://open.spotify.com/artist/1DvOWGQTWHp14tU8aqHg20) | [Mendadak Dangdut](https://open.spotify.com/album/16MnlFg1npECML3ZYWpp82) | 5:28 | 2025-05-01 |  |
 | [Terpesona](https://open.spotify.com/track/1dWXJ2CgrEVXQhnuF77ERf) | [Sridevi](https://open.spotify.com/artist/4Ad1vLhZo1fEqoXhmHb1n3) | [Terpesona](https://open.spotify.com/album/5lp416CnXmPsSUy6K9prMK) | 4:55 | 2025-09-25 |  |
 | [Tia Monika](https://open.spotify.com/track/5xRjszE0K8FVoO6Uf0tv45) | [Ochi Alvira](https://open.spotify.com/artist/0IDoFKt8JOLluarIdWJ5aZ) | [Tia Monika](https://open.spotify.com/album/515qLOmCHp8UYrJeeBgnIf) | 5:16 | 2025-08-15 |  |
-| [Tiara](https://open.spotify.com/track/3Qoes6Dqk3L33gskQybbAH) | [Fildan](https://open.spotify.com/artist/6uOceknzOyjcK3UdX3SIzl) | [Tiara](https://open.spotify.com/album/6IjJUCwDvhnVXRmOCbGwCv) | 5:09 | 2023-09-14 |  |
+| [Tiara](https://open.spotify.com/track/3Qoes6Dqk3L33gskQybbAH) | [Fildan](https://open.spotify.com/artist/6uOceknzOyjcK3UdX3SIzl) | [Tiara](https://open.spotify.com/album/6IjJUCwDvhnVXRmOCbGwCv) | 5:09 | 2023-09-14 | 2025-11-22 |
 | [Tidak Semua Laki\-Laki](https://open.spotify.com/track/602t4lNXRIhEjpjW7N1jCe) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Tidak Semua Laki\-Laki](https://open.spotify.com/album/6q2iWphcTRGqOKe4JPrLVD) | 5:56 | 2024-08-08 | 2024-12-13 |
+| [Tiis](https://open.spotify.com/track/4xbBTMYuSWdYHl1zvuw37c) | [Gilang](https://open.spotify.com/artist/7pFyHVn3WLIIefKtEkTvt6) | [Tiis](https://open.spotify.com/album/7zsMUnkDBxMMe1TH0SJl6V) | 3:55 | 2025-11-21 |  |
 | [Tresnane Wong Kere](https://open.spotify.com/track/4ig8rr39dqGCM27aJcmCz5) | [Jihan Audy](https://open.spotify.com/artist/7KlMqMCZbUE9rYpa95R2CV) | [Tresnane Wong Kere](https://open.spotify.com/album/7vNxqBRt7gBPlrjwRWwXdb) | 3:49 | 2021-08-23 | 2023-07-28 |
 | [Tulus](https://open.spotify.com/track/5CxSb3UwkhriAMnlINNbAs) | [Sevi Xiu](https://open.spotify.com/artist/0feWnMosmJCNFXhFXsK8Cb) | [Tulus](https://open.spotify.com/album/1Z6zIX7a8D4OSuQTQ5Swjn) | 3:40 | 2024-04-18 | 2025-01-31 |
 | [Via Vallen \- Kopi Dangdut](https://open.spotify.com/track/18MnWJxYUKfI3UQfemPCyJ) | [Via Vallen](https://open.spotify.com/artist/6vnVPM49Yl9LSGqhnLAh1f) | [Via Vallen \- Kopi Dangdut](https://open.spotify.com/album/79KEBVLIcSYF1L9fjIBsQT) | 4:20 | 2021-08-23 | 2023-11-04 |

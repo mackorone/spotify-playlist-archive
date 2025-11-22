@@ -1405,6 +1405,24 @@
     },
     {
       "album": {
+        "name": "Ezzeman Waajayba",
+        "url": "https://open.spotify.com/album/3k9sItxBMEdMqpCkIanYlr"
+      },
+      "artists": [
+        {
+          "name": "Raouf Maher",
+          "url": "https://open.spotify.com/artist/2cSmvBKoZhM31paDXqjno2"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245401,
+      "name": "Ezzeman Waajayba",
+      "url": "https://open.spotify.com/track/1jceWhxSJT69rldGc3Y87v"
+    },
+    {
+      "album": {
         "name": "Zayn",
         "url": "https://open.spotify.com/album/4QXZZzVBH1pjiVBxyySKjr"
       },
@@ -2892,7 +2910,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 186666,
       "name": "Meen Ysadak",
       "url": "https://open.spotify.com/track/2So4UdTcMQe2ap2VpC43eD"

@@ -1,12 +1,12 @@
 {
   "description": "This is Liran' Roll. The essential tracks, all in one playlist.",
-  "num_followers": 39650,
+  "num_followers": 39661,
   "original_name": "This Is Liran' Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aR0IgAAAAADawWIcVRkJ8Vokg8OblNbf",
+  "snapshot_id": "aR5aAAAAAACch9uLLMs33i82SbuFRypJ",
   "tracks": [
     {
       "added_at": null,
@@ -427,18 +427,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cham\u00e1n",
-        "url": "https://open.spotify.com/album/0NQkOlwA4imtZD3SkOMErU"
+        "name": "No Tengo Tiempo (De Cambiar Mi Vida)",
+        "url": "https://open.spotify.com/album/2U3tJnajShO4HccXpReW5M"
       },
       "artists": [
+        {
+          "name": "Foco De Atelier",
+          "url": "https://open.spotify.com/artist/5GZzO9MK60ZEQ5iiErfs2A"
+        },
         {
           "name": "Liran' Roll",
           "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
         }
       ],
-      "duration_ms": 285893,
-      "name": "Cham\u00e1n",
-      "url": "https://open.spotify.com/track/4RWdBsWdQ2VBEOMz58EXa8"
+      "duration_ms": 272146,
+      "name": "No Tengo Tiempo (De Cambiar Mi Vida)",
+      "url": "https://open.spotify.com/track/1UTpT97Dn2exMo7tk8GJZg"
     },
     {
       "added_at": null,
@@ -491,6 +495,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cham\u00e1n",
+        "url": "https://open.spotify.com/album/0NQkOlwA4imtZD3SkOMErU"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "duration_ms": 285893,
+      "name": "Cham\u00e1n",
+      "url": "https://open.spotify.com/track/4RWdBsWdQ2VBEOMz58EXa8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cambios",
         "url": "https://open.spotify.com/album/1XjPdYX6t4bE8fDE3Hqj4B"
       },
@@ -503,26 +523,6 @@
       "duration_ms": 239583,
       "name": "Eres Fuego",
       "url": "https://open.spotify.com/track/5gk0b8wA06lvW2xxVHTbu7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Tengo Tiempo (De Cambiar Mi Vida)",
-        "url": "https://open.spotify.com/album/2U3tJnajShO4HccXpReW5M"
-      },
-      "artists": [
-        {
-          "name": "Foco De Atelier",
-          "url": "https://open.spotify.com/artist/5GZzO9MK60ZEQ5iiErfs2A"
-        },
-        {
-          "name": "Liran' Roll",
-          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
-        }
-      ],
-      "duration_ms": 272146,
-      "name": "No Tengo Tiempo (De Cambiar Mi Vida)",
-      "url": "https://open.spotify.com/track/1UTpT97Dn2exMo7tk8GJZg"
     },
     {
       "added_at": null,
@@ -559,6 +559,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Disco de Aniversario",
+        "url": "https://open.spotify.com/album/2B06d9gCFyAoSQdjtqVbwc"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "duration_ms": 200388,
+      "name": "California",
+      "url": "https://open.spotify.com/track/5ElUJL40Y3LI4KQHbEjQLv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Estoy Perdiendo La Raz\u00f3n",
         "url": "https://open.spotify.com/album/6D5BTc38W49lEnrcJXm8ZK"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 202556,
       "name": "Estoy Perdiendo La Raz\u00f3n",
       "url": "https://open.spotify.com/track/6l63zk5RAYROPD5ykqmPcR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Disco de Aniversario",
-        "url": "https://open.spotify.com/album/2B06d9gCFyAoSQdjtqVbwc"
-      },
-      "artists": [
-        {
-          "name": "Liran' Roll",
-          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
-        }
-      ],
-      "duration_ms": 200388,
-      "name": "California",
-      "url": "https://open.spotify.com/track/5ElUJL40Y3LI4KQHbEjQLv"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mar\u00eda (Remastered)",
-        "url": "https://open.spotify.com/album/0hIFRE4KyYl4RZHASuJYgF"
-      },
-      "artists": [
-        {
-          "name": "Liran' Roll",
-          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
-        }
-      ],
-      "duration_ms": 265404,
-      "name": "Porque Te Amo",
-      "url": "https://open.spotify.com/track/6Knh4ir11etn5Agk73HkOH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Disco de Aniversario",
         "url": "https://open.spotify.com/album/2B06d9gCFyAoSQdjtqVbwc"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 234057,
       "name": "Ni\u00f1os de la Calle",
       "url": "https://open.spotify.com/track/5BqUNhd6Ok2SxZsgCzaCsT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mar\u00eda (Remastered)",
+        "url": "https://open.spotify.com/album/0hIFRE4KyYl4RZHASuJYgF"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "duration_ms": 265404,
+      "name": "Porque Te Amo",
+      "url": "https://open.spotify.com/track/6Knh4ir11etn5Agk73HkOH"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mar\u00eda (Remastered)",
-        "url": "https://open.spotify.com/album/0hIFRE4KyYl4RZHASuJYgF"
-      },
-      "artists": [
-        {
-          "name": "Liran' Roll",
-          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
-        }
-      ],
-      "duration_ms": 221843,
-      "name": "El Alcohol",
-      "url": "https://open.spotify.com/track/7q707LG7vCu4IEqFF2vzqf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cambios",
         "url": "https://open.spotify.com/album/1XjPdYX6t4bE8fDE3Hqj4B"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 310682,
       "name": "Adi\u00f3s Amigo",
       "url": "https://open.spotify.com/track/7FLQNTHpt9v3BLKBpNNKg5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mar\u00eda (Remastered)",
+        "url": "https://open.spotify.com/album/0hIFRE4KyYl4RZHASuJYgF"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "duration_ms": 221843,
+      "name": "El Alcohol",
+      "url": "https://open.spotify.com/track/7q707LG7vCu4IEqFF2vzqf"
     },
     {
       "added_at": null,
@@ -803,18 +803,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "25 A\u00f1os De Resistencia (En Vivo)",
-        "url": "https://open.spotify.com/album/1wZ2uSG8rTvOLedTZcQisj"
+        "name": "La Luna Y El Sol",
+        "url": "https://open.spotify.com/album/2rgyAK0xQkYzhn8Rg4mjXQ"
       },
       "artists": [
+        {
+          "name": "Grupo G",
+          "url": "https://open.spotify.com/artist/4zKNSiS1LD7OT0z3hTqRE8"
+        },
         {
           "name": "Liran' Roll",
           "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
         }
       ],
-      "duration_ms": 344633,
-      "name": "El \u00daltimo Viaje (En Vivo)",
-      "url": "https://open.spotify.com/track/3JWoomq9M2TL413JyaFojn"
+      "duration_ms": 246882,
+      "name": "La Luna Y El Sol",
+      "url": "https://open.spotify.com/track/7dkFzrw3KbGK2YppluhOxd"
     }
   ],
   "unique_name": "This Is Liran' Roll",

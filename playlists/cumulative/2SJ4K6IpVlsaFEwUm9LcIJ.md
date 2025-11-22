@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to nov\-dec 2025
 
-807 songs - 1 day 23 hr 31 min
+808 songs - 1 day 23 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -327,6 +327,7 @@
 | [I Never Want To Be Without You](https://open.spotify.com/track/0j5XRIuOKp6Nsx6FRan8Z9) | [AIR](https://open.spotify.com/artist/5I8xhwELTKXC9ZRCq2zzgr) | [In Need of You featuring Googie](https://open.spotify.com/album/2Jn1DbxmIirP7RvA5U1fVW) | 3:22 | 2025-04-27 | 2025-07-04 |
 | [I Only Did It 'Cause I Felt so Lonely](https://open.spotify.com/track/50pbA8K52DbKILgZ4AiQX6) | [The Choir](https://open.spotify.com/artist/1CBHzR63n8JTqYNiGwgeqO) | [I'd Rather You Leave Me](https://open.spotify.com/album/1h3zASfdILrqQDjxhpOQls) | 2:15 | 2024-01-05 | 2024-03-10 |
 | [I Ought To Stay Away From You](https://open.spotify.com/track/4tAkesAHyf2zsmmWPoCDWJ) | [Margo Guryan](https://open.spotify.com/artist/3SMY2MGuaUOhuPpgRn6clw) | [I Ought To Stay Away From You b/w Why Do I Cry](https://open.spotify.com/album/0igbKMZKrnrO2x3TPDFL1M) | 2:39 | 2024-01-08 | 2024-03-10 |
+| [I Remember](https://open.spotify.com/track/0MwHIsIwUC2ts29Ss9292d) | [Scott Seskind](https://open.spotify.com/artist/1BROnwSE0J8usGGxcTGUi3) | [Sky Girl](https://open.spotify.com/album/26KwR2FDMoA6OgYPtPy0U9) | 2:56 | 2025-11-21 |  |
 | [I Saw the Light in Your Eyes](https://open.spotify.com/track/4LFiuN0XUpFRl238WIMpBS) | [Stan Barber](https://open.spotify.com/artist/54ov3BfcQksEDXcICQE37R) | [America Dream Reserve \(Compiled by Charles Bals and Smiling C\)](https://open.spotify.com/album/0O3ySLr2QSsMKuFujlPsCg) | 2:25 | 2025-09-25 | 2025-11-15 |
 | [I Say You Hello](https://open.spotify.com/track/7aSpW1knXzGUlN1UZO4JLS) | [Autumn](https://open.spotify.com/artist/7mdh9mziYyoyx5akHNGFte) | [Not Afraid to Die](https://open.spotify.com/album/71la4b5wxQnCc59LSyYOJ8) | 5:31 | 2025-03-01 | 2025-05-09 |
 | [I Wanna Be On Your Mind](https://open.spotify.com/track/6YcHKOWjUJ1mZNC9lWEBLt) | [2nd Grade](https://open.spotify.com/artist/6mG7RLvtGBHIg4jdb8urYb) | [Scheduled Explosions](https://open.spotify.com/album/1dixWE0mC52gWtjmM55Icf) | 2:28 | 2024-12-09 | 2025-01-12 |

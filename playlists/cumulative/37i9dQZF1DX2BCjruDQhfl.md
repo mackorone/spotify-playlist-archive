@@ -4,7 +4,7 @@
 
 > It's giving those vibes\. Cover: Odeal
 
-184 songs - 8 hr 25 min
+185 songs - 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [BESTEMMING](https://open.spotify.com/track/7Gl21UPQp5E9Npt1DkAQpk) | [Andrea Rafaella](https://open.spotify.com/artist/2yE0kA8MsGco9LevlkJjcq), [BKO](https://open.spotify.com/artist/3ZZlaq6tv1IcMjNtrZpsLd) | [BESTEMMING](https://open.spotify.com/album/42TSvS97NhN4iPxsGAadTA) | 2:31 | 2025-07-17 | 2025-10-29 |
 | [BETTER 4 U](https://open.spotify.com/track/7IeyqsxxaVk21xTlvhtZO6) | [Tres Navy](https://open.spotify.com/artist/1Ds6xyj1eLdmGB9mG1CT1o) | [BETTER 4 U](https://open.spotify.com/album/6McLhOtHeBn999WOmv2dTE) | 2:32 | 2025-07-17 | 2025-10-10 |
 | [Bichota Como Karol](https://open.spotify.com/track/5EiZLrriVg19FiUbvs9JxP) | [KILATE TESLA](https://open.spotify.com/artist/3aO2Q4cXKGxsh87bX4Oavo) | [Bichota Como Karol](https://open.spotify.com/album/6JvgaCBT2esXokN4vwvwX5) | 2:45 | 2025-07-17 | 2025-09-19 |
+| [Big Daddy](https://open.spotify.com/track/5WcQ5AwCp9mSqpsul6ccx4) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Is A Kingdom](https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c) | 2:46 | 2025-11-20 |  |
 | [Blijf Bij Mij](https://open.spotify.com/track/3eXXBkkrs33qvJXwUHhWxS) | [Gio](https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS) | [Blijf Bij Mij](https://open.spotify.com/album/3JkJkk6APasjry357DLx7V) | 2:32 | 2025-10-28 |  |
 | [Body to Body \(feat\. Aliyah\)](https://open.spotify.com/track/03XFK4TL9OcA25mGgRMK22) | [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq), [Aliyah](https://open.spotify.com/artist/7E7VmEW6CxpkGNipjVQywD), [DjangoBeats](https://open.spotify.com/artist/5S8jlJz9AU8D2LYdfjSNOi) | [Body To Body](https://open.spotify.com/album/6LjmNnW5fdJC5yU88DnAiH) | 2:48 | 2025-07-17 | 2025-08-05 |
 | [BOSS UP](https://open.spotify.com/track/458u353fkPaERY2SoOGPl3) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [BOSS UP](https://open.spotify.com/album/4cxSdv07XksJwlpiXc1WHn) | 2:31 | 2025-10-28 |  |
@@ -121,6 +122,7 @@
 | [Nice](https://open.spotify.com/track/3xXvWCQYG5XoggP9iD2ZjE) | [Bellaa](https://open.spotify.com/artist/0qfXWsFc89V3MReV3OTroJ) | [Nice](https://open.spotify.com/album/6RjcfmQsezy67WOL5nQv81) | 2:18 | 2025-07-17 | 2025-08-08 |
 | [Niemand](https://open.spotify.com/track/6LhKjSNQLuIZ56XaelC5ne) | [Oykie](https://open.spotify.com/artist/1PGVcFf76fImutKs0cuqgQ) | [Niemand](https://open.spotify.com/album/3w2mRKSyIu3KzI8jVS8ajD) | 2:22 | 2025-07-17 | 2025-10-29 |
 | [Niet Zo](https://open.spotify.com/track/6z3OAI3sNI3TguCplTEfmN) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [Niet Zo](https://open.spotify.com/album/6GiB5mZT5uDEdmwD02JJNu) | 2:42 | 2025-07-17 | 2025-08-08 |
+| [Nights In The Sun \(feat\. Wizkid\)](https://open.spotify.com/track/3XmHd0NqN5O4e7Vnv8fb8q) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [The Fall That Saved Us](https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl) | 2:50 | 2025-11-20 |  |
 | [No Love](https://open.spotify.com/track/0FoSZsi6Tj4W4IHPK3duVk) | [Angelo King](https://open.spotify.com/artist/1Q0kuvgP9fC9Y5OCP1mzOV), [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [No Love](https://open.spotify.com/album/7xIfenPCsaYV8AhZq39g05) | 2:44 | 2025-07-17 |  |
 | [No Worry](https://open.spotify.com/track/1hfYYQHeAvd4RiXmXe8RoZ) | [Janice Fierce](https://open.spotify.com/artist/1XawxWRplTvDLEK8TzgWbJ), [Carpata](https://open.spotify.com/artist/2Xy9YUiCeDyGEUitda5VJs) | [No Worry](https://open.spotify.com/album/0OLrUj4OlfR3ILwtIVmVUE) | 2:54 | 2025-07-17 |  |
 | [Not Yours \(Too Dangerous\)](https://open.spotify.com/track/5fdWecYMrus5uBcHvDpHVM) | [Indi](https://open.spotify.com/artist/2PVyNqozZZhYo7fDineQsn) | [Not Yours \(Too Dangerous\)](https://open.spotify.com/album/74VSmPQo3VqqVdzWtQTMDU) | 2:34 | 2025-08-04 | 2025-08-29 |
@@ -172,7 +174,6 @@
 | [TMI PT\. 2](https://open.spotify.com/track/1s8Qvm4LI2nLx2DhhWkxGc) | [Yris](https://open.spotify.com/artist/5CG6KhdlPDnF2WzXHYHt34), [Jacin Trill](https://open.spotify.com/artist/4hKoG9QvxsFDLIntc6tZ0g) | [TMI PT\. 2](https://open.spotify.com/album/4qZCv0BRNZAh7SaXVAKzQm) | 2:03 | 2025-08-07 | 2025-09-19 |
 | [To Be A Man](https://open.spotify.com/track/6whWtO0zIA5LUUGSGhojRu) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [To Be A Man](https://open.spotify.com/album/2UbSWalA3La9vUpvzlvtbu) | 2:49 | 2025-08-29 |  |
 | [Top Tier](https://open.spotify.com/track/7t13ipXkmuas7yzuAcPffz) | [Ruskey](https://open.spotify.com/artist/6ERpZaxy8S2ZWlpYbXG1aK), [Nate](https://open.spotify.com/artist/2VINftEho961QpPR74Ftbb) | [Top Tier](https://open.spotify.com/album/6Ub5VP8L6qLLiv10TGm1sp) | 2:26 | 2025-07-17 | 2025-09-19 |
-| [Track 9](https://open.spotify.com/track/3XmHd0NqN5O4e7Vnv8fb8q) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-20 |  |
 | [TUTU](https://open.spotify.com/track/3kcwpkgRypt5ioI6pDVGTm) | [Amadi Blue](https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If) | [TUTU](https://open.spotify.com/album/6Ma755dCSYqh8SE53yyUuZ) | 2:40 | 2025-07-17 | 2025-08-29 |
 | [Tweede Kans](https://open.spotify.com/track/1gPKDvkasYXdW8rYVfiNJl) | [Dylisa](https://open.spotify.com/artist/1EZhPZUiU6c52gOAZLIcR2), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [Think Like a Man](https://open.spotify.com/album/3YkpSQZPAwtkHQBNQZ7qNX) | 2:44 | 2025-07-17 | 2025-11-08 |
 | [VERSLAVEND](https://open.spotify.com/track/1FLbM1pumyR6P7eOkLtEf1) | [Jada Faith](https://open.spotify.com/artist/1Y1heq4pqZt7bF5lKZCDfL) | [VERSLAVEND](https://open.spotify.com/album/42r2YUYZANfNtF9MXMOlfm) | 2:00 | 2025-07-17 | 2025-08-08 |

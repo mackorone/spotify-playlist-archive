@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 
 > Highlighting key releases from this month's most exciting songwriters from around the globe\. Cover: <a href="https://open.spotify.com/playlist/37i9dQZF1EFOGG1E7V1oRH">Jo Caleb</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,843 likes - 49 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,905 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,21 +41,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 | 31 | [Both Can Be True](https://open.spotify.com/track/18oBIkNn8F7ACUvppfjE8n) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [Both Can Be True](https://open.spotify.com/album/2yGCgsPNGVlmmdmHDtQOnN) | 3:30 |
 | 32 | [Lonely \[ALT\]](https://open.spotify.com/track/4cX0A4VkMHBN4hk5XuM6nR) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM) | [Lonely \[ALT\]](https://open.spotify.com/album/7doIA7N1Rg5V51E3Dakhco) | 2:16 |
 | 33 | [SHE](https://open.spotify.com/track/5ey4wGFVwSl3dYueKuxNOZ) | [NICK THE NATIVE](https://open.spotify.com/artist/6HSObatXOQgxh9vjgZohz5) | [SHE](https://open.spotify.com/album/4FgE4yu2yqc7QAcmlOTGlf) | 3:09 |
-| 34 | [Legacy](https://open.spotify.com/track/2SkxzEnJ1ZFeHFaDpAs7Eg) | [Derik Fein](https://open.spotify.com/artist/7CzURHjIfP0ClUnjVRyF1i) | [Legacy](https://open.spotify.com/album/7gd53QItAMOiRW85AHBQjW) | 3:10 |
-| 35 | [You Make Me Stupid](https://open.spotify.com/track/1F2tCfAh55dI8W71FueeDE) | [Bryce Xavier](https://open.spotify.com/artist/37B3PAqckRMx2Z8Z6UqzW4) | [You Make Me Stupid](https://open.spotify.com/album/1mRlt6RpmJgOR3JNI5ptqt) | 3:31 |
-| 36 | [Midnight Crow](https://open.spotify.com/track/1VlqgygO0fJNnRMuxHJ6WD) | [Clover County](https://open.spotify.com/artist/1vOabSI7N1elDhNGoirgU2) | [Finer Things](https://open.spotify.com/album/6gB9GpKKpLQdkY8Kqk4uXu) | 3:37 |
-| 37 | [Merry Go Round](https://open.spotify.com/track/243NHDpKPqm0VqS1cxctbl) | [Alicia Creti](https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX) | [Merry Go Round](https://open.spotify.com/album/2XAnvwXanYt2hCQYVPMcfN) | 3:34 |
-| 38 | [Full 180](https://open.spotify.com/track/6Tvv27E4cLCeeZLKLdy76C) | [Eli Patterson](https://open.spotify.com/artist/3bCIYQ3oPiXOltiUkMvkPN) | [Full 180](https://open.spotify.com/album/4bdxPToPiIbogUuR9EgD7m) | 3:38 |
-| 39 | [All or Nothing](https://open.spotify.com/track/5MPSyzBWeiDSySmlH7IAl6) | [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [Bye Bye Blues](https://open.spotify.com/album/1mItQ2NglDdKh2fdUWl1LS) | 2:42 |
-| 40 | [Happy Factory](https://open.spotify.com/track/0tMvVyQBai2kFlmrpeLe59) | [Sly Jr.](https://open.spotify.com/artist/4FUA8iAbHSy5nenK5nQzjB) | [Happy Factory](https://open.spotify.com/album/67Vnvjaee925YwIC3Jvq26) | 3:10 |
-| 41 | [When It Snows In Texas](https://open.spotify.com/track/5By307vqu6ZwxuLlkHpDRx) | [Chaparelle](https://open.spotify.com/artist/48c9PKsgH8QMkAN6pg6Xz8), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [When It Snows In Texas](https://open.spotify.com/album/7A9urqXlw6unu8iR8aYaEe) | 2:46 |
-| 42 | [Bad Choices](https://open.spotify.com/track/1UNfid4RlRZZeD3CV0IO8P) | [Lilly Hart](https://open.spotify.com/artist/2Vm9OsgWjGKAvH6Iu5gj5M) | [Butterflies Start To Sting](https://open.spotify.com/album/20D8VCbIG9lGiNu3K0SnNU) | 2:48 |
-| 43 | [Love Shall Remain](https://open.spotify.com/track/2EzYHsefuwZnBOA65ujjpI) | [Grandmaster](https://open.spotify.com/artist/7LXJXa3NoATgNOq9VC848H) | [Love Shall Remain](https://open.spotify.com/album/2UjjkMptumkVmDZoQJ658d) | 3:23 |
-| 44 | [Grey over Blue](https://open.spotify.com/track/6r12O7GGemu4HDgX08y46G) | [Act One](https://open.spotify.com/artist/2TcKXMwBwGHZgEY7la4QO2), [Naomi Kimpenu](https://open.spotify.com/artist/3k86tPTadNVbaxe89rFo1C) | [Grey over Blue](https://open.spotify.com/album/0MwhbI8K8bT41G0BVyNYuW) | 3:10 |
-| 45 | [Nothing](https://open.spotify.com/track/1uPuYWfxfjiwgtXVyr0q16) | [Telescreens](https://open.spotify.com/artist/2a5z6KAJm5HFFgMGUDeMVz) | [Nothing](https://open.spotify.com/album/1UMbDmgThkJnBl3lvwqUvx) | 3:39 |
-| 46 | [Wall](https://open.spotify.com/track/2u0Sv7w9CQCkJdViAoM5AX) | [Good Kid](https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP) | [Wall](https://open.spotify.com/album/7ufpxMS1NN9oKiQllWLZ1a) | 2:51 |
-| 47 | [High Ground](https://open.spotify.com/track/1o5j3WOJtAWBQaz3VMpD37) | [BAD CHILD](https://open.spotify.com/artist/7ayksoJ16I0E4Riftzvfaz) | [High Ground](https://open.spotify.com/album/2VeWyIFyf1VWIxZtsRKax9) | 2:27 |
-| 48 | [Thank God For You](https://open.spotify.com/track/4C6LtqXveqZ9e2cntTQpQt) | [Whitney Fenimore](https://open.spotify.com/artist/2ogLypw6jK0NuOXpXR6Dh2) | [State of Being](https://open.spotify.com/album/440WsyKlnkJusStyKs6zTL) | 3:07 |
-| 49 | [Wicker Woman](https://open.spotify.com/track/5EO8mH7VwkWtIef5bDSyHe) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Wicker Woman](https://open.spotify.com/album/01SNbWsDFrn2xqMcRN0VNP) | 3:16 |
+| 34 | [4UREYESONLY](https://open.spotify.com/track/7ItCPQmu6D0xyJpGyruuqL) | [Babe America](https://open.spotify.com/artist/5oPCa0GsQjPlRdOdFRoY6Z), [Max Pedra](https://open.spotify.com/artist/1DaU7Ttxqvu1v0Ue3vIeaW) | [4UREYESONLY](https://open.spotify.com/album/3W3YlgHHgq0idqib6soAZF) | 2:09 |
+| 35 | [Legacy](https://open.spotify.com/track/2SkxzEnJ1ZFeHFaDpAs7Eg) | [Derik Fein](https://open.spotify.com/artist/7CzURHjIfP0ClUnjVRyF1i) | [Legacy](https://open.spotify.com/album/7gd53QItAMOiRW85AHBQjW) | 3:10 |
+| 36 | [You Make Me Stupid](https://open.spotify.com/track/1F2tCfAh55dI8W71FueeDE) | [Bryce Xavier](https://open.spotify.com/artist/37B3PAqckRMx2Z8Z6UqzW4) | [You Make Me Stupid](https://open.spotify.com/album/1mRlt6RpmJgOR3JNI5ptqt) | 3:31 |
+| 37 | [Midnight Crow](https://open.spotify.com/track/1VlqgygO0fJNnRMuxHJ6WD) | [Clover County](https://open.spotify.com/artist/1vOabSI7N1elDhNGoirgU2) | [Finer Things](https://open.spotify.com/album/6gB9GpKKpLQdkY8Kqk4uXu) | 3:37 |
+| 38 | [Merry Go Round](https://open.spotify.com/track/243NHDpKPqm0VqS1cxctbl) | [Alicia Creti](https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX) | [Merry Go Round](https://open.spotify.com/album/2XAnvwXanYt2hCQYVPMcfN) | 3:34 |
+| 39 | [Full 180](https://open.spotify.com/track/6Tvv27E4cLCeeZLKLdy76C) | [Eli Patterson](https://open.spotify.com/artist/3bCIYQ3oPiXOltiUkMvkPN) | [Full 180](https://open.spotify.com/album/4bdxPToPiIbogUuR9EgD7m) | 3:38 |
+| 40 | [All or Nothing](https://open.spotify.com/track/5MPSyzBWeiDSySmlH7IAl6) | [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [Bye Bye Blues](https://open.spotify.com/album/1mItQ2NglDdKh2fdUWl1LS) | 2:42 |
+| 41 | [Happy Factory](https://open.spotify.com/track/0tMvVyQBai2kFlmrpeLe59) | [Sly Jr.](https://open.spotify.com/artist/4FUA8iAbHSy5nenK5nQzjB) | [Happy Factory](https://open.spotify.com/album/67Vnvjaee925YwIC3Jvq26) | 3:10 |
+| 42 | [When It Snows In Texas](https://open.spotify.com/track/5By307vqu6ZwxuLlkHpDRx) | [Chaparelle](https://open.spotify.com/artist/48c9PKsgH8QMkAN6pg6Xz8), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [When It Snows In Texas](https://open.spotify.com/album/7A9urqXlw6unu8iR8aYaEe) | 2:46 |
+| 43 | [Bad Choices](https://open.spotify.com/track/1UNfid4RlRZZeD3CV0IO8P) | [Lilly Hart](https://open.spotify.com/artist/2Vm9OsgWjGKAvH6Iu5gj5M) | [Butterflies Start To Sting](https://open.spotify.com/album/20D8VCbIG9lGiNu3K0SnNU) | 2:48 |
+| 44 | [Love Shall Remain](https://open.spotify.com/track/2EzYHsefuwZnBOA65ujjpI) | [Grandmaster](https://open.spotify.com/artist/7LXJXa3NoATgNOq9VC848H) | [Love Shall Remain](https://open.spotify.com/album/2UjjkMptumkVmDZoQJ658d) | 3:23 |
+| 45 | [Grey over Blue](https://open.spotify.com/track/6r12O7GGemu4HDgX08y46G) | [Act One](https://open.spotify.com/artist/2TcKXMwBwGHZgEY7la4QO2), [Naomi Kimpenu](https://open.spotify.com/artist/3k86tPTadNVbaxe89rFo1C) | [Grey over Blue](https://open.spotify.com/album/0MwhbI8K8bT41G0BVyNYuW) | 3:10 |
+| 46 | [Nothing](https://open.spotify.com/track/1uPuYWfxfjiwgtXVyr0q16) | [Telescreens](https://open.spotify.com/artist/2a5z6KAJm5HFFgMGUDeMVz) | [Nothing](https://open.spotify.com/album/1UMbDmgThkJnBl3lvwqUvx) | 3:39 |
+| 47 | [Wall](https://open.spotify.com/track/2u0Sv7w9CQCkJdViAoM5AX) | [Good Kid](https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP) | [Wall](https://open.spotify.com/album/7ufpxMS1NN9oKiQllWLZ1a) | 2:51 |
+| 48 | [High Ground](https://open.spotify.com/track/1o5j3WOJtAWBQaz3VMpD37) | [BAD CHILD](https://open.spotify.com/artist/7ayksoJ16I0E4Riftzvfaz) | [High Ground](https://open.spotify.com/album/2VeWyIFyf1VWIxZtsRKax9) | 2:27 |
+| 49 | [Thank God For You](https://open.spotify.com/track/4C6LtqXveqZ9e2cntTQpQt) | [Whitney Fenimore](https://open.spotify.com/artist/2ogLypw6jK0NuOXpXR6Dh2) | [State of Being](https://open.spotify.com/album/440WsyKlnkJusStyKs6zTL) | 3:07 |
+| 50 | [Wicker Woman](https://open.spotify.com/track/5EO8mH7VwkWtIef5bDSyHe) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Wicker Woman](https://open.spotify.com/album/01SNbWsDFrn2xqMcRN0VNP) | 3:16 |
 
 Snapshot ID: `AAAAAGBZNCQ4AWW4BNUWbMQRLzLchiML`

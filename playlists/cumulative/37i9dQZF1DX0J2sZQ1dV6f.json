@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Bien alucin con el electro, la nueva ola de la fiesta. Cover: Esau Otriz",
+  "description": "Bien alucin con el electro, la nueva ola de la fiesta. Cover: Oswaldo_NR, Jorge Duran, Marcos Villalobos ",
   "name": "Electro Corridos",
   "tracks": [
     {
@@ -1925,6 +1925,32 @@
     },
     {
       "album": {
+        "name": "CENICIENTA",
+        "url": "https://open.spotify.com/album/5YftnH3ek4Q7ZbmdKdJONQ"
+      },
+      "artists": [
+        {
+          "name": "Oswaldo_NR",
+          "url": "https://open.spotify.com/artist/1n3pTG4kkZiuepmOINVStx"
+        },
+        {
+          "name": "Jorge Duran",
+          "url": "https://open.spotify.com/artist/2XXSbBwBqQDSAY9aBtomPx"
+        },
+        {
+          "name": "Marcos Villalobos",
+          "url": "https://open.spotify.com/artist/79BK7vrzlQtgNnCHvZ7aYi"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181316,
+      "name": "CENICIENTA",
+      "url": "https://open.spotify.com/track/7xuyjnOPrQI84mcB6G8wAZ"
+    },
+    {
+      "album": {
         "name": "Chinatown",
         "url": "https://open.spotify.com/album/1cQliCnbdYb2c2va7FU4qq"
       },
@@ -3456,6 +3482,28 @@
       "duration_ms": 235626,
       "name": "El Telefono",
       "url": "https://open.spotify.com/track/614NVFo5csQqRnryl4jXs2"
+    },
+    {
+      "album": {
+        "name": "El Tomate",
+        "url": "https://open.spotify.com/album/31ADV8Q4Xn6eqxaB6l4I1f"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259708,
+      "name": "El Tomate",
+      "url": "https://open.spotify.com/track/3ZpMX9D7h8racm8EJiE5dw"
     },
     {
       "album": {

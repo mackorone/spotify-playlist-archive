@@ -4,7 +4,7 @@
 
 > 50 stops, one continent, grab your pass
 
-97 songs - 6 hr 15 min
+98 songs - 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Lagos 101](https://open.spotify.com/track/7b0dJi7JyafNH4ueg479Qw) | [Bella Alubo](https://open.spotify.com/artist/4QorJVeBcR8p3rOveZtpSk), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Lagos 101](https://open.spotify.com/album/6cHp1TJC51U5R6EAhDnaKw) | 2:31 | 2023-09-08 |  |
 | [Lagos 2 Vegas](https://open.spotify.com/track/7hx0tEGdoAL9KG8k7SRcLT) | [Thutmose](https://open.spotify.com/artist/1igl9M102nuD96lo3ZoW5d) | [Lagos 2 Vegas](https://open.spotify.com/album/3pEhjim9cIerL9CPVaAwlK) | 2:31 | 2024-08-23 |  |
 | [Lagos Anthem](https://open.spotify.com/track/1vVLdumXpjKqiHF8OLdfSM) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Lagos Anthem](https://open.spotify.com/album/5d78fTQDQxh9ryCgymMZZr) | 3:29 | 2024-05-03 |  |
+| [Lagos Love](https://open.spotify.com/track/3AYQsSyM8Mi8GV0OKItsBR) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Is A Kingdom](https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c) | 3:10 | 2025-11-20 |  |
 | [Lagos Love Story](https://open.spotify.com/track/2Q2QZJlhGcGPV1XAdvcqob) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 2:35 | 2024-06-07 |  |
 | [Lagos to Kampala](https://open.spotify.com/track/5gVcAwtySmuwkaaFamFzTR) | [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb) | [Runtown Hits, Vol\. 1](https://open.spotify.com/album/5LCydiDsNtJH6oxI57oy7h) | 3:34 | 2024-03-15 |  |
 | [Lagos to Kampala](https://open.spotify.com/track/6cA5pAyBrXFr5BzCUkEPUS) | [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb) | [Runtown Hits, Vol\. 1](https://open.spotify.com/album/1UwIe4k1b9dC8BQTE4bcE0) | 3:34 | 2023-09-08 | 2024-04-19 |

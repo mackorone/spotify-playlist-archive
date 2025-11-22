@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT93ZDwDlVYL.md) - [plain]
 
 > Podcast che devi avere sul tuo RADAR: Capiamo, HYPERSIMPOSIO, Made IT \- Storie Italiane di Successo, STREETSMART<br/>Cover: Capiamo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,696 likes - 8 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,699 likes - 8 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,4 +17,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT93ZDwDlVYL.md) - [plain]
 | 7 | [Il RE della cosmetica che produce per i brand più famosi del mondo con Dario Ferrari, Fondatore Intercos](https://open.spotify.com/episode/67Ahyuo2ihAZ19vBoi8Tvo) | [Made IT \- Storie Italiane di Successo](https://open.spotify.com/show/2UzJcb7nYz4KOr4jNt9DMW) | [Made IT \- Storie Italiane di Successo](https://open.spotify.com/album/2UzJcb7nYz4KOr4jNt9DMW) | 31:28 |
 | 8 | [L'UOMO IDEALE di MARTA DADDATO?! \- STREETSMART EP.12](https://open.spotify.com/episode/36DhUFDUGlLyjCIZMK0GiF) | [STREETSMART](https://open.spotify.com/show/66xtN6seXpkHY6Ylv7Ttux) | [STREETSMART](https://open.spotify.com/album/66xtN6seXpkHY6Ylv7Ttux) | 1:06:07 |
 
-Snapshot ID: `AAAAAAipLLhqd8bucaKKBty8he/zlkbg`
+Snapshot ID: `AAAAAOgr1Fo7wk5Z3zShOIyxWZwdPzz1`

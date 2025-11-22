@@ -1,13 +1,93 @@
 {
-  "description": "hello diva! with Mikayla Geier on the cover",
-  "num_followers": 1566613,
+  "description": "Ruby Roberts is our somersault queen \ud83d\udc51",
+  "num_followers": 1566832,
   "original_name": "young & free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIBO7gUJat4sG5i1oP/6RgLHb4MO",
+  "snapshot_id": "AAAAAIVXhV61Aqrr7fRG9UUAhBmU0BeB",
   "tracks": [
+    {
+      "added_at": "2025-11-21 05:00:30",
+      "album": {
+        "name": "Somersault Queen",
+        "url": "https://open.spotify.com/album/6GonAkL6eg0RWND5iwfPIm"
+      },
+      "artists": [
+        {
+          "name": "Ruby Roberts",
+          "url": "https://open.spotify.com/artist/1NBOzhyeQS5kLMtiQiZkFD"
+        }
+      ],
+      "duration_ms": 245336,
+      "name": "My Endeavour",
+      "url": "https://open.spotify.com/track/32zC4WPTjQdzXbQGvSk6rB"
+    },
+    {
+      "added_at": "2025-11-07 05:00:58",
+      "album": {
+        "name": "Die Happy",
+        "url": "https://open.spotify.com/album/25Sk6k5HonelxbWMChnl4k"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 229650,
+      "name": "Die Happy",
+      "url": "https://open.spotify.com/track/4lU0whPQnQn0EMgmF46iz0"
+    },
+    {
+      "added_at": "2025-11-21 05:00:30",
+      "album": {
+        "name": "Kansas Anymore",
+        "url": "https://open.spotify.com/album/4OZ6nCbn8w0cHr1m0qiD2s"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "duration_ms": 169974,
+      "name": "Writing's On The Wall",
+      "url": "https://open.spotify.com/track/4mDTqEqt0QHQFPNkz8eHjr"
+    },
+    {
+      "added_at": "2025-11-21 05:00:30",
+      "album": {
+        "name": "Tracy",
+        "url": "https://open.spotify.com/album/6KOs8bG57zs3LK9i3rydM0"
+      },
+      "artists": [
+        {
+          "name": "Pash",
+          "url": "https://open.spotify.com/artist/3jEgbW70PXxv993symSK35"
+        }
+      ],
+      "duration_ms": 140952,
+      "name": "Tracy",
+      "url": "https://open.spotify.com/track/2Irs8tqS6DELbaFlwlwRTC"
+    },
+    {
+      "added_at": "2025-11-14 14:21:39",
+      "album": {
+        "name": "Mean To Me",
+        "url": "https://open.spotify.com/album/5IIRP1vjVpiFrJQkdVQSFA"
+      },
+      "artists": [
+        {
+          "name": "ili",
+          "url": "https://open.spotify.com/artist/4Yn7SW1ERvmPwQHPMiv8t4"
+        }
+      ],
+      "duration_ms": 124913,
+      "name": "Mean To Me",
+      "url": "https://open.spotify.com/track/1WuAlAbeVDmMF8nmSUMGuD"
+    },
     {
       "added_at": "2025-09-26 04:00:24",
       "album": {
@@ -23,6 +103,54 @@
       "duration_ms": 159153,
       "name": "diva",
       "url": "https://open.spotify.com/track/2NKFd6Oibct12j0RMpGLyS"
+    },
+    {
+      "added_at": "2025-11-21 05:00:30",
+      "album": {
+        "name": "SO CLOSE TO WHAT??? (deluxe)",
+        "url": "https://open.spotify.com/album/4AIX5TN8oT656mgxRwDevJ"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 168134,
+      "name": "NOBODY'S GIRL",
+      "url": "https://open.spotify.com/track/2oPCpj9ezVq5D6IJNAGkL2"
+    },
+    {
+      "added_at": "2025-11-07 05:00:58",
+      "album": {
+        "name": "Voyeur (Deluxe)",
+        "url": "https://open.spotify.com/album/53Mn3nQy0YRTBWtyfwrOiL"
+      },
+      "artists": [
+        {
+          "name": "Alessi Rose",
+          "url": "https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx"
+        }
+      ],
+      "duration_ms": 140472,
+      "name": "Get Around",
+      "url": "https://open.spotify.com/track/6AF86U8bfXoXf54cqbHVGo"
+    },
+    {
+      "added_at": "2025-11-21 05:00:30",
+      "album": {
+        "name": "Girlfriend (Yes, I do)",
+        "url": "https://open.spotify.com/album/0WOFpqtBA0ptrNzDh86AHD"
+      },
+      "artists": [
+        {
+          "name": "Laura Nahr",
+          "url": "https://open.spotify.com/artist/4vkcBNXnG4gZFhuG7SKvMV"
+        }
+      ],
+      "duration_ms": 119946,
+      "name": "Girlfriend (Yes, I do)",
+      "url": "https://open.spotify.com/track/1DHYzd61LxxYazHLixBbVG"
     },
     {
       "added_at": "2025-11-07 05:00:58",
@@ -57,22 +185,6 @@
       "url": "https://open.spotify.com/track/5TQq3QfG2tXGZum3GvBmkm"
     },
     {
-      "added_at": "2025-11-07 05:00:58",
-      "album": {
-        "name": "Voyeur (Deluxe)",
-        "url": "https://open.spotify.com/album/53Mn3nQy0YRTBWtyfwrOiL"
-      },
-      "artists": [
-        {
-          "name": "Alessi Rose",
-          "url": "https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx"
-        }
-      ],
-      "duration_ms": 140472,
-      "name": "Get Around",
-      "url": "https://open.spotify.com/track/6AF86U8bfXoXf54cqbHVGo"
-    },
-    {
       "added_at": "2025-11-08 19:04:04",
       "album": {
         "name": "It's Always At Night",
@@ -87,6 +199,22 @@
       "duration_ms": 234000,
       "name": "Intertwined",
       "url": "https://open.spotify.com/track/6i8n9UfoR5xybD6O9zTcVt"
+    },
+    {
+      "added_at": "2025-11-21 05:00:30",
+      "album": {
+        "name": "Away With The Fairies",
+        "url": "https://open.spotify.com/album/0gXVAWIrgAtZAyQm1kLkyX"
+      },
+      "artists": [
+        {
+          "name": "Ruby Roberts",
+          "url": "https://open.spotify.com/artist/1NBOzhyeQS5kLMtiQiZkFD"
+        }
+      ],
+      "duration_ms": 209695,
+      "name": "Away With The Fairies",
+      "url": "https://open.spotify.com/track/6staIFmNdDUqWQrclOwFSo"
     },
     {
       "added_at": "2025-11-14 14:21:39",
@@ -119,6 +247,22 @@
       "duration_ms": 242903,
       "name": "12 to 12",
       "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
+    },
+    {
+      "added_at": "2025-11-21 05:00:30",
+      "album": {
+        "name": "In Twos",
+        "url": "https://open.spotify.com/album/69T3NDWI9uysXn3tsMfPLW"
+      },
+      "artists": [
+        {
+          "name": "Esha Tewari",
+          "url": "https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt"
+        }
+      ],
+      "duration_ms": 166897,
+      "name": "In Twos",
+      "url": "https://open.spotify.com/track/4RlKJvvNZGrzZtupp8C2ap"
     },
     {
       "added_at": "2025-11-14 14:21:39",
@@ -185,36 +329,20 @@
       "url": "https://open.spotify.com/track/3IenzL5TT65zeB1K7940JY"
     },
     {
-      "added_at": "2025-11-14 14:21:39",
+      "added_at": "2025-11-21 05:00:30",
       "album": {
-        "name": "Mean To Me",
-        "url": "https://open.spotify.com/album/5IIRP1vjVpiFrJQkdVQSFA"
+        "name": "Think About U Lots",
+        "url": "https://open.spotify.com/album/6iAhu9llD9clQtdAbc4v6m"
       },
       "artists": [
         {
-          "name": "ili",
-          "url": "https://open.spotify.com/artist/4Yn7SW1ERvmPwQHPMiv8t4"
+          "name": "Elise Elvira",
+          "url": "https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU"
         }
       ],
-      "duration_ms": 124913,
-      "name": "Mean To Me",
-      "url": "https://open.spotify.com/track/1WuAlAbeVDmMF8nmSUMGuD"
-    },
-    {
-      "added_at": "2025-11-07 05:00:58",
-      "album": {
-        "name": "Die Happy",
-        "url": "https://open.spotify.com/album/25Sk6k5HonelxbWMChnl4k"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 229650,
-      "name": "Die Happy",
-      "url": "https://open.spotify.com/track/4lU0whPQnQn0EMgmF46iz0"
+      "duration_ms": 214763,
+      "name": "Think About U Lots",
+      "url": "https://open.spotify.com/track/0obpw5cKWbMCTvDhIuP3OU"
     },
     {
       "added_at": "2025-10-10 04:00:10",
@@ -601,22 +729,6 @@
       "url": "https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ"
     },
     {
-      "added_at": "2025-09-26 04:00:24",
-      "album": {
-        "name": "First Original Thought",
-        "url": "https://open.spotify.com/album/2rH7ACS9qrOtZ5sDXIx7OD"
-      },
-      "artists": [
-        {
-          "name": "Alessi Rose",
-          "url": "https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx"
-        }
-      ],
-      "duration_ms": 170766,
-      "name": "First Original Thought",
-      "url": "https://open.spotify.com/track/5muTft7oCwTsn2eeLyYFLy"
-    },
-    {
       "added_at": "2025-10-03 04:00:48",
       "album": {
         "name": "SUPER F\u2605CKING MEGA ST\u2605R",
@@ -765,22 +877,6 @@
       "url": "https://open.spotify.com/track/0TCvlopfjeObjLxIsZ0Lvh"
     },
     {
-      "added_at": "2025-09-05 04:57:49",
-      "album": {
-        "name": "I'm your first",
-        "url": "https://open.spotify.com/album/7MXsfVmavjqExIN2TSngEE"
-      },
-      "artists": [
-        {
-          "name": "flowerovlove",
-          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
-        }
-      ],
-      "duration_ms": 174449,
-      "name": "I'm your first",
-      "url": "https://open.spotify.com/track/6uiwQZzhXU7IKFvtJ4DkRV"
-    },
-    {
       "added_at": "2025-09-19 04:00:31",
       "album": {
         "name": "play",
@@ -863,22 +959,6 @@
       "duration_ms": 205728,
       "name": "Shapeshifting on a Saturday Night",
       "url": "https://open.spotify.com/track/5ohPveFr3t93leJhCiWAqt"
-    },
-    {
-      "added_at": "2025-09-19 04:00:31",
-      "album": {
-        "name": "get better!",
-        "url": "https://open.spotify.com/album/44DDyYBv1WXPKfStRoCXPl"
-      },
-      "artists": [
-        {
-          "name": "Cloudy June",
-          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
-        }
-      ],
-      "duration_ms": 137781,
-      "name": "get better!",
-      "url": "https://open.spotify.com/track/2FElV26FnQwjsGzmkh4Dom"
     },
     {
       "added_at": "2025-09-19 04:00:31",
@@ -1169,22 +1249,6 @@
       "url": "https://open.spotify.com/track/2G7DLml9U6byHyFizFnoyJ"
     },
     {
-      "added_at": "2025-09-05 04:57:49",
-      "album": {
-        "name": "Tourist Attraction",
-        "url": "https://open.spotify.com/album/4xQLw8kS3GMuAXzBVKeJUQ"
-      },
-      "artists": [
-        {
-          "name": "Catie Turner",
-          "url": "https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa"
-        }
-      ],
-      "duration_ms": 168094,
-      "name": "Tourist Attraction",
-      "url": "https://open.spotify.com/track/6EMytZ3ShlPDxCXrRnNMpb"
-    },
-    {
       "added_at": "2025-08-29 04:01:51",
       "album": {
         "name": "Alibi",
@@ -1377,22 +1441,6 @@
       "url": "https://open.spotify.com/track/6eCdFhskFCVIO5vf6FgDfJ"
     },
     {
-      "added_at": "2025-08-22 04:32:11",
-      "album": {
-        "name": "University",
-        "url": "https://open.spotify.com/album/5Z3ju7RTU1fUz9BuCIOFCJ"
-      },
-      "artists": [
-        {
-          "name": "colby!",
-          "url": "https://open.spotify.com/artist/7hIwzGVyJCBJqYust8VyDl"
-        }
-      ],
-      "duration_ms": 225766,
-      "name": "University",
-      "url": "https://open.spotify.com/track/5CYb5EE7t8b4di9YX1Mkv9"
-    },
-    {
       "added_at": "2025-08-08 04:35:43",
       "album": {
         "name": "Reason To Hate You",
@@ -1423,22 +1471,6 @@
       "duration_ms": 212250,
       "name": "pool house",
       "url": "https://open.spotify.com/track/7jQlgVyx7x2zUxWHegqKGt"
-    },
-    {
-      "added_at": "2025-08-08 04:35:43",
-      "album": {
-        "name": "Drama Baby",
-        "url": "https://open.spotify.com/album/6GOdxHEqZ0UBgVpEf5x4MW"
-      },
-      "artists": [
-        {
-          "name": "Eileen Alister",
-          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
-        }
-      ],
-      "duration_ms": 177168,
-      "name": "Drama Baby",
-      "url": "https://open.spotify.com/track/3szgIcVPUrNCHIiwdoQ6RN"
     },
     {
       "added_at": "2025-08-17 03:37:41",
@@ -1505,22 +1537,6 @@
       "url": "https://open.spotify.com/track/5nUISKMcKG5KbWRDQx1Bvm"
     },
     {
-      "added_at": "2025-08-01 00:00:22",
-      "album": {
-        "name": "Girlfriend",
-        "url": "https://open.spotify.com/album/3hiqNDirWqhevI3Q9hoq1h"
-      },
-      "artists": [
-        {
-          "name": "Darcie Haven",
-          "url": "https://open.spotify.com/artist/4z5Ea2f21AVA18kbjWp0Ni"
-        }
-      ],
-      "duration_ms": 230373,
-      "name": "Girlfriend",
-      "url": "https://open.spotify.com/track/53lh1N2XntXWKXYCIyTniO"
-    },
-    {
       "added_at": "2025-07-04 04:00:38",
       "album": {
         "name": "Peace",
@@ -1535,22 +1551,6 @@
       "duration_ms": 167038,
       "name": "Peace",
       "url": "https://open.spotify.com/track/0SSJhttofZRl1mCyA0yOiM"
-    },
-    {
-      "added_at": "2025-07-18 04:30:37",
-      "album": {
-        "name": "Take Touch",
-        "url": "https://open.spotify.com/album/3iOknyG3TeVz5ecH72DABg"
-      },
-      "artists": [
-        {
-          "name": "Ren Martinez",
-          "url": "https://open.spotify.com/artist/7jwt0XqTVstELcOeS8F8zf"
-        }
-      ],
-      "duration_ms": 227000,
-      "name": "Take Touch",
-      "url": "https://open.spotify.com/track/6fitXlm7VdwjZk3mIAeFFS"
     },
     {
       "added_at": "2025-07-11 04:00:22",

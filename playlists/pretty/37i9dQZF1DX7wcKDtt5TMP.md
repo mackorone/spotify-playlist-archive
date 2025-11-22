@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7wcKDtt5TMP.md) - [plain]
 
 ### [Rock en Español: Los 80](https://open.spotify.com/playlist/37i9dQZF1DX7wcKDtt5TMP)
 
-> Lo mejor del rock en español en la década de los 80\. Foto: Los Prisioneros
+> Lo mejor del rock en español en la década de los 80\. Foto: Soda Stereo
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,762 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,865 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

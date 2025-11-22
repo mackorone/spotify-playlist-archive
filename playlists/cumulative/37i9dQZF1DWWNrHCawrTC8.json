@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/0TWaxeD5IGNBOsUHOj9u0K"
+      },
+      "artists": [
+        {
+          "name": "artist",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/697zIbTO0LMhupzGblYREm"
+    },
+    {
+      "album": {
         "name": "1991 - EP",
         "url": "https://open.spotify.com/album/5fkZoSOBJyj0PaDo1LUabM"
       },
@@ -592,24 +610,6 @@
       "duration_ms": 276000,
       "name": "I'm God",
       "url": "https://open.spotify.com/track/613KmeuXIuqBM0plNinzUh"
-    },
-    {
-      "album": {
-        "name": "Imported Goods",
-        "url": "https://open.spotify.com/album/0TWaxeD5IGNBOsUHOj9u0K"
-      },
-      "artists": [
-        {
-          "name": "Action Bronson",
-          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
-        }
-      ],
-      "date_added": "2024-08-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 249773,
-      "name": "Imported Goods",
-      "url": "https://open.spotify.com/track/697zIbTO0LMhupzGblYREm"
     },
     {
       "album": {

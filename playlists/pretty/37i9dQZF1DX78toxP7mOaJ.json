@@ -1,12 +1,12 @@
 {
   "description": "Fresh rock & alternative from independent artists every Wednesday. Cover: bloodsports",
-  "num_followers": 166913,
+  "num_followers": 166918,
   "original_name": "Fresh Finds Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPcjcK7tJgYEacXm98j+IloCNP5I",
+  "snapshot_id": "AAAAAAVfoAUtQm55iNvUSY85y5RtrPh0",
   "tracks": [
     {
       "added_at": "2025-10-29 16:00:02",
@@ -459,6 +459,30 @@
       "duration_ms": 142458,
       "name": "'99",
       "url": "https://open.spotify.com/track/0hUwizVEIAW60Te9NpvftP"
+    },
+    {
+      "added_at": "2025-11-21 19:47:39",
+      "album": {
+        "name": "Punk Wave Sin Barreras Volume 1: Conoci\u00e9ndonos",
+        "url": "https://open.spotify.com/album/5A5ZTjUNV7r3p6l4fVe470"
+      },
+      "artists": [
+        {
+          "name": "Planta Industrial",
+          "url": "https://open.spotify.com/artist/2vfT28l8lKF4o9HuVkJ3Pw"
+        },
+        {
+          "name": "aka the darknight",
+          "url": "https://open.spotify.com/artist/3yb2AwODgJ3ug0l3jKcD5j"
+        },
+        {
+          "name": "Saso",
+          "url": "https://open.spotify.com/artist/7z3W8OunO3RH0quodR8Zsu"
+        }
+      ],
+      "duration_ms": 47817,
+      "name": "Punk Wave Sin Barreras",
+      "url": "https://open.spotify.com/track/7CqcHJ7sZ71Eb9ScuvSEVS"
     },
     {
       "added_at": "2025-10-08 16:00:11",

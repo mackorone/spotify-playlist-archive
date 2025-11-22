@@ -4,7 +4,7 @@
 
 > Future & melodic bass 🛸 with William Black
 
-844 songs - 2 day 2 hr 29 min
+845 songs - 2 day 2 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [ALL THE HIGHS](https://open.spotify.com/track/6Dg3ArDiJcseYoeeTZZXK6) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [ALL THE HIGHS](https://open.spotify.com/album/4Z9aZaIeSiKBVOf7v7oHCI) | 3:26 | 2022-09-16 | 2024-05-20 |
 | [All To You \(feat\. Micah Martin\)](https://open.spotify.com/track/4cQzvfSsPLcUxieNmesdzb) | [Crystal Skies](https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK), [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [All To You \(feat\. Micah Martin\)](https://open.spotify.com/album/1GyqD7X9T1UxyiYGdhvqE8) | 3:09 | 2022-07-08 | 2022-08-06 |
 | [All We Get](https://open.spotify.com/track/517vNs5QcADIAHl8vKXCzc) | [Elephante](https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G), [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Daye](https://open.spotify.com/artist/60osBGZW2H9FtEecIfybMt) | [All We Get](https://open.spotify.com/album/5Rw5VgU5MQNwPP3TlQqgts) | 4:08 | 2024-09-13 | 2024-12-01 |
+| [All We Need](https://open.spotify.com/track/0RREnEZetqn1UjcPaLQBBU) | [Axel Boy](https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM) | [All We Need](https://open.spotify.com/album/46pgGtx7kSYsDqXeLVQgCd) | 4:12 | 2025-11-21 |  |
 | [All We Needed](https://open.spotify.com/track/6DfESv6z9PPLo1RhbzlVIb) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [All We Needed](https://open.spotify.com/album/3K5Uj6OuNzPPetcRSJhVLt) | 4:01 | 2022-07-22 | 2024-07-27 |
 | [Almost Home \- MitiS Remix](https://open.spotify.com/track/2ddJ5eXea7HzGwAC745jOr) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Justine Suissa](https://open.spotify.com/artist/6UKSvQC8EQZUOKtUaj5uCj), [MitiS](https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw) | [Almost Home \(The Remixes\)](https://open.spotify.com/album/0xEGWXpT3SZhB5KyIbOKZ7) | 3:14 | 2022-07-08 | 2024-02-22 |
 | [Alone](https://open.spotify.com/track/7CSmSTEKY5eKPqQY3ClZfV) | [Last Heroes](https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97), [CloudNone](https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY) | [Alone](https://open.spotify.com/album/46bnObxinMvPMfuvTZ5hQr) | 3:06 | 2025-04-04 |  |
@@ -764,7 +765,7 @@
 | [Too Long \(feat\. Cruel Youth\)](https://open.spotify.com/track/68eKAppHA0LgssmPmoRNv4) | [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Cruel Youth](https://open.spotify.com/artist/4YrURxtCHtPBfNDmMNp7IG) | [Too Long \(feat\. Cruel Youth\)](https://open.spotify.com/album/3eqY7BmjLIkfTTkimqO430) | 4:41 | 2023-03-03 | 2024-06-18 |
 | [Toxic](https://open.spotify.com/track/2nUDK9SvpAA5EEMOJ4Bsn4) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf), [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr) | [Toxic](https://open.spotify.com/album/6FhJbGFOc9MO1SM5zrfMkg) | 3:17 | 2023-09-01 | 2024-08-03 |
 | [Trailblazer](https://open.spotify.com/track/5psgWqa4cMrANthb7UcfBR) | [Liquid Stranger](https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k), [ProbCause](https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY) | [Trailblazer](https://open.spotify.com/album/4nHlVdgTYa0Uod3o4sfXFr) | 3:58 | 2024-07-26 |  |
-| [Transcend](https://open.spotify.com/track/1CWRGFM8aTjZqZAGaXNnRI) | [STAR SEED](https://open.spotify.com/artist/5xR2U3IJuuJP89isSMnxtd) | [Transcend](https://open.spotify.com/album/1bgfmOhcYX9Die6K8Lx1fr) | 3:47 | 2025-09-05 |  |
+| [Transcend](https://open.spotify.com/track/1CWRGFM8aTjZqZAGaXNnRI) | [STAR SEED](https://open.spotify.com/artist/5xR2U3IJuuJP89isSMnxtd) | [Transcend](https://open.spotify.com/album/1bgfmOhcYX9Die6K8Lx1fr) | 3:47 | 2025-09-05 | 2025-11-22 |
 | [Treading Water](https://open.spotify.com/track/4cv3Hq71572CK731yfAVB0) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu) | [Treading Water](https://open.spotify.com/album/272T5Er6qPGusHv42ZcmEW) | 3:33 | 2022-07-08 | 2022-07-29 |
 | [Treading Water](https://open.spotify.com/track/4iQnJ1nbzIqRirVI1Q2ig8) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu) | [Sentiment](https://open.spotify.com/album/4eZHJqBC68gC2UtAKeiCnA) | 3:33 | 2022-07-29 | 2024-04-19 |
 | [Treading Water](https://open.spotify.com/track/7vQb9oBfIo2q8IggQ4Bkjy) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu) | [Sentiment](https://open.spotify.com/album/2NRBI2mvyZIYpHMEcDmN6A) | 3:33 | 2022-07-08 | 2022-08-04 |

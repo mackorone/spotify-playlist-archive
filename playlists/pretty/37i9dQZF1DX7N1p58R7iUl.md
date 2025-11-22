@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N1p58R7iUl.md) - [plain]
 
 > Listen to <a href="spotify:artist:3dE92yGWcrboP1kC5SWyqu">Todd Terry</a>'s favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,152 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,167 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N1p58R7iUl.md) - [plain]
 | 49 | [Heat](https://open.spotify.com/track/1Q09LzROZCdwuPtvtKGd0f) | [Prunk](https://open.spotify.com/artist/6FJfLfGO9X2AVNz0sFscrG) | [Heat](https://open.spotify.com/album/2qW5OsFApVV4uFsXSHu1YF) | 3:52 |
 | 50 | [Bounce to the Beat \- Chris Stussy Remix \- Edit](https://open.spotify.com/track/2TaePDvV47Eaju3cSi5TFz) | [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu), [Sound Design](https://open.spotify.com/artist/5vcGzbf0bkGkhGhI1E72WU), [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So) | [Bounce To The Beat \(2024 Remixes\)](https://open.spotify.com/album/5HNjbuvkzxGAUKuBj1XtFx) | 4:56 |
 
-Snapshot ID: `AAAAALAuneSv+R1bT6W4tHa8fUcsJ/Jr`
+Snapshot ID: `AAAAAMxeDbz2GGFl6qZ+I7KmCWrXQpSl`

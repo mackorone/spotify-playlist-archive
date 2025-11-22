@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "D\u00e9couvrez le rap qu\u00e9b\u00e9cois, servi tout frais. Photo: kinji00, Hubert Lenoir, lb66",
+  "description": "D\u00e9couvrez le rap qu\u00e9b\u00e9cois, servi tout frais. Photo: Loud",
   "name": "Rap qu\u00e9b",
   "tracks": [
     {
@@ -669,6 +669,24 @@
     },
     {
       "album": {
+        "name": "2005",
+        "url": "https://open.spotify.com/album/34oKc7ykYqG7kcpPCzrYjz"
+      },
+      "artists": [
+        {
+          "name": "Playbe",
+          "url": "https://open.spotify.com/artist/26rIuyFJ8XZDDEMjihm2BI"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "6 O'CLOCK",
+      "url": "https://open.spotify.com/track/0flLKCi2Et8vkAiqaWIekB"
+    },
+    {
+      "album": {
         "name": "6 PIASSES",
         "url": "https://open.spotify.com/album/3AuQMxeIkx7vuTxh37ZLKI"
       },
@@ -688,6 +706,24 @@
       "duration_ms": 175975,
       "name": "6 PIASSES",
       "url": "https://open.spotify.com/track/3SbpvwK2XsmWl4P42iCT1x"
+    },
+    {
+      "album": {
+        "name": "7 Life",
+        "url": "https://open.spotify.com/album/63WZ9XBAmdcJtW4P0kuOcv"
+      },
+      "artists": [
+        {
+          "name": "Lostboy Carlos",
+          "url": "https://open.spotify.com/artist/7tYNQF6fww1VELqVD0TBeb"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158915,
+      "name": "7 Life",
+      "url": "https://open.spotify.com/track/3KUc0Hm5k0HLMSJ0CAOuk6"
     },
     {
       "album": {
@@ -2136,7 +2172,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 208000,
       "name": "BIG JEANS",
       "url": "https://open.spotify.com/track/0q9YhYjKz5oZgnPSYRza2d"
@@ -2420,6 +2456,28 @@
       "duration_ms": 199680,
       "name": "Blah",
       "url": "https://open.spotify.com/track/3spog0Dx719qEXRsq5USS4"
+    },
+    {
+      "album": {
+        "name": "TOUT OU RIEN",
+        "url": "https://open.spotify.com/album/4KtZZ605o2qwq95cvHn8dh"
+      },
+      "artists": [
+        {
+          "name": "Ngoundieu",
+          "url": "https://open.spotify.com/artist/34x03KM2PhKL883LRRO7a4"
+        },
+        {
+          "name": "Atosha",
+          "url": "https://open.spotify.com/artist/3hWHJswWmzCXJGeqf8exJw"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172808,
+      "name": "BLESSING",
+      "url": "https://open.spotify.com/track/3fng6KlG6hdYYkzNiayByV"
     },
     {
       "album": {
@@ -3150,7 +3208,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-15",
+      "date_removed": null,
       "duration_ms": 206746,
       "name": "CASAMIGOS 2X",
       "url": "https://open.spotify.com/track/2MQD2LqAPlmZShAxXtjAHl"
@@ -3518,6 +3576,24 @@
       "duration_ms": 156522,
       "name": "Chicago",
       "url": "https://open.spotify.com/track/3WZhrxWOX9morcWAKhljSi"
+    },
+    {
+      "album": {
+        "name": "\u00c9B\u00c8NE VOL. 2",
+        "url": "https://open.spotify.com/album/4F6MQ1yuFvJ9NePabpK2r9"
+      },
+      "artists": [
+        {
+          "name": "The Alone",
+          "url": "https://open.spotify.com/artist/2T1HPiXlPPtIZwcYovhQIO"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194782,
+      "name": "CHICOUTIMI BIKER",
+      "url": "https://open.spotify.com/track/3vwT9Jcwhyf8s5SZP2v00G"
     },
     {
       "album": {
@@ -5995,6 +6071,28 @@
     },
     {
       "album": {
+        "name": "Faucheuse",
+        "url": "https://open.spotify.com/album/7CH1udmsQ4q2W7AccwNRBQ"
+      },
+      "artists": [
+        {
+          "name": "Zacka",
+          "url": "https://open.spotify.com/artist/05ZhgFWksSqV3tYWBHD6Sk"
+        },
+        {
+          "name": "Gnino",
+          "url": "https://open.spotify.com/artist/03sPkUqjLbCXdxu3e46T3H"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177838,
+      "name": "Faucheuse",
+      "url": "https://open.spotify.com/track/3fkZXzzSt3RkPd9CEvhEVd"
+    },
+    {
+      "album": {
         "name": "Nouvelle vie",
         "url": "https://open.spotify.com/album/1AVjkLXsyQoO61z02FJKRf"
       },
@@ -7258,7 +7356,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 136296,
       "name": "guapophobe",
       "url": "https://open.spotify.com/track/1RkPIbljPqVLcc8rkop2Yx"
@@ -9051,6 +9149,28 @@
     },
     {
       "album": {
+        "name": "Vivre \u00e0 mourir",
+        "url": "https://open.spotify.com/album/7KSsIQNO4IVCe1gIpYiPbg"
+      },
+      "artists": [
+        {
+          "name": "Rymz",
+          "url": "https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu"
+        },
+        {
+          "name": "Souldia",
+          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194597,
+      "name": "KX (avec Souldia)",
+      "url": "https://open.spotify.com/track/7FJ4bogwvTEa9SqTEV5LV2"
+    },
+    {
+      "album": {
         "name": "L'argent fait le bonheur",
         "url": "https://open.spotify.com/album/1ZlGuLWCqyihvFKcCIhy9P"
       },
@@ -9240,7 +9360,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 170666,
       "name": "La monnaie",
       "url": "https://open.spotify.com/track/1JjMaBCyGzQ4BU11ZFrWiz"
@@ -9452,6 +9572,24 @@
       "duration_ms": 178216,
       "name": "La Vie Qu'on M\u00e8ne",
       "url": "https://open.spotify.com/track/7GfY0L7uQV3ECjzbjTG1Re"
+    },
+    {
+      "album": {
+        "name": "La vie qu'on m\u00e8ne",
+        "url": "https://open.spotify.com/album/4iPpgK53s9GyINfegUKaVb"
+      },
+      "artists": [
+        {
+          "name": "ray.z",
+          "url": "https://open.spotify.com/artist/1EfhaaHz0yZn4W0SLHFKQS"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182583,
+      "name": "La vie qu'on m\u00e8ne",
+      "url": "https://open.spotify.com/track/7Hv971E42bN5nnj8lhKrBO"
     },
     {
       "album": {
@@ -9809,6 +9947,32 @@
     },
     {
       "album": {
+        "name": "Opium opus",
+        "url": "https://open.spotify.com/album/5KY5M8zVX9Fwj5FkYzcMpn"
+      },
+      "artists": [
+        {
+          "name": "SeinsSucrer",
+          "url": "https://open.spotify.com/artist/6AFFCSzexIvA2fBeEpe0nP"
+        },
+        {
+          "name": "Cotola",
+          "url": "https://open.spotify.com/artist/1Mpkla8m8LaM1rCJjyxXjw"
+        },
+        {
+          "name": "Young Rose",
+          "url": "https://open.spotify.com/artist/283dFjy8kbjkA5cDRMkI4C"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175660,
+      "name": "Left Wrist Frost Right Wrist Sauce",
+      "url": "https://open.spotify.com/track/700mZciX5TdzGQxw3ffwNS"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0UlPdvDUpDNBxcN8l5u3Iw"
       },
@@ -10154,7 +10318,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-15",
+      "date_removed": null,
       "duration_ms": 141163,
       "name": "LomeLaval",
       "url": "https://open.spotify.com/track/2Q7CpbLeZhE8Rq8YPSiOhf"
@@ -11152,7 +11316,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 145280,
       "name": "Mode de vie",
       "url": "https://open.spotify.com/track/6Gwjo7UHixOJiCCe5Av7wT"
@@ -11838,7 +12002,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 128571,
       "name": "M\u00eame Vie",
       "url": "https://open.spotify.com/track/4AGpgDwYoMY5zxTES6vhVZ"
@@ -12613,6 +12777,36 @@
     },
     {
       "album": {
+        "name": "B.O D\u2019la fin des temps",
+        "url": "https://open.spotify.com/album/7AXqSyYaDonfVYzsT0XPF3"
+      },
+      "artists": [
+        {
+          "name": "St-Saoul",
+          "url": "https://open.spotify.com/artist/3FiLC4bXGyrzdtdqDJPmZZ"
+        },
+        {
+          "name": "Madizm",
+          "url": "https://open.spotify.com/artist/2GoFhPq0tLBQaFm0dZyHYj"
+        },
+        {
+          "name": "Sensei H",
+          "url": "https://open.spotify.com/artist/4rSSnUNsjRSMr0TbcjVgkN"
+        },
+        {
+          "name": "Jamal Jackson",
+          "url": "https://open.spotify.com/artist/77hPvRsZhqSdy23R3Xig5W"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192962,
+      "name": "One Nation",
+      "url": "https://open.spotify.com/track/0HSfrxNjChc1UjyLXORJR4"
+    },
+    {
+      "album": {
         "name": "SVINT, Volume 1",
         "url": "https://open.spotify.com/album/4u2MFO6rdp94e3OYVWEc1v"
       },
@@ -12972,6 +13166,28 @@
       "duration_ms": 238595,
       "name": "Parades Photos",
       "url": "https://open.spotify.com/track/7wc9odIwuIGgPnRpEHEd5B"
+    },
+    {
+      "album": {
+        "name": "Rencontre au Sommet",
+        "url": "https://open.spotify.com/album/32wjTxOy85pP2yFUiwu1FL"
+      },
+      "artists": [
+        {
+          "name": "Die-On",
+          "url": "https://open.spotify.com/artist/3PiPx0tAJVVmdwScvelkq3"
+        },
+        {
+          "name": "Tel Kel",
+          "url": "https://open.spotify.com/artist/1pT5N4DANkbWPnrXQuDJPM"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173500,
+      "name": "Paradis Perdu",
+      "url": "https://open.spotify.com/track/4hzOZCIxNnhVv4iP5bwOl3"
     },
     {
       "album": {
@@ -13755,6 +13971,24 @@
     },
     {
       "album": {
+        "name": "Airs de famille",
+        "url": "https://open.spotify.com/album/6Wh3F7WPl1qd8bSIuzkgru"
+      },
+      "artists": [
+        {
+          "name": "Sam Faye et D-Track",
+          "url": "https://open.spotify.com/artist/4Es6uk5abiwYEh3sPJXh2P"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148944,
+      "name": "Pousse-moi pas",
+      "url": "https://open.spotify.com/track/1mOkfJmBM5OPLMD2lxw4i6"
+    },
+    {
+      "album": {
         "name": "Poutine Sauce",
         "url": "https://open.spotify.com/album/4QxwYAdzuPYO8v8gS2fLWO"
       },
@@ -14344,7 +14578,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 125575,
       "name": "Quelque chose",
       "url": "https://open.spotify.com/track/4kU9TPu6WatoMCFwULSKVm"
@@ -14556,7 +14790,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 84097,
       "name": "RAP DE FRAGILE",
       "url": "https://open.spotify.com/track/7vG2KmqiTnLXa0kF4oRc9s"
@@ -14686,7 +14920,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 234279,
       "name": "Rep\u00e8res",
       "url": "https://open.spotify.com/track/4YxiFdTAlxqpBz0zpnn9KK"
@@ -15938,6 +16172,24 @@
       "duration_ms": 198349,
       "name": "Sixi\u00e8me sens",
       "url": "https://open.spotify.com/track/2Mzf4hKAHExr1MOBSPxYhZ"
+    },
+    {
+      "album": {
+        "name": "Smbre",
+        "url": "https://open.spotify.com/album/2yaMSZkN3IZU8MqMKQCqTB"
+      },
+      "artists": [
+        {
+          "name": "MCM",
+          "url": "https://open.spotify.com/artist/0lp5ESFVVH1DGSwb2LtnfD"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208017,
+      "name": "Smbre",
+      "url": "https://open.spotify.com/track/392wxfXZiHJE8JiToNC5G6"
     },
     {
       "album": {
@@ -17268,7 +17520,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 170082,
       "name": "Trop Souvent",
       "url": "https://open.spotify.com/track/2kpXbATJiis2JCZrDed7Ff"
@@ -17888,7 +18140,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 162077,
       "name": "VRAI FLEXEUR",
       "url": "https://open.spotify.com/track/1qeWMqvXFZEip3Po5Vk2AD"
@@ -18123,6 +18375,40 @@
     },
     {
       "album": {
+        "name": "WIN!",
+        "url": "https://open.spotify.com/album/2bRRe5RbiE3OZtFSiSh0nn"
+      },
+      "artists": [
+        {
+          "name": "Rowjay",
+          "url": "https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc"
+        },
+        {
+          "name": "FREAKEY!",
+          "url": "https://open.spotify.com/artist/4K30jReY7UXKmG1Q93joPY"
+        },
+        {
+          "name": "Mike Shabb",
+          "url": "https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Doomx",
+          "url": "https://open.spotify.com/artist/4fJBrg5idY49VWCkyVIFGA"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162253,
+      "name": "WIN!",
+      "url": "https://open.spotify.com/track/2LlilWXyPXCZNtcAUWxnHh"
+    },
+    {
+      "album": {
         "name": "Woah l\u00e0!",
         "url": "https://open.spotify.com/album/0GblbgtEQwfKAL3k5p6faI"
       },
@@ -18309,6 +18595,24 @@
     },
     {
       "album": {
+        "name": "\u00c0 ce que je sache",
+        "url": "https://open.spotify.com/album/7irQltiqhqRTJEgCVfqwPM"
+      },
+      "artists": [
+        {
+          "name": "Loud",
+          "url": "https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148557,
+      "name": "\u00c0 ce que je sache",
+      "url": "https://open.spotify.com/track/6EQmn1vi8v7z4nkcq1cVwf"
+    },
+    {
+      "album": {
         "name": "\u00c0 contresens",
         "url": "https://open.spotify.com/album/1D7JpG3f024RutOzgJEPSh"
       },
@@ -18386,7 +18690,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 174750,
       "name": "\u00c0 soir on part",
       "url": "https://open.spotify.com/track/3n5NhuahDwfqO2U5rtltAO"

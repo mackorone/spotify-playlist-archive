@@ -2,9 +2,9 @@
 
 ### [probably needed a hug...](https://open.spotify.com/playlist/37i9dQZF1DWYuC8hQpLKaY)
 
-> but listened to this instead
+> but listened to this instead ❤️‍🩹 healing  piano covers of your fav hits
 
-71 songs - 3 hr 43 min
+74 songs - 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Beautiful Things \- Piano Instrumental](https://open.spotify.com/track/5nxuhjHRys8nreSC1CawUv) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things \(Alternate Versions\)](https://open.spotify.com/album/5KZ5cuVY1oLvHI1ecqoUJP) | 3:13 | 2025-02-20 | 2025-05-03 |
 | [Before You Go](https://open.spotify.com/track/7pQYeqd8wXUoZxuhgokUEV) | [Ellery Hughes](https://open.spotify.com/artist/5py7utGDgkOSj26N1boPUc) | [A Collection of Instrumental Piano Covers](https://open.spotify.com/album/4DLDpkEbrYKgYNpIEudHsV) | 3:45 | 2025-02-20 |  |
 | [BIRDS OF A FEATHER \- Piano Version](https://open.spotify.com/track/2KfOPPHqLB3KZz5XrJEdmz) | [Clavier](https://open.spotify.com/artist/0v0X8EUY8KmXXumeZet5mJ) | [BIRDS OF A FEATHER \(Piano Version\)](https://open.spotify.com/album/1AKGlY7OrKifS74bS5YeGp) | 3:25 | 2025-02-20 | 2025-06-27 |
-| [Cardigan](https://open.spotify.com/track/6tr0rglUFWJmOXr44q6BkV) | [Ingrid Olsson](https://open.spotify.com/artist/7qA3z1l5k66u0YnW4vYPWl) | [Piano Pop Covers II](https://open.spotify.com/album/0odfmFO1Q6aRfsRcRQvVmh) | 4:43 | 2025-02-20 |  |
+| [Cardigan](https://open.spotify.com/track/6tr0rglUFWJmOXr44q6BkV) | [Ingrid Olsson](https://open.spotify.com/artist/7qA3z1l5k66u0YnW4vYPWl) | [Piano Pop Covers II](https://open.spotify.com/album/0odfmFO1Q6aRfsRcRQvVmh) | 4:43 | 2025-02-20 | 2025-11-22 |
 | [Chemical \- Piano Version](https://open.spotify.com/track/7EMUIqGngqON9tsvjqJBLF) | [Philip](https://open.spotify.com/artist/1VynTFO9AVlwqIDGYvi1wS) | [Chemical \(Piano Version\)](https://open.spotify.com/album/3UooMrCQIxGj5LKjSxKzpI) | 2:36 | 2025-02-20 |  |
 | [Cold Heart](https://open.spotify.com/track/2JR1wrR7VqWbVHjwuXl6uG) | [Samantha Foster](https://open.spotify.com/artist/0YBUHAWLRIYv0e1aTE6lJx) | [Cold Heart](https://open.spotify.com/album/2MiytJKrSJKjN8pdleNbyS) | 3:02 | 2025-02-20 | 2025-10-15 |
 | [DAISIES \- Piano Version](https://open.spotify.com/track/68n0LyU0torN9hjbfcSIpx) | [Nazareno Aversa](https://open.spotify.com/artist/5i0O6tyJDlb7ADVL0W7eeT) | [DAISIES \(Piano Version\)](https://open.spotify.com/album/3viLGZdk8pWzq6YiBWXQJE) | 3:26 | 2025-09-11 |  |
@@ -43,14 +43,16 @@
 | [Jolene](https://open.spotify.com/track/0IUMSra0B0igbpr8OynKfB) | [Elin Porsinger](https://open.spotify.com/artist/6t3WAdzh5pbRFB2piKubXK) | [Jolene](https://open.spotify.com/album/6vacirqzYmkXMdo38CTenR) | 2:17 | 2025-02-20 | 2025-04-08 |
 | [Karma Police](https://open.spotify.com/track/6TfRwAeK4bmctFV1GR2qme) | [Amy Bynes](https://open.spotify.com/artist/4KF2aXLvwOGirz0H1vg30S) | [lovely](https://open.spotify.com/album/7uha18MvMpkh2sF1NqBIxS) | 3:21 | 2025-02-20 |  |
 | [Lover \- Piano](https://open.spotify.com/track/6SLbPpHePkvoQvgrvazQuD) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Midnight Rain & Lover \(Piano\)](https://open.spotify.com/album/3tuqnyoZ4SCBa5q2KwjVJH) | 3:14 | 2025-02-20 | 2025-05-03 |
+| [Man I Need \- Piano Instrumental](https://open.spotify.com/track/3Zqhf4csW4ayNpOoannjMw) | [Duncan La Barre](https://open.spotify.com/artist/7wAx0flUZw6uzEe5Objdee) | [Man I Need \(Piano Instrumental\)](https://open.spotify.com/album/6dsmh64LO3ghcioXn7Wqdy) | 3:00 | 2025-11-21 |  |
 | [Man I Need \- Piano Version](https://open.spotify.com/track/2lvzVTi1vTHUpas0zzfmtX) | [Liam Casablanca](https://open.spotify.com/artist/0gUlEeszhxPzBIt7YOyWzM) | [Trust of Perspective](https://open.spotify.com/album/19f2y5fLnqQ7RVflZWdR9I) | 2:26 | 2025-10-15 |  |
 | [Manchild](https://open.spotify.com/track/7MMFRjAiYOwPxQnmxcsert) | [Davy Burns](https://open.spotify.com/artist/3i1joJ76xcNJLuBNHlQ5Pi) | [Manchild](https://open.spotify.com/album/6IEifv95ND12iR1WHrRFxD) | 3:25 | 2025-07-04 |  |
 | [Messy](https://open.spotify.com/track/4I1wozDwzAFJTM7UYTJWq7) | [Jón Araujo](https://open.spotify.com/artist/3yVtxFWtzQHdSK2lPkX3M8) | [Messy](https://open.spotify.com/album/6R005fo5kfudPwHT6JcyYS) | 3:18 | 2025-03-28 |  |
 | [Murder On The Dancefloor](https://open.spotify.com/track/2l2WYibyPhizu9h3N0tWEy) | [Bea Westphal](https://open.spotify.com/artist/1WYKnoHGJ7nwH1S9SyZsYc) | [Murder On The Dancefloor](https://open.spotify.com/album/3Wqu2taru4mAkshnuMtXMn) | 3:07 | 2025-02-20 |  |
 | [My Universe](https://open.spotify.com/track/0gUFsysQrkPRZPLnL7NiV4) | [Piano Peace](https://open.spotify.com/artist/7qKxhFTGcJ7w7JEFGqqWwK) | [BTS Piano Covers, Vol\. 2](https://open.spotify.com/album/0xFZWU9ElqmrExGQ9zcDLg) | 2:14 | 2025-02-20 |  |
-| [No One Noticed \- Piano Version](https://open.spotify.com/track/1XlJTmmaumyGrRlH5nVNet) | [Akmigone](https://open.spotify.com/artist/5lmcV2Tb033KvvFEjm2kOi) | [No One Noticed \(Piano Version\)](https://open.spotify.com/album/43ud7M8sNagWNXfBTGaoiS) | 3:09 | 2025-10-14 |  |
+| [No One Noticed \- Piano Version](https://open.spotify.com/track/1XlJTmmaumyGrRlH5nVNet) | [Akmigone](https://open.spotify.com/artist/5lmcV2Tb033KvvFEjm2kOi) | [No One Noticed \(Piano Version\)](https://open.spotify.com/album/43ud7M8sNagWNXfBTGaoiS) | 3:09 | 2025-10-14 | 2025-11-22 |
 | [Ocean Eyes](https://open.spotify.com/track/0uVBjMQGASq2vMiCuWPtCH) | [Ingrid Olsson](https://open.spotify.com/artist/7qA3z1l5k66u0YnW4vYPWl) | [Piano Pop Covers II](https://open.spotify.com/album/0odfmFO1Q6aRfsRcRQvVmh) | 3:13 | 2025-02-20 |  |
 | [Old Town Road](https://open.spotify.com/track/0KUi4dptCJzeEHPr38B7j9) | [Loftet](https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12) | [Diamonds](https://open.spotify.com/album/2iYGCPpY33blb2OeqDMJ3n) | 2:22 | 2025-02-20 | 2025-09-27 |
+| [Opalite \- Piano Instrumental](https://open.spotify.com/track/5VTdPC1IYEgB0onoOigHkQ) | [Duncan La Barre](https://open.spotify.com/artist/7wAx0flUZw6uzEe5Objdee) | [Opalite \(Piano Instrumental\)](https://open.spotify.com/album/3ggwKE0BVgBUkZrUPYQ4nh) | 3:35 | 2025-11-21 |  |
 | [Ordinary](https://open.spotify.com/track/00zboRdO7yjPazc4J7d3EB) | [Aidan Jennings](https://open.spotify.com/artist/6uUXYuGPRAHHR0TrAvV62o) | [Ordinary](https://open.spotify.com/album/6iFnTh7yJX21BmQHE7sd6d) | 2:28 | 2025-07-04 |  |
 | [Ordinary \- Piano Version](https://open.spotify.com/track/0SiBf9yNAadpXdYku3PRpS) | [Akmigone](https://open.spotify.com/artist/5lmcV2Tb033KvvFEjm2kOi) | [Ordinary \(Piano Version\)](https://open.spotify.com/album/7nSH4KNxlGnTQLh8iNIjiU) | 3:13 | 2025-06-26 | 2025-07-10 |
 | [Out of Time](https://open.spotify.com/track/2JIadomFANTBr1I7rvMCJN) | [Fileas Aunad](https://open.spotify.com/artist/4mqtOkMvlltg6gGDEVNsN7) | [Out of Time](https://open.spotify.com/album/5ywNtEss6L50krPT9wxaGB) | 3:14 | 2025-05-16 |  |
@@ -71,13 +73,14 @@
 | [Taste](https://open.spotify.com/track/17y22f5dFjcSMkjsA4OjwJ) | [Ellery Hughes](https://open.spotify.com/artist/5py7utGDgkOSj26N1boPUc) | [Taste](https://open.spotify.com/album/0orAB0e58uiyyrRMGmxQMX) | 3:32 | 2025-04-07 |  |
 | [Texas Hold EM](https://open.spotify.com/track/3KjegNTJ84MxLDXpoHWWcg) | [Marc Ventus](https://open.spotify.com/artist/5QpVRIIbhz7b7DSghK0aTH) | [As It Goes](https://open.spotify.com/album/59Y3FjjAAV4P9U4ZrldQth) | 3:23 | 2025-02-20 |  |
 | [That's So True](https://open.spotify.com/track/3wfQvxeJREWqSMceBL40Fc) | [Eric Sebastian](https://open.spotify.com/artist/5jVvCMHfdjbTVXntiqRhKp) | [That's So True](https://open.spotify.com/album/4pVfyoenHrnYwSRlJalQ4H) | 3:34 | 2025-05-02 |  |
+| [The Subway \- Piano Version](https://open.spotify.com/track/67F8a6qEuRd9vR4RZcegW1) | [Kieran](https://open.spotify.com/artist/6KGsx87K3xTytiXpb68B17) | [The Subway \(Piano Version\)](https://open.spotify.com/album/5YUOj7ruNaw0Lo14dRd4zv) | 3:26 | 2025-11-21 |  |
 | [Too Good At Goodbyes](https://open.spotify.com/track/0YDllquMDrYKSeH34vGODj) | [Piano Fruits Music](https://open.spotify.com/artist/5vpWEdK9C28uOX8jjfRi1v), [Magnus Eriksson](https://open.spotify.com/artist/5Y92W0Mxk53w1ozspH7zZb) | [Pop Piano Covers Vol\. 1](https://open.spotify.com/album/0Y0oYVkTYrJ1UzEkhmnXjt) | 2:15 | 2025-02-20 | 2025-03-11 |
 | [undressed](https://open.spotify.com/track/2uFX1GSnsRjlA7w5lSm1rK) | [Olavi Heed](https://open.spotify.com/artist/5SPqbJUyrKqG0sWvYDecAa) | [Undressed](https://open.spotify.com/album/3GSZx67ipMHB5k3HK93rAL) | 2:20 | 2025-10-24 |  |
 | [undressed \- Piano Instrumental](https://open.spotify.com/track/0iTJdkp6fOP9Ut4t5V4F7y) | [Marcus Chow](https://open.spotify.com/artist/7w2L1GIo649U1ioe0mnH23) | [undressed \(Piano Instrumental\)](https://open.spotify.com/album/5XAZzHROU1hb5hD7lZPwUh) | 3:09 | 2025-09-26 |  |
 | [We Don't Talk Anymore](https://open.spotify.com/track/4OgNKXz4YMu9tDm8giWkwy) | [Carl Fredman](https://open.spotify.com/artist/5jtOQKqrJ7r0exrpWykoWU) | [We Don't Talk Anymore](https://open.spotify.com/album/4DWAGQ8cHUTFLZKbl1geK9) | 3:43 | 2025-02-20 |  |
 | [What Was I Made For? \- Piano Version](https://open.spotify.com/track/6Nce1UKzpjE1BB88uAVbsK) | [Flying Fingers](https://open.spotify.com/artist/1jUIOsS9vK91Nc9qYvpEab) | [What Was I Made For? \(Piano Version\)](https://open.spotify.com/album/6jiYjhX0iTyHGzaJYkCU44) | 4:03 | 2025-02-20 | 2025-07-05 |
 | [when the party's over](https://open.spotify.com/track/6JWWuoeyToc9bBZkgWtQ9L) | [Finneas O'Connell](https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96), [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [when the party’s over](https://open.spotify.com/album/6vyEqEM1JWBJFnzr0rMp5T) | 3:28 | 2025-02-20 | 2025-06-27 |
-| [Where Is My Mind?](https://open.spotify.com/track/1XfJ4VvulKXjwxIEQURE8R) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT) | [Where Is My Mind?](https://open.spotify.com/album/2XeUeewsBg1YDbomOApaqK) | 3:46 | 2025-02-20 |  |
+| [Where Is My Mind?](https://open.spotify.com/track/1XfJ4VvulKXjwxIEQURE8R) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT) | [Where Is My Mind?](https://open.spotify.com/album/2XeUeewsBg1YDbomOApaqK) | 3:46 | 2025-02-20 | 2025-11-22 |
 | [yes, and?](https://open.spotify.com/track/20VTF9OtlPGfUFJdNyXx4y) | [Jón Araujo](https://open.spotify.com/artist/3yVtxFWtzQHdSK2lPkX3M8) | [yes, and?](https://open.spotify.com/album/627DfmpUo3a2dbfdsfsaUx) | 2:33 | 2025-02-20 |  |
 
 \*This playlist was first scraped on 2025-02-22. Prior content cannot be recovered.

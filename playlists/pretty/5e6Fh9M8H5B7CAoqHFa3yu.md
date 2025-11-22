@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 246 likes - 1,648 songs - 4 day 4 hr 34 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 246 likes - 1,651 songs - 4 day 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1656,5 +1656,8 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 1646 | [My dear ocean](https://open.spotify.com/track/6Vx7rnrs7bpBPqK6eFitjZ) | [Minhye J](https://open.spotify.com/artist/2E2b8xg4MmesEDv6QKZRiy) | [My dear ocean](https://open.spotify.com/album/77il9l2AGpvf1ieD1kRRTz) | 4:01 |
 | 1647 | [One Better](https://open.spotify.com/track/45wViUjhlClQRK1cqM2ptP) | [Les Claypool](https://open.spotify.com/artist/1oM1vgebNTCZmVYwC3YYl8) | [Of Whales and Woe](https://open.spotify.com/album/1Ebb7SpWpE0Ioy8f9I9meX) | 5:59 |
 | 1648 | [Babbo Natale Trap](https://open.spotify.com/track/3Sy33SrWCHoyI2h2VKySKH) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Babbo Natale Trap](https://open.spotify.com/album/4oQlx9ml5V4mIWSAevAjSK) | 2:17 |
+| 1649 | [Northern Star](https://open.spotify.com/track/33VX9hgtQXJWmH6W1hkwA4) | [Helen Keeling\-Marston](https://open.spotify.com/artist/54Nc4fNhCbrKoouLdouBNP) | [Northern Star](https://open.spotify.com/album/48ahazq0gDgALwMBxRrLu6) | 2:06 |
+| 1650 | [Fireside](https://open.spotify.com/track/0ZDHsXc2Oe3PXKaNH38tR2) | [Helkemar](https://open.spotify.com/artist/1a6v8eZD7UBHDpYjYd0eQl) | [Fireside](https://open.spotify.com/album/3hKn1c0BwHI1PzWQELe6tM) | 2:29 |
+| 1651 | [Angel](https://open.spotify.com/track/2C0DJg7JtzhaSXgiuGOVAm) | [Optacure](https://open.spotify.com/artist/7wlWWs08zvaXAvAxqAlTQ3), [Ean Aguila](https://open.spotify.com/artist/2zMP0KNQXgr3YviWYeRb8D) | [Angel](https://open.spotify.com/album/36BOTVbt4r7G5I3nNuY0vi) | 4:59 |
 
-Snapshot ID: `AAAHVtrIupogO7faQEkGRqN8TH67OUE3`
+Snapshot ID: `AAAHWe3VnLwtaNeKEIsbbkeC/wY+U78D`

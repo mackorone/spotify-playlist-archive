@@ -4,13 +4,13 @@
 
 > Podcasts que debes de tener en tu RADAR\. Foto: Dos Cabras Locas
 
-15 songs - 16 hr 13 min
+15 songs - 16 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [194\. Psicóloga responde: La verdad detrás de tus problemas ft\. Valentina Montoya ](https://open.spotify.com/episode/7j4U6PBSV6zKK6rKOgJUGu) | [Dos Cabras Locas](https://open.spotify.com/show/3urn8XzLDrnfQ2gxixlTD3) | [Dos Cabras Locas](https://open.spotify.com/album/3urn8XzLDrnfQ2gxixlTD3) | 47:39 | 2025-10-03 |  |
+| [194\. Psicóloga responde: La verdad detrás de tus problemas ft\. Valentina Montoya ](https://open.spotify.com/episode/7j4U6PBSV6zKK6rKOgJUGu) | [Dos Cabras Locas](https://open.spotify.com/show/3urn8XzLDrnfQ2gxixlTD3) | [Dos Cabras Locas](https://open.spotify.com/album/3urn8XzLDrnfQ2gxixlTD3) | 46:18 | 2025-10-03 |  |
 | [195\. Mi novio es ChatGPT \- ¿Qué putas está pasando con la I.A? ](https://open.spotify.com/episode/1laQOKAK4YP8ow82LhSAoV) | [Dos Cabras Locas](https://open.spotify.com/show/3urn8XzLDrnfQ2gxixlTD3) | [Dos Cabras Locas](https://open.spotify.com/album/3urn8XzLDrnfQ2gxixlTD3) | 42:05 | 2025-10-03 |  |
-| [196\. La fórmula para triunfar en la carrera y el amor ft\. Arevalo](https://open.spotify.com/episode/1JcA2DiCKJh2fLZNrPXJPz) | [Dos Cabras Locas](https://open.spotify.com/show/3urn8XzLDrnfQ2gxixlTD3) | [Dos Cabras Locas](https://open.spotify.com/album/3urn8XzLDrnfQ2gxixlTD3) | 48:47 | 2025-10-03 |  |
+| [196\. La fórmula para triunfar en la carrera y el amor ft\. Arevalo](https://open.spotify.com/episode/1JcA2DiCKJh2fLZNrPXJPz) | [Dos Cabras Locas](https://open.spotify.com/show/3urn8XzLDrnfQ2gxixlTD3) | [Dos Cabras Locas](https://open.spotify.com/album/3urn8XzLDrnfQ2gxixlTD3) | 47:50 | 2025-10-03 |  |
 | [ANA VICTORIA GARCÍA: 7 lecciones crudas de la primera Shark de México](https://open.spotify.com/episode/1N1J5F36SyVUr9FPb5ja8e) | [Dinstinto](https://open.spotify.com/show/6yVO99WI3G9uJLhW7E6EO2) | [Dinstinto](https://open.spotify.com/album/6yVO99WI3G9uJLhW7E6EO2) | 58:24 | 2025-10-03 |  |
 | [CRECIMIENTO: La fórmula de 4 pasos que entendieron TikTok e Instagram \| Dylan Rosemberg](https://open.spotify.com/episode/0RJKrSb5x47BaxC6empE1p) | [Dinstinto](https://open.spotify.com/show/6yVO99WI3G9uJLhW7E6EO2) | [Dinstinto](https://open.spotify.com/album/6yVO99WI3G9uJLhW7E6EO2) | 2:03:26 | 2025-10-03 |  |
 | [El milagro de las células madre\. Con la Dra\. Luz Marina Restrepo y la Dra\. Libia Hincapié](https://open.spotify.com/episode/1bG3lvcMmQ0gEciQ7JWbKc) | [Abierta Mente](https://open.spotify.com/show/7DResZLoGrREBpM4j8FuDd) | [Abierta Mente](https://open.spotify.com/album/7DResZLoGrREBpM4j8FuDd) | 1:25:00 | 2025-10-03 |  |

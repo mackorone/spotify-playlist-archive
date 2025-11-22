@@ -1,13 +1,161 @@
 {
   "description": "The best rock songs of the moment. Cover: Jutes",
-  "num_followers": 194528,
+  "num_followers": 194527,
   "original_name": "Rock Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMyOGDkG2tjpqbmZ/E404xeMM5iN",
+  "snapshot_id": "AAAAAFOZEFlj6LVMewLp91z1PqomwuhF",
   "tracks": [
+    {
+      "added_at": "2025-11-21 05:01:18",
+      "album": {
+        "name": "Left For Good",
+        "url": "https://open.spotify.com/album/3i3GvVgRCQzAYbMeWUSzMq"
+      },
+      "artists": [
+        {
+          "name": "Bad Omens",
+          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
+        }
+      ],
+      "duration_ms": 233737,
+      "name": "Left For Good",
+      "url": "https://open.spotify.com/track/4pjSe7n2609YnMWnrJ3OVJ"
+    },
+    {
+      "added_at": "2025-11-21 05:01:18",
+      "album": {
+        "name": "One More Time",
+        "url": "https://open.spotify.com/album/2R33Pd9eM5qDQTHO66LGJS"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        },
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 215200,
+      "name": "Wild Woman",
+      "url": "https://open.spotify.com/track/1XcZZwyoLwwF3dISFQe0h6"
+    },
+    {
+      "added_at": "2025-11-21 05:01:18",
+      "album": {
+        "name": "See You On The Other Side (20th Anniversary Edition - Remastered)",
+        "url": "https://open.spotify.com/album/2gPptj6LEfIBWEVkZP1mT5"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 314071,
+      "name": "Last Legal Drug",
+      "url": "https://open.spotify.com/track/6E2yShoZxSJkuyesvukklB"
+    },
+    {
+      "added_at": "2025-11-21 05:01:18",
+      "album": {
+        "name": "Searchlight",
+        "url": "https://open.spotify.com/album/4O3TIz80IlOC5Ya0PbfUlJ"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 215268,
+      "name": "Searchlight",
+      "url": "https://open.spotify.com/track/20fm2tV8FUuonX96Db1bGo"
+    },
+    {
+      "added_at": "2025-11-21 05:01:18",
+      "album": {
+        "name": "Rift",
+        "url": "https://open.spotify.com/album/77YGetKAnRzaBYyzkQnW5T"
+      },
+      "artists": [
+        {
+          "name": "Good Kid",
+          "url": "https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP"
+        }
+      ],
+      "duration_ms": 182221,
+      "name": "Rift",
+      "url": "https://open.spotify.com/track/5S23vBGKmUzr3HSaHQxbzW"
+    },
+    {
+      "added_at": "2025-11-21 05:01:18",
+      "album": {
+        "name": "Leo Rising",
+        "url": "https://open.spotify.com/album/4lbss43NOjr21GnVNsxUYW"
+      },
+      "artists": [
+        {
+          "name": "Danko Jones",
+          "url": "https://open.spotify.com/artist/7CGoviGsNXYmGOBkXk8dtW"
+        }
+      ],
+      "duration_ms": 215279,
+      "name": "I Love It Louder",
+      "url": "https://open.spotify.com/track/4ajuLvDss1hpw1ba0UdcFA"
+    },
+    {
+      "added_at": "2025-11-21 05:01:18",
+      "album": {
+        "name": "SICK SICK SICK",
+        "url": "https://open.spotify.com/album/0wNYlsugxGT1Ky9yu5QWo2"
+      },
+      "artists": [
+        {
+          "name": "Stitched Up Heart",
+          "url": "https://open.spotify.com/artist/4XG961Y3fzZF5k2gfpnaNt"
+        },
+        {
+          "name": "Lauren Babic",
+          "url": "https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX"
+        },
+        {
+          "name": "Eyes Set To Kill",
+          "url": "https://open.spotify.com/artist/7omnn7IRrrxdMwSwchVxNP"
+        },
+        {
+          "name": "Judge & Jury",
+          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
+        }
+      ],
+      "duration_ms": 150726,
+      "name": "SICK SICK SICK",
+      "url": "https://open.spotify.com/track/7gQOCzvF4Yeej974BIwmGa"
+    },
+    {
+      "added_at": "2025-11-21 05:01:18",
+      "album": {
+        "name": "B-Sides + Rarities, Vol. 2",
+        "url": "https://open.spotify.com/album/14Ff66pOYbBLfLwgdMT6GK"
+      },
+      "artists": [
+        {
+          "name": "Said The Whale",
+          "url": "https://open.spotify.com/artist/0QTnH6UEP2jbZEVO6g6Vfe"
+        },
+        {
+          "name": "Molly Guldemond",
+          "url": "https://open.spotify.com/artist/2QglFA6VmwiCO44WtP7Fn7"
+        }
+      ],
+      "duration_ms": 140747,
+      "name": "Fourth of July",
+      "url": "https://open.spotify.com/track/0jVTBi4pGS3Te2nTCJHtcp"
+    },
     {
       "added_at": "2025-11-14 00:01:38",
       "album": {
@@ -1465,54 +1613,6 @@
       "url": "https://open.spotify.com/track/1o5j3WOJtAWBQaz3VMpD37"
     },
     {
-      "added_at": "2025-09-26 00:01:29",
-      "album": {
-        "name": "Love Or Pain",
-        "url": "https://open.spotify.com/album/6Y9CxrTtTiyxzueeR4ZyDY"
-      },
-      "artists": [
-        {
-          "name": "The Trews",
-          "url": "https://open.spotify.com/artist/2mCd5QO8EUB5rmbGUbCrTJ"
-        }
-      ],
-      "duration_ms": 221866,
-      "name": "Love Or Pain",
-      "url": "https://open.spotify.com/track/5nBpvgl2TSUiZgLE7S525p"
-    },
-    {
-      "added_at": "2025-09-26 00:01:29",
-      "album": {
-        "name": "Afterlife",
-        "url": "https://open.spotify.com/album/7KnvsiDkOyhhW6TFOreQzg"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Sands",
-          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
-        }
-      ],
-      "duration_ms": 173923,
-      "name": "Afterlife",
-      "url": "https://open.spotify.com/track/0GQkx88Fpkm7qlbrdggdNO"
-    },
-    {
-      "added_at": "2025-09-26 00:01:29",
-      "album": {
-        "name": "Willows and Sand",
-        "url": "https://open.spotify.com/album/5oQud5v5cV1EXkKgYUQ8iA"
-      },
-      "artists": [
-        {
-          "name": "Silver Wolf Band",
-          "url": "https://open.spotify.com/artist/4A8OuU3MiOK1mqQ2vEoM8N"
-        }
-      ],
-      "duration_ms": 265005,
-      "name": "Willows and Sand",
-      "url": "https://open.spotify.com/track/3Gy6o9mYuDMimcWN00WCLD"
-    },
-    {
       "added_at": "2025-09-19 00:01:10",
       "album": {
         "name": "For Those Who Play The Game",
@@ -1627,38 +1727,6 @@
       "duration_ms": 197484,
       "name": "Outrun",
       "url": "https://open.spotify.com/track/2IRfhO9PRc6nZ0vdUSqY3i"
-    },
-    {
-      "added_at": "2025-09-19 00:01:10",
-      "album": {
-        "name": "Future Present Tense",
-        "url": "https://open.spotify.com/album/7iwpKybf6XhJIlKAH7ICIz"
-      },
-      "artists": [
-        {
-          "name": "Ariel Posen",
-          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
-        }
-      ],
-      "duration_ms": 228200,
-      "name": "Future Present Tense",
-      "url": "https://open.spotify.com/track/28pAZrhXWKKqucGN1SmlS0"
-    },
-    {
-      "added_at": "2025-09-19 00:01:10",
-      "album": {
-        "name": "Friendship & Rock 'n' Roll",
-        "url": "https://open.spotify.com/album/00CQc4RN8EzyEfCiMk0skF"
-      },
-      "artists": [
-        {
-          "name": "Yukon Blonde",
-          "url": "https://open.spotify.com/artist/3CdvcTOH01EXzXu96afkSN"
-        }
-      ],
-      "duration_ms": 190954,
-      "name": "That Girl",
-      "url": "https://open.spotify.com/track/465iG5ttKfJKdKRW79lXe2"
     }
   ],
   "unique_name": "Rock Now",

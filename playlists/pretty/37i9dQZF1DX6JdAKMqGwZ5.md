@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 
 > Descubre los temas emergentes del mundo indie\. Foto: La Plazuela.
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,120 likes - 120 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,163 likes - 120 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 | 18 | [tu película](https://open.spotify.com/track/4OI9EHv2pSn7DXJEAIPF9j) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g) | [tu película](https://open.spotify.com/album/0oJgXwnQkGEAb3MqilPJD1) | 2:54 |
 | 19 | [Tachando los Días](https://open.spotify.com/track/0vXSZWdxv82KT8ccpwuzum) | [Ciao Marina](https://open.spotify.com/artist/2Xhr9xrjtvIj1mmkUDUUTo), [Mbongo](https://open.spotify.com/artist/7if5zjrPn38PiToOKC9DRE) | [Tachando los Días](https://open.spotify.com/album/3UL4sjMuMjkcBIjXZnkFwy) | 3:00 |
 | 20 | [Verónica](https://open.spotify.com/track/3ppKzJJeiveJtB03kuk43D) | [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [Tristán, Ahora Con Reloj](https://open.spotify.com/album/7oDxt14IyAbiLAxlCMLHEe) | 2:53 |
-| 21 | [Track 2](https://open.spotify.com/track/6hK8FKiHLLVZngoesfjnjK) | [Ede](https://open.spotify.com/artist/1O3NvmKUV1bKyER3apqx3Q) | [](https://open.spotify.com/album/null) | 0:00 |
+| 21 | [Esa piel tuya](https://open.spotify.com/track/6hK8FKiHLLVZngoesfjnjK) | [Ede](https://open.spotify.com/artist/1O3NvmKUV1bKyER3apqx3Q) | [FIERALINDA](https://open.spotify.com/album/4b1yPGXvUtjVrcSDc5A0yh) | 2:31 |
 | 22 | [filosofar](https://open.spotify.com/track/79S7y4SK9JH1jmq6rEtb5L) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [filosofar](https://open.spotify.com/album/5GGzlFiPvXm9FEtitwFQJ4) | 3:43 |
 | 23 | [Desde El Otro Lado](https://open.spotify.com/track/15Q2Sagth24Q16TEV00Jgh) | [Maren](https://open.spotify.com/artist/1dQFUUeoS0srP2hNrmzj5L) | [Qué Lástima](https://open.spotify.com/album/1eE90cOLAz09F4U22q6YG3) | 3:18 |
 | 24 | [Si Me Rezas \(Capítulo IX: Muerte\)](https://open.spotify.com/track/1A2Prk6a12q9wjTwTw6lWh) | [Víctor Monte](https://open.spotify.com/artist/3091wSOSRYaP4DUHhP1OHf), [STEGA](https://open.spotify.com/artist/54FIZzRLP1L5KDxc8wqSxd), [Civantos](https://open.spotify.com/artist/3P99SGNpmqT2TxP3mMpuNV) | [Donde Llegan Tus Manos](https://open.spotify.com/album/1hvQYQd9u1zmlkAExVga3e) | 3:11 |

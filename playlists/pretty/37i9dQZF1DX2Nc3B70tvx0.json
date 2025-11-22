@@ -1,12 +1,12 @@
 {
-  "description": "A delicious mix of new songs in high rotation. Cover: Grace Ives",
-  "num_followers": 1942070,
+  "description": "A delicious mix of new songs in high rotation. Cover: Hudson Freeman",
+  "num_followers": 1941987,
   "original_name": "Indie's Top 50",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM5ok+8GBX0OxgbrBOhSAT6gk6r7",
+  "snapshot_id": "AAAAAIDMSj+KuZ+mlf5SrYPrTamT7V3h",
   "tracks": [
     {
       "added_at": "2025-09-26 04:00:25",
@@ -43,6 +43,54 @@
       "duration_ms": 268886,
       "name": "Sympathy Magic",
       "url": "https://open.spotify.com/track/5NuZNC7s5Fe9EFHKpvVADb"
+    },
+    {
+      "added_at": "2025-11-21 04:43:13",
+      "album": {
+        "name": "Rock A Bye Baby, Glimmer of God",
+        "url": "https://open.spotify.com/album/7KXoonGSm7oBWn267d5XPa"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        }
+      ],
+      "duration_ms": 229813,
+      "name": "Prize Fighter",
+      "url": "https://open.spotify.com/track/0CnzuwAURBgG4Zd7vsR19w"
+    },
+    {
+      "added_at": "2025-10-31 04:00:42",
+      "album": {
+        "name": "Deadbeat",
+        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 298783,
+      "name": "My Old Ways",
+      "url": "https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq"
+    },
+    {
+      "added_at": "2025-11-21 04:43:13",
+      "album": {
+        "name": "If You Know Me / Wild Horses",
+        "url": "https://open.spotify.com/album/6BTPGJ3IgfRa43UKmD0Nw8"
+      },
+      "artists": [
+        {
+          "name": "Hudson Freeman",
+          "url": "https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8"
+        }
+      ],
+      "duration_ms": 203333,
+      "name": "If You Know Me",
+      "url": "https://open.spotify.com/track/1QnFKAPgZ7GI9sYITPuYyL"
     },
     {
       "added_at": "2025-10-31 04:00:42",
@@ -105,6 +153,42 @@
       "url": "https://open.spotify.com/track/3V4Cr62Dp1bQo5B98k3sDs"
     },
     {
+      "added_at": "2025-11-21 04:43:13",
+      "album": {
+        "name": "JET LAGGED",
+        "url": "https://open.spotify.com/album/1MqVWu2QqonaSzlpaBLKwV"
+      },
+      "artists": [
+        {
+          "name": "Lava La Rue",
+          "url": "https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43"
+        },
+        {
+          "name": "Foster The People",
+          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+        }
+      ],
+      "duration_ms": 195454,
+      "name": "JET LAGGED",
+      "url": "https://open.spotify.com/track/482mvThJO7wdJJjymB9PmC"
+    },
+    {
+      "added_at": "2025-11-21 04:43:13",
+      "album": {
+        "name": "Enemy",
+        "url": "https://open.spotify.com/album/3p3lmExl5r6M8ZV6kBLUl9"
+      },
+      "artists": [
+        {
+          "name": "Sassy 009",
+          "url": "https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L"
+        }
+      ],
+      "duration_ms": 191922,
+      "name": "Enemy",
+      "url": "https://open.spotify.com/track/3nvQr4XpiZFHuG0QLzh3V8"
+    },
+    {
       "added_at": "2025-10-31 04:00:42",
       "album": {
         "name": "Aging Young Women",
@@ -141,20 +225,20 @@
       "url": "https://open.spotify.com/track/3ueR9lZN5RE88U8WCtDtnw"
     },
     {
-      "added_at": "2025-10-31 04:00:42",
+      "added_at": "2025-11-21 04:43:13",
       "album": {
-        "name": "Deadbeat",
-        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
+        "name": "sugar",
+        "url": "https://open.spotify.com/album/0ERMomhnDVcjf6vccGuqJf"
       },
       "artists": [
         {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+          "name": "Truman Sinclair",
+          "url": "https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG"
         }
       ],
-      "duration_ms": 298783,
-      "name": "My Old Ways",
-      "url": "https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq"
+      "duration_ms": 172500,
+      "name": "sugar",
+      "url": "https://open.spotify.com/track/6MwfbZ8o7OZjY8C0HOHOuC"
     },
     {
       "added_at": "2025-10-03 04:00:45",
@@ -171,6 +255,22 @@
       "duration_ms": 210945,
       "name": "Au Pays du Cocaine",
       "url": "https://open.spotify.com/track/1g9GiiPPaL7KcDHlDzu7lT"
+    },
+    {
+      "added_at": "2025-11-21 04:43:13",
+      "album": {
+        "name": "Eden",
+        "url": "https://open.spotify.com/album/1PIpblTFI5xO71o0SWj5Ca"
+      },
+      "artists": [
+        {
+          "name": "Avalon Emerson",
+          "url": "https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz"
+        }
+      ],
+      "duration_ms": 247588,
+      "name": "Eden",
+      "url": "https://open.spotify.com/track/5jFiIiqGyS35QMov2WvFaT"
     },
     {
       "added_at": "2025-11-07 03:44:05",
@@ -237,6 +337,22 @@
       "url": "https://open.spotify.com/track/3OoEy74Z2neKejptWR4RIy"
     },
     {
+      "added_at": "2025-11-21 04:43:13",
+      "album": {
+        "name": "Letters From The Day",
+        "url": "https://open.spotify.com/album/5VX9FRu3o6y8cvbx4qv8EP"
+      },
+      "artists": [
+        {
+          "name": "Wasia Project",
+          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
+        }
+      ],
+      "duration_ms": 259073,
+      "name": "Letters From The Day",
+      "url": "https://open.spotify.com/track/6MkGpvikb539hjZWYzIyJz"
+    },
+    {
       "added_at": "2025-10-31 04:00:42",
       "album": {
         "name": "Pale Song / Love Is",
@@ -273,6 +389,26 @@
       "url": "https://open.spotify.com/track/3XBycqVB8UDEtEboLU9iJT"
     },
     {
+      "added_at": "2025-11-21 04:43:13",
+      "album": {
+        "name": "Pain & the people around me",
+        "url": "https://open.spotify.com/album/16RYcOy0DyFeIkI0SKZqQL"
+      },
+      "artists": [
+        {
+          "name": "Deem Spencer",
+          "url": "https://open.spotify.com/artist/4iXaGootDLE50qY42LCdnK"
+        },
+        {
+          "name": "Brian Nasty",
+          "url": "https://open.spotify.com/artist/5RpQGZtxRWXdEZpV7gNdvM"
+        }
+      ],
+      "duration_ms": 266166,
+      "name": "someone",
+      "url": "https://open.spotify.com/track/4pnJV33XLfXMeEZuNDav57"
+    },
+    {
       "added_at": "2025-11-14 02:56:38",
       "album": {
         "name": "Liquorice",
@@ -303,6 +439,22 @@
       "duration_ms": 275842,
       "name": "Back To You",
       "url": "https://open.spotify.com/track/47rCs1JJXC6AG20WKbyOUR"
+    },
+    {
+      "added_at": "2025-10-31 04:00:42",
+      "album": {
+        "name": "Ego Death At A Bachelorette Party",
+        "url": "https://open.spotify.com/album/7yuacKJrB2f9uISasjM0Kv"
+      },
+      "artists": [
+        {
+          "name": "Hayley Williams",
+          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+        }
+      ],
+      "duration_ms": 203710,
+      "name": "Good Ol' Days",
+      "url": "https://open.spotify.com/track/7BZFBA47IscACSmuGZ67On"
     },
     {
       "added_at": "2025-10-31 04:00:42",
@@ -393,6 +545,22 @@
       "url": "https://open.spotify.com/track/1GLpxKAMh0NvdfFD6F8uXs"
     },
     {
+      "added_at": "2025-11-21 04:43:13",
+      "album": {
+        "name": "Coming Up",
+        "url": "https://open.spotify.com/album/17jbXliKdkU8QEkiJ6tVlu"
+      },
+      "artists": [
+        {
+          "name": "Active Child",
+          "url": "https://open.spotify.com/artist/54KTsBl98buzGkELjGlnuU"
+        }
+      ],
+      "duration_ms": 196213,
+      "name": "Coming Up",
+      "url": "https://open.spotify.com/track/54oWq2u1IVqanzTdyihMcg"
+    },
+    {
       "added_at": "2025-08-22 04:00:32",
       "album": {
         "name": "Hey You",
@@ -407,22 +575,6 @@
       "duration_ms": 211313,
       "name": "Hey You",
       "url": "https://open.spotify.com/track/55hQIuN7pJ7pHjNy9RO4y0"
-    },
-    {
-      "added_at": "2025-10-31 04:00:42",
-      "album": {
-        "name": "Ego Death At A Bachelorette Party",
-        "url": "https://open.spotify.com/album/7yuacKJrB2f9uISasjM0Kv"
-      },
-      "artists": [
-        {
-          "name": "Hayley Williams",
-          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
-        }
-      ],
-      "duration_ms": 203710,
-      "name": "Good Ol' Days",
-      "url": "https://open.spotify.com/track/7BZFBA47IscACSmuGZ67On"
     },
     {
       "added_at": "2025-10-31 04:00:42",
@@ -541,22 +693,6 @@
       "url": "https://open.spotify.com/track/2nRvPmnxd4FW7AvPY70FvQ"
     },
     {
-      "added_at": "2025-11-07 03:44:05",
-      "album": {
-        "name": "Forever Lover (\u6c38\u8fdc\u7684\u7231\u4eba)",
-        "url": "https://open.spotify.com/album/60OJuNsI6hb9t9jkNrl6fN"
-      },
-      "artists": [
-        {
-          "name": "Chinese American Bear",
-          "url": "https://open.spotify.com/artist/6WIb9mpc6lyBzAjTeGWvEh"
-        }
-      ],
-      "duration_ms": 213023,
-      "name": "Forever Lover (\u6c38\u8fdc\u7684\u7231\u4eba)",
-      "url": "https://open.spotify.com/track/1osioxQykglfD6mNLzfwB1"
-    },
-    {
       "added_at": "2025-10-31 04:00:42",
       "album": {
         "name": "Name the Band",
@@ -595,22 +731,6 @@
     {
       "added_at": "2025-10-31 04:00:42",
       "album": {
-        "name": "Private",
-        "url": "https://open.spotify.com/album/3ZHB2EDswWPDigqKXI59CL"
-      },
-      "artists": [
-        {
-          "name": "The Neighbourhood",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
-        }
-      ],
-      "duration_ms": 229386,
-      "name": "Private",
-      "url": "https://open.spotify.com/track/1735xgk2J8CHCGY2LS1HM6"
-    },
-    {
-      "added_at": "2025-10-31 04:00:42",
-      "album": {
         "name": "Queen of Globes and Mirrors",
         "url": "https://open.spotify.com/album/7eukxMrejz3e2lAa6MvI4i"
       },
@@ -623,6 +743,22 @@
       "duration_ms": 170405,
       "name": "Queen of Globes and Mirrors",
       "url": "https://open.spotify.com/track/0WVUqSVEPbxteCovUZxi3t"
+    },
+    {
+      "added_at": "2025-08-22 04:00:32",
+      "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB"
+      },
+      "artists": [
+        {
+          "name": "Dijon",
+          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
+        }
+      ],
+      "duration_ms": 268410,
+      "name": "Yamaha",
+      "url": "https://open.spotify.com/track/6qR5YGunNSASaabs4kJB9V"
     },
     {
       "added_at": "2025-10-31 04:00:42",
@@ -709,26 +845,6 @@
       "url": "https://open.spotify.com/track/6VXIZWHmdOTHIFhsSkYFgQ"
     },
     {
-      "added_at": "2025-10-31 04:00:42",
-      "album": {
-        "name": "RUDE",
-        "url": "https://open.spotify.com/album/07aVgAaXvYBOPFY0kWX6HK"
-      },
-      "artists": [
-        {
-          "name": "Spiritual Cramp",
-          "url": "https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj"
-        },
-        {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
-        }
-      ],
-      "duration_ms": 230800,
-      "name": "You've Got My Number",
-      "url": "https://open.spotify.com/track/5VJS4UH2VccJoUgc9bsIPW"
-    },
-    {
       "added_at": "2025-10-10 04:00:20",
       "album": {
         "name": "The Coward Forgets His Nightmare",
@@ -759,22 +875,6 @@
       "duration_ms": 163133,
       "name": "Boomerang",
       "url": "https://open.spotify.com/track/5UlFWR77V8IaJaa16Tz5Gd"
-    },
-    {
-      "added_at": "2025-10-31 04:00:42",
-      "album": {
-        "name": "Pea",
-        "url": "https://open.spotify.com/album/0YAQV6g1KxklWxsELORjFV"
-      },
-      "artists": [
-        {
-          "name": "Gliiico",
-          "url": "https://open.spotify.com/artist/0ZNWpCvfaeqJo4sbjlBUmK"
-        }
-      ],
-      "duration_ms": 180466,
-      "name": "Pea",
-      "url": "https://open.spotify.com/track/5ti4NlyfB9oqbvYNYFeiL1"
     },
     {
       "added_at": "2025-10-10 04:00:20",
@@ -823,22 +923,6 @@
       "duration_ms": 214142,
       "name": "Last Time",
       "url": "https://open.spotify.com/track/6EWbV0FVnL9CHiSrMyhtpR"
-    },
-    {
-      "added_at": "2025-08-22 04:00:32",
-      "album": {
-        "name": "Baby",
-        "url": "https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB"
-      },
-      "artists": [
-        {
-          "name": "Dijon",
-          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
-        }
-      ],
-      "duration_ms": 268410,
-      "name": "Yamaha",
-      "url": "https://open.spotify.com/track/6qR5YGunNSASaabs4kJB9V"
     },
     {
       "added_at": "2025-09-12 00:38:11",

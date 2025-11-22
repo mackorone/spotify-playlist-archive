@@ -1,12 +1,12 @@
 {
   "description": "This is Tony! Toni! Ton\u00e9!. The essential tracks, all in one playlist.",
-  "num_followers": 15341,
+  "num_followers": 15343,
   "original_name": "This Is Tony! Toni! Ton\u00e9!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aR0IgAAAAAA9AEbN3IgyDcnIawS8bBt0",
+  "snapshot_id": "aR5aAAAAAAAzOlSnlCY7+LilXWWknTKL",
   "tracks": [
     {
       "added_at": null,
@@ -531,6 +531,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "It's a Beautiful Thing",
+        "url": "https://open.spotify.com/album/23WqQ1vWS6lI5NpqFO2G3m"
+      },
+      "artists": [
+        {
+          "name": "Tony! Toni! Ton\u00e9!",
+          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
+        }
+      ],
+      "duration_ms": 257790,
+      "name": "It's a Beautiful Thing - Sly Mix",
+      "url": "https://open.spotify.com/track/5KfFIkuhL7setqTd9DbXDa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "More than Flowers",
         "url": "https://open.spotify.com/album/57ZDomiOueTXgd8bEqbNx9"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 187052,
       "name": "More than Flowers",
       "url": "https://open.spotify.com/track/5sstkTEqnB157mqoe3qytV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "It's a Beautiful Thing",
-        "url": "https://open.spotify.com/album/23WqQ1vWS6lI5NpqFO2G3m"
-      },
-      "artists": [
-        {
-          "name": "Tony! Toni! Ton\u00e9!",
-          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
-        }
-      ],
-      "duration_ms": 257790,
-      "name": "It's a Beautiful Thing - Sly Mix",
-      "url": "https://open.spotify.com/track/5KfFIkuhL7setqTd9DbXDa"
     },
     {
       "added_at": null,
@@ -599,26 +599,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Going Down",
-        "url": "https://open.spotify.com/album/6KW4VeHycSLe3rBh4sTqQd"
+        "name": "Swing",
+        "url": "https://open.spotify.com/album/173zgLYUQJXLa3NXTKgvce"
       },
       "artists": [
-        {
-          "name": "Iam Astro",
-          "url": "https://open.spotify.com/artist/6M5Zqx04FgTOT9hFQ3127P"
-        },
-        {
-          "name": "Jv01",
-          "url": "https://open.spotify.com/artist/3mDqaTnON2hDcDzlXLeIhU"
-        },
         {
           "name": "Tony! Toni! Ton\u00e9!",
           "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
         }
       ],
-      "duration_ms": 177454,
-      "name": "Going Down",
-      "url": "https://open.spotify.com/track/5CCukfXPy9NGfXzKKMIB4x"
+      "duration_ms": 188003,
+      "name": "It Feels Good",
+      "url": "https://open.spotify.com/track/1j9jJcfR7xK154OX6XTwFj"
     },
     {
       "added_at": null,
@@ -655,18 +647,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Swing",
-        "url": "https://open.spotify.com/album/173zgLYUQJXLa3NXTKgvce"
+        "name": "Going Down",
+        "url": "https://open.spotify.com/album/6KW4VeHycSLe3rBh4sTqQd"
       },
       "artists": [
+        {
+          "name": "Iam Astro",
+          "url": "https://open.spotify.com/artist/6M5Zqx04FgTOT9hFQ3127P"
+        },
+        {
+          "name": "Jv01",
+          "url": "https://open.spotify.com/artist/3mDqaTnON2hDcDzlXLeIhU"
+        },
         {
           "name": "Tony! Toni! Ton\u00e9!",
           "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
         }
       ],
-      "duration_ms": 188003,
-      "name": "It Feels Good",
-      "url": "https://open.spotify.com/track/1j9jJcfR7xK154OX6XTwFj"
+      "duration_ms": 177454,
+      "name": "Going Down",
+      "url": "https://open.spotify.com/track/5CCukfXPy9NGfXzKKMIB4x"
     },
     {
       "added_at": null,

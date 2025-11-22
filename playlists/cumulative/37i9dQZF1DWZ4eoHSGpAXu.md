@@ -4,7 +4,7 @@
 
 > Get your midweek right with these uplifting songs of praise and worship.
 
-145 songs - 14 hr 0 min
+146 songs - 14 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Death Was Arrested \(feat\. Seth Condrey\)](https://open.spotify.com/track/1rXQLRlZfNTj8uaxIsEZQi) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Seth Condrey](https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg) | [Death Was Arrested \(feat\. Seth Condrey\)](https://open.spotify.com/album/4MkIi2td3gzbKS3fgNqvJr) | 4:55 | 2019-11-27 | 2024-04-19 |
 | [Deeper Water](https://open.spotify.com/track/1sPYj7Rd00yeMRGefniYuT) | [Ry Cox](https://open.spotify.com/artist/16gW6AKnwvZj4t09Jfv4ap) | [Love Unending](https://open.spotify.com/album/2ZIucC5ZWuMUM4Y8cVZFpb) | 4:30 | 2019-11-27 | 2024-06-23 |
 | [Defender \(Single Version\)](https://open.spotify.com/track/1tXwCl86WZDkyTMPVrRwCP) | [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [Defender \(Single Version\)](https://open.spotify.com/album/1p6Eq4ist8ZcEhQdhwYkoi) | 4:39 | 2019-11-27 |  |
-| [Dying To Be Different \- Live](https://open.spotify.com/track/05y8D3zdTeBjo8t0aVh4kx) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [Dying To Be Different \(Live\)](https://open.spotify.com/album/3OyKUyNPeemPdyxAFhohgn) | 4:27 | 2025-07-25 |  |
+| [Dying To Be Different \- Live](https://open.spotify.com/track/05y8D3zdTeBjo8t0aVh4kx) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [Dying To Be Different \(Live\)](https://open.spotify.com/album/3OyKUyNPeemPdyxAFhohgn) | 4:27 | 2025-07-25 | 2025-11-22 |
 | [Enough \(Live\)](https://open.spotify.com/track/1BILFyQSq3qQnvrjeO6Pmh) | [Union Creative](https://open.spotify.com/artist/5yU2qZj0bSVbYPXREUulnX) | [All Things New \(Live\)](https://open.spotify.com/album/5Cs8VSRTYu8s6dPKBSZhGv) | 5:35 | 2019-11-27 |  |
 | [EVERYTHING EVERYTHING](https://open.spotify.com/track/2pMc6SJXAZe1HNwY8lQLby) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [EVERYTHING EVERYTHING](https://open.spotify.com/album/3zcltttb8GQ6MUn81xOlrs) | 3:20 | 2019-11-27 | 2024-06-23 |
 | [Fighting For Me](https://open.spotify.com/track/5StojELSdCvj23qhF9OxDW) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Fighting For Me](https://open.spotify.com/album/47d2vWvqayOsNeFeRI43ba) | 3:49 | 2019-11-27 | 2024-06-23 |
@@ -139,6 +139,7 @@
 | [Way Maker \- Live](https://open.spotify.com/track/3BcPAGy6P7gWiL7DAPH85t) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Way Maker](https://open.spotify.com/album/4bVH31Z9J7wPG2q8skaeII) | 8:23 | 2019-11-27 |  |
 | [Way Maker \- Live](https://open.spotify.com/track/40ozK0lCJ0EQzVGWsCNUhk) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Better Word](https://open.spotify.com/album/5PobE1kR95I2qvrKI1rDak) | 8:23 | 2019-11-27 | 2024-04-19 |
 | [Way Maker \- Live](https://open.spotify.com/track/4zEj0A56iRFSSvyDyqNOQw) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Way Maker](https://open.spotify.com/album/5QiQRAJgvxkaaJFI0fzO6G) | 8:23 | 2019-11-27 | 2022-11-13 |
+| [What A God \- Live](https://open.spotify.com/track/5IB4ugsKzjD4hWuIEFZtAE) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [ONE HOUSE](https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn), [Kenzie Walker](https://open.spotify.com/artist/4VJFpqwAvZKRah8klcHmFy), [Chelsea Plank](https://open.spotify.com/artist/2rZyX9csPrIfGn1E7iSF7y), [Roosevelt Stewart](https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk) | [Move of God \(Live\)](https://open.spotify.com/album/0ihbB3q54H2tUCzS5I7Gsv) | 7:14 | 2025-11-21 |  |
 | [What You Said \- Live](https://open.spotify.com/track/5ZtnHKAsaog7mGTsaKDAEt) | [Jon Egan](https://open.spotify.com/artist/1S0iYQGlUIb8gJFOXEnaey) | [Unveil](https://open.spotify.com/album/15YnOtSDhaYHqVfr27bjhM) | 6:48 | 2019-11-27 | 2025-05-01 |
 | [When It Comes to You](https://open.spotify.com/track/2j70cErAhBQ8Kmqlc3ePIl) | [RNW Music](https://open.spotify.com/artist/4LfdYq6VdNIwj6Cs5x9EKi) | [When It Comes to You \(Deluxe\)](https://open.spotify.com/album/3NsAhgtYRgjWmfQFOAG10r) | 6:47 | 2019-11-27 | 2022-11-13 |
 | [When It Comes to You](https://open.spotify.com/track/7juggaI6hvrlRJq7K0mAUH) | [RNW Music](https://open.spotify.com/artist/4LfdYq6VdNIwj6Cs5x9EKi) | [When It Comes to You](https://open.spotify.com/album/7iEMna8XHGFwwiR17SqtkV) | 6:47 | 2019-11-27 | 2024-04-19 |

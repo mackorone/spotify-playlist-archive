@@ -4,7 +4,7 @@
 
 > Highlighting key releases from this month's most exciting songwriters from around the globe\. Cover: <a href="https://open.spotify.com/playlist/37i9dQZF1EFOGG1E7V1oRH">Jo Caleb</a>
 
-715 songs - 1 day 14 hr 28 min
+716 songs - 1 day 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [12 Blown Tires](https://open.spotify.com/track/43sc5VGNzFauUOnepR9VSc) | [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [Face Down In The Garden](https://open.spotify.com/album/1oFMLVK71dL1Jpq6aoCoIq) | 4:12 | 2025-05-01 | 2025-06-05 |
 | [12 to 12](https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 4:02 | 2025-09-05 | 2025-10-04 |
 | [3 Months](https://open.spotify.com/track/1aAm1mTO1kxTRH85OWuDB4) | [Zia Victoria](https://open.spotify.com/artist/2nbcrlus9x9MaFzxi8nhNE) | [3 Months](https://open.spotify.com/album/7wPyjyowUucXtf9EY9ieUl) | 3:23 | 2024-01-22 | 2024-03-01 |
+| [4UREYESONLY](https://open.spotify.com/track/7ItCPQmu6D0xyJpGyruuqL) | [Babe America](https://open.spotify.com/artist/5oPCa0GsQjPlRdOdFRoY6Z), [Max Pedra](https://open.spotify.com/artist/1DaU7Ttxqvu1v0Ue3vIeaW) | [4UREYESONLY](https://open.spotify.com/album/3W3YlgHHgq0idqib6soAZF) | 2:09 | 2025-11-07 |  |
 | [911](https://open.spotify.com/track/4VlioYoSh1fT16hnERNsfF) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [911](https://open.spotify.com/album/0prR2MAykHTFdV5rBP6uBV) | 2:48 | 2024-05-02 | 2024-06-08 |
 | [A Daydream in Camelot](https://open.spotify.com/track/1AMLAzWVTQpCN0Lz9JdZe4) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Legends, Myths and Lavender](https://open.spotify.com/album/5A2whd1HFhaMTAfDkPJci8) | 2:40 | 2024-06-07 | 2024-07-06 |
 | [A La Mode](https://open.spotify.com/track/1cHLSnf5ZHpVxgq500J4Ns) | [Raissa](https://open.spotify.com/artist/1C9U2fqP6cYCEwb73uv2LS) | [A La Mode](https://open.spotify.com/album/3GGlNk4gopWsOTTKmR5wUV) | 2:32 | 2024-03-01 | 2024-05-03 |

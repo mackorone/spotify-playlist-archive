@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-20",
-  "description": "\u207a\u2027\u208a\u02da \u0f50\u0f72A curated space for the avant-garde\u22c6\u0f4b\u0f80 \u02da\u208a\u2027\u207a Cover: KABEAUSH\u00c9",
+  "description": "\u207a\u2027\u208a\u02da \u0f50\u0f72A curated space for the avant-garde\u22c6\u0f4b\u0f80 \u02da\u208a\u2027\u207a Cover: Labrinth",
   "name": "Proto-",
   "tracks": [
     {
@@ -3776,7 +3776,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 268000,
       "name": "BLACK HONEY",
       "url": "https://open.spotify.com/track/4k7xlAymPBgxqJSdMgHfJX"
@@ -6478,7 +6478,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 155893,
       "name": "Connerie",
       "url": "https://open.spotify.com/track/6aIZvItDX7NWMRh9MatY1C"
@@ -8152,7 +8152,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 156135,
       "name": "dis moi o\u00f9, dis moi quand (feat. Hubert Lenoir)",
       "url": "https://open.spotify.com/track/3eitktT0QgkNa5OgTGp5hK"
@@ -9188,7 +9188,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 163064,
       "name": "ECHO",
       "url": "https://open.spotify.com/track/7Hcnebss2poEHrJJUiS0QN"
@@ -12161,6 +12161,28 @@
     },
     {
       "album": {
+        "name": "Vicious Circles",
+        "url": "https://open.spotify.com/album/2h2JIweAbTJosHzw5gwuqW"
+      },
+      "artists": [
+        {
+          "name": "Sinjin Hawke",
+          "url": "https://open.spotify.com/artist/5qKCgbxBDmDc9Ckgmt4EaN"
+        },
+        {
+          "name": "Zora Jones",
+          "url": "https://open.spotify.com/artist/5zJUDjV6daKYTo1H7OoFAY"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174243,
+      "name": "God",
+      "url": "https://open.spotify.com/track/678p2xQ2SXuCunDfp9KiPB"
+    },
+    {
+      "album": {
         "name": "God Is The Space Between Us",
         "url": "https://open.spotify.com/album/0URZfqUQlB4JreGiq1KiK9"
       },
@@ -14815,6 +14837,24 @@
     },
     {
       "album": {
+        "name": "I'm a memory",
+        "url": "https://open.spotify.com/album/421Wt2EFpZCjWua1rId0WM"
+      },
+      "artists": [
+        {
+          "name": "Emma Beko",
+          "url": "https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162550,
+      "name": "I'm a memory",
+      "url": "https://open.spotify.com/track/0nTyvtckqQ4hFzpM2Drn2J"
+    },
+    {
+      "album": {
         "name": "i'm an alchemist",
         "url": "https://open.spotify.com/album/0tDENFNjMht52wJowGAzRE"
       },
@@ -15306,6 +15346,24 @@
       "duration_ms": 154400,
       "name": "Immaculate",
       "url": "https://open.spotify.com/track/21XJd63KiArnOgo39sJezL"
+    },
+    {
+      "album": {
+        "name": "IMPLOSION",
+        "url": "https://open.spotify.com/album/02uOUfa2VRpL4MMGH9fxU2"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200656,
+      "name": "IMPLOSION",
+      "url": "https://open.spotify.com/track/5v64rhcXYgkQhdTp2tlVD8"
     },
     {
       "album": {
@@ -17379,6 +17437,24 @@
     },
     {
       "album": {
+        "name": "Paradise Now & Forever",
+        "url": "https://open.spotify.com/album/2Ez0tq5fIpDfI2L3jZQdU0"
+      },
+      "artists": [
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215531,
+      "name": "Lipdance",
+      "url": "https://open.spotify.com/track/5b2nQ3pCgh8hfM6DH2rt8S"
+    },
+    {
+      "album": {
         "name": "Lipsync",
         "url": "https://open.spotify.com/album/6aaxvD1ddFiPcwvN8BkXbD"
       },
@@ -18270,7 +18346,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 238594,
       "name": "L\u00e1grimas de Sequ\u00eda",
       "url": "https://open.spotify.com/track/2JjuWyy4TY3xyePT0yZJSt"
@@ -18400,6 +18476,28 @@
       "duration_ms": 201339,
       "name": "Mahal",
       "url": "https://open.spotify.com/track/0iiB9CYptXO5Fz728LHHsQ"
+    },
+    {
+      "album": {
+        "name": "Make It Work",
+        "url": "https://open.spotify.com/album/7iFai9pwfc6Wwj5HYVzPNd"
+      },
+      "artists": [
+        {
+          "name": "bradeazy",
+          "url": "https://open.spotify.com/artist/1dESZUZevzhd5dzq9ZsMLI"
+        },
+        {
+          "name": "TyriqueOrDie",
+          "url": "https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171380,
+      "name": "Make It Work",
+      "url": "https://open.spotify.com/track/0KPlbfJ7e8Beufds7pILpH"
     },
     {
       "album": {
@@ -18924,6 +19022,24 @@
       "duration_ms": 298160,
       "name": "Mercury",
       "url": "https://open.spotify.com/track/3ixe45hov7EBKXm8tYBmvX"
+    },
+    {
+      "album": {
+        "name": "MERCY KILL",
+        "url": "https://open.spotify.com/album/27HwRwv4F0AbZKoZibR1Cs"
+      },
+      "artists": [
+        {
+          "name": "Alice Glass",
+          "url": "https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149600,
+      "name": "MERCY KILL",
+      "url": "https://open.spotify.com/track/79fO5OhBXlNVkHtj9cnMmS"
     },
     {
       "album": {
@@ -27534,7 +27650,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 194754,
       "name": "Special",
       "url": "https://open.spotify.com/track/7HWDQfrQvnAXp5Xk29xqh7"
@@ -29156,6 +29272,24 @@
       "duration_ms": 257423,
       "name": "Taste",
       "url": "https://open.spotify.com/track/66A0zzI7a5GPk9pwPJknNG"
+    },
+    {
+      "album": {
+        "name": "TASTY",
+        "url": "https://open.spotify.com/album/7zp2TBTMWbmiDWAVh8yfpB"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144200,
+      "name": "TASTY",
+      "url": "https://open.spotify.com/track/4XqpRH4wcNna6H1fEaSghG"
     },
     {
       "album": {
@@ -32796,7 +32930,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 290618,
       "name": "Where To Look",
       "url": "https://open.spotify.com/track/6fp01DAoqsZNyTwZidZ74I"

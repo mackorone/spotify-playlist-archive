@@ -2,9 +2,9 @@
 
 ### [Epic & Melodic](https://open.spotify.com/playlist/37i9dQZF1DX37bXS7EGI3f)
 
-> Symphonic and power metal at its most epic\. Cover: Battle Beast
+> Symphonic and power metal at its most epic\. Cover: Beyond The Black
 
-703 songs - 2 day 5 hr 20 min
+704 songs - 2 day 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,6 +221,7 @@
 | [Fellows of the Hammer](https://open.spotify.com/track/2RyG06POk4ybd4B0CZC02k) | [Wind Rose](https://open.spotify.com/artist/67ps5pbKVO7V9Fcb4lTIXz) | [Warfront](https://open.spotify.com/album/5Jf1NavkE0nEpzo2rnjMrL) | 6:15 | 2022-07-08 | 2024-04-19 |
 | [Fellows Of The Hammer](https://open.spotify.com/track/7CCuImUVT6t9M8VYWoDu32) | [Wind Rose](https://open.spotify.com/artist/67ps5pbKVO7V9Fcb4lTIXz) | [Fellows Of The Hammer](https://open.spotify.com/album/3eYfoatfcuFQr8dNaXYwK3) | 6:15 | 2022-06-11 | 2022-07-29 |
 | [Femme Fatale](https://open.spotify.com/track/4XmejrQR5ZU1qTa8Mo1GSg) | [Exit Eden](https://open.spotify.com/artist/3h9p6ezLoqYJ0viEfqGE4j) | [Femmes Fatales](https://open.spotify.com/album/3fFk32pP90tlCnDvDhdY85) | 4:45 | 2024-02-23 | 2024-04-19 |
+| [Field of Swords](https://open.spotify.com/track/2ULATnbyvbvqH1IZey2xb3) | [Bloodbound](https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6) | [Field of Swords](https://open.spotify.com/album/7Emw3aKs6NFzesCtjH4qbr) | 4:11 | 2025-11-21 |  |
 | [Fight](https://open.spotify.com/track/0eQLg5pGbPIxV04WgAgmma) | [Warkings](https://open.spotify.com/artist/7DXUeaMULtMVFmmaKFzH3E) | [Fight](https://open.spotify.com/album/7cIOcTijBJW1ubfDCfMDLm) | 3:59 | 2021-06-19 | 2021-08-21 |
 | [Fight the Tide](https://open.spotify.com/track/7x1BkDkUOi6qHeptyZBOaE) | [Jonathan Young](https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl), [Colm R\. McGuinness](https://open.spotify.com/artist/2hwZ6O8nd7zKSUqRhYPo5U), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [Fight the Tide](https://open.spotify.com/album/46PoeCkqWmFFVstUUxZ77h) | 3:26 | 2023-07-17 | 2025-08-16 |
 | [Finders Keepers](https://open.spotify.com/track/4uGe16d67Xmbnk0p2pFyxq) | [Their Dogs Were Astronauts](https://open.spotify.com/artist/4Z9zaQ8l8EbHdZPwaP691h), [Ian Urbina](https://open.spotify.com/artist/7miGJahGF5JYOunptmXsQz) | [Charge Discharge \(Inspired by 'The Outlaw Ocean' a book by Ian Urbina\)](https://open.spotify.com/album/1unkhdyE4oOs8ChD5Nl0ub) | 3:44 | 2022-07-13 | 2022-07-23 |
@@ -303,7 +304,7 @@
 | [In Times of Despair](https://open.spotify.com/track/3CPTxcIAGwHLmWRDcKOiiv) | [Circus of Rock](https://open.spotify.com/artist/518jW2ZS5MdaqOKpQ5aX1q), [Elize Ryd](https://open.spotify.com/artist/4aHpq3SeE9HiKNft9Bcj55) | [In Times of Despair](https://open.spotify.com/album/4Jom2FViB0yuDP1OZGr00b) | 3:56 | 2021-07-10 | 2022-04-02 |
 | [Inquisition](https://open.spotify.com/track/1dh8SWXV7lGsmcjQpoIVJj) | [Burning Witches](https://open.spotify.com/artist/0eNuNAhL4dW2nvKbSe2mS8) | [Inquisition](https://open.spotify.com/album/1vtYXlNR6avt28pSZnJqhT) | 5:41 | 2025-06-13 | 2025-08-21 |
 | [Insatiable](https://open.spotify.com/track/3Ps4E6U1OgnpSbPay4HFoJ) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [The Catalyst](https://open.spotify.com/album/0Rfiyvva6juwbWHRApI5Hj) | 2:59 | 2024-02-23 | 2024-04-16 |
-| [Interrogativa Cantilena](https://open.spotify.com/track/6oQaYzijl3xEoX1a8P7Foz) | [Korpiklaani](https://open.spotify.com/artist/521Yl3LUvD7G9dMRO4fpCy), [Kevin Ridley](https://open.spotify.com/artist/0Z1PQIOw4Hq35PcvDFEbR3) | [Interrogativa Cantilena](https://open.spotify.com/album/5DAq7mFDpXPw7dKZDKfetl) | 3:48 | 2022-06-11 |  |
+| [Interrogativa Cantilena](https://open.spotify.com/track/6oQaYzijl3xEoX1a8P7Foz) | [Korpiklaani](https://open.spotify.com/artist/521Yl3LUvD7G9dMRO4fpCy), [Kevin Ridley](https://open.spotify.com/artist/0Z1PQIOw4Hq35PcvDFEbR3) | [Interrogativa Cantilena](https://open.spotify.com/album/5DAq7mFDpXPw7dKZDKfetl) | 3:48 | 2022-06-11 | 2025-11-22 |
 | [Into the Fray](https://open.spotify.com/track/7AfWTnag2fhUVKY8oklYGN) | [Jani Liimatainen](https://open.spotify.com/artist/15o2IVJ6hHAxdBBvAjjtn9), [Timo Kotipelto](https://open.spotify.com/artist/6QUvv3P8ejJWoHqZNwnUQG) | [Into the Fray](https://open.spotify.com/album/1i56v9dkURFNj7XHoundjA) | 5:33 | 2022-04-08 | 2022-05-07 |
 | [Invaders](https://open.spotify.com/track/4bKdrTctrZRcfsY2nSv1Kc) | [Civil War](https://open.spotify.com/artist/6lGzC0JJCotCU9QZ2Lgi8T) | [Invaders](https://open.spotify.com/album/3BEw4TA7gQa6rmOAYOmkkN) | 4:32 | 2022-04-08 | 2022-05-14 |
 | [IRIDE](https://open.spotify.com/track/17UbjWjl5deZmzN8tHGkrw) | [NanowaR of Steel](https://open.spotify.com/artist/7jw9vF1hFRp1k8dDRNRiC5) | [IRIDE](https://open.spotify.com/album/59HFcHsw1hu9xIVWPXLfHb) | 4:33 | 2025-06-20 | 2025-09-23 |

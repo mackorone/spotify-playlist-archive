@@ -2,7 +2,7 @@
 
 ### [AULAS](https://open.spotify.com/playlist/37i9dQZF1DWSIvbYYt1Dvi)
 
-> há quem dê AULAS em aparecer dunaada
+> eles tiram onda, a NandaTsunami
 
 493 songs - 1 day 2 hr 55 min
 

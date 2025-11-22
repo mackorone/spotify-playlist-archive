@@ -2,9 +2,9 @@
 
 ### [soda](https://open.spotify.com/playlist/37i9dQZF1DXaK0O81Xtkis)
 
-> a little indie, a little pop, soda featuring The Aces
+> a little indie, a little pop, soda featuring Pash
 
-1,489 songs - 3 day 2 hr 16 min
+1,493 songs - 3 day 2 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -291,6 +291,7 @@
 | [Copenhagen](https://open.spotify.com/track/28E1szJlW78BvA6HpCybgH) | [FRENSHIP](https://open.spotify.com/artist/7xEFii6utZmQ61kX59HmLH) | [Copenhagen](https://open.spotify.com/album/5UlocQNBaXROdSOgONgpor) | 3:29 | 2023-09-01 | 2023-10-14 |
 | [Coping on Unemployment](https://open.spotify.com/track/1ckD1kD5dXuV0LlbWyYcRU) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Coping on Unemployment](https://open.spotify.com/album/5lh7UQoL2Sd9HJv6kFEsTw) | 3:48 | 2023-07-28 | 2023-09-30 |
 | [coraline](https://open.spotify.com/track/35UnweHI2mOrBbIIlYNClF) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [coraline](https://open.spotify.com/album/5mfxTjYFFXaQ1MIqxybwU2) | 2:49 | 2025-01-31 | 2025-05-17 |
+| [COULDA NOT](https://open.spotify.com/track/4ZCiBayQ8AFbOW3kQuXn9y) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [COULDA NOT](https://open.spotify.com/album/7C8y6bTlVS6lzvLMi1WXRs) | 2:42 | 2025-11-21 |  |
 | [Count of 3](https://open.spotify.com/track/4pTjnzwlqVtQ3Im39sYfpQ) | [Johnny Valentine](https://open.spotify.com/artist/2Gl2a6WfXvDy8TTsHPFOaI) | [Count of 3](https://open.spotify.com/album/3BvjBgLTDNzu92wdr6RXe1) | 2:24 | 2024-10-25 | 2024-12-14 |
 | [Cowboys Don’t Cry](https://open.spotify.com/track/13plTOJUDmgBrTEd7yzTgq) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Cowboys Don’t Cry](https://open.spotify.com/album/3vAAKKBTjbIAKcJDprhhEQ) | 3:09 | 2022-01-14 | 2022-02-26 |
 | [Crash](https://open.spotify.com/track/5cdJiIDHw2FwVblQYT7fN0) | [Faime](https://open.spotify.com/artist/6bNCZ9mUA7Qpg8Vu6WGox4) | [Crash](https://open.spotify.com/album/5MYFBgOf8RoVql9hXoVHfa) | 2:38 | 2022-07-22 | 2022-08-27 |
@@ -788,6 +789,7 @@
 | [lips](https://open.spotify.com/track/2wQ7cDLALd9OlYMEkhtgwx) | [Haiden Henderson](https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p) | [lips](https://open.spotify.com/album/4E8mMaltzJAmoAPciU7S3b) | 2:38 | 2025-05-30 | 2025-08-02 |
 | [Little Acts Of Violence](https://open.spotify.com/track/3GTLg27Ds17WYPaie2JRBG) | [Ray Bull](https://open.spotify.com/artist/3P4jnIuA9z5WsvkbsoqkTu) | [Little Acts Of Violence](https://open.spotify.com/album/1CYW6Tlvv7S4Bqfss4H4yX) | 2:50 | 2024-12-13 | 2025-02-15 |
 | [Little Dance](https://open.spotify.com/track/3ZqUF40oZLspAMaygqY6L9) | [Neon Dreams](https://open.spotify.com/artist/2UQ6mFkiLYy5VHRJnajQYT) | [Little Dance](https://open.spotify.com/album/055AC8EnLHj4BCuQZfKaQU) | 4:04 | 2022-02-25 | 2022-04-29 |
+| [little piece](https://open.spotify.com/track/3I9wslCcu33OnpMfyQY2bI) | [SHOOP](https://open.spotify.com/artist/5PbXbjuSwJlEhKN3nmneuq) | [never better](https://open.spotify.com/album/0Ke8aK03gxiiq1SpDcNBjN) | 2:27 | 2025-11-21 |  |
 | [Live For You, Die With You](https://open.spotify.com/track/6AK6tQ5MZUbA7MI8tcq606) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ) | [Silver Crane \(Deluxe\)](https://open.spotify.com/album/5JOOOZyK4GYTkxWgZbn0o9) | 3:26 | 2022-02-11 | 2022-04-09 |
 | [Live On](https://open.spotify.com/track/6307yOQg0mupzSlNcCX0LA) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [Best Night of My Life](https://open.spotify.com/album/2rIJP88CPNzBrvHW06R3Ve) | 2:32 | 2023-02-10 | 2023-02-25 |
 | [Living It Up](https://open.spotify.com/track/5xj1VcAPmfKQwxPVOPdV11) | [Alt Bloom](https://open.spotify.com/artist/6JxQbC46LapcvanSk4J3OP) | [Summer Craft](https://open.spotify.com/album/6YaLyPqp8iu5PTekRYruiB) | 2:47 | 2022-08-26 | 2022-09-17 |
@@ -858,7 +860,7 @@
 | [MERRY GO ROUND](https://open.spotify.com/track/6wSEfFQzF3Ye9ztpyx8694) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [AND ALL I LOVED, I LOVED ALONE](https://open.spotify.com/album/5HlkWTlZidWmEkSAJkm2Aq) | 2:10 | 2023-12-08 | 2024-02-10 |
 | [MESS](https://open.spotify.com/track/4pL5Mw5esC7qlR4gcZkXzX) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [MESS](https://open.spotify.com/album/07qQ4rz57acImkDO3GZ5BA) | 2:30 | 2025-02-14 | 2025-05-17 |
 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 | 2024-06-14 | 2025-05-17 |
-| [Meteorite](https://open.spotify.com/track/5Lar77m16xd8ThAN5qnnzH) | [Caroline Kingsbury](https://open.spotify.com/artist/0uE0bzpIfuZ9XVduu0byzg) | [Shock Treatment](https://open.spotify.com/album/1P8RpkjDQatfPAwI6skudE) | 3:33 | 2025-09-27 |  |
+| [Meteorite](https://open.spotify.com/track/5Lar77m16xd8ThAN5qnnzH) | [Caroline Kingsbury](https://open.spotify.com/artist/0uE0bzpIfuZ9XVduu0byzg) | [Shock Treatment](https://open.spotify.com/album/1P8RpkjDQatfPAwI6skudE) | 3:33 | 2025-09-27 | 2025-11-22 |
 | [Meticulous](https://open.spotify.com/track/2WvsvWRHvcX3bZPiJwTwpy) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Love Hate Music Box](https://open.spotify.com/album/2bOwdC37gg057sITTY8Ovj) | 3:01 | 2024-05-10 | 2024-06-15 |
 | [Mexico](https://open.spotify.com/track/5e9f2mQ8DYtZa9UcrZZRNt) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3), [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Mexico](https://open.spotify.com/album/3KU0NNhdNFksujfg39R6D9) | 2:56 | 2024-03-15 | 2024-04-27 |
 | [MIA](https://open.spotify.com/track/31qUvtwOcX1OW4rTblwOcy) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [MIA](https://open.spotify.com/album/5OaiKNTvYpTMJIAj4mgATt) | 2:44 | 2021-10-29 | 2022-01-08 |
@@ -1038,7 +1040,7 @@
 | [Psycho \(When I Wake Up\)](https://open.spotify.com/track/2WW9X7mc7lE8DbE4WbTNwI) | [The Wldlfe](https://open.spotify.com/artist/2Vvj76fff5uAw10W1sW54W) | [Psycho \(When I Wake Up\)](https://open.spotify.com/album/0Dy3T55bzxYvsND1rpYuLa) | 3:15 | 2022-02-11 | 2022-02-26 |
 | [Radio](https://open.spotify.com/track/10SOOaAA0JVdnroFkcZT7w) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [People In Motion](https://open.spotify.com/album/6qXDmHqkVW2O8FQUKWiHh4) | 3:14 | 2022-10-07 | 2022-10-13 |
 | [Radio](https://open.spotify.com/track/53KTjvFbNcybDOxhdDRoio) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [People In Motion](https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs) | 3:14 | 2022-10-07 | 2023-01-28 |
-| [reading into it](https://open.spotify.com/track/5ApnrwxpgMOETU50C9JjzM) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [shut up and love me](https://open.spotify.com/album/1foP3pzYC5Y8aND9ahImLY) | 3:00 | 2025-07-25 |  |
+| [reading into it](https://open.spotify.com/track/5ApnrwxpgMOETU50C9JjzM) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [shut up and love me](https://open.spotify.com/album/1foP3pzYC5Y8aND9ahImLY) | 3:00 | 2025-07-25 | 2025-11-22 |
 | [Real Estate](https://open.spotify.com/track/4tE91iFWVroHWNpZrBzAqV) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Real Estate](https://open.spotify.com/album/5WKqEnCQgZi0Cf3bC7vWwx) | 2:16 | 2023-05-26 | 2023-07-08 |
 | [Record Player \(with AJR\)](https://open.spotify.com/track/4jYt1pQqg2mIZmY4FWCZEM) | [Daisy the Great](https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB), [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [Record Player \(with AJR\)](https://open.spotify.com/album/0zs9o2NkQxcRTlGlcOteP5) | 2:29 | 2021-10-29 | 2022-03-26 |
 | [Red](https://open.spotify.com/track/0AoZZWaJZnuCHoSS7qn5zP) | [bob junior](https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne), [Hot Flash Heat Wave](https://open.spotify.com/artist/33LSz2nhC8pCPTb3pd5add) | [Red](https://open.spotify.com/album/1sgjxEl0WbYxAkJEkgk54x) | 3:28 | 2025-01-10 | 2025-03-08 |
@@ -1225,7 +1227,7 @@
 | [Summer](https://open.spotify.com/track/0IhcVVlmZCPOkSSozJ2smN) | [Beno](https://open.spotify.com/artist/4QvaAOT2v2zaPO9ipMMgOz) | [Summer](https://open.spotify.com/album/3WBvHRbPcanFjK0at0np3m) | 2:48 | 2025-08-29 |  |
 | [summer after senior year](https://open.spotify.com/track/4xjpWPuhcc42tsSDKaUrOY) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [Michael Carreon](https://open.spotify.com/artist/5rYJsXiNw3NxHJfOxtmDuC), [Patrick Hizon](https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X) | [summer after senior year](https://open.spotify.com/album/2LAokuNY7aRexlSjRADGju) | 2:25 | 2024-01-05 | 2024-03-30 |
 | [Summer Love](https://open.spotify.com/track/0gNf2MHNWlktWxVRHfGhFb) | [Good Boy Daisy](https://open.spotify.com/artist/48LeC49ZUI6oXfZrTA2QlL) | [Summer Love](https://open.spotify.com/album/0IcVjhrvZWzKehC88IZQgs) | 3:11 | 2025-06-13 | 2025-08-09 |
-| [Summer of Love](https://open.spotify.com/track/5f0WavAcLeulrIZf6laItA) | [Kai Bosch](https://open.spotify.com/artist/6NvsbUgzHkjZK3ZUEWui41) | [Summer of Love](https://open.spotify.com/album/0sY1693LM3rM8rXJIZH9SC) | 3:23 | 2025-07-25 |  |
+| [Summer of Love](https://open.spotify.com/track/5f0WavAcLeulrIZf6laItA) | [Kai Bosch](https://open.spotify.com/artist/6NvsbUgzHkjZK3ZUEWui41) | [Summer of Love](https://open.spotify.com/album/0sY1693LM3rM8rXJIZH9SC) | 3:23 | 2025-07-25 | 2025-11-22 |
 | [Summer Secret](https://open.spotify.com/track/1yfGTVORIA88GIrlFMU0NP) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L) | [Summer Secret](https://open.spotify.com/album/3NCCbCcz7x2hQPgE5CkPmX) | 2:43 | 2024-06-21 | 2024-08-17 |
 | [Summer Uptown](https://open.spotify.com/track/7t98lQEVYPP58rkubC03Mh) | [jasontheween](https://open.spotify.com/artist/56z8RFFEGWfUFHzvgv70SB), [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Summer Uptown](https://open.spotify.com/album/085rPTSE58Xz9xAUYcfVeZ) | 2:35 | 2025-07-18 | 2025-10-04 |
 | [SUMMER VIBES](https://open.spotify.com/track/6wwz6BVFrr31EHXoBpA7NC) | [Tyla Yaweh](https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr) | [SUMMER VIBES](https://open.spotify.com/album/437rnm8NI94QYbp38sMYR2) | 2:26 | 2023-07-07 | 2023-09-16 |
@@ -1254,7 +1256,7 @@
 | [Symphony Of Lights](https://open.spotify.com/track/65uoNTX681VJpRyuVSWSdd) | [Bad Suns](https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP) | [Apocalypse Whenever](https://open.spotify.com/album/0d56QBHMTuBgehoYAZ2s25) | 4:19 | 2022-01-28 | 2022-02-26 |
 | [SYNCOPATE](https://open.spotify.com/track/6s3UHVDqqqNHa1HyynG4VI) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [SYNCOPATE](https://open.spotify.com/album/4jbLhacGYxjKk9wS37eJTL) | 1:58 | 2021-10-29 | 2022-01-08 |
 | [Take It Easy](https://open.spotify.com/track/1Y9ewybegCoWaDE1wDcsxX) | [Adrian Lyles](https://open.spotify.com/artist/3R5yFx0z6UkzAiNHCeBqUY) | [Horizons: Night](https://open.spotify.com/album/1yHRhrhRL63coaqR3zGYRi) | 2:44 | 2025-10-17 |  |
-| [TAKE MY LOVE](https://open.spotify.com/track/2ZptJWfM4DUOy8GJSsRvcs) | [Maxwell Luke](https://open.spotify.com/artist/1LzbpVQTKYhHewqsn5DCnX) | [TAKE MY LOVE](https://open.spotify.com/album/5w18Z092pcRXUgw0BOlLSN) | 3:00 | 2025-07-25 |  |
+| [TAKE MY LOVE](https://open.spotify.com/track/2ZptJWfM4DUOy8GJSsRvcs) | [Maxwell Luke](https://open.spotify.com/artist/1LzbpVQTKYhHewqsn5DCnX) | [TAKE MY LOVE](https://open.spotify.com/album/5w18Z092pcRXUgw0BOlLSN) | 3:00 | 2025-07-25 | 2025-11-22 |
 | [Take My Phone Away](https://open.spotify.com/track/5iIRm1NPeb4EhR6I2bKtvC) | [Caroline Kingsbury](https://open.spotify.com/artist/0uE0bzpIfuZ9XVduu0byzg) | [Take My Phone Away](https://open.spotify.com/album/7I6HvzNOc1MTYHZmint1K1) | 2:26 | 2024-09-20 | 2025-01-25 |
 | [take the hit](https://open.spotify.com/track/7hcNXgnBncyybhQVhTFNd7) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [everything and nothing](https://open.spotify.com/album/1V78TBOwsEy3F87x0rAxhO) | 2:20 | 2024-05-10 | 2024-07-19 |
 | [Takeaway Cup](https://open.spotify.com/track/65CvImGO0oPmybnQix1SVv) | [Chris Bates](https://open.spotify.com/artist/1wMxoWB76tKp8gOJDGRxxJ) | [Takeaway Cup](https://open.spotify.com/album/12PdiG9F9Xz8tFYIZXwUUn) | 2:29 | 2023-09-15 | 2023-10-07 |
@@ -1348,6 +1350,7 @@
 | [Toxic](https://open.spotify.com/track/2gQPv5jvVPqU2a9HhMNO1v) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Toxic](https://open.spotify.com/album/4cmu24lnj0NI8lHG6vra6h) | 2:48 | 2021-12-24 | 2022-03-05 |
 | [Track Shoes](https://open.spotify.com/track/7hMUIwPmSkuGMHli2ZV1qQ) | [Rence](https://open.spotify.com/artist/3VJTtTgub426X1NuzcyAOb) | [Track Shoes](https://open.spotify.com/album/5cEAJJI3lKivMvPwyn43k0) | 3:06 | 2021-10-29 | 2022-01-22 |
 | [Trackstar](https://open.spotify.com/track/4b2ZdHby2AzqbZqZpjLhKp) | [Juliana Madrid](https://open.spotify.com/artist/6RhkgeqhRai3jy4ULSlxFx) | [Trackstar](https://open.spotify.com/album/436EBY5YaPt5lkdSwm6Ude) | 3:26 | 2023-05-26 | 2023-08-26 |
+| [Tracy](https://open.spotify.com/track/2Irs8tqS6DELbaFlwlwRTC) | [Pash](https://open.spotify.com/artist/3jEgbW70PXxv993symSK35) | [Tracy](https://open.spotify.com/album/6KOs8bG57zs3LK9i3rydM0) | 2:20 | 2025-11-21 |  |
 | [Trauma](https://open.spotify.com/track/48JqgW96LVIcrE4umJweWw) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Trauma](https://open.spotify.com/album/2wYh1adQn0CaWPlJMHFo56) | 2:43 | 2023-08-08 | 2023-10-30 |
 | [Treadmill](https://open.spotify.com/track/0ewQUWupKrDmYFhhiyjqaA) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Treadmill](https://open.spotify.com/album/1lnKUpRIc0wAcnMP9scVlJ) | 3:13 | 2024-06-28 | 2024-09-14 |
 | [TREBUCHET](https://open.spotify.com/track/78iAaClMArrG8LkVfhywSZ) | [Rence](https://open.spotify.com/artist/3VJTtTgub426X1NuzcyAOb) | [TREBUCHET](https://open.spotify.com/album/2gRD30JoXVJ3FZPUXxH9CP) | 2:35 | 2023-01-27 | 2023-03-25 |
@@ -1465,6 +1468,7 @@
 | [WORTH NOTHING](https://open.spotify.com/track/2BruPhzgTpJwPH9KUg0XcL) | [thekid.ACE](https://open.spotify.com/artist/4GqTDpyDAWrxQ9bVCtWIDM), [TWISTED](https://open.spotify.com/artist/4WAOiUgt6CVTUl6D99kph6) | [WORTH NOTHING](https://open.spotify.com/album/36SXCfED2wv5zUA06xawpC) | 2:33 | 2024-02-23 | 2024-03-30 |
 | [WORTHLESS](https://open.spotify.com/track/13b4mk5KeJxL0GllHLvtXQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WORTHLESS](https://open.spotify.com/album/3hNpYeCH7WOUNhXxV7AosH) | 2:43 | 2023-03-10 | 2023-04-15 |
 | [wreck](https://open.spotify.com/track/2vU4N94Z1BS9TPKYMoQPKx) | [Dalton Mauldin](https://open.spotify.com/artist/7HLQqnULw9QStkYa6mEEh8) | [wreck](https://open.spotify.com/album/2RS3dR9XAsMRbglQ6azUT9) | 3:14 | 2024-01-05 | 2024-02-17 |
+| [Writing's On The Wall](https://open.spotify.com/track/4mDTqEqt0QHQFPNkz8eHjr) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore](https://open.spotify.com/album/4OZ6nCbn8w0cHr1m0qiD2s) | 2:49 | 2025-11-21 |  |
 | [Wrongside](https://open.spotify.com/track/5rpwJ4cUvE133ExIlX0xTl) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Wrongside](https://open.spotify.com/album/7L71cZKvX9a8zv0LnN3Q1T) | 3:29 | 2022-09-02 | 2023-02-11 |
 | [WTF](https://open.spotify.com/track/3QURQWfDKCipGVFTf5hd2k) | [Madhouse](https://open.spotify.com/artist/5bScfl9QpBaP9DOmlIqQUY) | [WTF](https://open.spotify.com/album/517WLHJFXu00Jxxy6KyU6p) | 1:45 | 2022-06-24 | 2022-08-13 |
 | [WTF](https://open.spotify.com/track/7mYrw8DN9vDg1c5qqpDboC) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [WTF](https://open.spotify.com/album/5LDEHT3uGE4kS5BbbhiPTO) | 3:02 | 2022-03-18 | 2022-06-11 |

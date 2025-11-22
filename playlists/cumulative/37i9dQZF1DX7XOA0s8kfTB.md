@@ -4,7 +4,7 @@
 
 > Music from “Girls Band Cry” ©東映アニメーション
 
-57 songs - 2 hr 35 min
+58 songs - 2 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [VOID \- Nina Iseri, Momoka Kawaragi](https://open.spotify.com/track/2mDNci8EmCus4yVygfRXZJ) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [VOID \(Nina Iseri, Momoka Kawaragi\)](https://open.spotify.com/album/3faZBe29qPvq3dBoTpMJND) | 3:04 | 2024-04-04 | 2024-04-19 |
 | [white drizzle in gloom](https://open.spotify.com/track/0ge5dtz12gXTMquou8xVKL) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [white drizzle in gloom](https://open.spotify.com/album/7q2ujU4Yi2ck5b1Z8GgkAQ) | 3:05 | 2024-04-04 | 2024-04-19 |
 | [Wrong World](https://open.spotify.com/track/3oydLYmU23bex9OQDwjxCz) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [Wrong World](https://open.spotify.com/album/3QdDjNx9PAJ9LPSgtfUTNX) | 3:04 | 2024-04-04 | 2024-04-19 |
+| [もう何もいらない未来](https://open.spotify.com/track/6RpYcoB6Y2hmhOxxuljqMz) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [もう何もいらない未来](https://open.spotify.com/album/2qstuWbHpze4XTVIWGbUpw) | 3:39 | 2025-11-21 |  |
 | [サヨナラサヨナラサヨナラ](https://open.spotify.com/track/3OCcXnMn1lOwJtsOwbzEsN) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [サヨナラサヨナラサヨナラ](https://open.spotify.com/album/4L4vKyM8psqZ1Us7aEmeS0) | 2:35 | 2024-04-12 |  |
 | [ダレモ](https://open.spotify.com/track/1yfzoa5aZs8XIcuSgsPtd5) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [ダレモ](https://open.spotify.com/album/1KbLZLSMJ7HNeV1VM6mcd7) | 3:06 | 2025-03-10 |  |
 | [トゲナシトゲアリ ボイスメッセージ](https://open.spotify.com/track/2QbF1CwuvDNSZy3LR0ZbIg) | [「ガールズバンドクライ」](https://open.spotify.com/artist/6XbhByybHgZbtvlEnCSrL1) | [トゲナシトゲアリ ボイスメッセージ](https://open.spotify.com/album/39hFw1VeEbgYc5x9ExNGcT) | 0:20 | 2024-06-28 |  |

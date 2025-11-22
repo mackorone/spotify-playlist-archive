@@ -4,7 +4,7 @@
 
 > Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p?si=qSgYDzOCSyqt8\_\-ZdbhLCQ>Dumi Mkokstad</a>"
 
-430 songs - 1 day 21 hr 19 min
+430 songs - 1 day 21 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,6 +281,7 @@
 | [Re boka Wena \- Live](https://open.spotify.com/track/7oA77phphX31LmuPwOkoQt) | [Ntsiki Kanelo](https://open.spotify.com/artist/5gZ4ZnnaTvwyagJ3oxZ8dp) | [Re boka Wena \(Live\)](https://open.spotify.com/album/5CzWYKCpr1muWsxDdroqrY) | 5:22 | 2025-10-17 |  |
 | [Re Bone Ka Naledi \(feat\. Kago, Given, Paul\) \- \(Live At The State Theatre\)](https://open.spotify.com/track/0x7UIcJatp5HBuSGYpA1DW) | [Wacha Mkhukhu Wachumlilo](https://open.spotify.com/artist/1WYcnlyvUxYVsSWOnG5163), [Given](https://open.spotify.com/artist/0UxTtJShgAFuQ1Q3HK0rmo), [Kago](https://open.spotify.com/artist/4pQfjRrGVSAleOhkjoExXs), [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg) | [Re Bone Ka Naledi \(Live At The State Theatre\)](https://open.spotify.com/album/0UqaggNdoTOBEmI9QbAjHA) | 10:16 | 2023-12-29 | 2024-05-03 |
 | [Rea Lwanelwa \- Live](https://open.spotify.com/track/3sFKCjNDndwiVVDGXfMlsN) | [Puleng March](https://open.spotify.com/artist/65cfvyR00rBULLtOhWfNTn) | [Heaven's Scroll \(Live\)](https://open.spotify.com/album/0IdIW30hdyEVScUQdr4UyV) | 6:37 | 2024-06-07 | 2024-07-12 |
+| [Sawubona Moyoncwele \- Live at Isibaya Casino](https://open.spotify.com/track/0wZpgOsDhAdKKFd7cvVCAt) | [Thinah Zungu](https://open.spotify.com/artist/0gqiNXIGbyBCBsbQ4TWJlg), [Ndumiso Zungu](https://open.spotify.com/artist/4rFahmjoVZtKLEn95KHpzH), [Nokwanda](https://open.spotify.com/artist/3zGMNvxgVGEFpyPs7wD2A1), [Shenge](https://open.spotify.com/artist/0dkoxPGZEV7T0sx2qtJhSZ) | [In His Throne with Thinah Zungu \(Live at Isibaya Casino\)](https://open.spotify.com/album/2TSHxbSDOTjNuwAawhWhQu) | 7:08 | 2025-11-21 |  |
 | [Sedi la ditshaba](https://open.spotify.com/track/6cuM3XR6GwDLl4evBO46QE) | [Puleng March](https://open.spotify.com/artist/65cfvyR00rBULLtOhWfNTn) | [Worship in Newness](https://open.spotify.com/album/1h6TI3nojx7PA3HBfkS9wz) | 6:40 | 2025-05-30 | 2025-08-01 |
 | [See The Light](https://open.spotify.com/track/45F36WJSZtqmlT0hq1ym4Q) | [Redemption Worship](https://open.spotify.com/artist/1dPyo6jMnXHXIWyuUKduJ7) | [See The Light](https://open.spotify.com/album/6lHszryJqJHLDyxXbTkqHo) | 6:18 | 2022-09-15 | 2023-03-18 |
 | [Sefapanong \- Live](https://open.spotify.com/track/7D0TvTgatksJxLKdmFwEAV) | [TSHEPO LEBEPE](https://open.spotify.com/artist/06PQeyGH37N3e3SAxwJ3LG) | [Sefapanong \(Live\)](https://open.spotify.com/album/5GM3io5G7lqVaXuN1CLHJU) | 6:00 | 2025-04-25 | 2025-06-13 |
@@ -325,7 +326,6 @@
 | [THULA WAZI \(NGIKHONA\)](https://open.spotify.com/track/3GyMUxLbwqjIJqvLIZeTgq) | [Dan Shaw](https://open.spotify.com/artist/06OQzkbFY8XHvXYcrcLFkV) | [THULA WAZI \(NGIKHONA\)](https://open.spotify.com/album/5c4L1xAb2FZE2xVQQOS0tv) | 3:55 | 2024-04-19 | 2024-08-23 |
 | [Thulungakhali](https://open.spotify.com/track/0bPE6VOWoQ69OpmCtPek8M) | [Ikhona](https://open.spotify.com/artist/56tDpXsWbtHowCzQxqurvW), [Betusile](https://open.spotify.com/artist/6xJ0Ui6xanSrQyadnCOpFU) | [Thulungakhali](https://open.spotify.com/album/4ttNmn9gKQm0m7jjadtyLE) | 5:46 | 2020-12-10 |  |
 | [To The Deep](https://open.spotify.com/track/5r9q9MzeexXef7visJl9LL) | [CRC Music](https://open.spotify.com/artist/0NkzbJlvL3SLDCFnPmdSK7) | [To The Deep](https://open.spotify.com/album/7J71uUsQrCrUY2rPo28z33) | 5:49 | 2025-09-19 | 2025-11-21 |
-| [Track 11](https://open.spotify.com/track/0wZpgOsDhAdKKFd7cvVCAt) | [Thinah Zungu](https://open.spotify.com/artist/0gqiNXIGbyBCBsbQ4TWJlg) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-21 |  |
 | [Tshanda Tshau Yehova \- Live](https://open.spotify.com/track/4G7dubWC6XmwMrnLVt7WRT) | [ROFHIWA MANYAGA](https://open.spotify.com/artist/6hYQnls4RShBxrh47cd6i5) | [IssaYearEndFunction](https://open.spotify.com/album/4rMh1SylOQvME1lYNsQwQP) | 4:31 | 2025-04-18 | 2025-05-30 |
 | [Tshepo Ya Lefatshe](https://open.spotify.com/track/0r9SsIPTibFOQ6r6tPfcte) | [Lebo Elle Tisane](https://open.spotify.com/artist/5OjmAYpmIb99cv5HC7Rwkt) | [In Season](https://open.spotify.com/album/1yax3wDYJRlKUgOZhDGJZZ) | 5:07 | 2025-10-10 | 2025-10-31 |
 | [Udumo \- Live at Pont De Val](https://open.spotify.com/track/1sZAiagVPE4eQwaw056YaM) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [Udumo \(Live at Pont De Val\)](https://open.spotify.com/album/6YSvp90Kw08mG6Wcaz162p) | 6:46 | 2020-10-09 | 2023-06-16 |

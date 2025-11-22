@@ -1,13 +1,29 @@
 {
   "description": "Still yachting. Cover: Yacht Rock Revue",
-  "num_followers": 19608,
+  "num_followers": 19613,
   "original_name": "Yacht Rock Revival",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGnHxUkrTo15RMF+4BlYA435n4JR",
+  "snapshot_id": "AAAAAAj1MHeLSd73+WDyMcsVAPzivK1l",
   "tracks": [
+    {
+      "added_at": "2025-11-21 05:00:25",
+      "album": {
+        "name": "Wayward Child",
+        "url": "https://open.spotify.com/album/2AnEnf0TQyoUXDc2Pbwrvs"
+      },
+      "artists": [
+        {
+          "name": "David Blazer",
+          "url": "https://open.spotify.com/artist/6fI10k7bFVFS76bHXdBof6"
+        }
+      ],
+      "duration_ms": 187692,
+      "name": "Wayward Child",
+      "url": "https://open.spotify.com/track/7kt4sJ5jt5eyz0nXJUsjYw"
+    },
     {
       "added_at": "2025-10-24 04:00:03",
       "album": {
@@ -235,26 +251,6 @@
       "duration_ms": 402747,
       "name": "Diamond Eyes",
       "url": "https://open.spotify.com/track/69LWzGUpt3oe1URUCvjVbt"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Like No Tomorrow",
-        "url": "https://open.spotify.com/album/1y6gGiq5QNDj1r8fPPVAnA"
-      },
-      "artists": [
-        {
-          "name": "David Blazer",
-          "url": "https://open.spotify.com/artist/6fI10k7bFVFS76bHXdBof6"
-        },
-        {
-          "name": "Sam Padrul",
-          "url": "https://open.spotify.com/artist/6G6wGudDVkxMg6SaCF0bdF"
-        }
-      ],
-      "duration_ms": 170749,
-      "name": "Like No Tomorrow",
-      "url": "https://open.spotify.com/track/2ErFtY4W7nLrg3iInKUGhK"
     },
     {
       "added_at": "2024-05-03 04:01:00",

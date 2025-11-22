@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,005 likes - 228 songs - 14 hr 5 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,005 likes - 235 songs - 14 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -236,5 +236,12 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 226 | [Right guy wrong mouth](https://open.spotify.com/track/6JjW4HuSCbEjr8l3svYlH2) | [Phantom goblin king](https://open.spotify.com/artist/25cK0rP6WVJgpZ9H1iVzC9) | [Right guy wrong mouth](https://open.spotify.com/album/3wWsfQ2gBeAmUZezSe2m7I) | 2:36 |
 | 227 | [Devour / The Performer](https://open.spotify.com/track/5FDV4uoXH08RdtWYK59TJv) | [TULLE](https://open.spotify.com/artist/6OiVFeVhtP4mo9QSVheiuI) | [Devour / The Performer](https://open.spotify.com/album/0WjR5u6xA9bI9qu0lhDurj) | 4:00 |
 | 228 | [The queen and the tearaway](https://open.spotify.com/track/6RzjgO7QhYIYbNZGVE4LQI) | [good afternoon](https://open.spotify.com/artist/51AUWbI67m6qAMG9NCZDJ2) | [The queen and the tearaway](https://open.spotify.com/album/1BKkGNtx5n0Rvmvyv25hXp) | 3:27 |
+| 229 | [Alleine im Partyraum](https://open.spotify.com/track/3IYJdA04iosfRwkMUOCc1O) | [Nordwestpartycrew](https://open.spotify.com/artist/5Jq329mT4XRIjQirRXkzbg) | [Alleine im Partyraum](https://open.spotify.com/album/7jFYriN5oyX3gwZZuJpEDm) | 4:29 |
+| 230 | [Si Loin](https://open.spotify.com/track/1SpBAk7WSEgWTAwuHS7ahH) | [Dominique Daumann](https://open.spotify.com/artist/1Nm0cvOQp7njIOVzZ3Wqe6) | [La parade des loups\-garous](https://open.spotify.com/album/4EYMdV25eZul4vWVEQ9I98) | 3:32 |
+| 231 | [Christmas in the Islands](https://open.spotify.com/track/0LxDXf95Mx9c1vZxEFqTFR) | [Harold Payne](https://open.spotify.com/artist/1BfgVctke9PP5LJDIWrUxC) | [Christmas in the Islands](https://open.spotify.com/album/3aHAeBe9ZjWw3wduUdNC1u) | 3:01 |
+| 232 | [Party girl](https://open.spotify.com/track/2k0hFFHvtXgMhNyEfC75g5) | [Deadarchives](https://open.spotify.com/artist/74kszt2wmigyELkurcdEdi) | [Party girl](https://open.spotify.com/album/51ZqJeqymp7UtdybBk9jxx) | 1:50 |
+| 233 | [Vino El Amor](https://open.spotify.com/track/5FywKArASsEyrCGNtvQpIc) | [Evan Rodz](https://open.spotify.com/artist/11b5iup6dk8QDzFH2sQ0bw) | [Vino El Amor](https://open.spotify.com/album/5z8uzZz2T9FM1uPDUWBocD) | 3:43 |
+| 234 | [Closed Circle](https://open.spotify.com/track/3kOiYnhygbL1DDuKFf6DgS) | [B1GHEADCHRIS](https://open.spotify.com/artist/1qfIzy7pywvM34nzOv6DA6), [FIM Collective](https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK), [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x) | [Spotlight From The Shadows](https://open.spotify.com/album/4eTjld5f8cjfYX00rFYO2j) | 3:30 |
+| 235 | [After Hours](https://open.spotify.com/track/1IJRybUORpBhRHIHYS5C5Z) | [CTRL FREQS](https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv), [RoBeats](https://open.spotify.com/artist/6rMyJtMiEjGtD9HHbz5Vge) | [After Hours](https://open.spotify.com/album/5hin9vCARWLwDwXmMsU1J8) | 3:13 |
 
-Snapshot ID: `AAAM2Ee88Znil6a/khmysIIvC5AKagsq`
+Snapshot ID: `AAAM31dWjiIHxqoAGFvJzt3lZXHTE/hH`

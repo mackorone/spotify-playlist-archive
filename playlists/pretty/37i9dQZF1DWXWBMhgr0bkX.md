@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 
 > Unmissable emerging pop feat\. Absolutely
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,108 likes - 79 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,119 likes - 79 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 | 7 | [Mean To Me](https://open.spotify.com/track/1WuAlAbeVDmMF8nmSUMGuD) | [ili](https://open.spotify.com/artist/4Yn7SW1ERvmPwQHPMiv8t4) | [Mean To Me](https://open.spotify.com/album/5IIRP1vjVpiFrJQkdVQSFA) | 2:04 |
 | 8 | [Sweet Nausea](https://open.spotify.com/track/5MIe7cz4nmuzIBKTpXpaWe) | [Naomi Scott](https://open.spotify.com/artist/2Zi3RrdQqk63Xj0914STkS) | [Sweet Nausea](https://open.spotify.com/album/3PCH95ZQ2I54sGuS9BqUnG) | 2:05 |
 | 9 | [Fault Line](https://open.spotify.com/track/16hJb6Q1lb22hVc4IsJoCo) | [Elle Coves](https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa) | [Fault Line](https://open.spotify.com/album/4oaZCFbDFPktNYKJrTlXf3) | 3:11 |
-| 10 | [Brother](https://open.spotify.com/track/597EdJCBnLDgObC5LfyOYF) | [Lewis Fitzgerald](https://open.spotify.com/artist/6ovKHvbGzE1fZaLY0S4cOf) | [](https://open.spotify.com/album/null) | 3:48 |
+| 10 | [Brother](https://open.spotify.com/track/597EdJCBnLDgObC5LfyOYF) | [Lewis Fitzgerald](https://open.spotify.com/artist/6ovKHvbGzE1fZaLY0S4cOf) | [The Way I Remember It](https://open.spotify.com/album/26tS32DhP6r7qofRhE4bgZ) | 3:48 |
 | 11 | [Good Intentions](https://open.spotify.com/track/0fuRi9qAY3ZcZOo5udQnNL) | [Jenny on Holiday](https://open.spotify.com/artist/3wHAE4ulAeuwZfQOMWArXD) | [Good Intentions](https://open.spotify.com/album/1pISgcu1b58p8FRlfZFuNc) | 4:18 |
 | 12 | [bittersweet](https://open.spotify.com/track/2G9jb0T3JSf8Bg5P1DE6gA) | [Freddie Lewis](https://open.spotify.com/artist/2Y08LH0PaXKiJNNuQQ827y) | [kiss and run](https://open.spotify.com/album/59AqWBNwuXzgZazuDDYLB7) | 3:39 |
 | 13 | [Bracing For Impact](https://open.spotify.com/track/4AcdJoArcqN1FRV7W1SJ1I) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [Bracing For Impact](https://open.spotify.com/album/6yQAIt35n1JPwzIfvCxZrI) | 3:14 |

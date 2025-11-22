@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Spread the Good News with the best Gospel songs of the moment. Cover: Jekayln Carr",
+  "description": "Spread the Good News with the best Gospel songs of the moment. Cover: J Moss",
   "name": "Spread the Gospel",
   "tracks": [
     {
@@ -871,6 +871,32 @@
     },
     {
       "album": {
+        "name": "Homecoming Live in Detroit",
+        "url": "https://open.spotify.com/album/148Fxu4RXzDl62yXs1JO7P"
+      },
+      "artists": [
+        {
+          "name": "Deitrick Haddon",
+          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
+        },
+        {
+          "name": "Tim Bowman Jr",
+          "url": "https://open.spotify.com/artist/3JuIdxCPSDG9oVk9Z4kR4g"
+        },
+        {
+          "name": "DKG",
+          "url": "https://open.spotify.com/artist/7zh9S0TvMk6SdbL6nyuYJ3"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250285,
+      "name": "Another Way Out",
+      "url": "https://open.spotify.com/track/6I0YSAwZMy7GpBlgfBn7Xc"
+    },
+    {
+      "album": {
         "name": "Anymore",
         "url": "https://open.spotify.com/album/6A7f7h4Jqk80zRZFZ3atWw"
       },
@@ -1232,7 +1258,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 240314,
       "name": "Better",
       "url": "https://open.spotify.com/track/70IMwY7Hj050abt9WU1ehm"
@@ -2418,7 +2444,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 234500,
       "name": "Do Better",
       "url": "https://open.spotify.com/track/3wrm4XxJmnuQ9pnt63eaa0"
@@ -7104,7 +7130,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 287008,
       "name": "Jesus Is Real",
       "url": "https://open.spotify.com/track/30xjbWfGQUhpmThrjO97gW"
@@ -10344,6 +10370,24 @@
       "duration_ms": 373666,
       "name": "Power (feat. The Clark Sisters & Mr. Talkbox)",
       "url": "https://open.spotify.com/track/1iJ3mlA42anezKqpmVpUCZ"
+    },
+    {
+      "album": {
+        "name": "The Demos, Vol. 1",
+        "url": "https://open.spotify.com/album/4pWaQCnsTyaMsYivecJD6M"
+      },
+      "artists": [
+        {
+          "name": "J Moss",
+          "url": "https://open.spotify.com/artist/6sj6FGLblnVfktDZPaydWP"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220995,
+      "name": "Praise Him More",
+      "url": "https://open.spotify.com/track/6LQtW1INLFximgtZVaMxZU"
     },
     {
       "album": {

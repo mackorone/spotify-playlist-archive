@@ -1,15 +1,31 @@
 {
   "description": "Your daily update of the most viral tracks right now - USA.",
-  "num_followers": 368473,
+  "num_followers": 368472,
   "original_name": "Viral 50 - USA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MLKGeAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MLPX+AAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-11-20 16:02:04",
+      "added_at": "2025-11-21 13:56:15",
+      "album": {
+        "name": "Charlie Kirk Forever Alive",
+        "url": "https://open.spotify.com/album/2a854F8IkCKnrB2vEIc4qJ"
+      },
+      "artists": [
+        {
+          "name": "Spalexma",
+          "url": "https://open.spotify.com/artist/0br7BhK6Vr2Bx8IEg0PEn3"
+        }
+      ],
+      "duration_ms": 224479,
+      "name": "We Are Charlie Kirk",
+      "url": "https://open.spotify.com/track/5nC5a57UgrSg1mUxsz1P9D"
+    },
+    {
+      "added_at": "2025-11-21 13:56:15",
       "album": {
         "name": "Radio",
         "url": "https://open.spotify.com/album/7cCKrmlo80pWW0sKgR5QRe"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/3uTPusLAtkgqi3UBPKCEos"
     },
     {
-      "added_at": "2025-11-20 16:02:04",
+      "added_at": "2025-11-21 13:56:15",
       "album": {
         "name": "Resilient",
         "url": "https://open.spotify.com/album/4a51ZNJXb5Psq3YmBBAn0i"
@@ -41,7 +57,7 @@
       "url": "https://open.spotify.com/track/17HsyeI0Eq06n3XRntZ4DT"
     },
     {
-      "added_at": "2025-11-20 16:02:04",
+      "added_at": "2025-11-21 13:56:15",
       "album": {
         "name": "HOES DEPRESSED",
         "url": "https://open.spotify.com/album/4Jicobhtcj5hz1715yT0Pr"
@@ -57,7 +73,7 @@
       "url": "https://open.spotify.com/track/3YjVhsdXUG69TeUm0XzIFZ"
     },
     {
-      "added_at": "2025-11-20 16:02:04",
+      "added_at": "2025-11-21 13:56:15",
       "album": {
         "name": "WHEN A GIRL CRIES",
         "url": "https://open.spotify.com/album/7KRiPA7S7cR3b6QZXePL91"
@@ -73,7 +89,7 @@
       "url": "https://open.spotify.com/track/73I3Tcfussd9QT9OY6dqSi"
     },
     {
-      "added_at": "2025-11-20 16:02:04",
+      "added_at": "2025-11-21 13:56:15",
       "album": {
         "name": "WILDFIRE",
         "url": "https://open.spotify.com/album/5kckaBe8QaB0WzC6fByoem"
@@ -93,7 +109,23 @@
       "url": "https://open.spotify.com/track/1dpB1jrziyaczTQvvz8du1"
     },
     {
-      "added_at": "2025-11-20 16:02:04",
+      "added_at": "2025-11-21 13:56:15",
+      "album": {
+        "name": "Livin\u2019 on Borrowed Time",
+        "url": "https://open.spotify.com/album/7K7mMmwLyB8nDyYAX5Ufjg"
+      },
+      "artists": [
+        {
+          "name": "Breaking Rust",
+          "url": "https://open.spotify.com/artist/3h9rLaviiFj1TeEhdIRpP5"
+        }
+      ],
+      "duration_ms": 204959,
+      "name": "Livin\u2019 on Borrowed Time",
+      "url": "https://open.spotify.com/track/3fBLo7dnG5CSepoXgu3B53"
+    },
+    {
+      "added_at": "2025-11-21 13:56:15",
       "album": {
         "name": "Don't Tread On Me",
         "url": "https://open.spotify.com/album/0BcmwUQT2qQrnG6kdFcFQK"
@@ -109,7 +141,7 @@
       "url": "https://open.spotify.com/track/1s8kwEysRcSGPZC4Eg12By"
     },
     {
-      "added_at": "2025-11-20 16:02:04",
+      "added_at": "2025-11-21 13:56:15",
       "album": {
         "name": "LUX",
         "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
@@ -133,23 +165,7 @@
       "url": "https://open.spotify.com/track/2T8yuUKl1nhmtaIocqWo4i"
     },
     {
-      "added_at": "2025-11-20 16:02:04",
-      "album": {
-        "name": "Livin\u2019 on Borrowed Time",
-        "url": "https://open.spotify.com/album/7K7mMmwLyB8nDyYAX5Ufjg"
-      },
-      "artists": [
-        {
-          "name": "Breaking Rust",
-          "url": "https://open.spotify.com/artist/3h9rLaviiFj1TeEhdIRpP5"
-        }
-      ],
-      "duration_ms": 204959,
-      "name": "Livin\u2019 on Borrowed Time",
-      "url": "https://open.spotify.com/track/3fBLo7dnG5CSepoXgu3B53"
-    },
-    {
-      "added_at": "2025-11-20 16:02:04",
+      "added_at": "2025-11-21 13:56:15",
       "album": {
         "name": "Die On This Hill",
         "url": "https://open.spotify.com/album/7GS4aKISJ2KgAm4aBhkzng"
@@ -165,58 +181,10 @@
       "url": "https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ"
     },
     {
-      "added_at": "2025-11-20 16:02:04",
+      "added_at": "2025-11-21 13:56:15",
       "album": {
-        "name": "Thinking Too Much",
-        "url": "https://open.spotify.com/album/0EfmgCn8nNDDvZY5v1b4N1"
-      },
-      "artists": [
-        {
-          "name": "Joshua Slone",
-          "url": "https://open.spotify.com/artist/2rkJFJhJwqL5ZKbPoFwFN9"
-        }
-      ],
-      "duration_ms": 216727,
-      "name": "Your Place At My Place",
-      "url": "https://open.spotify.com/track/2cMO1LFtsP2EBjWgG4JHZl"
-    },
-    {
-      "added_at": "2025-11-20 16:02:04",
-      "album": {
-        "name": "Miss Your Body",
-        "url": "https://open.spotify.com/album/0GgQlsotSFIwzaYtyxYmwL"
-      },
-      "artists": [
-        {
-          "name": "nate band",
-          "url": "https://open.spotify.com/artist/2n0lFF6QKRjr0jGB9UIT1W"
-        }
-      ],
-      "duration_ms": 153800,
-      "name": "Miss Your Body",
-      "url": "https://open.spotify.com/track/0IPBqw1WDfXfkzJgQaYOl9"
-    },
-    {
-      "added_at": "2025-11-20 16:02:04",
-      "album": {
-        "name": "Soft Spot",
-        "url": "https://open.spotify.com/album/1q60X7MvRXKggMB3h2xJof"
-      },
-      "artists": [
-        {
-          "name": "JMSN",
-          "url": "https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l"
-        }
-      ],
-      "duration_ms": 273010,
-      "name": "Love Me",
-      "url": "https://open.spotify.com/track/2hY9mOKGblxfNFl2GOQKj4"
-    },
-    {
-      "added_at": "2025-11-20 16:02:04",
-      "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/74HNHfB066STy568ETJsPl"
+        "name": "Hazbin Hotel: Season Two (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4Vhlieo0fDahoYEPvGbSEm"
       },
       "artists": [
         {
@@ -242,10 +210,42 @@
       ],
       "duration_ms": 113230,
       "name": "Gravity",
-      "url": "https://open.spotify.com/track/4a4KvRWGEUaslwPzpVvJij"
+      "url": "https://open.spotify.com/track/0myPb7rgTdf5dTHnfwdvO9"
     },
     {
-      "added_at": "2025-11-20 16:02:04",
+      "added_at": "2025-11-21 13:56:15",
+      "album": {
+        "name": "Thinking Too Much",
+        "url": "https://open.spotify.com/album/0EfmgCn8nNDDvZY5v1b4N1"
+      },
+      "artists": [
+        {
+          "name": "Joshua Slone",
+          "url": "https://open.spotify.com/artist/2rkJFJhJwqL5ZKbPoFwFN9"
+        }
+      ],
+      "duration_ms": 216727,
+      "name": "Your Place At My Place",
+      "url": "https://open.spotify.com/track/2cMO1LFtsP2EBjWgG4JHZl"
+    },
+    {
+      "added_at": "2025-11-21 13:56:15",
+      "album": {
+        "name": "Soft Spot",
+        "url": "https://open.spotify.com/album/1q60X7MvRXKggMB3h2xJof"
+      },
+      "artists": [
+        {
+          "name": "JMSN",
+          "url": "https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l"
+        }
+      ],
+      "duration_ms": 273010,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/2hY9mOKGblxfNFl2GOQKj4"
+    },
+    {
+      "added_at": "2025-11-21 13:56:15",
       "album": {
         "name": "Volume One",
         "url": "https://open.spotify.com/album/4eeQtydrFe5HEIgzNkX4S7"
@@ -261,7 +261,23 @@
       "url": "https://open.spotify.com/track/0myRViRgmQ3J8izICXEAVO"
     },
     {
-      "added_at": "2025-11-20 16:02:04",
+      "added_at": "2025-11-21 13:56:15",
+      "album": {
+        "name": "Miss Your Body",
+        "url": "https://open.spotify.com/album/0GgQlsotSFIwzaYtyxYmwL"
+      },
+      "artists": [
+        {
+          "name": "nate band",
+          "url": "https://open.spotify.com/artist/2n0lFF6QKRjr0jGB9UIT1W"
+        }
+      ],
+      "duration_ms": 153800,
+      "name": "Miss Your Body",
+      "url": "https://open.spotify.com/track/0IPBqw1WDfXfkzJgQaYOl9"
+    },
+    {
+      "added_at": "2025-11-21 13:56:15",
       "album": {
         "name": "WHERE IS MY HUSBAND!",
         "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
@@ -277,7 +293,55 @@
       "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
     },
     {
-      "added_at": "2025-11-20 16:02:04",
+      "added_at": "2025-11-21 13:56:15",
+      "album": {
+        "name": "Fool's Gold",
+        "url": "https://open.spotify.com/album/5v8FMiboqfjBxM7UgkIgtG"
+      },
+      "artists": [
+        {
+          "name": "Buffalo Traffic Jam",
+          "url": "https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7"
+        }
+      ],
+      "duration_ms": 197539,
+      "name": "Fool's Gold",
+      "url": "https://open.spotify.com/track/54uoj9Bb6k97wSQ9MezOYU"
+    },
+    {
+      "added_at": "2025-11-21 13:56:15",
+      "album": {
+        "name": "Rebel",
+        "url": "https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug"
+      },
+      "artists": [
+        {
+          "name": "EsDeeKid",
+          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
+        }
+      ],
+      "duration_ms": 146666,
+      "name": "4 Raws",
+      "url": "https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT"
+    },
+    {
+      "added_at": "2025-11-21 13:56:15",
+      "album": {
+        "name": "Man I Need",
+        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Man I Need",
+      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
+    },
+    {
+      "added_at": "2025-11-21 13:56:15",
       "album": {
         "name": "Talk of the Town",
         "url": "https://open.spotify.com/album/7qjrNDFT178bazNZiASRBU"
@@ -301,26 +365,10 @@
       "url": "https://open.spotify.com/track/0Y2QAFRdkzrNAJDPJ5lATF"
     },
     {
-      "added_at": "2025-11-20 16:02:04",
+      "added_at": "2025-11-21 13:56:15",
       "album": {
-        "name": "Fool's Gold",
-        "url": "https://open.spotify.com/album/5v8FMiboqfjBxM7UgkIgtG"
-      },
-      "artists": [
-        {
-          "name": "Buffalo Traffic Jam",
-          "url": "https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7"
-        }
-      ],
-      "duration_ms": 197539,
-      "name": "Fool's Gold",
-      "url": "https://open.spotify.com/track/54uoj9Bb6k97wSQ9MezOYU"
-    },
-    {
-      "added_at": "2025-11-20 16:02:04",
-      "album": {
-        "name": "Man I Need",
-        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
+        "name": "The Art of Loving",
+        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
       },
       "artists": [
         {
@@ -328,28 +376,12 @@
           "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Man I Need",
-      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
+      "duration_ms": 169000,
+      "name": "So Easy (To Fall In Love)",
+      "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
     },
     {
-      "added_at": "2025-11-20 16:02:04",
-      "album": {
-        "name": "Rebel",
-        "url": "https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug"
-      },
-      "artists": [
-        {
-          "name": "EsDeeKid",
-          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
-        }
-      ],
-      "duration_ms": 146666,
-      "name": "4 Raws",
-      "url": "https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT"
-    },
-    {
-      "added_at": "2025-11-20 16:02:04",
+      "added_at": "2025-11-21 13:56:15",
       "album": {
         "name": "Harlem's Finest: Return Of The King",
         "url": "https://open.spotify.com/album/52bbgcaJfoKW3N2eO8TYMN"
@@ -373,23 +405,7 @@
       "url": "https://open.spotify.com/track/7lCpzHEIIBf7BQKfRyRP01"
     },
     {
-      "added_at": "2025-11-20 16:02:04",
-      "album": {
-        "name": "The Art of Loving",
-        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "So Easy (To Fall In Love)",
-      "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
-    },
-    {
-      "added_at": "2025-11-20 16:02:04",
+      "added_at": "2025-11-21 13:56:15",
       "album": {
         "name": "You Stole The Show",
         "url": "https://open.spotify.com/album/1K7SMm8IvVx0hT40q1tfTh"
@@ -405,7 +421,7 @@
       "url": "https://open.spotify.com/track/23ZdNaFSfH7VdSVU4U0Agb"
     },
     {
-      "added_at": "2025-11-20 16:02:04",
+      "added_at": "2025-11-21 13:56:15",
       "album": {
         "name": "The Singer and the Song",
         "url": "https://open.spotify.com/album/5vVrfTlAZqwpdCs52MjdZH"
@@ -421,27 +437,7 @@
       "url": "https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s"
     },
     {
-      "added_at": "2025-11-20 16:02:04",
-      "album": {
-        "name": "KO",
-        "url": "https://open.spotify.com/album/4X4lSxXixoFEuAkUICyZMR"
-      },
-      "artists": [
-        {
-          "name": "NLE The Great",
-          "url": "https://open.spotify.com/artist/7ou0y4rYjxrzfUunzazYeq"
-        },
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
-        }
-      ],
-      "duration_ms": 214122,
-      "name": "KO",
-      "url": "https://open.spotify.com/track/2pAombGD2E4luR6lArQHCJ"
-    },
-    {
-      "added_at": "2025-11-20 16:02:04",
+      "added_at": "2025-11-21 13:56:15",
       "album": {
         "name": "The Art of Loving",
         "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
@@ -457,7 +453,23 @@
       "url": "https://open.spotify.com/track/312z6PZ8wwREck8613PkJk"
     },
     {
-      "added_at": "2025-11-20 16:02:04",
+      "added_at": "2025-11-21 13:56:15",
+      "album": {
+        "name": "Choosin' Texas",
+        "url": "https://open.spotify.com/album/4ggV0IaczfDFjVSwBM8yvi"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "duration_ms": 232226,
+      "name": "Choosin' Texas",
+      "url": "https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc"
+    },
+    {
+      "added_at": "2025-11-21 13:56:15",
       "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/0ULd6WFTpdtoBl7eBgH2oo"
@@ -477,39 +489,7 @@
       "url": "https://open.spotify.com/track/09xhawlPUifhftf8zuie7w"
     },
     {
-      "added_at": "2025-11-20 16:02:04",
-      "album": {
-        "name": "My Ride or Die",
-        "url": "https://open.spotify.com/album/0SMLak73F37FZNyVDtePhe"
-      },
-      "artists": [
-        {
-          "name": "Doc Raven",
-          "url": "https://open.spotify.com/artist/1BKJlNV8XB71gXrJuRgAYa"
-        }
-      ],
-      "duration_ms": 234640,
-      "name": "My Ride or Die",
-      "url": "https://open.spotify.com/track/6eo9UbUfjybG8VQLYspVO6"
-    },
-    {
-      "added_at": "2025-11-20 16:02:04",
-      "album": {
-        "name": "Choosin' Texas",
-        "url": "https://open.spotify.com/album/4ggV0IaczfDFjVSwBM8yvi"
-      },
-      "artists": [
-        {
-          "name": "Ella Langley",
-          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
-        }
-      ],
-      "duration_ms": 232226,
-      "name": "Choosin' Texas",
-      "url": "https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc"
-    },
-    {
-      "added_at": "2025-11-20 16:02:04",
+      "added_at": "2025-11-21 13:56:15",
       "album": {
         "name": "Century",
         "url": "https://open.spotify.com/album/3iEInaFAamSTND6sovehX7"
@@ -525,7 +505,23 @@
       "url": "https://open.spotify.com/track/1lJOLxDS8kS2rihrqezMcv"
     },
     {
-      "added_at": "2025-11-20 16:02:04",
+      "added_at": "2025-11-21 13:56:15",
+      "album": {
+        "name": "My Ride or Die",
+        "url": "https://open.spotify.com/album/0SMLak73F37FZNyVDtePhe"
+      },
+      "artists": [
+        {
+          "name": "Doc Raven",
+          "url": "https://open.spotify.com/artist/1BKJlNV8XB71gXrJuRgAYa"
+        }
+      ],
+      "duration_ms": 234640,
+      "name": "My Ride or Die",
+      "url": "https://open.spotify.com/track/6eo9UbUfjybG8VQLYspVO6"
+    },
+    {
+      "added_at": "2025-11-21 13:56:15",
       "album": {
         "name": "I Want Things to Be Beautiful",
         "url": "https://open.spotify.com/album/6BUncqeU2tGNTouj7DZCWH"
@@ -541,10 +537,10 @@
       "url": "https://open.spotify.com/track/2o4kFMrOGhXwdpKd2ZUaKs"
     },
     {
-      "added_at": "2025-11-20 16:02:04",
+      "added_at": "2025-11-21 13:56:15",
       "album": {
-        "name": "Hazbin Hotel: Season Two (Episodes 1 - 2) [Original Soundtrack]",
-        "url": "https://open.spotify.com/album/2u4FWAUYshQ5iY9E2twPFR"
+        "name": "Hazbin Hotel: Season Two (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4Vhlieo0fDahoYEPvGbSEm"
       },
       "artists": [
         {
@@ -570,10 +566,10 @@
       ],
       "duration_ms": 120541,
       "name": "Sera's Confession",
-      "url": "https://open.spotify.com/track/2n5br5qypyUPrmiv97MUS6"
+      "url": "https://open.spotify.com/track/3SEVc1OeCtFmVVJPtWzq3P"
     },
     {
-      "added_at": "2025-11-20 16:02:04",
+      "added_at": "2025-11-21 13:56:15",
       "album": {
         "name": "27 Anos Nacional",
         "url": "https://open.spotify.com/album/5wcu3Cy16Mm6JJrVlIPsHW"
@@ -593,23 +589,27 @@
       "url": "https://open.spotify.com/track/79bWkyd08EFDO0ZZuu7IRT"
     },
     {
-      "added_at": "2025-11-20 16:02:04",
+      "added_at": "2025-11-21 13:56:15",
       "album": {
-        "name": "lost myself 4 u",
-        "url": "https://open.spotify.com/album/7nVYdEipAl8lghrBOk0sW6"
+        "name": "KO",
+        "url": "https://open.spotify.com/album/4X4lSxXixoFEuAkUICyZMR"
       },
       "artists": [
         {
-          "name": "Thomas Day",
-          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
+          "name": "NLE The Great",
+          "url": "https://open.spotify.com/artist/7ou0y4rYjxrzfUunzazYeq"
+        },
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
         }
       ],
-      "duration_ms": 230485,
-      "name": "lost myself 4 u",
-      "url": "https://open.spotify.com/track/730GhznXWwH802wyHVJoqi"
+      "duration_ms": 214122,
+      "name": "KO",
+      "url": "https://open.spotify.com/track/2pAombGD2E4luR6lArQHCJ"
     },
     {
-      "added_at": "2025-11-20 16:02:04",
+      "added_at": "2025-11-21 13:56:15",
       "album": {
         "name": "Rebel",
         "url": "https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug"
@@ -629,23 +629,23 @@
       "url": "https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf"
     },
     {
-      "added_at": "2025-11-20 16:02:04",
+      "added_at": "2025-11-21 13:56:15",
       "album": {
-        "name": "Everybody Scream",
-        "url": "https://open.spotify.com/album/0z7l9VEJyFMv8p8wffRDaF"
+        "name": "lost myself 4 u",
+        "url": "https://open.spotify.com/album/7nVYdEipAl8lghrBOk0sW6"
       },
       "artists": [
         {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+          "name": "Thomas Day",
+          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
         }
       ],
-      "duration_ms": 203259,
-      "name": "Buckle",
-      "url": "https://open.spotify.com/track/0JAaTG7sEjukCjC8X58puq"
+      "duration_ms": 230485,
+      "name": "lost myself 4 u",
+      "url": "https://open.spotify.com/track/730GhznXWwH802wyHVJoqi"
     },
     {
-      "added_at": "2025-11-20 16:02:04",
+      "added_at": "2025-11-21 13:56:15",
       "album": {
         "name": "A Couple Minutes (A COLORS SHOW)",
         "url": "https://open.spotify.com/album/1eTSGwN6VrMUSlvjNYC9i2"
@@ -661,7 +661,55 @@
       "url": "https://open.spotify.com/track/1WiHuDPI9vNkicCNg9Tkbu"
     },
     {
-      "added_at": "2025-11-20 16:02:04",
+      "added_at": "2025-11-21 13:56:15",
+      "album": {
+        "name": "The Art of Loving",
+        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Let Alone The One You Love",
+      "url": "https://open.spotify.com/track/3Vd4fHzwS6pBS3muymjiDi"
+    },
+    {
+      "added_at": "2025-11-21 13:56:15",
+      "album": {
+        "name": "Rebel",
+        "url": "https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug"
+      },
+      "artists": [
+        {
+          "name": "EsDeeKid",
+          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
+        }
+      ],
+      "duration_ms": 96000,
+      "name": "Rottweiler",
+      "url": "https://open.spotify.com/track/7mcxFbFdnFFbWwPflgqqKE"
+    },
+    {
+      "added_at": "2025-11-21 13:56:15",
+      "album": {
+        "name": "Everybody Scream",
+        "url": "https://open.spotify.com/album/0z7l9VEJyFMv8p8wffRDaF"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 203259,
+      "name": "Buckle",
+      "url": "https://open.spotify.com/track/0JAaTG7sEjukCjC8X58puq"
+    },
+    {
+      "added_at": "2025-11-21 13:56:15",
       "album": {
         "name": "Rubber Band Man (with Hozier)",
         "url": "https://open.spotify.com/album/2L7tp1R1F3f2KOLCGkmzDp"
@@ -681,7 +729,7 @@
       "url": "https://open.spotify.com/track/5DJ0y9uatNMVRCqLtFxGPR"
     },
     {
-      "added_at": "2025-11-20 16:02:04",
+      "added_at": "2025-11-21 13:56:15",
       "album": {
         "name": "Son Of Spergy",
         "url": "https://open.spotify.com/album/2LKW0m9cC63QzEI9tJH3ql"
@@ -697,39 +745,7 @@
       "url": "https://open.spotify.com/track/6DH13QYXK7lKkYHSU88N48"
     },
     {
-      "added_at": "2025-11-20 16:02:04",
-      "album": {
-        "name": "Rebel",
-        "url": "https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug"
-      },
-      "artists": [
-        {
-          "name": "EsDeeKid",
-          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
-        }
-      ],
-      "duration_ms": 96000,
-      "name": "Rottweiler",
-      "url": "https://open.spotify.com/track/7mcxFbFdnFFbWwPflgqqKE"
-    },
-    {
-      "added_at": "2025-11-20 16:02:04",
-      "album": {
-        "name": "The Art of Loving",
-        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Let Alone The One You Love",
-      "url": "https://open.spotify.com/track/3Vd4fHzwS6pBS3muymjiDi"
-    },
-    {
-      "added_at": "2025-11-20 16:02:04",
+      "added_at": "2025-11-21 13:56:15",
       "album": {
         "name": "CHANEL",
         "url": "https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59"
@@ -745,39 +761,7 @@
       "url": "https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7"
     },
     {
-      "added_at": "2025-11-20 16:02:04",
-      "album": {
-        "name": "Summertime Dream",
-        "url": "https://open.spotify.com/album/7Ah40XNSL08oO3p0RAGro8"
-      },
-      "artists": [
-        {
-          "name": "Gordon Lightfoot",
-          "url": "https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4"
-        }
-      ],
-      "duration_ms": 389280,
-      "name": "The Wreck of the Edmund Fitzgerald",
-      "url": "https://open.spotify.com/track/536L9C0N7vhYdibCJx3cI2"
-    },
-    {
-      "added_at": "2025-11-20 16:02:04",
-      "album": {
-        "name": "Big city life",
-        "url": "https://open.spotify.com/album/6C14WjZp4TYn9AXkhdx5Qd"
-      },
-      "artists": [
-        {
-          "name": "Smerz",
-          "url": "https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI"
-        }
-      ],
-      "duration_ms": 271583,
-      "name": "You got time and I got money",
-      "url": "https://open.spotify.com/track/0il7LJ828XyPqyvNx9cF5S"
-    },
-    {
-      "added_at": "2025-11-20 16:02:04",
+      "added_at": "2025-11-21 13:56:15",
       "album": {
         "name": "SWAT",
         "url": "https://open.spotify.com/album/4D9FbyngDN1YQM7otNAu1a"
@@ -797,23 +781,23 @@
       "url": "https://open.spotify.com/track/5Jh7Gc5aF6leolD64pNRD5"
     },
     {
-      "added_at": "2025-11-20 16:02:04",
+      "added_at": "2025-11-21 13:56:15",
       "album": {
-        "name": "Ego Death At A Bachelorette Party",
-        "url": "https://open.spotify.com/album/3MROTtttK946gHaTkXeP8b"
+        "name": "Big city life",
+        "url": "https://open.spotify.com/album/6C14WjZp4TYn9AXkhdx5Qd"
       },
       "artists": [
         {
-          "name": "Hayley Williams",
-          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+          "name": "Smerz",
+          "url": "https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI"
         }
       ],
-      "duration_ms": 203710,
-      "name": "Good Ol' Days",
-      "url": "https://open.spotify.com/track/0X1Bz7NKvIh90nIptl5tlG"
+      "duration_ms": 271583,
+      "name": "You got time and I got money",
+      "url": "https://open.spotify.com/track/0il7LJ828XyPqyvNx9cF5S"
     },
     {
-      "added_at": "2025-11-20 16:02:04",
+      "added_at": "2025-11-21 13:56:15",
       "album": {
         "name": "Spellbound",
         "url": "https://open.spotify.com/album/7qNkTDCyN1yGKcHAJPQmCX"
@@ -829,7 +813,7 @@
       "url": "https://open.spotify.com/track/4KNjK6R0aB4j8IT9LU0o6T"
     },
     {
-      "added_at": "2025-11-20 16:02:04",
+      "added_at": "2025-11-21 13:56:15",
       "album": {
         "name": "Deadbeat",
         "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
@@ -845,7 +829,7 @@
       "url": "https://open.spotify.com/track/1NXbNEAcPvY5G1xvfN57aA"
     },
     {
-      "added_at": "2025-11-20 16:02:04",
+      "added_at": "2025-11-21 13:56:15",
       "album": {
         "name": "IRIS OUT",
         "url": "https://open.spotify.com/album/06re45NBDCPah74jnVOISQ"
@@ -861,10 +845,10 @@
       "url": "https://open.spotify.com/track/59hVbgr8rfYkDbHfr8RcGI"
     },
     {
-      "added_at": "2025-11-20 16:02:04",
+      "added_at": "2025-11-21 13:56:15",
       "album": {
-        "name": "Hazbin Hotel: Season Two (Episodes 1 - 2) [Original Soundtrack]",
-        "url": "https://open.spotify.com/album/2u4FWAUYshQ5iY9E2twPFR"
+        "name": "Hazbin Hotel: Season Two (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4Vhlieo0fDahoYEPvGbSEm"
       },
       "artists": [
         {
@@ -877,7 +861,7 @@
         },
         {
           "name": "Joel Perez",
-          "url": "https://open.spotify.com/artist/2W9W8wwOXJCux8sfyptX2p"
+          "url": "https://open.spotify.com/artist/1OFyMXmkzPqt8a5MZ1ue5h"
         },
         {
           "name": "Lilli Cooper",
@@ -894,23 +878,39 @@
       ],
       "duration_ms": 119883,
       "name": "Once We Get Up There",
-      "url": "https://open.spotify.com/track/549JtxfKzlyVlPAaI0WdC8"
+      "url": "https://open.spotify.com/track/66sO5P0JhejhELU35RYVKV"
     },
     {
-      "added_at": "2025-11-20 16:02:04",
+      "added_at": "2025-11-21 13:56:15",
       "album": {
-        "name": "West End Girl",
-        "url": "https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn"
+        "name": "Dying To Love",
+        "url": "https://open.spotify.com/album/46UaOs7CHiOPGGdxUtWvcj"
       },
       "artists": [
         {
-          "name": "Lily Allen",
-          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+          "name": "Bad Omens",
+          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
         }
       ],
-      "duration_ms": 241693,
-      "name": "Pussy Palace",
-      "url": "https://open.spotify.com/track/73vfMXcXa6iY1E3lpf2fZO"
+      "duration_ms": 256965,
+      "name": "Dying To Love",
+      "url": "https://open.spotify.com/track/1TPdMmb92BoWvDFQlCuVl0"
+    },
+    {
+      "added_at": "2025-11-21 13:56:15",
+      "album": {
+        "name": "Ego Death At A Bachelorette Party",
+        "url": "https://open.spotify.com/album/3MROTtttK946gHaTkXeP8b"
+      },
+      "artists": [
+        {
+          "name": "Hayley Williams",
+          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+        }
+      ],
+      "duration_ms": 203710,
+      "name": "Good Ol' Days",
+      "url": "https://open.spotify.com/track/0X1Bz7NKvIh90nIptl5tlG"
     }
   ],
   "unique_name": "Viral 50 - USA",

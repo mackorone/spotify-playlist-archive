@@ -4,7 +4,7 @@
 
 > Tierra linda que siempre sueño, y que muy dentro llevo\. Ciudad de Monterrey ♥️
 
-398 songs - 23 hr 18 min
+399 songs - 23 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [El Corrido De Monterrey](https://open.spotify.com/track/2bXU0PLPlMDtGn4kn7iFlb) | [Los Herederos De Nuevo León](https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI) | [Rayados Es Pasión En La Vida Y En La Cancha](https://open.spotify.com/album/7vVE5vmZXH5qUuzYClEsUC) | 3:32 | 2025-06-17 | 2025-11-10 |
 | [El corrido de Monterrey](https://open.spotify.com/track/7u1gFqGkLA7xyOkJZp1g8y) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK) | [Corridos bien Pesados para la Bohemia](https://open.spotify.com/album/3nG2ti1HDXSb8ANhXSaupS) | 3:48 | 2023-06-16 | 2024-07-15 |
 | [El Desorden](https://open.spotify.com/track/5wTJR7wThGAXecobfYhytr) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [El Desorden](https://open.spotify.com/album/07XhIDBf3asLUakoprXiek) | 3:54 | 2025-06-17 | 2025-11-10 |
+| [El Destino](https://open.spotify.com/track/7mdMQCApxo5sgvo6crSKQ6) | [Destino](https://open.spotify.com/artist/1OxOSIlaBxSoWcT7UzxFwZ) | [El Destino](https://open.spotify.com/album/2mFPS23WhgFncvfwXDSjr4) | 2:44 | 2025-11-09 |  |
 | [El Empresario](https://open.spotify.com/track/2HXqNMrEBpxfDHVlz9CEgC) | [Efecto Elegante](https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3), [Adrian Chaparro](https://open.spotify.com/artist/3Y4EQUPoAoMmzHwq4LUYtl) | [El Empresario](https://open.spotify.com/album/5i0mRNIGDibaCnpqN7bw94) | 3:43 | 2025-11-09 |  |
 | [El Estrés](https://open.spotify.com/track/5MsVbEhkVyVUf6YeIp0WAk) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Los Dos Carnales Con Sax](https://open.spotify.com/album/0h2aKd80PYoq8U4oP3iAlo) | 3:47 | 2024-07-02 | 2025-11-10 |
 | [El Estrés](https://open.spotify.com/track/5fuTmwYlUNijAz0wa2G1OT) | [Los Hnos Rodriguez](https://open.spotify.com/artist/4pLBsWSdyApz2k5JtPnmGU) | [El Estrés](https://open.spotify.com/album/5ovae0uIRz8BvemwybWbMS) | 3:54 | 2025-11-09 |  |
@@ -295,7 +296,7 @@
 | [Pocos Años Mil Errores](https://open.spotify.com/track/5T5WtEcIJl9bKHvaporht6) | [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu), [Jaque Mate](https://open.spotify.com/artist/5mbxtnt9L2GGY2ebz6Xdew), [Carlos Manjarrez](https://open.spotify.com/artist/3nmpoFfQfHCsqho4taq5FK) | [Richland](https://open.spotify.com/album/6MkSY1LR0S215pdhQ5bioQ) | 3:18 | 2025-11-09 |  |
 | [Por Mi México \(Remix\)](https://open.spotify.com/track/2m3Fqmw1mfs39KklPmjq79) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Por Mi México \(Remix\)](https://open.spotify.com/album/3p22kEU3PqsIrYWJpa9Bko) | 6:45 | 2025-11-09 |  |
 | [Por Que Te Has Ido](https://open.spotify.com/track/2SXw7Ilya1GRxAiNYGrjbl) | [La Dinastia Romero](https://open.spotify.com/artist/0BNtAnbw7qpWkfDYQ8DDvu) | [Por Que Te Has Ido](https://open.spotify.com/album/0WKkhPxnIwAIiwHxZyI28t) | 5:06 | 2023-11-08 | 2024-07-03 |
-| [Prom](https://open.spotify.com/track/0fcSrSjsn3davHBci18iT0) | [Los Caliz](https://open.spotify.com/artist/4S7g1b3zVElT70kZGKkXiz) | [Prom](https://open.spotify.com/album/3C9JUf1lop0U0NlwxSEJjX) | 2:22 | 2025-11-09 |  |
+| [Prom](https://open.spotify.com/track/0fcSrSjsn3davHBci18iT0) | [Los Caliz](https://open.spotify.com/artist/4S7g1b3zVElT70kZGKkXiz) | [Prom](https://open.spotify.com/album/3C9JUf1lop0U0NlwxSEJjX) | 2:22 | 2025-11-09 | 2025-11-22 |
 | [Prueba De Fuego](https://open.spotify.com/track/2woyQPIhYiJgQVsfpF8KsR) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [Prueba De Fuego](https://open.spotify.com/album/5dCsAdOnWwZpo4jj8iS3yx) | 3:51 | 2024-07-02 | 2025-07-13 |
 | [Préstame Tu Corazón](https://open.spotify.com/track/1bnSKjuPEd8FPACxqA5Mos) | [Efecto Elegante](https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3) | [Préstame Tu Corazón](https://open.spotify.com/album/193sAyinQJCfAe9rWjUH36) | 3:02 | 2025-11-09 |  |
 | [Punta Cana](https://open.spotify.com/track/1TPAAS0YvLKzmDMAGrRd6i) | [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce), [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu) | [Punta Cana](https://open.spotify.com/album/3YvrPSD94Th9TvHcykVsyK) | 2:48 | 2025-11-09 |  |

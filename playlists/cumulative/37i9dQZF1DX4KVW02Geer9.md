@@ -4,7 +4,7 @@
 
 > クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: Yussef Dayes, Minami Kizuki
 
-458 songs - 1 day 9 hr 4 min
+459 songs - 1 day 9 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,6 +329,7 @@
 | [REBIRTH OF SLICK \(COOL LIKE DAT\)](https://open.spotify.com/track/2mcw3TBOZLMJ5DveyfcA3k) | [Kassa Overall](https://open.spotify.com/artist/7qzzcFzliEAHMlDA9qaRVf) | [REBIRTH OF SLICK \(COOL LIKE DAT\)](https://open.spotify.com/album/6AZsAsjSYahsVDKGMcgiYN) | 3:04 | 2025-07-10 | 2025-09-12 |
 | [red in tokyo](https://open.spotify.com/track/4ENpPwWJZlmLwFO1XlfOjE) | [Ebi Soda](https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU), [Jianbo](https://open.spotify.com/artist/2gSfXIHv6LgFJ94mUrgXft) | [red in tokyo](https://open.spotify.com/album/59Eqc0zSSeKAr3pbvftIAw) | 2:36 | 2025-09-18 |  |
 | [Red Moon](https://open.spotify.com/track/44tb4TdFVliafU17EQg28J) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Red Moon](https://open.spotify.com/album/1ThA4wB67vZ6r540BIRbAa) | 3:32 | 2025-05-15 |  |
+| [Respond/React \- Live at Blue Note NYC](https://open.spotify.com/track/3Vo9Ovxs9Rj1t0Y7peBiiE) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu) | [Respond/React \(Live at Blue Note NYC\)](https://open.spotify.com/album/3LSSQ25aSyN7JhteAY8CCF) | 5:20 | 2025-11-20 |  |
 | [Rhönrad](https://open.spotify.com/track/3RROpb7rPzDDlYsjz13zq2) | [Solitary Circus](https://open.spotify.com/artist/3tC21Y0BhX2kIIhcUIvaL3) | [Rhönrad](https://open.spotify.com/album/3GaP8KSTInvASPICrRXXbP) | 3:48 | 2025-06-05 | 2025-07-25 |
 | [Rippling](https://open.spotify.com/track/0SHGfREepNpkbAceg1G6sC) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Lazarus \(Adult Swim Original Series Soundtrack\)](https://open.spotify.com/album/2l7QYB5EMOkbtuc17WwBnp) | 2:03 | 2025-04-13 | 2025-08-20 |
 | [Road to Ilha Grande](https://open.spotify.com/track/6vV2uc1YEmS7IXxPauGzJa) | [Bill Evans](https://open.spotify.com/artist/2PyoC81N6Uz8xs5Lzaquje), [Victor Wooten](https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj) | [Road to Ilha Grande](https://open.spotify.com/album/71caZmzyY8y1YRvSaLQK6D) | 5:54 | 2024-06-27 | 2024-11-08 |

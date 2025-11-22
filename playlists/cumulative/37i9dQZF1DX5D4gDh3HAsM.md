@@ -4,7 +4,7 @@
 
 > Jazzy takes on your favorite Holiday songs\. Cover: Samara Joy
 
-169 songs - 9 hr 54 min
+170 songs - 10 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,9 +81,10 @@
 | [I've Got My Love to Keep Me Warm](https://open.spotify.com/track/4swVkhYwnmA0ls8UWzz5VU) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday Love Songs](https://open.spotify.com/album/3MXpFQDq1cTE4WfGZDAsY4) | 2:54 | 2021-11-12 |  |
 | [It's Beginning to Look a Lot like Christmas](https://open.spotify.com/track/5a1iz510sv2W9Dt1MvFd5R) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0) | 3:26 | 2021-11-12 |  |
 | [It's Christmas](https://open.spotify.com/track/2zs2Ck470VmBFTwUp4NFdv) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [The Pianoman at Christmas](https://open.spotify.com/album/6vWS3FRodKtNLbH25ZbNt5) | 3:14 | 2021-11-12 |  |
-| [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/2GKbw2FCDXHIddECLeSLef) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [It's the Most Wonderful Time of the Year](https://open.spotify.com/album/7qUr1ApU9oVSD9V7xyVWyc) | 2:57 | 2021-11-12 |  |
+| [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/2GKbw2FCDXHIddECLeSLef) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [It's the Most Wonderful Time of the Year](https://open.spotify.com/album/7qUr1ApU9oVSD9V7xyVWyc) | 2:57 | 2021-11-12 | 2025-11-22 |
 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/6jViGawrRIuTOAvUS8kuBy) | [Sam Levine](https://open.spotify.com/artist/1CmCeIsw4tTFiufFAJx04M), [Pat Coil](https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503), [Jacob Jezioro](https://open.spotify.com/artist/2LItgcmlHsUt6BikoXc1Df), [Danny Gottlieb](https://open.spotify.com/artist/29aflj7NM4ocg7fMqbhifM) | [It's the Most Wonderful Time of the Year](https://open.spotify.com/album/0XRBLeu4R4aZQrx6epBCE2) | 3:59 | 2022-11-04 |  |
 | [Jingle Bells](https://open.spotify.com/track/0JY5B4TlHfWBqg72hF7KwX) | [Eric Chacón](https://open.spotify.com/artist/6ZiQIMVzOvDwR4mKPLMNRR), [Chipi Chacon](https://open.spotify.com/artist/0tKWh0NtdpcakhwymYbfc8) | [Jingle Bells](https://open.spotify.com/album/1GiduA9UpMRVLW9m8lKOxs) | 4:13 | 2021-12-10 |  |
+| [Joy To The World](https://open.spotify.com/track/2TyrQS9gC73SSPlu2IEQjP) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [Joy To The World](https://open.spotify.com/album/6CEUCfBMzOnnzVcRDd9CCZ) | 5:25 | 2025-11-21 |  |
 | [Just Me This Year](https://open.spotify.com/track/03nVaudcIV9z2XjgB6PlHa) | [Rachael & Vilray](https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9) | [Just Me This Year](https://open.spotify.com/album/41LqeaMFiSUUY9IygGpmTr) | 3:07 | 2022-10-07 |  |
 | [Last Christmas](https://open.spotify.com/track/2436qlkg1yw3k0fC3kjbYP) | [Shane Hampsheir](https://open.spotify.com/artist/16MbTMsesqMZNB1WaySib8) | [Shane Hampsheir's Christmas](https://open.spotify.com/album/2UAJvYTW6WXrNbYh6Kcf22) | 4:53 | 2021-11-12 | 2024-04-19 |
 | [Last Christmas](https://open.spotify.com/track/4PeEB4RU07v4aRrsXmehR8) | [Shane Hampsheir](https://open.spotify.com/artist/16MbTMsesqMZNB1WaySib8), [London Music Works](https://open.spotify.com/artist/0VeT7hHTJFJZcENGekjCsB) | [Shane Hampsheir's Christmas](https://open.spotify.com/album/7zb0bHCk9qJzkE77C1KO1V) | 4:53 | 2021-11-12 |  |

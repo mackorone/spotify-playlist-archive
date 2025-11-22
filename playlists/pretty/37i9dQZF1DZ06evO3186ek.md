@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3186ek.md) - [plain]
 
 > This is Maverick City Music\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,997 likes - 50 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,010 likes - 50 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3186ek.md) - [plain]
 | 49 | [Yes & Amen\(feat\. Chandler Moore\)](https://open.spotify.com/track/5tJcVf7dGQOdm6fopaVawi) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Maverick City Music, Vol\. 3: Pt\. 2](https://open.spotify.com/album/2R4bNnZCEQUkebqJmcySBt) | 8:33 |
 | 50 | [I Thank God \(Lofi Remix\)](https://open.spotify.com/track/4ouPFv09OApND78EuLB06q) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV) | [I Thank God \(Lofi Remix\)](https://open.spotify.com/album/2gIawRKEVACvrpbtJyd6GQ) | 2:58 |
 
-Snapshot ID: `aR0IgAAAAAD0hWluj17bZsQaJJ+Jg9V+`
+Snapshot ID: `aR5aAAAAAAB5Dxnrpd5+zSZqGu7TQPNT`

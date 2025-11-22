@@ -771,6 +771,28 @@
     },
     {
       "album": {
+        "name": "It's The Holidays",
+        "url": "https://open.spotify.com/album/50pS1trCWbG8dmbVtNg88d"
+      },
+      "artists": [
+        {
+          "name": "L\u00d2NIS",
+          "url": "https://open.spotify.com/artist/1pS3ir5bQSBiBYvOBjPWcm"
+        },
+        {
+          "name": "Jon Mero",
+          "url": "https://open.spotify.com/artist/6MuZFI7KLPBjhmgkkX5LPf"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163447,
+      "name": "It's The Holidays",
+      "url": "https://open.spotify.com/track/1rrabjcbiEcdUiZOe46pFw"
+    },
+    {
+      "album": {
         "name": "Home For Christmas",
         "url": "https://open.spotify.com/album/22iQ0h9GXq3J1HpPLq6ns1"
       },
@@ -1194,6 +1216,24 @@
       "duration_ms": 186386,
       "name": "Someday At Christmas",
       "url": "https://open.spotify.com/track/4FJscysNlC9Z7zXYWSTZ01"
+    },
+    {
+      "album": {
+        "name": "Lamont Landers Sings...The Holidays",
+        "url": "https://open.spotify.com/album/1F7UqgeogdasU1Wicw2X70"
+      },
+      "artists": [
+        {
+          "name": "Lamont Landers",
+          "url": "https://open.spotify.com/artist/3avnA23xLmCYfnsivruOgq"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178013,
+      "name": "Someday At Christmas",
+      "url": "https://open.spotify.com/track/1qSu4UYRzd9JqDdJHSOOsS"
     },
     {
       "album": {

@@ -4501,6 +4501,24 @@
     },
     {
       "album": {
+        "name": "HOLY",
+        "url": "https://open.spotify.com/album/7L2fmrTXkZJPfFE3E0loa5"
+      },
+      "artists": [
+        {
+          "name": "CHINEMEREM",
+          "url": "https://open.spotify.com/artist/1kW6NzBKO0fVW3VEfgF00v"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369875,
+      "name": "HOLY",
+      "url": "https://open.spotify.com/track/7l33UbLQbU2r8fKLgQtdxd"
+    },
+    {
+      "album": {
         "name": "Holy",
         "url": "https://open.spotify.com/album/4bv5H8WcvwIWZCtavE9ylr"
       },
@@ -4698,7 +4716,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 148152,
       "name": "I Confess",
       "url": "https://open.spotify.com/track/5b7qnyG18YUzdAOTHGW1oc"
@@ -5743,6 +5761,24 @@
     },
     {
       "album": {
+        "name": "Jesus Loves Me (Oh Kwabena)",
+        "url": "https://open.spotify.com/album/6rqAYrPXgVDBMpgFSP9Iin"
+      },
+      "artists": [
+        {
+          "name": "Emandiong",
+          "url": "https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131111,
+      "name": "Jesus Loves Me (Oh Kwabena)",
+      "url": "https://open.spotify.com/track/2XP4PLQp37qU0wHunJHuSl"
+    },
+    {
+      "album": {
         "name": "Jesus Never Fails",
         "url": "https://open.spotify.com/album/0n1dN2pZ24kVPBoADqICfj"
       },
@@ -6520,7 +6556,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 197067,
       "name": "Light My Way",
       "url": "https://open.spotify.com/track/7cJNrb80srlS1s499HjEQF"
@@ -6914,7 +6950,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 140769,
       "name": "Me & My Jesus",
       "url": "https://open.spotify.com/track/4JWi6Q3LSBu8r3hBaWnIKI"
@@ -10500,7 +10536,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-21",
+      "date_removed": null,
       "duration_ms": 382789,
       "name": "Sound The Alarm (Anazao)",
       "url": "https://open.spotify.com/track/57geoXJIJ8969kz6ThQyLA"
@@ -10558,7 +10594,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 170550,
       "name": "Speed Dial",
       "url": "https://open.spotify.com/track/5RLa0rdbAhoVwk58koehYV"
@@ -11386,7 +11422,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-21",
+      "date_removed": null,
       "duration_ms": 162782,
       "name": "This Year - Remix",
       "url": "https://open.spotify.com/track/4ZQv2Qt7VP2Phbuh7Mzae7"

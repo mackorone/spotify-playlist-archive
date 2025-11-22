@@ -4,7 +4,7 @@
 
 > The best in blues right now\. Cover: Robert Finley
 
-526 songs - 1 day 11 hr 19 min
+527 songs - 1 day 11 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Down in Mississippi](https://open.spotify.com/track/3GC6jhvSskDuRpL9XZ4bdJ) | [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [Rawer Than Raw](https://open.spotify.com/album/0Ar6NKv30rwDh3mhZha61I) | 3:23 | 2020-12-14 | 2022-02-26 |
 | [Down On The South Side](https://open.spotify.com/track/3bEvr0dRJeQ02PynkdmXuV) | [The Cash Box Kings](https://open.spotify.com/artist/05eG6kRq0vo8hfQxW2sh8c) | [Oscar's Motel](https://open.spotify.com/album/3OaTkkcE8j9gFJQCmlSZJ4) | 3:41 | 2023-03-17 | 2025-04-05 |
 | [Down To The Bottom](https://open.spotify.com/track/2867syuupBlecM1Ra7PGyZ) | [Larry McCray](https://open.spotify.com/artist/24NDm7vTLocVLStlgkKjJc), [Warren Haynes](https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h) | [Blues Without You](https://open.spotify.com/album/0Bi6Nd9yKYnZRnwWCrhhyr) | 5:42 | 2022-03-25 | 2024-05-25 |
+| [Driftin' And Driftin'](https://open.spotify.com/track/407IbQLCqkrqTL1UcfYOFI) | [Solomon Hicks](https://open.spotify.com/artist/6wOhfVrtGnmbLlgcAHSR1k) | [Driftin' And Driftin'](https://open.spotify.com/album/0KfGr15FToeRzYayAlbF6y) | 3:50 | 2025-11-21 |  |
 | [Drifting From Town To Town](https://open.spotify.com/track/0DjSBXNU6jGMxsnrGdxw0i) | [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Mississippi Son](https://open.spotify.com/album/2AipA2HCjjgiM7A77vnXxf) | 3:06 | 2022-06-03 | 2024-12-14 |
 | [Drive By The Exit Sign](https://open.spotify.com/track/3bDiDVYhu3pa2B6vO7uNuH) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Drive By The Exit Sign](https://open.spotify.com/album/5OIdB1EF1zWV52qAbOCt3v) | 4:19 | 2025-05-23 | 2025-10-18 |
 | [Drunk on Your Love](https://open.spotify.com/track/3bEiLUc6SNYVtJr1FgcN4k) | [Jovin Webb](https://open.spotify.com/artist/7tPs43oKJNTRvGr6IQ8N9k) | [Drifter](https://open.spotify.com/album/3K3Pd91BolfUsaTUhp6jZR) | 3:42 | 2024-10-18 |  |
@@ -154,7 +155,7 @@
 | [Funky Music](https://open.spotify.com/track/640wmLH8Gum9QbtadiRL1H) | [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv) | [Funky Music](https://open.spotify.com/album/596i4DpXq6GdoZnFGZp0hp) | 4:10 | 2024-03-08 | 2024-04-19 |
 | [Funky Music](https://open.spotify.com/track/6P1ymqtnLK8fhgss4wSAV4) | [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv) | [Funky Music](https://open.spotify.com/album/0liLs1akeHQRHkvmLWGuEi) | 4:10 | 2024-03-08 | 2024-04-27 |
 | [Further](https://open.spotify.com/track/3e11gcdBWpIPpgDsHuJ1K3) | [Dwight & Nicole](https://open.spotify.com/artist/4F8E2YPeiWp9ncA3xJlxv0) | [Further](https://open.spotify.com/album/5YU8wpgoWdOkiRrjuJCeNo) | 2:57 | 2021-10-08 | 2023-06-17 |
-| [Further On Up The Road](https://open.spotify.com/track/0D1CV2GEWYrtsV1MSagoFv) | [Solomon Hicks](https://open.spotify.com/artist/6wOhfVrtGnmbLlgcAHSR1k) | [Further On Up The Road](https://open.spotify.com/album/7yZVOOsYS2rZB9mowwb56x) | 4:18 | 2025-09-26 |  |
+| [Further On Up The Road](https://open.spotify.com/track/0D1CV2GEWYrtsV1MSagoFv) | [Solomon Hicks](https://open.spotify.com/artist/6wOhfVrtGnmbLlgcAHSR1k) | [Further On Up The Road](https://open.spotify.com/album/7yZVOOsYS2rZB9mowwb56x) | 4:18 | 2025-09-26 | 2025-11-22 |
 | [Gee Baby Ain't I Good To You](https://open.spotify.com/track/1hNvO806O5Z6tFJWCgDumi) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Gee Baby Ain't I Good To You](https://open.spotify.com/album/3mSZj6jGzCcDx2uNNhwNQk) | 3:51 | 2023-01-06 | 2023-09-16 |
 | [Georgia Women](https://open.spotify.com/track/6iXthXEPC9OJi9UkOZSN2g) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [Georgia Women](https://open.spotify.com/album/1Ju9SXFdTM6uvkjTdiQNAS) | 4:05 | 2022-04-29 | 2022-06-11 |
 | [Get Down](https://open.spotify.com/track/3EHUAF57hi6zS7LS9QKzGJ) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [I Be Trying](https://open.spotify.com/album/3cBmAwjBX1csLooXbuwHhr) | 3:27 | 2021-06-25 | 2022-07-29 |

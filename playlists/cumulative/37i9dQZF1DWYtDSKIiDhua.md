@@ -4,7 +4,7 @@
 
 > R&B and good vibe tracks for your current mood\. Cover: Tilly Birds
 
-1,458 songs - 3 day 5 hr 55 min
+1,459 songs - 3 day 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Baby \(Is it a Crime\)](https://open.spotify.com/track/6NOrpcicPUh2eaj8bAD44u) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Baby \(Is it a Crime\)](https://open.spotify.com/album/6UyYWiOrIJMlccE1DmNRHK) | 2:44 | 2025-02-06 | 2025-05-02 |
 | [Baby \(Let Me Go\)](https://open.spotify.com/track/1SHu7U29GaqDQscph7k8Ha) | [Jordy Waelauruw](https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H), [Latinka](https://open.spotify.com/artist/6ns8FM7VeO27uESowfbvx2), [Nael Larumunde](https://open.spotify.com/artist/4A5EugnDijRnEMmNYqpntT), [Niel Larumunde](https://open.spotify.com/artist/2amko2icNCRZtpNVx67D2O) | [Baby \(Let Me Go\)](https://open.spotify.com/album/3TqYCWuv8yVfBwzDE0xJ0H) | 4:08 | 2025-02-13 | 2025-05-02 |
 | [Baby Blue](https://open.spotify.com/track/5FZsJeAOphubEbGEzHATlq) | [Soong](https://open.spotify.com/artist/1hKtrBDlkEWMZuu6clRxKc) | [Baby Blue](https://open.spotify.com/album/7rFLaq2TZuwO3piSQXhHtr) | 3:16 | 2023-06-22 | 2023-07-08 |
-| [Baby Boy](https://open.spotify.com/track/0ecf1L8NLJBmhupwxnAXcP) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Destinée](https://open.spotify.com/album/33V05j22TgtWOJ5OvREj1p) | 3:07 | 2025-11-20 |  |
+| [Baby Boy \(feat\. Kali Uchis\)](https://open.spotify.com/track/0ecf1L8NLJBmhupwxnAXcP) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Destinée](https://open.spotify.com/album/33V05j22TgtWOJ5OvREj1p) | 3:07 | 2025-11-20 |  |
 | [Baby I Know](https://open.spotify.com/track/6Qrz1XYQHe0yTVZw5r3KCs) | [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [WOOOF!](https://open.spotify.com/album/1y4t87ut2gkVbmGfNjaPyV) | 4:27 | 2023-11-16 | 2024-04-12 |
 | [Baby July](https://open.spotify.com/track/10Yqzw7epmxfTzbZ03p1zX) | [Assia Keva](https://open.spotify.com/artist/78rdZWsKiflQNcM4ecLyi8) | [Baby July](https://open.spotify.com/album/3rrJ11EUeMVmCB7UkHOe3y) | 3:19 | 2025-07-31 | 2025-10-24 |
 | [baby, lmk](https://open.spotify.com/track/2xYtaFbnusB8RDW4lxkimy) | [Notkyle](https://open.spotify.com/artist/6NbOllM9XjgO44JQyhUv6D), [Lukey](https://open.spotify.com/artist/3do4yL5zwMViERQIwA6KYp) | [baby, lmk](https://open.spotify.com/album/0VzytjR0VnjonQrySdnocY) | 3:26 | 2025-06-12 | 2025-09-19 |
@@ -656,7 +656,7 @@
 | [Jah](https://open.spotify.com/track/5em888nSVKmO5gWLR3vFb6) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [Jah](https://open.spotify.com/album/4loLO6BScEOCNJaUnXpIMd) | 2:27 | 2023-06-15 | 2023-06-23 |
 | [JEANS \(with Miguel\)](https://open.spotify.com/track/4joC6YCuIUDdBBAY2rCBGi) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [JEANS](https://open.spotify.com/album/1iFSjxYvls81f60fJx8G5K) | 3:15 | 2023-08-17 | 2023-09-01 |
 | [Joint 4 U](https://open.spotify.com/track/3o0Zse7jMU11E8d7cWoi6w) | [Isla K](https://open.spotify.com/artist/0BtSuJKKjzsal6MQSwHN3A), [hohoman16](https://open.spotify.com/artist/7yV83KFDjcx1QREEzqPUKk) | [Joint 4 U](https://open.spotify.com/album/6miUQfFMRT797QqqNaYMe8) | 2:36 | 2024-08-29 | 2024-11-08 |
-| [Jury](https://open.spotify.com/track/0HqIvIEYPWDnI2gSmyxWZy) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [](https://open.spotify.com/album/null) | 2:30 | 2025-11-20 |  |
+| [Jury](https://open.spotify.com/track/0HqIvIEYPWDnI2gSmyxWZy) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Cut Ties \(Deluxe Version\)](https://open.spotify.com/album/6dkIA6cPbDA99Q3zNon5iS) | 2:30 | 2025-11-20 |  |
 | [Keen](https://open.spotify.com/track/5FjgNCKyg3yYHHTMNQiMgl) | [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti), [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Keen](https://open.spotify.com/album/7Ej5UEFKXWLmQ6g5lYkpWL) | 3:57 | 2024-08-08 | 2024-10-11 |
 | [Keep Me In Love](https://open.spotify.com/track/7j8mf8Qrvmhjl8Yr13iFr7) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Keep Me In Love](https://open.spotify.com/album/7ETOuFfahxfhuMlKPYbFPt) | 2:36 | 2023-08-03 | 2023-08-18 |
 | [KEEP UP](https://open.spotify.com/track/2HlIy1LtfJZA5Kzm9K6geV) | [Marae](https://open.spotify.com/artist/6jHCdKqgmFG0Ta7RG8GilI) | [KEEP UP](https://open.spotify.com/album/5m9fw0qCeYWJRal4VyhPH8) | 2:30 | 2024-09-26 | 2024-11-22 |
@@ -1039,6 +1039,7 @@
 | [Romantica](https://open.spotify.com/track/39eZLeY7b5nYt76MivVP6M) | [Silly Silky](https://open.spotify.com/artist/4IHSCHg3UPSy0rBSHi3c5s) | [Début](https://open.spotify.com/album/6Zwn86SLvGk3cy4ic6rb0v) | 3:14 | 2024-11-28 | 2024-12-05 |
 | [romeo n juliet \(feat\. youra\)](https://open.spotify.com/track/0R4SiuGcwqpmsE9a7rm9ws) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV), [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [gimbap](https://open.spotify.com/album/2LPagny0OzjqFRiktjAfOp) | 3:21 | 2024-08-22 | 2024-08-30 |
 | [room 1: OTF](https://open.spotify.com/track/1I2UpNMJwCSLTnBavTwnrx) | [donny daydream](https://open.spotify.com/artist/1cN7t71QLFV6b0Fs3PlkPS) | [room 1: OTF](https://open.spotify.com/album/2EyFBidiMq8N7gA5fGSory) | 2:22 | 2025-09-18 |  |
+| [room 6: THATS ON ME](https://open.spotify.com/track/08iVPCDvHIKlO5DjEfMaMb) | [donny daydream](https://open.spotify.com/artist/1cN7t71QLFV6b0Fs3PlkPS) | [room 6: THATS ON ME](https://open.spotify.com/album/1MoTsJ97BqN1ZigfLCxayG) | 2:35 | 2025-11-20 |  |
 | [Root of all Evil](https://open.spotify.com/track/0NZKfcua68wuZePhjp8N2I) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Son Of Spergy](https://open.spotify.com/album/115s3YJqm6iLblABdjtgzQ) | 4:25 | 2025-10-23 |  |
 | [Rose](https://open.spotify.com/track/2OOMy8bcLiVOquyAM8ONeb) | [Aden](https://open.spotify.com/artist/4UDCQ7Ef3OTa8jd1SzXIsv) | [Rose](https://open.spotify.com/album/1RTmX2eJgfdBSEErVW0Jfm) | 2:37 | 2023-05-11 | 2023-06-09 |
 | [Roses](https://open.spotify.com/track/3urRYZm3Xws15GeNNoqs7y) | [JAEHYUN](https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu) | [Roses/Dandelion](https://open.spotify.com/album/6cKYPQdKPYElQMIQfZD8z3) | 2:48 | 2024-08-15 | 2024-11-08 |

@@ -4,7 +4,7 @@
 
 > From the roads to the globe, UK Rap is life\. The hottest new UK rap, hip\-hop, grime, &amp; drill in 2025\. Cover: Nemzzz
 
-106 songs - 4 hr 59 min
+107 songs - 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Mini Me's](https://open.spotify.com/track/0Nfh3RkaFSCaL0MtpDSAG8) | [Meekz](https://open.spotify.com/artist/1Pm6hTRjgSkT3B4FCQpW4g) | [Mini Me's](https://open.spotify.com/album/2juJFdzjxF5S4Nca1D0sKm) | 4:09 | 2025-10-03 |  |
 | [MONEY AND VIBES](https://open.spotify.com/track/6XH5Uqo3d0cvBv0dv9Jwh8) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [MONEY AND VIBES](https://open.spotify.com/album/7s4VOuuo8CvJ5VLCmpBU8P) | 2:02 | 2025-10-03 |  |
 | [Mount Rushmore \(feat\. Kano & Wretch 32\)](https://open.spotify.com/track/39aFGcwsZSn4zjKepcBXE0) | [Ghetts](https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6), [Kano](https://open.spotify.com/artist/50nN8IFD4xA67fI4jYbLV4), [Wretch 32](https://open.spotify.com/artist/0T2sGLJKge2eaFmZJxX7sq) | [On Purpose, With Purpose](https://open.spotify.com/album/5hJdThiWNAo9kIURyWRKwd) | 5:05 | 2025-10-03 |  |
+| [MR DND](https://open.spotify.com/track/7KVkMVxVs3GqO7Vzy9hzjk) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [From Me 2 U](https://open.spotify.com/album/4SWWl5H8G1ZVx56WQV3yhY) | 1:44 | 2025-11-21 |  |
 | [NEW DROP](https://open.spotify.com/track/2c7z5oRcPBbqRaBY2mLWcf) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 3:37 | 2025-10-03 |  |
 | [NKITA \(feat\. Fimiguerrero\)](https://open.spotify.com/track/0ZTM2WCM4fAOwmYtG9pbnm) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa), [Fimiguerrero](https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du) | [NKITA \(feat\. Fimiguerrero\)](https://open.spotify.com/album/1oTf2VWsO3CWjc1S4EWDkz) | 2:25 | 2025-10-03 |  |
 | [Off Licence](https://open.spotify.com/track/5BFRPqRl3slqX77p53KwHK) | [Chip](https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT), [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0) | [Off Licence](https://open.spotify.com/album/73MoAtDJJzUeEZJDlb9GoR) | 2:43 | 2025-10-03 |  |

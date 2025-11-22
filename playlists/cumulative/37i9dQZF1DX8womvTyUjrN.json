@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The new wave of Latin pop \ud83c\udf0a Cover: ISADORA",
+  "description": "The new wave of Latin pop \ud83c\udf0a Cover: Natalia Lacunza",
   "name": "el nuevo pop",
   "tracks": [
     {
@@ -450,7 +450,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 150662,
       "name": "A Pesar De Todo",
       "url": "https://open.spotify.com/track/2GSmX9xalHJMIEA23MLgFz"
@@ -566,7 +566,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 176202,
       "name": "ABANICO SANYO",
       "url": "https://open.spotify.com/track/1oBtRQwxN7DolAzfDXdh7z"
@@ -1098,7 +1098,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 210769,
       "name": "amarillo",
       "url": "https://open.spotify.com/track/6ULnlEp0Oto5F7fMQaokwD"
@@ -1615,6 +1615,28 @@
     },
     {
       "album": {
+        "name": "aunquetelopida",
+        "url": "https://open.spotify.com/album/2HvFECGJfDZjGjCj4yUGsA"
+      },
+      "artists": [
+        {
+          "name": "MAGNA",
+          "url": "https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF"
+        },
+        {
+          "name": "Riosse",
+          "url": "https://open.spotify.com/artist/2j5iC8hR6INKeqJ2D1Zjiv"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180631,
+      "name": "aunquetelopida",
+      "url": "https://open.spotify.com/track/5OszUdNFVSsd3lGIHWGRpi"
+    },
+    {
+      "album": {
         "name": "AURA",
         "url": "https://open.spotify.com/album/2hpXtYEpMEI5bAPZE1eouN"
       },
@@ -1626,7 +1648,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 141223,
       "name": "AURA",
       "url": "https://open.spotify.com/track/35O5u1etohDjHX2km9YItO"
@@ -1674,6 +1696,28 @@
       "duration_ms": 177389,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/5ruXmcIszTA8a5GWfloGWV"
+    },
+    {
+      "album": {
+        "name": "Aviones de Papel",
+        "url": "https://open.spotify.com/album/3rXvXK7tpiQL17PnCxfYdr"
+      },
+      "artists": [
+        {
+          "name": "Susana Cala",
+          "url": "https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB"
+        },
+        {
+          "name": "Josue Alaniz",
+          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150419,
+      "name": "Aviones de Papel",
+      "url": "https://open.spotify.com/track/4hNdUb1jgKQ2lytl0Z17dN"
     },
     {
       "album": {
@@ -3550,7 +3594,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 175833,
       "name": "Ciao!",
       "url": "https://open.spotify.com/track/2fe4b8WKHBdkQsDykUE2hs"
@@ -4166,7 +4210,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 191375,
       "name": "contraste",
       "url": "https://open.spotify.com/track/2nxDBchv9ZAYLfkr7l33Gt"
@@ -4396,6 +4440,24 @@
       "duration_ms": 169802,
       "name": "cosquillas",
       "url": "https://open.spotify.com/track/5wX7RyoYLhUdTccRqyay42"
+    },
+    {
+      "album": {
+        "name": "CRAZY IN YOUR HEAD",
+        "url": "https://open.spotify.com/album/4zL3BV6jcOHt2lja8WCdEx"
+      },
+      "artists": [
+        {
+          "name": "lil joujou",
+          "url": "https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106068,
+      "name": "CRAZY IN YOUR HEAD",
+      "url": "https://open.spotify.com/track/5GhSKBJdR5sqp0X87MDiC2"
     },
     {
       "album": {
@@ -5494,7 +5556,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 179200,
       "name": "Dismorfia",
       "url": "https://open.spotify.com/track/6MxToHOYmYuNVMQiUtQxPX"
@@ -5512,7 +5574,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 133109,
       "name": "Distancia",
       "url": "https://open.spotify.com/track/05g640VkMl5HVsCA5x7OTR"
@@ -7853,6 +7915,24 @@
     },
     {
       "album": {
+        "name": "GIMME MORE",
+        "url": "https://open.spotify.com/album/79TfVmx8S2A6aDGRUYDjRk"
+      },
+      "artists": [
+        {
+          "name": "CA7RIEL & Paco Amoroso",
+          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184716,
+      "name": "GIMME MORE",
+      "url": "https://open.spotify.com/track/3H5zeP0WbEuk77bUwcOqcZ"
+    },
+    {
+      "album": {
         "name": "Girasoles",
         "url": "https://open.spotify.com/album/03uRy5s9Wp6jZd36eOLhds"
       },
@@ -9086,7 +9166,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 184583,
       "name": "LA 17",
       "url": "https://open.spotify.com/track/5VvXKI2utC5crGwOrqFppP"
@@ -9417,6 +9497,24 @@
     },
     {
       "album": {
+        "name": "La Iron\u00eda Del Querer",
+        "url": "https://open.spotify.com/album/0pFWxmskRPwvPt4WNB2Axl"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206536,
+      "name": "La Iron\u00eda Del Querer",
+      "url": "https://open.spotify.com/track/4ckhPsQ5DRsbdjppRYs4Up"
+    },
+    {
+      "album": {
         "name": "la mexicana",
         "url": "https://open.spotify.com/album/0nOehCw2widLGFPYBw8j7N"
       },
@@ -9508,7 +9606,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 160000,
       "name": "La Noche",
       "url": "https://open.spotify.com/track/2bBIVTh7gLuAfCDvU0vsOM"
@@ -9562,7 +9660,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 189627,
       "name": "La Peli",
       "url": "https://open.spotify.com/track/4S9B5SAwJhR3mm2SIUitoq"
@@ -12658,7 +12756,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 199333,
       "name": "nadie se muere de amor",
       "url": "https://open.spotify.com/track/5xaRvApBJCzlG5ZCwgQnnQ"
@@ -12872,6 +12970,24 @@
       "duration_ms": 190000,
       "name": "no eras para m\u00ed",
       "url": "https://open.spotify.com/track/5LGSckE52rD9e0EDYYMTfR"
+    },
+    {
+      "album": {
+        "name": "No Eras Para Tanto",
+        "url": "https://open.spotify.com/album/1bW0N0qXOLZM7jVe969oan"
+      },
+      "artists": [
+        {
+          "name": "ALMAS",
+          "url": "https://open.spotify.com/artist/4CB2DwqLVhw2YENG9hyjGC"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135030,
+      "name": "No Eras Para Tanto",
+      "url": "https://open.spotify.com/track/44lL0sZVxO02J4p1IjTrYb"
     },
     {
       "album": {
@@ -13242,7 +13358,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 175589,
       "name": "NO SUPISTE CUIDARNOS - Respuesta #2",
       "url": "https://open.spotify.com/track/0XYnxyC3AgBO8B19iqc3r4"
@@ -13775,6 +13891,24 @@
     },
     {
       "album": {
+        "name": "Obra de Arte",
+        "url": "https://open.spotify.com/album/5VYBGV4gU3SLgE5wKQczyl"
+      },
+      "artists": [
+        {
+          "name": "Sofia Thompson",
+          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206080,
+      "name": "Obra de Arte",
+      "url": "https://open.spotify.com/track/6LPCdlFbNIo717DLDbGBDJ"
+    },
+    {
+      "album": {
         "name": "LALI",
         "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
       },
@@ -13992,10 +14126,28 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 156794,
       "name": "OK.",
       "url": "https://open.spotify.com/track/7EecUGxRZUTQI6nnm1sMbj"
+    },
+    {
+      "album": {
+        "name": "Olas",
+        "url": "https://open.spotify.com/album/0MC1nluge1zrvhFCvwQ5Ph"
+      },
+      "artists": [
+        {
+          "name": "Patrick Luna",
+          "url": "https://open.spotify.com/artist/7KEMfmb4M0f0H9vOwqzgAy"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105882,
+      "name": "Olas",
+      "url": "https://open.spotify.com/track/65LeWaoRRXjxfq7REFiyDy"
     },
     {
       "album": {
@@ -14010,7 +14162,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 241290,
       "name": "Only A Dream",
       "url": "https://open.spotify.com/track/28Z2OxIisSLEPQqpPwOXRU"
@@ -14942,7 +15094,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 203809,
       "name": "PLAN",
       "url": "https://open.spotify.com/track/04vAjEbTrCky6shWTTJNHT"
@@ -16140,7 +16292,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 173013,
       "name": "Qu\u00e9 Tengo Que Hacer",
       "url": "https://open.spotify.com/track/5tC6q0jaoq06SXYHiN58pJ"
@@ -16735,6 +16887,24 @@
     },
     {
       "album": {
+        "name": "N2STAL5IA",
+        "url": "https://open.spotify.com/album/7HspaFYvdDnUitaW4KS2iF"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lacunza",
+          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161984,
+      "name": "SABES QU\u00c9???",
+      "url": "https://open.spotify.com/track/2lmm2IkjMRbZPnsDBb4WMd"
+    },
+    {
+      "album": {
         "name": "SAL",
         "url": "https://open.spotify.com/album/7EnUrRK3snJYXn19NOIdQh"
       },
@@ -17254,7 +17424,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 220622,
       "name": "Siempre Lo Mismo",
       "url": "https://open.spotify.com/track/0mmcVE9a4QJrgaAsyXdcuZ"
@@ -17276,6 +17446,28 @@
       "duration_ms": 165720,
       "name": "Siento que merezco m\u00e1s",
       "url": "https://open.spotify.com/track/4Z6pPinNzkGtbgAlE88263"
+    },
+    {
+      "album": {
+        "name": "Silencio",
+        "url": "https://open.spotify.com/album/1eVI7w27xRhaWv1c4q3nhC"
+      },
+      "artists": [
+        {
+          "name": "Rubio",
+          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
+        },
+        {
+          "name": "Salt Cathedral",
+          "url": "https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192306,
+      "name": "Silencio",
+      "url": "https://open.spotify.com/track/0mPmXT18k2QJxJaLI4OkF9"
     },
     {
       "album": {
@@ -17606,6 +17798,28 @@
       "duration_ms": 182400,
       "name": "Solo Por Hoy",
       "url": "https://open.spotify.com/track/3Q03ADr7KKUov1HRUlUvqz"
+    },
+    {
+      "album": {
+        "name": "solo por hoy",
+        "url": "https://open.spotify.com/album/2vuts65UMH6sMDCAhGa6eF"
+      },
+      "artists": [
+        {
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+        },
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181190,
+      "name": "solo por hoy",
+      "url": "https://open.spotify.com/track/5m8u5YdRWmUQDSnWqLOvWy"
     },
     {
       "album": {
@@ -18048,7 +18262,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 167609,
       "name": "super girl!",
       "url": "https://open.spotify.com/track/4cIc01Q9kMs94LQh6CkO0o"
@@ -19248,7 +19462,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 188750,
       "name": "TRISTE",
       "url": "https://open.spotify.com/track/1g90E7Uimdv0Ft8WpS6Kcu"
@@ -19486,7 +19700,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 206538,
       "name": "Tu VIP",
       "url": "https://open.spotify.com/track/7dpiIyazo7prnbxzse5zxk"

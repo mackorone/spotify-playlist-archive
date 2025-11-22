@@ -1,6 +1,6 @@
 {
   "description": "Intersection of R&B and afrobeats. Cover: Tems ",
-  "num_followers": 210313,
+  "num_followers": 210361,
   "original_name": "afro&b ",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "AAAAAH9+upTwVqXrHQ/clKYzobOY7q6a",
   "tracks": [
+    {
+      "added_at": "2025-11-20 23:59:29",
+      "album": {
+        "name": "Love Is A Kingdom",
+        "url": "https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 166333,
+      "name": "Big Daddy",
+      "url": "https://open.spotify.com/track/5WcQ5AwCp9mSqpsul6ccx4"
+    },
     {
       "added_at": "2025-11-20 23:59:29",
       "album": {

@@ -2390,7 +2390,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 188367,
       "name": "Cover me",
       "url": "https://open.spotify.com/track/2XeZVmhkVS03hMrRgLr1tA"
@@ -3426,7 +3426,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 211636,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/2IyLPEJDhUiZA4rq9JS4MT"
@@ -6197,6 +6197,24 @@
     },
     {
       "album": {
+        "name": "YATO",
+        "url": "https://open.spotify.com/album/0cVmZ0zxXp2993CWZMyZXE"
+      },
+      "artists": [
+        {
+          "name": "Uniekgrace",
+          "url": "https://open.spotify.com/artist/2F7jyBFPwP1J8guQnTRaP7"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225142,
+      "name": "Ire",
+      "url": "https://open.spotify.com/track/0W1vPzlP2eVEgo3XULHbV4"
+    },
+    {
+      "album": {
         "name": "It's all about Jesus",
         "url": "https://open.spotify.com/album/0uJrIIeTqcJJuP0R53sRfP"
       },
@@ -6540,6 +6558,24 @@
       "duration_ms": 560381,
       "name": "Jesus Revealed (No Eye Has Seen)",
       "url": "https://open.spotify.com/track/4mZfvZBI8J9tyf58elL9Bc"
+    },
+    {
+      "album": {
+        "name": "Jesus the Doer",
+        "url": "https://open.spotify.com/album/2XVvkwEkVy4JIOxvABUKNN"
+      },
+      "artists": [
+        {
+          "name": "Esther Jonathan",
+          "url": "https://open.spotify.com/artist/2VwZIHK1W8Izjud3aASxA9"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 482142,
+      "name": "Jesus the Doer",
+      "url": "https://open.spotify.com/track/7AdrYZPMBEjYIdjSyovMQ9"
     },
     {
       "album": {

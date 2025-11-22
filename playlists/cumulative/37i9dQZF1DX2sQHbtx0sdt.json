@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-05",
-  "description": "New and trending hip-hop from around the world. Cover: EsDeeKid \ud83c\uddec\ud83c\udde7",
+  "description": "New and trending hip-hop from around the world. Cover: Nemzzz \ud83c\uddec\ud83c\udde7",
   "name": "Global Hip-Hop",
   "tracks": [
     {
@@ -446,7 +446,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 161311,
       "name": "444",
       "url": "https://open.spotify.com/track/2f7NXiO2Uyffl4Pp2AArRI"
@@ -1792,10 +1792,28 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 139867,
       "name": "BAD DECISIONS",
       "url": "https://open.spotify.com/track/6DPe3yHTfpFwVVx92AVT54"
+    },
+    {
+      "album": {
+        "name": "PTSD 2",
+        "url": "https://open.spotify.com/album/5eCWX1uAW0B7K8Ti2AgpGy"
+      },
+      "artists": [
+        {
+          "name": "D-Block Europe",
+          "url": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161193,
+      "name": "Bad Luck",
+      "url": "https://open.spotify.com/track/5EjXVdtmfqrwZSsSOyFsgf"
     },
     {
       "album": {
@@ -6061,6 +6079,28 @@
     },
     {
       "album": {
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/1NATXlXj7ZUSJuAbLoQyIE"
+      },
+      "artists": [
+        {
+          "name": "Lithe",
+          "url": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138795,
+      "name": "FaceTime (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/7bxtXC2RHjmd7yNQPnbiZI"
+    },
+    {
+      "album": {
         "name": "Champions League",
         "url": "https://open.spotify.com/album/6h2mS6rKmq3UbZn3RLyRuG"
       },
@@ -6328,6 +6368,32 @@
       "duration_ms": 208968,
       "name": "Fear No Man",
       "url": "https://open.spotify.com/track/0t5jX5yYQ4HklmDak76c39"
+    },
+    {
+      "album": {
+        "name": "Okinawan Wuman",
+        "url": "https://open.spotify.com/album/2qdNHigKoFUZtBlnXlYiwb"
+      },
+      "artists": [
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        },
+        {
+          "name": "RZA",
+          "url": "https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn"
+        },
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224705,
+      "name": "Fear Us (feat. Joey Bada$$)",
+      "url": "https://open.spotify.com/track/7JTojjDe7DUamPDIxCIiZH"
     },
     {
       "album": {
@@ -9812,7 +9878,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 180000,
       "name": "LAGOS",
       "url": "https://open.spotify.com/track/3H5ua10iU8NTD93zawcnVo"
@@ -10552,6 +10618,40 @@
       "duration_ms": 216469,
       "name": "MA DOUCE",
       "url": "https://open.spotify.com/track/3G9yB5mhAfdq3toymB5Pug"
+    },
+    {
+      "album": {
+        "name": "Madd Ting",
+        "url": "https://open.spotify.com/album/5aFNds41L7xe2SJO9XkM5I"
+      },
+      "artists": [
+        {
+          "name": "Summer Cem",
+          "url": "https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg"
+        },
+        {
+          "name": "Blaiz Fayah",
+          "url": "https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7"
+        },
+        {
+          "name": "Jugglerz",
+          "url": "https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY"
+        },
+        {
+          "name": "Beenie Man",
+          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+        },
+        {
+          "name": "Jhorrmountain",
+          "url": "https://open.spotify.com/artist/3aAX2y0amckZ7WcWoz2f2o"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144905,
+      "name": "Madd Ting",
+      "url": "https://open.spotify.com/track/5Iku7QUJV5KXyT5fVHAxcd"
     },
     {
       "album": {
@@ -12056,6 +12156,24 @@
       "duration_ms": 148767,
       "name": "MOZZA",
       "url": "https://open.spotify.com/track/16u1uzODmSjeiT0lLSKWTy"
+    },
+    {
+      "album": {
+        "name": "From Me 2 U",
+        "url": "https://open.spotify.com/album/4SWWl5H8G1ZVx56WQV3yhY"
+      },
+      "artists": [
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104605,
+      "name": "MR DND",
+      "url": "https://open.spotify.com/track/7KVkMVxVs3GqO7Vzy9hzjk"
     },
     {
       "album": {
@@ -13584,7 +13702,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 210574,
       "name": "PAY ME (feat. Stormzy and Zlatan)",
       "url": "https://open.spotify.com/track/1QWiwXbGU9TxbMEyrEUooe"
@@ -13698,7 +13816,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 182645,
       "name": "Performante Pain",
       "url": "https://open.spotify.com/track/2CFOMeQAeajRPnYKOBu6Zy"
@@ -14006,6 +14124,24 @@
       "duration_ms": 123134,
       "name": "Potential - Lolo Zoua\u00ef Remix",
       "url": "https://open.spotify.com/track/3R4mUtY9p1yl5YHomb9ix4"
+    },
+    {
+      "album": {
+        "name": "PRADA BBY",
+        "url": "https://open.spotify.com/album/4rxbk46Re7QPNibqiBKBEx"
+      },
+      "artists": [
+        {
+          "name": "WAVE$TAR",
+          "url": "https://open.spotify.com/artist/35l6bXa97M4hhvQ3e058PZ"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132599,
+      "name": "PRADA BBY",
+      "url": "https://open.spotify.com/track/6W6BpsZf0JiSI77kSz1E0K"
     },
     {
       "album": {
@@ -17692,7 +17828,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 123076,
       "name": "Us vs Them",
       "url": "https://open.spotify.com/track/0lmypbWmfuFdxVhq9N95hv"

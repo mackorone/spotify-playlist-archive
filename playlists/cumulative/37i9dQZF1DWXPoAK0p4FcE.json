@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e17\u0e35\u0e48\u0e1b\u0e31\u0e07 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c! \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: \u0e40\u0e23\u0e19\u0e34\u0e29\u0e23\u0e32",
+  "description": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e17\u0e35\u0e48\u0e1b\u0e31\u0e07 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c! \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Safeplanet",
   "name": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c Indieology",
   "tracks": [
     {
@@ -663,6 +663,24 @@
     },
     {
       "album": {
+        "name": "\u0e04\u0e23\u0e36\u0e48\u0e07\u0e41\u0e23\u0e01 (halftime)",
+        "url": "https://open.spotify.com/album/2BoxbOFfft1eBL6o8wvRuS"
+      },
+      "artists": [
+        {
+          "name": "YEW",
+          "url": "https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272500,
+      "name": "\u0e04\u0e23\u0e36\u0e48\u0e07\u0e41\u0e23\u0e01 (halftime)",
+      "url": "https://open.spotify.com/track/4UMNbuTXjoAB1uy4yltoDa"
+    },
+    {
+      "album": {
         "name": "\u0e04\u0e25\u0e37\u0e48\u0e19",
         "url": "https://open.spotify.com/album/482iKGCtveyDIdSlb64IGB"
       },
@@ -746,7 +764,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 238000,
       "name": "\u0e04\u0e38\u0e13\u0e04\u0e48\u0e32\u0e17\u0e35\u0e48\u0e40\u0e18\u0e2d\u0e04\u0e39\u0e48\u0e04\u0e27\u0e23",
       "url": "https://open.spotify.com/track/3ey4oaB0Dx9N6d4qWcORFx"
@@ -1100,7 +1118,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 265977,
       "name": "\u0e15\u0e32\u0e02\u0e48\u0e32\u0e22\u0e14\u0e31\u0e01\u0e1d\u0e31\u0e19 (Rainbow Catcher)",
       "url": "https://open.spotify.com/track/6PAS5UAJQLYgzRJu2s2a8U"
@@ -1467,6 +1485,24 @@
     },
     {
       "album": {
+        "name": "\u0e1e\u0e23\u0e14\u0e32\u0e27\u0e15\u0e01",
+        "url": "https://open.spotify.com/album/4WBPyEq4CAEORHls1imUjh"
+      },
+      "artists": [
+        {
+          "name": "CORNBOI",
+          "url": "https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268629,
+      "name": "\u0e1e\u0e23\u0e14\u0e32\u0e27\u0e15\u0e01",
+      "url": "https://open.spotify.com/track/6VMntYzRpSDB2lRIJWJ1Zw"
+    },
+    {
+      "album": {
         "name": "\u0e1e\u0e2d\u0e41\u0e25\u0e49\u0e27(\u0e41\u0e15\u0e48\u0e2d\u0e35\u0e01\u0e41\u0e25\u0e49\u0e27)",
         "url": "https://open.spotify.com/album/1dtLsETExRe02RSDxixrAI"
       },
@@ -1532,7 +1568,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 222315,
       "name": "\u0e21\u0e35\u0e0a\u0e35\u0e27\u0e34\u0e15 (Alive)",
       "url": "https://open.spotify.com/track/21NBknen0yxwugDGFPYXy1"
@@ -2397,6 +2433,42 @@
     },
     {
       "album": {
+        "name": "\u0e41\u0e1e\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e07\u0e43\u0e19\u0e2b\u0e31\u0e27 (Hello There)",
+        "url": "https://open.spotify.com/album/2DaeSbOfpJzSQseoQnDTjt"
+      },
+      "artists": [
+        {
+          "name": "loserpop",
+          "url": "https://open.spotify.com/artist/4BI5Vr4SPJSKI0ofzhlsLV"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "\u0e41\u0e1e\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e07\u0e43\u0e19\u0e2b\u0e31\u0e27 (Hello There)",
+      "url": "https://open.spotify.com/track/3MDBApR4v7NT9EbbY7UY7R"
+    },
+    {
+      "album": {
+        "name": "\u0e41\u0e21\u0e49\u0e27\u0e48\u0e32\u0e08\u0e30\u0e40\u0e2b\u0e25\u0e37\u0e2d\u0e41\u0e04\u0e48\u0e40\u0e1e\u0e35\u0e22\u0e07\u0e19\u0e49\u0e33\u0e15\u0e32 ( Tears )",
+        "url": "https://open.spotify.com/album/3RZJaIhAUcjQLa61I0tPZM"
+      },
+      "artists": [
+        {
+          "name": "Safeplanet",
+          "url": "https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263000,
+      "name": "\u0e41\u0e21\u0e49\u0e27\u0e48\u0e32\u0e08\u0e30\u0e40\u0e2b\u0e25\u0e37\u0e2d\u0e41\u0e04\u0e48\u0e40\u0e1e\u0e35\u0e22\u0e07\u0e19\u0e49\u0e33\u0e15\u0e32 ( Tears )",
+      "url": "https://open.spotify.com/track/7DCeytp6V1Pp7U5sMfE7qb"
+    },
+    {
+      "album": {
         "name": "\u0e41\u0e2d\u0e1a\u0e2b\u0e27\u0e31\u0e07",
         "url": "https://open.spotify.com/album/24Wza37KFZjHj8xbPoknaK"
       },
@@ -2664,7 +2736,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 213428,
       "name": "\u0e44\u0e21\u0e48\u0e40\u0e04\u0e22\u0e2d\u0e48\u0e2d\u0e19\u0e41\u0e2d\u0e41\u0e1a\u0e1a\u0e19\u0e35\u0e49\u0e21\u0e32\u0e01\u0e48\u0e2d\u0e19\u0e40\u0e25\u0e22 (Blindfold)",
       "url": "https://open.spotify.com/track/2dJuNVr4LGfmXSXlAHJmgl"

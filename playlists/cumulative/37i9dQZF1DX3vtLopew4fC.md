@@ -4,7 +4,7 @@
 
 > Listen to women in Canada, at full volume\. Cover: Klô Pelgag
 
-2,001 songs - 4 day 8 hr 12 min
+2,002 songs - 4 day 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1013,6 +1013,7 @@
 | [Let's Go](https://open.spotify.com/track/05J6B8Mei5yhX84mrUDa7U) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Let's Go](https://open.spotify.com/album/3AsiOVv4RrFwgSXFch8wP9) | 2:22 | 2022-01-05 | 2022-02-03 |
 | [Levitate](https://open.spotify.com/track/6s1QzH32RMY4N7ybU5EPyr) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v) | [BACK TO 123](https://open.spotify.com/album/4jkbFNTQYE2Yd8yxK8G6q8) | 8:12 | 2023-05-03 | 2023-06-08 |
 | [Libre](https://open.spotify.com/track/1cxU8Lm89wGrMCcQISzYTf) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Libre](https://open.spotify.com/album/4bMFs8RYpu4qRI4x4tpkZl) | 3:09 | 2024-06-05 | 2024-07-04 |
+| [Libre](https://open.spotify.com/track/7nVJa3bpQZc4onq25jo4pJ) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Abracadabra](https://open.spotify.com/album/1Qx4Ifq9PMRQhjF7pChakY) | 3:09 | 2025-11-21 |  |
 | [Lie](https://open.spotify.com/track/7mW7RyWitnXmA7mxA0xwMk) | [Asal](https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU) | [Missing Something](https://open.spotify.com/album/6kj47h4a5ptQiZRYsihT1Y) | 2:14 | 2024-08-09 | 2024-09-05 |
 | [LIE LIE LIE!](https://open.spotify.com/track/0pAQYA3DItRcxctQCGM2AH) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [LIE LIE LIE!](https://open.spotify.com/album/2NnP52zmXOENLm19DojzmS) | 2:28 | 2023-11-10 | 2023-11-30 |
 | [Life For Me](https://open.spotify.com/track/0vBJ0WIXHhLsQccXH21AwN) | [Jess Moskaluke](https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et) | [Life For Me](https://open.spotify.com/album/2QCJTvIknJCxjAamwbjRYf) | 2:53 | 2025-02-05 | 2025-03-06 |
@@ -1849,7 +1850,7 @@
 | [U\-Turn](https://open.spotify.com/track/6Rc2piXpsUG65h6gOnDgYa) | [Angelica Appelman](https://open.spotify.com/artist/5MP0qg1tME82lHjl75bmfM) | [U\-Turn](https://open.spotify.com/album/7KkEHP3sWnhbKEZ43sSZMm) | 3:07 | 2022-09-07 | 2022-10-06 |
 | [uh oh](https://open.spotify.com/track/6qmvAJSUfVGMubvI2awW7p) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [uh oh](https://open.spotify.com/album/0m9hqW0RDEHPNXxhiFUGSq) | 2:49 | 2022-10-05 | 2023-01-05 |
 | [Un peu trop](https://open.spotify.com/track/3jiS0ETithGTKn2uGT6dbF) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Une semaine à Paris](https://open.spotify.com/album/0bCd5P38zFjnlTYD6j569u) | 2:34 | 2024-03-06 | 2024-04-04 |
-| [Un rêve](https://open.spotify.com/track/0y8j2uk4HhhbcQKHy6feeE) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Un rêve](https://open.spotify.com/album/5ZJuJVEBM397cCYUpRfcb8) | 3:11 | 2025-11-05 |  |
+| [Un rêve](https://open.spotify.com/track/0y8j2uk4HhhbcQKHy6feeE) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Un rêve](https://open.spotify.com/album/5ZJuJVEBM397cCYUpRfcb8) | 3:11 | 2025-11-05 | 2025-11-22 |
 | [Unbecoming](https://open.spotify.com/track/4i8qtmA24GECXY98t8reqM) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Unbecoming](https://open.spotify.com/album/3O17GWIWMvwHsAlXtJyWG0) | 2:48 | 2025-06-04 | 2025-07-03 |
 | [Unbothered](https://open.spotify.com/track/70KneIyETnRCR0bUwKSjwz) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Unbothered](https://open.spotify.com/album/0HM5xmkTOEzur0wayhKqae) | 3:06 | 2024-07-03 | 2024-08-10 |
 | [Uncall It](https://open.spotify.com/track/6dJC1unKk2kWnaA5goiXly) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [Uncall It](https://open.spotify.com/album/5JdqxFr49wq2SnOCObPYA4) | 2:36 | 2022-07-06 | 2022-08-04 |

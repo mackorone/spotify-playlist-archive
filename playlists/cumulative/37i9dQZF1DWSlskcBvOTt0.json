@@ -501,6 +501,28 @@
     },
     {
       "album": {
+        "name": "ASKI V1",
+        "url": "https://open.spotify.com/album/77uFvnkZJIAMeQCyuasRv9"
+      },
+      "artists": [
+        {
+          "name": "Mr. ID",
+          "url": "https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp"
+        },
+        {
+          "name": "Boddhi Satva",
+          "url": "https://open.spotify.com/artist/1f1bsto5CRaRaaGkZvvjOn"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284081,
+      "name": "AKABAR - Radio Edit",
+      "url": "https://open.spotify.com/track/2dF2E1UMEiUU7k6io0bfLc"
+    },
+    {
+      "album": {
         "name": "Elements Of Africa",
         "url": "https://open.spotify.com/album/4Nw0kWUYq7GzkL1o6VIktz"
       },
@@ -722,7 +744,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 341897,
       "name": "All Hearts Beat",
       "url": "https://open.spotify.com/track/0398YEQ9aQ8AlPHkG8PEB1"
@@ -3190,7 +3212,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-21",
+      "date_removed": null,
       "duration_ms": 516815,
       "name": "Buschtaxi",
       "url": "https://open.spotify.com/track/6Z4AJ6GVRjdjmbm4TK1Wca"
@@ -4396,7 +4418,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 223731,
       "name": "Cuando Te Veo",
       "url": "https://open.spotify.com/track/1Pv8HWSBMiKmeRWnq1ZzeH"
@@ -9984,7 +10006,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-21",
+      "date_removed": null,
       "duration_ms": 165500,
       "name": "Kuwe",
       "url": "https://open.spotify.com/track/0ORWrNURhLN2MghAwUWJD9"
@@ -13430,7 +13452,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 218244,
       "name": "Nadie Como T\u00fa",
       "url": "https://open.spotify.com/track/1HVeALwKakchTMEpD13G95"
@@ -17199,6 +17221,32 @@
     },
     {
       "album": {
+        "name": "Shabah",
+        "url": "https://open.spotify.com/album/4IhmEAR5oyjvbwzvlXuHil"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Jal",
+          "url": "https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm"
+        },
+        {
+          "name": "TIMATHI",
+          "url": "https://open.spotify.com/artist/3Vf0GjhE6mKJFJAktsuO0J"
+        },
+        {
+          "name": "Nyadollar",
+          "url": "https://open.spotify.com/artist/0QPDWI6UYu3Lv9MDEoTd2p"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188975,
+      "name": "Shabah",
+      "url": "https://open.spotify.com/track/201vzKAqmvbOxDrm2SBmOO"
+    },
+    {
+      "album": {
         "name": "Shades Of Night",
         "url": "https://open.spotify.com/album/3Q20S7c0JtKWsmAo7m3TSp"
       },
@@ -17892,7 +17940,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 178152,
       "name": "So Good (Sistek Remix)",
       "url": "https://open.spotify.com/track/72rzDNTLplpl7hmsrcDQQP"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YuquEmVMFY.md) - [plain]
 
 > Jeremy Zucker \[LOVE IN SEOUL\] 2025.11.23 @ 블루스퀘어 SOL트래블홀
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,060 likes - 22 songs - 1 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,039 likes - 22 songs - 1 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > Rock, indie e punk dall'Italia 🎸 Bee Bee Sea in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,435 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,434 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Angel](https://open.spotify.com/track/6wDQcTK4vvhC5EfrnbkCBH) | [Bee Bee Sea](https://open.spotify.com/artist/5CKsgoNaSS96h4gPbLFuWV) | [](https://open.spotify.com/album/null) | 3:39 |
+| 1 | [Angel](https://open.spotify.com/track/6wDQcTK4vvhC5EfrnbkCBH) | [Bee Bee Sea](https://open.spotify.com/artist/5CKsgoNaSS96h4gPbLFuWV) | [Stanzini Can Be Allright](https://open.spotify.com/album/4CxrXcjntFNu4AdiD0gxuB) | 3:39 |
 | 2 | [PINOCCHIO](https://open.spotify.com/track/0VK2yA5a91TrFAaufvT1o8) | [SI! BOOM! VOILÀ!](https://open.spotify.com/artist/2hZ2DLQrRl33Oa4GzUubEy) | [PINOCCHIO](https://open.spotify.com/album/1bPTQJSrWiVqjICYSg0ruS) | 3:21 |
 | 3 | [Cocoon](https://open.spotify.com/track/6D4ggqizOhkUMbVVBvoHlB) | [Fight Pausa](https://open.spotify.com/artist/1BkdvKE1YNIAAWrLNzLWKU) | [Cocoon](https://open.spotify.com/album/2uwbXDzfDu2CIU4nfCklvH) | 2:49 |
 | 4 | [Alpha Centauri](https://open.spotify.com/track/2tQBCnq4NmVO4893xO3oUJ) | [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh) | [Alpha Centauri](https://open.spotify.com/album/0I25bmzWmmdnSY0utd4vcm) | 4:31 |

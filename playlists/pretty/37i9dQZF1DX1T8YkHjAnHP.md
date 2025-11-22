@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T8YkHjAnHP.md) - [plain]
 
 > <a href="spotify:artist:5bKdC6382t97Qnpvs81Rqx">Bedouin</a>'s favorite tracks\. Updated regularly\. Curated by Bedouin\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,664 likes - 71 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,676 likes - 71 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T8YkHjAnHP.md) - [plain]
 | 70 | [Voila](https://open.spotify.com/track/5NWD8eVs4jGoe38DRxNXnS) | [Hard To Tell](https://open.spotify.com/artist/2Fdh88lZzeW3FiSTcyW0LM), [Yet More](https://open.spotify.com/artist/56brJyNkgCiv9ncSNkV99C) | [Voila / Fame](https://open.spotify.com/album/41FOKZVLSRIfkJRFzEKlH1) | 5:13 |
 | 71 | [Mango's in Season \- Original Mix](https://open.spotify.com/track/6tNvfbocxsTqx8GxirUtIQ) | [Mr\. G](https://open.spotify.com/artist/1xietQVw6iUIK01sfhmWSN) | [VFM EP](https://open.spotify.com/album/4Y8P8vElRxzSDJzpuiuou7) | 5:25 |
 
-Snapshot ID: `AAAAAPi+UdM/hdunpmXL3Mf/EVMR0MJf`
+Snapshot ID: `AAAAAGE5QJZ3YLCJv0OUbnDlYRKS6Pxu`

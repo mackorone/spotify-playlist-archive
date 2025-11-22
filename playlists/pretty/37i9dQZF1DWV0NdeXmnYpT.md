@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0NdeXmnYpT.md) - [plain]
 
 > Music from "The Disastrous Life of Saiki K."! /アニメ「斉木楠雄のΨ難」の世界を彩る楽曲をプレイリストで。©麻生周一／集英社・PK学園R
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,611 likes - 106 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,622 likes - 106 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

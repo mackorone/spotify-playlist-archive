@@ -2,9 +2,9 @@
 
 ### [All New Punk](https://open.spotify.com/playlist/37i9dQZF1DX0KpeLFwA3tO)
 
-> The best new music from the wide world of punk\. Cover: These New South Wales
+> The best new music from the wide world of punk\. Cover: These New South Whales
 
-2,910 songs - 6 day 1 hr 17 min
+2,911 songs - 6 day 1 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,7 @@
 | [And a Big Load](https://open.spotify.com/track/5mxDaiHCQ4btY3slwG5l5b) | [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [And a Big Load](https://open.spotify.com/album/6johubE9tj9mVKstuoxUtx) | 2:53 | 2025-06-05 | 2025-08-01 |
 | [Andromeda](https://open.spotify.com/track/0wevdjeAS4m5tdCYdlY52C) | [Preoccupations](https://open.spotify.com/artist/2bs3QE2ZMBjmb0QTqAjCj3) | [Ill at ease](https://open.spotify.com/album/2RcSMpNoSniwFWtM1aRaIY) | 4:48 | 2025-05-08 | 2025-07-11 |
 | [Anemia](https://open.spotify.com/track/1TfGgQOfUUc0EpRqAkMykU) | [Sincere Engineer](https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1) | [Anemia](https://open.spotify.com/album/3EJPukArWrGXomGYPqZFeu) | 3:56 | 2023-08-03 | 2023-09-29 |
-| [Angel](https://open.spotify.com/track/6wDQcTK4vvhC5EfrnbkCBH) | [Bee Bee Sea](https://open.spotify.com/artist/5CKsgoNaSS96h4gPbLFuWV) | [](https://open.spotify.com/album/null) | 3:39 | 2025-11-21 |  |
+| [Angel](https://open.spotify.com/track/6wDQcTK4vvhC5EfrnbkCBH) | [Bee Bee Sea](https://open.spotify.com/artist/5CKsgoNaSS96h4gPbLFuWV) | [Stanzini Can Be Allright](https://open.spotify.com/album/4CxrXcjntFNu4AdiD0gxuB) | 3:39 | 2025-11-21 |  |
 | [Angel](https://open.spotify.com/track/0TXezdBZlkwhAhmrYIBvxv) | [Weatherday](https://open.spotify.com/artist/6pmR08TKSTs8rll6W99VnK) | [Angel](https://open.spotify.com/album/125JWbV6hgxrcKOLwqCKpD) | 1:54 | 2025-01-31 | 2025-04-04 |
 | [Angel](https://open.spotify.com/track/3UhmOxZYPnHbQUU49z5GFJ) | [Wet World](https://open.spotify.com/artist/2oPV90oeIctzVCsPqpCgko) | [Angel](https://open.spotify.com/album/3mr9km1WIKBaCO0X0GiCbr) | 2:17 | 2025-10-16 |  |
 | [Anger Issue](https://open.spotify.com/track/2a6Wu8xrasZCdpp28xdmCk) | [Broad Peak](https://open.spotify.com/artist/4srsUxiG48BJtjUAFHgiwl) | [Anger Issue](https://open.spotify.com/album/01peug8HbeoqEe1a4yrNXs) | 3:40 | 2024-11-29 | 2025-02-14 |
@@ -944,7 +944,7 @@
 | [Free Ride](https://open.spotify.com/track/3WujNCDP1eOB2U7zpqgATK) | [Restraining Order](https://open.spotify.com/artist/4HXv1CWVOyIO8ZNvGOSyEy) | [Future Fortune](https://open.spotify.com/album/08I65DuCGZnwOIaCMMs9W9) | 2:36 | 2025-09-11 | 2025-10-31 |
 | [Frenzy](https://open.spotify.com/track/0D0fJnHN5Tj7QTa3rEbLTT) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Frenzy](https://open.spotify.com/album/2kyxzQ0Y1qBQOViyHostqk) | 3:00 | 2022-10-27 | 2023-02-17 |
 | [Fresh Pope](https://open.spotify.com/track/39iAdLPnh2ZhLJaZpLakFM) | [Pkew Pkew Pkew](https://open.spotify.com/artist/2wLjuls619sr3fihBDQigt) | [Open Bar](https://open.spotify.com/album/06v6kNk6hfpXr8NIh8Vk6f) | 1:31 | 2022-05-12 | 2022-06-24 |
-| [Friction](https://open.spotify.com/track/4uuydmn1fq6gCkzuLTiC9B) | [YARD](https://open.spotify.com/artist/36aHdS6WBzKMBA9pt1FYFS) | [](https://open.spotify.com/album/null) | 2:49 | 2025-11-21 |  |
+| [Friction](https://open.spotify.com/track/4uuydmn1fq6gCkzuLTiC9B) | [YARD](https://open.spotify.com/artist/36aHdS6WBzKMBA9pt1FYFS) | [YARD II](https://open.spotify.com/album/2bQppQ1xT22jjX7C9RV45P) | 2:49 | 2025-11-21 |  |
 | [Friday Night](https://open.spotify.com/track/7ek8oMqtvbv0WF0IbOB9QH) | [Cancer Bats](https://open.spotify.com/artist/10YNQq86z4shHwDSymTyWc), [Amy Walpole](https://open.spotify.com/artist/4QFgYuWP0CsYJRS96vi9Q5) | [Friday Night](https://open.spotify.com/album/5HyLsS3E32MLG2uxb6SbAd) | 2:55 | 2022-08-18 | 2022-10-07 |
 | [Fried IV](https://open.spotify.com/track/0Ummdk3zpiSPPTdiPcTtRS) | [Wine Lips](https://open.spotify.com/artist/4fPl9Aa0FMkATDiA7AnBNM) | [Fried IV](https://open.spotify.com/album/6VrAzh9LlB4KcjFqqEYNRf) | 3:42 | 2024-03-15 | 2024-05-10 |
 | [Friends With Your EX](https://open.spotify.com/track/5dLhmqJRJiV0RyRwv7VUdv) | [Landon Barker](https://open.spotify.com/artist/7tWnepocfeqynsYC75hWoF) | [Friends With Your EX](https://open.spotify.com/album/6Lv24dBmFka5bThmdwMCOn) | 1:58 | 2023-09-22 | 2023-11-10 |
@@ -1470,6 +1470,7 @@
 | [Lemon](https://open.spotify.com/track/6x1xKHkuGepbfjpDkSuUIk) | [The Callous Daoboys](https://open.spotify.com/artist/4ZWRLOs7c4drt9mKGc0Ds0) | [Lemon](https://open.spotify.com/album/161uvpWswpix18rpbmjweW) | 3:51 | 2025-03-14 | 2025-05-02 |
 | [Lemon.](https://open.spotify.com/track/4CaGYIrmqCqIJZCw6UzMmR) | [Tyler Posey](https://open.spotify.com/artist/2J6oM8cqh6JxBLRged0d7U) | [Lemon.](https://open.spotify.com/album/7AFHXoMbiae0nMlAyKvxhk) | 2:45 | 2023-05-25 | 2023-07-28 |
 | [Lesbo 3000](https://open.spotify.com/track/5f7UB8UGbKSYDtW99ArSye) | [Problem Patterns](https://open.spotify.com/artist/4u5UG0TxXroCBnpgBruPOP) | [Lesbo 3000](https://open.spotify.com/album/6j5BvHlPleg18Z6sSSCzEZ) | 1:46 | 2023-09-01 | 2023-10-13 |
+| [Let it be.](https://open.spotify.com/track/2gc7rdtMLqXcUzoT5JIcQ6) | [SoSo](https://open.spotify.com/artist/4bdIMnDadxc6M1bnaHieL0) | [So Much For Second Chances](https://open.spotify.com/album/7jhn6VFqUruhHEU8Ny7vE0) | 2:44 | 2025-11-21 |  |
 | [Let's Do Drugs](https://open.spotify.com/track/7uqSewRrClPQP3yc8Wpszh) | [NOBRO](https://open.spotify.com/artist/5Tomvwat8AxMGd2ewkDNPs) | [Let's Do Drugs](https://open.spotify.com/album/6dFaxMX3QrHLdUO54jID00) | 2:19 | 2023-08-10 | 2023-10-06 |
 | [Let's Get To Work](https://open.spotify.com/track/456sTgUGjvqvmYr7GqMFnG) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [Let's Get To Work](https://open.spotify.com/album/7cnBwqsBiHUPFQZtCJE0uN) | 3:00 | 2023-09-01 | 2023-10-20 |
 | [Letter of Resignation \- Single Edit](https://open.spotify.com/track/3cB28ILM3aP9vRfgizGiAD) | [Problem Patterns](https://open.spotify.com/artist/4u5UG0TxXroCBnpgBruPOP) | [Letter of Resignation](https://open.spotify.com/album/2lzMxRFxHlNGrVzdhtyXxH) | 3:18 | 2023-06-08 | 2023-08-11 |
@@ -2588,7 +2589,7 @@
 | [This Is Teamwork!](https://open.spotify.com/track/6iUhqrBHx0ZgmKaCqsJqwY) | [Aren't We Amphibians](https://open.spotify.com/artist/2hTv2oTIcfByggCy3Mkzsy) | [This Is Teamwork!](https://open.spotify.com/album/3nXSKrQ2LlnZNz1T1dz91E) | 3:24 | 2025-09-04 | 2025-10-24 |
 | [This might be it](https://open.spotify.com/track/5n6gfU5WOaMazDwejuJW35) | [Hyphen](https://open.spotify.com/artist/2Ktr0i8RmKTMlBFuqhMkAi) | [This might be it](https://open.spotify.com/album/4nJj8mbDqyTIrJ43PKtB5S) | 2:36 | 2025-03-21 | 2025-05-09 |
 | [this might be our last december](https://open.spotify.com/track/0vKSOTSPy2SgcChNoBR77c) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8), [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [just in case the world ends](https://open.spotify.com/album/3X1H1Xq8rAcMQUE27sSSzi) | 3:26 | 2022-05-05 | 2022-06-18 |
-| [This Planet Doesn't Have a Sun, It Only Has a Man on the Moon \(My Call to You\)](https://open.spotify.com/track/5gyuWxCgI0eaLUNCS4B1vr) | [Pulses.](https://open.spotify.com/artist/0tko2stnUOqejIto8rKRh7) | [](https://open.spotify.com/album/null) | 3:24 | 2025-11-21 |  |
+| [This Planet Doesn't Have a Sun, It Only Has a Man on the Moon \(My Call to You\)](https://open.spotify.com/track/5gyuWxCgI0eaLUNCS4B1vr) | [Pulses.](https://open.spotify.com/artist/0tko2stnUOqejIto8rKRh7) | [pulses\. pack, vol\. 1](https://open.spotify.com/album/5oEUh1U0YnnY0XXylqzQWu) | 3:24 | 2025-11-21 |  |
 | [This Road Of Mine](https://open.spotify.com/track/1sOUZzRIk252Y66hXNfG7B) | [Flogging Molly](https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj) | [This Road Of Mine](https://open.spotify.com/album/0YxzZC5lTJU7tIMMqAFEi0) | 3:18 | 2022-07-28 | 2022-09-16 |
 | [Thorns](https://open.spotify.com/track/5cdJnifP5OBRsSVEJ9c23b) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG) | [Thorns](https://open.spotify.com/album/29fhSgEsDkonBnDGSPqSRC) | 2:56 | 2022-09-15 | 2022-11-11 |
 | [Those Days](https://open.spotify.com/track/4L7f6oFx9U2UmqRgQRPgJL) | [The Chisel](https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx) | [Those Days](https://open.spotify.com/album/78hW2ZaZlq3XYQXYcUvaJN) | 2:26 | 2024-01-12 | 2024-02-23 |
@@ -2639,7 +2640,6 @@
 | [TOXIC \(with POORSTACY\)](https://open.spotify.com/track/75FYDtqlseNpc63QjHazO6) | [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn), [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [TOXIC \(with POORSTACY\)](https://open.spotify.com/album/0AJOcyb81Xh2KiuCfUQhiI) | 2:28 | 2022-03-31 | 2022-05-21 |
 | [Toxic Love](https://open.spotify.com/track/3M0J5hXymCJCdQEZAhE3G4) | [Story Untold](https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z) | [Toxic Love](https://open.spotify.com/album/07KrQlLZk6ysQYVAURaAw1) | 2:21 | 2022-05-12 | 2022-06-24 |
 | [Toxic Trait](https://open.spotify.com/track/3kMn8LV1QPBfZXZ0TTS0Pn) | [Free Friends](https://open.spotify.com/artist/4sWKMQMxKMdfZNWsozaGNZ), [Ben DeHan](https://open.spotify.com/artist/6NOcwcPdofGYv0UfUojN09), [Pine Creek Academy](https://open.spotify.com/artist/6YqPhD2w2y0GE4fOhZio47) | [Toxic Trait](https://open.spotify.com/album/4NWQQn6gsw5NOC1eWk1xoV) | 3:22 | 2025-05-30 | 2025-07-25 |
-| [Track 5](https://open.spotify.com/track/2gc7rdtMLqXcUzoT5JIcQ6) | [SoSo](https://open.spotify.com/artist/4bdIMnDadxc6M1bnaHieL0) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-21 |  |
 | [Traffic Lights](https://open.spotify.com/track/3gqkIIyHeAwkP6eRMHdzhB) | [Bikini Beach](https://open.spotify.com/artist/1eMm4uIStcxmNAfqif8DSp) | [Traffic Lights](https://open.spotify.com/album/61AYogut6rSU9Zr8w9eLOK) | 2:09 | 2022-10-06 | 2022-11-18 |
 | [Trail of Lies](https://open.spotify.com/track/4VhckYGc9j3unz0Btz2Dd4) | [Pluto The Racer](https://open.spotify.com/artist/5JOYHHF1xocXGsPuQHn3qB) | [Trail of Lies](https://open.spotify.com/album/36YGrt1WlmTl0L3rH8Jksn) | 3:25 | 2024-12-06 | 2025-02-14 |
 | [Trans Youth](https://open.spotify.com/track/0lzq9WLqSlKMoGHRXUlDoC) | [Neighbours Burning Neighbours](https://open.spotify.com/artist/4GQw6nVpgVMHCgUnEdUslh) | [Trans Youth](https://open.spotify.com/album/1qsnpATTwO2ryktzueWttL) | 4:55 | 2024-09-12 | 2024-11-01 |
@@ -2915,6 +2915,7 @@
 | [You’re So Ugly When You Cry \(feat\. Bert of The Used\)](https://open.spotify.com/track/3x4mzoX77tshwD7bKNxw5n) | [The Funeral Portrait](https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL), [robbietheused](https://open.spotify.com/artist/6ulyIBuifBzU35RsvFZIx0) | [You’re So Ugly When You Cry \(feat\. Bert of The Used\)](https://open.spotify.com/album/6TdEPkWbJ28xMnrhhnXv7u) | 3:23 | 2024-04-25 | 2024-06-14 |
 | [Zero](https://open.spotify.com/track/49qf7uMixoBSbiUXzZg5zr) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [Zero](https://open.spotify.com/album/6PcI77cr793O8vr8X4gdbj) | 3:19 | 2022-06-09 | 2022-07-08 |
 | [Zombie Nation \- feat\. Suggs](https://open.spotify.com/track/6BMTBxXUtNLUe97uTtRi1n) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB), [Suggs](https://open.spotify.com/artist/4ybqvfut7DoHdBy2lRbTFC) | [Zombie Nation \(feat\. Suggs\)](https://open.spotify.com/album/1z7swbmeQe8bYqQPm8Uycv) | 3:16 | 2024-03-01 | 2024-04-26 |
+| [ZZZ](https://open.spotify.com/track/00vDrNlMugOcmrD92NmgPP) | [Good Sleepy](https://open.spotify.com/artist/7BPOW1Qhb4yKQ4L7c9peGB) | [ZZZ](https://open.spotify.com/album/6xg5GCmGV94xSiJ0lT6jFf) | 3:02 | 2025-11-21 |  |
 | [Сон / Son \- Radio Edit](https://open.spotify.com/track/6bn5OFUhl8lm4VzKEPSzEz) | [Molchat Doma](https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0) | [Сон / Son](https://open.spotify.com/album/1fcCWRHZESlnXFSPs8piEb) | 3:05 | 2024-06-13 | 2024-07-19 |
 | [⁠You Should Know By Now](https://open.spotify.com/track/3zexE7ac4H7sHb9yc8udUv) | [Bad Nerves](https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ) | [You Should Know By Now](https://open.spotify.com/album/1n81zB7AkLY9irxI5MhquI) | 3:26 | 2024-04-25 | 2024-06-14 |
 | [死がふたりを分かつまで](https://open.spotify.com/track/2VrInjH5nNuehjX97Zq4hq) | [PK shampoo](https://open.spotify.com/artist/7aGhrSyExo2LIUZJjOkgeJ) | [死がふたりを分かつまで](https://open.spotify.com/album/2WoNMJ9rbmpGFEMYOFB272) | 3:17 | 2023-12-08 | 2024-02-10 |

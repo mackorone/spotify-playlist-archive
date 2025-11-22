@@ -14713,6 +14713,28 @@
     },
     {
       "album": {
+        "name": "d\u00fcnya garip",
+        "url": "https://open.spotify.com/album/7MvT4UVT7jEfiXvmpny0aB"
+      },
+      "artists": [
+        {
+          "name": "oddworld",
+          "url": "https://open.spotify.com/artist/4moOyBAkXsIAbF3pplCtv8"
+        },
+        {
+          "name": "Haftbefehl",
+          "url": "https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112111,
+      "name": "d\u00fcnya garip",
+      "url": "https://open.spotify.com/track/6bv6J8M5mqOgy2N84NMUJm"
+    },
+    {
+      "album": {
         "name": "Earthquake",
         "url": "https://open.spotify.com/album/4SM0hMKnVQ3Of9bfRKZEbQ"
       },
@@ -20648,10 +20670,6 @@
         {
           "name": "Ikkimel",
           "url": "https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn"
-        },
-        {
-          "name": "Jugglerz",
-          "url": "https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY"
         },
         {
           "name": "Barr\u00e9",
@@ -28376,7 +28394,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 145323,
       "name": "JWD",
       "url": "https://open.spotify.com/track/7iLaBBQq0tzQvZUBXwJ2KL"
@@ -45061,6 +45079,24 @@
     },
     {
       "album": {
+        "name": "Salz in deine Wunden",
+        "url": "https://open.spotify.com/album/727qbX3NnAJIxe0qYojHU1"
+      },
+      "artists": [
+        {
+          "name": "ANTHI",
+          "url": "https://open.spotify.com/artist/6IkHFTRWPXeoJqL5DLcL6u"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149643,
+      "name": "Salz in deine Wunden",
+      "url": "https://open.spotify.com/track/4MGVju4i5kuCJKQuTqyCuc"
+    },
+    {
+      "album": {
         "name": "sandmann",
         "url": "https://open.spotify.com/album/02bdwgTWtG1zIFdhx95L11"
       },
@@ -50756,7 +50792,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 169361,
       "name": "superstar",
       "url": "https://open.spotify.com/track/4hFt3Ht6b9OLsesqx51aq1"

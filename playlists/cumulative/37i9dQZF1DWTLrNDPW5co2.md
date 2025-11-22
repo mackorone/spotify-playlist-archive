@@ -4,7 +4,7 @@
 
 > Bold and pioneering\. LGBTQIA+ artists and allies at the center of electronic music culture\. Featuring BAYLI.
 
-435 songs - 1 day 2 hr 38 min
+436 songs - 1 day 2 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -313,7 +313,7 @@
 | [Passenger Princess](https://open.spotify.com/track/56pJsm6qjMRCQPwQR9HIix) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [Passenger Princess](https://open.spotify.com/album/1mqysmiozjyWyu9UvkASn7) | 2:15 | 2025-10-17 |  |
 | [Peanut Power](https://open.spotify.com/track/5LA74AduqAq7wVQYB8zYGY) | [Meg Ward](https://open.spotify.com/artist/2mD3jEYpdABPmYGMkwIp8s) | [Melbourne Street](https://open.spotify.com/album/62kIRslwee4b9HnwS74GTS) | 4:54 | 2021-10-15 | 2023-04-01 |
 | [PERRA AVENTURERA](https://open.spotify.com/track/4MPQ0d4PYNNnGJiiPnCKMe) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [ASTUTA](https://open.spotify.com/album/2zFuVAQW2Px95oI9w12PN1) | 3:15 | 2025-10-17 |  |
-| [PERRA AVENTURERA](https://open.spotify.com/track/5OcP5Bu1v2UD5gnYvejRmi) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [PERRA AVENTURERA](https://open.spotify.com/album/71gBgX8BzzynhkRWJGmLwb) | 3:15 | 2025-03-14 |  |
+| [PERRA AVENTURERA](https://open.spotify.com/track/5OcP5Bu1v2UD5gnYvejRmi) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [PERRA AVENTURERA](https://open.spotify.com/album/71gBgX8BzzynhkRWJGmLwb) | 3:15 | 2025-03-14 | 2025-11-22 |
 | [PERSONALIDAD CONTROL \(A Tribute to Leiomy\)](https://open.spotify.com/track/1DXhcFfChBHkwcaVsb15ih) | [Gÿe](https://open.spotify.com/artist/1ffsfWPOpRQYNB80asmZv6) | [PERSONALIDAD CONTROL \(A Tribute to Leiomy\)](https://open.spotify.com/album/7MY2S7wlIWsuRSpPe9BYAS) | 3:45 | 2024-06-01 | 2025-10-04 |
 | [Pleasure](https://open.spotify.com/track/1kLDRsnkreQD4UTf8kHg51) | [Comanavago](https://open.spotify.com/artist/2UC2VMVP6wuURHTgns8OoP) | [Pleasure](https://open.spotify.com/album/4ubV3S1cCFNl1bD3V0wpkp) | 3:24 | 2024-08-26 | 2025-10-04 |
 | [POKERFACE](https://open.spotify.com/track/3DtB4gv4pIHphhPAqg5rjG) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [POKERFACE](https://open.spotify.com/album/0U0bG9yKEEnNXnUrY8ET3Q) | 2:28 | 2023-10-13 | 2024-06-15 |
@@ -374,6 +374,7 @@
 | [Slay 4 Me \(feat\. Jesse Fields\) \- Edit](https://open.spotify.com/track/2ycAx22Kc8PJNVY1cyTcON) | [Baby Weight](https://open.spotify.com/artist/48OPpTnWriqiSMnOsqII4T), [Jesse Fields](https://open.spotify.com/artist/2B9buLG6jo5TbMDupYNPQe) | [It's Giving EP](https://open.spotify.com/album/0gAE7755ojE0IEmFuKdlGQ) | 3:39 | 2023-03-31 | 2024-06-08 |
 | [Slay 4 Me \(feat\. Jesse Fields\) \[Felix Jaehn Remix\] \- Edit](https://open.spotify.com/track/5NBGwZLsZAo5J3a9sn0Dy5) | [Baby Weight](https://open.spotify.com/artist/48OPpTnWriqiSMnOsqII4T), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Jesse Fields](https://open.spotify.com/artist/2B9buLG6jo5TbMDupYNPQe) | [Slay 4 Me \(feat\. Jesse Fields\) \[Felix Jaehn Remix\]](https://open.spotify.com/album/7aRpaVGxIkR0n82VUdtoFa) | 3:03 | 2024-08-16 | 2024-10-19 |
 | [SLIME](https://open.spotify.com/track/5alFLxnNmBmTdNM6Oq0nqD) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [SLIME](https://open.spotify.com/album/1VCGsWYP7dY5fLXUrEPG6L) | 2:39 | 2022-06-03 | 2022-07-15 |
+| [SLIME is BESTIE \[Sega Bodega + JT\]](https://open.spotify.com/track/4Y65QXs6X2dhVQc9B6a6Ro) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m), [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [SLIME is BESTIE \[Sega Bodega + JT\]](https://open.spotify.com/album/5Y9NhiHQOzv1JSBpReoWOy) | 2:40 | 2025-11-21 |  |
 | [Slip & Slide](https://open.spotify.com/track/60Inxb7R2S4RyzQg31IsCq) | [Alex Chapman](https://open.spotify.com/artist/3c8wfedCs5BJGHcFyusyeh), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [Slip & Slide](https://open.spotify.com/album/6JFPl54dXCJWWfuRgCfoL6) | 2:26 | 2025-04-04 |  |
 | [Slow \- Radio Slave Remix](https://open.spotify.com/track/62zZDjpafkkAEdnHZ3SeUu) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Radio Slave](https://open.spotify.com/artist/4rzWjR3L3M54c6I25NzdM3) | [Slow](https://open.spotify.com/album/33sGKbJGgFQuCEn8hbSYN4) | 6:34 | 2024-06-14 | 2024-07-02 |
 | [Smalltown Boy \- Dave Audé vs Tall Paul Remix](https://open.spotify.com/track/0Z7PaimHs6mOmgiBLTyhHu) | [Bronski Beat](https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08), [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9), [Tall Paul](https://open.spotify.com/artist/0RXgSe2pCSZ6DJitqJZ6nt) | [The Age of Consent \(40 Year Anniversary Edition\)](https://open.spotify.com/album/0GrkL3xnshqjHCUEENvSqr) | 6:48 | 2024-10-18 | 2025-05-31 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > Buon natale da Lucio e da tutte le nuove uscite indie 🎄
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,346 likes - 105 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,357 likes - 105 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 | 30 | [marionetta](https://open.spotify.com/track/2ckMGPS2WLuDDdBxaljK1A) | [G\. Tiffany](https://open.spotify.com/artist/3wdbwDqNLEIBP4lQzzo0hB) | [marionetta](https://open.spotify.com/album/74IbDKOEfriHFoCnQ3Rmb5) | 2:01 |
 | 31 | [passano](https://open.spotify.com/track/2GLnV7XBkkUhFxXhRVC6Jt) | [genn butch](https://open.spotify.com/artist/0dqR6YWgjpc6gHnwfXEEOs) | [ormai](https://open.spotify.com/album/6M9SNaG09k6ZRnnuNOQAo8) | 4:02 |
 | 32 | [Non volevo essere trovato](https://open.spotify.com/track/4pyypZ30vS5Se6c8vq49wf) | [Tonno](https://open.spotify.com/artist/2bB6iVsARQK2KQiurz1nM7) | [Non volevo essere trovato](https://open.spotify.com/album/07y1IJhwW9CgiAjQk44zxk) | 2:32 |
-| 33 | [Angel](https://open.spotify.com/track/6wDQcTK4vvhC5EfrnbkCBH) | [Bee Bee Sea](https://open.spotify.com/artist/5CKsgoNaSS96h4gPbLFuWV) | [](https://open.spotify.com/album/null) | 3:39 |
+| 33 | [Angel](https://open.spotify.com/track/6wDQcTK4vvhC5EfrnbkCBH) | [Bee Bee Sea](https://open.spotify.com/artist/5CKsgoNaSS96h4gPbLFuWV) | [Stanzini Can Be Allright](https://open.spotify.com/album/4CxrXcjntFNu4AdiD0gxuB) | 3:39 |
 | 34 | [Libeccio](https://open.spotify.com/track/6MxupAMHRW2Ckhg47UGXuu) | [Amalafede](https://open.spotify.com/artist/20vFRu6alusJsfebNWUeP0) | [Libeccio](https://open.spotify.com/album/4sbWa0jfROzDIDTpwwXEop) | 3:33 |
 | 35 | [Chia](https://open.spotify.com/track/5GGG3pBVelxJSf22PrhKmJ) | [BLUEM](https://open.spotify.com/artist/1eFOTBAGM0w0SH7jnTYSd1) | [Chia](https://open.spotify.com/album/2nMEPh31w1q9xO3Cydazlg) | 3:18 |
 | 36 | [Ce stevo penzanno](https://open.spotify.com/track/0YflJvHgNKVnWb24ffiW3Q) | [Calmo](https://open.spotify.com/artist/4Wx3ZL6d6p1gVMtwQ2YWsz), [Anna and Vulkan](https://open.spotify.com/artist/338OK54trmorxC1704hKpD), [Damiank](https://open.spotify.com/artist/0HK1JtedHdz3a76ZpWaEsc) | [Ce stevo penzanno](https://open.spotify.com/album/0GCHZUO8pCk0SJFrFSzG2d) | 2:33 |

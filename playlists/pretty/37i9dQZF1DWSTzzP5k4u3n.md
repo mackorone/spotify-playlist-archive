@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 
 > Tällä listalla parasta tuoretta suomirockia\. Kannessa Jaakko Kulta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,632 likes - 80 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,636 likes - 80 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 | 19 | [Toivon kuvia](https://open.spotify.com/track/2dDFSu3SuQ6C2TP3jfjP13) | [Pegasos](https://open.spotify.com/artist/6ENrU97gz7eCdHdM77WHdI) | [Toivon kuvia](https://open.spotify.com/album/2gBu731MydIuNCTBF0KK7M) | 4:19 |
 | 20 | [Vegas](https://open.spotify.com/track/6oY7qFe5Cn5A0vUGuD5A4w) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [Voiko enkelitkin eksyä](https://open.spotify.com/album/6pk45MMtYAFpXHnzt7lL6N) | 4:06 |
 | 21 | [Iloisten Laulujemme Maa](https://open.spotify.com/track/2KQnDjLje3gw9GmpUxnsqn) | [Elonkerjuu](https://open.spotify.com/artist/6vTfQXLadaNMPnrnfbnuyF), [Kullervo](https://open.spotify.com/artist/39KHP6jiqcSRQRO9KOXbBs) | [Iloisten Laulujemme Maa](https://open.spotify.com/album/1TXHG800To5XNtsoAUYhAH) | 2:53 |
-| 22 | [Vapaus on harha \- Huiputus](https://open.spotify.com/track/1DnsFJfyz8CV6z1TM4uZ9P) | [Huiputus](https://open.spotify.com/artist/2jeBf6gklfcYkHtbuiSTpt) | [Vapaus on harha](https://open.spotify.com/album/7KdbywozpABJ1bD9etjd8l) | 3:39 |
+| 22 | [Vapaus on harha](https://open.spotify.com/track/1DnsFJfyz8CV6z1TM4uZ9P) | [Huiputus](https://open.spotify.com/artist/2jeBf6gklfcYkHtbuiSTpt) | [Vapaus on harha](https://open.spotify.com/album/7KdbywozpABJ1bD9etjd8l) | 3:39 |
 | 23 | [Omena](https://open.spotify.com/track/7mTiwDvlvrmUMFXUtpmQiV) | [Riekko Salama](https://open.spotify.com/artist/2h2iwWOgXz3wArEh3StkJx) | [Omena](https://open.spotify.com/album/3GCagpiHC6lXVvCCufTJAo) | 2:32 |
 | 24 | [Viimeinen kesäpäivä](https://open.spotify.com/track/3CIENWj83tRZKJGw5inY65) | [Klamydia](https://open.spotify.com/artist/2BFdLtG6ivaiRqPFTgV1in) | [Viimeinen kesäpäivä](https://open.spotify.com/album/7BTr771WcV4HGD2T6DyXD0) | 2:58 |
 | 25 | [Ajan sun luo](https://open.spotify.com/track/37qBGhIk5rVpShdQMrfGR1) | [Lauri Peisterä](https://open.spotify.com/artist/3E3dtFaew61uPOzB0ZBEaO) | [Ajan sun luo](https://open.spotify.com/album/186AkbXxHa5udv6CRZLZtC) | 3:56 |

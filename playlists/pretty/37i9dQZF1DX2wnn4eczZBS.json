@@ -1,6 +1,6 @@
 {
   "description": "indie & indiepop in het Nederlands. Cover: De Zweefclub",
-  "num_followers": 10985,
+  "num_followers": 10989,
   "original_name": "indie.nl",
   "owner": {
     "name": "Spotify",
@@ -783,18 +783,18 @@
     {
       "added_at": "2025-11-08 08:13:51",
       "album": {
-        "name": "Zweef Hier",
-        "url": "https://open.spotify.com/album/6CeCZiANVnTBmGg8Fh3AfH"
+        "name": "De Lucht",
+        "url": "https://open.spotify.com/album/1kA1PK4ls833pRy3G41ALi"
       },
       "artists": [
         {
-          "name": "Bibi van Ansem",
-          "url": "https://open.spotify.com/artist/0MpQgnQ7AAiqpvXLq5cXVF"
+          "name": "Astronaut",
+          "url": "https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn"
         }
       ],
-      "duration_ms": 152368,
-      "name": "Zweef Hier",
-      "url": "https://open.spotify.com/track/0WOO50jMuMIYUSpZb9bXTs"
+      "duration_ms": 166663,
+      "name": "WijTwee",
+      "url": "https://open.spotify.com/track/2hqlsv11YK6cJqt7jJn6vQ"
     },
     {
       "added_at": "2025-11-08 08:13:51",
@@ -835,6 +835,22 @@
     {
       "added_at": "2025-11-08 08:13:51",
       "album": {
+        "name": "Zweef Hier",
+        "url": "https://open.spotify.com/album/6CeCZiANVnTBmGg8Fh3AfH"
+      },
+      "artists": [
+        {
+          "name": "Bibi van Ansem",
+          "url": "https://open.spotify.com/artist/0MpQgnQ7AAiqpvXLq5cXVF"
+        }
+      ],
+      "duration_ms": 152368,
+      "name": "Zweef Hier",
+      "url": "https://open.spotify.com/track/0WOO50jMuMIYUSpZb9bXTs"
+    },
+    {
+      "added_at": "2025-11-08 08:13:51",
+      "album": {
         "name": "Opgeruimd Staat Netjes",
         "url": "https://open.spotify.com/album/09UQgYfuVfFjBffG0Fx49I"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 182769,
       "name": "Opgeruimd Staat Netjes",
       "url": "https://open.spotify.com/track/6TNGnPsH8yxgPKQ8U4LeBV"
-    },
-    {
-      "added_at": "2025-11-08 08:13:51",
-      "album": {
-        "name": "De Lucht",
-        "url": "https://open.spotify.com/album/1kA1PK4ls833pRy3G41ALi"
-      },
-      "artists": [
-        {
-          "name": "Astronaut",
-          "url": "https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn"
-        }
-      ],
-      "duration_ms": 166663,
-      "name": "WijTwee",
-      "url": "https://open.spotify.com/track/2hqlsv11YK6cJqt7jJn6vQ"
     }
   ],
   "unique_name": "indie.nl",

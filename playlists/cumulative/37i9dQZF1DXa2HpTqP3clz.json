@@ -244,7 +244,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 197500,
       "name": "Abigail",
       "url": "https://open.spotify.com/track/2yWj6P3Ldax9Xj8Em2VMC7"
@@ -1302,7 +1302,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 159427,
       "name": "Blues Are Close at Hand",
       "url": "https://open.spotify.com/track/16KCAFsjJn79OA3sh9iedu"
@@ -6967,6 +6967,28 @@
     },
     {
       "album": {
+        "name": "Lost John",
+        "url": "https://open.spotify.com/album/0ZFN0BBsuuQNin3bD4elvx"
+      },
+      "artists": [
+        {
+          "name": "Tony Trischka",
+          "url": "https://open.spotify.com/artist/1NjpWti9GnUtjjC2XV7UJK"
+        },
+        {
+          "name": "The Steeldrivers",
+          "url": "https://open.spotify.com/artist/3bLSAQPeix7Xm2e5Gtn48R"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154475,
+      "name": "Lost John",
+      "url": "https://open.spotify.com/track/5ydOwOiedCOttOb6ur4rNj"
+    },
+    {
+      "album": {
         "name": "Borrowed Time",
         "url": "https://open.spotify.com/album/3kH6Zv3RT7JmoyOtpdcU2X"
       },
@@ -7792,6 +7814,24 @@
       "duration_ms": 275746,
       "name": "Narrow Line",
       "url": "https://open.spotify.com/track/4aVe8YJwrAfqF4Qo0kyQLn"
+    },
+    {
+      "album": {
+        "name": "Need To Get Some Highway In",
+        "url": "https://open.spotify.com/album/3qAC3xkzQPzT4zzBuzh8es"
+      },
+      "artists": [
+        {
+          "name": "Newfound Road",
+          "url": "https://open.spotify.com/artist/2a3OUnLZ0cSo8yu6JeXeYP"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197301,
+      "name": "Need To Get Some Highway In",
+      "url": "https://open.spotify.com/track/7w8nCcoQDdwDc9b3cVsUEz"
     },
     {
       "album": {

@@ -1,13 +1,29 @@
 {
   "description": "A new take on a classic sound. Cover: Sekou",
-  "num_followers": 379668,
+  "num_followers": 379800,
   "original_name": "Retro Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAECHIrSwVvt1ehNaI7Ph9aGVGLA8",
+  "snapshot_id": "AAAAANAmtHIAWiqT6PJbgnEV61cqgMX2",
   "tracks": [
+    {
+      "added_at": "2025-11-21 05:00:28",
+      "album": {
+        "name": "Find Your Love",
+        "url": "https://open.spotify.com/album/7ffIGFj6wU4Z5CC56EmD5D"
+      },
+      "artists": [
+        {
+          "name": "54 Ultra",
+          "url": "https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ"
+        }
+      ],
+      "duration_ms": 190513,
+      "name": "Find Your Love",
+      "url": "https://open.spotify.com/track/34yxhgQ7fIRnT6l6LmlUxD"
+    },
     {
       "added_at": "2025-11-14 05:00:25",
       "album": {
@@ -1055,22 +1071,6 @@
       "duration_ms": 257539,
       "name": "Somnolent Love",
       "url": "https://open.spotify.com/track/7o5bO798ISksP3UGx7y9Y2"
-    },
-    {
-      "added_at": "2025-04-04 04:00:13",
-      "album": {
-        "name": "Upside Down",
-        "url": "https://open.spotify.com/album/2cF9Jv83As09soxqHeJuuf"
-      },
-      "artists": [
-        {
-          "name": "54 Ultra",
-          "url": "https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ"
-        }
-      ],
-      "duration_ms": 196302,
-      "name": "Upside Down",
-      "url": "https://open.spotify.com/track/2ykiSY1uHTHCBVpbym4Uff"
     },
     {
       "added_at": "2025-01-17 05:00:26",

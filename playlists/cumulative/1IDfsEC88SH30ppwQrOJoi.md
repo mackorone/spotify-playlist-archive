@@ -4,7 +4,7 @@
 
 > High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-448 songs - 23 hr 4 min
+450 songs - 23 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,6 +225,7 @@
 | [Lovefool](https://open.spotify.com/track/6kYs7BzNz8uo8v2ofrZcVF) | [Luca Schreiner](https://open.spotify.com/artist/5fiYAV2DWASxAUKDq7Gbe9) | [Lovefool](https://open.spotify.com/album/12jDom2LoFIXzPQxdPAtM5) | 2:18 | 2023-04-21 | 2024-05-01 |
 | [Lovers In A Past Life \(with Rag'n'Bone Man\)](https://open.spotify.com/track/6v4ABPB255HDSWyIj3S9Wn) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Lovers In A Past Life \(with Rag'n'Bone Man\)](https://open.spotify.com/album/3VI38DDpgfFMVPrUi69V5B) | 2:40 | 2024-04-26 | 2024-08-03 |
 | [Luna Love](https://open.spotify.com/track/0NawKK9pbi1hDWl0i3Eo7A) | [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp), [Rosa Lee Luna](https://open.spotify.com/artist/4MlvtEvliivbWOQV9Q2CfD) | [Luna Love](https://open.spotify.com/album/5qDyPsc30jRYLHYtVOkSVV) | 3:27 | 2023-10-27 | 2024-05-01 |
+| [Lé Fire](https://open.spotify.com/track/7INBnZULBmeSOC7Ipbep9X) | [Clüb De Combat](https://open.spotify.com/artist/0mY4R6feaMEIn9AEO2lMZw) | [Lé Fire](https://open.spotify.com/album/4QDLG9KFqihLdPAt7dYkQz) | 3:25 | 2025-11-21 |  |
 | [Magalenha](https://open.spotify.com/track/67UgMiTgtwjGFoiACzup1g) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Magalenha](https://open.spotify.com/album/3KOSUwiUlteX08HipIYu5e) | 2:54 | 2023-10-13 | 2024-03-14 |
 | [Make Me Feel \(Like Dancing\)](https://open.spotify.com/track/100m5H7AWP78qoou9Eb8DF) | [Justin Martin](https://open.spotify.com/artist/4FN8WHqUbwkd97WEjoCu7B) | [Make Me Feel \(Like Dancing\)](https://open.spotify.com/album/5dZNSi4ZP8vry4Lodq3BtQ) | 5:40 | 2024-02-09 | 2024-03-14 |
 | [Make Some Noise](https://open.spotify.com/track/3rsXPMYxQ7vl1XCcrZlzAC) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Chris Nasty](https://open.spotify.com/artist/1rGakp9mQfKaLjN7mT9ohd), [Constantin](https://open.spotify.com/artist/1bW3e15ewZUHeQkIpgXoxg) | [Make Some Noise](https://open.spotify.com/album/3mqinTVMorAEwc9TiyI6DH) | 2:58 | 2023-02-03 | 2025-10-15 |
@@ -284,6 +285,7 @@
 | [Over Again](https://open.spotify.com/track/00U3nGjoxrqX04GvjiypUz) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ) | [Over Again](https://open.spotify.com/album/3yvIAGFouolgRJTItuv3br) | 2:39 | 2023-04-21 | 2024-03-14 |
 | [Overdrive \(feat\. Norma Jean Martine\)](https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Overdrive \(feat\. Norma Jean Martine\)](https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg) | 2:35 | 2024-04-26 | 2024-08-03 |
 | [Overrated](https://open.spotify.com/track/4HZm1WZDuudcugFAyn1KVJ) | [Mal Blanc](https://open.spotify.com/artist/2yea6Qx7EDc4vUGTBtf04V), [Different Records](https://open.spotify.com/artist/2Xgd4vt84VmQGcnqNFwGht) | [Overrated](https://open.spotify.com/album/2z9uj04K2A6trDerJ3d9Ek) | 2:53 | 2023-05-12 | 2024-03-14 |
+| [Oye Mami](https://open.spotify.com/track/33ZccZTSHr3BNhswjoaZGI) | [Drop The Cheese](https://open.spotify.com/artist/4DPCpJ3C1nIqEFVs37tiOJ) | [Oye Mami](https://open.spotify.com/album/2dEee6Uhg736LB7vJTVHPH) | 3:08 | 2025-11-21 |  |
 | [Pa Pa Pa](https://open.spotify.com/track/7pKxbxMk9gL7hYgbeilMel) | [DEM2](https://open.spotify.com/artist/0Nbk5J4OjFoABAovNbuEzB), [Milan](https://open.spotify.com/artist/6AGhCcuaYOQ7mGBdBk6a8A) | [Pa Pa Pa](https://open.spotify.com/album/23GBINjhxufU2DtbWATeXW) | 3:27 | 2023-09-15 | 2024-03-14 |
 | [Paper Romance \- Purple Disco Machine Remix](https://open.spotify.com/track/4Q507WHVT2jAodOq49RqMf) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Paper Romance \(Purple Disco Machine Remix \- Edit\)](https://open.spotify.com/album/422SWiQLySbuzPmJPYIDt8) | 6:50 | 2025-09-29 |  |
 | [Papi](https://open.spotify.com/track/4wYTybPU1G7ZuXKjMdrn54) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [GeezLy](https://open.spotify.com/artist/2pm5MR0BU1dzvOd7ernZQc) | [Papi](https://open.spotify.com/album/21T52MdMD1iecNLNbMvBhg) | 3:03 | 2025-08-05 |  |

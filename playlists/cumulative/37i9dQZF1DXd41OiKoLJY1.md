@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover:  Angia Artwork: Isu Kim
 
-3,879 songs - 9 day 10 hr 27 min
+3,882 songs - 9 day 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -688,6 +688,7 @@
 | [Coup de grâce](https://open.spotify.com/track/3PCCqT0nTSey2h1iIWJRps) | [TEEN](https://open.spotify.com/artist/1chB7D5MsYcqBpie4zUKL0), [Lem.](https://open.spotify.com/artist/1ZECkYddAHfoFZgjeGuqsI) | [Coup de grâce](https://open.spotify.com/album/1c72dnTt4tMAcUcmxdzyNZ) | 2:35 | 2023-08-10 | 2023-09-01 |
 | [Coupla Miles High](https://open.spotify.com/track/4sbo0Rc0zKjpELskYOb70D) | [Powloh](https://open.spotify.com/artist/1k6pzQFm9xjWETHy8Gv7OA) | [Coupla Miles High](https://open.spotify.com/album/2RaKfpMk9oCXjztATxxtmM) | 3:12 | 2023-06-29 | 2023-07-14 |
 | [CR3STYLE](https://open.spotify.com/track/041uDtp8YiM3zpLK30elb5) | [YNGVIE](https://open.spotify.com/artist/2CMdtMF1AW7dbCamPCkwBK) | [CR3STYLE](https://open.spotify.com/album/2QDDiQdwhw7o7BcQjW7iVn) | 2:43 | 2024-02-22 | 2024-03-22 |
+| [Crash Out](https://open.spotify.com/track/6ofpWgaaVvsMR1n3Uj8SJG) | [Shawn Lim](https://open.spotify.com/artist/7CFe7XzVwYtQQ6nSNzKExQ) | [Twister](https://open.spotify.com/album/35JVA74pQZiT7dTPaCagWX) | 3:28 | 2025-11-20 |  |
 | [Crazy](https://open.spotify.com/track/4XqFDVpNvrBPHPn7jPvLbC) | [Dame Desu](https://open.spotify.com/artist/13ml6qhemtKEQRK7nNPvIB), [A$H](https://open.spotify.com/artist/3piYb7U6HKZHjm4IdExJCC) | [Crazy](https://open.spotify.com/album/4QQgeaSMnvuwLMJ2qq7xw7) | 3:15 | 2025-10-30 |  |
 | [Crazy / Makapiling Ka](https://open.spotify.com/track/0RK1zzniCS2dTGkqCJofQ7) | [ALLURA](https://open.spotify.com/artist/4wdOeJzLPnjtTV47h8X4WC) | [Crazy / Makapiling Ka](https://open.spotify.com/album/0nW5Wpj5jOPkk544O4Vk5d) | 2:39 | 2024-02-22 | 2024-03-13 |
 | [Crazy / Makapiling Ka](https://open.spotify.com/track/6nUcO4hhjBRGS29yW8Torq) | [ALLURA](https://open.spotify.com/artist/4wdOeJzLPnjtTV47h8X4WC) | [Crazy / Makapiling Ka](https://open.spotify.com/album/0z6ntoYPXZP9A0gc575zoy) | 2:39 | 2024-02-22 | 2024-03-22 |
@@ -1843,6 +1844,7 @@
 | [Lambing](https://open.spotify.com/track/70QpaWGDomY4xRJu5Q0jh6) | [Fitz Shioda](https://open.spotify.com/artist/5C2w1OkTeKl8BLSwHI68dj) | [Lambing](https://open.spotify.com/album/6MVhsXVm5XdDN4TTvHb2US) | 3:46 | 2023-08-03 | 2023-09-01 |
 | [LAMI](https://open.spotify.com/track/1WWkjxfYBII1OI9muTipD2) | [Dong Carlo](https://open.spotify.com/artist/7HFMcAVkwhPEerVjc0DFsN) | [LAMI](https://open.spotify.com/album/1sAzpDIM5cAxkOex7JQQ13) | 3:42 | 2024-07-04 | 2024-08-09 |
 | [Lana Rhoades](https://open.spotify.com/track/7e8DtNotFWaCuLx12DenHN) | [KAISAI](https://open.spotify.com/artist/4EOmdPzt09dPEFC7IKz1Ei) | [Lana Rhoades](https://open.spotify.com/album/6wrZVpuTwNzg6TeNXnggsZ) | 3:24 | 2023-03-16 | 2023-03-31 |
+| [Langga](https://open.spotify.com/track/3x8BunsZvkFIU26NOceS5Y) | [Brandon Kail](https://open.spotify.com/artist/5qtaCawWuhPeW3GlHErpgt) | [Langga](https://open.spotify.com/album/7pbjGgkwVROo0WiBP7T4dQ) | 5:07 | 2025-11-20 |  |
 | [langhiya](https://open.spotify.com/track/5fAt1n8u0NnIBGSum47RTB) | [Joshua Feliciano](https://open.spotify.com/artist/7KX5v2c2WjRTjHce9xLQSL) | [langhiya](https://open.spotify.com/album/2zWBEp4Q2SOyehkn1OeQLo) | 2:54 | 2024-03-14 | 2024-04-19 |
 | [Langit](https://open.spotify.com/track/2nFDFei15hjw0usWgwmP7w) | [Gem Largo](https://open.spotify.com/artist/5yCfOWjEqPcrXCP2LyVkLr) | [Langit](https://open.spotify.com/album/43AWyJJAjC3kOtkqrzmClF) | 3:57 | 2025-11-06 |  |
 | [Langit](https://open.spotify.com/track/6GFfKB20IOL7XsX69Svj05) | [M!NE](https://open.spotify.com/artist/5t4OjG0lp6GjPEvpLxgYEq) | [Langit](https://open.spotify.com/album/669cuHX0wuuS6SFVedIpNV) | 3:02 | 2025-07-03 | 2025-09-19 |
@@ -2887,6 +2889,7 @@
 | [Retro Sin City](https://open.spotify.com/track/1tvSKUKRwn56j8LoD0vjDq) | [Sejo](https://open.spotify.com/artist/4YUaR9qa7tsNgFfZ0PuMqu), [J\. Blaze](https://open.spotify.com/artist/359rMfsFjnJHLrkSB61xP2), [Aud](https://open.spotify.com/artist/0XUAq6mwMlrsRzEysedzRq) | [Retro Sin City](https://open.spotify.com/album/1ODIW8BdvMvFHGU7Jr8mO3) | 3:21 | 2025-07-10 | 2025-09-26 |
 | [Revival](https://open.spotify.com/track/00Oglw1GsvoTF9aPezy09R) | [Saint Klutch](https://open.spotify.com/artist/4O5M5erNF5cqbhGJmsuDDj) | [Revival](https://open.spotify.com/album/0JhahxgVnxfX37roRNCx0Y) | 2:30 | 2024-02-29 | 2024-03-29 |
 | [Reyna](https://open.spotify.com/track/6u8AEUICbMfg3kGt6PtaD2) | [The Kin Serotonin Geeks](https://open.spotify.com/artist/2FMOMbrklxqTwAtUvp19YA) | [Reyna](https://open.spotify.com/album/6lHI7OpN21Zw3n9lakneYf) | 3:30 | 2022-03-10 | 2022-04-01 |
+| [Rhinestones](https://open.spotify.com/track/21HO1Ci6urB0ZJTSAZmysg) | [KINIL](https://open.spotify.com/artist/6ejwRQk9J2eUHzKHILAXOi) | [Rhinestones](https://open.spotify.com/album/3vNIW5xzvNg78JzSgGreWD) | 2:33 | 2025-11-20 |  |
 | [Rhythm](https://open.spotify.com/track/5A160kSVFpIrcpZ3wrMT6K) | [Yes My Love](https://open.spotify.com/artist/2ySp44kTR0uNVfilvTdyuX) | [Rhythm](https://open.spotify.com/album/7HHET7F7cVbDrdkn9Djwc0) | 3:15 | 2023-03-16 | 2023-04-07 |
 | [Rhythms](https://open.spotify.com/track/32CwzxEmCEK3bTxOyxHK9t) | [Signalgiant](https://open.spotify.com/artist/44Nu5YNDuInA3q27ilTQwC) | [Rhythms](https://open.spotify.com/album/5mJtK2Lqfrt46phaeA1JNM) | 4:48 | 2022-02-10 | 2022-04-01 |
 | [Ribbit](https://open.spotify.com/track/7Bh4jeFITenDrnv1iS80cZ) | [Nanay Mo](https://open.spotify.com/artist/2WJwor5iMx5d0Gu0kkRzED) | [Ribbit](https://open.spotify.com/album/1wl0QYXkr1bCpronUdA1eU) | 3:25 | 2025-01-23 | 2025-02-28 |

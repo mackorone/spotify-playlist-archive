@@ -18427,6 +18427,24 @@
     },
     {
       "album": {
+        "name": "Abracadabra",
+        "url": "https://open.spotify.com/album/1Qx4Ifq9PMRQhjF7pChakY"
+      },
+      "artists": [
+        {
+          "name": "Kl\u00f4 Pelgag",
+          "url": "https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189920,
+      "name": "Libre",
+      "url": "https://open.spotify.com/track/7nVJa3bpQZc4onq25jo4pJ"
+    },
+    {
+      "album": {
         "name": "Missing Something",
         "url": "https://open.spotify.com/album/6kj47h4a5ptQiZRYsihT1Y"
       },
@@ -33802,7 +33820,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 191186,
       "name": "Un r\u00eave",
       "url": "https://open.spotify.com/track/0y8j2uk4HhhbcQKHy6feeE"

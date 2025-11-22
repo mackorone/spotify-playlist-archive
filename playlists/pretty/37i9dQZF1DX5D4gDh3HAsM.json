@@ -1,13 +1,29 @@
 {
   "description": "Jazzy takes on your favorite Holiday songs. Cover: Samara Joy",
-  "num_followers": 623129,
+  "num_followers": 623458,
   "original_name": "Christmas Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABqwQd8ullDWX6SecNR8+PfG29LK",
+  "snapshot_id": "AAAAAK2xwEwR3npdl4sYdhPtAz1xV4jK",
   "tracks": [
+    {
+      "added_at": "2025-11-21 05:00:17",
+      "album": {
+        "name": "Joy To The World",
+        "url": "https://open.spotify.com/album/6CEUCfBMzOnnzVcRDd9CCZ"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        }
+      ],
+      "duration_ms": 325360,
+      "name": "Joy To The World",
+      "url": "https://open.spotify.com/track/2TyrQS9gC73SSPlu2IEQjP"
+    },
     {
       "added_at": "2025-11-14 05:00:20",
       "album": {
@@ -1463,22 +1479,6 @@
       "duration_ms": 360133,
       "name": "Baby, It's Cold Outside",
       "url": "https://open.spotify.com/track/1zZGu0CZd3Sifl2GNECXWG"
-    },
-    {
-      "added_at": "2025-10-10 14:39:28",
-      "album": {
-        "name": "It's the Most Wonderful Time of the Year",
-        "url": "https://open.spotify.com/album/7qUr1ApU9oVSD9V7xyVWyc"
-      },
-      "artists": [
-        {
-          "name": "Brett Eldredge",
-          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
-        }
-      ],
-      "duration_ms": 177108,
-      "name": "It's the Most Wonderful Time of the Year",
-      "url": "https://open.spotify.com/track/2GKbw2FCDXHIddECLeSLef"
     },
     {
       "added_at": "2025-10-10 14:39:28",

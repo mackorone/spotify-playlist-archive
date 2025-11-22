@@ -4,7 +4,7 @@
 
 > Unas buenas cumbias con el calor de la gente! <br/>Foto: Ke Personajes & Ulises Bueno.
 
-235 songs - 14 hr 30 min
+236 songs - 14 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Ahora Te Vas \- En Vivo](https://open.spotify.com/track/1a47ltENRUWMRlNnlqVsvs) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [En Vivo En La Quinta Vergara](https://open.spotify.com/album/1ufPsyIKQ45i4nKN5urv2C) | 3:44 | 2022-01-07 | 2025-03-01 |
 | [Algún Día Volverás \(Santaferia En La Quinta Vergara\)](https://open.spotify.com/track/1EY7yWaDtrVH8p2vnTEJCt) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o), [Paula Rivas](https://open.spotify.com/artist/47i4noBzl5Os351Qlmxuia) | [Algún Día Volverás \(Santaferia En La Quinta Vergara\)](https://open.spotify.com/album/1v84b34paaTfnbh8c9d7pa) | 6:04 | 2022-07-15 | 2024-04-19 |
 | [Algún Día Volverás \(Santaferia en la Quinta Vergara\)](https://open.spotify.com/track/3jIpcXHmCRl894HKVlHcjN) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o), [Paula Rivas](https://open.spotify.com/artist/47i4noBzl5Os351Qlmxuia) | [Algún Día Volverás \(Santaferia en la Quinta Vergara\)](https://open.spotify.com/album/19ZR23YJSCMdAoj6IJknbK) | 6:04 | 2021-12-10 | 2022-07-29 |
+| [Amaneciendo En Ti \- En Vivo en la Casa Sabanera](https://open.spotify.com/track/5azg6NgweuZ6dciNXGP32I) | [Onda Sabanera](https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P), [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T) | [Amaneciendo En Ti \(En Vivo en la Casa Sabanera\)](https://open.spotify.com/album/0sJ614rOz5MikiGV3ZIzmq) | 4:19 | 2025-10-24 |  |
 | [Amantes / Mas Hombre Que Tu \- En Vivo](https://open.spotify.com/track/09d8x3UOE0ptPkfW5kz3NO) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Inigualable \(En Vivo\)](https://open.spotify.com/album/1lEfjXb3WD9L6c1AtBVwIf) | 3:49 | 2025-02-28 |  |
 | [Amiga Mía \- En Vivo](https://open.spotify.com/track/2rF8E9Sg03GskZKATX35SA) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [Amiga Mía \(En Vivo\)](https://open.spotify.com/album/1aTdocm7ikKft6tvrdkr9x) | 3:46 | 2025-04-18 | 2025-11-07 |
 | [Amiga Traidora \- En Vivo](https://open.spotify.com/track/7CGJrAl10qYGJo4cOC9xuM) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [Amiga Traidora \(En Vivo\)](https://open.spotify.com/album/1GPlgIs9LniORYNJYlYitd) | 3:56 | 2021-12-10 |  |
@@ -77,7 +78,7 @@
 | [Escucha Mi Voz \- En Vivo](https://open.spotify.com/track/5YN8noZFkBXn92ddHGZbDK) | [Antonio Rios](https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi), [Pablo Lescano](https://open.spotify.com/artist/6pztqmUqWADMZQKrrmGWGx) | [Escucha Mi Voz \(En Vivo\)](https://open.spotify.com/album/02VT4Zr7qPUEukzEs5ybbw) | 3:39 | 2024-12-13 | 2025-04-22 |
 | [Estoy Buscando un Amor \- En Vivo](https://open.spotify.com/track/0YZh1ldHeWENOALTKRpwEW) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [En Vivo](https://open.spotify.com/album/3KwyevLnQNE7nXJtmIOLc9) | 1:46 | 2025-03-14 | 2025-10-25 |
 | [Estoy Buscando un Amor \- En Vivo](https://open.spotify.com/track/1B0GuAZXeOEa41BWuax8UH) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg), [Cartucho](https://open.spotify.com/artist/7d2PwZelcQLuNIiVcWTSGN) | [En el Gran Rex \(En Vivo\)](https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu) | 3:15 | 2021-12-10 | 2024-11-02 |
-| [Estuve Ahí](https://open.spotify.com/track/0vj7n8tknwKtbvZQ1ocATb) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW) | [Estuve Ahí](https://open.spotify.com/album/0o0TxliabAYbbhAxeFDYLM) | 3:14 | 2022-06-03 |  |
+| [Estuve Ahí](https://open.spotify.com/track/0vj7n8tknwKtbvZQ1ocATb) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW) | [Estuve Ahí](https://open.spotify.com/album/0o0TxliabAYbbhAxeFDYLM) | 3:14 | 2022-06-03 | 2025-11-22 |
 | [Falso Malo \- En Vivo](https://open.spotify.com/track/5xNDCYF5PFIsb5MIBaEd1h) | [Karen Britos](https://open.spotify.com/artist/6DTSChtNao6SMQy2EyTHyA) | [En Vivo en Pasión 2018](https://open.spotify.com/album/1jqDkm5aXq9Z9DPljvNhjE) | 3:04 | 2021-12-10 | 2022-07-28 |
 | [Fiera Inquieta / Tu Oportunidad / Alguien Que una Vez Ame \- En Vivo](https://open.spotify.com/track/7jyxq4y5HiJ6jfYsGGs5k5) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [En Vivo en el Gran Rex](https://open.spotify.com/album/7gAMypAPwm97SxVNLVBooy) | 4:57 | 2021-12-10 | 2022-07-28 |
 | [Flor del Bañado \(En Vivo\)](https://open.spotify.com/track/377AzTYtB0NSahp11mfa3K) | [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Flor del Bañado \(En Vivo\)](https://open.spotify.com/album/48au1oyXaWr5hmbyKMIKzF) | 3:41 | 2024-04-12 |  |

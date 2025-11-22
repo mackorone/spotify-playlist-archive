@@ -515,6 +515,28 @@
     },
     {
       "album": {
+        "name": "Aviones de Papel",
+        "url": "https://open.spotify.com/album/3rXvXK7tpiQL17PnCxfYdr"
+      },
+      "artists": [
+        {
+          "name": "Susana Cala",
+          "url": "https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB"
+        },
+        {
+          "name": "Josue Alaniz",
+          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150419,
+      "name": "Aviones de Papel",
+      "url": "https://open.spotify.com/track/4hNdUb1jgKQ2lytl0Z17dN"
+    },
+    {
+      "album": {
         "name": "PALACIO DE LUX",
         "url": "https://open.spotify.com/album/1Zn2LwmWP3ItxW1DIOdg0X"
       },
@@ -773,6 +795,24 @@
     },
     {
       "album": {
+        "name": "Celebrar",
+        "url": "https://open.spotify.com/album/6UqLI0gR4fjhHhvHrBYk2l"
+      },
+      "artists": [
+        {
+          "name": "Fonseca",
+          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195802,
+      "name": "Celebrar",
+      "url": "https://open.spotify.com/track/0L9wmmuP6536NqFqWyMKGu"
+    },
+    {
+      "album": {
         "name": "Si Te Soy M\u00e1s Sincera",
         "url": "https://open.spotify.com/album/3j5jBheSpnsonl8m8Fdga3"
       },
@@ -828,6 +868,24 @@
       "duration_ms": 163213,
       "name": "Conquistar El Planeta",
       "url": "https://open.spotify.com/track/0PnQyZ2269uNKZjiwwiF9C"
+    },
+    {
+      "album": {
+        "name": "Cosas buenas",
+        "url": "https://open.spotify.com/album/0Cc6V5bXYrl6ghF04tEePM"
+      },
+      "artists": [
+        {
+          "name": "Laura Mar\u00e9",
+          "url": "https://open.spotify.com/artist/0jewyEquYvSCLkwgHZM4XO"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162804,
+      "name": "Cosas buenas",
+      "url": "https://open.spotify.com/track/4RnysSVeHxlfW11HanYr0q"
     },
     {
       "album": {
@@ -940,7 +998,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 172777,
       "name": "C\u00c1LLATE",
       "url": "https://open.spotify.com/track/5kTGxJQVACs4mJmO7Emzuc"
@@ -1070,10 +1128,28 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 191862,
       "name": "Desde Hola",
       "url": "https://open.spotify.com/track/0oQfmHrqjn3kQM1mlIf3lY"
+    },
+    {
+      "album": {
+        "name": "Las q no te cant\u00e9",
+        "url": "https://open.spotify.com/album/0sFHRjSIqcxiPNlw9Jr04g"
+      },
+      "artists": [
+        {
+          "name": "Manuel Lizarazo",
+          "url": "https://open.spotify.com/artist/3GAdaUGcZiphtBqlLxXHZC"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139763,
+      "name": "Despi\u00e9rtate",
+      "url": "https://open.spotify.com/track/22MQ0pbfNdWPBtHJXU4Eml"
     },
     {
       "album": {
@@ -2052,7 +2128,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 144153,
       "name": "Karma",
       "url": "https://open.spotify.com/track/7M4HP9qLthoJZ3XAAamZfY"
@@ -4216,7 +4292,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 235418,
       "name": "Si Todo Se Acaba",
       "url": "https://open.spotify.com/track/0nlajzlXJu0xOV1mJn82KW"

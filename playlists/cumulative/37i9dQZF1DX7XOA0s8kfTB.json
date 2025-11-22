@@ -401,6 +401,24 @@
     },
     {
       "album": {
+        "name": "\u3082\u3046\u4f55\u3082\u3044\u3089\u306a\u3044\u672a\u6765",
+        "url": "https://open.spotify.com/album/2qstuWbHpze4XTVIWGbUpw"
+      },
+      "artists": [
+        {
+          "name": "TOGENASHI TOGEARI",
+          "url": "https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219269,
+      "name": "\u3082\u3046\u4f55\u3082\u3044\u3089\u306a\u3044\u672a\u6765",
+      "url": "https://open.spotify.com/track/6RpYcoB6Y2hmhOxxuljqMz"
+    },
+    {
+      "album": {
         "name": "\u30b5\u30e8\u30ca\u30e9\u30b5\u30e8\u30ca\u30e9\u30b5\u30e8\u30ca\u30e9",
         "url": "https://open.spotify.com/album/4L4vKyM8psqZ1Us7aEmeS0"
       },

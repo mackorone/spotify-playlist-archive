@@ -4,7 +4,7 @@
 
 > 12 Hours of brown noise to sleep longer.
 
-288 songs - 14 hr 22 min
+289 songs - 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,7 +259,7 @@
 | [Skillful Brown Noise](https://open.spotify.com/track/6uN3ogxpUcVm8rOXMVkZcY) | [Xella Machina](https://open.spotify.com/artist/66uHiAJ1D3MCLQmX9xYJqI) | [Skillful Brown Noise](https://open.spotify.com/album/0BousaMV8qezDef0zcckjo) | 3:04 | 2025-11-13 |  |
 | [Sleep Aid Brown Noise](https://open.spotify.com/track/3Op7qOfXCeE9y2a8khEHyR) | [Euaxations](https://open.spotify.com/artist/3RGM53632OyIVzEN2FrLJN) | [Sleep Aid Brown Noise](https://open.spotify.com/album/4hzsIdXqE5kzNUj4edWk2t) | 2:10 | 2024-02-02 | 2025-02-28 |
 | [Sleep Ambient Brown Noise](https://open.spotify.com/track/6r7YXtEES9ljlIVe7yM8cY) | [Arx](https://open.spotify.com/artist/1WE6CfpIRxkLEpMddVhEXI) | [Sleep Ambient Brown Noise](https://open.spotify.com/album/5rzrTfIsPGRKhbABABV9kT) | 2:44 | 2023-05-25 | 2023-11-11 |
-| [Sleep Noise \(Brown\)](https://open.spotify.com/track/2PBvSP1bRXX198fdDJZWmp) | [Blimba](https://open.spotify.com/artist/42XvJnFdC4wFTCn1aiMafa) | [Sleep Noise \(Brown\)](https://open.spotify.com/album/6JOCRCYAgyjLfv8EO7FnV8) | 2:21 | 2023-05-25 |  |
+| [Sleep Noise \(Brown\)](https://open.spotify.com/track/2PBvSP1bRXX198fdDJZWmp) | [Blimba](https://open.spotify.com/artist/42XvJnFdC4wFTCn1aiMafa) | [Sleep Noise \(Brown\)](https://open.spotify.com/album/6JOCRCYAgyjLfv8EO7FnV8) | 2:21 | 2023-05-25 | 2025-11-22 |
 | [Sleeping Brown Noise](https://open.spotify.com/track/6mWt70E1XVsAG36NRV40rV) | [Everywhere Brown Noise](https://open.spotify.com/artist/4r6joVLgbTD7M07z1KIooA) | [Sleeping Brown Noise](https://open.spotify.com/album/7umltGSpruiFHUJUxQJLlf) | 3:45 | 2023-05-25 | 2025-03-04 |
 | [Sleepy Brown 130 Hz \- Seamless](https://open.spotify.com/track/13Ke2nWjtjlpI4UrUqzJSQ) | [Jane Color](https://open.spotify.com/artist/5IHSYO8kKxpkIphS2vmEuX) | [Sleepy Brown 130 Hz](https://open.spotify.com/album/31pG9nKBlc4H9a3EVhZyrg) | 2:51 | 2023-05-25 |  |
 | [Sleepy Soft Brown Noise](https://open.spotify.com/track/3O3T2m9DujkISjtSyvS22U) | [NREM](https://open.spotify.com/artist/1pNPv0QPiEM6e7ITG8JcUm) | [Soft Sleep Noises](https://open.spotify.com/album/65yI0yRAa1c29ompXpOfpc) | 3:50 | 2023-05-25 | 2025-02-28 |
@@ -295,6 +295,7 @@
 | [Waves of Brown Part 2](https://open.spotify.com/track/39fdMNGeBk7Vn25exDjwfv) | [Caalyx](https://open.spotify.com/artist/3UBNMUnNuVwJrGtXGwuTDi) | [Waves of Brown](https://open.spotify.com/album/4fYvxaji7HUX4CEjVjvJaV) | 3:01 | 2023-05-25 |  |
 | [Way Down Deep 240 Hz](https://open.spotify.com/track/123VXXgsLsUFKoZ49rEhBg) | [Dormant Clouds](https://open.spotify.com/artist/08MfBIg9r4Dzm2ISLs1Us7) | [Way Down Deep](https://open.spotify.com/album/1CtBpLMV3kM3KROr0cr9JJ) | 2:57 | 2023-05-25 | 2025-02-28 |
 | [White Noise's Cousin: Brown Noise](https://open.spotify.com/track/7ApGztZvGpVikIV2st1tlu) | [Natures Acoustics](https://open.spotify.com/artist/2JwZFiiENk7S0lKD4lyTk1) | [Sleep Aid Brown Noise](https://open.spotify.com/album/4hzsIdXqE5kzNUj4edWk2t) | 2:16 | 2023-10-26 |  |
+| [Window Seat \(Brown Noise\)](https://open.spotify.com/track/4OttM0PrbvudvhVjNr9V5r) | [Tintrel](https://open.spotify.com/artist/3wKSIO8EWa6ego4VTtvRKt) | [Window Seat \(Brown Noise\)](https://open.spotify.com/album/04uii1MevMetZxf3P5Le6N) | 3:04 | 2025-11-13 |  |
 | [Zen Brown Noise](https://open.spotify.com/track/7nD8oaSJbcjhgcRYfvPeFL) | [Noises Of Life](https://open.spotify.com/artist/3Z3rY8ZEQwe3mgMoDzqTWi) | [Brown Noise for a Focused Approach](https://open.spotify.com/album/1FnCdpfEqlWI2LwLbJx8wZ) | 2:27 | 2023-05-25 | 2025-02-28 |
 
 \*This playlist was first scraped on 2023-05-26. Prior content cannot be recovered.

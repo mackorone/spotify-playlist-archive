@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 
 > Súbete a la nueva ola del rock español\. Foto: Repion.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,491 likes - 80 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,521 likes - 80 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Cerrar los ojos](https://open.spotify.com/track/6we4xaVKPTV2NgRuyf839y) | [Repion](https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24) | [](https://open.spotify.com/album/null) | 3:31 |
+| 1 | [Cerrar los ojos](https://open.spotify.com/track/6we4xaVKPTV2NgRuyf839y) | [Repion](https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24) | [201](https://open.spotify.com/album/6V17fWLu2a57Qc5PyeLBSV) | 3:31 |
 | 2 | [Día de verano](https://open.spotify.com/track/1hSw1XM3NZdNxP6JTXfPwj) | [Niños Bravos](https://open.spotify.com/artist/5yJc14614Bzi1g5WLSNO3U) | [Día de verano](https://open.spotify.com/album/5dATK3E5r8R7vkZQ6KFTC2) | 3:55 |
 | 3 | [Moreno Albañil](https://open.spotify.com/track/0iFbCBsfJEiY5SJOOE1ddZ) | [Orina](https://open.spotify.com/artist/2hKjDkYnFqGKQrGsgYI4TJ) | [Moreno Albañil](https://open.spotify.com/album/3JpPgTC7u1IAexMDHmtcK5) | 3:30 |
 | 4 | [Ciegos](https://open.spotify.com/track/5aCUsb2JPQl8RFl2VVzqXs) | [Nuevo Berlín](https://open.spotify.com/artist/1yx6TpkZhtrOHefx2nZxBI) | [Manual para perderse](https://open.spotify.com/album/6XqXcDfhF7udWZNKLzC4OV) | 3:49 |

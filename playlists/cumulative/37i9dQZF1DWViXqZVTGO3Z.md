@@ -4,7 +4,7 @@
 
 > Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus\. Cover: Katy Nichole
 
-483 songs - 1 day 7 hr 26 min
+484 songs - 1 day 7 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Auld Lang Syne](https://open.spotify.com/track/3DuIxCNLv9H0lZX9TNGhbX) | [Andy Cherry](https://open.spotify.com/artist/67xUi7je7BPGgGdem8oycN) | [Auld Lang Syne](https://open.spotify.com/album/45mEBa1g8I8rsOO2wgk9y2) | 4:20 | 2021-12-24 | 2022-07-27 |
 | [Ave \(King of Kings\)](https://open.spotify.com/track/6hIvMQCt2bebDdycbZuQtc) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [Light Has Come](https://open.spotify.com/album/26hBnMAG5XC03FjZ3esooG) | 4:24 | 2023-11-17 | 2024-12-01 |
 | [Away In A Manger](https://open.spotify.com/track/4KaeuZrZE9mk2fyAUuhUBU) | [Amanda Nolan](https://open.spotify.com/artist/1M62wAGkipCrvniBF6ZCa8) | [Away In A Manger](https://open.spotify.com/album/3Y3681sbw2hCiPsVAXLw07) | 2:29 | 2024-11-23 | 2025-06-20 |
-| [Away in a Manger](https://open.spotify.com/track/2UN1AXWKmalDgTawYPoIOK) | [Carsen Gray](https://open.spotify.com/artist/2Rghdsv4GA0dvKqLAnAWZs) | [Praise Sah'Laana](https://open.spotify.com/album/0tRBCHj38VbZWCEbI3wTDw) | 2:59 | 2024-11-17 |  |
+| [Away in a Manger](https://open.spotify.com/track/2UN1AXWKmalDgTawYPoIOK) | [Carsen Gray](https://open.spotify.com/artist/2Rghdsv4GA0dvKqLAnAWZs) | [Praise Sah'Laana](https://open.spotify.com/album/0tRBCHj38VbZWCEbI3wTDw) | 2:59 | 2024-11-17 | 2025-11-22 |
 | [Away In a Manger](https://open.spotify.com/track/1lXmhrsTDe9QT7G5QYEnLr) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Peace On Earth](https://open.spotify.com/album/6AwF2s3lEGd6Mjvu1xy249) | 3:35 | 2021-12-11 | 2023-12-16 |
 | [Away In a Manger](https://open.spotify.com/track/6kqfTZO1rOY1M4Ilcc2noQ) | [Highlands Worship](https://open.spotify.com/artist/48ubKBTTmlA82dffZ223In) | [Comfort and Joy](https://open.spotify.com/album/6ln6oSxJB8fCXtTu4eezD9) | 3:20 | 2021-12-24 | 2025-11-18 |
 | [Baby Boy](https://open.spotify.com/track/4sSXzAOEYpSK5o5zFtDrnr) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [Baby Boy](https://open.spotify.com/album/28UIg788d1C0Q93xwZRDHP) | 3:50 | 2021-12-11 | 2022-12-13 |
@@ -130,6 +130,7 @@
 | [Glory In The Highest](https://open.spotify.com/track/2U8ktRTW0SpL7GS994KNQE) | [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [Receive Our King](https://open.spotify.com/album/37RG4Ybo9LMPZ8pArKkzYy) | 4:51 | 2021-12-24 |  |
 | [Glory To You In The Highest \(O Come Let Us Adore\)](https://open.spotify.com/track/0QRDvMDcInrXSODsTQ6h7O) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [These Christmas Lights](https://open.spotify.com/album/5pgUIgHDhjfGe2rGunmU7a) | 5:16 | 2021-12-24 |  |
 | [Go Tell 'Em](https://open.spotify.com/track/2s3D0fcZr4mVagNppwjiCG) | [One Common](https://open.spotify.com/artist/7C8oYaoYaMU08umRm46EK9) | [Go Tell 'Em](https://open.spotify.com/album/1TIJr6PcQbLxWohrL2cbER) | 2:28 | 2024-11-29 |  |
+| [Go Tell It](https://open.spotify.com/track/6ctaxJwvmHge2hYFIXNg3L) | [Earnest Pugh](https://open.spotify.com/artist/3qJMkUIxNLC90m6BdgLEFt) | [Go Tell It](https://open.spotify.com/album/3FXpr2csTJXhaICxq2qWN4) | 4:20 | 2025-11-16 |  |
 | [Go Tell It On The Mountain](https://open.spotify.com/track/2Kfk5CsyR3dTcLX7XLmGWe) | [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH) | [Present Jesu](https://open.spotify.com/album/4vF9ocadQvrYkq1kup6Hwv) | 2:30 | 2024-11-17 | 2025-11-06 |
 | [Go Tell It On The Mountain](https://open.spotify.com/track/3waRYV2v3AVY0UQhstmXP0) | [eightFour](https://open.spotify.com/artist/73JRUWCiA2RChSaOq9fkKs), [Calah Mikal](https://open.spotify.com/artist/2c2Y05pVIabK1AT1zfsH0h) | [Go Tell It On The Mountain](https://open.spotify.com/album/4muIzM1fQLkbHqp0WrKSM5) | 2:50 | 2024-12-08 |  |
 | [Go Tell It On The Mountain](https://open.spotify.com/track/6t9cECeEgIcrjmuWrKaBtw) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [A Drummer Boy Christmas](https://open.spotify.com/album/3mzFzJI8WYQ7Szerr4zLzT) | 3:38 | 2021-12-11 | 2023-12-16 |

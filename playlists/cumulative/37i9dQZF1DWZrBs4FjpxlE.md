@@ -4,7 +4,7 @@
 
 > we got you\. Cover: Post Malone
 
-181 songs - 8 hr 55 min
+182 songs - 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [2055](https://open.spotify.com/track/4XvcHTUfIlWfyJTRG0aqlo) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Still Sleep?](https://open.spotify.com/album/38nZLvJx8A9p4YYpTG5iFP) | 2:03 | 2023-08-07 |  |
 | [772 Love](https://open.spotify.com/track/230wNo1dnexltKYQbsW7oD) | [YNW Melly](https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg) | [772 Love](https://open.spotify.com/album/1RTMwluKhKL68BpYBdiF6x) | 3:29 | 2024-02-23 |  |
 | [911](https://open.spotify.com/track/7AikJn0VCWhnKvuNgfJa8j) | [Parker Jack](https://open.spotify.com/artist/5COD136qwj9wtuea78EGbF), [Eon Zero](https://open.spotify.com/artist/7mkjJXcIIgW5F92qaNFV98), [HunnaV](https://open.spotify.com/artist/0l0gRnqPszmcf6NQKcyuWH), [Jake Luke](https://open.spotify.com/artist/7bkZ9WvOveMiDLvTIGiMyw) | [911](https://open.spotify.com/album/62nSQQw0KJZhjRrwk4AbwO) | 3:26 | 2025-11-14 |  |
+| [A PERFECT WORLD](https://open.spotify.com/track/248bSDOWnpNQtANZbpMH0Y) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [A PERFECT WORLD](https://open.spotify.com/album/1wdk3yKTc0PajYK7vLS8t4) | 3:07 | 2025-11-21 |  |
 | [About You](https://open.spotify.com/track/74WKPbLlT4hrlNBj0cmR33) | [Sik World](https://open.spotify.com/artist/39G9Mcs99KhOEtVuthwztS) | [Still Lost 2](https://open.spotify.com/album/3e91QRkfMkbIDBwH4X7n8s) | 2:53 | 2024-02-23 |  |
 | [act iii: on god? \(she like\)](https://open.spotify.com/track/30uO152on2tYWoE99VaEL5) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act iii: on god? \(she like\)](https://open.spotify.com/album/3Tq1vvYtgk2AgJpB9f2lTb) | 2:50 | 2024-03-08 |  |
 | [after](https://open.spotify.com/track/56MC5t01ksjryLvJuuZypa) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [after](https://open.spotify.com/album/1x4fNH25BgVaDjo0jWaYD7) | 2:25 | 2025-06-27 |  |

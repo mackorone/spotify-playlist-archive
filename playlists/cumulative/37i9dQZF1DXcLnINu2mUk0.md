@@ -4,7 +4,7 @@
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Anna Joyce, Ivandro
 
-813 songs - 1 day 18 hr 57 min
+813 songs - 1 day 19 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -742,7 +742,6 @@
 | [TOU NA MESMA](https://open.spotify.com/track/38pmZyhyQSY8hCOM65RHWC) | [BUH BUH](https://open.spotify.com/artist/2heTC0O1xw4oamnO7APYBU) | [TOU NA MESMA](https://open.spotify.com/album/5RfQqIydnZmOgqVAnD9upg) | 3:25 | 2024-04-18 | 2024-05-04 |
 | [Tou Off](https://open.spotify.com/track/0FB7uPeeVlMJllljKRXAbP) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm) | [Tou Off](https://open.spotify.com/album/1UQdAkoiFLFlNPKpk7WREn) | 2:44 | 2025-06-13 | 2025-07-29 |
 | [Toxic](https://open.spotify.com/track/5y5whWaKrsHfPstxEvSRXo) | [DX](https://open.spotify.com/artist/0omUGjQF2J7gdIUaJqlnzR) | [Toxic](https://open.spotify.com/album/2sfSoDqx6QohDOVG7mmV0f) | 2:22 | 2022-12-23 | 2023-01-21 |
-| [Track 4](https://open.spotify.com/track/6gJF4kTu4cQDklJMnd0ZkQ) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-21 |  |
 | [Triste \(Pensas Em Mim\)](https://open.spotify.com/track/2Ym9McKj9QGLjoe0MFaCzm) | [RAISSA](https://open.spotify.com/artist/44zte6km7DPWrgPJqOLu0m) | [Triste \(Pensas Em Mim\)](https://open.spotify.com/album/4NWM9iVA8OfQd9WI6oR0DK) | 3:18 | 2024-12-06 | 2025-01-17 |
 | [Trovador](https://open.spotify.com/track/1f0ptSKxe9r5hDINkSxNxU) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Trovador](https://open.spotify.com/album/25ZAdeWrd6WAM8dpvWckPS) | 3:46 | 2024-02-16 | 2025-02-14 |
 | [Tsunami](https://open.spotify.com/track/5TqGewrmzgeb21FYQC7mJZ) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Tsunami](https://open.spotify.com/album/27Gt5wAgEVjatU36I1ogDf) | 4:57 | 2022-07-07 | 2025-07-11 |
@@ -807,6 +806,7 @@
 | [Yah!](https://open.spotify.com/track/1Kvz7W6IZop2tbX81Q6Q33) | [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru) | [Yah!](https://open.spotify.com/album/1EBjP3zq575YxmWdP8NtJR) | 2:48 | 2023-05-18 | 2023-06-02 |
 | [Yard](https://open.spotify.com/track/5Yw3ndPrkej9BDkmaK6pYl) | [Remedy DON Dadda](https://open.spotify.com/artist/4Pk4SkoJXaM7GCpRHKK8yL), [Wine TKK](https://open.spotify.com/artist/4z82basJVVCSjAoZVkb7Rx), [AET](https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu) | [Yard](https://open.spotify.com/album/7o2gLbTGJCHuRXPqWZF6qP) | 4:00 | 2023-06-08 | 2023-06-30 |
 | [You](https://open.spotify.com/track/6w2RZjWpz1sXqRPuX92izA) | [Dvk](https://open.spotify.com/artist/0BbxfukSeIodPyKQJXhawB) | [Cupid](https://open.spotify.com/album/6TiiajhnvtKkjXVhxWkPz1) | 2:51 | 2022-12-02 | 2023-01-06 |
+| [¡ SÓ NÓS ! \(feat\. Carla Prata\)](https://open.spotify.com/track/6gJF4kTu4cQDklJMnd0ZkQ) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d), [Carla Prata](https://open.spotify.com/artist/7vWp4MLdsECG1Dmu5NDLRS) | [WONDER](https://open.spotify.com/album/4euL5ozDT7eXHQuZ7EU6Tb) | 3:13 | 2025-11-21 |  |
 | [À Procura](https://open.spotify.com/track/2gRjbu1mxypKW0zPyf5uGa) | [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw) | [Violetta](https://open.spotify.com/album/2bxwGAO6LDVzSjPoEggQ58) | 2:32 | 2025-06-26 |  |
 | [À Tona](https://open.spotify.com/track/2pejdDJoyqDBWM706pwC9M) | [Dote](https://open.spotify.com/artist/4uAoxHS1E4Hd8KCH8m9aaP) | [À Tona](https://open.spotify.com/album/6AQ5jQ3Tqm0ygMnBnmWUbe) | 2:14 | 2023-09-14 | 2023-10-13 |
 | [À Tua Porta](https://open.spotify.com/track/5gWEoHkpYex8mi50RCZ3ll) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS), [Carolina Deslandes](https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU) | [À Tua Porta](https://open.spotify.com/album/7gYGEPMjrZIad5Lk6mous8) | 3:31 | 2023-12-08 | 2024-12-11 |

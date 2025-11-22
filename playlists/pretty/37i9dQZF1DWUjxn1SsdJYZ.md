@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best new AUS & NZ Rap\. Cover: Nauti
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,147 likes - 100 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,143 likes - 100 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 20 | [prIDe](https://open.spotify.com/track/5yk928rSjhlkCVLKVSNGtX) | [thatboykwame](https://open.spotify.com/artist/5ywIxMaX80lDjSzzj7wqto) | [In A Matter of Time](https://open.spotify.com/album/16GsCGOVvtXRarRIFKR00H) | 2:35 |
 | 21 | [NORTHSIDE KID](https://open.spotify.com/track/0cp8tj8WUeErq8Y3WrBm7a) | [Elsy Wameyo](https://open.spotify.com/artist/57yHK6QAG0l9vigstf9F2T) | [NORTHSIDE KID](https://open.spotify.com/album/1CTMcDMrHztlSeoLrTMheH) | 4:47 |
 | 22 | [UH HUH!](https://open.spotify.com/track/7BEfgRKgGxXZWo3Fx7idIX) | [AMARNI](https://open.spotify.com/artist/6HxQEau8zFYzY8fJ7pKEco) | [UH HUH!](https://open.spotify.com/album/2BUEV2pIjISYKyPbLTiUCd) | 2:32 |
-| 23 | [Lights](https://open.spotify.com/track/5Yl4OiAIKubOR4Prw07W5m) | [Mr Rhodes](https://open.spotify.com/artist/3NEL17Y3w46qOrjJXgeMO8), [Reyne House](https://open.spotify.com/artist/4EDKYXiDYdGSLTn6gYrml0), [Drac Hammond](https://open.spotify.com/artist/3jYhVamC6KtzwLwMhRbaqA) | [](https://open.spotify.com/album/null) | 2:45 |
-| 24 | [Moisturise & Decolonise](https://open.spotify.com/track/4HEm30jyZjWQSbxFQlMYwf) | [Rei](https://open.spotify.com/artist/09eBKIxIhMym3kxJyDnVXh), [Swizl Jager](https://open.spotify.com/artist/0SN65FsSX7cxoHvh4ImcDn) | [](https://open.spotify.com/album/null) | 2:51 |
+| 23 | [Lights](https://open.spotify.com/track/5Yl4OiAIKubOR4Prw07W5m) | [Mr Rhodes](https://open.spotify.com/artist/3NEL17Y3w46qOrjJXgeMO8), [Reyne House](https://open.spotify.com/artist/4EDKYXiDYdGSLTn6gYrml0), [Drac Hammond](https://open.spotify.com/artist/3jYhVamC6KtzwLwMhRbaqA) | [Rhode House](https://open.spotify.com/album/6aT0twuAt5UPUJxEzfmSEE) | 2:45 |
+| 24 | [Moisturise & Decolonise](https://open.spotify.com/track/4HEm30jyZjWQSbxFQlMYwf) | [Rei](https://open.spotify.com/artist/09eBKIxIhMym3kxJyDnVXh), [Swizl Jager](https://open.spotify.com/artist/0SN65FsSX7cxoHvh4ImcDn) | [Moisturise & Decolonise](https://open.spotify.com/album/76cke2V2wrYDBaEjbLTk1o) | 2:51 |
 | 25 | [EVERYTHING IS CORNY](https://open.spotify.com/track/2DCkiI3Vevpiew4cmFfLkC) | [DEVAURA](https://open.spotify.com/artist/7MPlrCtiMvRiqSuww4uSiX), [B Wise](https://open.spotify.com/artist/0NgUGQAd79J00Nf7o2tgkg) | [EVERYTHING IS CORNY](https://open.spotify.com/album/5ZYpAbOaHuTytiIrI7RXff) | 2:28 |
 | 26 | [Same as before](https://open.spotify.com/track/64tuUEMv7BZktKqZ3U2hKl) | [MELODOWNZ](https://open.spotify.com/artist/0tkEKBrgdMZXjZylYRoN7H), [Coops](https://open.spotify.com/artist/0sXhBmVgBTDxkQb8CUbhhR) | [Same as before](https://open.spotify.com/album/03xyc29RWF0WJH028QUkwe) | 2:53 |
 | 27 | [No I.D](https://open.spotify.com/track/6vKLmkqpNKpljWG0hyJyOo) | [deadforest](https://open.spotify.com/artist/01BarUU13qIXPB0YlpVJgb), [Dera Meelan](https://open.spotify.com/artist/3R1Rrzk35Rhldipx3IiKpp), [AP](https://open.spotify.com/artist/1RlUsc2blY82KdHokhpxOm) | [No I.D](https://open.spotify.com/album/2d2w8Q4PJnju8cM90fLgXM) | 2:28 |

@@ -2,9 +2,9 @@
 
 ### [Éxitos Cristianos](https://open.spotify.com/playlist/37i9dQZF1DWUjxqgjSiQ9K)
 
-> Las canciones de fe que más se escuchan en Latinoamérica\. Foto: Redimi2
+> Las canciones de fe que más se escuchan en Latinoamérica\. Foto: Montesanto
 
-863 songs - 2 day 20 hr 4 min
+865 songs - 2 day 20 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -411,6 +411,7 @@
 | [Jehová Jireh](https://open.spotify.com/track/45KWondblrT7ERIR2q3wiO) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Jehová Jireh](https://open.spotify.com/album/52HfewNw5eXdITVHfj2bHK) | 5:36 | 2023-11-10 | 2024-11-02 |
 | [Jesucristo Basta](https://open.spotify.com/track/7vW4y4ZLJQIKO2vJTJveRI) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [Jesucristo Basta](https://open.spotify.com/album/24swZpD4qZSJV3ZDgvJUe9) | 4:55 | 2025-03-28 | 2025-05-31 |
 | [Jesucristo Basta](https://open.spotify.com/track/3RzpMRn4SAcVkOPgFIr7ai) | [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [X SIEMPRE](https://open.spotify.com/album/2PXwDxoypiirghBUPoECYW) | 5:49 | 2022-09-30 | 2023-05-13 |
+| [Jesus \- Live](https://open.spotify.com/track/6TdcOlJUVPhVMJWsDHcIN9) | [Montesanto](https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ) | [Nuestra Ofrenda \(Live\)](https://open.spotify.com/album/4NbRvTOFw4KkQCrihBid25) | 5:07 | 2025-11-21 |  |
 | [Jesús](https://open.spotify.com/track/7HyJbJs1px5phZcjY91Ab2) | [Sarai Rivera](https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk) | [Jesús](https://open.spotify.com/album/2ju1ImmhjMhOWUTPaQsf1N) | 4:13 | 2023-10-06 | 2024-07-27 |
 | [Jesús Mi Fiel Amigo \- Sesión Orgánica](https://open.spotify.com/track/2fEcicVGtyAg07iScRAmzO) | [Abel Zavala](https://open.spotify.com/artist/0UH4eoqwQgADwRoaKtEKc1) | [Jesús Mi Fiel Amigo \(Sesión Orgánica\)](https://open.spotify.com/album/6Q2bdTIWmtEFFHSRBKc6cc) | 4:56 | 2024-01-26 | 2025-06-14 |
 | [Juró Volver](https://open.spotify.com/track/2hL7494KgpHgdTIj4sv1Nq) | [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi) | [NOCHE](https://open.spotify.com/album/7MYY57Y7HMPHCED7ehEFZl) | 2:46 | 2025-03-21 | 2025-04-26 |
@@ -423,7 +424,7 @@
 | [La Carrera](https://open.spotify.com/track/76YNdppLgCPYW4maFMj2vS) | [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi) | [La Carrera](https://open.spotify.com/album/7bheszsfnIyU1O5d3HgW6b) | 2:31 | 2022-02-25 | 2022-04-02 |
 | [La Casa de Jehová](https://open.spotify.com/track/1EbS3mkymF6ZE1z2rIfADN) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm), [Barak](https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P) | [Épico](https://open.spotify.com/album/2PeyGQojy1kpAgeYySd3En) | 4:45 | 2025-11-14 |  |
 | [La Comisión](https://open.spotify.com/track/7wUeqM2L8430LqHlHTBEVl) | [TWICE](https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75) | [Sesión Orgánica, Vol\. 5](https://open.spotify.com/album/5AN1CGHaidl3nJehGEF7mt) | 3:24 | 2022-10-28 | 2023-03-25 |
-| [la espera](https://open.spotify.com/track/3lL7CzPSIs56R8rjd8I1EX) | [Living](https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9) | [la espera](https://open.spotify.com/album/7IlBHaoeokmqetRyf0qgWf) | 3:27 | 2025-10-17 |  |
+| [la espera](https://open.spotify.com/track/3lL7CzPSIs56R8rjd8I1EX) | [Living](https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9) | [la espera](https://open.spotify.com/album/7IlBHaoeokmqetRyf0qgWf) | 3:27 | 2025-10-17 | 2025-11-22 |
 | [La Gloria de Dios](https://open.spotify.com/track/0FdSlQwlCWyQkf3NmO5TIa) | [ECCOS](https://open.spotify.com/artist/6OnDxasjEMPIRrazHkH61l) | [La Gloria de Dios](https://open.spotify.com/album/45PuiNYqTXdVOZgrwnU5JA) | 5:10 | 2025-02-21 | 2025-04-26 |
 | [La Gloria de Dios](https://open.spotify.com/track/18Bz4yDxHvSsGlDS3k5G5O) | [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm), [ECCOS](https://open.spotify.com/artist/6OnDxasjEMPIRrazHkH61l) | [La Gloria de Dios](https://open.spotify.com/album/7fEQ3qOWz7GjQvZuKmvVaz) | 7:08 | 2025-04-25 | 2025-05-31 |
 | [La Media Vuelta](https://open.spotify.com/track/7r96T3LmNTt7ieA9ovEo2R) | [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Lead](https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd) | [La Media Vuelta](https://open.spotify.com/album/7I1JDxUD83LUK2KRrI76Km) | 3:17 | 2022-02-25 | 2022-04-02 |
@@ -576,7 +577,7 @@
 | [Nos Toca A Nosotros \- Live](https://open.spotify.com/track/3PX089zKluwtqcSla2gQtV) | [Harold Velazquez](https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq) | [Harold Velazquez \(Live\)](https://open.spotify.com/album/42AEvmFj2weFFE1Q1eMyJQ) | 3:59 | 2024-08-30 | 2024-10-12 |
 | [Novus](https://open.spotify.com/track/3UrfZcpiYUiuUZxvf2mkKc) | [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [NOVUS](https://open.spotify.com/album/26Dv1GG4Ar8Ag1TvfmpdiY) | 3:38 | 2024-11-01 | 2025-01-18 |
 | [Nubes](https://open.spotify.com/track/3lKlApf4R2kgiD9Lim9dMZ) | [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM), [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO) | [Nubes](https://open.spotify.com/album/3MSk7DD57l7CqyCIZl6hVQ) | 4:03 | 2022-10-14 | 2023-01-28 |
-| [Nuestro Dios \- Live](https://open.spotify.com/track/4ZJIdl12OvMLf0ojYQJ9JA) | [Montesanto](https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ) | [Nuestro Dios \(Live\)](https://open.spotify.com/album/3bkgSPUvYJTTwNDvFWrFog) | 6:40 | 2025-09-26 |  |
+| [Nuestro Dios \- Live](https://open.spotify.com/track/4ZJIdl12OvMLf0ojYQJ9JA) | [Montesanto](https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ) | [Nuestro Dios \(Live\)](https://open.spotify.com/album/3bkgSPUvYJTTwNDvFWrFog) | 6:40 | 2025-09-26 | 2025-11-22 |
 | [Nuestro Dios Es Fiel \- En Vivo](https://open.spotify.com/track/6OXPcHNL0Y4GHe8EImPOOf) | [Ke'Erron](https://open.spotify.com/artist/44tJHJzGo1h7XbBTepJwb0), [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [Nuestro Dios Es Fiel \(En Vivo\)](https://open.spotify.com/album/2aVa1BUvnd5DppqSEDCzR8) | 5:43 | 2025-06-20 | 2025-07-19 |
 | [Nueva Temporada](https://open.spotify.com/track/0xCF4lhRRnqgrm9Ey1FCDx) | [Emanuel Lara](https://open.spotify.com/artist/4h8AlGulCUpliPcRlj40Ap), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue) | [Esto es Otra Cosa](https://open.spotify.com/album/6lowaja53FwTaGjHnc3she) | 3:51 | 2025-02-28 | 2025-06-07 |
 | [Nunca Me Fallas \(feat\. Marcos Witt\)](https://open.spotify.com/track/5Y8ALB1dMCFTIdPJ7sWk0A) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Ser Humano](https://open.spotify.com/album/7GAFM73bQdOTQ9qOas9TNt) | 4:30 | 2022-02-25 | 2022-04-29 |
@@ -599,6 +600,7 @@
 | [Pensándolo Bien](https://open.spotify.com/track/5WZi763u9HTCx2IRAPUdLT) | [Susy Gonzalez](https://open.spotify.com/artist/5CTNrReVSQ2TyN3QC1M1VG) | [Pensándolo Bien](https://open.spotify.com/album/55h5VKAdrzaOz7jgWgQjEw) | 3:55 | 2022-06-10 | 2022-07-02 |
 | [Pentagrama](https://open.spotify.com/track/6z7vkgyKp7YJLHOLmwsdJ3) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [Pentagrama](https://open.spotify.com/album/21cWEEPB4lCj3LBRhYAGR7) | 3:17 | 2022-02-25 | 2022-04-02 |
 | [Perfecto Amor](https://open.spotify.com/track/0jBbeVhkryAwD2APDFLF7v) | [Tommy Royale](https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs), [CRYS](https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI) | [Ya Casi \(EP\)](https://open.spotify.com/album/5D37Ew73jCOQzlLdMznYrb) | 3:30 | 2024-09-20 | 2025-02-08 |
+| [PLEASE](https://open.spotify.com/track/5ZhB4LviWniu3h7uUvvm6A) | [Living](https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9), [Casa Sounds](https://open.spotify.com/artist/73DA0Ycj9YLfjTkUyYXMNv) | [AL100](https://open.spotify.com/album/2fhxJ9SOrZPLTOapXmumeU) | 2:34 | 2025-11-21 |  |
 | [Poco a Poco](https://open.spotify.com/track/1OMnykDpR1iqD7WycHrVWT) | [Gocho](https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5) | [Poco a Poco](https://open.spotify.com/album/7exSbIs48xc2PVLOKSBwrF) | 3:01 | 2024-10-18 | 2024-11-09 |
 | [Poderoso](https://open.spotify.com/track/7suLotu4fPldWgHbsvvmzz) | [Alex Linares](https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT), [Ander Bock](https://open.spotify.com/artist/3ARwD7QJqYlDmcFeB6oPQM) | [Poderoso](https://open.spotify.com/album/7w9SYfdjGZLL8xM5J944OU) | 3:28 | 2023-01-06 | 2023-03-04 |
 | [Poderoso](https://open.spotify.com/track/7mbXVrDlYKFT1ZqDTqs0fY) | [FLEIVA MUSIC](https://open.spotify.com/artist/3465xbnVAWcS12btMU20Iq), [Onell Diaz](https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2) | [Poderoso](https://open.spotify.com/album/2xGq9hs28blZzpb1sHZTHL) | 2:34 | 2024-08-02 | 2025-04-12 |

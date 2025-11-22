@@ -4,7 +4,7 @@
 
 > De grootste hits uit de kroeg in één playlist.
 
-132 songs - 6 hr 24 min
+134 songs - 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Als Ik Aan De Laatste Zit](https://open.spotify.com/track/6K18CnzVJB2GImrUaYhFhp) | [Justen de Wildt](https://open.spotify.com/artist/3z2daXDBOR0uFDF3TB788X) | [Als Ik Aan De Laatste Zit](https://open.spotify.com/album/3oKjGiy4uBk4NGraTDv24P) | 2:41 | 2025-11-13 |  |
 | [Altijd Vrijgezel](https://open.spotify.com/track/3AbyKaiTknW5Db0wpens5Y) | [Gerard Joling](https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG) | [Altijd Vrijgezel](https://open.spotify.com/album/4OgdH30iQ4Bh2mBNNgiyFM) | 3:14 | 2025-07-14 |  |
 | [Amalia](https://open.spotify.com/track/3c28vYkrzU9nVqvJfbaSiu) | [Wesly Bronkhorst](https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp) | [Amalia](https://open.spotify.com/album/4REygfzKS795uvkhTfh0O8) | 2:37 | 2025-07-14 |  |
+| [Atje Voor De Sfeer](https://open.spotify.com/track/2dTS7TKUmvGNRQoq0mzlZC) | [Rene Karst](https://open.spotify.com/artist/3upXQVqKZlTKRES3LQ9VjO) | [Atje Voor De Sfeer \- En Andere Sfeermakers](https://open.spotify.com/album/2DY0nKAYHOsQZrg6LlylHo) | 3:18 | 2025-11-21 |  |
 | [Baila de Gasolina](https://open.spotify.com/track/43TPlT0l0HXLtKUOUoY3gY) | [Effe Serieus](https://open.spotify.com/artist/3NRhf1UyPB4XwxBq1eQE93) | [Baila de Gasolina](https://open.spotify.com/album/2ojXXfh1QKhimrvz4wt97G) | 2:20 | 2025-07-14 |  |
 | [Bailando](https://open.spotify.com/track/1pegjs65Iwuk2IrGGieOYx) | [Jeffrey Heesen](https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp) | [Bailando](https://open.spotify.com/album/6vVNkqg0uf9HTt966hqReK) | 2:43 | 2025-07-14 |  |
 | [Ben Je Verliefd?](https://open.spotify.com/track/0cvs1LuaTEAHmyayUg06Fy) | [Jari Hellegers](https://open.spotify.com/artist/2jPuZfXN0BcFiNowWQk4au), [Monique Smit](https://open.spotify.com/artist/5z4lUxGyk6fWkbqoITgJTv) | [Ben Je Verliefd?](https://open.spotify.com/album/52bg2ZQ67d6TXMVg6Tg2uh) | 2:40 | 2025-11-13 |  |
@@ -84,6 +85,7 @@
 | [Lang Leve De Lol](https://open.spotify.com/track/1Do8jxwE6zBMHinAEjvfjQ) | [Justen de Wildt](https://open.spotify.com/artist/3z2daXDBOR0uFDF3TB788X) | [Lang Leve De Lol](https://open.spotify.com/album/5Eu5qhWAnfklaFaVG2P9QY) | 3:11 | 2025-07-14 | 2025-11-14 |
 | [Lekkerding](https://open.spotify.com/track/5sTqteIZDJJtx04xHBTbBD) | [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy), [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE) | [Jouw Glimlach Op Je Mond](https://open.spotify.com/album/19DQ4S9J7ga2NczygNpl58) | 3:43 | 2025-07-14 | 2025-11-01 |
 | [Liefde In De Nacht](https://open.spotify.com/track/29Oq2JIEG7Ma3mH82ELwes) | [Gerard Joling](https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW), [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj) | [Liefde In De Nacht](https://open.spotify.com/album/2TViVZDnRWKWvjYq8atIt6) | 2:35 | 2025-10-31 |  |
+| [Liever Te Dik In De Kist](https://open.spotify.com/track/2rKFSvEBn6lPmkrCKeXUQq) | [Rene Karst](https://open.spotify.com/artist/3upXQVqKZlTKRES3LQ9VjO), [Stef Ekkel](https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm) | [Atje Voor De Sfeer \- En Andere Sfeermakers](https://open.spotify.com/album/6PujTxjH2gjAtGXiKZMW82) | 3:55 | 2025-11-21 |  |
 | [Lilluke Linda](https://open.spotify.com/track/7v0sXJDueMuTg86sP80sG4) | [Jan Biggel](https://open.spotify.com/artist/0fJJXAAxGeDwdS7HCUVkbs) | [Lilluke Linda](https://open.spotify.com/album/47hpKPXzuYPspG1Al4v6xi) | 2:46 | 2025-07-14 | 2025-09-05 |
 | [Losse Pols](https://open.spotify.com/track/3dWSdaGd1XkB3J6xxsr8Zu) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ), [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR) | [Losse Pols](https://open.spotify.com/album/20qZLdxkV8zZciN7zv4QZa) | 2:38 | 2025-07-14 |  |
 | [M'n Favoriet](https://open.spotify.com/track/7bGbWjCRBpbzJrqoDo5y1b) | [RAYMON HERMANS](https://open.spotify.com/artist/74nbJZq9ryws0hx2U2CE8G) | [M'n Favoriet](https://open.spotify.com/album/5yrMBJuyJ4LO0RLqt3QctX) | 3:17 | 2025-07-14 |  |

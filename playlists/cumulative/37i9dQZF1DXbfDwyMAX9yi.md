@@ -4,7 +4,7 @@
 
 > Our favorite subject? Their chemistry\. Listen to the music from Seasons 1 & 2 of Maxton Hall: The World Between Us, now streaming on Prime Video.
 
-70 songs - 3 hr 13 min
+74 songs - 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,9 +13,12 @@
 | [Acoustic](https://open.spotify.com/track/7kr3xZk4yb3YSZ4VFtg2Qt) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [1975](https://open.spotify.com/album/0rhChR1mcH1LVUCTm1JtHZ) | 2:52 | 2024-06-06 |  |
 | [All I Need](https://open.spotify.com/track/3aMyQSDW0DJ7LTOkrd29hU) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [All I Need](https://open.spotify.com/album/4ZXK260CRmgXgQ5tCs1hmk) | 3:36 | 2024-06-06 |  |
 | [All I've Ever Known](https://open.spotify.com/track/4yHpB95Okkiz4OLBqa1cKN) | [RHODES](https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS) | [\(un\-finished\)](https://open.spotify.com/album/17jBfDZXFawVfn9kuAEeQU) | 3:59 | 2025-11-07 |  |
+| [An Embrace In Fear \- From "Maxton Hall"](https://open.spotify.com/track/473HXUbatUqR9yJjghRFBf) | [songs in cinema](https://open.spotify.com/artist/23BjnFsuLGv1a5TNFqmSP6) | [Maxton Hall: The World Between Us \(Season 2\) \(Prime Video Original Series Soundtrack\)](https://open.spotify.com/album/3eUhERPCrMicJgO3oAQfil) | 0:53 | 2025-11-21 |  |
 | [An Invitation To London \- From "Maxton Hall"](https://open.spotify.com/track/2qTrCYxKAtDtPXjNAPwZKa) | [songs in cinema](https://open.spotify.com/artist/23BjnFsuLGv1a5TNFqmSP6) | [Maxton Hall: The World Between Us \(Season 2\) \(Prime Video Original Series Soundtrack\)](https://open.spotify.com/album/3eUhERPCrMicJgO3oAQfil) | 1:13 | 2025-11-14 |  |
 | [An Unexpected Visit \- From "Maxton Hall"](https://open.spotify.com/track/1WzrLTc1wCfUMcWOlowyVY) | [songs in cinema](https://open.spotify.com/artist/23BjnFsuLGv1a5TNFqmSP6) | [Maxton Hall: The World Between Us \(Season 2\) \(Prime Video Original Series Soundtrack\)](https://open.spotify.com/album/3eUhERPCrMicJgO3oAQfil) | 1:21 | 2025-11-14 |  |
 | [Be the Bird](https://open.spotify.com/track/3GhuRKeD84RTnObrHnebq3) | [RHODES](https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS) | [\(un\-finished\)](https://open.spotify.com/album/17jBfDZXFawVfn9kuAEeQU) | 4:18 | 2025-11-07 |  |
+| [Be Your Love](https://open.spotify.com/track/1Taq7PrHRF7dLCcHTRh2aj) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Be Your Love](https://open.spotify.com/album/0IdLqHPv9Ac4YdEGyMD4YZ) | 3:14 | 2025-11-21 |  |
+| [BLUE](https://open.spotify.com/track/2prqm9sPLj10B4Wg0wE5x9) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:43 | 2025-11-21 |  |
 | [Brave](https://open.spotify.com/track/4wt36rVlPalOn7JxrkNp6J) | [Riley Pearce](https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg) | [Outside the Lines](https://open.spotify.com/album/7aEnxBfMJA7qgqlKg6RyYZ) | 4:07 | 2024-06-06 |  |
 | [Carry No Thing](https://open.spotify.com/track/6mzVg4nrmN7WCR0duIlO64) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Nobody Lives Here](https://open.spotify.com/album/779IZOhupymkjX6dzygMl9) | 3:23 | 2025-11-07 |  |
 | [Charming Rivalry \- from "Maxton Hall"](https://open.spotify.com/track/0LH5IZjJrQdHlK1622IcR2) | [songs in cinema](https://open.spotify.com/artist/23BjnFsuLGv1a5TNFqmSP6) | [Maxton Hall: The World Between Us \(Season 1\) \(Amazon Original Series Soundtrack\)](https://open.spotify.com/album/3AjUBcGTv6uYjAH0VUPRQt) | 1:02 | 2024-06-06 |  |
@@ -64,6 +67,7 @@
 | [SHE SAID HE SAID SHE SAID](https://open.spotify.com/track/61SwOvGpjoANrBOVgBZvMi) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [SHE SAID HE SAID SHE SAID](https://open.spotify.com/album/0A1JBqEiwmsyxnCqgH4axf) | 2:37 | 2025-11-07 |  |
 | [Something's Off \- from "Maxton Hall"](https://open.spotify.com/track/2InEuGzKI41WCTMS4vnXUy) | [songs in cinema](https://open.spotify.com/artist/23BjnFsuLGv1a5TNFqmSP6) | [Maxton Hall: The World Between Us \(Season 1\) \(Amazon Original Series Soundtrack\)](https://open.spotify.com/album/3AjUBcGTv6uYjAH0VUPRQt) | 1:46 | 2024-06-06 |  |
 | [Song 2](https://open.spotify.com/track/3GfOAdcoc3X5GPiiXmpBjK) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur: The Best Of](https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x) | 2:01 | 2024-06-06 |  |
+| [Stargazing](https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stargazing](https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj) | 2:52 | 2025-11-21 |  |
 | [The Flagship Store \- from "Maxton Hall"](https://open.spotify.com/track/1MDaRpDNYFgWEHlDQCmmJ8) | [songs in cinema](https://open.spotify.com/artist/23BjnFsuLGv1a5TNFqmSP6) | [Maxton Hall: The World Between Us \(Season 1\) \(Amazon Original Series Soundtrack\)](https://open.spotify.com/album/3AjUBcGTv6uYjAH0VUPRQt) | 2:07 | 2024-06-06 |  |
 | [The Funeral \- From "Maxton Hall"](https://open.spotify.com/track/4eGFrhyBJsoll7fCq0kBcw) | [songs in cinema](https://open.spotify.com/artist/23BjnFsuLGv1a5TNFqmSP6) | [Maxton Hall: The World Between Us \(Season 2\) \(Prime Video Original Series Soundtrack\)](https://open.spotify.com/album/3eUhERPCrMicJgO3oAQfil) | 4:31 | 2025-11-07 |  |
 | [The Love I Give](https://open.spotify.com/track/2jzUjAfUTJ8zDRxDFdWRmd) | [RHODES](https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS) | [Friends Like These](https://open.spotify.com/album/7HVdC7LJTlthJD4BLgA5wj) | 3:43 | 2024-06-06 |  |

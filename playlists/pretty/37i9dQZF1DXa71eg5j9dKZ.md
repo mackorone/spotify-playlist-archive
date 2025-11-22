@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Overmono
 
-[Spotify](https://open.spotify.com/user/spotify) - 542,639 likes - 100 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 542,655 likes - 100 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 12 | [Worth It](https://open.spotify.com/track/7FEzKQw1rU8ZA5nsqjJ9H8) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Worth It](https://open.spotify.com/album/4WqUWYxOvMXphSYewpsajK) | 4:31 |
 | 13 | [HARDSTYLE 2](https://open.spotify.com/track/25E8dNd1xwaMRINstUPy1r) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Shady Nasty](https://open.spotify.com/artist/5fEdUhbIAf9JlPhlc3swPx) | [HARDSTYLE 2](https://open.spotify.com/album/4K3sHV7n2hdD8JtkMHCd9U) | 4:46 |
 | 14 | [BAWDY is A LOT \[Nick León + Six Sex\]](https://open.spotify.com/track/4JQS1i3wUsHCTt96ACyM2U) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Nick León](https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2), [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr) | [BAWDY is A LOT \[Nick León + Six Sex\]](https://open.spotify.com/album/2Pmqwcl5cgkAdauwuraugc) | 4:02 |
-| 15 | [LOSE YOUR HEAD](https://open.spotify.com/track/3iWarmifsPD56ys6TBuN9N) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [](https://open.spotify.com/album/null) | 3:15 |
+| 15 | [LOSE YOUR HEAD](https://open.spotify.com/track/3iWarmifsPD56ys6TBuN9N) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [KELLY](https://open.spotify.com/album/0CA6dEScbqTQd2k2pNyLSp) | 3:15 |
 | 16 | [DÁMELO](https://open.spotify.com/track/5twr7RrWkHrgBbvHmWaHfk) | [ANNABEL STOP IT](https://open.spotify.com/artist/2ZXG5sI9hPqon1Kgb5tw3O) | [DÁMELO](https://open.spotify.com/album/0VguaIWs5mM9nvFEELtQ9m) | 2:01 |
 | 17 | [Voices](https://open.spotify.com/track/34MI5P1Rh1VTlQjHbvg0j6) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [HUMANiSE](https://open.spotify.com/album/0iIR2PTnqaYmsfIadlObCe) | 5:38 |
 | 18 | [UNCONDITIONAL](https://open.spotify.com/track/36cpvfoFRtt54qelBQ0Qkl) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [nate sib](https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv) | [UNCONDITIONAL](https://open.spotify.com/album/0aOuVsBkVR8F2l9loZb07R) | 3:01 |

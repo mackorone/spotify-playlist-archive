@@ -7131,6 +7131,24 @@
     },
     {
       "album": {
+        "name": "\u68ee\u6797",
+        "url": "https://open.spotify.com/album/4StIG5rC961YgFI5P1raP7"
+      },
+      "artists": [
+        {
+          "name": "Elvin Chang",
+          "url": "https://open.spotify.com/artist/6v7It0exKaYq9YEw95REHM"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252289,
+      "name": "\u68ee\u6797",
+      "url": "https://open.spotify.com/track/6zOI5qqddfTClO7I7YdxLW"
+    },
+    {
+      "album": {
         "name": "\u6a13",
         "url": "https://open.spotify.com/album/5MbOHFsk3fOTYJ2Z4zCa3T"
       },

@@ -1,12 +1,12 @@
 {
   "description": "The best new dance music by independent artists and labels, featuring X & Ivy. Artwork by Rewina Beshue.",
-  "num_followers": 208685,
+  "num_followers": 208695,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKZ2eJ7fuuShlRCCJ9xPB3Q2Gd1Q",
+  "snapshot_id": "AAAAACxqKKjT+7VA2OfiNTooW8Q9e38J",
   "tracks": [
     {
       "added_at": "2025-11-14 05:00:38",
@@ -41,6 +41,38 @@
       "url": "https://open.spotify.com/track/6RREMDJ6ru3YpvboN4Le3q"
     },
     {
+      "added_at": "2025-11-21 05:00:41",
+      "album": {
+        "name": "Hey Maria",
+        "url": "https://open.spotify.com/album/1oqsw3r02JS93gE162b6gH"
+      },
+      "artists": [
+        {
+          "name": "Malix",
+          "url": "https://open.spotify.com/artist/4qlZWwvpGlUWkRE2Yvot4c"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Hey Maria",
+      "url": "https://open.spotify.com/track/7ng0n3GkYq5hojwGgpy7oH"
+    },
+    {
+      "added_at": "2025-11-21 05:00:41",
+      "album": {
+        "name": "Make Me Say",
+        "url": "https://open.spotify.com/album/01FJNNODSrtZRKDVuIjtrS"
+      },
+      "artists": [
+        {
+          "name": "JOHN CARL",
+          "url": "https://open.spotify.com/artist/78qVjPcSZNJJ5tS7WgJqq8"
+        }
+      ],
+      "duration_ms": 205312,
+      "name": "Make Me Say",
+      "url": "https://open.spotify.com/track/1r3orgCEbIlHphGhZAHRl3"
+    },
+    {
       "added_at": "2025-11-19 05:00:31",
       "album": {
         "name": "All 4 U",
@@ -63,6 +95,26 @@
       "duration_ms": 145250,
       "name": "All 4 U",
       "url": "https://open.spotify.com/track/4c3Kn05dr9nyNLOJHPmojA"
+    },
+    {
+      "added_at": "2025-11-21 05:00:41",
+      "album": {
+        "name": "Shut Up!",
+        "url": "https://open.spotify.com/album/1gkPHhgc9K5E0VZ2KaVNgG"
+      },
+      "artists": [
+        {
+          "name": "AUGIS",
+          "url": "https://open.spotify.com/artist/2UlsuMqDGywuSw0FT1rfbb"
+        },
+        {
+          "name": "BIG WETT",
+          "url": "https://open.spotify.com/artist/5EbB3qseTBegpJEACqHfHB"
+        }
+      ],
+      "duration_ms": 197423,
+      "name": "Shut Up!",
+      "url": "https://open.spotify.com/track/4NmXB7JYOrTJqYTh3UQJFK"
     },
     {
       "added_at": "2025-11-14 05:00:38",
@@ -97,6 +149,22 @@
       "url": "https://open.spotify.com/track/0t25f062zkLA8E1tvQ5T5b"
     },
     {
+      "added_at": "2025-11-21 05:00:41",
+      "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/5GNfnAOrHvZLmEudTPewHv"
+      },
+      "artists": [
+        {
+          "name": "Atura",
+          "url": "https://open.spotify.com/artist/5nn0cIrXfm1pZ7jKFFexei"
+        }
+      ],
+      "duration_ms": 198613,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/3BvNkAEJ1pZ7r1LMMuDH4t"
+    },
+    {
       "added_at": "2025-10-08 04:00:15",
       "album": {
         "name": "Orbita",
@@ -129,6 +197,26 @@
       "url": "https://open.spotify.com/track/5GyfokBHIPH8vs9erTmMQL"
     },
     {
+      "added_at": "2025-11-21 05:00:41",
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/3AjME0Wb7tO1ekZNzD8HDf"
+      },
+      "artists": [
+        {
+          "name": "Arundel",
+          "url": "https://open.spotify.com/artist/6iaTOGtvJed2OVFYAl9YEA"
+        },
+        {
+          "name": "Pyrate",
+          "url": "https://open.spotify.com/artist/7BIp16JztBSnvYceUedF0o"
+        }
+      ],
+      "duration_ms": 197681,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/5H8RtruU3x0EWk2Sh6e4ps"
+    },
+    {
       "added_at": "2025-11-12 20:51:22",
       "album": {
         "name": "DECEIVER",
@@ -143,6 +231,22 @@
       "duration_ms": 295384,
       "name": "DECEIVER",
       "url": "https://open.spotify.com/track/6TG0jFBiEnDlJMb4wbkYD5"
+    },
+    {
+      "added_at": "2025-11-21 05:00:41",
+      "album": {
+        "name": "WEAPONS OF MASS SEDUCTION",
+        "url": "https://open.spotify.com/album/3tF7XrYdljWHUCZKlA2QfF"
+      },
+      "artists": [
+        {
+          "name": "CLAIRE DE LUNE",
+          "url": "https://open.spotify.com/artist/24RsNzvqEuSNBtkCdMhAQG"
+        }
+      ],
+      "duration_ms": 212903,
+      "name": "WEAPONS OF MASS SEDUCTION",
+      "url": "https://open.spotify.com/track/7l8IvKct6tQ534b2tGdJjt"
     },
     {
       "added_at": "2025-11-14 05:00:38",
@@ -213,6 +317,22 @@
       "url": "https://open.spotify.com/track/0FDGvjQns8s2x3S3RCPq7g"
     },
     {
+      "added_at": "2025-11-21 05:00:41",
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/0dNZH5PiY64SkyA8Gb4sJ2"
+      },
+      "artists": [
+        {
+          "name": "Florian Hope",
+          "url": "https://open.spotify.com/artist/4ugVS3CJ6GIxUX24WXXrcN"
+        }
+      ],
+      "duration_ms": 147570,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/4B2fo4zd8Zr39fTRIv7XWA"
+    },
+    {
       "added_at": "2025-11-19 05:00:31",
       "album": {
         "name": "Dream",
@@ -243,6 +363,22 @@
       "duration_ms": 178324,
       "name": "What U Need",
       "url": "https://open.spotify.com/track/4PxnAR2MWPN1YUWFf67M0o"
+    },
+    {
+      "added_at": "2025-11-21 05:00:41",
+      "album": {
+        "name": "Make Me Feel",
+        "url": "https://open.spotify.com/album/2rLeUHpwWMWgqh8tlTPjB0"
+      },
+      "artists": [
+        {
+          "name": "Bryson Hill",
+          "url": "https://open.spotify.com/artist/37R4dOpFZqJ22zb82V7soA"
+        }
+      ],
+      "duration_ms": 205781,
+      "name": "Make Me Feel",
+      "url": "https://open.spotify.com/track/7yNIHEX3xbHutNTxnVkavL"
     },
     {
       "added_at": "2025-11-19 05:00:31",
@@ -291,6 +427,22 @@
       "duration_ms": 203500,
       "name": "Only 1",
       "url": "https://open.spotify.com/track/4wqVuhtcihd46DVoCeQLuT"
+    },
+    {
+      "added_at": "2025-11-21 05:00:41",
+      "album": {
+        "name": "Angel Club",
+        "url": "https://open.spotify.com/album/28Kd6XwoBBFtMop58Hz2Gz"
+      },
+      "artists": [
+        {
+          "name": "canary yellow",
+          "url": "https://open.spotify.com/artist/6dGWL8hxc3I833xMD6ycBv"
+        }
+      ],
+      "duration_ms": 242987,
+      "name": "Angel Club",
+      "url": "https://open.spotify.com/track/59CEnRDA4lusrQogugtlJ5"
     },
     {
       "added_at": "2025-11-14 05:00:38",
@@ -379,6 +531,22 @@
       "duration_ms": 228166,
       "name": "All That You've Dreamed Of - Short Mix",
       "url": "https://open.spotify.com/track/7kofsCPKRxbXmrccTq5GKS"
+    },
+    {
+      "added_at": "2025-11-21 05:00:41",
+      "album": {
+        "name": "Revelation",
+        "url": "https://open.spotify.com/album/48NLIVF696oOe5qfs1AXdx"
+      },
+      "artists": [
+        {
+          "name": "Arielle",
+          "url": "https://open.spotify.com/artist/6KltnIwOSDC583jsI2wxgE"
+        }
+      ],
+      "duration_ms": 350526,
+      "name": "Revelation",
+      "url": "https://open.spotify.com/track/1jFzo9qOLuxQYHN9M42zTi"
     },
     {
       "added_at": "2025-11-07 05:00:50",
@@ -965,26 +1133,6 @@
       "url": "https://open.spotify.com/track/420DvBd6Vbis3MDer9LNYF"
     },
     {
-      "added_at": "2025-10-22 15:55:39",
-      "album": {
-        "name": "U Can Move",
-        "url": "https://open.spotify.com/album/6C7DdvoaLaiSaXPOBuYg7a"
-      },
-      "artists": [
-        {
-          "name": "Reek0",
-          "url": "https://open.spotify.com/artist/28gviylYNuXOlKWXYQ87uD"
-        },
-        {
-          "name": "Elj\u00e9",
-          "url": "https://open.spotify.com/artist/0xCxVPeq1nmkqrYIEcNodO"
-        }
-      ],
-      "duration_ms": 206769,
-      "name": "U Can Move",
-      "url": "https://open.spotify.com/track/6cP9tzF6Jq5skKZ9W2OFpQ"
-    },
-    {
       "added_at": "2025-11-03 23:47:36",
       "album": {
         "name": "Good Boy",
@@ -1349,34 +1497,6 @@
       "url": "https://open.spotify.com/track/5HCOROrwg6GYBhDG4BcKpO"
     },
     {
-      "added_at": "2025-10-08 04:00:15",
-      "album": {
-        "name": "HOUSEDOEP",
-        "url": "https://open.spotify.com/album/2pv5tTv8AzKKL4FKstkeE7"
-      },
-      "artists": [
-        {
-          "name": "Simas",
-          "url": "https://open.spotify.com/artist/6oSvQR9kDo5qO1BNGQ4PeS"
-        },
-        {
-          "name": "ZoioCaio",
-          "url": "https://open.spotify.com/artist/0KG8fmYtkAo5eIfrteO066"
-        },
-        {
-          "name": "Coni07",
-          "url": "https://open.spotify.com/artist/4IpJx49LIfccInesIGn19s"
-        },
-        {
-          "name": "Jub",
-          "url": "https://open.spotify.com/artist/7Fsrzvp6wVxQQ5yCUuFFJT"
-        }
-      ],
-      "duration_ms": 197862,
-      "name": "HOUSEDOEP",
-      "url": "https://open.spotify.com/track/6KaJpDKjeKdsmTi0Ou9p4T"
-    },
-    {
       "added_at": "2025-09-12 04:00:15",
       "album": {
         "name": "GIRL I WANT YOU",
@@ -1391,22 +1511,6 @@
       "duration_ms": 211653,
       "name": "GIRL I WANT YOU",
       "url": "https://open.spotify.com/track/5ocaIFjQEcuZni3guyHoHl"
-    },
-    {
-      "added_at": "2025-10-08 04:00:15",
-      "album": {
-        "name": "The Law",
-        "url": "https://open.spotify.com/album/2lx8gSRGKwsjS5KqOotZDy"
-      },
-      "artists": [
-        {
-          "name": "Di After",
-          "url": "https://open.spotify.com/artist/1HoIis0nxJ6mEsw2u3sCLL"
-        }
-      ],
-      "duration_ms": 363132,
-      "name": "The Law",
-      "url": "https://open.spotify.com/track/5VhwhoqktR59IBmUugU29U"
     },
     {
       "added_at": "2025-09-19 15:46:18",
@@ -1449,26 +1553,6 @@
       "url": "https://open.spotify.com/track/1rz1A27Zkto9ko6IoFBHLl"
     },
     {
-      "added_at": "2025-10-08 04:00:15",
-      "album": {
-        "name": "think of u",
-        "url": "https://open.spotify.com/album/7pW8TU3ndfj72rejZDjbpB"
-      },
-      "artists": [
-        {
-          "name": "Cucina Sonora",
-          "url": "https://open.spotify.com/artist/0t4vNX1iyHzmASWTnsYzES"
-        },
-        {
-          "name": "Pentola",
-          "url": "https://open.spotify.com/artist/3K4rEZFW6Y93pEXaOtlSJM"
-        }
-      ],
-      "duration_ms": 238309,
-      "name": "think of u",
-      "url": "https://open.spotify.com/track/17OMPDF9H2XINaE0VCOgRv"
-    },
-    {
       "added_at": "2025-09-19 15:46:18",
       "album": {
         "name": "In It",
@@ -1483,42 +1567,6 @@
       "duration_ms": 190952,
       "name": "In It",
       "url": "https://open.spotify.com/track/6doi1FwFmq4eroLXAM4TyO"
-    },
-    {
-      "added_at": "2025-09-26 04:00:22",
-      "album": {
-        "name": "hello norman",
-        "url": "https://open.spotify.com/album/2jzWpAKCC0ResBzNRkdkvp"
-      },
-      "artists": [
-        {
-          "name": "jamvvis",
-          "url": "https://open.spotify.com/artist/52FnK9izQFuAZi3qURGbqF"
-        },
-        {
-          "name": "Age",
-          "url": "https://open.spotify.com/artist/6Vqq4Ip81Jbc5mVDWFMIZ8"
-        }
-      ],
-      "duration_ms": 205737,
-      "name": "hello norman",
-      "url": "https://open.spotify.com/track/5pjO1Exg0Mqh97WbU4AuFU"
-    },
-    {
-      "added_at": "2025-09-26 04:00:22",
-      "album": {
-        "name": "Foghorn Dance EP",
-        "url": "https://open.spotify.com/album/3g1mOQ1vSHjudyy9HKmwof"
-      },
-      "artists": [
-        {
-          "name": "Neumonic",
-          "url": "https://open.spotify.com/artist/2vmS0sFSxIZccEf510Xb52"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Foghorn Dance",
-      "url": "https://open.spotify.com/track/5BOAsW3gREQNn9KQFLxziL"
     },
     {
       "added_at": "2025-09-19 15:46:18",
@@ -1567,26 +1615,6 @@
       "duration_ms": 188689,
       "name": "ONLYFORYOU.",
       "url": "https://open.spotify.com/track/1kRN7taOaUs5iCEux1ISHp"
-    },
-    {
-      "added_at": "2025-08-15 04:00:20",
-      "album": {
-        "name": "BRIGHT",
-        "url": "https://open.spotify.com/album/5lFtP8xrqkckHAy92k7b2P"
-      },
-      "artists": [
-        {
-          "name": "Atura",
-          "url": "https://open.spotify.com/artist/5nn0cIrXfm1pZ7jKFFexei"
-        },
-        {
-          "name": "Simona Shao",
-          "url": "https://open.spotify.com/artist/4iF8VQ9Avxe5RM3A4ddlvF"
-        }
-      ],
-      "duration_ms": 229859,
-      "name": "BRIGHT",
-      "url": "https://open.spotify.com/track/2OS5TP13pmupiTtVzOgsD0"
     },
     {
       "added_at": "2025-09-05 04:00:22",
@@ -1667,54 +1695,6 @@
       "duration_ms": 139701,
       "name": "PUSHINN",
       "url": "https://open.spotify.com/track/3afe2BTqwgrwrLoOatjxFi"
-    },
-    {
-      "added_at": "2025-08-13 04:00:29",
-      "album": {
-        "name": "Yala",
-        "url": "https://open.spotify.com/album/64y98zrDVtesWibDJAndXD"
-      },
-      "artists": [
-        {
-          "name": "Narasimha",
-          "url": "https://open.spotify.com/artist/2wzbr5OelMdawn7HrZRefV"
-        }
-      ],
-      "duration_ms": 265677,
-      "name": "Yala",
-      "url": "https://open.spotify.com/track/0xwHhaA6gHv3MPpqkSrebK"
-    },
-    {
-      "added_at": "2025-08-15 12:59:30",
-      "album": {
-        "name": "It Feels Like",
-        "url": "https://open.spotify.com/album/14aXbZsvboHzeuDcRJwMjp"
-      },
-      "artists": [
-        {
-          "name": "From Dave",
-          "url": "https://open.spotify.com/artist/0mZidOoBt44GjnhNMUr9F6"
-        }
-      ],
-      "duration_ms": 176922,
-      "name": "It Feels Like",
-      "url": "https://open.spotify.com/track/6F2sn9kcsw8z8mgmJrVOyK"
-    },
-    {
-      "added_at": "2025-07-30 18:26:30",
-      "album": {
-        "name": "Baddiez",
-        "url": "https://open.spotify.com/album/1YIpdqjHZCX4MVZGH9AXdu"
-      },
-      "artists": [
-        {
-          "name": "Swank Mami",
-          "url": "https://open.spotify.com/artist/70k5dAiZtWY7JVknCMSaqr"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "Baddiez",
-      "url": "https://open.spotify.com/track/7N1WN9SQPgIKsFcQN50I6k"
     }
   ],
   "unique_name": "Fresh Finds Dance",

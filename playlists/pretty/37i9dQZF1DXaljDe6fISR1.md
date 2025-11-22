@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaljDe6fISR1.md) - [plain]
 
 > Ouça grandes MCs do hip hop nacional\. Foto: Da Guedes
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,060 likes - 75 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,109 likes - 75 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaljDe6fISR1.md) - [plain]
 | 59 | [Profissão Perigo](https://open.spotify.com/track/1qkhZy3Yth5l3BK0dUrkkg) | [Rodrigo Ogi](https://open.spotify.com/artist/74DmeplOsb1zShj5BqqkbQ) | [Crônicas da Cidade Cinza](https://open.spotify.com/album/0SbhMQIjN1BXxDHeTixcRe) | 2:48 |
 | 60 | [Raplord](https://open.spotify.com/track/3YSagrvQP9x32rAjEI48PL) | [Haikaiss](https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b), [Jonas Bento](https://open.spotify.com/artist/48Oxa6B9euthfl9VTQsArN) | [Teto Baixo](https://open.spotify.com/album/2sYBOWYCJlcYoFpbpXnr5Q) | 4:23 |
 | 61 | [Enxugando Gelo](https://open.spotify.com/track/6ZG8oZnnsfc8CCOmSjimoG) | [BNegão & Seletores de Frequencia](https://open.spotify.com/artist/1cpyFBSbDQgC05pKUhzNyt) | [Enxugando Gelo](https://open.spotify.com/album/18BvZYGljOGmWEZonuGLvI) | 3:11 |
-| 62 | [O Soldado Que Fica](https://open.spotify.com/track/0pn6i2lgX9snct72QlcUuB) | [MV Bill](https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ), [Kmila Cdd](https://open.spotify.com/artist/5pTtdzoyljdOQnTLVULZvv), [Maira Freitas](https://open.spotify.com/artist/4de0UvPPD98qUiXstPUGzF) | [Essencial](https://open.spotify.com/album/1uNvA7eJynl56pneh1xryl) | 6:02 |
+| 62 | [O Soldado Que Fica](https://open.spotify.com/track/0pn6i2lgX9snct72QlcUuB) | [MV Bill](https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ), [Kmila Cdd](https://open.spotify.com/artist/5pTtdzoyljdOQnTLVULZvv), [Maira Freitas](https://open.spotify.com/artist/4de0UvPPD98qUiXstPUGzF) | [Essencial](https://open.spotify.com/album/1uNvA7eJynl56pneh1xryl) | 6:03 |
 | 63 | [Beira de Piscina \(Remix\)](https://open.spotify.com/track/3Vek6VBsc7NcLQeMTqdUQc) | [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu), [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [Caro Vapor / Vida e Veneno de Don L](https://open.spotify.com/album/7bqvleTPBX8DqrGfNmEUPX) | 3:49 |
 | 64 | [Se Escute](https://open.spotify.com/track/6dRhcpld5vzJ21gMAY7aZg) | [Síntese](https://open.spotify.com/artist/44A7vIMeuMh3AhjFTkj8B5) | [Sem Cortesia \(Vagando na Babilônia / Em Busca de Canaã\)](https://open.spotify.com/album/3Qme8XNg5l1q3sbvXueqsK) | 2:45 |
 | 65 | [Bilhete 2.0](https://open.spotify.com/track/23DMhYv6WjRmIRck1Uwjev) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Crise](https://open.spotify.com/album/5gtoxo8VoETM0EhENX6k91) | 3:43 |

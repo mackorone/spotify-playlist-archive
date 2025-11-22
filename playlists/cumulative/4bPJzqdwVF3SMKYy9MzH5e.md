@@ -4,7 +4,7 @@
 
 > 
 
-2,287 songs - 5 day 2 hr 56 min
+2,288 songs - 5 day 2 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -831,6 +831,7 @@
 | [Graduation](https://open.spotify.com/track/2oNLDoWxa2UniEXpF69oUJ) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [Bonito Generation](https://open.spotify.com/album/0dAMC0nNikIjhD8LeRZfhH) | 3:19 | 2022-06-10 |  |
 | [Graveyard](https://open.spotify.com/track/2ufmtcIFdFpuUYBPXK5f67) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr) | 3:01 | 2021-08-05 |  |
 | [GRAVEYARD CHAOS](https://open.spotify.com/track/3BjPkuEDC9BkL0IfNEP6iy) | [STAKILLAZ](https://open.spotify.com/artist/44tWGthIqM3mm0ngpslGO9) | [GRAVEYARD CHAOS](https://open.spotify.com/album/0bmJZ4iRTZLU5U1fChBiaO) | 1:50 | 2024-10-09 |  |
+| [Great Escape](https://open.spotify.com/track/2yfTDiRcSY6cAt17KyR92N) | [DJmegan23](https://open.spotify.com/artist/56zdYcwtmdYq3WlBYQeHoA), [cranes](https://open.spotify.com/artist/3RjMDQ6j6FX40b4idQNsZY), [mental](https://open.spotify.com/artist/7rQMXIWKXSMkd7dK8LQ7a4) | [Great Escape/Heaven](https://open.spotify.com/album/6CVZuWiz1PfRHz7SN4eehL) | 2:03 | 2025-11-21 |  |
 | [Greaze \- Machine Girl Mix](https://open.spotify.com/track/3RBQn0pp9J7jFpd5DSA4v8) | [Machine Girl](https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0) | [RePorpoised Phantasies](https://open.spotify.com/album/40IjED8bEPBiyVMr936p6o) | 2:53 | 2022-11-23 |  |
 | [Groan](https://open.spotify.com/track/31o1KS0x48HWW8aJ0SuKGQ) | [Dazey and the Scouts](https://open.spotify.com/artist/3J8YGHzxEZzHRYVxGmQCvJ) | [Maggot](https://open.spotify.com/album/4o2UhvIIalZ00nvHyk2nEz) | 3:00 | 2022-04-26 |  |
 | [Gronlandic Edit](https://open.spotify.com/track/3X8gOyVXP93Tslnz9Bxw24) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [Hissing Fauna, Are You The Destroyer?](https://open.spotify.com/album/6EHyUWhxAzolO2lQBvuxTH) | 3:24 | 2022-02-18 |  |

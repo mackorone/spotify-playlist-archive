@@ -4,7 +4,7 @@
 
 > Christmas favourites played on music box and glockenspiel.
 
-70 songs - 2 hr 16 min
+73 songs - 2 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Frosty The Snowman](https://open.spotify.com/track/2bLAuycDOuVSGj9YaIrf1Q) | [Yuletide Delight](https://open.spotify.com/artist/1nNVa4ARNnIqK1xb4vHGmI) | [Frosty The Snowman](https://open.spotify.com/album/00TwcqkwlGwBu7idKVn9aU) | 1:41 | 2023-11-23 |  |
 | [Go Tell It On The Mountain](https://open.spotify.com/track/6BUM0QcEos9oIxwhYyGLte) | [Stephanie Murere](https://open.spotify.com/artist/1E8h8SdoO4FQeoOkU6yaG6) | [Go Tell It On The Mountain](https://open.spotify.com/album/5agwXEO2uGYmw1yjcTUJlS) | 1:52 | 2023-11-23 |  |
 | [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/7jr9cas274JE9xJ3aTo5aY) | [Ember Roses](https://open.spotify.com/artist/0Al4ii7WbbtEf1Ss29RTL6) | [God Rest Ye Merry Gentlemen](https://open.spotify.com/album/7u4mFozzWfb1EjF2Y0FpyN) | 1:40 | 2023-11-23 |  |
+| [Good King Wenceslas](https://open.spotify.com/track/4b1mdCJYQelTRxp5HSLBXQ) | [Cassius Ember](https://open.spotify.com/artist/7vvfs3GQVOOOiZE5WsNgWj) | [Good King Wenceslas](https://open.spotify.com/album/1ZNc07o8EcW8ySlQSzMMSj) | 1:17 | 2025-11-21 |  |
 | [Happy Xmas \(War Is Over\)](https://open.spotify.com/track/7xSwy468NWS2V7wDmyXBoY) | [Alicja Pawlowska](https://open.spotify.com/artist/3sZRepzXEVWUR0vTDpmBBn) | [Happy Xmas \(War Is Over\)](https://open.spotify.com/album/40codKpK3NaEE6lSk8Q1iw) | 2:15 | 2023-11-23 |  |
 | [Hark! The Herald Angels Sing](https://open.spotify.com/track/50koayoMaGNChAe3EfBrdC) | [Beth McLaughlin](https://open.spotify.com/artist/4nTpgCVfCqU7ouzQeZw0rL) | [Holiday Sleepy Lullabies](https://open.spotify.com/album/7sa7XNBJBrvoXOsRVZiKmJ) | 2:26 | 2023-11-23 | 2024-12-06 |
 | [Have yourself a merry little Christmas](https://open.spotify.com/track/6X4mjsCSNYxp3sZxhGnfUw) | [Dean Stance](https://open.spotify.com/artist/05p69v44eqHGhc9ehcpoFC) | [Christmas Sleepy](https://open.spotify.com/album/6Tbssj5uq9rQ5iSGXhgtdY) | 2:44 | 2023-11-23 |  |
@@ -58,6 +59,7 @@
 | [O come, all ye faithful](https://open.spotify.com/track/3ci7zhMYt1NkURjdGGXnTT) | [Steinar Lugn](https://open.spotify.com/artist/4t0C7gwYJn7VTcCU5os2m1) | [Christmas Day Sleep\-Time](https://open.spotify.com/album/4OR8GZF3LpYvzeChqQLVV6) | 2:35 | 2023-11-23 |  |
 | [O come, O come Emmanuel](https://open.spotify.com/track/148vLfkPCz6bN0zq6zYezS) | [Annie Leigh](https://open.spotify.com/artist/3aUl9FisrxNctsdzYh3aJX) | [Christmastime Lullabies](https://open.spotify.com/album/09nEc8MzwlK1qSaLbf2htL) | 2:09 | 2023-11-23 | 2025-09-05 |
 | [O Holy Night](https://open.spotify.com/track/2Qd9mSTnDBvMHnlBNfiyCP) | [Steve Dawson](https://open.spotify.com/artist/0k7ltXZL0tbVfeO3Qhp21c) | [Christmas Lullaby Magic](https://open.spotify.com/album/60J9waDn6WeaUNlEkA1Q7A) | 1:53 | 2023-11-23 |  |
+| [O Tannenbaum](https://open.spotify.com/track/6zYPZjrtU5YF7fPlEF2G2c) | [Nikolaj Christensen](https://open.spotify.com/artist/2tOnuXkkjqa53Vw1q6B3VO) | [O Tannenbaum](https://open.spotify.com/album/15h3Cn3QXwpboc1iDOG2l0) | 1:15 | 2025-11-21 |  |
 | [Oh du Fröhliche](https://open.spotify.com/track/6jdWWdmIvPx1QqA5pHBusR) | [Elma Korn](https://open.spotify.com/artist/1ibEA5Sl56QTy8j7Tssu9Q) | [Weihnachten für Kleinkinder](https://open.spotify.com/album/3hswkwR8MMlOQHhJvM0twE) | 1:27 | 2023-11-23 | 2025-09-05 |
 | [Oh Tannenbaum](https://open.spotify.com/track/7HJEWwtoEwP0lGhaW0N81I) | [Gail Donovan](https://open.spotify.com/artist/0cvQsGKGSHaZ5HraPH4ptv) | [Christmas Music Box](https://open.spotify.com/album/4tyumZKLgiXc5vedXHzl6t) | 1:14 | 2023-11-23 | 2025-09-05 |
 | [Rudolph the Red\-Nosed Reindeer](https://open.spotify.com/track/3mTFPi36pqNJErG78Dh71L) | [Mrs Myers Musicbox](https://open.spotify.com/artist/4f1PP9FjYZWEgNacU5ctVe) | [I'll Be Home For Christmas](https://open.spotify.com/album/53uJBbddmX2XYsiJzoyQJV) | 2:29 | 2023-11-23 |  |
@@ -73,6 +75,7 @@
 | [The Holly and the Ivy](https://open.spotify.com/track/58nr5DiJLIVunAGVIpu4yi) | [Dinky Donkey](https://open.spotify.com/artist/4574eyNS2pgBzhBc11Js7O) | [Sleigh Ride](https://open.spotify.com/album/7APkTdj46yR84I4EORhS1v) | 1:38 | 2023-11-23 |  |
 | [We Three Kings](https://open.spotify.com/track/3DA4xlDKzvlUIMKZUhH7xb) | [Lana Jax](https://open.spotify.com/artist/099eQJfZHFRrXejOGPzGY3) | [Christmas Night Lullabies](https://open.spotify.com/album/7IUk965uKYZGQiQjYHDGKe) | 1:25 | 2023-11-23 | 2024-12-06 |
 | [We wish you a merry christmas](https://open.spotify.com/track/0i1LJKRLXHJbtF6rs0BblD) | [Annie Leigh](https://open.spotify.com/artist/3aUl9FisrxNctsdzYh3aJX) | [Christmastime Lullabies](https://open.spotify.com/album/09nEc8MzwlK1qSaLbf2htL) | 1:33 | 2023-11-23 | 2025-09-05 |
+| [We Wish You a Merry Christmas](https://open.spotify.com/track/2wGn3V8JCUHgzVAZklllv1) | [Daisy Day](https://open.spotify.com/artist/2zqel9OQCR3eMNSOXMj0Mb) | [We Wish You a Merry Christmas](https://open.spotify.com/album/3z1gB0MYmQTwlYPqijqrNi) | 2:33 | 2025-11-21 |  |
 | [When a child is born](https://open.spotify.com/track/701mAP6xYlHUIUoQLy9klO) | [Sarah Bainscroft](https://open.spotify.com/artist/02wB0F6h57bxak35tylWeF) | [Glittering Christmas](https://open.spotify.com/album/7EAP14VPxJpXYf6hLwEDbB) | 2:16 | 2023-11-23 | 2025-09-05 |
 | [When You Wish Upon a Star](https://open.spotify.com/track/77z4QS3zOxpcZSRQMY1W8d) | [Lana Jax](https://open.spotify.com/artist/099eQJfZHFRrXejOGPzGY3) | [When You Wish Upon a Star](https://open.spotify.com/album/50RJqo11YgeqEmaN7KGD20) | 2:12 | 2023-11-23 |  |
 | [Where Are You Christmas](https://open.spotify.com/track/0yEX6yUEqGecUWARQvqOpO) | [Noah Jacob](https://open.spotify.com/artist/4Z5swVp8qC7FbtzOkNaChH) | [Holiday Baby Sleepers](https://open.spotify.com/album/74S2e6dzjvQSeOCPecyCFv) | 2:33 | 2023-11-23 |  |

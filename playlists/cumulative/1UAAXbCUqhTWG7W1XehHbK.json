@@ -1431,6 +1431,24 @@
     },
     {
       "album": {
+        "name": "Out Of Mind",
+        "url": "https://open.spotify.com/album/2Rklcp8oIxKCK8duJuWHG4"
+      },
+      "artists": [
+        {
+          "name": "1POINT5",
+          "url": "https://open.spotify.com/artist/4PPHoRT5RMRHTbMGeQXiA3"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152904,
+      "name": "Out Of Mind",
+      "url": "https://open.spotify.com/track/1OFweranXJz823BH5fZYVI"
+    },
+    {
+      "album": {
         "name": "Pain",
         "url": "https://open.spotify.com/album/5lKXK0eA4xjXTt01Md8sOS"
       },

@@ -1,13 +1,45 @@
 {
-  "description": "sweet. sharp. unbothered - Johnny Huynh & Jessica Baio on the cover",
-  "num_followers": 425686,
+  "description": "sweet. sharp. unbothered - Mad Tsai on the cover",
+  "num_followers": 425705,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPYP040m3B3T4tuD8cu3a7MjxIQG",
+  "snapshot_id": "AAAAAH7jH5E9NWWf6D1tMnkaEp8hZvvr",
   "tracks": [
+    {
+      "added_at": "2025-11-21 05:00:31",
+      "album": {
+        "name": "HOUNDSOFHELL",
+        "url": "https://open.spotify.com/album/27hbVCgSKy5AQxv1yykYwJ"
+      },
+      "artists": [
+        {
+          "name": "Mad Tsai",
+          "url": "https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB"
+        }
+      ],
+      "duration_ms": 184559,
+      "name": "HOUNDSOFHELL",
+      "url": "https://open.spotify.com/track/0mWAqUgHBubNf7phC3hjA0"
+    },
+    {
+      "added_at": "2025-11-21 05:00:31",
+      "album": {
+        "name": "UNHINGED",
+        "url": "https://open.spotify.com/album/1HS3pbvrFKsK0pkM7UQApo"
+      },
+      "artists": [
+        {
+          "name": "Sizzy Rocket",
+          "url": "https://open.spotify.com/artist/2CBvbVxhd3ZJXRTCl88H7E"
+        }
+      ],
+      "duration_ms": 132244,
+      "name": "UNHINGED",
+      "url": "https://open.spotify.com/track/03pMmhhwBbSoUuKdGpj9PG"
+    },
     {
       "added_at": "2025-11-14 05:00:30",
       "album": {
@@ -721,22 +753,6 @@
       "url": "https://open.spotify.com/track/3i1GK7mvegGCBdZgAd6LLf"
     },
     {
-      "added_at": "2025-09-12 04:00:24",
-      "album": {
-        "name": "PASSPORT",
-        "url": "https://open.spotify.com/album/3EFv9uC4C4kSP3osSDiJ1K"
-      },
-      "artists": [
-        {
-          "name": "Sara James",
-          "url": "https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV"
-        }
-      ],
-      "duration_ms": 131152,
-      "name": "PASSPORT",
-      "url": "https://open.spotify.com/track/6PWfx76OvEAGRcomQSdJnt"
-    },
-    {
       "added_at": "2025-08-29 04:00:41",
       "album": {
         "name": "IT'S HARD (to be a Man)",
@@ -767,22 +783,6 @@
       "duration_ms": 148519,
       "name": "if i can't feel you",
       "url": "https://open.spotify.com/track/39N6mOBiYgQ5iV7i0UJVVw"
-    },
-    {
-      "added_at": "2025-08-08 04:00:49",
-      "album": {
-        "name": "Parody Of Pleasure",
-        "url": "https://open.spotify.com/album/7k2AzBz7mFQAnKPYSzRwV7"
-      },
-      "artists": [
-        {
-          "name": "Lydia Night",
-          "url": "https://open.spotify.com/artist/7zPPRI5YRGj8bPYBmtIy4l"
-        }
-      ],
-      "duration_ms": 142730,
-      "name": "The Bomb",
-      "url": "https://open.spotify.com/track/6FqQpftrbKOFvhQJ6f4Iyh"
     },
     {
       "added_at": "2025-08-22 04:05:01",

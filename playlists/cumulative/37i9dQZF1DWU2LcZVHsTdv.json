@@ -3864,6 +3864,24 @@
     {
       "album": {
         "name": "Rich",
+        "url": "https://open.spotify.com/album/6Da5S0GCQK9Ex5Nbud8ozV"
+      },
+      "artists": [
+        {
+          "name": "ELI GABLE",
+          "url": "https://open.spotify.com/artist/4b9TssR4OW2BKUrrsffzsY"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191232,
+      "name": "Rich",
+      "url": "https://open.spotify.com/track/4tNPvDMaT7GMv5pQQqkesB"
+    },
+    {
+      "album": {
+        "name": "Rich",
         "url": "https://open.spotify.com/album/29cO6aoKc7Ced6oa4WeoQl"
       },
       "artists": [

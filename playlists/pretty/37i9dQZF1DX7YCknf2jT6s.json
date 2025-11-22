@@ -1,13 +1,73 @@
 {
-  "description": "New jazz for open minds. Cover: Theo Croker",
-  "num_followers": 950008,
+  "description": "New jazz for open minds. Cover: Snarky Puppy",
+  "num_followers": 950027,
   "original_name": "State of Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEOknWucaU7vQ3dQ81EWPPYBo8lO",
+  "snapshot_id": "AAAAAEboDoL2CISI7FOqgfVhlff8hLsa",
   "tracks": [
+    {
+      "added_at": "2025-11-21 05:47:14",
+      "album": {
+        "name": "Somni",
+        "url": "https://open.spotify.com/album/72Tr4gYIAko7djIwgfS4i1"
+      },
+      "artists": [
+        {
+          "name": "Snarky Puppy",
+          "url": "https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1"
+        },
+        {
+          "name": "Metropole Orkest",
+          "url": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
+        },
+        {
+          "name": "Jules Buckley",
+          "url": "https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX"
+        }
+      ],
+      "duration_ms": 652858,
+      "name": "It Stays With You",
+      "url": "https://open.spotify.com/track/3XckH9nZTF2Y2gp6UoMotk"
+    },
+    {
+      "added_at": "2025-11-21 05:47:14",
+      "album": {
+        "name": "Memories of Home",
+        "url": "https://open.spotify.com/album/7lxIQx3DYnFX7biceR5ngx"
+      },
+      "artists": [
+        {
+          "name": "John Scofield",
+          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
+        },
+        {
+          "name": "Dave Holland",
+          "url": "https://open.spotify.com/artist/1bqaQBqbqbEXPxLF0v6AAH"
+        }
+      ],
+      "duration_ms": 380923,
+      "name": "Icons at the Fair",
+      "url": "https://open.spotify.com/track/6rXz8pM5j6oJ2pMMAR2Fv9"
+    },
+    {
+      "added_at": "2025-11-21 05:47:14",
+      "album": {
+        "name": "I Wish",
+        "url": "https://open.spotify.com/album/6JodNfSzz5bpb1lTEYJSnC"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Rodriguez",
+          "url": "https://open.spotify.com/artist/1dp5YyefJVa9mkiqa3s50O"
+        }
+      ],
+      "duration_ms": 180572,
+      "name": "I Wish",
+      "url": "https://open.spotify.com/track/1mFAWXLDMxV7j9fsZPSoDG"
+    },
     {
       "added_at": "2025-11-14 05:34:19",
       "album": {
@@ -27,6 +87,34 @@
       "duration_ms": 174680,
       "name": "A Prayer for Peace",
       "url": "https://open.spotify.com/track/5R3e5tMI5Ugr2HCzH90hpx"
+    },
+    {
+      "added_at": "2025-11-21 05:47:14",
+      "album": {
+        "name": "the decoupling of the nuclear family",
+        "url": "https://open.spotify.com/album/5dycwetorMNU2RgY2lVRVE"
+      },
+      "artists": [
+        {
+          "name": "_BY.ALEXANDER",
+          "url": "https://open.spotify.com/artist/4KPgZSnwlJl4LnUDb09mCw"
+        },
+        {
+          "name": "HAWA",
+          "url": "https://open.spotify.com/artist/2YwiHXMC3iIiXZEQZ5PUJG"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+        }
+      ],
+      "duration_ms": 229220,
+      "name": "the decoupling of the nuclear family",
+      "url": "https://open.spotify.com/track/2CoC3apW4ahryZB9vCoGKT"
     },
     {
       "added_at": "2025-11-14 05:34:19",
@@ -357,26 +445,6 @@
       "url": "https://open.spotify.com/track/0ysvcp1D8gwqMYBPZrzceW"
     },
     {
-      "added_at": "2025-10-24 04:00:21",
-      "album": {
-        "name": "Meant to Be",
-        "url": "https://open.spotify.com/album/5Y0Mk06Pp9uo9doyYsaZ96"
-      },
-      "artists": [
-        {
-          "name": "John Scofield",
-          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
-        },
-        {
-          "name": "Dave Holland",
-          "url": "https://open.spotify.com/artist/1bqaQBqbqbEXPxLF0v6AAH"
-        }
-      ],
-      "duration_ms": 391495,
-      "name": "Meant to Be",
-      "url": "https://open.spotify.com/track/63QbpLYMlwNdOaMKw2QHn9"
-    },
-    {
       "added_at": "2025-10-17 04:01:00",
       "album": {
         "name": "Kaleidoscopic Visions",
@@ -447,30 +515,6 @@
       "duration_ms": 497484,
       "name": "Blues for Langston",
       "url": "https://open.spotify.com/track/4c3AvJY7H4nETw1xXey04e"
-    },
-    {
-      "added_at": "2025-10-03 04:00:47",
-      "album": {
-        "name": "Chimera",
-        "url": "https://open.spotify.com/album/6MnTBi8clwKpzVIh90gh1C"
-      },
-      "artists": [
-        {
-          "name": "Snarky Puppy",
-          "url": "https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1"
-        },
-        {
-          "name": "Metropole Orkest",
-          "url": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
-        },
-        {
-          "name": "Jules Buckley",
-          "url": "https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX"
-        }
-      ],
-      "duration_ms": 494210,
-      "name": "Chimera",
-      "url": "https://open.spotify.com/track/1XogWC6SnTVPprpukrIuaC"
     },
     {
       "added_at": "2025-10-03 04:00:47",
@@ -1223,58 +1267,6 @@
       "duration_ms": 336026,
       "name": "Point Of View",
       "url": "https://open.spotify.com/track/27MWj3buZO5OOZYpXJgAkx"
-    },
-    {
-      "added_at": "2025-05-02 04:00:27",
-      "album": {
-        "name": "Cram 'N Exam (Hard Bop - Jazz Secrets)",
-        "url": "https://open.spotify.com/album/0YfnlXOq7VrF95lsLtz9pH"
-      },
-      "artists": [
-        {
-          "name": "Arkadia Jazz All-Stars",
-          "url": "https://open.spotify.com/artist/6zvf7WeBSm26ESYpE9amLc"
-        },
-        {
-          "name": "Joanne Brackeen",
-          "url": "https://open.spotify.com/artist/6xTZJ3wPbBqduZQWHPAoFA"
-        },
-        {
-          "name": "Nicholas Payton",
-          "url": "https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4"
-        },
-        {
-          "name": "John Patitucci",
-          "url": "https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH"
-        },
-        {
-          "name": "Horacio Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/5lRKB4jBopjz1WtpSEcIjo"
-        },
-        {
-          "name": "Chris Potter",
-          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
-        }
-      ],
-      "duration_ms": 356565,
-      "name": "Cram 'N Exam - Hard Bop - Jazz Secrets",
-      "url": "https://open.spotify.com/track/3OQZ8MWg450LkpKXKiDAug"
-    },
-    {
-      "added_at": "2025-05-02 04:00:27",
-      "album": {
-        "name": "feely",
-        "url": "https://open.spotify.com/album/58K6cOEBv6dyiujhUh4awt"
-      },
-      "artists": [
-        {
-          "name": "Ebi Soda",
-          "url": "https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU"
-        }
-      ],
-      "duration_ms": 230564,
-      "name": "feely",
-      "url": "https://open.spotify.com/track/5Fc8oQFrNtsaAjbfeR17WX"
     },
     {
       "added_at": "2025-05-23 04:00:21",

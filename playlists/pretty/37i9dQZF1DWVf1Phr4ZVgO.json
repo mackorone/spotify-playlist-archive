@@ -1,6 +1,6 @@
 {
   "description": "Big bands and tuxedos. The playlist for the wedding or just an elegant evening.",
-  "num_followers": 1180102,
+  "num_followers": 1180264,
   "original_name": "An Elegant Affair",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2025-11-03 15:23:27",
       "album": {
-        "name": "The Ultimate Bobby Darin",
-        "url": "https://open.spotify.com/album/65okcRJHUVUrFiDG3I1Sz8"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 172480,
-      "name": "Beyond the Sea",
-      "url": "https://open.spotify.com/track/2EIaO5knwUA3F2qnf9LV3S"
-    },
-    {
-      "added_at": "2025-11-03 15:23:27",
-      "album": {
         "name": "Harlem On My Mind",
         "url": "https://open.spotify.com/album/2ebxe3beKvg6ee7XJkvxEd"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 292288,
       "name": "Don't Take Your Love From Me",
       "url": "https://open.spotify.com/track/3PTD2eturmZsdedW6reT1p"
+    },
+    {
+      "added_at": "2025-11-03 15:23:27",
+      "album": {
+        "name": "The Ultimate Bobby Darin",
+        "url": "https://open.spotify.com/album/65okcRJHUVUrFiDG3I1Sz8"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 172480,
+      "name": "Beyond the Sea",
+      "url": "https://open.spotify.com/track/2EIaO5knwUA3F2qnf9LV3S"
     },
     {
       "added_at": "2025-11-03 15:23:27",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2025-11-03 15:23:27",
       "album": {
-        "name": "Things Are Swingin'/Jump For Joy",
-        "url": "https://open.spotify.com/album/3TgP9cFfg93qoCR7BO9ZXU"
-      },
-      "artists": [
-        {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
-        }
-      ],
-      "duration_ms": 130639,
-      "name": "Ain't We Got Fun",
-      "url": "https://open.spotify.com/track/6TsdvMtwcoDcoJa4ZhDGxZ"
-    },
-    {
-      "added_at": "2025-11-03 15:23:27",
-      "album": {
         "name": "My One And Only Thrill",
         "url": "https://open.spotify.com/album/0Qe8wdANNrf5PkP76qnXyN"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 211893,
       "name": "Baby I'm A Fool",
       "url": "https://open.spotify.com/track/7ilWEHob3AYG3lAJlKEpDR"
+    },
+    {
+      "added_at": "2025-11-03 15:23:27",
+      "album": {
+        "name": "Things Are Swingin'/Jump For Joy",
+        "url": "https://open.spotify.com/album/3TgP9cFfg93qoCR7BO9ZXU"
+      },
+      "artists": [
+        {
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+        }
+      ],
+      "duration_ms": 130639,
+      "name": "Ain't We Got Fun",
+      "url": "https://open.spotify.com/track/6TsdvMtwcoDcoJa4ZhDGxZ"
     },
     {
       "added_at": "2025-11-03 15:23:27",

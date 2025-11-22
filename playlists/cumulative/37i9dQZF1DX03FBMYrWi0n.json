@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-11",
-  "description": "L\u2019alternatif qu\u00e9b\u00e9cois \u00e0 plein volume. Photo: Vulgaires Machins",
+  "description": "L\u2019alternatif qu\u00e9b\u00e9cois \u00e0 plein volume. Photo: Emma Beko",
   "name": "ALT_QC",
   "tracks": [
     {
@@ -770,7 +770,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 186213,
       "name": "CABOT",
       "url": "https://open.spotify.com/track/4mHzCQFV9w6TKflRRerYff"
@@ -1272,7 +1272,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 254986,
       "name": "Cycle trois - partie 2",
       "url": "https://open.spotify.com/track/3ez9WhsTGvrT7BGvAESFQY"
@@ -2220,6 +2220,24 @@
       "duration_ms": 298336,
       "name": "I LIE HERE BURIED WITH MY RINGS AND MY DRESSES",
       "url": "https://open.spotify.com/track/37OSQm8Gy5strUT24vn6ef"
+    },
+    {
+      "album": {
+        "name": "I'm a memory",
+        "url": "https://open.spotify.com/album/421Wt2EFpZCjWua1rId0WM"
+      },
+      "artists": [
+        {
+          "name": "Emma Beko",
+          "url": "https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162550,
+      "name": "I'm a memory",
+      "url": "https://open.spotify.com/track/0nTyvtckqQ4hFzpM2Drn2J"
     },
     {
       "album": {
@@ -4415,6 +4433,24 @@
     },
     {
       "album": {
+        "name": "Quel ami",
+        "url": "https://open.spotify.com/album/020KslK8D4Ps0dIIOlA9sB"
+      },
+      "artists": [
+        {
+          "name": "pas de signal",
+          "url": "https://open.spotify.com/artist/2OMoXdao3mTaapv9gpyZMQ"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195998,
+      "name": "Quel ami",
+      "url": "https://open.spotify.com/track/3JjYYVSWDeUhUTND1sUiXg"
+    },
+    {
+      "album": {
         "name": "R.B.",
         "url": "https://open.spotify.com/album/7xZKrE00O2cUzItOtQ2oPU"
       },
@@ -4830,7 +4866,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 172630,
       "name": "So It Goes",
       "url": "https://open.spotify.com/track/12ryI6Y0cm3Icrj1Uyk56J"
@@ -4866,7 +4902,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 150630,
       "name": "Soupe aux pois",
       "url": "https://open.spotify.com/track/5kFaKzDFEJBYGMC27oio34"
@@ -4888,6 +4924,24 @@
       "duration_ms": 256600,
       "name": "Squelette",
       "url": "https://open.spotify.com/track/5T4o6yqeF1GV6Q8rcX7Rvp"
+    },
+    {
+      "album": {
+        "name": "Stable",
+        "url": "https://open.spotify.com/album/67rLBbv9JEBAdydHQxUJlP"
+      },
+      "artists": [
+        {
+          "name": "oui merci",
+          "url": "https://open.spotify.com/artist/6XUr1bWIBVkLmXHySucgyr"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225329,
+      "name": "Stable",
+      "url": "https://open.spotify.com/track/0CRTqZix3nBo3vSra6O3os"
     },
     {
       "album": {
@@ -4924,6 +4978,24 @@
       "duration_ms": 167598,
       "name": "St\u00e9r\u00e9o",
       "url": "https://open.spotify.com/track/6YyFB2Qyn8Wv0XeCe7zxez"
+    },
+    {
+      "album": {
+        "name": "Sudation",
+        "url": "https://open.spotify.com/album/1IwxMJRiYNAxmppVqSuVhq"
+      },
+      "artists": [
+        {
+          "name": "Les Lunatiques",
+          "url": "https://open.spotify.com/artist/5i6jPkyXixJNovFvLyIRa1"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234979,
+      "name": "Sudation",
+      "url": "https://open.spotify.com/track/7hWG3WtGtKtkiWf0ZwRyc6"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "All your favourite country hits from Miranda Lambert, Luke Combs, Old Dominion, Kane Brown, Tenille Townes and more! Cover: Sacha.",
-  "num_followers": 34385,
+  "num_followers": 34379,
   "original_name": "Country Smash Hits",
   "owner": {
     "name": "Filtr Canada\t",
     "url": "https://open.spotify.com/user/filtr.ca"
   },
-  "snapshot_id": "AAANjECtOAq+u94pFv0MqgVo1+WJH3hW",
+  "snapshot_id": "AAANkfmRYnBjBcG9vCN20jJuk1aubd+I",
   "tracks": [
     {
       "added_at": "2025-11-07 18:45:48",
@@ -1799,6 +1799,90 @@
       "duration_ms": 159117,
       "name": "Goose Chase",
       "url": "https://open.spotify.com/track/0TEIWKozQuoy5wbi7R6kZA"
+    },
+    {
+      "added_at": "2025-11-21 21:38:09",
+      "album": {
+        "name": "Meet You By The River",
+        "url": "https://open.spotify.com/album/0r53KvT5NickufXPXgx89O"
+      },
+      "artists": [
+        {
+          "name": "Cam",
+          "url": "https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO"
+        }
+      ],
+      "duration_ms": 102000,
+      "name": "Meet You By The River",
+      "url": "https://open.spotify.com/track/3olV40GMrdiQ2KyHr3qgDF"
+    },
+    {
+      "added_at": "2025-11-21 21:41:11",
+      "album": {
+        "name": "Barefoot and Pregnant",
+        "url": "https://open.spotify.com/album/3lsjYy6RCq4XATR6Wokjc3"
+      },
+      "artists": [
+        {
+          "name": "Dylan Marlowe",
+          "url": "https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax"
+        }
+      ],
+      "duration_ms": 196977,
+      "name": "Barefoot and Pregnant",
+      "url": "https://open.spotify.com/track/5RhfuRVw2cVIkacHkAwsZm"
+    },
+    {
+      "added_at": "2025-11-21 21:41:53",
+      "album": {
+        "name": "Come Home to You",
+        "url": "https://open.spotify.com/album/3HmBqHCOjU219BMkGljj4t"
+      },
+      "artists": [
+        {
+          "name": "Emily Ann Roberts",
+          "url": "https://open.spotify.com/artist/4ZuggB1YawAAZOBL4pI9J8"
+        }
+      ],
+      "duration_ms": 233836,
+      "name": "Come Home to You",
+      "url": "https://open.spotify.com/track/3OZIdWrjR85DbTX8DC4myC"
+    },
+    {
+      "added_at": "2025-11-21 21:43:17",
+      "album": {
+        "name": "Fire On The Hillside",
+        "url": "https://open.spotify.com/album/3SQ6pt50V0QVZeeLZ4xpdv"
+      },
+      "artists": [
+        {
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+        }
+      ],
+      "duration_ms": 204506,
+      "name": "Fire On The Hillside",
+      "url": "https://open.spotify.com/track/0uAPJlac7akHjkU4tJmacm"
+    },
+    {
+      "added_at": "2025-11-21 21:45:37",
+      "album": {
+        "name": "Keeps Me Sane (feat. The Castellows)",
+        "url": "https://open.spotify.com/album/72qbpYZ96o9bEOookAyOf0"
+      },
+      "artists": [
+        {
+          "name": "Tyler Nance",
+          "url": "https://open.spotify.com/artist/38zCEnwAxIJWMCeMd9tO7z"
+        },
+        {
+          "name": "The Castellows",
+          "url": "https://open.spotify.com/artist/18RWefCHpRm4ccmNgKSHvG"
+        }
+      ],
+      "duration_ms": 192380,
+      "name": "Keeps Me Sane (feat. The Castellows)",
+      "url": "https://open.spotify.com/track/16c51SfenjUgP6F36uds5e"
     }
   ],
   "unique_name": "Country Smash Hits",

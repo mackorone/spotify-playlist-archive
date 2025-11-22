@@ -4,7 +4,7 @@
 
 > 兩人成組、三人成團，硬地主流都開花！風格豐富力量大！Cover: 靈魂沙發 \(SoulFa\)
 
-820 songs - 2 day 5 hr 34 min
+821 songs - 2 day 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Post Punk](https://open.spotify.com/track/0puyGlCHyrETtAdViXn0UO) | [心頭肉](https://open.spotify.com/artist/28SZqcuYWGmsm3jsVR4u9M) | [Pilot](https://open.spotify.com/album/7mcF805eSGYDKe1Qp34nkA) | 3:50 | 2025-04-10 | 2025-05-09 |
 | [RAFFLESIA](https://open.spotify.com/track/2rsq4qTPtIxEUQ5ZhgfUT8) | [3P](https://open.spotify.com/artist/3NSGCBkfj6hEhXQhytRg4D), [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [RAFFLESIA](https://open.spotify.com/album/718T0hpAgXHWc8qe4goBEq) | 3:16 | 2025-07-31 | 2025-08-15 |
 | [repeating](https://open.spotify.com/track/2HjDPVyT7mC5ZiajZUL55Y) | [FUMON](https://open.spotify.com/artist/3zGGhKGLorCRgcXc22gYDX), [王謙Goatak](https://open.spotify.com/artist/1CH4dO170qpIfqWdndWoUx) | [repeating](https://open.spotify.com/album/1Tr4Exuyq9xIvmq6mPGLve) | 3:09 | 2024-07-25 | 2024-09-13 |
+| [Rest in Love \- "一路順風 Bye Bye Party" 2025 Live at Kishibe Cafe](https://open.spotify.com/track/60d6uaBCiJg5361Uo4pS39) | [fuvva](https://open.spotify.com/artist/6wpBdJXOYHd7L8fHYKL46r) | ["一路順風 bye bye party" \(Live at Kishibe Cafe, 2025.09.07\)](https://open.spotify.com/album/66M4QrYA0oNUgbD0rQPogO) | 5:10 | 2025-11-20 |  |
 | [Retro Petrol](https://open.spotify.com/track/59oQuPQ71B9TcwbO6kJOUv) | [恐龍的皮](https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J) | [Retro Petrol](https://open.spotify.com/album/55xrlm8rZBYBJ3KoSYOCzT) | 3:20 | 2024-10-03 | 2024-10-25 |
 | [Riddle Puzzle \- Live](https://open.spotify.com/track/4l8zUJUtAMkRjtmOCQIuUD) | [Bremen Entertainment Inc.](https://open.spotify.com/artist/7BmltYn52V9S204x88m0MA), [CINEMAPHONIC](https://open.spotify.com/artist/3RH6MrwIQhIVvfpE3Ireae) | [布萊梅 Bremen Entertainment Inc\. on CINEMAPHONIC \(Live\)](https://open.spotify.com/album/7jzcct9zNfeOceCdsAz1fJ) | 5:06 | 2025-10-16 | 2025-11-21 |
 | [Robot in No Man's Land](https://open.spotify.com/track/2YHjtbpIHduMuK0yz2bOB6) | [Robot Swing](https://open.spotify.com/artist/75MsybpGuMiLCp76Ou0LTV) | [Robot in No Man's Land](https://open.spotify.com/album/35Fo2VCyHtL5ShyRnCVIKR) | 6:46 | 2025-10-09 | 2025-11-07 |
@@ -510,7 +511,7 @@
 | [抱抱我](https://open.spotify.com/track/6FZOJVYqV52ltgTpO6p3NT) | [fuvva](https://open.spotify.com/artist/6wpBdJXOYHd7L8fHYKL46r) | [抱抱我](https://open.spotify.com/album/01zJ9d6EJ53Jrq3W9HGJwH) | 3:29 | 2025-02-06 | 2025-03-07 |
 | [抽屜](https://open.spotify.com/track/79FjNCFyGzPK4vNX1LFHls) | [紙鳶](https://open.spotify.com/artist/05delKph4l4CQoZ5seRwW9) | [抽屜](https://open.spotify.com/album/5jtnw8dCoBRuff5ofWfwhk) | 3:48 | 2025-05-22 | 2025-10-17 |
 | [拖延症\*](https://open.spotify.com/track/0EqqcZfTYGR2EZwFHfjMvj) | [庸俗救星Vulgar Savior](https://open.spotify.com/artist/0yxKjRdHdfEZvsypUkROaq) | [Little Battle](https://open.spotify.com/album/1NCB6fYczTAYv1hgbAL3ia) | 3:00 | 2025-04-17 | 2025-05-09 |
-| [拿起一顆蘋果，咬了一口](https://open.spotify.com/track/6UF4I0Pw9XkNVpxy1mDKCY) | [小狗的骨頭](https://open.spotify.com/artist/25ORllqvkHqWl4yGwRnHP7), [沈以诚](https://open.spotify.com/artist/3YGiiv6KAB2HX5Fffpu0kQ) | [拿起一顆蘋果，咬了一口](https://open.spotify.com/album/7zLjPeqolPYUetZJievEeL) | 4:21 | 2025-11-20 |  |
+| [拿起一颗苹果，咬了一口](https://open.spotify.com/track/6UF4I0Pw9XkNVpxy1mDKCY) | [小狗的骨头](https://open.spotify.com/artist/3pskeF4J6ACNDAWayecaYb), [沈以誠](https://open.spotify.com/artist/1WrIe6XUiiU9KovVimwqpE) | [拿起一颗苹果，咬了一口](https://open.spotify.com/album/7zLjPeqolPYUetZJievEeL) | 4:21 | 2025-11-20 |  |
 | [指尖滑過就能被忘記的美](https://open.spotify.com/track/6YbvsRQiwNfmdIPos5IwNx) | [吾橋有水 FloodingBridge](https://open.spotify.com/artist/0mYdyPW4ExvkilLuv5KU0k) | [指尖滑過就能被忘記的美](https://open.spotify.com/album/2AESsxBRZVUNH9Yba0y7Ie) | 4:13 | 2024-08-22 | 2024-09-13 |
 | [接住你](https://open.spotify.com/track/4cCpt3dT86O3F7OgkK5n8o) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [接住你](https://open.spotify.com/album/6QQAuZsNxOMqwntwfrtb4c) | 5:09 | 2025-05-22 | 2025-06-13 |
 | [握紧吧！爱人的手！](https://open.spotify.com/track/2evyWTfXZzFl22G4Zc8Izi) | [狮童](https://open.spotify.com/artist/25yNoKSwTdvb6lUgd3nuWN) | [握紧吧！爱人的手！](https://open.spotify.com/album/3H12x0Qyupwu7gyZbDT3Wq) | 3:00 | 2024-07-11 | 2024-08-16 |

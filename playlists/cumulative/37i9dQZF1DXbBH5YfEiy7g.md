@@ -4,7 +4,7 @@
 
 > Praise and Worship your way with the best South African Gospel music\.  Cover: Nontokozo Mkhize
 
-204 songs - 21 hr 52 min
+204 songs - 21 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Pride \(A Deeper Love\)](https://open.spotify.com/track/2IW6l9VuFJDDhGU2IXz4sC) | [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl), [Groove Terminator](https://open.spotify.com/artist/1bA9XJwgaR3yVHNMTCqJ02), [Latroit](https://open.spotify.com/artist/4keJDDQx0ac2jhmknbSLFK) | [Pride \(A Deeper Love\)](https://open.spotify.com/album/3ZKEYuxs7up1KWfIqM9Uhd) | 2:50 | 2024-10-04 | 2024-10-25 |
 | [Psalms 23 \(uMusa Wakho\) \(feat\. Oncemore Six\)](https://open.spotify.com/track/1djXbEcTIH17Bc8qS7PxJ2) | [Mmuso Worship](https://open.spotify.com/artist/5r5sBwAXxOibX4NHzP6j9s), [Oncemore Six](https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd) | [Testify \(Live at 012 Central, Pretoria 2024\)](https://open.spotify.com/album/5ZOKJWzsqwjYYq3IAseHFF) | 8:12 | 2025-04-18 | 2025-05-23 |
 | [Ri Do Ima \(Bishop RC Madzinge Tribute\) \- Live](https://open.spotify.com/track/0oP1vYqdbr6iLHtmyy25cM) | [ROFHIWA MANYAGA](https://open.spotify.com/artist/6hYQnls4RShBxrh47cd6i5) | [Ri Do Ima \(Bishop RC Madzinge Tribute\) \[Live\]](https://open.spotify.com/album/5N5fhUtjZMqwrMA7SJJ2MV) | 7:44 | 2025-03-14 | 2025-04-04 |
+| [Sawubona Moyoncwele \- Live at Isibaya Casino](https://open.spotify.com/track/0wZpgOsDhAdKKFd7cvVCAt) | [Thinah Zungu](https://open.spotify.com/artist/0gqiNXIGbyBCBsbQ4TWJlg), [Ndumiso Zungu](https://open.spotify.com/artist/4rFahmjoVZtKLEn95KHpzH), [Nokwanda](https://open.spotify.com/artist/3zGMNvxgVGEFpyPs7wD2A1), [Shenge](https://open.spotify.com/artist/0dkoxPGZEV7T0sx2qtJhSZ) | [In His Throne with Thinah Zungu \(Live at Isibaya Casino\)](https://open.spotify.com/album/2TSHxbSDOTjNuwAawhWhQu) | 7:08 | 2025-11-21 |  |
 | [Sefapanong \- Live](https://open.spotify.com/track/7D0TvTgatksJxLKdmFwEAV) | [TSHEPO LEBEPE](https://open.spotify.com/artist/06PQeyGH37N3e3SAxwJ3LG) | [Sefapanong \(Live\)](https://open.spotify.com/album/5GM3io5G7lqVaXuN1CLHJU) | 6:00 | 2025-04-25 | 2025-06-06 |
 | [Sewakhile](https://open.spotify.com/track/6SPsSZsCkUpP2IzUpIoMvT) | [Hlengiwe Mhlaba](https://open.spotify.com/artist/2TO6SX9weMc5ZT6FdJdpJI) | [Greatest Hits](https://open.spotify.com/album/1zj2POKS3mxCWamZPlJcWZ) | 4:42 | 2024-10-04 |  |
 | [Sidumisa Wena \(Live at Goshen City Church 2023\)](https://open.spotify.com/track/4epVuj4ZLMusxeWD8qJll9) | [SbuNoah](https://open.spotify.com/artist/6Hmj1Zk3LCAFn8xvujto6O) | [Sidumisa Wena \(Live at Goshen City Church 2023\)](https://open.spotify.com/album/3hK5itgu7a8OKdLu2kzNWh) | 7:30 | 2024-10-15 | 2025-03-21 |
@@ -158,7 +159,6 @@
 | [Thath'Indawo \(Live\)](https://open.spotify.com/track/7wcjeveluiW5djtxLCxNSx) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Mpumi Mtsweni](https://open.spotify.com/artist/2dvEcjYqeOiyOEq3VprQLJ) | [Spirit of Praise, Vol\. 8 \(Live\)](https://open.spotify.com/album/4Z6tN4BRewPxqkuZqJzopt) | 7:55 | 2024-10-04 |  |
 | [Thato Ya Hao \- Live](https://open.spotify.com/track/5GCgGHvpspY0QmFuMeaIvW) | [Lebo Sekgobela](https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx) | [Restored \(Live\)](https://open.spotify.com/album/4CVpV7NAYwOeWuZ9FSbFZ5) | 3:54 | 2024-10-04 |  |
 | [Thulungakhali](https://open.spotify.com/track/0bPE6VOWoQ69OpmCtPek8M) | [Ikhona](https://open.spotify.com/artist/56tDpXsWbtHowCzQxqurvW), [Betusile](https://open.spotify.com/artist/6xJ0Ui6xanSrQyadnCOpFU) | [Thulungakhali](https://open.spotify.com/album/4ttNmn9gKQm0m7jjadtyLE) | 5:46 | 2024-10-11 |  |
-| [Track 11](https://open.spotify.com/track/0wZpgOsDhAdKKFd7cvVCAt) | [Thinah Zungu](https://open.spotify.com/artist/0gqiNXIGbyBCBsbQ4TWJlg) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-21 |  |
 | [Tshepo Ya Lefatshe](https://open.spotify.com/track/0r9SsIPTibFOQ6r6tPfcte) | [Lebo Elle Tisane](https://open.spotify.com/artist/5OjmAYpmIb99cv5HC7Rwkt) | [In Season](https://open.spotify.com/album/1yax3wDYJRlKUgOZhDGJZZ) | 5:07 | 2025-10-10 | 2025-11-07 |
 | [Ujesu Ulidwala](https://open.spotify.com/track/77zsgriq7B4e9pYQn0rGC5) | [David TheKing](https://open.spotify.com/artist/2U5BkItwy4iRjlDjemdAgi) | [HYMNS OF FAITH IN ZION](https://open.spotify.com/album/35XmpyoZg5UcVkKRBc1xTl) | 6:39 | 2025-04-11 | 2025-08-08 |
 | [UJesu ULidwala \- Live](https://open.spotify.com/track/7LamEiavI6OfgyAmyI15CH) | [David TheKing](https://open.spotify.com/artist/2U5BkItwy4iRjlDjemdAgi) | [UJesu ULidwala \(Live\)](https://open.spotify.com/album/6Rfh86XAPnqbZnd7Mr2ptJ) | 6:39 | 2025-01-03 | 2025-03-28 |

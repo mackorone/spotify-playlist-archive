@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 
 > Posłuchaj zwycięzców i nominowanych do nagród Fryderyk w kategorii muzyka rozrywkowa i jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,285 likes - 79 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,287 likes - 79 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 53 | [Nie pamiętam siebie](https://open.spotify.com/track/6SO9q12ayT1nobYScq4zb6) | [Dom Zły](https://open.spotify.com/artist/4Yy4iPTGC2iFfqxPGiv5Lt) | [Ku pogrzebaniu serc](https://open.spotify.com/album/4dDWNi52Fl8CUyStWGz6e9) | 6:54 |
 | 54 | [Better Off](https://open.spotify.com/track/0ZzE5aySLbUQpb71oRjCCs) | [Zamilska](https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH), [huskie](https://open.spotify.com/artist/7qAmqo6RdMhZmRWNSIK8kS) | [United Kingdom Of Anxiety](https://open.spotify.com/album/1iuoxBPvyLVjTRBFvc1IID) | 3:50 |
 | 55 | [Song for Sarah](https://open.spotify.com/track/5lPAbY4EpAtOe46qR4hEL0) | [Tomasz Stanko Quartet](https://open.spotify.com/artist/1sP0KjKWioXmkh9vUKb1fP) | [September Night](https://open.spotify.com/album/21OEKJBFzi5CVQ49vJnr3i) | 6:20 |
-| 56 | [Kołomyja](https://open.spotify.com/track/7m4kQ93BXEsFe8MJb8pJTB) | [Zazula](https://open.spotify.com/artist/25Pf32DS91Er2yv9bWL96U) | [Pieśni Ludu](https://open.spotify.com/album/2Dtr4raDfR1MDTeIfz8C83) | 2:58 |
-| 57 | [Fearless](https://open.spotify.com/track/38c4yTxQFXBUPzbm63wDKA) | [Baasch](https://open.spotify.com/artist/063D0MKbIbbBjKgtYRGBga) | [LIPSTICK ON THE GLASS \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3qQrPXtwP2IlcYsS2f1I6A) | 2:32 |
+| 56 | [Fearless](https://open.spotify.com/track/38c4yTxQFXBUPzbm63wDKA) | [Baasch](https://open.spotify.com/artist/063D0MKbIbbBjKgtYRGBga) | [LIPSTICK ON THE GLASS \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3qQrPXtwP2IlcYsS2f1I6A) | 2:32 |
+| 57 | [Kołomyja](https://open.spotify.com/track/7m4kQ93BXEsFe8MJb8pJTB) | [Zazula](https://open.spotify.com/artist/25Pf32DS91Er2yv9bWL96U) | [Pieśni Ludu](https://open.spotify.com/album/2Dtr4raDfR1MDTeIfz8C83) | 2:58 |
 | 58 | [Ciągle](https://open.spotify.com/track/3ePTGOjZp25Z1OHBT0L8zQ) | [Cool Kids Of Death](https://open.spotify.com/artist/4illxVu43vK6CgfzDhfunc) | [Origami EP](https://open.spotify.com/album/0EFCMCxvJeAn39A19ZxIhC) | 2:31 |
 | 59 | [Oberek Kujawski Ze Szwankowa](https://open.spotify.com/track/1dxEGtUNbugW6w4c1AXN1p) | [ZPiT Ziemia Bydgoska](https://open.spotify.com/artist/1NaG7uZH1hkCPFi7brEolY) | [Nie Ma Ziemi Nad Kujawy](https://open.spotify.com/album/3Yetr37XtgaMsCca678e0j) | 1:47 |
 | 60 | [Tatras](https://open.spotify.com/track/4wqezzclMc5BojbtQp0b8r) | [Piotr Wyleżoł](https://open.spotify.com/artist/6kFGf7LjZ4VWQoLDpV01Wx), [Andy Middleton](https://open.spotify.com/artist/3l4FSoJ0ryzsijXpfzRK0N), [Ferenc Nemeth](https://open.spotify.com/artist/4O5HLtQDOEZSd3bekZBIBB), [Michał Barański](https://open.spotify.com/artist/6oH0zM5dxLJn7DSHsKuM0A) | [I Love Music](https://open.spotify.com/album/3ax69VaksMlVgF40ODHaGj) | 7:23 |

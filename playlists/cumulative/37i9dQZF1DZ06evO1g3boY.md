@@ -4,7 +4,7 @@
 
 > This is Emicida\. The essential tracks, all in one playlist.
 
-79 songs - 5 hr 8 min
+80 songs - 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [A Cada Vento \(feat\. Rael\) \- Ao Vivo](https://open.spotify.com/track/5PfR5Cm2WcxZMCEej8Muo8) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [10 Anos de Triunfo \(Ao Vivo\)](https://open.spotify.com/album/6nFULR21EyYSzxPUr60S3a) | 5:12 | 2023-09-18 |  |
 | [A Cada Vento \- Live](https://open.spotify.com/track/2e1FJPgVRQZFT53QKUR7BD) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Criolo E Emicida Ao Vivo \(Live\)](https://open.spotify.com/album/3xfZtthn2dlFtFfyyYKEf8) | 4:03 | 2023-09-18 |  |
 | [A Chapa é Quente \- Ao Vivo](https://open.spotify.com/track/0wwuQ08af73yA7lgIFuKv8) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [AmarElo \- Ao Vivo](https://open.spotify.com/album/1OEj74ygMvQHFyypp3COpw) | 3:52 | 2024-02-06 | 2024-08-23 |
-| [A Laje](https://open.spotify.com/track/0MsX3PcYtQCNqzsAsOFv3f) | [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW), [Kandace Lindsey](https://open.spotify.com/artist/6UOqGECOrz2Whn4I24CO8E) | [O Mundo Dá Voltas](https://open.spotify.com/album/4pzQgSjcmHASfBc1lnTFjp) | 5:42 | 2025-01-19 |  |
+| [A Laje](https://open.spotify.com/track/0EXqaE8m9hSzNrO9h6Yepq) | [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW), [Kandace Lindsey](https://open.spotify.com/artist/6UOqGECOrz2Whn4I24CO8E) | [O Mundo Dá Voltas](https://open.spotify.com/album/1fmt1VeCfsXnQTVQ9CgY8y) | 5:42 | 2025-11-22 |  |
+| [A Laje](https://open.spotify.com/track/0MsX3PcYtQCNqzsAsOFv3f) | [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW), [Kandace Lindsey](https://open.spotify.com/artist/6UOqGECOrz2Whn4I24CO8E) | [O Mundo Dá Voltas](https://open.spotify.com/album/4pzQgSjcmHASfBc1lnTFjp) | 5:42 | 2025-01-19 | 2025-11-22 |
 | [A Ordem Natural das Coisas \(feat\. Mc Tha\)](https://open.spotify.com/track/7MK6sYlWniVj8D1mrAAIwb) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Mc Tha](https://open.spotify.com/artist/0fpg4Y7Q6ZRDSppLLt7G0n) | [AmarElo](https://open.spotify.com/album/5cUY5chmS86cdonhoFdn8h) | 3:55 | 2023-09-18 |  |
 | [A Ordem Natural das Coisas / Chiclete com Banana \- Ao Vivo](https://open.spotify.com/track/4G3kLyHp4335rXLzaoTmVu) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Mc Tha](https://open.spotify.com/artist/0fpg4Y7Q6ZRDSppLLt7G0n) | [AmarElo \- Ao Vivo](https://open.spotify.com/album/1OEj74ygMvQHFyypp3COpw) | 5:40 | 2023-09-18 |  |
 | [Acabou, mas tem...](https://open.spotify.com/track/5egpEMl7hYdmLP9ptpeE12) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Acabou, mas tem...](https://open.spotify.com/album/2qtqD1onYm68cn0KwhHJQ1) | 3:55 | 2024-03-01 | 2024-11-19 |

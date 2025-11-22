@@ -3070,7 +3070,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 367213,
       "name": "Photograph",
       "url": "https://open.spotify.com/track/0yKhFtDzzxV1t0VpM37uLp"
@@ -3660,6 +3660,24 @@
       "duration_ms": 182508,
       "name": "The Way You Look Tonight",
       "url": "https://open.spotify.com/track/4YzVZ67bjyhs1BylmBZDzx"
+    },
+    {
+      "album": {
+        "name": "The Way You Look Tonight",
+        "url": "https://open.spotify.com/album/1B8Bkp1UJRujLSDOoNL5xs"
+      },
+      "artists": [
+        {
+          "name": "Richard Marx",
+          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211800,
+      "name": "The Way You Look Tonight",
+      "url": "https://open.spotify.com/track/0WJJ9OCU44CoDxs0pE6EBL"
     },
     {
       "album": {

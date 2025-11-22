@@ -2,9 +2,9 @@
 
 ### [RAP 91](https://open.spotify.com/playlist/37i9dQZF1DX1ct2TQrAvRf)
 
-> India's Rap Scene\. Cover \- Dhanda Nyoliwala
+> India's Rap Scene\. Cover \- DIVINE
 
-355 songs - 19 hr 7 min
+356 songs - 19 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,7 +185,7 @@
 | [KODAK](https://open.spotify.com/track/3e1g159cSgose2jHQj9uzd) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo) | [KODAK](https://open.spotify.com/album/3PzVNvVBZ8MnyGyWl2A3CC) | 6:03 | 2024-07-08 | 2025-05-17 |
 | [Kohinoor](https://open.spotify.com/track/6SNFuJXjkgauo3Kg9XJcj6) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Kohinoor](https://open.spotify.com/album/47prNGpfOQnYYf5mIKaGNL) | 3:18 | 2023-03-27 | 2023-09-02 |
 | [Koi Nahi Puchta](https://open.spotify.com/track/08y3eOkOpfQ9VE49XMDBiz) | [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu), [Sammohit](https://open.spotify.com/artist/0cWoBv3cKhNM18FbRFy2x2), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Robin Hood](https://open.spotify.com/album/6sVYed41ypnAPwcoHOXzWu) | 3:45 | 2023-10-26 | 2024-02-16 |
-| [Kosty](https://open.spotify.com/track/1GT7xRwjq1rnWJSX1AVgk7) | [Ratty Adhiththan](https://open.spotify.com/artist/06qlB4GYIEJsYDEh6yhTuF), [King Mohan](https://open.spotify.com/artist/3kFxhNte8FZFPTRegrk2Tg), [Anjali Kanthan](https://open.spotify.com/artist/1L9EtsOddN8qSLf8suY3rE) | [Kosty](https://open.spotify.com/album/2FkNKoWdSniSBSOBLJwoHd) | 4:38 | 2025-11-07 |  |
+| [Kosty](https://open.spotify.com/track/1GT7xRwjq1rnWJSX1AVgk7) | [Ratty Adhiththan](https://open.spotify.com/artist/06qlB4GYIEJsYDEh6yhTuF), [King Mohan](https://open.spotify.com/artist/3kFxhNte8FZFPTRegrk2Tg), [Anjali Kanthan](https://open.spotify.com/artist/1L9EtsOddN8qSLf8suY3rE) | [Kosty](https://open.spotify.com/album/2FkNKoWdSniSBSOBLJwoHd) | 4:38 | 2025-11-07 | 2025-11-22 |
 | [Krantinaari](https://open.spotify.com/track/7g8Tz72jAN2IdrZs7q13zG) | [Krantinaari](https://open.spotify.com/artist/6Tu5CwG6fBnZqlH5jac6XP), [RaaKshaS Sound](https://open.spotify.com/artist/5UvJGAboUH4MluIk0o5CS0) | [Krantinaari](https://open.spotify.com/album/1pV4OORNDkksKLH5M8cmHG) | 2:34 | 2023-10-26 | 2023-11-30 |
 | [Kudi](https://open.spotify.com/track/0oRcVOYsdFICJsH5FD9Rj5) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I), [Swaalina](https://open.spotify.com/artist/2mIcM14FamHYPzBbHRIsPE) | [Kudi](https://open.spotify.com/album/73ATQ9LpJkVKtUDTyZ9aob) | 3:10 | 2023-08-03 | 2024-02-16 |
 | [Kya Bolti Public](https://open.spotify.com/track/5pbabJiM6eIIm1x3pWBnbl) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I), [Young Galib](https://open.spotify.com/artist/7oSaiYIWj9u22z7afFZc5o) | [Kya Bolti Public](https://open.spotify.com/album/3C6F1TyvCL67WNnYLNlzvK) | 2:24 | 2023-05-08 | 2023-08-18 |
@@ -361,6 +361,7 @@
 | [Yadav Brand 2](https://open.spotify.com/track/1AMD2AkfGrKoKhwkvYLbza) | [Sunny Yaduvanshi](https://open.spotify.com/artist/07XZWWsqwn2QshmfoYzKIU), [AK Rok](https://open.spotify.com/artist/3npIyKDl6aWfQPCIEU8RjY), [Nitesh Ujoli](https://open.spotify.com/artist/2k4fHTIWakuc1WSIV0owMZ) | [Yadav Brand 2](https://open.spotify.com/album/7ee5PlfgmGyU70CdxftTV2) | 2:54 | 2023-11-20 | 2024-04-19 |
 | [Yadav Brand 2](https://open.spotify.com/track/4JvziZ2kQsbzfvRQtpYfmJ) | [Sunny Yaduvanshi](https://open.spotify.com/artist/07XZWWsqwn2QshmfoYzKIU), [AK Rok](https://open.spotify.com/artist/3npIyKDl6aWfQPCIEU8RjY), [Nitesh Ujoli](https://open.spotify.com/artist/2k4fHTIWakuc1WSIV0owMZ) | [Yadav Brand 2](https://open.spotify.com/album/3pRiXGIvpgNrMQmK6AgJ3c) | 2:54 | 2023-10-03 | 2024-10-10 |
 | [YEDA YUNG](https://open.spotify.com/track/7n5QRJlaXL5a3LCjOwsdcs) | [YUNG DSA](https://open.spotify.com/artist/5e8gOu2fk8b1txcXWlX1Pl), [Year Down](https://open.spotify.com/artist/4vIfkn8fo2rtRIBJi9fdku) | [YEDA YUNG](https://open.spotify.com/album/2iCtI3xT8CcPyiyEuVIR2h) | 2:39 | 2025-01-31 |  |
+| [You & I](https://open.spotify.com/track/1UhwJHL94SwSZk9jUsleHF) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [You & I](https://open.spotify.com/album/68ld620Tx7IlPXWRnVn2al) | 3:31 | 2025-11-21 |  |
 | [Zero After Zero](https://open.spotify.com/track/6mhopOuZqV3ujE7oQ9T1tM) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Talay Riley](https://open.spotify.com/artist/5Yh3qHDUeUiyQqn1jmNhT1) | [KARAM](https://open.spotify.com/album/6lmjyMZTJmkJuQrXo79HM1) | 2:54 | 2023-11-20 | 2024-01-10 |
 | [മിന്നി മറഞ്ഞു](https://open.spotify.com/track/4A1T3FWBYEi5XQ8eLv9rFs) | [SA](https://open.spotify.com/artist/3eaS0SB97IZ1TVFv4XiTdm), [AZWIN](https://open.spotify.com/artist/79AwAZkhxUkl7fsIrYcdE8), [Efy Music](https://open.spotify.com/artist/1DDwkZwiamO6HSJdB6DtYY) | [GATE](https://open.spotify.com/album/76aZGm2avDSL6BrJwsjuNi) | 2:57 | 2025-08-29 | 2025-10-15 |
 

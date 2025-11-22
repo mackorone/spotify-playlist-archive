@@ -4,7 +4,7 @@
 
 > Stray Kids everywhere all around the world\. You make Stray Kids STAY.
 
-378 songs - 20 hr 23 min
+383 songs - 20 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,9 +112,12 @@
 | [Destiny](https://open.spotify.com/track/0eIk5JEHEkVcVrIObqd63v) | [Seungmin](https://open.spotify.com/artist/2nTtulf6WM0raQcIbzYJuf) | [The Midnight Studio, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/11HLUtaEqoPdgVQFwVdCQA) | 4:12 | 2024-04-09 |  |
 | [District 9](https://open.spotify.com/track/430IfeGHWJxnZOkhBYACt9) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2020](https://open.spotify.com/album/6QIWJVJPPgAA5c4aIb1zCA) | 3:33 | 2022-03-18 | 2024-04-19 |
 | [District 9](https://open.spotify.com/track/58XXaW1pFAiXZRouc7ulaJ) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2020](https://open.spotify.com/album/4hk05fFLNquJc8w5htXZDi) | 3:33 | 2022-03-18 |  |
+| [DIVINE](https://open.spotify.com/track/15nElWknZsgnSIfVihVCQf) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [DO IT](https://open.spotify.com/album/4lkJ6i3LDK8HvcU2tPWX9k) | 3:07 | 2025-11-21 |  |
 | [DLC](https://open.spotify.com/track/4C2jrNeDjZj1XLSct7dqXO) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [5\-STAR](https://open.spotify.com/album/6kI8Ji0ivWkfRBOHBV7agS) | 3:06 | 2023-11-10 |  |
 | [DLC](https://open.spotify.com/track/6dyXogYZZ45wBgRY1Wq3P1) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [5\-STAR](https://open.spotify.com/album/3Pel3gWsPxVpZVrciU0Fm6) | 3:06 | 2023-06-02 | 2024-04-19 |
 | [DLMLU](https://open.spotify.com/track/6e7SWgyx1EsEHmdDlsrbth) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [THE SOUND](https://open.spotify.com/album/4ZW5rXkLINHYqH2MIAhkP2) | 3:14 | 2023-02-21 |  |
+| [Do It](https://open.spotify.com/track/1KuNhOubescxn3xD6WNI7Q) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [DO IT](https://open.spotify.com/album/4lkJ6i3LDK8HvcU2tPWX9k) | 2:39 | 2025-11-21 |  |
+| [Do It \(Festival Version\)](https://open.spotify.com/track/7vwFOQvRCg2bTwE7eO9e7l) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [DO IT](https://open.spotify.com/album/4lkJ6i3LDK8HvcU2tPWX9k) | 2:27 | 2025-11-21 |  |
 | [DOMINO](https://open.spotify.com/track/6Ib6RkvLBMD85bov85apSL) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [NOEASY](https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj) | 3:18 | 2022-03-18 | 2024-04-19 |
 | [DOMINO](https://open.spotify.com/track/6h9xMouzZfgzhfAJJnVoZz) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [NOEASY](https://open.spotify.com/album/5fNA1Hs2ddXrf8CWJk1Ww7) | 3:18 | 2022-03-18 |  |
 | [DOMINO \(English Ver.\)](https://open.spotify.com/track/0b9YBfAcbnhVDUFmsfpDFj) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Christmas EveL](https://open.spotify.com/album/1qVuQI0WRn2Mczbdxx54Ih) | 3:18 | 2022-03-18 | 2024-04-19 |
@@ -170,6 +173,7 @@
 | [Here Always](https://open.spotify.com/track/2WdnAdw7zpgU0FRkGiRV8n) | [Seungmin](https://open.spotify.com/artist/2nTtulf6WM0raQcIbzYJuf) | [Hometown Cha\-Cha\-Cha, Pt\. 7 \(Original Television Soundtrack\)](https://open.spotify.com/album/1XQ5HDkh5xYjyQZl9sQfhc) | 4:14 | 2022-03-18 |  |
 | [HEYDAY \(Prod\. Czaer\)](https://open.spotify.com/track/35sE2Ehvd1GzBzAIC0zFIu) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Street Man Fighter Original Vol.4 \(Crew Songs\)](https://open.spotify.com/album/7dwRGP1A80POqE3O9At5Vw) | 2:24 | 2022-09-22 |  |
 | [Hold my hand \(HAN\)](https://open.spotify.com/track/0Ohk9Dc52UeGMoX67Mzj1T) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [HOP](https://open.spotify.com/album/7dqL6gtJSFwzRG4M361mTH) | 2:59 | 2024-12-13 |  |
+| [Holiday](https://open.spotify.com/track/7FXKNJyVAbN3l72GHePFqu) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [DO IT](https://open.spotify.com/album/4lkJ6i3LDK8HvcU2tPWX9k) | 3:07 | 2025-11-21 |  |
 | [Hollow](https://open.spotify.com/track/1IVOj2i97YVW77n7zcbkMG) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Hollow](https://open.spotify.com/album/1svjQkv3NdVImDoBcuy4gs) | 3:27 | 2025-06-10 |  |
 | [Hoodie Season](https://open.spotify.com/track/1QpB7Lk986qwjOBiZbLSxP) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2021](https://open.spotify.com/album/3sMj0uu8dKNRnyqQozC1Xv) | 3:54 | 2022-03-18 | 2024-04-19 |
 | [Hoodie Season](https://open.spotify.com/track/2A9f341bPHEwb4Cw7WNlMJ) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2021](https://open.spotify.com/album/3fFV6XeOkB9gGgMmZUij5e) | 3:54 | 2022-03-18 |  |
@@ -260,6 +264,7 @@
 | [Phobia](https://open.spotify.com/track/1KC5Y3kIiHvEDdinY0OcRL) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo) | 3:32 | 2022-03-18 | 2024-04-19 |
 | [Phobia](https://open.spotify.com/track/6m8vPz16wTojmAnVgdWtls) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/7B3Rmyws1KcAxQfYPoInEZ) | 3:32 | 2022-03-18 |  |
 | [Phoenix](https://open.spotify.com/track/3yLOy7bjC1dDeOh4MArkq8) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [KARMA](https://open.spotify.com/album/3wqskwruUGJHC4yHbo7nxc) | 3:02 | 2025-08-22 |  |
+| [Photobook](https://open.spotify.com/track/0iCvvemieCyzNOD2xNzjil) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [DO IT](https://open.spotify.com/album/4lkJ6i3LDK8HvcU2tPWX9k) | 2:53 | 2025-11-21 |  |
 | [Piece of a Puzzle \(Changbin, Seungmin\)](https://open.spotify.com/track/56uBQujWiOiFMFg1R3TZUJ) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [Changbin](https://open.spotify.com/artist/3XSid6KaiKoMAVZs2ug3yw), [Seungmin](https://open.spotify.com/artist/2nTtulf6WM0raQcIbzYJuf) | [SKZ\-REPLAY](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) | 2:53 | 2022-12-21 |  |
 | [Placebo](https://open.spotify.com/track/0I7YEuT1gfVfNmUEDqoRs0) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2021](https://open.spotify.com/album/3fFV6XeOkB9gGgMmZUij5e) | 3:54 | 2022-03-18 |  |
 | [Placebo](https://open.spotify.com/track/62x6J6Mfom0h7J509dvusH) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2021](https://open.spotify.com/album/3sMj0uu8dKNRnyqQozC1Xv) | 3:54 | 2022-03-18 | 2024-04-19 |

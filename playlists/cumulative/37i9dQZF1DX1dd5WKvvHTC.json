@@ -131,6 +131,28 @@
     },
     {
       "album": {
+        "name": "4UREYESONLY",
+        "url": "https://open.spotify.com/album/3W3YlgHHgq0idqib6soAZF"
+      },
+      "artists": [
+        {
+          "name": "Babe America",
+          "url": "https://open.spotify.com/artist/5oPCa0GsQjPlRdOdFRoY6Z"
+        },
+        {
+          "name": "Max Pedra",
+          "url": "https://open.spotify.com/artist/1DaU7Ttxqvu1v0Ue3vIeaW"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129204,
+      "name": "4UREYESONLY",
+      "url": "https://open.spotify.com/track/7ItCPQmu6D0xyJpGyruuqL"
+    },
+    {
+      "album": {
         "name": "911",
         "url": "https://open.spotify.com/album/0prR2MAykHTFdV5rBP6uBV"
       },

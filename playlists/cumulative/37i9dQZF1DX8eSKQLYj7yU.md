@@ -4,7 +4,7 @@
 
 > Bluegrass fit for the holiday season
 
-113 songs - 6 hr 1 min
+115 songs - 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Rudolph The Red Nosed Reindeer](https://open.spotify.com/track/3W5VSy3fRnTcLOa0V0NjO7) | [Lynn Morris](https://open.spotify.com/artist/7vD9rjp3K0HANh5svUmjh9) | [O Christmas Tree \- A Bluegrass Collection For The Holidays](https://open.spotify.com/album/1LhRByIwi3SBcTyTY9NYLm) | 2:48 | 2024-11-29 |  |
 | [Santa Ain't A Cowboy](https://open.spotify.com/track/0vNT0zGXZIXnEmSCeEzjvA) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Santa Ain't A Cowboy](https://open.spotify.com/album/3ZtWWM1Qj0tk2vA76oWwUl) | 3:40 | 2024-11-29 |  |
 | [Santa Ate A Gummy](https://open.spotify.com/track/2A4bYyqfIf18pTnH1kuc0o) | [Tim O'Brien](https://open.spotify.com/artist/2nJQCVut36kUzDfy3eUZCM), [Ben Winship](https://open.spotify.com/artist/3PFkSTmiB4O0a9S7bHOwOm) | [Santa Ate A Gummy](https://open.spotify.com/album/1LwUtePw8lWwh8jhiW8ghU) | 3:21 | 2024-11-29 |  |
+| [Santa Claus is Coming to Town](https://open.spotify.com/track/22oecvfdnyThtIYtFlnByr) | [The Kody Norris Show](https://open.spotify.com/artist/0l64ISwwNK0l6H3R1bwRha) | [Santa Claus is Coming to Town](https://open.spotify.com/album/1GFfiuYtbgGRtegkxuhoqZ) | 2:21 | 2025-11-21 |  |
 | [Silent Night](https://open.spotify.com/track/3AbeQHfMjichbfBlKSET1E) | [Jason Broyles](https://open.spotify.com/artist/0biQlMnxfmZJbIU8COQyrp) | [Silent Night](https://open.spotify.com/album/0iRT99MQkoiRsfI8jHL4qN) | 4:16 | 2024-11-29 |  |
 | [Silent Night](https://open.spotify.com/track/5iRUcNjW4JwOWHkvwwWmCw) | [The Seldom Scene](https://open.spotify.com/artist/2oxmEjNo7UXIiZi7X7ovGq) | [Sugar Plums \- Holiday Treats From Sugar Hill](https://open.spotify.com/album/0KnU67yUxf5aMFaUbg2iyr) | 3:05 | 2024-11-29 |  |
 | [Silver Bells](https://open.spotify.com/track/1FOWovx26AjwVoT90MtVVD) | [The Petersens](https://open.spotify.com/artist/4w24LztUUIkgw11zx3KrQx) | [We Don't Need Anything This Year](https://open.spotify.com/album/5lg3pk6wZv6G5nK2vIAf1W) | 3:46 | 2024-11-29 |  |
@@ -101,6 +102,7 @@
 | [The Box](https://open.spotify.com/track/5fkk2GgQKrRk8x35ER4W9m) | [Becky Buller](https://open.spotify.com/artist/51GVpccMzO5rZqCEaePGBv) | [The Christmas 45, Vol\. 2](https://open.spotify.com/album/5qoQle0mbkac002Ji2KDe2) | 3:36 | 2024-11-29 |  |
 | [The Christmas Cookies](https://open.spotify.com/track/3k6olBZYNvFs6SuSH0RlLh) | [Greg Blake](https://open.spotify.com/artist/4f2gzMqgQ6EWMt5Zl29igY) | [People, Places and Songs](https://open.spotify.com/album/30atZpJN1MJAsw1rwA4TFS) | 3:04 | 2024-11-29 |  |
 | [The Christmas Medley](https://open.spotify.com/track/0hNwLoudMLnR3It8zehcP8) | [Tony Trischka](https://open.spotify.com/artist/1NjpWti9GnUtjjC2XV7UJK) | [The Christmas Medley](https://open.spotify.com/album/0DayQQKJP6ZUKbrwx1ZzwL) | 2:32 | 2024-11-29 |  |
+| [The First Noel](https://open.spotify.com/track/24QCJuqjDR0DmVSZPGOXsh) | [Mark O'Connor](https://open.spotify.com/artist/5zfaMrd5q4szVTxVYWuoDV), [Maggie O'Connor](https://open.spotify.com/artist/4Q8UgP0qdFTSIKJLfwmqCH) | [A Christmas Duo](https://open.spotify.com/album/1tI35OZ9XNPiL0Pec46adV) | 4:20 | 2025-11-21 |  |
 | [The First Noel](https://open.spotify.com/track/0EIdv3lXXviQaqiU8WjqnA) | [Patty Loveless](https://open.spotify.com/artist/6SFUC6ORDCIBqPssCBpeHT) | [Bluegrass & White Snow, A Mountain Christmas](https://open.spotify.com/album/5lZFICo1VSjasmXnnVdq6p) | 2:17 | 2024-11-29 |  |
 | [The First Noel / It Came Upon A Midnight Clear / Joy To The World \- Medley](https://open.spotify.com/track/3us7sMDSns0Td2DQqCD4RN) | [Doyle Lawson](https://open.spotify.com/artist/53ODrbz9dJiAZ6ikXa8l3F), [Quicksilver](https://open.spotify.com/artist/3uVTvREnqHEJgmZDJga3yF) | [Sugar Plums \- Holiday Treats From Sugar Hill](https://open.spotify.com/album/0KnU67yUxf5aMFaUbg2iyr) | 3:01 | 2024-11-29 |  |
 | [The First Noel/Joy to the World](https://open.spotify.com/track/1q2aFAQzzSVkBgTwNCrgSS) | [Béla Fleck and the Flecktones](https://open.spotify.com/artist/5Zmur9D9gpr6tXyDrpnbOe) | [The First Noel/Joy to the World](https://open.spotify.com/album/2K3jKAaydN9YniJbhIlrUw) | 2:35 | 2025-10-24 |  |

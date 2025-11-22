@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6i7txhF59QA.md) - [plain]
 
 ### [K\-트롯 스타 \(K\-Trot Stars\)](https://open.spotify.com/playlist/37i9dQZF1DX6i7txhF59QA)
 
-> 신나는 트로트 멜로디를 즐겨보세요! \(커버: 이찬원 \(Lee Chanwon\)\)<br/>Let's party with cheerful Korean trot medley.
+> 신나는 트로트 멜로디를 즐겨보세요! \(커버: 손태진 \(Son Tae Jin\)\)<br/>Let's party with cheerful Korean trot medley.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,725 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,742 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6i7txhF59QA.md) - [plain]
 | 49 | [My destiny](https://open.spotify.com/track/0ci6T7twNoDBeORJ73Ijpg) | [Rayongsoo](https://open.spotify.com/artist/42pusBcc62k72ey1xVylXx) | [My destiny](https://open.spotify.com/album/6QfVT55p5YdiP6xaTB0J1k) | 3:00 |
 | 50 | [You know my name.](https://open.spotify.com/track/4yAQHHovFyOgA3gdX21joV) | [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Drama](https://open.spotify.com/album/5hpSrG3EM6R71oRuoVcc7B) | 3:34 |
 
-Snapshot ID: `AAAAAMeirsq5CL0cU5Cv/+Tzgc1ldxNZ`
+Snapshot ID: `AAAAACGF/sTYO3daS9UKBDVSAub6DDBm`

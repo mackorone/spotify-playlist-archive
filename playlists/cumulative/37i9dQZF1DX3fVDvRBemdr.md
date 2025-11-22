@@ -2,9 +2,9 @@
 
 ### [Liever Hollands](https://open.spotify.com/playlist/37i9dQZF1DX3fVDvRBemdr)
 
-> Wekelijkse update met Hollands en Volkspop\. Cover: Henk Damen
+> Rust zacht Rene ❤️
 
-482 songs - 23 hr 19 min
+485 songs - 23 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Altijd Vrijgezel](https://open.spotify.com/track/3AbyKaiTknW5Db0wpens5Y) | [Gerard Joling](https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG) | [Altijd Vrijgezel](https://open.spotify.com/album/4OgdH30iQ4Bh2mBNNgiyFM) | 3:14 | 2025-04-22 | 2025-08-29 |
 | [Amore Bella Ciao](https://open.spotify.com/track/34oy1xCk9xxTA3ZSsLBB4n) | [Bart Muller](https://open.spotify.com/artist/36cW6qZy0y78QUYGUXwAa0) | [Amore Bella Ciao](https://open.spotify.com/album/6tbso4EAEJ81shffvgFtIw) | 2:39 | 2025-09-11 |  |
 | [Angelina](https://open.spotify.com/track/05AVFzPtFgvDoEVDBoSifN) | [Rinus Werrens](https://open.spotify.com/artist/7wJCnEGuQhs6vvj9vLn4KU) | [Angelina](https://open.spotify.com/album/4Qec40S0raFaGWTY30j8pl) | 3:26 | 2024-09-05 | 2024-10-25 |
+| [Atje Voor De Sfeer](https://open.spotify.com/track/2dTS7TKUmvGNRQoq0mzlZC) | [Rene Karst](https://open.spotify.com/artist/3upXQVqKZlTKRES3LQ9VjO) | [Atje Voor De Sfeer \- En Andere Sfeermakers](https://open.spotify.com/album/2DY0nKAYHOsQZrg6LlylHo) | 3:18 | 2025-11-21 |  |
 | [Au Revoir \(Het Is Klaar\)](https://open.spotify.com/track/6Kn5izs39jLiPV09wVWBjH) | [Zanger Alex](https://open.spotify.com/artist/7dX46liQvHKgYXekJTB2lO) | [Au Revoir \(Het Is Klaar\)](https://open.spotify.com/album/54xCMnK0qi4YR9hI3u7v4h) | 2:49 | 2025-10-02 | 2025-11-07 |
 | [Avond 2.0](https://open.spotify.com/track/0UPpBlT845lAeL3shnNL0o) | [Martijn Stam](https://open.spotify.com/artist/08us5J8eRdUoGifsSIOMa1) | [Avond 2.0](https://open.spotify.com/album/0BVSguaWW08ymbT39URufK) | 3:27 | 2025-09-04 |  |
 | [Bandolero](https://open.spotify.com/track/5k9CrZ3aW3JqvA1XuUiEWW) | [Vinzzent](https://open.spotify.com/artist/3fUb97KMK2mirr4PQrYKVX) | [Bandolero](https://open.spotify.com/album/6EH4sQTdM1gyew6f3oWDr4) | 3:05 | 2025-01-06 | 2025-03-21 |
@@ -86,6 +87,7 @@
 | [Dans Met Mij De Sirtaki](https://open.spotify.com/track/5lS5D2nJr4yvVtU1SkmFpE) | [Dennis van Dam](https://open.spotify.com/artist/4raBuWSzk2K1qAnymk7Ypz) | [Dans Met Mij De Sirtaki](https://open.spotify.com/album/5qgYQ8ZC6X3XFamZ9w864e) | 2:45 | 2025-08-28 | 2025-11-14 |
 | [Dansen Met De Duivel](https://open.spotify.com/track/5K6hIAGtjKkleBDLgLK4Yz) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9) | [Dansen Met De Duivel](https://open.spotify.com/album/6JD2quoltCcUcemaonqNWT) | 2:26 | 2025-10-09 |  |
 | [Dansend Op Die Melodie](https://open.spotify.com/track/4keARjEt9p4Y2Cst04f19Y) | [Mike Peterson](https://open.spotify.com/artist/4mxrXHWDcP8CifQMVEgY3E), [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE) | [Dansend Op Die Melodie](https://open.spotify.com/album/3nDvmiAgon6g46Xwm0oTJb) | 2:39 | 2025-05-29 | 2025-09-26 |
+| [Dat Interesseert Me Echt Geen Ene Reet](https://open.spotify.com/track/33t7KE2dajWjtLvduWL04V) | [Rene Karst](https://open.spotify.com/artist/3upXQVqKZlTKRES3LQ9VjO) | [Dat Interesseert Me Echt Geen Ene Reet](https://open.spotify.com/album/3OhugkmPHPppqXSjBIIU54) | 2:43 | 2025-11-21 |  |
 | [De Allermooiste](https://open.spotify.com/track/01lqoCqUtguPLnllvPajYY) | [Jan Booi](https://open.spotify.com/artist/00fofzfMay7uoCG6Aliw8p), [Spang!](https://open.spotify.com/artist/5RZqQNSyHP9Iovw5jC8S5r) | [De Allermooiste](https://open.spotify.com/album/2gTR8IpzUP2BGaiK7pzxv2) | 2:21 | 2024-08-01 | 2025-01-29 |
 | [De Bon Is Van Mij](https://open.spotify.com/track/5H6tJM9ZWBGxp2DkVuRFvY) | [Gerrit Schneider](https://open.spotify.com/artist/1fXCIvVgz0o3gymfRpSz6u) | [De Bon Is Van Mij](https://open.spotify.com/album/0GSCRfKg3ILfgpBloMDBe1) | 2:55 | 2025-10-09 |  |
 | [De Chinees](https://open.spotify.com/track/1vgA7zW12S9XuurE8kOGbL) | [Frans Bauer](https://open.spotify.com/artist/0v4CvkMzWBQ1wZIMl2BqQW) | [De Chinees](https://open.spotify.com/album/4gUzxpRYQCdBIippPc76Bd) | 3:01 | 2024-08-29 | 2025-02-04 |
@@ -289,6 +291,7 @@
 | [Liefde In De Nacht](https://open.spotify.com/track/29Oq2JIEG7Ma3mH82ELwes) | [Gerard Joling](https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW), [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj) | [Liefde In De Nacht](https://open.spotify.com/album/2TViVZDnRWKWvjYq8atIt6) | 2:35 | 2025-10-23 |  |
 | [Liefde Op Het Eerste Gezicht](https://open.spotify.com/track/4oUOh1y25ig9G3iTfM1DTt) | [Delano Duncker](https://open.spotify.com/artist/0x1eqIicXXo77uqFTHSrCv) | [Liefde Op Het Eerste Gezicht](https://open.spotify.com/album/3khHb7dYnkW26H3NzR84dE) | 2:19 | 2025-07-10 | 2025-11-14 |
 | [Liever Alleen](https://open.spotify.com/track/29kNwlLZHf8iKfxJS0O29s) | [Dave Dekker](https://open.spotify.com/artist/56M6joy09OXF448uVNKZ04) | [Liever Alleen](https://open.spotify.com/album/28ya0RiKOrcOhtBVGkKRKE) | 2:23 | 2025-04-11 | 2025-06-13 |
+| [Liever Te Dik In De Kist](https://open.spotify.com/track/2rKFSvEBn6lPmkrCKeXUQq) | [Rene Karst](https://open.spotify.com/artist/3upXQVqKZlTKRES3LQ9VjO), [Stef Ekkel](https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm) | [Atje Voor De Sfeer \- En Andere Sfeermakers](https://open.spotify.com/album/6PujTxjH2gjAtGXiKZMW82) | 3:55 | 2025-11-21 |  |
 | [Limbo \(feat\. Lange Frans\)](https://open.spotify.com/track/6k0nST5Ww3yvZhQWBJquH0) | [Stef Horn](https://open.spotify.com/artist/4cXq4XlhzpOmp4hOZ4wXUi), [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE) | [Limbo \(feat\. Lange Frans\)](https://open.spotify.com/album/59zlubTTdweZ1nD8oxuKx6) | 2:35 | 2024-07-04 | 2024-10-25 |
 | [Limoncello](https://open.spotify.com/track/0ObdDZRiwNKcWlxyvjCxfg) | [Robert Leroy](https://open.spotify.com/artist/0WZ8giQmGRC1E1qFVz4c2a) | [Limoncello](https://open.spotify.com/album/5vLJNzOR9jMAsIGDMtPGo3) | 3:14 | 2025-09-18 |  |
 | [Losse Pols](https://open.spotify.com/track/3dWSdaGd1XkB3J6xxsr8Zu) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ), [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR) | [Losse Pols](https://open.spotify.com/album/20qZLdxkV8zZciN7zv4QZa) | 2:38 | 2024-12-12 | 2025-04-18 |

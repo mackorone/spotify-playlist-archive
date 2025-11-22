@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: JUSTHIS\)
 
-1,694 songs - 3 day 18 hr 33 min
+1,695 songs - 3 day 18 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1545,6 +1545,7 @@
 | [Waiting For The Food \(Feat\. Minyoung\)](https://open.spotify.com/track/4AfL5CEbV15dr9nyEzdbj4) | [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR), [Minyoung](https://open.spotify.com/artist/0gU1NkYObAFL1pPgubu0IG) | [K\-XY : INFP](https://open.spotify.com/album/2wnWRNfQin1JbNKLvFVOxp) | 3:05 | 2023-09-07 | 2024-01-24 |
 | [Waiting For You \(feat\. Jay Park\)](https://open.spotify.com/track/0nC94WBww2j23UVqWCIq12) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Pressure Makes Diamonds](https://open.spotify.com/album/0eT8WtiDIRVOzHuYWVpEnc) | 3:02 | 2023-02-23 | 2023-03-07 |
 | [Wake Me Up \(Feat\. Meego\)](https://open.spotify.com/track/2nWaeTFKL8JcVfpPBkfsho) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Meego](https://open.spotify.com/artist/1a09srXkFLTxDTfQRGRpNy) | [Unicorn \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/1ikJMpMSCQfQg0ZopQSBVZ) | 3:24 | 2022-09-02 | 2022-12-10 |
+| [WAKE UP \(Feat\. CHAEYOUNG\)](https://open.spotify.com/track/1pcgk6NU0pKKJDLzRcjxph) | [sokodomo](https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ), [CHAEYOUNG](https://open.spotify.com/artist/0qtqWLjAkheu9MaVCQ3FXa) | [SCORPIO000\-^](https://open.spotify.com/album/7LfaWJGHbqMxIcXRwMx4Bh) | 2:44 | 2025-11-21 |  |
 | [Wake Up \(Prod\. CODE KUNST\)](https://open.spotify.com/track/3ijq6sRH7PgRabMb83VvQO) | [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [Ourealgoat](https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1), [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616), [Ahn byeong woong](https://open.spotify.com/artist/6cJ883ebXg0pWAwlzMcBxe), [Tabber](https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU), [Gwangil Jo](https://open.spotify.com/artist/49cCO8Hy5heGnXj9hb6KEW) | [Show Me The Money 10 Episode 1](https://open.spotify.com/album/57an88yn23zGQ4rmor7tkX) | 6:10 | 2021-12-18 | 2022-07-08 |
 | [Walk](https://open.spotify.com/track/1DLRADcDkzhnTTAxyo5AXn) | [GongGongGoo009](https://open.spotify.com/artist/1xI51JmMVnw1XVCPeA4eiY) | [UU](https://open.spotify.com/album/0HJYPPI7xfr7qNcmmZhxp1) | 3:44 | 2022-04-01 | 2022-06-27 |
 | [Walk](https://open.spotify.com/track/78ZYPq0f3afyzdYdpTOG9C) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [WALK \- The 6th Album](https://open.spotify.com/album/1iep1fjubMic2G5ItHxwpb) | 3:11 | 2024-07-26 | 2024-11-07 |

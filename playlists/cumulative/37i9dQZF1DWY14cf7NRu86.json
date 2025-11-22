@@ -485,6 +485,24 @@
     },
     {
       "album": {
+        "name": "\u2018Tis The Season",
+        "url": "https://open.spotify.com/album/4cGrDDYGaHxNUl6cY6hyR5"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225737,
+      "name": "Have Yourself A Merry Little Christmas",
+      "url": "https://open.spotify.com/track/1uUdMnzqpeKe5OIbjO6a1k"
+    },
+    {
+      "album": {
         "name": "Have Yourself a Merry Little Christmas",
         "url": "https://open.spotify.com/album/3eEeXbemnjgvuGoDbHndIu"
       },
@@ -536,6 +554,28 @@
       "duration_ms": 200786,
       "name": "Have Yourself a Merry Little Christmas - radio",
       "url": "https://open.spotify.com/track/45uiyrjQZ4DLRqFLWy2qUU"
+    },
+    {
+      "album": {
+        "name": "I Heard The Bells On Christmas Day",
+        "url": "https://open.spotify.com/album/27T4DuazHSM93DpAMwsmSv"
+      },
+      "artists": [
+        {
+          "name": "Eric Knight",
+          "url": "https://open.spotify.com/artist/2svTV60bdf6SzTFkOfJT0W"
+        },
+        {
+          "name": "Steve Oliver",
+          "url": "https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244103,
+      "name": "I Heard The Bells On Christmas Day",
+      "url": "https://open.spotify.com/track/51pYdjXl2B42lABV16yJTh"
     },
     {
       "album": {

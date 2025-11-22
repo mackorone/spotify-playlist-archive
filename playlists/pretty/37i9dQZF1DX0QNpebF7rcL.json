@@ -1,13 +1,29 @@
 {
   "description": "The best in blues right now. Cover: Robert Finley",
-  "num_followers": 142196,
+  "num_followers": 142215,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA+HvN0nVuJ1NUsbxbE7t6Jfnl3n",
+  "snapshot_id": "AAAAAMrH698Nm2T0t5gl8q31nCRiGceQ",
   "tracks": [
+    {
+      "added_at": "2025-11-21 05:00:18",
+      "album": {
+        "name": "Driftin' And Driftin'",
+        "url": "https://open.spotify.com/album/0KfGr15FToeRzYayAlbF6y"
+      },
+      "artists": [
+        {
+          "name": "Solomon Hicks",
+          "url": "https://open.spotify.com/artist/6wOhfVrtGnmbLlgcAHSR1k"
+        }
+      ],
+      "duration_ms": 230687,
+      "name": "Driftin' And Driftin'",
+      "url": "https://open.spotify.com/track/407IbQLCqkrqTL1UcfYOFI"
+    },
     {
       "added_at": "2025-11-14 05:00:25",
       "album": {
@@ -227,22 +243,6 @@
       "duration_ms": 236533,
       "name": "S.S.S.",
       "url": "https://open.spotify.com/track/2aPJyhp0A0V3TSfPUr69OB"
-    },
-    {
-      "added_at": "2025-09-26 04:00:30",
-      "album": {
-        "name": "Further On Up The Road",
-        "url": "https://open.spotify.com/album/7yZVOOsYS2rZB9mowwb56x"
-      },
-      "artists": [
-        {
-          "name": "Solomon Hicks",
-          "url": "https://open.spotify.com/artist/6wOhfVrtGnmbLlgcAHSR1k"
-        }
-      ],
-      "duration_ms": 258791,
-      "name": "Further On Up The Road",
-      "url": "https://open.spotify.com/track/0D1CV2GEWYrtsV1MSagoFv"
     },
     {
       "added_at": "2025-09-26 04:00:30",

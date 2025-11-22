@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: Vivi\n",
-  "num_followers": 366910,
+  "num_followers": 366877,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -423,26 +423,6 @@
     {
       "added_at": "2025-11-07 03:00:07",
       "album": {
-        "name": "Onda",
-        "url": "https://open.spotify.com/album/4Ktc4ceQqsUuy5MAFu8Xva"
-      },
-      "artists": [
-        {
-          "name": "Rael",
-          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
-        },
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        }
-      ],
-      "duration_ms": 245714,
-      "name": "Meu I\u00f4 I\u00f4",
-      "url": "https://open.spotify.com/track/1f8i0jRzztHvZmzPT2cYhx"
-    },
-    {
-      "added_at": "2025-11-07 03:00:07",
-      "album": {
         "name": "Vivendo Demais",
         "url": "https://open.spotify.com/album/3fqIDsR6ZnMS87vX7NjrQ4"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 193685,
       "name": "Vivendo Demais",
       "url": "https://open.spotify.com/track/1IiqU7Bz5sEEuwAesXI6Ka"
+    },
+    {
+      "added_at": "2025-11-07 03:00:07",
+      "album": {
+        "name": "Onda",
+        "url": "https://open.spotify.com/album/4Ktc4ceQqsUuy5MAFu8Xva"
+      },
+      "artists": [
+        {
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+        },
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        }
+      ],
+      "duration_ms": 245714,
+      "name": "Meu I\u00f4 I\u00f4",
+      "url": "https://open.spotify.com/track/1f8i0jRzztHvZmzPT2cYhx"
     },
     {
       "added_at": "2025-11-07 03:00:07",
@@ -651,22 +651,6 @@
     {
       "added_at": "2025-11-07 03:00:07",
       "album": {
-        "name": "Eu Fim, Voc\u00ea In\u00edcio",
-        "url": "https://open.spotify.com/album/6uOITxCxU1sPEFXEqretXW"
-      },
-      "artists": [
-        {
-          "name": "Clarissa",
-          "url": "https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK"
-        }
-      ],
-      "duration_ms": 200735,
-      "name": "Eu Fim, Voc\u00ea In\u00edcio",
-      "url": "https://open.spotify.com/track/2IsynCtnYE5D7hizFfKwJt"
-    },
-    {
-      "added_at": "2025-11-07 03:00:07",
-      "album": {
         "name": "furta-cor",
         "url": "https://open.spotify.com/album/7qyluPOBlYd6xRLQBqjHgT"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 165000,
       "name": "furta-cor",
       "url": "https://open.spotify.com/track/28kKRjAddAbDwKgiZOlseB"
+    },
+    {
+      "added_at": "2025-11-07 03:00:07",
+      "album": {
+        "name": "Eu Fim, Voc\u00ea In\u00edcio",
+        "url": "https://open.spotify.com/album/6uOITxCxU1sPEFXEqretXW"
+      },
+      "artists": [
+        {
+          "name": "Clarissa",
+          "url": "https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK"
+        }
+      ],
+      "duration_ms": 200735,
+      "name": "Eu Fim, Voc\u00ea In\u00edcio",
+      "url": "https://open.spotify.com/track/2IsynCtnYE5D7hizFfKwJt"
     },
     {
       "added_at": "2025-11-07 03:00:07",
@@ -807,22 +807,6 @@
     {
       "added_at": "2025-11-07 03:00:07",
       "album": {
-        "name": "Deixa Molhar",
-        "url": "https://open.spotify.com/album/2RS2bespFSSmu2RQtn00at"
-      },
-      "artists": [
-        {
-          "name": "Rachel Reis",
-          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
-        }
-      ],
-      "duration_ms": 181278,
-      "name": "Deixa Molhar",
-      "url": "https://open.spotify.com/track/3xzwKkGHQp8USzDQtlnHQS"
-    },
-    {
-      "added_at": "2025-11-07 03:00:07",
-      "album": {
         "name": "Bem Bem",
         "url": "https://open.spotify.com/album/7Ey2ShRyp0ycPL1sAS8l3l"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 136089,
       "name": "Bem Bem",
       "url": "https://open.spotify.com/track/4NrrOkdXOKs1Wpwhr7iwQm"
+    },
+    {
+      "added_at": "2025-11-07 03:00:07",
+      "album": {
+        "name": "Deixa Molhar",
+        "url": "https://open.spotify.com/album/2RS2bespFSSmu2RQtn00at"
+      },
+      "artists": [
+        {
+          "name": "Rachel Reis",
+          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
+        }
+      ],
+      "duration_ms": 181278,
+      "name": "Deixa Molhar",
+      "url": "https://open.spotify.com/track/3xzwKkGHQp8USzDQtlnHQS"
     },
     {
       "added_at": "2025-11-07 03:00:07",
@@ -899,22 +899,6 @@
     {
       "added_at": "2025-11-07 03:00:07",
       "album": {
-        "name": "POR QUE VOC\u00ca FOI EMBORA?",
-        "url": "https://open.spotify.com/album/0FZtyjxOUzRaGfIQoWaFMr"
-      },
-      "artists": [
-        {
-          "name": "Nanasai",
-          "url": "https://open.spotify.com/artist/67PBrqP0nECUumF2AQ8G6S"
-        }
-      ],
-      "duration_ms": 219567,
-      "name": "POR QUE VOC\u00ca FOI EMBORA?",
-      "url": "https://open.spotify.com/track/5ZWbAgMbFbhApQlHVZOFMy"
-    },
-    {
-      "added_at": "2025-11-07 03:00:07",
-      "album": {
         "name": "na minha mente",
         "url": "https://open.spotify.com/album/37GoCoDgWWqsGUl0NAjSLx"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 132571,
       "name": "na minha mente",
       "url": "https://open.spotify.com/track/3d417Hpt0CvBjXhB1Gyh3u"
+    },
+    {
+      "added_at": "2025-11-07 03:00:07",
+      "album": {
+        "name": "POR QUE VOC\u00ca FOI EMBORA?",
+        "url": "https://open.spotify.com/album/0FZtyjxOUzRaGfIQoWaFMr"
+      },
+      "artists": [
+        {
+          "name": "Nanasai",
+          "url": "https://open.spotify.com/artist/67PBrqP0nECUumF2AQ8G6S"
+        }
+      ],
+      "duration_ms": 219567,
+      "name": "POR QUE VOC\u00ca FOI EMBORA?",
+      "url": "https://open.spotify.com/track/5ZWbAgMbFbhApQlHVZOFMy"
     },
     {
       "added_at": "2025-11-07 03:00:07",
@@ -975,6 +975,26 @@
     {
       "added_at": "2025-11-07 03:00:07",
       "album": {
+        "name": "Encontros",
+        "url": "https://open.spotify.com/album/1Tx3Eod9st8By5csSKETaj"
+      },
+      "artists": [
+        {
+          "name": "C.L",
+          "url": "https://open.spotify.com/artist/6w1Vg5lVWY3g8woAEz60uq"
+        },
+        {
+          "name": "Karol Fernandez",
+          "url": "https://open.spotify.com/artist/29QuZBNZlNEtU5CYyBlRZP"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Encontros",
+      "url": "https://open.spotify.com/track/6kUuvZCS0A2mCimWR9yPnp"
+    },
+    {
+      "added_at": "2025-11-07 03:00:07",
+      "album": {
         "name": "Eu Vou Querer Mais",
         "url": "https://open.spotify.com/album/08KjVOC5C0pVl33YkkcNl8"
       },
@@ -1007,22 +1027,18 @@
     {
       "added_at": "2025-11-07 03:00:07",
       "album": {
-        "name": "Encontros",
-        "url": "https://open.spotify.com/album/1Tx3Eod9st8By5csSKETaj"
+        "name": "Rota",
+        "url": "https://open.spotify.com/album/13o9DKnXs54uIwP1Rpv51S"
       },
       "artists": [
         {
-          "name": "C.L",
-          "url": "https://open.spotify.com/artist/6w1Vg5lVWY3g8woAEz60uq"
-        },
-        {
-          "name": "Karol Fernandez",
-          "url": "https://open.spotify.com/artist/29QuZBNZlNEtU5CYyBlRZP"
+          "name": "Hiosaki",
+          "url": "https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY"
         }
       ],
-      "duration_ms": 201000,
-      "name": "Encontros",
-      "url": "https://open.spotify.com/track/6kUuvZCS0A2mCimWR9yPnp"
+      "duration_ms": 179256,
+      "name": "Rota",
+      "url": "https://open.spotify.com/track/4j15iyB0zfr6GVapJRJreF"
     },
     {
       "added_at": "2025-11-07 03:00:07",
@@ -1043,22 +1059,6 @@
       "duration_ms": 139354,
       "name": "Amapiano",
       "url": "https://open.spotify.com/track/7sP6wejK3mVZcv63h20Zil"
-    },
-    {
-      "added_at": "2025-11-07 03:00:07",
-      "album": {
-        "name": "Rota",
-        "url": "https://open.spotify.com/album/13o9DKnXs54uIwP1Rpv51S"
-      },
-      "artists": [
-        {
-          "name": "Hiosaki",
-          "url": "https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY"
-        }
-      ],
-      "duration_ms": 179256,
-      "name": "Rota",
-      "url": "https://open.spotify.com/track/4j15iyB0zfr6GVapJRJreF"
     },
     {
       "added_at": "2025-11-07 03:00:07",
@@ -1227,26 +1227,6 @@
     {
       "added_at": "2025-11-07 03:00:07",
       "album": {
-        "name": "Esse \u00c9 Meu Mundo",
-        "url": "https://open.spotify.com/album/0SJaI6K43lSMaA0n8j8P3G"
-      },
-      "artists": [
-        {
-          "name": "Paige",
-          "url": "https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9"
-        },
-        {
-          "name": "Kaike",
-          "url": "https://open.spotify.com/artist/1HKqpxQ9sAJ5FXmiDWOA1V"
-        }
-      ],
-      "duration_ms": 201792,
-      "name": "\u00c1gua de Coco",
-      "url": "https://open.spotify.com/track/7uaYY2vPvnd2EPgRGItzVP"
-    },
-    {
-      "added_at": "2025-11-07 03:00:07",
-      "album": {
         "name": "Pra todo mundo que \u00e9 emocionado",
         "url": "https://open.spotify.com/album/46UjoeZym2PUuLTmIZc1tg"
       },
@@ -1271,6 +1251,26 @@
     {
       "added_at": "2025-11-07 03:00:07",
       "album": {
+        "name": "Esse \u00c9 Meu Mundo",
+        "url": "https://open.spotify.com/album/0SJaI6K43lSMaA0n8j8P3G"
+      },
+      "artists": [
+        {
+          "name": "Paige",
+          "url": "https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9"
+        },
+        {
+          "name": "Kaike",
+          "url": "https://open.spotify.com/artist/1HKqpxQ9sAJ5FXmiDWOA1V"
+        }
+      ],
+      "duration_ms": 201792,
+      "name": "\u00c1gua de Coco",
+      "url": "https://open.spotify.com/track/7uaYY2vPvnd2EPgRGItzVP"
+    },
+    {
+      "added_at": "2025-11-07 03:00:07",
+      "album": {
         "name": "MOVEDI\u00c7A II",
         "url": "https://open.spotify.com/album/20bkV5MFa22V3Zq1QqkJ96"
       },
@@ -1283,6 +1283,22 @@
       "duration_ms": 146776,
       "name": "AKO\u00c7A",
       "url": "https://open.spotify.com/track/3z8aghokqoqjtLXsUS0H4H"
+    },
+    {
+      "added_at": "2025-11-07 03:00:07",
+      "album": {
+        "name": "SUAVEMENTE (talk to me)",
+        "url": "https://open.spotify.com/album/3qOTz2MnjLBbYBXGQpmiNw"
+      },
+      "artists": [
+        {
+          "name": "Kiki Galv\u00e3o",
+          "url": "https://open.spotify.com/artist/5eCTqwltM24GlVJCixKQoS"
+        }
+      ],
+      "duration_ms": 169047,
+      "name": "SUAVEMENTE (talk to me)",
+      "url": "https://open.spotify.com/track/3ekcUECrX49IMy2aHZKDGw"
     },
     {
       "added_at": "2025-11-07 03:00:07",
@@ -1327,22 +1343,6 @@
       "duration_ms": 184019,
       "name": "O Motivo",
       "url": "https://open.spotify.com/track/1U3GnZsLzer0Rihu5Xljvt"
-    },
-    {
-      "added_at": "2025-11-07 03:00:07",
-      "album": {
-        "name": "SUAVEMENTE (talk to me)",
-        "url": "https://open.spotify.com/album/3qOTz2MnjLBbYBXGQpmiNw"
-      },
-      "artists": [
-        {
-          "name": "Kiki Galv\u00e3o",
-          "url": "https://open.spotify.com/artist/5eCTqwltM24GlVJCixKQoS"
-        }
-      ],
-      "duration_ms": 169047,
-      "name": "SUAVEMENTE (talk to me)",
-      "url": "https://open.spotify.com/track/3ekcUECrX49IMy2aHZKDGw"
     },
     {
       "added_at": "2025-11-07 03:00:07",
@@ -1463,18 +1463,22 @@
     {
       "added_at": "2025-11-07 03:00:07",
       "album": {
-        "name": "SALVE-SE!",
-        "url": "https://open.spotify.com/album/78EDQWddL1J80CnDO9w5T3"
+        "name": "Uma Nova Hist\u00f3ria",
+        "url": "https://open.spotify.com/album/1z7Wa5c7djeu9k157UPKlg"
       },
       "artists": [
         {
-          "name": "Beb\u00e9",
-          "url": "https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu"
+          "name": "Stefan Baby",
+          "url": "https://open.spotify.com/artist/0SmhJO6Nt4XdUaVwycMRn3"
+        },
+        {
+          "name": "Mousik",
+          "url": "https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Assome",
-      "url": "https://open.spotify.com/track/0NZWoFnMcmLxEK1zENu1dR"
+      "duration_ms": 146125,
+      "name": "Seu Her\u00f3i",
+      "url": "https://open.spotify.com/track/2SYg5OXAYvCkpJUsImBsnc"
     },
     {
       "added_at": "2025-11-07 03:00:07",
@@ -1495,22 +1499,18 @@
     {
       "added_at": "2025-11-07 03:00:07",
       "album": {
-        "name": "Uma Nova Hist\u00f3ria",
-        "url": "https://open.spotify.com/album/1z7Wa5c7djeu9k157UPKlg"
+        "name": "SALVE-SE!",
+        "url": "https://open.spotify.com/album/78EDQWddL1J80CnDO9w5T3"
       },
       "artists": [
         {
-          "name": "Stefan Baby",
-          "url": "https://open.spotify.com/artist/0SmhJO6Nt4XdUaVwycMRn3"
-        },
-        {
-          "name": "Mousik",
-          "url": "https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM"
+          "name": "Beb\u00e9",
+          "url": "https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu"
         }
       ],
-      "duration_ms": 146125,
-      "name": "Seu Her\u00f3i",
-      "url": "https://open.spotify.com/track/2SYg5OXAYvCkpJUsImBsnc"
+      "duration_ms": 180000,
+      "name": "Assome",
+      "url": "https://open.spotify.com/track/0NZWoFnMcmLxEK1zENu1dR"
     },
     {
       "added_at": "2025-11-07 03:00:07",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2025-11-07 03:00:07",
       "album": {
+        "name": "Profundo Particular",
+        "url": "https://open.spotify.com/album/3bqeRluhx8UCfzXNTEbZyA"
+      },
+      "artists": [
+        {
+          "name": "Anaju Oliveira",
+          "url": "https://open.spotify.com/artist/1hYtGhm2b3LD1QyRHBcNV4"
+        }
+      ],
+      "duration_ms": 157894,
+      "name": "Profundo Particular",
+      "url": "https://open.spotify.com/track/5gGuJ9NYkWn1NTo99oV09e"
+    },
+    {
+      "added_at": "2025-11-07 03:00:07",
+      "album": {
         "name": "MINA",
         "url": "https://open.spotify.com/album/7cxjGHFf1LdQyGE4JqzW1g"
       },
@@ -1651,22 +1667,6 @@
       "duration_ms": 164000,
       "name": "MINA",
       "url": "https://open.spotify.com/track/6bms1AEgjJDu6TQaSTAEcR"
-    },
-    {
-      "added_at": "2025-11-07 03:00:07",
-      "album": {
-        "name": "Profundo Particular",
-        "url": "https://open.spotify.com/album/3bqeRluhx8UCfzXNTEbZyA"
-      },
-      "artists": [
-        {
-          "name": "Anaju Oliveira",
-          "url": "https://open.spotify.com/artist/1hYtGhm2b3LD1QyRHBcNV4"
-        }
-      ],
-      "duration_ms": 157894,
-      "name": "Profundo Particular",
-      "url": "https://open.spotify.com/track/5gGuJ9NYkWn1NTo99oV09e"
     },
     {
       "added_at": "2025-11-07 03:00:07",

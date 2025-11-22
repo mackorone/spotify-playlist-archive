@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 
 > 感受女聲力量。Cover: Nancy Kwai
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,264 likes - 164 songs - 9 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,273 likes - 164 songs - 9 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 | 71 | [POSH](https://open.spotify.com/track/4zNZ3wOmP7QDmA9W8DTfDi) | [Sumling 李芯駖](https://open.spotify.com/artist/3PS3bEACWBCBPRwfqsQBWg) | [POSH](https://open.spotify.com/album/0rW1LfKU2ZnpDYAtIjkGYO) | 2:59 |
 | 72 | [你唔明㗎喇 \- Remix](https://open.spotify.com/track/6HGjAW3t2762yI5ezOaN7X) | [XiX](https://open.spotify.com/artist/4GoZP54zjLUTt2HICmYOGU) | [你唔明㗎喇 \(Remix\)](https://open.spotify.com/album/6eS2Mt1luG8libooTxdsTo) | 3:16 |
 | 73 | [Riding High](https://open.spotify.com/track/3NMi8BBMZ8mPzfVZPGfGM6) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Riding High](https://open.spotify.com/album/4AjNwfzIwJdYwj9PzPcQAx) | 2:55 |
-| 74 | [單身不會死](https://open.spotify.com/track/6VVCbUi2Bn7MfMDXZSV8ss) | [曾樂彤](https://open.spotify.com/artist/6W2vV8PN9oogX3ZElQyIOU) | [單身不會死](https://open.spotify.com/album/5BqAONqMf65GyxBQAIKbYc) | 2:42 |
+| 74 | [單身不會死](https://open.spotify.com/track/6VVCbUi2Bn7MfMDXZSV8ss) | [Tsang Lok Tung 曾樂彤](https://open.spotify.com/artist/6W2vV8PN9oogX3ZElQyIOU) | [單身不會死](https://open.spotify.com/album/5BqAONqMf65GyxBQAIKbYc) | 2:42 |
 | 75 | [liar](https://open.spotify.com/track/5KjJiwSwzhF7lGLjfLkoxp) | [Jaime Cheung](https://open.spotify.com/artist/0HlQqnAtrcPAXQcfdKqz5h) | [liar](https://open.spotify.com/album/54mhTR3nIgCG5jJa0bf5ME) | 3:14 |
 | 76 | [接住](https://open.spotify.com/track/3P7xcO3UKI6c5SVjFFK7Id) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [接住](https://open.spotify.com/album/4GPqgcqnfoaNKHzXmqEKPQ) | 3:43 |
 | 77 | [你的損失](https://open.spotify.com/track/286eXFCY7vNrWiuazONUNr) | [Cloud 雲浩影](https://open.spotify.com/artist/4LM4l7LiE1ulVQ32zZTtJk) | [你的損失](https://open.spotify.com/album/4BP6YalAkcuONOuPAjXFis) | 3:58 |
@@ -146,7 +146,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 | 136 | [Shisha](https://open.spotify.com/track/0LUoXjOBnKFTDIdZeWr7yk) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [Shisha](https://open.spotify.com/album/61JVWtcfprSRISh3eNrcwl) | 2:57 |
 | 137 | [榮譽博士](https://open.spotify.com/track/31WsjJrHaGCkYisP8QEaKc) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [榮譽博士](https://open.spotify.com/album/23qCFYffCFM2XwtSVqsVfE) | 2:57 |
 | 138 | [留在你在我在的腦海](https://open.spotify.com/track/6P9A119AKQx9OHDQAMOydb) | [Feanna Wong](https://open.spotify.com/artist/1Ky2RP3PsLKQZ1rWp31DKW) | [留在你在我在的腦海](https://open.spotify.com/album/7gdWwn4Eoz20VanIMyNjrn) | 3:53 |
-| 139 | [白月光](https://open.spotify.com/track/7wreJjj0j7KDurrYbeThHt) | [曾樂彤](https://open.spotify.com/artist/6W2vV8PN9oogX3ZElQyIOU) | [白月光](https://open.spotify.com/album/4Um2qJEhmwaFWnaS9GGiXK) | 3:45 |
+| 139 | [白月光](https://open.spotify.com/track/7wreJjj0j7KDurrYbeThHt) | [Tsang Lok Tung 曾樂彤](https://open.spotify.com/artist/6W2vV8PN9oogX3ZElQyIOU) | [白月光](https://open.spotify.com/album/4Um2qJEhmwaFWnaS9GGiXK) | 3:45 |
 | 140 | [Gas Station Diner](https://open.spotify.com/track/7F0G2etPisu3HFmDuDO42r) | [AGA](https://open.spotify.com/artist/1opXC6lrFxsiDks53X5d3Q) | [Gas Station Diner](https://open.spotify.com/album/6heyUwJpUWQz8Ss2CfzGjq) | 4:30 |
 | 141 | [I tried…](https://open.spotify.com/track/2pzJnD7U4PsgoxekmC4FVG) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [I tried…](https://open.spotify.com/album/28r7fW3baua6CY9BCalrrB) | 2:58 |
 | 142 | [無糖可樂](https://open.spotify.com/track/1rudYSVdB88q9bSeQnqyBb) | [Vincy Chan](https://open.spotify.com/artist/1ehwpBADazgPy9ypV77FMx) | [無糖可樂](https://open.spotify.com/album/4L7aoAJwGiKZEeF9x37TVI) | 4:19 |

@@ -2,7 +2,7 @@
 
 ### [K\-트롯 스타 \(K\-Trot Stars\)](https://open.spotify.com/playlist/37i9dQZF1DX6i7txhF59QA)
 
-> 신나는 트로트 멜로디를 즐겨보세요! \(커버: 이찬원 \(Lee Chanwon\)\)<br/>Let's party with cheerful Korean trot medley.
+> 신나는 트로트 멜로디를 즐겨보세요! \(커버: 손태진 \(Son Tae Jin\)\)<br/>Let's party with cheerful Korean trot medley.
 
 1,070 songs - 2 day 13 hr 18 min
 

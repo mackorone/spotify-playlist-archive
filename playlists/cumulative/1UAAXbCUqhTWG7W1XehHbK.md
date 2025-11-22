@@ -4,7 +4,7 @@
 
 > &quot;Indie Essentials&quot; is the ultimate playlist for indie music fans\. It features tracks from influential and iconic indie artists, showcasing the diversity and creativity of the genre\. Discover new and old classics in the indie spirit.
 
-127 songs - 7 hr 27 min
+128 songs - 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Nonsense](https://open.spotify.com/track/1MhYUZfR3D8m5pgzzgLvzx) | [Luan Luan](https://open.spotify.com/artist/1TRI5G2cp3GkZ2itd8IIMG) | [Nonsense](https://open.spotify.com/album/0Rjqc7fYh8vM6lj1flG5FN) | 3:49 | 2025-08-27 |  |
 | [Nuketown City](https://open.spotify.com/track/63kddsUAEtv9gPiicmeDZm) | [OGSxAnt](https://open.spotify.com/artist/7Mi8rowQ9Rko1bysn6cJ5X) | [Nuketown City](https://open.spotify.com/album/0ohAthOe1kAWeYU0HFlYtb) | 2:35 | 2025-11-07 |  |
 | [One of a Kind](https://open.spotify.com/track/711P5S0uw1PSzAgKthYcTP) | [Digsby](https://open.spotify.com/artist/2svG4IsrYb68sAGhIQ9UXA) | [One of a Kind](https://open.spotify.com/album/2nA99Zidxymb7TVHgygcnp) | 3:59 | 2025-10-13 |  |
+| [Out Of Mind](https://open.spotify.com/track/1OFweranXJz823BH5fZYVI) | [1POINT5](https://open.spotify.com/artist/4PPHoRT5RMRHTbMGeQXiA3) | [Out Of Mind](https://open.spotify.com/album/2Rklcp8oIxKCK8duJuWHG4) | 2:32 | 2025-11-21 |  |
 | [Pain](https://open.spotify.com/track/5lM1ra5MW9om3OC4aquhOD) | [Apo\-Calypto](https://open.spotify.com/artist/7byyZ7HJDAp9iR1IhdDaW4) | [Pain](https://open.spotify.com/album/5lKXK0eA4xjXTt01Md8sOS) | 5:51 | 2025-11-18 |  |
 | [Pain Without A Cause \- Remix](https://open.spotify.com/track/1pFzM8ZrizfvpaHZlpEFJT) | [Daniel Joseph Chiasson](https://open.spotify.com/artist/75rcoZN43VsmGiFeqewZnK) | [Pain Without A Cause \(Remix\)](https://open.spotify.com/album/5rc0VPZofD3SIz7xOrPXfU) | 3:04 | 2025-11-13 |  |
 | [Pale Ghost in a Chrome Bed,](https://open.spotify.com/track/1ZBWzJEHU22ABK1ykSaASn) | [Vincent Coomans](https://open.spotify.com/artist/2Cyheo9UBds3X4lHvL3kUg) | [Pale Ghost in a Chrome Bed](https://open.spotify.com/album/02c7ijM3Alx3w7NKcYBUAu) | 3:59 | 2025-11-18 |  |

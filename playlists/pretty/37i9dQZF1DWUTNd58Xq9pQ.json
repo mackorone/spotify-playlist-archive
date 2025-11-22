@@ -855,6 +855,22 @@
     {
       "added_at": "2024-12-02 14:59:51",
       "album": {
+        "name": "Mixmag Presents Logic1000",
+        "url": "https://open.spotify.com/album/5RtXdNzE9CUqaAvzgDhi1X"
+      },
+      "artists": [
+        {
+          "name": "Felix Geith",
+          "url": "https://open.spotify.com/artist/52wus9Sd4fER2u5lP26mku"
+        }
+      ],
+      "duration_ms": 206596,
+      "name": "Tryna Call - Me n U - Mixed",
+      "url": "https://open.spotify.com/track/5qWCGBGmnHi6Lcz47IYspB"
+    },
+    {
+      "added_at": "2024-12-02 14:59:51",
+      "album": {
         "name": "It's Giving EP",
         "url": "https://open.spotify.com/album/0gAE7755ojE0IEmFuKdlGQ"
       },
@@ -875,34 +891,22 @@
     {
       "added_at": "2024-12-02 14:59:51",
       "album": {
-        "name": "BRAND NEW BITCH",
-        "url": "https://open.spotify.com/album/6xMnRBIpa2x3M40yVkGMBb"
+        "name": "Real Hot n Naughty",
+        "url": "https://open.spotify.com/album/1AUPiPnIbLT7FkOgEfaPGa"
       },
       "artists": [
         {
-          "name": "Cobrah",
-          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "BRAND NEW BITCH",
-      "url": "https://open.spotify.com/track/13DNuiQyuTDcAw6Y8thZFM"
-    },
-    {
-      "added_at": "2024-12-02 14:59:51",
-      "album": {
-        "name": "Mixmag Presents Logic1000",
-        "url": "https://open.spotify.com/album/5RtXdNzE9CUqaAvzgDhi1X"
-      },
-      "artists": [
+          "name": "I. JORDAN",
+          "url": "https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4"
+        },
         {
-          "name": "Felix Geith",
-          "url": "https://open.spotify.com/artist/52wus9Sd4fER2u5lP26mku"
+          "name": "Felix Mufti",
+          "url": "https://open.spotify.com/artist/1N4X5hZ0hEXhhFdg1q0AlN"
         }
       ],
-      "duration_ms": 206596,
-      "name": "Tryna Call - Me n U - Mixed",
-      "url": "https://open.spotify.com/track/5qWCGBGmnHi6Lcz47IYspB"
+      "duration_ms": 214925,
+      "name": "Real Hot n Naughty",
+      "url": "https://open.spotify.com/track/1hPBJwV6CK6d8IgC9OUmqW"
     }
   ],
   "unique_name": "False Idols",

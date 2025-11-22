@@ -2,9 +2,9 @@
 
 ### [Women of Afro](https://open.spotify.com/playlist/37i9dQZF1DWSxnGhnykt9Y)
 
-> Some of the most influential and innovative voices in afrobeats, afropop, amapiano, hiplife and everything in between, from earliest acts to newest stars\. <br/><br/>Cover: Teni
+> Some of the most influential and innovative voices in afrobeats, afropop, amapiano, hiplife and everything in between, from earliest acts to newest stars\. <br/><br/>Cover: Tems
 
-198 songs - 9 hr 19 min
+199 songs - 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Be Sure](https://open.spotify.com/track/27SwKuVzaBD78qUyzMivwq) | [Ama Gaisie](https://open.spotify.com/artist/1q2iVU75fVEuNqXZqhPa7k) | [Be Sure](https://open.spotify.com/album/0LSBY6qEJOOdmUwOTrNimQ) | 3:03 | 2025-07-04 | 2025-10-25 |
 | [Bedroom Bully](https://open.spotify.com/track/1NjedAHuo81qjOWOa28KXT) | [Sefa](https://open.spotify.com/artist/5yT8WK3cattPDWL3pzu8AI), [Larruso](https://open.spotify.com/artist/57oThb5OUWumUvGOib8OUS) | [Bedroom Bully](https://open.spotify.com/album/4kgf853i8hbgxtLmJP0fmX) | 2:46 | 2025-10-24 |  |
 | [BELLE](https://open.spotify.com/track/6Do9CaVtyfw9NsgeSKw2rW) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [BELLE](https://open.spotify.com/album/64NNy7G7xL5Bd89wDkewrJ) | 2:13 | 2025-10-17 |  |
+| [Big Daddy](https://open.spotify.com/track/5WcQ5AwCp9mSqpsul6ccx4) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Is A Kingdom](https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c) | 2:46 | 2025-11-21 |  |
 | [BIG FISH](https://open.spotify.com/track/4MuPi6byWbrASaeNrn3Ut8) | [Melodi](https://open.spotify.com/artist/7b5kXmzqiMl9nISoJVe08J) | [BIG FISH](https://open.spotify.com/album/4091Kab1EkfxqxZNEdzNSf) | 2:38 | 2025-07-18 | 2025-08-30 |
 | [Bigger Picture](https://open.spotify.com/track/21ZDmEYeHbewO0pXOOrXKD) | [Victoria Kimani](https://open.spotify.com/artist/6HbeytIa6j2WCdPQzCrXpf) | [Mood 4 Life](https://open.spotify.com/album/6wVGimVZZwzEE5Oxo5G2ej) | 2:28 | 2024-11-29 | 2025-09-05 |
 | [BISOUS](https://open.spotify.com/track/1V2NorIjuRXla69SxsYIcs) | [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0) | [BISOUS](https://open.spotify.com/album/4yI7pgYcbAcsV9v4VlbHSH) | 2:43 | 2025-01-17 | 2025-02-14 |
@@ -71,7 +72,7 @@
 | [Give Me Love](https://open.spotify.com/track/6cY0fjp5NovZyTKdaEivYW) | [Africaine](https://open.spotify.com/artist/1zS57YVtuOi5HChrk22mT7) | [Give Me Love](https://open.spotify.com/album/3jvJ4pNR7g5dx8lMpOapce) | 2:32 | 2025-08-29 | 2025-09-05 |
 | [Goodbye \(Warm Up\)\(feat\. Asake\)](https://open.spotify.com/track/7vAXxDFUHDPxWzSujxb8jB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 2:43 | 2024-11-29 |  |
 | [Goodgirl](https://open.spotify.com/track/6adCGcQBhdqQbrb2b1aoGv) | [GoodGirl LA](https://open.spotify.com/artist/62HQP03xtoXexSY1Kp0cdS) | [Goodgirl](https://open.spotify.com/album/0cfboUkpHeZwjcw8xvY0vK) | 2:43 | 2025-10-08 |  |
-| [Goosebumps](https://open.spotify.com/track/7sVH3E4Ea7vmggCkffdU4q) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Goosebumps](https://open.spotify.com/album/0puYR0eJhVtrJAOsH5mbY4) | 2:46 | 2024-11-29 |  |
+| [Goosebumps](https://open.spotify.com/track/7sVH3E4Ea7vmggCkffdU4q) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Goosebumps](https://open.spotify.com/album/0puYR0eJhVtrJAOsH5mbY4) | 2:46 | 2024-11-29 | 2025-11-22 |
 | [Happiness Matter](https://open.spotify.com/track/6Wm40GepUVKhTjEBI07xtz) | [Krys M](https://open.spotify.com/artist/6B6DGmfpucF3zITrGDzbCi) | [EMPREINTE](https://open.spotify.com/album/5J9E0Zdg4QCZfyttFZsl50) | 3:53 | 2024-11-29 | 2025-07-05 |
 | [Head Start](https://open.spotify.com/track/4N7alCheeoFUxAAKkuTzU5) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [Head Start](https://open.spotify.com/album/02OOD9WmhXOFZEUsZ7CYQb) | 2:14 | 2024-11-29 | 2025-05-30 |
 | [Hei God](https://open.spotify.com/track/1u6HuhlBtbiUeN5Y4I4IVP) | [WeTalkSound](https://open.spotify.com/artist/5kPbvgX78vvZPQLrHHhf1w), [Fimi](https://open.spotify.com/artist/4ZnAdq8niwc3MnthK4ujdr), [SGaWD](https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l) | [Hei God](https://open.spotify.com/album/6D9NddrRn6exZWm0F2ojvp) | 2:37 | 2025-05-16 | 2025-10-25 |

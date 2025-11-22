@@ -124,7 +124,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-18",
+      "date_removed": null,
       "duration_ms": 122263,
       "name": "All I Wish for Christmas",
       "url": "https://open.spotify.com/track/3TmxaVbyvTP8EOq8mQGp2H"
@@ -232,7 +232,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 128372,
       "name": "Bells R Ringin",
       "url": "https://open.spotify.com/track/6BQlF26EIaqZqvOvo0YOtX"
@@ -250,7 +250,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-15",
+      "date_removed": null,
       "duration_ms": 176000,
       "name": "Blanca Navidad",
       "url": "https://open.spotify.com/track/559cbvnNsfuT55dLmPDFSF"
@@ -376,7 +376,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-18",
+      "date_removed": null,
       "duration_ms": 93518,
       "name": "Christmas by the Fireplace",
       "url": "https://open.spotify.com/track/2CM0NiI2NDZnxBRtRj6jx2"
@@ -484,7 +484,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 166153,
       "name": "Christmas Lovin'",
       "url": "https://open.spotify.com/track/0y1oqexLerBf5CNHtXC8pK"
@@ -707,6 +707,24 @@
     },
     {
       "album": {
+        "name": "Crazy Sleigh",
+        "url": "https://open.spotify.com/album/5te53OylQEBTSNwZPQct3x"
+      },
+      "artists": [
+        {
+          "name": "Chris Anthony",
+          "url": "https://open.spotify.com/artist/426idHqgmcWv0y5wfMeYKK"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141973,
+      "name": "Crazy Sleigh",
+      "url": "https://open.spotify.com/track/4CvR49Z6OrHAtbS1TnhKso"
+    },
+    {
+      "album": {
         "name": "December Dreams",
         "url": "https://open.spotify.com/album/2DttvcgcNIEzrf9WMXHUbX"
       },
@@ -808,7 +826,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 120000,
       "name": "drive home 4 xmas",
       "url": "https://open.spotify.com/track/1V5xeOfjiIJFhDbaIBCwgL"
@@ -970,7 +988,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 92508,
       "name": "Frosty the Snowman",
       "url": "https://open.spotify.com/track/5aplSXqxGAsfsplGBaxk0w"
@@ -1442,7 +1460,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 164444,
       "name": "Jingle Bells",
       "url": "https://open.spotify.com/track/7Kg4sOMxvWqoYlpmiZSn8f"
@@ -1496,7 +1514,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-11",
+      "date_removed": null,
       "duration_ms": 189196,
       "name": "JOY",
       "url": "https://open.spotify.com/track/4PU3g1wGXO9hcLRGuSdP9C"
@@ -1910,7 +1928,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 150000,
       "name": "Noche De Paz",
       "url": "https://open.spotify.com/track/2zszx16qYoyLC5N3VQVxex"
@@ -2108,7 +2126,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-05",
+      "date_removed": null,
       "duration_ms": 161600,
       "name": "Portal De Belen",
       "url": "https://open.spotify.com/track/2BeiJVc1bT0Tox1CXDRLn3"
@@ -2216,7 +2234,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 144000,
       "name": "Rudolph The Red Nosed Reindeer",
       "url": "https://open.spotify.com/track/366BCVgot7JVVp0bcNTSgN"
@@ -2234,7 +2252,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 91043,
       "name": "Rudolph The Red Nosed Reindeer",
       "url": "https://open.spotify.com/track/2aDiHNUA8SjS42bzJCchuJ"
@@ -2476,7 +2494,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-18",
+      "date_removed": null,
       "duration_ms": 90908,
       "name": "should go christmas shopping",
       "url": "https://open.spotify.com/track/5Nk2T3FhYxcRLPzJoKKVzj"
@@ -2649,6 +2667,24 @@
     },
     {
       "album": {
+        "name": "Snow Snow Snow",
+        "url": "https://open.spotify.com/album/3enFn4zZ26VzPwjzLgrUq3"
+      },
+      "artists": [
+        {
+          "name": "tonierki",
+          "url": "https://open.spotify.com/artist/3Qx6Bz5YA5r33ZYefoU0bY"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131730,
+      "name": "Snow Snow Snow",
+      "url": "https://open.spotify.com/track/3NiLkCJRuRYaBc1W17h2NY"
+    },
+    {
+      "album": {
         "name": "Snowflakes Falling",
         "url": "https://open.spotify.com/album/2QVtKjHLLHFrHDTQJLEw03"
       },
@@ -2804,7 +2840,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-21",
+      "date_removed": null,
       "duration_ms": 111166,
       "name": "The Night Before",
       "url": "https://open.spotify.com/track/5ZIU60WNqPE6tJxhzJio4f"
@@ -2912,7 +2948,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 135000,
       "name": "Ven A Mi Casa Esta Navidad",
       "url": "https://open.spotify.com/track/5Fwj3sPOh0TzshTIQWbrH5"

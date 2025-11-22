@@ -2,9 +2,9 @@
 
 ### [Spindle](https://open.spotify.com/playlist/37i9dQZF1DXe9wL6jvRFRS)
 
-> spun from south london’s windmill scene, a thread of community\-driven experimental guitar music and constant evolution worldwide\. Twine on the cover.
+> spun from south london’s windmill scene, a thread of community\-driven experimental guitar music and constant evolution worldwide\. Man/Woman/Chainsaw on the cover.
 
-70 songs - 5 hr 17 min
+73 songs - 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Harry and the Jets](https://open.spotify.com/track/6lSAHuOAfFC5DtSQrCsfE3) | [Mouseatouille](https://open.spotify.com/artist/1RCFAywt6h42PGjgTOBNfa) | [Harry and the Jets](https://open.spotify.com/album/6FQ9I0d2e7pvddqHb3UgIC) | 4:16 | 2025-07-18 |  |
 | [Hattrick](https://open.spotify.com/track/4Qh12Dgv4ZkNCfnC7oSgEw) | [The Orchestra \(For Now\)](https://open.spotify.com/artist/4M1DlOtwciPLmjRWBWOpFG) | [Hattrick](https://open.spotify.com/album/4614NZ99KGlxn9I2A1nHnn) | 5:40 | 2025-09-09 |  |
 | [Honest Song](https://open.spotify.com/track/1jOHyaoZuxjJuHvkaf3AAK) | [pencil](https://open.spotify.com/artist/6QPwYkx2oeQobQdbCeogTk) | [Bohemian Clutter](https://open.spotify.com/album/4wrs2l9zfbi8iBwdxfiMa3) | 4:39 | 2025-07-10 |  |
+| [I Don't Mind](https://open.spotify.com/track/6wL3cuhOPz17kioLBs2Ger) | [Ninush](https://open.spotify.com/artist/1p5RlGU6wB8WuQc024cWB0) | [I Don't Mind](https://open.spotify.com/album/7oNPziidIN0W0BeX5YULBo) | 3:23 | 2025-11-21 |  |
 | [I Was Here](https://open.spotify.com/track/0sh49tZQQG9Qsd46dbh2UY) | [Green Gardens](https://open.spotify.com/artist/5EwUOG0SThYLLXclwy1PiO) | [I Was Here](https://open.spotify.com/album/27pZBFE96hTJNPctbRQMLm) | 3:38 | 2025-07-18 |  |
 | [Icy Windy Sky](https://open.spotify.com/track/66U7274Oapr417BNqeQLoS) | [Ugly \(UK\)](https://open.spotify.com/artist/5V1vRp27m0PLepQehI2tnf) | [Twice Around the Sun](https://open.spotify.com/album/3wzMjiyIQ2zDv3suwSHxpp) | 6:48 | 2025-07-10 |  |
 | [kick the stars around the trashy sky](https://open.spotify.com/track/0E8oNrJF130vV7XhrKTih3) | [School Fair](https://open.spotify.com/artist/2QPVdwHQoGwMiWEDHT8HF7) | [bird the kid](https://open.spotify.com/album/1nZ8LRi5osH0S4MUjGXtim) | 3:29 | 2025-07-10 |  |
@@ -48,6 +49,7 @@
 | [Love Is](https://open.spotify.com/track/7zuTE1Eah3KFnYb6ybC1dB) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [Pale Song / Love Is](https://open.spotify.com/album/1G6shFmSgbuQ7Gz3aD4LRZ) | 3:08 | 2025-11-07 |  |
 | [Next To Die](https://open.spotify.com/track/3k6iUhaXZKHQnnLqcGsNps) | [Ugly \(UK\)](https://open.spotify.com/artist/5V1vRp27m0PLepQehI2tnf) | [Next To Die](https://open.spotify.com/album/0r52QUb7MBNVYBV8bn2B5P) | 4:08 | 2025-07-10 |  |
 | [Nids Niteca](https://open.spotify.com/track/5dZHzvPMx6VvQcHqYYkmp6) | [Junk Drawer](https://open.spotify.com/artist/5t4EvkMzfu9IJui3iiL2Rs) | [Nids Niteca](https://open.spotify.com/album/49071Dn7i7TUEU2fJ5Tyqu) | 2:27 | 2025-07-10 |  |
+| [Only Girl](https://open.spotify.com/track/5r3AMNwlDPffDLGnTkiGMP) | [Man/Woman/Chainsaw](https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ) | [Only Girl](https://open.spotify.com/album/0JHiCW6hFsIMiHIww3bnDb) | 3:35 | 2025-11-21 |  |
 | [Outlast](https://open.spotify.com/track/1ctDUAAad7Em6JenrjdMNC) | [Racing Mount Pleasant](https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX) | [Racing Mount Pleasant](https://open.spotify.com/album/037axs2AfEPUD5LtjfFYSv) | 5:01 | 2025-08-15 |  |
 | [Pamphlets](https://open.spotify.com/track/3tOKVaYAYRMr3aaNqLxJaM) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Bright Green Field](https://open.spotify.com/album/219LGvgmAhhwlfc3unDhUt) | 8:03 | 2025-07-10 |  |
 | [Poke](https://open.spotify.com/track/5aha1ojLhdvtUfIKGGZsTP) | [Blue Bendy](https://open.spotify.com/artist/7Fv9bX6Oy7AhbhKXh5dgIG) | [Poke](https://open.spotify.com/album/2TauZCi6TpNjJqx8EU2frn) | 3:46 | 2025-09-05 |  |
@@ -56,6 +58,7 @@
 | [Ran Out of Time](https://open.spotify.com/track/2G4aLoVnpjWcyXgBRhnDI2) | [Aunt Katrina](https://open.spotify.com/artist/7sMEd7g4LPNijUP8eH2wyf) | [Ran Out of Time](https://open.spotify.com/album/4mLYTyjoHin9yZjSzUUeg6) | 2:53 | 2025-07-10 |  |
 | [Resisting Resistance](https://open.spotify.com/track/5sxatW3jsmH2gUTJ1zvnHs) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [Connla's Well](https://open.spotify.com/album/59lxNUUwxzNmeB4dkqQExa) | 5:58 | 2025-07-10 |  |
 | [Saoirse](https://open.spotify.com/track/3g0xd9m1MxKRiIC2Xw4998) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [Pain to Power](https://open.spotify.com/album/6wymdowW8HbQ4H3nVs93Hj) | 5:13 | 2025-09-19 |  |
+| [Say Fish](https://open.spotify.com/track/7rmYgP3xmHPKPDCBmhqHB3) | [Alien Chicks](https://open.spotify.com/artist/1V2a5Mkw4VP93kP1vrB4T4) | [Forbidden Fruit](https://open.spotify.com/album/4zVhnKJ4BB7nXXA9LEYbjo) | 3:18 | 2025-11-21 |  |
 | [See You Around](https://open.spotify.com/track/0i0g60BEOSriL0mJJu7N3S) | [Truthpaste](https://open.spotify.com/artist/1jX7jSANud3GSSMfs41KPs) | [See You Around](https://open.spotify.com/album/0FiO5yMTGOmBNJfbyIgIAf) | 4:02 | 2025-07-10 |  |
 | [Shells](https://open.spotify.com/track/1vtuuLA1GTiqcnmDleBqje) | [Westside Cowboy](https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2) | [Shells](https://open.spotify.com/album/0Y3QobZNbtGaLW5TgnbgZL) | 3:51 | 2025-07-10 |  |
 | [Skins](https://open.spotify.com/track/5munQvyxlq8hZNvTIrKoQT) | [The Orchestra \(For Now\)](https://open.spotify.com/artist/4M1DlOtwciPLmjRWBWOpFG) | [Skins](https://open.spotify.com/album/2mXZjNoSOJ9422Gwvmh7Wu) | 4:20 | 2025-07-10 |  |

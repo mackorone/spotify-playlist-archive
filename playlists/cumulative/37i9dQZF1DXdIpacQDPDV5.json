@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The best of today's dance hits. Cover: HAYLA & Nelly Furtado",
+  "description": "The best of today's dance hits. Cover: Ti\u00ebsto",
   "name": "mint Canada",
   "tracks": [
     {
@@ -2616,7 +2616,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 242239,
       "name": "Baby Blue (feat. Oliver Sim)",
       "url": "https://open.spotify.com/track/03vfFtmD5SMZ7rpQm6KXTv"
@@ -4329,6 +4329,24 @@
     },
     {
       "album": {
+        "name": "breathe",
+        "url": "https://open.spotify.com/album/0POkaDGlDbOrizwa1KPjOR"
+      },
+      "artists": [
+        {
+          "name": "TyriqueOrDie",
+          "url": "https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133548,
+      "name": "breathe",
+      "url": "https://open.spotify.com/track/0QneFoZqljoXB0K0OjmXRH"
+    },
+    {
+      "album": {
         "name": "Breathe (feat. Jesse Jo Stark)",
         "url": "https://open.spotify.com/album/0YxZ0dRodOKFH1DZ1NWJXP"
       },
@@ -4432,6 +4450,28 @@
       "duration_ms": 180480,
       "name": "Bring It Back",
       "url": "https://open.spotify.com/track/1ghkYGLrfh3tBIqLs9npGn"
+    },
+    {
+      "album": {
+        "name": "Bring Me To Life",
+        "url": "https://open.spotify.com/album/0hLl6XW9qAjuuPijk9SKTe"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "FORS",
+          "url": "https://open.spotify.com/artist/3IG2AmQqnXTje1NHlIQViX"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258461,
+      "name": "Bring Me To Life",
+      "url": "https://open.spotify.com/track/6pkSEqfTFyoqaPXQ1d4nLp"
     },
     {
       "album": {
@@ -6486,7 +6526,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 171428,
       "name": "Cry",
       "url": "https://open.spotify.com/track/2RX2EpUCh9OodJ63ZYLstG"
@@ -9708,6 +9748,28 @@
       "duration_ms": 214921,
       "name": "Enjoy Your Life",
       "url": "https://open.spotify.com/track/0hlddFDTZxC81BMFC2WINw"
+    },
+    {
+      "album": {
+        "name": "Entwined",
+        "url": "https://open.spotify.com/album/4M45TZxg8HtnBwCDyqOb6B"
+      },
+      "artists": [
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        },
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220689,
+      "name": "Entwined",
+      "url": "https://open.spotify.com/track/4hphReh7hXDCFb14FfB7n1"
     },
     {
       "album": {
@@ -13690,7 +13752,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 213913,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/7FCJWSLgyr1GMrV7s7tNub"
@@ -21245,6 +21307,28 @@
     },
     {
       "album": {
+        "name": "LOVE YOU FOR LIFE.",
+        "url": "https://open.spotify.com/album/26IKpReoGeXx69KVzI3M3n"
+      },
+      "artists": [
+        {
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        },
+        {
+          "name": "Emily Roberts",
+          "url": "https://open.spotify.com/artist/3RBqLTttwN1orqQozYfmJo"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165124,
+      "name": "LOVE YOU FOR LIFE.",
+      "url": "https://open.spotify.com/track/3acMyDFxlQ2O5l3c9pJeQ4"
+    },
+    {
+      "album": {
         "name": "Love You More",
         "url": "https://open.spotify.com/album/2eCzscuLn8UWrA4vMJo8CZ"
       },
@@ -22684,7 +22768,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 165517,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/7A2K6UcyFSt7wBuv4B6kXi"
@@ -23006,7 +23090,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 160344,
       "name": "Moonshine",
       "url": "https://open.spotify.com/track/5MhdIizFfxEAwBczKWBzbQ"
@@ -30557,6 +30641,24 @@
     },
     {
       "album": {
+        "name": "Auditory Illusion Vol.1",
+        "url": "https://open.spotify.com/album/0T9RcliFTYOmacVr5fVP9u"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190909,
+      "name": "Selector - 2025 Remake",
+      "url": "https://open.spotify.com/track/3oR2zDdsB0XSZSdCkbJtKV"
+    },
+    {
+      "album": {
         "name": "Self Control (feat. SuCCi)",
         "url": "https://open.spotify.com/album/3CEXI02K8UWixbMm17evAm"
       },
@@ -31108,7 +31210,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 215172,
       "name": "Shining For You",
       "url": "https://open.spotify.com/track/1NLbWMum8TfPz9vaC9Jihy"
@@ -36316,7 +36418,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 249630,
       "name": "Time",
       "url": "https://open.spotify.com/track/37bGQMk53DWE5KW1JVreWT"
@@ -36672,6 +36774,24 @@
       "duration_ms": 232000,
       "name": "Torture",
       "url": "https://open.spotify.com/track/5eo1iLxmJK3D4SXdDxY0Xr"
+    },
+    {
+      "album": {
+        "name": "Higher Resolution (Side B)",
+        "url": "https://open.spotify.com/album/563knKl2SpuK7z9TCbIhdG"
+      },
+      "artists": [
+        {
+          "name": "Kasablanca",
+          "url": "https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205209,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/36TtItSt1Y2V5TGLi7gYD0"
     },
     {
       "album": {
@@ -40964,6 +41084,28 @@
       "duration_ms": 221463,
       "name": "Your Light",
       "url": "https://open.spotify.com/track/4y16eulJFqORdWwRjzwpvA"
+    },
+    {
+      "album": {
+        "name": "Your Love",
+        "url": "https://open.spotify.com/album/0CT0ofStdh15crKzer9dcg"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        },
+        {
+          "name": "Harry Hayes",
+          "url": "https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265099,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/5Y7WONRdWnjQhsn8TyOyS8"
     },
     {
       "album": {

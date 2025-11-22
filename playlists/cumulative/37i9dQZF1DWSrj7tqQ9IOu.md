@@ -4,7 +4,7 @@
 
 > Le meilleur de l'indie français\. Cover : Heroe
 
-748 songs - 1 day 16 hr 9 min
+748 songs - 1 day 16 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -286,7 +286,7 @@
 | [HOPE YOU'LL FIND OUT](https://open.spotify.com/track/3q7Kc3SMI3yBnsfESjvnok) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [HOPE YOU'LL FIND OUT](https://open.spotify.com/album/4Vg1pFAFqhtUxw26brxhuE) | 3:46 | 2024-01-04 | 2024-03-22 |
 | [Hopes](https://open.spotify.com/track/4VpZuQybRG17RNjhgVbym7) | [Broken Back](https://open.spotify.com/artist/4nx8ehrFiCOmWgebUKshDV) | [Hopes](https://open.spotify.com/album/7DwxsnVF7eErIgNNxLiT7H) | 2:44 | 2025-08-14 | 2025-11-14 |
 | [Hot Summer](https://open.spotify.com/track/3A8Xv7OLC1IvruefbgEPt2) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Hot Summer](https://open.spotify.com/album/2wTNvieUOzmuDGpAuAVHYh) | 2:22 | 2023-02-16 | 2023-03-03 |
-| [How and Why](https://open.spotify.com/track/1ZZzsWH20AiwCQnsTHxbnW) | [Mélanie Pain](https://open.spotify.com/artist/2Sk0H4rS0QuQESESHELFy0) | [](https://open.spotify.com/album/null) | 4:21 | 2025-11-20 |  |
+| [How and Why](https://open.spotify.com/track/1ZZzsWH20AiwCQnsTHxbnW) | [Mélanie Pain](https://open.spotify.com/artist/2Sk0H4rS0QuQESESHELFy0) | [How and Why](https://open.spotify.com/album/2E1V1P1SBtdBjmA8j5Kpou) | 4:21 | 2025-11-20 |  |
 | [HOW STRANGE?](https://open.spotify.com/track/4IQw9pS2PfMsYYeTkZ5CGy) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [HOW STRANGE?](https://open.spotify.com/album/29KjlAdATsp7XF6Pp08fXa) | 2:57 | 2023-10-19 | 2023-11-24 |
 | [Humains après tout](https://open.spotify.com/track/1SddnrGqOScznWZNnhWnv8) | [Nell Widmer](https://open.spotify.com/artist/3Wt1O2klP0ptRHnUwBjQx2) | [Humains après tout](https://open.spotify.com/album/32C0qziCh9lCnOujTtF3gd) | 2:22 | 2022-04-21 | 2022-05-13 |
 | [Human Race](https://open.spotify.com/track/0kqLwnIhgshbOHgT4ni8sf) | [Cocoon](https://open.spotify.com/artist/15h5B5quwDm2C1rhbtvUPD) | [Human Race](https://open.spotify.com/album/4KDVtCo3HqL1QHrSmx4uH0) | 2:07 | 2025-03-13 | 2025-03-21 |
@@ -313,6 +313,7 @@
 | [It Might Be Something](https://open.spotify.com/track/3MkCJcOcLK0PaYy4QgKpWk) | [Ed Mount](https://open.spotify.com/artist/5THdJGUVSrpyW9sDW49Q92) | [It Might Be Something](https://open.spotify.com/album/5gszZPFIhqR8HUiqH4nyMx) | 3:33 | 2021-12-16 | 2022-01-21 |
 | [It's Only A Band](https://open.spotify.com/track/2KBHg10JyF2MMjg3l0CFoY) | [Please](https://open.spotify.com/artist/07xx8lFWESVjZnqCpm43ku) | [Please](https://open.spotify.com/album/0cs72CsTxE6pnaCXo42iC5) | 3:31 | 2023-04-06 | 2023-05-26 |
 | [It's Over](https://open.spotify.com/track/4tkLVSKI0XSeOdGUqb0hzt) | [Poppy Fusée](https://open.spotify.com/artist/5IFUbcd4w9UlVpsMNfY4FT) | [Better Place](https://open.spotify.com/album/3k7JvsR60tqWc4VLR4ugTZ) | 3:04 | 2024-01-18 | 2024-02-09 |
+| [J'aime cette fille](https://open.spotify.com/track/3ikP559a41B8wyZAgtzEhf) | [Princesse](https://open.spotify.com/artist/6btazhSPWJjAUX7Qvk8CEw) | [Nouvelle Romance](https://open.spotify.com/album/1KgkUFoyDbePr8K72vTffF) | 2:48 | 2025-11-20 |  |
 | [J'aime les filles](https://open.spotify.com/track/3N6mpmEgjqRIMNDkucHMJz) | [Evergreen](https://open.spotify.com/artist/2rdtngq3t4zQwluqyGfZuS) | [J'aime les filles](https://open.spotify.com/album/15KiBmF3enU5CukG3mO6gy) | 3:17 | 2022-09-01 | 2022-09-30 |
 | [J'aime pas sortir](https://open.spotify.com/track/0qOaSyBrDM4TmSEWrkfN6m) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [J'aime pas sortir](https://open.spotify.com/album/2QsJu8zj3GjP9bYvtKsR6C) | 2:52 | 2023-06-15 | 2023-11-03 |
 | [j'attends](https://open.spotify.com/track/23I9xqbbq8ii3SK59VoeuQ) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO), [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9) | [j'attends](https://open.spotify.com/album/0lernxYMPwdcFGvEDv3att) | 3:26 | 2022-12-01 | 2023-01-13 |
@@ -646,7 +647,7 @@
 | [Teenage Dreamer](https://open.spotify.com/track/58bVQLGvGhWDzZSsqZtwtA) | [I Me Mine](https://open.spotify.com/artist/49Aanvac9LY0no4ysTsYvw) | [Teenage Dreamer](https://open.spotify.com/album/4ok9kuFEUu0NNpvZZmMabS) | 2:38 | 2023-06-01 | 2023-06-23 |
 | [Teenager](https://open.spotify.com/track/4fuFDRwSnpcU7xfeSrZHrr) | [Silly Boy Blue](https://open.spotify.com/artist/4m9uyzV105Mtdiz7mEco9J) | [Breakup Songs](https://open.spotify.com/album/4IAkKeuLkZWzWQqqFI6uDk) | 3:16 | 2022-01-27 | 2022-02-11 |
 | [Tell Me](https://open.spotify.com/track/7jSlSSgWxKkFctkSpYUHTv) | [Camp Claude](https://open.spotify.com/artist/0TNyEQ0n7diilLgG1ozfrB), [Diane Sagnier](https://open.spotify.com/artist/7grNqGVCIRH4ZM3UR1QAay), [Rocket Mike](https://open.spotify.com/artist/18ssEKS9fXX1nbMg7mAzaU), [Leo Hellden](https://open.spotify.com/artist/2xuVdExl3fVXV8NjGOaSpL) | [Tell Me](https://open.spotify.com/album/0J92jWQySAfKXhXApETKR0) | 2:25 | 2024-09-19 | 2025-04-04 |
-| [That Girl](https://open.spotify.com/track/367jZlkmOpSqMGwjlRvQrp) | [Astels](https://open.spotify.com/artist/4azViUTvRLgNwb3GmtZvii) | [](https://open.spotify.com/album/null) | 2:53 | 2025-11-20 |  |
+| [That Girl](https://open.spotify.com/track/367jZlkmOpSqMGwjlRvQrp) | [Astels](https://open.spotify.com/artist/4azViUTvRLgNwb3GmtZvii) | [The Meeting \(Deluxe\)](https://open.spotify.com/album/6hJvlNYhmPZeJH19TTAKde) | 2:53 | 2025-11-20 |  |
 | [The Best Part of Me](https://open.spotify.com/track/0ZsXNkIWD2wx6OX3dVDu4l) | [Napkey](https://open.spotify.com/artist/4MismZLKqMb2Qb2HjK4sdE) | [Andromeda](https://open.spotify.com/album/03fmmEHO36zkMzPOZRyWg2) | 3:09 | 2023-10-12 | 2024-02-24 |
 | [The Crush](https://open.spotify.com/track/5w8PRAWFhg3EPBqd9fwZMn) | [Silly Boy Blue](https://open.spotify.com/artist/4m9uyzV105Mtdiz7mEco9J) | [Breakup Songs \(Extended\)](https://open.spotify.com/album/03LGiK0ZUZx0nkp4fOhkkJ) | 3:20 | 2022-02-10 | 2022-04-08 |
 | [The Devil I Know](https://open.spotify.com/track/2ihQW4P9ZUhjNJLL7DYz1w) | [Peter Dallas](https://open.spotify.com/artist/47Te42t2C14Fo2yXqa6kZh), [éol](https://open.spotify.com/artist/3Qsh8vZLpSAHADVBkGD70N) | [The Devil I Know](https://open.spotify.com/album/0hJR4tbsE32LpjbdD8km3d) | 2:40 | 2023-05-04 | 2024-03-22 |
@@ -679,7 +680,6 @@
 | [Tout va bien](https://open.spotify.com/track/17FECd8IneHV65pCJduuse) | [roland decembre](https://open.spotify.com/artist/2UxITzDZ5wN79zzSiJ9KeK) | [Tout va bien](https://open.spotify.com/album/7ce6rlPWieH0zykGdlFRXA) | 3:11 | 2023-02-02 | 2023-06-16 |
 | [Toute seule](https://open.spotify.com/track/1mdGek6V8hI7zibGut1ZO3) | [La Petite](https://open.spotify.com/artist/4ItZHQxj7Fg9HG0wumutTn) | [Toute seule](https://open.spotify.com/album/7InPIQqkXfyR1lq4AahEOg) | 3:33 | 2025-01-23 | 2025-02-14 |
 | [Toxic Sunny Delight](https://open.spotify.com/track/2xyn7wWJ7urittAvQXmPhI) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf), [Kazy Lambist](https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH) | [Toxic Sunny Delight](https://open.spotify.com/album/5073mQ9KqkmZCp663XcSga) | 3:46 | 2025-10-16 |  |
-| [Track 3](https://open.spotify.com/track/3ikP559a41B8wyZAgtzEhf) | [Princesse](https://open.spotify.com/artist/6btazhSPWJjAUX7Qvk8CEw) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-20 |  |
 | [Tramp Like You](https://open.spotify.com/track/0rNww8SMuGZm8GkDWeHtLi) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Hydranism](https://open.spotify.com/album/5Mp0oL6cdMJ1ODlpGpdUte) | 5:24 | 2023-04-27 | 2023-06-30 |
 | [Tramp Like You](https://open.spotify.com/track/2wWlrpVleWOYkOqhpkV2EJ) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Tramp Like You](https://open.spotify.com/album/21uaZE9JBRZDNHNouEO8Df) | 5:24 | 2023-01-19 | 2023-04-30 |
 | [True love \(feat\. 070 Shake\)](https://open.spotify.com/track/6PdUV3DjQAT4Hk9Hz7UNZ5) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [True love \(feat\. 070 Shake\)](https://open.spotify.com/album/21ZlnuYMvzSLNOAYWH318k) | 5:47 | 2023-04-20 | 2023-09-29 |

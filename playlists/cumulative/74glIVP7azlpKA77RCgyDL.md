@@ -4,7 +4,7 @@
 
 > Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure.
 
-1,148 songs - 2 day 23 hr 53 min
+1,153 songs - 3 day 0 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -529,12 +529,14 @@
 | [KUKULKAN WAKAH CHAN](https://open.spotify.com/track/0y5w6D6qMLv73M54om3G4u) | [Cemican](https://open.spotify.com/artist/0hzhSWZR2nszVSKtN15qNj) | [KUKULKÁN WAKAH CHAN](https://open.spotify.com/album/56h5CraVhsQkSAEwrpYur7) | 5:44 | 2024-11-15 | 2025-04-11 |
 | [L'Envol](https://open.spotify.com/track/30JoA3CWCXqcACZzRtyaJr) | [Alcest](https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7) | [L'Envol](https://open.spotify.com/album/0ha4JvwSl9kBT0vCUQn0GI) | 8:02 | 2024-02-23 | 2025-04-11 |
 | [La Corriente](https://open.spotify.com/track/7HRBtlZw4DoioERhRwi6gA) | [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [La Corriente](https://open.spotify.com/album/0BG0MTNfRewg3HKYecsL52) | 4:00 | 2024-07-05 | 2025-04-11 |
+| [Labyrinth](https://open.spotify.com/track/27fpZXWUZbS4v1fIcPpJEF) | [Showing Teeth](https://open.spotify.com/artist/6NmmsGOQdDqyXlNVA6uGWv) | [Labyrinth](https://open.spotify.com/album/28Hi8MXegxVlzYlI6FCXEE) | 2:40 | 2025-11-21 |  |
 | [Lachryma](https://open.spotify.com/track/0hw2CGX8jaIpS4jGDn3dfa) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Lachryma](https://open.spotify.com/album/4c1dPnDFdWvgfUSwHvFgev) | 4:36 | 2025-04-11 |  |
 | [Land Of The Sun](https://open.spotify.com/track/79Uosr9Ne21ve72zOtpCT2) | [Kim Dracula](https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp) | [Land Of The Sun](https://open.spotify.com/album/3lkZtqInxyQ1XNnRShoBTT) | 3:54 | 2023-06-30 | 2024-02-03 |
 | [Landslide](https://open.spotify.com/track/4UnezplnQOoiNCRxYfveZR) | [SPACED](https://open.spotify.com/artist/5vM2PNB3LjGceAKYvN3KI8) | [Landslide](https://open.spotify.com/album/6Jca9m0heHbc7wu44GZs0A) | 1:36 | 2024-01-26 | 2025-04-11 |
 | [Last Laugh \(feat\. Dylan Walker & Full of Hell\)](https://open.spotify.com/track/3p6BUYKhnUIn5WGF1TVB5I) | [Year of the Knife](https://open.spotify.com/artist/6z6uImpvyrxii5OyX1ic8Q), [Full Of Hell](https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz), [Dylan Walker](https://open.spotify.com/artist/4qkOSBrxz6jcBqcDayhmBg) | [Wish / Last Laugh](https://open.spotify.com/album/19sxqwRhFmtmwo7V0Pjjhz) | 0:47 | 2023-09-29 | 2024-02-03 |
 | [Last Word](https://open.spotify.com/track/0MAVD0SfEWpODVQkvuTw98) | [Baroness](https://open.spotify.com/artist/3KdXhEwbqFHfNfSk7L9E87) | [Last Word](https://open.spotify.com/album/5tABXu8g3m8wa54PnN0No5) | 6:17 | 2023-06-23 | 2024-02-03 |
 | [Leech](https://open.spotify.com/track/21xcGKZuN8jF4rzio4LrdM) | [Street Power](https://open.spotify.com/artist/0MRYZGQXTt3HN6u34YtEYr), [Instigate](https://open.spotify.com/artist/0zgXtH4JPojjU14vp2B6sp) | [Threads of Hate](https://open.spotify.com/album/3dWQcNgpTi538c4gKpnJ9e) | 2:09 | 2023-09-01 | 2024-02-03 |
+| [Left For Good](https://open.spotify.com/track/4pjSe7n2609YnMWnrJ3OVJ) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Left For Good](https://open.spotify.com/album/3i3GvVgRCQzAYbMeWUSzMq) | 3:53 | 2025-11-21 |  |
 | [Left on Dilworth](https://open.spotify.com/track/1RbYgLrtVNDRI1PmwmRnA6) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Dilworth](https://open.spotify.com/album/3dcznu6GrWFUR5a7xJikHK) | 3:09 | 2025-05-23 |  |
 | [Let Go](https://open.spotify.com/track/2iHdiDAIYBPOqnNxVrNBYO) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Let Go](https://open.spotify.com/album/0rEiAGXHPJUbsNsKP9TfkH) | 3:50 | 2023-03-03 | 2024-02-03 |
 | [Let His Servants Starve](https://open.spotify.com/track/5uYgjQ7DTWxVNkvXXGkoFZ) | [Tribal Gaze](https://open.spotify.com/artist/0pm9kmowFxxE4hWYM04MxH) | [Let His Servants Starve](https://open.spotify.com/album/6x95rzZNKpRasmGwaVDSWw) | 3:57 | 2024-11-08 | 2025-04-11 |
@@ -559,6 +561,7 @@
 | [Lost](https://open.spotify.com/track/373gDROnujxNTFa1FojYIl) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Lost](https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC) | 3:19 | 2023-02-10 | 2024-02-03 |
 | [Lost In The Fall](https://open.spotify.com/track/2eNQotmrqiMh175jBPePJ2) | [Dying Wish](https://open.spotify.com/artist/4igS2MSwOIf3F9YeL929IO) | [Lost In The Fall](https://open.spotify.com/album/2AaUKwRWLjWC01DQ8BzwwE) | 4:04 | 2023-09-01 | 2024-02-03 |
 | [Love All the People](https://open.spotify.com/track/7n9D3aT2v56UVNxFZ0LV55) | [Mercy Ties](https://open.spotify.com/artist/2oCjUdQSxryC1IMMorOtHI) | [Love All the People](https://open.spotify.com/album/0ILajU1CtCbfUaPQzjd3GC) | 1:43 | 2025-01-10 |  |
+| [Love Is Not Enough](https://open.spotify.com/track/4AJJNga5DTEH9AAe8DcLD1) | [Converge](https://open.spotify.com/artist/7kHzfxMLtVHHb523s43rY1) | [Love Is Not Enough](https://open.spotify.com/album/4Xk05QlbDNsLavcAVfOZBV) | 2:22 | 2025-11-21 |  |
 | [Love Lighter](https://open.spotify.com/track/1PVWFyT7U3seAFROL0KT6y) | [Halo Bite](https://open.spotify.com/artist/7I18r5VZ8g2bJswX2x2tKw) | [Love Lighter](https://open.spotify.com/album/2wRLdvANfmKyzhstg8VPP5) | 2:58 | 2024-04-12 | 2025-04-11 |
 | [Lowered](https://open.spotify.com/track/7iTdUbHzNBl5Io3AVQGtli) | [Greg Puciato](https://open.spotify.com/artist/3seAlZdPsUKKveZltRG7wi), [Reba Meyers](https://open.spotify.com/artist/5kIOwxQ4DBNm9ZQbbGgkIE) | [Lowered](https://open.spotify.com/album/3tfEyD1TjqTDnFqRDpzCnj) | 4:10 | 2022-02-25 | 2023-07-15 |
 | [Lowest](https://open.spotify.com/track/7xO7DaKECDqukf1cr25LJd) | [From A Second Story Window](https://open.spotify.com/artist/2BMSRmXfr41q3wsd0rq6aE) | [Lowest](https://open.spotify.com/album/2UvIITAH9Dqiz5uzvPPlUx) | 1:44 | 2025-01-03 |  |
@@ -619,6 +622,7 @@
 | [Natural Selection](https://open.spotify.com/track/53V9f6KYje1szmkJeMBlJ5) | [Signs of the Swarm](https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS) | [To Rid Myself Of Truth](https://open.spotify.com/album/4V7kK1ChSXsCvUFxqGHQnx) | 3:56 | 2025-08-22 |  |
 | [Nauseating Despair](https://open.spotify.com/track/75l59IlC5Vnv950vbdB0X2) | [Phobophilic](https://open.spotify.com/artist/1cdxNUejlVcTwgWocqB3eF) | [Nauseating Despair](https://open.spotify.com/album/3ytulfN7eaFD9aIQikuM27) | 4:39 | 2022-07-08 | 2023-07-15 |
 | [Necromanteum](https://open.spotify.com/track/4BsyVbO7MkrVTJzBOQHS1M) | [Carnifex](https://open.spotify.com/artist/4nqY8hkQNkHaDq4fdVxdYr) | [Necromanteum](https://open.spotify.com/album/2RZ0KrPK6mMo4XGjY0Ag8X) | 4:26 | 2023-07-07 | 2024-02-03 |
+| [Necropalace](https://open.spotify.com/track/7rqQ4OmaNKpJCXfwbwtBD0) | [Worm](https://open.spotify.com/artist/5KGJFenkLeQ77WEgKFPnTZ) | [Necropalace](https://open.spotify.com/album/24jjlpMa7sAMvXNUtuDrS6) | 10:04 | 2025-11-21 |  |
 | [Nerve](https://open.spotify.com/track/7axsqaUbWaD2MMnIiJUv36) | [Orbit Culture](https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY) | [Nerve](https://open.spotify.com/album/4BbTiIHFLWEkqabIVpDDDE) | 5:52 | 2025-09-05 |  |
 | [Never Again \(Parasite\)](https://open.spotify.com/track/5gXIDQDs0ur8CjPg6BFLoG) | [Tetrarch](https://open.spotify.com/artist/5e43m4iYsZF54tHcJNAVU2) | [Never Again \(Parasite\)](https://open.spotify.com/album/6JiZnSdiYzpqUBdmHZVnWv) | 3:24 | 2025-02-14 |  |
 | [Never Die](https://open.spotify.com/track/4aLOfskYjNxBplJiQQwHA8) | [Never Ending Game](https://open.spotify.com/artist/1S8NfdnAl7u08mTjEtDWLp) | [Memories \- Never Die](https://open.spotify.com/album/5BhjGKh1kSckdDEPsmiVAn) | 2:13 | 2023-03-24 | 2024-02-03 |
@@ -708,6 +712,7 @@
 | [Paralyzed](https://open.spotify.com/track/0Ve1dre3NWquRzDge8hyyD) | [Sleep Theory](https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN) | [Paralyzed](https://open.spotify.com/album/2Bm13FR7F0QrvQEqeg2nEb) | 3:26 | 2024-10-25 | 2025-04-11 |
 | [Paranoia](https://open.spotify.com/track/5WQOU9N0eVbFP448Mw7fhn) | [Kill Dyll](https://open.spotify.com/artist/1r5YzslA0QwyIZISgHJrU7) | [Paranoia](https://open.spotify.com/album/7be4xm8QKyrU69PnkD3XTF) | 1:30 | 2024-01-05 | 2025-04-11 |
 | [Parasite](https://open.spotify.com/track/0zroL15iMnkr1qiXi571lH) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Dilworth](https://open.spotify.com/album/4s3yqrwac7ZFbdTU5iEojq) | 2:50 | 2025-09-26 |  |
+| [Parasocial Christ](https://open.spotify.com/track/5v2qSbA4BeIKhhBSHbfH6i) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Parasocial Christ](https://open.spotify.com/album/66PcSynAzKA0YtIU7Drb9x) | 3:20 | 2025-11-21 |  |
 | [Pass The Nirvana](https://open.spotify.com/track/5SDhI2jKg0S5fzEEqPCHiV) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Pass The Nirvana](https://open.spotify.com/album/50eq5hUKnqB9e51D9GSmKs) | 3:17 | 2022-09-02 | 2023-07-15 |
 | [Path Of Our Disease](https://open.spotify.com/track/4ix9IZPjKQYpf3Sn98zppz) | [Bleeding Through](https://open.spotify.com/artist/41btkKEfOGIHsd7WNahMCi) | [Path Of Our Disease](https://open.spotify.com/album/3UD2b4iAIh1x10JLy9utAD) | 3:19 | 2024-11-29 | 2025-04-11 |
 | [Patient Number 9 \(feat\. Jeff Beck\)](https://open.spotify.com/track/6kAOsnRUgp21bPiUoVZeuJ) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Patient Number 9 \(feat\. Jeff Beck\)](https://open.spotify.com/album/6ofIoMgNMIM7cvlxjWNcpN) | 7:21 | 2022-06-24 | 2023-07-15 |

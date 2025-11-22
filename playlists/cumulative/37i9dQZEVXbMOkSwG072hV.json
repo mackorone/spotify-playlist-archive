@@ -12666,7 +12666,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 266737,
       "name": "CAJU",
       "url": "https://open.spotify.com/track/7DSDIL1ANt76FfEASnkA5p"
@@ -20616,7 +20616,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-20",
+      "date_removed": null,
       "duration_ms": 138000,
       "name": "Dharma",
       "url": "https://open.spotify.com/track/0EZg6KOUpuq9bBDWrPpK1f"
@@ -55686,10 +55686,28 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 114404,
       "name": "Onde Anda Meu Amor",
       "url": "https://open.spotify.com/track/3JrZOn3ul1VVQvfpnh7Tdo"
+    },
+    {
+      "album": {
+        "name": "Onde Anda Meu Amor",
+        "url": "https://open.spotify.com/album/55njd9g5GibQ6EgtK4yFSx"
+      },
+      "artists": [
+        {
+          "name": "La\u00e9rcia Dantas",
+          "url": "https://open.spotify.com/artist/1dVyYH3h8GsRWHFerBranw"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114566,
+      "name": "Onde Anda Meu Amor",
+      "url": "https://open.spotify.com/track/5ddXlDwQx3IkjzTn8nnZgt"
     },
     {
       "album": {
@@ -61436,7 +61454,7 @@
       ],
       "date_added": "2025-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-31",
+      "date_removed": null,
       "duration_ms": 178186,
       "name": "Pq Vc N\u00e3o Me Liga?",
       "url": "https://open.spotify.com/track/1hESdOnr1bF7LHqvubefn4"
@@ -74340,7 +74358,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 186352,
       "name": "Te Amo, Te Odeio",
       "url": "https://open.spotify.com/track/2YHn7o5nEpXMdy4xvFIuJs"

@@ -4,7 +4,7 @@
 
 > New music off the beaten track\. Cover: KYTES
 
-1,322 songs - 3 day 15 hr 4 min
+1,322 songs - 3 day 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -708,6 +708,7 @@
 | [Love the Night Away \- Tiedye Remix](https://open.spotify.com/track/07Ns9rFnzsFlVEt5ZdY5Lt) | [DJ Kaos](https://open.spotify.com/artist/25IdOX2HbRLOCP98XoJujb), [Tiedye](https://open.spotify.com/artist/4tjweyUy01CX8opmk4VTjz) | [Dj Kaos Remixed](https://open.spotify.com/album/5G7QRwTR2tWqlR9WVhOtxB) | 7:12 | 2022-12-30 | 2023-01-02 |
 | [Love Vibration \- Yuksek Remix](https://open.spotify.com/track/21RCik7kfIcrYjBfFFx1Op) | [Sentimental Animals](https://open.spotify.com/artist/5wyOPDFPqdAfYMSOiZTrbu), [JKriv](https://open.spotify.com/artist/1E7Z1EQlB22dXWNzsAxY0K), [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf), [Nicki B The Vagabond](https://open.spotify.com/artist/1B76LVvwgQLQ6HTCm0HcrV) | [Love Vibration \(Yuksek Remix\)](https://open.spotify.com/album/4hCy4xHT1LbgOGTpV3QoVE) | 3:50 | 2022-12-30 | 2023-01-02 |
 | [Love Who You Love](https://open.spotify.com/track/2uvcftCCrCr2pprXUJ6Vjr) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Love Who You Love](https://open.spotify.com/album/6RdhCbS2KuedWjsjuecMuY) | 3:59 | 2025-11-06 |  |
+| [Love Will Make You Do Strange Things](https://open.spotify.com/track/4SzPqEp7vBRRacbcrfCbCj) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Chewing The Fat \(Deluxe\)](https://open.spotify.com/album/3trlSAdPTDzZl6nAzzgo5A) | 3:03 | 2025-11-20 |  |
 | [Love Will Save Me](https://open.spotify.com/track/2YjXImhg2zXDmWcVy1oSDw) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Love Will Save Me](https://open.spotify.com/album/2QNFtpX9BzNTrzRF0A4tbe) | 4:37 | 2024-02-08 | 2024-05-17 |
 | [Loveher](https://open.spotify.com/track/75PNzduM0yViwNeye50xdP) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Loveher](https://open.spotify.com/album/6n07xRHzroJVVSFnQ6TyiX) | 3:49 | 2023-06-09 | 2023-08-18 |
 | [LOVER](https://open.spotify.com/track/61UK8pJVvE6peUni27ZOcA) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [LOVER](https://open.spotify.com/album/57mcrQqIYUZWljpJ5rtkcs) | 3:09 | 2024-06-27 | 2024-08-02 |
@@ -1178,7 +1179,6 @@
 | [Too Late Now](https://open.spotify.com/track/4K9eOKTYeSCrh4TdWiWgG5) | [Effemar](https://open.spotify.com/artist/3QD8Op2asIft2YDqX154NB) | [Too Late Now](https://open.spotify.com/album/1RYKlpXlpCOtF2d8pUuUX6) | 2:47 | 2024-11-21 | 2025-01-17 |
 | [Too Much Too Little](https://open.spotify.com/track/6uB9IlAd8cad9y7yDCeALb) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [Too Much Too Little](https://open.spotify.com/album/3v8ICDGTwpe8Sneh0Pkgdl) | 2:57 | 2024-02-15 | 2024-03-15 |
 | [Too Much Yayo](https://open.spotify.com/track/0fBrjGe5JD1XKifxYjwbbF) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [Too Much Yayo](https://open.spotify.com/album/0AGY3CMv8urFXrbzhZ07SO) | 3:41 | 2023-08-17 | 2023-09-01 |
-| [Track 2](https://open.spotify.com/track/4SzPqEp7vBRRacbcrfCbCj) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-20 |  |
 | [Tragic](https://open.spotify.com/track/6vuCLbEyyREx5vM3UYhPPh) | [Liam Mockridge](https://open.spotify.com/artist/2AVSP0Z9axRhpkMC4EImbG), [Billy Otto](https://open.spotify.com/artist/68K7z2GTeiBnNteSfDGOzH) | [Tragic](https://open.spotify.com/album/6KdRv1DhJTQWK5IUO1IVyK) | 2:46 | 2024-02-08 | 2024-03-15 |
 | [Train in Vain \(Stand by Me\) \- Remastered](https://open.spotify.com/track/6ITuEsxEy2qPhqMowdDAeI) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [London Calling \(Remastered\)](https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a) | 3:14 | 2023-12-28 | 2024-01-02 |
 | [Tratado](https://open.spotify.com/track/3FIHVdnrLoAiwpHHwIf5Hb) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Tratado](https://open.spotify.com/album/4g09uUdGjos9R4tWzsQRF0) | 4:14 | 2023-09-14 | 2024-03-22 |

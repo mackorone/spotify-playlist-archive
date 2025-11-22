@@ -4,7 +4,7 @@
 
 > New and recent favorites of Prog Metal\. Cover: Opeth
 
-847 songs - 3 day 0 hr 34 min
+848 songs - 3 day 0 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [As the Sea Divides](https://open.spotify.com/track/2ajQYCwCyfVU6PIkPk6Sz9) | [Shattered Skies](https://open.spotify.com/artist/01x1T6wFazEkb6L3DjaIYX) | [Songs in the Key of D](https://open.spotify.com/album/5Q6P6hVIPRyX2K6ha1Npqj) | 5:52 | 2021-12-17 | 2022-01-29 |
 | [Assassins](https://open.spotify.com/track/3AG4HbsTsfWs9UxQkiZjjW) | [HYVMINE](https://open.spotify.com/artist/04SzeqqeUYtUPhwyEGCVbz) | [Assassins](https://open.spotify.com/album/6nMcudVxY5q322alkFs2wh) | 5:50 | 2021-12-17 | 2022-07-29 |
 | [Astral Liberation](https://open.spotify.com/track/4W0pJ4h0uQvQMbBU9aRbXC) | [The Paralydium Project](https://open.spotify.com/artist/2tDD4Lon3s0KIvXbCnNzFO) | [The Paralydium Project](https://open.spotify.com/album/4ts2vqasJLcacHS9sQY0MZ) | 8:40 | 2021-12-17 | 2022-01-28 |
-| [At Races](https://open.spotify.com/track/2F9RANfKhByYWOhUiY7Fh0) | [Messa](https://open.spotify.com/artist/6vFinMN4E9leUfcEyIIO0D) | [At Races](https://open.spotify.com/album/1YXeMcK6jeDBQ41M3DpSZ3) | 5:59 | 2025-02-07 |  |
+| [At Races](https://open.spotify.com/track/2F9RANfKhByYWOhUiY7Fh0) | [Messa](https://open.spotify.com/artist/6vFinMN4E9leUfcEyIIO0D) | [At Races](https://open.spotify.com/album/1YXeMcK6jeDBQ41M3DpSZ3) | 5:59 | 2025-02-07 | 2025-11-22 |
 | [At the behest of night](https://open.spotify.com/track/54549MU3UapPjbGzY3PUXq) | [In Mourning](https://open.spotify.com/artist/0gsIXiV7rw5I9wJaxgoOdB) | [At the behest of night](https://open.spotify.com/album/2rq8tI4CdZUcha8VioRobG) | 5:03 | 2021-12-17 | 2022-07-28 |
 | [At the behest of night](https://open.spotify.com/track/7fHFdpyc17WghB8DAicz6S) | [In Mourning](https://open.spotify.com/artist/0gsIXiV7rw5I9wJaxgoOdB) | [The Bleeding Veil](https://open.spotify.com/album/2CUsVsLGck7UNb0XCi7Mvw) | 5:03 | 2022-09-02 | 2023-01-21 |
 | [At the Behest of Origins](https://open.spotify.com/track/1T3tO7bdsMwlA8W4hWbXwE) | [Stengah](https://open.spotify.com/artist/4tvaP00z8io0RNfc8ib0sF) | [At the Behest of Origins](https://open.spotify.com/album/6WdZ2mbYCKFIB8NcTOJUef) | 4:32 | 2021-12-17 | 2022-01-22 |
@@ -293,6 +293,7 @@
 | [Gifted Every Strength](https://open.spotify.com/track/50Rr3aPZNinnaTIbR7e3AG) | [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd) | [Gifted Every Strength](https://open.spotify.com/album/2Ds01d8hsxzJtNTEZVz41G) | 6:10 | 2025-05-02 |  |
 | [Glass](https://open.spotify.com/track/6JQlRaRd38T5DhUaDnR5yG) | [Unprocessed](https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4) | [Glass](https://open.spotify.com/album/65p0SUPb3ZLo9BBgxHAcoc) | 3:46 | 2023-12-06 |  |
 | [Gluttony](https://open.spotify.com/track/5Lb4V4hzjSLtht1umgFdfa) | [Theraphosa](https://open.spotify.com/artist/6KbRoNB73W0QozKoQ7T2Ge) | [Gluttony](https://open.spotify.com/album/2ooQDwESE21g2QTWLot2ii) | 3:36 | 2023-12-06 | 2025-10-11 |
+| [Go Not Thither](https://open.spotify.com/track/1qu0XDzc9oNnI8bHwD8SJW) | [Paul Gilbert](https://open.spotify.com/artist/19sJfp2FK2evlsw46WVhPG) | [Go Not Thither](https://open.spotify.com/album/61NkiJ8QSowo8WHKzQEsn5) | 4:52 | 2025-11-21 |  |
 | [Go With Your Ghost](https://open.spotify.com/track/4qa0jsQWm6pUWeffnaYxYT) | [Stellar Circuits](https://open.spotify.com/artist/1TBEqj7m690miuGi6HmkfV) | [Go With Your Ghost](https://open.spotify.com/album/7huklU2xBCjc6Ms0nJjHc3) | 4:03 | 2021-12-17 | 2022-05-09 |
 | [God is in the Slumber](https://open.spotify.com/track/5CiLiwu8FzetlzVa15taDs) | [Hippotraktor](https://open.spotify.com/artist/2gK9GyHbKYyvigK6wOb7pv) | [God is in the Slumber](https://open.spotify.com/album/5rDrzED7ZQRb706aNnElUh) | 4:35 | 2021-12-17 | 2022-07-26 |
 | [God Terror](https://open.spotify.com/track/1wlikY9neDeNwPvVFETOod) | [Between The Buried And Me](https://open.spotify.com/artist/2JC4hZm1egeJDEolLsMwZ9) | [The Blue Nowhere](https://open.spotify.com/album/7qy9gnX5SXAeW9fO6pzwTh) | 6:41 | 2025-09-12 |  |
@@ -423,7 +424,7 @@
 | [Lotus](https://open.spotify.com/track/3aUXwNbiCZRkuA0p2Ic79Y) | [Soen](https://open.spotify.com/artist/38uWD5h115pdz278q4rwZW) | [Lotus](https://open.spotify.com/album/4XiQU9w2Ldk1WYSa8Qm5qd) | 5:23 | 2021-12-17 | 2022-07-01 |
 | [Love in the Time of Pestilence](https://open.spotify.com/track/1L4BtGYob6EaRXLDzSmcom) | [The Chronicles of Manimal and Samara](https://open.spotify.com/artist/2V3zzIcq2sbRbaEjbGypc8) | [Love in the Time of Pestilence](https://open.spotify.com/album/2umQh1Vbk9Kxvpg8dlkvId) | 7:41 | 2021-12-31 | 2022-07-27 |
 | [Love Weapon](https://open.spotify.com/track/0YWKzSTSpRTjdQp1Wmym4M) | [Astronoid](https://open.spotify.com/artist/2S13OV7nLeciVigE0Wxo7E) | [Love Weapon](https://open.spotify.com/album/4XbIcl1VoAf9T8OTWkYdfv) | 4:40 | 2025-10-24 | 2025-11-08 |
-| [Lovebite](https://open.spotify.com/track/5eF04x4p4bLw6rpaNcMX8n) | [Haken](https://open.spotify.com/artist/2SRIVGDkdqQnrQdaXxDkJt) | [Lovebite](https://open.spotify.com/album/7l5C0M00szx06bZBiRfitX) | 3:49 | 2023-02-24 | 2025-11-19 |
+| [Lovebite](https://open.spotify.com/track/5eF04x4p4bLw6rpaNcMX8n) | [Haken](https://open.spotify.com/artist/2SRIVGDkdqQnrQdaXxDkJt) | [Lovebite](https://open.spotify.com/album/7l5C0M00szx06bZBiRfitX) | 3:49 | 2023-02-24 |  |
 | [Lucid \- Instrumental](https://open.spotify.com/track/2ZxbarbDgwGoe2DwoNM3v7) | [Divitius](https://open.spotify.com/artist/3OpDQOKBjTtNipHUBb9ABW) | [The Arcadian Parallel](https://open.spotify.com/album/7ja3OhYK0rI9jO9N1rnc6r) | 4:30 | 2022-07-13 | 2024-06-11 |
 | [Lunatic Fringe](https://open.spotify.com/track/5aFvQjdc3KvJEvUkEHI7TL) | [Four Stroke Baron](https://open.spotify.com/artist/091cSUyhQCRgJreqXy17m5) | [Lunatic Fringe](https://open.spotify.com/album/5rrj2JXuTlR2QY3vtrSQTE) | 4:13 | 2021-12-17 | 2022-07-28 |
 | [MADARA · endless dream](https://open.spotify.com/track/1DHbRaVkKEUneuzlVN4Yoc) | [Ankor](https://open.spotify.com/artist/6wADzvUWqgYWXigndo6Mmj) | [MADARA · endless dream](https://open.spotify.com/album/5YB8RXBdO0fvRK7PRjYnS1) | 4:08 | 2025-09-26 |  |
@@ -498,7 +499,7 @@
 | [Nowhere](https://open.spotify.com/track/1Uy2ftDSKw3WmS5pEbKPtx) | [ASHEN](https://open.spotify.com/artist/0ussJndMOAWWfaUtXSttFU) | [Nowhere](https://open.spotify.com/album/0zIO29lL9JxZCLhPszt6me) | 5:02 | 2022-10-28 | 2024-04-19 |
 | [Nowhere](https://open.spotify.com/track/3GSiy6QJ8LM2o1u6NimbZT) | [ASHEN](https://open.spotify.com/artist/0ussJndMOAWWfaUtXSttFU) | [Nowhere](https://open.spotify.com/album/6fOy4uokE6m81dMyrwAKtv) | 5:02 | 2022-07-13 | 2022-11-20 |
 | [Nyetflix and Chill](https://open.spotify.com/track/2eqyBC1ESZ4bEmwdH0g3j3) | [Nuclear Power Trio](https://open.spotify.com/artist/1ehBmvzykgp3Il0BUIZdev) | [Nyetflix and Chill](https://open.spotify.com/album/2pcBh5WHqZoslypnOWbWCe) | 3:23 | 2023-12-06 | 2025-05-29 |
-| [Obsolete](https://open.spotify.com/track/4QMQEp5DlreObCrcQox4UZ) | [Wiltwither](https://open.spotify.com/artist/3HoW6Io7vdOF0scarlinO5) | [Obsolete](https://open.spotify.com/album/6WMiiKGfJtXAcllpzrTIi3) | 3:13 | 2025-10-17 |  |
+| [Obsolete](https://open.spotify.com/track/4QMQEp5DlreObCrcQox4UZ) | [Wiltwither](https://open.spotify.com/artist/3HoW6Io7vdOF0scarlinO5) | [Obsolete](https://open.spotify.com/album/6WMiiKGfJtXAcllpzrTIi3) | 3:13 | 2025-10-17 | 2025-11-22 |
 | [Obsolete Beings](https://open.spotify.com/track/0FiVaht935tCYXQFMJF5uX) | [Voivod](https://open.spotify.com/artist/0lFiKrJUofJpnrAJnMsnQ3) | [Obsolete Beings](https://open.spotify.com/album/3mZkwo2gwJP5smBjH04Hp9) | 5:34 | 2021-12-17 | 2022-01-29 |
 | [Ocean Floor](https://open.spotify.com/track/46BZw3T2wk1Y38U04wUUTn) | [Teramaze](https://open.spotify.com/artist/37Pf9riF70VuuPMXP4kz3J) | [I Wonder](https://open.spotify.com/album/4c3hETZkctstH28srhPFZh) | 6:17 | 2021-12-17 | 2022-07-17 |
 | [Ocean in the Sky](https://open.spotify.com/track/0FyPJSY4kuQwwd6Bras3ek) | [NUTRONIC](https://open.spotify.com/artist/3VnPsIJuT0zVGQPJk2MaRr) | [Futures \(Deluxe Edition\)](https://open.spotify.com/album/7o7ksjM61aXwu3x91xLS4V) | 6:06 | 2022-09-02 | 2023-01-21 |

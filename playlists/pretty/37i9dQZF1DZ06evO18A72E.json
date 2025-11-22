@@ -1,12 +1,12 @@
 {
   "description": "This is Panic! At The Disco. The essential tracks, all in one playlist.",
-  "num_followers": 777538,
+  "num_followers": 777553,
   "original_name": "This Is Panic! At The Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aR0IgAAAAAAluUFxqM+phD8n7R7rroT4",
+  "snapshot_id": "aR5aAAAAAAA4MNCesQYyGhPuUqKATcKt",
   "tracks": [
     {
       "added_at": null,
@@ -147,8 +147,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pray for the Wicked",
-        "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
+        "name": "The Greatest Show",
+        "url": "https://open.spotify.com/album/5C8a48NKuieqX1XlJvHzCs"
       },
       "artists": [
         {
@@ -156,9 +156,9 @@
           "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 169666,
-      "name": "Hey Look Ma, I Made It",
-      "url": "https://open.spotify.com/track/22oEJW6r2rMb9z4IntfyEa"
+      "duration_ms": 174306,
+      "name": "The Greatest Show",
+      "url": "https://open.spotify.com/track/55PZSFcKQxXH5BOOcDA6yI"
     },
     {
       "added_at": null,
@@ -195,8 +195,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Greatest Show",
-        "url": "https://open.spotify.com/album/5C8a48NKuieqX1XlJvHzCs"
+        "name": "Pray for the Wicked",
+        "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
       },
       "artists": [
         {
@@ -204,9 +204,9 @@
           "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 174306,
-      "name": "The Greatest Show",
-      "url": "https://open.spotify.com/track/55PZSFcKQxXH5BOOcDA6yI"
+      "duration_ms": 169666,
+      "name": "Hey Look Ma, I Made It",
+      "url": "https://open.spotify.com/track/22oEJW6r2rMb9z4IntfyEa"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Jordan Davis. The essential tracks, all in one playlist.",
-  "num_followers": 52882,
+  "num_followers": 52907,
   "original_name": "This Is Jordan Davis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aR0IgAAAAACTEGIw0zEsvfhZBItvD+ro",
+  "snapshot_id": "aR5aAAAAAAA0vpFJL96G25DqJEnYuw8J",
   "tracks": [
     {
       "added_at": null,
@@ -679,6 +679,26 @@
       "duration_ms": 184174,
       "name": "Trouble Town",
       "url": "https://open.spotify.com/track/7wmCQ3tYnjfk03VuVrsgzr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Portland, Maine (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/0Npi170tBzhAhyGnVpTWov"
+      },
+      "artists": [
+        {
+          "name": "Donovan Woods",
+          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
+        },
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 210915,
+      "name": "Portland, Maine (feat. Jordan Davis)",
+      "url": "https://open.spotify.com/track/6M8VA1HQWAP4wggoPZ5ota"
     }
   ],
   "unique_name": "This Is Jordan Davis",

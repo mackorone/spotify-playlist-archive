@@ -4,7 +4,7 @@
 
 > Dein Deutschpop\. Deine Welt\. Deine Playlist\. Cover: NESS
 
-146 songs - 6 hr 30 min
+148 songs - 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [3 Uhr Nachts](https://open.spotify.com/track/3UYxIENAasKz3LVwOnTeLX) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [3 Uhr Nachts](https://open.spotify.com/album/7jNfteIpvg0fWLB3HVJu2a) | 2:11 | 2025-10-24 |  |
 | [50 stufen grau](https://open.spotify.com/track/5byb8ihCSCwtDnmCxjJl2q) | [jolle](https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ) | [50 stufen grau](https://open.spotify.com/album/4d48G0AFCqq3fVYFDYZn3r) | 2:28 | 2025-10-24 |  |
 | [Adieu](https://open.spotify.com/track/5GCadjq15wCiYe5l8CAUfL) | [Anne West](https://open.spotify.com/artist/7vnzT1IcZ6hjENfvQBeBQP) | [Adieu](https://open.spotify.com/album/2kAvTA4eyLVM8e3w38GPqd) | 2:46 | 2025-10-24 |  |
-| [Albtraum](https://open.spotify.com/track/0HCn3XZWEkApdrjnoo1zxT) | [NESS](https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R) | [](https://open.spotify.com/album/null) | 2:15 | 2025-11-20 |  |
+| [Albtraum](https://open.spotify.com/track/0HCn3XZWEkApdrjnoo1zxT) | [NESS](https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R) | [Leben überleben EP](https://open.spotify.com/album/2umf9596Dfp4XcZkWydg9q) | 2:15 | 2025-11-20 |  |
 | [Alles geht vorbei](https://open.spotify.com/track/0fMQaxrTwTS8WObA5Khm3x) | [Florian Künstler](https://open.spotify.com/artist/50ZzowkYhUZZ2uGZSXqJbE), [Clara Lösel](https://open.spotify.com/artist/2zvrvaZ5KQSvaytNqlvRXC) | [Alles geht vorbei](https://open.spotify.com/album/7gxjpXv6sLLIvt7ud26yUw) | 2:31 | 2025-10-24 | 2025-11-21 |
 | [Alles in Bewegung](https://open.spotify.com/track/5wCfiLsNlR0CYLGv84IVZY) | [Tim Bendzko](https://open.spotify.com/artist/3xDVmZmDpaF1uuez2N7mKl) | [Alles in Bewegung](https://open.spotify.com/album/1ygmFSbeYSkgMKWQF6XSS2) | 3:21 | 2025-10-24 | 2025-11-21 |
 | [Alles Nochmal](https://open.spotify.com/track/6DG5Flwe2Q0T48x64aodRm) | [CARLI](https://open.spotify.com/artist/669JFUZgZaJ9uuBT7cGpU6) | [Alles Nochmal](https://open.spotify.com/album/2C4N0TnxGBK9JlsZU6wyuL) | 2:42 | 2025-11-20 |  |
@@ -23,6 +23,7 @@
 | [Ankommen](https://open.spotify.com/track/4mmOZbQqYxWdaKGuZa05M3) | [TOCHTER](https://open.spotify.com/artist/3ygi0RTsXTi7zPVp5Be9fR) | [Ankommen](https://open.spotify.com/album/07UqjmQ6xt3prwyC6FXth8) | 2:15 | 2025-11-06 |  |
 | [Apartment](https://open.spotify.com/track/7nrWDekykTH5iPfIMBLyiE) | [Xavi](https://open.spotify.com/artist/0ZCbxUPZReHqmDsGmiRvL1) | [Apartment](https://open.spotify.com/album/242ML1JZLt4Ny5BMuPOddK) | 2:59 | 2025-10-24 | 2025-11-21 |
 | [Aschenbecher](https://open.spotify.com/track/4wsPwygeXbplj6tsagzHGE) | [maïa](https://open.spotify.com/artist/3bcCrzlcDxhgXEsk5sqgmR) | [Aschenbecher](https://open.spotify.com/album/51ktaA0HdiIGNPRODnBEhN) | 2:48 | 2025-10-30 |  |
+| [AUF WIEDERSEHEN](https://open.spotify.com/track/5EszaezpFzjTA6rhT6TdmR) | [Fae August](https://open.spotify.com/artist/660isF0NgHAvBvPagaUmEL), [Luna Antonia](https://open.spotify.com/artist/5wql7oielCnJBx098O8Thc) | [AUF WIEDERSEHEN](https://open.spotify.com/album/3Zetjt6Tbcmk8uvKyJ0UWX) | 3:03 | 2025-11-21 |  |
 | [ausnahmsweise](https://open.spotify.com/track/3itv6ZboXuuklHkb5kHWVx) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC), [yola](https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF) | [ausnahmsweise](https://open.spotify.com/album/1SzOe7VovQFWisdh0AWfyJ) | 2:31 | 2025-10-24 |  |
 | [Auto](https://open.spotify.com/track/289I3nxe1LVSrTSJBMPb0k) | [NESS](https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R) | [Auto](https://open.spotify.com/album/4GydUEdCJwCMVSJmelhpTX) | 2:58 | 2025-10-24 | 2025-10-31 |
 | [AZRA](https://open.spotify.com/track/6SGCvB2LejiqTX2BH2vWVC) | [ELIF](https://open.spotify.com/artist/65AzRSW0jKSs0WtttEXrOw) | [AZRA](https://open.spotify.com/album/4RyKGmwlBGbPdkssSKGzWO) | 2:22 | 2025-11-13 |  |
@@ -60,7 +61,7 @@
 | [Gänsehaut](https://open.spotify.com/track/4Mg3E0QEPAWqbgcDmweYDE) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Tagebuch](https://open.spotify.com/album/2W2W5TRADkqW39u9eppWtE) | 2:27 | 2025-11-06 |  |
 | [Hallo](https://open.spotify.com/track/75QCnBW56Y7iPjJ9d7Y9Wn) | [ELEHA](https://open.spotify.com/artist/56mSZjn1q0tcYyC1N2c7TT) | [Hallo](https://open.spotify.com/album/6zAhoTEzsK3QdJBgtKdpBr) | 1:57 | 2025-10-24 | 2025-10-31 |
 | [Halt mich fest](https://open.spotify.com/track/1EiqmOKRHmIm1M8CzCz6Lw) | [Jona Straub](https://open.spotify.com/artist/42mdVKdNJDsmQasPjTqVao) | [Sterne stehen gut](https://open.spotify.com/album/7cUO1GkjJ2AYZb12Cl3MQe) | 3:27 | 2025-10-24 | 2025-11-07 |
-| [Hamsterrad Tristesse](https://open.spotify.com/track/36NZxmvPCbT7RAyyKiC4TA) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN) | [](https://open.spotify.com/album/null) | 3:06 | 2025-11-20 |  |
+| [Hamsterrad Tristesse](https://open.spotify.com/track/36NZxmvPCbT7RAyyKiC4TA) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN) | [Loup Garou](https://open.spotify.com/album/2Peslf5kduT4RFrCZZBhRM) | 3:06 | 2025-11-20 |  |
 | [Hast du kurz Zeit](https://open.spotify.com/track/46BjFXnWrumhdl0uvk7IwE) | [Wincent Weiss](https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp) | [Hast du kurz Zeit](https://open.spotify.com/album/3zzgES6xGTbJag6mGUxbpJ) | 2:13 | 2025-10-24 |  |
 | [Hast Du noch Zeit](https://open.spotify.com/track/1SzoBnBS89avSRd5ufvFK3) | [KAFFKIEZ](https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo) | [Hast Du Noch Zeit](https://open.spotify.com/album/7Cqy3a8K3hnrc2ESfRglnV) | 3:25 | 2025-11-20 |  |
 | [Heiß für mich](https://open.spotify.com/track/6X7nt1o6fH3oJ7UtH5t5g7) | [Bekkaa](https://open.spotify.com/artist/7k37c7AypimVqHqmAUR1aZ) | [Verliebst du dich, oder andersrum?](https://open.spotify.com/album/6FvTWLTSVN9AC3azVaVkZq) | 2:16 | 2025-10-24 |  |
@@ -93,6 +94,7 @@
 | [Liebling](https://open.spotify.com/track/4jTkTLwpQ7UFoMxgp153ST) | [Sandra Hesch](https://open.spotify.com/artist/4Kmi9gtWqvt7AJU2m1SNsh) | [Liebling](https://open.spotify.com/album/67GN9IEJ6s6fEsrQCkLmbe) | 2:01 | 2025-10-24 | 2025-10-31 |
 | [lieblingslied](https://open.spotify.com/track/0MCgv85fHMQd1bnJObN13K) | [Mika Noé](https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9) | [lieblingslied](https://open.spotify.com/album/6V2hiM28I7nIxse5Fvz5Qp) | 2:26 | 2025-11-13 |  |
 | [Lovesick](https://open.spotify.com/track/5ObvmKHmRJntofLvwpP36t) | [Clueso](https://open.spotify.com/artist/0iFq8SzyZaaQ2Fn6CLDxqW) | [Lovesick](https://open.spotify.com/album/3AwV2fmBZezk62WPGkRmuH) | 2:15 | 2025-10-24 | 2025-11-14 |
+| [Lüg mich an](https://open.spotify.com/track/0IxACreSaWndPjpXFn0fVw) | [Isaíni](https://open.spotify.com/artist/777iWFN4fvGzKvJmDJ1xOE) | [Lüg mich an](https://open.spotify.com/album/1cp1G65doSKHssf7hbR95X) | 2:54 | 2025-11-21 |  |
 | [magisch](https://open.spotify.com/track/0wmR6boixeo88YknUEIfmq) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [magisch](https://open.spotify.com/album/57Nc1KuainRUqaYWn9abQD) | 2:56 | 2025-11-20 |  |
 | [Mann im Mond](https://open.spotify.com/track/23G9Y9YjFY7faYiVt292F5) | [Tuana](https://open.spotify.com/artist/3ZWwXDrjt9O5p1w7vxLyUv) | [Mann im Mond](https://open.spotify.com/album/4ZMXm6mHBBsyJvxIk2yWqH) | 2:40 | 2025-11-13 |  |
 | [Mauern aus Granit](https://open.spotify.com/track/3BPns5Bo5yH8QLcpdWhLCT) | [NESS](https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R) | [Leben überleben EP](https://open.spotify.com/album/3MRa3aTo1r7Igx07Hw5H0J) | 2:33 | 2025-11-13 |  |

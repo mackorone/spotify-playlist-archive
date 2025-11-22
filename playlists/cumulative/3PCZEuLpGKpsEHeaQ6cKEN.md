@@ -4,7 +4,7 @@
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \|
 
-1,647 songs - 3 day 15 hr 35 min
+1,648 songs - 3 day 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1045,6 +1045,7 @@
 | [Overpowered](https://open.spotify.com/track/7uK5JxAsY8gkZpe0WxF0Rt) | [Smokey Bubblin' B](https://open.spotify.com/artist/1iXq8vdKgJp43m1vhiAmUM), [Alex Mills](https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq) | [Overpowered](https://open.spotify.com/album/51ewt5eIln1nQrlxfIO3hw) | 2:40 | 2024-01-04 | 2024-08-31 |
 | [Overthinking](https://open.spotify.com/track/2mFjUNz6k5MHnx0FlzjXnY) | [Trey Mirror](https://open.spotify.com/artist/2rnoTsgsrF3cPszkdu6fDw) | [Overthinking](https://open.spotify.com/album/2aBzd1YNkkCrQANSAYFbPa) | 3:58 | 2023-12-07 | 2024-06-08 |
 | [Oxygen](https://open.spotify.com/track/00sy6AoG8pNFxbdAWHhsrn) | [Ben Nicky](https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA), [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO), [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Oxygen](https://open.spotify.com/album/6c9IwkWbbNrZ77MLsGbMM9) | 2:52 | 2025-07-25 |  |
+| [Paid to Exist](https://open.spotify.com/track/21NDm0NzC6nyqoHymZlOoV) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL) | [Paid to Exist](https://open.spotify.com/album/6I4rcyMNlUOv1Bd6jC4wCK) | 1:52 | 2025-11-21 |  |
 | [Para Mi](https://open.spotify.com/track/3RFESPIpvob2mdNyHyNcWY) | [ARTO](https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn) | [Para Mi](https://open.spotify.com/album/5NiICKMH7RL1DwaF9vrbR6) | 2:38 | 2022-09-01 | 2022-09-23 |
 | [Paradise](https://open.spotify.com/track/3ixm1rumU8S9aQci6wiJM3) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [Paradise](https://open.spotify.com/album/1B1wx3gPkSnt0Ye6eSRxLl) | 2:37 | 2024-06-06 | 2024-10-19 |
 | [Paradise](https://open.spotify.com/track/5s7fSXfFEnmlyCQQaNJ5CV) | [mOat](https://open.spotify.com/artist/5cwcCt2XL9QIC0yZy33Fds) | [Paradise](https://open.spotify.com/album/4c1BRuiJdkhUqF9PT2KoGD) | 3:48 | 2022-06-09 | 2022-06-24 |

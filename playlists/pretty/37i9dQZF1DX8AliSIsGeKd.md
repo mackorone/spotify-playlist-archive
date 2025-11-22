@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: NoNameLeft
 
-[Spotify](https://open.spotify.com/user/spotify) - 732,072 likes - 90 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 732,154 likes - 90 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Init Sequence](https://open.spotify.com/track/5z08mGE7jA0THdIyB7ASbX) | [NoNameLeft](https://open.spotify.com/artist/7dOFFyV8UVZqmapj8yUDRT) | [](https://open.spotify.com/album/null) | 6:14 |
+| 1 | [Init Sequence](https://open.spotify.com/track/5z08mGE7jA0THdIyB7ASbX) | [NoNameLeft](https://open.spotify.com/artist/7dOFFyV8UVZqmapj8yUDRT) | [Init Sequence](https://open.spotify.com/album/6YExqOYwVjOOBiUhdawhJx) | 6:14 |
 | 2 | [Reflection](https://open.spotify.com/track/0EBpCyWely5E9xbmzj3X4V) | [Jil Tanner](https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK) | [Reflection](https://open.spotify.com/album/5iYlTQ5uGmYY1CjWQLC0Od) | 4:17 |
 | 3 | [Tell Me You Want Me](https://open.spotify.com/track/1RlHaZpzkf1TZjPX2f0Bgz) | [Deniz Bul](https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21) | [Shape Of Sound](https://open.spotify.com/album/4aWwVsbatU92wyrzY5MO8L) | 3:54 |
 | 4 | [Booting Up](https://open.spotify.com/track/0tqcSsz2JgXDQUD5JRQ70F) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [25 Years of Moon Harbour Part I](https://open.spotify.com/album/7LyARDNncYLNFXIFsaXbdg) | 5:55 |
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 6 | [Promises \- Extended Mix](https://open.spotify.com/track/6YFskFGhQa4Dx1qCDGci86) | [Kellerkind](https://open.spotify.com/artist/4GYQytEFxnzqH96O6QywsA) | [Promises](https://open.spotify.com/album/3LUlM4w87oc6tk7CQ38tOc) | 5:33 |
 | 7 | [Comin](https://open.spotify.com/track/2NTaAUg7XX76RPBQKyWzM0) | [Kink](https://open.spotify.com/artist/6yCdWsTDt4Dmb5GMZd5QLb) | [Versions](https://open.spotify.com/album/0TopwS85RWh8keKQrjCVHZ) | 5:06 |
 | 8 | [Caught Up In The Fire](https://open.spotify.com/track/1cskXAWztObojI6r2j60Al) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [JONAH](https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4) | [Caught Up In The Fire](https://open.spotify.com/album/6stjuO04Rw5O2xqog9u8dA) | 3:43 |
-| 9 | [We Talk About Dreams \- Joris Voorn Remix](https://open.spotify.com/track/3ub9jsOBUD8ML40pr5kbBX) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1), [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [](https://open.spotify.com/album/null) | 3:26 |
+| 9 | [We Talk About Dreams \- Joris Voorn Remix](https://open.spotify.com/track/3ub9jsOBUD8ML40pr5kbBX) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1), [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [We Talk About Dreams \(Joris Voorn Remix\)](https://open.spotify.com/album/7ps3TsQfshwEsLvwrB6GlA) | 3:26 |
 | 10 | [Give Some Love \- Radio\-Edit](https://open.spotify.com/track/18M5ipfZdGEoS6Wcowsgji) | [Dole & Kom](https://open.spotify.com/artist/5iVuj2TcNIEBNnzGk97vfT) | [Give Some Love \(Radio\-Edit\)](https://open.spotify.com/album/4nomqmjCBL6wPrNG1REB0V) | 3:12 |
 | 11 | [Over](https://open.spotify.com/track/6TWC1QMFsw8Wj8j64wKbZU) | [SubLife](https://open.spotify.com/artist/6PZjd0IGgGy8f1kVfKp7sc), [Mondingo](https://open.spotify.com/artist/11g4H9gRvProNpOglq4APV) | [Over](https://open.spotify.com/album/29ZU3j0GCIIfv6WzvfJ27h) | 3:10 |
 | 12 | [Shine](https://open.spotify.com/track/3o57e9tWZsNs51aN9jJPJL) | [D\-Nox](https://open.spotify.com/artist/1TqcQwnBqloJrKkGs4l4LT), [André Moret](https://open.spotify.com/artist/77TawwjtLlpegPo23bblci) | [Sessions, Pt\. 2](https://open.spotify.com/album/5236RXtKHfNiM3Ixb2pV6o) | 4:19 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 21 | [XV](https://open.spotify.com/track/1kpEYsQiLob6iLKSZbgowt) | [Darin Epsilon](https://open.spotify.com/artist/5cZJeB9HaMDDK96ik3UYdu), [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC) | [XV](https://open.spotify.com/album/0ziGziLBPRArylEEOkD0YO) | 4:28 |
 | 22 | [Pulse](https://open.spotify.com/track/3aNZVj1tXfIXskGZAFcdWT) | [MAZ'N](https://open.spotify.com/artist/1yYMHWtDyG3bb1DYKUpNOL) | [Pulse](https://open.spotify.com/album/3DVdKy5ILlb6y9T5n4t7qA) | 4:01 |
 | 23 | [Murcielago](https://open.spotify.com/track/3S1DwaZGBXIFoAYrzzJPq1) | [Butch](https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv) | [Murcielago](https://open.spotify.com/album/1fzlbLuZM3svm4hxQoefGl) | 3:18 |
-| 24 | [Track 1](https://open.spotify.com/track/0rQO3xXRV6YhVWwBfAydtq) | [Temple Tears](https://open.spotify.com/artist/60Gd19RSg8kMUxRwfKRArM) | [](https://open.spotify.com/album/null) | 0:00 |
+| 24 | [Addiction](https://open.spotify.com/track/0rQO3xXRV6YhVWwBfAydtq) | [Temple Tears](https://open.spotify.com/artist/60Gd19RSg8kMUxRwfKRArM) | [Temple Kiss EP](https://open.spotify.com/album/6yMykrHQglpQfxdiVQGeXh) | 5:38 |
 | 25 | [Just Can't Stop](https://open.spotify.com/track/6EhkunYlJicQethH87Cc99) | [The Disco Boys](https://open.spotify.com/artist/0suokA0Exjok9HBfB0Oc3X) | [Just Can't Stop](https://open.spotify.com/album/4MJox9Y99KaUasxywRO3jA) | 2:31 |
 | 26 | [Attraction](https://open.spotify.com/track/2xMSCCEGB6a1T7YhScXp6g) | [Marc DePulse](https://open.spotify.com/artist/7dhJPaz7uYAPpQSBj1SPaN), [SNYL](https://open.spotify.com/artist/3HgxWk2K2rP0tL9RHYl7EY) | [Attraction](https://open.spotify.com/album/3mybkLz72xv6TKDFUizu0B) | 3:09 |
 | 27 | [Sunset](https://open.spotify.com/track/3jKUWplBggHE4uuqN1InXE) | [Mossel](https://open.spotify.com/artist/3x0UnX2VaSIKz6iOdF526o), [Phonique](https://open.spotify.com/artist/3pVm0ttbAah6dTDher8dSz) | [Sunset](https://open.spotify.com/album/7lmFwxC22Z3B9t7sEoHK1C) | 5:42 |
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 32 | [Overdosin](https://open.spotify.com/track/0lox2kxk43EHpryxSVwDSF) | [VALI THUN](https://open.spotify.com/artist/10FwftMoMBkibYXaX22it9), [Benzsoul](https://open.spotify.com/artist/0XXC5Wa9jqrU83q3lwGAhf) | [Overdosin](https://open.spotify.com/album/0S3ddDJDYUV3fBJsKjGJFk) | 3:23 |
 | 33 | [The Day We Dream About](https://open.spotify.com/track/5pYQdjFXIQhfQiUBdLupRx) | [Stoked](https://open.spotify.com/artist/3p7fzDBhVlfoYrpM2p5n0T), [Axis Of Time](https://open.spotify.com/artist/0y4TXuiPGjA80YqCzEMGfo) | [The Day We Dream About](https://open.spotify.com/album/3WSS5TozK5tFLcgl3XFLgz) | 6:05 |
 | 34 | [You](https://open.spotify.com/track/26dGs9HnuWC6jm9Q1TOgjS) | [Ed Ed](https://open.spotify.com/artist/3GWjKbXZUq8r7fzVpRcb1i) | [You](https://open.spotify.com/album/3loXafC3VuP9jrlA57TqR9) | 6:00 |
-| 35 | [AFTR Midnight](https://open.spotify.com/track/7hzjLYbfnjtFkhEhEnar7v) | [Remcord](https://open.spotify.com/artist/09iSLnIk5tjj4u4T7nrhmB) | [](https://open.spotify.com/album/null) | 7:15 |
+| 35 | [AFTR Midnight](https://open.spotify.com/track/7hzjLYbfnjtFkhEhEnar7v) | [Remcord](https://open.spotify.com/artist/09iSLnIk5tjj4u4T7nrhmB) | [AFTR Midnight EP](https://open.spotify.com/album/7goaGPd1S0WVtucPGhtv7j) | 7:15 |
 | 36 | [Touch The Flame](https://open.spotify.com/track/7jrF0HUcfOqaMw5F8Nh8WU) | [Alinka](https://open.spotify.com/artist/3qBqW8kIRZbPxbSgAyP7ls) | [Touch The Flame](https://open.spotify.com/album/1doYI2ATVmVAYErJLQl9gO) | 6:51 |
 | 37 | [Hymn](https://open.spotify.com/track/2OkW1IqUtKuy8EX11KAkDZ) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Charlotte de Witte](https://open.spotify.com/album/7rdrIHvtAcAxbyMTC6fo9a) | 8:13 |
 | 38 | [Change is Coming](https://open.spotify.com/track/4oFPlxmsoQ8WjGm0IZ0FWQ) | [Kristin Velvet](https://open.spotify.com/artist/6dUQZEabny6GEeOayKuk4O) | [Change is Coming](https://open.spotify.com/album/5zjzjnacve1rsd4HMGCe25) | 3:31 |

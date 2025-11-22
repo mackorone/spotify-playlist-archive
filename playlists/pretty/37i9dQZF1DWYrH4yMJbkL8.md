@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 
 > A free space for Indigenous creators\. Currently curated by William Prince.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,948 likes - 32 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,951 likes - 32 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 | 31 | [Goodbye Yellow Brick Road](https://open.spotify.com/track/7kJPvX9uugd4mKTFNFSB0X) | [Celeigh Cardinal](https://open.spotify.com/artist/7HAq3UBI3pb8ok9k7dkdGR) | [Boundless Possibilities \(Deluxe Edition\)](https://open.spotify.com/album/5ugCyz7Cn5oW1eH5ArCpGW) | 3:21 |
 | 32 | [For the First Time](https://open.spotify.com/track/5HcftNf8zoBsSPvIRmjvhZ) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [Further From the Country](https://open.spotify.com/album/4hLnzIN6eYqCmitWi6TIPO) | 3:30 |
 
-Snapshot ID: `AAAAAE0XMqfrrbYea343reTbfGkHKIO6`
+Snapshot ID: `AAAAAPe0ohJdLCOn5l3uyhgcCTtAL9vo`

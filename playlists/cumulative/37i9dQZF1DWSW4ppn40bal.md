@@ -4,7 +4,7 @@
 
 > Fall fast asleep with deep noise
 
-634 songs - 1 day 9 hr 36 min
+635 songs - 1 day 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [350 hz Brown Noise](https://open.spotify.com/track/63gKkvOi8RbSOL7ACaeGli) | [Exodar](https://open.spotify.com/artist/2UcCR6cHxb3YL473Q7KKZJ) | [Static Noises For Studying](https://open.spotify.com/album/72hSwLR9D9pb4x38mguWhM) | 3:12 | 2021-12-01 | 2023-12-06 |
 | [500 hz](https://open.spotify.com/track/2hqX5Ex3zuwo9Rv9LuB1jk) | [Daily Calm](https://open.spotify.com/artist/1RFbFQgjNdi8M4qM5gzgfj) | [Calm Brown Noise](https://open.spotify.com/album/18I59FrYZxXwKZyg9IfQRr) | 3:16 | 2021-12-01 | 2025-11-14 |
 | [500 Hz Filtered Loop](https://open.spotify.com/track/1Tg6UegfRNOt4WEdlVwehu) | [Ecstatix](https://open.spotify.com/artist/4Z2EaSwZpqDleK7b7qYSvx) | [Pink Vibe](https://open.spotify.com/album/4uTMcl47GxYwjOeMHqdEaI) | 3:20 | 2022-11-18 |  |
-| [500 Hz Pink Noise](https://open.spotify.com/track/1zG0OftduRQ076dtJ5YgWS) | [Sleep In Space](https://open.spotify.com/artist/5yU8rZ0JcBNXpkdrxQpvwr) | [Pink Galaxies](https://open.spotify.com/album/0c94LL6rE0NcbQKzakKbfg) | 3:00 | 2022-08-02 |  |
+| [500 Hz Pink Noise](https://open.spotify.com/track/1zG0OftduRQ076dtJ5YgWS) | [Sleep In Space](https://open.spotify.com/artist/5yU8rZ0JcBNXpkdrxQpvwr) | [Pink Galaxies](https://open.spotify.com/album/0c94LL6rE0NcbQKzakKbfg) | 3:00 | 2022-08-02 | 2025-11-22 |
 | [89 hz Band Q brown noise](https://open.spotify.com/track/5sEbUxmIkJ5R7LgXwJd0iv) | [Mind & Ears](https://open.spotify.com/artist/2qENnTxR7p4FZM4ImXiOLN) | [Deep Sleep Brown Noise](https://open.spotify.com/album/0qY4ZRzXvzntIIwPFj1tIT) | 2:33 | 2022-06-03 | 2023-12-06 |
 | [Abundant Brown Noise](https://open.spotify.com/track/4urad775yq5bhYEf7LNoS2) | [Sonic Waterfall](https://open.spotify.com/artist/3dYazD43M85TR46lQcHzyO) | [Abundant Brown Noise](https://open.spotify.com/album/3B3TSP9WL509iVgqjrvWHz) | 3:46 | 2023-01-27 |  |
 | [Afastar](https://open.spotify.com/track/20bXlK3s0xGcHT5IEu47vB) | [Tempo Discreto](https://open.spotify.com/artist/2rTnrP5DSv4EFXS0V6VFbb) | [Afastar](https://open.spotify.com/album/7xHlrGXd3PDRhNzI4CIJyx) | 2:38 | 2021-12-01 | 2023-03-25 |
@@ -294,6 +294,7 @@
 | [Focused By The Pink Noise](https://open.spotify.com/track/5SfeCoVHD0TkNPjQI6sJGN) | [René Watz](https://open.spotify.com/artist/70LdPZVDTizh0iCRF8mP9C) | [Focused By The Pink Noise](https://open.spotify.com/album/7KCSUnqciJjwVzDELx03Zf) | 2:10 | 2022-11-18 | 2025-09-02 |
 | [From A Wind Shelter](https://open.spotify.com/track/6ck00OxkQodovF01jbqG8V) | [Brown Noise Reverie](https://open.spotify.com/artist/11WpAKp8lM5b35xrylz3FS) | [From A Wind Shelter](https://open.spotify.com/album/7vr4akCBfDpYJImFWh7rkC) | 3:20 | 2022-11-18 | 2023-08-23 |
 | [Full Spectrum Brown Noise](https://open.spotify.com/track/6N5YSUp5wPPQsazAPk01Ua) | [Shaman](https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M) | [Brown Noise](https://open.spotify.com/album/3TZRgfNrwkdPMhgz9CB53G) | 2:45 | 2022-11-18 | 2022-12-21 |
+| [Galactic Black Noise](https://open.spotify.com/track/2DhYqpiV9GLi9mTVa35rFl) | [Hermelo](https://open.spotify.com/artist/0sJWDshSokRwvOqYo7W3iV) | [Galactic Black Noise](https://open.spotify.com/album/6z7wXouzuZSvzsFcMG0Cfp) | 3:35 | 2025-11-13 |  |
 | [Gentle Fade Brown Noise](https://open.spotify.com/track/52tsiSsIBw7a8sHTEBnO3y) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Brown Noise Hz](https://open.spotify.com/album/5Eh7GZpQT9dfjyMz4NUdvk) | 3:26 | 2022-09-08 | 2024-02-10 |
 | [Gifted Noise](https://open.spotify.com/track/3F3VaOK290JSVVW0m44VlE) | [Gnees Pink Noise](https://open.spotify.com/artist/4iUE0zqhOvNJXGiP4DPEZW) | [Pink Noise Pt.1](https://open.spotify.com/album/1yj4hwvRRDU5BO9LLXmmLy) | 2:23 | 2022-06-03 |  |
 | [Good Night Brown Noise](https://open.spotify.com/track/2PyV5iL5LG3tKGTL03PeZ6) | [Electricality](https://open.spotify.com/artist/3WiLG8IMyo00LP5Yqb8yUG) | [Sleep Fast Brown Noise](https://open.spotify.com/album/01BsRQXpRYSb9hmw2zZvQh) | 2:04 | 2023-01-27 |  |
@@ -397,7 +398,7 @@
 | [Pink Noise 1](https://open.spotify.com/track/4tj5EeMSGlAeIoSbJE8sDo) | [A.I.C 83](https://open.spotify.com/artist/0t1KwfnMwlE47iKx9g1c2V) | [Pink Noise Stimulus](https://open.spotify.com/album/2cjw0tyRT0ZVhzkNJtwTp4) | 2:20 | 2022-11-18 | 2023-01-28 |
 | [Pink Noise 10](https://open.spotify.com/track/1kDF24HUvuQNVGLBAUYm8L) | [A.I.C 83](https://open.spotify.com/artist/0t1KwfnMwlE47iKx9g1c2V) | [Pink Noise Stimulus](https://open.spotify.com/album/2cjw0tyRT0ZVhzkNJtwTp4) | 2:30 | 2022-11-18 | 2023-01-28 |
 | [Pink Noise 1133Hz](https://open.spotify.com/track/6xNAUvuTV1MHWZHClKoL82) | [Pink Orbit](https://open.spotify.com/artist/1OcOohHo7T54wkzZhIs6KA) | [Pink Noise Ocean](https://open.spotify.com/album/19zIgXQIfVHIhXJ2PF16g9) | 4:30 | 2021-12-01 | 2023-01-28 |
-| [Pink Noise 217Hz](https://open.spotify.com/track/0Xyc1643zBZ5kSHwevhR4x) | [Crystal Slowdown](https://open.spotify.com/artist/6O0u8LauyCpF8qnE347A4o) | [Flying High with Pink Noise](https://open.spotify.com/album/1iDfuBYiErzGsfmTntm2On) | 3:38 | 2022-08-02 | 2025-11-18 |
+| [Pink Noise 217Hz](https://open.spotify.com/track/0Xyc1643zBZ5kSHwevhR4x) | [Crystal Slowdown](https://open.spotify.com/artist/6O0u8LauyCpF8qnE347A4o) | [Flying High with Pink Noise](https://open.spotify.com/album/1iDfuBYiErzGsfmTntm2On) | 3:38 | 2022-08-02 |  |
 | [Pink Noise 289Hz Wide Q](https://open.spotify.com/track/0Wp43cuTLDOwAfamM0mkRK) | [Xella Machina](https://open.spotify.com/artist/66uHiAJ1D3MCLQmX9xYJqI) | [Pink Noise in my Dreams](https://open.spotify.com/album/60g7Yh0M8SZ9Qn9PEOdfRa) | 3:09 | 2022-08-02 | 2023-12-06 |
 | [Pink Noise 2am \(REMASTERED\)](https://open.spotify.com/track/1GOBcNeiL8wOUn8IWwYTwq) | [WWW.PINK.NOISE](https://open.spotify.com/artist/3pzYnmOW5l9QII4mFjJtd1) | [Pink Noise Vol\. 3](https://open.spotify.com/album/2TdSHQtFRD35jFTj8EJuAk) | 2:40 | 2022-06-03 |  |
 | [Pink Noise 2k](https://open.spotify.com/track/1QLnaXdhv0P8521co1Sg5H) | [Noise Bath](https://open.spotify.com/artist/6DhHTHeWGUP7ReZEiExvTe) | [Pink Noise Bath](https://open.spotify.com/album/77zi8LZVR9G9wDsYt28z4k) | 2:49 | 2021-12-01 | 2022-12-21 |
@@ -626,7 +627,7 @@
 | [Waves & Winds For Brown Noise](https://open.spotify.com/track/0q5zEFmOTSw1oW59iNQJyM) | [Microdynamic Recordings](https://open.spotify.com/artist/3zG3fwEK20npYHIYooztq9) | [Waves & Winds For Brown Noise](https://open.spotify.com/album/7rA2G2jKdixwTaHBzTiEZT) | 2:16 | 2022-11-18 |  |
 | [Waves Of Pink](https://open.spotify.com/track/1ewjGcOHVpjLr2P74Lv3wE) | [Astromatic](https://open.spotify.com/artist/4ivxZDv4eSnS5Cvjp6Yl61) | [Waves Of Pink](https://open.spotify.com/album/26R5ylVnPeOU0Z3TDuRZ95) | 3:09 | 2022-11-18 | 2025-10-08 |
 | [Waves Of The Night](https://open.spotify.com/track/0DIB9i5oO3ZvOV6gImWDEq) | [Ambient Network](https://open.spotify.com/artist/7gDEVFSaJkRgEsy7vy8XdJ) | [Ambient Pink](https://open.spotify.com/album/6ROmF0FcSMakiN75LG7BkQ) | 3:06 | 2022-11-18 |  |
-| [Way Down Deep 240 Hz](https://open.spotify.com/track/123VXXgsLsUFKoZ49rEhBg) | [Dormant Clouds](https://open.spotify.com/artist/08MfBIg9r4Dzm2ISLs1Us7) | [Way Down Deep](https://open.spotify.com/album/1CtBpLMV3kM3KROr0cr9JJ) | 2:57 | 2022-07-01 |  |
+| [Way Down Deep 240 Hz](https://open.spotify.com/track/123VXXgsLsUFKoZ49rEhBg) | [Dormant Clouds](https://open.spotify.com/artist/08MfBIg9r4Dzm2ISLs1Us7) | [Way Down Deep](https://open.spotify.com/album/1CtBpLMV3kM3KROr0cr9JJ) | 2:57 | 2022-07-01 | 2025-11-22 |
 | [White Night Noise](https://open.spotify.com/track/1EUTUbuBNWwyVNMr1Jxp9w) | [Ambientics](https://open.spotify.com/artist/5P4WyIscm91rNDa8lZuW6a) | [White Evening Noise](https://open.spotify.com/album/5m9azpx3Mqj4tOLA2kM7F6) | 2:52 | 2025-11-13 |  |
 | [White Noise asleep on my feet](https://open.spotify.com/track/5RbVq0wsb6uAwFBYNzqHuD) | [A Dreaming Machine](https://open.spotify.com/artist/7rybj6DFBE9HYjDsD4ILuA) | [White Noise Sleep Frequencies](https://open.spotify.com/album/52N8PBq0YZxmu3A5ywct3C) | 3:34 | 2025-11-13 |  |
 | [White Noise Chill](https://open.spotify.com/track/5hcvK2YKF1cr7cBNKTCKOW) | [Hypnotronica](https://open.spotify.com/artist/4V6Upc3fY4gIqOH6AogDCW) | [White Noise Chill](https://open.spotify.com/album/56vEzMivM0CGfVlqDWIzZD) | 3:02 | 2025-11-13 |  |

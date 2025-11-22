@@ -4,7 +4,7 @@
 
 > Go inside the music from the Marvel worlds that you love\. Marvel Studios' The Fantastic Four: First Steps is now streaming on Disney+.
 
-230 songs - 9 hr 52 min
+231 songs - 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Convoy](https://open.spotify.com/track/4Y0tAluCNkFahFgp9V2kKS) | [Laura Karpman](https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD) | [What If...? \(Episode 6\) \[Original Soundtrack\]](https://open.spotify.com/album/1bkozCtowFTMroJ5v3DJRv) | 0:53 | 2024-01-05 | 2025-08-30 |
 | [Covered in Goo](https://open.spotify.com/track/4GzQ0j1KGT2jRnKj0y1BMk) | [Amie Doherty](https://open.spotify.com/artist/093nXwEUtY8TBTtZb9IVrf) | [She\-Hulk: Attorney at Law \- Vol\. 1 \(Episodes 1\-4\) \[Original Soundtrack\]](https://open.spotify.com/album/09uIJnUR1CQ96YbPOBLttC) | 2:14 | 2024-01-05 |  |
 | [Cue Credits](https://open.spotify.com/track/6QVYb46B6Qeaz4coZwa3Pc) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw) | [WandaVision: Episode 5 \(Original Soundtrack\)](https://open.spotify.com/album/6eSgGEfhaA2Hq4mNQuVrYh) | 0:29 | 2024-01-05 |  |
+| [Deadpool \- From "Marvel's Deadpool VR"](https://open.spotify.com/track/0HAnsm0as6pu2WzYfu7D6i) | [Christopher Young](https://open.spotify.com/artist/1FMXF1g4Fz2MWDTogFj9EC), [Gil Young](https://open.spotify.com/artist/6px1AsnVbinvEvNKkNRHYU) | [Deadpool \(From "Marvel's Deadpool VR"\)](https://open.spotify.com/album/3v4hNOK3KQxCzeOQXKjZ8R) | 3:30 | 2025-11-22 |  |
 | [Did That Look Cool?](https://open.spotify.com/track/2cUIII8NsSGtBBxaadhoj5) | [John Murphy](https://open.spotify.com/artist/4UGoqrmNHDJ166XD6DtZni) | [Guardians of the Galaxy Vol\. 3 \(Original Score\)](https://open.spotify.com/album/4WrDwO2xf0pxNmrQpb7e5q) | 2:44 | 2024-01-05 | 2025-01-31 |
 | [Domo! Domo!](https://open.spotify.com/track/1voF8ZnnbMqRxndiVPs9P6) | [John Murphy](https://open.spotify.com/artist/4UGoqrmNHDJ166XD6DtZni) | [Guardians of the Galaxy Vol\. 3 \(Original Score\)](https://open.spotify.com/album/4WrDwO2xf0pxNmrQpb7e5q) | 3:48 | 2024-01-05 | 2025-01-31 |
 | [Earth to Asgard](https://open.spotify.com/track/4LQEsLI5QjOVwHSR4ZZfgd) | [Patrick Doyle](https://open.spotify.com/artist/1W42coQfIlt6btgqpfJWYQ) | [Thor](https://open.spotify.com/album/6rGh1F77U9kZuXsjuCOEDw) | 2:33 | 2024-01-05 |  |

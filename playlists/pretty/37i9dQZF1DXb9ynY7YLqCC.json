@@ -1,6 +1,6 @@
 {
   "description": "Canciones directas y banderas al viento. Foto: reybruja",
-  "num_followers": 183031,
+  "num_followers": 183054,
   "original_name": "Rock Barrial",
   "owner": {
     "name": "Spotify",
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
         }
       ],
-      "duration_ms": 276573,
-      "name": "El Final Es En Donde Part\u00ed",
-      "url": "https://open.spotify.com/track/5zdazgWuhzFMMtwt5kdeFD"
+      "duration_ms": 248400,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/3qSsdVel7dNcpW4khZejHa"
     },
     {
       "added_at": "2025-11-20 12:07:40",
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
         }
       ],
-      "duration_ms": 248400,
-      "name": "Veneno",
-      "url": "https://open.spotify.com/track/3qSsdVel7dNcpW4khZejHa"
+      "duration_ms": 276573,
+      "name": "El Final Es En Donde Part\u00ed",
+      "url": "https://open.spotify.com/track/5zdazgWuhzFMMtwt5kdeFD"
     },
     {
       "added_at": "2025-11-20 12:07:40",
@@ -1055,26 +1055,6 @@
     {
       "added_at": "2025-11-20 12:07:40",
       "album": {
-        "name": "Historias",
-        "url": "https://open.spotify.com/album/3WqoOfnRn68SsPTtkK3A5O"
-      },
-      "artists": [
-        {
-          "name": "El Padre C\u00e9sar",
-          "url": "https://open.spotify.com/artist/6PjvpIOzogn283TGorNxKN"
-        },
-        {
-          "name": "Juanse",
-          "url": "https://open.spotify.com/artist/5AQlQBU9LCmQwReukeom2I"
-        }
-      ],
-      "duration_ms": 174522,
-      "name": "Historias",
-      "url": "https://open.spotify.com/track/2zksb0j5tjiG83xPDIYuBg"
-    },
-    {
-      "added_at": "2025-11-20 12:07:40",
-      "album": {
         "name": "Al filo del abismo",
         "url": "https://open.spotify.com/album/2D6YBzqSQMWltoe3GcNmZj"
       },
@@ -1103,6 +1083,26 @@
       "duration_ms": 271072,
       "name": "Perdido en Buenos Aires",
       "url": "https://open.spotify.com/track/101sToXKkcLpZKmnri9XH2"
+    },
+    {
+      "added_at": "2025-11-20 12:07:40",
+      "album": {
+        "name": "Historias",
+        "url": "https://open.spotify.com/album/3WqoOfnRn68SsPTtkK3A5O"
+      },
+      "artists": [
+        {
+          "name": "El Padre C\u00e9sar",
+          "url": "https://open.spotify.com/artist/6PjvpIOzogn283TGorNxKN"
+        },
+        {
+          "name": "Juanse",
+          "url": "https://open.spotify.com/artist/5AQlQBU9LCmQwReukeom2I"
+        }
+      ],
+      "duration_ms": 174522,
+      "name": "Historias",
+      "url": "https://open.spotify.com/track/2zksb0j5tjiG83xPDIYuBg"
     },
     {
       "added_at": "2025-11-20 12:07:40",

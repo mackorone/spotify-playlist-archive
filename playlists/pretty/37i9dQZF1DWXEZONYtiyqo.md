@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 
 > Cele mai noi hituri pop românești\. Cover: IRAIDA
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,701 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,723 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 13](https://open.spotify.com/track/1buiIaSSMetSAW3guTSRFO) | [IRAIDA](https://open.spotify.com/artist/4vlWcKDxlW0shCIXLuBuov) | [](https://open.spotify.com/album/null) | 0:00 |
+| 1 | [Ultimul Act De Iubire](https://open.spotify.com/track/1buiIaSSMetSAW3guTSRFO) | [IRAIDA](https://open.spotify.com/artist/4vlWcKDxlW0shCIXLuBuov) | [6 Simțuri](https://open.spotify.com/album/4DQqn3Pl8tKNiuDv8kbfB6) | 3:13 |
 | 2 | [Aleg Să Zâmbesc](https://open.spotify.com/track/0aJmgRfVoNZaUccbS8pjrG) | [MIRA](https://open.spotify.com/artist/2nMFC7hWK0haX8ilvRpb59) | [Aleg Să Zâmbesc](https://open.spotify.com/album/66FUEWBBI69xIrzkZPNSF7) | 2:33 |
 | 3 | [7 zile](https://open.spotify.com/track/74lOqQaeKR7OGLZ6xJZ711) | [Florian Rus](https://open.spotify.com/artist/0UPJKLFhLR0GuiBZBLNAsd), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [7 zile](https://open.spotify.com/album/7IMnhD1xz0UtpQVYsnlgqE) | 2:38 |
 | 4 | [Arta ta](https://open.spotify.com/track/0b5zKu5F7zoB5IHR9PZvOn) | [Olivia Addams](https://open.spotify.com/artist/56o9EclNeDcE7p8txENfLn), [DOC](https://open.spotify.com/artist/6pWa7vRheyK4dmNJ2cg0gA) | [Arta ta](https://open.spotify.com/album/6rWlDZqdykjxPyXpnlHs9J) | 2:44 |

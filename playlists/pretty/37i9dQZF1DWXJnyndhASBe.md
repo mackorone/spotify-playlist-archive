@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: schafter
 
-[Spotify](https://open.spotify.com/user/spotify) - 574,801 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 574,767 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 47 | [PUK PUK](https://open.spotify.com/track/1qGwUUBUYu9akvnqMjbMVn) | [BROKIES](https://open.spotify.com/artist/16e88U4wWhHSnsLZbjEgS8), [Dajczman](https://open.spotify.com/artist/1NQ1cA17XLd3Rh7PFzadL2), [DiscoKarol](https://open.spotify.com/artist/4Kl4ykwlB2WDqrieMW3XWB), [pirlo444](https://open.spotify.com/artist/6eFI79MK4G6bNJd3F8hnL6), [1olliee](https://open.spotify.com/artist/1cALcXOUf7ReA4usmKJTev) | [PUK PUK](https://open.spotify.com/album/7pqKPOmsEYM0gjkh3OOGa1) | 2:41 |
 | 48 | [miü miü](https://open.spotify.com/track/5orCpZpRAFglX3rtvw9kel) | [MIÜ](https://open.spotify.com/artist/5NpwJ9XcZH35RxF2PUIqs2), [Koder](https://open.spotify.com/artist/1qJPIWsxxzTulBOb5kFllO), [6YNTHMANE](https://open.spotify.com/artist/24YUNOEuu3kf4OOtC8cQE5) | [miü miü](https://open.spotify.com/album/1xVYCvZxsDrZmBgdSzjaxt) | 2:33 |
 | 49 | [Wszystkim Czym Chcesz](https://open.spotify.com/track/3piNWwmgQXO4YzamCZQcTh) | [wane](https://open.spotify.com/artist/3KL9m4NwBRDjBEcybcgfyh) | [Wszystkim Czym Chcesz](https://open.spotify.com/album/1kbMxFfZKogWufKQMWhM6a) | 1:14 |
-| 50 | [50 koła](https://open.spotify.com/track/6KVbv9CcdBQJSYiO6Iq7LO) | [Okekel](https://open.spotify.com/artist/2FkgKcXTqukAQ9GuXFzgN3), [Młody West](https://open.spotify.com/artist/1bOTP9P3CS97UwhBm2WekK) | [50 koła](https://open.spotify.com/album/49iBrHq4djzuWTCLwGD7hl) | 3:16 |
+| 50 | [50 koła](https://open.spotify.com/track/6KVbv9CcdBQJSYiO6Iq7LO) | [Okekel](https://open.spotify.com/artist/2FkgKcXTqukAQ9GuXFzgN3), [Młody West](https://open.spotify.com/artist/1bOTP9P3CS97UwhBm2WekK), [Nolyrics Beats](https://open.spotify.com/artist/4z9oiedO8ugGNpfbJcg0iq) | [50 koła](https://open.spotify.com/album/49iBrHq4djzuWTCLwGD7hl) | 3:16 |
 
 Snapshot ID: `AAAAAF0GlPJRRclqOkZUhrVM6eXlTxu0`

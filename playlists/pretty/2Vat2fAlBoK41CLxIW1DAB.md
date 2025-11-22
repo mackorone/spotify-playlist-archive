@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 
 > 
 
-[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,614 likes - 759 songs - 1 day 23 hr 31 min
+[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,613 likes - 760 songs - 1 day 23 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -767,5 +767,6 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 | 757 | [The Club](https://open.spotify.com/track/2IXMBNDc6Zd4sNIy1yeASH) | [The Multides](https://open.spotify.com/artist/0EBOhu8N5TYGpwRIWe1oQG) | [Dark Skies](https://open.spotify.com/album/6msdDrMHEmyWefzameIaQC) | 3:43 |
 | 758 | [Here We Go](https://open.spotify.com/track/1AhqASK4Hs7kQ6naWHaVNW) | [TeethOut](https://open.spotify.com/artist/1zbyrACN47gprz5q97evPl) | [Here We Go](https://open.spotify.com/album/4EVGPprwwNEdaUa2ebv1Tx) | 2:48 |
 | 759 | [Intiaani](https://open.spotify.com/track/51GulSjFyZjQXf9G0ojCQ3) | [I.F.A](https://open.spotify.com/artist/1tEP2l9fgWgdj1TZloddVQ) | [Tiimalasi](https://open.spotify.com/album/2qBjXbvrgdu2naJ9WPmSZZ) | 3:29 |
+| 760 | [Party Time](https://open.spotify.com/track/2ROLG5tbFEpbPg8kV0xxNQ) | [Virya](https://open.spotify.com/artist/6bbW0jOKAWJWm3h6CTWaAS) | [Echoes Of The Modern Mind](https://open.spotify.com/album/5dAAKIVnr96ILc9gxPnRzt) | 3:41 |
 
-Snapshot ID: `AAADEP9d28miS6/6sdRwhm5M1LCzXUIp`
+Snapshot ID: `AAADEZ3Da1bavZn6kkVlvcMzds352edi`

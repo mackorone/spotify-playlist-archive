@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124772,
+  "num_followers": 124761,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAU1pguhaxGhHIn0nojHerHOeDWV0St",
+  "snapshot_id": "AAAU13HnEtqLwO5hBWfYBn9eG9S6ELTO",
   "tracks": [
+    {
+      "added_at": "2025-11-21 16:18:53",
+      "album": {
+        "name": "What You Know You Know You Know",
+        "url": "https://open.spotify.com/album/3A0eLPS8eCXO2NjjtmSiRQ"
+      },
+      "artists": [
+        {
+          "name": "Infected Mushroom",
+          "url": "https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI"
+        }
+      ],
+      "duration_ms": 441021,
+      "name": "What You Know You Know You Know",
+      "url": "https://open.spotify.com/track/4QnsxVV6dskJ6OaUx1snAu"
+    },
     {
       "added_at": "2025-11-20 14:42:45",
       "album": {

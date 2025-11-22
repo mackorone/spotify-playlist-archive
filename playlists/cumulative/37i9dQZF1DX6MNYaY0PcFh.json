@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound. Cover: Kwengface, Flowdan, Interplanetary Criminal",
+  "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound. Cover: Higgo",
   "name": "New UK Garage",
   "tracks": [
     {
@@ -266,7 +266,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 206222,
       "name": "Alone",
       "url": "https://open.spotify.com/track/1RHsONwpXcquKICISbiJxB"
@@ -2460,7 +2460,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 167000,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/5Ed9pT75zW25Ig7kM3UB90"
@@ -3798,7 +3798,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 174857,
       "name": "MasterBlaster 2025",
       "url": "https://open.spotify.com/track/7ADmyaXnqmU6POxnmLjdh2"
@@ -3994,6 +3994,28 @@
       "duration_ms": 170880,
       "name": "Monolove",
       "url": "https://open.spotify.com/track/7cFYuRcQbw0w2GAMWzyE7A"
+    },
+    {
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/3AjME0Wb7tO1ekZNzD8HDf"
+      },
+      "artists": [
+        {
+          "name": "Arundel",
+          "url": "https://open.spotify.com/artist/6iaTOGtvJed2OVFYAl9YEA"
+        },
+        {
+          "name": "Pyrate",
+          "url": "https://open.spotify.com/artist/7BIp16JztBSnvYceUedF0o"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197681,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/5H8RtruU3x0EWk2Sh6e4ps"
     },
     {
       "album": {
@@ -4725,6 +4747,32 @@
     },
     {
       "album": {
+        "name": "Point Of No Return //",
+        "url": "https://open.spotify.com/album/0cS0jJy71sAYgRJtudPQkc"
+      },
+      "artists": [
+        {
+          "name": "Star.One",
+          "url": "https://open.spotify.com/artist/11HK31aj8j8QJ3ZnSlqox4"
+        },
+        {
+          "name": "Shayan",
+          "url": "https://open.spotify.com/artist/5pOyB5GTPmBekPeDXbAuac"
+        },
+        {
+          "name": "Engle",
+          "url": "https://open.spotify.com/artist/4EBTVvuF1oSpoiPFWrUSmA"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152998,
+      "name": "Point Of No Return //",
+      "url": "https://open.spotify.com/track/2cxgR1NIV5limwOSUcz5MX"
+    },
+    {
+      "album": {
         "name": "Poolside (feat. Katy Alex)",
         "url": "https://open.spotify.com/album/5We5TEZ4yRugprf8QqcfmW"
       },
@@ -4758,7 +4806,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 194782,
       "name": "Power",
       "url": "https://open.spotify.com/track/38JecELwfCbRkLTiK7KWQ8"
@@ -5094,6 +5142,28 @@
       "duration_ms": 226902,
       "name": "Ready Or Not",
       "url": "https://open.spotify.com/track/0kH9yoRO3LYUW4oxOvTMNT"
+    },
+    {
+      "album": {
+        "name": "Real Real",
+        "url": "https://open.spotify.com/album/33npKwJalTtdqANAUsAVzq"
+      },
+      "artists": [
+        {
+          "name": "J Wax",
+          "url": "https://open.spotify.com/artist/32UMn8JWwIcnJp5P7G61UQ"
+        },
+        {
+          "name": "ELOQ",
+          "url": "https://open.spotify.com/artist/36mHwYa65L0WZbAXY2iSGw"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178285,
+      "name": "Real Real",
+      "url": "https://open.spotify.com/track/6umBv8BZ6XOoZQ5LOReO6V"
     },
     {
       "album": {
@@ -5454,6 +5524,28 @@
       "duration_ms": 212647,
       "name": "Slow Burner",
       "url": "https://open.spotify.com/track/1Siu5Bnrt90vtjUddXeTUg"
+    },
+    {
+      "album": {
+        "name": "Smart Casual",
+        "url": "https://open.spotify.com/album/7x5WE0Dc0Y29QCpXLO0icu"
+      },
+      "artists": [
+        {
+          "name": "Fold",
+          "url": "https://open.spotify.com/artist/2BRIfQ1ys3QiaQTD3uIjf8"
+        },
+        {
+          "name": "cu.rve",
+          "url": "https://open.spotify.com/artist/6XtSmVWB7PJ1cC7uPise32"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270285,
+      "name": "Smart Casual",
+      "url": "https://open.spotify.com/track/4RxsEX4HmSLDEMaFA2fJhp"
     },
     {
       "album": {
@@ -6477,6 +6569,32 @@
     },
     {
       "album": {
+        "name": "Wanna Party (feat. Dennis G)",
+        "url": "https://open.spotify.com/album/4YVg92vxNbOUMyTxjW4QwI"
+      },
+      "artists": [
+        {
+          "name": "Silva Bumpa",
+          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
+        },
+        {
+          "name": "Wideboys",
+          "url": "https://open.spotify.com/artist/2fLCjXwadBsnYmn05uxFpi"
+        },
+        {
+          "name": "Dennis G.",
+          "url": "https://open.spotify.com/artist/1DlMYV41CeNcwmNZ3wc9SW"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181500,
+      "name": "Wanna Party (feat. Dennis G)",
+      "url": "https://open.spotify.com/track/7ww9dHtVXHoJEbGGLSH7m2"
+    },
+    {
+      "album": {
         "name": "Want Me",
         "url": "https://open.spotify.com/album/6QhchIByTxiMVcBhjTctKJ"
       },
@@ -6824,7 +6942,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 150680,
       "name": "Workin' With",
       "url": "https://open.spotify.com/track/5ndNI8cLYxPgkIoC7ZzMLP"

@@ -4,7 +4,7 @@
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: StraTeGee and K3ndrick
 
-1,412 songs - 3 day 3 hr 24 min
+1,413 songs - 3 day 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -348,6 +348,7 @@
 | [ETERNITY](https://open.spotify.com/track/4LMh11K1jZZ01vQ8Qcn9Bl) | [Monaze](https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG), [Aigbeh D'gong](https://open.spotify.com/artist/18WJX25TgcCtvjNJxgkBTX) | [ETERNITY](https://open.spotify.com/album/3PeFgOj9G2C3RVrlpx58C5) | 3:02 | 2025-11-21 |  |
 | [Even If](https://open.spotify.com/track/7AJowvYX5w6D5iHOtDQS5w) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce), [Still Shadey](https://open.spotify.com/artist/7r4NtPJ0mYRidQYQtxq8sV) | [Glory](https://open.spotify.com/album/2vEL8aG2JnKbWddv4E0j1g) | 2:36 | 2024-04-12 | 2024-05-24 |
 | [Every Step](https://open.spotify.com/track/37oSWxe9preFc1a6Q1BMqg) | [Ellie Scotte](https://open.spotify.com/artist/1f3shz4SYjpfZL1dCdinjM) | [Every Step](https://open.spotify.com/album/0D0ELjN5e7ydwUihilR4E2) | 3:08 | 2025-09-12 | 2025-11-18 |
+| [Every Tongue](https://open.spotify.com/track/63wTKmeUpjQjgyngt06D1l) | [Dr\. Prinz](https://open.spotify.com/artist/2vfO5rYj2XlUvUchSO1GOq) | [Every Tongue](https://open.spotify.com/album/2JlAnHf2ioMDL3dKSv6tsO) | 2:50 | 2025-11-21 |  |
 | [Everyday](https://open.spotify.com/track/2IyLPEJDhUiZA4rq9JS4MT) | [Dr Roy](https://open.spotify.com/artist/3qbsAfTm5D4X18LtG11RdL), [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T) | [Everyday](https://open.spotify.com/album/79hHuR77jAO4mBAfm51KaE) | 3:31 | 2025-07-18 | 2025-08-22 |
 | [Everyday](https://open.spotify.com/track/1t3XeFBLr8zbx3rArQobfi) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Everyday](https://open.spotify.com/album/3IxSBGvSLluNNMDyf2UOP3) | 3:20 | 2025-06-27 |  |
 | [Everyday](https://open.spotify.com/track/70zpVcstBTCPnlgCseJ8mi) | [Nuelzo](https://open.spotify.com/artist/6CPuXxiR9CqQ0d2irmAlnR), [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y) | [Everyday](https://open.spotify.com/album/5SnQiZ3C9GbZtEKxRuT77r) | 3:02 | 2023-06-23 | 2023-07-07 |

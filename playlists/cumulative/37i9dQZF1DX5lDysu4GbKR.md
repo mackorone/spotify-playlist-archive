@@ -2,9 +2,9 @@
 
 ### [Acoustic Soul](https://open.spotify.com/playlist/37i9dQZF1DX5lDysu4GbKR)
 
-> Stripped back vibes\. Cover:  Dylan Sinclair
+> Stripped back vibes\. Cover:  SABRI
 
-300 songs - 17 hr 30 min
+304 songs - 17 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Don't Walk Ahead](https://open.spotify.com/track/2ZqEojdExixApk1nY1Cib6) | [TÂCHES](https://open.spotify.com/artist/0xD1RASjJGXnTh5NxdrKxF), [Moira Mack](https://open.spotify.com/artist/3IntPd2VgK6D2JovdxZ47V) | [Don't Walk Ahead](https://open.spotify.com/album/1NF1osQtBrL6U6CAguMqE1) | 3:31 | 2021-12-09 | 2022-07-29 |
 | [Don't Walk Ahead](https://open.spotify.com/track/2fXQU9i2Wvydt9AHa7Uh32) | [TÂCHES](https://open.spotify.com/artist/0xD1RASjJGXnTh5NxdrKxF), [Moira Mack](https://open.spotify.com/artist/3IntPd2VgK6D2JovdxZ47V), [Joshua Heath](https://open.spotify.com/artist/0EP7WvDUkmtpa4zIN5SAlz), [Lyell Roeder](https://open.spotify.com/artist/21GNV26W7xdaJJfKc0N9S8), [Ankit Suri](https://open.spotify.com/artist/4EEzmnDnnNZCwz3ZfHW5xB), [Evan Hatfield](https://open.spotify.com/artist/3k8qxnliTHOu0KzdKfuS2V) | [Don't Walk Ahead](https://open.spotify.com/album/76uO2WahtkVA65sywYmb8m) | 3:31 | 2022-06-16 | 2023-08-31 |
 | [DOTTED LINE](https://open.spotify.com/track/5Oc0vVCEHfBvQ26H4a8qcY) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 2:27 | 2025-09-07 |  |
+| [Dumb MF](https://open.spotify.com/track/3FYpz5OiMhy2cOj7Kr1el9) | [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [What I Feel Now](https://open.spotify.com/album/2jkOzrPeMEP41d8pgSBq2n) | 2:56 | 2025-11-21 |  |
 | [Eden \- From “Black History Always / Music For the Movement Vol\. 2"](https://open.spotify.com/track/61gjdUMePfAOD5p0gnGvfv) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Eden \(From “Black History Always / Music For the Movement Vol\. 2"\)](https://open.spotify.com/album/4yxSZ0Qm7wPKw5cvREXiyA) | 3:19 | 2021-12-09 | 2024-02-09 |
 | [EITHER OR](https://open.spotify.com/track/6OAhcUEjnuZwkgaRhimayn) | [Léonie Barbot](https://open.spotify.com/artist/3FtbcwEbxflXP8nItuw2rA) | [EITHER OR](https://open.spotify.com/album/4pBPVUF3CLqVNhNA5vfL4B) | 2:04 | 2024-10-19 |  |
 | [Family \- Acoustic](https://open.spotify.com/track/6Q8gSQmRmZjC8KWDG8MvDp) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Family \(Acoustic\)](https://open.spotify.com/album/6wG1edDF2eRNNjRX86F1oD) | 3:58 | 2021-12-09 |  |
@@ -136,6 +137,7 @@
 | [In Your Head](https://open.spotify.com/track/7CJ1Q5T9InemrShfg1mHAY) | [Shan Ako](https://open.spotify.com/artist/6e8tjWVoHdVq00RY4VetKL), [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [God's Best](https://open.spotify.com/album/6qazaJgI2kR9ClXu0MsFAi) | 3:21 | 2022-05-03 |  |
 | [Insecure \- Live in Nashville](https://open.spotify.com/track/1xKTLrwGGxHhltkrDHd6N8) | [Bren Joy](https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp) | [Insecure \(Live In Nashville\)](https://open.spotify.com/album/3GS6nnMAWVavSdhcq7PLKS) | 3:07 | 2021-12-09 |  |
 | [Is It Any Wonder? \- Live at Paste](https://open.spotify.com/track/7MGlEFQtwlbT0qJF3fK8Vj) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Live at Paste](https://open.spotify.com/album/7jzoFgu5QkIkobI4Tgt7QY) | 4:09 | 2023-10-12 |  |
+| [Is There A Reason](https://open.spotify.com/track/5WukHjLReaDzCm2ilksKix) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Is A Kingdom](https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c) | 2:12 | 2025-11-21 |  |
 | [Is This Love](https://open.spotify.com/track/0fBJCJyrMSnX7vZrvXKovG) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Is This Love](https://open.spotify.com/album/49R4sdFgr1sHH6RXXRdhPU) | 4:04 | 2022-11-03 | 2022-11-13 |
 | [Is This Love](https://open.spotify.com/track/0mu7b8QUACHrd6SzQHWhxy) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Magic](https://open.spotify.com/album/2GZLxm0djV5NUNdes4kYv0) | 4:04 | 2023-07-10 | 2023-07-29 |
 | [Is This Love](https://open.spotify.com/track/3BwJpqcYEoQqMuJVEgl0aF) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [APART](https://open.spotify.com/album/6dqcqprGk1KMEwKJ0P3RdZ) | 4:04 | 2022-06-16 | 2023-07-16 |
@@ -254,6 +256,7 @@
 | [Southern Comfort](https://open.spotify.com/track/44KX6krxJOPMNDBalsklXs) | [Bluey Robinson](https://open.spotify.com/artist/4JgCtSrKUJB4UT9MUoPSo6) | [Southern Comfort](https://open.spotify.com/album/73z5oOi2581XQ9UVF5d4hM) | 3:41 | 2024-02-01 | 2024-04-19 |
 | [Speak Now](https://open.spotify.com/track/4AIaSod5XuXDApmMv1ATqr) | [Leslie Odom Jr.](https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN) | [Speak Now \(From The Motion Picture Soundtrack Of One Night In Miami...\)](https://open.spotify.com/album/7lj05DmCzCTu4Hxvnk1jAR) | 3:37 | 2021-12-09 | 2024-02-09 |
 | [Spell It Out \- Demo](https://open.spotify.com/track/1KdJeNUjmIdA3qoSsA1YxI) | [Sophia Galaté](https://open.spotify.com/artist/04S1CtevxNth6ziKrxx7AZ) | [Spell It Out \(Demo\)](https://open.spotify.com/album/2wVazdXHkuNXghWKOI9kPU) | 3:06 | 2024-12-06 |  |
+| [START OVER \- Acoustic](https://open.spotify.com/track/6GJfB3PI0OAkyXsDEZKc6H) | [chromonicci](https://open.spotify.com/artist/746nA9NSKsqBDRk343UtkE) | [START OVER II.](https://open.spotify.com/album/7GyuBVawGjSCm4FFMgTh25) | 3:38 | 2025-11-21 |  |
 | [Still \- Mahogany Sessions](https://open.spotify.com/track/3oVKIhOJZwe2BttWt3yYbG) | [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah) | [America / Still \(Mahogany Sessions\)](https://open.spotify.com/album/2AIEo0JzqtJX6iyuZWDtqw) | 3:18 | 2022-12-15 | 2023-04-09 |
 | [Still \- Mahogany Sessions](https://open.spotify.com/track/4YE0W3TgLWGr5lbRjCynfl) | [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah) | [America / Still \(Mahogany Sessions\)](https://open.spotify.com/album/5mvlL1QYEbuXfWBCtX3EZL) | 3:18 | 2021-12-09 | 2022-12-25 |
 | [STILL HAVE YOU](https://open.spotify.com/track/3LZ8BWLWzzNhub4LR0fQ1Z) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [STILL HAVE YOU](https://open.spotify.com/album/4DQBCDttZkfo2p5Fz0N9fX) | 2:22 | 2023-03-09 |  |
@@ -300,6 +303,7 @@
 | [Where You're At](https://open.spotify.com/track/4bV7BVBRqnK8dVtjD5OMV7) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [APART](https://open.spotify.com/album/7i97vd4smLer2gGBSvfjK6) | 2:50 | 2023-07-10 | 2024-04-19 |
 | [Whoever You Are \- Live at RAK](https://open.spotify.com/track/6kVsawZQt4GPbFXSYS3DsY) | [ELIZA](https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8) | [Live at RAK](https://open.spotify.com/album/2bzinM4FmvifmFBf6XUGZ6) | 7:00 | 2023-11-04 |  |
 | [WHY](https://open.spotify.com/track/5bCWjEsrK0KUGMxPrjGJZg) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [WHY](https://open.spotify.com/album/6G28CiddecjJd2TvODkoVR) | 2:59 | 2024-12-14 |  |
+| [Wicked](https://open.spotify.com/track/617frgZYXehBNs3Sz6zwS8) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [The Fall That Saved Us](https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl) | 2:21 | 2025-11-21 |  |
 | [Wish I Didn't Miss You \- Mahogany Sessions](https://open.spotify.com/track/3K2r8STZHwfN0GhCSNaQuR) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Wish I Didn’t Miss You \(Mahogany Sessions\)](https://open.spotify.com/album/2yR7Hmf7LZ9UicoySKuGMv) | 3:55 | 2022-04-08 |  |
 | [WITCHU](https://open.spotify.com/track/3nqHtvFxksvMVXJjjT4ZPY) | [Asiahn](https://open.spotify.com/artist/1mKtlPrXjWK6oIdk9cSOjs) | [FREE](https://open.spotify.com/album/5kYK7Yov59At0MNDQBKR35) | 2:33 | 2025-05-16 |  |
 | [YES IT IS \- \(Spotify OUTSIDE Version\) \- Live from Los Angeles, CA](https://open.spotify.com/track/6QeXcwOLUZbvLHNQrTM5uZ) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [YES IT IS \[\(Spotify OUTSIDE Version\) \- Live from Los Angeles, CA\]](https://open.spotify.com/album/197TD1wimZSgFqLKgNBmhd) | 3:16 | 2025-02-14 |  |

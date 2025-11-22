@@ -1,12 +1,12 @@
 {
   "description": "Check out the emerging independent tracks from these Telugu Artists!\nCover : Eknaath Kiran Goparaaju",
-  "num_followers": 41853,
+  "num_followers": 41862,
   "original_name": "Telugu Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAItcRsfWM1a/EWVpFpTE4Zwucaj3",
+  "snapshot_id": "AAAAAEg2z4qqzNeRerTyCRO+0X6SSvVe",
   "tracks": [
     {
       "added_at": "2025-09-29 06:42:49",
@@ -169,6 +169,30 @@
       "url": "https://open.spotify.com/track/0kFJWqJ07QeiKr9trZ4fri"
     },
     {
+      "added_at": "2025-11-21 06:19:37",
+      "album": {
+        "name": "Nene Ila",
+        "url": "https://open.spotify.com/album/4or2dpWYU3XqNEbssjOZQN"
+      },
+      "artists": [
+        {
+          "name": "Ayaan",
+          "url": "https://open.spotify.com/artist/6spST6ycDQVKJ7ErwvDsjS"
+        },
+        {
+          "name": "Aditi Bhavaraju",
+          "url": "https://open.spotify.com/artist/35LFDqRu6EmXgUqEWeh2j6"
+        },
+        {
+          "name": "Shravan Pakalapati",
+          "url": "https://open.spotify.com/artist/0BWC5EnVELcjkDBbsI2mtZ"
+        }
+      ],
+      "duration_ms": 354390,
+      "name": "Nene Ila",
+      "url": "https://open.spotify.com/track/4Pu8BNqEffuLFDvnpyIdbD"
+    },
+    {
       "added_at": "2025-11-20 07:17:33",
       "album": {
         "name": "Merise Merupa",
@@ -176,8 +200,8 @@
       },
       "artists": [
         {
-          "name": "Palan Pauly",
-          "url": "https://open.spotify.com/artist/4eyt1rtYlWB5wKSwlJPZxW"
+          "name": "Palan",
+          "url": "https://open.spotify.com/artist/3h3nSNpwp9zppXybRDEKdA"
         }
       ],
       "duration_ms": 229111,
@@ -387,30 +411,6 @@
       "duration_ms": 180125,
       "name": "Thenela Vanala",
       "url": "https://open.spotify.com/track/0Tug4GRIUPSAPD3D5renfm"
-    },
-    {
-      "added_at": "2025-08-11 00:39:31",
-      "album": {
-        "name": "Sahana",
-        "url": "https://open.spotify.com/album/1bhNBRh21pX1ED6J1ll4L3"
-      },
-      "artists": [
-        {
-          "name": "K Phanindra Kumar",
-          "url": "https://open.spotify.com/artist/0sxUF5jWFnoLMv0rgcd6i2"
-        },
-        {
-          "name": "Premchand Kancharla",
-          "url": "https://open.spotify.com/artist/1QUhgE5qQTC0b3asusvSUi"
-        },
-        {
-          "name": "Chirag Shetty",
-          "url": "https://open.spotify.com/artist/4xkgZE1iV3kOXtoZ1kqzTO"
-        }
-      ],
-      "duration_ms": 300000,
-      "name": "Sahana",
-      "url": "https://open.spotify.com/track/2E7qd2YJGFGFrHv4NuHsfv"
     },
     {
       "added_at": "2025-11-06 07:16:45",

@@ -153,6 +153,24 @@
     },
     {
       "album": {
+        "name": "Bird Song (Acoustic)",
+        "url": "https://open.spotify.com/album/47UIzMPuChT62FODlRH5sF"
+      },
+      "artists": [
+        {
+          "name": "Celine Cairo",
+          "url": "https://open.spotify.com/artist/2icndAD2G5umAWdgrARONR"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193038,
+      "name": "Bird Song - Acoustic",
+      "url": "https://open.spotify.com/track/6mqy5To9aDKB7pNLFwMQms"
+    },
+    {
+      "album": {
         "name": "Wolves EP",
         "url": "https://open.spotify.com/album/0bxlRfsXldvLDC0RxGkfd7"
       },

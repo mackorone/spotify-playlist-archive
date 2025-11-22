@@ -1,12 +1,12 @@
 {
   "description": "The best new pop music from new, independent artists.  Cover: ili. Artwork by Paola Saliby",
-  "num_followers": 230893,
+  "num_followers": 230910,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABF7xMiMxjn/F217BccWJfkB51+0",
+  "snapshot_id": "AAAAAPUTXunHOloFl3KWTcNXl30pKZZl",
   "tracks": [
     {
       "added_at": "2025-11-14 05:00:38",
@@ -27,6 +27,22 @@
     {
       "added_at": "2025-11-19 05:00:31",
       "album": {
+        "name": "Tracy",
+        "url": "https://open.spotify.com/album/6KOs8bG57zs3LK9i3rydM0"
+      },
+      "artists": [
+        {
+          "name": "Pash",
+          "url": "https://open.spotify.com/artist/3jEgbW70PXxv993symSK35"
+        }
+      ],
+      "duration_ms": 140952,
+      "name": "Tracy",
+      "url": "https://open.spotify.com/track/2Irs8tqS6DELbaFlwlwRTC"
+    },
+    {
+      "added_at": "2025-11-19 05:00:31",
+      "album": {
         "name": "Somersault Queen",
         "url": "https://open.spotify.com/album/6GonAkL6eg0RWND5iwfPIm"
       },
@@ -39,6 +55,22 @@
       "duration_ms": 245336,
       "name": "My Endeavour",
       "url": "https://open.spotify.com/track/32zC4WPTjQdzXbQGvSk6rB"
+    },
+    {
+      "added_at": "2025-11-21 05:00:30",
+      "album": {
+        "name": "Think About U Lots",
+        "url": "https://open.spotify.com/album/6iAhu9llD9clQtdAbc4v6m"
+      },
+      "artists": [
+        {
+          "name": "Elise Elvira",
+          "url": "https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU"
+        }
+      ],
+      "duration_ms": 214763,
+      "name": "Think About U Lots",
+      "url": "https://open.spotify.com/track/0obpw5cKWbMCTvDhIuP3OU"
     },
     {
       "added_at": "2025-11-19 05:00:31",
@@ -63,22 +95,6 @@
     {
       "added_at": "2025-11-19 05:00:31",
       "album": {
-        "name": "Tracy",
-        "url": "https://open.spotify.com/album/6KOs8bG57zs3LK9i3rydM0"
-      },
-      "artists": [
-        {
-          "name": "Pash",
-          "url": "https://open.spotify.com/artist/3jEgbW70PXxv993symSK35"
-        }
-      ],
-      "duration_ms": 140952,
-      "name": "Tracy",
-      "url": "https://open.spotify.com/track/2Irs8tqS6DELbaFlwlwRTC"
-    },
-    {
-      "added_at": "2025-11-19 05:00:31",
-      "album": {
         "name": "With Gold",
         "url": "https://open.spotify.com/album/0OPcaWAszjMHA5BcCMKYvz"
       },
@@ -91,6 +107,22 @@
       "duration_ms": 183410,
       "name": "With Gold",
       "url": "https://open.spotify.com/track/6SLl2WfJ6gionA1H4L3Xse"
+    },
+    {
+      "added_at": "2025-11-21 05:00:30",
+      "album": {
+        "name": "Alcohol",
+        "url": "https://open.spotify.com/album/0hYcs0BNcfioP8zWglC9zt"
+      },
+      "artists": [
+        {
+          "name": "Kerr Mercer",
+          "url": "https://open.spotify.com/artist/5sCWBXe11vVgkSogU1jq5x"
+        }
+      ],
+      "duration_ms": 199173,
+      "name": "Alcohol",
+      "url": "https://open.spotify.com/track/7knB6NUQFwmKEBroRiLsQ1"
     },
     {
       "added_at": "2025-11-19 05:00:31",
@@ -1765,22 +1797,6 @@
       "url": "https://open.spotify.com/track/3oWnxaIUpSkYNrZKj6oltw"
     },
     {
-      "added_at": "2025-09-03 04:00:25",
-      "album": {
-        "name": "Safe Place",
-        "url": "https://open.spotify.com/album/43YF5gRKgG7JtA5IzXOFmr"
-      },
-      "artists": [
-        {
-          "name": "Dani Marchio",
-          "url": "https://open.spotify.com/artist/2lbntvM1QPq5hj4x3HO1dT"
-        }
-      ],
-      "duration_ms": 193260,
-      "name": "Safe Place",
-      "url": "https://open.spotify.com/track/0N7ewrP0Ic48F6JXf3KD75"
-    },
-    {
       "added_at": "2025-08-27 13:27:29",
       "album": {
         "name": "Over it Now",
@@ -1891,22 +1907,6 @@
       "duration_ms": 204153,
       "name": "Closer",
       "url": "https://open.spotify.com/track/1ikNsb06HbYG5wsHddxWGW"
-    },
-    {
-      "added_at": "2025-08-27 13:27:29",
-      "album": {
-        "name": "Man's World",
-        "url": "https://open.spotify.com/album/2VXnH7290GOXo2APenSgoj"
-      },
-      "artists": [
-        {
-          "name": "kitty bella",
-          "url": "https://open.spotify.com/artist/3dDsAxEGXIESY6puCA7YKz"
-        }
-      ],
-      "duration_ms": 161735,
-      "name": "Man's World",
-      "url": "https://open.spotify.com/track/4AymkUWB8IZVqciduELA1Y"
     },
     {
       "added_at": "2025-08-20 04:00:26",

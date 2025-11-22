@@ -1294,7 +1294,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 206266,
       "name": "Blue Eyes - Remastered 2003",
       "url": "https://open.spotify.com/track/4PFhHd7DsNg0ke9Nmlxms5"
@@ -8809,6 +8809,24 @@
     },
     {
       "album": {
+        "name": "Sausage Rolls for Everyone (Foodbank Choir)",
+        "url": "https://open.spotify.com/album/3PrYKqmqFgfAcnllPi3jsd"
+      },
+      "artists": [
+        {
+          "name": "LadBaby",
+          "url": "https://open.spotify.com/artist/0gWa2AiDlbvF24aqoLT2c1"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247640,
+      "name": "Sausage Rolls for Everyone",
+      "url": "https://open.spotify.com/track/13tYoTNaGN5TjVjnbjzotV"
+    },
+    {
+      "album": {
         "name": "Sausage Rolls for Everyone",
         "url": "https://open.spotify.com/album/4gSLhY97EdadQii0n2X31w"
       },
@@ -8876,7 +8894,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 247640,
       "name": "Sausage Rolls for Everyone - Foodbank Choir",
       "url": "https://open.spotify.com/track/4ff7UvADfecl8vA9Tr0Bbt"

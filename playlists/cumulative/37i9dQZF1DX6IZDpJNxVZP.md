@@ -4,7 +4,7 @@
 
 > Celebrate the season with these fun tracks
 
-348 songs - 15 hr 13 min
+349 songs - 15 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,6 +270,7 @@
 | [Supernatural](https://open.spotify.com/track/5WaCJ1h3VGVdMbcqSherY5) | [MusicClubKids!](https://open.spotify.com/artist/0swDLHqK8p8VqaUz8aR83w), [Sam Moran](https://open.spotify.com/artist/5hOJDPDGtR4hTrIyhO1OJq) | [Songs From The Hit Show \- Season One: Extra Seasoning](https://open.spotify.com/album/0Cjk4BEjRpMp2ZWNmAfPNq) | 3:06 | 2023-10-02 | 2025-10-11 |
 | [That's Santa](https://open.spotify.com/track/3j2PIdlUyqLUkBB5sSQoc3) | [Doggyland](https://open.spotify.com/artist/34ZLdDJVv5clP7Ask1zjoP), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Holiday Songs](https://open.spotify.com/album/6y7JyluWt7LUZ87vpwwhPq) | 2:09 | 2024-11-21 |  |
 | [The Candy Beat](https://open.spotify.com/track/3gMWTE6LYEsBHGqy937uSm) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn), [Meekah](https://open.spotify.com/artist/7vXebg7HlyNsHfRPJnelJ3) | [Halloween Party](https://open.spotify.com/album/31J9agSWwEGoopsSfFL4Xp) | 1:41 | 2025-10-03 | 2025-11-04 |
+| [The First Noel](https://open.spotify.com/track/5891WpczuJHCubTj1uMFnI) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [The First Noel](https://open.spotify.com/album/4hOED2dO6Iq9LnoqpD8sXM) | 2:46 | 2025-11-21 |  |
 | [The Human Bash](https://open.spotify.com/track/5ErlOvdivAtm0X4ahT8MyT) | [Billy Kelly](https://open.spotify.com/artist/090ICuz3ufLFq7nIWZD9tQ) | [Ha Ha Halloween](https://open.spotify.com/album/2zn94cpcSZ5qkbZnOfMB4J) | 2:19 | 2024-09-20 | 2024-10-06 |
 | [The Last \(Brussels\) Sprout](https://open.spotify.com/track/6SDbfoc924KWsH7XIZIfsg) | [Molly and Mango](https://open.spotify.com/artist/1l7gAZa6pdouMKutQhyJWL) | [The Last \(Brussels\) Sprout](https://open.spotify.com/album/1bL1YkWxk218NXAXcAWbsI) | 3:33 | 2025-11-07 |  |
 | [The Monster Jive](https://open.spotify.com/track/6hLPVenFMzwng4DNScuuaR) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Halloween Kids Party With Little Baby Bum](https://open.spotify.com/album/3w0ggqSNDMTURl4QUMOkbW) | 1:58 | 2021-09-24 | 2025-06-10 |

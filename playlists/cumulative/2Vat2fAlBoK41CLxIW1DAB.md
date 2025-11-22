@@ -4,7 +4,7 @@
 
 > 
 
-759 songs - 1 day 23 hr 31 min
+760 songs - 1 day 23 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -456,6 +456,7 @@
 | [Paper to Pen \(Aanthems Cover\)](https://open.spotify.com/track/5fKiXPFIBU39SV8Vht8zzQ) | [Dead End Drive\-In](https://open.spotify.com/artist/5ywrInSkiDhOqKX8cXeWiM) | [Punkouver, Vol\. 4](https://open.spotify.com/album/47eJSmGQkhIHzmZP3ZyaaG) | 4:29 | 2025-04-29 |  |
 | [PARALLEL HEART](https://open.spotify.com/track/3fjCPRgh7GgJ52Swmrd8wo) | [ABLAZE SCORPION](https://open.spotify.com/artist/4G0ONySSlfqNpbl2vu12Q9) | [PARALLEL HEART](https://open.spotify.com/album/3ElI9eLdqDHy4IJlK0tybC) | 3:23 | 2025-08-21 |  |
 | [Party Rock Anthem](https://open.spotify.com/track/14AvcjdXQI8lgTEgDOpO67) | [Sweet Electric](https://open.spotify.com/artist/2I2JaAstxZhlU1fmnRZSEm) | [Party Rock Anthem](https://open.spotify.com/album/5LhJ5V2YG1SOQMDJGjryfO) | 4:13 | 2024-12-04 |  |
+| [Party Time](https://open.spotify.com/track/2ROLG5tbFEpbPg8kV0xxNQ) | [Virya](https://open.spotify.com/artist/6bbW0jOKAWJWm3h6CTWaAS) | [Echoes Of The Modern Mind](https://open.spotify.com/album/5dAAKIVnr96ILc9gxPnRzt) | 3:41 | 2025-11-21 |  |
 | [PASATE A NASTA](https://open.spotify.com/track/4LmtNu76uFnzJRQUjiEnFS) | [BLACK SABAG](https://open.spotify.com/artist/5ZUruVNQEwlw2U610skIch) | [VOLUMEN 1](https://open.spotify.com/album/1Ji3tz63vJFuDcjV8cbVJB) | 3:01 | 2025-10-16 |  |
 | [Pastimes & Fun](https://open.spotify.com/track/07sXI1FaF89JC3VL2wqZKH) | [Remy Verreault](https://open.spotify.com/artist/1X0sGIndNILAQgjp6goC3Z), [PF](https://open.spotify.com/artist/28rVIjydSpEDAniKvOiO5p) | [Pastimes & Fun](https://open.spotify.com/album/5nlSXlZuqHJTPhFSZB2R9p) | 3:28 | 2025-06-18 |  |
 | [Pay Attention \- \(remix\)](https://open.spotify.com/track/7pzDict0oO8pNE19KYoExS) | [The Rite Band](https://open.spotify.com/artist/0m4ILdMQu2bAfjnUnw9XIr), [Mr\. ALLEN](https://open.spotify.com/artist/24BbJE4zJyn34Skcv16Q9W) | [Pay Attention \(remix\)](https://open.spotify.com/album/45gnII5tAwL3fbGUrrCU3i) | 3:30 | 2025-01-15 |  |

@@ -4,7 +4,7 @@
 
 > 감성 가득한 노래와 함께 부드럽게 핸들을 돌려보세요.
 
-246 songs - 15 hr 22 min
+247 songs - 15 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Every moment of you](https://open.spotify.com/track/2tY05I4MCH2eKnWTITUspC) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [My Love From the Star Part 7](https://open.spotify.com/album/76Ke9tCgKmlQTG2Nb810O0) | 4:03 | 2024-08-10 |  |
 | [Falling Slowly](https://open.spotify.com/track/7efGmCE7FPDKmwyWnbcU0p) | [DAESUNG](https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO) | [Falling Slowly](https://open.spotify.com/album/4lG2OGvs8iKdosM1ehaZ4s) | 3:57 | 2024-03-05 | 2025-09-06 |
 | [FALLIN’](https://open.spotify.com/track/6SB3WxKENI2kc1rFOo2mDB) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [FALLIN’](https://open.spotify.com/album/24QqEpbJ5la5efKymw6kcK) | 3:20 | 2024-11-21 | 2025-01-29 |
-| [First Step](https://open.spotify.com/track/2dBb7nKOJdVbv4Bib5w1DP) | [JUNGWOO](https://open.spotify.com/artist/26ECn7DzgrUo23kSC9KD7k) | [Check in Hanyang \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/1ertivhrcJ58ZCX3THYUbT) | 3:48 | 2025-02-10 |  |
+| [First Step](https://open.spotify.com/track/2dBb7nKOJdVbv4Bib5w1DP) | [JUNGWOO](https://open.spotify.com/artist/26ECn7DzgrUo23kSC9KD7k) | [Check in Hanyang \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/1ertivhrcJ58ZCX3THYUbT) | 3:48 | 2025-02-10 | 2025-11-22 |
 | [Floral Sense](https://open.spotify.com/track/7kqCeZ0OmIWDXoo6h9GMpw) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf), [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) | [Floral Sense \- The 1st Album \(Special Version\)](https://open.spotify.com/album/3GiIDO4BTLwJuZWQszk4Tg) | 3:48 | 2023-11-03 | 2024-02-22 |
 | [Flower in the Desert \- Kor Version](https://open.spotify.com/track/7M3POeMOBCs6pwtDkVhBTi) | [Woody](https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw) | [Flower in the Desert](https://open.spotify.com/album/5MJEKw6CnDkmjDBl4LwVnM) | 4:19 | 2023-11-03 |  |
 | [Flowerpot](https://open.spotify.com/track/67g0FMcEh3KJ7rxNvSL0vi) | [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [Flowerpot](https://open.spotify.com/album/3GRSlFFrRfhcGR6AffFqBx) | 4:02 | 2025-06-12 | 2025-07-03 |
@@ -198,6 +198,7 @@
 | [Stay With Me](https://open.spotify.com/track/4W1b3MxwZL87B1BNYLCtvW) | [Na Yoon Kwon](https://open.spotify.com/artist/49fyJl5wIzI5GtRuCKxKRw) | [The Nice Guy \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/5zCi2iLKEj1Gy7ieiasa1L) | 3:29 | 2025-08-19 | 2025-09-25 |
 | [Stay With Me \(Feat\. Ailee\)](https://open.spotify.com/track/6DwwRGm7Sl0ptUjPtYE2DU) | [D.O](https://open.spotify.com/artist/4X7RCrqaJpKMoeyeH5NPvj), [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Stay With Me \(Feat\. Ailee\)](https://open.spotify.com/album/7jUJbL40ru1ZIiCtimtHlR) | 4:27 | 2025-10-20 | 2025-11-11 |
 | [Stay With Me \(Feat\. As One\)](https://open.spotify.com/track/2BU4hyW2QRikHfa7on9jMp) | [Hanhae](https://open.spotify.com/artist/1CjHzclPOS2unF1vRtgurF), [Moon Se Yoon](https://open.spotify.com/artist/0xD8ZN47ERtuZEbmCkwZ05), [As One](https://open.spotify.com/artist/1MF797sg8WfxKRXELhlqtT) | [Stay With Me](https://open.spotify.com/album/2wJ2i4UQ1Hjp1gqrTtMXgD) | 3:40 | 2025-07-03 | 2025-07-17 |
+| [Still Here](https://open.spotify.com/track/2el8yRLvLFS5sxdcqjhDLS) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [EXchange4, Pt\. 6 \(Original Soundtrack\)](https://open.spotify.com/album/6DnjKL09yARkT22fUCULgQ) | 3:32 | 2025-11-21 |  |
 | [Still You](https://open.spotify.com/track/7pIpkUJOiFghCDLxono6qC) | [SEUNGKWAN \(SEVENTEEN\)](https://open.spotify.com/artist/4vYl3WahY3URtjubpKoGSR) | [Romantic Doctor 3 OST Part.4](https://open.spotify.com/album/76EcPCpVlaS2IJWTuQgGmf) | 3:49 | 2023-11-03 | 2025-06-13 |
 | [Still, I Like You](https://open.spotify.com/track/5psJ44acTdUgdQFdNd3mmT) | [Nam Gyu ri](https://open.spotify.com/artist/3Fp5JoccjllfLmNNnUuDkU) | [Still, I Like You](https://open.spotify.com/album/3kMsExLPq6z8zFJmY8sRSq) | 3:24 | 2025-08-19 | 2025-09-09 |
 | [Stitching](https://open.spotify.com/track/2FyMzBBr9xI0GL2du2KJsI) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Stitch](https://open.spotify.com/album/49l21eblkkpfozaTjlpphW) | 2:56 | 2024-11-21 | 2024-12-21 |

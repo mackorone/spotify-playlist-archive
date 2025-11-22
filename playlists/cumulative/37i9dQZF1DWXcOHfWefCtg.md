@@ -4,7 +4,7 @@
 
 > Soulful takes on all your Holiday favorites\. Cover: Devon Gilfillian
 
-87 songs - 4 hr 54 min
+89 songs - 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [I'll Be Your Santa Baby](https://open.spotify.com/track/01xFD1VVeCgzVricCPWgYU) | [Rufus Thomas](https://open.spotify.com/artist/3iRSHS3b4NUdjNbnw3Opg8) | [Christmas In Soulsville](https://open.spotify.com/album/1hKmCNqK4Iwxjwn0z9i8bN) | 3:35 | 2021-11-12 |  |
 | [It Can't Be Christmas](https://open.spotify.com/track/5SxfqYOHg6XaLCBr8N4jFo) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [It Can't Be Christmas](https://open.spotify.com/album/4WDJarpfVVwJlMrd36OyiM) | 3:07 | 2025-10-17 |  |
 | [It Won't Be Long 'Til Christmas \- Bonus Track / 2015 Mix](https://open.spotify.com/track/0d8JxzRzUgTN6aUu7Aii0I) | [Diana Ross & The Supremes](https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq) | [Merry Christmas \(Expanded Edition\)](https://open.spotify.com/album/3mKxD3slkstGtfDxBI8p62) | 2:41 | 2021-11-12 |  |
+| [It's The Holidays](https://open.spotify.com/track/1rrabjcbiEcdUiZOe46pFw) | [LÒNIS](https://open.spotify.com/artist/1pS3ir5bQSBiBYvOBjPWcm), [Jon Mero](https://open.spotify.com/artist/6MuZFI7KLPBjhmgkkX5LPf) | [It's The Holidays](https://open.spotify.com/album/50pS1trCWbG8dmbVtNg88d) | 2:43 | 2025-11-21 |  |
 | [Jingle Bell Rock](https://open.spotify.com/track/5YHiQdrWm4PmBSMah8tgvQ) | [Con Funk Shun](https://open.spotify.com/artist/2hUkfSXyuDfQbUeNOShRiz) | [Home For Christmas](https://open.spotify.com/album/22iQ0h9GXq3J1HpPLq6ns1) | 3:23 | 2022-11-18 |  |
 | [Jingle Bell Rock](https://open.spotify.com/track/1tJ2IxYebzo8BH1DfugyL3) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [Christmas With The Platters](https://open.spotify.com/album/3WdCWL7bYtiSLRAlxxq1Q2) | 1:51 | 2021-11-12 |  |
 | [Joy To The World](https://open.spotify.com/track/5xuwoFhGhv1u8FnfmXjYi9) | [James Casey](https://open.spotify.com/artist/6pWMQpuRTqhLCEZA0h2AuC) | [A Little Something For Everyone](https://open.spotify.com/album/6tKPpbcaVKvnGYyX6oG6yz) | 3:40 | 2022-12-06 |  |
@@ -72,6 +73,7 @@
 | [Santa Claus Wants Some Loving](https://open.spotify.com/track/4JnSdc5Jdmi5qbLBhYKZZd) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [The Definitive Albert King](https://open.spotify.com/album/2t2I0wHfM1Xaak5SxmzLUQ) | 3:00 | 2021-11-12 |  |
 | [Santa's Got a Brand New Bag](https://open.spotify.com/track/3gyxI5fCcil5xNy5RL9DPo) | [Gary Walker](https://open.spotify.com/artist/1SiS31gWN3auJDxLU1CGCL), [The Boogie Kings](https://open.spotify.com/artist/02FT4qRWquTbmIJSSSp5c8) | [Louisiana Christmas](https://open.spotify.com/album/75mbpdrEZKAXVxvXPCkCjF) | 3:09 | 2021-11-12 |  |
 | [Someday At Christmas](https://open.spotify.com/track/4FJscysNlC9Z7zXYWSTZ01) | [Joy Denalane](https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH) | [A Motown Holiday](https://open.spotify.com/album/2UQr1aieOS6AkM82LCU9JB) | 3:06 | 2021-11-12 |  |
+| [Someday At Christmas](https://open.spotify.com/track/1qSu4UYRzd9JqDdJHSOOsS) | [Lamont Landers](https://open.spotify.com/artist/3avnA23xLmCYfnsivruOgq) | [Lamont Landers Sings...The Holidays](https://open.spotify.com/album/1F7UqgeogdasU1Wicw2X70) | 2:58 | 2025-11-21 |  |
 | [Soul Santa](https://open.spotify.com/track/11gh3UiFOxuWFmC8u0bSBn) | [Electric Jungle](https://open.spotify.com/artist/3UCSKT8v1uP0wvaaLQsWbQ) | [Funky Funky Christmas / Soul Santa](https://open.spotify.com/album/4GbmWIKyhUN36L6XgASY3o) | 3:13 | 2022-12-06 | 2024-04-19 |
 | [Soul Santa](https://open.spotify.com/track/3RioxCpl65S9QKX0gSS2mN) | [Electric Jungle](https://open.spotify.com/artist/3UCSKT8v1uP0wvaaLQsWbQ) | [Funky Funky Christmas / Soul Santa](https://open.spotify.com/album/3Xv0MSuQT1fTQj54jKlNF0) | 3:13 | 2022-12-06 |  |
 | [Soulful Christmas](https://open.spotify.com/track/1DPsX971DJx0ntFazxzL6B) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [James Brown's Funky Christmas](https://open.spotify.com/album/5IEg0oP2tkX7XGOGXyB6wM) | 3:09 | 2021-11-12 |  |

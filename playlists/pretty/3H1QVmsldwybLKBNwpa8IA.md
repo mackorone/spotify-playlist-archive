@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3H1QVmsldwybLKBNwpa8IA.md) - [plain]
 
 > All I Want For Christmas Is...this playlist! Listen to your fav holiday classics here.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 35,607 likes - 140 songs - 7 hr 32 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 35,607 likes - 145 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -148,5 +148,10 @@ pretty - [cumulative](/playlists/cumulative/3H1QVmsldwybLKBNwpa8IA.md) - [plain]
 | 138 | [O Holy Night](https://open.spotify.com/track/3B7FO3kJ5kv3mX7yiaB7sT) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:27 |
 | 139 | [This Christmas I'm Coming Home](https://open.spotify.com/track/7JZAQlrUT16F5dHeGeeB3Y) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [This Christmas I'm Coming Home](https://open.spotify.com/album/1cN6RQKe5daBWQj795grM2) | 3:00 |
 | 140 | [Santa Claus Is Comin' To Town](https://open.spotify.com/track/5h1LioQgmLvWoRU7V4pjma) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday](https://open.spotify.com/album/32gqZfrZ51UMunez3CZDJZ) | 2:39 |
+| 141 | [Gifts For Me](https://open.spotify.com/track/0nhpTFbJ3uX4qqL9qaQj5B) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Gifts For Me](https://open.spotify.com/album/1koxpBaSddYY1xd5YmEeN2) | 2:30 |
+| 142 | [Heart of the Holidays](https://open.spotify.com/track/5NmtWJfouVfDFGJUnhmjnl) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Heart of the Holidays](https://open.spotify.com/album/3l7pTfUOeqLC8qFaZ81uFm) | 2:56 |
+| 143 | [Call It Christmas](https://open.spotify.com/track/6U07SuRy9956tEyO0JxgYn) | [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN) | [Call It Christmas](https://open.spotify.com/album/4QtiBMfr2QcutH7GJRgGwS) | 2:47 |
+| 144 | [Last Christmas](https://open.spotify.com/track/5PbmmH9pg8hhtZuHZ7Yyxp) | [sundayclub](https://open.spotify.com/artist/7dcTyitRlZLvXG825D7AqM) | [Last Christmas](https://open.spotify.com/album/0WQTo7jGNPJ1VAKPuoFpb7) | 3:21 |
+| 145 | [Christmas Ain't Christmas](https://open.spotify.com/track/5Gjvb3iVQhkMBKjMEWYszI) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [Christmas Ain't Christmas](https://open.spotify.com/album/2LvZYFeikO05rQ8xBHHl9k) | 3:08 |
 
-Snapshot ID: `AAAFEMaSi90gco1TRtEORLpK6V8uMQrw`
+Snapshot ID: `AAAFFbrRwgOl4L8g6g8TesbbYKyfEPoE`

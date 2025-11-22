@@ -4,7 +4,7 @@
 
 > Celebra con sazón\. A holiday playlist with tropical flavor.
 
-192 songs - 13 hr 5 min
+193 songs - 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,9 +150,10 @@
 | [Montados en Bicicleta](https://open.spotify.com/track/7vK2y43KQm04iH0C3DHI2T) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Montados en Bicicleta](https://open.spotify.com/album/2Zih48eHIEcLOgJdZopLkS) | 4:00 | 2023-08-16 |  |
 | [Navidad](https://open.spotify.com/track/3JH8P81S1bWU4CDsIBDzYl) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Bachatero En Navidad](https://open.spotify.com/album/700I6ALf2ZqgfZvquxrjFM) | 4:39 | 2023-08-16 |  |
 | [Navidad](https://open.spotify.com/track/5nMYeNiglE4xYo8se1HejN) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [25 Aniversario, Vol\. 2](https://open.spotify.com/album/3dfbVFrxtpZyz4KNmOq7oe) | 5:05 | 2023-08-16 | 2024-08-05 |
-| [Navidad , Navidad](https://open.spotify.com/track/6HbzRvIncheZaMjHVaZOge) | [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Navidad en Merengue \(Versión Editada\)](https://open.spotify.com/album/6iJ0AdHHXnP1L0gLhi4e1M) | 3:51 | 2023-12-19 |  |
+| [Navidad , Navidad](https://open.spotify.com/track/6HbzRvIncheZaMjHVaZOge) | [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Navidad en Merengue \(Versión Editada\)](https://open.spotify.com/album/6iJ0AdHHXnP1L0gLhi4e1M) | 3:51 | 2023-12-19 | 2025-11-22 |
 | [Navidad Con Mi Gente](https://open.spotify.com/track/4wHHRsP2Ifxnj0AhsjEyNQ) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Navidad Con Mi Gente](https://open.spotify.com/album/0hnilJiSbfzm9EoTgeZQjl) | 3:45 | 2022-11-25 |  |
 | [Navidad Con Pique](https://open.spotify.com/track/7dTSe9TgOWqusoI0H1l7qV) | [Nelsón de la Olla y la Banda Chula](https://open.spotify.com/artist/4jKdcrQmQbdNba1NKkXdIt) | [Fiesta en Navidad 35 Exitos](https://open.spotify.com/album/4czT2iX93Cox7I0HdEYzUU) | 3:21 | 2023-12-19 | 2025-08-29 |
+| [Navidad en Cada Esquina \(It's Beginning To Look A Lot Like Christmas\)](https://open.spotify.com/track/58jcOMyS7lEP03aHGSFdCU) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Navidad en Cada Esquina \(It's Beginning To Look A Lot Like Christmas\)](https://open.spotify.com/album/2JTU2Rxwgbo5V4z8bZFicL) | 3:45 | 2025-11-21 |  |
 | [Navidad en Mi Barrio](https://open.spotify.com/track/2p4NQR05RqzwHsUVXRTNeB) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Navidad a Mi Estilo](https://open.spotify.com/album/4ieRHjOfukQ0LNk7NNtzeE) | 5:18 | 2022-12-18 |  |
 | [Navidad Es Amor](https://open.spotify.com/track/58VzmExhFVXfOuqP24e8Q9) | [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq), [Lourdes Robles](https://open.spotify.com/artist/1c6mqbZk70GyrR8ltrRBtm), [José Nogueras](https://open.spotify.com/artist/1z8Vc58XjwvSENCaae5j0D) | [Versos de Nuestra Cultura](https://open.spotify.com/album/1EuDECMiIY2t7ti1kYHWnK) | 4:21 | 2022-12-18 |  |
 | [Navidad para el pueblo](https://open.spotify.com/track/0NMKMatww8aQFrGTI88QOa) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Toño en America](https://open.spotify.com/album/3vBuyDnFfXcMORQsi1yMJe) | 4:19 | 2022-12-18 |  |

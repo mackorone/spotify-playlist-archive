@@ -4,7 +4,7 @@
 
 > Inspirational hip\-hop\. Cover: Fridayy
 
-532 songs - 1 day 2 hr 39 min
+533 songs - 1 day 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -376,6 +376,7 @@
 | [Pray For Me](https://open.spotify.com/track/302z6SpriKe4XrIN5zZjbg) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Reconstruction](https://open.spotify.com/album/0uwbHaYo7t65nwqE62AyZl) | 3:19 | 2025-08-22 |  |
 | [Pray For Real](https://open.spotify.com/track/62HxRvtceWrQ1HUEey0e7s) | [Peter CottonTale](https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi), [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Pray For Real](https://open.spotify.com/album/3kTB0zNezDpCRZUXGPp5zN) | 3:13 | 2023-02-18 | 2024-04-19 |
 | [Pray For Real](https://open.spotify.com/track/6Wd1lJm7dCMMINB4QuvqZV) | [Peter CottonTale](https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi), [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [CATCH](https://open.spotify.com/album/11uE9x208MS33gXdRUC6LJ) | 3:13 | 2021-12-11 | 2024-06-26 |
+| [Prayed 4 This](https://open.spotify.com/track/77e5sOdowwKScwZoDenoCb) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy), [Quintana Mills](https://open.spotify.com/artist/0QfS6MisIhAy4LgjlAbWMz) | [Prayed 4 This](https://open.spotify.com/album/7MAXGNCazUxzr3AiEkg2C7) | 2:20 | 2025-11-21 |  |
 | [PRESS](https://open.spotify.com/track/4IbeLxSiXnD79Ozl6FvGxu) | [J\. Crum](https://open.spotify.com/artist/6ZvBaBl5ozrLIBxBAKpGDt), [Ayo Shamir](https://open.spotify.com/artist/3Xy4ZQ2ZZxGL3W8SBGHOo7) | [PRESS](https://open.spotify.com/album/1oqbZovUcI56wT3h7O9IAk) | 2:27 | 2022-03-25 | 2022-07-25 |
 | [Pressure](https://open.spotify.com/track/755eT9EDA6vjWcFv5lLUGI) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B), [Thi'sl](https://open.spotify.com/artist/1Q45nhioxaxZTDjR0iaMWp), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Pressure](https://open.spotify.com/album/3j8SxbKhTdNXTHmHt0jJjp) | 3:13 | 2022-11-18 |  |
 | [PRESSURE](https://open.spotify.com/track/1hqAriaUctIMv62hDNBLWi) | [Toyalove](https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6) | [PRESSURE](https://open.spotify.com/album/5vrLASRbLFy32QQpAvLkEL) | 2:37 | 2023-02-18 | 2024-06-19 |
@@ -512,7 +513,7 @@
 | [We the People \(Come Together\)](https://open.spotify.com/track/1iKAD3PTIsjfcw2AinyKVp) | [Konata Small](https://open.spotify.com/artist/46ZKkiF5p7EUjBL0JknTxQ) | [We the People \(Come Together\)](https://open.spotify.com/album/4bZVe0WMHYDF5mniuWEjLj) | 3:11 | 2021-12-11 | 2022-07-27 |
 | [We Up](https://open.spotify.com/track/62nB5ttQdZE42boL5vS6x3) | [Jim\-E\-O](https://open.spotify.com/artist/7b9oNYQgcmcDCFtFc3fNfp), [Pierre Medor](https://open.spotify.com/artist/5Ryi9Ymj30IE4LRUuyXY7c) | [Crown](https://open.spotify.com/album/3GadHFLkXYd8DTEY545vhj) | 3:08 | 2022-03-19 | 2022-07-24 |
 | [We Win \(Space Jam: A New Legacy\) \(and Kirk Franklin\)](https://open.spotify.com/track/4Y9BJZccHjVdHUkee0pBRa) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [We Win \(Space Jam: A New Legacy\)](https://open.spotify.com/album/5w1tIaJtvgPEn2mHxiJoVo) | 3:14 | 2021-12-11 | 2024-06-26 |
-| [WES](https://open.spotify.com/track/1Fu9ShPcWVRufPrhyTucB8) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [WES](https://open.spotify.com/album/2OuiDIceUU6HfAwvtucypW) | 1:54 | 2024-06-28 |  |
+| [WES](https://open.spotify.com/track/1Fu9ShPcWVRufPrhyTucB8) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [WES](https://open.spotify.com/album/2OuiDIceUU6HfAwvtucypW) | 1:54 | 2024-06-28 | 2025-11-22 |
 | [WHAT A DAY](https://open.spotify.com/track/4gWoygRy7vI1Hxs99fymb3) | [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [WHAT A DAY](https://open.spotify.com/album/40aNMrVZkiEXfzPTTUQa6Y) | 2:43 | 2021-12-11 | 2022-11-19 |
 | [Where Do We Go?](https://open.spotify.com/track/1l1RKCVgp6qn4UNpgasHhY) | [Sho Baraka](https://open.spotify.com/artist/3dpswct31rsudWf8ZASWZe) | [Where Do We Go?](https://open.spotify.com/album/0GV40hHjZG1GAxk05U2H0m) | 3:34 | 2024-08-26 | 2024-09-04 |
 | [Where The Love Go?](https://open.spotify.com/track/6AcH0LfJlSzhHQqzWaxU5Y) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO), [BigBreeze](https://open.spotify.com/artist/7wrWSJHfACjw7s7gYXOXTt) | [Christopher](https://open.spotify.com/album/5VEvjpJ9mrA2JfVQJJvLEW) | 2:20 | 2021-12-11 | 2024-06-26 |

@@ -4,7 +4,7 @@
 
 > Sit back and relax by listening to piano renditions of your favorite Disney songs.
 
-157 songs - 8 hr 46 min
+158 songs - 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Colombia, Mi Encanto](https://open.spotify.com/track/7AyvaOZMsqEqKl2Fjsb82n) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Spirit](https://open.spotify.com/album/2UsDLgxVOmCtsiUsUBcCnJ) | 2:25 | 2022-10-20 |  |
 | [Colors of the Wind](https://open.spotify.com/track/2QvigPejxD02hOHKzSvRL3) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Chill](https://open.spotify.com/album/3NLf3vFNYqC2idExmdILPP) | 4:32 | 2022-10-20 |  |
 | [Do You Want to Build a Snowman?](https://open.spotify.com/track/3xF2Gejis04bdObgo1rxqv) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Lullaby](https://open.spotify.com/album/2CE8v99s07pcaXQwOLYMlS) | 2:44 | 2022-10-20 |  |
+| [Do You Want to Build a Snowman? \(Arr\. Hough for Piano\) \- From "Frozen"](https://open.spotify.com/track/71by7ANHOjE31qMaTfCgZH) | [Stephen Hough](https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP) | [Do You Want to Build a Snowman? \(Arr\. Hough for Piano\) \[From "Frozen"\]](https://open.spotify.com/album/6WhuHDpl19jTykVcjNzp6f) | 2:25 | 2025-11-22 |  |
 | [Dos Oruguitas](https://open.spotify.com/track/5yrbqTvILXJAIFm12ueQcK) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Family](https://open.spotify.com/album/5GB60sKvsDFzxp1KHM4Ewv) | 3:24 | 2022-10-20 |  |
 | [Epiphany](https://open.spotify.com/track/1q1T0TbFO2fWkDmgCKwTB0) | [Trent Reznor and Atticus Ross](https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh) | [Soul \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88) | 3:48 | 2022-10-20 |  |
 | [Evermore](https://open.spotify.com/track/5SyFWAGIh1Z8v4HQEO9qsO) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Love Songs](https://open.spotify.com/album/4fJ9JA2YBDo8HWKAZya9A4) | 4:42 | 2022-10-20 |  |

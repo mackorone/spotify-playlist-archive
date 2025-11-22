@@ -507,6 +507,24 @@
     },
     {
       "album": {
+        "name": "And Back",
+        "url": "https://open.spotify.com/album/2aUS0E8GkkzQWedaFj0Gwm"
+      },
+      "artists": [
+        {
+          "name": "JAKKOB",
+          "url": "https://open.spotify.com/artist/1eZYmDz6m5XXpZ1dzo70v0"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320610,
+      "name": "And Back",
+      "url": "https://open.spotify.com/track/5ivcjJvxy4IwszlOto06lK"
+    },
+    {
+      "album": {
         "name": "Satellite",
         "url": "https://open.spotify.com/album/1ZocCJ1c4V46xAAFJa7DIs"
       },
@@ -3101,6 +3119,24 @@
     },
     {
       "album": {
+        "name": "De Groovy EP",
+        "url": "https://open.spotify.com/album/3whxzMZr8Kvs6wLuQGVl7V"
+      },
+      "artists": [
+        {
+          "name": "JIMII",
+          "url": "https://open.spotify.com/artist/2KQQpIJPJDxyEyjbRBVsYf"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409196,
+      "name": "De Groovy",
+      "url": "https://open.spotify.com/track/18IcF9HdiIxQof6zYpb2VJ"
+    },
+    {
+      "album": {
         "name": "DECEIVER",
         "url": "https://open.spotify.com/album/2nDEXGi3FyFJzuEXn2JWMV"
       },
@@ -3948,6 +3984,24 @@
       "duration_ms": 192000,
       "name": "EATER",
       "url": "https://open.spotify.com/track/2eihCGLP2BildJkKInBNly"
+    },
+    {
+      "album": {
+        "name": "De Groovy EP",
+        "url": "https://open.spotify.com/album/3whxzMZr8Kvs6wLuQGVl7V"
+      },
+      "artists": [
+        {
+          "name": "JIMII",
+          "url": "https://open.spotify.com/artist/2KQQpIJPJDxyEyjbRBVsYf"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407272,
+      "name": "Echelon",
+      "url": "https://open.spotify.com/track/5RTXZYhWzIGjgekissR2fP"
     },
     {
       "album": {
@@ -4905,6 +4959,24 @@
     },
     {
       "album": {
+        "name": "From L to R",
+        "url": "https://open.spotify.com/album/4Jg42Y6rrywR82J2N1Uk6J"
+      },
+      "artists": [
+        {
+          "name": "Havoc & Lawn",
+          "url": "https://open.spotify.com/artist/6EaFaq8NthVEQYSHSemmBv"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224538,
+      "name": "From L to R",
+      "url": "https://open.spotify.com/track/2m1hBmg6FtgY9Ouz4qMTd1"
+    },
+    {
+      "album": {
         "name": "Front & Back Seat",
         "url": "https://open.spotify.com/album/3prlLKT6UH9wH4zmIhiNyG"
       },
@@ -4920,6 +4992,24 @@
       "duration_ms": 171160,
       "name": "Front & Back Seat",
       "url": "https://open.spotify.com/track/1KyMTc7vqMotAPD21EvzBx"
+    },
+    {
+      "album": {
+        "name": "Frozen",
+        "url": "https://open.spotify.com/album/5bARuKz9sERIH9uVbsFaJG"
+      },
+      "artists": [
+        {
+          "name": "Omar+",
+          "url": "https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206448,
+      "name": "Frozen",
+      "url": "https://open.spotify.com/track/77Rrh3GmnQtudQWWJkomiG"
     },
     {
       "album": {
@@ -6737,6 +6827,28 @@
     },
     {
       "album": {
+        "name": "Hype It Up / Sneaker",
+        "url": "https://open.spotify.com/album/6BVSA3Y9zaH2jlxdaZURDd"
+      },
+      "artists": [
+        {
+          "name": "Kepler.",
+          "url": "https://open.spotify.com/artist/4yGWhPE8bcrYShFXg6iCxV"
+        },
+        {
+          "name": "Funkaholics",
+          "url": "https://open.spotify.com/artist/7BTIk905ehhtwnMBeHNF8d"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223500,
+      "name": "Hype It Up - Edit",
+      "url": "https://open.spotify.com/track/5v6QQaJHff2TLwY4gwrI3l"
+    },
+    {
+      "album": {
         "name": "Hyper",
         "url": "https://open.spotify.com/album/1l0vbfG18jQVRTiYUdEad8"
       },
@@ -8390,7 +8502,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 421359,
       "name": "London Flavour",
       "url": "https://open.spotify.com/track/6iIL570gzkoQIXoN2g7PXJ"
@@ -8412,6 +8524,28 @@
       "duration_ms": 143999,
       "name": "Look Back",
       "url": "https://open.spotify.com/track/1UUaTiBVklBme9BKmGQraf"
+    },
+    {
+      "album": {
+        "name": "Los Angeles Freestyle",
+        "url": "https://open.spotify.com/album/1omwyaDqy80qfjUFs2Fy6w"
+      },
+      "artists": [
+        {
+          "name": "KinAhau",
+          "url": "https://open.spotify.com/artist/3C7Tv0IqIGLjA9rpVaeHRB"
+        },
+        {
+          "name": "Cole Terrazas",
+          "url": "https://open.spotify.com/artist/5kSrrZnNYneJtk28xLuj7n"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234265,
+      "name": "Los Angeles Freestyle",
+      "url": "https://open.spotify.com/track/1AVZ3Q3OwCYWoKtbeW0lGu"
     },
     {
       "album": {
@@ -9234,7 +9368,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 168801,
       "name": "Moovin n Groovin",
       "url": "https://open.spotify.com/track/5yiRgZxx6qA4Qz9bFaOtgK"
@@ -9426,7 +9560,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 205984,
       "name": "My Love - Radio Edit",
       "url": "https://open.spotify.com/track/0MN24lsEJgp2JzERRv1naj"
@@ -10316,7 +10450,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 239851,
       "name": "ON IT!",
       "url": "https://open.spotify.com/track/5Q7unWxP79PPGgGj4yedWx"
@@ -11836,7 +11970,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 234102,
       "name": "Rock The House",
       "url": "https://open.spotify.com/track/6OyHx4GJwzOGaktpjOuDJ5"
@@ -13428,7 +13562,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 365454,
       "name": "Still Get You",
       "url": "https://open.spotify.com/track/7IN93aD4lkWN9DWFieUu4t"
@@ -13504,7 +13638,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 335769,
       "name": "Stop Pretending",
       "url": "https://open.spotify.com/track/4zyjH9acIArBVS9OShHsjC"
@@ -15931,6 +16065,32 @@
     },
     {
       "album": {
+        "name": "Wanna Party (feat. Dennis G)",
+        "url": "https://open.spotify.com/album/4YVg92vxNbOUMyTxjW4QwI"
+      },
+      "artists": [
+        {
+          "name": "Silva Bumpa",
+          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
+        },
+        {
+          "name": "Wideboys",
+          "url": "https://open.spotify.com/artist/2fLCjXwadBsnYmn05uxFpi"
+        },
+        {
+          "name": "Dennis G.",
+          "url": "https://open.spotify.com/artist/1DlMYV41CeNcwmNZ3wc9SW"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181500,
+      "name": "Wanna Party (feat. Dennis G)",
+      "url": "https://open.spotify.com/track/7ww9dHtVXHoJEbGGLSH7m2"
+    },
+    {
+      "album": {
         "name": "Want You EP",
         "url": "https://open.spotify.com/album/4T0AtHkpum0TmZBD5nqaNh"
       },
@@ -16862,7 +17022,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 182812,
       "name": "You Wanna D",
       "url": "https://open.spotify.com/track/0xAOBPbBC73UIKHQ1x0zHN"

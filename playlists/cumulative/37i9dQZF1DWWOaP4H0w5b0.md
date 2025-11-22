@@ -2,7 +2,7 @@
 
 ### [Metal Essentials](https://open.spotify.com/playlist/37i9dQZF1DWWOaP4H0w5b0)
 
-> Want some metal? Better to start with the essentials\. Cover: Slayer
+> Want some metal? Better to start with the essentials\. Cover: Metallica
 
 215 songs - 16 hr 32 min
 

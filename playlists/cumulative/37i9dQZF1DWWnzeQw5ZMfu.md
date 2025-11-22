@@ -4,7 +4,7 @@
 
 > Some of the biggest artists, recorded live\. It’s \(almost\) like you were there\.  Cover: Gracie Abrams
 
-259 songs - 19 hr 47 min
+260 songs - 19 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Bones \- Live in Vegas](https://open.spotify.com/track/0l9xTt0WwTpwSQCOb1zphd) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Imagine Dragons Live in Vegas](https://open.spotify.com/album/0fQaGkCbRIg5z7ta2SCrY0) | 4:03 | 2023-07-28 |  |
 | [Breathe Me](https://open.spotify.com/track/6LuJxDGp0ASyAlSZN64bR0) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Live from Sydney](https://open.spotify.com/album/623a0m3oqPh5SzrTOPxudd) | 6:06 | 2022-04-29 | 2022-08-16 |
 | [Breathe Me \- Live](https://open.spotify.com/track/60HvDEDbzm4BvTwQbLcrNz) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Lady Croissant \(Live\)](https://open.spotify.com/album/6WJcRNkvprk9oyJuiLHT5H) | 5:52 | 2022-04-14 | 2023-08-19 |
-| [Budapest \- Live from Spotify Stockholm](https://open.spotify.com/track/4HqU80xAozomP0XtgxAu6w) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Cassy O' \(EP\)](https://open.spotify.com/album/7maZrVJGD2VVevE5YJX68x) | 3:29 | 2022-04-14 |  |
+| [Budapest \- Live from Spotify Stockholm](https://open.spotify.com/track/4HqU80xAozomP0XtgxAu6w) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Cassy O' \(EP\)](https://open.spotify.com/album/7maZrVJGD2VVevE5YJX68x) | 3:29 | 2022-04-14 | 2025-11-22 |
 | [Candle In The Wind \- Live](https://open.spotify.com/track/6uaIVqaravhhG0rFBnexTE) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [One Night Only](https://open.spotify.com/album/1kurxs9vQ6MCevaoVeI0HY) | 3:45 | 2022-04-14 | 2023-08-19 |
 | [Chasing Pavements \(Live at Hotel Cafe\)](https://open.spotify.com/track/5gcj6l37gMBeSAjFnSKeWh) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/2YO1F9DHVEzXPriA1JHoOQ) | 3:52 | 2022-04-14 | 2022-07-02 |
 | [Crazy \- Live](https://open.spotify.com/track/0amwBCPSbKOMq1C5EC687X) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Soul Live](https://open.spotify.com/album/6bXqJuzljqzZo4MMhoECiT) | 7:21 | 2022-04-14 | 2025-01-18 |
@@ -45,6 +45,7 @@
 | [Dancing Queen \- Live](https://open.spotify.com/track/7uCt8IA0PnfsEoTMk7By1Q) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Live At Wembley Arena](https://open.spotify.com/album/1mc8M9eR9ZIBxqWA2CA4Wo) | 5:52 | 2022-04-14 | 2023-08-19 |
 | [DDU\-DU DDU\-DU \- Live](https://open.spotify.com/track/437Wn1icOBdhQaVnpJpl0F) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BLACKPINK 2018 TOUR 'IN YOUR AREA' SEOUL \(Live\)](https://open.spotify.com/album/4i0XmhtxZBPxwpgNeJ1Tvg) | 3:30 | 2022-04-14 | 2023-08-19 |
 | [Death Wish \- Live from The O2 Arena](https://open.spotify.com/track/6WuOYKZbV7CvtaCA7ohYmn) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Death Wish \(Live from The O2 Arena\)](https://open.spotify.com/album/44uIJOur5ep2lIaNmbAHfO) | 3:47 | 2025-04-04 |  |
+| [Die On This Hill \- At KOKO](https://open.spotify.com/track/0vYVxe1X7QOpzyIJzyVG3O) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Die On This Hill \(At KOKO\)](https://open.spotify.com/album/5KldQvtRfCs7SQdJj7vOne) | 3:53 | 2025-11-21 |  |
 | [Diva \- Homecoming Live](https://open.spotify.com/track/7eOG24Nx7j4nI3f9nOZTOi) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [HOMECOMING: THE LIVE ALBUM](https://open.spotify.com/album/35S1JCj5paIfElT2GODl6x) | 2:45 | 2022-04-14 | 2023-08-19 |
 | [Dive \- Live At Eventim Apollo](https://open.spotify.com/track/4tJXijvnfDZ5knslt6WanM) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Live At Eventim Apollo](https://open.spotify.com/album/5572B4RA9LsfrkXA7rU29M) | 4:28 | 2024-12-20 | 2025-01-18 |
 | [Don't Dream It's Over \(Live at Sydney Opera House\) \- 2006 \- Remaster](https://open.spotify.com/track/60OquKw8DFe1lHZxF4Gt6j) | [Crowded House](https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB) | [Farewell to the World \[\(Live at Sydney Opera House\) \[2006 \- Remaster\]\]](https://open.spotify.com/album/4BmEyUsrfPzLHV2vR5tgra) | 6:22 | 2022-04-29 | 2023-08-19 |
@@ -225,7 +226,7 @@
 | [The Lady In Red \- Live](https://open.spotify.com/track/6aLlWpYlgn45M37MKJvjbp) | [Chris de Burgh](https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U) | [Live in Dortmund](https://open.spotify.com/album/5GWvHCLGVFJQpOVNIqxCsl) | 4:06 | 2022-08-09 | 2024-04-19 |
 | [The Man \- Live From Paris](https://open.spotify.com/track/7FKbTRXXIWVFQmPH8zGfU0) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Man \(Live From Paris\)](https://open.spotify.com/album/6l7iXnb2Y4yDR9zag3kckA) | 3:39 | 2022-04-29 | 2025-08-02 |
 | [The Man Who Can't Be Moved \- Live At The Aviva Stadium, Dublin](https://open.spotify.com/track/2xMVakxkbsjd8KI6QmG79Q) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [\#3 Deluxe Version](https://open.spotify.com/album/7JOCOjZTcLysDMkZGWlcIj) | 4:55 | 2022-04-14 |  |
-| [The Power Of Love \- Live at Le Zénith, Paris, France \- October 1995](https://open.spotify.com/track/2nJKHm0UEvnXIxUWSOq26L) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Live à Paris](https://open.spotify.com/album/0mXmpNs70razpUGj8NEu4u) | 4:45 | 2022-04-14 |  |
+| [The Power Of Love \- Live at Le Zénith, Paris, France \- October 1995](https://open.spotify.com/track/2nJKHm0UEvnXIxUWSOq26L) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Live à Paris](https://open.spotify.com/album/0mXmpNs70razpUGj8NEu4u) | 4:45 | 2022-04-14 | 2025-11-22 |
 | [The Strangest Thing \- Live](https://open.spotify.com/track/6tGDadVUsPiO7U4TmB8MPS) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Older \(Expanded Edition\)](https://open.spotify.com/album/6vrPb5bne9kMaRB22t1Rmn) | 6:05 | 2022-11-11 | 2023-08-19 |
 | [The Way \- Live from London \(feat\. Mac Miller\)](https://open.spotify.com/track/4VUp83ibStl36qC7UOxGkF) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Yours Truly \(Tenth Anniversary Edition\)](https://open.spotify.com/album/2VSBGJ8bUuNgmOYXHIQagM) | 3:33 | 2023-09-01 |  |
 | [Thinking out Loud \- Live](https://open.spotify.com/track/341taDjwWRCScNcntpP6M2) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [+\-=÷× \(Tour Collection: Live\)](https://open.spotify.com/album/5ZewPP4nTMtJTn4krePB2d) | 5:20 | 2024-12-27 |  |

@@ -2,9 +2,9 @@
 
 ### [SALT](https://open.spotify.com/playlist/37i9dQZF1DX6tPTxr8qwRe)
 
-> sweet\. sharp\. unbothered \- Johnny Huynh & Jessica Baio on the cover
+> sweet\. sharp\. unbothered \- Mad Tsai on the cover
 
-1,020 songs - 1 day 23 hr 5 min
+1,022 songs - 1 day 23 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -428,6 +428,7 @@
 | [Hot Gum](https://open.spotify.com/track/3ENzDf9yNtgQ3NPSOfVhN8) | [SOFIA ISELLA](https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2) | [Hot Gum](https://open.spotify.com/album/2OajtROrr8awCu9utpvGFz) | 4:00 | 2023-05-05 | 2023-08-05 |
 | [Hot Killer](https://open.spotify.com/track/4bOYRZeMq2FVVFka2gUWQ9) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [Hot Killer](https://open.spotify.com/album/0as00WK8RwmFBwlvg3gmPy) | 2:18 | 2022-06-24 | 2022-10-29 |
 | [hot yoga in hell](https://open.spotify.com/track/2piKFLVacDlwV0U0JZmWSp) | [audalei](https://open.spotify.com/artist/5kVRPeQHKUoQ7ooGlewyXP) | [hot yoga in hell](https://open.spotify.com/album/6Pj9FD1lLjDemuRdRrxkCD) | 2:43 | 2025-01-10 | 2025-04-19 |
+| [HOUNDSOFHELL](https://open.spotify.com/track/0mWAqUgHBubNf7phC3hjA0) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [HOUNDSOFHELL](https://open.spotify.com/album/27hbVCgSKy5AQxv1yykYwJ) | 3:04 | 2025-11-21 |  |
 | [House Of Cards](https://open.spotify.com/track/5IHkkPgiIRaEnAIjWKdT9G) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [House Of Cards](https://open.spotify.com/album/1tuAaXyzHRHdwYBrzPub3t) | 2:57 | 2023-05-19 | 2023-08-19 |
 | [House Of Nightmares](https://open.spotify.com/track/1oTN3bznxhDVCkD6uqPflK) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [The Death Of Daisies \(Deluxe\)](https://open.spotify.com/album/4laGu6PuFAP2GXzRChUoPD) | 2:46 | 2025-05-16 | 2025-10-18 |
 | [How Did We End Up Here?](https://open.spotify.com/track/6n9Z22fHyOjXttaZsb4jga) | [Nat Slater](https://open.spotify.com/artist/6aoPz3BFmcELxlTAx9xxts) | [How Did We End Up Here?](https://open.spotify.com/album/3kB2r0HHTfrDKykTH0Q9WH) | 2:34 | 2025-08-22 | 2025-11-08 |
@@ -678,7 +679,7 @@
 | [Parachute](https://open.spotify.com/track/63AH0CKhrzqFVQt3VfJsom) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [Parachute](https://open.spotify.com/album/2Uf2MHzOLmlfuciVughpzO) | 2:31 | 2024-09-27 | 2025-01-25 |
 | [PARAMOUR \(feat\. AURORA\)](https://open.spotify.com/track/1erjalqVwLQT2t1ZWcas9P) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [PARAMOUR \(feat\. AURORA\)](https://open.spotify.com/album/79NhJfhqNZgDUJtwIn1V1k) | 2:48 | 2021-11-19 | 2022-03-18 |
 | [Parasite](https://open.spotify.com/track/00Se605FE4PodGs9ZV0hJq) | [Ella Red](https://open.spotify.com/artist/1hH4ajSTZKIBhwRymnZi5R) | [Parasite](https://open.spotify.com/album/70cJf4BIWAMjyqEtcPJA06) | 3:24 | 2025-08-01 | 2025-08-30 |
-| [PASSPORT](https://open.spotify.com/track/6PWfx76OvEAGRcomQSdJnt) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [PASSPORT](https://open.spotify.com/album/3EFv9uC4C4kSP3osSDiJ1K) | 2:11 | 2025-09-12 |  |
+| [PASSPORT](https://open.spotify.com/track/6PWfx76OvEAGRcomQSdJnt) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [PASSPORT](https://open.spotify.com/album/3EFv9uC4C4kSP3osSDiJ1K) | 2:11 | 2025-09-12 | 2025-11-22 |
 | [Patience](https://open.spotify.com/track/3aS7kFsjgveM02x2EM29xp) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [Patience](https://open.spotify.com/album/4YKJfZZhocCHRhkAEDyXni) | 2:35 | 2024-10-04 | 2025-01-25 |
 | [PATTERNS](https://open.spotify.com/track/7htM3PtOqbtanwimghnf1u) | [Josie Dunne](https://open.spotify.com/artist/2KgFtUjEtayfuximKppSAq) | [PATTERNS](https://open.spotify.com/album/5KgUxgS8yrb4mdsWyfHa7T) | 2:05 | 2022-09-09 | 2022-10-08 |
 | [PAYRI$E](https://open.spotify.com/track/5oihHH2Lw051Y0mFWz7fMM) | [Greta Isaac](https://open.spotify.com/artist/7BsLsPnH5swTyhGZq2qNbN) | [PAYRI$E](https://open.spotify.com/album/4bFgVrzjZ5PyVsW1BgXIok) | 2:56 | 2022-04-15 | 2022-05-20 |
@@ -874,7 +875,7 @@
 | [That's the thing x](https://open.spotify.com/track/6obaKy6dy2P9cNQPEKzA16) | [PRINS](https://open.spotify.com/artist/1aA95KMV62fwsApbrObQwq) | [That's the thing x](https://open.spotify.com/album/6m3nu19SylZYD3mVoL8ofF) | 3:51 | 2022-03-18 | 2022-06-04 |
 | [THE ARSONIST & THE SUPERMODEL](https://open.spotify.com/track/5mh4ZIGlt8MVTimIOs5pjt) | [liza](https://open.spotify.com/artist/6K5Mei2psrczwqzTMIM48I) | [THE ARSONIST & THE SUPERMODEL](https://open.spotify.com/album/6IZ6kSOta7A0p5I7mopGXk) | 2:12 | 2024-02-23 | 2024-04-27 |
 | [the AUDACITY](https://open.spotify.com/track/7zrVdaTYQS4QDw7DvETwvL) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [the AUDACITY](https://open.spotify.com/album/2GGCXmPDkBybkSJR59L8yA) | 3:13 | 2022-04-29 | 2022-09-24 |
-| [The Bomb](https://open.spotify.com/track/6FqQpftrbKOFvhQJ6f4Iyh) | [Lydia Night](https://open.spotify.com/artist/7zPPRI5YRGj8bPYBmtIy4l) | [Parody Of Pleasure](https://open.spotify.com/album/7k2AzBz7mFQAnKPYSzRwV7) | 2:22 | 2025-08-08 |  |
+| [The Bomb](https://open.spotify.com/track/6FqQpftrbKOFvhQJ6f4Iyh) | [Lydia Night](https://open.spotify.com/artist/7zPPRI5YRGj8bPYBmtIy4l) | [Parody Of Pleasure](https://open.spotify.com/album/7k2AzBz7mFQAnKPYSzRwV7) | 2:22 | 2025-08-08 | 2025-11-22 |
 | [the devil wears converse](https://open.spotify.com/track/1inJ5Hljjm0o90sqIMn1rl) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [the devil wears converse](https://open.spotify.com/album/3xPGzASX9K4oqca20EJMjO) | 2:39 | 2025-07-25 | 2025-09-06 |
 | [The Dirt](https://open.spotify.com/track/6SvsfUdB6LE9NAYCOIZAu8) | [Elli Moore](https://open.spotify.com/artist/5qtgvemHd1Dl0WsgfpQIir) | [The Dirt](https://open.spotify.com/album/6aSdpWAAZDayXUI96vPp8G) | 2:44 | 2025-06-27 | 2025-10-05 |
 | [The Effect](https://open.spotify.com/track/6uaP5kz6aWbiKIi76LktX0) | [Precious Pepala](https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1) | [The Effect](https://open.spotify.com/album/22AvgFCDKVyEw7clejTJcT) | 3:23 | 2024-10-04 | 2025-01-25 |
@@ -940,6 +941,7 @@
 | [Undone](https://open.spotify.com/track/1tEK1Lm8PnxCi83TSxmhgt) | [Circe](https://open.spotify.com/artist/3pS4Tt6b6z9B6WUu5RGvWc) | [Undone](https://open.spotify.com/album/0gCYOi2ZfRkI6cO9j8iviH) | 3:32 | 2023-03-17 | 2023-04-22 |
 | [Unfinished Business](https://open.spotify.com/track/4YluI2KiR4ZWxqGAvNWsD1) | [Fae](https://open.spotify.com/artist/7gcUMQcBkw833YqXciq0WB) | [Unfinished Business](https://open.spotify.com/album/4fHanSBBo7YvqXhYUQgZ8N) | 2:56 | 2023-08-18 | 2024-01-20 |
 | [Unhappier](https://open.spotify.com/track/7G7TGbFjNOhd2rdCi2DoXR) | [laye](https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn) | [Unhappier](https://open.spotify.com/album/52T8ox6votmUHEqoGzgFd5) | 3:17 | 2023-07-14 | 2023-09-09 |
+| [UNHINGED](https://open.spotify.com/track/03pMmhhwBbSoUuKdGpj9PG) | [Sizzy Rocket](https://open.spotify.com/artist/2CBvbVxhd3ZJXRTCl88H7E) | [UNHINGED](https://open.spotify.com/album/1HS3pbvrFKsK0pkM7UQApo) | 2:12 | 2025-11-21 |  |
 | [Unholy \(feat\. Kim Petras\) \- Nova Twins Remix](https://open.spotify.com/track/1G2tlG3tA7uBH5izFZpaGX) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Unholy \(feat\. Kim Petras\) \[Nova Twins Remix\]](https://open.spotify.com/album/1Zq6e7bJTNwtf4IcZr4YaB) | 2:57 | 2022-12-09 | 2023-04-09 |
 | [Unsubstantial](https://open.spotify.com/track/7u9gUIq2jVEnIgUXAVXnBb) | [Anya Nami](https://open.spotify.com/artist/1A7NzAUPSwbUmfyGEmRM7h) | [Unsubstantial](https://open.spotify.com/album/6kzXo1uFPopE5YEGgxImau) | 1:40 | 2023-09-29 | 2024-01-16 |
 | [ur gf](https://open.spotify.com/track/0PqnLIwJi5ikmE53xvoPl4) | [Ella Boh](https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11) | [milk & honey](https://open.spotify.com/album/2mSTkRkw7ukApj7hTm9uwl) | 2:53 | 2025-08-01 | 2025-11-01 |

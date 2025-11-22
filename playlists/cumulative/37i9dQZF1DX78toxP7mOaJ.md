@@ -4,7 +4,7 @@
 
 > Fresh rock & alternative from independent artists every Wednesday\. Cover: bloodsports
 
-2,157 songs - 4 day 23 hr 24 min
+2,158 songs - 4 day 23 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1519,6 +1519,7 @@
 | [Pulling Thorns](https://open.spotify.com/track/6sdONTYEGw8DazXdOtnYTG) | [Sunday Morning](https://open.spotify.com/artist/2jctlQLPR5HkLkNZz4Zo4G) | [Pulling Thorns](https://open.spotify.com/album/29gnYtcl2j4VtveR2t6ws1) | 2:35 | 2025-07-02 | 2025-11-06 |
 | [Punches](https://open.spotify.com/track/5rpsi6Wewouf8EMOSKWc3j) | [Well Kept](https://open.spotify.com/artist/63b6NAhp62N7IHS44ZT15F) | [Punches](https://open.spotify.com/album/5nTwiREkFlALejPKqph0J5) | 3:59 | 2022-03-30 | 2022-04-14 |
 | [Punching Up](https://open.spotify.com/track/32Xt9yW9HLdMTtUpMooCr0) | [Garage Sale](https://open.spotify.com/artist/5mKieFMfRUdzfTKG1FtOXu) | [Punching Up](https://open.spotify.com/album/46URcwbxXPLxI6ATPCHnBt) | 3:23 | 2025-07-23 |  |
+| [Punk Wave Sin Barreras](https://open.spotify.com/track/7CqcHJ7sZ71Eb9ScuvSEVS) | [Planta Industrial](https://open.spotify.com/artist/2vfT28l8lKF4o9HuVkJ3Pw), [aka the darknight](https://open.spotify.com/artist/3yb2AwODgJ3ug0l3jKcD5j), [Saso](https://open.spotify.com/artist/7z3W8OunO3RH0quodR8Zsu) | [Punk Wave Sin Barreras Volume 1: Conociéndonos](https://open.spotify.com/album/5A5ZTjUNV7r3p6l4fVe470) | 0:47 | 2025-11-21 |  |
 | [punkt](https://open.spotify.com/track/2jZVRBClSWt3Vc9fPkyRCi) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [punkt](https://open.spotify.com/album/1MZG06naKW8R00sHwVY40y) | 2:25 | 2023-04-26 | 2023-06-29 |
 | [Puppy](https://open.spotify.com/track/6lKPZsX33G9uTJ3mDU3pVB) | [L'objectif](https://open.spotify.com/artist/7dB5TtNG9BHNj4QCfS0SQg) | [Puppy](https://open.spotify.com/album/0qjJwpkIck9Qj5IoGdHnT2) | 3:15 | 2024-03-06 | 2024-03-28 |
 | [purepurepure](https://open.spotify.com/track/21opIkXGXrbI2Q53uYGyc0) | [Her New Knife](https://open.spotify.com/artist/3BGUNVzuoQ79pOjLxJsZZg) | [purepurepure](https://open.spotify.com/album/7fT3ad9S9oKH6RkvpbOThe) | 3:21 | 2024-10-16 | 2025-02-13 |

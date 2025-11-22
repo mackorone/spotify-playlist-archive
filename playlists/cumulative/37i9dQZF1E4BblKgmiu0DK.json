@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With real silent bloom, Die Mannequin, Emilee & Jerico and more",
+  "description": "With Die Mannequin, real silent bloom, The Donnas and more",
   "name": "Renee Cassar Radio",
   "tracks": [
+    {
+      "album": {
+        "name": "3",
+        "url": "https://open.spotify.com/album/5HaCposgjWWP6SoLFtEy9o"
+      },
+      "artists": [
+        {
+          "name": "Batfarm",
+          "url": "https://open.spotify.com/artist/50zINatpEPyYpI15Pyxybf"
+        }
+      ],
+      "date_added": "2025-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "3",
+      "url": "https://open.spotify.com/track/6jyRcu3o3iSYPVU8noYS8x"
+    },
     {
       "album": {
         "name": "Island Life 50",
@@ -38,6 +56,24 @@
       "duration_ms": 115112,
       "name": "Aggro Overdrive",
       "url": "https://open.spotify.com/track/2JlAutAVnS8L4HpalRtycz"
+    },
+    {
+      "album": {
+        "name": "Alive Again",
+        "url": "https://open.spotify.com/album/3U1wHaNjnRwOEBmSFmzPHq"
+      },
+      "artists": [
+        {
+          "name": "Sleepless Eyes",
+          "url": "https://open.spotify.com/artist/6tvAlpucZmCZD4CGJmKvln"
+        }
+      ],
+      "date_added": "2025-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144209,
+      "name": "Alive Again",
+      "url": "https://open.spotify.com/track/7MLXISopUe4JjdiaLE1gMe"
     },
     {
       "album": {
@@ -124,7 +160,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-21",
+      "date_removed": null,
       "duration_ms": 201142,
       "name": "Better Off Dancing",
       "url": "https://open.spotify.com/track/1DpFP5szxmfhKtmmQseenG"
@@ -142,10 +178,46 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-21",
+      "date_removed": null,
       "duration_ms": 215462,
       "name": "Better On My Own",
       "url": "https://open.spotify.com/track/5Qe3fB78MJkOKXWjOgRwVm"
+    },
+    {
+      "album": {
+        "name": "Booktok and Biker",
+        "url": "https://open.spotify.com/album/15Z5bTdGr6JzfKBs9npkL4"
+      },
+      "artists": [
+        {
+          "name": "Jordy99x",
+          "url": "https://open.spotify.com/artist/2tZJkulj64WobrhFrny8fy"
+        }
+      ],
+      "date_added": "2025-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204839,
+      "name": "Biker Boy",
+      "url": "https://open.spotify.com/track/66Gfzx9L4PpHK8AgGKeGsu"
+    },
+    {
+      "album": {
+        "name": "Inside The Hollow",
+        "url": "https://open.spotify.com/album/04ZUaYNv07KLNMtKtQPCTG"
+      },
+      "artists": [
+        {
+          "name": "Lillix",
+          "url": "https://open.spotify.com/artist/00hKB8cu5lyBE35ilxyP7v"
+        }
+      ],
+      "date_added": "2025-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185333,
+      "name": "Blackout",
+      "url": "https://open.spotify.com/track/2HDo9PLQ66EOVESfVjydro"
     },
     {
       "album": {
@@ -178,7 +250,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 195520,
       "name": "Burn the Crown",
       "url": "https://open.spotify.com/track/5ZczBv5X58ZDUHgHOFlUBo"
@@ -214,10 +286,28 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 213500,
       "name": "Cyclone",
       "url": "https://open.spotify.com/track/6fsjuydBbdn3p931Yt211o"
+    },
+    {
+      "album": {
+        "name": "The Party and the Hangover",
+        "url": "https://open.spotify.com/album/5BEWZQxqv6q6MN0lVfFJ9J"
+      },
+      "artists": [
+        {
+          "name": "Roberto Maucci",
+          "url": "https://open.spotify.com/artist/7uTsOxIghfuHjMxROzQl3K"
+        }
+      ],
+      "date_added": "2025-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184350,
+      "name": "Cytherea",
+      "url": "https://open.spotify.com/track/3P2oRXVnuV6YAo0UQAxp4A"
     },
     {
       "album": {
@@ -250,7 +340,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-21",
+      "date_removed": null,
       "duration_ms": 191240,
       "name": "Dead Honey",
       "url": "https://open.spotify.com/track/1UClxw7v1bRhB6GpoVmO3O"
@@ -322,7 +412,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 116198,
       "name": "Echoes of the Underworld",
       "url": "https://open.spotify.com/track/1RfK4I3vO2gJHV1xIHIFaf"
@@ -430,10 +520,28 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 207359,
       "name": "Fractured Echeos",
       "url": "https://open.spotify.com/track/7zGtdhSL1NiqGowlvEjbfD"
+    },
+    {
+      "album": {
+        "name": "Better Than Blood",
+        "url": "https://open.spotify.com/album/3xs6yICbAPmqLUXk9Jjzks"
+      },
+      "artists": [
+        {
+          "name": "Megan McCauley",
+          "url": "https://open.spotify.com/artist/1YfkHHdFKLCMHUOFd1qHYs"
+        }
+      ],
+      "date_added": "2025-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199133,
+      "name": "Fragile",
+      "url": "https://open.spotify.com/track/1zX3GyOLGPLO0ZBnvtGn3L"
     },
     {
       "album": {
@@ -455,6 +563,24 @@
     },
     {
       "album": {
+        "name": "Gold Medal (U.S. Version 83770)",
+        "url": "https://open.spotify.com/album/4XoZkJosiyfetLAe6FQ9KF"
+      },
+      "artists": [
+        {
+          "name": "The Donnas",
+          "url": "https://open.spotify.com/artist/2c0qomdZabcCyqTZ5M9msd"
+        }
+      ],
+      "date_added": "2025-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218066,
+      "name": "Friends Like Mine",
+      "url": "https://open.spotify.com/track/2D79BAoGxFQUjz4h3RkslT"
+    },
+    {
+      "album": {
         "name": "From the Grave",
         "url": "https://open.spotify.com/album/5DZwggP6PDtv9VMkAmpAsD"
       },
@@ -466,7 +592,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-21",
+      "date_removed": null,
       "duration_ms": 173084,
       "name": "Get Ready",
       "url": "https://open.spotify.com/track/1qoFd6Z4dat4ccN8nIdCm0"
@@ -520,7 +646,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 214759,
       "name": "Halloween Boogie",
       "url": "https://open.spotify.com/track/7lCS8qx8J8syVgYZN63BAi"
@@ -538,7 +664,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-21",
+      "date_removed": null,
       "duration_ms": 173856,
       "name": "I Bet You Like That",
       "url": "https://open.spotify.com/track/1aFPttcEHd04oZpEXv6cvu"
@@ -556,7 +682,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 188906,
       "name": "I Can't Think",
       "url": "https://open.spotify.com/track/0hNg30jiOpfWQiOkkEvbSx"
@@ -653,6 +779,24 @@
     },
     {
       "album": {
+        "name": "Gold Medal (U.S. Version 83770)",
+        "url": "https://open.spotify.com/album/4XoZkJosiyfetLAe6FQ9KF"
+      },
+      "artists": [
+        {
+          "name": "The Donnas",
+          "url": "https://open.spotify.com/artist/2c0qomdZabcCyqTZ5M9msd"
+        }
+      ],
+      "date_added": "2025-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178826,
+      "name": "It Takes One to Know One",
+      "url": "https://open.spotify.com/track/6LQh4FDK5DkK1XNkN0wvup"
+    },
+    {
+      "album": {
         "name": "It's Not You",
         "url": "https://open.spotify.com/album/4P0JdSMtYHe9iUTYTxcNuD"
       },
@@ -700,7 +844,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 214679,
       "name": "I\u2019ll Survive Without You",
       "url": "https://open.spotify.com/track/5jeeIpNfJ6ByargBQQjWe6"
@@ -718,7 +862,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 211448,
       "name": "Join the Infestation",
       "url": "https://open.spotify.com/track/57KIpZZRR6uqDtwAK1uDs3"
@@ -772,10 +916,28 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 164389,
       "name": "Let Down",
       "url": "https://open.spotify.com/track/7ygnnIP16QYsqErfosSruw"
+    },
+    {
+      "album": {
+        "name": "This Is the End of Control",
+        "url": "https://open.spotify.com/album/3rothUjyXzBz0I3fvHD1Cj"
+      },
+      "artists": [
+        {
+          "name": "Cherri Bomb",
+          "url": "https://open.spotify.com/artist/6uyTDrWtG4OAsknVbGK5ep"
+        }
+      ],
+      "date_added": "2025-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219786,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/67I2ZXHgILepytYzNMBAbm"
     },
     {
       "album": {
@@ -808,7 +970,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 213802,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/77uqDcXTKdbMTvfjlTLitm"
@@ -826,7 +988,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 152915,
       "name": "Lonely Electric",
       "url": "https://open.spotify.com/track/4iozviCJvhZy9JROeKgKwE"
@@ -862,7 +1024,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 155000,
       "name": "Medication",
       "url": "https://open.spotify.com/track/5WpxPUOQ4E0DptaY0G377m"
@@ -880,7 +1042,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 118576,
       "name": "Mellow Chorus",
       "url": "https://open.spotify.com/track/2nzm5ih4hf6O7wF2DZb2Qm"
@@ -916,10 +1078,28 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-20",
+      "date_removed": null,
       "duration_ms": 238013,
       "name": "Mr Colson",
       "url": "https://open.spotify.com/track/3slvBytOocmwtxDCR4Q12p"
+    },
+    {
+      "album": {
+        "name": "Neon Zero",
+        "url": "https://open.spotify.com/album/2s8cJUWNW5B8Lepl8vTRVi"
+      },
+      "artists": [
+        {
+          "name": "Die Mannequin",
+          "url": "https://open.spotify.com/artist/4dsQdwx28xN2CRQn39V66C"
+        }
+      ],
+      "date_added": "2025-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244533,
+      "name": "Murder On The Dancefloor",
+      "url": "https://open.spotify.com/track/4I4jpzMZY4LA0YOHYfNQTN"
     },
     {
       "album": {
@@ -934,7 +1114,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 224562,
       "name": "Off-beat",
       "url": "https://open.spotify.com/track/3wUn8N746h7vP8goxi2571"
@@ -988,7 +1168,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 195077,
       "name": "Opera",
       "url": "https://open.spotify.com/track/26tCVYTF5sElwDfH9KEbWM"
@@ -1042,7 +1222,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 129920,
       "name": "Reves en pixels",
       "url": "https://open.spotify.com/track/08pimJSWL3vPwHkZSZNyxM"
@@ -1064,6 +1244,24 @@
       "duration_ms": 245333,
       "name": "Rock It Till You Drop It",
       "url": "https://open.spotify.com/track/1FoyGRX4VLxEWiC7rOC7ZI"
+    },
+    {
+      "album": {
+        "name": "FINO + BLEED",
+        "url": "https://open.spotify.com/album/2BhBF3MkIPQiUroerXpjNA"
+      },
+      "artists": [
+        {
+          "name": "Die Mannequin",
+          "url": "https://open.spotify.com/artist/4dsQdwx28xN2CRQn39V66C"
+        }
+      ],
+      "date_added": "2025-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162226,
+      "name": "Suffer",
+      "url": "https://open.spotify.com/track/1MZX9N4qyJXVYaov5qO7qG"
     },
     {
       "album": {
@@ -1132,7 +1330,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 131250,
       "name": "Vibe Killer",
       "url": "https://open.spotify.com/track/2VTCii5cZQLzq1DKEj1dFd"

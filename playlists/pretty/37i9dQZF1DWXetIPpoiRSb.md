@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 
 > The return of a superstar  💫 Cover: Robyn
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,306 likes - 80 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,292 likes - 80 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 | 79 | [ANGEL IN THE CLUB](https://open.spotify.com/track/0R0ArrUWlQE64ArlNI9mcb) | [Ashley Sienna](https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi) | [ANGEL IN THE CLUB](https://open.spotify.com/album/1WCpYZEJDzMhSXVnmx4EeR) | 2:04 |
 | 80 | [FUND$](https://open.spotify.com/track/799HHc8eTnRsHCFqXTwVRa) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [FUND$](https://open.spotify.com/album/4hQLeyedpQnCceU8hjjHjW) | 2:31 |
 
-Snapshot ID: `AAAAAHdx7M6Z+tWspRpogbEHaA+YXwGO`
+Snapshot ID: `AAAAAGpLj8l5zkc6qjt1tlG8ByQ4B5Ze`

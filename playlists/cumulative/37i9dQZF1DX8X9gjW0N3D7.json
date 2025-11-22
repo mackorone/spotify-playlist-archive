@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts. Photo: Marc Dupr\u00e9",
+  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts. Photo: Marie C\u00e9leste",
   "name": "Qu\u00e9b\u00e9cois Contemporain",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 130600,
       "name": "1999",
       "url": "https://open.spotify.com/track/16N4Uin8Z7dr3wLq87EA6S"
+    },
+    {
+      "album": {
+        "name": "2 go\u00e9lands",
+        "url": "https://open.spotify.com/album/7L12QeyV06gZhadVSI64Zf"
+      },
+      "artists": [
+        {
+          "name": "Marie C\u00e9leste",
+          "url": "https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178306,
+      "name": "2 go\u00e9lands",
+      "url": "https://open.spotify.com/track/2FQ3gf8fk67DdDgXEdfgmv"
     },
     {
       "album": {
@@ -118,6 +136,28 @@
       "duration_ms": 178872,
       "name": "Another Tangerine",
       "url": "https://open.spotify.com/track/6UEMQY0nHWOgXG9VvLNZzm"
+    },
+    {
+      "album": {
+        "name": "Treize miniatures",
+        "url": "https://open.spotify.com/album/06All3BqxHCltO0QXzF55F"
+      },
+      "artists": [
+        {
+          "name": "Joseph Marchand",
+          "url": "https://open.spotify.com/artist/3PtlrMQcFMfxJbmPvycl2F"
+        },
+        {
+          "name": "Marie-Pierre Arthur",
+          "url": "https://open.spotify.com/artist/2IAG8mcBKZoIc5VbcPgNNc"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113898,
+      "name": "Au d\u00e9but du soleil",
+      "url": "https://open.spotify.com/track/48XwaGQMz2YpbxJk9VBeI9"
     },
     {
       "album": {
@@ -500,7 +540,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 222266,
       "name": "Calendule",
       "url": "https://open.spotify.com/track/3Yq5A6rbffa3RL5LghSKVO"
@@ -612,7 +652,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 194817,
       "name": "Chaotique",
       "url": "https://open.spotify.com/track/5FK2YmzIrzkUIXxuidkXkS"
@@ -838,7 +878,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 115344,
       "name": "Couche tard",
       "url": "https://open.spotify.com/track/2GMjBIujd8dNs5SpT1RQLd"
@@ -892,7 +932,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-15",
+      "date_removed": null,
       "duration_ms": 210626,
       "name": "Croire en nous",
       "url": "https://open.spotify.com/track/6s133BFFGjnGJHQRiUzPob"
@@ -1161,6 +1201,24 @@
     },
     {
       "album": {
+        "name": "Difficile de ne pas perdre pied",
+        "url": "https://open.spotify.com/album/5EQZ9q2kxJNos3Kvkvo5ZW"
+      },
+      "artists": [
+        {
+          "name": "Pierre Lapointe",
+          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190955,
+      "name": "Difficile de ne pas perdre pied",
+      "url": "https://open.spotify.com/track/5WCSwHN7BZw4VPWRuM3hEX"
+    },
+    {
+      "album": {
         "name": "Journal d'un Loup-Garou",
         "url": "https://open.spotify.com/album/4Pdbon5Z4a3VdJyMgiZyMM"
       },
@@ -1172,7 +1230,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-15",
+      "date_removed": null,
       "duration_ms": 309760,
       "name": "Dis-moi dis-moi dis-moi",
       "url": "https://open.spotify.com/track/6CUxtpfcHNJ3s06zxKeppu"
@@ -1280,7 +1338,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 243641,
       "name": "Eau saline",
       "url": "https://open.spotify.com/track/7IkaPBIOjCVxEUlTVSUvrj"
@@ -1298,7 +1356,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 156946,
       "name": "Eh Oh!",
       "url": "https://open.spotify.com/track/0IeLLHkiaLRzaoFsHkI7xE"
@@ -1450,6 +1508,24 @@
       "duration_ms": 202960,
       "name": "Feu de paille",
       "url": "https://open.spotify.com/track/70eqsLa9wNGGibwSx8ox04"
+    },
+    {
+      "album": {
+        "name": "Fin",
+        "url": "https://open.spotify.com/album/6mNKm0vG8RSv8RUgeEGVGo"
+      },
+      "artists": [
+        {
+          "name": "Thomas Gauthier",
+          "url": "https://open.spotify.com/artist/1o1lGge9gBLbaWPQ6QncqQ"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104204,
+      "name": "Fin",
+      "url": "https://open.spotify.com/track/4WoHFukh4AhfGYWUlWp7Cq"
     },
     {
       "album": {
@@ -1724,7 +1800,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 145384,
       "name": "Homme \u00e0 la mer",
       "url": "https://open.spotify.com/track/6dkBRC3Xfo8pNDAuPaqQzi"
@@ -1912,7 +1988,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 217000,
       "name": "J'ai besoin de vivre",
       "url": "https://open.spotify.com/track/7AiIpmotHzRvcwRQwfivRG"
@@ -2284,7 +2360,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 216586,
       "name": "L'usine",
       "url": "https://open.spotify.com/track/35kpLsbkfjiza5VLsPwYfM"
@@ -2338,7 +2414,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 436524,
       "name": "La fin du show",
       "url": "https://open.spotify.com/track/5UrNvwWNKGhpfuI6c1kH58"
@@ -2688,7 +2764,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 220320,
       "name": "Le jour est morne",
       "url": "https://open.spotify.com/track/43eSwHzPZ1hKxQQtSIeSET"
@@ -2728,6 +2804,42 @@
       "duration_ms": 244200,
       "name": "Le monde est fou",
       "url": "https://open.spotify.com/track/6vOi7yWHX7Qy9Eunm8ATOa"
+    },
+    {
+      "album": {
+        "name": "le monde est une femme",
+        "url": "https://open.spotify.com/album/5OQy1FSMBACFkzNns4eDAc"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9lodie-Jade",
+          "url": "https://open.spotify.com/artist/1TdEVPQUOtvEypnIOeSjDK"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220842,
+      "name": "le monde est une femme",
+      "url": "https://open.spotify.com/track/6aXtLxcclrmVQwGW58RfK2"
+    },
+    {
+      "album": {
+        "name": "Le pied cass\u00e9",
+        "url": "https://open.spotify.com/album/5wi8duwtaVvcnVHgkzlk3C"
+      },
+      "artists": [
+        {
+          "name": "Lendemain de veille",
+          "url": "https://open.spotify.com/artist/1YXlZ3SpoxIziajB17MhoN"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231375,
+      "name": "Le pied cass\u00e9 cassant",
+      "url": "https://open.spotify.com/track/0J7TFGv0JKX5seWssUpltE"
     },
     {
       "album": {
@@ -2934,6 +3046,24 @@
       "duration_ms": 198181,
       "name": "Les joues us\u00e9es",
       "url": "https://open.spotify.com/track/3VyPjqDCcayoaFS2vMaSOE"
+    },
+    {
+      "album": {
+        "name": "Les mar\u00e9es",
+        "url": "https://open.spotify.com/album/0NEWJ7M79fadRXP68JMK4R"
+      },
+      "artists": [
+        {
+          "name": "Tristan Guay",
+          "url": "https://open.spotify.com/artist/0Bi9l2FyMlGmNQ4xKUcJYU"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189200,
+      "name": "Les mar\u00e9es",
+      "url": "https://open.spotify.com/track/0qqSadjTXmWlIPINefIjTf"
     },
     {
       "album": {
@@ -3519,6 +3649,28 @@
     },
     {
       "album": {
+        "name": "Nos cicatrices",
+        "url": "https://open.spotify.com/album/1wN9eM1Af0cUrDXJVfHwlQ"
+      },
+      "artists": [
+        {
+          "name": "Disskidz",
+          "url": "https://open.spotify.com/artist/621Toc7aqMYyQZsDQbU4j8"
+        },
+        {
+          "name": "Camille Leboeuf",
+          "url": "https://open.spotify.com/artist/2OjnA79HBttMm8yknUn4oJ"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209491,
+      "name": "Nos cicatrices",
+      "url": "https://open.spotify.com/track/1b0EYPLnXtyYpPB1qkJliG"
+    },
+    {
+      "album": {
         "name": "Notre p'tit refrain",
         "url": "https://open.spotify.com/album/4QuHgOVVO7FMFTMnfDtoUw"
       },
@@ -3602,7 +3754,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 274239,
       "name": "On Part en Vacances",
       "url": "https://open.spotify.com/track/2ddgnPyk9wA4kOV5vuSQ8t"
@@ -3906,7 +4058,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 191200,
       "name": "Quand m\u00eame",
       "url": "https://open.spotify.com/track/1sC4zWgATUKk6hNnaWOeKa"
@@ -4022,6 +4174,24 @@
       "duration_ms": 209154,
       "name": "Rappelle-moi ton nom",
       "url": "https://open.spotify.com/track/3MtXsHcd0EjV30p8wxh0HW"
+    },
+    {
+      "album": {
+        "name": "Reflets",
+        "url": "https://open.spotify.com/album/7d1M8gX8nrbzju67TheCSs"
+      },
+      "artists": [
+        {
+          "name": "dear\u2022dree",
+          "url": "https://open.spotify.com/artist/1HAU4BADFzqOCZr6dvV1DD"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206336,
+      "name": "Reflets",
+      "url": "https://open.spotify.com/track/09D9HBU9x7hLNZUmgcJLCZ"
     },
     {
       "album": {
@@ -4335,6 +4505,24 @@
     },
     {
       "album": {
+        "name": "South of the Border",
+        "url": "https://open.spotify.com/album/6V9k4ssZEgtA2rtOz3Xh59"
+      },
+      "artists": [
+        {
+          "name": "Ryan Kennedy",
+          "url": "https://open.spotify.com/artist/25jAO2QiZae4aSLA9LBXHS"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183208,
+      "name": "South of the Border",
+      "url": "https://open.spotify.com/track/0XX3pLPcGOeTmMPEPSr8ip"
+    },
+    {
+      "album": {
         "name": "St. Denis",
         "url": "https://open.spotify.com/album/4xUWVo4dSPdGxnH2pe1joh"
       },
@@ -4592,6 +4780,24 @@
       "duration_ms": 216483,
       "name": "Tenir debout",
       "url": "https://open.spotify.com/track/6VQpsaB8qzXS40QK9NvD3z"
+    },
+    {
+      "album": {
+        "name": "That I could",
+        "url": "https://open.spotify.com/album/2IawJiYvNLNryXklqU7HhU"
+      },
+      "artists": [
+        {
+          "name": "Alex Mick",
+          "url": "https://open.spotify.com/artist/0WoFoQAvv1ul6lQKQaGu0b"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219533,
+      "name": "That I could",
+      "url": "https://open.spotify.com/track/1p2XBDrwARmuqxcaQ72oNY"
     },
     {
       "album": {
@@ -4954,7 +5160,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 183092,
       "name": "Une rose \u00e0 la fois",
       "url": "https://open.spotify.com/track/7ARU11M9zMJyCnF9FMXeNS"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qun7zlfjzP3Qhzh6Qx1Qc.md) - [plain]
 
 > All your favourite country hits from Miranda Lambert, Luke Combs, Old Dominion, Kane Brown, Tenille Townes and more! Cover: Sacha.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 34,385 likes - 107 songs - 5 hr 56 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 34,379 likes - 112 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,5 +115,10 @@ pretty - [cumulative](/playlists/cumulative/1qun7zlfjzP3Qhzh6Qx1Qc.md) - [plain]
 | 105 | [Emerald City](https://open.spotify.com/track/2W6KXuxXkZHhdsfMiYkFi2) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Mount Pleasant](https://open.spotify.com/album/2jvpJVr7HjZh61bEyp5gKC) | 2:16 |
 | 106 | [Both Sides of the Blade](https://open.spotify.com/track/6t8BeTBukA9PTpiqnNNzBK) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Both Sides of the Blade \(EP\)](https://open.spotify.com/album/7rAJTZnndyoFjnXoiYfOIw) | 3:29 |
 | 107 | [Goose Chase](https://open.spotify.com/track/0TEIWKozQuoy5wbi7R6kZA) | [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD) | [Longleaf Lo\-fi](https://open.spotify.com/album/6zPQxHCUxMJIeB13J4r3Nv) | 2:39 |
+| 108 | [Meet You By The River](https://open.spotify.com/track/3olV40GMrdiQ2KyHr3qgDF) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Meet You By The River](https://open.spotify.com/album/0r53KvT5NickufXPXgx89O) | 1:42 |
+| 109 | [Barefoot and Pregnant](https://open.spotify.com/track/5RhfuRVw2cVIkacHkAwsZm) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [Barefoot and Pregnant](https://open.spotify.com/album/3lsjYy6RCq4XATR6Wokjc3) | 3:16 |
+| 110 | [Come Home to You](https://open.spotify.com/track/3OZIdWrjR85DbTX8DC4myC) | [Emily Ann Roberts](https://open.spotify.com/artist/4ZuggB1YawAAZOBL4pI9J8) | [Come Home to You](https://open.spotify.com/album/3HmBqHCOjU219BMkGljj4t) | 3:53 |
+| 111 | [Fire On The Hillside](https://open.spotify.com/track/0uAPJlac7akHjkU4tJmacm) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Fire On The Hillside](https://open.spotify.com/album/3SQ6pt50V0QVZeeLZ4xpdv) | 3:24 |
+| 112 | [Keeps Me Sane \(feat\. The Castellows\)](https://open.spotify.com/track/16c51SfenjUgP6F36uds5e) | [Tyler Nance](https://open.spotify.com/artist/38zCEnwAxIJWMCeMd9tO7z), [The Castellows](https://open.spotify.com/artist/18RWefCHpRm4ccmNgKSHvG) | [Keeps Me Sane \(feat\. The Castellows\)](https://open.spotify.com/album/72qbpYZ96o9bEOookAyOf0) | 3:12 |
 
-Snapshot ID: `AAANjECtOAq+u94pFv0MqgVo1+WJH3hW`
+Snapshot ID: `AAANkfmRYnBjBcG9vCN20jJuk1aubd+I`

@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-03-09",
-  "description": "Lo m\u00e1s fresco de la <a href=\"spotify:genre:0JQ5DAqbMKFDTEtSaS4R92\"> M\u00fasica Mexicana</a>, las que van pegar. Oscar Maydon y Los Dareyes de la Sierra en portada",
-  "name": "La Miscel\u00e1nea: Banda, Corridos & m\u00e1s...",
+  "description": "Lo m\u00e1s fresco de la <a href=\"spotify:genre:0JQ5DAqbMKFDTEtSaS4R92\"> M\u00fasica Mexicana</a>, las que van pegar. Cumbia Pedregal en portada \ud83c\udf39",
+  "name": "La Miscel\u00e1nea",
   "tracks": [
     {
       "album": {
@@ -227,6 +227,24 @@
     },
     {
       "album": {
+        "name": "A Una Almohada",
+        "url": "https://open.spotify.com/album/0diCMyncFGPDDkqq9zbWAV"
+      },
+      "artists": [
+        {
+          "name": "De Parranda",
+          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174286,
+      "name": "A Una Almohada",
+      "url": "https://open.spotify.com/track/0RuWcGYtKhFKsitbe7skfq"
+    },
+    {
+      "album": {
         "name": "ABC",
         "url": "https://open.spotify.com/album/6v1pjf9L6PD20AGEq4w4yp"
       },
@@ -326,7 +344,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 173006,
       "name": "ADN",
       "url": "https://open.spotify.com/track/5oNsLQSQZllwUkJJm1hjwq"
@@ -1621,6 +1639,28 @@
     },
     {
       "album": {
+        "name": "Dejame Dormir",
+        "url": "https://open.spotify.com/album/37NVXUpFk44riPjvqtFQlh"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160500,
+      "name": "Dejame Dormir",
+      "url": "https://open.spotify.com/track/1ylPYGLrhUEkKsaawdizaD"
+    },
+    {
+      "album": {
         "name": "Del 1 al 10",
         "url": "https://open.spotify.com/album/47nBTDVl17CvrgXDXGwGxM"
       },
@@ -1803,6 +1843,28 @@
     },
     {
       "album": {
+        "name": "D\u00e9jame Entender",
+        "url": "https://open.spotify.com/album/0JAELe9FSSHY3olbrlKZCW"
+      },
+      "artists": [
+        {
+          "name": "Cumbia Pedregal",
+          "url": "https://open.spotify.com/artist/5wApHJOjQqf9w4OPesyWca"
+        },
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232248,
+      "name": "D\u00e9jame Entender",
+      "url": "https://open.spotify.com/track/3RGpIuoduzZvJRK1N60wVV"
+    },
+    {
+      "album": {
         "name": "D\u00e9jenlos Pasar",
         "url": "https://open.spotify.com/album/4P66jwFhheR29rXvoV6fZO"
       },
@@ -1876,7 +1938,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 241556,
       "name": "Efecto de Mariposa",
       "url": "https://open.spotify.com/track/4bdQk3sno5kGGRFt3wkrXs"
@@ -3365,6 +3427,24 @@
     },
     {
       "album": {
+        "name": "La Que Me Bateaba",
+        "url": "https://open.spotify.com/album/64nt5dhPAUPQUqwNBXaRTn"
+      },
+      "artists": [
+        {
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124143,
+      "name": "La Que Me Bateaba",
+      "url": "https://open.spotify.com/track/3MMBQrXTIo8wsJt8PkEcaR"
+    },
+    {
+      "album": {
         "name": "Te Llevo En La Sangre",
         "url": "https://open.spotify.com/album/3Ub671KoyZe3maF5cz45RU"
       },
@@ -4436,6 +4516,24 @@
       "duration_ms": 149450,
       "name": "Mi Morenita",
       "url": "https://open.spotify.com/track/4Xly6Wx7KtcJc739Y4myOt"
+    },
+    {
+      "album": {
+        "name": "MEXICANA VOL. 2",
+        "url": "https://open.spotify.com/album/5TI6LSYMxe2Tl21NnUb8u4"
+      },
+      "artists": [
+        {
+          "name": "Carmen Goett",
+          "url": "https://open.spotify.com/artist/4oVApCVBzpV2e8GXntnNXf"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195060,
+      "name": "Mi Reh\u00e9n",
+      "url": "https://open.spotify.com/track/7IvhK66l8t2UQICRlg38W1"
     },
     {
       "album": {
@@ -6014,6 +6112,24 @@
       "duration_ms": 139759,
       "name": "Safo En El Amor",
       "url": "https://open.spotify.com/track/71BLIwRGw7O0pTIIjgUWaM"
+    },
+    {
+      "album": {
+        "name": "Se Nos Hizo Tarde",
+        "url": "https://open.spotify.com/album/0aEI9TCs8ouWNEnkuqZ4YH"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Espinoza",
+          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200005,
+      "name": "Se Nos Hizo Tarde",
+      "url": "https://open.spotify.com/track/1WnkxaxenrjtWci0F7PrmR"
     },
     {
       "album": {
@@ -7666,6 +7782,24 @@
       "duration_ms": 176306,
       "name": "\u00bfQu\u00e9 Se Siente?",
       "url": "https://open.spotify.com/track/4160uHuO33PVowET0ZZfON"
+    },
+    {
+      "album": {
+        "name": "La Nostalgia",
+        "url": "https://open.spotify.com/album/3kX6Sov6xamwye4u7n5aJr"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147556,
+      "name": "\u2060Que Suerte la M\u00eda",
+      "url": "https://open.spotify.com/track/1TEqxb5qy3oeUGCL3bqz3v"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8VlzsR6EEFY"

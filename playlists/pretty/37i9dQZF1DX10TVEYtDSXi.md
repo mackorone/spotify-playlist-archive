@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10TVEYtDSXi.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [NOBODY'S GIRL](https://open.spotify.com/track/2oPCpj9ezVq5D6IJNAGkL2) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [](https://open.spotify.com/album/null) | 2:48 |
+| 1 | [NOBODY'S GIRL](https://open.spotify.com/track/2oPCpj9ezVq5D6IJNAGkL2) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [SO CLOSE TO WHAT??? \(deluxe\)](https://open.spotify.com/album/4AIX5TN8oT656mgxRwDevJ) | 2:48 |
 | 2 | [Lífsstíll](https://open.spotify.com/track/62QdlgpmodJ6D5hSm5ZTrd) | [Floni](https://open.spotify.com/artist/3hvKmeo12OU7ai8Mpgraf7), [Birnir](https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z) | [Lífsstíll](https://open.spotify.com/album/7uRDOkOFG2fm5ATQBOkNGg) | 3:02 |
 | 3 | [Miklu betri einn](https://open.spotify.com/track/5DFkMQKi0vlTWoILzaFpc4) | [ELVAR](https://open.spotify.com/artist/4COSsEVMsaxH9XC1mI8aQY) | [Miklu betri einn](https://open.spotify.com/album/0iWWosOl3XNiDJLEyNpFRM) | 2:24 |
 | 4 | [Vopn](https://open.spotify.com/track/7fc5fotKDfgeD8v0NPEG3g) | [Birnir](https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z), [Aron Can](https://open.spotify.com/artist/4jfe3cL8wzjPxD9CViP2dW) | [Dyrnar](https://open.spotify.com/album/5yjVhol6NpMgJ3kVcKWaWo) | 3:20 |

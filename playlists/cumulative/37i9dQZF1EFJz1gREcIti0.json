@@ -837,6 +837,24 @@
     },
     {
       "album": {
+        "name": "SOLACE",
+        "url": "https://open.spotify.com/album/3IwmHrw566MMhJk0hsIZrQ"
+      },
+      "artists": [
+        {
+          "name": "Bryant Barnes",
+          "url": "https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197080,
+      "name": "End Of Time",
+      "url": "https://open.spotify.com/track/4Ui92XkATFufDbqv0qXzEX"
+    },
+    {
+      "album": {
         "name": "It Was Divine",
         "url": "https://open.spotify.com/album/4mjAzygOSH5k1toK9bir85"
       },

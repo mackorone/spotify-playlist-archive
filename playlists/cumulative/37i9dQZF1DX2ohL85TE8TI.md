@@ -4,7 +4,7 @@
 
 > Hot & new K\-Drama OSTs are here! \(Cover: The Dream Life of Mr.Kim\(서울 자가에 대기업 다니는 김부장\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
 
-1,145 songs - 2 day 21 hr 21 min
+1,146 songs - 2 day 21 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,6 +229,7 @@
 | [Departure from a Country](https://open.spotify.com/track/3FC6OK2Nvs35Y34fcRb1Ro) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Sh\*\*ting Stars \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/41rnXi6HnsKF5ueUEqr7uz) | 4:17 | 2022-06-09 | 2022-08-13 |
 | [Destiny](https://open.spotify.com/track/3EIV1L6afOcTQfhoPngLQv) | [Lena Park](https://open.spotify.com/artist/0haibpa9N2huTbnUiziBeF) | [Queen of Divorce \(Original Television Soundtrack\) Pt.1](https://open.spotify.com/album/0TxerkevalwE4obcmdHdmP) | 4:14 | 2024-02-10 | 2024-09-03 |
 | [Destiny](https://open.spotify.com/track/0E4EKdS7LaP9QhPmgrDR0l) | [Seo Gi](https://open.spotify.com/artist/41s4WWJTaYrBtw2K1rYPiI) | [Destined with You \(Original Television Soundtrack\), Pt.5](https://open.spotify.com/album/726jcUNbuzUv9ygTJYQ7t3) | 3:24 | 2023-09-15 | 2024-02-28 |
+| [Devil's Angel](https://open.spotify.com/track/435qIAfd7kSyT6qF2TkYPB) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [Dear\. X \(Original Soundtrack\) Part.3](https://open.spotify.com/album/4eqxSg0YqFhRRbg7BYDzBs) | 2:48 | 2025-11-21 |  |
 | [Diamond](https://open.spotify.com/track/5ZmmsJEfOJu5b7JzsLsjFT) | [9duck](https://open.spotify.com/artist/5qGrtWZ90pILRYjvawmTro) | [My Liberation Notes OST Part 8](https://open.spotify.com/album/4TPylqoJdF8ELf8IwTrquV) | 3:04 | 2022-05-11 | 2022-08-03 |
 | [Did \- Thirty\-nine Version](https://open.spotify.com/track/54LmAfM47Qn5ZgH16XV1lY) | [Jung Joonil](https://open.spotify.com/artist/1l7cLEFdVSttQ7w71FHqkv) | [Thirty\-nine \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/6sfEE4OC28GJ3T1yUKXjwf) | 3:49 | 2022-03-29 | 2022-06-19 |
 | [Did It Myself](https://open.spotify.com/track/014UbcvltWdvq1h6oNL17Y) | [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [Bitch X Rich \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/7tvF6pG0ePx0GFwmNPKpqX) | 2:51 | 2023-06-13 | 2023-11-03 |

@@ -4,7 +4,7 @@
 
 > A frequently updated playlist with brand\-new songs from new &amp;amp; established artists\. 🤖🚫&\#x2F;&\#x2F; Cover: $NOT \| pitch.playlistd@gmail.com
 
-435 songs - 21 hr 0 min
+436 songs - 21 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -412,6 +412,7 @@
 | [Voices From The Stone](https://open.spotify.com/track/1qhUuMpV7Uf6rCrVTKjRta) | [The River Men](https://open.spotify.com/artist/0HIv9mPRqbeWmPA0tOirTv) | [Terrace Thrills](https://open.spotify.com/album/5iURzZTZBKP6tVNwnIWbvf) | 2:18 | 2024-07-19 |  |
 | [VÉRTIGO](https://open.spotify.com/track/6TnhauHZg1WOmTdHYAY7nl) | [Xems](https://open.spotify.com/artist/0mcMnJkwai2rCLJnEpzOQZ) | [VÉRTIGO](https://open.spotify.com/album/7FXggzAzbARGWAvJ6NGJQn) | 2:36 | 2024-06-20 |  |
 | [Walk on the wild side](https://open.spotify.com/track/0uA2lCNEF52w0Tp9XwLm8r) | [Markeq](https://open.spotify.com/artist/6w0JFZFstrYbJzT9O2Lryg) | [Invitation to travel](https://open.spotify.com/album/4i5vdmKFPJVyT0pN7uzCfd) | 3:46 | 2024-06-18 |  |
+| [Want It Back](https://open.spotify.com/track/4lWZXCNTmcbvZkoqqyTKHK) | [Truth](https://open.spotify.com/artist/1BwSuDXZMbyM1IpziuwCKk), [Da Beatminerz](https://open.spotify.com/artist/02AnZfp6mEFw5LprUPv8SD) | [Nostalgia ThEraPy 2](https://open.spotify.com/album/66yNoveATBaoShrS6iv81z) | 2:43 | 2025-11-21 |  |
 | [Waowa](https://open.spotify.com/track/08g2aSyndkfcjgjiMOXqty) | [Tho](https://open.spotify.com/artist/4sDYpzZn7InDhNBDtuoOj5), [Fi5ty](https://open.spotify.com/artist/26Au1X6fnBZyjJGJ6nJ0uU) | [Waowa](https://open.spotify.com/album/4OWsFgmpAanNcrGeDlsnmN) | 1:58 | 2024-08-13 |  |
 | [WAR, Pt\. 1](https://open.spotify.com/track/0PVh8dNl4squvsuoHe8Z5O) | [neyoooo](https://open.spotify.com/artist/3OtyVxfz6lLJL5745K6u8I), [Flexxed](https://open.spotify.com/artist/3q1SRcJP93o1xjPrsooXVs) | [WAR, Pt\. 1](https://open.spotify.com/album/3V3WWKpSiSzaqNt70wedPl) | 2:28 | 2024-08-19 |  |
 | [WAR, Pt\. 1 \- Remastered](https://open.spotify.com/track/1smPB7UyxKlgcyMVEYFIER) | [neyoooo](https://open.spotify.com/artist/3OtyVxfz6lLJL5745K6u8I), [FIM Collective](https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK), [Flexxed](https://open.spotify.com/artist/3q1SRcJP93o1xjPrsooXVs) | [WAR, Pt\. 1 \(Remastered\)](https://open.spotify.com/album/5TApcFNLpnfrQHYmo76gsM) | 2:28 | 2024-12-17 |  |

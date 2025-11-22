@@ -697,6 +697,28 @@
     },
     {
       "album": {
+        "name": "Back In Business",
+        "url": "https://open.spotify.com/album/3mLkSHu7tPitznqB6SnOPQ"
+      },
+      "artists": [
+        {
+          "name": "Samuel y los Rezagados",
+          "url": "https://open.spotify.com/artist/2x8GEMtyjX8bnJhNcNsJrW"
+        },
+        {
+          "name": "enma alvear",
+          "url": "https://open.spotify.com/artist/6xvChSW0aFmkQ7WDjsKmne"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288312,
+      "name": "No Time",
+      "url": "https://open.spotify.com/track/5vCvWmImr0Vr7YH0C0AyX2"
+    },
+    {
+      "album": {
         "name": "Not Giving In",
         "url": "https://open.spotify.com/album/0mY4ByCfrVvMUaBgJMZPwr"
       },
@@ -788,6 +810,24 @@
       "duration_ms": 161840,
       "name": "Perch\u00e9 amo il mio lavoro",
       "url": "https://open.spotify.com/track/336aLiYmKlh1WfDVY1QJLF"
+    },
+    {
+      "album": {
+        "name": "Future Mondays",
+        "url": "https://open.spotify.com/album/448haKOKsOWNr4OIG7ao3W"
+      },
+      "artists": [
+        {
+          "name": "Future Mondays",
+          "url": "https://open.spotify.com/artist/3VMpqGkVVuW4nTUJw9v2rt"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193773,
+      "name": "Play The Fool",
+      "url": "https://open.spotify.com/track/17utc5QAA7nYqFHJBecviD"
     },
     {
       "album": {

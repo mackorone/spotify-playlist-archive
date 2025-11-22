@@ -2,9 +2,9 @@
 
 ### [Jazz UK](https://open.spotify.com/playlist/37i9dQZF1DXbHcQpOiXk1D)
 
-> The best from Britain's vibrant scene\. Cover: <br/>Yazmin Lacey
+> The best from Britain's vibrant scene\. Cover: <br/>Yussef Dayes, Minami Kizuki
 
-758 songs - 2 day 4 hr 48 min
+759 songs - 2 day 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [All Black Everything](https://open.spotify.com/track/2qZpjV0ABiaoMBhjslXXkf) | [Amy Gadiaga](https://open.spotify.com/artist/0dxlAHVTQOgD6ZRwSeit7x) | [All Black Everything](https://open.spotify.com/album/1mEy3yttQpCAuNwdMc1Qng) | 5:06 | 2024-03-08 | 2025-01-24 |
 | [All Time \(feat\. Tawiah\)](https://open.spotify.com/track/3zpS6M5WsdliAa5DWc03Br) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Tawiah](https://open.spotify.com/artist/7HRQKKdC8gtmcV3DyCmrAN) | [All Time \(feat\. Tawiah\)](https://open.spotify.com/album/3ms6dSKt2HBnwvI2SbtXip) | 3:48 | 2025-07-17 |  |
 | [Altered States](https://open.spotify.com/track/3e8Tr1S4HlS0FLnuu7k349) | [The Oracle](https://open.spotify.com/artist/0JBWS2OZ7JOuB9GhFg5Iat), [The Natural Yogurt Band](https://open.spotify.com/artist/6EKAnJX0ELDyHUq5JBMVRr) | [Altered States](https://open.spotify.com/album/3ytX78AoKGTwvgNloknmcb) | 3:31 | 2025-01-17 | 2025-01-29 |
+| [Amami \(feat\. Minami Kizuki\)](https://open.spotify.com/track/4LgM9jizqppslT1cYDeUZT) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Minami Kizuki](https://open.spotify.com/artist/3iklqyLETq25WsazEFbL29) | [Amami \(feat\. Minami Kizuki\)](https://open.spotify.com/album/4Puq2ovCYPcoFX48C10h7u) | 5:24 | 2025-11-21 |  |
 | [Amnesia \- Slim\. Remix](https://open.spotify.com/track/7t5qW5nd52zSft927ByoHF) | [Summers Sons](https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z), [Slim.](https://open.spotify.com/artist/61KbmY6DzskmM3MnXLanpH), [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx) | [Still Nothing Still \(Deluxe\)](https://open.spotify.com/album/47zLi5b1Xv8uwVzTWTDM6C) | 3:06 | 2024-07-11 | 2025-06-07 |
 | [Amore](https://open.spotify.com/track/79XalTrDNhOxCWnWvG8uDj) | [Sonia Elisheva](https://open.spotify.com/artist/6xEZnusCKQZ2egFqej09i7) | [Amore](https://open.spotify.com/album/2MXAi2kBaTl2rs0u7AvRCO) | 3:08 | 2023-03-08 | 2024-03-12 |
 | [An Ever Changing View](https://open.spotify.com/track/7oOdeQyktbC4mCnuSYTFDk) | [Matthew Halsall](https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46) | [An Ever Changing View](https://open.spotify.com/album/2mDAsYdtmCGxxcYRFkTit0) | 6:32 | 2023-09-08 | 2024-07-19 |
@@ -564,7 +565,7 @@
 | [Siesta \(feat\. Emeli Sandé\)](https://open.spotify.com/track/2jtv6QIbHu3898oFPzT2Tl) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Siesta \(feat\. Emeli Sandé\)](https://open.spotify.com/album/1JdqETJJrUGan7FBt7vt98) | 5:48 | 2022-11-04 | 2022-11-13 |
 | [Siesta \(feat\. Emeli Sandé\)](https://open.spotify.com/track/5Yrm1i3NX7r6ycWViSz7oh) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Where I'm Meant To Be](https://open.spotify.com/album/0nhfG8lPabvjTN0ACcwBux) | 5:48 | 2022-11-04 | 2024-04-12 |
 | [Slice](https://open.spotify.com/track/6SR5Lk3NYfaiEFm2ZhG9mC) | [O.](https://open.spotify.com/artist/0R2UqQKBdSADXMN2Gx5CrB) | [Slice](https://open.spotify.com/album/4zZ29RjFtFEN1TPxPHBH7r) | 3:24 | 2023-10-19 | 2023-10-30 |
-| [Smiley](https://open.spotify.com/track/3bVzCiIlDQHRj6AceYv5IQ) | [DARGZ](https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [birty](https://open.spotify.com/artist/4p81Kbhx0mkop7JXpKoqlA) | [Smiley](https://open.spotify.com/album/4qrWD7B7c7y3sUACC1VPwD) | 2:34 | 2025-04-25 |  |
+| [Smiley](https://open.spotify.com/track/3bVzCiIlDQHRj6AceYv5IQ) | [DARGZ](https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [birty](https://open.spotify.com/artist/4p81Kbhx0mkop7JXpKoqlA) | [Smiley](https://open.spotify.com/album/4qrWD7B7c7y3sUACC1VPwD) | 2:34 | 2025-04-25 | 2025-11-22 |
 | [So Cold](https://open.spotify.com/track/3ftTujZJKBzxtDR5qId3Ge) | [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx), [David Mrakpor](https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr) | [So Cold](https://open.spotify.com/album/6apEouE0HLqkoTSh1AFFtT) | 4:12 | 2022-12-23 | 2023-12-11 |
 | [So Cold](https://open.spotify.com/track/6vv87FsmQpbakkEQUm3G3n) | [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx), [David Mrakpor](https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr) | [So Cold](https://open.spotify.com/album/72P2ODRJFb2O2THMjfXAlb) | 4:12 | 2022-07-21 | 2022-12-25 |
 | [So Cool](https://open.spotify.com/track/25xfVwwykey7PVnsNRutbq) | [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH) | [So Cool](https://open.spotify.com/album/4IbciRuHRVvhJRXqxhzZiX) | 2:10 | 2021-12-17 | 2022-07-08 |

@@ -2,9 +2,9 @@
 
 ### [อินดี้ เทสดี Indie Tasty](https://open.spotify.com/playlist/37i9dQZF1DWWo6CepmjMNI)
 
-> เพลงอินดี้ใหม่และดีที่อยากแนะนำ\. ศิลปิน: Cheyada
+> เพลงอินดี้ใหม่และดีที่อยากแนะนำ\. ศิลปิน: loserpop
 
-277 songs - 19 hr 56 min
+279 songs - 20 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [การแอบรักใครสักคนนึง](https://open.spotify.com/track/0KhW3r1SRHHcW2IepwH5FJ) | [dayys](https://open.spotify.com/artist/6nyvnqJq6GvycPV6JGOdUr) | [การแอบรักใครสักคนนึง](https://open.spotify.com/album/7mt8j5pGsfRH7mQUgnyTzS) | 3:41 | 2025-02-28 | 2025-03-22 |
 | [กาลครั้งหนึ่ง](https://open.spotify.com/track/2WiveUOux6dIjNHwOgSMkj) | [Serotonin](https://open.spotify.com/artist/1jv5r0hKtAnEhmeCAkAIFy) | [กาลครั้งหนึ่ง](https://open.spotify.com/album/4xS2yzQCTlQb6dSitNnV0t) | 4:38 | 2024-06-21 | 2024-08-03 |
 | [กาลบันทึก](https://open.spotify.com/track/4IrJS4MilyjcmqCFZJr9uL) | [CHANDAGE](https://open.spotify.com/artist/3NZdazEd4BFRKuqCRWiYAv) | [กาลบันทึก](https://open.spotify.com/album/2HX99x30suqyOgPhuPXmd0) | 4:52 | 2025-05-16 | 2025-06-28 |
-| [ก่อนที่เธอจะลาลับไป](https://open.spotify.com/track/6vniVlU3rnsSNYNhNE9IrP) | [LEMONY](https://open.spotify.com/artist/5cetvYPbzGsnkRZdL4hre2) | [ก่อนที่เธอจะลาลับไป \- Single](https://open.spotify.com/album/0geQs7LoGQCKU6NfQdEOfN) | 4:06 | 2024-11-28 |  |
+| [ก่อนที่เธอจะลาลับไป](https://open.spotify.com/track/6vniVlU3rnsSNYNhNE9IrP) | [LEMONY](https://open.spotify.com/artist/5cetvYPbzGsnkRZdL4hre2) | [ก่อนที่เธอจะลาลับไป \- Single](https://open.spotify.com/album/0geQs7LoGQCKU6NfQdEOfN) | 4:06 | 2024-11-28 | 2025-11-22 |
 | [ก่อนที่เราจะไม่พบกันอีกตลอดไป](https://open.spotify.com/track/5IsuBsJjpErpS8ZGtvcSVO) | [Romancerr](https://open.spotify.com/artist/5koh7W7IuiYkpgUt3Zz19X) | [ก่อนที่เราจะไม่พบกันอีกตลอดไป](https://open.spotify.com/album/0RTMZBbgV85oonTIV6jbj2) | 4:03 | 2025-05-30 | 2025-08-16 |
 | [ก่อนเราจะทำร้ายกันไปมากกว่านี้](https://open.spotify.com/track/1e8OYH9bDLfCFtLhKMn3Kj) | [TWODAYS](https://open.spotify.com/artist/7ao1NtUJbfKxbjDztE0nFQ) | [ก่อนเราจะทำร้ายกันไปมากกว่านี้](https://open.spotify.com/album/3JmGQz8oMdmtKrviXbQ3OP) | 4:16 | 2025-08-15 | 2025-09-13 |
 | [ของขวัญชิ้นโปรด](https://open.spotify.com/track/22te6vaQcSVteo4jkhR2gW) | [nearbychair](https://open.spotify.com/artist/52THB7FifPvAgjfk4JOqdG) | [ของขวัญชิ้นโปรด](https://open.spotify.com/album/55iAagwDnXspkk3cWTVIFQ) | 4:12 | 2025-06-13 | 2025-07-05 |
@@ -87,7 +87,7 @@
 | [ความสวยงาม](https://open.spotify.com/track/3ToiAXUfifY3rxIZ01AjYb) | [The Publish](https://open.spotify.com/artist/1dkiRgFFVF7XmX4vo0NEEh) | [ความสวยงาม](https://open.spotify.com/album/3qFFLMsfrlGZKP4ggBC8iq) | 3:58 | 2024-10-25 | 2024-11-16 |
 | [คอนเสิร์ตเล็ก \(our concert\)](https://open.spotify.com/track/5ml3Eo88k00gSP1ZwWQEZT) | [\_less](https://open.spotify.com/artist/16XaZ9bhtFCLUow2Z1Y7Of) | [คอนเสิร์ตเล็ก \(our concert\)](https://open.spotify.com/album/1CnobFpjURpP4JmJbvmgXJ) | 2:30 | 2025-10-03 |  |
 | [คำตอบของความรักที่สวยงาม \(fleck.\)](https://open.spotify.com/track/5GU6wJbKgBOLJRrcK8DhJO) | [Syrup](https://open.spotify.com/artist/5l6R9L8qJTRP2kFfxtmjGm) | [คำตอบของความรักที่สวยงาม \(fleck.\)](https://open.spotify.com/album/351cCT7UIXXgcWoF1Lpkxw) | 5:48 | 2025-02-21 | 2025-03-29 |
-| [คิดผิด \(YOU’RE WRONG!\) \[and I’m done waiting\]](https://open.spotify.com/track/4lBQGMyb8kKOic9ZRtkoK5) | [FAHLITHH](https://open.spotify.com/artist/3aAcqoGEAiCQD4LSdTR473) | [คิดผิด \(YOU’RE WRONG!\) \[and I’m done waiting\]](https://open.spotify.com/album/5aZoshdk9gwpBXXtRWz48k) | 3:45 | 2025-07-11 |  |
+| [คิดผิด \(YOU’RE WRONG!\) \[and I’m done waiting\]](https://open.spotify.com/track/4lBQGMyb8kKOic9ZRtkoK5) | [FAHLITHH](https://open.spotify.com/artist/3aAcqoGEAiCQD4LSdTR473) | [คิดผิด \(YOU’RE WRONG!\) \[and I’m done waiting\]](https://open.spotify.com/album/5aZoshdk9gwpBXXtRWz48k) | 3:45 | 2025-07-11 | 2025-11-22 |
 | [คืนที่สองเราเต้นรำ \(1Night\)](https://open.spotify.com/track/7tN2lVM53EY0vFtObxxIEG) | [GOODMORNING](https://open.spotify.com/artist/5qpHMe5u9Cf9QNQiyFcqMf) | [คืนที่สองเราเต้นรำ \(1Night\)](https://open.spotify.com/album/1teI8blyB4bMMQ6tCsH2A3) | 3:54 | 2024-06-21 | 2025-04-12 |
 | [คืนสุดท้าย](https://open.spotify.com/track/0eaMXaoL2DH75hhl2pYpbt) | [SURI SURII](https://open.spotify.com/artist/5kdt00mGiFal5y8jxanHsQ) | [คืนสุดท้าย](https://open.spotify.com/album/0fgIfJLKkcTj47BAHwVLry) | 4:17 | 2025-07-18 |  |
 | [คืนสุดท้ายที่คิดถึงเธอ \(Last night, I missed you\)](https://open.spotify.com/track/5liFOEE4mS3huno31RLWKr) | [52Hz.](https://open.spotify.com/artist/644n4DLEJHnmnAgoVv6oTE) | [คืนสุดท้ายที่คิดถึงเธอ \(Last night, I missed you\)](https://open.spotify.com/album/2p3CeQf3LunuPbDqjBFWcN) | 5:34 | 2025-08-08 |  |
@@ -160,6 +160,7 @@
 | [ฟ้าถล่ม](https://open.spotify.com/track/1DD5ztvEkzFJnN4eAUZ6Ts) | [SYDNEYS](https://open.spotify.com/artist/68cA9ofNRTwVfctRHR67q8) | [ฟ้าถล่ม](https://open.spotify.com/album/0EjgEJyI82IzZMhp1yc8wj) | 3:31 | 2025-05-30 | 2025-06-14 |
 | [ภาพฝันวันจากลา](https://open.spotify.com/track/0DC2pCnVUMhuDbAzlzGCy0) | [WWJ](https://open.spotify.com/artist/2v4Ft17lQrkbRUlw2oer4H) | [MADE IN A DREAM](https://open.spotify.com/album/6ms8lsrJ3tMLgI1klcjiSC) | 4:30 | 2025-02-14 | 2025-08-01 |
 | [ภาพวันโหดร้าย \(Why?\)](https://open.spotify.com/track/6wELNCuVcZVRHs2PfvGaxq) | [ROUSE](https://open.spotify.com/artist/42wCcg6q3NRhi0vQQ7JvNB) | [ภาพวันโหดร้าย \(Why?\)](https://open.spotify.com/album/7Cdw5PP56ZeW8vbIh4AuT1) | 5:28 | 2024-06-21 | 2025-04-19 |
+| [ภาพเรา](https://open.spotify.com/track/4IO5XrgTEJmSkeX49WFQa2) | [Wallry](https://open.spotify.com/artist/5Rfrdko5rmc0qMAcyCuDki) | [ภาพเรา](https://open.spotify.com/album/4TyLJsokFClIRkyeurMKjG) | 3:40 | 2025-11-21 |  |
 | [ภาพแทนใจ](https://open.spotify.com/track/5GU4qd4u4JisdNvm91z4ID) | [Lower Mansion](https://open.spotify.com/artist/0tNQk80J4jiIo3eOVvcda6) | [ภาพแทนใจ](https://open.spotify.com/album/2gxVX0out0vHNbQmrjwy2w) | 4:31 | 2024-06-21 | 2024-08-10 |
 | [มอบดอกไม้ \(one date\)](https://open.spotify.com/track/1J4aLl39aBpfsR8M7p0VFx) | [PAKBUNG](https://open.spotify.com/artist/5GREsJHsL3GncdQgtfHLJq) | [มอบดอกไม้ \(one date\)](https://open.spotify.com/album/5B0qar4CUdf5ASjXlYDgjP) | 3:16 | 2024-07-19 | 2024-08-03 |
 | [มันจบลงแล้วใช่ไหม](https://open.spotify.com/track/3V21XBT70y2nytEwdJAiMy) | [REDDOOR](https://open.spotify.com/artist/7kHOUXsUzQVW2iiZ0RqnNQ) | [มันจบลงแล้วใช่ไหม](https://open.spotify.com/album/2TFjlmsnTNR5WDGTqdJ1Ys) | 5:43 | 2025-09-05 | 2025-09-13 |
@@ -254,6 +255,7 @@
 | [แค่เพียงบังเอิญ](https://open.spotify.com/track/1yojnSiavtYx6byEbWOMsX) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [แค่เพียงบังเอิญ \(Nostalgia\)](https://open.spotify.com/album/54U3Bnqm294T63Lt6SZ3P8) | 4:28 | 2024-06-21 | 2025-05-17 |
 | [แตกสลายเพราะความทรงจำ](https://open.spotify.com/track/6xUpgdaBkxFot3bhoT1BiW) | [Snowman Listen](https://open.spotify.com/artist/31jtvjImeB55ztAELOvu0y) | [แตกสลายเพราะความทรงจำ](https://open.spotify.com/album/1dy7TvVvfVdcVrzFY2e2Ad) | 4:09 | 2024-06-21 | 2025-01-10 |
 | [แปรงฟัน](https://open.spotify.com/track/23rueOXtXSoenSxTaL16zo) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [แปรงฟัน](https://open.spotify.com/album/4PB22xc4pU5jgfrI3VpurG) | 4:09 | 2024-06-21 | 2024-09-14 |
+| [แพ้เสียงในหัว \(Hello There\)](https://open.spotify.com/track/3MDBApR4v7NT9EbbY7UY7R) | [loserpop](https://open.spotify.com/artist/4BI5Vr4SPJSKI0ofzhlsLV) | [แพ้เสียงในหัว \(Hello There\)](https://open.spotify.com/album/2DaeSbOfpJzSQseoQnDTjt) | 3:30 | 2025-11-21 |  |
 | [แอนโดรเมดา \(Andromeda\)](https://open.spotify.com/track/5dNz0aGH8q6C8m5RV2aIgm) | [Wednesday Calling](https://open.spotify.com/artist/6KNfHqzqVizyQI0Z2xt6iy) | [แอนโดรเมดา \(Andromeda\)](https://open.spotify.com/album/2NsBhNSA8bpzhehDPmQRXP) | 6:32 | 2025-10-24 |  |
 | [โชคดีของเธอคือการไม่ได้รักฉัน \(Luck for her\)](https://open.spotify.com/track/6Y5WpQAluaPgaJTKsO4vbn) | [Wednesday Calling](https://open.spotify.com/artist/6KNfHqzqVizyQI0Z2xt6iy) | [โชคดีของเธอคือการไม่ได้รักฉัน \(Luck for her\)](https://open.spotify.com/album/2VSCeYcYpJ89xCOeH3h3sp) | 6:02 | 2025-06-20 | 2025-07-12 |
 | [โทรปลุกเธอ](https://open.spotify.com/track/3t0UIgHDKNd4xuaBQ2ZUFh) | [Youth Brush](https://open.spotify.com/artist/6U3028szvZMKXaRSRoiSbR) | [โทรปลุกเธอ](https://open.spotify.com/album/2lsxZhrYKMUl4iUcj9fGUk) | 3:41 | 2025-09-05 | 2025-10-04 |

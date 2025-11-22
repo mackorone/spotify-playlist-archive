@@ -1178,7 +1178,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 64019,
       "name": "A hope of Inspiration",
       "url": "https://open.spotify.com/track/0QWPaTUYbp3zZoSodyJ4J4"
@@ -4199,6 +4199,48 @@
     },
     {
       "album": {
+        "name": "Aquelarre",
+        "url": "https://open.spotify.com/album/0BhTECS5bTMUmj1be3VEMG"
+      },
+      "artists": [
+        {
+          "name": "\u00cdseldur de Pablo Ferrero",
+          "url": "https://open.spotify.com/artist/2vMzkfdtm6GWSdcDQYoQ8B"
+        },
+        {
+          "name": "Zuberoa Aznarez",
+          "url": "https://open.spotify.com/artist/2HBuJLdtXeiIfh8fxRpSBT"
+        },
+        {
+          "name": "Elizabeth Amoedo",
+          "url": "https://open.spotify.com/artist/70k4grKmIXiqgLNXGsPcAc"
+        },
+        {
+          "name": "Rosal\u00eda Sairem",
+          "url": "https://open.spotify.com/artist/3VNnz7RfE3JuqjMpuMRi5K"
+        },
+        {
+          "name": "Diabulus in Musica",
+          "url": "https://open.spotify.com/artist/2g98DnPyHWcZXg8cLg0sNF"
+        },
+        {
+          "name": "Against Myself",
+          "url": "https://open.spotify.com/artist/2yoaZdFiI362NRtFPF3YTN"
+        },
+        {
+          "name": "Therion",
+          "url": "https://open.spotify.com/artist/5c8Cw62ZYj9XO6iDLRDEsi"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370035,
+      "name": "Aquelarre",
+      "url": "https://open.spotify.com/track/0TsCXQbFXaWUNMMYZJIYMJ"
+    },
+    {
+      "album": {
         "name": "Arcana",
         "url": "https://open.spotify.com/album/0Ewu7WkUIcaQG1KPQLz1sm"
       },
@@ -5384,7 +5426,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 256968,
       "name": "Balderrama",
       "url": "https://open.spotify.com/track/5tyWfFk2mPNga8iyMnpjUE"
@@ -6596,6 +6638,28 @@
       "duration_ms": 292367,
       "name": "Black Hole Sun",
       "url": "https://open.spotify.com/track/3btO76lMYldmts5OO124LI"
+    },
+    {
+      "album": {
+        "name": "Black Honey (Lofi)",
+        "url": "https://open.spotify.com/album/3W7F7reoorxDg4wfPyeQ4I"
+      },
+      "artists": [
+        {
+          "name": "Thrice",
+          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
+        },
+        {
+          "name": "Less Gravity",
+          "url": "https://open.spotify.com/artist/37gab2kHkQ8LnCRXYRPHxe"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168382,
+      "name": "Black Honey (Lofi)",
+      "url": "https://open.spotify.com/track/5h3f49CfqkeoQ66SAont2y"
     },
     {
       "album": {
@@ -9400,7 +9464,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 142568,
       "name": "Christmas Is Killing Me",
       "url": "https://open.spotify.com/track/1xtlEoY8yW3FzttzUUrvWw"
@@ -9520,7 +9584,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 70310,
       "name": "Cinder",
       "url": "https://open.spotify.com/track/6svbqOOBChIfYbXimDx1dE"
@@ -11162,7 +11226,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 357840,
       "name": "Dance With Me",
       "url": "https://open.spotify.com/track/2uEZrx3zDzGRljdYjbYcf8"
@@ -11998,6 +12062,32 @@
       "duration_ms": 170625,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/226k90b2zBBhhnHtF5G7bB"
+    },
+    {
+      "album": {
+        "name": "Destiny (AVELLO Remix)",
+        "url": "https://open.spotify.com/album/6AGuEri9HzpuhWBVqElc7N"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "SACHA",
+          "url": "https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG"
+        },
+        {
+          "name": "AVELLO",
+          "url": "https://open.spotify.com/artist/1ZR5GnPw0Jkb5M4hnBwzuZ"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189375,
+      "name": "Destiny - AVELLO Remix",
+      "url": "https://open.spotify.com/track/6D3ZtplcD34Bc7MvVpKcvu"
     },
     {
       "album": {
@@ -14156,6 +14246,28 @@
       "duration_ms": 242666,
       "name": "Echoes (Seven24 & Rediit Acoustic Remix)",
       "url": "https://open.spotify.com/track/0knc2hfZ0QwmImYMOV3tW6"
+    },
+    {
+      "album": {
+        "name": "Echoes of Eternity",
+        "url": "https://open.spotify.com/album/4yXbkJD5b9xy4wMsOA6xYV"
+      },
+      "artists": [
+        {
+          "name": "Vangelis Solen",
+          "url": "https://open.spotify.com/artist/4FcFmEzHSbqBvalGdCO1LU"
+        },
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "Echoes of Eternity",
+      "url": "https://open.spotify.com/track/0Ln8XEkzb0VZYga1DmVv6E"
     },
     {
       "album": {
@@ -16715,6 +16827,24 @@
     },
     {
       "album": {
+        "name": "Fairytale of New York",
+        "url": "https://open.spotify.com/album/44Gg9JRxYqDkRGtU5X6yfw"
+      },
+      "artists": [
+        {
+          "name": "Good Charlotte",
+          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194153,
+      "name": "Fairytale of New York",
+      "url": "https://open.spotify.com/track/1d1SxjxGuw1ZdWdFXxIri7"
+    },
+    {
+      "album": {
         "name": "Beautiful Sounds | Deep Sleep and Complete Relaxation",
         "url": "https://open.spotify.com/album/5ju8ib7ZOapOJW1ZouKJUu"
       },
@@ -18661,6 +18791,28 @@
     },
     {
       "album": {
+        "name": "Ascendant Firecrown",
+        "url": "https://open.spotify.com/album/1COhubDmggyGdaxIq3ANkn"
+      },
+      "artists": [
+        {
+          "name": "Harmony My Strength",
+          "url": "https://open.spotify.com/artist/5oynKjQSzQSvO0SzVPiSTG"
+        },
+        {
+          "name": "Dark Tranquillity",
+          "url": "https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65250,
+      "name": "Frozen Depths",
+      "url": "https://open.spotify.com/track/0m8lslZPH25O8EofVs8PlI"
+    },
+    {
+      "album": {
         "name": "Saviors (\u00e9dition de luxe)",
         "url": "https://open.spotify.com/album/6j1TdmSs8ROkx7pDBwSJrO"
       },
@@ -19802,7 +19954,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 177053,
       "name": "Golden",
       "url": "https://open.spotify.com/track/4pQ1tGNWPNf3W2flpyH55L"
@@ -19900,7 +20052,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 130333,
       "name": "Gone From This Place",
       "url": "https://open.spotify.com/track/3wuHVg60JxrwxAuymngPy5"
@@ -20126,6 +20278,28 @@
       "duration_ms": 149786,
       "name": "Gracias 2018",
       "url": "https://open.spotify.com/track/2XlXc5OhMCZrHu5V2s31p7"
+    },
+    {
+      "album": {
+        "name": "Gracias A La Vida",
+        "url": "https://open.spotify.com/album/2jo9GIbUqggDcC88cIQ3hQ"
+      },
+      "artists": [
+        {
+          "name": "Ariel Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/2dTieljE0C4ydCdUPIPLRW"
+        },
+        {
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272616,
+      "name": "Gracias A La Vida",
+      "url": "https://open.spotify.com/track/0XF6F0GTEdurOJFI26qOxV"
     },
     {
       "album": {
@@ -21903,6 +22077,24 @@
     },
     {
       "album": {
+        "name": "Journeyman: Deluxe Edition",
+        "url": "https://open.spotify.com/album/3triHNgkqNq847Mh3yObWq"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316413,
+      "name": "Higher Power - Bonus Track",
+      "url": "https://open.spotify.com/track/60K9R1x9cGRWQlLj08Mhrj"
+    },
+    {
+      "album": {
         "name": "Music Legends Bob Dylan : The Poet's Folk Hits",
         "url": "https://open.spotify.com/album/0Tua8H6QtqZjJjhX1P8Wwc"
       },
@@ -22094,6 +22286,24 @@
       "duration_ms": 215601,
       "name": "Hold Me Like a Grudge",
       "url": "https://open.spotify.com/track/7u2nN6yhi4SfFyMHLE032Q"
+    },
+    {
+      "album": {
+        "name": "Recollections",
+        "url": "https://open.spotify.com/album/69uCpLoN3IHze3a80Q2lZu"
+      },
+      "artists": [
+        {
+          "name": "Simply Red",
+          "url": "https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268182,
+      "name": "Holding Back The Years - Recollections 2025",
+      "url": "https://open.spotify.com/track/4zO8ComXNM1iWduQUwAm4F"
     },
     {
       "album": {
@@ -24210,7 +24420,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 146760,
       "name": "I've Just Seen A Face (Take 3)",
       "url": "https://open.spotify.com/track/1pALw3PPekVbFBpsFPQPGk"
@@ -24400,6 +24610,24 @@
       "duration_ms": 440869,
       "name": "If I Ever Lose My Faith (feat. Sting) - Extended Mix",
       "url": "https://open.spotify.com/track/0Mj91WOxp7TUc0eDTXZaFF"
+    },
+    {
+      "album": {
+        "name": "If I Fall",
+        "url": "https://open.spotify.com/album/2xwHb1mUYfkaHi4FeWT4lt"
+      },
+      "artists": [
+        {
+          "name": "As I Lay Dying",
+          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250120,
+      "name": "If I Fall",
+      "url": "https://open.spotify.com/track/0avJuXswVJMWa3g1OHNUc8"
     },
     {
       "album": {
@@ -26142,7 +26370,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 179422,
       "name": "Japan Air",
       "url": "https://open.spotify.com/track/55CaehxmLgRVxxhjWUUlQe"
@@ -27797,6 +28025,28 @@
     },
     {
       "album": {
+        "name": "La Vasectom\u00eda",
+        "url": "https://open.spotify.com/album/4zOB6IGY8BqAbGqSbMEE1V"
+      },
+      "artists": [
+        {
+          "name": "Los Vasquez",
+          "url": "https://open.spotify.com/artist/3GlN5joOPb7aAQVJLSPpJx"
+        },
+        {
+          "name": "Alvaro Henriquez",
+          "url": "https://open.spotify.com/artist/45H7NFSk6h7YyYP6BiB3EP"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239587,
+      "name": "La Vasectom\u00eda",
+      "url": "https://open.spotify.com/track/24rV77RfxWuaLQQxMtSbb8"
+    },
+    {
+      "album": {
         "name": "Vida Cotidiana (Deluxe Version)",
         "url": "https://open.spotify.com/album/157buz5Int6IECXF2hKYak"
       },
@@ -27888,7 +28138,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-19",
+      "date_removed": null,
       "duration_ms": 172000,
       "name": "Lady Of The Dancing Water - Elemental Mix",
       "url": "https://open.spotify.com/track/5ZeAmUfZcTnVmxnL9PGF3j"
@@ -28252,6 +28502,24 @@
       "duration_ms": 201320,
       "name": "Last Dinosaur",
       "url": "https://open.spotify.com/track/2d3QMUL5LNCKAUYz7pCxEi"
+    },
+    {
+      "album": {
+        "name": "See You On The Other Side (20th Anniversary Edition - Remastered)",
+        "url": "https://open.spotify.com/album/2gPptj6LEfIBWEVkZP1mT5"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314071,
+      "name": "Last Legal Drug",
+      "url": "https://open.spotify.com/track/6E2yShoZxSJkuyesvukklB"
     },
     {
       "album": {
@@ -30008,7 +30276,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 232500,
       "name": "Lizard - Prince Rupert Awakes - Elemental Mix",
       "url": "https://open.spotify.com/track/3iMlkkLFTMBIZrGmH7wrjE"
@@ -33604,7 +33872,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 181024,
       "name": "My One And Only Love",
       "url": "https://open.spotify.com/track/0ILCaNMr4s5CZdF1Km09Ln"
@@ -33630,7 +33898,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 235772,
       "name": "My Only Angel - Desert Road Version",
       "url": "https://open.spotify.com/track/5GM9fl9rf7s4MIoxHOy2cn"
@@ -37241,6 +37509,24 @@
     },
     {
       "album": {
+        "name": "Marriana",
+        "url": "https://open.spotify.com/album/1k91AY2AYlkcsGcEWWKEt8"
+      },
+      "artists": [
+        {
+          "name": "Violeta Parra",
+          "url": "https://open.spotify.com/artist/4ejp2yEDQIIJIy0iFpoI5B"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110659,
+      "name": "Paimiti",
+      "url": "https://open.spotify.com/track/1WXR3aTIn352tepO20p6eG"
+    },
+    {
+      "album": {
         "name": "Panic Attack",
         "url": "https://open.spotify.com/album/02DtysqFzSbWAfptGA7mec"
       },
@@ -37412,6 +37698,24 @@
       "duration_ms": 162000,
       "name": "Parasite - acoustic",
       "url": "https://open.spotify.com/track/5kjBjlkznLYkBja3QCSV2n"
+    },
+    {
+      "album": {
+        "name": "Parasocial Christ",
+        "url": "https://open.spotify.com/album/66PcSynAzKA0YtIU7Drb9x"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200963,
+      "name": "Parasocial Christ",
+      "url": "https://open.spotify.com/track/5v2qSbA4BeIKhhBSHbfH6i"
     },
     {
       "album": {
@@ -39263,6 +39567,28 @@
     },
     {
       "album": {
+        "name": "Que Generosa sos mi Tierra",
+        "url": "https://open.spotify.com/album/4osB9i1g3VXRiwLeOFBEyq"
+      },
+      "artists": [
+        {
+          "name": "David Bry",
+          "url": "https://open.spotify.com/artist/3TbJY6Odhr7ZwyyHshLwhQ"
+        },
+        {
+          "name": "Piero",
+          "url": "https://open.spotify.com/artist/0kavuvnHTeqwjKLV7qPpQm"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232903,
+      "name": "Que Generosa sos mi Tierra",
+      "url": "https://open.spotify.com/track/60KpMFW6IvTbOuYrJm6zmE"
+    },
+    {
+      "album": {
         "name": "Dark Waters",
         "url": "https://open.spotify.com/album/0aZuBf1mVMdYYZWRxBUZHs"
       },
@@ -40102,6 +40428,24 @@
       "duration_ms": 163000,
       "name": "Real Love",
       "url": "https://open.spotify.com/track/6afdNrotJ1PCt9DoFiHpLj"
+    },
+    {
+      "album": {
+        "name": "Anthology 4",
+        "url": "https://open.spotify.com/album/0L7ggz4vMdACCCnGV2lioZ"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214973,
+      "name": "Real Love (2025 Mix)",
+      "url": "https://open.spotify.com/track/3QA599capcsQEvh952BNYx"
     },
     {
       "album": {
@@ -42301,6 +42645,32 @@
     },
     {
       "album": {
+        "name": "Santo Domingo",
+        "url": "https://open.spotify.com/album/4YABLnQHfYiM21jVIQFLnk"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Horvilleur",
+          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
+        },
+        {
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+        },
+        {
+          "name": "Ale Sergi",
+          "url": "https://open.spotify.com/artist/6oKLWbs4OqvmeXnREk0flZ"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177825,
+      "name": "Santo Domingo",
+      "url": "https://open.spotify.com/track/6EpL8McChbTODU3hCK0bGT"
+    },
+    {
+      "album": {
         "name": "Inspiratio Profanus",
         "url": "https://open.spotify.com/album/6PMOZfuG2E4wDMZLGmpkkx"
       },
@@ -42798,7 +43168,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 278000,
       "name": "Seagull",
       "url": "https://open.spotify.com/track/7CytSpgno2zLlSDIqpsGv9"
@@ -43751,6 +44121,24 @@
     },
     {
       "album": {
+        "name": "Shine On You Crazy Diamond (Pts. 1-9, New Stereo Mix)",
+        "url": "https://open.spotify.com/album/4B1bOlJb3djUjSzrVYDAkh"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1525826,
+      "name": "Shine On You Crazy Diamond - Pts. 1-9, New Stereo Mix",
+      "url": "https://open.spotify.com/track/7Dw4ReVy2jfCQ9lzRoJ0yD"
+    },
+    {
+      "album": {
         "name": "Shock Dem",
         "url": "https://open.spotify.com/album/0kQdiul7Ppc5yvG6HfTutx"
       },
@@ -43908,6 +44296,36 @@
       "duration_ms": 156264,
       "name": "Shwii",
       "url": "https://open.spotify.com/track/17LVYh8QIZQcA36B908Z00"
+    },
+    {
+      "album": {
+        "name": "SICK SICK SICK",
+        "url": "https://open.spotify.com/album/0wNYlsugxGT1Ky9yu5QWo2"
+      },
+      "artists": [
+        {
+          "name": "Stitched Up Heart",
+          "url": "https://open.spotify.com/artist/4XG961Y3fzZF5k2gfpnaNt"
+        },
+        {
+          "name": "Lauren Babic",
+          "url": "https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX"
+        },
+        {
+          "name": "Eyes Set To Kill",
+          "url": "https://open.spotify.com/artist/7omnn7IRrrxdMwSwchVxNP"
+        },
+        {
+          "name": "Judge & Jury",
+          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150726,
+      "name": "SICK SICK SICK",
+      "url": "https://open.spotify.com/track/7gQOCzvF4Yeej974BIwmGa"
     },
     {
       "album": {
@@ -44411,6 +44829,24 @@
     },
     {
       "album": {
+        "name": "Power To The People (Home Jam)",
+        "url": "https://open.spotify.com/album/4nB3cheT8SHTLRjCdHbiMS"
+      },
+      "artists": [
+        {
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 56733,
+      "name": "Slippin\u2019 And Slidin\u2019",
+      "url": "https://open.spotify.com/track/3QDwApREg41d9lytBtW9iT"
+    },
+    {
+      "album": {
         "name": "Smash It Like Belushi",
         "url": "https://open.spotify.com/album/6UsVWmVhrnbaeHxeZKZhoU"
       },
@@ -44676,6 +45112,24 @@
       "duration_ms": 355982,
       "name": "So Supernatural",
       "url": "https://open.spotify.com/track/7mplFRm9LMbgIvAx32rzvf"
+    },
+    {
+      "album": {
+        "name": "VSQ Performs KPOP Demon Hunters",
+        "url": "https://open.spotify.com/album/6UyihtSsacro4ywDxLb8cB"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156093,
+      "name": "Soda Pop",
+      "url": "https://open.spotify.com/track/6VGcggej7rQ9WHcHEybGAD"
     },
     {
       "album": {
@@ -45859,6 +46313,28 @@
     },
     {
       "album": {
+        "name": "Spirit of Olympus",
+        "url": "https://open.spotify.com/album/1lBudSeOxtbRvHdYKC8yPG"
+      },
+      "artists": [
+        {
+          "name": "Cassandra Motion",
+          "url": "https://open.spotify.com/artist/6nFmT4dX7ORQk2FaVwQmA0"
+        },
+        {
+          "name": "Eluveitie",
+          "url": "https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64210,
+      "name": "Spirit of Olympus",
+      "url": "https://open.spotify.com/track/5yWDFkXqQ4p1fxdz8fh6AT"
+    },
+    {
+      "album": {
         "name": "The Poison (20th Anniversary Edition)",
         "url": "https://open.spotify.com/album/7ktT6Pab27CBgbpFBZ4lCy"
       },
@@ -46058,7 +46534,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 246939,
       "name": "Stars - Recollections 2025",
       "url": "https://open.spotify.com/track/1bNLAfivZGR8cyN9vPUORA"
@@ -47904,6 +48380,32 @@
       "duration_ms": 243435,
       "name": "Tania",
       "url": "https://open.spotify.com/track/4V20WzU9yI3Zrvbgkrcvmq"
+    },
+    {
+      "album": {
+        "name": "Tao Skillz",
+        "url": "https://open.spotify.com/album/7GX2lU8tSNPh6MyqszWG23"
+      },
+      "artists": [
+        {
+          "name": "Ojal De Ajaw",
+          "url": "https://open.spotify.com/artist/6liwHKuT39wios8CxQHQFJ"
+        },
+        {
+          "name": "Mecal",
+          "url": "https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5"
+        },
+        {
+          "name": "Dj Ropo",
+          "url": "https://open.spotify.com/artist/64MiwLhYAEB5IHXJIoPL9f"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226904,
+      "name": "Tao Skillz",
+      "url": "https://open.spotify.com/track/5mTaphXr1YWauZ9j9xqu6a"
     },
     {
       "album": {
@@ -53205,6 +53707,40 @@
     },
     {
       "album": {
+        "name": "Tormentos",
+        "url": "https://open.spotify.com/album/6UkIPjg718wd1XSAj72r35"
+      },
+      "artists": [
+        {
+          "name": "Bascur",
+          "url": "https://open.spotify.com/artist/1gr15bpTzqHwHxj9PVZf4N"
+        },
+        {
+          "name": "Multiverso",
+          "url": "https://open.spotify.com/artist/285qchY8mEeO1VXltdjEFL"
+        },
+        {
+          "name": "Dr Reggae",
+          "url": "https://open.spotify.com/artist/1xnAK1JCz97X9UrVjTawcs"
+        },
+        {
+          "name": "Bydamian",
+          "url": "https://open.spotify.com/artist/078yLpb55BlFWhKk2X0aAc"
+        },
+        {
+          "name": "El Naco",
+          "url": "https://open.spotify.com/artist/7f5Amnduho9NXrFY5XjRqH"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313000,
+      "name": "Tormentos",
+      "url": "https://open.spotify.com/track/35P03YcjxEtGaHU0jYjjVL"
+    },
+    {
+      "album": {
         "name": "London - Live",
         "url": "https://open.spotify.com/album/4Z9ms2S9xEWUh7oI9MUgVt"
       },
@@ -54664,7 +55200,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 173296,
       "name": "Unicos En Su Especie",
       "url": "https://open.spotify.com/track/6r6SSzdpWlm1xC0nFtNGsL"
@@ -54936,7 +55472,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 227579,
       "name": "Upside Down - MORTEN Remix",
       "url": "https://open.spotify.com/track/4JJHk97jJiD5g9FNhgZaOi"
@@ -55306,7 +55842,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-18",
+      "date_removed": null,
       "duration_ms": 262178,
       "name": "Veracruz",
       "url": "https://open.spotify.com/track/16dQDMg1coaX1FrIKZIgtt"
@@ -55740,6 +56276,24 @@
       "duration_ms": 278081,
       "name": "Wagging Tongue - Wet Leg Remix",
       "url": "https://open.spotify.com/track/5yxtxZ7IfGO18XHbRJxtkd"
+    },
+    {
+      "album": {
+        "name": "Warning (25th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/02aHyiT3M89F7bDbv8mF5J"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201214,
+      "name": "Waiting - Otis Mix",
+      "url": "https://open.spotify.com/track/4Y9uKlCmKjubxXV0XDsyjW"
     },
     {
       "album": {
@@ -56296,6 +56850,100 @@
       "duration_ms": 223746,
       "name": "We Are The Dead (feat. Alex Terrible, Tom Barber)",
       "url": "https://open.spotify.com/track/5dxYpCEtdy4koK4ziTRqma"
+    },
+    {
+      "album": {
+        "name": "We Are The World (Remastered)",
+        "url": "https://open.spotify.com/album/1WIXeACAExhr1gXIV1TL6d"
+      },
+      "artists": [
+        {
+          "name": "U.S.A. For Africa",
+          "url": "https://open.spotify.com/artist/7sF6m3PpW6G6m6J2gzzmzM"
+        },
+        {
+          "name": "Al Jarreau",
+          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
+        },
+        {
+          "name": "Anita Pointer",
+          "url": "https://open.spotify.com/artist/7eX5M9S4GTvI1shpCuDD6O"
+        },
+        {
+          "name": "Bette Midler",
+          "url": "https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W"
+        },
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        },
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        },
+        {
+          "name": "Bob Geldof",
+          "url": "https://open.spotify.com/artist/6bvtY9dkfSa5yKuogd2aLU"
+        },
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        {
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+        },
+        {
+          "name": "Dan Aykroyd",
+          "url": "https://open.spotify.com/artist/5mYeXVuEjTw8cTkFQyCDua"
+        },
+        {
+          "name": "Daryl Hall",
+          "url": "https://open.spotify.com/artist/5jit9WjiAxxvdA0onOHBLd"
+        },
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        },
+        {
+          "name": "Dionne Warwick",
+          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
+        },
+        {
+          "name": "Harry Belafonte",
+          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
+        },
+        {
+          "name": "Huey Lewis & The News",
+          "url": "https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6"
+        },
+        {
+          "name": "Jackie Jackson",
+          "url": "https://open.spotify.com/artist/2bEtAD4lA2jHJK72C5yFqc"
+        },
+        {
+          "name": "James Ingram",
+          "url": "https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo"
+        },
+        {
+          "name": "Jeffrey Osborne",
+          "url": "https://open.spotify.com/artist/5qUHCOUsvVKUpVrMMmztMK"
+        },
+        {
+          "name": "John Oates",
+          "url": "https://open.spotify.com/artist/4TjR4K8rD5CqqqU59V6aGr"
+        },
+        {
+          "name": "June Pointer",
+          "url": "https://open.spotify.com/artist/4FkLqg6EECxmLfBtLfpBSN"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 427333,
+      "name": "We Are The World - Remastered",
+      "url": "https://open.spotify.com/track/1izz8IdjjrLYsn5xdqxs9y"
     },
     {
       "album": {
@@ -57652,6 +58300,28 @@
       "duration_ms": 274014,
       "name": "Wild Love - 2023 Mix",
       "url": "https://open.spotify.com/track/7hwFJ4XTiVOrk12z7SvQUT"
+    },
+    {
+      "album": {
+        "name": "One More Time",
+        "url": "https://open.spotify.com/album/2R33Pd9eM5qDQTHO66LGJS"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        },
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215200,
+      "name": "Wild Woman",
+      "url": "https://open.spotify.com/track/1XcZZwyoLwwF3dISFQe0h6"
     },
     {
       "album": {

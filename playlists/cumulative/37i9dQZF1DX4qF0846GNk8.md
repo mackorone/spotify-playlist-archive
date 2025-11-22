@@ -2,9 +2,9 @@
 
 ### [أقوى المهرجانات](https://open.spotify.com/playlist/37i9dQZF1DX4qF0846GNk8)
 
-> أجمد المهرجانات في مصر مع كريم كريستيانو
+> أجمد المهرجانات في مصر\. غلاف: كريم كريستيانو
 
-327 songs - 20 hr 22 min
+328 songs - 20 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Haba \- From "El Ens We El Nems"](https://open.spotify.com/track/0n1LXkgsl43HZiEhWcecrU) | [Oka](https://open.spotify.com/artist/0jSsCsmHAH0cKT5iBwUoX7), [Mohamed Henedy](https://open.spotify.com/artist/4ZSvWphIYMmGOK87HkP6pd), [Bayoumi Fouad](https://open.spotify.com/artist/3UpvJjbwwaaKl8SxrsMqqF) | [Haba \(From "El Ens We El Nems"\)](https://open.spotify.com/album/4ls5O9WVGuN43XlaD2Ofr3) | 2:09 | 2021-12-16 | 2022-10-25 |
 | [Habibty](https://open.spotify.com/track/4gyUv9zQnSbqhA5uqqgZQz) | [Hassan Shakosh](https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt), [Yasmin Raeis](https://open.spotify.com/artist/3BHCg4qPGBjwAQ4RsyofzK) | [Habibty](https://open.spotify.com/album/327BgIzYKfPFrDCabCikQU) | 3:02 | 2021-12-16 | 2023-02-17 |
 | [Khalek Fe Nafsak](https://open.spotify.com/track/0davnVObCTxY134TtF8yHu) | [Ortega](https://open.spotify.com/artist/5vkr7FsQEpnmI8Zg5fI81H) | [Khalek Fe Nafsak](https://open.spotify.com/album/04iDHR1EUnAZHji9f9XXEK) | 3:01 | 2023-09-21 | 2024-02-22 |
-| [Khamsa kol Khames](https://open.spotify.com/track/1g4Ma3KYOCnILWUpC7lwem) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [Khamsa kol Khames](https://open.spotify.com/album/0ca1pwGZChFFjPMVxoJxeR) | 2:45 | 2023-08-01 |  |
+| [Khamsa kol Khames](https://open.spotify.com/track/1g4Ma3KYOCnILWUpC7lwem) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [Khamsa kol Khames](https://open.spotify.com/album/0ca1pwGZChFFjPMVxoJxeR) | 2:45 | 2023-08-01 | 2025-11-22 |
 | [Kol El Nas](https://open.spotify.com/track/6GjW5aqVmn2mIHdMiWn8sR) | [El Sawareekh](https://open.spotify.com/artist/5rNrRYsRVaRJDQhA1PEC6t), [Hassan Abouelrouss](https://open.spotify.com/artist/7xwMn1tewzj0idd87bXpQm) | [Kol El Nas](https://open.spotify.com/album/5G6eYqkydwunUSmbRqk5gv) | 2:55 | 2021-12-16 | 2022-11-24 |
 | [Lama Bagy](https://open.spotify.com/track/52APJS24l96Jn7AJHrkSWh) | [Hassan Abouelrouss](https://open.spotify.com/artist/7xwMn1tewzj0idd87bXpQm) | [Lama Bagy](https://open.spotify.com/album/11ub4kmdxgA8bSu7MfRco9) | 1:50 | 2022-09-20 | 2022-10-17 |
 | [Las3een](https://open.spotify.com/track/3WPTSU26DSleASJCRSpoqz) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [Belad](https://open.spotify.com/album/4dma2sup0ZuktV7iX08wdV) | 2:58 | 2023-05-10 | 2023-08-02 |
@@ -58,6 +58,7 @@
 | [أصحا يا بابا \(feat\. Shobra El General & Coolpix\)](https://open.spotify.com/track/35RPL6MADP3saclBXHRVxX) | [El Sawareekh](https://open.spotify.com/artist/5rNrRYsRVaRJDQhA1PEC6t), [Shobra El General](https://open.spotify.com/artist/3Ed6A8OJkO5nQqFJfhDHRN), [Coolpix](https://open.spotify.com/artist/6hKj4ZCRD7oML9Wq3Z1knr) | [الديسكو](https://open.spotify.com/album/5nHac3TcOuOd1GWBQdskzl) | 3:19 | 2025-05-20 | 2025-07-25 |
 | [إحلويتي](https://open.spotify.com/track/6jr1OcQ7lF6gyNVAupJ97z) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [إحلويتي](https://open.spotify.com/album/6zlU10l2gCp6QfdKKL49Sq) | 2:48 | 2022-10-27 | 2023-02-01 |
 | [اتنين بمقام ملايين](https://open.spotify.com/track/0TchhsYsdtIsY6HCJ0YQWL) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [اتنين بمقام ملايين](https://open.spotify.com/album/19CKrkJEOEKlPHId6Sex76) | 2:53 | 2024-03-28 | 2024-08-13 |
+| [احلي باي باي من غير ازاي \( قدم السبت هتلاقي الاحد \)](https://open.spotify.com/track/4W8CMUKfcGze5XD4ZGdo6p) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [احلي باي باي من غير ازاي \( قدم السبت هتلاقي الاحد \)](https://open.spotify.com/album/1vVDhmTMbRun68fXimcLAa) | 3:36 | 2025-11-21 |  |
 | [احلي واحدة](https://open.spotify.com/track/5zPoA6xtqHtm7nfVzNy7rf) | [Seif Magdy](https://open.spotify.com/artist/36QfEZXB5iGSrD0SxwRNkE), [Omar El Karwan](https://open.spotify.com/artist/2Ggdg8zHMqZpLyvlGS41Zr) | [احلي واحدة](https://open.spotify.com/album/2LdxWsXOsPVsknLFbXX2YH) | 3:03 | 2022-10-16 | 2023-03-18 |
 | [احنا اللي مننا التراب بجد اشتكي](https://open.spotify.com/track/1EMaJKcQU0qjNyLEUQZIIg) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu), [Mostafa Elgen](https://open.spotify.com/artist/6waWgmPILhG345nVwJfb4N) | [احنا اللي مننا التراب بجد اشتكي](https://open.spotify.com/album/6D9STyIeYzS4NuZrqTHuEX) | 5:24 | 2022-07-30 | 2023-04-21 |
 | [احنا الهيبة](https://open.spotify.com/track/4wLQo5Wrr1OjsRVmKSpdkn) | [Ahmed Amer](https://open.spotify.com/artist/30rRZEkK9ZECZDSV8bIkV0), [Mohamed Beka](https://open.spotify.com/artist/3XdQFInKQcu4JNz1XCjwx5) | [احنا الهيبة](https://open.spotify.com/album/3quezxEI0CUjCJ3KgDaK0S) | 3:49 | 2024-08-12 |  |

@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: no na
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,030 likes - 144 songs - 8 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,042 likes - 144 songs - 8 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [the one](https://open.spotify.com/track/6LFPHLubdcAxbP8yZyzHdM) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [the one](https://open.spotify.com/album/2CcZcCkpboZmpITmwfSWfe) | 2:37 |
 | 2 | [Sampai Jumpa](https://open.spotify.com/track/3CXqXWbNmGRTCXMOErn1HD) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Retrospektif](https://open.spotify.com/album/4q233Wt4IHRAjJzkjVhooL) | 4:13 |
 | 3 | [Semusim](https://open.spotify.com/track/0F0usCZL8B4ichHqUWAAI2) | [Tohpati](https://open.spotify.com/artist/5XyX171jkcvGEx4jkcZeLN), [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [Semusim](https://open.spotify.com/album/2SwklQLPnXVIJIS0ZqIlrL) | 4:14 |
-| 4 | [The Girl in the Bubble](https://open.spotify.com/track/6Wxn79EwKPQvYerlctheGx) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [](https://open.spotify.com/album/null) | 3:40 |
+| 4 | [The Girl in the Bubble](https://open.spotify.com/track/6Wxn79EwKPQvYerlctheGx) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Wicked: For Good – The Soundtrack](https://open.spotify.com/album/6pamCzTowX31m57z8dC1Sk) | 3:40 |
 | 5 | [Kusedang Sayang\-Sayangnya](https://open.spotify.com/track/2fKFVspszUehimxaizGrmt) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd) | [Kusedang Sayang\-Sayangnya](https://open.spotify.com/album/5mYwvmYJU6zTID73i9S2D8) | 3:28 |
-| 6 | [NOBODY'S GIRL](https://open.spotify.com/track/2oPCpj9ezVq5D6IJNAGkL2) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [](https://open.spotify.com/album/null) | 2:48 |
+| 6 | [NOBODY'S GIRL](https://open.spotify.com/track/2oPCpj9ezVq5D6IJNAGkL2) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [SO CLOSE TO WHAT??? \(deluxe\)](https://open.spotify.com/album/4AIX5TN8oT656mgxRwDevJ) | 2:48 |
 | 7 | [A PERFECT WORLD](https://open.spotify.com/track/248bSDOWnpNQtANZbpMH0Y) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [A PERFECT WORLD](https://open.spotify.com/album/1wdk3yKTc0PajYK7vLS8t4) | 3:07 |
 | 8 | [Tak Apa](https://open.spotify.com/track/7nEO3vanlnN6LxhIV6AsGE) | [Astrid](https://open.spotify.com/artist/6GxmlugWFw4hmhUQ5uP93l) | [Masih Di Sini](https://open.spotify.com/album/02so88sXxSt5UBeNRtWrLf) | 4:07 |
 | 9 | [TENTANG KITA](https://open.spotify.com/track/35Wz5xG22NTTms8KSDpBcL) | [SAMSONS](https://open.spotify.com/artist/6HHje5tfmzWK8PsSaoJ9Xp) | [TENTANG KITA](https://open.spotify.com/album/1M8Ug2Y2qrvmmAh89M1fjX) | 4:07 |
@@ -30,14 +30,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 | 20 | [Roda Berputar](https://open.spotify.com/track/1oxCfuFovyyXmK6XX83ewC) | [Tsaqib](https://open.spotify.com/artist/2o1sa27U08Oa7jRLrZrFlx) | [Roda Berputar](https://open.spotify.com/album/31B3zvk9X93iabmnk9iRA6) | 3:24 |
 | 21 | [Cerita Yang Tersimpan](https://open.spotify.com/track/0U2q3JYEstARcVRoVLeCGk) | [The Rain](https://open.spotify.com/artist/76FV2FPEhMQj3GZPIkAJP2) | [Cerita Yang Tersimpan](https://open.spotify.com/album/128heXVNNU2O45AxWqrQLv) | 3:00 |
 | 22 | [Harap Dan Ragu](https://open.spotify.com/track/2FBPuxsygz2z5ZWOPe66Le) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Harap Dan Ragu](https://open.spotify.com/album/1aFNZ4zyms3ykHkZHql4LN) | 3:12 |
-| 23 | [Wild Woman](https://open.spotify.com/track/1XcZZwyoLwwF3dISFQe0h6) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [](https://open.spotify.com/album/null) | 3:35 |
+| 23 | [Wild Woman](https://open.spotify.com/track/1XcZZwyoLwwF3dISFQe0h6) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [One More Time](https://open.spotify.com/album/2R33Pd9eM5qDQTHO66LGJS) | 3:35 |
 | 24 | [Sweet Tooth](https://open.spotify.com/track/4255eE0aWSyfbIWTpIE1qu) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [FLAMES](https://open.spotify.com/album/42s2X3WQppxdHafUT2dfmF) | 3:00 |
 | 25 | [ONE MORE TIME](https://open.spotify.com/track/4eCan7Jb3q0xQ1FAELOtEz) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [ONE MORE TIME](https://open.spotify.com/album/2INRt0qPUQH5MSjNX9K7qX) | 3:15 |
 | 26 | [Joshua Tree](https://open.spotify.com/track/6HzNXN730dXkoUeSlPFWrv) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [It’s Not That Deep \(Little Bit Extra Version\)](https://open.spotify.com/album/38jx3wDxS45zzKUIeAE4Z7) | 3:23 |
 | 27 | [Gifts For Me](https://open.spotify.com/track/0nhpTFbJ3uX4qqL9qaQj5B) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Gifts For Me](https://open.spotify.com/album/1koxpBaSddYY1xd5YmEeN2) | 2:30 |
 | 28 | [I'm Always On Stage](https://open.spotify.com/track/2GR3y9iXb5Lae2KLQJUy2J) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [I'm Always On Stage](https://open.spotify.com/album/7cp6JGilOv7SbJxOSzc1UB) | 4:03 |
 | 29 | [Say My Name In Your Sleep](https://open.spotify.com/track/12zzqWVkgNwlMf8BJ577I7) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Say My Name In Your Sleep](https://open.spotify.com/album/4hClukIu7dTzWcMTYT0Aoz) | 3:12 |
-| 30 | [SENCY](https://open.spotify.com/track/1vUQYZpgqGrQVEOxk3JuSU) | [dia](https://open.spotify.com/artist/6WgjNWwGACXaBy7NZripBu), [Tenxi](https://open.spotify.com/artist/6vP4azTCk053nGL0xAYnVH) | [](https://open.spotify.com/album/null) | 2:33 |
+| 30 | [SENCY](https://open.spotify.com/track/1vUQYZpgqGrQVEOxk3JuSU) | [dia](https://open.spotify.com/artist/6WgjNWwGACXaBy7NZripBu), [Tenxi](https://open.spotify.com/artist/6vP4azTCk053nGL0xAYnVH) | [INI DIA](https://open.spotify.com/album/2zrnqv7JAhdID3uKiIxbUR) | 2:33 |
 | 31 | [3 pagi](https://open.spotify.com/track/0Jzeb63fFP9w0fBdsMQUB1) | [K3bi](https://open.spotify.com/artist/556Ux8bsLTnvZtm8ZjuAIT) | [3 pagi](https://open.spotify.com/album/3TJjw6VkQu34ngqvvCRCKq) | 3:38 |
 | 32 | [MOKE](https://open.spotify.com/track/3shukn4r21RVRAxpq9EPko) | [Ave](https://open.spotify.com/artist/0kZdHdMdgWhx5B0rhtm11A), [GunZ](https://open.spotify.com/artist/1TU6sLpWMQEHUhIgFJVVVl) | [MOKE](https://open.spotify.com/album/4yOzLfufembPiUEjnsn9g6) | 2:31 |
 | 33 | [Chains of Love](https://open.spotify.com/track/3obedb2fnHaTE8bPlr9TNK) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Chains of Love](https://open.spotify.com/album/6pSGolbfux1G7aSSJP0OQU) | 2:50 |

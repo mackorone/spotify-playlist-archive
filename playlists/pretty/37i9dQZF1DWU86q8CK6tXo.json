@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover: Amber Mark",
-  "num_followers": 64587,
+  "num_followers": 64589,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
@@ -127,22 +127,26 @@
     {
       "added_at": "2025-11-10 23:58:22",
       "album": {
-        "name": "COSITA LINDA",
-        "url": "https://open.spotify.com/album/6dyQjzZ1vQWxU28edG6AOA"
+        "name": "HASTA QUE ME ENAMORO",
+        "url": "https://open.spotify.com/album/0QqDczkevW20da9kiN9O3Q"
       },
       "artists": [
         {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         },
         {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "XROSS",
+          "url": "https://open.spotify.com/artist/1sV3HHU1TBH5owKu0WLHf7"
         }
       ],
-      "duration_ms": 139483,
-      "name": "COSITA LINDA",
-      "url": "https://open.spotify.com/track/1fDjHyaZnNCPo9QsuFdQVO"
+      "duration_ms": 180881,
+      "name": "HASTA QUE ME ENAMORO",
+      "url": "https://open.spotify.com/track/1x2NX2wwyb47DINKGe314l"
     },
     {
       "added_at": "2025-11-10 23:58:22",
@@ -195,26 +199,22 @@
     {
       "added_at": "2025-11-10 23:58:22",
       "album": {
-        "name": "HASTA QUE ME ENAMORO",
-        "url": "https://open.spotify.com/album/0QqDczkevW20da9kiN9O3Q"
+        "name": "COSITA LINDA",
+        "url": "https://open.spotify.com/album/6dyQjzZ1vQWxU28edG6AOA"
       },
       "artists": [
         {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
         },
         {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "XROSS",
-          "url": "https://open.spotify.com/artist/1sV3HHU1TBH5owKu0WLHf7"
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
         }
       ],
-      "duration_ms": 180881,
-      "name": "HASTA QUE ME ENAMORO",
-      "url": "https://open.spotify.com/track/1x2NX2wwyb47DINKGe314l"
+      "duration_ms": 139483,
+      "name": "COSITA LINDA",
+      "url": "https://open.spotify.com/track/1fDjHyaZnNCPo9QsuFdQVO"
     },
     {
       "added_at": "2025-11-10 23:58:22",
@@ -367,22 +367,6 @@
     {
       "added_at": "2025-11-10 23:58:22",
       "album": {
-        "name": "BITE ME",
-        "url": "https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN"
-      },
-      "artists": [
-        {
-          "name": "Rene\u00e9 Rapp",
-          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
-        }
-      ],
-      "duration_ms": 192260,
-      "name": "Shy",
-      "url": "https://open.spotify.com/track/2N6md2JtrNake4sJ14KJ72"
-    },
-    {
-      "added_at": "2025-11-10 23:58:22",
-      "album": {
         "name": "Nobody Wants This Season 2: The Soundtrack",
         "url": "https://open.spotify.com/album/1XKT456HjHTeUw56O9HQEe"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 190263,
       "name": "This Version Of Us",
       "url": "https://open.spotify.com/track/3ZhgC1o5jAR5pRZvEQ1RJ1"
+    },
+    {
+      "added_at": "2025-11-10 23:58:22",
+      "album": {
+        "name": "BITE ME",
+        "url": "https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "duration_ms": 192260,
+      "name": "Shy",
+      "url": "https://open.spotify.com/track/2N6md2JtrNake4sJ14KJ72"
     },
     {
       "added_at": "2025-11-10 23:58:22",
@@ -551,6 +551,22 @@
     {
       "added_at": "2025-11-10 23:58:22",
       "album": {
+        "name": "Don't Click Play",
+        "url": "https://open.spotify.com/album/48fwvNa8p0qrqO5RKEnOTI"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 148932,
+      "name": "Don\u2019t Click Play",
+      "url": "https://open.spotify.com/track/5emOdyBZqKrL06yqZsQKFZ"
+    },
+    {
+      "added_at": "2025-11-10 23:58:22",
+      "album": {
         "name": "La Tirana",
         "url": "https://open.spotify.com/album/3m4iMb2AizcRBHVi2YWZVp"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 244059,
       "name": "La Tirana",
       "url": "https://open.spotify.com/track/50EbdrEGOfk6fWYOAIYo7I"
-    },
-    {
-      "added_at": "2025-11-10 23:58:22",
-      "album": {
-        "name": "Don't Click Play",
-        "url": "https://open.spotify.com/album/48fwvNa8p0qrqO5RKEnOTI"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 148932,
-      "name": "Don\u2019t Click Play",
-      "url": "https://open.spotify.com/track/5emOdyBZqKrL06yqZsQKFZ"
     },
     {
       "added_at": "2025-11-10 23:58:22",
@@ -691,22 +691,6 @@
     {
       "added_at": "2025-11-10 23:58:22",
       "album": {
-        "name": "Cinder Block",
-        "url": "https://open.spotify.com/album/2XMx3ZVns6LFVKu3GpAYN6"
-      },
-      "artists": [
-        {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
-        }
-      ],
-      "duration_ms": 222310,
-      "name": "Cinder Block",
-      "url": "https://open.spotify.com/track/4ocbhbmq4kUNWFqCEoUOLs"
-    },
-    {
-      "added_at": "2025-11-10 23:58:22",
-      "album": {
         "name": "Shapeshifting on a Saturday Night",
         "url": "https://open.spotify.com/album/6OcMg9GPmcyEZtaipr6x3s"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 205728,
       "name": "Shapeshifting on a Saturday Night",
       "url": "https://open.spotify.com/track/5ohPveFr3t93leJhCiWAqt"
+    },
+    {
+      "added_at": "2025-11-10 23:58:22",
+      "album": {
+        "name": "Cinder Block",
+        "url": "https://open.spotify.com/album/2XMx3ZVns6LFVKu3GpAYN6"
+      },
+      "artists": [
+        {
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+        }
+      ],
+      "duration_ms": 222310,
+      "name": "Cinder Block",
+      "url": "https://open.spotify.com/track/4ocbhbmq4kUNWFqCEoUOLs"
     },
     {
       "added_at": "2025-11-10 23:58:22",
@@ -791,22 +791,6 @@
     {
       "added_at": "2025-11-10 23:58:22",
       "album": {
-        "name": "Witching Hour",
-        "url": "https://open.spotify.com/album/35TPXfDh8oqj7xpkaWhIKJ"
-      },
-      "artists": [
-        {
-          "name": "Grace Power",
-          "url": "https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP"
-        }
-      ],
-      "duration_ms": 200240,
-      "name": "Underworld",
-      "url": "https://open.spotify.com/track/7G7v5g0WC8E1RoidL43T6X"
-    },
-    {
-      "added_at": "2025-11-10 23:58:22",
-      "album": {
         "name": "Singles",
         "url": "https://open.spotify.com/album/5lk7DCC2cGR6l7VGeF255x"
       },
@@ -823,18 +807,34 @@
     {
       "added_at": "2025-11-10 23:58:22",
       "album": {
-        "name": "Girl Of Constant Sorrow",
-        "url": "https://open.spotify.com/album/2kjhNUwtDsCfYHrh03TXOE"
+        "name": "Witching Hour",
+        "url": "https://open.spotify.com/album/35TPXfDh8oqj7xpkaWhIKJ"
       },
       "artists": [
         {
-          "name": "Avery Anna",
-          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
+          "name": "Grace Power",
+          "url": "https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP"
         }
       ],
-      "duration_ms": 179292,
-      "name": "Girl Of Constant Sorrow",
-      "url": "https://open.spotify.com/track/3UjmEplBH91KXo7PHPZKTU"
+      "duration_ms": 200240,
+      "name": "Underworld",
+      "url": "https://open.spotify.com/track/7G7v5g0WC8E1RoidL43T6X"
+    },
+    {
+      "added_at": "2025-11-10 23:58:22",
+      "album": {
+        "name": "You Can't Take My Song",
+        "url": "https://open.spotify.com/album/2JCOYf1pNuxtUwtXio4TMA"
+      },
+      "artists": [
+        {
+          "name": "Jamie MacDonald",
+          "url": "https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4"
+        }
+      ],
+      "duration_ms": 179939,
+      "name": "You Can't Take My Song",
+      "url": "https://open.spotify.com/track/4qaIk1oubKaR6rD1G7GTX7"
     },
     {
       "added_at": "2025-11-10 23:58:22",
@@ -855,6 +855,22 @@
     {
       "added_at": "2025-11-10 23:58:22",
       "album": {
+        "name": "Girl Of Constant Sorrow",
+        "url": "https://open.spotify.com/album/2kjhNUwtDsCfYHrh03TXOE"
+      },
+      "artists": [
+        {
+          "name": "Avery Anna",
+          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
+        }
+      ],
+      "duration_ms": 179292,
+      "name": "Girl Of Constant Sorrow",
+      "url": "https://open.spotify.com/track/3UjmEplBH91KXo7PHPZKTU"
+    },
+    {
+      "added_at": "2025-11-10 23:58:22",
+      "album": {
         "name": "Ego",
         "url": "https://open.spotify.com/album/43mrj0Ck4DFDYRC4za10sz"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 193466,
       "name": "Ego",
       "url": "https://open.spotify.com/track/4cPGneVmrxVcz28DFWlHWl"
-    },
-    {
-      "added_at": "2025-11-10 23:58:22",
-      "album": {
-        "name": "You Can't Take My Song",
-        "url": "https://open.spotify.com/album/2JCOYf1pNuxtUwtXio4TMA"
-      },
-      "artists": [
-        {
-          "name": "Jamie MacDonald",
-          "url": "https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4"
-        }
-      ],
-      "duration_ms": 179939,
-      "name": "You Can't Take My Song",
-      "url": "https://open.spotify.com/track/4qaIk1oubKaR6rD1G7GTX7"
     },
     {
       "added_at": "2025-11-10 23:58:22",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2025-11-10 23:58:22",
       "album": {
-        "name": "hang on the wall what you kill",
-        "url": "https://open.spotify.com/album/6wTZVm4bY9bTV57xS4G4b2"
+        "name": "Finer Things",
+        "url": "https://open.spotify.com/album/6gB9GpKKpLQdkY8Kqk4uXu"
       },
       "artists": [
         {
-          "name": "emory",
-          "url": "https://open.spotify.com/artist/7HKjjFcvOZyupxbOMdmSwE"
+          "name": "Clover County",
+          "url": "https://open.spotify.com/artist/1vOabSI7N1elDhNGoirgU2"
         }
       ],
-      "duration_ms": 147348,
-      "name": "hang on the wall what you kill",
-      "url": "https://open.spotify.com/track/3ThXubZEb1x9U8AgfYCq8c"
+      "duration_ms": 214713,
+      "name": "Sweeter",
+      "url": "https://open.spotify.com/track/15YaPqTspwhXRJEMdMuaDN"
     },
     {
       "added_at": "2025-11-10 23:58:22",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2025-11-10 23:58:22",
       "album": {
-        "name": "Finer Things",
-        "url": "https://open.spotify.com/album/6gB9GpKKpLQdkY8Kqk4uXu"
+        "name": "hang on the wall what you kill",
+        "url": "https://open.spotify.com/album/6wTZVm4bY9bTV57xS4G4b2"
       },
       "artists": [
         {
-          "name": "Clover County",
-          "url": "https://open.spotify.com/artist/1vOabSI7N1elDhNGoirgU2"
+          "name": "emory",
+          "url": "https://open.spotify.com/artist/7HKjjFcvOZyupxbOMdmSwE"
         }
       ],
-      "duration_ms": 214713,
-      "name": "Sweeter",
-      "url": "https://open.spotify.com/track/15YaPqTspwhXRJEMdMuaDN"
+      "duration_ms": 147348,
+      "name": "hang on the wall what you kill",
+      "url": "https://open.spotify.com/track/3ThXubZEb1x9U8AgfYCq8c"
     },
     {
       "added_at": "2025-11-10 23:58:22",

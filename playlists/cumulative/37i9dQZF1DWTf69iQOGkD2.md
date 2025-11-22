@@ -4,7 +4,7 @@
 
 > Sinta o flow do rap em estilo acústico ou romântico\. Foto:  Filipe Ret
 
-258 songs - 16 hr 33 min
+259 songs - 16 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Não Volto](https://open.spotify.com/track/0coMyavxt9GBli4voSWNgs) | [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [Mc Cabelinho](https://open.spotify.com/artist/1h2EHQBKf0TVDiNDONHTsL), [Marginal Supply](https://open.spotify.com/artist/1xezfhrRJTpRtYZPplWHcJ), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh) | [Não Volto](https://open.spotify.com/album/0fCXdqv9FuTBhCujTgurSB) | 2:50 | 2022-03-18 | 2023-04-29 |
 | [Nós dois](https://open.spotify.com/track/4i8BfKeswhDPIYJeWgA2m4) | [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [LB Único](https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY), [Rocco](https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka) | [Nós dois](https://open.spotify.com/album/5Ko8a7R9GTgBCDopQ1dbPX) | 3:00 | 2025-07-04 |  |
 | [Nós Dois Novamente](https://open.spotify.com/track/2pYlRW2b3tZVN84kSptDSK) | [Merícia Cassiano](https://open.spotify.com/artist/66fR3Te8kQ3hDOslsAMMyx), [Miatã](https://open.spotify.com/artist/40OkyQ4ZTOm2VzUBgsRfRG), [Tainá Seabra](https://open.spotify.com/artist/2r5UJ7U0menvezmMcIcicf), [Lil Glass](https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq) | [Nós Dois Novamente](https://open.spotify.com/album/0Zq6nA4T1CHaOLqEmuBExg) | 2:26 | 2022-07-08 | 2022-07-30 |
+| [O Agora é Nosso](https://open.spotify.com/track/6lFNaYEKcS3KtwKOSWpFuS) | [Kako](https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm) | [OCANV \(Cap\. II\)](https://open.spotify.com/album/4MXCC1YWrntuViiFWApNAc) | 3:49 | 2025-11-21 |  |
 | [O Final](https://open.spotify.com/track/1tqo1Adl9oUzgs4lvalJkU) | [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0) | [O Final](https://open.spotify.com/album/0biDGaHDnehMqUmZQebN9G) | 3:12 | 2022-03-18 | 2025-02-01 |
 | [O Mundo e Ela \(Origens\)](https://open.spotify.com/track/6PN67xQyBBeR0SbJL4OB6K) | [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5) | [O Mundo e Ela \(Origens\)](https://open.spotify.com/album/3AZqaFVwRNp96jmCs4wpLG) | 3:44 | 2025-11-14 |  |
 | [O Que Você Quiser](https://open.spotify.com/track/1IewiHtYbNWvkjqpbkn8kN) | [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0), [Liu Beatz](https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ) | [O Que Você Quiser](https://open.spotify.com/album/2l0DlAqbZU9gtnhV7kJ3fk) | 2:56 | 2022-03-18 | 2022-07-02 |

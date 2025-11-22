@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > Stick Out!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 406,526 likes - 361 songs - 23 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 406,529 likes - 361 songs - 23 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 9 | [The City](https://open.spotify.com/track/4SsVrDjOhsLDzNKAD45iKY) | [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT), [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt), [carteblanche](https://open.spotify.com/artist/6laKnr07BfCDke48edvIPG) | [The City](https://open.spotify.com/album/1hBFd3A5PWIkEZc9iVOGIK) | 3:09 |
 | 10 | [96H](https://open.spotify.com/track/4qQI3AkMG2C3PJinxzAKwX) | [Sebjak](https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA), [Layer J](https://open.spotify.com/artist/48KALXBf9Ookq2j30lSKBf) | [96H](https://open.spotify.com/album/7dC3SjLTLDqMMRHvIMZPFP) | 3:44 |
 | 11 | [Trust Me](https://open.spotify.com/track/5AWswL1glOKjo4WfjxzkP4) | [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg), [Harrison First](https://open.spotify.com/artist/0lcIRzEVZTKyNiEct4UKTo) | [Trust Me](https://open.spotify.com/album/3G1Q1ya8dQc7VXO6L4JzXK) | 3:09 |
-| 12 | [Wonder](https://open.spotify.com/track/632Wb6lTL9lbMLkTCrfrid) | [DUSST](https://open.spotify.com/artist/6XgK7qOSV4FBngw1SjL1yr), [Juicy Cola](https://open.spotify.com/artist/6u9m2Ocxutj8gv7UJdwiWJ) | [Wonder](https://open.spotify.com/album/23bA5kGKZyc14IpXKwVZM3) | 2:35 |
+| 12 | [Wonder](https://open.spotify.com/track/632Wb6lTL9lbMLkTCrfrid) | [DUSST](https://open.spotify.com/artist/6XgK7qOSV4FBngw1SjL1yr) | [Wonder](https://open.spotify.com/album/23bA5kGKZyc14IpXKwVZM3) | 2:35 |
 | 13 | [Sound of You \(ft TEED\)](https://open.spotify.com/track/0mZ4AZbfdgf4hvOgeHngX6) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [TEED](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Sound of You \(ft TEED\)](https://open.spotify.com/album/4POp8QcB7yi6TsUNF32JQw) | 3:56 |
 | 14 | [Lady \(Hear Me Tonight\) \- Remix](https://open.spotify.com/track/7qFeh9S1Noq5NORl3o4AYI) | [Modjo](https://open.spotify.com/artist/0AkpPlFLnr0VQwZQeMGht0), [Sparrow & Barbossa](https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx), [koshi](https://open.spotify.com/artist/2ACc5CrWeHwnK5WYuBt915), [Daymaan](https://open.spotify.com/artist/35yPguBuaPXsOSIUVzJ0Zd) | [Lady \(Hear Me Tonight\) \- Remix](https://open.spotify.com/album/01bWLamm6GjBmyN1bo5vZI) | 4:04 |
 | 15 | [Edge of Desire](https://open.spotify.com/track/4A56h4B9xUuMMXoKuj18HT) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Malive](https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm) | [Edge of Desire](https://open.spotify.com/album/53b1lFTsC7lV3pieOFYZ9i) | 2:14 |

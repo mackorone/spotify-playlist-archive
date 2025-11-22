@@ -4,7 +4,7 @@
 
 > Playlist
 
-620 songs - 1 day 12 hr 45 min
+621 songs - 1 day 12 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -476,6 +476,7 @@
 | [She's Gone](https://open.spotify.com/track/6iPrNQtLXsZyEpicnl9YPY) | [The Quincey](https://open.spotify.com/artist/5NJG2qOVlhuXWTH9nQgGd3) | [She's Gone](https://open.spotify.com/album/5lr0pxCotZ755JCoNCpo12) | 3:33 | 2023-10-25 |  |
 | [Shook](https://open.spotify.com/track/2wxGJyrwx9ZJo5Mv6oYp4F) | [Sports Day](https://open.spotify.com/artist/4sgcLbUgU87xysQHvh9vvI) | [Shook](https://open.spotify.com/album/3raXE0EaeFDbw3J7WFH9Sg) | 5:35 | 2023-10-25 |  |
 | [Shoulders / Spine](https://open.spotify.com/track/4iWbGEYM1jbwu6NNs8HFGv) | [HEAVY CHEST](https://open.spotify.com/artist/57fgfg6PTbTqtPegX6rXV5) | [Shoulders / Spine](https://open.spotify.com/album/3fDb8mv3tSGsXQK2H91och) | 3:03 | 2023-10-25 |  |
+| [SHSL](https://open.spotify.com/track/74xqQIJlbaCtm5ZgMybwwk) | [Worries And Other Plants](https://open.spotify.com/artist/4OSvbuo6zLLwKdf0Rp9nRc) | [SHSL](https://open.spotify.com/album/3m4gtXLBykRW7xlxw3o6zs) | 3:27 | 2025-11-21 |  |
 | [Silence is Golden](https://open.spotify.com/track/4gTyLlu5wKXQQACxbGxolB) | [Hector Gachan](https://open.spotify.com/artist/7JWTyY1F2DGO4WphbQo2yM) | [Care 2 Share](https://open.spotify.com/album/2NmeIWHpmlrfETl2PkZZJa) | 2:48 | 2023-10-25 |  |
 | [Silently](https://open.spotify.com/track/6vR6OYd53m7IqMRWWfuOig) | [Sebastian Roca](https://open.spotify.com/artist/4axhTQXDTfbRk7FZe2tsTF) | [Parkview Demos](https://open.spotify.com/album/3Vgnh06FtxYOsr1zkFwVu2) | 4:24 | 2023-10-25 |  |
 | [Sinnerman](https://open.spotify.com/track/6PGJ2BKsUQxg2xXSWGU22t) | [Tutankhamun](https://open.spotify.com/artist/6iqqrYdwxJzmxSz9ZJ72CH) | [Tutankhamun](https://open.spotify.com/album/5lk9ArPBJH4jDUdm0DaiTC) | 4:10 | 2023-10-25 |  |

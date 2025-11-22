@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-24",
-  "description": "Lo m\u00e1s fresco de los corridones. Hermanos Espinoza en portada.",
+  "description": "Lo m\u00e1s fresco de los corridones. Adriel Favela y Calle 24 en portada.",
   "name": "Corridos 2025",
   "tracks": [
     {
@@ -1948,7 +1948,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 187275,
       "name": "Aqu\u00ed Sigo",
       "url": "https://open.spotify.com/track/1tmjSXcNCd0i2w9LlcbYLb"
@@ -7640,7 +7640,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 222743,
       "name": "EL AGUACATE",
       "url": "https://open.spotify.com/track/55mYirvdiqvqyqqyoN2u5s"
@@ -8886,7 +8886,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 176964,
       "name": "EL CONDOR",
       "url": "https://open.spotify.com/track/0tl5Z2vFPz2WYqBzomoDnG"
@@ -9366,6 +9366,28 @@
       "duration_ms": 179500,
       "name": "El De Las Plumas - En Vivo",
       "url": "https://open.spotify.com/track/2rhvsaKiqg0lZiLMv8h8zM"
+    },
+    {
+      "album": {
+        "name": "El De Las Raptors",
+        "url": "https://open.spotify.com/album/2leQXji01MlQH6KIQtIJrE"
+      },
+      "artists": [
+        {
+          "name": "Martin Castillo",
+          "url": "https://open.spotify.com/artist/7cTBwZEDfYdYu1ti31AgPw"
+        },
+        {
+          "name": "Panchito Arredondo",
+          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224734,
+      "name": "El De Las Raptors",
+      "url": "https://open.spotify.com/track/200NVCnYcWNFR02XcT9J72"
     },
     {
       "album": {
@@ -11902,7 +11924,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 184306,
       "name": "El Matadore",
       "url": "https://open.spotify.com/track/464AVDOqzjMFSbjqbQU0PJ"
@@ -17574,7 +17596,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 178114,
       "name": "Heisenberg",
       "url": "https://open.spotify.com/track/6QCupuIoTrOUxO214431rw"
@@ -19344,6 +19366,24 @@
       "duration_ms": 170083,
       "name": "La Capi",
       "url": "https://open.spotify.com/track/2V3zw8hfDqHIjsPppwTl40"
+    },
+    {
+      "album": {
+        "name": "La Capital",
+        "url": "https://open.spotify.com/album/5zMV2IOvcrDzwYyZnHWLUZ"
+      },
+      "artists": [
+        {
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184981,
+      "name": "La Capital",
+      "url": "https://open.spotify.com/track/6nTPS5QcEz1AZ1IOfIOxbR"
     },
     {
       "album": {
@@ -25907,6 +25947,24 @@
     },
     {
       "album": {
+        "name": "No Eres T\u00fa Soy Yo",
+        "url": "https://open.spotify.com/album/5qL1HWec47DKvzrGgncquK"
+      },
+      "artists": [
+        {
+          "name": "Grupo Primer Grado",
+          "url": "https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152035,
+      "name": "No Eres T\u00fa Soy Yo",
+      "url": "https://open.spotify.com/track/5fJh7cQqeJWvoY2wLfk6vB"
+    },
+    {
+      "album": {
         "name": "No Es Casualidad",
         "url": "https://open.spotify.com/album/0Tl4y30AejX8M4gERMahsg"
       },
@@ -31219,6 +31277,24 @@
     },
     {
       "album": {
+        "name": "Soy el Fat Tony (En Vivo)",
+        "url": "https://open.spotify.com/album/1HkJhbJcEkQODkurea4DQN"
+      },
+      "artists": [
+        {
+          "name": "Tony Loya",
+          "url": "https://open.spotify.com/artist/6n4UZ6Nju0cFj8VSoYCN6L"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177120,
+      "name": "Soy el Fat Tony - En Vivo",
+      "url": "https://open.spotify.com/track/4ryzXhstTtcu4Pdrcg7TPl"
+    },
+    {
+      "album": {
         "name": "Soy El Flechas",
         "url": "https://open.spotify.com/album/6owWyJ4TVpaVuFgMKsvWhi"
       },
@@ -31442,6 +31518,28 @@
       "duration_ms": 148200,
       "name": "Sub\u00ed a la Blindada",
       "url": "https://open.spotify.com/track/07qWp5revIkO7ZonhSXBvc"
+    },
+    {
+      "album": {
+        "name": "SUCIO DOM",
+        "url": "https://open.spotify.com/album/7bVvTqkKbAuAshshY247bZ"
+      },
+      "artists": [
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        },
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "SUCIO DOM",
+      "url": "https://open.spotify.com/track/3OnkNJm1uONbtGH59P0rKq"
     },
     {
       "album": {

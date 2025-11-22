@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Fresh & new Christmas songs para los d\u00edas festivos. Cover: David Bisbal",
+  "description": "Fresh & new Christmas songs para los d\u00edas festivos. Cover: Camilo & Evaluna Montaner",
   "name": "Feliz Navidad",
   "tracks": [
     {
@@ -132,7 +132,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-08",
+      "date_removed": null,
       "duration_ms": 190205,
       "name": "Adornemos los Salones",
       "url": "https://open.spotify.com/track/2nvVj2x4cwZBY8c6b2KYP1"
@@ -374,7 +374,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-15",
+      "date_removed": null,
       "duration_ms": 213547,
       "name": "A\u00f1o Nuevo, Misma Soledad - Live",
       "url": "https://open.spotify.com/track/2LXfbLpehJxGdI3N0Vs5cu"
@@ -668,7 +668,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-04",
+      "date_removed": null,
       "duration_ms": 152766,
       "name": "Christmas (Baby Please Come Home)",
       "url": "https://open.spotify.com/track/6fWLEZCVpWpmOX7cVN6dqX"
@@ -1204,7 +1204,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-08",
+      "date_removed": null,
       "duration_ms": 260143,
       "name": "El Tamborilero",
       "url": "https://open.spotify.com/track/5MfxwmRXFzGsvn2yR0HI9v"
@@ -1276,7 +1276,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-08",
+      "date_removed": null,
       "duration_ms": 215310,
       "name": "Esta Navidad",
       "url": "https://open.spotify.com/track/4NaX0GnWbYcgTSkmvRLYYC"
@@ -1465,6 +1465,24 @@
     },
     {
       "album": {
+        "name": "Navidad Con Patricia Zavala",
+        "url": "https://open.spotify.com/album/6pUaeARKcdhghxLav0jzMU"
+      },
+      "artists": [
+        {
+          "name": "Patricia Zavala",
+          "url": "https://open.spotify.com/artist/6phtBAYwDEdv1xOcaVCbus"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174416,
+      "name": "Happy Xmas (War is over)",
+      "url": "https://open.spotify.com/track/7ytkpCgYnwyw7cxY4Lw9qD"
+    },
+    {
+      "album": {
         "name": "Holiday",
         "url": "https://open.spotify.com/album/37a9Xqe5ZExOQA50uWGz3G"
       },
@@ -1476,7 +1494,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-09",
+      "date_removed": null,
       "duration_ms": 171535,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/4OcGEJ7GR6i6ADd3D0Z2gR"
@@ -1718,7 +1736,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-14",
+      "date_removed": null,
       "duration_ms": 201407,
       "name": "Last Christmas - Versi\u00f3n Espa\u00f1ol",
       "url": "https://open.spotify.com/track/7kKvFQDrREKrsDc1Dmx3CG"
@@ -1804,7 +1822,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-26",
+      "date_removed": null,
       "duration_ms": 161684,
       "name": "Llegu\u00e9 a Navidad",
       "url": "https://open.spotify.com/track/4e4wrhbqdj6CKxHEgWjPfw"
@@ -2240,7 +2258,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-03",
+      "date_removed": null,
       "duration_ms": 199621,
       "name": "Mix Navide\u00f1o",
       "url": "https://open.spotify.com/track/59UYBKR8C6O8aW4bB34JzL"
@@ -2345,6 +2363,28 @@
     },
     {
       "album": {
+        "name": "Navidad en Cada Esquina (It's Beginning To Look A Lot Like Christmas)",
+        "url": "https://open.spotify.com/album/2JTU2Rxwgbo5V4z8bZFicL"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225433,
+      "name": "Navidad en Cada Esquina (It's Beginning To Look A Lot Like Christmas)",
+      "url": "https://open.spotify.com/track/58jcOMyS7lEP03aHGSFdCU"
+    },
+    {
+      "album": {
         "name": "Navidad En Pr",
         "url": "https://open.spotify.com/album/7p7YqBXRbW5vEohzUDB6eq"
       },
@@ -2382,7 +2422,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-08",
+      "date_removed": null,
       "duration_ms": 238524,
       "name": "Navidad Lleg\u00f3",
       "url": "https://open.spotify.com/track/5GHpwFfnHcj7kC4RaDkQ4u"
@@ -2652,7 +2692,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-15",
+      "date_removed": null,
       "duration_ms": 232543,
       "name": "Noche de Paz",
       "url": "https://open.spotify.com/track/30dd2KV0Ea5Cqx2Sj2jieq"
@@ -2754,7 +2794,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-27",
+      "date_removed": null,
       "duration_ms": 243366,
       "name": "O Holy Night/Noche Divina",
       "url": "https://open.spotify.com/track/3g0wUS9mythjpq3GI7fyrV"
@@ -2790,7 +2830,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-16",
+      "date_removed": null,
       "duration_ms": 187668,
       "name": "Otra Navidad :(",
       "url": "https://open.spotify.com/track/0stGjckaqF832pf74QJT0l"
@@ -2808,7 +2848,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-15",
+      "date_removed": null,
       "duration_ms": 100231,
       "name": "Otro a\u00f1o +",
       "url": "https://open.spotify.com/track/6CdGYJox8uUXEVxLsOHijj"
@@ -2826,7 +2866,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-18",
+      "date_removed": null,
       "duration_ms": 177329,
       "name": "Para Navidad",
       "url": "https://open.spotify.com/track/7GX2qkdqQmi8rDNkl5terB"
@@ -2996,7 +3036,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-09",
+      "date_removed": null,
       "duration_ms": 191457,
       "name": "Roz\u00e1ndome",
       "url": "https://open.spotify.com/track/2qEzMGg0SXKxwvUNdiFqSD"
@@ -3014,7 +3054,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-14",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "Santa",
       "url": "https://open.spotify.com/track/6tApaHH8Tp58OQZIU9lFch"
@@ -3162,7 +3202,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-24",
+      "date_removed": null,
       "duration_ms": 225125,
       "name": "Santa Quiero",
       "url": "https://open.spotify.com/track/2pPT6xpYHd6GQTEDfJxb1g"
@@ -3347,6 +3387,24 @@
     },
     {
       "album": {
+        "name": "Te Fuiste",
+        "url": "https://open.spotify.com/album/0J8RBN49DLSWGIcR4A82Qf"
+      },
+      "artists": [
+        {
+          "name": "Daniela Blasco",
+          "url": "https://open.spotify.com/artist/18Vhlc8r07wfrblTyfHEcg"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214418,
+      "name": "Te Fuiste",
+      "url": "https://open.spotify.com/track/2gCa8rRD7zAJLBFJgnaru1"
+    },
+    {
+      "album": {
         "name": "Extended Play Yatra",
         "url": "https://open.spotify.com/album/684Oha4XLJKYD3OztiXma5"
       },
@@ -3412,7 +3470,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-06",
+      "date_removed": null,
       "duration_ms": 180419,
       "name": "the homesick song - xmas version",
       "url": "https://open.spotify.com/track/0tFE781nhKa79caNOXTcmO"
@@ -3898,7 +3956,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-05",
+      "date_removed": null,
       "duration_ms": 154969,
       "name": "Ven a Mi Casa Esta Navidad",
       "url": "https://open.spotify.com/track/3FXsT2EtwJnWifXRDLbMEd"
@@ -3988,7 +4046,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-22",
+      "date_removed": null,
       "duration_ms": 171063,
       "name": "WISHLIST",
       "url": "https://open.spotify.com/track/6BWThf1mJv1Q7OzdlxqDaV"
@@ -4046,7 +4104,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-17",
+      "date_removed": null,
       "duration_ms": 232777,
       "name": "\u00c1ngeles Cantando Est\u00e1n",
       "url": "https://open.spotify.com/track/4pbUXK8NtfkGh876JtOR6Q"

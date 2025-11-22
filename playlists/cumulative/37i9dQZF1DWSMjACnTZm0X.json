@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Top and emerging tracks from around the world inspired by the amapiano movement. Cover: <a href=\"https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X?si=p_5tzzeWQsq_bl6MMLTctQ\">Nikita Kering'</a>",
+  "description": "Top and emerging tracks from around the world inspired by the amapiano movement. Cover: <a href=\"https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS?si=ptujw_JxQqKkC0xBdre1Tw\">Teni</a> and <a href=\"https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ?si=YHMYqWMfSU698gw1kt39mQ\">Gunna</a>",
   "name": "Amapiano to the World",
   "tracks": [
     {
@@ -1788,6 +1788,40 @@
       "duration_ms": 169000,
       "name": "Bunter Asphalt",
       "url": "https://open.spotify.com/track/3kXsWZAq73WHM9NTEA7WZd"
+    },
+    {
+      "album": {
+        "name": "Busiswa (feat. Nevrr49 & PXB DJS)",
+        "url": "https://open.spotify.com/album/5sYUd2akjshfFIGOkavcbG"
+      },
+      "artists": [
+        {
+          "name": "2woBunnies",
+          "url": "https://open.spotify.com/artist/45c90J0Hvj1PMIFtm0b1ML"
+        },
+        {
+          "name": "Uncool MC",
+          "url": "https://open.spotify.com/artist/6t3c6bpXVLzQGiKf00urM1"
+        },
+        {
+          "name": "Poco Lee",
+          "url": "https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc"
+        },
+        {
+          "name": "Nevrr49",
+          "url": "https://open.spotify.com/artist/36h0zByMWDwoORD0klYp3S"
+        },
+        {
+          "name": "PXB DJS",
+          "url": "https://open.spotify.com/artist/3yr93kwZy8ivVTDsdOBBJk"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319285,
+      "name": "Busiswa (feat. Nevrr49 & PXB DJS)",
+      "url": "https://open.spotify.com/track/6n7ZmuqGmVqFbCxuoVAxWw"
     },
     {
       "album": {
@@ -5049,6 +5083,32 @@
     },
     {
       "album": {
+        "name": "Lagos Crazy",
+        "url": "https://open.spotify.com/album/4qCkykfYEmwkegkrp4ddjW"
+      },
+      "artists": [
+        {
+          "name": "DJ Phil",
+          "url": "https://open.spotify.com/artist/1zPsz8qZkmc6Tss0Vldk3m"
+        },
+        {
+          "name": "Yaba Buluku Boyz",
+          "url": "https://open.spotify.com/artist/5up0tKZtU7fxSrZl1oeyIi"
+        },
+        {
+          "name": "Smada",
+          "url": "https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166956,
+      "name": "Lagos Crazy",
+      "url": "https://open.spotify.com/track/0eF5oiaMjT5f0JsIPUuGB0"
+    },
+    {
+      "album": {
         "name": "Lagos Dance Riidim - Wire",
         "url": "https://open.spotify.com/album/4eFqFTPgvJbixwhHS0lWmV"
       },
@@ -5348,7 +5408,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 163539,
       "name": "MACHO (feat. NLE Choppa)",
       "url": "https://open.spotify.com/track/4swwVMD32piZe5BwgpYRTF"
@@ -7358,7 +7418,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 345000,
       "name": "Piki Piki",
       "url": "https://open.spotify.com/track/4d6MlNXvSMliZpgqdXBlNv"
@@ -8444,6 +8504,28 @@
       "duration_ms": 218571,
       "name": "Sowa Pt. 2",
       "url": "https://open.spotify.com/track/6ijHaB3JQaQzNctgZcqnbz"
+    },
+    {
+      "album": {
+        "name": "Speed",
+        "url": "https://open.spotify.com/album/5I386VD2f5rXpvuKwzmxBo"
+      },
+      "artists": [
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174812,
+      "name": "Speed",
+      "url": "https://open.spotify.com/track/5NzJQcALCxkwV8BUrFUtDS"
     },
     {
       "album": {
@@ -9614,7 +9696,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 207734,
       "name": "Wangu Mimi",
       "url": "https://open.spotify.com/track/28FbGQIV3NC2U2X5HAtHvw"

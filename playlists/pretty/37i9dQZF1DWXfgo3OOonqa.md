@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,892 likes - 152 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,896 likes - 152 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [låga](https://open.spotify.com/track/7es9iv9YMsxztdD7aja93s) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [](https://open.spotify.com/album/null) | 2:18 |
+| 1 | [låga](https://open.spotify.com/track/7es9iv9YMsxztdD7aja93s) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [nero](https://open.spotify.com/album/1XZSjSMXZkyWSl7le1bS8H) | 2:18 |
 | 2 | [Mina tankar](https://open.spotify.com/track/2Dgtohm7FzXqQP1rptZGt0) | [Nuqi](https://open.spotify.com/artist/2I1j9kLL2wXV0KnKjs4Cz5) | [Mina tankar](https://open.spotify.com/album/0b83V8mR7uigzzUrDVniwo) | 2:35 |
 | 3 | [Älvsjö Macken](https://open.spotify.com/track/2XqUjJ0wYTDENHanyngt5T) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [Älvsjö Macken](https://open.spotify.com/album/6tO48qyabUnpR3FFJEz3sR) | 2:05 |
 | 4 | [HIPHOP](https://open.spotify.com/track/00bc0LQQBwiu9XpF6IfzLQ) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF) | [HIPHOP](https://open.spotify.com/album/6SeUTFu5Cl5R6ZNxGyVYYH) | 2:41 |

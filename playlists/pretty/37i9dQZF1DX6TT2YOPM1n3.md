@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 
 > Home to the greatest Pakistani hits 🎶 Cover: Afusic
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,813 likes - 60 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,825 likes - 60 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 | 59 | [Muaziz Saarif](https://open.spotify.com/track/3tDoe3YGIltxR9zv5AkWqi) | [Meesha Shafi](https://open.spotify.com/artist/6gWwKC0laX7pTPjNgrwvQR), [Faris Shafi](https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD) | [Muaziz Saarif](https://open.spotify.com/album/1TpkynqQUmK6bTwMotcx1L) | 4:41 |
 | 60 | [Tajdar\-E\-Haram \- Coke Studio Season 8](https://open.spotify.com/track/3BIpgJZyNEiSwcZknQxwrr) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Coke Studio: Season 8](https://open.spotify.com/album/0FUY81MasEucB0P4u3vtge) | 10:16 |
 
-Snapshot ID: `AAAAAFy2STph1ZZuVF9SSfwPg8iON3o4`
+Snapshot ID: `AAAAAOu7Pbs7k6iysMOGviACjzLDoeto`

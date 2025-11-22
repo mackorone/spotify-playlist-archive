@@ -4,7 +4,7 @@
 
 > Gazing at pedals, soaring celestially high\. cover: quannnic
 
-774 songs - 2 day 2 hr 0 min
+775 songs - 2 day 2 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -470,6 +470,7 @@
 | [Mantra](https://open.spotify.com/track/5t8ykLn9zmfzzFtA5bWBlc) | [A Beacon School](https://open.spotify.com/artist/5Kbx8AkkM7259YdQh4rTdX) | [Mantra](https://open.spotify.com/album/3yBPUOCTZbu2FdwvR2piFY) | 6:28 | 2023-10-12 | 2023-10-14 |
 | [Maybe I Was Wrong](https://open.spotify.com/track/76OGzU1hRhi5JjjAJ3Gxea) | [Cashier](https://open.spotify.com/artist/0LRkuyysiGMF74jPBa3yxf) | [Maybe I Was Wrong](https://open.spotify.com/album/24zZKMExKgnq69tMeOOdfI) | 3:48 | 2024-04-05 | 2025-09-27 |
 | [means to an end \(not enough\)](https://open.spotify.com/track/3umsW2c9mVYfLOL1uvMUuM) | [Mixed Matches](https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34) | [means to an end \(not enough\)](https://open.spotify.com/album/3lSgb650mqEWwBGZB2vwDT) | 4:40 | 2023-02-09 | 2023-08-12 |
+| [Media Mediocracy](https://open.spotify.com/track/4FVSOnJrAWxaX1MJXMWGbm) | [Clarion](https://open.spotify.com/artist/7KJSk2ytUFik1LGqFGHOLW) | [Media Mediocracy](https://open.spotify.com/album/3fv02VkEDQrpCelaB5gWU8) | 2:45 | 2025-11-21 |  |
 | [meet me at the stars](https://open.spotify.com/track/2JE3H5C1YPGBNoaZgpYMQJ) | [Ergo, Bria](https://open.spotify.com/artist/0AF9HrL08aOaZPsIiO8GmA), [Billy Vicente](https://open.spotify.com/artist/1s9mNLUsvITyYqcQIYPoa2), [The Abstratica](https://open.spotify.com/artist/7C1PsvnkxaknD9vK1jPHnx) | [meet me at the stars](https://open.spotify.com/album/1GFATOrFlHvC6eQc1ayxCi) | 3:49 | 2024-08-20 | 2025-09-27 |
 | [Melody Experiment](https://open.spotify.com/track/04SwfL1yAlGgn0EftxX3Jy) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner](https://open.spotify.com/album/1DCI57XjibUHoaVGcg7wGS) | 5:10 | 2023-06-30 | 2023-10-27 |
 | [Melody Experiment](https://open.spotify.com/track/3cVEXHZ2G8tJMGoYff4B3q) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Melody Experiment](https://open.spotify.com/album/08WSSXUZVNGgS6yTQ0l4Ho) | 5:10 | 2023-06-30 | 2023-10-21 |

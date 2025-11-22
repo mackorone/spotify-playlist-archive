@@ -1,12 +1,12 @@
 {
   "description": "This is Prof. The essential tracks, all in one playlist.",
-  "num_followers": 23106,
+  "num_followers": 23121,
   "original_name": "This Is Prof",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aR0IgAAAAAA49Wy2U9IIEr86daOTV+2u",
+  "snapshot_id": "aR5aAAAAAABLIMPRW6WNQavgBCDOxjzV",
   "tracks": [
     {
       "added_at": null,
@@ -303,26 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "OH SHIT!!!",
-        "url": "https://open.spotify.com/album/5BQFPnz90fOR5PcWOZIQ1G"
-      },
-      "artists": [
-        {
-          "name": "SonReal",
-          "url": "https://open.spotify.com/artist/2OlZK0VIzr7wQYSrj9bOvF"
-        },
-        {
-          "name": "Prof",
-          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        }
-      ],
-      "duration_ms": 185907,
-      "name": "OH SHIT!!!",
-      "url": "https://open.spotify.com/track/3lVcorG2PGbrTJkwkapgkl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gone Fishin",
         "url": "https://open.spotify.com/album/10YR1HKDO5NoeiKgHjeDKH"
       },
@@ -343,6 +323,26 @@
       "duration_ms": 117894,
       "name": "Gone Fishin",
       "url": "https://open.spotify.com/track/2dps4BWM4a4Tp8QNU3NWdQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "OH SHIT!!!",
+        "url": "https://open.spotify.com/album/5BQFPnz90fOR5PcWOZIQ1G"
+      },
+      "artists": [
+        {
+          "name": "SonReal",
+          "url": "https://open.spotify.com/artist/2OlZK0VIzr7wQYSrj9bOvF"
+        },
+        {
+          "name": "Prof",
+          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        }
+      ],
+      "duration_ms": 185907,
+      "name": "OH SHIT!!!",
+      "url": "https://open.spotify.com/track/3lVcorG2PGbrTJkwkapgkl"
     },
     {
       "added_at": null,
@@ -679,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pookie Baby",
+        "url": "https://open.spotify.com/album/4PsACI8jpFTGFgpbTUat5A"
+      },
+      "artists": [
+        {
+          "name": "Prof",
+          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        }
+      ],
+      "duration_ms": 211453,
+      "name": "Pookie Baby",
+      "url": "https://open.spotify.com/track/1GLZpvlLj1nMrn2Ld2ehhK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Windows",
         "url": "https://open.spotify.com/album/7g16JXCVFnNqKH5VVOoRLK"
       },
@@ -707,18 +723,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pookie Baby",
-        "url": "https://open.spotify.com/album/4PsACI8jpFTGFgpbTUat5A"
+        "name": "Survivor's Guilt",
+        "url": "https://open.spotify.com/album/3RX8lRbQ7rK9qcJ8WsQ6Y6"
       },
       "artists": [
+        {
+          "name": "Merkules",
+          "url": "https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg"
+        },
         {
           "name": "Prof",
           "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
         }
       ],
-      "duration_ms": 211453,
-      "name": "Pookie Baby",
-      "url": "https://open.spotify.com/track/1GLZpvlLj1nMrn2Ld2ehhK"
+      "duration_ms": 187406,
+      "name": "Bawse",
+      "url": "https://open.spotify.com/track/1aT46b6BWYFtmUFpQ8Anms"
     },
     {
       "added_at": null,
@@ -751,26 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Survivor's Guilt",
-        "url": "https://open.spotify.com/album/3RX8lRbQ7rK9qcJ8WsQ6Y6"
-      },
-      "artists": [
-        {
-          "name": "Merkules",
-          "url": "https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg"
-        },
-        {
-          "name": "Prof",
-          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        }
-      ],
-      "duration_ms": 187406,
-      "name": "Bawse",
-      "url": "https://open.spotify.com/track/1aT46b6BWYFtmUFpQ8Anms"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Liability",
         "url": "https://open.spotify.com/album/5s5svsB4vo4STUkneqJGlr"
       },
@@ -783,6 +783,30 @@
       "duration_ms": 177320,
       "name": "Permission",
       "url": "https://open.spotify.com/track/2KZ0GMuXz3EOOSzi0XIAk4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Headphone Concerto",
+        "url": "https://open.spotify.com/album/5UbbNvHn4onGGOmD4rpkMT"
+      },
+      "artists": [
+        {
+          "name": "Amp Live",
+          "url": "https://open.spotify.com/artist/4WoeMzXhDQyoFCKdji4FlL"
+        },
+        {
+          "name": "Anya",
+          "url": "https://open.spotify.com/artist/1Y2BbSdBwvfln12Otq7XTk"
+        },
+        {
+          "name": "Prof",
+          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        }
+      ],
+      "duration_ms": 232483,
+      "name": "Penny Nickel Dime",
+      "url": "https://open.spotify.com/track/30rmz7OJYaDnYrgxkzpsS1"
     },
     {
       "added_at": null,
@@ -831,30 +855,6 @@
       "duration_ms": 227555,
       "name": "Butter (with Baby Tate)",
       "url": "https://open.spotify.com/track/7s8nNvuxQyAobdOcaJNJVv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Headphone Concerto",
-        "url": "https://open.spotify.com/album/5UbbNvHn4onGGOmD4rpkMT"
-      },
-      "artists": [
-        {
-          "name": "Amp Live",
-          "url": "https://open.spotify.com/artist/4WoeMzXhDQyoFCKdji4FlL"
-        },
-        {
-          "name": "Anya",
-          "url": "https://open.spotify.com/artist/1Y2BbSdBwvfln12Otq7XTk"
-        },
-        {
-          "name": "Prof",
-          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        }
-      ],
-      "duration_ms": 232483,
-      "name": "Penny Nickel Dime",
-      "url": "https://open.spotify.com/track/30rmz7OJYaDnYrgxkzpsS1"
     },
     {
       "added_at": null,

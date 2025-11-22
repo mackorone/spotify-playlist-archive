@@ -2295,6 +2295,24 @@
     },
     {
       "album": {
+        "name": "Alcohol",
+        "url": "https://open.spotify.com/album/0hYcs0BNcfioP8zWglC9zt"
+      },
+      "artists": [
+        {
+          "name": "Kerr Mercer",
+          "url": "https://open.spotify.com/artist/5sCWBXe11vVgkSogU1jq5x"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199173,
+      "name": "Alcohol",
+      "url": "https://open.spotify.com/track/7knB6NUQFwmKEBroRiLsQ1"
+    },
+    {
+      "album": {
         "name": "Come Around EP",
         "url": "https://open.spotify.com/album/4VQebFp9TEuKOaCu5lUUrC"
       },
@@ -44270,7 +44288,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 161735,
       "name": "Man's World",
       "url": "https://open.spotify.com/track/4AymkUWB8IZVqciduELA1Y"
@@ -58964,7 +58982,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 193260,
       "name": "Safe Place",
       "url": "https://open.spotify.com/track/0N7ewrP0Ic48F6JXf3KD75"
@@ -69832,6 +69850,24 @@
       "duration_ms": 185205,
       "name": "Things Changed",
       "url": "https://open.spotify.com/track/2Yte4JdWO3y8diS3EIlDgX"
+    },
+    {
+      "album": {
+        "name": "Think About U Lots",
+        "url": "https://open.spotify.com/album/6iAhu9llD9clQtdAbc4v6m"
+      },
+      "artists": [
+        {
+          "name": "Elise Elvira",
+          "url": "https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214763,
+      "name": "Think About U Lots",
+      "url": "https://open.spotify.com/track/0obpw5cKWbMCTvDhIuP3OU"
     },
     {
       "album": {

@@ -620,7 +620,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 159509,
       "name": "Amigos",
       "url": "https://open.spotify.com/track/1387fIoConD7n6dzzlAtM3"
@@ -1174,7 +1174,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 193500,
       "name": "Cambios",
       "url": "https://open.spotify.com/track/0PbG1aFmSSx6AFBNkahco9"
@@ -1364,7 +1364,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 197500,
       "name": "Click",
       "url": "https://open.spotify.com/track/57stDZniQBmdzdAfpJ3eRo"
@@ -1645,6 +1645,28 @@
     },
     {
       "album": {
+        "name": "Consciente",
+        "url": "https://open.spotify.com/album/37eLIftd7dGtOZDArOSn2y"
+      },
+      "artists": [
+        {
+          "name": "Giovani",
+          "url": "https://open.spotify.com/artist/24ChasRK4LlBoGdhRvSCRG"
+        },
+        {
+          "name": "Yarielofficial",
+          "url": "https://open.spotify.com/artist/2g0PVe0auNAM1mMHTcntcx"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153191,
+      "name": "Consciente",
+      "url": "https://open.spotify.com/track/1yG2rZOxS8nhdM9YjRbZSv"
+    },
+    {
+      "album": {
         "name": "Coraz\u00f3n",
         "url": "https://open.spotify.com/album/6rrhTrRoDHIAOrqudQ65Yt"
       },
@@ -1740,6 +1762,28 @@
       "duration_ms": 143571,
       "name": "Cristiano De Novela",
       "url": "https://open.spotify.com/track/5xV6HmqRbREludNLbWXy0G"
+    },
+    {
+      "album": {
+        "name": "Cristiano y ya",
+        "url": "https://open.spotify.com/album/17sOuy0hdlM5NJvp1PoMCb"
+      },
+      "artists": [
+        {
+          "name": "Lexico Ht",
+          "url": "https://open.spotify.com/artist/43gcza4NZTYkpI5IVt2T9m"
+        },
+        {
+          "name": "Recio DC",
+          "url": "https://open.spotify.com/artist/4tKN6qTebwNBUxqLIZpaGd"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141057,
+      "name": "Cristiano y ya",
+      "url": "https://open.spotify.com/track/37drRx6h3HkucekEbC9GVX"
     },
     {
       "album": {
@@ -2147,6 +2191,32 @@
     },
     {
       "album": {
+        "name": "Dinero y Poder",
+        "url": "https://open.spotify.com/album/2gaEl63eG6dptCb7GzJriT"
+      },
+      "artists": [
+        {
+          "name": "Mr. Fonsy",
+          "url": "https://open.spotify.com/artist/2bt2ykTXwoOHfg8pQo5FSh"
+        },
+        {
+          "name": "DT.Bilardo",
+          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
+        },
+        {
+          "name": "JCKC",
+          "url": "https://open.spotify.com/artist/6Sf9Y7eQWVeAioiBobktSu"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163330,
+      "name": "Dinero y Poder",
+      "url": "https://open.spotify.com/track/3GHOsg4fBZD8p13fdusbbI"
+    },
+    {
+      "album": {
         "name": "Dios, Familia & Rap",
         "url": "https://open.spotify.com/album/4NXzCfxbZIrKTTvs4BgIBb"
       },
@@ -2404,7 +2474,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 205852,
       "name": "EL DE LA J",
       "url": "https://open.spotify.com/track/0A7BWKaCs23cXXFfyCE0l9"
@@ -2636,6 +2706,24 @@
       "duration_ms": 218534,
       "name": "En la Oraci\u00f3n",
       "url": "https://open.spotify.com/track/2vHU7sEv1R4KOujTK1pgGf"
+    },
+    {
+      "album": {
+        "name": "En Victoria",
+        "url": "https://open.spotify.com/album/2IjLJHPOsMJudsfoI4UjUA"
+      },
+      "artists": [
+        {
+          "name": "Persy ML",
+          "url": "https://open.spotify.com/artist/4erAWqCTpHrFFJlgrVJh5U"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183673,
+      "name": "En Victoria",
+      "url": "https://open.spotify.com/track/3gpU706ILTZ4lUQt3lMLfu"
     },
     {
       "album": {
@@ -3090,7 +3178,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 202771,
       "name": "Firmes Y Enfocados",
       "url": "https://open.spotify.com/track/0ckL2qVe9Gjxa3pkKkmwWr"
@@ -3994,7 +4082,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 225333,
       "name": "Honestidad",
       "url": "https://open.spotify.com/track/1SfZqeVwQEEIsJVSaAB8v0"
@@ -5081,6 +5169,24 @@
     },
     {
       "album": {
+        "name": "TeRAPia",
+        "url": "https://open.spotify.com/album/2RzV8G7luXIfZgrlLrEl73"
+      },
+      "artists": [
+        {
+          "name": "Pr\u00e1ctiko",
+          "url": "https://open.spotify.com/artist/6ynr4n6tj5GrNjiZudUjWA"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237303,
+      "name": "Lo M\u00e1s Feliz Que Puedas Ser",
+      "url": "https://open.spotify.com/track/44b6Ai3LP07mYhK83gxp6T"
+    },
+    {
+      "album": {
         "name": "Lo M\u00edo Es Tuyo",
         "url": "https://open.spotify.com/album/4m8562lRDuyOM3SdOr3pr0"
       },
@@ -5706,10 +5812,40 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 248181,
       "name": "MexCypher Coahuila",
       "url": "https://open.spotify.com/track/1B0rmdjUiPrhmFTVKJDB2S"
+    },
+    {
+      "album": {
+        "name": "MexCypher Michoac\u00e1n",
+        "url": "https://open.spotify.com/album/6WJTR2XfrpZ6Rilv8KEyZp"
+      },
+      "artists": [
+        {
+          "name": "La Tribu Santa",
+          "url": "https://open.spotify.com/artist/1puGaC5PaCY6qpJharKEMY"
+        },
+        {
+          "name": "Factor Cristo",
+          "url": "https://open.spotify.com/artist/1YYpqXiJYofsA9nmYyoTHd"
+        },
+        {
+          "name": "Andy Valley",
+          "url": "https://open.spotify.com/artist/0VG078jc7wimMW8ZtvFeyD"
+        },
+        {
+          "name": "Ivis Haydee",
+          "url": "https://open.spotify.com/artist/5vObVhDk1tagvsmZQvTHyu"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230117,
+      "name": "MexCypher Michoac\u00e1n",
+      "url": "https://open.spotify.com/track/4N1uNve49UZp4FJ2AqzxLa"
     },
     {
       "album": {
@@ -7504,7 +7640,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 165681,
       "name": "Por Ah\u00ed Voy",
       "url": "https://open.spotify.com/track/4DFbu9vG3m3RW94ZdRuOY8"
@@ -8352,6 +8488,28 @@
       "duration_ms": 205215,
       "name": "Sigo Aqu\u00ed",
       "url": "https://open.spotify.com/track/5wqbq3itqGpnGBHHOaXoF7"
+    },
+    {
+      "album": {
+        "name": "Sigo Firme",
+        "url": "https://open.spotify.com/album/3NGFEU6jnnJOqS90KdvfGW"
+      },
+      "artists": [
+        {
+          "name": "Marky O",
+          "url": "https://open.spotify.com/artist/2imiGAOjvr74j2uW3drLCi"
+        },
+        {
+          "name": "Natan El Profeta",
+          "url": "https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198035,
+      "name": "Sigo Firme",
+      "url": "https://open.spotify.com/track/1ko30tEQ1NcMTBNPTeZurH"
     },
     {
       "album": {
@@ -9746,6 +9904,28 @@
       "duration_ms": 192000,
       "name": "Una y Mil Veces",
       "url": "https://open.spotify.com/track/0GAkS73wOQT3uMufH4t7Pn"
+    },
+    {
+      "album": {
+        "name": "UNDERDOGS",
+        "url": "https://open.spotify.com/album/2nu03JId5bVEMRCSsRYojF"
+      },
+      "artists": [
+        {
+          "name": "Elikemusic",
+          "url": "https://open.spotify.com/artist/1hBJVDA61cu2Svqxm2nMor"
+        },
+        {
+          "name": "Jay Changer",
+          "url": "https://open.spotify.com/artist/7cXH8pSV3AYABFqSIB4AvX"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167878,
+      "name": "UNDERGROUND",
+      "url": "https://open.spotify.com/track/75A0jdP09OKnFhEJ2LPmOv"
     },
     {
       "album": {

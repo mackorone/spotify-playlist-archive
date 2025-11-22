@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,052 likes - 207 songs - 11 hr 34 min
+[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,053 likes - 215 songs - 12 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -191,7 +191,7 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 | 181 | [Desgraça Meritocrata](https://open.spotify.com/track/2toM8JC9BuVV2KWvNI3byX) | [Punkzilla!](https://open.spotify.com/artist/195RH0AAkd21C90BDdtaP9) | [Lutar pela Paz](https://open.spotify.com/album/5ivEjlX5im8gx8jEKzyTyx) | 2:29 |
 | 182 | [You Don't Wanna Go Home](https://open.spotify.com/track/1N3Yy7KmL8kPNUvUf9ndyU) | [Nayla Salzmann](https://open.spotify.com/artist/41J6ppdYoUtSogli4x9Jxo) | [You Don't Wanna Go Home](https://open.spotify.com/album/7y2TICCC1Hv6sXMQHbljoR) | 2:59 |
 | 183 | [Audit The Parasite](https://open.spotify.com/track/2W15MjdecWH83fhYzB6eHw) | [Deadzone](https://open.spotify.com/artist/5nbMNadS7e6gScLvrX9rcj) | [Audit The Parasite](https://open.spotify.com/album/3xA2BIwzvL6Yw9hbIXVDO5) | 3:46 |
-| 184 | [Yoksun yanımda](https://open.spotify.com/track/24zGYsfbvpFJEP9CtI8shr) | [Sefa Gümüştakım](https://open.spotify.com/artist/68pWu4Vj6PfXu7B2qYCavq) | [Yoksun yanımda](https://open.spotify.com/album/4ap8ZnW7p2Z149NrTvypMX) | 2:54 |
+| 184 | [Sensiz kaldım bu şehirde](https://open.spotify.com/track/24zGYsfbvpFJEP9CtI8shr) | [Sefa Gümüştakım](https://open.spotify.com/artist/68pWu4Vj6PfXu7B2qYCavq) | [Sensiz kaldım bu şehirde](https://open.spotify.com/album/4ap8ZnW7p2Z149NrTvypMX) | 2:54 |
 | 185 | [Stone Vultures](https://open.spotify.com/track/5x4BHeOfxnEVoyO1fQ6d5h) | [Vexations](https://open.spotify.com/artist/0Ox8Tp68CnqucG3p344tpp) | [Stone Vultures](https://open.spotify.com/album/0T6VCgQU7AuhjfQZTgGMcm) | 4:58 |
 | 186 | [Screams in the Silence \(Lo Prado Murder\)](https://open.spotify.com/track/5Y8TNTSVJlieoTVpyqen40) | [Diametral](https://open.spotify.com/artist/0fb1AtENNaAJXuxlCyRHnd) | [Screams in the Silence \(Lo Prado Murder\)](https://open.spotify.com/album/2xval52WhfLtSOJXblynr7) | 4:03 |
 | 187 | [Smell Your Finger](https://open.spotify.com/track/3isc6ahfxfyidQK7Pl5gK3) | [Universal Truth](https://open.spotify.com/artist/2FKmzxhr7aJY12TnlqnG0k) | [Symbol of Confusion](https://open.spotify.com/album/0rRljwbZeFPLwFFg4vMUED) | 2:07 |
@@ -205,15 +205,23 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 | 195 | [notwhatiexpected](https://open.spotify.com/track/2tGn18N8m9HsjUoGaFnMtk) | [SUNPRAYER](https://open.spotify.com/artist/2VjHiKZv3FNnnVCXL97e4s), [Dory\-Loup](https://open.spotify.com/artist/7hlVD6C022u1z25lu7abd2) | [depresso espresso](https://open.spotify.com/album/27g0aGZYUMPb6H7kLM2a7x) | 2:55 |
 | 196 | [Mosh Pit](https://open.spotify.com/track/4Altxk4i8D6xIdkuySj5UO) | [Angelo](https://open.spotify.com/artist/1jBGWZRphBTMVcPLjxEuzC) | [Hellhound](https://open.spotify.com/album/0thfiUsL5V6uRLFA9bIOMj) | 2:14 |
 | 197 | [Le train](https://open.spotify.com/track/0LTYYJCdBhTmVCtWnjz3uW) | [Steel Bridges](https://open.spotify.com/artist/7Ct3XHfBxKz4nFpgYCLx8Z) | [Le train](https://open.spotify.com/album/2MhFsSKQemBr4bTgpJNbPv) | 3:36 |
-| 198 | [Drowning](https://open.spotify.com/track/16A2TC89Jt7eaf7iuVaM3p) | [Fear Lab](https://open.spotify.com/artist/59OL42glNaguFmSfhUSpDE) | [Drowning](https://open.spotify.com/album/0RfIOR90ccA6EAMXVQvUMY) | 3:22 |
-| 199 | [Deny Reality](https://open.spotify.com/track/3GUrEA0NBlyPFqf5Rih34l) | [Andrew Van Garratt](https://open.spotify.com/artist/6VaIdfjQNk9VVojLRHgejA) | [Plausible Deniability](https://open.spotify.com/album/2EmdFHNTV52oVRNXxiSKXb) | 3:00 |
-| 200 | [The World We Wanted](https://open.spotify.com/track/0Ut158gcf1oK792PDRRqkU) | [Ethan Daniel Davidson](https://open.spotify.com/artist/5SltDano2PG9XSzztf5z2L) | [Lear](https://open.spotify.com/album/4niGNHWc6FewJlBqyMwxYF) | 3:40 |
-| 201 | [Surrounding Thoughts](https://open.spotify.com/track/1LjiwQaa5Vh7kkzjcfxmtK) | [Jeremias Wendt](https://open.spotify.com/artist/2JmH9u5kjX5l5eFykzIh7t) | [Surrounding Thoughts](https://open.spotify.com/album/44pRxVWkEIWLucFoTlDvBd) | 3:36 |
-| 202 | [Goat Fucker](https://open.spotify.com/track/2TOTFlTDVZFxDqJY0sef7O) | [Stitched Up](https://open.spotify.com/artist/762Cxbk76fKqLFirQVM3Q5) | [Jupiter Jazz And The Suicide Cult](https://open.spotify.com/album/48GBDYow9DdWaJz2GoOBQh) | 4:04 |
-| 203 | [ACT YOUR WAGE](https://open.spotify.com/track/6HcIr2p7VT5BrAdbManafE) | [Faisal Ryan](https://open.spotify.com/artist/1YqLPQqfuH43PCN5HhwBFP) | [ACT YOUR WAGE](https://open.spotify.com/album/21oePuj5IH2GlpGjJPfWnY) | 3:06 |
-| 204 | [Sword And Shield](https://open.spotify.com/track/2R71lylNwv67mmPBwjTCYS) | [Yürümeyen Merdiven](https://open.spotify.com/artist/5qxtKwjihWyBWuy7Tjs3ue) | [Sword And Shield](https://open.spotify.com/album/7GIM4hfDcnStwIdShQnNym) | 3:26 |
-| 205 | [1982](https://open.spotify.com/track/0mehLe0Lq9aIKgTaYtYtPo) | [rhynos](https://open.spotify.com/artist/4hQ2WEwKLJ66DQwZUOddWC) | [1982](https://open.spotify.com/album/2bEQdG5K1qgVJUEMcJm7tO) | 1:20 |
-| 206 | [Stable](https://open.spotify.com/track/0CRTqZix3nBo3vSra6O3os) | [oui merci](https://open.spotify.com/artist/6XUr1bWIBVkLmXHySucgyr) | [Stable](https://open.spotify.com/album/67rLBbv9JEBAdydHQxUJlP) | 3:45 |
-| 207 | [Presente Imperfecto](https://open.spotify.com/track/0OHvFYxP5jCifoq7iDoixb) | [SONORAMiCOS](https://open.spotify.com/artist/5I0mPJBSGW6E9sbrwOfKCE) | [Presente Imperfecto](https://open.spotify.com/album/2UCecjJfkHXvzZDbt4vfbk) | 2:59 |
+| 198 | [Routine Trap Escape](https://open.spotify.com/track/4J3RQVO16sV0LmicjSlwW7) | [NOOP](https://open.spotify.com/artist/1K5Cl2jMIES6pZtmSEnpDm) | [Escapism For The Masses](https://open.spotify.com/album/0Cu7CizxFbY6qdnqonHMV7) | 4:03 |
+| 199 | [Drowning](https://open.spotify.com/track/16A2TC89Jt7eaf7iuVaM3p) | [Fear Lab](https://open.spotify.com/artist/59OL42glNaguFmSfhUSpDE) | [Drowning](https://open.spotify.com/album/0RfIOR90ccA6EAMXVQvUMY) | 3:22 |
+| 200 | [Deny Reality](https://open.spotify.com/track/3GUrEA0NBlyPFqf5Rih34l) | [Andrew Van Garratt](https://open.spotify.com/artist/6VaIdfjQNk9VVojLRHgejA) | [Plausible Deniability](https://open.spotify.com/album/2EmdFHNTV52oVRNXxiSKXb) | 3:00 |
+| 201 | [The World We Wanted](https://open.spotify.com/track/0Ut158gcf1oK792PDRRqkU) | [Ethan Daniel Davidson](https://open.spotify.com/artist/5SltDano2PG9XSzztf5z2L) | [Lear](https://open.spotify.com/album/4niGNHWc6FewJlBqyMwxYF) | 3:40 |
+| 202 | [Surrounding Thoughts](https://open.spotify.com/track/1LjiwQaa5Vh7kkzjcfxmtK) | [Jeremias Wendt](https://open.spotify.com/artist/2JmH9u5kjX5l5eFykzIh7t) | [Surrounding Thoughts](https://open.spotify.com/album/44pRxVWkEIWLucFoTlDvBd) | 3:36 |
+| 203 | [Goat Fucker](https://open.spotify.com/track/2TOTFlTDVZFxDqJY0sef7O) | [Stitched Up](https://open.spotify.com/artist/762Cxbk76fKqLFirQVM3Q5) | [Jupiter Jazz And The Suicide Cult](https://open.spotify.com/album/48GBDYow9DdWaJz2GoOBQh) | 4:04 |
+| 204 | [ACT YOUR WAGE](https://open.spotify.com/track/6HcIr2p7VT5BrAdbManafE) | [Faisal Ryan](https://open.spotify.com/artist/1YqLPQqfuH43PCN5HhwBFP) | [ACT YOUR WAGE](https://open.spotify.com/album/21oePuj5IH2GlpGjJPfWnY) | 3:06 |
+| 205 | [Sword And Shield](https://open.spotify.com/track/2R71lylNwv67mmPBwjTCYS) | [Yürümeyen Merdiven](https://open.spotify.com/artist/5qxtKwjihWyBWuy7Tjs3ue) | [Sword And Shield](https://open.spotify.com/album/7GIM4hfDcnStwIdShQnNym) | 3:26 |
+| 206 | [1982](https://open.spotify.com/track/0mehLe0Lq9aIKgTaYtYtPo) | [rhynos](https://open.spotify.com/artist/4hQ2WEwKLJ66DQwZUOddWC) | [1982](https://open.spotify.com/album/2bEQdG5K1qgVJUEMcJm7tO) | 1:20 |
+| 207 | [Stable](https://open.spotify.com/track/0CRTqZix3nBo3vSra6O3os) | [oui merci](https://open.spotify.com/artist/6XUr1bWIBVkLmXHySucgyr) | [Stable](https://open.spotify.com/album/67rLBbv9JEBAdydHQxUJlP) | 3:45 |
+| 208 | [Presente Imperfecto](https://open.spotify.com/track/0OHvFYxP5jCifoq7iDoixb) | [SONORAMiCOS](https://open.spotify.com/artist/5I0mPJBSGW6E9sbrwOfKCE) | [Presente Imperfecto](https://open.spotify.com/album/2UCecjJfkHXvzZDbt4vfbk) | 2:59 |
+| 209 | [Echoes Of Nowhere](https://open.spotify.com/track/3SzGqxO8yV08UiST2L49ZY) | [Desert Lily](https://open.spotify.com/artist/4PhaxISQScCigU6Tt33Rdd) | [How Did We Get Here](https://open.spotify.com/album/1P5hKWwxb4NHb8X8PwChSp) | 3:16 |
+| 210 | [Smooth Stepper](https://open.spotify.com/track/1UIgeeP8u29SQZIuUbMAMH) | [The Wish Fulfilled](https://open.spotify.com/artist/2H0BaqoJZz0s7QWuVnJqeZ) | [Smooth Stepper](https://open.spotify.com/album/0fV5ZOs8hXslM68fTlwqVV) | 2:56 |
+| 211 | [Greatness Abandoned](https://open.spotify.com/track/5kRxQQyqbe9VyFMgO3Iw4i) | [The Burying Game](https://open.spotify.com/artist/6XHIzQUMkkyXIsXn3XPnnK) | [Greatness Abandoned](https://open.spotify.com/album/3w98QK5DiwTtQtfwnGHxNo) | 3:50 |
+| 212 | [Restless](https://open.spotify.com/track/2tXEqX2Jx7iunIzheetaYU) | [Grandma's Chandelier](https://open.spotify.com/artist/6dtP5fyPl76HScmIsqell7) | [Restless](https://open.spotify.com/album/6FHcXFlvN7EclypTMGlYLR) | 4:49 |
+| 213 | [ostracized myself](https://open.spotify.com/track/4kedkU5YfOg9aP3Rhaqh8Y) | [Władek Sheen](https://open.spotify.com/artist/5elwcM1iBIib16jSGK1SQe) | [ostracized myself](https://open.spotify.com/album/7zzcYFc64KJdA2Hd1AB7Fm) | 2:50 |
+| 214 | [BREATHE](https://open.spotify.com/track/3ALJaDfdUCrARTslgZig5k) | [dmncles](https://open.spotify.com/artist/6AXQbXnTcpATjFnocZgBK3) | [BREATHE](https://open.spotify.com/album/3ngaCH0ImMqEuCnlO1F84m) | 2:34 |
+| 215 | [Iza Bella](https://open.spotify.com/track/2m33TemOMBEDzRpw1TsLhd) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Haze](https://open.spotify.com/album/0UWOt7EEXl2rOz7YPynmmn) | 3:24 |
 
-Snapshot ID: `AAAHqujZdDWijMuzNeYS1/F+753RkJsg`
+Snapshot ID: `AAAHstuPBENY9WtKyxCmnS1IbhwnRUyG`

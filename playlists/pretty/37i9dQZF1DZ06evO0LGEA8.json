@@ -1,12 +1,12 @@
 {
   "description": "This is La Santa Grifa. The essential tracks, all in one playlist.",
-  "num_followers": 300051,
+  "num_followers": 300218,
   "original_name": "This Is La Santa Grifa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aR0IgAAAAABce8ilolSTNBuz+/qSpLn2",
+  "snapshot_id": "aR5aAAAAAACNFxIcG8EaV3M6yxn8mbpJ",
   "tracks": [
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hits Visuales, Vol. 4",
-        "url": "https://open.spotify.com/album/2biWpudc2pbS9UGGxjLgBM"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 186137,
-      "name": "Estamos al Aire",
-      "url": "https://open.spotify.com/track/6XagfTLSVgSx9lZFJ7q6Wy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las Chidas Pal Cuarto",
         "url": "https://open.spotify.com/album/6eOtwUDg5pVryf6Ry2RH9C"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 275500,
       "name": "Compatible Contigo",
       "url": "https://open.spotify.com/track/0PLZFSquuNT9mKd2wpOEzF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hits Visuales, Vol. 4",
+        "url": "https://open.spotify.com/album/2biWpudc2pbS9UGGxjLgBM"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 186137,
+      "name": "Estamos al Aire",
+      "url": "https://open.spotify.com/track/6XagfTLSVgSx9lZFJ7q6Wy"
     },
     {
       "added_at": null,
@@ -711,6 +711,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fuera de \u00d3rbita",
+        "url": "https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 139075,
+      "name": "Como la Espuma",
+      "url": "https://open.spotify.com/track/3xRrjypq1Av1Frb6Edw1SD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mal Ejemplo, Vol. 3",
         "url": "https://open.spotify.com/album/3mIsCeIbeXeicXk0QmSQRM"
       },
@@ -747,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Mi Zona",
-        "url": "https://open.spotify.com/album/06lnEElRpfWIv4Tvf3wWg8"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 204800,
-      "name": "Por Mi Zona",
-      "url": "https://open.spotify.com/track/0OSnalMNoPOjkMOFE7I4C3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00c9xitos, Vol. 2",
         "url": "https://open.spotify.com/album/5MhpEW1P1Lpu4NLrLB34x7"
       },
@@ -775,6 +775,22 @@
       "duration_ms": 264176,
       "name": "El Borracho Y La Ruca",
       "url": "https://open.spotify.com/track/7aEhagyhf38ZE6PiLKbya3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Por Mi Zona",
+        "url": "https://open.spotify.com/album/06lnEElRpfWIv4Tvf3wWg8"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "Por Mi Zona",
+      "url": "https://open.spotify.com/track/0OSnalMNoPOjkMOFE7I4C3"
     },
     {
       "added_at": null,
@@ -839,22 +855,6 @@
       "duration_ms": 258600,
       "name": "Nos Fuimos por Ah\u00ed",
       "url": "https://open.spotify.com/track/4slqlyEAIve2ZfeJS6iHDk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fuera de \u00d3rbita",
-        "url": "https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 139075,
-      "name": "Como la Espuma",
-      "url": "https://open.spotify.com/track/3xRrjypq1Av1Frb6Edw1SD"
     },
     {
       "added_at": null,

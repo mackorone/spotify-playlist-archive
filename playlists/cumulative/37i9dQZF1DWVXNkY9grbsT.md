@@ -4,7 +4,7 @@
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Photo by David Wolff via Getty Images
 
-576 songs - 1 day 23 hr 45 min
+577 songs - 1 day 23 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -424,6 +424,7 @@
 | [Ripple Effect](https://open.spotify.com/track/2PVDBUJc1n0Ol2wQUUUiiG) | [Portable](https://open.spotify.com/artist/64PiD6gdmMy2lEgS5XgdjR) | [Ripple Effect](https://open.spotify.com/album/5O81fNq7mq7GYbeUQUFbfu) | 4:17 | 2022-01-23 | 2022-07-12 |
 | [Riptide](https://open.spotify.com/track/3AljM5qQOlyk5NApH8pWJn) | [Jacob Haage](https://open.spotify.com/artist/2gBDfxaTBWODAdv66Kgk3p), [Sarah Assbring](https://open.spotify.com/artist/5vbz6O5eYXa0dJ4SZvjka4) | [Riptide](https://open.spotify.com/album/669AB2aEnksA5gFdVYfvv6) | 3:17 | 2022-07-15 | 2023-08-12 |
 | [Riptide](https://open.spotify.com/track/56v1HWZ35g6jKpbJzYff6k) | [Jacob Haage](https://open.spotify.com/artist/2gBDfxaTBWODAdv66Kgk3p), [Sarah Assbring](https://open.spotify.com/artist/5vbz6O5eYXa0dJ4SZvjka4) | [RIPTIDE](https://open.spotify.com/album/7lAip95eODxxCJOKeeQW1P) | 3:17 | 2021-12-26 | 2022-07-29 |
+| [Rodl Glide](https://open.spotify.com/track/3WJvzobOaCnAUlI7KsTP2W) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Rodl Glide](https://open.spotify.com/album/2tYX2ycoyGDBpsAcg409SC) | 6:05 | 2025-11-21 |  |
 | [Roller The Wick](https://open.spotify.com/track/0XAeppgkhdC4mgUYhFDden) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [05\-10](https://open.spotify.com/album/0MMfYUAUnR6uujgVp3SSea) | 4:56 | 2023-01-20 | 2023-07-15 |
 | [Roller The Wick](https://open.spotify.com/track/6Bv2uybg4ZBi5K05BC0kBU) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [05\-10](https://open.spotify.com/album/7vVQuiGmu502EmbkTHYkpI) | 4:56 | 2022-09-30 | 2023-02-02 |
 | [Rushes Recede](https://open.spotify.com/track/4LldU6Isq6ecYkaNISaDDc) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Rushes Recede](https://open.spotify.com/album/1uQvJ6TmCHQV6bdRdDIkrq) | 6:34 | 2021-12-26 | 2023-02-03 |
@@ -573,7 +574,7 @@
 | [Winter Cop](https://open.spotify.com/track/5fK31V4Icpc46SpNQkwtv3) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [No Highs](https://open.spotify.com/album/7nKNz12BoGEYHqJmwUoC4P) | 2:35 | 2024-09-06 |  |
 | [Winter's Melt](https://open.spotify.com/track/3rcSl72boGsikNIlF1mWWZ) | [Carl Lord](https://open.spotify.com/artist/2LmBmuBKjJg3Xqh24WwpoN) | [Winter's Melt](https://open.spotify.com/album/0lzh9y8SDCaHqAipgINFwd) | 6:25 | 2022-03-25 | 2025-01-10 |
 | [Worlds Collide \- Hannes Kretzer Rework](https://open.spotify.com/track/4PfKv1E5Jp1DizoOunObbM) | [Vetle Nærø](https://open.spotify.com/artist/1FjMgsUfnOoSWTHuVzAukf), [Morten Reppesgård](https://open.spotify.com/artist/5jAzP0mkUinJrV4NdUHjJI), [Hannes Kretzer](https://open.spotify.com/artist/1vHwczEjnY229foOj5ubxe) | [Worlds Collide \(Hannes Kretzer Rework\)](https://open.spotify.com/album/4SZSeDgHqioiCuRVHi6zRc) | 3:51 | 2022-03-11 | 2025-05-13 |
-| [Worms In](https://open.spotify.com/track/2cb4G4H8rJ5JqueU6hr25X) | [Saapato](https://open.spotify.com/artist/1zmmKdRwflRmJ8knfGlmYt), [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [Decomposition: Fox on a Highway](https://open.spotify.com/album/0Ml1fgzwzQBA0G7K12QGuB) | 2:32 | 2025-05-12 |  |
+| [Worms In](https://open.spotify.com/track/2cb4G4H8rJ5JqueU6hr25X) | [Saapato](https://open.spotify.com/artist/1zmmKdRwflRmJ8knfGlmYt), [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [Decomposition: Fox on a Highway](https://open.spotify.com/album/0Ml1fgzwzQBA0G7K12QGuB) | 2:32 | 2025-05-12 | 2025-11-22 |
 | [XYZ](https://open.spotify.com/track/72oEGguykIkj1PDA8dXTMW) | [Hugar](https://open.spotify.com/artist/0bdJp8l3a1uJRKe2YaAcE9) | [XYZ](https://open.spotify.com/album/6TFaNIzSXMAnOLpjIcWOKO) | 3:22 | 2022-01-07 | 2023-08-12 |
 | [Yellowed Leaves Drift Down](https://open.spotify.com/track/1Thn7RyLmtnZilAzLg1U56) | [Hior Chronik](https://open.spotify.com/artist/0WwDqOLT2m5PuAsFGkEybC), [Natalia Tsupryk](https://open.spotify.com/artist/3u32k4tGe6y6GiYNBsi0DX), [Asia Dojnikowska](https://open.spotify.com/artist/6s2GQPcn5JLSy16vXmix1b) | [Yellowed Leaves Drift Down](https://open.spotify.com/album/2R4mUoqvpts55iUrOPG6lZ) | 3:32 | 2025-06-06 | 2025-08-30 |
 | [Yellowed Leaves Drift Down](https://open.spotify.com/track/4Hjvdc6ikX3vqok41B30cB) | [Hior Chronik](https://open.spotify.com/artist/0WwDqOLT2m5PuAsFGkEybC), [Natalia Tsupryk](https://open.spotify.com/artist/3u32k4tGe6y6GiYNBsi0DX), [Asia Dojnikowska](https://open.spotify.com/artist/6s2GQPcn5JLSy16vXmix1b) | [Apofanie](https://open.spotify.com/album/6mDeROE5QTMtx2tmmBSDfX) | 3:32 | 2025-06-13 |  |

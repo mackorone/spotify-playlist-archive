@@ -4,7 +4,7 @@
 
 > A new world of alternative electronic music.
 
-1,081 songs - 3 day 5 hr 12 min
+1,082 songs - 3 day 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -993,6 +993,7 @@
 | [Tremors](https://open.spotify.com/track/2yHaxm6DL7A9bpb0L4GyQo) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [What I Breathe \(Deluxe\)](https://open.spotify.com/album/696j98HfflKXkJ1jDIzaJI) | 4:55 | 2022-12-08 | 2023-01-20 |
 | [Trespasser Unknown](https://open.spotify.com/track/2bAmotuHu9LCtzd2d2jeiA) | [Jad & The](https://open.spotify.com/artist/2TIVoSbNoE1A9ihHlRRfpP) | [Infinite Autonomy](https://open.spotify.com/album/0OAwinaOuk161ygtyfIq9r) | 4:54 | 2023-07-27 | 2023-09-08 |
 | [True Religion](https://open.spotify.com/track/78wZn0wdzhj3imUleYWd5M) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq), [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [True Religion](https://open.spotify.com/album/0Uowlm2LLlqaoAMFtajKat) | 2:50 | 2025-01-23 | 2025-03-21 |
+| [tucson](https://open.spotify.com/track/32p0HgNCK3KkaNKqxMiVlu) | [vano1337](https://open.spotify.com/artist/0TBtIg6LfQ7ScMO7txwIci) | [tucson](https://open.spotify.com/album/2irbPnZEcnjVuW4AksAW9H) | 2:36 | 2025-10-16 |  |
 | [Tucu Taca](https://open.spotify.com/track/0pF06RE9yNGJ2blMmLxPsC) | [Lorenzo Morresi](https://open.spotify.com/artist/5KgrjZAqa9vYxxza7MDDW2) | [Tucu Taca](https://open.spotify.com/album/0lvXTfLiyZ30r4AQsvPUTo) | 5:47 | 2025-04-10 | 2025-10-13 |
 | [Tuff Stuff](https://open.spotify.com/track/3ZVU7utYMgojR2nW75IItk) | [Brink](https://open.spotify.com/artist/5ZrmLQknBNK7dDfqUYsnzc), [Lutsu](https://open.spotify.com/artist/0OXAWqGmQlRa2AXVsWYmmV) | [Tuff Stuff](https://open.spotify.com/album/5YSzt6Mu3p2adLntxhl6Ra) | 5:37 | 2025-08-01 | 2025-10-13 |
 | [Turn Your Sights Inward](https://open.spotify.com/track/7m9d8kbTRfglC24VEKEUlG) | [Helena Hauff](https://open.spotify.com/artist/1JcefSOP7bcWEluL0iEIaN) | [Turn Your Sights Inward](https://open.spotify.com/album/7ruQ505VClGpTxJPZbQRb9) | 6:35 | 2023-08-03 | 2023-09-01 |
@@ -1053,7 +1054,7 @@
 | [Whispering](https://open.spotify.com/track/6HdgO8F81kPNjhk9O5ic1F) | [Oliver Henry](https://open.spotify.com/artist/5rrIGWOBnDYdcRz9FqdvfD) | [Whispering](https://open.spotify.com/album/5ImXv8MXMUQxjWZzVL4WIZ) | 4:40 | 2023-03-16 | 2023-05-12 |
 | [Who I Am](https://open.spotify.com/track/5o0wpcuSRIkz43Hq6C10j1) | [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq) | [Bubbledance](https://open.spotify.com/album/29hl2y4GClVz3ROaGrOl2E) | 5:02 | 2025-06-26 | 2025-10-13 |
 | [WICKED \(WOAH\)](https://open.spotify.com/track/3ooEmXQnBUtR39lgXLYYCx) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr), [UTILITY](https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi) | [VARVIE WORLD](https://open.spotify.com/album/5SfPi8CFzgVotVJUW4GQMJ) | 3:07 | 2025-05-08 | 2025-10-13 |
-| [Wicked Sound](https://open.spotify.com/track/6vITRyQ93GruFeNnR6OQ1U) | [seKTa](https://open.spotify.com/artist/06PMrOCpEXRYONKv8KlLXD) | [Wicked Rhythm EP](https://open.spotify.com/album/6MRN1oX33WDwUf9fJGMxNj) | 2:53 | 2025-02-14 |  |
+| [Wicked Sound](https://open.spotify.com/track/6vITRyQ93GruFeNnR6OQ1U) | [seKTa](https://open.spotify.com/artist/06PMrOCpEXRYONKv8KlLXD) | [Wicked Rhythm EP](https://open.spotify.com/album/6MRN1oX33WDwUf9fJGMxNj) | 2:53 | 2025-02-14 | 2025-11-22 |
 | [Wildfire](https://open.spotify.com/track/4jGVld5PpMBfIUqc5eOWPw) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Wildfire](https://open.spotify.com/album/0fboWMJea94CfwHwDLMrh8) | 3:20 | 2023-09-28 | 2024-02-10 |
 | [Wildfire \(Eartheater Remix\)](https://open.spotify.com/track/2kKgy9pifqkA82JZYO9Cvn) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Nymph\_o](https://open.spotify.com/album/28MZKxXQKX89mr1Y9g9d3k) | 2:58 | 2023-04-13 | 2023-05-26 |
 | [With Love](https://open.spotify.com/track/62Su2yhkWvhgAtFhZ552kO) | [WALKER.](https://open.spotify.com/artist/4TGWnQ6RGOeVzNPLWkcrrB) | [With Love](https://open.spotify.com/album/72zB4slx8DL4YkUG69p0m3) | 3:57 | 2024-05-09 | 2024-08-23 |

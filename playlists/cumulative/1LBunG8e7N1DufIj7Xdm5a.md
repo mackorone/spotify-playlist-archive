@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-3,585 songs - 7 day 21 hr 32 min
+3,588 songs - 7 day 21 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -428,6 +428,7 @@
 | [C.Y.R \(Celebrate Your Riches\)](https://open.spotify.com/track/4Xo4AdGrrzrvm0M8iFCcLq) | [Bootstrap](https://open.spotify.com/artist/7Ls2DZp2MNL0rycLaYR8od), [Nolly B](https://open.spotify.com/artist/4v2EMJGrQA0dMOFBcF6FA6) | [Five Fingers of Life](https://open.spotify.com/album/65hCHILBnhTEKCK4RPZt6B) | 3:02 | 2025-07-02 |  |
 | [Cadillac](https://open.spotify.com/track/2Bx2y9BOOJsOQl6HMm2DHP) | [Civico97](https://open.spotify.com/artist/4iS1xr1BJF12FN1QWb2A21) | [Cadillac](https://open.spotify.com/album/1rqRib7znfrGefXUJKXf2m) | 3:05 | 2025-07-14 |  |
 | [Cadillac](https://open.spotify.com/track/6ubuiurKi3D1pSnI7EDMtq) | [Civico97](https://open.spotify.com/artist/4iS1xr1BJF12FN1QWb2A21) | [ЯEWIND](https://open.spotify.com/album/47XFlQXQtC3meDw6qDEV85) | 3:05 | 2025-10-23 |  |
+| [Caged Echoes](https://open.spotify.com/track/15k6gTwj6HBIDXzEDUQIjq) | [Must Have](https://open.spotify.com/artist/67XJwtw6lydEiaF7kxy7n6) | [Seven Channels](https://open.spotify.com/album/5vmYsmqXWZ4hcD3alEjjqu) | 2:10 | 2025-11-21 |  |
 | [Call the rodeo clowns](https://open.spotify.com/track/4ZwKc9Vtq2eO0tg7n7KSJo) | [Eduardo Robles](https://open.spotify.com/artist/2qwNSIP0Jyv5mstU2i5wwm), [Nox Quartet](https://open.spotify.com/artist/4PyleKtYj9aWfygn3BCSbF) | [Call the rodeo clowns](https://open.spotify.com/album/1i5CUJRUiipUJn6jMrPqe1) | 4:20 | 2025-05-05 |  |
 | [Calling](https://open.spotify.com/track/1RKrYcLdOfO8snOxAKW542) | [Brian Green](https://open.spotify.com/artist/3TPWFarirM2KGu61YzQPJ8) | [Calling](https://open.spotify.com/album/5hrgMwoFBMWlwGYBmpHkVN) | 1:48 | 2025-09-21 |  |
 | [Calm Flow](https://open.spotify.com/track/6cKFK2tsBgZ0xHOjBtDAon) | [Labean Dreams](https://open.spotify.com/artist/4WOzApZ1D3ngpRaH9Qz0h6) | [Calm Flow](https://open.spotify.com/album/6ZX9ti5GjNHs6HvrNr2wiX) | 4:00 | 2025-06-05 |  |
@@ -584,6 +585,7 @@
 | [Concrete Jungle Tales \(another\)](https://open.spotify.com/track/7gB0zVKHnD0EJq21X96ixi) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Gangsta rap](https://open.spotify.com/album/5DjfHnIsnHBjvVFvStHhrn) | 1:59 | 2025-08-20 |  |
 | [Concrete Wings](https://open.spotify.com/track/46AH6LzOKcg2kFjAAsgFTG) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Skate punk](https://open.spotify.com/album/4SRDpSExvdGd0QXK9E5UTI) | 2:39 | 2025-09-13 |  |
 | [Concrete Wings \(another\)](https://open.spotify.com/track/3a4nBZPtXY8XOD2soAlwzB) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Skate punk](https://open.spotify.com/album/4SRDpSExvdGd0QXK9E5UTI) | 2:32 | 2025-09-13 |  |
+| [Conexión Natural](https://open.spotify.com/track/4cEDD7xf3onlhLjWy7Xzrr) | [Gélido](https://open.spotify.com/artist/5GxwtngGgv22cC2tl1ldBR), [Francisco González](https://open.spotify.com/artist/6Yn9rdgRztxIG6DtHj6uOR) | [Conexión Natural](https://open.spotify.com/album/0O0FoY8EcKQcY7E9MbEQ03) | 4:06 | 2025-11-21 |  |
 | [Confess](https://open.spotify.com/track/3ZK9gGqQTvzre7gpuJYkpP) | [thairhys](https://open.spotify.com/artist/5qG6gO93CQcBIA65sWfHiq) | [Confess](https://open.spotify.com/album/5DRUvUs2Pk494TutgiDM2W) | 3:21 | 2025-10-01 |  |
 | [Confusion](https://open.spotify.com/track/07IpJejfJHgthisE62ZHQc) | [Prince Pe](https://open.spotify.com/artist/6lVwACmv0KZrhjPzJoSblh) | [What's love](https://open.spotify.com/album/4ZQSgR9ZPUFWwSmdLnIcOo) | 3:29 | 2025-06-05 |  |
 | [Conmigo](https://open.spotify.com/track/27GYP4UlgCfm8yrxuXeSjQ) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Latin American Dance Music](https://open.spotify.com/album/1Y6WnTXfRkYnbOg87hIbPS) | 3:14 | 2025-09-18 |  |
@@ -2576,6 +2578,7 @@
 | [Sad Girl](https://open.spotify.com/track/1hm2F2ZeC48scfZnFoJswg) | [Angus Court](https://open.spotify.com/artist/1umNSu2Mp8j1yiBKzLp8Ia) | [Sad Girl](https://open.spotify.com/album/6laiiyu0gaNm3YL9eC9HF5) | 3:55 | 2025-06-04 |  |
 | [Safe With Me \(sped up\)](https://open.spotify.com/track/0o0LVtOSeeLMyBzqeav4nW) | [Augxst](https://open.spotify.com/artist/2cLT5hSCjzPEqSngz0M6lg) | [Safe With Me](https://open.spotify.com/album/4BDNIFU2sq7cfgIvXpcUmh) | 1:50 | 2025-06-23 |  |
 | [Sali Sali](https://open.spotify.com/track/5jQup4wpvAb1MISpqDfPZ3) | [Civico97](https://open.spotify.com/artist/4iS1xr1BJF12FN1QWb2A21) | [ЯEWIND](https://open.spotify.com/album/47XFlQXQtC3meDw6qDEV85) | 2:58 | 2025-10-23 |  |
+| [Sally Feels Bad](https://open.spotify.com/track/1TENNU3Fu2aRkdenYTS4ty) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [Sally Feels Bad](https://open.spotify.com/album/0peasiPlPgIQzH5gHBJsRa) | 3:01 | 2025-11-21 |  |
 | [Salt](https://open.spotify.com/track/0ZUAmIkF31jwKSwI1nPv1I) | [murCATolog](https://open.spotify.com/artist/2KoZ9RKRH2ktVlVpDEUoYj) | [Salt](https://open.spotify.com/album/5d6BqeYGg9WcPDdzFtLglo) | 2:09 | 2025-06-05 |  |
 | [Sandy](https://open.spotify.com/track/3U4pqslEJOfkJ7Tz35LooQ) | [EUR](https://open.spotify.com/artist/1XJzQKMr8MnjvkkS5979DP) | [EUR](https://open.spotify.com/album/2MrIeolzwAYuGanGeb1YAH) | 2:49 | 2025-06-05 |  |
 | [Sangue di Lavanda](https://open.spotify.com/track/5WHsTtA3qaazbwqAdpHERe) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Hard Rock Italiano](https://open.spotify.com/album/7KUGkABGedkgcAuKtoeTtk) | 2:29 | 2025-05-29 |  |

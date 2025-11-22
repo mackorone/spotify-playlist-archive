@@ -92,7 +92,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-13",
+      "date_removed": null,
       "duration_ms": 108387,
       "name": "allowed to LOVE",
       "url": "https://open.spotify.com/track/6cqnApdgR7NjOk0V0Ixoou"
@@ -598,7 +598,7 @@
       ],
       "date_added": "2025-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 108500,
       "name": "escape room",
       "url": "https://open.spotify.com/track/0XuoqKqcGQF5jedK0bU9f9"
@@ -786,7 +786,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 92800,
       "name": "heartbreaker feelings",
       "url": "https://open.spotify.com/track/5UDJZgIyoF6vvAbWeXsd0c"
@@ -1362,6 +1362,24 @@
       "duration_ms": 111920,
       "name": "my wedding vows (bandlab draft)",
       "url": "https://open.spotify.com/track/20tyjhMlh86gHLvWEglLwc"
+    },
+    {
+      "album": {
+        "name": "kittydog music album",
+        "url": "https://open.spotify.com/album/3XA84Ccaw20UzDfJuGEkyk"
+      },
+      "artists": [
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "date_added": "2025-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 34055,
+      "name": "never die",
+      "url": "https://open.spotify.com/track/0M7Z4htoGZy9vlasYOCiru"
     },
     {
       "album": {

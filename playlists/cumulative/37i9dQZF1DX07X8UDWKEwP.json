@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Lo nuevo del mundo tropical. Cover: Eddie Santiago",
+  "description": "Lo nuevo del mundo tropical. Cover: Maria Becerra & Karina",
   "name": "el nuevo tropical",
   "tracks": [
     {
@@ -662,7 +662,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 221220,
       "name": "Amantes",
       "url": "https://open.spotify.com/track/2c4gYuETFB1Uf6gEwblpl5"
@@ -2619,6 +2619,24 @@
     },
     {
       "album": {
+        "name": "Baile Cholo",
+        "url": "https://open.spotify.com/album/5GJhkiL9fhsuNkO0MDeZw4"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202166,
+      "name": "Claves",
+      "url": "https://open.spotify.com/track/43tAFopT26QJMVKUBMKN5l"
+    },
+    {
+      "album": {
         "name": "Cl\u00e1sicos 1.0: Entrega",
         "url": "https://open.spotify.com/album/4IXCRis7jeykTiP1UMUrMq"
       },
@@ -3664,7 +3682,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 185725,
       "name": "Del Sol",
       "url": "https://open.spotify.com/track/79xugcpObhg2zsQ9vDsQs1"
@@ -3708,6 +3726,24 @@
       "duration_ms": 178500,
       "name": "Desaparecida",
       "url": "https://open.spotify.com/track/4dFBAzj8ap6tDZJW7o4Ido"
+    },
+    {
+      "album": {
+        "name": "Desconocidos",
+        "url": "https://open.spotify.com/album/624xcZVXB6YCcaHHmdAGL9"
+      },
+      "artists": [
+        {
+          "name": "Johnny Sky",
+          "url": "https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170170,
+      "name": "Desconocidos",
+      "url": "https://open.spotify.com/track/0qkXMXSaDVQfQ7qiP9DDGU"
     },
     {
       "album": {
@@ -7945,6 +7981,24 @@
     },
     {
       "album": {
+        "name": "\u00bfY ahora qu\u00e9 +?",
+        "url": "https://open.spotify.com/album/2oBvsAEB09BYyv3Dnzn2Lb"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210200,
+      "name": "Las guapas",
+      "url": "https://open.spotify.com/track/2USuWC60sd6pQtTjH7lv4Z"
+    },
+    {
+      "album": {
         "name": "Latidos",
         "url": "https://open.spotify.com/album/3sKQ2V6nzvfKFBpfoJtHpo"
       },
@@ -10408,7 +10462,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 201612,
       "name": "No Te Kille",
       "url": "https://open.spotify.com/track/6F0huMsOBe2NeqBQ8VW1Oo"
@@ -10993,6 +11047,28 @@
     },
     {
       "album": {
+        "name": "Pa' Ser Feliz",
+        "url": "https://open.spotify.com/album/5knTe1bqJCYYdpvLQJyNb0"
+      },
+      "artists": [
+        {
+          "name": "Limi-T 21",
+          "url": "https://open.spotify.com/artist/5j8Q0VC4Be4yhcQ1tf8Sh7"
+        },
+        {
+          "name": "Grupo Mania",
+          "url": "https://open.spotify.com/artist/2RqhDUsFkCJbhHntsnCVqp"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193731,
+      "name": "Pa' Ser Feliz",
+      "url": "https://open.spotify.com/track/2BsGZ3OuJzoAUftp58mLKp"
+    },
+    {
+      "album": {
         "name": "Pa'lla Voy",
         "url": "https://open.spotify.com/album/7Egfnc2y2UO9Gqeh5nYzDh"
       },
@@ -11540,7 +11616,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 158100,
       "name": "Poloche",
       "url": "https://open.spotify.com/track/6FbQ2tej1wh45DyEwFSE0m"
@@ -11752,7 +11828,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 211325,
       "name": "PORFA",
       "url": "https://open.spotify.com/track/6AXi31RtYc1YkSjie4H0V5"
@@ -12696,7 +12772,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 221338,
       "name": "Ruta 66",
       "url": "https://open.spotify.com/track/3uMZGqWOjFQTPhgls6ZVSj"
@@ -13892,6 +13968,24 @@
       "duration_ms": 187627,
       "name": "Solita",
       "url": "https://open.spotify.com/track/6vCuBTBJN3BfKwVoOvvoz9"
+    },
+    {
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/0v93cVeuek2BnhTDbLRcGa"
+      },
+      "artists": [
+        {
+          "name": "mhtresuno",
+          "url": "https://open.spotify.com/artist/1S1AhqtlhBuOTsEaM1kAOQ"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190240,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/7drxsX64tVAdhqkfa3B0D1"
     },
     {
       "album": {
@@ -15512,6 +15606,32 @@
       "duration_ms": 241750,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/7qG48IKqEo6XlwOuiIYlM7"
+    },
+    {
+      "album": {
+        "name": "QUIMERA",
+        "url": "https://open.spotify.com/album/3LDuV7uzY3d1YJWmjrc4Ql"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "Karina",
+          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
+        },
+        {
+          "name": "XROSS",
+          "url": "https://open.spotify.com/artist/1sV3HHU1TBH5owKu0WLHf7"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142218,
+      "name": "VUELVES TRISTE",
+      "url": "https://open.spotify.com/track/5trhmUpq8NA8P6ltnIu8Dt"
     },
     {
       "album": {

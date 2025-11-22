@@ -4,7 +4,7 @@
 
 > Sounds of birds, rain, and forest ambience.
 
-206 songs - 9 hr 51 min
+207 songs - 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Archipelago Waves](https://open.spotify.com/track/3Na4wOerW2kOPEPBOZnYqR) | [Ice Wave Isac](https://open.spotify.com/artist/3ZgZHtsTSsa0k5vqEKtG2y) | [Discover The Waves](https://open.spotify.com/album/3bgKEP7dzNP3NJenUsQtC8) | 1:12 | 2022-07-04 | 2023-06-20 |
 | [Archipelago Waves](https://open.spotify.com/track/6pcIq19lQuURRdl1ZD3i46) | [Ice Wave Isac](https://open.spotify.com/artist/3ZgZHtsTSsa0k5vqEKtG2y) | [Discover The Waves](https://open.spotify.com/album/0kyGKFxKbKcTGv8OkiQEYf) | 1:12 | 2022-03-25 | 2022-07-29 |
 | [arkansas forest reserve downpour](https://open.spotify.com/track/3hSEPqX0iqXLcFIaVjFAQ3) | [rainbolt](https://open.spotify.com/artist/7s5ur9sUuCW6O3fd5phcS1) | [arkansas rain](https://open.spotify.com/album/0uB3eU3D5VJyGKaVb33fXY) | 4:04 | 2025-07-24 |  |
-| [Atlanta Rain](https://open.spotify.com/track/07CtNdTuh11zJQlwoVkLCW) | [Natsound](https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw) | [Rainy Summer Days](https://open.spotify.com/album/6TpQ6fU21enN1K6iDu9Mij) | 2:50 | 2022-03-25 |  |
+| [Atlanta Rain](https://open.spotify.com/track/07CtNdTuh11zJQlwoVkLCW) | [Natsound](https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw) | [Rainy Summer Days](https://open.spotify.com/album/6TpQ6fU21enN1K6iDu9Mij) | 2:50 | 2022-03-25 | 2025-11-22 |
 | [Averse Sombre](https://open.spotify.com/track/0XdxWj0BQOdVKhaAbQYlwF) | [Créateurs De Pluie](https://open.spotify.com/artist/6LNyPA7N6f4dCGIqNdYkdK) | [Pluie Confortable](https://open.spotify.com/album/5YCyQJq6BlyEqb8et9l216) | 2:41 | 2022-03-25 |  |
 | [Beruhigender Bach](https://open.spotify.com/track/4O2wSXouI7mosBQGx4tZ0N) | [Calming Water Sounds](https://open.spotify.com/artist/2eorj5qDKWRsb9BAfdssbx) | [Chill Day by the River](https://open.spotify.com/album/59E3mxZ1mPRpAPYONamokv) | 2:27 | 2022-03-25 | 2022-07-05 |
 | [Bird Chatter In Rainforest](https://open.spotify.com/track/5ZDdbserCXlDm3CY0Yt1bF) | [Natural Awakening](https://open.spotify.com/artist/0c854X9smbUIbXTJLLdya3) | [Rain Awakening](https://open.spotify.com/album/3Fqifn6gJ1EMsUBWXefkIc) | 3:18 | 2022-03-25 |  |
@@ -91,6 +91,7 @@
 | [Forest Therapy](https://open.spotify.com/track/1o5wI9xAk3n5SVXBbdAEf3) | [INDAYA](https://open.spotify.com/artist/3UzYsKmyzyiSLGVC7RXlvw) | [Nature Heritage](https://open.spotify.com/album/3i29jHWl0L3sa276ySSsos) | 3:16 | 2022-03-25 |  |
 | [Gentle Rain](https://open.spotify.com/track/1U5tJubfZ9KQ7mLiOnXx0g) | [Deszcz](https://open.spotify.com/artist/7mc60Wf7K9edgiJL0FQ6vz) | [Coffee & Rainy days](https://open.spotify.com/album/5D9WRlINa7DWtIiAl6YGtZ) | 3:32 | 2022-03-25 |  |
 | [Gentle Rainbirds](https://open.spotify.com/track/0AGWvztor0iPJq37Xgmkng) | [Nature Advisor](https://open.spotify.com/artist/49v15Biw9XvZRUShSgK2aQ) | [Gentle Rainbirds](https://open.spotify.com/album/1DkvjWbicH3Mk6YWLxAIiU) | 2:24 | 2024-03-26 |  |
+| [Gentle Rainforest](https://open.spotify.com/track/43jrfv5hZem5HTlxYiWaan) | [Nature's Essence](https://open.spotify.com/artist/0JklQwIpSXSIxaSP1IbT8j) | [Gentle Rainforest](https://open.spotify.com/album/6hBWOWpY7PLvcXscEIt1kM) | 2:41 | 2025-11-11 |  |
 | [Gentle River Sounds](https://open.spotify.com/track/1k7bLn8N7hq9oaHCf4To4Y) | [Sound and Waves](https://open.spotify.com/artist/6zzJsQC4k5h4X4OW3Pe1RY) | [Ocean Stream](https://open.spotify.com/album/0KQRieJeaIfGMVUhPCYYNT) | 3:16 | 2022-03-25 |  |
 | [Gently Raining](https://open.spotify.com/track/3CfHJQAXuloLdm727vtocG) | [R 4 Rain](https://open.spotify.com/artist/78RCzQmpEq3y4F1bfZvtHr) | [R 4 Rain](https://open.spotify.com/album/0aIDb23b9ff6xgOOqR5N6P) | 1:12 | 2022-03-25 | 2023-06-20 |
 | [Highway Birds](https://open.spotify.com/track/7D6JbaLlz82gKoLYiMobzk) | [Betweetle](https://open.spotify.com/artist/0rSGh0uadKekVXR1ZMRMkl) | [Highway Birds](https://open.spotify.com/album/36Q6UzSDyagoA6upnkHqBC) | 1:47 | 2023-03-03 | 2023-06-20 |

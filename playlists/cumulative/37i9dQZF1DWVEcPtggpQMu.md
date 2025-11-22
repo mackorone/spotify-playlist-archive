@@ -4,7 +4,7 @@
 
 > Only the hottest South African rap\. <br/>Cover: The Big Hash
 
-1,061 songs - 2 day 8 hr 2 min
+1,061 songs - 2 day 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -910,6 +910,7 @@
 | [The Views](https://open.spotify.com/track/5XE6dTAtEqrHp0NRCjuPui) | [Lucasraps](https://open.spotify.com/artist/4MakWUvM6GZhwTKsTA6AAT), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [031 To The World 2.0](https://open.spotify.com/album/1rFKpOUsG1tWjGyHgYp3rH) | 3:06 | 2022-12-12 | 2023-07-07 |
 | [The Way It Goes](https://open.spotify.com/track/5dOqlvuQdZ7grQ58zOuiM8) | [Dj Clen](https://open.spotify.com/artist/5FeaMbq2LXxaIkEiigeAfo), [Jay Jody](https://open.spotify.com/artist/1S50LM0LZMa0AhCmLvYJdR), [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [The Way It Goes](https://open.spotify.com/album/5xDdy7h5k3VItTNuyieZ2w) | 3:12 | 2023-04-27 | 2023-05-27 |
 | [The Way You Groove](https://open.spotify.com/track/5x7OpCbPTb6CsMSXbyP6f8) | [shizz groovy](https://open.spotify.com/artist/13FjQKPKFWJ9qnuurXvQVw), [Capetownboy](https://open.spotify.com/artist/1mbkoU1ynVq2bjVVPzFKEY), [Spender](https://open.spotify.com/artist/0pNOtierpblD4PdTCALgdt) | [The Way You Groove](https://open.spotify.com/album/3XGwZ9JOhREPKklpALOH7d) | 3:35 | 2022-01-27 | 2022-02-18 |
+| [The World Is Yours](https://open.spotify.com/track/5dJ60tQj97cP7VnrkrY5Wo) | [Touchline](https://open.spotify.com/artist/17GDrcknjyTyuxDbZ4kHlz), [Murumba Pitch](https://open.spotify.com/artist/3cd7plsjSmDdQ0oHESYHC4) | [Mambisa Golden Boy](https://open.spotify.com/album/3rNS7edsfSXxLeb4z1XoyG) | 3:39 | 2025-11-21 |  |
 | [Themba](https://open.spotify.com/track/6nIIHgVc9RXMjPkEF4RRRw) | [Benlay](https://open.spotify.com/artist/33bcG30WfjE62cl3CJ7Pa4) | [Themba](https://open.spotify.com/album/55xOVjl8fVmhmTWPh5qXbb) | 4:22 | 2022-07-14 | 2022-09-10 |
 | [They Gon' Know](https://open.spotify.com/track/5nIwxDgLOgpcjPFadzgs6I) | [Sgi\_Magalela](https://open.spotify.com/artist/4SEe2uJQ5IIJvpyTbtIfAE), [Ecco the Beast](https://open.spotify.com/artist/79Elket3S4dmzHuEhy9djc) | [Something Sao Mizisa I \(Extended Version\)](https://open.spotify.com/album/046a2tPk3FDV6zHHAGvWBB) | 3:11 | 2022-04-22 | 2022-09-10 |
 | [Thiba](https://open.spotify.com/track/0hu7GcuM613Ez6y0JvGmPV) | [Profound](https://open.spotify.com/artist/2bSVTbL5gcDIXvrsoUB1wY), [Tswako](https://open.spotify.com/artist/4vqG2gie1TpjmX8ZfSyzZ6) | [Thiba](https://open.spotify.com/album/70nd6iud0crrILpXjx6NBx) | 3:31 | 2023-03-09 | 2023-03-18 |
@@ -940,7 +941,6 @@
 | [Top Of The Top](https://open.spotify.com/track/4XT4E28gw0nSPOl13CDoiN) | [Lord Script](https://open.spotify.com/artist/793A2IFcoskCrnPQarTcua), [Usimamane](https://open.spotify.com/artist/7CAuIrM6rFLrIgisYOV0Fs) | [Our Father](https://open.spotify.com/album/3aeEohCjAUzigyPUfi75Dq) | 3:12 | 2024-11-21 | 2025-06-28 |
 | [Top Ten](https://open.spotify.com/track/66up8vDuQBeJF9w03S3UsG) | [Kay Faith](https://open.spotify.com/artist/2r237Ri8bYnH945KJNCdAm), [Owethu](https://open.spotify.com/artist/26onEbIE7wVmDSrMseL5pq), [Kashcpt](https://open.spotify.com/artist/2QRB0fbCA9ZCwe67h96PNs), [Hanna](https://open.spotify.com/artist/1K288EUFcrCVl5dIm46bYU), [Holy Alpha](https://open.spotify.com/artist/2Yy2Im8JOCPaECv2OgLKNy) | [Antithesis](https://open.spotify.com/album/5MgFuoNL6eV1jLiNOAA8iN) | 4:11 | 2022-07-21 | 2022-10-15 |
 | [TOYOTA](https://open.spotify.com/track/5N55suVRCcouaoIxKjNz6x) | [Qwellers](https://open.spotify.com/artist/6SGJkyMFu3E4RnOpPsMF0R) | [TOYOTA](https://open.spotify.com/album/7LggoxQ82Yqj7hLimHx3K1) | 3:15 | 2024-08-23 | 2025-03-08 |
-| [Track 4](https://open.spotify.com/track/5dJ60tQj97cP7VnrkrY5Wo) | [Touchline](https://open.spotify.com/artist/17GDrcknjyTyuxDbZ4kHlz) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-21 |  |
 | [Trapped](https://open.spotify.com/track/46KraCJv5TmDU6ukXxJPFT) | [Patty Monroe](https://open.spotify.com/artist/6P3y4aW1ODoascqxL48u7Y), [DeWun Music](https://open.spotify.com/artist/37vzk140rT50jJ6iF4QGoC) | [Perfect Timing](https://open.spotify.com/album/5nCr0uVuT8whS1wrM8QNo7) | 2:24 | 2022-01-20 | 2022-02-18 |
 | [TRAPSTARS \(feat\. Nadia Nakai\)](https://open.spotify.com/track/33Zgev6UEo8Ng7e1ZsC9ov) | [scumie](https://open.spotify.com/artist/1MS9NVxu3xtH95mRsi7g36), [Nadia Nakai](https://open.spotify.com/artist/4J1EvxzABwLaJP4NmOqV8r) | [066, Vol\. 3](https://open.spotify.com/album/6G8vk4pqS03gYEVmCXucZU) | 3:30 | 2025-08-29 |  |
 | [TROPHIES](https://open.spotify.com/track/31RMC4WZMsS4GVxfef4UXk) | [System the One](https://open.spotify.com/artist/5pKpVqb0Hoz84sJZySk8U8) | [TROPHIES](https://open.spotify.com/album/10UnsgPId2527WpW8EKGXe) | 3:00 | 2022-03-10 | 2022-03-18 |

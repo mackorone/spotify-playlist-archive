@@ -4,7 +4,7 @@
 
 > una guitarra y mucho sentimiento para cantar\. Macario Martínez en portada.
 
-241 songs - 15 hr 49 min
+244 songs - 15 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Después de ti](https://open.spotify.com/track/3oRybpqCtANfRBRZIejyEw) | [Flor de Jade](https://open.spotify.com/artist/1Up3GvbFaHKAiiF4pAm3wO) | [Volar](https://open.spotify.com/album/15eLCLTLTYIsL9zEbzapYB) | 4:01 | 2025-01-10 | 2025-05-31 |
 | [Diente de León](https://open.spotify.com/track/2gdBOt1AKjkoZyO7C3MUFy) | [Anthony Escandón](https://open.spotify.com/artist/2eaNtiW6LwYMhyGIxmJ90J) | [El Perro Feroz](https://open.spotify.com/album/7IZ6Ez4uj3Vo0WPQrrGXlp) | 2:20 | 2025-05-30 |  |
 | [Diez Pasos Hacia Ti](https://open.spotify.com/track/54KsfVVnN4YWI2mMrnyUcC) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Suspiros](https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK) | 3:29 | 2025-05-30 |  |
+| [Dime ¿Por Qué?](https://open.spotify.com/track/16UfWuXNzbmmfj84mn8v35) | [Zoe del Olmos](https://open.spotify.com/artist/6ILwU6BnrRLuM4VvNNQTVJ) | [Dime ¿Por Qué?](https://open.spotify.com/album/1pC2vRPPeUPe8HCBNlctOL) | 1:38 | 2025-11-21 |  |
 | [Disfruto](https://open.spotify.com/track/7FLGk1Pg1oHcNTZPlmATjP) | [Sindicato Del Ritmo](https://open.spotify.com/artist/5eCshP4zg9fMuQvc1LygXI), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Disfruto](https://open.spotify.com/album/5LwRgoZEtBPnI7Ovf18J1e) | 4:10 | 2024-10-11 | 2025-05-31 |
 | [Dolorosa](https://open.spotify.com/track/4YfNSSOFDQbyLWXMI8USc8) | [Ampersan](https://open.spotify.com/artist/5A7ayYKcSsydP31DqS4vQW) | [6 Conejo](https://open.spotify.com/album/2YDfEn3AZkhgqASEzHuX72) | 4:25 | 2022-04-20 | 2025-05-31 |
 | [El Amanecer](https://open.spotify.com/track/5DzsZOW1SSZ7PWkh0e2TQn) | [Son De Madera](https://open.spotify.com/artist/5IjDhtfKUReD5VeIeynKme) | [Son De Madera](https://open.spotify.com/album/7eyjUckkV8ZrnhCDmPWGnn) | 9:25 | 2022-03-04 | 2023-06-10 |
@@ -136,6 +137,7 @@
 | [Lágrimas Negras](https://open.spotify.com/track/0LBLCeMdb0LeV9ncVdZbwB) | [Las Hermanas García](https://open.spotify.com/artist/0zZ15pVG2nScs1mtFZ2wDc), [Reynier Limonta](https://open.spotify.com/artist/0pnPRBAqtesmL0XSl6neqy) | [Lágrimas Negras](https://open.spotify.com/album/3j7YBot19H5ochk5dHuwiQ) | 5:18 | 2022-03-04 | 2025-05-31 |
 | [Marchita](https://open.spotify.com/track/1ib007yU04BbbwTV1fkPTi) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/2c45X7DHudMAL9hec42DhL) | 3:46 | 2025-05-30 |  |
 | [Mariquita, María](https://open.spotify.com/track/19vFUwhgotqh80npE8xFKO) | [Tonana](https://open.spotify.com/artist/6174y8dXW0u3e5i5Y1xo9g) | [Tonana](https://open.spotify.com/album/5oCRFr4Jio2bFZoRfpRtD7) | 3:49 | 2022-03-04 | 2024-06-01 |
+| [MARQUEZA](https://open.spotify.com/track/0pBHeleLcx7F6IUiy2IXcs) | [El Styllson](https://open.spotify.com/artist/0Lvy3q43kLuzIA8wJfakgm) | [MARQUEZA](https://open.spotify.com/album/6qYdv2v2MSoJtomNgBifmG) | 2:51 | 2025-11-21 |  |
 | [María](https://open.spotify.com/track/18T2uIJteJ7o1W8XLFRpaN) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Café Tacvba](https://open.spotify.com/album/4nTUHZSed3ZiQjKs8f5Zbr) | 3:51 | 2025-05-30 |  |
 | [Mañana Sureña](https://open.spotify.com/track/5z5qmE6mS3PJ52Ld5psFhp) | [Los Aguas Aguas](https://open.spotify.com/artist/6MlrTBeZE2S1lUxSD6x8wG) | [Mañana Sureña](https://open.spotify.com/album/7EYn7eWr2kmXcXgE1zOLzS) | 4:51 | 2022-03-04 | 2025-05-31 |
 | [Me Levanté de la Cama](https://open.spotify.com/track/4V0aNgN7GJUTE59i7MvWnj) | [Arath Herce](https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs) | [Me Levanté de la Cama](https://open.spotify.com/album/1bn2Cjy3WmM0F3d6x37Bvc) | 3:02 | 2025-07-21 |  |
@@ -151,7 +153,7 @@
 | [Mis Muertos](https://open.spotify.com/track/7hHqwnpLHCILZxF9mmSSqI) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [La Enamorada](https://open.spotify.com/album/3unTf9Fint6gmlFkgA17em) | 2:21 | 2022-03-04 | 2023-07-07 |
 | [Montaña](https://open.spotify.com/track/1r8iML6ls8xP0WZ9megjNy) | [Making Movies](https://open.spotify.com/artist/1wFpAE8HCGoqaLjzRO51w9), [Las Cafeteras](https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz) | [Montaña](https://open.spotify.com/album/31eKdCWp9zet3WIDnsa4Ob) | 2:14 | 2022-03-04 | 2025-05-31 |
 | [Morena](https://open.spotify.com/track/6BGFzUmch7fHcZgtzLfoyS) | [Walter Esaú](https://open.spotify.com/artist/2BaF574aVsGeAtcUgrzeV5), [Las Nieves de Enero](https://open.spotify.com/artist/7wejxsQiQxb3EuqdG5XkYA) | [Morena](https://open.spotify.com/album/5Tf8Nc0Gngp8H4dPJLhbqR) | 4:22 | 2025-05-30 |  |
-| [Mujer Pájaro](https://open.spotify.com/track/64zazX8C4uCP4FJnpod2UD) | [Gabriela Alatorre](https://open.spotify.com/artist/5nx2QzX7iOhTv3L5eQOFG5) | [Mujer Pájaro](https://open.spotify.com/album/5Lz7BxP7iIjMRuSQdSqqVR) | 2:53 | 2025-08-18 |  |
+| [Mujer Pájaro](https://open.spotify.com/track/64zazX8C4uCP4FJnpod2UD) | [Gabriela Alatorre](https://open.spotify.com/artist/5nx2QzX7iOhTv3L5eQOFG5) | [Mujer Pájaro](https://open.spotify.com/album/5Lz7BxP7iIjMRuSQdSqqVR) | 2:53 | 2025-08-18 | 2025-11-22 |
 | [Mujeres](https://open.spotify.com/track/34bvJEceDRCHVQDyPd7sa2) | [Banda Femenil Regional "Mujeres del Viento Florido"](https://open.spotify.com/artist/1x4v8vs04mwdQwKy74mQBd) | [Mujeres](https://open.spotify.com/album/2umjf37Z9va9M5JSgEPR5V) | 3:15 | 2022-04-20 | 2025-05-31 |
 | [Mujeres](https://open.spotify.com/track/4dmZt98r9LvtuEAFIaV1x5) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Banda Filarmónica Tukyo’m ët xuxp de San Pedro y San Pablo Ayutla, Oaxaca](https://open.spotify.com/artist/33OkyAZ5fzcbQeqcZSHyGm) | [Julieta Venegas con la Banda Filarmónica Tukyo’m ët xuxp de San Pedro y San Pablo Ayutla, Oaxaca](https://open.spotify.com/album/6HvTbXLflRkGbFlsabDbv7) | 3:26 | 2022-03-04 | 2025-01-11 |
 | [Mundo Nuevo](https://open.spotify.com/track/5QmJ1Xlq9C5COqvsnhS1Jb) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Mundo Nuevo](https://open.spotify.com/album/6OmDRn61cZSaDwEgTkSlgG) | 3:21 | 2022-03-04 | 2025-05-31 |
@@ -216,6 +218,7 @@
 | [Te Guardo](https://open.spotify.com/track/5fGIyvtxYc7BiijDvqOFGN) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Primeras Canciones](https://open.spotify.com/album/0R07UR8xJxMDwx6PCvp4XT) | 3:21 | 2022-03-04 | 2025-05-31 |
 | [Te Mereces Un Amor](https://open.spotify.com/track/4BNzwsumpNIXB3t8boMsdD) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Te Mereces Un Amor](https://open.spotify.com/album/13BDfUfLPGTsDVP8Yue8nl) | 3:46 | 2023-03-03 | 2025-05-31 |
 | [Te Regalo](https://open.spotify.com/track/4brw4anhV4og38Rv6o1dBa) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Amor Supremo \(Desnudo\)](https://open.spotify.com/album/3ChFP3YQevhl7lbTBtO0Yz) | 4:02 | 2025-05-30 |  |
+| [Te Volví a Soñar](https://open.spotify.com/track/0Gb5nrMH23fSpK2aKlCAt4) | [Daphne Michelle](https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8) | [Te Volví a Soñar](https://open.spotify.com/album/5WoM0K8PODAHa8eYCsbrlv) | 3:31 | 2025-11-21 |  |
 | [Ten Piedad](https://open.spotify.com/track/10fqqFfUrTBEU30hKOzPsf) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Ten Piedad](https://open.spotify.com/album/3kQDJHv4VVNoQkTBzwlQPK) | 4:17 | 2025-11-07 |  |
 | [Terraformar](https://open.spotify.com/track/4ZDdMGTlSgm7ATgbx4pZlP) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [Terraformar](https://open.spotify.com/album/3CT4nIVAbLmPqCK3LtFMzK) | 2:20 | 2025-05-30 |  |
 | [TIENES QUE ENTENDER](https://open.spotify.com/track/7KRHqiqqXru6uNC9Z63rFX) | [Andrés Zavala](https://open.spotify.com/artist/2eU9yUF9QzF2V35XmWbgs2) | [TIENES QUE ENTENDER](https://open.spotify.com/album/4SIaxOd1X4CyPCEPQKtuUb) | 2:51 | 2025-11-14 |  |

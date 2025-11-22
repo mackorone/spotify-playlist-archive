@@ -16965,24 +16965,6 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Papillon",
-          "url": "https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d"
-        }
-      ],
-      "date_added": "2025-11-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/6gJF4kTu4cQDklJMnd0ZkQ"
-    },
-    {
-      "album": {
         "name": "Entrelinhas",
         "url": "https://open.spotify.com/album/4qzAJABWAoSIy6LoAebV1u"
       },
@@ -18424,6 +18406,28 @@
       "duration_ms": 234284,
       "name": "\u00a1 +1 !",
       "url": "https://open.spotify.com/track/2Cq4FdClz7hIm4uJ25ziHA"
+    },
+    {
+      "album": {
+        "name": "WONDER",
+        "url": "https://open.spotify.com/album/4euL5ozDT7eXHQuZ7EU6Tb"
+      },
+      "artists": [
+        {
+          "name": "Papillon",
+          "url": "https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d"
+        },
+        {
+          "name": "Carla Prata",
+          "url": "https://open.spotify.com/artist/7vWp4MLdsECG1Dmu5NDLRS"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193601,
+      "name": "\u00a1 S\u00d3 N\u00d3S ! (feat. Carla Prata)",
+      "url": "https://open.spotify.com/track/6gJF4kTu4cQDklJMnd0ZkQ"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: URBOYTJ",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: YOUNGOHM",
   "name": "\u0e2e\u0e34\u0e15\u0e15\u0e34\u0e14\u0e01\u0e23\u0e30\u0e41\u0e2a",
   "tracks": [
     {
@@ -536,8 +536,8 @@
           "url": "https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx"
         },
         {
-          "name": "URBOYTJ",
-          "url": "https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg"
+          "name": "\u0e17\u0e35\u0e40\u0e08",
+          "url": "https://open.spotify.com/artist/0B4M6iDo7cLiYGDTRsOEDp"
         }
       ],
       "date_added": "2024-08-02",
@@ -2791,6 +2791,24 @@
     },
     {
       "album": {
+        "name": "Red Giant",
+        "url": "https://open.spotify.com/album/3yvqjiQB5C1a7ML1XCCMpr"
+      },
+      "artists": [
+        {
+          "name": "Jeff Satur",
+          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143584,
+      "name": "Passion Fruit",
+      "url": "https://open.spotify.com/track/0gnWHXfhwbQ7hehZe76nwt"
+    },
+    {
+      "album": {
         "name": "Perfect",
         "url": "https://open.spotify.com/album/5p3Jnt2oeoYnBsiGB3Nouq"
       },
@@ -4366,7 +4384,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 252777,
       "name": "WHAT IF",
       "url": "https://open.spotify.com/track/2bnhi8PyiGiAMuaETsM3Ye"
@@ -5211,6 +5229,32 @@
     },
     {
       "album": {
+        "name": "\u0e04\u0e19\u0e2a\u0e27\u0e22",
+        "url": "https://open.spotify.com/album/1F0MzFFKNZXVtI4I1gFXqH"
+      },
+      "artists": [
+        {
+          "name": "BETAYOURBITCH",
+          "url": "https://open.spotify.com/artist/2xoedC37KSMtbCYLd1PVLc"
+        },
+        {
+          "name": "N0RMA1",
+          "url": "https://open.spotify.com/artist/4JSLcITtMXeF5drdVO3f1b"
+        },
+        {
+          "name": "BARON",
+          "url": "https://open.spotify.com/artist/1Tf1lWGHooWhKhn6bwbMZv"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200418,
+      "name": "\u0e04\u0e19\u0e2a\u0e27\u0e22",
+      "url": "https://open.spotify.com/track/4I0F3ItogIEpgH9qbjCiQz"
+    },
+    {
+      "album": {
         "name": "\u0e04\u0e19\u0e40\u0e14\u0e35\u0e22\u0e27\u0e1a\u0e19\u0e42\u0e25\u0e01(U)",
         "url": "https://open.spotify.com/album/2wmjvtFbwS4sWKuSYqnJqN"
       },
@@ -5244,6 +5288,24 @@
       "duration_ms": 219677,
       "name": "\u0e04\u0e19\u0e42\u0e1b\u0e23\u0e14 (Close Friend)",
       "url": "https://open.spotify.com/track/28o3xMVVQgHe0QS3BSy75N"
+    },
+    {
+      "album": {
+        "name": "\u0e04\u0e23\u0e36\u0e48\u0e07\u0e41\u0e23\u0e01 (halftime)",
+        "url": "https://open.spotify.com/album/2BoxbOFfft1eBL6o8wvRuS"
+      },
+      "artists": [
+        {
+          "name": "YEW",
+          "url": "https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272500,
+      "name": "\u0e04\u0e23\u0e36\u0e48\u0e07\u0e41\u0e23\u0e01 (halftime)",
+      "url": "https://open.spotify.com/track/4UMNbuTXjoAB1uy4yltoDa"
     },
     {
       "album": {
@@ -5360,7 +5422,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 280573,
       "name": "\u0e04\u0e27\u0e32\u0e21\u0e17\u0e23\u0e07\u0e08\u0e33\u0e17\u0e35\u0e48\u0e41\u0e2a\u0e19\u0e14\u0e35 (Afterglow)",
       "url": "https://open.spotify.com/track/1at4Ge78paOwskzpaMlTHN"
@@ -5546,6 +5608,28 @@
       "duration_ms": 227007,
       "name": "\u0e04\u0e37\u0e19\u0e17\u0e35\u0e48\u0e2b\u0e21\u0e32\u0e40\u0e15\u0e47\u0e21\u0e27\u0e31\u0e14 (Temple Dogs)",
       "url": "https://open.spotify.com/track/34QnIuCJZiweBUdo8d3t31"
+    },
+    {
+      "album": {
+        "name": "\u0e04\u0e38\u0e13\u0e19\u0e32\u0e22\u0e15\u0e37\u0e48\u0e19\u0e2a\u0e32\u0e22 (Wake Up Please)",
+        "url": "https://open.spotify.com/album/1QHlh4K6dLYQPfc84N1hpv"
+      },
+      "artists": [
+        {
+          "name": "TEMI",
+          "url": "https://open.spotify.com/artist/0VDH8FrhpCC1DwVqiGPTGn"
+        },
+        {
+          "name": "KiRANA",
+          "url": "https://open.spotify.com/artist/06EAeUIbwthjzCwW1MRJTC"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251764,
+      "name": "\u0e04\u0e38\u0e13\u0e19\u0e32\u0e22\u0e15\u0e37\u0e48\u0e19\u0e2a\u0e32\u0e22 (Wake Up Please)",
+      "url": "https://open.spotify.com/track/1OTRdsfrVZRUCktBiEBYmb"
     },
     {
       "album": {
@@ -6769,6 +6853,28 @@
     },
     {
       "album": {
+        "name": "\u0e17\u0e38\u0e01\u0e19\u0e32\u0e17\u0e35 (THEM JEANS) (feat. SEXSKI)",
+        "url": "https://open.spotify.com/album/5PvGwuwLGp6gP7ZW2rhASv"
+      },
+      "artists": [
+        {
+          "name": "Jaonaay",
+          "url": "https://open.spotify.com/artist/6biI2KAsW3nrI8xzSwwxuo"
+        },
+        {
+          "name": "Sexski",
+          "url": "https://open.spotify.com/artist/6QeYcD1n2YcWygCScfLhRE"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "\u0e17\u0e38\u0e01\u0e19\u0e32\u0e17\u0e35 (THEM JEANS) (feat. SEXSKI)",
+      "url": "https://open.spotify.com/track/4AzMtkdCyozL3fMoeTor6X"
+    },
+    {
+      "album": {
         "name": "\u0e17\u0e38\u0e01\u0e27\u0e31\u0e19\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e40\u0e14\u0e34\u0e21",
         "url": "https://open.spotify.com/album/3u1yAY03tT0NgH6eXJX6NJ"
       },
@@ -7289,6 +7395,28 @@
     },
     {
       "album": {
+        "name": "\u0e1d\u0e32\u0e01\u0e44\u0e27\u0e49\u0e43\u0e2b\u0e49 Kiss (feat. BLVCKHEART)",
+        "url": "https://open.spotify.com/album/47Ym1CxnLXUN40au3otFsv"
+      },
+      "artists": [
+        {
+          "name": "JayQ",
+          "url": "https://open.spotify.com/artist/5SLXYrzObBv7IrLzo4I4S6"
+        },
+        {
+          "name": "BLVCKHEART",
+          "url": "https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "\u0e1d\u0e32\u0e01\u0e44\u0e27\u0e49\u0e43\u0e2b\u0e49 Kiss (feat. BLVCKHEART)",
+      "url": "https://open.spotify.com/track/4psph4gNDqUnGvBSq6UwwE"
+    },
+    {
+      "album": {
         "name": "\u0e1e\u0e1a\u0e23\u0e31\u0e01",
         "url": "https://open.spotify.com/album/3C1L1CgjEjjHoyAPZwePgs"
       },
@@ -7682,7 +7810,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 265468,
       "name": "\u0e22\u0e31\u0e07\u0e23\u0e31\u0e01\u0e2d\u0e22\u0e39\u0e48\u0e44\u0e2b\u0e21 (Stars.)",
       "url": "https://open.spotify.com/track/19yPX0xMXRbRVgtGc2MO1l"
@@ -7870,7 +7998,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 282666,
       "name": "\u0e23\u0e2a\u0e0a\u0e32\u0e15\u0e34\u0e0a\u0e35\u0e27\u0e34\u0e15",
       "url": "https://open.spotify.com/track/3S16LqUZZibsrTeG59kH4M"
@@ -9084,7 +9212,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 144000,
       "name": "\u0e2d\u0e22\u0e32\u0e01\u0e08\u0e30\u0e21\u0e35\u0e40\u0e18\u0e2d\u0e02\u0e49\u0e32\u0e07\u0e01\u0e32\u0e22 (I Told My Father)",
       "url": "https://open.spotify.com/track/6C0O21H2MXs0jKJrajBGa6"
@@ -9518,7 +9646,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 277533,
       "name": "\u0e40\u0e15\u0e34\u0e1a\u0e42\u0e15\u0e42\u0e14\u0e22\u0e44\u0e21\u0e48\u0e21\u0e35\u0e09\u0e31\u0e19 - End Of My Turn",
       "url": "https://open.spotify.com/track/6qokdF2ulHUVKntPfgKDsu"

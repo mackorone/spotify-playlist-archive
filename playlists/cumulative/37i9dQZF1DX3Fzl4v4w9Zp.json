@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Where roots meet what\u2019s next. Cover: Mavis Staples",
+  "description": "Where roots meet what\u2019s next. Cover: Foy Vance",
   "name": "The Pulse of Americana",
   "tracks": [
     {
@@ -1122,7 +1122,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 248831,
       "name": "Baby Blue",
       "url": "https://open.spotify.com/track/6sthHfwGUlwXAKY4pHUk6U"
@@ -1336,7 +1336,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 215020,
       "name": "Before It Gets Better",
       "url": "https://open.spotify.com/track/3V0zkS0BEI3I0hTSpHfZGe"
@@ -1990,7 +1990,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 198346,
       "name": "Bright Eyed Baby",
       "url": "https://open.spotify.com/track/1dukOLnsSKwq2Msa96BWqv"
@@ -4650,7 +4650,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 272173,
       "name": "Fast Asleep",
       "url": "https://open.spotify.com/track/5s8DrAoxwPB846boyVOKHS"
@@ -5362,7 +5362,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 221691,
       "name": "Get Still",
       "url": "https://open.spotify.com/track/64GHNSEKQWkNSWwopZh5nN"
@@ -7437,6 +7437,24 @@
     },
     {
       "album": {
+        "name": "I Think I Preferred The Question",
+        "url": "https://open.spotify.com/album/1ytjCPL1vCDlvmSbpcMKPE"
+      },
+      "artists": [
+        {
+          "name": "Foy Vance",
+          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271318,
+      "name": "I Think I Preferred The Question",
+      "url": "https://open.spotify.com/track/3x5y20gf4hrQ1gHS3KrWns"
+    },
+    {
+      "album": {
         "name": "I Was Born To Love You",
         "url": "https://open.spotify.com/album/7cwHkTgTHLbCUFB6hRi9QQ"
       },
@@ -7760,7 +7778,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 286634,
       "name": "Indigo (feat. Avery Anna)",
       "url": "https://open.spotify.com/track/1KZG1H1OCugGqIRmk1wF9m"
@@ -8732,7 +8750,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 182482,
       "name": "Lonesome Drifter",
       "url": "https://open.spotify.com/track/7IuilBb5xXErrNIZEeaqID"
@@ -9224,6 +9242,24 @@
       "duration_ms": 248706,
       "name": "Mean Old Sun",
       "url": "https://open.spotify.com/track/4kXeBpZekIq5f6I6hFcNk5"
+    },
+    {
+      "album": {
+        "name": "All Things Light",
+        "url": "https://open.spotify.com/album/1180SVDM99jmx4fv4MZ6Kp"
+      },
+      "artists": [
+        {
+          "name": "Cam",
+          "url": "https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102000,
+      "name": "Meet You By The River",
+      "url": "https://open.spotify.com/track/2g18ELBhnxmRwPCVR2bi3m"
     },
     {
       "album": {
@@ -11618,7 +11654,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 203600,
       "name": "Red Yellow Indigo",
       "url": "https://open.spotify.com/track/5XgQ21xtJTyudYlHz24WpD"
@@ -11636,7 +11672,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 225300,
       "name": "Regular Man",
       "url": "https://open.spotify.com/track/3r3RO2AcFG9SyJ2gfUfyxz"
@@ -13790,7 +13826,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 202758,
       "name": "Sunset Drive",
       "url": "https://open.spotify.com/track/6ymEMVdD3IIpFdbJ1uhMiZ"
@@ -15448,7 +15484,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 220608,
       "name": "Too Stoned To Cry [Feat. Billy Strings]",
       "url": "https://open.spotify.com/track/1PcMQHHrQCNgGwEXB4QIQj"
@@ -15710,7 +15746,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 203689,
       "name": "Up All Night (with The Lumineers & Noah Kahan)",
       "url": "https://open.spotify.com/track/4fZ07aBMo69QTEKo4OC4Dz"
@@ -16108,7 +16144,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 238632,
       "name": "What We Had",
       "url": "https://open.spotify.com/track/3HptZiwapNwyNVGyb9pt4u"
@@ -16260,6 +16296,24 @@
       "duration_ms": 172800,
       "name": "WHERE WE ARE",
       "url": "https://open.spotify.com/track/7l987hjMH9FBNXBE93Hrs7"
+    },
+    {
+      "album": {
+        "name": "Where You Call Home",
+        "url": "https://open.spotify.com/album/4KFSY7pXHXNemIER8APniU"
+      },
+      "artists": [
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222422,
+      "name": "Where You Call Home",
+      "url": "https://open.spotify.com/track/7niP3sWsDhuiIx4nxeeMGW"
     },
     {
       "album": {
@@ -17010,7 +17064,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-22",
       "duration_ms": 253601,
       "name": "You Found Me",
       "url": "https://open.spotify.com/track/7Jyt9tIVvp3hB0HPFfMA6P"
@@ -17130,6 +17184,24 @@
       "duration_ms": 290584,
       "name": "You Never Know",
       "url": "https://open.spotify.com/track/3BOU0eJQjfmhbZsQ76OJi9"
+    },
+    {
+      "album": {
+        "name": "You Were Leaving",
+        "url": "https://open.spotify.com/album/45lhU3cV60r3J7BgmLupMu"
+      },
+      "artists": [
+        {
+          "name": "The Lone Bellow",
+          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270832,
+      "name": "You Were Leaving",
+      "url": "https://open.spotify.com/track/1P0oNMYScIjRlEl7fP47lO"
     },
     {
       "album": {

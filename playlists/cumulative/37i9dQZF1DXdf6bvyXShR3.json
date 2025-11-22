@@ -23,6 +23,28 @@
     },
     {
       "album": {
+        "name": "96H",
+        "url": "https://open.spotify.com/album/7dC3SjLTLDqMMRHvIMZPFP"
+      },
+      "artists": [
+        {
+          "name": "Sebjak",
+          "url": "https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA"
+        },
+        {
+          "name": "Layer J",
+          "url": "https://open.spotify.com/artist/48KALXBf9Ookq2j30lSKBf"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224799,
+      "name": "96H",
+      "url": "https://open.spotify.com/track/4qQI3AkMG2C3PJinxzAKwX"
+    },
+    {
+      "album": {
         "name": "A Habit I Can't Break (Reznik & Mikesh Remix)",
         "url": "https://open.spotify.com/album/5xz5gDX0ATCcx637oBrpMk"
       },

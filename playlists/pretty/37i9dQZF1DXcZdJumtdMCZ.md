@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZdJumtdMCZ.md) - [plain]
 
 > Best of Tamil Hip\-Hop!<br/>Cover : Ratty Adhiththan and King Mohan
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,004 likes - 75 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,003 likes - 75 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZdJumtdMCZ.md) - [plain]
 | 9 | [Phone Na Hello](https://open.spotify.com/track/7kqNJswXZELtnqz0cszKnn) | [San T](https://open.spotify.com/artist/6ATsGtHUNuw82AxZC3I8Bb), [Vangal Pulla Vicky](https://open.spotify.com/artist/5eJHTflIBLyKN3EvU1rDAu), [Sabesh Solomon](https://open.spotify.com/artist/3gc2jTAiiHwOkb8SuGuvxB), [Urban Thozha](https://open.spotify.com/artist/3Dp5dANamboswrpWcetBRX), [KK Nagar Gana Jeeva](https://open.spotify.com/artist/1cUDO71ZRpdJdV6zwSGwyO) | [Phone Na Hello](https://open.spotify.com/album/03gaec2o73uwaZA7iTSJS0) | 3:23 |
 | 10 | [ATOM](https://open.spotify.com/track/2oGN7VRt86jpbXw1F04lXU) | [AathiRaja](https://open.spotify.com/artist/09YaD1pWXZ7NqU8yWdHBsE), [Xwrld](https://open.spotify.com/artist/4j8qTveVETBkm23uFjJv5f) | [ATOM](https://open.spotify.com/album/52z0wrTgxBrD4agu7ymHc0) | 3:08 |
 | 11 | [Ko Ko Ko Parra Parra](https://open.spotify.com/track/3Le4Qgt5qoFPFe3MIW0la7) | [Martin Jazz](https://open.spotify.com/artist/2tJOTx0kM4NyC4IY8xO9Cu), [Vangal Pulla Vicky](https://open.spotify.com/artist/5eJHTflIBLyKN3EvU1rDAu) | [Ko Ko Ko Parra Parra](https://open.spotify.com/album/7nRydU5biCtgcPnTIKACXu) | 2:35 |
-| 12 | [BOI BOI](https://open.spotify.com/track/5Es67A57T1cVoR8fMkF6Xz) | [C Girinandh](https://open.spotify.com/artist/6CfIPVSMmiQNBt5yLt2t2I), [Devoid](https://open.spotify.com/artist/6HkBjDvmlLiDtDKBlTgiyO) | [BOI BOI](https://open.spotify.com/album/19N08qI6NHFDlFjF9gZgtF) | 2:23 |
+| 12 | [BOI BOI](https://open.spotify.com/track/5Es67A57T1cVoR8fMkF6Xz) | [C\. Girinandh](https://open.spotify.com/artist/6NluP6WMPNtEAYT1KGJT4L), [Devoid](https://open.spotify.com/artist/6HkBjDvmlLiDtDKBlTgiyO) | [BOI BOI](https://open.spotify.com/album/19N08qI6NHFDlFjF9gZgtF) | 2:23 |
 | 13 | [Global Tamilan Freestyle](https://open.spotify.com/track/7ilIGxCaYa0zT6TvVrQojv) | [Yung Raja](https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm) | [Global Tamilan Freestyle](https://open.spotify.com/album/0NI3zrixFJD4ePFIztY4P1) | 2:28 |
 | 14 | [NK](https://open.spotify.com/track/2pYul2HnwAZLgjRD0rmtJS) | [San T](https://open.spotify.com/artist/6ATsGtHUNuw82AxZC3I8Bb), [Rx](https://open.spotify.com/artist/7GW6TXNoQdvoFcN9FzfpfS) | [NK](https://open.spotify.com/album/4scyHm1YEzMKZZuMMaswdG) | 2:20 |
 | 15 | [En Seethai \- From "Think Indie"](https://open.spotify.com/track/4YhaVwyQwgLeQ8n1guCqM4) | [Paal Dabba](https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx), [foxn](https://open.spotify.com/artist/2dbBX8wPRhL660FxN7MIDv) | [En Seethai \(From "Think Indie"\)](https://open.spotify.com/album/56mtzq9LbNDe3XxyJxdJ6K) | 2:38 |
