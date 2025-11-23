@@ -1,4 +1,4 @@
-## Playlists \(9007\)
+## Playlists \(9008\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -1513,6 +1513,7 @@
 - [Comme au cinéma](/playlists/pretty/37i9dQZF1DX7ym1547AToj.md)
 - [Common Thread](/playlists/pretty/37i9dQZF1DX0yr14c1UH4B.md)
 - [Commuter Flow \(That Fire For Your Aux Cord\)](/playlists/pretty/5wPUMOWXlhmk9XmGO4RtKz.md)
+- [Compact Cassette](/playlists/pretty/6c6Ra1iI1JjhADV2gnT7p6.md)
 - [Compelling Chats with Bill Simmons](/playlists/pretty/37i9dQZF1DX5WvunxF0tu8.md)
 - [Complete Chaos](/playlists/pretty/37i9dQZF1DX1fmyMdW2PaL.md)
 - [Composer Weekly: Michael Nyman](/playlists/pretty/37i9dQZF1DX21bRPJuEN7r.md)
