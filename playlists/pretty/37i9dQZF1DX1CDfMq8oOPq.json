@@ -1,6 +1,6 @@
 {
   "description": "as g\u00eameas com uma enxurrada de refs e quem tem d\u00f3 \u00e9 cavaco",
-  "num_followers": 86550,
+  "num_followers": 86814,
   "original_name": "Baby Hair",
   "owner": {
     "name": "Spotify",
@@ -803,6 +803,22 @@
     {
       "added_at": "2025-11-21 16:22:01",
       "album": {
+        "name": "MARATONA",
+        "url": "https://open.spotify.com/album/3A98RRNj00NIeRUntXpLjs"
+      },
+      "artists": [
+        {
+          "name": "Mylena Drague",
+          "url": "https://open.spotify.com/artist/1ODMXHrfQ2k5trZl4HqM4d"
+        }
+      ],
+      "duration_ms": 202857,
+      "name": "MARATONA",
+      "url": "https://open.spotify.com/track/4oxdf2bMjwRznsD9qR3OS2"
+    },
+    {
+      "added_at": "2025-11-21 16:22:01",
+      "album": {
         "name": "Descarga",
         "url": "https://open.spotify.com/album/2uBGG3T9SmhNDfpyenSnyx"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 183529,
       "name": "Descarga",
       "url": "https://open.spotify.com/track/75qF622p0zgMNIovwLPI5M"
-    },
-    {
-      "added_at": "2025-11-21 16:22:01",
-      "album": {
-        "name": "MARATONA",
-        "url": "https://open.spotify.com/album/3A98RRNj00NIeRUntXpLjs"
-      },
-      "artists": [
-        {
-          "name": "Mylena Drague",
-          "url": "https://open.spotify.com/artist/1ODMXHrfQ2k5trZl4HqM4d"
-        }
-      ],
-      "duration_ms": 202857,
-      "name": "MARATONA",
-      "url": "https://open.spotify.com/track/4oxdf2bMjwRznsD9qR3OS2"
     },
     {
       "added_at": "2025-11-21 16:22:01",

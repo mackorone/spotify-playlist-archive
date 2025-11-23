@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0J2sZQ1dV6f.md) - [plain]
 
 > Bien alucin con el electro, la nueva ola de la fiesta\. Cover: Oswaldo\_NR, Jorge Duran, Marcos Villalobos
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,794 likes - 102 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,818 likes - 102 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [CENICIENTA](https://open.spotify.com/track/7xuyjnOPrQI84mcB6G8wAZ) | [Oswaldo\_NR](https://open.spotify.com/artist/1n3pTG4kkZiuepmOINVStx), [Jorge Duran](https://open.spotify.com/artist/2XXSbBwBqQDSAY9aBtomPx), [Marcos Villalobos](https://open.spotify.com/artist/79BK7vrzlQtgNnCHvZ7aYi) | [CENICIENTA](https://open.spotify.com/album/5YftnH3ek4Q7ZbmdKdJONQ) | 3:01 |
+| 1 | [CENICIENTA](https://open.spotify.com/track/7xuyjnOPrQI84mcB6G8wAZ) | [Oswaldo\_NR](https://open.spotify.com/artist/1n3pTG4kkZiuepmOINVStx), [Jorge Duran C](https://open.spotify.com/artist/3g3A0QVWCfSiby8NxjuZ1N), [Marcos Villalobos](https://open.spotify.com/artist/79BK7vrzlQtgNnCHvZ7aYi) | [CENICIENTA](https://open.spotify.com/album/5YftnH3ek4Q7ZbmdKdJONQ) | 3:01 |
 | 2 | [El Pika \(SLS\-006\)](https://open.spotify.com/track/2Lu85SpFjDgrxMlbBafezb) | [Sheeno](https://open.spotify.com/artist/6f6NTISF0XjjlUxEmdXizO), [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu) | [El Pika \(SLS\-006\)](https://open.spotify.com/album/4uXRFEZx0IfvCyl8VXA9lk) | 2:29 |
 | 3 | [Ramo Buchón](https://open.spotify.com/track/2ZnLqrPjiN6Y9MAdPgauLX) | [Esau Ortiz](https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ) | [Discontrol](https://open.spotify.com/album/3qQJdKeqMz3JjhWXH3S9Fx) | 2:35 |
 | 4 | [El Tomate](https://open.spotify.com/track/3ZpMX9D7h8racm8EJiE5dw) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [El Tomate](https://open.spotify.com/album/31ADV8Q4Xn6eqxaB6l4I1f) | 4:19 |

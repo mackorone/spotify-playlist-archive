@@ -4,7 +4,7 @@
 
 > 'Tis the season! All new holiday releases\. Cover: Meghan Trainor
 
-1,024 songs - 2 day 6 hr 43 min
+1,024 songs - 2 day 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -815,7 +815,7 @@
 | [Snow Globe](https://open.spotify.com/track/31o1R5UwiH5w1xcB5y4fXY) | [Pistol Annies](https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny) | [Hell of a Holiday](https://open.spotify.com/album/0xsa9tFddApdX5wlHtKROP) | 3:03 | 2021-12-24 | 2022-09-28 |
 | [snow globe on an alien's desk](https://open.spotify.com/track/6mMnpEBAhOovSKHVSc34V2) | [Juliet Ivy](https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3) | [snow globe on an alien's desk](https://open.spotify.com/album/2mVWhUdGshgfvKau9tBAbx) | 2:58 | 2024-12-06 | 2025-09-27 |
 | [Snow in LA](https://open.spotify.com/track/45U9s9fNLj4hCShYaHmr98) | [PJ Harding](https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Snow in LA](https://open.spotify.com/album/6hIOoYqKSj7mkiKrGmjOZ5) | 3:49 | 2022-11-18 | 2023-10-04 |
-| [Snow Is Covering The Mountain](https://open.spotify.com/track/5LoGNsKdrVrmKD6atS2yDH) | [Roxane](https://open.spotify.com/artist/5Gr80iuuvY4PmSLDoIx4WD) | [Snow Is Covering The Mountain](https://open.spotify.com/album/4IROKzK0gUxZRm3oSDffaZ) | 4:18 | 2025-11-14 |  |
+| [Snow Is Covering The Mountain](https://open.spotify.com/track/5LoGNsKdrVrmKD6atS2yDH) | [Roxane](https://open.spotify.com/artist/5Gr80iuuvY4PmSLDoIx4WD) | [Snow Is Covering The Mountain](https://open.spotify.com/album/4IROKzK0gUxZRm3oSDffaZ) | 4:12 | 2025-11-14 |  |
 | [Snow Is Falling in Manhattan](https://open.spotify.com/track/5nAvTQNqBnpE0NBir3Q0Q5) | [Dean & Britta](https://open.spotify.com/artist/1i8jM74ElAevHmCU1sbNJM), [Sonic Boom](https://open.spotify.com/artist/4lBmxg4Z1e9NTDD05a2mhI), [Dean Wareham](https://open.spotify.com/artist/7hR1nc352bF29oLx9nAMuj), [Britta Phillips](https://open.spotify.com/artist/0IA38jACu3c1SNAJ7Aeu4t) | [Snow Is Falling in Manhattan](https://open.spotify.com/album/5ibu0qbv9nV87yn8Np9qoS) | 5:37 | 2024-11-04 | 2025-09-27 |
 | [Snowglobe](https://open.spotify.com/track/3AKPNCpA0hJEVIxsoHUkwx) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Snowglobe](https://open.spotify.com/album/6gIKX3AkOW6v7wP9BqmI7s) | 3:03 | 2023-11-17 | 2024-10-19 |
 | [snowing in LA](https://open.spotify.com/track/1ujM4gbsiDPI8k5OuonGEm) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [snowing in LA](https://open.spotify.com/album/7wt62btSDJy8lA4FGfO2Uy) | 3:25 | 2021-12-24 | 2022-09-28 |

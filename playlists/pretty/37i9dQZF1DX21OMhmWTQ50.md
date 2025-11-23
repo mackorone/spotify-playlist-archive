@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21OMhmWTQ50.md) - [plain]
 
 > Gentle festive piano music to keep you focused this holiday season☕️✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 838 likes - 55 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 907 likes - 55 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21OMhmWTQ50.md) - [plain]
 | 54 | [Somewhere In My Memory \- from 'Home Alone'](https://open.spotify.com/track/2th9BQmL3NcYwSwtj8aan7) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Cozy Winter](https://open.spotify.com/album/7cTitLE9bGWbvhczWrNgF7) | 3:04 |
 | 55 | [Driving Home for Christmas](https://open.spotify.com/track/5AOxcIbAt8YbNk2Y1HGPaY) | [Saint Swithun](https://open.spotify.com/artist/24skfwQl61Uz1Alg6J7A4Z) | [Driving Home for Christmas](https://open.spotify.com/album/25uhApTUFy999s8qPyFX6f) | 3:00 |
 
-Snapshot ID: `AAAAADWq1I0eM8Ql4Ns3ZLKb64bsQu8k`
+Snapshot ID: `AAAAABiDgeV/BtTKd1PVs+WLSRfy7kjV`

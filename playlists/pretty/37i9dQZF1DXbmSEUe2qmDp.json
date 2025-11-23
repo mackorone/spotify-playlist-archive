@@ -1,6 +1,6 @@
 {
   "description": "Conhe\u00e7a as novas vozes da m\u00fasica sertaneja! Foto: Matheus Vargas",
-  "num_followers": 481203,
+  "num_followers": 481273,
   "original_name": "Gera\u00e7\u00e3o Sertaneja",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,6 @@
     {
       "added_at": "2025-10-25 00:48:16",
       "album": {
-        "name": "Susto",
-        "url": "https://open.spotify.com/album/6IQRO6htZ5FOIDQxLbvvZ0"
-      },
-      "artists": [
-        {
-          "name": "Cleber & Henrique",
-          "url": "https://open.spotify.com/artist/7z48B4UbsaRaEfsRKgqDJk"
-        }
-      ],
-      "duration_ms": 190513,
-      "name": "Susto",
-      "url": "https://open.spotify.com/track/7oExhzbEWDadIbOekXZmKB"
-    },
-    {
-      "added_at": "2025-10-25 00:48:16",
-      "album": {
         "name": "Sentimento Esquisito (Ao Vivo)",
         "url": "https://open.spotify.com/album/67PxrfpS60IGoALhgMwvuk"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 175241,
       "name": "Sentimento Esquisito - Ao Vivo",
       "url": "https://open.spotify.com/track/2zF1pIYKtXLK1WX0rVN5OB"
+    },
+    {
+      "added_at": "2025-10-25 00:48:16",
+      "album": {
+        "name": "Susto",
+        "url": "https://open.spotify.com/album/6IQRO6htZ5FOIDQxLbvvZ0"
+      },
+      "artists": [
+        {
+          "name": "Cleber & Henrique",
+          "url": "https://open.spotify.com/artist/7z48B4UbsaRaEfsRKgqDJk"
+        }
+      ],
+      "duration_ms": 190513,
+      "name": "Susto",
+      "url": "https://open.spotify.com/track/7oExhzbEWDadIbOekXZmKB"
     },
     {
       "added_at": "2025-10-25 00:48:16",
@@ -299,6 +299,22 @@
     {
       "added_at": "2025-10-25 00:48:16",
       "album": {
+        "name": "Ao Vivo em Campo Grande, EP. 1",
+        "url": "https://open.spotify.com/album/7o378e3AwijB3VGyZGQjUt"
+      },
+      "artists": [
+        {
+          "name": "Thiago & Graciano",
+          "url": "https://open.spotify.com/artist/0ECZ1gcdRnPXN4Bf1P8odD"
+        }
+      ],
+      "duration_ms": 145900,
+      "name": "Vivendo Errado - Ao Vivo",
+      "url": "https://open.spotify.com/track/5iTgiuRBUHkhqoNUcRxMOX"
+    },
+    {
+      "added_at": "2025-10-25 00:48:16",
+      "album": {
         "name": "Pernoite (Ao Vivo)",
         "url": "https://open.spotify.com/album/23Y3OOrhanr45POrAGCSAy"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 189631,
       "name": "Pernoite - Ao Vivo",
       "url": "https://open.spotify.com/track/7aLbcAZmHuAts06Kvuh86J"
-    },
-    {
-      "added_at": "2025-10-25 00:48:16",
-      "album": {
-        "name": "Ao Vivo em Campo Grande, EP. 1",
-        "url": "https://open.spotify.com/album/7o378e3AwijB3VGyZGQjUt"
-      },
-      "artists": [
-        {
-          "name": "Thiago & Graciano",
-          "url": "https://open.spotify.com/artist/0ECZ1gcdRnPXN4Bf1P8odD"
-        }
-      ],
-      "duration_ms": 145900,
-      "name": "Vivendo Errado - Ao Vivo",
-      "url": "https://open.spotify.com/track/5iTgiuRBUHkhqoNUcRxMOX"
     },
     {
       "added_at": "2025-10-25 00:48:16",
@@ -591,6 +591,26 @@
     {
       "added_at": "2025-10-25 00:48:16",
       "album": {
+        "name": "Sorriso De Desespero (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6rTOrVUEmXAGwiDTUJO9qC"
+      },
+      "artists": [
+        {
+          "name": "Arielly Dara",
+          "url": "https://open.spotify.com/artist/1lfMHE6e3gIrEvzUeLGUD7"
+        },
+        {
+          "name": "Cristinas",
+          "url": "https://open.spotify.com/artist/7DmKgIhj9hUClv6a1iF4Q3"
+        }
+      ],
+      "duration_ms": 180223,
+      "name": "Sorriso De Desespero - Ao Vivo",
+      "url": "https://open.spotify.com/track/0j8E4O6qwcpIWIVy4Med76"
+    },
+    {
+      "added_at": "2025-10-25 00:48:16",
+      "album": {
         "name": "Da Boca Pra Fora",
         "url": "https://open.spotify.com/album/6HnNWhAj8UtVGeuldwh9qm"
       },
@@ -623,26 +643,6 @@
       "duration_ms": 128059,
       "name": "Vestidinho - Ao Vivo",
       "url": "https://open.spotify.com/track/5kODFBJhzygSg6dyhMW0NR"
-    },
-    {
-      "added_at": "2025-10-25 00:48:16",
-      "album": {
-        "name": "Sorriso De Desespero (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6rTOrVUEmXAGwiDTUJO9qC"
-      },
-      "artists": [
-        {
-          "name": "Arielly Dara",
-          "url": "https://open.spotify.com/artist/1lfMHE6e3gIrEvzUeLGUD7"
-        },
-        {
-          "name": "Cristinas",
-          "url": "https://open.spotify.com/artist/7DmKgIhj9hUClv6a1iF4Q3"
-        }
-      ],
-      "duration_ms": 180223,
-      "name": "Sorriso De Desespero - Ao Vivo",
-      "url": "https://open.spotify.com/track/0j8E4O6qwcpIWIVy4Med76"
     },
     {
       "added_at": "2025-10-25 00:48:16",
@@ -899,6 +899,22 @@
     {
       "added_at": "2025-10-25 00:48:16",
       "album": {
+        "name": "Resenha Do Interior (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2KNtxYtVX0pK3h4z8hUSxh"
+      },
+      "artists": [
+        {
+          "name": "Heitor",
+          "url": "https://open.spotify.com/artist/2lsdgjL6txMw2GFNFJLzIW"
+        }
+      ],
+      "duration_ms": 138816,
+      "name": "Resenha Do Interior (Ao Vivo)",
+      "url": "https://open.spotify.com/track/1zYdQv7Ee1fX0k1IwULBZS"
+    },
+    {
+      "added_at": "2025-10-25 00:48:16",
+      "album": {
         "name": "Nossa Ess\u00eancia (Ao Vivo)",
         "url": "https://open.spotify.com/album/5y2BoZmayWE5wgBb5aAExa"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 160234,
       "name": "Rodeios Da Vida - Ao Vivo",
       "url": "https://open.spotify.com/track/3cvE7L04DUCTEQr9Ug1MtN"
-    },
-    {
-      "added_at": "2025-10-25 00:48:16",
-      "album": {
-        "name": "Resenha Do Interior (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2KNtxYtVX0pK3h4z8hUSxh"
-      },
-      "artists": [
-        {
-          "name": "Heitor",
-          "url": "https://open.spotify.com/artist/2lsdgjL6txMw2GFNFJLzIW"
-        }
-      ],
-      "duration_ms": 138816,
-      "name": "Resenha Do Interior (Ao Vivo)",
-      "url": "https://open.spotify.com/track/1zYdQv7Ee1fX0k1IwULBZS"
     },
     {
       "added_at": "2025-10-25 00:48:16",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2025-10-25 00:48:16",
       "album": {
-        "name": "Telefone Mudo",
-        "url": "https://open.spotify.com/album/34rO65UAJshV92udKc3cxs"
-      },
-      "artists": [
-        {
-          "name": "Gabeu",
-          "url": "https://open.spotify.com/artist/7eD1AwhVz2iGGHu2zYLGwe"
-        }
-      ],
-      "duration_ms": 152688,
-      "name": "Telefone Mudo",
-      "url": "https://open.spotify.com/track/0aTr7XyusniiT9XnHPrh4p"
-    },
-    {
-      "added_at": "2025-10-25 00:48:16",
-      "album": {
         "name": "Resenha Particular 2 (Ao Vivo / EP1)",
         "url": "https://open.spotify.com/album/6xG5OZFTZBu1XjwjB06h0B"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 197600,
       "name": "Coisas Exot\u00e9ricas / Me Apaixonei Pela Pessoa Errada - Ao Vivo",
       "url": "https://open.spotify.com/track/4EEojqHohgTIPlNo2lj4wh"
+    },
+    {
+      "added_at": "2025-10-25 00:48:16",
+      "album": {
+        "name": "Telefone Mudo",
+        "url": "https://open.spotify.com/album/34rO65UAJshV92udKc3cxs"
+      },
+      "artists": [
+        {
+          "name": "Gabeu",
+          "url": "https://open.spotify.com/artist/7eD1AwhVz2iGGHu2zYLGwe"
+        }
+      ],
+      "duration_ms": 152688,
+      "name": "Telefone Mudo",
+      "url": "https://open.spotify.com/track/0aTr7XyusniiT9XnHPrh4p"
     },
     {
       "added_at": "2025-10-25 00:48:16",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2025-10-25 00:48:16",
       "album": {
-        "name": "N\u00e3o \u00e9 por acaso",
-        "url": "https://open.spotify.com/album/5sIVd7DRDwkUax423EhiHT"
-      },
-      "artists": [
-        {
-          "name": "Augusto D\u00e1vila",
-          "url": "https://open.spotify.com/artist/6CdeVbV2irRNWkOSAA8BrF"
-        }
-      ],
-      "duration_ms": 172207,
-      "name": "Spoiler",
-      "url": "https://open.spotify.com/track/1pc4UkHBQMsHkDL62kNMZg"
-    },
-    {
-      "added_at": "2025-10-25 00:48:16",
-      "album": {
         "name": "Ao Vivo Em Rio Preto",
         "url": "https://open.spotify.com/album/7wB0kJ81KPQGIrO90qQCMo"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 142742,
       "name": "Quem Fica Lembra - Ao Vivo",
       "url": "https://open.spotify.com/track/3jC7Z3Af8zdj95Vd1j5TyO"
+    },
+    {
+      "added_at": "2025-10-25 00:48:16",
+      "album": {
+        "name": "N\u00e3o \u00e9 por acaso",
+        "url": "https://open.spotify.com/album/5sIVd7DRDwkUax423EhiHT"
+      },
+      "artists": [
+        {
+          "name": "Augusto D\u00e1vila",
+          "url": "https://open.spotify.com/artist/6CdeVbV2irRNWkOSAA8BrF"
+        }
+      ],
+      "duration_ms": 172207,
+      "name": "Spoiler",
+      "url": "https://open.spotify.com/track/1pc4UkHBQMsHkDL62kNMZg"
     },
     {
       "added_at": "2025-10-25 00:48:16",

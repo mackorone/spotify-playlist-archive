@@ -4,7 +4,7 @@
 
 > New arrivals as they come\. Cover: Nemzzz
 
-172 songs - 8 hr 18 min
+173 songs - 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Red Light](https://open.spotify.com/track/0GFCcVYehL7k6jzhEJBtvA) | [BaggE](https://open.spotify.com/artist/4ZO0hWTm3mUwCVF1BlELp8) | [Red Light](https://open.spotify.com/album/7mzaDIdktBbhcu2hpHBlYb) | 3:10 | 2025-11-07 | 2025-11-14 |
 | [Red Wine](https://open.spotify.com/track/0zlMmYhUMBNMN0QcE1l0a6) | [tendai](https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7) | [Red Wine](https://open.spotify.com/album/0VO0hM2aC1sGUjsZRgdw4m) | 3:27 | 2025-10-23 | 2025-11-07 |
 | [Regime](https://open.spotify.com/track/2FUmIQRaT4e5AwUtFvubcS) | [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y) | [Regime](https://open.spotify.com/album/5uJxJCsrlkMM2EN3t3Xx5i) | 2:48 | 2025-10-23 | 2025-10-31 |
+| [Respectfully Yours](https://open.spotify.com/track/5vInsjdXaM5ikAeRr1s1VK) | [Full Blown](https://open.spotify.com/artist/3zbOZ8HVaeogc99IuaBinC) | [Respectfully Yours](https://open.spotify.com/album/4WMBflGiNa3ntuXWq4PdHA) | 2:32 | 2025-11-21 |  |
 | [Run It Back!!](https://open.spotify.com/track/3YB9aijWreezTUgRzQhwrZ) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Cabin In The Sky](https://open.spotify.com/album/0yBlUg27MbywASeGd1uNIA) | 3:30 | 2025-11-21 |  |
 | [Same Shit](https://open.spotify.com/track/1Hu9ijKYbuC9n5xb1eB5xW) | [yaemulli](https://open.spotify.com/artist/7A0S2z4SJghf7Nr6uI31xM) | [Same Shit](https://open.spotify.com/album/2UvdzDd6ILpARfeT4vXbTr) | 3:07 | 2025-11-14 | 2025-11-21 |
 | [Selfridges](https://open.spotify.com/track/2lL17X7tPp6rhdlJ5lg5hd) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Selfridges](https://open.spotify.com/album/7qCeRMzv4oGpUeMgV6ko4f) | 2:35 | 2025-11-14 |  |

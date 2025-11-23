@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 246 likes - 1,651 songs - 4 day 4 hr 43 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 246 likes - 1,652 songs - 4 day 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1659,5 +1659,6 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 1649 | [Northern Star](https://open.spotify.com/track/33VX9hgtQXJWmH6W1hkwA4) | [Helen Keeling\-Marston](https://open.spotify.com/artist/54Nc4fNhCbrKoouLdouBNP) | [Northern Star](https://open.spotify.com/album/48ahazq0gDgALwMBxRrLu6) | 2:06 |
 | 1650 | [Fireside](https://open.spotify.com/track/0ZDHsXc2Oe3PXKaNH38tR2) | [Helkemar](https://open.spotify.com/artist/1a6v8eZD7UBHDpYjYd0eQl) | [Fireside](https://open.spotify.com/album/3hKn1c0BwHI1PzWQELe6tM) | 2:29 |
 | 1651 | [Angel](https://open.spotify.com/track/2C0DJg7JtzhaSXgiuGOVAm) | [Optacure](https://open.spotify.com/artist/7wlWWs08zvaXAvAxqAlTQ3), [Ean Aguila](https://open.spotify.com/artist/2zMP0KNQXgr3YviWYeRb8D) | [Angel](https://open.spotify.com/album/36BOTVbt4r7G5I3nNuY0vi) | 4:59 |
+| 1652 | [Burn The Floor](https://open.spotify.com/track/1tJEcaWD4iIYoB1YZ1Cb1k) | [Fit with Luana](https://open.spotify.com/artist/0FJHi0Z34sZvHetSXPr5uw) | [Burn The Floor](https://open.spotify.com/album/1eyeG8hYgB6xs1PFCjCwEe) | 2:12 |
 
-Snapshot ID: `AAAHWe3VnLwtaNeKEIsbbkeC/wY+U78D`
+Snapshot ID: `AAAHWgBrvg6lvHUi3YRWTV2Jrh2SlQdZ`

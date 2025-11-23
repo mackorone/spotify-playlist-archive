@@ -2,9 +2,9 @@
 
 ### [GLOW Brasil](https://open.spotify.com/playlist/37i9dQZF1DWZylNQMXNhNe)
 
-> Os hits e novidades de artistas LGBTQIAPN+ estão aqui\. Foto: Mia Badgyal
+> Os hits e novidades de artistas LGBTQIAPN+ estão aqui\. Foto: Bixarte
 
-231 songs - 11 hr 50 min
+232 songs - 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Explícito](https://open.spotify.com/track/0rjoEhu8GFQubGx7dg1KLS) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs), [HODARI](https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67) | [FÚRIA](https://open.spotify.com/album/16F4OuXRl7D54HEiwErbOQ) | 2:53 | 2022-04-29 | 2023-09-25 |
 | [Explícito](https://open.spotify.com/track/3Xj55DkJLJV52GJsxTNHKp) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs), [HODARI](https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67) | [FÚRIA](https://open.spotify.com/album/3J5ykRCZav5xEqcZTkh7Sm) | 2:53 | 2023-09-02 | 2023-10-07 |
 | [f:\)da\-se](https://open.spotify.com/track/2UBAm99YG2MubgLymHqXOl) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3), [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR) | [f:\)da\-se](https://open.spotify.com/album/3vMYpDQKiuAxtHzj6R5QSY) | 2:43 | 2023-10-20 |  |
-| [Falo Demais](https://open.spotify.com/track/4bqoWiI9AM0rrpbR1lrHIJ) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Falo Demais](https://open.spotify.com/album/2oslS4Mp2tK5UC79hIHOzy) | 2:51 | 2025-07-04 |  |
+| [Falo Demais](https://open.spotify.com/track/4bqoWiI9AM0rrpbR1lrHIJ) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Falo Demais](https://open.spotify.com/album/2oslS4Mp2tK5UC79hIHOzy) | 2:51 | 2025-07-04 | 2025-11-23 |
 | [Falta de Mim \- Ao Vivo](https://open.spotify.com/track/2IGh6DnMiX408xwoJP9Lmb) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Numanice \#3 \(Ao Vivo\)](https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af) | 2:34 | 2024-06-26 |  |
 | [FAZ FUMAÇA](https://open.spotify.com/track/2lbg5KCFm2n6hQHMlMdy63) | [Mateus Carrilho](https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT) | [FAZ FUMAÇA](https://open.spotify.com/album/7v3bymuI67SlsdARJ90VrG) | 2:33 | 2022-04-29 | 2023-04-01 |
 | [Fluorescente](https://open.spotify.com/track/07peghrFo7KCcAgRGqIs6v) | [Assucena](https://open.spotify.com/artist/4JUqukNJyqVXHjdRlFcFu8) | [Lusco\-Fusco](https://open.spotify.com/album/7qnm8QNLlJPLSDVSQtftMW) | 4:05 | 2024-07-10 |  |
@@ -216,6 +216,7 @@
 | [TE ODEIO](https://open.spotify.com/track/6g6zhPErWydVqWaT5q2lHz) | [CHAMELEO](https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0) | [ALTA TENSÃO](https://open.spotify.com/album/12JE1Bk262iVJaqN7yKqfH) | 2:22 | 2024-06-26 |  |
 | [te vi na festa \(e nem doeu\)](https://open.spotify.com/track/0MYh8Zdpo84FPqsJuaWYlC) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3) | [te vi na festa \(e nem doeu\)](https://open.spotify.com/album/1V4jTH823sCKfJWxZQVmGc) | 2:01 | 2023-02-10 | 2024-06-27 |
 | [Telefone Mudo](https://open.spotify.com/track/0aTr7XyusniiT9XnHPrh4p) | [Gabeu](https://open.spotify.com/artist/7eD1AwhVz2iGGHu2zYLGwe) | [Telefone Mudo](https://open.spotify.com/album/34rO65UAJshV92udKc3cxs) | 2:32 | 2025-10-03 |  |
+| [Tentação](https://open.spotify.com/track/2yGHa9nqKpmWrVac0z2pZE) | [Bixarte](https://open.spotify.com/artist/3Fpst9Ng2gdZjD0xfIla3o) | [Tentação](https://open.spotify.com/album/0Wai4QP0vTnVgo5dZ0DdTS) | 3:25 | 2025-11-22 |  |
 | [Tentação](https://open.spotify.com/track/0U5kY6qm3RtQdOeQ3BqpSs) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Beijo De Judas](https://open.spotify.com/album/4LQYnCZhSWeT2aO0O2dQFw) | 2:54 | 2022-04-29 | 2022-06-25 |
 | [TODOS OLHOS EM MIM](https://open.spotify.com/track/6hwv7Ig9erql3yqEkEzJTR) | [Boombeat](https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg), [CyberKills](https://open.spotify.com/artist/0YYrMvekr8APmc9sIbIpx3) | [BÁRBARA](https://open.spotify.com/album/5OisNDqNx4ezH9Fdw7iKgi) | 2:22 | 2022-04-29 | 2023-01-14 |
 | [Trago Seu Amor de Volta \- Ao Vivo](https://open.spotify.com/track/21AFVwyji9hdtWqlekS4Xx) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [I AM PABLLO \(Ao Vivo\)](https://open.spotify.com/album/4nRBYJ5BaPMk66wyQdeq9O) | 2:34 | 2022-07-22 | 2024-01-16 |

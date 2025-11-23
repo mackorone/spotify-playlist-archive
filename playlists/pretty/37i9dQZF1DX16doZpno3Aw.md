@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16doZpno3Aw.md) - [plain]
 
 > all the best instrumentals & sounds from the internet  ∼ 🫀
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,200 likes - 109 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,336 likes - 109 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16doZpno3Aw.md) - [plain]
 | 15 | [Je te laisserai des mots](https://open.spotify.com/track/44A0o4jA8F2ZF03Zacwlwx) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Je te laisserai des mots](https://open.spotify.com/album/1R6MIxBiQensgzDlDes0yT) | 2:40 |
 | 16 | [Cornfield Chase](https://open.spotify.com/track/6pWgRkpqVfxnj3WuIcJ7WP) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Interstellar \(Original Motion Picture Soundtrack\) \[Expanded Edition\]](https://open.spotify.com/album/3B61kSKTxlY36cYgzvf3cP) | 2:06 |
 | 17 | [i was only temporary](https://open.spotify.com/track/0X4YYZtZcvqNqYIpMd93IT) | [my head is empty](https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy) | [i was only temporary](https://open.spotify.com/album/24tfAQTRqLfKw5bFjMhc4m) | 1:38 |
-| 18 | [we slidin](https://open.spotify.com/track/5AX61OcN7ahDT1OYE11yaA) | [vibeless](https://open.spotify.com/artist/5cS5Yauza0RxLU6Mn3n4PC) | [we slidin](https://open.spotify.com/album/0AjgZAkn7qTXfHYfdcOqoM) | 1:02 |
+| 18 | [we slidin](https://open.spotify.com/track/5AX61OcN7ahDT1OYE11yaA) | [blue hour](https://open.spotify.com/artist/0A8ZTIfIMCW41uLa4VAKlN), [vibeless](https://open.spotify.com/artist/5cS5Yauza0RxLU6Mn3n4PC) | [we slidin](https://open.spotify.com/album/0AjgZAkn7qTXfHYfdcOqoM) | 1:02 |
 | 19 | [ominous](https://open.spotify.com/track/6R7ybPeMoS4zlwsUB00vxs) | [insensible](https://open.spotify.com/artist/1LBYQTeBctR6bK847DqAVU) | [ominous](https://open.spotify.com/album/0iGffj1siVv2ZbnZsyuIYR) | 1:31 |
 | 20 | [Rainydays](https://open.spotify.com/track/28Euq53LrqzH0iTD7VxXm2) | [thistooshallpass](https://open.spotify.com/artist/7MXL06nb0kcLnsXJHpadxD) | [Rainydays](https://open.spotify.com/album/1R8GcVzuR0xy4TI7YDJ9IQ) | 1:57 |
 | 21 | [losing](https://open.spotify.com/track/3HwXUvdZXDxmvABSsxhGmO) | [Lonnex](https://open.spotify.com/artist/0IM0lwjzI0BYaayMweraKT) | [losing](https://open.spotify.com/album/5bZkGpktLdXvM7MnFf37qh) | 5:58 |

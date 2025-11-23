@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,262 songs - 5 day 1 hr 19 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,264 songs - 5 day 1 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2270,5 +2270,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2260 | [Simple And Clean \- PLANITb Remix](https://open.spotify.com/track/0NGgGj5L3VztJb3zKIwpRp) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2), [ラッセル・マクナマラ](https://open.spotify.com/artist/4LwuYeMYav834kRcImkLvw) | [COLORS](https://open.spotify.com/album/6b65tDkcbAisHn2FR02ZC8) | 5:43 |
 | 2261 | [It's me Maria](https://open.spotify.com/track/24JU9QfxetgljW6NYcJYA3) | [Bassvictim](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM) | [Forever](https://open.spotify.com/album/7c2Tim7H0rp30NoE8dVbu5) | 2:08 |
 | 2262 | [Great Escape](https://open.spotify.com/track/2yfTDiRcSY6cAt17KyR92N) | [DJmegan23](https://open.spotify.com/artist/56zdYcwtmdYq3WlBYQeHoA), [cranes](https://open.spotify.com/artist/3RjMDQ6j6FX40b4idQNsZY), [mental](https://open.spotify.com/artist/7rQMXIWKXSMkd7dK8LQ7a4) | [Great Escape/Heaven](https://open.spotify.com/album/6CVZuWiz1PfRHz7SN4eehL) | 2:03 |
+| 2263 | [4 Raws](https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy) | [Rebel](https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug) | 2:26 |
+| 2264 | [Phantom](https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy), [Rico Ace](https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o) | [Rebel](https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug) | 1:49 |
 
-Snapshot ID: `AAAEyslL1cIHzGXerBoxxvlG2620FKD/`
+Snapshot ID: `AAAEzPpJX3q96sGw3mqWP7ZorrNcGveN`

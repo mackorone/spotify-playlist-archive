@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 
 > New tunes from Ireland for your discovery\. Cover: Odhran Murphy
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,282 likes - 70 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,287 likes - 70 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 | 69 | [How To Pray \(Euphoria\)](https://open.spotify.com/track/37M6JcX8QK7OrGbLN57H5i) | [chameleon](https://open.spotify.com/artist/46lv0U33sExwKvxwCwaDKK) | [How To Pray \(Euphoria\)](https://open.spotify.com/album/0bnNMltAnL1ld0R0FP5m0r) | 5:02 |
 | 70 | [Gloria](https://open.spotify.com/track/2Yk73K05ZGxI6pZBOG6lS4) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Gloria](https://open.spotify.com/album/3JHsuuNJM52oePgcXvbdhw) | 3:38 |
 
-Snapshot ID: `AAAAALUsb+w1mvSGtn9XXZSAqO8++PpV`
+Snapshot ID: `AAAAAIq7uFqX73o5QaRscPfw6zVyy3TO`

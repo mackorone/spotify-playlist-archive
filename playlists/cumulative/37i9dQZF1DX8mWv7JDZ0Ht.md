@@ -2,9 +2,9 @@
 
 ### [Pop Leve](https://open.spotify.com/playlist/37i9dQZF1DX8mWv7JDZ0Ht)
 
-> Novidades e hits do pop nacional pra te deixar mais leve\. Foto:  Amanda Coronha
+> Novidades e hits do pop nacional pra te deixar mais leve\. Foto:  Samuel Rosa, Joyce Alane
 
-873 songs - 1 day 19 hr 37 min
+875 songs - 1 day 19 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Ai, Que Calor](https://open.spotify.com/track/32z2SmKSxh80H0LfnDpD1m) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [Ai, Que Calor](https://open.spotify.com/album/1ZdCeqypeVqs47668BjdkZ) | 2:24 | 2023-12-15 | 2024-02-17 |
 | [Ainda Bem Que Chegou \- Ao Vivo](https://open.spotify.com/track/2HSEyvmr7gucSJDrqTl9bg) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [A Bolha Ao Vivo em São Paulo, Pt\. 1](https://open.spotify.com/album/3wSkX7zkudaB1kR3b1xs9f) | 3:21 | 2024-11-15 | 2024-12-13 |
 | [Ainda Vou Morrer por Não Falar](https://open.spotify.com/track/3Lh9v1tenzstOMXEwL9Yar) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Ainda Vou Morrer por Não Falar](https://open.spotify.com/album/4sZn8YVyraqukoODDWMpLM) | 3:12 | 2022-10-07 | 2023-06-03 |
-| [Ainda é Tempo](https://open.spotify.com/track/6D877vEl1ylQqbO6Wkkrit) | [Geovanna Jainy](https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj) | [Ainda é Tempo](https://open.spotify.com/album/4oPIKhHH12Pv9GhmCUVDyJ) | 2:53 | 2025-10-31 |  |
+| [Ainda é Tempo](https://open.spotify.com/track/6D877vEl1ylQqbO6Wkkrit) | [Geovanna Jainy](https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj) | [Ainda é Tempo](https://open.spotify.com/album/4oPIKhHH12Pv9GhmCUVDyJ) | 2:53 | 2025-10-31 | 2025-11-23 |
 | [Aliança](https://open.spotify.com/track/2tLfyFT8X6MmdYsyo9x5Gg) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Aliança](https://open.spotify.com/album/6xTuOYTLMwNqwbyNHTtAot) | 3:13 | 2022-06-14 | 2022-06-25 |
 | [Alto Mar](https://open.spotify.com/track/0UAeeeqIozUW3g5w86bp9m) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Alto Mar](https://open.spotify.com/album/7LevgNPvMOCz0xVDQ61wM0) | 3:17 | 2022-05-13 | 2022-07-29 |
 | [Alto Mar](https://open.spotify.com/track/7GwO8ewOutzHzL3HeMbxK4) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Alto Mar](https://open.spotify.com/album/6DahyEuFWlMu8ECGM2lrDX) | 3:17 | 2022-07-01 | 2022-10-15 |
@@ -172,7 +172,7 @@
 | [Codinome Exagerado](https://open.spotify.com/track/1r5xSeHHrnnAPlZD8s03N1) | [HODARI](https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67), [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [Codinome Exagerado](https://open.spotify.com/album/0d8FtFqVUeUvxMZjJl4peh) | 3:09 | 2024-04-09 | 2024-05-09 |
 | [Cofre](https://open.spotify.com/track/4p9aBRtgLpwtrfXRNubECr) | [Rebeca](https://open.spotify.com/artist/1n50LGC4ZlJrgHFjsurNWN) | [Cofre](https://open.spotify.com/album/5TLAQQvsUK7W9jKfPnbw6d) | 3:19 | 2023-09-15 | 2023-09-30 |
 | [Coisa Boa](https://open.spotify.com/track/0Z5IDWR4JHuJo7FBsSoM1k) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [Depois do Fim](https://open.spotify.com/album/6Gh9k6PdqxQ6l3tZxZWSH9) | 2:19 | 2023-07-21 | 2023-11-07 |
-| [Coisa de Alma](https://open.spotify.com/track/6x3UHY7jsjP9JrrBJjQhf1) | [EDDU](https://open.spotify.com/artist/5yB3X7Vo6OL6PERnrgkjo5), [Edu4rd](https://open.spotify.com/artist/4QgUQWIl94bx29Hl3rBMui) | [Coisa de Alma](https://open.spotify.com/album/2ve6z3W7HC4kYKI08PonwD) | 2:29 | 2025-02-14 |  |
+| [Coisa de Alma](https://open.spotify.com/track/6x3UHY7jsjP9JrrBJjQhf1) | [EDDU](https://open.spotify.com/artist/5yB3X7Vo6OL6PERnrgkjo5), [Edu4rd](https://open.spotify.com/artist/4QgUQWIl94bx29Hl3rBMui) | [Coisa de Alma](https://open.spotify.com/album/2ve6z3W7HC4kYKI08PonwD) | 2:29 | 2025-02-14 | 2025-11-23 |
 | [Coisa de Casa](https://open.spotify.com/track/40ThoDlFwxdcQjIv3GsT7l) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo) | [Coisa de Casa](https://open.spotify.com/album/05C1IIsmM53FB4xhU9AhfZ) | 3:32 | 2024-11-22 | 2025-04-18 |
 | [Coisa de Cinema](https://open.spotify.com/track/0T0Q7fJ1lH09UEvG9MdNLb) | [Davi Shamá](https://open.spotify.com/artist/2VYUK62O7RydFXkOBS7rGV), [Tori](https://open.spotify.com/artist/4JnogHpZJqdZu7njKCOgch) | [Coisa de Cinema](https://open.spotify.com/album/37IH3KuZZiK3BI6yJXamQk) | 2:55 | 2024-10-04 | 2025-02-08 |
 | [Coisa Luz](https://open.spotify.com/track/7fOGpThy7S9B8bXkRftLXj) | [duogram](https://open.spotify.com/artist/3fuNvXraxWHImqMp0jfQ8Y) | [Coisa Luz](https://open.spotify.com/album/5gAMEcKyLLcSDjmIYi5con) | 2:52 | 2022-05-13 | 2022-10-11 |
@@ -567,6 +567,7 @@
 | [Outro Alguém \- Ao Vivo](https://open.spotify.com/track/64yBHtShxbb2ULPhakxsJv) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [LAGUM AO VIVO](https://open.spotify.com/album/5A0jHf8QLPjqBEut4WE4ch) | 2:38 | 2023-12-15 | 2024-06-08 |
 | [Outubro](https://open.spotify.com/track/5hD1qHjBX9SB3Ws6nCEwr5) | [Doral](https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp), [Santaella](https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p) | [Outubro](https://open.spotify.com/album/00JNMDQJR1wOpibAL1PC7F) | 3:57 | 2022-11-25 | 2023-04-15 |
 | [Ovelha Negra \- Acústico MTV](https://open.spotify.com/track/0gGvGuoOqfYdkjbcl2Mh0N) | [Manu Gavassi](https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Acústico MTV Manu Gavassi Canta Fruto Proibido](https://open.spotify.com/album/0E7BlhGz33kQOLqRbSUTmt) | 4:55 | 2023-02-03 | 2023-07-01 |
+| [Palma Da Mão](https://open.spotify.com/track/6JblLomEXnhyjW9fW2NIGW) | [Samuel Rosa](https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa), [Joyce Alane](https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG) | [Palma Da Mão](https://open.spotify.com/album/3df3VXcFeFqnFG7lJNnffR) | 3:58 | 2025-11-22 |  |
 | [Para Lennon e McCartney / Citação: O Vento](https://open.spotify.com/track/5wWVluHjM6PUU68gNSkbYm) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Para Lennon e McCartney / Citação: O Vento](https://open.spotify.com/album/6XN1f9w4y3OuBqu0t2Qwe2) | 3:48 | 2022-12-09 | 2022-12-24 |
 | [Paradisíaca](https://open.spotify.com/track/145uCiVidzLD0MIffEzfnM) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Tropical](https://open.spotify.com/album/0em8tKAYFmbJuSChPQNRqf) | 3:50 | 2024-10-11 | 2025-01-25 |
 | [Parece Pressa](https://open.spotify.com/track/5Z1GGWmnoPdHGelvM99vgO) | [Vicka](https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai) | [De Cabeça Pra Baixo](https://open.spotify.com/album/36mc8clQQYccyzD9HkzXPv) | 2:40 | 2022-05-13 | 2022-08-02 |
@@ -736,6 +737,7 @@
 | [Só Sinto](https://open.spotify.com/track/7pRLX3MpPGEGBqjsKGZjsK) | [Cacá Magalhães](https://open.spotify.com/artist/0kV11iUwok3iJ3p32ollyk) | [Só Sinto](https://open.spotify.com/album/1B69BwQ41WdWl3d0etscfA) | 3:25 | 2024-09-17 | 2024-11-16 |
 | [Tanto](https://open.spotify.com/track/39y7YPqa1gxJPq52KkOAzV) | [Bruna Magalhães](https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p) | [Tanto](https://open.spotify.com/album/6UnPlaIzrlpTwH40c9Z1R1) | 3:06 | 2025-03-28 |  |
 | [Tanto Tanto](https://open.spotify.com/track/5ACvqBkha9bdpX7A5z1OS4) | [Mar.iana](https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH), [Simão](https://open.spotify.com/artist/2wkEw9j9xteOnF00DqUI34) | [Tanto Tanto](https://open.spotify.com/album/42XMiMTFgFRQTo5Mf2oiE2) | 2:46 | 2024-10-04 | 2025-01-18 |
+| [Tara](https://open.spotify.com/track/35DEkDOvU3fbYnW2B0AolJ) | [Bia Marques](https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R) | [Tara](https://open.spotify.com/album/3JAi6aRzjiIKMFg4YrpOkG) | 2:41 | 2025-11-22 |  |
 | [Tarde da Noite](https://open.spotify.com/track/70mYwaFqWLYywSVPcCVynb) | [Fraterna Trip](https://open.spotify.com/artist/2qJbdrwX5dlARkvyea6FfL), [Jambu](https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX) | [Tarde da Noite](https://open.spotify.com/album/3rBB9Rfs8jqN9YPOmisGWG) | 3:18 | 2023-08-18 | 2023-09-02 |
 | [Taça De Vidro \- Acústico](https://open.spotify.com/track/2Z8UD0wNevn16bEClkD6ae) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD), [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF) | [Acústico Ana Gabriela](https://open.spotify.com/album/2iDfAGGJidhV0bKMpFpLzn) | 2:55 | 2023-11-17 | 2023-12-09 |
 | [tchau, baby!](https://open.spotify.com/track/526I73YCefYU1i3bVJZuns) | [Mar.iana](https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH) | [tchau, baby!](https://open.spotify.com/album/3s09GrsSUoAuBNEVtdVfi4) | 3:15 | 2023-01-20 | 2023-04-09 |

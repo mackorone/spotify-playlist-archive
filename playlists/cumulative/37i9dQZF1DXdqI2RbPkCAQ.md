@@ -4,13 +4,14 @@
 
 > marrakech season
 
-112 songs - 7 hr 17 min
+113 songs - 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [111](https://open.spotify.com/track/1wisB4DtmmPiuLrA188XmR) | [Ape Drums](https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u), [JAMIIE](https://open.spotify.com/artist/3tDYYvrKv7Duw3ismQGnHF) | [111](https://open.spotify.com/album/6rfW8Ur00M44ftAONPPvY1) | 3:52 | 2025-09-04 |  |
 | [A Gira](https://open.spotify.com/track/5QwJtoSfJqEPHlNCm46uex) | [unfazed](https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0) | [A Gira](https://open.spotify.com/album/2rC25GOtlshiG5XOkXIh1E) | 2:32 | 2025-06-27 |  |
 | [Addicted \(feat\. TIMID.\)](https://open.spotify.com/track/3VXJln5ZvlvzbsjJFhRhZE) | [Naarly](https://open.spotify.com/artist/4ME20XT9IP5JOpqoIGQ6Js), [Daytona](https://open.spotify.com/artist/1PlwuAcoJeI5vcahZIkeHC), [LEWS](https://open.spotify.com/artist/25tLh0UFb4VoF3Oe8C8vuL), [FIRSTCLASS](https://open.spotify.com/artist/1WM31JXTIDvyaQXFkNoWVK), [TIMID.](https://open.spotify.com/artist/7ohUwQ36GNovdC1LFlhiQg) | [Addicted \(feat\. TIMID.\)](https://open.spotify.com/album/1g3CRfapU2HVFs1QK6jNAs) | 2:14 | 2025-07-13 |  |
+| [AKABAR \- Radio Edit](https://open.spotify.com/track/2dF2E1UMEiUU7k6io0bfLc) | [Mr\. ID](https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp), [Boddhi Satva](https://open.spotify.com/artist/1f1bsto5CRaRaaGkZvvjOn) | [ASKI V1](https://open.spotify.com/album/77uFvnkZJIAMeQCyuasRv9) | 4:44 | 2025-11-22 |  |
 | [Alegria](https://open.spotify.com/track/6THD0HpXvLeHy8kdiK4NQg) | [ARYMÉ](https://open.spotify.com/artist/5zdOlKWTERNvDJXkwMYRX6), [OSFUR](https://open.spotify.com/artist/6qrKiEKVVelbXJa8HwchwO) | [Alegria](https://open.spotify.com/album/7jLacsfzdGbhbfwE5EH455) | 2:24 | 2025-06-27 |  |
 | [Alive](https://open.spotify.com/track/1dFbbBKiOn1LnldZUSaWQ8) | [WITH U](https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV), [Albert Breaker](https://open.spotify.com/artist/7ARLlH0R0zY7aeLrzeUYIf), [mohalizer](https://open.spotify.com/artist/4mxLi0WiovhOvdkqofGO2i) | [Alive](https://open.spotify.com/album/01D4KOudqfxOzPiQawG9PO) | 3:12 | 2025-06-27 |  |
 | [Amana](https://open.spotify.com/track/728jwEfBJVrR9aYpuhwdvb) | [Maz](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [VXSION](https://open.spotify.com/artist/1mhfrC0qmYcAcAX6yM1tXJ) | [Amana](https://open.spotify.com/album/61UaqkZC7cj48imVudUhlN) | 5:38 | 2025-06-27 |  |
@@ -79,7 +80,7 @@
 | [No More](https://open.spotify.com/track/2UZy2WD3j624e5a9pkeVuf) | [KEKURA](https://open.spotify.com/artist/4XgFUd6zkzZDAy7M05zLbs), [Kalyma](https://open.spotify.com/artist/08Qus19mV9XncqLz2bL6eo) | [No More](https://open.spotify.com/album/30prUgNDVMLkSlHuNnug4t) | 4:42 | 2025-10-03 | 2025-10-14 |
 | [Nobody Like You](https://open.spotify.com/track/1SDhiSzYZcx1ElXLuYtv28) | [Sistek](https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu) | [Nobody Like You](https://open.spotify.com/album/4vOmPK3WJS2G5uK8h6kKDi) | 3:42 | 2025-06-27 |  |
 | [Out In The Streets](https://open.spotify.com/track/2uxqdKyl1zTx1KGv9FUZ0w) | [Marasi](https://open.spotify.com/artist/0Dcekxlb2bwUGn3neC6J4J) | [Out In The Streets](https://open.spotify.com/album/7d194iurh335XjLVGe0IRq) | 3:16 | 2025-06-27 |  |
-| [Party People](https://open.spotify.com/track/3VHAGhdqkSJ6uMZIyosMeU) | [German Brigante](https://open.spotify.com/artist/2h7fN6KOZVgWQ39sYK0jJm) | [Party People](https://open.spotify.com/album/2E06sSZVIQMhd6zO3GRGWc) | 3:15 | 2025-09-04 |  |
+| [Party People](https://open.spotify.com/track/3VHAGhdqkSJ6uMZIyosMeU) | [German Brigante](https://open.spotify.com/artist/2h7fN6KOZVgWQ39sYK0jJm) | [Party People](https://open.spotify.com/album/2E06sSZVIQMhd6zO3GRGWc) | 3:15 | 2025-09-04 | 2025-11-23 |
 | [Peru \- Peace Control Remix](https://open.spotify.com/track/4ae7kOsYM7CQqljNqMQ4lN) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Peace Control](https://open.spotify.com/artist/3rzbheJbLKamFWE8v9fPRh) | [Peru \(Peace Control Remix\)](https://open.spotify.com/album/1BscUG4h8ZyAhQAdmAkJgw) | 4:47 | 2025-06-27 |  |
 | [Que Pasa](https://open.spotify.com/track/4XwHUW9PAPHIYOW8bXEaSK) | [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [LE YORA](https://open.spotify.com/artist/0JguaqQNo1CgVjFqtIXyGR) | [Que Pasa](https://open.spotify.com/album/7ppvKpJGdfqeqkhM5lP6ur) | 7:19 | 2025-06-27 |  |
 | [Reborn](https://open.spotify.com/track/5vdwM9imM15OBwcYE0Id9G) | [Arodes](https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47), [Moojo](https://open.spotify.com/artist/4bU2sBWgXJtViut3q68o5m) | [Healing EP](https://open.spotify.com/album/2rWjO6Nqe0EcT51Mpg321Z) | 7:10 | 2025-06-27 | 2025-07-14 |

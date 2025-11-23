@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-1,587 songs - 4 day 0 hr 47 min
+1,588 songs - 4 day 0 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [Buffet Froid](https://open.spotify.com/track/53S1EkSKU0xYaYuTLpkTkG) | [Ratel C](https://open.spotify.com/artist/2ZDIYXNX6XbJrIWGCaTLxc) | [Buffet Froid](https://open.spotify.com/album/2lqF0eFcb7yIw4LmZqTpwN) | 2:39 | 2025-08-11 |  |
 | [Bullies](https://open.spotify.com/track/4Xio8CUDoMqbiWNt8maLca) | [Dillon Wyte](https://open.spotify.com/artist/7sfsdBvfHEQ8ovwqSjIl5g) | [Power to Slay Giants](https://open.spotify.com/album/7fJsmsjHuF4ePdbVGiExx1) | 3:42 | 2024-03-25 |  |
 | [Bully Dub](https://open.spotify.com/track/0cOn1FrkgRejhgtB8edaM7) | [Dillon Wyte](https://open.spotify.com/artist/7sfsdBvfHEQ8ovwqSjIl5g) | [Power to Slay Giants](https://open.spotify.com/album/7fJsmsjHuF4ePdbVGiExx1) | 3:46 | 2024-03-25 |  |
+| [Burn The Floor](https://open.spotify.com/track/1tJEcaWD4iIYoB1YZ1Cb1k) | [Fit with Luana](https://open.spotify.com/artist/0FJHi0Z34sZvHetSXPr5uw) | [Burn The Floor](https://open.spotify.com/album/1eyeG8hYgB6xs1PFCjCwEe) | 2:12 | 2025-11-22 |  |
 | [BURN the HORIZON](https://open.spotify.com/track/6OXNv2y3RGxoyomVYe3nKw) | [Ace\_Relevant](https://open.spotify.com/artist/01TENR8djYPZL8oeh4DrBO) | [Ace\_Relevant](https://open.spotify.com/album/7j3awrP8NcOkL4VIVjwZ78) | 2:51 | 2025-09-08 |  |
 | [Burned out](https://open.spotify.com/track/1nDu8QwH1aTKMgbpqWdH6i) | [Air Vibration](https://open.spotify.com/artist/3ScG84iDoG9YBdTg4tFVDu) | [Burned out](https://open.spotify.com/album/5i1G5taACyPRRrrABEsUGu) | 2:28 | 2025-08-30 |  |
 | [Butter Knife Suicide](https://open.spotify.com/track/4UFIHH6jju7CCmFa7eouek) | [Dolour](https://open.spotify.com/artist/5aNyiLkMbHKufrAvfDNy0O), [Shane Tutmarc](https://open.spotify.com/artist/5HqeKeRTxCHQtcQeUUBBac) | [New Old Friends xx](https://open.spotify.com/album/56h5V73ud9WeiTURv7u5sv) | 2:35 | 2025-07-02 |  |

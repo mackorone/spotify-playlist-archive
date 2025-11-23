@@ -4,7 +4,7 @@
 
 > Electronic music from AUS + NZ
 
-311 songs - 19 hr 2 min
+312 songs - 19 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,7 +156,7 @@
 | [Innadream](https://open.spotify.com/track/39OWi2zw0JQ34MILmKQQpd) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Innadream](https://open.spotify.com/album/75U6gZIUN0HbSWJ1fNLhuP) | 3:13 | 2025-06-03 |  |
 | [Into You \- Vienna Nights Mix](https://open.spotify.com/track/461hznkAq17ywDHFzqA34b) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH), [Yukno](https://open.spotify.com/artist/01JZtu3hMY7lmY36RCqzIl) | [Into You \(Vienna Nights Mix\)](https://open.spotify.com/album/62hKvNCLBrYA7z0zzSRKGj) | 2:45 | 2023-03-31 | 2023-05-05 |
 | [iPod Touch](https://open.spotify.com/track/3pkXNBtkg8E2xRAKrnu43s) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [iPod Touch](https://open.spotify.com/album/61txUE2reB1kl38f7GDiPq) | 3:16 | 2025-08-01 |  |
-| [It's All Here](https://open.spotify.com/track/2OcG6qGjgkW4zE7HYH0rN9) | [RONA.](https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6) | [It's All Here](https://open.spotify.com/album/6slPM9uKXBhPF1hp8kMuaF) | 4:44 | 2025-10-09 |  |
+| [It's All Here](https://open.spotify.com/track/2OcG6qGjgkW4zE7HYH0rN9) | [RONA.](https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6) | [It's All Here](https://open.spotify.com/album/6slPM9uKXBhPF1hp8kMuaF) | 4:44 | 2025-10-09 | 2025-11-23 |
 | [Joy In The Morning \(feat\. Chrome Sparks\)](https://open.spotify.com/track/06ETw1BcQZSbimPaKjdB5Z) | [Touch Sensitive](https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z), [Chrome Sparks](https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM) | [Joy In The Morning \(feat\. Chrome Sparks\)](https://open.spotify.com/album/7HwXrG10cc8BqUfZtQOLHR) | 4:45 | 2022-12-01 | 2022-12-16 |
 | [JUST A BEAT](https://open.spotify.com/track/0Ii2qImvnAB6eFNBHFIMk3) | [weirdtechnogirlfriend](https://open.spotify.com/artist/48rdFIAjyZud68hCEKoiWC), [PAUL LE BÁY](https://open.spotify.com/artist/158VfpLQK95rtUjwRsk8vn), [WTG & PLB](https://open.spotify.com/artist/6KtOZetajL2lUGSl60goQq) | [JUST A BEAT](https://open.spotify.com/album/3mfcOBJlCxcCiL1tnFAmkQ) | 3:43 | 2025-10-17 |  |
 | [Keep Up](https://open.spotify.com/track/1posBKEgD6xCwLZVu5JpLl) | [Kinder](https://open.spotify.com/artist/0ufdKQBFDYKui7twp71QLm) | [Keep Up](https://open.spotify.com/album/4SDqBoOMC07Q2ObQBQrQ39) | 3:30 | 2022-12-01 |  |
@@ -271,6 +271,7 @@
 | [Take It Off](https://open.spotify.com/track/0OUGLr0XvMg1uynU1tn6pq) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Aatig](https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao) | [Take It Off](https://open.spotify.com/album/3wH9kI7bgLquNTgIA6Ovto) | 3:14 | 2023-06-08 | 2023-07-06 |
 | [TAKE IT OFF](https://open.spotify.com/track/7zp9FOU4cjFdGN1zdWTvcB) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Aatig](https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao) | [TAKE IT OFF](https://open.spotify.com/album/29p3XedLUbGNxK7aje4WPW) | 3:14 | 2023-06-29 | 2024-04-19 |
 | [Tears Dry Tonight](https://open.spotify.com/track/3WjljjNzoLEQxghZLoAyFQ) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Tears Dry Tonight](https://open.spotify.com/album/2x4jGKWr3BFg511NVr88Cq) | 2:47 | 2025-05-07 |  |
+| [That Boy's Not Nice](https://open.spotify.com/track/6wshH1jwUSaFQQWtaTDPkd) | [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [That Boy's Not Nice](https://open.spotify.com/album/37DkXNloWZnZsp0j25sg1F) | 3:18 | 2025-11-20 |  |
 | [The City](https://open.spotify.com/track/1GNU5GDMAP2xTlLa7qN18k) | [RIIKI REID](https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC) | [The City](https://open.spotify.com/album/0gsbIh3mdGUbtHZ0sXOlhO) | 3:02 | 2023-02-09 | 2023-03-10 |
 | [The City Never Felt So Good](https://open.spotify.com/track/5EPLkWx3SqtK5fS9hbiHWL) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [The City Never Felt So Good](https://open.spotify.com/album/6vZMJqI9s1DFf6tMCLPvKi) | 2:56 | 2024-08-22 | 2024-09-19 |
 | [The Door \- CYRIL Remix](https://open.spotify.com/track/6VD3T09spn64tjPcBih64P) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [The Door \(CYRIL Remix\)](https://open.spotify.com/album/0lFoxDrwrNWwtfw1KohwAN) | 3:30 | 2024-07-29 | 2025-04-09 |

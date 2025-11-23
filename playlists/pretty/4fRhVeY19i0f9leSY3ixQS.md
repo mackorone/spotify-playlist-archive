@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,053 likes - 215 songs - 12 hr 2 min
+[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,051 likes - 215 songs - 12 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -137,7 +137,7 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 | 127 | [March of the Needle](https://open.spotify.com/track/5808lWNwH0Shnbr5anwiCF) | [Rich Packman](https://open.spotify.com/artist/0QCcrb1f3NFZleDodMIMU7) | [March of the Needle](https://open.spotify.com/album/5vJibShFSLAUzJ42DK1MQX) | 3:10 |
 | 128 | [I See You](https://open.spotify.com/track/5ELuNlN9ug1xAzk5ei3rp8) | [JeezJesus](https://open.spotify.com/artist/6nJMtDSZZ41lwEf3XG1Sit) | [I See You](https://open.spotify.com/album/5CzqsMvOiw7kI45rOxN4MH) | 3:18 |
 | 129 | [Bodybag](https://open.spotify.com/track/2HMpllgIo6pZGmTa4zxPtb) | [GAMBO HEMP](https://open.spotify.com/artist/5AylFyo3mXfThbd1n6UCIn), [Scum](https://open.spotify.com/artist/39DyOAXVMHpdDSyY0WnoZ9) | [Bodybag](https://open.spotify.com/album/5D8HVIDQalzqh6LYJFhKyU) | 2:45 |
-| 130 | [Pawned Melody](https://open.spotify.com/track/2ds7E6cBtrgMk08bMYYWnb) | [Will Percs](https://open.spotify.com/artist/2epSjcquBzfuHGTfDVtv2J) | [Fund my beach style.](https://open.spotify.com/album/3M3CkdB03Z9R5S1zxmVyCW) | 2:15 |
+| 130 | [Pawned Melody](https://open.spotify.com/track/2ds7E6cBtrgMk08bMYYWnb) | [Will Percs](https://open.spotify.com/artist/2epSjcquBzfuHGTfDVtv2J) | [Fund my beach style.](https://open.spotify.com/album/3M3CkdB03Z9R5S1zxmVyCW) | 2:16 |
 | 131 | [Shutters + Stutters](https://open.spotify.com/track/3dJDRmonHnUfgdrjYKhFIs) | [Bellhead](https://open.spotify.com/artist/2kG1HBhqba49nSNiN92pVg) | [Threats](https://open.spotify.com/album/44Z7Gf8lHHBUq66SaDDYIT) | 4:20 |
 | 132 | [Miscommunication](https://open.spotify.com/track/4mrCNaivdIbJWvK5gzyXP2) | [Deadlookout](https://open.spotify.com/artist/2nHDKcWBK1T1e82BUaehFl) | [Miscommunication](https://open.spotify.com/album/7I3nrcVGJCf3VVbkTlDzdg) | 3:16 |
 | 133 | [WORK FAST DIE YOUNG \(HO VISTO\)](https://open.spotify.com/track/3jxiT3u0Is6XNTIWWykASS) | [Kamikaze Lavanda](https://open.spotify.com/artist/1VggdEN6pF9vJNeOXh8ULw) | [WORK FAST DIE YOUNG \(HO VISTO\)](https://open.spotify.com/album/1cYFmntki9MrArDWHofH5T) | 2:52 |

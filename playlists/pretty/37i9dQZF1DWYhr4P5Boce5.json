@@ -1,6 +1,6 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, love.",
-  "num_followers": 209030,
+  "num_followers": 209033,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
@@ -659,6 +659,26 @@
     {
       "added_at": "2025-09-14 09:15:48",
       "album": {
+        "name": "Beautiful",
+        "url": "https://open.spotify.com/album/4cb9hipQR0owfDfjieuOsb"
+      },
+      "artists": [
+        {
+          "name": "Gene Moore",
+          "url": "https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6"
+        },
+        {
+          "name": "India.Arie",
+          "url": "https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC"
+        }
+      ],
+      "duration_ms": 226155,
+      "name": "Beautiful (feat. India.Arie)",
+      "url": "https://open.spotify.com/track/1P5jyUv4YzTUWTorHAQjgf"
+    },
+    {
+      "added_at": "2025-09-14 09:15:48",
+      "album": {
         "name": "All Over The World",
         "url": "https://open.spotify.com/album/1a8m9mP1Hic2WLi8ALlPIh"
       },
@@ -687,26 +707,6 @@
       "duration_ms": 231879,
       "name": "I'll Wait",
       "url": "https://open.spotify.com/track/4S897uiKljGMaW7jKeRF9I"
-    },
-    {
-      "added_at": "2025-09-14 09:15:48",
-      "album": {
-        "name": "Beautiful",
-        "url": "https://open.spotify.com/album/4cb9hipQR0owfDfjieuOsb"
-      },
-      "artists": [
-        {
-          "name": "Gene Moore",
-          "url": "https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6"
-        },
-        {
-          "name": "India.Arie",
-          "url": "https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC"
-        }
-      ],
-      "duration_ms": 226155,
-      "name": "Beautiful (feat. India.Arie)",
-      "url": "https://open.spotify.com/track/1P5jyUv4YzTUWTorHAQjgf"
     },
     {
       "added_at": "2025-09-14 09:15:48",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2025-09-14 09:15:48",
       "album": {
-        "name": "Songs from the Cloud",
-        "url": "https://open.spotify.com/album/30cmnuBUnxQUFOzp46TsJu"
-      },
-      "artists": [
-        {
-          "name": "Andrez Babii",
-          "url": "https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8"
-        }
-      ],
-      "duration_ms": 209600,
-      "name": "Route 777",
-      "url": "https://open.spotify.com/track/5Svbl0YXDpkldV4cR3VsKC"
-    },
-    {
-      "added_at": "2025-09-14 09:15:48",
-      "album": {
         "name": "Capuchino de Amor",
         "url": "https://open.spotify.com/album/5KLzoTKa5UXJzJGkuwgpfq"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 298092,
       "name": "Capuchino de Amor",
       "url": "https://open.spotify.com/track/728IJV3v0u5NK7t9buT7wh"
+    },
+    {
+      "added_at": "2025-09-14 09:15:48",
+      "album": {
+        "name": "Songs from the Cloud",
+        "url": "https://open.spotify.com/album/30cmnuBUnxQUFOzp46TsJu"
+      },
+      "artists": [
+        {
+          "name": "Andrez Babii",
+          "url": "https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8"
+        }
+      ],
+      "duration_ms": 209600,
+      "name": "Route 777",
+      "url": "https://open.spotify.com/track/5Svbl0YXDpkldV4cR3VsKC"
     },
     {
       "added_at": "2025-09-14 09:15:48",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2025-09-14 09:15:48",
       "album": {
-        "name": "Scared to Love",
-        "url": "https://open.spotify.com/album/3aHs0OCAi9GGyQYXSth8ff"
-      },
-      "artists": [
-        {
-          "name": "Thunderstorm Artis",
-          "url": "https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "Scared to Love",
-      "url": "https://open.spotify.com/track/3mhdHHNjP6lllNggZwK9v6"
-    },
-    {
-      "added_at": "2025-09-14 09:15:48",
-      "album": {
         "name": "Yours",
         "url": "https://open.spotify.com/album/7audZAXHAdxmRD3YJErUVm"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 213846,
       "name": "Yours",
       "url": "https://open.spotify.com/track/6IWcLsZ9h2Kde0Qjyt8BdS"
+    },
+    {
+      "added_at": "2025-09-14 09:15:48",
+      "album": {
+        "name": "Scared to Love",
+        "url": "https://open.spotify.com/album/3aHs0OCAi9GGyQYXSth8ff"
+      },
+      "artists": [
+        {
+          "name": "Thunderstorm Artis",
+          "url": "https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Scared to Love",
+      "url": "https://open.spotify.com/track/3mhdHHNjP6lllNggZwK9v6"
     },
     {
       "added_at": "2025-09-14 09:15:48",

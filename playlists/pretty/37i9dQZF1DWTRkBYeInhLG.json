@@ -1,6 +1,6 @@
 {
   "description": "Lagu-lagu Pop untuk teman bersantai.",
-  "num_followers": 499154,
+  "num_followers": 499170,
   "original_name": "Santai Sejenak",
   "owner": {
     "name": "Spotify",
@@ -283,6 +283,22 @@
     {
       "added_at": "2025-10-07 11:00:23",
       "album": {
+        "name": "Lyodra",
+        "url": "https://open.spotify.com/album/20nf5isZzrFuEOr0tIZkWG"
+      },
+      "artists": [
+        {
+          "name": "Lyodra",
+          "url": "https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG"
+        }
+      ],
+      "duration_ms": 261299,
+      "name": "Pesan Terakhir",
+      "url": "https://open.spotify.com/track/3FwQ3RYYEekzjEeL3jdpUZ"
+    },
+    {
+      "added_at": "2025-10-07 11:00:23",
+      "album": {
         "name": "Kembali Pulang",
         "url": "https://open.spotify.com/album/3oCPm4IKeaWJy666uZPKih"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 207898,
       "name": "Kembali Pulang",
       "url": "https://open.spotify.com/track/6xeqCawPZngDVqw2W2aGaR"
-    },
-    {
-      "added_at": "2025-10-07 11:00:23",
-      "album": {
-        "name": "Lyodra",
-        "url": "https://open.spotify.com/album/20nf5isZzrFuEOr0tIZkWG"
-      },
-      "artists": [
-        {
-          "name": "Lyodra",
-          "url": "https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG"
-        }
-      ],
-      "duration_ms": 261299,
-      "name": "Pesan Terakhir",
-      "url": "https://open.spotify.com/track/3FwQ3RYYEekzjEeL3jdpUZ"
     },
     {
       "added_at": "2025-10-07 11:00:23",
@@ -1259,26 +1259,6 @@
     {
       "added_at": "2025-10-07 11:00:23",
       "album": {
-        "name": "It's Me BCL",
-        "url": "https://open.spotify.com/album/3lWkC6kEMXvboWSFEB6D1B"
-      },
-      "artists": [
-        {
-          "name": "Bunga Citra Lestari",
-          "url": "https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9"
-        },
-        {
-          "name": "Dipha Barus",
-          "url": "https://open.spotify.com/artist/0UtZ0DRiE8usRg9GyjCPCr"
-        }
-      ],
-      "duration_ms": 211965,
-      "name": "Aku Wanita (with Dipha Barus)",
-      "url": "https://open.spotify.com/track/3GYxLBhbX1bJH0zoC8zXa7"
-    },
-    {
-      "added_at": "2025-10-07 11:00:23",
-      "album": {
         "name": "Dengan Caraku",
         "url": "https://open.spotify.com/album/6lfnTiXmRbPWrK40luaKFo"
       },
@@ -1295,6 +1275,26 @@
       "duration_ms": 272631,
       "name": "Dengan Caraku",
       "url": "https://open.spotify.com/track/6zZMfagNj5Nr8rSdJ9KLqq"
+    },
+    {
+      "added_at": "2025-10-07 11:00:23",
+      "album": {
+        "name": "It's Me BCL",
+        "url": "https://open.spotify.com/album/3lWkC6kEMXvboWSFEB6D1B"
+      },
+      "artists": [
+        {
+          "name": "Bunga Citra Lestari",
+          "url": "https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9"
+        },
+        {
+          "name": "Dipha Barus",
+          "url": "https://open.spotify.com/artist/0UtZ0DRiE8usRg9GyjCPCr"
+        }
+      ],
+      "duration_ms": 211965,
+      "name": "Aku Wanita (with Dipha Barus)",
+      "url": "https://open.spotify.com/track/3GYxLBhbX1bJH0zoC8zXa7"
     },
     {
       "added_at": "2025-10-07 11:00:23",

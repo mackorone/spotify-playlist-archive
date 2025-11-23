@@ -4,7 +4,7 @@
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: Architects
 
-1,413 songs - 3 day 14 hr 17 min
+1,414 songs - 3 day 14 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -529,6 +529,7 @@
 | [Gaping Wounds of Earth](https://open.spotify.com/track/6olzwjMrNrHgrkQPZFpe4Y) | [END](https://open.spotify.com/artist/4MnX5gyPiIWEjQzvX54I8p) | [The Sin of Human Frailty](https://open.spotify.com/album/6o6dgZpNASxsEcIbAGVJTq) | 2:43 | 2023-11-27 | 2024-01-13 |
 | [Generation Genocide](https://open.spotify.com/track/0LasUChReFGGNWmry0IlFU) | [Lonewolf](https://open.spotify.com/artist/3zn6Fa4a9bUUmgXH6sH7IC) | [Generation Genocide](https://open.spotify.com/album/3DgG62Z7goTUZ7jWVAsXNi) | 2:40 | 2021-12-17 | 2022-01-28 |
 | [Generation No Surrender](https://open.spotify.com/track/4Vd5X89c6WI2WVAxIpskzi) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Generation No Surrender](https://open.spotify.com/album/46uKakXDeGMIzzaX2PliWg) | 2:47 | 2024-12-18 | 2025-05-07 |
+| [Get By Then Die](https://open.spotify.com/track/3RjrQZqMvyvsnFHsV9JXlx) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Get By Then Die](https://open.spotify.com/album/6bAjeZOa0tKK4CdeH8a2NR) | 3:31 | 2025-11-21 |  |
 | [Get Out](https://open.spotify.com/track/0SZkjONWDGXRm0uMtb1yuX) | [Windwaker](https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS) | [Get Out](https://open.spotify.com/album/6wZzIejyMAWxwO9lBUmDNY) | 3:00 | 2024-06-10 | 2024-08-17 |
 | [Get Outta My Head](https://open.spotify.com/track/0PvXhHobvoA0dprf2Moi3K) | [Secrets](https://open.spotify.com/artist/1TRVqozKc5Qk1cjwRdWBSl) | [Get Outta My Head](https://open.spotify.com/album/46HUWkwh5UZkhMxLqqD993) | 3:17 | 2022-05-20 | 2022-06-11 |
 | [Get Well Soon](https://open.spotify.com/track/0fzicqW8dA8UZzfMAE2DF6) | [Johnny Booth](https://open.spotify.com/artist/2rEKSdoBVBEOjGYf4BfYgc) | [Get Well Soon](https://open.spotify.com/album/2K5NFTk4N13nWp7DrcYs6R) | 3:26 | 2025-05-02 | 2025-09-20 |
@@ -1318,7 +1319,7 @@
 | [Vertigo](https://open.spotify.com/track/4sEzO3UhMRg2DTYsC05BU8) | [Valiant Hearts](https://open.spotify.com/artist/23JfHao7GdCfsGkXw4jJl8), [Marvin Bruckwilder](https://open.spotify.com/artist/7lv6PfjpMO4LNBP4fG8dOK) | [Vertigo](https://open.spotify.com/album/0mqOucOjNP3rOcDuzzchTT) | 5:28 | 2022-01-07 | 2022-04-09 |
 | [Vestige](https://open.spotify.com/track/4aNtdkbAxm7E1gJiqA95r9) | [Mirrors](https://open.spotify.com/artist/1bVZhrnnRNPi98wcJQT8YD) | [Vestige](https://open.spotify.com/album/0YsWVz8MPLPmDHNKtjVxDS) | 3:52 | 2024-12-18 | 2025-08-24 |
 | [Victim](https://open.spotify.com/track/2MmJg1AUWL9hFrpIEYfl8T) | [Abbie Falls](https://open.spotify.com/artist/5nSlRGZqJVAORU3SsSD0YU) | [Victim](https://open.spotify.com/album/2fS2HfXoGQKLuY22KOFr9p) | 4:21 | 2025-01-31 |  |
-| [Victory Lap](https://open.spotify.com/track/7i8xoHA8DioajUvwL4tysa) | [Windwaker](https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS) | [Victory Lap](https://open.spotify.com/album/1nDWDxQDLyarlrRCeCezuC) | 2:56 | 2025-08-22 |  |
+| [Victory Lap](https://open.spotify.com/track/7i8xoHA8DioajUvwL4tysa) | [Windwaker](https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS) | [Victory Lap](https://open.spotify.com/album/1nDWDxQDLyarlrRCeCezuC) | 2:56 | 2025-08-22 | 2025-11-23 |
 | [Vile Genesis](https://open.spotify.com/track/3LuCXxrytnHzIldoHQXbgt) | [Inferi](https://open.spotify.com/artist/2DlKh1IzbG3EwAMaTF2p4A) | [Vile Genesis](https://open.spotify.com/album/4sBrQDIdbC4nUN5xxJPV9W) | 5:44 | 2022-07-13 | 2022-07-21 |
 | [Villain Arc](https://open.spotify.com/track/1uX9dEAb6lIuAgndCYZcQl) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [Villain Arc](https://open.spotify.com/album/4jIawPzpjpvNP1si80d0C8) | 3:39 | 2024-06-04 | 2025-02-22 |
 | [Violence \(feat\. As December Falls\)](https://open.spotify.com/track/7MlSS4EB0u4szJiaF2AV13) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ), [As December Falls](https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX) | [Violence \(feat\. As December Falls\)](https://open.spotify.com/album/35NJW2tUWom47p99Zzq6q1) | 2:32 | 2025-10-17 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 226 likes - 3,623 songs - 7 day 23 hr 27 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 227 likes - 3,625 songs - 7 day 23 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -3631,5 +3631,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 3621 | [Caged Echoes](https://open.spotify.com/track/15k6gTwj6HBIDXzEDUQIjq) | [Must Have](https://open.spotify.com/artist/67XJwtw6lydEiaF7kxy7n6) | [Seven Channels](https://open.spotify.com/album/5vmYsmqXWZ4hcD3alEjjqu) | 2:10 |
 | 3622 | [Conexión Natural](https://open.spotify.com/track/4cEDD7xf3onlhLjWy7Xzrr) | [Gélido](https://open.spotify.com/artist/5GxwtngGgv22cC2tl1ldBR), [Francisco González](https://open.spotify.com/artist/6Yn9rdgRztxIG6DtHj6uOR) | [Conexión Natural](https://open.spotify.com/album/0O0FoY8EcKQcY7E9MbEQ03) | 4:06 |
 | 3623 | [Sally Feels Bad](https://open.spotify.com/track/1TENNU3Fu2aRkdenYTS4ty) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [Sally Feels Bad](https://open.spotify.com/album/0peasiPlPgIQzH5gHBJsRa) | 3:01 |
+| 3624 | [Forever 2](https://open.spotify.com/track/5fF3AiCMkUeqEIl9C1p9PL) | [Ash](https://open.spotify.com/artist/1oNJRkVDb7UEvRpPp4rNff) | [Don \(Deluxe Edition\)](https://open.spotify.com/album/6MibEnOr23j05OsCcR8UJB) | 2:51 |
+| 3625 | [Сказка, милая сказка](https://open.spotify.com/track/43bdnp7HlUWMWZRg6j0A4s) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Сказка, милая сказка](https://open.spotify.com/album/1hbYA2nWzZL8IgiqE9uVpv) | 4:31 |
 
-Snapshot ID: `AAAGEJDTy8lcZar3xHETnGf4x3fYCGC2`
+Snapshot ID: `AAAGEvZ0AnNXstyOfKduuopk2qw2qVnX`

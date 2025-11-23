@@ -7803,24 +7803,6 @@
     },
     {
       "album": {
-        "name": "Glee M\u00fasicas Rom\u00e2nticas",
-        "url": "https://open.spotify.com/album/6dUudbAQsnIKstPIBWddUg"
-      },
-      "artists": [
-        {
-          "name": "Glee Cast",
-          "url": "https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm"
-        }
-      ],
-      "date_added": "2025-10-14",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 207946,
-      "name": "Rumour Has It / Someone Like You",
-      "url": "https://open.spotify.com/track/02HWaR7BxEUIAD17hfRDZP"
-    },
-    {
-      "album": {
         "name": "Glee: The Music, Volume 7",
         "url": "https://open.spotify.com/album/5QbBCWilH4naI9TGm9lbG2"
       },
@@ -7836,6 +7818,24 @@
       "duration_ms": 207946,
       "name": "Rumour Has It / Someone Like You",
       "url": "https://open.spotify.com/track/5iYUt3rsgrGFU0nugdhYwj"
+    },
+    {
+      "album": {
+        "name": "Glee M\u00fasicas Rom\u00e2nticas",
+        "url": "https://open.spotify.com/album/6dUudbAQsnIKstPIBWddUg"
+      },
+      "artists": [
+        {
+          "name": "Glee Cast",
+          "url": "https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207946,
+      "name": "Rumour Has It / Someone Like You - Cover of Adele",
+      "url": "https://open.spotify.com/track/02HWaR7BxEUIAD17hfRDZP"
     },
     {
       "album": {
@@ -10240,7 +10240,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-22",
+      "date_removed": null,
       "duration_ms": 273960,
       "name": "Unbroken",
       "url": "https://open.spotify.com/track/1PDmepvxFGC6jP1GTs7rne"

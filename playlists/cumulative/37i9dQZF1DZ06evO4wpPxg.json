@@ -707,6 +707,24 @@
     },
     {
       "album": {
+        "name": "Live at Gerde's Folk City",
+        "url": "https://open.spotify.com/album/77yewiXMWhT8uzrV0LiQKC"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "date_added": "2025-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 473920,
+      "name": "Come Down and See Me Sometime",
+      "url": "https://open.spotify.com/track/7fPFKHoNNk3ZIAI43xuLOb"
+    },
+    {
+      "album": {
         "name": "Rev. Gary Davis - The Best of (Live)",
         "url": "https://open.spotify.com/album/5ZPJN0s0Fp8KR0ZQsaVqNT"
       },
@@ -1726,7 +1744,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-06",
+      "date_removed": null,
       "duration_ms": 314200,
       "name": "How Much We Can Bear - Live",
       "url": "https://open.spotify.com/track/2JaZmjYuKNH5Csf5pIuaE3"
@@ -2230,7 +2248,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-23",
       "duration_ms": 185600,
       "name": "I'll Be All Right Some Day",
       "url": "https://open.spotify.com/track/6JGdOWfLkBMvGjv8ApMH72"
@@ -2482,7 +2500,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-23",
       "duration_ms": 217840,
       "name": "I've Done All My Singing For My Lord",
       "url": "https://open.spotify.com/track/3vD8qerHxe21LWAW2vXo24"
@@ -2932,7 +2950,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-21",
+      "date_removed": null,
       "duration_ms": 163906,
       "name": "Little Boy, Little Boy Who Made Your Britches - Live",
       "url": "https://open.spotify.com/track/5d39Vm82n4siA9EcJBFlzT"
@@ -3148,7 +3166,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-23",
       "duration_ms": 183902,
       "name": "Lord, I Wish I Could See",
       "url": "https://open.spotify.com/track/6KX8xLpTnIIfa4D5mB9zxS"
@@ -3616,7 +3634,7 @@
       ],
       "date_added": "2022-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-06",
+      "date_removed": null,
       "duration_ms": 128560,
       "name": "My Heart is Fixed",
       "url": "https://open.spotify.com/track/5wi4Jf8NkHH77X1Wla5UiT"
@@ -5344,7 +5362,7 @@
       ],
       "date_added": "2024-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-23",
       "duration_ms": 163898,
       "name": "There Was a Time That I Was Blind",
       "url": "https://open.spotify.com/track/46SadSwrEqLAzLSSEvveW9"
@@ -5380,7 +5398,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-12",
+      "date_removed": null,
       "duration_ms": 210733,
       "name": "There's A Table Sittin' In Heaven",
       "url": "https://open.spotify.com/track/2s5RAEIaTKtvkD1tSWyuoA"
@@ -5668,7 +5686,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-23",
       "duration_ms": 194226,
       "name": "Twelve Sticks",
       "url": "https://open.spotify.com/track/1VxkIVUmuDcLvnpDEoTmOc"

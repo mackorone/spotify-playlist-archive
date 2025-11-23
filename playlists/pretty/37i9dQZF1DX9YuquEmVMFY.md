@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YuquEmVMFY.md) - [plain]
 
 > Jeremy Zucker \[LOVE IN SEOUL\] 2025.11.23 @ 블루스퀘어 SOL트래블홀
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,039 likes - 22 songs - 1 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,016 likes - 22 songs - 1 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YuquEmVMFY.md) - [plain]
 | 21 | [natural disaster](https://open.spotify.com/track/0jpsHPcR0o236aBU8SnCKG) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [Garden State](https://open.spotify.com/album/6apU0ZY1IW3GdKD1IsYkP3) | 3:55 |
 | 22 | [supercuts](https://open.spotify.com/track/4PyMK7JTcu6l30D8KogokR) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [supercuts](https://open.spotify.com/album/2F1xmiVxAOHMIPOWcK97gg) | 3:26 |
 
-Snapshot ID: `AAAAALpuwmDVtRppKaGQhiC3Vo2z4MgE`
+Snapshot ID: `AAAAAKQUAmuRNicTrQh0zxvOEn4ip2N1`

@@ -1419,6 +1419,24 @@
     },
     {
       "album": {
+        "name": "Weaker",
+        "url": "https://open.spotify.com/album/44m2wMyKWD8ANnMBUToYp5"
+      },
+      "artists": [
+        {
+          "name": "Daryan Tchoubineh",
+          "url": "https://open.spotify.com/artist/5kTeo0SHSNeFvUQP4mhtxj"
+        }
+      ],
+      "date_added": "2025-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211626,
+      "name": "Weaker",
+      "url": "https://open.spotify.com/track/6EXLpcnf9KBY7T16ZfX1Y1"
+    },
+    {
+      "album": {
         "name": "White Roses",
         "url": "https://open.spotify.com/album/4vPVInfF4dXmKVKFBR30XY"
       },

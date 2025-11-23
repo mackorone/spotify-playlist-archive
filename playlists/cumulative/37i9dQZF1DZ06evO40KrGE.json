@@ -1133,6 +1133,24 @@
     },
     {
       "album": {
+        "name": "O Noivo Vem",
+        "url": "https://open.spotify.com/album/24uDcnwb1PpcMDXy5VsrRx"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "date_added": "2025-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259071,
+      "name": "O Noivo Vem",
+      "url": "https://open.spotify.com/track/40FqywjgcTzbLZF2UOx2ys"
+    },
+    {
+      "album": {
         "name": "O Pre\u00e7o Mais Caro",
         "url": "https://open.spotify.com/album/1IevqavLNiL8L03MbiziDx"
       },
@@ -1580,7 +1598,7 @@
       ],
       "date_added": "2025-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-23",
       "duration_ms": 247051,
       "name": "Tem Milagre",
       "url": "https://open.spotify.com/track/4N8W1ihLYDi7b3PzBjgiqc"

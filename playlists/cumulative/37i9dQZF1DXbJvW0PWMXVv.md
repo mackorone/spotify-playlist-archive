@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\#TETAS](https://open.spotify.com/track/1wgjAYlp6GHSX6ex8pRJd9) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf), [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [\#TETAS](https://open.spotify.com/album/2nVsMzErBfjaKSl33WsfAq) | 2:29 | 2025-09-17 |  |
+| [\#TETAS](https://open.spotify.com/track/1wgjAYlp6GHSX6ex8pRJd9) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX) | [\#TETAS](https://open.spotify.com/album/2nVsMzErBfjaKSl33WsfAq) | 2:29 | 2025-09-17 |  |
 | [A Dança \- Ao Vivo](https://open.spotify.com/track/3i1JavmShRKVqPKBUja1PG) | [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [A Dança \(Ao Vivo\)](https://open.spotify.com/album/2P09EUuvJ4OvfUS1fXR7Rg) | 4:03 | 2025-09-17 |  |
 | [A Melhor Saída](https://open.spotify.com/track/6nnQ6idUNylK6LBckW9hyO) | [Dora Morelenbaum](https://open.spotify.com/artist/6xt7x7TG8ExdvWM3R15cmE) | [PIQUE](https://open.spotify.com/album/60w2pJCJwfeHzIKYQxue37) | 4:03 | 2025-09-17 |  |
 | [A natureza das coisas](https://open.spotify.com/track/4zvqkPu8ajJc0Qglca07ZG) | [Joyce Alane](https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG), [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8) | [Casa Coração](https://open.spotify.com/album/6vSNBpqihCHJcrCVTstJMv) | 4:01 | 2025-09-17 |  |

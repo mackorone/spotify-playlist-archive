@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmINI7suDts.md) - [plain]
 
 > Get your spirits up and manage your mood any time of the day\. Cover: Sheebah
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,736 likes - 60 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,751 likes - 60 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmINI7suDts.md) - [plain]
 | 59 | [STRONGER](https://open.spotify.com/track/1IYaDLB3eX56jSzyYLdytw) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729) | [STRONGER](https://open.spotify.com/album/6y02dO6l31HVRKha2ytqIB) | 3:24 |
 | 60 | [River Nile](https://open.spotify.com/track/6e1t9WWPexddWCd9hiwpsg) | [Ceee](https://open.spotify.com/artist/2lLAmI8Hqtx7lvD9tDSFgT), [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [River Nile](https://open.spotify.com/album/1tUosBioWR9zjs2qRIR4gk) | 2:55 |
 
-Snapshot ID: `AAAAACQbb4tgfSWasrH8OuR40JItAG11`
+Snapshot ID: `AAAAAP88ODVMp24U5DalSn84Kn6LXADp`

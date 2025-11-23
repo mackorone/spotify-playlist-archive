@@ -1,29 +1,13 @@
 {
   "description": "This is Jimi Hendrix. The essential tracks, all in one playlist.",
-  "num_followers": 323523,
+  "num_followers": 323540,
   "original_name": "This Is Jimi Hendrix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aR5aAAAAAADfioLspAGas14+6K6tjqee",
+  "snapshot_id": "aR+rgAAAAACUL51ISod7aZRI7o6KBBL2",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "One Rainy Wish (Alternate Version)",
-        "url": "https://open.spotify.com/album/79tnpjcn0ZqeuBNY0sLGvf"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 239813,
-      "name": "One Rainy Wish - Alternate Version",
-      "url": "https://open.spotify.com/track/6LzXmCpYqF5b3I2yj8ClkD"
-    },
     {
       "added_at": null,
       "album": {
@@ -196,9 +180,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 183320,
-      "name": "Spanish Castle Magic",
-      "url": "https://open.spotify.com/track/2KFE98Iw0X23sf4vJYcbLH"
+      "duration_ms": 221826,
+      "name": "One Rainy Wish",
+      "url": "https://open.spotify.com/track/5Zyv0v4rPcrXjkaeImuodv"
     },
     {
       "added_at": null,
@@ -260,9 +244,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 182546,
-      "name": "Wait Until Tomorrow",
-      "url": "https://open.spotify.com/track/2YtVzmZzew1ILUdNueyWd7"
+      "duration_ms": 183320,
+      "name": "Spanish Castle Magic",
+      "url": "https://open.spotify.com/track/2KFE98Iw0X23sf4vJYcbLH"
     },
     {
       "added_at": null,
@@ -324,9 +308,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 334520,
-      "name": "If 6 Was 9",
-      "url": "https://open.spotify.com/track/0J3CHAStO3pNGTnYnxKZod"
+      "duration_ms": 182546,
+      "name": "Wait Until Tomorrow",
+      "url": "https://open.spotify.com/track/2YtVzmZzew1ILUdNueyWd7"
     },
     {
       "added_at": null,
@@ -388,9 +372,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 177866,
-      "name": "Up From The Skies",
-      "url": "https://open.spotify.com/track/4oarDDCWsSnX2WOIRKuQo1"
+      "duration_ms": 334520,
+      "name": "If 6 Was 9",
+      "url": "https://open.spotify.com/track/0J3CHAStO3pNGTnYnxKZod"
     },
     {
       "added_at": null,
@@ -660,9 +644,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 225800,
-      "name": "Valleys of Neptune",
-      "url": "https://open.spotify.com/track/78FgaL6lR2VMWGjqAHT4S2"
+      "duration_ms": 106213,
+      "name": "Farther Up the Road",
+      "url": "https://open.spotify.com/track/5JQuN4RkTtkuoHgwx8MUqj"
     },
     {
       "added_at": null,
@@ -724,9 +708,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 106213,
-      "name": "Farther Up the Road",
-      "url": "https://open.spotify.com/track/5JQuN4RkTtkuoHgwx8MUqj"
+      "duration_ms": 225800,
+      "name": "Valleys of Neptune",
+      "url": "https://open.spotify.com/track/78FgaL6lR2VMWGjqAHT4S2"
     },
     {
       "added_at": null,
@@ -807,6 +791,22 @@
       "duration_ms": 469600,
       "name": "Once I Had a Woman",
       "url": "https://open.spotify.com/track/2AtnrJEq48pGhlpgS59akM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Cry of Love",
+        "url": "https://open.spotify.com/album/7ykAHaoptbCYaO0HAjpgcL"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 232506,
+      "name": "Night Bird Flying",
+      "url": "https://open.spotify.com/track/6qKlw6TyxVkaUZrlJYP8xD"
     }
   ],
   "unique_name": "This Is Jimi Hendrix",

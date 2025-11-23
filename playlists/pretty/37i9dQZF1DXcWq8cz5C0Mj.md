@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWq8cz5C0Mj.md) - [plain]
 
 > Les tubes des années 80 en version berceuse
 
-[Spotify](https://open.spotify.com/user/spotify) - 191 likes - 125 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 192 likes - 125 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

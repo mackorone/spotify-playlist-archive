@@ -1,6 +1,6 @@
 {
   "description": "Cozy Christmas jazz tunes for your shopping, wrapping, cooking, studying or relaxing.",
-  "num_followers": 10888,
+  "num_followers": 11240,
   "original_name": "Jazzy Christmas Chill\ud83c\udf84\u2728",
   "owner": {
     "name": "Spotify",
@@ -107,6 +107,22 @@
     {
       "added_at": "2025-11-13 09:30:19",
       "album": {
+        "name": "Christmas Serenade",
+        "url": "https://open.spotify.com/album/5HNnuo7hod2fRuiqpL7M3b"
+      },
+      "artists": [
+        {
+          "name": "Eternal Time Trio",
+          "url": "https://open.spotify.com/artist/7Db24rMZl5sv7EQL5CP988"
+        }
+      ],
+      "duration_ms": 189263,
+      "name": "Christmas Serenade",
+      "url": "https://open.spotify.com/track/4Jd9637OEC5AtH3JEXqS16"
+    },
+    {
+      "added_at": "2025-11-13 09:30:19",
+      "album": {
         "name": "Silver Bells",
         "url": "https://open.spotify.com/album/5hTWeCX4XFKNB34Ch6W6oq"
       },
@@ -171,22 +187,6 @@
     {
       "added_at": "2025-11-13 09:30:19",
       "album": {
-        "name": "Christmas Serenade",
-        "url": "https://open.spotify.com/album/5HNnuo7hod2fRuiqpL7M3b"
-      },
-      "artists": [
-        {
-          "name": "Eternal Time Trio",
-          "url": "https://open.spotify.com/artist/7Db24rMZl5sv7EQL5CP988"
-        }
-      ],
-      "duration_ms": 189263,
-      "name": "Christmas Serenade",
-      "url": "https://open.spotify.com/track/4Jd9637OEC5AtH3JEXqS16"
-    },
-    {
-      "added_at": "2025-11-13 09:30:19",
-      "album": {
         "name": "We Three Kings",
         "url": "https://open.spotify.com/album/1Q2yEQkTcFH0O7wp5tA1bH"
       },
@@ -219,22 +219,6 @@
     {
       "added_at": "2025-11-13 09:30:19",
       "album": {
-        "name": "Lost in the Stars",
-        "url": "https://open.spotify.com/album/4RrIEi9MX1i5IOq9g6leA7"
-      },
-      "artists": [
-        {
-          "name": "UWS Jazz Trio",
-          "url": "https://open.spotify.com/artist/2hWsHcobGML6Rr9HAdY44K"
-        }
-      ],
-      "duration_ms": 205276,
-      "name": "Lost in the Stars",
-      "url": "https://open.spotify.com/track/5Q9vFxDdswixkE6GtM4Se4"
-    },
-    {
-      "added_at": "2025-11-13 09:30:19",
-      "album": {
         "name": "Happy Christmas, Little Friend",
         "url": "https://open.spotify.com/album/66xxXSW7xjV4bLQwj3FXtF"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 151999,
       "name": "Happy Christmas, Little Friend",
       "url": "https://open.spotify.com/track/4k9rdBjThAkWE6dkGRT3a2"
+    },
+    {
+      "added_at": "2025-11-13 09:30:19",
+      "album": {
+        "name": "Lost in the Stars",
+        "url": "https://open.spotify.com/album/4RrIEi9MX1i5IOq9g6leA7"
+      },
+      "artists": [
+        {
+          "name": "UWS Jazz Trio",
+          "url": "https://open.spotify.com/artist/2hWsHcobGML6Rr9HAdY44K"
+        }
+      ],
+      "duration_ms": 205276,
+      "name": "Lost in the Stars",
+      "url": "https://open.spotify.com/track/5Q9vFxDdswixkE6GtM4Se4"
     },
     {
       "added_at": "2025-11-13 09:30:19",
@@ -347,6 +347,22 @@
     {
       "added_at": "2025-11-13 09:30:19",
       "album": {
+        "name": "Where The Snow Still Falls",
+        "url": "https://open.spotify.com/album/7wf4Oag4ekw439k4kSM5Jn"
+      },
+      "artists": [
+        {
+          "name": "Andreas Gidlund",
+          "url": "https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO"
+        }
+      ],
+      "duration_ms": 225560,
+      "name": "Where The Snow Still Falls",
+      "url": "https://open.spotify.com/track/4zqKyUuJZeNkYL6hshi8dr"
+    },
+    {
+      "added_at": "2025-11-13 09:30:19",
+      "album": {
         "name": "God Rest Ye Merry Gentlemen",
         "url": "https://open.spotify.com/album/4tuj6Cm5lyYS223SGEpgeC"
       },
@@ -379,22 +395,6 @@
     {
       "added_at": "2025-11-13 09:30:19",
       "album": {
-        "name": "What Are You Doing New Years Eve?",
-        "url": "https://open.spotify.com/album/0gGaWw6lmiwuuItDRd697c"
-      },
-      "artists": [
-        {
-          "name": "Carl Bagge Trio",
-          "url": "https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs"
-        }
-      ],
-      "duration_ms": 281500,
-      "name": "What Are You Doing New Years Eve?",
-      "url": "https://open.spotify.com/track/5V2xjX43Qg2wTdhX6xhIK1"
-    },
-    {
-      "added_at": "2025-11-13 09:30:19",
-      "album": {
         "name": "Happy Christmas, Little Friend",
         "url": "https://open.spotify.com/album/66xxXSW7xjV4bLQwj3FXtF"
       },
@@ -407,6 +407,38 @@
       "duration_ms": 320071,
       "name": "You're All I Want For Christmas",
       "url": "https://open.spotify.com/track/3TKli016N6D1XnU0Jz8xVx"
+    },
+    {
+      "added_at": "2025-11-13 09:30:19",
+      "album": {
+        "name": "Christmas Is Coming",
+        "url": "https://open.spotify.com/album/6wilsjE6jfGO0ggnBV5QUU"
+      },
+      "artists": [
+        {
+          "name": "Isac Solo Trio",
+          "url": "https://open.spotify.com/artist/0PQJ8CW64ZpCQTXIWvpkUN"
+        }
+      ],
+      "duration_ms": 184167,
+      "name": "Christmas Is Coming",
+      "url": "https://open.spotify.com/track/149nYuNSxKF3rPGpReOjtv"
+    },
+    {
+      "added_at": "2025-11-13 09:30:19",
+      "album": {
+        "name": "What Are You Doing New Years Eve?",
+        "url": "https://open.spotify.com/album/0gGaWw6lmiwuuItDRd697c"
+      },
+      "artists": [
+        {
+          "name": "Carl Bagge Trio",
+          "url": "https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs"
+        }
+      ],
+      "duration_ms": 281500,
+      "name": "What Are You Doing New Years Eve?",
+      "url": "https://open.spotify.com/track/5V2xjX43Qg2wTdhX6xhIK1"
     },
     {
       "added_at": "2025-11-13 09:30:19",
@@ -427,18 +459,18 @@
     {
       "added_at": "2025-11-13 09:30:19",
       "album": {
-        "name": "Where The Snow Still Falls",
-        "url": "https://open.spotify.com/album/7wf4Oag4ekw439k4kSM5Jn"
+        "name": "When Christmas Comes To Town",
+        "url": "https://open.spotify.com/album/3qGQQNK6A22LBRUmiO74fO"
       },
       "artists": [
         {
-          "name": "Andreas Gidlund",
-          "url": "https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO"
+          "name": "Taylor Owen Trio",
+          "url": "https://open.spotify.com/artist/5pCUMgtJ7hUMrCDeYm96Ca"
         }
       ],
-      "duration_ms": 225560,
-      "name": "Where The Snow Still Falls",
-      "url": "https://open.spotify.com/track/4zqKyUuJZeNkYL6hshi8dr"
+      "duration_ms": 209259,
+      "name": "When Christmas Comes To Town",
+      "url": "https://open.spotify.com/track/5Z3ieIAxQzR7pMx8p9QLfV"
     },
     {
       "added_at": "2025-11-13 09:30:19",
@@ -471,38 +503,6 @@
       "duration_ms": 242786,
       "name": "My Favourite Time of Year",
       "url": "https://open.spotify.com/track/61IXkIVYvfpKdjzEQeMU54"
-    },
-    {
-      "added_at": "2025-11-13 09:30:19",
-      "album": {
-        "name": "When Christmas Comes To Town",
-        "url": "https://open.spotify.com/album/3qGQQNK6A22LBRUmiO74fO"
-      },
-      "artists": [
-        {
-          "name": "Taylor Owen Trio",
-          "url": "https://open.spotify.com/artist/5pCUMgtJ7hUMrCDeYm96Ca"
-        }
-      ],
-      "duration_ms": 209259,
-      "name": "When Christmas Comes To Town",
-      "url": "https://open.spotify.com/track/5Z3ieIAxQzR7pMx8p9QLfV"
-    },
-    {
-      "added_at": "2025-11-13 09:30:19",
-      "album": {
-        "name": "Christmas Is Coming",
-        "url": "https://open.spotify.com/album/6wilsjE6jfGO0ggnBV5QUU"
-      },
-      "artists": [
-        {
-          "name": "Isac Solo Trio",
-          "url": "https://open.spotify.com/artist/0PQJ8CW64ZpCQTXIWvpkUN"
-        }
-      ],
-      "duration_ms": 184167,
-      "name": "Christmas Is Coming",
-      "url": "https://open.spotify.com/track/149nYuNSxKF3rPGpReOjtv"
     },
     {
       "added_at": "2025-11-13 09:30:19",
@@ -827,22 +827,6 @@
     {
       "added_at": "2025-11-13 09:30:19",
       "album": {
-        "name": "Feliz navidad",
-        "url": "https://open.spotify.com/album/3gmuUZ1smESdC9G30KXUBU"
-      },
-      "artists": [
-        {
-          "name": "Norberg",
-          "url": "https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy"
-        }
-      ],
-      "duration_ms": 123786,
-      "name": "Feliz navidad",
-      "url": "https://open.spotify.com/track/465nAxOI5pErqke80RoQTF"
-    },
-    {
-      "added_at": "2025-11-13 09:30:19",
-      "album": {
         "name": "Christmas Time",
         "url": "https://open.spotify.com/album/4O0xBHOwwopsTrx6Jo3MRt"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 73034,
       "name": "Up on the Housetop",
       "url": "https://open.spotify.com/track/2vGxnEVP4CQXSij7f2Bil9"
+    },
+    {
+      "added_at": "2025-11-13 09:30:19",
+      "album": {
+        "name": "Feliz navidad",
+        "url": "https://open.spotify.com/album/3gmuUZ1smESdC9G30KXUBU"
+      },
+      "artists": [
+        {
+          "name": "Norberg",
+          "url": "https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy"
+        }
+      ],
+      "duration_ms": 123786,
+      "name": "Feliz navidad",
+      "url": "https://open.spotify.com/track/465nAxOI5pErqke80RoQTF"
     },
     {
       "added_at": "2025-11-13 09:30:19",
@@ -907,22 +907,6 @@
     {
       "added_at": "2025-11-13 09:30:19",
       "album": {
-        "name": "Do you hear what I hear",
-        "url": "https://open.spotify.com/album/0SXTCFp6pNWWHv3OgZl4w5"
-      },
-      "artists": [
-        {
-          "name": "Norberg",
-          "url": "https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy"
-        }
-      ],
-      "duration_ms": 128886,
-      "name": "Do you hear what I hear",
-      "url": "https://open.spotify.com/track/6vjR177b1q4PVztpoOssHM"
-    },
-    {
-      "added_at": "2025-11-13 09:30:19",
-      "album": {
         "name": "Winter Blessings",
         "url": "https://open.spotify.com/album/32JOvhQnz5jSywHgKYgRGb"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 250713,
       "name": "Winter Blessings",
       "url": "https://open.spotify.com/track/06jYhkarVbcRsKcQaTZXJz"
+    },
+    {
+      "added_at": "2025-11-13 09:30:19",
+      "album": {
+        "name": "Do you hear what I hear",
+        "url": "https://open.spotify.com/album/0SXTCFp6pNWWHv3OgZl4w5"
+      },
+      "artists": [
+        {
+          "name": "Norberg",
+          "url": "https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy"
+        }
+      ],
+      "duration_ms": 128886,
+      "name": "Do you hear what I hear",
+      "url": "https://open.spotify.com/track/6vjR177b1q4PVztpoOssHM"
     },
     {
       "added_at": "2025-11-13 09:30:19",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock & alternative tracks every week\. Cover: Aerosmith and YUNGBLUD
 
-[Spotify](https://open.spotify.com/user/spotify) - 928,924 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 929,001 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 42 | [Ultra Violence](https://open.spotify.com/track/2KovDFvrWfftOqBEYOemi4) | [Lifeguard](https://open.spotify.com/artist/17HkDJlzsK1YoBja2XmY5O) | [Ultra Violence](https://open.spotify.com/album/5IpWaVkqDd4cBSmRN1KaRA) | 3:24 |
 | 43 | [This Planet Doesn't Have a Sun, It Only Has a Man on the Moon \(My Call to You\)](https://open.spotify.com/track/5gyuWxCgI0eaLUNCS4B1vr) | [Pulses.](https://open.spotify.com/artist/0tko2stnUOqejIto8rKRh7) | [pulses\. pack, vol\. 1](https://open.spotify.com/album/5oEUh1U0YnnY0XXylqzQWu) | 3:24 |
 | 44 | [FC '23](https://open.spotify.com/track/5NjYjaqeq4dLwFgpu3MDk3) | [Tony Molina](https://open.spotify.com/artist/2fmfhABysLV519rQYOBvtm) | [On This Day](https://open.spotify.com/album/0hOYEcoN7Su3cRi9ZbjV3C) | 1:27 |
-| 45 | [boys lie, girls steal](https://open.spotify.com/track/4kSfZ5cBPYyev4vs2w5fdD) | [Novulent](https://open.spotify.com/artist/2Q0rAyTIfdTUwDt8jpEpv0) | [boys lie, girls steal](https://open.spotify.com/album/36wBbd3l0mKPqJBc9SHsdi) | 4:05 |
+| 45 | [boys lie and girls steal](https://open.spotify.com/track/4kSfZ5cBPYyev4vs2w5fdD) | [Novulent](https://open.spotify.com/artist/2Q0rAyTIfdTUwDt8jpEpv0) | [boys lie and girls steal](https://open.spotify.com/album/36wBbd3l0mKPqJBc9SHsdi) | 4:05 |
 | 46 | [2 phoneS](https://open.spotify.com/track/6KiLrtQacbeXf7QxbzgnTs) | [Shelf Lives](https://open.spotify.com/artist/2RgHe4GuLjWoJmgdAOVubr) | [2 phoneS](https://open.spotify.com/album/0134eCxKUR2BSgM1VavxAK) | 2:21 |
 | 47 | [A.I\. Hive Mind](https://open.spotify.com/track/5RgqxRF1KubUYgWxgGRGkc) | [Zu](https://open.spotify.com/artist/5S2qz9t9m2OSBtSLZz4tMx) | [A.I\. Hive Mind](https://open.spotify.com/album/5nisjdQ63u3Cp0iwhP8LzG) | 8:23 |
 | 48 | [Angel](https://open.spotify.com/track/6wDQcTK4vvhC5EfrnbkCBH) | [Bee Bee Sea](https://open.spotify.com/artist/5CKsgoNaSS96h4gPbLFuWV) | [Stanzini Can Be Allright](https://open.spotify.com/album/4CxrXcjntFNu4AdiD0gxuB) | 3:39 |

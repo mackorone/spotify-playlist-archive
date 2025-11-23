@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 
 > All new Worship songs on the rise! Cover: CityAlight
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,156 likes - 74 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,187 likes - 74 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 | 73 | [PARTY](https://open.spotify.com/track/2i48gD6ikhOlGLEnphPDXz) | [Engedi Music](https://open.spotify.com/artist/4Mc68ttSCK8Gdfef5eQM1V), [Anthony Stallion](https://open.spotify.com/artist/0itRB2H80G6Hq3mIjLE5mE), [Josiah Gonzalez](https://open.spotify.com/artist/35lJ9Emqfp3vD2p2qi73fa) | [PARTY](https://open.spotify.com/album/7rINIRRKP0kP8zz2jduQYz) | 4:59 |
 | 74 | [Joyful Sound \- Live](https://open.spotify.com/track/6QemJ5wJIh7AtPqBqqBAU4) | [Grace City](https://open.spotify.com/artist/0nthudnBUjSpYoUnNawp6J), [Chase Wagner](https://open.spotify.com/artist/05pJ61Jqg42zcdFsCMdUDi) | [Joyful Sound \(Live\)](https://open.spotify.com/album/4o4X4mZIZo9s8f282Pc8OL) | 3:47 |
 
-Snapshot ID: `AAAAANTFOhQgf6pWE5gmgIBpADJ3S2sv`
+Snapshot ID: `AAAAAG+mKQ7sAuBnes9SnWwWBXyb3qZ+`

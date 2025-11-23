@@ -5566,7 +5566,7 @@
       ],
       "date_added": "2022-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-23",
       "duration_ms": 218512,
       "name": "C\u00f3 Em",
       "url": "https://open.spotify.com/track/6Hs2xIgB8nzyGFDvVA8lFa"
@@ -13360,7 +13360,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-23",
       "duration_ms": 266758,
       "name": "Love is",
       "url": "https://open.spotify.com/track/226ljdOTLM2clGpm4mZvAm"
@@ -17196,7 +17196,7 @@
       ],
       "date_added": "2025-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-23",
       "duration_ms": 248341,
       "name": "N\u1eafng \u1ea4m Trong Tim",
       "url": "https://open.spotify.com/track/3rIQPhzwnHiF3PzfFVnXp5"
@@ -17258,6 +17258,28 @@
       "duration_ms": 166000,
       "name": "N\u1ebfn V\u00e0 Hoa",
       "url": "https://open.spotify.com/track/4S0uLMXRoAjFfIJOW7A8aW"
+    },
+    {
+      "album": {
+        "name": "N\u1ebfu Bi\u1ebft \u0110\u00f3 L\u00e0 L\u1ea7n Cu\u1ed1i",
+        "url": "https://open.spotify.com/album/6eLIAa6Sru0HGYLNSJAVVr"
+      },
+      "artists": [
+        {
+          "name": "\u0110\u1ee9c Tr\u01b0\u1eddng",
+          "url": "https://open.spotify.com/artist/4R2engiAed6QeIV63PDAz0"
+        },
+        {
+          "name": "BMZ",
+          "url": "https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m"
+        }
+      ],
+      "date_added": "2025-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "N\u1ebfu Bi\u1ebft \u0110\u00f3 L\u00e0 L\u1ea7n Cu\u1ed1i",
+      "url": "https://open.spotify.com/track/2w7jOvl0kpplNxisgfnCdT"
     },
     {
       "album": {
@@ -25182,7 +25204,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-19",
+      "date_removed": null,
       "duration_ms": 210067,
       "name": "V\u1ebft M\u01b0a",
       "url": "https://open.spotify.com/track/5cn5oHiXJTLiuthgbgfkMh"
@@ -27068,6 +27090,44 @@
       "duration_ms": 184000,
       "name": "\u0110\u00c2U PH\u1ea2I V\u1ee2 ANH (feat. Dangrangto)",
       "url": "https://open.spotify.com/track/2naHX4cacns359w3ugyt3P"
+    },
+    {
+      "album": {
+        "name": "ANH TRAI \"SAY HI\" 2025, T\u1eacP 10",
+        "url": "https://open.spotify.com/album/3id6IB0zKy1nxHdWy2MbzJ"
+      },
+      "artists": [
+        {
+          "name": "ANH TRAI \"SAY HI\"",
+          "url": "https://open.spotify.com/artist/4wZ6awunqaaVLl5j0WpDFu"
+        },
+        {
+          "name": "buitruonglinh",
+          "url": "https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm"
+        },
+        {
+          "name": "BigDaddy",
+          "url": "https://open.spotify.com/artist/3Tehj7YghQc7zH0I1faGc6"
+        },
+        {
+          "name": "Phuc Du",
+          "url": "https://open.spotify.com/artist/0qkGQFUrj8ERPAZcdpa79j"
+        },
+        {
+          "name": "\u0110\u1ed7 Nam S\u01a1n",
+          "url": "https://open.spotify.com/artist/2qQqPycFRsJtVHrr2SuGFJ"
+        },
+        {
+          "name": "V\u01af\u01a0NG B\u00ccNH",
+          "url": "https://open.spotify.com/artist/351mBX7BjjI2plbfozIzqb"
+        }
+      ],
+      "date_added": "2025-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327000,
+      "name": "\u0110\u00caM GI\u00c1NG SINH M\u00d9A H\u1ea0",
+      "url": "https://open.spotify.com/track/2hS6LfQmkTvbax0FN9a7rs"
     },
     {
       "album": {

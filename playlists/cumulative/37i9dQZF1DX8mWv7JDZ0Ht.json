@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-27",
-  "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto:  Amanda Coronha",
+  "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto:  Samuel Rosa, Joyce Alane",
   "name": "Pop Leve",
   "tracks": [
     {
@@ -742,7 +742,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-23",
       "duration_ms": 173785,
       "name": "Ainda \u00e9 Tempo",
       "url": "https://open.spotify.com/track/6D877vEl1ylQqbO6Wkkrit"
@@ -3308,7 +3308,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-23",
       "duration_ms": 149026,
       "name": "Coisa de Alma",
       "url": "https://open.spotify.com/track/6x3UHY7jsjP9JrrBJjQhf1"
@@ -11143,6 +11143,28 @@
     },
     {
       "album": {
+        "name": "Palma Da M\u00e3o",
+        "url": "https://open.spotify.com/album/3df3VXcFeFqnFG7lJNnffR"
+      },
+      "artists": [
+        {
+          "name": "Samuel Rosa",
+          "url": "https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa"
+        },
+        {
+          "name": "Joyce Alane",
+          "url": "https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG"
+        }
+      ],
+      "date_added": "2025-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238442,
+      "name": "Palma Da M\u00e3o",
+      "url": "https://open.spotify.com/track/6JblLomEXnhyjW9fW2NIGW"
+    },
+    {
+      "album": {
         "name": "Para Lennon e McCartney / Cita\u00e7\u00e3o: O Vento",
         "url": "https://open.spotify.com/album/6XN1f9w4y3OuBqu0t2Qwe2"
       },
@@ -14466,6 +14488,24 @@
       "duration_ms": 166605,
       "name": "Tanto Tanto",
       "url": "https://open.spotify.com/track/5ACvqBkha9bdpX7A5z1OS4"
+    },
+    {
+      "album": {
+        "name": "Tara",
+        "url": "https://open.spotify.com/album/3JAi6aRzjiIKMFg4YrpOkG"
+      },
+      "artists": [
+        {
+          "name": "Bia Marques",
+          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
+        }
+      ],
+      "date_added": "2025-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161181,
+      "name": "Tara",
+      "url": "https://open.spotify.com/track/35DEkDOvU3fbYnW2B0AolJ"
     },
     {
       "album": {

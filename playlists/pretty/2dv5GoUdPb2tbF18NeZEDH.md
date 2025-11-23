@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2dv5GoUdPb2tbF18NeZEDH.md) - [plain]
 
 > Set the tone, feel the vibe\. Groovy basslines and powerful rhythms\. 🎵 Submit: glitchgoldmusic.com
 
-[Glitch&Gold](https://open.spotify.com/user/31jnz6gb3osfynb3qtvugfnc6syq) - 416 likes - 1,275 songs - 3 day 5 hr 17 min
+[Glitch&Gold](https://open.spotify.com/user/31jnz6gb3osfynb3qtvugfnc6syq) - 415 likes - 1,275 songs - 3 day 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

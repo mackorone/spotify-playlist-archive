@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Tsaqib
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,495 likes - 142 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,499 likes - 142 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

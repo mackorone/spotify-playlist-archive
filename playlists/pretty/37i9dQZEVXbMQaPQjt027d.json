@@ -1,15 +1,31 @@
 {
   "description": "Your daily update of the most viral tracks right now - Netherlands.",
-  "num_followers": 67171,
+  "num_followers": 67181,
   "original_name": "Viral 50 - Netherlands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MLPX+AAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MLUuKAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-11-21 13:56:11",
+      "added_at": "2025-11-22 15:28:23",
+      "album": {
+        "name": "Raggen",
+        "url": "https://open.spotify.com/album/3az2trY4jKWy54Ram3JZ6Y"
+      },
+      "artists": [
+        {
+          "name": "IrisQueen",
+          "url": "https://open.spotify.com/artist/1PJsR1vGfAU6MFOTHSWWCA"
+        }
+      ],
+      "duration_ms": 114625,
+      "name": "Raggen",
+      "url": "https://open.spotify.com/track/3vqwbBvQiidVSaSeSuMOjz"
+    },
+    {
+      "added_at": "2025-11-22 15:28:23",
       "album": {
         "name": "Wereld Van Sosa 2",
         "url": "https://open.spotify.com/album/0QABh43APLzaww6N0igdYp"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/37qT7EYqoTjDNH5hVUzWsR"
     },
     {
-      "added_at": "2025-11-21 13:56:11",
+      "added_at": "2025-11-22 15:28:23",
       "album": {
         "name": "Wij Gaan Niet Weg (Radio Edit)",
         "url": "https://open.spotify.com/album/0TtjWznlLyUNRfhBdealJo"
@@ -45,51 +61,7 @@
       "url": "https://open.spotify.com/track/6lXcDnVtz0FBtPajAT00Ce"
     },
     {
-      "added_at": "2025-11-21 13:56:11",
-      "album": {
-        "name": "LUX",
-        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        },
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        },
-        {
-          "name": "Yves Tumor",
-          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
-        }
-      ],
-      "duration_ms": 178853,
-      "name": "Berghain",
-      "url": "https://open.spotify.com/track/2T8yuUKl1nhmtaIocqWo4i"
-    },
-    {
-      "added_at": "2025-11-21 13:56:11",
-      "album": {
-        "name": "HACEL OBASI",
-        "url": "https://open.spotify.com/album/5sougZ2N287FczVGehi3Xh"
-      },
-      "artists": [
-        {
-          "name": "Sad\u0131k Nergis",
-          "url": "https://open.spotify.com/artist/0HqiqOuKC0hJW4f3kX2bij"
-        },
-        {
-          "name": "MIHRIBAN",
-          "url": "https://open.spotify.com/artist/1nthXFxKtpGTJJDdynjGos"
-        }
-      ],
-      "duration_ms": 217083,
-      "name": "HACEL OBASI",
-      "url": "https://open.spotify.com/track/4TPDmfmopnXyECu2mIXyEI"
-    },
-    {
-      "added_at": "2025-11-21 13:56:11",
+      "added_at": "2025-11-22 15:28:23",
       "album": {
         "name": "Bluewave",
         "url": "https://open.spotify.com/album/5lGeZbteqFXE9RZJqp2uMp"
@@ -105,7 +77,7 @@
       "url": "https://open.spotify.com/track/0g9lJhKQUdIWk987xQ66cn"
     },
     {
-      "added_at": "2025-11-21 13:56:11",
+      "added_at": "2025-11-22 15:28:23",
       "album": {
         "name": "Bontardi",
         "url": "https://open.spotify.com/album/6J9tjiB79EOtpKlsZmfmkD"
@@ -129,7 +101,51 @@
       "url": "https://open.spotify.com/track/1kqZtggxscbT7VX4H7Ehsl"
     },
     {
-      "added_at": "2025-11-21 13:56:11",
+      "added_at": "2025-11-22 15:28:23",
+      "album": {
+        "name": "LUX",
+        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        },
+        {
+          "name": "Yves Tumor",
+          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
+        }
+      ],
+      "duration_ms": 178853,
+      "name": "Berghain",
+      "url": "https://open.spotify.com/track/2T8yuUKl1nhmtaIocqWo4i"
+    },
+    {
+      "added_at": "2025-11-22 15:28:23",
+      "album": {
+        "name": "HACEL OBASI",
+        "url": "https://open.spotify.com/album/5sougZ2N287FczVGehi3Xh"
+      },
+      "artists": [
+        {
+          "name": "Sad\u0131k Nergis",
+          "url": "https://open.spotify.com/artist/0HqiqOuKC0hJW4f3kX2bij"
+        },
+        {
+          "name": "MIHRIBAN",
+          "url": "https://open.spotify.com/artist/1nthXFxKtpGTJJDdynjGos"
+        }
+      ],
+      "duration_ms": 217083,
+      "name": "HACEL OBASI",
+      "url": "https://open.spotify.com/track/4TPDmfmopnXyECu2mIXyEI"
+    },
+    {
+      "added_at": "2025-11-22 15:28:23",
       "album": {
         "name": "Resilient",
         "url": "https://open.spotify.com/album/4a51ZNJXb5Psq3YmBBAn0i"
@@ -145,23 +161,7 @@
       "url": "https://open.spotify.com/track/17HsyeI0Eq06n3XRntZ4DT"
     },
     {
-      "added_at": "2025-11-21 13:56:11",
-      "album": {
-        "name": "Don't Tread On Me",
-        "url": "https://open.spotify.com/album/0BcmwUQT2qQrnG6kdFcFQK"
-      },
-      "artists": [
-        {
-          "name": "Cain Walker",
-          "url": "https://open.spotify.com/artist/7BKNTwZykUrvFUK5QbeHhg"
-        }
-      ],
-      "duration_ms": 198199,
-      "name": "Ain't My Problem",
-      "url": "https://open.spotify.com/track/1s8kwEysRcSGPZC4Eg12By"
-    },
-    {
-      "added_at": "2025-11-21 13:56:11",
+      "added_at": "2025-11-22 15:28:23",
       "album": {
         "name": "MON B\u00c9B\u00c9",
         "url": "https://open.spotify.com/album/6p7H7G0xpnDvlDdsh7IbM8"
@@ -177,23 +177,23 @@
       "url": "https://open.spotify.com/track/1yGJ40k7HLF3odITZPoQs4"
     },
     {
-      "added_at": "2025-11-21 13:56:11",
+      "added_at": "2025-11-22 15:28:23",
       "album": {
-        "name": "Die On This Hill",
-        "url": "https://open.spotify.com/album/7GS4aKISJ2KgAm4aBhkzng"
+        "name": "Don't Tread On Me",
+        "url": "https://open.spotify.com/album/0BcmwUQT2qQrnG6kdFcFQK"
       },
       "artists": [
         {
-          "name": "SIENNA SPIRO",
-          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+          "name": "Cain Walker",
+          "url": "https://open.spotify.com/artist/7BKNTwZykUrvFUK5QbeHhg"
         }
       ],
-      "duration_ms": 217008,
-      "name": "Die On This Hill",
-      "url": "https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ"
+      "duration_ms": 198199,
+      "name": "Ain't My Problem",
+      "url": "https://open.spotify.com/track/1s8kwEysRcSGPZC4Eg12By"
     },
     {
-      "added_at": "2025-11-21 13:56:11",
+      "added_at": "2025-11-22 15:28:23",
       "album": {
         "name": "Fool's Gold",
         "url": "https://open.spotify.com/album/5v8FMiboqfjBxM7UgkIgtG"
@@ -209,7 +209,23 @@
       "url": "https://open.spotify.com/track/54uoj9Bb6k97wSQ9MezOYU"
     },
     {
-      "added_at": "2025-11-21 13:56:11",
+      "added_at": "2025-11-22 15:28:23",
+      "album": {
+        "name": "Die On This Hill",
+        "url": "https://open.spotify.com/album/7GS4aKISJ2KgAm4aBhkzng"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "duration_ms": 217008,
+      "name": "Die On This Hill",
+      "url": "https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ"
+    },
+    {
+      "added_at": "2025-11-22 15:28:23",
       "album": {
         "name": "Pepernoot",
         "url": "https://open.spotify.com/album/6juIkKWtxmUQamKgB5dB1A"
@@ -233,75 +249,23 @@
       "url": "https://open.spotify.com/track/5gHt6koylIwR0MzYQwtOj8"
     },
     {
-      "added_at": "2025-11-21 13:56:11",
+      "added_at": "2025-11-22 15:28:23",
       "album": {
-        "name": "Had Ik Maar",
-        "url": "https://open.spotify.com/album/01MTXusD2NHp8Od7qQ46nm"
+        "name": "Bones",
+        "url": "https://open.spotify.com/album/3IMp2eLKnPqzMkE2P6IIOu"
       },
       "artists": [
         {
-          "name": "Merijn Scholten",
-          "url": "https://open.spotify.com/artist/46yeM7RxHuvvk41AbsT6BO"
+          "name": "Josua Peter",
+          "url": "https://open.spotify.com/artist/1cOAQlxoO4hLqaCHeJEDFt"
         }
       ],
-      "duration_ms": 124543,
-      "name": "Had Ik Maar",
-      "url": "https://open.spotify.com/track/2DDNjoAssaFfxX8XzKTyNn"
+      "duration_ms": 171727,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/2iy3Qsydsu8slAoZV2BGOu"
     },
     {
-      "added_at": "2025-11-21 13:56:11",
-      "album": {
-        "name": "Smartlap Is Niet Dood",
-        "url": "https://open.spotify.com/album/7F7cYFNO6ly7iBjYBaVQtA"
-      },
-      "artists": [
-        {
-          "name": "Sophie Straat",
-          "url": "https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw"
-        }
-      ],
-      "duration_ms": 190681,
-      "name": "Vrijheid, Gelijkheid, Zusterschap",
-      "url": "https://open.spotify.com/track/4EIM7QMhQLg8Q28cXqqrUs"
-    },
-    {
-      "added_at": "2025-11-21 13:56:11",
-      "album": {
-        "name": "The Boy Who Played the Harp",
-        "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 219743,
-      "name": "Raindance (feat. Tems)",
-      "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
-    },
-    {
-      "added_at": "2025-11-21 13:56:11",
-      "album": {
-        "name": "Paid to Exist",
-        "url": "https://open.spotify.com/album/4Xh6ncpPchN6sttSXlarzg"
-      },
-      "artists": [
-        {
-          "name": "brux XTN",
-          "url": "https://open.spotify.com/artist/4U88SaxXVJxvOKSrqqJXsb"
-        }
-      ],
-      "duration_ms": 110885,
-      "name": "Paid to Exist",
-      "url": "https://open.spotify.com/track/3wquNCH2wx2Lb9baWLVKpD"
-    },
-    {
-      "added_at": "2025-11-21 13:56:11",
+      "added_at": "2025-11-22 15:28:23",
       "album": {
         "name": "Hazbin Hotel: Season Two (Original Soundtrack)",
         "url": "https://open.spotify.com/album/4Vhlieo0fDahoYEPvGbSEm"
@@ -333,39 +297,107 @@
       "url": "https://open.spotify.com/track/0myPb7rgTdf5dTHnfwdvO9"
     },
     {
-      "added_at": "2025-11-21 13:56:11",
+      "added_at": "2025-11-22 15:28:23",
       "album": {
-        "name": "Bones",
-        "url": "https://open.spotify.com/album/3IMp2eLKnPqzMkE2P6IIOu"
+        "name": "Paid to Exist",
+        "url": "https://open.spotify.com/album/4Xh6ncpPchN6sttSXlarzg"
       },
       "artists": [
         {
-          "name": "Josua Peter",
-          "url": "https://open.spotify.com/artist/1cOAQlxoO4hLqaCHeJEDFt"
+          "name": "brux XTN",
+          "url": "https://open.spotify.com/artist/4U88SaxXVJxvOKSrqqJXsb"
         }
       ],
-      "duration_ms": 171727,
-      "name": "Bones",
-      "url": "https://open.spotify.com/track/2iy3Qsydsu8slAoZV2BGOu"
+      "duration_ms": 110885,
+      "name": "Paid to Exist",
+      "url": "https://open.spotify.com/track/3wquNCH2wx2Lb9baWLVKpD"
     },
     {
-      "added_at": "2025-11-21 13:56:11",
+      "added_at": "2025-11-22 15:28:23",
       "album": {
-        "name": "Onze Vlag (Official Release)",
-        "url": "https://open.spotify.com/album/35YyzUqdyFyxTBOYK52ImJ"
+        "name": "The Boy Who Played the Harp",
+        "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
       },
       "artists": [
         {
-          "name": "Freedom",
-          "url": "https://open.spotify.com/artist/38GCVbz9VJWSuZrV4MERq7"
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 270960,
-      "name": "Onze Vlag - Official Release",
-      "url": "https://open.spotify.com/track/02Kd0YenJ59E78JZZh5qhq"
+      "duration_ms": 219743,
+      "name": "Raindance (feat. Tems)",
+      "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
     },
     {
-      "added_at": "2025-11-21 13:56:11",
+      "added_at": "2025-11-22 15:28:23",
+      "album": {
+        "name": "Had Ik Maar",
+        "url": "https://open.spotify.com/album/01MTXusD2NHp8Od7qQ46nm"
+      },
+      "artists": [
+        {
+          "name": "Merijn Scholten",
+          "url": "https://open.spotify.com/artist/46yeM7RxHuvvk41AbsT6BO"
+        }
+      ],
+      "duration_ms": 124543,
+      "name": "Had Ik Maar",
+      "url": "https://open.spotify.com/track/2DDNjoAssaFfxX8XzKTyNn"
+    },
+    {
+      "added_at": "2025-11-22 15:28:23",
+      "album": {
+        "name": "Smartlap Is Niet Dood",
+        "url": "https://open.spotify.com/album/7F7cYFNO6ly7iBjYBaVQtA"
+      },
+      "artists": [
+        {
+          "name": "Sophie Straat",
+          "url": "https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw"
+        }
+      ],
+      "duration_ms": 190681,
+      "name": "Vrijheid, Gelijkheid, Zusterschap",
+      "url": "https://open.spotify.com/track/4EIM7QMhQLg8Q28cXqqrUs"
+    },
+    {
+      "added_at": "2025-11-22 15:28:23",
+      "album": {
+        "name": "Century",
+        "url": "https://open.spotify.com/album/3iEInaFAamSTND6sovehX7"
+      },
+      "artists": [
+        {
+          "name": "EsDeeKid",
+          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
+        }
+      ],
+      "duration_ms": 109714,
+      "name": "Century",
+      "url": "https://open.spotify.com/track/1lJOLxDS8kS2rihrqezMcv"
+    },
+    {
+      "added_at": "2025-11-22 15:28:23",
+      "album": {
+        "name": "WHERE IS MY HUSBAND!",
+        "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 196795,
+      "name": "WHERE IS MY HUSBAND!",
+      "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
+    },
+    {
+      "added_at": "2025-11-22 15:28:23",
       "album": {
         "name": "WILDFIRE",
         "url": "https://open.spotify.com/album/5kckaBe8QaB0WzC6fByoem"
@@ -385,7 +417,27 @@
       "url": "https://open.spotify.com/track/1dpB1jrziyaczTQvvz8du1"
     },
     {
-      "added_at": "2025-11-21 13:56:11",
+      "added_at": "2025-11-22 15:28:23",
+      "album": {
+        "name": "Glas",
+        "url": "https://open.spotify.com/album/0kO81VfsNlgcdp206XgXQx"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        },
+        {
+          "name": "Racoon",
+          "url": "https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza"
+        }
+      ],
+      "duration_ms": 215585,
+      "name": "Glas",
+      "url": "https://open.spotify.com/track/3Xj9DodEXwgpTho3R9tU3b"
+    },
+    {
+      "added_at": "2025-11-22 15:28:23",
       "album": {
         "name": "FALL AGAIN",
         "url": "https://open.spotify.com/album/2Gwa3T4RlRVl2EBuDiiLEB"
@@ -409,59 +461,7 @@
       "url": "https://open.spotify.com/track/5OwcN7VpWuViKrtYlZuzTn"
     },
     {
-      "added_at": "2025-11-21 13:56:11",
-      "album": {
-        "name": "WHERE IS MY HUSBAND!",
-        "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 196795,
-      "name": "WHERE IS MY HUSBAND!",
-      "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
-    },
-    {
-      "added_at": "2025-11-21 13:56:11",
-      "album": {
-        "name": "Glas",
-        "url": "https://open.spotify.com/album/0kO81VfsNlgcdp206XgXQx"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        },
-        {
-          "name": "Racoon",
-          "url": "https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza"
-        }
-      ],
-      "duration_ms": 215585,
-      "name": "Glas",
-      "url": "https://open.spotify.com/track/3Xj9DodEXwgpTho3R9tU3b"
-    },
-    {
-      "added_at": "2025-11-21 13:56:11",
-      "album": {
-        "name": "Century",
-        "url": "https://open.spotify.com/album/3iEInaFAamSTND6sovehX7"
-      },
-      "artists": [
-        {
-          "name": "EsDeeKid",
-          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
-        }
-      ],
-      "duration_ms": 109714,
-      "name": "Century",
-      "url": "https://open.spotify.com/track/1lJOLxDS8kS2rihrqezMcv"
-    },
-    {
-      "added_at": "2025-11-21 13:56:11",
+      "added_at": "2025-11-22 15:28:23",
       "album": {
         "name": "NO BATID\u00c3O",
         "url": "https://open.spotify.com/album/5kB03HrxWnYPPB9BvwbYG1"
@@ -481,7 +481,107 @@
       "url": "https://open.spotify.com/track/72YttnPRxyHe8zCG50jYhj"
     },
     {
-      "added_at": "2025-11-21 13:56:11",
+      "added_at": "2025-11-22 15:28:23",
+      "album": {
+        "name": "Nighthawk (Reprise)",
+        "url": "https://open.spotify.com/album/6CRDx0qW96wAyZYoylUg8v"
+      },
+      "artists": [
+        {
+          "name": "Re:um",
+          "url": "https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Nighthawk - Reprise",
+      "url": "https://open.spotify.com/track/1HadQI0LBZKqF2J6iTRn0t"
+    },
+    {
+      "added_at": "2025-11-22 15:28:23",
+      "album": {
+        "name": "Rebel",
+        "url": "https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug"
+      },
+      "artists": [
+        {
+          "name": "EsDeeKid",
+          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
+        }
+      ],
+      "duration_ms": 146666,
+      "name": "4 Raws",
+      "url": "https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT"
+    },
+    {
+      "added_at": "2025-11-22 15:28:23",
+      "album": {
+        "name": "Captain",
+        "url": "https://open.spotify.com/album/4JyIQSykJUzxTdntLhqdio"
+      },
+      "artists": [
+        {
+          "name": "ChopCity",
+          "url": "https://open.spotify.com/artist/5jOkUo5pqi4gENfdfPYVyL"
+        }
+      ],
+      "duration_ms": 149539,
+      "name": "Captain",
+      "url": "https://open.spotify.com/track/3Z8OEfsix03lv3X7IWZaux"
+    },
+    {
+      "added_at": "2025-11-22 15:28:23",
+      "album": {
+        "name": "Onze Vlag (Official Release)",
+        "url": "https://open.spotify.com/album/35YyzUqdyFyxTBOYK52ImJ"
+      },
+      "artists": [
+        {
+          "name": "Freedom",
+          "url": "https://open.spotify.com/artist/38GCVbz9VJWSuZrV4MERq7"
+        }
+      ],
+      "duration_ms": 270960,
+      "name": "Onze Vlag - Official Release",
+      "url": "https://open.spotify.com/track/02Kd0YenJ59E78JZZh5qhq"
+    },
+    {
+      "added_at": "2025-11-22 15:28:23",
+      "album": {
+        "name": "WHEN A GIRL CRIES",
+        "url": "https://open.spotify.com/album/7KRiPA7S7cR3b6QZXePL91"
+      },
+      "artists": [
+        {
+          "name": "Olga Myko",
+          "url": "https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm"
+        }
+      ],
+      "duration_ms": 124608,
+      "name": "use me!!!!!!!",
+      "url": "https://open.spotify.com/track/73I3Tcfussd9QT9OY6dqSi"
+    },
+    {
+      "added_at": "2025-11-22 15:28:23",
+      "album": {
+        "name": "De Leukste Liedjes",
+        "url": "https://open.spotify.com/album/3IO1XB07hDlh8b2TLHqJTL"
+      },
+      "artists": [
+        {
+          "name": "De Club van Sinterklaas",
+          "url": "https://open.spotify.com/artist/4GaAzGCRu6rYPmVDn3iEJ1"
+        },
+        {
+          "name": "Danspiet",
+          "url": "https://open.spotify.com/artist/36lZXGOgNG1Y4j8mZWpUHm"
+        }
+      ],
+      "duration_ms": 168690,
+      "name": "Pietengym",
+      "url": "https://open.spotify.com/track/1FV4Ls00sp3LqjBH1kNIzH"
+    },
+    {
+      "added_at": "2025-11-22 15:28:23",
       "album": {
         "name": "Harlem's Finest: Return Of The King",
         "url": "https://open.spotify.com/album/52bbgcaJfoKW3N2eO8TYMN"
@@ -505,107 +605,7 @@
       "url": "https://open.spotify.com/track/7lCpzHEIIBf7BQKfRyRP01"
     },
     {
-      "added_at": "2025-11-21 13:56:11",
-      "album": {
-        "name": "Nighthawk (Reprise)",
-        "url": "https://open.spotify.com/album/6CRDx0qW96wAyZYoylUg8v"
-      },
-      "artists": [
-        {
-          "name": "Re:um",
-          "url": "https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Nighthawk - Reprise",
-      "url": "https://open.spotify.com/track/1HadQI0LBZKqF2J6iTRn0t"
-    },
-    {
-      "added_at": "2025-11-21 13:56:11",
-      "album": {
-        "name": "Rebel",
-        "url": "https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug"
-      },
-      "artists": [
-        {
-          "name": "EsDeeKid",
-          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
-        }
-      ],
-      "duration_ms": 146666,
-      "name": "4 Raws",
-      "url": "https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT"
-    },
-    {
-      "added_at": "2025-11-21 13:56:11",
-      "album": {
-        "name": "WHEN A GIRL CRIES",
-        "url": "https://open.spotify.com/album/7KRiPA7S7cR3b6QZXePL91"
-      },
-      "artists": [
-        {
-          "name": "Olga Myko",
-          "url": "https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm"
-        }
-      ],
-      "duration_ms": 124608,
-      "name": "use me!!!!!!!",
-      "url": "https://open.spotify.com/track/73I3Tcfussd9QT9OY6dqSi"
-    },
-    {
-      "added_at": "2025-11-21 13:56:11",
-      "album": {
-        "name": "Hey Macarena",
-        "url": "https://open.spotify.com/album/0Eh10dyBOSqJEOH1ewQOmc"
-      },
-      "artists": [
-        {
-          "name": "Fetty",
-          "url": "https://open.spotify.com/artist/553VSxbzZS8p7TSUhEbZuU"
-        }
-      ],
-      "duration_ms": 165878,
-      "name": "Hey Macarena",
-      "url": "https://open.spotify.com/track/2RYuapffXKoJGQaH0uNxLa"
-    },
-    {
-      "added_at": "2025-11-21 13:56:11",
-      "album": {
-        "name": "Captain",
-        "url": "https://open.spotify.com/album/4JyIQSykJUzxTdntLhqdio"
-      },
-      "artists": [
-        {
-          "name": "ChopCity",
-          "url": "https://open.spotify.com/artist/5jOkUo5pqi4gENfdfPYVyL"
-        }
-      ],
-      "duration_ms": 149539,
-      "name": "Captain",
-      "url": "https://open.spotify.com/track/3Z8OEfsix03lv3X7IWZaux"
-    },
-    {
-      "added_at": "2025-11-21 13:56:11",
-      "album": {
-        "name": "De Leukste Liedjes",
-        "url": "https://open.spotify.com/album/3IO1XB07hDlh8b2TLHqJTL"
-      },
-      "artists": [
-        {
-          "name": "De Club van Sinterklaas",
-          "url": "https://open.spotify.com/artist/4GaAzGCRu6rYPmVDn3iEJ1"
-        },
-        {
-          "name": "Danspiet",
-          "url": "https://open.spotify.com/artist/36lZXGOgNG1Y4j8mZWpUHm"
-        }
-      ],
-      "duration_ms": 168690,
-      "name": "Pietengym",
-      "url": "https://open.spotify.com/track/1FV4Ls00sp3LqjBH1kNIzH"
-    },
-    {
-      "added_at": "2025-11-21 13:56:11",
+      "added_at": "2025-11-22 15:28:23",
       "album": {
         "name": "Rebel",
         "url": "https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug"
@@ -625,7 +625,7 @@
       "url": "https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf"
     },
     {
-      "added_at": "2025-11-21 13:56:11",
+      "added_at": "2025-11-22 15:28:23",
       "album": {
         "name": "Rubber Band Man (with Hozier)",
         "url": "https://open.spotify.com/album/6yWyUmKuNAPw5M4Ee3PtUq"
@@ -645,7 +645,99 @@
       "url": "https://open.spotify.com/track/6rrqv0WwGTTlavCNqVGd6A"
     },
     {
-      "added_at": "2025-11-21 13:56:11",
+      "added_at": "2025-11-22 15:28:23",
+      "album": {
+        "name": "Porque Quise DELUXE",
+        "url": "https://open.spotify.com/album/78Ok3vPNjR0K0WKVz4wYNm"
+      },
+      "artists": [
+        {
+          "name": "FLVCKKA",
+          "url": "https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN"
+        },
+        {
+          "name": "Sleezy O",
+          "url": "https://open.spotify.com/artist/4lKCm9X9aPxuejrckz6b4n"
+        },
+        {
+          "name": "Maury",
+          "url": "https://open.spotify.com/artist/7LRYPLE0QYC8JeRWmFnGyg"
+        }
+      ],
+      "duration_ms": 173052,
+      "name": "Hotel Room",
+      "url": "https://open.spotify.com/track/2JvmvxYvYTijGMCpiulS3N"
+    },
+    {
+      "added_at": "2025-11-22 15:28:23",
+      "album": {
+        "name": "Deadbeat",
+        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 205308,
+      "name": "Dracula",
+      "url": "https://open.spotify.com/track/1NXbNEAcPvY5G1xvfN57aA"
+    },
+    {
+      "added_at": "2025-11-22 15:28:23",
+      "album": {
+        "name": "CHANEL",
+        "url": "https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 188059,
+      "name": "CHANEL",
+      "url": "https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7"
+    },
+    {
+      "added_at": "2025-11-22 15:28:23",
+      "album": {
+        "name": "NO BATID\u00c3O",
+        "url": "https://open.spotify.com/album/5kB03HrxWnYPPB9BvwbYG1"
+      },
+      "artists": [
+        {
+          "name": "ZXKAI",
+          "url": "https://open.spotify.com/artist/5tIkxADHN80ca0K6HCpWIt"
+        },
+        {
+          "name": "slxughter",
+          "url": "https://open.spotify.com/artist/1M02J1PLobtQYok93DEvVa"
+        }
+      ],
+      "duration_ms": 89745,
+      "name": "NO BATID\u00c3O",
+      "url": "https://open.spotify.com/track/7vg9noSnFEyPfwLiaCW4vi"
+    },
+    {
+      "added_at": "2025-11-22 15:28:23",
+      "album": {
+        "name": "Man I Need",
+        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Man I Need",
+      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
+    },
+    {
+      "added_at": "2025-11-22 15:28:23",
       "album": {
         "name": "Talk of the Town",
         "url": "https://open.spotify.com/album/7qjrNDFT178bazNZiASRBU"
@@ -669,75 +761,55 @@
       "url": "https://open.spotify.com/track/0Y2QAFRdkzrNAJDPJ5lATF"
     },
     {
-      "added_at": "2025-11-21 13:56:11",
+      "added_at": "2025-11-22 15:28:23",
       "album": {
-        "name": "Deadbeat",
-        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
       },
       "artists": [
         {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 205308,
-      "name": "Dracula",
-      "url": "https://open.spotify.com/track/1NXbNEAcPvY5G1xvfN57aA"
+      "duration_ms": 226073,
+      "name": "The Fate of Ophelia",
+      "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
     },
     {
-      "added_at": "2025-11-21 13:56:11",
+      "added_at": "2025-11-22 15:28:23",
       "album": {
-        "name": "NO BATID\u00c3O",
-        "url": "https://open.spotify.com/album/5kB03HrxWnYPPB9BvwbYG1"
+        "name": "Hey Macarena",
+        "url": "https://open.spotify.com/album/0Eh10dyBOSqJEOH1ewQOmc"
       },
       "artists": [
         {
-          "name": "ZXKAI",
-          "url": "https://open.spotify.com/artist/5tIkxADHN80ca0K6HCpWIt"
-        },
-        {
-          "name": "slxughter",
-          "url": "https://open.spotify.com/artist/1M02J1PLobtQYok93DEvVa"
+          "name": "Fetty",
+          "url": "https://open.spotify.com/artist/553VSxbzZS8p7TSUhEbZuU"
         }
       ],
-      "duration_ms": 89745,
-      "name": "NO BATID\u00c3O",
-      "url": "https://open.spotify.com/track/7vg9noSnFEyPfwLiaCW4vi"
+      "duration_ms": 165878,
+      "name": "Hey Macarena",
+      "url": "https://open.spotify.com/track/2RYuapffXKoJGQaH0uNxLa"
     },
     {
-      "added_at": "2025-11-21 13:56:11",
+      "added_at": "2025-11-22 15:28:23",
       "album": {
-        "name": "deims deims deims",
-        "url": "https://open.spotify.com/album/3KMu63c6EQF0bS6ugJZuZA"
+        "name": "Outro",
+        "url": "https://open.spotify.com/album/3pUJwPC75JQzqq76qQdIUA"
       },
       "artists": [
         {
-          "name": "kans",
-          "url": "https://open.spotify.com/artist/5giLuovJmGDbdWieMDoLyr"
+          "name": "The Saints",
+          "url": "https://open.spotify.com/artist/0CE9b5MpyYgJNxa2bNkOMc"
         }
       ],
-      "duration_ms": 235443,
-      "name": "princess treatment",
-      "url": "https://open.spotify.com/track/0HZSmDZqMkbllGsyEyPQ08"
+      "duration_ms": 144814,
+      "name": "Outro",
+      "url": "https://open.spotify.com/track/4zmRv5Br7ZFMAUHeqiPQ8R"
     },
     {
-      "added_at": "2025-11-21 13:56:11",
-      "album": {
-        "name": "Man I Need",
-        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Man I Need",
-      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
-    },
-    {
-      "added_at": "2025-11-21 13:56:11",
+      "added_at": "2025-11-22 15:28:23",
       "album": {
         "name": "Hazbin Hotel: Season Two (Original Soundtrack)",
         "url": "https://open.spotify.com/album/4Vhlieo0fDahoYEPvGbSEm"
@@ -769,23 +841,7 @@
       "url": "https://open.spotify.com/track/3SEVc1OeCtFmVVJPtWzq3P"
     },
     {
-      "added_at": "2025-11-21 13:56:11",
-      "album": {
-        "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 226073,
-      "name": "The Fate of Ophelia",
-      "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
-    },
-    {
-      "added_at": "2025-11-21 13:56:11",
+      "added_at": "2025-11-22 15:28:23",
       "album": {
         "name": "I Need You",
         "url": "https://open.spotify.com/album/1poVWT8ZlwVbtu2ZvMTfm2"
@@ -805,55 +861,47 @@
       "url": "https://open.spotify.com/track/2EMj2j03BtJeAmbfl7TeEr"
     },
     {
-      "added_at": "2025-11-21 13:56:11",
+      "added_at": "2025-11-22 15:28:23",
       "album": {
-        "name": "CHANEL",
-        "url": "https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59"
+        "name": "Bang Zijn In Het Donker",
+        "url": "https://open.spotify.com/album/5M4C8Jzb9zmV8ZKaQipgFp"
       },
       "artists": [
         {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+          "name": "KADO",
+          "url": "https://open.spotify.com/artist/3Q00kkvihGYh7ym4vMdpdZ"
+        },
+        {
+          "name": "De Club van Sinterklaas",
+          "url": "https://open.spotify.com/artist/4GaAzGCRu6rYPmVDn3iEJ1"
         }
       ],
-      "duration_ms": 188059,
-      "name": "CHANEL",
-      "url": "https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7"
+      "duration_ms": 177451,
+      "name": "Bang Zijn In Het Donker",
+      "url": "https://open.spotify.com/track/356E1rD0ZV9BVa3ErACR7R"
     },
     {
-      "added_at": "2025-11-21 13:56:11",
+      "added_at": "2025-11-22 15:28:23",
       "album": {
-        "name": "Outro",
-        "url": "https://open.spotify.com/album/3pUJwPC75JQzqq76qQdIUA"
+        "name": "Atje Voor De Sfeer - En Andere Sfeermakers",
+        "url": "https://open.spotify.com/album/6PujTxjH2gjAtGXiKZMW82"
       },
       "artists": [
         {
-          "name": "The Saints",
-          "url": "https://open.spotify.com/artist/0CE9b5MpyYgJNxa2bNkOMc"
-        }
-      ],
-      "duration_ms": 144814,
-      "name": "Outro",
-      "url": "https://open.spotify.com/track/4zmRv5Br7ZFMAUHeqiPQ8R"
-    },
-    {
-      "added_at": "2025-11-21 13:56:11",
-      "album": {
-        "name": "Rebel",
-        "url": "https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug"
-      },
-      "artists": [
+          "name": "Rene Karst",
+          "url": "https://open.spotify.com/artist/3upXQVqKZlTKRES3LQ9VjO"
+        },
         {
-          "name": "EsDeeKid",
-          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
+          "name": "Stef Ekkel",
+          "url": "https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm"
         }
       ],
-      "duration_ms": 96000,
-      "name": "Rottweiler",
-      "url": "https://open.spotify.com/track/7mcxFbFdnFFbWwPflgqqKE"
+      "duration_ms": 235840,
+      "name": "Liever Te Dik In De Kist",
+      "url": "https://open.spotify.com/track/2rKFSvEBn6lPmkrCKeXUQq"
     },
     {
-      "added_at": "2025-11-21 13:56:11",
+      "added_at": "2025-11-22 15:28:23",
       "album": {
         "name": "The Singer and the Song",
         "url": "https://open.spotify.com/album/5vVrfTlAZqwpdCs52MjdZH"
@@ -869,23 +917,23 @@
       "url": "https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s"
     },
     {
-      "added_at": "2025-11-21 13:56:11",
+      "added_at": "2025-11-22 15:28:23",
       "album": {
-        "name": "FU & UF",
-        "url": "https://open.spotify.com/album/6jcsn9AMkfslPTT3BVKQT1"
+        "name": "Rebel",
+        "url": "https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug"
       },
       "artists": [
         {
-          "name": "Skye Newman",
-          "url": "https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M"
+          "name": "EsDeeKid",
+          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
         }
       ],
-      "duration_ms": 159399,
-      "name": "FU & UF",
-      "url": "https://open.spotify.com/track/6vcMLDXzAHtw4fg2mI6veW"
+      "duration_ms": 96000,
+      "name": "Rottweiler",
+      "url": "https://open.spotify.com/track/7mcxFbFdnFFbWwPflgqqKE"
     },
     {
-      "added_at": "2025-11-21 13:56:11",
+      "added_at": "2025-11-22 15:28:23",
       "album": {
         "name": "27 Anos Nacional",
         "url": "https://open.spotify.com/album/5wcu3Cy16Mm6JJrVlIPsHW"
@@ -903,46 +951,6 @@
       "duration_ms": 140560,
       "name": "Mimosa 2000",
       "url": "https://open.spotify.com/track/79bWkyd08EFDO0ZZuu7IRT"
-    },
-    {
-      "added_at": "2025-11-21 13:56:11",
-      "album": {
-        "name": "Helaas",
-        "url": "https://open.spotify.com/album/5VJ9DvEiel3SnSZBSFGnvx"
-      },
-      "artists": [
-        {
-          "name": "Langa",
-          "url": "https://open.spotify.com/artist/0BFood0cmj86LkpdOArhNs"
-        },
-        {
-          "name": "Yssi SB",
-          "url": "https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8"
-        },
-        {
-          "name": "Rijck",
-          "url": "https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ"
-        }
-      ],
-      "duration_ms": 162666,
-      "name": "Helaas",
-      "url": "https://open.spotify.com/track/0JzULZMvwyf00IMQmGFoS5"
-    },
-    {
-      "added_at": "2025-11-21 13:56:11",
-      "album": {
-        "name": "Dit Is Je Verjaardag (Troetelnamen)",
-        "url": "https://open.spotify.com/album/6ClEJOlyQFv7jQu8ldgyrN"
-      },
-      "artists": [
-        {
-          "name": "Cadeautje voor jou",
-          "url": "https://open.spotify.com/artist/4QTEKQOOvUwm9JvTTNPbBJ"
-        }
-      ],
-      "duration_ms": 192092,
-      "name": "Lekker Ding, Dit Is Je Verjaardag",
-      "url": "https://open.spotify.com/track/6gnSMiZPMa0uEyn6nEfOH0"
     }
   ],
   "unique_name": "Viral 50 - Netherlands",

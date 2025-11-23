@@ -4,7 +4,7 @@
 
 > Sit back and relax to the chillest pop\.  Cover: SIENNA SPIRO
 
-2,477 songs - 5 day 13 hr 21 min
+2,478 songs - 5 day 13 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1045,7 +1045,7 @@
 | [I've Never Been To LA \(Edit\)](https://open.spotify.com/track/5f20q1GsH6sr5tD91jgbyP) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn), [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [I've Never Been To LA](https://open.spotify.com/album/3Ct1O772WdBCY6Cv7q9JAd) | 2:39 | 2022-07-29 | 2022-08-27 |
 | [Icee Pop](https://open.spotify.com/track/1zKOagmkCtXuGmCivG8HZE) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [Icee Pop](https://open.spotify.com/album/0N75npNB8Wo93bY41XjHr7) | 2:27 | 2021-09-04 | 2021-12-04 |
 | [ICU \(with Justin Timberlake\) \- Remix](https://open.spotify.com/track/1xs5R1koW93bXtXD2s59nR) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [ICU \(with Justin Timberlake\) \[Remix\]](https://open.spotify.com/album/2WknTzc9xga0IgeYMY3pZ7) | 3:38 | 2023-07-14 | 2023-09-16 |
-| [Idol](https://open.spotify.com/track/1UBtcVOE5D5cDemDTuYr5z) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [Fame Is A Bedroom](https://open.spotify.com/album/395i488E67L2F03RLeIzYp) | 2:39 | 2025-08-01 |  |
+| [Idol](https://open.spotify.com/track/1UBtcVOE5D5cDemDTuYr5z) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [Fame Is A Bedroom](https://open.spotify.com/album/395i488E67L2F03RLeIzYp) | 2:39 | 2025-08-01 | 2025-11-23 |
 | [If I Ain't Got You](https://open.spotify.com/track/1WoChv2ARhrKUhzHcmWqLd) | [Dan Talevski](https://open.spotify.com/artist/0Vu4A064M7J86SoMA0nrJH) | [If I Ain't Got You](https://open.spotify.com/album/5kzHHrO8DMBOkHpcmKQ5BP) | 2:57 | 2020-04-26\* | 2020-10-09 |
 | [If I Could](https://open.spotify.com/track/4HwzzfghdCXj2dVCpHsrup) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [If I Could](https://open.spotify.com/album/3CBuUMO8BUSmusHdeF0930) | 3:07 | 2021-04-17 | 2021-06-12 |
 | [If I Could](https://open.spotify.com/track/4Q1p1yb2ri1t920HOxuwqZ) | [Brynn Cartelli](https://open.spotify.com/artist/4NIPR04MgEH0K5uv8Gn7ek) | [If I Could](https://open.spotify.com/album/2GHzErUZ9VAH8wMyKPf9YF) | 3:18 | 2021-04-30 | 2021-07-04 |
@@ -2260,6 +2260,7 @@
 | [U and I \(Intertwine\)](https://open.spotify.com/track/3m4PhccmoJYS8ei9I1GQEX) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [U and I \(Intertwine\)](https://open.spotify.com/album/0RhDkObdl3kydd4jUIr6CA) | 2:46 | 2024-10-25 | 2025-01-11 |
 | [Underwater](https://open.spotify.com/track/2XNfonsNqgYIdYVJca3PAN) | [Phangs](https://open.spotify.com/artist/7zDSYCgSGUDOaKiXUiZkpi), [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Underwater](https://open.spotify.com/album/0IBcxOqgT6tZcyPi3H6UzO) | 3:05 | 2021-09-04 | 2021-09-25 |
 | [Underworld](https://open.spotify.com/track/7G7v5g0WC8E1RoidL43T6X) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Witching Hour](https://open.spotify.com/album/35TPXfDh8oqj7xpkaWhIKJ) | 3:20 | 2025-10-31 |  |
+| [UNDONE](https://open.spotify.com/track/4LSBkHIZSeV4u4ZMGeEstK) | [verygently](https://open.spotify.com/artist/6G76uCD9fXivb3G4OnnVG8) | [UNDONE](https://open.spotify.com/album/3FDeTfdo6brAijMp6GKRM1) | 2:51 | 2025-11-22 |  |
 | [undressed](https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [undressed](https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D) | 3:02 | 2025-04-04 | 2025-08-30 |
 | [Unfinished](https://open.spotify.com/track/7yluPHFAk2cr6sBLj9QlUx) | [Peter Thomas](https://open.spotify.com/artist/2MhPVBzM72QjbQPhybKjyr), [your friend polly](https://open.spotify.com/artist/7BMiTAo49FakImrjEyEFFN) | [Unfinished](https://open.spotify.com/album/2Nv7LYek8TNMEYB4aAuZ0D) | 2:10 | 2021-02-06 | 2021-04-30 |
 | [Unfinished Business \(with Toosii\)](https://open.spotify.com/track/6n7RTeAGfJxmW5DlyWNGJZ) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG), [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [Unfinished Business \(with Toosii\)](https://open.spotify.com/album/7evFqJiu2AESNqQmcoZlul) | 3:30 | 2024-04-05 | 2024-08-03 |

@@ -4,7 +4,7 @@
 
 > Những 🎶 từ những cái tên có thể bạn chưa biết\. Ảnh bìa: EREN
 
-2,215 songs - 5 day 9 hr 56 min
+2,216 songs - 5 day 10 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1075,6 +1075,7 @@
 | [Lời Em Bông Đùa](https://open.spotify.com/track/4v9P9d2jq57x0Jag2aBVd0) | [Huynh Duc](https://open.spotify.com/artist/1g6Z31sXLyZQHnljLpwOMX), [BMZ](https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m) | [Lời Em Bông Đùa](https://open.spotify.com/album/7xHpgfKdztX05st3XHYDmx) | 3:50 | 2025-05-23 |  |
 | [Lời Em Nói](https://open.spotify.com/track/64ofw7HN2Wx1uvkC5z7nCo) | [Lil Zpoet](https://open.spotify.com/artist/0T8DkuhhFhdWAMN0bdeLL7) | [Lời Em Nói](https://open.spotify.com/album/0t998F3RSSPze3IjCU8EdW) | 4:05 | 2022-08-13 | 2022-09-19 |
 | [Lời Hứa](https://open.spotify.com/track/1rt6n7tyVur9UGIv28iZzm) | [Haukong](https://open.spotify.com/artist/0UyTscBfKB6ILapfawqhFB) | [Lời Hứa](https://open.spotify.com/album/4atL59IwntCELTyKywEONH) | 2:59 | 2023-07-18 | 2023-09-15 |
+| [lời nói](https://open.spotify.com/track/1jPdq0C1ZCVsQFGtYvNcpk) | [mididuck](https://open.spotify.com/artist/6mpI54w7dPsRHzMAvXPe5W) | [lời nói](https://open.spotify.com/album/1KttXNkpwwBUEeU3yjvn7z) | 4:00 | 2025-11-20 |  |
 | [Lời Nói Dối Ngọt Ngào](https://open.spotify.com/track/7xnUWjDvdRnajKh2bsfINz) | [Clow](https://open.spotify.com/artist/340QB5yIg8bZoi4uJyTB30), [Flepy](https://open.spotify.com/artist/1enoud6bfOXZHHR72x4geR) | [Lời Nói Dối Ngọt Ngào](https://open.spotify.com/album/2lQfY6TJh9QhnqSi4EDRpO) | 3:49 | 2024-05-31 | 2024-08-23 |
 | [Lời Tỏ Tình Của Anh](https://open.spotify.com/track/2v8rFjrYb1E6FFBMM9fe2H) | [Namchan](https://open.spotify.com/artist/50nO5ayfr3HKGM19l7vsO6) | [Lời Tỏ Tình Của Anh](https://open.spotify.com/album/4uYZRp5lDicJ21DLsavqVI) | 3:52 | 2023-05-04 | 2023-06-26 |
 | [Lời Yêu](https://open.spotify.com/track/7bfQOoVOUfIvwezV9xJczb) | [Bàng Khánh Tùng Lâm](https://open.spotify.com/artist/6YPDCDSpf6aF6WXVAeEpVI) | [Lời Yêu](https://open.spotify.com/album/4NZlTh0eKMM8jrjQudKCFz) | 4:59 | 2022-01-06 | 2022-03-11 |

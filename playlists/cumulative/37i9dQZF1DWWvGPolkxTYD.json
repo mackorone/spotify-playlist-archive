@@ -435,6 +435,24 @@
     },
     {
       "album": {
+        "name": "Authentic Instrumental Music By the Most Famous Arab Artists",
+        "url": "https://open.spotify.com/album/7jtHS5TeiUrjJ6NpOkuP3w"
+      },
+      "artists": [
+        {
+          "name": "Mohai Eddine",
+          "url": "https://open.spotify.com/artist/7xAZRH3XRgD0S4ku0X9Ng3"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306920,
+      "name": "Hijaz",
+      "url": "https://open.spotify.com/track/3oINCsaTDaEaKVpgr344vM"
+    },
+    {
+      "album": {
         "name": "Maquamat Z\u00edry\u00e1b - Desde El E\u00fafrates Al Guadalquivir",
         "url": "https://open.spotify.com/album/1mLFGodMEuv4TqazLXlZaq"
       },
@@ -576,7 +594,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-23",
       "duration_ms": 210611,
       "name": "iSVE\u00c7 BAHARI",
       "url": "https://open.spotify.com/track/0qInJsghBH20hwv1yQkaUr"

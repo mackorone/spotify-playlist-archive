@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡La verdadera revolución son estas canciones bien chilas! 🙂‍↕️Eme Malafe en portada 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,089,923 likes - 64 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,090,727 likes - 64 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 31 | [Blanca Navidad](https://open.spotify.com/track/57aFfqr5OdXFwUf0ScXwL2) | [Alberto Y Roberto](https://open.spotify.com/artist/0OPjgWTre3WA03VewbWbm8) | [Blanca Navidad](https://open.spotify.com/album/6W2YEuUYawtcW2icA0V6oM) | 3:18 |
 | 32 | [El niño del jardín](https://open.spotify.com/track/7KCgQmSlOVLla0lUfyOgHs) | [Pato Shoucair](https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC) | [El niño del jardín](https://open.spotify.com/album/1VHgGrYlwALYsacDrFwSVQ) | 4:00 |
 | 33 | [Toronto](https://open.spotify.com/track/0nvg8vlz0qO47rkgOdVMwc) | [Nandé](https://open.spotify.com/artist/6Un4KvR9qpqYK1cS7jdiz2), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Guaco](https://open.spotify.com/artist/5v3TYN6Mmi5vxV2uSOfXot) | [Toronto](https://open.spotify.com/album/5JUO2EXajZrdNfB9MrJu9W) | 3:18 |
-| 34 | [FUMA](https://open.spotify.com/track/0O7RhXSVivzJIIHTs8v27u) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [FUMA](https://open.spotify.com/album/5oYE5BgIcSmEuxvkZi93VT) | 2:39 |
+| 34 | [Fuma](https://open.spotify.com/track/0O7RhXSVivzJIIHTs8v27u) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Fuma](https://open.spotify.com/album/5oYE5BgIcSmEuxvkZi93VT) | 2:39 |
 | 35 | [Rayitos](https://open.spotify.com/track/3awJNyuaTL9mqkcjnIxZnM) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [Rayitos](https://open.spotify.com/album/4afObT9dMGn4gUHJIhmbKj) | 2:26 |
 | 36 | [Pa' Que Bailen](https://open.spotify.com/track/7hFDjHDcLe0lzk20SubXn1) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Zkiper Mami](https://open.spotify.com/artist/42dhqBXADvMbtRoUX2SckE), [Jencko el Shinobi](https://open.spotify.com/artist/0AiOQ82ODy99sd6kJ15Cmf) | [Pa' Que Bailen](https://open.spotify.com/album/2HVL07WgY7au3RDo8ZGljJ) | 2:09 |
 | 37 | [Relato Corto](https://open.spotify.com/track/15ox9BL23DZVhZwyQojCa3) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy), [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df) | [Relato Corto](https://open.spotify.com/album/0jF4hpBAZizqq3ywXX2IMD) | 3:34 |

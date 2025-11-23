@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6ejV2Sv22Q.md) - [plain]
 
 > aquí está la nueva ola 🌊  DannyLux en cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,283 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,287 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6ejV2Sv22Q.md) - [plain]
 | 99 | [Nadie Me Corta el Pelo Como Tú](https://open.spotify.com/track/0QKl2byffi9u6tDHuKe5OT) | [Arath Herce](https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs) | [Nadie Me Corta el Pelo Como Tú](https://open.spotify.com/album/0bfXdh6mwJ7AyS8RN8AfdD) | 4:21 |
 | 100 | [SI TANTO NOS QUISIMOS](https://open.spotify.com/track/4QL6QWOX6DUfeBWpLG1rE9) | [Emiliano Athie](https://open.spotify.com/artist/1qho775jbZoPnNUR9Xtjzr) | [SI TANTO NOS QUISIMOS](https://open.spotify.com/album/2PIiONiHNOUOWDjwjSELdk) | 3:08 |
 
-Snapshot ID: `AAAAAKX7YjuadFLVoxBKljz6jZb9ZMxr`
+Snapshot ID: `AAAAALiJ6Ulzt6Jso+Xepps7HZYzJJmQ`

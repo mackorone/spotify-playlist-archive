@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfR43X3iEzK.md) - [plain]
 
 > my alt/pop could mean anything ⚔️<br/>cover: iris caltwait
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,180 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,181 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfR43X3iEzK.md) - [plain]
 | 74 | [IRON PILLS](https://open.spotify.com/track/0H9EoYRfDNaLmG6qNybojS) | [Cruel Sister](https://open.spotify.com/artist/3SZEdCibGdV5nwK99zdvs2) | [IRON PILLS](https://open.spotify.com/album/6ZDdc3VxbvV2iun2T5RhcO) | 3:18 |
 | 75 | [Overspill](https://open.spotify.com/track/4PVPEQIAnSxcjqezB64JSl) | [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Overspill](https://open.spotify.com/album/2QpWTctPOArceSSiccWRGG) | 3:02 |
 
-Snapshot ID: `AAAAAKhRBceo7L5SODTw71r2mvyGS6P7`
+Snapshot ID: `AAAAANUBgz/4PjM7uysE+6/1PI6oXIFM`

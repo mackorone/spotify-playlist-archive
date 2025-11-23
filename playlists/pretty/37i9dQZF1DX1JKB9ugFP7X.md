@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JKB9ugFP7X.md) - [plain]
 
 > Lo mejor del electropop latino\. Foto: Vera Frod
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,765 likes - 102 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,767 likes - 102 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JKB9ugFP7X.md) - [plain]
 | 45 | [Entre las Dos](https://open.spotify.com/track/2SbinZ9sYneunRL0MNxlbZ) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Souvenir](https://open.spotify.com/album/6nva6vnxk725eRidB3AgbC) | 3:25 |
 | 46 | [Viuda Negra](https://open.spotify.com/track/6rRRyACUiaR5cofbCebCyS) | [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [Viuda Negra](https://open.spotify.com/album/3IgfcnDObtQ5IHWgQ3Fd5o) | 3:20 |
 | 47 | [Qué Bueno Que Llegaste](https://open.spotify.com/track/4PNqYBcu4KvFHUD8LOPATS) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn), [Bronko Yotte](https://open.spotify.com/artist/6l78ydrIl7eG2kPTwGXaz7) | [Qué Bueno Que Llegaste](https://open.spotify.com/album/7Gn1FfMecfsL1T1fOAw6MY) | 4:35 |
-| 48 | [SUPERSÓNICO](https://open.spotify.com/track/2R6fl47tA6PG6vSBgurvma) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf), [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [BAÑO MARÍA](https://open.spotify.com/album/1XX2taUAddEZQX4QinYxX2) | 2:48 |
+| 48 | [SUPERSÓNICO](https://open.spotify.com/track/2R6fl47tA6PG6vSBgurvma) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [BAÑO MARÍA](https://open.spotify.com/album/1XX2taUAddEZQX4QinYxX2) | 2:48 |
 | 49 | [No Van a Parar](https://open.spotify.com/track/1GLYsZMbHm72Uy2QvzdgDQ) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Anestesia](https://open.spotify.com/album/28uJVNr4dYysur0Fcay4B2) | 4:46 |
 | 50 | [Paralelos](https://open.spotify.com/track/5w3HWGK9jV9Q4CJRnpDtCe) | [Letizia Vocos](https://open.spotify.com/artist/77rQe9vdtoafAbGNaiowu8) | [Paralelos](https://open.spotify.com/album/546I7TC2jo8xjpQ8wOdYWl) | 3:52 |
 | 51 | [Nuestro Vuelo](https://open.spotify.com/track/0P3ABqtwEYh7mHstHzDBnA) | [BADS](https://open.spotify.com/artist/5a6DWvQsxBbTyRVom1TGb3) | [Nuestro Vuelo](https://open.spotify.com/album/57hOmfTXjTKvZ0kqBUcpzI) | 2:50 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JKB9ugFP7X.md) - [plain]
 | 101 | [Juego Amoroso](https://open.spotify.com/track/0z40KTSBqMWIhoFsGF2K9U) | [Entrópica](https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08), [Cecilia Aguayo](https://open.spotify.com/artist/6rXlCSp0d779BSfgaIvCI2) | [Juego Amoroso](https://open.spotify.com/album/0J6rQSqSd7VADiee89nGdv) | 4:18 |
 | 102 | [Bórrame el Dolor ☆](https://open.spotify.com/track/4hv9p4wMWoBTDgdaWw6fmB) | [DANI RIDE](https://open.spotify.com/artist/3KKA5IFGqdkUw7i657IEL6), [Supernova](https://open.spotify.com/artist/4hp1i0d15TWg1YN3lCUWgq) | [Bórrame el Dolor ☆](https://open.spotify.com/album/30eyu4C1vjBzJlMsJ5XBxW) | 3:43 |
 
-Snapshot ID: `AAAAAP+proPsqte9DwE9gBbs8CPhZ3DO`
+Snapshot ID: `AAAAAI+XryK07ZP3Q8/VCR7v1Fx1L7gu`

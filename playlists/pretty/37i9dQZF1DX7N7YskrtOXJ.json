@@ -1,6 +1,6 @@
 {
   "description": "La fiesta se enciende con cumbia.\n",
-  "num_followers": 119178,
+  "num_followers": 119243,
   "original_name": "Cumbias para carretear",
   "owner": {
     "name": "Spotify",
@@ -91,6 +91,22 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
+        "name": "LA NENA DE ARGENTINA",
+        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 160856,
+      "name": "ADI\u00d3S",
+      "url": "https://open.spotify.com/track/2bNCiY24Eh4saMcc23bvUN"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
         "name": "El Comienzo",
         "url": "https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT"
       },
@@ -107,22 +123,6 @@
       "duration_ms": 221601,
       "name": "OJITOS ROJOS",
       "url": "https://open.spotify.com/track/11PV8CaPqlto9Uejx92C35"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
-        "name": "LA NENA DE ARGENTINA",
-        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 160856,
-      "name": "ADI\u00d3S",
-      "url": "https://open.spotify.com/track/2bNCiY24Eh4saMcc23bvUN"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -839,22 +839,6 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Somos Parte de Tu Vida",
-        "url": "https://open.spotify.com/album/6t4VfXgbfFiQ32V69loQ5K"
-      },
-      "artists": [
-        {
-          "name": "Grupo Alegria",
-          "url": "https://open.spotify.com/artist/5j0zxJF926wIDiCXMmJGkg"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Mujeres y Cerveza",
-      "url": "https://open.spotify.com/track/0u8Xjs6MaShfUSZ5XAEoaO"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
         "name": "A Morir",
         "url": "https://open.spotify.com/album/5zlUl4R0tqxC6GUlYemOZy"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 232515,
       "name": "Entre el Odio y el Amor",
       "url": "https://open.spotify.com/track/1TmHJBYmcbLzUCpJbYCfRp"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
+        "name": "Somos Parte de Tu Vida",
+        "url": "https://open.spotify.com/album/6t4VfXgbfFiQ32V69loQ5K"
+      },
+      "artists": [
+        {
+          "name": "Grupo Alegria",
+          "url": "https://open.spotify.com/artist/5j0zxJF926wIDiCXMmJGkg"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Mujeres y Cerveza",
+      "url": "https://open.spotify.com/track/0u8Xjs6MaShfUSZ5XAEoaO"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -887,22 +887,6 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Sue\u00f1o Su Boca",
-        "url": "https://open.spotify.com/album/73aIXXhkTKeQ4fz72gVcrr"
-      },
-      "artists": [
-        {
-          "name": "Peregrinos del Amor",
-          "url": "https://open.spotify.com/artist/5xuReDWUr32LPHVtCXE6gM"
-        }
-      ],
-      "duration_ms": 356938,
-      "name": "La Santa Diabla",
-      "url": "https://open.spotify.com/track/4FeUB6lhoT0Z3e43IHD4F8"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
         "name": "Iconos Kitsch",
         "url": "https://open.spotify.com/album/20lnY27K2DUJAR5WMbVfME"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 209005,
       "name": "Boquita De Caramelo",
       "url": "https://open.spotify.com/track/5qO03VRi0VQ3TVVGSE0QwJ"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
+        "name": "Sue\u00f1o Su Boca",
+        "url": "https://open.spotify.com/album/73aIXXhkTKeQ4fz72gVcrr"
+      },
+      "artists": [
+        {
+          "name": "Peregrinos del Amor",
+          "url": "https://open.spotify.com/artist/5xuReDWUr32LPHVtCXE6gM"
+        }
+      ],
+      "duration_ms": 356938,
+      "name": "La Santa Diabla",
+      "url": "https://open.spotify.com/track/4FeUB6lhoT0Z3e43IHD4F8"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Late Que Late",
-        "url": "https://open.spotify.com/album/3CchqS3Ja713mLzjCsl3eH"
-      },
-      "artists": [
-        {
-          "name": "Sonora Malec\u00f3n",
-          "url": "https://open.spotify.com/artist/0VqdDDrHPFAdqzDR08FySM"
-        }
-      ],
-      "duration_ms": 186293,
-      "name": "Melosa",
-      "url": "https://open.spotify.com/track/4Pss9knIWhZDWlGXmnDI0S"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
         "name": "Compa\u00f1eros",
         "url": "https://open.spotify.com/album/54d0VDtGvhr7zgX2ouIo5T"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 190736,
       "name": "Pero Qu\u00e9 Necesidad",
       "url": "https://open.spotify.com/track/2LIP7t0gZhQjTJM7iGMZqR"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
+        "name": "Late Que Late",
+        "url": "https://open.spotify.com/album/3CchqS3Ja713mLzjCsl3eH"
+      },
+      "artists": [
+        {
+          "name": "Sonora Malec\u00f3n",
+          "url": "https://open.spotify.com/artist/0VqdDDrHPFAdqzDR08FySM"
+        }
+      ],
+      "duration_ms": 186293,
+      "name": "Melosa",
+      "url": "https://open.spotify.com/track/4Pss9knIWhZDWlGXmnDI0S"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Afrorumba Chilenera",
-        "url": "https://open.spotify.com/album/334OZeCYbDhSwj5mP9DD03"
+        "name": "Moral Distra\u00edda",
+        "url": "https://open.spotify.com/album/3DJRdHtWaZNJLiJHG7b1jx"
       },
       "artists": [
         {
-          "name": "Juanaf\u00e9",
-          "url": "https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d"
+          "name": "Moral Distraida",
+          "url": "https://open.spotify.com/artist/4IdI1p8OrVpot6dbdCl3wv"
         }
       ],
-      "duration_ms": 209173,
-      "name": "Callejero",
-      "url": "https://open.spotify.com/track/2ZzEsTTMNNVZ7x5mQ7O1xE"
+      "duration_ms": 198173,
+      "name": "El Men\u00fa",
+      "url": "https://open.spotify.com/track/4gpk5y4EPsHFak0ORjOl5l"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -1223,34 +1223,18 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Moral Distra\u00edda",
-        "url": "https://open.spotify.com/album/3DJRdHtWaZNJLiJHG7b1jx"
+        "name": "Afrorumba Chilenera",
+        "url": "https://open.spotify.com/album/334OZeCYbDhSwj5mP9DD03"
       },
       "artists": [
         {
-          "name": "Moral Distraida",
-          "url": "https://open.spotify.com/artist/4IdI1p8OrVpot6dbdCl3wv"
+          "name": "Juanaf\u00e9",
+          "url": "https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d"
         }
       ],
-      "duration_ms": 198173,
-      "name": "El Men\u00fa",
-      "url": "https://open.spotify.com/track/4gpk5y4EPsHFak0ORjOl5l"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
-        "name": "Grupo Hechizo",
-        "url": "https://open.spotify.com/album/4nfCxHtQc9OfOrpvfJPGfC"
-      },
-      "artists": [
-        {
-          "name": "Grupo Hechizo",
-          "url": "https://open.spotify.com/artist/2j7cp8QCujOktjxUXuNou3"
-        }
-      ],
-      "duration_ms": 226173,
-      "name": "La Temporera",
-      "url": "https://open.spotify.com/track/24mXt0wbrcsVcDiaG4J2fH"
+      "duration_ms": 209173,
+      "name": "Callejero",
+      "url": "https://open.spotify.com/track/2ZzEsTTMNNVZ7x5mQ7O1xE"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -1267,6 +1251,22 @@
       "duration_ms": 224960,
       "name": "Haciendo el Amor",
       "url": "https://open.spotify.com/track/5lIWfnNZSSm4BA5xggmwVY"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
+        "name": "Grupo Hechizo",
+        "url": "https://open.spotify.com/album/4nfCxHtQc9OfOrpvfJPGfC"
+      },
+      "artists": [
+        {
+          "name": "Grupo Hechizo",
+          "url": "https://open.spotify.com/artist/2j7cp8QCujOktjxUXuNou3"
+        }
+      ],
+      "duration_ms": 226173,
+      "name": "La Temporera",
+      "url": "https://open.spotify.com/track/24mXt0wbrcsVcDiaG4J2fH"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Cuerpo Repartido",
-        "url": "https://open.spotify.com/album/6nInC3tIJkiTcnw0gWeCi5"
-      },
-      "artists": [
-        {
-          "name": "Banda Conmoci\u00f3n",
-          "url": "https://open.spotify.com/artist/2UNMW1OKE0X1cwJHWER67g"
-        }
-      ],
-      "duration_ms": 154226,
-      "name": "El Casorio",
-      "url": "https://open.spotify.com/track/2S8HP57phymdKP3rzMoZRr"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
         "name": "Onda Tropical",
         "url": "https://open.spotify.com/album/0dErpFspzQ1Zunqh7esrEu"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 255160,
       "name": "Acercate MI Amor",
       "url": "https://open.spotify.com/track/0drMB4P0bjoRrSQTKKlpkx"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
+        "name": "Cuerpo Repartido",
+        "url": "https://open.spotify.com/album/6nInC3tIJkiTcnw0gWeCi5"
+      },
+      "artists": [
+        {
+          "name": "Banda Conmoci\u00f3n",
+          "url": "https://open.spotify.com/artist/2UNMW1OKE0X1cwJHWER67g"
+        }
+      ],
+      "duration_ms": 154226,
+      "name": "El Casorio",
+      "url": "https://open.spotify.com/track/2S8HP57phymdKP3rzMoZRr"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "20 Grandes Exitos",
-        "url": "https://open.spotify.com/album/2GBYmiFIKmUtmpe4mqdQg9"
-      },
-      "artists": [
-        {
-          "name": "Karicia",
-          "url": "https://open.spotify.com/artist/4OeXcGvSUYN3eMgy73WBtd"
-        }
-      ],
-      "duration_ms": 202026,
-      "name": "Chica Sexy",
-      "url": "https://open.spotify.com/track/3eX8c4VjTJqFD0sZE6lduc"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
         "name": "Onda Tropical",
         "url": "https://open.spotify.com/album/0dErpFspzQ1Zunqh7esrEu"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 143640,
       "name": "Ni Que Estuviera Loco",
       "url": "https://open.spotify.com/track/4l4uqVLKzGt7icoCj8ycZG"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
+        "name": "20 Grandes Exitos",
+        "url": "https://open.spotify.com/album/2GBYmiFIKmUtmpe4mqdQg9"
+      },
+      "artists": [
+        {
+          "name": "Karicia",
+          "url": "https://open.spotify.com/artist/4OeXcGvSUYN3eMgy73WBtd"
+        }
+      ],
+      "duration_ms": 202026,
+      "name": "Chica Sexy",
+      "url": "https://open.spotify.com/track/3eX8c4VjTJqFD0sZE6lduc"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Con Paso Firme",
-        "url": "https://open.spotify.com/album/3UHCJyfAEAXcc7CrR2OWvZ"
+        "name": "Me Emborrachar\u00e9",
+        "url": "https://open.spotify.com/album/5YfG3oN7ijMQljJo7Z3gBI"
       },
       "artists": [
         {
-          "name": "Los Kachorros",
-          "url": "https://open.spotify.com/artist/7hFe2cAs691Jb0Pxvb2yad"
+          "name": "Jordan",
+          "url": "https://open.spotify.com/artist/4wO1Ld1CKjm4vFMNUn7E7k"
         }
       ],
-      "duration_ms": 234761,
-      "name": "Hermano Mio",
-      "url": "https://open.spotify.com/track/5bVUbOMOQfG9uXnN7c9AKk"
+      "duration_ms": 242718,
+      "name": "Me Emborrachare",
+      "url": "https://open.spotify.com/track/6UmL7VOgbpvvRCGeqJnKrK"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Me Emborrachar\u00e9",
-        "url": "https://open.spotify.com/album/5YfG3oN7ijMQljJo7Z3gBI"
-      },
-      "artists": [
-        {
-          "name": "Jordan",
-          "url": "https://open.spotify.com/artist/4wO1Ld1CKjm4vFMNUn7E7k"
-        }
-      ],
-      "duration_ms": 242718,
-      "name": "Me Emborrachare",
-      "url": "https://open.spotify.com/track/6UmL7VOgbpvvRCGeqJnKrK"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
         "name": "Digan Lo Que Digan",
         "url": "https://open.spotify.com/album/4FCdQWYqbvztVZEB7YVsGu"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 174889,
       "name": "Ritmo Sabroso",
       "url": "https://open.spotify.com/track/6nwIqQv2JXDahVTXZitzXQ"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
+        "name": "Con Paso Firme",
+        "url": "https://open.spotify.com/album/3UHCJyfAEAXcc7CrR2OWvZ"
+      },
+      "artists": [
+        {
+          "name": "Los Kachorros",
+          "url": "https://open.spotify.com/artist/7hFe2cAs691Jb0Pxvb2yad"
+        }
+      ],
+      "duration_ms": 234761,
+      "name": "Hermano Mio",
+      "url": "https://open.spotify.com/track/5bVUbOMOQfG9uXnN7c9AKk"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -1531,18 +1531,18 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Grupo Hechizo",
-        "url": "https://open.spotify.com/album/4nfCxHtQc9OfOrpvfJPGfC"
+        "name": "Soy Cumbia",
+        "url": "https://open.spotify.com/album/1NSU7oS48L2ez79wVbO2lE"
       },
       "artists": [
         {
-          "name": "Grupo Hechizo",
-          "url": "https://open.spotify.com/artist/2j7cp8QCujOktjxUXuNou3"
+          "name": "Am\u00e9rico",
+          "url": "https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c"
         }
       ],
-      "duration_ms": 206240,
-      "name": "T\u00edmido",
-      "url": "https://open.spotify.com/track/4jdB97BKq7L6pOby20Nmed"
+      "duration_ms": 267789,
+      "name": "Tu Sangre En Mi cuerpo Feat. Domi",
+      "url": "https://open.spotify.com/track/3yRvZoHfliGWeSwUq5ggYV"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -1563,18 +1563,34 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Soy Cumbia",
-        "url": "https://open.spotify.com/album/1NSU7oS48L2ez79wVbO2lE"
+        "name": "Grupo Hechizo",
+        "url": "https://open.spotify.com/album/4nfCxHtQc9OfOrpvfJPGfC"
       },
       "artists": [
         {
-          "name": "Am\u00e9rico",
-          "url": "https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c"
+          "name": "Grupo Hechizo",
+          "url": "https://open.spotify.com/artist/2j7cp8QCujOktjxUXuNou3"
         }
       ],
-      "duration_ms": 267789,
-      "name": "Tu Sangre En Mi cuerpo Feat. Domi",
-      "url": "https://open.spotify.com/track/3yRvZoHfliGWeSwUq5ggYV"
+      "duration_ms": 206240,
+      "name": "T\u00edmido",
+      "url": "https://open.spotify.com/track/4jdB97BKq7L6pOby20Nmed"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
+        "name": "Nectar Internacional",
+        "url": "https://open.spotify.com/album/5zKXDh6rHtZWHcQyyOgxE4"
+      },
+      "artists": [
+        {
+          "name": "Grupo Nectar",
+          "url": "https://open.spotify.com/artist/67ktO6WKPZ0h4cBxSBBoep"
+        }
+      ],
+      "duration_ms": 226602,
+      "name": "Tu Vives Equivocada",
+      "url": "https://open.spotify.com/track/4NecYY3NKC7FdPXSgJcJ80"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -1595,18 +1611,22 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Nectar Internacional",
-        "url": "https://open.spotify.com/album/5zKXDh6rHtZWHcQyyOgxE4"
+        "name": "Sigue La Cumbia",
+        "url": "https://open.spotify.com/album/0IPyzHUYM7ZQTrC7p5WTNx"
       },
       "artists": [
         {
-          "name": "Grupo Nectar",
-          "url": "https://open.spotify.com/artist/67ktO6WKPZ0h4cBxSBBoep"
+          "name": "Am\u00e9rico",
+          "url": "https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c"
+        },
+        {
+          "name": "Leo Rey",
+          "url": "https://open.spotify.com/artist/2nhjfjsQ7lMfDT4wy99310"
         }
       ],
-      "duration_ms": 226602,
-      "name": "Tu Vives Equivocada",
-      "url": "https://open.spotify.com/track/4NecYY3NKC7FdPXSgJcJ80"
+      "duration_ms": 166586,
+      "name": "Sigue La Cumbia",
+      "url": "https://open.spotify.com/track/0sUz6Aj7VGvrWo8q6g2T7C"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -1635,42 +1655,6 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Eclipse Musical",
-        "url": "https://open.spotify.com/album/7pnhfzX9ANGbKBVyTVtvLz"
-      },
-      "artists": [
-        {
-          "name": "Eclipse Musical",
-          "url": "https://open.spotify.com/artist/34CGGuUCKlrLtfKeq6viX9"
-        }
-      ],
-      "duration_ms": 286960,
-      "name": "Caprichosa",
-      "url": "https://open.spotify.com/track/68ECGlT3qgqTDzS2FcjVES"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
-        "name": "Sigue La Cumbia",
-        "url": "https://open.spotify.com/album/0IPyzHUYM7ZQTrC7p5WTNx"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9rico",
-          "url": "https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c"
-        },
-        {
-          "name": "Leo Rey",
-          "url": "https://open.spotify.com/artist/2nhjfjsQ7lMfDT4wy99310"
-        }
-      ],
-      "duration_ms": 166586,
-      "name": "Sigue La Cumbia",
-      "url": "https://open.spotify.com/track/0sUz6Aj7VGvrWo8q6g2T7C"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
         "name": "Pregonero",
         "url": "https://open.spotify.com/album/44vJ4lHPNZmfZ09TJ4Q1Hd"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 157000,
       "name": "Flor de Cumbi\u00f3n",
       "url": "https://open.spotify.com/track/1iw2aoN9vgmzHw0acRFvAZ"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
+        "name": "Eclipse Musical",
+        "url": "https://open.spotify.com/album/7pnhfzX9ANGbKBVyTVtvLz"
+      },
+      "artists": [
+        {
+          "name": "Eclipse Musical",
+          "url": "https://open.spotify.com/artist/34CGGuUCKlrLtfKeq6viX9"
+        }
+      ],
+      "duration_ms": 286960,
+      "name": "Caprichosa",
+      "url": "https://open.spotify.com/track/68ECGlT3qgqTDzS2FcjVES"
     },
     {
       "added_at": "2025-11-20 11:23:04",

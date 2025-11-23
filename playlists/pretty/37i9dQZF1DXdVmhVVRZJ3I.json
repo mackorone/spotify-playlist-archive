@@ -1,12 +1,12 @@
 {
   "description": "Eletr\u00f4nico energ\u00e9tico para acompanhar a sua malha\u00e7\u00e3o di\u00e1ria. ",
-  "num_followers": 336458,
+  "num_followers": 336565,
   "original_name": "Treino Eletr\u00f4nico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMWluii8g4uZgzK4teWyv95gc/Pk",
+  "snapshot_id": "AAAAAJzX6bRo1XKgeXIXL0LyG61EXxII",
   "tracks": [
     {
       "added_at": "2025-11-14 03:03:05",
@@ -835,26 +835,6 @@
     {
       "added_at": "2025-11-14 03:03:05",
       "album": {
-        "name": "New Memories",
-        "url": "https://open.spotify.com/album/1aTVxDieuETvXezEvjYmcI"
-      },
-      "artists": [
-        {
-          "name": "DubVision",
-          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
-        },
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        }
-      ],
-      "duration_ms": 194655,
-      "name": "New Memories",
-      "url": "https://open.spotify.com/track/7C9SonafFzEtoheAQDQ2UW"
-    },
-    {
-      "added_at": "2025-11-14 03:03:05",
-      "album": {
         "name": "Terremoto EP",
         "url": "https://open.spotify.com/album/0aJooEPl35trvbDJxdFEj4"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 165519,
       "name": "Terremoto",
       "url": "https://open.spotify.com/track/0sL7klqtKTaMVVC3CCXwRv"
+    },
+    {
+      "added_at": "2025-11-14 03:03:05",
+      "album": {
+        "name": "New Memories",
+        "url": "https://open.spotify.com/album/1aTVxDieuETvXezEvjYmcI"
+      },
+      "artists": [
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        },
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "duration_ms": 194655,
+      "name": "New Memories",
+      "url": "https://open.spotify.com/track/7C9SonafFzEtoheAQDQ2UW"
     },
     {
       "added_at": "2025-11-14 03:03:05",
@@ -895,22 +895,6 @@
     {
       "added_at": "2025-11-14 03:03:05",
       "album": {
-        "name": "Won't Back Down",
-        "url": "https://open.spotify.com/album/4rSbStRk8uNhSe1BrUPHII"
-      },
-      "artists": [
-        {
-          "name": "PRINSH",
-          "url": "https://open.spotify.com/artist/5h94tCQLiKuHEOlZMgMRJ4"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Won't Back Down",
-      "url": "https://open.spotify.com/track/58NXc2BrSHGkkPb1RWabkx"
-    },
-    {
-      "added_at": "2025-11-14 03:03:05",
-      "album": {
         "name": "The Age of Love 2022",
         "url": "https://open.spotify.com/album/2SFKqoZuBpOzhu4zcG9ATE"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 189561,
       "name": "The Age of Love 2022",
       "url": "https://open.spotify.com/track/6KvYwiJbPUzmBw7Wif2aMX"
+    },
+    {
+      "added_at": "2025-11-14 03:03:05",
+      "album": {
+        "name": "Won't Back Down",
+        "url": "https://open.spotify.com/album/4rSbStRk8uNhSe1BrUPHII"
+      },
+      "artists": [
+        {
+          "name": "PRINSH",
+          "url": "https://open.spotify.com/artist/5h94tCQLiKuHEOlZMgMRJ4"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Won't Back Down",
+      "url": "https://open.spotify.com/track/58NXc2BrSHGkkPb1RWabkx"
     },
     {
       "added_at": "2025-11-14 03:03:05",
@@ -1023,22 +1023,26 @@
     {
       "added_at": "2025-11-14 03:03:05",
       "album": {
-        "name": "079",
-        "url": "https://open.spotify.com/album/717BskCJ1pYenCuIzoEPW6"
+        "name": "No Roots (Radio Mix)",
+        "url": "https://open.spotify.com/album/0hL1wrX9moH4mtTTpBcGso"
       },
       "artists": [
         {
-          "name": "Rain Radio",
-          "url": "https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY"
+          "name": "RADI\u00d8MATIK",
+          "url": "https://open.spotify.com/artist/0yTp5veHJAyKhfYdvmyh7B"
         },
         {
-          "name": "Block Notice",
-          "url": "https://open.spotify.com/artist/60rugLFQWUwxQEAT8ViGzq"
+          "name": "Wolsh",
+          "url": "https://open.spotify.com/artist/0dBHeI1RuLCkzOkTcIXwPm"
+        },
+        {
+          "name": "y'all",
+          "url": "https://open.spotify.com/artist/2OyqFs2P2MTcdExpmZKzub"
         }
       ],
-      "duration_ms": 168200,
-      "name": "079",
-      "url": "https://open.spotify.com/track/1ULaCASWLNrzg76Jt3VDWd"
+      "duration_ms": 173145,
+      "name": "No Roots (Radio Mix)",
+      "url": "https://open.spotify.com/track/4Zk8WXgdRz6iYVkrYt77nX"
     },
     {
       "added_at": "2025-11-14 03:03:05",
@@ -1063,26 +1067,22 @@
     {
       "added_at": "2025-11-14 03:03:05",
       "album": {
-        "name": "No Roots (Radio Mix)",
-        "url": "https://open.spotify.com/album/0hL1wrX9moH4mtTTpBcGso"
+        "name": "079",
+        "url": "https://open.spotify.com/album/717BskCJ1pYenCuIzoEPW6"
       },
       "artists": [
         {
-          "name": "RADI\u00d8MATIK",
-          "url": "https://open.spotify.com/artist/0yTp5veHJAyKhfYdvmyh7B"
+          "name": "Rain Radio",
+          "url": "https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY"
         },
         {
-          "name": "Wolsh",
-          "url": "https://open.spotify.com/artist/0dBHeI1RuLCkzOkTcIXwPm"
-        },
-        {
-          "name": "y'all",
-          "url": "https://open.spotify.com/artist/2OyqFs2P2MTcdExpmZKzub"
+          "name": "Block Notice",
+          "url": "https://open.spotify.com/artist/60rugLFQWUwxQEAT8ViGzq"
         }
       ],
-      "duration_ms": 173145,
-      "name": "No Roots (Radio Mix)",
-      "url": "https://open.spotify.com/track/4Zk8WXgdRz6iYVkrYt77nX"
+      "duration_ms": 168200,
+      "name": "079",
+      "url": "https://open.spotify.com/track/1ULaCASWLNrzg76Jt3VDWd"
     }
   ],
   "unique_name": "Treino Eletr\u00f4nico",

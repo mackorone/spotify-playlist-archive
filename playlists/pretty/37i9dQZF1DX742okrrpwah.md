@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Aya Nakamura, disiz et Tate McRae au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 391,429 likes - 89 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 391,469 likes - 89 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 71 | [coup de vent](https://open.spotify.com/track/7bgL5HIj6yUwrew8SyVK20) | [DO not DO](https://open.spotify.com/artist/7ipFE8S09qHrx6zoLKVGqi) | [coup de vent](https://open.spotify.com/album/6beHhebz4qt4kmCmbFEvAh) | 3:40 |
 | 72 | [ANTIOXYDANT](https://open.spotify.com/track/4TohE5WVvzG6HPUo8VWYUC) | [Mairo](https://open.spotify.com/artist/1BosUoykMJzWNTXM4Qfblg), [neophron](https://open.spotify.com/artist/1ryRmZ474qavvMFyQgSr8W) | [ANTIOXYDANT](https://open.spotify.com/album/6OHnv0WPcPw2H0Kms9eLRF) | 2:04 |
 | 73 | [Simple Things](https://open.spotify.com/track/4WKsZmIYlkcyqX5OuTmfTs) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Simple Things](https://open.spotify.com/album/2hXLLTOWuaygcf7EaRiQEB) | 2:58 |
-| 74 | [Track 8](https://open.spotify.com/track/4PK87EGuXkX6fJYNj10Aqz) | [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq) | [](https://open.spotify.com/album/null) | 0:00 |
+| 74 | [Woman King \(T'as Capté\)](https://open.spotify.com/track/4PK87EGuXkX6fJYNj10Aqz) | [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq) | [RÉSONANCE](https://open.spotify.com/album/3oTWVmJQnrNaRlyqiyarha) | 2:47 |
 | 75 | [COCO CHOCO](https://open.spotify.com/track/0FjL6GK8HbGF0vfu4sAOJK) | [Yanns](https://open.spotify.com/artist/3mirzmIKVfvqcW0M5OKAzR) | [COCO CHOCO](https://open.spotify.com/album/0vo59pkTV8JorcWU4cBoqo) | 2:29 |
 | 76 | [Candy Cloud](https://open.spotify.com/track/6WlqLgm2PVS4CzuDN3NCdC) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [Candy Cloud](https://open.spotify.com/album/41oaqPl9tzYx9GMswupkhe) | 3:58 |
 | 77 | [Rendez\-Vous](https://open.spotify.com/track/3lNR14zilwrsfzhR2xdjz8) | [Amouë](https://open.spotify.com/artist/5hxkInZtrkxDnUjsRqs5Ww) | [Rendez\-Vous](https://open.spotify.com/album/2FXOuq50r73n97WB4SrdiN) | 2:28 |

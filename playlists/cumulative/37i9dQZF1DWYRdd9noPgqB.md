@@ -4,7 +4,7 @@
 
 > La playlist qui fait du bien ☀️
 
-429 songs - 23 hr 31 min
+430 songs - 23 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -372,6 +372,7 @@
 | [Sunshine In The Room \(feat\. Jon Batiste\)](https://open.spotify.com/track/2cbRRdFAhoDnBGQgJ7NGws) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD), [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Sunshine In The Room](https://open.spotify.com/album/5kcPJTW5E80SQpWDsorrYW) | 3:02 | 2025-01-30 | 2025-04-25 |
 | [Sweet Dream](https://open.spotify.com/track/4cHl5lAbgUja4k0qrpMVx7) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [Sweet Dream](https://open.spotify.com/album/60Y0qxOOoSDLCy82y0uD5C) | 2:40 | 2024-03-07 | 2024-05-24 |
 | [Sweet Dream](https://open.spotify.com/track/6FYre3b471v1ESa5yiT4ll) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [Sweet Dream](https://open.spotify.com/album/3dDMfXVxgrpykV9KGLDrTn) | 2:40 | 2024-03-14 | 2024-04-19 |
+| [Sweet Emotion](https://open.spotify.com/track/5fb0VfB1Nej93xHP81z73E) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Sweet Emotion](https://open.spotify.com/album/5mILhipavFpMWDb54C4dPh) | 2:37 | 2025-11-20 |  |
 | [sweet feelings](https://open.spotify.com/track/0oK5lDQ7cTNlimJ1VXlSGl) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [sweet feelings](https://open.spotify.com/album/5JYPjTdI1UgMPa2Qde5uwg) | 2:35 | 2023-11-07 | 2024-02-09 |
 | [Sweet Love](https://open.spotify.com/track/1vbVS8vpaFQNjketow7tse) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Weeks Above The Earth](https://open.spotify.com/album/030P1hbKI1OLAPVpThG5gl) | 2:33 | 2024-03-21 | 2024-05-24 |
 | [Sweet Love](https://open.spotify.com/track/4ilUlZEEDIoQEHNQCyufL0) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [You Promised A Lifetime](https://open.spotify.com/album/6FoEvts0zjsATXcW0J1COW) | 2:29 | 2024-03-29 | 2024-06-21 |
@@ -411,7 +412,7 @@
 | [Under Water / In Air](https://open.spotify.com/track/0zDptnFR2ADwjapoENeSzF) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Under Water / In Air](https://open.spotify.com/album/3XvwFrw03TCLjWLeBonhDy) | 3:09 | 2024-02-01 | 2024-04-19 |
 | [Unoriginal](https://open.spotify.com/track/0k4qLmMUs7HOvGYtkljECk) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Unoriginal / Black\-Eyed Susan Climb](https://open.spotify.com/album/6G8lUZ22qQTBDsV5EKN4MO) | 2:58 | 2025-11-06 |  |
 | [Venus](https://open.spotify.com/track/0XVfjgNXQN5TFZM5tODTSk) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Rock Machine](https://open.spotify.com/album/0DmfmHvNTUhaCXKY3JlceI) | 3:02 | 2024-10-10 | 2025-01-10 |
-| [viens on part](https://open.spotify.com/track/0Jur8kJXfTdBwhJoNMEGgb) | [lili](https://open.spotify.com/artist/3CKIyHaaQL4vE7BQxvck9e) | [viens on part](https://open.spotify.com/album/7xSHTYnwyFVUONUoKILwgp) | 2:45 | 2025-10-16 |  |
+| [viens on part](https://open.spotify.com/track/0Jur8kJXfTdBwhJoNMEGgb) | [lili](https://open.spotify.com/artist/3CKIyHaaQL4vE7BQxvck9e) | [viens on part](https://open.spotify.com/album/7xSHTYnwyFVUONUoKILwgp) | 2:45 | 2025-10-16 | 2025-11-23 |
 | [Viens on prend le temps](https://open.spotify.com/track/4DzyOw0ACdOdOqzh6suSWj) | [Malik Djoudi](https://open.spotify.com/artist/5STTEE3TlZg9gb3xNC4RHF) | [Viens on prend le temps](https://open.spotify.com/album/7q3GG7E7Lf3Dlvk5XZ9MYA) | 2:56 | 2024-07-18 | 2024-09-13 |
 | [Voyage en Italie \- Rework By nit](https://open.spotify.com/track/4Y2DyBlShSiG4B1CzQlrAl) | [Lilicub](https://open.spotify.com/artist/4qb1iMTG9N0RulBWuV621J), [nit](https://open.spotify.com/artist/40HtWrk52wYoKa7OvTded8) | [Voyage en Italie \(Rework By nit\)](https://open.spotify.com/album/5BFjNMhtTL91SH4VnVpfLA) | 3:30 | 2025-05-15 | 2025-10-03 |
 | [Wait \- Chromeo Remix](https://open.spotify.com/track/0eayB5jay6m21D816D7jF4) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Wait \(Chromeo Remix\)](https://open.spotify.com/album/5OI8zfqy2WwWN4OnfPVXak) | 4:19 | 2024-01-04 | 2024-04-19 |

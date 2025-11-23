@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahsxs9xh0fn.md) - [plain]
 
 > autumn leaves falling like the rain
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,268 likes - 118 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,264 likes - 118 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

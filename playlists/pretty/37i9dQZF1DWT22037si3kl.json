@@ -1,6 +1,6 @@
 {
   "description": "pral\u00e9m do que se veste, \u00e9 vc e sua aura. Foto: Senndy",
-  "num_followers": 148504,
+  "num_followers": 148498,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
@@ -679,42 +679,6 @@
     {
       "added_at": "2025-11-07 03:01:18",
       "album": {
-        "name": "O Jogo Virou",
-        "url": "https://open.spotify.com/album/5JMSlSMw4tkpbCWcv5vhFY"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Terra",
-          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
-        }
-      ],
-      "duration_ms": 157714,
-      "name": "Setor Norte",
-      "url": "https://open.spotify.com/track/0zdTPSdNRsIHL7eYzGtek1"
-    },
-    {
-      "added_at": "2025-11-07 03:01:18",
-      "album": {
-        "name": "Alta Massa (ATM)",
-        "url": "https://open.spotify.com/album/0Twjd4TvTqehiFjeaKPiAE"
-      },
-      "artists": [
-        {
-          "name": "Emit\u00ea \u00danico",
-          "url": "https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "Alta Massa (ATM)",
-      "url": "https://open.spotify.com/track/6NmhXdIUkHYO8gojTVaAMM"
-    },
-    {
-      "added_at": "2025-11-07 03:01:18",
-      "album": {
         "name": "MOTIVO",
         "url": "https://open.spotify.com/album/5FV4dy58QXaDjngYtT6VaB"
       },
@@ -735,6 +699,42 @@
       "duration_ms": 166015,
       "name": "MOTIVO",
       "url": "https://open.spotify.com/track/1qKALAI1oDHKjSEz95KO4w"
+    },
+    {
+      "added_at": "2025-11-07 03:01:18",
+      "album": {
+        "name": "Alta Massa (ATM)",
+        "url": "https://open.spotify.com/album/0Twjd4TvTqehiFjeaKPiAE"
+      },
+      "artists": [
+        {
+          "name": "Emit\u00ea \u00danico",
+          "url": "https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "Alta Massa (ATM)",
+      "url": "https://open.spotify.com/track/6NmhXdIUkHYO8gojTVaAMM"
+    },
+    {
+      "added_at": "2025-11-07 03:01:18",
+      "album": {
+        "name": "O Jogo Virou",
+        "url": "https://open.spotify.com/album/5JMSlSMw4tkpbCWcv5vhFY"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Terra",
+          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
+        }
+      ],
+      "duration_ms": 157714,
+      "name": "Setor Norte",
+      "url": "https://open.spotify.com/track/0zdTPSdNRsIHL7eYzGtek1"
     },
     {
       "added_at": "2025-11-07 03:01:18",

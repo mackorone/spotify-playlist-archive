@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-1,141 songs - 3 day 11 hr 8 min
+1,142 songs - 3 day 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Ambre](https://open.spotify.com/track/560anuQ9osy5gKo20TeuBj) | [Else](https://open.spotify.com/artist/2tUUqZeqBYInHt3aDp3a1B) | [Ambre](https://open.spotify.com/album/6KmibxP8SSfsG9FcLu6wpz) | 4:00 | 2019-06-19\* | 2020-08-26 |
 | [Amores](https://open.spotify.com/track/3KTkkZvSPmh3leXluyABBs) | [Akkan](https://open.spotify.com/artist/2CA2ypghZh6RCxJdPOQ4Ze), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [AKKAN](https://open.spotify.com/album/0M3aMQR1HYyFZgHzqbc9c3) | 5:57 | 2020-12-04 | 2020-12-16 |
 | [Anamorphic](https://open.spotify.com/track/2iTKiIGTQHtCOLXJk3peQa) | [Joker](https://open.spotify.com/artist/6S5jf5noKu0JJjLLVUCZqP) | [Anamorphic / Forever](https://open.spotify.com/album/2e7PIMKTzgt15GnL7UeERg) | 7:10 | 2019-06-19\* | 2020-08-26 |
-| [And The Lake Was...](https://open.spotify.com/track/1gr1pLxrhTjzpmq2WPDhRW) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY), [Neil Cowley](https://open.spotify.com/artist/3jrpFxybBbCCh7EGCXMfdB) | [And The Lake Was...](https://open.spotify.com/album/2gTzcPZfcNopb7zAajrKy2) | 3:52 | 2022-05-27 |  |
+| [And The Lake Was...](https://open.spotify.com/track/1gr1pLxrhTjzpmq2WPDhRW) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY), [Neil Cowley](https://open.spotify.com/artist/3jrpFxybBbCCh7EGCXMfdB) | [And The Lake Was...](https://open.spotify.com/album/2gTzcPZfcNopb7zAajrKy2) | 3:52 | 2022-05-27 | 2025-11-23 |
 | [And Then You Came](https://open.spotify.com/track/3jOZEvgu6UoEp77kzJjfHS) | [FERR](https://open.spotify.com/artist/2wJ0jGmAcvU2tYsIvGXg4P), [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP), [Maria Marcus](https://open.spotify.com/artist/3TFBKKjm1zzgBCOQi2SEGY) | [As Above So Below \(Deluxe Version\)](https://open.spotify.com/album/77Z0RXxgT4Qu5anSsMNmXn) | 4:47 | 2020-12-04 |  |
 | [Angel](https://open.spotify.com/track/1sasHok8uYDG2dYoE1ir6y) | [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl) | [Angel](https://open.spotify.com/album/6RoTYOifoM7Jjz01qiSG5r) | 10:52 | 2022-01-14 | 2022-04-18 |
 | [Angels](https://open.spotify.com/track/0ZrpYZAJWku0zk4i0WVXUT) | [Dark Sky](https://open.spotify.com/artist/1qo9Fb4nYgez0Hpfi2RuiV) | [Othona](https://open.spotify.com/album/4WW91JTZprRyFHT7A8ZGS5) | 4:16 | 2022-09-09 | 2024-04-19 |
@@ -364,7 +364,7 @@
 | [Flek](https://open.spotify.com/track/37MvOmyPdgyeWOymDgor3O) | [pølaroit](https://open.spotify.com/artist/3B1BQHf6ExWixwqy9zRDZm) | [Flek](https://open.spotify.com/album/32vcNeIRAUWxN8Yq0ROfEa) | 3:59 | 2023-10-06 |  |
 | [Flicker](https://open.spotify.com/track/635aBqtYKZiGQTotfllnpl) | [Rohne](https://open.spotify.com/artist/2GL5OJQQ0qp2rtth8iy6Kf) | [Flicker](https://open.spotify.com/album/51PktMeH5b1GPZvJ7ZTZsU) | 4:47 | 2021-08-27 | 2025-07-19 |
 | [Flickers in the Air of Night](https://open.spotify.com/track/7iTVMlkBHObTVK4KVXbyg5) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [From Where You Came](https://open.spotify.com/album/7ngtNHKrtpN37n5Sr2lwQV) | 4:02 | 2025-05-09 |  |
-| [Flips and Flops, Drips and Drops](https://open.spotify.com/track/06iwhAevuCgupNwTg3wSC3) | [Electric Mantis](https://open.spotify.com/artist/4oEju6elvuvjARvor8R9j9) | [Flips and Flops, Drips and Drops](https://open.spotify.com/album/1raJmkdfhcwOPMpzJ9zkea) | 3:36 | 2019-05-26\* | 2025-11-15 |
+| [Flips and Flops, Drips and Drops](https://open.spotify.com/track/06iwhAevuCgupNwTg3wSC3) | [Electric Mantis](https://open.spotify.com/artist/4oEju6elvuvjARvor8R9j9) | [Flips and Flops, Drips and Drops](https://open.spotify.com/album/1raJmkdfhcwOPMpzJ9zkea) | 3:36 | 2019-05-26\* |  |
 | [Float](https://open.spotify.com/track/7omCw0COR7xdEqGdAo15Qs) | [Godblesscomputers](https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT) | [Float](https://open.spotify.com/album/7wNrgLd06nnEGKmN41nXYI) | 4:07 | 2020-10-19 | 2020-10-22 |
 | [Floating on Your Memories](https://open.spotify.com/track/19x0wfJhjCLPlUEE63ar4o) | [Rhodz](https://open.spotify.com/artist/4BrtGOYp8sytG9MV91DROT) | [Fading Horizon LP](https://open.spotify.com/album/4FDfCvhIpbwu6956J8a0jh) | 2:36 | 2019-06-19\* | 2022-04-13 |
 | [Flood Gates](https://open.spotify.com/track/20HrDfYP92YCWRvUHjFdBc) | [Sinjin Hawke](https://open.spotify.com/artist/5qKCgbxBDmDc9Ckgmt4EaN) | [First Opus](https://open.spotify.com/album/19FFct3GihJy9CKw9BeVFN) | 2:30 | 2019-06-24 | 2020-10-22 |
@@ -588,7 +588,7 @@
 | [Lucid Dream \- Original Mix](https://open.spotify.com/track/3T4iVA2ozQMew8uRjQBPHc) | [Pierce Fulton](https://open.spotify.com/artist/5p0zkKpBuRguKebwRe0RI2) | [Lucid Dream](https://open.spotify.com/album/7GMbLoHGfaCGSQV8m2g8my) | 7:33 | 2019-06-21 | 2020-10-22 |
 | [Luminous Beings](https://open.spotify.com/track/3Ha9TeaqCdcS6cqKmFGCO3) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Singularity](https://open.spotify.com/album/1nvzBC1M3dlCMIxfUCBhlO) | 11:51 | 2019-06-19\* | 2023-12-07 |
 | [Lunar](https://open.spotify.com/track/4u5073p9qQ3EdBUuh7Qp05) | [M1NT](https://open.spotify.com/artist/5gzGYECW5rYT6NccH5zZGL), [blnkspc\_](https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa) | [Lunar](https://open.spotify.com/album/2nLR051PemM1cp2jr2U1Db) | 3:14 | 2023-10-27 |  |
-| [Machine Keys](https://open.spotify.com/track/7L96oyotFbLOxKAfywRczR) | [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU) | [Brainsugar](https://open.spotify.com/album/2kywoxchFPj8Xa5odjG4GV) | 3:32 | 2019-06-22 |  |
+| [Machine Keys](https://open.spotify.com/track/7L96oyotFbLOxKAfywRczR) | [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU) | [Brainsugar](https://open.spotify.com/album/2kywoxchFPj8Xa5odjG4GV) | 3:32 | 2019-06-22 | 2025-11-23 |
 | [Mainframe](https://open.spotify.com/track/2uzrqj79NJ5QgSUzVo7ML6) | [Pye Corner Audio](https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL) | [Where Things Are Hollow](https://open.spotify.com/album/1YJJ1JmtHPiMt2QyLj99X5) | 4:27 | 2019-06-19\* | 2022-04-19 |
 | [Malibu](https://open.spotify.com/track/4Fe8wWhaxGIEa35eFHLX0b) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp) | [Malibu](https://open.spotify.com/album/7MYEcIncW4mQYBExnVA24y) | 3:57 | 2020-08-26 | 2020-10-24 |
 | [Mango Drive](https://open.spotify.com/track/29Bx7ullHh1OeH0lpNS0X7) | [Rhythm & Sound](https://open.spotify.com/artist/5e5DeHuHjgcj0DbdrdYKMo) | [Rhythm & Sound](https://open.spotify.com/album/1gKsehEyIyBj5bUeSAEe8w) | 7:12 | 2025-08-28 |  |
@@ -1002,6 +1002,7 @@
 | [The Pace](https://open.spotify.com/track/6nIsqJONitQCLGZt9x9zuE) | [ford.](https://open.spotify.com/artist/7ItbAZITSFxSy5LJChXe18) | [The Pace](https://open.spotify.com/album/5xhhADw7EuZB2OZJR8lX9X) | 3:02 | 2023-05-05 |  |
 | [The Path](https://open.spotify.com/track/0a6Gsxg9F2y28YaXb4mPY4) | [Kilig](https://open.spotify.com/artist/6bV9MqjsNFkMwryuBkWvXX) | [The Path](https://open.spotify.com/album/0ElCHdddUAPJfRmNe7eWyo) | 3:12 | 2021-07-06 |  |
 | [The Path Less Travelled](https://open.spotify.com/track/18cm1ZEAPohP5fWo0o0RAe) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [The Path Less Travelled](https://open.spotify.com/album/3iqw67w0xjeBM1zeQPXbcq) | 3:44 | 2024-01-26 | 2024-05-10 |
+| [The Peaks](https://open.spotify.com/track/05i0ZEreamMoo1NAJTY3sR) | [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [The Peaks](https://open.spotify.com/album/4RM8fjf08QwL3bz353V13C) | 4:26 | 2025-11-21 |  |
 | [The Rapture Pt.II](https://open.spotify.com/track/126B1mu0tb4gEqyjufUjms) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z) | [The Rapture Pt.II](https://open.spotify.com/album/4qqWRxaKBAVM1hyFbjKK7c) | 8:32 | 2019-06-19\* | 2020-10-19 |
 | [The Regulator](https://open.spotify.com/track/7CgCX1EqTDmikX0tsZdQiK) | [Ghost Dubs](https://open.spotify.com/artist/0nEbx8lIbqkO08rKkXqQ05) | [Damaged](https://open.spotify.com/album/6bjLW5oKgSanC18sGIlkl8) | 4:04 | 2025-10-09 |  |
 | [The Rip](https://open.spotify.com/track/5rWoP6YLHWnhlMhp5ed7Qs) | [Moonfish](https://open.spotify.com/artist/5sk1WHyEFppVeVrnR6n44T), [Maria Chiara Argirò](https://open.spotify.com/artist/2uz9ERD3U5c4F2CZDS0mzb), [Riccardo Chiaberta](https://open.spotify.com/artist/5VR6i2FLaAb6IXYXzFz9C1) | [The Rip](https://open.spotify.com/album/024m5yprtbKRHNCFVEbOps) | 3:31 | 2024-11-01 | 2025-04-22 |

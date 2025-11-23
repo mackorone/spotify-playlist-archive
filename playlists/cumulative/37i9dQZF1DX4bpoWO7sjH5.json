@@ -208,6 +208,32 @@
     {
       "album": {
         "name": "Al Mundo Paz",
+        "url": "https://open.spotify.com/album/0bR1uGlIcMjmEpvg3WVU9A"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Daza",
+          "url": "https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a"
+        },
+        {
+          "name": "Destiny Marko",
+          "url": "https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa"
+        },
+        {
+          "name": "Daniel Vengo",
+          "url": "https://open.spotify.com/artist/3nZfp3ZXgYSYspFsZI6VAW"
+        }
+      ],
+      "date_added": "2025-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183673,
+      "name": "Al Mundo Paz",
+      "url": "https://open.spotify.com/track/7FZ8sInezJtcbgrTAiX6w8"
+    },
+    {
+      "album": {
+        "name": "Al Mundo Paz",
         "url": "https://open.spotify.com/album/3Igum84LXJIRuJt4TiRcyD"
       },
       "artists": [
@@ -276,7 +302,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-23",
       "duration_ms": 209626,
       "name": "Alabanzas Al Rey",
       "url": "https://open.spotify.com/track/6xPQCiesZvH1jIi78UGo4p"
@@ -1190,7 +1216,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-23",
       "duration_ms": 253475,
       "name": "Emmanuel (Dios con nosotros)",
       "url": "https://open.spotify.com/track/72eIjPl2InU2XOg8J5HELL"
@@ -2194,6 +2220,24 @@
       "duration_ms": 194026,
       "name": "La Navidad es para Compartir - Por Caminos",
       "url": "https://open.spotify.com/track/6QPuWOvJztTktxDwkBaFSG"
+    },
+    {
+      "album": {
+        "name": "La Noche Que Todo Cambi\u00f3",
+        "url": "https://open.spotify.com/album/15tJ7kXImie7xyKiaspFNv"
+      },
+      "artists": [
+        {
+          "name": "Mariannah y Diego",
+          "url": "https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG"
+        }
+      ],
+      "date_added": "2025-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197718,
+      "name": "La Noche Que Todo Cambi\u00f3",
+      "url": "https://open.spotify.com/track/2W2nuNsrihburIDdpKEMCB"
     },
     {
       "album": {
@@ -4457,6 +4501,24 @@
     },
     {
       "album": {
+        "name": "Villancico Yaucano",
+        "url": "https://open.spotify.com/album/1RFE66nofEJRNWo2vpmtP9"
+      },
+      "artists": [
+        {
+          "name": "CRYS",
+          "url": "https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI"
+        }
+      ],
+      "date_added": "2025-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224799,
+      "name": "Villancico Yaucano",
+      "url": "https://open.spotify.com/track/4qyRCAhedkH7fV2JUKrny3"
+    },
+    {
+      "album": {
         "name": "Regreso a Ti",
         "url": "https://open.spotify.com/album/1AwtSJ0RTTzQOSJhvaC9Dy"
       },
@@ -4468,7 +4530,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-23",
       "duration_ms": 252376,
       "name": "Vives t\u00fa y vivo yo",
       "url": "https://open.spotify.com/track/5BqPdEdpNYFidl7AjMyz9c"

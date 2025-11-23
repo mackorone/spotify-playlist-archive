@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\#TETAS](https://open.spotify.com/track/1wgjAYlp6GHSX6ex8pRJd9) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf), [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [\#TETAS](https://open.spotify.com/album/2nVsMzErBfjaKSl33WsfAq) | 2:29 | 2025-03-07 |  |
+| [\#TETAS](https://open.spotify.com/track/1wgjAYlp6GHSX6ex8pRJd9) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX) | [\#TETAS](https://open.spotify.com/album/2nVsMzErBfjaKSl33WsfAq) | 2:29 | 2025-03-07 |  |
 | [\(37.810372, \-2.544111\)](https://open.spotify.com/track/1NoSGGl6ehXUiNm2lp2NkX) | [Lia Kali](https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89), [Toni Anzis](https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq) | [Kaelis](https://open.spotify.com/album/4PYCdqfmfZBJVEfFvvdP2l) | 0:36 | 2025-03-21 |  |
 | [+ DÓLARE$](https://open.spotify.com/track/0JMFBSmFjSs0sJOypPCLal) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [De Vuelta a las Andadas](https://open.spotify.com/album/2YgSHCBlOE0ZamNGQBg19Q) | 3:08 | 2025-05-09 |  |
 | [0 SENTIMIENTOS](https://open.spotify.com/track/5laYCxcFj0E5jv9FNdNnCc) | [Ben Carrillo](https://open.spotify.com/artist/2LaHOt5YZlFAhZ22KDI5fS) | [BROKEN HEART ANTHEMS](https://open.spotify.com/album/0GioYvxMcDlQNAtr3E5EOK) | 2:06 | 2023-06-02 | 2023-10-14 |

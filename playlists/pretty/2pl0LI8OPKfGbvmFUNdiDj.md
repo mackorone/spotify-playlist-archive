@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 424 likes - 166 songs - 9 hr 16 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 424 likes - 177 songs - 9 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -174,5 +174,16 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 164 | [Check Out My Fresh](https://open.spotify.com/track/6S5lWOVgwVkWcOMpfsoW1N) | [Dre RealA](https://open.spotify.com/artist/3FeXC6xCSU96xRlfMECBnR) | [Check Out My Fresh](https://open.spotify.com/album/7mfqFVuWZqgF2hcKaRbm0t) | 1:38 |
 | 165 | [Tradotti a Metà](https://open.spotify.com/track/0y19OhtR5Jl4QMg0Xrsb7x) | [Tommy Rosa](https://open.spotify.com/artist/0qTQNf8RA8QYWCjmEjYQ5R) | [Tradotti a Metà](https://open.spotify.com/album/2cwSCoDPZNjhbicr72vAyy) | 3:07 |
 | 166 | [Angels Don't Always Wear Wings](https://open.spotify.com/track/7EbPER84r4RMpDLr69ALao) | [Harold Payne](https://open.spotify.com/artist/1BfgVctke9PP5LJDIWrUxC) | [Angels Don't Always Wear Wings](https://open.spotify.com/album/78I73gPaN6EnuRB2OvjqEQ) | 4:09 |
+| 167 | [Good Things](https://open.spotify.com/track/71dSBF6OYZXAgttZUkU1R6) | [Belonging](https://open.spotify.com/artist/35Hu3Q5BlAlQgUDH3jATl7) | [Good Things](https://open.spotify.com/album/2ljaFGrgIpGVt04MXHP3IH) | 2:16 |
+| 168 | [Minding My Business](https://open.spotify.com/track/1AYKrxVWjGxkUdcOxadqzw) | [CallMeWhoElse](https://open.spotify.com/artist/3sLFnlQ8XFsPNqZ2ly2cCo) | [Minding My Business](https://open.spotify.com/album/5XZYS9zWdncFogtSThtheL) | 1:39 |
+| 169 | [A mani vuote](https://open.spotify.com/track/7GbUksy2hbn9Y4in8VU8rN) | [R.A.L.P.H.](https://open.spotify.com/artist/0LdP1ZUQhcxTZj5DeRT4cY) | [A mani vuote](https://open.spotify.com/album/5KOYdCWPstaraOwRpsK2xK) | 3:12 |
+| 170 | [Unconditional](https://open.spotify.com/track/77mORRV8Syj6o9fzt5JnDK) | [Swízzy](https://open.spotify.com/artist/0UECTvB4F2xASEH91yftgO), [Breana Marin](https://open.spotify.com/artist/2O3zQn26eEqxyxhIbFtuJ7) | [Press Play](https://open.spotify.com/album/0mUwDtGoY4dYhnpdTE3jyx) | 4:26 |
+| 171 | [Correr](https://open.spotify.com/track/39jAEMhAqeRWdw2rDI8EBK) | [Danilo Pira](https://open.spotify.com/artist/7A4czDJpi2rhwdubWHp4X2) | [Correr](https://open.spotify.com/album/7w3lPNSFILQgJR8SQirOrj) | 3:14 |
+| 172 | [online](https://open.spotify.com/track/3BzxQivN0x4x3JuLfYFkWi) | [Derkio](https://open.spotify.com/artist/6xAtLIBTpWdHrQczoHef7W) | [online](https://open.spotify.com/album/17gqNoTRTvng56g69iwHQ7) | 1:45 |
+| 173 | [Дилеми](https://open.spotify.com/track/0S65e6R28vFpOoZTGTlubn) | [Gosh](https://open.spotify.com/artist/4TVuWA1a4rWfnUM6UxKfE0) | [Дилеми](https://open.spotify.com/album/0S2yXqK0zKkR2MfO31L8Hk) | 2:16 |
+| 174 | [Higher Ground](https://open.spotify.com/track/6OKnrZiGv6u4gDg92UuEtf) | [Fernando's Eyes](https://open.spotify.com/artist/2nrwwBTk2oiNYRK29k6vGr) | [Bonus Tracks & Remixes](https://open.spotify.com/album/0wLTi4IIGvYo9isxjLoxHi) | 6:11 |
+| 175 | [Solos tú y yo](https://open.spotify.com/track/2oXDydAuDS6F88LMwnqELE) | [Chaplin](https://open.spotify.com/artist/0NRtBBSool3NhHpi6WPHkI), [Drumglass](https://open.spotify.com/artist/5TV3jKC1INn5xO2MLgdDSw) | [Solos tú y yo](https://open.spotify.com/album/4d8ImOKjPHKYKLEaOX439d) | 3:20 |
+| 176 | [Lilith](https://open.spotify.com/track/0iAb1Wzx7oyN0jOw0xcS4P) | [Nempty](https://open.spotify.com/artist/6Fnh4iRaxlyEQdASmWpCSl) | [Lilith](https://open.spotify.com/album/3wHDXFR9OO8hfUkyWgY0dz) | 3:34 |
+| 177 | [fm25\-brokenheart](https://open.spotify.com/track/7LEy7uZTkYTsIAxSbtkWGp) | [reul gg](https://open.spotify.com/artist/3nYdys8G6JBrefwLjv6WL3) | [fm25\-brokenheart](https://open.spotify.com/album/2hvwtQ14JcGXMykF0ObLqm) | 2:19 |
 
-Snapshot ID: `AAACSKRif0/g1KJg7ACQQQ+28HVLxPP/`
+Snapshot ID: `AAACU2UX4cmXpqYLmjW/n8aY/3ese/S+`

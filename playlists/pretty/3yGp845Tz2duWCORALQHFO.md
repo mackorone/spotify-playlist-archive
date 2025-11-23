@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-[EDM Sauce](https://open.spotify.com/user/edmsauce) - 26,110 likes - 58 songs - 3 hr 14 min
+[EDM Sauce](https://open.spotify.com/user/edmsauce) - 26,107 likes - 58 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 | 24 | [Lady \(Hear Me Tonight\)](https://open.spotify.com/track/5GIG7Ktm9gZnV5yNqb0XZl) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Lady \(Hear Me Tonight\)](https://open.spotify.com/album/57SwKjLUnRzLs7jXcDsQCY) | 2:33 |
 | 25 | [Water & Fire \(feat\. Connie Constance\)](https://open.spotify.com/track/7npoUcZ5LsOglMqUcZq4p9) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Contact](https://open.spotify.com/album/06z3wshQtpYwZnDoVle3pw) | 3:18 |
 | 26 | [Before I Go](https://open.spotify.com/track/7cRN38N0djEeO6YDFAtHrc) | [Trivecta](https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye), [vanru](https://open.spotify.com/artist/0BLfDCxhXd4mFmVv1KjJjV) | [Before I Go](https://open.spotify.com/album/1GSUJcKaEBCio5XhM6mWE3) | 2:36 |
-| 27 | [Won't Let You Go](https://open.spotify.com/track/54BKG1duwSJ2xRopTIeVYD) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [Nick Furlong](https://open.spotify.com/artist/46wd0NReq1e9x2oBO2FlHK) | [Won't Let You Go \(feat\. Jaden Michaels & Nick Furlong\)](https://open.spotify.com/album/1bMlcz3PxuWDw2HT4tlkBo) | 3:25 |
+| 27 | [Won't Let You Go](https://open.spotify.com/track/54BKG1duwSJ2xRopTIeVYD) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT) | [Won't Let You Go \(feat\. Jaden Michaels & Nick Furlong\)](https://open.spotify.com/album/1bMlcz3PxuWDw2HT4tlkBo) | 3:25 |
 | 28 | [Stay A Little Longer](https://open.spotify.com/track/3aCrnLs1CCi0KbrFs32xb0) | [H4lo](https://open.spotify.com/artist/6TmXkkMlMTvattdlqLmhCi) | [Stay A Little Longer](https://open.spotify.com/album/0isByBBaze9EBj0ChAkxLj) | 2:39 |
 | 29 | [Your Mind \- Massano & Doriann Remix](https://open.spotify.com/track/4FHYmTjR5Koj50mLPTp7hR) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT), [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ), [Doriann](https://open.spotify.com/artist/52rrjMiAC433F1mRLgWeVq) | [Your Mind \(Massano & Doriann Remix\)](https://open.spotify.com/album/0aJt5gGBHIQi8aD4ehWayG) | 3:07 |
 | 30 | [Dominator](https://open.spotify.com/track/340tn1p9E0oKKpWVCBd5Vh) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Deadcrow](https://open.spotify.com/artist/4ufkY8hmhmYl4aCnzv3dLE) | [Dominator](https://open.spotify.com/album/09LcSDpp9M6lTSs8GpfGcO) | 2:53 |

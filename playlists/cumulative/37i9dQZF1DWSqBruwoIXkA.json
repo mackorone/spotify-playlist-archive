@@ -1360,7 +1360,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-23",
       "duration_ms": 168226,
       "name": "Before and After",
       "url": "https://open.spotify.com/track/35h9op1g3NEzO6hsCVg4WC"
@@ -4191,6 +4191,24 @@
     },
     {
       "album": {
+        "name": "Chasing The Chimera",
+        "url": "https://open.spotify.com/album/0H4QxLnUPk1GlEkUtLuTww"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "date_added": "2025-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199744,
+      "name": "Eastside Girls",
+      "url": "https://open.spotify.com/track/0aIoaYbTcStz4yBHHCjgzi"
+    },
+    {
+      "album": {
         "name": "easy",
         "url": "https://open.spotify.com/album/6dvFbVMwwqmnCeeU7VrGvr"
       },
@@ -5408,6 +5426,24 @@
       "duration_ms": 224952,
       "name": "Georgia - but you're sad and it's acoustic",
       "url": "https://open.spotify.com/track/4Ns7u6BCg4tIGQHjJYlmwG"
+    },
+    {
+      "album": {
+        "name": "GET OVER YOU",
+        "url": "https://open.spotify.com/album/0aeXEMVILAh4WASxANQ6Ec"
+      },
+      "artists": [
+        {
+          "name": "verygently",
+          "url": "https://open.spotify.com/artist/6G76uCD9fXivb3G4OnnVG8"
+        }
+      ],
+      "date_added": "2025-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226977,
+      "name": "GET OVER YOU",
+      "url": "https://open.spotify.com/track/7nHpagU4k99UCyPHpoQxed"
     },
     {
       "album": {
@@ -15358,7 +15394,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-23",
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"

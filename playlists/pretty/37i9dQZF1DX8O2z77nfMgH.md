@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Ca7riel & Paco Amoroso
 
-[Spotify](https://open.spotify.com/user/spotify) - 862,786 likes - 62 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 862,777 likes - 62 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 7 | [Cuánto Cuesta](https://open.spotify.com/track/7bcIXJ7FXmAxPxjP2dbt1M) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Cuánto Cuesta](https://open.spotify.com/album/1gvqyzXOiMGuJKNhSLGdRf) | 2:54 |
 | 8 | [Demo](https://open.spotify.com/track/7aISltx2VUan85BwExh2bQ) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Starlight](https://open.spotify.com/album/3pSsGgeEhlEcsf0Sa5nBGS) | 3:30 |
 | 9 | [Cholo 2](https://open.spotify.com/track/6IMTgx19KOecnpXmbkgkyN) | [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Cholo 2](https://open.spotify.com/album/275lbusSPofF1Oqr0wOdhL) | 3:03 |
-| 10 | [FUMA](https://open.spotify.com/track/0O7RhXSVivzJIIHTs8v27u) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [FUMA](https://open.spotify.com/album/5oYE5BgIcSmEuxvkZi93VT) | 2:39 |
+| 10 | [Fuma](https://open.spotify.com/track/0O7RhXSVivzJIIHTs8v27u) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Fuma](https://open.spotify.com/album/5oYE5BgIcSmEuxvkZi93VT) | 2:39 |
 | 11 | [Lágrimas negras](https://open.spotify.com/track/3h4a98zTGX0MEClinuBMH9) | [mhtresuno](https://open.spotify.com/artist/1S1AhqtlhBuOTsEaM1kAOQ) | [Santo Domingo](https://open.spotify.com/album/3reJXxrPWQJ1riq8df76g0) | 3:17 |
 | 12 | [Champagne](https://open.spotify.com/track/2aRyImQVWtiDIPZlkUII3C) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [La Capital](https://open.spotify.com/album/5zMV2IOvcrDzwYyZnHWLUZ) | 3:42 |
 | 13 | [Dejame Dormir](https://open.spotify.com/track/1ylPYGLrhUEkKsaawdizaD) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Dejame Dormir](https://open.spotify.com/album/37NVXUpFk44riPjvqtFQlh) | 2:40 |

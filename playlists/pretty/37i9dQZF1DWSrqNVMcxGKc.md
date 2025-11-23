@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrqNVMcxGKc.md) - [plain]
 
 ### [Classiques du Rap FR](https://open.spotify.com/playlist/37i9dQZF1DWSrqNVMcxGKc)
 
-> Tous les classiques du rap français dans une seule playlist ! Photo : 113
+> Tous les classiques du rap français dans une seule playlist ! Photo : Diam's
 
-[Spotify](https://open.spotify.com/user/spotify) - 400,267 likes - 60 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 400,304 likes - 60 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

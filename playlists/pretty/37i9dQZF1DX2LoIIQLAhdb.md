@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Low Jay
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,132 likes - 40 songs - 1 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,140 likes - 40 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 13 | [ENCORE](https://open.spotify.com/track/2x9HB7pnBoOd876fwH0ukU) | [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N) | [ENCORE](https://open.spotify.com/album/022Ky25HgtR8oMa8mzrCSD) | 2:20 |
 | 14 | [Meilleurs](https://open.spotify.com/track/7gJljj1TljM6tc860T9yai) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44), [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx) | [Jeune prince](https://open.spotify.com/album/2mar4zN8LJ9frwwY9vyzyh) | 2:56 |
 | 15 | [T'étais pas là](https://open.spotify.com/track/6HMCEFxtIeXUtlFVX6fzpj) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2), [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [T'étais pas là](https://open.spotify.com/album/4O3pxSltDoV3OtYomu6uAx) | 2:48 |
-| 16 | [Track 12](https://open.spotify.com/track/1YWlYc2DJhavTmor6jFQgg) | [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq) | [](https://open.spotify.com/album/null) | 0:00 |
+| 16 | [Sexy Drill](https://open.spotify.com/track/1YWlYc2DJhavTmor6jFQgg) | [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq) | [RÉSONANCE](https://open.spotify.com/album/3oTWVmJQnrNaRlyqiyarha) | 2:20 |
 | 17 | [Désarmer](https://open.spotify.com/track/3Sk2eNbuIke4QGkP8bjAVC) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Désarmer](https://open.spotify.com/album/6OZlA4Xv52ah7v17rY3Kus) | 2:38 |
 | 18 | [Too close \(feat\. Rsko\)](https://open.spotify.com/track/0ZygVk1kxnwT6HRMprEnxV) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5), [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [9PM IN PARIS](https://open.spotify.com/album/4bgCdzu5K57RiKxvMM1om9) | 2:56 |
 | 19 | [intemporel](https://open.spotify.com/track/4e5KAgdRth25lpdaScjP66) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [intemporel](https://open.spotify.com/album/4CeKMcDfznEywMmez1EJOc) | 2:30 |

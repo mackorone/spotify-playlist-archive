@@ -279,6 +279,24 @@
     },
     {
       "album": {
+        "name": "I'm Always On Stage",
+        "url": "https://open.spotify.com/album/4gpsevLdyP7ZTj07MPMFEw"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "date_added": "2025-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243546,
+      "name": "I'm Always On Stage",
+      "url": "https://open.spotify.com/track/30egTG3p2CPpi6Meaf4Oax"
+    },
+    {
+      "album": {
         "name": "People Watching",
         "url": "https://open.spotify.com/album/6Abecbed8BYAdHy9RaVoY7"
       },

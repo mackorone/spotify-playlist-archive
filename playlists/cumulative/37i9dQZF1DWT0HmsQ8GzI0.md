@@ -4,7 +4,7 @@
 
 > Zenék, amik félreugranak a műfaji határok elől\. Cover: Csaknekedkislány
 
-300 songs - 16 hr 39 min
+301 songs - 16 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Boldogok vagyunk\-e](https://open.spotify.com/track/7y1CtYDtYwAI8phNE05MZ3) | [Solére](https://open.spotify.com/artist/07sbUsuT49AfdnbAZukniP) | [BOLDOGOK VAGYUNK\-E](https://open.spotify.com/album/0Rr5JPQ3lYDLRXMszZGmmp) | 3:01 | 2024-06-28 | 2025-03-08 |
 | [Breeze](https://open.spotify.com/track/0Z6ebZcUPndOJcCPcvoMqE) | [Ivan & The Parazol](https://open.spotify.com/artist/0arW2wuAryC7RMZpjpw3N8) | [Breeze](https://open.spotify.com/album/71HEKq46kF8Vs99DKjw35Q) | 2:35 | 2024-09-05 | 2025-08-20 |
 | [Brigitta Várna](https://open.spotify.com/track/2gEiIiZtE5yYLU2JE2bacR) | [Kaukázus](https://open.spotify.com/artist/1jf18UNlvDrLdEixB3yXNo) | [Brigitta Várna](https://open.spotify.com/album/3XDZu55qySxnkzu9uoDYsj) | 3:27 | 2025-09-26 | 2025-11-04 |
-| [Bánatszalonna](https://open.spotify.com/track/0w0Ym7FLmk00KLPj9E6gFD) | [Bohemian Betyars](https://open.spotify.com/artist/2ezYPSKWBfnFTobN9puCow) | [Bánatszalonna](https://open.spotify.com/album/25JxKgwNHEoyBApMyKEeWq) | 3:02 | 2025-04-18 |  |
+| [Bánatszalonna](https://open.spotify.com/track/0w0Ym7FLmk00KLPj9E6gFD) | [Bohemian Betyars](https://open.spotify.com/artist/2ezYPSKWBfnFTobN9puCow) | [Bánatszalonna](https://open.spotify.com/album/25JxKgwNHEoyBApMyKEeWq) | 3:02 | 2025-04-18 | 2025-11-23 |
 | [Bárcsak](https://open.spotify.com/track/0cN9PXoc9JX0CZniTaMGVD) | [szolnoki](https://open.spotify.com/artist/7xTpU206maLjUZtvl5xx4X) | [Bárcsak](https://open.spotify.com/album/0AZMdeT1KElrsIKCSMCDfK) | 2:26 | 2024-06-28 | 2025-10-17 |
 | [bújj hozzám](https://open.spotify.com/track/7ML4geSEclqZ9soTbiNIin) | [Mehringer](https://open.spotify.com/artist/2onsfuh37zW0OHB3lFa3t1), [ANUBII$](https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd), [bennz](https://open.spotify.com/artist/3weSQ24expJ50Qc4onI3ZZ), [Burijenci](https://open.spotify.com/artist/1n8L6ackN2v4w6ZUrMU8J7) | [bújj hozzám](https://open.spotify.com/album/66i9I2BocGO3p0yrVlRTqn) | 3:04 | 2024-06-28 | 2024-10-19 |
 | [California Dreamin'](https://open.spotify.com/track/5xIGCCx2sut6CkZkqFTQ05) | [Mörk](https://open.spotify.com/artist/7avU36nx8drx51Z9Sysphs) | [Still Dreamin'](https://open.spotify.com/album/68NLCJBXQCfpp3Y8TsRg8F) | 3:13 | 2024-10-04 | 2024-11-04 |
@@ -218,6 +218,7 @@
 | [plusz egy \(+1\)](https://open.spotify.com/track/1ibXEymBvy9ZX8alE2dFoh) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [plusz egy \(+1\)](https://open.spotify.com/album/2BBLfh0N2WWcBo7G7KVHgv) | 3:29 | 2024-09-13 | 2025-11-14 |
 | [POCSOLYA](https://open.spotify.com/track/1xhtbZAAjUEuldqYNil0rW) | [kristoaf](https://open.spotify.com/artist/1JkASUd5gc4NlepQHX4KVz) | [ENSO](https://open.spotify.com/album/2Zm6SG1MzkQmTRy2ZDekyH) | 3:06 | 2024-06-28 | 2024-10-05 |
 | [pontnem](https://open.spotify.com/track/3us0UL4UZth3vWa8WOvwOa) | [Aurevoir.](https://open.spotify.com/artist/51BZWZTWqI7GjrgHw3Wvuw) | [pontnem](https://open.spotify.com/album/5LNjddXarNCmejSaFGb7MX) | 3:25 | 2024-06-28 | 2025-08-30 |
+| [Portal](https://open.spotify.com/track/15ZiSkyhC82n60jbMKvvOS) | [Julia Mandoki](https://open.spotify.com/artist/6AlnyvngKEFg1hVQ6Pl8vR) | [Portal](https://open.spotify.com/album/6VLzax10G5jBa7iYSl5YWX) | 3:22 | 2025-11-13 |  |
 | [Portugízer](https://open.spotify.com/track/0lnVWY8vppgZX8rfw3twUg) | [Aurevoir.](https://open.spotify.com/artist/51BZWZTWqI7GjrgHw3Wvuw) | [Portugízer](https://open.spotify.com/album/05V71VFk9C52HFiLSLt1Mx) | 4:02 | 2025-06-16 |  |
 | [Purgatórium](https://open.spotify.com/track/6WljAxThjbT9RPTDo25MqC) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6), [Krúbi](https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E), [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y) | [Purgatórium](https://open.spotify.com/album/0YjlfSP4BgfFzEeVx8mMf7) | 3:11 | 2025-11-13 |  |
 | [Quatre Grapes](https://open.spotify.com/track/4a8KAMlAAhdTuBxGnjS6Zc) | [Bohemian Betyars](https://open.spotify.com/artist/2ezYPSKWBfnFTobN9puCow), [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK) | [Quatre Grapes](https://open.spotify.com/album/166W34UydwJ0pZlsNbrRKN) | 3:30 | 2024-06-28 |  |

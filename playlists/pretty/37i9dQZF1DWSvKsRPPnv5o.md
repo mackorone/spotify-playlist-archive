@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: AZ Chike
 
-[Spotify](https://open.spotify.com/user/spotify) - 755,998 likes - 102 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 756,039 likes - 102 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

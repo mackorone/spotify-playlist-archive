@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX60AiPDDYe8L.md) - [plain]
 
 > Las mejores canciones de la reina del pop argentino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,081 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,111 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX60AiPDDYe8L.md) - [plain]
 | 35 | [Ladrón](https://open.spotify.com/track/7KbbNgzfd38VKL7WJDbT9Q) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Ladrón](https://open.spotify.com/album/6HXg7s3J0GFvDfcFsabtiC) | 3:19 |
 | 36 | [Cómprame un Brishito](https://open.spotify.com/track/1OXvHS29qz48nwoBclCl6k) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [LALI](https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3) | 2:24 |
 | 37 | [Eclipse](https://open.spotify.com/track/0cP7k8dNs4SY313Rdbu0XO) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Libra](https://open.spotify.com/album/3N1rzrLFvLAOVT8Pf5ZpbV) | 3:03 |
-| 38 | [SUPERSÓNICO](https://open.spotify.com/track/2R6fl47tA6PG6vSBgurvma) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf), [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [BAÑO MARÍA](https://open.spotify.com/album/1XX2taUAddEZQX4QinYxX2) | 2:48 |
+| 38 | [SUPERSÓNICO](https://open.spotify.com/track/2R6fl47tA6PG6vSBgurvma) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [BAÑO MARÍA](https://open.spotify.com/album/1XX2taUAddEZQX4QinYxX2) | 2:48 |
 | 39 | [Asesina](https://open.spotify.com/track/3VlcbOEz64DZFP1s8iN3Wq) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [A Bailar \(Versión Bonus\)](https://open.spotify.com/album/2hybo358Qq3SN2hAIaOauK) | 3:09 |
 | 40 | [MOTIVEISHON](https://open.spotify.com/track/2NioKrz9davb3CvHmgZ7yw) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [LALI](https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3) | 2:38 |
 | 41 | [A Bailar](https://open.spotify.com/track/6Ue6QQzRl3HzWZdZx88IJF) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [A Bailar \(Versión Bonus\)](https://open.spotify.com/album/2hybo358Qq3SN2hAIaOauK) | 2:48 |

@@ -4,7 +4,7 @@
 
 > a little indie, a little pop, soda featuring Pash
 
-1,493 songs - 3 day 2 hr 26 min
+1,494 songs - 3 day 2 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,7 @@
 | [Blame Brett](https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame Brett](https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN) | 2:56 | 2024-01-05 | 2024-07-19 |
 | [BLAME IT ON ME](https://open.spotify.com/track/3O4EGwdDFNMs69RWWSQRFI) | [Alex Coles](https://open.spotify.com/artist/7itwELrXfDuINywbgrNm6b) | [BLAME IT ON ME](https://open.spotify.com/album/5w2zXflgG8ZZtJLqT7Gvsl) | 2:42 | 2024-05-24 | 2024-07-19 |
 | [Blame It On The Rain](https://open.spotify.com/track/0JaaEbFejwGsW7V3ttjVXE) | [SUM SUN](https://open.spotify.com/artist/3Rkl3UpmEVgW3vEoISzJUT) | [Blame It On The Rain](https://open.spotify.com/album/0eQhJUAaDBLLoswWcTGPj6) | 3:04 | 2024-11-11 | 2025-01-25 |
-| [Blame It On You](https://open.spotify.com/track/67sldfyOCTkXyhqzJTKiDD) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Blame It On You](https://open.spotify.com/album/0AugyhUKbkwvVwSYoQba4b) | 2:41 | 2025-08-01 |  |
+| [Blame It On You](https://open.spotify.com/track/67sldfyOCTkXyhqzJTKiDD) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Blame It On You](https://open.spotify.com/album/0AugyhUKbkwvVwSYoQba4b) | 2:41 | 2025-08-01 | 2025-11-23 |
 | [Blame On You](https://open.spotify.com/track/5GtX45E7JO3hrC1Ihq5A2T) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Blame On You](https://open.spotify.com/album/06SBGJoEvUHa2V3AnCWxEO) | 2:26 | 2025-07-25 | 2025-10-04 |
 | [Blame The Brakes](https://open.spotify.com/track/4ZoPMviImcYNDNz6NEuDHm) | [Hastings](https://open.spotify.com/artist/0cMrisD7Y14WMODerxofNO) | [Blame The Brakes](https://open.spotify.com/album/0jGU8t3SZvyiNgu02pInoo) | 3:26 | 2022-09-30 | 2023-03-04 |
 | [Blank Me](https://open.spotify.com/track/4GykOaWBJPS647ewLtyrCh) | [Hastings](https://open.spotify.com/artist/0cMrisD7Y14WMODerxofNO) | [Blank Me](https://open.spotify.com/album/7na6EPTI7sIHutOQfJNXev) | 3:58 | 2021-11-19 | 2022-03-18 |
@@ -1350,7 +1350,7 @@
 | [Toxic](https://open.spotify.com/track/2gQPv5jvVPqU2a9HhMNO1v) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Toxic](https://open.spotify.com/album/4cmu24lnj0NI8lHG6vra6h) | 2:48 | 2021-12-24 | 2022-03-05 |
 | [Track Shoes](https://open.spotify.com/track/7hMUIwPmSkuGMHli2ZV1qQ) | [Rence](https://open.spotify.com/artist/3VJTtTgub426X1NuzcyAOb) | [Track Shoes](https://open.spotify.com/album/5cEAJJI3lKivMvPwyn43k0) | 3:06 | 2021-10-29 | 2022-01-22 |
 | [Trackstar](https://open.spotify.com/track/4b2ZdHby2AzqbZqZpjLhKp) | [Juliana Madrid](https://open.spotify.com/artist/6RhkgeqhRai3jy4ULSlxFx) | [Trackstar](https://open.spotify.com/album/436EBY5YaPt5lkdSwm6Ude) | 3:26 | 2023-05-26 | 2023-08-26 |
-| [Tracy](https://open.spotify.com/track/2Irs8tqS6DELbaFlwlwRTC) | [Pash](https://open.spotify.com/artist/3jEgbW70PXxv993symSK35) | [Tracy](https://open.spotify.com/album/6KOs8bG57zs3LK9i3rydM0) | 2:20 | 2025-11-21 |  |
+| [Tracy](https://open.spotify.com/track/2Irs8tqS6DELbaFlwlwRTC) | [PASH](https://open.spotify.com/artist/3jEgbW70PXxv993symSK35) | [Tracy](https://open.spotify.com/album/6KOs8bG57zs3LK9i3rydM0) | 2:20 | 2025-11-21 |  |
 | [Trauma](https://open.spotify.com/track/48JqgW96LVIcrE4umJweWw) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Trauma](https://open.spotify.com/album/2wYh1adQn0CaWPlJMHFo56) | 2:43 | 2023-08-08 | 2023-10-30 |
 | [Treadmill](https://open.spotify.com/track/0ewQUWupKrDmYFhhiyjqaA) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Treadmill](https://open.spotify.com/album/1lnKUpRIc0wAcnMP9scVlJ) | 3:13 | 2024-06-28 | 2024-09-14 |
 | [TREBUCHET](https://open.spotify.com/track/78iAaClMArrG8LkVfhywSZ) | [Rence](https://open.spotify.com/artist/3VJTtTgub426X1NuzcyAOb) | [TREBUCHET](https://open.spotify.com/album/2gRD30JoXVJ3FZPUXxH9CP) | 2:35 | 2023-01-27 | 2023-03-25 |
@@ -1374,6 +1374,7 @@
 | [Underneath My Skin](https://open.spotify.com/track/239RFmkTfBL2VmExbgkuBm) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [The Band CAMINO](https://open.spotify.com/album/1N5ZRHDLAv92FHZ4fRYhCi) | 3:13 | 2021-10-29 | 2022-03-18 |
 | [Underwater](https://open.spotify.com/track/5qGXpVbI6aWB2of5lT0tcM) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Underwater](https://open.spotify.com/album/75KpfrUDdlKegdLEmmyS9I) | 2:44 | 2025-01-31 | 2025-04-12 |
 | [Undone](https://open.spotify.com/track/1pger5HtepNjzJcNIsP9Pq) | [Nolie](https://open.spotify.com/artist/78c9TyMXvVbqO19cEO0OsI) | [Undone](https://open.spotify.com/album/08NtG5rgI1Mklu7VB0YR3K) | 2:44 | 2022-08-26 | 2022-10-15 |
+| [UNDONE](https://open.spotify.com/track/4LSBkHIZSeV4u4ZMGeEstK) | [verygently](https://open.spotify.com/artist/6G76uCD9fXivb3G4OnnVG8) | [UNDONE](https://open.spotify.com/album/3FDeTfdo6brAijMp6GKRM1) | 2:51 | 2025-11-22 |  |
 | [Until I End Up Dead](https://open.spotify.com/track/5bVTkc2s7TQbTbVZZn2fXn) | [Dream](https://open.spotify.com/artist/6LArUyIoMiHmDvvOAsE2cd) | [Until I End Up Dead](https://open.spotify.com/album/7FqeGIj2CoHAbWTyqeOpGu) | 2:15 | 2023-06-24 | 2023-09-16 |
 | [Up All Night](https://open.spotify.com/track/7EOBY5TowmAjt1aZDkk8TG) | [The Ramona Flowers](https://open.spotify.com/artist/2wPSVzL9RmbR3g1MjWRjMe), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Up All Night](https://open.spotify.com/album/1asaz6jNa7NTScWcNJUZ5K) | 3:05 | 2021-10-29 | 2022-02-19 |
 | [Up At Night](https://open.spotify.com/track/6azR5gSOWDFB6pDVYMndYv) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [Up At Night](https://open.spotify.com/album/0aNGi98a44M6mUInTYCSPF) | 2:42 | 2024-07-19 | 2024-09-21 |

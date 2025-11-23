@@ -4,7 +4,7 @@
 
 > Fall fast asleep with deep noise
 
-635 songs - 1 day 9 hr 40 min
+637 songs - 1 day 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -398,7 +398,7 @@
 | [Pink Noise 1](https://open.spotify.com/track/4tj5EeMSGlAeIoSbJE8sDo) | [A.I.C 83](https://open.spotify.com/artist/0t1KwfnMwlE47iKx9g1c2V) | [Pink Noise Stimulus](https://open.spotify.com/album/2cjw0tyRT0ZVhzkNJtwTp4) | 2:20 | 2022-11-18 | 2023-01-28 |
 | [Pink Noise 10](https://open.spotify.com/track/1kDF24HUvuQNVGLBAUYm8L) | [A.I.C 83](https://open.spotify.com/artist/0t1KwfnMwlE47iKx9g1c2V) | [Pink Noise Stimulus](https://open.spotify.com/album/2cjw0tyRT0ZVhzkNJtwTp4) | 2:30 | 2022-11-18 | 2023-01-28 |
 | [Pink Noise 1133Hz](https://open.spotify.com/track/6xNAUvuTV1MHWZHClKoL82) | [Pink Orbit](https://open.spotify.com/artist/1OcOohHo7T54wkzZhIs6KA) | [Pink Noise Ocean](https://open.spotify.com/album/19zIgXQIfVHIhXJ2PF16g9) | 4:30 | 2021-12-01 | 2023-01-28 |
-| [Pink Noise 217Hz](https://open.spotify.com/track/0Xyc1643zBZ5kSHwevhR4x) | [Crystal Slowdown](https://open.spotify.com/artist/6O0u8LauyCpF8qnE347A4o) | [Flying High with Pink Noise](https://open.spotify.com/album/1iDfuBYiErzGsfmTntm2On) | 3:38 | 2022-08-02 |  |
+| [Pink Noise 217Hz](https://open.spotify.com/track/0Xyc1643zBZ5kSHwevhR4x) | [Crystal Slowdown](https://open.spotify.com/artist/6O0u8LauyCpF8qnE347A4o) | [Flying High with Pink Noise](https://open.spotify.com/album/1iDfuBYiErzGsfmTntm2On) | 3:38 | 2022-08-02 | 2025-11-23 |
 | [Pink Noise 289Hz Wide Q](https://open.spotify.com/track/0Wp43cuTLDOwAfamM0mkRK) | [Xella Machina](https://open.spotify.com/artist/66uHiAJ1D3MCLQmX9xYJqI) | [Pink Noise in my Dreams](https://open.spotify.com/album/60g7Yh0M8SZ9Qn9PEOdfRa) | 3:09 | 2022-08-02 | 2023-12-06 |
 | [Pink Noise 2am \(REMASTERED\)](https://open.spotify.com/track/1GOBcNeiL8wOUn8IWwYTwq) | [WWW.PINK.NOISE](https://open.spotify.com/artist/3pzYnmOW5l9QII4mFjJtd1) | [Pink Noise Vol\. 3](https://open.spotify.com/album/2TdSHQtFRD35jFTj8EJuAk) | 2:40 | 2022-06-03 |  |
 | [Pink Noise 2k](https://open.spotify.com/track/1QLnaXdhv0P8521co1Sg5H) | [Noise Bath](https://open.spotify.com/artist/6DhHTHeWGUP7ReZEiExvTe) | [Pink Noise Bath](https://open.spotify.com/album/77zi8LZVR9G9wDsYt28z4k) | 2:49 | 2021-12-01 | 2022-12-21 |
@@ -433,6 +433,7 @@
 | [Pink Noise for my Nap](https://open.spotify.com/track/1IrAMBPSqBDgx1AThZAxOZ) | [Brightlo](https://open.spotify.com/artist/7LrJzvIirmst73Ic48s97g) | [Pink Noise for my Nap](https://open.spotify.com/album/5IFvsQC23wbGDu4r2tY5Xp) | 3:32 | 2022-08-02 |  |
 | [Pink Noise for Relaxation](https://open.spotify.com/track/4M2YzoOoWpA37BOL8bQjCd) | [Ozonezzz](https://open.spotify.com/artist/3D4ZyZNY4vP7YHF9CtWQzZ) | [Pink Noizzze](https://open.spotify.com/album/5oh3UTFF1GZp4lyA7wDTeb) | 3:50 | 2022-06-03 |  |
 | [Pink Noise For Relaxation](https://open.spotify.com/track/37MIaBZecwUz7mVE6OBGhC) | [The Startups](https://open.spotify.com/artist/27jAZ72shHFpW0SRZHiJuP) | [Pink Noise Calmness](https://open.spotify.com/album/5ZN8DxBt2cUOFW6dxID48Q) | 3:19 | 2022-11-18 |  |
+| [Pink Noise For Sleep](https://open.spotify.com/track/54UrbTg1hjmJGnzMDt6prM) | [Thyyphoon](https://open.spotify.com/artist/02tTUqtZibCAHjNa0VR1v5) | [Pink Noise For Sleep](https://open.spotify.com/album/6Afb9qALrrE1oqkJKXLAyN) | 3:02 | 2025-11-13 |  |
 | [Pink Noise for Sleeping](https://open.spotify.com/track/2ex3O9bv4muJcuVI3BQbtj) | [Falling into Pink](https://open.spotify.com/artist/6GpFiBAVovOVJfK7OTWnxN) | [Pink Noise Sleep](https://open.spotify.com/album/4B143uGP1Wwhb5xO95nvaS) | 3:39 | 2021-12-01 | 2025-04-10 |
 | [Pink Noise for Sleepy Eyes](https://open.spotify.com/track/5ZHYpNFUvC57CTLIg4YXOt) | [Astrofuss](https://open.spotify.com/artist/5Tx7TAY5IxjWaUuJo7tTzf) | [Pink Noise Chill](https://open.spotify.com/album/5bPfFb7gJETLRmqMvbtyLr) | 3:58 | 2022-03-30 |  |
 | [Pink Noise for Snoozing](https://open.spotify.com/track/2Jt50RFGQHok6b1ITsmYce) | [Pinkfreq](https://open.spotify.com/artist/4rVtSVfR2xsfI3MkJkhMWT) | [Pink Noise for Snoozing](https://open.spotify.com/album/2f7RC69qlbBaDM8giJbXV1) | 4:09 | 2022-06-03 |  |
@@ -457,7 +458,7 @@
 | [Pink Noise Loop](https://open.spotify.com/track/7mwI7pMEgyYWSYDgAlm781) | [White Noise Spa](https://open.spotify.com/artist/2v4Lbdw4AEnnNVVUHi9esf) | [Pink Noise 2017](https://open.spotify.com/album/1TarMiqXyN0uSwpN0rr35s) | 5:00 | 2021-12-01 | 2022-07-02 |
 | [Pink Noise Low Frequency](https://open.spotify.com/track/4G4LlN9zHjjBxb0t7YYzPa) | [Oxford Deluxe Noise](https://open.spotify.com/artist/1YHc2jsmg09PGKIPczmHnG) | [Pink Noise Lab 2](https://open.spotify.com/album/3hv754M6T08FgkkISZDDAA) | 2:52 | 2021-12-01 | 2022-12-21 |
 | [Pink Noise Moon](https://open.spotify.com/track/2J4zxmGylnG7HLJ486emfj) | [Brain Timbre](https://open.spotify.com/artist/3xRHOrpT0tqZeaLKnEdnU1) | [Bien Dormi](https://open.spotify.com/album/6hNirAwbKSixzozwGZAeRz) | 2:16 | 2021-12-01 | 2025-11-14 |
-| [Pink Noise Napping](https://open.spotify.com/track/6EIzRMKiQVsWfgpI3Imtnz) | [Contented](https://open.spotify.com/artist/5MxzFMVa5rVuZ08lD4gDNP) | [Pink Noise Regulation](https://open.spotify.com/album/4pvAT7BWRLd1keyLSzd4wO) | 2:57 | 2022-11-18 |  |
+| [Pink Noise Napping](https://open.spotify.com/track/6EIzRMKiQVsWfgpI3Imtnz) | [Contented](https://open.spotify.com/artist/5MxzFMVa5rVuZ08lD4gDNP) | [Pink Noise Regulation](https://open.spotify.com/album/4pvAT7BWRLd1keyLSzd4wO) | 2:57 | 2022-11-18 | 2025-11-23 |
 | [Pink Noise Ocean](https://open.spotify.com/track/1vbDqsYjceoQrCp6hxHkFd) | [The Frequency Shifters](https://open.spotify.com/artist/7MbxdnkfBJ2STy1K8VzbzJ) | [Pink Noise Ocean](https://open.spotify.com/album/0qHoTTlp2tQuQAXv9pOAKJ) | 5:40 | 2024-02-09 | 2025-03-19 |
 | [Pink Noise Ocean 280Hz](https://open.spotify.com/track/0h2orkIOyU3smCObLEVjtj) | [Pink Orbit](https://open.spotify.com/artist/1OcOohHo7T54wkzZhIs6KA) | [Pink Noise Ocean](https://open.spotify.com/album/19zIgXQIfVHIhXJ2PF16g9) | 4:33 | 2021-12-01 | 2023-02-17 |
 | [Pink Noise on my Mind](https://open.spotify.com/track/3TqvwnaebRia8ILlU8QQKX) | [Xella Machina](https://open.spotify.com/artist/66uHiAJ1D3MCLQmX9xYJqI) | [Pink Noise on my Mind](https://open.spotify.com/album/0fzzpCkWMiuwzFxibbEIYM) | 3:47 | 2022-04-29 |  |
@@ -491,6 +492,7 @@
 | [Pink Sky](https://open.spotify.com/track/5Fbh018hoA0IQi7SM9CZfs) | [Noi Ses](https://open.spotify.com/artist/5t2BU9eY0SVexUnLcOZGXH) | [Pink Sky](https://open.spotify.com/album/61VcpmFcMq9l2fVOr6zsNu) | 3:38 | 2024-02-09 |  |
 | [Pink Sky Noise](https://open.spotify.com/track/0AP0T794qaAvwfUnT4j7Mb) | [Orbit Noise](https://open.spotify.com/artist/10s0nSfxODbV3vNHS8sO0V) | [Restful Pink Noise](https://open.spotify.com/album/5Wsu1Xou2OwBeZUuL8c977) | 2:07 | 2022-12-20 | 2025-09-12 |
 | [Pink Sonos](https://open.spotify.com/track/1jEhXzSSIMjzrlFjWBYlNV) | [Synthetic Architect](https://open.spotify.com/artist/7CUcdQhE3WLGPzn3sEJNd5) | [Pink Stellar](https://open.spotify.com/album/7BTSIrVrwjP4T9HOFbw2Ym) | 2:52 | 2022-12-20 |  |
+| [Pink Static for Sleeping](https://open.spotify.com/track/3Qa2mBS0IKfiRVzmYJbUHE) | [High Above The Clouds](https://open.spotify.com/artist/0TGwwqBPOAEsrEQKOT2FVY) | [Pink Static for Sleeping](https://open.spotify.com/album/0UBiMJKm5h5cXwg12evNon) | 3:43 | 2025-11-13 |  |
 | [Pink Steady Flowing Noise](https://open.spotify.com/track/5ZvyTGWWdNdXF6lnhpWGQp) | [Suburban DZ](https://open.spotify.com/artist/33eIaajbND4MYRXV3roJ5Q) | [Pink Noise Sounds for Focus and Relaxation](https://open.spotify.com/album/1f6H56oC6fIHVMlJ1SnHRT) | 2:52 | 2022-11-18 |  |
 | [Pink Sundown](https://open.spotify.com/track/4Dc0wjSmEiKOz0ymExmmkf) | [Dormant Clouds](https://open.spotify.com/artist/08MfBIg9r4Dzm2ISLs1Us7) | [Pink Sundown](https://open.spotify.com/album/4VndUjrTaivnUdHE6WblC8) | 3:15 | 2022-08-02 | 2025-11-15 |
 | [Pink Universe](https://open.spotify.com/track/0Arhl0vegC9JMLHjPNpPa7) | [Somnolence](https://open.spotify.com/artist/0np7yt4AmDMRNvEuYgOIXm) | [Pink Universe](https://open.spotify.com/album/6b9ImVVuhEfY1TxpqOuZAs) | 2:59 | 2022-11-18 |  |

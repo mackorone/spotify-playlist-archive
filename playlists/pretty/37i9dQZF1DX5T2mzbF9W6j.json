@@ -1,12 +1,12 @@
 {
   "description": "Wyzwania, cele, zadania, spotkania, dedlajny\u2026 ale najpierw kawa.",
-  "num_followers": 112187,
+  "num_followers": 112192,
   "original_name": "... ale najpierw kawa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ6Lp08IqYDihK80/B3/AUbHNMKd",
+  "snapshot_id": "AAAAAC8plM/0wy92xudwUZaOegY3jfKX",
   "tracks": [
     {
       "added_at": "2025-11-14 12:19:18",
@@ -883,22 +883,6 @@
     {
       "added_at": "2025-11-14 12:19:18",
       "album": {
-        "name": "Co noc",
-        "url": "https://open.spotify.com/album/4f1bC5xpaa9WEr87Wum7Bd"
-      },
-      "artists": [
-        {
-          "name": "Oskar Cyms",
-          "url": "https://open.spotify.com/artist/2fcIazWMq5XONzkuCwSSEr"
-        }
-      ],
-      "duration_ms": 159428,
-      "name": "Co noc",
-      "url": "https://open.spotify.com/track/5GElBQDxiLNF991NLcuGje"
-    },
-    {
-      "added_at": "2025-11-14 12:19:18",
-      "album": {
         "name": "prosz\u0119 pana",
         "url": "https://open.spotify.com/album/4Atcfix3A3u1PefLTIW0j7"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 130342,
       "name": "prosz\u0119 pana",
       "url": "https://open.spotify.com/track/3S3ayOhVEJSZZP1tgeKEOB"
+    },
+    {
+      "added_at": "2025-11-14 12:19:18",
+      "album": {
+        "name": "Co noc",
+        "url": "https://open.spotify.com/album/4f1bC5xpaa9WEr87Wum7Bd"
+      },
+      "artists": [
+        {
+          "name": "Oskar Cyms",
+          "url": "https://open.spotify.com/artist/2fcIazWMq5XONzkuCwSSEr"
+        }
+      ],
+      "duration_ms": 159428,
+      "name": "Co noc",
+      "url": "https://open.spotify.com/track/5GElBQDxiLNF991NLcuGje"
     },
     {
       "added_at": "2025-11-14 12:19:18",
@@ -1055,6 +1055,26 @@
     {
       "added_at": "2025-11-14 12:19:18",
       "album": {
+        "name": "Naiwna ja",
+        "url": "https://open.spotify.com/album/4XxHDMDdBKMF2paNzIrAdz"
+      },
+      "artists": [
+        {
+          "name": "Wiktoria Kida",
+          "url": "https://open.spotify.com/artist/6EuekoOKebcHJWIqHuBK0H"
+        },
+        {
+          "name": "Ksi\u0119ga \u017bywio\u0142\u00f3w",
+          "url": "https://open.spotify.com/artist/1TqYSOMq3DVt2cUERdU4v5"
+        }
+      ],
+      "duration_ms": 140111,
+      "name": "Naiwna ja",
+      "url": "https://open.spotify.com/track/4x9GZTzFsErAMCDBNw6C6v"
+    },
+    {
+      "added_at": "2025-11-14 12:19:18",
+      "album": {
         "name": "Rzeka",
         "url": "https://open.spotify.com/album/2Qt3FgzD4N0WeQJquEwXFh"
       },
@@ -1071,22 +1091,6 @@
       "duration_ms": 180240,
       "name": "Rzeka",
       "url": "https://open.spotify.com/track/3tjABLsXoFCxoGmj2O6L6S"
-    },
-    {
-      "added_at": "2025-11-14 12:19:18",
-      "album": {
-        "name": "Firdyga\u0142ki",
-        "url": "https://open.spotify.com/album/3hvfKTYWgFdqtmFOby3LZr"
-      },
-      "artists": [
-        {
-          "name": "maks.tachasiuk",
-          "url": "https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz"
-        }
-      ],
-      "duration_ms": 233636,
-      "name": "Firdyga\u0142ki",
-      "url": "https://open.spotify.com/track/7HjSGd75KfBbKAEcMZogKi"
     }
   ],
   "unique_name": "... ale najpierw kawa",

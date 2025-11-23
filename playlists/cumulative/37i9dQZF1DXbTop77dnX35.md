@@ -4,7 +4,7 @@
 
 > New Music from Victony, Tems, DJ Tunez, Burna Boy and more
 
-4,437 songs - 9 day 7 hr 12 min
+4,437 songs - 9 day 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1991,7 +1991,7 @@
 | [June 10th](https://open.spotify.com/track/35U4EeFkCLtMa1X2fYQeOa) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ) | [June 10th](https://open.spotify.com/album/4m2ponq6PJcf9EbDefBuSi) | 5:11 | 2025-06-13 | 2025-06-20 |
 | [June July](https://open.spotify.com/track/6JP04ZuKnshngkHsj3LSmP) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [June July + Pharasee](https://open.spotify.com/album/1FC1CyUgPKThUZHEqarOIG) | 3:40 | 2024-07-19 | 2024-07-27 |
 | [JUNGLE](https://open.spotify.com/track/6hp8DmDElPmM53iOP5ZMq9) | [Ayox](https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx) | [JUNGLE](https://open.spotify.com/album/6mGPEzv6LoeyV9u2hiyty4) | 2:40 | 2024-06-14 | 2024-06-21 |
-| [Jungle](https://open.spotify.com/track/4sDJ96gu68rfMzlDNLh5M5) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP) | [Jungle](https://open.spotify.com/album/5aVMinMjVyCFBRAAIlfXNS) | 2:23 | 2025-11-21 |  |
+| [Jungle](https://open.spotify.com/track/4sDJ96gu68rfMzlDNLh5M5) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP) | [Jungle](https://open.spotify.com/album/5aVMinMjVyCFBRAAIlfXNS) | 2:35 | 2025-11-21 |  |
 | [Jungle](https://open.spotify.com/track/4qTo18X2egfFnQ9Kqx5kBY) | [ynt\_szn](https://open.spotify.com/artist/4faQmkDyAS2Q9KaMR5fRy1), [BRUME](https://open.spotify.com/artist/0mF9O2cuTxRrGsutiPlcP1) | [Jungle](https://open.spotify.com/album/7kudViMnqvqP5AiipJyCLM) | 2:42 | 2024-12-13 | 2024-12-20 |
 | [Jungle](https://open.spotify.com/track/3DNQ0lffkKOldmetNvdjeW) | [Zubi](https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY) | [Jungle](https://open.spotify.com/album/7HQZo6UGbEkYWUP70Dv99m) | 3:38 | 2025-03-14 | 2025-03-21 |
 | [Just a Girl](https://open.spotify.com/track/35d7L865JjMYCKrRdcSSCR) | [Bolaryn](https://open.spotify.com/artist/2WtZq7dFGk8xu54R0NtVvb) | [Just a Girl](https://open.spotify.com/album/4zSlRMrCa0lGdcThy3fngg) | 2:27 | 2025-07-04 | 2025-07-12 |

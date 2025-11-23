@@ -4,7 +4,7 @@
 
 > Brand new music from Nemzzz, Tate McRae, Sub Focus and more!
 
-19,468 songs - 43 day 20 hr 45 min
+19,469 songs - 43 day 20 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13906,6 +13906,7 @@
 | [Resonate \(feat\. Julia Church\)](https://open.spotify.com/track/2pvQCbUnXHOpAcJOkgAYmZ) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Resonate \(feat\. Julia Church\)](https://open.spotify.com/album/7r9LSib4rKpvAS9hTRt1QJ) | 4:01 | 2024-06-20 | 2024-06-28 |
 | [Respect & Power](https://open.spotify.com/track/1oIMqC0P0ZsM5yZlPnoMdR) | [Layyah](https://open.spotify.com/artist/4dPLaOXT8fXdg8X0KSIMXF) | [Respect & Power](https://open.spotify.com/album/0chkv2etsy3zlepeSbmK0H) | 3:22 | 2025-02-28 | 2025-03-07 |
 | [Respectfully](https://open.spotify.com/track/035W9W7g8SzTPZDeDWN7PU) | [JAY1](https://open.spotify.com/artist/0BKx4UjPvXVGY15u0xFbbi) | [Respectfully](https://open.spotify.com/album/76O98ZYESfJHIS2wDVpwKQ) | 2:43 | 2024-04-25 | 2024-05-03 |
+| [Respectfully Yours](https://open.spotify.com/track/5vInsjdXaM5ikAeRr1s1VK) | [Full Blown](https://open.spotify.com/artist/3zbOZ8HVaeogc99IuaBinC) | [Respectfully Yours](https://open.spotify.com/album/4WMBflGiNa3ntuXWq4PdHA) | 2:32 | 2025-11-21 |  |
 | [Rest \(with Sasha Alex Sloan\)](https://open.spotify.com/track/0eUoazaVUu4Y83USuUTz7P) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Rest \(with Sasha Alex Sloan\)](https://open.spotify.com/album/2tlpX0RIhdCE9nb1nlXFjW) | 3:13 | 2024-08-08 | 2024-08-16 |
 | [Rest Easy](https://open.spotify.com/track/5J5mQKqZVxMDKZ3xPKgABa) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Rest Easy](https://open.spotify.com/album/3AKzDK0hhKvBpIpKEZxT38) | 2:47 | 2025-11-21 |  |
 | [Rest In Peace](https://open.spotify.com/track/0F634NqZ65Skv8aRDEsyex) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Rest In Peace](https://open.spotify.com/album/65kQ2jcrYIYAMNiE5Zi704) | 2:55 | 2023-08-24 | 2023-09-01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 
 > Ακούστε αυτές τις θαυμάσιες καλλιτέχνιδες στη διαπασών\. Μια playlist που συνυπογράφει η Klavdia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,928 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,934 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,7 +2,7 @@
 
 ### [sanguegiovane 🩸](https://open.spotify.com/playlist/37i9dQZF1DWW9tK1GiTdMf)
 
-> musica per un'estate non proprio felice \(blanco in cover\)
+> musica per un autunno non proprio felice \(psicologi in cover\)
 
 1,540 songs - 2 day 22 hr 31 min
 

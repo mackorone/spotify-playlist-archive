@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 
 > The latest and the greatest of CHH!  Cover: Brenno
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,685 likes - 100 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,702 likes - 100 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 | 99 | [Born Wild](https://open.spotify.com/track/0vypWypfKJtUVmPNs7vdDg) | [Lyric The Geenyus](https://open.spotify.com/artist/6Fo6hgETL8pUsJb4hoQhwv) | [Born Wild](https://open.spotify.com/album/4sFXKC4gMsSKR6glVtQJwQ) | 3:27 |
 | 100 | [Enemies](https://open.spotify.com/track/0Sa2EO39qdabPYhmazgNGV) | [Legin](https://open.spotify.com/artist/6aetHrwSHtxqMXRT8rp0BV) | [Enemies](https://open.spotify.com/album/043lTBJYqoQBqy6zwKu6G8) | 2:51 |
 
-Snapshot ID: `AAAAAHON/HR4Ar/ioHDzjekmaUfVunl9`
+Snapshot ID: `AAAAAGnVbL6OFgra+KU6rH/CuF77mPzi`

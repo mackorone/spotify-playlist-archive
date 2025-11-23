@@ -4,7 +4,7 @@
 
 > Ride the bassline\. Cover: TyriqueOrDie
 
-912 songs - 2 day 1 hr 20 min
+913 songs - 2 day 1 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,6 +301,7 @@
 | [Front To Back \(feat\. DLMT\)](https://open.spotify.com/track/2NNOhqpefQ8OKfibeox8El) | [FOMO](https://open.spotify.com/artist/6K4rA9ocjtIaTOEVZ4N6dX), [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF) | [Front To Back \(feat\. DLMT\)](https://open.spotify.com/album/2gPIAG5O5NinWCtB4yuSSR) | 3:31 | 2023-01-06 | 2023-04-29 |
 | [Fuck It Up](https://open.spotify.com/track/0PBQS0GycsYJ4yJJRjAIXU) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [Mike Sherm](https://open.spotify.com/artist/3tqosLbNFNekyZyO2KJ6qd) | [Fuck It Up](https://open.spotify.com/album/2ByC6BK9XEUuK043NpUGB3) | 2:12 | 2025-01-04 | 2025-11-15 |
 | [Fuck Right Off](https://open.spotify.com/track/7tu0XNOoQxBm4TpvRx8e65) | [Aliiias](https://open.spotify.com/artist/4Y8otp9Ld9PkZeNPq20uFG) | [Fuck Right Off](https://open.spotify.com/album/54r00dZGEIr77NjIy16JGv) | 2:39 | 2023-02-24 | 2023-12-02 |
+| [FUCK THE SPEAKERZ UP](https://open.spotify.com/track/26ax7KOixD6ahLq4mz8TuV) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav) | [FUCK THE SPEAKERZ UP](https://open.spotify.com/album/7a7eYrzNW0rYcWKTc7AW4j) | 2:46 | 2025-11-21 |  |
 | [Fuck U Love U](https://open.spotify.com/track/7AcfLjRYL1LeiUHUU302Fm) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Fuck U Love U](https://open.spotify.com/album/7fZwgv7wRTEShKzeF6GA0w) | 3:18 | 2022-01-14 | 2022-04-02 |
 | [Fuck Your Sunshine \(Adventure Club Remix\)](https://open.spotify.com/track/6QvldZZ10eYgKamaWfG52b) | [Łaszewo](https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN), [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa) | [Fuck Your Sunshine \(Adventure Club Remix\)](https://open.spotify.com/album/6icWyduCnRXtFYlEBPgavf) | 3:44 | 2022-10-07 | 2025-05-24 |
 | [Funk Accelerator](https://open.spotify.com/track/3QORLvINZ5ie3lRsTOZJqD) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr) | [Funk Accelerator](https://open.spotify.com/album/72t6Fxyx5KRt0SaZ801jOl) | 3:52 | 2022-04-15 | 2022-05-07 |
@@ -405,7 +406,7 @@
 | [I'm Good \(Blue\) \- Tiësto Remix](https://open.spotify.com/track/7gLKUPLGMzPhw90Ara5ZEc) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [I'm Good \(Blue\) \[Remixes\]](https://open.spotify.com/album/2FoK9zElswjfRAYxDfspRd) | 2:58 | 2022-09-30 | 2023-02-11 |
 | [I'm Not Alone \- MPH Remix](https://open.spotify.com/track/1z6pTKnrEpokcfwked9cNx) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [I'm Not Alone \(MPH Remix\)](https://open.spotify.com/album/17Ig8wh18XZqSjxfzyXCW5) | 3:33 | 2025-08-29 |  |
 | [ID1](https://open.spotify.com/track/6B2iGXREq0qb0N5thBN279) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw) | [Nightmare On Rezz Street 2 Mix](https://open.spotify.com/album/5aRRt9zSKDEQdWghFvkiEi) | 2:54 | 2022-10-28 | 2023-02-11 |
-| [In My Mind](https://open.spotify.com/track/4WbD0V7PW48FDxdcb4kjQe) | [Vanic](https://open.spotify.com/artist/2LY0E3xg8svCVYXVNTze5T), [Casey Cook](https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl) | [In My Mind](https://open.spotify.com/album/0eWMkFTjcb7UtPMXSqnPzw) | 3:49 | 2025-08-29 |  |
+| [In My Mind](https://open.spotify.com/track/4WbD0V7PW48FDxdcb4kjQe) | [Vanic](https://open.spotify.com/artist/2LY0E3xg8svCVYXVNTze5T), [Casey Cook](https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl) | [In My Mind](https://open.spotify.com/album/0eWMkFTjcb7UtPMXSqnPzw) | 3:49 | 2025-08-29 | 2025-11-23 |
 | [In Rome](https://open.spotify.com/track/6SgGvkZkaAIdigMcWDMlmW) | [Setou & Senyo](https://open.spotify.com/artist/6IeBUOW8MyihZUBtYRdKYv), [ANTHEM](https://open.spotify.com/artist/3StjWvSpji3Ho1tmehMWUd), [Jaime Deraz](https://open.spotify.com/artist/4J7ascv32yT6yE75KRCktv) | [In Rome \(feat\. Jaime Deraz\)](https://open.spotify.com/album/2wQdJ7JuyPMiZ3abVikig9) | 2:38 | 2024-02-09 | 2024-03-03 |
 | [In tha Trap](https://open.spotify.com/track/1Dl1opgs5iNJdnUZx3n1aM) | [ELEX](https://open.spotify.com/artist/4Ci8C6tVxu1BH5gnboX3vl) | [In tha Trap](https://open.spotify.com/album/1AHXmQv3tGQsKCGxOAut6E) | 4:49 | 2024-01-12 | 2024-04-06 |
 | [In The Dark](https://open.spotify.com/track/4FnLKHECzy1QCOZUpDZYWA) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp) | [In The Dark](https://open.spotify.com/album/3nI0lFnPfuN8wFiXIyGVZo) | 2:19 | 2025-01-24 | 2025-11-18 |

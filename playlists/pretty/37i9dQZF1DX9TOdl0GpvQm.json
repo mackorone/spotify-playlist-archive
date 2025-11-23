@@ -1,12 +1,12 @@
 {
   "description": "deep dark ambient and half-remembered hypnagogic soundscapes. ",
-  "num_followers": 187730,
+  "num_followers": 187774,
   "original_name": "hauntology",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO8m9r1ej/CfxJTXbZWgzjACNptX",
+  "snapshot_id": "AAAAAEog6LLZdUvWVE24lsr9ny4c4O1M",
   "tracks": [
     {
       "added_at": "2025-11-14 17:00:34",
@@ -331,6 +331,22 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
+        "name": "R Plus Seven",
+        "url": "https://open.spotify.com/album/0p7nH5bz0pWBor10osUBuD"
+      },
+      "artists": [
+        {
+          "name": "Oneohtrix Point Never",
+          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
+        }
+      ],
+      "duration_ms": 293767,
+      "name": "Still Life",
+      "url": "https://open.spotify.com/track/6nMej5H3w4NmKynmLGfV2X"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
         "name": "False Lankum",
         "url": "https://open.spotify.com/album/2lu7c86G1ptjMJVL9upG1H"
       },
@@ -363,22 +379,6 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "espial",
-        "url": "https://open.spotify.com/album/1xnJeMdd96RDhYRprSYrkx"
-      },
-      "artists": [
-        {
-          "name": "Oliver Buckland",
-          "url": "https://open.spotify.com/artist/3anMc1UITbY6dg3XIdip5b"
-        }
-      ],
-      "duration_ms": 251000,
-      "name": "espial",
-      "url": "https://open.spotify.com/track/1c9gFTn6ymqs3kF2KUnvdV"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
         "name": "Everywhere at the End of Time (Stage 1)",
         "url": "https://open.spotify.com/album/0BE7TLLZoUhr9M8RlmFY3T"
       },
@@ -395,18 +395,18 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "R Plus Seven",
-        "url": "https://open.spotify.com/album/0p7nH5bz0pWBor10osUBuD"
+        "name": "espial",
+        "url": "https://open.spotify.com/album/1xnJeMdd96RDhYRprSYrkx"
       },
       "artists": [
         {
-          "name": "Oneohtrix Point Never",
-          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
+          "name": "Oliver Buckland",
+          "url": "https://open.spotify.com/artist/3anMc1UITbY6dg3XIdip5b"
         }
       ],
-      "duration_ms": 293767,
-      "name": "Still Life",
-      "url": "https://open.spotify.com/track/6nMej5H3w4NmKynmLGfV2X"
+      "duration_ms": 251000,
+      "name": "espial",
+      "url": "https://open.spotify.com/track/1c9gFTn6ymqs3kF2KUnvdV"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -427,22 +427,6 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "Mono No Aware",
-        "url": "https://open.spotify.com/album/1YbSlMGiAAaTfR9Kk9HNxk"
-      },
-      "artists": [
-        {
-          "name": "Oli XL",
-          "url": "https://open.spotify.com/artist/3L3ejltt5dmjXkES4YSGKX"
-        }
-      ],
-      "duration_ms": 257467,
-      "name": "Heretic",
-      "url": "https://open.spotify.com/track/6IZDFhyHiWcLJPEo1W4nvd"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
         "name": "Valtari",
         "url": "https://open.spotify.com/album/784AinfJcPwVdpbXR4U8mN"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 396853,
       "name": "Var\u00fa\u00f0",
       "url": "https://open.spotify.com/track/6Ss7upGobLSpoLNmO7jj7u"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
+        "name": "Mono No Aware",
+        "url": "https://open.spotify.com/album/1YbSlMGiAAaTfR9Kk9HNxk"
+      },
+      "artists": [
+        {
+          "name": "Oli XL",
+          "url": "https://open.spotify.com/artist/3L3ejltt5dmjXkES4YSGKX"
+        }
+      ],
+      "duration_ms": 257467,
+      "name": "Heretic",
+      "url": "https://open.spotify.com/track/6IZDFhyHiWcLJPEo1W4nvd"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -723,22 +723,6 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "The Very Best Of",
-        "url": "https://open.spotify.com/album/0T5JxyJdfCZAOMnX9uZehI"
-      },
-      "artists": [
-        {
-          "name": "James Last",
-          "url": "https://open.spotify.com/artist/5UyJW2eCOuXtyYftgbMxZG"
-        }
-      ],
-      "duration_ms": 180373,
-      "name": "Saute-Mouton",
-      "url": "https://open.spotify.com/track/2NVfqbSEFDT6CmDA2DQMpZ"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
         "name": "Geleit ins Totenreich",
         "url": "https://open.spotify.com/album/1g1Ypo2vDKKKpot1swTIyK"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 200493,
       "name": "Ivory Tower II",
       "url": "https://open.spotify.com/track/76V1HKK8ZP7rHa2zpmXxUG"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
+        "name": "The Very Best Of",
+        "url": "https://open.spotify.com/album/0T5JxyJdfCZAOMnX9uZehI"
+      },
+      "artists": [
+        {
+          "name": "James Last",
+          "url": "https://open.spotify.com/artist/5UyJW2eCOuXtyYftgbMxZG"
+        }
+      ],
+      "duration_ms": 180373,
+      "name": "Saute-Mouton",
+      "url": "https://open.spotify.com/track/2NVfqbSEFDT6CmDA2DQMpZ"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "Other Channels",
-        "url": "https://open.spotify.com/album/5e8pjxQuuRyMf6FjjaQT3D"
-      },
-      "artists": [
-        {
-          "name": "The Advisory Circle",
-          "url": "https://open.spotify.com/artist/6W0YlZ9EupJ8kSsW97KG6S"
-        }
-      ],
-      "duration_ms": 207866,
-      "name": "Sundial",
-      "url": "https://open.spotify.com/track/6RuZpxDrZ5xGMRQB0Eodp4"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
         "name": "The Secret Cosmic Music of the East German Olympic Program 1972-83, Vol. 3",
         "url": "https://open.spotify.com/album/4ZAtlPjTyeQeptFlp38oez"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 136160,
       "name": "In der Stadt und auf dem Land",
       "url": "https://open.spotify.com/track/5RpoUzFpBM0EMSet3Mzldw"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
+        "name": "Other Channels",
+        "url": "https://open.spotify.com/album/5e8pjxQuuRyMf6FjjaQT3D"
+      },
+      "artists": [
+        {
+          "name": "The Advisory Circle",
+          "url": "https://open.spotify.com/artist/6W0YlZ9EupJ8kSsW97KG6S"
+        }
+      ],
+      "duration_ms": 207866,
+      "name": "Sundial",
+      "url": "https://open.spotify.com/track/6RuZpxDrZ5xGMRQB0Eodp4"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "4:23",
-        "url": "https://open.spotify.com/album/0ACtwMaMVewYM4hFu9FXhZ"
-      },
-      "artists": [
-        {
-          "name": "MIKE DEAN",
-          "url": "https://open.spotify.com/artist/5TAipisjquAkq2o7lzMJyc"
-        }
-      ],
-      "duration_ms": 216665,
-      "name": "118k",
-      "url": "https://open.spotify.com/track/2zQPgkGPNxiCrbaBXKfBn1"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
         "name": "Poradnik U\u015bmiechu (Original Soundtrack)",
         "url": "https://open.spotify.com/album/1MQtxIbW80AU5LDMqhyKON"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 429250,
       "name": "Nowe Przebudzenie",
       "url": "https://open.spotify.com/track/1maCbZFc6vWashG0Sut5B1"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
+        "name": "4:23",
+        "url": "https://open.spotify.com/album/0ACtwMaMVewYM4hFu9FXhZ"
+      },
+      "artists": [
+        {
+          "name": "MIKE DEAN",
+          "url": "https://open.spotify.com/artist/5TAipisjquAkq2o7lzMJyc"
+        }
+      ],
+      "duration_ms": 216665,
+      "name": "118k",
+      "url": "https://open.spotify.com/track/2zQPgkGPNxiCrbaBXKfBn1"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "Odio Bajo El Alma",
-        "url": "https://open.spotify.com/album/4E7XMWhx8XBNIwIzfm2TaJ"
-      },
-      "artists": [
-        {
-          "name": "Hocico",
-          "url": "https://open.spotify.com/artist/5cilSDFcAQcLwh0dNqMhrE"
-        }
-      ],
-      "duration_ms": 300293,
-      "name": "Cuando La Malidad Despierta",
-      "url": "https://open.spotify.com/track/2j1BRoXVvUWx7JhUuG6sHO"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
         "name": "Across The Meridian",
         "url": "https://open.spotify.com/album/1JVx6dlk7PKc5kbplLJdZg"
       },
@@ -1223,22 +1207,6 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "Twin Color (Extended Play No. 2)",
-        "url": "https://open.spotify.com/album/3IA7WQ7LazMLrQO9RNvgtW"
-      },
-      "artists": [
-        {
-          "name": "Murcof",
-          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
-        }
-      ],
-      "duration_ms": 370400,
-      "name": "Like Halloween, Pt. I",
-      "url": "https://open.spotify.com/track/0UhLqQMGKy8trlKSlU4o9J"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
         "name": "Inter-Dimensional Music",
         "url": "https://open.spotify.com/album/59hWFsFOPOrXQMeTiXYGLr"
       },
@@ -1251,6 +1219,38 @@
       "duration_ms": 252146,
       "name": "Lueena Coast",
       "url": "https://open.spotify.com/track/6JR1XlStv1gnRLT7sNek4q"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
+        "name": "Odio Bajo El Alma",
+        "url": "https://open.spotify.com/album/4E7XMWhx8XBNIwIzfm2TaJ"
+      },
+      "artists": [
+        {
+          "name": "Hocico",
+          "url": "https://open.spotify.com/artist/5cilSDFcAQcLwh0dNqMhrE"
+        }
+      ],
+      "duration_ms": 300293,
+      "name": "Cuando La Malidad Despierta",
+      "url": "https://open.spotify.com/track/2j1BRoXVvUWx7JhUuG6sHO"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
+        "name": "Twin Color (Extended Play No. 2)",
+        "url": "https://open.spotify.com/album/3IA7WQ7LazMLrQO9RNvgtW"
+      },
+      "artists": [
+        {
+          "name": "Murcof",
+          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
+        }
+      ],
+      "duration_ms": 370400,
+      "name": "Like Halloween, Pt. I",
+      "url": "https://open.spotify.com/track/0UhLqQMGKy8trlKSlU4o9J"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "Sky Hooks",
-        "url": "https://open.spotify.com/album/1cRRoju0uC7dKI0DShRofp"
-      },
-      "artists": [
-        {
-          "name": "Seefeel",
-          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
-        }
-      ],
-      "duration_ms": 363483,
-      "name": "Sky Hooks",
-      "url": "https://open.spotify.com/track/6KqOFPJTgkSXWmKkjstNWC"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
         "name": "Heat Ray: The Archimedes Project",
         "url": "https://open.spotify.com/album/26jUvZEETVKfAZQe7XwygQ"
       },
@@ -1327,18 +1311,18 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "Dragon Wings and Wizard Tales",
-        "url": "https://open.spotify.com/album/28yG3trjPCbTDtKbTgm9Pf"
+        "name": "Sky Hooks",
+        "url": "https://open.spotify.com/album/1cRRoju0uC7dKI0DShRofp"
       },
       "artists": [
         {
-          "name": "Emerald Web",
-          "url": "https://open.spotify.com/artist/4pXW1cANcBgMaLvVwCfsMe"
+          "name": "Seefeel",
+          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
         }
       ],
-      "duration_ms": 185773,
-      "name": "Flight of the Raven",
-      "url": "https://open.spotify.com/track/6PVBbkAbQVb9PxordrVHa8"
+      "duration_ms": 363483,
+      "name": "Sky Hooks",
+      "url": "https://open.spotify.com/track/6KqOFPJTgkSXWmKkjstNWC"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -1359,22 +1343,18 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "Hypernormality",
-        "url": "https://open.spotify.com/album/5s2MU4pZMy6B3guYWxlLX5"
+        "name": "Dragon Wings and Wizard Tales",
+        "url": "https://open.spotify.com/album/28yG3trjPCbTDtKbTgm9Pf"
       },
       "artists": [
         {
-          "name": "\u00d6",
-          "url": "https://open.spotify.com/artist/2f1BFOhuLHw7mXfquuG85y"
-        },
-        {
-          "name": "N\u00f6mak",
-          "url": "https://open.spotify.com/artist/6rbVD4QiFbfXuqHaZ6DxEY"
+          "name": "Emerald Web",
+          "url": "https://open.spotify.com/artist/4pXW1cANcBgMaLvVwCfsMe"
         }
       ],
-      "duration_ms": 316693,
-      "name": "St Henri",
-      "url": "https://open.spotify.com/track/2Zu8GTKVR2iXR3ZJIbbky3"
+      "duration_ms": 185773,
+      "name": "Flight of the Raven",
+      "url": "https://open.spotify.com/track/6PVBbkAbQVb9PxordrVHa8"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -1391,6 +1371,26 @@
       "duration_ms": 390573,
       "name": "Claim It",
       "url": "https://open.spotify.com/track/3uSjp9rT55R0WjPSfnoyT8"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
+        "name": "Hypernormality",
+        "url": "https://open.spotify.com/album/5s2MU4pZMy6B3guYWxlLX5"
+      },
+      "artists": [
+        {
+          "name": "\u00d6",
+          "url": "https://open.spotify.com/artist/2f1BFOhuLHw7mXfquuG85y"
+        },
+        {
+          "name": "N\u00f6mak",
+          "url": "https://open.spotify.com/artist/6rbVD4QiFbfXuqHaZ6DxEY"
+        }
+      ],
+      "duration_ms": 316693,
+      "name": "St Henri",
+      "url": "https://open.spotify.com/track/2Zu8GTKVR2iXR3ZJIbbky3"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "The Endless Echo",
-        "url": "https://open.spotify.com/album/0XAjiCwyC9ykPOn8k8Gy18"
-      },
-      "artists": [
-        {
-          "name": "Pye Corner Audio",
-          "url": "https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL"
-        }
-      ],
-      "duration_ms": 112906,
-      "name": "The Awful Majesty",
-      "url": "https://open.spotify.com/track/2QZaqebo46rgjDVR1pLHDS"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
         "name": "Ozone Scraper",
         "url": "https://open.spotify.com/album/5AUkiL7bPV1Hc6jGdYydrI"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 211299,
       "name": "Ozone Scraper",
       "url": "https://open.spotify.com/track/0Q9R4VjA7LedOAoUBvT2fV"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
+        "name": "The Endless Echo",
+        "url": "https://open.spotify.com/album/0XAjiCwyC9ykPOn8k8Gy18"
+      },
+      "artists": [
+        {
+          "name": "Pye Corner Audio",
+          "url": "https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL"
+        }
+      ],
+      "duration_ms": 112906,
+      "name": "The Awful Majesty",
+      "url": "https://open.spotify.com/track/2QZaqebo46rgjDVR1pLHDS"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -1587,26 +1587,6 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "Halloween III: Complete Original Motion Picture Score",
-        "url": "https://open.spotify.com/album/10nXp7CzkrCbAtuCO8aWtm"
-      },
-      "artists": [
-        {
-          "name": "John Carpenter",
-          "url": "https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq"
-        },
-        {
-          "name": "Alan Howarth",
-          "url": "https://open.spotify.com/artist/3Ia5S5H9yoQpc9Hqy0cqAU"
-        }
-      ],
-      "duration_ms": 209093,
-      "name": "Stonehenge",
-      "url": "https://open.spotify.com/track/1Kv5H3hca3RZztmtdyxz2C"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
         "name": "Galactic Sounds",
         "url": "https://open.spotify.com/album/2rp2et7vphJtxSniKKD85T"
       },
@@ -1639,18 +1619,38 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "In Free Fall",
-        "url": "https://open.spotify.com/album/6SG8tzZmlQBCQQSNzMmqQ2"
+        "name": "Halloween III: Complete Original Motion Picture Score",
+        "url": "https://open.spotify.com/album/10nXp7CzkrCbAtuCO8aWtm"
       },
       "artists": [
         {
-          "name": "Maya Shenfeld",
-          "url": "https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ"
+          "name": "John Carpenter",
+          "url": "https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq"
+        },
+        {
+          "name": "Alan Howarth",
+          "url": "https://open.spotify.com/artist/3Ia5S5H9yoQpc9Hqy0cqAU"
         }
       ],
-      "duration_ms": 244693,
-      "name": "Voyager",
-      "url": "https://open.spotify.com/track/4VWqW5L7atG0psu8TtCVyN"
+      "duration_ms": 209093,
+      "name": "Stonehenge",
+      "url": "https://open.spotify.com/track/1Kv5H3hca3RZztmtdyxz2C"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
+        "name": "The Willows",
+        "url": "https://open.spotify.com/album/5ilT4DXjIzF81QkF5uYMZU"
+      },
+      "artists": [
+        {
+          "name": "Belbury Poly",
+          "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
+        }
+      ],
+      "duration_ms": 283786,
+      "name": "The Willows",
+      "url": "https://open.spotify.com/track/0e9Zk8SwtlzNJ27ch4HIsY"
     }
   ],
   "unique_name": "hauntology",

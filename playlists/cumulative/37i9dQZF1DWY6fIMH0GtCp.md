@@ -79,6 +79,6 @@
 | [Watch Me \(Spin / Drey Drey\)](https://open.spotify.com/track/6LoOG1NlzIn7tlvbuuUfCM) | [Six13](https://open.spotify.com/artist/2H6beCAq0056SYdlQmlfEr) | [Vol\. 7 \- Blessings / Brachot](https://open.spotify.com/album/2XdnCROf6obiPhNJxkNaNv) | 2:54 | 2023-12-07 | 2024-04-19 |
 | [Watch Me \(Spin / Drey Drey\)](https://open.spotify.com/track/7uj6s6UffjBA4FQlOBLboG) | [Six13](https://open.spotify.com/artist/2H6beCAq0056SYdlQmlfEr) | [The Chanukah Collection](https://open.spotify.com/album/3TNq44s2UgzxrqiZVql9Hb) | 2:54 | 2023-12-07 |  |
 | [We Are Lights](https://open.spotify.com/track/1k4L0MtkbyRahJAWwBfGF1) | [Kristin Chenoweth](https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q) | [HAPPINESS is…Christmas!](https://open.spotify.com/album/6CMgL701fxsN5Qb6pZN49j) | 4:24 | 2023-12-07 |  |
-| [חנוכה](https://open.spotify.com/track/4VDrcf17m0AE6CMekgvCAA) | [Static & Ben El](https://open.spotify.com/artist/0xHa28taiElkcQf9o3z76g) | [חנוכה](https://open.spotify.com/album/6teleymeiKKchMbvIKodcQ) | 3:01 | 2024-12-23 |  |
+| [חנוכה](https://open.spotify.com/track/4VDrcf17m0AE6CMekgvCAA) | [Static](https://open.spotify.com/artist/5Ea0d3mUECVaMf8h2DTehE), [Ben El](https://open.spotify.com/artist/6KyByiM5jFKKaeNJabYUYR) | [חנוכה](https://open.spotify.com/album/6teleymeiKKchMbvIKodcQ) | 3:01 | 2024-12-23 |  |
 
 \*This playlist was first scraped on 2024-01-30. Prior content cannot be recovered.

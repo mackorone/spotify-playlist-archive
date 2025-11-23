@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Du neuf, du bon, du franco! Photo: Pierre Lapointe
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,770 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,778 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 26 | [Marianne](https://open.spotify.com/track/135LS8xEi44BRgFd3s2q0d) | [Inouï](https://open.spotify.com/artist/29jLC4V20sCILXE08QRt6J), [Juan Talo Naranjo](https://open.spotify.com/artist/0qH4vtqrYodwlDPEsJFJKO), [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8) | [Marianne](https://open.spotify.com/album/0w03KZCdFehsQhyigladRz) | 2:51 |
 | 27 | [Pousse\-moi pas](https://open.spotify.com/track/1mOkfJmBM5OPLMD2lxw4i6) | [Sam Faye et D\-Track](https://open.spotify.com/artist/4Es6uk5abiwYEh3sPJXh2P) | [Airs de famille](https://open.spotify.com/album/6Wh3F7WPl1qd8bSIuzkgru) | 2:28 |
 | 28 | [Sudation](https://open.spotify.com/track/7hWG3WtGtKtkiWf0ZwRyc6) | [Les Lunatiques](https://open.spotify.com/artist/5i6jPkyXixJNovFvLyIRa1) | [Sudation](https://open.spotify.com/album/1IwxMJRiYNAxmppVqSuVhq) | 3:54 |
-| 29 | [le monde est une femme](https://open.spotify.com/track/6aXtLxcclrmVQwGW58RfK2) | [Mélodie\-Jade](https://open.spotify.com/artist/1TdEVPQUOtvEypnIOeSjDK) | [le monde est une femme](https://open.spotify.com/album/5OQy1FSMBACFkzNns4eDAc) | 3:40 |
+| 29 | [le monde est une femme](https://open.spotify.com/track/6aXtLxcclrmVQwGW58RfK2) | [Mélodie\-Jade](https://open.spotify.com/artist/1TdEVPQUOtvEypnIOeSjDK) | [le monde est une femme](https://open.spotify.com/album/5OQy1FSMBACFkzNns4eDAc) | 3:19 |
 | 30 | [Ce soir \- Poème d'Hélène Monette](https://open.spotify.com/track/7EV7Dexiqf10j2NoKcqgRK) | [Queen Ka](https://open.spotify.com/artist/3DpP9gZWRs5dXEhLLXkGxe) | [Je vous aime tant](https://open.spotify.com/album/2NSF9h7YG19BxvhH892pMq) | 2:52 |
 | 31 | [Fan2moi](https://open.spotify.com/track/5LYfPoYcUWiZMUv1LXdsHx) | [Jäde](https://open.spotify.com/artist/52CEzAtIDEJInO8yL0blFB) | [Sexe & the city](https://open.spotify.com/album/3XZvTKx5MxfalZwcJ3nECT) | 3:10 |
 | 32 | [Xanax mon amour](https://open.spotify.com/track/6FvzF6lcbZw1W3L0Tn4dD3) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr) | [Xanax mon amour](https://open.spotify.com/album/46OTJBJw8pyI1SRtTjePOt) | 2:58 |

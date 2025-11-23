@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > Jovanotti in cover con un nuovo album registrato a NYC + le migliori nuove uscite 🇮🇹 e 🌎!
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,946 likes - 116 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,950 likes - 116 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 | 38 | [Start Over](https://open.spotify.com/track/0c6ag7Use9L9EvoLXn6aWv) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [EVERYONE'S A STAR! \(Fully Evolved\)](https://open.spotify.com/album/3CahoSQHwIB5Pxq4Sb9jCn) | 3:11 |
 | 39 | [SICILIA BEDDA](https://open.spotify.com/track/1wpz7w8uC7dElPIjJW7xYK) | [DELIA](https://open.spotify.com/artist/0BjRnUqiITQwjqGtTeoxUS) | [SICILIA BEDDA](https://open.spotify.com/album/5rHzzeOA4HVKkH9ZviwBhz) | 2:39 |
 | 40 | [Neve Sporca](https://open.spotify.com/track/6pJqWpSMtmzdPY78iVt8vl) | [PierC](https://open.spotify.com/artist/16FsbJXEa2nJ61pyIL3ch8) | [Neve Sporca](https://open.spotify.com/album/0E5rRqzAz19m35sB970DtU) | 3:06 |
-| 41 | [FUMA](https://open.spotify.com/track/0O7RhXSVivzJIIHTs8v27u) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [FUMA](https://open.spotify.com/album/5oYE5BgIcSmEuxvkZi93VT) | 2:39 |
+| 41 | [Fuma](https://open.spotify.com/track/0O7RhXSVivzJIIHTs8v27u) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Fuma](https://open.spotify.com/album/5oYE5BgIcSmEuxvkZi93VT) | 2:39 |
 | 42 | [IMPLOSION](https://open.spotify.com/track/5v64rhcXYgkQhdTp2tlVD8) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [IMPLOSION](https://open.spotify.com/album/02uOUfa2VRpL4MMGH9fxU2) | 3:20 |
 | 43 | [SAVE MY SOUL](https://open.spotify.com/track/0gF5UuEPNvpdDAY0BItOzv) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [SAVE MY SOUL](https://open.spotify.com/album/1tSRIsR2Y8dQ63QNFQnCSU) | 3:57 |
 | 44 | [Butterscotch](https://open.spotify.com/track/7kFWwCnHNnpuGq45ThfkfC) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Animal + Cannibal \(15th Anniversary\)](https://open.spotify.com/album/4cPVR1DcBZr2ANNvQ25Sjp) | 3:16 |

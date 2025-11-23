@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 372 songs - 21 hr 39 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 377 songs - 21 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -380,5 +380,10 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 370 | [Morro](https://open.spotify.com/track/6vo3v3JZ5MaQKpjKAWUsyc) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [Santos](https://open.spotify.com/album/0O3I2nYOiefYCNmhhWd7S8) | 2:44 |
 | 371 | [Ahora Resulta](https://open.spotify.com/track/6OomVy6lxR81E9y35UXA1P) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Ahora Resulta](https://open.spotify.com/album/6tgrbxZDIatkZ6j4ZbMRG0) | 4:36 |
 | 372 | [La Cumbia De La Baliniza](https://open.spotify.com/track/4mO0nK7SruRNINjeP6KnZD) | [Los Cómplices](https://open.spotify.com/artist/5VWS9FUu81CLfq7i7tLHXn), [Yahir Saldivar](https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ) | [La Cumbia De La Baliniza](https://open.spotify.com/album/4gMmtgOZXTuCUjLZim0tuL) | 2:47 |
+| 373 | [Just Begun \(feat\. Jay Electronica, J\. Cole & Mos Def\)](https://open.spotify.com/track/0OZGkH4zjKKYfgFskPOspV) | [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y), [Hi\-Tek](https://open.spotify.com/artist/2S3kEShbYaNGvSyJdd7sJg), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [J A Y E L E C T R O N I C A](https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ), [Mos Def](https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO) | [Revolutions Per Minute](https://open.spotify.com/album/3M4SOAMremE0kKDC8ISxei) | 3:36 |
+| 374 | [Heat](https://open.spotify.com/track/4qRdQm8EzQlkx7WmTKpI4R) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P) | 4:14 |
+| 375 | [Bars Into Captions](https://open.spotify.com/track/6eN8UzHNYYf4IJaWkhecFS) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [Only Built For Infinity Links](https://open.spotify.com/album/59hIIDzaPSH5O3QSz4zX0t) | 2:47 |
+| 376 | [Outta Sight Outta Mind](https://open.spotify.com/track/1iKb3Z8NtkTf9auS0lzKbh) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Drip Season](https://open.spotify.com/album/0dHaEMMoQ7HP3nBi3yYU0o) | 3:54 |
+| 377 | [Blood All on it \(feat\. Key Glock, Young Dolph\)](https://open.spotify.com/track/5DBGRsYTwKOihePShbRoHX) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5), [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [So Icy Gang: The ReUp](https://open.spotify.com/album/53aYSRJmJeUO800GL3Wa1C) | 3:54 |
 
-Snapshot ID: `AAAfPTRMqLovjMfvR1t3QUTvYu0majTV`
+Snapshot ID: `AAAfQhnzbEf68Cq/YApia8y6jV4WtTZ+`

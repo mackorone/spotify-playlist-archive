@@ -2,7 +2,7 @@
 
 ### [Rock en Español: Los 80](https://open.spotify.com/playlist/37i9dQZF1DX7wcKDtt5TMP)
 
-> Lo mejor del rock en español en la década de los 80\. Foto: Soda Stereo
+> Lo mejor del rock en español en la década de los 80\. Foto: Los Prisioneros
 
 78 songs - 5 hr 7 min
 

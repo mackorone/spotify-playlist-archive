@@ -54,7 +54,7 @@
 | [Why Do I Love You](https://open.spotify.com/track/5VOCNmhLyo0goDbA2DMAGs) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [World of Our Own \(Expanded Edition\)](https://open.spotify.com/album/5FECTGZ9UdITzeo7o0AhUZ) | 3:38 | 2025-10-28 |  |
 | [World of Our Own](https://open.spotify.com/track/4SAHTVRe6EBhgAOWl49yPf) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [World of Our Own \(Expanded Edition\)](https://open.spotify.com/album/5FECTGZ9UdITzeo7o0AhUZ) | 3:31 | 2025-10-28 |  |
 | [Written in the Stars](https://open.spotify.com/track/6cGfYPEmADL7vquaizoCPQ) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Greatest Hits](https://open.spotify.com/album/6gtDABGSqEp6waUHbtVbYT) | 4:10 | 2025-10-28 |  |
-| [You Light Up My Life](https://open.spotify.com/track/05V504yIG0sUEKvUcA89GC) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY), [Quiz & Larossi](https://open.spotify.com/artist/57yS632mgjWmcc2bZE3HRc) | [The Love Album](https://open.spotify.com/album/714ejRNfL8eCRvgIKeOMqj) | 3:27 | 2025-10-28 |  |
+| [You Light Up My Life](https://open.spotify.com/track/05V504yIG0sUEKvUcA89GC) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY), [Quiz & Larossi](https://open.spotify.com/artist/57yS632mgjWmcc2bZE3HRc) | [The Love Album](https://open.spotify.com/album/714ejRNfL8eCRvgIKeOMqj) | 3:27 | 2025-10-28 | 2025-11-23 |
 | [You Raise Me Up](https://open.spotify.com/track/5XQavlXrNHBBvlN4IJqhqW) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Face To Face](https://open.spotify.com/album/07sBktUc2CbnzPd8ecePWk) | 4:01 | 2025-10-28 |  |
 
 \*This playlist was first scraped on 2025-10-28. Prior content cannot be recovered.

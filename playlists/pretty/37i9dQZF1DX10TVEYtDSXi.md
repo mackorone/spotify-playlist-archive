@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10TVEYtDSXi.md) - [plain]
 
 > Öll bestu lögin í augnablikinu!
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,166 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,167 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10TVEYtDSXi.md) - [plain]
 | 4 | [Vopn](https://open.spotify.com/track/7fc5fotKDfgeD8v0NPEG3g) | [Birnir](https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z), [Aron Can](https://open.spotify.com/artist/4jfe3cL8wzjPxD9CViP2dW) | [Dyrnar](https://open.spotify.com/album/5yjVhol6NpMgJ3kVcKWaWo) | 3:20 |
 | 5 | [ÞÚ ERT HÉR](https://open.spotify.com/track/0TbjheMOqpbTXuUWcL3bBt) | [Joey Christ](https://open.spotify.com/artist/76MhNEhAVHSwifZFFr7khX) | [Joey 3](https://open.spotify.com/album/6cdZW1zQQd5jwQPAyf1tZZ) | 3:12 |
 | 6 | [Cowboy Killer](https://open.spotify.com/track/2gNZ7vl4Leb6IQ1UUHMJKb) | [BRÍET](https://open.spotify.com/artist/6opz1Ax3VqCmeQBGax1erx) | [Cowboy Killer](https://open.spotify.com/album/6278k7rRmZDDcpyd2h1phT) | 3:35 |
-| 7 | [Maðurinn](https://open.spotify.com/track/7JVWBFTXb8NJ8i5foL6E10) | [aronkristinn](https://open.spotify.com/artist/7ka0BBMmxQTQbVV92WKtM7), [Maron Birnir](https://open.spotify.com/artist/5ZND8KTohJiibAgLwfkpXK) | [Maðurinn](https://open.spotify.com/album/6dCTeUp59t3PBfO3mjdzcP) | 2:55 |
+| 7 | [Hristu rassinn á þér baby \(Maðurinn\)](https://open.spotify.com/track/7JVWBFTXb8NJ8i5foL6E10) | [aronkristinn](https://open.spotify.com/artist/7ka0BBMmxQTQbVV92WKtM7), [Maron Birnir](https://open.spotify.com/artist/5ZND8KTohJiibAgLwfkpXK) | [Hristu rassinn á þér baby \(Maðurinn\)](https://open.spotify.com/album/6dCTeUp59t3PBfO3mjdzcP) | 2:55 |
 | 8 | [Superman](https://open.spotify.com/track/3mQsB2BR4o4kASOsN3LhuX) | [Saint Pete](https://open.spotify.com/artist/5F9rWKLBMziWkO8TjeEeEd), [Nova Ísland](https://open.spotify.com/artist/6Z1OH8B7lOspT4vXy0BcY0) | [Superman](https://open.spotify.com/album/3hEYZuqFOChckFGcfRkT59) | 1:47 |
 | 9 | [Man I Need](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Man I Need](https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a) | 3:04 |
 | 10 | [Efsta hæð](https://open.spotify.com/track/12vTFmfkpkN14LxUX4c4FS) | [tatjana](https://open.spotify.com/artist/291ohykNwzL3QugnbCf4Ju), [Birnir](https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z) | [Efsta hæð](https://open.spotify.com/album/2XdtY47S7DL7fAVBQ30Hv1) | 4:06 |

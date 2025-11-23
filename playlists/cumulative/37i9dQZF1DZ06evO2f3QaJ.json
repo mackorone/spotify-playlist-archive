@@ -312,7 +312,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-20",
+      "date_removed": null,
       "duration_ms": 338773,
       "name": "DCAC - de C\u00e9sar a Cristo",
       "url": "https://open.spotify.com/track/3NErnj2YfiMqwUJz7uTcjs"
@@ -633,6 +633,24 @@
     },
     {
       "album": {
+        "name": "Zulu: Quarta Parede, Vol.3",
+        "url": "https://open.spotify.com/album/7sawPIwTZC4ObF1QopFHti"
+      },
+      "artists": [
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "date_added": "2025-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81428,
+      "name": "H.E.R. (Humano em Reabilita\u00e7\u00e3o) Interl\u00fadio",
+      "url": "https://open.spotify.com/track/7v6DjClTryH8XbIJYgYJle"
+    },
+    {
+      "album": {
         "name": "Um Mar Pra Cada Um,",
         "url": "https://open.spotify.com/album/7s4sDqfWp9bbkWgU185WVh"
       },
@@ -714,7 +732,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-23",
       "duration_ms": 348097,
       "name": "HORA DOURADA",
       "url": "https://open.spotify.com/track/7vmOfLluWbEnD9kRIxhekz"
@@ -1610,7 +1628,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-26",
+      "date_removed": null,
       "duration_ms": 272010,
       "name": "Resposta",
       "url": "https://open.spotify.com/track/2N3YBhqs58ro7hF36IP8Og"
@@ -1888,7 +1906,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-23",
       "duration_ms": 313714,
       "name": "Smooth Operator",
       "url": "https://open.spotify.com/track/0o6VOSrJEiK1KqS7FXDtcK"
@@ -2074,7 +2092,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-23",
       "duration_ms": 175438,
       "name": "Thetahealing",
       "url": "https://open.spotify.com/track/6vHISZ6OYJIGvQgRz8qeoh"

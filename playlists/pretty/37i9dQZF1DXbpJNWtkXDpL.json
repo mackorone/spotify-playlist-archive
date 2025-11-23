@@ -1,6 +1,6 @@
 {
   "description": "Descubre el futuro de las escenas en M\u00e9xico en compa\u00f1\u00eda de Malcriada",
-  "num_followers": 92251,
+  "num_followers": 92250,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -279,22 +279,6 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "CRUJIN",
-        "url": "https://open.spotify.com/album/6XP0igFc0sLtof4flw4Zr2"
-      },
-      "artists": [
-        {
-          "name": "Kiyo",
-          "url": "https://open.spotify.com/artist/5RLTBHZtMacPAgkkyH8IxM"
-        }
-      ],
-      "duration_ms": 109016,
-      "name": "TUTOGERME",
-      "url": "https://open.spotify.com/track/7DP2bmyyXWWRmvhfn3oIpe"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
         "name": "Bellako Loner Club",
         "url": "https://open.spotify.com/album/4cM9FzKuYIyD8kXakMLsbw"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 180679,
       "name": "Que pretendes",
       "url": "https://open.spotify.com/track/0FAqZhz6FO4SoNN5wSXgn1"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
+        "name": "CRUJIN",
+        "url": "https://open.spotify.com/album/6XP0igFc0sLtof4flw4Zr2"
+      },
+      "artists": [
+        {
+          "name": "Kiyo",
+          "url": "https://open.spotify.com/artist/5RLTBHZtMacPAgkkyH8IxM"
+        }
+      ],
+      "duration_ms": 109016,
+      "name": "TUTOGERME",
+      "url": "https://open.spotify.com/track/7DP2bmyyXWWRmvhfn3oIpe"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -775,22 +775,6 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "Me Levant\u00e9 de la Cama",
-        "url": "https://open.spotify.com/album/1bn2Cjy3WmM0F3d6x37Bvc"
-      },
-      "artists": [
-        {
-          "name": "Arath Herce",
-          "url": "https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs"
-        }
-      ],
-      "duration_ms": 182906,
-      "name": "Me Levant\u00e9 de la Cama",
-      "url": "https://open.spotify.com/track/4V0aNgN7GJUTE59i7MvWnj"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
         "name": "No Me Quiero Morir",
         "url": "https://open.spotify.com/album/6jIjHEbtTg8oSOxhU1HdiX"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 135433,
       "name": "No Me Quiero Morir",
       "url": "https://open.spotify.com/track/4yzqsGLNuEriKgemEeMjEu"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
+        "name": "Me Levant\u00e9 de la Cama",
+        "url": "https://open.spotify.com/album/1bn2Cjy3WmM0F3d6x37Bvc"
+      },
+      "artists": [
+        {
+          "name": "Arath Herce",
+          "url": "https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs"
+        }
+      ],
+      "duration_ms": 182906,
+      "name": "Me Levant\u00e9 de la Cama",
+      "url": "https://open.spotify.com/track/4V0aNgN7GJUTE59i7MvWnj"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "Entresue\u00f1os",
-        "url": "https://open.spotify.com/album/0Jsc0pQII2vfnBV1fWKZIz"
-      },
-      "artists": [
-        {
-          "name": "Anthr\u00e9s",
-          "url": "https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4"
-        }
-      ],
-      "duration_ms": 176950,
-      "name": "Entresue\u00f1os",
-      "url": "https://open.spotify.com/track/1hZfTTvkoxecJCqEqaoYqq"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
         "name": "Buenos Aires",
         "url": "https://open.spotify.com/album/2yVinEvqFnj39CdY8oRDl7"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 168000,
       "name": "Buenos Aires",
       "url": "https://open.spotify.com/track/0rpDCKxlhQYbUbGVPi6JZL"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
+        "name": "Entresue\u00f1os",
+        "url": "https://open.spotify.com/album/0Jsc0pQII2vfnBV1fWKZIz"
+      },
+      "artists": [
+        {
+          "name": "Anthr\u00e9s",
+          "url": "https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4"
+        }
+      ],
+      "duration_ms": 176950,
+      "name": "Entresue\u00f1os",
+      "url": "https://open.spotify.com/track/1hZfTTvkoxecJCqEqaoYqq"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "Rinconcito en el Cielo",
-        "url": "https://open.spotify.com/album/6Lg4611g3RNYjn8oe9zcsL"
-      },
-      "artists": [
-        {
-          "name": "Soyiby",
-          "url": "https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn"
-        }
-      ],
-      "duration_ms": 222855,
-      "name": "Rinconcito en el Cielo",
-      "url": "https://open.spotify.com/track/0W3gf3txFJ6i5pzAzBVHVc"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
         "name": "Viento Feroz",
         "url": "https://open.spotify.com/album/2x6dCggxmwMu1uKdwisC3X"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 196107,
       "name": "Viento Feroz",
       "url": "https://open.spotify.com/track/3fgBsRXe6SGYBoGeQMYlkr"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
+        "name": "Rinconcito en el Cielo",
+        "url": "https://open.spotify.com/album/6Lg4611g3RNYjn8oe9zcsL"
+      },
+      "artists": [
+        {
+          "name": "Soyiby",
+          "url": "https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn"
+        }
+      ],
+      "duration_ms": 222855,
+      "name": "Rinconcito en el Cielo",
+      "url": "https://open.spotify.com/track/0W3gf3txFJ6i5pzAzBVHVc"
     },
     {
       "added_at": "2025-10-03 06:00:06",

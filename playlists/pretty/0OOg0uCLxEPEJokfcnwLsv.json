@@ -1,12 +1,12 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 429,
+  "num_followers": 432,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAD7HYN1+6B7b6qCLhunU8IcSiSscIH",
+  "snapshot_id": "AAAD78VTF4XcRgqnqgeuk5smkw5LcHGh",
   "tracks": [
     {
       "added_at": "2025-11-20 17:10:09",
@@ -1283,6 +1283,54 @@
       "duration_ms": 181080,
       "name": "Sally Feels Bad",
       "url": "https://open.spotify.com/track/1TENNU3Fu2aRkdenYTS4ty"
+    },
+    {
+      "added_at": "2025-11-22 19:03:12",
+      "album": {
+        "name": "In Gloom",
+        "url": "https://open.spotify.com/album/3Fs2fNTaVEZ1YCBECXyNGr"
+      },
+      "artists": [
+        {
+          "name": "Margarida The Cat",
+          "url": "https://open.spotify.com/artist/31DECbEW8piJ1XXK1wPulZ"
+        }
+      ],
+      "duration_ms": 201410,
+      "name": "In Gloom",
+      "url": "https://open.spotify.com/track/7BIBJ6btwFZHRPAH5qdqli"
+    },
+    {
+      "added_at": "2025-11-22 19:25:28",
+      "album": {
+        "name": "El Dilema",
+        "url": "https://open.spotify.com/album/3Sr0vFiBoB70RsDi27hjen"
+      },
+      "artists": [
+        {
+          "name": "Jules Daud",
+          "url": "https://open.spotify.com/artist/1tNRwa7nMv1Mn95KSxdQKI"
+        }
+      ],
+      "duration_ms": 154180,
+      "name": "El Dilema",
+      "url": "https://open.spotify.com/track/4agirhYgist2lFc31siLMJ"
+    },
+    {
+      "added_at": "2025-11-22 19:37:14",
+      "album": {
+        "name": "juniper",
+        "url": "https://open.spotify.com/album/5e49oVu5bURuKYCej31uVw"
+      },
+      "artists": [
+        {
+          "name": "Nathan Etes",
+          "url": "https://open.spotify.com/artist/11WVY9LG4XWkOptquaXJ71"
+        }
+      ],
+      "duration_ms": 165599,
+      "name": "don't know better",
+      "url": "https://open.spotify.com/track/6OPNg2fvD1f2HIPj4Tfh7x"
     }
   ],
   "unique_name": "Unsigned Rock",

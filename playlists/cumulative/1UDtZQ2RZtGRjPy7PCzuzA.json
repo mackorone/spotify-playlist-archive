@@ -13483,6 +13483,24 @@
     },
     {
       "album": {
+        "name": "No Audience",
+        "url": "https://open.spotify.com/album/0Jv292eM7KSnohNy5Yvt7t"
+      },
+      "artists": [
+        {
+          "name": "Absolutely",
+          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+        }
+      ],
+      "date_added": "2025-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173334,
+      "name": "No Audience",
+      "url": "https://open.spotify.com/track/5YIhyQTdOcuwn0VMeVwvAp"
+    },
+    {
+      "album": {
         "name": "evermore",
         "url": "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq"
       },
@@ -17374,7 +17392,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 283666,
-      "name": "Somebody To Love",
+      "name": "Somebody To Love - Cover of Queen",
       "url": "https://open.spotify.com/track/43wOnyLJcwYfKVNxXZWPDz"
     },
     {

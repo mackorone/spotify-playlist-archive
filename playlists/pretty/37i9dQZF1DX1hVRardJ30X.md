@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Maria Becerra, Peso Pluma & Tito Double P,  Tainy & KAROL G and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 624,543 likes - 51 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 624,572 likes - 51 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 24 | [SUCIO DOM](https://open.spotify.com/track/3OnkNJm1uONbtGH59P0rKq) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [SUCIO DOM](https://open.spotify.com/album/7bVvTqkKbAuAshshY247bZ) | 3:33 |
 | 25 | [Un Dia En Mi Barrio \- Remix](https://open.spotify.com/track/1KiI7qXgmqlX0KzK4f985q) | [Tony Monta](https://open.spotify.com/artist/1WF0qzllFgT2xJlk0Nrwqo), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11), [Topboy TGR](https://open.spotify.com/artist/1HYdJRbyNCkiko7TAw9rei), [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Un Dia En Mi Barrio \(Remix\)](https://open.spotify.com/album/2wA2nVsgjQYMKWSlraEQLi) | 7:15 |
 | 26 | [SE LO VOY A METER](https://open.spotify.com/track/7pD7PMJuBbDGgYWBhJPHlD) | [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [SE LO VOY A METER](https://open.spotify.com/album/1MjeatdLJELISfKQCUrVWH) | 2:18 |
-| 27 | [FUMA](https://open.spotify.com/track/0O7RhXSVivzJIIHTs8v27u) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [FUMA](https://open.spotify.com/album/5oYE5BgIcSmEuxvkZi93VT) | 2:39 |
+| 27 | [Fuma](https://open.spotify.com/track/0O7RhXSVivzJIIHTs8v27u) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Fuma](https://open.spotify.com/album/5oYE5BgIcSmEuxvkZi93VT) | 2:39 |
 | 28 | [Guatauba Remix \(feat\. Conep\)](https://open.spotify.com/track/599bxbI5tNHVggffZO1btK) | [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Conep](https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx) | [YO SOY LA FAMA VOL.2](https://open.spotify.com/album/3oGLYz9TjxFM2DRMzoGRj7) | 4:27 |
 | 29 | [solo por hoy](https://open.spotify.com/track/5m8u5YdRWmUQDSnWqLOvWy) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [solo por hoy](https://open.spotify.com/album/2vuts65UMH6sMDCAhGa6eF) | 3:01 |
 | 30 | [iorando ;\(](https://open.spotify.com/track/77PqqNVRoQeGN8jK6P3yor) | [Soge Culebra](https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5) | [iorando ;\(](https://open.spotify.com/album/2rwuVVh1j8Ni9QFSNXnLI4) | 2:27 |

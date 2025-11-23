@@ -1,6 +1,6 @@
 {
   "description": "The best hits from the biggest shows.",
-  "num_followers": 406501,
+  "num_followers": 406539,
   "original_name": "Hits From The Musicals",
   "owner": {
     "name": "Spotify",
@@ -343,34 +343,42 @@
     {
       "added_at": "2025-08-29 10:42:43",
       "album": {
-        "name": "Hamilton (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
+        "name": "Wicked: The Soundtrack",
+        "url": "https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT"
       },
       "artists": [
         {
-          "name": "Ren\u00e9e Elise Goldsberry",
-          "url": "https://open.spotify.com/artist/5VJN4jB6PqqEg4kJiAj6Eu"
+          "name": "Wicked Movie Cast",
+          "url": "https://open.spotify.com/artist/3eLZo1bSslvsu0zNhtmMM4"
         },
         {
-          "name": "Phillipa Soo",
-          "url": "https://open.spotify.com/artist/2OEGI2wrCVmvavKEOMlccy"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         },
         {
-          "name": "Jasmine Cephas-Jones",
-          "url": "https://open.spotify.com/artist/4H3e5t5utgPvj6Nsuda5QF"
+          "name": "Andy Nyman",
+          "url": "https://open.spotify.com/artist/2y7iH38SZLD6dIERt3Y1zD"
         },
         {
-          "name": "Leslie Odom Jr.",
-          "url": "https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN"
+          "name": "Courtney-Mae Briggs",
+          "url": "https://open.spotify.com/artist/3UgqKykDMxZdp9fhBkQFVr"
         },
         {
-          "name": "Original Broadway Cast of Hamilton",
-          "url": "https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu"
+          "name": "Jeff Goldblum",
+          "url": "https://open.spotify.com/artist/0O1n2TpXR4XizmHi7aY0l8"
+        },
+        {
+          "name": "Sharon D. Clarke",
+          "url": "https://open.spotify.com/artist/0Udc6D0PcIN5F0q7pAlDH8"
+        },
+        {
+          "name": "Jenna Boyd",
+          "url": "https://open.spotify.com/artist/66HrXY5d6DerEK3QCcKO6H"
         }
       ],
-      "duration_ms": 186542,
-      "name": "The Schuyler Sisters",
-      "url": "https://open.spotify.com/track/71X7bPDljJHrmEGYCe7kQ8"
+      "duration_ms": 447991,
+      "name": "No One Mourns the Wicked",
+      "url": "https://open.spotify.com/track/0br9vcQnqeqp9PKCGsrxAF"
     },
     {
       "added_at": "2025-08-29 10:42:43",
@@ -411,6 +419,38 @@
       "duration_ms": 198160,
       "name": "Sunset Boulevard",
       "url": "https://open.spotify.com/track/4fVWMrGH0eBrfZtnbkN7RZ"
+    },
+    {
+      "added_at": "2025-08-29 10:42:43",
+      "album": {
+        "name": "Hamilton (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
+      },
+      "artists": [
+        {
+          "name": "Ren\u00e9e Elise Goldsberry",
+          "url": "https://open.spotify.com/artist/5VJN4jB6PqqEg4kJiAj6Eu"
+        },
+        {
+          "name": "Phillipa Soo",
+          "url": "https://open.spotify.com/artist/2OEGI2wrCVmvavKEOMlccy"
+        },
+        {
+          "name": "Jasmine Cephas-Jones",
+          "url": "https://open.spotify.com/artist/4H3e5t5utgPvj6Nsuda5QF"
+        },
+        {
+          "name": "Leslie Odom Jr.",
+          "url": "https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN"
+        },
+        {
+          "name": "Original Broadway Cast of Hamilton",
+          "url": "https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu"
+        }
+      ],
+      "duration_ms": 186542,
+      "name": "The Schuyler Sisters",
+      "url": "https://open.spotify.com/track/71X7bPDljJHrmEGYCe7kQ8"
     },
     {
       "added_at": "2025-08-29 10:42:43",
@@ -483,46 +523,6 @@
       "duration_ms": 333154,
       "name": "My Shot",
       "url": "https://open.spotify.com/track/4cxvludVmQxryrnx1m9FqL"
-    },
-    {
-      "added_at": "2025-08-29 10:42:43",
-      "album": {
-        "name": "Wicked: The Soundtrack",
-        "url": "https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT"
-      },
-      "artists": [
-        {
-          "name": "Wicked Movie Cast",
-          "url": "https://open.spotify.com/artist/3eLZo1bSslvsu0zNhtmMM4"
-        },
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        },
-        {
-          "name": "Andy Nyman",
-          "url": "https://open.spotify.com/artist/2y7iH38SZLD6dIERt3Y1zD"
-        },
-        {
-          "name": "Courtney-Mae Briggs",
-          "url": "https://open.spotify.com/artist/3UgqKykDMxZdp9fhBkQFVr"
-        },
-        {
-          "name": "Jeff Goldblum",
-          "url": "https://open.spotify.com/artist/0O1n2TpXR4XizmHi7aY0l8"
-        },
-        {
-          "name": "Sharon D. Clarke",
-          "url": "https://open.spotify.com/artist/0Udc6D0PcIN5F0q7pAlDH8"
-        },
-        {
-          "name": "Jenna Boyd",
-          "url": "https://open.spotify.com/artist/66HrXY5d6DerEK3QCcKO6H"
-        }
-      ],
-      "duration_ms": 447991,
-      "name": "No One Mourns the Wicked",
-      "url": "https://open.spotify.com/track/0br9vcQnqeqp9PKCGsrxAF"
     },
     {
       "added_at": "2025-08-29 10:42:43",

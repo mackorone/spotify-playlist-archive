@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 
 > De la musique québécoise pour tous les goûts\. Photo: Marie Céleste
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,171 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,169 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 | 7 | [Les oiseaux](https://open.spotify.com/track/4meeC3HOeSgQenFRtxpLrP) | [Fleur de Peau](https://open.spotify.com/artist/6EoKem2HNXbpL23782Daoi) | [Les oiseaux](https://open.spotify.com/album/6mwxPyeT0gkLxj1MGwWDyu) | 4:04 |
 | 8 | [Devant la rivière](https://open.spotify.com/track/1DDgnMswfCNLVXGTexDgcK) | [Marc Dupré](https://open.spotify.com/artist/6JhWoD4lxBqIkSYfhrWMDx) | [Parce que ce soir](https://open.spotify.com/album/3HS1ynrc1o4iD1b9gpcLZx) | 3:30 |
 | 9 | [Fin](https://open.spotify.com/track/4WoHFukh4AhfGYWUlWp7Cq) | [Thomas Gauthier](https://open.spotify.com/artist/1o1lGge9gBLbaWPQ6QncqQ) | [Fin](https://open.spotify.com/album/6mNKm0vG8RSv8RUgeEGVGo) | 1:44 |
-| 10 | [le monde est une femme](https://open.spotify.com/track/6aXtLxcclrmVQwGW58RfK2) | [Mélodie\-Jade](https://open.spotify.com/artist/1TdEVPQUOtvEypnIOeSjDK) | [le monde est une femme](https://open.spotify.com/album/5OQy1FSMBACFkzNns4eDAc) | 3:40 |
+| 10 | [le monde est une femme](https://open.spotify.com/track/6aXtLxcclrmVQwGW58RfK2) | [Mélodie\-Jade](https://open.spotify.com/artist/1TdEVPQUOtvEypnIOeSjDK) | [le monde est une femme](https://open.spotify.com/album/5OQy1FSMBACFkzNns4eDAc) | 3:19 |
 | 11 | [Reflets](https://open.spotify.com/track/09D9HBU9x7hLNZUmgcJLCZ) | [dear•dree](https://open.spotify.com/artist/1HAU4BADFzqOCZr6dvV1DD) | [Reflets](https://open.spotify.com/album/7d1M8gX8nrbzju67TheCSs) | 3:26 |
 | 12 | [Les marées](https://open.spotify.com/track/0qqSadjTXmWlIPINefIjTf) | [Tristan Guay](https://open.spotify.com/artist/0Bi9l2FyMlGmNQ4xKUcJYU) | [Les marées](https://open.spotify.com/album/0NEWJ7M79fadRXP68JMK4R) | 3:09 |
 | 13 | [That I could](https://open.spotify.com/track/1p2XBDrwARmuqxcaQ72oNY) | [Alex Mick](https://open.spotify.com/artist/0WoFoQAvv1ul6lQKQaGu0b) | [That I could](https://open.spotify.com/album/2IawJiYvNLNryXklqU7HhU) | 3:39 |

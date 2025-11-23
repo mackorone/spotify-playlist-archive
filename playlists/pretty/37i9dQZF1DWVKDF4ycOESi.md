@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Rose Villain, Jovanotti, Lucio Corsi, Noemi, Emma Nolde e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,686 likes - 95 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,717 likes - 95 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 34 | [Onda](https://open.spotify.com/track/4NQCi2TcGOd2WX289S4oGH) | [Arya](https://open.spotify.com/artist/1Rr944KwI8GqDCdzdsHYok), [Lauryyn](https://open.spotify.com/artist/5TkF5Y1V2uSipijbarlcx4) | [Onda](https://open.spotify.com/album/09sGggY6pHvU9OGjrOj0jr) | 3:07 |
 | 35 | [Con gli occhi di una lepre](https://open.spotify.com/track/5Tmb54XwBBXSpPpj7YzOTy) | [Santamarea](https://open.spotify.com/artist/016AD2neE2X7e0ChuREr4o) | [Con gli occhi di una lepre](https://open.spotify.com/album/1BnlP0cmJrhp2H9RM7TQs4) | 3:29 |
 | 36 | [Do It](https://open.spotify.com/track/56Fu41EhpsPqqfDZsj3eaN) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [DO IT](https://open.spotify.com/album/1Cw6UG5nVm6967rVKe0ciw) | 2:39 |
-| 37 | [FUMA](https://open.spotify.com/track/0O7RhXSVivzJIIHTs8v27u) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [FUMA](https://open.spotify.com/album/5oYE5BgIcSmEuxvkZi93VT) | 2:39 |
+| 37 | [Fuma](https://open.spotify.com/track/0O7RhXSVivzJIIHTs8v27u) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Fuma](https://open.spotify.com/album/5oYE5BgIcSmEuxvkZi93VT) | 2:39 |
 | 38 | [Wild Woman](https://open.spotify.com/track/1XcZZwyoLwwF3dISFQe0h6) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [One More Time](https://open.spotify.com/album/2R33Pd9eM5qDQTHO66LGJS) | 3:35 |
 | 39 | [Say My Name In Your Sleep](https://open.spotify.com/track/12zzqWVkgNwlMf8BJ577I7) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Say My Name In Your Sleep](https://open.spotify.com/album/4hClukIu7dTzWcMTYT0Aoz) | 3:12 |
 | 40 | [Perdersi](https://open.spotify.com/track/3TLZe4PbXoTISRZpgWEpMX) | [Davìdd](https://open.spotify.com/artist/7JE6E2Z7l9DouV5CRmNfuu), [Carla Hero](https://open.spotify.com/artist/75zVVFZrepdsKuXaKDvJWu) | [Perdersi](https://open.spotify.com/album/7LXaxcuY0jHmP4Ii8hj8E5) | 2:07 |

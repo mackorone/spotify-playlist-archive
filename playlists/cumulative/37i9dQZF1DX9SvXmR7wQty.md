@@ -4,7 +4,7 @@
 
 > Du neuf, du bon, du franco! Photo: Pierre Lapointe
 
-3,726 songs - 8 day 4 hr 52 min
+3,726 songs - 8 day 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1875,7 +1875,7 @@
 | [Le matin](https://open.spotify.com/track/5EOzaKdYpIBMOQS16iben7) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Le matin](https://open.spotify.com/album/1KBxSKZYkIDt7eIyXpLpHM) | 2:48 | 2022-08-26 | 2022-09-10 |
 | [Le matou](https://open.spotify.com/track/3ShEz4VeJRVL7O4teFrWTY) | [Seba](https://open.spotify.com/artist/37ZFg4DgqTBH9zwHnsMEnX) | [Au\-delà du reel](https://open.spotify.com/album/5MOQLi2k1h8nvyKWkyWHsd) | 3:14 | 2022-05-20 | 2022-05-28 |
 | [Le monde est fou](https://open.spotify.com/track/6vOi7yWHX7Qy9Eunm8ATOa) | [Alfa Rococo](https://open.spotify.com/artist/6nG2T7gGBQilOJXPWw0F0n) | [Le monde est fou](https://open.spotify.com/album/5zw2EYeEDWW53kmmksiAM6) | 4:04 | 2024-05-17 | 2024-05-25 |
-| [le monde est une femme](https://open.spotify.com/track/6aXtLxcclrmVQwGW58RfK2) | [Mélodie\-Jade](https://open.spotify.com/artist/1TdEVPQUOtvEypnIOeSjDK) | [le monde est une femme](https://open.spotify.com/album/5OQy1FSMBACFkzNns4eDAc) | 3:40 | 2025-11-21 |  |
+| [le monde est une femme](https://open.spotify.com/track/6aXtLxcclrmVQwGW58RfK2) | [Mélodie\-Jade](https://open.spotify.com/artist/1TdEVPQUOtvEypnIOeSjDK) | [le monde est une femme](https://open.spotify.com/album/5OQy1FSMBACFkzNns4eDAc) | 3:19 | 2025-11-21 |  |
 | [Le monde est à moi](https://open.spotify.com/track/76dG4q94acHLSPcV1Vtv6j) | [Jérôme Couture](https://open.spotify.com/artist/0cvBh0HtLTct4g8a7tZpZi) | [Le monde est à moi](https://open.spotify.com/album/6yRc6dlhGbezoHvfwLuTiM) | 2:29 | 2022-04-22 | 2022-05-07 |
 | [Le monde est à nous](https://open.spotify.com/track/098eCLxpQAYI9GxNIxtal8) | [Gips](https://open.spotify.com/artist/59PFMyNd41PhFTlrSQjyZ1), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [Le monde est à nous](https://open.spotify.com/album/2NYuq9UXcDwjciRE1pwidb) | 3:41 | 2021-12-31 | 2022-01-22 |
 | [Le monstre](https://open.spotify.com/track/251xxLhCb2yW304bKqbs7C) | [Philémon Cimon](https://open.spotify.com/artist/7g1WpSVdiG70dbp3nuGU4h) | [Le monstre](https://open.spotify.com/album/7D2IvKdosHxQvomMusOvAx) | 2:43 | 2025-07-25 | 2025-08-02 |

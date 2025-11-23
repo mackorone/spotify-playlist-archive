@@ -4,7 +4,7 @@
 
 > Le R&B français, nouvelle ère\. Photo : Low Jay
 
-592 songs - 1 day 3 hr 54 min
+592 songs - 1 day 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -492,6 +492,7 @@
 | [Seum](https://open.spotify.com/track/63MwBA5lHo2jheJ8VBdQyf) | [KIM KAYLICE](https://open.spotify.com/artist/0K0H4XwhlINA9Ewx8xt34n) | [Seum](https://open.spotify.com/album/6CreQeXDzJM8RAVbw9R1BR) | 2:27 | 2025-08-21 | 2025-09-05 |
 | [Seum](https://open.spotify.com/track/0MeCUpsImEB7mLBL8hk0eX) | [Mibsy](https://open.spotify.com/artist/4m3boOebrQnZ6ITM0B7vbB) | [Seum](https://open.spotify.com/album/2orVxRM5tcGJq1SrcAcM6c) | 2:37 | 2023-03-23 | 2023-04-07 |
 | [Sexy Chuchu](https://open.spotify.com/track/1kEAnO1Mqg1uw8XajyMAO8) | [$hiro](https://open.spotify.com/artist/5ccC62eZo8vv2qTOTndIkn) | [Sexy Chuchu](https://open.spotify.com/album/6E0qbXofLb9FPZB8h4LxZx) | 2:15 | 2023-04-13 | 2023-05-12 |
+| [Sexy Drill](https://open.spotify.com/track/1YWlYc2DJhavTmor6jFQgg) | [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq) | [RÉSONANCE](https://open.spotify.com/album/3oTWVmJQnrNaRlyqiyarha) | 2:20 | 2025-11-20 |  |
 | [SHAKE](https://open.spotify.com/track/5i0rsI0ih8V4pgY6J3MsHT) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [SHAKE](https://open.spotify.com/album/7j1MZzsUfCGSXItWOy8X1x) | 2:51 | 2024-08-01 | 2024-09-27 |
 | [Shake](https://open.spotify.com/track/6D1SBrgvBx6fy25syegHtf) | [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM) | [Shake](https://open.spotify.com/album/2jwhlGrdKvvcBKx1JYqGiX) | 2:43 | 2024-06-06 | 2025-02-14 |
 | [Shatta](https://open.spotify.com/track/0d8ub8EIWkadmVWUP21a4K) | [Neyda](https://open.spotify.com/artist/1YNtvynvmeKZHpO2WHGLu3) | [Mes anges](https://open.spotify.com/album/5vh2oneihmAs3zaE2P9BqN) | 2:38 | 2025-08-14 | 2025-09-12 |
@@ -562,7 +563,6 @@
 | [Tout le quartier](https://open.spotify.com/track/4fv67Ng1bfkj6sLApDlJPE) | [Bianca Costa](https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT) | [Tout le quartier](https://open.spotify.com/album/0y8AdrTcHobPMbsTwswwAm) | 3:06 | 2025-01-16 | 2025-02-21 |
 | [Toxic](https://open.spotify.com/track/69YKkqBo1RGZzW6z3cBfiQ) | [Djeneva](https://open.spotify.com/artist/74Bk9HuRAbkzv775XaTS2E) | [Djene's Room](https://open.spotify.com/album/2Cw6MkVoG0jxOfywMc9zyE) | 2:48 | 2024-12-05 | 2025-01-17 |
 | [TPMP](https://open.spotify.com/track/5c99frMDxk1WXXhyd9jdHb) | [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [TPMP](https://open.spotify.com/album/4Z2k0UlODEiPW49gbqL7AT) | 2:42 | 2024-01-11 | 2024-05-17 |
-| [Track 12](https://open.spotify.com/track/1YWlYc2DJhavTmor6jFQgg) | [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-20 |  |
 | [Trahison](https://open.spotify.com/track/4KlcmzQslGv5RDpGLEykG9) | [Maïssa](https://open.spotify.com/artist/2E1HBeu5oSprLnGtpuEv1Y) | [Pièce Maîtresse](https://open.spotify.com/album/3ZAiBEiCKVYwdeiWHEYIU3) | 2:56 | 2023-10-26 | 2023-12-08 |
 | [TRASH](https://open.spotify.com/track/1hxmWeKn0vU5Re70KXEUhy) | [Sassy](https://open.spotify.com/artist/7xctvxd7HiY2nLko37YEx2), [Mkz03](https://open.spotify.com/artist/74v95iW9MSTppigeI0g5Fi) | [TRASH](https://open.spotify.com/album/4ZDOGNZRO5uWmSXiFLwTn8) | 3:30 | 2023-12-21 | 2024-03-01 |
 | [Trop tard](https://open.spotify.com/track/01OI74TG0wEOVmdYrrnNfW) | [Maïssa](https://open.spotify.com/artist/2E1HBeu5oSprLnGtpuEv1Y) | [Trop tard](https://open.spotify.com/album/2kuJP4EdXHAB8avJAQFkVH) | 3:48 | 2022-11-24 | 2023-02-03 |

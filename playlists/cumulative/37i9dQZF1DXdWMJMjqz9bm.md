@@ -4,7 +4,7 @@
 
 > A little bit of pop, a little bit of rap, a little bit of country? Cover: bbno
 
-798 songs - 1 day 12 hr 32 min
+800 songs - 1 day 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [bootleg jordans](https://open.spotify.com/track/6zTAR03lZyin6kUopphnX6) | [Saint Lane](https://open.spotify.com/artist/4M0vvoQACWxLNrLVrx3MWX), [Lily Papas](https://open.spotify.com/artist/2LDsVxtrG9fVXTNaL9oJNi) | [bootleg jordans](https://open.spotify.com/album/7fa2Uqk9DzkZySS50VBxmS) | 3:09 | 2022-03-18 | 2022-07-07 |
 | [Borderline](https://open.spotify.com/track/1vChmHCFFxH54eE2kBhSpr) | [callmestevieray](https://open.spotify.com/artist/2rwCl3cifvJKvL61qdXjML) | [Borderline](https://open.spotify.com/album/1P5A4QHAN8V3jdxkD7PKuz) | 2:33 | 2024-01-22 | 2024-06-01 |
 | [BOTH SIDES](https://open.spotify.com/track/1nW48slY18GMDKsZeS1tqE) | [Suaz](https://open.spotify.com/artist/51LP5ppbOHBGUZJbba3w8J) | [BOTH SIDES](https://open.spotify.com/album/6mJfGd5umocmLBNKK6qjnz) | 1:46 | 2023-12-01 | 2024-06-01 |
+| [BOTHER ME \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/4ZAdgjD0HL9F6NkTqcqhlX) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WORLDS APART\*](https://open.spotify.com/album/37kTdbXevOm7O3D5MOBofw) | 2:26 | 2025-11-22 |  |
 | [Bottles N' Coliseums](https://open.spotify.com/track/6hka6lkWeJAoPIO03c7W6f) | [Shumaq](https://open.spotify.com/artist/6s2kMNqPUgJBgFvufMHAao) | [Bottles N' Coliseums](https://open.spotify.com/album/2F7O485NubU2UBAZwX4R3w) | 2:00 | 2023-06-16 | 2024-06-01 |
 | [Break](https://open.spotify.com/track/0Qih8wH7Smf780cwH2Pqxk) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [Break](https://open.spotify.com/album/2P40voWuU97H7NJGckbEOF) | 2:45 | 2021-11-16 | 2022-02-19 |
 | [Break from Toronto](https://open.spotify.com/track/79MSEdtXuudhGhC5AtG07g) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR](https://open.spotify.com/album/4EZoN6mRXNcGxHXZC2doJH) | 1:39 | 2022-04-04 | 2022-05-20 |
@@ -494,7 +495,7 @@
 | [No Bad Side](https://open.spotify.com/track/2yxqNH9oUUzBl2eNbvrRHe) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [No Bad Side](https://open.spotify.com/album/0oKjr7qLCpEtPRtsJ6wZgr) | 2:25 | 2023-11-10 | 2024-06-01 |
 | [No Drama](https://open.spotify.com/track/1YmyHCxLKjLBBNQU51yQOh) | [Bankrol Hayden](https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN) | [No Drama](https://open.spotify.com/album/6ViANKeydeABO0cqB0SB3Z) | 3:16 | 2021-12-16 | 2022-02-26 |
 | [no hugs](https://open.spotify.com/track/1Bizz9KcUIJsHCRMgUwdFs) | [Tawnted](https://open.spotify.com/artist/7zh1uCj4XNxdWhuRVdc1tR) | [no hugs](https://open.spotify.com/album/6RbHxB6APhCRD5gAqbo1MM) | 3:11 | 2023-05-26 | 2024-06-01 |
-| [NO L's](https://open.spotify.com/track/17bCx9UXmnmts0ly7dO1y7) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [NO L's](https://open.spotify.com/album/56Vm1PikcYB6eZwgdDq6Ty) | 2:27 | 2025-04-29 |  |
+| [NO L's](https://open.spotify.com/track/17bCx9UXmnmts0ly7dO1y7) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [NO L's](https://open.spotify.com/album/56Vm1PikcYB6eZwgdDq6Ty) | 2:27 | 2025-04-29 | 2025-11-23 |
 | [No Longer Lovers](https://open.spotify.com/track/6DykI3K2Ib9BC1E9JgaSoE) | [Coobie](https://open.spotify.com/artist/2AeSbZ0zUL5615vJFXtHsH) | [No Longer Lovers](https://open.spotify.com/album/3Ygl1aeSmUHSDaxH8KLYLK) | 2:19 | 2022-12-02 | 2022-12-21 |
 | [No More](https://open.spotify.com/track/2t0y99SWyC7f2ZQZC4LbGw) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [SANTIAGO](https://open.spotify.com/album/3mX0HbDt7oIzBBJHgQYnDY) | 3:10 | 2023-08-18 | 2024-06-01 |
 | [No Problem](https://open.spotify.com/track/4x4APDqOrIjskTIJCd1pgp) | [Skizzy Mars](https://open.spotify.com/artist/00Z3UDoAQwzvGu13HoAM7J), [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [No Problem](https://open.spotify.com/album/4Ozr50NBP57HTmb8IV5oL9) | 3:31 | 2022-08-05 | 2022-09-17 |
@@ -666,6 +667,7 @@
 | [stupid i miss u](https://open.spotify.com/track/6rhdKbAlGnmRVfdGnvIyb8) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [stupid i miss u](https://open.spotify.com/album/0DGQGsxX73rGXQtpq52PuA) | 2:20 | 2022-09-30 | 2023-08-15 |
 | [Suffocating](https://open.spotify.com/track/0JG57CeSeSwDvfD4VFL9gy) | [Kyle Hume](https://open.spotify.com/artist/0p3tzEAt0XWrBqbrwBoN1I) | [Suffocating](https://open.spotify.com/album/53zwCVvuQbr4kyuktPZpBh) | 2:49 | 2024-05-31 | 2025-04-30 |
 | [Sugar On My Tongue](https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 2:33 | 2025-08-26 |  |
+| [Summer](https://open.spotify.com/track/0IhcVVlmZCPOkSSozJ2smN) | [Beno](https://open.spotify.com/artist/4QvaAOT2v2zaPO9ipMMgOz) | [Summer](https://open.spotify.com/album/3WBvHRbPcanFjK0at0np3m) | 2:48 | 2025-11-22 |  |
 | [SUMMER VIBES](https://open.spotify.com/track/6wwz6BVFrr31EHXoBpA7NC) | [Tyla Yaweh](https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr) | [SUMMER VIBES](https://open.spotify.com/album/437rnm8NI94QYbp38sMYR2) | 2:26 | 2023-07-07 | 2024-06-01 |
 | [summer&cigarettes](https://open.spotify.com/track/5PmtPTXrLqgqQfqngsUqZp) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [summer&cigarettes](https://open.spotify.com/album/4vCGpIf0GvirxT9kdtmaH6) | 1:54 | 2022-04-04 | 2022-10-08 |
 | [Summertime 1, 2](https://open.spotify.com/track/61Oj3QP3xwxd1zs4EiHTAV) | [Brasstracks](https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr), [Yung Pinch](https://open.spotify.com/artist/61qMnYXa1GxSBoV3IiYKjZ), [Rothstein](https://open.spotify.com/artist/0Qta34kIeeonfyC692s5b8) | [Welcome Back Era](https://open.spotify.com/album/41zEHhnIYYgnQdW9Si2YVf) | 3:10 | 2021-12-16 | 2022-02-26 |
@@ -751,7 +753,7 @@
 | [Voices \(feat\. Oliver Tree\)](https://open.spotify.com/track/2LWJ0zNei0z2WjHHwSNUkx) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Voices \(feat\. Oliver Tree\)](https://open.spotify.com/album/3oFZmnzIemQRpB0JOLzXRe) | 3:08 | 2023-01-27 | 2024-06-01 |
 | [Vroom](https://open.spotify.com/track/4moXJ0WFWXTDg4EcmIUttM) | [Hoodie Allen](https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl), [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L) | [Vroom](https://open.spotify.com/album/4WbqzxKS4rlALgUOMrKJtL) | 2:17 | 2023-05-05 | 2023-07-15 |
 | [W \(with yvngxchris\)](https://open.spotify.com/track/4pFkivUXTiGcEQS4dfcVc6) | [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g), [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr) | [W \(with yvngxchris\)](https://open.spotify.com/album/6wWt12ueB7BwQJS0OcuoHZ) | 2:31 | 2022-03-25 | 2022-04-29 |
-| [Wake Up](https://open.spotify.com/track/77orAq0Mh8LEptPvoW6EPX) | [Beno](https://open.spotify.com/artist/4QvaAOT2v2zaPO9ipMMgOz) | [Wake Up](https://open.spotify.com/album/5cmGUiNHDGVukn8EdnEhl0) | 2:43 | 2025-11-17 |  |
+| [Wake Up](https://open.spotify.com/track/77orAq0Mh8LEptPvoW6EPX) | [Beno](https://open.spotify.com/artist/4QvaAOT2v2zaPO9ipMMgOz) | [Wake Up](https://open.spotify.com/album/5cmGUiNHDGVukn8EdnEhl0) | 2:43 | 2025-11-17 | 2025-11-23 |
 | [Walk Around](https://open.spotify.com/track/6WFW82dzsdevDzS2zAle04) | [Double A\-Ron](https://open.spotify.com/artist/4F2fO13keDtQ3zYtKpxlua), [Jdillon](https://open.spotify.com/artist/5eNYvtpRb5v6pA7cAj6EeT) | [Walk Around](https://open.spotify.com/album/6UUugVOt7WnPXz3Oy1357L) | 2:12 | 2022-06-17 | 2022-08-06 |
 | [Walking Blind](https://open.spotify.com/track/23nlm5usJNho2OdoHAW8Ts) | [Allen Haley](https://open.spotify.com/artist/0A23HecVtZf5hwBgVi0uYb) | [Walking Blind](https://open.spotify.com/album/5jTzBuT2h835bSd3JGP8OU) | 2:18 | 2023-05-26 | 2024-03-16 |
 | [wanna know](https://open.spotify.com/track/2ndm1VnWUzQfz5boYElZq8) | [Current Blue](https://open.spotify.com/artist/6wW4D3fGgRABc3cAotb0RS), [JD Moon](https://open.spotify.com/artist/3aFZe6Sx7dHhVkeKO2H7e9) | [wanna know](https://open.spotify.com/album/6UWlNXrYXJzvrTwFyB2BzB) | 2:11 | 2023-04-04 | 2023-06-10 |

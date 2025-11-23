@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: Sara Landry
 
-322 songs - 22 hr 31 min
+323 songs - 22 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Bumpin'](https://open.spotify.com/track/6xTksdQ0Fi0iF1qpURXI5E) | [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd), [Gelida](https://open.spotify.com/artist/3zlRoYmaLR1ogMVyJxfjag) | [Bumpin](https://open.spotify.com/album/43Bw4HDVogVZKCmfNbbtS4) | 2:47 | 2025-06-20 | 2025-07-23 |
 | [Bunker Buster](https://open.spotify.com/track/4lJBjtEABOhrdv7NzBD0KW) | [Luciid](https://open.spotify.com/artist/3YMs2NjzmU8oc5muj4LxgL) | [Bunker Buster](https://open.spotify.com/album/6Oqnh7JGRs89dUzdPBE1nY) | 5:43 | 2024-04-09 | 2025-10-25 |
 | [Burn](https://open.spotify.com/track/0WSDlDRc8Yex9b2UyTOciK) | [Somewhen](https://open.spotify.com/artist/0k47nZgznsmnNkSIJvjbVy) | [R005](https://open.spotify.com/album/7AeBk55EN88Zujns38BDTO) | 4:42 | 2024-04-09 | 2024-07-25 |
-| [Burning Inside](https://open.spotify.com/track/449kNr07oY9jZWkRwlZl5Z) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [Burning Inside](https://open.spotify.com/album/5VMcsCWlKoqmhO9t9ZD8H3) | 3:38 | 2025-08-22 |  |
+| [Burning Inside](https://open.spotify.com/track/449kNr07oY9jZWkRwlZl5Z) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [Burning Inside](https://open.spotify.com/album/5VMcsCWlKoqmhO9t9ZD8H3) | 3:38 | 2025-08-22 | 2025-11-23 |
 | [Bye Bye](https://open.spotify.com/track/6OeE8CehRJaqiD8soZpAgq) | [Luciid](https://open.spotify.com/artist/3YMs2NjzmU8oc5muj4LxgL) | [Bye Bye](https://open.spotify.com/album/749Q9MDcHCeK6TwYVVYvn1) | 4:54 | 2025-04-25 |  |
 | [BYEBYE](https://open.spotify.com/track/4pm6fdwvqoUixkk6U0GoLg) | [Franky\-B](https://open.spotify.com/artist/24C1Z9RP71CzGmU1Dx3oTV) | [Verknipt ArenA](https://open.spotify.com/album/64hwlvWn7tYCQiMJEZaqap) | 5:00 | 2024-07-18 | 2024-07-22 |
 | [Call You](https://open.spotify.com/track/49LfEfjcR0iLKNIEaWvBAe) | [Samuel Moriero](https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI) | [Call You](https://open.spotify.com/album/6rLQJEfNQDStkDBgfUldrZ) | 3:27 | 2025-07-22 | 2025-07-25 |
@@ -87,6 +87,7 @@
 | [DGAF](https://open.spotify.com/track/4KsCP6skdbY9xsYSYlxbU9) | [KAS:ST](https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN) | [DGAF](https://open.spotify.com/album/5HJ5DF8HirntW6MVfzNJOI) | 3:42 | 2024-09-20 | 2024-11-14 |
 | [Die Tonight](https://open.spotify.com/track/4y4NBmnV3QWygYpjLNDWOw) | [KUKO](https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU) | [Die Tonight](https://open.spotify.com/album/3dhdbBuZZrSShe1noV5TQF) | 3:47 | 2025-05-30 |  |
 | [Die Welt Brennt](https://open.spotify.com/track/7oAM2GxHCTKTLU3gXvkuuj) | [Klangkuenstler](https://open.spotify.com/artist/6H77vD9YyhyxHBTkRpbMBk), [Obernauer](https://open.spotify.com/artist/1PDMLYsqcKoGCBaWMTwcpi) | [Die Welt Brennt](https://open.spotify.com/album/44WQTL892sCs09rNu3hSLJ) | 5:10 | 2024-08-05 | 2025-07-25 |
+| [Dirty Numb](https://open.spotify.com/track/4Q4pCuip4asTc7tQ4zsfl1) | [Zatox](https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO) | [Dirty Numb](https://open.spotify.com/album/5BVqjZqKgTptwBTc40foJl) | 2:34 | 2025-11-21 |  |
 | [Disfigure](https://open.spotify.com/track/1rbHfStcFOWagdugYdiK5T) | [XRTN](https://open.spotify.com/artist/5oXWx1ZjiyWTt4fhjUQgKR), [GWELD](https://open.spotify.com/artist/4RFa0ShXF9VKaaKDyT2NlC) | [Disfigure](https://open.spotify.com/album/40N5Ez27dWfybAHuOLcue8) | 5:26 | 2024-04-09 | 2024-09-23 |
 | [Do My Thing](https://open.spotify.com/track/3834nOMPPsVt0EuCuRsvSf) | [Deepack](https://open.spotify.com/artist/5hnFqGY2kc233cXstqrGev) | [Do My Thing](https://open.spotify.com/album/2eGAHFGF6NUfeQblm1Txac) | 3:30 | 2024-07-14 | 2024-07-22 |
 | [Do You Like It Fast?](https://open.spotify.com/track/7omTB2Z2lyHny4vQNFaUp7) | [Doruksen](https://open.spotify.com/artist/4QualaVaoF8vYnpJ5o8Pw6) | [Do You Like It Fast? EP](https://open.spotify.com/album/1i403h35Basm5D2bNKjdBO) | 5:07 | 2024-04-19 | 2025-10-25 |

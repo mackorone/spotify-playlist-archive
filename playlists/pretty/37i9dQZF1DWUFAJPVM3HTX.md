@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/3sAk2ECmW1UmPMf6Q94Llu?si=LQDGs5eGRSGQUoj5UYHIJg">Kenji</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,928 likes - 396 songs - 19 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,952 likes - 396 songs - 19 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -405,4 +405,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 395 | [Red Flags](https://open.spotify.com/track/6vHgzhg4MQF98o0bt1KyIX) | [Peyton](https://open.spotify.com/artist/0uIVCKSl2eNhWQ1yXxO5xV) | [Red Flags](https://open.spotify.com/album/7mzBtltC8bEqbNiSaCH09D) | 3:32 |
 | 396 | [Take It Slow](https://open.spotify.com/track/1E0C0qP1ZgIxboC6KnRShJ) | [Sofia Ly](https://open.spotify.com/artist/7iET9fffY6L2FC9vojK9a4) | [Are You Bored Yet?](https://open.spotify.com/album/5cQnXNogeOsQhyYMesRS4O) | 3:00 |
 
-Snapshot ID: `AAAAAG2PczVG5Ox57LYGj4uGoe8VLDV6`
+Snapshot ID: `AAAAALYJPWeYZTCqno/o+vbR2R3pRtMw`

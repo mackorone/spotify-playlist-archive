@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7z7RLIui5KP.md) - [plain]
 
 > Live and Die in Afrika \- A decade on, Sauti Sol’s timeless sound still echoes with pride, love, and African rhythm.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,661 likes - 49 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,677 likes - 49 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

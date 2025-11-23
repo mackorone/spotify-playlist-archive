@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 
 > From the continent to the islands with Aya Nakamura\. 🇲🇱
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,310 likes - 70 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,358 likes - 70 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 | 15 | [Feeling](https://open.spotify.com/track/67NgkbA1CGUS29Atysvlfd) | [Ireland Boss](https://open.spotify.com/artist/3JoZVMSSVzYhhMQ5dthRuT) | [Feeling](https://open.spotify.com/album/2gGzCjQiGO3JrY7QYcFJLa) | 3:09 |
 | 16 | [FIYAH](https://open.spotify.com/track/4d0FZdFVwNRD3CUnmx6IOU) | [Sofia Ly](https://open.spotify.com/artist/7iET9fffY6L2FC9vojK9a4), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [FIYAH](https://open.spotify.com/album/0lO1nUrmubWjPzoQLtA3FO) | 2:36 |
 | 17 | [Goodboy \(Kweku\)](https://open.spotify.com/track/3g3nt6cCAUIgJ3pRl0pRb5) | [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW), [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Chopstix](https://open.spotify.com/artist/167yXtyZFzoIEl4650nGkt) | [Goodboy \(Kweku\)](https://open.spotify.com/album/7xU0cELrg6Fd24DAviWORg) | 3:34 |
-| 18 | [Jungle](https://open.spotify.com/track/4sDJ96gu68rfMzlDNLh5M5) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP) | [Jungle](https://open.spotify.com/album/5aVMinMjVyCFBRAAIlfXNS) | 2:23 |
+| 18 | [Jungle](https://open.spotify.com/track/4sDJ96gu68rfMzlDNLh5M5) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP) | [Jungle](https://open.spotify.com/album/5aVMinMjVyCFBRAAIlfXNS) | 2:35 |
 | 19 | [Ordinary Things](https://open.spotify.com/track/6k0SRtfpOvDqjplj5YF8XO) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Very Stubborn](https://open.spotify.com/album/4qvBmFi6a3W6Fz5Wvzj6X6) | 3:04 |
 | 20 | [Body Go \(with Tyla\)](https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Body Go \(with Tyla\)](https://open.spotify.com/album/1U8dEy3fn8V9veOSZ9onfM) | 2:45 |
 | 21 | [DLALA GOGO](https://open.spotify.com/track/0knb40OfOxkss4N7sIxYcc) | [DBN Gogo](https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l), [Scotts Maphuma](https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS), [Tycoon](https://open.spotify.com/artist/2J9OgoroujUr9FiiT40sqc), [CowBoii](https://open.spotify.com/artist/5n0o0t9wgg6uzHqfVd2Yr1) | [THE GODMOTHER](https://open.spotify.com/album/68DWHw1M7ZWxL5TEOwHoku) | 6:56 |

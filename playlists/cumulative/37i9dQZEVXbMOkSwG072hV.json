@@ -29750,7 +29750,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-12",
+      "date_removed": null,
       "duration_ms": 82971,
       "name": "Foguinho",
       "url": "https://open.spotify.com/track/0W6aXi2B0UlwY0sPckvrmT"
@@ -55704,7 +55704,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-23",
       "duration_ms": 114566,
       "name": "Onde Anda Meu Amor",
       "url": "https://open.spotify.com/track/5ddXlDwQx3IkjzTn8nnZgt"
@@ -74358,7 +74358,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-22",
+      "date_removed": null,
       "duration_ms": 186352,
       "name": "Te Amo, Te Odeio",
       "url": "https://open.spotify.com/track/2YHn7o5nEpXMdy4xvFIuJs"
@@ -79131,6 +79131,36 @@
     },
     {
       "album": {
+        "name": "T\u00e1 Duvidando Mulher, N\u00f3s Vareta Vareta",
+        "url": "https://open.spotify.com/album/2i5ssXhyUeFC5h8sT1bKUv"
+      },
+      "artists": [
+        {
+          "name": "DJ 7W",
+          "url": "https://open.spotify.com/artist/0QZT2LgE3GBsRU9VTysH30"
+        },
+        {
+          "name": "DJ LEILTON 011",
+          "url": "https://open.spotify.com/artist/0xVU5miS2fP17pp1BaE0N5"
+        },
+        {
+          "name": "Santos MC",
+          "url": "https://open.spotify.com/artist/7IcBaM0wlHcKHzGMbSkbqe"
+        },
+        {
+          "name": "Mc Vitinho",
+          "url": "https://open.spotify.com/artist/6jmORJlMrrzBMggcV7ROKA"
+        }
+      ],
+      "date_added": "2025-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126312,
+      "name": "T\u00e1 Duvidando Mulher, N\u00f3s Vareta Vareta",
+      "url": "https://open.spotify.com/track/3WSkOgnOcDcZJIROnkCNgW"
+    },
+    {
+      "album": {
         "name": "T\u00e1 na Hora do Jair J\u00e1 Ir Embora",
         "url": "https://open.spotify.com/album/2iMogSRFO3aYVPaubhxlsT"
       },
@@ -81304,7 +81334,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-23",
       "duration_ms": 437313,
       "name": "VELUDO MARROM",
       "url": "https://open.spotify.com/track/7i0yGIZxaP1GuHvVMpkLoB"
@@ -83218,7 +83248,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-23",
       "duration_ms": 113606,
       "name": "VOU TE BOTAR SEM D\u00d3",
       "url": "https://open.spotify.com/track/5ESJz9DyyMy1M2a7vZVc8U"

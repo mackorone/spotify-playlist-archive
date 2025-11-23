@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > The best tracks of 2025\. A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 131,702 likes - 189 songs - 11 hr 16 min
+[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 131,699 likes - 185 songs - 11 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -193,9 +193,5 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 183 | [Fitted Dress](https://open.spotify.com/track/7JL7B426UdkdTjiR5exBjv) | [Jah Gordy](https://open.spotify.com/artist/7vhU9v9k5lKGnq7It37m7e) | [Fitted Dress](https://open.spotify.com/album/15hekwYsao0XtMrTfvMYNH) | 2:49 |
 | 184 | [super8](https://open.spotify.com/track/6NzoazJ78peF36zq8hk2tg) | [Tiger La Flor](https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7) | [super8](https://open.spotify.com/album/1eJaakdKk9fgdRYoqfBpoH) | 3:43 |
 | 185 | [Someone Like You](https://open.spotify.com/track/4sjivD3qG0JtTPFJYym2ko) | [Cali Tucker](https://open.spotify.com/artist/41uU9UyB58T5gwyC4YqE1y) | [Cover Girl](https://open.spotify.com/album/3zsm3T9sgG8bI8xZBhv1NK) | 4:48 |
-| 186 | [i let you](https://open.spotify.com/track/1unDW7JHlCrvWtiVYYMwjt) | [caiah](https://open.spotify.com/artist/2pRVOQy0XvX95DbGhWVFLL) | [i let you](https://open.spotify.com/album/6J9ZIMVBIHjlMRcsdXG1LU) | 3:08 |
-| 187 | [Walk With Me](https://open.spotify.com/track/5DQ24MtwdAqASJHgQxetCa) | [Cosimo](https://open.spotify.com/artist/3OD1CyG28KeBGjbjrBp9Dz) | [For Those Who Listen](https://open.spotify.com/album/3Ew0dyXysJH4Ku7MP3Wi0B) | 4:23 |
-| 188 | [Piccadilly Mind](https://open.spotify.com/track/7D3nZ9ViSN86XMrsVE4JDI) | [Mink](https://open.spotify.com/artist/021q1fOEcfqxtlCtJs868v) | [Piccadilly Mind](https://open.spotify.com/album/2lTFdCzE7228gqlsuWQT0s) | 4:05 |
-| 189 | [More of It](https://open.spotify.com/track/296oUqh26SG7m9wVwilGN3) | [Youngwood](https://open.spotify.com/artist/3QXks5nI1OCgtoCiSpD9iu) | [Rude Tribes//More of It](https://open.spotify.com/album/4u3cG5EOfCQuPw6wn9QnpV) | 4:12 |
 
-Snapshot ID: `AAA1sWZqOKww6deV8nap/ZaFpebl8IsJ`
+Snapshot ID: `AAA1si+j9kv7qkDpK0qbC58idqqkq0qQ`

@@ -1,12 +1,12 @@
 {
   "description": "This is Nick Drake. The essential tracks, all in one playlist.",
-  "num_followers": 59757,
+  "num_followers": 59770,
   "original_name": "This Is Nick Drake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aR5aAAAAAABgcgrVxBgRXUcO94oX+PrQ",
+  "snapshot_id": "aR+rgAAAAAD9wTSYU0xLVnSPw00h/fcB",
   "tracks": [
     {
       "added_at": null,
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
         }
       ],
-      "duration_ms": 31146,
-      "name": "Come Into The Garden (Introduction)",
-      "url": "https://open.spotify.com/track/2noW5u0VhiWJmKyld02FXK"
+      "duration_ms": 179386,
+      "name": "Milk And Honey",
+      "url": "https://open.spotify.com/track/7bsSdjF8UgqleAaBTTiYql"
     },
     {
       "added_at": null,
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
         }
       ],
-      "duration_ms": 179386,
-      "name": "Milk And Honey",
-      "url": "https://open.spotify.com/track/7bsSdjF8UgqleAaBTTiYql"
+      "duration_ms": 31146,
+      "name": "Come Into The Garden (Introduction)",
+      "url": "https://open.spotify.com/track/2noW5u0VhiWJmKyld02FXK"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
       "duration_ms": 145346,
       "name": "Blues Run The Game",
       "url": "https://open.spotify.com/track/63DZhSq0EGemJVRoAxUtHZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Family Tree",
-        "url": "https://open.spotify.com/album/6tSbmYy6GAIsjtAId5GCbo"
-      },
-      "artists": [
-        {
-          "name": "Nick Drake",
-          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
-        }
-      ],
-      "duration_ms": 43280,
-      "name": "Time Piece",
-      "url": "https://open.spotify.com/track/0k6AwBv6WN40pvR6qmw3Md"
     }
   ],
   "unique_name": "This Is Nick Drake",

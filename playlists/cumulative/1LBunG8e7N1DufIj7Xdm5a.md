@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-3,588 songs - 7 day 21 hr 42 min
+3,590 songs - 7 day 21 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1230,6 +1230,7 @@
 | [For You](https://open.spotify.com/track/23WhLdhFW1Xk9Q3al5kei3) | [Bleczzy](https://open.spotify.com/artist/3V8QLnG4DKXxh042fz7wZJ) | [For You](https://open.spotify.com/album/3h642etnSsEBJ8loQ19olE) | 2:51 | 2025-06-04 |  |
 | [Forever](https://open.spotify.com/track/7HU8lOgOUZdPgE59bg2Jvs) | [Ash](https://open.spotify.com/artist/1oNJRkVDb7UEvRpPp4rNff) | [Verdant](https://open.spotify.com/album/6epqUoFXNZpgrbNozRtDn4) | 3:14 | 2025-04-09 |  |
 | [Forever](https://open.spotify.com/track/29cIW2Nq0dt4EJfGfoF1Or) | [The Neon Tides](https://open.spotify.com/artist/1Ud3adK2MfqoHK29oNplFc) | [Forever](https://open.spotify.com/album/1kZYF0gJBK4eZ5fjpjybsZ) | 3:26 | 2025-02-22 |  |
+| [Forever 2](https://open.spotify.com/track/5fF3AiCMkUeqEIl9C1p9PL) | [Ash](https://open.spotify.com/artist/1oNJRkVDb7UEvRpPp4rNff) | [Don \(Deluxe Edition\)](https://open.spotify.com/album/6MibEnOr23j05OsCcR8UJB) | 2:51 | 2025-11-22 |  |
 | [Forever in a Blink](https://open.spotify.com/track/4BJ5linWAvQ0qUxCga91X5) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Romantic love songs](https://open.spotify.com/album/5on51MywfGkrEDPOQajABL) | 3:39 | 2025-09-17 |  |
 | [Forever in a Blink \(another\)](https://open.spotify.com/track/0Vw1FuiLQSXSj9SBYAXkDP) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Romantic love songs](https://open.spotify.com/album/5on51MywfGkrEDPOQajABL) | 3:38 | 2025-09-17 |  |
 | [Forever in Sunset](https://open.spotify.com/track/6BDQGEEZXiXDJsMefyjEtG) | [Ezra Furman](https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY) | [All Of Us Flames](https://open.spotify.com/album/2KTQDiz3rmivOSbzLPbjTn) | 4:22 | 2025-11-05 |  |
@@ -3574,6 +3575,7 @@
 | [Мы зарастаем серебром](https://open.spotify.com/track/2cAg7yZkWtjCjR67hOnIAZ) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Мы зарастаем серебром](https://open.spotify.com/album/4lgfLNI3kUVQK8h4SlVepm) | 3:52 | 2025-05-22 |  |
 | [Мы зарастаем серебром](https://open.spotify.com/track/06xsD60yZKOhSoQzFBRnzT) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Космос](https://open.spotify.com/album/2jcE7I4Mqs4iGeY9PL3yRZ) | 4:05 | 2025-11-16 |  |
 | [Потанцуй со мной](https://open.spotify.com/track/16VPoNNjPfXhmH4J2M3MDA) | [Алмазные рудники](https://open.spotify.com/artist/1Pzg3icbv2hR9yJ2b4WU0p) | [Там, где ты...](https://open.spotify.com/album/2Qw8e3RYWPEl6IhkH2cadJ) | 2:36 | 2025-05-05 |  |
+| [Сказка, милая сказка](https://open.spotify.com/track/43bdnp7HlUWMWZRg6j0A4s) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Сказка, милая сказка](https://open.spotify.com/album/1hbYA2nWzZL8IgiqE9uVpv) | 4:31 | 2025-11-22 |  |
 | [Стихи усыпаны золой](https://open.spotify.com/track/5lKLESXe57MOnrruGp509e) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Стихи усыпаны золой](https://open.spotify.com/album/5R6LA8nzq4jZsMsWAK53TG) | 2:37 | 2025-07-01 |  |
 | [Хрипят моторы](https://open.spotify.com/track/2V9Vb562pyNLwQJiyGny55) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Космос](https://open.spotify.com/album/2jcE7I4Mqs4iGeY9PL3yRZ) | 4:00 | 2025-05-22 |  |
 | [Хрипят моторы](https://open.spotify.com/track/5CLiAHP2rO6hw51bcVlC3p) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Хрипят моторы](https://open.spotify.com/album/6LzimdsEpE5npBxe7xDm63) | 4:00 | 2025-09-30 |  |

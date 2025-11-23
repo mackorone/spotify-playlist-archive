@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 ### [sanguegiovane 🩸](https://open.spotify.com/playlist/37i9dQZF1DWW9tK1GiTdMf)
 
-> musica per un'estate non proprio felice \(blanco in cover\)
+> musica per un autunno non proprio felice \(psicologi in cover\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,287 likes - 112 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,294 likes - 112 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

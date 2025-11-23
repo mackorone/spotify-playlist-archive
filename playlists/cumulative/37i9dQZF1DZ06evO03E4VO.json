@@ -275,6 +275,24 @@
     },
     {
       "album": {
+        "name": "love you right",
+        "url": "https://open.spotify.com/album/3GfCPb0ksm3uN8FtQ4Hhf0"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "date_added": "2025-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219219,
+      "name": "love you right",
+      "url": "https://open.spotify.com/track/4Xpkx20V4OPuBKAGzygqgC"
+    },
+    {
+      "album": {
         "name": "luna de miel",
         "url": "https://open.spotify.com/album/6jS8h6S75hv5XtRcdjd8f2"
       },

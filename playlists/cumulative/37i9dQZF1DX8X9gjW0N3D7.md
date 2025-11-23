@@ -4,7 +4,7 @@
 
 > De la musique québécoise pour tous les goûts\. Photo: Marie Céleste
 
-291 songs - 15 hr 54 min
+291 songs - 15 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,7 @@
 | [Le jour est morne](https://open.spotify.com/track/43eSwHzPZ1hKxQQtSIeSET) | [Bobby Bazini](https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth) | [Le jour est morne](https://open.spotify.com/album/0ZtZTdoDajVToyzzRjguFs) | 3:40 | 2025-07-04 | 2025-11-22 |
 | [Le jour incandescent](https://open.spotify.com/track/5gg6gbncUiLz8PtIDTG6BX) | [Hans Heinrich](https://open.spotify.com/artist/0p1A9g0TAq8zlvWTdeOmPy) | [Natashquan](https://open.spotify.com/album/0DX5vdejpHG5igZLh28gNT) | 3:24 | 2025-10-17 |  |
 | [Le monde est fou](https://open.spotify.com/track/6vOi7yWHX7Qy9Eunm8ATOa) | [Alfa Rococo](https://open.spotify.com/artist/6nG2T7gGBQilOJXPWw0F0n) | [Le monde est fou](https://open.spotify.com/album/5zw2EYeEDWW53kmmksiAM6) | 4:04 | 2024-06-28 | 2024-08-31 |
-| [le monde est une femme](https://open.spotify.com/track/6aXtLxcclrmVQwGW58RfK2) | [Mélodie\-Jade](https://open.spotify.com/artist/1TdEVPQUOtvEypnIOeSjDK) | [le monde est une femme](https://open.spotify.com/album/5OQy1FSMBACFkzNns4eDAc) | 3:40 | 2025-11-21 |  |
+| [le monde est une femme](https://open.spotify.com/track/6aXtLxcclrmVQwGW58RfK2) | [Mélodie\-Jade](https://open.spotify.com/artist/1TdEVPQUOtvEypnIOeSjDK) | [le monde est une femme](https://open.spotify.com/album/5OQy1FSMBACFkzNns4eDAc) | 3:19 | 2025-11-21 |  |
 | [Le pied cassé cassant](https://open.spotify.com/track/0J7TFGv0JKX5seWssUpltE) | [Lendemain de veille](https://open.spotify.com/artist/1YXlZ3SpoxIziajB17MhoN) | [Le pied cassé](https://open.spotify.com/album/5wi8duwtaVvcnVHgkzlk3C) | 3:51 | 2025-11-21 |  |
 | [Le poids](https://open.spotify.com/track/2q52DuDG1eGxriSt0wggM2) | [Jeanne Côté](https://open.spotify.com/artist/2dNYXvbpBSHNjYc8eAvQB7) | [Le poids](https://open.spotify.com/album/2UBIOGwKcj4bs8yoMla62U) | 3:14 | 2024-11-15 | 2025-01-25 |
 | [Le Restaurant](https://open.spotify.com/track/6zbYZt4jhUbxv7TKC0zEvf) | [childhood friend](https://open.spotify.com/artist/2qoO4uE7tiz3HFg8vJyrBu) | [Like I did for Tommy](https://open.spotify.com/album/5GEPVScpkAWDUsmh3poaGc) | 3:18 | 2025-11-07 |  |

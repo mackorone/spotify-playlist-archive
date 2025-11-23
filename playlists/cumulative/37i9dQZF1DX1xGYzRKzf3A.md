@@ -4,7 +4,7 @@
 
 > Tierra linda que siempre sueño, y que muy dentro llevo\. Ciudad de Monterrey ♥️
 
-399 songs - 23 hr 21 min
+400 songs - 23 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [A Usted Que Le Importa Ft Millonario](https://open.spotify.com/track/1b0oL0GJWyv8mqg1w2UYmS) | [Richard Ahumada](https://open.spotify.com/artist/4oR06FdpsOJTcTnOkSzUsC), [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD) | [La Voz del Barrio](https://open.spotify.com/album/3E0HWJaxNI0XubfkOqik0Y) | 4:08 | 2025-11-09 |  |
 | [A Ver Si Capea](https://open.spotify.com/track/1seRvngYgRfDeCbIkJOMQK) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [21 Black Jack](https://open.spotify.com/album/5ZyR9EAtVpj70b11dZYmNC) | 3:11 | 2023-06-16 | 2024-11-07 |
 | [Acábame de Matar](https://open.spotify.com/track/5VXLuJ4E1FqtAAWLvnpMzV) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Panteón Rococó](https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg) | 3:00 | 2025-06-17 | 2025-11-10 |
+| [Adios](https://open.spotify.com/track/6fkxCIVDhGYuQfZO6f4PtW) | [La Marlu](https://open.spotify.com/artist/6jE6nnMPk3FSA9RBHxYks3) | [Adios](https://open.spotify.com/album/7tgREtNFckExy20QnRUJpF) | 3:24 | 2025-11-09 |  |
 | [Adiós Amor](https://open.spotify.com/track/6KfMaLSdCCHy8DwjlMjxqu) | [Conjunto Primavera](https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb) | [Decide Tú](https://open.spotify.com/album/5lYbSy6Hf540WyiVaoN8HU) | 3:17 | 2025-06-17 | 2025-11-10 |
 | [Agüita De Coco](https://open.spotify.com/track/6yd503DovrZyEN4qZGaZcq) | [J.L.B\. Y Cía](https://open.spotify.com/artist/4gWJIHAOL5ALjx8k4Ptz0R) | [45 Éxitos \(Versiones Originales\)](https://open.spotify.com/album/3j5xMGA9BmUE77O512excf) | 3:01 | 2025-06-17 | 2025-11-10 |
 | [alguien +](https://open.spotify.com/track/3wK98tIawh2nKwk40k2TXB) | [Ana Sofi W.](https://open.spotify.com/artist/2lyO70w7by5Ekhac2H6zS0), [Kendall Peña](https://open.spotify.com/artist/2Sb4Db1YYVwCK3l04E9cpn) | [donde quedé yo?](https://open.spotify.com/album/1UYFv9czF3faJyHqPZyNGB) | 3:44 | 2025-11-09 |  |
@@ -329,7 +330,7 @@
 | [Satanás](https://open.spotify.com/track/1WTj5coQWGLLnn5yHSfUuR) | [La Tropa Vallenata](https://open.spotify.com/artist/6ESzKdcEDKvhUek4ZaHruk) | [Fantasía Tropical 666](https://open.spotify.com/album/2zPHGcZtNe2qPWGOpBA9dv) | 3:17 | 2023-06-16 | 2024-07-03 |
 | [Se Me Soltó El Hocico](https://open.spotify.com/track/2DRt6GO4cpDrchof7iCJvU) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Se Me Soltó El Hocico](https://open.spotify.com/album/0aPf2P7gK0p0hOmsLMwPzc) | 2:55 | 2023-06-16 | 2025-11-10 |
 | [Se Murió De Amor](https://open.spotify.com/track/5iuGn3RXvfvHIyIe8fyxBE) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Enséñame](https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK) | 3:06 | 2023-06-16 | 2025-11-10 |
-| [Se Nos Murió el Amor](https://open.spotify.com/track/5ijOMu6ML6oI8pOi5YedLq) | [El Plan](https://open.spotify.com/artist/6hC4K4CHuu5MRsNUHAqqdy) | [Vive Cumbia](https://open.spotify.com/album/4rJYfaZvpbKxuzALlHJfhZ) | 3:38 | 2025-11-09 |  |
+| [Se Nos Murió el Amor](https://open.spotify.com/track/5ijOMu6ML6oI8pOi5YedLq) | [El Plan](https://open.spotify.com/artist/6hC4K4CHuu5MRsNUHAqqdy) | [Vive Cumbia](https://open.spotify.com/album/4rJYfaZvpbKxuzALlHJfhZ) | 3:38 | 2025-11-09 | 2025-11-23 |
 | [Sentimientos De Cartón](https://open.spotify.com/track/7ctLV5QnYVq3V89EK3XNsa) | [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [Necesito Más De Ti](https://open.spotify.com/album/2nRHIdZqsgd9ONSzrTKsf9) | 3:03 | 2023-06-16 | 2025-11-10 |
 | [Ser Más Que Tu Amigo](https://open.spotify.com/track/5Czzc6WmcAQKOTJHQndeYy) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Ser Más Que Tu Amigo](https://open.spotify.com/album/6y7TN2VbtICzbzoW65hGgC) | 3:07 | 2025-11-09 |  |
 | [Sergio el Bailador](https://open.spotify.com/track/3M7WBL64QOmuPiPjhySCJW) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Sergio El Bailador](https://open.spotify.com/album/1sk1X49mukrl5sFPjCtk1y) | 2:49 | 2023-06-16 | 2025-11-10 |

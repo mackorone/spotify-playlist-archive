@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Victony, Tems, DJ Tunez, Burna Boy and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,254 likes - 60 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,388 likes - 60 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 12 | [IDI AMIN](https://open.spotify.com/track/1RyMUK3FIuYkYGWNjcOEtp) | [6uff](https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG) | [IDI AMIN](https://open.spotify.com/album/66eJmwET9lBbVG5a4UR6uN) | 2:16 |
 | 13 | [Baby Boy \(feat\. Kali Uchis\)](https://open.spotify.com/track/0ecf1L8NLJBmhupwxnAXcP) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Destinée](https://open.spotify.com/album/33V05j22TgtWOJ5OvREj1p) | 3:07 |
 | 14 | [Monalisa](https://open.spotify.com/track/2mZhEgnRL49Jh0xVIP5y5S) | [Itchy & Buco Sounds](https://open.spotify.com/artist/4KiWwlk4Uf1vcWi3txXLgy), [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Lagos / Monalisa](https://open.spotify.com/album/4PMILwSLE3YLwZOqI9d6qX) | 3:19 |
-| 15 | [Jungle](https://open.spotify.com/track/4sDJ96gu68rfMzlDNLh5M5) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP) | [Jungle](https://open.spotify.com/album/5aVMinMjVyCFBRAAIlfXNS) | 2:23 |
+| 15 | [Jungle](https://open.spotify.com/track/4sDJ96gu68rfMzlDNLh5M5) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP) | [Jungle](https://open.spotify.com/album/5aVMinMjVyCFBRAAIlfXNS) | 2:35 |
 | 16 | [AMAZING](https://open.spotify.com/track/43sMEb69SW7r1M0fg21XV9) | [MASIDI](https://open.spotify.com/artist/2ZfpJTfi4q60zRUFWhll73), [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [AMAZING](https://open.spotify.com/album/64bHh0XpYf8MrPNH4uA2Nc) | 2:50 |
 | 17 | [Love Egbugomo](https://open.spotify.com/track/1pi9XMrwEocfCRlDiEDrHM) | [SYEMCA](https://open.spotify.com/artist/7qsm8Kz0oIz1gu492D5WJa), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [Love Egbugomo](https://open.spotify.com/album/7wQM76tkNQjgyK1NBEs2nt) | 2:31 |
 | 18 | [Run](https://open.spotify.com/track/08LjUrT7qr7yCxilesFIyU) | [Monaky](https://open.spotify.com/artist/3pUdWI84GUyM40TiEKXR6Q) | [ZaZa Fest](https://open.spotify.com/album/5cVnPrNQ4UZm2mniwOR9mu) | 2:20 |

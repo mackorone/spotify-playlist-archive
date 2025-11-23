@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Anieszka
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,703 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,706 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 6 | [Keep Me Alive](https://open.spotify.com/track/7c0jiXS8GsVEONVTwvK8xI) | [Addison Dean](https://open.spotify.com/artist/76q2t3ghKRSAyWww2LZ9Kk), [Jaylin Rahjon](https://open.spotify.com/artist/7GZv334spln2zHFg0sJi5S) | [Keep Me Alive](https://open.spotify.com/album/3vNlMPoSWc3WepLh2zHiXo) | 2:25 |
 | 7 | [Electrolytes](https://open.spotify.com/track/1PKB4cIGJM4HYyvLniraDO) | [Headaches](https://open.spotify.com/artist/385XMCKUEnTVlM7UVFRLHl), [Lonelyspeck](https://open.spotify.com/artist/0ghOmdop8dsN135XRLszJ5) | [Electrolytes](https://open.spotify.com/album/15CRwtTHNf4jy94R2jriOh) | 2:41 |
 | 8 | [1Mhz\*](https://open.spotify.com/track/0FDGvjQns8s2x3S3RCPq7g) | [HARLEY GIRL](https://open.spotify.com/artist/6ldTQRA9rON2kgBPGyhNao) | [1Mhz\*](https://open.spotify.com/album/00svAhsit9pvcDFPO82uHk) | 2:19 |
-| 9 | [Tracy](https://open.spotify.com/track/2Irs8tqS6DELbaFlwlwRTC) | [Pash](https://open.spotify.com/artist/3jEgbW70PXxv993symSK35) | [Tracy](https://open.spotify.com/album/6KOs8bG57zs3LK9i3rydM0) | 2:20 |
+| 9 | [Tracy](https://open.spotify.com/track/2Irs8tqS6DELbaFlwlwRTC) | [PASH](https://open.spotify.com/artist/3jEgbW70PXxv993symSK35) | [Tracy](https://open.spotify.com/album/6KOs8bG57zs3LK9i3rydM0) | 2:20 |
 | 10 | [She Bangs The Drums](https://open.spotify.com/track/2lwbsyMosnALqQUZthAPBQ) | [The Stamps](https://open.spotify.com/artist/4lNBuBS2if6Kz9IYUK5fdC) | [She Bangs The Drums](https://open.spotify.com/album/1LHyrTG0rDzJEAmcKFyCIo) | 2:39 |
 | 11 | [Sucker Punch](https://open.spotify.com/track/6lT1D6MI2NUpDUlrRVFL7g) | [Betty Taylor](https://open.spotify.com/artist/6pzWnWXu7YVg5tXrOru8KY) | [Sucker Punch](https://open.spotify.com/album/4geWEPMfEaMOsfMC05rfB0) | 3:23 |
 | 12 | [pixeldust 18+](https://open.spotify.com/track/3g26F5dbTkGlszlSkXqvaC) | [eli wan](https://open.spotify.com/artist/0qhHbyKPbVyS51pjxelspT) | [pixeldust 18+](https://open.spotify.com/album/7tZZv29EgyItYDGeac8lNL) | 3:33 |

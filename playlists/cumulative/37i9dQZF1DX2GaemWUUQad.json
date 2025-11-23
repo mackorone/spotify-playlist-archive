@@ -827,6 +827,32 @@
     },
     {
       "album": {
+        "name": "Ishaqzaade",
+        "url": "https://open.spotify.com/album/7bJe5O77rwuYETK4zEp9Vu"
+      },
+      "artists": [
+        {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        },
+        {
+          "name": "Shalmali Kholgade",
+          "url": "https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz"
+        },
+        {
+          "name": "Kausar Munir",
+          "url": "https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA"
+        }
+      ],
+      "date_added": "2025-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292075,
+      "name": "Pareshaan",
+      "url": "https://open.spotify.com/track/5XXJqs7f42R8PAY4Xcr0ax"
+    },
+    {
+      "album": {
         "name": "Highway",
         "url": "https://open.spotify.com/album/4MRvvPTLIVBHVEMfVC20jI"
       },
@@ -1020,7 +1046,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-23",
       "duration_ms": 240796,
       "name": "Saree Ke Fall Sa",
       "url": "https://open.spotify.com/track/6q9Xm2jmdQ3Qi91iQpdHH9"

@@ -1,12 +1,12 @@
 {
   "description": "This is Yseult. The essential tracks, all in one playlist.",
-  "num_followers": 17871,
+  "num_followers": 17873,
   "original_name": "This Is Yseult",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aR5aAAAAAADEFVl+83iM+om5rMgPQcFb",
+  "snapshot_id": "aR+rgAAAAABj3/h3fqz3eoz7HAqaU/kS",
   "tracks": [
     {
       "added_at": null,
@@ -307,22 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heart Of Glass",
-        "url": "https://open.spotify.com/album/6RY3XViPC0YObUvX4Y0GyH"
-      },
-      "artists": [
-        {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
-        }
-      ],
-      "duration_ms": 195327,
-      "name": "Heart Of Glass",
-      "url": "https://open.spotify.com/track/0tDPlvgAIkH0AydVq67v4p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "L\u2019Amour",
         "url": "https://open.spotify.com/album/447oYDEOpoTAmbgDKIhkZ6"
       },
@@ -343,8 +327,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "PERDUE",
-        "url": "https://open.spotify.com/album/4Ufzf9AJAMF9jspkO09dRk"
+        "name": "Heart Of Glass",
+        "url": "https://open.spotify.com/album/6RY3XViPC0YObUvX4Y0GyH"
       },
       "artists": [
         {
@@ -352,9 +336,9 @@
           "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
         }
       ],
-      "duration_ms": 317513,
-      "name": "PERDUE",
-      "url": "https://open.spotify.com/track/2DlyVL2X7vRpdJmGgaaSvC"
+      "duration_ms": 195327,
+      "name": "Heart Of Glass",
+      "url": "https://open.spotify.com/track/0tDPlvgAIkH0AydVq67v4p"
     },
     {
       "added_at": null,
@@ -375,6 +359,22 @@
       "duration_ms": 205746,
       "name": "Lost Child",
       "url": "https://open.spotify.com/track/4DmpRr6LwSvMun4NNZMESh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PERDUE",
+        "url": "https://open.spotify.com/album/4Ufzf9AJAMF9jspkO09dRk"
+      },
+      "artists": [
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "duration_ms": 317513,
+      "name": "PERDUE",
+      "url": "https://open.spotify.com/track/2DlyVL2X7vRpdJmGgaaSvC"
     },
     {
       "added_at": null,

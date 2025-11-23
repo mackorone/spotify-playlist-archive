@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJCoSBAnDiz.md) - [plain]
 
 > Love & longing from Broadway's best & brightest\. Cover: Nicole Scherzinger in Sunset Boulevard
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,399 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,470 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

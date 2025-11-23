@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTphHAHFWZlz.md) - [plain]
 
 > Nuevo sonido, misma actitud.<br/>📷 C.R.O
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,383 likes - 37 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,381 likes - 37 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,14 +17,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTphHAHFWZlz.md) - [plain]
 | 7 | [ANTONIO](https://open.spotify.com/track/6SYTtNE9tD95oSFPbKXeFL) | [Juana Rozas](https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq) | [TANYA](https://open.spotify.com/album/7jUIaJGpygQbtiUgNcBRNR) | 2:49 |
 | 8 | [bullicio](https://open.spotify.com/track/7oNUA3utHJTE82X0Vbu5uv) | [MAG](https://open.spotify.com/artist/4btSpSQaEy7tSM9zfJk8Iz), [MARTTEIN](https://open.spotify.com/artist/5EbzQCOHXCVsr4y0qNsB48) | [bullicio](https://open.spotify.com/album/1w9DzWFN05bRtNUNeREAId) | 2:24 |
 | 9 | [TRADICIÓN](https://open.spotify.com/track/2dtyc8ClPtw9aB8hWXDq7J) | [Broke Carrey](https://open.spotify.com/artist/6FWTqLIVK9jjMGcNJnF7xE) | [TRADICIÓN](https://open.spotify.com/album/1Rc3Gw4gXqkyn32VXrjzjD) | 2:48 |
-| 10 | [Jala Jala \- En Vivo \- Buenos Aires](https://open.spotify.com/track/4BajwAgueWD8oweE4uyCAW) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf), [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [BAÑO MARÍA \(En Vivo \- Buenos Aires\)](https://open.spotify.com/album/6rvic8QKIwa5ywIXzKtJ69) | 1:23 |
+| 10 | [Jala Jala \- En Vivo \- Buenos Aires](https://open.spotify.com/track/4BajwAgueWD8oweE4uyCAW) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX) | [BAÑO MARÍA \(En Vivo \- Buenos Aires\)](https://open.spotify.com/album/6rvic8QKIwa5ywIXzKtJ69) | 1:23 |
 | 11 | [BUENÍSIMO](https://open.spotify.com/track/59xjZqO3csgt24ZrpwGk9v) | [Juana Rozas](https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq) | [BUENÍSIMO](https://open.spotify.com/album/0XIYy5jFMuJQxmXW1IfXuB) | 2:30 |
 | 12 | [Kerosene](https://open.spotify.com/track/5mDbbvhvaf8ObKttnHXn0s) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [Kerosene](https://open.spotify.com/album/5TMl7Qr7UBoBAFqbiH39zG) | 3:05 |
 | 13 | [CACHETAZO](https://open.spotify.com/track/11N5z4VHGUUTAYQR1p51fa) | [MARTTEIN](https://open.spotify.com/artist/5EbzQCOHXCVsr4y0qNsB48), [Juana Rozas](https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq) | [MARTTEIN](https://open.spotify.com/album/2v7cEavZRKwA8GfTfmU5fv) | 1:59 |
 | 14 | [LLAMALO](https://open.spotify.com/track/3me7U2dhWEi62XjrOxMWff) | [MARTTEIN](https://open.spotify.com/artist/5EbzQCOHXCVsr4y0qNsB48), [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [LLAMALO](https://open.spotify.com/album/03TDobVXdHnd7T8JMfXhgd) | 2:57 |
 | 15 | [Señales de Humo](https://open.spotify.com/track/6iJfLdzcOHK6blCkl0xSxZ) | [Broke Carrey](https://open.spotify.com/artist/6FWTqLIVK9jjMGcNJnF7xE) | [Rio de la Plata](https://open.spotify.com/album/0ylmdY2EkG0WnUwPdhmSbf) | 4:04 |
-| 16 | [EL ÚNICO](https://open.spotify.com/track/2wuZ3kg5ChBjRKqBYfJ9H7) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf), [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [BAÑO MARÍA](https://open.spotify.com/album/1XX2taUAddEZQX4QinYxX2) | 2:32 |
-| 17 | [LA QUE PUEDE, PUEDE](https://open.spotify.com/track/6gIWpyqE5r0Ebgacpg5i0M) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf), [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [BAÑO MARÍA](https://open.spotify.com/album/1XX2taUAddEZQX4QinYxX2) | 2:34 |
+| 16 | [EL ÚNICO](https://open.spotify.com/track/2wuZ3kg5ChBjRKqBYfJ9H7) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX) | [BAÑO MARÍA](https://open.spotify.com/album/1XX2taUAddEZQX4QinYxX2) | 2:32 |
+| 17 | [LA QUE PUEDE, PUEDE](https://open.spotify.com/track/6gIWpyqE5r0Ebgacpg5i0M) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX) | [BAÑO MARÍA](https://open.spotify.com/album/1XX2taUAddEZQX4QinYxX2) | 2:34 |
 | 18 | [MEJORALITO](https://open.spotify.com/track/27u7v9AUn0fKcpkelQZybN) | [AgusFortnite2008](https://open.spotify.com/artist/6S0NgDvO6FINUMYschvqZe), [Stiffy](https://open.spotify.com/artist/7g7N6cRr5izWiIWvffgwWO), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV) | [MURIO LA MUSICA](https://open.spotify.com/album/01eUVrpiJme8DgHgzZ8u4f) | 3:32 |
 | 19 | [Sola](https://open.spotify.com/track/5HcmDAvgFcutXcNBaXqFaH) | [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir) | [Heráldica](https://open.spotify.com/album/1llfWsTfOoTmG3vK0cdyNr) | 3:33 |
 | 20 | [Cirugía](https://open.spotify.com/track/0uFRDicafe9Gto0v2pk3kT) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [Por cesárea](https://open.spotify.com/album/633jS6fM44Zbr1gyI0eF19) | 3:36 |

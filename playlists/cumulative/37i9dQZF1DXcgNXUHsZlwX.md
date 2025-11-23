@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. 🍂
 
-531 songs - 1 day 7 hr 32 min
+532 songs - 1 day 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -421,7 +421,7 @@
 | [Radio bingo](https://open.spotify.com/track/0sGeklmSEIOvf71AJqsPvK) | [Québec Redneck Bluegrass Project](https://open.spotify.com/artist/6QafnqFGVO80DazTYj5fAz) | [J'ai Bu](https://open.spotify.com/album/36Nlk84bj3ZLeQNB8q2fmK) | 4:24 | 2021-01-03\* | 2021-10-02 |
 | [Ramenez\-moi](https://open.spotify.com/track/4rgkt06MGUEVbXxrYsnPTv) | [Belle Grand Fille](https://open.spotify.com/artist/3xMp2n97jzSF7mQFzqKoL2) | [Ramenez\-moi](https://open.spotify.com/album/1m9GgPn0v6d9X0504FKYa5) | 3:13 | 2021-02-13 | 2022-02-12 |
 | [Rebloom](https://open.spotify.com/track/3g0DRFppjlQ7aR8zjaCi0y) | [Maybel](https://open.spotify.com/artist/4vyc9XRUivKWefuHRepSQh) | [Rebloom](https://open.spotify.com/album/0jEhm2qPyBx2sMr9RuWlcM) | 3:21 | 2023-09-15 | 2023-11-11 |
-| [Rendez\-vous \(feat\. Camélia Jordana\)](https://open.spotify.com/track/0ICXb82u1L3CpYvYQI14xz) | [Charlie Winston](https://open.spotify.com/artist/7xQTON6uj7akAGzlanUzy3), [Camélia Jordana](https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7) | [Rendez\-vous \(feat\. Camélia Jordana\)](https://open.spotify.com/album/270Bbbh2dJynbVAV9qb3kO) | 3:07 | 2021-01-15 |  |
+| [Rendez\-vous \(feat\. Camélia Jordana\)](https://open.spotify.com/track/0ICXb82u1L3CpYvYQI14xz) | [Charlie Winston](https://open.spotify.com/artist/7xQTON6uj7akAGzlanUzy3), [Camélia Jordana](https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7) | [Rendez\-vous \(feat\. Camélia Jordana\)](https://open.spotify.com/album/270Bbbh2dJynbVAV9qb3kO) | 3:07 | 2021-01-15 | 2025-11-23 |
 | [Reste](https://open.spotify.com/track/4WeVwfij7xULEKzgSIgVai) | [Marie\-Eve Roy](https://open.spotify.com/artist/6C5VPdM8WtyVyFLABlosbH) | [Multicolore](https://open.spotify.com/album/5ATljXNpfLwVJEEbFjLYh9) | 3:46 | 2021-01-16 | 2022-07-10 |
 | [Rien de plus grand](https://open.spotify.com/track/7gUwoDvVkAYMxP7YD2bLLi) | [Étienne Coppée](https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp) | [Rien de plus grand](https://open.spotify.com/album/2gU16GxJuVsePs44TreU2a) | 4:36 | 2021-09-25 | 2022-12-02 |
 | [River Run \(with Lila Dupont\)](https://open.spotify.com/track/6BmtSb8Oz1zMEm6seCKLES) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN), [Lila Dupont](https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32) | [River Run \(with Lila Dupont\)](https://open.spotify.com/album/3mP1wzCsqHsfPMI3g8HOkz) | 3:25 | 2025-08-14 |  |
@@ -538,6 +538,7 @@
 | [Écoute](https://open.spotify.com/track/0ibGf52f3J60HlcSvuizKs) | [Étienne Coppée](https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp) | [Écoute](https://open.spotify.com/album/6jZzuXLPJFgottCyUEgJ3F) | 2:32 | 2021-05-30 |  |
 | [Écoute ma belle](https://open.spotify.com/track/4LTKSuFur0BIYhKRKUf5Eu) | [BronKo](https://open.spotify.com/artist/2JTDfR1rOVr8DO2EEO0SRs) | [Accroche\-toi](https://open.spotify.com/album/0xfoWauBjCYxWkaK8bIhk0) | 4:00 | 2021-01-15 | 2021-10-03 |
 | [Élégie](https://open.spotify.com/track/5C8JUfpCwJQRrDRQhs1opi) | [Arielle Soucy](https://open.spotify.com/artist/6xeAWvZ8hB33vfmGeyLPoG) | [Il n'y a rien que je ne suis pas](https://open.spotify.com/album/7yn7BiFIFfeTwf5V42Eu6S) | 3:18 | 2023-10-20 | 2023-11-11 |
+| [Éthanol](https://open.spotify.com/track/22gFa2IL8z4I6TnSoyGeNe) | [Charlie Juste](https://open.spotify.com/artist/7BoaqqGTdMqAjwzHf3U7Pd) | [Velours et Acide](https://open.spotify.com/album/4WIAf9PKlvUfI0DoSD2Mjy) | 3:35 | 2025-11-14 |  |
 | [Île fossiles](https://open.spotify.com/track/3fF9nkIFsjEIhm0477iE4v) | [Makenzie](https://open.spotify.com/artist/13tbVKy5Kmvj8dvBIEzIdS) | [Mousses Mémoires](https://open.spotify.com/album/4Jzwiv01wtaFmZHRJrOCJ9) | 3:40 | 2024-06-07 | 2024-06-29 |
 
 \*This playlist was first scraped on 2021-01-03. Prior content cannot be recovered.

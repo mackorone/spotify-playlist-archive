@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: JUSTHIS\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 770,614 likes - 116 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 770,638 likes - 116 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

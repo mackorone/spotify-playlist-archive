@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 
 > 
 
-[CerVon Campbell](https://open.spotify.com/user/1275620579) - 526 likes - 113 songs - 5 hr 55 min
+[CerVon Campbell](https://open.spotify.com/user/1275620579) - 527 likes - 114 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,5 +121,6 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 | 111 | [pinky promise](https://open.spotify.com/track/4OIZrD0Q5HjdFSL0FPrAu3) | [Peterson](https://open.spotify.com/artist/75GKFnQxwp1FIBqzseSrKC) | [WANT 2 BE 3](https://open.spotify.com/album/4IhdgtgY206V0NATs0V694) | 2:00 |
 | 112 | [To Her](https://open.spotify.com/track/5Xa32y3yYAqQjuSnQ9e2nC) | [Libby Ember](https://open.spotify.com/artist/33b3osf81duwVT6hgdGxba) | [To Her](https://open.spotify.com/album/1M9XLvmAovyW7kQsxZXjc1) | 4:40 |
 | 113 | [Homewrecker](https://open.spotify.com/track/5cnLneiOGZQjsoFeOwTewc) | [Enhance](https://open.spotify.com/artist/0WczWSXykA8L6DAN24qPQW) | [Homewrecker](https://open.spotify.com/album/2W32nOm3iiFnrhHLZfQhI0) | 2:36 |
+| 114 | [Hold On](https://open.spotify.com/track/1xunQYI4Bfk0dDgIdoQokK) | [Veauxgue](https://open.spotify.com/artist/0ZEvbB2ViUVH9JGLOBLvrM) | [10,000 Days](https://open.spotify.com/album/0YPjipQDNl5DXQo2Xwr4kE) | 3:07 |
 
-Snapshot ID: `AAAVd1S+hXmQ/nqiqj2OXb1aWExObhuY`
+Snapshot ID: `AAAVeOFgv2bVL1EpIJF9GHQ06D8QFkDC`

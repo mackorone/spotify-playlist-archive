@@ -1,6 +1,6 @@
 {
   "description": "This Hanukkah playlist features all the classics and the funny favorites.",
-  "num_followers": 34497,
+  "num_followers": 34510,
   "original_name": "Hanukkah",
   "owner": {
     "name": "Spotify",
@@ -244,8 +244,12 @@
       },
       "artists": [
         {
-          "name": "Static & Ben El",
-          "url": "https://open.spotify.com/artist/0xHa28taiElkcQf9o3z76g"
+          "name": "Static",
+          "url": "https://open.spotify.com/artist/5Ea0d3mUECVaMf8h2DTehE"
+        },
+        {
+          "name": "Ben El",
+          "url": "https://open.spotify.com/artist/6KyByiM5jFKKaeNJabYUYR"
         }
       ],
       "duration_ms": 181350,

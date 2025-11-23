@@ -4,7 +4,7 @@
 
 > the best things in life can't be contained.
 
-464 songs - 1 day 4 hr 14 min
+465 songs - 1 day 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,7 +262,7 @@
 | [Man Made by Delusion](https://open.spotify.com/track/5MfrKMzZ2eU9FTiLjgMKmy) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [5am Paradise](https://open.spotify.com/album/68bhX8AcCObSmY57ogdl4J) | 3:24 | 2022-05-27 |  |
 | [Manifest](https://open.spotify.com/track/71hY002AVvyrs4GgggPPiB) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Manifest](https://open.spotify.com/album/5TDJFyk14FecmlVp8ie7LS) | 5:17 | 2019-05-26\* | 2022-07-29 |
 | [Manifest](https://open.spotify.com/track/7oChm7YC5PS1NvEkRCgswG) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [My Finest Work Yet](https://open.spotify.com/album/2xQ1WHVV0MdVSRkpND5P51) | 5:17 | 2022-05-27 | 2024-04-19 |
-| [Mary Oliver](https://open.spotify.com/track/20QsRPPM75xQR9CrNCo1iV) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [True North](https://open.spotify.com/album/1XGrCmcWifmmiKfpK4nwm2) | 3:13 | 2022-05-27 |  |
+| [Mary Oliver](https://open.spotify.com/track/20QsRPPM75xQR9CrNCo1iV) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [True North](https://open.spotify.com/album/1XGrCmcWifmmiKfpK4nwm2) | 3:13 | 2022-05-27 | 2025-11-23 |
 | [Maybe They're Just Really Good Friends](https://open.spotify.com/track/0BaUKOiD2Z1HqOv0CLBhUd) | [Carson McHone](https://open.spotify.com/artist/1IOeIjSSt8AcZXEriZXcvx) | [Goodluck Man](https://open.spotify.com/album/0J1TbKU7lJomVuuAyiTSC9) | 2:19 | 2020-03-09 | 2020-04-14 |
 | [Me & My Dog](https://open.spotify.com/track/2jGAR1n5D2z8WXYLsmjE4P) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP), [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw) | [Me & My Dog](https://open.spotify.com/album/3v8X73XvgiVNxGQHGmJT5w) | 3:26 | 2020-03-09 | 2020-06-12 |
 | [Mess Is Mine](https://open.spotify.com/track/29jtZGdgpE2lWm2mkIt6HS) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:43 | 2022-05-27 | 2024-04-19 |
@@ -421,6 +421,7 @@
 | [Trinity Lane](https://open.spotify.com/track/3Q7dM70nAfpK7TWkdZnNE4) | [Lilly Hiatt](https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90) | [Trinity Lane](https://open.spotify.com/album/1r27NAhNdnPF1Ud6UOf7MR) | 3:53 | 2020-03-09 | 2020-07-10 |
 | [Trouble In Mind](https://open.spotify.com/track/1kB0EodRXnYykSHZZOPnf6) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Reskinned](https://open.spotify.com/album/2n775kjBbQspGYqtEISssJ) | 3:42 | 2020-03-09 | 2020-07-10 |
 | [Troublemaker Doppelgänger](https://open.spotify.com/track/2BzYdX5VGhnPowrqorZRk7) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [No Burden](https://open.spotify.com/album/6Ru52lwXvbPaAMSdyPOFsL) | 4:21 | 2020-03-09 | 2020-09-05 |
+| [Tuesday Grey](https://open.spotify.com/track/7vDPE6NEKI7M8XqkVVXm1B) | [Admiral Fallow](https://open.spotify.com/artist/2cxi12PeZmsDkSlJi1slRp) | [The Idea Of You](https://open.spotify.com/album/3PWYjE9JqMGLtxRgMSU7iX) | 5:02 | 2025-02-21 |  |
 | [Two Moons](https://open.spotify.com/track/1RUVMQIk3edRFSvBphu8rQ) | [The Weeks](https://open.spotify.com/artist/3zE5jV6Uw9hhdWCXM8hS3j) | [Two Moons](https://open.spotify.com/album/0aZcpEdWi7Qkp75zea0GKX) | 4:01 | 2019-10-24 | 2020-06-12 |
 | [Two Weeks](https://open.spotify.com/track/1z7vgmv1uCZuG35oOGGsYQ) | [The East Pointers](https://open.spotify.com/artist/0YAZ2nVxNnOeiGmNOxe8U3) | [What We Leave Behind](https://open.spotify.com/album/78HO96w3jsszxGx416LOwO) | 3:41 | 2019-05-26\* | 2022-07-29 |
 | [Uh Huh](https://open.spotify.com/track/3ZAJJoHHCVGLIoScl26Hf4) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Jade Bird](https://open.spotify.com/album/34RIeuzZA8ySXCbsEd62jG) | 2:22 | 2019-05-28 | 2019-10-25 |

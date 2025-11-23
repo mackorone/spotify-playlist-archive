@@ -5810,7 +5810,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-19",
+      "date_removed": null,
       "duration_ms": 256965,
       "name": "Dying To Love",
       "url": "https://open.spotify.com/track/1TPdMmb92BoWvDFQlCuVl0"
@@ -9502,7 +9502,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-23",
       "duration_ms": 154363,
       "name": "HOES DEPRESSED",
       "url": "https://open.spotify.com/track/3YjVhsdXUG69TeUm0XzIFZ"
@@ -19044,7 +19044,7 @@
       ],
       "date_added": "2025-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-23",
       "duration_ms": 75676,
       "name": "shalawa",
       "url": "https://open.spotify.com/track/7sWDSl3eJatsZ017XBgcj7"
@@ -26145,6 +26145,24 @@
     },
     {
       "album": {
+        "name": "\u0411\u0443\u0434\u044c \u0442\u0443\u0442",
+        "url": "https://open.spotify.com/album/67sC3FmhvjhdvF9sEkNj4d"
+      },
+      "artists": [
+        {
+          "name": "\u043b\u0443\u0447\u043d\u0430\u0434\u0435\u0436\u0434\u044b",
+          "url": "https://open.spotify.com/artist/1njbZWm4mQCNYePqHiwVRb"
+        }
+      ],
+      "date_added": "2025-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "\u0411\u0443\u0434\u044c \u0442\u0443\u0442",
+      "url": "https://open.spotify.com/track/7hkHthSj6vUcXqsnEpdDzG"
+    },
+    {
+      "album": {
         "name": "\u0411\u0443\u0440\u044f, \u043c\u0435\u0442\u0435\u043b\u044c \u0438 \u043c\u0433\u043b\u0430",
         "url": "https://open.spotify.com/album/7quXAo685KdiN4z6xycGkh"
       },
@@ -28865,6 +28883,24 @@
     },
     {
       "album": {
+        "name": "\u0412\u0418\u0410 \"\u0412\u0435\u0440\u0430\u0441\u044b\"",
+        "url": "https://open.spotify.com/album/6ibnzJQYsPV8tljnyFUvzD"
+      },
+      "artists": [
+        {
+          "name": "\u0412\u0435\u0440\u0430\u0441\u044b",
+          "url": "https://open.spotify.com/artist/1LUvXS4MGq37uwBIYVefcf"
+        }
+      ],
+      "date_added": "2025-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254653,
+      "name": "\u0417\u0430\u0432\u0438\u0440\u0443\u0445\u0430",
+      "url": "https://open.spotify.com/track/1B3peLWPNnvtj7ulFrQJHQ"
+    },
+    {
+      "album": {
         "name": "\u0437\u0430\u0432\u0438\u0441\u0438\u043c",
         "url": "https://open.spotify.com/album/62UsXgLtbzmVfl8NgbxOh3"
       },
@@ -31488,7 +31524,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-23",
       "duration_ms": 94233,
       "name": "\u041c\u043e\u0438 \u0433\u043b\u0430\u0437\u0430 \u0441\u0438\u044f\u044e\u0442",
       "url": "https://open.spotify.com/track/6OUmc3Awt5z95vCldG1tQz"
@@ -32120,7 +32156,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-23",
       "duration_ms": 86910,
       "name": "\u041d\u0435 \u0431\u044b\u043b\u043e \u0431\u044b \u0440\u0430\u0437\u043d\u0438\u0446\u044b",
       "url": "https://open.spotify.com/track/6nqwgfRXunJ70wnQfzPqZG"
@@ -33900,7 +33936,7 @@
       ],
       "date_added": "2025-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-05",
+      "date_removed": null,
       "duration_ms": 129235,
       "name": "\u043e\u0442\u0434\u044b\u0445\u0430\u0435\u043c",
       "url": "https://open.spotify.com/track/2vfabMBqINlNeDrVVd8Kj8"
@@ -35464,7 +35500,7 @@
       ],
       "date_added": "2025-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-18",
+      "date_removed": null,
       "duration_ms": 325516,
       "name": "\u041f\u0440\u043e\u0441\u043f\u0430\u043b",
       "url": "https://open.spotify.com/track/6sMGwJLnCUM75e2FoyStyN"
@@ -35794,7 +35830,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-23",
       "duration_ms": 90888,
       "name": "\u0440\u0430\u0441\u043f\u044f\u0442\u044c - folk remix",
       "url": "https://open.spotify.com/track/3jINdvTOF3PHlQouWbJ3rA"

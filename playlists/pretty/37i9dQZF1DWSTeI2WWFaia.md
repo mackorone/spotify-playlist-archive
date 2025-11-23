@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Mick Jenkins
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,577,202 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,577,186 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 43 | [The Louvre](https://open.spotify.com/track/54blTc3AnAVPehzb7u3TDs) | [Statik Selektah](https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [Rome Streetz](https://open.spotify.com/artist/7c0zOr4ffb5eteXrxWt7oB), [Stove God Cooks](https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv) | [The Louvre](https://open.spotify.com/album/6190G0Qx9vwR0gINCGumqH) | 4:09 |
 | 44 | [456 semm](https://open.spotify.com/track/0f0vtIaGiLXakQ1JcjOOiA) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Scarecrows](https://open.spotify.com/album/0z9u5EIOVhX6DPtmw3DiAj) | 3:26 |
 | 45 | [SCARY MERRi](https://open.spotify.com/track/1dcwam7zGPtlDsDUEm2hn5) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Conductor Williams](https://open.spotify.com/artist/1VuBGdfqq86BQyiDactQAC) | [SCARY MERRi](https://open.spotify.com/album/7GMfoOLopVVFdJ3BQdAnx2) | 2:29 |
-| 46 | [Business Merger](https://open.spotify.com/track/5B3I3LGIa6AYixY0JXLlk8) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Business Merger](https://open.spotify.com/album/2GiNskl3pHoXqoy5sSKbbQ) | 3:37 |
-| 47 | [Small Talk](https://open.spotify.com/track/7qGSwh7ZhKy0iHIXsDfn0N) | [Ovrkast.](https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7), [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [Small Talk](https://open.spotify.com/album/4uFrzWn4YGeEgtugDyhcmB) | 3:13 |
+| 46 | [Small Talk](https://open.spotify.com/track/7qGSwh7ZhKy0iHIXsDfn0N) | [Ovrkast.](https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7), [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [Small Talk](https://open.spotify.com/album/4uFrzWn4YGeEgtugDyhcmB) | 3:13 |
+| 47 | [Business Merger](https://open.spotify.com/track/5B3I3LGIa6AYixY0JXLlk8) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Business Merger](https://open.spotify.com/album/2GiNskl3pHoXqoy5sSKbbQ) | 3:37 |
 | 48 | [Letters \(feat\. Rachel Robinson\)](https://open.spotify.com/track/0xg25m2SiZJkAXEXAcURNb) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Rachel Robinson](https://open.spotify.com/artist/2dFERzp3MC4j4iOT8iqmHw) | [STAR LINE](https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h) | 4:11 |
-| 49 | [Landgrab](https://open.spotify.com/track/3pLwsRkN3XblUXuUUqPqFR) | [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Landgrab](https://open.spotify.com/album/6DiccF2KOwPAD1i1oFRNuq) | 1:28 |
-| 50 | [The Omerta](https://open.spotify.com/track/0LI7gvHXbBvt6e8EORDzA1) | [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [The Emperor's New Clothes](https://open.spotify.com/album/1hI8tHkf2aBl1zgjMblfck) | 3:18 |
+| 49 | [The Omerta](https://open.spotify.com/track/0LI7gvHXbBvt6e8EORDzA1) | [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [The Emperor's New Clothes](https://open.spotify.com/album/1hI8tHkf2aBl1zgjMblfck) | 3:18 |
+| 50 | [Landgrab](https://open.spotify.com/track/3pLwsRkN3XblUXuUUqPqFR) | [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Landgrab](https://open.spotify.com/album/6DiccF2KOwPAD1i1oFRNuq) | 1:28 |
 
 Snapshot ID: `AAAAAAPMv91yRMoa0VIPiAn+jLvHq/h6`

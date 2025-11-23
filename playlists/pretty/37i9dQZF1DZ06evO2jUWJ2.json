@@ -1,12 +1,12 @@
 {
   "description": "This is Elevation Worship. The essential tracks, all in one playlist.",
-  "num_followers": 313091,
+  "num_followers": 313141,
   "original_name": "This Is Elevation Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aR5aAAAAAAALAGEGmG896CjuKMven3CK",
+  "snapshot_id": "aR+rgAAAAAA5uhVivCzDBua5IPZrNL+Y",
   "tracks": [
     {
       "added_at": null,
@@ -947,18 +947,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hallelujah Here Below",
-        "url": "https://open.spotify.com/album/3gFcCl38Vch9JlHDP2WktC"
+        "name": "Mil Generaciones",
+        "url": "https://open.spotify.com/album/7He2T1RondwBwTaEofMIsA"
       },
       "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Essential Worship",
+          "url": "https://open.spotify.com/artist/5ovBCDCRU118CMxJ1KpAOw"
+        },
         {
           "name": "Elevation Worship",
           "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
         }
       ],
-      "duration_ms": 424754,
-      "name": "Won't Stop Now",
-      "url": "https://open.spotify.com/track/6LKjIAHCnZjaB4BfEIFHrW"
+      "duration_ms": 294253,
+      "name": "Tumbas A Jardines (feat. Elevation Worship)",
+      "url": "https://open.spotify.com/track/0RHSDsa4EkiNBC0UJtGn7l"
     },
     {
       "added_at": null,
@@ -1007,26 +1015,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mil Generaciones",
-        "url": "https://open.spotify.com/album/7He2T1RondwBwTaEofMIsA"
+        "name": "Hallelujah Here Below",
+        "url": "https://open.spotify.com/album/3gFcCl38Vch9JlHDP2WktC"
       },
       "artists": [
-        {
-          "name": "Miel San Marcos",
-          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
-        },
-        {
-          "name": "Essential Worship",
-          "url": "https://open.spotify.com/artist/5ovBCDCRU118CMxJ1KpAOw"
-        },
         {
           "name": "Elevation Worship",
           "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
         }
       ],
-      "duration_ms": 294253,
-      "name": "Tumbas A Jardines (feat. Elevation Worship)",
-      "url": "https://open.spotify.com/track/0RHSDsa4EkiNBC0UJtGn7l"
+      "duration_ms": 424754,
+      "name": "Won't Stop Now",
+      "url": "https://open.spotify.com/track/6LKjIAHCnZjaB4BfEIFHrW"
     }
   ],
   "unique_name": "This Is Elevation Worship",

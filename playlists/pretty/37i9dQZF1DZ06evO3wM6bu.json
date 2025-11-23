@@ -1,12 +1,12 @@
 {
   "description": "This is Westlife. The essential tracks, all in one playlist.",
-  "num_followers": 492440,
+  "num_followers": 492472,
   "original_name": "This Is Westlife",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aR5aAAAAAADlHv8A5F62Xy0TvH9cOg8x",
+  "snapshot_id": "aR+rgAAAAAC38p6/rpQD5F0SF00S0Ih9",
   "tracks": [
     {
       "added_at": null,
@@ -763,26 +763,6 @@
       "duration_ms": 237533,
       "name": "Leaving",
       "url": "https://open.spotify.com/track/79totVEHvQwTDdgXCXLUMw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Love Album",
-        "url": "https://open.spotify.com/album/714ejRNfL8eCRvgIKeOMqj"
-      },
-      "artists": [
-        {
-          "name": "Westlife",
-          "url": "https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY"
-        },
-        {
-          "name": "Quiz & Larossi",
-          "url": "https://open.spotify.com/artist/57yS632mgjWmcc2bZE3HRc"
-        }
-      ],
-      "duration_ms": 207373,
-      "name": "You Light Up My Life",
-      "url": "https://open.spotify.com/track/05V504yIG0sUEKvUcA89GC"
     }
   ],
   "unique_name": "This Is Westlife",

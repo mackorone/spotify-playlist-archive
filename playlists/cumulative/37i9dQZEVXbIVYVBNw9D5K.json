@@ -7744,7 +7744,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-23",
       "duration_ms": 203653,
       "name": "D\u00f6nsen Bile",
       "url": "https://open.spotify.com/track/6Ear9bhjbNi2oaqv5qlqlM"
@@ -8232,7 +8232,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-23",
       "duration_ms": 264600,
       "name": "ELA MANA",
       "url": "https://open.spotify.com/track/4uxsrixGArx2vuhjssHDVP"
@@ -8780,7 +8780,7 @@
       ],
       "date_added": "2025-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-23",
       "duration_ms": 174762,
       "name": "E\u011eME BOYUN",
       "url": "https://open.spotify.com/track/2QDSRyIio26v05eRWuBSjS"
@@ -11075,6 +11075,24 @@
     },
     {
       "album": {
+        "name": "MI AMOR",
+        "url": "https://open.spotify.com/album/5IDKwTjvOuxO2PQThAAc7y"
+      },
+      "artists": [
+        {
+          "name": "Era7capone",
+          "url": "https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM"
+        }
+      ],
+      "date_added": "2025-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118064,
+      "name": "HALLETT\u0130M",
+      "url": "https://open.spotify.com/track/7pMTiGccgdL0PIvV21LSxN"
+    },
+    {
+      "album": {
         "name": "Hanfendi",
         "url": "https://open.spotify.com/album/4nZp7Xg669hPPyPjRV4Rzz"
       },
@@ -11902,6 +11920,28 @@
       "duration_ms": 185333,
       "name": "Herkes Gibisin",
       "url": "https://open.spotify.com/track/7jnN5sT8rk6PIvBZRWYdJj"
+    },
+    {
+      "album": {
+        "name": "herkes kendine yak\u0131\u015fan\u0131 yaps\u0131n",
+        "url": "https://open.spotify.com/album/4cPU2kRpX5RPCW9m6SwhuL"
+      },
+      "artists": [
+        {
+          "name": "Organize",
+          "url": "https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3"
+        },
+        {
+          "name": "Waxy",
+          "url": "https://open.spotify.com/artist/6vHGyEavhmG06FNpoUPUMi"
+        }
+      ],
+      "date_added": "2025-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142680,
+      "name": "herkes kendine yak\u0131\u015fan\u0131 yaps\u0131n",
+      "url": "https://open.spotify.com/track/38evhex5V6BPZumBToe7SY"
     },
     {
       "album": {
@@ -14406,7 +14446,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-07",
+      "date_removed": null,
       "duration_ms": 107658,
       "name": "KAYKAY",
       "url": "https://open.spotify.com/track/6rRlb4jHYWovtdI4PJnr5q"
@@ -16972,7 +17012,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-23",
       "duration_ms": 78927,
       "name": "MERMER",
       "url": "https://open.spotify.com/track/4UzAPluTbjdlyyhfE00REO"
@@ -20170,6 +20210,28 @@
       "duration_ms": 188589,
       "name": "RUJ",
       "url": "https://open.spotify.com/track/3SJ6Dk9v81DxV9ugOTXSZk"
+    },
+    {
+      "album": {
+        "name": "RUM RUM RUM",
+        "url": "https://open.spotify.com/album/2D0P6Zld45OGHM5U681baV"
+      },
+      "artists": [
+        {
+          "name": "Lvbel C5",
+          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+        },
+        {
+          "name": "AKDO",
+          "url": "https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0"
+        }
+      ],
+      "date_added": "2025-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97038,
+      "name": "RUM RUM RUM",
+      "url": "https://open.spotify.com/track/1znFEd8bSZEYQp3QEhXzoZ"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 70640,
+  "num_followers": 70648,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
@@ -771,6 +771,22 @@
     {
       "added_at": "2025-10-24 18:39:08",
       "album": {
+        "name": "Deixa Estar (Sha la la)",
+        "url": "https://open.spotify.com/album/3ZhTlCzRUXYaLyWLavKKqQ"
+      },
+      "artists": [
+        {
+          "name": "Os Fugitivos",
+          "url": "https://open.spotify.com/artist/0JCwkTQqtgVQXBRxwEloEg"
+        }
+      ],
+      "duration_ms": 325500,
+      "name": "Deixa Estar (Sha la la)",
+      "url": "https://open.spotify.com/track/1EHIcTGfRgNegmhJYbdEEX"
+    },
+    {
+      "added_at": "2025-10-24 18:39:08",
+      "album": {
         "name": "V\u00edcios q eu gosto",
         "url": "https://open.spotify.com/album/5VabHZWJ63oMysUQC7ULsN"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 152571,
       "name": "V\u00edcios q eu gosto",
       "url": "https://open.spotify.com/track/7E2VYyqSttr2ixmQuVKkmJ"
-    },
-    {
-      "added_at": "2025-10-24 18:39:08",
-      "album": {
-        "name": "Deixa Estar (Sha la la)",
-        "url": "https://open.spotify.com/album/3ZhTlCzRUXYaLyWLavKKqQ"
-      },
-      "artists": [
-        {
-          "name": "Os Fugitivos",
-          "url": "https://open.spotify.com/artist/0JCwkTQqtgVQXBRxwEloEg"
-        }
-      ],
-      "duration_ms": 325500,
-      "name": "Deixa Estar (Sha la la)",
-      "url": "https://open.spotify.com/track/1EHIcTGfRgNegmhJYbdEEX"
     },
     {
       "added_at": "2025-10-24 18:39:08",

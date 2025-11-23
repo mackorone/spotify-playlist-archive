@@ -996,7 +996,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-23",
       "duration_ms": 232775,
       "name": "And The Lake Was...",
       "url": "https://open.spotify.com/track/1gr1pLxrhTjzpmq2WPDhRW"
@@ -6752,7 +6752,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2025-11-15",
+      "date_removed": null,
       "duration_ms": 216000,
       "name": "Flips and Flops, Drips and Drops",
       "url": "https://open.spotify.com/track/06iwhAevuCgupNwTg3wSC3"
@@ -11008,7 +11008,7 @@
       ],
       "date_added": "2019-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-23",
       "duration_ms": 212044,
       "name": "Machine Keys",
       "url": "https://open.spotify.com/track/7L96oyotFbLOxKAfywRczR"
@@ -18826,6 +18826,24 @@
       "duration_ms": 224303,
       "name": "The Path Less Travelled",
       "url": "https://open.spotify.com/track/18cm1ZEAPohP5fWo0o0RAe"
+    },
+    {
+      "album": {
+        "name": "The Peaks",
+        "url": "https://open.spotify.com/album/4RM8fjf08QwL3bz353V13C"
+      },
+      "artists": [
+        {
+          "name": "Art School Girlfriend",
+          "url": "https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266393,
+      "name": "The Peaks",
+      "url": "https://open.spotify.com/track/05i0ZEreamMoo1NAJTY3sR"
     },
     {
       "album": {

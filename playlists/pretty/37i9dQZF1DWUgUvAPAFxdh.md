@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgUvAPAFxdh.md) - [plain]
 
 > The story of Cal Kestis continues in Star Wars Jedi: Survivor, a third person galaxy\-spanning action\-adventure game from Respawn Entertainment, developed in collaboration with Lucasfilm Games.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,866 likes - 59 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,870 likes - 59 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

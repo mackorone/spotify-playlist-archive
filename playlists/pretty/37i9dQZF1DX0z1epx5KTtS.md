@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 
 > The best of Coupé Décalé and Biama from the continent to Paris\. Photo : Safarel Obiang
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,805 likes - 40 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,891 likes - 40 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 | 5 | [Passer à coté](https://open.spotify.com/track/4L1HVDYcQdB30NwIjHWJhy) | [Taf La Référence](https://open.spotify.com/artist/5CtDNucB5geU4uqT0SuqZv) | [Passer à coté](https://open.spotify.com/album/6O8hSo39PIBT9LrEdQJ80F) | 2:17 |
 | 6 | [Dos de chat](https://open.spotify.com/track/4c0hSRKfYD37ZEVN8KzLzL) | [Renard Barakissa](https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj) | [Dos de chat](https://open.spotify.com/album/5Y8wOOM07VtkJ47PRJ9GPf) | 3:19 |
 | 7 | [Taper Dedans](https://open.spotify.com/track/5ZL0TuUEiQAxOXmQOe2VX3) | [Bebi Philip](https://open.spotify.com/artist/4DPAkF8h2JInYO0wOLQhRt) | [Taper Dedans](https://open.spotify.com/album/5LDXH3W3AhhePbIBFTUmbN) | 3:08 |
-| 8 | [Track 9](https://open.spotify.com/track/2fyfSbf6jsixylBUff0E0m) | [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq) | [](https://open.spotify.com/album/null) | 0:00 |
+| 8 | [Les Jaloux](https://open.spotify.com/track/2fyfSbf6jsixylBUff0E0m) | [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq) | [RÉSONANCE](https://open.spotify.com/album/3oTWVmJQnrNaRlyqiyarha) | 2:42 |
 | 9 | [Chebaba](https://open.spotify.com/track/2GrBcbY5ui7yYD9cz1qalO) | [DOUPI PAPILLON](https://open.spotify.com/artist/0Ndfw3wuP0M6OTL0jv96le) | [Chebaba](https://open.spotify.com/album/1oxFxatESpXiF5NxLToR74) | 3:22 |
 | 10 | [Manger la vie](https://open.spotify.com/track/6qn92Gi1AjfrCNdquj4zJn) | [Team Paiya](https://open.spotify.com/artist/5UGLLBEL0U3j4OzxxgVTmk), [Team 2 poy](https://open.spotify.com/artist/4dqGz3Bm6XlgOUNXWSeuox), [Tazeboy](https://open.spotify.com/artist/1AmK5toq2JV8BT9tCkDFAa) | [Manger la vie](https://open.spotify.com/album/3BNjYbqQZAE8XlVyrE0hhm) | 2:37 |
 | 11 | [Djeneba Djaba](https://open.spotify.com/track/6Pt5lnHwIUAfnEXItAjmfp) | [Debordo Leekunfa](https://open.spotify.com/artist/5FifERNGZjGW4axWwm0Q8f) | [Djeneba Djaba](https://open.spotify.com/album/4y5SQcEOQN25EhFMYt3XpD) | 2:59 |

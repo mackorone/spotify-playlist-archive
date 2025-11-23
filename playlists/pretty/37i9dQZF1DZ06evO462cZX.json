@@ -1,13 +1,33 @@
 {
   "description": "This is Deorro. The essential tracks, all in one playlist.",
-  "num_followers": 44621,
+  "num_followers": 44634,
   "original_name": "This Is Deorro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aR5aAAAAAACyxUK5fhqxexJD3hYu0Ghh",
+  "snapshot_id": "aR+rgAAAAAC40VrBDsotLMvqOpjHKvYH",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Tomate",
+        "url": "https://open.spotify.com/album/31ADV8Q4Xn6eqxaB6l4I1f"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 259708,
+      "name": "El Tomate",
+      "url": "https://open.spotify.com/track/3ZpMX9D7h8racm8EJiE5dw"
+    },
     {
       "added_at": null,
       "album": {
@@ -311,6 +331,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "TUCU",
+        "url": "https://open.spotify.com/album/6gvcAokwMdqpUDuVVROtc8"
+      },
+      "artists": [
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 158035,
+      "name": "TUCU",
+      "url": "https://open.spotify.com/track/4P9Bnk2M9nmYdXuqoItRDA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bring It Back (feat. Max Styler)",
         "url": "https://open.spotify.com/album/6orvX1pLBGiiHQiSc1eEr8"
       },
@@ -335,22 +375,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "TUCU",
-        "url": "https://open.spotify.com/album/6gvcAokwMdqpUDuVVROtc8"
+        "name": "OE OE (Deorro Remix)",
+        "url": "https://open.spotify.com/album/6gsQLvZyNE3Kx9MQIuFpEc"
       },
       "artists": [
         {
-          "name": "Dani Flow",
-          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Louis BPM",
+          "url": "https://open.spotify.com/artist/54NBSkiOmMBEfacGfefPq0"
         },
         {
           "name": "Deorro",
           "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
         }
       ],
-      "duration_ms": 158035,
-      "name": "TUCU",
-      "url": "https://open.spotify.com/track/4P9Bnk2M9nmYdXuqoItRDA"
+      "duration_ms": 206769,
+      "name": "OE OE - Deorro Remix",
+      "url": "https://open.spotify.com/track/2ps5eo4OC4U6oyxAWVZ6Cs"
     },
     {
       "added_at": null,
@@ -375,30 +419,6 @@
       "duration_ms": 174555,
       "name": "Como La Flor",
       "url": "https://open.spotify.com/track/2rtNhMuH01qb1riJvC6wJR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "OE OE (Deorro Remix)",
-        "url": "https://open.spotify.com/album/6gsQLvZyNE3Kx9MQIuFpEc"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Louis BPM",
-          "url": "https://open.spotify.com/artist/54NBSkiOmMBEfacGfefPq0"
-        },
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 206769,
-      "name": "OE OE - Deorro Remix",
-      "url": "https://open.spotify.com/track/2ps5eo4OC4U6oyxAWVZ6Cs"
     },
     {
       "added_at": null,
@@ -959,42 +979,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All This Time",
-        "url": "https://open.spotify.com/album/0gJoQZxblePiQK1nBisINs"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 225159,
-      "name": "All This Time",
-      "url": "https://open.spotify.com/track/1tq4UL9BB7BHuT6eorlX3X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ORRO",
-        "url": "https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Jeon",
-          "url": "https://open.spotify.com/artist/3ECsaSd1fom8coUUkkFzqt"
-        }
-      ],
-      "duration_ms": 187272,
-      "name": "Rumba (feat. Jeon)",
-      "url": "https://open.spotify.com/track/3UC7By0PrxjqLgsqnQiRwk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shakalaka (feat. Max Styler)",
         "url": "https://open.spotify.com/album/7eeEr1m8ULIGEzoYLNh4HY"
       },
@@ -1023,6 +1007,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "ORRO",
+        "url": "https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Jeon",
+          "url": "https://open.spotify.com/artist/3ECsaSd1fom8coUUkkFzqt"
+        }
+      ],
+      "duration_ms": 187272,
+      "name": "Rumba (feat. Jeon)",
+      "url": "https://open.spotify.com/track/3UC7By0PrxjqLgsqnQiRwk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All This Time",
+        "url": "https://open.spotify.com/album/0gJoQZxblePiQK1nBisINs"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 225159,
+      "name": "All This Time",
+      "url": "https://open.spotify.com/track/1tq4UL9BB7BHuT6eorlX3X"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "De M\u00fasica Ligera",
         "url": "https://open.spotify.com/album/43XjEzLIOIU3xBqE2GMrKB"
       },
@@ -1043,34 +1063,6 @@
       "duration_ms": 193906,
       "name": "De M\u00fasica Ligera",
       "url": "https://open.spotify.com/track/3h3CZSh3SP1et9rBQlxLMG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Random White Dude Be Everywhere",
-        "url": "https://open.spotify.com/album/4c7lxBZCbR8SQsoVvO2lCb"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Steve Bays",
-          "url": "https://open.spotify.com/artist/6vomg8FUuwmHqjYSQXL6SO"
-        }
-      ],
-      "duration_ms": 281250,
-      "name": "Freak (feat. Steve Bays)",
-      "url": "https://open.spotify.com/track/0GATmBanwPiHQBfl2mDq3o"
     }
   ],
   "unique_name": "This Is Deorro",

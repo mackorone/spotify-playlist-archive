@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 
 > 'Tis the season! All new holiday releases\. Cover: Meghan Trainor
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,332 likes - 173 songs - 9 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,745 likes - 173 songs - 9 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 79 | [Christmas I Won’t Forget](https://open.spotify.com/track/6x4zQrucnpYoetK1S4lZSz) | [Liamani](https://open.spotify.com/artist/3aN48TzSXlQbemkDdIBO2v) | [Christmas I Won’t Forget](https://open.spotify.com/album/2k6rZUbWAfpbSt1406Pqme) | 2:22 |
 | 80 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/6oziGeTRE66xhvwUBNxWy5) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [A Tyler Shaw Christmas](https://open.spotify.com/album/3FZoAjWQNUMJy3DmbV9xX8) | 2:45 |
 | 81 | [Christmas of Love](https://open.spotify.com/track/7M8e0kbTx1f6enqcwQ1YgC) | [Sarah Cothran](https://open.spotify.com/artist/3kft86DbqCNr7rjq3pEj0G) | [Christmas of Love](https://open.spotify.com/album/5VZz25MUGdHfvxmKfhb5M2) | 2:03 |
-| 82 | [Snow Is Covering The Mountain](https://open.spotify.com/track/5LoGNsKdrVrmKD6atS2yDH) | [Roxane](https://open.spotify.com/artist/5Gr80iuuvY4PmSLDoIx4WD) | [Snow Is Covering The Mountain](https://open.spotify.com/album/4IROKzK0gUxZRm3oSDffaZ) | 4:18 |
+| 82 | [Snow Is Covering The Mountain](https://open.spotify.com/track/5LoGNsKdrVrmKD6atS2yDH) | [Roxane](https://open.spotify.com/artist/5Gr80iuuvY4PmSLDoIx4WD) | [Snow Is Covering The Mountain](https://open.spotify.com/album/4IROKzK0gUxZRm3oSDffaZ) | 4:12 |
 | 83 | [Peace, Love, and Cowboys \- Holiday Edition](https://open.spotify.com/track/47uI5J1L1XdUpxW1ljuXH3) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Peace, Love, and Cowboys \(Holiday Edition\)](https://open.spotify.com/album/1gpUamRdguofn1d7duASk0) | 3:33 |
 | 84 | [Santa Darlin'](https://open.spotify.com/track/1BRJNEMAaK03TE7iwy7kHU) | [Victoria Justice](https://open.spotify.com/artist/2OTfr6S2kuHRYStjt1IkY6) | [Santa Darlin'](https://open.spotify.com/album/4ZgmRVmRgkhKjym31uEX77) | 2:25 |
 | 85 | [All I Want](https://open.spotify.com/track/15fxw0mFFiRY8cb70WYCWe) | [Honey Bxby](https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO) | [All I Want](https://open.spotify.com/album/2xGySBo8eKq9W6JI9BMQSt) | 3:26 |

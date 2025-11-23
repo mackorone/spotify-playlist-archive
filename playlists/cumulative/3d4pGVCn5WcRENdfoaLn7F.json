@@ -625,6 +625,24 @@
     },
     {
       "album": {
+        "name": "In Gloom",
+        "url": "https://open.spotify.com/album/3Fs2fNTaVEZ1YCBECXyNGr"
+      },
+      "artists": [
+        {
+          "name": "Margarida The Cat",
+          "url": "https://open.spotify.com/artist/31DECbEW8piJ1XXK1wPulZ"
+        }
+      ],
+      "date_added": "2025-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201410,
+      "name": "In Gloom",
+      "url": "https://open.spotify.com/track/7BIBJ6btwFZHRPAH5qdqli"
+    },
+    {
+      "album": {
         "name": "Planned Obsolescence",
         "url": "https://open.spotify.com/album/4DOu5lRGwahVpAoUewAFN2"
       },

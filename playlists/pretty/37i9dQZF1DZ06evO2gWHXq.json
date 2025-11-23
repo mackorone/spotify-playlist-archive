@@ -1,12 +1,12 @@
 {
   "description": "This is MC Davo. The essential tracks, all in one playlist.",
-  "num_followers": 227663,
+  "num_followers": 227669,
   "original_name": "This Is MC Davo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aR5aAAAAAADxw/Gr4TddCQ10ACdNtMEm",
+  "snapshot_id": "aR+rgAAAAADT/FarcRBqaPg1TtLS9ONt",
   "tracks": [
     {
       "added_at": null,
@@ -31,6 +31,30 @@
       "duration_ms": 202597,
       "name": "No Que No Eras Fan",
       "url": "https://open.spotify.com/track/72KBDC6feOjHbiQ3x1jJ2N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tengo Que Probar",
+        "url": "https://open.spotify.com/album/6RaWvAhFPcp3AthMNLi9ob"
+      },
+      "artists": [
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        },
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "Sandro Malandro",
+          "url": "https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Tengo Que Probar",
+      "url": "https://open.spotify.com/track/0iRtpJoX4pVQx3vUHzaNSU"
     },
     {
       "added_at": null,
@@ -1215,26 +1239,6 @@
       "duration_ms": 216263,
       "name": "Lo Que Antes Eramos",
       "url": "https://open.spotify.com/track/0W9CE8nRywgykCOnz8mVvE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Morro Dolido",
-        "url": "https://open.spotify.com/album/3ijLDnCY3DxAvdFzFpcuq4"
-      },
-      "artists": [
-        {
-          "name": "Picus",
-          "url": "https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt"
-        },
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 194560,
-      "name": "Morro Dolido",
-      "url": "https://open.spotify.com/track/0UijcdiQn3GWgZruY5MPAy"
     }
   ],
   "unique_name": "This Is MC Davo",

@@ -9201,6 +9201,24 @@
     },
     {
       "album": {
+        "name": "The Art of Loving",
+        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "date_added": "2025-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "So Easy (To Fall In Love)",
+      "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
+    },
+    {
+      "album": {
         "name": "THE TORTURED POETS DEPARTMENT",
         "url": "https://open.spotify.com/album/3f6e4wXxxi4ahqWsSU7OpT"
       },
@@ -15054,7 +15072,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-23",
       "duration_ms": 188020,
       "name": "\u05d4\u05d0\u05d1\u05d9",
       "url": "https://open.spotify.com/track/0hliYGBRdUfadM7y9mUkGe"
@@ -19314,7 +19332,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-23",
       "duration_ms": 172941,
       "name": "\u05de\u05d3\u05d0\u05dd",
       "url": "https://open.spotify.com/track/02mgxr6NgCwAVtuLtttDUB"
@@ -23610,7 +23628,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-22",
+      "date_removed": null,
       "duration_ms": 170054,
       "name": "\u05e8\u05d5\u05d6\u05d4",
       "url": "https://open.spotify.com/track/6gGbQIKS0dyNQrJfUatt46"
@@ -23664,7 +23682,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-23",
       "duration_ms": 178409,
       "name": "\u05e8\u05d5\u05e7\u05d3 \u05dc\u05d9 \u05e2\u05dc \u05d4\u05e2\u05e6\u05d1",
       "url": "https://open.spotify.com/track/5R2KoD3IlLRvCPHVhwdaEe"
@@ -23682,7 +23700,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-23",
       "duration_ms": 241626,
       "name": "\u05e8\u05d5\u05e7\u05d3 \u05e2\u05dd \u05d4\u05db\u05d0\u05d1",
       "url": "https://open.spotify.com/track/4ra4WsUIRDxIQ6p0l5t276"
@@ -25000,7 +25018,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-10",
+      "date_removed": null,
       "duration_ms": 199880,
       "name": "\u05ea\u05d5\u05db\u05d5 \u05e8\u05e6\u05d5\u05e3 \u05d0\u05d4\u05d1\u05d4",
       "url": "https://open.spotify.com/track/1QP8gp1xtid9iE9L7SzB8e"
@@ -25182,7 +25200,7 @@
       ],
       "date_added": "2024-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-19",
+      "date_removed": null,
       "duration_ms": 172694,
       "name": "\u05ea\u05de\u05d9\u05d3 \u05d0\u05d5\u05d4\u05d1 \u05d0\u05d5\u05ea\u05d9",
       "url": "https://open.spotify.com/track/3CZdlwKHGTvfveatbfKD3q"

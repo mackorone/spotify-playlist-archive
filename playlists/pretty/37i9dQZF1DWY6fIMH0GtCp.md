@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6fIMH0GtCp.md) - [plain]
 
 > This Hanukkah playlist features all the classics and the funny favorites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,497 likes - 57 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,510 likes - 57 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6fIMH0GtCp.md) - [plain]
 | 12 | [A Wicked Chanukah](https://open.spotify.com/track/0tBg0f183GHl1BecYqfk1D) | [Six13](https://open.spotify.com/artist/2H6beCAq0056SYdlQmlfEr) | [A Wicked Chanukah](https://open.spotify.com/album/5zSYE8VuuxuFBvfvpi31hB) | 4:32 |
 | 13 | [Ocho Kandelikas](https://open.spotify.com/track/6YIgAkok2YBMlyheciDhS6) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [Christmas: A Season Of Love](https://open.spotify.com/album/2iaVsgsBIrCnxTksOl0Muz) | 3:17 |
 | 14 | [How Do You Spell Channukkahh?](https://open.spotify.com/track/3ZjCGpTXLUpg7cAaZzgwBP) | [The LeeVees](https://open.spotify.com/artist/3YjhwlHwXH3lSZHHDwU4V8) | [Hanukkah Rocks](https://open.spotify.com/album/7rD2aU8WJriQiZQtdJsBfC) | 4:54 |
-| 15 | [חנוכה](https://open.spotify.com/track/4VDrcf17m0AE6CMekgvCAA) | [Static & Ben El](https://open.spotify.com/artist/0xHa28taiElkcQf9o3z76g) | [חנוכה](https://open.spotify.com/album/6teleymeiKKchMbvIKodcQ) | 3:01 |
+| 15 | [חנוכה](https://open.spotify.com/track/4VDrcf17m0AE6CMekgvCAA) | [Static](https://open.spotify.com/artist/5Ea0d3mUECVaMf8h2DTehE), [Ben El](https://open.spotify.com/artist/6KyByiM5jFKKaeNJabYUYR) | [חנוכה](https://open.spotify.com/album/6teleymeiKKchMbvIKodcQ) | 3:01 |
 | 16 | [Candlelight](https://open.spotify.com/track/2Ekl7Ba3ci3pEZm3JzKhFw) | [Maccabeats](https://open.spotify.com/artist/2plllpJj0sU7FsdZrn8EHq) | [Hanukkah Anthology](https://open.spotify.com/album/7kGSCJSWbgcNd7nt6CPEqX) | 3:21 |
 | 17 | [Hanukkah, Oh Hanukkah](https://open.spotify.com/track/58r8dYXFBGvbw0rZ06gcnT) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm) | [Glee: The Music, The Christmas Album Vol\. 3](https://open.spotify.com/album/5msQHy2ZV5LjOdeqbYZl9y) | 2:08 |
 | 18 | [If It Be Your Will](https://open.spotify.com/track/2PpXsTMyaWAY4005WObBfR) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Hanukkah+](https://open.spotify.com/album/75tzhQxgxrZkqfIb4fE5rT) | 3:42 |

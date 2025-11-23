@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 
 > Electrónica Nacional, nuevos lanzamientos todas las semanas.<br/>📸 Mariano Mellino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,267 likes - 103 songs - 9 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,275 likes - 103 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

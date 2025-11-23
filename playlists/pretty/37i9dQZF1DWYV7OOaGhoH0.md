@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 
 > The best in folk & acoustic today featuring music from Hudson Freeman
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,728,368 likes - 105 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,728,333 likes - 105 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

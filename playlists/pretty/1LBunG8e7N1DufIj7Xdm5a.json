@@ -1,12 +1,12 @@
 {
   "description": "playlist spotify free",
-  "num_followers": 226,
+  "num_followers": 227,
   "original_name": "playlist spotify free",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAGEJDTy8lcZar3xHETnGf4x3fYCGC2",
+  "snapshot_id": "AAAGEvZ0AnNXstyOfKduuopk2qw2qVnX",
   "tracks": [
     {
       "added_at": "2025-11-20 21:01:52",
@@ -59119,6 +59119,38 @@
       "duration_ms": 181080,
       "name": "Sally Feels Bad",
       "url": "https://open.spotify.com/track/1TENNU3Fu2aRkdenYTS4ty"
+    },
+    {
+      "added_at": "2025-11-22 08:29:59",
+      "album": {
+        "name": "Don (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6MibEnOr23j05OsCcR8UJB"
+      },
+      "artists": [
+        {
+          "name": "Ash",
+          "url": "https://open.spotify.com/artist/1oNJRkVDb7UEvRpPp4rNff"
+        }
+      ],
+      "duration_ms": 171549,
+      "name": "Forever 2",
+      "url": "https://open.spotify.com/track/5fF3AiCMkUeqEIl9C1p9PL"
+    },
+    {
+      "added_at": "2025-11-22 15:30:31",
+      "album": {
+        "name": "\u0421\u043a\u0430\u0437\u043a\u0430, \u043c\u0438\u043b\u0430\u044f \u0441\u043a\u0430\u0437\u043a\u0430",
+        "url": "https://open.spotify.com/album/1hbYA2nWzZL8IgiqE9uVpv"
+      },
+      "artists": [
+        {
+          "name": "Kutas",
+          "url": "https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq"
+        }
+      ],
+      "duration_ms": 271204,
+      "name": "\u0421\u043a\u0430\u0437\u043a\u0430, \u043c\u0438\u043b\u0430\u044f \u0441\u043a\u0430\u0437\u043a\u0430",
+      "url": "https://open.spotify.com/track/43bdnp7HlUWMWZRg6j0A4s"
     }
   ],
   "unique_name": "playlist spotify free",

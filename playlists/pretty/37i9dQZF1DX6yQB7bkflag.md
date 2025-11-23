@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: no na
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,042 likes - 144 songs - 8 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,041 likes - 144 songs - 8 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

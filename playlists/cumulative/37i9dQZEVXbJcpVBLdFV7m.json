@@ -3724,7 +3724,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-14",
+      "date_removed": null,
       "duration_ms": 184354,
       "name": "Bez teb",
       "url": "https://open.spotify.com/track/3zlH4fylzmEq4QX6zjn3Ny"
@@ -4496,7 +4496,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-23",
       "duration_ms": 195528,
       "name": "Boom, Boom, Boom, Boom!! - The Dark Triad - HardTekk - Slowed Deluxe",
       "url": "https://open.spotify.com/track/6tFKnu9L5308vTH8NPlcSm"
@@ -15724,7 +15724,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-23",
       "duration_ms": 216746,
       "name": "Join Me - Razorblade Mix",
       "url": "https://open.spotify.com/track/5ooqCHqs4axSJbWqIHfKfB"
@@ -22256,7 +22256,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-23",
       "duration_ms": 191000,
       "name": "Nighthawk - Reprise",
       "url": "https://open.spotify.com/track/1HadQI0LBZKqF2J6iTRn0t"
@@ -26482,7 +26482,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-12",
+      "date_removed": null,
       "duration_ms": 96000,
       "name": "Rottweiler",
       "url": "https://open.spotify.com/track/7mcxFbFdnFFbWwPflgqqKE"
@@ -32268,7 +32268,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-22",
+      "date_removed": null,
       "duration_ms": 416194,
       "name": "Three Seconds To Goodbye",
       "url": "https://open.spotify.com/track/28sZ97rHdGqvfJePnH82mL"
@@ -32298,6 +32298,24 @@
     {
       "album": {
         "name": "Shadows & Soul",
+        "url": "https://open.spotify.com/album/1PihbFD5ixzRI790bozyzx"
+      },
+      "artists": [
+        {
+          "name": "Enlly",
+          "url": "https://open.spotify.com/artist/4hm3WsEjU56qjJHY9vL9Jd"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210522,
+      "name": "Through My Soul",
+      "url": "https://open.spotify.com/track/7Gw9le1yw6MTSzqugtc6E0"
+    },
+    {
+      "album": {
+        "name": "Shadows & Soul",
         "url": "https://open.spotify.com/album/3p4PFOpeBSQ8A1sNGqtX2O"
       },
       "artists": [
@@ -32312,24 +32330,6 @@
       "duration_ms": 210519,
       "name": "Through My Soul",
       "url": "https://open.spotify.com/track/7mSydMVoNUM2N3UzZvmeoC"
-    },
-    {
-      "album": {
-        "name": "Shadows & Soul",
-        "url": "https://open.spotify.com/album/1PihbFD5ixzRI790bozyzx"
-      },
-      "artists": [
-        {
-          "name": "Enlly Blue",
-          "url": "https://open.spotify.com/artist/28W1qq34TByUcLOtkceRxp"
-        }
-      ],
-      "date_added": "2025-09-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 210522,
-      "name": "Through My Soul",
-      "url": "https://open.spotify.com/track/7Gw9le1yw6MTSzqugtc6E0"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/34MpPqqkyDUqlkXJzpMTWg.md) - [plain]
 
 > 2025 is a wrap! Luister hier naar de beste songs van het jaar.
 
-[Digster Nederland](https://open.spotify.com/user/digsternl) - 27,292 likes - 80 songs - 4 hr 11 min
+[Digster Nederland](https://open.spotify.com/user/digsternl) - 27,290 likes - 80 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VHgGvdVgaZ.md) - [plain]
 
 > Instrumental selections from the South Indian school of music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,949 likes - 75 songs - 10 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,956 likes - 75 songs - 10 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,12 +41,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VHgGvdVgaZ.md) - [plain]
 | 31 | [Hamir Kalyani \(Violin Solo\)](https://open.spotify.com/track/5EQTrn2xIK4ZZACJjDOAXn) | [Apoorva Krishna](https://open.spotify.com/artist/3Eg09zCuagz6r7ZGQwj6Zv) | [Apoorva Thillanas](https://open.spotify.com/album/4yyj6gKZvVdbOuYqoqYa6b) | 6:44 |
 | 32 | [Endharo Mahanubhavulu \- Sri \- Adi](https://open.spotify.com/track/0qguzzX3NPA54HNDXpIhtE) | [Flute J A Jayant](https://open.spotify.com/artist/2Qu1IdlO5ujiw2YEQdS6KP) | [Pancharatna Kritis \- A Flute Duet](https://open.spotify.com/album/7LA4l7AXFVJmjlqTJoVQVQ) | 11:52 |
 | 33 | [Ghana Ragamalika Tanam](https://open.spotify.com/track/0QkDTGMqbYEE3tQqpmpWiC) | [Doraiswamy Iyengar](https://open.spotify.com/artist/497X57lLfcatx1iIrTaxZj) | [The Best of Carnatic Instrumental](https://open.spotify.com/album/6rppxMFOu4BttV6Z4QQTjK) | 5:09 |
-| 34 | [Raghuvamsa Sudha \(Raga: Kathanakuthuhalam; Tala: Adi\)](https://open.spotify.com/track/67bcbaq2XTq9b5vENbqCzl) | [Chitti Babu](https://open.spotify.com/artist/6sN7sUcwhJszUfcDdoJ71Z) | [Raghuvamsa Sudha Vol.1](https://open.spotify.com/album/0Uj4B92OarYR2m4CSetQn7) | 9:11 |
-| 35 | [Thatwamaria \- Reeti Gowla \- Adi](https://open.spotify.com/track/1PJmg2Y59CRBhT6wzrAdzl) | [U\. Srinivas](https://open.spotify.com/artist/4vC2GtOXDzAfthZ4gnFowC) | [Compositions Of Papanasam Sivam](https://open.spotify.com/album/47yh0cq6rw9pFurWQPjIG5) | 7:37 |
+| 34 | [Thatwamaria \- Reeti Gowla \- Adi](https://open.spotify.com/track/1PJmg2Y59CRBhT6wzrAdzl) | [U\. Srinivas](https://open.spotify.com/artist/4vC2GtOXDzAfthZ4gnFowC) | [Compositions Of Papanasam Sivam](https://open.spotify.com/album/47yh0cq6rw9pFurWQPjIG5) | 7:37 |
+| 35 | [Raghuvamsa Sudha \(Raga: Kathanakuthuhalam; Tala: Adi\)](https://open.spotify.com/track/67bcbaq2XTq9b5vENbqCzl) | [Chitti Babu](https://open.spotify.com/artist/6sN7sUcwhJszUfcDdoJ71Z) | [Raghuvamsa Sudha Vol.1](https://open.spotify.com/album/0Uj4B92OarYR2m4CSetQn7) | 9:11 |
 | 36 | [Charukesi \(Violin Solo\)](https://open.spotify.com/track/7sbj3epB23VijBZxq8FgNs) | [Apoorva Krishna](https://open.spotify.com/artist/3Eg09zCuagz6r7ZGQwj6Zv) | [Apoorva Thillanas](https://open.spotify.com/album/4yyj6gKZvVdbOuYqoqYa6b) | 6:24 |
 | 37 | [Saadhinchane \- Aarabhi](https://open.spotify.com/track/3agk4o0xCN0MH2yRmpKHsq) | [Flute J A Jayant](https://open.spotify.com/artist/2Qu1IdlO5ujiw2YEQdS6KP) | [Pancharatna Kritis \- A Flute Duet](https://open.spotify.com/album/7LA4l7AXFVJmjlqTJoVQVQ) | 8:47 |
-| 38 | [Ayigiri Nandini](https://open.spotify.com/track/7iCHzlWd2To9Fo54ogIdJf) | [Tyagaraja](https://open.spotify.com/artist/4bL34J5iZitrBLMZ9LZJTu), [K\. S\. G\. Somanathan](https://open.spotify.com/artist/0oJfpDHkMLKr82gj28370X) | [Mangala Naadaswaram \- For Marriages And Auspicious Functions](https://open.spotify.com/album/57Kgxjj6RZsfgSzgsBlTmc) | 3:43 |
-| 39 | [Swara Raga Sankarabharanam Adi Thyagaraja](https://open.spotify.com/track/1dKNRFKU3CV4Xx6Ybiwt3H) | [Sheik Chinna Moulana](https://open.spotify.com/artist/2YrHbZUsTCzHMF09I5m4DZ) | [South Indian Classical Music](https://open.spotify.com/album/0JqUGc58GMCVc8St4UP8u1) | 13:37 |
+| 38 | [Swara Raga Sankarabharanam Adi Thyagaraja](https://open.spotify.com/track/1dKNRFKU3CV4Xx6Ybiwt3H) | [Sheik Chinna Moulana](https://open.spotify.com/artist/2YrHbZUsTCzHMF09I5m4DZ) | [South Indian Classical Music](https://open.spotify.com/album/0JqUGc58GMCVc8St4UP8u1) | 13:37 |
+| 39 | [Ayigiri Nandini](https://open.spotify.com/track/7iCHzlWd2To9Fo54ogIdJf) | [Tyagaraja](https://open.spotify.com/artist/4bL34J5iZitrBLMZ9LZJTu), [K\. S\. G\. Somanathan](https://open.spotify.com/artist/0oJfpDHkMLKr82gj28370X) | [Mangala Naadaswaram \- For Marriages And Auspicious Functions](https://open.spotify.com/album/57Kgxjj6RZsfgSzgsBlTmc) | 3:43 |
 | 40 | [Kriti: Padavini with Vina and Mrdangam](https://open.spotify.com/track/62J1F714qiqQtDfaT2Bs1Q) | [Trichy Sankaran](https://open.spotify.com/artist/5pXWGFz6zZwtMctRbOFcUd) | [Laya Vinyas](https://open.spotify.com/album/16lv6BLMgYb0IN5LvFuODn) | 3:53 |
 | 41 | [Raga Alapana \- Version 2](https://open.spotify.com/track/4Zz4Gbt5WwK25hc7Mc19YQ) | [T\. R\. Mahalingam](https://open.spotify.com/artist/3pIIEzoMgZiupDQsu0CucU), [L\. Subramaniam](https://open.spotify.com/artist/3PwzNTwCiUHdV5hWjwaTfD) | [Inde du sud : Anthologie de la musique classique \(South India\)](https://open.spotify.com/album/6iUn6O1aZJaDuoIQ3YeU9E) | 3:06 |
 | 42 | [Senthamizh](https://open.spotify.com/track/28T2AZC7zmWY9k4KreLNBr) | [Rajhesh Vaidhya](https://open.spotify.com/artist/4ymxXOXgxZVu5dDot8oXuL) | [Bharatiyaar Songs \- Veena](https://open.spotify.com/album/17TcgHNFqFiVOt2SpwMsNO) | 2:47 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GaemWUUQad.md) - [plain]
 
 > Let these songs be your travel partner this Diwali.
 
-[Spotify](https://open.spotify.com/user/spotify) - 256 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 256 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GaemWUUQad.md) - [plain]
 | 47 | [Banjaara](https://open.spotify.com/track/0XjHjMiFErp8ZTOIpA6eRS) | [Sohail Sen](https://open.spotify.com/artist/1bTROl5p3rGTpvKeWnGgrw), [Sukhwinder Singh](https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT), [Neelesh Misra](https://open.spotify.com/artist/72APa8QPdPUhGzNMciz1wI) | [Ek Tha Tiger](https://open.spotify.com/album/1vATJtFK74jkmkg5M8ffvq) | 4:33 |
 | 48 | [Jaane Kyun](https://open.spotify.com/track/6M2UnI1LnXuXlWU54CKmKx) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k) | [Dostana \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4MzefJUmigFTnjful2wuum) | 4:37 |
 | 49 | [Baaraat](https://open.spotify.com/track/0YLSjVxSb5FT1Bo8Tnxr8j) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb), [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh) | [Baaraat](https://open.spotify.com/album/5tJNl2p7wNTuRBvikWFHSn) | 3:42 |
-| 50 | [Saree Ke Fall Sa](https://open.spotify.com/track/6q9Xm2jmdQ3Qi91iQpdHH9) | [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB), [Antara Mitra](https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Mayur Puri](https://open.spotify.com/artist/1XUGerdrjDBJxF9ZfxMqDj) | [R...Rajkumar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/63LbVjB7pLA3acQZuA7Gu7) | 4:00 |
+| 50 | [Pareshaan](https://open.spotify.com/track/5XXJqs7f42R8PAY4Xcr0ax) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Shalmali Kholgade](https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) | [Ishaqzaade](https://open.spotify.com/album/7bJe5O77rwuYETK4zEp9Vu) | 4:52 |
 
 Snapshot ID: `AAAAAJ+tu5ANAu9orQJcTtcFyIHbLAeA`

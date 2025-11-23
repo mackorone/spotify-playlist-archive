@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 
 > Listen to the best songs from faith\-based indie artists\.  Cover: <br/>Dell Mac
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,906 likes - 80 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,923 likes - 80 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 | 79 | [Loose Ends](https://open.spotify.com/track/6Wcxe2Ha7NIyPY6wJAJWFQ) | [eightFour](https://open.spotify.com/artist/73JRUWCiA2RChSaOq9fkKs), [Calah Mikal](https://open.spotify.com/artist/2c2Y05pVIabK1AT1zfsH0h) | [Loose Ends](https://open.spotify.com/album/1B6nPwowC0e5ADxYvet6Tf) | 2:57 |
 | 80 | [Cascade View](https://open.spotify.com/track/6hzt50r5ZdUsQWXwMEsDcR) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Cascade View](https://open.spotify.com/album/4dDCw9RcW3cbVfj02qA6MW) | 2:45 |
 
-Snapshot ID: `AAAAAFLxz/1uT8FUJODMmfq8L2xZ/Fvx`
+Snapshot ID: `AAAAAA9B31DsBzFv5bxu2fEStliRpVQo`

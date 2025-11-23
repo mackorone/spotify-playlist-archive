@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring Memphis LK
 
-[Spotify](https://open.spotify.com/user/spotify) - 476,225 likes - 159 songs - 8 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 476,767 likes - 159 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

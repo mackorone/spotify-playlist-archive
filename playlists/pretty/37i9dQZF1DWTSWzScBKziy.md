@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 
 > All new Contemporary Christian songs on the rise! Cover: Jamie MacDonald
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,732 likes - 74 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,753 likes - 74 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 | 73 | [Will You Let Me](https://open.spotify.com/track/78I0X3v4gdZvFxn7hVTFlI) | [Kylie Odetta](https://open.spotify.com/artist/2meUQKRm9yos5hbsWl9TRq) | [Will You Let Me](https://open.spotify.com/album/2gtI3hI7XHNxZEw7FcApnA) | 4:41 |
 | 74 | [idols](https://open.spotify.com/track/6gJj2m1SMEywchE08sNY5h) | [Stephen Stanley](https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX) | [idols](https://open.spotify.com/album/5UayLEXFF7eInzLYtalNZh) | 2:48 |
 
-Snapshot ID: `AAAAAA0psKiCc3z84Wuj9chnFWMBhgtZ`
+Snapshot ID: `AAAAAGLfVeiWuvahMjv2y8UWi7Ri8QRE`
