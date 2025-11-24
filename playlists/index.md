@@ -1,4 +1,4 @@
-## Playlists \(9008\)
+## Playlists \(9009\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -8472,6 +8472,7 @@
 - [iced matcha dreams 💫](/playlists/pretty/37i9dQZF1DWWMOVAIsOBIW.md)
 - [idek man](/playlists/pretty/2zkfhOwEu0kZdafRiEMP0G.md)
 - [idk.](/playlists/pretty/37i9dQZF1DX59NCqCqJtoH.md)
+- [idk??](/playlists/pretty/2PvcRINiHpzzSWn0k2h8Wc.md)
 - [ily x](/playlists/pretty/37i9dQZF1DX3NTaVu69yI9.md)
 - [im not gay but this doesnt help](/playlists/pretty/0gOulRKExULOXb2olkSdfa.md)
 - [import of The daily dozen \(@pipemanuel10\)](/playlists/pretty/5nz3AAoDyHSidelqd2fnci.md)
