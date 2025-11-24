@@ -4,7 +4,7 @@
 
 > 
 
-58 songs - 3 hr 57 min
+60 songs - 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Defying Gravity \- Acappella](https://open.spotify.com/track/7w4Q5qczL9gCgIyXUJIzLK) | [Jared Halley](https://open.spotify.com/artist/7IvXFbdaAQEFyeB7SSEfCG) | [Defying Gravity \(Acappella\)](https://open.spotify.com/album/0cskxM3g6oJYcTqXTDFXgZ) | 3:08 | 2025-07-13 |  |
 | [Emergence](https://open.spotify.com/track/5NRpxJxtR6JkUhQS4F0um6) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Emergence](https://open.spotify.com/album/7y5CGrH0FgyOVKFtqhCzPH) | 6:26 | 2025-03-13 |  |
 | [Evil Angel](https://open.spotify.com/track/6HDBZFpozQsnYZ88ic250y) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Phobia \(Explicit Version\)](https://open.spotify.com/album/6yJdQMlMkfYJFiSsL6764c) | 3:40 | 2025-07-13 |  |
+| [Fish and Chips](https://open.spotify.com/track/1qKkiLxCfNwOLeQ5XS1rHA) | [Grace Kelly](https://open.spotify.com/artist/7bcjgJLky9kVQ4GcrQTibn), [Leo P](https://open.spotify.com/artist/12lHwk1GMNxnZF6pUMC4Sc) | [Go Time: Brooklyn 2](https://open.spotify.com/album/2JXQkc6uFrKMek2Uly0Ma3) | 5:39 | 2025-11-23 |  |
 | [For Her](https://open.spotify.com/track/5BTWh85WbDMSsQTvkw8WEI) | [Jeremy Jordan](https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub), [Original Broadway Cast of The Great Gatsby \- A New Musical](https://open.spotify.com/artist/7yHJ9NFHBIguBEjpJwRNXM) | [The Great Gatsby \- A New Musical \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1ROa0bSRzWi67kUyzfyfq6) | 3:56 | 2025-10-17 |  |
 | [Frequency](https://open.spotify.com/track/7hVFEyGBDsuejQuj9gUeZI) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [Vessels](https://open.spotify.com/album/4iJ9B2uDKJzclQo7U9BqS8) | 4:41 | 2025-08-11 |  |
 | [Fuck Tha Police](https://open.spotify.com/track/5n8Aro6j1bEGIy7Tpo7FV7) | [N.W.A.](https://open.spotify.com/artist/4EnEZVjo3w1cwcQYePccay) | [Straight Outta Compton](https://open.spotify.com/album/0Y7qkJVZ06tS2GUCDptzyW) | 5:45 | 2025-07-25 | 2025-10-23 |
@@ -64,6 +65,7 @@
 | [Watch What Happens](https://open.spotify.com/track/3fzJcLWDgzx4l1tTdkAxYd) | [Kara Lindsay](https://open.spotify.com/artist/4wwo2P1bzRnLwJwjHrbZnv) | [Newsies \(Original Broadway Cast Recording\)](https://open.spotify.com/album/3hqYvu1aBkroLKzkGM5DSk) | 3:06 | 2025-11-15 |  |
 | [Wet Dreamz](https://open.spotify.com/track/4tqcoej1zPvwePZCzuAjJd) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive](https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG) | 3:59 | 2025-07-22 | 2025-10-23 |
 | [Without a Tribe](https://open.spotify.com/track/1j6P0usrnbCDKNMvocxgxq) | [Royish Good Looks](https://open.spotify.com/artist/08zsyi6FbSP0D1FTrDyo0W) | [Without a Tribe](https://open.spotify.com/album/5PLBQ0CHYtWK82jCyquCvb) | 2:14 | 2025-11-05 |  |
+| [Without You \(4 Tonite\) \- Live](https://open.spotify.com/track/4Ymlnq6LskNxKfn5nCcPSp) | [Lucky Chops](https://open.spotify.com/artist/2b6gc4EVpO6OTlDvKrK852) | [Live at Virtue and Vice Studio](https://open.spotify.com/album/7hoM6KnToWUFhTU77wBgIa) | 4:27 | 2025-11-23 |  |
 | [Would You Fall in Love with Me Again](https://open.spotify.com/track/3iYeXCdD3d0zlex2v0CpVt) | [Jorge Rivera\-Herrans](https://open.spotify.com/artist/2kdmTOXncgNHSuYVMhdd5I), [Anna Lea](https://open.spotify.com/artist/1hOdQnbXBlfZX9JXZk0O1w) | [EPIC: The Ithaca Saga \(Official Concept Album\)](https://open.spotify.com/album/4pCY75ii3U3OnAvSAdYaGU) | 5:45 | 2025-03-17 |  |
 | [You Raise Me Up \- Acappella](https://open.spotify.com/track/4vWouOfTsCekCs9noRYN1O) | [Jared Halley](https://open.spotify.com/artist/7IvXFbdaAQEFyeB7SSEfCG) | [You Raise Me Up \(Acappella\)](https://open.spotify.com/album/1QindxxW68WNO5pNe3vVY2) | 3:51 | 2025-07-13 |  |
 

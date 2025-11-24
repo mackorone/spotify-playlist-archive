@@ -1,6 +1,6 @@
 {
   "description": "Amapiano tracks to fuel your beast mode!",
-  "num_followers": 93496,
+  "num_followers": 93530,
   "original_name": "Beast Mode Amapiano",
   "owner": {
     "name": "Spotify",
@@ -867,6 +867,22 @@
     {
       "added_at": "2025-09-09 11:24:16",
       "album": {
+        "name": "Skontiri",
+        "url": "https://open.spotify.com/album/5o4Kwy9FcyEqqdNHJX1Iml"
+      },
+      "artists": [
+        {
+          "name": "Malumz on Decks",
+          "url": "https://open.spotify.com/artist/3tMHi8yJjkGraZofrKOKGS"
+        }
+      ],
+      "duration_ms": 351000,
+      "name": "Skontiri",
+      "url": "https://open.spotify.com/track/4po57qphS5dHDitAV2JSML"
+    },
+    {
+      "added_at": "2025-09-09 11:24:16",
+      "album": {
         "name": "Umona",
         "url": "https://open.spotify.com/album/2h86FnfcyRYsYWFkoUDq8q"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 368588,
       "name": "Umona",
       "url": "https://open.spotify.com/track/26YYPFHWxEnft8x64CsTxW"
-    },
-    {
-      "added_at": "2025-09-09 11:24:16",
-      "album": {
-        "name": "Skontiri",
-        "url": "https://open.spotify.com/album/5o4Kwy9FcyEqqdNHJX1Iml"
-      },
-      "artists": [
-        {
-          "name": "Malumz on Decks",
-          "url": "https://open.spotify.com/artist/3tMHi8yJjkGraZofrKOKGS"
-        }
-      ],
-      "duration_ms": 351000,
-      "name": "Skontiri",
-      "url": "https://open.spotify.com/track/4po57qphS5dHDitAV2JSML"
     },
     {
       "added_at": "2025-09-09 11:24:16",

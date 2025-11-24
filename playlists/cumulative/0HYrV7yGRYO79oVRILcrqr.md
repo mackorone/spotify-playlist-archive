@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-168 songs - 10 hr 28 min
+171 songs - 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [On The Southern Side Of The Road](https://open.spotify.com/track/20BJZCg4s6SmJs8ThVthqI) | [Little South](https://open.spotify.com/artist/0smwu04kMlybxO205h4D8G) | [On The Southern Side Of The Road](https://open.spotify.com/album/3RQ3spw3yLGclZHbzNiA31) | 3:31 | 2025-10-27 |  |
 | [One Way Out](https://open.spotify.com/track/1NRMj5AyU0Mxni02NSuv6S) | [Jonathan Turk](https://open.spotify.com/artist/3QgYeMYR3iXjFOLewqhpBo) | [Insomnia EP](https://open.spotify.com/album/4ljfufJ969vKljLvyifOh0) | 3:54 | 2025-10-22 |  |
 | [Oneida](https://open.spotify.com/track/7qtMKgEM37EINe75ATzRgE) | [HELLIPSYS](https://open.spotify.com/artist/4BNGDq3fwPHY9QpGdqrAML) | [B.o.t.](https://open.spotify.com/album/3Sse1MujegzywJElFcX4x6) | 5:07 | 2025-09-21 |  |
+| [Ouroboros](https://open.spotify.com/track/23w8U7ujIWpdMlRYazgl1F) | [Synthetic Broadcast](https://open.spotify.com/artist/16H0ape8xiGKFnqUoU6AWQ) | [Reverie](https://open.spotify.com/album/5c7IszYceIopxhjpZGSIKL) | 2:56 | 2025-11-23 |  |
 | [Paralisia Do Sono](https://open.spotify.com/track/6IjUGACXqxZhz8ortWGDmU) | [The Jump Out Helicopters](https://open.spotify.com/artist/4XKjXT1OIFR3zVbEgZGmel) | [Entre O Sonho E O Acordado](https://open.spotify.com/album/0Twg6AtBwK1vS9lPVklpqI) | 2:39 | 2025-09-29 |  |
 | [Perro insensible](https://open.spotify.com/track/61sja73d8He0LLeEFtznED) | [Pandino](https://open.spotify.com/artist/0uOaofBqG9uFHU7ksh6huW) | [Soñando Despierto](https://open.spotify.com/album/5MjbVM1gA4q3ioxHxCCdcc) | 3:07 | 2025-09-29 |  |
 | [Phoenix Blood](https://open.spotify.com/track/5T9vB7ik3DayIDTKArLzWN) | [Beyond Forever](https://open.spotify.com/artist/4IidouvoRFPlb95I8JEPKL) | [Phoenix Blood](https://open.spotify.com/album/25H5LMWei4hNC8dZQhspZa) | 3:02 | 2025-11-01 |  |
@@ -138,6 +139,7 @@
 | [Song of a Hooligan](https://open.spotify.com/track/3Ew5FF6YJfXre7pT2JaJZA) | [Anton](https://open.spotify.com/artist/5ZwvlOmddwRvA3nwQXY13r) | [Song of a Hooligan](https://open.spotify.com/album/3Z9FfksgrxLlXKPhTbobfJ) | 2:52 | 2025-10-27 |  |
 | [Strange Addiction](https://open.spotify.com/track/1J1SHqJbS4ejLSvjdJph5W) | [Taylor D](https://open.spotify.com/artist/6EYjKhsmEVEBEvyvtta5sg) | [Strange Addiction](https://open.spotify.com/album/0dWEaFnP8w5QS60vyeBm2R) | 4:15 | 2025-09-23 |  |
 | [Strange Illusions](https://open.spotify.com/track/6PRXQVA4RhM1sNXzDcbxWF) | [Beyond the touch](https://open.spotify.com/artist/7lhZrZDGFVZFlw86EmXo93) | [Strange Illusions](https://open.spotify.com/album/2mUj79wj2jdhbk3744NgG7) | 5:13 | 2025-11-19 |  |
+| [STRANGER'S GROOVE](https://open.spotify.com/track/2ui1yY0rOb4PZEAMs25Zu4) | [YOS JAMES](https://open.spotify.com/artist/6iQ8xFB2QZhLyD3SjWLFn2) | [STRANGER'S GROOVE](https://open.spotify.com/album/1cSWCYaLEGd443YOKMEsk3) | 4:00 | 2025-11-23 |  |
 | [Submarine \(feat\. Vallartis\)](https://open.spotify.com/track/6ivXxPez2olkS1v4m3xTMc) | [Isin](https://open.spotify.com/artist/62D48N40TKo9Y9yjQPOk7Z) | [When You Say My Name \(feat\. Vallartis\)](https://open.spotify.com/album/4hAxZnpMKJ8gNQ9TyaMwPG) | 2:29 | 2025-09-22 |  |
 | [Superpoderes](https://open.spotify.com/track/1NmFeOiVM3syxcpZ19vfBB) | [Mil Disparos](https://open.spotify.com/artist/4yhzOd2WrjwPz9yHG2TwKn) | [Superpoderes](https://open.spotify.com/album/7iixCzIDlpSI0PtdbjzT4C) | 4:01 | 2025-10-27 |  |
 | [Take me home](https://open.spotify.com/track/0mNlZQwMps3Uz9vGV0G2VO) | [Nic Li](https://open.spotify.com/artist/4Kg7L2IFz4ZI1x9FOnWEKU) | [Haga Street Revisited](https://open.spotify.com/album/0Oc9CyF1n3yIzaXjR503hC) | 1:55 | 2025-11-02 |  |
@@ -169,6 +171,7 @@
 | [Werewolves of London](https://open.spotify.com/track/0zYtpXjgqkKKQOpsl3y9qE) | [Highway Wolf](https://open.spotify.com/artist/6WKdYl11XpIoIGJCV6AeXE) | [Werewolves of London](https://open.spotify.com/album/3hKZcu4BOd9ZP8knghvahJ) | 4:24 | 2025-11-06 |  |
 | [What I Need from You](https://open.spotify.com/track/0AWDRo8aeuR6JBfc15g0wj) | [Byron Walker](https://open.spotify.com/artist/48aPWjDPQcizEOJHQ8ghcJ) | [What I Need from You](https://open.spotify.com/album/3DgJSlbyGOLwkfF6DFr4SE) | 5:19 | 2025-10-04 |  |
 | [Without Ligth](https://open.spotify.com/track/4iFvBYv9dvov9VP5iYPZbI) | [Bry](https://open.spotify.com/artist/2ySJgdSMRpOkxkmseui1Kt) | [Butterflies](https://open.spotify.com/album/5jxuctCE4OHBlAKEFzBp9Y) | 3:05 | 2025-10-05 |  |
+| [Ya sev Ya öldür](https://open.spotify.com/track/6OXW8XDKT53BLfcARq7U7F) | [Yürümeyen Merdiven](https://open.spotify.com/artist/5qxtKwjihWyBWuy7Tjs3ue) | [Ya sev Ya öldür](https://open.spotify.com/album/2eSYlzWMaj9KoZfDc2eqOx) | 3:00 | 2025-11-23 |  |
 | [You I Love the Most](https://open.spotify.com/track/549UkDfx95rT3K290ftqjc) | [Ugochill](https://open.spotify.com/artist/1kOGUspiJr2BQ7HMDQdTRw) | [You I Love the Most](https://open.spotify.com/album/5PHKzoIa6kH5W9zsx7GfRq) | 5:51 | 2025-11-22 |  |
 | [You Just Don’t Wanna Know](https://open.spotify.com/track/7mbANcmPrBMNDVqWWk2Xbp) | [Ribera del Júcar Revival](https://open.spotify.com/artist/04gcWUfNrbcWSklXOdnmjY) | [Back To The Sixties](https://open.spotify.com/album/0EWFXv6Sb9Hg53ExC68GgV) | 2:53 | 2025-10-04 |  |
 | [You turned my life upside down](https://open.spotify.com/track/1gOgkXRC7Fn1DgZhH23gRI) | [Billy Zain](https://open.spotify.com/artist/4Ee9brJj365XxmzTtgz3cA) | [You turned my life upside down](https://open.spotify.com/album/0RhZuCOnHcqRBAmQarX3t9) | 4:39 | 2025-09-24 |  |

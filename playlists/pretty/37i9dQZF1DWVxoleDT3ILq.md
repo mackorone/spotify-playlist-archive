@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxoleDT3ILq.md) - [plain]
 
 > Todo el sonido indie de Chile\. Foto: Bocho & Riola
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,831 likes - 106 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,819 likes - 106 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxoleDT3ILq.md) - [plain]
 | 105 | [Tarde](https://open.spotify.com/track/6LT5JZMANQtvgCOQg4f4kj) | [Dodo](https://open.spotify.com/artist/1CwQZInJ0vWCQYpbR9z1Iq) | [Tarde](https://open.spotify.com/album/2ZGIEe4Y2NHLzz76CFWCAM) | 4:38 |
 | 106 | [Las cosas van a salir bien](https://open.spotify.com/track/1i4fMZwOFD6vbkilo0AOyK) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ), [Kurmi](https://open.spotify.com/artist/1BF5IPlIOTc6JJWQPuqG3W) | [Las cosas van a salir bien](https://open.spotify.com/album/6ra3Qy3YdVwooWD5zeqIzM) | 3:33 |
 
-Snapshot ID: `AAAAAETskgCrOwsPvdb9P0P/L7/9vBGP`
+Snapshot ID: `AAAAAB8ODv521WxClJBxdRok+HNcnDSC`

@@ -4,7 +4,7 @@
 
 > Grüezi! This is 100% made in Switzerland\.  Cover: Zoë Më
 
-449 songs - 23 hr 10 min
+450 songs - 23 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Called In Advance](https://open.spotify.com/track/2GNRbMrtDoplUQ8jExQrwa) | [To Athena](https://open.spotify.com/artist/3sdOf3sXS7uXLIaPQL33fl) | [The Movie](https://open.spotify.com/album/2Hl58qQYSxGfAYb9dNIvLi) | 5:10 | 2025-05-01 | 2025-05-09 |
 | [Campari Soda](https://open.spotify.com/track/28Iqj8A8wvAU0daTlxYZsf) | [Taxi](https://open.spotify.com/artist/2A5SG2ci4aR0u6jLQ4yNbf) | [Campari Soda](https://open.spotify.com/album/4Lt2lCW8f7k42aNbSOhBJE) | 3:12 | 2025-04-17 | 2025-04-25 |
 | [Can](https://open.spotify.com/track/5WgC4W0XtrOaUK63WqsDAy) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [Can](https://open.spotify.com/album/0aWzHhNvUVfII5KkLsvLy9) | 3:21 | 2025-02-27 |  |
-| [Can't Be Loved](https://open.spotify.com/track/69H5EfyNRLIKd0WAPNQr0T) | [Bastian Baker](https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC) | [Can't Be Loved](https://open.spotify.com/album/5YmdC1mjV30uWAUfqT8uQo) | 2:51 | 2024-06-27 | 2025-11-21 |
+| [Can't Be Loved](https://open.spotify.com/track/69H5EfyNRLIKd0WAPNQr0T) | [Bastian Baker](https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC) | [Can't Be Loved](https://open.spotify.com/album/5YmdC1mjV30uWAUfqT8uQo) | 2:51 | 2024-06-27 |  |
 | [Caroline](https://open.spotify.com/track/0Y3OX3KZVsyG23qyV1JgYp) | [Nickless](https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea) | [Caroline](https://open.spotify.com/album/2t6x3lyAeeHDtPG8gfguE8) | 3:22 | 2025-05-22 |  |
 | [Casanova](https://open.spotify.com/track/4EhyAiwViE9iDnp2mVcOfV) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [Unexplainable](https://open.spotify.com/album/7j4sidrwHWHhP1bmdS3kaG) | 3:02 | 2025-05-16 | 2025-05-23 |
 | [Casanova](https://open.spotify.com/track/7DKqquL8njykv59YgLtJU9) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [Casanova](https://open.spotify.com/album/6iELgLhTy8AzINTUH2PQ1c) | 3:02 | 2025-05-22 |  |
@@ -263,7 +263,7 @@
 | [Magma im Arm](https://open.spotify.com/track/0zceJ1WQOWLmdq2GwJlJ5X) | [Lo & Leduc](https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe) | [Zucker fürs Volk](https://open.spotify.com/album/0PGYKp7TN1R957UD1BSpnh) | 5:11 | 2025-05-15 | 2025-05-23 |
 | [MAMA LIEBT MI](https://open.spotify.com/track/0UwsF7FJ7FDX3iD5Vd5yHR) | [Manillio](https://open.spotify.com/artist/7uxtLjuqkJ3cnjQQuW6Cul) | [DEHEIM DEHEIM](https://open.spotify.com/album/2aOcAezQkKwNon8EbPsDCA) | 3:01 | 2025-04-24 | 2025-05-02 |
 | [match](https://open.spotify.com/track/4XvqwNxxXci3LBxjgbmjvj) | [Luuk](https://open.spotify.com/artist/0gmyQ8yVCO4u4QZgwTnw2P), [FAU$TINO](https://open.spotify.com/artist/41mWHdUrRkLbXOxtyAwRuF), [Manu913](https://open.spotify.com/artist/6m8KlKXrvvy0mXGf2dMoZW) | [match](https://open.spotify.com/album/6IoI2KhDtdIKA2drLdfHFu) | 3:13 | 2025-05-29 | 2025-07-26 |
-| [Mathilda](https://open.spotify.com/track/0WDdn12hdqiLZ0z51XhIk3) | [Lost in Lona](https://open.spotify.com/artist/6GpX7OGPoZNG1GMbtbiOPD) | [Mathilda](https://open.spotify.com/album/62aBfUsSWYtxGhnmIv3RbN) | 4:02 | 2025-03-14 |  |
+| [Mathilda](https://open.spotify.com/track/0WDdn12hdqiLZ0z51XhIk3) | [Lost in Lona](https://open.spotify.com/artist/6GpX7OGPoZNG1GMbtbiOPD) | [Mathilda](https://open.spotify.com/album/62aBfUsSWYtxGhnmIv3RbN) | 4:02 | 2025-03-14 | 2025-11-24 |
 | [Mayhem](https://open.spotify.com/track/0bTNqfjULSzLvDiqO38K4w) | [Nola Kin](https://open.spotify.com/artist/4rr8k0k3ZojhAxZuz1fJ9w) | [Mayhem](https://open.spotify.com/album/4B9uvunHpnqxAuie42u8t1) | 4:28 | 2025-04-17 | 2025-04-25 |
 | [Melody](https://open.spotify.com/track/5wZOJaNBQbOR4adcp4BDNU) | [To Athena](https://open.spotify.com/artist/3sdOf3sXS7uXLIaPQL33fl) | [Aquatic Ballet](https://open.spotify.com/album/5J8qlAxbu3hczWlNi0CuY8) | 4:12 | 2025-05-01 | 2025-05-09 |
 | [Meteoriti](https://open.spotify.com/track/5v97denncuVynKzc9bdhfD) | [Valentino Vivace](https://open.spotify.com/artist/0CHQ6qjh2bf79lPEE6zRUf) | [Meteoriti](https://open.spotify.com/album/3NKSQ3tHskF1jKbfhZgAmp) | 2:47 | 2025-04-24 | 2025-08-16 |
@@ -426,7 +426,8 @@
 | [Waiting](https://open.spotify.com/track/651XWsMydWVIGa3kXk6N3E) | [ZIAN](https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J) | [Waiting](https://open.spotify.com/album/2pde6kf2nEN7xlMfnlOOmg) | 3:14 | 2024-08-29 | 2024-10-04 |
 | [Waiting For Love](https://open.spotify.com/track/3VO7y40frV8gnkRaWidSqT) | [Marius Bear](https://open.spotify.com/artist/6thEUEg4pJq0H4aLVqNMwb) | [Waiting For Love](https://open.spotify.com/album/77P9wXuR8Ju9urUZbjlbnU) | 3:14 | 2024-10-18 | 2024-10-20 |
 | [Walk Alone](https://open.spotify.com/track/0Iu2Z0khk2D6A1j9Ktffov) | [Amaya Gloor](https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x) | [Walk Alone](https://open.spotify.com/album/6jI3GP0ex6TY4rCBMQorsz) | 2:49 | 2025-08-29 |  |
-| [Wanted To Know](https://open.spotify.com/track/5JCaPtPEol2nS4Hyuhri6R) | [Marlin](https://open.spotify.com/artist/4CYjGEYERBkCTF2fK2QjVG) | [Wanted To Know](https://open.spotify.com/album/6vW1NPnaoqWqQ8wgBnM4wR) | 2:21 | 2025-07-10 |  |
+| [Walk on Water](https://open.spotify.com/track/75jNZjHPRvPOD8WzlvFdFm) | [Anna Rossinelli](https://open.spotify.com/artist/6sRFCFH0UWtnfvKtzZk42X) | [Heat](https://open.spotify.com/album/2PX3hLaXuxlNqBrkTQwRDQ) | 2:50 | 2025-11-20 |  |
+| [Wanted To Know](https://open.spotify.com/track/5JCaPtPEol2nS4Hyuhri6R) | [Marlin](https://open.spotify.com/artist/4CYjGEYERBkCTF2fK2QjVG) | [Wanted To Know](https://open.spotify.com/album/6vW1NPnaoqWqQ8wgBnM4wR) | 2:21 | 2025-07-10 | 2025-11-24 |
 | [Warrior](https://open.spotify.com/track/0OhXtT9H8ssYendcnOvEhG) | [Amaya Gloor](https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x) | [Warrior](https://open.spotify.com/album/5ZE71v7il62OZrxBGIDjZa) | 2:28 | 2024-10-11 | 2025-02-04 |
 | [Was Hokksch](https://open.spotify.com/track/2a1KfNrr4wKFNyOxtkn0sb) | [Melina Nora](https://open.spotify.com/artist/0vUj7AXRiRVgGy700ZFSgF) | [Was Hokksch](https://open.spotify.com/album/6wc04duGz2asgmo4tu8G7U) | 3:07 | 2025-04-17 | 2025-04-25 |
 | [was wir möchten](https://open.spotify.com/track/3VTUfB1bU4ojHwBXkWZWem) | [bennet](https://open.spotify.com/artist/69fTTPnlYWytPTTN8zBZgw) | [was wir möchten](https://open.spotify.com/album/36CvDiiGbtrJUbvmI8CB5k) | 2:06 | 2024-08-09 | 2024-09-10 |

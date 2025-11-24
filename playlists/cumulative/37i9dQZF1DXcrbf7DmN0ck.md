@@ -4,7 +4,7 @@
 
 > While waiting for the open recruitment of global veiled musicians, enjoy the music of the best vocalists in Korea! \(글로벌 베일드 뮤지션의 공개 모집을 기다리며 국내 최정상 보컬들의 음악을 즐겨보세요!\)
 
-50 songs - 3 hr 33 min
+51 songs - 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,5 +58,6 @@
 | [이밤의 끝을 잡고](https://open.spotify.com/track/6inhDQvmr0zKLsBIU1hgkq) | [Johan Kim](https://open.spotify.com/artist/7kqUt0kZIfski1GVmbwjG3) | [김조한 베스트](https://open.spotify.com/album/2D1ApDyL7ikmIVb8XbOZuq) | 5:14 | 2025-07-02 |  |
 | [제발 내게 말해주라 \(Please tell me\)](https://open.spotify.com/track/0BeyMR83qdrHlIM52jprNC) | [Ha Yea Song](https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3) | [제발 내게 말해주라 \(Please tell me\)](https://open.spotify.com/album/5ijS3IJtIUrqhioDNEJmu6) | 3:33 | 2025-07-02 |  |
 | [좋은 사람 \(Feat\. 김형중\)](https://open.spotify.com/track/1hTZUGfMzWYCSns929UWTo) | [Toy](https://open.spotify.com/artist/2HyoXCqcYBSzVibRweDeX8), [김형중](https://open.spotify.com/artist/1PeAdO7bawJcZXcsLVXSSp) | [Fermata](https://open.spotify.com/album/7eWW4M11CVi3LS0MeU5pWn) | 4:28 | 2025-07-02 |  |
+| [통화연결음](https://open.spotify.com/track/2Mgb5XYieeqZ2lArUFl9KV) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [6½ ‘New Celebration’](https://open.spotify.com/album/22zBEmFE0qabshIVUXAvfN) | 4:33 | 2025-11-24 |  |
 
 \*This playlist was first scraped on 2025-07-03. Prior content cannot be recovered.

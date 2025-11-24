@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4oCdiaZmiKLPpKUHlFjovZ.md) - [plain]
 
 > Turn this playlist all the way up! Featuring, HoodRich Pablo Juan, Money Man, Peezy &amp; Blxst.
 
-[EMPIRE](https://open.spotify.com/user/empiredistribution) - 34,712 likes - 99 songs - 4 hr 40 min
+[EMPIRE](https://open.spotify.com/user/empiredistribution) - 34,705 likes - 99 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

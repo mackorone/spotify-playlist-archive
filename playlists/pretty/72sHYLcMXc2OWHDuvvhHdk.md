@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 549 likes - 2,040 songs - 4 day 23 hr 34 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 549 likes - 2,042 songs - 4 day 23 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2048,5 +2048,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2038 | [The weight of freedom](https://open.spotify.com/track/4gVKItkWjVQZNbTLQb9Tb8) | [Samadhi Radio](https://open.spotify.com/artist/1Xo5Iukw1wJ05KCIy9STI8) | [When time runs dry](https://open.spotify.com/album/151onIPEKJjuyooQEEVfKE) | 4:15 |
 | 2039 | [Siamo perduti](https://open.spotify.com/track/2KFK8mkYe4OwT2XxDcZlcm) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [Siamo perduti](https://open.spotify.com/album/4j9UylK8c7HBB9dTqsZ3Ub) | 3:31 |
 | 2040 | [You've Got This!](https://open.spotify.com/track/0jP1cP68nrgzCUJgtYQWQY) | [Annette Davies](https://open.spotify.com/artist/1IKGoSyqjfq4xQLijteRpj) | [You've Got This!](https://open.spotify.com/album/2g5rQuX0J8CIhzboin3yau) | 3:58 |
+| 2041 | [Arrows](https://open.spotify.com/track/6v74tDWJeRLfMqD0Y0JJmE) | [InspirationNow Series](https://open.spotify.com/artist/0rEWU7S4WJPjoNSNqE3lGj), [Lydia Mel](https://open.spotify.com/artist/3VYuPscNH6XJACzfR1R8Ps) | [Arrows](https://open.spotify.com/album/4DUG5einjelMzfVw3pFinp) | 3:18 |
+| 2042 | [Old as the Hills](https://open.spotify.com/track/3t1Y3TdtUs9iKbe9DPb7cV) | [Thompson Newkirk](https://open.spotify.com/artist/4REmQoYtgtw3WxM75wpLO5) | [Old as the Hills](https://open.spotify.com/album/6qrgOH5ocwXDZZdnryjAe6) | 5:04 |
 
-Snapshot ID: `AAAIhkXJYvHqFbag2mzVZEi02m/V08aj`
+Snapshot ID: `AAAIiML2AxIwSKaQOxi7kmO5OxdOToX0`

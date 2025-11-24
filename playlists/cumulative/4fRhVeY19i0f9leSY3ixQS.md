@@ -4,7 +4,7 @@
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-212 songs - 11 hr 52 min
+216 songs - 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Greatness Abandoned](https://open.spotify.com/track/5kRxQQyqbe9VyFMgO3Iw4i) | [The Burying Game](https://open.spotify.com/artist/6XHIzQUMkkyXIsXn3XPnnK) | [Greatness Abandoned](https://open.spotify.com/album/3w98QK5DiwTtQtfwnGHxNo) | 3:50 | 2025-11-21 |  |
 | [Hammer\-on](https://open.spotify.com/track/12mn5SEwGNKsKsk34p0Fs2) | [Pickap.art](https://open.spotify.com/artist/4TMb7hw4kEDZdxMK9IYLUc) | [Frantic!](https://open.spotify.com/album/04HZkLDGricV1azqsq5yfV) | 1:16 | 2025-08-03 |  |
 | [Haunted](https://open.spotify.com/track/7xAHw7RSX3wexcqmV3gq3f) | [Jake Vera](https://open.spotify.com/artist/0fugVpgpowLO9coAvpgRvP) | [Lost](https://open.spotify.com/album/0c4irpy4JnvF1xd3EatVx5) | 2:55 | 2025-10-24 |  |
+| [Hazte oir](https://open.spotify.com/track/1dfB3PNQCu7FMhf9xae073) | [Marcoo](https://open.spotify.com/artist/78r09t3sUYBpJSrYZqeAxb) | [Hazte oir](https://open.spotify.com/album/0iqOcbtUyjYtnHZgU8Jdzv) | 3:09 | 2025-11-23 |  |
 | [Head Things](https://open.spotify.com/track/5LNndZWKlI8pB5xLMn6rko) | [Verticoli](https://open.spotify.com/artist/6i3DIimW7UJE7I5sVu0bTq) | [Punching Bag](https://open.spotify.com/album/5duz8Sa8pdhJIQ9p00DpBU) | 2:55 | 2025-10-23 |  |
 | [Hello You](https://open.spotify.com/track/58Mps9U6HpzFBzIm6FvVYu) | [CAN'T STOP TALKING](https://open.spotify.com/artist/3rotuHQvOx7kpA7arxEPTe) | [Nothing To Say](https://open.spotify.com/album/5NeEmefGoLWrjXzzKrU7dF) | 2:14 | 2025-08-03 |  |
 | [Hello, Beautiful](https://open.spotify.com/track/231rZMis3ipEk8M7UPFPYd) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [LOUD NOISES](https://open.spotify.com/album/3td0OGM48SevIvq1jkUxAM) | 5:45 | 2025-08-03 |  |
@@ -98,6 +99,7 @@
 | [IV \. Ashes of the Rose](https://open.spotify.com/track/0nBc3rOfkaZ3jxin6nJasN) | [MER](https://open.spotify.com/artist/7CvljdGrUIw9LLpCelscEN) | [The Way of the Rose](https://open.spotify.com/album/3JexvhBHllJq5Yne04ebXD) | 5:09 | 2025-11-14 |  |
 | [Iza Bella](https://open.spotify.com/track/2m33TemOMBEDzRpw1TsLhd) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Haze](https://open.spotify.com/album/0UWOt7EEXl2rOz7YPynmmn) | 3:24 | 2025-11-21 |  |
 | [JinXXX](https://open.spotify.com/track/2grH4gOFNCt6mbV1e2TVyt) | [Mollys Habit](https://open.spotify.com/artist/1bNI3vfpqAhqPgDmR0o8Il) | [Smoke 'em if you got 'em](https://open.spotify.com/album/2ifW126RK47gUKvs3ZD3Ff) | 5:18 | 2025-09-16 |  |
+| [Just Like My Cigarette](https://open.spotify.com/track/0We3cwg2ldHPYxi4pzZp1U) | [The Attached Outsiders](https://open.spotify.com/artist/2ODLB4yIO5qLuSD3H33nVs) | [Just Like My Cigarette](https://open.spotify.com/album/25UGBCpbNS7MZuRu7GXc8U) | 6:38 | 2025-11-23 |  |
 | [Killers](https://open.spotify.com/track/4Zro22fXDS05ypKWJOasZZ) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [Astro Life](https://open.spotify.com/album/3n8oFyAMOOqIxsneTKj89I) | 4:10 | 2025-08-03 |  |
 | [Komasaufen](https://open.spotify.com/track/69sHCQJp3lMPLTdyTo5ekv) | [Bierkenstock](https://open.spotify.com/artist/6EpNThKCVl7Fs0ebxfbQNJ) | [Komasaufen](https://open.spotify.com/album/2xJjp5yr1cLnkeCQGKWbJ4) | 1:49 | 2025-11-16 |  |
 | [Le train](https://open.spotify.com/track/0LTYYJCdBhTmVCtWnjz3uW) | [Steel Bridges](https://open.spotify.com/artist/7Ct3XHfBxKz4nFpgYCLx8Z) | [Le train](https://open.spotify.com/album/2MhFsSKQemBr4bTgpJNbPv) | 3:36 | 2025-11-17 |  |
@@ -146,6 +148,7 @@
 | [Resistance \(remaster\)](https://open.spotify.com/track/0dq6lmjXEcwFDa6E7ZPWua) | [CDNQB](https://open.spotify.com/artist/4mxs1oQOptOg4nYDR2jBCs) | [pax humana \(remaster\)](https://open.spotify.com/album/24vC1vToeCTeulW3cG1Gb8) | 3:40 | 2025-09-22 |  |
 | [Restless](https://open.spotify.com/track/2tXEqX2Jx7iunIzheetaYU) | [Grandma's Chandelier](https://open.spotify.com/artist/6dtP5fyPl76HScmIsqell7) | [Restless](https://open.spotify.com/album/6FHcXFlvN7EclypTMGlYLR) | 4:49 | 2025-11-21 |  |
 | [Revolve \(remaster\)](https://open.spotify.com/track/2MaNnKD4kbBjtKMXnuuBX3) | [CDNQB](https://open.spotify.com/artist/4mxs1oQOptOg4nYDR2jBCs) | [pax humana \(remaster\)](https://open.spotify.com/album/24vC1vToeCTeulW3cG1Gb8) | 3:21 | 2025-09-18 |  |
+| [Rise Again](https://open.spotify.com/track/4Dj36QPd18SfcObDNnCxiG) | [Boffodj](https://open.spotify.com/artist/4372oFZqyal1K0LY9uDJzB) | [Rise Again](https://open.spotify.com/album/3gCWf0aBmcwvaYvl4shYQ1) | 3:44 | 2025-11-23 |  |
 | [rock nessa cena](https://open.spotify.com/track/4cNKZ7Sf423mO7Iia5SIiF) | [Paulo Victor](https://open.spotify.com/artist/6ewY1PZ1lpd5cU4rLnLVRw) | [nova composição](https://open.spotify.com/album/04ty09gz8t3KT6iexBxpBp) | 2:16 | 2025-11-10 |  |
 | [Ronnie Pickering](https://open.spotify.com/track/5WK28dUiE4hVWONb3YZLjh) | [CAN'T STOP TALKING](https://open.spotify.com/artist/3rotuHQvOx7kpA7arxEPTe) | [Ronnie Pickering](https://open.spotify.com/album/0EpO1TMt41BWDG7f4kvSh4) | 3:00 | 2025-08-03 |  |
 | [Routine Trap Escape](https://open.spotify.com/track/4J3RQVO16sV0LmicjSlwW7) | [NOOP](https://open.spotify.com/artist/1K5Cl2jMIES6pZtmSEnpDm) | [Escapism For The Masses](https://open.spotify.com/album/0Cu7CizxFbY6qdnqonHMV7) | 4:03 | 2025-11-21 |  |
@@ -198,6 +201,7 @@
 | [Veneer of Happiness](https://open.spotify.com/track/05XSQqpNie45Bm5DiIBYJt) | [Aged Beyond Decay](https://open.spotify.com/artist/0lNgiaIYRDLNkCv5CuYjVb) | [Veneer of Happiness](https://open.spotify.com/album/2UsupNlVls5rnuxjAxdVoe) | 3:49 | 2025-10-24 |  |
 | [Vindicta](https://open.spotify.com/track/54FUFjNwNJBPgOZOW5N9J0) | [Sonder](https://open.spotify.com/artist/0L0D31Vnz5LTRR8I620V0G) | [Rompiendo Refugios](https://open.spotify.com/album/7CcpgykbYIRVRADvSi9PzI) | 4:21 | 2025-11-15 |  |
 | [Walk With Me](https://open.spotify.com/track/4SY4BgJEk2cYGA5Q8IJzMY) | [Mollys Habit](https://open.spotify.com/artist/1bNI3vfpqAhqPgDmR0o8Il) | [Smoke 'em if you got 'em](https://open.spotify.com/album/2ifW126RK47gUKvs3ZD3Ff) | 4:12 | 2025-09-16 |  |
+| [Wash](https://open.spotify.com/track/4r7ML0PiZkZBk6VQxQP5hz) | [Darkness Is My Canvas](https://open.spotify.com/artist/4KLsuw8MtGdxOw8Mx9hwYH) | [The End Of Times](https://open.spotify.com/album/1kAyzmSHintJnWxeLIMqAY) | 3:10 | 2025-11-23 |  |
 | [Waves](https://open.spotify.com/track/79u6d7lbDS7GO65AljpkWT) | [Mollys Habit](https://open.spotify.com/artist/1bNI3vfpqAhqPgDmR0o8Il) | [Smoke 'em if you got 'em](https://open.spotify.com/album/2ifW126RK47gUKvs3ZD3Ff) | 3:37 | 2025-09-16 |  |
 | [We All Need Money](https://open.spotify.com/track/14zE608zCJQOO94AzeRIr8) | [Julie Elody](https://open.spotify.com/artist/4FREcPhEBSBlNVHAQXqanN), [Pickap.art](https://open.spotify.com/artist/4TMb7hw4kEDZdxMK9IYLUc) | [Better Off Alone](https://open.spotify.com/album/0UkrxQZJRAXK8SHLo2TCSA) | 1:27 | 2025-08-03 |  |
 | [We Are The Lies](https://open.spotify.com/track/3G2y193uvEhYzfTRuhYNby) | [Door Marked Summer](https://open.spotify.com/artist/3ryXL59wPHXYFRrwujR6hh) | [We Are The Lies](https://open.spotify.com/album/20sfd9dloXfPCJqpZ644ok) | 4:00 | 2025-08-03 |  |

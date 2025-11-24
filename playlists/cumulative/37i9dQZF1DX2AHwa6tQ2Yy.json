@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "2 Much",
+        "url": "https://open.spotify.com/album/3BpR28xCNhR9uI90NgAwRR"
+      },
+      "artists": [
+        {
+          "name": "Qendresa",
+          "url": "https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "2 Much",
+      "url": "https://open.spotify.com/track/4QySScdQnRDZjDaAdpY0AM"
+    },
+    {
+      "album": {
         "name": "4EVA",
         "url": "https://open.spotify.com/album/5VK922NbC81kfS2tCnDAM0"
       },
@@ -660,7 +678,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 255008,
       "name": "Breakadawn",
       "url": "https://open.spotify.com/track/2WyLyygONxNBVtXCRLMjFY"

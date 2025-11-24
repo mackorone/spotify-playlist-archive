@@ -1,6 +1,6 @@
 {
   "description": "Lose yourself in the cosmic spheres of Psytrance.",
-  "num_followers": 588503,
+  "num_followers": 588560,
   "original_name": "Psytrance Supernova",
   "owner": {
     "name": "Spotify",
@@ -219,66 +219,6 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
-        "name": "Safari",
-        "url": "https://open.spotify.com/album/1GxtaYGp8kJ6wc1RFDmUbW"
-      },
-      "artists": [
-        {
-          "name": "Omiki",
-          "url": "https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f"
-        },
-        {
-          "name": "TERRA",
-          "url": "https://open.spotify.com/artist/6EMXsJEdrX9vLI7DWSjG5l"
-        }
-      ],
-      "duration_ms": 370563,
-      "name": "Safari",
-      "url": "https://open.spotify.com/track/6Hy6Az0d1SFPAtN8iBZiIs"
-    },
-    {
-      "added_at": "2025-08-15 04:00:20",
-      "album": {
-        "name": "Dragon",
-        "url": "https://open.spotify.com/album/5Cv0KXpWQ2fMyal3kbqkqU"
-      },
-      "artists": [
-        {
-          "name": "Indira Paganotto",
-          "url": "https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR"
-        },
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        }
-      ],
-      "duration_ms": 181099,
-      "name": "Dragon",
-      "url": "https://open.spotify.com/track/1J827bhoOFER99MdWqeoyU"
-    },
-    {
-      "added_at": "2025-08-15 04:00:20",
-      "album": {
-        "name": "There Was A Time",
-        "url": "https://open.spotify.com/album/1SCh5zitZe6JRGeATpcGXB"
-      },
-      "artists": [
-        {
-          "name": "Neelix",
-          "url": "https://open.spotify.com/artist/5X3rdmEE2Mif6kFQkb2PxB"
-        },
-        {
-          "name": "Caroline Harrison",
-          "url": "https://open.spotify.com/artist/43Cmg6YqnuPEHxe7TQLOk7"
-        }
-      ],
-      "duration_ms": 307826,
-      "name": "There Was A Time",
-      "url": "https://open.spotify.com/track/6f9X4NeJ9TofyaKKqYcWl3"
-    },
-    {
-      "added_at": "2025-08-15 04:00:20",
-      "album": {
         "name": "Pressure (Indira Paganotto Remix)",
         "url": "https://open.spotify.com/album/7bbuWt0xlR3hG7oK9MXQWf"
       },
@@ -319,6 +259,66 @@
       "duration_ms": 260868,
       "name": "The Road I'm On",
       "url": "https://open.spotify.com/track/4mA8VXKSpyfTZ66uuyQnw7"
+    },
+    {
+      "added_at": "2025-08-15 04:00:20",
+      "album": {
+        "name": "Dragon",
+        "url": "https://open.spotify.com/album/5Cv0KXpWQ2fMyal3kbqkqU"
+      },
+      "artists": [
+        {
+          "name": "Indira Paganotto",
+          "url": "https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR"
+        },
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        }
+      ],
+      "duration_ms": 181099,
+      "name": "Dragon",
+      "url": "https://open.spotify.com/track/1J827bhoOFER99MdWqeoyU"
+    },
+    {
+      "added_at": "2025-08-15 04:00:20",
+      "album": {
+        "name": "Safari",
+        "url": "https://open.spotify.com/album/1GxtaYGp8kJ6wc1RFDmUbW"
+      },
+      "artists": [
+        {
+          "name": "Omiki",
+          "url": "https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f"
+        },
+        {
+          "name": "TERRA",
+          "url": "https://open.spotify.com/artist/6EMXsJEdrX9vLI7DWSjG5l"
+        }
+      ],
+      "duration_ms": 370563,
+      "name": "Safari",
+      "url": "https://open.spotify.com/track/6Hy6Az0d1SFPAtN8iBZiIs"
+    },
+    {
+      "added_at": "2025-08-15 04:00:20",
+      "album": {
+        "name": "There Was A Time",
+        "url": "https://open.spotify.com/album/1SCh5zitZe6JRGeATpcGXB"
+      },
+      "artists": [
+        {
+          "name": "Neelix",
+          "url": "https://open.spotify.com/artist/5X3rdmEE2Mif6kFQkb2PxB"
+        },
+        {
+          "name": "Caroline Harrison",
+          "url": "https://open.spotify.com/artist/43Cmg6YqnuPEHxe7TQLOk7"
+        }
+      ],
+      "duration_ms": 307826,
+      "name": "There Was A Time",
+      "url": "https://open.spotify.com/track/6f9X4NeJ9TofyaKKqYcWl3"
     },
     {
       "added_at": "2025-08-15 04:00:20",
@@ -411,30 +411,6 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
-        "name": "Here Is Your Song",
-        "url": "https://open.spotify.com/album/4054vsnkO3h76gYcRxtJ0U"
-      },
-      "artists": [
-        {
-          "name": "Neelix",
-          "url": "https://open.spotify.com/artist/5X3rdmEE2Mif6kFQkb2PxB"
-        },
-        {
-          "name": "Ghost Rider",
-          "url": "https://open.spotify.com/artist/6ZJDt01Lh0XOPMMJbUMcUi"
-        },
-        {
-          "name": "The Gardener & The Tree",
-          "url": "https://open.spotify.com/artist/1GarejqGHyKM1adTFnB4NN"
-        }
-      ],
-      "duration_ms": 340500,
-      "name": "Here Is Your Song",
-      "url": "https://open.spotify.com/track/65Md1g0jQ6bOey7rUGmMOX"
-    },
-    {
-      "added_at": "2025-08-15 04:00:20",
-      "album": {
         "name": "Octopus",
         "url": "https://open.spotify.com/album/0aOq7th8Ua8R3wW5qFjJRY"
       },
@@ -475,6 +451,50 @@
       "duration_ms": 156827,
       "name": "Ameno",
       "url": "https://open.spotify.com/track/7MDppFVchHTvTRvr4q69z8"
+    },
+    {
+      "added_at": "2025-08-15 04:00:20",
+      "album": {
+        "name": "Here Is Your Song",
+        "url": "https://open.spotify.com/album/4054vsnkO3h76gYcRxtJ0U"
+      },
+      "artists": [
+        {
+          "name": "Neelix",
+          "url": "https://open.spotify.com/artist/5X3rdmEE2Mif6kFQkb2PxB"
+        },
+        {
+          "name": "Ghost Rider",
+          "url": "https://open.spotify.com/artist/6ZJDt01Lh0XOPMMJbUMcUi"
+        },
+        {
+          "name": "The Gardener & The Tree",
+          "url": "https://open.spotify.com/artist/1GarejqGHyKM1adTFnB4NN"
+        }
+      ],
+      "duration_ms": 340500,
+      "name": "Here Is Your Song",
+      "url": "https://open.spotify.com/track/65Md1g0jQ6bOey7rUGmMOX"
+    },
+    {
+      "added_at": "2025-08-15 04:00:20",
+      "album": {
+        "name": "Natural Connection",
+        "url": "https://open.spotify.com/album/7fdd3jpfhZQR3sLn5HLQ3V"
+      },
+      "artists": [
+        {
+          "name": "Phaxe",
+          "url": "https://open.spotify.com/artist/4Pgbnc1zRPquMFR4iPH3MN"
+        },
+        {
+          "name": "Morten Granau",
+          "url": "https://open.spotify.com/artist/49loZrPArxoDvk5XKyugw0"
+        }
+      ],
+      "duration_ms": 419130,
+      "name": "Natural Connection",
+      "url": "https://open.spotify.com/track/72eKr4Y8oTl3N6YowhUmgI"
     },
     {
       "added_at": "2025-08-15 04:00:20",
@@ -539,26 +559,6 @@
       "duration_ms": 500281,
       "name": "Be Right - Asgard Remix",
       "url": "https://open.spotify.com/track/3w4iGiKW0BM8B6M8MNMvxa"
-    },
-    {
-      "added_at": "2025-08-15 04:00:20",
-      "album": {
-        "name": "Natural Connection",
-        "url": "https://open.spotify.com/album/7fdd3jpfhZQR3sLn5HLQ3V"
-      },
-      "artists": [
-        {
-          "name": "Phaxe",
-          "url": "https://open.spotify.com/artist/4Pgbnc1zRPquMFR4iPH3MN"
-        },
-        {
-          "name": "Morten Granau",
-          "url": "https://open.spotify.com/artist/49loZrPArxoDvk5XKyugw0"
-        }
-      ],
-      "duration_ms": 419130,
-      "name": "Natural Connection",
-      "url": "https://open.spotify.com/track/72eKr4Y8oTl3N6YowhUmgI"
     },
     {
       "added_at": "2025-08-15 04:00:20",
@@ -751,6 +751,26 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/58TmnGrhKm2VT42uSCJgMY"
+      },
+      "artists": [
+        {
+          "name": "Symphonix",
+          "url": "https://open.spotify.com/artist/3YrMuDBgkI3zUJUAyKfxFm"
+        },
+        {
+          "name": "Benzoo",
+          "url": "https://open.spotify.com/artist/2hmiyEZJxAeSmRuvv2S7FO"
+        }
+      ],
+      "duration_ms": 267107,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/70JpMCSGSHQ0gB1IARwoL1"
+    },
+    {
+      "added_at": "2025-08-15 04:00:20",
+      "album": {
         "name": "Rapture",
         "url": "https://open.spotify.com/album/1lai8kxcQGXWCi8aExE4Iz"
       },
@@ -787,26 +807,6 @@
       "duration_ms": 349014,
       "name": "Flame",
       "url": "https://open.spotify.com/track/5y8drYVT8SGRPxEQEEjSts"
-    },
-    {
-      "added_at": "2025-08-15 04:00:20",
-      "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/58TmnGrhKm2VT42uSCJgMY"
-      },
-      "artists": [
-        {
-          "name": "Symphonix",
-          "url": "https://open.spotify.com/artist/3YrMuDBgkI3zUJUAyKfxFm"
-        },
-        {
-          "name": "Benzoo",
-          "url": "https://open.spotify.com/artist/2hmiyEZJxAeSmRuvv2S7FO"
-        }
-      ],
-      "duration_ms": 267107,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/70JpMCSGSHQ0gB1IARwoL1"
     },
     {
       "added_at": "2025-08-15 04:00:20",
@@ -1043,26 +1043,6 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
-        "name": "Nova",
-        "url": "https://open.spotify.com/album/3dy4DmQnHDQuXRcead8IMv"
-      },
-      "artists": [
-        {
-          "name": "Ace Ventura",
-          "url": "https://open.spotify.com/artist/7bSyjB4y9NAhoUDrZTpYt4"
-        },
-        {
-          "name": "Protonica",
-          "url": "https://open.spotify.com/artist/2fhNO804KWA0hiFxjpv3Tt"
-        }
-      ],
-      "duration_ms": 488571,
-      "name": "Nova",
-      "url": "https://open.spotify.com/track/0ekoUHScohhFaSE5yS28K3"
-    },
-    {
-      "added_at": "2025-08-15 04:00:20",
-      "album": {
         "name": "You & I",
         "url": "https://open.spotify.com/album/2lhRmzTITHYR9xcAdRho0R"
       },
@@ -1083,6 +1063,26 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
+        "name": "Nova",
+        "url": "https://open.spotify.com/album/3dy4DmQnHDQuXRcead8IMv"
+      },
+      "artists": [
+        {
+          "name": "Ace Ventura",
+          "url": "https://open.spotify.com/artist/7bSyjB4y9NAhoUDrZTpYt4"
+        },
+        {
+          "name": "Protonica",
+          "url": "https://open.spotify.com/artist/2fhNO804KWA0hiFxjpv3Tt"
+        }
+      ],
+      "duration_ms": 488571,
+      "name": "Nova",
+      "url": "https://open.spotify.com/track/0ekoUHScohhFaSE5yS28K3"
+    },
+    {
+      "added_at": "2025-08-15 04:00:20",
+      "album": {
         "name": "Gracias a la Vida",
         "url": "https://open.spotify.com/album/20hNuXuFlGOcb1LBozzqnV"
       },
@@ -1095,6 +1095,26 @@
       "duration_ms": 348274,
       "name": "Gracias a la Vida",
       "url": "https://open.spotify.com/track/7cM7j8Po2ORcNOnpmMJsNn"
+    },
+    {
+      "added_at": "2025-08-15 04:00:20",
+      "album": {
+        "name": "Carmen",
+        "url": "https://open.spotify.com/album/3HyqFSLXxS6DDeGxYlZdEF"
+      },
+      "artists": [
+        {
+          "name": "Skazi",
+          "url": "https://open.spotify.com/artist/0YAmYesPdjvMPgnLKcDHR3"
+        },
+        {
+          "name": "Invisible Reality",
+          "url": "https://open.spotify.com/artist/5689fXaoEmJsLSPv3y18An"
+        }
+      ],
+      "duration_ms": 243428,
+      "name": "Carmen",
+      "url": "https://open.spotify.com/track/4k5X5M6WGGWNvcXVqqHuMR"
     },
     {
       "added_at": "2025-08-15 04:00:20",
@@ -1159,26 +1179,6 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
-        "name": "Carmen",
-        "url": "https://open.spotify.com/album/3HyqFSLXxS6DDeGxYlZdEF"
-      },
-      "artists": [
-        {
-          "name": "Skazi",
-          "url": "https://open.spotify.com/artist/0YAmYesPdjvMPgnLKcDHR3"
-        },
-        {
-          "name": "Invisible Reality",
-          "url": "https://open.spotify.com/artist/5689fXaoEmJsLSPv3y18An"
-        }
-      ],
-      "duration_ms": 243428,
-      "name": "Carmen",
-      "url": "https://open.spotify.com/track/4k5X5M6WGGWNvcXVqqHuMR"
-    },
-    {
-      "added_at": "2025-08-15 04:00:20",
-      "album": {
         "name": "Ancient Aum",
         "url": "https://open.spotify.com/album/7mXrF1il8uoZBOPpbbfvJ5"
       },
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
-        "name": "STAY (HEDEGAARD Remix)",
-        "url": "https://open.spotify.com/album/6a11hn9oPaSa4ur5e70eY9"
-      },
-      "artists": [
-        {
-          "name": "HEDEGAARD",
-          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
-        }
-      ],
-      "duration_ms": 147718,
-      "name": "STAY - HEDEGAARD Remix",
-      "url": "https://open.spotify.com/track/6Fd9WEx2ySMzE6N3hCCMjG"
-    },
-    {
-      "added_at": "2025-08-15 04:00:20",
-      "album": {
         "name": "Fur Elise (Hi-Tech)",
         "url": "https://open.spotify.com/album/6AxJapHoeGaqSWwnVoLe2N"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 227702,
       "name": "Fur Elise (Hi-Tech)",
       "url": "https://open.spotify.com/track/5XjFyYKlXDFkegtlGNBodQ"
+    },
+    {
+      "added_at": "2025-08-15 04:00:20",
+      "album": {
+        "name": "STAY (HEDEGAARD Remix)",
+        "url": "https://open.spotify.com/album/6a11hn9oPaSa4ur5e70eY9"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        }
+      ],
+      "duration_ms": 147718,
+      "name": "STAY - HEDEGAARD Remix",
+      "url": "https://open.spotify.com/track/6Fd9WEx2ySMzE6N3hCCMjG"
     },
     {
       "added_at": "2025-08-15 04:00:20",
@@ -1307,30 +1307,6 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
-        "name": "Antiwar (Noface Remix)",
-        "url": "https://open.spotify.com/album/1LFQvmgubwxEuWePb4Nc9r"
-      },
-      "artists": [
-        {
-          "name": "Astrix",
-          "url": "https://open.spotify.com/artist/3dUltShd2gJQc98Kc7Syit"
-        },
-        {
-          "name": "Krunch",
-          "url": "https://open.spotify.com/artist/630OCzczUeeccCj9DjhQWn"
-        },
-        {
-          "name": "NoFace",
-          "url": "https://open.spotify.com/artist/6PAtGHecrbY8xa7i2ct5Fs"
-        }
-      ],
-      "duration_ms": 496551,
-      "name": "Antiwar - NoFace Remix",
-      "url": "https://open.spotify.com/track/7s0ouUua8cX2Kf3fV29RLn"
-    },
-    {
-      "added_at": "2025-08-15 04:00:20",
-      "album": {
         "name": "Sun & Moon (Blastoyz Remix)",
         "url": "https://open.spotify.com/album/7ySVLJX79BVx2eCAu0oUQG"
       },
@@ -1351,6 +1327,30 @@
       "duration_ms": 211002,
       "name": "Sun & Moon - Blastoyz Remix",
       "url": "https://open.spotify.com/track/4co3il6gimSyfEgN9MV4cl"
+    },
+    {
+      "added_at": "2025-08-15 04:00:20",
+      "album": {
+        "name": "Antiwar (Noface Remix)",
+        "url": "https://open.spotify.com/album/1LFQvmgubwxEuWePb4Nc9r"
+      },
+      "artists": [
+        {
+          "name": "Astrix",
+          "url": "https://open.spotify.com/artist/3dUltShd2gJQc98Kc7Syit"
+        },
+        {
+          "name": "Krunch",
+          "url": "https://open.spotify.com/artist/630OCzczUeeccCj9DjhQWn"
+        },
+        {
+          "name": "NoFace",
+          "url": "https://open.spotify.com/artist/6PAtGHecrbY8xa7i2ct5Fs"
+        }
+      ],
+      "duration_ms": 496551,
+      "name": "Antiwar - NoFace Remix",
+      "url": "https://open.spotify.com/track/7s0ouUua8cX2Kf3fV29RLn"
     },
     {
       "added_at": "2025-08-15 04:00:20",

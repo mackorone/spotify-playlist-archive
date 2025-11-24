@@ -1,6 +1,6 @@
 {
   "description": "indie & indiepop in het Nederlands. Cover: De Zweefclub",
-  "num_followers": 10988,
+  "num_followers": 10993,
   "original_name": "indie.nl",
   "owner": {
     "name": "Spotify",
@@ -263,22 +263,6 @@
     {
       "added_at": "2025-11-08 08:13:51",
       "album": {
-        "name": "Platonisch",
-        "url": "https://open.spotify.com/album/57jpp3Qa9F5qEBfpXViX6m"
-      },
-      "artists": [
-        {
-          "name": "Noor",
-          "url": "https://open.spotify.com/artist/0mYBpec0ykRwV25xiGnU2W"
-        }
-      ],
-      "duration_ms": 182929,
-      "name": "Platonisch",
-      "url": "https://open.spotify.com/track/6Mwcn4IEsarl0gDqJ29XFy"
-    },
-    {
-      "added_at": "2025-11-08 08:13:51",
-      "album": {
         "name": "Normaal Toen",
         "url": "https://open.spotify.com/album/4vnvLUkUTaGUYy4CJGkR10"
       },
@@ -295,22 +279,18 @@
     {
       "added_at": "2025-11-08 08:13:51",
       "album": {
-        "name": "Frok en Stien",
-        "url": "https://open.spotify.com/album/7gNXQXUyuylGHvns5yJSeZ"
+        "name": "Platonisch",
+        "url": "https://open.spotify.com/album/57jpp3Qa9F5qEBfpXViX6m"
       },
       "artists": [
         {
-          "name": "Froukje",
-          "url": "https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp"
-        },
-        {
-          "name": "S10",
-          "url": "https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK"
+          "name": "Noor",
+          "url": "https://open.spotify.com/artist/0mYBpec0ykRwV25xiGnU2W"
         }
       ],
-      "duration_ms": 149767,
-      "name": "Offline",
-      "url": "https://open.spotify.com/track/7BG9Fh8c3swsY2auGk0Q9E"
+      "duration_ms": 182929,
+      "name": "Platonisch",
+      "url": "https://open.spotify.com/track/6Mwcn4IEsarl0gDqJ29XFy"
     },
     {
       "added_at": "2025-11-08 08:13:51",
@@ -347,22 +327,6 @@
     {
       "added_at": "2025-11-08 08:13:51",
       "album": {
-        "name": "Rondjes",
-        "url": "https://open.spotify.com/album/0AOklMhFa8PHsfrdqzvLDk"
-      },
-      "artists": [
-        {
-          "name": "jet van der steen",
-          "url": "https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo"
-        }
-      ],
-      "duration_ms": 190541,
-      "name": "Rondjes",
-      "url": "https://open.spotify.com/track/6cQWHhI9gJ44kZG0vNofsZ"
-    },
-    {
-      "added_at": "2025-11-08 08:13:51",
-      "album": {
         "name": "Schaduw",
         "url": "https://open.spotify.com/album/66mkzk0QFKvP4BalRxe8ZR"
       },
@@ -383,38 +347,6 @@
     {
       "added_at": "2025-11-08 08:13:51",
       "album": {
-        "name": "Normale gevoelens",
-        "url": "https://open.spotify.com/album/657RbF1AvwQ6hLaf7sOAUc"
-      },
-      "artists": [
-        {
-          "name": "Lucky Fonz III",
-          "url": "https://open.spotify.com/artist/7A6JmzQ1VLKqqLQGlBc1Hm"
-        }
-      ],
-      "duration_ms": 166852,
-      "name": "Normale gevoelens",
-      "url": "https://open.spotify.com/track/0Tl0dPMsR1CHYLJRNYFuov"
-    },
-    {
-      "added_at": "2025-11-08 08:13:51",
-      "album": {
-        "name": "Obsessed",
-        "url": "https://open.spotify.com/album/0BPYqDbkthauNmfpno89pn"
-      },
-      "artists": [
-        {
-          "name": "Chibi Ichigo",
-          "url": "https://open.spotify.com/artist/0eARdjFMVY4Z92QEzM7dgN"
-        }
-      ],
-      "duration_ms": 173973,
-      "name": "Obsessed",
-      "url": "https://open.spotify.com/track/4J9zEIL9RGTM7B9FH9vPQg"
-    },
-    {
-      "added_at": "2025-11-08 08:13:51",
-      "album": {
         "name": "Boterham",
         "url": "https://open.spotify.com/album/2gs4DAtbdobe6Zc0WEYXoO"
       },
@@ -431,6 +363,74 @@
       "duration_ms": 127562,
       "name": "Boterham",
       "url": "https://open.spotify.com/track/43jTtqGXC9Haqr1CsCQ6et"
+    },
+    {
+      "added_at": "2025-11-08 08:13:51",
+      "album": {
+        "name": "Normale gevoelens",
+        "url": "https://open.spotify.com/album/657RbF1AvwQ6hLaf7sOAUc"
+      },
+      "artists": [
+        {
+          "name": "Lucky Fonz III",
+          "url": "https://open.spotify.com/artist/7A6JmzQ1VLKqqLQGlBc1Hm"
+        }
+      ],
+      "duration_ms": 166852,
+      "name": "Normale gevoelens",
+      "url": "https://open.spotify.com/track/0Tl0dPMsR1CHYLJRNYFuov"
+    },
+    {
+      "added_at": "2025-11-08 08:13:51",
+      "album": {
+        "name": "Frok en Stien",
+        "url": "https://open.spotify.com/album/7gNXQXUyuylGHvns5yJSeZ"
+      },
+      "artists": [
+        {
+          "name": "Froukje",
+          "url": "https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp"
+        },
+        {
+          "name": "S10",
+          "url": "https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK"
+        }
+      ],
+      "duration_ms": 149767,
+      "name": "Offline",
+      "url": "https://open.spotify.com/track/7BG9Fh8c3swsY2auGk0Q9E"
+    },
+    {
+      "added_at": "2025-11-08 08:13:51",
+      "album": {
+        "name": "Rondjes",
+        "url": "https://open.spotify.com/album/0AOklMhFa8PHsfrdqzvLDk"
+      },
+      "artists": [
+        {
+          "name": "jet van der steen",
+          "url": "https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo"
+        }
+      ],
+      "duration_ms": 190541,
+      "name": "Rondjes",
+      "url": "https://open.spotify.com/track/6cQWHhI9gJ44kZG0vNofsZ"
+    },
+    {
+      "added_at": "2025-11-08 08:13:51",
+      "album": {
+        "name": "Obsessed",
+        "url": "https://open.spotify.com/album/0BPYqDbkthauNmfpno89pn"
+      },
+      "artists": [
+        {
+          "name": "Chibi Ichigo",
+          "url": "https://open.spotify.com/artist/0eARdjFMVY4Z92QEzM7dgN"
+        }
+      ],
+      "duration_ms": 173973,
+      "name": "Obsessed",
+      "url": "https://open.spotify.com/track/4J9zEIL9RGTM7B9FH9vPQg"
     },
     {
       "added_at": "2025-11-08 08:13:51",
@@ -467,6 +467,22 @@
     {
       "added_at": "2025-11-08 08:13:51",
       "album": {
+        "name": "Toen kwam jij",
+        "url": "https://open.spotify.com/album/5Q3aWVbxIB5xWybBklr0HQ"
+      },
+      "artists": [
+        {
+          "name": "Lucky Fonz III",
+          "url": "https://open.spotify.com/artist/7A6JmzQ1VLKqqLQGlBc1Hm"
+        }
+      ],
+      "duration_ms": 254935,
+      "name": "Toen kwam jij",
+      "url": "https://open.spotify.com/track/3b7ZWOmR2AnOGl06qqE41N"
+    },
+    {
+      "added_at": "2025-11-08 08:13:51",
+      "album": {
         "name": "Niemandsland",
         "url": "https://open.spotify.com/album/4MfChcpoXYxVcbsiEraWll"
       },
@@ -483,6 +499,26 @@
       "duration_ms": 165210,
       "name": "Niemandsland",
       "url": "https://open.spotify.com/track/7iXUwdWoR4dDwKk85zvcCa"
+    },
+    {
+      "added_at": "2025-11-08 08:13:51",
+      "album": {
+        "name": "Voor Alles",
+        "url": "https://open.spotify.com/album/3UlV5dLrM7tvIaXceGMUWp"
+      },
+      "artists": [
+        {
+          "name": "Wende",
+          "url": "https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G"
+        },
+        {
+          "name": "Sef",
+          "url": "https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0"
+        }
+      ],
+      "duration_ms": 230971,
+      "name": "Voor Alles",
+      "url": "https://open.spotify.com/track/3YwGI3M4iKIb0eCR8s0Dn7"
     },
     {
       "added_at": "2025-11-08 08:13:51",
@@ -535,42 +571,6 @@
     {
       "added_at": "2025-11-08 08:13:51",
       "album": {
-        "name": "Toen kwam jij",
-        "url": "https://open.spotify.com/album/5Q3aWVbxIB5xWybBklr0HQ"
-      },
-      "artists": [
-        {
-          "name": "Lucky Fonz III",
-          "url": "https://open.spotify.com/artist/7A6JmzQ1VLKqqLQGlBc1Hm"
-        }
-      ],
-      "duration_ms": 254935,
-      "name": "Toen kwam jij",
-      "url": "https://open.spotify.com/track/3b7ZWOmR2AnOGl06qqE41N"
-    },
-    {
-      "added_at": "2025-11-08 08:13:51",
-      "album": {
-        "name": "Voor Alles",
-        "url": "https://open.spotify.com/album/3UlV5dLrM7tvIaXceGMUWp"
-      },
-      "artists": [
-        {
-          "name": "Wende",
-          "url": "https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G"
-        },
-        {
-          "name": "Sef",
-          "url": "https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0"
-        }
-      ],
-      "duration_ms": 230971,
-      "name": "Voor Alles",
-      "url": "https://open.spotify.com/track/3YwGI3M4iKIb0eCR8s0Dn7"
-    },
-    {
-      "added_at": "2025-11-08 08:13:51",
-      "album": {
         "name": "Ik Geloof Dat Wij Iets Delen",
         "url": "https://open.spotify.com/album/2li4Roi5D0L2W5AhADHfwR"
       },
@@ -619,22 +619,6 @@
     {
       "added_at": "2025-11-08 08:13:51",
       "album": {
-        "name": "Leonie",
-        "url": "https://open.spotify.com/album/3lkGd1lTZMQXRbmH4FFGhS"
-      },
-      "artists": [
-        {
-          "name": "Prins S. en De Geit",
-          "url": "https://open.spotify.com/artist/0jXZD0lM7Icyig6RrBGlUi"
-        }
-      ],
-      "duration_ms": 196675,
-      "name": "Leonie",
-      "url": "https://open.spotify.com/track/2HNMx0HXsZRbOMzaCGh3dP"
-    },
-    {
-      "added_at": "2025-11-08 08:13:51",
-      "album": {
         "name": "narcose",
         "url": "https://open.spotify.com/album/41ptO0ldtOqretw3ZE7RHa"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 144782,
       "name": "Niemand",
       "url": "https://open.spotify.com/track/5jfxlasIpoa3S2ESVGBMf9"
+    },
+    {
+      "added_at": "2025-11-08 08:13:51",
+      "album": {
+        "name": "Leonie",
+        "url": "https://open.spotify.com/album/3lkGd1lTZMQXRbmH4FFGhS"
+      },
+      "artists": [
+        {
+          "name": "Prins S. en De Geit",
+          "url": "https://open.spotify.com/artist/0jXZD0lM7Icyig6RrBGlUi"
+        }
+      ],
+      "duration_ms": 196675,
+      "name": "Leonie",
+      "url": "https://open.spotify.com/track/2HNMx0HXsZRbOMzaCGh3dP"
     },
     {
       "added_at": "2025-11-08 08:13:51",
@@ -731,18 +731,22 @@
     {
       "added_at": "2025-11-08 08:13:51",
       "album": {
-        "name": "De Helft Van Het Verhaal",
-        "url": "https://open.spotify.com/album/5uNnNkVHmIGDsBUbP2CyC4"
+        "name": "Vager!",
+        "url": "https://open.spotify.com/album/5zRCPSHsRjT9thKatrwc1J"
       },
       "artists": [
         {
-          "name": "Droom Dit",
-          "url": "https://open.spotify.com/artist/535Rx3nGAAoN5eQ56bVcVs"
+          "name": "IDA",
+          "url": "https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN"
+        },
+        {
+          "name": "MAZOO",
+          "url": "https://open.spotify.com/artist/0xbGR2sM0IN3C3pwlmA4Hj"
         }
       ],
-      "duration_ms": 244625,
-      "name": "Jochie",
-      "url": "https://open.spotify.com/track/5tNpYAk3ZYwStWmTgwmiuY"
+      "duration_ms": 132727,
+      "name": "Vager!",
+      "url": "https://open.spotify.com/track/5llK2C03HqHJ7NM8ixKwYD"
     },
     {
       "added_at": "2025-11-08 08:13:51",
@@ -759,6 +763,22 @@
       "duration_ms": 190059,
       "name": "Doe Het Voor Het Geld",
       "url": "https://open.spotify.com/track/7FchMtnIrs3dlWK33Gr16P"
+    },
+    {
+      "added_at": "2025-11-08 08:13:51",
+      "album": {
+        "name": "De Helft Van Het Verhaal",
+        "url": "https://open.spotify.com/album/5uNnNkVHmIGDsBUbP2CyC4"
+      },
+      "artists": [
+        {
+          "name": "Droom Dit",
+          "url": "https://open.spotify.com/artist/535Rx3nGAAoN5eQ56bVcVs"
+        }
+      ],
+      "duration_ms": 244625,
+      "name": "Jochie",
+      "url": "https://open.spotify.com/track/5tNpYAk3ZYwStWmTgwmiuY"
     },
     {
       "added_at": "2025-11-08 08:13:51",
@@ -799,42 +819,6 @@
     {
       "added_at": "2025-11-08 08:13:51",
       "album": {
-        "name": "Haast",
-        "url": "https://open.spotify.com/album/0Wpczjdd5uj5Vckejcnd9f"
-      },
-      "artists": [
-        {
-          "name": "Merle",
-          "url": "https://open.spotify.com/artist/6y2VqVMyiZAAQpA4lSCBu0"
-        }
-      ],
-      "duration_ms": 180594,
-      "name": "Haast",
-      "url": "https://open.spotify.com/track/1S89uc20DN0LjVxy8TYzEO"
-    },
-    {
-      "added_at": "2025-11-08 08:13:51",
-      "album": {
-        "name": "Vager!",
-        "url": "https://open.spotify.com/album/5zRCPSHsRjT9thKatrwc1J"
-      },
-      "artists": [
-        {
-          "name": "IDA",
-          "url": "https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN"
-        },
-        {
-          "name": "MAZOO",
-          "url": "https://open.spotify.com/artist/0xbGR2sM0IN3C3pwlmA4Hj"
-        }
-      ],
-      "duration_ms": 132727,
-      "name": "Vager!",
-      "url": "https://open.spotify.com/track/5llK2C03HqHJ7NM8ixKwYD"
-    },
-    {
-      "added_at": "2025-11-08 08:13:51",
-      "album": {
         "name": "Zweef Hier",
         "url": "https://open.spotify.com/album/6CeCZiANVnTBmGg8Fh3AfH"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 182769,
       "name": "Opgeruimd Staat Netjes",
       "url": "https://open.spotify.com/track/6TNGnPsH8yxgPKQ8U4LeBV"
+    },
+    {
+      "added_at": "2025-11-08 08:13:51",
+      "album": {
+        "name": "Haast",
+        "url": "https://open.spotify.com/album/0Wpczjdd5uj5Vckejcnd9f"
+      },
+      "artists": [
+        {
+          "name": "Merle",
+          "url": "https://open.spotify.com/artist/6y2VqVMyiZAAQpA4lSCBu0"
+        }
+      ],
+      "duration_ms": 180594,
+      "name": "Haast",
+      "url": "https://open.spotify.com/track/1S89uc20DN0LjVxy8TYzEO"
     }
   ],
   "unique_name": "indie.nl",

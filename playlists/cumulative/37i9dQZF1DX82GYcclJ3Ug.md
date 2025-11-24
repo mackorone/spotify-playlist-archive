@@ -4,7 +4,7 @@
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: The Neighbourhood
 
-3,190 songs - 7 day 6 hr 51 min
+3,191 songs - 7 day 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1073,6 +1073,7 @@
 | [get him back!](https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:31 | 2023-09-08 | 2023-09-23 |
 | [Get It At Home](https://open.spotify.com/track/1PgQKktANGj96jDspXkZCq) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [Saint Motel & the Symphony in the Sky](https://open.spotify.com/album/7gVcYqFmfM8s0zA8ND7JWa) | 3:30 | 2025-02-14 | 2025-04-05 |
 | [Get Off My Phone](https://open.spotify.com/track/3ArhAv6XnxAnGK8s6et1E1) | [THE DRIVER ERA](https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ), [Ross Lynch](https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH), [Rocky](https://open.spotify.com/artist/542yUd4rGzUEOLd1diV94f) | [Get Off My Phone](https://open.spotify.com/album/44nxBc1O9Bg5EWRkbX7sXd) | 2:48 | 2024-02-23 | 2024-04-27 |
+| [Get to Choose](https://open.spotify.com/track/5h9FYRmddlb1x0ybleGPxY) | [Dirt Buyer](https://open.spotify.com/artist/6MzWbIkpg9it7v13OQkDdp) | [Get to Choose](https://open.spotify.com/album/7HKZIh4ji2eA2LGNbhGpKc) | 3:04 | 2025-11-23 |  |
 | [Get Up Kid](https://open.spotify.com/track/6HQpMGnMQ1mVbTv0WA0u7r) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Get Up Kid](https://open.spotify.com/album/2R7PVrfhfVcGPTXI8nDVGL) | 2:58 | 2023-07-14 | 2023-08-19 |
 | [Getting into Trouble w/ the Boss](https://open.spotify.com/track/21WdnLnH0XhCkjD8WmQGx1) | [White Reaper](https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF) | [Asking For A Ride](https://open.spotify.com/album/4EkYXTP0vpp1dmPadvfAlK) | 2:59 | 2023-07-07 | 2023-09-23 |
 | [Getting Started](https://open.spotify.com/track/4jzK6Ey84SAexMK5C2JWKx) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Deluxe\)](https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z) | 3:09 | 2022-07-22 | 2022-10-15 |

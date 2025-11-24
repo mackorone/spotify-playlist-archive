@@ -4,7 +4,7 @@
 
 > Resonancias luminiscentes para llenar de paz tu alma.
 
-285 songs - 14 hr 1 min
+286 songs - 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [Nivalis](https://open.spotify.com/track/0ueNCrvDMDCPIEwJplY9RK) | [Zyair Price](https://open.spotify.com/artist/767ee2dusb4P76a8GXPf6t) | [Nivalis](https://open.spotify.com/album/7tsjRhhj8KhQzDYveYYOCw) | 2:46 | 2025-03-19 |  |
 | [No Distractions](https://open.spotify.com/track/6OsYfzBSlyV2c0ZYcbhldr) | [Airosa](https://open.spotify.com/artist/4CByXjHMoW0Gq2Y2tenlxY) | [No Distractions](https://open.spotify.com/album/1avmZuCKtnldnf3n1TCUIA) | 3:03 | 2024-01-30 | 2025-03-18 |
 | [No Stress](https://open.spotify.com/track/4x1rCoArznEyfhBqDKgG98) | [Sleeping Culture](https://open.spotify.com/artist/6wIHPaNyPH048cNyeskFH3), [Quiet Music Academy](https://open.spotify.com/artist/5tcoDKPUGotuCohyrYXvJ9) | [Sleep Better Tonight: Feeling Rested and Staying Healthy](https://open.spotify.com/album/2wXBlv9PFC9Mkw4DsuLR9I) | 5:39 | 2022-07-05 | 2022-07-29 |
+| [Obscurity](https://open.spotify.com/track/1WVVYm0D6UOJMLqodEHtFt) | [Onni](https://open.spotify.com/artist/7A0mACsqOhqMaeKYJfQkbx) | [Obscurity](https://open.spotify.com/album/6uuXEwuWIE7P3cYE9KFXWc) | 2:50 | 2025-09-30 |  |
 | [Oh so Quiet](https://open.spotify.com/track/4VRWsEwCyHInmiS7AV0hn9) | [The Silent Ocean](https://open.spotify.com/artist/2MJ2VZRWH4mMHW5S0dISxN) | [Oh so Quiet](https://open.spotify.com/album/7hA3Z4F90GoBPxsNz8DZj4) | 3:10 | 2022-07-05 |  |
 | [Onement](https://open.spotify.com/track/4aDxzWpnKl9wkZmwdqPl2w) | [Andesite](https://open.spotify.com/artist/5GBhNz73vi6yGZ658K0x4I) | [Onement](https://open.spotify.com/album/38sdkJTHUc04TQkjgFGYY2) | 2:56 | 2024-04-29 | 2024-06-11 |
 | [Opaque](https://open.spotify.com/track/0n7cjB7t74Vq7l0gXBmfH8) | [turquoise waters](https://open.spotify.com/artist/3N7b5YuDB0LngChyXbKZZK) | [Opaque](https://open.spotify.com/album/226NWzxnTuE8IeVl1bVgp7) | 2:37 | 2025-01-14 |  |
@@ -241,7 +242,7 @@
 | [Sleepy Eyes](https://open.spotify.com/track/6yh2v1ESQ0gOqU8d1Cyexm) | [Golden Slumber](https://open.spotify.com/artist/1x02xJIKGceDvDd4yugtQj) | [Sleepy Eyes](https://open.spotify.com/album/5XDgcCLTTeLRtQiC0H6ooQ) | 3:44 | 2023-08-25 | 2024-08-29 |
 | [Slowly Flying](https://open.spotify.com/track/13SRYtw5x5Z4OpFUYY4C1k) | [BlunD](https://open.spotify.com/artist/4Dc1j8HIqC0y6uSG8Gnk1T) | [Simple Soul](https://open.spotify.com/album/2RDfxKIgM9olAczjQK5Yku) | 3:34 | 2022-07-05 | 2025-01-15 |
 | [Soft Glow \(432Hz\)](https://open.spotify.com/track/1N3zuxOnvLbCDfDvrsv3ST) | [Atmosfeel](https://open.spotify.com/artist/04MoCfKDs263ULEoka1Gyy) | [Soft Glow \(432Hz\)](https://open.spotify.com/album/3AQhmItCysLebW9yMCxgz0) | 2:58 | 2025-07-24 |  |
-| [Soft Meadow](https://open.spotify.com/track/02fRLzB7HZHr7UzG5lCia9) | [Aloen](https://open.spotify.com/artist/0jYDs1TAciKohAd5YkQFXJ) | [Soft Meadow](https://open.spotify.com/album/2GS48Tn9Wtbytl8hcGGXT8) | 3:13 | 2022-07-19 |  |
+| [Soft Meadow](https://open.spotify.com/track/02fRLzB7HZHr7UzG5lCia9) | [Aloen](https://open.spotify.com/artist/0jYDs1TAciKohAd5YkQFXJ) | [Soft Meadow](https://open.spotify.com/album/2GS48Tn9Wtbytl8hcGGXT8) | 3:13 | 2022-07-19 | 2025-11-24 |
 | [Soft Meadow](https://open.spotify.com/track/0Y4S0WFDJQdIV8VveeRdKF) | [Escape Gravity](https://open.spotify.com/artist/2CVd5odoymaLOr5rMix7js) | [Soft Meadow](https://open.spotify.com/album/5lJOCP12LEhMcGPkUsuK4C) | 2:59 | 2023-10-04 | 2024-04-15 |
 | [Soft Meadow](https://open.spotify.com/track/4asidk65e0vYOKukqfWMGb) | [Escape Gravity](https://open.spotify.com/artist/2CVd5odoymaLOr5rMix7js) | [Soft Meadow](https://open.spotify.com/album/4cNA7atoZuNanhhhkllX8n) | 2:59 | 2022-07-19 | 2022-07-29 |
 | [Soft Rays](https://open.spotify.com/track/1YhSbspYxHcaEdbl3faWno) | [Kai Stellar](https://open.spotify.com/artist/5Ni9tbQ9r28mw5RS8AyGQr) | [Soft Rays](https://open.spotify.com/album/1FRbznRmaHORqPniW6aSqB) | 2:50 | 2025-03-19 |  |

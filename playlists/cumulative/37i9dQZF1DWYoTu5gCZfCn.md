@@ -4,7 +4,7 @@
 
 > Welcome to the oil business\. Listen to the music from Landman, now streaming on Paramount+.
 
-63 songs - 3 hr 55 min
+66 songs - 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,11 +15,13 @@
 | [Another Bad Apple](https://open.spotify.com/track/5DXkH66yHd6nTMlby8AwHD) | [Ward Davis](https://open.spotify.com/artist/2Tpxz9WfPRZGQNSCzrjk0a) | [Another Bad Apple](https://open.spotify.com/album/5O8QT0vzGanGGu8DZAiitB) | 3:03 | 2024-11-17 |  |
 | [Bad Medicine](https://open.spotify.com/track/08tIZEQ7lyJQv4tqhxUXx4) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Tornillo](https://open.spotify.com/album/7zQvPIbond03mxCRO4c8zs) | 5:12 | 2024-11-17 |  |
 | [Bailazo](https://open.spotify.com/track/5Ha0N3HPC6CcziS8wfRUnP) | [Bang Data](https://open.spotify.com/artist/1z0s3ikCPDZcV6ppW7ER6b) | [Mucho Poco](https://open.spotify.com/album/5pChmvhk2CTx3BmKfx7wkW) | 3:30 | 2025-01-05 |  |
+| [Bitin' List](https://open.spotify.com/track/0x5wJ0cDp7miv49jSMTSkq) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Snipe Hunter](https://open.spotify.com/album/00rssxYxFqqdbuO1lz1Gxa) | 2:56 | 2025-11-23 |  |
 | [Blood For Black Gold](https://open.spotify.com/track/0SybUGGIRlZZBFm1dnTTMk) | [Ronnie Dunn](https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy) | [Landman \[Songs From and Inspired by the Paramount+ Original Series \(Volume I\)\]](https://open.spotify.com/album/5HRneEK33Bxvqc19ZcSRqZ) | 3:02 | 2025-09-26 |  |
 | [Blue Collar](https://open.spotify.com/track/4bZdDIc6Lvpw6rDvK3feZD) | [Drayton Farley](https://open.spotify.com/artist/05o2ENqv0CV8aD6BWKEaBD) | [A Hard up Life](https://open.spotify.com/album/4hxny6RxCa9kJjdXkpXlPi) | 2:19 | 2025-01-05 |  |
 | [Boomtown](https://open.spotify.com/track/30Qd2fAamvGXHhoZKAgObe) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [No Vacancy](https://open.spotify.com/album/21fAzUzwhkiSEHCzhtSC2x) | 3:20 | 2024-11-17 |  |
 | [Buona Sera \- Remastered 1991](https://open.spotify.com/track/0DXm5n7SBxCED9ssTvrx2J) | [Louis Prima](https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW) | [Capitol Collectors Series](https://open.spotify.com/album/62NEZstQICTR73eBvw6ZwG) | 3:07 | 2025-11-16 |  |
 | [Change The Game](https://open.spotify.com/track/4RTLkBELy9UNoPeOVmjITc) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Change the Game](https://open.spotify.com/album/4Fjn8d1BEOZhlDIoUyZo8K) | 3:28 | 2024-12-29 |  |
+| [Cheers to Disagree](https://open.spotify.com/track/1V4jv3fGY1oMrXBkb9uNlo) | [Hunter Hicks](https://open.spotify.com/artist/6BEOyviLtjXnOGYdBn0ddd) | [Here’s to You](https://open.spotify.com/album/7BguGaWcG1jelJAKPP7joi) | 4:04 | 2025-11-23 |  |
 | [cowboy friends](https://open.spotify.com/track/3XeCnjiyQkjKSNQtTDOidA) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [hungover](https://open.spotify.com/album/3Fzx4iNVKLcCo7x1yP5q9N) | 2:58 | 2025-11-16 |  |
 | [Crossing Lines](https://open.spotify.com/track/1BuwcJ4WYxvKsIG3nZeGn3) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Crossing Lines](https://open.spotify.com/album/0iXQJDkspV7JKEcpm6G1uu) | 2:50 | 2024-12-29 |  |
 | [Debtor's Blues](https://open.spotify.com/track/3lRCvKMyA4wNAJas7wQLvQ) | [Vincent Neil Emerson](https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC) | [Vincent Neil Emerson](https://open.spotify.com/album/17Ez3EXApQUrtqojPQvX6x) | 3:37 | 2024-11-17 |  |
@@ -29,6 +31,7 @@
 | [Empty As A Drum](https://open.spotify.com/track/2KfEpp0z0v9lDs04ZfQlBA) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [Goodbye Normal Street](https://open.spotify.com/album/0bbz2cwhC8oQtyli5tjaqP) | 3:29 | 2024-12-01 |  |
 | [Everlasting Lover \- 2023](https://open.spotify.com/track/4vCPFDnjp7yDhPc2K0tKJm) | [49 Winchester](https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20) | [Everlasting Lover / Chemistry \(2023\)](https://open.spotify.com/album/6idQ2nraBCN25i7JrKvz54) | 3:06 | 2024-11-17 |  |
 | [Game I Can’t Win](https://open.spotify.com/track/6bKHKbf4zCd3LJ6NjMyWsd) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Lonesome Drifter](https://open.spotify.com/album/64lDGn2XUSnXAncXh9Zzow) | 3:21 | 2025-11-16 |  |
+| [Gettin' By \(Far Out West Sessions\)](https://open.spotify.com/track/0ZGZfkOY6rzjYENR0t8kqe) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Far Out West Sessions](https://open.spotify.com/album/3NBu070teiIiuoivtTPpWC) | 3:28 | 2025-11-23 |  |
 | [Gin, Smoke, Lies](https://open.spotify.com/track/1ku4L6AywP1gY36BKYRvg0) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [Goodbye Normal Street](https://open.spotify.com/album/0bbz2cwhC8oQtyli5tjaqP) | 4:37 | 2024-12-01 |  |
 | [Girls, Girls, Girls](https://open.spotify.com/track/3439OLNIeD3y68kVuoZUO5) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Girls, Girls, Girls \(Deluxe Version\)](https://open.spotify.com/album/0vPZhR1KpbRNBOQBsDScS8) | 4:30 | 2025-01-12 |  |
 | [Heartless](https://open.spotify.com/track/6QXhBSDthWBH7e6uQjfWFn) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Heartless](https://open.spotify.com/album/4yJlgo1yOViRYT0lMTIbxm) | 3:18 | 2024-11-24 |  |

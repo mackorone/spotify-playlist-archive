@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > The best in Black music! Featuring our Frequency Zine cover star <a href="https://www.instagram.com/p/DRK2kfEkhVG/?igsh=NTc4MTIwNjQ2YQ==">BAYLI</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,096,669 likes - 159 songs - 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,096,688 likes - 159 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

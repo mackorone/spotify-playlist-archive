@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 
 > peach is an indie pop playlist 🥤<br/>cover: Holly Humberstone
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,549 likes - 85 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,555 likes - 85 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 | 84 | [Man On The Moon](https://open.spotify.com/track/6uiKhAx3xG1ZsgyzcIbbf2) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [Man On The Moon](https://open.spotify.com/album/67WkCx7zCcaJzM0tqZQDKx) | 3:20 |
 | 85 | [Road](https://open.spotify.com/track/4IbmnwmPEuMyBq0yCX3H9k) | [bb sway](https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz) | [Becoming You](https://open.spotify.com/album/5A4g0BOkNk9FnMSPchF8Zi) | 3:13 |
 
-Snapshot ID: `AAAAADSINxznAS/P8QR8Eer01kInftM5`
+Snapshot ID: `AAAAAMEuV1auU3Q1uOxs2iSUUzWaEd2B`

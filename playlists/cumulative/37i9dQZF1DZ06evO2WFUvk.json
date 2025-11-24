@@ -583,6 +583,24 @@
     },
     {
       "album": {
+        "name": "Together in the End",
+        "url": "https://open.spotify.com/album/6B0OmAkBSS3pl32vOoZNtW"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247934,
+      "name": "Together in the End",
+      "url": "https://open.spotify.com/track/0pKvCo1G8Ym4m4RIQpctlo"
+    },
+    {
+      "album": {
         "name": "Hurbanistorias",
         "url": "https://open.spotify.com/album/1o8wNJhnLL493SfrM5McrY"
       },

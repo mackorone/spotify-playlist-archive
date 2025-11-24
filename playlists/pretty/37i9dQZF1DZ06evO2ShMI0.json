@@ -1,12 +1,12 @@
 {
   "description": "This is Los Enanitos Verdes. The essential tracks, all in one playlist.",
-  "num_followers": 205358,
+  "num_followers": 205379,
   "original_name": "This Is Los Enanitos Verdes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aR+rgAAAAABKTb+JQgsBaimvQSibwZFQ",
+  "snapshot_id": "aSD9AAAAAAD3432FTO/IZXMy7jABOKeo",
   "tracks": [
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tracci\u00f3n Ac\u00fastica",
-        "url": "https://open.spotify.com/album/7qu7sDMTGRKa3YTQSvJ0ga"
-      },
-      "artists": [
-        {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-        }
-      ],
-      "duration_ms": 272573,
-      "name": "No Me Veras / Metro Balderas - Medley",
-      "url": "https://open.spotify.com/track/0YxvtPIo6QQsdIX801mFNV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Guerra Gaucha",
         "url": "https://open.spotify.com/album/2CtpmjNAaPOGDwcKgYPKac"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 207706,
       "name": "El Dia Es Claro",
       "url": "https://open.spotify.com/track/158FXFTt5lWmsD4uHmjgZZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tracci\u00f3n Ac\u00fastica",
+        "url": "https://open.spotify.com/album/7qu7sDMTGRKa3YTQSvJ0ga"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "duration_ms": 272573,
+      "name": "No Me Veras / Metro Balderas - Medley",
+      "url": "https://open.spotify.com/track/0YxvtPIo6QQsdIX801mFNV"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nectar",
-        "url": "https://open.spotify.com/album/6g9Bcwy0fBb5kgnfQQrvV0"
-      },
-      "artists": [
-        {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-        }
-      ],
-      "duration_ms": 245360,
-      "name": "Tequila",
-      "url": "https://open.spotify.com/track/32FzCovAsFRe152kq21sJv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Planetario",
         "url": "https://open.spotify.com/album/7dmyvQjdhoCpU5qT73k3Yc"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 241440,
       "name": "Tibio Corazon",
       "url": "https://open.spotify.com/track/23FltX27Jle4ytbc5UPvAL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nectar",
+        "url": "https://open.spotify.com/album/6g9Bcwy0fBb5kgnfQQrvV0"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "duration_ms": 245360,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/32FzCovAsFRe152kq21sJv"
     },
     {
       "added_at": null,

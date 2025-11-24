@@ -4,7 +4,7 @@
 
 > Sounds of birds, rain, and forest ambience.
 
-207 songs - 9 hr 54 min
+208 songs - 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Bird\-watching](https://open.spotify.com/track/3dxPEV0XTNkhvAqx790nmo) | [Swedish Forest Birds](https://open.spotify.com/artist/0aW02sXtwKH8TEaJDPvg9N) | [Morning Forest Birds](https://open.spotify.com/album/1g53d39LNzKfa8p1aJhN5B) | 2:58 | 2022-03-25 |  |
 | [Birds & Passing Thunder](https://open.spotify.com/track/3ZrnxOOmcv1uHEmSM9b7vw) | [Solis Occasum](https://open.spotify.com/artist/6bKBTQOaODtyaHOJCnXMSd) | [Birds & Passing Thunder](https://open.spotify.com/album/7fZE4tCvRCTrqQHn8fvySj) | 3:38 | 2024-03-26 |  |
 | [Birds & Stream](https://open.spotify.com/track/6SenwdFqWVglPfDRUJhBSl) | [Peaceful Plausible](https://open.spotify.com/artist/2jBR2Yedi7YgJOjZLDtSJI) | [My Forest](https://open.spotify.com/album/1oe0LQiGTDp2tjxgEjpXtc) | 2:52 | 2023-09-20 |  |
-| [Birds by a Brook](https://open.spotify.com/track/6n9U9lAslKwRQvEYxEPaKr) | [Sounds of the Jungle](https://open.spotify.com/artist/13JAi6QRXqwdDSK4jY60Zh) | [Wildlife and Nature Soundscapes](https://open.spotify.com/album/3lM9fS11Kki3uL6o65Ozea) | 2:52 | 2023-03-03 |  |
+| [Birds at the River Mouth](https://open.spotify.com/track/6OgaXzdlt8fOkiXUpytRCc) | [Solmer](https://open.spotify.com/artist/7eqdkq0HQG1Q53nCfjCIE4) | [Birds at the River Mouth](https://open.spotify.com/album/7LCP7Q9dZSJdgRBagA5tfj) | 2:02 | 2025-11-11 |  |
+| [Birds by a Brook](https://open.spotify.com/track/6n9U9lAslKwRQvEYxEPaKr) | [Sounds of the Jungle](https://open.spotify.com/artist/13JAi6QRXqwdDSK4jY60Zh) | [Wildlife and Nature Soundscapes](https://open.spotify.com/album/3lM9fS11Kki3uL6o65Ozea) | 2:52 | 2023-03-03 | 2025-11-24 |
 | [Birds by the Creek](https://open.spotify.com/track/5XnreHT44evPJIcqWn9FSp) | [Nature Lab](https://open.spotify.com/artist/2EBjHUWeiiLMOz9A22c4he) | [Birds by the Creek](https://open.spotify.com/album/5tk2REf1nK7U5eqr01YFbg) | 1:09 | 2022-03-25 | 2023-06-20 |
 | [Birds By The River \- Green Noise](https://open.spotify.com/track/2o5mGn0YoP9bVseUcslrbi) | [MKG Sound Library](https://open.spotify.com/artist/4w6WFLprJAqxXhKCWfxnHN) | [Soothing Green Noise](https://open.spotify.com/album/214myHKaTaC0qjXa2VDLpW) | 2:37 | 2023-03-03 |  |
 | [Birds by the Stream](https://open.spotify.com/track/3458IPEk4hUgltmvecrYsJ) | [Nature Recordings](https://open.spotify.com/artist/6IJx7h0cuM3736FwR8Myiv) | [2017 Relaxing Outdoor Soundscapes](https://open.spotify.com/album/7e4uRRWT82EWgnkCfUzp2l) | 3:29 | 2022-03-25 | 2024-03-27 |

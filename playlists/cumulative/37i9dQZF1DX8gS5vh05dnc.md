@@ -4,7 +4,7 @@
 
 > 想紓解緊張壓力，就聽這些輕鬆、愉快的歌曲來讓自己放輕鬆。
 
-397 songs - 21 hr 11 min
+398 songs - 21 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -305,7 +305,7 @@
 | [Scissors](https://open.spotify.com/track/3JNgfzJac40BSzCc3H0e1i) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Scissors](https://open.spotify.com/album/4xcHcXY1WvL6MaSpEsBICL) | 2:25 | 2025-01-13 | 2025-04-29 |
 | [Second Gear](https://open.spotify.com/track/4rt9bnHdMk636bZk80yX4M) | [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu) | [Second Gear](https://open.spotify.com/album/21vErs9lrBQ3JRhwvXq5fI) | 3:06 | 2024-04-01 | 2024-04-09 |
 | [Secret Codes](https://open.spotify.com/track/1BSvCKeSJFGkynbhQVWsqw) | [Anthony Lazaro](https://open.spotify.com/artist/4eMIZNb3qBMQXkfwCaA31H), [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [Secret Codes](https://open.spotify.com/album/2kUJIRdImIgOpENlfguslI) | 2:48 | 2025-07-06 | 2025-07-14 |
-| [secret santa](https://open.spotify.com/track/7miGxdwpOYNtbdwG8SPuod) | [palemoon.wav](https://open.spotify.com/artist/3qIdJUayfhmeD2QJp6aP7W), [risy](https://open.spotify.com/artist/4MA9eWK70D4JdQmLpRDw2r) | [mistletunes vol\. 2](https://open.spotify.com/album/1YHiu7W141jtTrTubhyt6u) | 2:50 | 2025-11-16 |  |
+| [secret santa](https://open.spotify.com/track/7miGxdwpOYNtbdwG8SPuod) | [palemoon.wav](https://open.spotify.com/artist/3qIdJUayfhmeD2QJp6aP7W), [risy](https://open.spotify.com/artist/4MA9eWK70D4JdQmLpRDw2r) | [mistletunes vol\. 2](https://open.spotify.com/album/1YHiu7W141jtTrTubhyt6u) | 2:50 | 2025-11-16 | 2025-11-24 |
 | [See You In Life](https://open.spotify.com/track/4dNZaLSXpJMQowi7LX3gtC) | [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e) | [See You In Life](https://open.spotify.com/album/7CmqyXDDAdWTBdkgNxPEGI) | 4:01 | 2022-06-06 | 2022-07-29 |
 | [see\-thru](https://open.spotify.com/track/0f5QoMbJDcxyGHSngaFfT4) | [Pseudo](https://open.spotify.com/artist/4HqIcgpeGKabzBYczmfFgZ) | [see\-thru](https://open.spotify.com/album/3kY6p7XFk5wl77guJjdRWp) | 2:23 | 2023-07-03 | 2023-07-11 |
 | [Señorita](https://open.spotify.com/track/0TK2YIli7K1leLovkQiNik) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Señorita](https://open.spotify.com/album/2ZaX1FdZCwchXl1QZiD4O4) | 3:10 | 2022-07-25 |  |
@@ -349,6 +349,7 @@
 | [Supernova](https://open.spotify.com/track/7bH0QVI7g7kxRN7jN20NyE) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz) | [Supernova](https://open.spotify.com/album/3nKKFRuqnq2V1iIYFTCEgV) | 3:54 | 2025-01-27 | 2025-09-23 |
 | [Sway](https://open.spotify.com/track/0URET1QRXICvNhwgNn5OWD) | [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l), [Gabe Bondoc](https://open.spotify.com/artist/6YloMIsWjpHzIRK8s5tzAr) | [Sway](https://open.spotify.com/album/5j17Q40WrMCERsIFa9WCQh) | 2:40 | 2023-09-04 | 2023-09-12 |
 | [Sweet Hurting](https://open.spotify.com/track/2WFmtZWu1lV7emNPeWxBtB) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI), [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e) | [Sweet Hurting](https://open.spotify.com/album/0My4HXeLw9xcBwCLx2N5uw) | 3:34 | 2024-01-29 | 2024-02-13 |
+| [Sweet Tooth](https://open.spotify.com/track/4255eE0aWSyfbIWTpIE1qu) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [FLAMES](https://open.spotify.com/album/42s2X3WQppxdHafUT2dfmF) | 3:00 | 2025-11-23 |  |
 | [Take You Dancing](https://open.spotify.com/track/59qrUpoplZxbIZxk6X0Bm3) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Take You Dancing](https://open.spotify.com/album/3II80i5KpS38r0QjNzu8ly) | 3:10 | 2022-07-25 |  |
 | [Talk To Me](https://open.spotify.com/track/0ZnElXbF0geNJvnZJfl5wo) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Spinning Around](https://open.spotify.com/album/7eae6QcOQ7yyIa2YI4jwNS) | 2:56 | 2023-03-27 | 2023-04-04 |
 | [Teach Me How To Love](https://open.spotify.com/track/5LZtB6nxvjIhUoElp3Zqk0) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Wonder](https://open.spotify.com/album/3Lp4JKk2ZgNkybMRS3eZR5) | 3:22 | 2024-04-08 |  |

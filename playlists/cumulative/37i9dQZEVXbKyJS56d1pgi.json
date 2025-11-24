@@ -1782,8 +1782,8 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-19",
-      "duration_ms": 241106,
+      "date_removed": null,
+      "duration_ms": 241562,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
     },
@@ -2394,7 +2394,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 147293,
       "name": "ANYTHING BUT LOVE",
       "url": "https://open.spotify.com/track/66tlRqExpkn4kRyuxelzs5"
@@ -9034,7 +9034,7 @@
       ],
       "date_added": "2025-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 243240,
       "name": "Divinize",
       "url": "https://open.spotify.com/track/2JH26hQtnqWUNnQET8o2N1"
@@ -11692,6 +11692,36 @@
       "duration_ms": 152666,
       "name": "favorite crime",
       "url": "https://open.spotify.com/track/5JCoSi02qi3jJeHdZXMmR8"
+    },
+    {
+      "album": {
+        "name": "Os Dois Lados Da Moeda",
+        "url": "https://open.spotify.com/album/0fRzT77gUSZcB4yMQlv5mK"
+      },
+      "artists": [
+        {
+          "name": "Prod Gomes",
+          "url": "https://open.spotify.com/artist/2OykwFvrdokATKdUQPGAFA"
+        },
+        {
+          "name": "DJ Gomes Original",
+          "url": "https://open.spotify.com/artist/3nfX35AmNNFGx6Tu9WCW5r"
+        },
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        },
+        {
+          "name": "Bisqui",
+          "url": "https://open.spotify.com/artist/2TLX5U1HoPlgzky1SstRWJ"
+        }
+      ],
+      "date_added": "2025-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149333,
+      "name": "Faz assim",
+      "url": "https://open.spotify.com/track/0hB6UKgc3iKTphmGuWpNOg"
     },
     {
       "album": {
@@ -17638,7 +17668,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-29",
+      "date_removed": null,
       "duration_ms": 262960,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
@@ -23036,7 +23066,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 168134,
       "name": "NOBODY'S GIRL",
       "url": "https://open.spotify.com/track/2oPCpj9ezVq5D6IJNAGkL2"
@@ -27712,7 +27742,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-23",
+      "date_removed": null,
       "duration_ms": 254039,
       "name": "Respirar",
       "url": "https://open.spotify.com/track/3Fwap1UvFz66uQUPfUqvZq"
@@ -32360,7 +32390,7 @@
       ],
       "date_added": "2022-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-20",
+      "date_removed": null,
       "duration_ms": 258222,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/5kr0kja5gbZAaT7w3TGKts"
@@ -32396,7 +32426,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 258223,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/5p1eiAHN5xYAMrSUDKxidI"
@@ -34408,7 +34438,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 182017,
       "name": "TRYING ON SHOES",
       "url": "https://open.spotify.com/track/7AxXJXqJOMRqkgZxvG3r6E"

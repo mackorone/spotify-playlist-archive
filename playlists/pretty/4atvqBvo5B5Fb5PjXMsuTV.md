@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/4atvqBvo5B5Fb5PjXMsuTV.md) - [plain]
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 23 Nov 04:03 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 23 Nov 09:03 UTC.
 
-[Listige](https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis) - 102 likes - 50 songs - 2 hr 31 min
+[Listige](https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis) - 102 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,24 +39,24 @@ pretty - [cumulative](/playlists/cumulative/4atvqBvo5B5Fb5PjXMsuTV.md) - [plain]
 | 29 | [Left For Good](https://open.spotify.com/track/4pjSe7n2609YnMWnrJ3OVJ) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Left For Good](https://open.spotify.com/album/3i3GvVgRCQzAYbMeWUSzMq) | 3:53 |
 | 30 | [GIMME MORE](https://open.spotify.com/track/3H5zeP0WbEuk77bUwcOqcZ) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX) | [GIMME MORE](https://open.spotify.com/album/79TfVmx8S2A6aDGRUYDjRk) | 3:04 |
 | 31 | [No Comment](https://open.spotify.com/track/3VkA16jPKWOs7BIU5AWjyb) | [KNEECAP](https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU), [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO) | [No Comment](https://open.spotify.com/album/5jMW8JRRvthPDR7qQLNMqb) | 2:04 |
-| 32 | [ONE MORE TIME](https://open.spotify.com/track/7FyKqLLICVzwBiAUtbVYUW) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [ONE MORE TIME](https://open.spotify.com/album/5VxaQoQltZT93oaGc72Csy) | 3:15 |
-| 33 | [Breath](https://open.spotify.com/track/3L5wYisClQZ30ercc1hdn6) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [A Violet to Remember](https://open.spotify.com/album/2zzM42TgcBC65kOLj9hNwo) | 3:02 |
-| 34 | [Seatbelt Off](https://open.spotify.com/track/3IofWajzrTj002lv6Cq0Ig) | [Edward Skeletrix](https://open.spotify.com/artist/0xWlWvXGQve3reUhtjlPrS) | [Seatbelt Off](https://open.spotify.com/album/0KiXJ2GmgF1WL1hxf7oRcW) | 1:50 |
-| 35 | [FEAR](https://open.spotify.com/track/3HfKlhohNNTLIv2t9uvmzz) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [FEAR](https://open.spotify.com/album/6KLrnVqUhPpX4IzgHgsJTg) | 4:28 |
-| 36 | [I Don't Care](https://open.spotify.com/track/75lwu2RtEifLzaSLkbFcNe) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [I Don't Care](https://open.spotify.com/album/37paWn9y19J9WzdB3tZ0mz) | 3:09 |
-| 37 | [O Come, O Come Emmanuel](https://open.spotify.com/track/6P0W0azMoFa2GchGcRlQdA) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [O Come, O Come Emmanuel](https://open.spotify.com/album/0i8kFlv1Sf4LQRjYMQ4DwJ) | 4:32 |
-| 38 | [baby blue](https://open.spotify.com/track/2iUv18ruokAyhWk9w0CTYy) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [baby blue](https://open.spotify.com/album/2GRdKh2u9tleGC5gGWV8lx) | 3:16 |
-| 39 | [NPC](https://open.spotify.com/track/1gha8sE1ZhS3G74nQaazHH) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [NPC](https://open.spotify.com/album/76OeV1RkQcnOhoMfuk4EYt) | 4:05 |
-| 40 | [margiela](https://open.spotify.com/track/0RJaSzzb7t8kaEb5LzPFJC) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [margiela](https://open.spotify.com/album/6lCILy46F44uFdrHCunZss) | 2:18 |
-| 41 | [Joyride](https://open.spotify.com/track/7AkPhGsAWtMczTvSYH65q3) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Joyride](https://open.spotify.com/album/3MeGMRZzJ4Ij5Jj55oBG1r) | 2:30 |
-| 42 | [White Keys](https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [White Keys](https://open.spotify.com/album/0PRccyeXfXZBxi8dkIv17c) | 2:24 |
-| 43 | [MONEY AND CLOTHES](https://open.spotify.com/track/3ors9h42aOYWpzblOLhwvo) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [MONEY AND CLOTHES](https://open.spotify.com/album/5zP1LFAmi2dYGPFVMMgbKG) | 2:18 |
-| 44 | [Feel Something, Great.](https://open.spotify.com/track/7twRJwGWZC147R6QkE4s7f) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Feel Something, Great.](https://open.spotify.com/album/1s63AbCuvbrYCcPAm358Cq) | 3:21 |
-| 45 | [ANY MINUTE NOW](https://open.spotify.com/track/7ForfhYkKkD3BEil8PB5Hs) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [ANY MINUTE NOW](https://open.spotify.com/album/5qiwaNjoefoKyNv0iMXc16) | 3:12 |
-| 46 | [SCARY MERRi](https://open.spotify.com/track/1dcwam7zGPtlDsDUEm2hn5) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Conductor Williams](https://open.spotify.com/artist/1VuBGdfqq86BQyiDactQAC) | [SCARY MERRi](https://open.spotify.com/album/7GMfoOLopVVFdJ3BQdAnx2) | 2:29 |
-| 47 | [SEI IL MIO VELENO](https://open.spotify.com/track/6TLj2di7IuUfAQRRRxDeyZ) | [Bello Figo](https://open.spotify.com/artist/59rqdbDiB9oXuZggah1syh) | [SEI IL MIO VELENO](https://open.spotify.com/album/3td8jksb0eA14Mz1dOogt4) | 3:12 |
-| 48 | [FOREVER \- The Full Version](https://open.spotify.com/track/7KkOnVNMwtLheK3oXWcB2b) | [AJ Dispirito](https://open.spotify.com/artist/3GCo22R8vSTHqSP5mYM1E7) | [FOREVER \(The Full Version\)](https://open.spotify.com/album/1UUnLmP2tjMhtbv5ABFF44) | 5:10 |
-| 49 | [Know You](https://open.spotify.com/track/6UfY6mQh4HbONy2VHUbVyN) | [Kevin Atwater](https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6) | [Know You](https://open.spotify.com/album/7Eps2zGJCqK0Apuyk93i4X) | 3:12 |
-| 50 | [Little Miss](https://open.spotify.com/track/24GdDBCqLhHEe2cAFvgUrL) | [GIRLSET](https://open.spotify.com/artist/3D2TVeexyIXOtc8F4qEZ6P) | [Little Miss](https://open.spotify.com/album/5ychqszZ89oPl6rBKSkGc6) | 2:23 |
+| 32 | [T Shirt](https://open.spotify.com/track/0u0xPd6CRdaJK62D6Lo72P) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB) | [T Shirt](https://open.spotify.com/album/4HR7bBjUtMJgSExIJe1sXa) | 3:20 |
+| 33 | [ONE MORE TIME](https://open.spotify.com/track/7FyKqLLICVzwBiAUtbVYUW) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [ONE MORE TIME](https://open.spotify.com/album/5VxaQoQltZT93oaGc72Csy) | 3:15 |
+| 34 | [Breath](https://open.spotify.com/track/3L5wYisClQZ30ercc1hdn6) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [A Violet to Remember](https://open.spotify.com/album/2zzM42TgcBC65kOLj9hNwo) | 3:02 |
+| 35 | [Seatbelt Off](https://open.spotify.com/track/3IofWajzrTj002lv6Cq0Ig) | [Edward Skeletrix](https://open.spotify.com/artist/0xWlWvXGQve3reUhtjlPrS) | [Seatbelt Off](https://open.spotify.com/album/0KiXJ2GmgF1WL1hxf7oRcW) | 1:50 |
+| 36 | [FEAR](https://open.spotify.com/track/3HfKlhohNNTLIv2t9uvmzz) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [FEAR](https://open.spotify.com/album/6KLrnVqUhPpX4IzgHgsJTg) | 4:28 |
+| 37 | [I Don't Care](https://open.spotify.com/track/75lwu2RtEifLzaSLkbFcNe) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [I Don't Care](https://open.spotify.com/album/37paWn9y19J9WzdB3tZ0mz) | 3:09 |
+| 38 | [O Come, O Come Emmanuel](https://open.spotify.com/track/6P0W0azMoFa2GchGcRlQdA) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [O Come, O Come Emmanuel](https://open.spotify.com/album/0i8kFlv1Sf4LQRjYMQ4DwJ) | 4:32 |
+| 39 | [baby blue](https://open.spotify.com/track/2iUv18ruokAyhWk9w0CTYy) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [baby blue](https://open.spotify.com/album/2GRdKh2u9tleGC5gGWV8lx) | 3:16 |
+| 40 | [NPC](https://open.spotify.com/track/1gha8sE1ZhS3G74nQaazHH) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [NPC](https://open.spotify.com/album/76OeV1RkQcnOhoMfuk4EYt) | 4:05 |
+| 41 | [margiela](https://open.spotify.com/track/0RJaSzzb7t8kaEb5LzPFJC) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [margiela](https://open.spotify.com/album/6lCILy46F44uFdrHCunZss) | 2:18 |
+| 42 | [Joyride](https://open.spotify.com/track/7AkPhGsAWtMczTvSYH65q3) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Joyride](https://open.spotify.com/album/3MeGMRZzJ4Ij5Jj55oBG1r) | 2:30 |
+| 43 | [White Keys](https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [White Keys](https://open.spotify.com/album/0PRccyeXfXZBxi8dkIv17c) | 2:24 |
+| 44 | [MONEY AND CLOTHES](https://open.spotify.com/track/3ors9h42aOYWpzblOLhwvo) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [MONEY AND CLOTHES](https://open.spotify.com/album/5zP1LFAmi2dYGPFVMMgbKG) | 2:18 |
+| 45 | [Feel Something, Great.](https://open.spotify.com/track/7twRJwGWZC147R6QkE4s7f) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Feel Something, Great.](https://open.spotify.com/album/1s63AbCuvbrYCcPAm358Cq) | 3:21 |
+| 46 | [ANY MINUTE NOW](https://open.spotify.com/track/7ForfhYkKkD3BEil8PB5Hs) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [ANY MINUTE NOW](https://open.spotify.com/album/5qiwaNjoefoKyNv0iMXc16) | 3:12 |
+| 47 | [SCARY MERRi](https://open.spotify.com/track/1dcwam7zGPtlDsDUEm2hn5) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Conductor Williams](https://open.spotify.com/artist/1VuBGdfqq86BQyiDactQAC) | [SCARY MERRi](https://open.spotify.com/album/7GMfoOLopVVFdJ3BQdAnx2) | 2:29 |
+| 48 | [SEI IL MIO VELENO](https://open.spotify.com/track/6TLj2di7IuUfAQRRRxDeyZ) | [Bello Figo](https://open.spotify.com/artist/59rqdbDiB9oXuZggah1syh) | [SEI IL MIO VELENO](https://open.spotify.com/album/3td8jksb0eA14Mz1dOogt4) | 3:12 |
+| 49 | [FOREVER \- The Full Version](https://open.spotify.com/track/7KkOnVNMwtLheK3oXWcB2b) | [AJ Dispirito](https://open.spotify.com/artist/3GCo22R8vSTHqSP5mYM1E7) | [FOREVER \(The Full Version\)](https://open.spotify.com/album/1UUnLmP2tjMhtbv5ABFF44) | 5:10 |
+| 50 | [Know You](https://open.spotify.com/track/6UfY6mQh4HbONy2VHUbVyN) | [Kevin Atwater](https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6) | [Know You](https://open.spotify.com/album/7Eps2zGJCqK0Apuyk93i4X) | 3:12 |
 
-Snapshot ID: `AAAWVeQFnouDP4QYgz6zjlpgMaVw3ulf`
+Snapshot ID: `AAAWV4fOXrUTLWKPrhWJZPDX6ugTCKCn`

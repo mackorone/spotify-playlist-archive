@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 
 > as gigas da net
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,588,861 likes - 70 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,589,571 likes - 70 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 69 | [Vou Passar Gelinho](https://open.spotify.com/track/2BfDOZLtOL79e6L6QphWlS) | [MC LUUKY](https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7), [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U), [DG e Batidão Stronda](https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ) | [Vou Passar Gelinho](https://open.spotify.com/album/1oSR4ze0V0iwLUCit4oGfY) | 2:22 |
 | 70 | [Resenha do Arrocha](https://open.spotify.com/track/0NQyryTVbjGMtWMA1eSqIn) | [J\. Eskine](https://open.spotify.com/artist/4gKSUeHW82tGBeJsJSB1JC), [Alef Donk](https://open.spotify.com/artist/0aSE67DwCWR6JKhdVUmz6I) | [Resenha do Arrocha](https://open.spotify.com/album/6GvpJLmtqRLBoxbslhZNPt) | 5:54 |
 
-Snapshot ID: `AAAAANmgEEi6bGuszZNOdvDBok+QhOeg`
+Snapshot ID: `AAAAAHsnZ0CVIvFfga/1zD2bD9iSi2ea`

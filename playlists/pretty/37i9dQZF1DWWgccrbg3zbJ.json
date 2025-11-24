@@ -1,6 +1,6 @@
 {
   "description": "The classic recordings from Bossa Nova. Cover: Jo\u00e3o Gilberto",
-  "num_followers": 527294,
+  "num_followers": 527718,
   "original_name": "Bossa Nova Classics",
   "owner": {
     "name": "Spotify",
@@ -27,6 +27,22 @@
     {
       "added_at": "2025-07-14 08:19:39",
       "album": {
+        "name": "Mas Que Nada",
+        "url": "https://open.spotify.com/album/2OAg6yUqeTP078mh1BLIDL"
+      },
+      "artists": [
+        {
+          "name": "Sergio Mendes & Brasil '66",
+          "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
+        }
+      ],
+      "duration_ms": 159333,
+      "name": "Mas Que Nada",
+      "url": "https://open.spotify.com/track/0Vl9aGb0dmeiCQ2ATgNK2B"
+    },
+    {
+      "added_at": "2025-07-14 08:19:39",
+      "album": {
         "name": "Vinicius & Toquinho",
         "url": "https://open.spotify.com/album/5DRGRv3kZwLwislN27IaUz"
       },
@@ -47,22 +63,6 @@
       "duration_ms": 158360,
       "name": "Carta Ao Tom 74",
       "url": "https://open.spotify.com/track/5DHsGfjaxIpt0v0dPGaWdI"
-    },
-    {
-      "added_at": "2025-07-14 08:19:39",
-      "album": {
-        "name": "Mas Que Nada",
-        "url": "https://open.spotify.com/album/2OAg6yUqeTP078mh1BLIDL"
-      },
-      "artists": [
-        {
-          "name": "Sergio Mendes & Brasil '66",
-          "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
-        }
-      ],
-      "duration_ms": 159333,
-      "name": "Mas Que Nada",
-      "url": "https://open.spotify.com/track/0Vl9aGb0dmeiCQ2ATgNK2B"
     },
     {
       "added_at": "2025-07-14 08:19:39",
@@ -1063,8 +1063,8 @@
     {
       "added_at": "2025-07-14 08:19:39",
       "album": {
-        "name": "H\u00f4-B\u00e1-L\u00e1-L\u00e1",
-        "url": "https://open.spotify.com/album/2yHz1xJFHbJzhBitif1HJp"
+        "name": "Bossa Nova Essentials",
+        "url": "https://open.spotify.com/album/2hVlKPHcnN1xpdnIQOfTfi"
       },
       "artists": [
         {
@@ -1072,9 +1072,9 @@
           "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
         }
       ],
-      "duration_ms": 124682,
-      "name": "Rosa Morena",
-      "url": "https://open.spotify.com/track/2a9RgLSgbfIQwEiwCltTSK"
+      "duration_ms": 122866,
+      "name": "O pato",
+      "url": "https://open.spotify.com/track/6u6E9DZgzyyo1oFofn7zIs"
     },
     {
       "added_at": "2025-07-14 08:19:39",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,570 likes - 170 songs - 10 hr 36 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,572 likes - 173 songs - 10 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -178,5 +178,8 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 168 | [Deadly Bargain](https://open.spotify.com/track/2GcKDv6tEGW1It3WTTxbxQ) | [The Thick Uns'](https://open.spotify.com/artist/6ccHRbcIouqzsSExLYiRCq) | [Deadly Bargain](https://open.spotify.com/album/5vphnozEZ5bBylR35UxvG2) | 3:35 |
 | 169 | [Don't Tell Mary](https://open.spotify.com/track/05hAnLiPMxKUWrHADwEIQF) | [James Sebastian](https://open.spotify.com/artist/6IX76Xz04QnJdDtcDIfoD6) | [Don't Tell Mary](https://open.spotify.com/album/754oFY4ZwA8fFXsPzvA67E) | 2:51 |
 | 170 | [Snap](https://open.spotify.com/track/5bpmmQWr0xW9XrAWIiXl2K) | [Glorification](https://open.spotify.com/artist/5VAtjGCSSccAG7AoeyxM5I) | [Snap](https://open.spotify.com/album/03VNzdrX0AUpaogdpHwm7F) | 3:23 |
+| 171 | [Ouroboros](https://open.spotify.com/track/23w8U7ujIWpdMlRYazgl1F) | [Synthetic Broadcast](https://open.spotify.com/artist/16H0ape8xiGKFnqUoU6AWQ) | [Reverie](https://open.spotify.com/album/5c7IszYceIopxhjpZGSIKL) | 2:56 |
+| 172 | [STRANGER'S GROOVE](https://open.spotify.com/track/2ui1yY0rOb4PZEAMs25Zu4) | [YOS JAMES](https://open.spotify.com/artist/6iQ8xFB2QZhLyD3SjWLFn2) | [STRANGER'S GROOVE](https://open.spotify.com/album/1cSWCYaLEGd443YOKMEsk3) | 4:00 |
+| 173 | [Ya sev Ya öldür](https://open.spotify.com/track/6OXW8XDKT53BLfcARq7U7F) | [Yürümeyen Merdiven](https://open.spotify.com/artist/5qxtKwjihWyBWuy7Tjs3ue) | [Ya sev Ya öldür](https://open.spotify.com/album/2eSYlzWMaj9KoZfDc2eqOx) | 3:00 |
 
-Snapshot ID: `AAAJ/VjhVmgvbF9K6OjjvZXPbN0mqTUS`
+Snapshot ID: `AAAKACBmzh9VCENuV4yjqudr3Z+3ZgcS`

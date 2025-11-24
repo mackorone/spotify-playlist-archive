@@ -1,12 +1,12 @@
 {
   "description": "This is Nightwish. The essential tracks, all in one playlist.",
-  "num_followers": 262193,
+  "num_followers": 262198,
   "original_name": "This Is Nightwish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aR+rgAAAAAC42jqbYgMhMusGoomvgf9J",
+  "snapshot_id": "aSD9AAAAAABfEb5FOfvN1eInUgh8dzsL",
   "tracks": [
     {
       "added_at": null,
@@ -123,22 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Endless Forms Most Beautiful (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1tVEWlyn2nsAke3Lp7HoZ0"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 289009,
-      "name": "Alpenglow",
-      "url": "https://open.spotify.com/track/5UlVP9eewIYpqewZv6kToz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Century Child",
         "url": "https://open.spotify.com/album/2fmfAN3tCHMIU8WZuG35ZK"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 248706,
       "name": "The Phantom Of The Opera",
       "url": "https://open.spotify.com/track/6VOxRb9IAJQDDyHBlyEdPF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Endless Forms Most Beautiful (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1tVEWlyn2nsAke3Lp7HoZ0"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 289009,
+      "name": "Alpenglow",
+      "url": "https://open.spotify.com/track/5UlVP9eewIYpqewZv6kToz"
     },
     {
       "added_at": null,
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
         }
       ],
-      "duration_ms": 386267,
-      "name": "Spider Silk",
-      "url": "https://open.spotify.com/track/2nV6SKSccjYc8SB4hUFUmJ"
+      "duration_ms": 355040,
+      "name": "The Antikythera Mechanism",
+      "url": "https://open.spotify.com/track/3CJ3Bbq0nUh8lFt1hHUI1K"
     },
     {
       "added_at": null,
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
         }
       ],
-      "duration_ms": 355040,
-      "name": "The Antikythera Mechanism",
-      "url": "https://open.spotify.com/track/3CJ3Bbq0nUh8lFt1hHUI1K"
+      "duration_ms": 386267,
+      "name": "Spider Silk",
+      "url": "https://open.spotify.com/track/2nV6SKSccjYc8SB4hUFUmJ"
     },
     {
       "added_at": null,

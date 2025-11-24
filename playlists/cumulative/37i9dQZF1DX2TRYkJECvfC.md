@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-654 songs - 2 day 5 hr 51 min
+655 songs - 2 day 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,7 @@
 | [Extassy](https://open.spotify.com/track/2uK3ghC7nVXanDzeTL22Zw) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Extassy / In A Distorted Galaxy](https://open.spotify.com/album/7ik3JfNXlgGFLqeEtgzWS0) | 9:43 | 2022-10-28 | 2025-08-30 |
 | [Fade](https://open.spotify.com/track/1bNo2ybJL8rmZzOdd6T3sG) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB), [Sølv](https://open.spotify.com/artist/4QmC9vyeUlNcmR9sKzbmxe) | [Fade](https://open.spotify.com/album/29CnJBF1VbNG79dvyguEzj) | 3:18 | 2023-02-03 |  |
 | [Fade \- Fatima & Jerome Interpretation](https://open.spotify.com/track/2s2Cgh3uwaMpCnIXavUSHt) | [Fatima Njai](https://open.spotify.com/artist/2ZsFEqTaZHuETRbQfgBsQS), [Jerome Sydenham](https://open.spotify.com/artist/4e7xQaHgOjyFZtSic0Nk9B) | [Brooklyn Zoo](https://open.spotify.com/album/4ngyeGZoZZN0HGC2uwUHDM) | 6:03 | 2021-12-08 | 2023-03-07 |
-| [Fade Away](https://open.spotify.com/track/2F3j8fIePm0ZfWo5tGeRch) | [Warung](https://open.spotify.com/artist/2V1Ub5tTf23y9LkBjLT5hz) | [Fade Away](https://open.spotify.com/album/2f1yVOoMjf7QNPXGkGz9kw) | 3:12 | 2025-11-07 |  |
+| [Fade Away](https://open.spotify.com/track/2F3j8fIePm0ZfWo5tGeRch) | [Warung](https://open.spotify.com/artist/2V1Ub5tTf23y9LkBjLT5hz) | [Fade Away](https://open.spotify.com/album/2f1yVOoMjf7QNPXGkGz9kw) | 3:12 | 2025-11-07 | 2025-11-24 |
 | [Faded Memory](https://open.spotify.com/track/30sWK9of3ll8689n12qV0b) | [Planète](https://open.spotify.com/artist/6Vu5ri1skVRQ5jh8Tkytri) | [Alone In Parallel / Faded Memory](https://open.spotify.com/album/7mZsqsu1FHR3QKnF4eH3sV) | 4:14 | 2021-12-08 | 2023-08-12 |
 | [Falling Apart](https://open.spotify.com/track/6OLWbvjMrcnjee9YyD6qnA) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Falling Apart](https://open.spotify.com/album/2WOEuoplEe5oGQlz6jNlji) | 3:28 | 2024-08-02 |  |
 | [Far Away](https://open.spotify.com/track/0owkRiLsjtXe3JKYxt9tf5) | [jackLNDN](https://open.spotify.com/artist/6ZPZXXnq3PbxZSR9vu9fso), [ZEMBU](https://open.spotify.com/artist/62VBDaxSQkTLYkKIXVItGr) | [Far Away](https://open.spotify.com/album/1A20CLLIpdw7tsZu25xZ7C) | 2:58 | 2021-12-08 | 2025-08-30 |
@@ -346,6 +346,7 @@
 | [Mellow](https://open.spotify.com/track/5dhQJgHeU8xa1OtEbPebVr) | [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Mellow](https://open.spotify.com/album/4uZzlvqWYyF8erhXX85QmB) | 7:56 | 2021-12-08 | 2022-05-22 |
 | [Melting Bliss](https://open.spotify.com/track/7wzfiANWv9KB89QBgwbKif) | [Ron Flatter](https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq) | [Melting Bliss](https://open.spotify.com/album/0lI1GqJDDjGqBabdcaNNiR) | 6:44 | 2024-07-12 | 2025-10-29 |
 | [Memories](https://open.spotify.com/track/3wNi79QD5Jkz9yWFSGEeBl) | [LJ MASE](https://open.spotify.com/artist/3agWAq6ZjoWlv5Igeya98N), [Jodie Knight](https://open.spotify.com/artist/4D8bh9Rvbpq8sHjPWVies5) | [Memories](https://open.spotify.com/album/2eVjPnHAVEhHd4povh4dRg) | 5:06 | 2021-12-08 | 2022-11-17 |
+| [Memories \(Feat\. Ova Looven\)](https://open.spotify.com/track/7wjyAbP4at1DDE6Af4Y1uE) | [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V), [Ova Looven](https://open.spotify.com/artist/2TimZvD1IDNMwwzQDNHMKX) | [Dear Friend](https://open.spotify.com/album/2ZQZ9xjA8hoDxpDhmsSbDr) | 5:12 | 2025-11-21 |  |
 | [Midnight \- Original Mix](https://open.spotify.com/track/5jAAoKfKfENn8EfjqfItKX) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Midnight EP](https://open.spotify.com/album/0IO4rC04ohE3akbw7dQX8v) | 6:59 | 2022-05-03 | 2024-04-13 |
 | [Miles Away](https://open.spotify.com/track/1OREiVG8WlWMHNvGsLlHQ7) | [The Kite String Tangle](https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7) | [Miles Away](https://open.spotify.com/album/7yzn2vH1JLMwx0uTwiQpxa) | 4:28 | 2023-09-08 |  |
 | [Mimose](https://open.spotify.com/track/5aYZ8EM8Do3PpgUqArgiQ8) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Mimose](https://open.spotify.com/album/4Ng9Nfr1cVIftnjfuzDUG2) | 4:14 | 2024-01-26 |  |

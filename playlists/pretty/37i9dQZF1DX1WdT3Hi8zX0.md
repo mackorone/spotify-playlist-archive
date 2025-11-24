@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WdT3Hi8zX0.md) - [plain]
 
 > Enjoy music from "HAIKYU!!" ©古舘春一／集英社・「ハイキュー!!」製作委員会・MBS
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,070 likes - 46 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,109 likes - 46 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

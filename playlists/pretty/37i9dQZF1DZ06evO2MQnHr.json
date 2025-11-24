@@ -1,12 +1,12 @@
 {
   "description": "This is Madeline Merlo. The essential tracks, all in one playlist.",
-  "num_followers": 450,
+  "num_followers": 451,
   "original_name": "This Is Madeline Merlo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aR+rgAAAAAAKs5zNcKV8MT+dew3RzbBt",
+  "snapshot_id": "aSD9AAAAAAC6sItcUhybIWmPk9i1BiUR",
   "tracks": [
     {
       "added_at": null,
@@ -27,26 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dream House",
-        "url": "https://open.spotify.com/album/4ZysfboxjcufMoSnnw4aoh"
-      },
-      "artists": [
-        {
-          "name": "Adam Doleac",
-          "url": "https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew"
-        },
-        {
-          "name": "Madeline Merlo",
-          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
-        }
-      ],
-      "duration_ms": 152748,
-      "name": "Day One (ft. Madeline Merlo)",
-      "url": "https://open.spotify.com/track/17qCaa3TLb3vOXc68p2w9B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Broken Heart Thing (feat. Dustin Lynch)",
         "url": "https://open.spotify.com/album/5y0ocwzDSZ9B8YENtOkEcK"
       },
@@ -63,6 +43,26 @@
       "duration_ms": 186520,
       "name": "Broken Heart Thing (feat. Dustin Lynch)",
       "url": "https://open.spotify.com/track/72ecTORp2pXeLM5f7ayHI4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dream House",
+        "url": "https://open.spotify.com/album/4ZysfboxjcufMoSnnw4aoh"
+      },
+      "artists": [
+        {
+          "name": "Adam Doleac",
+          "url": "https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew"
+        },
+        {
+          "name": "Madeline Merlo",
+          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+        }
+      ],
+      "duration_ms": 152748,
+      "name": "Day One (ft. Madeline Merlo)",
+      "url": "https://open.spotify.com/track/17qCaa3TLb3vOXc68p2w9B"
     },
     {
       "added_at": null,

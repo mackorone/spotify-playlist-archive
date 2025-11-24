@@ -19739,6 +19739,24 @@
     },
     {
       "album": {
+        "name": "Get to Choose",
+        "url": "https://open.spotify.com/album/7HKZIh4ji2eA2LGNbhGpKc"
+      },
+      "artists": [
+        {
+          "name": "Dirt Buyer",
+          "url": "https://open.spotify.com/artist/6MzWbIkpg9it7v13OQkDdp"
+        }
+      ],
+      "date_added": "2025-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184438,
+      "name": "Get to Choose",
+      "url": "https://open.spotify.com/track/5h9FYRmddlb1x0ybleGPxY"
+    },
+    {
+      "album": {
         "name": "Get Up Kid",
         "url": "https://open.spotify.com/album/2R7PVrfhfVcGPTXI8nDVGL"
       },

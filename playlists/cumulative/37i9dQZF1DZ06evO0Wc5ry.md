@@ -4,7 +4,7 @@
 
 > This is Outkast\. The essential tracks, all in one playlist.
 
-50 songs - 3 hr 38 min
+51 songs - 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,12 +26,13 @@
 | [Hootie Hoo](https://open.spotify.com/track/2B7hM098uEDiLJqTsUY4Ba) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Southernplayalisticadillacmuzik](https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G) | 3:58 | 2025-11-11 |  |
 | [Humble Mumble \(feat\. Erykah Badu\)](https://open.spotify.com/track/5cN4KyXGUdNOve1TEPWmhL) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Stankonia](https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj) | 4:50 | 2025-11-11 |  |
 | [I Can't Wait](https://open.spotify.com/track/23XFjkEHUpVh3fmcNJFkaR) | [Sleepy Brown](https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v), [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [I Can't Wait featuring Outkast](https://open.spotify.com/album/4roCYuHEKOHiiheXi8sKiT) | 4:32 | 2025-11-11 |  |
-| [I'm Cool \(Interlude\)](https://open.spotify.com/track/7oPZ3p284QJyziNreCzQQ3) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Stankonia \(25th Anniversary\)](https://open.spotify.com/album/6k5p5oU3jFqUc3p8U7qYwA) | 0:42 | 2025-11-11 |  |
+| [I'm Cool \(Interlude\)](https://open.spotify.com/track/7oPZ3p284QJyziNreCzQQ3) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Stankonia \(25th Anniversary\)](https://open.spotify.com/album/6k5p5oU3jFqUc3p8U7qYwA) | 0:42 | 2025-11-11 | 2025-11-24 |
 | [Idlewild Blue \(Don'tchu Worry 'Bout Me\)](https://open.spotify.com/track/3tkbjyAmQnGsD52Rn8TCX8) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Idlewild](https://open.spotify.com/album/3L6JBfRxhzGzhhRDlTEdBz) | 3:24 | 2025-11-11 |  |
 | [In Due Time \(with Cee\-Lo\)](https://open.spotify.com/track/0F7IWMsRmk9P9ML4prVlr0) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [In Due Time](https://open.spotify.com/album/06ECofyrsfq7eyIoeWV0QU) | 4:20 | 2025-11-11 |  |
 | [Int'l Players Anthem \(I Choose You\) \(feat\. Outkast\)](https://open.spotify.com/track/4ns1XFP3W5JPyzvnAjMdHD) | [UGK](https://open.spotify.com/artist/6ZhjJOJXXwnPS8PrXdmjLw), [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [UGK \(Underground Kingz\)](https://open.spotify.com/album/4GXlMz68LyGZeHzJcetFi1) | 4:19 | 2025-11-11 |  |
 | [Intro](https://open.spotify.com/track/2lNAxWtNMijrRN53dWLCPW) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Stankonia \(25th Anniversary\)](https://open.spotify.com/album/6k5p5oU3jFqUc3p8U7qYwA) | 1:09 | 2025-11-11 |  |
 | [Jazzy Belle](https://open.spotify.com/track/6w4MlvpuxtbjGdL9YeTx89) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [ATLiens](https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0) | 4:11 | 2025-11-11 |  |
+| [Mighty "O"](https://open.spotify.com/track/25EtWmcUALs9Gtfiv7Bcab) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Idlewild](https://open.spotify.com/album/3L6JBfRxhzGzhhRDlTEdBz) | 4:16 | 2025-11-24 |  |
 | [Millennium](https://open.spotify.com/track/50Fp9rUhDZvGJ4UUz4mTwp) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [ATLiens](https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0) | 3:09 | 2025-11-11 |  |
 | [Morris Brown \(feat\. Scar & Sleepy Brown\)](https://open.spotify.com/track/18uAu5gCnoGGNYQu8LeAr1) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Scar](https://open.spotify.com/artist/2skahWK8IOGB6oBCbR2e7D), [Sleepy Brown](https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v) | [Idlewild](https://open.spotify.com/album/3L6JBfRxhzGzhhRDlTEdBz) | 4:24 | 2025-11-11 |  |
 | [Ms\. Jackson](https://open.spotify.com/track/0I3q5fE6wg7LIfHGngUTnV) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Stankonia](https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj) | 4:30 | 2025-11-11 |  |

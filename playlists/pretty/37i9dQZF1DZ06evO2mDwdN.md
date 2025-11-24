@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mDwdN.md) - [plain]
 
 > This is Harold Melvin & The Blue Notes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,860 likes - 50 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,864 likes - 50 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mDwdN.md) - [plain]
 | 43 | [A House Is Not A Home \- Live](https://open.spotify.com/track/1RSo4zPAo4BlHaZwldlzRp) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv), [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Sharon Paige](https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk) | [The Intruders vs Harold Melvin's Blue Notes \(Live In Concert\)](https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN) | 8:18 |
 | 44 | [Baby I'm Back](https://open.spotify.com/track/2sNdjfbx8icAt0iVfN7JZ1) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [Philadelphia Soul](https://open.spotify.com/album/3dMZCIfXUns8VppCaP53Av) | 3:50 |
 | 45 | [If You Don't Know Christ by Now](https://open.spotify.com/track/6gXtxEee0iLH3Dug0WV81T) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [If You Don't Know Christ by Now](https://open.spotify.com/album/1NVw7iYkO1pJzTeKyqgp0Y) | 4:35 |
-| 46 | [This Is The Love](https://open.spotify.com/track/5pjHNWc7sdv9RXnXsCwIEk) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [80's Love Songs](https://open.spotify.com/album/6B1HPZ1E0Cc9fLUUaDeuFA) | 4:23 |
+| 46 | [For the Love of Money](https://open.spotify.com/track/6fEyeDyZC9QE2aO7HcGuZN) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [Retro Swag: Soulful Sounds and Funky Favorites](https://open.spotify.com/album/3GFvHWFNoj2xEjYw8SxVfA) | 3:32 |
 | 47 | [The Intruders Medley Introduction \- Live](https://open.spotify.com/track/1fmmjBUc9UHPl5x0YrtLBZ) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv), [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Sharon Paige](https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk) | [The Intruders vs Harold Melvin's Blue Notes \(Live In Concert\)](https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN) | 1:29 |
 | 48 | [All Night Love](https://open.spotify.com/track/22gYBY9H7vxZYMjB9THXL5) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [Philadelphia Soul](https://open.spotify.com/album/3dMZCIfXUns8VppCaP53Av) | 5:56 |
-| 49 | [For the Love of Money](https://open.spotify.com/track/6fEyeDyZC9QE2aO7HcGuZN) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [Retro Swag: Soulful Sounds and Funky Favorites](https://open.spotify.com/album/3GFvHWFNoj2xEjYw8SxVfA) | 3:32 |
+| 49 | [This Is The Love](https://open.spotify.com/track/5pjHNWc7sdv9RXnXsCwIEk) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [80's Love Songs](https://open.spotify.com/album/6B1HPZ1E0Cc9fLUUaDeuFA) | 4:23 |
 | 50 | [Go Away](https://open.spotify.com/track/1Q64Qh16VXUDPOyMNVFb71) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [Cooler Than Ice: Arctic Records and the Rise of Philly Soul](https://open.spotify.com/album/5A6zOGYJ1Ja1SAZAGJfdWv) | 3:02 |
 
-Snapshot ID: `aR+rgAAAAAD+BDS4kNegnASSrTtJ0LdV`
+Snapshot ID: `aSD9AAAAAADdGR3TmNLSmVEO8U5L4HOp`

@@ -6,7 +6,7 @@
     "name": "Starkoft",
     "url": "https://open.spotify.com/user/xnh6geml57106421pi4l32t6v"
   },
-  "snapshot_id": "AAAGW5GVz1cifXEVWXSEBtOmvNiLlhQu",
+  "snapshot_id": "AAAGXb7EBprmpmD5znBIquLkpvH5CP1v",
   "tracks": [
     {
       "added_at": "2025-03-13 12:48:31",
@@ -811,6 +811,42 @@
       "duration_ms": 296387,
       "name": "One Last Time",
       "url": "https://open.spotify.com/track/0Iys022UwQ8xBfxE1g4nWZ"
+    },
+    {
+      "added_at": "2025-11-23 17:07:33",
+      "album": {
+        "name": "Live at Virtue and Vice Studio",
+        "url": "https://open.spotify.com/album/7hoM6KnToWUFhTU77wBgIa"
+      },
+      "artists": [
+        {
+          "name": "Lucky Chops",
+          "url": "https://open.spotify.com/artist/2b6gc4EVpO6OTlDvKrK852"
+        }
+      ],
+      "duration_ms": 267000,
+      "name": "Without You (4 Tonite) - Live",
+      "url": "https://open.spotify.com/track/4Ymlnq6LskNxKfn5nCcPSp"
+    },
+    {
+      "added_at": "2025-11-23 17:07:41",
+      "album": {
+        "name": "Go Time: Brooklyn 2",
+        "url": "https://open.spotify.com/album/2JXQkc6uFrKMek2Uly0Ma3"
+      },
+      "artists": [
+        {
+          "name": "Grace Kelly",
+          "url": "https://open.spotify.com/artist/7bcjgJLky9kVQ4GcrQTibn"
+        },
+        {
+          "name": "Leo P",
+          "url": "https://open.spotify.com/artist/12lHwk1GMNxnZF6pUMC4Sc"
+        }
+      ],
+      "duration_ms": 339863,
+      "name": "Fish and Chips",
+      "url": "https://open.spotify.com/track/1qKkiLxCfNwOLeQ5XS1rHA"
     }
   ],
   "unique_name": "idek man",

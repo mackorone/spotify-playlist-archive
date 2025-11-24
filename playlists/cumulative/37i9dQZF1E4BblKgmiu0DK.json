@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "ROCKHOUSE",
+        "url": "https://open.spotify.com/album/0CCYu5LKEbX8AmDCbLk4Td"
+      },
+      "artists": [
+        {
+          "name": "Miss J",
+          "url": "https://open.spotify.com/artist/65CAyE8jaPzUFYWAk8UzxC"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162133,
+      "name": "22424",
+      "url": "https://open.spotify.com/track/45FIfEjoq5qohFs64ALnpy"
+    },
+    {
+      "album": {
         "name": "3",
         "url": "https://open.spotify.com/album/5HaCposgjWWP6SoLFtEy9o"
       },
@@ -88,7 +106,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 191066,
       "name": "Already Dead",
       "url": "https://open.spotify.com/track/7bzenh25iZVgL15KzevtgQ"
@@ -214,7 +232,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 168853,
       "name": "Better This Way",
       "url": "https://open.spotify.com/track/7brQyMRAa0J1VfQUAauNhy"
@@ -286,7 +304,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 199750,
       "name": "Breaking Up",
       "url": "https://open.spotify.com/track/7GD9VoLRxn1xEmWreGBgPF"
@@ -340,7 +358,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 213500,
       "name": "Cyclone",
       "url": "https://open.spotify.com/track/6fsjuydBbdn3p931Yt211o"
@@ -358,7 +376,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 184350,
       "name": "Cytherea",
       "url": "https://open.spotify.com/track/3P2oRXVnuV6YAo0UQAxp4A"
@@ -376,7 +394,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 172639,
       "name": "Dark waves",
       "url": "https://open.spotify.com/track/0uVU62hPkak4JLXJ6O0ER6"
@@ -394,7 +412,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-23",
+      "date_removed": null,
       "duration_ms": 191240,
       "name": "Dead Honey",
       "url": "https://open.spotify.com/track/1UClxw7v1bRhB6GpoVmO3O"
@@ -466,10 +484,28 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-22",
+      "date_removed": null,
       "duration_ms": 116198,
       "name": "Echoes of the Underworld",
       "url": "https://open.spotify.com/track/1RfK4I3vO2gJHV1xIHIFaf"
+    },
+    {
+      "album": {
+        "name": "Inside The Hollow",
+        "url": "https://open.spotify.com/album/04ZUaYNv07KLNMtKtQPCTG"
+      },
+      "artists": [
+        {
+          "name": "Lillix",
+          "url": "https://open.spotify.com/artist/00hKB8cu5lyBE35ilxyP7v"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202133,
+      "name": "Every Girl",
+      "url": "https://open.spotify.com/track/4C4oQjntCiPjPltwKoSll7"
     },
     {
       "album": {
@@ -502,7 +538,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 278528,
       "name": "Feast On Scraps",
       "url": "https://open.spotify.com/track/3cz5frNekuhEuyrEe9XPgJ"
@@ -538,7 +574,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-23",
+      "date_removed": null,
       "duration_ms": 220080,
       "name": "Firebeat",
       "url": "https://open.spotify.com/track/7njibZDbMF6qHgzBfXkG52"
@@ -574,7 +610,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-22",
+      "date_removed": null,
       "duration_ms": 207359,
       "name": "Fractured Echeos",
       "url": "https://open.spotify.com/track/7zGtdhSL1NiqGowlvEjbfD"
@@ -592,7 +628,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-23",
+      "date_removed": null,
       "duration_ms": 199133,
       "name": "Fragile",
       "url": "https://open.spotify.com/track/1zX3GyOLGPLO0ZBnvtGn3L"
@@ -628,7 +664,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 218066,
       "name": "Friends Like Mine",
       "url": "https://open.spotify.com/track/2D79BAoGxFQUjz4h3RkslT"
@@ -646,7 +682,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 173084,
       "name": "Get Ready",
       "url": "https://open.spotify.com/track/1qoFd6Z4dat4ccN8nIdCm0"
@@ -700,7 +736,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 214759,
       "name": "Halloween Boogie",
       "url": "https://open.spotify.com/track/7lCS8qx8J8syVgYZN63BAi"
@@ -758,6 +794,42 @@
       "duration_ms": 138999,
       "name": "I Forgive You.",
       "url": "https://open.spotify.com/track/5V3f95ZUklzPV0VaLWZDXP"
+    },
+    {
+      "album": {
+        "name": "I Hope You Know",
+        "url": "https://open.spotify.com/album/2RK46DbriaUmep5XnMDLvE"
+      },
+      "artists": [
+        {
+          "name": "Karen Di\u00f3",
+          "url": "https://open.spotify.com/artist/5VVMZArxuM1mO8Qny95inw"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140657,
+      "name": "I Hope You Know",
+      "url": "https://open.spotify.com/track/5FnOK06ng2h8TwNtCk7DOt"
+    },
+    {
+      "album": {
+        "name": "I scream in steel...",
+        "url": "https://open.spotify.com/album/3C6BMbrMXW5iL91Xo8cvKI"
+      },
+      "artists": [
+        {
+          "name": "Popstream",
+          "url": "https://open.spotify.com/artist/3JUB6BHqO3ohQzwuHXRATh"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138679,
+      "name": "I scream in steel...",
+      "url": "https://open.spotify.com/track/0ge748Kr2Fx0j1PjTYoOHM"
     },
     {
       "album": {
@@ -844,7 +916,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-23",
+      "date_removed": null,
       "duration_ms": 134260,
       "name": "In New",
       "url": "https://open.spotify.com/track/7c8yo0HL6k2XYiqFRrxBzK"
@@ -916,7 +988,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-22",
+      "date_removed": null,
       "duration_ms": 214679,
       "name": "I\u2019ll Survive Without You",
       "url": "https://open.spotify.com/track/5jeeIpNfJ6ByargBQQjWe6"
@@ -952,7 +1024,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-23",
+      "date_removed": null,
       "duration_ms": 241708,
       "name": "Knickers",
       "url": "https://open.spotify.com/track/0xlvUFwZ9g2tIEdo1JCsBj"
@@ -970,7 +1042,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 193587,
       "name": "Knock Me Out",
       "url": "https://open.spotify.com/track/45iyMCubmptie947BIWKdl"
@@ -1010,6 +1082,24 @@
       "duration_ms": 219786,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/67I2ZXHgILepytYzNMBAbm"
+    },
+    {
+      "album": {
+        "name": "Life of the party",
+        "url": "https://open.spotify.com/album/5h4mHTEQZZC4rVSoUQruue"
+      },
+      "artists": [
+        {
+          "name": "Jacqueline Towers",
+          "url": "https://open.spotify.com/artist/62QIA11KsJygWhUuJyKDoO"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268599,
+      "name": "Life of the party",
+      "url": "https://open.spotify.com/track/5fASffbXsR7UOlQ3smTWun"
     },
     {
       "album": {
@@ -1096,7 +1186,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 114960,
       "name": "Medical",
       "url": "https://open.spotify.com/track/1DWo1QkZyY7V7tYFFHzD23"
@@ -1114,7 +1204,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-22",
+      "date_removed": null,
       "duration_ms": 155000,
       "name": "Medication",
       "url": "https://open.spotify.com/track/5WpxPUOQ4E0DptaY0G377m"
@@ -1186,7 +1276,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 230480,
       "name": "Mr. Freakshow",
       "url": "https://open.spotify.com/track/37qgaVcDY4hpu0h5N35fma"
@@ -1258,7 +1348,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 168313,
       "name": "One Massive Hit - Radio Edit",
       "url": "https://open.spotify.com/track/3sMdgrLqCLZyFMh2P5w2Gi"
@@ -1312,7 +1402,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 191440,
       "name": "Psycho Bitch",
       "url": "https://open.spotify.com/track/14j5UBobMdPf068lJ5Xnv5"
@@ -1348,7 +1438,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 129304,
       "name": "Raging Firestorm",
       "url": "https://open.spotify.com/track/2wpTnviPo5tIrN0dHSlzsR"
@@ -1366,7 +1456,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-22",
+      "date_removed": null,
       "duration_ms": 129920,
       "name": "Reves en pixels",
       "url": "https://open.spotify.com/track/08pimJSWL3vPwHkZSZNyxM"
@@ -1402,7 +1492,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 170040,
       "name": "Spin",
       "url": "https://open.spotify.com/track/1K2J69Uxmz2GgRz4DYu7KF"
@@ -1424,6 +1514,24 @@
       "duration_ms": 162226,
       "name": "Suffer",
       "url": "https://open.spotify.com/track/1MZX9N4qyJXVYaov5qO7qG"
+    },
+    {
+      "album": {
+        "name": "Inside The Hollow",
+        "url": "https://open.spotify.com/album/04ZUaYNv07KLNMtKtQPCTG"
+      },
+      "artists": [
+        {
+          "name": "Lillix",
+          "url": "https://open.spotify.com/artist/00hKB8cu5lyBE35ilxyP7v"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208266,
+      "name": "Sweet Temptation (Hollow)",
+      "url": "https://open.spotify.com/track/0P4Ne1Nzvf7wtcW5kdGuFF"
     },
     {
       "album": {
@@ -1456,7 +1564,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 202160,
       "name": "Think Like A Man",
       "url": "https://open.spotify.com/track/6AaBX9BWwQTjDtuqjoHELM"
@@ -1474,7 +1582,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-23",
+      "date_removed": null,
       "duration_ms": 106110,
       "name": "Touch the Sky",
       "url": "https://open.spotify.com/track/7IiwWCfZ4tzymtKnfG4RL3"
@@ -1492,7 +1600,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-22",
+      "date_removed": null,
       "duration_ms": 131250,
       "name": "Vibe Killer",
       "url": "https://open.spotify.com/track/2VTCii5cZQLzq1DKEj1dFd"

@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez la programmation du BISE Festival 2026.",
-  "num_followers": 3416,
+  "num_followers": 3459,
   "original_name": "BISE Festival 2026",
   "owner": {
     "name": "Spotify",
@@ -199,22 +199,6 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "eye 2 eye",
-        "url": "https://open.spotify.com/album/4eJ6c7ldGq7POYztlCXuMQ"
-      },
-      "artists": [
-        {
-          "name": "Clara Kimera",
-          "url": "https://open.spotify.com/artist/4sQzCc8XZTTmnuSH770IBr"
-        }
-      ],
-      "duration_ms": 150999,
-      "name": "eye 2 eye",
-      "url": "https://open.spotify.com/track/55zqLu62XWPBnFVw8B8lE7"
-    },
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
         "name": "Queen Of Cove",
         "url": "https://open.spotify.com/album/4SC6oPTwNmb7RgirUsqhzX"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 261781,
       "name": "Queen Of Cove",
       "url": "https://open.spotify.com/track/0z1sXJLDzn7eAmJQgVHMCL"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
+        "name": "eye 2 eye",
+        "url": "https://open.spotify.com/album/4eJ6c7ldGq7POYztlCXuMQ"
+      },
+      "artists": [
+        {
+          "name": "Clara Kimera",
+          "url": "https://open.spotify.com/artist/4sQzCc8XZTTmnuSH770IBr"
+        }
+      ],
+      "duration_ms": 150999,
+      "name": "eye 2 eye",
+      "url": "https://open.spotify.com/track/55zqLu62XWPBnFVw8B8lE7"
     },
     {
       "added_at": "2025-11-20 17:00:08",
@@ -331,22 +331,6 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "Swim With the Gore",
-        "url": "https://open.spotify.com/album/6ljgLmDngyMy5gxalT0WpT"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Not Jafar",
-          "url": "https://open.spotify.com/artist/1P8cIgzmOiorjmyVG6a8Eg"
-        }
-      ],
-      "duration_ms": 157132,
-      "name": "Swim With the Gore",
-      "url": "https://open.spotify.com/track/2utE575Mfh8CJQqHPqcoFV"
-    },
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
         "name": "Shade up My Blue",
         "url": "https://open.spotify.com/album/68XRLmXS3BsRFQhduxAKDG"
       },
@@ -359,22 +343,6 @@
       "duration_ms": 220993,
       "name": "Shade up My Blue",
       "url": "https://open.spotify.com/track/42basUZpPpLGTyQuvnKS7B"
-    },
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
-        "name": "Un chant d'amour",
-        "url": "https://open.spotify.com/album/2THpebE4PUXFbOIPt1tE4T"
-      },
-      "artists": [
-        {
-          "name": "Vanille",
-          "url": "https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn"
-        }
-      ],
-      "duration_ms": 168027,
-      "name": "Ce n'est pas ici, ce n'est pas ailleurs",
-      "url": "https://open.spotify.com/track/2je4V0uyp5IQDqUWvzUyCn"
     },
     {
       "added_at": "2025-11-20 17:00:08",
@@ -395,18 +363,34 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "Hugh Greene & the Lucies Made Me",
-        "url": "https://open.spotify.com/album/4vwqlH10hHwECcGv1fnxdH"
+        "name": "Swim With the Gore",
+        "url": "https://open.spotify.com/album/6ljgLmDngyMy5gxalT0WpT"
       },
       "artists": [
         {
-          "name": "Goodbye Karelle",
-          "url": "https://open.spotify.com/artist/68VYqXg7Ruk6VWnUHBDoJM"
+          "name": "Jasmine Not Jafar",
+          "url": "https://open.spotify.com/artist/1P8cIgzmOiorjmyVG6a8Eg"
         }
       ],
-      "duration_ms": 206906,
-      "name": "Moonroad",
-      "url": "https://open.spotify.com/track/1AxYsd1piLYQBovNvd86Up"
+      "duration_ms": 157132,
+      "name": "Swim With the Gore",
+      "url": "https://open.spotify.com/track/2utE575Mfh8CJQqHPqcoFV"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
+        "name": "Un chant d'amour",
+        "url": "https://open.spotify.com/album/2THpebE4PUXFbOIPt1tE4T"
+      },
+      "artists": [
+        {
+          "name": "Vanille",
+          "url": "https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn"
+        }
+      ],
+      "duration_ms": 168027,
+      "name": "Ce n'est pas ici, ce n'est pas ailleurs",
+      "url": "https://open.spotify.com/track/2je4V0uyp5IQDqUWvzUyCn"
     },
     {
       "added_at": "2025-11-20 17:00:08",
@@ -427,6 +411,22 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
+        "name": "Hugh Greene & the Lucies Made Me",
+        "url": "https://open.spotify.com/album/4vwqlH10hHwECcGv1fnxdH"
+      },
+      "artists": [
+        {
+          "name": "Goodbye Karelle",
+          "url": "https://open.spotify.com/artist/68VYqXg7Ruk6VWnUHBDoJM"
+        }
+      ],
+      "duration_ms": 206906,
+      "name": "Moonroad",
+      "url": "https://open.spotify.com/track/1AxYsd1piLYQBovNvd86Up"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
         "name": "What Can I Test ?",
         "url": "https://open.spotify.com/album/3TGvhuKoZCVJaNc1rkjI3D"
       },
@@ -439,6 +439,22 @@
       "duration_ms": 224687,
       "name": "Rocket",
       "url": "https://open.spotify.com/track/1oYlRlMq5njbUH7Pmx06Sg"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
+        "name": "HALLELUJAH",
+        "url": "https://open.spotify.com/album/1xuoz5kFh5AZwTB8a4aPh4"
+      },
+      "artists": [
+        {
+          "name": "ARTICLE15",
+          "url": "https://open.spotify.com/artist/1alQDQ8WNBT4NQHFrjnvqx"
+        }
+      ],
+      "duration_ms": 222272,
+      "name": "HALLELUJAH",
+      "url": "https://open.spotify.com/track/2zzgmsWzVtxEBECt3k9n8T"
     },
     {
       "added_at": "2025-11-20 17:00:08",
@@ -491,22 +507,6 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "HALLELUJAH",
-        "url": "https://open.spotify.com/album/1xuoz5kFh5AZwTB8a4aPh4"
-      },
-      "artists": [
-        {
-          "name": "ARTICLE15",
-          "url": "https://open.spotify.com/artist/1alQDQ8WNBT4NQHFrjnvqx"
-        }
-      ],
-      "duration_ms": 222272,
-      "name": "HALLELUJAH",
-      "url": "https://open.spotify.com/track/2zzgmsWzVtxEBECt3k9n8T"
-    },
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
         "name": "GROSSE MAISON",
         "url": "https://open.spotify.com/album/3kqzoaJuzuQ172dcjVWoYb"
       },
@@ -523,22 +523,6 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "To Get Fucked Up",
-        "url": "https://open.spotify.com/album/05mc5DP88eRyhoH9qCArzQ"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Not Jafar",
-          "url": "https://open.spotify.com/artist/1P8cIgzmOiorjmyVG6a8Eg"
-        }
-      ],
-      "duration_ms": 249601,
-      "name": "To Get Fucked Up",
-      "url": "https://open.spotify.com/track/7Mw0GVjk2NyXXk0cmR4M96"
-    },
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
         "name": "FOR\u00caT",
         "url": "https://open.spotify.com/album/6oImWMoSomesMXGBFsndc9"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 172867,
       "name": "Lib\u00e8re",
       "url": "https://open.spotify.com/track/6sMdVBONIF9twV6egGfU2y"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
+        "name": "To Get Fucked Up",
+        "url": "https://open.spotify.com/album/05mc5DP88eRyhoH9qCArzQ"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Not Jafar",
+          "url": "https://open.spotify.com/artist/1P8cIgzmOiorjmyVG6a8Eg"
+        }
+      ],
+      "duration_ms": 249601,
+      "name": "To Get Fucked Up",
+      "url": "https://open.spotify.com/track/7Mw0GVjk2NyXXk0cmR4M96"
     },
     {
       "added_at": "2025-11-20 17:00:08",
@@ -619,22 +619,6 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "dealing with ghosts",
-        "url": "https://open.spotify.com/album/5YIxXAa4EhD7nSWXsfxQOt"
-      },
-      "artists": [
-        {
-          "name": "naya m\u00f6",
-          "url": "https://open.spotify.com/artist/4YYr2nmnZ2rKlcUh7aroZi"
-        }
-      ],
-      "duration_ms": 121578,
-      "name": "outsider",
-      "url": "https://open.spotify.com/track/7braDJQWVRi9zfgemUwIGi"
-    },
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
         "name": "ROOM",
         "url": "https://open.spotify.com/album/0FUP2OMRQaOkdKv5zCpFWC"
       },
@@ -647,6 +631,38 @@
       "duration_ms": 375893,
       "name": "SHAKE",
       "url": "https://open.spotify.com/track/61VTG6BfF8TI9g869Udwv8"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
+        "name": "SOMA",
+        "url": "https://open.spotify.com/album/43VEQxXx24GdcJlVgjJWBW"
+      },
+      "artists": [
+        {
+          "name": "Elena Copsi",
+          "url": "https://open.spotify.com/artist/5YafOG1cCGaf4dpzCNVPXm"
+        }
+      ],
+      "duration_ms": 165378,
+      "name": "La rivi\u00e8re",
+      "url": "https://open.spotify.com/track/5HwKMZcJ75ATc7uGpduM5M"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
+        "name": "dealing with ghosts",
+        "url": "https://open.spotify.com/album/5YIxXAa4EhD7nSWXsfxQOt"
+      },
+      "artists": [
+        {
+          "name": "naya m\u00f6",
+          "url": "https://open.spotify.com/artist/4YYr2nmnZ2rKlcUh7aroZi"
+        }
+      ],
+      "duration_ms": 121578,
+      "name": "outsider",
+      "url": "https://open.spotify.com/track/7braDJQWVRi9zfgemUwIGi"
     },
     {
       "added_at": "2025-11-20 17:00:08",
@@ -681,10 +697,10 @@
       "url": "https://open.spotify.com/track/5dEC6ATbja2OwLRzXvo91E"
     },
     {
-      "added_at": "2025-11-21 12:27:42",
+      "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "Twisted Mind",
-        "url": "https://open.spotify.com/album/4ko8JEKBxITNZcDg8Wg3s9"
+        "name": "Where We Dive",
+        "url": "https://open.spotify.com/album/7w142tIXVD3BcWPj2XtW2F"
       },
       "artists": [
         {
@@ -692,9 +708,9 @@
           "url": "https://open.spotify.com/artist/37KN1w7uLnKETrPMXeFep4"
         }
       ],
-      "duration_ms": 172500,
-      "name": "Twisted Mind",
-      "url": "https://open.spotify.com/track/1sWVocPjaolPmAa4fsOrWz"
+      "duration_ms": 240150,
+      "name": "Timecrash",
+      "url": "https://open.spotify.com/track/5v0c8Qsm9ftSI05ZKthjLz"
     },
     {
       "added_at": "2025-11-20 17:00:08",
@@ -715,22 +731,6 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "SOMA",
-        "url": "https://open.spotify.com/album/43VEQxXx24GdcJlVgjJWBW"
-      },
-      "artists": [
-        {
-          "name": "Elena Copsi",
-          "url": "https://open.spotify.com/artist/5YafOG1cCGaf4dpzCNVPXm"
-        }
-      ],
-      "duration_ms": 165378,
-      "name": "La rivi\u00e8re",
-      "url": "https://open.spotify.com/track/5HwKMZcJ75ATc7uGpduM5M"
-    },
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
         "name": "Luxury",
         "url": "https://open.spotify.com/album/5XTypqWsPdyGyE5DxYqkBv"
       },
@@ -743,38 +743,6 @@
       "duration_ms": 212618,
       "name": "Luxury",
       "url": "https://open.spotify.com/track/3MvNyNs6VkjzRE5Op135Vf"
-    },
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
-        "name": "Down the Row",
-        "url": "https://open.spotify.com/album/2gjcAiaJfetD0D9zD4GRVy"
-      },
-      "artists": [
-        {
-          "name": "The Chainsaw Motel",
-          "url": "https://open.spotify.com/artist/4HsuHCwO2CpuP9V2YoNxvf"
-        }
-      ],
-      "duration_ms": 209396,
-      "name": "Down the Row",
-      "url": "https://open.spotify.com/track/52VLrLioxys36RyG0Z6Dga"
-    },
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
-        "name": "Where We Dive",
-        "url": "https://open.spotify.com/album/7w142tIXVD3BcWPj2XtW2F"
-      },
-      "artists": [
-        {
-          "name": "MEDICIS",
-          "url": "https://open.spotify.com/artist/37KN1w7uLnKETrPMXeFep4"
-        }
-      ],
-      "duration_ms": 240150,
-      "name": "Timecrash",
-      "url": "https://open.spotify.com/track/5v0c8Qsm9ftSI05ZKthjLz"
     },
     {
       "added_at": "2025-11-20 17:00:08",
@@ -795,18 +763,34 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "ARDE MAMI",
-        "url": "https://open.spotify.com/album/1Z137meWCyz4GsMlj1UDt4"
+        "name": "Down the Row",
+        "url": "https://open.spotify.com/album/2gjcAiaJfetD0D9zD4GRVy"
       },
       "artists": [
         {
-          "name": "Caos.808",
-          "url": "https://open.spotify.com/artist/3evK05yJ1WTXBVhu1SW8qC"
+          "name": "The Chainsaw Motel",
+          "url": "https://open.spotify.com/artist/4HsuHCwO2CpuP9V2YoNxvf"
         }
       ],
-      "duration_ms": 176000,
-      "name": "ARDE MAMI",
-      "url": "https://open.spotify.com/track/1tPH5nXPitW7wLY2hyQAoK"
+      "duration_ms": 209396,
+      "name": "Down the Row",
+      "url": "https://open.spotify.com/track/52VLrLioxys36RyG0Z6Dga"
+    },
+    {
+      "added_at": "2025-11-21 12:27:42",
+      "album": {
+        "name": "Twisted Mind",
+        "url": "https://open.spotify.com/album/4ko8JEKBxITNZcDg8Wg3s9"
+      },
+      "artists": [
+        {
+          "name": "MEDICIS",
+          "url": "https://open.spotify.com/artist/37KN1w7uLnKETrPMXeFep4"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Twisted Mind",
+      "url": "https://open.spotify.com/track/1sWVocPjaolPmAa4fsOrWz"
     },
     {
       "added_at": "2025-11-20 17:00:08",
@@ -823,6 +807,22 @@
       "duration_ms": 158122,
       "name": "Changer",
       "url": "https://open.spotify.com/track/3on1O6i9u6hlkWCDs0r4fZ"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
+        "name": "ARDE MAMI",
+        "url": "https://open.spotify.com/album/1Z137meWCyz4GsMlj1UDt4"
+      },
+      "artists": [
+        {
+          "name": "Caos.808",
+          "url": "https://open.spotify.com/artist/3evK05yJ1WTXBVhu1SW8qC"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "ARDE MAMI",
+      "url": "https://open.spotify.com/track/1tPH5nXPitW7wLY2hyQAoK"
     }
   ],
   "unique_name": "BISE Festival 2026",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/638cn2WMZea3FRuYPjsf3R.md) - [plain]
 
 > All your hot new RnB Jams in one Cover: M.O &amp; AJ Tracey
 
-[HITS](https://open.spotify.com/user/digster.co.uk) - 181,991 likes - 66 songs - 3 hr 37 min
+[HITS](https://open.spotify.com/user/digster.co.uk) - 181,923 likes - 66 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/638cn2WMZea3FRuYPjsf3R.md) - [plain]
 | 33 | [Vanessa](https://open.spotify.com/track/3d5z1Sn8r1IqBXzXpxX4DI) | [Kojo Funds](https://open.spotify.com/artist/2o9hRZ3xI27UQpHT61A4Mm) | [Vanessa](https://open.spotify.com/album/3tKDnbSeYTY6TxpqMrq4oX) | 2:48 |
 | 34 | [Contra La Pared](https://open.spotify.com/track/37eGbhE1xVFSvcKkqGb6i1) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Contra La Pared](https://open.spotify.com/album/1bd0v6EhJjlU1UXuHQrxWQ) | 3:44 |
 | 35 | [Blame On Me](https://open.spotify.com/track/74cU0UVKGbXODHUJRZ8L05) | [Layton Greene](https://open.spotify.com/artist/02ZtVIjKL1PYLlMmP1sz0h) | [Tell Ya Story](https://open.spotify.com/album/5gYzJCNLpingEUhYKtu9NU) | 3:57 |
-| 36 | [Bitter](https://open.spotify.com/track/5Z0AM9HW78XIyZqF2BPasr) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg), [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe) | [Bitter](https://open.spotify.com/album/2JqdcyrOqUzCJQOeuJ7h5u) | 3:14 |
+| 36 | [Bitter](https://open.spotify.com/track/5Z0AM9HW78XIyZqF2BPasr) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Bitter](https://open.spotify.com/album/2JqdcyrOqUzCJQOeuJ7h5u) | 3:14 |
 | 37 | [Baby Boo \(with Saweetie\)](https://open.spotify.com/track/68aV83AuiEu1xeHDGulsyB) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Baby Boo](https://open.spotify.com/album/0DW558ZCBNQQ3hBzOqVeP4) | 2:32 |
 | 38 | [MEGATRON](https://open.spotify.com/track/1ZDmxwg7Lywlx68b7SsJjj) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [MEGATRON](https://open.spotify.com/album/4PsIFkX5QIvAI0xB7qHugW) | 3:10 |
 | 39 | [Lucky](https://open.spotify.com/track/1LhLHrblCxK9p3X59Vb2lM) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [Lucky](https://open.spotify.com/album/4fqqRVGSkQPeDUhPiISAcF) | 3:19 |

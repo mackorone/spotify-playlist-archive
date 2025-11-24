@@ -1,12 +1,12 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 23 Nov 04:03 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 23 Nov 09:03 UTC.",
   "num_followers": 102,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAWVeQFnouDP4QYgz6zjlpgMaVw3ulf",
+  "snapshot_id": "AAAWV4fOXrUTLWKPrhWJZPDX6ugTCKCn",
   "tracks": [
     {
       "added_at": "2025-11-21 14:04:18",
@@ -525,6 +525,22 @@
       "url": "https://open.spotify.com/track/3VkA16jPKWOs7BIU5AWjyb"
     },
     {
+      "added_at": "2025-11-23 09:03:48",
+      "album": {
+        "name": "T Shirt",
+        "url": "https://open.spotify.com/album/4HR7bBjUtMJgSExIJe1sXa"
+      },
+      "artists": [
+        {
+          "name": "David Byrne",
+          "url": "https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB"
+        }
+      ],
+      "duration_ms": 200586,
+      "name": "T Shirt",
+      "url": "https://open.spotify.com/track/0u0xPd6CRdaJK62D6Lo72P"
+    },
+    {
       "added_at": "2025-11-17 14:05:46",
       "album": {
         "name": "ONE MORE TIME",
@@ -815,22 +831,6 @@
       "duration_ms": 192865,
       "name": "Know You",
       "url": "https://open.spotify.com/track/6UfY6mQh4HbONy2VHUbVyN"
-    },
-    {
-      "added_at": "2025-11-14 14:05:37",
-      "album": {
-        "name": "Little Miss",
-        "url": "https://open.spotify.com/album/5ychqszZ89oPl6rBKSkGc6"
-      },
-      "artists": [
-        {
-          "name": "GIRLSET",
-          "url": "https://open.spotify.com/artist/3D2TVeexyIXOtc8F4qEZ6P"
-        }
-      ],
-      "duration_ms": 143593,
-      "name": "Little Miss",
-      "url": "https://open.spotify.com/track/24GdDBCqLhHEe2cAFvgUrL"
     }
   ],
   "unique_name": "New Singles Now",

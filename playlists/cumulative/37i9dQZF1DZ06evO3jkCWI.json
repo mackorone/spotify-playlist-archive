@@ -261,6 +261,24 @@
     },
     {
       "album": {
+        "name": "Trono Caido",
+        "url": "https://open.spotify.com/album/6HwoWKpl3PhOrCfvueiHEb"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186893,
+      "name": "Coraz\u00f3n De Oro",
+      "url": "https://open.spotify.com/track/0QLxVp77k6Ioz6qSBjUPUL"
+    },
+    {
+      "album": {
         "name": "15 Boleros De Oro",
         "url": "https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT"
       },
@@ -272,7 +290,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 187466,
       "name": "Coraz\u00f3n De Oro",
       "url": "https://open.spotify.com/track/3hEDujdXlHpKEv8pW7SxBz"

@@ -47873,6 +47873,32 @@
     },
     {
       "album": {
+        "name": "Rebel",
+        "url": "https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug"
+      },
+      "artists": [
+        {
+          "name": "EsDeeKid",
+          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
+        },
+        {
+          "name": "fakemink",
+          "url": "https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi"
+        },
+        {
+          "name": "Rico Ace",
+          "url": "https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o"
+        }
+      ],
+      "date_added": "2025-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111157,
+      "name": "LV Sandals",
+      "url": "https://open.spotify.com/track/5uz5v1hRZLjNGatcPtOWUv"
+    },
+    {
+      "album": {
         "name": "Lyfe",
         "url": "https://open.spotify.com/album/6Ihu75dkfTryER3dvDgnAC"
       },
@@ -57506,7 +57532,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 119883,
       "name": "Once We Get Up There",
       "url": "https://open.spotify.com/track/66sO5P0JhejhELU35RYVKV"
@@ -72044,7 +72070,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 137790,
       "name": "Spellbound",
       "url": "https://open.spotify.com/track/4KNjK6R0aB4j8IT9LU0o6T"
@@ -76764,15 +76790,11 @@
         {
           "name": "Stephen Oremus",
           "url": "https://open.spotify.com/artist/1e6BRnFiiwNZl04xu1yqmi"
-        },
-        {
-          "name": "Alex Lacamoire",
-          "url": "https://open.spotify.com/artist/5TLQArskPwpPQULjjE2tsW"
         }
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-11",
+      "date_removed": null,
       "duration_ms": 383066,
       "name": "Thank Goodness - From \"Wicked\" Original Broadway Cast Recording/2003",
       "url": "https://open.spotify.com/track/0zdjVFe5tqhgJVXLkvA8FX"
@@ -88386,10 +88408,32 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 177111,
       "name": "WILDFIRE",
       "url": "https://open.spotify.com/track/1dpB1jrziyaczTQvvz8du1"
+    },
+    {
+      "album": {
+        "name": "WILDFIRE",
+        "url": "https://open.spotify.com/album/7jMjJU3zekjMQEDY15qGHB"
+      },
+      "artists": [
+        {
+          "name": "FUZION",
+          "url": "https://open.spotify.com/artist/6Onz7lRkfK9vCyZDEKoFmB"
+        },
+        {
+          "name": "Zeli",
+          "url": "https://open.spotify.com/artist/76XUcSGE6JZ8pbCxnBd1iz"
+        }
+      ],
+      "date_added": "2025-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177111,
+      "name": "WILDFIRE",
+      "url": "https://open.spotify.com/track/6xxnwhLLbwoLzw9znCjLDL"
     },
     {
       "album": {

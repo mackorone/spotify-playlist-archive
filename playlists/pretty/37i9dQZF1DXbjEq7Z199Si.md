@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjEq7Z199Si.md) - [plain]
 
 > Experience the epic conclusion of Wicked: For Good with the official playlist\. You will be changed...
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,079 likes - 23 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,945 likes - 23 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

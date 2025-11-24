@@ -4,7 +4,7 @@
 
 > Ruido blanco para ayudarte a dormir.
 
-330 songs - 14 hr 32 min
+331 songs - 14 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Doze Off](https://open.spotify.com/track/4pU7rgTDiVrCGwFhM4u3Rm) | [Static Harmony](https://open.spotify.com/artist/18D9GiQa6S4cFsu6ntLy3N) | [Doze Off](https://open.spotify.com/album/4884o4Sx8RfATgCaBeezkB) | 2:57 | 2023-03-09 |  |
 | [Doze Off \- Seamless](https://open.spotify.com/track/1L3BdJ2gxTUFHfaWF1Vtwl) | [Static Harmony](https://open.spotify.com/artist/18D9GiQa6S4cFsu6ntLy3N) | [Doze Off](https://open.spotify.com/album/4884o4Sx8RfATgCaBeezkB) | 2:48 | 2023-04-12 |  |
 | [Dozy Noise](https://open.spotify.com/track/27W4LkxptBvhMxYAWMpsOL) | [Dozy FX](https://open.spotify.com/artist/3LErbZP1QobnVRGGCDaRdK) | [Dozy Noise](https://open.spotify.com/album/1Ao4sYFISxtmZaA7jedaJW) | 2:25 | 2023-04-12 | 2025-03-11 |
-| [Dozy White Noise](https://open.spotify.com/track/3Z0PCugUi5AKwPBJuMacQH) | [Dozy FX](https://open.spotify.com/artist/3LErbZP1QobnVRGGCDaRdK) | [Dozy Noise](https://open.spotify.com/album/1Ao4sYFISxtmZaA7jedaJW) | 2:09 | 2023-04-12 |  |
+| [Dozy White Noise](https://open.spotify.com/track/3Z0PCugUi5AKwPBJuMacQH) | [Dozy FX](https://open.spotify.com/artist/3LErbZP1QobnVRGGCDaRdK) | [Dozy Noise](https://open.spotify.com/album/1Ao4sYFISxtmZaA7jedaJW) | 2:09 | 2023-04-12 | 2025-11-24 |
 | [Dream Noise 700hz](https://open.spotify.com/track/70qJ45oLqsC1LVao9niNFB) | [Cosy Noise Place](https://open.spotify.com/artist/4jzdQVt7yP9el87xAqmUKO) | [Noise for Airline Sleep](https://open.spotify.com/album/6UHgp2KYS7X1MIwS1PKHYy) | 1:55 | 2023-04-12 | 2023-06-29 |
 | [Dream State](https://open.spotify.com/track/2jx3wHzqX8FbikDXOeV49w) | [The Sleep Phasers](https://open.spotify.com/artist/0Hsi1ogeO5MpghqgXtuh9L) | [Deep Sleep](https://open.spotify.com/album/4FCYAXNyQncLd5g44aaPlg) | 3:39 | 2023-03-09 | 2023-04-13 |
 | [Dreaming with the Noise](https://open.spotify.com/track/5w1McGhwFohR9Qb5Xy2RVJ) | [The Clear Mind](https://open.spotify.com/artist/17poofi2R6BSgWBubaEbGs) | [White Noise](https://open.spotify.com/album/6rxBTKawpP4JfcK1XMeLEE) | 2:19 | 2023-03-09 | 2023-04-13 |
@@ -108,6 +108,7 @@
 | [Infrasound](https://open.spotify.com/track/1HPFWKZICLjNWfrKs9WV0W) | [Fluffy Duffy](https://open.spotify.com/artist/5Zar2ecaQrP2jeYjnjNk9p) | [Infrasound](https://open.spotify.com/album/1LIIxRKvZZfGTIVl2kpscl) | 2:55 | 2023-03-09 | 2023-04-13 |
 | [Interstellar Cabin](https://open.spotify.com/track/5WQyF7t0tNomzABIYzxxSD) | [PARCEL](https://open.spotify.com/artist/6fhgzDPycvkawFNW0CtORI) | [Interstellar Cabin](https://open.spotify.com/album/5dVZjOztN4gijHKnxCIqvm) | 2:20 | 2023-04-12 |  |
 | [Ipnotizzato Dal Rumore Bianco](https://open.spotify.com/track/47MRiOYDPxibheDghy2Hum) | [Passeggiate Al Chiaro](https://open.spotify.com/artist/5HosxAwsGzGX5RzY3XfXPC) | [Fiori Notturni](https://open.spotify.com/album/3lLcKLPOTRTVT2iatg8dtz) | 2:00 | 2023-04-12 |  |
+| [Ivory Whispers](https://open.spotify.com/track/08wETzn6J6OVWkugoAbW3M) | [Brightlo](https://open.spotify.com/artist/7LrJzvIirmst73Ic48s97g) | [Ivory Whispers](https://open.spotify.com/album/0bS3t5S05IXrlIumgadQsP) | 4:53 | 2025-01-30 |  |
 | [Lean Noise](https://open.spotify.com/track/2KfLH77WUxnPq28o3SZsFp) | [Factorial FX](https://open.spotify.com/artist/16weRDppbG11cOcQQtKjFu) | [Lean Noise](https://open.spotify.com/album/77UGfdTasZzZkMbeC8lYCg) | 2:17 | 2023-04-12 |  |
 | [Light Noises](https://open.spotify.com/track/2t3BUtYNYGoPcCeHamofRy) | [Doctor Sleep](https://open.spotify.com/artist/3MwKjfr5kxBuFhTZJUimC5) | [A Waterfall of Noise](https://open.spotify.com/album/0Zwsr67zu7UodgvugtKzex) | 2:15 | 2023-04-12 | 2025-03-10 |
 | [Light White Noise](https://open.spotify.com/track/3qBMFORCRUKzBPiftvwaJn) | [Evomin](https://open.spotify.com/artist/377XEfaskiPevvTMYzJvUb) | [White Noise Comfort](https://open.spotify.com/album/714mJftPiiqG2gcVQgrbjU) | 2:34 | 2023-04-12 |  |

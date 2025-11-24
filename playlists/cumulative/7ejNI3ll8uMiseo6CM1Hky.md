@@ -4,7 +4,7 @@
 
 > OwO \*notices your bulge\* look like you need some songs\. \*play music \* X3
 
-179 songs - 10 hr 7 min
+180 songs - 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Charlie's Inferno](https://open.spotify.com/track/2tmei4gBweN2TsRcTgIh0t) | [That Handsome Devil](https://open.spotify.com/artist/3MIk8tAIzBQ5iZWmlVLCCT) | [The Heart Goes to Heaven, The Head Goes to Hell](https://open.spotify.com/album/0R3w6vjfaZlWHK28Z0RsfK) | 3:44 | 2025-03-18 |  |
 | [Child Wielding Needle](https://open.spotify.com/track/4GaqtBAvP2zxckmzATwSnf) | [CG5](https://open.spotify.com/artist/3YJDqtTSjydvUpTvU1fJ6O) | [Child Wielding Needle](https://open.spotify.com/album/70jrnQoxwmqJAuvSjjrzAx) | 2:31 | 2025-09-26 |  |
 | [Childish Flamingos](https://open.spotify.com/track/7vt8HJ3xsjxSbVNipnkpQm) | [GoodMeme](https://open.spotify.com/artist/7rtVNkyhjLlLixT4bAMvcz) | [Childish Flamingos](https://open.spotify.com/album/1fEe1CzUVBjkG4RwDOqytJ) | 2:54 | 2022-10-11 | 2025-06-20 |
+| [CHIPI CHIPI CHAPA CHAPA PHONK](https://open.spotify.com/track/5EcejFT18sRlINSUm9UrN2) | [Lyamev](https://open.spotify.com/artist/66JRvwn4ZWl96JJauc7xXa) | [CHIPI CHIPI CHAPA CHAPA PHONK](https://open.spotify.com/album/3DBq5ATRCN44y57HL3HCzl) | 1:21 | 2025-11-23 |  |
 | [Closer](https://open.spotify.com/track/3F4M4IaluOCuLto737CRXq) | [Lemaitre](https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764), [Jennie A.](https://open.spotify.com/artist/2bx0ckgYnvvFPzDlGpupN2) | [Closer](https://open.spotify.com/album/4MibJfBVUOE0xrGJVg6WXS) | 4:31 | 2018-12-06 |  |
 | [Cotton Candy](https://open.spotify.com/track/6pTXXNyt5ofhClLOKM8oOQ) | [MilkyyMelodies](https://open.spotify.com/artist/2fg8s4dEi5FbvZKQdEvRoO) | [Cotton Candy](https://open.spotify.com/album/2RkbbCl9JrCJzOTfAfiAqE) | 2:51 | 2024-12-03 | 2025-01-09 |
 | [Crystal Dolphin](https://open.spotify.com/track/6kx8Hf1Udk4V0Ivq6zpoyG) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T) | [Crust Fm](https://open.spotify.com/album/2YZJ2QWjBY1tDqcy8u4nkC) | 1:55 | 2019-04-27 |  |

@@ -3073,6 +3073,24 @@
     },
     {
       "album": {
+        "name": "Obscurity",
+        "url": "https://open.spotify.com/album/6uuXEwuWIE7P3cYE9KFXWc"
+      },
+      "artists": [
+        {
+          "name": "Onni",
+          "url": "https://open.spotify.com/artist/7A0mACsqOhqMaeKYJfQkbx"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170729,
+      "name": "Obscurity",
+      "url": "https://open.spotify.com/track/1WVVYm0D6UOJMLqodEHtFt"
+    },
+    {
+      "album": {
         "name": "Oh so Quiet",
         "url": "https://open.spotify.com/album/7hA3Z4F90GoBPxsNz8DZj4"
       },
@@ -4218,7 +4236,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 193492,
       "name": "Soft Meadow",
       "url": "https://open.spotify.com/track/02fRLzB7HZHr7UzG5lCia9"

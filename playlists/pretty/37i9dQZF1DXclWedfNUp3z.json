@@ -1,6 +1,6 @@
 {
   "description": "Mellow vibrations for green leaves, green thumbs and green ears.",
-  "num_followers": 265681,
+  "num_followers": 265783,
   "original_name": "Music for Plants",
   "owner": {
     "name": "Spotify",
@@ -303,6 +303,22 @@
     {
       "added_at": "2025-11-21 14:36:15",
       "album": {
+        "name": "Finding Calmness",
+        "url": "https://open.spotify.com/album/3KJa1BAeH2as7lZL1envIu"
+      },
+      "artists": [
+        {
+          "name": "Naturally Recurring",
+          "url": "https://open.spotify.com/artist/2iZyGXzGD6s9U9QkirdcbF"
+        }
+      ],
+      "duration_ms": 241212,
+      "name": "Breathing Deeper",
+      "url": "https://open.spotify.com/track/6uK4LUxyKlWf2vKQE1Fv3I"
+    },
+    {
+      "added_at": "2025-11-21 14:36:15",
+      "album": {
         "name": "Fragile",
         "url": "https://open.spotify.com/album/6f0ELW7CR2CWxYf859r71X"
       },
@@ -315,26 +331,6 @@
       "duration_ms": 248659,
       "name": "Fragile",
       "url": "https://open.spotify.com/track/6XDmQX1g0mwTif6Hy1EJuk"
-    },
-    {
-      "added_at": "2025-11-21 14:36:15",
-      "album": {
-        "name": "searching",
-        "url": "https://open.spotify.com/album/2cmVsjln1umP4LzUmn9DbK"
-      },
-      "artists": [
-        {
-          "name": "Cephas Azariah",
-          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
-        },
-        {
-          "name": "Elle Limebear",
-          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
-        }
-      ],
-      "duration_ms": 279935,
-      "name": "searching",
-      "url": "https://open.spotify.com/track/7JI8f3m5ur75iRRWZpj8sm"
     },
     {
       "added_at": "2025-11-21 14:36:15",
@@ -359,18 +355,22 @@
     {
       "added_at": "2025-11-21 14:36:15",
       "album": {
-        "name": "Finding Calmness",
-        "url": "https://open.spotify.com/album/3KJa1BAeH2as7lZL1envIu"
+        "name": "searching",
+        "url": "https://open.spotify.com/album/2cmVsjln1umP4LzUmn9DbK"
       },
       "artists": [
         {
-          "name": "Naturally Recurring",
-          "url": "https://open.spotify.com/artist/2iZyGXzGD6s9U9QkirdcbF"
+          "name": "Cephas Azariah",
+          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
+        },
+        {
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
         }
       ],
-      "duration_ms": 241212,
-      "name": "Breathing Deeper",
-      "url": "https://open.spotify.com/track/6uK4LUxyKlWf2vKQE1Fv3I"
+      "duration_ms": 279935,
+      "name": "searching",
+      "url": "https://open.spotify.com/track/7JI8f3m5ur75iRRWZpj8sm"
     },
     {
       "added_at": "2025-11-21 14:36:15",
@@ -607,22 +607,6 @@
     {
       "added_at": "2025-11-21 14:36:15",
       "album": {
-        "name": "See-Through",
-        "url": "https://open.spotify.com/album/0fPwWqb47D2PPObYoAzVBF"
-      },
-      "artists": [
-        {
-          "name": "Patricia Wolf",
-          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
-        }
-      ],
-      "duration_ms": 368000,
-      "name": "Woodland Encounter",
-      "url": "https://open.spotify.com/track/2bH1jLEt4LFtgkNSuWYvyR"
-    },
-    {
-      "added_at": "2025-11-21 14:36:15",
-      "album": {
         "name": "Music For Psychedelic Therapy (Excerpt)",
         "url": "https://open.spotify.com/album/0gO5MR5zzkhqplcMbpYTQv"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 427299,
       "name": "Music For Psychedelic Therapy - Excerpt",
       "url": "https://open.spotify.com/track/4xT0BmSuDNp2vkK5v07yba"
+    },
+    {
+      "added_at": "2025-11-21 14:36:15",
+      "album": {
+        "name": "See-Through",
+        "url": "https://open.spotify.com/album/0fPwWqb47D2PPObYoAzVBF"
+      },
+      "artists": [
+        {
+          "name": "Patricia Wolf",
+          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
+        }
+      ],
+      "duration_ms": 368000,
+      "name": "Woodland Encounter",
+      "url": "https://open.spotify.com/track/2bH1jLEt4LFtgkNSuWYvyR"
     },
     {
       "added_at": "2025-11-21 14:36:15",
@@ -727,6 +727,22 @@
     {
       "added_at": "2025-11-21 14:36:15",
       "album": {
+        "name": "Spaces",
+        "url": "https://open.spotify.com/album/3V8YAQt6ADKvL803nvq27L"
+      },
+      "artists": [
+        {
+          "name": "Yosi Horikawa",
+          "url": "https://open.spotify.com/artist/1JSPpoXFLcEG2WhYlvmHPJ"
+        }
+      ],
+      "duration_ms": 338500,
+      "name": "Swashers",
+      "url": "https://open.spotify.com/track/5IqjAH2ynF7320IVnqfjlT"
+    },
+    {
+      "added_at": "2025-11-21 14:36:15",
+      "album": {
         "name": "Alaskan Dream",
         "url": "https://open.spotify.com/album/7jLRbqXYxf8lHjT5V5ZMxF"
       },
@@ -751,22 +767,6 @@
     {
       "added_at": "2025-11-21 14:36:15",
       "album": {
-        "name": "Spaces",
-        "url": "https://open.spotify.com/album/3V8YAQt6ADKvL803nvq27L"
-      },
-      "artists": [
-        {
-          "name": "Yosi Horikawa",
-          "url": "https://open.spotify.com/artist/1JSPpoXFLcEG2WhYlvmHPJ"
-        }
-      ],
-      "duration_ms": 338500,
-      "name": "Swashers",
-      "url": "https://open.spotify.com/track/5IqjAH2ynF7320IVnqfjlT"
-    },
-    {
-      "added_at": "2025-11-21 14:36:15",
-      "album": {
         "name": "Golden Pear",
         "url": "https://open.spotify.com/album/3QakGzV0tV7NxaapmxmUF1"
       },
@@ -783,22 +783,6 @@
     {
       "added_at": "2025-11-21 14:36:15",
       "album": {
-        "name": "Music for Growing Plants",
-        "url": "https://open.spotify.com/album/3QsGjN0ERhyBi1IxXpNxhM"
-      },
-      "artists": [
-        {
-          "name": "Christopher Stracey",
-          "url": "https://open.spotify.com/artist/3OtCzBJs5hFZapz4lY6aWa"
-        }
-      ],
-      "duration_ms": 364133,
-      "name": "Beginning, Becoming",
-      "url": "https://open.spotify.com/track/3qhG4d1DcIqxxmdqXGBHu9"
-    },
-    {
-      "added_at": "2025-11-21 14:36:15",
-      "album": {
         "name": "Eating 1+2",
         "url": "https://open.spotify.com/album/3ilPF0O3UM5BqZjc02cXVd"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 168986,
       "name": "Fore",
       "url": "https://open.spotify.com/track/6X74EHCnSKxtPmq3HFj4yt"
+    },
+    {
+      "added_at": "2025-11-21 14:36:15",
+      "album": {
+        "name": "Music for Growing Plants",
+        "url": "https://open.spotify.com/album/3QsGjN0ERhyBi1IxXpNxhM"
+      },
+      "artists": [
+        {
+          "name": "Christopher Stracey",
+          "url": "https://open.spotify.com/artist/3OtCzBJs5hFZapz4lY6aWa"
+        }
+      ],
+      "duration_ms": 364133,
+      "name": "Beginning, Becoming",
+      "url": "https://open.spotify.com/track/3qhG4d1DcIqxxmdqXGBHu9"
     },
     {
       "added_at": "2025-11-21 14:36:15",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2025-11-21 14:36:15",
       "album": {
-        "name": "Wake Me Softly",
-        "url": "https://open.spotify.com/album/6ARc0MH301kItHchIEZJST"
-      },
-      "artists": [
-        {
-          "name": "Joseph Beg",
-          "url": "https://open.spotify.com/artist/2N40EmjIUVBHidajBVs3Px"
-        }
-      ],
-      "duration_ms": 270870,
-      "name": "Wake Me Softly",
-      "url": "https://open.spotify.com/track/7JPzLU6ako27gbSXZGjQ62"
-    },
-    {
-      "added_at": "2025-11-21 14:36:15",
-      "album": {
         "name": "Sea Of Colors",
         "url": "https://open.spotify.com/album/3aW96az8cTGpSCGBw0UsUI"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 184250,
       "name": "Sea Of Colors",
       "url": "https://open.spotify.com/track/0vpo0LIlSsiqIWf44ydK2z"
+    },
+    {
+      "added_at": "2025-11-21 14:36:15",
+      "album": {
+        "name": "Wake Me Softly",
+        "url": "https://open.spotify.com/album/6ARc0MH301kItHchIEZJST"
+      },
+      "artists": [
+        {
+          "name": "Joseph Beg",
+          "url": "https://open.spotify.com/artist/2N40EmjIUVBHidajBVs3Px"
+        }
+      ],
+      "duration_ms": 270870,
+      "name": "Wake Me Softly",
+      "url": "https://open.spotify.com/track/7JPzLU6ako27gbSXZGjQ62"
     },
     {
       "added_at": "2025-11-21 14:36:15",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2025-11-21 14:36:15",
       "album": {
+        "name": "Changes in Air",
+        "url": "https://open.spotify.com/album/3UfJSJzmYcUex6Uj5f7DdI"
+      },
+      "artists": [
+        {
+          "name": "Kara-Lis Coverdale",
+          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
+        }
+      ],
+      "duration_ms": 277750,
+      "name": "Boundlessness",
+      "url": "https://open.spotify.com/track/11EfRHeiSHBynrX6IKpugx"
+    },
+    {
+      "added_at": "2025-11-21 14:36:15",
+      "album": {
         "name": "Pantano Lontano",
         "url": "https://open.spotify.com/album/1rWoQDBXjsjQ4famyZsqpE"
       },
@@ -1279,6 +1295,22 @@
     {
       "added_at": "2025-11-21 14:36:15",
       "album": {
+        "name": "Kakashi",
+        "url": "https://open.spotify.com/album/0ZVkkcvhUWQ4hIeoC8Y5Kb"
+      },
+      "artists": [
+        {
+          "name": "Yasuaki Shimizu",
+          "url": "https://open.spotify.com/artist/0Q14t6kRnPv4av49Rz5o6e"
+        }
+      ],
+      "duration_ms": 140226,
+      "name": "Kono Yoni Yomeri (Sono 2)",
+      "url": "https://open.spotify.com/track/0nByarxBnlqMBH5tWvBuTG"
+    },
+    {
+      "added_at": "2025-11-21 14:36:15",
+      "album": {
         "name": "ocean tales",
         "url": "https://open.spotify.com/album/0ENr07q7h0vsydKinh36FM"
       },
@@ -1299,22 +1331,6 @@
     {
       "added_at": "2025-11-21 14:36:15",
       "album": {
-        "name": "Kakashi",
-        "url": "https://open.spotify.com/album/0ZVkkcvhUWQ4hIeoC8Y5Kb"
-      },
-      "artists": [
-        {
-          "name": "Yasuaki Shimizu",
-          "url": "https://open.spotify.com/artist/0Q14t6kRnPv4av49Rz5o6e"
-        }
-      ],
-      "duration_ms": 140226,
-      "name": "Kono Yoni Yomeri (Sono 2)",
-      "url": "https://open.spotify.com/track/0nByarxBnlqMBH5tWvBuTG"
-    },
-    {
-      "added_at": "2025-11-21 14:36:15",
-      "album": {
         "name": "Legends",
         "url": "https://open.spotify.com/album/0Hy3urqOl5IArDdoycKlJP"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 211320,
       "name": "Cherry",
       "url": "https://open.spotify.com/track/3WdPwK49grEfkW5cw9C3Lo"
-    },
-    {
-      "added_at": "2025-11-21 14:36:15",
-      "album": {
-        "name": "Articulation",
-        "url": "https://open.spotify.com/album/6gcAUc2LUZfbHwZZJLgvtm"
-      },
-      "artists": [
-        {
-          "name": "Rival Consoles",
-          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
-        }
-      ],
-      "duration_ms": 219820,
-      "name": "Melodica",
-      "url": "https://open.spotify.com/track/77m3CO9cDi94PkxKF3X4wg"
     },
     {
       "added_at": "2025-11-21 14:36:15",
@@ -1363,22 +1363,34 @@
     {
       "added_at": "2025-11-21 14:36:15",
       "album": {
-        "name": "Infinite Present",
-        "url": "https://open.spotify.com/album/6Gx1dNtc2JOmqio0hi3f9q"
+        "name": "Articulation",
+        "url": "https://open.spotify.com/album/6gcAUc2LUZfbHwZZJLgvtm"
       },
       "artists": [
         {
-          "name": "Juan Pablo Garcia Garcia",
-          "url": "https://open.spotify.com/artist/2PjNvegzUcfzzUZjAOzRbA"
-        },
-        {
-          "name": "Juan Pablo Garcia",
-          "url": "https://open.spotify.com/artist/7cjb7yHEV4SCYohr9q48Xd"
+          "name": "Rival Consoles",
+          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
         }
       ],
-      "duration_ms": 227357,
-      "name": "Make Me Feel Loved",
-      "url": "https://open.spotify.com/track/1OgVtsBf3NDG1XvOpDaAWx"
+      "duration_ms": 219820,
+      "name": "Melodica",
+      "url": "https://open.spotify.com/track/77m3CO9cDi94PkxKF3X4wg"
+    },
+    {
+      "added_at": "2025-11-21 14:36:15",
+      "album": {
+        "name": "Parallel",
+        "url": "https://open.spotify.com/album/1xrXrgQDQzTlGrDYhX8ikT"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 435070,
+      "name": "Parallel 9",
+      "url": "https://open.spotify.com/track/7v5OpWQsjk8EVecwnHpNIj"
     },
     {
       "added_at": "2025-11-21 14:36:15",
@@ -1395,6 +1407,26 @@
       "duration_ms": 123953,
       "name": "Yip, Yip, Yip",
       "url": "https://open.spotify.com/track/3VJmF2hR2VRA9EPEywJAoB"
+    },
+    {
+      "added_at": "2025-11-21 14:36:15",
+      "album": {
+        "name": "Infinite Present",
+        "url": "https://open.spotify.com/album/6Gx1dNtc2JOmqio0hi3f9q"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Garcia Garcia",
+          "url": "https://open.spotify.com/artist/2PjNvegzUcfzzUZjAOzRbA"
+        },
+        {
+          "name": "Juan Pablo Garcia",
+          "url": "https://open.spotify.com/artist/7cjb7yHEV4SCYohr9q48Xd"
+        }
+      ],
+      "duration_ms": 227357,
+      "name": "Make Me Feel Loved",
+      "url": "https://open.spotify.com/track/1OgVtsBf3NDG1XvOpDaAWx"
     },
     {
       "added_at": "2025-11-21 14:36:15",
@@ -1447,18 +1479,18 @@
     {
       "added_at": "2025-11-21 14:36:15",
       "album": {
-        "name": "Parallel",
-        "url": "https://open.spotify.com/album/1xrXrgQDQzTlGrDYhX8ikT"
+        "name": "Dragonfly",
+        "url": "https://open.spotify.com/album/1tnFjROKdsPB8Kb1PMOruy"
       },
       "artists": [
         {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
         }
       ],
-      "duration_ms": 435070,
-      "name": "Parallel 9",
-      "url": "https://open.spotify.com/track/7v5OpWQsjk8EVecwnHpNIj"
+      "duration_ms": 197142,
+      "name": "Dragonfly",
+      "url": "https://open.spotify.com/track/4macbsL1U1qhQD9Ixj5OVa"
     },
     {
       "added_at": "2025-11-21 14:36:15",
@@ -1479,22 +1511,6 @@
       "duration_ms": 163733,
       "name": "Natural Bridges",
       "url": "https://open.spotify.com/track/43oEjzPLnmve0ea2WjqV6W"
-    },
-    {
-      "added_at": "2025-11-21 14:36:15",
-      "album": {
-        "name": "Dragonfly",
-        "url": "https://open.spotify.com/album/1tnFjROKdsPB8Kb1PMOruy"
-      },
-      "artists": [
-        {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "Dragonfly",
-      "url": "https://open.spotify.com/track/4macbsL1U1qhQD9Ixj5OVa"
     },
     {
       "added_at": "2025-11-21 14:36:15",
@@ -1635,22 +1651,6 @@
       "duration_ms": 230309,
       "name": "Two Halves Touching",
       "url": "https://open.spotify.com/track/63Ra6rlO5ybbsEDWOQ395S"
-    },
-    {
-      "added_at": "2025-11-21 14:36:15",
-      "album": {
-        "name": "Changes in Air",
-        "url": "https://open.spotify.com/album/3UfJSJzmYcUex6Uj5f7DdI"
-      },
-      "artists": [
-        {
-          "name": "Kara-Lis Coverdale",
-          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
-        }
-      ],
-      "duration_ms": 277750,
-      "name": "Boundlessness",
-      "url": "https://open.spotify.com/track/11EfRHeiSHBynrX6IKpugx"
     },
     {
       "added_at": "2025-11-21 14:36:15",

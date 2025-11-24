@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound\. Cover: Higgo
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,397 likes - 70 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,417 likes - 70 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 50 | [pick your poison](https://open.spotify.com/track/6OaYA5Xn6xVwcLyYEE2Ard) | [KiLLOWEN](https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO) | [six missed calls](https://open.spotify.com/album/1gWdOqu1lh6XB8o99mNB8r) | 2:17 |
 | 51 | [True](https://open.spotify.com/track/21SUW6VqiPSwSumXMPYQtz) | [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [True](https://open.spotify.com/album/4DZW1POsJE6ge80HXUfsfs) | 3:56 |
 | 52 | [DARWIN](https://open.spotify.com/track/24caY3L0inVduxmvqNfrzj) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK) | [MY NAME IS OPP!](https://open.spotify.com/album/5RTxCB2LbNTkswQrDLtQeK) | 3:58 |
-| 53 | [LOOK4MYLOVE](https://open.spotify.com/track/3NVBJRH0UiPvqAf0ItonHt) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz), [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP) | [LOOK4MYLOVE](https://open.spotify.com/album/3aEwbI3IgFsljshX9Gk9ZD) | 3:40 |
-| 54 | [Little Man \(Proud Of You\)](https://open.spotify.com/track/7f3S9OhJPB9IrQgn4JXx3O) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf) | [Little Man \(Proud Of You\)](https://open.spotify.com/album/4B9MXp0goo3b3n2p3VeGUU) | 2:00 |
+| 53 | [Little Man \(Proud Of You\)](https://open.spotify.com/track/7f3S9OhJPB9IrQgn4JXx3O) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf) | [Little Man \(Proud Of You\)](https://open.spotify.com/album/4B9MXp0goo3b3n2p3VeGUU) | 2:00 |
+| 54 | [LOOK4MYLOVE](https://open.spotify.com/track/3NVBJRH0UiPvqAf0ItonHt) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz), [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP) | [LOOK4MYLOVE](https://open.spotify.com/album/3aEwbI3IgFsljshX9Gk9ZD) | 3:40 |
 | 55 | [Move Your Body feat\. Xpansions](https://open.spotify.com/track/44FX4F5Ju4gl07fgw4ceMA) | [bullet tooth](https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC), [Xpansions](https://open.spotify.com/artist/2oSihaE9ObkcZVx2LAxySj) | [Move Your Body](https://open.spotify.com/album/02PQj31nY2avYFnKtW0LqX) | 2:30 |
 | 56 | [Nobody Else But U](https://open.spotify.com/track/3iagcHosUvxs9876pJwZKI) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0) | [Nobody Else But U](https://open.spotify.com/album/6vNxyOKtUI4bpLKOtYlIkY) | 3:20 |
 | 57 | [Back 2 Me](https://open.spotify.com/track/2IKLkgYI7pFOFCr9IevOmb) | [Diffrent](https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV), [ELOQ](https://open.spotify.com/artist/36mHwYa65L0WZbAXY2iSGw) | [Back 2 Me](https://open.spotify.com/album/1BVM0FxL00YwA3z4r8qgw7) | 2:21 |
@@ -70,13 +70,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 60 | [Sorry I'm Like This](https://open.spotify.com/track/4F3aBBLzNf56Yx23TZFfgJ) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y), [ODF](https://open.spotify.com/artist/14Md2pjzFKO47fz1vq9KLu) | [Sorry I'm Like This](https://open.spotify.com/album/5JXnm6iu35ZAR9mjswrILS) | 2:52 |
 | 61 | [Hold On](https://open.spotify.com/track/6pCrx0kmrXsXlMfKK9KksT) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Hold On](https://open.spotify.com/album/5EE83YjGBKzM6x5O9AT9rN) | 4:13 |
 | 62 | [Needed You](https://open.spotify.com/track/4K8aOmtSHM45q9O6bN8Hc0) | [Strn.](https://open.spotify.com/artist/4UdZWeX7Nkt2LtdoGEzlsH), [ALEXYS](https://open.spotify.com/artist/2hZSRabELx8cqDED0Dd5jT) | [Needed You](https://open.spotify.com/album/3xCd2AgD9A19DfwGz41nNp) | 2:03 |
-| 63 | [Like This Like That](https://open.spotify.com/track/14xIALfiHAkxoKAfrTJ9j0) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [EVERY TIME](https://open.spotify.com/album/2xPlGIl6FCLFbfuC0Sv0vg) | 4:13 |
-| 64 | [For Me](https://open.spotify.com/track/1lJh7RbM1ZzRaFRI5o6Asp) | [Diffrent](https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV), [Queen Millz](https://open.spotify.com/artist/2pFjYsNEe6hIBcRH4PT8m0) | [For Me](https://open.spotify.com/album/5giv1RyEVkLHDvrSGS0Lxe) | 3:05 |
+| 63 | [For Me](https://open.spotify.com/track/1lJh7RbM1ZzRaFRI5o6Asp) | [Diffrent](https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV), [Queen Millz](https://open.spotify.com/artist/2pFjYsNEe6hIBcRH4PT8m0) | [For Me](https://open.spotify.com/album/5giv1RyEVkLHDvrSGS0Lxe) | 3:05 |
+| 64 | [Like This Like That](https://open.spotify.com/track/14xIALfiHAkxoKAfrTJ9j0) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [EVERY TIME](https://open.spotify.com/album/2xPlGIl6FCLFbfuC0Sv0vg) | 4:13 |
 | 65 | [IF I CAN'T BE YOURS](https://open.spotify.com/track/1CURVg07JNoRfEBylXcVnG) | [bullet tooth](https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC) | [IF I CAN'T BE YOURS](https://open.spotify.com/album/31p4g4SiFB9oAkAUYsPOHB) | 3:35 |
 | 66 | [ABC's](https://open.spotify.com/track/73P8YjW0PLirC8MygBp3hj) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof), [AntsLive](https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk) | [ABC's](https://open.spotify.com/album/6zpvtXid20MHH1ZYdb1mJE) | 2:58 |
 | 67 | [Feel Da Same](https://open.spotify.com/track/5Ajc6oBvDdeO09GlzYFW7f) | [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [Feel Da Same](https://open.spotify.com/album/4YCC3uBhkoVU0Ku21mM3nx) | 2:37 |
-| 68 | [Time Of Our Lives](https://open.spotify.com/track/1FTyUvELRNIOpiZXjcVW4D) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [Time Of Our Lives](https://open.spotify.com/album/0hrtCwQoVienxal6lQVPLJ) | 3:31 |
-| 69 | [All I Wanna Do](https://open.spotify.com/track/5HUC9IjfAU9OG0L0BU339b) | [Skeptic](https://open.spotify.com/artist/1b3IrBNhhpCTXFoJDA8DfI) | [All I Wanna Do](https://open.spotify.com/album/5jsXGxUYryqVDBgfm8rxAH) | 3:04 |
+| 68 | [All I Wanna Do](https://open.spotify.com/track/5HUC9IjfAU9OG0L0BU339b) | [Skeptic](https://open.spotify.com/artist/1b3IrBNhhpCTXFoJDA8DfI) | [All I Wanna Do](https://open.spotify.com/album/5jsXGxUYryqVDBgfm8rxAH) | 3:04 |
+| 69 | [Time Of Our Lives](https://open.spotify.com/track/1FTyUvELRNIOpiZXjcVW4D) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [Time Of Our Lives](https://open.spotify.com/album/0hrtCwQoVienxal6lQVPLJ) | 3:31 |
 | 70 | [King Steps](https://open.spotify.com/track/3sO69gpldejjE93KvK3bUj) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [King Steps](https://open.spotify.com/album/4Rrl6Wyonv6ACxYSJvFogt) | 3:01 |
 
 Snapshot ID: `AAAAAHw2CdkDfOCD9NjdOZytRoNKLVIz`

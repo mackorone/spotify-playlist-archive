@@ -1,12 +1,12 @@
 {
   "description": "This is Toby Keith. The essential tracks, all in one playlist.",
-  "num_followers": 123762,
+  "num_followers": 123772,
   "original_name": "This Is Toby Keith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aR+rgAAAAABvVHNDzMRgGxeUT3JzIHXD",
+  "snapshot_id": "aSD9AAAAAABx9g54pg5NFmoXMqRNqh1w",
   "tracks": [
     {
       "added_at": null,
@@ -775,6 +775,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "35 mph Town",
+        "url": "https://open.spotify.com/album/2YD3x5rpYeNg1fYAcHTv8d"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        },
+        {
+          "name": "Jimmy Buffett",
+          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
+        }
+      ],
+      "duration_ms": 188413,
+      "name": "Sailboat for Sale",
+      "url": "https://open.spotify.com/track/2wT3VvoiJm0LFZyQrfkQYz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shock 'N Y'all",
         "url": "https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan"
       },
@@ -803,26 +823,6 @@
       "duration_ms": 188920,
       "name": "She's A Hottie - Single Version",
       "url": "https://open.spotify.com/track/5SD2dutv5rJM4Q8hlnC2QK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "35 mph Town",
-        "url": "https://open.spotify.com/album/2YD3x5rpYeNg1fYAcHTv8d"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        },
-        {
-          "name": "Jimmy Buffett",
-          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
-        }
-      ],
-      "duration_ms": 188413,
-      "name": "Sailboat for Sale",
-      "url": "https://open.spotify.com/track/2wT3VvoiJm0LFZyQrfkQYz"
     },
     {
       "added_at": null,

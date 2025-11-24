@@ -331,6 +331,24 @@
     },
     {
       "album": {
+        "name": "Fashion Nympho",
+        "url": "https://open.spotify.com/album/6iu5ClhbjsWLrTHr8evGl9"
+      },
+      "artists": [
+        {
+          "name": "Bimini",
+          "url": "https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Fashion Nympho",
+      "url": "https://open.spotify.com/track/36DpqHlVo4uw3ZbcMCgsZx"
+    },
+    {
+      "album": {
         "name": "Make It Better",
         "url": "https://open.spotify.com/album/3xMkYpaWQGD063055J2dnp"
       },
@@ -846,7 +864,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 219999,
       "name": "Slay 4 Me (feat. Jesse Fields) - Edit",
       "url": "https://open.spotify.com/track/2ycAx22Kc8PJNVY1cyTcON"

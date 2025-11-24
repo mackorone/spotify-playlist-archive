@@ -8,11 +8,11 @@ pretty - [cumulative](/playlists/cumulative/3QqLAAH3ltES4Yr3XdCI9z.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Never Would Have Made It](https://open.spotify.com/track/3QdBvvYJ9k1CES1e9aYvaA) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [Thirsty](https://open.spotify.com/album/04IAkH0X6ZDu6T35zD8KQy) | 6:55 |
-| 2 | [I Won’t Complain](https://open.spotify.com/track/3rGlvhGguVckWnkFiaslsB) | [Rev\. Paul Jones](https://open.spotify.com/artist/0Wu5bgr1RccU9UMgoLbXaT) | [I Won’t Complain](https://open.spotify.com/album/5rxkuBLC0JKcdJhdQsV0Ed) | 4:52 |
-| 3 | [Changed \- Tramaine Treasury Album](https://open.spotify.com/track/69np0vEH8DIRlKZqSfnCBi) | [Tramaine Hawkins](https://open.spotify.com/artist/3VrvtMPf98keYfWoBPx4OR) | [All My Best To You](https://open.spotify.com/album/2y5a73laD429H5BEtEnLIy) | 7:31 |
-| 4 | [Jesus Loves Me \- A Capella Version](https://open.spotify.com/track/5GPK5xpGAoLOTyZihZr0V9) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [I Wish You Love: More From The Bodyguard](https://open.spotify.com/album/3qEUTNGTeDXwYwSl3v2hNV) | 4:52 |
-| 5 | [Precious Lord](https://open.spotify.com/track/0ZcWaF2LUfN7n58GFbexxi) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [The Life Of Riley \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4xTMuGIOwzmtZwLKa8XwOw) | 3:22 |
+| 1 | [Precious Lord](https://open.spotify.com/track/0ZcWaF2LUfN7n58GFbexxi) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [The Life Of Riley \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4xTMuGIOwzmtZwLKa8XwOw) | 3:22 |
+| 2 | [Never Would Have Made It](https://open.spotify.com/track/3QdBvvYJ9k1CES1e9aYvaA) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [Thirsty](https://open.spotify.com/album/04IAkH0X6ZDu6T35zD8KQy) | 6:55 |
+| 3 | [I Won’t Complain](https://open.spotify.com/track/3rGlvhGguVckWnkFiaslsB) | [Rev\. Paul Jones](https://open.spotify.com/artist/0Wu5bgr1RccU9UMgoLbXaT) | [I Won’t Complain](https://open.spotify.com/album/5rxkuBLC0JKcdJhdQsV0Ed) | 4:52 |
+| 4 | [Changed \- Tramaine Treasury Album](https://open.spotify.com/track/69np0vEH8DIRlKZqSfnCBi) | [Tramaine Hawkins](https://open.spotify.com/artist/3VrvtMPf98keYfWoBPx4OR) | [All My Best To You](https://open.spotify.com/album/2y5a73laD429H5BEtEnLIy) | 7:31 |
+| 5 | [Jesus Loves Me \- A Capella Version](https://open.spotify.com/track/5GPK5xpGAoLOTyZihZr0V9) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [I Wish You Love: More From The Bodyguard](https://open.spotify.com/album/3qEUTNGTeDXwYwSl3v2hNV) | 4:52 |
 | 6 | [I Know the Lord Will](https://open.spotify.com/track/3SNjI13wD9SOeDgR8Xbpw9) | [Bishop G.E\. Patterson](https://open.spotify.com/artist/3TLdgpTMZ1RNlWFNGTgPDM) | [Recorded Live In Memphis, TN Volume 2](https://open.spotify.com/album/3jcwT5XspcGY8vffFFI7H0) | 6:22 |
 | 7 | [If It Had Not Been For The Lord On My Side](https://open.spotify.com/track/2xroZZbIlZVmfSXUKO5Q95) | [Helen Baylor](https://open.spotify.com/artist/4p4141HhLjwFCpNwKHFnxf) | [Women's Day \(Great Women Sing Gospel Favorites\)](https://open.spotify.com/album/4WsD5YQlpAdNQ1FRid9wUY) | 2:33 |
 | 8 | [You Brought The Sunshine \- Live](https://open.spotify.com/track/2yK4879j9Q1XnJio6ETqJV) | [The Clark Sisters](https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE) | [Live: One Last Time](https://open.spotify.com/album/4q02ycz7FsngzsYDtjaIMc) | 4:18 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/3QqLAAH3ltES4Yr3XdCI9z.md) - [plain]
 | 87 | [Oceans Will Part \- Live](https://open.spotify.com/track/5MoKzZzkbcd6GrVvZUGdhe) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24) | [Mighty To Save \(Live\)](https://open.spotify.com/album/50pKUonleomBalc93lyfEG) | 5:07 |
 | 88 | [I'm Still Here](https://open.spotify.com/track/0qtIa1k4Dh5bVYNngW9SDz) | [Dorinda Clark\-Cole](https://open.spotify.com/artist/2izm16Jd9ifkaqR5fxzlTK) | [Dorinda Clark\-Cole](https://open.spotify.com/album/4GFRHIy3A3yBqBc1fchCDh) | 5:51 |
 
-Snapshot ID: `AAABnChhxXg1W3dC5XciK3aoHS/IVCoQ`
+Snapshot ID: `AAABnY+ZERJUFAxyB3pyyxx6oUa4n5Ac`

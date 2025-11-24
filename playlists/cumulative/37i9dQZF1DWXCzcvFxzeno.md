@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: Sara Landry
 
-323 songs - 22 hr 33 min
+324 songs - 22 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Achtuhrvier](https://open.spotify.com/track/6MqW3vrYS9INbfmtz1UgT0) | [Mython](https://open.spotify.com/artist/4xu2RB87uniuxEyYiPp0q5), [Pesante \(GER\)](https://open.spotify.com/artist/2G6DJAM91D5woggl7SK1VH) | [Them Sinners](https://open.spotify.com/album/7Mpr0C99nS6tZjrHJAIlvl) | 6:27 | 2024-04-09 | 2024-10-25 |
 | [Acid](https://open.spotify.com/track/2pwQrOz2ouKTqXxRSJmxbm) | [Basswell](https://open.spotify.com/artist/4NzdIkiweEHJgVdg8q2Ruk) | [Acid](https://open.spotify.com/album/2tCLqpTFDobTy2KAmuHNot) | 2:40 | 2025-05-23 | 2025-06-12 |
 | [Acid Is My Drug](https://open.spotify.com/track/6ozzp2fnqDP0iKzf3uwDAO) | [Rabteu](https://open.spotify.com/artist/6RJC2mTVh69zPcBo5RdkF4) | [Acid Is My Drug](https://open.spotify.com/album/1EEcgNtx2wToMD22yZ0W6b) | 4:26 | 2024-04-09 | 2024-10-07 |
-| [Acid World](https://open.spotify.com/track/3Dnz6RCYRybCh9liOFWYp8) | [999999999](https://open.spotify.com/artist/6uD2LjPHUjxrpax0se17Nc), [Rian Wood](https://open.spotify.com/artist/5llw3jYyaK1eBCYkbrjcGX), [ANGEL CANNON](https://open.spotify.com/artist/4Ybj0IqmuPWSp023XnJpCD) | [Acid World](https://open.spotify.com/album/5IH3CLYmgu9ghGj7gMYiwd) | 3:05 | 2025-07-25 |  |
+| [Acid World](https://open.spotify.com/track/3Dnz6RCYRybCh9liOFWYp8) | [999999999](https://open.spotify.com/artist/6uD2LjPHUjxrpax0se17Nc), [Rian Wood](https://open.spotify.com/artist/5llw3jYyaK1eBCYkbrjcGX), [ANGEL CANNON](https://open.spotify.com/artist/4Ybj0IqmuPWSp023XnJpCD) | [Acid World](https://open.spotify.com/album/5IH3CLYmgu9ghGj7gMYiwd) | 3:05 | 2025-07-25 | 2025-11-24 |
 | [Adagio For Strings](https://open.spotify.com/track/7xCiyNgdqxoPELJBL3XrQ6) | [BYORN](https://open.spotify.com/artist/6PNduxfJ9CVW1bVXUR16AD) | [Adagio For Strings](https://open.spotify.com/album/34mJXRnbnNsqSJ1gH2MB3O) | 6:00 | 2024-04-09 |  |
 | [Adrenaline Assault](https://open.spotify.com/track/4pnmqNJxTQ1hICEv5rOKow) | [CARAVEL](https://open.spotify.com/artist/5od72ceH2aN3pS4hcHNzRy), [Køzløv](https://open.spotify.com/artist/6lmg9kOOeuhhgThuBOE4bX) | [Adrenaline Assault \[HAK002\]](https://open.spotify.com/album/7kR5VLDFHCm8PMiHWnjHCr) | 5:07 | 2024-04-09 | 2024-08-30 |
 | [All I Wanna](https://open.spotify.com/track/7BenhguFkOw1irlhoOkvoq) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb), [Lex Ledu](https://open.spotify.com/artist/4F0a2Vk6M0lPjpzxWl2POl) | [All I Wanna](https://open.spotify.com/album/6QPTz9BSRPmmztADxFINCu) | 2:10 | 2024-10-24 |  |
@@ -226,6 +226,7 @@
 | [Phatt Bass](https://open.spotify.com/track/60NIQobRG98JBVgQYU9gyi) | [Warp Brothers](https://open.spotify.com/artist/1npPQS3PDH4xmOhYxB2L0T), [Drakk](https://open.spotify.com/artist/1J0JESP0VUhLs4zYm62l5Q) | [Phatt Bass](https://open.spotify.com/album/5HTz9g0VedB4AA1tbdi8DX) | 4:15 | 2024-08-05 |  |
 | [Phiom Enhah](https://open.spotify.com/track/1cNkaK5pxDe0J8lQt7bH4e) | [Rikhter](https://open.spotify.com/artist/01wXJJ2iH73waMzLrINVY6) | [Rik1](https://open.spotify.com/album/4gC5qeoacwAk63tLRB518u) | 5:31 | 2024-04-09 | 2024-06-14 |
 | [pkds](https://open.spotify.com/track/27maGlIjDHFDLD4WgkVA2A) | [Buttechno](https://open.spotify.com/artist/4XbQUkFYWthjpAPp96lHWt) | [badtrip](https://open.spotify.com/album/0MIXx7RTmFktP7Tbvn70AB) | 5:49 | 2024-04-09 | 2024-04-17 |
+| [Play With Me](https://open.spotify.com/track/25KQKt7whpeqcj5LsttRP7) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [Play With Me](https://open.spotify.com/album/3drDrRF9zabJYjYs04DI98) | 2:13 | 2025-11-21 |  |
 | [Play With Me](https://open.spotify.com/track/6PrPWf02VxGUd2jJLs9z1M) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Shlømo](https://open.spotify.com/artist/0ZdNs1hU6aAiaZxvFbtDWF) | [Spiritual Driveby](https://open.spotify.com/album/2aQjGvSZNLgf4tuMADUeqr) | 3:38 | 2024-10-04 |  |
 | [Plur](https://open.spotify.com/track/2QYLBNj1fX9oD7RVcKgnXu) | [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z) | [Plur](https://open.spotify.com/album/06nKb1lnkGylo7Mca18s7k) | 4:27 | 2025-03-07 |  |
 | [Posh & Scary](https://open.spotify.com/track/03qSprDdxsPGSrMFpWPAva) | [Shlømo](https://open.spotify.com/artist/0ZdNs1hU6aAiaZxvFbtDWF), [Parfait](https://open.spotify.com/artist/3tFRzplldDxib5z3YjQb6n) | [Various Artists 2 \- EP 1](https://open.spotify.com/album/2EryX3QueBkHLiomOEf6un) | 5:26 | 2024-04-09 | 2024-08-14 |

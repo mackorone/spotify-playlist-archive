@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrhFFq3bnGV.md) - [plain]
 
 > Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Jo Soegono
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,392 likes - 98 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,396 likes - 98 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

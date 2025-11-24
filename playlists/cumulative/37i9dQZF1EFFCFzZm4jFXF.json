@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "Adelaide",
+        "url": "https://open.spotify.com/album/1nf7jCiBe4AgaUxTp4kQ7e"
+      },
+      "artists": [
+        {
+          "name": "Horxata",
+          "url": "https://open.spotify.com/artist/3QkSqgd7THUtqWlJjL4iRn"
+        },
+        {
+          "name": "Nova Tropics",
+          "url": "https://open.spotify.com/artist/5Z20EyBaysJXOw9suCDqsK"
+        }
+      ],
+      "date_added": "2025-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135360,
+      "name": "Adelaide",
+      "url": "https://open.spotify.com/track/3pZghavVnbU6iDRPXVRc5v"
+    },
+    {
+      "album": {
         "name": "Volume One",
         "url": "https://open.spotify.com/album/0U2US6liFchgyXBw7nZozm"
       },

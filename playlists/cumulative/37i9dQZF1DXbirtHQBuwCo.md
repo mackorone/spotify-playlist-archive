@@ -4,7 +4,7 @@
 
 > Trendy & Chill Korean R&B music\. \(Cover: <br/>KISS OF LIFE\)
 
-878 songs - 1 day 22 hr 25 min
+879 songs - 1 day 22 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -474,6 +474,7 @@
 | [Lucid Dream](https://open.spotify.com/track/285Bh5EkbxGGE76ge8JDbH) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Savage \- The 1st Mini Album](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) | 3:30 | 2022-04-19 |  |
 | [Lucky \(Korean Ver.\)](https://open.spotify.com/track/5PD4iehNUhZQsmM9E5Vznt) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Lucky \(Korean Ver.\)](https://open.spotify.com/album/27Kg4RNGzT2vIQ6OvXUjt5) | 2:28 | 2025-11-18 |  |
 | [LUH!](https://open.spotify.com/track/2Tae3EC5j3s229uZy8dm3T) | [DAHEE](https://open.spotify.com/artist/2t8ZtnTmVjirDrcaBPKwuS), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [LUH!](https://open.spotify.com/album/3VxgMjHe85dofrqFLQDO9D) | 3:28 | 2022-06-10 | 2022-06-14 |
+| [Lullaby Remix \(with Paradise, Jay Park & LOUIS of LNGSHOT\)](https://open.spotify.com/track/6WnMFDIiDJR0Yg9JaBwVQx) | [JayDon](https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju), [Paradise](https://open.spotify.com/artist/0jPDWsUr0XvGs5JcZChtto), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [LOUIS of LNGSHOT](https://open.spotify.com/artist/7dC5JED2uhOrtxILEGcecT) | [Lullaby Remix \(with Paradise, Jay Park & LOUIS of LNGSHOT\)](https://open.spotify.com/album/31mReIClap5NQNlYVt8TDB) | 3:37 | 2025-11-24 |  |
 | [MAD](https://open.spotify.com/track/3uZN7akZUmsvxmAImNtzVY) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [MAD](https://open.spotify.com/album/74jNs07XG3lX7RLsZe7iMV) | 2:34 | 2025-04-23 | 2025-05-13 |
 | [Magic \(Feat\. JULIE of KISS OF LIFE\)](https://open.spotify.com/track/6pLYWcPnBdFJShuUARDIwj) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [JULIE](https://open.spotify.com/artist/3ZMTicGYs90UxyTEIScT5h) | [NA](https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7) | 3:26 | 2024-07-16 |  |
 | [Magnetic \(R&B Remix\)](https://open.spotify.com/track/2KYwtEX70O5wD2xEn4a42J) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Magnetic \(Remixes\)](https://open.spotify.com/album/3N7bSRtr9USCEbSYOfSlEJ) | 2:51 | 2024-04-19 | 2024-08-04 |
@@ -614,7 +615,7 @@
 | [Permission to Dance \(R&B Remix\)](https://open.spotify.com/track/2iLgHSA5ar3kJKUWvegGPm) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Permission to Dance](https://open.spotify.com/album/6oLwgqPJrxnTibrzawDGqY) | 3:36 | 2022-04-19 | 2022-04-21 |
 | [Permission to Dance \- R&B Remix](https://open.spotify.com/track/3IGM6ph0w2fERLlyQtBoQt) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Permission to Dance](https://open.spotify.com/album/5ExDI42RCtISkQXAgv8dtZ) | 3:36 | 2022-08-01 | 2022-09-06 |
 | [Pick Up](https://open.spotify.com/track/2Pt0qKuoUA3M82VJbvmqEv) | [COE](https://open.spotify.com/artist/7Ld7na2w621hxwAQRfzpA2) | [Lost In Blue](https://open.spotify.com/album/5VKUK8vtlTPyUcAHOPcff5) | 2:57 | 2022-04-19 | 2022-04-21 |
-| [Pineapple Slice](https://open.spotify.com/track/13U2hhhgeN57hffBCuaUcw) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Hello, World \- The 4th Mini Album](https://open.spotify.com/album/6t6uh1uD01cnqef1Y7NVxA) | 3:15 | 2024-09-06 |  |
+| [Pineapple Slice](https://open.spotify.com/track/13U2hhhgeN57hffBCuaUcw) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Hello, World \- The 4th Mini Album](https://open.spotify.com/album/6t6uh1uD01cnqef1Y7NVxA) | 3:15 | 2024-09-06 | 2025-11-24 |
 | [Pink!](https://open.spotify.com/track/69q7FmDh1JXekNKOOxDmdM) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Pink!](https://open.spotify.com/album/1I5gyzHtCXanpYqRukAQGP) | 2:54 | 2022-06-20 | 2022-07-17 |
 | [Please Don′t Save Me](https://open.spotify.com/track/23vBocYQlxBdAhwbNbLPcd) | [Acy blu](https://open.spotify.com/artist/3MYIi83H7ZCfglGpvMtCQ6) | [Love Is Over](https://open.spotify.com/album/7pT9cfakGi2TnHHTFr7LCj) | 3:20 | 2022-06-16 | 2022-06-24 |
 | [Point \(feat\. Loopy\)](https://open.spotify.com/track/1mKvuX59nIvGwGpypwAy7k) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK), [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg) | [Every letter I sent you.](https://open.spotify.com/album/4wQwYHzJSgqbqU7YWioU1A) | 4:13 | 2022-07-07 | 2022-07-11 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Only the best rock in the world. Cover: M\u00e5neskin",
+  "description": "Only the best rock in the world. Cover: Twenty One Pilot",
   "name": "Just Rock!",
   "tracks": [
     {
@@ -6006,6 +6006,24 @@
       "duration_ms": 162706,
       "name": "Gnash",
       "url": "https://open.spotify.com/track/6Yu7zrXznYyNuzkpcwTuUp"
+    },
+    {
+      "album": {
+        "name": "Go Not Thither",
+        "url": "https://open.spotify.com/album/61NkiJ8QSowo8WHKzQEsn5"
+      },
+      "artists": [
+        {
+          "name": "Paul Gilbert",
+          "url": "https://open.spotify.com/artist/19sJfp2FK2evlsw46WVhPG"
+        }
+      ],
+      "date_added": "2025-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292842,
+      "name": "Go Not Thither",
+      "url": "https://open.spotify.com/track/1qu0XDzc9oNnI8bHwD8SJW"
     },
     {
       "album": {
@@ -18412,7 +18430,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 194786,
       "name": "ZITTI E BUONI",
       "url": "https://open.spotify.com/track/776AftMmFFAWUIEAb3lHhw"

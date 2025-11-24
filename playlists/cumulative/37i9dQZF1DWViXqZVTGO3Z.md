@@ -4,11 +4,12 @@
 
 > Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus\. Cover: Katy Nichole
 
-488 songs - 1 day 7 hr 46 min
+489 songs - 1 day 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\[the night the sky joined in\]](https://open.spotify.com/track/09haRxFNHvJw3wiC1HK4Vd) | [All Creatures](https://open.spotify.com/artist/2YgZPJl3jMabwzd1UZONon) | [\[the night the sky joined in\]](https://open.spotify.com/album/4d5DlbsJbmVEvKR6bM5JLH) | 3:18 | 2021-12-11 | 2024-07-13 |
+| [A Christmas Song](https://open.spotify.com/track/27wA4M5Vopzz1caxBtFWdD) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [A Christmas Song](https://open.spotify.com/album/2TtJzzYkAPxZ49AcuOf0um) | 3:25 | 2025-11-22 |  |
 | [A Great Light](https://open.spotify.com/track/2AO9r5sEWxrKf1n7XwdgsS) | [Vineyard Worship](https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL), [Ryan Delmore](https://open.spotify.com/artist/7vGfGzlkAiKT1TRaPkmzA8) | [Adore Him \(Vineyard Worship Christmas\)](https://open.spotify.com/album/2RCocGj4TJb3vs9goPVnVG) | 6:00 | 2021-12-24 | 2025-04-20 |
 | [A Very Merry Christmas](https://open.spotify.com/track/3tKCt9Xy303NAWC8xZHQZ5) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s), [Mateus Asato](https://open.spotify.com/artist/4en3qu5SDsPtBcTkXasukc), [Jesus Molina](https://open.spotify.com/artist/7Gl7yiOLDSRr1cZyPwpGv4) | [A Very Merry Christmas](https://open.spotify.com/album/3gJyqisGeXFgauoNd0GNnE) | 3:20 | 2021-12-24 |  |
 | [A Wonderful Child](https://open.spotify.com/track/5jA2SXtVOHSSspPxI9K0P9) | [Bryan Andrew Wilson](https://open.spotify.com/artist/1QgAQ6qXAMN1Gkxk0AEy7i), [Dorothy Norwood](https://open.spotify.com/artist/3B2PSZmAw3xz6cQ2XMXta7), [Darrel Walls](https://open.spotify.com/artist/0yg32lKXa3MKNPxiue46WJ) | [A Wonderful Child](https://open.spotify.com/album/1tatgsoU3vbGuAGLuvBCHI) | 3:24 | 2024-12-13 | 2025-11-06 |
@@ -262,7 +263,7 @@
 | [Just A Breath Away \(Noel\) \- Radio Version](https://open.spotify.com/track/1UGK7thDiNRQA7P4rQVOrd) | [Jonas Myrin](https://open.spotify.com/artist/2NFO8MvrS1FOyjQZKwgra5) | [Just A Breath Away \(Noel\) \[Radio Version\]](https://open.spotify.com/album/2BIt2v8Y5YJ3o1gzZy8i7B) | 3:10 | 2021-12-24 | 2025-11-17 |
 | [King Of Glory](https://open.spotify.com/track/4i29NqYXWDce8dhnT1PLTB) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [King Of Glory](https://open.spotify.com/album/6EBKn3EDTvm6QJfcUtpmPX) | 3:20 | 2022-11-26 |  |
 | [King of Heaven](https://open.spotify.com/track/72Dri0TJFiYnu2wdrtJj5Z) | [Allan McKinlay](https://open.spotify.com/artist/4zMVfhykoerNdhxVnJauFf) | [King of Heaven](https://open.spotify.com/album/2PPPXNMb5ZAqkoOrnX4ElK) | 5:13 | 2021-12-24 | 2022-07-29 |
-| [King Of Heaven \- Live Rehearsal Demo](https://open.spotify.com/track/0o1a9ZzvvlFQBfGiDw16Xs) | [The War Within](https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh) | [King Of Heaven \(Live Rehearsal Demo\)](https://open.spotify.com/album/2N0bmSOL15oq6vaHdls8q0) | 4:21 | 2021-12-24 |  |
+| [King Of Heaven \- Live Rehearsal Demo](https://open.spotify.com/track/0o1a9ZzvvlFQBfGiDw16Xs) | [The War Within](https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh) | [King Of Heaven \(Live Rehearsal Demo\)](https://open.spotify.com/album/2N0bmSOL15oq6vaHdls8q0) | 4:21 | 2021-12-24 | 2025-11-24 |
 | [King Of The World](https://open.spotify.com/track/3Iq1jLAtJ084vICdnmhvt3) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe), [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf) | [King Of The World](https://open.spotify.com/album/7fCwp8kRedDch9DxsIRS6F) | 4:33 | 2025-11-22 |  |
 | [Last Christmas With You](https://open.spotify.com/track/4EIsjsmCaoEK0MNSjfTCBq) | [Landry Cantrell](https://open.spotify.com/artist/6WYJ7U3mOA7bzOMkkkT3N6) | [Last Christmas With You](https://open.spotify.com/album/0PWwUOsXl9ahnZabFIXtjL) | 3:29 | 2021-12-24 | 2024-10-14 |
 | [Let Love Be The Gift](https://open.spotify.com/track/2odizPRWsNy8y7ClC0W6er) | [Trinity \(NL\)](https://open.spotify.com/artist/3SDefVlv5kSzaP5QYZTSMx) | [Let Love Be The Gift](https://open.spotify.com/album/2UDnw4ketZUlZkG5tYIiKD) | 3:19 | 2022-12-11 | 2024-08-01 |

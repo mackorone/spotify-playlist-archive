@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Tems, DBN Gogo,  Odeal, DJ Stokie and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,745 likes - 69 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,799 likes - 69 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

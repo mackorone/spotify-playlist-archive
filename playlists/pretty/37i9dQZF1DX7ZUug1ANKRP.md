@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 
 > The biggest Dance hits and the ones to come\. Cover: HOLY PRIEST
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,826,294 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,826,234 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 | 49 | [So Bist Du](https://open.spotify.com/track/0O1aY7nPePS7BBPGEqQ31J) | [Oli\. P](https://open.spotify.com/artist/4SP3LwSvQscEr8Fs3HfesU), [Felix Harrer](https://open.spotify.com/artist/7DDyntOmWbEgkGoIUaTxEp) | [So Bist Du](https://open.spotify.com/album/7gvNdIuBUJIsjqBLpyqtdg) | 3:29 |
 | 50 | [PYHU \(Put Your Hands Up\)](https://open.spotify.com/track/0zKsNJbYwvNTpePcwra0Qq) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Kurd Maverick](https://open.spotify.com/artist/6A3TktZj6p8D0bmbcfZEKE) | [PYHU \(Put Your Hands Up\)](https://open.spotify.com/album/6QHnkcW4h53aBl41i1rAxj) | 2:10 |
 
-Snapshot ID: `AAAAAJRjQYKIL0U9ByMrWX83/1DWXQF6`
+Snapshot ID: `AAAAAA+k2kaP1oDhFjCSsfohnzdYBCsO`

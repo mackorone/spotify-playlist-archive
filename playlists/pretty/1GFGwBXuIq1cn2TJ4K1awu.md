@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/1GFGwBXuIq1cn2TJ4K1awu.md) - [plain]
 
 > Ten or eleven songs a week\. Updated every Sunday\. Enjoy.
 
-[royva06](https://open.spotify.com/user/royva06) - 30 likes - 11 songs - 39 min 15 sec
+[royva06](https://open.spotify.com/user/royva06) - 30 likes - 11 songs - 46 min 53 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Come Rain or Come Shine](https://open.spotify.com/track/2htH7r8oqqEwp3BB6oh2cU) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [The Genius Of Ray Charles](https://open.spotify.com/album/4GFWnwli2cVOBp2G1zqhV1) | 3:42 |
-| 2 | [What Once Was](https://open.spotify.com/track/1XrSjpNe49IiygZfzb74pk) | [Her's](https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim) | [Songs of Her's](https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw) | 4:15 |
-| 3 | [Blue Motel Room](https://open.spotify.com/track/0wGyenCHkW7eFO2ZpokF6C) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Hejira](https://open.spotify.com/album/3Z0qQc09rmk4JYtIaxEx2J) | 5:04 |
-| 4 | [Wildfires](https://open.spotify.com/track/4Tzw9IdZbVyzmpWrvsGaNX) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Untitled \(Black Is\)](https://open.spotify.com/album/0GPmuVuCdC5hCsiuy1wXle) | 3:26 |
-| 5 | [Blueberry Hill \- Remastered 2002](https://open.spotify.com/track/2NkAoxQOr6MGdMB5JDTU81) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [Greatest Hits: Walking To New Orleans](https://open.spotify.com/album/0SFClXD5CAnZ6vzrcTzXgQ) | 2:23 |
-| 6 | [Airbag](https://open.spotify.com/track/3OsUjkcv1C1v5udFhgRSFg) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/7dxKtc08dYeRVHt3p9CZJn) | 4:47 |
-| 7 | [Year Of The Tiger](https://open.spotify.com/track/1EqJeY2n9HIZxSYsJAGtjz) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Strange Mercy](https://open.spotify.com/album/1Lci4bx7JIuCC8pnBNX7ds) | 3:28 |
-| 8 | [Planet of the Dreamers](https://open.spotify.com/track/3FNkyKjmq4wCjWjRlz86mD) | [Jacuzzi Boys](https://open.spotify.com/artist/6Jy8DN56YeZwPFUjdPa0QB) | [No Seasons](https://open.spotify.com/album/45wQEeUe8dvASjGWPz1Cbn) | 2:00 |
-| 9 | [Handsome Man](https://open.spotify.com/track/7JCBX2hcQ7f7WpjlG89xGh) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Twin Plagues](https://open.spotify.com/album/00rOqMAZR9zHdtRP5KQ64H) | 2:28 |
-| 10 | [Nobody Knows](https://open.spotify.com/track/1uC05EIsB37sS6UGKgJAqx) | [Kevin Sharp](https://open.spotify.com/artist/3DS0TGQThT1YDO41N3viID) | [Measure Of A Man](https://open.spotify.com/album/4RP5a0VZKWKNGtUDxPJqCX) | 3:26 |
-| 11 | [Click Click Boom](https://open.spotify.com/track/1LMVGL3030W3mGmRrd2hCm) | [Saliva](https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO) | [Every Six Seconds](https://open.spotify.com/album/77BmXBpCauB98yF2YVc8o5) | 4:12 |
+| 1 | [I Never Lie](https://open.spotify.com/track/3t6gUcGYLrUuqwpXjOFWQc) | [Zach Top](https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH) | [Cold Beer & Country Music](https://open.spotify.com/album/2liHjGjIgWvjrfBgKGBYuF) | 3:44 |
+| 2 | [Love Direction](https://open.spotify.com/track/6tJ5EnAku4gDSGIcv1vGgS) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [Love Direction](https://open.spotify.com/album/6C8U1GaZoEocQR4CqvW9SK) | 3:43 |
+| 3 | [I'd Just Love To Lay You Down](https://open.spotify.com/track/41BPEpefFwQqU2CHLQrsrm) | [Conway Twitty](https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF) | [Heart & Soul](https://open.spotify.com/album/12j3rywQNAwAs2HFZ06NLH) | 3:20 |
+| 4 | [Think I Wanna Die](https://open.spotify.com/track/45s3NSeLxtP2ptB98wiqb3) | [Someone Still Loves You Boris Yeltsin](https://open.spotify.com/artist/28V657x2IVJnSW3Srw6Ubd) | [Pershing](https://open.spotify.com/album/4rJni44cbpaMaRmvvLwgyy) | 2:49 |
+| 5 | [Fastlane](https://open.spotify.com/track/3dX0c7tK7bnaUMhZlr6sIC) | [King Geedorah](https://open.spotify.com/artist/77AKJs9SJqxHXbPgtJPKRa) | [Take Me To Your Leader](https://open.spotify.com/album/1mrhahrlJu5JfzgeV6Cy8t) | 3:08 |
+| 6 | [Official](https://open.spotify.com/track/38ybr0LS9XLUcqg8Yo62Wj) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Charli](https://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj) | 3:04 |
+| 7 | [Autumn Leaves](https://open.spotify.com/track/0X5DcGkbxCXSadgj01ZXd7) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Somethin' Else \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/3Wu0chxAm4GxSeRnIIf2Om) | 10:59 |
+| 8 | [It's a Hit](https://open.spotify.com/track/5lis4qF0ZUhNGyDiNyS7e1) | [Rilo Kiley](https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA) | [More Adventurous \(U.S\. Release\)](https://open.spotify.com/album/4n36X2GMJ84BKh9D9zMRVI) | 4:28 |
+| 9 | [No Wheres Home](https://open.spotify.com/track/3hiNP3xA2GFwdN5TjpAK6q) | [Noah Shepherd](https://open.spotify.com/artist/5QBPbecs5bmx0bXe89eLzP) | [Nowheres Home](https://open.spotify.com/album/2UZpkox09NVXf8jrIfAGB9) | 3:24 |
+| 10 | [If I Told](https://open.spotify.com/track/2Ckv1DTVTt5UPdnWutOO7h) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Old Flowers](https://open.spotify.com/album/5AytgSqS1iAmarw1kQ0fmI) | 4:58 |
+| 11 | [Sleeping on the Blacktop](https://open.spotify.com/track/6fhgO6p9DsTyHqPctyzDkV) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Imaginary Appalachia](https://open.spotify.com/album/6kV0NSYFjIMVgkhWRDI0bS) | 3:12 |
 
-Snapshot ID: `AAAIbrH0tJKhosHJ1d4r8aQYR7/G1s0X`
+Snapshot ID: `AAAIhJzVJ3rJ7hPMn8/GrC6oc5VocZ2P`

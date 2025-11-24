@@ -4,7 +4,7 @@
 
 > A mix of new songs and beloved classics from your favorite Contemporary Christian artists!
 
-488 songs - 1 day 6 hr 22 min
+489 songs - 1 day 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Harken](https://open.spotify.com/track/4NCRqYuH1M19b3cDiRgcs9) | [David Brymer](https://open.spotify.com/artist/7GTnr8474MiGyAxQBXTdap), [Chris Beland](https://open.spotify.com/artist/589onAR28YIA48jFpfyEMT) | [Harken](https://open.spotify.com/album/2h48qsKQiHFc5mTn6vMBoX) | 3:54 | 2024-08-01 | 2025-03-09 |
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/4QOMLsEXmNmzUTe1w7gGju) | [Becca Bradley](https://open.spotify.com/artist/0qPGusro9QlIqKGlgywzRU) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/5tTbreCuEcwODW9xgLskOV) | 3:26 | 2021-12-24 | 2022-07-24 |
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/1cXTOc2xKSg4whKKhDD7Va) | [Lydia Laird](https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/0XgTFzpaVhSq7D4xQTic0g) | 2:29 | 2021-12-24 |  |
+| [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/2TQ5LnGMe1vbzSeqLBDfSk) | [Megan Kerr](https://open.spotify.com/artist/0g6AH8bqlfFMqSqnMXScjG), [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/7fHOTqGVhhvILUzs5KHZGL) | 3:33 | 2025-11-22 |  |
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/37TK06f0yK9NvQu0te1dbu) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/2lfoP96BsfWp8fXZMHtRyv) | 4:03 | 2021-12-24 | 2022-07-25 |
 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/5XBBLp2quztPBIPeAH6Cjg) | [Rebecca Hart](https://open.spotify.com/artist/3eb9mDPsoRYnafWldTwz96), [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/11HlNo4BzgDoPyK4zEVWMC) | 4:42 | 2024-10-27 |  |
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/5BgbXwxUyCoeZ7PS4pBVl5) | [Rhett Walker](https://open.spotify.com/artist/4ImxhwjNOz0es0voxGHCoP) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/72z7GRVkOmZu5nRv8dwlzt) | 3:32 | 2021-12-24 |  |
@@ -434,7 +435,7 @@
 | [The Space Between](https://open.spotify.com/track/6yO3BG2NbFqYkBQRxL506o) | [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN), [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [Christmas](https://open.spotify.com/album/1fvAAs4qTKHY1sAq1PvVYy) | 3:51 | 2021-12-24 | 2022-07-29 |
 | [The Wait is Over](https://open.spotify.com/track/45clpYzIdS7Ju6yOSCxkaL) | [Jordan St\. Cyr](https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il) | [The Wait is Over](https://open.spotify.com/album/2Uviy1FsGVVctRmFDH3MbE) | 4:18 | 2022-11-26 | 2024-08-02 |
 | [There is a Promise](https://open.spotify.com/track/3J4HIR5gyLFxDLcKfKm7GS) | [David & Maaike](https://open.spotify.com/artist/7KYgxNTHfEPoXzsOKhvQXg) | [There is a Promise](https://open.spotify.com/album/04syM40Ri1WsG8L7OGebGY) | 4:11 | 2021-12-24 | 2022-07-29 |
-| [There's A Light Shining in Bethlehem](https://open.spotify.com/track/1aYBoyz9ZdBJeweX3GZWln) | [The Kramers](https://open.spotify.com/artist/4YQIgHKADGuqRbq7NvSQiV) | [There's A Light Shining in Bethlehem](https://open.spotify.com/album/7tttXSE7tRCYIZNEYNJsod) | 3:45 | 2025-10-26 |  |
+| [There's A Light Shining in Bethlehem](https://open.spotify.com/track/1aYBoyz9ZdBJeweX3GZWln) | [The Kramers](https://open.spotify.com/artist/4YQIgHKADGuqRbq7NvSQiV) | [There's A Light Shining in Bethlehem](https://open.spotify.com/album/7tttXSE7tRCYIZNEYNJsod) | 3:45 | 2025-10-26 | 2025-11-24 |
 | [This Christmas](https://open.spotify.com/track/1KfsVSKcKTh6hRjBSPL73J) | [Chris August](https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8) | [This Christmas](https://open.spotify.com/album/6ZdukzPlGxWGBcBTXGOcFu) | 2:51 | 2021-12-24 | 2025-11-07 |
 | [This Christmas](https://open.spotify.com/track/7ymACyIlTg1ZTTRoZdnPAN) | [The Color](https://open.spotify.com/artist/5Zrsjw80yCENGwI7YJaT4d) | [This Christmas](https://open.spotify.com/album/4rzPckbuNLw3gVvFWX7WM7) | 3:08 | 2024-08-01 |  |
 | [This is Christmas](https://open.spotify.com/track/0aolzp37lPqFhB1LBjRmwF) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [This is Christmas](https://open.spotify.com/album/6wwjwUB8juXsKsFhImkg7d) | 3:20 | 2021-12-24 | 2024-11-18 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1BC7DsARF1AbyFwyfGl0ay.md) - [plain]
 
 > “now i am become death, the destroyer of worlds.”
 
-[carolina <3](https://open.spotify.com/user/ninasantos11) - 99,067 likes - 101 songs - 6 hr 24 min
+[carolina <3](https://open.spotify.com/user/ninasantos11) - 99,159 likes - 101 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

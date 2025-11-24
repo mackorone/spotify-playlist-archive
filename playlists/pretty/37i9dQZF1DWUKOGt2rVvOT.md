@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKOGt2rVvOT.md) - [plain]
 
 > 這些華語歌還很紅也！一年了？兩年了？真的假的？高人氣金曲讓你一路聽下去！Cover: ØZI x 9m88
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,248 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,256 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

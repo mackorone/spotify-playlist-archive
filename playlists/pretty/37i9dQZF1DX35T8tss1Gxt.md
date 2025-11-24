@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 
 > Where faith meets R&B\. Cover: Jon Keith
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,492 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,537 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 | 99 | [Holla](https://open.spotify.com/track/1q4Perb4ObGoDYG5hwxxJP) | [Olivia King](https://open.spotify.com/artist/1ueZy4kOgGzs9qRwTziSoL) | [Holla](https://open.spotify.com/album/2r1UPZG8Jycyqu962XeOlC) | 2:54 |
 | 100 | [Look What God Did](https://open.spotify.com/track/1vnwGGophH803Bz1B83nQr) | [Evan Ford](https://open.spotify.com/artist/4eoZNWAcavDmUTQIoiPpyk) | [Look What God Did](https://open.spotify.com/album/1M8gr70b67T3bEbe1H1aIH) | 1:51 |
 
-Snapshot ID: `AAAAAHjvaImgDB5mf6WzeBNTeKIiKHYE`
+Snapshot ID: `AAAAANAUIxQrFgvSxv5RM+Gi9mwJtcv7`

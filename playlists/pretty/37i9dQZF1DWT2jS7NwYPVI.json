@@ -1,12 +1,12 @@
 {
   "description": "your cheat sheet for all that's on the rise in rock/alt | Cover: Westside Cowboy",
-  "num_followers": 467977,
+  "num_followers": 467942,
   "original_name": "New Noise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAElDmHivqBA7GKZMED03U46r2joc",
+  "snapshot_id": "AAAAALhuVaTmvh0rX+7/KqrQ3UsO+P8q",
   "tracks": [
     {
       "added_at": "2025-11-21 05:00:23",
@@ -519,6 +519,38 @@
       "duration_ms": 184389,
       "name": "Stainless Steel",
       "url": "https://open.spotify.com/track/6eBZoUMt91nuKPiTZBUuzl"
+    },
+    {
+      "added_at": "2025-11-23 15:55:26",
+      "album": {
+        "name": "Get to Choose",
+        "url": "https://open.spotify.com/album/7HKZIh4ji2eA2LGNbhGpKc"
+      },
+      "artists": [
+        {
+          "name": "Dirt Buyer",
+          "url": "https://open.spotify.com/artist/6MzWbIkpg9it7v13OQkDdp"
+        }
+      ],
+      "duration_ms": 184438,
+      "name": "Get to Choose",
+      "url": "https://open.spotify.com/track/5h9FYRmddlb1x0ybleGPxY"
+    },
+    {
+      "added_at": "2025-11-23 15:55:26",
+      "album": {
+        "name": "Talkback",
+        "url": "https://open.spotify.com/album/3plrzUt7S60kzn1ImNTux7"
+      },
+      "artists": [
+        {
+          "name": "Robber Robber",
+          "url": "https://open.spotify.com/artist/7kXZ3iTr0blml9QgUdfwGM"
+        }
+      ],
+      "duration_ms": 129545,
+      "name": "Talkback",
+      "url": "https://open.spotify.com/track/7wH4mf93kZNJU10OTvokSN"
     },
     {
       "added_at": "2025-11-21 05:00:23",

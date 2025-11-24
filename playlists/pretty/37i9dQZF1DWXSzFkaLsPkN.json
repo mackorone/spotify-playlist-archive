@@ -1,6 +1,6 @@
 {
   "description": "Hindi hai, Indie hai! Cover- Samad Khan\n",
-  "num_followers": 132166,
+  "num_followers": 132184,
   "original_name": "hIndies",
   "owner": {
     "name": "Spotify",
@@ -559,6 +559,22 @@
     {
       "added_at": "2025-11-21 08:59:29",
       "album": {
+        "name": "Jadoo",
+        "url": "https://open.spotify.com/album/4rgE2Rxo1YshL8GlEJNNL1"
+      },
+      "artists": [
+        {
+          "name": "Akshath",
+          "url": "https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo"
+        }
+      ],
+      "duration_ms": 190601,
+      "name": "Jadoo",
+      "url": "https://open.spotify.com/track/5MQLDkiEagOTLKpfa59a06"
+    },
+    {
+      "added_at": "2025-11-21 08:59:29",
+      "album": {
         "name": "Sawaal",
         "url": "https://open.spotify.com/album/0OR7vWEzcUAhoyO6HBrSXY"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 211455,
       "name": "Sawaal",
       "url": "https://open.spotify.com/track/7FfCxoiaShMahjnHEGLGNu"
-    },
-    {
-      "added_at": "2025-11-21 08:59:29",
-      "album": {
-        "name": "Jadoo",
-        "url": "https://open.spotify.com/album/4rgE2Rxo1YshL8GlEJNNL1"
-      },
-      "artists": [
-        {
-          "name": "Akshath",
-          "url": "https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo"
-        }
-      ],
-      "duration_ms": 190601,
-      "name": "Jadoo",
-      "url": "https://open.spotify.com/track/5MQLDkiEagOTLKpfa59a06"
     },
     {
       "added_at": "2025-11-21 08:59:29",

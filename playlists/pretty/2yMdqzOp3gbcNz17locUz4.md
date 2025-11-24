@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2yMdqzOp3gbcNz17locUz4.md) - [plain]
 
 > furry, ΘΔ, indie\. Cover: <a href="https://open.spotify.com/artist/79jK2cwnyhEvk0PBwqzrbH?si=rp\_WtEGDQ1WW7vZ6JzOEAg">polyana</a> \|\| Visit our <a href="https://indieanthro.com">website</a> for more ✨
 
-[trickyStoop](https://open.spotify.com/user/tlpij335kpcn3s0ulidrtgtid) - 3,635 likes - 116 songs - 6 hr 24 min
+[trickyStoop](https://open.spotify.com/user/tlpij335kpcn3s0ulidrtgtid) - 3,634 likes - 116 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,7 +120,7 @@ pretty - [cumulative](/playlists/cumulative/2yMdqzOp3gbcNz17locUz4.md) - [plain]
 | 110 | [Fault](https://open.spotify.com/track/7rDjCoqge2niofZQGnMqfZ) | [Sideswept Bangs](https://open.spotify.com/artist/7FiTJRufj2n31L9GQLpzXT) | [Fault](https://open.spotify.com/album/45g6CFEm6LPqH7HqEBgcTo) | 2:49 |
 | 111 | [in hindsight](https://open.spotify.com/track/7ek0SJOe1Abud8p9WGynE2) | [daryl dee](https://open.spotify.com/artist/22QtRMzqI4jfkA4rrxybFY) | [in hindsight](https://open.spotify.com/album/22HAd6MwLpLBp5hL0t7lcj) | 2:17 |
 | 112 | [Need U](https://open.spotify.com/track/18R7xqM7EmxYyJ1EB0JDBh) | [SOLARDOG](https://open.spotify.com/artist/0ERVZTPaOTcCU411qHpCV5), [GABUISLOST](https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH) | [Need U](https://open.spotify.com/album/4X6kdKJj5esPAbRhXfbU8Z) | 2:55 |
-| 113 | [Modjo Duck](https://open.spotify.com/track/2gM0zpLWeCD3TaQnRMK0mL) | [Pararaccoon](https://open.spotify.com/artist/00HzVr21Mdk8Dotz0NMCqC) | [Modjo Duck](https://open.spotify.com/album/3pvWzaeGnnuC7pHQEh3inp) | 1:52 |
+| 113 | [Modjo Duck](https://open.spotify.com/track/2gM0zpLWeCD3TaQnRMK0mL) | [Myles Parsons](https://open.spotify.com/artist/3750Riz6QoTriyKxOoRB5k) | [Modjo Duck](https://open.spotify.com/album/3pvWzaeGnnuC7pHQEh3inp) | 1:52 |
 | 114 | [Mortis Jackrabbit](https://open.spotify.com/track/3ZYXW4rR82IJjOXeVSqWak) | [I've Made Too Much Pasta](https://open.spotify.com/artist/6OksDGGpXMeIWF1x5ipa5s) | [How to Drive a Bus](https://open.spotify.com/album/7wTNZKTzJLWOPLTvVTu5nj) | 1:53 |
 | 115 | [Pace Like I Do](https://open.spotify.com/track/3zG6W7dtkK6tKiofyZ9ZpU) | [ODAE](https://open.spotify.com/artist/7AQzzGZ3Fg9Zf17jcgMCfd) | [Please](https://open.spotify.com/album/2nuqd1tTbm292CuT2Rd6lB) | 2:29 |
 | 116 | [Beach Life\-In\-Death](https://open.spotify.com/track/27aQH9DIJ3ozx3dC91Hhjg) | [Car Seat Headrest](https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf) | [Twin Fantasy](https://open.spotify.com/album/6gDtROOIYa6OQxwhDNkDRM) | 13:18 |

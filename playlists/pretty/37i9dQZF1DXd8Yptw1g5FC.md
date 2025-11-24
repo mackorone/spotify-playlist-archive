@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Barış Demirel x Can Kazaz ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,580 likes - 110 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,575 likes - 110 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 46 | [Öyle Bir Yerdeyim ki](https://open.spotify.com/track/4J29FNXrg2Lggpe0TWBdKK) | [Zeynep Baksi Karatağ](https://open.spotify.com/artist/0JQnINHQ01rwdmLEyE2d3z) | [Öyle Bir Yerdeyim ki](https://open.spotify.com/album/1L1W791t7a6PGUiUNkNyMN) | 3:29 |
 | 47 | [Kime Ne](https://open.spotify.com/track/4PJ8F1WgYjoIWNRaoaZVKb) | [Fatih Bulut](https://open.spotify.com/artist/4QYrSz56GbbWzazB3ykW7G) | [Kime Ne](https://open.spotify.com/album/2hD3c52jadilNQMfDDuZ50) | 2:43 |
 | 48 | [KEÇY](https://open.spotify.com/track/0UtUHKKOiXIuK7pRJqy0f6) | [Bar B](https://open.spotify.com/artist/0psj0eABrCNIcYLIuDw21A) | [KEÇY](https://open.spotify.com/album/6xxNNC6Z2g4mEHOblB79KK) | 2:50 |
-| 49 | [Bir Bilsen](https://open.spotify.com/track/12KbpreThjZbHFLFSEY7k0) | [KÖK$VL](https://open.spotify.com/artist/5fO16dsHVrojWL2mPzcdpq), [SARA](https://open.spotify.com/artist/39apXuyybstuVvzOCl0YXD) | [Bir Bilsen](https://open.spotify.com/album/5X2UvxW5COzTx7wYSDyK1s) | 2:25 |
+| 49 | [Bir Bilsen](https://open.spotify.com/track/12KbpreThjZbHFLFSEY7k0) | [SARA](https://open.spotify.com/artist/39apXuyybstuVvzOCl0YXD), [KÖK$VL](https://open.spotify.com/artist/5fO16dsHVrojWL2mPzcdpq) | [Bir Bilsen](https://open.spotify.com/album/5X2UvxW5COzTx7wYSDyK1s) | 2:25 |
 | 50 | [Gifts For Me](https://open.spotify.com/track/0nhpTFbJ3uX4qqL9qaQj5B) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Gifts For Me](https://open.spotify.com/album/1koxpBaSddYY1xd5YmEeN2) | 2:30 |
 | 51 | [Big Daddy](https://open.spotify.com/track/5WcQ5AwCp9mSqpsul6ccx4) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Is A Kingdom](https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c) | 2:46 |
 | 52 | [Fallen](https://open.spotify.com/track/5aC7xDfUVCJV297ViE9i35) | [Serhat Durmus](https://open.spotify.com/artist/1R2iRWvuwwokMKGHirNGTD) | [Fallen](https://open.spotify.com/album/649lLRNAMJztPcwQM7vRaZ) | 3:09 |

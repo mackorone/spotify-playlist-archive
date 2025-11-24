@@ -1,6 +1,6 @@
 {
   "description": "All your favourite holiday jazz classics for your christmas dinner party.",
-  "num_followers": 136032,
+  "num_followers": 136219,
   "original_name": "Jazzy Christmas Dinner",
   "owner": {
     "name": "Spotify",
@@ -451,6 +451,22 @@
     {
       "added_at": "2025-11-17 08:02:59",
       "album": {
+        "name": "Where The Snow Still Falls",
+        "url": "https://open.spotify.com/album/7wf4Oag4ekw439k4kSM5Jn"
+      },
+      "artists": [
+        {
+          "name": "Andreas Gidlund",
+          "url": "https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO"
+        }
+      ],
+      "duration_ms": 225560,
+      "name": "Where The Snow Still Falls",
+      "url": "https://open.spotify.com/track/4zqKyUuJZeNkYL6hshi8dr"
+    },
+    {
+      "added_at": "2025-11-17 08:02:59",
+      "album": {
         "name": "The Christmas Tarte",
         "url": "https://open.spotify.com/album/0amWZX4oYh5a7oJ9d486U9"
       },
@@ -499,34 +515,18 @@
     {
       "added_at": "2025-11-17 08:02:59",
       "album": {
-        "name": "Where The Snow Still Falls",
-        "url": "https://open.spotify.com/album/7wf4Oag4ekw439k4kSM5Jn"
+        "name": "Christmas Is Coming",
+        "url": "https://open.spotify.com/album/6wilsjE6jfGO0ggnBV5QUU"
       },
       "artists": [
         {
-          "name": "Andreas Gidlund",
-          "url": "https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO"
+          "name": "Isac Solo Trio",
+          "url": "https://open.spotify.com/artist/0PQJ8CW64ZpCQTXIWvpkUN"
         }
       ],
-      "duration_ms": 225560,
-      "name": "Where The Snow Still Falls",
-      "url": "https://open.spotify.com/track/4zqKyUuJZeNkYL6hshi8dr"
-    },
-    {
-      "added_at": "2025-11-17 08:02:59",
-      "album": {
-        "name": "God Rest Ye Merry Gentlemen",
-        "url": "https://open.spotify.com/album/4tuj6Cm5lyYS223SGEpgeC"
-      },
-      "artists": [
-        {
-          "name": "Glass Trio",
-          "url": "https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm"
-        }
-      ],
-      "duration_ms": 175217,
-      "name": "Hard Candy Christmas",
-      "url": "https://open.spotify.com/track/3VHpv7iHs0PHfXns1ZfpNA"
+      "duration_ms": 184167,
+      "name": "Christmas Is Coming",
+      "url": "https://open.spotify.com/track/149nYuNSxKF3rPGpReOjtv"
     },
     {
       "added_at": "2025-11-17 08:02:59",
@@ -547,6 +547,38 @@
       "duration_ms": 176699,
       "name": "Cool Yule",
       "url": "https://open.spotify.com/track/33GkcZ89Aj254FaJoFwCl9"
+    },
+    {
+      "added_at": "2025-11-17 08:02:59",
+      "album": {
+        "name": "God Rest Ye Merry Gentlemen",
+        "url": "https://open.spotify.com/album/4tuj6Cm5lyYS223SGEpgeC"
+      },
+      "artists": [
+        {
+          "name": "Glass Trio",
+          "url": "https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm"
+        }
+      ],
+      "duration_ms": 175217,
+      "name": "Hard Candy Christmas",
+      "url": "https://open.spotify.com/track/3VHpv7iHs0PHfXns1ZfpNA"
+    },
+    {
+      "added_at": "2025-11-17 08:02:59",
+      "album": {
+        "name": "When Christmas Comes To Town",
+        "url": "https://open.spotify.com/album/3qGQQNK6A22LBRUmiO74fO"
+      },
+      "artists": [
+        {
+          "name": "Taylor Owen Trio",
+          "url": "https://open.spotify.com/artist/5pCUMgtJ7hUMrCDeYm96Ca"
+        }
+      ],
+      "duration_ms": 209259,
+      "name": "When Christmas Comes To Town",
+      "url": "https://open.spotify.com/track/5Z3ieIAxQzR7pMx8p9QLfV"
     },
     {
       "added_at": "2025-11-17 08:02:59",
@@ -583,22 +615,6 @@
     {
       "added_at": "2025-11-17 08:02:59",
       "album": {
-        "name": "Christmas Is Coming",
-        "url": "https://open.spotify.com/album/6wilsjE6jfGO0ggnBV5QUU"
-      },
-      "artists": [
-        {
-          "name": "Isac Solo Trio",
-          "url": "https://open.spotify.com/artist/0PQJ8CW64ZpCQTXIWvpkUN"
-        }
-      ],
-      "duration_ms": 184167,
-      "name": "Christmas Is Coming",
-      "url": "https://open.spotify.com/track/149nYuNSxKF3rPGpReOjtv"
-    },
-    {
-      "added_at": "2025-11-17 08:02:59",
-      "album": {
         "name": "Once in Royal David's City",
         "url": "https://open.spotify.com/album/5dDT9Nh3MCITsacmvIv6lp"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 165225,
       "name": "Once in Royal David's City",
       "url": "https://open.spotify.com/track/68ugUmH1wjIN0vCR98sC7G"
-    },
-    {
-      "added_at": "2025-11-17 08:02:59",
-      "album": {
-        "name": "When Christmas Comes To Town",
-        "url": "https://open.spotify.com/album/3qGQQNK6A22LBRUmiO74fO"
-      },
-      "artists": [
-        {
-          "name": "Taylor Owen Trio",
-          "url": "https://open.spotify.com/artist/5pCUMgtJ7hUMrCDeYm96Ca"
-        }
-      ],
-      "duration_ms": 209259,
-      "name": "When Christmas Comes To Town",
-      "url": "https://open.spotify.com/track/5Z3ieIAxQzR7pMx8p9QLfV"
     },
     {
       "added_at": "2025-11-17 08:02:59",
@@ -695,22 +695,6 @@
     {
       "added_at": "2025-11-17 08:02:59",
       "album": {
-        "name": "O Holy Night",
-        "url": "https://open.spotify.com/album/47cnEsOj15N4yVqUg8xq2B"
-      },
-      "artists": [
-        {
-          "name": "Whitby Snell",
-          "url": "https://open.spotify.com/artist/3OTOWvIOtIuWDCLStPVCKi"
-        }
-      ],
-      "duration_ms": 257900,
-      "name": "O Holy Night",
-      "url": "https://open.spotify.com/track/7HuuaSBXERQWt396J4fxuC"
-    },
-    {
-      "added_at": "2025-11-17 08:02:59",
-      "album": {
         "name": "The Gift of Joy",
         "url": "https://open.spotify.com/album/5eRAFq93ULac7FqDP2uKna"
       },
@@ -727,6 +711,22 @@
     {
       "added_at": "2025-11-17 08:02:59",
       "album": {
+        "name": "O Holy Night",
+        "url": "https://open.spotify.com/album/47cnEsOj15N4yVqUg8xq2B"
+      },
+      "artists": [
+        {
+          "name": "Whitby Snell",
+          "url": "https://open.spotify.com/artist/3OTOWvIOtIuWDCLStPVCKi"
+        }
+      ],
+      "duration_ms": 257900,
+      "name": "O Holy Night",
+      "url": "https://open.spotify.com/track/7HuuaSBXERQWt396J4fxuC"
+    },
+    {
+      "added_at": "2025-11-17 08:02:59",
+      "album": {
         "name": "Embraced by White",
         "url": "https://open.spotify.com/album/329EHbBqemJFz5CKXt6IDp"
       },
@@ -739,6 +739,22 @@
       "duration_ms": 145048,
       "name": "Embraced by White",
       "url": "https://open.spotify.com/track/1vdUu2zoWVijUqmPu2dVV4"
+    },
+    {
+      "added_at": "2025-11-17 08:02:59",
+      "album": {
+        "name": "Spotify Singles - Holiday",
+        "url": "https://open.spotify.com/album/1knkuS0R3qoY1pmwYrMQ4N"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 192420,
+      "name": "It's Not Christmas 'Til You Come Home - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5DoGwwQAlYumpSSlDNMOwY"
     },
     {
       "added_at": "2025-11-17 08:02:59",
@@ -771,22 +787,6 @@
       "duration_ms": 120061,
       "name": "God Rest Ye, Merry Gentlemen",
       "url": "https://open.spotify.com/track/4uTqFlXMoLOn8qbc50Ib5d"
-    },
-    {
-      "added_at": "2025-11-17 08:02:59",
-      "album": {
-        "name": "Spotify Singles - Holiday",
-        "url": "https://open.spotify.com/album/1knkuS0R3qoY1pmwYrMQ4N"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 192420,
-      "name": "It's Not Christmas 'Til You Come Home - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5DoGwwQAlYumpSSlDNMOwY"
     },
     {
       "added_at": "2025-11-17 08:02:59",
@@ -971,22 +971,6 @@
     {
       "added_at": "2025-11-17 08:02:59",
       "album": {
-        "name": "The North Pole Express",
-        "url": "https://open.spotify.com/album/1NbfF4vlT8Eq9rhi78B9S2"
-      },
-      "artists": [
-        {
-          "name": "Japari Park",
-          "url": "https://open.spotify.com/artist/5waLCZV0AzAqjHOln3XZMW"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "The North Pole Express",
-      "url": "https://open.spotify.com/track/1WpxDIN7ccKey5xJm5wTen"
-    },
-    {
-      "added_at": "2025-11-17 08:02:59",
-      "album": {
         "name": "Ultimate Christmas",
         "url": "https://open.spotify.com/album/1gCLWt3kXk5kNTZdsx6P8a"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 172000,
       "name": "It Came Upon A Midnight Clear",
       "url": "https://open.spotify.com/track/55YzKJipEDxzduTSrAWtMj"
+    },
+    {
+      "added_at": "2025-11-17 08:02:59",
+      "album": {
+        "name": "The North Pole Express",
+        "url": "https://open.spotify.com/album/1NbfF4vlT8Eq9rhi78B9S2"
+      },
+      "artists": [
+        {
+          "name": "Japari Park",
+          "url": "https://open.spotify.com/artist/5waLCZV0AzAqjHOln3XZMW"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "The North Pole Express",
+      "url": "https://open.spotify.com/track/1WpxDIN7ccKey5xJm5wTen"
     },
     {
       "added_at": "2025-11-17 08:02:59",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2025-11-17 08:02:59",
       "album": {
-        "name": "Misteltoe",
-        "url": "https://open.spotify.com/album/6oVj4hoU09YwTQDLmo1e7K"
-      },
-      "artists": [
-        {
-          "name": "The Mill Basin Band",
-          "url": "https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU"
-        }
-      ],
-      "duration_ms": 142029,
-      "name": "Misteltoe",
-      "url": "https://open.spotify.com/track/6SJKiadklwqj969ihsTL06"
-    },
-    {
-      "added_at": "2025-11-17 08:02:59",
-      "album": {
         "name": "That Christmas Feel",
         "url": "https://open.spotify.com/album/1eRIaiBeErayP8Cfve02kJ"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 234263,
       "name": "Ave Maria",
       "url": "https://open.spotify.com/track/4Ed2ZWI33fojtD1FRhVk29"
+    },
+    {
+      "added_at": "2025-11-17 08:02:59",
+      "album": {
+        "name": "Misteltoe",
+        "url": "https://open.spotify.com/album/6oVj4hoU09YwTQDLmo1e7K"
+      },
+      "artists": [
+        {
+          "name": "The Mill Basin Band",
+          "url": "https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU"
+        }
+      ],
+      "duration_ms": 142029,
+      "name": "Misteltoe",
+      "url": "https://open.spotify.com/track/6SJKiadklwqj969ihsTL06"
     },
     {
       "added_at": "2025-11-17 08:02:59",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2025-11-17 08:02:59",
       "album": {
+        "name": "Warm In December (Edit)",
+        "url": "https://open.spotify.com/album/5RYN71suwnCCydI7oVfVYM"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        }
+      ],
+      "duration_ms": 161210,
+      "name": "Warm In December - Edit",
+      "url": "https://open.spotify.com/track/4iZUPqpbdr4cI8OOzlKKqR"
+    },
+    {
+      "added_at": "2025-11-17 08:02:59",
+      "album": {
         "name": "I Wish It Would Snow",
         "url": "https://open.spotify.com/album/6l7uq39brjSI3uEacWRkDP"
       },
@@ -1179,18 +1195,18 @@
     {
       "added_at": "2025-11-17 08:02:59",
       "album": {
-        "name": "Warm In December (Edit)",
-        "url": "https://open.spotify.com/album/5RYN71suwnCCydI7oVfVYM"
+        "name": "When You Wish Upon a Star",
+        "url": "https://open.spotify.com/album/7kQaJ4QC9MrLkwgzDz4yfI"
       },
       "artists": [
         {
-          "name": "Samara Joy",
-          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+          "name": "Erik Moreau",
+          "url": "https://open.spotify.com/artist/1S08oiBCDKPErHKaJ42YAG"
         }
       ],
-      "duration_ms": 161210,
-      "name": "Warm In December - Edit",
-      "url": "https://open.spotify.com/track/4iZUPqpbdr4cI8OOzlKKqR"
+      "duration_ms": 167725,
+      "name": "When You Wish Upon a Star",
+      "url": "https://open.spotify.com/track/3W5YtcTpzuf8lwMJ3lUpeq"
     },
     {
       "added_at": "2025-11-17 08:02:59",
@@ -1219,22 +1235,6 @@
       "duration_ms": 163240,
       "name": "Snow",
       "url": "https://open.spotify.com/track/3XTSSKo4x9g2Q3K3UyUOui"
-    },
-    {
-      "added_at": "2025-11-17 08:02:59",
-      "album": {
-        "name": "When You Wish Upon a Star",
-        "url": "https://open.spotify.com/album/7kQaJ4QC9MrLkwgzDz4yfI"
-      },
-      "artists": [
-        {
-          "name": "Erik Moreau",
-          "url": "https://open.spotify.com/artist/1S08oiBCDKPErHKaJ42YAG"
-        }
-      ],
-      "duration_ms": 167725,
-      "name": "When You Wish Upon a Star",
-      "url": "https://open.spotify.com/track/3W5YtcTpzuf8lwMJ3lUpeq"
     },
     {
       "added_at": "2025-11-17 08:02:59",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2025-11-17 08:02:59",
       "album": {
-        "name": "Trio 64",
-        "url": "https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 264360,
-      "name": "Santa Claus Is Coming To Town",
-      "url": "https://open.spotify.com/track/5JfaOWtjZp3blXwvExWtjl"
-    },
-    {
-      "added_at": "2025-11-17 08:02:59",
-      "album": {
         "name": "a cozy christmas",
         "url": "https://open.spotify.com/album/7rA2UGd6OBHpGkyNdMezhF"
       },
@@ -1335,18 +1319,18 @@
     {
       "added_at": "2025-11-17 08:02:59",
       "album": {
-        "name": "Here We Come A-Caroling",
-        "url": "https://open.spotify.com/album/3egzz4FGBjVceoI4hO89BI"
+        "name": "Trio 64",
+        "url": "https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv"
       },
       "artists": [
         {
-          "name": "Goblin Quartet",
-          "url": "https://open.spotify.com/artist/0ceEvbf4gmN9my4kriQVfm"
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
         }
       ],
-      "duration_ms": 143808,
-      "name": "Here We Come A-Caroling",
-      "url": "https://open.spotify.com/track/6dAElJFsKJmqRrqaHYoJfg"
+      "duration_ms": 264360,
+      "name": "Santa Claus Is Coming To Town",
+      "url": "https://open.spotify.com/track/5JfaOWtjZp3blXwvExWtjl"
     },
     {
       "added_at": "2025-11-17 08:02:59",
@@ -1379,6 +1363,22 @@
       "duration_ms": 250000,
       "name": "O Come, O Come Emmanuel",
       "url": "https://open.spotify.com/track/0GlynfYCzLa4rjZqbJcVyS"
+    },
+    {
+      "added_at": "2025-11-17 08:02:59",
+      "album": {
+        "name": "Here We Come A-Caroling",
+        "url": "https://open.spotify.com/album/3egzz4FGBjVceoI4hO89BI"
+      },
+      "artists": [
+        {
+          "name": "Goblin Quartet",
+          "url": "https://open.spotify.com/artist/0ceEvbf4gmN9my4kriQVfm"
+        }
+      ],
+      "duration_ms": 143808,
+      "name": "Here We Come A-Caroling",
+      "url": "https://open.spotify.com/track/6dAElJFsKJmqRrqaHYoJfg"
     },
     {
       "added_at": "2025-11-17 08:02:59",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2025-11-17 08:02:59",
       "album": {
-        "name": "The Pianoman at Christmas",
-        "url": "https://open.spotify.com/album/6vWS3FRodKtNLbH25ZbNt5"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 210560,
-      "name": "Beautiful, Altogether",
-      "url": "https://open.spotify.com/track/7qsv2ZaehJN4uIkCDsubKQ"
-    },
-    {
-      "added_at": "2025-11-17 08:02:59",
-      "album": {
         "name": "The Very Best Time Of Year",
         "url": "https://open.spotify.com/album/5OYaZZMzjUuPmj1OZgDwh1"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 177106,
       "name": "Once A Year Miracle",
       "url": "https://open.spotify.com/track/3HTRqeCKO4BSMflq1DiTWN"
+    },
+    {
+      "added_at": "2025-11-17 08:02:59",
+      "album": {
+        "name": "The Pianoman at Christmas",
+        "url": "https://open.spotify.com/album/6vWS3FRodKtNLbH25ZbNt5"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 210560,
+      "name": "Beautiful, Altogether",
+      "url": "https://open.spotify.com/track/7qsv2ZaehJN4uIkCDsubKQ"
     },
     {
       "added_at": "2025-11-17 08:02:59",

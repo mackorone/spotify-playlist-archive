@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 
 > The latest tracks from Mad Decent and friends\. Featuring new cuts from Major Lazer, Bennett Coast, and Pegassi.
 
-[Mad Decent](https://open.spotify.com/user/maddecent) - 50,694 likes - 100 songs - 5 hr 41 min
+[Mad Decent](https://open.spotify.com/user/maddecent) - 50,691 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

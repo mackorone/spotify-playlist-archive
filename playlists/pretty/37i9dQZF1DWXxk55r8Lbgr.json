@@ -1,6 +1,6 @@
 {
   "description": "\u8611\u83c7\u6fc3\u6e6f\u4f86\u4e86\uff01\u5feb\u9ede\u5feb\u9ede\u5feb\u9ede\u5466\uff01\u548c\u5bf6\u8c9d\u4e00\u8d77\u5feb\u6a02\u5531\u5531\u8df3\u8df3\u5427\uff01",
-  "num_followers": 10115,
+  "num_followers": 10121,
   "original_name": "\u5bf6\u5bf6\u5b9a\u795e\u66f2",
   "owner": {
     "name": "Spotify",
@@ -131,38 +131,6 @@
     {
       "added_at": "2025-10-23 17:36:04",
       "album": {
-        "name": "\u5e78\u798f\u7684\u5b69\u5b50\u611b\u5531\u6b4c",
-        "url": "https://open.spotify.com/album/7qBWhK85vJBxsL4xVqXxhC"
-      },
-      "artists": [
-        {
-          "name": "\u8b1d\u6b23\u82b7",
-          "url": "https://open.spotify.com/artist/4f2iKhkX8mIKNK4G4Ba5iJ"
-        }
-      ],
-      "duration_ms": 160880,
-      "name": "\u624b\u6307\u904b\u52d5",
-      "url": "https://open.spotify.com/track/5K9MEQtk59L8bV0EXEcn8q"
-    },
-    {
-      "added_at": "2025-10-23 17:36:04",
-      "album": {
-        "name": "\u5c0f\u5bf6\u8c9d\u7d93\u5178\u5152\u6b4c\uff5c\u7d93\u5178\u5152\u6b4c\u5531\u5531\u8df3\u8df3\uff5c\u5bf6\u5bf6\u653e\u96fb\u5152\u6b4c\uff5c\u4e00\u8d77\u4f86\u8df3\u821e\u5427\uff01",
-        "url": "https://open.spotify.com/album/5qY1p9E8QrAEwpxoDvQuBA"
-      },
-      "artists": [
-        {
-          "name": "MIKA STUDIO",
-          "url": "https://open.spotify.com/artist/7lz1tdWhI9ye85uzmrICN2"
-        }
-      ],
-      "duration_ms": 100575,
-      "name": "\u5927\u8c61\u4f60\u7684\u9f3b\u5b50\u600e\u9ebc\u90a3\u9ebc\u9577",
-      "url": "https://open.spotify.com/track/4yhadmYksSAZeEnsOdLpuy"
-    },
-    {
-      "added_at": "2025-10-23 17:36:04",
-      "album": {
         "name": "\u4f60\u7b11\u8d77\u6765\u771f\u597d\u770b",
         "url": "https://open.spotify.com/album/5UGSyOav3KKoOQg8kW1xdN"
       },
@@ -183,6 +151,38 @@
       "duration_ms": 172032,
       "name": "\u4f60\u7b11\u8d77\u6765\u771f\u597d\u770b",
       "url": "https://open.spotify.com/track/3eE9BpgseO9tY0xo83dRwe"
+    },
+    {
+      "added_at": "2025-10-23 17:36:04",
+      "album": {
+        "name": "\u5c0f\u5bf6\u8c9d\u7d93\u5178\u5152\u6b4c\uff5c\u7d93\u5178\u5152\u6b4c\u5531\u5531\u8df3\u8df3\uff5c\u5bf6\u5bf6\u653e\u96fb\u5152\u6b4c\uff5c\u4e00\u8d77\u4f86\u8df3\u821e\u5427\uff01",
+        "url": "https://open.spotify.com/album/5qY1p9E8QrAEwpxoDvQuBA"
+      },
+      "artists": [
+        {
+          "name": "MIKA STUDIO",
+          "url": "https://open.spotify.com/artist/7lz1tdWhI9ye85uzmrICN2"
+        }
+      ],
+      "duration_ms": 100575,
+      "name": "\u5927\u8c61\u4f60\u7684\u9f3b\u5b50\u600e\u9ebc\u90a3\u9ebc\u9577",
+      "url": "https://open.spotify.com/track/4yhadmYksSAZeEnsOdLpuy"
+    },
+    {
+      "added_at": "2025-10-23 17:36:04",
+      "album": {
+        "name": "\u5e78\u798f\u7684\u5b69\u5b50\u611b\u5531\u6b4c",
+        "url": "https://open.spotify.com/album/7qBWhK85vJBxsL4xVqXxhC"
+      },
+      "artists": [
+        {
+          "name": "\u8b1d\u6b23\u82b7",
+          "url": "https://open.spotify.com/artist/4f2iKhkX8mIKNK4G4Ba5iJ"
+        }
+      ],
+      "duration_ms": 160880,
+      "name": "\u624b\u6307\u904b\u52d5",
+      "url": "https://open.spotify.com/track/5K9MEQtk59L8bV0EXEcn8q"
     },
     {
       "added_at": "2025-10-23 17:36:04",

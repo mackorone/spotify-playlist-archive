@@ -1,12 +1,12 @@
 {
   "description": "This is Ali Farka Tour\u00e9. The essential tracks, all in one playlist.",
-  "num_followers": 21939,
+  "num_followers": 21942,
   "original_name": "This Is Ali Farka Tour\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aR+rgAAAAADn5HCX5g3ocrsrRPTk0EZw",
+  "snapshot_id": "aSD9AAAAAABCstDoP1sYLvPL8Z2fJSJ8",
   "tracks": [
     {
       "added_at": null,
@@ -140,9 +140,9 @@
           "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
         }
       ],
-      "duration_ms": 328826,
-      "name": "Bonde - with Ry Cooder",
-      "url": "https://open.spotify.com/track/28HE2hcTggk9F46G9Ra6PY"
+      "duration_ms": 365173,
+      "name": "Soukora - with Ry Cooder",
+      "url": "https://open.spotify.com/track/5pm9QJLqinadjJD5vXpn2q"
     },
     {
       "added_at": null,
@@ -216,9 +216,9 @@
           "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
         }
       ],
-      "duration_ms": 365173,
-      "name": "Soukora - with Ry Cooder",
-      "url": "https://open.spotify.com/track/5pm9QJLqinadjJD5vXpn2q"
+      "duration_ms": 328826,
+      "name": "Bonde - with Ry Cooder",
+      "url": "https://open.spotify.com/track/28HE2hcTggk9F46G9Ra6PY"
     },
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Savane (2019 Remaster)",
-        "url": "https://open.spotify.com/album/2ru8ZK0F2CyHfJm7th1wpv"
-      },
-      "artists": [
-        {
-          "name": "Ali Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
-        }
-      ],
-      "duration_ms": 279080,
-      "name": "Soya - 2019 Remaster",
-      "url": "https://open.spotify.com/track/2mRUFnV4bo5F8JKLniCenA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Source",
         "url": "https://open.spotify.com/album/23iUQhvQuPIHPm3mv16Vf3"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 384266,
       "name": "Goye Kur",
       "url": "https://open.spotify.com/track/5rffixu4E5Ry8vcBZNSV2c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Savane (2019 Remaster)",
+        "url": "https://open.spotify.com/album/2ru8ZK0F2CyHfJm7th1wpv"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "duration_ms": 279080,
+      "name": "Soya - 2019 Remaster",
+      "url": "https://open.spotify.com/track/2mRUFnV4bo5F8JKLniCenA"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Savane",
-        "url": "https://open.spotify.com/album/2WsP2BPz9GI5sJBdJFonrO"
-      },
-      "artists": [
-        {
-          "name": "Ali Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
-        }
-      ],
-      "duration_ms": 289120,
-      "name": "Beto",
-      "url": "https://open.spotify.com/track/2I9ZSrLeX7tslnqn0ouVuz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Source",
         "url": "https://open.spotify.com/album/23iUQhvQuPIHPm3mv16Vf3"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 498666,
       "name": "Roucky - feat.Taj Mahal",
       "url": "https://open.spotify.com/track/0M8IIFrmeUonCdKb7WN9lm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Savane",
+        "url": "https://open.spotify.com/album/2WsP2BPz9GI5sJBdJFonrO"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "duration_ms": 289120,
+      "name": "Beto",
+      "url": "https://open.spotify.com/track/2I9ZSrLeX7tslnqn0ouVuz"
     },
     {
       "added_at": null,

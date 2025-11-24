@@ -102287,6 +102287,24 @@
     },
     {
       "album": {
+        "name": "You & Only You",
+        "url": "https://open.spotify.com/album/5IOPSN8dSwBiHeOLgTJH3T"
+      },
+      "artists": [
+        {
+          "name": "andreas owens",
+          "url": "https://open.spotify.com/artist/2tJ0Wcl9h9PPkosJ4piT6k"
+        }
+      ],
+      "date_added": "2025-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211285,
+      "name": "You & Only You",
+      "url": "https://open.spotify.com/track/08M3AVoizSu1aMze1DzpuD"
+    },
+    {
+      "album": {
         "name": "1998",
         "url": "https://open.spotify.com/album/4YjFZ32iJRUp0fvWobBpEh"
       },

@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-3,590 songs - 7 day 21 hr 49 min
+3,592 songs - 7 day 21 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -491,6 +491,7 @@
 | [Charge of the Bright Light Brigade](https://open.spotify.com/track/4FQhGjtrKV95D6hhEelc8y) | [Railway Athletic](https://open.spotify.com/artist/4i5DLwG9DeSmYHTgh8rxD9) | [Charge of the Bright Light Brigade](https://open.spotify.com/album/67xxzFogEXx5uqzEfF9Q6B) | 2:36 | 2025-11-05 |  |
 | [Chasing Dreams](https://open.spotify.com/track/3Go7vGrzxfTjN4gaDybMb9) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [New Music](https://open.spotify.com/album/66FfQzVqvA99zoTDlgmrqO) | 1:59 | 2025-09-19 |  |
 | [Chasing Dreams \(another\)](https://open.spotify.com/track/6LoSt7nz8jN3spnmKnfeXq) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [New Music](https://open.spotify.com/album/66FfQzVqvA99zoTDlgmrqO) | 1:48 | 2025-09-19 |  |
+| [Chasing smiles](https://open.spotify.com/track/2hQKzZPnnA9CI2cFeuQ2wV) | [Mirror Vain](https://open.spotify.com/artist/5492DtDN9DpYNYTNeRh3g7) | [Chasing smiles](https://open.spotify.com/album/4FPGa1g6QeaJufbj0jnXcS) | 4:00 | 2025-11-23 |  |
 | [Chasing starlight](https://open.spotify.com/track/5XuGNODaiwzh4tQb60a66T) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Chasing starlight](https://open.spotify.com/album/0M8doN44YLr9ZXSOWeUlrN) | 3:03 | 2025-06-04 |  |
 | [Chasing the Light](https://open.spotify.com/track/1L9aUulDgKHtCF7JnUX2Ui) | [Routi](https://open.spotify.com/artist/0B3uouY3r7w7uJLIcORpIX) | [Chasing the Light](https://open.spotify.com/album/39syOpv9UHiMpxmatI7owp) | 3:29 | 2025-10-04 |  |
 | [Chasing Thunder](https://open.spotify.com/track/5r4hlSrs9vVb3TTai44Uwk) | [The Quiet Violence](https://open.spotify.com/artist/4UQ6F6qyHBEBWa2LyUFmLd) | [Chasing Thunder](https://open.spotify.com/album/67xMdibWS6p8jcudP2kaI0) | 3:36 | 2025-10-22 |  |
@@ -1915,6 +1916,7 @@
 | [MC1](https://open.spotify.com/track/0aEl2Vx3fpnkPzeMKYucDm) | [Fabian Campuzano](https://open.spotify.com/artist/47S8pFezMBQojuMWPwCbtm) | [MC1](https://open.spotify.com/album/6DL7unRnL4mYa8ZCE6xsKY) | 10:33 | 2025-05-13 |  |
 | [ME](https://open.spotify.com/track/0pYTdFxjFihaOIYcw5rtn6) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [404 Love Not Found](https://open.spotify.com/album/6W1kWmXKLg6sKQPvzfjfLK) | 3:13 | 2025-08-28 |  |
 | [Me](https://open.spotify.com/track/3CTmMCUyAI5OrlTCyhXCaf) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [R&B music album](https://open.spotify.com/album/0cTefedcGjVOy0QYnpq33N) | 3:52 | 2025-09-20 |  |
+| [Me](https://open.spotify.com/track/1x9os7V76PbeskTgo25YkE) | [Mirror Vain](https://open.spotify.com/artist/5492DtDN9DpYNYTNeRh3g7) | [Me](https://open.spotify.com/album/3xQKo4WKYsPDzNWneFEht1) | 2:42 | 2025-11-23 |  |
 | [Me gustas a capela](https://open.spotify.com/track/3u0YSPKFiAazFCpk5bgTLs) | [El vecino de la luna](https://open.spotify.com/artist/0djfMal3VEOhwQiwvOFz56) | [Rozando el suelo](https://open.spotify.com/album/2QHWOyGuzxsRNu6kwb1zea) | 3:33 | 2025-06-13 |  |
 | [Medusa in Fractal \- Radio Edit](https://open.spotify.com/track/5TCBnKiwraSZO6mtm9akQ7) | [Juan Pablo Vitali](https://open.spotify.com/artist/0U0rAvWfvb3NUwiROiUgis), [Orquesta del Living](https://open.spotify.com/artist/1TL57HrpRSi2cCEBhErl18) | [Al Planeta sin el Mundo \(Radio Edit\)](https://open.spotify.com/album/3JAGc3aqeEQ0Ut0BtL1mFi) | 4:47 | 2025-09-25 |  |
 | [Memory Card Moments \- Radio Edit](https://open.spotify.com/track/0wCMvP6jojZx738ZOWIEJ6) | [NVRLØST](https://open.spotify.com/artist/5jdHtc5hxhdY9dG2rTS2VE) | [„UNLOCKED:// FILES FROM THE VOID“](https://open.spotify.com/album/6uJTVbOSGms0QLadVQE8Db) | 2:36 | 2025-06-11 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Eros Ramazzotti. The essential tracks, all in one playlist.",
-  "num_followers": 245897,
+  "num_followers": 245936,
   "original_name": "This Is Eros Ramazzotti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aR+rgAAAAAC1/HcKURt4Mjgqzu4C8ucv",
+  "snapshot_id": "aSD9AAAAAAAOZNoMm69+QLFgCSqdS4N8",
   "tracks": [
     {
       "added_at": null,
@@ -475,6 +475,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "UNA HISTORIA IMPORTANTE",
+        "url": "https://open.spotify.com/album/0yzfuInZ8RVSXEaNWTJR54"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        },
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 261475,
+      "name": "Otra como t\u00fa (feat. Car\u00edn Le\u00f3n)",
+      "url": "https://open.spotify.com/track/24KctiI2TNMOonbsSEQ6vQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Donde Hay M\u00fasica [25th Anniversary Edition (Remastered 192 khz)]",
         "url": "https://open.spotify.com/album/6Ehi90u12vQ0UZbSeXysbo"
       },
@@ -507,22 +527,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00e9xico & Amigos",
-        "url": "https://open.spotify.com/album/7h8d8lu8w3Z6EombrGhlzt"
+        "name": "Dietro Le Apparenze",
+        "url": "https://open.spotify.com/album/2rOZXRaWqDzbGdISSDQXjC"
       },
       "artists": [
         {
-          "name": "Julio Iglesias",
-          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
+          "name": "Giorgia",
+          "url": "https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr"
         },
         {
           "name": "Eros Ramazzotti",
           "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
         }
       ],
-      "duration_ms": 198320,
-      "name": "La Media Vuelta",
-      "url": "https://open.spotify.com/track/4YaWx75feX1fdZdMP9TLDO"
+      "duration_ms": 234920,
+      "name": "Inevitabile (feat. Eros Ramazzotti)",
+      "url": "https://open.spotify.com/track/2ZMNdZoaXrGjwPjSxRvw1H"
     },
     {
       "added_at": null,
@@ -559,6 +579,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "M\u00e9xico & Amigos",
+        "url": "https://open.spotify.com/album/7h8d8lu8w3Z6EombrGhlzt"
+      },
+      "artists": [
+        {
+          "name": "Julio Iglesias",
+          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
+        },
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 198320,
+      "name": "La Media Vuelta",
+      "url": "https://open.spotify.com/track/4YaWx75feX1fdZdMP9TLDO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eros 30 (Deluxe Version)",
         "url": "https://open.spotify.com/album/6vCxp7Tyue7CRCd0FOaCrz"
       },
@@ -571,22 +611,6 @@
       "duration_ms": 239253,
       "name": "Adesso tu",
       "url": "https://open.spotify.com/track/2gq6d9KkrE4RLkjWa3TMVu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "9 (Spanish Version)",
-        "url": "https://open.spotify.com/album/3hPQaa3lqJWCOzA2B6LZye"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 276920,
-      "name": "Un Segundo de Paz",
-      "url": "https://open.spotify.com/track/6lB4izeAPef18J2djGVbyD"
     },
     {
       "added_at": null,
@@ -607,22 +631,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dietro Le Apparenze",
-        "url": "https://open.spotify.com/album/2rOZXRaWqDzbGdISSDQXjC"
+        "name": "9 (Spanish Version)",
+        "url": "https://open.spotify.com/album/3hPQaa3lqJWCOzA2B6LZye"
       },
       "artists": [
-        {
-          "name": "Giorgia",
-          "url": "https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr"
-        },
         {
           "name": "Eros Ramazzotti",
           "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
         }
       ],
-      "duration_ms": 234920,
-      "name": "Inevitabile (feat. Eros Ramazzotti)",
-      "url": "https://open.spotify.com/track/2ZMNdZoaXrGjwPjSxRvw1H"
+      "duration_ms": 276920,
+      "name": "Un Segundo de Paz",
+      "url": "https://open.spotify.com/track/6lB4izeAPef18J2djGVbyD"
     },
     {
       "added_at": null,
@@ -799,22 +819,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "UNA HISTORIA IMPORTANTE",
-        "url": "https://open.spotify.com/album/0yzfuInZ8RVSXEaNWTJR54"
+        "name": "9",
+        "url": "https://open.spotify.com/album/0orR3i1y0uPP6smKEFFbP8"
       },
       "artists": [
         {
           "name": "Eros Ramazzotti",
           "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        },
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 261475,
-      "name": "Otra como t\u00fa (feat. Car\u00edn Le\u00f3n)",
-      "url": "https://open.spotify.com/track/24KctiI2TNMOonbsSEQ6vQ"
+      "duration_ms": 221293,
+      "name": "Canzone per lei",
+      "url": "https://open.spotify.com/track/66uYnF8Z5f56fGNC0Qp55F"
     },
     {
       "added_at": null,
@@ -831,22 +847,6 @@
       "duration_ms": 240760,
       "name": "Ahora Tu - Remastered 2021",
       "url": "https://open.spotify.com/track/777VmtueWDFtUTs0HwvKLD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "9",
-        "url": "https://open.spotify.com/album/0orR3i1y0uPP6smKEFFbP8"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 221293,
-      "name": "Canzone per lei",
-      "url": "https://open.spotify.com/track/66uYnF8Z5f56fGNC0Qp55F"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/74wXW513Ovy4ux507Wo67A">Brad Mair</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96 likes - 117 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 96 likes - 118 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,23 +107,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 97 | [Spacebike](https://open.spotify.com/track/5ga7wZc4B0JuOnUGUiOrOk) | [j.flowers.mp3](https://open.spotify.com/artist/4jwygfSZd43Dd8vemguwH3) | [Spacebike](https://open.spotify.com/album/0sF3gZIDKvrGdutAfNuj8v) | 2:23 |
 | 98 | [Circles](https://open.spotify.com/track/0pDMFi2TdQZaUUtsukywLs) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Survival Mode](https://open.spotify.com/album/3AK2abRr0WfTzH7aZZSda4) | 3:20 |
 | 99 | [Why Did We Say Forever](https://open.spotify.com/track/1QaiTKXFmelfj3fRenjEh6) | [Someone Else's Rain](https://open.spotify.com/artist/4TLkUSTypb5TnpKbGCsf6y) | [Why Did We Say Forever](https://open.spotify.com/album/0nlBjUtOCo1KgEJNnXZOLs) | 3:10 |
-| 100 | [Playing with Fire \- Acoustic](https://open.spotify.com/track/3txzZSYvKcG3yHk9qL3dcx) | [Kovic](https://open.spotify.com/artist/3ETYLarLqOcdvtea9Cs2Sl) | [Playing with Fire \(Acoustic\)](https://open.spotify.com/album/2SmuVE6aplsJilE7rllilk) | 3:49 |
-| 101 | [Off This Train](https://open.spotify.com/track/1imrBvb6Ac6P6b76dBhjNv) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Survival Mode](https://open.spotify.com/album/3AK2abRr0WfTzH7aZZSda4) | 1:59 |
-| 102 | [Bloom](https://open.spotify.com/track/1zbOjoRf9zOMNEBq5UkfKm) | [Someone Else's Rain](https://open.spotify.com/artist/4TLkUSTypb5TnpKbGCsf6y) | [Bloom](https://open.spotify.com/album/32pIpSJ9rkj8AZpaeOyCOB) | 3:20 |
-| 103 | [Only You](https://open.spotify.com/track/3YecLfVpyotU0ve4Ln9Uds) | [Jazz Morley](https://open.spotify.com/artist/3oRBiqxwxW8BYQdWYtktZo) | [Only You](https://open.spotify.com/album/5Uq7opunP83SDVxYMm5ivO) | 3:33 |
-| 104 | [The Wild](https://open.spotify.com/track/4408yboq8EzHz7IiAlEBzv) | [Kerri Watt](https://open.spotify.com/artist/6bPvOLNccTtmf23w6bngcS) | [The Wild](https://open.spotify.com/album/3w8ggvtpBeBFVzNeMPo2Xy) | 3:32 |
-| 105 | [face it](https://open.spotify.com/track/2JFKhZApRjevePAHn8SKrR) | [Ruben Pol](https://open.spotify.com/artist/1eCiBMynCZBUlq0v5FeB2w) | [Infused Romance](https://open.spotify.com/album/2tLQcTuBFmEfuQZAsyB4Yj) | 3:00 |
-| 106 | [Cry Them For You](https://open.spotify.com/track/26Hh4z8smlH6Y7LtYN025c) | [Someone Else's Rain](https://open.spotify.com/artist/4TLkUSTypb5TnpKbGCsf6y) | [Cry Them For You](https://open.spotify.com/album/0cdfFRnZYCSrJJPoJY9P8z) | 3:43 |
-| 107 | [Crossed My Mind](https://open.spotify.com/track/4C8huou5j2RRZTfSK2idZ5) | [The Tailormade](https://open.spotify.com/artist/7dD3Cn2hLHo6WxrMOqk7c3) | [Crossed My Mind](https://open.spotify.com/album/6PBwcnOnXFuZv2qUsxV9EP) | 3:53 |
-| 108 | [Ordinary](https://open.spotify.com/track/3dyMYkb3IYg7q2PeE4VI87) | [Joe Waller](https://open.spotify.com/artist/6EArtsF80MWahDlAzo86ZS) | [Ordinary](https://open.spotify.com/album/4sJYgIunlnwpc2ZrKj1xju) | 3:00 |
-| 109 | [Cougar In the Corner](https://open.spotify.com/track/0sTsYnEEHFEAWnzFkQ49zB) | [The Tailormade](https://open.spotify.com/artist/7dD3Cn2hLHo6WxrMOqk7c3) | [Cougar In the Corner](https://open.spotify.com/album/77mKy6Lxfc3Zw3KmgWrfkd) | 3:34 |
-| 110 | [Journey ft Brad Mair \- Original Mix](https://open.spotify.com/track/1MUzQWygvkn8raQPCuWR8I) | [Brad Mair](https://open.spotify.com/artist/4wE9wGzadw1jAgPXXSga8D), [Patrick Pizzorni](https://open.spotify.com/artist/4JfAjdEGkHPBREqEkeiEcF) | [Journey](https://open.spotify.com/album/6e7er3QFLp4TXSxrnYgqtR) | 5:00 |
-| 111 | [Before You](https://open.spotify.com/track/5PmctfM9V5l4oWj95mUGYB) | [Anna Pancaldi](https://open.spotify.com/artist/6om1oTl0iSZGBRs52bJEqI) | [Before You](https://open.spotify.com/album/6FcWwxN9S3rYzCbXNcWDgu) | 4:06 |
-| 112 | [Safety Net](https://open.spotify.com/track/2yTeagHV2X462W98YqMc4f) | [Ilona](https://open.spotify.com/artist/3hZb8S0Th3L3DlmMHZRNyM) | [Safety Net](https://open.spotify.com/album/03uCMCwmveI9lCeAhIEElX) | 4:38 |
-| 113 | [Scars](https://open.spotify.com/track/2SJv1I0qy3IGEERTcqRg2E) | [Bailey M](https://open.spotify.com/artist/1TIhisrXfEN9NqdalMWRn3) | [Scars](https://open.spotify.com/album/23hXENovDVDuaMyn3iDwFT) | 2:35 |
-| 114 | [Your Twilight](https://open.spotify.com/track/7HsrGGDmZrMfnbRyA2XMkr) | [Nito\-Onna](https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY) | [Your Twilight](https://open.spotify.com/album/5sIMic3WTMBZCwVGinynif) | 2:50 |
-| 115 | [Bring You Back To Life](https://open.spotify.com/track/41OUAgxqe5ZbmujCERvsVK) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 3:46 |
-| 116 | [Pon Me](https://open.spotify.com/track/6gNgcVrZceb97UQFZbKPCk) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 4:15 |
-| 117 | [Find You](https://open.spotify.com/track/0wtNmuETEesYuB73ni1tZU) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 3:48 |
+| 100 | [Adelaide](https://open.spotify.com/track/3pZghavVnbU6iDRPXVRc5v) | [Horxata](https://open.spotify.com/artist/3QkSqgd7THUtqWlJjL4iRn), [Nova Tropics](https://open.spotify.com/artist/5Z20EyBaysJXOw9suCDqsK) | [Adelaide](https://open.spotify.com/album/1nf7jCiBe4AgaUxTp4kQ7e) | 2:15 |
+| 101 | [Playing with Fire \- Acoustic](https://open.spotify.com/track/3txzZSYvKcG3yHk9qL3dcx) | [Kovic](https://open.spotify.com/artist/3ETYLarLqOcdvtea9Cs2Sl) | [Playing with Fire \(Acoustic\)](https://open.spotify.com/album/2SmuVE6aplsJilE7rllilk) | 3:49 |
+| 102 | [Off This Train](https://open.spotify.com/track/1imrBvb6Ac6P6b76dBhjNv) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Survival Mode](https://open.spotify.com/album/3AK2abRr0WfTzH7aZZSda4) | 1:59 |
+| 103 | [Bloom](https://open.spotify.com/track/1zbOjoRf9zOMNEBq5UkfKm) | [Someone Else's Rain](https://open.spotify.com/artist/4TLkUSTypb5TnpKbGCsf6y) | [Bloom](https://open.spotify.com/album/32pIpSJ9rkj8AZpaeOyCOB) | 3:20 |
+| 104 | [Only You](https://open.spotify.com/track/3YecLfVpyotU0ve4Ln9Uds) | [Jazz Morley](https://open.spotify.com/artist/3oRBiqxwxW8BYQdWYtktZo) | [Only You](https://open.spotify.com/album/5Uq7opunP83SDVxYMm5ivO) | 3:33 |
+| 105 | [The Wild](https://open.spotify.com/track/4408yboq8EzHz7IiAlEBzv) | [Kerri Watt](https://open.spotify.com/artist/6bPvOLNccTtmf23w6bngcS) | [The Wild](https://open.spotify.com/album/3w8ggvtpBeBFVzNeMPo2Xy) | 3:32 |
+| 106 | [face it](https://open.spotify.com/track/2JFKhZApRjevePAHn8SKrR) | [Ruben Pol](https://open.spotify.com/artist/1eCiBMynCZBUlq0v5FeB2w) | [Infused Romance](https://open.spotify.com/album/2tLQcTuBFmEfuQZAsyB4Yj) | 3:00 |
+| 107 | [Cry Them For You](https://open.spotify.com/track/26Hh4z8smlH6Y7LtYN025c) | [Someone Else's Rain](https://open.spotify.com/artist/4TLkUSTypb5TnpKbGCsf6y) | [Cry Them For You](https://open.spotify.com/album/0cdfFRnZYCSrJJPoJY9P8z) | 3:43 |
+| 108 | [Crossed My Mind](https://open.spotify.com/track/4C8huou5j2RRZTfSK2idZ5) | [The Tailormade](https://open.spotify.com/artist/7dD3Cn2hLHo6WxrMOqk7c3) | [Crossed My Mind](https://open.spotify.com/album/6PBwcnOnXFuZv2qUsxV9EP) | 3:53 |
+| 109 | [Ordinary](https://open.spotify.com/track/3dyMYkb3IYg7q2PeE4VI87) | [Joe Waller](https://open.spotify.com/artist/6EArtsF80MWahDlAzo86ZS) | [Ordinary](https://open.spotify.com/album/4sJYgIunlnwpc2ZrKj1xju) | 3:00 |
+| 110 | [Cougar In the Corner](https://open.spotify.com/track/0sTsYnEEHFEAWnzFkQ49zB) | [The Tailormade](https://open.spotify.com/artist/7dD3Cn2hLHo6WxrMOqk7c3) | [Cougar In the Corner](https://open.spotify.com/album/77mKy6Lxfc3Zw3KmgWrfkd) | 3:34 |
+| 111 | [Journey ft Brad Mair \- Original Mix](https://open.spotify.com/track/1MUzQWygvkn8raQPCuWR8I) | [Brad Mair](https://open.spotify.com/artist/4wE9wGzadw1jAgPXXSga8D), [Patrick Pizzorni](https://open.spotify.com/artist/4JfAjdEGkHPBREqEkeiEcF) | [Journey](https://open.spotify.com/album/6e7er3QFLp4TXSxrnYgqtR) | 5:00 |
+| 112 | [Before You](https://open.spotify.com/track/5PmctfM9V5l4oWj95mUGYB) | [Anna Pancaldi](https://open.spotify.com/artist/6om1oTl0iSZGBRs52bJEqI) | [Before You](https://open.spotify.com/album/6FcWwxN9S3rYzCbXNcWDgu) | 4:06 |
+| 113 | [Safety Net](https://open.spotify.com/track/2yTeagHV2X462W98YqMc4f) | [Ilona](https://open.spotify.com/artist/3hZb8S0Th3L3DlmMHZRNyM) | [Safety Net](https://open.spotify.com/album/03uCMCwmveI9lCeAhIEElX) | 4:38 |
+| 114 | [Scars](https://open.spotify.com/track/2SJv1I0qy3IGEERTcqRg2E) | [Bailey M](https://open.spotify.com/artist/1TIhisrXfEN9NqdalMWRn3) | [Scars](https://open.spotify.com/album/23hXENovDVDuaMyn3iDwFT) | 2:35 |
+| 115 | [Your Twilight](https://open.spotify.com/track/7HsrGGDmZrMfnbRyA2XMkr) | [Nito\-Onna](https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY) | [Your Twilight](https://open.spotify.com/album/5sIMic3WTMBZCwVGinynif) | 2:50 |
+| 116 | [Bring You Back To Life](https://open.spotify.com/track/41OUAgxqe5ZbmujCERvsVK) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 3:46 |
+| 117 | [Pon Me](https://open.spotify.com/track/6gNgcVrZceb97UQFZbKPCk) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 4:15 |
+| 118 | [Find You](https://open.spotify.com/track/0wtNmuETEesYuB73ni1tZU) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 3:48 |
 
-Snapshot ID: `AcCTZAAAAACTdfJkIM0zx/8GDnIUGOTd`
+Snapshot ID: `AcCYyAAAAAC6mhHPExJfLj6mR7B0EyLz`

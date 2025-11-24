@@ -2039,6 +2039,24 @@
     },
     {
       "album": {
+        "name": "DOGA",
+        "url": "https://open.spotify.com/album/5uFCdSiMEKVDWY5TQ3eEmY"
+      },
+      "artists": [
+        {
+          "name": "Juana Molina",
+          "url": "https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3"
+        }
+      ],
+      "date_added": "2025-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246838,
+      "name": "caravanas",
+      "url": "https://open.spotify.com/track/4yoF14WIqNJXDvTtHO7Jjh"
+    },
+    {
+      "album": {
         "name": "86-88",
         "url": "https://open.spotify.com/album/69aOUaKV2diPvH7PWI8xPZ"
       },

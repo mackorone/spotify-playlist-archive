@@ -231,6 +231,24 @@
     },
     {
       "album": {
+        "name": "Gran Festival De Porros Y Cumbias",
+        "url": "https://open.spotify.com/album/23oOLSIB4SW14Nwp4bbYdc"
+      },
+      "artists": [
+        {
+          "name": "Doris Salas con la Tremenda",
+          "url": "https://open.spotify.com/artist/4sRiK0tbwYoalygZ3WgDFF"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266866,
+      "name": "Amargo Y Dulce",
+      "url": "https://open.spotify.com/track/5qpLb0kL7Z8NRAlN6EWjXN"
+    },
+    {
+      "album": {
         "name": "Coleccion Grandes Figuras",
         "url": "https://open.spotify.com/album/4nSqh2gtrHCfGsxisJXsUe"
       },
@@ -5186,7 +5204,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 158989,
       "name": "Pirulino",
       "url": "https://open.spotify.com/track/5aGEQkBOLZ9kWzElCVPwYs"

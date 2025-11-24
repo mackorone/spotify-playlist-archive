@@ -4,7 +4,7 @@
 
 > Novidades e hits do pop nacional pra te deixar mais leve\. Foto:  Samuel Rosa, Joyce Alane
 
-875 songs - 1 day 19 hr 43 min
+876 songs - 1 day 19 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [Beijos de artifício](https://open.spotify.com/track/7ePoRoOa6Xl2IsvaZfyeeA) | [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF) | [Beijos de artifício](https://open.spotify.com/album/3CFAqEIXUM7AFu4gngcwQw) | 3:52 | 2024-02-02 | 2024-07-19 |
 | [belo horizonte \(metade de mim\)](https://open.spotify.com/track/4Q668LogaM0KnJWlqSzyHt) | [Gabi Melim](https://open.spotify.com/artist/4FrPUH8ZkNnw9DPpqts5OM), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [belo horizonte \(metade de mim\)](https://open.spotify.com/album/0G8JkUOLgYOf5XfgL8Fw2N) | 2:32 | 2025-02-14 | 2025-06-14 |
 | [Bem](https://open.spotify.com/track/0wZZRJNv6bwSjAHVRf97ND) | [Chapéu de Palha](https://open.spotify.com/artist/14WMxy5IQph8kM1kcrwCcu) | [Eu](https://open.spotify.com/album/4LBlQZ44sJB5KokhrDuruq) | 4:30 | 2025-10-24 |  |
-| [Bem Bem](https://open.spotify.com/track/4NrrOkdXOKs1Wpwhr7iwQm) | [Mariana Coelho](https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv) | [Bem Bem](https://open.spotify.com/album/7Ey2ShRyp0ycPL1sAS8l3l) | 2:16 | 2025-08-01 |  |
+| [Bem Bem](https://open.spotify.com/track/4NrrOkdXOKs1Wpwhr7iwQm) | [Mariana Coelho](https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv) | [Bem Bem](https://open.spotify.com/album/7Ey2ShRyp0ycPL1sAS8l3l) | 2:16 | 2025-08-01 | 2025-11-24 |
 | [Bem Me Queira](https://open.spotify.com/track/1QUPFwEptqGlpFvA6j3RQ1) | [Pedro Salomão](https://open.spotify.com/artist/3iEB8nwJu246B3fN4zPuqW), [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Bem Me Queira](https://open.spotify.com/album/7DVJxua1LIoibloFKohOLJ) | 2:25 | 2023-11-17 | 2024-02-10 |
 | [Big Bang](https://open.spotify.com/track/4xC41bv1fU1BXaO6cdmEAy) | [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF) | [DEJAVU](https://open.spotify.com/album/3aqafowqLbPeovkfLtbdxJ) | 3:03 | 2024-05-31 | 2024-07-27 |
 | [Boa Sorte / nada contra \(ciúme\) / Bixinho](https://open.spotify.com/track/31rZKzqElU5sb51on0nZwy) | [Nossa Toca](https://open.spotify.com/artist/5o00VSNNjsdSmZ0YJwUSxi), [AMARINA](https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG) | [Boa Sorte / nada contra \(ciúme\) / Bixinho](https://open.spotify.com/album/75YOSbvTjjulviH8yLHgXH) | 3:52 | 2022-12-12 | 2023-07-15 |
@@ -613,6 +613,7 @@
 | [Praia do Rosa](https://open.spotify.com/track/6uVu7KamzHXTUKSjfdZb84) | [GUPE](https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix), [Nairo](https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa) | [Praia do Rosa](https://open.spotify.com/album/1tZ0Nwo5mAogte1wpVjTuT) | 2:35 | 2024-02-09 | 2024-09-28 |
 | [Prece](https://open.spotify.com/track/7lkPQvooh2A67blirWDP1j) | [RAY](https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot) | [Prece](https://open.spotify.com/album/5mXWvU6pyI85nzXB7jmPP2) | 3:47 | 2024-07-19 |  |
 | [Preciso Dizer Que Te Amo](https://open.spotify.com/track/347uerQudKYIl3pOrtnDwa) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [Preciso Dizer Que Te Amo](https://open.spotify.com/album/73TRVmgZ7pFUwLUYHzJinp) | 3:53 | 2023-08-18 | 2023-11-18 |
+| [Pretexto](https://open.spotify.com/track/6GMsqYJqZAOvddZ4Tins4g) | [Davi Cartaxo](https://open.spotify.com/artist/4iBDLWArVUT5PiHgKt6nlm) | [Pretexto](https://open.spotify.com/album/6cvwxTk42k9LP4J9ZJQ5SG) | 3:00 | 2025-11-22 |  |
 | [Primeira Vez](https://open.spotify.com/track/5BJRbYetamHApClzQ4wdTO) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Cultivar \(Deluxe\)](https://open.spotify.com/album/0GVG4Z4CkMu65XZAruh5uS) | 2:08 | 2023-12-15 | 2024-03-09 |
 | [Primeiro Amor](https://open.spotify.com/track/4DvAHoaxXenN8wyRltfzKr) | [Zant](https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8) | [Primeiro Amor](https://open.spotify.com/album/4nEufgs4WMvfuYcKCxZ4oH) | 2:58 | 2023-03-11 | 2023-03-18 |
 | [Primeiro Bom Dia](https://open.spotify.com/track/0pAfPb9PMGcLoWpsPh1wB0) | [Gabriel Gonti](https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg) | [Primeiro Bom Dia](https://open.spotify.com/album/05x9tfi2dUqNtsOuFOToWF) | 2:13 | 2023-09-01 | 2023-12-16 |

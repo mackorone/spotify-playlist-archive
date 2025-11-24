@@ -1,6 +1,6 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: El Mat\u00f3 a un Polic\u00eda Motorizado.",
-  "num_followers": 124652,
+  "num_followers": 124654,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
@@ -451,6 +451,26 @@
     {
       "added_at": "2025-11-20 14:14:33",
       "album": {
+        "name": "Divididos en Argentinos Juniors",
+        "url": "https://open.spotify.com/album/77GGWQhMJlJsr5yinJ6wGP"
+      },
+      "artists": [
+        {
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+        },
+        {
+          "name": "Claudio Marciello",
+          "url": "https://open.spotify.com/artist/4gHjWV2oalYMkHYfBCt3Lr"
+        }
+      ],
+      "duration_ms": 293061,
+      "name": "S\u00e9 Vos",
+      "url": "https://open.spotify.com/track/1jmIpHXJVBKZZGOHVMvg9C"
+    },
+    {
+      "added_at": "2025-11-20 14:14:33",
+      "album": {
         "name": "3000 Vivos (En Vivo)",
         "url": "https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1"
       },
@@ -483,26 +503,6 @@
       "duration_ms": 233213,
       "name": "Te quiero igual - En directo 2005",
       "url": "https://open.spotify.com/track/7wZ0ik66T55ZFOIVWZ82sX"
-    },
-    {
-      "added_at": "2025-11-20 14:14:33",
-      "album": {
-        "name": "Divididos en Argentinos Juniors",
-        "url": "https://open.spotify.com/album/77GGWQhMJlJsr5yinJ6wGP"
-      },
-      "artists": [
-        {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
-        },
-        {
-          "name": "Claudio Marciello",
-          "url": "https://open.spotify.com/artist/4gHjWV2oalYMkHYfBCt3Lr"
-        }
-      ],
-      "duration_ms": 293061,
-      "name": "S\u00e9 Vos",
-      "url": "https://open.spotify.com/track/1jmIpHXJVBKZZGOHVMvg9C"
     },
     {
       "added_at": "2025-11-20 14:14:33",
@@ -591,22 +591,6 @@
     {
       "added_at": "2025-11-20 14:14:33",
       "album": {
-        "name": "Unplugged",
-        "url": "https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R"
-      },
-      "artists": [
-        {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        }
-      ],
-      "duration_ms": 329893,
-      "name": "Demoliendo Hoteles - Live",
-      "url": "https://open.spotify.com/track/15dNGPxvzuCvTBzFGmveZi"
-    },
-    {
-      "added_at": "2025-11-20 14:14:33",
-      "album": {
         "name": "En Vivo Obras",
         "url": "https://open.spotify.com/album/2l7x79wrLp28jt7qRjErxT"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 228144,
       "name": "Toro y Pampa - En Vivo",
       "url": "https://open.spotify.com/track/43c4oelxnp0cVeFZZ4L4QL"
+    },
+    {
+      "added_at": "2025-11-20 14:14:33",
+      "album": {
+        "name": "Unplugged",
+        "url": "https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        }
+      ],
+      "duration_ms": 329893,
+      "name": "Demoliendo Hoteles - Live",
+      "url": "https://open.spotify.com/track/15dNGPxvzuCvTBzFGmveZi"
     },
     {
       "added_at": "2025-11-20 14:14:33",
@@ -655,18 +655,18 @@
     {
       "added_at": "2025-11-20 14:14:33",
       "album": {
-        "name": "Correntada (Vivo en Buenos Aires)",
-        "url": "https://open.spotify.com/album/0oEqZVAVscxdXe7kLDtJGI"
+        "name": "Solo Hace Falta Un Mundo para Dar Una Vuelta (En Vivo en Espa\u00f1a e Italia 2024)",
+        "url": "https://open.spotify.com/album/6THTp0qeTHUCuGIRtrm7ES"
       },
       "artists": [
         {
-          "name": "El Plan De La Mariposa",
-          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
+          "name": "La Renga",
+          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
         }
       ],
-      "duration_ms": 242407,
-      "name": "Esquina de la Sombra - Vivo en Buenos Aires",
-      "url": "https://open.spotify.com/track/1sefKirdjupi5Ai7rUjIck"
+      "duration_ms": 389000,
+      "name": "Balada del Diablo y la Muerte - En Vivo en Mallorca, Espa\u00f1a 2024",
+      "url": "https://open.spotify.com/track/6vAYTUrnntxzReHvl3hXWB"
     },
     {
       "added_at": "2025-11-20 14:14:33",
@@ -687,22 +687,6 @@
     {
       "added_at": "2025-11-20 14:14:33",
       "album": {
-        "name": "Solo Hace Falta Un Mundo para Dar Una Vuelta (En Vivo en Espa\u00f1a e Italia 2024)",
-        "url": "https://open.spotify.com/album/6THTp0qeTHUCuGIRtrm7ES"
-      },
-      "artists": [
-        {
-          "name": "La Renga",
-          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
-        }
-      ],
-      "duration_ms": 389000,
-      "name": "Balada del Diablo y la Muerte - En Vivo en Mallorca, Espa\u00f1a 2024",
-      "url": "https://open.spotify.com/track/6vAYTUrnntxzReHvl3hXWB"
-    },
-    {
-      "added_at": "2025-11-20 14:14:33",
-      "album": {
         "name": "Ritual Piojoso (En Vivo en River Plate)",
         "url": "https://open.spotify.com/album/7v7UBXatukF69a99XWjjX6"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 284048,
       "name": "Pac\u00edfico",
       "url": "https://open.spotify.com/track/4YDACzNhZTeo9YvYC533SP"
+    },
+    {
+      "added_at": "2025-11-20 14:14:33",
+      "album": {
+        "name": "Correntada (Vivo en Buenos Aires)",
+        "url": "https://open.spotify.com/album/0oEqZVAVscxdXe7kLDtJGI"
+      },
+      "artists": [
+        {
+          "name": "El Plan De La Mariposa",
+          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
+        }
+      ],
+      "duration_ms": 242407,
+      "name": "Esquina de la Sombra - Vivo en Buenos Aires",
+      "url": "https://open.spotify.com/track/1sefKirdjupi5Ai7rUjIck"
     },
     {
       "added_at": "2025-11-20 14:14:33",
@@ -787,18 +787,22 @@
     {
       "added_at": "2025-11-20 14:14:33",
       "album": {
-        "name": "DESCARTABLE (En Vivo Estadio Racing Club)",
-        "url": "https://open.spotify.com/album/6hO0rzpVAUGNy2h7qKd69p"
+        "name": "Cuando el sol est\u00e1 as\u00ed (En Vivo en La Tangente)",
+        "url": "https://open.spotify.com/album/7CIFhW87WpxEqkyIYz15Pe"
       },
       "artists": [
         {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+          "name": "Manu Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS"
+        },
+        {
+          "name": "Ciro y los Persas",
+          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
         }
       ],
-      "duration_ms": 186928,
-      "name": "DESCARTABLE - En Vivo Estadio Racing Club",
-      "url": "https://open.spotify.com/track/78S8Hb2Z1ERaTjKzxa5l5g"
+      "duration_ms": 244360,
+      "name": "Cuando el sol est\u00e1 as\u00ed - En Vivo en La Tangente",
+      "url": "https://open.spotify.com/track/70rqhJcGk6SGEaGwUtCFzd"
     },
     {
       "added_at": "2025-11-20 14:14:33",
@@ -819,22 +823,18 @@
     {
       "added_at": "2025-11-20 14:14:33",
       "album": {
-        "name": "Cuando el sol est\u00e1 as\u00ed (En Vivo en La Tangente)",
-        "url": "https://open.spotify.com/album/7CIFhW87WpxEqkyIYz15Pe"
+        "name": "DESCARTABLE (En Vivo Estadio Racing Club)",
+        "url": "https://open.spotify.com/album/6hO0rzpVAUGNy2h7qKd69p"
       },
       "artists": [
         {
-          "name": "Manu Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS"
-        },
-        {
-          "name": "Ciro y los Persas",
-          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
         }
       ],
-      "duration_ms": 244360,
-      "name": "Cuando el sol est\u00e1 as\u00ed - En Vivo en La Tangente",
-      "url": "https://open.spotify.com/track/70rqhJcGk6SGEaGwUtCFzd"
+      "duration_ms": 186928,
+      "name": "DESCARTABLE - En Vivo Estadio Racing Club",
+      "url": "https://open.spotify.com/track/78S8Hb2Z1ERaTjKzxa5l5g"
     },
     {
       "added_at": "2025-11-20 14:14:33",
@@ -875,22 +875,6 @@
     {
       "added_at": "2025-11-20 14:14:33",
       "album": {
-        "name": "Ven Aqu\u00ed (MTV Unplugged)",
-        "url": "https://open.spotify.com/album/5eWMfcwxg7jJrftdArP8xu"
-      },
-      "artists": [
-        {
-          "name": "Los Bunkers",
-          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
-        }
-      ],
-      "duration_ms": 266519,
-      "name": "Ven Aqu\u00ed - MTV Unplugged",
-      "url": "https://open.spotify.com/track/2AUYlk6vKwvvIuzHJCh1v0"
-    },
-    {
-      "added_at": "2025-11-20 14:14:33",
-      "album": {
         "name": "El Rito de los Corazones Sangrando: En Vivo Festival Madres 20 a\u00f1os \u00a1Ni Un Paso Atr\u00e1s!",
         "url": "https://open.spotify.com/album/2C73XAjTXOnBic34nyQLDY"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 278360,
       "name": "El Rito de los Corazones Sangrando: En Vivo Festival Madres 20 a\u00f1os \u00a1Ni Un Paso Atr\u00e1s! - En Vivo",
       "url": "https://open.spotify.com/track/5RynIxt5eh5TFkWUo65BkE"
+    },
+    {
+      "added_at": "2025-11-20 14:14:33",
+      "album": {
+        "name": "Ven Aqu\u00ed (MTV Unplugged)",
+        "url": "https://open.spotify.com/album/5eWMfcwxg7jJrftdArP8xu"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "duration_ms": 266519,
+      "name": "Ven Aqu\u00ed - MTV Unplugged",
+      "url": "https://open.spotify.com/track/2AUYlk6vKwvvIuzHJCh1v0"
     },
     {
       "added_at": "2025-11-20 14:14:33",
@@ -971,6 +971,22 @@
     {
       "added_at": "2025-11-20 14:14:33",
       "album": {
+        "name": "Vivo",
+        "url": "https://open.spotify.com/album/7byqd7hsiFnu2cd4LQPlBm"
+      },
+      "artists": [
+        {
+          "name": "Virus",
+          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
+        }
+      ],
+      "duration_ms": 263373,
+      "name": "Pronta Entrega - En Vivo",
+      "url": "https://open.spotify.com/track/4R924NQoTVx3BJxgghtDSm"
+    },
+    {
+      "added_at": "2025-11-20 14:14:33",
+      "album": {
         "name": "MVD/05/03/05 (En Vivo)",
         "url": "https://open.spotify.com/album/3fV0us97rc1lbhjWVWQO2U"
       },
@@ -991,22 +1007,6 @@
     {
       "added_at": "2025-11-20 14:14:33",
       "album": {
-        "name": "Vivo",
-        "url": "https://open.spotify.com/album/7byqd7hsiFnu2cd4LQPlBm"
-      },
-      "artists": [
-        {
-          "name": "Virus",
-          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
-        }
-      ],
-      "duration_ms": 263373,
-      "name": "Pronta Entrega - En Vivo",
-      "url": "https://open.spotify.com/track/4R924NQoTVx3BJxgghtDSm"
-    },
-    {
-      "added_at": "2025-11-20 14:14:33",
-      "album": {
         "name": "Solo Aqu\u00ed (En Vivo)",
         "url": "https://open.spotify.com/album/3vzJeKwWUT44LdPCQrUki0"
       },
@@ -1019,22 +1019,6 @@
       "duration_ms": 247578,
       "name": "Solo Aqui - En Vivo",
       "url": "https://open.spotify.com/track/1pIjHr3eZygWJ2DSisk7nJ"
-    },
-    {
-      "added_at": "2025-11-20 14:14:33",
-      "album": {
-        "name": "En Vivo Obras",
-        "url": "https://open.spotify.com/album/2l7x79wrLp28jt7qRjErxT"
-      },
-      "artists": [
-        {
-          "name": "Almafuerte",
-          "url": "https://open.spotify.com/artist/6qYd7xlmeeeDkPfx6mZ9PV"
-        }
-      ],
-      "duration_ms": 249144,
-      "name": "S\u00e9 Vos - En Vivo",
-      "url": "https://open.spotify.com/track/5qmap4CQeX4rNCIi2rBOJ8"
     },
     {
       "added_at": "2025-11-20 14:14:33",
@@ -1059,18 +1043,18 @@
     {
       "added_at": "2025-11-20 14:14:33",
       "album": {
-        "name": "Vivo A Contraluz (2004 - 2024)",
-        "url": "https://open.spotify.com/album/2H3UUvqkD0htBViquDV5P6"
+        "name": "En Vivo Obras",
+        "url": "https://open.spotify.com/album/2l7x79wrLp28jt7qRjErxT"
       },
       "artists": [
         {
-          "name": "La Vela Puerca",
-          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
+          "name": "Almafuerte",
+          "url": "https://open.spotify.com/artist/6qYd7xlmeeeDkPfx6mZ9PV"
         }
       ],
-      "duration_ms": 268173,
-      "name": "Zafar - Vivo A Contraluz",
-      "url": "https://open.spotify.com/track/4MdDmZOJv9NDy2oBk01vk2"
+      "duration_ms": 249144,
+      "name": "S\u00e9 Vos - En Vivo",
+      "url": "https://open.spotify.com/track/5qmap4CQeX4rNCIi2rBOJ8"
     },
     {
       "added_at": "2025-11-20 14:14:33",
@@ -1107,18 +1091,18 @@
     {
       "added_at": "2025-11-20 14:14:33",
       "album": {
-        "name": "El Cintur\u00f3n Gris (En Vivo)",
-        "url": "https://open.spotify.com/album/0Zci88FWoEEkKiRdNg4IiL"
+        "name": "Vivo A Contraluz (2004 - 2024)",
+        "url": "https://open.spotify.com/album/2H3UUvqkD0htBViquDV5P6"
       },
       "artists": [
         {
-          "name": "El Cuarteto De Nos",
-          "url": "https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH"
+          "name": "La Vela Puerca",
+          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
         }
       ],
-      "duration_ms": 237037,
-      "name": "El Cintur\u00f3n Gris - En Vivo",
-      "url": "https://open.spotify.com/track/7uDlTTxjH6r3iGqb3Gbxcv"
+      "duration_ms": 268173,
+      "name": "Zafar - Vivo A Contraluz",
+      "url": "https://open.spotify.com/track/4MdDmZOJv9NDy2oBk01vk2"
     },
     {
       "added_at": "2025-11-20 14:14:33",
@@ -1139,6 +1123,22 @@
     {
       "added_at": "2025-11-20 14:14:33",
       "album": {
+        "name": "El Cintur\u00f3n Gris (En Vivo)",
+        "url": "https://open.spotify.com/album/0Zci88FWoEEkKiRdNg4IiL"
+      },
+      "artists": [
+        {
+          "name": "El Cuarteto De Nos",
+          "url": "https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH"
+        }
+      ],
+      "duration_ms": 237037,
+      "name": "El Cintur\u00f3n Gris - En Vivo",
+      "url": "https://open.spotify.com/track/7uDlTTxjH6r3iGqb3Gbxcv"
+    },
+    {
+      "added_at": "2025-11-20 14:14:33",
+      "album": {
         "name": "Alucinados como la primera vez",
         "url": "https://open.spotify.com/album/7HcdNaR29l7Ia06pPjz9SD"
       },
@@ -1151,22 +1151,6 @@
       "duration_ms": 331453,
       "name": "Sacrificio y Rock and Roll",
       "url": "https://open.spotify.com/track/3YeTUDReoVOsMmN9Vp8uRc"
-    },
-    {
-      "added_at": "2025-11-20 14:14:33",
-      "album": {
-        "name": "Divididos en V\u00e9lez - Agradecer y Seguir",
-        "url": "https://open.spotify.com/album/2TrRaAq10CSLmQV03lmQQy"
-      },
-      "artists": [
-        {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
-        }
-      ],
-      "duration_ms": 368743,
-      "name": "Paisano de Hurlingham",
-      "url": "https://open.spotify.com/track/2UOJsDtVLCdSbwbhd2qSl3"
     },
     {
       "added_at": "2025-11-20 14:14:33",
@@ -1187,18 +1171,18 @@
     {
       "added_at": "2025-11-20 14:14:33",
       "album": {
-        "name": "Chivo Expiatorio (En Vivo)",
-        "url": "https://open.spotify.com/album/5XNijTvm4ucpICcNvOH5Aj"
+        "name": "Divididos en V\u00e9lez - Agradecer y Seguir",
+        "url": "https://open.spotify.com/album/2TrRaAq10CSLmQV03lmQQy"
       },
       "artists": [
         {
-          "name": "El Cuarteto De Nos",
-          "url": "https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH"
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
         }
       ],
-      "duration_ms": 298017,
-      "name": "Chivo Expiatorio - En Vivo",
-      "url": "https://open.spotify.com/track/08THvDquCuP6yqDo5g5JLe"
+      "duration_ms": 368743,
+      "name": "Paisano de Hurlingham",
+      "url": "https://open.spotify.com/track/2UOJsDtVLCdSbwbhd2qSl3"
     },
     {
       "added_at": "2025-11-20 14:14:33",
@@ -1223,34 +1207,18 @@
     {
       "added_at": "2025-11-20 14:14:33",
       "album": {
-        "name": "Los Lun\u00e1ticos Planes de una Mariposa Incandescente (Vivo en Luna Park)",
-        "url": "https://open.spotify.com/album/4gPo6XbIQfVywsTVYrT42E"
+        "name": "Chivo Expiatorio (En Vivo)",
+        "url": "https://open.spotify.com/album/5XNijTvm4ucpICcNvOH5Aj"
       },
       "artists": [
         {
-          "name": "El Plan De La Mariposa",
-          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
+          "name": "El Cuarteto De Nos",
+          "url": "https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH"
         }
       ],
-      "duration_ms": 294784,
-      "name": "Savia - Vivo en Luna Park",
-      "url": "https://open.spotify.com/track/7lY5sUTwLclisN4n6iKBdz"
-    },
-    {
-      "added_at": "2025-11-20 14:14:33",
-      "album": {
-        "name": "Los Fundamentalistas del Aire Acondicionado en Hurac\u00e1n (En Vivo)",
-        "url": "https://open.spotify.com/album/0HBXl0BoyqkfJmxjrLtnqL"
-      },
-      "artists": [
-        {
-          "name": "Los Fundamentalistas del Aire Acondicionado",
-          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
-        }
-      ],
-      "duration_ms": 383040,
-      "name": "Espejismo - En Vivo",
-      "url": "https://open.spotify.com/track/5tZIvOjdd8tFekjvd8u83O"
+      "duration_ms": 298017,
+      "name": "Chivo Expiatorio - En Vivo",
+      "url": "https://open.spotify.com/track/08THvDquCuP6yqDo5g5JLe"
     },
     {
       "added_at": "2025-11-20 14:14:33",
@@ -1271,6 +1239,22 @@
     {
       "added_at": "2025-11-20 14:14:33",
       "album": {
+        "name": "Los Fundamentalistas del Aire Acondicionado en Hurac\u00e1n (En Vivo)",
+        "url": "https://open.spotify.com/album/0HBXl0BoyqkfJmxjrLtnqL"
+      },
+      "artists": [
+        {
+          "name": "Los Fundamentalistas del Aire Acondicionado",
+          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
+        }
+      ],
+      "duration_ms": 383040,
+      "name": "Espejismo - En Vivo",
+      "url": "https://open.spotify.com/track/5tZIvOjdd8tFekjvd8u83O"
+    },
+    {
+      "added_at": "2025-11-20 14:14:33",
+      "album": {
         "name": "Silencio (Ft. Fito P\u00e1ez) (En Vivo Teatro \u00d3pera)",
         "url": "https://open.spotify.com/album/2k5KhI4SGsscifqsHjiRpg"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 301830,
       "name": "Silencio (Ft. Fito P\u00e1ez) - En Vivo Teatro \u00d3pera",
       "url": "https://open.spotify.com/track/2Shj8NDwydmHtOpWgjbvS6"
+    },
+    {
+      "added_at": "2025-11-20 14:14:33",
+      "album": {
+        "name": "Los Lun\u00e1ticos Planes de una Mariposa Incandescente (Vivo en Luna Park)",
+        "url": "https://open.spotify.com/album/4gPo6XbIQfVywsTVYrT42E"
+      },
+      "artists": [
+        {
+          "name": "El Plan De La Mariposa",
+          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
+        }
+      ],
+      "duration_ms": 294784,
+      "name": "Savia - Vivo en Luna Park",
+      "url": "https://open.spotify.com/track/7lY5sUTwLclisN4n6iKBdz"
     },
     {
       "added_at": "2025-11-20 14:14:33",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2025-11-20 14:14:33",
       "album": {
-        "name": "Luces (En Vivo Luna Park 2006)",
-        "url": "https://open.spotify.com/album/2vHwdJI0FKurPPmHjXj24Z"
-      },
-      "artists": [
-        {
-          "name": "Babasonicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 163346,
-      "name": "Carism\u00e1tico - En Vivo Luna Park 2006",
-      "url": "https://open.spotify.com/track/53UkQ1uvwBXgF3f0Ttd0J7"
-    },
-    {
-      "added_at": "2025-11-20 14:14:33",
-      "album": {
         "name": "Vivire Viajando",
         "url": "https://open.spotify.com/album/0A6UwA0TXPMBiJG0m3O1Rg"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 253733,
       "name": "Arde la ciudad",
       "url": "https://open.spotify.com/track/4TAdfQJXaMWfJK63aGH2zJ"
+    },
+    {
+      "added_at": "2025-11-20 14:14:33",
+      "album": {
+        "name": "Luces (En Vivo Luna Park 2006)",
+        "url": "https://open.spotify.com/album/2vHwdJI0FKurPPmHjXj24Z"
+      },
+      "artists": [
+        {
+          "name": "Babasonicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 163346,
+      "name": "Carism\u00e1tico - En Vivo Luna Park 2006",
+      "url": "https://open.spotify.com/track/53UkQ1uvwBXgF3f0Ttd0J7"
     },
     {
       "added_at": "2025-11-20 14:14:33",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2025-11-20 14:14:33",
       "album": {
-        "name": "Barek (En Vivo Luna Park)",
-        "url": "https://open.spotify.com/album/4qYSyuSs6ErU3W62tstxo5"
-      },
-      "artists": [
-        {
-          "name": "Cielo Razzo",
-          "url": "https://open.spotify.com/artist/7EgR8MOSpxSytMngVCVGEu"
-        }
-      ],
-      "duration_ms": 243253,
-      "name": "Barek - En Vivo Luna Park",
-      "url": "https://open.spotify.com/track/3F6owj1sw7oPul8jedGkhT"
-    },
-    {
-      "added_at": "2025-11-20 14:14:33",
-      "album": {
         "name": "Sucio y Desprolijo (En Vivo Cosqu\u00edn Rock)",
         "url": "https://open.spotify.com/album/1PFc4pnap71P8RBNYxCfvR"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 333394,
       "name": "Sucio y Desprolijo - En Vivo Cosqu\u00edn Rock",
       "url": "https://open.spotify.com/track/76Bt5vjnbxyr0JmxZKToTW"
+    },
+    {
+      "added_at": "2025-11-20 14:14:33",
+      "album": {
+        "name": "Barek (En Vivo Luna Park)",
+        "url": "https://open.spotify.com/album/4qYSyuSs6ErU3W62tstxo5"
+      },
+      "artists": [
+        {
+          "name": "Cielo Razzo",
+          "url": "https://open.spotify.com/artist/7EgR8MOSpxSytMngVCVGEu"
+        }
+      ],
+      "duration_ms": 243253,
+      "name": "Barek - En Vivo Luna Park",
+      "url": "https://open.spotify.com/track/3F6owj1sw7oPul8jedGkhT"
     },
     {
       "added_at": "2025-11-20 14:14:33",

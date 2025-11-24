@@ -1198,7 +1198,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-21",
+      "date_removed": null,
       "duration_ms": 171696,
       "name": "Can't Be Loved",
       "url": "https://open.spotify.com/track/69H5EfyNRLIKd0WAPNQr0T"
@@ -4770,7 +4770,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 242528,
       "name": "Mathilda",
       "url": "https://open.spotify.com/track/0WDdn12hdqiLZ0z51XhIk3"
@@ -7797,6 +7797,24 @@
     },
     {
       "album": {
+        "name": "Heat",
+        "url": "https://open.spotify.com/album/2PX3hLaXuxlNqBrkTQwRDQ"
+      },
+      "artists": [
+        {
+          "name": "Anna Rossinelli",
+          "url": "https://open.spotify.com/artist/6sRFCFH0UWtnfvKtzZk42X"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170489,
+      "name": "Walk on Water",
+      "url": "https://open.spotify.com/track/75jNZjHPRvPOD8WzlvFdFm"
+    },
+    {
+      "album": {
         "name": "Wanted To Know",
         "url": "https://open.spotify.com/album/6vW1NPnaoqWqQ8wgBnM4wR"
       },
@@ -7808,7 +7826,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 141312,
       "name": "Wanted To Know",
       "url": "https://open.spotify.com/track/5JCaPtPEol2nS4Hyuhri6R"

@@ -21441,6 +21441,24 @@
     },
     {
       "album": {
+        "name": "Get to Choose",
+        "url": "https://open.spotify.com/album/7HKZIh4ji2eA2LGNbhGpKc"
+      },
+      "artists": [
+        {
+          "name": "Dirt Buyer",
+          "url": "https://open.spotify.com/artist/6MzWbIkpg9it7v13OQkDdp"
+        }
+      ],
+      "date_added": "2025-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184438,
+      "name": "Get to Choose",
+      "url": "https://open.spotify.com/track/5h9FYRmddlb1x0ybleGPxY"
+    },
+    {
+      "album": {
         "name": "Asking For A Ride",
         "url": "https://open.spotify.com/album/4EkYXTP0vpp1dmPadvfAlK"
       },
@@ -56012,6 +56030,24 @@
       "duration_ms": 148549,
       "name": "Talk To Me That Way",
       "url": "https://open.spotify.com/track/20FSr1JzotR9PoLvHrVsmX"
+    },
+    {
+      "album": {
+        "name": "Talkback",
+        "url": "https://open.spotify.com/album/3plrzUt7S60kzn1ImNTux7"
+      },
+      "artists": [
+        {
+          "name": "Robber Robber",
+          "url": "https://open.spotify.com/artist/7kXZ3iTr0blml9QgUdfwGM"
+        }
+      ],
+      "date_added": "2025-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129545,
+      "name": "Talkback",
+      "url": "https://open.spotify.com/track/7wH4mf93kZNJU10OTvokSN"
     },
     {
       "album": {

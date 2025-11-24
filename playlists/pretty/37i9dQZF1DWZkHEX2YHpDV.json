@@ -1,6 +1,6 @@
 {
   "description": "pop punk, alt, emo, post-hardcore & more. Cover: Yellowcard",
-  "num_followers": 447149,
+  "num_followers": 447047,
   "original_name": "The Scene",
   "owner": {
     "name": "Spotify",
@@ -547,22 +547,6 @@
     {
       "added_at": "2025-11-14 05:00:21",
       "album": {
-        "name": "Crashing Out",
-        "url": "https://open.spotify.com/album/6udajFqjOweuBuWeRkfpQA"
-      },
-      "artists": [
-        {
-          "name": "Taylor Acorn",
-          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
-        }
-      ],
-      "duration_ms": 215518,
-      "name": "Crashing Out",
-      "url": "https://open.spotify.com/track/3FYnfTHQybL7NDMNM1A02N"
-    },
-    {
-      "added_at": "2025-11-14 05:00:21",
-      "album": {
         "name": "Oh No!",
         "url": "https://open.spotify.com/album/1VQTxITRTWerCVUOORuMPi"
       },
@@ -575,26 +559,6 @@
       "duration_ms": 193166,
       "name": "Oh No!",
       "url": "https://open.spotify.com/track/0yV2fqp1VpVsPJc54LX92R"
-    },
-    {
-      "added_at": "2025-11-14 05:00:21",
-      "album": {
-        "name": "Red Velvet (with Ari Abdul)",
-        "url": "https://open.spotify.com/album/5OmgLcynomYwAYCDK7wa4Q"
-      },
-      "artists": [
-        {
-          "name": "Jutes",
-          "url": "https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4"
-        },
-        {
-          "name": "Ari Abdul",
-          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
-        }
-      ],
-      "duration_ms": 186025,
-      "name": "Red Velvet (with Ari Abdul)",
-      "url": "https://open.spotify.com/track/2UYAifrQTyJCocTAHk1uS8"
     },
     {
       "added_at": "2025-11-14 05:00:21",
@@ -615,6 +579,22 @@
     {
       "added_at": "2025-11-14 05:00:21",
       "album": {
+        "name": "Crashing Out",
+        "url": "https://open.spotify.com/album/6udajFqjOweuBuWeRkfpQA"
+      },
+      "artists": [
+        {
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+        }
+      ],
+      "duration_ms": 215518,
+      "name": "Crashing Out",
+      "url": "https://open.spotify.com/track/3FYnfTHQybL7NDMNM1A02N"
+    },
+    {
+      "added_at": "2025-11-14 05:00:21",
+      "album": {
         "name": "MOTH KIDS",
         "url": "https://open.spotify.com/album/4TwV7IEjl0qKYMr9Hh3fhs"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 219035,
       "name": "MOTH KIDS",
       "url": "https://open.spotify.com/track/7dAxPlnzPAqmEVpElxItYU"
+    },
+    {
+      "added_at": "2025-11-14 05:00:21",
+      "album": {
+        "name": "Red Velvet (with Ari Abdul)",
+        "url": "https://open.spotify.com/album/5OmgLcynomYwAYCDK7wa4Q"
+      },
+      "artists": [
+        {
+          "name": "Jutes",
+          "url": "https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4"
+        },
+        {
+          "name": "Ari Abdul",
+          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
+        }
+      ],
+      "duration_ms": 186025,
+      "name": "Red Velvet (with Ari Abdul)",
+      "url": "https://open.spotify.com/track/2UYAifrQTyJCocTAHk1uS8"
     },
     {
       "added_at": "2025-11-14 05:00:21",
@@ -711,22 +711,6 @@
     {
       "added_at": "2025-11-14 05:00:21",
       "album": {
-        "name": "Goodbye, Good Riddance",
-        "url": "https://open.spotify.com/album/7kNeCQU1M0MfMgzmMzUHSG"
-      },
-      "artists": [
-        {
-          "name": "Taylor Acorn",
-          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
-        }
-      ],
-      "duration_ms": 159275,
-      "name": "Goodbye, Good Riddance",
-      "url": "https://open.spotify.com/track/1a3oI1RM3moGA6LKN4D6fo"
-    },
-    {
-      "added_at": "2025-11-14 05:00:21",
-      "album": {
         "name": "Therapy",
         "url": "https://open.spotify.com/album/24kJcNFxQsyQP5DoUxZS2G"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 162000,
       "name": "Therapy",
       "url": "https://open.spotify.com/track/5pH35HHDgaJY4XgdWJI7GI"
+    },
+    {
+      "added_at": "2025-11-14 05:00:21",
+      "album": {
+        "name": "Goodbye, Good Riddance",
+        "url": "https://open.spotify.com/album/7kNeCQU1M0MfMgzmMzUHSG"
+      },
+      "artists": [
+        {
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+        }
+      ],
+      "duration_ms": 159275,
+      "name": "Goodbye, Good Riddance",
+      "url": "https://open.spotify.com/track/1a3oI1RM3moGA6LKN4D6fo"
     },
     {
       "added_at": "2025-11-14 05:00:21",
@@ -783,22 +783,6 @@
     {
       "added_at": "2025-11-14 05:00:21",
       "album": {
-        "name": "Things Are Different Now",
-        "url": "https://open.spotify.com/album/4NcoXQa5SMjILciWjMpHZg"
-      },
-      "artists": [
-        {
-          "name": "Rain City Drive",
-          "url": "https://open.spotify.com/artist/4rMxZovfLSDjEL9eI2pKo7"
-        }
-      ],
-      "duration_ms": 205365,
-      "name": "Concrete Closure",
-      "url": "https://open.spotify.com/track/3RrWw57zjyJayGbkrGYK5s"
-    },
-    {
-      "added_at": "2025-11-14 05:00:21",
-      "album": {
         "name": "Do It Again",
         "url": "https://open.spotify.com/album/49NpPolZdtpdgjddYkN7pe"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 148567,
       "name": "Do It Again",
       "url": "https://open.spotify.com/track/0ZrA247YJ9XkdNK5L6533W"
+    },
+    {
+      "added_at": "2025-11-14 05:00:21",
+      "album": {
+        "name": "Things Are Different Now",
+        "url": "https://open.spotify.com/album/4NcoXQa5SMjILciWjMpHZg"
+      },
+      "artists": [
+        {
+          "name": "Rain City Drive",
+          "url": "https://open.spotify.com/artist/4rMxZovfLSDjEL9eI2pKo7"
+        }
+      ],
+      "duration_ms": 205365,
+      "name": "Concrete Closure",
+      "url": "https://open.spotify.com/track/3RrWw57zjyJayGbkrGYK5s"
     },
     {
       "added_at": "2025-11-14 05:00:21",
@@ -967,22 +967,6 @@
     {
       "added_at": "2025-11-14 05:00:21",
       "album": {
-        "name": "Bedroom Posters",
-        "url": "https://open.spotify.com/album/1mju3IkbVw0xDVMyfJj90U"
-      },
-      "artists": [
-        {
-          "name": "Yellowcard",
-          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
-        }
-      ],
-      "duration_ms": 218635,
-      "name": "Bedroom Posters",
-      "url": "https://open.spotify.com/track/2epFaQtIT84fbkV6gUACOC"
-    },
-    {
-      "added_at": "2025-11-14 05:00:21",
-      "album": {
         "name": "GARAGE",
         "url": "https://open.spotify.com/album/5d1CpByfQ3zqbOSmbIPafo"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 185816,
       "name": "SLEEP TALKING",
       "url": "https://open.spotify.com/track/1PoW3zFUUN8vGwXo7ihYPj"
+    },
+    {
+      "added_at": "2025-11-14 05:00:21",
+      "album": {
+        "name": "Bedroom Posters",
+        "url": "https://open.spotify.com/album/1mju3IkbVw0xDVMyfJj90U"
+      },
+      "artists": [
+        {
+          "name": "Yellowcard",
+          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
+        }
+      ],
+      "duration_ms": 218635,
+      "name": "Bedroom Posters",
+      "url": "https://open.spotify.com/track/2epFaQtIT84fbkV6gUACOC"
     },
     {
       "added_at": "2025-11-14 05:00:21",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2025-11-14 05:00:21",
       "album": {
-        "name": "Bambi",
-        "url": "https://open.spotify.com/album/0BeIgFzQGCKVqyJ60HusXH"
-      },
-      "artists": [
-        {
-          "name": "Anxious",
-          "url": "https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH"
-        }
-      ],
-      "duration_ms": 195826,
-      "name": "Never Said",
-      "url": "https://open.spotify.com/track/544eBBEk91c9mskOEO2Axw"
-    },
-    {
-      "added_at": "2025-11-14 05:00:21",
-      "album": {
         "name": "High Stakes",
         "url": "https://open.spotify.com/album/4TUmco5xx8GSJ0Rwm39oQ2"
       },
@@ -1407,6 +1391,38 @@
       "duration_ms": 205159,
       "name": "High Stakes",
       "url": "https://open.spotify.com/track/2J2iIecwVAjZPzlJubdAgD"
+    },
+    {
+      "added_at": "2025-11-14 05:00:21",
+      "album": {
+        "name": "Cult Classic",
+        "url": "https://open.spotify.com/album/1lDhJzS7NYP0SWQYKWQIPG"
+      },
+      "artists": [
+        {
+          "name": "nothing,nowhere.",
+          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
+        }
+      ],
+      "duration_ms": 222317,
+      "name": "You",
+      "url": "https://open.spotify.com/track/2hZsXCd4yjv04usMf4chII"
+    },
+    {
+      "added_at": "2025-11-14 05:00:21",
+      "album": {
+        "name": "Bambi",
+        "url": "https://open.spotify.com/album/0BeIgFzQGCKVqyJ60HusXH"
+      },
+      "artists": [
+        {
+          "name": "Anxious",
+          "url": "https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH"
+        }
+      ],
+      "duration_ms": 195826,
+      "name": "Never Said",
+      "url": "https://open.spotify.com/track/544eBBEk91c9mskOEO2Axw"
     },
     {
       "added_at": "2025-11-14 05:00:21",
@@ -1439,22 +1455,6 @@
       "duration_ms": 244648,
       "name": "THE OUTSIDE - OUTSIDERS VERSION",
       "url": "https://open.spotify.com/track/4iGlMhSSuRHUlNAknDjvT8"
-    },
-    {
-      "added_at": "2025-11-14 05:00:21",
-      "album": {
-        "name": "Cult Classic",
-        "url": "https://open.spotify.com/album/1lDhJzS7NYP0SWQYKWQIPG"
-      },
-      "artists": [
-        {
-          "name": "nothing,nowhere.",
-          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
-        }
-      ],
-      "duration_ms": 222317,
-      "name": "You",
-      "url": "https://open.spotify.com/track/2hZsXCd4yjv04usMf4chII"
     },
     {
       "added_at": "2025-11-14 05:00:21",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2025-11-14 05:00:21",
       "album": {
-        "name": "FEVER",
-        "url": "https://open.spotify.com/album/0TE9DjZPAVT9LFtpjUhi6F"
-      },
-      "artists": [
-        {
-          "name": "BEAUTY SCHOOL DROPOUT",
-          "url": "https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "FEVER",
-      "url": "https://open.spotify.com/track/6vgtAqnANqEZ8tUWGDSyjt"
-    },
-    {
-      "added_at": "2025-11-14 05:00:21",
-      "album": {
         "name": "Wreck My Life (feat. PUP)",
         "url": "https://open.spotify.com/album/7D634spauV9sF64ndg5NgF"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 118786,
       "name": "Wreck My Life (feat. PUP)",
       "url": "https://open.spotify.com/track/5PLmlMi5vvoL9pvR8E8UOo"
+    },
+    {
+      "added_at": "2025-11-14 05:00:21",
+      "album": {
+        "name": "FEVER",
+        "url": "https://open.spotify.com/album/0TE9DjZPAVT9LFtpjUhi6F"
+      },
+      "artists": [
+        {
+          "name": "BEAUTY SCHOOL DROPOUT",
+          "url": "https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "FEVER",
+      "url": "https://open.spotify.com/track/6vgtAqnANqEZ8tUWGDSyjt"
     },
     {
       "added_at": "2025-11-14 05:00:21",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2025-11-14 05:00:21",
       "album": {
+        "name": "Liminal",
+        "url": "https://open.spotify.com/album/0WrtmOTnb3dLugmxuXWIrk"
+      },
+      "artists": [
+        {
+          "name": "Belmont",
+          "url": "https://open.spotify.com/artist/6hxiY0CFXTibGUtp8TdCxp"
+        }
+      ],
+      "duration_ms": 224888,
+      "name": "Day By Day",
+      "url": "https://open.spotify.com/track/6qMrFgWAV9zpSyhdTM0tBl"
+    },
+    {
+      "added_at": "2025-11-14 05:00:21",
+      "album": {
         "name": "Spiral In A Straight Line",
         "url": "https://open.spotify.com/album/0P5CZ4l155R1udzsELjXSC"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 260885,
       "name": "Goodbye For Now (feat. Julien Baker)",
       "url": "https://open.spotify.com/track/0lPwT1JHuNFeXtIV6i6Eg2"
-    },
-    {
-      "added_at": "2025-11-14 05:00:21",
-      "album": {
-        "name": "Liminal",
-        "url": "https://open.spotify.com/album/0WrtmOTnb3dLugmxuXWIrk"
-      },
-      "artists": [
-        {
-          "name": "Belmont",
-          "url": "https://open.spotify.com/artist/6hxiY0CFXTibGUtp8TdCxp"
-        }
-      ],
-      "duration_ms": 224888,
-      "name": "Day By Day",
-      "url": "https://open.spotify.com/track/6qMrFgWAV9zpSyhdTM0tBl"
     },
     {
       "added_at": "2025-11-14 05:00:21",
@@ -1727,18 +1727,22 @@
     {
       "added_at": "2025-11-14 05:00:21",
       "album": {
-        "name": "SPIRIT!",
-        "url": "https://open.spotify.com/album/1WTEJM3xVpTmzfDelDOaK0"
+        "name": "Final Nail (with Charlotte Sands)",
+        "url": "https://open.spotify.com/album/41yGbbLZbhBJqjSBuoOoG4"
       },
       "artists": [
         {
-          "name": "HUNNY",
-          "url": "https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh"
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+        },
+        {
+          "name": "Charlotte Sands",
+          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
         }
       ],
-      "duration_ms": 111053,
-      "name": "tired of u",
-      "url": "https://open.spotify.com/track/1FlklhEy1EkGeYDBgstjJH"
+      "duration_ms": 150404,
+      "name": "Final Nail (with Charlotte Sands)",
+      "url": "https://open.spotify.com/track/6kG3qEXGFZCC4OfGCRBW15"
     }
   ],
   "unique_name": "The Scene",

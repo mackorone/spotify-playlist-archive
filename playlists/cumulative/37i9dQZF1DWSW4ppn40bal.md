@@ -4,7 +4,7 @@
 
 > Fall fast asleep with deep noise
 
-637 songs - 1 day 9 hr 47 min
+638 songs - 1 day 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -345,6 +345,7 @@
 | [Midnight Breeze Pink Noise](https://open.spotify.com/track/1zjEZRXJqqJisjkh1c1OoF) | [Ozonezzz](https://open.spotify.com/artist/3D4ZyZNY4vP7YHF9CtWQzZ) | [Pink Falls Ambient Noise](https://open.spotify.com/album/3yCyAWSirGuqQfpOCLyu7y) | 3:22 | 2023-01-27 | 2023-02-17 |
 | [Mind Clearing Noise](https://open.spotify.com/track/4u75RQbjnohewfAQBXdEAn) | [Kilo Herz](https://open.spotify.com/artist/1cDJHAhR1MlgitRpErRmzL) | [Ocean Of Noise](https://open.spotify.com/album/6o5AdyLgf4mnYnYAUp9H86) | 3:26 | 2021-12-01 | 2022-12-21 |
 | [Mindful Pink Noise](https://open.spotify.com/track/0mNsnUzHYXpME2QXC48SCx) | [PXL PXL](https://open.spotify.com/artist/3VsfVLFVzGpyCwlMDpusSp) | [Mindful Pink Noise](https://open.spotify.com/album/7jo496I7GGuizEZcF827Df) | 4:17 | 2024-02-09 |  |
+| [Minnie's Pink Noise](https://open.spotify.com/track/2nhZtsePJm89vOIXoXlEwR) | [Crystal Slowdown](https://open.spotify.com/artist/6O0u8LauyCpF8qnE347A4o) | [Minnie's Pink Noise](https://open.spotify.com/album/1blXtXrtkUZ8LEgmQBlbVu) | 3:16 | 2025-11-13 |  |
 | [Misty Pink Noise](https://open.spotify.com/track/2IoyFFPEFomSG6COU97KlV) | [Dream Storms](https://open.spotify.com/artist/40AelaWxy8f4FdEVHEzK1T) | [Restoring with Pink Noise](https://open.spotify.com/album/3Dsjl3oJSJJKbh92wSzHTG) | 3:10 | 2022-08-02 |  |
 | [Mooi Geluid](https://open.spotify.com/track/23rGG85V5lG9rJXriS3Hma) | [Discrete Tijd](https://open.spotify.com/artist/1Kx1iJMs6HsyGXoKEFWdKL) | [Mooi Geluid](https://open.spotify.com/album/4V4JnEYV3mVyxECk49mMEb) | 2:26 | 2021-12-01 | 2023-01-28 |
 | [Mother Nature Brown Noise](https://open.spotify.com/track/257E4a5tb1Fs63wB94rl5K) | [Andiman](https://open.spotify.com/artist/1eDXoT9A8y5E9xIDrHV4yH) | [Baby Sleep Brown Noise](https://open.spotify.com/album/1X1p7zdya8kn57EXdwkd25) | 2:17 | 2022-12-20 |  |
@@ -503,7 +504,7 @@
 | [Pinksomnia](https://open.spotify.com/track/2DxIUzwqnZA4JEfJJrKcvH) | [Panoramia](https://open.spotify.com/artist/7j68r0RRJ2pdn6lh6Xhxn9) | [Pinksomnia](https://open.spotify.com/album/5ogQBNAiBaVC2zNRgDgdL4) | 3:15 | 2022-08-02 |  |
 | [Platinum Pink Noise](https://open.spotify.com/track/5HBoYUk0wRJ6ZEQ5GVYqkA) | [Noise Design](https://open.spotify.com/artist/4L5Dto2z6lWOgm19IXWNDr) | [Platinum Pink Noise](https://open.spotify.com/album/5M9aPdazI7SLaSkC00lGgW) | 2:58 | 2022-12-20 | 2025-11-16 |
 | [Pool of Pink Noise](https://open.spotify.com/track/2Tr59tiEcAMub2JLqJA72C) | [Astrofuss](https://open.spotify.com/artist/5Tx7TAY5IxjWaUuJo7tTzf) | [Pool of Pink Noise](https://open.spotify.com/album/753Pp9yVc0DpU9sqFR9TqW) | 3:29 | 2022-06-03 |  |
-| [Precious Bedtime](https://open.spotify.com/track/6b50H35ZNObNWB1JTOmwuR) | [Instant Recuperate](https://open.spotify.com/artist/38y9kFWR4BFY9lhR6dXMBV) | [Pink Noise Aficionado](https://open.spotify.com/album/2BG66eZYVb2AXzMhFImd6Y) | 2:57 | 2022-11-18 |  |
+| [Precious Bedtime](https://open.spotify.com/track/6b50H35ZNObNWB1JTOmwuR) | [Instant Recuperate](https://open.spotify.com/artist/38y9kFWR4BFY9lhR6dXMBV) | [Pink Noise Aficionado](https://open.spotify.com/album/2BG66eZYVb2AXzMhFImd6Y) | 2:57 | 2022-11-18 | 2025-11-24 |
 | [Profound Pink](https://open.spotify.com/track/3kIjRT6rqRXTRrGZNmLLya) | [Universal Waves](https://open.spotify.com/artist/1J9iGTlSe1UKgzNbILBnL8) | [Universal Pink](https://open.spotify.com/album/3OBBa7NZrWw8lnkQQIPmaJ) | 3:00 | 2022-12-20 |  |
 | [Pure Brown Noise](https://open.spotify.com/track/0UgcG4LALGX6cTFp6TtSXl) | [Noise Nirvana](https://open.spotify.com/artist/6jLfCVXiXP2SoEA8BOIrxM) | [Brown Noise](https://open.spotify.com/album/4UxFcwdtIeqsCQe1tIpqHs) | 3:22 | 2021-12-01 | 2022-08-03 |
 | [Pure Brown Noise 3](https://open.spotify.com/track/5QjGpAks7zoO83nqs0phLa) | [Exodar](https://open.spotify.com/artist/2UcCR6cHxb3YL473Q7KKZJ) | [Pure Brown Noise](https://open.spotify.com/album/4GqKlkURm7KhUr397GeVlm) | 3:02 | 2021-12-01 | 2022-07-02 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Stick Figure. The essential tracks, all in one playlist.",
-  "num_followers": 92282,
+  "num_followers": 92300,
   "original_name": "This Is Stick Figure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aR+rgAAAAABohAPcuDIjJ3ERbPcZ5NmH",
+  "snapshot_id": "aSD9AAAAAAC0+WVVt+HEuYbHBtuDPJCb",
   "tracks": [
     {
       "added_at": null,
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
         }
       ],
-      "duration_ms": 292485,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/4Th9Lu8GK0mt5fZZ945FI7"
+      "duration_ms": 283793,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/05BJQUM4bATKGFheqrC6CW"
     },
     {
       "added_at": null,
@@ -400,9 +400,9 @@
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
         }
       ],
-      "duration_ms": 283793,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/05BJQUM4bATKGFheqrC6CW"
+      "duration_ms": 292485,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/4Th9Lu8GK0mt5fZZ945FI7"
     },
     {
       "added_at": null,
@@ -503,26 +503,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Got Me On The Run (with Stick Figure and Pepper)",
-        "url": "https://open.spotify.com/album/7utd2iqVDpBxA4BLfFVZtF"
+        "name": "World on Fire",
+        "url": "https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB"
       },
       "artists": [
-        {
-          "name": "Slightly Stoopid",
-          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
-        },
         {
           "name": "Stick Figure",
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
         },
         {
-          "name": "Pepper",
-          "url": "https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT"
+          "name": "Citizen Cope",
+          "url": "https://open.spotify.com/artist/7enBrBojgBJuPPdqTq4Z5F"
         }
       ],
-      "duration_ms": 274498,
-      "name": "Got Me On The Run (with Stick Figure and Pepper)",
-      "url": "https://open.spotify.com/track/39KOFS51LBiUeAEle7utOX"
+      "duration_ms": 238767,
+      "name": "Summertime (feat. Citizen Cope)",
+      "url": "https://open.spotify.com/track/2WbZZGXlVWHEfrCG9mC0UV"
     },
     {
       "added_at": null,
@@ -543,22 +539,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "World on Fire",
-        "url": "https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB"
+        "name": "Got Me On The Run (with Stick Figure and Pepper)",
+        "url": "https://open.spotify.com/album/7utd2iqVDpBxA4BLfFVZtF"
       },
       "artists": [
+        {
+          "name": "Slightly Stoopid",
+          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
+        },
         {
           "name": "Stick Figure",
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
         },
         {
-          "name": "Citizen Cope",
-          "url": "https://open.spotify.com/artist/7enBrBojgBJuPPdqTq4Z5F"
+          "name": "Pepper",
+          "url": "https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT"
         }
       ],
-      "duration_ms": 238767,
-      "name": "Summertime (feat. Citizen Cope)",
-      "url": "https://open.spotify.com/track/2WbZZGXlVWHEfrCG9mC0UV"
+      "duration_ms": 274498,
+      "name": "Got Me On The Run (with Stick Figure and Pepper)",
+      "url": "https://open.spotify.com/track/39KOFS51LBiUeAEle7utOX"
     },
     {
       "added_at": null,

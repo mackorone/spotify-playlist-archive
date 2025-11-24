@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > She’s in her <i> wait… am I the villain? </i> era 🤭🌪️
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,102,571 likes - 103 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,102,438 likes - 103 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

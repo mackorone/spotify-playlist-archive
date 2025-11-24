@@ -4,7 +4,7 @@
 
 > The best tracks of 2025\. A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-5,453 songs - 12 day 16 hr 43 min
+5,454 songs - 12 day 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5391,6 +5391,7 @@
 | [You & I](https://open.spotify.com/track/2BDGuHSv8EMBDloSTaO03A) | [Smantx](https://open.spotify.com/artist/4R7TVVRhOoTXuiUSxaVnoG) | [You & I](https://open.spotify.com/album/3etf0HQk1KqcgBHtwaFdpj) | 3:51 | 2023-08-05 | 2023-08-20 |
 | [You & Me](https://open.spotify.com/track/3ZnYpheZpuAIiRdWSJQxNF) | [Adam Rom](https://open.spotify.com/artist/4oOcOSicmBDeT6JfIWnCbf), [àB](https://open.spotify.com/artist/0Ki8IJ8C17peRsgYPa78q1) | [You & Me](https://open.spotify.com/album/5H1S2KWJWxPhBcaNsAeGU7) | 2:31 | 2020-04-22 | 2020-05-24 |
 | [You & Me](https://open.spotify.com/track/0j8Czyl6iYqRiQn1feRtsh) | [Steph Devine](https://open.spotify.com/artist/6ZOjeqFeVNL0cPgouVRcHd) | [You & Me](https://open.spotify.com/album/2mAh6k3S7CISqRa7HanmhN) | 3:02 | 2021-11-24 | 2021-12-18 |
+| [You & Only You](https://open.spotify.com/track/08M3AVoizSu1aMze1DzpuD) | [andreas owens](https://open.spotify.com/artist/2tJ0Wcl9h9PPkosJ4piT6k) | [You & Only You](https://open.spotify.com/album/5IOPSN8dSwBiHeOLgTJH3T) | 3:31 | 2025-11-23 |  |
 | [you + I + our cat](https://open.spotify.com/track/4W0BbcNBFeqQfiauf3QXaO) | [Alexi Fehlman](https://open.spotify.com/artist/4ARvgAdqg94Xby2NzrYblp) | [1998](https://open.spotify.com/album/4YjFZ32iJRUp0fvWobBpEh) | 2:03 | 2024-08-03 | 2024-08-15 |
 | [You + Me](https://open.spotify.com/track/5RNlGFKrQJyjTyEjbi9zaR) | [Juliana Hale](https://open.spotify.com/artist/7akw9Bd9xFiidnx2ZfNQxw) | [You + Me](https://open.spotify.com/album/74fGPsog8j5HQzl98NauC9) | 2:17 | 2024-12-02 | 2024-12-15 |
 | [You Ain't Got Me](https://open.spotify.com/track/2LhRZFpsFCgLu0DnvsMiOG) | [Marty O'Neill](https://open.spotify.com/artist/3tIkLvNAAQfZdJwbDASQsz) | [You Ain't Got Me](https://open.spotify.com/album/2uwdZ2fwxDSz3XrEUPn9FT) | 3:21 | 2024-02-25 | 2024-03-08 |

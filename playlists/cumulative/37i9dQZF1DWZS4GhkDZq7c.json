@@ -179,6 +179,32 @@
     },
     {
       "album": {
+        "name": "Thangamagan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6L4ZkUiJTwo2e1E9e31ds3"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Shweta Mohan",
+          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
+        },
+        {
+          "name": "Dhanush",
+          "url": "https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz"
+        }
+      ],
+      "date_added": "2025-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Enna Solla - The New Life of Tamizh",
+      "url": "https://open.spotify.com/track/2109dBho14Lqh2wr8goqAP"
+    },
+    {
+      "album": {
         "name": "VadaChennai (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5oZttbNRyrYfBLhej6HAY7"
       },
@@ -894,7 +920,7 @@
       ],
       "date_added": "2021-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 260125,
       "name": "Rendu Kaadhal (From \"Kaathuvaakula Rendu Kaadhal\")",
       "url": "https://open.spotify.com/track/4Lm0D6ituSgOi1AXLhUqcx"

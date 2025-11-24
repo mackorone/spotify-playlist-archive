@@ -1,6 +1,6 @@
 {
   "description": "Sleep is the best Medicine",
-  "num_followers": 54131,
+  "num_followers": 54145,
   "original_name": "Nidra",
   "owner": {
     "name": "Spotify",
@@ -331,8 +331,8 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "A Clear Mind",
-        "url": "https://open.spotify.com/album/6HTDJSCj481qL4ruvh68IQ"
+        "name": "Sea Of Tranquility",
+        "url": "https://open.spotify.com/album/6FunWbzr82EBe87wjbq3I3"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/6evK56MPQbVzQaWuGcS4Rm"
         }
       ],
-      "duration_ms": 173696,
-      "name": "A Clear Mind",
-      "url": "https://open.spotify.com/track/2pypBNUUzViaP7Dswi9zpF"
+      "duration_ms": 175318,
+      "name": "Sea Of Tranquility",
+      "url": "https://open.spotify.com/track/5nzGBQeLesWrD0J8Ctz75z"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -411,8 +411,8 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Sea Of Tranquility",
-        "url": "https://open.spotify.com/album/6FunWbzr82EBe87wjbq3I3"
+        "name": "A Clear Mind",
+        "url": "https://open.spotify.com/album/6HTDJSCj481qL4ruvh68IQ"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/6evK56MPQbVzQaWuGcS4Rm"
         }
       ],
-      "duration_ms": 175318,
-      "name": "Sea Of Tranquility",
-      "url": "https://open.spotify.com/track/5nzGBQeLesWrD0J8Ctz75z"
+      "duration_ms": 173696,
+      "name": "A Clear Mind",
+      "url": "https://open.spotify.com/track/2pypBNUUzViaP7Dswi9zpF"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -523,22 +523,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Envision",
-        "url": "https://open.spotify.com/album/4yg5OckIrdMo7yIJcDRU4F"
-      },
-      "artists": [
-        {
-          "name": "Amaranth Cove",
-          "url": "https://open.spotify.com/artist/1Gt39QnTBTndeyiJ5SO04q"
-        }
-      ],
-      "duration_ms": 143000,
-      "name": "Vague",
-      "url": "https://open.spotify.com/track/3IOXceWmoCrTyl5TXFDzWu"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Night Walk",
         "url": "https://open.spotify.com/album/3Y6dLdTnXxiIhDKFmlTPYw"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 140585,
       "name": "Night Walk",
       "url": "https://open.spotify.com/track/0ePG8cXgoLfOqVYVX8Ju6a"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Envision",
+        "url": "https://open.spotify.com/album/4yg5OckIrdMo7yIJcDRU4F"
+      },
+      "artists": [
+        {
+          "name": "Amaranth Cove",
+          "url": "https://open.spotify.com/artist/1Gt39QnTBTndeyiJ5SO04q"
+        }
+      ],
+      "duration_ms": 143000,
+      "name": "Vague",
+      "url": "https://open.spotify.com/track/3IOXceWmoCrTyl5TXFDzWu"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -787,22 +787,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Flowing Strings",
-        "url": "https://open.spotify.com/album/4dySUweZz7vqrs3VgLYWN8"
-      },
-      "artists": [
-        {
-          "name": "Josep Alba",
-          "url": "https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG"
-        }
-      ],
-      "duration_ms": 278797,
-      "name": "Buenas Noches",
-      "url": "https://open.spotify.com/track/72kIC2q0kaOleQ3uCWU6eN"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Lovely Thunder",
         "url": "https://open.spotify.com/album/1MUMyzhjWpYnTKjmpTF1YA"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 130688,
       "name": "Symphony Of Heaven",
       "url": "https://open.spotify.com/track/4QObDKYxh0rquU3njQ7rGi"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Flowing Strings",
+        "url": "https://open.spotify.com/album/4dySUweZz7vqrs3VgLYWN8"
+      },
+      "artists": [
+        {
+          "name": "Josep Alba",
+          "url": "https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG"
+        }
+      ],
+      "duration_ms": 278797,
+      "name": "Buenas Noches",
+      "url": "https://open.spotify.com/track/72kIC2q0kaOleQ3uCWU6eN"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -891,22 +891,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Dulces Sue\u00f1os",
-        "url": "https://open.spotify.com/album/1QlQTmNJSAroXlf82gRaAA"
-      },
-      "artists": [
-        {
-          "name": "Josep Alba",
-          "url": "https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG"
-        }
-      ],
-      "duration_ms": 245514,
-      "name": "Dulces Sue\u00f1os",
-      "url": "https://open.spotify.com/track/4xYu3ms4RRPwYjoZV7qEPl"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Floating, Always",
         "url": "https://open.spotify.com/album/6JeuzF0f5ALtSsXnXVBckB"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 137172,
       "name": "Astral Therapy",
       "url": "https://open.spotify.com/track/17Wjmh3nZzAywevzFHqJnx"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Dulces Sue\u00f1os",
+        "url": "https://open.spotify.com/album/1QlQTmNJSAroXlf82gRaAA"
+      },
+      "artists": [
+        {
+          "name": "Josep Alba",
+          "url": "https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG"
+        }
+      ],
+      "duration_ms": 245514,
+      "name": "Dulces Sue\u00f1os",
+      "url": "https://open.spotify.com/track/4xYu3ms4RRPwYjoZV7qEPl"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Mantric Melody",
-        "url": "https://open.spotify.com/album/7pZmcpCvo9pVRN1BQCmAT9"
-      },
-      "artists": [
-        {
-          "name": "Havanna Chandri",
-          "url": "https://open.spotify.com/artist/7L19dBW5AbTgQvjXFGaOF6"
-        }
-      ],
-      "duration_ms": 111277,
-      "name": "Mantric Melody",
-      "url": "https://open.spotify.com/track/5GkkUUYaDllU29bE9OKkLI"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Calm Moments Piano Music",
         "url": "https://open.spotify.com/album/7cLo3vzpHmCHghvtwtZoXn"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 150912,
       "name": "Long Ride",
       "url": "https://open.spotify.com/track/19TByZROgOouJ9uc4VPaSb"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Mantric Melody",
+        "url": "https://open.spotify.com/album/7pZmcpCvo9pVRN1BQCmAT9"
+      },
+      "artists": [
+        {
+          "name": "Havanna Chandri",
+          "url": "https://open.spotify.com/artist/7L19dBW5AbTgQvjXFGaOF6"
+        }
+      ],
+      "duration_ms": 111277,
+      "name": "Mantric Melody",
+      "url": "https://open.spotify.com/track/5GkkUUYaDllU29bE9OKkLI"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "My Sleeping Rose",
-        "url": "https://open.spotify.com/album/7ApqGcvgxT7rQ5ukCqgh6w"
-      },
-      "artists": [
-        {
-          "name": "Havanna Chandri",
-          "url": "https://open.spotify.com/artist/7L19dBW5AbTgQvjXFGaOF6"
-        }
-      ],
-      "duration_ms": 127865,
-      "name": "My Sleeping Rose",
-      "url": "https://open.spotify.com/track/7vfYsS34eZojVLXsknEj1J"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Voyager",
         "url": "https://open.spotify.com/album/2CMg1J1wh7bb7qtHKKrUBq"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 205000,
       "name": "Voyager",
       "url": "https://open.spotify.com/track/2VZD4Jqb0vKeCNPbkqVxLL"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "My Sleeping Rose",
+        "url": "https://open.spotify.com/album/7ApqGcvgxT7rQ5ukCqgh6w"
+      },
+      "artists": [
+        {
+          "name": "Havanna Chandri",
+          "url": "https://open.spotify.com/artist/7L19dBW5AbTgQvjXFGaOF6"
+        }
+      ],
+      "duration_ms": 127865,
+      "name": "My Sleeping Rose",
+      "url": "https://open.spotify.com/track/7vfYsS34eZojVLXsknEj1J"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Heavenly Walk",
-        "url": "https://open.spotify.com/album/4WG7sewn60p16rOU8lumWS"
-      },
-      "artists": [
-        {
-          "name": "Minisol",
-          "url": "https://open.spotify.com/artist/6FcUn7u0urBTnuRilGZBFf"
-        }
-      ],
-      "duration_ms": 284513,
-      "name": "Heavenly Walk",
-      "url": "https://open.spotify.com/track/7N38FhlGOzPZ8AAnQjAMpU"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "New Romantic Classical Piano and Violin Duets",
         "url": "https://open.spotify.com/album/7v6s1nucVtGQC0mfjShaax"
       },
@@ -1307,18 +1291,18 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "The Ones Left Behind",
-        "url": "https://open.spotify.com/album/6j0thUmUXxZmX8XFhFuudh"
+        "name": "Heavenly Walk",
+        "url": "https://open.spotify.com/album/4WG7sewn60p16rOU8lumWS"
       },
       "artists": [
         {
-          "name": "Martin Rapide",
-          "url": "https://open.spotify.com/artist/0rsshRiKbaGqpYNI0jYNIX"
+          "name": "Minisol",
+          "url": "https://open.spotify.com/artist/6FcUn7u0urBTnuRilGZBFf"
         }
       ],
-      "duration_ms": 148987,
-      "name": "The Ones Left Behind",
-      "url": "https://open.spotify.com/track/1pfOyfuKafxJXajfsnU731"
+      "duration_ms": 284513,
+      "name": "Heavenly Walk",
+      "url": "https://open.spotify.com/track/7N38FhlGOzPZ8AAnQjAMpU"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1335,6 +1319,22 @@
       "duration_ms": 160250,
       "name": "Tenderly",
       "url": "https://open.spotify.com/track/6Qur3sb3jen75OnKG2Omv6"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "The Ones Left Behind",
+        "url": "https://open.spotify.com/album/6j0thUmUXxZmX8XFhFuudh"
+      },
+      "artists": [
+        {
+          "name": "Martin Rapide",
+          "url": "https://open.spotify.com/artist/0rsshRiKbaGqpYNI0jYNIX"
+        }
+      ],
+      "duration_ms": 148987,
+      "name": "The Ones Left Behind",
+      "url": "https://open.spotify.com/track/1pfOyfuKafxJXajfsnU731"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1449,22 +1449,6 @@
       "url": "https://open.spotify.com/track/6EltS9kyjdvCeIOZuNx7S0"
     },
     {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
-        "name": "Mandala Spirit",
-        "url": "https://open.spotify.com/album/7hEcayytLnBIvyX3vl234z"
-      },
-      "artists": [
-        {
-          "name": "Danyel Varda",
-          "url": "https://open.spotify.com/artist/1VNg7iPAT2si1mruaa2ABB"
-        }
-      ],
-      "duration_ms": 219716,
-      "name": "Bloom Bliss",
-      "url": "https://open.spotify.com/track/2ejyYxHNXikzuncD5akHGo"
-    },
-    {
       "added_at": "2024-06-11 05:54:30",
       "album": {
         "name": "Surrender",
@@ -1479,6 +1463,22 @@
       "duration_ms": 196999,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/5EJQuBhBqG7VU2Fi6y5btW"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Mandala Spirit",
+        "url": "https://open.spotify.com/album/7hEcayytLnBIvyX3vl234z"
+      },
+      "artists": [
+        {
+          "name": "Danyel Varda",
+          "url": "https://open.spotify.com/artist/1VNg7iPAT2si1mruaa2ABB"
+        }
+      ],
+      "duration_ms": 219716,
+      "name": "Bloom Bliss",
+      "url": "https://open.spotify.com/track/2ejyYxHNXikzuncD5akHGo"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Mandala Spirit",
-        "url": "https://open.spotify.com/album/7hEcayytLnBIvyX3vl234z"
-      },
-      "artists": [
-        {
-          "name": "Danyel Varda",
-          "url": "https://open.spotify.com/artist/1VNg7iPAT2si1mruaa2ABB"
-        }
-      ],
-      "duration_ms": 222916,
-      "name": "Lorimar",
-      "url": "https://open.spotify.com/track/45Of6RO7cx8xbYWKk2uyI7"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Balance",
         "url": "https://open.spotify.com/album/5RD6t7Q2kRnrZrT6JzXV8e"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 131605,
       "name": "Balance",
       "url": "https://open.spotify.com/track/67VwaFnie5tKXclaRO2Fer"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Mandala Spirit",
+        "url": "https://open.spotify.com/album/7hEcayytLnBIvyX3vl234z"
+      },
+      "artists": [
+        {
+          "name": "Danyel Varda",
+          "url": "https://open.spotify.com/artist/1VNg7iPAT2si1mruaa2ABB"
+        }
+      ],
+      "duration_ms": 222916,
+      "name": "Lorimar",
+      "url": "https://open.spotify.com/track/45Of6RO7cx8xbYWKk2uyI7"
     },
     {
       "added_at": "2021-06-24 10:58:44",

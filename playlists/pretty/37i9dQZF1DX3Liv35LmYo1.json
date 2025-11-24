@@ -1,6 +1,6 @@
 {
   "description": "Moody electronica for the night shift",
-  "num_followers": 1779,
+  "num_followers": 1781,
   "original_name": "Night Shift",
   "owner": {
     "name": "Spotify",
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "I Want an Earth",
-        "url": "https://open.spotify.com/album/3jp1Cv6bTFyGN1jQWC2uSN"
-      },
-      "artists": [
-        {
-          "name": "Yu Su",
-          "url": "https://open.spotify.com/artist/69zPIMRgsZieOHFtHtvnj0"
-        }
-      ],
-      "duration_ms": 362626,
-      "name": "I Want an Earth",
-      "url": "https://open.spotify.com/track/69932XkAB5hvIGpc5mvVfF"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "RUSH (Blush)",
         "url": "https://open.spotify.com/album/3Mb7Mtq5mzfrHsfL8EloXp"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 242545,
       "name": "RUSH (Blush)",
       "url": "https://open.spotify.com/track/6pjI3CKUkIGbvSgo7TuRuu"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "I Want an Earth",
+        "url": "https://open.spotify.com/album/3jp1Cv6bTFyGN1jQWC2uSN"
+      },
+      "artists": [
+        {
+          "name": "Yu Su",
+          "url": "https://open.spotify.com/artist/69zPIMRgsZieOHFtHtvnj0"
+        }
+      ],
+      "duration_ms": 362626,
+      "name": "I Want an Earth",
+      "url": "https://open.spotify.com/track/69932XkAB5hvIGpc5mvVfF"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Cold",
-        "url": "https://open.spotify.com/album/0osdfKk3BLKntTr04VYvlo"
-      },
-      "artists": [
-        {
-          "name": "George FitzGerald",
-          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
-        }
-      ],
-      "duration_ms": 282349,
-      "name": "Cold",
-      "url": "https://open.spotify.com/track/7sIPjaEIz3puBvD9eLlSWs"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "do you feel it too?",
         "url": "https://open.spotify.com/album/3BrTI93IecTgOSLqyn4SId"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 308623,
       "name": "by the reservoir",
       "url": "https://open.spotify.com/track/2KTzvg9BdiO9ss0kiZzBe1"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/0osdfKk3BLKntTr04VYvlo"
+      },
+      "artists": [
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        }
+      ],
+      "duration_ms": 282349,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/7sIPjaEIz3puBvD9eLlSWs"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -487,26 +487,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Afterglow",
-        "url": "https://open.spotify.com/album/3VLtsXibcVJSiiHbSu3DYY"
-      },
-      "artists": [
-        {
-          "name": "edapollo",
-          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
-        },
-        {
-          "name": "Jesse Kendal",
-          "url": "https://open.spotify.com/artist/70kLAtCzsMiSqLU8qY7QQC"
-        }
-      ],
-      "duration_ms": 266853,
-      "name": "Afterglow",
-      "url": "https://open.spotify.com/track/1NhtY0fQV9pna3FW6YH6PK"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "Halcyon (30 Something) [Remixes]",
         "url": "https://open.spotify.com/album/6Td21SsqDqTZcelggWYQ7W"
       },
@@ -523,6 +503,26 @@
       "duration_ms": 292987,
       "name": "Halcyon & On - Logic1000 Mix",
       "url": "https://open.spotify.com/track/7aXyBkjhsB5sitA3kEINo9"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/3VLtsXibcVJSiiHbSu3DYY"
+      },
+      "artists": [
+        {
+          "name": "edapollo",
+          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
+        },
+        {
+          "name": "Jesse Kendal",
+          "url": "https://open.spotify.com/artist/70kLAtCzsMiSqLU8qY7QQC"
+        }
+      ],
+      "duration_ms": 266853,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/1NhtY0fQV9pna3FW6YH6PK"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "View from the Aeroplane Window",
-        "url": "https://open.spotify.com/album/2sRxQH3FnEm4M0K8PnmQsH"
-      },
-      "artists": [
-        {
-          "name": "edapollo",
-          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
-        }
-      ],
-      "duration_ms": 233346,
-      "name": "View from the Aeroplane Window",
-      "url": "https://open.spotify.com/track/4mM9mgoDCa6NtWsHxe12pr"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "Memories In Flight",
         "url": "https://open.spotify.com/album/581T6Mw7jPP4IGgFDrQAfE"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 224655,
       "name": "Contra",
       "url": "https://open.spotify.com/track/78Dnmmh4zDQf7mt2N7X7xW"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "View from the Aeroplane Window",
+        "url": "https://open.spotify.com/album/2sRxQH3FnEm4M0K8PnmQsH"
+      },
+      "artists": [
+        {
+          "name": "edapollo",
+          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
+        }
+      ],
+      "duration_ms": 233346,
+      "name": "View from the Aeroplane Window",
+      "url": "https://open.spotify.com/track/4mM9mgoDCa6NtWsHxe12pr"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -695,18 +695,18 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Blue Spring",
-        "url": "https://open.spotify.com/album/2WSYktq8Bu9EMn47nnzR35"
+        "name": "Coasting",
+        "url": "https://open.spotify.com/album/54DYqYdimIsZdIvxzQEtAJ"
       },
       "artists": [
         {
-          "name": "edapollo",
-          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
+          "name": "Achingdrum",
+          "url": "https://open.spotify.com/artist/7JYSNyL7lYRsQHAfxQkIie"
         }
       ],
-      "duration_ms": 203493,
-      "name": "Blue Skies",
-      "url": "https://open.spotify.com/track/4UKJbtE1rC2LaWm5CFTnfA"
+      "duration_ms": 243692,
+      "name": "Coasting",
+      "url": "https://open.spotify.com/track/4GH858YJvWQnMrJULGEDxR"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -727,34 +727,34 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Coasting",
-        "url": "https://open.spotify.com/album/54DYqYdimIsZdIvxzQEtAJ"
+        "name": "Blue Spring",
+        "url": "https://open.spotify.com/album/2WSYktq8Bu9EMn47nnzR35"
       },
       "artists": [
         {
-          "name": "Achingdrum",
-          "url": "https://open.spotify.com/artist/7JYSNyL7lYRsQHAfxQkIie"
+          "name": "edapollo",
+          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
         }
       ],
-      "duration_ms": 243692,
-      "name": "Coasting",
-      "url": "https://open.spotify.com/track/4GH858YJvWQnMrJULGEDxR"
+      "duration_ms": 203493,
+      "name": "Blue Skies",
+      "url": "https://open.spotify.com/track/4UKJbtE1rC2LaWm5CFTnfA"
     },
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Minoxidil Life crisis",
-        "url": "https://open.spotify.com/album/2hOQX3N7h2SaTE3UiFZwz3"
+        "name": "ENCLOSURE",
+        "url": "https://open.spotify.com/album/1hcGDnuOuufMcUn2QfmrQ0"
       },
       "artists": [
         {
-          "name": "Morgan Wright",
-          "url": "https://open.spotify.com/artist/0ecgVFD6pNWAqcRNIj81d7"
+          "name": "2XM",
+          "url": "https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32"
         }
       ],
-      "duration_ms": 314504,
-      "name": "Minoxidil Life crisis",
-      "url": "https://open.spotify.com/track/3Jm3pKvN9CfiOY6pznlxha"
+      "duration_ms": 259805,
+      "name": "ENCLOSURE",
+      "url": "https://open.spotify.com/track/4izuPtp0dTuJF9xoqQR4W3"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -775,18 +775,18 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "ENCLOSURE",
-        "url": "https://open.spotify.com/album/1hcGDnuOuufMcUn2QfmrQ0"
+        "name": "Minoxidil Life crisis",
+        "url": "https://open.spotify.com/album/2hOQX3N7h2SaTE3UiFZwz3"
       },
       "artists": [
         {
-          "name": "2XM",
-          "url": "https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32"
+          "name": "Morgan Wright",
+          "url": "https://open.spotify.com/artist/0ecgVFD6pNWAqcRNIj81d7"
         }
       ],
-      "duration_ms": 259805,
-      "name": "ENCLOSURE",
-      "url": "https://open.spotify.com/track/4izuPtp0dTuJF9xoqQR4W3"
+      "duration_ms": 314504,
+      "name": "Minoxidil Life crisis",
+      "url": "https://open.spotify.com/track/3Jm3pKvN9CfiOY6pznlxha"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -823,22 +823,18 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Mercury Remixes",
-        "url": "https://open.spotify.com/album/4dgG6jfRwyZyDLtB8F2yVZ"
+        "name": "Absent",
+        "url": "https://open.spotify.com/album/5dR04HbCNgPfhPCBuL2gnn"
       },
       "artists": [
         {
-          "name": "The Range",
-          "url": "https://open.spotify.com/artist/5xsSdtWHooM9IL5WnDWTdD"
-        },
-        {
-          "name": "DJ Python",
-          "url": "https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl"
+          "name": "Liam Thomas",
+          "url": "https://open.spotify.com/artist/0CDvUUuendAExit0nkRVpN"
         }
       ],
-      "duration_ms": 207304,
-      "name": "Violet - DJ Python Remix",
-      "url": "https://open.spotify.com/track/6JijA1sJukJFkEXlOnK9ZI"
+      "duration_ms": 189473,
+      "name": "Absent",
+      "url": "https://open.spotify.com/track/5gdNah69fvQqI9SuESeqT5"
     }
   ],
   "unique_name": "Night Shift",

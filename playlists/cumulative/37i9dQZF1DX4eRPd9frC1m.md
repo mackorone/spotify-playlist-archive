@@ -4,7 +4,7 @@
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a> 💪💥
 
-451 songs - 1 day 0 hr 14 min
+452 songs - 1 day 0 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Control](https://open.spotify.com/track/1YVPBX1nfpWOlp6rSrg0C4) | [Lucille Croft](https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy) | [Control](https://open.spotify.com/album/6UDJu02Yx57vyNTqAfEMr7) | 2:57 | 2021-11-19 | 2022-01-08 |
 | [Crash Out](https://open.spotify.com/track/5uWbuRqGSBmFtzC7hIyfVr) | [Eptic](https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ), [Space Laces](https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP) | [Crash Out](https://open.spotify.com/album/6owfK8zHCY2EzDO8OvQ1eD) | 3:46 | 2025-03-28 | 2025-08-02 |
 | [Crazy in the Head](https://open.spotify.com/track/4qfkszBr0DlyeXYL0yyvdY) | [FOCUSS](https://open.spotify.com/artist/1zF6ztWzJmC3kmyvUsLbqX) | [Crazy in the Head EP](https://open.spotify.com/album/6jKmTWnMw3VYIS9R52wion) | 3:00 | 2023-08-18 | 2023-09-10 |
-| [Criminal](https://open.spotify.com/track/1wlsLLlTQjtqBvrPbKXHXd) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [Warrior Queen](https://open.spotify.com/artist/6MGlEnPgJhFkC8P8DdKtsT) | [Criminal](https://open.spotify.com/album/1uyc31Iw3pbYXstxykjzfr) | 4:11 | 2023-07-14 |  |
+| [Criminal](https://open.spotify.com/track/1wlsLLlTQjtqBvrPbKXHXd) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [Warrior Queen](https://open.spotify.com/artist/6MGlEnPgJhFkC8P8DdKtsT) | [Criminal](https://open.spotify.com/album/1uyc31Iw3pbYXstxykjzfr) | 4:11 | 2023-07-14 | 2025-11-24 |
 | [Crossfire](https://open.spotify.com/track/1cScOu41mPgWKFzBXbBaSS) | [Alpha AF](https://open.spotify.com/artist/1avz8uLnB3bKQvDnHQko5o) | [Crossfire](https://open.spotify.com/album/3DOZibhKgdUYQ9qBzQcO5w) | 3:28 | 2021-11-19 | 2022-01-08 |
 | [Cyanide](https://open.spotify.com/track/37iVjhBGNBnxVSuF67TX0H) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9), [JT Roach](https://open.spotify.com/artist/5CtI0OHj5x6rHQDqpM4JPy) | [MINDFULL](https://open.spotify.com/album/7sS3QPN6balmYBP3JPvjMb) | 3:06 | 2025-08-29 |  |
 | [Damage](https://open.spotify.com/track/4uwscfpPs3qMpswueaKISw) | [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1), [DJ DIESEL](https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [Damage](https://open.spotify.com/album/1nYaZZovs0DuMxyYn79XP9) | 3:15 | 2025-02-07 | 2025-07-01 |
@@ -113,6 +113,7 @@
 | [Dominator](https://open.spotify.com/track/6C9beIn45G34tT8pQ61ed7) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Deadcrow](https://open.spotify.com/artist/4ufkY8hmhmYl4aCnzv3dLE) | [Dominator](https://open.spotify.com/album/1eiskSKjqbbok3hyM9j5hT) | 2:53 | 2025-11-21 |  |
 | [Don't Look Back](https://open.spotify.com/track/43HrWjjYGP8kXqjThk618V) | [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [MOELLE](https://open.spotify.com/artist/11yQZ1YJaQopAkKdRFEL4O) | [Don't Look Back](https://open.spotify.com/album/3kWl8jchAKeK2VoT2sw1cZ) | 3:58 | 2022-01-07 | 2022-07-29 |
 | [Don’t You](https://open.spotify.com/track/22KuNvUTXHXMWVTAHOVA5g) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ) | [Don’t You](https://open.spotify.com/album/1GqED9CbRT7TaDrnX0zVq6) | 3:36 | 2021-11-19 | 2022-01-08 |
+| [Doomsday](https://open.spotify.com/track/3Vk3AcdGJRwzgtjnRQUcqQ) | [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq) | [Doomsday](https://open.spotify.com/album/4CaivjK6B36PMmfcBZxklC) | 3:32 | 2025-11-21 |  |
 | [DOPE](https://open.spotify.com/track/4kfJjBolZLPkfDxRYbibf7) | [4B](https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4), [NvrLeft](https://open.spotify.com/artist/2OL86NTb076d9B6laTqWKs) | [DOPE](https://open.spotify.com/album/5VucFyBylOUBIWGJLIoryY) | 2:45 | 2021-11-19 | 2022-01-08 |
 | [Dream State](https://open.spotify.com/track/1UjKSiQCcL6j4pvLBJDjXn) | [FrostTop](https://open.spotify.com/artist/6T9vLiLn2HpWHNaaEajGB4) | [Dream State](https://open.spotify.com/album/2enXCPdEfvakhOYgXoRrFK) | 3:22 | 2021-11-19 | 2022-01-08 |
 | [Drown](https://open.spotify.com/track/3oh96zFJQ3wDLW9hv0pDKQ) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K) | [Drown](https://open.spotify.com/album/36rLDnmL9b3aCdKv1aixd8) | 2:40 | 2025-03-07 | 2025-07-11 |

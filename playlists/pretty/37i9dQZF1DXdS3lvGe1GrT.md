@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Beryl
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,494 likes - 150 songs - 8 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,513 likes - 150 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 149 | [bluebird](https://open.spotify.com/track/6ORmNEQrvN0qhPYg1ZKeNj) | [dog eyes](https://open.spotify.com/artist/4LfvbRzg2KRaJbr5Nw2yOc) | [bluebird](https://open.spotify.com/album/0n5VGeSREzMgtPj4yMUN22) | 2:26 |
 | 150 | [the world was big when i was small](https://open.spotify.com/track/3VCJtAMkNkrS1raVz6zOzY) | [earth 2 tiffany](https://open.spotify.com/artist/49Kb8axpqkIvmmYbL5Y4Qi) | [the world was big when i was small](https://open.spotify.com/album/6UfkyKhbccPtJHu0e6QHKp) | 3:05 |
 
-Snapshot ID: `AAAAAKzQA6tqdBB+nBtcXx5106m6zvnb`
+Snapshot ID: `AAAAANnS+lTtEIoNX35bLWkdykVE04JW`

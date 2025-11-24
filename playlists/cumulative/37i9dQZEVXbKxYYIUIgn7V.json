@@ -512,7 +512,7 @@
       ],
       "date_added": "2025-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-23",
+      "date_removed": null,
       "duration_ms": 145906,
       "name": "1999 Pt. 6 (Gabriel vs. Luzifer)",
       "url": "https://open.spotify.com/track/7eksUI2XbDxcT1CHSXDyPb"
@@ -1988,7 +1988,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 198199,
       "name": "Ain't My Problem",
       "url": "https://open.spotify.com/track/1s8kwEysRcSGPZC4Eg12By"
@@ -20638,7 +20638,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-12",
+      "date_removed": null,
       "duration_ms": 173052,
       "name": "Hotel Room",
       "url": "https://open.spotify.com/track/2JvmvxYvYTijGMCpiulS3N"
@@ -21401,6 +21401,28 @@
     },
     {
       "album": {
+        "name": "I Run",
+        "url": "https://open.spotify.com/album/6gePAokYlEquPQ4LDVc1ri"
+      },
+      "artists": [
+        {
+          "name": "HAVEN.",
+          "url": "https://open.spotify.com/artist/7ouEqUl1PCVPlNninecdcz"
+        },
+        {
+          "name": "Kaitlin Aragon",
+          "url": "https://open.spotify.com/artist/29G5je6tT7As2ZFY72CdXs"
+        }
+      ],
+      "date_added": "2025-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129565,
+      "name": "I Run",
+      "url": "https://open.spotify.com/track/1WwQ714xuznu44tEnkem2g"
+    },
+    {
+      "album": {
         "name": "I Run - Zara House",
         "url": "https://open.spotify.com/album/2jmwHs0U90a9zcIjoSZLvO"
       },
@@ -21452,6 +21474,24 @@
       "duration_ms": 193573,
       "name": "I Think They Call This Love",
       "url": "https://open.spotify.com/track/4oHQ8n9OKQ3599e8noCrDX"
+    },
+    {
+      "album": {
+        "name": "I Want Things to Be Beautiful",
+        "url": "https://open.spotify.com/album/6BUncqeU2tGNTouj7DZCWH"
+      },
+      "artists": [
+        {
+          "name": "Devi McCallion",
+          "url": "https://open.spotify.com/artist/6i1PYODUPDYMtaK8QCGE9I"
+        }
+      ],
+      "date_added": "2025-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106860,
+      "name": "I Want Things to Be Beautiful",
+      "url": "https://open.spotify.com/track/2o4kFMrOGhXwdpKd2ZUaKs"
     },
     {
       "album": {
@@ -28398,7 +28438,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 126930,
       "name": "MAMI",
       "url": "https://open.spotify.com/track/1OsqxSWKQR1WnsLwMw1N2l"
@@ -28562,7 +28602,7 @@
       ],
       "date_added": "2025-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 169800,
       "name": "Mann im Spiegel",
       "url": "https://open.spotify.com/track/1BE3EIYISnygOwhIvoCRs4"
@@ -35944,7 +35984,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 219743,
       "name": "Raindance (feat. Tems)",
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
@@ -43590,7 +43630,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 226073,
       "name": "The Fate of Ophelia",
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
@@ -45112,6 +45152,24 @@
       "duration_ms": 228266,
       "name": "Type Shit",
       "url": "https://open.spotify.com/track/28drn6tQo95MRvO0jQEo5C"
+    },
+    {
+      "album": {
+        "name": "K\u00fcnstlicher Sommer",
+        "url": "https://open.spotify.com/album/6VzyGx1p6FfnWQp577i7f3"
+      },
+      "artists": [
+        {
+          "name": "Karas",
+          "url": "https://open.spotify.com/artist/1ynS2464SzpAqUaBkAsbck"
+        }
+      ],
+      "date_added": "2025-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148138,
+      "name": "T\u00f6rke",
+      "url": "https://open.spotify.com/track/4nKc4fkTyBxHnrh8CWH6fj"
     },
     {
       "album": {
@@ -48634,10 +48692,32 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 177111,
       "name": "WILDFIRE",
       "url": "https://open.spotify.com/track/1dpB1jrziyaczTQvvz8du1"
+    },
+    {
+      "album": {
+        "name": "WILDFIRE",
+        "url": "https://open.spotify.com/album/7jMjJU3zekjMQEDY15qGHB"
+      },
+      "artists": [
+        {
+          "name": "FUZION",
+          "url": "https://open.spotify.com/artist/6Onz7lRkfK9vCyZDEKoFmB"
+        },
+        {
+          "name": "Zeli",
+          "url": "https://open.spotify.com/artist/76XUcSGE6JZ8pbCxnBd1iz"
+        }
+      ],
+      "date_added": "2025-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177111,
+      "name": "WILDFIRE",
+      "url": "https://open.spotify.com/track/6xxnwhLLbwoLzw9znCjLDL"
     },
     {
       "album": {
@@ -49116,7 +49196,7 @@
       ],
       "date_added": "2025-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 169974,
       "name": "Writing's On The Wall",
       "url": "https://open.spotify.com/track/4mDTqEqt0QHQFPNkz8eHjr"
@@ -50694,6 +50774,24 @@
       "duration_ms": 170675,
       "name": "\u0415\u0441\u0435\u043d\u0438\u043d",
       "url": "https://open.spotify.com/track/0mM9pAcHb228EyEgDtdJZb"
+    },
+    {
+      "album": {
+        "name": "\u041d\u0430 \u043c\u0443\u0440\u043c\u0443\u043b\u044f\u0445",
+        "url": "https://open.spotify.com/album/3uJ2Bvb2HrrRL8EzNoQizJ"
+      },
+      "artists": [
+        {
+          "name": "\u042d\u0442\u043e \u0420\u0430\u0434\u0438\u043e",
+          "url": "https://open.spotify.com/artist/4ub4NOi0oclhtW5XbKkIF5"
+        }
+      ],
+      "date_added": "2025-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146017,
+      "name": "\u041d\u0430 \u043c\u0443\u0440\u043c\u0443\u043b\u044f\u0445",
+      "url": "https://open.spotify.com/track/4tOvwbFoMJnQpg0YuFWbyj"
     },
     {
       "album": {

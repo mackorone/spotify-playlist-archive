@@ -1,6 +1,6 @@
 {
   "description": "Where afrobeats meets amapiano.\nCover:  Monaky",
-  "num_followers": 78264,
+  "num_followers": 78299,
   "original_name": "afro-piano",
   "owner": {
     "name": "Spotify",
@@ -283,6 +283,22 @@
     {
       "added_at": "2025-11-21 01:59:14",
       "album": {
+        "name": "HOW ARE YOU",
+        "url": "https://open.spotify.com/album/1teBLhL3UsOfKJtMTntTvs"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 158446,
+      "name": "HOW ARE YOU",
+      "url": "https://open.spotify.com/track/3RtoMZxgC3lpyfxmZ29Rpu"
+    },
+    {
+      "added_at": "2025-11-21 01:59:14",
+      "album": {
         "name": "Dangbana Riddim",
         "url": "https://open.spotify.com/album/0xDIG4BwF9QgxdKVNwee9D"
       },
@@ -299,6 +315,22 @@
       "duration_ms": 160587,
       "name": "Dangbana Riddim",
       "url": "https://open.spotify.com/track/07eJSSPcNlkR34wVlkrCcY"
+    },
+    {
+      "added_at": "2025-11-21 01:59:14",
+      "album": {
+        "name": "WHY LOVE",
+        "url": "https://open.spotify.com/album/5bQKiaMHTdJcn4fxPs9MCk"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "WHY LOVE",
+      "url": "https://open.spotify.com/track/4uLBwGnr1U3ctcDZrnVEgK"
     },
     {
       "added_at": "2025-11-21 01:59:14",
@@ -375,38 +407,6 @@
     {
       "added_at": "2025-11-21 01:59:14",
       "album": {
-        "name": "HOW ARE YOU",
-        "url": "https://open.spotify.com/album/1teBLhL3UsOfKJtMTntTvs"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 158446,
-      "name": "HOW ARE YOU",
-      "url": "https://open.spotify.com/track/3RtoMZxgC3lpyfxmZ29Rpu"
-    },
-    {
-      "added_at": "2025-11-21 01:59:14",
-      "album": {
-        "name": "WHY LOVE",
-        "url": "https://open.spotify.com/album/5bQKiaMHTdJcn4fxPs9MCk"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "WHY LOVE",
-      "url": "https://open.spotify.com/track/4uLBwGnr1U3ctcDZrnVEgK"
-    },
-    {
-      "added_at": "2025-11-21 01:59:14",
-      "album": {
         "name": "Escaladizzy",
         "url": "https://open.spotify.com/album/12X7eTRII9XQr1ZRDPfx5k"
       },
@@ -447,30 +447,6 @@
     {
       "added_at": "2025-11-21 01:59:14",
       "album": {
-        "name": "Para",
-        "url": "https://open.spotify.com/album/1UM6CkIqcgHX2xhEQz3csf"
-      },
-      "artists": [
-        {
-          "name": "XVI",
-          "url": "https://open.spotify.com/artist/0utiBmutysHdb0zXFCLMT2"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        }
-      ],
-      "duration_ms": 146125,
-      "name": "Para",
-      "url": "https://open.spotify.com/track/7AbI4k9HsEcBX115clkBct"
-    },
-    {
-      "added_at": "2025-11-21 01:59:14",
-      "album": {
         "name": "Happiness (feat. Asake & Gunna)",
         "url": "https://open.spotify.com/album/0D5fIo40wr5QpfUQ2l26vf"
       },
@@ -491,6 +467,30 @@
       "duration_ms": 174743,
       "name": "Happiness (feat. Asake & Gunna)",
       "url": "https://open.spotify.com/track/6rOqLUy3kp0PVQQEtNPpbQ"
+    },
+    {
+      "added_at": "2025-11-21 01:59:14",
+      "album": {
+        "name": "Para",
+        "url": "https://open.spotify.com/album/1UM6CkIqcgHX2xhEQz3csf"
+      },
+      "artists": [
+        {
+          "name": "XVI",
+          "url": "https://open.spotify.com/artist/0utiBmutysHdb0zXFCLMT2"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "duration_ms": 146125,
+      "name": "Para",
+      "url": "https://open.spotify.com/track/7AbI4k9HsEcBX115clkBct"
     },
     {
       "added_at": "2025-11-21 01:59:14",
@@ -535,6 +535,22 @@
       "duration_ms": 153523,
       "name": "Last Time",
       "url": "https://open.spotify.com/track/14nSbMQqRo1BxshIjprVDO"
+    },
+    {
+      "added_at": "2025-11-21 01:59:14",
+      "album": {
+        "name": "Mr. Money With The Vibe",
+        "url": "https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 153103,
+      "name": "Peace Be Unto You (PBUY)",
+      "url": "https://open.spotify.com/track/6ewsOjbC1jWAZcjAhVxDs0"
     },
     {
       "added_at": "2025-11-21 01:59:14",
@@ -587,22 +603,6 @@
       "duration_ms": 155789,
       "name": "Hello Hello",
       "url": "https://open.spotify.com/track/2Ee6WFlAauCqC241KOe4xq"
-    },
-    {
-      "added_at": "2025-11-21 01:59:14",
-      "album": {
-        "name": "Mr. Money With The Vibe",
-        "url": "https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 153103,
-      "name": "Peace Be Unto You (PBUY)",
-      "url": "https://open.spotify.com/track/6ewsOjbC1jWAZcjAhVxDs0"
     },
     {
       "added_at": "2025-11-21 01:59:14",
@@ -667,26 +667,6 @@
     {
       "added_at": "2025-11-21 01:59:14",
       "album": {
-        "name": "Fuji",
-        "url": "https://open.spotify.com/album/1CwSEtADXMks7OtJKKZh7J"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        },
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        }
-      ],
-      "duration_ms": 153684,
-      "name": "Love Is An Action",
-      "url": "https://open.spotify.com/track/4p5vOaWbhfLMdXmfHkPvEW"
-    },
-    {
-      "added_at": "2025-11-21 01:59:14",
-      "album": {
         "name": "ONE CALL",
         "url": "https://open.spotify.com/album/4jrDs3Kg7zJlgQnIZrZP8a"
       },
@@ -711,22 +691,6 @@
     {
       "added_at": "2025-11-21 01:59:14",
       "album": {
-        "name": "Shakespopi",
-        "url": "https://open.spotify.com/album/3DLGqqI7dfoKvk9EIpwpm4"
-      },
-      "artists": [
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
-        }
-      ],
-      "duration_ms": 172560,
-      "name": "100",
-      "url": "https://open.spotify.com/track/7g1KHFtfJF1Xhp3QNIoEfH"
-    },
-    {
-      "added_at": "2025-11-21 01:59:14",
-      "album": {
         "name": "11:11 (Deluxe)",
         "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
       },
@@ -743,6 +707,26 @@
       "duration_ms": 176503,
       "name": "Hmmm (feat. Davido)",
       "url": "https://open.spotify.com/track/2JfRd9fkzyZge8BZzs7aUI"
+    },
+    {
+      "added_at": "2025-11-21 01:59:14",
+      "album": {
+        "name": "Fuji",
+        "url": "https://open.spotify.com/album/1CwSEtADXMks7OtJKKZh7J"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "duration_ms": 153684,
+      "name": "Love Is An Action",
+      "url": "https://open.spotify.com/track/4p5vOaWbhfLMdXmfHkPvEW"
     },
     {
       "added_at": "2025-11-21 01:59:14",
@@ -787,22 +771,18 @@
     {
       "added_at": "2025-11-21 01:59:14",
       "album": {
-        "name": "Ring",
-        "url": "https://open.spotify.com/album/3rlRxf9KHAJ1OWjRbCQ5vg"
+        "name": "Shakespopi",
+        "url": "https://open.spotify.com/album/3DLGqqI7dfoKvk9EIpwpm4"
       },
       "artists": [
         {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        },
-        {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
         }
       ],
-      "duration_ms": 155866,
-      "name": "Ring",
-      "url": "https://open.spotify.com/track/1uREOYREV020F3QOGENSMI"
+      "duration_ms": 172560,
+      "name": "100",
+      "url": "https://open.spotify.com/track/7g1KHFtfJF1Xhp3QNIoEfH"
     },
     {
       "added_at": "2025-11-21 01:59:14",
@@ -823,6 +803,26 @@
       "duration_ms": 134237,
       "name": "WhatsApp",
       "url": "https://open.spotify.com/track/2DRHfIWD9Mg70QgTxAKn4m"
+    },
+    {
+      "added_at": "2025-11-21 01:59:14",
+      "album": {
+        "name": "Ring",
+        "url": "https://open.spotify.com/album/3rlRxf9KHAJ1OWjRbCQ5vg"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        },
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        }
+      ],
+      "duration_ms": 155866,
+      "name": "Ring",
+      "url": "https://open.spotify.com/track/1uREOYREV020F3QOGENSMI"
     },
     {
       "added_at": "2025-11-21 01:59:14",
@@ -883,22 +883,6 @@
     {
       "added_at": "2025-11-21 01:59:14",
       "album": {
-        "name": "I D R I S",
-        "url": "https://open.spotify.com/album/7wCBsfkkPKxSlxa5ivTB1w"
-      },
-      "artists": [
-        {
-          "name": "oSHAMO",
-          "url": "https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA"
-        }
-      ],
-      "duration_ms": 177103,
-      "name": "Magba",
-      "url": "https://open.spotify.com/track/7nO3P6A5TEYfUYXjDk5z5x"
-    },
-    {
-      "added_at": "2025-11-21 01:59:14",
-      "album": {
         "name": "RnB",
         "url": "https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 160885,
       "name": "Ilashe",
       "url": "https://open.spotify.com/track/1kW728xFsRBvunN1yiTsNf"
+    },
+    {
+      "added_at": "2025-11-21 01:59:14",
+      "album": {
+        "name": "I D R I S",
+        "url": "https://open.spotify.com/album/7wCBsfkkPKxSlxa5ivTB1w"
+      },
+      "artists": [
+        {
+          "name": "oSHAMO",
+          "url": "https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA"
+        }
+      ],
+      "duration_ms": 177103,
+      "name": "Magba",
+      "url": "https://open.spotify.com/track/7nO3P6A5TEYfUYXjDk5z5x"
     },
     {
       "added_at": "2025-11-21 01:59:14",
@@ -1207,6 +1207,26 @@
     {
       "added_at": "2025-11-21 01:59:14",
       "album": {
+        "name": "Jujupiano La Presido",
+        "url": "https://open.spotify.com/album/2KeqBy1snU9zaG9zz1ewgg"
+      },
+      "artists": [
+        {
+          "name": "Smur Lee",
+          "url": "https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A"
+        },
+        {
+          "name": "Richiemusic",
+          "url": "https://open.spotify.com/artist/6z955aeEwVArjBleLgPLwG"
+        }
+      ],
+      "duration_ms": 129231,
+      "name": "Jujupiano",
+      "url": "https://open.spotify.com/track/60Rdrz0jHgjziwqpMtgHCk"
+    },
+    {
+      "added_at": "2025-11-21 01:59:14",
+      "album": {
         "name": "Protect Sarz At All Costs",
         "url": "https://open.spotify.com/album/5h3RPX0SZMPQGz6Mwbly0h"
       },
@@ -1227,38 +1247,18 @@
     {
       "added_at": "2025-11-21 01:59:14",
       "album": {
-        "name": "Hi Hi",
-        "url": "https://open.spotify.com/album/6gmqGq8zHgE0ym1OImsxqt"
+        "name": "Be There Still",
+        "url": "https://open.spotify.com/album/5VcdmNX0QGqDLPscRygfeL"
       },
       "artists": [
         {
-          "name": "Smur Lee",
-          "url": "https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A"
-        },
-        {
-          "name": "Berri-Tiga",
-          "url": "https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB"
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         }
       ],
-      "duration_ms": 135941,
-      "name": "Hi Hi",
-      "url": "https://open.spotify.com/track/7udshzJFOOChc3pUehXDbf"
-    },
-    {
-      "added_at": "2025-11-21 01:59:14",
-      "album": {
-        "name": "My Brother",
-        "url": "https://open.spotify.com/album/3TWw68c6ry3uFzWsc6vZJd"
-      },
-      "artists": [
-        {
-          "name": "Kunmie",
-          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
-        }
-      ],
-      "duration_ms": 155575,
-      "name": "My Brother",
-      "url": "https://open.spotify.com/track/5qylaX9UellSaEdjvEz2sv"
+      "duration_ms": 195789,
+      "name": "Be There Still",
+      "url": "https://open.spotify.com/track/5hohPxxNfGRbW0PG2R0mhd"
     },
     {
       "added_at": "2025-11-21 01:59:14",
@@ -1279,18 +1279,46 @@
     {
       "added_at": "2025-11-21 01:59:14",
       "album": {
-        "name": "Be There Still",
-        "url": "https://open.spotify.com/album/5VcdmNX0QGqDLPscRygfeL"
+        "name": "W For Wetego (feat. Young Jonn, Phyno & DJ 808)",
+        "url": "https://open.spotify.com/album/5YU6EleyQUDHFaPUwaiGA4"
       },
       "artists": [
         {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        },
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        },
+        {
+          "name": "DJ 808",
+          "url": "https://open.spotify.com/artist/3SsrfKWSui6m0RYGGjP8Eg"
         }
       ],
-      "duration_ms": 195789,
-      "name": "Be There Still",
-      "url": "https://open.spotify.com/track/5hohPxxNfGRbW0PG2R0mhd"
+      "duration_ms": 217718,
+      "name": "W For Wetego (feat. Young Jonn, Phyno & DJ 808)",
+      "url": "https://open.spotify.com/track/7fJofn7Y6Uo7g8S4JRNr3m"
+    },
+    {
+      "added_at": "2025-11-21 01:59:14",
+      "album": {
+        "name": "My Brother",
+        "url": "https://open.spotify.com/album/3TWw68c6ry3uFzWsc6vZJd"
+      },
+      "artists": [
+        {
+          "name": "Kunmie",
+          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
+        }
+      ],
+      "duration_ms": 155575,
+      "name": "My Brother",
+      "url": "https://open.spotify.com/track/5qylaX9UellSaEdjvEz2sv"
     },
     {
       "added_at": "2025-11-21 01:59:14",
@@ -1331,54 +1359,6 @@
     {
       "added_at": "2025-11-21 01:59:14",
       "album": {
-        "name": "W For Wetego (feat. Young Jonn, Phyno & DJ 808)",
-        "url": "https://open.spotify.com/album/5YU6EleyQUDHFaPUwaiGA4"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        },
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        },
-        {
-          "name": "DJ 808",
-          "url": "https://open.spotify.com/artist/3SsrfKWSui6m0RYGGjP8Eg"
-        }
-      ],
-      "duration_ms": 217718,
-      "name": "W For Wetego (feat. Young Jonn, Phyno & DJ 808)",
-      "url": "https://open.spotify.com/track/7fJofn7Y6Uo7g8S4JRNr3m"
-    },
-    {
-      "added_at": "2025-11-21 01:59:14",
-      "album": {
-        "name": "Jujupiano La Presido",
-        "url": "https://open.spotify.com/album/2KeqBy1snU9zaG9zz1ewgg"
-      },
-      "artists": [
-        {
-          "name": "Smur Lee",
-          "url": "https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A"
-        },
-        {
-          "name": "Richiemusic",
-          "url": "https://open.spotify.com/artist/6z955aeEwVArjBleLgPLwG"
-        }
-      ],
-      "duration_ms": 129231,
-      "name": "Jujupiano",
-      "url": "https://open.spotify.com/track/60Rdrz0jHgjziwqpMtgHCk"
-    },
-    {
-      "added_at": "2025-11-21 01:59:14",
-      "album": {
         "name": "Ojapiano",
         "url": "https://open.spotify.com/album/1j2D58Awo2MGDL1nAwdF3e"
       },
@@ -1391,6 +1371,26 @@
       "duration_ms": 168421,
       "name": "Ojapiano",
       "url": "https://open.spotify.com/track/6WZVnqQ9OZRSGZmXyHHlV3"
+    },
+    {
+      "added_at": "2025-11-21 01:59:14",
+      "album": {
+        "name": "Hi Hi",
+        "url": "https://open.spotify.com/album/6gmqGq8zHgE0ym1OImsxqt"
+      },
+      "artists": [
+        {
+          "name": "Smur Lee",
+          "url": "https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A"
+        },
+        {
+          "name": "Berri-Tiga",
+          "url": "https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB"
+        }
+      ],
+      "duration_ms": 135941,
+      "name": "Hi Hi",
+      "url": "https://open.spotify.com/track/7udshzJFOOChc3pUehXDbf"
     },
     {
       "added_at": "2025-11-21 01:59:14",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2025-11-21 01:59:14",
       "album": {
-        "name": "Happy Day",
-        "url": "https://open.spotify.com/album/7cxmSJpET0841ZDTBy1zVz"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 165063,
-      "name": "Happy Day",
-      "url": "https://open.spotify.com/track/6x1R2hxbuFu8SfwnfuEddZ"
-    },
-    {
-      "added_at": "2025-11-21 01:59:14",
-      "album": {
         "name": "RnB",
         "url": "https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 175777,
       "name": "Party Monster",
       "url": "https://open.spotify.com/track/6XQ3ver8HQA5voTiXDk0xG"
+    },
+    {
+      "added_at": "2025-11-21 01:59:14",
+      "album": {
+        "name": "Happy Day",
+        "url": "https://open.spotify.com/album/7cxmSJpET0841ZDTBy1zVz"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 165063,
+      "name": "Happy Day",
+      "url": "https://open.spotify.com/track/6x1R2hxbuFu8SfwnfuEddZ"
     },
     {
       "added_at": "2025-11-21 01:59:14",
@@ -1563,26 +1563,18 @@
     {
       "added_at": "2025-11-21 01:59:14",
       "album": {
-        "name": "Afa Kennedy",
-        "url": "https://open.spotify.com/album/5q2Cvu4srKnEaGchcNW6hx"
+        "name": "Nack",
+        "url": "https://open.spotify.com/album/6AVdBuT0CI9wSTJhGBRO6d"
       },
       "artists": [
         {
-          "name": "Outsyd Eddie",
-          "url": "https://open.spotify.com/artist/34GVjsEo3lNh6lBfcg6cV8"
-        },
-        {
-          "name": "JNR ELDER",
-          "url": "https://open.spotify.com/artist/0UmWf1Lbo9fIxboAMdBxnx"
-        },
-        {
-          "name": "Outsyd DJ",
-          "url": "https://open.spotify.com/artist/0sc02G8bEK5K2jNeevd8II"
+          "name": "The Therapist",
+          "url": "https://open.spotify.com/artist/3rp5xD3dLZnUe7QnXxYrm2"
         }
       ],
-      "duration_ms": 156943,
-      "name": "Afa Kennedy",
-      "url": "https://open.spotify.com/track/1cPjMTC13YffZgEKpGjTTK"
+      "duration_ms": 169917,
+      "name": "Nack",
+      "url": "https://open.spotify.com/track/2o8AVV8YssDJKN6zqG20p1"
     }
   ],
   "unique_name": "afro-piano",

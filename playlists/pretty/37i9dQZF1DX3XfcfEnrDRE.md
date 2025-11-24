@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 
 > Songs representing Alternative music's ever\-evolving sound paired with these artists' everlasting faith\.  Cover: The Band JAREN
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,095 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,134 likes - 80 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 | 79 | [Death Where Is Your Sting?](https://open.spotify.com/track/4oImWy4YqYFSJa0wKFtBjq) | [Fresh Life Worship](https://open.spotify.com/artist/3lspjc5pri1bNeok8vsG5E) | [Death Where Is Your Sting?](https://open.spotify.com/album/3ELre2i1J4bdGRZqFGyvek) | 3:33 |
 | 80 | [No Greater Love](https://open.spotify.com/track/4ARfwrL2OHsmBBBg0AVqag) | [John Van Deusen](https://open.spotify.com/artist/6DLId1szBt6BlrTp5NELXK) | [As Long As I Am In The Tent of This Body I Will Make A Joyful Noise Pt\. 1](https://open.spotify.com/album/6rdN8JNF1tCmEMr1o5KS16) | 3:28 |
 
-Snapshot ID: `AAAAAE3JjPoIkNYRq+IZRUvNZJx/06GC`
+Snapshot ID: `AAAAANN3ht3x5U4dXXccCFTsMsbQECLt`

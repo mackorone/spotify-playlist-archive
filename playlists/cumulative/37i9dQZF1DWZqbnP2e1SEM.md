@@ -4,7 +4,7 @@
 
 > From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.
 
-510 songs - 1 day 3 hr 2 min
+511 songs - 1 day 3 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,7 +257,7 @@
 | [Let Him Go](https://open.spotify.com/track/2ir5RP1s9KMC8P6h1eMJsk) | [Denon Reed](https://open.spotify.com/artist/7uPcIYxrvLRWaL0xQU4TnE), [Cru2](https://open.spotify.com/artist/6uvHjbvYhxT5K481Ph53H1) | [Let Him Go](https://open.spotify.com/album/4kqyenhfePkTqSPqfPOOmg) | 2:24 | 2025-07-31 |  |
 | [Let Me Love You \- Club Mix](https://open.spotify.com/track/7EUIv0ygwh1Z10Km2z1Jbo) | [WEISS](https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB) | [Let Me Love You \(Club Mix\)](https://open.spotify.com/album/7ll9skDp7tYCUwUt5uFPd7) | 3:30 | 2021-07-09 | 2022-05-11 |
 | [LET'S GET FKD UP](https://open.spotify.com/track/0iB5f04XdJ2tcfhoVkeLV8) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Mondello'G](https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic), [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L) | [LET'S GET FKD UP \(feat\. Tribbs\)](https://open.spotify.com/album/1zz2cxnkEpgyLdSmoPBEjK) | 2:01 | 2024-05-16 | 2024-08-03 |
-| [LEVELS](https://open.spotify.com/track/55DwjFdPowTjzvukCzJEho) | [FUZION](https://open.spotify.com/artist/6Onz7lRkfK9vCyZDEKoFmB) | [LEVELS](https://open.spotify.com/album/6NY5wQbp6jqj4zODypYID9) | 3:18 | 2025-05-08 |  |
+| [LEVELS](https://open.spotify.com/track/55DwjFdPowTjzvukCzJEho) | [FUZION](https://open.spotify.com/artist/6Onz7lRkfK9vCyZDEKoFmB) | [LEVELS](https://open.spotify.com/album/6NY5wQbp6jqj4zODypYID9) | 3:18 | 2025-05-08 | 2025-11-24 |
 | [Levels \- Radio Edit](https://open.spotify.com/track/0JhKJg5ejeQ8jq89UQtnw8) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [Levels](https://open.spotify.com/album/4mkvtXQd6rD7zuAHhexEvb) | 3:19 | 2025-05-29 |  |
 | [Lies](https://open.spotify.com/track/0WWSJNzZ3GUXNMHkWj0Kno) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Lies](https://open.spotify.com/album/2hvJIyjOG3bn3hNRS2za58) | 3:16 | 2021-07-09 | 2022-07-29 |
 | [Life Goes On](https://open.spotify.com/track/15Vlfa18uD2w98YG5zX7Pb) | [PS1](https://open.spotify.com/artist/7bZGP9ijvv55LOENT634Mj), [Alex Hosking](https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9) | [Life Goes On](https://open.spotify.com/album/4gQ2RlVnWDZ61Y8fTJTap5) | 2:49 | 2021-07-09 | 2022-07-29 |
@@ -273,6 +273,7 @@
 | [Look Right Through \- MK Vocal Edit](https://open.spotify.com/track/2DyzYki95bDbkVNczAcQtz) | [Storm Queen](https://open.spotify.com/artist/0DgsuiMZylmPOYkrVOqNYQ), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Look Right Through \(MK Vocal Edit\)](https://open.spotify.com/album/0Per6mmtf5vym8ivbrQPVi) | 2:28 | 2021-07-09 | 2022-05-11 |
 | [Looking at Your Pager](https://open.spotify.com/track/0y6CoVW1ZSBqRmPbyfhFQs) | [KH](https://open.spotify.com/artist/7nwdEDnfgNpPhWQCXX3KSx) | [Looking at Your Pager](https://open.spotify.com/album/5ZiFsbS4RLFZVyJRN3Bmvz) | 2:54 | 2022-06-20 | 2024-07-27 |
 | [Lose Control](https://open.spotify.com/track/33VrQvOZ7dyytQV3xCMolM) | [Fallon](https://open.spotify.com/artist/73LVVE6OYOwlXlIJAFNJdR) | [Lose Control](https://open.spotify.com/album/7cBWx8QaTCXV08rgO2M8YN) | 3:06 | 2021-07-09 | 2022-07-29 |
+| [Lose Control](https://open.spotify.com/track/0vKM6pD1koHLvYzzI5gqNy) | [Omar+](https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc), [bullet tooth](https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC) | [Lose Control](https://open.spotify.com/album/2c8lk5exqABxO2NhHfKhX2) | 2:53 | 2025-08-28 |  |
 | [Lose You](https://open.spotify.com/track/7sFk2PA3NsrrSsGa4CM3rs) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [The London Sessions](https://open.spotify.com/album/6CIslPQSknp875cigkhKJC) | 2:28 | 2021-07-09 | 2022-04-29 |
 | [Losing It](https://open.spotify.com/track/386fLFRee3HNK6MsYXURi3) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Losing It](https://open.spotify.com/album/3ubKnqq2qqCAgr8iW17zxl) | 4:08 | 2025-05-08 | 2025-08-01 |
 | [Lost Myself Again](https://open.spotify.com/track/1uRkLJG9sdMFIB8Hb18uGx) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [Lost Myself Again](https://open.spotify.com/album/1h5Xisd09gC9H641NaRwaY) | 2:52 | 2022-05-10 | 2024-06-14 |

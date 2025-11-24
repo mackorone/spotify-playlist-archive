@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 227 likes - 3,625 songs - 7 day 23 hr 34 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 228 likes - 3,627 songs - 7 day 23 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -3633,5 +3633,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 3623 | [Sally Feels Bad](https://open.spotify.com/track/1TENNU3Fu2aRkdenYTS4ty) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [Sally Feels Bad](https://open.spotify.com/album/0peasiPlPgIQzH5gHBJsRa) | 3:01 |
 | 3624 | [Forever 2](https://open.spotify.com/track/5fF3AiCMkUeqEIl9C1p9PL) | [Ash](https://open.spotify.com/artist/1oNJRkVDb7UEvRpPp4rNff) | [Don \(Deluxe Edition\)](https://open.spotify.com/album/6MibEnOr23j05OsCcR8UJB) | 2:51 |
 | 3625 | [Сказка, милая сказка](https://open.spotify.com/track/43bdnp7HlUWMWZRg6j0A4s) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Сказка, милая сказка](https://open.spotify.com/album/1hbYA2nWzZL8IgiqE9uVpv) | 4:31 |
+| 3626 | [Me](https://open.spotify.com/track/1x9os7V76PbeskTgo25YkE) | [Mirror Vain](https://open.spotify.com/artist/5492DtDN9DpYNYTNeRh3g7) | [Me](https://open.spotify.com/album/3xQKo4WKYsPDzNWneFEht1) | 2:42 |
+| 3627 | [Chasing smiles](https://open.spotify.com/track/2hQKzZPnnA9CI2cFeuQ2wV) | [Mirror Vain](https://open.spotify.com/artist/5492DtDN9DpYNYTNeRh3g7) | [Chasing smiles](https://open.spotify.com/album/4FPGa1g6QeaJufbj0jnXcS) | 4:00 |
 
-Snapshot ID: `AAAGEvZ0AnNXstyOfKduuopk2qw2qVnX`
+Snapshot ID: `AAAGFF8irvfcwHTjUR2t1Q2/4UdKG2Wt`

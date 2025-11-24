@@ -1,6 +1,6 @@
 {
   "description": "The soulful tunes to ease you into your day. Cover: Samm Henshaw",
-  "num_followers": 788398,
+  "num_followers": 788487,
   "original_name": "Soul Coffee",
   "owner": {
     "name": "Spotify",
@@ -1797,6 +1797,22 @@
       "url": "https://open.spotify.com/track/33w29FnS86hDdKZrDN3Cmc"
     },
     {
+      "added_at": "2024-09-13 09:22:53",
+      "album": {
+        "name": "The Love Is Gone",
+        "url": "https://open.spotify.com/album/6H4z12zavQ8N20DKCH257j"
+      },
+      "artists": [
+        {
+          "name": "Jamilah Barry",
+          "url": "https://open.spotify.com/artist/2XSaBoykurbHLXS5WwDewv"
+        }
+      ],
+      "duration_ms": 199732,
+      "name": "The Love Is Gone",
+      "url": "https://open.spotify.com/track/4wCKB3BbfuPItNfp0yCg3k"
+    },
+    {
       "added_at": "2024-06-07 12:35:37",
       "album": {
         "name": "TIMELESS",
@@ -1831,22 +1847,6 @@
       "duration_ms": 144000,
       "name": "Can I Call You Rose? - Cover",
       "url": "https://open.spotify.com/track/2xJ1NpJ5S69lY317IQ37q5"
-    },
-    {
-      "added_at": "2024-09-13 09:22:53",
-      "album": {
-        "name": "The Love Is Gone",
-        "url": "https://open.spotify.com/album/6H4z12zavQ8N20DKCH257j"
-      },
-      "artists": [
-        {
-          "name": "Jamilah Barry",
-          "url": "https://open.spotify.com/artist/2XSaBoykurbHLXS5WwDewv"
-        }
-      ],
-      "duration_ms": 199732,
-      "name": "The Love Is Gone",
-      "url": "https://open.spotify.com/track/4wCKB3BbfuPItNfp0yCg3k"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -2077,20 +2077,20 @@
       "url": "https://open.spotify.com/track/3QLYMOcolTK2pn7D0aA94M"
     },
     {
-      "added_at": "2025-05-09 04:00:23",
+      "added_at": "2025-11-07 07:43:36",
       "album": {
-        "name": "My Way",
-        "url": "https://open.spotify.com/album/3VBondIyQLQMKAOCEPKoRO"
+        "name": "Make Me Feel",
+        "url": "https://open.spotify.com/album/6pZglm4JbKCzcDmSyDPObU"
       },
       "artists": [
         {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+          "name": "SABRI",
+          "url": "https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5"
         }
       ],
-      "duration_ms": 213393,
-      "name": "My Way",
-      "url": "https://open.spotify.com/track/7v98cyeI1bIR2kCoRuoaWG"
+      "duration_ms": 183499,
+      "name": "Make Me Feel",
+      "url": "https://open.spotify.com/track/6mnZghSd48G0jM5f2FF47p"
     },
     {
       "added_at": "2025-11-07 07:43:36",
@@ -2117,20 +2117,20 @@
       "url": "https://open.spotify.com/track/1qVwvsoPI8prmUjoIW6DV2"
     },
     {
-      "added_at": "2025-11-07 07:43:36",
+      "added_at": "2025-05-09 04:00:23",
       "album": {
-        "name": "Make Me Feel",
-        "url": "https://open.spotify.com/album/6pZglm4JbKCzcDmSyDPObU"
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/3VBondIyQLQMKAOCEPKoRO"
       },
       "artists": [
         {
-          "name": "SABRI",
-          "url": "https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5"
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
         }
       ],
-      "duration_ms": 183499,
-      "name": "Make Me Feel",
-      "url": "https://open.spotify.com/track/6mnZghSd48G0jM5f2FF47p"
+      "duration_ms": 213393,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/7v98cyeI1bIR2kCoRuoaWG"
     },
     {
       "added_at": "2025-02-28 17:58:06",
@@ -2257,6 +2257,38 @@
       "url": "https://open.spotify.com/track/4VXxMNuT0hEzRL4R4YA7Ib"
     },
     {
+      "added_at": "2025-11-14 12:04:27",
+      "album": {
+        "name": "It Ain't Easy",
+        "url": "https://open.spotify.com/album/2o37O88rBfov877yx4SqGc"
+      },
+      "artists": [
+        {
+          "name": "HILLARI",
+          "url": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "It Ain't Easy",
+      "url": "https://open.spotify.com/track/3KhuRm5r30KMJ3E99adaIy"
+    },
+    {
+      "added_at": "2025-04-04 04:28:33",
+      "album": {
+        "name": "Ms. Goody Two Shoes",
+        "url": "https://open.spotify.com/album/2wXE2aphd1Rah3fbrUIGfV"
+      },
+      "artists": [
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        }
+      ],
+      "duration_ms": 182741,
+      "name": "Ms. Goody Two Shoes",
+      "url": "https://open.spotify.com/track/7eiY7TxrwFgWEYPmbwnbTP"
+    },
+    {
       "added_at": "2024-08-30 05:27:28",
       "album": {
         "name": "SOS (Sex on Sight) (feat. USHER)",
@@ -2275,22 +2307,6 @@
       "duration_ms": 265057,
       "name": "SOS (Sex on Sight) (feat. USHER)",
       "url": "https://open.spotify.com/track/2iNMrWUMlqf03NrHCQZY71"
-    },
-    {
-      "added_at": "2025-04-04 04:28:33",
-      "album": {
-        "name": "Ms. Goody Two Shoes",
-        "url": "https://open.spotify.com/album/2wXE2aphd1Rah3fbrUIGfV"
-      },
-      "artists": [
-        {
-          "name": "Alex Isley",
-          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
-        }
-      ],
-      "duration_ms": 182741,
-      "name": "Ms. Goody Two Shoes",
-      "url": "https://open.spotify.com/track/7eiY7TxrwFgWEYPmbwnbTP"
     },
     {
       "added_at": "2024-05-17 07:14:12",
@@ -2325,22 +2341,6 @@
       "url": "https://open.spotify.com/track/1kJK2dkXbMw8yOMFEuJUm7"
     },
     {
-      "added_at": "2025-11-14 12:04:27",
-      "album": {
-        "name": "It Ain't Easy",
-        "url": "https://open.spotify.com/album/2o37O88rBfov877yx4SqGc"
-      },
-      "artists": [
-        {
-          "name": "HILLARI",
-          "url": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "It Ain't Easy",
-      "url": "https://open.spotify.com/track/3KhuRm5r30KMJ3E99adaIy"
-    },
-    {
       "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Simply Beautiful",
@@ -2355,22 +2355,6 @@
       "duration_ms": 258000,
       "name": "Simply Beautiful",
       "url": "https://open.spotify.com/track/4nYMxYwlymkLGpP1nBtkJV"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "JAGUAR II",
-        "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        }
-      ],
-      "duration_ms": 216436,
-      "name": "How Does It Make You Feel",
-      "url": "https://open.spotify.com/track/3TLUPabatqnokgoZdfXUAV"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -2405,6 +2389,22 @@
       "url": "https://open.spotify.com/track/57RooQ9JBP9uDXHe4zznY4"
     },
     {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "JAGUAR II",
+        "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 216436,
+      "name": "How Does It Make You Feel",
+      "url": "https://open.spotify.com/track/3TLUPabatqnokgoZdfXUAV"
+    },
+    {
       "added_at": "2024-11-15 07:05:31",
       "album": {
         "name": "alone",
@@ -2437,22 +2437,6 @@
       "url": "https://open.spotify.com/track/1UVJBB4QLQ6Wpuvtzp54YW"
     },
     {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "JAGUAR II",
-        "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        }
-      ],
-      "duration_ms": 250434,
-      "name": "Good Bye",
-      "url": "https://open.spotify.com/track/0f1ZaAkynbxc1JYf151zKI"
-    },
-    {
       "added_at": "2025-04-25 07:19:25",
       "album": {
         "name": "Why Not More?",
@@ -2483,6 +2467,22 @@
       "duration_ms": 147825,
       "name": "Need Nothing",
       "url": "https://open.spotify.com/track/42f3EU5xToR3O4VlIRGfC9"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "JAGUAR II",
+        "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 250434,
+      "name": "Good Bye",
+      "url": "https://open.spotify.com/track/0f1ZaAkynbxc1JYf151zKI"
     },
     {
       "added_at": "2025-01-17 07:25:43",
@@ -2621,26 +2621,6 @@
       "url": "https://open.spotify.com/track/4A3vbpwHYmbU8wXBXGdew1"
     },
     {
-      "added_at": "2025-01-31 08:39:29",
-      "album": {
-        "name": "been a minute",
-        "url": "https://open.spotify.com/album/1t85pHIFaVr6q6jeF3nN0p"
-      },
-      "artists": [
-        {
-          "name": "Lily Agnes",
-          "url": "https://open.spotify.com/artist/4IUeaOPbT87IitbB4LIsLJ"
-        },
-        {
-          "name": "Gareth Donkin",
-          "url": "https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "been a minute",
-      "url": "https://open.spotify.com/track/6p726bJa2dr85y1Ze8EzSi"
-    },
-    {
       "added_at": "2025-06-06 06:28:23",
       "album": {
         "name": "I Forgive You",
@@ -2671,6 +2651,26 @@
       "duration_ms": 331279,
       "name": "ARRIVAL",
       "url": "https://open.spotify.com/track/5YW1ogBh5zcTxI801wdBD0"
+    },
+    {
+      "added_at": "2025-01-31 08:39:29",
+      "album": {
+        "name": "been a minute",
+        "url": "https://open.spotify.com/album/1t85pHIFaVr6q6jeF3nN0p"
+      },
+      "artists": [
+        {
+          "name": "Lily Agnes",
+          "url": "https://open.spotify.com/artist/4IUeaOPbT87IitbB4LIsLJ"
+        },
+        {
+          "name": "Gareth Donkin",
+          "url": "https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "been a minute",
+      "url": "https://open.spotify.com/track/6p726bJa2dr85y1Ze8EzSi"
     }
   ],
   "unique_name": "Soul Coffee",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Hannah Jane Lewis, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,096 likes - 206 songs - 11 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,113 likes - 206 songs - 11 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

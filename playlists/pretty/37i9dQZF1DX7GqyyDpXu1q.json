@@ -1,6 +1,6 @@
 {
   "description": "Modern southern rock swagger served neat. Cover: Mark Morton",
-  "num_followers": 92813,
+  "num_followers": 92819,
   "original_name": "Southern Comfort",
   "owner": {
     "name": "Spotify",
@@ -895,46 +895,6 @@
     {
       "added_at": "2025-04-21 21:56:35",
       "album": {
-        "name": "Holy Ghost (feat. Jon Harvey [Monster Truck])",
-        "url": "https://open.spotify.com/album/03EAJNTCPNeCynFUhUrgye"
-      },
-      "artists": [
-        {
-          "name": "The Picturebooks",
-          "url": "https://open.spotify.com/artist/5L8u4AcYBOnxAtRrluOjKo"
-        },
-        {
-          "name": "Jon Harvey",
-          "url": "https://open.spotify.com/artist/2zYl9bqiHYkqxIcrkJE4WN"
-        },
-        {
-          "name": "Monster Truck",
-          "url": "https://open.spotify.com/artist/0slSgjqTuj6hcod6IcG6zu"
-        }
-      ],
-      "duration_ms": 220480,
-      "name": "Holy Ghost (feat. Jon Harvey [Monster Truck])",
-      "url": "https://open.spotify.com/track/7CaZXMfKtmBwTXqz9fZQEC"
-    },
-    {
-      "added_at": "2025-04-21 21:56:35",
-      "album": {
-        "name": "Break My Heart",
-        "url": "https://open.spotify.com/album/1wOvsBCKijqgU7cFkkDHOq"
-      },
-      "artists": [
-        {
-          "name": "Them Dirty Roses",
-          "url": "https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6"
-        }
-      ],
-      "duration_ms": 254082,
-      "name": "Break My Heart",
-      "url": "https://open.spotify.com/track/3njCj24qFzep7tAhiJSYTZ"
-    },
-    {
-      "added_at": "2025-04-21 21:56:35",
-      "album": {
         "name": "In Your Hands (feat. Don Miggs and Zane Carney)",
         "url": "https://open.spotify.com/album/1EYgsan8PK3XiINKNSO4ht"
       },
@@ -955,6 +915,46 @@
       "duration_ms": 233250,
       "name": "In Your Hands (feat. Don Miggs and Zane Carney)",
       "url": "https://open.spotify.com/track/07Rr3g9Gl2zPJd8flMxLAL"
+    },
+    {
+      "added_at": "2025-04-21 21:56:35",
+      "album": {
+        "name": "Break My Heart",
+        "url": "https://open.spotify.com/album/1wOvsBCKijqgU7cFkkDHOq"
+      },
+      "artists": [
+        {
+          "name": "Them Dirty Roses",
+          "url": "https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6"
+        }
+      ],
+      "duration_ms": 254082,
+      "name": "Break My Heart",
+      "url": "https://open.spotify.com/track/3njCj24qFzep7tAhiJSYTZ"
+    },
+    {
+      "added_at": "2025-04-21 21:56:35",
+      "album": {
+        "name": "Holy Ghost (feat. Jon Harvey [Monster Truck])",
+        "url": "https://open.spotify.com/album/03EAJNTCPNeCynFUhUrgye"
+      },
+      "artists": [
+        {
+          "name": "The Picturebooks",
+          "url": "https://open.spotify.com/artist/5L8u4AcYBOnxAtRrluOjKo"
+        },
+        {
+          "name": "Jon Harvey",
+          "url": "https://open.spotify.com/artist/2zYl9bqiHYkqxIcrkJE4WN"
+        },
+        {
+          "name": "Monster Truck",
+          "url": "https://open.spotify.com/artist/0slSgjqTuj6hcod6IcG6zu"
+        }
+      ],
+      "duration_ms": 220480,
+      "name": "Holy Ghost (feat. Jon Harvey [Monster Truck])",
+      "url": "https://open.spotify.com/track/7CaZXMfKtmBwTXqz9fZQEC"
     },
     {
       "added_at": "2025-04-21 21:56:35",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2025-04-21 21:56:35",
       "album": {
+        "name": "First High",
+        "url": "https://open.spotify.com/album/0YseQ6nyHkM8ZZjqbnNChs"
+      },
+      "artists": [
+        {
+          "name": "Nikki Lane",
+          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
+        }
+      ],
+      "duration_ms": 187867,
+      "name": "First High",
+      "url": "https://open.spotify.com/track/4WG91Pt9MkJs5gMHZECKfZ"
+    },
+    {
+      "added_at": "2025-04-21 21:56:35",
+      "album": {
         "name": "Lady Mine (feat. Chad Kroeger)",
         "url": "https://open.spotify.com/album/3bTZjLUpO6FQ8RXlHM9SC7"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 195856,
       "name": "Savage",
       "url": "https://open.spotify.com/track/4wQOoSjqkdLbfSuYYoGsuv"
-    },
-    {
-      "added_at": "2025-04-21 21:56:35",
-      "album": {
-        "name": "Heavy Soul",
-        "url": "https://open.spotify.com/album/3OvB15dImXdgGbmn3ew162"
-      },
-      "artists": [
-        {
-          "name": "David Shaw",
-          "url": "https://open.spotify.com/artist/6CzswKAZkHvgH3qu6wqkHe"
-        }
-      ],
-      "duration_ms": 182689,
-      "name": "Heavy Soul",
-      "url": "https://open.spotify.com/track/5qwc4qqv0CHfbJN6byvExp"
     }
   ],
   "unique_name": "Southern Comfort",

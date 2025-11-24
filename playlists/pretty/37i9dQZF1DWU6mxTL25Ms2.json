@@ -1,6 +1,6 @@
 {
   "description": "Enjoy music from \"\nUmamusume: Pretty Derby! \u00a9 Cygames, Inc.",
-  "num_followers": 54863,
+  "num_followers": 54916,
   "original_name": "Umamusume: Pretty Derby",
   "owner": {
     "name": "Spotify",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2025-10-08 02:32:53",
       "album": {
-        "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 05",
-        "url": "https://open.spotify.com/album/20ZzGezmzDKqZ9UsAgHWsJ"
-      },
-      "artists": [
-        {
-          "name": "Various Artists",
-          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
-        }
-      ],
-      "duration_ms": 304920,
-      "name": "We are DREAMERS!!",
-      "url": "https://open.spotify.com/track/2mViOFg8N1olmZsSa9vi8j"
-    },
-    {
-      "added_at": "2025-10-08 02:32:53",
-      "album": {
         "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 01",
         "url": "https://open.spotify.com/album/4JMtKXFI7ExDM6gzYxdwxH"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 224666,
       "name": "\u672c\u80fd\u30b9\u30d4\u30fc\u30c9",
       "url": "https://open.spotify.com/track/73cEilZ9po5jqiQk6ICPNX"
+    },
+    {
+      "added_at": "2025-10-08 02:32:53",
+      "album": {
+        "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 05",
+        "url": "https://open.spotify.com/album/20ZzGezmzDKqZ9UsAgHWsJ"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "duration_ms": 304920,
+      "name": "We are DREAMERS!!",
+      "url": "https://open.spotify.com/track/2mViOFg8N1olmZsSa9vi8j"
     },
     {
       "added_at": "2025-10-08 02:32:53",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2025-10-08 02:32:53",
       "album": {
+        "name": "\u30b9\u30de\u30db\u30b2\u30fc\u30e0\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fSTARTING GATE 01 (2021 Remastered Version)",
+        "url": "https://open.spotify.com/album/1YvIPbEswjzNJcTBD1S5EA"
+      },
+      "artists": [
+        {
+          "name": "\u30c8\u30a6\u30ab\u30a4\u30c6\u30a4\u30aa\u30fc (CV. Machico)",
+          "url": "https://open.spotify.com/artist/4iZfTlw1wAe7i8If4Bku1O"
+        }
+      ],
+      "duration_ms": 291373,
+      "name": "\u604b\u306f\u30c0\u30fc\u30d3\u30fc\u2606 - 2021 Remastered Version",
+      "url": "https://open.spotify.com/track/2sR0LFbq4rPjtOV06qaboK"
+    },
+    {
+      "added_at": "2025-10-08 02:32:53",
+      "album": {
         "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 10",
         "url": "https://open.spotify.com/album/44DkZW1QqvvagMtMDCQtl4"
       },
@@ -1535,18 +1551,26 @@
     {
       "added_at": "2025-10-08 02:32:53",
       "album": {
-        "name": "\u30b9\u30de\u30db\u30b2\u30fc\u30e0\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fSTARTING GATE 01 (2021 Remastered Version)",
-        "url": "https://open.spotify.com/album/1YvIPbEswjzNJcTBD1S5EA"
+        "name": "\u30b9\u30de\u30db\u30b2\u30fc\u30e0\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fSTARTING GATE 02 (2021 Remastered Version)",
+        "url": "https://open.spotify.com/album/6Jxt4fzFmb8mF5Cp93Lghx"
       },
       "artists": [
         {
-          "name": "\u30c8\u30a6\u30ab\u30a4\u30c6\u30a4\u30aa\u30fc (CV. Machico)",
-          "url": "https://open.spotify.com/artist/4iZfTlw1wAe7i8If4Bku1O"
+          "name": "\u30de\u30eb\u30bc\u30f3\u30b9\u30ad\u30fc (CV. Lynn)",
+          "url": "https://open.spotify.com/artist/1paNo3kCz5gqipianX1AtZ"
+        },
+        {
+          "name": "\u30d5\u30b8\u30ad\u30bb\u30ad (CV. \u677e\u4e95\u6075\u7406\u5b50)",
+          "url": "https://open.spotify.com/artist/4Ng0mjHT8kVWzhMwrAEef0"
+        },
+        {
+          "name": "\u30aa\u30b0\u30ea\u30ad\u30e3\u30c3\u30d7 (CV. \u9ad8\u67f3\u77e5\u8449)",
+          "url": "https://open.spotify.com/artist/1Ns24VB4EsllIc7ulSh4JU"
         }
       ],
-      "duration_ms": 291373,
-      "name": "\u604b\u306f\u30c0\u30fc\u30d3\u30fc\u2606 - 2021 Remastered Version",
-      "url": "https://open.spotify.com/track/2sR0LFbq4rPjtOV06qaboK"
+      "duration_ms": 285653,
+      "name": "UNLIMITED IMPACT - 2021 Remastered Version",
+      "url": "https://open.spotify.com/track/2rGyXPq85Vwk6nGt8jyuuc"
     },
     {
       "added_at": "2025-10-08 02:32:53",
@@ -1627,30 +1651,6 @@
       "duration_ms": 266786,
       "name": "Forever gold",
       "url": "https://open.spotify.com/track/1u0GE7xW8YjwhEoQsyPZ1W"
-    },
-    {
-      "added_at": "2025-10-08 02:32:53",
-      "album": {
-        "name": "\u30b9\u30de\u30db\u30b2\u30fc\u30e0\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fSTARTING GATE 02 (2021 Remastered Version)",
-        "url": "https://open.spotify.com/album/6Jxt4fzFmb8mF5Cp93Lghx"
-      },
-      "artists": [
-        {
-          "name": "\u30de\u30eb\u30bc\u30f3\u30b9\u30ad\u30fc (CV. Lynn)",
-          "url": "https://open.spotify.com/artist/1paNo3kCz5gqipianX1AtZ"
-        },
-        {
-          "name": "\u30d5\u30b8\u30ad\u30bb\u30ad (CV. \u677e\u4e95\u6075\u7406\u5b50)",
-          "url": "https://open.spotify.com/artist/4Ng0mjHT8kVWzhMwrAEef0"
-        },
-        {
-          "name": "\u30aa\u30b0\u30ea\u30ad\u30e3\u30c3\u30d7 (CV. \u9ad8\u67f3\u77e5\u8449)",
-          "url": "https://open.spotify.com/artist/1Ns24VB4EsllIc7ulSh4JU"
-        }
-      ],
-      "duration_ms": 285653,
-      "name": "UNLIMITED IMPACT - 2021 Remastered Version",
-      "url": "https://open.spotify.com/track/2rGyXPq85Vwk6nGt8jyuuc"
     },
     {
       "added_at": "2025-10-08 02:32:53",

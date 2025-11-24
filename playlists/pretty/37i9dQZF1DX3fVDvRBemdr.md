@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > Rust zacht Rene ❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,824 likes - 78 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,827 likes - 78 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 
 > Best blends of Electronic music across Africa\. Cover: Foozak
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,943 likes - 99 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,946 likes - 99 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 | 98 | [Asheweyna](https://open.spotify.com/track/24L221iOYTAqofhtI3YVrj) | [KUTU](https://open.spotify.com/artist/4ELJpRf923CpualWnE17LJ), [Théo Ceccaldi](https://open.spotify.com/artist/4mz08nmtjVH6ITqxBEmzHY), [Hewan Gebrewold](https://open.spotify.com/artist/60fiWbQASuQ0otDUr7mBSE) | [MARDA](https://open.spotify.com/album/03aghA2ckmXEZZjCX8PcNC) | 2:44 |
 | 99 | [Chuki](https://open.spotify.com/track/1i9pxVfeE7JLJRIgvWIIJp) | [Euggy](https://open.spotify.com/artist/0YptteJXaFS7w41fz81gsn), [TekniQ](https://open.spotify.com/artist/2bStEVhFVPtYOzOxP58xeq), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Chuki](https://open.spotify.com/album/5IzLQJEynAMDV6DGfzfkr6) | 6:26 |
 
-Snapshot ID: `AAAAALaWlkw9ppRcQHaNd8PrX1cxYNXr`
+Snapshot ID: `AAAAACsQz1TsAFY/67zILV6WvxHyG7Pi`

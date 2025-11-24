@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Cover: DellaXOZ
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,856 likes - 150 songs - 8 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,853 likes - 150 songs - 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 149 | [Standard Size Knife](https://open.spotify.com/track/56B6LqzrNp3LMp6WKVjRin) | [Mitch Rowland](https://open.spotify.com/artist/5AH3J6o4zTwo2tADpRiQRZ) | [Standard Size Knife](https://open.spotify.com/album/3NinQNOi1A2hWh5674k5sq) | 4:30 |
 | 150 | [Selkie Bride](https://open.spotify.com/track/1aOWJe9JNGj84p6X68PRTY) | [Anand Wilder](https://open.spotify.com/artist/5pMCcLhPil65XVA7x0rRO1) | [Psychic Lessons](https://open.spotify.com/album/0fEMNqG3NaxTFKDWG2lz2K) | 3:49 |
 
-Snapshot ID: `AAAAAOfmO2SOu+8da9xRsHeVfMohSDCf`
+Snapshot ID: `AAAAADIAgaUkXqjASmK+/tfqp6jIcDBM`

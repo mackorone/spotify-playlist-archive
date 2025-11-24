@@ -1733,6 +1733,24 @@
     },
     {
       "album": {
+        "name": "Katakan Saja",
+        "url": "https://open.spotify.com/album/5bCGmjVjL7LfS6el6O0Nwp"
+      },
+      "artists": [
+        {
+          "name": "Khifnu",
+          "url": "https://open.spotify.com/artist/7eKNo6fozgNsKThGC40ol7"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263053,
+      "name": "Katakan Saja",
+      "url": "https://open.spotify.com/track/012WiZSgTedjCImYNyA1bF"
+    },
+    {
+      "album": {
         "name": "EXPLORE!",
         "url": "https://open.spotify.com/album/6TXaOwBLoyJrD6vem7L8Ba"
       },
@@ -2698,7 +2716,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 241392,
       "name": "Muara",
       "url": "https://open.spotify.com/track/4lCtZZktwgQqzCoJxK3ZxR"

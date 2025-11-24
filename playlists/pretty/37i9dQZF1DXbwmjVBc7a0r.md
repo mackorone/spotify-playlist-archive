@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwmjVBc7a0r.md) - [plain]
 
 > Les plus grands tubes rock en version berceuse
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,417 likes - 84 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,418 likes - 84 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

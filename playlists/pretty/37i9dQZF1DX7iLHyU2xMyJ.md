@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7iLHyU2xMyJ.md) - [plain]
 
 > From Annakili to Viduthalai \- all the essential tracks of Isaignani!
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,511 likes - 150 songs - 11 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,543 likes - 150 songs - 11 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7iLHyU2xMyJ.md) - [plain]
 | 57 | [Isaiyil Thodanguthamma](https://open.spotify.com/track/6XiS8yu1y46NMi41XYkNt4) | [Ajai Chakravarthi](https://open.spotify.com/artist/1etgORzoAgtq9tNDGRMXBi) | [Heyram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5qhBG5YYYn9qeI6mDjeGii) | 5:44 |
 | 58 | [Andhi Mazhai Megam](https://open.spotify.com/track/7CzoCy9ciyvncOyFr8IRXp) | [T\. L\. Maharajan](https://open.spotify.com/artist/07pfRuQX86iRuYx3gPCtXD), [P\. Susheela](https://open.spotify.com/artist/0aFGod7DM6b3O5l1AmvFwK) | [Nayagan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6tvR1AlRK1z0nw0o7XuRyl) | 4:46 |
 | 59 | [Thalattudhe Vanam \- From "Kadal Meengal"](https://open.spotify.com/track/6CZ3IGaz6WPVsXrzUP5kBJ) | [P\. Jayachandran](https://open.spotify.com/artist/2HujlDCi1ggnUSdfgipUxE), [S\. Janaki](https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu) | [Evergreen Tamil Hits](https://open.spotify.com/album/1omPvOrrsgsyIcEwGm2bZS) | 4:26 |
-| 60 | [Ettanaa](https://open.spotify.com/track/79mKPex0ciNzaiWaO32FxD) | [Vadivelu](https://open.spotify.com/artist/4SlCFtxWUAnjCBqoq4zeS5) | [Ellame En Rasathan](https://open.spotify.com/album/5t2sZXGhWES7W1WW08NVQ6) | 4:50 |
-| 61 | [Mayil Pola](https://open.spotify.com/track/5js5B8rgwlAhSKtAJww0nh) | [Bhavatharini](https://open.spotify.com/artist/03iJDZgebs4CLNrriGzyw4) | [Bharathi](https://open.spotify.com/album/2BEmX7YJnmjvBafJBBEopa) | 4:32 |
+| 60 | [Mayil Pola](https://open.spotify.com/track/5js5B8rgwlAhSKtAJww0nh) | [Bhavatharini](https://open.spotify.com/artist/03iJDZgebs4CLNrriGzyw4) | [Bharathi](https://open.spotify.com/album/2BEmX7YJnmjvBafJBBEopa) | 4:32 |
+| 61 | [Ettanaa](https://open.spotify.com/track/79mKPex0ciNzaiWaO32FxD) | [Vadivelu](https://open.spotify.com/artist/4SlCFtxWUAnjCBqoq4zeS5) | [Ellame En Rasathan](https://open.spotify.com/album/5t2sZXGhWES7W1WW08NVQ6) | 4:50 |
 | 62 | [Netru Indha Neram \- From "Tick Tick Tick"](https://open.spotify.com/track/0Rx44khCijmY8IIbqp3G8Q) | [Latha Rajinikanth](https://open.spotify.com/artist/67IdTh70oe61DC4D7UYoll) | [Evergreen Tamil Hits](https://open.spotify.com/album/1omPvOrrsgsyIcEwGm2bZS) | 4:19 |
 | 63 | [Nirpathuve Nadapadhu](https://open.spotify.com/track/5sLpVfFw2eUSbfC5D8iLVa) | [Harish Raghavendra](https://open.spotify.com/artist/4Kw0NhqitzjxLy1jH5FlTg) | [Bharathi](https://open.spotify.com/album/2BEmX7YJnmjvBafJBBEopa) | 4:38 |
 | 64 | [En Mana Vaanil](https://open.spotify.com/track/1AKvEngTr5h7XLNgjeXNTQ) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Kaasi](https://open.spotify.com/album/2XnITBsPXdedwMdxBZAJCL) | 5:38 |
@@ -155,7 +155,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7iLHyU2xMyJ.md) - [plain]
 | 145 | [Uravugal Thodarkathai](https://open.spotify.com/track/1QqIYc3D1PNz8k2riaHTxO) | [K\. J\. Yesudas](https://open.spotify.com/artist/2wPsNCwhEGb0KvChZ5DD52) | [Aval Appadithan](https://open.spotify.com/album/2mNGICY1BYlOwtnKhzJLYx) | 4:27 |
 | 146 | [Chendoora Poove](https://open.spotify.com/track/2tD8S5TvTaeMpRLiYZAftL) | [S\. Janaki](https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu) | [16 Vayathiniley](https://open.spotify.com/album/0GypRiW15qVqrtwPD2OpEZ) | 4:16 |
 | 147 | [Nilavupattu](https://open.spotify.com/track/0Y5V1600JP7LQweixdDdhw) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Kannukul Nilavu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2s0lHJYtGm4vc2sgej0AOJ) | 6:01 |
-| 148 | [Unna Nenachu](https://open.spotify.com/track/5iXFBbApLVdTta1BrM3QTv) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Kabilan](https://open.spotify.com/artist/2MxriAGmcX5lgQt3SFyru6) | [Psycho \(Tamil\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/5a3Je5YG4cYIS0Yg4ZoY01) | 4:35 |
+| 148 | [Edho Mogam](https://open.spotify.com/track/4ZNp5J0vpeDZU7rXEHKjce) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Krishnachandran](https://open.spotify.com/artist/6saOx7SAFfrbW3RGS5QK20), [S\. Janaki](https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu) | [Kozhi Koovuthu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ofgz1cYQXiAyR4SeVGiW5) | 5:24 |
 | 149 | [Paadatha Thenmaangu](https://open.spotify.com/track/4ppONE4RJbO8tzGlei0aGx) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8) | [Poonthotta Kavalkaran \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1GpgYbl6xhKi4iyrN2wojH) | 4:43 |
 | 150 | [Azhage Azhagu Deivathai](https://open.spotify.com/track/5D9ob9BlVyUXxTnB1Kj1C1) | [K\. J\. Yesudas](https://open.spotify.com/artist/2wPsNCwhEGb0KvChZ5DD52) | [Raaja Paarvai](https://open.spotify.com/album/2xQ3JJc4DXJ5lyQMGJQ5Cz) | 4:28 |
 

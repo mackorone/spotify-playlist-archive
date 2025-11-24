@@ -4,7 +4,7 @@
 
 > The sound of a new generation\. Cover: Somewhen
 
-599 songs - 1 day 12 hr 43 min
+600 songs - 1 day 12 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,7 +255,7 @@
 | [Ice u out](https://open.spotify.com/track/1pprxpl5zMkiUNB3O0ejEZ) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Kota Banks](https://open.spotify.com/artist/6qjD8KqRe2dyNBsq1RcpaT) | [girl EDM](https://open.spotify.com/album/4QinbF7oFNC9rdcWNiF3Vu) | 3:23 | 2024-06-27 | 2024-07-05 |
 | [Iced Lips](https://open.spotify.com/track/14896rLkWF8L1oaaMiMGBQ) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Iced Lips](https://open.spotify.com/album/3B38JWfPV8tzWBwB2tOHg1) | 2:19 | 2025-06-05 | 2025-09-28 |
 | [Ich bin ready \- DJ Gigola Version](https://open.spotify.com/track/2vVC5wEtP5klz59i8HO2j9) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf), [X\-COAST](https://open.spotify.com/artist/5QUHrSea6F2nhn9veAq4wQ) | [G\-COAST](https://open.spotify.com/album/0HpE2gIz2xoO6kkKMyu89c) | 4:40 | 2023-06-05 | 2023-07-22 |
-| [If U Want My Heart \(Ft\. KLP\)](https://open.spotify.com/track/6xLcLWmWW2Kle7zacIIT5A) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [If U Want My Heart \(Ft\. KLP\)](https://open.spotify.com/album/1MW85rBJDHzpDIu4rtKPez) | 3:23 | 2025-07-24 |  |
+| [If U Want My Heart \(Ft\. KLP\)](https://open.spotify.com/track/6xLcLWmWW2Kle7zacIIT5A) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [If U Want My Heart \(Ft\. KLP\)](https://open.spotify.com/album/1MW85rBJDHzpDIu4rtKPez) | 3:23 | 2025-07-24 | 2025-11-24 |
 | [Illegal + Nia Archives](https://open.spotify.com/track/0c1s95bO4ZqOOmFl8mfsro) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Illegal + Nia Archives](https://open.spotify.com/album/57V3Ec9fpJEUZkFyW2axtx) | 2:40 | 2025-06-27 | 2025-11-06 |
 | [Immer wenn du fehlst](https://open.spotify.com/track/1pLRmnVMAz4br5qJThj1vO) | [Kalte Liebe](https://open.spotify.com/artist/4V8AR3bBMhrLaWirYLKBEe) | [Immer wenn du fehlst](https://open.spotify.com/album/3kIdRvGhX0NpFmsmdGThcw) | 2:44 | 2024-09-16 | 2024-10-11 |
 | [In My Mind](https://open.spotify.com/track/7k6ds2BvraCzxPW95vSOwd) | [ARMA](https://open.spotify.com/artist/6521yl6LJNVjbPpSz3ohSZ), [TRYM](https://open.spotify.com/artist/5Nd385K2g3s0828W8Ab70z) | [In My Mind](https://open.spotify.com/album/0TvoQPfYP2GuUg54rJYwnJ) | 4:34 | 2024-06-13 | 2024-06-28 |
@@ -594,6 +594,7 @@
 | [Wild Ones \(Club Mix\)](https://open.spotify.com/track/2MH5KK60I00JOPigNOt4v8) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Wild Ones \(Club Mix\)](https://open.spotify.com/album/2JSwcjpkanFKfT3ev3eDQr) | 3:26 | 2023-10-05 | 2024-08-12 |
 | [Wildhorse](https://open.spotify.com/track/3Avc5PGq3RYXP93Dsphk1K) | [Lahos](https://open.spotify.com/artist/4Pamica4HJLZPQTKTCkG2w), [SóSó](https://open.spotify.com/artist/5CmbPtbvZHvv6R0seR6Qjv) | [Wildhorse](https://open.spotify.com/album/5oiTDL0ZQQRJJYj11O1rWR) | 2:51 | 2023-10-20 | 2023-10-27 |
 | [Winds \(Feel for You\)](https://open.spotify.com/track/6l1bXnfd7OnPr7AW927QEI) | [Part Time Killer](https://open.spotify.com/artist/0LAMskg8u2rGlNDYvlRZdq), [L.zwo](https://open.spotify.com/artist/2DDqcRRVt2xLxMYHD7FQk1) | [Winds \(Feel for You\)](https://open.spotify.com/album/46yYLnroQBdnPQmB38DV1m) | 2:47 | 2025-11-20 |  |
+| [Wish You Were Mine](https://open.spotify.com/track/7Iv98VYt9YNFtDljHaZbx6) | [JKRS](https://open.spotify.com/artist/5EXlM2WBPw4fwTnDNazXxv) | [Wish You Were Mine](https://open.spotify.com/album/5ocELmla5CTUeTTuXe5IiB) | 2:15 | 2025-11-20 |  |
 | [Wolkenbruch](https://open.spotify.com/track/7pw36zGhj1Ji5TCQAKM2CD) | [DREAM DJ TEAM](https://open.spotify.com/artist/78HKXj2z44JthdgoqT9ElL) | [Wolkenbruch](https://open.spotify.com/album/5qR6EoLv5QKMIZIZ17vhnD) | 4:07 | 2024-08-22 | 2024-09-17 |
 | [World Loves DJs](https://open.spotify.com/track/0k4srxjiPxaoslIIu3cyLz) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [All Yours](https://open.spotify.com/album/1DelPHxFIgMYjpiphaMaqM) | 2:29 | 2025-07-10 | 2025-07-18 |
 | [X\-Periencia](https://open.spotify.com/track/0MUQJDZzivCGKzS7kBPaVf) | [Panteros666](https://open.spotify.com/artist/7DYEJjAIWCn1DNttRqVomt), [Neggy Gemmy](https://open.spotify.com/artist/3SU7pCbOPCUMboKnxMvHVW) | [X\-Periencia](https://open.spotify.com/album/5FsjiiW54cokxxro5ZQCZI) | 4:46 | 2023-10-13 | 2023-10-20 |

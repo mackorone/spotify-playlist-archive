@@ -4,7 +4,7 @@
 
 > your cheat sheet for all that's on the rise in rock/alt \| Cover: Westside Cowboy
 
-3,602 songs - 8 day 0 hr 43 min
+3,604 songs - 8 day 0 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1168,6 +1168,7 @@
 | [get over it](https://open.spotify.com/track/417LUyA3uRgrXVSFSKcQsr) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [get over it](https://open.spotify.com/album/66m5TWcMaP3g1jfTlqTDEA) | 3:09 | 2023-10-20 | 2023-11-18 |
 | [Get Over It](https://open.spotify.com/track/5VtDutJoMnpiL3NNcRtHvd) | [People R Ugly](https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI) | [Get Over It](https://open.spotify.com/album/0Fl6rL7v6Vi6W4en2NdhPR) | 2:55 | 2023-05-12 | 2023-06-24 |
 | [Get Stable](https://open.spotify.com/track/3ryNtDrnv2DOgdQAI3EUOA) | [THUS LOVE](https://open.spotify.com/artist/26hW7zYB4V3PGMPBKoBdgl) | [All Pleasure](https://open.spotify.com/album/5m12jRRk1yITUd7s6KfMCJ) | 2:37 | 2024-11-01 | 2024-11-30 |
+| [Get to Choose](https://open.spotify.com/track/5h9FYRmddlb1x0ybleGPxY) | [Dirt Buyer](https://open.spotify.com/artist/6MzWbIkpg9it7v13OQkDdp) | [Get to Choose](https://open.spotify.com/album/7HKZIh4ji2eA2LGNbhGpKc) | 3:04 | 2025-11-23 |  |
 | [Getting into Trouble w/ the Boss](https://open.spotify.com/track/21WdnLnH0XhCkjD8WmQGx1) | [White Reaper](https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF) | [Asking For A Ride](https://open.spotify.com/album/4EkYXTP0vpp1dmPadvfAlK) | 2:59 | 2023-06-30 | 2023-09-02 |
 | [gfgf](https://open.spotify.com/track/1g5xGsMhlveEthRWzEahZh) | [baej Lambeaux](https://open.spotify.com/artist/7yB6e34bRQLTSrSh4hFY70) | [gfgf](https://open.spotify.com/album/5CUBzvAPsIr25SjvX7yoWD) | 2:57 | 2023-02-10 | 2023-03-11 |
 | [Ghost](https://open.spotify.com/track/2WSbMaSstjDFlY30mRaRz5) | [Brevin Kim](https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh) | [Ghost](https://open.spotify.com/album/0EkJjzIlZsOtkOablHVy9P) | 2:51 | 2023-03-03 | 2023-04-09 |
@@ -3041,6 +3042,7 @@
 | [TALK](https://open.spotify.com/track/34zukSow00sQeQqx5kKpNv) | [Winona Fighter](https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ) | [My Apologies To The Chef](https://open.spotify.com/album/2VKfhxfIcAcYObO8qJEXA0) | 2:42 | 2025-02-14 | 2025-04-19 |
 | [Talk & Walk](https://open.spotify.com/track/0BvFgXSJZ1irgFEbhHT5hc) | [Mammoth WVH](https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO) | [Talk & Walk](https://open.spotify.com/album/6jJpnrltVW9zHyfBSNk2FE) | 4:35 | 2022-09-16 | 2022-10-22 |
 | [Talk To Me That Way](https://open.spotify.com/track/20FSr1JzotR9PoLvHrVsmX) | [The Foxies](https://open.spotify.com/artist/02Gz7Nb7bIi0oxLIXYELYd) | [Talk To Me That Way](https://open.spotify.com/album/76lCeb9MLQAfx1RIXWt8ej) | 2:28 | 2024-03-08 | 2024-03-23 |
+| [Talkback](https://open.spotify.com/track/7wH4mf93kZNJU10OTvokSN) | [Robber Robber](https://open.spotify.com/artist/7kXZ3iTr0blml9QgUdfwGM) | [Talkback](https://open.spotify.com/album/3plrzUt7S60kzn1ImNTux7) | 2:09 | 2025-11-23 |  |
 | [Talkin' On The Internet](https://open.spotify.com/track/2QSDrcOfvflcy2rtiTZbJd) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Talkin' On The Internet](https://open.spotify.com/album/4uSg0LQqvVFEbZIIzfJAay) | 2:35 | 2023-08-25 | 2023-10-06 |
 | [Talkin' On The Internet](https://open.spotify.com/track/6nrTOALDsdBIIVblrv0sYh) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Herberts On Holiday](https://open.spotify.com/album/3m3hEjQTaDq3QgiXR8XjW6) | 2:35 | 2023-10-03 | 2023-10-14 |
 | [Tall People Don't Live Long](https://open.spotify.com/track/3hhVZKJSMnCG1LjZkYSohk) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q), [Dazy](https://open.spotify.com/artist/2pe1uLYghU4lj6Fe6qq8k6) | [Tall People Don't Live Long](https://open.spotify.com/album/4Zv3JlE5l87PPVCOkmnoVe) | 3:06 | 2025-04-18 | 2025-05-24 |

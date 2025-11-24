@@ -1,12 +1,12 @@
 {
   "description": "playlist spotify free",
-  "num_followers": 227,
+  "num_followers": 228,
   "original_name": "playlist spotify free",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAGEvZ0AnNXstyOfKduuopk2qw2qVnX",
+  "snapshot_id": "AAAGFF8irvfcwHTjUR2t1Q2/4UdKG2Wt",
   "tracks": [
     {
       "added_at": "2025-11-20 21:01:52",
@@ -59151,6 +59151,38 @@
       "duration_ms": 271204,
       "name": "\u0421\u043a\u0430\u0437\u043a\u0430, \u043c\u0438\u043b\u0430\u044f \u0441\u043a\u0430\u0437\u043a\u0430",
       "url": "https://open.spotify.com/track/43bdnp7HlUWMWZRg6j0A4s"
+    },
+    {
+      "added_at": "2025-11-23 07:58:57",
+      "album": {
+        "name": "Me",
+        "url": "https://open.spotify.com/album/3xQKo4WKYsPDzNWneFEht1"
+      },
+      "artists": [
+        {
+          "name": "Mirror Vain",
+          "url": "https://open.spotify.com/artist/5492DtDN9DpYNYTNeRh3g7"
+        }
+      ],
+      "duration_ms": 162648,
+      "name": "Me",
+      "url": "https://open.spotify.com/track/1x9os7V76PbeskTgo25YkE"
+    },
+    {
+      "added_at": "2025-11-23 08:04:00",
+      "album": {
+        "name": "Chasing smiles",
+        "url": "https://open.spotify.com/album/4FPGa1g6QeaJufbj0jnXcS"
+      },
+      "artists": [
+        {
+          "name": "Mirror Vain",
+          "url": "https://open.spotify.com/artist/5492DtDN9DpYNYTNeRh3g7"
+        }
+      ],
+      "duration_ms": 240048,
+      "name": "Chasing smiles",
+      "url": "https://open.spotify.com/track/2hQKzZPnnA9CI2cFeuQ2wV"
     }
   ],
   "unique_name": "playlist spotify free",

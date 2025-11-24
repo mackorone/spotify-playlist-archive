@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Chile.",
-  "num_followers": 70626,
+  "num_followers": 70675,
   "original_name": "Viral 50 - Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MLUuKAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MLZ9UAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-11-22 15:28:21",
+      "added_at": "2025-11-23 16:50:59",
       "album": {
         "name": "Disco Kast Vol: 5",
         "url": "https://open.spotify.com/album/1xV8JmMzN7MRIdZ5F4mcni"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/4XzQAjsOXn17qV0uSmIPJH"
     },
     {
-      "added_at": "2025-11-22 15:28:21",
+      "added_at": "2025-11-23 16:50:59",
       "album": {
         "name": "Disco Kast Vol: 5",
         "url": "https://open.spotify.com/album/1xV8JmMzN7MRIdZ5F4mcni"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/4GNvSj2b7uPSn52vltr7DZ"
     },
     {
-      "added_at": "2025-11-22 15:28:21",
+      "added_at": "2025-11-23 16:50:59",
       "album": {
         "name": "1313",
         "url": "https://open.spotify.com/album/1zWZlasiNxxLSqRtjL48au"
@@ -57,7 +57,23 @@
       "url": "https://open.spotify.com/track/1yRiznUykpaj2jR27sU8fD"
     },
     {
-      "added_at": "2025-11-22 15:28:21",
+      "added_at": "2025-11-23 16:50:59",
+      "album": {
+        "name": "EL NUEVO SONIDO",
+        "url": "https://open.spotify.com/album/51BDztgpHNIIwixCGx3wku"
+      },
+      "artists": [
+        {
+          "name": "SINAKA",
+          "url": "https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl"
+        }
+      ],
+      "duration_ms": 120494,
+      "name": "SENDA BELLAKONA",
+      "url": "https://open.spotify.com/track/6g1u7IdhcA9rZUV3Pizsj8"
+    },
+    {
+      "added_at": "2025-11-23 16:50:59",
       "album": {
         "name": "paleta x faint",
         "url": "https://open.spotify.com/album/2PcefEGOXIoZTdr42QXzuN"
@@ -73,23 +89,7 @@
       "url": "https://open.spotify.com/track/7nHmM0Og1exF34DxO6dZuk"
     },
     {
-      "added_at": "2025-11-22 15:28:21",
-      "album": {
-        "name": "YA NI SU NOMBRE ME SE (Private AfroHouse)",
-        "url": "https://open.spotify.com/album/1iIgNlGKwEwwVCYNoc97ZL"
-      },
-      "artists": [
-        {
-          "name": "Global Afro",
-          "url": "https://open.spotify.com/artist/6gh6D5AJYOe1RLRUpynLDQ"
-        }
-      ],
-      "duration_ms": 228864,
-      "name": "YA NI SU NOMBRE ME SE (Private AfroHouse)",
-      "url": "https://open.spotify.com/track/6Ab73LM4c50oTmk4EaxSbT"
-    },
-    {
-      "added_at": "2025-11-22 15:28:21",
+      "added_at": "2025-11-23 16:50:59",
       "album": {
         "name": "Quiero saber",
         "url": "https://open.spotify.com/album/7DDkz9KwnsYyt4wBWddMBW"
@@ -105,7 +105,43 @@
       "url": "https://open.spotify.com/track/6Bxm78zlNnrDGbyCUnCzek"
     },
     {
-      "added_at": "2025-11-22 15:28:21",
+      "added_at": "2025-11-23 16:50:59",
+      "album": {
+        "name": "YA NI SU NOMBRE ME SE (Private AfroHouse)",
+        "url": "https://open.spotify.com/album/1iIgNlGKwEwwVCYNoc97ZL"
+      },
+      "artists": [
+        {
+          "name": "Global Afro",
+          "url": "https://open.spotify.com/artist/6gh6D5AJYOe1RLRUpynLDQ"
+        }
+      ],
+      "duration_ms": 228864,
+      "name": "YA NI SU NOMBRE ME SE (Private AfroHouse)",
+      "url": "https://open.spotify.com/track/6Ab73LM4c50oTmk4EaxSbT"
+    },
+    {
+      "added_at": "2025-11-23 16:50:59",
+      "album": {
+        "name": "No Hay Loco Que No Corone",
+        "url": "https://open.spotify.com/album/4HRbWvdFSp49raypicZyXS"
+      },
+      "artists": [
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Yung Beef",
+          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
+        }
+      ],
+      "duration_ms": 211084,
+      "name": "Cuando No Era Cantante",
+      "url": "https://open.spotify.com/track/44xDy4h27s4ENaC8fKnCoC"
+    },
+    {
+      "added_at": "2025-11-23 16:50:59",
       "album": {
         "name": "LUX",
         "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
@@ -129,43 +165,7 @@
       "url": "https://open.spotify.com/track/2T8yuUKl1nhmtaIocqWo4i"
     },
     {
-      "added_at": "2025-11-22 15:28:21",
-      "album": {
-        "name": "No Hay Loco Que No Corone",
-        "url": "https://open.spotify.com/album/4HRbWvdFSp49raypicZyXS"
-      },
-      "artists": [
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        },
-        {
-          "name": "Yung Beef",
-          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
-        }
-      ],
-      "duration_ms": 211084,
-      "name": "Cuando No Era Cantante",
-      "url": "https://open.spotify.com/track/44xDy4h27s4ENaC8fKnCoC"
-    },
-    {
-      "added_at": "2025-11-22 15:28:21",
-      "album": {
-        "name": "EL NUEVO SONIDO",
-        "url": "https://open.spotify.com/album/51BDztgpHNIIwixCGx3wku"
-      },
-      "artists": [
-        {
-          "name": "SINAKA",
-          "url": "https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl"
-        }
-      ],
-      "duration_ms": 120494,
-      "name": "SENDA BELLAKONA",
-      "url": "https://open.spotify.com/track/6g1u7IdhcA9rZUV3Pizsj8"
-    },
-    {
-      "added_at": "2025-11-22 15:28:21",
+      "added_at": "2025-11-23 16:50:59",
       "album": {
         "name": "La Vida Era M\u00e1s Corta",
         "url": "https://open.spotify.com/album/0sQR1p7NyAUqMPmWdZ6UBd"
@@ -181,27 +181,7 @@
       "url": "https://open.spotify.com/track/4aDbrgm1ZaebS1Bb2dOXac"
     },
     {
-      "added_at": "2025-11-22 15:28:21",
-      "album": {
-        "name": "Que Sensaci\u00f3n (Remix)",
-        "url": "https://open.spotify.com/album/27L1rWQUpb8ctfroyDofHZ"
-      },
-      "artists": [
-        {
-          "name": "Jezzy",
-          "url": "https://open.spotify.com/artist/1y8spb5Thg0p5ybNtdk4tu"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 154090,
-      "name": "Que Sensaci\u00f3n - Remix",
-      "url": "https://open.spotify.com/track/0xh2JGmHH1lgRMDaIL94pz"
-    },
-    {
-      "added_at": "2025-11-22 15:28:21",
+      "added_at": "2025-11-23 16:50:59",
       "album": {
         "name": "Hazbin Hotel: Season Two (Original Soundtrack)",
         "url": "https://open.spotify.com/album/4Vhlieo0fDahoYEPvGbSEm"
@@ -233,7 +213,47 @@
       "url": "https://open.spotify.com/track/0myPb7rgTdf5dTHnfwdvO9"
     },
     {
-      "added_at": "2025-11-22 15:28:21",
+      "added_at": "2025-11-23 16:50:59",
+      "album": {
+        "name": "Que Sensaci\u00f3n (Remix)",
+        "url": "https://open.spotify.com/album/27L1rWQUpb8ctfroyDofHZ"
+      },
+      "artists": [
+        {
+          "name": "Jezzy",
+          "url": "https://open.spotify.com/artist/1y8spb5Thg0p5ybNtdk4tu"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 154090,
+      "name": "Que Sensaci\u00f3n - Remix",
+      "url": "https://open.spotify.com/track/0xh2JGmHH1lgRMDaIL94pz"
+    },
+    {
+      "added_at": "2025-11-23 16:50:59",
+      "album": {
+        "name": "EL NUEVO SONIDO",
+        "url": "https://open.spotify.com/album/51BDztgpHNIIwixCGx3wku"
+      },
+      "artists": [
+        {
+          "name": "SINAKA",
+          "url": "https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl"
+        },
+        {
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+        }
+      ],
+      "duration_ms": 152912,
+      "name": "SECRETO A VOCES",
+      "url": "https://open.spotify.com/track/3hb8xVbwIvwCYARqpMsLSz"
+    },
+    {
+      "added_at": "2025-11-23 16:50:59",
       "album": {
         "name": "KIZAZO",
         "url": "https://open.spotify.com/album/1JboE4GTYcK1Kjl878cYKP"
@@ -261,7 +281,23 @@
       "url": "https://open.spotify.com/track/5SVuyAtGemjW9v3sGqbuR7"
     },
     {
-      "added_at": "2025-11-22 15:28:21",
+      "added_at": "2025-11-23 16:50:59",
+      "album": {
+        "name": "Definitely Maybe (Remastered)",
+        "url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 392306,
+      "name": "Slide Away - Remastered",
+      "url": "https://open.spotify.com/track/62L8HlrCQLvBHKfpu8iqLa"
+    },
+    {
+      "added_at": "2025-11-23 16:50:59",
       "album": {
         "name": "Comando Estelar",
         "url": "https://open.spotify.com/album/4mv9P6vEf6fh0iLYC0WhlH"
@@ -289,7 +325,51 @@
       "url": "https://open.spotify.com/track/4j5ZSTHkXQbV0c8EassD0N"
     },
     {
-      "added_at": "2025-11-22 15:28:21",
+      "added_at": "2025-11-23 16:50:59",
+      "album": {
+        "name": "Rebel",
+        "url": "https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug"
+      },
+      "artists": [
+        {
+          "name": "EsDeeKid",
+          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
+        },
+        {
+          "name": "Rico Ace",
+          "url": "https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o"
+        }
+      ],
+      "duration_ms": 109759,
+      "name": "Phantom",
+      "url": "https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf"
+    },
+    {
+      "added_at": "2025-11-23 16:50:59",
+      "album": {
+        "name": "At\u00e9 Quebrar a Cama 2.0",
+        "url": "https://open.spotify.com/album/0M3Eqgtjept5qmPYWNdzWR"
+      },
+      "artists": [
+        {
+          "name": "cjnobeat",
+          "url": "https://open.spotify.com/artist/4fKJ81BAFxuwAFUI3B1BXM"
+        },
+        {
+          "name": "Mc Morena",
+          "url": "https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        }
+      ],
+      "duration_ms": 132170,
+      "name": "At\u00e9 Quebrar a Cama 2.0",
+      "url": "https://open.spotify.com/track/7aOv4uSAmiB9XKnkibqSdo"
+    },
+    {
+      "added_at": "2025-11-23 16:50:59",
       "album": {
         "name": "Te Vas",
         "url": "https://open.spotify.com/album/3KRctwAg6GnZEfLTtPPFa2"
@@ -317,47 +397,7 @@
       "url": "https://open.spotify.com/track/5MjGl97aQlcBBvbYBHbXWv"
     },
     {
-      "added_at": "2025-11-22 15:28:21",
-      "album": {
-        "name": "At\u00e9 Quebrar a Cama 2.0",
-        "url": "https://open.spotify.com/album/0M3Eqgtjept5qmPYWNdzWR"
-      },
-      "artists": [
-        {
-          "name": "cjnobeat",
-          "url": "https://open.spotify.com/artist/4fKJ81BAFxuwAFUI3B1BXM"
-        },
-        {
-          "name": "Mc Morena",
-          "url": "https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX"
-        },
-        {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
-        }
-      ],
-      "duration_ms": 132170,
-      "name": "At\u00e9 Quebrar a Cama 2.0",
-      "url": "https://open.spotify.com/track/7aOv4uSAmiB9XKnkibqSdo"
-    },
-    {
-      "added_at": "2025-11-22 15:28:21",
-      "album": {
-        "name": "Definitely Maybe (Remastered)",
-        "url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 392306,
-      "name": "Slide Away - Remastered",
-      "url": "https://open.spotify.com/track/62L8HlrCQLvBHKfpu8iqLa"
-    },
-    {
-      "added_at": "2025-11-22 15:28:21",
+      "added_at": "2025-11-23 16:50:59",
       "album": {
         "name": "The Art of Loving",
         "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
@@ -373,7 +413,7 @@
       "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
     },
     {
-      "added_at": "2025-11-22 15:28:21",
+      "added_at": "2025-11-23 16:50:59",
       "album": {
         "name": "Dame Otro Motivo",
         "url": "https://open.spotify.com/album/2NX8LBGpXHEs2D71mdWauD"
@@ -389,23 +429,39 @@
       "url": "https://open.spotify.com/track/40iaOidXr2AwfjXFqlWqcg"
     },
     {
-      "added_at": "2025-11-22 15:28:21",
+      "added_at": "2025-11-23 16:50:59",
       "album": {
-        "name": "Facts",
-        "url": "https://open.spotify.com/album/3NX9OhcAt03Bncp4Nmn86U"
+        "name": "CHANEL",
+        "url": "https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59"
       },
       "artists": [
         {
-          "name": "Pablo Chill-E",
-          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
         }
       ],
-      "duration_ms": 132937,
-      "name": "Facts",
-      "url": "https://open.spotify.com/track/76WgHLa6IB9xfasUSWz1g0"
+      "duration_ms": 188059,
+      "name": "CHANEL",
+      "url": "https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7"
     },
     {
-      "added_at": "2025-11-22 15:28:21",
+      "added_at": "2025-11-23 16:50:59",
+      "album": {
+        "name": "WHERE IS MY HUSBAND!",
+        "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 196795,
+      "name": "WHERE IS MY HUSBAND!",
+      "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
+    },
+    {
+      "added_at": "2025-11-23 16:50:59",
       "album": {
         "name": "Que Hace Con El",
         "url": "https://open.spotify.com/album/1G1KbeZXsZnQvKgjmD30qp"
@@ -421,43 +477,7 @@
       "url": "https://open.spotify.com/track/1pvfO12SyprY7NR11F1Wk5"
     },
     {
-      "added_at": "2025-11-22 15:28:21",
-      "album": {
-        "name": "FEMME FATALE",
-        "url": "https://open.spotify.com/album/7q2GxttTFDWOihvnSWdwWw"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 230723,
-      "name": "Melancol\u00eda",
-      "url": "https://open.spotify.com/track/5r9xrWqBtkiSFeEBk4VibB"
-    },
-    {
-      "added_at": "2025-11-22 15:28:21",
-      "album": {
-        "name": "EL NUEVO SONIDO",
-        "url": "https://open.spotify.com/album/51BDztgpHNIIwixCGx3wku"
-      },
-      "artists": [
-        {
-          "name": "SINAKA",
-          "url": "https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl"
-        },
-        {
-          "name": "King Savagge",
-          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
-        }
-      ],
-      "duration_ms": 152912,
-      "name": "SECRETO A VOCES",
-      "url": "https://open.spotify.com/track/3hb8xVbwIvwCYARqpMsLSz"
-    },
-    {
-      "added_at": "2025-11-22 15:28:21",
+      "added_at": "2025-11-23 16:50:59",
       "album": {
         "name": "SPAGHETTI",
         "url": "https://open.spotify.com/album/2yUrwTLHDWBrW74Ewuw6RX"
@@ -477,23 +497,7 @@
       "url": "https://open.spotify.com/track/2N9miXnewVmUrgl6JSK1FI"
     },
     {
-      "added_at": "2025-11-22 15:28:21",
-      "album": {
-        "name": "CHANEL",
-        "url": "https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 188059,
-      "name": "CHANEL",
-      "url": "https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7"
-    },
-    {
-      "added_at": "2025-11-22 15:28:21",
+      "added_at": "2025-11-23 16:50:59",
       "album": {
         "name": "TU Y YO",
         "url": "https://open.spotify.com/album/0zIVCVPhluii2owRVJn9Nm"
@@ -517,7 +521,39 @@
       "url": "https://open.spotify.com/track/2tZNPwTLefIc2hUasTohfB"
     },
     {
-      "added_at": "2025-11-22 15:28:21",
+      "added_at": "2025-11-23 16:50:59",
+      "album": {
+        "name": "FEMME FATALE",
+        "url": "https://open.spotify.com/album/7q2GxttTFDWOihvnSWdwWw"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 230723,
+      "name": "Melancol\u00eda",
+      "url": "https://open.spotify.com/track/5r9xrWqBtkiSFeEBk4VibB"
+    },
+    {
+      "added_at": "2025-11-23 16:50:59",
+      "album": {
+        "name": "Clima Humana",
+        "url": "https://open.spotify.com/album/4gQEN4YB2pzNxph3pBVKjd"
+      },
+      "artists": [
+        {
+          "name": "Sol y Lluvia",
+          "url": "https://open.spotify.com/artist/6iGoMyoSIjyTxbCRyHREtI"
+        }
+      ],
+      "duration_ms": 262880,
+      "name": "En un Largo Tour",
+      "url": "https://open.spotify.com/track/7KJr365Ld0o8ajIfR0wIpV"
+    },
+    {
+      "added_at": "2025-11-23 16:50:59",
       "album": {
         "name": "444 (Remix)",
         "url": "https://open.spotify.com/album/3mVZl9O0ungJP8CG7iPKTD"
@@ -545,39 +581,27 @@
       "url": "https://open.spotify.com/track/5AK6QqM8aUXXTk6oY00ZRh"
     },
     {
-      "added_at": "2025-11-22 15:28:21",
+      "added_at": "2025-11-23 16:50:59",
       "album": {
-        "name": "WHERE IS MY HUSBAND!",
-        "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
+        "name": "Sentimiento M\u00e1gico",
+        "url": "https://open.spotify.com/album/3KLs4d5dia53jBDIIuk7PR"
       },
       "artists": [
         {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 196795,
-      "name": "WHERE IS MY HUSBAND!",
-      "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
-    },
-    {
-      "added_at": "2025-11-22 15:28:21",
-      "album": {
-        "name": "Clima Humana",
-        "url": "https://open.spotify.com/album/4gQEN4YB2pzNxph3pBVKjd"
-      },
-      "artists": [
+          "name": "Benja Valencia",
+          "url": "https://open.spotify.com/artist/2N4rDzKt2aZK1ksES0YKBP"
+        },
         {
-          "name": "Sol y Lluvia",
-          "url": "https://open.spotify.com/artist/6iGoMyoSIjyTxbCRyHREtI"
+          "name": "SINAKA",
+          "url": "https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl"
         }
       ],
-      "duration_ms": 262880,
-      "name": "En un Largo Tour",
-      "url": "https://open.spotify.com/track/7KJr365Ld0o8ajIfR0wIpV"
+      "duration_ms": 202857,
+      "name": "Sentimiento M\u00e1gico",
+      "url": "https://open.spotify.com/track/2jakPYMHBWLubIQEeceVoL"
     },
     {
-      "added_at": "2025-11-22 15:28:21",
+      "added_at": "2025-11-23 16:50:59",
       "album": {
         "name": "The Life of a Showgirl",
         "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
@@ -593,7 +617,7 @@
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
     },
     {
-      "added_at": "2025-11-22 15:28:21",
+      "added_at": "2025-11-23 16:50:59",
       "album": {
         "name": "corte certero",
         "url": "https://open.spotify.com/album/6H5Pk9mqQuL8LyLcREeEnk"
@@ -609,7 +633,7 @@
       "url": "https://open.spotify.com/track/5fqrhkZBgN2TQMU450fV39"
     },
     {
-      "added_at": "2025-11-22 15:28:21",
+      "added_at": "2025-11-23 16:50:59",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -641,31 +665,39 @@
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
     },
     {
-      "added_at": "2025-11-22 15:28:21",
+      "added_at": "2025-11-23 16:50:59",
       "album": {
-        "name": "LO QUE ME FALTA POR LLORAR",
-        "url": "https://open.spotify.com/album/1rQaw35QueiDUvAhvTOWZi"
+        "name": "IRIS OUT",
+        "url": "https://open.spotify.com/album/06re45NBDCPah74jnVOISQ"
       },
       "artists": [
         {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
-        {
-          "name": "Cris MJ",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
         }
       ],
-      "duration_ms": 205044,
-      "name": "tu favorito",
-      "url": "https://open.spotify.com/track/3pRGHJs44yC68rQU9hAWa9"
+      "duration_ms": 151573,
+      "name": "IRIS OUT",
+      "url": "https://open.spotify.com/track/59hVbgr8rfYkDbHfr8RcGI"
     },
     {
-      "added_at": "2025-11-22 15:28:21",
+      "added_at": "2025-11-23 16:50:59",
+      "album": {
+        "name": "(What's The Story) Morning Glory? [Remastered]",
+        "url": "https://open.spotify.com/album/1VW1MFNstaJuygaoTPkdCk"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 267986,
+      "name": "Acquiesce - Remastered",
+      "url": "https://open.spotify.com/track/11JIdNpBagg6G0NHLDm2v2"
+    },
+    {
+      "added_at": "2025-11-23 16:50:59",
       "album": {
         "name": "Por Ese Hombre",
         "url": "https://open.spotify.com/album/6NvHIKUxJtUJnLSrcNYDRL"
@@ -689,39 +721,27 @@
       "url": "https://open.spotify.com/track/4LLM1vflM6qCdFVsJPiq1p"
     },
     {
-      "added_at": "2025-11-22 15:28:21",
+      "added_at": "2025-11-23 16:50:59",
       "album": {
-        "name": "IRIS OUT",
-        "url": "https://open.spotify.com/album/06re45NBDCPah74jnVOISQ"
+        "name": "Matando La Liga 2",
+        "url": "https://open.spotify.com/album/2OVAk6ObS03HPnPhSMWKpe"
       },
       "artists": [
         {
-          "name": "Kenshi Yonezu",
-          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
-        }
-      ],
-      "duration_ms": 151573,
-      "name": "IRIS OUT",
-      "url": "https://open.spotify.com/track/59hVbgr8rfYkDbHfr8RcGI"
-    },
-    {
-      "added_at": "2025-11-22 15:28:21",
-      "album": {
-        "name": "FEMME FATALE",
-        "url": "https://open.spotify.com/album/7q2GxttTFDWOihvnSWdwWw"
-      },
-      "artists": [
+          "name": "Jory Boy",
+          "url": "https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT"
+        },
         {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
         }
       ],
-      "duration_ms": 250162,
-      "name": "Femme Fatale",
-      "url": "https://open.spotify.com/track/2T5ELHiRW8pGcWyJaurFgJ"
+      "duration_ms": 174379,
+      "name": "Incorregible",
+      "url": "https://open.spotify.com/track/5BopAwInvbrMFbbV4Y4BHF"
     },
     {
-      "added_at": "2025-11-22 15:28:21",
+      "added_at": "2025-11-23 16:50:59",
       "album": {
         "name": "SATIROLOG\u00cdA (DELUXE EDITION)",
         "url": "https://open.spotify.com/album/6DGGDTzn0msZRptzHHcMNE"
@@ -737,43 +757,47 @@
       "url": "https://open.spotify.com/track/1iTBWVDuQaQ7yMybZri66d"
     },
     {
-      "added_at": "2025-11-22 15:28:21",
+      "added_at": "2025-11-23 16:50:59",
       "album": {
-        "name": "Sentimiento M\u00e1gico",
-        "url": "https://open.spotify.com/album/3KLs4d5dia53jBDIIuk7PR"
+        "name": "FEMME FATALE",
+        "url": "https://open.spotify.com/album/7q2GxttTFDWOihvnSWdwWw"
       },
       "artists": [
         {
-          "name": "Benja Valencia",
-          "url": "https://open.spotify.com/artist/2N4rDzKt2aZK1ksES0YKBP"
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 250162,
+      "name": "Femme Fatale",
+      "url": "https://open.spotify.com/track/2T5ELHiRW8pGcWyJaurFgJ"
+    },
+    {
+      "added_at": "2025-11-23 16:50:59",
+      "album": {
+        "name": "LO QUE ME FALTA POR LLORAR",
+        "url": "https://open.spotify.com/album/1rQaw35QueiDUvAhvTOWZi"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         },
         {
-          "name": "SINAKA",
-          "url": "https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl"
-        }
-      ],
-      "duration_ms": 202857,
-      "name": "Sentimiento M\u00e1gico",
-      "url": "https://open.spotify.com/track/2jakPYMHBWLubIQEeceVoL"
-    },
-    {
-      "added_at": "2025-11-22 15:28:21",
-      "album": {
-        "name": "(What's The Story) Morning Glory? [Remastered]",
-        "url": "https://open.spotify.com/album/1VW1MFNstaJuygaoTPkdCk"
-      },
-      "artists": [
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
         {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+          "name": "Cris MJ",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
         }
       ],
-      "duration_ms": 267986,
-      "name": "Acquiesce - Remastered",
-      "url": "https://open.spotify.com/track/11JIdNpBagg6G0NHLDm2v2"
+      "duration_ms": 205044,
+      "name": "tu favorito",
+      "url": "https://open.spotify.com/track/3pRGHJs44yC68rQU9hAWa9"
     },
     {
-      "added_at": "2025-11-22 15:28:21",
+      "added_at": "2025-11-23 16:50:59",
       "album": {
         "name": "YOGURCITO REMIX (feat. Kris R., ROA)",
         "url": "https://open.spotify.com/album/3VpceHZ7RMR5Te1GljOED9"
@@ -809,27 +833,59 @@
       "url": "https://open.spotify.com/track/7nrd0eIftH3NQLfgk20Qp9"
     },
     {
-      "added_at": "2025-11-22 15:28:21",
+      "added_at": "2025-11-23 16:50:59",
       "album": {
-        "name": "Matando La Liga 2",
-        "url": "https://open.spotify.com/album/2OVAk6ObS03HPnPhSMWKpe"
+        "name": "(What's The Story) Morning Glory? [Remastered]",
+        "url": "https://open.spotify.com/album/1VW1MFNstaJuygaoTPkdCk"
       },
       "artists": [
         {
-          "name": "Jory Boy",
-          "url": "https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 174379,
-      "name": "Incorregible",
-      "url": "https://open.spotify.com/track/5BopAwInvbrMFbbV4Y4BHF"
+      "duration_ms": 303320,
+      "name": "Morning Glory - Remastered",
+      "url": "https://open.spotify.com/track/0awZMpokrVSdvtYe1MdcWM"
     },
     {
-      "added_at": "2025-11-22 15:28:21",
+      "added_at": "2025-11-23 16:50:59",
+      "album": {
+        "name": "Heathen Chemistry",
+        "url": "https://open.spotify.com/album/4mMan8IGNJUhZ6du15ki5T"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 303133,
+      "name": "Stop Crying Your Heart Out",
+      "url": "https://open.spotify.com/track/5YciOakY5dB5dULkiLdCaf"
+    },
+    {
+      "added_at": "2025-11-23 16:50:59",
+      "album": {
+        "name": "La Vida Era M\u00e1s Corta",
+        "url": "https://open.spotify.com/album/0sQR1p7NyAUqMPmWdZ6UBd"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        },
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "duration_ms": 233653,
+      "name": "Gil",
+      "url": "https://open.spotify.com/track/5jgmQkVypORb3enASCxjYs"
+    },
+    {
+      "added_at": "2025-11-23 16:50:59",
       "album": {
         "name": "The Door (Tiago PZK Version)",
         "url": "https://open.spotify.com/album/7KZQ4RX8Eqcx36FAWgCpx2"
@@ -849,27 +905,7 @@
       "url": "https://open.spotify.com/track/4yq8Oc51K2mgLfo9BjU3Rr"
     },
     {
-      "added_at": "2025-11-22 15:28:21",
-      "album": {
-        "name": "Bendito Verano",
-        "url": "https://open.spotify.com/album/3879XuqQ01JARbfd5pMH3s"
-      },
-      "artists": [
-        {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
-        },
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        }
-      ],
-      "duration_ms": 215217,
-      "name": "Luna de Miel",
-      "url": "https://open.spotify.com/track/5o6Ydp2XdrOSNcRNYGKN1V"
-    },
-    {
-      "added_at": "2025-11-22 15:28:21",
+      "added_at": "2025-11-23 16:50:59",
       "album": {
         "name": "La Nena del Case",
         "url": "https://open.spotify.com/album/766wgqqO7B1kCcxqMC35Hj"
@@ -897,59 +933,27 @@
       "url": "https://open.spotify.com/track/7cSyAfNpygwbo1TMzAHnee"
     },
     {
-      "added_at": "2025-11-22 15:28:21",
+      "added_at": "2025-11-23 16:50:59",
       "album": {
-        "name": "Heathen Chemistry",
-        "url": "https://open.spotify.com/album/4mMan8IGNJUhZ6du15ki5T"
+        "name": "Bendito Verano",
+        "url": "https://open.spotify.com/album/3879XuqQ01JARbfd5pMH3s"
       },
       "artists": [
         {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 303133,
-      "name": "Stop Crying Your Heart Out",
-      "url": "https://open.spotify.com/track/5YciOakY5dB5dULkiLdCaf"
-    },
-    {
-      "added_at": "2025-11-22 15:28:21",
-      "album": {
-        "name": "(What's The Story) Morning Glory? [Remastered]",
-        "url": "https://open.spotify.com/album/1VW1MFNstaJuygaoTPkdCk"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 303320,
-      "name": "Morning Glory - Remastered",
-      "url": "https://open.spotify.com/track/0awZMpokrVSdvtYe1MdcWM"
-    },
-    {
-      "added_at": "2025-11-22 15:28:21",
-      "album": {
-        "name": "La Vida Era M\u00e1s Corta",
-        "url": "https://open.spotify.com/album/0sQR1p7NyAUqMPmWdZ6UBd"
-      },
-      "artists": [
-        {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
         },
         {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
         }
       ],
-      "duration_ms": 233653,
-      "name": "Gil",
-      "url": "https://open.spotify.com/track/5jgmQkVypORb3enASCxjYs"
+      "duration_ms": 215217,
+      "name": "Luna de Miel",
+      "url": "https://open.spotify.com/track/5o6Ydp2XdrOSNcRNYGKN1V"
     },
     {
-      "added_at": "2025-11-22 15:28:21",
+      "added_at": "2025-11-23 16:50:59",
       "album": {
         "name": "NEBULA",
         "url": "https://open.spotify.com/album/4i1OZHeyahqM6GpIjBdX47"
@@ -969,7 +973,7 @@
       "url": "https://open.spotify.com/track/1M9CdHPNe2DJ4rfn1iTSDS"
     },
     {
-      "added_at": "2025-11-22 15:28:21",
+      "added_at": "2025-11-23 16:50:59",
       "album": {
         "name": "Jarabe",
         "url": "https://open.spotify.com/album/4ra3XZkRShYQU2nrmkwkdX"
@@ -997,20 +1001,20 @@
       "url": "https://open.spotify.com/track/164OlXnohTdNz8JLDnh4RA"
     },
     {
-      "added_at": "2025-11-22 15:28:21",
+      "added_at": "2025-11-23 16:50:59",
       "album": {
-        "name": "Shadows & Soul",
-        "url": "https://open.spotify.com/album/1PihbFD5ixzRI790bozyzx"
+        "name": "Urban Hymns (Remastered 2016)",
+        "url": "https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD"
       },
       "artists": [
         {
-          "name": "Enlly",
-          "url": "https://open.spotify.com/artist/4hm3WsEjU56qjJHY9vL9Jd"
+          "name": "The Verve",
+          "url": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
         }
       ],
-      "duration_ms": 210522,
-      "name": "Through My Soul",
-      "url": "https://open.spotify.com/track/7Gw9le1yw6MTSzqugtc6E0"
+      "duration_ms": 357266,
+      "name": "Bitter Sweet Symphony - Remastered 2016",
+      "url": "https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw"
     }
   ],
   "unique_name": "Viral 50 - Chile",

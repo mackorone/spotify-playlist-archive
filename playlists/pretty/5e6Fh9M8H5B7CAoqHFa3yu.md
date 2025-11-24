@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 246 likes - 1,652 songs - 4 day 4 hr 46 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 246 likes - 1,661 songs - 4 day 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1660,5 +1660,14 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 1650 | [Fireside](https://open.spotify.com/track/0ZDHsXc2Oe3PXKaNH38tR2) | [Helkemar](https://open.spotify.com/artist/1a6v8eZD7UBHDpYjYd0eQl) | [Fireside](https://open.spotify.com/album/3hKn1c0BwHI1PzWQELe6tM) | 2:29 |
 | 1651 | [Angel](https://open.spotify.com/track/2C0DJg7JtzhaSXgiuGOVAm) | [Optacure](https://open.spotify.com/artist/7wlWWs08zvaXAvAxqAlTQ3), [Ean Aguila](https://open.spotify.com/artist/2zMP0KNQXgr3YviWYeRb8D) | [Angel](https://open.spotify.com/album/36BOTVbt4r7G5I3nNuY0vi) | 4:59 |
 | 1652 | [Burn The Floor](https://open.spotify.com/track/1tJEcaWD4iIYoB1YZ1Cb1k) | [Fit with Luana](https://open.spotify.com/artist/0FJHi0Z34sZvHetSXPr5uw) | [Burn The Floor](https://open.spotify.com/album/1eyeG8hYgB6xs1PFCjCwEe) | 2:12 |
+| 1653 | [Freedom \- Extended Cut](https://open.spotify.com/track/4MFHF149zgyc8Lp4ELtknr) | [Med Dred](https://open.spotify.com/artist/6utzvGsysMRFwhsetANHlg), [Rastaveli Mc](https://open.spotify.com/artist/6ICkNtvRDTnwfm8gMZgn3s), [Ras Nelson](https://open.spotify.com/artist/0FlSNH3M4XIVpVYNWp5jFJ) | [Freedom](https://open.spotify.com/album/2YlNz8dbnVIdsjHXRJp30Z) | 4:05 |
+| 1654 | [Freedom \- Radio Edit](https://open.spotify.com/track/0lBIhKSfwnGezALcBxdLfy) | [Med Dred](https://open.spotify.com/artist/6utzvGsysMRFwhsetANHlg), [Rastaveli Mc](https://open.spotify.com/artist/6ICkNtvRDTnwfm8gMZgn3s), [Ras Nelson](https://open.spotify.com/artist/0FlSNH3M4XIVpVYNWp5jFJ) | [Freedom](https://open.spotify.com/album/2YlNz8dbnVIdsjHXRJp30Z) | 3:28 |
+| 1655 | [Freedom Dub \- Live Dub](https://open.spotify.com/track/627rEyoBAN37fIzvduUUsJ) | [Med Dred](https://open.spotify.com/artist/6utzvGsysMRFwhsetANHlg), [Rastaveli Mc](https://open.spotify.com/artist/6ICkNtvRDTnwfm8gMZgn3s), [Ras Nelson](https://open.spotify.com/artist/0FlSNH3M4XIVpVYNWp5jFJ) | [Freedom](https://open.spotify.com/album/2YlNz8dbnVIdsjHXRJp30Z) | 4:12 |
+| 1656 | [Pa' Lante Levante Picante \- Andrea Belli, Dave Roy Bland Remix](https://open.spotify.com/track/6Qz0p6u45eDCqnCm5zl5aO) | [Ant Sant](https://open.spotify.com/artist/6egoPfyBDT6F1noXAVmmVj), [Andrea Belli](https://open.spotify.com/artist/65buRrCpNVkMbkKspjt5iR), [Dave Roy Bland](https://open.spotify.com/artist/1X3vecxOTZqDpEVb4Y4nVd) | [Pa' Lante Levante Picante](https://open.spotify.com/album/6U5Iz1YkJ3IlOSVgYDEeKu) | 4:01 |
+| 1657 | [Moroccans In Formentera](https://open.spotify.com/track/2kPZfn124zxRuLJwl1IcjX) | [Mwamba Group](https://open.spotify.com/artist/4wQTmrzVZ2pUDsr2gaUXND) | [Moroccans In Formentera](https://open.spotify.com/album/6fpm9vB4dgG4V5uU7A3TPR) | 2:14 |
+| 1658 | [Moroccans In Formentera \- Extended Mix](https://open.spotify.com/track/5NiGS2BgpwchdyCDOTRRGl) | [Mwamba Group](https://open.spotify.com/artist/4wQTmrzVZ2pUDsr2gaUXND) | [Moroccans In Formentera](https://open.spotify.com/album/6fpm9vB4dgG4V5uU7A3TPR) | 3:22 |
+| 1659 | [BLACK TOWN](https://open.spotify.com/track/4MLD1rUJYsDl8YKaHGP17Z) | [SPYROL](https://open.spotify.com/artist/4RRp58MyXF2GEX50W3QdMv) | [BLACK TOWN](https://open.spotify.com/album/1F7F5LFxVH0cTu97rypLUa) | 4:02 |
+| 1660 | [CULTIST](https://open.spotify.com/track/2p0MRLv6SoGfL66JLp2vKa) | [SPYROL](https://open.spotify.com/artist/4RRp58MyXF2GEX50W3QdMv) | [CULTIST](https://open.spotify.com/album/2HH4A7x59P8IyiAWTYcwD9) | 2:50 |
+| 1661 | [TAKE MY SPIRIT](https://open.spotify.com/track/5O7EzrzBWd8cFQNuYIkD9v) | [SPYROL](https://open.spotify.com/artist/4RRp58MyXF2GEX50W3QdMv) | [TAKE MY SPIRIT](https://open.spotify.com/album/1hpMQAKTnl6fNh1vJccwmu) | 3:14 |
 
-Snapshot ID: `AAAHWgBrvg6lvHUi3YRWTV2Jrh2SlQdZ`
+Snapshot ID: `AAAHYTUOOJcgqf0lvcBdqqVqeAOUpK9J`

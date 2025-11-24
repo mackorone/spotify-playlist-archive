@@ -1,6 +1,6 @@
 {
   "description": "Beste Nederlandstalige songs uit de 90's! Cover: Acda en de Munnik",
-  "num_followers": 79678,
+  "num_followers": 79701,
   "original_name": "90's Nederlandstalig",
   "owner": {
     "name": "Spotify",
@@ -443,6 +443,22 @@
     {
       "added_at": "2024-07-09 16:41:04",
       "album": {
+        "name": "Acda en de Munnik",
+        "url": "https://open.spotify.com/album/4okhW4vkL1mMAtDleBpx11"
+      },
+      "artists": [
+        {
+          "name": "Acda en de Munnik",
+          "url": "https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "Mooi Liedje",
+      "url": "https://open.spotify.com/track/6ZmN1gbHEGbcquWAWhHV7z"
+    },
+    {
+      "added_at": "2024-07-09 16:41:04",
+      "album": {
         "name": "Verbazing",
         "url": "https://open.spotify.com/album/6hqBbsWRFC9Mh1Z2YdYDNQ"
       },
@@ -463,34 +479,18 @@
     {
       "added_at": "2024-07-09 16:41:04",
       "album": {
-        "name": "Acda en de Munnik",
-        "url": "https://open.spotify.com/album/4okhW4vkL1mMAtDleBpx11"
+        "name": "Kon ik maar even bij je zijn",
+        "url": "https://open.spotify.com/album/1dxE4FTB0e9gtDEqjByt0J"
       },
       "artists": [
         {
-          "name": "Acda en de Munnik",
-          "url": "https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh"
+          "name": "Gordon",
+          "url": "https://open.spotify.com/artist/2lzeV1nxm8MB7z85L53JV2"
         }
       ],
-      "duration_ms": 179000,
-      "name": "Mooi Liedje",
-      "url": "https://open.spotify.com/track/6ZmN1gbHEGbcquWAWhHV7z"
-    },
-    {
-      "added_at": "2024-07-09 16:41:04",
-      "album": {
-        "name": "Het Mooiste & Het Beste",
-        "url": "https://open.spotify.com/album/3XiJiFN96NyaWs728epe59"
-      },
-      "artists": [
-        {
-          "name": "Frank Boeijen",
-          "url": "https://open.spotify.com/artist/0e6dXSbAaFM0M9SlsgHIBj"
-        }
-      ],
-      "duration_ms": 161093,
-      "name": "Zeg Me Dat Het Niet Zo Is",
-      "url": "https://open.spotify.com/track/5SO1xQrOt9JfiLsNmp2Ha8"
+      "duration_ms": 281493,
+      "name": "Kon Ik Maar Even Bij Je Zijn",
+      "url": "https://open.spotify.com/track/0vWOq4z0mDYs0GSs7imUEd"
     },
     {
       "added_at": "2024-07-09 16:41:04",
@@ -507,6 +507,22 @@
       "duration_ms": 298400,
       "name": "In Nije Dei (Live)",
       "url": "https://open.spotify.com/track/6ckD6hc0JylXs6xHuwKx3b"
+    },
+    {
+      "added_at": "2024-07-09 16:41:04",
+      "album": {
+        "name": "Het Mooiste & Het Beste",
+        "url": "https://open.spotify.com/album/3XiJiFN96NyaWs728epe59"
+      },
+      "artists": [
+        {
+          "name": "Frank Boeijen",
+          "url": "https://open.spotify.com/artist/0e6dXSbAaFM0M9SlsgHIBj"
+        }
+      ],
+      "duration_ms": 161093,
+      "name": "Zeg Me Dat Het Niet Zo Is",
+      "url": "https://open.spotify.com/track/5SO1xQrOt9JfiLsNmp2Ha8"
     },
     {
       "added_at": "2024-07-09 16:41:04",
@@ -531,22 +547,6 @@
     {
       "added_at": "2024-07-09 16:41:04",
       "album": {
-        "name": "Kon ik maar even bij je zijn",
-        "url": "https://open.spotify.com/album/1dxE4FTB0e9gtDEqjByt0J"
-      },
-      "artists": [
-        {
-          "name": "Gordon",
-          "url": "https://open.spotify.com/artist/2lzeV1nxm8MB7z85L53JV2"
-        }
-      ],
-      "duration_ms": 281493,
-      "name": "Kon Ik Maar Even Bij Je Zijn",
-      "url": "https://open.spotify.com/track/0vWOq4z0mDYs0GSs7imUEd"
-    },
-    {
-      "added_at": "2024-07-09 16:41:04",
-      "album": {
         "name": "Niemand In De Stad",
         "url": "https://open.spotify.com/album/5KPMgi5lSNycOM0Mhdve8H"
       },
@@ -559,6 +559,26 @@
       "duration_ms": 291066,
       "name": "Niemand In De Stad",
       "url": "https://open.spotify.com/track/03aukU1sYTGD7bE5mypWWe"
+    },
+    {
+      "added_at": "2024-07-09 16:41:04",
+      "album": {
+        "name": "Met Hart En Ziel",
+        "url": "https://open.spotify.com/album/352HAAGl4O9F9SxFGikPlE"
+      },
+      "artists": [
+        {
+          "name": "Gordon",
+          "url": "https://open.spotify.com/artist/2lzeV1nxm8MB7z85L53JV2"
+        },
+        {
+          "name": "Re-Play",
+          "url": "https://open.spotify.com/artist/3P6TDldsIBKCowucdJfFZd"
+        }
+      ],
+      "duration_ms": 268133,
+      "name": "Never Nooit Meer (met Re-Play)",
+      "url": "https://open.spotify.com/track/10H17JhicnxEQgCTRaYFCQ"
     },
     {
       "added_at": "2024-07-09 16:41:04",
@@ -607,26 +627,6 @@
       "duration_ms": 226506,
       "name": "Iedereen Is Van De Wereld",
       "url": "https://open.spotify.com/track/7DiNSKlP2d7OiiMNlSeBtb"
-    },
-    {
-      "added_at": "2024-07-09 16:41:04",
-      "album": {
-        "name": "Met Hart En Ziel",
-        "url": "https://open.spotify.com/album/352HAAGl4O9F9SxFGikPlE"
-      },
-      "artists": [
-        {
-          "name": "Gordon",
-          "url": "https://open.spotify.com/artist/2lzeV1nxm8MB7z85L53JV2"
-        },
-        {
-          "name": "Re-Play",
-          "url": "https://open.spotify.com/artist/3P6TDldsIBKCowucdJfFZd"
-        }
-      ],
-      "duration_ms": 268133,
-      "name": "Never Nooit Meer (met Re-Play)",
-      "url": "https://open.spotify.com/track/10H17JhicnxEQgCTRaYFCQ"
     },
     {
       "added_at": "2024-07-09 16:41:04",

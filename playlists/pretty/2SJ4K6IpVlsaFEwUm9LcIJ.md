@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to nov\-dec 2025
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,564 likes - 19 songs - 1 hr 11 min
+[margeaux](https://open.spotify.com/user/1220511975) - 23,565 likes - 20 songs - 1 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,5 +27,6 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 17 | [Love You To Death](https://open.spotify.com/track/1n37LpBrr9CU9IJYotLMZO) | [Snowy Band](https://open.spotify.com/artist/0Ky0HZRpab9SW891Jb9gce) | [Audio Commentary](https://open.spotify.com/album/2XY6A8TMHbPaffK00b72BO) | 4:02 |
 | 18 | [Sarra](https://open.spotify.com/track/1jE72J1IkFypVBhAt4EnIv) | [Gary Davenport](https://open.spotify.com/artist/49c7NHtdbavJhYgbbSMqDN) | [Scattered Thoughts](https://open.spotify.com/album/5ESXATt30MXodjyyubLgx2) | 5:04 |
 | 19 | [I Remember](https://open.spotify.com/track/0MwHIsIwUC2ts29Ss9292d) | [Scott Seskind](https://open.spotify.com/artist/1BROnwSE0J8usGGxcTGUi3) | [Sky Girl](https://open.spotify.com/album/26KwR2FDMoA6OgYPtPy0U9) | 2:56 |
+| 20 | [caravanas](https://open.spotify.com/track/4yoF14WIqNJXDvTtHO7Jjh) | [Juana Molina](https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3) | [DOGA](https://open.spotify.com/album/5uFCdSiMEKVDWY5TQ3eEmY) | 4:06 |
 
-Snapshot ID: `AAANbjhbwOR3Cz0m78F0U8dEL+CTogqh`
+Snapshot ID: `AAANb497RSpMByh5B9d2rlp2dWCA3TN8`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 
 > New and local indie noise\. Cover: Dick Move
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,452 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,448 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 | 99 | [Straight Line Was A Lie](https://open.spotify.com/track/2cZaZRwbtf5aZXtJC43tx4) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Straight Line Was A Lie](https://open.spotify.com/album/30Byf6kLkgZ3B2lp739Hlo) | 4:04 |
 | 100 | [Night Like This](https://open.spotify.com/track/7bmLVtyAYDp7lls6PW2mtM) | [Lazy Haze](https://open.spotify.com/artist/6L2JrLAUsJFuE27Pl6OTlP) | [Night Like This](https://open.spotify.com/album/0EC3EWmtNxh0POqOwbjzAp) | 3:36 |
 
-Snapshot ID: `AAAAAE8oKK/huC+dCMgryIqnUGYjv2vv`
+Snapshot ID: `AAAAAJtmJnkP47ihzpuX5cslBGjYx2F8`

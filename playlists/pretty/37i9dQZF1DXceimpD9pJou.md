@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Living
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,289 likes - 100 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,288 likes - 100 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 14 | [Me agarre de Jesucristo](https://open.spotify.com/track/71Ga9BINxqe1jIhcTXPTKm) | [Bolañito](https://open.spotify.com/artist/2fwfSrfPAvhJQKjqGzbGSE) | [Me agarre de Jesucristo](https://open.spotify.com/album/5moaVFw9QoaA1IPxCb71tf) | 3:49 |
 | 15 | [Alfarero](https://open.spotify.com/track/4s1V1jpkVthD7Om3I4ZaVx) | [Yore](https://open.spotify.com/artist/6vBxQQKQFsW9PtLxFUOGPa), [Verónica Solares](https://open.spotify.com/artist/066fEYGdOegnz2e3wjbKxr) | [Alfarero](https://open.spotify.com/album/2GxTHBxsy5sYDSIiWKAYH3) | 3:22 |
 | 16 | [Que Me Falte Todo](https://open.spotify.com/track/0w2YDdzNNOfQ14JBmjkOI5) | [Kevin Ceballo](https://open.spotify.com/artist/41xsiEh9qfWhieXgsoI43v) | [Que Me Falte Todo](https://open.spotify.com/album/0jbN3YaQTZTfVprTljwOGO) | 6:01 |
-| 17 | [La Iglesia \- Worship Together Sesión](https://open.spotify.com/track/3YozSL9fTWBaCAa7z7jRfx) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE), [Genock Gabriel](https://open.spotify.com/artist/5g25JYxFKsH3nKaycuSodP), [Andre'a Alexis](https://open.spotify.com/artist/2MMo62r5VTKPSCI1weoMwu), [Josh Morales](https://open.spotify.com/artist/1wFbpEhrHzMU1rcKM9KAA5) | [La Iglesia \(Worship Together Sesión\)](https://open.spotify.com/album/5NuobtMkZ2m5KrZ2YLlgeK) | 6:23 |
+| 17 | [La Iglesia](https://open.spotify.com/track/3YozSL9fTWBaCAa7z7jRfx) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE), [Genock Gabriel](https://open.spotify.com/artist/5g25JYxFKsH3nKaycuSodP), [Andre'a Alexis](https://open.spotify.com/artist/2MMo62r5VTKPSCI1weoMwu), [Josh Morales](https://open.spotify.com/artist/1wFbpEhrHzMU1rcKM9KAA5) | [La Iglesia](https://open.spotify.com/album/5NuobtMkZ2m5KrZ2YLlgeK) | 6:23 |
 | 18 | [Jesus \- Live](https://open.spotify.com/track/6TdcOlJUVPhVMJWsDHcIN9) | [Montesanto](https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ) | [Nuestra Ofrenda \(Live\)](https://open.spotify.com/album/4NbRvTOFw4KkQCrihBid25) | 5:07 |
 | 19 | [Pentecostés](https://open.spotify.com/track/1KIBADWo7iYgxmERyTEvbN) | [Karen Espinosa](https://open.spotify.com/artist/6XNVOebbeiowkj9FJwvc7m), [Averly Morillo](https://open.spotify.com/artist/40oCnQkoBkpfTohVnTf40S) | [Pentecostés](https://open.spotify.com/album/35Zk6WOyio1N2eQUypbRuw) | 10:00 |
 | 20 | [LLENOS DE PODER](https://open.spotify.com/track/0NfCjsBMZWOpfE7Nz4TiF7) | [Cita Con el Padre](https://open.spotify.com/artist/0L6N5Bc6pyZLndWo930w3a), [World Worship](https://open.spotify.com/artist/0sWeunTzY69e7TCkUflZQm) | [LLENOS DE PODER](https://open.spotify.com/album/4Y0ZEfMGp9WxsO3RuimTLz) | 8:34 |

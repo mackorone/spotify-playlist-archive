@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aR+rgAAAAAB3qayx6LqxytoybbqQQJmG",
+  "snapshot_id": "aSD9AAAAAADqXtbMO31H/8s8C0CeAJa6",
   "tracks": [
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 212453,
-      "name": "Caras Maquilladas",
-      "url": "https://open.spotify.com/track/0svWbaRgTAjKBEU2a0axfS"
+      "duration_ms": 160306,
+      "name": "El D\u00eda",
+      "url": "https://open.spotify.com/track/0OMJ0zX9Zyc6g15nF7Haf2"
     },
     {
       "added_at": null,
@@ -388,25 +388,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 160306,
-      "name": "El D\u00eda",
-      "url": "https://open.spotify.com/track/0OMJ0zX9Zyc6g15nF7Haf2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Somos la Gente (Somos 2)",
-        "url": "https://open.spotify.com/album/1ahfHigpORAaxqpRS6qAM8"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9n",
-          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
-        }
-      ],
-      "duration_ms": 112080,
-      "name": "Un Mensaje para Ti (\u00c1ngel)",
-      "url": "https://open.spotify.com/track/2XsAeAj9nSUX1T1HHnQ7PU"
+      "duration_ms": 212453,
+      "name": "Caras Maquilladas",
+      "url": "https://open.spotify.com/track/0svWbaRgTAjKBEU2a0axfS"
     },
     {
       "added_at": null,
@@ -427,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tiempos de Resurrecci\u00f3n",
-        "url": "https://open.spotify.com/album/0eDQe2HtPCCNwJ6DjxnDVN"
+        "name": "Somos la Gente (Somos 2)",
+        "url": "https://open.spotify.com/album/1ahfHigpORAaxqpRS6qAM8"
       },
       "artists": [
         {
@@ -436,9 +420,25 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 195000,
-      "name": "Simplemente",
-      "url": "https://open.spotify.com/track/5vSazQapaO0msTsRXSbdU7"
+      "duration_ms": 112080,
+      "name": "Un Mensaje para Ti (\u00c1ngel)",
+      "url": "https://open.spotify.com/track/2XsAeAj9nSUX1T1HHnQ7PU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "2020",
+        "url": "https://open.spotify.com/album/1oXZpcZxhAIPejsCHdpq8o"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "duration_ms": 136081,
+      "name": "No S\u00e9 por Qu\u00e9",
+      "url": "https://open.spotify.com/track/0YvFPgjHcLj3s6vfxzti2l"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "2020",
-        "url": "https://open.spotify.com/album/1oXZpcZxhAIPejsCHdpq8o"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9n",
-          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
-        }
-      ],
-      "duration_ms": 136081,
-      "name": "No S\u00e9 por Qu\u00e9",
-      "url": "https://open.spotify.com/track/0YvFPgjHcLj3s6vfxzti2l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tiempos de Resurrecci\u00f3n",
         "url": "https://open.spotify.com/album/0eDQe2HtPCCNwJ6DjxnDVN"
       },
@@ -500,25 +484,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 130500,
-      "name": "El Tunel del Amor",
-      "url": "https://open.spotify.com/track/0n5FF2PC3STxUgPFtCHrsN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Somos la Gente (Somos Uno)",
-        "url": "https://open.spotify.com/album/165JYqcw1Eu4iCMddeGzrv"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9n",
-          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
-        }
-      ],
-      "duration_ms": 188546,
-      "name": "Cambia Esa Cara",
-      "url": "https://open.spotify.com/track/4Xiph5Fmh21XoRTzge0l3y"
+      "duration_ms": 195000,
+      "name": "Simplemente",
+      "url": "https://open.spotify.com/track/5vSazQapaO0msTsRXSbdU7"
     },
     {
       "added_at": null,
@@ -539,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Somos la Gente (Somos Uno)",
+        "url": "https://open.spotify.com/album/165JYqcw1Eu4iCMddeGzrv"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "duration_ms": 188546,
+      "name": "Cambia Esa Cara",
+      "url": "https://open.spotify.com/track/4Xiph5Fmh21XoRTzge0l3y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rutas",
         "url": "https://open.spotify.com/album/2R1OQoBjl5F50MGEEXqWDd"
       },
@@ -555,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Libre",
-        "url": "https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH"
+        "name": "Tiempos de Resurrecci\u00f3n",
+        "url": "https://open.spotify.com/album/0eDQe2HtPCCNwJ6DjxnDVN"
       },
       "artists": [
         {
@@ -564,9 +548,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 253733,
-      "name": "No Me Estoy Quemando",
-      "url": "https://open.spotify.com/track/3z7Rh2GBx6ktNjh0GrumNJ"
+      "duration_ms": 130500,
+      "name": "El Tunel del Amor",
+      "url": "https://open.spotify.com/track/0n5FF2PC3STxUgPFtCHrsN"
     },
     {
       "added_at": null,
@@ -587,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tiempos de Resurrecci\u00f3n",
-        "url": "https://open.spotify.com/album/0eDQe2HtPCCNwJ6DjxnDVN"
+        "name": "Libre",
+        "url": "https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH"
       },
       "artists": [
         {
@@ -596,9 +580,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 157524,
-      "name": "La Ultima Canci\u00f3n. \u00c1mame - Bonus Track",
-      "url": "https://open.spotify.com/track/0uGerlDGcEVGRvFLtFJsmf"
+      "duration_ms": 253733,
+      "name": "No Me Estoy Quemando",
+      "url": "https://open.spotify.com/track/3z7Rh2GBx6ktNjh0GrumNJ"
     },
     {
       "added_at": null,
@@ -619,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Libre",
-        "url": "https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH"
+        "name": "Tiempos de Resurrecci\u00f3n",
+        "url": "https://open.spotify.com/album/0eDQe2HtPCCNwJ6DjxnDVN"
       },
       "artists": [
         {
@@ -628,9 +612,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 57573,
-      "name": "Jam Session",
-      "url": "https://open.spotify.com/track/6qmz2Q6Nvg2Q7e2VlphVEM"
+      "duration_ms": 157524,
+      "name": "La Ultima Canci\u00f3n. \u00c1mame - Bonus Track",
+      "url": "https://open.spotify.com/track/0uGerlDGcEVGRvFLtFJsmf"
     },
     {
       "added_at": null,
@@ -647,6 +631,22 @@
       "duration_ms": 281757,
       "name": "2020",
       "url": "https://open.spotify.com/track/6kY9lyIn4FPuIse0a6Ettb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Libre",
+        "url": "https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "duration_ms": 57573,
+      "name": "Jam Session",
+      "url": "https://open.spotify.com/track/6qmz2Q6Nvg2Q7e2VlphVEM"
     },
     {
       "added_at": null,

@@ -5994,7 +5994,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-23",
+      "date_removed": null,
       "duration_ms": 197000,
       "name": "Baby Steps",
       "url": "https://open.spotify.com/track/5SruEBX3KpgpDvEcIuN53P"
@@ -8686,7 +8686,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 244333,
       "name": "BOBADITA",
       "url": "https://open.spotify.com/track/52IeC2QBiJqk9jAR5gbe14"
@@ -11250,7 +11250,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 189524,
       "name": "Cero Empat\u00eda",
       "url": "https://open.spotify.com/track/18OMTIWpHGvhTcQjg83CtQ"
@@ -20544,7 +20544,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 357209,
       "name": "ENDEMO",
       "url": "https://open.spotify.com/track/3SoCCNa8rGh7YGrbb9zBPg"
@@ -24466,7 +24466,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-22",
+      "date_removed": null,
       "duration_ms": 233653,
       "name": "Gil",
       "url": "https://open.spotify.com/track/5jgmQkVypORb3enASCxjYs"
@@ -38396,7 +38396,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 245161,
       "name": "Mi Perra Es",
       "url": "https://open.spotify.com/track/7uyMSEjNulquqW61YOod7z"
@@ -40122,7 +40122,7 @@
       ],
       "date_added": "2025-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-12",
+      "date_removed": null,
       "duration_ms": 101928,
       "name": "MONTAGEM VOZES TALENTINHO - Super Slowed",
       "url": "https://open.spotify.com/track/4gtz0OTJdBWZReh77LgBJT"
@@ -46657,6 +46657,28 @@
     },
     {
       "album": {
+        "name": "Pase Y Toque",
+        "url": "https://open.spotify.com/album/1W7x8lptUT53TkJackPYjO"
+      },
+      "artists": [
+        {
+          "name": "LXN",
+          "url": "https://open.spotify.com/artist/1HqHcHW4jjroNmkQ9q3qJr"
+        },
+        {
+          "name": "Luis Catal\u00e1n",
+          "url": "https://open.spotify.com/artist/1H9zU2hjrw02Bx0F265xe0"
+        }
+      ],
+      "date_added": "2025-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208653,
+      "name": "Pase Y Toque",
+      "url": "https://open.spotify.com/track/2bEPM7tp7d0B6dEGyYpFWq"
+    },
+    {
+      "album": {
         "name": "DATA",
         "url": "https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA"
       },
@@ -49660,7 +49682,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 139863,
       "name": "Pum Pum Shorts",
       "url": "https://open.spotify.com/track/4zIoFmy6xXR8TFpMrrdjNR"
@@ -51918,7 +51940,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 150523,
       "name": "Rey Sin Reina",
       "url": "https://open.spotify.com/track/4VWKUO1My9MfRecR5ftRkr"
@@ -52948,6 +52970,24 @@
     {
       "album": {
         "name": "Saca, Prende Y Sorprende",
+        "url": "https://open.spotify.com/album/1j5ncEpkM28aRKhD9vwXk0"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "date_added": "2025-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357619,
+      "name": "Saca, Prende Y Sorprende",
+      "url": "https://open.spotify.com/track/2VrXIFhpTneKQdwJh8indx"
+    },
+    {
+      "album": {
+        "name": "Saca, Prende Y Sorprende",
         "url": "https://open.spotify.com/album/3fxbfhM7Cm7dKdSVvJAv8u"
       },
       "artists": [
@@ -53802,6 +53842,32 @@
       "duration_ms": 162778,
       "name": "Se Va",
       "url": "https://open.spotify.com/track/1gWRs7Zo6THoIoor5O3eHn"
+    },
+    {
+      "album": {
+        "name": "Se Van",
+        "url": "https://open.spotify.com/album/0WeJqnb242tJSUq8EpMoNB"
+      },
+      "artists": [
+        {
+          "name": "Johnny Ventura",
+          "url": "https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus"
+        },
+        {
+          "name": "Roberto Del Castillo",
+          "url": "https://open.spotify.com/artist/5pwCUTyHUft4VRK1g1fvcp"
+        },
+        {
+          "name": "Jandy Ventura",
+          "url": "https://open.spotify.com/artist/4NcBSpTIAyLVHArLQKGNd7"
+        }
+      ],
+      "date_added": "2025-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230452,
+      "name": "Se Van",
+      "url": "https://open.spotify.com/track/0dYZ1N3OKey2S2WQ3fR1Tl"
     },
     {
       "album": {

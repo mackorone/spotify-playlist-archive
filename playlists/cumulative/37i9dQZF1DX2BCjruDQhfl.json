@@ -3581,6 +3581,24 @@
     },
     {
       "album": {
+        "name": "Waist",
+        "url": "https://open.spotify.com/album/2zv3y2FXzqVJBiYZ6VMXVd"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "date_added": "2025-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165625,
+      "name": "Waist",
+      "url": "https://open.spotify.com/track/3ETeKkq3K4JnKUx0DXEsHS"
+    },
+    {
+      "album": {
         "name": "Wat Love Is",
         "url": "https://open.spotify.com/album/4d2K9x4XkqWwAvHOlb0tva"
       },

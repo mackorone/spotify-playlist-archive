@@ -1,6 +1,6 @@
 {
   "description": "aqui tem feijoada hot dog com pur\u00ea sushi moqueca a\u00e7a\u00ed cm peixe frito mta coisa / Foto: Mari Fernandez, Grelo, Natanzinho Lima",
-  "num_followers": 740626,
+  "num_followers": 740848,
   "original_name": "PURO SUCO DO BRASIL",
   "owner": {
     "name": "Spotify",
@@ -587,6 +587,22 @@
     {
       "added_at": "2025-11-21 03:00:34",
       "album": {
+        "name": "Cortando Ch\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4mTnXTY2tWL8phETnsB5Lk"
+      },
+      "artists": [
+        {
+          "name": "Natanzinho Lima",
+          "url": "https://open.spotify.com/artist/0Il5vC8lqunSFNav4mMLxU"
+        }
+      ],
+      "duration_ms": 193548,
+      "name": "Sonho de Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/6R1baXIg0uOG4g9cwebCjf"
+    },
+    {
+      "added_at": "2025-11-21 03:00:34",
+      "album": {
         "name": "Fica com Deus (Ao Vivo)",
         "url": "https://open.spotify.com/album/0I2TaOTi00hnXngSGoP4RA"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 199871,
       "name": "Fica com Deus - Ao Vivo",
       "url": "https://open.spotify.com/track/5W7OZVxOtnQsPVLOEUvu1G"
-    },
-    {
-      "added_at": "2025-11-21 03:00:34",
-      "album": {
-        "name": "Cortando Ch\u00e3o (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4mTnXTY2tWL8phETnsB5Lk"
-      },
-      "artists": [
-        {
-          "name": "Natanzinho Lima",
-          "url": "https://open.spotify.com/artist/0Il5vC8lqunSFNav4mMLxU"
-        }
-      ],
-      "duration_ms": 193548,
-      "name": "Sonho de Amor - Ao Vivo",
-      "url": "https://open.spotify.com/track/6R1baXIg0uOG4g9cwebCjf"
     },
     {
       "added_at": "2025-11-21 03:00:34",
@@ -695,22 +695,6 @@
     {
       "added_at": "2025-11-21 03:00:34",
       "album": {
-        "name": "Instinto (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1OkPtneB7ahh3BTiLG6dle"
-      },
-      "artists": [
-        {
-          "name": "Gamadinho",
-          "url": "https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt"
-        }
-      ],
-      "duration_ms": 213559,
-      "name": "Instinto - Ao Vivo",
-      "url": "https://open.spotify.com/track/7izihBeq9rmGYnierSTjv8"
-    },
-    {
-      "added_at": "2025-11-21 03:00:34",
-      "album": {
         "name": "Me Apaixonei Nessa Morena",
         "url": "https://open.spotify.com/album/1a7oLVsqFB25CEvqn3sZyU"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 171480,
       "name": "Me Apaixonei Nessa Morena",
       "url": "https://open.spotify.com/track/7xcDd2JxnJtO87QQr8uY0O"
+    },
+    {
+      "added_at": "2025-11-21 03:00:34",
+      "album": {
+        "name": "Instinto (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1OkPtneB7ahh3BTiLG6dle"
+      },
+      "artists": [
+        {
+          "name": "Gamadinho",
+          "url": "https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt"
+        }
+      ],
+      "duration_ms": 213559,
+      "name": "Instinto - Ao Vivo",
+      "url": "https://open.spotify.com/track/7izihBeq9rmGYnierSTjv8"
     },
     {
       "added_at": "2025-11-21 03:00:34",
@@ -843,6 +843,34 @@
     {
       "added_at": "2025-11-21 03:00:34",
       "album": {
+        "name": "ABC da Vaquejada",
+        "url": "https://open.spotify.com/album/3QwSMBYobRGndOgkGzO6TS"
+      },
+      "artists": [
+        {
+          "name": "Tarc\u00edsio do Acordeon",
+          "url": "https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC"
+        },
+        {
+          "name": "Jo\u00e3o Gomes",
+          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
+        },
+        {
+          "name": "Z\u00e9 Vaqueiro",
+          "url": "https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "ABC da Vaquejada",
+      "url": "https://open.spotify.com/track/7uJpUWXsjPl4b0pXVPMDef"
+    },
+    {
+      "added_at": "2025-11-21 03:00:34",
+      "album": {
         "name": "Fazer Amor \u00e9 Diferente de Amar (Ao Vivo)",
         "url": "https://open.spotify.com/album/5lpahNrIoCFIwVId5XbA8d"
       },
@@ -895,34 +923,6 @@
       "duration_ms": 175621,
       "name": "Pared\u00f5es",
       "url": "https://open.spotify.com/track/4IlklRFZUgNQlwwW0PSLm7"
-    },
-    {
-      "added_at": "2025-11-21 03:00:34",
-      "album": {
-        "name": "ABC da Vaquejada",
-        "url": "https://open.spotify.com/album/3QwSMBYobRGndOgkGzO6TS"
-      },
-      "artists": [
-        {
-          "name": "Tarc\u00edsio do Acordeon",
-          "url": "https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC"
-        },
-        {
-          "name": "Jo\u00e3o Gomes",
-          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
-        },
-        {
-          "name": "Z\u00e9 Vaqueiro",
-          "url": "https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt"
-        },
-        {
-          "name": "Mc Don Juan",
-          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
-        }
-      ],
-      "duration_ms": 145000,
-      "name": "ABC da Vaquejada",
-      "url": "https://open.spotify.com/track/7uJpUWXsjPl4b0pXVPMDef"
     },
     {
       "added_at": "2025-11-21 03:00:34",
@@ -1151,6 +1151,26 @@
     {
       "added_at": "2025-11-21 03:00:34",
       "album": {
+        "name": "\u00c9 Tarde Demais / Estou Mal (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0o9vEPGFqi62DlF0bMIU4t"
+      },
+      "artists": [
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        },
+        {
+          "name": "Ra\u00e7a Negra",
+          "url": "https://open.spotify.com/artist/1RnHJ07H3jcpay9PrUPjnt"
+        }
+      ],
+      "duration_ms": 238271,
+      "name": "\u00c9 Tarde Demais / Estou Mal - Ao Vivo",
+      "url": "https://open.spotify.com/track/3AJhn8JHsUq64vzQgPGm4T"
+    },
+    {
+      "added_at": "2025-11-21 03:00:34",
+      "album": {
         "name": "CAVALINHO",
         "url": "https://open.spotify.com/album/0bbhibmbqLzyNrNonJeZX4"
       },
@@ -1175,22 +1195,18 @@
     {
       "added_at": "2025-11-21 03:00:34",
       "album": {
-        "name": "\u00c9 Tarde Demais / Estou Mal (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0o9vEPGFqi62DlF0bMIU4t"
+        "name": "Brega do Bruxo",
+        "url": "https://open.spotify.com/album/2pABm4fBCMvlyCvq6zIxRY"
       },
       "artists": [
         {
-          "name": "Sorriso Maroto",
-          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
-        },
-        {
-          "name": "Ra\u00e7a Negra",
-          "url": "https://open.spotify.com/artist/1RnHJ07H3jcpay9PrUPjnt"
+          "name": "Harry o Bruxo",
+          "url": "https://open.spotify.com/artist/332Fln0M0hMo0iyQJcRYXz"
         }
       ],
-      "duration_ms": 238271,
-      "name": "\u00c9 Tarde Demais / Estou Mal - Ao Vivo",
-      "url": "https://open.spotify.com/track/3AJhn8JHsUq64vzQgPGm4T"
+      "duration_ms": 163208,
+      "name": "Sorri, Sou Rei",
+      "url": "https://open.spotify.com/track/0u6xEmvDwwVOLIywwu6xKN"
     },
     {
       "added_at": "2025-11-21 03:00:34",
@@ -1223,18 +1239,18 @@
     {
       "added_at": "2025-11-21 03:00:34",
       "album": {
-        "name": "Brega do Bruxo",
-        "url": "https://open.spotify.com/album/2pABm4fBCMvlyCvq6zIxRY"
+        "name": "Gemidinha",
+        "url": "https://open.spotify.com/album/4ae75JiQZjp7JO3RvxifF8"
       },
       "artists": [
         {
-          "name": "Harry o Bruxo",
-          "url": "https://open.spotify.com/artist/332Fln0M0hMo0iyQJcRYXz"
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
         }
       ],
-      "duration_ms": 163208,
-      "name": "Sorri, Sou Rei",
-      "url": "https://open.spotify.com/track/0u6xEmvDwwVOLIywwu6xKN"
+      "duration_ms": 195398,
+      "name": "Gemidinha",
+      "url": "https://open.spotify.com/track/4hslEwekHa2J9jgaEQzZHP"
     },
     {
       "added_at": "2025-11-21 03:00:34",
@@ -1315,22 +1331,6 @@
       "duration_ms": 144160,
       "name": "Melzinho",
       "url": "https://open.spotify.com/track/4HAF5oAZt0Dq7pF6P0NqEW"
-    },
-    {
-      "added_at": "2025-11-21 03:00:34",
-      "album": {
-        "name": "Gemidinha",
-        "url": "https://open.spotify.com/album/4ae75JiQZjp7JO3RvxifF8"
-      },
-      "artists": [
-        {
-          "name": "Felipe Amorim",
-          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
-        }
-      ],
-      "duration_ms": 195398,
-      "name": "Gemidinha",
-      "url": "https://open.spotify.com/track/4hslEwekHa2J9jgaEQzZHP"
     },
     {
       "added_at": "2025-11-21 03:00:34",
@@ -1471,26 +1471,6 @@
     {
       "added_at": "2025-11-21 03:00:34",
       "album": {
-        "name": "Quem Ta na Minha Cama",
-        "url": "https://open.spotify.com/album/0OfA6h6rcryhYhL7Y5dHkG"
-      },
-      "artists": [
-        {
-          "name": "Manu",
-          "url": "https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r"
-        },
-        {
-          "name": "DENNIS",
-          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
-        }
-      ],
-      "duration_ms": 145398,
-      "name": "Quem Ta na Minha Cama",
-      "url": "https://open.spotify.com/track/37q6bwWBEURo1giRpIhy9Z"
-    },
-    {
-      "added_at": "2025-11-21 03:00:34",
-      "album": {
         "name": "\u00c9 Assim que o Povo Gosta Vol. 01 (Ao Vivo)",
         "url": "https://open.spotify.com/album/23PSSZTOjyrQMKNwtMUD2d"
       },
@@ -1507,22 +1487,6 @@
       "duration_ms": 121607,
       "name": "Desce do Cavalo - Ao Vivo",
       "url": "https://open.spotify.com/track/4BLCk76gceyk8lb12ReE2w"
-    },
-    {
-      "added_at": "2025-11-21 03:00:34",
-      "album": {
-        "name": "Gar\u00e7om! Tem Pitu? Traz! (Cover)",
-        "url": "https://open.spotify.com/album/3rKFWDyU5n3GRQjm0SLcvI"
-      },
-      "artists": [
-        {
-          "name": "La\u00e9rcia Dantas",
-          "url": "https://open.spotify.com/artist/0GbUYCCbAlnM9mVcVuoOcN"
-        }
-      ],
-      "duration_ms": 103282,
-      "name": "V\u00e1 Com Deus",
-      "url": "https://open.spotify.com/track/2eTFVz1z3cNdKuJ8nAz33x"
     },
     {
       "added_at": "2025-11-21 03:00:34",
@@ -1551,6 +1515,62 @@
     {
       "added_at": "2025-11-21 03:00:34",
       "album": {
+        "name": "Quem Ta na Minha Cama",
+        "url": "https://open.spotify.com/album/0OfA6h6rcryhYhL7Y5dHkG"
+      },
+      "artists": [
+        {
+          "name": "Manu",
+          "url": "https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r"
+        },
+        {
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+        }
+      ],
+      "duration_ms": 145398,
+      "name": "Quem Ta na Minha Cama",
+      "url": "https://open.spotify.com/track/37q6bwWBEURo1giRpIhy9Z"
+    },
+    {
+      "added_at": "2025-11-21 03:00:34",
+      "album": {
+        "name": "Gar\u00e7om! Tem Pitu? Traz! (Cover)",
+        "url": "https://open.spotify.com/album/3rKFWDyU5n3GRQjm0SLcvI"
+      },
+      "artists": [
+        {
+          "name": "La\u00e9rcia Dantas",
+          "url": "https://open.spotify.com/artist/0GbUYCCbAlnM9mVcVuoOcN"
+        }
+      ],
+      "duration_ms": 103282,
+      "name": "V\u00e1 Com Deus",
+      "url": "https://open.spotify.com/track/2eTFVz1z3cNdKuJ8nAz33x"
+    },
+    {
+      "added_at": "2025-11-21 03:00:34",
+      "album": {
+        "name": "Mu\u00eddo Do Original (Ao Vivo Em Caruaru)",
+        "url": "https://open.spotify.com/album/5ZqEDypPktIpwRZnKuGfmw"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Vaqueiro",
+          "url": "https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt"
+        },
+        {
+          "name": "Toque Dez",
+          "url": "https://open.spotify.com/artist/6u3oPV9fJJnIOKvKMoROmG"
+        }
+      ],
+      "duration_ms": 175594,
+      "name": "S\u00f3 Penso Em Vaquejada - Ao Vivo",
+      "url": "https://open.spotify.com/track/1G7wLtw9ezuuCy3j49zDrV"
+    },
+    {
+      "added_at": "2025-11-21 03:00:34",
+      "album": {
         "name": "Ice e Gin",
         "url": "https://open.spotify.com/album/1w6AdQBOiBEMgZFN7HHVb9"
       },
@@ -1575,26 +1595,6 @@
       "duration_ms": 215238,
       "name": "Ice e Gin",
       "url": "https://open.spotify.com/track/0JMZKldOXJlIlK9R76C6pY"
-    },
-    {
-      "added_at": "2025-11-21 03:00:34",
-      "album": {
-        "name": "Mu\u00eddo Do Original (Ao Vivo Em Caruaru)",
-        "url": "https://open.spotify.com/album/5ZqEDypPktIpwRZnKuGfmw"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Vaqueiro",
-          "url": "https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt"
-        },
-        {
-          "name": "Toque Dez",
-          "url": "https://open.spotify.com/artist/6u3oPV9fJJnIOKvKMoROmG"
-        }
-      ],
-      "duration_ms": 175594,
-      "name": "S\u00f3 Penso Em Vaquejada - Ao Vivo",
-      "url": "https://open.spotify.com/track/1G7wLtw9ezuuCy3j49zDrV"
     },
     {
       "added_at": "2025-11-21 03:00:34",

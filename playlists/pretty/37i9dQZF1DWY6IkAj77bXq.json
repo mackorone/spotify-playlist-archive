@@ -1,6 +1,6 @@
 {
   "description": "Resonancias luminiscentes para llenar de paz tu alma.",
-  "num_followers": 83509,
+  "num_followers": 83529,
   "original_name": "Sanaci\u00f3n Profunda",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2025-09-30 19:05:51",
       "album": {
-        "name": "When The Day Fades",
-        "url": "https://open.spotify.com/album/7eqQS1uXmbwUk9weF1Cps4"
-      },
-      "artists": [
-        {
-          "name": "Salomon Isle",
-          "url": "https://open.spotify.com/artist/48J1kuqZgr2pNtsN8BxhZu"
-        }
-      ],
-      "duration_ms": 151367,
-      "name": "When The Day Fades",
-      "url": "https://open.spotify.com/track/2zmweAUpApR2KRZV9Xca8v"
-    },
-    {
-      "added_at": "2025-09-30 19:05:51",
-      "album": {
         "name": "Prabh\u0101ta Dhara / Morning Flow",
         "url": "https://open.spotify.com/album/2sPa9bingfnxan7LKLOivy"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 204896,
       "name": "Maitr\u012b / Loving-Kindness",
       "url": "https://open.spotify.com/track/3fxhUzK3MnVxAuLweBht7Z"
+    },
+    {
+      "added_at": "2025-09-30 19:05:51",
+      "album": {
+        "name": "When The Day Fades",
+        "url": "https://open.spotify.com/album/7eqQS1uXmbwUk9weF1Cps4"
+      },
+      "artists": [
+        {
+          "name": "Salomon Isle",
+          "url": "https://open.spotify.com/artist/48J1kuqZgr2pNtsN8BxhZu"
+        }
+      ],
+      "duration_ms": 151367,
+      "name": "When The Day Fades",
+      "url": "https://open.spotify.com/track/2zmweAUpApR2KRZV9Xca8v"
     },
     {
       "added_at": "2025-09-30 19:05:51",
@@ -427,22 +427,6 @@
     {
       "added_at": "2025-09-30 19:05:51",
       "album": {
-        "name": "Empty Slate",
-        "url": "https://open.spotify.com/album/365tS4BxAZwZinvGaxUJp3"
-      },
-      "artists": [
-        {
-          "name": "places we go",
-          "url": "https://open.spotify.com/artist/3N8G853hWNIHmfw6MunA3X"
-        }
-      ],
-      "duration_ms": 158823,
-      "name": "Empty Slate",
-      "url": "https://open.spotify.com/track/4WFD4BI69FAqVnc1m7AWX5"
-    },
-    {
-      "added_at": "2025-09-30 19:05:51",
-      "album": {
         "name": "Seamlessly",
         "url": "https://open.spotify.com/album/38SICvl80iRsObCJF1oh9O"
       },
@@ -459,18 +443,34 @@
     {
       "added_at": "2025-09-30 19:05:51",
       "album": {
-        "name": "Earthbound Stillness",
-        "url": "https://open.spotify.com/album/2MZOwji5OG2AaSlrbosM0u"
+        "name": "Empty Slate",
+        "url": "https://open.spotify.com/album/365tS4BxAZwZinvGaxUJp3"
       },
       "artists": [
         {
-          "name": "Roots Connection",
-          "url": "https://open.spotify.com/artist/2x8Ba8WcnKZDy364S3MIcb"
+          "name": "places we go",
+          "url": "https://open.spotify.com/artist/3N8G853hWNIHmfw6MunA3X"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Earthbound Stillness",
-      "url": "https://open.spotify.com/track/6aASNjiUlpPPj9bu9F4p5L"
+      "duration_ms": 158823,
+      "name": "Empty Slate",
+      "url": "https://open.spotify.com/track/4WFD4BI69FAqVnc1m7AWX5"
+    },
+    {
+      "added_at": "2025-09-30 19:05:51",
+      "album": {
+        "name": "Evening Veil",
+        "url": "https://open.spotify.com/album/5QUwN3JNxJyKjYzVQiXw9w"
+      },
+      "artists": [
+        {
+          "name": "Seth Sands",
+          "url": "https://open.spotify.com/artist/1EcwJ494z7gVanrsuDjNs8"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "Evening Veil",
+      "url": "https://open.spotify.com/track/1p3IsftHRTcoaTjzUf2mQ5"
     },
     {
       "added_at": "2025-09-30 19:05:51",
@@ -491,18 +491,18 @@
     {
       "added_at": "2025-09-30 19:05:51",
       "album": {
-        "name": "Evening Veil",
-        "url": "https://open.spotify.com/album/5QUwN3JNxJyKjYzVQiXw9w"
+        "name": "Earthbound Stillness",
+        "url": "https://open.spotify.com/album/2MZOwji5OG2AaSlrbosM0u"
       },
       "artists": [
         {
-          "name": "Seth Sands",
-          "url": "https://open.spotify.com/artist/1EcwJ494z7gVanrsuDjNs8"
+          "name": "Roots Connection",
+          "url": "https://open.spotify.com/artist/2x8Ba8WcnKZDy364S3MIcb"
         }
       ],
-      "duration_ms": 136000,
-      "name": "Evening Veil",
-      "url": "https://open.spotify.com/track/1p3IsftHRTcoaTjzUf2mQ5"
+      "duration_ms": 168000,
+      "name": "Earthbound Stillness",
+      "url": "https://open.spotify.com/track/6aASNjiUlpPPj9bu9F4p5L"
     },
     {
       "added_at": "2025-09-30 19:05:51",
@@ -619,22 +619,6 @@
     {
       "added_at": "2025-09-30 19:05:51",
       "album": {
-        "name": "Soft Glow (432Hz)",
-        "url": "https://open.spotify.com/album/3AQhmItCysLebW9yMCxgz0"
-      },
-      "artists": [
-        {
-          "name": "Atmosfeel",
-          "url": "https://open.spotify.com/artist/04MoCfKDs263ULEoka1Gyy"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Soft Glow (432Hz)",
-      "url": "https://open.spotify.com/track/1N3zuxOnvLbCDfDvrsv3ST"
-    },
-    {
-      "added_at": "2025-09-30 19:05:51",
-      "album": {
         "name": "From Above",
         "url": "https://open.spotify.com/album/3kWUF7SSQJzsSHwUVwr1GQ"
       },
@@ -651,18 +635,18 @@
     {
       "added_at": "2025-09-30 19:05:51",
       "album": {
-        "name": "Antidote",
-        "url": "https://open.spotify.com/album/2T8AS71aMJNSqBiKCxWvVN"
+        "name": "Soft Glow (432Hz)",
+        "url": "https://open.spotify.com/album/3AQhmItCysLebW9yMCxgz0"
       },
       "artists": [
         {
-          "name": "Aysun",
-          "url": "https://open.spotify.com/artist/6JpzNu8Gqk4qx6s7NofOXT"
+          "name": "Atmosfeel",
+          "url": "https://open.spotify.com/artist/04MoCfKDs263ULEoka1Gyy"
         }
       ],
-      "duration_ms": 151000,
-      "name": "Antidote",
-      "url": "https://open.spotify.com/track/1C7ful7gtkA5pizJKGlD7Z"
+      "duration_ms": 178000,
+      "name": "Soft Glow (432Hz)",
+      "url": "https://open.spotify.com/track/1N3zuxOnvLbCDfDvrsv3ST"
     },
     {
       "added_at": "2025-09-30 19:05:51",
@@ -683,18 +667,34 @@
     {
       "added_at": "2025-09-30 19:05:51",
       "album": {
-        "name": "Renacer en Calma",
-        "url": "https://open.spotify.com/album/7rhUJ9JlU3L2j4TZdyFoLW"
+        "name": "Antidote",
+        "url": "https://open.spotify.com/album/2T8AS71aMJNSqBiKCxWvVN"
       },
       "artists": [
         {
-          "name": "Esmeraldas",
-          "url": "https://open.spotify.com/artist/1mIhqTBJzWF8W2iWSuuO8f"
+          "name": "Aysun",
+          "url": "https://open.spotify.com/artist/6JpzNu8Gqk4qx6s7NofOXT"
         }
       ],
-      "duration_ms": 160800,
-      "name": "Ecos de Meditaci\u00f3n",
-      "url": "https://open.spotify.com/track/3SUcijcSGfwULQCHh0yEZK"
+      "duration_ms": 151000,
+      "name": "Antidote",
+      "url": "https://open.spotify.com/track/1C7ful7gtkA5pizJKGlD7Z"
+    },
+    {
+      "added_at": "2025-09-30 19:05:51",
+      "album": {
+        "name": "Titan",
+        "url": "https://open.spotify.com/album/4q65ymESTy7zRRwedwalH2"
+      },
+      "artists": [
+        {
+          "name": "Astral Equations",
+          "url": "https://open.spotify.com/artist/1Fzp7IB3LGYPLv1Xbot6ZM"
+        }
+      ],
+      "duration_ms": 156942,
+      "name": "Titan",
+      "url": "https://open.spotify.com/track/4bEmWCFsDVfqY3DbNiHZBY"
     },
     {
       "added_at": "2025-09-30 19:05:51",
@@ -715,18 +715,18 @@
     {
       "added_at": "2025-09-30 19:05:51",
       "album": {
-        "name": "Titan",
-        "url": "https://open.spotify.com/album/4q65ymESTy7zRRwedwalH2"
+        "name": "Renacer en Calma",
+        "url": "https://open.spotify.com/album/7rhUJ9JlU3L2j4TZdyFoLW"
       },
       "artists": [
         {
-          "name": "Astral Equations",
-          "url": "https://open.spotify.com/artist/1Fzp7IB3LGYPLv1Xbot6ZM"
+          "name": "Esmeraldas",
+          "url": "https://open.spotify.com/artist/1mIhqTBJzWF8W2iWSuuO8f"
         }
       ],
-      "duration_ms": 156942,
-      "name": "Titan",
-      "url": "https://open.spotify.com/track/4bEmWCFsDVfqY3DbNiHZBY"
+      "duration_ms": 160800,
+      "name": "Ecos de Meditaci\u00f3n",
+      "url": "https://open.spotify.com/track/3SUcijcSGfwULQCHh0yEZK"
     },
     {
       "added_at": "2025-09-30 19:05:51",
@@ -763,22 +763,6 @@
     {
       "added_at": "2025-09-30 19:05:51",
       "album": {
-        "name": "Harmony",
-        "url": "https://open.spotify.com/album/477GicFmnIR70DboSvPLdP"
-      },
-      "artists": [
-        {
-          "name": "re:inhabit",
-          "url": "https://open.spotify.com/artist/0qt1gcU5wu2XCs6PyPD7aL"
-        }
-      ],
-      "duration_ms": 153893,
-      "name": "Harmony",
-      "url": "https://open.spotify.com/track/5uBvj6Hy6NnWpuaYbjETcA"
-    },
-    {
-      "added_at": "2025-09-30 19:05:51",
-      "album": {
         "name": "arches",
         "url": "https://open.spotify.com/album/1TUCzm7JXD5OSkodobhn1I"
       },
@@ -795,18 +779,18 @@
     {
       "added_at": "2025-09-30 19:05:51",
       "album": {
-        "name": "Crystal Cavern",
-        "url": "https://open.spotify.com/album/0zCOovryL6HtRNJqUH4zq7"
+        "name": "Harmony",
+        "url": "https://open.spotify.com/album/477GicFmnIR70DboSvPLdP"
       },
       "artists": [
         {
-          "name": "Mont Real",
-          "url": "https://open.spotify.com/artist/5M5cSnU5RbCkYcKe1wUMKc"
+          "name": "re:inhabit",
+          "url": "https://open.spotify.com/artist/0qt1gcU5wu2XCs6PyPD7aL"
         }
       ],
-      "duration_ms": 209117,
-      "name": "Crystal Cavern",
-      "url": "https://open.spotify.com/track/2QTj5NfJSbJXmZn047KaAF"
+      "duration_ms": 153893,
+      "name": "Harmony",
+      "url": "https://open.spotify.com/track/5uBvj6Hy6NnWpuaYbjETcA"
     },
     {
       "added_at": "2025-09-30 19:05:51",
@@ -843,6 +827,22 @@
     {
       "added_at": "2025-09-30 19:05:51",
       "album": {
+        "name": "Crystal Cavern",
+        "url": "https://open.spotify.com/album/0zCOovryL6HtRNJqUH4zq7"
+      },
+      "artists": [
+        {
+          "name": "Mont Real",
+          "url": "https://open.spotify.com/artist/5M5cSnU5RbCkYcKe1wUMKc"
+        }
+      ],
+      "duration_ms": 209117,
+      "name": "Crystal Cavern",
+      "url": "https://open.spotify.com/track/2QTj5NfJSbJXmZn047KaAF"
+    },
+    {
+      "added_at": "2025-09-30 19:05:51",
+      "album": {
         "name": "Spiritual Connection",
         "url": "https://open.spotify.com/album/3RJ0HTus0I3m9Rtpc9Ohve"
       },
@@ -875,22 +875,6 @@
     {
       "added_at": "2025-09-30 19:05:51",
       "album": {
-        "name": "Cloudy Texture",
-        "url": "https://open.spotify.com/album/2dd61B0M71AQOsG7bKgcRE"
-      },
-      "artists": [
-        {
-          "name": "Laura Dawson",
-          "url": "https://open.spotify.com/artist/1IM8iJAfKOjMCKp7UJGAP9"
-        }
-      ],
-      "duration_ms": 189250,
-      "name": "Placebo",
-      "url": "https://open.spotify.com/track/1a20QUimSwgqSjWYFFUF1G"
-    },
-    {
-      "added_at": "2025-09-30 19:05:51",
-      "album": {
         "name": "Coastal Day",
         "url": "https://open.spotify.com/album/46qfLAjD8zAQC5a2PlGwbX"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 151363,
       "name": "Coastal Day",
       "url": "https://open.spotify.com/track/4anG3kAHgtrTnn8aZd444Q"
+    },
+    {
+      "added_at": "2025-09-30 19:05:51",
+      "album": {
+        "name": "Cloudy Texture",
+        "url": "https://open.spotify.com/album/2dd61B0M71AQOsG7bKgcRE"
+      },
+      "artists": [
+        {
+          "name": "Laura Dawson",
+          "url": "https://open.spotify.com/artist/1IM8iJAfKOjMCKp7UJGAP9"
+        }
+      ],
+      "duration_ms": 189250,
+      "name": "Placebo",
+      "url": "https://open.spotify.com/track/1a20QUimSwgqSjWYFFUF1G"
     },
     {
       "added_at": "2025-09-30 19:05:51",
@@ -939,22 +939,6 @@
     {
       "added_at": "2025-09-30 19:05:51",
       "album": {
-        "name": "Mind Balance",
-        "url": "https://open.spotify.com/album/3qZiW4HnOyk7hKLOSRaWdj"
-      },
-      "artists": [
-        {
-          "name": "Angelic Planet",
-          "url": "https://open.spotify.com/artist/1Dl9lNBXtDneUcugFZPq3H"
-        }
-      ],
-      "duration_ms": 178723,
-      "name": "Mind Balance",
-      "url": "https://open.spotify.com/track/58GOOCrLHfoFByHo69g43w"
-    },
-    {
-      "added_at": "2025-09-30 19:05:51",
-      "album": {
         "name": "Somnum",
         "url": "https://open.spotify.com/album/08aZ6GMYcj7QPJAFFzJGHP"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 135024,
       "name": "Somnum",
       "url": "https://open.spotify.com/track/0QpXIbRh2TsDxjQcdBX4of"
+    },
+    {
+      "added_at": "2025-09-30 19:05:51",
+      "album": {
+        "name": "Mind Balance",
+        "url": "https://open.spotify.com/album/3qZiW4HnOyk7hKLOSRaWdj"
+      },
+      "artists": [
+        {
+          "name": "Angelic Planet",
+          "url": "https://open.spotify.com/artist/1Dl9lNBXtDneUcugFZPq3H"
+        }
+      ],
+      "duration_ms": 178723,
+      "name": "Mind Balance",
+      "url": "https://open.spotify.com/track/58GOOCrLHfoFByHo69g43w"
     },
     {
       "added_at": "2025-09-30 19:05:51",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2025-09-30 19:05:51",
       "album": {
-        "name": "Hills Of Clarity",
-        "url": "https://open.spotify.com/album/4XjkLYSgsglG0yS1MhuzJA"
-      },
-      "artists": [
-        {
-          "name": "Elevated Minds",
-          "url": "https://open.spotify.com/artist/6Xiv0NC9DAa2HBBKWHtKR6"
-        }
-      ],
-      "duration_ms": 255792,
-      "name": "Hills Of Clarity",
-      "url": "https://open.spotify.com/track/3HvwuHV9xd0VGi0GncXgoL"
-    },
-    {
-      "added_at": "2025-09-30 19:05:51",
-      "album": {
         "name": "Mist Over Mountains",
         "url": "https://open.spotify.com/album/6q4ETkytWnXwoVMLTF4bdG"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 168000,
       "name": "Mist Over Mountains",
       "url": "https://open.spotify.com/track/5zPxf9oBbQmYGBUn3aZb7d"
+    },
+    {
+      "added_at": "2025-09-30 19:05:51",
+      "album": {
+        "name": "Hills Of Clarity",
+        "url": "https://open.spotify.com/album/4XjkLYSgsglG0yS1MhuzJA"
+      },
+      "artists": [
+        {
+          "name": "Elevated Minds",
+          "url": "https://open.spotify.com/artist/6Xiv0NC9DAa2HBBKWHtKR6"
+        }
+      ],
+      "duration_ms": 255792,
+      "name": "Hills Of Clarity",
+      "url": "https://open.spotify.com/track/3HvwuHV9xd0VGi0GncXgoL"
     },
     {
       "added_at": "2025-09-30 19:05:51",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2025-09-30 19:05:51",
       "album": {
-        "name": "Embodied Awareness",
-        "url": "https://open.spotify.com/album/7IViHgd7L2ouFj34Iua3nG"
-      },
-      "artists": [
-        {
-          "name": "Hatha Priya",
-          "url": "https://open.spotify.com/artist/3PrmIS6YRTKENfGH4xf8S6"
-        }
-      ],
-      "duration_ms": 195666,
-      "name": "Embodied Awareness",
-      "url": "https://open.spotify.com/track/2Qp9Ysar36Ak7e8Coi5LST"
-    },
-    {
-      "added_at": "2025-09-30 19:05:51",
-      "album": {
         "name": "Solitude Symphony",
         "url": "https://open.spotify.com/album/61bPZCBK58fHvRb9qWNsKV"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 158751,
       "name": "Solitude Symphony",
       "url": "https://open.spotify.com/track/2g39Z2r9doV4mEGwtBZcKl"
+    },
+    {
+      "added_at": "2025-09-30 19:05:51",
+      "album": {
+        "name": "Embodied Awareness",
+        "url": "https://open.spotify.com/album/7IViHgd7L2ouFj34Iua3nG"
+      },
+      "artists": [
+        {
+          "name": "Hatha Priya",
+          "url": "https://open.spotify.com/artist/3PrmIS6YRTKENfGH4xf8S6"
+        }
+      ],
+      "duration_ms": 195666,
+      "name": "Embodied Awareness",
+      "url": "https://open.spotify.com/track/2Qp9Ysar36Ak7e8Coi5LST"
     },
     {
       "added_at": "2025-09-30 19:05:51",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2025-09-30 19:05:51",
       "album": {
-        "name": "Sammram",
-        "url": "https://open.spotify.com/album/7q6yAn5U88BS9PoLGHjPLz"
-      },
-      "artists": [
-        {
-          "name": "Ikupu Ume",
-          "url": "https://open.spotify.com/artist/3jKOrP3N4xtMAgfet68LDP"
-        }
-      ],
-      "duration_ms": 206624,
-      "name": "Sammram",
-      "url": "https://open.spotify.com/track/0bhnoSlNuYDk7c0HSdh821"
-    },
-    {
-      "added_at": "2025-09-30 19:05:51",
-      "album": {
         "name": "Incorniciato",
         "url": "https://open.spotify.com/album/1ZWLzTAIhCe71mmmy8DbWq"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 164571,
       "name": "Incorniciato",
       "url": "https://open.spotify.com/track/4hIl75AXfZMQfyTFa5geXQ"
+    },
+    {
+      "added_at": "2025-09-30 19:05:51",
+      "album": {
+        "name": "Sammram",
+        "url": "https://open.spotify.com/album/7q6yAn5U88BS9PoLGHjPLz"
+      },
+      "artists": [
+        {
+          "name": "Ikupu Ume",
+          "url": "https://open.spotify.com/artist/3jKOrP3N4xtMAgfet68LDP"
+        }
+      ],
+      "duration_ms": 206624,
+      "name": "Sammram",
+      "url": "https://open.spotify.com/track/0bhnoSlNuYDk7c0HSdh821"
     },
     {
       "added_at": "2025-09-30 19:05:51",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2025-09-30 19:05:51",
       "album": {
-        "name": "Tomorrow",
-        "url": "https://open.spotify.com/album/0OL0E8PsTP5Q1EjHaLV0hu"
-      },
-      "artists": [
-        {
-          "name": "Lior Freudenthal",
-          "url": "https://open.spotify.com/artist/2LQloGA6q2wNTNovie8OpO"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Tomorrow",
-      "url": "https://open.spotify.com/track/0eoulivlbUiUsqDfj4axvM"
-    },
-    {
-      "added_at": "2025-09-30 19:05:51",
-      "album": {
         "name": "Lights on Water",
         "url": "https://open.spotify.com/album/0TR96hLQ5YvKTdgZY7ffhp"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 217600,
       "name": "Lights on Water",
       "url": "https://open.spotify.com/track/6J0uBGMNk7kjRKVmxh6iJE"
+    },
+    {
+      "added_at": "2025-09-30 19:05:51",
+      "album": {
+        "name": "Tomorrow",
+        "url": "https://open.spotify.com/album/0OL0E8PsTP5Q1EjHaLV0hu"
+      },
+      "artists": [
+        {
+          "name": "Lior Freudenthal",
+          "url": "https://open.spotify.com/artist/2LQloGA6q2wNTNovie8OpO"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/0eoulivlbUiUsqDfj4axvM"
     },
     {
       "added_at": "2025-09-30 19:05:51",
@@ -1899,6 +1899,22 @@
     {
       "added_at": "2025-09-30 19:05:51",
       "album": {
+        "name": "Obscurity",
+        "url": "https://open.spotify.com/album/6uuXEwuWIE7P3cYE9KFXWc"
+      },
+      "artists": [
+        {
+          "name": "Onni",
+          "url": "https://open.spotify.com/artist/7A0mACsqOhqMaeKYJfQkbx"
+        }
+      ],
+      "duration_ms": 170729,
+      "name": "Obscurity",
+      "url": "https://open.spotify.com/track/1WVVYm0D6UOJMLqodEHtFt"
+    },
+    {
+      "added_at": "2025-09-30 19:05:51",
+      "album": {
         "name": "Milestone",
         "url": "https://open.spotify.com/album/6rKC6cDvgzKIAuUgxACb88"
       },
@@ -1911,22 +1927,6 @@
       "duration_ms": 212400,
       "name": "Birdcage Walk",
       "url": "https://open.spotify.com/track/2mnHERT3I2AP2g4S1V8rXH"
-    },
-    {
-      "added_at": "2025-09-30 19:05:51",
-      "album": {
-        "name": "Soft Meadow",
-        "url": "https://open.spotify.com/album/2GS48Tn9Wtbytl8hcGGXT8"
-      },
-      "artists": [
-        {
-          "name": "Aloen",
-          "url": "https://open.spotify.com/artist/0jYDs1TAciKohAd5YkQFXJ"
-        }
-      ],
-      "duration_ms": 193492,
-      "name": "Soft Meadow",
-      "url": "https://open.spotify.com/track/02fRLzB7HZHr7UzG5lCia9"
     }
   ],
   "unique_name": "Sanaci\u00f3n Profunda",

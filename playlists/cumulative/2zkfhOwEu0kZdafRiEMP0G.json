@@ -203,6 +203,28 @@
     },
     {
       "album": {
+        "name": "Go Time: Brooklyn 2",
+        "url": "https://open.spotify.com/album/2JXQkc6uFrKMek2Uly0Ma3"
+      },
+      "artists": [
+        {
+          "name": "Grace Kelly",
+          "url": "https://open.spotify.com/artist/7bcjgJLky9kVQ4GcrQTibn"
+        },
+        {
+          "name": "Leo P",
+          "url": "https://open.spotify.com/artist/12lHwk1GMNxnZF6pUMC4Sc"
+        }
+      ],
+      "date_added": "2025-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339863,
+      "name": "Fish and Chips",
+      "url": "https://open.spotify.com/track/1qKkiLxCfNwOLeQ5XS1rHA"
+    },
+    {
+      "album": {
         "name": "The Great Gatsby - A New Musical (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/1ROa0bSRzWi67kUyzfyfq6"
       },
@@ -1186,6 +1208,24 @@
       "duration_ms": 134000,
       "name": "Without a Tribe",
       "url": "https://open.spotify.com/track/1j6P0usrnbCDKNMvocxgxq"
+    },
+    {
+      "album": {
+        "name": "Live at Virtue and Vice Studio",
+        "url": "https://open.spotify.com/album/7hoM6KnToWUFhTU77wBgIa"
+      },
+      "artists": [
+        {
+          "name": "Lucky Chops",
+          "url": "https://open.spotify.com/artist/2b6gc4EVpO6OTlDvKrK852"
+        }
+      ],
+      "date_added": "2025-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267000,
+      "name": "Without You (4 Tonite) - Live",
+      "url": "https://open.spotify.com/track/4Ymlnq6LskNxKfn5nCcPSp"
     },
     {
       "album": {

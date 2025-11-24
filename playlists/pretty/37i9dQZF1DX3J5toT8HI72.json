@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 pros apaixonados",
-  "num_followers": 780805,
+  "num_followers": 780795,
   "original_name": "Amor I Love You",
   "owner": {
     "name": "Spotify",
@@ -207,6 +207,22 @@
     {
       "added_at": "2025-09-05 12:15:28",
       "album": {
+        "name": "Radiola",
+        "url": "https://open.spotify.com/album/6Gl3phBwyHvRtRAMQddCpe"
+      },
+      "artists": [
+        {
+          "name": "Skank",
+          "url": "https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU"
+        }
+      ],
+      "duration_ms": 240133,
+      "name": "Vamos Fugir",
+      "url": "https://open.spotify.com/track/7dxK6RSoCWZcb5gobxs1h9"
+    },
+    {
+      "added_at": "2025-09-05 12:15:28",
+      "album": {
         "name": "Deixa (feat. Ana Gabriela)",
         "url": "https://open.spotify.com/album/5y1vdBmkTHZNGCz5qswQzM"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 176025,
       "name": "Deixa (feat. Ana Gabriela)",
       "url": "https://open.spotify.com/track/3fLqmaO4vvZpFZSZy52VMp"
-    },
-    {
-      "added_at": "2025-09-05 12:15:28",
-      "album": {
-        "name": "Radiola",
-        "url": "https://open.spotify.com/album/6Gl3phBwyHvRtRAMQddCpe"
-      },
-      "artists": [
-        {
-          "name": "Skank",
-          "url": "https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU"
-        }
-      ],
-      "duration_ms": 240133,
-      "name": "Vamos Fugir",
-      "url": "https://open.spotify.com/track/7dxK6RSoCWZcb5gobxs1h9"
     },
     {
       "added_at": "2025-09-05 12:15:28",
@@ -507,22 +507,6 @@
     {
       "added_at": "2025-09-05 12:15:28",
       "album": {
-        "name": "Musica para Churrasco, Vol. 2",
-        "url": "https://open.spotify.com/album/0uyJYHNFzapFWD6nZvFBZ3"
-      },
-      "artists": [
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        }
-      ],
-      "duration_ms": 267413,
-      "name": "Felicidade",
-      "url": "https://open.spotify.com/track/2bDc2CMq7MMAURwnMJverx"
-    },
-    {
-      "added_at": "2025-09-05 12:15:28",
-      "album": {
         "name": "Toda Forma De Amor",
         "url": "https://open.spotify.com/album/4WXHWxOTHQM2VHwlIoe4vJ"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 131426,
       "name": "Devolva-Me (Ao Vivo)",
       "url": "https://open.spotify.com/track/5sz2LrG6jY6u7U0g2k7kws"
+    },
+    {
+      "added_at": "2025-09-05 12:15:28",
+      "album": {
+        "name": "Musica para Churrasco, Vol. 2",
+        "url": "https://open.spotify.com/album/0uyJYHNFzapFWD6nZvFBZ3"
+      },
+      "artists": [
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        }
+      ],
+      "duration_ms": 267413,
+      "name": "Felicidade",
+      "url": "https://open.spotify.com/track/2bDc2CMq7MMAURwnMJverx"
     },
     {
       "added_at": "2025-09-05 12:15:28",
@@ -587,26 +587,6 @@
     {
       "added_at": "2025-09-05 12:15:28",
       "album": {
-        "name": "Partilhar",
-        "url": "https://open.spotify.com/album/1pbjhsgtyc5hOVNaaz6tpN"
-      },
-      "artists": [
-        {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
-        },
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 262552,
-      "name": "Partilhar",
-      "url": "https://open.spotify.com/track/1PQRwFvNM7xV65bIkHmDtx"
-    },
-    {
-      "added_at": "2025-09-05 12:15:28",
-      "album": {
         "name": "Ana E Jorge (Ao Vivo)",
         "url": "https://open.spotify.com/album/3EVU0AnPTXK1scTVMrG8Sm"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 318026,
       "name": "\u00c9 Isso A\u00ed (The Blower'S Daughter) - Ao Vivo",
       "url": "https://open.spotify.com/track/6tvnj77OJD0DJTgSIi6fQ3"
+    },
+    {
+      "added_at": "2025-09-05 12:15:28",
+      "album": {
+        "name": "Partilhar",
+        "url": "https://open.spotify.com/album/1pbjhsgtyc5hOVNaaz6tpN"
+      },
+      "artists": [
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        },
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 262552,
+      "name": "Partilhar",
+      "url": "https://open.spotify.com/track/1PQRwFvNM7xV65bIkHmDtx"
     },
     {
       "added_at": "2025-09-05 12:15:28",
@@ -695,18 +695,18 @@
     {
       "added_at": "2025-09-05 12:15:28",
       "album": {
-        "name": "Bossa Nova Essenciais",
-        "url": "https://open.spotify.com/album/2zDf8UCx5Hp2DCZiuNmBMR"
+        "name": "Frejat Ao Vivo No Rock In Rio",
+        "url": "https://open.spotify.com/album/6hSYXe2y8uYY62B3PCiq3T"
       },
       "artists": [
         {
-          "name": "Tiago Nacarato",
-          "url": "https://open.spotify.com/artist/3mwYj8Nb9VZbAnLpli7l8X"
+          "name": "Frejat",
+          "url": "https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw"
         }
       ],
-      "duration_ms": 171668,
-      "name": "Onde Anda Voc\u00ea",
-      "url": "https://open.spotify.com/track/2bzz9J3YFV5EmXMfMRAwqW"
+      "duration_ms": 215253,
+      "name": "Por Voc\u00ea - Ao Vivo",
+      "url": "https://open.spotify.com/track/4gqxE2PMdk6HvZKEqsQ8YE"
     },
     {
       "added_at": "2025-09-05 12:15:28",
@@ -731,18 +731,18 @@
     {
       "added_at": "2025-09-05 12:15:28",
       "album": {
-        "name": "Frejat Ao Vivo No Rock In Rio",
-        "url": "https://open.spotify.com/album/6hSYXe2y8uYY62B3PCiq3T"
+        "name": "Bossa Nova Essenciais",
+        "url": "https://open.spotify.com/album/2zDf8UCx5Hp2DCZiuNmBMR"
       },
       "artists": [
         {
-          "name": "Frejat",
-          "url": "https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw"
+          "name": "Tiago Nacarato",
+          "url": "https://open.spotify.com/artist/3mwYj8Nb9VZbAnLpli7l8X"
         }
       ],
-      "duration_ms": 215253,
-      "name": "Por Voc\u00ea - Ao Vivo",
-      "url": "https://open.spotify.com/track/4gqxE2PMdk6HvZKEqsQ8YE"
+      "duration_ms": 171668,
+      "name": "Onde Anda Voc\u00ea",
+      "url": "https://open.spotify.com/track/2bzz9J3YFV5EmXMfMRAwqW"
     },
     {
       "added_at": "2025-09-05 12:15:28",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2025-09-05 12:15:28",
       "album": {
-        "name": "\u00c2mbar",
-        "url": "https://open.spotify.com/album/25iYTRlmDMaSMYMedcjkEl"
-      },
-      "artists": [
-        {
-          "name": "Tain\u00e1",
-          "url": "https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC"
-        }
-      ],
-      "duration_ms": 172586,
-      "name": "\u00c2mbar",
-      "url": "https://open.spotify.com/track/3tZSEpmI6vAJO5iAZVrQvN"
-    },
-    {
-      "added_at": "2025-09-05 12:15:28",
-      "album": {
         "name": "coisas triviais",
         "url": "https://open.spotify.com/album/233AU2aQZNBCBbpmUssYh9"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 190320,
       "name": "coisas triviais",
       "url": "https://open.spotify.com/track/4pAJAuvwTtyeUkGDgX4vqo"
+    },
+    {
+      "added_at": "2025-09-05 12:15:28",
+      "album": {
+        "name": "\u00c2mbar",
+        "url": "https://open.spotify.com/album/25iYTRlmDMaSMYMedcjkEl"
+      },
+      "artists": [
+        {
+          "name": "Tain\u00e1",
+          "url": "https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC"
+        }
+      ],
+      "duration_ms": 172586,
+      "name": "\u00c2mbar",
+      "url": "https://open.spotify.com/track/3tZSEpmI6vAJO5iAZVrQvN"
     },
     {
       "added_at": "2025-09-05 12:15:28",

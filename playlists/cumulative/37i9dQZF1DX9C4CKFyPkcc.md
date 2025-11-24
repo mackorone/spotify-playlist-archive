@@ -4,7 +4,7 @@
 
 > Enjoy the holidays with this fresh mix of new and classic Christmas songs!
 
-377 songs - 22 hr 1 min
+378 songs - 22 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Brand New Life](https://open.spotify.com/track/3umofiB7Vryrcd60ap0hsu) | [The Cast Of Journey To Bethlehem](https://open.spotify.com/artist/1FS6nAHDWtWguh8VtxERup), [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot), [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Brand New Life \(From “Journey To Bethlehem”\)](https://open.spotify.com/album/1Y0G0vpetJxoVsSXggAwyq) | 3:27 | 2023-11-03 | 2024-07-30 |
 | [Breath of Heaven \(Mary's Song\)](https://open.spotify.com/track/3nt6KSOlcetP5Asp9mAL2I) | [Menna](https://open.spotify.com/artist/5kLvMAFanr3jQ7iuciSCuM) | [Breath of Heaven \(Mary's Song\)](https://open.spotify.com/album/3wugGehkfYGRLeWN1ZFtVw) | 4:55 | 2022-11-26 | 2024-07-30 |
 | [By Christmas Day](https://open.spotify.com/track/6TAHH756Svb7OuUD50erUo) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E) | [A Timeless Christmas](https://open.spotify.com/album/3F5Wb3mMFiioGLmZxyYxQ8) | 3:49 | 2024-07-29 | 2025-04-24 |
-| [Carol of the Bells](https://open.spotify.com/track/2SK6i0VNGDwlDkUIoNUNx1) | [Mary Mary](https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde) | [A Mary Mary Christmas](https://open.spotify.com/album/3OAd6N0ci79PHcxjBvgQ73) | 3:22 | 2024-07-29 |  |
+| [Carol of the Bells](https://open.spotify.com/track/2SK6i0VNGDwlDkUIoNUNx1) | [Mary Mary](https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde) | [A Mary Mary Christmas](https://open.spotify.com/album/3OAd6N0ci79PHcxjBvgQ73) | 3:22 | 2024-07-29 | 2025-11-24 |
 | [Carol of the Bells / Sing We Now of Christmas](https://open.spotify.com/track/7hHVcFvJn0DQXxzl1RTPdB) | [BarlowGirl](https://open.spotify.com/artist/3VMSmJURVM7s6LkrIaPZvi) | [Home for Christmas](https://open.spotify.com/album/60AfMfaRKCmu1EqLIib6Td) | 4:00 | 2021-12-24 |  |
 | [Celebrate](https://open.spotify.com/track/65f9wNMjXKBxPMHGsphncH) | [Nu Tone](https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA), [Kidd Lee](https://open.spotify.com/artist/0M120oS8JMyuyba6YoweKS), [Tds Cam](https://open.spotify.com/artist/5q4hnN0uz6odNPqIs40XbT) | [Celebrate](https://open.spotify.com/album/0cP3oGKO9Y6dbOommCxJFD) | 2:19 | 2024-12-13 | 2025-09-06 |
 | [Christ Is Born \(Happy Birthday\)](https://open.spotify.com/track/7CAzuEpPobaDVObnp4Zibt) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [Christ Is Born \(Happy Birthday\)](https://open.spotify.com/album/4H7SNEqHLSeaEzUR5XmkuT) | 2:23 | 2025-11-16 |  |
@@ -191,6 +191,7 @@
 | [King Of Glory \- Remix](https://open.spotify.com/track/0Ql5f3zAUFKARSvD3ycge0) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [Janet Manyowa](https://open.spotify.com/artist/2V1T3MYbswPUiHMy02slMH) | [King Of Glory](https://open.spotify.com/album/7qKoP26vIeLv1Ebb4TahGd) | 3:39 | 2024-12-08 | 2025-11-16 |
 | [King Of Heaven \- Live Rehearsal Demo](https://open.spotify.com/track/0o1a9ZzvvlFQBfGiDw16Xs) | [The War Within](https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh) | [King Of Heaven \(Live Rehearsal Demo\)](https://open.spotify.com/album/2N0bmSOL15oq6vaHdls8q0) | 4:21 | 2023-11-03 | 2023-11-27 |
 | [Let It Be Christmas](https://open.spotify.com/track/70OrTBlb0RLKNfxWE6fZZM) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Let It Be Christmas](https://open.spotify.com/album/1IwTlARBAG1aVi9uIBmZqm) | 4:11 | 2021-12-24 | 2024-07-30 |
+| [Let It Snow](https://open.spotify.com/track/4YbufhkptTA9aVMkAVwjLh) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO) | [A Christmas To Remember](https://open.spotify.com/album/61ByJ1TZ3lz4NNrlvBIkkU) | 2:23 | 2025-11-22 |  |
 | [Let It Snow](https://open.spotify.com/track/3TWIngtwbWAbLWSnMWdzge) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [A Tori Kelly Christmas](https://open.spotify.com/album/3T1Te4622DNLaTajXIkY9l) | 1:58 | 2021-12-24 |  |
 | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [A Winter Romance](https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5) | 1:57 | 2021-12-24 | 2023-12-16 |
 | [Let There Be Peace](https://open.spotify.com/track/0unhO1D9nwFlljFrhwB9Rs) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [My Gift](https://open.spotify.com/album/1wI9NGtQCnhyweuVACpXW4) | 3:59 | 2021-12-24 | 2023-11-27 |

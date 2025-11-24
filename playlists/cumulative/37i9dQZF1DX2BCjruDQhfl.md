@@ -4,7 +4,7 @@
 
 > It's giving those vibes\. Cover: Odeal
 
-185 songs - 8 hr 31 min
+186 songs - 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Very Soon](https://open.spotify.com/track/54HwZc6fEmR5EnjRT4oBq5) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [Very Soon](https://open.spotify.com/album/51Q7voQ9tecAT8150iglFc) | 2:17 | 2025-07-17 |  |
 | [Vijf Sterren](https://open.spotify.com/track/1Ulc4iSctUDnnobli9AQCB) | [Nnelg](https://open.spotify.com/artist/7bbzOJyYWRp0cef7NpIClP) | [Vijf Sterren](https://open.spotify.com/album/6AF40ajjccnLMaS8IBewki) | 3:06 | 2025-10-02 | 2025-11-14 |
 | [VOOR DE FAMILY](https://open.spotify.com/track/4uvtQck40L034n3mvKQInH) | [Sluwe Ollie](https://open.spotify.com/artist/7zRN086UvocMbINAumZ8kx), [Rz](https://open.spotify.com/artist/0Uicf2CoBVxIQZxFXuXlO8) | [VOOR DE FAMILY](https://open.spotify.com/album/2OAEEqmPyg6SvMI6kQ398p) | 2:13 | 2025-11-20 |  |
+| [Waist](https://open.spotify.com/track/3ETeKkq3K4JnKUx0DXEsHS) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Waist](https://open.spotify.com/album/2zv3y2FXzqVJBiYZ6VMXVd) | 2:45 | 2025-11-23 |  |
 | [Wat Love Is](https://open.spotify.com/track/0W5vnpoyvVi2fIXG4qYD7g) | [Jairzinho](https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop), [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq) | [Wat Love Is](https://open.spotify.com/album/4d2K9x4XkqWwAvHOlb0tva) | 2:22 | 2025-07-17 |  |
 | [Watching Us \(with Leon Thomas\)](https://open.spotify.com/track/1MWJ3pny2L1eiZTAYTaYwJ) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Leon Thomas](https://open.spotify.com/artist/44PAA4cna071vzwYqN5Pce) | [everything is a lot.](https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN) | 3:49 | 2025-11-14 |  |
 | [Waterkant](https://open.spotify.com/track/7oogv7kVuYNY7hzUZyOpD6) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN), [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT) | [De Ene Hand Wast De Ander](https://open.spotify.com/album/1JZOSXy4Fjjh5bo9FOcTBX) | 3:02 | 2025-08-07 |  |

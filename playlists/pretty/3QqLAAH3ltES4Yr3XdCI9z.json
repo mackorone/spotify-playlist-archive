@@ -6,8 +6,24 @@
     "name": "laisinha",
     "url": "https://open.spotify.com/user/q64xm9wcophofu2yt8armms73"
   },
-  "snapshot_id": "AAABnChhxXg1W3dC5XciK3aoHS/IVCoQ",
+  "snapshot_id": "AAABnY+ZERJUFAxyB3pyyxx6oUa4n5Ac",
   "tracks": [
+    {
+      "added_at": "2019-12-29 17:03:47",
+      "album": {
+        "name": "The Life Of Riley (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4xTMuGIOwzmtZwLKa8XwOw"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 202960,
+      "name": "Precious Lord",
+      "url": "https://open.spotify.com/track/0ZcWaF2LUfN7n58GFbexxi"
+    },
     {
       "added_at": "2019-09-06 04:52:37",
       "album": {
@@ -71,22 +87,6 @@
       "duration_ms": 292683,
       "name": "Jesus Loves Me - A Capella Version",
       "url": "https://open.spotify.com/track/5GPK5xpGAoLOTyZihZr0V9"
-    },
-    {
-      "added_at": "2019-12-29 17:03:47",
-      "album": {
-        "name": "The Life Of Riley (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4xTMuGIOwzmtZwLKa8XwOw"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 202960,
-      "name": "Precious Lord",
-      "url": "https://open.spotify.com/track/0ZcWaF2LUfN7n58GFbexxi"
     },
     {
       "added_at": "2020-04-29 23:05:21",

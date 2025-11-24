@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MUrG3NBYtM.md) - [plain]
 
 > De beste Indie & Alternative\. Cover: Eloi Youssef
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,976 likes - 60 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,963 likes - 60 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MUrG3NBYtM.md) - [plain]
 | 59 | [Under Your Influence \- uit Liefde Voor Muziek](https://open.spotify.com/track/2AtYFD9MUEwXi3tYxB3gGm) | [Kids With Buns](https://open.spotify.com/artist/1HF3WeoXOBYHlVkLn20lXz) | [Under Your Influence \(uit Liefde Voor Muziek\)](https://open.spotify.com/album/52RZYZq3bgJSC72GUcjrr8) | 3:23 |
 | 60 | [A Question of You](https://open.spotify.com/track/007IZ9te1tqJND9XdC8wGE) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [A Question of You](https://open.spotify.com/album/7xWVXuNOomkvJLNM1lI15l) | 3:42 |
 
-Snapshot ID: `AAAAANYeV/2kPtvl1NDtmYRoJEYuiv4z`
+Snapshot ID: `AAAAALjJ58OaexYBXt9fQIUTR9ctysrw`

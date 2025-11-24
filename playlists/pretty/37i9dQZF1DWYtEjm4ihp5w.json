@@ -1,12 +1,12 @@
 {
   "description": "Cover: LFERDA",
-  "num_followers": 369009,
+  "num_followers": 369124,
   "original_name": "ABAT\u2211RA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACetnK4Ua1HI9gsUQZTAnQZiyoGa",
+  "snapshot_id": "AAAAABid0RYMulwvokXE/KLLaOpyZ2HC",
   "tracks": [
     {
       "added_at": "2025-11-21 17:02:50",
@@ -107,6 +107,26 @@
     {
       "added_at": "2025-11-21 17:02:50",
       "album": {
+        "name": "Zanga Zanga",
+        "url": "https://open.spotify.com/album/5GjeHOtbLH9juhWPFtSohK"
+      },
+      "artists": [
+        {
+          "name": "Mobydick",
+          "url": "https://open.spotify.com/artist/1GJFMvl7YNCHPCFbIJfoXz"
+        },
+        {
+          "name": "Dada",
+          "url": "https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0"
+        }
+      ],
+      "duration_ms": 108880,
+      "name": "Zanga Zanga",
+      "url": "https://open.spotify.com/track/5D4C9W4adfHL5mMHmnQDkM"
+    },
+    {
+      "added_at": "2025-11-21 17:02:50",
+      "album": {
         "name": "101",
         "url": "https://open.spotify.com/album/3QxLyfb46BXa27Y0GjwS5C"
       },
@@ -175,26 +195,6 @@
       "duration_ms": 209000,
       "name": "MOON",
       "url": "https://open.spotify.com/track/4FK1eYp1arE2jiuAgluOtt"
-    },
-    {
-      "added_at": "2025-11-21 17:02:50",
-      "album": {
-        "name": "Zanga Zanga",
-        "url": "https://open.spotify.com/album/5GjeHOtbLH9juhWPFtSohK"
-      },
-      "artists": [
-        {
-          "name": "Mobydick",
-          "url": "https://open.spotify.com/artist/1GJFMvl7YNCHPCFbIJfoXz"
-        },
-        {
-          "name": "Dada",
-          "url": "https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0"
-        }
-      ],
-      "duration_ms": 108880,
-      "name": "Zanga Zanga",
-      "url": "https://open.spotify.com/track/5D4C9W4adfHL5mMHmnQDkM"
     },
     {
       "added_at": "2025-11-21 17:02:50",

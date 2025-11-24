@@ -1,12 +1,12 @@
 {
   "description": "This is League of Legends. The essential tracks, all in one playlist.",
-  "num_followers": 394024,
+  "num_followers": 394049,
   "original_name": "This Is League of Legends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aR+rgAAAAAB81dRpSISXxBRJrxgJJDPs",
+  "snapshot_id": "aSD9AAAAAADYuJ/QlFiKr8Ltb/a5L7Cg",
   "tracks": [
     {
       "added_at": null,
@@ -543,26 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burn It All Down",
-        "url": "https://open.spotify.com/album/75CPtRKAed4edoPl3xVAOF"
-      },
-      "artists": [
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        },
-        {
-          "name": "PVRIS",
-          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
-        }
-      ],
-      "duration_ms": 201840,
-      "name": "Burn It All Down",
-      "url": "https://open.spotify.com/track/4Xf9GooVicwy15aJakqVHH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Goodbye (from the series Arcane League of Legends)",
         "url": "https://open.spotify.com/album/7q2FV4zz7UvTr29VroExbu"
       },
@@ -583,6 +563,26 @@
       "duration_ms": 230985,
       "name": "Goodbye (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/50qY6EQTt33QAUQnDgbYOS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Burn It All Down",
+        "url": "https://open.spotify.com/album/75CPtRKAed4edoPl3xVAOF"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+        }
+      ],
+      "duration_ms": 201840,
+      "name": "Burn It All Down",
+      "url": "https://open.spotify.com/track/4Xf9GooVicwy15aJakqVHH"
     },
     {
       "added_at": null,

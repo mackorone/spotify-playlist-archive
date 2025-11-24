@@ -1,6 +1,6 @@
 {
   "description": "Las voces que inmortalizaron las canciones del Divo de Ju\u00e1rez.",
-  "num_followers": 357452,
+  "num_followers": 357479,
   "original_name": "Cancionero Juan Gabriel",
   "owner": {
     "name": "Spotify",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-07-02 23:46:15",
       "album": {
-        "name": "Juan Gabriel - 40 Aniversario",
-        "url": "https://open.spotify.com/album/1Iofb00kc6shksa6a7wSah"
-      },
-      "artists": [
-        {
-          "name": "Yolanda Del Rio",
-          "url": "https://open.spotify.com/artist/0QdXxfTxlrbEQSY6FaxqaC"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Se Me Olvid\u00f3 Otra Vez",
-      "url": "https://open.spotify.com/track/3OlThkWM0wZzhnQYIh56p6"
-    },
-    {
-      "added_at": "2024-07-02 23:46:15",
-      "album": {
         "name": "Juan Gabriel y Lo Mas Romantico De",
         "url": "https://open.spotify.com/album/2nC10KHMdLet5RLY2FRN4v"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 150100,
       "name": "Si Quieres Verme Llorar",
       "url": "https://open.spotify.com/track/54fKo3mRZqO1nriQ8j3sqr"
+    },
+    {
+      "added_at": "2024-07-02 23:46:15",
+      "album": {
+        "name": "Juan Gabriel - 40 Aniversario",
+        "url": "https://open.spotify.com/album/1Iofb00kc6shksa6a7wSah"
+      },
+      "artists": [
+        {
+          "name": "Yolanda Del Rio",
+          "url": "https://open.spotify.com/artist/0QdXxfTxlrbEQSY6FaxqaC"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "Se Me Olvid\u00f3 Otra Vez",
+      "url": "https://open.spotify.com/track/3OlThkWM0wZzhnQYIh56p6"
     },
     {
       "added_at": "2024-07-02 23:46:15",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-07-02 23:46:15",
       "album": {
-        "name": "Primero Soy Mexicana",
-        "url": "https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 170685,
-      "name": "Me Gustas Mucho",
-      "url": "https://open.spotify.com/track/4GTbtRKeOTMoQ1OJyXKQpU"
-    },
-    {
-      "added_at": "2024-07-02 23:46:15",
-      "album": {
         "name": "10 A\u00f1os (En Vivo)",
         "url": "https://open.spotify.com/album/4D3w10tAtPiZ0MtJTP9pt9"
       },
@@ -1131,18 +1115,18 @@
     {
       "added_at": "2024-07-02 23:46:15",
       "album": {
-        "name": "Amanecida Con Todo Y Con Todos",
-        "url": "https://open.spotify.com/album/2KAiIn3T5KHdbHOdzNsFvV"
+        "name": "Primero Soy Mexicana",
+        "url": "https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh"
       },
       "artists": [
         {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 215882,
-      "name": "La Farsante",
-      "url": "https://open.spotify.com/track/64iXvXF27Kf02B2Q6Wdr9N"
+      "duration_ms": 170685,
+      "name": "Me Gustas Mucho",
+      "url": "https://open.spotify.com/track/4GTbtRKeOTMoQ1OJyXKQpU"
     },
     {
       "added_at": "2024-07-02 23:46:15",
@@ -1167,6 +1151,38 @@
     {
       "added_at": "2024-07-02 23:46:15",
       "album": {
+        "name": "Amanecida Con Todo Y Con Todos",
+        "url": "https://open.spotify.com/album/2KAiIn3T5KHdbHOdzNsFvV"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 215882,
+      "name": "La Farsante",
+      "url": "https://open.spotify.com/track/64iXvXF27Kf02B2Q6Wdr9N"
+    },
+    {
+      "added_at": "2024-07-02 23:46:15",
+      "album": {
+        "name": "En el Palacio de Bellas Artes",
+        "url": "https://open.spotify.com/album/5M3SIJXfL9RQOCUOaXI7TI"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 159493,
+      "name": "Ya Lo Pasado Pasado (En Vivo) - En el Palacio de Bellas Artes",
+      "url": "https://open.spotify.com/track/7bAZfbX3ElF6b3deYNBKlF"
+    },
+    {
+      "added_at": "2024-07-02 23:46:15",
+      "album": {
         "name": "Canciones Que Recuerdo",
         "url": "https://open.spotify.com/album/7hHbnMHSZUXTntAiFsej3d"
       },
@@ -1183,26 +1199,6 @@
     {
       "added_at": "2024-07-02 23:46:15",
       "album": {
-        "name": "Los D\u00fao 2",
-        "url": "https://open.spotify.com/album/4NzxMuOkm7q0WUZWmAZbT8"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        },
-        {
-          "name": "Paty Cant\u00fa",
-          "url": "https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT"
-        }
-      ],
-      "duration_ms": 139933,
-      "name": "No Discutamos",
-      "url": "https://open.spotify.com/track/1SSJlfheVvqdMEcjyFfRfz"
-    },
-    {
-      "added_at": "2024-07-02 23:46:15",
-      "album": {
         "name": "Antologia De Juan Gabriel",
         "url": "https://open.spotify.com/album/0PdCVDLLPyONwCzOAoeQtc"
       },
@@ -1215,6 +1211,22 @@
       "duration_ms": 157000,
       "name": "No Vale La Pena",
       "url": "https://open.spotify.com/track/1OZHMioFDVvY85KYoRovHj"
+    },
+    {
+      "added_at": "2024-07-02 23:46:15",
+      "album": {
+        "name": "Fue un Placer Conocerte: Gracias Juan Gabriel, Vol. 1",
+        "url": "https://open.spotify.com/album/53mW1mcrK5HCENdQKkwVtV"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 284665,
+      "name": "Costumbres",
+      "url": "https://open.spotify.com/track/0onqUSXlBN3jzAvbdJttvM"
     },
     {
       "added_at": "2024-07-02 23:46:15",
@@ -1239,18 +1251,22 @@
     {
       "added_at": "2024-07-02 23:46:15",
       "album": {
-        "name": "Fue un Placer Conocerte: Gracias Juan Gabriel, Vol. 1",
-        "url": "https://open.spotify.com/album/53mW1mcrK5HCENdQKkwVtV"
+        "name": "Los D\u00fao 2",
+        "url": "https://open.spotify.com/album/4NzxMuOkm7q0WUZWmAZbT8"
       },
       "artists": [
         {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        },
+        {
+          "name": "Paty Cant\u00fa",
+          "url": "https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT"
         }
       ],
-      "duration_ms": 154739,
-      "name": "No Vale la Pena",
-      "url": "https://open.spotify.com/track/1ftjkFH9RUzPjPTM9tJbWa"
+      "duration_ms": 139933,
+      "name": "No Discutamos",
+      "url": "https://open.spotify.com/track/1SSJlfheVvqdMEcjyFfRfz"
     },
     {
       "added_at": "2024-07-02 23:46:15",
@@ -1271,22 +1287,6 @@
     {
       "added_at": "2024-07-02 23:46:15",
       "album": {
-        "name": "En el Palacio de Bellas Artes",
-        "url": "https://open.spotify.com/album/5M3SIJXfL9RQOCUOaXI7TI"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 159493,
-      "name": "Ya Lo Pasado Pasado (En Vivo) - En el Palacio de Bellas Artes",
-      "url": "https://open.spotify.com/track/7bAZfbX3ElF6b3deYNBKlF"
-    },
-    {
-      "added_at": "2024-07-02 23:46:15",
-      "album": {
         "name": "30 A\u00f1os de Exitos",
         "url": "https://open.spotify.com/album/3WGjI64qVOhmSUOteU3mwe"
       },
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2024-07-02 23:46:15",
       "album": {
+        "name": "Fue un Placer Conocerte: Gracias Juan Gabriel, Vol. 1",
+        "url": "https://open.spotify.com/album/53mW1mcrK5HCENdQKkwVtV"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 154739,
+      "name": "No Vale la Pena",
+      "url": "https://open.spotify.com/track/1ftjkFH9RUzPjPTM9tJbWa"
+    },
+    {
+      "added_at": "2024-07-02 23:46:15",
+      "album": {
         "name": "Primero Soy Mexicana",
         "url": "https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh"
       },
@@ -1315,38 +1331,6 @@
       "duration_ms": 143994,
       "name": "Ya No Me Interesas",
       "url": "https://open.spotify.com/track/0FPDm5PU6egeZWag2PRft8"
-    },
-    {
-      "added_at": "2024-07-02 23:46:15",
-      "album": {
-        "name": "Fue un Placer Conocerte: Gracias Juan Gabriel, Vol. 1",
-        "url": "https://open.spotify.com/album/53mW1mcrK5HCENdQKkwVtV"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 284665,
-      "name": "Costumbres",
-      "url": "https://open.spotify.com/track/0onqUSXlBN3jzAvbdJttvM"
-    },
-    {
-      "added_at": "2024-07-02 23:46:15",
-      "album": {
-        "name": "Canciones Que Recuerdo",
-        "url": "https://open.spotify.com/album/7hHbnMHSZUXTntAiFsej3d"
-      },
-      "artists": [
-        {
-          "name": "Frankie J",
-          "url": "https://open.spotify.com/artist/3sMYEBy0CZFxedcnm9i9hf"
-        }
-      ],
-      "duration_ms": 175359,
-      "name": "La Farsante",
-      "url": "https://open.spotify.com/track/3pwiyLyqOb9Web9j60Dl6j"
     },
     {
       "added_at": "2024-07-02 23:46:15",
@@ -1371,6 +1355,22 @@
     {
       "added_at": "2024-07-02 23:46:15",
       "album": {
+        "name": "Canciones Que Recuerdo",
+        "url": "https://open.spotify.com/album/7hHbnMHSZUXTntAiFsej3d"
+      },
+      "artists": [
+        {
+          "name": "Frankie J",
+          "url": "https://open.spotify.com/artist/3sMYEBy0CZFxedcnm9i9hf"
+        }
+      ],
+      "duration_ms": 175359,
+      "name": "La Farsante",
+      "url": "https://open.spotify.com/track/3pwiyLyqOb9Web9j60Dl6j"
+    },
+    {
+      "added_at": "2024-07-02 23:46:15",
+      "album": {
         "name": "Ana Gabriel Todos Sus Exitos",
         "url": "https://open.spotify.com/album/1JRhGwaIC5lWxazf3yWySo"
       },
@@ -1383,6 +1383,22 @@
       "duration_ms": 270266,
       "name": "Luna",
       "url": "https://open.spotify.com/track/739NTjHPzGdGG3mf4lgcGT"
+    },
+    {
+      "added_at": "2024-07-02 23:46:15",
+      "album": {
+        "name": "Fue un Placer Conocerte: Gracias Juan Gabriel, Vol. 1",
+        "url": "https://open.spotify.com/album/53mW1mcrK5HCENdQKkwVtV"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 423919,
+      "name": "Hasta Que Te Conoc\u00ed",
+      "url": "https://open.spotify.com/track/4hVpVysNagHdtH4IipkRqM"
     },
     {
       "added_at": "2024-07-02 23:46:15",
@@ -1403,18 +1419,18 @@
     {
       "added_at": "2024-07-02 23:46:15",
       "album": {
-        "name": "Fue un Placer Conocerte: Gracias Juan Gabriel, Vol. 1",
-        "url": "https://open.spotify.com/album/53mW1mcrK5HCENdQKkwVtV"
+        "name": "Abr\u00e1zame Muy Fuerte",
+        "url": "https://open.spotify.com/album/2RE4qRw0o1RYdbgeHQ12ap"
       },
       "artists": [
         {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         }
       ],
-      "duration_ms": 423919,
-      "name": "Hasta Que Te Conoc\u00ed",
-      "url": "https://open.spotify.com/track/4hVpVysNagHdtH4IipkRqM"
+      "duration_ms": 274680,
+      "name": "Abr\u00e1zame Muy Fuerte",
+      "url": "https://open.spotify.com/track/7xPWqlo1ufSDmy5nCzN8rV"
     },
     {
       "added_at": "2024-07-02 23:46:15",
@@ -1439,22 +1455,6 @@
     {
       "added_at": "2024-07-02 23:46:15",
       "album": {
-        "name": "Abr\u00e1zame Muy Fuerte",
-        "url": "https://open.spotify.com/album/2RE4qRw0o1RYdbgeHQ12ap"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 274680,
-      "name": "Abr\u00e1zame Muy Fuerte",
-      "url": "https://open.spotify.com/track/7xPWqlo1ufSDmy5nCzN8rV"
-    },
-    {
-      "added_at": "2024-07-02 23:46:15",
-      "album": {
         "name": "Canta Once Grandes Exitos De Juan Gabriel",
         "url": "https://open.spotify.com/album/61odYv9kH9Zv4rxDOUwlBl"
       },
@@ -1467,22 +1467,6 @@
       "duration_ms": 156400,
       "name": "No Vale la Pena",
       "url": "https://open.spotify.com/track/61xsekswNv3eCOOwYGY6GH"
-    },
-    {
-      "added_at": "2024-07-02 23:46:15",
-      "album": {
-        "name": "Amor Eterno al Divo / Tributo de Rock",
-        "url": "https://open.spotify.com/album/4PQjuDBIuLTMpfPrHnB77z"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 244626,
-      "name": "Siempre en Mi Mente",
-      "url": "https://open.spotify.com/track/0L1MX6vqPouDij4B8jorN6"
     },
     {
       "added_at": "2024-07-02 23:46:15",
@@ -1503,6 +1487,22 @@
       "duration_ms": 229469,
       "name": "Perd\u00f3name, Olv\u00eddalo",
       "url": "https://open.spotify.com/track/77lUx4Z36ydmIOFK67qfR3"
+    },
+    {
+      "added_at": "2024-07-02 23:46:15",
+      "album": {
+        "name": "Amor Eterno al Divo / Tributo de Rock",
+        "url": "https://open.spotify.com/album/4PQjuDBIuLTMpfPrHnB77z"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 244626,
+      "name": "Siempre en Mi Mente",
+      "url": "https://open.spotify.com/track/0L1MX6vqPouDij4B8jorN6"
     },
     {
       "added_at": "2024-07-02 23:46:15",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-07-02 23:46:15",
       "album": {
-        "name": "Primera Fila - Vol. 1",
-        "url": "https://open.spotify.com/album/0sKGLI3vnagX4jo4uHJrBC"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 179933,
-      "name": "La Diferencia - (En Vivo)",
-      "url": "https://open.spotify.com/track/4ao69zrQh9WcxvJ2t2fj9q"
-    },
-    {
-      "added_at": "2024-07-02 23:46:15",
-      "album": {
         "name": "Pepe Aguilar MTV Unplugged [(MTV Unplugged) [En Vivo]]",
         "url": "https://open.spotify.com/album/4H1UMurbDPzRjrRA5l0nNp"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 294760,
       "name": "Siempre en Mi Mente - MTV Unplugged [En Vivo]",
       "url": "https://open.spotify.com/track/15eHUj2OnfDrbKiIboohEx"
+    },
+    {
+      "added_at": "2024-07-02 23:46:15",
+      "album": {
+        "name": "Primera Fila - Vol. 1",
+        "url": "https://open.spotify.com/album/0sKGLI3vnagX4jo4uHJrBC"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 179933,
+      "name": "La Diferencia - (En Vivo)",
+      "url": "https://open.spotify.com/track/4ao69zrQh9WcxvJ2t2fj9q"
     },
     {
       "added_at": "2024-07-02 23:46:15",

@@ -119,26 +119,6 @@
     {
       "added_at": "2024-11-07 00:01:00",
       "album": {
-        "name": "Cielo Eterno - Spotify Singles",
-        "url": "https://open.spotify.com/album/2t1sBdEdduEEpw4fQo4mme"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        },
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 244245,
-      "name": "Cielo Eterno",
-      "url": "https://open.spotify.com/track/2kbVIAXEqZybRPxLUvqx0q"
-    },
-    {
-      "added_at": "2024-11-07 00:01:00",
-      "album": {
         "name": "La Tierra del Corrido - Spotify Singles",
         "url": "https://open.spotify.com/album/0ZbkzVai25cBAjmy7uoUkW"
       },
@@ -159,6 +139,26 @@
       "duration_ms": 211472,
       "name": "La Tierra del Corrido - Spotify Singles",
       "url": "https://open.spotify.com/track/1oZqJaE23GEn4SOFQcnTPB"
+    },
+    {
+      "added_at": "2024-11-07 00:01:00",
+      "album": {
+        "name": "Cielo Eterno - Spotify Singles",
+        "url": "https://open.spotify.com/album/2t1sBdEdduEEpw4fQo4mme"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        },
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 244245,
+      "name": "Cielo Eterno",
+      "url": "https://open.spotify.com/track/2kbVIAXEqZybRPxLUvqx0q"
     },
     {
       "added_at": "2024-11-07 00:01:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-11-07 00:01:00",
       "album": {
-        "name": "Fora de Si - Spotify Singles",
-        "url": "https://open.spotify.com/album/7Krd9lFlvyibIXVHsK1ieN"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 136764,
-      "name": "Fora de Si - Spotify Singles",
-      "url": "https://open.spotify.com/track/2gvQ2JkD9ft9q4OI6TSzUD"
-    },
-    {
-      "added_at": "2024-11-07 00:01:00",
-      "album": {
         "name": "Mala Costumbre - Ovy On The Drums - Spotify Singles",
         "url": "https://open.spotify.com/album/5y69JKXX7lNzp4CUaDl2Ly"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 181894,
       "name": "Mala Costumbre - Ovy On The Drums - Spotify Singles",
       "url": "https://open.spotify.com/track/30K54dQDikHIulypekVSZp"
+    },
+    {
+      "added_at": "2024-11-07 00:01:00",
+      "album": {
+        "name": "Fora de Si - Spotify Singles",
+        "url": "https://open.spotify.com/album/7Krd9lFlvyibIXVHsK1ieN"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 136764,
+      "name": "Fora de Si - Spotify Singles",
+      "url": "https://open.spotify.com/track/2gvQ2JkD9ft9q4OI6TSzUD"
     },
     {
       "added_at": "2024-11-07 00:01:00",
@@ -756,22 +756,6 @@
       "added_at": "2024-11-07 00:01:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/12khkvFs0A8wiIYYmRIQgk"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 194291,
-      "name": "Faz uma loucura por mim - Recorded At Mosh Studios, S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/7jYmFjZ8l40WFNVf9mhX9P"
-    },
-    {
-      "added_at": "2024-11-07 00:01:00",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2ouh1shN9w3s7NzrW1sIDX"
       },
       "artists": [
@@ -783,6 +767,22 @@
       "duration_ms": 212773,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/1ppfwB95hLpO2C6VYJxa3t"
+    },
+    {
+      "added_at": "2024-11-07 00:01:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/12khkvFs0A8wiIYYmRIQgk"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 194291,
+      "name": "Faz uma loucura por mim - Recorded At Mosh Studios, S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/7jYmFjZ8l40WFNVf9mhX9P"
     },
     {
       "added_at": "2024-11-07 00:01:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-11-07 00:01:00",
       "album": {
-        "name": "Pir\u00e2mide Social - Spotify Singles",
-        "url": "https://open.spotify.com/album/15A0WaLUbAvVsZNpwUKvCF"
-      },
-      "artists": [
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        }
-      ],
-      "duration_ms": 198281,
-      "name": "Pir\u00e2mide Social - Spotify Singles",
-      "url": "https://open.spotify.com/track/6yoEBvEehjyf8JHHrlqgOj"
-    },
-    {
-      "added_at": "2024-11-07 00:01:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6k9Hp2pzjLtzn4esbQmTZS"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 244840,
       "name": "Suburbia - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5Y34ia4fEDrQd1a3gczxX9"
+    },
+    {
+      "added_at": "2024-11-07 00:01:00",
+      "album": {
+        "name": "Pir\u00e2mide Social - Spotify Singles",
+        "url": "https://open.spotify.com/album/15A0WaLUbAvVsZNpwUKvCF"
+      },
+      "artists": [
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        }
+      ],
+      "duration_ms": 198281,
+      "name": "Pir\u00e2mide Social - Spotify Singles",
+      "url": "https://open.spotify.com/track/6yoEBvEehjyf8JHHrlqgOj"
     },
     {
       "added_at": "2024-11-07 00:01:00",

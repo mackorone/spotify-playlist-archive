@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di TY1 Guè e Nerissima, Néza, Flaco G e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,947 likes - 101 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,954 likes - 101 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 22 | [superSTAR](https://open.spotify.com/track/2qnsQDDO1MDJkrMzXAEPZM) | [JUCK](https://open.spotify.com/artist/76TFkKyjZt64sNPdTqJwqS), [Luchino Luce](https://open.spotify.com/artist/6wqUUpbLC6kOWt6FAMzDnH) | [superSTAR](https://open.spotify.com/album/7oLXQ32jGnlHkocY4moVu7) | 2:00 |
 | 23 | [WAXTAP](https://open.spotify.com/track/727V3w3ro26liTlCXTz8x7) | [Zyrtck](https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti), [Lorisonthebeat](https://open.spotify.com/artist/7dgLWj3kkLydGaIjic9hit), [Elusive](https://open.spotify.com/artist/68uV5ni6ihkMpwvI0C3mQy), [Lucent](https://open.spotify.com/artist/3k6spDslgQchFW9t5Vqqcu) | [WAXTAP](https://open.spotify.com/album/5iaGy5lFnOyrtUGf8blimc) | 1:56 |
 | 24 | [Smackdown \(feat\. Maury North\)](https://open.spotify.com/track/4zbGCJIPXyj1B1QwIGnUdA) | [FINESSE MOTION](https://open.spotify.com/artist/2ylmAJGm9yivYhG9f2evbU), [Maury North](https://open.spotify.com/artist/4HxI6ooJCfn4mJmvOzgyry) | [Una song in un'ora](https://open.spotify.com/album/4qMtxM5PScTk7RQt7A1RUH) | 1:48 |
-| 25 | [LA VOCE](https://open.spotify.com/track/4L3lf3fikkT7a8UHhQLWXY) | [CamilWay](https://open.spotify.com/artist/0wa2aoDSMRdZi8qlOMUqEA) | [LA VOCE](https://open.spotify.com/album/2ETuLYdGZhU4X9srY1mKRT) | 1:30 |
+| 25 | [LA VOCE](https://open.spotify.com/track/4L3lf3fikkT7a8UHhQLWXY) | [CamilWay](https://open.spotify.com/artist/0wa2aoDSMRdZi8qlOMUqEA), [Deja](https://open.spotify.com/artist/6jLxCv75A6pw2HFJWvAN8A) | [LA VOCE](https://open.spotify.com/album/2ETuLYdGZhU4X9srY1mKRT) | 1:30 |
 | 26 | [Amiri](https://open.spotify.com/track/2r4fW7A2du5MHwNs9mlWCd) | [Ares](https://open.spotify.com/artist/378z2fXIElQ0B2FiaitvLd) | [Amiri](https://open.spotify.com/album/1vAwXftT5Yxba2Ex3lEPEy) | 2:46 |
 | 27 | [Messina Denaro](https://open.spotify.com/track/0dLBHQb3n45H5Mf4mj83Ni) | [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D) | [Messina Denaro](https://open.spotify.com/album/3SJBsPq23HYjPXZx01p5j4) | 2:03 |
 | 28 | [LUMINOR](https://open.spotify.com/track/4L54Nd3uiIFYMNzBL3j8CT) | [Christian Liguori](https://open.spotify.com/artist/0ozb4x3nqp8fRb2WRgNKEn) | [LUMINOR](https://open.spotify.com/album/7vtQ66PsP8pFPkkRguuSz1) | 2:20 |

@@ -1,6 +1,6 @@
 {
   "description": "Sambinhas selecionados especialmente pra voc\u00ea curtir um dia de sol.",
-  "num_followers": 165177,
+  "num_followers": 165207,
   "original_name": "Samba & \u00e1gua fresca",
   "owner": {
     "name": "Spotify",
@@ -75,6 +75,22 @@
     {
       "added_at": "2025-10-24 18:33:40",
       "album": {
+        "name": "Martinho da Vila",
+        "url": "https://open.spotify.com/album/6ime25jnzjF1foE0e5RCYB"
+      },
+      "artists": [
+        {
+          "name": "Martinho Da Vila",
+          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
+        }
+      ],
+      "duration_ms": 144760,
+      "name": "Disritmia",
+      "url": "https://open.spotify.com/track/7fs6csqE3EltCrESv6cn0J"
+    },
+    {
+      "added_at": "2025-10-24 18:33:40",
+      "album": {
         "name": "Vento De Maio",
         "url": "https://open.spotify.com/album/3GCQzHjGHSvtW99n7U7iD8"
       },
@@ -91,22 +107,6 @@
       "duration_ms": 164000,
       "name": "Tiro Ao \u00c1lvaro",
       "url": "https://open.spotify.com/track/7f31hpuzCNIU0rX5E6Dr3g"
-    },
-    {
-      "added_at": "2025-10-24 18:33:40",
-      "album": {
-        "name": "Martinho da Vila",
-        "url": "https://open.spotify.com/album/6ime25jnzjF1foE0e5RCYB"
-      },
-      "artists": [
-        {
-          "name": "Martinho Da Vila",
-          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
-        }
-      ],
-      "duration_ms": 144760,
-      "name": "Disritmia",
-      "url": "https://open.spotify.com/track/7fs6csqE3EltCrESv6cn0J"
     },
     {
       "added_at": "2025-10-24 18:33:40",
@@ -1107,42 +1107,6 @@
     {
       "added_at": "2025-10-24 18:33:40",
       "album": {
-        "name": "Gema (342 Amaz\u00f4nia ao Vivo no Circo Voador)",
-        "url": "https://open.spotify.com/album/0sbkCMPCxWHQlPjXRlLy2D"
-      },
-      "artists": [
-        {
-          "name": "Teresa Cristina",
-          "url": "https://open.spotify.com/artist/2j5unrF80yCu3AF8MPE2VE"
-        },
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 145823,
-      "name": "Gema - 342 Amaz\u00f4nia ao Vivo no Circo Voador",
-      "url": "https://open.spotify.com/track/0QEZd6kBAGnVjpfL0T165H"
-    },
-    {
-      "added_at": "2025-10-24 18:33:40",
-      "album": {
-        "name": "Carioca da Gema (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4LNmMWxJoJ5xKoJLyX0iX5"
-      },
-      "artists": [
-        {
-          "name": "Elza Soares",
-          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
-        }
-      ],
-      "duration_ms": 256506,
-      "name": "Malandro - Ao Vivo",
-      "url": "https://open.spotify.com/track/54G9rpksU4kOftGuzvPErz"
-    },
-    {
-      "added_at": "2025-10-24 18:33:40",
-      "album": {
         "name": "Dia De Gl\u00f3ria",
         "url": "https://open.spotify.com/album/6EV9tH0aYrzvnINZJQ55fH"
       },
@@ -1163,18 +1127,18 @@
     {
       "added_at": "2025-10-24 18:33:40",
       "album": {
-        "name": "Mercado das Flores",
-        "url": "https://open.spotify.com/album/61GPvMzsB5rWl3ADvybaup"
+        "name": "Carioca da Gema (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4LNmMWxJoJ5xKoJLyX0iX5"
       },
       "artists": [
         {
-          "name": "Rodrigo Maranh\u00e3o",
-          "url": "https://open.spotify.com/artist/04r6DFJdJcb3qx9IPidegH"
+          "name": "Elza Soares",
+          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
         }
       ],
-      "duration_ms": 190904,
-      "name": "Mercado das Flores",
-      "url": "https://open.spotify.com/track/74qN03V0t4EYUM4cnjFdtd"
+      "duration_ms": 256506,
+      "name": "Malandro - Ao Vivo",
+      "url": "https://open.spotify.com/track/54G9rpksU4kOftGuzvPErz"
     },
     {
       "added_at": "2025-10-24 18:33:40",
@@ -1195,6 +1159,22 @@
     {
       "added_at": "2025-10-24 18:33:40",
       "album": {
+        "name": "Mercado das Flores",
+        "url": "https://open.spotify.com/album/61GPvMzsB5rWl3ADvybaup"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Maranh\u00e3o",
+          "url": "https://open.spotify.com/artist/04r6DFJdJcb3qx9IPidegH"
+        }
+      ],
+      "duration_ms": 190904,
+      "name": "Mercado das Flores",
+      "url": "https://open.spotify.com/track/74qN03V0t4EYUM4cnjFdtd"
+    },
+    {
+      "added_at": "2025-10-24 18:33:40",
+      "album": {
         "name": "Do It Yourself (New Bossa Remix)",
         "url": "https://open.spotify.com/album/19uU6Yn5TPvtxKbCLLzpiF"
       },
@@ -1211,6 +1191,26 @@
       "duration_ms": 252142,
       "name": "Do It Yourself - New Bossa Remix",
       "url": "https://open.spotify.com/track/0UlhNzWYxoid17dChHoFPo"
+    },
+    {
+      "added_at": "2025-10-24 18:33:40",
+      "album": {
+        "name": "Gema (342 Amaz\u00f4nia ao Vivo no Circo Voador)",
+        "url": "https://open.spotify.com/album/0sbkCMPCxWHQlPjXRlLy2D"
+      },
+      "artists": [
+        {
+          "name": "Teresa Cristina",
+          "url": "https://open.spotify.com/artist/2j5unrF80yCu3AF8MPE2VE"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 145823,
+      "name": "Gema - 342 Amaz\u00f4nia ao Vivo no Circo Voador",
+      "url": "https://open.spotify.com/track/0QEZd6kBAGnVjpfL0T165H"
     },
     {
       "added_at": "2025-10-24 18:33:40",

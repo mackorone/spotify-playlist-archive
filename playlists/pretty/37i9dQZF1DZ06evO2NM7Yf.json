@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aR+rgAAAAABxIBQjkKuP7NB14TwZHShL",
+  "snapshot_id": "aSD9AAAAAACPgbxxpPWdJUpwEXVnYbP+",
   "tracks": [
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dive Bar Opera",
-        "url": "https://open.spotify.com/album/5y8vYUf5I66jv3OHOAFxPn"
+        "name": "breakup with a friend",
+        "url": "https://open.spotify.com/album/7FejhBpvLo5ciYkURuFnW7"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 146054,
-      "name": "Dive Bar Opera",
-      "url": "https://open.spotify.com/track/1WBy88hoogwNohh3PPwpRb"
+      "duration_ms": 162000,
+      "name": "breakup with a friend",
+      "url": "https://open.spotify.com/track/4yJxFiGDaCOIB5FlodmBWH"
     },
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "breakup with a friend",
-        "url": "https://open.spotify.com/album/7FejhBpvLo5ciYkURuFnW7"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "breakup with a friend",
-      "url": "https://open.spotify.com/track/4yJxFiGDaCOIB5FlodmBWH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "emotional punching bag",
         "url": "https://open.spotify.com/album/3znO7FnJGFImn1qGLpgOse"
       },
@@ -203,38 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DISCO DYSTOPIA",
-        "url": "https://open.spotify.com/album/44NvYnPc5kLZO1xIFIyX0k"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 159383,
-      "name": "Hedonistic",
-      "url": "https://open.spotify.com/track/5zSnNdR8ZGVBPyKohY3DWY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Gospel According to Meg Smith",
-        "url": "https://open.spotify.com/album/37aRRGPo5LBlXD4JepCvDa"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 178743,
-      "name": "blasphemy!",
-      "url": "https://open.spotify.com/track/3l0M0HdBZ3SsinWP2alYlG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You Make Bad Things Not Suck <3",
         "url": "https://open.spotify.com/album/4wJEo03dFezG2dEkwDKB13"
       },
@@ -247,22 +199,6 @@
       "duration_ms": 153616,
       "name": "You Make Bad Things Not Suck <3",
       "url": "https://open.spotify.com/track/3EIMsnF6kf3qW8llk5fWtO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "...but i'd miss you too much!",
-        "url": "https://open.spotify.com/album/2qcZh4d8Sz0JnIgQPrW9Zz"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 178301,
-      "name": "...but i'd miss you too much!",
-      "url": "https://open.spotify.com/track/3Jfv7V17nSJaP6aeBokQZm"
     },
     {
       "added_at": null,
@@ -292,9 +228,25 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 188562,
-      "name": "you fake your british accent",
-      "url": "https://open.spotify.com/track/71Re6FOwC7aVe8Qclktmqp"
+      "duration_ms": 178743,
+      "name": "blasphemy!",
+      "url": "https://open.spotify.com/track/3l0M0HdBZ3SsinWP2alYlG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "...but i'd miss you too much!",
+        "url": "https://open.spotify.com/album/2qcZh4d8Sz0JnIgQPrW9Zz"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 178301,
+      "name": "...but i'd miss you too much!",
+      "url": "https://open.spotify.com/track/3Jfv7V17nSJaP6aeBokQZm"
     },
     {
       "added_at": null,
@@ -315,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All the Things You'd Ruin",
-        "url": "https://open.spotify.com/album/4fnPZ5TvPAUQpZo5oQEWNn"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 166046,
-      "name": "All the Things You'd Ruin",
-      "url": "https://open.spotify.com/track/3XqLS6RCMU25puMAUbioAJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DISCO DYSTOPIA",
         "url": "https://open.spotify.com/album/44NvYnPc5kLZO1xIFIyX0k"
       },
@@ -340,9 +276,9 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 75872,
-      "name": "Introduction",
-      "url": "https://open.spotify.com/track/7FVYj2QfqGOfC06kiX4u14"
+      "duration_ms": 159383,
+      "name": "Hedonistic",
+      "url": "https://open.spotify.com/track/5zSnNdR8ZGVBPyKohY3DWY"
     },
     {
       "added_at": null,
@@ -356,9 +292,25 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 153777,
-      "name": "poltergeist",
-      "url": "https://open.spotify.com/track/3vp3r5tiCAHDNHtqhBk6rv"
+      "duration_ms": 188562,
+      "name": "you fake your british accent",
+      "url": "https://open.spotify.com/track/71Re6FOwC7aVe8Qclktmqp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All the Things You'd Ruin",
+        "url": "https://open.spotify.com/album/4fnPZ5TvPAUQpZo5oQEWNn"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 166046,
+      "name": "All the Things You'd Ruin",
+      "url": "https://open.spotify.com/track/3XqLS6RCMU25puMAUbioAJ"
     },
     {
       "added_at": null,
@@ -383,8 +335,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cautiously Optimistic",
-        "url": "https://open.spotify.com/album/6EsfaTMIMrW1LJTNK85z4x"
+        "name": "DISCO DYSTOPIA",
+        "url": "https://open.spotify.com/album/44NvYnPc5kLZO1xIFIyX0k"
       },
       "artists": [
         {
@@ -392,9 +344,25 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 145674,
-      "name": "Cautiously Optimistic",
-      "url": "https://open.spotify.com/track/1mwGaFe4piAkPGFzGS5tm4"
+      "duration_ms": 146054,
+      "name": "Dive Bar Opera",
+      "url": "https://open.spotify.com/track/63jnwFJTt2iHKu5ibHNsrb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Gospel According to Meg Smith",
+        "url": "https://open.spotify.com/album/37aRRGPo5LBlXD4JepCvDa"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 153777,
+      "name": "poltergeist",
+      "url": "https://open.spotify.com/track/3vp3r5tiCAHDNHtqhBk6rv"
     },
     {
       "added_at": null,
@@ -411,6 +379,38 @@
       "duration_ms": 164933,
       "name": "American in Paris",
       "url": "https://open.spotify.com/track/0qmiXuQjdromX08E2ZjZ4j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cautiously Optimistic",
+        "url": "https://open.spotify.com/album/6EsfaTMIMrW1LJTNK85z4x"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 145674,
+      "name": "Cautiously Optimistic",
+      "url": "https://open.spotify.com/track/1mwGaFe4piAkPGFzGS5tm4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DISCO DYSTOPIA",
+        "url": "https://open.spotify.com/album/44NvYnPc5kLZO1xIFIyX0k"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 75872,
+      "name": "Introduction",
+      "url": "https://open.spotify.com/track/7FVYj2QfqGOfC06kiX4u14"
     },
     {
       "added_at": null,

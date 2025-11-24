@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,369 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,420 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Grau de Maluca \- Ao Vivo](https://open.spotify.com/track/4W9nFl732s6NdToGaCfiSl) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu), [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi), [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c) | [+ Amor, + Música Vol\. 3 \(Ao Vivo\)](https://open.spotify.com/album/0PGX05DaiCQoOTlNRKg8q2) | 2:52 |
 | 50 | [LENÇOL DE SEDA \- Ao Vivo](https://open.spotify.com/track/5gVw9bogIHeCCTyGbGoUuY) | [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [DEBAIXO DO MEU CHAPÉU, Vol\. 3 \(Ao Vivo\)](https://open.spotify.com/album/2DenUtgfJdwDyvOWGn0fPO) | 2:15 |
 
-Snapshot ID: `MLUuKAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MLZ9UAAAAAAAAAAAAAAAAAAAAAAAAGVu`

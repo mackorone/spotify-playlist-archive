@@ -4,24 +4,24 @@ pretty - [cumulative](/playlists/cumulative/0heD4XfnmLYU4qCbvyAQYp.md) - [plain]
 
 > The best  indie rock tracks\. \| Indie, Rock, Clasic Rock, Surf Rock,  Alternative, Independent, etc\.  Submit on IG @reinhardzwisler Cover: Lord Huron
 
-[Reinhard Zwisler](https://open.spotify.com/user/21wd7qshyzbn3fhu246sdxwpi) - 4,752 likes - 54 songs - 3 hr 37 min
+[Reinhard Zwisler](https://open.spotify.com/user/21wd7qshyzbn3fhu246sdxwpi) - 4,753 likes - 54 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Sign Of The Horns](https://open.spotify.com/track/65GKZJPncKvGka5X4dTsO9) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [Sign Of The Horns](https://open.spotify.com/album/7hGuCzOqXqKtKPt2FvKjz4) | 3:07 |
-| 2 | [Amor Sexo y Racanró](https://open.spotify.com/track/6rzDdSfnrPvWoCnLdAewbG) | [Käsyädë](https://open.spotify.com/artist/0TN8XJcxK2zoZwCakp2JiO) | [Amor Sexo y Racanró](https://open.spotify.com/album/6IgJl4CR6grNT36fiOVsPA) | 2:52 |
+| 1 | [Amor Sexo y Racanró](https://open.spotify.com/track/6rzDdSfnrPvWoCnLdAewbG) | [Käsyädë](https://open.spotify.com/artist/0TN8XJcxK2zoZwCakp2JiO) | [Amor Sexo y Racanró](https://open.spotify.com/album/6IgJl4CR6grNT36fiOVsPA) | 2:52 |
+| 2 | [Sign Of The Horns](https://open.spotify.com/track/65GKZJPncKvGka5X4dTsO9) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [Sign Of The Horns](https://open.spotify.com/album/7hGuCzOqXqKtKPt2FvKjz4) | 3:07 |
 | 3 | [Bea Tiene Una Risa Tan Especial](https://open.spotify.com/track/0cpEflaylHIzMmKy3DgjMj) | [Käsyädë](https://open.spotify.com/artist/0TN8XJcxK2zoZwCakp2JiO) | [Bea Tiene Una Risa Tan Especial](https://open.spotify.com/album/0COY3QqIEM0exOOJTqanVc) | 4:10 |
 | 4 | [Hey Man](https://open.spotify.com/track/3DytEPUq0s7HzcGJjqOStu) | [DJ Connery](https://open.spotify.com/artist/4hqpFbarG3QRQHWu5PE1au), [Reinhard Zwisler](https://open.spotify.com/artist/71ye10XRGQdJ2l9s8LZENB) | [Hey Man](https://open.spotify.com/album/3zyGmKSkXfCtB6AWzTqQUh) | 2:37 |
-| 5 | [Shadows](https://open.spotify.com/track/2XNu31N13CPRtrlzLRzdPq) | [Tiszavirag](https://open.spotify.com/artist/2wSUuggTn3dmDSjR5kLhsR) | [Shadows](https://open.spotify.com/album/1lY64IUTTZg7BLfAPpIevO) | 3:15 |
-| 6 | [CANSADO DE ESPERAR](https://open.spotify.com/track/4NBelzixJZXf5rkGl5sOMR) | [SOLVIBRA](https://open.spotify.com/artist/6hghA6OshZBCb5plODJL8t) | [CANSADO DE ESPERAR](https://open.spotify.com/album/2zR395ICnNHfnGzhvuLxQK) | 3:19 |
-| 7 | [Marijuana](https://open.spotify.com/track/5pDVvTglDQQl2L20O8aX8l) | [Plastic Madmen](https://open.spotify.com/artist/5VLgQK5WAN6jPdhgQ3y2sA) | [Marijuana](https://open.spotify.com/album/4kszJUeS7W1gR1LK3AHlnH) | 4:37 |
-| 8 | [Terrestrial](https://open.spotify.com/track/1gkS2fy9B3j8puwIS22DmR) | [Paul Johann](https://open.spotify.com/artist/1CXHDE7P5kYPbAQT3fQH3b) | [The Kingdom of Trees](https://open.spotify.com/album/6rUJAze2ADreCV5kLqWmea) | 4:33 |
-| 9 | [Breezeblocks](https://open.spotify.com/track/1ZLroqJA8qoS5QEeCo0fA7) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/6HbJlAnTRhWae1F3lEwGkv) | 3:47 |
-| 10 | [Kiss Me Before I Die](https://open.spotify.com/track/24PYfS3e4mGu9J1qRYQJNb) | [DJ Connery](https://open.spotify.com/artist/4hqpFbarG3QRQHWu5PE1au) | [Kiss Me Before I Die](https://open.spotify.com/album/6WK2lmzQryOU4r2YyI82Hg) | 4:13 |
-| 11 | [Every Where](https://open.spotify.com/track/4y2chq4TIDQr6dVnMuvB0X) | [Paul Johann](https://open.spotify.com/artist/1CXHDE7P5kYPbAQT3fQH3b) | [Entanglement](https://open.spotify.com/album/5tuD5rn8VGTm3yIKjDWeku) | 4:45 |
-| 12 | [I Wanna Be Yours](https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:03 |
-| 13 | [Brand New Day](https://open.spotify.com/track/05lu0lLNyzUDNSsNZ5zBV9) | [Dorian Whisper](https://open.spotify.com/artist/5RcwM81PTfdO1ZFHR1kiWD) | [Brand New Day](https://open.spotify.com/album/0yUQUUzyflTJEswofjRxfg) | 3:28 |
-| 14 | [In The House \- In A Heartbeat](https://open.spotify.com/track/3TnMERbpFoyqd4WVAOKRVN) | [Terrestrial Animal](https://open.spotify.com/artist/75UDNIKbXLmpIGyEuuunjT) | [In The House \- In A Heartbeat](https://open.spotify.com/album/26pBxMWQO0i9vuZDhD9UDW) | 6:04 |
+| 5 | [In The House \- In A Heartbeat](https://open.spotify.com/track/3TnMERbpFoyqd4WVAOKRVN) | [Terrestrial Animal](https://open.spotify.com/artist/75UDNIKbXLmpIGyEuuunjT) | [In The House \- In A Heartbeat](https://open.spotify.com/album/26pBxMWQO0i9vuZDhD9UDW) | 6:04 |
+| 6 | [Shadows](https://open.spotify.com/track/2XNu31N13CPRtrlzLRzdPq) | [Tiszavirag](https://open.spotify.com/artist/2wSUuggTn3dmDSjR5kLhsR) | [Shadows](https://open.spotify.com/album/1lY64IUTTZg7BLfAPpIevO) | 3:15 |
+| 7 | [CANSADO DE ESPERAR](https://open.spotify.com/track/4NBelzixJZXf5rkGl5sOMR) | [SOLVIBRA](https://open.spotify.com/artist/6hghA6OshZBCb5plODJL8t) | [CANSADO DE ESPERAR](https://open.spotify.com/album/2zR395ICnNHfnGzhvuLxQK) | 3:19 |
+| 8 | [Marijuana](https://open.spotify.com/track/5pDVvTglDQQl2L20O8aX8l) | [Plastic Madmen](https://open.spotify.com/artist/5VLgQK5WAN6jPdhgQ3y2sA) | [Marijuana](https://open.spotify.com/album/4kszJUeS7W1gR1LK3AHlnH) | 4:37 |
+| 9 | [Terrestrial](https://open.spotify.com/track/1gkS2fy9B3j8puwIS22DmR) | [Paul Johann](https://open.spotify.com/artist/1CXHDE7P5kYPbAQT3fQH3b) | [The Kingdom of Trees](https://open.spotify.com/album/6rUJAze2ADreCV5kLqWmea) | 4:33 |
+| 10 | [Breezeblocks](https://open.spotify.com/track/1ZLroqJA8qoS5QEeCo0fA7) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/6HbJlAnTRhWae1F3lEwGkv) | 3:47 |
+| 11 | [Kiss Me Before I Die](https://open.spotify.com/track/24PYfS3e4mGu9J1qRYQJNb) | [DJ Connery](https://open.spotify.com/artist/4hqpFbarG3QRQHWu5PE1au) | [Kiss Me Before I Die](https://open.spotify.com/album/6WK2lmzQryOU4r2YyI82Hg) | 4:13 |
+| 12 | [Every Where](https://open.spotify.com/track/4y2chq4TIDQr6dVnMuvB0X) | [Paul Johann](https://open.spotify.com/artist/1CXHDE7P5kYPbAQT3fQH3b) | [Entanglement](https://open.spotify.com/album/5tuD5rn8VGTm3yIKjDWeku) | 4:45 |
+| 13 | [I Wanna Be Yours](https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:03 |
+| 14 | [Brand New Day](https://open.spotify.com/track/05lu0lLNyzUDNSsNZ5zBV9) | [Dorian Whisper](https://open.spotify.com/artist/5RcwM81PTfdO1ZFHR1kiWD) | [Brand New Day](https://open.spotify.com/album/0yUQUUzyflTJEswofjRxfg) | 3:28 |
 | 15 | [Someone](https://open.spotify.com/track/2f73kinXdRlLhCjjza6aUe) | [DJ Connery](https://open.spotify.com/artist/4hqpFbarG3QRQHWu5PE1au) | [Someone](https://open.spotify.com/album/76vWBdmlbLoYJrrKPAvbEp) | 4:45 |
 | 16 | [Transmission\_0](https://open.spotify.com/track/4JO3DqM7nvWtu2t2sb2VLP) | [VANYRA X](https://open.spotify.com/artist/3rWPyQgHJ9pvXOK7KtBX1Z) | [Transmission\_0](https://open.spotify.com/album/1evIDHQNSM5U6KJtLsfib7) | 1:53 |
 | 17 | [Better Not Be Late](https://open.spotify.com/track/2LwjOPIjBi6pzeIEZzHKE0) | [Dorian Whisper](https://open.spotify.com/artist/5RcwM81PTfdO1ZFHR1kiWD) | [Better Not Be Late](https://open.spotify.com/album/62zlN0T8PV7TnGcbm7FZj5) | 3:40 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/0heD4XfnmLYU4qCbvyAQYp.md) - [plain]
 | 53 | [When The Train Leaves The Last Station](https://open.spotify.com/track/6ykYdFOsPrZ6jzZVHOXoOb) | [Dave Christen](https://open.spotify.com/artist/3pLpSZzfhqSloT7Cidly8l) | [When The Train Leaves The Last Station](https://open.spotify.com/album/6o9WRu4pCJtArDhsVCJyGQ) | 3:12 |
 | 54 | [Be Right Here](https://open.spotify.com/track/5bb4mLHW4JaJjLB7z9Pu38) | [Dave Christen](https://open.spotify.com/artist/3pLpSZzfhqSloT7Cidly8l) | [Be Right Here](https://open.spotify.com/album/5jjjFyrWKTaATTx3P4UtHs) | 4:09 |
 
-Snapshot ID: `AAAN3l79Vr+fMoOg1cRfralaFxPn9hll`
+Snapshot ID: `AAAN4AXWPw6Er7aBrIAJjeJ76MSq9kwY`

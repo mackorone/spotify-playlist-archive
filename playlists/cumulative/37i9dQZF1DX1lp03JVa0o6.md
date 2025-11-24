@@ -2,9 +2,9 @@
 
 ### [Dance Generation](https://open.spotify.com/playlist/37i9dQZF1DX1lp03JVa0o6)
 
-> Today's biggest dance hits! Cover: Ninajirachi
+> Today's biggest dance hits! Cover: Odd Mob, OMNOM \(HYPERBEAM\)
 
-897 songs - 1 day 22 hr 41 min
+898 songs - 1 day 22 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,6 +259,7 @@
 | [Edge of Seventeen](https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Edge of Seventeen](https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef) | 2:44 | 2022-12-22 | 2023-09-22 |
 | [Electric Feel \(feat\. Orem\)](https://open.spotify.com/track/3RBuBtVnzmfM0NyeaTtgBj) | [Levi](https://open.spotify.com/artist/1M4OBXDWyLtubqa3SBLxwC), [Orem](https://open.spotify.com/artist/1HjQ6IQwNatqgTtFnklIoL) | [Electric Feel \(feat\. Orem\)](https://open.spotify.com/album/5kPC3aznnrOgUAMAtY26of) | 2:58 | 2024-12-05 | 2025-01-24 |
 | [Element](https://open.spotify.com/track/4fr0TUNlNMjORHGnZX9DQs) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [Element](https://open.spotify.com/album/0UA86CES1HFsAwEY5AXlLK) | 2:00 | 2022-12-08 | 2022-12-16 |
+| [Elevate](https://open.spotify.com/track/7jIIaLkLcxyn9z2GvQi1Se) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO) | [Contact](https://open.spotify.com/album/06z3wshQtpYwZnDoVle3pw) | 3:13 | 2025-11-23 |  |
 | [Elysian Park](https://open.spotify.com/track/3pbZCLBe6fUZ8dBntDWQ64) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [han.irl <3](https://open.spotify.com/artist/5VfSeZYcDwD8WQVwbaoL6z), [Rome in Silver](https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN) | [Elysian Park](https://open.spotify.com/album/5FrzfGTsoOcoH2sk4sONHe) | 2:22 | 2023-10-05 | 2023-12-01 |
 | [Empty](https://open.spotify.com/track/575ViHchpSUjfTLCQPdE49) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [Empty](https://open.spotify.com/album/5UPw5Z0vsHExBhH56uS3iQ) | 3:18 | 2024-03-07 | 2024-04-26 |
 | [Empty \(with Nicole Millar\)](https://open.spotify.com/track/362sGcdGSXnZjg5QXidH2p) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Nicole Millar](https://open.spotify.com/artist/0lYzZ91QzokaPrRK1vq6tW) | [never worry](https://open.spotify.com/album/1ZXC6ylnVeo9H0jAu5ri4r) | 3:18 | 2023-05-04 | 2023-07-14 |
@@ -584,7 +585,7 @@
 | [one2three \(feat\. Leven Kali\)](https://open.spotify.com/track/6dQxsPVLqXnJgiLLWJRE5x) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [one2three \(feat\. Leven Kali\)](https://open.spotify.com/album/6VkJuZchHVpZDxGbLrTtdd) | 4:08 | 2025-09-25 |  |
 | [Only In My Mind](https://open.spotify.com/track/4PrGyX4YgCT6V3YqY7XEUw) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Only In My Mind](https://open.spotify.com/album/4JWnSrjQv0zOW594N76PMf) | 2:41 | 2023-10-05 | 2024-02-09 |
 | [Oops](https://open.spotify.com/track/7fdGGQpQQxwDhgurhKDWVL) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Oops](https://open.spotify.com/album/7c019FtvgrH286V56ZX9jp) | 2:48 | 2023-02-02 | 2023-04-07 |
-| [Original Don](https://open.spotify.com/track/3jzXUnJxAG8Yqj9IVR8RZx) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [IRAH](https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU) | [Original Don](https://open.spotify.com/album/7Jn24h49ditLNn0I2ePgsL) | 2:48 | 2025-09-25 |  |
+| [Original Don](https://open.spotify.com/track/3jzXUnJxAG8Yqj9IVR8RZx) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [IRAH](https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU) | [Original Don](https://open.spotify.com/album/7Jn24h49ditLNn0I2ePgsL) | 2:48 | 2025-09-25 | 2025-11-24 |
 | [Other Boys](https://open.spotify.com/track/5WZlorRUxgryaweu7kqeHd) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Other Boys](https://open.spotify.com/album/3eb9d46lBCh5p1XBn66jBQ) | 2:17 | 2023-09-07 | 2023-12-08 |
 | [Outside Of Love](https://open.spotify.com/track/5ld9X26dRZIcFNLzeclQ40) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/1hZqVn8fNja9o9D0bGTuR1) | 2:55 | 2024-03-28 | 2024-10-18 |
 | [Outside Of Love](https://open.spotify.com/track/7hWzCs92yu0fq5DCdNVlM5) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/6JWxQD4dgbOzeS278kgcS3) | 2:55 | 2024-03-28 | 2024-04-19 |

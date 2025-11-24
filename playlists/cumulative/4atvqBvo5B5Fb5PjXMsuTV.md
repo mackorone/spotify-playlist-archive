@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 23 Nov 04:03 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 23 Nov 09:03 UTC.
 
-5,866 songs - 13 day 13 hr 57 min
+5,867 songs - 13 day 14 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2983,7 +2983,7 @@
 | [liter sladoleda](https://open.spotify.com/track/3ePvcVoeLQw7MKvia3q8el) | [zalagasper](https://open.spotify.com/artist/0YvFvwtv758gmIrkPoAnRO) | [liter sladoleda](https://open.spotify.com/album/1cpnbiYE2w9KvjvCHcu6PV) | 3:43 | 2024-09-22 | 2024-09-26 |
 | [Little By Little \(Live from London, 2 August '25\)](https://open.spotify.com/track/3DbYSWmxCEBmrvm0guKasf) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Little By Little \(Live from London, 2 August '25\)](https://open.spotify.com/album/5QSPQFuj1heseH4jEQoHCY) | 4:45 | 2025-08-20 | 2025-08-23 |
 | [Little Chaos](https://open.spotify.com/track/2UGWhW5YmrEDUDRB3H1fif) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Little Chaos](https://open.spotify.com/album/7xP8WWOKNqBhItpZ2j7OXM) | 2:54 | 2024-05-16 | 2024-05-18 |
-| [Little Miss](https://open.spotify.com/track/24GdDBCqLhHEe2cAFvgUrL) | [GIRLSET](https://open.spotify.com/artist/3D2TVeexyIXOtc8F4qEZ6P) | [Little Miss](https://open.spotify.com/album/5ychqszZ89oPl6rBKSkGc6) | 2:23 | 2025-11-14 |  |
+| [Little Miss](https://open.spotify.com/track/24GdDBCqLhHEe2cAFvgUrL) | [GIRLSET](https://open.spotify.com/artist/3D2TVeexyIXOtc8F4qEZ6P) | [Little Miss](https://open.spotify.com/album/5ychqszZ89oPl6rBKSkGc6) | 2:23 | 2025-11-14 | 2025-11-24 |
 | [Little Ray Of Light](https://open.spotify.com/track/6az0lDUrzgyGYBTyRvYRBH) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [Little Ray Of Light](https://open.spotify.com/album/1XwroIKwbqFmy2MHBjoIzU) | 2:59 | 2025-03-14 | 2025-03-27 |
 | [Live & Direct](https://open.spotify.com/track/1AFB8RNDYOavAYKqAQoZFR) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565), [kurtains](https://open.spotify.com/artist/7b2FbxYmnpGMPqDe04QmyP) | [Live & Direct](https://open.spotify.com/album/6cyktdv1fqQlrqwS6X0os1) | 1:47 | 2024-10-04 | 2024-10-09 |
 | [Live For You](https://open.spotify.com/track/2XekPGzt01OOtaRY9oAV1b) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Live For You](https://open.spotify.com/album/3zJGBJOYBVuM5NnhdWtvLm) | 3:30 | 2024-07-31 | 2024-08-03 |
@@ -4845,6 +4845,7 @@
 | [System Error](https://open.spotify.com/track/3ugIDVprXVn0yoIeHjIgNm) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [System Error](https://open.spotify.com/album/1CszyO6eUiSOXJgQRwl8cf) | 3:22 | 2024-04-30 | 2024-05-03 |
 | [szary blok](https://open.spotify.com/track/2EQgBSqIkQ3UvL6GAa2cII) | [Oki](https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd), [Sobel](https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH), [bvdy47](https://open.spotify.com/artist/5nmW2FD84UdLOIj391WVQ4) | [szary blok](https://open.spotify.com/album/5KJUjKdVJwKPDpVfXIOm3u) | 2:50 | 2025-02-08 | 2025-02-13 |
 | [São Paulo \(feat\. Anitta\)](https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [São Paulo](https://open.spotify.com/album/44MHvpU3h9Wp6SxhsC9GOK) | 5:01 | 2024-10-31 | 2024-11-02 |
+| [T Shirt](https://open.spotify.com/track/0u0xPd6CRdaJK62D6Lo72P) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB) | [T Shirt](https://open.spotify.com/album/4HR7bBjUtMJgSExIJe1sXa) | 3:20 | 2025-11-23 |  |
 | [T&A](https://open.spotify.com/track/7IpWpWnpsFPqZwc1ADfEwI) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [T&A](https://open.spotify.com/album/7flMmwfHZibsaY5ifPWKm2) | 3:45 | 2025-01-10 | 2025-01-18 |
 | [Table For Glasses](https://open.spotify.com/track/0TujGu0mONlC3o4P5cvHsY) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Table For Glasses](https://open.spotify.com/album/6sGXAQpMGVTq7fjsoiOAdC) | 3:59 | 2024-12-06 | 2024-12-10 |
 | [Tadka](https://open.spotify.com/track/1bzEg4DkUQOhXDFn89Fex7) | [Bloodywood](https://open.spotify.com/artist/4HFpzehKjow2WqU4EJ6Wy9) | [Tadka](https://open.spotify.com/album/5amuuw3Kg9y0Db7S06WJj7) | 4:22 | 2025-02-03 | 2025-02-09 |

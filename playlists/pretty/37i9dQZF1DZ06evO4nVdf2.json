@@ -1,12 +1,12 @@
 {
   "description": "This is Ximena Sari\u00f1ana. The essential tracks, all in one playlist.",
-  "num_followers": 64740,
+  "num_followers": 64742,
   "original_name": "This Is Ximena Sari\u00f1ana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aR+rgAAAAAAk0G595yqAhWt07iTWzhFZ",
+  "snapshot_id": "aSD9AAAAAAADeUiIJsGWkVr/ChI0gEYQ",
   "tracks": [
     {
       "added_at": null,
@@ -547,26 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mujer Divina - Homenaje a Agust\u00edn Lara [En Vivo]",
-        "url": "https://open.spotify.com/album/2pYAi581eUrOxSGWMuN5dH"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 271000,
-      "name": "Amor, Amor de Mis Amores (with Ximena Sari\u00f1ana) - En Vivo [Sala Telef\u00f3nica del Centro Cultural Roberto Cantoral]",
-      "url": "https://open.spotify.com/track/1xUUwulH27eH1TPa1faebX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Viendo Vemos",
         "url": "https://open.spotify.com/album/5VffydBNDq78uI8GH22itk"
       },
@@ -583,6 +563,26 @@
       "duration_ms": 198650,
       "name": "Viendo Vemos",
       "url": "https://open.spotify.com/track/2YuAAzb6H7V4h2nxH0IIdH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mujer Divina - Homenaje a Agust\u00edn Lara [En Vivo]",
+        "url": "https://open.spotify.com/album/2pYAi581eUrOxSGWMuN5dH"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 271000,
+      "name": "Amor, Amor de Mis Amores (with Ximena Sari\u00f1ana) - En Vivo [Sala Telef\u00f3nica del Centro Cultural Roberto Cantoral]",
+      "url": "https://open.spotify.com/track/1xUUwulH27eH1TPa1faebX"
     },
     {
       "added_at": null,

@@ -4,14 +4,15 @@
 
 > This is Libido\. The essential tracks, all in one playlist.
 
-67 songs - 3 hr 59 min
+68 songs - 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Cicuta](https://open.spotify.com/track/4Ga2fkzCLM5VAbsO6vsbL8) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Libido](https://open.spotify.com/album/2XeN5D4iNJAILDK4ehOxtw) | 2:49 | 2023-08-25 |  |
 | [Como un Perro](https://open.spotify.com/track/2UiwYEIQXj4pNO4dSXfkXv) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Libido](https://open.spotify.com/album/2XeN5D4iNJAILDK4ehOxtw) | 3:47 | 2023-08-25 |  |
 | [Criatura Misteriosa \- En Vivo](https://open.spotify.com/track/1lNOh95xYwn0JmtECerJpt) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Libido en Vivo Coliseo Dibós \(En Vivo\)](https://open.spotify.com/album/4inRORxjogX7v75jCwCusy) | 4:39 | 2023-08-25 |  |
-| [Cuelgo el Teléfono](https://open.spotify.com/track/4LsSBw9Jey4ZW7F0LXb9WF) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Cuelgo el Teléfono](https://open.spotify.com/album/3btzsxko2imX9tsWIdBE5r) | 3:25 | 2023-08-25 |  |
+| [Cuelgo el Teléfono](https://open.spotify.com/track/3GIetbJaBAB8jnqVeUF2WE) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Cuelgo el Teléfono](https://open.spotify.com/album/7y2Mm6rNbKFKlEBQeGXxAa) | 3:25 | 2025-11-24 |  |
+| [Cuelgo el Teléfono](https://open.spotify.com/track/4LsSBw9Jey4ZW7F0LXb9WF) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Cuelgo el Teléfono](https://open.spotify.com/album/3btzsxko2imX9tsWIdBE5r) | 3:25 | 2023-08-25 | 2025-11-24 |
 | [Culpable](https://open.spotify.com/track/79tGltolVrUMbxy7NUdq2J) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Lo Último Que Hablé Ayer](https://open.spotify.com/album/5vFyCCzJ7ciDElxZisN3vs) | 2:37 | 2023-08-25 |  |
 | [Cómo Estás](https://open.spotify.com/track/3QBq430wLlZjsDn9WlK3GD) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Pop\*Porn](https://open.spotify.com/album/4LV8x1YoHxPrqf0gVF7ky1) | 4:30 | 2025-07-27 | 2025-07-29 |
 | [Cómo estás \(En vivo\)](https://open.spotify.com/track/1fHlONl6pMBC9zc4Qh76XQ) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Acústico en el Gran Teatro Nacional \(En vivo\)](https://open.spotify.com/album/4GhkQaLNEGLF22fxsn8kFV) | 4:27 | 2023-08-25 | 2024-10-12 |

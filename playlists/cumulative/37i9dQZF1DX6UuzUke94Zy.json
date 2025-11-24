@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2025-05-30",
   "description": "Get ready for the upcoming concert by listening to the best songs from the concert lineup! The interview is coming soon! (\ubbf8\ud305\ub8f8 \ucc38\uac00 \ub77c\uc778\uc5c5\uc758 \ubca0\uc2a4\ud2b8 \uace1\ub4e4\uc744 \ub4e4\uc73c\uba70 \ub2e4\uac00\uc624\ub294 \uacf5\uc5f0\uc744 \uc900\ube44\ud574\ubcf4\uc138\uc694!)",
-  "name": "MEETING ROOM - 004",
+  "name": "MEETING ROOM - 005",
   "tracks": [
     {
       "album": {
@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "As usual as today",
+        "url": "https://open.spotify.com/album/4gVzcpbTfYfQXlQxWjvHqB"
+      },
+      "artists": [
+        {
+          "name": "Cloud koh",
+          "url": "https://open.spotify.com/artist/3Ix2vKtdUBv1CKn3MqvZIs"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233709,
+      "name": "As usual as today",
+      "url": "https://open.spotify.com/track/4NI8T1iB8oon09GNYXYK7a"
+    },
+    {
+      "album": {
         "name": "At The Square",
         "url": "https://open.spotify.com/album/3vKWHOhqkSxv0Jc97Fp7a7"
       },
@@ -167,6 +185,24 @@
     },
     {
       "album": {
+        "name": "sky, hands, balloons",
+        "url": "https://open.spotify.com/album/4b4SVwMTIdlAvrqFJQ9iW0"
+      },
+      "artists": [
+        {
+          "name": "Cloud koh",
+          "url": "https://open.spotify.com/artist/3Ix2vKtdUBv1CKn3MqvZIs"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240681,
+      "name": "babylion",
+      "url": "https://open.spotify.com/track/26PRKjxCtOaCu1a4hWrQW9"
+    },
+    {
+      "album": {
         "name": "\u88dd\u9ad8\u624b(Guru Orange)",
         "url": "https://open.spotify.com/album/7AuJ05WXrRmASoerKLvtg6"
       },
@@ -178,7 +214,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 216556,
       "name": "Be Bottle, My Wuhan \u9ad8\u624b\u58fa",
       "url": "https://open.spotify.com/track/2xi7sSLqDqvdPYFMurtOaM"
@@ -232,7 +268,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 174541,
       "name": "Bingle Z9",
       "url": "https://open.spotify.com/track/2bRkvtQsQS2W4iczWeTalZ"
@@ -268,7 +304,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 223573,
       "name": "Bpm140",
       "url": "https://open.spotify.com/track/1A2tfR087T8Tc0teSnt4m4"
@@ -304,7 +340,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 208000,
       "name": "Cage",
       "url": "https://open.spotify.com/track/68GLfyHmBoJ7nb9Wj1LR3W"
@@ -322,7 +358,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 182400,
       "name": "Car to Pluto \u98db\u8eca\u8a18",
       "url": "https://open.spotify.com/track/1xKce8bBeumDvvFqvBGTrh"
@@ -340,7 +376,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 206500,
       "name": "CATCH",
       "url": "https://open.spotify.com/track/1wNcx1Xquy8ILSTBhswOdE"
@@ -358,7 +394,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 131781,
       "name": "Chilling Drive \u515c\u98a8",
       "url": "https://open.spotify.com/track/50Oq7ogwp1wd6Oc9VcWaXv"
@@ -380,6 +416,24 @@
       "duration_ms": 349640,
       "name": "Cloud City",
       "url": "https://open.spotify.com/track/6PpiaBT36awZoXl0G3rjPt"
+    },
+    {
+      "album": {
+        "name": "Musaboru / Colorful",
+        "url": "https://open.spotify.com/album/5wQvP75573asL61ZwpL3mw"
+      },
+      "artists": [
+        {
+          "name": "mayu",
+          "url": "https://open.spotify.com/artist/13UpT9Gex05qV9ukq0e7RO"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199845,
+      "name": "Colorful",
+      "url": "https://open.spotify.com/track/0et7KxPKPoWsC6iO9rJLDJ"
     },
     {
       "album": {
@@ -437,6 +491,24 @@
     },
     {
       "album": {
+        "name": "Young Life",
+        "url": "https://open.spotify.com/album/5u3GVZI245NbxFj5psPqty"
+      },
+      "artists": [
+        {
+          "name": "mayu",
+          "url": "https://open.spotify.com/artist/13UpT9Gex05qV9ukq0e7RO"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215789,
+      "name": "Driving My Car",
+      "url": "https://open.spotify.com/track/4rMKGzYzMhWkBBxJ6s85us"
+    },
+    {
+      "album": {
         "name": "Dying Star",
         "url": "https://open.spotify.com/album/3hwHY1kb8NZQ3b3rG50Jkh"
       },
@@ -473,6 +545,24 @@
     },
     {
       "album": {
+        "name": "naporitan nightmare walk",
+        "url": "https://open.spotify.com/album/6jqvr7C90xq6GUx92VRUMA"
+      },
+      "artists": [
+        {
+          "name": "Cloud koh",
+          "url": "https://open.spotify.com/artist/3Ix2vKtdUBv1CKn3MqvZIs"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279658,
+      "name": "Emerges In The Spring",
+      "url": "https://open.spotify.com/track/18Nlejw09f1K3hMw7btd98"
+    },
+    {
+      "album": {
         "name": "Shonen Manga vol 0.1",
         "url": "https://open.spotify.com/album/2psME9GRjJQXKphoH7wr0o"
       },
@@ -484,7 +574,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 223020,
       "name": "Engine",
       "url": "https://open.spotify.com/track/6JMyA4nS7cmWFPByBvc4R5"
@@ -502,7 +592,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 189857,
       "name": "exchange - student",
       "url": "https://open.spotify.com/track/7w90M3IH9VZSalGnoljU0N"
@@ -520,10 +610,28 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 180515,
       "name": "Fall & Flow \u843d\u6c34\u6d41",
       "url": "https://open.spotify.com/track/1HVDRIv1JjPgS39bS2pCd9"
+    },
+    {
+      "album": {
+        "name": "PLP / Fallin",
+        "url": "https://open.spotify.com/album/476HEL3PEgT65MQnSVO959"
+      },
+      "artists": [
+        {
+          "name": "mayu",
+          "url": "https://open.spotify.com/artist/13UpT9Gex05qV9ukq0e7RO"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169615,
+      "name": "Fallin",
+      "url": "https://open.spotify.com/track/3h2vjbgHnhlXrWz09CeBPY"
     },
     {
       "album": {
@@ -538,7 +646,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 182000,
       "name": "Fever",
       "url": "https://open.spotify.com/track/0Md8ZvtRa7OWKiQiHMv2y7"
@@ -556,7 +664,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 176000,
       "name": "Floating",
       "url": "https://open.spotify.com/track/1aPUONuI7KAvlIPcR6ykkA"
@@ -578,6 +686,24 @@
       "duration_ms": 250432,
       "name": "Flower",
       "url": "https://open.spotify.com/track/2wtVTHWTIM6j3SQX8ukyGI"
+    },
+    {
+      "album": {
+        "name": "With a lot of exaggeration",
+        "url": "https://open.spotify.com/album/2bMUpjipyCRg62wFTYRYEU"
+      },
+      "artists": [
+        {
+          "name": "Cloud koh",
+          "url": "https://open.spotify.com/artist/3Ix2vKtdUBv1CKn3MqvZIs"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Flower",
+      "url": "https://open.spotify.com/track/6dCrG8H4Z2FbLK6uhesBBi"
     },
     {
       "album": {
@@ -610,7 +736,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 203884,
       "name": "free falling",
       "url": "https://open.spotify.com/track/12wzXsqJM9Xs0xGVruak7i"
@@ -628,7 +754,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 174665,
       "name": "Frenchfries=Hourglass",
       "url": "https://open.spotify.com/track/0BISFJr9Qcc28NWGDjuycD"
@@ -646,7 +772,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 175000,
       "name": "Glow",
       "url": "https://open.spotify.com/track/1GnvYJY43UIeJ2SkiNqJlp"
@@ -700,7 +826,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 174907,
       "name": "Greedy sleeper",
       "url": "https://open.spotify.com/track/0RCpgDcrwJ9MId0o9tA76W"
@@ -772,10 +898,28 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 162923,
       "name": "Homerun Complex",
       "url": "https://open.spotify.com/track/5RydKFozB9QKsGt5jLJNSe"
+    },
+    {
+      "album": {
+        "name": "naporitan nightmare walk",
+        "url": "https://open.spotify.com/album/6jqvr7C90xq6GUx92VRUMA"
+      },
+      "artists": [
+        {
+          "name": "Cloud koh",
+          "url": "https://open.spotify.com/artist/3Ix2vKtdUBv1CKn3MqvZIs"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185408,
+      "name": "How Have You Been",
+      "url": "https://open.spotify.com/track/0AxYC67EKwebcnG6cSsLhN"
     },
     {
       "album": {
@@ -902,7 +1046,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 251032,
       "name": "IIIR",
       "url": "https://open.spotify.com/track/0Xr8hiCWSjsHUhacnm0UIu"
@@ -920,7 +1064,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 90023,
       "name": "Is it True",
       "url": "https://open.spotify.com/track/66U8GKyBkHtLijQGqcgEzU"
@@ -956,7 +1100,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 206000,
       "name": "Jane Birkin",
       "url": "https://open.spotify.com/track/3yV4Imi1xFtXH3ev0Egrr3"
@@ -1068,7 +1212,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 312789,
       "name": "Laire",
       "url": "https://open.spotify.com/track/07YxyhoplKhZTrUvYCBrNP"
@@ -1090,6 +1234,24 @@
       "duration_ms": 214903,
       "name": "Life Without Headache",
       "url": "https://open.spotify.com/track/5VPx7w6VpNVx4LoxPOOA6q"
+    },
+    {
+      "album": {
+        "name": "With a lot of exaggeration",
+        "url": "https://open.spotify.com/album/2bMUpjipyCRg62wFTYRYEU"
+      },
+      "artists": [
+        {
+          "name": "Cloud koh",
+          "url": "https://open.spotify.com/artist/3Ix2vKtdUBv1CKn3MqvZIs"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222500,
+      "name": "Like the first time I saw you",
+      "url": "https://open.spotify.com/track/2tlDqJD9uZGgBuq5F7FoBi"
     },
     {
       "album": {
@@ -1147,6 +1309,24 @@
     },
     {
       "album": {
+        "name": "Lullaby / Slow Dance",
+        "url": "https://open.spotify.com/album/58IBI5vQefw7Th95ykRtgA"
+      },
+      "artists": [
+        {
+          "name": "mayu",
+          "url": "https://open.spotify.com/artist/13UpT9Gex05qV9ukq0e7RO"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234857,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/4w1PfCGrbryQUV5XAgk5UA"
+    },
+    {
+      "album": {
         "name": "Drowsiness of DOEK",
         "url": "https://open.spotify.com/album/4qvBmKdz5avFtBXuynS0Sy"
       },
@@ -1162,6 +1342,24 @@
       "duration_ms": 235519,
       "name": "Made in...",
       "url": "https://open.spotify.com/track/0cGGVk8iPAJ5mjTxiWfZBx"
+    },
+    {
+      "album": {
+        "name": "Mafia",
+        "url": "https://open.spotify.com/album/3XW3QbWyaTDEElCA3Bs5UX"
+      },
+      "artists": [
+        {
+          "name": "Cloud koh",
+          "url": "https://open.spotify.com/artist/3Ix2vKtdUBv1CKn3MqvZIs"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184255,
+      "name": "Mafia",
+      "url": "https://open.spotify.com/track/4tJPSdxGHflIZ2LjDuLYCt"
     },
     {
       "album": {
@@ -1309,6 +1507,24 @@
     },
     {
       "album": {
+        "name": "Musaboru / Colorful",
+        "url": "https://open.spotify.com/album/5wQvP75573asL61ZwpL3mw"
+      },
+      "artists": [
+        {
+          "name": "mayu",
+          "url": "https://open.spotify.com/artist/13UpT9Gex05qV9ukq0e7RO"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266355,
+      "name": "Musaboru",
+      "url": "https://open.spotify.com/track/3brYbbSuxEvTahx41dJ1Vn"
+    },
+    {
+      "album": {
         "name": "KOSHIEN",
         "url": "https://open.spotify.com/album/27V5Zkabh3T1YQJjdwV8Gb"
       },
@@ -1320,10 +1536,28 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 259200,
       "name": "My Little Baseball team",
       "url": "https://open.spotify.com/track/5X5XJMoSQZwfUhddfHfA99"
+    },
+    {
+      "album": {
+        "name": "With a lot of exaggeration",
+        "url": "https://open.spotify.com/album/2bMUpjipyCRg62wFTYRYEU"
+      },
+      "artists": [
+        {
+          "name": "Cloud koh",
+          "url": "https://open.spotify.com/artist/3Ix2vKtdUBv1CKn3MqvZIs"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258500,
+      "name": "Not curious at all",
+      "url": "https://open.spotify.com/track/3Zk8UMtogojGk0B6pr3G5H"
     },
     {
       "album": {
@@ -1396,10 +1630,28 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 245559,
       "name": "Out of Time",
       "url": "https://open.spotify.com/track/6PeiSn54Es1w0WdgWDjUaj"
+    },
+    {
+      "album": {
+        "name": "OUTOUSEYO",
+        "url": "https://open.spotify.com/album/10IJ6u9N1bjrDp2TJno9xO"
+      },
+      "artists": [
+        {
+          "name": "mayu",
+          "url": "https://open.spotify.com/artist/13UpT9Gex05qV9ukq0e7RO"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166507,
+      "name": "OUTOUSEYO",
+      "url": "https://open.spotify.com/track/1X7BdGZ9zUqTkNXBOWzEPE"
     },
     {
       "album": {
@@ -1414,7 +1666,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 187079,
       "name": "paradiso2019",
       "url": "https://open.spotify.com/track/4juKi8tfJL2Nk4TioHLltH"
@@ -1432,10 +1684,28 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 207530,
       "name": "Peace season II",
       "url": "https://open.spotify.com/track/3s6dK5BOWSyEEVzbDpqC4C"
+    },
+    {
+      "album": {
+        "name": "Pittsburgh goes beyond that sky",
+        "url": "https://open.spotify.com/album/4D9k7FzBLN4iAc8HhEzJvZ"
+      },
+      "artists": [
+        {
+          "name": "mayu",
+          "url": "https://open.spotify.com/artist/13UpT9Gex05qV9ukq0e7RO"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274000,
+      "name": "Pittsburgh goes beyond that sky",
+      "url": "https://open.spotify.com/track/5hck4vCp6yiX5fc767nt5e"
     },
     {
       "album": {
@@ -1511,6 +1781,42 @@
     },
     {
       "album": {
+        "name": "sky, hands, balloons",
+        "url": "https://open.spotify.com/album/4b4SVwMTIdlAvrqFJQ9iW0"
+      },
+      "artists": [
+        {
+          "name": "Cloud koh",
+          "url": "https://open.spotify.com/artist/3Ix2vKtdUBv1CKn3MqvZIs"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192954,
+      "name": "please do not take my love for granted",
+      "url": "https://open.spotify.com/track/7aXrZPLw1v0Mz8l47bJwRh"
+    },
+    {
+      "album": {
+        "name": "PLP / Fallin",
+        "url": "https://open.spotify.com/album/476HEL3PEgT65MQnSVO959"
+      },
+      "artists": [
+        {
+          "name": "mayu",
+          "url": "https://open.spotify.com/artist/13UpT9Gex05qV9ukq0e7RO"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "PLP",
+      "url": "https://open.spotify.com/track/17lAVyA62g4VNitbbsKNcz"
+    },
+    {
+      "album": {
         "name": "Drowsiness of DOEK",
         "url": "https://open.spotify.com/album/4qvBmKdz5avFtBXuynS0Sy"
       },
@@ -1576,7 +1882,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 213807,
       "name": "Poor Little Cake",
       "url": "https://open.spotify.com/track/4BBHp4LONJ886Sgav5ed4L"
@@ -1648,7 +1954,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 178758,
       "name": "rule of protagonist",
       "url": "https://open.spotify.com/track/0G9f7QCcLvkS33HbDAPqBj"
@@ -1684,7 +1990,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 177000,
       "name": "Saint",
       "url": "https://open.spotify.com/track/7DztENoDiBbcz5GSQUtmCq"
@@ -1738,10 +2044,46 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 218000,
       "name": "Shonen Manga (color)",
       "url": "https://open.spotify.com/track/6w2rM60R2LUGlwVHSw7FIY"
+    },
+    {
+      "album": {
+        "name": "sky, hands, balloons",
+        "url": "https://open.spotify.com/album/4b4SVwMTIdlAvrqFJQ9iW0"
+      },
+      "artists": [
+        {
+          "name": "Cloud koh",
+          "url": "https://open.spotify.com/artist/3Ix2vKtdUBv1CKn3MqvZIs"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214756,
+      "name": "sky, hands, balloons",
+      "url": "https://open.spotify.com/track/2fOdh9tzibnea3DFJViQ7d"
+    },
+    {
+      "album": {
+        "name": "Lullaby / Slow Dance",
+        "url": "https://open.spotify.com/album/58IBI5vQefw7Th95ykRtgA"
+      },
+      "artists": [
+        {
+          "name": "mayu",
+          "url": "https://open.spotify.com/artist/13UpT9Gex05qV9ukq0e7RO"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183934,
+      "name": "Slow Dance",
+      "url": "https://open.spotify.com/track/5enLsnuT0Ry83f1aXSrJxT"
     },
     {
       "album": {
@@ -1918,7 +2260,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 160026,
       "name": "Taste",
       "url": "https://open.spotify.com/track/3NxQFeGetEaicOu4ou8H58"
@@ -1990,7 +2332,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 352036,
       "name": "To trap that tiger\uff08TTTT\uff09",
       "url": "https://open.spotify.com/track/4xKApDzStPd3xFnGP5NLCv"
@@ -2051,6 +2393,24 @@
     },
     {
       "album": {
+        "name": "waltz",
+        "url": "https://open.spotify.com/album/1MsqeKzbRkeuQY3JplDTCL"
+      },
+      "artists": [
+        {
+          "name": "mayu",
+          "url": "https://open.spotify.com/artist/13UpT9Gex05qV9ukq0e7RO"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267310,
+      "name": "waltz",
+      "url": "https://open.spotify.com/track/3XDnDTbDkF6UyQFHQY2R4q"
+    },
+    {
+      "album": {
         "name": "PoP!? Plant",
         "url": "https://open.spotify.com/album/4f0ysLulasfBEBuMKAg1eQ"
       },
@@ -2066,6 +2426,24 @@
       "duration_ms": 185368,
       "name": "Wannabesadsong",
       "url": "https://open.spotify.com/track/08Kx6ySadZUuHludLcD1bR"
+    },
+    {
+      "album": {
+        "name": "Warerawa",
+        "url": "https://open.spotify.com/album/6ZQznTY9F7jf5KnnTnLpiz"
+      },
+      "artists": [
+        {
+          "name": "mayu",
+          "url": "https://open.spotify.com/artist/13UpT9Gex05qV9ukq0e7RO"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224969,
+      "name": "Warerawa",
+      "url": "https://open.spotify.com/track/5GoY5ugq6EJqYwY8Ds3GOI"
     },
     {
       "album": {
@@ -2098,7 +2476,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 198998,
       "name": "What a Time to be Alive",
       "url": "https://open.spotify.com/track/20e4688HjbIYaKHMgJlArs"
@@ -2116,10 +2494,28 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 221000,
       "name": "Whiteout",
       "url": "https://open.spotify.com/track/2kpAYA8FMje97Vd9kSoaPW"
+    },
+    {
+      "album": {
+        "name": "With a lot of exaggeration",
+        "url": "https://open.spotify.com/album/2bMUpjipyCRg62wFTYRYEU"
+      },
+      "artists": [
+        {
+          "name": "Cloud koh",
+          "url": "https://open.spotify.com/artist/3Ix2vKtdUBv1CKn3MqvZIs"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243807,
+      "name": "With a lot of exaggeration",
+      "url": "https://open.spotify.com/track/1qiALZrKwq5EWCWxCt5X8u"
     },
     {
       "album": {
@@ -2152,10 +2548,46 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 189232,
       "name": "Wu-Chang Library \u5929\u6771\u95a3",
       "url": "https://open.spotify.com/track/0ALfmwuJ5wJJlt3pn7SwFM"
+    },
+    {
+      "album": {
+        "name": "naporitan nightmare walk",
+        "url": "https://open.spotify.com/album/6jqvr7C90xq6GUx92VRUMA"
+      },
+      "artists": [
+        {
+          "name": "Cloud koh",
+          "url": "https://open.spotify.com/artist/3Ix2vKtdUBv1CKn3MqvZIs"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190667,
+      "name": "Yellow Light",
+      "url": "https://open.spotify.com/track/1CRMUL04FclkMXmrvpvemh"
+    },
+    {
+      "album": {
+        "name": "yim",
+        "url": "https://open.spotify.com/album/3cEIv0Cbmfx90uEYDxYPkm"
+      },
+      "artists": [
+        {
+          "name": "Cloud koh",
+          "url": "https://open.spotify.com/artist/3Ix2vKtdUBv1CKn3MqvZIs"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197704,
+      "name": "yim",
+      "url": "https://open.spotify.com/track/7ycFgPI4MHD2YYIhjECUE9"
     },
     {
       "album": {
@@ -2170,7 +2602,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 163000,
       "name": "You",
       "url": "https://open.spotify.com/track/1dq8EPWCE8ld1Roex7fsGz"
@@ -2192,6 +2624,24 @@
       "duration_ms": 161374,
       "name": "You Always",
       "url": "https://open.spotify.com/track/5EOMupI6xuvU7rndNNPKKZ"
+    },
+    {
+      "album": {
+        "name": "Young Life",
+        "url": "https://open.spotify.com/album/5u3GVZI245NbxFj5psPqty"
+      },
+      "artists": [
+        {
+          "name": "mayu",
+          "url": "https://open.spotify.com/artist/13UpT9Gex05qV9ukq0e7RO"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232814,
+      "name": "Young Life",
+      "url": "https://open.spotify.com/track/6mZ6ObJpdRKtgIqDlE4TXO"
     },
     {
       "album": {
@@ -2264,7 +2714,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 200019,
       "name": "\u5446\u5446\u5446\uff08WallGaze\uff09",
       "url": "https://open.spotify.com/track/1vu79GN5WwbfgwEdSVsIQ0"

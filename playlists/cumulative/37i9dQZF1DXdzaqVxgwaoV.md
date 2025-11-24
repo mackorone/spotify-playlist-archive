@@ -4,7 +4,7 @@
 
 > Los temas que prenden las fiestas navideñas y de fin de año en Colombia\. Foto: Pastor López
 
-358 songs - 21 hr 49 min
+359 songs - 21 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Alma de Mujer](https://open.spotify.com/track/75BNaMn4byhntMskKRWxeo) | [El Caballero Gaucho](https://open.spotify.com/artist/1Y8tkL7bBifF9JiCcEzo70) | [Reminiscencias](https://open.spotify.com/album/2CqMZ1naORerdin55yWPbP) | 2:26 | 2023-02-03 | 2024-09-02 |
 | [Amaneciendo](https://open.spotify.com/track/6Zxog7v7iLtLGPO0p5LLst) | [Adolfo Echeverria](https://open.spotify.com/artist/3msRUQeJsvGGEmaZOfrtFh) | [Música Tropical de Colombia: 16 Grandes Éxitos \(Vol\. 1\)](https://open.spotify.com/album/0lWMkUyk1Wyz530J96NTF4) | 3:50 | 2025-09-09 | 2025-10-04 |
 | [Amapola](https://open.spotify.com/track/2xJjyzN1XIanhxxeSGOBn4) | [Papaya Dada](https://open.spotify.com/artist/2bE4ndiQ6NJa7GkkQMMF89), [Los Cumbia Stars](https://open.spotify.com/artist/3vK9K7420aB6FXJ32IDD9t) | [Amapola](https://open.spotify.com/album/5AgWLXB1XyZwu4nTh4PmxW) | 3:12 | 2024-09-01 |  |
+| [Amargo Y Dulce](https://open.spotify.com/track/5qpLb0kL7Z8NRAlN6EWjXN) | [Doris Salas con la Tremenda](https://open.spotify.com/artist/4sRiK0tbwYoalygZ3WgDFF) | [Gran Festival De Porros Y Cumbias](https://open.spotify.com/album/23oOLSIB4SW14Nwp4bbYdc) | 4:26 | 2025-11-20 |  |
 | [Amor Indio](https://open.spotify.com/track/43lK3lgzMgjhZjIzqKMaWR) | [El Caballero Gaucho](https://open.spotify.com/artist/1Y8tkL7bBifF9JiCcEzo70) | [Coleccion Grandes Figuras](https://open.spotify.com/album/4nSqh2gtrHCfGsxisJXsUe) | 2:36 | 2023-02-03 | 2024-09-02 |
 | [Amor Oculto](https://open.spotify.com/track/2XDFJJJDb35ng71PNB5GPW) | [Juan Carlos Hurtado](https://open.spotify.com/artist/7oI4D3DpyX9jscPFPh44Yf) | [Amor Oculto](https://open.spotify.com/album/1CA0zMs4fMYWxwNWWA6tLx) | 3:49 | 2023-02-03 | 2024-09-02 |
 | [Amparito](https://open.spotify.com/track/4RQ0j2QKEe5gjrFsKriIF5) | [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW) | [Lo Mejor de los Melodicos Vol\. 1](https://open.spotify.com/album/13evw9mEtB5xBNgUWk89rR) | 3:47 | 2023-12-20 |  |
@@ -275,7 +276,7 @@
 | [Pedacito de Mi Vida](https://open.spotify.com/track/4sCP5KRUAM03QrgCXF5cCo) | [Los Lideres](https://open.spotify.com/artist/42FkXaqeCMzkbTCZC52TFn) | [Tequendama de Oro, Vol\. 4](https://open.spotify.com/album/52k7leNvJSZROJgEZhHuku) | 3:00 | 2024-09-01 |  |
 | [Pegame Tu Vicio](https://open.spotify.com/track/0FcgB8l69nXBOmvhvEXm8o) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Pegame Tu Vicio](https://open.spotify.com/album/4lboawyI2xBP52DPWPjk87) | 5:03 | 2023-11-09 |  |
 | [Pegaso](https://open.spotify.com/track/5YJFRoENSrA5TbrJk71itz) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK) | [En El Caribe](https://open.spotify.com/album/3QTpSNsagg6u57I5msWqbB) | 4:34 | 2025-09-09 | 2025-10-04 |
-| [Pirulino](https://open.spotify.com/track/5aGEQkBOLZ9kWzElCVPwYs) | [Los Golden Boys](https://open.spotify.com/artist/3AxVllGtE7wlIXF27v0VLh), [Benny Marquez](https://open.spotify.com/artist/1cBYkrPHoiePBxeSOhLM9J) | [Éxitos los Golden Boys](https://open.spotify.com/album/1YPFIDExp0udyyzB0Ax1RO) | 2:38 | 2023-12-20 |  |
+| [Pirulino](https://open.spotify.com/track/5aGEQkBOLZ9kWzElCVPwYs) | [Los Golden Boys](https://open.spotify.com/artist/3AxVllGtE7wlIXF27v0VLh), [Benny Marquez](https://open.spotify.com/artist/1cBYkrPHoiePBxeSOhLM9J) | [Éxitos los Golden Boys](https://open.spotify.com/album/1YPFIDExp0udyyzB0Ax1RO) | 2:38 | 2023-12-20 | 2025-11-24 |
 | [Plegaria](https://open.spotify.com/track/2KT2fxUXxlNLvmMqaGDpNE) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414), [La Tipica Ra7](https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG) | [Rescatando los Éxitos Originales de Long Play](https://open.spotify.com/album/1LxXO1YM55J3siUROq2i51) | 3:27 | 2023-12-20 | 2025-09-03 |
 | [Pobre y Sincero](https://open.spotify.com/track/1yhED0FBKVrLiOKOCYlkar) | [Olider Montana](https://open.spotify.com/artist/2RtSSs1N2mOsGE6ojLrW49) | [Pobre y Sincero](https://open.spotify.com/album/5a6O3hJLxCLjHASaAbTtdY) | 2:41 | 2023-02-03 | 2024-09-02 |
 | [Por Las Buenas](https://open.spotify.com/track/3k2qOgZygd9YxrYGqkK6Dj) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [Por Las Buenas](https://open.spotify.com/album/4uwZYTIdlBBRDb3M2nYrk1) | 2:35 | 2023-11-09 | 2025-10-04 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aR+rgAAAAABSjAolUWE92pM51Ai0x46Z",
+  "snapshot_id": "aSD9AAAAAACV1LvCIFamWHz25asDe820",
   "tracks": [
     {
       "added_at": null,
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
         }
       ],
-      "duration_ms": 185027,
-      "name": "Jack Frost",
-      "url": "https://open.spotify.com/track/0dhBMRNxWrBZ6hmZXSC2lT"
+      "duration_ms": 181132,
+      "name": "Evil Genius",
+      "url": "https://open.spotify.com/track/1QJzaFcIyh8EJ6SJ3itXRf"
     },
     {
       "added_at": null,
@@ -895,34 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE PRYCE YOU PAY",
-        "url": "https://open.spotify.com/album/2cuQyw05LhSMjnTMejPUNS"
-      },
-      "artists": [
-        {
-          "name": "Slik Jack",
-          "url": "https://open.spotify.com/artist/2zfwgqJzNi5OdfJwFxpMYZ"
-        },
-        {
-          "name": "Vincent Pryce",
-          "url": "https://open.spotify.com/artist/2NOvOuKq4vuXLVKyxx8MC8"
-        },
-        {
-          "name": "Troy Dunnit",
-          "url": "https://open.spotify.com/artist/05dKYqnKFrjD0Fs4D7G00z"
-        },
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        }
-      ],
-      "duration_ms": 151807,
-      "name": "DUHM PAYD",
-      "url": "https://open.spotify.com/track/3a5tWiIFOG4vBjKeIo6hB7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dump Gawd: Shot Clock King",
         "url": "https://open.spotify.com/album/36FjECbaQWxWg64KyjotOs"
       },
@@ -943,26 +915,6 @@
       "duration_ms": 150769,
       "name": "Dear Friend",
       "url": "https://open.spotify.com/track/4mIq67OpwFeAmXmGJfIVMQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "POTLUCK",
-        "url": "https://open.spotify.com/album/1WwIvrNfaFQdAu82XAs7Fh"
-      },
-      "artists": [
-        {
-          "name": "Bruiser Wolf",
-          "url": "https://open.spotify.com/artist/2WWAtobfGkojaSqMRN5V67"
-        },
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        }
-      ],
-      "duration_ms": 157290,
-      "name": "Beat The Charge",
-      "url": "https://open.spotify.com/track/51nexOgdmWUAbfIY6rdQDI"
     },
     {
       "added_at": null,

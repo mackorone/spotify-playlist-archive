@@ -4,7 +4,7 @@
 
 > Try a little tenderness\. Cover: Thee Marloes
 
-350 songs - 21 hr 42 min
+351 songs - 21 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [\(No One Knows Me\) Like the Piano](https://open.spotify.com/track/2UBwvSk8tTMqydEdWsfBb8) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Process \(Bonus Edition\)](https://open.spotify.com/album/4rA6i9oXyMhh77pqK0cXKv) | 3:38 | 2022-07-28 | 2024-04-19 |
 | [\(No One Knows Me\) Like the Piano](https://open.spotify.com/track/3D1VUmjj0IlhdHqGConc7C) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Process](https://open.spotify.com/album/4fRcYn1zNOHY5LJXuRmJHI) | 3:38 | 2022-11-10 | 2022-11-14 |
 | [\(No One Knows Me\) Like the Piano](https://open.spotify.com/track/5zOnoB8FdZudDcPX4O8WqF) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Process](https://open.spotify.com/album/2gUSWVHCOerKhJHZRwhVtN) | 3:38 | 2022-06-02 | 2022-07-29 |
+| [2 Much](https://open.spotify.com/track/4QySScdQnRDZjDaAdpY0AM) | [Qendresa](https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI) | [2 Much](https://open.spotify.com/album/3BpR28xCNhR9uI90NgAwRR) | 3:20 | 2025-09-29 |  |
 | [4EVA](https://open.spotify.com/track/2LftHOFPfXdPtPK6yCnZXj) | [thndo](https://open.spotify.com/artist/4NKTT4ovD0uyL6YssNGF2n) | [4EVA](https://open.spotify.com/album/5VK922NbC81kfS2tCnDAM0) | 2:39 | 2023-06-01 | 2023-06-16 |
 | [6 AM](https://open.spotify.com/track/3UJbJOsLhyuGXOOofKr52i) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [6 AM](https://open.spotify.com/album/6f0QgMv0n3IBDpcYW0QPQL) | 3:50 | 2022-08-04 | 2022-09-19 |
 | [6 AM](https://open.spotify.com/track/5frJ2iO0fDjeAVHlg9Z62T) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Like Neptune](https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB) | 3:50 | 2022-09-08 | 2023-02-03 |
@@ -42,7 +43,7 @@
 | [Bran Nue Wurld](https://open.spotify.com/track/4OOkftDd4EKeNjKDqpegYZ) | [Mo’Ju](https://open.spotify.com/artist/08kSC3EyOASw4LU1BmBG6g) | [ORO, PLATA, MATA](https://open.spotify.com/album/4DiD3VBlFIJivBlzuLE6yk) | 3:21 | 2023-03-23 | 2023-04-02 |
 | [Brand New](https://open.spotify.com/track/1vjyekD56hO5NIsJAgjKgc) | [Mi\-kaisha](https://open.spotify.com/artist/2nDEgpZ9zmM7cqkdUab6Tr) | [Brand New](https://open.spotify.com/album/1oeBre4fMvcoLjbJ9tyvhW) | 3:09 | 2022-06-02 | 2022-09-09 |
 | [Break](https://open.spotify.com/track/41NfPrA9JEK6ufqJkUUU2N) | [Emily Muli](https://open.spotify.com/artist/5PF3HYijywmkoIgVSwXtP8) | [Break](https://open.spotify.com/album/6uoil0oYQ1OemgpS0QExn6) | 3:24 | 2022-06-02 | 2022-09-11 |
-| [Breakadawn](https://open.spotify.com/track/2WyLyygONxNBVtXCRLMjFY) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Buhloone Mindstate](https://open.spotify.com/album/4ajtfXfaqumfNlJDTVjhOd) | 4:15 | 2025-07-11 |  |
+| [Breakadawn](https://open.spotify.com/track/2WyLyygONxNBVtXCRLMjFY) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Buhloone Mindstate](https://open.spotify.com/album/4ajtfXfaqumfNlJDTVjhOd) | 4:15 | 2025-07-11 | 2025-11-24 |
 | [Bridge Over Troubled Water \(feat\. John Legend & Tori Kelly\)](https://open.spotify.com/track/4FG5dNlurEtZ84kCTg5YLA) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Bridge Over Troubled Water \(feat\. John Legend & Tori Kelly\)](https://open.spotify.com/album/1Zo8V5bfUxTiLPQRO99FK5) | 5:52 | 2024-02-22 | 2025-07-11 |
 | [Can I Just Love You](https://open.spotify.com/track/2zmVuZrjXkZgTnsLm9cSDz) | [Sunday Rose](https://open.spotify.com/artist/0on2Bi1asBv63WyzwbSQvE) | [Can I Just Love You](https://open.spotify.com/album/41thN8uSJPYw6XWzLAkLNN) | 3:18 | 2022-06-02 | 2022-09-09 |
 | [catch the night](https://open.spotify.com/track/1m9yB7P1Ba9cuBEMXPHg3n) | [Kee'ahn](https://open.spotify.com/artist/6kpchs42F1L1TwlfLT1XoL) | [catch the night](https://open.spotify.com/album/5l2k8k5EZeC1qcRKz0wzIs) | 2:55 | 2023-11-16 | 2025-04-27 |

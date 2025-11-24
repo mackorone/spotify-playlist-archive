@@ -2644,8 +2644,8 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-30",
-      "duration_ms": 241106,
+      "date_removed": null,
+      "duration_ms": 241562,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
     },
@@ -2982,7 +2982,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 213800,
       "name": "Amaro",
       "url": "https://open.spotify.com/track/15ZWSMDQMfBKVn4zurLX7k"
@@ -4788,7 +4788,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
@@ -7632,7 +7632,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 189642,
       "name": "BUIO DAVANTI",
       "url": "https://open.spotify.com/track/5MJc4IVIt17xEt6angtZcq"
@@ -11572,7 +11572,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 209962,
       "name": "COME SE NON FOSSI NEI GUAI",
       "url": "https://open.spotify.com/track/46w75NfLpau9juuoeiY3ZM"
@@ -12280,7 +12280,7 @@
       ],
       "date_added": "2025-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 199343,
       "name": "Cos\u00ec cos\u00ec",
       "url": "https://open.spotify.com/track/0pjqXWOiT5xMh2ua6sq4dl"
@@ -15214,6 +15214,24 @@
       "duration_ms": 178253,
       "name": "Domai (feat. Ketama126)",
       "url": "https://open.spotify.com/track/0g24bBP2htW3TWumtSMRNO"
+    },
+    {
+      "album": {
+        "name": "Un Gioco Senza Eta'",
+        "url": "https://open.spotify.com/album/7uTQP1en3s8ovWVqOEZn8I"
+      },
+      "artists": [
+        {
+          "name": "Ornella Vanoni",
+          "url": "https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv"
+        }
+      ],
+      "date_added": "2025-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192693,
+      "name": "Domani E' Un Altro Giorno",
+      "url": "https://open.spotify.com/track/3KNNNoyBTBn8D2BmPN40At"
     },
     {
       "album": {
@@ -20058,7 +20076,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 184462,
       "name": "GELD MACHEN",
       "url": "https://open.spotify.com/track/02W1da4LT1RhEu68fn9O8k"
@@ -22170,7 +22188,7 @@
       ],
       "date_added": "2025-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-19",
+      "date_removed": null,
       "duration_ms": 187926,
       "name": "Hey Tu",
       "url": "https://open.spotify.com/track/6frXiGzWezYUH9nNMYWpna"
@@ -26377,6 +26395,24 @@
     },
     {
       "album": {
+        "name": "Del Mio Meglio",
+        "url": "https://open.spotify.com/album/6zP8t0J8Ue5YpWl4vAEEYm"
+      },
+      "artists": [
+        {
+          "name": "Ornella Vanoni",
+          "url": "https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv"
+        }
+      ],
+      "date_added": "2025-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274000,
+      "name": "L'appuntamento",
+      "url": "https://open.spotify.com/track/5PnEkOUOFnk0wMI71JwddQ"
+    },
+    {
+      "album": {
         "name": "Mentre Los Angeles Brucia",
         "url": "https://open.spotify.com/album/2O1iWxwf8rcqR6SYksKSb1"
       },
@@ -27604,7 +27640,7 @@
       ],
       "date_added": "2025-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-12",
+      "date_removed": null,
       "duration_ms": 268280,
       "name": "La Nuova Stella Di Broadway - Remastered 2019",
       "url": "https://open.spotify.com/track/74fH2e2XNsBt35U0lfhI47"
@@ -28034,6 +28070,32 @@
       "duration_ms": 241307,
       "name": "La Vita Splendida",
       "url": "https://open.spotify.com/track/6iqSvLMDS8YIkKVf0EoBUg"
+    },
+    {
+      "album": {
+        "name": "La voglia la pazzia l'incoscienza l'allegria",
+        "url": "https://open.spotify.com/album/5O6YBiSMJZ4qB5opZCJHGH"
+      },
+      "artists": [
+        {
+          "name": "Ornella Vanoni",
+          "url": "https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv"
+        },
+        {
+          "name": "Toquinho",
+          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
+        },
+        {
+          "name": "Vin\u00edcius de Moraes",
+          "url": "https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd"
+        }
+      ],
+      "date_added": "2025-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173866,
+      "name": "La voglia, la pazzia",
+      "url": "https://open.spotify.com/track/1Sr4RnfU7JVaRKuhNrfI5h"
     },
     {
       "album": {
@@ -28520,7 +28582,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-29",
+      "date_removed": null,
       "duration_ms": 262960,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
@@ -45511,6 +45573,28 @@
     },
     {
       "album": {
+        "name": "Diverse",
+        "url": "https://open.spotify.com/album/7sDxy69OT8VTIMrNdSnWBo"
+      },
+      "artists": [
+        {
+          "name": "Ornella Vanoni",
+          "url": "https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv"
+        },
+        {
+          "name": "Mahmood",
+          "url": "https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd"
+        }
+      ],
+      "date_added": "2025-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164349,
+      "name": "Sant'allegria - con Mahmood",
+      "url": "https://open.spotify.com/track/5eHKwCgsc0oJgRe3nOO5lA"
+    },
+    {
+      "album": {
         "name": "Sant'allegria (Jack Sani Remix)",
         "url": "https://open.spotify.com/album/6FLmdAJsf6g2jKL44jhS4w"
       },
@@ -45526,7 +45610,7 @@
       ],
       "date_added": "2024-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-10",
+      "date_removed": null,
       "duration_ms": 147361,
       "name": "Sant'allegria - Jack Sani Remix",
       "url": "https://open.spotify.com/track/2wpSLqGcN5KXVeAGdAnQd0"
@@ -45808,7 +45892,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 178125,
       "name": "sbalzi d'amore (feat. Annalisa)",
       "url": "https://open.spotify.com/track/6WUN2vJOoPLkerVax8N8RJ"
@@ -49158,7 +49242,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 151384,
       "name": "SQUALO 2 (feat. Gu\u00e8 & Nerissima Serpe)",
       "url": "https://open.spotify.com/track/5f1QY8JXcVD1zCz0zVXPZO"
@@ -52806,7 +52890,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 145960,
       "name": "Tu Mi Piaci (feat. Artie 5ive)",
       "url": "https://open.spotify.com/track/5O5yM8JaaL0erqrP9h7bR2"

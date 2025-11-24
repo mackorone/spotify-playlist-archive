@@ -4,7 +4,7 @@
 
 > Relive False Idols at Drumsheds 2024!
 
-52 songs - 3 hr 31 min
+53 songs - 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [DRIFT](https://open.spotify.com/track/282JGp6fPFIeQ3df3UZBRv) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [FEVER DREAM](https://open.spotify.com/album/6zCFqTY0LZhNzf4sCdAQR1) | 2:51 | 2024-12-02 |  |
 | [f0rbiidden l0ve$tory](https://open.spotify.com/track/6krQyQ8XW0ZiNB9fjui2ur) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [f0rbiidden l0ve$tory](https://open.spotify.com/album/0Ef1aaC3SD8EPr72sOYceZ) | 2:06 | 2024-12-02 |  |
 | [Fade Away](https://open.spotify.com/track/4FC0VE8aoYj6s1vrLj367k) | [Hannah Diamond](https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU) | [Reflections](https://open.spotify.com/album/3h1wgea55XrtVoxrkRYDBn) | 4:16 | 2024-12-02 |  |
+| [Fashion Nympho](https://open.spotify.com/track/36DpqHlVo4uw3ZbcMCgsZx) | [Bimini](https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk) | [Fashion Nympho](https://open.spotify.com/album/6iu5ClhbjsWLrTHr8evGl9) | 2:56 | 2024-12-02 |  |
 | [Feel the Beat](https://open.spotify.com/track/5GWZeLOFhjeb4ohc0WHttB) | [Joshua James](https://open.spotify.com/artist/3g6L9paGFaZxGp7lxChRqh) | [Make It Better](https://open.spotify.com/album/3xMkYpaWQGD063055J2dnp) | 3:35 | 2024-12-02 |  |
 | [Forever 2 \(Crush Mix\) \- Edit](https://open.spotify.com/track/3sS48tE1iA7CLb8iAhNHOv) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6), [DJ BORING](https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p) | [Forever 2 \(Crush Mix\)](https://open.spotify.com/album/2TbQ4UscdZOQCTNas8MAhR) | 2:55 | 2024-12-02 |  |
 | [Freak Me Now \(with Róisín Murphy\) \- Horse Meat Disco Remix](https://open.spotify.com/track/2qqBoetO8bNlzLaSC6cj1I) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc), [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [Horse Meat Disco](https://open.spotify.com/artist/5MnToV7aAt2Zy9ag3DAsna) | [Freak Me Now \(with Róisín Murphy\) \[Horse Meat Disco Remix\]](https://open.spotify.com/album/22Z01u5NgyoGVvRhpUex8r) | 2:53 | 2024-12-02 |  |
@@ -49,7 +50,7 @@
 | [NOBODY](https://open.spotify.com/track/3YoXksESEwIkPsH1gZBq4r) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [NOBODY](https://open.spotify.com/album/0QkYU5KB8lMH9XOj5kUiRe) | 1:56 | 2024-12-02 |  |
 | [Poison \- Club Shy mix](https://open.spotify.com/track/5RJNdm66nI9xUVr3A1g48B) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Nymph\_o](https://open.spotify.com/album/28MZKxXQKX89mr1Y9g9d3k) | 3:35 | 2024-12-02 |  |
 | [Real Hot n Naughty](https://open.spotify.com/track/1hPBJwV6CK6d8IgC9OUmqW) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4), [Felix Mufti](https://open.spotify.com/artist/1N4X5hZ0hEXhhFdg1q0AlN) | [Real Hot n Naughty](https://open.spotify.com/album/1AUPiPnIbLT7FkOgEfaPGa) | 3:34 | 2024-12-02 |  |
-| [Slay 4 Me \(feat\. Jesse Fields\) \- Edit](https://open.spotify.com/track/2ycAx22Kc8PJNVY1cyTcON) | [Baby Weight](https://open.spotify.com/artist/48OPpTnWriqiSMnOsqII4T), [Jesse Fields](https://open.spotify.com/artist/2B9buLG6jo5TbMDupYNPQe) | [It's Giving EP](https://open.spotify.com/album/0gAE7755ojE0IEmFuKdlGQ) | 3:39 | 2024-12-02 |  |
+| [Slay 4 Me \(feat\. Jesse Fields\) \- Edit](https://open.spotify.com/track/2ycAx22Kc8PJNVY1cyTcON) | [Baby Weight](https://open.spotify.com/artist/48OPpTnWriqiSMnOsqII4T), [Jesse Fields](https://open.spotify.com/artist/2B9buLG6jo5TbMDupYNPQe) | [It's Giving EP](https://open.spotify.com/album/0gAE7755ojE0IEmFuKdlGQ) | 3:39 | 2024-12-02 | 2025-11-24 |
 | [SLB](https://open.spotify.com/track/5aKVi02d8B8hoFuiqroPXT) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [SLB](https://open.spotify.com/album/4gYrCsnSRFp0plFHs7U6ve) | 4:05 | 2024-12-02 |  |
 | [Slut Slide](https://open.spotify.com/track/6TVq1Rj8nPRD8vPfEIJWz2) | [Miss Bashful](https://open.spotify.com/artist/5skHU2PrWHKFfSTpq9y56C), [DBBD](https://open.spotify.com/artist/69UVGTxhvI9zrl4tVafMgC) | [Slut Slide](https://open.spotify.com/album/67AndfOhU9MmUs6TQhqoC2) | 3:43 | 2024-12-02 |  |
 | [The Daisy](https://open.spotify.com/track/0aegbRrg4oVF2kSMZwmnq8) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [Tread](https://open.spotify.com/album/5wKXfInna4rPKYVhdiSgQA) | 5:38 | 2024-12-02 |  |

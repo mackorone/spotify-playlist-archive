@@ -4,7 +4,7 @@
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-1,815 songs - 4 day 10 hr 29 min
+1,817 songs - 4 day 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Arcoiris y Galeras](https://open.spotify.com/track/5K62UBRtYBrMksbU8hkrQI) | [Juanmarcelo Garrido](https://open.spotify.com/artist/4QpDKXtcmj6zpintgwmUr3), [Vanessa Gago](https://open.spotify.com/artist/2RhkngG1nfp7FUpoZhXz4H), [Alexis Da Rosa](https://open.spotify.com/artist/0islSTIiTgkQ2COivkj25e) | [Arcoiris y Galeras](https://open.spotify.com/album/31otx9dSVHPjqlfBHvOraJ) | 4:12 | 2024-05-15 |  |
 | [Around](https://open.spotify.com/track/3OTOOWFmZpTcsvtCwjEppJ) | [Big Wreck](https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS) | [Around](https://open.spotify.com/album/42EMgok0IILwVWDPEqoE6v) | 3:26 | 2025-09-10 |  |
 | [Arrogant](https://open.spotify.com/track/4hi9EKuWMjVNfSDNlZkdtj) | [K1LLINUNURFRNDS](https://open.spotify.com/artist/6nluhQW8WSpIU0qNsOCGNN) | [Arrogant](https://open.spotify.com/album/2cDEfjYFWtCaQv1AackIL8) | 4:57 | 2025-03-13 |  |
+| [Arrows](https://open.spotify.com/track/6v74tDWJeRLfMqD0Y0JJmE) | [InspirationNow Series](https://open.spotify.com/artist/0rEWU7S4WJPjoNSNqE3lGj), [Lydia Mel](https://open.spotify.com/artist/3VYuPscNH6XJACzfR1R8Ps) | [Arrows](https://open.spotify.com/album/4DUG5einjelMzfVw3pFinp) | 3:18 | 2025-11-24 |  |
 | [as I fall apart](https://open.spotify.com/track/7Me3E0d38Arp44PpfZ8a1Q) | [JsSenor](https://open.spotify.com/artist/5yVsxZ7i7YcnR5k7mBtzX9), [Gxnk](https://open.spotify.com/artist/00rUrsB65TV6nmVEF4mCtr) | [as I fall apart](https://open.spotify.com/album/5N1nuyxrdq7xogHOZwiarg) | 1:43 | 2025-07-08 |  |
 | [As Long as You're Not There](https://open.spotify.com/track/7DD5cerXqlkQjLiVcKmjsU) | [Lee A\. Davis](https://open.spotify.com/artist/4TEeXM2e6rU8YG49gepOrc) | [As Long as You're Not There](https://open.spotify.com/album/3g8HYEimTYPCocBl01e17G) | 3:29 | 2024-09-09 |  |
 | [As the light fades away](https://open.spotify.com/track/6KrarV6cdv0XuQLdgAyR7u) | [The Magnificent Buffalo Train Band](https://open.spotify.com/artist/7Mvpfss5nLaPm7eJTvgjj2) | [As the light fades away](https://open.spotify.com/album/5OOZgeG1l6GOwMdmFysKYO) | 3:18 | 2025-07-16 |  |
@@ -1113,6 +1114,7 @@
 | [Offshore](https://open.spotify.com/track/0WYjD7qAkWzIdddrJh1pQj) | [Sol Marineris](https://open.spotify.com/artist/6fLLkzsoaz9ceyLoGYmUIP), [Enlia](https://open.spotify.com/artist/4pGE3dPAL7rlSvoBgTw91S) | [IO VOID](https://open.spotify.com/album/4R9jaZTFU3elwqxK3jhXB3) | 3:48 | 2025-07-09 |  |
 | [Ogni volta](https://open.spotify.com/track/6REbsWy9DKaV4e2U5UgqLU) | [Don Pasquale Ferone](https://open.spotify.com/artist/0Tz4UbfJ9hlD4u1Wv0qMJG) | [Ogni volta](https://open.spotify.com/album/0zZEhVapNFSo12nnnVlEWO) | 3:53 | 2024-06-03 |  |
 | [Oh Johanna](https://open.spotify.com/track/2E1OZ0P9gOEFaRCPkIWbP0) | [Jamezbla](https://open.spotify.com/artist/08UTjjd1YOemk0H4Qpx6kB) | [Oh Johanna](https://open.spotify.com/album/2kAqXOzRViAmg4YCFm6v8p) | 2:08 | 2025-02-03 |  |
+| [Old as the Hills](https://open.spotify.com/track/3t1Y3TdtUs9iKbe9DPb7cV) | [Thompson Newkirk](https://open.spotify.com/artist/4REmQoYtgtw3WxM75wpLO5) | [Old as the Hills](https://open.spotify.com/album/6qrgOH5ocwXDZZdnryjAe6) | 5:04 | 2025-11-24 |  |
 | [Old Irish Dawn](https://open.spotify.com/track/6JyTjbCL66BndWKDlU5les) | [Ale Riatti](https://open.spotify.com/artist/3CMakSpatfEpwfe5LlAsFD) | [Amethyst](https://open.spotify.com/album/0CrFpfneILqNAWgLSmtgxt) | 2:42 | 2024-11-12 |  |
 | [Old Lovers Of Summer](https://open.spotify.com/track/0S43g6sTT4pAvyjFtUD9Ow) | [Sally Rose](https://open.spotify.com/artist/02vdwySXJOI2ic2HxpYrZP) | [you can blame it on my wild heart](https://open.spotify.com/album/33yQWoCQw2PJhEMArkHKKb) | 3:51 | 2025-07-08 |  |
 | [Oliver](https://open.spotify.com/track/5iMu5JMC6TXB8DyfNa6roL) | [Phil Riley](https://open.spotify.com/artist/5ufMjzaXuajqSg0lDlixvc), [Andy Cutting](https://open.spotify.com/artist/2RePyZFhRc3qX0OO7h8I4k) | [Lost Legions](https://open.spotify.com/album/23A4cHoGwKoq3WGnrBHbuK) | 4:28 | 2025-04-11 |  |

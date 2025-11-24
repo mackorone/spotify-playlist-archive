@@ -1,6 +1,6 @@
 {
   "description": "Beste Nederlandstalige songs uit de 60's! Cover: Boudewijn de Groot",
-  "num_followers": 24535,
+  "num_followers": 24544,
   "original_name": "60's Nederlandstalig",
   "owner": {
     "name": "Spotify",
@@ -280,13 +280,29 @@
       },
       "artists": [
         {
-          "name": "Karin Kent",
-          "url": "https://open.spotify.com/artist/5SqY8MVxydMiXggYPvPECU"
+          "name": "Egbert Douwe",
+          "url": "https://open.spotify.com/artist/6P88irnnuZ1Nk5UyGNXfp2"
         }
       ],
-      "duration_ms": 159000,
-      "name": "Dans Je De Hele Nacht Met Mij?",
-      "url": "https://open.spotify.com/track/5GG4cyTRpjBtl5V84c5WvG"
+      "duration_ms": 201240,
+      "name": "Kom Uit De Bedstee M'n Liefste",
+      "url": "https://open.spotify.com/track/4DRM9sJB3gThCiic3nH01l"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
+        "name": "Ramses Shaffy - Laat Me",
+        "url": "https://open.spotify.com/album/68G1Wx6lZkRrw4Tn8W8Y73"
+      },
+      "artists": [
+        {
+          "name": "Ramses Shaffy",
+          "url": "https://open.spotify.com/artist/38qd50i3qMDHvWL1Mo0lk4"
+        }
+      ],
+      "duration_ms": 134186,
+      "name": "Sammy",
+      "url": "https://open.spotify.com/track/2yeViE7XgsOare6ypIIXsB"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -296,13 +312,13 @@
       },
       "artists": [
         {
-          "name": "Egbert Douwe",
-          "url": "https://open.spotify.com/artist/6P88irnnuZ1Nk5UyGNXfp2"
+          "name": "Karin Kent",
+          "url": "https://open.spotify.com/artist/5SqY8MVxydMiXggYPvPECU"
         }
       ],
-      "duration_ms": 201240,
-      "name": "Kom Uit De Bedstee M'n Liefste",
-      "url": "https://open.spotify.com/track/4DRM9sJB3gThCiic3nH01l"
+      "duration_ms": 159000,
+      "name": "Dans Je De Hele Nacht Met Mij?",
+      "url": "https://open.spotify.com/track/5GG4cyTRpjBtl5V84c5WvG"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -331,22 +347,6 @@
       "duration_ms": 163120,
       "name": "We Zijn Toch Op De Wereld Om Mekaar Te Helpen, Nietwaar",
       "url": "https://open.spotify.com/track/2GhrEcT6XFmV63N0COZB0s"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
-        "name": "Ramses Shaffy - Laat Me",
-        "url": "https://open.spotify.com/album/68G1Wx6lZkRrw4Tn8W8Y73"
-      },
-      "artists": [
-        {
-          "name": "Ramses Shaffy",
-          "url": "https://open.spotify.com/artist/38qd50i3qMDHvWL1Mo0lk4"
-        }
-      ],
-      "duration_ms": 134186,
-      "name": "Sammy",
-      "url": "https://open.spotify.com/track/2yeViE7XgsOare6ypIIXsB"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "Hollandse Hits Top 100",
-        "url": "https://open.spotify.com/album/3olYePqSyCQeR2jvXwKhiD"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hoes",
-          "url": "https://open.spotify.com/artist/1Mi47bz9As8xAtRrVDTn3x"
-        }
-      ],
-      "duration_ms": 188320,
-      "name": "Oh Was Ik Maar Bij Moeder Thuis Gebleven",
-      "url": "https://open.spotify.com/track/3IKPbGsMMEZS2ngXYcrVNC"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
         "name": "Het Beste van De Heikrekels - Instrumentaal",
         "url": "https://open.spotify.com/album/6FDILW7wS2fySJcupx92JG"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 199097,
       "name": "Ik Wil Alleen Maar Van Je Houden",
       "url": "https://open.spotify.com/track/6gCHX6FcXgtP4P9qfcqh41"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
+        "name": "Hollandse Hits Top 100",
+        "url": "https://open.spotify.com/album/3olYePqSyCQeR2jvXwKhiD"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hoes",
+          "url": "https://open.spotify.com/artist/1Mi47bz9As8xAtRrVDTn3x"
+        }
+      ],
+      "duration_ms": 188320,
+      "name": "Oh Was Ik Maar Bij Moeder Thuis Gebleven",
+      "url": "https://open.spotify.com/track/3IKPbGsMMEZS2ngXYcrVNC"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "Die Goeie Ouwe Tijd 2 - Top 100",
-        "url": "https://open.spotify.com/album/5v4ZgunI2ScuGPuTOv90xK"
-      },
-      "artists": [
-        {
-          "name": "Trea Dobbs",
-          "url": "https://open.spotify.com/artist/4F3c2IiCJy6mhP4EHQVDEe"
-        }
-      ],
-      "duration_ms": 121613,
-      "name": "De Ploem-Ploem Jenka",
-      "url": "https://open.spotify.com/track/4fZnBFGXhusQwxSGRyl1GY"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
         "name": "Het Beste van De Heikrekels - Instrumentaal",
         "url": "https://open.spotify.com/album/6FDILW7wS2fySJcupx92JG"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 184944,
       "name": "Mooier Dan Rode Rozen",
       "url": "https://open.spotify.com/track/4FV84ccMAe9cpTkMyiGGfx"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
+        "name": "Die Goeie Ouwe Tijd 2 - Top 100",
+        "url": "https://open.spotify.com/album/5v4ZgunI2ScuGPuTOv90xK"
+      },
+      "artists": [
+        {
+          "name": "Trea Dobbs",
+          "url": "https://open.spotify.com/artist/4F3c2IiCJy6mhP4EHQVDEe"
+        }
+      ],
+      "duration_ms": 121613,
+      "name": "De Ploem-Ploem Jenka",
+      "url": "https://open.spotify.com/track/4fZnBFGXhusQwxSGRyl1GY"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "Het Beste Van",
-        "url": "https://open.spotify.com/album/1XeTdhNPw6BSdPQrb13TcW"
-      },
-      "artists": [
-        {
-          "name": "Bob Benny",
-          "url": "https://open.spotify.com/artist/4quJ3J41hqATpXNJFYZHUH"
-        }
-      ],
-      "duration_ms": 151200,
-      "name": "Waar En Wanneer",
-      "url": "https://open.spotify.com/track/2zNv1HqUrYRoYCKry4P5bD"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
         "name": "De Mooiste Liedjes, Vol.1",
         "url": "https://open.spotify.com/album/5oZZQ6gRnhBlBDrrvVDPQA"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 197853,
       "name": "Hou Je Echt Nog Van Mij Rockin Billy !",
       "url": "https://open.spotify.com/track/32MfolngBWl0RVIOfWDIIu"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
+        "name": "Het Beste Van",
+        "url": "https://open.spotify.com/album/1XeTdhNPw6BSdPQrb13TcW"
+      },
+      "artists": [
+        {
+          "name": "Bob Benny",
+          "url": "https://open.spotify.com/artist/4quJ3J41hqATpXNJFYZHUH"
+        }
+      ],
+      "duration_ms": 151200,
+      "name": "Waar En Wanneer",
+      "url": "https://open.spotify.com/track/2zNv1HqUrYRoYCKry4P5bD"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
+        "name": "Hollands Glorie",
+        "url": "https://open.spotify.com/album/7Hwcw0ieQVVRrJ8pYFtZjd"
+      },
+      "artists": [
+        {
+          "name": "Heintje",
+          "url": "https://open.spotify.com/artist/2V4AS8qG0fOsXkH1AgLlB8"
+        }
+      ],
+      "duration_ms": 191866,
+      "name": "Mama Vertel Me",
+      "url": "https://open.spotify.com/track/2tSzuIy0Yhn3jcbdOdmGbm"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
         "name": "Zingt",
         "url": "https://open.spotify.com/album/1KoK4OFIIoQffVwLee1T4R"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 315853,
       "name": "Een glaasje madeira",
       "url": "https://open.spotify.com/track/6vFcFphdp1XPKuGMmnGLFd"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
-        "name": "Hollands Glorie",
-        "url": "https://open.spotify.com/album/7Hwcw0ieQVVRrJ8pYFtZjd"
-      },
-      "artists": [
-        {
-          "name": "Heintje",
-          "url": "https://open.spotify.com/artist/2V4AS8qG0fOsXkH1AgLlB8"
-        }
-      ],
-      "duration_ms": 191866,
-      "name": "Mama Vertel Me",
-      "url": "https://open.spotify.com/track/2tSzuIy0Yhn3jcbdOdmGbm"
     },
     {
       "added_at": "2024-07-19 06:41:15",

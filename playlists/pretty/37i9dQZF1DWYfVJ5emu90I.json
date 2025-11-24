@@ -1,6 +1,6 @@
 {
   "description": "Heavy beats for midnight drifting in Tokyo.",
-  "num_followers": 24393,
+  "num_followers": 24398,
   "original_name": "Tokyo Drift: \u30c8\u30fc\u30ad\u30e7\u30fc\u30fb\u30c9\u30ea\u30d5\u30c8",
   "owner": {
     "name": "Spotify",
@@ -351,18 +351,26 @@
     {
       "added_at": "2025-11-19 04:33:10",
       "album": {
-        "name": "Sightseeing",
-        "url": "https://open.spotify.com/album/1wd7y9qh1gjk2S0yHZ0oBt"
+        "name": "Assassin (feat. S.J.soldier & Carz) [Remix]",
+        "url": "https://open.spotify.com/album/1AVLaWJ2CC1dWDKfOfsx7B"
       },
       "artists": [
         {
           "name": "Ralph",
           "url": "https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0"
+        },
+        {
+          "name": "S.J.soldier",
+          "url": "https://open.spotify.com/artist/0dFj1rvEIFdLUxWCiqkCTf"
+        },
+        {
+          "name": "Carz",
+          "url": "https://open.spotify.com/artist/2C8Pd4hyOnljituQXkTLZn"
         }
       ],
-      "duration_ms": 154065,
-      "name": "Sightseeing",
-      "url": "https://open.spotify.com/track/5oSs5VhEdfF51dclcnxxq7"
+      "duration_ms": 204179,
+      "name": "Assassin (feat. S.J.soldier & Carz) - Remix",
+      "url": "https://open.spotify.com/track/2yfiMKCJryhN7QMpJbVZvf"
     },
     {
       "added_at": "2025-11-19 04:33:10",
@@ -467,26 +475,18 @@
     {
       "added_at": "2025-11-19 04:33:10",
       "album": {
-        "name": "Assassin (feat. S.J.soldier & Carz) [Remix]",
-        "url": "https://open.spotify.com/album/1AVLaWJ2CC1dWDKfOfsx7B"
+        "name": "Sightseeing",
+        "url": "https://open.spotify.com/album/1wd7y9qh1gjk2S0yHZ0oBt"
       },
       "artists": [
         {
           "name": "Ralph",
           "url": "https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0"
-        },
-        {
-          "name": "S.J.soldier",
-          "url": "https://open.spotify.com/artist/0dFj1rvEIFdLUxWCiqkCTf"
-        },
-        {
-          "name": "Carz",
-          "url": "https://open.spotify.com/artist/2C8Pd4hyOnljituQXkTLZn"
         }
       ],
-      "duration_ms": 204179,
-      "name": "Assassin (feat. S.J.soldier & Carz) - Remix",
-      "url": "https://open.spotify.com/track/2yfiMKCJryhN7QMpJbVZvf"
+      "duration_ms": 154065,
+      "name": "Sightseeing",
+      "url": "https://open.spotify.com/track/5oSs5VhEdfF51dclcnxxq7"
     },
     {
       "added_at": "2025-11-19 04:33:10",
@@ -879,26 +879,6 @@
     {
       "added_at": "2025-11-19 04:33:10",
       "album": {
-        "name": "Hot Rodder",
-        "url": "https://open.spotify.com/album/4SiEuOz8dE9Padpu7Woq85"
-      },
-      "artists": [
-        {
-          "name": "Yvng Patra",
-          "url": "https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8"
-        },
-        {
-          "name": "Oddy lozy",
-          "url": "https://open.spotify.com/artist/3SKBpwpCn3P3xCPxVhw3eb"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Hot Rodder",
-      "url": "https://open.spotify.com/track/31vWGyuri51ShwvgZ801WD"
-    },
-    {
-      "added_at": "2025-11-19 04:33:10",
-      "album": {
         "name": "BRAIN RUSH",
         "url": "https://open.spotify.com/album/7mL8jpozxu6trsgcNC76jW"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 207463,
       "name": "FEEL THE RAIN (feat. Ralph)",
       "url": "https://open.spotify.com/track/6ZB93YnsCgJjfxQ6cCwVhS"
+    },
+    {
+      "added_at": "2025-11-19 04:33:10",
+      "album": {
+        "name": "Hot Rodder",
+        "url": "https://open.spotify.com/album/4SiEuOz8dE9Padpu7Woq85"
+      },
+      "artists": [
+        {
+          "name": "Yvng Patra",
+          "url": "https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8"
+        },
+        {
+          "name": "Oddy lozy",
+          "url": "https://open.spotify.com/artist/3SKBpwpCn3P3xCPxVhw3eb"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Hot Rodder",
+      "url": "https://open.spotify.com/track/31vWGyuri51ShwvgZ801WD"
     },
     {
       "added_at": "2025-11-19 04:33:10",

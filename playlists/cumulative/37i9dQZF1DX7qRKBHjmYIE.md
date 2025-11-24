@@ -4,7 +4,7 @@
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con CA7RIEL y Paco Amoroso.
 
-960 songs - 2 day 3 hr 47 min
+961 songs - 2 day 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Ataúd](https://open.spotify.com/track/3kcJIBxTUeAkCdMiapjJNm) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [Ataúd](https://open.spotify.com/album/0yqQUNP3AgdMVsfRoxn6f8) | 3:09 | 2024-07-26 | 2025-02-10 |
 | [atelier](https://open.spotify.com/track/5miqx1IxNV0nGtOessyrqd) | [Chita](https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX) | [Atelier](https://open.spotify.com/album/6YrB9KLklcKtisYIX5LLJc) | 2:42 | 2024-05-10 | 2024-12-07 |
 | [Au](https://open.spotify.com/track/5KSaFynbMoGkXfCQ6Fbp3f) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [Au](https://open.spotify.com/album/0pUsa6Z0V47tmN6Hswy2vt) | 2:13 | 2025-03-28 | 2025-10-26 |
+| [aunquetelopida](https://open.spotify.com/track/5OszUdNFVSsd3lGIHWGRpi) | [MAGNA](https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF), [Riosse](https://open.spotify.com/artist/2j5iC8hR6INKeqJ2D1Zjiv) | [aunquetelopida](https://open.spotify.com/album/2HvFECGJfDZjGjCj4yUGsA) | 3:00 | 2025-11-21 |  |
 | [Aura \- Spanish Version](https://open.spotify.com/track/5l8bXrvNDKsc41o07lL9YN) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Aura \(Spanish Version\)](https://open.spotify.com/album/6LWAOYIqPzIdujffA7ah7W) | 3:28 | 2022-10-24 | 2023-02-17 |
 | [AUSENCIA](https://open.spotify.com/track/3Itdr4lEbPt7GK04M5Jr0P) | [Vera GRV](https://open.spotify.com/artist/03ibrSvByQ6WCX79oFaORa), [Toni Anzis](https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq) | [Se me pasó llamarte, mamá](https://open.spotify.com/album/0ObHHR5E2kkgosKn6eIXLm) | 1:50 | 2025-08-08 |  |
 | [Ay Dime](https://open.spotify.com/track/3czgClSrkQjmsGC66mHmBg) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq) | [Ay Dime](https://open.spotify.com/album/76XcPqWLY9frBI4eI7sTc2) | 3:07 | 2022-01-28 | 2022-06-04 |
@@ -183,7 +184,7 @@
 | [CONTRACORRIENTE](https://open.spotify.com/track/1hxyGrsOZYyJM2NvwtDDIE) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [DAMALEONA](https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL) | 3:25 | 2023-03-01 | 2023-07-01 |
 | [CONTRACORRIENTE](https://open.spotify.com/track/6RNtxMrTBFaZ1O80D2jsKT) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [DAMALEONA, VOL\. 1](https://open.spotify.com/album/2oObvntvGhOHUcLr6JCQFi) | 3:25 | 2023-02-17 | 2023-03-02 |
 | [Contraluz](https://open.spotify.com/track/1sVBiZA6OMCQYAaryp5Gbe) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Contraluz](https://open.spotify.com/album/3Gxm7cLKDllPSHUR1sEDyA) | 3:32 | 2023-02-02 | 2023-07-22 |
-| [contraste](https://open.spotify.com/track/2nxDBchv9ZAYLfkr7l33Gt) | [FABIAN](https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG) | [NIÑO BUENO](https://open.spotify.com/album/4WTG7l2mJEcwUdt2aIiL1e) | 3:11 | 2025-08-08 |  |
+| [contraste](https://open.spotify.com/track/2nxDBchv9ZAYLfkr7l33Gt) | [FABIAN](https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG) | [NIÑO BUENO](https://open.spotify.com/album/4WTG7l2mJEcwUdt2aIiL1e) | 3:11 | 2025-08-08 | 2025-11-24 |
 | [CONTROL](https://open.spotify.com/track/3fuMk0pP8pgZ66tWfkhUwn) | [Henao](https://open.spotify.com/artist/2tAOr6Bu4b1JDQjRZcMdML) | [CONTROL](https://open.spotify.com/album/5lt0lwe8p5UBoDjhuSe5Z9) | 3:19 | 2021-12-02 | 2022-02-10 |
 | [Control](https://open.spotify.com/track/34y3MtDxzDqPbxe9b4aGxp) | [Lara Project](https://open.spotify.com/artist/5FXxWnN3DpfSS4vbcoqvbs) | [Control](https://open.spotify.com/album/30D7J8QbuoaSFue5nfZ0cG) | 3:53 | 2022-07-20 | 2023-02-17 |
 | [Corazón](https://open.spotify.com/track/5A6SU4vLMAJZbkTy7C7xXJ) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Volver](https://open.spotify.com/album/5G5EfYBvVqanJ35F58nDLd) | 4:12 | 2025-08-01 |  |

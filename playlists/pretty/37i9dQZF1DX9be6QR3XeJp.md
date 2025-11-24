@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists from UK&IE\. Cover: Mysie
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,767 likes - 262 songs - 13 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,766 likes - 262 songs - 13 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

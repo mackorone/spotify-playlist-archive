@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBkH6REkPEr.md) - [plain]
 
 > Floor fillers and big streamers of 2014.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,178 likes - 81 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,203 likes - 81 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBkH6REkPEr.md) - [plain]
 | 68 | [Sunlight \(feat\. Years & Years\) \- Radio Edit](https://open.spotify.com/track/5r3aYGutXgsxSqB6W3RrzJ) | [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM), [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Sunlight \(feat\. Years & Years\) \[Radio Edit\]](https://open.spotify.com/album/7yDiBp7t2j6OT7KopH2ulG) | 3:13 |
 | 69 | [Walking with Elephants](https://open.spotify.com/track/6wPMapHawG4uns1R3vHzUG) | [Ten Walls](https://open.spotify.com/artist/4veIvBHKoUacjuoMOm3vsg) | [Walking With Elephants](https://open.spotify.com/album/7etzwfYztvvEQqqx9ryWxj) | 5:25 |
 | 70 | [Young Again \(feat\. Chris Jones\)](https://open.spotify.com/track/1sDq5xK0N3DSlYv4ZrIUpS) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Chris Jones](https://open.spotify.com/artist/138MRWfk2JTHgHSUxcI4bU) | [United We Are](https://open.spotify.com/album/0nPyJm67LIEB1VfPLFvBnS) | 3:39 |
-| 71 | [My Heart](https://open.spotify.com/track/08z6EsebfUH0Q6J0Wf3eWf) | [Different Heaven](https://open.spotify.com/artist/0pCGA9tdtbWwo1pKIs0CFx), [EH!DE](https://open.spotify.com/artist/1EkJy0Tz2PYa8ohGWOnqkw) | [My Heart](https://open.spotify.com/album/33Fc7E5Avn2eAM8jUNuljT) | 4:26 |
-| 72 | [Till It Hurts \(feat\. Ayden\)](https://open.spotify.com/track/6HhrMBN43RnGlGv7vIdnM5) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Ayden](https://open.spotify.com/artist/4AD3pq7Rxp3tKxr0yGp0DS) | [Till It Hurts \(feat\. Ayden\)](https://open.spotify.com/album/5j7gJBnJLzY2RGYe9ndCxZ) | 3:08 |
+| 71 | [Till It Hurts \(feat\. Ayden\)](https://open.spotify.com/track/6HhrMBN43RnGlGv7vIdnM5) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Ayden](https://open.spotify.com/artist/4AD3pq7Rxp3tKxr0yGp0DS) | [Till It Hurts \(feat\. Ayden\)](https://open.spotify.com/album/5j7gJBnJLzY2RGYe9ndCxZ) | 3:08 |
+| 72 | [My Heart](https://open.spotify.com/track/08z6EsebfUH0Q6J0Wf3eWf) | [Different Heaven](https://open.spotify.com/artist/0pCGA9tdtbWwo1pKIs0CFx), [EH!DE](https://open.spotify.com/artist/1EkJy0Tz2PYa8ohGWOnqkw) | [My Heart](https://open.spotify.com/album/33Fc7E5Avn2eAM8jUNuljT) | 4:26 |
 | 73 | [Payback](https://open.spotify.com/track/2Lv7vYpPx68ttqspWdMnvw) | [Dimitri Vangelis & Wyman](https://open.spotify.com/artist/10hGPIDZi33LRaYRIq3Bh4), [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s) | [Payback](https://open.spotify.com/album/2N6nSi9sTO5Tvfq0bEmRc0) | 5:49 |
 | 74 | [All of Me \(Tiësto's Birthday Treatment Remix\) \- Radio Edit](https://open.spotify.com/track/3OgesRs9A97HaLMZEWBM9a) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Jason Agel](https://open.spotify.com/artist/1fiatwjGipTH7cFxTeyKOP), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Love In The Future \(Special Edition\)](https://open.spotify.com/album/2buNSPalbxgT5kdFVYzfWG) | 4:11 |
 | 75 | [Sleepless \- Radio Edit](https://open.spotify.com/track/15uFqHGAOvaGCqikvgiW6w) | [CAZZETTE](https://open.spotify.com/artist/1IELhvOMg5VQlU7syRm6CS), [The High](https://open.spotify.com/artist/5mKNjpx3SmjNqtxQTmuo9Z) | [Sleepless](https://open.spotify.com/album/4pDtJD36tHdR4dVxakWBWH) | 3:41 |

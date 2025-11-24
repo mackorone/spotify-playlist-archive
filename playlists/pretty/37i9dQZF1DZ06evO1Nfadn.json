@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Maguey. The essential tracks, all in one playlist.",
-  "num_followers": 36515,
+  "num_followers": 36543,
   "original_name": "This Is Banda Maguey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aR+rgAAAAADQ0P1VGwlOGkyp/lhW4hOt",
+  "snapshot_id": "aSD9AAAAAAAZDQxCjiZAkdTid1SG27CM",
   "tracks": [
     {
       "added_at": null,
@@ -123,22 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Historia de Los Exitos",
-        "url": "https://open.spotify.com/album/5Ipj4ksIrC5Kz2bkmc6JBb"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 162500,
-      "name": "Pero Te Amo",
-      "url": "https://open.spotify.com/track/0f18aoe9EaonJuWLTUzWXE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Condor Pasa",
         "url": "https://open.spotify.com/album/2OShSLIWQPvBdO67UsCDiR"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 169953,
       "name": "El Condor Pasa",
       "url": "https://open.spotify.com/track/0aH1klQ4aifWvH8hV9MrZX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Historia de Los Exitos",
+        "url": "https://open.spotify.com/album/5Ipj4ksIrC5Kz2bkmc6JBb"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 162500,
+      "name": "Pero Te Amo",
+      "url": "https://open.spotify.com/track/0f18aoe9EaonJuWLTUzWXE"
     },
     {
       "added_at": null,
@@ -203,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Exitos En Vivo",
-        "url": "https://open.spotify.com/album/7GxLafMEpqfNA8mz8ojHbF"
+        "name": "Para Que No Me Olvides",
+        "url": "https://open.spotify.com/album/4HhljolOfX1qrERyoqog91"
       },
       "artists": [
         {
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 189880,
-      "name": "Tumbando Ca\u00f1a - Live Version",
-      "url": "https://open.spotify.com/track/6BiyJeUDaGQxAFLovnN8Za"
+      "duration_ms": 207320,
+      "name": "Aniversario de un Adi\u00f3s",
+      "url": "https://open.spotify.com/track/3iy4x55H6gGoC0NTbPLErg"
     },
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Que No Me Olvides",
-        "url": "https://open.spotify.com/album/4HhljolOfX1qrERyoqog91"
+        "name": "Exitos En Vivo",
+        "url": "https://open.spotify.com/album/7GxLafMEpqfNA8mz8ojHbF"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 207320,
-      "name": "Aniversario de un Adi\u00f3s",
-      "url": "https://open.spotify.com/track/3iy4x55H6gGoC0NTbPLErg"
+      "duration_ms": 189880,
+      "name": "Tumbando Ca\u00f1a - Live Version",
+      "url": "https://open.spotify.com/track/6BiyJeUDaGQxAFLovnN8Za"
     },
     {
       "added_at": null,
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 156706,
-      "name": "Baila Nena",
-      "url": "https://open.spotify.com/track/5Lq53c0cHdYcNxgH5JrE5t"
+      "duration_ms": 164213,
+      "name": "El Zancudito",
+      "url": "https://open.spotify.com/track/5fPtcVAyO515jP3wgloERw"
     },
     {
       "added_at": null,
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 164213,
-      "name": "El Zancudito",
-      "url": "https://open.spotify.com/track/5fPtcVAyO515jP3wgloERw"
+      "duration_ms": 156706,
+      "name": "Baila Nena",
+      "url": "https://open.spotify.com/track/5Lq53c0cHdYcNxgH5JrE5t"
     },
     {
       "added_at": null,

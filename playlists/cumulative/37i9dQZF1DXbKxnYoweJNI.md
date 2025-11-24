@@ -4,7 +4,7 @@
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: 胖虎 \(punkhoo\)
 
-3,558 songs - 8 day 15 hr 53 min
+3,559 songs - 8 day 15 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2034,6 +2034,7 @@
 | [想你想到坏掉 \- Waosuperclub X Lyndo Remix](https://open.spotify.com/track/1bEe6ihGjUMkE4sQwJiGzv) | [Dizzy Dizzo](https://open.spotify.com/artist/5rEuIFwgGGp7t4b3t8ShJw), [Waosuperclub X Lyndo](https://open.spotify.com/artist/2jO8zxwG8kauvgwy7h6HPq) | [想你想到壞掉 \(Waosuperclub X Lyndo Remix\)](https://open.spotify.com/album/71BHNrnnwWDSzGWKrHreVV) | 3:41 | 2025-10-30 | 2025-11-07 |
 | [想你想到壞掉](https://open.spotify.com/track/1Ew0pOF78ebUP7JXxxwJed) | [Dizzy Dizzo](https://open.spotify.com/artist/5rEuIFwgGGp7t4b3t8ShJw) | [想你想到壞掉](https://open.spotify.com/album/4bVGPJQ2Zm8x7pVG9spZ5n) | 3:03 | 2025-07-10 | 2025-08-01 |
 | [想你的旋律](https://open.spotify.com/track/6lDHkGyAOk1W03gp5WzZ0n) | [小玉兒Sonya](https://open.spotify.com/artist/0ddo5dsKCUPUi5EW3YDBeO) | [想你的旋律](https://open.spotify.com/album/2IOmmr7kEBZ3grDyBBEor5) | 3:38 | 2024-08-29 | 2024-09-06 |
+| [想你的時候](https://open.spotify.com/track/00rmBMx6V7CmpbZ8LQRVsI) | [宏兒 Kuan Hong](https://open.spotify.com/artist/2aKuUj6H873hTJpLeBFENe) | [想你的時候](https://open.spotify.com/album/52enCz6EEWYSf2qZ9ofI3p) | 4:28 | 2025-11-23 |  |
 | [想你的病](https://open.spotify.com/track/4E5GwYhlr4kXBaW8gTizKP) | [FH](https://open.spotify.com/artist/59LLTb4pILnKR8TjcX39IF), [三水](https://open.spotify.com/artist/1BHeIJXye6EDxkyXb8wcG1) | [想你的病](https://open.spotify.com/album/47DtyJcG8odPT8pyoUKyCH) | 2:39 | 2025-06-05 | 2025-06-20 |
 | [想像一塊冰的遷徙 Journey of Drifting Ice](https://open.spotify.com/track/63S1vXdCC8HiBxnCV0sbU8) | [Cicada](https://open.spotify.com/artist/5Od6qTN5QeUH6CyXaaZusC) | [凝視白色的邊界 Gazing the Shades of White](https://open.spotify.com/album/5x1bBOvqQs6qpUdRog6SJQ) | 6:04 | 2025-10-30 | 2025-11-07 |
 | [想像我們 \- 影集《影后》插曲](https://open.spotify.com/track/6nCmq2mgPmrWEkfOdi9u0L) | [ANGIE安吉](https://open.spotify.com/artist/4FtbSiZ7Ev2pCRnowp1WIU) | [影集《影后》感情原聲帶](https://open.spotify.com/album/6PvS1cmdGlvI8bJJ4QtOJc) | 4:01 | 2024-11-14 | 2024-12-06 |

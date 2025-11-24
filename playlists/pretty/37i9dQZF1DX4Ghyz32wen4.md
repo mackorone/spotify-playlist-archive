@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ghyz32wen4.md) - [plain]
 
 > Una selección de temas de amor y desamor, con mucho feeling\. Samantha Barrón en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,801 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,805 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [5AM](https://open.spotify.com/track/5Xjh0cG54NFtxSu1BZtzdd) | [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [5AM](https://open.spotify.com/album/5aYBh1dM3KDj0rNxbGyvIv) | 4:48 |
 | 2 | [QUIZÁS](https://open.spotify.com/track/6mD6dBmb3BIIB7NK2ZkZif) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [LEYENDA DELUXE](https://open.spotify.com/album/7ywMhF2YkS01uWLrdNBvoU) | 2:59 |
 | 3 | [Cómo Que Me Extrañas?](https://open.spotify.com/track/5yDRCvA6ZPXWs8i28mDxng) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [Fama De Ingrata](https://open.spotify.com/album/0Gkerz0nQtgjTLhcwEVyqZ) | 2:24 |
-| 4 | [Duraznos](https://open.spotify.com/track/54kURx3BaXM8nGLfymSTEK) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Segundo Acto](https://open.spotify.com/album/1LI1waANu4Ot03QFZx0tdQ) | 3:02 |
+| 4 | [Duraznos](https://open.spotify.com/track/54kURx3BaXM8nGLfymSTEK) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [SEGUNDO ACTO \(PRIMER ENCUENTRO\)](https://open.spotify.com/album/1LI1waANu4Ot03QFZx0tdQ) | 3:02 |
 | 5 | [Terrestre](https://open.spotify.com/track/6LuIdibuFSN9ojtNzO55Ca) | [J Abdiel](https://open.spotify.com/artist/17SY5q1CMOZJBRuPcKWwPI) | [Terrestre](https://open.spotify.com/album/5Tt6fQR8tjNh6Evwce7Z2f) | 2:28 |
 | 6 | [F.O.M.O.](https://open.spotify.com/track/5FJkV2rJ9Jzv7RKftVGC8W) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [F.O.M.O.](https://open.spotify.com/album/7Gwo4hNjLKePa2S138GEUm) | 3:54 |
 | 7 | [Ya Dieron las 2](https://open.spotify.com/track/1CKBhJw7smOgJWkWKdeSDN) | [Jan Blakeee](https://open.spotify.com/artist/3r0kkjcXjHeym35lYmeEC6), [Derek Santana](https://open.spotify.com/artist/5NX9cIWJ0YF8qUugwmiacs), [DIA](https://open.spotify.com/artist/7xVUa8mqwCgdu4mQn3geCY), [Fabriell](https://open.spotify.com/artist/7sR2VU3zdYk41TJ6HcVQF6) | [Ya Dieron las 2](https://open.spotify.com/album/2n11u61KChNIg34yHahIUx) | 4:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ghyz32wen4.md) - [plain]
 | 99 | [Bemaste](https://open.spotify.com/track/1caKQ2Nqtr1eoczaB83cUz) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Bemaste](https://open.spotify.com/album/0A3QuRFlfoqdw8sIH9C9OO) | 2:24 |
 | 100 | [Reina Pepiada](https://open.spotify.com/track/3yJ8buQlPzQtHyCicOGDJ0) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [Diaz Antes](https://open.spotify.com/album/5gk9ozZKJuosICdYgwa5JW) | 4:04 |
 
-Snapshot ID: `AAAAAC9FHG3oI+yzHdASO4myy+1abBs1`
+Snapshot ID: `AAAAAC9gbWZfT/HSUtske1piAlRstGI3`
